@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-21, 22:51:08",
+      "https://news.ycombinator.com/item?id=32932643"
+    ],
+    [
+      "Using a Canon EOS camera as a webcam in Debian",
+      "https://www.schlachter.xyz/projects/debian-dslr-webcam-with-secure-boot"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 22:50:12",
+      "https://news.ycombinator.com/item?id=32932631"
+    ],
+    [
+      "Olive.c: a simple graphics library that does not have any dependencies",
+      "https://tsoding.org/olive.c/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 22:30:49",
+      "https://news.ycombinator.com/item?id=32932438"
+    ],
+    [
+      "The IT Crowd US Pilot",
+      "https://archive.org/details/the-it-crowd-us-pilot"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 22:01:24",
       "https://news.ycombinator.com/item?id=32932137"
     ],
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2022-09-21, 14:02:49",
-      "https://news.ycombinator.com/item?id=32925302"
-    ],
-    [
-      "Genome-wide association of musical beat synchronization shows high polygenicity",
-      "https://www.nature.com/articles/s41562-022-01359-x"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 12:41:57",
-      "https://news.ycombinator.com/item?id=32924195"
-    ],
-    [
-      "Pliant language and FullPliant operating system",
-      "http://www.fullpliant.org/"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 10:50:03",
       "https://news.ycombinator.com/item?id=32923226"
     ],
     [
       "Effects of grill patterns on fan performance/noise (2011)",
       "https://www.pugetsystems.com/labs/articles/Effects-of-Grill-Patterns-on-Fan-Performance-Noise-107/"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 09:31:38",
-      "https://news.ycombinator.com/item?id=32922609"
-    ],
-    [
-      "Innernet: A private network system that uses WireGuard under the hood",
-      "https://github.com/tonarino/innernet"
     ]
   ],
   [
