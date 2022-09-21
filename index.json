@@ -1,6 +1,76 @@
 [
   [
     [
+      "2022-09-21, 12:43:15",
+      "https://news.ycombinator.com/item?id=32924212"
+    ],
+    [
+      "Show HN: Send a GitHub webhook to a private URL",
+      "https://github.com/openziti-test-kitchen/webhookz"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 12:41:57",
+      "https://news.ycombinator.com/item?id=32924195"
+    ],
+    [
+      "Pliant language and FullPliant operating system",
+      "http://www.fullpliant.org/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 12:16:39",
+      "https://news.ycombinator.com/item?id=32923928"
+    ],
+    [
+      "Next steps for Rust in the kernel",
+      "https://lwn.net/SubscriberLink/908347/da67a5162d1bc4a3/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 12:08:05",
+      "https://news.ycombinator.com/item?id=32923851"
+    ],
+    [
+      "Show HN: OpenZiti Python SDK",
+      "https://openziti.io/openziti-python-sdk-introduction"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 11:59:28",
+      "https://news.ycombinator.com/item?id=32923775"
+    ],
+    [
+      "Karelian Question",
+      "https://en.wikipedia.org/wiki/Karelian_question"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 11:49:46",
+      "https://news.ycombinator.com/item?id=32923693"
+    ],
+    [
+      "An anonymous donor just sent 299 Ether (equivalent to 393k USD) to redox_OS",
+      "https://twitter.com/jeremy_soller/status/1572350419594268673"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 11:12:25",
+      "https://news.ycombinator.com/item?id=32923398"
+    ],
+    [
+      "The De-Population Bomb",
+      "https://www.hoover.org/research/de-population-bomb"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 11:11:52",
       "https://news.ycombinator.com/item?id=32923390"
     ],
@@ -11,12 +81,32 @@
   ],
   [
     [
+      "2022-09-21, 11:07:06",
+      "https://news.ycombinator.com/item?id=32923351"
+    ],
+    [
+      "A Climate Love Story",
+      "https://dothemath.ucsd.edu/2022/09/a-climate-love-story/"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 10:58:13",
       "https://news.ycombinator.com/item?id=32923275"
     ],
     [
       "Entitlement in Open Source",
       "https://mikemcquaid.com/entitlement-in-open-source/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 10:50:03",
+      "https://news.ycombinator.com/item?id=32923226"
+    ],
+    [
+      "Effects of grill patterns on fan performance/noise (2011)",
+      "https://www.pugetsystems.com/labs/articles/Effects-of-Grill-Patterns-on-Fan-Performance-Noise-107/"
     ]
   ],
   [
@@ -71,16 +161,6 @@
   ],
   [
     [
-      "2022-09-21, 05:35:43",
-      "https://news.ycombinator.com/item?id=32921157"
-    ],
-    [
-      "Hotel safety tips from a former intelligence officer",
-      "https://www.securitymagazine.com/blogs/14-security-blog/post/89106-hotel-safety-tips-from-a-former-intelligence-officer"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 05:33:47",
       "https://news.ycombinator.com/item?id=32921145"
     ],
@@ -111,21 +191,11 @@
   ],
   [
     [
-      "2022-09-21, 03:35:05",
-      "https://news.ycombinator.com/item?id=32920577"
-    ],
-    [
-      "Ask HN: Do you regret being a generalist?",
-      "https://news.ycombinator.com/item?id=32920577"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 02:28:09",
       "https://news.ycombinator.com/item?id=32920235"
     ],
     [
-      "Betterbird is a fine-tuned version of Mozilla Thunderbird email client",
+      "Betterbird: a fine-tuned version of Mozilla Thunderbird",
       "https://www.betterbird.eu/##"
     ]
   ],
@@ -147,66 +217,6 @@
     [
       "Backend for Front-end",
       "https://blog.frankel.ch/backend-for-frontend/"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 21:52:53",
-      "https://news.ycombinator.com/item?id=32918301"
-    ],
-    [
-      "Upcyling a 40-year-old Tandy Model 100 Portable Computer",
-      "https://spectrum.ieee.org/upcycle-a-vintage-lcd"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 20:33:35",
-      "https://news.ycombinator.com/item?id=32917407"
-    ],
-    [
-      "YouTube’s ‘dislike’ barely works according to new study on recommendations",
-      "https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 20:27:43",
-      "https://news.ycombinator.com/item?id=32917340"
-    ],
-    [
-      "Fork of the popular “I don't care about cookies” extension",
-      "https://github.com/OhMyGuus/I-Dont-Care-About-Cookies"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 20:00:40",
-      "https://news.ycombinator.com/item?id=32916994"
-    ],
-    [
-      "Philosophy of mathematics – a reading list (2020)",
-      "https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 19:01:39",
-      "https://news.ycombinator.com/item?id=32916318"
-    ],
-    [
-      "LibRedirect: Redirect YouTube, Twitter, Instagram to privacy friendly services",
-      "https://github.com/libredirect/libredirect"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 18:25:43",
-      "https://news.ycombinator.com/item?id=32915854"
-    ],
-    [
-      "Show HN: TaskTXT, plain text task-timing notepad",
-      "https://tasktxt.com/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2022-09-20, 14:23:43",
-      "https://news.ycombinator.com/item?id=32912046"
-    ],
-    [
-      "gPodder: A simple, open-source podcast client",
-      "https://gpodder.github.io/"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 13:22:48",
       "https://news.ycombinator.com/item?id=32911299"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-09-19, 16:05:09",
-      "https://news.ycombinator.com/item?id=32900173"
+      "2022-09-20, 04:48:29",
+      "https://news.ycombinator.com/item?id=32907768"
     ],
     [
-      "Disentangling the facts from the hype of quantum computing",
-      "https://spectrum.ieee.org/ieee-quantum-week"
+      "Vietnam’s Ancient Whale Temples Are Helping Science",
+      "https://www.atlasobscura.com/articles/whale-temples-vietnam"
     ]
   ],
   [
