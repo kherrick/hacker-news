@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-22, 17:00:23",
+      "https://news.ycombinator.com/item?id=32941630"
+    ],
+    [
+      "Hightouch (YC S19) Is Hiring an Engineering Manager",
+      "https://boards.greenhouse.io/hightouch/jobs/4580317004"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 16:17:59",
+      "https://news.ycombinator.com/item?id=32941051"
+    ],
+    [
+      "Google wants to take on Dolby with new open media formats",
+      "https://www.protocol.com/entertainment/google-dolby-atmos-vision-project-caviar"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 15:54:04",
+      "https://news.ycombinator.com/item?id=32940701"
+    ],
+    [
+      "TimescaleDB 2.7 vs. PostgreSQL 14",
+      "https://www.timescale.com/blog/postgresql-timescaledb-1000x-faster-queries-90-data-compression-and-much-more/"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 15:12:35",
       "https://news.ycombinator.com/item?id=32939981"
     ],
@@ -41,16 +71,6 @@
   ],
   [
     [
-      "2022-09-22, 14:03:15",
-      "https://news.ycombinator.com/item?id=32938880"
-    ],
-    [
-      "Wasp (YC W21) is hiring eng to work on DSL for making web apps (compiler, webdev)",
-      "https://news.ycombinator.com/item?id=32938880"
-    ]
-  ],
-  [
-    [
       "2022-09-22, 13:41:57",
       "https://news.ycombinator.com/item?id=32938622"
     ],
@@ -87,16 +107,6 @@
     [
       "Censorship by big tech at the behest of the U.S. government?",
       "https://www.tabletmag.com/sections/arts-letters/articles/government-privatized-censorship-regime"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 13:09:40",
-      "https://news.ycombinator.com/item?id=32938304"
-    ],
-    [
-      "ZincSearch – lightweight alternative to Elasticsearch written in Go",
-      "https://zincsearch.com/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "System memory allocator free operation zeroes out deallocated blocks in iOS 16",
       "https://mjtsai.com/blog/2022/09/20/zeroing-freed-memory/"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 06:45:03",
-      "https://news.ycombinator.com/item?id=32921551"
-    ],
-    [
-      "Electrically heated clothing (2013)",
-      "https://www.lowtechmagazine.com/2013/11/heat-your-clothes-not-your-house.html"
     ]
   ],
   [
