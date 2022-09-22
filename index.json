@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-22, 20:00:02",
+      "https://news.ycombinator.com/item?id=32943904"
+    ],
+    [
+      "Luxury Media",
+      "https://www.tbray.org/ongoing/When/202x/2022/09/21/Luxury-Media"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 19:58:20",
       "https://news.ycombinator.com/item?id=32943890"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2022-09-22, 19:11:11",
+      "https://news.ycombinator.com/item?id=32943330"
+    ],
+    [
+      "Running a Docker Host under OpenBSD using vmd(8)",
+      "https://www.tumfatig.net/2022/running-docker-host-openbsd-vmd/"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 19:03:17",
       "https://news.ycombinator.com/item?id=32943224"
     ],
@@ -47,16 +67,6 @@
     [
       "Pgsqlite: a pure Python module to import SQLite databases into Postgres",
       "https://innerjoin.bit.io/introducing-pgsqlite-a-pure-python-module-to-import-sqlite-databases-into-postgres-bf3940cfa19f"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 18:12:38",
-      "https://news.ycombinator.com/item?id=32942579"
-    ],
-    [
-      "Extending supabase with your own back end – its supa easy",
-      "https://blog.xa0.de/post/Extending-supabase-with-your-own-backend%20---%20its-supa-easy%21/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "TimescaleDB 2.7 vs. PostgreSQL 14",
       "https://www.timescale.com/blog/postgresql-timescaledb-1000x-faster-queries-90-data-compression-and-much-more/"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 15:12:35",
-      "https://news.ycombinator.com/item?id=32939981"
-    ],
-    [
-      "Gender and Age Differences in Love Styles and Attitudes",
-      "https://www.dimensional.me/blog/gender-differences-in-love-attitudes-and-expression"
     ]
   ],
   [
@@ -161,12 +161,12 @@
   ],
   [
     [
-      "2022-09-22, 12:52:29",
-      "https://news.ycombinator.com/item?id=32938135"
+      "2022-09-22, 13:09:43",
+      "https://news.ycombinator.com/item?id=32938305"
     ],
     [
-      "C++ by Example",
-      "https://cppbyexample.com"
+      "Censorship by big tech at the behest of the U.S. government?",
+      "https://www.tabletmag.com/sections/arts-letters/articles/government-privatized-censorship-regime"
     ]
   ],
   [
@@ -207,6 +207,16 @@
     [
       "Show HN: Rocketry – Statement-based scheduling framework for Python",
       "https://github.com/Miksus/rocketry"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 06:27:07",
+      "https://news.ycombinator.com/item?id=32935386"
+    ],
+    [
+      "Migration came to Early Medieval England, study finds",
+      "https://www.medievalists.net/2022/09/massive-migration-came-to-early-medieval-england-study-finds/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I spent two years trying to do what Backstage does for free",
       "https://stackoverflow.blog/2022/09/19/i-spent-two-years-trying-to-do-what-backstage-does-for-free/"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 08:00:43",
-      "https://news.ycombinator.com/item?id=32908949"
-    ],
-    [
-      "SingleStore’s Skiplist Indexes",
-      "https://www.singlestore.com/blog/what-is-skiplist-why-skiplist-index-for-memsql/"
     ]
   ]
 ]
