@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-22, 00:56:33",
+      "https://news.ycombinator.com/item?id=32933603"
+    ],
+    [
+      "The Deceiving Stretch of Water with 100% Mortality Rate",
+      "https://the-yorkshireman.com/the-strid/"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 22:51:08",
       "https://news.ycombinator.com/item?id=32932643"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2022-09-21, 21:25:33",
-      "https://news.ycombinator.com/item?id=32931713"
-    ],
-    [
-      "Skipping the boring parts of building a database using FoundationDB",
-      "https://blog.tigrisdata.com/building-a-database-using-foundationdb"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 20:29:53",
       "https://news.ycombinator.com/item?id=32931096"
     ],
@@ -67,6 +67,16 @@
     [
       "A text adventure game on TypeScript's type system",
       "https://github.com/cassiozen/TDungeon"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 18:44:01",
+      "https://news.ycombinator.com/item?id=32929507"
+    ],
+    [
+      "Neutralisation of cockroaches with laser automated by machine vision",
+      "https://www.researchgate.net/publication/363699728_Selective_neutralisation_and_deterring_of_cockroaches_with_laser_automated_by_machine_vision"
     ]
   ],
   [
@@ -101,32 +111,12 @@
   ],
   [
     [
-      "2022-09-21, 18:14:11",
-      "https://news.ycombinator.com/item?id=32928995"
-    ],
-    [
-      "Some statistics about BTRFS compression",
-      "https://dataswamp.org/~solene/2022-09-21-btrfs-compression.html"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 17:21:20",
       "https://news.ycombinator.com/item?id=32928298"
     ],
     [
       "Will serving real HTML content make a website faster?",
       "https://blog.webpagetest.org/posts/will-html-content-make-site-faster/"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 16:50:16",
-      "https://news.ycombinator.com/item?id=32927848"
-    ],
-    [
-      "Meta and Google are cutting staff",
-      "https://www.wsj.com/articles/meta-and-google-are-cutting-staff-just-dont-mention-layoffs-11663778729"
     ]
   ],
   [
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2022-09-21, 10:50:03",
-      "https://news.ycombinator.com/item?id=32923226"
+      "2022-09-21, 14:08:41",
+      "https://news.ycombinator.com/item?id=32925379"
     ],
     [
-      "Effects of grill patterns on fan performance/noise (2011)",
-      "https://www.pugetsystems.com/labs/articles/Effects-of-Grill-Patterns-on-Fan-Performance-Noise-107/"
+      "Websdr.org – Software-Defined Radio receiver connected to the internet",
+      "http://websdr.org/"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2022-09-20, 05:48:50",
-      "https://news.ycombinator.com/item?id=32908106"
+      "2022-09-21, 06:55:54",
+      "https://news.ycombinator.com/item?id=32921619"
     ],
     [
-      "What the Queen's English revealed about a changing world",
-      "https://www.bbc.com/future/article/20220915-what-the-queens-english-told-us-about-a-changing-world"
+      "Walkmp3rson Is an MP3 Player Like Sony Never Made",
+      "https://hackaday.com/2022/09/20/walkmp3rson-is-an-mp3-player-like-sony-never-made/"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 17:45:47",
+      "https://news.ycombinator.com/item?id=32915207"
+    ],
+    [
+      "Mapping the unknown – Steps to map any industry",
+      "https://steveblank.com/2022/09/20/mapping-the-unknown-the-ten-steps-to-map-any-industry/"
     ]
   ]
 ]
