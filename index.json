@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-09-22, 20:16:45",
+      "https://news.ycombinator.com/item?id=32944069"
+    ],
+    [
+      "TLDR explains what a piece of code does",
+      "https://twitter.com/marcelpociot/status/1572690548074348549"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 20:00:02",
       "https://news.ycombinator.com/item?id=32943904"
     ],
@@ -35,8 +45,8 @@
       "https://news.ycombinator.com/item?id=32943477"
     ],
     [
-      "Japan will allow visa-free, individual tourism from Oct. 11",
-      "https://twitter.com/japantimes/status/1572962383252934656"
+      "Japan to reopen to independent travelers and lift daily arrival cap",
+      "https://www.japantimes.co.jp/news/2022/09/23/national/kishida-japan-border-opening/"
     ]
   ],
   [
@@ -81,21 +91,11 @@
   ],
   [
     [
-      "2022-09-22, 18:32:36",
-      "https://news.ycombinator.com/item?id=32942820"
-    ],
-    [
-      "Pgsqlite: a pure Python module to import SQLite databases into Postgres",
-      "https://innerjoin.bit.io/introducing-pgsqlite-a-pure-python-module-to-import-sqlite-databases-into-postgres-bf3940cfa19f"
-    ]
-  ],
-  [
-    [
       "2022-09-22, 17:46:00",
       "https://news.ycombinator.com/item?id=32942260"
     ],
     [
-      "AlphaFold developers win US$3M Breakthrough Prize",
+      "AlphaFold developers win $3M breakthrough prize",
       "https://www.nature.com/articles/d41586-022-02999-9"
     ]
   ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2022-09-21, 21:56:29",
-      "https://news.ycombinator.com/item?id=32932082"
+      "2022-09-22, 06:27:07",
+      "https://news.ycombinator.com/item?id=32935386"
     ],
     [
-      "Did Neanderthals make art?",
-      "https://www.sapiens.org/archaeology/did-neanderthals-make-art/"
+      "Migration came to Early Medieval England, study finds",
+      "https://www.medievalists.net/2022/09/massive-migration-came-to-early-medieval-england-study-finds/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=32917730"
     ],
     [
-      "A Long-Haul Flight with No Breaks or Meals: The Godwit’s Epic Journey",
+      "A long-haul flight with no breaks or meals: The godwit’s epic journey",
       "https://www.nytimes.com/2022/09/20/science/migratory-birds-godwits.html"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=32909903"
     ],
     [
-      "Ruby Built-In Hash Persistence",
+      "Pstore: Ruby Built-In Hash Persistence",
       "https://github.com/ruby/pstore"
     ]
   ],
