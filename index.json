@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-09-22, 18:32:36",
+      "https://news.ycombinator.com/item?id=32942820"
+    ],
+    [
+      "Pgsqlite: a pure Python module to import SQLite databases into Postgres",
+      "https://innerjoin.bit.io/introducing-pgsqlite-a-pure-python-module-to-import-sqlite-databases-into-postgres-bf3940cfa19f"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 18:12:38",
       "https://news.ycombinator.com/item?id=32942579"
     ],
@@ -137,16 +147,6 @@
     [
       "Bitmap Indexes in Go: Search Speed (2019)",
       "https://habr.com/en/company/badoo/blog/455608/"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 12:23:21",
-      "https://news.ycombinator.com/item?id=32937876"
-    ],
-    [
-      "Chainalysis: A startup that helps governments trace crypto",
-      "https://www.bloomberg.com/news/articles/2022-09-21/crypto-tracer-chainalysis-busts-bitcoin-btc-anonymity"
     ]
   ],
   [
