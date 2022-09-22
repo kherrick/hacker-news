@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-09-22, 14:25:57",
-      "https://news.ycombinator.com/item?id=32939200"
+      "2022-09-22, 14:39:52",
+      "https://news.ycombinator.com/item?id=32939407"
     ],
     [
-      "$120k a year for Slack with 1k users",
-      "https://twitter.com/levelsio/status/1572941045146451976"
+      "Show HN: I made an open-source Bitly alternative",
+      "https://dub.sh/"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 14:32:34",
+      "https://news.ycombinator.com/item?id=32939301"
+    ],
+    [
+      "American Data Privacy and Protection Act",
+      "https://www.congress.gov/bill/117th-congress/house-bill/8152/text"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32939058"
     ],
     [
-      "The Road to Realistic Full-Body Deepfakes",
+      "The road to realistic full-body deepfakes",
       "https://metaphysic.ai/the-road-to-realistic-full-body-deepfakes/"
     ]
   ],
@@ -31,21 +41,11 @@
   ],
   [
     [
-      "2022-09-22, 13:48:10",
-      "https://news.ycombinator.com/item?id=32938694"
-    ],
-    [
-      "Web Scraping with C++",
-      "https://www.scrapingbee.com/blog/web-scraping-c++/"
-    ]
-  ],
-  [
-    [
       "2022-09-22, 13:41:57",
       "https://news.ycombinator.com/item?id=32938622"
     ],
     [
-      "Facebook Proven to Negatively Impact Mental Health",
+      "Facebook proven to negatively impact mental health",
       "https://english.tau.ac.il/science_links_facebook_mental_health"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "Jakarta EE 10",
       "https://jakarta.ee/news/jakarta-ee-10-released/"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 13:13:46",
-      "https://news.ycombinator.com/item?id=32938345"
-    ],
-    [
-      "Remote workers are wasting their time proving they’re working",
-      "https://www.vox.com/recode/2022/9/22/23360887/remote-work-productivity-theater-back-to-office"
     ]
   ],
   [
@@ -141,12 +131,32 @@
   ],
   [
     [
+      "2022-09-22, 12:09:29",
+      "https://news.ycombinator.com/item?id=32937736"
+    ],
+    [
+      "Engine makers sound downbeat on supersonic, leaving Boom in a bind",
+      "https://www.flightglobal.com/airframers/engine-makers-sound-downbeat-on-supersonic-leaving-boom-in-a-bind/150215.article"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 12:06:42",
       "https://news.ycombinator.com/item?id=32937710"
     ],
     [
       "Facebook sued for skirting Apple privacy rules to snoop on users",
       "https://www.bloomberg.com/news/articles/2022-09-22/meta-sued-for-skirting-apple-privacy-rules-to-snoop-on-users"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 11:42:54",
+      "https://news.ycombinator.com/item?id=32937523"
+    ],
+    [
+      "I came up with a better way to communicate with users",
+      "https://news.ycombinator.com/item?id=32937523"
     ]
   ],
   [
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=32936436"
     ],
     [
-      "Lose Weight the Slow and Difficult Way",
+      "Lose weight the slow and incredibly difficult way",
       "https://nautil.us/lose-weight-the-slow-and-incredibly-difficult-way-239703/"
     ]
   ],
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=32932082"
     ],
     [
-      "Did Neanderthals Make Art?",
+      "Did Neanderthals make art?",
       "https://www.sapiens.org/archaeology/did-neanderthals-make-art/"
     ]
   ],
@@ -241,32 +251,22 @@
   ],
   [
     [
-      "2022-09-21, 14:25:04",
-      "https://news.ycombinator.com/item?id=32925582"
-    ],
-    [
-      "How memory design optimizes system performance",
-      "https://semiengineering.com/how-memory-design-optimizes-system-performance/"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 11:33:16",
-      "https://news.ycombinator.com/item?id=32923567"
-    ],
-    [
-      "Museums on prescription: Brussels tests cultural visits to treat anxiety",
-      "https://www.theguardian.com/world/2022/sep/17/museums-on-prescription-brussels-tests-cultural-visits-to-treat-anxiety"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 07:43:23",
       "https://news.ycombinator.com/item?id=32921910"
     ],
     [
       "System memory allocator free operation zeroes out deallocated blocks in iOS 16",
       "https://mjtsai.com/blog/2022/09/20/zeroing-freed-memory/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 06:45:03",
+      "https://news.ycombinator.com/item?id=32921551"
+    ],
+    [
+      "Heat Your Clothes, Not Your House (2013)",
+      "https://www.lowtechmagazine.com/2013/11/heat-your-clothes-not-your-house.html"
     ]
   ],
   [
