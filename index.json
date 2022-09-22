@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-22, 21:57:24",
+      "https://news.ycombinator.com/item?id=32945147"
+    ],
+    [
+      "PayPal closes account of UK's Free Speech Union without explanation",
+      "https://lauradodsworth.substack.com/p/paypal-censors-free-speech-union"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 21:38:19",
+      "https://news.ycombinator.com/item?id=32944956"
+    ],
+    [
+      "Why adults still dream about school",
+      "https://www.theatlantic.com/family/archive/2022/09/why-school-haunts-our-dreams-long-after-graduation/671506/"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 21:00:23",
       "https://news.ycombinator.com/item?id=32944570"
     ],
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2022-09-22, 18:08:21",
+      "https://news.ycombinator.com/item?id=32942540"
+    ],
+    [
+      "Florida to Supreme Court: Let us regulate social networks as common carriers",
+      "https://arstechnica.com/tech-policy/2022/09/florida-to-supreme-court-let-us-regulate-social-networks-as-common-carriers/"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 17:46:00",
       "https://news.ycombinator.com/item?id=32942260"
     ],
@@ -107,16 +137,6 @@
     [
       "Google wants to take on Dolby with new open media formats",
       "https://www.protocol.com/entertainment/google-dolby-atmos-vision-project-caviar"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 15:54:04",
-      "https://news.ycombinator.com/item?id=32940701"
-    ],
-    [
-      "TimescaleDB 2.7 vs. PostgreSQL 14",
-      "https://www.timescale.com/blog/postgresql-timescaledb-1000x-faster-queries-90-data-compression-and-much-more/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-09-22, 06:27:07",
-      "https://news.ycombinator.com/item?id=32935386"
-    ],
-    [
-      "Migration came to Early Medieval England, study finds",
-      "https://www.medievalists.net/2022/09/massive-migration-came-to-early-medieval-england-study-finds/"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 16:49:13",
       "https://news.ycombinator.com/item?id=32927841"
     ],
@@ -247,16 +257,6 @@
     [
       "System memory allocator free operation zeroes out deallocated blocks in iOS 16",
       "https://mjtsai.com/blog/2022/09/20/zeroing-freed-memory/"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 01:21:53",
-      "https://news.ycombinator.com/item?id=32919896"
-    ],
-    [
-      "HP Saturn",
-      "https://en.wikipedia.org/wiki/HP_Saturn"
     ]
   ],
   [
