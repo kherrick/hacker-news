@@ -1,6 +1,96 @@
 [
   [
     [
+      "2022-09-22, 13:37:42",
+      "https://news.ycombinator.com/item?id=32938589"
+    ],
+    [
+      "Google loses EU appeal and is fined a record $4B",
+      "https://www.axios.com/2022/09/14/google-loses-appeal-eu-antitrust-ruling"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 13:25:42",
+      "https://news.ycombinator.com/item?id=32938467"
+    ],
+    [
+      "The Next Silicon Valley Will Be in the US Heartland",
+      "https://www.wired.com/story/the-next-silicon-valley-will-be-in-the-us-heartlands/"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 13:24:50",
+      "https://news.ycombinator.com/item?id=32938457"
+    ],
+    [
+      "First new Jakarta EE (Java EE) release in years; Jakarta EE 10 released",
+      "https://jakarta.ee/news/jakarta-ee-10-released/"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 13:09:43",
+      "https://news.ycombinator.com/item?id=32938305"
+    ],
+    [
+      "Censorship by big tech at the behest of the U.S. government",
+      "https://www.tabletmag.com/sections/arts-letters/articles/government-privatized-censorship-regime"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 13:09:40",
+      "https://news.ycombinator.com/item?id=32938304"
+    ],
+    [
+      "ZincSearch – lightweight alternative to Elasticsearch written in Go",
+      "https://zincsearch.com/"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 12:52:29",
+      "https://news.ycombinator.com/item?id=32938135"
+    ],
+    [
+      "C++ by Example",
+      "https://cppbyexample.com"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 12:29:35",
+      "https://news.ycombinator.com/item?id=32937930"
+    ],
+    [
+      "Bitmap Indexes in Go: Search Speed (2019)",
+      "https://habr.com/en/company/badoo/blog/455608/"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 12:23:21",
+      "https://news.ycombinator.com/item?id=32937876"
+    ],
+    [
+      "Chainalysis: A startup that helps governments trace crypto",
+      "https://www.bloomberg.com/news/articles/2022-09-21/crypto-tracer-chainalysis-busts-bitcoin-btc-anonymity"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 12:18:34",
+      "https://news.ycombinator.com/item?id=32937828"
+    ],
+    [
+      "The origin of the strong form of superconductivity",
+      "https://www.quantamagazine.org/high-temperature-superconductivity-understood-at-last-20220921/"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 12:09:29",
       "https://news.ycombinator.com/item?id=32937736"
     ],
@@ -11,22 +101,22 @@
   ],
   [
     [
+      "2022-09-22, 12:06:42",
+      "https://news.ycombinator.com/item?id=32937710"
+    ],
+    [
+      "Facebook sued for skirting Apple privacy rules to snoop on users",
+      "https://www.bloomberg.com/news/articles/2022-09-22/meta-sued-for-skirting-apple-privacy-rules-to-snoop-on-users"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 11:42:54",
       "https://news.ycombinator.com/item?id=32937523"
     ],
     [
       "I came up with a better way to communicate with users",
       "https://news.ycombinator.com/item?id=32937523"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 09:53:29",
-      "https://news.ycombinator.com/item?id=32936746"
-    ],
-    [
-      "Exploring Lock-Free Rust (2017)",
-      "https://morestina.net/blog/742/exploring-lock-free-rust-1-locks"
     ]
   ],
   [
@@ -81,16 +171,6 @@
   ],
   [
     [
-      "2022-09-22, 01:54:20",
-      "https://news.ycombinator.com/item?id=32933991"
-    ],
-    [
-      "Cinder: Meta's internal performance-oriented production version of CPython",
-      "https://github.com/facebookincubator/cinder"
-    ]
-  ],
-  [
-    [
       "2022-09-22, 00:56:33",
       "https://news.ycombinator.com/item?id=32933603"
     ],
@@ -131,62 +211,12 @@
   ],
   [
     [
-      "2022-09-21, 22:01:24",
-      "https://news.ycombinator.com/item?id=32932137"
-    ],
-    [
-      "Ask HN: Why is Microsoft Teams still so bad?",
-      "https://news.ycombinator.com/item?id=32932137"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 20:29:53",
-      "https://news.ycombinator.com/item?id=32931096"
-    ],
-    [
-      "AWS vs. GCP reliability is wildly different",
-      "https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 18:44:01",
-      "https://news.ycombinator.com/item?id=32929507"
-    ],
-    [
-      "Neutralisation of cockroaches with laser automated by machine vision",
-      "https://www.researchgate.net/publication/363699728_Selective_neutralisation_and_deterring_of_cockroaches_with_laser_automated_by_machine_vision"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 16:16:16",
       "https://news.ycombinator.com/item?id=32927360"
     ],
     [
       "Whisper – open source speech recognition by OpenAI",
       "https://openai.com/blog/whisper/"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 16:04:28",
-      "https://news.ycombinator.com/item?id=32927156"
-    ],
-    [
-      "New Webb image captures clearest view of Neptune’s rings in decades",
-      "https://www.nasa.gov/feature/goddard/2022/new-webb-image-captures-clearest-view-of-neptune-s-rings-in-decades/"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 15:19:36",
-      "https://news.ycombinator.com/item?id=32926369"
-    ],
-    [
-      "The Framework Laptop Chromebook Edition",
-      "https://frame.work/at/en/blog/introducing-the-framework-laptop-chromebook-edition"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2022-09-21, 15:06:52",
-      "https://news.ycombinator.com/item?id=32926206"
-    ],
-    [
-      "What Does the Post Crash VC Market Look Like?",
-      "https://bothsidesofthetable.com/what-does-the-post-crash-vc-market-look-like-ed81cd884021?gi=4617a961d30d"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 14:25:04",
       "https://news.ycombinator.com/item?id=32925582"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-09-21, 14:08:41",
-      "https://news.ycombinator.com/item?id=32925379"
-    ],
-    [
-      "WebSDR: Software-Defined Radio receiver connected to the internet",
-      "http://websdr.org/"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 11:33:16",
       "https://news.ycombinator.com/item?id=32923567"
     ],
     [
       "Museums on prescription: Brussels tests cultural visits to treat anxiety",
       "https://www.theguardian.com/world/2022/sep/17/museums-on-prescription-brussels-tests-cultural-visits-to-treat-anxiety"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 10:07:40",
-      "https://news.ycombinator.com/item?id=32922901"
-    ],
-    [
-      "Traditional packaging is not suitable for modern applications?",
-      "https://theevilskeleton.gitlab.io/2022/08/29/traditional-packaging-is-not-suitable-for-modern-applications.html"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2022-09-20, 22:52:52",
-      "https://news.ycombinator.com/item?id=32918849"
-    ],
-    [
-      "Watching 'Spirited Away' again, and again",
-      "https://www.theatlantic.com/culture/archive/2022/09/rewatching-spirited-away-hayao-miyazaki/671486/"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 21:28:46",
       "https://news.ycombinator.com/item?id=32918043"
     ],
     [
       "Lockfree Algorithms (2010)",
       "https://www.1024cores.net/home/lock-free-algorithms"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 20:59:45",
+      "https://news.ycombinator.com/item?id=32917730"
+    ],
+    [
+      "A Long-Haul Flight with No Breaks or Meals: The Godwit’s Epic Journey",
+      "https://www.nytimes.com/2022/09/20/science/migratory-birds-godwits.html"
     ]
   ],
   [
