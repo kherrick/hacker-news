@@ -1,22 +1,22 @@
 [
   [
     [
-      "2022-09-22, 11:23:19",
-      "https://news.ycombinator.com/item?id=32937397"
+      "2022-09-22, 12:09:29",
+      "https://news.ycombinator.com/item?id=32937736"
     ],
     [
-      "FB, Instagram, WhatsApp blocking Iranian accounts, even outside the country",
-      "https://twitter.com/YourAnonCentral/status/1572765009972989954"
+      "Engine makers sound downbeat on supersonic, leaving Boom in a bind",
+      "https://www.flightglobal.com/airframers/engine-makers-sound-downbeat-on-supersonic-leaving-boom-in-a-bind/150215.article"
     ]
   ],
   [
     [
-      "2022-09-22, 10:42:17",
-      "https://news.ycombinator.com/item?id=32937086"
+      "2022-09-22, 11:42:54",
+      "https://news.ycombinator.com/item?id=32937523"
     ],
     [
-      "WhatsApp has disabled communication between accounts from Iran during protests",
-      "https://twitter.com/Erfan_khosravi/status/1572837240367370240"
+      "I came up with a better way to communicate with users",
+      "https://news.ycombinator.com/item?id=32937523"
     ]
   ],
   [
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32936746"
     ],
     [
-      "Exploring Lock-Free Rust",
+      "Exploring Lock-Free Rust (2017)",
       "https://morestina.net/blog/742/exploring-lock-free-rust-1-locks"
     ]
   ],
@@ -57,6 +57,16 @@
     [
       "So You Want to Compete with Steam (2018)",
       "https://www.fortressofdoors.com/so-you-want-to-compete-with-steam/"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 04:56:18",
+      "https://news.ycombinator.com/item?id=32934936"
+    ],
+    [
+      "As unrest grows, Iran restricts access to Instagram, WhatsApp",
+      "https://www.reuters.com/world/middle-east/iran-restricts-access-instagram-netblocks-2022-09-21/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2022-09-21, 15:22:12",
-      "https://news.ycombinator.com/item?id=32926412"
-    ],
-    [
-      "Modernity is incompatible with planetary limits: a PLAN for the future",
-      "https://www.sciencedirect.com/science/article/pii/S2214629621003327"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 15:19:36",
       "https://news.ycombinator.com/item?id=32926369"
     ],
@@ -207,16 +207,6 @@
     [
       "What Does the Post Crash VC Market Look Like?",
       "https://bothsidesofthetable.com/what-does-the-post-crash-vc-market-look-like-ed81cd884021?gi=4617a961d30d"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 14:33:47",
-      "https://news.ycombinator.com/item?id=32925734"
-    ],
-    [
-      "LiteFS",
-      "https://fly.io/blog/introducing-litefs/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Traditional packaging is not suitable for modern applications?",
       "https://theevilskeleton.gitlab.io/2022/08/29/traditional-packaging-is-not-suitable-for-modern-applications.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 07:43:23",
+      "https://news.ycombinator.com/item?id=32921910"
+    ],
+    [
+      "System memory allocator free operation zeroes out deallocated blocks in iOS 16",
+      "https://mjtsai.com/blog/2022/09/20/zeroing-freed-memory/"
     ]
   ],
   [
