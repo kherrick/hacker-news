@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=32956964"
     ],
     [
-      "“The image in this post displays its own MD5 hash.”",
+      "The image in this post displays its own MD5 hash",
       "https://retr0.id/notice/ANqlvFZD1eIqjmRiFc"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 20:42:04",
+      "https://news.ycombinator.com/item?id=32956821"
+    ],
+    [
+      "Bicyclist pisses everyone off by ‘legally’ riding in the street",
+      "https://nypost.com/video/bicyclist-pisses-everyone-off-by-legally-riding-in-the-street/"
     ]
   ],
   [
@@ -31,21 +41,11 @@
   ],
   [
     [
-      "2022-09-23, 19:46:35",
-      "https://news.ycombinator.com/item?id=32956235"
-    ],
-    [
-      "MD5 Collision with CRC32 Preimage",
-      "https://gist.github.com/DavidBuchanan314/a15e93eeaaad977a0fec3a6232c0b8ae"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 19:44:52",
       "https://news.ycombinator.com/item?id=32956218"
     ],
     [
-      "'Securing Open Source Software Act' Introduced to US Senate",
+      "'Securing Open Source Software Act' introduced to US Senate",
       "https://www.hsgac.senate.gov/media/majority-media/peters-and-portman-introduce-bipartisan-legislation-to-help-secure-open-source-software_"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32956013"
     ],
     [
-      "Shasta: Adobe's AI audio recording and editing",
+      "Shasta: AI-powered audio recording and editing",
       "https://pages.adobe.com/shasta/"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32953811"
     ],
     [
-      "Wails as Electron in Go",
+      "Wails v2 Released",
       "https://wails.io/blog/wails-v2-released/"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=32953111"
     ],
     [
-      "Be Critical or Be Corrupted",
+      "Be critical or be corrupted",
       "https://www.cenizal.com/be-critical-or-be-corrupted/"
     ]
   ],
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2022-09-23, 12:39:04",
-      "https://news.ycombinator.com/item?id=32951082"
-    ],
-    [
-      "Show HN: Morgan – PyPI Mirror for Restricted/Offline Environments",
-      "https://github.com/ido50/morgan"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 12:28:48",
       "https://news.ycombinator.com/item?id=32950988"
     ],
@@ -197,16 +187,6 @@
     [
       "Balancing “If it ain’t broke, don’t fix it” vs. “Release early and often”",
       "https://www.redhat.com/en/blog/balancing-if-it-aint-broke-dont-fix-it-vs-release-early-and-often"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 11:38:22",
-      "https://news.ycombinator.com/item?id=32950500"
-    ],
-    [
-      "Ezno: a new TypeScript compiler",
-      "https://kaleidawave.github.io/posts/introducing-ezno/"
     ]
   ],
   [
@@ -235,7 +215,7 @@
       "https://news.ycombinator.com/item?id=32950204"
     ],
     [
-      "Ask HN: Ads triggered by WhatsApp “end to end encrypted” messages",
+      "Ask HN: Ads triggered by WhatsApp “end to end encrypted” messages?",
       "https://news.ycombinator.com/item?id=32950204"
     ]
   ],
@@ -261,11 +241,21 @@
   ],
   [
     [
+      "2022-09-22, 16:58:48",
+      "https://news.ycombinator.com/item?id=32941613"
+    ],
+    [
+      "Show HN: Ezno, a type checker for JavaScript and optimiser for React",
+      "https://kaleidawave.github.io/posts/introducing-ezno/"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 09:28:31",
       "https://news.ycombinator.com/item?id=32936588"
     ],
     [
-      "The modern way for troubleshooting high Linux system load (2020)",
+      "High System Load with Low CPU Utilization on Linux? (2020)",
       "https://tanelpoder.com/posts/high-system-load-low-cpu-utilization-on-linux/"
     ]
   ],
@@ -275,8 +265,18 @@
       "https://news.ycombinator.com/item?id=32932429"
     ],
     [
-      "60 Knights Paused a War to Fight a Battle Royale Death Match",
+      "60 knights paused a war to fight a battle royale",
       "https://www.historynet.com/60-knights-death-match/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 15:33:31",
+      "https://news.ycombinator.com/item?id=32926581"
+    ],
+    [
+      "Should you trust your gut?",
+      "https://www.vox.com/even-better/23338680/instincts-happiness-data-seth-stephens-davidowitz"
     ]
   ],
   [
@@ -286,7 +286,7 @@
     ],
     [
       "Financing offshore wind",
-      "https://jeromeaparis.substack.com/p/financing-offshore-wind"
+      "https://jeromeaparis.substack.com/p/financing-offshore-wind-part-1"
     ]
   ],
   [
