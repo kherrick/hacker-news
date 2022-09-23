@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-23, 13:18:03",
+      "https://news.ycombinator.com/item?id=32951510"
+    ],
+    [
+      "Google CEO tells employees not to ‘equate fun with money’ in heated meeting",
+      "https://www.cnbc.com/2022/09/23/google-ceo-pichai-fields-questions-on-cost-cuts-at-all-hands-meeting-.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 13:05:05",
+      "https://news.ycombinator.com/item?id=32951363"
+    ],
+    [
+      "Fly.io makes infrastructure easy (for us developers)",
+      "https://blog.chiselstrike.com/fly-io-makes-infrastructure-easy-for-us-developers-63081d4d0476"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 12:58:56",
       "https://news.ycombinator.com/item?id=32951296"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2022-09-23, 11:41:01",
-      "https://news.ycombinator.com/item?id=32950521"
-    ],
-    [
-      "Is Hans Niemann cheating? – World renowned expert Ken Regan analyzes",
-      "https://en.chessbase.com/post/is-hans-niemann-cheating-world-renowned-expert-ken-regan-analyzes"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 11:34:46",
       "https://news.ycombinator.com/item?id=32950465"
     ],
@@ -107,16 +117,6 @@
     [
       "Matrix web-based green code rain, made with love",
       "https://github.com/Rezmason/matrix"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 10:58:01",
-      "https://news.ycombinator.com/item?id=32950218"
-    ],
-    [
-      "Working with strings in Rust (2020)",
-      "https://fasterthanli.me/articles/working-with-strings-in-rust"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2022-09-22, 23:51:01",
+      "https://news.ycombinator.com/item?id=32946145"
+    ],
+    [
+      "A pair of Rust kernel modules",
+      "https://lwn.net/Articles/907685/"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 23:32:49",
       "https://news.ycombinator.com/item?id=32946012"
     ],
@@ -237,16 +247,6 @@
     [
       "Avoiding homework with code and getting caught",
       "https://alistair.blog/mochip"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 23:13:17",
-      "https://news.ycombinator.com/item?id=32945858"
-    ],
-    [
-      "Despite faster broadband every year, web pages don't load any faster",
-      "https://www.datafantic.com/how-much-time-do-we-waste-waiting-for-websites-to-load/"
     ]
   ],
   [
