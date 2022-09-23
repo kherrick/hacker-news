@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-23, 17:04:32",
+      "https://news.ycombinator.com/item?id=32954452"
+    ],
+    [
+      "Ask HN: Tips to relearn how to care about my job?",
+      "https://news.ycombinator.com/item?id=32954452"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 17:01:06",
+      "https://news.ycombinator.com/item?id=32954418"
+    ],
+    [
+      "Motion (YC W20) Is Hiring Senior Full Stack and Back End Engineers",
+      "https://www.usemotion.com/jobs"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 16:09:18",
       "https://news.ycombinator.com/item?id=32953811"
     ],
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2022-09-23, 15:35:28",
+      "https://news.ycombinator.com/item?id=32953332"
+    ],
+    [
+      "Xlskubectl – a spreadsheet to control your Kubernetes cluster",
+      "https://github.com/learnk8s/xlskubectl"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 15:29:11",
       "https://news.ycombinator.com/item?id=32953225"
     ],
@@ -47,16 +77,6 @@
     [
       "Be Critical or Be Corrupted",
       "https://www.cenizal.com/be-critical-or-be-corrupted/"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 14:59:07",
-      "https://news.ycombinator.com/item?id=32952814"
-    ],
-    [
-      "Charging cars at home at night is not the way to go: study",
-      "https://news.stanford.edu/press/view/45245"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Balancing “If it ain’t broke, don’t fix it” vs. “Release early and often”",
       "https://www.redhat.com/en/blog/balancing-if-it-aint-broke-dont-fix-it-vs-release-early-and-often"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 12:00:38",
-      "https://news.ycombinator.com/item?id=32950726"
-    ],
-    [
-      "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
-      "https://deepnote.com/join-us"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-09-23, 08:50:58",
-      "https://news.ycombinator.com/item?id=32949470"
-    ],
-    [
-      "Extending org-mode to handle YouTube links",
-      "https://bitspook.in/blog/extending-org-mode-to-handle-youtube-links/"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 05:51:20",
       "https://news.ycombinator.com/item?id=32948506"
     ],
@@ -257,6 +257,16 @@
     [
       "Nightdrive",
       "https://incoherency.co.uk/blog/stories/nightdrive.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 09:28:31",
+      "https://news.ycombinator.com/item?id=32936588"
+    ],
+    [
+      "The modern way for troubleshooting high Linux system load (2020)",
+      "https://tanelpoder.com/posts/high-system-load-low-cpu-utilization-on-linux/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Understanding the Intel Optane Shutdown",
       "https://www.techtarget.com/searchstorage/opinion/Understand-the-Intel-Optane-shutdown"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 07:25:29",
-      "https://news.ycombinator.com/item?id=32908724"
-    ],
-    [
-      "Undefined Behavior deserves a better reputation (2021)",
-      "https://blog.sigplan.org/2021/11/18/undefined-behavior-deserves-a-better-reputation/"
     ]
   ]
 ]
