@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-23, 19:46:35",
+      "https://news.ycombinator.com/item?id=32956235"
+    ],
+    [
+      "MD5 Collision with CRC32 Preimage",
+      "https://gist.github.com/DavidBuchanan314/a15e93eeaaad977a0fec3a6232c0b8ae"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 19:25:06",
       "https://news.ycombinator.com/item?id=32956013"
     ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2022-09-23, 09:58:17",
-      "https://news.ycombinator.com/item?id=32949881"
-    ],
-    [
-      "Wildfire smoke is exposing millions of Americans to extreme pollution levels",
-      "https://news.stanford.edu/2022/09/22/wildfire-smoke-unraveling-decades-air-quality-gains/"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 05:51:20",
-      "https://news.ycombinator.com/item?id=32948506"
-    ],
-    [
-      "The sum of all knowledge and the sorry state of the web",
-      "https://christianheilmann.com/2022/08/29/the-sum-of-all-knowledge/"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 02:29:40",
       "https://news.ycombinator.com/item?id=32947303"
     ],
@@ -297,6 +287,16 @@
     [
       "The Dial Toner – color dial hex code keypad",
       "https://twitter.com/gvy_dvpont/status/1569807637637922819"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 10:40:44",
+      "https://news.ycombinator.com/item?id=32909990"
+    ],
+    [
+      "Optimizing Nickel's Array Contracts",
+      "https://www.tweag.io/blog/2022-09-20-optimizing-nickel-array-contracts/"
     ]
   ]
 ]
