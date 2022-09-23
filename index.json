@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-23, 10:58:01",
+      "https://news.ycombinator.com/item?id=32950218"
+    ],
+    [
+      "Working with Strings in Rust",
+      "https://fasterthanli.me/articles/working-with-strings-in-rust"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 10:55:49",
       "https://news.ycombinator.com/item?id=32950204"
     ],
@@ -27,6 +37,16 @@
     [
       "The Ungodly Surveillance of Anti-Porn ‘Shameware’ Apps",
       "https://www.wired.com/story/covenant-eyes-anti-porn-accountability-monitoring-apps/"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 10:52:54",
+      "https://news.ycombinator.com/item?id=32950183"
+    ],
+    [
+      "Internship for a Java Role",
+      "https://news.ycombinator.com/item?id=32950183"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Signal TLS Proxy",
       "https://github.com/signalapp/Signal-TLS-Proxy"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 06:11:33",
-      "https://news.ycombinator.com/item?id=32948613"
-    ],
-    [
-      "On Adobe acquiring Figma",
-      "https://build.typogram.co/p/on-adobe-acquiring-figma"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Kanban Board for the Command Line",
       "https://github.com/coderofsalvation/kanban.bash"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 10:11:20",
-      "https://news.ycombinator.com/item?id=32909847"
-    ],
-    [
-      "Cassowary",
-      "https://en.wikipedia.org/wiki/Cassowary"
     ]
   ]
 ]
