@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-09-23, 20:17:10",
+      "https://news.ycombinator.com/item?id=32956548"
+    ],
+    [
+      "Ask HN: I love to be alone. But this loneliness is killing me",
+      "https://news.ycombinator.com/item?id=32956548"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 20:03:12",
+      "https://news.ycombinator.com/item?id=32956401"
+    ],
+    [
+      "Algorithms and data structures implemented in many programming languages",
+      "https://the-algorithms.com/"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 19:46:35",
       "https://news.ycombinator.com/item?id=32956235"
     ],
     [
       "MD5 Collision with CRC32 Preimage",
       "https://gist.github.com/DavidBuchanan314/a15e93eeaaad977a0fec3a6232c0b8ae"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 19:44:52",
+      "https://news.ycombinator.com/item?id=32956218"
+    ],
+    [
+      "'Securing Open Source Software Act' Introduced to US Senate",
+      "https://www.hsgac.senate.gov/media/majority-media/peters-and-portman-introduce-bipartisan-legislation-to-help-secure-open-source-software_"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Mozilla claims Apple, Google and Microsoft force users to use default browsers",
       "https://www.techradar.com/news/mozilla-claims-apple-google-and-microsoft-force-users-to-use-default-web-browsers"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 18:17:20",
-      "https://news.ycombinator.com/item?id=32955332"
-    ],
-    [
-      "An anonymous person donated 299 ETH from Tornado Cash to Redox OS",
-      "https://etherscan.io/tx/0x21f4b538ea53df8685eed62a8036562c48dee0a64bfee77b3299988bec84f134"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-09-23, 12:39:04",
-      "https://news.ycombinator.com/item?id=32951082"
-    ],
-    [
-      "Show HN: Morgan – PyPI Mirror for Restricted/Offline Environments",
-      "https://github.com/ido50/morgan"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 12:28:48",
       "https://news.ycombinator.com/item?id=32950988"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2022-09-22, 06:02:24",
-      "https://news.ycombinator.com/item?id=32935227"
-    ],
-    [
-      "San Francisco’s famous sourdough was once gross",
-      "https://www.atlasobscura.com/articles/sourdough-history"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 22:29:37",
       "https://news.ycombinator.com/item?id=32932429"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-09-21, 15:33:31",
+      "https://news.ycombinator.com/item?id=32926581"
+    ],
+    [
+      "Should you trust your gut?",
+      "https://www.vox.com/even-better/23338680/instincts-happiness-data-seth-stephens-davidowitz"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 13:35:47",
       "https://news.ycombinator.com/item?id=32924950"
     ],
     [
       "The Dial Toner – color dial hex code keypad",
       "https://twitter.com/gvy_dvpont/status/1569807637637922819"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 10:40:44",
-      "https://news.ycombinator.com/item?id=32909990"
-    ],
-    [
-      "Optimizing Nickel's Array Contracts",
-      "https://www.tweag.io/blog/2022-09-20-optimizing-nickel-array-contracts/"
     ]
   ]
 ]
