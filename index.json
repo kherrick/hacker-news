@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-09-23, 10:58:16",
+      "https://news.ycombinator.com/item?id=32950221"
+    ],
+    [
+      "Revolutionary video game The Hobbit turns 40",
+      "https://www.theguardian.com/games/2022/sep/22/i-saw-the-possibility-of-what-could-be-done-so-i-did-it-revolutionary-video-game-the-hobbit-turns-40"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 10:58:01",
       "https://news.ycombinator.com/item?id=32950218"
     ],
     [
-      "Working with Strings in Rust",
+      "Working with strings in Rust (2020)",
       "https://fasterthanli.me/articles/working-with-strings-in-rust"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "The Ungodly Surveillance of Anti-Porn ‘Shameware’ Apps",
       "https://www.wired.com/story/covenant-eyes-anti-porn-accountability-monitoring-apps/"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 10:52:54",
-      "https://news.ycombinator.com/item?id=32950183"
-    ],
-    [
-      "Internship for a Java Role",
-      "https://news.ycombinator.com/item?id=32950183"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Nightdrive",
       "https://incoherency.co.uk/blog/stories/nightdrive.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 01:08:13",
-      "https://news.ycombinator.com/item?id=32946750"
-    ],
-    [
-      "Passkeys",
-      "https://www.imperialviolet.org/2022/09/22/passkeys.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Kanban Board for the Command Line",
       "https://github.com/coderofsalvation/kanban.bash"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 07:25:29",
+      "https://news.ycombinator.com/item?id=32908724"
+    ],
+    [
+      "Undefined Behavior deserves a better reputation (2021)",
+      "https://blog.sigplan.org/2021/11/18/undefined-behavior-deserves-a-better-reputation/"
     ]
   ]
 ]
