@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-24, 07:02:21",
+      "https://news.ycombinator.com/item?id=32960300"
+    ],
+    [
+      "Ashby hiring engineers in Europe who want ownership (e.g. product decisions)",
+      "https://www.ashbyhq.com/careers?utm_source=hn"
+    ]
+  ],
+  [
+    [
+      "2022-09-24, 06:25:37",
+      "https://news.ycombinator.com/item?id=32960140"
+    ],
+    [
+      "3dfx Voodoo 5 6000 recreated via reverse engineering (2021)",
+      "https://hexus.net/tech/news/graphics/147447-3dfx-voodoo-5-6000-recreated-via-reverse-engineering/"
+    ]
+  ],
+  [
+    [
       "2022-09-24, 05:55:20",
       "https://news.ycombinator.com/item?id=32960033"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-09-23, 21:01:12",
-      "https://news.ycombinator.com/item?id=32956998"
-    ],
-    [
-      "Replit (YC W18) Is Hiring ML Engineers to Build AI for Code",
-      "https://replit.com/careers"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 20:58:00",
       "https://news.ycombinator.com/item?id=32956964"
     ],
@@ -191,46 +201,6 @@
   ],
   [
     [
-      "2022-09-23, 15:35:28",
-      "https://news.ycombinator.com/item?id=32953332"
-    ],
-    [
-      "Xlskubectl – a spreadsheet to control your Kubernetes cluster",
-      "https://github.com/learnk8s/xlskubectl"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 15:29:11",
-      "https://news.ycombinator.com/item?id=32953225"
-    ],
-    [
-      "LXC and LXD: a different container story",
-      "https://lwn.net/Articles/907613/"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 15:20:34",
-      "https://news.ycombinator.com/item?id=32953111"
-    ],
-    [
-      "Be critical or be corrupted",
-      "https://www.cenizal.com/be-critical-or-be-corrupted/"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 14:59:07",
-      "https://news.ycombinator.com/item?id=32952814"
-    ],
-    [
-      "Charging cars at home at night is not the way to go: study",
-      "https://news.stanford.edu/press/view/45245"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 07:50:14",
       "https://news.ycombinator.com/item?id=32949122"
     ],
@@ -247,6 +217,16 @@
     [
       "Langcc: A Next-Generation Compiler Compiler",
       "https://github.com/jzimmerman/langcc"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 02:29:40",
+      "https://news.ycombinator.com/item?id=32947303"
+    ],
+    [
+      "Nightdrive",
+      "https://incoherency.co.uk/blog/stories/nightdrive.html"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "Theory of Self Reproducing Automata [pdf]",
       "https://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 22:29:37",
+      "https://news.ycombinator.com/item?id=32932429"
+    ],
+    [
+      "60 knights paused a war to fight a battle royale",
+      "https://www.historynet.com/60-knights-death-match/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 21:37:50",
+      "https://news.ycombinator.com/item?id=32931844"
+    ],
+    [
+      "Breaking into English",
+      "https://lareviewofbooks.org/article/breaking-into-english/"
     ]
   ],
   [
