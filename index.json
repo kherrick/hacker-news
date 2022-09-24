@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-24, 21:32:45",
+      "https://news.ycombinator.com/item?id=32966707"
+    ],
+    [
+      "FBI misled judge who signed warrant for seizure of $86M in cash",
+      "https://www.latimes.com/california/story/2022-09-23/fbi-beverly-hills-safe-deposit-box-raid-forfeiture-judge"
+    ]
+  ],
+  [
+    [
       "2022-09-24, 21:03:11",
       "https://news.ycombinator.com/item?id=32966518"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2022-09-24, 15:02:42",
-      "https://news.ycombinator.com/item?id=32963273"
-    ],
-    [
-      "Fitbit users will have to sign into Google from 2023",
-      "https://www.theregister.com/2022/09/23/fitbit_accounts_to_be_replaced/"
-    ]
-  ],
-  [
-    [
       "2022-09-24, 14:39:58",
       "https://news.ycombinator.com/item?id=32963021"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-09-24, 06:25:37",
-      "https://news.ycombinator.com/item?id=32960140"
-    ],
-    [
-      "3dfx Voodoo 5 6000 recreated via reverse engineering (2021)",
-      "https://hexus.net/tech/news/graphics/147447-3dfx-voodoo-5-6000-recreated-via-reverse-engineering/"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 23:25:35",
       "https://news.ycombinator.com/item?id=32958252"
     ],
@@ -277,6 +267,16 @@
     [
       "The Case of the Disputed Lucian Freud",
       "https://www.newyorker.com/magazine/2022/09/26/the-case-of-the-disputed-lucian-freud"
+    ]
+  ],
+  [
+    [
+      "2022-09-22, 12:57:17",
+      "https://news.ycombinator.com/item?id=32938192"
+    ],
+    [
+      "Virtual Tables with Zig-SQLite",
+      "https://rischmann.fr/blog/virtual-tables-with-zig-sqlite"
     ]
   ],
   [
