@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-09-24, 17:04:50",
+      "https://news.ycombinator.com/item?id=32964519"
+    ],
+    [
+      "Linux on the laptop works so damn well that it’s boring",
+      "https://clivethompson.medium.com/linux-on-the-laptop-works-so-damn-well-that-its-boring-29014b347941"
+    ]
+  ],
+  [
+    [
+      "2022-09-24, 17:00:49",
+      "https://news.ycombinator.com/item?id=32964485"
+    ],
+    [
+      "SafeBeat Rx (YC S21) Is Hiring",
+      "https://www.ycombinator.com/companies/safebeat-rx/jobs/1w9mM9v-research-scientist-post-doctoral-position"
+    ]
+  ],
+  [
+    [
+      "2022-09-24, 16:55:08",
+      "https://news.ycombinator.com/item?id=32964433"
+    ],
+    [
+      "TikTok’s Ugly ‘NPC in Real Life’ Trend",
+      "https://kotaku.com/tiktok-npc-in-real-life-trend-twitter-gen-z-video-games-1849575169"
+    ]
+  ],
+  [
+    [
       "2022-09-24, 16:40:39",
       "https://news.ycombinator.com/item?id=32964278"
     ],
     [
       "Free Book: Linux IP Stacks Commentary Annotates TCP/IP Code",
       "https://www.satchell.net/ipstacks/"
+    ]
+  ],
+  [
+    [
+      "2022-09-24, 16:32:15",
+      "https://news.ycombinator.com/item?id=32964192"
+    ],
+    [
+      "Software engineering changed my life",
+      "https://technicallychallenged.substack.com/p/software-engineering-changed-my-life"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2022-09-24, 11:53:35",
-      "https://news.ycombinator.com/item?id=32961656"
-    ],
-    [
-      "Storage and transaction in mvSQLite, the distributed SQLite on FoundationDB",
-      "https://univalence.me/posts/mvsqlite-2"
-    ]
-  ],
-  [
-    [
       "2022-09-24, 10:15:51",
       "https://news.ycombinator.com/item?id=32961218"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-09-24, 07:02:21",
-      "https://news.ycombinator.com/item?id=32960300"
-    ],
-    [
-      "Ashby (YC W19) is hiring engineers in Europe",
-      "https://www.ashbyhq.com/careers?utm_source=hn"
-    ]
-  ],
-  [
-    [
       "2022-09-24, 06:25:37",
       "https://news.ycombinator.com/item?id=32960140"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-09-23, 07:50:14",
-      "https://news.ycombinator.com/item?id=32949122"
-    ],
-    [
-      "Using GPT-3 to pathfind in random graphs",
-      "https://jacobbrazeal.wordpress.com/2022/09/23/gpt-3-can-find-paths-up-to-7-nodes-long-in-random-graphs/"
-    ]
-  ],
-  [
-    [
       "2022-09-22, 14:53:59",
       "https://news.ycombinator.com/item?id=32939657"
     ],
     [
       "The Blood Collages of John Bingley Garland (Ca. 1850–60)",
       "https://publicdomainreview.org/collection/garland-blood-collages/"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 12:57:17",
-      "https://news.ycombinator.com/item?id=32938192"
-    ],
-    [
-      "Virtual Tables with Zig-SQLite",
-      "https://rischmann.fr/blog/virtual-tables-with-zig-sqlite"
     ]
   ],
   [
