@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-09-24, 01:59:25",
+      "https://news.ycombinator.com/item?id=32959113"
+    ],
+    [
+      "America Has Lost Its Oil Buffer",
+      "https://www.wsj.com/articles/america-has-lost-its-oil-buffer-11663821015"
+    ]
+  ],
+  [
+    [
+      "2022-09-24, 00:05:32",
+      "https://news.ycombinator.com/item?id=32958527"
+    ],
+    [
+      "Technology Choices for My SaaS in Retrospect",
+      "https://thomasbandt.com/technology-choices-in-retrospect"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 23:34:00",
       "https://news.ycombinator.com/item?id=32958319"
     ],
     [
       "Something is haunting American Airlines’ announcements and nobody knows how",
       "https://waxy.org/2022/09/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 22:40:10",
+      "https://news.ycombinator.com/item?id=32957932"
+    ],
+    [
+      "Optimizing compilers deduplicate strings and arrays",
+      "https://lemire.me/blog/2022/09/23/optimizing-compilers-deduplicate-strings-and-arrays/"
     ]
   ],
   [
@@ -181,46 +211,6 @@
   ],
   [
     [
-      "2022-09-23, 12:10:06",
-      "https://news.ycombinator.com/item?id=32950811"
-    ],
-    [
-      "Balancing “If it ain’t broke, don’t fix it” vs. “Release early and often”",
-      "https://www.redhat.com/en/blog/balancing-if-it-aint-broke-dont-fix-it-vs-release-early-and-often"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 11:34:46",
-      "https://news.ycombinator.com/item?id=32950465"
-    ],
-    [
-      "Show HN: MathB.in – Mathematics pastebin written in Common Lisp",
-      "https://github.com/susam/mathb"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 11:31:16",
-      "https://news.ycombinator.com/item?id=32950442"
-    ],
-    [
-      "The journey to Nintendo Switch",
-      "https://factorio.com/blog/post/fff-370"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 10:52:09",
-      "https://news.ycombinator.com/item?id=32950178"
-    ],
-    [
-      "Are You Ready for the Internet? (1994) [video]",
-      "https://www.youtube.com/watch?v=XpZ5STahhPE"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 07:32:35",
       "https://news.ycombinator.com/item?id=32949019"
     ],
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2022-09-22, 14:55:29",
+      "https://news.ycombinator.com/item?id=32939683"
+    ],
+    [
+      "Autobiographical Notes by Jorge Luis Borges (1970)",
+      "https://www.newyorker.com/magazine/1970/09/19/jorge-luis-borges-profile-autobiographical-notes"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 14:20:49",
       "https://news.ycombinator.com/item?id=32939123"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2022-09-22, 09:28:31",
-      "https://news.ycombinator.com/item?id=32936588"
-    ],
-    [
-      "High System Load with Low CPU Utilization on Linux? (2020)",
-      "https://tanelpoder.com/posts/high-system-load-low-cpu-utilization-on-linux/"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 22:29:37",
       "https://news.ycombinator.com/item?id=32932429"
     ],
     [
       "60 knights paused a war to fight a battle royale",
       "https://www.historynet.com/60-knights-death-match/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 21:37:50",
+      "https://news.ycombinator.com/item?id=32931844"
+    ],
+    [
+      "Breaking into English",
+      "https://lareviewofbooks.org/article/breaking-into-english/"
     ]
   ],
   [
