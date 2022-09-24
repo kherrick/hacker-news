@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-24, 09:08:23",
+      "https://news.ycombinator.com/item?id=32960924"
+    ],
+    [
+      "Northrop Grumman to Unveil the B-21 Raider",
+      "https://news.northropgrumman.com/news/releases/northrop-grumman-to-unveil-the-b-21-raider"
+    ]
+  ],
+  [
+    [
+      "2022-09-24, 08:48:16",
+      "https://news.ycombinator.com/item?id=32960833"
+    ],
+    [
+      "Mozilla reaffirms that Firefox will continue to support current content blockers",
+      "https://www.ghacks.net/2022/09/24/mozilla-reaffirms-that-firefox-will-continue-to-support-current-content-blockers/"
+    ]
+  ],
+  [
+    [
       "2022-09-24, 08:34:00",
       "https://news.ycombinator.com/item?id=32960768"
     ],
@@ -15,18 +35,8 @@
       "https://news.ycombinator.com/item?id=32960300"
     ],
     [
-      "Ashby hiring engineers in Europe who want ownership (e.g. product decisions)",
+      "Ashby (YC W19) is hiring engineers in Europe",
       "https://www.ashbyhq.com/careers?utm_source=hn"
-    ]
-  ],
-  [
-    [
-      "2022-09-24, 06:52:33",
-      "https://news.ycombinator.com/item?id=32960255"
-    ],
-    [
-      "Ask HN: Companies of one, how do you ensure business continuity?",
-      "https://news.ycombinator.com/item?id=32960255"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32958184"
     ],
     [
-      "The small town that saved its only grocery store – by buying it",
+      "A small town that saved its only grocery store by buying it",
       "https://thehustle.co/the-small-town-that-saved-its-only-grocery-store-by-buying-it/"
     ]
   ],
@@ -127,6 +137,16 @@
     [
       "Re-Entering the Vampire Castle",
       "https://justinehsmith.substack.com/p/re-entering-the-vampire-castle"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 21:02:38",
+      "https://news.ycombinator.com/item?id=32957020"
+    ],
+    [
+      "Samplebrain: A custom sample mashing app designed by Aphex Twin",
+      "https://gitlab.com/then-try-this/samplebrain"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-09-23, 19:21:28",
-      "https://news.ycombinator.com/item?id=32955971"
-    ],
-    [
-      "Mozilla claims Apple, Google and Microsoft force users to use default browsers",
-      "https://www.techradar.com/news/mozilla-claims-apple-google-and-microsoft-force-users-to-use-default-web-browsers"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 16:38:25",
       "https://news.ycombinator.com/item?id=32954156"
     ],
@@ -237,16 +247,6 @@
     [
       "Autobiographical Notes by Jorge Luis Borges (1970)",
       "https://www.newyorker.com/magazine/1970/09/19/jorge-luis-borges-profile-autobiographical-notes"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 12:57:17",
-      "https://news.ycombinator.com/item?id=32938192"
-    ],
-    [
-      "Virtual Tables with Zig-SQLite",
-      "https://rischmann.fr/blog/virtual-tables-with-zig-sqlite"
     ]
   ],
   [
