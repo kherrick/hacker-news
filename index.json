@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-09-24, 23:37:53",
-      "https://news.ycombinator.com/item?id=32967587"
+      "2022-09-24, 23:44:21",
+      "https://news.ycombinator.com/item?id=32967620"
     ],
     [
-      "James Earl Jones Signs Off on Using Recordings to Recreate Voice with AI",
-      "https://variety.com/2022/digital/news/james-earl-jones-darth-vader-retiring-star-wars-ai-1235382827/"
+      "GCP, AWS, and Azure ARM-based server performance comparison",
+      "https://apisix.apache.org/blog/2022/08/12/arm-performance-google-aws-azure-with-apisix/"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "webЯcade – WASM based retro emulation on any device",
       "https://github.com/webrcade/webrcade"
-    ]
-  ],
-  [
-    [
-      "2022-09-24, 21:32:45",
-      "https://news.ycombinator.com/item?id=32966707"
-    ],
-    [
-      "FBI misled judge who signed warrant for seizure of $86M in cash",
-      "https://www.latimes.com/california/story/2022-09-23/fbi-beverly-hills-safe-deposit-box-raid-forfeiture-judge"
     ]
   ],
   [
@@ -45,18 +35,18 @@
       "https://news.ycombinator.com/item?id=32966506"
     ],
     [
-      "Firezone is hiring a founding engineer to build an open-source corporate VPN",
+      "Firezone (YC W22) is hiring a founding engineer to build an open-source VPN",
       "https://www.ycombinator.com/companies/firezone/jobs"
     ]
   ],
   [
     [
-      "2022-09-24, 20:46:39",
-      "https://news.ycombinator.com/item?id=32966412"
+      "2022-09-24, 19:36:53",
+      "https://news.ycombinator.com/item?id=32965885"
     ],
     [
-      "Hertz is still having rental car customers wrongfully arrested, lawsuit claims",
-      "https://www.thedrive.com/news/hertz-is-still-having-rental-car-customers-wrongfully-arrested-lawsuit-claims"
+      "Fixed-Point HTML",
+      "https://habilis.net/fixed-point-html/"
     ]
   ],
   [
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2022-09-24, 10:15:51",
-      "https://news.ycombinator.com/item?id=32961218"
+      "2022-09-24, 11:53:35",
+      "https://news.ycombinator.com/item?id=32961656"
     ],
     [
-      "IBM AIX for IA64 (Itanium) a.k.a. Project Monterey Runs Again",
-      "https://virtuallyfun.com/wordpress/2022/09/24/ibm-aix-for-ia64-itanium-aka-project-monterey-runs-again/"
+      "Storage and transaction in mvSQLite, the distributed SQLite on FoundationDB",
+      "https://univalence.me/posts/mvsqlite-2"
     ]
   ],
   [
@@ -251,6 +241,26 @@
   ],
   [
     [
+      "2022-09-23, 12:28:02",
+      "https://news.ycombinator.com/item?id=32950977"
+    ],
+    [
+      "What Modern Humans Can Learn from Ancient Software",
+      "https://www.wired.com/story/modern-humans-learn-ancient-software-retrocomputing/"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 10:36:54",
+      "https://news.ycombinator.com/item?id=32950099"
+    ],
+    [
+      "Apple Big Pink #3 (1990) [pdf]",
+      "http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/mac/pink/Apple_Big_Pink_3_Mar1990.pdf"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 09:08:34",
       "https://news.ycombinator.com/item?id=32949568"
     ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=32949338"
     ],
     [
-      "Schedule Cronjob for the First Monday of Every Month, the Funky Way",
+      "Schedule cronjob for the first Monday of every month, the funky way",
       "https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/"
     ]
   ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2022-09-22, 12:57:17",
-      "https://news.ycombinator.com/item?id=32938192"
+      "2022-09-22, 08:39:16",
+      "https://news.ycombinator.com/item?id=32936260"
     ],
     [
-      "Virtual Tables with Zig-SQLite",
-      "https://rischmann.fr/blog/virtual-tables-with-zig-sqlite"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 02:17:03",
-      "https://news.ycombinator.com/item?id=32934121"
-    ],
-    [
-      "Airships Rise Again (2021)",
-      "https://www.smithsonianmag.com/air-space-magazine/airships-rise-again-180979343/"
+      "Shortest Date, and Ketchup",
+      "https://sive.rs/ketchup"
     ]
   ]
 ]
