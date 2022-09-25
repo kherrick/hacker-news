@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2022-09-25, 06:34:40",
+      "https://news.ycombinator.com/item?id=32969400"
+    ],
+    [
+      "Netflix Keeps Its Data Infrastructure Cost-Effective",
+      "https://acceldataio.medium.com/data-engineering-best-practices-how-netflix-keeps-its-data-infrastructure-cost-effective-dee310bcc910"
+    ]
+  ],
+  [
+    [
+      "2022-09-25, 05:50:37",
+      "https://news.ycombinator.com/item?id=32969263"
+    ],
+    [
+      "This X Does Not Exist",
+      "https://thisxdoesnotexist.com/"
+    ]
+  ],
+  [
+    [
       "2022-09-25, 03:59:13",
       "https://news.ycombinator.com/item?id=32968827"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-09-24, 17:04:50",
-      "https://news.ycombinator.com/item?id=32964519"
-    ],
-    [
-      "Linux on the laptop works so damn well that it’s boring",
-      "https://clivethompson.medium.com/linux-on-the-laptop-works-so-damn-well-that-its-boring-29014b347941"
-    ]
-  ],
-  [
-    [
       "2022-09-24, 16:40:39",
       "https://news.ycombinator.com/item?id=32964278"
     ],
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2022-09-24, 15:14:28",
-      "https://news.ycombinator.com/item?id=32963417"
-    ],
-    [
-      "Whois: Fragile, Unparseable, Obsolete",
-      "https://www.netmeister.org/blog/whois.html"
-    ]
-  ],
-  [
-    [
       "2022-09-24, 14:39:58",
       "https://news.ycombinator.com/item?id=32963021"
     ],
     [
       "Want cleaner code? Use the rule of six",
       "https://davidamos.dev/the-rule-of-six/"
-    ]
-  ],
-  [
-    [
-      "2022-09-24, 13:52:54",
-      "https://news.ycombinator.com/item?id=32962616"
-    ],
-    [
-      "VToonify: Controllable High-Resolution Portrait Video Style Transfer",
-      "https://www.mmlab-ntu.com/project/vtoonify/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Board Games and Markov Chains",
       "https://kevingal.com/blog/boardgame.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-24, 07:53:28",
+      "https://news.ycombinator.com/item?id=32960560"
+    ],
+    [
+      "WordPress WASM",
+      "https://github.com/adamziel/wordpress-wasm"
     ]
   ],
   [
