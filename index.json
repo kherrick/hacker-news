@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2022-09-25, 02:50:10",
+      "https://news.ycombinator.com/item?id=32968529"
+    ],
+    [
+      "I Fooled Millions into Thinking Chocolate Helps Weight Loss (2015)",
+      "https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800"
+    ]
+  ],
+  [
+    [
       "2022-09-25, 02:38:47",
       "https://news.ycombinator.com/item?id=32968480"
     ],
@@ -161,22 +171,12 @@
   ],
   [
     [
-      "2022-09-24, 15:59:03",
-      "https://news.ycombinator.com/item?id=32963900"
+      "2022-09-24, 14:39:58",
+      "https://news.ycombinator.com/item?id=32963021"
     ],
     [
-      "Run SQL on CSV, Parquet, JSON, Arrow, Unix Pipes and Google Sheet",
-      "https://github.com/roapi/roapi/blob/main/columnq-cli/README.md"
-    ]
-  ],
-  [
-    [
-      "2022-09-24, 13:49:33",
-      "https://news.ycombinator.com/item?id=32962581"
-    ],
-    [
-      "GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images",
-      "https://nv-tlabs.github.io/GET3D/"
+      "Want cleaner code? Use the rule of six",
+      "https://davidamos.dev/the-rule-of-six/"
     ]
   ],
   [
