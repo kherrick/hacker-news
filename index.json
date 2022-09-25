@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=32968597"
     ],
     [
-      "This page is a truly naked, brutalist HTML quine",
+      "This page is a truly naked, brutalist HTML quine (2019)",
       "https://secretgeek.github.io/html_wysiwyg/html.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-25, 03:03:00",
+      "https://news.ycombinator.com/item?id=32968577"
+    ],
+    [
+      "Ask HN: How to do the bare minimum when not valued at work?",
+      "https://news.ycombinator.com/item?id=32968577"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32968529"
     ],
     [
-      "I Fooled Millions into Thinking Chocolate Helps Weight Loss",
+      "I Fooled Millions into Thinking Chocolate Helps Weight Loss (2015)",
       "https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800"
     ]
   ],
@@ -211,22 +221,22 @@
   ],
   [
     [
+      "2022-09-24, 08:32:55",
+      "https://news.ycombinator.com/item?id=32960758"
+    ],
+    [
+      "Board Games and Markov Chains",
+      "https://kevingal.com/blog/boardgame.html"
+    ]
+  ],
+  [
+    [
       "2022-09-24, 07:03:50",
       "https://news.ycombinator.com/item?id=32960308"
     ],
     [
       "Guix for Development",
       "https://dthompson.us/guix-for-development.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-24, 05:02:08",
-      "https://news.ycombinator.com/item?id=32959850"
-    ],
-    [
-      "Homemade Heat Pump Manifesto (2009)",
-      "https://ecorenovator.org/forum/showthread.php?p=2631#post2631"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Double Entry Counting Method (2016)",
       "https://beancount.github.io/docs/the_double_entry_counting_method.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 08:39:16",
-      "https://news.ycombinator.com/item?id=32936260"
-    ],
-    [
-      "Shortest Date, and Ketchup",
-      "https://sive.rs/ketchup"
     ]
   ]
 ]
