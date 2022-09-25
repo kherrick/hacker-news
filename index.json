@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-25, 09:41:26",
+      "https://news.ycombinator.com/item?id=32970037"
+    ],
+    [
+      "JPEG XL: libjxl 0.7.0 released",
+      "https://github.com/libjxl/libjxl/releases/tag/v0.7.0"
+    ]
+  ],
+  [
+    [
+      "2022-09-25, 09:11:33",
+      "https://news.ycombinator.com/item?id=32969957"
+    ],
+    [
+      "Google: C++20, How Hard Could It Be",
+      "https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n0ug/edit?usp=sharing&resourcekey=0-GH5F3wdP7D4dmxvLdBaMvw"
+    ]
+  ],
+  [
+    [
       "2022-09-25, 07:57:55",
       "https://news.ycombinator.com/item?id=32969692"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2022-09-24, 14:39:58",
-      "https://news.ycombinator.com/item?id=32963021"
-    ],
-    [
-      "Want cleaner code? Use the rule of six",
-      "https://davidamos.dev/the-rule-of-six/"
-    ]
-  ],
-  [
-    [
       "2022-09-24, 13:49:33",
       "https://news.ycombinator.com/item?id=32962581"
     ],
     [
       "GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images",
       "https://nv-tlabs.github.io/GET3D/"
-    ]
-  ],
-  [
-    [
-      "2022-09-24, 13:42:07",
-      "https://news.ycombinator.com/item?id=32962524"
-    ],
-    [
-      "Show HN: Jot: Rapid note management for the terminal, inspired by Obsidian",
-      "https://github.com/araekiel/jot"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "Guix for Development",
       "https://dthompson.us/guix-for-development.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 12:28:02",
-      "https://news.ycombinator.com/item?id=32950977"
-    ],
-    [
-      "What Modern Humans Can Learn from Ancient Software",
-      "https://www.wired.com/story/modern-humans-learn-ancient-software-retrocomputing/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Double Entry Counting Method (2016)",
       "https://beancount.github.io/docs/the_double_entry_counting_method.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 05:33:36",
+      "https://news.ycombinator.com/item?id=32948420"
+    ],
+    [
+      "Swatch Internet Time",
+      "https://www.timeanddate.com/time/internettime.html"
     ]
   ],
   [
