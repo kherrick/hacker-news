@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2022-09-25, 09:41:26",
+      "https://news.ycombinator.com/item?id=32970037"
+    ],
+    [
+      "JPEG XL: libjxl 0.7.0 released",
+      "https://github.com/libjxl/libjxl/releases/tag/v0.7.0"
+    ]
+  ],
+  [
+    [
       "2022-09-25, 09:11:33",
       "https://news.ycombinator.com/item?id=32969957"
     ],
@@ -151,32 +161,22 @@
   ],
   [
     [
-      "2022-09-24, 23:45:49",
-      "https://news.ycombinator.com/item?id=32967628"
-    ],
-    [
-      "Okta Exposes Passwords in Clear Text for Possible Theft",
-      "https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft"
-    ]
-  ],
-  [
-    [
-      "2022-09-24, 23:44:21",
-      "https://news.ycombinator.com/item?id=32967620"
-    ],
-    [
-      "GCP, AWS, and Azure ARM-based server performance comparison",
-      "https://apisix.apache.org/blog/2022/08/12/arm-performance-google-aws-azure-with-apisix/"
-    ]
-  ],
-  [
-    [
       "2022-09-24, 21:55:13",
       "https://news.ycombinator.com/item?id=32966874"
     ],
     [
       "webЯcade – WASM based retro emulation on any device",
       "https://github.com/webrcade/webrcade"
+    ]
+  ],
+  [
+    [
+      "2022-09-24, 18:21:20",
+      "https://news.ycombinator.com/item?id=32965288"
+    ],
+    [
+      "iPhones and action discoverability",
+      "https://alexanderell.is/posts/iphone-discoverability/"
     ]
   ],
   [
