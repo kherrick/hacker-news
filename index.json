@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-26, 16:31:00",
+      "https://news.ycombinator.com/item?id=32985150"
+    ],
+    [
+      "Pennsylvania school district bans Girls Who Code Book",
+      "https://www.theguardian.com/us-news/2022/sep/26/pennsylvania-book-ban-girls-who-code"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 15:55:40",
       "https://news.ycombinator.com/item?id=32984731"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32984110"
     ],
     [
-      "Have I Been Sqautted – free DNS typosquatting platform",
+      "Have I Been Squatted?",
       "https://haveibeensquatted.com/"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=32982697"
     ],
     [
-      "Cloudflare eSIM: The First Zero Trust SIM",
+      "Zero Trust SIM",
       "https://blog.cloudflare.com/the-first-zero-trust-sim/"
     ]
   ],
@@ -121,21 +131,11 @@
   ],
   [
     [
-      "2022-09-26, 12:47:00",
-      "https://news.ycombinator.com/item?id=32982425"
-    ],
-    [
-      "SaaS services behind a startup",
-      "https://www.bytebase.com/blog/30saas-services-behind-startup"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 12:44:44",
       "https://news.ycombinator.com/item?id=32982398"
     ],
     [
-      "Amazon walking back raises after internal bug miscalculated their compensation",
+      "Amazon walking back raises after internal bug miscalculated compensation",
       "https://www.businessinsider.com/amazon-promotion-raises-compensation-bug-2022-9"
     ]
   ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-09-26, 06:38:46",
-      "https://news.ycombinator.com/item?id=32980141"
-    ],
-    [
-      "Age – a simple, modern and secure file encryption tool, format, and Go library",
-      "https://github.com/FiloSottile/age"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 06:21:24",
       "https://news.ycombinator.com/item?id=32980040"
     ],
@@ -221,22 +211,12 @@
   ],
   [
     [
-      "2022-09-26, 05:42:41",
-      "https://news.ycombinator.com/item?id=32979796"
+      "2022-09-26, 05:01:18",
+      "https://news.ycombinator.com/item?id=32979601"
     ],
     [
-      "macOS Free and Open-Source Security Tools by Objective-See",
-      "https://objective-see.org/tools.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 22:21:52",
-      "https://news.ycombinator.com/item?id=32976978"
-    ],
-    [
-      "Mcmaster.com is the best e-commerce site I've ever used",
-      "https://www.bedelstein.com/post/mcmaster-carr"
+      "The Sad State of Debug Performance in C++",
+      "https://vittorioromeo.info/index/blog/debug_performance_cpp.html"
     ]
   ],
   [
@@ -271,16 +251,6 @@
   ],
   [
     [
-      "2022-09-25, 06:18:29",
-      "https://news.ycombinator.com/item?id=32969342"
-    ],
-    [
-      "Simulating a CRT TV with C++ and OpenGL",
-      "http://nicktasios.nl/posts/simulating-a-crt-tv-with-c++-and-opengl.html"
-    ]
-  ],
-  [
-    [
       "2022-09-24, 17:49:45",
       "https://news.ycombinator.com/item?id=32964994"
     ],
@@ -297,6 +267,36 @@
     [
       "Load Testing: An Unorthodox Guide",
       "https://www.marcobehler.com/guides/load-testing"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 18:14:31",
+      "https://news.ycombinator.com/item?id=32955307"
+    ],
+    [
+      "A World Wide View of Browsing the World Wide Web [pdf]",
+      "https://zakird.com/papers/browsing.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 17:59:03",
+      "https://news.ycombinator.com/item?id=32955159"
+    ],
+    [
+      "David Byrne, Philip Glass, Allen Ginsberg on the outsider art of Arthur Russell",
+      "https://faroutmagazine.co.uk/david-byrne-philip-glass-allen-ginsberg-on-arthur-russell/"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 12:29:58",
+      "https://news.ycombinator.com/item?id=32951001"
+    ],
+    [
+      "How to explain zero-knowledge protocols to your children (1998) [pdf]",
+      "https://pages.cs.wisc.edu/~mkowalcz/628.pdf"
     ]
   ]
 ]
