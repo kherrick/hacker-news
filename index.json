@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-09-26, 20:05:19",
+      "https://news.ycombinator.com/item?id=32987642"
+    ],
+    [
+      "The Pathologies of the Attention Economy",
+      "https://theconvivialsociety.substack.com/p/the-pathologies-of-the-attention"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 19:25:29",
+      "https://news.ycombinator.com/item?id=32987160"
+    ],
+    [
+      "Go runtime: 4 years later",
+      "https://go.dev/blog/go119runtime"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 19:25:15",
       "https://news.ycombinator.com/item?id=32987155"
     ],
     [
       "Explained from scratch: private information retrieval and homomorphic encryption",
       "https://blintzbase.com/posts/pir-and-fhe-from-scratch/"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 19:19:31",
+      "https://news.ycombinator.com/item?id=32987094"
+    ],
+    [
+      "CTO Should Be Technical",
+      "https://blog.southparkcommons.com/your-cto-should-actually-be-technical/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-09-26, 14:06:33",
-      "https://news.ycombinator.com/item?id=32983264"
-    ],
-    [
-      "Battery-free wireless imaging of underwater environments",
-      "https://www.nature.com/articles/s41467-022-33223-x"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 13:14:19",
       "https://news.ycombinator.com/item?id=32982697"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-09-26, 11:59:54",
-      "https://news.ycombinator.com/item?id=32982019"
-    ],
-    [
-      "Open Source Bait and Switch",
-      "https://debugagent.com/open-source-bait-and-switch"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 11:38:16",
       "https://news.ycombinator.com/item?id=32981822"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2022-09-26, 08:10:23",
+      "https://news.ycombinator.com/item?id=32980643"
+    ],
+    [
+      "Is the Micro Machines Guy Still the Fastest-Talking Man on the Planet? (2016)",
+      "https://nymag.com/speed/2016/12/is-the-micro-machines-guy-still-the-fastest-talking-man-on-the-planet.html"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 06:21:24",
       "https://news.ycombinator.com/item?id=32980040"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2022-09-26, 05:01:18",
-      "https://news.ycombinator.com/item?id=32979601"
-    ],
-    [
-      "The Sad State of Debug Performance in C++",
-      "https://vittorioromeo.info/index/blog/debug_performance_cpp.html"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 03:23:01",
       "https://news.ycombinator.com/item?id=32979026"
     ],
     [
       "“Beowulf”: A Horror Show",
       "https://www.publicbooks.org/maria-dahvana-headley-beowulf-horror/"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 11:24:18",
-      "https://news.ycombinator.com/item?id=32970404"
-    ],
-    [
-      "Young Diagrams and Classical Groups [pdf]",
-      "https://math.ucr.edu/home/baez/twf_young.pdf"
     ]
   ],
   [
