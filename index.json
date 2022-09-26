@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-26, 15:07:19",
+      "https://news.ycombinator.com/item?id=32984103"
+    ],
+    [
+      "Launch HN: Prequel (YC W21) – Sync data to your customer’s data warehouse",
+      "https://news.ycombinator.com/item?id=32984103"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 14:29:20",
+      "https://news.ycombinator.com/item?id=32983581"
+    ],
+    [
+      "Ask HN: Why do people write comments?",
+      "https://news.ycombinator.com/item?id=32983581"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 14:17:55",
       "https://news.ycombinator.com/item?id=32983406"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2022-09-26, 13:57:41",
-      "https://news.ycombinator.com/item?id=32983173"
+      "2022-09-26, 14:06:33",
+      "https://news.ycombinator.com/item?id=32983264"
     ],
     [
-      "British pound plummets to record low against the dollar",
-      "https://lite.cnn.com/en/article/h_fe80bb0bc4a5ff6c52e54a3c3cebee17"
+      "Battery-free wireless imaging of underwater environments",
+      "https://www.nature.com/articles/s41467-022-33223-x"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-09-26, 07:09:48",
-      "https://news.ycombinator.com/item?id=32980309"
-    ],
-    [
-      "Show HN: Open-Source Intercom with Help Center",
-      "https://github.com/chatwoot/chatwoot"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 06:38:46",
       "https://news.ycombinator.com/item?id=32980141"
     ],
@@ -257,16 +267,6 @@
     [
       "Simulating a CRT TV with C++ and OpenGL",
       "http://nicktasios.nl/posts/simulating-a-crt-tv-with-c++-and-opengl.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-24, 08:21:06",
-      "https://news.ycombinator.com/item?id=32960693"
-    ],
-    [
-      "Copy-on-Write with Deducing This",
-      "https://brevzin.github.io/c++/2022/09/23/copy-on-write/"
     ]
   ],
   [
