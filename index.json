@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-09-26, 10:50:04",
-      "https://news.ycombinator.com/item?id=32981482"
+      "2022-09-26, 12:15:19",
+      "https://news.ycombinator.com/item?id=32982155"
     ],
     [
-      "Stop others from tracking your car – NOTMYPLATE.COM",
-      "https://notmyplate.com/"
+      "An End to Pornography, Sophistry, and Panty Raids: on Edge.org and Epstein",
+      "https://www.wired.com/story/an-end-to-pornography-sophistry-and-panty-raids/"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 12:11:33",
+      "https://news.ycombinator.com/item?id=32982136"
+    ],
+    [
+      "Ziti: Programmable network overlay and edge components for zero-trust networking",
+      "https://github.com/openziti"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 11:59:54",
+      "https://news.ycombinator.com/item?id=32982019"
+    ],
+    [
+      "Open Source Bait and Switch",
+      "https://debugagent.com/open-source-bait-and-switch"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 11:38:16",
+      "https://news.ycombinator.com/item?id=32981822"
+    ],
+    [
+      "Reading Soviet Sci-Fi at the End of the World",
+      "https://themillions.com/2022/09/reading-soviet-sci-fi-at-the-end-of-the-world.html"
     ]
   ],
   [
@@ -17,16 +47,6 @@
     [
       "Non-Code Contributions to Open Source",
       "https://navendu.me/posts/non-code-contributions-to-open-source/"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 09:16:31",
-      "https://news.ycombinator.com/item?id=32980987"
-    ],
-    [
-      "Ask HN: How influential can physical appearance be in professional environments?",
-      "https://news.ycombinator.com/item?id=32980987"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-09-26, 00:26:33",
-      "https://news.ycombinator.com/item?id=32977970"
-    ],
-    [
-      "Exploring Time and Order in Distributed Systems",
-      "https://voidpapers.substack.com/p/voidpapers-time-clocks-and-the-ordering"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 00:14:17",
       "https://news.ycombinator.com/item?id=32977887"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-09-25, 16:24:13",
-      "https://news.ycombinator.com/item?id=32972923"
-    ],
-    [
-      "3x new books added to the Pirate Library Mirror",
-      "http://annas-blog.org/blog-3x-new-books.html"
-    ]
-  ],
-  [
-    [
       "2022-09-25, 16:22:34",
       "https://news.ycombinator.com/item?id=32972904"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2022-09-24, 16:18:17",
-      "https://news.ycombinator.com/item?id=32964074"
+      "2022-09-25, 00:43:48",
+      "https://news.ycombinator.com/item?id=32967944"
     ],
     [
-      "Has the Zodiac killer mystery been solved again?",
-      "https://www.lamag.com/citythinkblog/zodiac-killer-paul-alfred-doerr/"
+      "Fuzz Testing and Fuzz History (2017)",
+      "http://secretsofconsulting.blogspot.com/2017/02/fuzz-testing-and-fuzz-history.html"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2022-09-24, 08:21:06",
+      "https://news.ycombinator.com/item?id=32960693"
+    ],
+    [
+      "Copy-on-Write with Deducing This",
+      "https://brevzin.github.io/c++/2022/09/23/copy-on-write/"
+    ]
+  ],
+  [
+    [
       "2022-09-24, 07:54:27",
       "https://news.ycombinator.com/item?id=32960566"
     ],
     [
       "Load Testing: An Unorthodox Guide",
       "https://www.marcobehler.com/guides/load-testing"
-    ]
-  ],
-  [
-    [
-      "2022-09-24, 06:12:04",
-      "https://news.ycombinator.com/item?id=32960089"
-    ],
-    [
-      "Inspyr",
-      "https://github.com/TimoKats/inspyr"
     ]
   ],
   [
