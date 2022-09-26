@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-26, 20:22:24",
+      "https://news.ycombinator.com/item?id=32987840"
+    ],
+    [
+      "Enhance: a web standards-based HTML framework",
+      "https://enhance.dev/docs/"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 20:05:19",
       "https://news.ycombinator.com/item?id=32987642"
     ],
@@ -85,18 +95,8 @@
       "https://news.ycombinator.com/item?id=32986969"
     ],
     [
-      "I am a one-man show: Deployment and infrastructure for a 150k/m visits webapp",
+      "Deployment and infrastructure for a bootstrapped webapp with 150k monthly visits",
       "https://casparwre.de/blog/webapp-python-deployment/"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 18:46:58",
-      "https://news.ycombinator.com/item?id=32986713"
-    ],
-    [
-      "Cross Region Unikernels at the Edge",
-      "https://nanovms.com/dev/tutorials/cross-region-unikernels-edge"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2022-09-26, 03:23:01",
-      "https://news.ycombinator.com/item?id=32979026"
-    ],
-    [
-      "“Beowulf”: A Horror Show",
-      "https://www.publicbooks.org/maria-dahvana-headley-beowulf-horror/"
-    ]
-  ],
-  [
-    [
       "2022-09-25, 10:32:04",
       "https://news.ycombinator.com/item?id=32970198"
     ],
     [
       "GitHub Actions Pitfalls",
       "https://fusectore.dev/2022/09/25/github-actions-pitfalls.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-24, 23:23:58",
+      "https://news.ycombinator.com/item?id=32967503"
+    ],
+    [
+      "Life as a Victorian Teenager [video]",
+      "https://aeon.co/videos/from-manners-to-mud-two-women-recall-coming-of-age-in-victorian-london"
     ]
   ],
   [
