@@ -1,22 +1,92 @@
 [
   [
     [
+      "2022-09-26, 01:30:39",
+      "https://news.ycombinator.com/item?id=32978355"
+    ],
+    [
+      "People Don't Change Their Minds (Daniel Kahneman)",
+      "https://www.edge.org/adversarial-collaboration-daniel-kahneman"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 01:20:59",
+      "https://news.ycombinator.com/item?id=32978305"
+    ],
+    [
+      "The Unmagicking of Disney",
+      "https://marionteniade.substack.com/p/the-unmagicking-of-disney"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 00:42:40",
+      "https://news.ycombinator.com/item?id=32978057"
+    ],
+    [
+      "Offline map test on Apple Watch Ultra for hiking",
+      "https://jooonas.medium.com/offline-map-test-on-apple-watch-ultra-3b73541cec52"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 00:32:55",
+      "https://news.ycombinator.com/item?id=32978005"
+    ],
+    [
+      "JMAP: It’s Like IMAP but Not Really",
+      "https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 00:26:33",
+      "https://news.ycombinator.com/item?id=32977970"
+    ],
+    [
+      "Exploring Time and Order in Distributed Systems",
+      "https://voidpapers.substack.com/p/voidpapers-time-clocks-and-the-ordering"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 00:14:17",
+      "https://news.ycombinator.com/item?id=32977887"
+    ],
+    [
+      "Katara: Synthesizing CRDTs with Verified Lifting",
+      "https://arxiv.org/abs/2205.12425"
+    ]
+  ],
+  [
+    [
+      "2022-09-25, 22:47:19",
+      "https://news.ycombinator.com/item?id=32977196"
+    ],
+    [
+      "Downturn Career Decisions",
+      "https://lethain.com/downturn-career-decisions/"
+    ]
+  ],
+  [
+    [
+      "2022-09-25, 22:39:16",
+      "https://news.ycombinator.com/item?id=32977122"
+    ],
+    [
+      "LeanQt – a stripped-down Qt version easy to build from source and to inte (cont)",
+      "https://github.com/rochus-keller/LeanQt"
+    ]
+  ],
+  [
+    [
       "2022-09-25, 22:21:52",
       "https://news.ycombinator.com/item?id=32976978"
     ],
     [
       "Mcmaster.com is the best e-commerce site I've ever used",
       "https://www.bedelstein.com/post/mcmaster-carr"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 22:08:07",
-      "https://news.ycombinator.com/item?id=32976883"
-    ],
-    [
-      "Ask HN: When did you stop using a printer and why?",
-      "https://news.ycombinator.com/item?id=32976883"
     ]
   ],
   [
@@ -31,22 +101,22 @@
   ],
   [
     [
-      "2022-09-25, 21:20:01",
-      "https://news.ycombinator.com/item?id=32976390"
-    ],
-    [
-      "The Book of Swarm (2020) [pdf]",
-      "https://www.ethswarm.org/The-Book-of-Swarm.pdf"
-    ]
-  ],
-  [
-    [
       "2022-09-25, 19:50:37",
       "https://news.ycombinator.com/item?id=32975312"
     ],
     [
       "The Curious Design of Skateboard Trucks",
       "https://www.bedelstein.com/post/the-curious-design-of-skateboard-trucks"
+    ]
+  ],
+  [
+    [
+      "2022-09-25, 19:39:41",
+      "https://news.ycombinator.com/item?id=32975193"
+    ],
+    [
+      "New Frontiers in Analytical Philosophy (1977)",
+      "https://www.nytimes.com/1977/08/14/archives/new-frontiers-in-american-philosophy-philosophy.html"
     ]
   ],
   [
@@ -111,16 +181,6 @@
   ],
   [
     [
-      "2022-09-25, 16:09:46",
-      "https://news.ycombinator.com/item?id=32972763"
-    ],
-    [
-      "Algos in Plain English – Efficient Division Without Mult, Div, or Mod Operators",
-      "https://www.joeantonakakis.com/posts/divide-without-division-operator/"
-    ]
-  ],
-  [
-    [
       "2022-09-25, 15:04:35",
       "https://news.ycombinator.com/item?id=32972004"
     ],
@@ -161,56 +221,6 @@
   ],
   [
     [
-      "2022-09-25, 12:15:58",
-      "https://news.ycombinator.com/item?id=32970623"
-    ],
-    [
-      "Users reporting artifacts appearing in old images stored in Google Photos",
-      "https://support.google.com/photos/thread/180787712/corrupted-photos?hl=en"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 12:01:13",
-      "https://news.ycombinator.com/item?id=32970556"
-    ],
-    [
-      "Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations",
-      "https://skio.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 10:54:03",
-      "https://news.ycombinator.com/item?id=32970265"
-    ],
-    [
-      "Not Mysticizing System Dynamics",
-      "https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 09:11:33",
-      "https://news.ycombinator.com/item?id=32969957"
-    ],
-    [
-      "C++20, How Hard Could It Be",
-      "https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n0ug/edit?usp=sharing&resourcekey=0-GH5F3wdP7D4dmxvLdBaMvw"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 06:27:33",
-      "https://news.ycombinator.com/item?id=32969374"
-    ],
-    [
-      "When did POP and IMAP become a “legacy protocol?”",
-      "http://boston.conman.org//2022/09/22.1"
-    ]
-  ],
-  [
-    [
       "2022-09-25, 05:45:13",
       "https://news.ycombinator.com/item?id=32969238"
     ],
@@ -241,32 +251,22 @@
   ],
   [
     [
+      "2022-09-24, 12:17:53",
+      "https://news.ycombinator.com/item?id=32961815"
+    ],
+    [
+      "Lessons from a Professional Password Cracker",
+      "https://themarkup.org/newsletter/hello-world/lessons-from-a-professional-password-cracker"
+    ]
+  ],
+  [
+    [
       "2022-09-24, 11:30:02",
       "https://news.ycombinator.com/item?id=32961541"
     ],
     [
       "What to read to become a better writer",
       "https://www.economist.com/the-economist-reads/2022/09/09/what-to-read-to-become-a-better-writer"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 18:05:42",
-      "https://news.ycombinator.com/item?id=32955215"
-    ],
-    [
-      "Reshaping Text",
-      "https://leancrew.com/all-this/2022/09/reshaping-text/"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 16:24:17",
-      "https://news.ycombinator.com/item?id=32953980"
-    ],
-    [
-      "A history of ARM, part 1: Building the first chip",
-      "https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-09-23, 06:37:28",
-      "https://news.ycombinator.com/item?id=32948756"
+      "2022-09-23, 08:42:58",
+      "https://news.ycombinator.com/item?id=32949419"
     ],
     [
-      "The Ciao System",
-      "https://ciao-lang.org/ciao/build/doc/ciao.html/"
+      "Literate DevOps (2014)",
+      "http://howardism.org/Technical/Emacs/literate-devops.html"
     ]
   ],
   [
