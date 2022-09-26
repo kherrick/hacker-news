@@ -1,12 +1,62 @@
 [
   [
     [
-      "2022-09-26, 12:15:19",
-      "https://news.ycombinator.com/item?id=32982155"
+      "2022-09-26, 13:52:35",
+      "https://news.ycombinator.com/item?id=32983123"
     ],
     [
-      "An End to Pornography, Sophistry, and Panty Raids: on Edge.org and Epstein",
-      "https://www.wired.com/story/an-end-to-pornography-sophistry-and-panty-raids/"
+      "Loan ‘forgiveness’ means more money wasted on useless degrees",
+      "https://www.nationalreview.com/magazine/2022/10/03/student-debt-and-inflated-credentials/"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 13:14:19",
+      "https://news.ycombinator.com/item?id=32982697"
+    ],
+    [
+      "Cloudflare eSIM: The First Zero Trust SIM",
+      "https://blog.cloudflare.com/the-first-zero-trust-sim/"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 13:07:00",
+      "https://news.ycombinator.com/item?id=32982629"
+    ],
+    [
+      "A 20 Year Old Chipset Workaround Has Been Hurting Modern AMD Linux Systems",
+      "https://www.phoronix.com/news/Linux-AMD-Old-Chipset-WA"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 12:55:24",
+      "https://news.ycombinator.com/item?id=32982513"
+    ],
+    [
+      "Learning Is Remembering",
+      "https://saveall.ai/blog/learning-is-remembering"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 12:47:00",
+      "https://news.ycombinator.com/item?id=32982425"
+    ],
+    [
+      "SaaS services behind a startup",
+      "https://www.bytebase.com/blog/30saas-services-behind-startup"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 12:44:44",
+      "https://news.ycombinator.com/item?id=32982398"
+    ],
+    [
+      "Amazon walking back raises after internal bug miscalculated their compensation",
+      "https://www.businessinsider.com/amazon-promotion-raises-compensation-bug-2022-9"
     ]
   ],
   [
@@ -31,6 +81,16 @@
   ],
   [
     [
+      "2022-09-26, 11:56:58",
+      "https://news.ycombinator.com/item?id=32981981"
+    ],
+    [
+      "Show HN: Golang HTTP Clients/Servers and Alternative Networking",
+      "https://github.com/openziti-test-kitchen/go-http"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 11:38:16",
       "https://news.ycombinator.com/item?id=32981822"
     ],
@@ -45,7 +105,7 @@
       "https://news.ycombinator.com/item?id=32981383"
     ],
     [
-      "Non-Code Contributions to Open Source",
+      "Non-Code Contributions to Open Source (2021)",
       "https://navendu.me/posts/non-code-contributions-to-open-source/"
     ]
   ],
@@ -131,42 +191,12 @@
   ],
   [
     [
-      "2022-09-26, 00:14:17",
-      "https://news.ycombinator.com/item?id=32977887"
-    ],
-    [
-      "Katara: Synthesizing CRDTs with Verified Lifting",
-      "https://arxiv.org/abs/2205.12425"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 22:47:19",
-      "https://news.ycombinator.com/item?id=32977196"
-    ],
-    [
-      "Downturn career decisions",
-      "https://lethain.com/downturn-career-decisions/"
-    ]
-  ],
-  [
-    [
       "2022-09-25, 22:21:52",
       "https://news.ycombinator.com/item?id=32976978"
     ],
     [
       "Mcmaster.com is the best e-commerce site I've ever used",
       "https://www.bedelstein.com/post/mcmaster-carr"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 22:03:15",
-      "https://news.ycombinator.com/item?id=32976832"
-    ],
-    [
-      "Show HN: A Little Tool to Visualize Guitar Chords",
-      "https://muted.io/guitar-chords/"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2022-09-25, 19:38:28",
-      "https://news.ycombinator.com/item?id=32975173"
-    ],
-    [
-      "Someday aliens will land and all will be fine until we explain our calendar",
-      "https://twitter.com/foone/status/1572260363764400129"
-    ]
-  ],
-  [
-    [
       "2022-09-25, 16:22:34",
       "https://news.ycombinator.com/item?id=32972904"
     ],
     [
       "Something I implemented today: “is void”",
       "https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 15:04:35",
-      "https://news.ycombinator.com/item?id=32972004"
-    ],
-    [
-      "58 bytes of CSS to look great nearly everywhere",
-      "https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
+      "2022-09-25, 06:18:29",
+      "https://news.ycombinator.com/item?id=32969342"
+    ],
+    [
+      "Simulating a CRT TV with C++ and OpenGL",
+      "http://nicktasios.nl/posts/simulating-a-crt-tv-with-c++-and-opengl.html"
+    ]
+  ],
+  [
+    [
       "2022-09-25, 05:48:08",
       "https://news.ycombinator.com/item?id=32969253"
     ],
     [
       "Run programs in Emacs buffer, seeing their output inline, interactively",
       "https://github.com/darius/halp"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 00:43:48",
-      "https://news.ycombinator.com/item?id=32967944"
-    ],
-    [
-      "Fuzz Testing and Fuzz History (2017)",
-      "http://secretsofconsulting.blogspot.com/2017/02/fuzz-testing-and-fuzz-history.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How to explain zero-knowledge protocols to your children (1998) [pdf]",
       "https://pages.cs.wisc.edu/~mkowalcz/628.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 05:32:33",
-      "https://news.ycombinator.com/item?id=32948413"
-    ],
-    [
-      "The Subcontrabassoon Project",
-      "http://www.subcontrabassoon.com/media.html"
     ]
   ]
 ]
