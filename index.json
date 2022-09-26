@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-09-26, 13:52:35",
-      "https://news.ycombinator.com/item?id=32983123"
+      "2022-09-26, 14:17:55",
+      "https://news.ycombinator.com/item?id=32983406"
     ],
     [
-      "Loan ‘forgiveness’ means more money wasted on useless degrees",
-      "https://www.nationalreview.com/magazine/2022/10/03/student-debt-and-inflated-credentials/"
+      "Zen4's AVX512 Teardown",
+      "https://www.mersenneforum.org/showthread.php?p=614191"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 14:09:08",
+      "https://news.ycombinator.com/item?id=32983297"
+    ],
+    [
+      "Nvidia in the Valley",
+      "https://stratechery.com/2022/nvidia-in-the-valley/"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 13:57:41",
+      "https://news.ycombinator.com/item?id=32983173"
+    ],
+    [
+      "British pound plummets to record low against the dollar",
+      "https://lite.cnn.com/en/article/h_fe80bb0bc4a5ff6c52e54a3c3cebee17"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 13:39:59",
+      "https://news.ycombinator.com/item?id=32982988"
+    ],
+    [
+      "AMD Ryzen 9 7900X / Ryzen 9 7950X Benchmarks Show Impressive Linux Performance",
+      "https://www.phoronix.com/review/amd-ryzen-7900x-7950x-linux"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-09-26, 05:01:18",
-      "https://news.ycombinator.com/item?id=32979601"
-    ],
-    [
-      "The Sad State of Debug Performance in C++ – Vittorio Romeo",
-      "https://vittorioromeo.info/index/blog/debug_performance_cpp.html"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 01:30:39",
       "https://news.ycombinator.com/item?id=32978355"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2022-09-25, 09:54:53",
-      "https://news.ycombinator.com/item?id=32970069"
-    ],
-    [
-      "Rawhide – (rh) find files using pretty C expressions",
-      "https://raf.org/rawhide/README.html"
-    ]
-  ],
-  [
-    [
       "2022-09-25, 06:18:29",
       "https://news.ycombinator.com/item?id=32969342"
     ],
@@ -261,32 +271,22 @@
   ],
   [
     [
-      "2022-09-24, 12:17:53",
-      "https://news.ycombinator.com/item?id=32961815"
-    ],
-    [
-      "Lessons from a Professional Password Cracker",
-      "https://themarkup.org/newsletter/hello-world/lessons-from-a-professional-password-cracker"
-    ]
-  ],
-  [
-    [
-      "2022-09-24, 08:21:06",
-      "https://news.ycombinator.com/item?id=32960693"
-    ],
-    [
-      "Copy-on-Write with Deducing This",
-      "https://brevzin.github.io/c++/2022/09/23/copy-on-write/"
-    ]
-  ],
-  [
-    [
       "2022-09-24, 07:54:27",
       "https://news.ycombinator.com/item?id=32960566"
     ],
     [
       "Load Testing: An Unorthodox Guide",
       "https://www.marcobehler.com/guides/load-testing"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 18:14:31",
+      "https://news.ycombinator.com/item?id=32955307"
+    ],
+    [
+      "A World Wide View of Browsing the World Wide Web [pdf]",
+      "https://zakird.com/papers/browsing.pdf"
     ]
   ],
   [
