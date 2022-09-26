@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-26, 21:34:53",
+      "https://news.ycombinator.com/item?id=32988824"
+    ],
+    [
+      "Learn Physics with Functional Programming",
+      "https://lpfp.io/"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 21:20:04",
+      "https://news.ycombinator.com/item?id=32988592"
+    ],
+    [
+      "Real World OCaml: Functional Programming for the Masses",
+      "https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 21:08:41",
       "https://news.ycombinator.com/item?id=32988441"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-09-26, 17:21:04",
-      "https://news.ycombinator.com/item?id=32985713"
-    ],
-    [
-      "Five Walled Gardens: Operating systems are holding browsers back [pdf]",
-      "https://research.mozilla.org/files/2022/09/Mozilla_Five-Walled-Gardens.pdf"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 15:55:40",
       "https://news.ycombinator.com/item?id=32984731"
     ],
@@ -237,16 +247,6 @@
     [
       "Learning Is Remembering",
       "https://saveall.ai/blog/learning-is-remembering"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 12:11:33",
-      "https://news.ycombinator.com/item?id=32982136"
-    ],
-    [
-      "Ziti: Programmable network overlay and edge components for zero-trust networking",
-      "https://github.com/openziti"
     ]
   ],
   [
