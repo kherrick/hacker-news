@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-09-26, 10:08:13",
+      "https://news.ycombinator.com/item?id=32981245"
+    ],
+    [
+      "Ask HN: Apple dropping support for iPhone SE. What to do now?",
+      "https://news.ycombinator.com/item?id=32981245"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 09:16:31",
       "https://news.ycombinator.com/item?id=32980987"
     ],
@@ -67,6 +77,16 @@
     [
       "macOS Free and Open-Source Security Tools by Objective-See",
       "https://objective-see.org/tools.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 05:01:18",
+      "https://news.ycombinator.com/item?id=32979601"
+    ],
+    [
+      "The Sad State of Debug Performance in C++ – Vittorio Romeo",
+      "https://vittorioromeo.info/index/blog/debug_performance_cpp.html"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2022-09-25, 19:50:37",
-      "https://news.ycombinator.com/item?id=32975312"
-    ],
-    [
-      "The Curious Design of Skateboard Trucks",
-      "https://www.bedelstein.com/post/the-curious-design-of-skateboard-trucks"
-    ]
-  ],
-  [
-    [
       "2022-09-25, 19:38:28",
       "https://news.ycombinator.com/item?id=32975173"
     ],
     [
       "Someday aliens will land and all will be fine until we explain our calendar",
       "https://twitter.com/foone/status/1572260363764400129"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 19:05:03",
-      "https://news.ycombinator.com/item?id=32974824"
-    ],
-    [
-      "The Book of CP-System",
-      "https://fabiensanglard.net/cpsb/index.html"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2022-09-25, 05:45:13",
-      "https://news.ycombinator.com/item?id=32969238"
-    ],
-    [
-      "What does $0=$2 in awk do?",
-      "https://kau.sh/blog/awk-1-oneliner-dollar-explanation/"
-    ]
-  ],
-  [
-    [
       "2022-09-24, 12:17:53",
       "https://news.ycombinator.com/item?id=32961815"
     ],
     [
       "Lessons from a Professional Password Cracker",
       "https://themarkup.org/newsletter/hello-world/lessons-from-a-professional-password-cracker"
+    ]
+  ],
+  [
+    [
+      "2022-09-24, 07:54:27",
+      "https://news.ycombinator.com/item?id=32960566"
+    ],
+    [
+      "Load Testing: An Unorthodox Guide",
+      "https://www.marcobehler.com/guides/load-testing"
     ]
   ],
   [
