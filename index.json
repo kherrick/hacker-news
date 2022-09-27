@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-09-26, 23:56:16",
+      "https://news.ycombinator.com/item?id=32990177"
+    ],
+    [
+      "Experimenting a New Syntax to Write SVG",
+      "https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 23:50:13",
+      "https://news.ycombinator.com/item?id=32990127"
+    ],
+    [
+      "Ignite – Use Firecracker VMs with Docker images",
+      "https://github.com/weaveworks/ignite"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 22:33:14",
       "https://news.ycombinator.com/item?id=32989480"
     ],
     [
-      "Google: Only Persistent LogIn",
+      "Only Persistent Login",
       "http://avodonosov.blogspot.com/2022/09/google-login-dialog-does-not-have.html"
     ]
   ],
@@ -17,46 +37,6 @@
     [
       "Httpt: A Probe-Resistant Proxy – Usenix",
       "https://www.usenix.org/conference/foci20/presentation/frolov"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 22:23:38",
-      "https://news.ycombinator.com/item?id=32989385"
-    ],
-    [
-      "Raytheon, Northrop Grumman to build Air Force scramjet hypersonic missiles",
-      "https://www.militaryaerospace.com/sensors/article/14283258/hypersonic-scramjet-cruise-missiles"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 22:23:35",
-      "https://news.ycombinator.com/item?id=32989384"
-    ],
-    [
-      "My VM is Lighter (and Safer) than your Container (2017)",
-      "https://dl.acm.org/doi/pdf/10.1145/3132747.3132763"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 21:38:41",
-      "https://news.ycombinator.com/item?id=32988881"
-    ],
-    [
-      "Biogen agrees to pay $900M to settle drug kickbacks allegations",
-      "https://www.justice.gov/usao-ma/pr/biogen-inc-agrees-pay-900-million-settle-false-claims-act-allegations-related-improper"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 21:37:39",
-      "https://news.ycombinator.com/item?id=32988859"
-    ],
-    [
-      "Unheard Voice: Evaluating five years of pro-Western covert influence operations [pdf]",
-      "https://stacks.stanford.edu/file/druid:nj914nx9540/unheard-voice-tt.pdf"
     ]
   ],
   [
@@ -267,6 +247,26 @@
     [
       "Learning Is Remembering",
       "https://saveall.ai/blog/learning-is-remembering"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 11:20:07",
+      "https://news.ycombinator.com/item?id=32981675"
+    ],
+    [
+      "Hideyuki Suganami and the Birth of Seven Force",
+      "https://rasterscroll.com/the-birth-of-seven-force/"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 08:10:23",
+      "https://news.ycombinator.com/item?id=32980643"
+    ],
+    [
+      "Is the Micro Machines guy still the fastest-talking man on the planet? (2016)",
+      "https://nymag.com/speed/2016/12/is-the-micro-machines-guy-still-the-fastest-talking-man-on-the-planet.html"
     ]
   ],
   [
