@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-09-27, 15:18:51",
+      "https://news.ycombinator.com/item?id=32996457"
+    ],
+    [
+      "Ask HN: Have you experienced “hiring fraud?”",
+      "https://news.ycombinator.com/item?id=32996457"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 14:52:02",
+      "https://news.ycombinator.com/item?id=32996033"
+    ],
+    [
+      "Room-temperature superconductivity study retracted",
+      "https://www.science.org/content/article/something-seriously-wrong-room-temperature-superconductivity-study-retracted"
+    ]
+  ],
+  [
+    [
       "2022-09-27, 14:48:02",
       "https://news.ycombinator.com/item?id=32995975"
     ],
     [
       "Apple removed all VK and Mail.ru applications from the App Store",
       "https://mezha.media/en/2022/09/27/apple-removed-all-vk-and-mail-ru-applications-from-the-app-store/"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 14:43:09",
+      "https://news.ycombinator.com/item?id=32995883"
+    ],
+    [
+      "WhatsApp Remote Code Execution in Video Call",
+      "https://nvd.nist.gov/vuln/detail/CVE-2022-36934"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 14:40:35",
+      "https://news.ycombinator.com/item?id=32995844"
+    ],
+    [
+      "Apple Car: Bad Idea After All",
+      "https://mondaynote.com/apple-car-bad-idea-after-all-9468947640ee?gi=16f058e831c9"
     ]
   ],
   [
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2022-09-27, 13:07:14",
-      "https://news.ycombinator.com/item?id=32994771"
-    ],
-    [
-      "Ask HN: Real-world anecdotes of MySQL at scale?",
-      "https://news.ycombinator.com/item?id=32994771"
-    ]
-  ],
-  [
-    [
       "2022-09-27, 13:05:09",
       "https://news.ycombinator.com/item?id=32994757"
     ],
@@ -117,16 +147,6 @@
     [
       "Not as famous as they should be (2021)",
       "https://datagubbe.se/famous/"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 11:06:11",
-      "https://news.ycombinator.com/item?id=32993759"
-    ],
-    [
-      "DataBorg – Knowledge Management Simplified",
-      "https://databorg.ai/"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Stop overcomplicating it: A simple guidebook to upping your management game",
       "https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 23:56:16",
-      "https://news.ycombinator.com/item?id=32990177"
-    ],
-    [
-      "Experimenting a new syntax to write SVG",
-      "https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 23:50:13",
-      "https://news.ycombinator.com/item?id=32990127"
-    ],
-    [
-      "Ignite – Use Firecracker VMs with Docker images",
-      "https://github.com/weaveworks/ignite"
     ]
   ],
   [
