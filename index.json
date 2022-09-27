@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-27, 13:05:09",
+      "https://news.ycombinator.com/item?id=32994757"
+    ],
+    [
+      "Cloudflare Calls",
+      "https://blog.cloudflare.com/announcing-cloudflare-calls/"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 12:42:24",
+      "https://news.ycombinator.com/item?id=32994584"
+    ],
+    [
+      "Making Python fast for free – adventures with mypyc",
+      "https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/"
+    ]
+  ],
+  [
+    [
       "2022-09-27, 11:34:19",
       "https://news.ycombinator.com/item?id=32993985"
     ],
@@ -17,6 +37,16 @@
     [
       "DataBorg – Knowledge Management Simplified",
       "https://databorg.ai/"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 10:46:52",
+      "https://news.ycombinator.com/item?id=32993648"
+    ],
+    [
+      "The Ringelmann Effect",
+      "https://rnjn.in/articles/the-ringelmann-effect/"
     ]
   ],
   [
@@ -161,36 +191,6 @@
   ],
   [
     [
-      "2022-09-26, 22:33:14",
-      "https://news.ycombinator.com/item?id=32989480"
-    ],
-    [
-      "Only Persistent LogIn",
-      "http://avodonosov.blogspot.com/2022/09/google-login-dialog-does-not-have.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 19:45:32",
-      "https://news.ycombinator.com/item?id=32987413"
-    ],
-    [
-      "Dear Chess World",
-      "https://twitter.com/MagnusCarlsen/status/1574482694406565888"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 19:25:15",
-      "https://news.ycombinator.com/item?id=32987155"
-    ],
-    [
-      "Explained from scratch: private information retrieval and homomorphic encryption",
-      "https://blintzbase.com/posts/pir-and-fhe-from-scratch/"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 19:19:31",
       "https://news.ycombinator.com/item?id=32987094"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-09-26, 06:44:08",
+      "https://news.ycombinator.com/item?id=32980171"
+    ],
+    [
+      "The minimum viable fan control script",
+      "https://ounapuu.ee/posts/2022/09/26/minimum-viable-fan-control-script/"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 03:49:06",
       "https://news.ycombinator.com/item?id=32979190"
     ],
@@ -277,16 +287,6 @@
     [
       "India's lattice buildings cool without air con",
       "https://www.bbc.com/future/article/20220920-how-indias-lattice-buildings-cool-without-air-con"
-    ]
-  ],
-  [
-    [
-      "2022-09-24, 23:23:58",
-      "https://news.ycombinator.com/item?id=32967503"
-    ],
-    [
-      "Two women recall coming of age in Victorian London (1970) [video]",
-      "https://aeon.co/videos/from-manners-to-mud-two-women-recall-coming-of-age-in-victorian-london"
     ]
   ],
   [
