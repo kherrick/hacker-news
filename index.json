@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-09-27, 14:03:31",
-      "https://news.ycombinator.com/item?id=32995360"
+      "2022-09-27, 14:48:02",
+      "https://news.ycombinator.com/item?id=32995975"
     ],
     [
-      "iPhone = Privacy?",
-      "https://kerkour.com/iphone-privacy"
+      "Apple removed all VK and Mail.ru applications from the App Store",
+      "https://mezha.media/en/2022/09/27/apple-removed-all-vk-and-mail-ru-applications-from-the-app-store/"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 14:30:57",
+      "https://news.ycombinator.com/item?id=32995694"
+    ],
+    [
+      "Named element IDs can be referenced as JavaScript globals",
+      "https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/"
     ]
   ],
   [
@@ -87,6 +97,16 @@
     [
       "Making Python fast – Adventures with mypyc",
       "https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 12:28:50",
+      "https://news.ycombinator.com/item?id=32994480"
+    ],
+    [
+      "Two Hundred Years Ago, the Rosetta Stone Unlocked the Secrets of Ancient Egypt",
+      "https://www.smithsonianmag.com/history/rosetta-stone-hieroglyphs-champollion-decipherment-egypt-180980834/"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-09-26, 19:13:01",
-      "https://news.ycombinator.com/item?id=32987028"
-    ],
-    [
-      "Outdated vs. Complete: In defense of apps that don’t need updates",
-      "https://vivqu.com/blog/2022/09/25/outdated-apps/"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 11:53:50",
       "https://news.ycombinator.com/item?id=32981947"
     ],
     [
       "Show HN: Paste React components into any website",
       "https://smarketman.com/instant/react/"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 11:32:15",
-      "https://news.ycombinator.com/item?id=32981776"
-    ],
-    [
-      "MTG Extended 1997",
-      "https://fabiensanglard.net/mtg_extended_1997/"
     ]
   ],
   [
