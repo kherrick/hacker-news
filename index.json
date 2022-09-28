@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-09-27, 22:06:20",
-      "https://news.ycombinator.com/item?id=33001735"
+      "2022-09-28, 02:54:34",
+      "https://news.ycombinator.com/item?id=33003777"
     ],
     [
-      "Guido was right, there should be no lambda in Python (2018)",
-      "https://pbrown.me/blog/vslambda/"
+      "The Open Source PC That Fits in Your Pocket",
+      "https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 01:55:34",
+      "https://news.ycombinator.com/item?id=33003434"
+    ],
+    [
+      "Taken Under Fascism, Spain’s ‘Stolen Babies’ Are Learning the Truth",
+      "https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 01:48:22",
+      "https://news.ycombinator.com/item?id=33003398"
+    ],
+    [
+      "California can't save every burned town",
+      "https://www.latimes.com/california/story/2022-09-27/california-climate-change-stop-rebuilding-rural-towns-wildfire-greenville"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 01:22:27",
+      "https://news.ycombinator.com/item?id=33003245"
+    ],
+    [
+      "Snakeware – Linux distro with Python userspace inspired by Commodore 64",
+      "https://github.com/joshiemoore/snakeware"
     ]
   ],
   [
@@ -17,6 +47,16 @@
     [
       "Integrating with Fastmail",
       "https://www.fastmail.com/developer/integrating-with-fastmail/"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 21:29:11",
+      "https://news.ycombinator.com/item?id=33001357"
+    ],
+    [
+      "Explosive Laden Drone Found Near Nord Stream Pipeline (2015)",
+      "https://www.pipeline-journal.net/news/explosive-laden-drone-found-near-nord-stream-pipeline"
     ]
   ],
   [
@@ -37,16 +77,6 @@
     [
       "EasyPost (YC S13) Is Hiring",
       "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 20:13:30",
-      "https://news.ycombinator.com/item?id=33000545"
-    ],
-    [
-      "The Rocketeer Who Never Was (2019)",
-      "http://www.astronautix.com/t/therocketeerwhoneverwas.html"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2022-09-27, 15:58:46",
-      "https://news.ycombinator.com/item?id=32997102"
-    ],
-    [
-      "The Disappearing Art of Maintenance",
-      "https://www.noemamag.com/the-disappearing-art-of-maintenance/"
-    ]
-  ],
-  [
-    [
       "2022-09-27, 15:50:01",
       "https://news.ycombinator.com/item?id=32996953"
     ],
@@ -137,16 +157,6 @@
     [
       "What happened to Tandy computers",
       "https://dfarq.homeip.net/what-happened-to-tandy-computers/"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 15:18:51",
-      "https://news.ycombinator.com/item?id=32996457"
-    ],
-    [
-      "Ask HN: Have you experienced “hiring fraud?”",
-      "https://news.ycombinator.com/item?id=32996457"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-09-27, 13:23:37",
-      "https://news.ycombinator.com/item?id=32994922"
-    ],
-    [
-      "Gas Leak in the Baltic Sea",
-      "https://www.forsvaret.dk/en/news/2022/gas-leak-in-the-baltic-sea/"
-    ]
-  ],
-  [
-    [
       "2022-09-27, 13:16:27",
       "https://news.ycombinator.com/item?id=32994848"
     ],
@@ -221,12 +221,22 @@
   ],
   [
     [
-      "2022-09-27, 09:18:36",
-      "https://news.ycombinator.com/item?id=32993130"
+      "2022-09-26, 23:34:24",
+      "https://news.ycombinator.com/item?id=32990016"
     ],
     [
-      "Show HN: Get conversational practice in over 20 languages by talking to an AI",
-      "https://talk.quazel.com/chat/try"
+      "Zurich hack 2022 Denotational Design",
+      "https://jappie.me/zurich-hack-2022-denotational-design.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 16:27:17",
+      "https://news.ycombinator.com/item?id=32985096"
+    ],
+    [
+      "Tail Latency Aware Caching (2018)",
+      "https://blog.acolyer.org/2018/10/26/robinhood-tail-latency-aware-caching-dynamic-reallocation-from-cache-rich-to-cache-poor/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "macOS keeps a huge wallpapers cache",
       "https://giuliomagnifico.blog/tips/2022/09/25/macos-wallpaper-huge-cache.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 06:52:30",
-      "https://news.ycombinator.com/item?id=32980219"
-    ],
-    [
-      "Group Dynamics: The Leader's Toolkit",
-      "https://www.edbatista.com/2022/09/group-dynamics-the-leaders-toolkit.html"
     ]
   ],
   [
