@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-09-28, 13:00:29",
+      "https://news.ycombinator.com/item?id=33007370"
+    ],
+    [
+      "Turnstile, privacy-preserving alternative to CAPTCHA by Cloudflare",
+      "https://blog.cloudflare.com/turnstile-private-captcha-alternative/"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 12:29:18",
       "https://news.ycombinator.com/item?id=33007117"
     ],
     [
       "Security in Plan 9",
       "https://9p.io/sys/doc/auth.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 12:18:04",
+      "https://news.ycombinator.com/item?id=33007035"
+    ],
+    [
+      "Apple Has Reportedly Rejected TSMC's Chip Price Hike of 6%",
+      "https://wccftech.com/apple-rejects-tsmc-chip-price-hike/"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 12:16:11",
+      "https://news.ycombinator.com/item?id=33007025"
+    ],
+    [
+      "Google Broke Image Search for Creative Commons and Hardly Anyone Noticed",
+      "https://cogdogblog.com/2022/09/google-broke-cc-image-search/"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 11:47:26",
+      "https://news.ycombinator.com/item?id=33006827"
+    ],
+    [
+      "Why Are Sex Workers Forced to Wear a Financial Scarlet Letter?",
+      "https://thewalrus.ca/why-are-sex-workers-forced-to-wear-a-financial-scarlet-letter/"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 11:29:26",
+      "https://news.ycombinator.com/item?id=33006728"
+    ],
+    [
+      "KeePassXC: Beware of unofficial Microsoft Store listing",
+      "https://twitter.com/KeePassXC/status/1575081535442628609"
     ]
   ],
   [
@@ -27,16 +77,6 @@
     [
       "D3wasm 0.4 – Doom 3 in WASM",
       "https://wasm.continuation-labs.com/d3demo/"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 10:19:10",
-      "https://news.ycombinator.com/item?id=33006368"
-    ],
-    [
-      "Ask HN: How to be less opinionated?",
-      "https://news.ycombinator.com/item?id=33006368"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "Gaming CS Interviews",
       "https://transitivebullsh.it/gaming-cs-interviews"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 06:20:49",
-      "https://news.ycombinator.com/item?id=33004799"
-    ],
-    [
-      "I've said it all before but here we go again",
-      "http://backreaction.blogspot.com/2022/09/ive-said-it-all-before-but-here-we-go.html"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2022-09-27, 18:25:24",
-      "https://news.ycombinator.com/item?id=32999133"
-    ],
-    [
-      "Closing a 30 pixel gap between native and web",
-      "https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/"
-    ]
-  ],
-  [
-    [
       "2022-09-27, 18:21:00",
       "https://news.ycombinator.com/item?id=32999084"
     ],
     [
       "Six months as a full time pancreas",
       "https://maori.geek.nz/6-months-as-a-full-time-pancreas-34ae09106293?gi=17385e4948fd"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 17:05:27",
-      "https://news.ycombinator.com/item?id=32998091"
-    ],
-    [
-      "Kill-sticky, a bookmarklet to remove sticky elements and restore scrolling",
-      "https://github.com/t-mart/kill-sticky"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2022-09-27, 13:01:05",
-      "https://news.ycombinator.com/item?id=32994723"
-    ],
-    [
-      "Workerd: Open-source Cloudflare workers runtime",
-      "https://blog.cloudflare.com/workerd-open-source-workers-runtime/"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 06:22:49",
-      "https://news.ycombinator.com/item?id=32992057"
-    ],
-    [
-      "The Rings of Share – the unsolved problem of sharing",
-      "https://ruky.me/2022/09/26/the-rings-of-share/"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 21:26:30",
       "https://news.ycombinator.com/item?id=32988686"
     ],
@@ -267,6 +257,16 @@
     [
       "Norman Rockwell and the golden age of classic food illustration (2019)",
       "https://phoode.com/blog/norman-rockwell-golden-age-food-illustration/"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 12:54:50",
+      "https://news.ycombinator.com/item?id=32982507"
+    ],
+    [
+      "Discover Kentucky Archaeology",
+      "https://archaeology.ky.gov:443/Find-a-Site/Pages/default.aspx"
     ]
   ],
   [
