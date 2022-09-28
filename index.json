@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-28, 10:47:52",
+      "https://news.ycombinator.com/item?id=33006523"
+    ],
+    [
+      "D3wasm 0.4 – Doom 3 in WASM",
+      "https://wasm.continuation-labs.com/d3demo/"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 10:05:21",
       "https://news.ycombinator.com/item?id=33006285"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2022-09-28, 09:34:44",
+      "https://news.ycombinator.com/item?id=33006112"
+    ],
+    [
+      "Neuromorphic object localization using resistive memory, ultrasonic transducers",
+      "https://www.nature.com/articles/s41467-022-31157-y"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 08:28:43",
       "https://news.ycombinator.com/item?id=33005585"
     ],
@@ -37,26 +57,6 @@
     [
       "Cloudflare GA Week Recap",
       "https://softwarestackinvesting.com/cloudflare-ga-week-recap/"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 06:55:02",
-      "https://news.ycombinator.com/item?id=33004979"
-    ],
-    [
-      "The Bifurcation Created by Technology",
-      "https://wearenotsaved.com/2022/09/28/the-bifurcation-created-by-technology/"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 06:26:40",
-      "https://news.ycombinator.com/item?id=33004825"
-    ],
-    [
-      "Gaming CS Interviews",
-      "https://transitivebullsh.it/gaming-cs-interviews"
     ]
   ],
   [
@@ -131,22 +131,12 @@
   ],
   [
     [
-      "2022-09-27, 21:00:47",
-      "https://news.ycombinator.com/item?id=33001053"
+      "2022-09-27, 21:12:16",
+      "https://news.ycombinator.com/item?id=33001191"
     ],
     [
-      "EasyPost (YC S13) Is Hiring",
-      "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 19:55:00",
-      "https://news.ycombinator.com/item?id=33000306"
-    ],
-    [
-      "A beginners guide to Esperanto (2003)",
-      "https://www.theguardian.com/lifeandstyle/2003/jul/12/weekend.davidnewnham"
+      "Building Blocks for Theoretical Computer Science (2017) [pdf]",
+      "https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2022-09-27, 09:18:36",
+      "https://news.ycombinator.com/item?id=32993130"
+    ],
+    [
+      "Show HN: Get conversational practice in over 20 languages by talking to an AI",
+      "https://talk.quazel.com/chat/try"
+    ]
+  ],
+  [
+    [
       "2022-09-27, 06:22:49",
       "https://news.ycombinator.com/item?id=32992057"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2022-09-26, 19:31:36",
-      "https://news.ycombinator.com/item?id=32987230"
+      "2022-09-26, 16:27:17",
+      "https://news.ycombinator.com/item?id=32985096"
     ],
     [
-      "Factory jobs are booming like it’s the 1970s",
-      "https://www.nytimes.com/2022/09/26/business/factory-jobs-workers-rebound.html"
+      "Tail Latency Aware Caching (2018)",
+      "https://blog.acolyer.org/2018/10/26/robinhood-tail-latency-aware-caching-dynamic-reallocation-from-cache-rich-to-cache-poor/"
     ]
   ],
   [
