@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-09-28, 05:42:34",
+      "https://news.ycombinator.com/item?id=33004603"
+    ],
+    [
+      "Hard-Won Victories: Solving the Mystery of Some “Mystery Photos”",
+      "https://blogs.loc.gov/now-see-hear/2018/05/hard-won-victories-solving-the-mystery-of-some-mystery-photos/"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 04:46:13",
       "https://news.ycombinator.com/item?id=33004334"
     ],
     [
-      "Tiny Robots Have Successfully Cleared Pneumonia from the Lungs of Mice",
+      "Tiny robots have successfully cleared pneumonia from the lungs of mice",
       "https://www.nature.com/articles/s41563-022-01360-9"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33004012"
     ],
     [
-      "Nord Stream Hyperbaric Welding",
+      "Nord Stream: Tie-ins and hyperbaric welding",
       "https://www.wermac.org/nordstream/nordstream_part9.html"
     ]
   ],
@@ -41,11 +51,21 @@
   ],
   [
     [
+      "2022-09-28, 02:01:05",
+      "https://news.ycombinator.com/item?id=33003459"
+    ],
+    [
+      "Posits, a New Kind of Number, Improves the Math of AI",
+      "https://spectrum.ieee.org/floating-point-numbers-posits-processor"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 01:55:34",
       "https://news.ycombinator.com/item?id=33003434"
     ],
     [
-      "Taken Under Fascism, Spain’s ‘Stolen Babies’ Are Learning the Truth",
+      "Taken under fascism, Spain’s ‘stolen babies’ are learning the truth",
       "https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33001191"
     ],
     [
-      "Building Blocks for Theoretical Computer Science [pdf]",
+      "Building Blocks for Theoretical Computer Science (2017) [pdf]",
       "https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf"
     ]
   ],
@@ -191,42 +211,22 @@
   ],
   [
     [
-      "2022-09-27, 14:43:09",
-      "https://news.ycombinator.com/item?id=32995883"
-    ],
-    [
-      "WhatsApp Remote Code Execution in Video Call",
-      "https://nvd.nist.gov/vuln/detail/CVE-2022-36934"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 14:40:35",
-      "https://news.ycombinator.com/item?id=32995844"
-    ],
-    [
-      "Apple Car: Bad Idea After All",
-      "https://mondaynote.com/apple-car-bad-idea-after-all-9468947640ee?gi=16f058e831c9"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 14:30:57",
-      "https://news.ycombinator.com/item?id=32995694"
-    ],
-    [
-      "Named element IDs can be referenced as JavaScript globals",
-      "https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/"
-    ]
-  ],
-  [
-    [
       "2022-09-27, 13:01:05",
       "https://news.ycombinator.com/item?id=32994723"
     ],
     [
       "Workerd: Open-source Cloudflare workers runtime",
       "https://blog.cloudflare.com/workerd-open-source-workers-runtime/"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 06:22:49",
+      "https://news.ycombinator.com/item?id=32992057"
+    ],
+    [
+      "The Rings of Share – the unsolved problem of sharing",
+      "https://ruky.me/2022/09/26/the-rings-of-share/"
     ]
   ],
   [
