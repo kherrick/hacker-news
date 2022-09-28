@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-28, 04:46:13",
+      "https://news.ycombinator.com/item?id=33004334"
+    ],
+    [
+      "Tiny Robots Have Successfully Cleared Pneumonia from the Lungs of Mice",
+      "https://www.nature.com/articles/s41563-022-01360-9"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 03:45:17",
+      "https://news.ycombinator.com/item?id=33004012"
+    ],
+    [
+      "Nord Stream Hyperbaric Welding",
+      "https://www.wermac.org/nordstream/nordstream_part9.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 03:27:41",
+      "https://news.ycombinator.com/item?id=33003929"
+    ],
+    [
+      "Show HN: Refurb – A tool for refurbishing and modernizing Python codebases",
+      "https://github.com/dosisod/refurb"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 02:54:34",
       "https://news.ycombinator.com/item?id=33003777"
     ],
@@ -101,22 +131,22 @@
   ],
   [
     [
-      "2022-09-27, 18:51:12",
-      "https://news.ycombinator.com/item?id=32999454"
-    ],
-    [
-      "SEC charges owners of New Jersey Deli with a $100M Valuation",
-      "https://www.sec.gov/news/press-release/2022-172"
-    ]
-  ],
-  [
-    [
       "2022-09-27, 18:25:24",
       "https://news.ycombinator.com/item?id=32999133"
     ],
     [
       "Closing a 30 pixel gap between native and web",
       "https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 18:21:00",
+      "https://news.ycombinator.com/item?id=32999084"
+    ],
+    [
+      "Six months as a full time pancreas",
+      "https://maori.geek.nz/6-months-as-a-full-time-pancreas-34ae09106293?gi=17385e4948fd"
     ]
   ],
   [
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2022-09-27, 13:16:27",
-      "https://news.ycombinator.com/item?id=32994848"
-    ],
-    [
-      "Harrison Bergeron (1961)",
-      "https://archive.org/details/HarrisonBergeron"
-    ]
-  ],
-  [
-    [
       "2022-09-27, 13:01:05",
       "https://news.ycombinator.com/item?id=32994723"
     ],
     [
       "Workerd: Open-source Cloudflare workers runtime",
       "https://blog.cloudflare.com/workerd-open-source-workers-runtime/"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 12:42:24",
-      "https://news.ycombinator.com/item?id=32994584"
-    ],
-    [
-      "Making Python fast – Adventures with mypyc",
-      "https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 23:34:24",
-      "https://news.ycombinator.com/item?id=32990016"
-    ],
-    [
-      "Zurich hack 2022 Denotational Design",
-      "https://jappie.me/zurich-hack-2022-denotational-design.html"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-09-26, 12:33:03",
+      "https://news.ycombinator.com/item?id=32982290"
+    ],
+    [
+      "Zen Evolution: A Small Overview",
+      "https://locuza.substack.com/p/zen-evolution-a-small-overview"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 11:20:41",
       "https://news.ycombinator.com/item?id=32981679"
     ],
@@ -287,16 +297,6 @@
     [
       "CCPS, a Capcom CPS-1 SDK",
       "https://fabiensanglard.net/ccps/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 05:05:53",
-      "https://news.ycombinator.com/item?id=32979631"
-    ],
-    [
-      "Benzene’s bond lengths corrected",
-      "https://www.chemistryworld.com/news/benzenes-bond-lengths-corrected/4016266.article"
     ]
   ]
 ]
