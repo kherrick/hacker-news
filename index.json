@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-28, 16:11:31",
+      "https://news.ycombinator.com/item?id=33009657"
+    ],
+    [
+      "Penpot Raises $8M Series A",
+      "https://community.penpot.app/t/penpot-our-time-has-come/1563"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 14:59:21",
       "https://news.ycombinator.com/item?id=33008758"
     ],
@@ -25,18 +35,8 @@
       "https://news.ycombinator.com/item?id=33008519"
     ],
     [
-      "Ken Thompson Did Launch His “Trusting Trust” Trojan Attack in Real Life",
+      "Ken Thompson really did launch his \"trusting trust\" trojan attack in real life",
       "https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 14:39:51",
-      "https://news.ycombinator.com/item?id=33008513"
-    ],
-    [
-      "U.S. mortgage interest rates jump to 6.52%, highest since mid-2008",
-      "https://www.reuters.com/markets/us/us-mortgage-interest-rates-jump-652-highest-since-mid-2008-2022-09-28/"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33007873"
     ],
     [
-      "We reduced our annual server costs by 80% by moving away from AWS",
+      "We reduced our server costs by moving away from AWS",
       "https://levelup.gitconnected.com/how-we-reduced-our-annual-server-costs-by-80-from-1m-to-200k-by-moving-away-from-aws-2b98cbd21b46?gi=bb7f54e84163"
     ]
   ],
@@ -121,12 +121,12 @@
   ],
   [
     [
-      "2022-09-28, 11:15:45",
-      "https://news.ycombinator.com/item?id=33006653"
+      "2022-09-28, 11:11:45",
+      "https://news.ycombinator.com/item?id=33006634"
     ],
     [
-      "Minimize Heap Allocations in Node.js",
-      "https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html"
+      "Smooth scrolling 60fps on MSDOS 286",
+      "https://cohost.org/eniko/post/118719-smooth-scrolling-60f"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-09-28, 01:22:27",
-      "https://news.ycombinator.com/item?id=33003245"
-    ],
-    [
-      "Snakeware – Linux distro with Python userspace inspired by Commodore 64",
-      "https://github.com/joshiemoore/snakeware"
-    ]
-  ],
-  [
-    [
       "2022-09-27, 20:24:10",
       "https://news.ycombinator.com/item?id=33000654"
     ],
@@ -277,6 +267,16 @@
     [
       "The Uncage",
       "https://surjan.substack.com/p/introducing-the-uncage"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 20:11:23",
+      "https://news.ycombinator.com/item?id=32987710"
+    ],
+    [
+      "Katakana, Hiragana, and Unicode",
+      "https://www.johndcook.com/blog/2022/09/25/katakana-hiragana-unicode/"
     ]
   ],
   [
