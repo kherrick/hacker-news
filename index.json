@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-09-28, 08:03:17",
-      "https://news.ycombinator.com/item?id=33005397"
+      "2022-09-28, 08:28:43",
+      "https://news.ycombinator.com/item?id=33005585"
     ],
     [
-      "62 People own the same as half the world, reveals Oxfam Davos report",
-      "https://www.oxfam.org/en/press-releases/62-people-own-same-half-world-reveals-oxfam-davos-report"
+      "High-performance image generation using Stable Diffusion in KerasCV",
+      "https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 07:45:05",
+      "https://news.ycombinator.com/item?id=33005260"
+    ],
+    [
+      "Cloudflare GA Week Recap",
+      "https://softwarestackinvesting.com/cloudflare-ga-week-recap/"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "I've said it all before but here we go again",
       "http://backreaction.blogspot.com/2022/09/ive-said-it-all-before-but-here-we-go.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 04:46:13",
-      "https://news.ycombinator.com/item?id=33004334"
-    ],
-    [
-      "Tiny robots have successfully cleared pneumonia from the lungs of mice",
-      "https://www.nature.com/articles/s41563-022-01360-9"
     ]
   ],
   [
@@ -117,26 +117,6 @@
     [
       "Integrating with Fastmail",
       "https://www.fastmail.com/developer/integrating-with-fastmail/"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 21:29:11",
-      "https://news.ycombinator.com/item?id=33001357"
-    ],
-    [
-      "Explosive Laden Drone Found Near Nord Stream Pipeline (2015)",
-      "https://www.pipeline-journal.net/news/explosive-laden-drone-found-near-nord-stream-pipeline"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 21:12:16",
-      "https://news.ycombinator.com/item?id=33001191"
-    ],
-    [
-      "Building Blocks for Theoretical Computer Science (2017) [pdf]",
-      "https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2022-09-27, 13:01:05",
+      "https://news.ycombinator.com/item?id=32994723"
+    ],
+    [
+      "Workerd: Open-source Cloudflare workers runtime",
+      "https://blog.cloudflare.com/workerd-open-source-workers-runtime/"
+    ]
+  ],
+  [
+    [
       "2022-09-27, 06:22:49",
       "https://news.ycombinator.com/item?id=32992057"
     ],
@@ -257,6 +247,16 @@
     [
       "The Uncage",
       "https://surjan.substack.com/p/introducing-the-uncage"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 19:31:36",
+      "https://news.ycombinator.com/item?id=32987230"
+    ],
+    [
+      "Factory jobs are booming like it’s the 1970s",
+      "https://www.nytimes.com/2022/09/26/business/factory-jobs-workers-rebound.html"
     ]
   ],
   [
