@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-29, 12:28:04",
+      "https://news.ycombinator.com/item?id=33019603"
+    ],
+    [
+      "Business news site FastCompany.com is shut down after breach",
+      "https://www.fastcompany.com/statement.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 12:17:13",
+      "https://news.ycombinator.com/item?id=33019506"
+    ],
+    [
+      "Working native Linux GPU driver for Apple M1 achieved",
+      "https://twitter.com/linaasahi/status/1575343067892051968"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 11:53:42",
+      "https://news.ycombinator.com/item?id=33019316"
+    ],
+    [
+      "Native Linux GPU Driver for Apple M1",
+      "https://twitter.com/LinaAsahi/status/1575343067892051968"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 11:41:44",
       "https://news.ycombinator.com/item?id=33019211"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2022-09-29, 11:07:37",
-      "https://news.ycombinator.com/item?id=33018917"
+      "2022-09-29, 10:47:14",
+      "https://news.ycombinator.com/item?id=33018771"
     ],
     [
-      "Norwegian Undersea Surveillance Network Had Its Cables Mysteriously Cut (2021)",
-      "https://www.thedrive.com/the-war-zone/43094/norwegian-undersea-surveillance-network-had-its-cables-mysteriously-cut"
+      "Days Since Incident – tracker of natural disasters on Earth",
+      "https://neal.fun/days-since-incident/"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "SEC Charges 16 Wall Street Firms with Widespread Recordkeeping Failures",
       "https://www.sec.gov/news/press-release/2022-174"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 10:20:46",
+      "https://news.ycombinator.com/item?id=33018596"
+    ],
+    [
+      "Qt 6.4 Released",
+      "https://www.qt.io/blog/qt-6.4-released"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "JWT vs. Opaque Tokens – When do you use them?",
       "https://zitadel.com/blog/jwt-vs-opaque-tokens"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 08:05:56",
-      "https://news.ycombinator.com/item?id=33017737"
-    ],
-    [
-      "Threadripper 7000 Storm Peak CPU Surfaces with 64 Zen 4 Cores",
-      "https://www.tomshardware.com/news/ryzen-threadripper-7000-storm-peak-cpu-surfaces-with-64-zen-4-cores"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2022-09-28, 22:55:28",
-      "https://news.ycombinator.com/item?id=33014251"
-    ],
-    [
-      "ButtFish – Transmit Morse Code of chess moves to your butt",
-      "https://github.com/RonSijm/ButtFish"
-    ]
-  ],
-  [
-    [
       "2022-09-28, 22:09:11",
       "https://news.ycombinator.com/item?id=33013896"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-09-28, 21:33:50",
-      "https://news.ycombinator.com/item?id=33013572"
-    ],
-    [
-      "Arduino IDE 2.0",
-      "https://blog.arduino.cc/2022/09/14/its-here-please-welcome-arduino-ide-2-0/"
-    ]
-  ],
-  [
-    [
       "2022-09-28, 18:55:00",
       "https://news.ycombinator.com/item?id=33011761"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2022-09-28, 14:28:59",
-      "https://news.ycombinator.com/item?id=33008376"
+      "2022-09-28, 10:14:34",
+      "https://news.ycombinator.com/item?id=33006339"
     ],
     [
-      "Collecting Vernacular Photography",
-      "https://thomashawk.com/2022/09/collecting-vernacular-photography.html"
+      "Show HN: Restapp.io – SQL Data Modeling Tool in No/Low Code",
+      "https://os.restapp.co/signup"
     ]
   ],
   [
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2022-09-27, 15:50:01",
-      "https://news.ycombinator.com/item?id=32996953"
+      "2022-09-27, 18:10:20",
+      "https://news.ycombinator.com/item?id=32998960"
     ],
     [
-      "Someone is pretending to be me",
-      "https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 10:43:47",
-      "https://news.ycombinator.com/item?id=32993631"
-    ],
-    [
-      "ReScript 10.0",
-      "https://rescript-lang.org/blog/release-10-0-0"
+      "Can Brown Noise Turn Off Your Brain?",
+      "https://www.nytimes.com/interactive/2022/09/23/well/mind/brown-noise.html"
     ]
   ],
   [
