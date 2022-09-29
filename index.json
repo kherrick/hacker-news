@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-29, 04:08:36",
+      "https://news.ycombinator.com/item?id=33016217"
+    ],
+    [
+      "RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs",
+      "https://github.com/RootMyTV/RootMyTV.github.io"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 03:13:18",
+      "https://news.ycombinator.com/item?id=33015895"
+    ],
+    [
+      "What to Do If a Nuclear Disaster Is Imminent",
+      "http://ki4u.com/guide.htm"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 02:53:50",
+      "https://news.ycombinator.com/item?id=33015793"
+    ],
+    [
+      "\"Ducks,” the Canadian cartoonist Kate Beaton’s new graphic memoir",
+      "https://www.newyorker.com/books/page-turner/how-kate-beaton-paid-off-her-student-loans"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 02:48:45",
       "https://news.ycombinator.com/item?id=33015769"
     ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33015431"
     ],
     [
-      "Kittyhawk Air Taxi Startup Is Winding Down",
+      "KittyHawk air taxi startup is winding down",
       "https://www.wsj.com/articles/kittyhawk-google-co-founder-larry-pages-air-taxi-startup-is-winding-down-11663792210"
     ]
   ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33015355"
     ],
     [
-      "Converting Coal Power Plants to Nuclear Gains Steam",
+      "Converting coal power plants to nuclear gains steam",
       "https://spectrum.ieee.org/nuclear-power-plant"
     ]
   ],
@@ -35,18 +65,8 @@
       "https://news.ycombinator.com/item?id=33015094"
     ],
     [
-      "Badssl.com",
+      "Badssl.com (2017)",
       "https://badssl.com/"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 00:39:38",
-      "https://news.ycombinator.com/item?id=33015002"
-    ],
-    [
-      "The Endless Doomscroller",
-      "https://endlessdoomscroller.com"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33014251"
     ],
     [
-      "ButtFish – Effortlessly transmitting Morse Code of chess moves to your butt",
+      "Show HN: ButtFish – Transmit Morse Code of chess moves to your butt",
       "https://github.com/RonSijm/ButtFish"
     ]
   ],
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2022-09-28, 21:18:51",
-      "https://news.ycombinator.com/item?id=33013411"
-    ],
-    [
-      "Timeline of Computer History (2015)",
-      "https://www.computerhistory.org/timeline/computers/"
-    ]
-  ],
-  [
-    [
       "2022-09-28, 21:00:14",
       "https://news.ycombinator.com/item?id=33013193"
     ],
     [
       "Smarking (YC W15) is hiring a product lead to digitize the parking industry",
       "https://jobs.lever.co/smarking/3e6e8c04-8aaa-48f5-86e5-70386f857c55"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 19:31:16",
-      "https://news.ycombinator.com/item?id=33012171"
-    ],
-    [
-      "Australia gov wants telco Optus to pay for new passports for data breach victims",
-      "https://www.rnz.co.nz/news/world/475692/australian-govt-wants-telco-optus-to-pay-for-new-passports-for-data-breach-victims"
     ]
   ],
   [
@@ -221,42 +221,22 @@
   ],
   [
     [
-      "2022-09-28, 13:08:23",
-      "https://news.ycombinator.com/item?id=33007440"
-    ],
-    [
-      "When the push button was new, people were freaked",
-      "https://daily.jstor.org/when-the-push-button-was-new-people-were-freaked/"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 12:29:18",
-      "https://news.ycombinator.com/item?id=33007117"
-    ],
-    [
-      "Security in Plan 9 (2002)",
-      "https://9p.io/sys/doc/auth.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 19:49:03",
-      "https://news.ycombinator.com/item?id=33000243"
-    ],
-    [
-      "Penpot, Open Source Figma alternative, raises $8M in funding",
-      "https://techcrunch.com/2022/09/27/penpot-inks-8m-as-signups-for-its-open-source-spin-on-figma-jump-5600-after-adobes-20b-acquisition-move/"
-    ]
-  ],
-  [
-    [
       "2022-09-27, 16:55:05",
       "https://news.ycombinator.com/item?id=32997939"
     ],
     [
-      "Analysis of Chromium issue 1196683, 1195777",
+      "Analysis of Chromium issue 1196683, 1195777 (2021)",
       "https://iamelli0t.github.io/2021/04/20/Chromium-Issue-1196683-1195777.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 15:50:01",
+      "https://news.ycombinator.com/item?id=32996953"
+    ],
+    [
+      "Someone is pretending to be me",
+      "https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/"
     ]
   ],
   [
@@ -265,8 +245,18 @@
       "https://news.ycombinator.com/item?id=32992128"
     ],
     [
-      "Systematically Improving Espresso [pdf]",
+      "Systematically Improving Espresso (2020) [pdf]",
       "https://www.cell.com/matter/pdf/S2590-2385(19)30410-2.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 06:01:08",
+      "https://news.ycombinator.com/item?id=32991963"
+    ],
+    [
+      "History of Lath and Plaster (2011) [pdf]",
+      "https://www.marekbros.com/sites/marekbros.com/files/plaster-assemblies-chapter-01-history-of-lath-and-plaster.pdf"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "HDD Clicker – HDD Sound Simulator",
       "https://www.retrokits.de/index.php/hdd-clicker-hdd-sound-simulator-v0-1/"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 20:16:31",
+      "https://news.ycombinator.com/item?id=32987762"
+    ],
+    [
+      "How the National Airspace System Works",
+      "https://www.faa.gov/about/office_org/headquarters_offices/ang/offices/tc/library/Storyboard/nextgen-overview.html"
     ]
   ],
   [
