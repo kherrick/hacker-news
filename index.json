@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-09-29, 14:25:08",
+      "https://news.ycombinator.com/item?id=33021069"
+    ],
+    [
+      "Launch HN: Telematica (YC W22) – Plaid for Electric Vehicles",
+      "https://www.telematica.so"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 14:17:15",
+      "https://news.ycombinator.com/item?id=33020952"
+    ],
+    [
+      "Writing and automating a newsletter in Markdown on Mailcoach",
+      "https://mailcoach.app/blog/4-writing-a-newsletter-in-markdown-on-mailcoach"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 14:15:00",
+      "https://news.ycombinator.com/item?id=33020910"
+    ],
+    [
+      "Airplane.dev raises $32M in Series B funding",
+      "https://www.airplane.dev/blog/series-b-thrive"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 14:02:24",
+      "https://news.ycombinator.com/item?id=33020747"
+    ],
+    [
+      "Deno 1.26",
+      "https://deno.com/blog/v1.26"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 14:02:14",
       "https://news.ycombinator.com/item?id=33020744"
     ],
@@ -75,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33019960"
     ],
     [
-      "Why You Should Not Use JWT",
+      "Why to not use JWT (2021)",
       "https://apibakery.com/blog/tech/no-jwt/"
     ]
   ],
@@ -87,16 +127,6 @@
     [
       "A Reflection on the Small Web",
       "https://misc.l3m.in/txt/smollweb.txt"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 12:28:04",
-      "https://news.ycombinator.com/item?id=33019603"
-    ],
-    [
-      "Business news site FastCompany.com is shut down after breach",
-      "https://www.fastcompany.com/statement.html"
     ]
   ],
   [
@@ -127,16 +157,6 @@
     [
       "Native Linux GPU Driver for Apple M1",
       "https://twitter.com/LinaAsahi/status/1575343067892051968"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 11:49:44",
-      "https://news.ycombinator.com/item?id=33019286"
-    ],
-    [
-      "Using a Docker registry as a distributed layer cache for CI",
-      "https://blog.meadsteve.dev/docker/2022/09/29/docker-build-caching/"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2022-09-29, 08:05:20",
-      "https://news.ycombinator.com/item?id=33017733"
+      "2022-09-29, 09:18:24",
+      "https://news.ycombinator.com/item?id=33018135"
     ],
     [
-      "Ask HN: Offline resources during internet outages?",
-      "https://news.ycombinator.com/item?id=33017733"
+      "JWT vs. Opaque Tokens",
+      "https://zitadel.com/blog/jwt-vs-opaque-tokens"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers",
       "https://news.ycombinator.com/item?id=33017362"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 06:15:57",
-      "https://news.ycombinator.com/item?id=33017098"
-    ],
-    [
-      "Paving the on-ramp to Java",
-      "https://openjdk.org/projects/amber/design-notes/on-ramp"
     ]
   ],
   [
@@ -255,8 +265,18 @@
       "https://news.ycombinator.com/item?id=33003262"
     ],
     [
-      "A Breadth-First Course in Multicore and Manycore Programming [pdf]",
+      "A breadth-first course in multicore and manycore programming (2010) [pdf]",
       "https://rivoire.cs.sonoma.edu/research/pubs/rivoire.2010.multicore.sigcse.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 18:10:20",
+      "https://news.ycombinator.com/item?id=32998960"
+    ],
+    [
+      "Can Brown Noise Turn Off Your Brain?",
+      "https://www.nytimes.com/interactive/2022/09/23/well/mind/brown-noise.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Two hundred years ago, Jean-François Champollion deciphers the Rosetta Stone",
       "https://daily.jstor.org/jean-francois-champollion-deciphers-the-rosetta-stone/"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 08:20:14",
-      "https://news.ycombinator.com/item?id=32992787"
-    ],
-    [
-      "Deep Learning Could Bring the Concert Experience Home",
-      "https://spectrum.ieee.org/3d-audio/particle-24"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 22:44:24",
-      "https://news.ycombinator.com/item?id=32989585"
-    ],
-    [
-      "HDD Clicker – HDD Sound Simulator",
-      "https://www.retrokits.de/index.php/hdd-clicker-hdd-sound-simulator-v0-1/"
     ]
   ]
 ]
