@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-09-29, 13:08:15",
+      "https://news.ycombinator.com/item?id=33020078"
+    ],
+    [
+      "Cloudflare Hardware Keys (Yubico Partnership)",
+      "https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 12:35:44",
+      "https://news.ycombinator.com/item?id=33019692"
+    ],
+    [
+      "A Reflection on the Small Web",
+      "https://misc.l3m.in/txt/smollweb.txt"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 12:28:04",
       "https://news.ycombinator.com/item?id=33019603"
     ],
     [
       "Business news site FastCompany.com is shut down after breach",
       "https://www.fastcompany.com/statement.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 12:24:05",
+      "https://news.ycombinator.com/item?id=33019573"
+    ],
+    [
+      "Create and deploy a Discord bot in Rust, in under 20 minutes (for free)",
+      "https://www.shuttle.rs/blog/2022/09/14/serentity-discord-bot"
     ]
   ],
   [
@@ -21,12 +51,32 @@
   ],
   [
     [
+      "2022-09-29, 12:16:17",
+      "https://news.ycombinator.com/item?id=33019500"
+    ],
+    [
+      "Flyweight: An ORM for SQLite",
+      "https://github.com/thebinarysearchtree/flyweight"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 11:53:42",
       "https://news.ycombinator.com/item?id=33019316"
     ],
     [
       "Native Linux GPU Driver for Apple M1",
       "https://twitter.com/LinaAsahi/status/1575343067892051968"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 11:49:44",
+      "https://news.ycombinator.com/item?id=33019286"
+    ],
+    [
+      "Using a Docker registry as a distributed layer cache for CI",
+      "https://blog.meadsteve.dev/docker/2022/09/29/docker-build-caching/"
     ]
   ],
   [
@@ -47,16 +97,6 @@
     [
       "Days Since Incident – tracker of natural disasters on Earth",
       "https://neal.fun/days-since-incident/"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 10:23:16",
-      "https://news.ycombinator.com/item?id=33018615"
-    ],
-    [
-      "SEC Charges 16 Wall Street Firms with Widespread Recordkeeping Failures",
-      "https://www.sec.gov/news/press-release/2022-174"
     ]
   ],
   [
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2022-09-28, 22:09:11",
-      "https://news.ycombinator.com/item?id=33013896"
-    ],
-    [
-      "Scientists find wreckage of ship that tried to warn Titanic of iceberg",
-      "https://www.cnn.com/travel/article/titanic-warning-ss-mesaba-irish-sea-intl-scli-scn/index.html"
-    ]
-  ],
-  [
-    [
       "2022-09-28, 22:01:08",
       "https://news.ycombinator.com/item?id=33013832"
     ],
     [
       "New (LTE) Rotary Cell Phone [video]",
       "https://www.youtube.com/watch?v=uV1C-41tq64"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 21:47:54",
-      "https://news.ycombinator.com/item?id=33013700"
-    ],
-    [
-      "Matrix: Third Room Tech Preview [video]",
-      "https://matrix.org/blog/2022/09/27/announcing-third-room-tech-preview-1/"
     ]
   ],
   [
@@ -211,6 +231,16 @@
   ],
   [
     [
+      "2022-09-28, 13:47:00",
+      "https://news.ycombinator.com/item?id=33007864"
+    ],
+    [
+      "The 4 Minute Bug",
+      "https://kinduff.com/2022/09/28/the-4-minute-bug/"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 10:14:34",
       "https://news.ycombinator.com/item?id=33006339"
     ],
@@ -221,32 +251,12 @@
   ],
   [
     [
-      "2022-09-27, 23:10:39",
-      "https://news.ycombinator.com/item?id=33002312"
-    ],
-    [
-      "Text Compression as a Test for Artificial Intelligence (1999) [pdf]",
-      "https://www.aaai.org/Papers/AAAI/1999/AAAI99-177.pdf"
-    ]
-  ],
-  [
-    [
       "2022-09-27, 23:01:48",
       "https://news.ycombinator.com/item?id=33002233"
     ],
     [
       "Building Flexible, Low-Cost Wireless Access Networks with Magma",
       "https://arxiv.org/abs/2209.10001"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 18:10:20",
-      "https://news.ycombinator.com/item?id=32998960"
-    ],
-    [
-      "Can Brown Noise Turn Off Your Brain?",
-      "https://www.nytimes.com/interactive/2022/09/23/well/mind/brown-noise.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "HDD Clicker – HDD Sound Simulator",
       "https://www.retrokits.de/index.php/hdd-clicker-hdd-sound-simulator-v0-1/"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 20:16:31",
-      "https://news.ycombinator.com/item?id=32987762"
-    ],
-    [
-      "How the National Airspace System Works",
-      "https://www.faa.gov/about/office_org/headquarters_offices/ang/offices/tc/library/Storyboard/nextgen-overview.html"
     ]
   ]
 ]
