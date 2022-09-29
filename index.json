@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-29, 20:45:37",
+      "https://news.ycombinator.com/item?id=33026923"
+    ],
+    [
+      "The Banality of Surveillance",
+      "https://bostonreview.net/articles/the-banality-of-surveillance/"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 20:00:33",
       "https://news.ycombinator.com/item?id=33026285"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33025477"
     ],
     [
-      "Why “Go Nuts, Show Nuts” Doesn’t Work in 2022",
+      "Why “go nuts, show nuts” doesn’t work in 2022",
       "https://photomatt.tumblr.com/post/696629352701493248/why-go-nuts-show-nuts-doesnt-work-in-2022"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "Make-A-Video: AI system that generates videos from text",
       "https://makeavideo.studio/"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 12:16:17",
-      "https://news.ycombinator.com/item?id=33019500"
-    ],
-    [
-      "Flyweight: An ORM for SQLite",
-      "https://github.com/thebinarysearchtree/flyweight"
     ]
   ],
   [
