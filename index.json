@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-29, 07:23:59",
+      "https://news.ycombinator.com/item?id=33017491"
+    ],
+    [
+      "What Figma plans to do inside Adobe",
+      "https://www.theverge.com/23376442/figma-ceo-interview-adobe-acquisition-ai-antitrust-design-field"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 07:03:51",
       "https://news.ycombinator.com/item?id=33017362"
     ],
@@ -11,11 +21,21 @@
   ],
   [
     [
+      "2022-09-29, 06:15:57",
+      "https://news.ycombinator.com/item?id=33017098"
+    ],
+    [
+      "Brian Goetz: Paving the On-Ramp (To Java)",
+      "https://openjdk.org/projects/amber/design-notes/on-ramp"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 06:09:34",
       "https://news.ycombinator.com/item?id=33017056"
     ],
     [
-      "How to Build a Personal Webpage from Scratch (In 2022)",
+      "How to build a personal webpage from scratch",
       "https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/"
     ]
   ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-09-28, 21:18:51",
-      "https://news.ycombinator.com/item?id=33013411"
-    ],
-    [
-      "Timeline of Computer History (2015)",
-      "https://www.computerhistory.org/timeline/computers/"
-    ]
-  ],
-  [
-    [
       "2022-09-28, 19:21:28",
       "https://news.ycombinator.com/item?id=33012057"
     ],
@@ -177,16 +187,6 @@
     [
       "Learn TLA+",
       "https://learntla.com/"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 16:46:50",
-      "https://news.ycombinator.com/item?id=33010105"
-    ],
-    [
-      "Newsom just signed California pay transparency bill",
-      "https://www.protocol.com/bulletins/newsom-pay-transparency"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2022-09-27, 16:55:05",
-      "https://news.ycombinator.com/item?id=32997939"
+      "2022-09-27, 23:01:48",
+      "https://news.ycombinator.com/item?id=33002233"
     ],
     [
-      "Analysis of Chromium issue 1196683, 1195777 (2021)",
-      "https://iamelli0t.github.io/2021/04/20/Chromium-Issue-1196683-1195777.html"
+      "Building Flexible, Low-Cost Wireless Access Networks with Magma",
+      "https://arxiv.org/abs/2209.10001"
     ]
   ],
   [
