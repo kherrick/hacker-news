@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-29, 15:43:32",
+      "https://news.ycombinator.com/item?id=33022273"
+    ],
+    [
+      "Elliptic Curves for Security",
+      "https://www.rfc-editor.org/rfc/rfc7748"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 15:28:06",
+      "https://news.ycombinator.com/item?id=33022031"
+    ],
+    [
+      "Lua, a Misunderstood Language",
+      "https://andregarzia.com/2021/01/lua-a-misunderstood-language.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 15:06:29",
+      "https://news.ycombinator.com/item?id=33021734"
+    ],
+    [
+      "Angry Reviewer",
+      "https://www.angryreviewer.com/"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 14:50:19",
       "https://news.ycombinator.com/item?id=33021496"
     ],
@@ -81,6 +111,16 @@
   ],
   [
     [
+      "2022-09-29, 13:58:03",
+      "https://news.ycombinator.com/item?id=33020694"
+    ],
+    [
+      "Character.ai",
+      "https://beta.character.ai/"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 13:16:50",
       "https://news.ycombinator.com/item?id=33020181"
     ],
@@ -101,32 +141,12 @@
   ],
   [
     [
-      "2022-09-29, 13:08:15",
-      "https://news.ycombinator.com/item?id=33020078"
-    ],
-    [
-      "Cloudflare Hardware Keys (Yubico Partnership)",
-      "https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/"
-    ]
-  ],
-  [
-    [
       "2022-09-29, 12:59:36",
       "https://news.ycombinator.com/item?id=33019960"
     ],
     [
       "Why to not use JWT (2021)",
       "https://apibakery.com/blog/tech/no-jwt/"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 12:24:05",
-      "https://news.ycombinator.com/item?id=33019573"
-    ],
-    [
-      "Building a Discord bot in Rust",
-      "https://www.shuttle.rs/blog/2022/09/14/serentity-discord-bot"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Qt 6.4",
       "https://www.qt.io/blog/qt-6.4-released"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 09:49:53",
-      "https://news.ycombinator.com/item?id=33018333"
-    ],
-    [
-      "On Device Network Logging for iOS",
-      "https://adamfallon.com/ios/proxy/logging/networking/2022/09/04/on-device-network-logging-for-ios.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Can Brown Noise Turn Off Your Brain?",
       "https://www.nytimes.com/interactive/2022/09/23/well/mind/brown-noise.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 09:50:10",
-      "https://news.ycombinator.com/item?id=32993328"
-    ],
-    [
-      "Development of the MOS Technology 6502: A Historical Perspective",
-      "https://www.EmbeddedRelated.com/showarticle/1453.php"
     ]
   ],
   [
