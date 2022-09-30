@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-09-30, 21:00:28",
+      "https://news.ycombinator.com/item?id=33040728"
+    ],
+    [
+      "AirMyne (YC W22) Hiring a Chemical Engineer in Berkeley, CA",
+      "https://www.ycombinator.com/companies/airmyne/jobs/4F7mJr4-chemical-engineer"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 20:34:22",
       "https://news.ycombinator.com/item?id=33040424"
     ],
     [
       "The Art of Menus",
       "https://www.spectator.co.uk/article/the-art-of-menus"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 19:33:58",
-      "https://news.ycombinator.com/item?id=33039643"
-    ],
-    [
-      "Montreal is what North America could be",
-      "http://www.loukidelis.com/on-montreal.html"
     ]
   ],
   [
@@ -101,12 +101,22 @@
   ],
   [
     [
-      "2022-09-30, 17:00:16",
-      "https://news.ycombinator.com/item?id=33037398"
+      "2022-09-30, 17:59:48",
+      "https://news.ycombinator.com/item?id=33038311"
     ],
     [
-      "Patterns (YC S21) is hiring devs to help us build the Figma for data",
-      "https://www.patterns.app/"
+      "Google Adsense/Admob blocks you for life if you use it before you're 18",
+      "https://support.google.com/adsense/thread/178197751/adsense-account?hl=en"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 17:45:21",
+      "https://news.ycombinator.com/item?id=33038117"
+    ],
+    [
+      "Show HN: Stock Photos Using Stable Diffusion",
+      "https://www.ghostlystock.com/"
     ]
   ],
   [
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2022-09-30, 13:59:35",
+      "https://news.ycombinator.com/item?id=33034918"
+    ],
+    [
+      "US Government plans to develop AI that can unmask anonymous writers",
+      "https://reclaimthenet.org/us-government-plans-to-develop-ai-that-can-unmask-anonymous-writers/"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 13:34:13",
       "https://news.ycombinator.com/item?id=33034631"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-09-30, 06:42:13",
-      "https://news.ycombinator.com/item?id=33031724"
-    ],
-    [
-      "Introduction to the Theory of Programming Languages (1991)",
-      "https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 03:38:13",
       "https://news.ycombinator.com/item?id=33030611"
     ],
     [
       "Go Micro: a standard library for distributed systems development",
       "https://github.com/go-micro/go-micro"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 12:23:30",
-      "https://news.ycombinator.com/item?id=33019565"
-    ],
-    [
-      "Looped Square Or ⌘",
-      "https://en.wikipedia.org/wiki/Command_key"
     ]
   ]
 ]
