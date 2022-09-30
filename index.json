@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2022-09-30, 06:42:13",
+      "https://news.ycombinator.com/item?id=33031724"
+    ],
+    [
+      "Intro to the Theory of Programming Languages: full book now freely available",
+      "https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 04:52:13",
       "https://news.ycombinator.com/item?id=33031121"
     ],
     [
       "Our eyes can change colour throughout our lives",
       "https://www.bbc.com/future/article/20220929-how-our-eyes-change-colour-throughout-our-lives"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 03:38:13",
+      "https://news.ycombinator.com/item?id=33030611"
+    ],
+    [
+      "Go Micro: a standard library for distributed systems development",
+      "https://golangexample.com/go-micro-a-standard-library-for-distributed-systems-development/"
     ]
   ],
   [
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2022-09-30, 01:19:44",
-      "https://news.ycombinator.com/item?id=33029669"
-    ],
-    [
-      "Taking a Break",
-      "https://neugierig.org/software/blog/2022/09/break.html"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 01:01:59",
       "https://news.ycombinator.com/item?id=33029522"
     ],
     [
       "MDM: Human Motion Diffusion Model",
       "https://guytevet.github.io/mdm-page/"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 00:38:51",
-      "https://news.ycombinator.com/item?id=33029322"
-    ],
-    [
-      "Private profiles are now generally available on GitHub",
-      "https://github.blog/changelog/2022-09-29-private-profiles-are-now-generally-available/"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33028300"
     ],
     [
-      "Why Modern Software Is Slow",
+      "Why modern software is slow",
       "https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/"
     ]
   ],
@@ -177,16 +177,6 @@
     [
       "DreamFusion: Text-to-3D using 2D Diffusion",
       "https://dreamfusion3d.github.io"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 18:56:12",
-      "https://news.ycombinator.com/item?id=33025431"
-    ],
-    [
-      "Helium, Pump and Dump",
-      "https://jeffreycarter.substack.com/p/helium-pump-and-dump"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Magic Cookie: How Lou Montulli Cured the Web’s Amnesia",
       "https://hiddenheroes.netguru.com/lou-montulli"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 06:29:59",
+      "https://news.ycombinator.com/item?id=33017160"
+    ],
+    [
+      "Intel announces new FPGA families",
+      "https://fpgaer.tech/?p=561"
     ]
   ],
   [
