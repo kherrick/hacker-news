@@ -1,12 +1,72 @@
 [
   [
     [
-      "2022-09-30, 15:45:04",
-      "https://news.ycombinator.com/item?id=33036436"
+      "2022-09-30, 16:12:45",
+      "https://news.ycombinator.com/item?id=33036807"
     ],
     [
-      "Bitcoin worse for the climate than beef, say economists",
-      "https://www.theregister.com/2022/09/30/bitcoin_climate_impact/"
+      "Data salaries at FAANG companies in 2022",
+      "https://medium.com/@mikldd/data-salaries-at-faang-companies-in-2022-29d5b56b2428"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 16:10:53",
+      "https://news.ycombinator.com/item?id=33036782"
+    ],
+    [
+      "Ask HN: Just received spam to an address only used at Amazon?",
+      "https://news.ycombinator.com/item?id=33036782"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 16:09:22",
+      "https://news.ycombinator.com/item?id=33036764"
+    ],
+    [
+      "Layoffs at Meta starts next week, leaked on Blind",
+      "https://www.teamblind.com/post/Massive-layoffs-at-META-starts-next-week-6bDXueAR"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 16:07:45",
+      "https://news.ycombinator.com/item?id=33036748"
+    ],
+    [
+      "Ask HN: Microsoft SmartScreen is destroying our business",
+      "https://news.ycombinator.com/item?id=33036748"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 16:07:33",
+      "https://news.ycombinator.com/item?id=33036744"
+    ],
+    [
+      "US expected to publish Privacy Shield executive order next week",
+      "https://www.politico.eu/article/us-expected-to-publish-privacy-shield-executive-order-next-week/"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 16:05:54",
+      "https://news.ycombinator.com/item?id=33036714"
+    ],
+    [
+      "Facebook Freeloads Off Newspapers. This Plan Might Stop It",
+      "https://www.wired.com/story/facebook-freeloads-off-newspapers-this-plan-might-stop-it/"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 15:41:27",
+      "https://news.ycombinator.com/item?id=33036383"
+    ],
+    [
+      "FCC Approves 5 Year Satellite Deorbiting Rule",
+      "https://payloadspace.com/fcc-approves-5-year-satellite-deorbiting-rule/"
     ]
   ],
   [
@@ -17,6 +77,26 @@
     [
       "NYC Proposal Offers Cash for Spotting Parking Violations in Bike Lanes",
       "https://www.bloomberg.com/news/articles/2022-09-29/nyc-may-pay-people-for-reporting-bike-lane-blockers"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 15:19:50",
+      "https://news.ycombinator.com/item?id=33036067"
+    ],
+    [
+      "Wikipedia’s Fox News Problem",
+      "https://slate.com/technology/2022/09/wikipedia-fox-news-reliability.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 15:15:32",
+      "https://news.ycombinator.com/item?id=33035998"
+    ],
+    [
+      "Chernobyl black frogs reveal evolution in action",
+      "https://phys.org/news/2022-09-chernobyl-black-frogs-reveal-evolution.html"
     ]
   ],
   [
@@ -41,6 +121,16 @@
   ],
   [
     [
+      "2022-09-30, 14:31:29",
+      "https://news.ycombinator.com/item?id=33035369"
+    ],
+    [
+      "GitHub Action Transcription",
+      "https://github.com/simonw/action-transcription-demo"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 13:38:53",
       "https://news.ycombinator.com/item?id=33034679"
     ],
@@ -61,31 +151,11 @@
   ],
   [
     [
-      "2022-09-30, 13:25:53",
-      "https://news.ycombinator.com/item?id=33034534"
-    ],
-    [
-      "Red Dead Redemption 2 fan with 6k hours on Stadia begs for character transfer",
-      "https://www.gamesradar.com/red-dead-redemption-2-fan-with-nearly-6000-hours-on-stadia-begs-rockstar-for-character-transfer/"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 13:09:12",
-      "https://news.ycombinator.com/item?id=33034365"
-    ],
-    [
-      "Cloudflare Radar 2.0",
-      "https://blog.cloudflare.com/radar2/"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 13:08:10",
       "https://news.ycombinator.com/item?id=33034351"
     ],
     [
-      "Steampipe – Select * from Cloud;",
+      "Select * from cloud",
       "https://steampipe.io/"
     ]
   ],
@@ -107,16 +177,6 @@
     [
       "A call to reconsider memory address-space isolation in Linux",
       "https://lwn.net/SubscriberLink/909469/95386a9171af0b46/"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 10:57:36",
-      "https://news.ycombinator.com/item?id=33033323"
-    ],
-    [
-      "Rust Nation – A UK Conference for Rustaceans",
-      "https://www.rustnationuk.com"
     ]
   ],
   [
@@ -161,16 +221,6 @@
   ],
   [
     [
-      "2022-09-30, 08:35:46",
-      "https://news.ycombinator.com/item?id=33032470"
-    ],
-    [
-      "Google has added ads on both its search page and Chrome://newtab",
-      "https://news.ycombinator.com/item?id=33032470"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 07:00:41",
       "https://news.ycombinator.com/item?id=33031858"
     ],
@@ -201,42 +251,12 @@
   ],
   [
     [
-      "2022-09-30, 01:01:59",
-      "https://news.ycombinator.com/item?id=33029522"
-    ],
-    [
-      "MDM: Human Motion Diffusion Model",
-      "https://guytevet.github.io/mdm-page/"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 19:00:28",
-      "https://news.ycombinator.com/item?id=33025477"
-    ],
-    [
-      "Why “go nuts, show nuts” doesn’t work in 2022",
-      "https://photomatt.tumblr.com/post/696629352701493248/why-go-nuts-show-nuts-doesnt-work-in-2022"
-    ]
-  ],
-  [
-    [
       "2022-09-29, 18:57:24",
       "https://news.ycombinator.com/item?id=33025446"
     ],
     [
       "DreamFusion: Text-to-3D using 2D Diffusion",
       "https://dreamfusion3d.github.io"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 13:16:50",
-      "https://news.ycombinator.com/item?id=33020181"
-    ],
-    [
-      "Make-A-Video: AI system that generates videos from text",
-      "https://makeavideo.studio/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2022-09-29, 11:53:42",
-      "https://news.ycombinator.com/item?id=33019316"
-    ],
-    [
-      "Native Linux GPU Driver for Apple M1",
-      "https://twitter.com/LinaAsahi/status/1575343067892051968"
-    ]
-  ],
-  [
-    [
       "2022-09-29, 06:58:54",
       "https://news.ycombinator.com/item?id=33017337"
     ],
@@ -287,16 +297,6 @@
     [
       "Intel announces new FPGA families",
       "https://fpgaer.tech/?p=561"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 00:16:11",
-      "https://news.ycombinator.com/item?id=33014834"
-    ],
-    [
-      "Elixir Sulfanilamide",
-      "https://en.wikipedia.org/wiki/Elixir_sulfanilamide"
     ]
   ]
 ]
