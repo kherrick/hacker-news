@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-30, 21:35:24",
+      "https://news.ycombinator.com/item?id=33041114"
+    ],
+    [
+      "Lyra V2 – a better, faster, and more versatile speech codec",
+      "https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 21:12:31",
       "https://news.ycombinator.com/item?id=33040873"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33040728"
     ],
     [
-      "AirMyne (YC W22) Hiring a Chemical Engineer in Berkeley, CA",
+      "AirMyne (YC W22) is hiring a chemical engineer in Berkeley, CA",
       "https://www.ycombinator.com/companies/airmyne/jobs/4F7mJr4-chemical-engineer"
     ]
   ],
@@ -81,21 +91,11 @@
   ],
   [
     [
-      "2022-09-30, 18:37:44",
-      "https://news.ycombinator.com/item?id=33038829"
-    ],
-    [
-      "Ask HN: Am I the only one who does not want IoT in their solar panel setup?",
-      "https://news.ycombinator.com/item?id=33038829"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 18:28:53",
       "https://news.ycombinator.com/item?id=33038710"
     ],
     [
-      "'Big short' investor says white-collar jobs bubble is 'bursting'",
+      "'Big Short' investor says white-collar jobs bubble is 'bursting'",
       "https://seekingalpha.com/article/4543813-big-short-says-white-collar-jobs-bubble-is-bursting-spy-implications"
     ]
   ],
@@ -215,8 +215,8 @@
       "https://news.ycombinator.com/item?id=33035369"
     ],
     [
-      "GitHub Action Transcription",
-      "https://github.com/simonw/action-transcription-demo"
+      "A tool for capturing captions and transcripts from online videos",
+      "https://simonwillison.net/2022/Sep/30/action-transcription/"
     ]
   ],
   [
