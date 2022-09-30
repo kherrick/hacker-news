@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-09-30, 20:18:27",
+      "https://news.ycombinator.com/item?id=33040211"
+    ],
+    [
+      "Ask HN: What are you doing now to profit from the current or upcoming recession?",
+      "https://news.ycombinator.com/item?id=33040211"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 19:28:33",
       "https://news.ycombinator.com/item?id=33039562"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2022-09-30, 17:59:48",
-      "https://news.ycombinator.com/item?id=33038311"
-    ],
-    [
-      "Google Adsense/Admob blocks you for life if you use it before you're 18",
-      "https://support.google.com/adsense/thread/178197751/adsense-account?hl=en"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 17:45:21",
       "https://news.ycombinator.com/item?id=33038117"
     ],
@@ -171,32 +171,12 @@
   ],
   [
     [
-      "2022-09-30, 16:42:31",
-      "https://news.ycombinator.com/item?id=33037151"
-    ],
-    [
-      "Neovim 0.8 Released",
-      "https://github.com/neovim/neovim/releases/tag/v0.8.0"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 16:29:34",
       "https://news.ycombinator.com/item?id=33036977"
     ],
     [
       "Medtronic's MiniMed 600 insulin pumps potentially at risk of compromise",
       "https://www.medtronicdiabetes.com/customer-support/product-and-service-updates/notice19-letter"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 16:07:45",
-      "https://news.ycombinator.com/item?id=33036748"
-    ],
-    [
-      "Ask HN: Microsoft SmartScreen is destroying our business",
-      "https://news.ycombinator.com/item?id=33036748"
     ]
   ],
   [
@@ -217,6 +197,26 @@
     [
       "Querying Postgres Tables Directly from DuckDB",
       "https://duckdb.org/2022/09/30/postgres-scanner.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 14:44:49",
+      "https://news.ycombinator.com/item?id=33035580"
+    ],
+    [
+      "Show HN: uFuzzy.js – A tiny, efficient fuzzy search that doesn't suck",
+      "https://github.com/leeoniya/uFuzzy"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 14:31:29",
+      "https://news.ycombinator.com/item?id=33035369"
+    ],
+    [
+      "GitHub Action Transcription",
+      "https://github.com/simonw/action-transcription-demo"
     ]
   ],
   [
