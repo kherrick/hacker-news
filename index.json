@@ -1,6 +1,66 @@
 [
   [
     [
+      "2022-09-30, 01:44:06",
+      "https://news.ycombinator.com/item?id=33029851"
+    ],
+    [
+      "The Reality of Celebratory Gunfire",
+      "https://www.1point21interactive.com/celebratory-gunfire/"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 01:19:44",
+      "https://news.ycombinator.com/item?id=33029669"
+    ],
+    [
+      "Taking a Break",
+      "https://neugierig.org/software/blog/2022/09/break.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 01:01:59",
+      "https://news.ycombinator.com/item?id=33029522"
+    ],
+    [
+      "MDM: Human Motion Diffusion Model",
+      "https://guytevet.github.io/mdm-page/"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 00:38:51",
+      "https://news.ycombinator.com/item?id=33029322"
+    ],
+    [
+      "Private profiles are now generally available on GitHub",
+      "https://github.blog/changelog/2022-09-29-private-profiles-are-now-generally-available/"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 00:11:35",
+      "https://news.ycombinator.com/item?id=33029101"
+    ],
+    [
+      "How to fix an ancient GDB problem",
+      "https://lwn.net/SubscriberLink/909496/a56a9a4ab41ff079/"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 23:59:46",
+      "https://news.ycombinator.com/item?id=33029018"
+    ],
+    [
+      "The brain is the battlefield of the future",
+      "https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano/"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 23:18:48",
       "https://news.ycombinator.com/item?id=33028673"
     ],
@@ -81,26 +141,6 @@
   ],
   [
     [
-      "2022-09-29, 20:45:37",
-      "https://news.ycombinator.com/item?id=33026923"
-    ],
-    [
-      "The Banality of Surveillance",
-      "https://bostonreview.net/articles/the-banality-of-surveillance/"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 20:24:30",
-      "https://news.ycombinator.com/item?id=33026638"
-    ],
-    [
-      "Economic estimation of Bitcoin mining’s climate damages",
-      "https://www.nature.com/articles/s41598-022-18686-8"
-    ]
-  ],
-  [
-    [
       "2022-09-29, 20:00:33",
       "https://news.ycombinator.com/item?id=33026285"
     ],
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2022-09-29, 18:56:12",
-      "https://news.ycombinator.com/item?id=33025431"
-    ],
-    [
-      "Helium, Pump and Dump",
-      "https://jeffreycarter.substack.com/p/helium-pump-and-dump"
-    ]
-  ],
-  [
-    [
       "2022-09-29, 18:39:31",
       "https://news.ycombinator.com/item?id=33025223"
     ],
@@ -187,16 +217,6 @@
     [
       "Virtual Threads: New Foundations for High-Scale Java Applications",
       "https://www.infoq.com/articles/java-virtual-threads/"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 16:22:38",
-      "https://news.ycombinator.com/item?id=33022850"
-    ],
-    [
-      "An inorganic user engine driving ad campaigns on major websites and podcasts",
-      "https://deepsee.io/blog/rewarded-traffic-incentivized-traffic-in-a-top-hat"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2022-09-29, 11:41:44",
-      "https://news.ycombinator.com/item?id=33019211"
-    ],
-    [
-      "The Rise of Fully Homomorphic Encryption",
-      "https://queue.acm.org/detail.cfm?id=3561800"
-    ]
-  ],
-  [
-    [
       "2022-09-29, 11:21:12",
       "https://news.ycombinator.com/item?id=33019019"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2022-09-29, 02:35:54",
-      "https://news.ycombinator.com/item?id=33015705"
+      "2022-09-28, 13:06:41",
+      "https://news.ycombinator.com/item?id=33007429"
     ],
     [
-      "What is a Stave Church? (2019)",
-      "http://web.archive.org/web/20220929023632/https://www.stavechurch.com/2019/04/what-is-a-stave-church/?lang=en"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 12:02:08",
-      "https://news.ycombinator.com/item?id=32994253"
-    ],
-    [
-      "2022 Fall Foliage Prediction Map",
-      "https://smokymountains.com/fall-foliage-map/"
+      "How the Little Ice Age Changed History (2019)",
+      "https://www.newyorker.com/magazine/2019/04/01/how-the-little-ice-age-changed-history"
     ]
   ]
 ]
