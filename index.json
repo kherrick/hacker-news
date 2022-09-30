@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-30, 22:42:19",
+      "https://news.ycombinator.com/item?id=33041677"
+    ],
+    [
+      "Magic Leap 2: The most immersive AR platform for enterprise",
+      "https://www.magicleap.com/en-us/magic-leap-2-video"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 21:49:06",
       "https://news.ycombinator.com/item?id=33041249"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2022-09-30, 20:18:27",
-      "https://news.ycombinator.com/item?id=33040211"
-    ],
-    [
-      "Ask HN: What are you doing now to profit from the current or upcoming recession?",
-      "https://news.ycombinator.com/item?id=33040211"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 19:28:33",
       "https://news.ycombinator.com/item?id=33039562"
     ],
@@ -87,16 +87,6 @@
     [
       "AudioGen: Textually Guided Audio Generation",
       "https://felixkreuk.github.io/text2audio_arxiv_samples/"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 18:28:53",
-      "https://news.ycombinator.com/item?id=33038710"
-    ],
-    [
-      "'Big Short' investor says white-collar jobs bubble is 'bursting'",
-      "https://seekingalpha.com/article/4543813-big-short-says-white-collar-jobs-bubble-is-bursting-spy-implications"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "A call to reconsider memory address-space isolation in Linux",
       "https://lwn.net/SubscriberLink/909469/95386a9171af0b46/"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 10:46:45",
+      "https://news.ycombinator.com/item?id=33033244"
+    ],
+    [
+      "Introduce to a new co-routine language",
+      "https://github.com/Water-Melon/Melang"
     ]
   ],
   [
