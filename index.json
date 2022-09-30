@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-30, 18:51:52",
+      "https://news.ycombinator.com/item?id=33039036"
+    ],
+    [
+      "AMD Zen 4 is faster with CPU security mitigations enabled on Linux",
+      "https://www.phoronix.com/news/AMD-Zen-4-Mitigations-Off"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 18:37:44",
       "https://news.ycombinator.com/item?id=33038829"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2022-09-30, 18:16:24",
-      "https://news.ycombinator.com/item?id=33038531"
+      "2022-09-30, 18:10:23",
+      "https://news.ycombinator.com/item?id=33038452"
     ],
     [
-      "Overwatch 2 will require a phone number to play",
-      "https://www.polygon.com/guides/23380339/overwatch-2-sms-protect-phone-number-required"
+      "Semantic reconstruction of continuous language from non-invasive brain recording",
+      "https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "A step-by-step guide to our solar system’s demise",
       "https://nautil.us/a-step-by-step-guide-to-our-solar-systems-demise-239245/"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 09:30:05",
-      "https://news.ycombinator.com/item?id=33032802"
-    ],
-    [
-      "New integer types I’d like to see",
-      "https://www.foonathan.net/2022/09/new-integer-types/"
     ]
   ],
   [
