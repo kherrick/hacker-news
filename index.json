@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-30, 21:12:31",
+      "https://news.ycombinator.com/item?id=33040873"
+    ],
+    [
+      "Citrix acquired and merged with Tibco for $16.5B",
+      "https://www.cloud.com/news/press-release.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 21:02:19",
+      "https://news.ycombinator.com/item?id=33040753"
+    ],
+    [
+      "Node_modules: One character saved 50 GB of disk space",
+      "https://mainmatter.com/blog/2022/09/29/pnpm/"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 21:00:28",
       "https://news.ycombinator.com/item?id=33040728"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-09-30, 16:10:53",
-      "https://news.ycombinator.com/item?id=33036782"
-    ],
-    [
-      "Ask HN: Just received spam to an address only used at Amazon?",
-      "https://news.ycombinator.com/item?id=33036782"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 16:07:45",
       "https://news.ycombinator.com/item?id=33036748"
     ],
@@ -207,16 +217,6 @@
     [
       "Querying Postgres Tables Directly from DuckDB",
       "https://duckdb.org/2022/09/30/postgres-scanner.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 14:31:29",
-      "https://news.ycombinator.com/item?id=33035369"
-    ],
-    [
-      "GitHub Action Transcription",
-      "https://github.com/simonw/action-transcription-demo"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2022-09-30, 09:43:56",
-      "https://news.ycombinator.com/item?id=33032873"
-    ],
-    [
-      "A step-by-step guide to our solar system’s demise",
-      "https://nautil.us/a-step-by-step-guide-to-our-solar-systems-demise-239245/"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 03:38:13",
       "https://news.ycombinator.com/item?id=33030611"
     ],
     [
       "Go Micro: a standard library for distributed systems development",
       "https://github.com/go-micro/go-micro"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 18:59:30",
+      "https://news.ycombinator.com/item?id=33025466"
+    ],
+    [
+      "Facts about State Machines",
+      "https://github.com/cpressey/Facts-about-State-Machines"
     ]
   ]
 ]
