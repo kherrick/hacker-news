@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-30, 21:49:06",
+      "https://news.ycombinator.com/item?id=33041249"
+    ],
+    [
+      "The Fedora Project Remains Community Driven",
+      "https://theevilskeleton.gitlab.io/2022/09/30/the-fedora-project-remains-community-driven.html"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 21:35:24",
       "https://news.ycombinator.com/item?id=33041114"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2022-09-30, 18:51:52",
-      "https://news.ycombinator.com/item?id=33039036"
-    ],
-    [
-      "AMD Zen 4 is faster with CPU security mitigations enabled on Linux",
-      "https://www.phoronix.com/news/AMD-Zen-4-Mitigations-Off"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 18:28:53",
       "https://news.ycombinator.com/item?id=33038710"
     ],
@@ -117,16 +117,6 @@
     [
       "Rust and Elixir libraries for end-to-end encrypted secure communication",
       "https://github.com/build-trust/ockam"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 18:01:19",
-      "https://news.ycombinator.com/item?id=33038335"
-    ],
-    [
-      "Robo-Ostrich Sprints to 100-Meter World Record",
-      "https://spectrum.ieee.org/bipedal-robot-world-record-speed"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Reducing logging cost by two orders of magnitude using CLP",
       "https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 07:40:07",
+      "https://news.ycombinator.com/item?id=33032095"
+    ],
+    [
+      "Pub400.com – Your public IBM I 7.5 server",
+      "https://pub400.com/"
     ]
   ],
   [
