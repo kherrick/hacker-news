@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-30, 23:53:09",
+      "https://news.ycombinator.com/item?id=33042219"
+    ],
+    [
+      "Becoming a father shrinks your cerebrum",
+      "https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 22:49:30",
+      "https://news.ycombinator.com/item?id=33041733"
+    ],
+    [
+      "H4CK1NG G00GL3",
+      "https://h4ck1ng.google"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 22:42:19",
       "https://news.ycombinator.com/item?id=33041677"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2022-09-30, 21:02:19",
-      "https://news.ycombinator.com/item?id=33040753"
-    ],
-    [
-      "Node_modules: One character saved 50 GB of disk space",
-      "https://mainmatter.com/blog/2022/09/29/pnpm/"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 21:00:28",
       "https://news.ycombinator.com/item?id=33040728"
     ],
     [
       "AirMyne (YC W22) is hiring a chemical engineer in Berkeley, CA",
       "https://www.ycombinator.com/companies/airmyne/jobs/4F7mJr4-chemical-engineer"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 20:34:22",
-      "https://news.ycombinator.com/item?id=33040424"
-    ],
-    [
-      "The Art of Menus",
-      "https://www.spectator.co.uk/article/the-art-of-menus"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-09-30, 10:08:53",
-      "https://news.ycombinator.com/item?id=33032996"
-    ],
-    [
-      "Reducing logging cost by two orders of magnitude using CLP",
-      "https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 07:40:07",
       "https://news.ycombinator.com/item?id=33032095"
     ],
@@ -297,6 +287,16 @@
     [
       "Facts about State Machines",
       "https://github.com/cpressey/Facts-about-State-Machines"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 08:46:15",
+      "https://news.ycombinator.com/item?id=33017936"
+    ],
+    [
+      "Pigs and Avocados",
+      "https://worldsensorium.com/pigs-and-avocados/"
     ]
   ]
 ]
