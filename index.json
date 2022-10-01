@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-01, 22:38:29",
+      "https://news.ycombinator.com/item?id=33050829"
+    ],
+    [
+      "Systems Software Research is Irrelevant (2000) [pdf]",
+      "https://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 21:31:12",
       "https://news.ycombinator.com/item?id=33050320"
     ],
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2022-10-01, 13:02:48",
+      "https://news.ycombinator.com/item?id=33046291"
+    ],
+    [
+      "Gambler’s Ruin Problem [pdf]",
+      "http://www.columbia.edu/~ks20/FE-Notes/4700-07-Notes-GR.pdf"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 13:00:34",
       "https://news.ycombinator.com/item?id=33046281"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-10-01, 12:24:37",
-      "https://news.ycombinator.com/item?id=33046095"
-    ],
-    [
-      "The era of fast, cheap genome sequencing is here",
-      "https://www.wired.com/story/the-era-of-fast-cheap-genome-sequencing-is-here/"
-    ]
-  ],
-  [
-    [
       "2022-10-01, 12:23:55",
       "https://news.ycombinator.com/item?id=33046087"
     ],
@@ -227,16 +237,6 @@
     [
       "A new way of keeping trains apart uses magnetic signals in the tracks",
       "https://www.economist.com/science-and-technology/2022/09/28/keeping-trains-apart-is-crucial-to-safety"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 11:42:17",
-      "https://news.ycombinator.com/item?id=33045844"
-    ],
-    [
-      "Ngx_mruby – Use MRuby with Nginx",
-      "https://github.com/matsumotory/ngx_mruby"
     ]
   ],
   [
