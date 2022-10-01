@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-09-30, 23:53:09",
-      "https://news.ycombinator.com/item?id=33042219"
+      "2022-10-01, 01:17:26",
+      "https://news.ycombinator.com/item?id=33042820"
     ],
     [
-      "Becoming a father shrinks your cerebrum",
-      "https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum"
+      "Nier Automata for Switch is a miracle port",
+      "https://www.rpgsite.net/feature/13323-nier-automata-for-switch-is-a-miracle-port"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 00:16:58",
+      "https://news.ycombinator.com/item?id=33042405"
+    ],
+    [
+      "YouTube age-restriction quagmire exposed by 78-minute Mega Man documentary",
+      "https://arstechnica.com/gaming/2022/09/youtube-age-restriction-quagmire-exposed-by-78-minute-mega-man-documentary/"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 23:26:48",
+      "https://news.ycombinator.com/item?id=33042018"
+    ],
+    [
+      "GitHub's Missing Merge Option",
+      "https://tylercipriani.com/blog/2022/09/30/githubs-missing-merge-option/"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Magic Leap 2: The most immersive AR platform for enterprise",
       "https://www.magicleap.com/en-us/magic-leap-2-video"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 22:36:10",
+      "https://news.ycombinator.com/item?id=33041644"
+    ],
+    [
+      "Co-Founding Considered Harmful",
+      "https://florentcrivello.com/co-founding-considered-harmful/"
     ]
   ],
   [
@@ -101,32 +131,12 @@
   ],
   [
     [
-      "2022-09-30, 18:05:02",
-      "https://news.ycombinator.com/item?id=33038384"
-    ],
-    [
-      "Rust and Elixir libraries for end-to-end encrypted secure communication",
-      "https://github.com/build-trust/ockam"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 17:45:21",
       "https://news.ycombinator.com/item?id=33038117"
     ],
     [
       "Show HN: Stock Photos Using Stable Diffusion",
       "https://www.ghostlystock.com/"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 16:54:58",
-      "https://news.ycombinator.com/item?id=33037319"
-    ],
-    [
-      "House Democrats debut new bill to limit US police use of facial recognition",
-      "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2022-09-30, 11:03:47",
-      "https://news.ycombinator.com/item?id=33033366"
-    ],
-    [
-      "A call to reconsider memory address-space isolation in Linux",
-      "https://lwn.net/SubscriberLink/909469/95386a9171af0b46/"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 10:46:45",
       "https://news.ycombinator.com/item?id=33033244"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-09-30, 03:38:13",
-      "https://news.ycombinator.com/item?id=33030611"
-    ],
-    [
-      "Go Micro: a standard library for distributed systems development",
-      "https://github.com/go-micro/go-micro"
-    ]
-  ],
-  [
-    [
       "2022-09-29, 18:59:30",
       "https://news.ycombinator.com/item?id=33025466"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2022-09-29, 08:46:15",
-      "https://news.ycombinator.com/item?id=33017936"
+      "2022-09-29, 12:30:49",
+      "https://news.ycombinator.com/item?id=33019629"
     ],
     [
-      "Pigs and Avocados",
-      "https://worldsensorium.com/pigs-and-avocados/"
+      "Dating Other Task Managers",
+      "https://evantravers.com/articles/2022/06/30/dating-other-task-managers/"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 11:54:32",
+      "https://news.ycombinator.com/item?id=33019320"
+    ],
+    [
+      "The Empty Shelves",
+      "https://neepsandco.com/dawnmclachlan-author/blog-post-title-four-rl6tx"
     ]
   ]
 ]
