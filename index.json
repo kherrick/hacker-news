@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-10-01, 14:33:36",
-      "https://news.ycombinator.com/item?id=33046846"
-    ],
-    [
-      "NPR Is Not Your Friend",
-      "https://www.currentaffairs.org/2022/09/npr-is-not-your-friend/"
-    ]
-  ],
-  [
-    [
       "2022-10-01, 14:14:38",
       "https://news.ycombinator.com/item?id=33046696"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=33046695"
     ],
     [
-      "Our ancestors ate a Paleo diet. It had carbs",
+      "Our ancestors ate a Paleo diet and it had carbs",
       "https://knowablemagazine.org/article/food-environment/2022/our-ancestors-paleo-diet-had-carbs"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33046330"
     ],
     [
-      "“ 58 bytes of CSS to look great nearly everywhere” mkws theme",
+      "“58 bytes of CSS to look great nearly everywhere” mkws theme",
       "https://t.mkws.sh/58bytes/"
     ]
   ],
@@ -57,6 +47,16 @@
     [
       "The Limits of Rationality",
       "https://pursuingreality.com/2020/11/25/the-limits-of-rationality/"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 13:00:34",
+      "https://news.ycombinator.com/item?id=33046281"
+    ],
+    [
+      "Lychee – Self-hosted photo-management done right",
+      "https://lycheeorg.github.io/"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33046188"
     ],
     [
-      "Around 83.4% of Fortune 500 have Azure Active Directory",
+      "Does Company ‘X’ have an Azure Active Directory Tenant?",
       "https://www.shawntabrizi.com/aad/does-company-x-have-an-azure-active-directory-tenant/"
     ]
   ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=33045158"
     ],
     [
-      "Gwern's Fermi Calculation Examples",
+      "Fermi Calculation Examples",
       "https://www.gwern.net/notes/Fermi"
     ]
   ],
