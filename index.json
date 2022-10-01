@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-10-01, 11:42:17",
+      "https://news.ycombinator.com/item?id=33045844"
+    ],
+    [
+      "Ngx_mruby – Use MRuby with Nginx",
+      "https://github.com/matsumotory/ngx_mruby"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 11:28:00",
       "https://news.ycombinator.com/item?id=33045763"
     ],
@@ -257,16 +267,6 @@
     [
       "The 'Egg' Laptop",
       "https://www.ikejima.org/projects/2022091-egg-laptop.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 08:00:25",
-      "https://news.ycombinator.com/item?id=33044885"
-    ],
-    [
-      "Seer – a GUI front end to GDB for Linux",
-      "https://github.com/epasveer/seer"
     ]
   ],
   [
