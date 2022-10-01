@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-01, 21:01:05",
+      "https://news.ycombinator.com/item?id=33050075"
+    ],
+    [
+      "Padlet Is Hiring in SF to Build Software for a Good Education",
+      "https://padlet.jobs"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 20:31:46",
       "https://news.ycombinator.com/item?id=33049820"
     ],
@@ -17,6 +27,16 @@
     [
       "TikTok Tracks You Across the Web, Even If You Don’t Use the App",
       "https://www.consumerreports.org/electronics-computers/privacy/tiktok-tracks-you-across-the-web-even-if-you-dont-use-app-a4383537813/"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 19:27:43",
+      "https://news.ycombinator.com/item?id=33049277"
+    ],
+    [
+      "Why Are Plants Green? To Reduce the Noise in Photosynthesis",
+      "https://worldsensorium.com/why-are-plants-green/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Bash one-liner to produce a list of HEX color codes that read like English words",
       "https://gist.github.com/aileftech/dd4f5598b1f3837651fdf16e5abc3ffb"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 17:01:02",
-      "https://news.ycombinator.com/item?id=33048071"
-    ],
-    [
-      "Promoted.ai (YC W21) Is Hiring Staff Data Engineer (Flink)",
-      "https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink"
     ]
   ],
   [
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2022-10-01, 11:46:53",
-      "https://news.ycombinator.com/item?id=33045877"
+      "2022-10-01, 11:42:17",
+      "https://news.ycombinator.com/item?id=33045844"
     ],
     [
-      "Keeping trains apart is crucial to safety",
-      "https://www.economist.com/science-and-technology/2022/09/28/keeping-trains-apart-is-crucial-to-safety"
+      "Ngx_mruby – Use MRuby with Nginx",
+      "https://github.com/matsumotory/ngx_mruby"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Get things done with Emacs",
       "https://www.labri.fr/perso/nrougier/GTD/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 09:15:38",
-      "https://news.ycombinator.com/item?id=33032708"
-    ],
-    [
-      "Why read Dostoevsky? A programmer's perspective",
-      "https://fhur.me/posts/why-read-dostoevsky"
     ]
   ]
 ]
