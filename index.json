@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-01, 17:01:02",
+      "https://news.ycombinator.com/item?id=33048071"
+    ],
+    [
+      "Promoted.ai (YC W21) Is Hiring Staff Data Engineer (Flink)",
+      "https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 16:09:48",
       "https://news.ycombinator.com/item?id=33047632"
     ],
@@ -67,26 +77,6 @@
     [
       "Japan tests explosion-powered rocket for the first time in space (2021)",
       "https://www.autoevolution.com/news/japan-tests-explosion-powered-rocket-for-the-first-time-in-space-is-a-success-167696.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 14:30:09",
-      "https://news.ycombinator.com/item?id=33046811"
-    ],
-    [
-      "Standard Go Project Layout",
-      "https://github.com/golang-standards/project-layout"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 14:14:26",
-      "https://news.ycombinator.com/item?id=33046695"
-    ],
-    [
-      "Our ancestors ate a Paleo diet and it had carbs",
-      "https://knowablemagazine.org/article/food-environment/2022/our-ancestors-paleo-diet-had-carbs"
     ]
   ],
   [
@@ -161,22 +151,22 @@
   ],
   [
     [
+      "2022-10-01, 12:24:37",
+      "https://news.ycombinator.com/item?id=33046095"
+    ],
+    [
+      "The era of fast, cheap genome sequencing is here",
+      "https://www.wired.com/story/the-era-of-fast-cheap-genome-sequencing-is-here/"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 12:23:55",
       "https://news.ycombinator.com/item?id=33046087"
     ],
     [
       "Solo founder dilemma; CEO or CTO?",
       "https://nvnt.substack.com/p/solo-founder-dilemma-ceo-or-cto"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 12:00:40",
-      "https://news.ycombinator.com/item?id=33045947"
-    ],
-    [
-      "The Muse (YC W12) Is Hiring a Finance, Ops and M&A Associate",
-      "https://www.themuse.com/jobs/themuse/finance-and-operations-associate"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Seer – a GUI front end to GDB for Linux",
       "https://github.com/epasveer/seer"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 06:24:33",
+      "https://news.ycombinator.com/item?id=33044386"
+    ],
+    [
+      "Markets in Power",
+      "https://bam.kalzumeus.com/archive/markets-in-power/"
     ]
   ],
   [
