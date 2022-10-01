@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-01, 12:45:40",
+      "https://news.ycombinator.com/item?id=33046194"
+    ],
+    [
+      "Hutter Prize",
+      "https://en.wikipedia.org/wiki/Hutter_Prize"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 12:44:25",
+      "https://news.ycombinator.com/item?id=33046188"
+    ],
+    [
+      "Around 83.4% of Fortune 500 have Azure Active Directory",
+      "https://www.shawntabrizi.com/aad/does-company-x-have-an-azure-active-directory-tenant/"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 12:00:40",
       "https://news.ycombinator.com/item?id=33045947"
     ],
@@ -27,16 +47,6 @@
     [
       "Enhanced noise suppression in Jitsi Meet",
       "https://jitsi.org/blog/enhanced-noise-suppression-in-jitsi-meet/"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 11:13:06",
-      "https://news.ycombinator.com/item?id=33045693"
-    ],
-    [
-      "Plant-Based Meat Analogues Weaken Gastrointestinal Digestive Function (in mice)",
-      "https://doi.org/10.1021/acs.jafc.2c04246"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33044415"
     ],
     [
-      "Book Reviews by Danny Yee (fiction and nonfiction)",
+      "Danny Yee’s Book Reviews",
       "https://dannyreviews.com/"
     ]
   ],
@@ -107,6 +117,16 @@
     [
       "Predicting Google Closures (2013)",
       "https://www.gwern.net/Google-shutdowns"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 00:16:58",
+      "https://news.ycombinator.com/item?id=33042405"
+    ],
+    [
+      "YouTube age-restriction quagmire exposed by 78-minute Mega Man documentary",
+      "https://arstechnica.com/gaming/2022/09/youtube-age-restriction-quagmire-exposed-by-78-minute-mega-man-documentary/"
     ]
   ],
   [
@@ -131,6 +151,16 @@
   ],
   [
     [
+      "2022-09-30, 21:49:06",
+      "https://news.ycombinator.com/item?id=33041249"
+    ],
+    [
+      "The Fedora Project Remains Community Driven",
+      "https://theevilskeleton.gitlab.io/2022/09/30/the-fedora-project-remains-community-driven.html"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 21:35:24",
       "https://news.ycombinator.com/item?id=33041114"
     ],
@@ -147,16 +177,6 @@
     [
       "Citrix acquired and merged with Tibco for $16.5B",
       "https://www.cloud.com/news/press-release.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 19:02:18",
-      "https://news.ycombinator.com/item?id=33039203"
-    ],
-    [
-      "AudioGen: Textually Guided Audio Generation",
-      "https://felixkreuk.github.io/text2audio_arxiv_samples/"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2022-09-30, 17:45:21",
-      "https://news.ycombinator.com/item?id=33038117"
+      "2022-09-30, 18:02:23",
+      "https://news.ycombinator.com/item?id=33038350"
     ],
     [
-      "Show HN: Stock Photos Using Stable Diffusion",
-      "https://www.ghostlystock.com/"
+      "The Hidden Origins of Lisp (2015)",
+      "https://blog.lfe.io/excerpts/2015/03/22/1445-the-hidden-origins-of-lisp-introduction/"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "Microsoft bakes a VPN into Edge and turns it on",
       "https://adguard-vpn.com/en/blog/vpn-built-browser-microsoft.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 14:44:49",
-      "https://news.ycombinator.com/item?id=33035580"
-    ],
-    [
-      "Show HN: uFuzzy.js – A tiny, efficient fuzzy search that doesn't suck",
-      "https://github.com/leeoniya/uFuzzy"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Tappūtī-Bēlet-ekallim, The Oldest Perfumer on Record",
       "https://worldsensorium.com/tapputi-badakallim-the-oldest-perfumer-on-record/"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 18:59:30",
-      "https://news.ycombinator.com/item?id=33025466"
-    ],
-    [
-      "Facts about State Machines",
-      "https://github.com/cpressey/Facts-about-State-Machines"
     ]
   ],
   [
