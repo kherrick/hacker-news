@@ -31,26 +31,6 @@
   ],
   [
     [
-      "2022-10-02, 20:28:09",
-      "https://news.ycombinator.com/item?id=33059895"
-    ],
-    [
-      "Brazilian Election Live Results",
-      "https://resultados.tse.jus.br/oficial/app/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 20:12:42",
-      "https://news.ycombinator.com/item?id=33059726"
-    ],
-    [
-      "Brazilian vote counting (real time)",
-      "https://resultados.tse.jus.br/oficial/app/index.html#/m/eleicao/resultados"
-    ]
-  ],
-  [
-    [
       "2022-10-02, 19:17:08",
       "https://news.ycombinator.com/item?id=33059231"
     ],
@@ -75,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33058242"
     ],
     [
-      "Some take meetings from home, I do it from the matrix - console webcam feed",
+      "Matrix-webcam displays your webcam video feed in the console",
       "https://github.com/joschuck/matrix-webcam"
     ]
   ],
@@ -87,6 +67,16 @@
     [
       "Japan WWII poison gas agents still scarring people today",
       "https://mainichi.jp/english/articles/20221002/p2g/00m/0na/026000c"
+    ]
+  ],
+  [
+    [
+      "2022-10-02, 16:40:23",
+      "https://news.ycombinator.com/item?id=33057573"
+    ],
+    [
+      "Use Bookmarklets on Chrome on Android (2020)",
+      "https://paul.kinlan.me/use-bookmarklets-on-chrome-on-android/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Recon and Attack Vectors from My Logs",
       "https://gist.github.com/susam/75c37fd0aff9c5e25112eac75b9ed055"
+    ]
+  ],
+  [
+    [
+      "2022-10-02, 08:56:49",
+      "https://news.ycombinator.com/item?id=33054212"
+    ],
+    [
+      "Capsule: the nano (WASM) functions runner",
+      "https://github.com/bots-garden/capsule"
     ]
   ],
   [
