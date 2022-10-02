@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-10-02, 17:39:19",
+      "https://news.ycombinator.com/item?id=33058242"
+    ],
+    [
+      "Some take meetings from home, I do it from the matrix - console webcam feed",
+      "https://github.com/joschuck/matrix-webcam"
+    ]
+  ],
+  [
+    [
       "2022-10-02, 17:13:18",
       "https://news.ycombinator.com/item?id=33057946"
     ],
@@ -47,16 +57,6 @@
     [
       "Ubisoft+Bungie Scrambling to Evacuate Players Games from Capsizing Google Stadia",
       "https://www.forbes.com/sites/paultassi/2022/10/02/ubisoft-bungie-scrambling-to-evacuate-players-games-and-characters-from-a-capsizing-google-stadia/"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 16:11:44",
-      "https://news.ycombinator.com/item?id=33057217"
-    ],
-    [
-      "Tesla Vehicle Production and Deliveries for 3Q 2022",
-      "https://ir.tesla.com/press-release/tesla-vehicle-production-deliveries-and-date-financial-results-webcast-third-quarter"
     ]
   ],
   [
@@ -101,11 +101,21 @@
   ],
   [
     [
+      "2022-10-02, 14:17:07",
+      "https://news.ycombinator.com/item?id=33056052"
+    ],
+    [
+      "Ask HN: In what ways is programming more difficult today than it was years ago?",
+      "https://news.ycombinator.com/item?id=33056052"
+    ]
+  ],
+  [
+    [
       "2022-10-02, 13:59:30",
       "https://news.ycombinator.com/item?id=33055911"
     ],
     [
-      "Baker's Math",
+      "Baker's Math (2009)",
       "https://www.thefreshloaf.com/handbook/baker039s-math"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33055767"
     ],
     [
-      "Norvig's Law",
+      "Norvig's Law (2002)",
       "https://norvig.com/norvigs-law.html"
     ]
   ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2022-10-02, 09:25:11",
-      "https://news.ycombinator.com/item?id=33054378"
-    ],
-    [
-      "Race Conditions Can Be Useful for Parallelism",
-      "https://shwestrick.github.io/2022/09/27/useful-races.html"
-    ]
-  ],
-  [
-    [
       "2022-10-02, 08:56:49",
       "https://news.ycombinator.com/item?id=33054212"
     ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=33054047"
     ],
     [
-      "The Contrarian: How Sridhar Vembu built Zoho questioning conventional wisdom",
+      "Sridhar Vembu built Zoho by questioning the conventional wisdom",
       "https://foundingfuel.com/article/the-contrarian/"
     ]
   ],
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2022-10-02, 05:32:43",
+      "https://news.ycombinator.com/item?id=33053149"
+    ],
+    [
+      "Mandated diversity statement drives Jonathan Haidt to quit academic society",
+      "https://reason.com/2022/09/30/mandated-diversity-statement-drives-jonathan-haidt-to-quit-academic-society/"
+    ]
+  ],
+  [
+    [
       "2022-10-02, 05:31:36",
       "https://news.ycombinator.com/item?id=33053144"
     ],
     [
       "Comfy Software: A software aesthetic for hackers with depression",
       "https://catgirl.ai/log/comfy-software/"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 21:58:32",
-      "https://news.ycombinator.com/item?id=33050517"
-    ],
-    [
-      "UnixBench is the original BYTE Unix benchmark suite",
-      "https://github.com/kdlucas/byte-unixbench"
     ]
   ],
   [
