@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-10-02, 17:56:38",
-      "https://news.ycombinator.com/item?id=33058450"
-    ],
-    [
-      "I Just Can't Kick Lisp",
-      "https://blog.djha.skin/blog/i-just-cant-kick-lisp/"
-    ]
-  ],
-  [
-    [
       "2022-10-02, 17:39:19",
       "https://news.ycombinator.com/item?id=33058242"
     ],
@@ -297,6 +287,16 @@
     [
       "Great Works in Programming Languages (2004)",
       "https://www.cis.upenn.edu/%7Ebcpierce/courses/670Fall04/GreatWorksInPL.shtml"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 17:03:11",
+      "https://news.ycombinator.com/item?id=33037451"
+    ],
+    [
+      "Adding background jobs to Next.js with QStash",
+      "https://pipedream.com/blog/adding-background-jobs-to-next-js-with-qstash/"
     ]
   ]
 ]
