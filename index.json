@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-02, 13:11:27",
+      "https://news.ycombinator.com/item?id=33055604"
+    ],
+    [
+      "How Palantir Will Steal the NHS",
+      "https://pluralistic.net/2022/10/01/the-palantir-will-see-you-now/#public-private-partnership"
+    ]
+  ],
+  [
+    [
       "2022-10-02, 12:00:06",
       "https://news.ycombinator.com/item?id=33055154"
     ],
@@ -161,26 +171,6 @@
   ],
   [
     [
-      "2022-10-02, 02:39:12",
-      "https://news.ycombinator.com/item?id=33052307"
-    ],
-    [
-      "Palantir Had Secret Plan to Crack UK’s NHS: ‘Buying Our Way In’",
-      "https://www.bloomberg.com/news/articles/2022-09-30/palantir-had-plan-to-crack-uk-health-system-buying-our-way-in"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 02:07:42",
-      "https://news.ycombinator.com/item?id=33052127"
-    ],
-    [
-      "An elegy for GNU and RMS",
-      "https://catgirl.ai/log/elegy-gnu/"
-    ]
-  ],
-  [
-    [
       "2022-10-02, 00:10:46",
       "https://news.ycombinator.com/item?id=33051393"
     ],
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2022-10-01, 21:31:12",
-      "https://news.ycombinator.com/item?id=33050320"
+      "2022-10-01, 22:45:43",
+      "https://news.ycombinator.com/item?id=33050883"
     ],
     [
-      "230K Chinese “persuaded to return” from abroad to establish Extraterritoriality",
-      "https://safeguarddefenders.com/en/blog/230000-policing-expands"
+      "Remote Functions instead of API",
+      "https://telefunc.com/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Show HN: SigNoz – open-source alternative to DataDog, NewRelic",
       "https://github.com/SigNoz/signoz"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 16:09:57",
+      "https://news.ycombinator.com/item?id=33047634"
+    ],
+    [
+      "Data Version Control",
+      "https://dvc.org/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33037463"
     ],
     [
-      "Great Works in Programming Languages",
+      "Great Works in Programming Languages (2004)",
       "https://www.cis.upenn.edu/%7Ebcpierce/courses/670Fall04/GreatWorksInPL.shtml"
     ]
   ]
