@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33054379"
     ],
     [
-      "From 7 Years of Apache HTTP Server Logs: 5528 Unique Recon and Attack Vectors",
+      "Recon and Attack Vectors from My Logs",
       "https://gist.github.com/susam/75c37fd0aff9c5e25112eac75b9ed055"
     ]
   ],
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2022-10-02, 02:07:42",
+      "https://news.ycombinator.com/item?id=33052127"
+    ],
+    [
+      "An elegy for GNU and RMS",
+      "https://catgirl.ai/log/elegy-gnu/"
+    ]
+  ],
+  [
+    [
       "2022-10-02, 00:10:46",
       "https://news.ycombinator.com/item?id=33051393"
     ],
@@ -197,16 +207,6 @@
     [
       "Stellarium 1.0",
       "https://stellarium.org/release/2022/10/01/stellarium-1.0.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 20:31:46",
-      "https://news.ycombinator.com/item?id=33049820"
-    ],
-    [
-      "Show HN: An ultra-light-weight tool to quickly test your ping",
-      "http://ping.projects.chrisjeakle.com"
     ]
   ],
   [
