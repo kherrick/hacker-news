@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-10-02, 13:11:27",
-      "https://news.ycombinator.com/item?id=33055604"
+      "2022-10-02, 12:41:54",
+      "https://news.ycombinator.com/item?id=33055426"
     ],
     [
-      "How Palantir Will Steal the NHS",
-      "https://pluralistic.net/2022/10/01/the-palantir-will-see-you-now/#public-private-partnership"
+      "Hyperlinks in Handwriting",
+      "https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-02, 12:33:31",
+      "https://news.ycombinator.com/item?id=33055361"
+    ],
+    [
+      "The First RISC: John Cocke and the IBM 801",
+      "https://thechipletter.substack.com/p/the-first-risc-john-cocke-and-the"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "Tesorio (YC S15) raised a Series B and is hiring various roles",
       "https://www.tesorio.com/careers#job-openings"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 11:51:05",
-      "https://news.ycombinator.com/item?id=33055100"
-    ],
-    [
-      "Debian votes for non-free firmware in the installer",
-      "https://lists.debian.org/debian-vote/2022/10/msg00000.html"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2022-10-02, 05:32:43",
+      "https://news.ycombinator.com/item?id=33053149"
+    ],
+    [
+      "Mandated diversity statement drives Jonathan Haidt to quit academic society",
+      "https://reason.com/2022/09/30/mandated-diversity-statement-drives-jonathan-haidt-to-quit-academic-society/"
+    ]
+  ],
+  [
+    [
       "2022-10-02, 05:31:36",
       "https://news.ycombinator.com/item?id=33053144"
     ],
@@ -195,18 +205,8 @@
       "https://news.ycombinator.com/item?id=33050883"
     ],
     [
-      "Remote Functions instead of API",
+      "Telefunc: Remote Functions instead of API",
       "https://telefunc.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 19:00:51",
-      "https://news.ycombinator.com/item?id=33049046"
-    ],
-    [
-      "Show HN: SigNoz – open-source alternative to DataDog, NewRelic",
-      "https://github.com/SigNoz/signoz"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33040269"
     ],
     [
-      "Asciidoctor Notebook",
+      "Asciidoctor Notebook (2021)",
       "https://leanpub.com/awesomeasciidoctornotebook"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=33038015"
     ],
     [
-      "Limit of Language-Thought Influences Can Be Set by the Constraints of Embodiment",
+      "Limits of Language-Thought Influences and the Constraints of Embodiment (2021)",
       "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.593137/full"
     ]
   ],
