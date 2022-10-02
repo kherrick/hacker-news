@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-02, 14:20:21",
+      "https://news.ycombinator.com/item?id=33056077"
+    ],
+    [
+      "“Rust is safe” is not some kind of absolute guarantee of code safety",
+      "https://lkml.org/lkml/2022/9/19/1105#1105.php"
+    ]
+  ],
+  [
+    [
+      "2022-10-02, 14:17:07",
+      "https://news.ycombinator.com/item?id=33056052"
+    ],
+    [
+      "Ask HN: In what ways is programming more difficult today than it was years ago?",
+      "https://news.ycombinator.com/item?id=33056052"
+    ]
+  ],
+  [
+    [
       "2022-10-02, 13:59:30",
       "https://news.ycombinator.com/item?id=33055911"
     ],
@@ -77,16 +97,6 @@
     [
       "Capsule: the nano (WASM) functions runner",
       "https://github.com/bots-garden/capsule"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 08:40:00",
-      "https://news.ycombinator.com/item?id=33054129"
-    ],
-    [
-      "A computational perspective on the Nobel Prize",
-      "https://www.nature.com/articles/s43588-022-00325-x"
     ]
   ],
   [
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2022-10-01, 23:40:38",
-      "https://news.ycombinator.com/item?id=33051215"
-    ],
-    [
-      "How writing has spread across the world",
-      "https://www.openculture.com/2022/09/how-writing-has-spread-across-the-world-from-3000-bc-to-this-year-an-animated-map.html"
-    ]
-  ],
-  [
-    [
       "2022-10-01, 22:45:43",
       "https://news.ycombinator.com/item?id=33050883"
     ],
     [
       "Telefunc: Remote Functions instead of API",
       "https://telefunc.com/"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 21:58:32",
+      "https://news.ycombinator.com/item?id=33050517"
+    ],
+    [
+      "UnixBench is the original BYTE Unix benchmark suite",
+      "https://github.com/kdlucas/byte-unixbench"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Domain Pascal Language Reference (1987) [pdf]",
       "http://bitsavers.informatik.uni-stuttgart.de/pdf/apollo/000792-04_DOMAIN_Pascal_Language_Reference_Jan87.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 17:38:49",
-      "https://news.ycombinator.com/item?id=33038015"
-    ],
-    [
-      "Limits of Language-Thought Influences and the Constraints of Embodiment (2021)",
-      "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.593137/full"
     ]
   ],
   [
