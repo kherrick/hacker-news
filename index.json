@@ -5,8 +5,8 @@
       "https://news.ycombinator.com/item?id=33062320"
     ],
     [
-      "PayPal to charge users $2500 per incident of violating new speech rules #5 [pdf]",
-      "https://www.paypalobjects.com/marketing/ua/pdf/US/en/acceptableuse-full-110322.pdf"
+      "PayPal’s updated acceptable use policy [pdf]",
+      "https://www.paypalobjects.com/marketing/ua/pdf/AU/en/acceptableuse-full-110322.pdf"
     ]
   ],
   [
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=33062252"
     ],
     [
-      "Linux Kernel 6.0 Released",
+      "Linux Kernel 6.0",
       "https://lwn.net/Articles/910087/"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "Flexport is hiring engineers to build technology to power supply chains",
       "https://flexport.com/careers"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 00:18:26",
+      "https://news.ycombinator.com/item?id=33061873"
+    ],
+    [
+      "Why JWTs Suck as Session Tokens (2017)",
+      "https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens"
     ]
   ],
   [
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2022-10-02, 21:35:21",
+      "https://news.ycombinator.com/item?id=33060527"
+    ],
+    [
+      "Joining the Church of Emacs",
+      "https://fuzzypixelz.com/blog/joining-the-church-of-emacs/"
+    ]
+  ],
+  [
+    [
       "2022-10-02, 21:08:23",
       "https://news.ycombinator.com/item?id=33060288"
     ],
@@ -127,16 +147,6 @@
     [
       "Matrix-webcam displays your webcam video feed in the console",
       "https://github.com/joschuck/matrix-webcam"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 17:13:18",
-      "https://news.ycombinator.com/item?id=33057946"
-    ],
-    [
-      "Japan WWII poison gas agents still scarring people today",
-      "https://mainichi.jp/english/articles/20221002/p2g/00m/0na/026000c"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2022-10-01, 09:58:32",
+      "https://news.ycombinator.com/item?id=33045371"
+    ],
+    [
+      "The lost art of handheld demakes",
+      "https://wireframe.raspberrypi.com/articles/the-lost-art-of-handheld-demakes"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 06:43:29",
       "https://news.ycombinator.com/item?id=33044492"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-10-01, 03:08:50",
-      "https://news.ycombinator.com/item?id=33043457"
-    ],
-    [
-      "The Libertine’s Voice: The Life and Love Poems of John Donne",
-      "https://www.nytimes.com/2022/09/08/books/review/super-infinite-katherine-rundell.html"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 22:19:57",
       "https://news.ycombinator.com/item?id=33041514"
     ],
     [
       "Ask HN: What Happened to SixthSense by Pranav Misty",
       "https://news.ycombinator.com/item?id=33041514"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 17:47:06",
-      "https://news.ycombinator.com/item?id=33038139"
-    ],
-    [
-      "How roasted almonds become marzipan (2018)",
-      "https://www.cnn.com/videos/cnnmoney/2018/09/19/how-marzipan-is-made-lon-orig.cnn"
     ]
   ]
 ]
