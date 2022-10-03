@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-03, 17:00:52",
+      "https://news.ycombinator.com/item?id=33070321"
+    ],
+    [
+      "Ivy (YC W23) Is Hiring Software Engineers to Unify ML",
+      "https://www.ycombinator.com/companies/ivy/jobs"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 16:50:37",
+      "https://news.ycombinator.com/item?id=33070131"
+    ],
+    [
+      "Why Lyft Is Eating Uber’s Dust",
+      "https://www.wsj.com/articles/why-lyft-is-eating-ubers-dust-11664597545"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 16:32:39",
+      "https://news.ycombinator.com/item?id=33069829"
+    ],
+    [
+      "Wasoko and Zanzibar partner to launch an innovation hub",
+      "https://furtherafrica.com/2022/09/08/wasoko-and-zanzibar-partner-to-launch-an-innovation-hub/"
+    ]
+  ],
+  [
+    [
       "2022-10-03, 16:24:28",
       "https://news.ycombinator.com/item?id=33069696"
     ],
@@ -11,22 +41,22 @@
   ],
   [
     [
+      "2022-10-03, 16:14:25",
+      "https://news.ycombinator.com/item?id=33069547"
+    ],
+    [
+      "You should have lots of AWS accounts",
+      "https://src-bin.com/you-should-have-lots-of-aws-accounts/"
+    ]
+  ],
+  [
+    [
       "2022-10-03, 15:34:27",
       "https://news.ycombinator.com/item?id=33068978"
     ],
     [
       "mod_wasm: Run WebAssembly with Apache",
       "https://wasmlabs.dev/articles/apache-mod-wasm/"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 15:12:01",
-      "https://news.ycombinator.com/item?id=33068607"
-    ],
-    [
-      "“Britain should be viewed as a canary in the coal mine”",
-      "https://compactmag.com/article/the-pound-s-warning-for-europe"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2022-10-03, 12:01:45",
-      "https://news.ycombinator.com/item?id=33066254"
-    ],
-    [
-      "BuildZoom (YC W13) Is hiring a Principal Engineer",
-      "https://jobs.lever.co/buildzoom"
-    ]
-  ],
-  [
-    [
       "2022-10-03, 09:47:08",
       "https://news.ycombinator.com/item?id=33065322"
     ],
@@ -217,26 +237,6 @@
     [
       "The PS5 Has Been Jailbroken",
       "https://www.glitched.online/the-ps5-has-been-jailbroken-custom-packages-can-now-be-installed/"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 03:31:46",
-      "https://news.ycombinator.com/item?id=33063196"
-    ],
-    [
-      "How a razor blade can be damaged as it cuts human hair (2020)",
-      "https://news.mit.edu/2020/why-shaving-dulls-razors-0806"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 01:57:08",
-      "https://news.ycombinator.com/item?id=33062606"
-    ],
-    [
-      "Tell HN: A disabled 40-year-old person founded a startup and makes a living",
-      "https://news.ycombinator.com/item?id=33062606"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-10-01, 01:04:00",
-      "https://news.ycombinator.com/item?id=33042725"
-    ],
-    [
-      "Aristotle influenced the computer (2017)",
-      "https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/"
-    ]
-  ],
-  [
-    [
       "2022-09-30, 23:58:25",
       "https://news.ycombinator.com/item?id=33042258"
     ],
@@ -297,6 +287,16 @@
     [
       "Deepcake – Al solutions for video production",
       "https://deepcake.io"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 19:56:56",
+      "https://news.ycombinator.com/item?id=33039967"
+    ],
+    [
+      "How We Read Now",
+      "https://charlesschifano.substack.com/p/how-we-read-now"
     ]
   ]
 ]
