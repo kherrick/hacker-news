@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-03, 14:29:44",
+      "https://news.ycombinator.com/item?id=33068012"
+    ],
+    [
+      "Show HN: Free Stable Diffusion discord bot, accepts crypto for heavy use",
+      "https://github.com/ausbitbank/stable-diffusion-discord-bot"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 14:25:58",
+      "https://news.ycombinator.com/item?id=33067962"
+    ],
+    [
+      "Show HN: Postgres WASM",
+      "https://supabase.com/blog/postgres-wasm"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 14:20:02",
+      "https://news.ycombinator.com/item?id=33067895"
+    ],
+    [
+      "UK power station owner cuts down primary forests in Canada",
+      "https://www.bbc.com/news/science-environment-63089348"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 13:59:12",
+      "https://news.ycombinator.com/item?id=33067614"
+    ],
+    [
+      "The Nord Stream leaks are a wake-up call for countries with vulnerable pipelines",
+      "https://www.npr.org/2022/10/03/1126517181/nord-stream-pipeline-leaks-protecting-critical-infrastructure"
+    ]
+  ],
+  [
+    [
       "2022-10-03, 13:39:42",
       "https://news.ycombinator.com/item?id=33067345"
     ],
@@ -75,8 +115,18 @@
       "https://news.ycombinator.com/item?id=33066593"
     ],
     [
-      "Pop _OS Cosmic Desktop to Make Use of Iced Rust Toolkit Rather Than GTK",
+      "Pop_OS Cosmic Desktop to Make Use of Iced Rust Toolkit Rather Than GTK",
       "https://www.phoronix.com/news/COSMIC-Desktop-Iced-Toolkit"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 12:20:16",
+      "https://news.ycombinator.com/item?id=33066452"
+    ],
+    [
+      "ASML's Secret: A view from inside the global semiconductor giant [video]",
+      "https://www.youtube.com/watch?v=zQu_TMgHO98"
     ]
   ],
   [
@@ -87,16 +137,6 @@
     [
       "BuildZoom (YC W13) Is hiring a Principal Engineer",
       "https://jobs.lever.co/buildzoom"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 11:48:46",
-      "https://news.ycombinator.com/item?id=33066129"
-    ],
-    [
-      "SEC charges Kim Kardashian for unlawfully touting crypto security",
-      "https://www.bloomberg.com/news/articles/2022-10-03/sec-charges-kim-kardashian-for-touting-crypto-asset-security-l8sp7fyr"
     ]
   ],
   [
@@ -151,32 +191,12 @@
   ],
   [
     [
-      "2022-10-03, 09:22:39",
-      "https://news.ycombinator.com/item?id=33065158"
-    ],
-    [
-      "Show HN: We designed and implemented graph projection feature",
-      "https://news.ycombinator.com/item?id=33065158"
-    ]
-  ],
-  [
-    [
       "2022-10-03, 07:11:18",
       "https://news.ycombinator.com/item?id=33064394"
     ],
     [
       "The software that I love",
       "https://blog.waleson.com/2022/10/the-software-that-i-love.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 04:55:14",
-      "https://news.ycombinator.com/item?id=33063619"
-    ],
-    [
-      "Feel the power of the Manifest v3",
-      "https://github.com/gildas-lormeau/SingleFile-Lite"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "Tell HN: A disabled 40-year-old person founded a startup and makes a living",
       "https://news.ycombinator.com/item?id=33062606"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 01:21:46",
-      "https://news.ycombinator.com/item?id=33062320"
-    ],
-    [
-      "PayPal’s updated acceptable use policy [pdf]",
-      "https://www.paypalobjects.com/marketing/ua/pdf/AU/en/acceptableuse-full-110322.pdf"
     ]
   ],
   [
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2022-10-01, 09:58:32",
-      "https://news.ycombinator.com/item?id=33045371"
-    ],
-    [
-      "The lost art of handheld demakes",
-      "https://wireframe.raspberrypi.com/articles/the-lost-art-of-handheld-demakes"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 06:30:47",
-      "https://news.ycombinator.com/item?id=33044427"
-    ],
-    [
-      "A study of lights at night suggests dictators lie about economic growth",
-      "https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth"
-    ]
-  ],
-  [
-    [
       "2022-10-01, 03:14:29",
       "https://news.ycombinator.com/item?id=33043489"
     ],
@@ -287,6 +277,16 @@
     [
       "Too Much Internet",
       "https://edzitron.medium.com/there-is-simply-too-much-internet-7ed232938709"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 01:04:00",
+      "https://news.ycombinator.com/item?id=33042725"
+    ],
+    [
+      "Aristotle influenced the computer (2017)",
+      "https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/"
     ]
   ],
   [
