@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-03, 19:59:57",
+      "https://news.ycombinator.com/item?id=33072846"
+    ],
+    [
+      "Processing 40 TB of code from ~10M projects with a server and Go for $100",
+      "https://boyter.org/posts/an-informal-survey-of-10-million-github-bitbucket-gitlab-projects/#future-ideas"
+    ]
+  ],
+  [
+    [
       "2022-10-03, 19:17:33",
       "https://news.ycombinator.com/item?id=33072309"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-10-03, 14:54:27",
-      "https://news.ycombinator.com/item?id=33068330"
-    ],
-    [
-      "The Schizoid Difference",
-      "https://eden.bearblog.dev/the-schizoid-difference/"
-    ]
-  ],
-  [
-    [
       "2022-10-03, 14:30:09",
       "https://news.ycombinator.com/item?id=33068017"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-10-01, 14:41:28",
+      "https://news.ycombinator.com/item?id=33046921"
+    ],
+    [
+      "Researchers successfully convert methane gas into liquid methanol",
+      "https://scitechdaily.com/new-method-converts-greenhouse-gas-into-fuel/"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 09:58:41",
       "https://news.ycombinator.com/item?id=33045372"
     ],
@@ -287,16 +297,6 @@
     [
       "Deepcake – Al solutions for video production",
       "https://deepcake.io"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 19:56:56",
-      "https://news.ycombinator.com/item?id=33039967"
-    ],
-    [
-      "How We Read Now",
-      "https://charlesschifano.substack.com/p/how-we-read-now"
     ]
   ]
 ]
