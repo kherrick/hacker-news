@@ -1,12 +1,52 @@
 [
   [
     [
-      "2022-10-03, 14:29:44",
-      "https://news.ycombinator.com/item?id=33068012"
+      "2022-10-03, 15:00:29",
+      "https://news.ycombinator.com/item?id=33068421"
     ],
     [
-      "Show HN: Free Stable Diffusion discord bot, accepts crypto for heavy use",
-      "https://github.com/ausbitbank/stable-diffusion-discord-bot"
+      "Ask HN: Who is hiring? (October 2022)",
+      "https://news.ycombinator.com/item?id=33068421"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 15:00:28",
+      "https://news.ycombinator.com/item?id=33068420"
+    ],
+    [
+      "Ask HN: Freelancer? Seeking freelancer? (October 2022)",
+      "https://news.ycombinator.com/item?id=33068420"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 15:00:27",
+      "https://news.ycombinator.com/item?id=33068418"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (October 2022)",
+      "https://news.ycombinator.com/item?id=33068418"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 14:38:24",
+      "https://news.ycombinator.com/item?id=33068114"
+    ],
+    [
+      "“Privacy”.com–Yeah Right",
+      "https://ersei.net/en/blog/privacy-dot-com-yeah-right"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 14:30:09",
+      "https://news.ycombinator.com/item?id=33068017"
+    ],
+    [
+      "Show HN: I finished v5 of a JVM framework I've spent spent half a decade making",
+      "https://javalin.io/news/javalin-5.0.0-stable.html"
     ]
   ],
   [
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33067962"
     ],
     [
-      "Show HN: Postgres WASM",
+      "Postgres WASM",
       "https://supabase.com/blog/postgres-wasm"
     ]
   ],
@@ -27,16 +67,6 @@
     [
       "UK power station owner cuts down primary forests in Canada",
       "https://www.bbc.com/news/science-environment-63089348"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 13:59:12",
-      "https://news.ycombinator.com/item?id=33067614"
-    ],
-    [
-      "The Nord Stream leaks are a wake-up call for countries with vulnerable pipelines",
-      "https://www.npr.org/2022/10/03/1126517181/nord-stream-pipeline-leaks-protecting-critical-infrastructure"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "The Chaos (1922)",
       "http://ncf.idallen.com/english.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 12:48:21",
-      "https://news.ycombinator.com/item?id=33066740"
-    ],
-    [
-      "Scientists lift the lid on reproducibility (2016)",
-      "https://www.nature.com/articles/533452a"
     ]
   ],
   [
@@ -181,26 +201,6 @@
   ],
   [
     [
-      "2022-10-03, 09:23:02",
-      "https://news.ycombinator.com/item?id=33065161"
-    ],
-    [
-      "Operation Gladio",
-      "https://en.wikipedia.org/wiki/Operation_Gladio"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 07:11:18",
-      "https://news.ycombinator.com/item?id=33064394"
-    ],
-    [
-      "The software that I love",
-      "https://blog.waleson.com/2022/10/the-software-that-i-love.html"
-    ]
-  ],
-  [
-    [
       "2022-10-03, 03:31:46",
       "https://news.ycombinator.com/item?id=33063196"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2022-10-02, 22:35:27",
-      "https://news.ycombinator.com/item?id=33061058"
+      "2022-10-01, 17:53:10",
+      "https://news.ycombinator.com/item?id=33048469"
     ],
     [
-      "Maigret: Collect a dossier on a person by username from thousands of sites",
-      "https://github.com/soxoj/maigret"
+      "Magma, a new storage engine for Couchbase",
+      "http://smalldatum.blogspot.com/2022/09/magma-new-storage-engine-for-couchbase.html"
     ]
   ],
   [
