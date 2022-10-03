@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-10-03, 20:20:00",
+      "https://news.ycombinator.com/item?id=33073111"
+    ],
+    [
+      "Publishers Lose Their Shit After Authors Push Back on Their Attack on Libraries",
+      "https://www.techdirt.com/2022/10/03/publishers-lose-their-shit-after-authors-push-back-on-their-attack-on-libraries/"
+    ]
+  ],
+  [
+    [
       "2022-10-03, 19:59:57",
       "https://news.ycombinator.com/item?id=33072846"
     ],
     [
-      "Processing 40 TB of code from ~10M projects with a server and Go for $100",
+      "Processing 40 TB of code from ~10M projects with a server and Go for $100 (2019)",
       "https://boyter.org/posts/an-informal-survey-of-10-million-github-bitbucket-gitlab-projects/#future-ideas"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33071408"
     ],
     [
-      "You can't buy a Raspberry Pi",
+      "You can't buy a Raspberry Pi right now",
       "https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "Google’s “million’s of search results” are not being served",
       "https://serpapi.com/blog/googles-millions-of-search-results-are-not-being-served-in-the-later-pages-search-results/"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 09:43:08",
-      "https://news.ycombinator.com/item?id=33065297"
-    ],
-    [
-      "The PS5 Has Been Jailbroken",
-      "https://www.glitched.online/the-ps5-has-been-jailbroken-custom-packages-can-now-be-installed/"
     ]
   ],
   [
