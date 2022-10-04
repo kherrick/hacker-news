@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-04, 18:19:38",
+      "https://news.ycombinator.com/item?id=33084508"
+    ],
+    [
+      "RISC-V Laptop now available",
+      "https://www.tomshardware.com/news/risc-v-laptop-world-first"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 18:14:09",
+      "https://news.ycombinator.com/item?id=33084431"
+    ],
+    [
+      "C++20 coroutines: “The bug is in the C++ standard, not GCC.”",
+      "https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95111#c23"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 17:59:27",
       "https://news.ycombinator.com/item?id=33084205"
     ],
@@ -17,6 +37,16 @@
     [
       "Matter Is Now Official",
       "https://staceyoniot.com/matter-is-now-official/"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 17:17:02",
+      "https://news.ycombinator.com/item?id=33083489"
+    ],
+    [
+      "Increased risk for all-cause dementia in people who abstain from alcohol",
+      "https://onlinelibrary.wiley.com/doi/full/10.1111/add.16035"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2022-10-04, 16:11:59",
-      "https://news.ycombinator.com/item?id=33082472"
-    ],
-    [
-      "Show HN: Let the computer be your unique t-shirt designer with Stable Diffusion",
-      "https://www.thisshirtexists.com/"
-    ]
-  ],
-  [
-    [
       "2022-10-04, 15:49:18",
       "https://news.ycombinator.com/item?id=33082128"
     ],
@@ -107,16 +127,6 @@
     [
       "Pg_squeeze: An extension to fix table bloat",
       "https://www.cybertec-postgresql.com/en/products/pg_squeeze/"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 15:20:22",
-      "https://news.ycombinator.com/item?id=33081621"
-    ],
-    [
-      "Spark email client goes subscription path",
-      "https://sparkmailapp.com/plans-comparison"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-10-04, 10:51:51",
-      "https://news.ycombinator.com/item?id=33078631"
-    ],
-    [
-      "Working on the “Web” Browser for the MEGA65",
-      "https://c65gs.blogspot.com/2022/10/working-on-web-browser-for-mega65.html"
-    ]
-  ],
-  [
-    [
       "2022-10-04, 10:46:57",
       "https://news.ycombinator.com/item?id=33078596"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-10-02, 05:03:34",
-      "https://news.ycombinator.com/item?id=33053020"
-    ],
-    [
-      "Bai Juyi: The Tang dynasty’s baldest poet",
-      "https://www.medievalists.net/2022/09/bai-juyi-baldest-poet/"
-    ]
-  ],
-  [
-    [
       "2022-10-02, 03:40:26",
       "https://news.ycombinator.com/item?id=33052612"
     ],
@@ -277,6 +267,16 @@
     [
       "The Tyranny of Numbers: Mismeasurement and Misrule (1995)",
       "https://archive.org/details/tyrannyofnumbers0000eber"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 20:52:29",
+      "https://news.ycombinator.com/item?id=33050004"
+    ],
+    [
+      "Pelikan, Twitter’s framework for building caches",
+      "https://github.com/twitter/pelikan"
     ]
   ],
   [
