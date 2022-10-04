@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-04, 00:30:38",
+      "https://news.ycombinator.com/item?id=33075401"
+    ],
+    [
+      "What Can’t the Internet Handle in 2022? Apostrophes",
+      "https://www.wsj.com/articles/internet-mangles-names-accents-web-forms-11664462695"
+    ]
+  ],
+  [
+    [
       "2022-10-03, 21:58:44",
       "https://news.ycombinator.com/item?id=33074289"
     ],
@@ -37,16 +47,6 @@
     [
       "From Burned Out Tech CEO to Amazon Warehouse Associate",
       "https://www.jasonshen.com/120/"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 18:11:01",
-      "https://news.ycombinator.com/item?id=33071408"
-    ],
-    [
-      "You can't buy a Raspberry Pi right now",
-      "https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2022-10-03, 15:34:27",
-      "https://news.ycombinator.com/item?id=33068978"
-    ],
-    [
-      "mod_wasm: Run WebAssembly with Apache",
-      "https://wasmlabs.dev/articles/apache-mod-wasm/"
-    ]
-  ],
-  [
-    [
       "2022-10-03, 15:00:29",
       "https://news.ycombinator.com/item?id=33068421"
     ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2022-10-01, 17:37:16",
-      "https://news.ycombinator.com/item?id=33048355"
+      "2022-10-01, 16:02:13",
+      "https://news.ycombinator.com/item?id=33047574"
     ],
     [
-      "High Efficiency Image File Format (HEIF/.heic)",
-      "https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format"
+      "Xerox PARC – Office Alto Commercial (1979) [video]",
+      "https://www.youtube.com/watch?v=M0zgj2p7Ww4"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Researchers successfully convert methane gas into liquid methanol",
       "https://scitechdaily.com/new-method-converts-greenhouse-gas-into-fuel/"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 12:44:42",
+      "https://news.ycombinator.com/item?id=33046190"
+    ],
+    [
+      "Signals in Prod: Dangers and Pitfalls",
+      "https://developers.facebook.com/blog/post/2022/09/27/signals-in-prod-dangers-and-pitfalls/"
     ]
   ],
   [
