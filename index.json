@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-04, 15:25:59",
+      "https://news.ycombinator.com/item?id=33081709"
+    ],
+    [
+      "Pg_squeeze: An extension to fix table bloat",
+      "https://www.cybertec-postgresql.com/en/products/pg_squeeze/"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 15:06:57",
       "https://news.ycombinator.com/item?id=33081443"
     ],
@@ -31,12 +41,32 @@
   ],
   [
     [
+      "2022-10-04, 13:44:09",
+      "https://news.ycombinator.com/item?id=33080251"
+    ],
+    [
+      "US Job Outlook for Software Developers, Quality Assurance Analysts, and Testers",
+      "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm#tab-6"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 13:29:29",
       "https://news.ycombinator.com/item?id=33080052"
     ],
     [
       "“The Onion” Files a Supreme Court Brief",
       "https://www.nytimes.com/2022/10/04/us/the-onion-supreme-court.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 13:03:22",
+      "https://news.ycombinator.com/item?id=33079714"
+    ],
+    [
+      "Show HN: Generate code and diagrams from live infrastructure, AWS/Azure/GCP",
+      "https://www.grucloud.com/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Nobel Prize in Physics Awarded to Alain Aspect, John Clauser and Anton Zeilinger",
       "https://www.nobelprize.org/prizes/physics/2022/summary/"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 09:35:31",
-      "https://news.ycombinator.com/item?id=33078147"
-    ],
-    [
-      "The Effect of Space Weather on Human Body at the Spitsbergen Archipelago (2018)",
-      "https://www.intechopen.com/chapters/69119"
     ]
   ],
   [
@@ -221,22 +241,22 @@
   ],
   [
     [
+      "2022-10-02, 05:03:34",
+      "https://news.ycombinator.com/item?id=33053020"
+    ],
+    [
+      "Bai Juyi: The Tang dynasty’s baldest poet",
+      "https://www.medievalists.net/2022/09/bai-juyi-baldest-poet/"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 20:33:41",
       "https://news.ycombinator.com/item?id=33049844"
     ],
     [
       "Hollywood: Unmasking informant T-10 (1985)",
       "https://content.time.com/time/magazine/article/0,9171,959749,00.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 16:41:47",
-      "https://news.ycombinator.com/item?id=33047912"
-    ],
-    [
-      "The TC39 Process",
-      "https://tc39.es/process-document/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2022-10-01, 16:02:13",
-      "https://news.ycombinator.com/item?id=33047574"
-    ],
-    [
-      "Xerox PARC – Office Alto Commercial (1979) [video]",
-      "https://www.youtube.com/watch?v=M0zgj2p7Ww4"
-    ]
-  ],
-  [
-    [
       "2022-10-01, 08:06:10",
       "https://news.ycombinator.com/item?id=33044913"
     ],
@@ -287,16 +297,6 @@
     [
       "The Other Internet",
       "https://www.robinrendle.com/notes/the-other-internet/"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 17:35:25",
-      "https://news.ycombinator.com/item?id=33037975"
-    ],
-    [
-      "Junior Designers vs. Senior Designers",
-      "https://vanschneider.com/blog/young-designers/junior-designers-vs-senior-designers/"
     ]
   ]
 ]
