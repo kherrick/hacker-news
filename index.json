@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-04, 15:06:57",
+      "https://news.ycombinator.com/item?id=33081443"
+    ],
+    [
+      "Building a Startup on Clojure",
+      "https://wobaka.com/blog/building-a-startup-on-clojure/"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 14:49:41",
+      "https://news.ycombinator.com/item?id=33081206"
+    ],
+    [
+      "Walmart, CVS face trial for sham homeopathic products next to real meds",
+      "https://arstechnica.com/science/2022/10/walmart-cvs-face-trial-for-putting-sham-homeopathic-products-next-to-real-meds/"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 14:10:17",
       "https://news.ycombinator.com/item?id=33080631"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-10-04, 02:01:32",
-      "https://news.ycombinator.com/item?id=33076012"
-    ],
-    [
-      "ZFS 2.1.6",
-      "https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6"
-    ]
-  ],
-  [
-    [
       "2022-10-04, 00:30:38",
       "https://news.ycombinator.com/item?id=33075401"
     ],
@@ -207,16 +217,6 @@
     [
       "We Burned Down Players’ Houses in Ultima Online",
       "https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0?gi=d16a5fbc3623"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 14:25:58",
-      "https://news.ycombinator.com/item?id=33067962"
-    ],
-    [
-      "Postgres WASM",
-      "https://supabase.com/blog/postgres-wasm"
     ]
   ],
   [
