@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-04, 02:33:41",
+      "https://news.ycombinator.com/item?id=33076160"
+    ],
+    [
+      "Testing a Cheap ExpressCard to NVMe SSD Adapter on My ThinkPad T430",
+      "https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 02:17:01",
+      "https://news.ycombinator.com/item?id=33076092"
+    ],
+    [
+      "Codebase as Database: Turning the IDE Inside Out with Datalog",
+      "https://petevilter.me/post/datalog-typechecking/"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 02:01:32",
+      "https://news.ycombinator.com/item?id=33076012"
+    ],
+    [
+      "ZFS 2.1.6 Released",
+      "https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 00:30:38",
       "https://news.ycombinator.com/item?id=33075401"
     ],
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2022-10-03, 15:00:27",
-      "https://news.ycombinator.com/item?id=33068418"
-    ],
-    [
-      "Ask HN: Who wants to be hired? (October 2022)",
-      "https://news.ycombinator.com/item?id=33068418"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 14:55:58",
-      "https://news.ycombinator.com/item?id=33068353"
-    ],
-    [
-      "Shrinking Mississippi River Puts American Farm Trade at Risks",
-      "https://gcaptain.com/shrinking-mississippi-river-puts-american-farm-trade-at-risks/"
-    ]
-  ],
-  [
-    [
       "2022-10-03, 14:55:04",
       "https://news.ycombinator.com/item?id=33068340"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-10-03, 14:52:20",
-      "https://news.ycombinator.com/item?id=33068308"
-    ],
-    [
-      "The Anthropology of Farming Simulator",
-      "https://www.sapiens.org/archaeology/farming-simulator-anthropology/"
-    ]
-  ],
-  [
-    [
       "2022-10-03, 14:30:09",
       "https://news.ycombinator.com/item?id=33068017"
     ],
@@ -227,16 +227,6 @@
     [
       "Postgres WASM",
       "https://supabase.com/blog/postgres-wasm"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 12:15:19",
-      "https://news.ycombinator.com/item?id=33066399"
-    ],
-    [
-      "Google’s “million’s of search results” are not being served",
-      "https://serpapi.com/blog/googles-millions-of-search-results-are-not-being-served-in-the-later-pages-search-results/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Signals in Prod: Dangers and Pitfalls",
       "https://developers.facebook.com/blog/post/2022/09/27/signals-in-prod-dangers-and-pitfalls/"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 08:06:10",
+      "https://news.ycombinator.com/item?id=33044913"
+    ],
+    [
+      "DVD Drives Turned into Microscopes",
+      "https://hackaday.com/2022/10/01/dvd-drives-turned-into-microscopes/"
     ]
   ],
   [
