@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-04, 22:51:28",
+      "https://news.ycombinator.com/item?id=33088223"
+    ],
+    [
+      "The Majority of PostgreSQL Servers on the Internet Are Insecure",
+      "https://innerjoin.bit.io/the-majority-of-postgresql-servers-on-the-internet-are-insecure-f1e5ea4b3da3"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 22:50:44",
+      "https://news.ycombinator.com/item?id=33088214"
+    ],
+    [
+      "HHS purchases $290M worth of drugs for nuclear emergencies",
+      "https://aspr.hhs.gov:443/newsroom/Pages/ARS-Oct2022.aspx"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 22:17:57",
+      "https://news.ycombinator.com/item?id=33087850"
+    ],
+    [
+      "Netlink Added to FreeBSD – Unmodified Linux IP(8) Correctly Works",
+      "https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 22:07:38",
+      "https://news.ycombinator.com/item?id=33087740"
+    ],
+    [
+      "Girls in Yoga Pants Explain the Higher Education Apocalypse",
+      "https://jessicawildfire.substack.com/p/girls-in-yoga-pants-explain-the-higher"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 20:58:00",
       "https://news.ycombinator.com/item?id=33086746"
     ],
@@ -31,22 +71,22 @@
   ],
   [
     [
+      "2022-10-04, 20:11:19",
+      "https://news.ycombinator.com/item?id=33086039"
+    ],
+    [
+      "hBlock: A Posix-Compliant Ad-Blocker",
+      "https://hblock.molinero.dev/"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 20:06:49",
       "https://news.ycombinator.com/item?id=33085976"
     ],
     [
       "Templating in HTML",
       "https://kittygiraudel.com/2022/09/30/templating-in-html/"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 20:02:10",
-      "https://news.ycombinator.com/item?id=33085925"
-    ],
-    [
-      "Climate Change Is the Product of How Capitalism “Values” Nature",
-      "https://www.globalpolicyjournal.com/blog/19/11/2018/interview-climate-change-product-how-capitalism-values-nature"
     ]
   ],
   [
@@ -81,32 +121,12 @@
   ],
   [
     [
-      "2022-10-04, 19:12:44",
-      "https://news.ycombinator.com/item?id=33085269"
+      "2022-10-04, 19:22:51",
+      "https://news.ycombinator.com/item?id=33085410"
     ],
     [
-      "Elon Musk moves ahead with Twitter deal in 13D filing",
-      "https://www.sec.gov/Archives/edgar/data/1418091/000110465922105787/tm2227435d1_sc13da.htm"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 18:19:38",
-      "https://news.ycombinator.com/item?id=33084508"
-    ],
-    [
-      "RISC-V Laptop now available",
-      "https://www.tomshardware.com/news/risc-v-laptop-world-first"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 18:14:09",
-      "https://news.ycombinator.com/item?id=33084431"
-    ],
-    [
-      "C++20 coroutines: “The bug is in the C++ standard, not GCC.”",
-      "https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95111#c23"
+      "Feds Seized $311M in Bitcoin. The Crypto Hacker Stole It Back",
+      "https://www.bloomberg.com/news/articles/2022-10-03/feds-seized-311m-in-bitcoin-btc-the-crypto-hacker-stole-it-back"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-10-04, 15:25:59",
-      "https://news.ycombinator.com/item?id=33081709"
-    ],
-    [
-      "Pg_squeeze: An extension to fix table bloat",
-      "https://www.cybertec-postgresql.com/en/products/pg_squeeze/"
-    ]
-  ],
-  [
-    [
       "2022-10-04, 15:06:57",
       "https://news.ycombinator.com/item?id=33081443"
     ],
@@ -237,16 +247,6 @@
     [
       "Ancient footprints reveal 'Irish Sea Serengeti'",
       "https://www.bbc.co.uk/news/science-environment-63036911"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 07:41:16",
-      "https://news.ycombinator.com/item?id=33077533"
-    ],
-    [
-      "UML: My Part in Its Downfall",
-      "https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html"
     ]
   ],
   [
