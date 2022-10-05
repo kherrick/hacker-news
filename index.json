@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-05, 14:18:55",
+      "https://news.ycombinator.com/item?id=33095890"
+    ],
+    [
+      "Instagram to increase ad load as Meta fights revenue decline",
+      "https://techcrunch.com/2022/10/04/instagram-to-increase-ad-load-as-meta-fights-revenue-decline/"
+    ]
+  ],
+  [
+    [
       "2022-10-05, 12:50:44",
       "https://news.ycombinator.com/item?id=33094829"
     ],
     [
       "Watchman: Execute a command when something changes",
       "https://github.com/crodjer/watchman"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 12:44:18",
+      "https://news.ycombinator.com/item?id=33094744"
+    ],
+    [
+      "X64 Cheat Sheet (2019) [pdf]",
+      "https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 12:42:45",
+      "https://news.ycombinator.com/item?id=33094720"
+    ],
+    [
+      "Show HN: Kafka 0.8.0 on Cloudflare Workers",
+      "https://github.com/maxwellpeterson/kafka-worker"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "Free Markets Don’t Buy Peace",
       "https://www.politico.com/news/magazine/2022/10/05/free-markets-dont-buy-peace-00060236"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 12:26:07",
+      "https://news.ycombinator.com/item?id=33094536"
+    ],
+    [
+      "Show HN: How Sketch can win looking at there Qualitative Feedback?",
+      "https://olvy.co/open-analysis/sketch"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2022-10-05, 06:25:25",
-      "https://news.ycombinator.com/item?id=33091972"
-    ],
-    [
-      "Ask HN: How do I learn to communicate effectively?",
-      "https://news.ycombinator.com/item?id=33091972"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 06:11:49",
       "https://news.ycombinator.com/item?id=33091903"
     ],
@@ -187,26 +217,6 @@
     [
       "Show HN: Async UI: A Rust UI Library Where Everything is a Future",
       "https://wishawa.github.io/posts/async-ui-intro/"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 23:01:53",
-      "https://news.ycombinator.com/item?id=33088332"
-    ],
-    [
-      "The Full Chess Cheating Report of Hans Neiman",
-      "https://www.chess.com/blog/CHESScom/hans-niemann-report"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 17:59:27",
-      "https://news.ycombinator.com/item?id=33084205"
-    ],
-    [
-      "The Illustrated Stable Diffusion",
-      "https://jalammar.github.io/illustrated-stable-diffusion/"
     ]
   ],
   [
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2022-10-02, 08:02:07",
-      "https://news.ycombinator.com/item?id=33053918"
+      "2022-10-02, 09:05:50",
+      "https://news.ycombinator.com/item?id=33054264"
     ],
     [
-      "Mojibake",
-      "https://en.wikipedia.org/wiki/Mojibake"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 20:30:30",
-      "https://news.ycombinator.com/item?id=33049809"
-    ],
-    [
-      "Rex: The World's Smallest PDA [video]",
-      "https://www.youtube.com/watch?v=gGQNAg3TxCo"
+      "Steady State Means Continuous Rewriting",
+      "https://brunoscheufler.com/blog/2022-09-04-steady-state-means-continuous-rewriting"
     ]
   ],
   [
