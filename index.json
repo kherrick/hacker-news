@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-05, 02:59:47",
+      "https://news.ycombinator.com/item?id=33090580"
+    ],
+    [
+      "AI-powered communication coach that helps you speak with confidence and clarity",
+      "https://www.poised.com/"
+    ]
+  ],
+  [
+    [
       "2022-10-05, 02:10:41",
       "https://news.ycombinator.com/item?id=33090205"
     ],
@@ -17,6 +27,16 @@
     [
       "Internet Archive Seeks Material for Library of Amateur Radio and Communications",
       "https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 00:14:36",
+      "https://news.ycombinator.com/item?id=33089131"
+    ],
+    [
+      "Show HN: Async UI: A Rust UI Library Where Everything is a Future",
+      "https://wishawa.github.io/posts/async-ui-intro/"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33086768"
     ],
     [
-      "Tesla removes Ultrasonic sensors in favour of Tesla Vision",
+      "Tesla Vision Update: Replacing Ultrasonic Sensors with Tesla Vision",
       "https://www.tesla.com/support/transitioning-tesla-vision"
     ]
   ],
@@ -87,16 +107,6 @@
     [
       "How to move a running process into a tmux session (2020)",
       "https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 20:11:19",
-      "https://news.ycombinator.com/item?id=33086039"
-    ],
-    [
-      "hBlock: A Posix-Compliant Ad-Blocker",
-      "https://hblock.molinero.dev/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "3D Novel View Synthesis with Diffusion Models",
       "https://3d-diffusion.github.io/"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 19:41:49",
-      "https://news.ycombinator.com/item?id=33085649"
-    ],
-    [
-      "Chess Investigation Finds U.S. Grandmaster ‘Likely Cheated’ More Than 100 Times",
-      "https://www.wsj.com/articles/chess-cheating-hans-niemann-report-magnus-carlsen-11664911524"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-10-02, 18:48:38",
-      "https://news.ycombinator.com/item?id=33058969"
-    ],
-    [
-      "Ask HN: How to get started with real-time Linux?",
-      "https://news.ycombinator.com/item?id=33058969"
-    ]
-  ],
-  [
-    [
       "2022-10-02, 08:02:07",
       "https://news.ycombinator.com/item?id=33053918"
     ],
@@ -297,6 +287,16 @@
     [
       "The Lilium Jet",
       "https://lilium.com/jet"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 01:04:00",
+      "https://news.ycombinator.com/item?id=33042725"
+    ],
+    [
+      "Aristotle influenced the computer (2017)",
+      "https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/"
     ]
   ]
 ]
