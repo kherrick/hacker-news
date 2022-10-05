@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-05, 22:12:00",
+      "https://news.ycombinator.com/item?id=33101867"
+    ],
+    [
+      "Jq Internals: Backtracking",
+      "https://github.com/stedolan/jq/wiki/Internals:-backtracking"
+    ]
+  ],
+  [
+    [
       "2022-10-05, 21:33:40",
       "https://news.ycombinator.com/item?id=33101487"
     ],
@@ -11,12 +21,22 @@
   ],
   [
     [
-      "2022-10-05, 21:22:08",
-      "https://news.ycombinator.com/item?id=33101383"
+      "2022-10-05, 21:25:59",
+      "https://news.ycombinator.com/item?id=33101419"
     ],
     [
-      "Tor Project Board Member is CEO of Company Selling Capability for Attribution",
-      "https://blog.torproject.org/role-tor-project-board-conflicts-interest/"
+      "“Skimpflation” is hitting everything from food to hotels",
+      "https://www.cbsnews.com/news/skimpflation-inflation-reducing-food-service-quality/"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 21:24:14",
+      "https://news.ycombinator.com/item?id=33101401"
+    ],
+    [
+      "What does the ??!??! operator do in C?",
+      "https://stackoverflow.com/questions/7825055/what-does-the-operator-do-in-c"
     ]
   ],
   [
@@ -65,18 +85,8 @@
       "https://news.ycombinator.com/item?id=33099707"
     ],
     [
-      "Head of Election Worker Management Company Arrested for Theft of Personal Data",
+      "Head of election worker management company arrested for theft of personal data",
       "https://da.lacounty.gov/media/news/head-election-worker-management-company-arrested-connection-theft-personal-data"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 17:58:45",
-      "https://news.ycombinator.com/item?id=33098970"
-    ],
-    [
-      "Show HN: Earn 9.62% on US Treasury I Bonds on Yotta",
-      "https://news.ycombinator.com/item?id=33098970"
     ]
   ],
   [
@@ -101,42 +111,12 @@
   ],
   [
     [
-      "2022-10-05, 16:37:26",
-      "https://news.ycombinator.com/item?id=33097754"
-    ],
-    [
-      "From Pythonista to Rustacean",
-      "https://github.com/rochacbruno/py2rs"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 16:22:12",
-      "https://news.ycombinator.com/item?id=33097511"
-    ],
-    [
-      "Nix Team Creation",
-      "https://discourse.nixos.org/t/nix-team-creation/22228"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 16:19:15",
       "https://news.ycombinator.com/item?id=33097469"
     ],
     [
-      "FCC to Remove Companies from Robocall Database for Non-Compliance [pdf]",
+      "FCC to remove companies from robocall database for non-compliance [pdf]",
       "https://docs.fcc.gov/public/attachments/DOC-387840A1.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 16:00:18",
-      "https://news.ycombinator.com/item?id=33097235"
-    ],
-    [
-      "SpaceX exploring mission to boost Hubble",
-      "https://orbitalindex.com/archive/2022-10-05-Issue-188/"
     ]
   ],
   [
@@ -241,11 +221,21 @@
   ],
   [
     [
+      "2022-10-05, 10:43:14",
+      "https://news.ycombinator.com/item?id=33093666"
+    ],
+    [
+      "CMSC 430: Design and Implementation of Programming Languages",
+      "https://www.cs.umd.edu/class/fall2022/cmsc430/index.html"
+    ]
+  ],
+  [
+    [
       "2022-10-02, 10:42:15",
       "https://news.ycombinator.com/item?id=33054741"
     ],
     [
-      "The Art of Logging. Are logs for humans? Or machines? Or both?",
+      "The Art of Logging",
       "https://medium.com/@JaouherK/creating-a-human-and-machine-freindly-logging-format-bb6d4bb01dca"
     ]
   ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33053407"
     ],
     [
-      "How to Choose a Radon Fan (2018)",
+      "How to choose a radon fan (2018)",
       "https://americanradonmitigation.com/choosing-radon-fan/"
     ]
   ],
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=33049627"
     ],
     [
-      "Notes Against Note-Taking Systems",
+      "Notes against note-taking systems",
       "https://sashachapin.substack.com/p/notes-against-note-taking-systems"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 16:51:45",
+      "https://news.ycombinator.com/item?id=33047997"
+    ],
+    [
+      "The lighthouse in economics (1974) [pdf]",
+      "https://courses.cit.cornell.edu/econ335/out/lighthouse.pdf"
     ]
   ]
 ]
