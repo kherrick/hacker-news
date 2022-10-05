@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-10-05, 05:03:39",
-      "https://news.ycombinator.com/item?id=33091480"
-    ],
-    [
-      "“All data must be on the table” (German)",
-      "https://www.welt.de/politik/deutschland/plus241385073/mRNA-Impfstoffe-Dass-die-Hersteller-die-Daten-nicht-herausruecken-ist-nicht-zu-rechtfertigen.html"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 02:59:47",
       "https://news.ycombinator.com/item?id=33090580"
     ],
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33085532"
     ],
     [
-      "“When are we going to use this in our everyday life?”",
+      "“When are we going to use this in our everyday life?” (2017)",
       "https://flavoracle.tumblr.com/post/167150535757/its-sad-how-much-of-what-is-taught-in-school-is"
     ]
   ],
@@ -201,6 +191,26 @@
   ],
   [
     [
+      "2022-10-04, 17:11:52",
+      "https://news.ycombinator.com/item?id=33083413"
+    ],
+    [
+      "Matter – The Foundation for Connected Things",
+      "https://csa-iot.org/all-solutions/matter/"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 16:24:32",
+      "https://news.ycombinator.com/item?id=33082688"
+    ],
+    [
+      "Introducing NVK",
+      "https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 15:49:18",
       "https://news.ycombinator.com/item?id=33082128"
     ],
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2022-10-04, 14:47:23",
-      "https://news.ycombinator.com/item?id=33081159"
-    ],
-    [
-      "SQLite: QEMU All over Again?",
-      "https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 14:10:17",
-      "https://news.ycombinator.com/item?id=33080631"
-    ],
-    [
-      "ClickHouse Cloud is now in Public Beta",
-      "https://clickhouse.com/blog/clickhouse-cloud-public-beta"
-    ]
-  ],
-  [
-    [
       "2022-10-02, 08:02:07",
       "https://news.ycombinator.com/item?id=33053918"
     ],
     [
       "Mojibake",
       "https://en.wikipedia.org/wiki/Mojibake"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 20:52:29",
+      "https://news.ycombinator.com/item?id=33050004"
+    ],
+    [
+      "Pelikan, Twitter’s framework for building caches",
+      "https://github.com/twitter/pelikan"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-10-01, 01:04:00",
-      "https://news.ycombinator.com/item?id=33042725"
+      "2022-09-30, 19:51:56",
+      "https://news.ycombinator.com/item?id=33039904"
     ],
     [
-      "Aristotle influenced the computer (2017)",
-      "https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/"
+      "Advanced Scientific Data Format",
+      "https://github.com/asdf-format/asdf"
     ]
   ]
 ]
