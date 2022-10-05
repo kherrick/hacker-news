@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2022-10-04, 16:24:32",
+      "https://news.ycombinator.com/item?id=33082688"
+    ],
+    [
+      "Introducing NVK",
+      "https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 15:49:18",
       "https://news.ycombinator.com/item?id=33082128"
     ],
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2022-10-04, 15:45:52",
-      "https://news.ycombinator.com/item?id=33082064"
-    ],
-    [
-      "Ignore 98% of dependency alerts: introducing Semgrep Supply Chain",
-      "https://r2c.dev/blog/2022/introducing-semgrep-supply-chain/"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 15:06:57",
-      "https://news.ycombinator.com/item?id=33081443"
-    ],
-    [
-      "Building a Startup on Clojure",
-      "https://wobaka.com/blog/building-a-startup-on-clojure/"
-    ]
-  ],
-  [
-    [
       "2022-10-02, 08:02:07",
       "https://news.ycombinator.com/item?id=33053918"
     ],
     [
       "Mojibake",
       "https://en.wikipedia.org/wiki/Mojibake"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 20:52:29",
+      "https://news.ycombinator.com/item?id=33050004"
+    ],
+    [
+      "Pelikan, Twitter’s framework for building caches",
+      "https://github.com/twitter/pelikan"
     ]
   ],
   [
