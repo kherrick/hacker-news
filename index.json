@@ -1,22 +1,52 @@
 [
   [
     [
+      "2022-10-05, 16:41:49",
+      "https://news.ycombinator.com/item?id=33097829"
+    ],
+    [
+      "Apple asks suppliers to shift AirPods, Beats production to India",
+      "https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-asks-suppliers-to-shift-AirPods-Beats-production-to-India"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 16:37:26",
+      "https://news.ycombinator.com/item?id=33097754"
+    ],
+    [
+      "From Pythonista to Rustacean",
+      "https://github.com/rochacbruno/py2rs"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 16:32:43",
+      "https://news.ycombinator.com/item?id=33097663"
+    ],
+    [
+      "Many scientists see fusion as the future of energy – and they're betting big",
+      "https://www.nationalgeographic.co.uk/science-and-technology/2022/10/many-scientists-see-fusion-as-the-future-of-energy-and-theyre-betting-big"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 16:22:12",
+      "https://news.ycombinator.com/item?id=33097511"
+    ],
+    [
+      "Nix Team Creation",
+      "https://discourse.nixos.org/t/nix-team-creation/22228"
+    ]
+  ],
+  [
+    [
       "2022-10-05, 16:19:15",
       "https://news.ycombinator.com/item?id=33097469"
     ],
     [
       "FCC to Remove Companies from Robocall Database for Non-Compliance [pdf]",
       "https://docs.fcc.gov/public/attachments/DOC-387840A1.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 16:15:50",
-      "https://news.ycombinator.com/item?id=33097439"
-    ],
-    [
-      "US National Debt Tops $31T",
-      "https://www.nytimes.com/2022/10/04/business/national-debt.html"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Over 50% of CEOs say they’re considering cutting jobs over the next 6 months",
       "https://www.marketwatch.com/story/more-than-half-of-ceos-consider-workforce-reductions-over-the-next-6-months-and-remote-workers-may-be-the-first-go-to-11664907913"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 15:45:22",
-      "https://news.ycombinator.com/item?id=33097050"
-    ],
-    [
-      "Tell HN: Our VC told us they won't follow for Series A. At the worst moment",
-      "https://news.ycombinator.com/item?id=33097050"
     ]
   ],
   [
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2022-10-05, 09:48:25",
-      "https://news.ycombinator.com/item?id=33093278"
-    ],
-    [
-      "Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless",
-      "https://www.nobelprize.org/prizes/chemistry/2022/summary/"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 08:57:13",
-      "https://news.ycombinator.com/item?id=33092974"
-    ],
-    [
-      "Intel Laptop Users Should Avoid Linux 5.19.12 to Avoid Damaging the Display",
-      "https://lore.kernel.org/all/YzwooNdMECzuI5+h@intel.com/"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 08:33:21",
       "https://news.ycombinator.com/item?id=33092809"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-10-02, 03:14:31",
+      "https://news.ycombinator.com/item?id=33052483"
+    ],
+    [
+      "Text Is the Universal Interface",
+      "https://scale.com/blog/text-universal-interface"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 20:11:09",
       "https://news.ycombinator.com/item?id=33049627"
     ],
     [
       "Notes Against Note-Taking Systems",
       "https://sashachapin.substack.com/p/notes-against-note-taking-systems"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 19:51:56",
-      "https://news.ycombinator.com/item?id=33039904"
-    ],
-    [
-      "Advanced Scientific Data Format",
-      "https://github.com/asdf-format/asdf"
     ]
   ]
 ]
