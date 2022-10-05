@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-10-05, 18:18:31",
-      "https://news.ycombinator.com/item?id=33099222"
+      "2022-10-05, 19:02:14",
+      "https://news.ycombinator.com/item?id=33099872"
     ],
     [
-      "LibSQL is an open source, open contribution fork of SQLite",
-      "https://github.com/libsql/libsql"
+      "Partitioning in Postgres, 2022 Edition",
+      "https://brandur.org/fragments/postgres-partitioning-2022"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 18:49:42",
+      "https://news.ycombinator.com/item?id=33099707"
+    ],
+    [
+      "Head of Election Worker Management Company Arrested for Theft of Personal Data",
+      "https://da.lacounty.gov/media/news/head-election-worker-management-company-arrested-connection-theft-personal-data"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 18:15:22",
+      "https://news.ycombinator.com/item?id=33099182"
+    ],
+    [
+      "Ask HN: What am I supposed after I’m “disrupted”? Work in video and CG",
+      "https://news.ycombinator.com/item?id=33099182"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-10-05, 15:09:10",
-      "https://news.ycombinator.com/item?id=33096540"
-    ],
-    [
-      "QR code images in macOS are silently executed in the background hours/days later",
-      "https://twitter.com/simonw/status/1577674380133269504"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 15:02:30",
       "https://news.ycombinator.com/item?id=33096449"
     ],
@@ -157,26 +167,6 @@
     [
       "Memories: Edinburgh ML to Standard ML",
       "https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 13:54:07",
-      "https://news.ycombinator.com/item?id=33095608"
-    ],
-    [
-      "macOS is background scanning and following downloaded QR codes?",
-      "https://twitter.com/hodgesmr/status/1577650545107533826"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 13:48:45",
-      "https://news.ycombinator.com/item?id=33095541"
-    ],
-    [
-      "Incident with Actions and Codespaces",
-      "https://www.githubstatus.com/incidents/smn1qtqvbsb6"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "DocArray: a data structure for unstructured data",
       "https://docarray.jina.ai/get-started/what-is/"
+    ]
+  ],
+  [
+    [
+      "2022-10-02, 10:42:15",
+      "https://news.ycombinator.com/item?id=33054741"
+    ],
+    [
+      "The Art of Logging. Are logs for humans? Or machines? Or both?",
+      "https://medium.com/@JaouherK/creating-a-human-and-machine-freindly-logging-format-bb6d4bb01dca"
     ]
   ],
   [
