@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-05, 15:12:35",
+      "https://news.ycombinator.com/item?id=33096580"
+    ],
+    [
+      "Discovering faster matrix multiplication algorithms with reinforcement learning",
+      "https://www.nature.com/articles/s41586-022-05172-4"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 15:09:10",
+      "https://news.ycombinator.com/item?id=33096540"
+    ],
+    [
+      "QR code images in macOS are silently executed in the background hours/days later",
+      "https://twitter.com/simonw/status/1577674380133269504"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 15:02:30",
+      "https://news.ycombinator.com/item?id=33096449"
+    ],
+    [
+      "Nerfstudio: A collaboration friendly studio for NeRFs",
+      "https://docs.nerf.studio/en/latest/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 14:57:47",
+      "https://news.ycombinator.com/item?id=33096395"
+    ],
+    [
+      "Memories: Edinburgh ML to Standard ML",
+      "https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html"
+    ]
+  ],
+  [
+    [
       "2022-10-05, 14:18:55",
       "https://news.ycombinator.com/item?id=33095890"
     ],
@@ -17,6 +57,26 @@
     [
       "Ask HN: How can a total beginner start with self-hosting?",
       "https://news.ycombinator.com/item?id=33095823"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 13:54:07",
+      "https://news.ycombinator.com/item?id=33095608"
+    ],
+    [
+      "macOS is background scanning and following downloaded QR codes?",
+      "https://twitter.com/hodgesmr/status/1577650545107533826"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 13:48:45",
+      "https://news.ycombinator.com/item?id=33095541"
+    ],
+    [
+      "Incident with Actions and Codespaces",
+      "https://www.githubstatus.com/incidents/smn1qtqvbsb6"
     ]
   ],
   [
@@ -91,42 +151,12 @@
   ],
   [
     [
-      "2022-10-05, 12:26:07",
-      "https://news.ycombinator.com/item?id=33094536"
-    ],
-    [
-      "Show HN: How Sketch can win looking at there Qualitative Feedback?",
-      "https://olvy.co/open-analysis/sketch"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 11:38:21",
       "https://news.ycombinator.com/item?id=33094064"
     ],
     [
       "MineDojo – Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
       "https://minedojo.org/"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 11:21:24",
-      "https://news.ycombinator.com/item?id=33093941"
-    ],
-    [
-      "I don’t believe in sprints",
-      "https://www.robinrendle.com/notes/i-don’t-believe-in-sprints/"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 11:06:06",
-      "https://news.ycombinator.com/item?id=33093832"
-    ],
-    [
-      "Google picks South Africa for its first cloud region in Africa",
-      "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/"
     ]
   ],
   [
@@ -157,16 +187,6 @@
     [
       "Intel Laptop Users Should Avoid Linux 5.19.12 to Avoid Damaging the Display",
       "https://lore.kernel.org/all/YzwooNdMECzuI5+h@intel.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 08:47:29",
-      "https://news.ycombinator.com/item?id=33092918"
-    ],
-    [
-      "Scrolling the Vic-IV Screen",
-      "https://retrocogs.mega65.com/2022/10/04/scrolling-the-vic-iv-screen/"
     ]
   ],
   [
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2022-10-05, 00:14:36",
-      "https://news.ycombinator.com/item?id=33089131"
-    ],
-    [
-      "Show HN: Async UI: A Rust UI Library Where Everything is a Future",
-      "https://wishawa.github.io/posts/async-ui-intro/"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 15:49:18",
-      "https://news.ycombinator.com/item?id=33082128"
-    ],
-    [
-      "Knuth's Art of Computer Programming, V 4B, has gone into print",
-      "https://www-cs-faculty.stanford.edu/~knuth/news.html#v4b"
-    ]
-  ],
-  [
-    [
       "2022-10-04, 10:51:46",
       "https://news.ycombinator.com/item?id=33078629"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-10-02, 03:37:40",
+      "https://news.ycombinator.com/item?id=33052593"
+    ],
+    [
+      "Open Letter to the WHOSTP and Subcommittee on Open Science",
+      "https://ostp-letter.github.io/"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 04:30:58",
       "https://news.ycombinator.com/item?id=33043883"
     ],
@@ -287,16 +297,6 @@
     [
       "Advanced Scientific Data Format",
       "https://github.com/asdf-format/asdf"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 18:56:07",
-      "https://news.ycombinator.com/item?id=33039106"
-    ],
-    [
-      "Pessimism is a barrier to progress",
-      "https://bigthink.com/progress/pessimism-is-a-barrier-to-progress/"
     ]
   ]
 ]
