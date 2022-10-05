@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-10-04, 23:38:44",
-      "https://news.ycombinator.com/item?id=33088733"
+      "2022-10-05, 02:10:41",
+      "https://news.ycombinator.com/item?id=33090205"
     ],
     [
-      "Should billboard advertising be banned?",
-      "https://www.bbc.com/news/business-62806697"
+      "Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters",
+      "https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 00:55:25",
+      "https://news.ycombinator.com/item?id=33089535"
+    ],
+    [
+      "Internet Archive Seeks Material for Library of Amateur Radio and Communications",
+      "https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "The Full Chess Cheating Report of Hans Neiman",
       "https://www.chess.com/blog/CHESScom/hans-niemann-report"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 22:51:28",
-      "https://news.ycombinator.com/item?id=33088223"
-    ],
-    [
-      "The Majority of PostgreSQL Servers on the Internet Are Insecure",
-      "https://innerjoin.bit.io/the-majority-of-postgresql-servers-on-the-internet-are-insecure-f1e5ea4b3da3"
     ]
   ],
   [
@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2022-10-04, 20:58:57",
+      "https://news.ycombinator.com/item?id=33086768"
+    ],
+    [
+      "Tesla removes Ultrasonic sensors in favour of Tesla Vision",
+      "https://www.tesla.com/support/transitioning-tesla-vision"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 20:58:00",
       "https://news.ycombinator.com/item?id=33086746"
     ],
@@ -75,18 +85,8 @@
       "https://news.ycombinator.com/item?id=33086322"
     ],
     [
-      "How to move a running process into a tmux session",
+      "How to move a running process into a tmux session (2020)",
       "https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 20:18:18",
-      "https://news.ycombinator.com/item?id=33086153"
-    ],
-    [
-      "Epic-Kitchens Dataset",
-      "https://epic-kitchens.github.io/VISOR/"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Templating in HTML",
       "https://kittygiraudel.com/2022/09/30/templating-in-html/"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 19:58:54",
+      "https://news.ycombinator.com/item?id=33085884"
+    ],
+    [
+      "Inflation is at a 40 year high. What can history teach us?",
+      "https://yarn.pranshum.com/"
     ]
   ],
   [
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=33085410"
     ],
     [
-      "Feds Seized $311M in Bitcoin. The Crypto Hacker Stole It Back",
+      "Feds seized $311M in Bitcoin, then hacker stole it back",
       "https://www.bloomberg.com/news/articles/2022-10-03/feds-seized-311m-in-bitcoin-btc-the-crypto-hacker-stole-it-back"
     ]
   ],
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2022-10-04, 11:05:52",
-      "https://news.ycombinator.com/item?id=33078719"
-    ],
-    [
-      "The deception of “buying” digital movies",
-      "https://worldofmatthew.com/technology/amazon-itunes-deception/"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 07:29:39",
-      "https://news.ycombinator.com/item?id=33077473"
-    ],
-    [
-      "How fateful?",
-      "https://chan.co.za/how-fateful"
-    ]
-  ],
-  [
-    [
       "2022-10-02, 18:48:38",
       "https://news.ycombinator.com/item?id=33058969"
     ],
@@ -287,6 +277,16 @@
     [
       "Pelikan, Twitter’s framework for building caches",
       "https://github.com/twitter/pelikan"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 20:30:30",
+      "https://news.ycombinator.com/item?id=33049809"
+    ],
+    [
+      "Rex: The World's Smallest PDA [video]",
+      "https://www.youtube.com/watch?v=gGQNAg3TxCo"
     ]
   ],
   [
