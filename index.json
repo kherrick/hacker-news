@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-06, 08:10:52",
+      "https://news.ycombinator.com/item?id=33105773"
+    ],
+    [
+      "Tell HN: Kim Jung Gi has died",
+      "https://news.ycombinator.com/item?id=33105773"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 08:03:34",
+      "https://news.ycombinator.com/item?id=33105706"
+    ],
+    [
+      "A Ruby program that generates itself (through a 128-language quine loop)",
+      "https://github.com/mame/quine-relay/blob/master/QR.rb"
+    ]
+  ],
+  [
+    [
       "2022-10-06, 07:44:45",
       "https://news.ycombinator.com/item?id=33105606"
     ],
@@ -117,16 +137,6 @@
     [
       "Jq Internals: Backtracking (2017)",
       "https://github.com/stedolan/jq/wiki/Internals:-backtracking"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 21:41:38",
-      "https://news.ycombinator.com/item?id=33101562"
-    ],
-    [
-      "We’re adding barcodes to our regular stamps",
-      "https://www.royalmail.com/sending/barcoded-stamps"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "TV backlight compensation (2020)",
       "http://www.lofibucket.com/articles/tv_backlight_compensation.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 06:22:51",
-      "https://news.ycombinator.com/item?id=33053407"
-    ],
-    [
-      "How to choose a radon fan (2018)",
-      "https://americanradonmitigation.com/choosing-radon-fan/"
     ]
   ],
   [
