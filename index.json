@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-06, 22:20:28",
+      "https://news.ycombinator.com/item?id=33114870"
+    ],
+    [
+      "Upgrade to Linux",
+      "https://www.upgradetolinux.com/"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 22:20:25",
+      "https://news.ycombinator.com/item?id=33114869"
+    ],
+    [
+      "Dormant spores decide to wake-up by counting in their sleep using electricity",
+      "https://www.science.org/doi/10.1126/science.abl7484"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 21:54:34",
+      "https://news.ycombinator.com/item?id=33114591"
+    ],
+    [
+      "AMD Announces Preliminary Third Quarter 2022 Financial Results",
+      "https://finance.yahoo.com/news/amd-announces-preliminary-third-quarter-201700374.html"
+    ]
+  ],
+  [
+    [
       "2022-10-06, 21:24:53",
       "https://news.ycombinator.com/item?id=33114284"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2022-10-06, 16:05:31",
-      "https://news.ycombinator.com/item?id=33110031"
-    ],
-    [
-      "UK Plans for Three-Hour Power Blackouts in Event of Gas Shortages",
-      "https://news.sky.com/story/energy-crisis-plan-for-three-hour-power-blackouts-to-prioritise-heating-in-event-of-gas-shortages-12713253"
-    ]
-  ],
-  [
-    [
       "2022-10-06, 15:38:16",
       "https://news.ycombinator.com/item?id=33109633"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-10-06, 13:49:10",
-      "https://news.ycombinator.com/item?id=33108122"
-    ],
-    [
-      "Build C++ Graph Analytics Without Worrying About Memory",
-      "https://memgraph.com/blog/build-graph-analytics-without-worrying-about-memory"
-    ]
-  ],
-  [
-    [
       "2022-10-06, 13:43:45",
       "https://news.ycombinator.com/item?id=33108050"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2022-10-06, 12:00:29",
-      "https://news.ycombinator.com/item?id=33107111"
-    ],
-    [
-      "Our domain and 700 non-profit sites got blocked by Meta",
-      "https://www.simonbackx.com/blocked-by-meta/"
-    ]
-  ],
-  [
-    [
       "2022-10-06, 11:15:09",
       "https://news.ycombinator.com/item?id=33106822"
     ],
     [
       "Pimp My BBC Micro",
       "https://github.com/dekuNukem/RGBeeb/blob/master/README.md"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 09:20:12",
-      "https://news.ycombinator.com/item?id=33106234"
-    ],
-    [
-      "Cloud desktops aren't as good as you'd think",
-      "https://mjg59.dreamwidth.org/61535.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Paris Métro paper ticket reaches end of the line after more than 120 years",
       "https://www.theguardian.com/world/2022/oct/04/paris-metro-paper-ticket-paper-journey-transport"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 10:38:29",
+      "https://news.ycombinator.com/item?id=33078543"
+    ],
+    [
+      "What color is your markup?",
+      "https://t-ravis.com/post/doc/what_color_is_your_markup/"
     ]
   ],
   [
