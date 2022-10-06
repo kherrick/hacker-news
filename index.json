@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-06, 17:05:29",
+      "https://news.ycombinator.com/item?id=33110937"
+    ],
+    [
+      "American tourist smashes two sculptures in the Vatican",
+      "https://lite.cnn.com/en/article/h_5b2169b553c0536e383535ce2361b81c"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 17:00:24",
+      "https://news.ycombinator.com/item?id=33110872"
+    ],
+    [
+      "Release (YC W20) Is Hiring Senior Software Engineer – Cloud Infrastructure",
+      "https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure"
+    ]
+  ],
+  [
+    [
       "2022-10-06, 16:35:47",
       "https://news.ycombinator.com/item?id=33110478"
     ],
     [
       "Interactive Submarine Cable Map",
       "https://www.submarinecablemap.com/"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 16:33:08",
+      "https://news.ycombinator.com/item?id=33110432"
+    ],
+    [
+      "Is the AWS us-west-2 region experiencing an outage?",
+      "https://news.ycombinator.com/item?id=33110432"
     ]
   ],
   [
@@ -21,12 +51,32 @@
   ],
   [
     [
+      "2022-10-06, 16:10:29",
+      "https://news.ycombinator.com/item?id=33110097"
+    ],
+    [
+      "GE is laying off 20% of its workforce devoted to onshore wind power",
+      "https://www.cnbc.com/2022/10/06/ge-layoff-20percent-of-onshore-wind-workforce-hundreds-of-jobs.html"
+    ]
+  ],
+  [
+    [
       "2022-10-06, 16:05:31",
       "https://news.ycombinator.com/item?id=33110031"
     ],
     [
       "UK Plans for Three-Hour Power Blackouts in Event of Gas Shortages",
       "https://news.sky.com/story/energy-crisis-plan-for-three-hour-power-blackouts-to-prioritise-heating-in-event-of-gas-shortages-12713253"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 15:38:16",
+      "https://news.ycombinator.com/item?id=33109633"
+    ],
+    [
+      "A Universal Cancer Treatment?",
+      "https://nautil.us/a-universal-cancer-treatment-241231/"
     ]
   ],
   [
@@ -105,7 +155,7 @@
       "https://news.ycombinator.com/item?id=33107756"
     ],
     [
-      "False memory implantation in adults us easy",
+      "False memory implantation in adults is easy",
       "https://brainpizza.substack.com/p/sins-of-memory"
     ]
   ],
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2022-10-06, 09:13:56",
-      "https://news.ycombinator.com/item?id=33106196"
-    ],
-    [
-      "Tell HN: Twitter suspends arrested Iranian tech blogger’s account",
-      "https://twitter.com/jadi/"
-    ]
-  ],
-  [
-    [
       "2022-10-06, 08:10:52",
       "https://news.ycombinator.com/item?id=33105773"
     ],
@@ -167,46 +207,6 @@
     [
       "A Ruby program that generates itself through a 128-language quine loop",
       "https://github.com/mame/quine-relay/blob/master/QR.rb"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 02:02:57",
-      "https://news.ycombinator.com/item?id=33103464"
-    ],
-    [
-      "RFC: C++ Buffer Hardening",
-      "https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 01:33:32",
-      "https://news.ycombinator.com/item?id=33103303"
-    ],
-    [
-      "NVIDIA and nouveau",
-      "https://lwn.net/SubscriberLink/910343/e360e44a7a63b1b7/"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 21:24:14",
-      "https://news.ycombinator.com/item?id=33101401"
-    ],
-    [
-      "What does the ??!??! operator do in C?",
-      "https://stackoverflow.com/questions/7825055/what-does-the-operator-do-in-c"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 17:38:44",
-      "https://news.ycombinator.com/item?id=33098704"
-    ],
-    [
-      "Imagen Video: high definition video generation with diffusion models",
-      "https://imagen.research.google/video/"
     ]
   ],
   [
