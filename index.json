@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-05, 23:44:46",
+      "https://news.ycombinator.com/item?id=33102639"
+    ],
+    [
+      "Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027",
+      "https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 23:37:46",
+      "https://news.ycombinator.com/item?id=33102582"
+    ],
+    [
+      "So you're using a weird language",
+      "https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html"
+    ]
+  ],
+  [
+    [
       "2022-10-05, 22:33:43",
       "https://news.ycombinator.com/item?id=33102059"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2022-10-05, 21:24:44",
+      "https://news.ycombinator.com/item?id=33101407"
+    ],
+    [
+      "Glut of Fake LinkedIn Profiles Pits HR Against the Bots",
+      "https://krebsonsecurity.com/2022/10/glut-of-fake-linkedin-profiles-pits-hr-against-the-bots/"
+    ]
+  ],
+  [
+    [
       "2022-10-05, 21:24:14",
       "https://news.ycombinator.com/item?id=33101401"
     ],
@@ -77,26 +107,6 @@
     [
       "macOS scanning and following downloaded QR codes has been retracted",
       "https://twitter.com/hodgesmr/status/1577739222412312578"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 19:02:14",
-      "https://news.ycombinator.com/item?id=33099872"
-    ],
-    [
-      "Partitioning in Postgres, 2022 Edition",
-      "https://brandur.org/fragments/postgres-partitioning-2022"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 18:49:42",
-      "https://news.ycombinator.com/item?id=33099707"
-    ],
-    [
-      "Head of election worker management company arrested for theft of personal data",
-      "https://da.lacounty.gov/media/news/head-election-worker-management-company-arrested-connection-theft-personal-data"
     ]
   ],
   [
@@ -131,32 +141,12 @@
   ],
   [
     [
-      "2022-10-05, 15:51:03",
-      "https://news.ycombinator.com/item?id=33097117"
-    ],
-    [
-      "The Hugging Face Datasets Server is now open-source",
-      "https://github.com/huggingface/datasets-server"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 15:33:46",
       "https://news.ycombinator.com/item?id=33096899"
     ],
     [
       "Kubernetes Hardening Guidance [pdf]",
       "https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 15:18:07",
-      "https://news.ycombinator.com/item?id=33096667"
-    ],
-    [
-      "Discovering Novel Algorithms with AlphaTensor",
-      "https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor"
     ]
   ],
   [
@@ -231,22 +221,32 @@
   ],
   [
     [
-      "2022-10-02, 10:42:15",
-      "https://news.ycombinator.com/item?id=33054741"
+      "2022-10-05, 10:43:14",
+      "https://news.ycombinator.com/item?id=33093666"
     ],
     [
-      "The Art of Logging",
-      "https://medium.com/@JaouherK/creating-a-human-and-machine-freindly-logging-format-bb6d4bb01dca"
+      "CMSC 430: Design and Implementation of Programming Languages",
+      "https://www.cs.umd.edu/class/fall2022/cmsc430/index.html"
     ]
   ],
   [
     [
-      "2022-10-02, 09:09:17",
-      "https://news.ycombinator.com/item?id=33054287"
+      "2022-10-04, 12:42:08",
+      "https://news.ycombinator.com/item?id=33079455"
     ],
     [
-      "IEEE-754 Analysis",
-      "https://ysangkok.github.io/IEEE-754/index.xhtml"
+      "Using machine learning to predict the leads that close",
+      "https://outfunnel.com/predictive-lead-scoring-lessons/"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 01:42:45",
+      "https://news.ycombinator.com/item?id=33075910"
+    ],
+    [
+      "Recording the Grateful Dead: The Culture of Tapers",
+      "https://www.goodtimes.sc/recording-the-grateful-dead-the-culture-of-tapers/"
     ]
   ],
   [
