@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-10-06, 02:19:11",
+      "https://news.ycombinator.com/item?id=33103567"
+    ],
+    [
+      "DOE requires plans to promote diversity from grant applicants",
+      "https://www.science.org/content/article/department-energy-requires-plans-promote-diversity-grant-applicants"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 02:09:40",
+      "https://news.ycombinator.com/item?id=33103502"
+    ],
+    [
+      "Range anxiety and the realities of electric vehicle dependability",
+      "https://legalinsurrection.com/2022/10/range-anxiety-and-the-realities-of-electric-vehicle-dependability/"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 02:02:57",
+      "https://news.ycombinator.com/item?id=33103464"
+    ],
+    [
+      "RFC: C++ Buffer Hardening",
+      "https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 01:28:22",
+      "https://news.ycombinator.com/item?id=33103267"
+    ],
+    [
+      "What Makes the Zig Programming Language Unique?",
+      "https://erikexplores.substack.com/p/what-makes-the-zig-programming-language"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 01:07:45",
+      "https://news.ycombinator.com/item?id=33103157"
+    ],
+    [
+      "Splunk IP suit against Cribl",
+      "https://www.splunk.com/en_us/blog/bulletins/splunk-files-intellectual-property-complaint-against-cribl.html"
+    ]
+  ],
+  [
+    [
       "2022-10-05, 23:44:46",
       "https://news.ycombinator.com/item?id=33102639"
     ],
@@ -31,21 +81,11 @@
   ],
   [
     [
-      "2022-10-05, 22:14:39",
-      "https://news.ycombinator.com/item?id=33101896"
-    ],
-    [
-      "DoorDash Outage",
-      "https://www.doordash.com"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 22:12:00",
       "https://news.ycombinator.com/item?id=33101867"
     ],
     [
-      "Jq Internals: Backtracking",
+      "Jq Internals: Backtracking (2017)",
       "https://github.com/stedolan/jq/wiki/Internals:-backtracking"
     ]
   ],
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2022-10-05, 19:22:35",
-      "https://news.ycombinator.com/item?id=33100130"
-    ],
-    [
-      "macOS scanning and following downloaded QR codes has been retracted",
-      "https://twitter.com/hodgesmr/status/1577739222412312578"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 17:38:44",
       "https://news.ycombinator.com/item?id=33098704"
     ],
@@ -127,6 +157,16 @@
     [
       "Apple asks suppliers to shift AirPods, Beats production to India",
       "https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-asks-suppliers-to-shift-AirPods-Beats-production-to-India"
+    ]
+  ],
+  [
+    [
+      "2022-10-05, 16:32:43",
+      "https://news.ycombinator.com/item?id=33097663"
+    ],
+    [
+      "Many scientists see fusion as the future of energy – and they're betting big",
+      "https://www.nationalgeographic.co.uk/science-and-technology/2022/10/many-scientists-see-fusion-as-the-future-of-energy-and-theyre-betting-big"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2022-10-05, 15:02:30",
-      "https://news.ycombinator.com/item?id=33096449"
-    ],
-    [
-      "Nerfstudio: A collaboration friendly studio for NeRFs",
-      "https://docs.nerf.studio/en/latest/index.html"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 14:57:47",
       "https://news.ycombinator.com/item?id=33096395"
     ],
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2022-10-05, 12:42:45",
-      "https://news.ycombinator.com/item?id=33094720"
-    ],
-    [
-      "Show HN: Kafka 0.8.0 on Cloudflare Workers",
-      "https://github.com/maxwellpeterson/kafka-worker"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 12:41:26",
       "https://news.ycombinator.com/item?id=33094710"
     ],
     [
       "Cpm65: CP/M for the 6502",
       "https://github.com/davidgiven/cpm65"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 12:33:47",
-      "https://news.ycombinator.com/item?id=33094627"
-    ],
-    [
-      "Show HN: Sharing, command-line tool to share files with your phone",
-      "https://github.com/parvardegr/sharing"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 10:43:14",
-      "https://news.ycombinator.com/item?id=33093666"
-    ],
-    [
-      "CMSC 430: Design and Implementation of Programming Languages",
-      "https://www.cs.umd.edu/class/fall2022/cmsc430/index.html"
     ]
   ],
   [
@@ -241,32 +241,22 @@
   ],
   [
     [
+      "2022-10-04, 09:11:13",
+      "https://news.ycombinator.com/item?id=33078012"
+    ],
+    [
+      "What Are the Odds?",
+      "https://terrytao.wordpress.com/2022/10/03/what-are-the-odds/"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 01:42:45",
       "https://news.ycombinator.com/item?id=33075910"
     ],
     [
       "Recording the Grateful Dead: The Culture of Tapers",
       "https://www.goodtimes.sc/recording-the-grateful-dead-the-culture-of-tapers/"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 06:35:43",
-      "https://news.ycombinator.com/item?id=33053485"
-    ],
-    [
-      "DIY Digital Room Correction with Linux",
-      "https://th0ma5w.github.io/DIY-Room-Correction/"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 06:22:51",
-      "https://news.ycombinator.com/item?id=33053407"
-    ],
-    [
-      "How to choose a radon fan (2018)",
-      "https://americanradonmitigation.com/choosing-radon-fan/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The lighthouse in economics (1974) [pdf]",
       "https://courses.cit.cornell.edu/econ335/out/lighthouse.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-01, 05:32:39",
+      "https://news.ycombinator.com/item?id=33044167"
+    ],
+    [
+      "The banker who caused the 1929 stock crash",
+      "https://thehustle.co/the-banker-who-caused-the-1929-stock-crash/"
     ]
   ]
 ]
