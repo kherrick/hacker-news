@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-06, 21:06:11",
+      "https://news.ycombinator.com/item?id=33114107"
+    ],
+    [
+      "How to Download All of Wikipedia onto a USB Flash Drive",
+      "https://planetofthepaul.com/wikipedia-download-usb-flash/"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 21:03:28",
+      "https://news.ycombinator.com/item?id=33114074"
+    ],
+    [
+      "Decision Trees in Python: Predicting Diabetes – Statistically Relevant",
+      "https://statisticallyrelevant.com/decision-trees-in-python-predicting-diabetes/"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 21:00:30",
+      "https://news.ycombinator.com/item?id=33114040"
+    ],
+    [
+      "Hightouch (YC S19) Is Hiring an Engineering Manager",
+      "https://news.ycombinator.com/item?id=33114040"
+    ]
+  ],
+  [
+    [
       "2022-10-06, 20:22:54",
       "https://news.ycombinator.com/item?id=33113569"
     ],
@@ -11,11 +41,21 @@
   ],
   [
     [
+      "2022-10-06, 20:02:45",
+      "https://news.ycombinator.com/item?id=33113309"
+    ],
+    [
+      "The non-linear workdays changing the shape of productivity",
+      "https://www.bbc.com/worklife/article/20220928-the-non-linear-workdays-changing-the-shape-of-productivity"
+    ]
+  ],
+  [
+    [
       "2022-10-06, 19:34:06",
       "https://news.ycombinator.com/item?id=33112915"
     ],
     [
-      "Staff Engineer Archetypes",
+      "Staff Engineer Archetypes (2020)",
       "https://lethain.com/staff-engineer-archetypes/"
     ]
   ],
@@ -41,32 +81,12 @@
   ],
   [
     [
-      "2022-10-06, 17:00:24",
-      "https://news.ycombinator.com/item?id=33110872"
-    ],
-    [
-      "Release (YC W20) Is Hiring Senior Software Engineer – Cloud Infrastructure",
-      "https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure"
-    ]
-  ],
-  [
-    [
       "2022-10-06, 16:35:47",
       "https://news.ycombinator.com/item?id=33110478"
     ],
     [
       "Interactive Submarine Cable Map",
       "https://www.submarinecablemap.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 16:31:46",
-      "https://news.ycombinator.com/item?id=33110413"
-    ],
-    [
-      "TikTok Parent ByteDance Sees Losses Swell in Push for Growth",
-      "https://www.wsj.com/articles/tiktok-parent-bytedance-sees-losses-swell-in-push-for-growth-11665071238"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "A Ruby program that generates itself through a 128-language quine loop",
       "https://github.com/mame/quine-relay/blob/master/QR.rb"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 03:02:49",
-      "https://news.ycombinator.com/item?id=33090603"
-    ],
-    [
-      "Algorithmic Curation Impacts Media Exposure in Twitter Timelines",
-      "https://par.nsf.gov/servlets/purl/10301842"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 16:29:53",
-      "https://news.ycombinator.com/item?id=33082759"
-    ],
-    [
-      "Recursive Functions of Symbolic Expressions Computation by Machine (1960)",
-      "http://www-formal.stanford.edu/jmc/recursive/recursive.html"
     ]
   ],
   [
