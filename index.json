@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2022-10-06, 01:28:22",
-      "https://news.ycombinator.com/item?id=33103267"
-    ],
-    [
-      "What Makes the Zig Programming Language Unique?",
-      "https://erikexplores.substack.com/p/what-makes-the-zig-programming-language"
-    ]
-  ],
-  [
-    [
       "2022-10-06, 01:07:45",
       "https://news.ycombinator.com/item?id=33103157"
     ],
@@ -217,6 +207,16 @@
     [
       "Using machine learning to predict the leads that close",
       "https://outfunnel.com/predictive-lead-scoring-lessons/"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 11:44:44",
+      "https://news.ycombinator.com/item?id=33079029"
+    ],
+    [
+      "Native port of Digital Research's seminal 1977 operating system CP/M to the 6502",
+      "https://github.com/davidgiven/cpm65"
     ]
   ],
   [
