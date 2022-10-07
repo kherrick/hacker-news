@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2022-10-07, 05:14:03",
+      "https://news.ycombinator.com/item?id=33117681"
+    ],
+    [
+      "Stateless – Your new state of find with Elasticsearch",
+      "https://www.elastic.co/blog/stateless-your-new-state-of-find-with-elasticsearch"
+    ]
+  ],
+  [
+    [
       "2022-10-07, 05:08:55",
       "https://news.ycombinator.com/item?id=33117656"
     ],
     [
       "Evrard D'Espinque’s Illuminations of De Proprietatibus Rerum (Ca. 1480)",
       "https://publicdomainreview.org/collection/despinque-anglicus-illuminations/"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 05:06:47",
+      "https://news.ycombinator.com/item?id=33117650"
+    ],
+    [
+      "Apache Pegasus – A a distributed key-value storage system",
+      "https://github.com/apache/incubator-pegasus"
     ]
   ],
   [
@@ -201,42 +221,22 @@
   ],
   [
     [
-      "2022-10-06, 15:28:42",
-      "https://news.ycombinator.com/item?id=33109513"
-    ],
-    [
-      "Zerocal – A Serverless Calendar App in Rust",
-      "https://endler.dev/2022/zerocal/"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 15:12:33",
-      "https://news.ycombinator.com/item?id=33109243"
-    ],
-    [
-      "A working implementation of text-to-3D DreamFusion, powered by Stable Diffusion",
-      "https://github.com/ashawkey/stable-dreamfusion"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 15:00:02",
-      "https://news.ycombinator.com/item?id=33109070"
-    ],
-    [
-      "Celsius Execs Cashed Out $40M in Crypto Before Halting Withdrawals for Customers",
-      "https://gizmodo.com/celsius-execs-cashed-out-bitcoin-price-crypto-ponzi-1849623526"
-    ]
-  ],
-  [
-    [
       "2022-10-06, 13:43:45",
       "https://news.ycombinator.com/item?id=33108050"
     ],
     [
       "SimulaVR Has Been Subpoenaed by Meta Platforms, Inc",
       "https://simulavr.com/blog/subpoenaed-by-meta/"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 11:55:10",
+      "https://news.ycombinator.com/item?id=33107065"
+    ],
+    [
+      "Arca Noae brings OS/2 into the 21st Century",
+      "https://www.arcanoae.com/"
     ]
   ],
   [
