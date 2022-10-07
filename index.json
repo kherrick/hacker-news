@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-07, 14:49:04",
+      "https://news.ycombinator.com/item?id=33122122"
+    ],
+    [
+      "Mortal Kombat+",
+      "https://mortalkombat.plus"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 14:37:55",
+      "https://news.ycombinator.com/item?id=33121976"
+    ],
+    [
+      "RacketCon 2022",
+      "https://con.racket-lang.org"
+    ]
+  ],
+  [
+    [
       "2022-10-07, 14:14:33",
       "https://news.ycombinator.com/item?id=33121628"
     ],
     [
       "Using Notion as a headless CMS for our blog",
       "https://datanarratives.com/blog/notion-headless-cms/"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 13:27:36",
+      "https://news.ycombinator.com/item?id=33120969"
+    ],
+    [
+      "Signal is secure, as proven by hackers",
+      "https://www.kaspersky.co.uk/blog/signal-hacked-but-still-secure/24864/"
     ]
   ],
   [
@@ -197,36 +227,6 @@
     [
       "WebVM: WASM virtual machine in browser with networking via Tailscale",
       "https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 23:53:11",
-      "https://news.ycombinator.com/item?id=33115719"
-    ],
-    [
-      "Show HN: Lambda-8cc – An x86 C compiler written in untyped lambda calculus",
-      "https://github.com/woodrush/lambda-8cc"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 23:44:17",
-      "https://news.ycombinator.com/item?id=33115647"
-    ],
-    [
-      "Recreating macOS’s Drift Screensaver with Rust and WASM",
-      "https://github.com/sandydoo/flux"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 11:55:10",
-      "https://news.ycombinator.com/item?id=33107065"
-    ],
-    [
-      "Arca Noae brings OS/2 into the 21st Century",
-      "https://www.arcanoae.com/"
     ]
   ],
   [
