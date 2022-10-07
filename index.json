@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-10-07, 12:08:10",
+      "https://news.ycombinator.com/item?id=33120136"
+    ],
+    [
+      "Mastodon.technology Shutdown",
+      "https://ashfurrow.com/blog/mastodon-technology-shutdown/"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 12:01:06",
+      "https://news.ycombinator.com/item?id=33120075"
+    ],
+    [
+      "Fractional (YC W21) Is Hiring Product Engineers",
+      "https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 11:44:31",
+      "https://news.ycombinator.com/item?id=33119961"
+    ],
+    [
+      "U.S. residents fight for the right to hang laundry (2009)",
+      "https://www.reuters.com/article/us-usa-laundry-idUSTRE5AH3JQ20091118"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 11:30:50",
+      "https://news.ycombinator.com/item?id=33119858"
+    ],
+    [
+      "RIAA Thwarts Yout’s Attempt to Declare YouTube-Ripping Legal",
+      "https://torrentfreak.com/riaa-thwarts-youts-attempt-to-declare-youtube-ripping-legal-221002/"
+    ]
+  ],
+  [
+    [
       "2022-10-07, 10:46:01",
       "https://news.ycombinator.com/item?id=33119552"
     ],
     [
       "Self-Referential Tweet",
       "https://twitter.com/slweeb/status/1578155161347710976"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 10:10:04",
+      "https://news.ycombinator.com/item?id=33119347"
+    ],
+    [
+      "Ask HN: 10k hours rule to master anything. Could I switch career when I am 43?",
+      "https://news.ycombinator.com/item?id=33119347"
     ]
   ],
   [
@@ -41,21 +91,11 @@
   ],
   [
     [
-      "2022-10-07, 07:00:35",
-      "https://news.ycombinator.com/item?id=33118243"
-    ],
-    [
-      "PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris",
-      "https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33"
-    ]
-  ],
-  [
-    [
       "2022-10-07, 05:39:48",
       "https://news.ycombinator.com/item?id=33117813"
     ],
     [
-      "Longevity of Recordable CDs, DVDs and Blu-Rays",
+      "Longevity of Recordable CDs, DVDs and Blu-Rays (2020)",
       "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html"
     ]
   ],
@@ -91,31 +131,11 @@
   ],
   [
     [
-      "2022-10-07, 03:42:36",
-      "https://news.ycombinator.com/item?id=33117180"
-    ],
-    [
-      "Startup Builds Houses by Pumping Concrete into Inflatable Forms",
-      "https://singularityhub.com/2022/10/06/this-startup-builds-houses-by-pumping-concrete-into-inflatable-forms/"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 02:29:06",
-      "https://news.ycombinator.com/item?id=33116762"
-    ],
-    [
-      "Study links omega-3s to improved brain structure, cognition at midlife",
-      "https://news.uthscsa.edu/study-links-omega-3s-to-improved-brain-structure-cognition-at-midlife/"
-    ]
-  ],
-  [
-    [
       "2022-10-07, 01:19:23",
       "https://news.ycombinator.com/item?id=33116310"
     ],
     [
-      "Why doesn't Bash's `set -e` do what I expected?",
+      "Why doesn't Bash’s ‘set -e’ do what I expected? (2021)",
       "http://mywiki.wooledge.org/BashFAQ/105"
     ]
   ],
@@ -161,42 +181,12 @@
   ],
   [
     [
-      "2022-10-06, 21:24:53",
-      "https://news.ycombinator.com/item?id=33114284"
-    ],
-    [
-      "BYU profs create new nuclear reactor to produce nuclear energy more safely",
-      "https://news.byu.edu/byu-profs-create-safer-system-to-produce-nuclear-energy"
-    ]
-  ],
-  [
-    [
       "2022-10-06, 21:06:11",
       "https://news.ycombinator.com/item?id=33114107"
     ],
     [
       "How to download all of Wikipedia onto a USB flash drive",
       "https://planetofthepaul.com/wikipedia-download-usb-flash/"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 21:03:28",
-      "https://news.ycombinator.com/item?id=33114074"
-    ],
-    [
-      "Decision Trees in Python: Predicting Diabetes",
-      "https://statisticallyrelevant.com/decision-trees-in-python-predicting-diabetes/"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 19:34:06",
-      "https://news.ycombinator.com/item?id=33112915"
-    ],
-    [
-      "Staff Engineer Archetypes (2020)",
-      "https://lethain.com/staff-engineer-archetypes/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Nocodb: Turns Any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs",
       "https://github.com/nocodb/nocodb"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 10:54:26",
+      "https://news.ycombinator.com/item?id=33078648"
+    ],
+    [
+      "How We Remember Last Weekend",
+      "https://nautil.us/how-we-remember-last-weekend-240328/"
     ]
   ]
 ]
