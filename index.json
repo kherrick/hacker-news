@@ -1,6 +1,76 @@
 [
   [
     [
+      "2022-10-07, 17:03:47",
+      "https://news.ycombinator.com/item?id=33124034"
+    ],
+    [
+      "MIMD Interpretation on a GPU [pdf]",
+      "http://aggregate.ee.engr.uky.edu/EXHIBITS/SC09/mogsimlcpc09final.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 17:00:23",
+      "https://news.ycombinator.com/item?id=33123988"
+    ],
+    [
+      "UPchieve (YC W21) is hiring a tech lead and senior engineers",
+      "https://upchieve.welcomekit.co/"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 16:57:15",
+      "https://news.ycombinator.com/item?id=33123948"
+    ],
+    [
+      "JetBrains Ring UI",
+      "https://jetbrains.github.io/ring-ui/master/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 16:44:37",
+      "https://news.ycombinator.com/item?id=33123756"
+    ],
+    [
+      "Ask HN: Have you noticed an increase in the number of Stripe Disputes lately?",
+      "https://news.ycombinator.com/item?id=33123756"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 16:43:12",
+      "https://news.ycombinator.com/item?id=33123736"
+    ],
+    [
+      "Why Mastering Language Is So Difficult for AI",
+      "https://undark.org/2022/10/07/interview-why-mastering-language-is-so-difficult-for-ai/"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 16:29:04",
+      "https://news.ycombinator.com/item?id=33123514"
+    ],
+    [
+      "The AI Scaling Hypothesis",
+      "https://lastweekin.ai/p/the-ai-scaling-hypothesis"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 15:34:28",
+      "https://news.ycombinator.com/item?id=33122729"
+    ],
+    [
+      "!!Con 2022",
+      "https://bangbangcon.com/"
+    ]
+  ],
+  [
+    [
       "2022-10-07, 15:33:00",
       "https://news.ycombinator.com/item?id=33122705"
     ],
@@ -41,16 +111,6 @@
   ],
   [
     [
-      "2022-10-07, 14:37:55",
-      "https://news.ycombinator.com/item?id=33121976"
-    ],
-    [
-      "RacketCon 2022",
-      "https://con.racket-lang.org"
-    ]
-  ],
-  [
-    [
       "2022-10-07, 14:14:33",
       "https://news.ycombinator.com/item?id=33121628"
     ],
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2022-10-07, 13:24:52",
-      "https://news.ycombinator.com/item?id=33120929"
-    ],
-    [
-      "The Pursuit of Beauty (2015)",
-      "https://www.newyorker.com/magazine/2015/02/02/pursuit-beauty"
-    ]
-  ],
-  [
-    [
       "2022-10-07, 12:51:09",
       "https://news.ycombinator.com/item?id=33120534"
     ],
@@ -97,26 +147,6 @@
     [
       "Mastodon.technology Shutdown",
       "https://ashfurrow.com/blog/mastodon-technology-shutdown/"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 12:01:06",
-      "https://news.ycombinator.com/item?id=33120075"
-    ],
-    [
-      "Fractional (YC W21) Is Hiring Product Engineers",
-      "https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 11:51:24",
-      "https://news.ycombinator.com/item?id=33120000"
-    ],
-    [
-      "$570M worth of Binance’s BNB token stolen",
-      "https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-10-07, 05:14:03",
-      "https://news.ycombinator.com/item?id=33117681"
-    ],
-    [
-      "Stateless – Evolving the architecture of Elasticsearch to simplify deployment",
-      "https://www.elastic.co/blog/stateless-your-new-state-of-find-with-elasticsearch"
-    ]
-  ],
-  [
-    [
       "2022-10-07, 05:06:47",
       "https://news.ycombinator.com/item?id=33117650"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2022-10-05, 13:05:10",
-      "https://news.ycombinator.com/item?id=33095031"
-    ],
-    [
-      "The CD Turns 40: How the ‘Shiny, Tiny’ Discs Took Over",
-      "https://www.billboard.com/pro/cd-history-music-business-format-40-years/"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 12:18:48",
       "https://news.ycombinator.com/item?id=33094449"
     ],
@@ -287,16 +297,6 @@
     [
       "Nocodb: Turns Any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs",
       "https://github.com/nocodb/nocodb"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 10:54:26",
-      "https://news.ycombinator.com/item?id=33078648"
-    ],
-    [
-      "How We Remember Last Weekend",
-      "https://nautil.us/how-we-remember-last-weekend-240328/"
     ]
   ]
 ]
