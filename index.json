@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2022-10-07, 08:06:57",
-      "https://news.ycombinator.com/item?id=33118584"
-    ],
-    [
-      "Ask HN: What's Your Biggest Regret?",
-      "https://news.ycombinator.com/item?id=33118584"
-    ]
-  ],
-  [
-    [
       "2022-10-07, 07:46:47",
       "https://news.ycombinator.com/item?id=33118471"
     ],
     [
-      "Transmission 4.0.0 beta 1 is out",
+      "Transmission 4.0.0 beta 1",
       "https://github.com/transmission/transmission/releases/tag/4.0.0-beta.1"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33117650"
     ],
     [
-      "Apache Pegasus – A a distributed key-value storage system",
+      "Apache Pegasus - A horizontally scalable, high-performance key-value store",
       "https://github.com/apache/incubator-pegasus"
     ]
   ],
@@ -97,16 +87,6 @@
     [
       "Startup Builds Houses by Pumping Concrete into Inflatable Forms",
       "https://singularityhub.com/2022/10/06/this-startup-builds-houses-by-pumping-concrete-into-inflatable-forms/"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 02:58:00",
-      "https://news.ycombinator.com/item?id=33116940"
-    ],
-    [
-      "Celsius exposes the names of all customers",
-      "https://web3isgoinggreat.com/single/celsius-exposes-the-names-of-all-customers-and-their-recent-transactions-in-court-filing--including-their-execs"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2022-10-06, 15:38:16",
+      "https://news.ycombinator.com/item?id=33109633"
+    ],
+    [
+      "A Universal Cancer Treatment?",
+      "https://nautil.us/a-universal-cancer-treatment-241231/"
+    ]
+  ],
+  [
+    [
       "2022-10-06, 13:43:45",
       "https://news.ycombinator.com/item?id=33108050"
     ],
@@ -297,6 +287,16 @@
     [
       "Samsung Kicks Advanced-Chipmaking Race into High Gear with Road Map",
       "https://www.wsj.com/articles/samsung-kicks-advanced-chipmaking-race-into-high-gear-with-road-map-11664838001"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 11:16:18",
+      "https://news.ycombinator.com/item?id=33078798"
+    ],
+    [
+      "Nocodb: Turns Any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs",
+      "https://github.com/nocodb/nocodb"
     ]
   ]
 ]
