@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-10-07, 18:54:38",
+      "https://news.ycombinator.com/item?id=33125442"
+    ],
+    [
+      "Big U.S. Banks Are Stiffing Account Takeover Victims",
+      "https://krebsonsecurity.com/2022/10/report-big-u-s-banks-are-stiffing-account-takeover-victims/"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 18:48:29",
+      "https://news.ycombinator.com/item?id=33125383"
+    ],
+    [
+      "Overzealous Destructuring",
+      "https://www.aleksandrhovhannisyan.com/blog/overzealous-destructuring/"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 18:31:49",
+      "https://news.ycombinator.com/item?id=33125176"
+    ],
+    [
+      "Gcloud storage: up to 94% faster data transfers for Cloud Storage",
+      "https://cloud.google.com/blog/products/storage-data-transfer/new-gcloud-storage-cli-for-your-data-transfers"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 18:30:56",
+      "https://news.ycombinator.com/item?id=33125164"
+    ],
+    [
+      "Nuclear Close Calls: Able Archer 83 (2018)",
+      "https://www.atomicheritage.org/history/nuclear-close-calls-able-archer-83"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 18:14:00",
+      "https://news.ycombinator.com/item?id=33124986"
+    ],
+    [
+      "My Favourite Computer, an Old Mac",
+      "http://muezza.ca/thoughts/favourite_computer/"
+    ]
+  ],
+  [
+    [
       "2022-10-07, 18:08:06",
       "https://news.ycombinator.com/item?id=33124917"
     ],
@@ -71,12 +121,12 @@
   ],
   [
     [
-      "2022-10-07, 16:55:12",
-      "https://news.ycombinator.com/item?id=33123916"
+      "2022-10-07, 16:48:06",
+      "https://news.ycombinator.com/item?id=33123807"
     ],
     [
-      "Recursion got into programming: intrigue, betrayal, and advanced semantics",
-      "https://vanemden.wordpress.com/2014/06/18/how-recursion-got-into-programming-a-comedy-of-errors-3/"
+      "How to distort Scrum until it no longer works",
+      "https://lucasfcosta.com/2022/10/04/distorting-scrum.html"
     ]
   ],
   [
@@ -117,16 +167,6 @@
     [
       "The AI Scaling Hypothesis",
       "https://lastweekin.ai/p/the-ai-scaling-hypothesis"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 15:34:28",
-      "https://news.ycombinator.com/item?id=33122729"
-    ],
-    [
-      "!!Con 2022",
-      "https://bangbangcon.com/"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2022-10-07, 11:23:18",
-      "https://news.ycombinator.com/item?id=33119801"
-    ],
-    [
-      "Reality is just a game now",
-      "https://www.thenewatlantis.com/publications/reality-is-just-a-game-now"
-    ]
-  ],
-  [
-    [
       "2022-10-07, 10:34:26",
       "https://news.ycombinator.com/item?id=33119486"
     ],
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2022-10-07, 03:45:20",
-      "https://news.ycombinator.com/item?id=33117192"
-    ],
-    [
-      "On AlphaTensor’s new matrix multiplication algorithms",
-      "https://fgiesen.wordpress.com/2022/10/06/on-alphatensors-new-matrix-multiplication-algorithms/"
-    ]
-  ],
-  [
-    [
       "2022-10-06, 21:35:40",
       "https://news.ycombinator.com/item?id=33114403"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-10-06, 05:39:31",
-      "https://news.ycombinator.com/item?id=33104750"
-    ],
-    [
-      "Reusing the Sony CRT Module of an HP 16500A Logic Analyzer",
-      "https://tomverbeure.github.io/2022/10/05/Sony-CHM-9001-00-CRT.html"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 05:39:02",
       "https://news.ycombinator.com/item?id=33091698"
     ],
     [
       "Hacking Reolink cameras for fun and profit (2020)",
       "https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 11:16:18",
-      "https://news.ycombinator.com/item?id=33078798"
-    ],
-    [
-      "Nocodb: Turns Any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs",
-      "https://github.com/nocodb/nocodb"
     ]
   ]
 ]
