@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-07, 02:58:00",
+      "https://news.ycombinator.com/item?id=33116940"
+    ],
+    [
+      "Celsius exposes the names of all customers",
+      "https://web3isgoinggreat.com/single/celsius-exposes-the-names-of-all-customers-and-their-recent-transactions-in-court-filing--including-their-execs"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 02:29:06",
+      "https://news.ycombinator.com/item?id=33116762"
+    ],
+    [
+      "Study links omega-3s to improved brain structure, cognition at midlife",
+      "https://news.uthscsa.edu/study-links-omega-3s-to-improved-brain-structure-cognition-at-midlife/"
+    ]
+  ],
+  [
+    [
       "2022-10-07, 01:19:23",
       "https://news.ycombinator.com/item?id=33116310"
     ],
     [
       "Why doesn't Bash's `set -e` do what I expected?",
       "http://mywiki.wooledge.org/BashFAQ/105"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 01:10:45",
+      "https://news.ycombinator.com/item?id=33116245"
+    ],
+    [
+      "WebVM: WASM virtual machine in browser with networking via Tailscale",
+      "https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/"
     ]
   ],
   [
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2022-10-06, 20:02:45",
-      "https://news.ycombinator.com/item?id=33113309"
-    ],
-    [
-      "The non-linear workdays changing the shape of productivity",
-      "https://www.bbc.com/worklife/article/20220928-the-non-linear-workdays-changing-the-shape-of-productivity"
-    ]
-  ],
-  [
-    [
       "2022-10-06, 19:34:06",
       "https://news.ycombinator.com/item?id=33112915"
     ],
     [
       "Staff Engineer Archetypes (2020)",
       "https://lethain.com/staff-engineer-archetypes/"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 17:41:04",
-      "https://news.ycombinator.com/item?id=33111389"
-    ],
-    [
-      "React Modern Audio Player",
-      "https://www.npmjs.com/package/react-modern-audio-player"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2022-10-06, 11:15:09",
-      "https://news.ycombinator.com/item?id=33106822"
+      "2022-10-06, 04:57:37",
+      "https://news.ycombinator.com/item?id=33104541"
     ],
     [
-      "Pimp My BBC Micro",
-      "https://github.com/dekuNukem/RGBeeb/blob/master/README.md"
+      "Classic SE Mistakes (2021)",
+      "https://www.cs.nmsu.edu/~jcook/posts/classic-se-mistakes-mcconnell/"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2022-10-04, 14:19:24",
+      "https://news.ycombinator.com/item?id=33080759"
+    ],
+    [
+      "Samsung Kicks Advanced-Chipmaking Race into High Gear with Road Map",
+      "https://www.wsj.com/articles/samsung-kicks-advanced-chipmaking-race-into-high-gear-with-road-map-11664838001"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 10:38:29",
       "https://news.ycombinator.com/item?id=33078543"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-10-04, 08:50:09",
-      "https://news.ycombinator.com/item?id=33077898"
-    ],
-    [
-      "Checking statistical properties of protocols using TLA+",
-      "http://muratbuffalo.blogspot.com/2022/10/checking-statistical-properties-of.html"
-    ]
-  ],
-  [
-    [
       "2022-10-04, 08:50:02",
       "https://news.ycombinator.com/item?id=33077896"
     ],
     [
       "Leonardo Syndrome",
       "https://thoughtfulatlas.bearblog.dev/leonardo-syndrome/"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 00:20:03",
-      "https://news.ycombinator.com/item?id=33075332"
-    ],
-    [
-      "Unraveling One of Rock’s Deepest Mysteries: Les Rallizes Dénudés",
-      "https://www.nytimes.com/2022/10/03/arts/music/les-rallizes-denudes.html"
     ]
   ],
   [
