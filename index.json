@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-10-06, 22:21:21",
-      "https://news.ycombinator.com/item?id=33114880"
+      "2022-10-07, 01:19:23",
+      "https://news.ycombinator.com/item?id=33116310"
     ],
     [
-      "After cutting radar, Tesla now dropping ultrasonic sensors from its EVs",
-      "https://arstechnica.com/cars/2022/10/after-cutting-radar-tesla-now-dropping-ultrasonic-sensors-from-its-evs/"
+      "Why doesn't Bash's `set -e` do what I expected?",
+      "http://mywiki.wooledge.org/BashFAQ/105"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 01:09:14",
+      "https://news.ycombinator.com/item?id=33116230"
+    ],
+    [
+      "Ask HN: What content/knowledge is most important?",
+      "https://news.ycombinator.com/item?id=33116230"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 23:53:11",
+      "https://news.ycombinator.com/item?id=33115719"
+    ],
+    [
+      "Show HN: Lambda-8cc – An x86 C compiler written in untyped lambda calculus",
+      "https://github.com/woodrush/lambda-8cc"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 23:44:17",
+      "https://news.ycombinator.com/item?id=33115647"
+    ],
+    [
+      "Recreating macOS’s Drift Screensaver with Rust and WASM",
+      "https://github.com/sandydoo/flux"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Dormant spores decide to wake-up by counting in their sleep using electricity",
       "https://www.science.org/doi/10.1126/science.abl7484"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 21:54:34",
-      "https://news.ycombinator.com/item?id=33114591"
-    ],
-    [
-      "AMD Announces Preliminary Third Quarter 2022 Financial Results",
-      "https://finance.yahoo.com/news/amd-announces-preliminary-third-quarter-201700374.html"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-10-06, 16:10:29",
-      "https://news.ycombinator.com/item?id=33110097"
-    ],
-    [
-      "GE is laying off 20% of its workforce devoted to onshore wind power",
-      "https://www.cnbc.com/2022/10/06/ge-layoff-20percent-of-onshore-wind-workforce-hundreds-of-jobs.html"
-    ]
-  ],
-  [
-    [
       "2022-10-06, 15:38:16",
       "https://news.ycombinator.com/item?id=33109633"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2022-10-04, 11:12:22",
-      "https://news.ycombinator.com/item?id=33078768"
+      "2022-10-05, 12:08:36",
+      "https://news.ycombinator.com/item?id=33094342"
     ],
     [
-      "Paris Métro paper ticket reaches end of the line after more than 120 years",
-      "https://www.theguardian.com/world/2022/oct/04/paris-metro-paper-ticket-paper-journey-transport"
+      "Evolution of the Casio G-Shock Origin (2021)",
+      "https://www.fratellowatches.com/evolution-of-the-casio-g-shock-watches/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "What color is your markup?",
       "https://t-ravis.com/post/doc/what_color_is_your_markup/"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 08:58:52",
-      "https://news.ycombinator.com/item?id=33077944"
-    ],
-    [
-      "A 'nano factory' that fits inside a shipping container (2021)",
-      "https://www.cnn.com/2021/06/23/europe/nano-factory-shipping-container-spc-intl/index.html"
     ]
   ],
   [
