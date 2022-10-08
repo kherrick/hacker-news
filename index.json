@@ -11,12 +11,42 @@
   ],
   [
     [
+      "2022-10-08, 17:18:08",
+      "https://news.ycombinator.com/item?id=33134113"
+    ],
+    [
+      "Leap: Neovim’s Answer to the Mouse",
+      "https://github.com/ggandor/leap.nvim"
+    ]
+  ],
+  [
+    [
+      "2022-10-08, 17:06:46",
+      "https://news.ycombinator.com/item?id=33134021"
+    ],
+    [
+      "Ask HN: Getting tired of complexity in web development",
+      "https://news.ycombinator.com/item?id=33134021"
+    ]
+  ],
+  [
+    [
       "2022-10-08, 17:00:12",
       "https://news.ycombinator.com/item?id=33133952"
     ],
     [
       "Craniometrix (YC W22) Is Hiring",
       "https://www.ycombinator.com/companies/craniometrix/jobs/rBiXA3r-founding-full-stack-eng"
+    ]
+  ],
+  [
+    [
+      "2022-10-08, 16:44:27",
+      "https://news.ycombinator.com/item?id=33133809"
+    ],
+    [
+      "Show HN: I made an open source Chrome extension to notify you of new HN replies",
+      "https://github.com/Engagespot/hn-notifier"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2022-10-08, 12:28:54",
-      "https://news.ycombinator.com/item?id=33131737"
-    ],
-    [
-      "My channel is now demonetized because I cover the war [video]",
-      "https://www.youtube.com/watch?v=kt6RAZeBKAc"
-    ]
-  ],
-  [
-    [
       "2022-10-08, 12:25:59",
       "https://news.ycombinator.com/item?id=33131720"
     ],
@@ -187,16 +207,6 @@
     [
       "The Alternative Genesis Block of Bitcoin",
       "https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 07:37:00",
-      "https://news.ycombinator.com/item?id=33130533"
-    ],
-    [
-      "Ask HN: Best book to learn C in 2022?",
-      "https://news.ycombinator.com/item?id=33130533"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "WebAssembly Is Not A Stack Machine",
       "http://troubles.md/wasm-is-not-a-stack-machine/"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 09:19:17",
-      "https://news.ycombinator.com/item?id=33065142"
-    ],
-    [
-      "On “correct and efficient work-stealing for weak memory models”",
-      "https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models"
     ]
   ]
 ]
