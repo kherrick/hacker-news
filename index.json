@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-10-08, 18:36:20",
+      "https://news.ycombinator.com/item?id=33134762"
+    ],
+    [
+      "Fastmail Down?",
+      "https://fastmail.fm/"
+    ]
+  ],
+  [
+    [
       "2022-10-08, 17:27:39",
       "https://news.ycombinator.com/item?id=33134209"
     ],
     [
       "Barge traffic halted on Mississippi River by lowest water levels in a decade",
       "https://lite.cnn.com/en/article/h_93bc2d6fc053e08af790efe1859b0935"
+    ]
+  ],
+  [
+    [
+      "2022-10-08, 17:20:48",
+      "https://news.ycombinator.com/item?id=33134142"
+    ],
+    [
+      "The Bulletproof Glass Effect: Unintended Consequences of Privacy Notices",
+      "https://journals.sagepub.com/doi/abs/10.1177/00222437211069093"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-10-08, 11:44:39",
-      "https://news.ycombinator.com/item?id=33131519"
-    ],
-    [
-      "Ask HN: How to deal with markets down turn? Feeling down",
-      "https://news.ycombinator.com/item?id=33131519"
-    ]
-  ],
-  [
-    [
       "2022-10-08, 11:35:28",
       "https://news.ycombinator.com/item?id=33131480"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-10-08, 07:37:00",
-      "https://news.ycombinator.com/item?id=33130533"
-    ],
-    [
-      "Ask HN: Best book to learn C in 2022?",
-      "https://news.ycombinator.com/item?id=33130533"
-    ]
-  ],
-  [
-    [
       "2022-10-08, 00:07:20",
       "https://news.ycombinator.com/item?id=33128495"
     ],
@@ -227,6 +227,16 @@
     [
       "Penetration testing wireless keyboards",
       "http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1701492&dswid=-5022"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 16:13:55",
+      "https://news.ycombinator.com/item?id=33123295"
+    ],
+    [
+      "Teaching Paradox, Crusader Kings III, Part III: Constructivisting a Kingdom",
+      "https://acoup.blog/2022/10/07/collections-teaching-paradox-crusader-kings-iii-part-iii-constructivisting-a-kingdom/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "WebAssembly Is Not A Stack Machine",
       "http://troubles.md/wasm-is-not-a-stack-machine/"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 09:19:17",
-      "https://news.ycombinator.com/item?id=33065142"
-    ],
-    [
-      "On “correct and efficient work-stealing for weak memory models”",
-      "https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models"
     ]
   ]
 ]
