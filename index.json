@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-10-08, 17:32:14",
-      "https://news.ycombinator.com/item?id=33134249"
+      "2022-10-08, 17:27:39",
+      "https://news.ycombinator.com/item?id=33134209"
     ],
     [
-      "The $2500 fine (read it and weep)",
-      "https://marginalrevolution.com/marginalrevolution/2022/10/the-2500-fine-read-it-and-weep.html"
+      "Barge traffic halted on Mississippi River by lowest water levels in a decade",
+      "https://lite.cnn.com/en/article/h_93bc2d6fc053e08af790efe1859b0935"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Leap: Neovim’s Answer to the Mouse",
       "https://github.com/ggandor/leap.nvim"
+    ]
+  ],
+  [
+    [
+      "2022-10-08, 17:10:57",
+      "https://news.ycombinator.com/item?id=33134059"
+    ],
+    [
+      "Show HN: Reflame – Deploy your React web apps in milliseconds",
+      "https://reflame.app/?source=show-hn-launch"
     ]
   ],
   [
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2022-10-08, 16:44:27",
-      "https://news.ycombinator.com/item?id=33133809"
+      "2022-10-08, 16:09:11",
+      "https://news.ycombinator.com/item?id=33133477"
     ],
     [
-      "Show HN: I made an open source Chrome extension to notify you of new HN replies",
-      "https://github.com/Engagespot/hn-notifier"
+      "Fungi Lurk Inside Cancers–and Might Speed Their Growth",
+      "https://www.nature.com/articles/d41586-022-03074-z"
     ]
   ],
   [
@@ -55,18 +65,8 @@
       "https://news.ycombinator.com/item?id=33133369"
     ],
     [
-      "Algebraic Geometry for Computer Graphics - Jim Blinn",
+      "Algebraic Geometry for Computer Graphics",
       "https://courses.cs.washington.edu/courses/cse590b/13au/"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 15:47:49",
-      "https://news.ycombinator.com/item?id=33133283"
-    ],
-    [
-      "Updated PayPal Acceptable Use Policy [pdf]",
-      "https://www.paypalobjects.com/marketing/ua/pdf/US/en/acceptableuse-full-110322.pdf"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Show HN: I developed an app that creates interactive product demos in minutes",
       "https://supademo.com"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 15:40:54",
-      "https://news.ycombinator.com/item?id=33133221"
-    ],
-    [
-      "You Hated Your Cable Package. Your Streaming Services Are Bringing It Back",
-      "https://www.wsj.com/articles/streaming-service-bundle-cable-11665151236"
     ]
   ],
   [
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2022-10-08, 02:42:42",
-      "https://news.ycombinator.com/item?id=33129355"
+      "2022-10-08, 07:37:00",
+      "https://news.ycombinator.com/item?id=33130533"
     ],
     [
-      "Intel, SiFive Demo High-Performance RISC-V on Intel 4",
-      "https://fuse.wikichip.org/news/7277/intel-sifive-demo-high-performance-risc-v-horse-creek-dev-platform-on-intel-4-process/"
+      "Ask HN: Best book to learn C in 2022?",
+      "https://news.ycombinator.com/item?id=33130533"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "WebAssembly Is Not A Stack Machine",
       "http://troubles.md/wasm-is-not-a-stack-machine/"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 09:19:17",
+      "https://news.ycombinator.com/item?id=33065142"
+    ],
+    [
+      "On “correct and efficient work-stealing for weak memory models”",
+      "https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models"
     ]
   ]
 ]
