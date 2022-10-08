@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-10-08, 14:07:38",
-      "https://news.ycombinator.com/item?id=33132378"
+      "2022-10-08, 15:32:20",
+      "https://news.ycombinator.com/item?id=33133140"
     ],
     [
-      "Ask HN: Which web browser do you use and why?",
-      "https://news.ycombinator.com/item?id=33132378"
+      "Arbitrary Lines: The way restrctive zoning costs all of us",
+      "https://www.cato.org/regulation/fall-2022/case-abolishing-zoning#"
+    ]
+  ],
+  [
+    [
+      "2022-10-08, 15:00:08",
+      "https://news.ycombinator.com/item?id=33132850"
+    ],
+    [
+      "What can we learn from leaked Insyde's BIOS for Intel Alder Lake",
+      "https://hardenedvault.net/blog/2022-10-08-alderlake_fw-leak/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Show HN: Garnix, fast and easy CI for Nix",
       "https://news.ycombinator.com/item?id=33131480"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 11:31:30",
-      "https://news.ycombinator.com/item?id=33131451"
-    ],
-    [
-      "German rail operator says train disruption caused by sabotage",
-      "https://www.dw.com/en/german-rail-operator-says-massive-train-disruption-caused-by-sabotage/a-63377385"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2022-10-07, 05:03:51",
+      "https://news.ycombinator.com/item?id=33117631"
+    ],
+    [
+      "Mercenaries Were More Common in Greek Warfare Than Ancient Historians Let On",
+      "https://www.smithsonianmag.com/smart-news/mercenary-soldiers-were-more-common-in-greek-battles-than-historians-let-on-180980902/"
+    ]
+  ],
+  [
+    [
       "2022-10-06, 19:49:52",
       "https://news.ycombinator.com/item?id=33113138"
     ],
@@ -277,16 +287,6 @@
     [
       "WebAssembly Is Not A Stack Machine",
       "http://troubles.md/wasm-is-not-a-stack-machine/"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 12:39:00",
-      "https://news.ycombinator.com/item?id=33079427"
-    ],
-    [
-      "AMD Ryzen 7000 Series performs better with Spectre V2 Mitigations enabled",
-      "https://www.phoronix.com/review/amd-zen4-spectrev2"
     ]
   ],
   [
