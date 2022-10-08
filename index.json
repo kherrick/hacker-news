@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=33130641"
     ],
     [
-      "The Bitcoin Pre-Genesis Block",
+      "the Alternative Genesis Block of Bitcoin",
       "https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/"
     ]
   ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-10-07, 16:40:48",
-      "https://news.ycombinator.com/item?id=33123697"
-    ],
-    [
-      "QNX DEMO disk (1999)",
-      "http://qnx.puslapiai.lt/qnxdemo/qnx_demo_disk.htm"
-    ]
-  ],
-  [
-    [
       "2022-10-07, 15:33:00",
       "https://news.ycombinator.com/item?id=33122705"
     ],
@@ -297,6 +287,16 @@
     [
       "AMD Ryzen 7000 Series performs better with Spectre V2 Mitigations enabled",
       "https://www.phoronix.com/review/amd-zen4-spectrev2"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 09:19:17",
+      "https://news.ycombinator.com/item?id=33065142"
+    ],
+    [
+      "On “correct and efficient work-stealing for weak memory models”",
+      "https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models"
     ]
   ]
 ]
