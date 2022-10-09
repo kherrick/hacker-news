@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-09, 13:01:00",
+      "https://news.ycombinator.com/item?id=33140577"
+    ],
+    [
+      "Cleaning a Spoon Is Complex",
+      "https://www.jefftk.com/p/cleaning-a-spoon-is-complex"
+    ]
+  ],
+  [
+    [
+      "2022-10-09, 12:50:33",
+      "https://news.ycombinator.com/item?id=33140512"
+    ],
+    [
+      "CTO of Microsoft Azure: “Git making me want to pull my hair out yet again”",
+      "https://twitter.com/markrussinovich/status/1578451245249052672"
+    ]
+  ],
+  [
+    [
       "2022-10-09, 12:45:16",
       "https://news.ycombinator.com/item?id=33140487"
     ],
     [
       "Infosys asked HR not to hire 'Indian-origin candidates', 'women with children'",
       "https://www.timesnownews.com/business-economy/companies/infosys-asked-hr-executive-not-to-hire-indian-origin-candidates-women-with-children-complainant-to-us-court-article-94725018"
+    ]
+  ],
+  [
+    [
+      "2022-10-09, 12:40:08",
+      "https://news.ycombinator.com/item?id=33140456"
+    ],
+    [
+      "Lobsters",
+      "https://lobste.rs/"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "Protests in Iran: State-run live TV hacked by protesters",
       "https://www.bbc.co.uk/news/world-middle-east-63188795"
+    ]
+  ],
+  [
+    [
+      "2022-10-09, 12:03:14",
+      "https://news.ycombinator.com/item?id=33140235"
+    ],
+    [
+      "Starting a Business Around GPT-3 Is a Bad Idea (2020)",
+      "https://www.allencheng.com/starting-a-business-around-gpt-3-is-a-bad-idea/"
     ]
   ],
   [
@@ -161,42 +201,12 @@
   ],
   [
     [
-      "2022-10-09, 00:07:00",
-      "https://news.ycombinator.com/item?id=33137196"
-    ],
-    [
-      "A Few of My Favorite Things About the OpenBSD Packet Filter Tools",
-      "https://bsdly.blogspot.com/2022/09/a-few-of-my-favorite-things-about.html"
-    ]
-  ],
-  [
-    [
       "2022-10-08, 23:12:22",
       "https://news.ycombinator.com/item?id=33136935"
     ],
     [
       "Basilisk II Macintosh 68K emulator ported to iPadOS (2021)",
       "https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 22:15:39",
-      "https://news.ycombinator.com/item?id=33136554"
-    ],
-    [
-      "Modeling Starlink Capacity",
-      "https://mikepuchol.com/modeling-starlink-capacity-843b2387f501"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 17:18:08",
-      "https://news.ycombinator.com/item?id=33134113"
-    ],
-    [
-      "Leap: Neovim’s Answer to the Mouse",
-      "https://github.com/ggandor/leap.nvim"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2022-10-07, 16:35:34",
-      "https://news.ycombinator.com/item?id=33123620"
+      "2022-10-07, 17:13:34",
+      "https://news.ycombinator.com/item?id=33124191"
     ],
     [
-      "Garden of forking paths: Why multiple comparisons can be a problem (2013) [pdf]",
-      "http://www.stat.columbia.edu/~gelman/research/unpublished/forking.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 05:08:55",
-      "https://news.ycombinator.com/item?id=33117656"
-    ],
-    [
-      "Evrard D'Espinque’s Illuminations of De Proprietatibus Rerum (Ca. 1480)",
-      "https://publicdomainreview.org/collection/despinque-anglicus-illuminations/"
+      "A Drum Machine with Congenital Heart Disease",
+      "https://www.heartbeatdrummachine.com/"
     ]
   ]
 ]
