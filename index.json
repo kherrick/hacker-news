@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=33138050"
     ],
     [
-      "Day.js Fast 2kB alternative to Moment.js with the same modern API",
+      "Day.js – Fast 2kB alternative to Moment.js with the same modern API",
       "https://day.js.org/"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=33137417"
     ],
     [
-      "Ask HN: Is Substack the New Medium?",
+      "Ask HN: Is Substack the new Medium?",
       "https://news.ycombinator.com/item?id=33137417"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33136351"
     ],
     [
-      "JSON Crack – Seamlessly visualize your JSON data instantly into graphs",
+      "JSON Crack – A tool that generates graph diagrams from JSON objects",
       "https://github.com/AykutSarac/jsoncrack.com"
     ]
   ],
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2022-10-08, 17:00:12",
-      "https://news.ycombinator.com/item?id=33133952"
-    ],
-    [
-      "Craniometrix (YC W22) Is Hiring",
-      "https://www.ycombinator.com/companies/craniometrix/jobs/rBiXA3r-founding-full-stack-eng"
-    ]
-  ],
-  [
-    [
       "2022-10-08, 16:09:11",
       "https://news.ycombinator.com/item?id=33133477"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2022-10-07, 20:21:02",
+      "https://news.ycombinator.com/item?id=33126447"
+    ],
+    [
+      "America’s lost crops rewrite the history of farming",
+      "https://www.theatlantic.com/science/archive/2022/10/agricultural-revolution-is-wrong-corn-cultivation-lost-crops/671587/"
+    ]
+  ],
+  [
+    [
       "2022-10-07, 17:46:07",
       "https://news.ycombinator.com/item?id=33124631"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33123620"
     ],
     [
-      "The garden of forking paths: Why multiple comparisons can be a problem [pdf]",
+      "Garden of forking paths: Why multiple comparisons can be a problem (2013) [pdf]",
       "http://www.stat.columbia.edu/~gelman/research/unpublished/forking.pdf"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-10-07, 05:03:51",
-      "https://news.ycombinator.com/item?id=33117631"
+      "2022-10-07, 06:04:37",
+      "https://news.ycombinator.com/item?id=33117939"
     ],
     [
-      "Mercenaries Were More Common in Greek Warfare Than Ancient Historians Let On",
-      "https://www.smithsonianmag.com/smart-news/mercenary-soldiers-were-more-common-in-greek-battles-than-historians-let-on-180980902/"
+      "The making of my second solo indie game",
+      "https://novalis.org/blog/2022-08-03-dev-diary--surfwords.html"
     ]
   ]
 ]
