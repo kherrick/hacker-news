@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-10-10, 02:45:25",
+      "https://news.ycombinator.com/item?id=33147270"
+    ],
+    [
+      "Helix: A Neovim inspired editor, written in Rust",
+      "https://github.com/helix-editor/helix"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 02:28:31",
       "https://news.ycombinator.com/item?id=33147193"
     ],
     [
       "Malicious update/malware by a semi-advanced adversary",
       "https://axelp.io/UltimateUpdate"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 02:25:13",
-      "https://news.ycombinator.com/item?id=33147184"
-    ],
-    [
-      "Why Is Europe More Equal Than the United States?",
-      "https://www.aeaweb.org/articles?id=10.1257/app.20200703"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "Show HN: I built a WASI playground for running CLI binaries in the browser",
       "https://runno.dev/wasi"
+    ]
+  ],
+  [
+    [
+      "2022-10-09, 23:57:37",
+      "https://news.ycombinator.com/item?id=33146454"
+    ],
+    [
+      "Knock: Convert ACSM files to PDF/EPUBs with one command on Linux",
+      "https://github.com/BentonEdmondson/knock"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2022-10-09, 18:18:23",
+      "https://news.ycombinator.com/item?id=33143828"
+    ],
+    [
+      "Decompiling x86 Deep Neural Network Executables",
+      "https://github.com/monkbai/DNN-decompiler"
+    ]
+  ],
+  [
+    [
       "2022-10-09, 17:42:10",
       "https://news.ycombinator.com/item?id=33143489"
     ],
@@ -167,16 +187,6 @@
     [
       "Running GUI Linux in a virtual machine on a Mac",
       "https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 17:00:30",
-      "https://news.ycombinator.com/item?id=33142976"
-    ],
-    [
-      "Motion (YC W20) Is Hiring a Front End Architect and Full Stack Engineers",
-      "https://jobs.ashbyhq.com/motion?utm_source=hn"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-10-09, 14:19:45",
-      "https://news.ycombinator.com/item?id=33141335"
-    ],
-    [
-      "Top science fiction short stories published in August",
-      "https://compellingsciencefiction.com/posts/top-science-fiction-short-stories-published-in-august.html"
-    ]
-  ],
-  [
-    [
       "2022-10-09, 13:49:57",
       "https://news.ycombinator.com/item?id=33140973"
     ],
@@ -221,21 +221,11 @@
   ],
   [
     [
-      "2022-10-09, 13:32:00",
-      "https://news.ycombinator.com/item?id=33140795"
-    ],
-    [
-      "CS631 – Advanced Programming in the Unix Environment",
-      "https://stevens.netmeister.org/631/"
-    ]
-  ],
-  [
-    [
       "2022-10-09, 07:09:12",
       "https://news.ycombinator.com/item?id=33138836"
     ],
     [
-      "How does a nail puncture a tire?",
+      "How does a nail puncture a tire? (2003)",
       "https://www.madsci.org/posts/archives/2003-01/1042408841.Eg.r.html"
     ]
   ],
@@ -255,8 +245,28 @@
       "https://news.ycombinator.com/item?id=33130701"
     ],
     [
-      "Liberating the Smalltalk lurking in C and Unix",
+      "Liberating the Smalltalk lurking in C and Unix (2014) [video]",
       "https://www.youtube.com/watch?v=LwicN2u6Dro"
+    ]
+  ],
+  [
+    [
+      "2022-10-08, 07:56:59",
+      "https://news.ycombinator.com/item?id=33130611"
+    ],
+    [
+      "‘Monumental’ Math Proof Solves Triple Bubble Problem and More",
+      "https://www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-problem-and-more-20221006/"
+    ]
+  ],
+  [
+    [
+      "2022-10-08, 07:49:22",
+      "https://news.ycombinator.com/item?id=33130578"
+    ],
+    [
+      "How Wes Anderson Turned The New Yorker Into “The French Dispatch”",
+      "https://www.newyorker.com/culture/the-new-yorker-interview/how-wes-anderson-turned-the-new-yorker-into-the-french-dispatch"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Retro personal computer ads from the 1980s",
       "https://rarehistoricalphotos.com/retro-computer-ads-from-1980s/"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 22:02:42",
-      "https://news.ycombinator.com/item?id=33127423"
-    ],
-    [
-      "The Forgotten Operating System That Keeps the NYC Subway System Alive (2019)",
-      "https://www.vice.com/en/article/zmp8gy/the-forgotten-operating-system-that-keeps-the-nyc-subway-system-alive"
     ]
   ],
   [
