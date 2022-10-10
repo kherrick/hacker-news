@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-10, 17:01:14",
+      "https://news.ycombinator.com/item?id=33153816"
+    ],
+    [
+      "ReadMe (YC W15) is hiring a product manager who loves APIs",
+      "https://readme.com/careers#product-lead"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 16:09:41",
+      "https://news.ycombinator.com/item?id=33153152"
+    ],
+    [
+      "Show HN: Minimal, no-JS web forum software",
+      "https://github.com/Demindiro/agreper"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 16:00:07",
       "https://news.ycombinator.com/item?id=33153063"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2022-10-10, 15:54:33",
+      "https://news.ycombinator.com/item?id=33152973"
+    ],
+    [
+      "Against Effective Altruism",
+      "https://fantasticanachronism.com/2022/10/10/against-effective-altruism/"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 15:48:00",
       "https://news.ycombinator.com/item?id=33152887"
     ],
     [
       "The Google plasma globe affair of 2012",
       "https://lcamtuf.coredump.cx/plasma_globe/"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 15:38:55",
+      "https://news.ycombinator.com/item?id=33152762"
+    ],
+    [
+      "Wireless ISPs embrace fiber as they face do or die moment",
+      "https://www.fiercetelecom.com/broadband/wisps-embrace-fiber-they-face-do-or-die-moment"
     ]
   ],
   [
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2022-10-10, 14:49:18",
-      "https://news.ycombinator.com/item?id=33152072"
-    ],
-    [
-      "Who Thought Putting a Casino in Everyone’s Pocket Was a Good Idea?",
-      "https://nymag.com/intelligencer/2022/10/politicans-are-getting-hooked-on-mobile-sports-betting.html"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 14:48:56",
       "https://news.ycombinator.com/item?id=33152069"
     ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33151959"
     ],
     [
-      "We Should Be Measuring Well-Being Catalysis, Not Economic Productivity",
+      "We should measure well-being instead of failing to measure economic productivity",
       "https://bengoertzel.substack.com/p/we-should-be-measuring-well-being"
     ]
   ],
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33151774"
     ],
     [
-      "An everything app is terrible for liberal democracy",
+      "An ‘everything app’ would be bad for liberal democracies and free markets",
       "https://www.nitinpai.in/2022/10/10/why-an-everything-app-is-bad-news-for-liberal-democracies-and-free-markets"
     ]
   ],
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2022-10-10, 10:30:55",
-      "https://news.ycombinator.com/item?id=33149754"
-    ],
-    [
-      "US Army Publishing Directorate – Technical Manuals",
-      "https://armypubs.army.mil/ProductMaps/PubForm/TM_Admin.aspx"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 09:42:38",
       "https://news.ycombinator.com/item?id=33149504"
     ],
     [
       "Swiss Post Design System",
       "https://swisspost-web-frontend.netlify.app/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 08:08:14",
-      "https://news.ycombinator.com/item?id=33148986"
-    ],
-    [
-      "Stacker (YC S20) Is Hiring for an Ops Exec and Product Engineers",
-      "https://www.stackerhq.com/careers#job-listing"
     ]
   ],
   [
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2022-10-10, 01:59:16",
-      "https://news.ycombinator.com/item?id=33147079"
-    ],
-    [
-      "Show HN: I built a site that finds the cheapest place to buy a book",
-      "https://www.pagesonpages.com/"
-    ]
-  ],
-  [
-    [
       "2022-10-08, 17:10:55",
       "https://news.ycombinator.com/item?id=33134058"
     ],
     [
       "Did JFK Eat the World’s Largest Tamale?",
       "https://www.texasmonthly.com/food/john-f-kennedy-jfk-ate-eat-largest-giant-tamale-san-antonio/"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 23:33:21",
+      "https://news.ycombinator.com/item?id=33128272"
+    ],
+    [
+      "What Is Bayesian/Frequentist Inference?",
+      "https://normaldeviate.wordpress.com/2012/11/17/what-is-bayesianfrequentist-inference/"
     ]
   ],
   [
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=33123895"
     ],
     [
-      "Mike Acton’s Expectations of Professional Software Engineers",
+      "Expectations of professional software engineers",
       "https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "In a Way, 3D Scanning Is over a Century Old",
       "https://hackaday.com/2022/10/02/in-a-way-3d-scanning-is-over-a-century-old/"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 15:48:19",
-      "https://news.ycombinator.com/item?id=33122934"
-    ],
-    [
-      "Osm-finder: “line-network” geolocation tool",
-      "https://github.com/Xetnus/osm-finder"
     ]
   ]
 ]
