@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-10, 16:00:07",
+      "https://news.ycombinator.com/item?id=33153063"
+    ],
+    [
+      "Cyberattacks Reported at US Airports",
+      "https://digital.abcaudio.com/news/cyberattacks-reported-us-airports"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 15:48:00",
+      "https://news.ycombinator.com/item?id=33152887"
+    ],
+    [
+      "The Google plasma globe affair of 2012",
+      "https://lcamtuf.coredump.cx/plasma_globe/"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 15:23:11",
       "https://news.ycombinator.com/item?id=33152539"
     ],
@@ -47,16 +67,6 @@
     [
       "We Should Be Measuring Well-Being Catalysis, Not Economic Productivity",
       "https://bengoertzel.substack.com/p/we-should-be-measuring-well-being"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 14:27:22",
-      "https://news.ycombinator.com/item?id=33151830"
-    ],
-    [
-      "Quiet Quitting",
-      "https://ombuds.web.cern.ch/blog/2022/08/quiet-quitting"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-10-10, 11:45:40",
-      "https://news.ycombinator.com/item?id=33150179"
-    ],
-    [
-      "Should Linux set the new constant-time mode CPU flags?",
-      "https://lore.kernel.org/lkml/YwgCrqutxmX0W72r@gmail.com/"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 11:30:21",
       "https://news.ycombinator.com/item?id=33150086"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=33148986"
     ],
     [
-      "Stacker (YC S20) Is Hiring for Ops Exec and Product Engineers",
+      "Stacker (YC S20) Is Hiring for an Ops Exec and Product Engineers",
       "https://www.stackerhq.com/careers#job-listing"
     ]
   ],
@@ -247,6 +247,16 @@
     [
       "Show HN: I built a site that finds the cheapest place to buy a book",
       "https://www.pagesonpages.com/"
+    ]
+  ],
+  [
+    [
+      "2022-10-08, 17:10:55",
+      "https://news.ycombinator.com/item?id=33134058"
+    ],
+    [
+      "Did JFK Eat the World’s Largest Tamale?",
+      "https://www.texasmonthly.com/food/john-f-kennedy-jfk-ate-eat-largest-giant-tamale-san-antonio/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Osm-finder: “line-network” geolocation tool",
       "https://github.com/Xetnus/osm-finder"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 15:10:54",
-      "https://news.ycombinator.com/item?id=33122419"
-    ],
-    [
-      "TuM'Fatig – Ads blocking with OpenBSD unbound(8)",
-      "https://www.tumfatig.net/2022/ads-blocking-with-openbsd-unbound8/"
     ]
   ]
 ]
