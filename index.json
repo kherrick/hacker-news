@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-10, 15:19:20",
+      "https://news.ycombinator.com/item?id=33152472"
+    ],
+    [
+      "Improving Firefox Responsiveness on macOS",
+      "https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 14:49:18",
+      "https://news.ycombinator.com/item?id=33152072"
+    ],
+    [
+      "Who Thought Putting a Casino in Everyone’s Pocket Was a Good Idea?",
+      "https://nymag.com/intelligencer/2022/10/politicans-are-getting-hooked-on-mobile-sports-betting.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 14:48:56",
+      "https://news.ycombinator.com/item?id=33152069"
+    ],
+    [
+      "Live Captioning FAQ",
+      "https://whitecoatcaptioning.com/faq/"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 14:39:29",
+      "https://news.ycombinator.com/item?id=33151959"
+    ],
+    [
+      "We Should Be Measuring Well-Being Catalysis, Not Economic Productivity",
+      "https://bengoertzel.substack.com/p/we-should-be-measuring-well-being"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 14:27:22",
       "https://news.ycombinator.com/item?id=33151830"
     ],
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33151402"
     ],
     [
-      "Ray Tracing in Notepad.exe at 30 FPS",
+      "Ray Tracing in Notepad.exe at 30 FPS (2020)",
       "http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html"
     ]
   ],
@@ -161,32 +201,12 @@
   ],
   [
     [
-      "2022-10-10, 08:46:35",
-      "https://news.ycombinator.com/item?id=33149213"
-    ],
-    [
-      "Probability (1963)",
-      "https://www.feynmanlectures.caltech.edu/I_06.html#Ch6-F2"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 08:08:14",
       "https://news.ycombinator.com/item?id=33148986"
     ],
     [
       "Stacker (YC S20) Is Hiring for Ops Exec and Product Engineers",
       "https://www.stackerhq.com/careers#job-listing"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 07:21:45",
-      "https://news.ycombinator.com/item?id=33148697"
-    ],
-    [
-      "12,000 Facebook employees, 15% of its workforce, may lose jobs amid quiet layoff",
-      "https://www.businessinsider.in/tech/news/12000-facebook-employees-15-of-its-workforce-may-lose-jobs-amid-quiet-layoffs-report/articleshow/94676235.cms"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2022-10-10, 02:28:31",
-      "https://news.ycombinator.com/item?id=33147193"
-    ],
-    [
-      "Malicious update/malware by a semi-advanced adversary",
-      "https://axelp.io/UltimateUpdate"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 01:59:16",
       "https://news.ycombinator.com/item?id=33147079"
     ],
     [
       "Show HN: I built a site that finds the cheapest place to buy a book",
       "https://www.pagesonpages.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 00:34:57",
-      "https://news.ycombinator.com/item?id=33146686"
-    ],
-    [
-      "Show HN: I built a WASI playground for running CLI binaries in the browser",
-      "https://runno.dev/wasi"
     ]
   ],
   [
@@ -257,6 +257,16 @@
     [
       "Calculus with types",
       "https://stackoverflow.com/questions/9190352/abusing-the-algebra-of-algebraic-data-types-why-does-this-work/41418365#41418365"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 16:53:39",
+      "https://news.ycombinator.com/item?id=33123895"
+    ],
+    [
+      "Mike Acton’s Expectations of Professional Software Engineers",
+      "https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "TuM'Fatig – Ads blocking with OpenBSD unbound(8)",
       "https://www.tumfatig.net/2022/ads-blocking-with-openbsd-unbound8/"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 14:58:54",
-      "https://news.ycombinator.com/item?id=33122242"
-    ],
-    [
-      "Finding the Joy in Feeling Tired",
-      "https://jeanhsu.substack.com/p/finding-the-joy-in-feeling-tired"
     ]
   ]
 ]
