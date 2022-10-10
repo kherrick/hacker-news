@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-10, 02:28:31",
+      "https://news.ycombinator.com/item?id=33147193"
+    ],
+    [
+      "Malicious update/malware by a semi-advanced adversary",
+      "https://axelp.io/UltimateUpdate"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 02:25:13",
+      "https://news.ycombinator.com/item?id=33147184"
+    ],
+    [
+      "Why Is Europe More Equal Than the United States?",
+      "https://www.aeaweb.org/articles?id=10.1257/app.20200703"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 01:59:16",
+      "https://news.ycombinator.com/item?id=33147079"
+    ],
+    [
+      "Show HN: I built a site that finds the cheapest place to buy a book",
+      "https://www.pagesonpages.com/"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 01:57:13",
+      "https://news.ycombinator.com/item?id=33147071"
+    ],
+    [
+      "Why the Internet Needs the InterPlanetary File System",
+      "https://spectrum.ieee.org/peer-to-peer-network"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 00:36:34",
       "https://news.ycombinator.com/item?id=33146693"
     ],
@@ -21,31 +61,11 @@
   ],
   [
     [
-      "2022-10-09, 23:57:37",
-      "https://news.ycombinator.com/item?id=33146454"
-    ],
-    [
-      "Knock: Convert ACSM files to PDF/EPUBs with one command on Linux",
-      "https://github.com/BentonEdmondson/knock"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 22:38:55",
-      "https://news.ycombinator.com/item?id=33146002"
-    ],
-    [
-      "What’s Behind Chinook and Chum Salmon Declines in Alaska?",
-      "https://www.fisheries.noaa.gov/feature-story/whats-behind-chinook-and-chum-salmon-declines-alaska"
-    ]
-  ],
-  [
-    [
       "2022-10-09, 22:25:52",
       "https://news.ycombinator.com/item?id=33145898"
     ],
     [
-      "Six Recent Discoveries That Have Changed How We Think About Human Origins",
+      "Recent discoveries that have changed how we think about human origins",
       "https://singularityhub.com/2022/10/09/six-recent-discoveries-that-have-changed-how-we-think-about-human-origins/"
     ]
   ],
@@ -85,8 +105,18 @@
       "https://news.ycombinator.com/item?id=33145411"
     ],
     [
-      "I have come to bury the BIOS, not to open it: The need for holistic systems",
+      "I have come to bury the BIOS, not to open it [video]",
       "https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/"
+    ]
+  ],
+  [
+    [
+      "2022-10-09, 20:53:25",
+      "https://news.ycombinator.com/item?id=33145246"
+    ],
+    [
+      "Made in America is back, leaving US factories scrambling to find workers",
+      "https://www.cnn.com/2022/10/09/economy/manufacturing-jobs/index.html"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit",
       "http://microjs.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 18:18:23",
-      "https://news.ycombinator.com/item?id=33143828"
-    ],
-    [
-      "Decompiling x86 Deep Neural Network Executables",
-      "https://github.com/monkbai/DNN-decompiler"
     ]
   ],
   [
@@ -211,22 +231,12 @@
   ],
   [
     [
-      "2022-10-09, 12:53:57",
-      "https://news.ycombinator.com/item?id=33140527"
+      "2022-10-09, 07:09:12",
+      "https://news.ycombinator.com/item?id=33138836"
     ],
     [
-      "Learn Exponentially",
-      "https://saveall.ai/blog/learn-exponentially"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 12:13:26",
-      "https://news.ycombinator.com/item?id=33140298"
-    ],
-    [
-      "Know Your Carrying Capacity",
-      "https://www.macchaffee.com/blog/2022/carrying-capacity/"
+      "How does a nail puncture a tire?",
+      "https://www.madsci.org/posts/archives/2003-01/1042408841.Eg.r.html"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=33131630"
     ],
     [
-      "Why You Can’t Tickle Yourself",
+      "Why you can’t tickle yourself",
       "https://www.wired.com/story/neuroscientists-unravel-the-mystery-of-why-you-cant-tickle-yourself/"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "Liberating the Smalltalk lurking in C and Unix",
       "https://www.youtube.com/watch?v=LwicN2u6Dro"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 07:56:59",
-      "https://news.ycombinator.com/item?id=33130611"
-    ],
-    [
-      "‘Monumental’ Math Proof Solves Triple Bubble Problem and More",
-      "https://www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-problem-and-more-20221006/"
     ]
   ],
   [
