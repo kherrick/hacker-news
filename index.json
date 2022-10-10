@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-10, 13:57:50",
+      "https://news.ycombinator.com/item?id=33151474"
+    ],
+    [
+      "Show HN: We built a tool that automatically generates your API Tests",
+      "https://stepci.com/"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 13:51:30",
+      "https://news.ycombinator.com/item?id=33151402"
+    ],
+    [
+      "Ray Tracing in Notepad.exe at 30 FPS",
+      "http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 12:45:55",
       "https://news.ycombinator.com/item?id=33150642"
     ],
@@ -27,6 +47,16 @@
     [
       "Back to Android (For the Time Being)",
       "https://proxy.vulpes.one/gemini/duncan.bayne.id.au/gemlog/back-to-android/"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 12:00:46",
+      "https://news.ycombinator.com/item?id=33150276"
+    ],
+    [
+      "The Lost Civilization of Dial-Up Bulletin Board Systems",
+      "https://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2022-10-10, 10:38:12",
-      "https://news.ycombinator.com/item?id=33149796"
-    ],
-    [
-      "”Someone got Doom running in Notepad at 60 FPS, somehow”",
-      "https://www.escapistmagazine.com/doom-notepad-running-60-fps-video-clip-shooter-text/"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 10:30:55",
       "https://news.ycombinator.com/item?id=33149754"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-10-10, 05:51:58",
-      "https://news.ycombinator.com/item?id=33148215"
-    ],
-    [
-      "Tremor – React library to build dashboards fast",
-      "https://github.com/tremorlabs/tremor"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 04:08:07",
       "https://news.ycombinator.com/item?id=33147680"
     ],
@@ -211,32 +221,22 @@
   ],
   [
     [
-      "2022-10-10, 01:44:31",
-      "https://news.ycombinator.com/item?id=33147009"
-    ],
-    [
-      "Enzian – An open research computer built by the Systems Group at ETH Zurich",
-      "https://enzian.systems/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 00:36:34",
-      "https://news.ycombinator.com/item?id=33146693"
-    ],
-    [
-      "Halfix – A portable x86 emulator written in C99",
-      "https://github.com/nepx/halfix"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 00:34:57",
       "https://news.ycombinator.com/item?id=33146686"
     ],
     [
       "Show HN: I built a WASI playground for running CLI binaries in the browser",
       "https://runno.dev/wasi"
+    ]
+  ],
+  [
+    [
+      "2022-10-08, 19:47:49",
+      "https://news.ycombinator.com/item?id=33135389"
+    ],
+    [
+      "When to use memory safe languages",
+      "https://verdagon.dev/blog/when-to-use-memory-safe-part-1"
     ]
   ],
   [
