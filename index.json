@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-10, 04:08:07",
+      "https://news.ycombinator.com/item?id=33147680"
+    ],
+    [
+      "In gold-standard trial, colonoscopy fails to reduce rate of cancer deaths",
+      "https://www.statnews.com/2022/10/09/in-gold-standard-trial-colonoscopy-fails-to-reduce-rate-of-cancer-deaths/"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 02:45:25",
       "https://news.ycombinator.com/item?id=33147270"
     ],
@@ -35,8 +45,18 @@
       "https://news.ycombinator.com/item?id=33147071"
     ],
     [
-      "Why the Internet Needs the InterPlanetary File System",
+      "WThe Internet needs the InterPlanetary File System",
       "https://spectrum.ieee.org/peer-to-peer-network"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 01:44:31",
+      "https://news.ycombinator.com/item?id=33147009"
+    ],
+    [
+      "Enzian – An open research computer built by the Systems Group at ETH Zurich",
+      "https://enzian.systems/"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33145498"
     ],
     [
-      "PDF processing and analysis with open-source tools",
+      "PDF processing and analysis with open-source tools (2021)",
       "https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools"
     ]
   ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-10-09, 18:18:23",
-      "https://news.ycombinator.com/item?id=33143828"
-    ],
-    [
-      "Decompiling x86 Deep Neural Network Executables",
-      "https://github.com/monkbai/DNN-decompiler"
-    ]
-  ],
-  [
-    [
       "2022-10-09, 17:42:10",
       "https://news.ycombinator.com/item?id=33143489"
     ],
@@ -197,16 +207,6 @@
     [
       "Zig-style generics are not well-suited for most languages",
       "https://typesanitizer.com/blog/zig-generics.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 14:33:35",
-      "https://news.ycombinator.com/item?id=33141517"
-    ],
-    [
-      "DIY out-of-band management: remote power button",
-      "https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-10-08, 07:56:59",
-      "https://news.ycombinator.com/item?id=33130611"
-    ],
-    [
-      "‘Monumental’ Math Proof Solves Triple Bubble Problem and More",
-      "https://www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-problem-and-more-20221006/"
-    ]
-  ],
-  [
-    [
       "2022-10-08, 07:49:22",
       "https://news.ycombinator.com/item?id=33130578"
     ],
@@ -277,6 +267,16 @@
     [
       "Retro personal computer ads from the 1980s",
       "https://rarehistoricalphotos.com/retro-computer-ads-from-1980s/"
+    ]
+  ],
+  [
+    [
+      "2022-10-08, 03:36:02",
+      "https://news.ycombinator.com/item?id=33129575"
+    ],
+    [
+      "Learning Regular Sets from Queries and Counterexamples (1987) [pdf]",
+      "https://people.eecs.berkeley.edu/~dawnsong/teaching/s10/papers/angluin87.pdf"
     ]
   ],
   [
