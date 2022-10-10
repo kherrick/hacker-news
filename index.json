@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-10-10, 20:37:16",
+      "https://news.ycombinator.com/item?id=33156130"
+    ],
+    [
+      "Show HN: Satori – Convert HTML and CSS to SVG",
+      "https://github.com/vercel/satori"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 20:05:11",
+      "https://news.ycombinator.com/item?id=33155849"
+    ],
+    [
+      "Show HN: Subtitles are not the same as sign language",
+      "https://www.signlvideo.xyz/"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 19:33:53",
       "https://news.ycombinator.com/item?id=33155527"
     ],
     [
-      "Gitlab RCE: via GitHub Import",
+      "RCE via GitHub import",
       "https://gitlab.com/gitlab-org/gitlab/-/issues/371098"
     ]
   ],
@@ -61,32 +81,12 @@
   ],
   [
     [
-      "2022-10-10, 16:45:12",
-      "https://news.ycombinator.com/item?id=33153592"
-    ],
-    [
-      "When nil is not nil",
-      "https://bitmaybewise.substack.com/p/when-nil-is-not-nil"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 16:26:54",
       "https://news.ycombinator.com/item?id=33153350"
     ],
     [
       "Scientists are finding fungi in cancerous tumors",
       "https://www.smithsonianmag.com/smart-news/scientists-are-finding-fungi-in-cancerous-tumors-180980881/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 16:25:24",
-      "https://news.ycombinator.com/item?id=33153329"
-    ],
-    [
-      "Missing the Point of VR",
-      "https://www.owlbynight.com/blog/missing-the-point-of-vr/"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "The Google plasma globe affair of 2012",
       "https://lcamtuf.coredump.cx/plasma_globe/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 15:23:11",
-      "https://news.ycombinator.com/item?id=33152539"
-    ],
-    [
-      "How much people lost with Celsius Network",
-      "https://celsiusnetworth.com/#leaderboard"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "What Is Bayesian/Frequentist Inference? (2012)",
       "https://normaldeviate.wordpress.com/2012/11/17/what-is-bayesianfrequentist-inference/"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 22:25:41",
+      "https://news.ycombinator.com/item?id=33127602"
+    ],
+    [
+      "Calculus with types",
+      "https://stackoverflow.com/questions/9190352/abusing-the-algebra-of-algebraic-data-types-why-does-this-work/41418365#41418365"
     ]
   ],
   [
