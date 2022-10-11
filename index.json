@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-10-11, 13:15:41",
+      "https://news.ycombinator.com/item?id=33162971"
+    ],
+    [
+      "The Little Typer – The Beauty of Dependent Type Systems, One Step at a Time",
+      "https://thelittletyper.com/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 13:12:21",
+      "https://news.ycombinator.com/item?id=33162946"
+    ],
+    [
+      "GM created a new energy business to sell batteries and solar panels",
+      "https://www.theverge.com/2022/10/11/23391433/gm-energy-ev-battery-solar-panel-charger-grid-utility"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 13:02:21",
+      "https://news.ycombinator.com/item?id=33162854"
+    ],
+    [
+      "Tell HN: Stytch Login SaaS Unicorn has common auth vulnerabilities",
+      "https://news.ycombinator.com/item?id=33162854"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 12:50:00",
+      "https://news.ycombinator.com/item?id=33162716"
+    ],
+    [
+      "The new GPU world order is beginning to take shape",
+      "https://www.theregister.com/2022/10/11/gpu_intel_nvidia_amd/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 12:10:22",
+      "https://news.ycombinator.com/item?id=33162393"
+    ],
+    [
+      "Pico.js – A face-detection library in 200 lines of JavaScript (2018)",
+      "https://nenadmarkus.com/p/picojs-intro/"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 12:00:56",
       "https://news.ycombinator.com/item?id=33162296"
     ],
@@ -41,6 +91,16 @@
   ],
   [
     [
+      "2022-10-11, 11:49:02",
+      "https://news.ycombinator.com/item?id=33162178"
+    ],
+    [
+      "PostHog Cloud EU",
+      "https://posthog.com/blog/posthog-cloud-eu"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 10:26:53",
       "https://news.ycombinator.com/item?id=33161572"
     ],
@@ -65,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33161118"
     ],
     [
-      "Geothermal May Beat Batteries for Energy Storage",
+      "Geothermal may beat batteries for energy storage",
       "https://spectrum.ieee.org/geothermal-energy"
     ]
   ],
@@ -151,72 +211,12 @@
   ],
   [
     [
-      "2022-10-10, 23:23:59",
-      "https://news.ycombinator.com/item?id=33157558"
-    ],
-    [
-      "U.S. Army Chooses Google Workspace",
-      "https://cloud.google.com/blog/topics/public-sector/us-army-chooses-google-to-deliver-cutting-edge-collaboration"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 22:40:01",
-      "https://news.ycombinator.com/item?id=33157233"
-    ],
-    [
-      "SmooshGate (2021)",
-      "https://developer.chrome.com/blog/smooshgate/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 22:01:38",
-      "https://news.ycombinator.com/item?id=33156918"
-    ],
-    [
-      "Microbes that cause cavities can form superorganisms able to ‘crawl’",
-      "https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 21:43:26",
       "https://news.ycombinator.com/item?id=33156727"
     ],
     [
       "How Wine works 101",
       "https://werat.dev/blog/how-wine-works-101/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 15:19:20",
-      "https://news.ycombinator.com/item?id=33152472"
-    ],
-    [
-      "Improving Firefox Responsiveness on macOS",
-      "https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 04:29:04",
-      "https://news.ycombinator.com/item?id=33147795"
-    ],
-    [
-      "No Laughing Matter",
-      "https://www.historytoday.com/archive/missing-pieces/no-laughing-matter"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 09:51:55",
-      "https://news.ycombinator.com/item?id=33139491"
-    ],
-    [
-      "Running Vacuum Full in Non-Blocking Mode",
-      "https://elephas.io/running-vacuum-full-in-non-blocking-mode/"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2022-10-08, 07:13:07",
-      "https://news.ycombinator.com/item?id=33130440"
+      "2022-10-08, 19:45:52",
+      "https://news.ycombinator.com/item?id=33135368"
     ],
     [
-      "How much faster is making a tar archive without gzip?",
-      "https://lowendbox.com/blog/how-much-faster-is-making-a-tar-archive-without-gzip/"
+      "Easy Fluid Typography with Clamp()",
+      "https://www.smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/"
     ]
   ],
   [
