@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-11, 18:44:41",
+      "https://news.ycombinator.com/item?id=33167393"
+    ],
+    [
+      "Wikimedia is funding political activism",
+      "https://twitter.com/echetus/status/1579776106034757633"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 18:18:42",
       "https://news.ycombinator.com/item?id=33166928"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33165844"
     ],
     [
-      "What diversity and inclusion means at Microsoft",
+      "What “diversity and inclusion” means at Microsoft",
       "https://www.cspicenter.com/p/what-diversity-and-inclusion-means"
     ]
   ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2022-10-11, 11:59:50",
+      "https://news.ycombinator.com/item?id=33162283"
+    ],
+    [
+      "Eliminating Format from Lisp (2003)",
+      "http://cs-www.cs.yale.edu/homes/dvm/format-stinks.html"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 11:58:08",
       "https://news.ycombinator.com/item?id=33162259"
     ],
@@ -217,6 +237,16 @@
     [
       "Blender: Wayland Support on Linux",
       "https://code.blender.org/2022/10/wayland-support-on-linux/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 09:43:14",
+      "https://news.ycombinator.com/item?id=33161267"
+    ],
+    [
+      "Time-restricted eating reduces visceral fat and improves metabolic syndrome",
+      "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00332-9"
     ]
   ],
   [
@@ -251,52 +281,22 @@
   ],
   [
     [
+      "2022-10-09, 00:11:58",
+      "https://news.ycombinator.com/item?id=33137225"
+    ],
+    [
+      "Simulating Wind on Procedural Terrain Using Lattice Boltzmann Method",
+      "https://nickmcd.me/2022/10/01/procedural-wind-and-clouds-using-gpu-accelerated-lattice-boltzmann-method/"
+    ]
+  ],
+  [
+    [
       "2022-10-08, 23:09:13",
       "https://news.ycombinator.com/item?id=33136914"
     ],
     [
       "Ali Cehreli Introduces Dlang at Northeastern U",
       "https://www.youtube.com/watch?v=0JL9uT_XGZE"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 22:25:24",
-      "https://news.ycombinator.com/item?id=33127597"
-    ],
-    [
-      "Spanish airline reserves 10 Airlander airships",
-      "https://www.bbc.com/news/uk-england-beds-bucks-herts-61811535"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 17:15:49",
-      "https://news.ycombinator.com/item?id=33124222"
-    ],
-    [
-      "Researchers develop thermoformable ceramics, 'a new frontier in materials'",
-      "https://phys.org/news/2022-10-thermoformable-ceramics-frontier-materials.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 15:59:33",
-      "https://news.ycombinator.com/item?id=33123096"
-    ],
-    [
-      "Why load fs:[0x18] and then dereference instead of loading fs:[n]?",
-      "https://devblogs.microsoft.com/oldnewthing/20220919-00/?p=107195"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 15:21:17",
-      "https://news.ycombinator.com/item?id=33122551"
-    ],
-    [
-      "Can we end megafires? These companies are trying to",
-      "https://www.fastcompany.com/90793546/can-we-end-megafires-these-companies-are-trying-to"
     ]
   ]
 ]
