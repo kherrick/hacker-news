@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-11, 16:38:41",
+      "https://news.ycombinator.com/item?id=33165485"
+    ],
+    [
+      "Layout Breakouts with CSS Grid",
+      "https://ryanmulligan.dev/blog/layout-breakouts/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 16:10:10",
+      "https://news.ycombinator.com/item?id=33165140"
+    ],
+    [
+      "/r/StableDiffusion – Mod here – My side of the story",
+      "https://old.reddit.com/r/StableDiffusion/comments/y19kdh/mod_here_my_side_of_the_story/"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 16:07:38",
       "https://news.ycombinator.com/item?id=33165098"
     ],
     [
-      "Elm at a Billion Dollar Company with Vendr CTO Aaron White",
+      "Elm at a Billion Dollar Company with Vendr CTO Aaron White [audio]",
       "https://elm-radio.com/episode/elm-at-a-billion-dollar-company/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 16:05:22",
+      "https://news.ycombinator.com/item?id=33165076"
+    ],
+    [
+      "Protect your privacy and your phone number with Firefox Relay",
+      "https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Black Holes May Hide a Mind-Bending Secret About Our Universe",
       "https://www.nytimes.com/2022/10/10/science/black-holes-cosmology-hologram.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 15:20:21",
-      "https://news.ycombinator.com/item?id=33164407"
-    ],
-    [
-      "12 Factor App Revisited",
-      "https://architecturenotes.co/12-factor-app-revisited/"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33163930"
     ],
     [
-      "Why you should never pay for online dating (OkCupid) (2010)",
+      "Never pay for online dating (2010)",
       "https://web.archive.org/web/20100821041938/http://blog.okcupid.com/index.php/why-you-should-never-pay-for-online-dating/"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33162971"
     ],
     [
-      "The Little Typer – The Beauty of Dependent Type Systems, One Step at a Time",
+      "The Little Typer (2018)",
       "https://thelittletyper.com/"
     ]
   ],
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2022-10-11, 02:14:32",
-      "https://news.ycombinator.com/item?id=33158711"
-    ],
-    [
-      "Making an ML Invisibility Cloak",
-      "https://www.cs.umd.edu/~tomg/projects/invisible/"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 01:38:40",
-      "https://news.ycombinator.com/item?id=33158475"
-    ],
-    [
-      "Vectis IP Announces Call for Patents Essential to the Opus codec",
-      "https://www.vectis.com/media/vectis-ip-announces-call-for-patents-essential-to-the-opus-codec"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 18:13:27",
       "https://news.ycombinator.com/item?id=33154639"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-10-07, 15:13:12",
-      "https://news.ycombinator.com/item?id=33122448"
+      "2022-10-07, 15:21:17",
+      "https://news.ycombinator.com/item?id=33122551"
     ],
     [
-      "Artificial superstrong silkworm silk surpasses natural spider silks",
-      "https://www.cell.com/matter/fulltext/S2590-2385(22)00517-3"
+      "Can we end megafires? These companies are trying to",
+      "https://www.fastcompany.com/90793546/can-we-end-megafires-these-companies-are-trying-to"
     ]
   ]
 ]
