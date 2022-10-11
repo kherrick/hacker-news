@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-10-10, 18:44:08",
-      "https://news.ycombinator.com/item?id=33155016"
-    ],
-    [
-      "New Patterns for Apps",
-      "https://web.dev/new-patterns-for-amazing-apps/"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 16:26:54",
       "https://news.ycombinator.com/item?id=33153350"
     ],
@@ -227,6 +217,16 @@
     [
       "Improving Firefox Responsiveness on macOS",
       "https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/"
+    ]
+  ],
+  [
+    [
+      "2022-10-09, 09:51:55",
+      "https://news.ycombinator.com/item?id=33139491"
+    ],
+    [
+      "Running Vacuum Full in Non-Blocking Mode",
+      "https://elephas.io/running-vacuum-full-in-non-blocking-mode/"
     ]
   ],
   [
