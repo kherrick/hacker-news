@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-11, 12:00:56",
+      "https://news.ycombinator.com/item?id=33162296"
+    ],
+    [
+      "Reflect (YC S20) is hiring a software engineer",
+      "https://www.ycombinator.com/companies/reflect/jobs/Bdo0cAY-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 11:59:50",
+      "https://news.ycombinator.com/item?id=33162283"
+    ],
+    [
+      "Eliminating Format from Lisp (2003)",
+      "http://cs-www.cs.yale.edu/homes/dvm/format-stinks.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 11:58:08",
+      "https://news.ycombinator.com/item?id=33162259"
+    ],
+    [
+      "Linux NILFS file system: automatic continuous snapshots",
+      "https://dataswamp.org/~solene/2022-10-05-linux-nilfs-filesystem.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 11:56:15",
+      "https://news.ycombinator.com/item?id=33162235"
+    ],
+    [
+      "Joe Rogan Interviews Steve Jobs",
+      "https://podcast.ai/"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 10:26:53",
       "https://news.ycombinator.com/item?id=33161572"
     ],
@@ -17,16 +57,6 @@
     [
       "Time-restricted eating reduces visceral fat and improves metabolic syndrome",
       "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00332-9"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 09:27:14",
-      "https://news.ycombinator.com/item?id=33161158"
-    ],
-    [
-      "Ask HN: So, where is the ARM desktop PC?",
-      "https://news.ycombinator.com/item?id=33161158"
     ]
   ],
   [
@@ -51,32 +81,12 @@
   ],
   [
     [
-      "2022-10-11, 07:12:18",
-      "https://news.ycombinator.com/item?id=33160321"
-    ],
-    [
-      "“This removes a.out support globally”",
-      "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=12ed00ba01abf39e0869c02ccdde5e24a357466b"
-    ]
-  ],
-  [
-    [
       "2022-10-11, 07:04:50",
       "https://news.ycombinator.com/item?id=33160274"
     ],
     [
       "Private Prisons Are Behind the Push for Homeless Criminalization",
       "https://invisiblepeople.tv/private-prisons-for-homeless-criminalization/"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 07:00:22",
-      "https://news.ycombinator.com/item?id=33160250"
-    ],
-    [
-      "Deepnote (YC S19) is hiring to build a better data science notebook (Europe)",
-      "https://deepnote.com/join-us"
     ]
   ],
   [
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33157609"
     ],
     [
-      "Science is the belief in the ignorance of experts",
+      "Science is the belief in the ignorance of experts (2020)",
       "https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts/"
     ]
   ],
@@ -177,26 +187,6 @@
     [
       "How Wine works 101",
       "https://werat.dev/blog/how-wine-works-101/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 20:41:19",
-      "https://news.ycombinator.com/item?id=33156170"
-    ],
-    [
-      "Do central banks’ mounting losses actually matter?",
-      "https://www.ft.com/content/ddc5d867-59fe-4c9b-a588-4066304318b6"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 20:37:16",
-      "https://news.ycombinator.com/item?id=33156130"
-    ],
-    [
-      "Show HN: Satori – Convert HTML and CSS to SVG",
-      "https://github.com/vercel/satori"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "JEP draft: 64 bit object headers",
       "https://openjdk.org/jeps/8294992"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 22:25:24",
+      "https://news.ycombinator.com/item?id=33127597"
+    ],
+    [
+      "Spanish airline reserves 10 Airlander airships",
+      "https://www.bbc.com/news/uk-england-beds-bucks-herts-61811535"
     ]
   ],
   [
