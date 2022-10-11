@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-10-11, 17:30:55",
+      "https://news.ycombinator.com/item?id=33166188"
+    ],
+    [
+      "How to read variables optimized out in GDB?",
+      "http://luajit.io:80/post/2022/gdb-black-magics/"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 17:22:03",
       "https://news.ycombinator.com/item?id=33166054"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33165777"
     ],
     [
-      "That Snapper You’re Eating Might Be 80 Years Old",
+      "That snapper might be 80 years old",
       "https://nautil.us/that-snapper-youre-eating-might-be-80-years-old-241392/"
     ]
   ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2022-10-11, 16:05:22",
-      "https://news.ycombinator.com/item?id=33165076"
-    ],
-    [
-      "Protect your privacy and your phone number with Firefox Relay",
-      "https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/"
-    ]
-  ],
-  [
-    [
       "2022-10-11, 15:55:09",
       "https://news.ycombinator.com/item?id=33164922"
     ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33164642"
     ],
     [
-      "Black Holes May Hide a Mind-Bending Secret About Our Universe",
+      "Speculation that wormholes and entanglement are two aspects of the same thing",
       "https://www.nytimes.com/2022/10/10/science/black-holes-cosmology-hologram.html"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33136914"
     ],
     [
-      "Ali Cehreli Introduces Dlang at Northeastern U",
+      "Introduction to Dlang [video]",
       "https://www.youtube.com/watch?v=0JL9uT_XGZE"
     ]
   ]
