@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-11, 02:53:57",
+      "https://news.ycombinator.com/item?id=33158947"
+    ],
+    [
+      "Ask HN: How did you stop drinking?",
+      "https://news.ycombinator.com/item?id=33158947"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 02:34:40",
+      "https://news.ycombinator.com/item?id=33158848"
+    ],
+    [
+      "Why did I use Tauri to build PrettyClean, a macOS disk cleanup tool",
+      "https://www.prettyclean.cc/posts/why-i-used-tauri-to-build-the-prettyclean"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 01:59:45",
+      "https://news.ycombinator.com/item?id=33158622"
+    ],
+    [
+      "Ask HN: Why Hasn't the Doomsday Clock Advanced?",
+      "https://news.ycombinator.com/item?id=33158622"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 23:23:59",
       "https://news.ycombinator.com/item?id=33157558"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33157233"
     ],
     [
-      "SmooshGate",
+      "SmooshGate (2021)",
       "https://developer.chrome.com/blog/smooshgate/"
     ]
   ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2022-10-10, 17:05:01",
-      "https://news.ycombinator.com/item?id=33153866"
-    ],
-    [
-      "Show HN: Linkidex – save and sort the URLs you care about",
-      "https://linkidex.com/"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 17:01:14",
       "https://news.ycombinator.com/item?id=33153816"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-10-10, 14:39:29",
-      "https://news.ycombinator.com/item?id=33151959"
-    ],
-    [
-      "We should measure well-being instead of failing to measure economic productivity",
-      "https://bengoertzel.substack.com/p/we-should-be-measuring-well-being"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 14:12:20",
       "https://news.ycombinator.com/item?id=33151658"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2022-10-10, 12:00:30",
-      "https://news.ycombinator.com/item?id=33150272"
+      "2022-10-08, 17:25:19",
+      "https://news.ycombinator.com/item?id=33134184"
     ],
     [
-      "Archaeologists dig up 1,400-year-old Native American canal in Alabama",
-      "https://www.smithsonianmag.com/science-nature/archaeologists-dig-up-1400-year-old-native-american-canal-in-alabama-180980742/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 11:58:18",
-      "https://news.ycombinator.com/item?id=33150260"
-    ],
-    [
-      "I made a guitar tuner app using Flutter and Rust",
-      "https://justune.eu"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 11:30:21",
-      "https://news.ycombinator.com/item?id=33150086"
-    ],
-    [
-      "Show HN: I built a site that lets users find playlists by songs they contain",
-      "https://playlists.dags.dev/"
+      "Sensisble Soccer",
+      "https://www.sensiblesoccer.de/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Smartcard: Roland Moreno's Ubiquitous Invention",
       "https://artsandculture.google.com/story/roland-moreno-s-ubiquitous-invention-archives-moreno/IgVxBPG64UEjJw?hl=en"
+    ]
+  ],
+  [
+    [
+      "2022-10-08, 07:13:07",
+      "https://news.ycombinator.com/item?id=33130440"
+    ],
+    [
+      "How Much Faster Is Making a Tar Archive Without Gzip?",
+      "https://lowendbox.com/blog/how-much-faster-is-making-a-tar-archive-without-gzip/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2022-10-07, 20:44:54",
-      "https://news.ycombinator.com/item?id=33126664"
-    ],
-    [
-      "Blogless – Writing articles online without a blog (2021)",
-      "https://blogless.datenbrei.de/"
-    ]
-  ],
-  [
-    [
       "2022-10-07, 16:53:39",
       "https://news.ycombinator.com/item?id=33123895"
     ],
     [
       "Expectations of professional software engineers",
       "https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 15:13:12",
+      "https://news.ycombinator.com/item?id=33122448"
+    ],
+    [
+      "Artificial superstrong silkworm silk surpasses natural spider silks",
+      "https://www.cell.com/matter/fulltext/S2590-2385(22)00517-3"
     ]
   ]
 ]
