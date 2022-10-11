@@ -1,32 +1,22 @@
 [
   [
     [
-      "2022-10-11, 02:53:57",
-      "https://news.ycombinator.com/item?id=33158947"
+      "2022-10-11, 02:39:42",
+      "https://news.ycombinator.com/item?id=33158877"
     ],
     [
-      "Ask HN: How did you stop drinking?",
-      "https://news.ycombinator.com/item?id=33158947"
+      "Human Motion Diffusion Model",
+      "https://github.com/GuyTevet/motion-diffusion-model"
     ]
   ],
   [
     [
-      "2022-10-11, 02:34:40",
-      "https://news.ycombinator.com/item?id=33158848"
+      "2022-10-11, 01:38:40",
+      "https://news.ycombinator.com/item?id=33158475"
     ],
     [
-      "Why did I use Tauri to build PrettyClean, a macOS disk cleanup tool",
-      "https://www.prettyclean.cc/posts/why-i-used-tauri-to-build-the-prettyclean"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 01:59:45",
-      "https://news.ycombinator.com/item?id=33158622"
-    ],
-    [
-      "Ask HN: Why Hasn't the Doomsday Clock Advanced?",
-      "https://news.ycombinator.com/item?id=33158622"
+      "Fraunhoffer and Dolby trying to collect royalties on the Opus codec",
+      "https://www.vectis.com/media/vectis-ip-announces-call-for-patents-essential-to-the-opus-codec"
     ]
   ],
   [
@@ -61,16 +51,6 @@
   ],
   [
     [
-      "2022-10-10, 22:36:19",
-      "https://news.ycombinator.com/item?id=33157199"
-    ],
-    [
-      "Wine 101: The Beginners Guide to Wine",
-      "https://bartendinglicensehelp.com/wine-101/"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 22:01:38",
       "https://news.ycombinator.com/item?id=33156918"
     ],
@@ -85,8 +65,18 @@
       "https://news.ycombinator.com/item?id=33156727"
     ],
     [
-      "How Wine Works 101",
+      "How Wine works 101",
       "https://werat.dev/blog/how-wine-works-101/"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 21:19:11",
+      "https://news.ycombinator.com/item?id=33156504"
+    ],
+    [
+      "I Was a Bank Robber Until I Read Kant (2018)",
+      "https://thewalrus.ca/i-was-a-bank-robber-until-i-read-kant/"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2022-10-10, 14:39:29",
+      "https://news.ycombinator.com/item?id=33151959"
+    ],
+    [
+      "We should measure well-being instead of failing to measure economic productivity",
+      "https://bengoertzel.substack.com/p/we-should-be-measuring-well-being"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 14:12:20",
       "https://news.ycombinator.com/item?id=33151658"
     ],
@@ -217,16 +217,6 @@
     [
       "Ray Tracing in Notepad.exe at 30 FPS (2020)",
       "http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 12:45:55",
-      "https://news.ycombinator.com/item?id=33150642"
-    ],
-    [
-      "Starting a food co-op: Year 1",
-      "https://quaran.to/starting-a-food-co-op-year-1"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=33130440"
     ],
     [
-      "How Much Faster Is Making a Tar Archive Without Gzip?",
+      "How much faster is making a tar archive without gzip?",
       "https://lowendbox.com/blog/how-much-faster-is-making-a-tar-archive-without-gzip/"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Emulation on the M1 iPad Air [video]",
       "https://www.youtube.com/watch?v=rnr-RglMuu8"
+    ]
+  ],
+  [
+    [
+      "2022-10-08, 05:40:47",
+      "https://news.ycombinator.com/item?id=33130060"
+    ],
+    [
+      "Command line and local web note‑taking, bookmarking, archiving application",
+      "https://xwmx.github.io/nb/"
     ]
   ],
   [
