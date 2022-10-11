@@ -1,6 +1,66 @@
 [
   [
     [
+      "2022-10-11, 17:38:17",
+      "https://news.ycombinator.com/item?id=33166291"
+    ],
+    [
+      "Meta Quest Pro",
+      "https://www.meta.com/quest/quest-pro/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 17:05:37",
+      "https://news.ycombinator.com/item?id=33165844"
+    ],
+    [
+      "What diversity and inclusion means at Microsoft",
+      "https://www.cspicenter.com/p/what-diversity-and-inclusion-means"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 17:04:47",
+      "https://news.ycombinator.com/item?id=33165836"
+    ],
+    [
+      "I wish my web server were in the corner of my room",
+      "https://interconnected.org/home/2022/10/10/servers"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 17:04:31",
+      "https://news.ycombinator.com/item?id=33165831"
+    ],
+    [
+      "Apple introduces Ask Apple for developers",
+      "https://www.apple.com/newsroom/2022/10/apple-introduces-ask-apple-for-developers/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 17:02:44",
+      "https://news.ycombinator.com/item?id=33165804"
+    ],
+    [
+      "The Coffee Maker That Ate My Kitchen",
+      "https://www.wsj.com/articles/coffee-maker-ate-my-kitchen-11664898094"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 17:00:57",
+      "https://news.ycombinator.com/item?id=33165777"
+    ],
+    [
+      "That Snapper You’re Eating Might Be 80 Years Old",
+      "https://nautil.us/that-snapper-youre-eating-might-be-80-years-old-241392/"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 16:38:41",
       "https://news.ycombinator.com/item?id=33165485"
     ],
@@ -17,16 +77,6 @@
     [
       "/r/StableDiffusion – Mod here – My side of the story",
       "https://old.reddit.com/r/StableDiffusion/comments/y19kdh/mod_here_my_side_of_the_story/"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 16:07:38",
-      "https://news.ycombinator.com/item?id=33165098"
-    ],
-    [
-      "Elm at a Billion Dollar Company with Vendr CTO Aaron White [audio]",
-      "https://elm-radio.com/episode/elm-at-a-billion-dollar-company/"
     ]
   ],
   [
@@ -71,32 +121,12 @@
   ],
   [
     [
-      "2022-10-11, 15:10:25",
-      "https://news.ycombinator.com/item?id=33164284"
-    ],
-    [
-      "France looks into increasing uranium enrichment capacity",
-      "https://www.world-nuclear-news.org/Articles/France-looks-into-increasing-uranium-enrichment-ca"
-    ]
-  ],
-  [
-    [
       "2022-10-11, 14:43:14",
       "https://news.ycombinator.com/item?id=33163930"
     ],
     [
       "Never pay for online dating (2010)",
       "https://web.archive.org/web/20100821041938/http://blog.okcupid.com/index.php/why-you-should-never-pay-for-online-dating/"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 14:26:17",
-      "https://news.ycombinator.com/item?id=33163751"
-    ],
-    [
-      "Ask HN: Best free text-to-speech plugins for browsers?",
-      "https://news.ycombinator.com/item?id=33163751"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2022-10-11, 09:43:14",
-      "https://news.ycombinator.com/item?id=33161267"
-    ],
-    [
-      "Time-restricted eating reduces visceral fat and improves metabolic syndrome",
-      "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00332-9"
-    ]
-  ],
-  [
-    [
       "2022-10-11, 09:21:43",
       "https://news.ycombinator.com/item?id=33161118"
     ],
     [
       "Geothermal may beat batteries for energy storage",
       "https://spectrum.ieee.org/geothermal-energy"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 07:04:50",
-      "https://news.ycombinator.com/item?id=33160274"
-    ],
-    [
-      "Private Prisons Are Behind the Push for Homeless Criminalization",
-      "https://invisiblepeople.tv/private-prisons-for-homeless-criminalization/"
     ]
   ],
   [
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2022-10-08, 21:01:47",
-      "https://news.ycombinator.com/item?id=33135973"
-    ],
-    [
-      "The Man Who Stole the Mona Lisa and Took It to Italy",
-      "https://www.nytimes.com/2022/10/07/arts/design/mona-lisa-vincenzo-peruggia.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 05:40:47",
-      "https://news.ycombinator.com/item?id=33130060"
-    ],
-    [
-      "Command line and local web note‑taking, bookmarking, archiving application",
-      "https://xwmx.github.io/nb/"
-    ]
-  ],
-  [
-    [
       "2022-10-07, 22:25:24",
       "https://news.ycombinator.com/item?id=33127597"
     ],
@@ -287,6 +277,16 @@
     [
       "Researchers develop thermoformable ceramics, 'a new frontier in materials'",
       "https://phys.org/news/2022-10-thermoformable-ceramics-frontier-materials.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-07, 15:59:33",
+      "https://news.ycombinator.com/item?id=33123096"
+    ],
+    [
+      "Why load fs:[0x18] and then dereference instead of loading fs:[n]?",
+      "https://devblogs.microsoft.com/oldnewthing/20220919-00/?p=107195"
     ]
   ],
   [
