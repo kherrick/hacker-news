@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-10-11, 07:12:18",
+      "https://news.ycombinator.com/item?id=33160321"
+    ],
+    [
+      "“This removes a.out support globally”",
+      "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=12ed00ba01abf39e0869c02ccdde5e24a357466b"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 07:04:50",
       "https://news.ycombinator.com/item?id=33160274"
     ],
@@ -187,16 +197,6 @@
     [
       "Show HN: Satori – Convert HTML and CSS to SVG",
       "https://github.com/vercel/satori"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 18:48:27",
-      "https://news.ycombinator.com/item?id=33155074"
-    ],
-    [
-      "Show HN: InvokeAI, an open source Stable Diffusion toolkit and WebUI",
-      "https://github.com/invoke-ai/InvokeAI"
     ]
   ],
   [
