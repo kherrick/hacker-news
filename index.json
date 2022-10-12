@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-12, 22:30:22",
+      "https://news.ycombinator.com/item?id=33184542"
+    ],
+    [
+      "Falsification of Atmospheric CO2 Greenhouse Effects Within the Frame of Physics",
+      "https://arxiv.org/abs/0707.1161"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 21:00:05",
       "https://news.ycombinator.com/item?id=33183069"
     ],
@@ -57,16 +67,6 @@
     [
       "JDK 20 will introduce float16 conversion methods",
       "https://download.java.net/java/early_access/jdk20/docs/api/java.base/java/lang/Float.html#float16ToFloat(short)"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 19:58:51",
-      "https://news.ycombinator.com/item?id=33182223"
-    ],
-    [
-      "Alex Jones told to pay $965M damages to Sandy Hook victims' families",
-      "https://www.bbc.co.uk/news/world-us-canada-63237092"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2022-10-12, 03:28:32",
-      "https://news.ycombinator.com/item?id=33172448"
-    ],
-    [
-      "How Brian Eno Created Ambient 1: Music for Airports",
-      "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/"
-    ]
-  ],
-  [
-    [
       "2022-10-11, 23:26:46",
       "https://news.ycombinator.com/item?id=33170608"
     ],
     [
       "Intel plans thousands of job cuts in face of PC slowdown",
       "https://www.bloomberg.com/news/articles/2022-10-11/intel-is-planning-thousands-of-job-cuts-in-face-of-pc-slowdown"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 11:58:58",
+      "https://news.ycombinator.com/item?id=33162275"
+    ],
+    [
+      "Hegel – An advanced static type checker for JavaScript",
+      "https://hegel.js.org/"
     ]
   ],
   [
