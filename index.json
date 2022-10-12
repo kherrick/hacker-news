@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-12, 07:45:35",
+      "https://news.ycombinator.com/item?id=33174046"
+    ],
+    [
+      "The State of AWS Security",
+      "https://www.datadoghq.com/state-of-aws-security/"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 06:21:42",
       "https://news.ycombinator.com/item?id=33173531"
     ],
@@ -25,8 +35,18 @@
       "https://news.ycombinator.com/item?id=33173443"
     ],
     [
-      "Seven Sins of Numerical Linear Algebra",
+      "Seven sins of numerical linear algebra",
       "https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 06:02:58",
+      "https://news.ycombinator.com/item?id=33173433"
+    ],
+    [
+      "The number of comparisons needed to sort a shuffled array: qsort vs. std:sort",
+      "https://lemire.me/blog/2022/10/11/the-number-of-comparisons-needed-to-sort-a-shuffled-array-qsort-versus-stdsort/"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "Software and Anarchy (2021) [pdf]",
       "https://applied-langua.ge/software-and-anarchy.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 03:28:32",
+      "https://news.ycombinator.com/item?id=33172448"
+    ],
+    [
+      "How Brian Eno Created Ambient 1: Music for Airports",
+      "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/"
     ]
   ],
   [
@@ -55,8 +85,18 @@
       "https://news.ycombinator.com/item?id=33172326"
     ],
     [
-      "The Genius Who Convinced Mark Cuban to Sell Drugs",
+      "The doctor who convinced Mark Cuban to sell drugs",
       "https://www.dmagazine.com/publications/d-magazine/2022/october/mark-cuban-cost-plus-drugs-alex-oshmyansky/"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 01:33:27",
+      "https://news.ycombinator.com/item?id=33171651"
+    ],
+    [
+      "Ocean plastics: How much do rich countries contribute by shipping their waste?",
+      "https://ourworldindata.org/plastic-waste-trade"
     ]
   ],
   [
@@ -191,42 +231,12 @@
   ],
   [
     [
-      "2022-10-11, 17:22:03",
-      "https://news.ycombinator.com/item?id=33166054"
-    ],
-    [
-      "Aerc – a pretty good (terminal) email client",
-      "https://aerc-mail.org/"
-    ]
-  ],
-  [
-    [
       "2022-10-11, 17:04:47",
       "https://news.ycombinator.com/item?id=33165836"
     ],
     [
       "I wish my web server were in the corner of my room",
       "https://interconnected.org/home/2022/10/10/servers"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 16:43:01",
-      "https://news.ycombinator.com/item?id=33165540"
-    ],
-    [
-      "Xpra: Multi-platform screen and application forwarding system for x11",
-      "https://xpra.org/"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 11:59:50",
-      "https://news.ycombinator.com/item?id=33162283"
-    ],
-    [
-      "Eliminating FORMAT from Lisp (2003)",
-      "http://cs-www.cs.yale.edu/homes/dvm/format-stinks.html"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=33137433"
     ],
     [
-      "Leap Technology [video]",
+      "Leap Technology (1987) [video]",
       "https://www.youtube.com/watch?v=o_TlE_U_X3c"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The Trouble with Startup Accelerators",
       "https://www.axios.com/2022/10/08/on-deck-startup-accelerator-slump"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 15:55:06",
-      "https://news.ycombinator.com/item?id=33133350"
-    ],
-    [
-      "Antikythera Mechanism: Evidence of a Lunar Calendar (2020)",
-      "https://bhi.co.uk/antikytheramechanism/"
     ]
   ]
 ]
