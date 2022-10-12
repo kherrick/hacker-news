@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-10-12, 01:23:49",
+      "https://news.ycombinator.com/item?id=33171572"
+    ],
+    [
+      "Brex layoffs",
+      "https://www.brex.com/journal/message-from-pedro"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 00:40:38",
+      "https://news.ycombinator.com/item?id=33171214"
+    ],
+    [
+      "How to Prove You Know a Secret Without Giving It Away",
+      "https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 00:11:35",
       "https://news.ycombinator.com/item?id=33170988"
     ],
     [
-      "Valve Employee Handbook [pdf]",
+      "Valve Employee Handbook (2012) [pdf]",
       "https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 23:54:47",
+      "https://news.ycombinator.com/item?id=33170842"
+    ],
+    [
+      "Qwik: No hydration, auto lazy-loading, edge-optimized, and fun",
+      "https://qwik.builder.io/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 23:51:42",
+      "https://news.ycombinator.com/item?id=33170810"
+    ],
+    [
+      "GitHub Copilot exposes names in TODO comments",
+      "https://twitter.com/aeolianeth/status/1579980661464895490"
     ]
   ],
   [
@@ -15,18 +55,18 @@
       "https://news.ycombinator.com/item?id=33170550"
     ],
     [
-      "Authors’ names have ‘astonishing’ influence on peer reviewers: Study",
+      "Authors’ names have ‘astonishing’ influence on peer reviewers: study",
       "https://www.nature.com/articles/d41586-022-03256-9"
     ]
   ],
   [
     [
-      "2022-10-11, 22:11:13",
-      "https://news.ycombinator.com/item?id=33169901"
+      "2022-10-11, 22:24:46",
+      "https://news.ycombinator.com/item?id=33170044"
     ],
     [
-      "Show HN: Rmt an alternative to rm with trash written in Rust",
-      "https://github.com/AmineZouitine/rmt.rs"
+      "An unexpected revival of Firefox OS",
+      "https://tuxphones.com/capyloon-firefox-os-b2gos-linux/"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33169469"
     ],
     [
-      "If it goes somewhere, it’s a link. If it does something, it’s a button",
+      "When going somewhere does a thing: on links and buttons",
       "https://kilianvalkhof.com/2022/css-html/when-going-somewhere-does-a-thing-on-links-and-buttons/"
     ]
   ],
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33169316"
     ],
     [
-      "Researchers Find ‘Significant Rates’ of Sinking Ground in Houston Suburbs",
+      "Researchers find ‘significant rates’ of sinking ground in Houston suburbs",
       "https://uh.edu/news-events/stories/2022-news-articles/october-2022/10112022-houston-subsidence.php"
     ]
   ],
@@ -85,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33168581"
     ],
     [
-      "We built voice modulator to mask gender in tech interviews. Here’s what happened",
+      "We built voice modulator to mask gender in tech interviews",
       "https://blog.interviewing.io/we-built-voice-modulation-to-mask-gender-in-technical-interviews-heres-what-happened/"
     ]
   ],
@@ -107,6 +147,26 @@
     [
       "Understanding HTML with Large Language Models",
       "https://arxiv.org/abs/2210.03945"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 18:51:06",
+      "https://news.ycombinator.com/item?id=33167489"
+    ],
+    [
+      "Switzerland discriminating against men on pension benefits, ECHR finds",
+      "https://www.bbc.com/news/world-europe-63217557"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 17:38:17",
+      "https://news.ycombinator.com/item?id=33166291"
+    ],
+    [
+      "Meta Quest Pro",
+      "https://www.meta.com/quest/quest-pro/"
     ]
   ],
   [
@@ -151,16 +211,6 @@
   ],
   [
     [
-      "2022-10-11, 16:52:45",
-      "https://news.ycombinator.com/item?id=33165671"
-    ],
-    [
-      "A Memory Safe NTP Implementation",
-      "https://www.memorysafety.org/blog/memory-safe-ntp/"
-    ]
-  ],
-  [
-    [
       "2022-10-11, 16:43:01",
       "https://news.ycombinator.com/item?id=33165540"
     ],
@@ -181,42 +231,12 @@
   ],
   [
     [
-      "2022-10-11, 16:05:22",
-      "https://news.ycombinator.com/item?id=33165076"
-    ],
-    [
-      "Protect your privacy and your phone number with Firefox Relay",
-      "https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/"
-    ]
-  ],
-  [
-    [
       "2022-10-11, 15:55:09",
       "https://news.ycombinator.com/item?id=33164922"
     ],
     [
       "Show HN: Open-Sourcing InboxSDK (YC S11) – Build Apps in Gmail",
       "https://news.ycombinator.com/item?id=33164922"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 15:36:20",
-      "https://news.ycombinator.com/item?id=33164642"
-    ],
-    [
-      "Speculation that wormholes and entanglement are two aspects of the same thing",
-      "https://www.nytimes.com/2022/10/10/science/black-holes-cosmology-hologram.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 13:53:44",
-      "https://news.ycombinator.com/item?id=33163389"
-    ],
-    [
-      "AmigaOS 4.1: Introduction to the Software Development Kit v54.16, part 1",
-      "http://amiga-news.de/en/news/AN-2022-10-00048-EN.html"
     ]
   ],
   [
@@ -231,22 +251,22 @@
   ],
   [
     [
-      "2022-10-11, 12:10:22",
-      "https://news.ycombinator.com/item?id=33162393"
+      "2022-10-09, 20:06:01",
+      "https://news.ycombinator.com/item?id=33144724"
     ],
     [
-      "Pico.js – A face-detection library in 200 lines of JavaScript (2018)",
-      "https://nenadmarkus.com/p/picojs-intro/"
+      "The Curious Case of Norway’s Demon Wall",
+      "https://www.atlasobscura.com/articles/demon-wall-norway"
     ]
   ],
   [
     [
-      "2022-10-11, 11:58:08",
-      "https://news.ycombinator.com/item?id=33162259"
+      "2022-10-09, 03:55:20",
+      "https://news.ycombinator.com/item?id=33138150"
     ],
     [
-      "Linux NILFS file system: automatic continuous snapshots",
-      "https://dataswamp.org/~solene/2022-10-05-linux-nilfs-filesystem.html"
+      "Six Shooter Glue Gun",
+      "http://vijemiller.com/index.php?t=Six_Shooter_Glue_Gun"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Introduction to Dlang [video]",
       "https://www.youtube.com/watch?v=0JL9uT_XGZE"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 19:53:15",
-      "https://news.ycombinator.com/item?id=33135430"
-    ],
-    [
-      "Good Positioning Makes Everything Easier. Here’s how to do it well",
-      "https://every.to/divinations/good-positioning-makes-everything-easier"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 17:02:27",
-      "https://news.ycombinator.com/item?id=33133975"
-    ],
-    [
-      "Wisk Aero: Autonomous Urban Air Mobility",
-      "https://wisk.aero/"
     ]
   ],
   [
