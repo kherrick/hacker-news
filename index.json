@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-10-12, 14:37:31",
+      "https://news.ycombinator.com/item?id=33177631"
+    ],
+    [
+      "Withdrawal of OpenSSL 3.0.6 and 1.1.1r",
+      "https://mta.openssl.org/pipermail/openssl-announce/2022-October/000237.html"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 14:37:16",
       "https://news.ycombinator.com/item?id=33177629"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2022-10-12, 13:53:43",
-      "https://news.ycombinator.com/item?id=33176996"
+      "2022-10-12, 13:48:44",
+      "https://news.ycombinator.com/item?id=33176928"
     ],
     [
-      "AI Language Models Are Struggling to “Get” Math",
-      "https://spectrum.ieee.org/large-language-models-math"
+      "GHC 9.4.2 regresses being able to do math on aarch64",
+      "https://gitlab.haskell.org/ghc/ghc/-/issues/22282"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-10-12, 03:12:25",
-      "https://news.ycombinator.com/item?id=33172326"
-    ],
-    [
-      "The doctor who convinced Mark Cuban to sell drugs",
-      "https://www.dmagazine.com/publications/d-magazine/2022/october/mark-cuban-cost-plus-drugs-alex-oshmyansky/"
-    ]
-  ],
-  [
-    [
       "2022-10-12, 01:33:27",
       "https://news.ycombinator.com/item?id=33171651"
     ],
@@ -217,6 +217,16 @@
     [
       "Authors’ names have ‘astonishing’ influence on peer reviewers: study",
       "https://www.nature.com/articles/d41586-022-03256-9"
+    ]
+  ],
+  [
+    [
+      "2022-10-09, 22:41:12",
+      "https://news.ycombinator.com/item?id=33146017"
+    ],
+    [
+      "An Australian startup is “growing” water for drought-parched California",
+      "https://www.cbsnews.com/news/an-australian-startup-is-growing-water-for-drought-parched-california/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A supernova star that erupted continuously for about 1,000 days",
       "https://en.wikipedia.org/wiki/IPTF14hls"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 17:02:36",
-      "https://news.ycombinator.com/item?id=33133979"
-    ],
-    [
-      "The Trouble with Startup Accelerators",
-      "https://www.axios.com/2022/10/08/on-deck-startup-accelerator-slump"
     ]
   ]
 ]
