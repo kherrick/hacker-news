@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-10-12, 18:29:13",
+      "https://news.ycombinator.com/item?id=33181029"
+    ],
+    [
+      "Tinyphysicsengine: Suckless, minimalist KISS 3D C99 single-header physics engine",
+      "https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 18:25:00",
       "https://news.ycombinator.com/item?id=33180960"
     ],
@@ -21,12 +31,32 @@
   ],
   [
     [
+      "2022-10-12, 18:23:25",
+      "https://news.ycombinator.com/item?id=33180934"
+    ],
+    [
+      "Dutch hospital ZGT achieves digital sovereignty with Nextcloud",
+      "https://nextcloud.com/blog/dutch-hospital-zgt-achieves-digital-sovereignty-with-nextcloud/"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 18:18:19",
       "https://news.ycombinator.com/item?id=33180853"
     ],
     [
       "The Rise of Robots Increases Job Insecurity and Maladaptive Workplace Behaviors [pdf]",
       "https://www.apa.org/pubs/journals/releases/apl-apl0001045.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 18:14:07",
+      "https://news.ycombinator.com/item?id=33180796"
+    ],
+    [
+      "Programming a Problem-Oriented Language [pdf]",
+      "http://www.forth.org/POL.pdf"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33180313"
     ],
     [
-      "Intel will lay off 20'000 employees",
+      "Intel will lay off 20k employees",
       "https://www.quicktechnics.com/en/post/intel-will-lay-off-20-000-employees"
     ]
   ],
@@ -77,6 +107,16 @@
     [
       "DevCycle (YC W14) – Feature Flags w/ a built-in Edge Database – Is Hiring Devs",
       "https://devcycle.com/company/careers"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 16:55:28",
+      "https://news.ycombinator.com/item?id=33179730"
+    ],
+    [
+      "Show HN: AI-Generated Photography",
+      "https://nyx.gallery/"
     ]
   ],
   [
@@ -135,7 +175,7 @@
       "https://news.ycombinator.com/item?id=33177980"
     ],
     [
-      "Verifying Distributed Systems with Isabelle/HOL, by Martin Kleppmann",
+      "Verifying distributed systems with Isabelle/HOL",
       "https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html"
     ]
   ],
@@ -157,16 +197,6 @@
     [
       "A New Doorway to the Brain",
       "https://nautil.us/a-new-doorway-to-the-brain-242099/"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 14:37:31",
-      "https://news.ycombinator.com/item?id=33177631"
-    ],
-    [
-      "Withdrawal of OpenSSL 3.0.6 and 1.1.1r",
-      "https://mta.openssl.org/pipermail/openssl-announce/2022-October/000237.html"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2022-10-12, 11:32:15",
-      "https://news.ycombinator.com/item?id=33175439"
-    ],
-    [
-      "Meta Meets Microsoft",
-      "https://stratechery.com/2022/meta-meets-microsoft/"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 11:24:08",
-      "https://news.ycombinator.com/item?id=33175373"
-    ],
-    [
-      "JetBrains invites developers to join the Fleet Public Preview Program",
-      "https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview/"
-    ]
-  ],
-  [
-    [
       "2022-10-12, 06:04:21",
       "https://news.ycombinator.com/item?id=33173443"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2022-10-11, 10:12:32",
+      "https://news.ycombinator.com/item?id=33161473"
+    ],
+    [
+      "How Ted Hoff Invented the First Microprocessor",
+      "https://spectrum.ieee.org/ted-hoff"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 04:30:49",
       "https://news.ycombinator.com/item?id=33147808"
     ],
     [
       "Splinters to splendours: from upcycled glass to Viking beads at Ribe, Denmark",
       "https://link.springer.com/article/10.1007/s12520-022-01646-8"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 20:20:45",
-      "https://news.ycombinator.com/item?id=33144910"
-    ],
-    [
-      "Starlight interstellar probe",
-      "https://en.wikipedia.org/wiki/Starlight_(interstellar_probe)"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Franz Kafka’s Dissenting Bodies",
       "https://www.prospectmagazine.co.uk/arts-and-books/franz-kafkas-dissenting-bodies"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 17:58:59",
-      "https://news.ycombinator.com/item?id=33134463"
-    ],
-    [
-      "A supernova star that erupted continuously for about 1,000 days",
-      "https://en.wikipedia.org/wiki/IPTF14hls"
     ]
   ]
 ]
