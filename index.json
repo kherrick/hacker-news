@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-10-12, 22:30:22",
-      "https://news.ycombinator.com/item?id=33184542"
+      "2022-10-12, 22:11:53",
+      "https://news.ycombinator.com/item?id=33184298"
     ],
     [
-      "Falsification of Atmospheric CO2 Greenhouse Effects Within the Frame of Physics",
-      "https://arxiv.org/abs/0707.1161"
+      "Ask HN: 50yo too old to start software company?",
+      "https://news.ycombinator.com/item?id=33184298"
     ]
   ],
   [
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=33183069"
     ],
     [
-      "Pachyderm Is Hiring Sales Engineers and Solutions Architects",
+      "Pachyderm (YC W15) is hiring sales engineers and solutions architects",
       "https://boards.greenhouse.io/pachyderm/jobs/5237764003"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33182712"
     ],
     [
-      "Google Project Starline expands testing through an early access program",
+      "Project Starline expands testing through an early access program",
       "https://blog.google/technology/research/project-starline-expands-testing/"
     ]
   ],
@@ -55,18 +55,8 @@
       "https://news.ycombinator.com/item?id=33182405"
     ],
     [
-      "The Cumulative Advantage of a Unionized Career for Lifetime Earnings",
+      "The cumulative advantage of a unionized career for lifetime earnings",
       "https://journals.sagepub.com/doi/10.1177/00197939221129261"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 19:59:22",
-      "https://news.ycombinator.com/item?id=33182230"
-    ],
-    [
-      "JDK 20 will introduce float16 conversion methods",
-      "https://download.java.net/java/early_access/jdk20/docs/api/java.base/java/lang/Float.html#float16ToFloat(short)"
     ]
   ],
   [
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33180711"
     ],
     [
-      "Apple to Withhold Its Latest Employee Perks from Unionized Store",
+      "Apple to withhold its latest employee perks from unionized store",
       "https://www.bloomberg.com/news/articles/2022-10-12/apple-to-withhold-its-latest-employee-perks-from-unionized-store"
     ]
   ],
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33161473"
     ],
     [
-      "How Ted Hoff Invented the First Microprocessor",
+      "How Ted Hoff invented the first microprocessor",
       "https://spectrum.ieee.org/ted-hoff"
     ]
   ],
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=33146192"
     ],
     [
-      "What Makes a Champagne Vintage Great? Ask a Deep Learning Model",
+      "What makes a champagne vintage great? Ask a deep learning model",
       "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/"
+    ]
+  ],
+  [
+    [
+      "2022-10-09, 05:16:37",
+      "https://news.ycombinator.com/item?id=33138449"
+    ],
+    [
+      "Fan Noise: The Modeling of Flow and the Reduction of Turbulence (2014) [pdf]",
+      "https://www.acoustics.asn.au/conference_proceedings/INTERNOISE2014/papers/p17.pdf"
     ]
   ]
 ]
