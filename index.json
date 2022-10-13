@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-13, 23:02:31",
+      "https://news.ycombinator.com/item?id=33197603"
+    ],
+    [
+      "Tcl Ported to Go",
+      "https://gitlab.com/cznic/tcl"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 22:31:33",
+      "https://news.ycombinator.com/item?id=33197332"
+    ],
+    [
+      "White House is pushing ahead research to cool Earth by reflecting back sunlight",
+      "https://www.cnbc.com/2022/10/13/what-is-solar-geoengineering-sunlight-reflection-risks-and-benefits.html"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 22:27:07",
       "https://news.ycombinator.com/item?id=33197285"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2022-10-13, 21:34:16",
-      "https://news.ycombinator.com/item?id=33196773"
-    ],
-    [
-      "Replace the “very” in your sentence",
-      "https://www.losethevery.com/"
-    ]
-  ],
-  [
-    [
       "2022-10-13, 20:34:57",
       "https://news.ycombinator.com/item?id=33196146"
     ],
@@ -47,6 +57,16 @@
     [
       "Discovering Azure's unannounced breaking change with Cosmos DB",
       "https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 18:38:15",
+      "https://news.ycombinator.com/item?id=33194773"
+    ],
+    [
+      "A modern Fortran scientific programming ecosystem",
+      "https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html"
     ]
   ],
   [
@@ -81,22 +101,22 @@
   ],
   [
     [
+      "2022-10-13, 15:13:30",
+      "https://news.ycombinator.com/item?id=33192152"
+    ],
+    [
+      "Digging into a QEMU problem of slow data copying",
+      "https://linus.schreibt.jetzt/posts/qemu-9p-performance.html"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 15:07:57",
       "https://news.ycombinator.com/item?id=33192074"
     ],
     [
       "Teenager solves stubborn riddle about prime number look-alikes",
       "https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 14:38:34",
-      "https://news.ycombinator.com/item?id=33191603"
-    ],
-    [
-      "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "https://news.ycombinator.com/item?id=33191603"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Why doesn't Stripe use Stripe Billing?",
       "https://www.getlago.com/blog/is-stripe-using-stripe"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 14:16:37",
-      "https://news.ycombinator.com/item?id=33191266"
-    ],
-    [
-      "A summary of my learnings on how to find startup ideas",
-      "https://liorn.substack.com/p/a-summary-of-my-learnings-on-how"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Obsidian 1.0 – Personal knowledge base app",
       "https://obsidian.md/1.0"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 12:51:24",
-      "https://news.ycombinator.com/item?id=33190295"
-    ],
-    [
-      "Bonfire – working to build safer, more open federated tools and communities",
-      "https://bonfirenetworks.org/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33157527"
     ],
     [
-      "How not to go off the grid",
+      "Users without a cell connection find they can’t get back into their Zipcar",
       "https://www.wsj.com/articles/how-not-to-go-off-the-grid-11665067328"
     ]
   ]
