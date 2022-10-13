@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-13, 17:01:50",
+      "https://news.ycombinator.com/item?id=33193698"
+    ],
+    [
+      "Jitx (YC S18) is hiring a front end engineer",
+      "https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 16:44:54",
+      "https://news.ycombinator.com/item?id=33193471"
+    ],
+    [
+      "OnlyFans lawyers accidentally reveal which Meta execs allegedly took bribes",
+      "https://arstechnica.com/tech-policy/2022/10/onlyfans-lawyers-accidentally-reveal-which-meta-execs-allegedly-took-bribes/"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 16:10:02",
       "https://news.ycombinator.com/item?id=33192956"
     ],
@@ -11,22 +31,12 @@
   ],
   [
     [
-      "2022-10-13, 15:23:59",
-      "https://news.ycombinator.com/item?id=33192295"
+      "2022-10-13, 16:01:55",
+      "https://news.ycombinator.com/item?id=33192846"
     ],
     [
-      "AWS Permission Boundaries for Dummies",
-      "https://www.firemon.com/aws-permission-boundaries-for-dummies/"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 15:23:57",
-      "https://news.ycombinator.com/item?id=33192294"
-    ],
-    [
-      "Ask HN: Why does the media say inflation is up every month?",
-      "https://news.ycombinator.com/item?id=33192294"
+      "DJI drone tracking data exposed in US",
+      "https://cybernews.com/privacy/dji-drone-tracking-data-exposed-in-us/"
     ]
   ],
   [
@@ -51,12 +61,22 @@
   ],
   [
     [
-      "2022-10-13, 14:44:47",
-      "https://news.ycombinator.com/item?id=33191701"
+      "2022-10-13, 15:07:57",
+      "https://news.ycombinator.com/item?id=33192074"
     ],
     [
-      "Ask HN: GDPR in 2022 – What do I need to know as a solo founder?",
-      "https://news.ycombinator.com/item?id=33191701"
+      "Teenager Solves Stubborn Riddle About Prime Number Look-Alikes",
+      "https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 14:38:34",
+      "https://news.ycombinator.com/item?id=33191603"
+    ],
+    [
+      "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "https://news.ycombinator.com/item?id=33191603"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33191254"
     ],
     [
-      "How to succeed at Meta as SWE – focus on metrics, ignore everything else",
+      "How to succeed at Meta",
       "https://www.teamblind.com/post/How-to-succeed-at-Meta-diLQqcTy"
     ]
   ],
@@ -181,36 +201,6 @@
   ],
   [
     [
-      "2022-10-13, 12:08:52",
-      "https://news.ycombinator.com/item?id=33189879"
-    ],
-    [
-      "TSMC Reports Q3 Earnings [pdf]",
-      "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2022-10/a924f47cae2629ecb5f8801629cf7fb8773e5444/3Q22EarningsRelease.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 12:08:16",
-      "https://news.ycombinator.com/item?id=33189871"
-    ],
-    [
-      "SecureDrop 2.5",
-      "https://securedrop.org/news/securedrop-2_5_0-pre-release-announcement/"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 12:00:11",
-      "https://news.ycombinator.com/item?id=33189801"
-    ],
-    [
-      "Finley (YC W21) is fintech software hiring across all teams (US Remote)",
-      "https://www.finleycms.com/careers/"
-    ]
-  ],
-  [
-    [
       "2022-10-13, 11:08:17",
       "https://news.ycombinator.com/item?id=33189503"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2022-10-13, 07:34:56",
-      "https://news.ycombinator.com/item?id=33188276"
-    ],
-    [
-      "PHYS771 Lecture 9: Quantum",
-      "https://www.scottaaronson.com/democritus/lec9.html"
-    ]
-  ],
-  [
-    [
       "2022-10-13, 05:47:12",
       "https://news.ycombinator.com/item?id=33187677"
     ],
     [
       "New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart",
       "https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 15:52:19",
+      "https://news.ycombinator.com/item?id=33178797"
+    ],
+    [
+      "Plane: Per-user backends for web apps",
+      "https://driftingin.space/posts/plane"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Anatomy of Linux Dynamic Libraries",
       "https://developer.ibm.com/tutorials/l-dynamic-libraries/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 12:02:43",
+      "https://news.ycombinator.com/item?id=33162318"
+    ],
+    [
+      "They Called It LISP for a Reason: List Processing (2005)",
+      "https://gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html"
     ]
   ],
   [
