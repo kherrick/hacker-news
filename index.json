@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-13, 05:47:12",
+      "https://news.ycombinator.com/item?id=33187677"
+    ],
+    [
+      "New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart",
+      "https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 03:23:13",
       "https://news.ycombinator.com/item?id=33186789"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-10-12, 18:18:19",
-      "https://news.ycombinator.com/item?id=33180853"
-    ],
-    [
-      "The rise of robots increases job insecurity and maladaptive workplace behaviors [pdf]",
-      "https://www.apa.org/pubs/journals/releases/apl-apl0001045.pdf"
-    ]
-  ],
-  [
-    [
       "2022-10-12, 18:17:42",
       "https://news.ycombinator.com/item?id=33180842"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-10-12, 05:28:10",
+      "https://news.ycombinator.com/item?id=33173213"
+    ],
+    [
+      "A Bug and a Dilemma",
+      "http://steamtraen.blogspot.com/2021/10/a-bug-and-dilemma.html"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 23:26:46",
       "https://news.ycombinator.com/item?id=33170608"
     ],
@@ -257,16 +267,6 @@
     [
       "Hegel – An advanced static type checker for JavaScript",
       "https://hegel.js.org/"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 06:13:26",
-      "https://news.ycombinator.com/item?id=33160028"
-    ],
-    [
-      "Age and Authenticated Encryption",
-      "https://words.filippo.io/dispatches/age-authentication/"
     ]
   ],
   [
