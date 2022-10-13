@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-10-13, 13:09:55",
+      "https://news.ycombinator.com/item?id=33190476"
+    ],
+    [
+      "What influences keyboard input speed",
+      "https://next.wooting.io/post/what-influences-keyboard-speed"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 13:08:03",
+      "https://news.ycombinator.com/item?id=33190456"
+    ],
+    [
+      "PostgreSQL 15",
+      "https://www.postgresql.org/about/news/postgresql-15-released-2526/"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 13:06:07",
+      "https://news.ycombinator.com/item?id=33190433"
+    ],
+    [
+      "Show HN: Obsidian 1.0",
+      "https://obsidian.md/1.0"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 13:03:56",
+      "https://news.ycombinator.com/item?id=33190410"
+    ],
+    [
+      "Consumer Price Index September [pdf]",
+      "https://www.bls.gov/news.release/pdf/cpi.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 12:47:22",
+      "https://news.ycombinator.com/item?id=33190257"
+    ],
+    [
+      "Terminal.Gui: A Cross Platform Terminal UI Toolkit for .NET",
+      "https://github.com/gui-cs/Terminal.Gui"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 12:08:52",
       "https://news.ycombinator.com/item?id=33189879"
     ],
@@ -15,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33189871"
     ],
     [
-      "SecureDrop 2.5.0 – Pre-Release Announcement",
+      "SecureDrop 2.5",
       "https://securedrop.org/news/securedrop-2_5_0-pre-release-announcement/"
     ]
   ],
@@ -31,16 +81,6 @@
   ],
   [
     [
-      "2022-10-13, 11:57:03",
-      "https://news.ycombinator.com/item?id=33189777"
-    ],
-    [
-      "Ask HN: Can you recommend me a fast, light text editor for Windows?",
-      "https://news.ycombinator.com/item?id=33189777"
-    ]
-  ],
-  [
-    [
       "2022-10-13, 11:08:17",
       "https://news.ycombinator.com/item?id=33189503"
     ],
@@ -51,32 +91,12 @@
   ],
   [
     [
-      "2022-10-13, 08:47:27",
-      "https://news.ycombinator.com/item?id=33188705"
-    ],
-    [
-      "Show HN: We Built a Documentation Recommendation System Using Graph Database",
-      "https://memgraph.com/blog/lost-in-documentation-let-our-docs-recommendation-system-guide-you-along"
-    ]
-  ],
-  [
-    [
       "2022-10-13, 08:07:43",
       "https://news.ycombinator.com/item?id=33188484"
     ],
     [
       "Observable transitions to paid plan for private notebooks",
       "https://observablehq.com/@observablehq/hello-pro"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 07:55:26",
-      "https://news.ycombinator.com/item?id=33188420"
-    ],
-    [
-      "Bring your own key was a lie",
-      "https://blog.edgeless.systems/bring-your-own-key-was-a-lie-92587d7c73ec"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart",
       "https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 03:23:13",
-      "https://news.ycombinator.com/item?id=33186789"
-    ],
-    [
-      "Ask HN: Firing an employee under a month before vest?",
-      "https://news.ycombinator.com/item?id=33186789"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-10-13, 00:07:52",
-      "https://news.ycombinator.com/item?id=33185482"
-    ],
-    [
-      "Explanation-Gödel and Plausibility-Gödel",
-      "https://scottaaronson.blog/?p=6754"
-    ]
-  ],
-  [
-    [
       "2022-10-12, 23:20:38",
       "https://news.ycombinator.com/item?id=33185090"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=33185010"
     ],
     [
-      "Using a Framework will harm the maintenance of your software",
+      "Using a framework will harm the maintenance of your software",
       "https://berk.es/2022/09/06/frameworks-harm-maintenance/"
     ]
   ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2022-10-12, 12:37:55",
+      "https://news.ycombinator.com/item?id=33176026"
+    ],
+    [
+      "P5.js – A library to make coding accessible for artists, designers, educators",
+      "https://p5js.org/"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 10:28:33",
       "https://news.ycombinator.com/item?id=33174996"
     ],
     [
       "Anatomy of Linux Dynamic Libraries",
       "https://developer.ibm.com/tutorials/l-dynamic-libraries/"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 08:35:46",
-      "https://news.ycombinator.com/item?id=33174386"
-    ],
-    [
-      "Do you remember Ultima Online?",
-      "https://en.karelkremel.com/do-you-remember-ultima-online/"
     ]
   ],
   [
