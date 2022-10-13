@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-10-13, 13:55:00",
+      "https://news.ycombinator.com/item?id=33190973"
+    ],
+    [
+      "Prusti: Static Analyzer for Rust",
+      "https://github.com/viperproject/prusti-dev"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 13:46:05",
+      "https://news.ycombinator.com/item?id=33190851"
+    ],
+    [
+      "Most PPP loans have been forgiven, despite signs of possible fraud",
+      "https://www.npr.org/2022/10/12/1128207464/ppp-loans-loan-forgiveness-small-business"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 13:24:52",
+      "https://news.ycombinator.com/item?id=33190627"
+    ],
+    [
+      "TikTok is pocketing up to 70% of donations from charitable live streams",
+      "https://www.bbc.com/news/world-63213567"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 13:09:55",
       "https://news.ycombinator.com/item?id=33190476"
     ],
     [
-      "What influences keyboard input speed",
+      "What influences keyboard input speed (2018)",
       "https://next.wooting.io/post/what-influences-keyboard-speed"
     ]
   ],
@@ -41,12 +71,32 @@
   ],
   [
     [
+      "2022-10-13, 12:51:24",
+      "https://news.ycombinator.com/item?id=33190295"
+    ],
+    [
+      "Bonfire – working to build safer, more open federated tools and communities",
+      "https://bonfirenetworks.org/"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 12:47:22",
       "https://news.ycombinator.com/item?id=33190257"
     ],
     [
       "Terminal.Gui: A Cross Platform Terminal UI Toolkit for .NET",
       "https://github.com/gui-cs/Terminal.Gui"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 12:36:42",
+      "https://news.ycombinator.com/item?id=33190148"
+    ],
+    [
+      "Relative popularity of programming languages on Hacker News",
+      "https://blog.senko.net/relative-popularity-of-programming-languages-on-hacker-news"
     ]
   ],
   [
@@ -125,8 +175,8 @@
       "https://news.ycombinator.com/item?id=33188028"
     ],
     [
-      "Nick Clegg identified as Facebook executive accused of accepting bribe",
-      "https://boingboing.net/2022/10/12/former-uk-deputy-prime-minister-nick-clegg-identified-in-court-as-facebook-executive-bribed-by-onlyfans-to-blacklist-rival-adult-entertainers.html"
+      "Meta executives ‘inadvertently’ identified in OnlyFans bribery suit",
+      "https://gizmodo.com/clegg-meta-executives-identified-in-onlyfans-bribery-su-1849649270?rev=1665602961883"
     ]
   ],
   [
@@ -171,46 +221,6 @@
   ],
   [
     [
-      "2022-10-13, 01:10:49",
-      "https://news.ycombinator.com/item?id=33185963"
-    ],
-    [
-      "First signs of a slight decline in secondhand bookshops in Britain",
-      "http://wormwoodiana.blogspot.com/2022/06/first-signs-of-slight-decline-in.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 01:09:46",
-      "https://news.ycombinator.com/item?id=33185955"
-    ],
-    [
-      "Algorithms predict sports teams' moves with 80% accuracy [pdf]",
-      "http://lisc.mae.cornell.edu/LISCpapers/TIST_Action_Junyi22.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 23:20:38",
-      "https://news.ycombinator.com/item?id=33185090"
-    ],
-    [
-      "California man fined for selling maps of property boundaries without a license",
-      "https://www.vice.com/en/article/v7vyj3/california-man-fined-for-drawing-lines-on-existing-maps"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 23:20:24",
-      "https://news.ycombinator.com/item?id=33185086"
-    ],
-    [
-      "Apple II Textfiles",
-      "http://textfiles.com/apple/"
-    ]
-  ],
-  [
-    [
       "2022-10-12, 23:11:23",
       "https://news.ycombinator.com/item?id=33185010"
     ],
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2022-10-12, 12:22:03",
+      "https://news.ycombinator.com/item?id=33175871"
+    ],
+    [
+      "Porting the Solana eBPF JIT Compiler to ARM64",
+      "https://blog.trailofbits.com/2022/10/12/solana-jit-compiler-ebpf-arm64/"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 10:28:33",
       "https://news.ycombinator.com/item?id=33174996"
     ],
@@ -277,26 +297,6 @@
     [
       "Researcher discovers another astronomy book written by Galileo Galilei",
       "https://www.medievalists.net/2022/10/researcher-discovers-another-astronomy-book-written-by-galileo-galilei/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 20:16:30",
-      "https://news.ycombinator.com/item?id=33155945"
-    ],
-    [
-      "George Saunders on the art of the short story",
-      "https://www.goodtimes.sc/george-saunders-on-writing-short/"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 02:53:48",
-      "https://news.ycombinator.com/item?id=33137897"
-    ],
-    [
-      "Programming in BASIC on the TRS-80 (2015)",
-      "https://www.baugues.com/trs-80/"
     ]
   ]
 ]
