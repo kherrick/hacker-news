@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-10-13, 12:08:52",
+      "https://news.ycombinator.com/item?id=33189879"
+    ],
+    [
+      "TSMC Reports Q3 Earnings [pdf]",
+      "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2022-10/a924f47cae2629ecb5f8801629cf7fb8773e5444/3Q22EarningsRelease.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 12:08:16",
+      "https://news.ycombinator.com/item?id=33189871"
+    ],
+    [
+      "SecureDrop 2.5.0 – Pre-Release Announcement",
+      "https://securedrop.org/news/securedrop-2_5_0-pre-release-announcement/"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 12:00:11",
+      "https://news.ycombinator.com/item?id=33189801"
+    ],
+    [
+      "Finley (YC W21) is fintech software hiring across all teams (US Remote)",
+      "https://www.finleycms.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 11:57:03",
+      "https://news.ycombinator.com/item?id=33189777"
+    ],
+    [
+      "Ask HN: Can you recommend me a fast, light text editor for Windows?",
+      "https://news.ycombinator.com/item?id=33189777"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 11:08:17",
       "https://news.ycombinator.com/item?id=33189503"
     ],
     [
       "We are stuck with egrep and fgrep (unless you like beating people)",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 08:47:27",
+      "https://news.ycombinator.com/item?id=33188705"
+    ],
+    [
+      "Show HN: We Built a Documentation Recommendation System Using Graph Database",
+      "https://memgraph.com/blog/lost-in-documentation-let-our-docs-recommendation-system-guide-you-along"
     ]
   ],
   [
@@ -47,16 +97,6 @@
     [
       "PHYS771 Lecture 9: Quantum",
       "https://www.scottaaronson.com/democritus/lec9.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 07:04:59",
-      "https://news.ycombinator.com/item?id=33188094"
-    ],
-    [
-      "Generally Intelligent (YC S17) Is Hiring Simulation Engineers",
-      "https://news.ycombinator.com/item?id=33188094"
     ]
   ],
   [
@@ -181,26 +221,6 @@
   ],
   [
     [
-      "2022-10-12, 20:36:00",
-      "https://news.ycombinator.com/item?id=33182712"
-    ],
-    [
-      "Project Starline expands testing through an early access program",
-      "https://blog.google/technology/research/project-starline-expands-testing/"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 18:34:52",
-      "https://news.ycombinator.com/item?id=33181112"
-    ],
-    [
-      "Students break acceleration world record for electric vehicles",
-      "https://www.uni-stuttgart.de/en/university/news/all/Students-break-acceleration-world-record/"
-    ]
-  ],
-  [
-    [
       "2022-10-12, 18:17:42",
       "https://news.ycombinator.com/item?id=33180842"
     ],
@@ -217,16 +237,6 @@
     [
       "Plane: Per-user backends for web apps",
       "https://driftingin.space/posts/plane"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 15:21:39",
-      "https://news.ycombinator.com/item?id=33178301"
-    ],
-    [
-      "MAR1D: First-Person Mario",
-      "https://mar1d.com/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "George Saunders on the art of the short story",
       "https://www.goodtimes.sc/george-saunders-on-writing-short/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 06:24:11",
-      "https://news.ycombinator.com/item?id=33148393"
-    ],
-    [
-      "Really divisionless random numbers",
-      "https://dotat.at/@/2022-04-20-really-divisionless.html"
     ]
   ],
   [
