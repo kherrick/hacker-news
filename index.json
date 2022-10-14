@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-10-14, 15:09:46",
-      "https://news.ycombinator.com/item?id=33204579"
+      "2022-10-14, 16:28:19",
+      "https://news.ycombinator.com/item?id=33205632"
     ],
     [
-      "Ask HN: Teaching Greybeard IT",
-      "https://news.ycombinator.com/item?id=33204579"
+      "Unlaunching the 12GB 4080",
+      "https://www.nvidia.com/en-us/geforce/news/12gb-4080-unlaunch/"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 16:22:21",
+      "https://news.ycombinator.com/item?id=33205563"
+    ],
+    [
+      "Low Earth Orbit Visualization",
+      "https://platform.leolabs.space/visualization"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 15:59:57",
+      "https://news.ycombinator.com/item?id=33205282"
+    ],
+    [
+      "Show HN: FrankenPHP, an app server for PHP written in Go",
+      "https://frankenphp.dev"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 15:53:04",
+      "https://news.ycombinator.com/item?id=33205181"
+    ],
+    [
+      "Shein owner fined $1.9M for failing to notify 39M users of data breach",
+      "https://techcrunch.com/2022/10/13/shein-zoetop-fined-1-9m-data-breach/"
     ]
   ],
   [
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33204347"
     ],
     [
-      "Litestream doesn't do SQLite replication anymore (LiteFS does)",
+      "Litestream live replication has been moved to the LiteFS project",
       "https://github.com/benbjohnson/litestream/pull/411"
     ]
   ],
@@ -85,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33203423"
     ],
     [
-      "FDIC's Position on the Role of Vacation Policy as an Internal Safeguard (1995)",
+      "Financial Institution Letters: Vacation Policies (1995)",
       "https://www.fdic.gov/news/financial-institution-letters/1995/fil9552.html"
     ]
   ],
@@ -145,7 +175,7 @@
       "https://news.ycombinator.com/item?id=33202753"
     ],
     [
-      "How to Travel: On the cheap, like a local, and without a lot of luggage",
+      "On the cheap, like a local, and without a lot of luggage",
       "https://walkingtheworld.substack.com/p/how-to-travel"
     ]
   ],
@@ -157,16 +187,6 @@
     [
       "Uniform eXchange Format (UXF) – plain text human readable typed storage format",
       "https://github.com/mark-summerfield/uxf"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 11:26:00",
-      "https://news.ycombinator.com/item?id=33202099"
-    ],
-    [
-      "Apple gets $19M fine in Brazil for not selling iPhones with charger",
-      "https://www.engadget.com/apple-19-million-fine-brazil-for-not-selling-phones-with-a-charger-051025019.html"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2022-10-14, 08:09:25",
-      "https://news.ycombinator.com/item?id=33200864"
-    ],
-    [
-      "Why Wasn’t the Steam Engine Invented Earlier?",
-      "https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-76c"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 06:39:35",
-      "https://news.ycombinator.com/item?id=33200294"
-    ],
-    [
-      "A DRAM Failure",
-      "https://www.complang.tuwien.ac.at/anton/failing-memory.html"
-    ]
-  ],
-  [
-    [
       "2022-10-14, 06:14:47",
       "https://news.ycombinator.com/item?id=33200180"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-10-12, 21:54:13",
+      "https://news.ycombinator.com/item?id=33184040"
+    ],
+    [
+      "The Real War 1939-1945 (1989)",
+      "https://www.theatlantic.com/magazine/archive/1989/08/the-real-war-1939-1945/306374/"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 10:35:01",
       "https://news.ycombinator.com/item?id=33175038"
     ],
@@ -287,16 +297,6 @@
     [
       "JEP 431: Sequenced Collections",
       "https://openjdk.org/jeps/431"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 16:26:28",
-      "https://news.ycombinator.com/item?id=33165343"
-    ],
-    [
-      "‘Status and Culture’ Review: Making the Cut",
-      "https://www.wsj.com/articles/status-and-culture-book-review-making-the-cut-11665151509"
     ]
   ]
 ]
