@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2022-10-14, 06:33:53",
-      "https://news.ycombinator.com/item?id=33200271"
-    ],
-    [
-      "Swiss evoting system – IsProbablePrime is incorrect for input 19",
-      "https://gitlab.com/swisspost-evoting/crypto-primitives/crypto-primitives/-/issues/13"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 06:32:28",
-      "https://news.ycombinator.com/item?id=33200261"
-    ],
-    [
-      "Normalising Layoffs/Firing",
-      "https://news.ycombinator.com/item?id=33200261"
-    ]
-  ],
-  [
-    [
       "2022-10-14, 06:32:07",
       "https://news.ycombinator.com/item?id=33200259"
     ],
@@ -45,8 +25,18 @@
       "https://news.ycombinator.com/item?id=33200180"
     ],
     [
-      "Retrowin32: Win32 Emulator",
+      "Retrowin32, a Win32 emulator",
       "https://neugierig.org/software/blog/2022/10/retrowin32.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 06:13:08",
+      "https://news.ycombinator.com/item?id=33200171"
+    ],
+    [
+      "Some remotely exploitable Linux kernel WiFi vulnerabilities",
+      "https://lwn.net/Articles/911062/"
     ]
   ],
   [
@@ -57,6 +47,16 @@
     [
       "Using an Amiga in 2021: Making an intro",
       "https://datagubbe.se/mkdem/"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 02:18:28",
+      "https://news.ycombinator.com/item?id=33198900"
+    ],
+    [
+      "Learning dynamic 3D geometry and texture for video face swapping",
+      "https://studios.disneyresearch.com/2022/10/05/learning-dynamic-3d-geometry-and-texture-for-video-face-swapping/"
     ]
   ],
   [
@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2022-10-14, 00:37:56",
-      "https://news.ycombinator.com/item?id=33198332"
-    ],
-    [
-      "On the Proper Use of Post-Its",
-      "https://tylercipriani.com/blog/2022/05/28/on-the-proper-use-of-post-its/"
-    ]
-  ],
-  [
-    [
       "2022-10-14, 00:35:39",
       "https://news.ycombinator.com/item?id=33198319"
     ],
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2022-10-13, 22:31:33",
+      "https://news.ycombinator.com/item?id=33197332"
+    ],
+    [
+      "White House is pushing ahead research to cool Earth by reflecting back sunlight",
+      "https://www.cnbc.com/2022/10/13/what-is-solar-geoengineering-sunlight-reflection-risks-and-benefits.html"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 22:27:07",
       "https://news.ycombinator.com/item?id=33197285"
     ],
@@ -147,6 +147,16 @@
     [
       "Heaviest element yet detected in an exoplanet atmosphere",
       "https://www.eso.org/public/news/eso2213/"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 21:34:16",
+      "https://news.ycombinator.com/item?id=33196773"
+    ],
+    [
+      "Replace the “very” in your sentence",
+      "https://www.losethevery.com/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Digging into a QEMU problem of slow data copying",
       "https://linus.schreibt.jetzt/posts/qemu-9p-performance.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 15:07:57",
-      "https://news.ycombinator.com/item?id=33192074"
-    ],
-    [
-      "Teenager solves stubborn riddle about prime number look-alikes",
-      "https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=33170262"
     ],
     [
-      "Mental Illness Is Not in Your Head",
+      "Two recent books by historians explore the crisis in biological psychiatry",
       "https://bostonreview.net/articles/mental-illness-is-not-in-your-head/"
     ]
   ],
