@@ -1,26 +1,6 @@
 [
   [
     [
-      "2022-10-14, 17:55:54",
-      "https://news.ycombinator.com/item?id=33206732"
-    ],
-    [
-      "Gen Z's bleak financial future",
-      "https://www.bbc.com/worklife/article/20221013-why-gen-z-are-right-to-be-worried-about-money"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 17:49:45",
-      "https://news.ycombinator.com/item?id=33206677"
-    ],
-    [
-      "In Canada it's illegal to call yourself software engineer",
-      "https://engineerscanada.ca/become-an-engineer/use-of-professional-title-and-designations"
-    ]
-  ],
-  [
-    [
       "2022-10-14, 17:01:00",
       "https://news.ycombinator.com/item?id=33206116"
     ],
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2022-10-14, 10:48:08",
+      "https://news.ycombinator.com/item?id=33201805"
+    ],
+    [
+      "Hello World Under the Microscope",
+      "https://asawicki.info/articles/Hello_world_under_the_microscope.php5"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 10:14:37",
       "https://news.ycombinator.com/item?id=33201608"
     ],
@@ -287,6 +277,16 @@
     [
       "Researchers Develop Transistor-Free Compute-in-Memory Architecture",
       "https://www.allaboutcircuits.com/news/researchers-develop-transistor-free-compute-in-memory-architecture/"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 08:15:05",
+      "https://news.ycombinator.com/item?id=33174245"
+    ],
+    [
+      "JEP 431: Sequenced Collections",
+      "https://openjdk.org/jeps/431"
     ]
   ],
   [
