@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-10-14, 10:02:55",
+      "https://news.ycombinator.com/item?id=33201544"
+    ],
+    [
+      "Why I Don't Use Netscape",
+      "https://www.complang.tuwien.ac.at/anton/why-ancient-browsers.html"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 09:25:07",
       "https://news.ycombinator.com/item?id=33201363"
     ],
     [
       "Zero Feet: a proposal for a systems-free Lisp",
       "https://applied-langua.ge/posts/zero-feet.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 08:09:25",
+      "https://news.ycombinator.com/item?id=33200864"
+    ],
+    [
+      "Why Wasn’t the Steam Engine Invented Earlier?",
+      "https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-76c"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-10-13, 18:55:25",
-      "https://news.ycombinator.com/item?id=33194974"
-    ],
-    [
-      "Discovering Azure's unannounced breaking change with Cosmos DB",
-      "https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/"
-    ]
-  ],
-  [
-    [
       "2022-10-13, 18:38:15",
       "https://news.ycombinator.com/item?id=33194773"
     ],
@@ -217,16 +227,6 @@
     [
       "Digging into a QEMU problem of slow data copying",
       "https://linus.schreibt.jetzt/posts/qemu-9p-performance.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 07:10:16",
-      "https://news.ycombinator.com/item?id=33188123"
-    ],
-    [
-      "IKEA’s Crimes Against Cartography",
-      "https://www.londonreconnections.com/2022/ikeas-crimes-against-cartography/"
     ]
   ],
   [
