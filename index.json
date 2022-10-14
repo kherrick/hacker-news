@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-14, 12:23:06",
+      "https://news.ycombinator.com/item?id=33202550"
+    ],
+    [
+      "Uniform eXchange Format (UXF) – plain text human readable typed storage format",
+      "https://github.com/mark-summerfield/uxf"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 12:10:36",
+      "https://news.ycombinator.com/item?id=33202453"
+    ],
+    [
+      "You should not be using AWS. Probably.",
+      "https://www.karlsutt.com/articles/you-should-not-be-using-aws/"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 11:26:00",
+      "https://news.ycombinator.com/item?id=33202099"
+    ],
+    [
+      "Apple gets $19M fine in Brazil for not selling iPhones with charger",
+      "https://www.engadget.com/apple-19-million-fine-brazil-for-not-selling-phones-with-a-charger-051025019.html"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 11:05:45",
       "https://news.ycombinator.com/item?id=33201931"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2022-10-14, 01:18:56",
-      "https://news.ycombinator.com/item?id=33198580"
-    ],
-    [
-      "Oracle lays off more than 200 California-based workers",
-      "https://www.datacenterdynamics.com/en/news/oracle-lays-off-more-than-200-california-based-workers/"
-    ]
-  ],
-  [
-    [
       "2022-10-14, 00:37:56",
       "https://news.ycombinator.com/item?id=33198332"
     ],
@@ -241,26 +261,6 @@
   ],
   [
     [
-      "2022-10-13, 18:38:15",
-      "https://news.ycombinator.com/item?id=33194773"
-    ],
-    [
-      "A modern Fortran scientific programming ecosystem",
-      "https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 15:41:13",
-      "https://news.ycombinator.com/item?id=33192518"
-    ],
-    [
-      "Show HN: Circumflex, browse HN in your terminal",
-      "https://github.com/bensadeh/circumflex"
-    ]
-  ],
-  [
-    [
       "2022-10-12, 15:52:19",
       "https://news.ycombinator.com/item?id=33178797"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2022-10-12, 05:26:38",
-      "https://news.ycombinator.com/item?id=33173205"
-    ],
-    [
-      "Coaching for “Normals”?",
-      "https://news.ycombinator.com/item?id=33173205"
-    ]
-  ],
-  [
-    [
       "2022-10-11, 22:47:42",
       "https://news.ycombinator.com/item?id=33170262"
     ],
     [
       "Two recent books by historians explore the crisis in biological psychiatry",
       "https://bostonreview.net/articles/mental-illness-is-not-in-your-head/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 19:14:14",
+      "https://news.ycombinator.com/item?id=33167855"
+    ],
+    [
+      "Fungi Collected in Shropshire and Other Neighbourhoods (1860–1902)",
+      "https://publicdomainreview.org/collection/fungi-of-shropshire/"
     ]
   ]
 ]
