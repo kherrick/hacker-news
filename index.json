@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-10-14, 03:33:40",
-      "https://news.ycombinator.com/item?id=33199351"
-    ],
-    [
-      "Beware of Bun.js",
-      "https://gist.github.com/littledivy/b9351c3ccf8ab99f7e14461db37044dc"
-    ]
-  ],
-  [
-    [
       "2022-10-14, 03:33:35",
       "https://news.ycombinator.com/item?id=33199349"
     ],
@@ -37,6 +27,16 @@
     [
       "Linear.app",
       "https://linear.app/homepage"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 02:18:28",
+      "https://news.ycombinator.com/item?id=33198900"
+    ],
+    [
+      "Learning dynamic 3D geometry and texture for video face swapping",
+      "https://studios.disneyresearch.com/2022/10/05/learning-dynamic-3d-geometry-and-texture-for-video-face-swapping/"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Oracle lays off more than 200 California-based workers",
       "https://www.datacenterdynamics.com/en/news/oracle-lays-off-more-than-200-california-based-workers/"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 00:37:56",
+      "https://news.ycombinator.com/item?id=33198332"
+    ],
+    [
+      "On the Proper Use of Post-Its",
+      "https://tylercipriani.com/blog/2022/05/28/on-the-proper-use-of-post-its/"
     ]
   ],
   [
@@ -151,22 +161,22 @@
   ],
   [
     [
-      "2022-10-13, 17:01:50",
-      "https://news.ycombinator.com/item?id=33193698"
-    ],
-    [
-      "Jitx (YC S18) is hiring a front end engineer",
-      "https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e"
-    ]
-  ],
-  [
-    [
       "2022-10-13, 15:49:43",
       "https://news.ycombinator.com/item?id=33192649"
     ],
     [
       "How much have tech layoffs affected engineers vs. other departments?",
       "https://blog.interviewing.io/how-much-have-2022-layoffs-affected-engineers-vs-other-departments-we-dug-into-the-data-to-find-out/"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 15:41:13",
+      "https://news.ycombinator.com/item?id=33192518"
+    ],
+    [
+      "Show HN: Circumflex, browse HN in your terminal",
+      "https://github.com/bensadeh/circumflex"
     ]
   ],
   [
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2022-10-13, 14:38:34",
-      "https://news.ycombinator.com/item?id=33191603"
-    ],
-    [
-      "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "https://news.ycombinator.com/item?id=33191603"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 14:26:50",
-      "https://news.ycombinator.com/item?id=33191420"
-    ],
-    [
-      "Virtual communication curbs creative idea generation",
-      "https://www.nature.com/articles/s41586-022-04643-y"
-    ]
-  ],
-  [
-    [
       "2022-10-13, 14:19:05",
       "https://news.ycombinator.com/item?id=33191307"
     ],
@@ -231,22 +221,12 @@
   ],
   [
     [
-      "2022-10-13, 14:16:37",
-      "https://news.ycombinator.com/item?id=33191266"
+      "2022-10-13, 13:06:07",
+      "https://news.ycombinator.com/item?id=33190433"
     ],
     [
-      "A summary of my learnings on how to find startup ideas",
-      "https://liorn.substack.com/p/a-summary-of-my-learnings-on-how"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 13:55:00",
-      "https://news.ycombinator.com/item?id=33190973"
-    ],
-    [
-      "Prusti: Static Analyzer for Rust",
-      "https://github.com/viperproject/prusti-dev"
+      "Obsidian 1.0 – Personal knowledge base app",
+      "https://obsidian.md/1.0"
     ]
   ],
   [
@@ -277,6 +257,26 @@
     [
       "Plane: Per-user backends for web apps",
       "https://driftingin.space/posts/plane"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 08:15:05",
+      "https://news.ycombinator.com/item?id=33174245"
+    ],
+    [
+      "JEP 431: Sequenced Collections",
+      "https://openjdk.org/jeps/431"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 05:26:38",
+      "https://news.ycombinator.com/item?id=33173205"
+    ],
+    [
+      "Coaching for “Normals”?",
+      "https://news.ycombinator.com/item?id=33173205"
     ]
   ],
   [
