@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-14, 19:16:58",
+      "https://news.ycombinator.com/item?id=33207685"
+    ],
+    [
+      "WebKit Quirks.cpp",
+      "https://github.com/WebKit/WebKit/blob/main/Source/WebCore/page/Quirks.cpp"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 18:52:46",
       "https://news.ycombinator.com/item?id=33207408"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33205813"
     ],
     [
-      "The first Gen III+ Nuclear plant begins fuel loading",
+      "Vogtle Unit 3 starts nuclear fuel load",
       "https://www.georgiapower.com/company/news-center/2022-articles/vogtle-unit-3-nuclear-fuel-load.html"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-10-14, 09:48:32",
-      "https://news.ycombinator.com/item?id=33201478"
-    ],
-    [
-      "Beacown (Linux WiFi Exploit)",
-      "https://github.com/PurpleVsGreen/beacown"
-    ]
-  ],
-  [
-    [
       "2022-10-14, 09:25:07",
       "https://news.ycombinator.com/item?id=33201363"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=33200864"
     ],
     [
-      "Why Wasn’t the Steam Engine Invented Earlier?",
+      "Why wasn’t the steam engine invented earlier? Part III",
       "https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-76c"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33169040"
     ],
     [
-      "What Is It Like to Have a Brain?: Nineteen Ways of Looking at Consciousness",
+      "What is it like to have a brain? Ways of looking at consciousness",
       "https://lareviewofbooks.org/article/what-is-it-like-to-have-a-brain-on-patrick-houses-nineteen-ways-of-looking-at-consciousness/"
     ]
   ]
