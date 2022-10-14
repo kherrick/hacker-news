@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-14, 11:05:45",
+      "https://news.ycombinator.com/item?id=33201931"
+    ],
+    [
+      "An Open-Source HDMI Capture Card",
+      "https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 10:14:37",
+      "https://news.ycombinator.com/item?id=33201608"
+    ],
+    [
+      "Largest open dataset of apartment models ever got published",
+      "https://zenodo.org/record/7070952"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 10:13:29",
       "https://news.ycombinator.com/item?id=33201601"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2022-10-13, 15:13:30",
-      "https://news.ycombinator.com/item?id=33192152"
-    ],
-    [
-      "Digging into a QEMU problem of slow data copying",
-      "https://linus.schreibt.jetzt/posts/qemu-9p-performance.html"
-    ]
-  ],
-  [
-    [
       "2022-10-13, 03:42:29",
       "https://news.ycombinator.com/item?id=33186936"
     ],
@@ -287,16 +297,6 @@
     [
       "Two recent books by historians explore the crisis in biological psychiatry",
       "https://bostonreview.net/articles/mental-illness-is-not-in-your-head/"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 17:35:49",
-      "https://news.ycombinator.com/item?id=33166260"
-    ],
-    [
-      "AltaRock Energy Melts Rock with Millimeter Waves for Geothermal Wells (2020)",
-      "https://spectrum.ieee.org/altarock-energy-melts-rock-with-millimeter-waves-for-geothermal-wells"
     ]
   ]
 ]
