@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-14, 14:53:56",
+      "https://news.ycombinator.com/item?id=33204347"
+    ],
+    [
+      "Litestream doesn't do SQLite replication anymore (LiteFS does)",
+      "https://github.com/benbjohnson/litestream/pull/411"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 14:29:45",
+      "https://news.ycombinator.com/item?id=33203970"
+    ],
+    [
+      "A Minimalist Guide To Program Synthesis",
+      "https://evanthebouncy.github.io/program-synthesis-minimal/"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 14:00:30",
       "https://news.ycombinator.com/item?id=33203590"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-10-14, 11:05:45",
-      "https://news.ycombinator.com/item?id=33201931"
-    ],
-    [
-      "An Open-Source HDMI Capture Card",
-      "https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/"
-    ]
-  ],
-  [
-    [
       "2022-10-14, 10:48:08",
       "https://news.ycombinator.com/item?id=33201805"
     ],
@@ -277,16 +287,6 @@
     [
       "JEP 431: Sequenced Collections",
       "https://openjdk.org/jeps/431"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 19:14:14",
-      "https://news.ycombinator.com/item?id=33167855"
-    ],
-    [
-      "Fungi Collected in Shropshire and Other Neighbourhoods (1860–1902)",
-      "https://publicdomainreview.org/collection/fungi-of-shropshire/"
     ]
   ],
   [
