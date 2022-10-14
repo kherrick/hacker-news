@@ -1,22 +1,42 @@
 [
   [
     [
+      "2022-10-14, 01:43:56",
+      "https://news.ycombinator.com/item?id=33198708"
+    ],
+    [
+      "Equifax used records it collects from companies to fire employees with 2nd jobs",
+      "https://www.businessinsider.com/equifax-fires-employees-for-working-two-jobs-2022-10"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 00:35:39",
+      "https://news.ycombinator.com/item?id=33198319"
+    ],
+    [
+      "If AI can read, then plain text can be weaponized (2019)",
+      "https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 00:17:16",
+      "https://news.ycombinator.com/item?id=33198198"
+    ],
+    [
+      "Bun v0.2.0",
+      "https://github.com/oven-sh/bun/releases/tag/bun-v0.2.0"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 23:02:31",
       "https://news.ycombinator.com/item?id=33197603"
     ],
     [
       "Tcl Ported to Go",
       "https://gitlab.com/cznic/tcl"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 22:31:33",
-      "https://news.ycombinator.com/item?id=33197332"
-    ],
-    [
-      "White House is pushing ahead research to cool Earth by reflecting back sunlight",
-      "https://www.cnbc.com/2022/10/13/what-is-solar-geoengineering-sunlight-reflection-risks-and-benefits.html"
     ]
   ],
   [
@@ -121,6 +141,16 @@
   ],
   [
     [
+      "2022-10-13, 14:38:34",
+      "https://news.ycombinator.com/item?id=33191603"
+    ],
+    [
+      "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "https://news.ycombinator.com/item?id=33191603"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 14:26:50",
       "https://news.ycombinator.com/item?id=33191420"
     ],
@@ -137,16 +167,6 @@
     [
       "Why doesn't Stripe use Stripe Billing?",
       "https://www.getlago.com/blog/is-stripe-using-stripe"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 14:16:37",
-      "https://news.ycombinator.com/item?id=33191266"
-    ],
-    [
-      "A summary of my learnings on how to find startup ideas",
-      "https://liorn.substack.com/p/a-summary-of-my-learnings-on-how"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-10-13, 13:08:03",
-      "https://news.ycombinator.com/item?id=33190456"
-    ],
-    [
-      "PostgreSQL 15",
-      "https://www.postgresql.org/about/news/postgresql-15-released-2526/"
-    ]
-  ],
-  [
-    [
       "2022-10-13, 13:06:07",
       "https://news.ycombinator.com/item?id=33190433"
     ],
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2022-10-13, 11:08:17",
-      "https://news.ycombinator.com/item?id=33189503"
+      "2022-10-13, 07:10:16",
+      "https://news.ycombinator.com/item?id=33188123"
     ],
     [
-      "We are stuck with egrep and fgrep (unless you like beating people)",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith"
+      "IKEA’s Crimes Against Cartography",
+      "https://www.londonreconnections.com/2022/ikeas-crimes-against-cartography/"
     ]
   ],
   [
     [
-      "2022-10-13, 07:34:56",
-      "https://news.ycombinator.com/item?id=33188276"
+      "2022-10-13, 03:42:29",
+      "https://news.ycombinator.com/item?id=33186936"
     ],
     [
-      "PHYS771 Lecture 9: Quantum (2007)",
-      "https://www.scottaaronson.com/democritus/lec9.html"
+      "Nietzsche in Turin",
+      "https://www.newstatesman.com/culture/books/2022/07/nietzsche-in-turin-review-lesley-chamberlain-guy-de-pourtales"
     ]
   ],
   [
@@ -251,6 +261,26 @@
   ],
   [
     [
+      "2022-10-12, 09:04:28",
+      "https://news.ycombinator.com/item?id=33174548"
+    ],
+    [
+      "Using flux to automate simple tasks",
+      "https://siebjee.nl/posts/using-flux-to-automate-simple-tasks/"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 05:26:38",
+      "https://news.ycombinator.com/item?id=33173205"
+    ],
+    [
+      "Coaching for “Normals”?",
+      "https://news.ycombinator.com/item?id=33173205"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 02:04:02",
       "https://news.ycombinator.com/item?id=33171880"
     ],
@@ -267,36 +297,6 @@
     [
       "AltaRock Energy Melts Rock with Millimeter Waves for Geothermal Wells (2020)",
       "https://spectrum.ieee.org/altarock-energy-melts-rock-with-millimeter-waves-for-geothermal-wells"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 12:02:43",
-      "https://news.ycombinator.com/item?id=33162318"
-    ],
-    [
-      "They Called It LISP for a Reason: List Processing (2005)",
-      "https://gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 04:58:22",
-      "https://news.ycombinator.com/item?id=33159680"
-    ],
-    [
-      "Everything I wish I had known about raising a seed round",
-      "https://mdwdotla.medium.com/everything-i-wish-i-had-known-about-raising-a-seed-round-a615f8f7740b"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 23:18:27",
-      "https://news.ycombinator.com/item?id=33157527"
-    ],
-    [
-      "Users without a cell connection find they can’t get back into their Zipcar",
-      "https://www.wsj.com/articles/how-not-to-go-off-the-grid-11665067328"
     ]
   ]
 ]
