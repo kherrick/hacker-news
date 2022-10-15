@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-10-15, 20:00:39",
+      "https://news.ycombinator.com/item?id=33218094"
+    ],
+    [
+      "Docker implemented in around 100 lines of bash",
+      "https://github.com/p8952/bocker"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 19:25:58",
       "https://news.ycombinator.com/item?id=33217795"
     ],
     [
-      "Adults Today Care Too Much What Young People Think",
+      "Adults today care too much what young people think",
       "https://www.persuasion.community/p/adults-today-care-too-much-what-young"
     ]
   ],
@@ -125,8 +135,18 @@
       "https://news.ycombinator.com/item?id=33215577"
     ],
     [
-      "Polyominoes by Herman Tulleken, 2019",
+      "Polyominoes (2019)",
       "https://www.researchgate.net/publication/333296614_Polyominoes"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 15:18:23",
+      "https://news.ycombinator.com/item?id=33215572"
+    ],
+    [
+      "Record-breaking gamma-ray burst possibly most powerful explosion ever recorded",
+      "https://phys.org/news/2022-10-record-breaking-gamma-ray-possibly-powerful-explosion.html"
     ]
   ],
   [
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=33215316"
     ],
     [
-      "AT&T to pay $23M fine for bribing powerful lawmaker’s ally in exchange for vote",
+      "AT&T to pay $23M fine for bribing lawmaker’s ally in exchange for vote",
       "https://arstechnica.com/tech-policy/2022/10/att-to-pay-23m-fine-for-bribing-powerful-lawmakers-ally-in-exchange-for-vote/"
     ]
   ],
@@ -205,7 +225,7 @@
       "https://news.ycombinator.com/item?id=33212448"
     ],
     [
-      "Why your website should work without JavaScript (2021)",
+      "Your website should work without JavaScript (2021)",
       "https://endtimes.dev/why-your-website-should-work-without-javascript/"
     ]
   ],
@@ -217,16 +237,6 @@
     [
       "The Curse of the Blue Diamond",
       "https://secretsiam.news/p/the-true-curse-of-the-blue-diamond"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 15:56:06",
-      "https://news.ycombinator.com/item?id=33205216"
-    ],
-    [
-      "First detection of photons above 10TeV (teraelectron volts) from Gamma Ray Burst",
-      "https://gcn.gsfc.nasa.gov/gcn3/32677.gcn3"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Math with Bad Drawings",
       "https://mathwithbaddrawings.com/2022/01/19/math-games-with-bad-drawings-2/"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 07:07:38",
-      "https://news.ycombinator.com/item?id=33188109"
-    ],
-    [
-      "Internet Archive to Honor Carl Malamud with 2022 Hero Award",
-      "https://blog.archive.org/2022/10/12/internet-archive-to-honor-carl-malamud-with-2022-hero-award/"
     ]
   ]
 ]
