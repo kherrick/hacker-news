@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-15, 13:08:59",
+      "https://news.ycombinator.com/item?id=33214439"
+    ],
+    [
+      "A 24-year-old bug in the Linux Kernel TCP stack (2021)",
+      "https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 12:43:04",
+      "https://news.ycombinator.com/item?id=33214281"
+    ],
+    [
+      "Ask HN: Are Whois Abuse Reports Useful?",
+      "https://news.ycombinator.com/item?id=33214281"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 12:39:48",
+      "https://news.ycombinator.com/item?id=33214260"
+    ],
+    [
+      "Man plays his saxophone through 9-hour complex brain surgery to remove tumor",
+      "https://www.cbsnews.com/news/saxophone-surgery-brain-tumor-italy-awake-neurosurgery/"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 12:37:05",
       "https://news.ycombinator.com/item?id=33214246"
     ],
@@ -31,22 +61,22 @@
   ],
   [
     [
-      "2022-10-15, 11:48:20",
-      "https://news.ycombinator.com/item?id=33213976"
-    ],
-    [
-      "An answer to: why is Nvidia making GPUs bigger when games don't need them?",
-      "https://news.ycombinator.com/item?id=33213976"
-    ]
-  ],
-  [
-    [
       "2022-10-15, 11:04:57",
       "https://news.ycombinator.com/item?id=33213716"
     ],
     [
-      "How 3000 degree bricks will end battery storage",
+      "A thermal battery that uses superheated bricks [video]",
       "https://www.youtube.com/watch?v=R9XMWHFzPs8"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 11:01:27",
+      "https://news.ycombinator.com/item?id=33213695"
+    ],
+    [
+      "UK Engineers raise concerns over proposed switch to imperial measurements",
+      "https://www.newcivilengineer.com/latest/engineers-raise-concerns-over-proposed-switch-to-imperial-measurements-13-10-2022/"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33213317"
     ],
     [
-      "Mud boosts your immune system",
+      "Mud boosts the immune system",
       "https://www.bbc.com/future/article/20220929-how-outdoor-play-boosts-kids-immune-systems"
     ]
   ],
@@ -71,12 +101,12 @@
   ],
   [
     [
-      "2022-10-15, 07:05:21",
-      "https://news.ycombinator.com/item?id=33212499"
+      "2022-10-15, 07:12:45",
+      "https://news.ycombinator.com/item?id=33212546"
     ],
     [
-      "Ask HN: Where do you escape for non-clickbait thoughtful/informational content?",
-      "https://news.ycombinator.com/item?id=33212499"
+      "Show HN: Bloomberg Terminal for Individuals",
+      "https://gorillaterminal.com?ref=HN"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Let's order strange things from NIST",
       "https://twitter.com/tubetimeus/status/1335061382501261312"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 06:05:17",
-      "https://news.ycombinator.com/item?id=33212168"
-    ],
-    [
-      "Everyone going to World Cup must have this app, experts are sounding the alarm",
-      "https://www.nrk.no/sport/everyone-going-to-the-world-cup-must-have-this-app---experts-are-now-sounding-the-alarm-1.16139267"
     ]
   ],
   [
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2022-10-14, 15:59:57",
-      "https://news.ycombinator.com/item?id=33205282"
-    ],
-    [
-      "Show HN: FrankenPHP, an app server for PHP written in Go",
-      "https://frankenphp.dev"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 12:41:28",
-      "https://news.ycombinator.com/item?id=33202753"
-    ],
-    [
-      "On the cheap, like a local, and without a lot of luggage",
-      "https://walkingtheworld.substack.com/p/how-to-travel"
-    ]
-  ],
-  [
-    [
       "2022-10-14, 11:48:02",
       "https://news.ycombinator.com/item?id=33202274"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
+      "2022-10-14, 10:23:10",
+      "https://news.ycombinator.com/item?id=33201653"
+    ],
+    [
+      "Evolution of HTTP",
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 05:31:59",
       "https://news.ycombinator.com/item?id=33199980"
     ],
     [
       "The Polyhedral Perspective",
       "https://publicdomainreview.org/essay/polyhedral-perspective/"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 04:22:18",
-      "https://news.ycombinator.com/item?id=33199597"
-    ],
-    [
-      "Software Stories: a novel approach to present landmark legacy code (2021)",
-      "https://www.softwareheritage.org/2021/12/20/software-stories/"
     ]
   ],
   [
