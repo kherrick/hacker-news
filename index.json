@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-10-15, 21:00:27",
+      "https://news.ycombinator.com/item?id=33218608"
+    ],
+    [
+      "Promoted.ai (YC W21) Is Hiring a Staff ML Engineer",
+      "https://www.ycombinator.com/companies/promoted/jobs/8f7rQXj-staff-machine-learning-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 20:55:57",
+      "https://news.ycombinator.com/item?id=33218561"
+    ],
+    [
+      "Logseq: Privacy-First, Joyful Platform for Knowledge Management",
+      "https://logseq.com/?"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 20:11:26",
       "https://news.ycombinator.com/item?id=33218185"
     ],
     [
-      "Building a High-Performance DB Buffer Pool in Zig W\\ Io_uring New Fixed-Buffers",
+      "Building a database buffer pool in Zig using io_uring's new fixed-buffer mode",
       "https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig"
     ]
   ],
@@ -15,18 +35,8 @@
       "https://news.ycombinator.com/item?id=33218094"
     ],
     [
-      "Docker implemented in around 100 lines of bash",
+      "Bocker: Docker implemented in around 100 lines of Bash (2015)",
       "https://github.com/p8952/bocker"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 19:25:58",
-      "https://news.ycombinator.com/item?id=33217795"
-    ],
-    [
-      "Adults today care too much what young people think",
-      "https://www.persuasion.community/p/adults-today-care-too-much-what-young"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2022-10-15, 17:00:24",
-      "https://news.ycombinator.com/item?id=33216472"
-    ],
-    [
-      "Patterns (YC S21) enables devs to build data apps quickly and is hiring in SF",
-      "https://patterns.app/"
-    ]
-  ],
-  [
-    [
       "2022-10-15, 16:14:03",
       "https://news.ycombinator.com/item?id=33216029"
     ],
@@ -137,16 +137,6 @@
     [
       "Small molecule cognitive enhancer reverses age-related memory decline in mice",
       "https://pubmed.ncbi.nlm.nih.gov/33258451/"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 15:18:48",
-      "https://news.ycombinator.com/item?id=33215577"
-    ],
-    [
-      "Polyominoes (2019)",
-      "https://www.researchgate.net/publication/333296614_Polyominoes"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Mud boosts the immune system",
       "https://www.bbc.com/future/article/20220929-how-outdoor-play-boosts-kids-immune-systems"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 08:12:32",
+      "https://news.ycombinator.com/item?id=33212850"
+    ],
+    [
+      "Even after $100B, self-driving cars are going nowhere",
+      "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere"
     ]
   ],
   [
