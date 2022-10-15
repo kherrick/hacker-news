@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-15, 14:59:53",
+      "https://news.ycombinator.com/item?id=33215417"
+    ],
+    [
+      "Microsoft's AR Headset Was a Complete Disaster During a Military Test",
+      "https://futurism.com/the-byte/microsoft-headset-disaster-military-test"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 14:49:47",
+      "https://news.ycombinator.com/item?id=33215316"
+    ],
+    [
+      "AT&T to pay $23M fine for bribing powerful lawmaker’s ally in exchange for vote",
+      "https://arstechnica.com/tech-policy/2022/10/att-to-pay-23m-fine-for-bribing-powerful-lawmakers-ally-in-exchange-for-vote/"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 13:27:05",
       "https://news.ycombinator.com/item?id=33214607"
     ],
@@ -47,6 +67,16 @@
     [
       "Zeek Is Now a Component of Microsoft Windows",
       "https://corelight.com/company/zeek-now-component-of-microsoft-windows"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 12:36:27",
+      "https://news.ycombinator.com/item?id=33214238"
+    ],
+    [
+      "Qualcomm: Arm lawsuit motivated by greed, 'payback' for opposing Nvidia takeover",
+      "https://www.theregister.com/2022/10/14/qualcomm_arm_lawsuit_nuvia/"
     ]
   ],
   [
@@ -105,7 +135,7 @@
       "https://news.ycombinator.com/item?id=33212448"
     ],
     [
-      "Why your website should work without JavaScript",
+      "Why your website should work without JavaScript (2021)",
       "https://endtimes.dev/why-your-website-should-work-without-javascript/"
     ]
   ],
@@ -131,42 +161,12 @@
   ],
   [
     [
-      "2022-10-15, 00:15:20",
-      "https://news.ycombinator.com/item?id=33210306"
-    ],
-    [
-      "The VSCode GitLab extension now supports getting code completions from FauxPilot",
-      "https://twitter.com/moyix/status/1581069716231049216"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 00:09:06",
-      "https://news.ycombinator.com/item?id=33210278"
-    ],
-    [
-      "RISC-V Public review for standard extensions Zc",
-      "https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/aTgHkmkPXrw"
-    ]
-  ],
-  [
-    [
       "2022-10-14, 22:38:49",
       "https://news.ycombinator.com/item?id=33209623"
     ],
     [
       "Disposable Root Servers",
       "https://blog.thc.org/disposable-root-servers"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 22:22:18",
-      "https://news.ycombinator.com/item?id=33209499"
-    ],
-    [
-      "What Happened to Lee (2020)",
-      "https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/"
     ]
   ],
   [
@@ -187,6 +187,16 @@
     [
       "Low Earth Orbit Visualization",
       "https://platform.leolabs.space/visualization"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 15:59:57",
+      "https://news.ycombinator.com/item?id=33205282"
+    ],
+    [
+      "Show HN: FrankenPHP, an app server for PHP written in Go",
+      "https://frankenphp.dev"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Real War 1939-1945 (1989)",
       "https://www.theatlantic.com/magazine/archive/1989/08/the-real-war-1939-1945/306374/"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 06:25:07",
-      "https://news.ycombinator.com/item?id=33173556"
-    ],
-    [
-      "Modula-2 GCC compiler front-end patches sent out for review",
-      "https://www.phoronix.com/news/GCC-Modula-2-FE-2022-Review"
     ]
   ]
 ]
