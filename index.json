@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-15, 21:27:39",
+      "https://news.ycombinator.com/item?id=33218823"
+    ],
+    [
+      "The Wonderfully Terrible World of C and C++ Text Encoding APIs (With Some Rust)",
+      "https://thephd.dev/the-c-c++-rust-string-text-encoding-api-landscape"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 21:00:27",
       "https://news.ycombinator.com/item?id=33218608"
     ],
@@ -17,6 +27,16 @@
     [
       "Logseq: Privacy-First, Joyful Platform for Knowledge Management",
       "https://logseq.com/?"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 20:43:30",
+      "https://news.ycombinator.com/item?id=33218439"
+    ],
+    [
+      "A Real World React – Htmx Port",
+      "https://htmx.org/essays/a-real-world-react-to-htmx-port/"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33217767"
     ],
     [
-      "A Primer to Nuclear Fusion and First Light Fusion",
+      "A primer to nuclear fusion and First Light Fusion",
       "https://startuppirate.substack.com/p/the-holy-grail-of-energy-generation"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33216789"
     ],
     [
-      "Automating screenshots for the Datasette documentation using shot-scraper",
+      "Shot-scraper: Automating screenshots for documentation",
       "https://simonwillison.net/2022/Oct/14/automating-screenshots/"
     ]
   ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-10-15, 15:20:42",
-      "https://news.ycombinator.com/item?id=33215597"
-    ],
-    [
-      "Small molecule cognitive enhancer reverses age-related memory decline in mice",
-      "https://pubmed.ncbi.nlm.nih.gov/33258451/"
-    ]
-  ],
-  [
-    [
       "2022-10-15, 15:18:23",
       "https://news.ycombinator.com/item?id=33215572"
     ],
@@ -161,26 +171,6 @@
   ],
   [
     [
-      "2022-10-15, 14:53:33",
-      "https://news.ycombinator.com/item?id=33215358"
-    ],
-    [
-      "We're moving away from swap partitions on our Linux servers",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/SwapPartitionsNoMore"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 14:49:47",
-      "https://news.ycombinator.com/item?id=33215316"
-    ],
-    [
-      "AT&T to pay $23M fine for bribing lawmaker’s ally in exchange for vote",
-      "https://arstechnica.com/tech-policy/2022/10/att-to-pay-23m-fine-for-bribing-powerful-lawmakers-ally-in-exchange-for-vote/"
-    ]
-  ],
-  [
-    [
       "2022-10-15, 13:27:05",
       "https://news.ycombinator.com/item?id=33214607"
     ],
@@ -197,6 +187,16 @@
     [
       "Uncovering a 24-year-old bug in the Linux Kernel (2021)",
       "https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 12:39:48",
+      "https://news.ycombinator.com/item?id=33214260"
+    ],
+    [
+      "Man plays his saxophone through 9-hour complex brain surgery to remove tumor",
+      "https://www.cbsnews.com/news/saxophone-surgery-brain-tumor-italy-awake-neurosurgery/"
     ]
   ],
   [
@@ -241,6 +241,26 @@
   ],
   [
     [
+      "2022-10-15, 06:28:10",
+      "https://news.ycombinator.com/item?id=33212290"
+    ],
+    [
+      "Let's order strange things from NIST",
+      "https://twitter.com/tubetimeus/status/1335061382501261312"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 05:58:20",
+      "https://news.ycombinator.com/item?id=33212132"
+    ],
+    [
+      "Lessons learned working decades with Graphical DSLs",
+      "https://tomassetti.me/lessons-learned-working-decades-with-graphical-dsls-interview-to-juha-pekka-tolvanen/"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 05:30:53",
       "https://news.ycombinator.com/item?id=33212026"
     ],
@@ -257,26 +277,6 @@
     [
       "Queueing Theory",
       "https://en.wikipedia.org/wiki/Queueing_theory"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 10:23:10",
-      "https://news.ycombinator.com/item?id=33201653"
-    ],
-    [
-      "Evolution of HTTP",
-      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 19:41:44",
-      "https://news.ycombinator.com/item?id=33195585"
-    ],
-    [
-      "Bob Dylan on the Songs That Captivate and Define Us",
-      "https://www.nytimes.com/2022/10/13/books/bob-dylan-book-excerpt.html"
     ]
   ],
   [
