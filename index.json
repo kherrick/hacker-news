@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-15, 12:37:05",
+      "https://news.ycombinator.com/item?id=33214246"
+    ],
+    [
+      "Zeek Is Now a Component of Microsoft Windows",
+      "https://corelight.com/company/zeek-now-component-of-microsoft-windows"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 12:15:29",
+      "https://news.ycombinator.com/item?id=33214130"
+    ],
+    [
+      "Do McKinsey and other consultants do anything useful?",
+      "https://www.economist.com/leaders/2022/10/05/do-mckinsey-and-other-consultants-do-anything-useful"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 12:00:04",
       "https://news.ycombinator.com/item?id=33214062"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2022-10-15, 11:07:21",
-      "https://news.ycombinator.com/item?id=33213730"
+      "2022-10-15, 11:48:20",
+      "https://news.ycombinator.com/item?id=33213976"
     ],
     [
-      "Tumblr and why ‘the porn-friendly era of the internet is over’",
-      "https://www.theguardian.com/technology/2022/oct/12/techscape-tumblr-porn-ban-apple-app-store"
+      "An answer to: why is Nvidia making GPUs bigger when games don't need them?",
+      "https://news.ycombinator.com/item?id=33213976"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "Mud boosts your immune system",
       "https://www.bbc.com/future/article/20220929-how-outdoor-play-boosts-kids-immune-systems"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 08:14:42",
+      "https://news.ycombinator.com/item?id=33212864"
+    ],
+    [
+      "The Low Cost of Cancelling Someone",
+      "https://randomminds.substack.com/p/the-low-cost-of-cancelling-someone"
     ]
   ],
   [
@@ -131,26 +161,6 @@
   ],
   [
     [
-      "2022-10-14, 21:42:24",
-      "https://news.ycombinator.com/item?id=33209163"
-    ],
-    [
-      "WiGLE: Wireless Network Mapping",
-      "https://www.wigle.net/"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 19:16:58",
-      "https://news.ycombinator.com/item?id=33207685"
-    ],
-    [
-      "WebKit Quirks.cpp",
-      "https://github.com/WebKit/WebKit/blob/main/Source/WebCore/page/Quirks.cpp"
-    ]
-  ],
-  [
-    [
       "2022-10-14, 16:22:21",
       "https://news.ycombinator.com/item?id=33205563"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-10-13, 15:35:47",
-      "https://news.ycombinator.com/item?id=33192444"
-    ],
-    [
-      "Hello World Under the Microscope",
-      "https://gynvael.coldwind.pl/?lang=en&id=754"
-    ]
-  ],
-  [
-    [
       "2022-10-13, 11:50:38",
       "https://news.ycombinator.com/item?id=33189724"
     ],
@@ -247,6 +247,16 @@
     [
       "Neurons in a dish learn to play Pong",
       "https://www.nature.com/articles/d41586-022-03229-y"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 09:35:00",
+      "https://news.ycombinator.com/item?id=33188997"
+    ],
+    [
+      "Math with Bad Drawings",
+      "https://mathwithbaddrawings.com/2022/01/19/math-games-with-bad-drawings-2/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Modula-2 GCC compiler front-end patches sent out for review",
       "https://www.phoronix.com/news/GCC-Modula-2-FE-2022-Review"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 22:47:42",
-      "https://news.ycombinator.com/item?id=33170262"
-    ],
-    [
-      "Two recent books by historians explore the crisis in biological psychiatry",
-      "https://bostonreview.net/articles/mental-illness-is-not-in-your-head/"
     ]
   ]
 ]
