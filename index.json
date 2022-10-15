@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-15, 03:12:51",
+      "https://news.ycombinator.com/item?id=33211369"
+    ],
+    [
+      "Ask HN: How to become good at Emacs/Vim?",
+      "https://news.ycombinator.com/item?id=33211369"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 01:37:28",
       "https://news.ycombinator.com/item?id=33210775"
     ],
@@ -47,6 +57,16 @@
     [
       "Disposable Root Servers",
       "https://blog.thc.org/disposable-root-servers"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 22:22:18",
+      "https://news.ycombinator.com/item?id=33209499"
+    ],
+    [
+      "What Happened to Lee (2020)",
+      "https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2022-10-14, 14:29:45",
-      "https://news.ycombinator.com/item?id=33203970"
+      "2022-10-14, 13:41:55",
+      "https://news.ycombinator.com/item?id=33203370"
     ],
     [
-      "A Minimalist Guide To Program Synthesis",
-      "https://evanthebouncy.github.io/program-synthesis-minimal/"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 13:46:27",
-      "https://news.ycombinator.com/item?id=33203423"
-    ],
-    [
-      "Financial Institution Letters: Vacation Policies (1995)",
-      "https://www.fdic.gov/news/financial-institution-letters/1995/fil9552.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 13:28:44",
-      "https://news.ycombinator.com/item?id=33203253"
-    ],
-    [
-      "Microsoft Office 365 Message Encryption Insecure Mode of Operation",
-      "https://labs.withsecure.com/advisories/microsoft-office-365-message-encryption-insecure-mode-of-operation"
+      "Postgres Full Text Search vs. the Rest",
+      "https://supabase.com/blog/postgres-full-text-search-vs-the-rest"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2022-10-14, 11:40:58",
-      "https://news.ycombinator.com/item?id=33202223"
+      "2022-10-14, 05:07:25",
+      "https://news.ycombinator.com/item?id=33199850"
     ],
     [
-      "Parallel narratives and media obsolescence as post-digital publishing practice",
-      "https://networkcultures.org/goinghybrid/2022/10/12/reframe-the-network-parallel-narratives-and-media-obsolescence-as-post-digital-publishing-practice/"
+      "Fujitsu and Japanese Uni want internet 'endorsement layer'",
+      "https://www.theregister.com/2022/10/14/trustable_internet_endorsement_layer/"
     ]
   ],
   [
