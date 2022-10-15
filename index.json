@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-15, 20:11:26",
+      "https://news.ycombinator.com/item?id=33218185"
+    ],
+    [
+      "Building a High-Performance DB Buffer Pool in Zig W\\ Io_uring New Fixed-Buffers",
+      "https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 20:00:39",
       "https://news.ycombinator.com/item?id=33218094"
     ],
@@ -37,16 +47,6 @@
     [
       "Show HN: America – Road Trip Simulator",
       "https://4m3ric4.com"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 18:30:54",
-      "https://news.ycombinator.com/item?id=33217316"
-    ],
-    [
-      "Lung cancer rates by state, 2017",
-      "https://www.lung-cancer.com/rates-by-state"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2022-10-15, 06:54:40",
-      "https://news.ycombinator.com/item?id=33212448"
+      "2022-10-15, 05:30:53",
+      "https://news.ycombinator.com/item?id=33212026"
     ],
     [
-      "Your website should work without JavaScript (2021)",
-      "https://endtimes.dev/why-your-website-should-work-without-javascript/"
+      "Random walk in 2 lines of J",
+      "https://asindu.xyz/2022/10/08/random-walk-in-2-lines-of-j/"
     ]
   ],
   [
