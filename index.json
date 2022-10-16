@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-16, 18:01:31",
+      "https://news.ycombinator.com/item?id=33225703"
+    ],
+    [
+      "Fast file synchronization and network forwarding for remote development",
+      "https://github.com/mutagen-io/mutagen"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 18:00:17",
+      "https://news.ycombinator.com/item?id=33225687"
+    ],
+    [
+      "Meta may use the Quest Pro's eye-tracking to serve ads because of course it will",
+      "https://www.androidauthority.com/quest-pro-targeted-ads-3220392/"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 17:01:00",
       "https://news.ycombinator.com/item?id=33225184"
     ],
@@ -11,32 +31,12 @@
   ],
   [
     [
-      "2022-10-16, 16:56:42",
-      "https://news.ycombinator.com/item?id=33225138"
-    ],
-    [
-      "Tesla fires after hurricane raises alarm for Florida officials",
-      "https://www.businesstimes.com.sg/transport/tesla-fires-after-hurricane-raises-alarm-for-florida-officials"
-    ]
-  ],
-  [
-    [
       "2022-10-16, 16:10:25",
       "https://news.ycombinator.com/item?id=33224699"
     ],
     [
       "Protein interface – how to change aproach to building software?",
       "https://trojanczyk.eu/are-software-engineers-protein-interface/"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 16:08:24",
-      "https://news.ycombinator.com/item?id=33224680"
-    ],
-    [
-      "I *detest* the crazy industry politics that made ECC memory so “special”",
-      "https://lkml.iu.edu/hypermail/linux/kernel/2210.1/00691.html"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33224502"
     ],
     [
-      "Rent Going Up? One Company’s Algorithm Could Be Why",
+      "Rent going up? One company’s algorithm could be why",
       "https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33224240"
     ],
     [
-      "Ask HN: How to Learn to Sell?",
+      "Ask HN: How to learn to sell?",
       "https://news.ycombinator.com/item?id=33224240"
     ]
   ],
