@@ -1,22 +1,52 @@
 [
   [
     [
+      "2022-10-16, 18:49:34",
+      "https://news.ycombinator.com/item?id=33226123"
+    ],
+    [
+      "Microsoft’s out-of-date driver list left Windows PCs open to malware attacks",
+      "https://www.theverge.com/2022/10/16/23405739/microsoft-out-of-date-driver-list-windows-pcs-malware-attacks-years-byovd"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 18:40:54",
+      "https://news.ycombinator.com/item?id=33226050"
+    ],
+    [
+      "Software reverse engineering suite developed by NSA's Research Directorate",
+      "https://ghidra-sre.org"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 18:32:47",
+      "https://news.ycombinator.com/item?id=33225986"
+    ],
+    [
+      "Apple Music and Mercedes-Benz bring immersive Spatial Audio to drivers",
+      "https://www.apple.com/newsroom/2022/10/apple-music-and-mercedes-benz-bring-immersive-spatial-audio-to-drivers-worldwide/"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 18:26:15",
+      "https://news.ycombinator.com/item?id=33225917"
+    ],
+    [
+      "ACT Test Scores Drop to Lowest Levels in More Than 30 Years",
+      "https://www.wsj.com/articles/act-test-scores-drop-to-lowest-levels-in-more-than-30-years-11665593614"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 18:01:31",
       "https://news.ycombinator.com/item?id=33225703"
     ],
     [
       "Fast file synchronization and network forwarding for remote development",
       "https://github.com/mutagen-io/mutagen"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 18:00:17",
-      "https://news.ycombinator.com/item?id=33225687"
-    ],
-    [
-      "Meta may use the Quest Pro's eye-tracking to serve ads because of course it will",
-      "https://www.androidauthority.com/quest-pro-targeted-ads-3220392/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2022-10-16, 12:53:34",
-      "https://news.ycombinator.com/item?id=33223222"
-    ],
-    [
-      "Poll: Is there a negative stigma toward articles written in Medium?",
-      "https://news.ycombinator.com/item?id=33223222"
-    ]
-  ],
-  [
-    [
       "2022-10-16, 12:37:03",
       "https://news.ycombinator.com/item?id=33223120"
     ],
@@ -205,7 +225,7 @@
       "https://news.ycombinator.com/item?id=33222400"
     ],
     [
-      "Google Announces KataOS and Sparrow",
+      "Announcing KataOS and Sparrow",
       "https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html"
     ]
   ],
@@ -261,21 +281,11 @@
   ],
   [
     [
-      "2022-10-16, 03:26:16",
-      "https://news.ycombinator.com/item?id=33220801"
-    ],
-    [
-      "Apple bought out all of Newsweek's 1984 Election issue ad space for Mac",
-      "https://aresluna.org/attached/computerhistory/ads/international/apple/mac-newsweek"
-    ]
-  ],
-  [
-    [
       "2022-10-15, 12:26:40",
       "https://news.ycombinator.com/item?id=33214190"
     ],
     [
-      "A Darker Shade of Blue: The Unknown Air Force Manned Space Program",
+      "A darker shade of blue: The unknown Air Force manned space program",
       "https://www.thespacereview.com/article/4448/1"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Digital Gardening",
       "https://nicolasbouliane.com/blog/digital-gardening"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 19:56:48",
-      "https://news.ycombinator.com/item?id=33208138"
-    ],
-    [
-      "Beyond the Raw/Pasteurised Divide",
-      "https://milktrekker.substack.com/p/beyond-the-rawpasteurized-divide"
     ]
   ]
 ]
