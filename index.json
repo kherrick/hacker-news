@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-16, 01:31:17",
+      "https://news.ycombinator.com/item?id=33220308"
+    ],
+    [
+      "Focker is a FreeBSD image/jail orchestration tool in the vein of Docker",
+      "https://github.com/sadaszewski/focker"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 23:11:50",
       "https://news.ycombinator.com/item?id=33219523"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2022-10-15, 22:39:04",
-      "https://news.ycombinator.com/item?id=33219302"
+      "2022-10-15, 22:59:02",
+      "https://news.ycombinator.com/item?id=33219429"
     ],
     [
-      "E-waste: Five billion phones to be thrown away in 2022",
-      "https://www.bbc.com/news/science-environment-63245150"
+      "Goldfish Social – Free open source alternative for Vine / TikTok (alpha)",
+      "https://github.com/Goldfish-Social/Goldfish"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "The Wonderfully Terrible World of C and C++ Text Encoding APIs (With Some Rust)",
       "https://thephd.dev/the-c-c++-rust-string-text-encoding-api-landscape"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 21:16:52",
-      "https://news.ycombinator.com/item?id=33218754"
-    ],
-    [
-      "Show HN: Stable Diffusion Without Filters",
-      "https://healthydiffusion.com/"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33218439"
     ],
     [
-      "A Real World React – Htmx Port",
+      "Moving from React to Htmx",
       "https://htmx.org/essays/a-real-world-react-to-htmx-port/"
     ]
   ],
@@ -231,26 +231,6 @@
   ],
   [
     [
-      "2022-10-15, 09:51:34",
-      "https://news.ycombinator.com/item?id=33213317"
-    ],
-    [
-      "Mud boosts the immune system",
-      "https://www.bbc.com/future/article/20220929-how-outdoor-play-boosts-kids-immune-systems"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 06:28:10",
-      "https://news.ycombinator.com/item?id=33212290"
-    ],
-    [
-      "Let's order strange things from NIST",
-      "https://twitter.com/tubetimeus/status/1335061382501261312"
-    ]
-  ],
-  [
-    [
       "2022-10-15, 05:58:20",
       "https://news.ycombinator.com/item?id=33212132"
     ],
@@ -275,8 +255,8 @@
       "https://news.ycombinator.com/item?id=33211723"
     ],
     [
-      "Fungi Foragers Freaked",
-      "https://arstechnica.com/science/2022/10/ohio-foragers-are-accidentally-poisoning-themselves-with-lethal-mushrooms/"
+      "A rash of nearly lethal mushroom poisonings in Ohio",
+      "https://www.cleveland.com/news/2022/10/beware-of-deadly-wild-mushrooms-portage-county-man-survives-poisoning-thanks-to-experimental-drug-at-uh.html"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2022-10-14, 16:49:59",
+      "https://news.ycombinator.com/item?id=33205980"
+    ],
+    [
+      "In Jordan, an ancient bread tradition rises again",
+      "https://www.atlasobscura.com/articles/what-happened-to-jordans-bread"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 11:21:30",
       "https://news.ycombinator.com/item?id=33189577"
     ],
     [
       "A gentler, better way to change minds",
       "https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 10:07:49",
+      "https://news.ycombinator.com/item?id=33189197"
+    ],
+    [
+      "UML: The Positive Spin (1997)",
+      "https://archive.eiffel.com/doc/manuals/technology/bmarticles/uml/page.html"
     ]
   ]
 ]
