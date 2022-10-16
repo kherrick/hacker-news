@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-16, 09:51:31",
+      "https://news.ycombinator.com/item?id=33222434"
+    ],
+    [
+      "Why allowing users to disable animations is important for accessibility",
+      "https://accessibilityfordevelopers.com/allow-disable-of-motion-animation/"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 09:29:46",
       "https://news.ycombinator.com/item?id=33222357"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2022-10-15, 21:27:39",
-      "https://news.ycombinator.com/item?id=33218823"
-    ],
-    [
-      "The Wonderfully Terrible World of C and C++ Text Encoding APIs (With Some Rust)",
-      "https://thephd.dev/the-c-c++-rust-string-text-encoding-api-landscape"
-    ]
-  ],
-  [
-    [
       "2022-10-15, 20:55:57",
       "https://news.ycombinator.com/item?id=33218561"
     ],
@@ -167,16 +167,6 @@
     [
       "Moving from React to htmx",
       "https://htmx.org/essays/a-real-world-react-to-htmx-port/"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 20:11:26",
-      "https://news.ycombinator.com/item?id=33218185"
-    ],
-    [
-      "Building a database buffer pool in Zig using io_uring's new fixed-buffer mode",
-      "https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "A rash of nearly lethal mushroom poisonings in Ohio",
       "https://www.cleveland.com/news/2022/10/beware-of-deadly-wild-mushrooms-portage-county-man-survives-poisoning-thanks-to-experimental-drug-at-uh.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 20:03:16",
+      "https://news.ycombinator.com/item?id=33208211"
+    ],
+    [
+      "Reconciling with Mr Autumn Man",
+      "https://www.avclub.com/mr-autumn-man-onion-1848664821"
     ]
   ],
   [
