@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-10-16, 21:42:36",
-      "https://news.ycombinator.com/item?id=33227420"
+      "2022-10-16, 21:59:07",
+      "https://news.ycombinator.com/item?id=33227527"
     ],
     [
-      "Running a VPN server on iOS is against AppStore's Guidelines",
-      "https://developer.apple.com/forums/thread/68171"
+      "A simple web hook that forwards prometheus alerts over XMPP",
+      "https://github.com/jelmer/prometheus-xmpp-alerts"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Charge Robotics (YC S21) is hiring meches to build robots that build solar farms",
       "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 20:31:31",
-      "https://news.ycombinator.com/item?id=33226944"
-    ],
-    [
-      "Ask HN: Where to publish a critical work with potentially offensive content",
-      "https://news.ycombinator.com/item?id=33226944"
     ]
   ],
   [
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2022-10-16, 20:09:09",
+      "https://news.ycombinator.com/item?id=33226785"
+    ],
+    [
+      "DarkForestSim: A Netlogo Simulation of the Dark Forest Hypothesis",
+      "https://www.evangelosscifi.com/home/darkforestsim"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 19:33:52",
       "https://news.ycombinator.com/item?id=33226515"
     ],
@@ -67,16 +67,6 @@
     [
       "Wikiversity",
       "https://en.wikiversity.org/wiki/Wikiversity:Main_Page"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 19:09:37",
-      "https://news.ycombinator.com/item?id=33226302"
-    ],
-    [
-      "AI better at creating fragrances than professional perfumers",
-      "https://www.visium.ch/blog/reinventing-fragrance-and-flavor-design-with-machine-learning"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "Compiler Explorer",
       "https://godbolt.org/"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 15:46:27",
+      "https://news.ycombinator.com/item?id=33224502"
+    ],
+    [
+      "Rent going up? One company’s algorithm could be why",
+      "https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2022-10-16, 00:14:30",
+      "https://news.ycombinator.com/item?id=33219889"
+    ],
+    [
+      "Annie Ernaux’s Justly Deserved Nobel",
+      "https://www.newyorker.com/culture/cultural-comment/annie-ernauxs-justly-deserved-nobel"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 19:31:13",
       "https://news.ycombinator.com/item?id=33217840"
     ],
     [
       "The ESP32 Bootrom (2018)",
       "http://cholla.mmto.org/esp32/bootrom/"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 12:26:40",
-      "https://news.ycombinator.com/item?id=33214190"
-    ],
-    [
-      "A darker shade of blue: The unknown Air Force manned space program",
-      "https://www.thespacereview.com/article/4448/1"
     ]
   ],
   [
