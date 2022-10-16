@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-16, 12:00:37",
+      "https://news.ycombinator.com/item?id=33222925"
+    ],
+    [
+      "Tesorio (YC S15) raised a Series B and is hiring various roles",
+      "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 11:20:27",
       "https://news.ycombinator.com/item?id=33222779"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2022-10-16, 10:12:25",
+      "https://news.ycombinator.com/item?id=33222525"
+    ],
+    [
+      "Google Announces KataOS: Security-Focused OS, Using Rust and SeL4 Microkernel",
+      "https://www.phoronix.com/news/Google-KataOS"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 09:51:31",
       "https://news.ycombinator.com/item?id=33222434"
     ],
@@ -31,22 +51,22 @@
   ],
   [
     [
+      "2022-10-16, 09:42:49",
+      "https://news.ycombinator.com/item?id=33222400"
+    ],
+    [
+      "Google Announces KataOS and Sparrow",
+      "https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 09:29:46",
       "https://news.ycombinator.com/item?id=33222357"
     ],
     [
       "Trying New Programming Languages Helped Me Grow as a Software Engineer",
       "https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 09:29:16",
-      "https://news.ycombinator.com/item?id=33222356"
-    ],
-    [
-      "What If LaTeX Had Instant Preview?",
-      "https://laurmaedje.github.io/posts/comemo/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-10-15, 22:59:02",
-      "https://news.ycombinator.com/item?id=33219429"
-    ],
-    [
-      "Goldfish Social – Free open source alternative for Vine / TikTok (alpha)",
-      "https://github.com/Goldfish-Social/Goldfish"
-    ]
-  ],
-  [
-    [
       "2022-10-15, 20:55:57",
       "https://news.ycombinator.com/item?id=33218561"
     ],
@@ -197,16 +207,6 @@
     [
       "Moving from React to htmx",
       "https://htmx.org/essays/a-real-world-react-to-htmx-port/"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 20:00:39",
-      "https://news.ycombinator.com/item?id=33218094"
-    ],
-    [
-      "Bocker: Docker implemented in around 100 lines of Bash (2015)",
-      "https://github.com/p8952/bocker"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2022-10-15, 06:47:27",
-      "https://news.ycombinator.com/item?id=33212404"
+      "2022-10-15, 07:39:39",
+      "https://news.ycombinator.com/item?id=33212680"
     ],
     [
-      "Skylake: Intel’s Longest Serving Architecture",
-      "https://chipsandcheese.com/2022/10/14/skylake-intels-longest-serving-architecture/"
+      "Telecaster",
+      "https://sulfonilklorida.bearblog.dev/telecaster/"
     ]
   ],
   [
