@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-10-16, 04:27:14",
-      "https://news.ycombinator.com/item?id=33221023"
+      "2022-10-16, 04:38:35",
+      "https://news.ycombinator.com/item?id=33221063"
     ],
     [
-      "Tell HN: Take care of yourselves this week",
-      "https://news.ycombinator.com/item?id=33221023"
+      "Efficient IO in Linux with io_uring [pdf]",
+      "https://kernel.dk/io_uring.pdf"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "US Export Restrictions, Intel Layoffs, Applied Materials, and TSMC",
       "https://www.fabricatedknowledge.com/p/us-export-restrictions-intel-layoffs"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 23:11:50",
-      "https://news.ycombinator.com/item?id=33219523"
-    ],
-    [
-      "AdaptOver: Persistent DoS and IMSI Extraction from 3.8km away",
-      "https://dl.acm.org/doi/10.1145/3495243.3560525"
     ]
   ],
   [
@@ -191,22 +181,22 @@
   ],
   [
     [
+      "2022-10-15, 15:18:23",
+      "https://news.ycombinator.com/item?id=33215572"
+    ],
+    [
+      "Record-breaking gamma-ray burst possibly most powerful explosion ever recorded",
+      "https://phys.org/news/2022-10-record-breaking-gamma-ray-possibly-powerful-explosion.html"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 15:02:01",
       "https://news.ycombinator.com/item?id=33215431"
     ],
     [
       "Ardour 7.0",
       "https://ardour.org/whatsnew.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 13:27:05",
-      "https://news.ycombinator.com/item?id=33214607"
-    ],
-    [
-      "Pimping my Casio with Oddly Specific Objects' alternate motherboard and firmware",
-      "https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "A rash of nearly lethal mushroom poisonings in Ohio",
       "https://www.cleveland.com/news/2022/10/beware-of-deadly-wild-mushrooms-portage-county-man-survives-poisoning-thanks-to-experimental-drug-at-uh.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 19:57:49",
+      "https://news.ycombinator.com/item?id=33208150"
+    ],
+    [
+      "The Transformations of Science",
+      "https://www.palladiummag.com/2022/10/10/the-transformations-of-science/"
     ]
   ],
   [
