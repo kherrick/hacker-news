@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-16, 12:53:34",
+      "https://news.ycombinator.com/item?id=33223222"
+    ],
+    [
+      "Poll: Is there a negative stigma toward articles written in Medium?",
+      "https://news.ycombinator.com/item?id=33223222"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 12:37:52",
       "https://news.ycombinator.com/item?id=33223124"
     ],
@@ -17,6 +27,16 @@
     [
       "Deno vs. Bun performance is rigged",
       "https://unetworkingab.medium.com/deno-v-bun-performance-is-rigged-a0500e13464c"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 12:12:15",
+      "https://news.ycombinator.com/item?id=33222995"
+    ],
+    [
+      "Simon Peyton Jones interview",
+      "https://haskell.foundation/podcast/11/"
     ]
   ],
   [
@@ -61,21 +81,11 @@
   ],
   [
     [
-      "2022-10-16, 10:12:25",
-      "https://news.ycombinator.com/item?id=33222525"
-    ],
-    [
-      "Google Announces KataOS: Security-Focused OS, Using Rust and SeL4 Microkernel",
-      "https://www.phoronix.com/news/Google-KataOS"
-    ]
-  ],
-  [
-    [
       "2022-10-16, 09:51:31",
       "https://news.ycombinator.com/item?id=33222434"
     ],
     [
-      "Why allowing users to disable animations is important for accessibility",
+      "Allow disabling of motion or animation",
       "https://accessibilityfordevelopers.com/allow-disable-of-motion-animation/"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33222357"
     ],
     [
-      "Trying New Programming Languages Helped Me Grow as a Software Engineer",
+      "Trying new programming languages helped me grow as a software engineer",
       "https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer"
     ]
   ],
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2022-10-15, 09:08:43",
-      "https://news.ycombinator.com/item?id=33213139"
+      "2022-10-15, 04:35:57",
+      "https://news.ycombinator.com/item?id=33211779"
     ],
     [
-      "Tracing the Linux kernel with Retsnoop",
-      "https://nakryiko.com/posts/retsnoop-intro/"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 08:24:19",
-      "https://news.ycombinator.com/item?id=33212920"
-    ],
-    [
-      "Open-source node-graph based video compositing software",
-      "https://github.com/NatronGitHub/Natron"
+      "The Controversy over English King Richard III's Remains",
+      "https://www.bbc.com/culture/article/20221006-the-controversy-over-an-incredible-archaeological-discovery"
     ]
   ],
   [
