@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-16, 15:50:51",
+      "https://news.ycombinator.com/item?id=33224542"
+    ],
+    [
+      "Compiler Explorer",
+      "https://godbolt.org/"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 15:35:21",
+      "https://news.ycombinator.com/item?id=33224379"
+    ],
+    [
+      "Cash, Canadians and CPUs: Intel's 'Lost' Early Microprocessor",
+      "https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 15:19:19",
+      "https://news.ycombinator.com/item?id=33224240"
+    ],
+    [
+      "Ask HN: How to Learn to Sell?",
+      "https://news.ycombinator.com/item?id=33224240"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 14:43:18",
       "https://news.ycombinator.com/item?id=33223953"
     ],
@@ -17,6 +47,16 @@
     [
       "OHSU scientists discover mechanism of hearing",
       "https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 13:18:28",
+      "https://news.ycombinator.com/item?id=33223391"
+    ],
+    [
+      "Chaos theory eliminates quantum uncertainty",
+      "https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2022-10-16, 04:14:11",
-      "https://news.ycombinator.com/item?id=33220975"
-    ],
-    [
-      "Linux Kernel MultiPath TCP Project",
-      "https://www.multipath-tcp.org/"
-    ]
-  ],
-  [
-    [
       "2022-10-16, 03:26:16",
       "https://news.ycombinator.com/item?id=33220801"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2022-10-16, 02:43:22",
-      "https://news.ycombinator.com/item?id=33220606"
-    ],
-    [
-      "Show HN: An Express-inspired web framework for Rust",
-      "https://crates.io/crates/graphul"
-    ]
-  ],
-  [
-    [
       "2022-10-16, 02:29:06",
       "https://news.ycombinator.com/item?id=33220552"
     ],
     [
       "OpenAPI Generator allows generation of API client libraries from OpenAPI Specs",
       "https://github.com/OpenAPITools/openapi-generator"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 00:57:30",
-      "https://news.ycombinator.com/item?id=33220126"
-    ],
-    [
-      "US Export Restrictions, Intel Layoffs, Applied Materials, and TSMC",
-      "https://www.fabricatedknowledge.com/p/us-export-restrictions-intel-layoffs"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 20:43:30",
-      "https://news.ycombinator.com/item?id=33218439"
-    ],
-    [
-      "Moving from React to htmx",
-      "https://htmx.org/essays/a-real-world-react-to-htmx-port/"
     ]
   ],
   [
