@@ -1,12 +1,52 @@
 [
   [
     [
-      "2022-10-16, 01:31:17",
-      "https://news.ycombinator.com/item?id=33220308"
+      "2022-10-16, 04:27:14",
+      "https://news.ycombinator.com/item?id=33221023"
     ],
     [
-      "Focker is a FreeBSD image/jail orchestration tool in the vein of Docker",
-      "https://github.com/sadaszewski/focker"
+      "Tell HN: Take care of yourselves this week",
+      "https://news.ycombinator.com/item?id=33221023"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 03:26:16",
+      "https://news.ycombinator.com/item?id=33220801"
+    ],
+    [
+      "Apple bought out all of Newsweek's 1984 Election issue ad space for Mac",
+      "https://aresluna.org/attached/computerhistory/ads/international/apple/mac-newsweek"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 02:43:22",
+      "https://news.ycombinator.com/item?id=33220606"
+    ],
+    [
+      "Show HN: An Express-inspired web framework for Rust",
+      "https://crates.io/crates/graphul"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 02:29:06",
+      "https://news.ycombinator.com/item?id=33220552"
+    ],
+    [
+      "OpenAPI Generator allows generation of API client libraries from OpenAPI Specs",
+      "https://github.com/OpenAPITools/openapi-generator"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 00:57:30",
+      "https://news.ycombinator.com/item?id=33220126"
+    ],
+    [
+      "US Export Restrictions, Intel Layoffs, Applied Materials, and TSMC",
+      "https://www.fabricatedknowledge.com/p/us-export-restrictions-intel-layoffs"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2022-10-15, 19:22:57",
-      "https://news.ycombinator.com/item?id=33217767"
-    ],
-    [
-      "A primer to nuclear fusion and First Light Fusion",
-      "https://startuppirate.substack.com/p/the-holy-grail-of-energy-generation"
-    ]
-  ],
-  [
-    [
       "2022-10-15, 18:39:54",
       "https://news.ycombinator.com/item?id=33217395"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-10-15, 15:18:23",
-      "https://news.ycombinator.com/item?id=33215572"
-    ],
-    [
-      "Record-breaking gamma-ray burst possibly most powerful explosion ever recorded",
-      "https://phys.org/news/2022-10-record-breaking-gamma-ray-possibly-powerful-explosion.html"
-    ]
-  ],
-  [
-    [
       "2022-10-15, 15:02:01",
       "https://news.ycombinator.com/item?id=33215431"
     ],
@@ -201,26 +221,6 @@
   ],
   [
     [
-      "2022-10-15, 12:39:48",
-      "https://news.ycombinator.com/item?id=33214260"
-    ],
-    [
-      "Man plays his saxophone through 9-hour complex brain surgery to remove tumor",
-      "https://www.cbsnews.com/news/saxophone-surgery-brain-tumor-italy-awake-neurosurgery/"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 12:37:05",
-      "https://news.ycombinator.com/item?id=33214246"
-    ],
-    [
-      "Zeek is now a component of Microsoft Windows",
-      "https://corelight.com/company/zeek-now-component-of-microsoft-windows"
-    ]
-  ],
-  [
-    [
       "2022-10-15, 12:03:02",
       "https://news.ycombinator.com/item?id=33214075"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2022-10-15, 05:58:20",
-      "https://news.ycombinator.com/item?id=33212132"
+      "2022-10-15, 08:18:47",
+      "https://news.ycombinator.com/item?id=33212885"
     ],
     [
-      "Lessons learned working decades with Graphical DSLs",
-      "https://tomassetti.me/lessons-learned-working-decades-with-graphical-dsls-interview-to-juha-pekka-tolvanen/"
+      "Diving deeper into the world's oceans than before",
+      "https://www.cnn.com/2022/10/14/world/ocean-exploration-depth-alvin-scn/index.html"
     ]
   ],
   [
     [
-      "2022-10-15, 05:30:53",
-      "https://news.ycombinator.com/item?id=33212026"
+      "2022-10-15, 06:47:27",
+      "https://news.ycombinator.com/item?id=33212404"
     ],
     [
-      "Random walk in 2 lines of J",
-      "https://asindu.xyz/2022/10/08/random-walk-in-2-lines-of-j/"
+      "Skylake: Intel’s Longest Serving Architecture",
+      "https://chipsandcheese.com/2022/10/14/skylake-intels-longest-serving-architecture/"
     ]
   ],
   [
