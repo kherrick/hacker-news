@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-10-16, 23:18:49",
-      "https://news.ycombinator.com/item?id=33228085"
+      "2022-10-17, 00:27:22",
+      "https://news.ycombinator.com/item?id=33228560"
     ],
     [
-      "Web 3.0 – The Great Con",
-      "https://davegebler.com/post/musings/web-3-0-the-great-con"
+      "Hex Triplet Words",
+      "https://hex-triplet-words.glitch.me/"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 00:23:25",
+      "https://news.ycombinator.com/item?id=33228533"
+    ],
+    [
+      "Show HN: I have built a huge library of screenplays for movies and TV shows",
+      "https://screenplays.io"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 23:12:42",
+      "https://news.ycombinator.com/item?id=33228040"
+    ],
+    [
+      "Scanning phones to detect child abuse evidence is harmful, 'magical' thinking",
+      "https://www.theregister.com/2022/10/13/clientside_scanning_csam_anderson/"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "Streaming data in Postgres to 1M clients with GraphQL",
       "https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 21:59:07",
-      "https://news.ycombinator.com/item?id=33227527"
-    ],
-    [
-      "A simple web hook that forwards prometheus alerts over XMPP",
-      "https://github.com/jelmer/prometheus-xmpp-alerts"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Fast file synchronization and network forwarding for remote development",
       "https://github.com/mutagen-io/mutagen"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 16:10:25",
-      "https://news.ycombinator.com/item?id=33224699"
-    ],
-    [
-      "Protein interface – how to change aproach to building software?",
-      "https://trojanczyk.eu/are-software-engineers-protein-interface/"
     ]
   ],
   [
@@ -251,32 +251,12 @@
   ],
   [
     [
-      "2022-10-16, 09:51:31",
-      "https://news.ycombinator.com/item?id=33222434"
-    ],
-    [
-      "Allow disabling of motion or animation",
-      "https://accessibilityfordevelopers.com/allow-disable-of-motion-animation/"
-    ]
-  ],
-  [
-    [
       "2022-10-16, 03:24:12",
       "https://news.ycombinator.com/item?id=33220795"
     ],
     [
       "Hilary Mantel, Historian",
       "https://www.bostonreview.net/articles/hilary-mantel-historian/"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 00:14:30",
-      "https://news.ycombinator.com/item?id=33219889"
-    ],
-    [
-      "Annie Ernaux’s Justly Deserved Nobel",
-      "https://www.newyorker.com/culture/cultural-comment/annie-ernauxs-justly-deserved-nobel"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Digital Gardening",
       "https://nicolasbouliane.com/blog/digital-gardening"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 08:10:15",
+      "https://news.ycombinator.com/item?id=33212839"
+    ],
+    [
+      "A Tech Pioneer’s Final, Unexpected Act (2018)",
+      "https://www.newyorker.com/magazine/2018/01/01/a-tech-pioneers-final-unexpected-act"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 04:20:33",
+      "https://news.ycombinator.com/item?id=33211719"
+    ],
+    [
+      "A Pardoner’s Tale",
+      "https://blogs.bl.uk/digitisedmanuscripts/2022/10/a-pardoners-tale.html"
     ]
   ]
 ]
