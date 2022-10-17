@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2022-10-17, 20:59:34",
+      "https://news.ycombinator.com/item?id=33239443"
+    ],
+    [
+      "Reverse Engineer’s Perspective on the Boeing 787 ‘51 days’ Directive",
+      "https://ioactive.com/reverse-engineers-perspective-on-the-boeing-787-51-days-airworthiness-directive/"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 20:37:49",
       "https://news.ycombinator.com/item?id=33239220"
     ],
     [
       "Almost 25% of world’s seafloor now mapped",
       "https://www.hydro-international.com/content/news/seabed-2030-almost-25-of-world-s-seafloor-now-mapped"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 20:37:14",
+      "https://news.ycombinator.com/item?id=33239211"
+    ],
+    [
+      "PolyMC compromised by rogue developer having unabomber manifesto in steam bio",
+      "https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee"
     ]
   ],
   [
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2022-10-17, 16:25:32",
-      "https://news.ycombinator.com/item?id=33235844"
-    ],
-    [
-      "Irmin in the Browser (OCaml/MirageOS)",
-      "https://tarides.com/blog/2022-08-02-irmin-in-the-browser/"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 16:18:21",
       "https://news.ycombinator.com/item?id=33235731"
     ],
     [
       "Shumai: Fast Differentiable Tensor Library in TypeScript with Bun and Flashlight",
       "https://github.com/facebookresearch/shumai"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 16:00:35",
-      "https://news.ycombinator.com/item?id=33235434"
-    ],
-    [
-      "On Bypassing eBPF Security Monitoring",
-      "https://blog.doyensec.com/2022/10/11/ebpf-bypass-security-monitoring.html"
     ]
   ],
   [
