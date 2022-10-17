@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-17, 04:08:00",
+      "https://news.ycombinator.com/item?id=33229727"
+    ],
+    [
+      "Privacy respecting weather app for Android",
+      "https://f-droid.org/packages/org.secuso.privacyfriendlyweather/"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 03:58:35",
       "https://news.ycombinator.com/item?id=33229688"
     ],
     [
       "The Dead End",
       "https://redmonk.com/sogrady/2022/09/23/dead-end/"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 03:53:37",
+      "https://news.ycombinator.com/item?id=33229671"
+    ],
+    [
+      "What it means to see a 'bad' certificate in TLS Certificate Transparency logs",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCertTransBadCertMeanings"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 03:48:10",
+      "https://news.ycombinator.com/item?id=33229650"
+    ],
+    [
+      "Life’s Work: An Interview with Jerry Seinfeld (2017)",
+      "https://hbr.org/2017/01/lifes-work-jerry-seinfeld"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33229162"
     ],
     [
-      "Learn Enough C to Survive",
+      "Learn enough C to survive",
       "https://codeofhonor.substack.com/p/learn-enough-c-to-survive"
     ]
   ],
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33228891"
     ],
     [
-      "Htmx, WebAssembly, Rust, ServiceWorker Proof of Concept",
+      "Wasm-service: Htmx, WebAssembly, Rust, ServiceWorker proof of concept",
       "https://github.com/richardanaya/wasm-service"
     ]
   ],
@@ -131,6 +161,16 @@
   ],
   [
     [
+      "2022-10-16, 19:39:34",
+      "https://news.ycombinator.com/item?id=33226568"
+    ],
+    [
+      "The US will finally allow adaptive beam headlights on new cars",
+      "https://arstechnica.com/cars/2022/02/the-us-will-finally-allow-adaptive-beam-headlights-on-new-cars/"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 19:33:52",
       "https://news.ycombinator.com/item?id=33226515"
     ],
@@ -147,16 +187,6 @@
     [
       "Wikiversity",
       "https://en.wikiversity.org/wiki/Wikiversity:Main_Page"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 18:34:20",
-      "https://news.ycombinator.com/item?id=33225998"
-    ],
-    [
-      "On the supposed “nihilism” of the Mango Markets arbitrageur",
-      "https://milkyeggs.com/?p=61"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2022-10-16, 15:19:19",
-      "https://news.ycombinator.com/item?id=33224240"
-    ],
-    [
-      "Ask HN: How to learn to sell?",
-      "https://news.ycombinator.com/item?id=33224240"
-    ]
-  ],
-  [
-    [
       "2022-10-16, 14:44:45",
       "https://news.ycombinator.com/item?id=33223964"
     ],
@@ -251,12 +271,12 @@
   ],
   [
     [
-      "2022-10-16, 13:28:23",
-      "https://news.ycombinator.com/item?id=33223460"
+      "2022-10-16, 06:42:39",
+      "https://news.ycombinator.com/item?id=33221573"
     ],
     [
-      "Scientists discover mechanism of hearing",
-      "https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing"
+      "C++ audio mixing library design",
+      "https://lisyarus.github.io/blog/programming/2022/10/15/audio-mixing.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "The ESP32 Bootrom (2018)",
       "http://cholla.mmto.org/esp32/bootrom/"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 11:10:32",
-      "https://news.ycombinator.com/item?id=33213753"
-    ],
-    [
-      "Digital Gardening",
-      "https://nicolasbouliane.com/blog/digital-gardening"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 08:10:15",
-      "https://news.ycombinator.com/item?id=33212839"
-    ],
-    [
-      "A Tech Pioneer’s Final, Unexpected Act (2018)",
-      "https://www.newyorker.com/magazine/2018/01/01/a-tech-pioneers-final-unexpected-act"
     ]
   ]
 ]
