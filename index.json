@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=33240701"
     ],
     [
-      "How to Become a Pirate Archivist",
+      "How to become a pirate archivist",
       "http://annas-blog.org/blog-how-to-become-a-pirate-archivist.html"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "GitHub Copi­lot inves­ti­ga­tion",
       "https://githubcopilotinvestigation.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 22:12:55",
-      "https://news.ycombinator.com/item?id=33240188"
-    ],
-    [
-      "Tails 5.5",
-      "https://tails.boum.org/news/version_5.5/"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33239191"
     ],
     [
-      "Web workers are not the answer",
+      "Counterintuitive web worker behavior",
       "https://dagster.io/blog/web-workers-performance-issue"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33239146"
     ],
     [
-      "How to hide your IP address: a field guide to VPNs, proxies, & traffic relaying",
+      "How to hide your IP address",
       "https://educatedguesswork.org/posts/traffic-relaying/"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33239017"
     ],
     [
-      "Could solar-powered headphones be the next must-have?",
+      "Solar-powered headphones",
       "https://www.bbc.com/news/business-63211086"
     ]
   ],
@@ -117,6 +107,26 @@
     [
       "North Paw",
       "https://sensebridge.net/projects/northpaw/"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 17:55:35",
+      "https://news.ycombinator.com/item?id=33237338"
+    ],
+    [
+      "Emulating double precision on the GPU to render large worlds",
+      "https://godotengine.org/article/emulating-double-precision-gpu-render-large-worlds"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 17:34:58",
+      "https://news.ycombinator.com/item?id=33237002"
+    ],
+    [
+      "Compiling Swift Generics [pdf]",
+      "https://download.swift.org/docs/assets/generics.pdf"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-10-17, 16:18:21",
-      "https://news.ycombinator.com/item?id=33235731"
-    ],
-    [
-      "Shumai: Fast Differentiable Tensor Library in TypeScript with Bun and Flashlight",
-      "https://github.com/facebookresearch/shumai"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 15:53:41",
       "https://news.ycombinator.com/item?id=33235315"
     ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=33233975"
     ],
     [
-      "American Airlines trying to block app that is a must-have for flight attendants",
+      "American Airlines is trying to stop a popular app used by flight attendants",
       "https://www.paddleyourownkanoo.com/2022/10/14/american-airlines-is-trying-to-stop-a-popular-iphone-app-thats-become-a-must-have-for-its-flight-attendants/"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33232382"
     ],
     [
-      "BuildZoom (better way to build custom homes) Is hiring a Product Manager",
+      "BuildZoom (YC W13) is hiring a product manager",
       "https://jobs.lever.co/buildzoom"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=33231632"
     ],
     [
-      "The Case for Energy Optimism",
+      "The case for energy optimism",
       "https://syncretica.substack.com/p/the-case-for-energy-optimism"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33220238"
     ],
     [
-      "Trent Reznor and Atticus Ross’ the Social Network Synth Sounds",
+      "\"The Social Network\" synth sounds",
       "https://reverbmachine.com/blog/trent-reznor-social-network-synth-sounds/"
     ]
   ]
