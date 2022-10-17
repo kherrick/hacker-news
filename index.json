@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=33230603"
     ],
     [
-      "CVE-2022-42889: Java Apache Commons vulerability",
+      "Java Apache Commons vulnerability",
       "https://nvd.nist.gov/vuln/detail/CVE-2022-42889"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 06:36:32",
+      "https://news.ycombinator.com/item?id=33230402"
+    ],
+    [
+      "How to Build Software Like an SRE",
+      "https://www.willett.io/posts/precepts/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Hex Triplet Words",
       "https://hex-triplet-words.glitch.me/"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 00:23:25",
-      "https://news.ycombinator.com/item?id=33228533"
-    ],
-    [
-      "Show HN: I have built a library of screenplays for movies and TV shows",
-      "https://screenplays.io"
     ]
   ],
   [
