@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-10-17, 12:42:03",
-      "https://news.ycombinator.com/item?id=33232705"
+      "2022-10-17, 13:35:35",
+      "https://news.ycombinator.com/item?id=33233246"
     ],
     [
-      "Ask HN: Where do you host images for your blog or landing pages?",
-      "https://news.ycombinator.com/item?id=33232705"
+      "Live Counter of Uber's Net Losses ($27B and Counting)",
+      "https://uberlosses.com"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 13:27:53",
+      "https://news.ycombinator.com/item?id=33233161"
+    ],
+    [
+      "New study suggests people with dark personalities weaponize victimhood",
+      "https://www.psypost.org/2021/02/new-study-suggests-people-with-dark-personalities-weaponize-victimhood-to-gain-advantage-over-others-59806"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 13:07:27",
+      "https://news.ycombinator.com/item?id=33232921"
+    ],
+    [
+      "Former FBI Director Said Blockchain Is Easier to Trace Than Paper Money",
+      "https://lancengym.medium.com/former-fbi-director-said-blockchain-is-easier-to-trace-than-paper-money-c3400f8d9596"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-10-17, 03:53:37",
-      "https://news.ycombinator.com/item?id=33229671"
-    ],
-    [
-      "What it means to see a 'bad' certificate in TLS Certificate Transparency logs",
-      "https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCertTransBadCertMeanings"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 03:48:10",
       "https://news.ycombinator.com/item?id=33229650"
     ],
@@ -277,16 +287,6 @@
     [
       "Hex Triplet Words",
       "https://hex-triplet-words.glitch.me/"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 22:43:43",
-      "https://news.ycombinator.com/item?id=33227840"
-    ],
-    [
-      "Streaming data in Postgres to 1M clients with GraphQL",
-      "https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md"
     ]
   ],
   [
