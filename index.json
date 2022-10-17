@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-10-17, 21:18:28",
-      "https://news.ycombinator.com/item?id=33239627"
+      "2022-10-17, 21:26:02",
+      "https://news.ycombinator.com/item?id=33239706"
     ],
     [
-      "Show HN: An app to split CSV into multiple files to avoid Excel's 1M row limit",
-      "https://superintendent.app/split"
+      "AI Data Laundering",
+      "https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Web workers are not the answer",
       "https://dagster.io/blog/web-workers-performance-issue"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 20:31:04",
+      "https://news.ycombinator.com/item?id=33239146"
+    ],
+    [
+      "How to hide your IP address: a field guide to VPNs, proxies, & traffic relaying",
+      "https://educatedguesswork.org/posts/traffic-relaying/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "North Paw",
       "https://sensebridge.net/projects/northpaw/"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 18:12:30",
-      "https://news.ycombinator.com/item?id=33237521"
-    ],
-    [
-      "Germany extends lifetime of all 3 remaining nuclear plants",
-      "https://www.dw.com/en/germany-extends-lifetime-of-all-3-remaining-nuclear-plants/a-63466196"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-10-17, 12:13:48",
+      "https://news.ycombinator.com/item?id=33232477"
+    ],
+    [
+      "Virding's First Rule of Programming (2008)",
+      "http://rvirding.blogspot.com/2008/01/virdings-first-rule-of-programming.html"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 12:02:08",
       "https://news.ycombinator.com/item?id=33232382"
     ],
@@ -267,16 +277,6 @@
     [
       "Semgrep: Writing quick rules to verify ideas",
       "https://blog.deesee.xyz/code-review/static-analysis/2022/10/16/semgrep-quick-rule-workflow.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 10:28:48",
-      "https://news.ycombinator.com/item?id=33231698"
-    ],
-    [
-      "Magical Handler Functions in Rust",
-      "https://lunatic.solutions/blog/magic-handler-functions-in-rust/"
     ]
   ],
   [
