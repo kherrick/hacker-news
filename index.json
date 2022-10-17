@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-17, 19:29:24",
+      "https://news.ycombinator.com/item?id=33238410"
+    ],
+    [
+      "In South Korea, robots are on the job. How is the service?",
+      "https://expmag.com/2022/10/in-south-korea-robots-are-on-the-job-so-how-is-the-service/"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 19:19:16",
+      "https://news.ycombinator.com/item?id=33238283"
+    ],
+    [
+      "pigz: A parallel implementation of gzip for multi-core machines",
+      "https://github.com/madler/pigz"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 18:50:05",
+      "https://news.ycombinator.com/item?id=33237952"
+    ],
+    [
+      "A North Paw is an anklet that tells the wearer which way is North",
+      "https://sensebridge.net/projects/northpaw/"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 18:12:30",
       "https://news.ycombinator.com/item?id=33237521"
     ],
@@ -21,22 +51,22 @@
   ],
   [
     [
+      "2022-10-17, 17:22:29",
+      "https://news.ycombinator.com/item?id=33236780"
+    ],
+    [
+      "Postgres 15 Merge Command with Examples",
+      "https://www.crunchydata.com/blog/a-look-at-postgres-15-merge-command-with-examples"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 17:21:23",
       "https://news.ycombinator.com/item?id=33236757"
     ],
     [
       "Does cashless society discriminate against the poor and elderly? (2019)",
       "https://blogs.ischool.berkeley.edu/w231/2019/10/14/does-cashless-society-discriminate-against-the-poor-and-elderly/"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 17:02:39",
-      "https://news.ycombinator.com/item?id=33236479"
-    ],
-    [
-      "GitHub at the 77th United Nations General Assembly",
-      "https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2022-10-17, 14:19:14",
-      "https://news.ycombinator.com/item?id=33233827"
-    ],
-    [
-      "Boeing 787s must be rebooted every 51 days to prevent 'misleading data' (2020)",
-      "https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 14:10:31",
       "https://news.ycombinator.com/item?id=33233720"
     ],
@@ -221,32 +241,22 @@
   ],
   [
     [
+      "2022-10-17, 11:22:27",
+      "https://news.ycombinator.com/item?id=33232072"
+    ],
+    [
+      "Semgrep: Writing quick rules to verify ideas",
+      "https://blog.deesee.xyz/code-review/static-analysis/2022/10/16/semgrep-quick-rule-workflow.html"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 10:28:48",
       "https://news.ycombinator.com/item?id=33231698"
     ],
     [
       "Magical Handler Functions in Rust",
       "https://lunatic.solutions/blog/magic-handler-functions-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 10:06:29",
-      "https://news.ycombinator.com/item?id=33231563"
-    ],
-    [
-      "Kanye West is buying Parler",
-      "https://www.theverge.com/2022/10/17/23408443/kanye-west-ye-parler-free-speech-social-media-platform"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 09:18:05",
-      "https://news.ycombinator.com/item?id=33231335"
-    ],
-    [
-      "PAGNIs: Probably Are Gonna Need Its (2021)",
-      "https://simonwillison.net/2021/Jul/1/pagnis/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Z80's protected mode discovered after 40 years [video]",
       "https://www.youtube.com/watch?v=DLSUAVPKeYk"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 02:22:38",
-      "https://news.ycombinator.com/item?id=33229256"
-    ],
-    [
-      "The dry-season malaria paradox, a bar to eradication, is solved",
-      "https://www.economist.com/science-and-technology/2022/10/12/the-dry-season-malaria-paradox-a-bar-to-eradication-is-solved"
     ]
   ]
 ]
