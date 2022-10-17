@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-17, 14:29:35",
+      "https://news.ycombinator.com/item?id=33233975"
+    ],
+    [
+      "American Airlines trying to block app that is a must-have for flight attendants",
+      "https://www.paddleyourownkanoo.com/2022/10/14/american-airlines-is-trying-to-stop-a-popular-iphone-app-thats-become-a-must-have-for-its-flight-attendants/"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 14:19:14",
+      "https://news.ycombinator.com/item?id=33233827"
+    ],
+    [
+      "Boeing 787s must be rebooted every 51 days to prevent 'misleading data' (2020)",
+      "https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 14:10:31",
       "https://news.ycombinator.com/item?id=33233720"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33233161"
     ],
     [
-      "New study suggests people with dark personalities weaponize victimhood",
+      "New study suggests people with dark personalities weaponize victimhood (2021)",
       "https://www.psypost.org/2021/02/new-study-suggests-people-with-dark-personalities-weaponize-victimhood-to-gain-advantage-over-others-59806"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33232165"
     ],
     [
-      "Nvidia’s Implicit Warping Is a Potentially Powerful Deepfake Technique",
+      "Nvidia’s Implicit Warping is a potentially powerful deepfake technique",
       "https://metaphysic.ai/nvidias-implicit-warping-is-a-potentially-powerful-deepfake-technique/"
     ]
   ],
@@ -97,6 +117,16 @@
     [
       "Many Researchers Using Same Data and Hypothesis Reveals Universe of Uncertainty",
       "https://osf.io/preprints/metaarxiv/cd5j9/"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 10:06:29",
+      "https://news.ycombinator.com/item?id=33231563"
+    ],
+    [
+      "Kanye West is buying Parler",
+      "https://www.theverge.com/2022/10/17/23408443/kanye-west-ye-parler-free-speech-social-media-platform"
     ]
   ],
   [
@@ -177,16 +207,6 @@
     [
       "Hilma af Klint: Swedish mystic hailed as the true pioneer of abstract art",
       "https://www.theguardian.com/artanddesign/2022/oct/16/hilma-af-klint-swedish-mystic-hailed-as-the-true-pioneer-of-abstract-art"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 04:22:59",
-      "https://news.ycombinator.com/item?id=33229793"
-    ],
-    [
-      "The Graphing Calculator Story",
-      "https://www.pacifict.com/Story/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Wasm-service: Htmx, WebAssembly, Rust, ServiceWorker proof of concept",
       "https://github.com/richardanaya/wasm-service"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 00:27:22",
-      "https://news.ycombinator.com/item?id=33228560"
-    ],
-    [
-      "Hex Triplet Words",
-      "https://hex-triplet-words.glitch.me/"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 06:42:39",
-      "https://news.ycombinator.com/item?id=33221573"
-    ],
-    [
-      "C++ audio mixing library design",
-      "https://lisyarus.github.io/blog/programming/2022/10/15/audio-mixing.html"
     ]
   ]
 ]
