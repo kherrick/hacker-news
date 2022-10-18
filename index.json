@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-18, 06:06:54",
+      "https://news.ycombinator.com/item?id=33243529"
+    ],
+    [
+      "The FreeBSD/Firecracker Platform",
+      "https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 05:50:57",
+      "https://news.ycombinator.com/item?id=33243434"
+    ],
+    [
+      "TOTP tokens on my wrist with the smartest dumb watch",
+      "https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 04:43:33",
+      "https://news.ycombinator.com/item?id=33243063"
+    ],
+    [
+      "Podman: Pasta User-Mode Networking",
+      "https://github.com/containers/podman/pull/16141"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 03:50:50",
       "https://news.ycombinator.com/item?id=33242766"
     ],
@@ -201,42 +231,12 @@
   ],
   [
     [
-      "2022-10-17, 16:30:36",
-      "https://news.ycombinator.com/item?id=33235931"
-    ],
-    [
-      "The Geometry Junkyard",
-      "https://www.ics.uci.edu/~eppstein/junkyard/"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 15:53:41",
       "https://news.ycombinator.com/item?id=33235315"
     ],
     [
       "“You meant to install ripgrep”",
       "https://crates.io/crates/rg"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 15:37:10",
-      "https://news.ycombinator.com/item?id=33235042"
-    ],
-    [
-      "How Fly.io and Tailscale Saved Notado",
-      "https://notado.substack.com/p/how-flyio-and-tailscale-saved-notado"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 15:28:20",
-      "https://news.ycombinator.com/item?id=33234884"
-    ],
-    [
-      "Being on a board as an employee",
-      "https://paulosman.me/2022/10/17/being-on-a-board/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2022-10-17, 12:28:56",
-      "https://news.ycombinator.com/item?id=33232593"
+      "2022-10-17, 12:26:47",
+      "https://news.ycombinator.com/item?id=33232580"
     ],
     [
-      "Cat9: A command-line shell written in Lua",
-      "https://github.com/letoram/cat9"
+      "Real-World Engineering Challenges: Migrations",
+      "https://newsletter.pragmaticengineer.com/p/real-world-engineering-challenges"
     ]
   ],
   [
