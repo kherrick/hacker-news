@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-10-18, 22:59:16",
-      "https://news.ycombinator.com/item?id=33255201"
-    ],
-    [
-      "What's the difference between USB 3.0, 3.1 Gen 1 and 3.2 Gen 1x1? Just the name",
-      "https://www.technewstoday.com/usb-3-0-vs-3-1-vs-3-2/"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 22:17:26",
       "https://news.ycombinator.com/item?id=33254791"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33253884"
     ],
     [
-      "Bottomless Is Hiring a Lead Designer (Anywhere in the World)",
+      "Bottomless (YC W19) is hiring a lead designer (anywhere)",
       "https://forms.gle/PEbQ7cXAfFc7bpXs9"
     ]
   ],
@@ -81,16 +71,6 @@
   ],
   [
     [
-      "2022-10-18, 18:51:55",
-      "https://news.ycombinator.com/item?id=33252137"
-    ],
-    [
-      "We rewrote a high-performance database in Rust",
-      "https://www.pinecone.io/learn/rust-rewrite/"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 18:27:31",
       "https://news.ycombinator.com/item?id=33251799"
     ],
@@ -111,16 +91,6 @@
   ],
   [
     [
-      "2022-10-18, 17:05:14",
-      "https://news.ycombinator.com/item?id=33250576"
-    ],
-    [
-      "Retired U.S. generals, admirals take top jobs with Saudi crown prince",
-      "https://www.washingtonpost.com/investigations/interactive/2022/veterans-us-foreign-jobs-saudi-arabia/"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 15:48:16",
       "https://news.ycombinator.com/item?id=33249215"
     ],
@@ -135,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33248988"
     ],
     [
-      "Introducing fine-grained personal access tokens for GitHub",
+      "Fine-grained personal access tokens for GitHub",
       "https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/"
     ]
   ],
@@ -157,6 +127,16 @@
     [
       "I am endlessly fascinated with content tagging systems",
       "https://twitter.com/hillelogram/status/1534301374166474752"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 14:56:12",
+      "https://news.ycombinator.com/item?id=33248210"
+    ],
+    [
+      "iPad Pro M2",
+      "https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/"
     ]
   ],
   [
@@ -211,22 +191,32 @@
   ],
   [
     [
-      "2022-10-18, 10:52:02",
-      "https://news.ycombinator.com/item?id=33245414"
+      "2022-10-18, 12:08:28",
+      "https://news.ycombinator.com/item?id=33246007"
     ],
     [
-      "Libcamera v0.0.1",
-      "https://git.libcamera.org/libcamera/libcamera.git/tag/?h=v0.0.1"
+      "Crazy crypto mining story from 2013",
+      "https://joonaskoppa.medium.com/i-was-a-crazy-crypto-miner-dabebc276306"
     ]
   ],
   [
     [
-      "2022-10-18, 10:33:32",
-      "https://news.ycombinator.com/item?id=33245289"
+      "2022-10-18, 11:28:50",
+      "https://news.ycombinator.com/item?id=33245700"
     ],
     [
-      "No 37C3 in 2022: Looking forward to decentralized alternatives and CCC Camp 2023",
-      "https://www.ccc.de/en/updates/2022/no-congress-2022"
+      "MinTOTP – Minimal TOTP generator in 20 lines of Python",
+      "https://github.com/susam/mintotp"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 11:20:13",
+      "https://news.ycombinator.com/item?id=33245641"
+    ],
+    [
+      "Alien Truth",
+      "http://paulgraham.com/alien.html"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=33242254"
     ],
     [
-      "Something’s Jellyfishy in the State of Italy",
+      "Something’s jellyfishy in the state of Italy",
       "https://hakaimagazine.com/features/somethings-jellyfishy-in-the-state-of-italy/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Product vs. Engineering",
       "https://martinfowler.com/articles/bottlenecks-of-scaleups/03-product-v-engineering.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 22:38:29",
+      "https://news.ycombinator.com/item?id=33227801"
+    ],
+    [
+      "The Illustrated History of How Sugar Conquered the World (2017)",
+      "https://www.saveur.com/sugar-history-of-the-world/"
     ]
   ]
 ]
