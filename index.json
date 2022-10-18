@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-10-18, 13:54:09",
+      "https://news.ycombinator.com/item?id=33247155"
+    ],
+    [
+      "Show HN: Filesystem Watcher",
+      "https://github.com/e-dant/watcher"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 13:53:56",
+      "https://news.ycombinator.com/item?id=33247151"
+    ],
+    [
+      "Apache Apisix vs. Kong: Open-Source API Gateway",
+      "https://api7.ai/blog/apisix-vs-kong-3-0"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 13:50:53",
+      "https://news.ycombinator.com/item?id=33247115"
+    ],
+    [
+      "Syntax Design",
+      "https://cs.lmu.edu/~ray/notes/syntaxdesign/"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 13:32:06",
       "https://news.ycombinator.com/item?id=33246841"
     ],
     [
       "Tell HN: Beware 'Ungrowth' in Your Job",
       "https://news.ycombinator.com/item?id=33246841"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 13:22:03",
+      "https://news.ycombinator.com/item?id=33246700"
+    ],
+    [
+      "The “dark yellow problem” in design system color palettes",
+      "https://medium.com/user-experience-design-1/the-dark-yellow-problem-in-design-system-color-palettes-a0db1eedc99d"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 13:16:54",
+      "https://news.ycombinator.com/item?id=33246650"
+    ],
+    [
+      "Nord Stream blast 'blew away 50 metres of pipe'",
+      "https://www.bbc.com/news/world-europe-63297085"
     ]
   ],
   [
@@ -37,6 +87,26 @@
     [
       "Lab-made Covid virus draws government scrutiny",
       "https://www.statnews.com/2022/10/17/boston-university-researchers-testing-of-lab-made-version-of-covid-virus-draws-government-scrutiny/"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 12:36:41",
+      "https://news.ycombinator.com/item?id=33246241"
+    ],
+    [
+      "Microsoft Full Circle",
+      "https://stratechery.com/2022/microsoft-full-circle/"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 12:26:08",
+      "https://news.ycombinator.com/item?id=33246158"
+    ],
+    [
+      "DuckDuckGo for Mac beta now open to the public",
+      "https://spreadprivacy.com/duckduckgo-for-mac-open-beta/"
     ]
   ],
   [
@@ -91,12 +161,12 @@
   ],
   [
     [
-      "2022-10-18, 11:20:13",
-      "https://news.ycombinator.com/item?id=33245641"
+      "2022-10-18, 11:16:57",
+      "https://news.ycombinator.com/item?id=33245614"
     ],
     [
-      "Alien Truth",
-      "http://paulgraham.com/alien.html"
+      "Show HN: Projectbook – a free collection of 100 project ideas for learning",
+      "https://projectbook.code.brettchalupa.com/"
     ]
   ],
   [
@@ -127,16 +197,6 @@
     [
       "Libcamera v0.0.1",
       "https://git.libcamera.org/libcamera/libcamera.git/tag/?h=v0.0.1"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 10:42:43",
-      "https://news.ycombinator.com/item?id=33245349"
-    ],
-    [
-      "The U.S. Just Lost 26 Years' Worth of Progress on Life Expectancy",
-      "https://www.scientificamerican.com/article/the-u-s-just-lost-26-years-worth-of-progress-on-life-expectancy/"
     ]
   ],
   [
@@ -181,16 +241,6 @@
   ],
   [
     [
-      "2022-10-18, 09:06:22",
-      "https://news.ycombinator.com/item?id=33244723"
-    ],
-    [
-      "Quine Letters to Philosophers Now Online",
-      "https://dailynous.com/2022/10/14/large-selection-of-quines-correspondence-now-available-online/"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 06:06:54",
       "https://news.ycombinator.com/item?id=33243529"
     ],
@@ -221,62 +271,12 @@
   ],
   [
     [
-      "2022-10-18, 03:44:55",
-      "https://news.ycombinator.com/item?id=33242730"
-    ],
-    [
-      "Dear JetBrains, Don't mess with your UI",
-      "https://neil.computer/notes/dear-jetbrains-dont-mess-with-your-ui/"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 01:39:59",
-      "https://news.ycombinator.com/item?id=33241982"
-    ],
-    [
-      "Whipping up a new Shell – Lash#Cat9",
-      "https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 23:07:19",
-      "https://news.ycombinator.com/item?id=33240701"
-    ],
-    [
-      "How to become a pirate archivist",
-      "http://annas-blog.org/blog-how-to-become-a-pirate-archivist.html"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 22:30:08",
       "https://news.ycombinator.com/item?id=33240341"
     ],
     [
       "GitHub Copi­lot inves­ti­ga­tion",
       "https://githubcopilotinvestigation.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 20:37:49",
-      "https://news.ycombinator.com/item?id=33239220"
-    ],
-    [
-      "Almost 25% of world’s seafloor now mapped",
-      "https://www.hydro-international.com/content/news/seabed-2030-almost-25-of-world-s-seafloor-now-mapped"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 17:34:58",
-      "https://news.ycombinator.com/item?id=33237002"
-    ],
-    [
-      "Compiling Swift Generics [pdf]",
-      "https://download.swift.org/docs/assets/generics.pdf"
     ]
   ],
   [
