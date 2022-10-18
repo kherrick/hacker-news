@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-10-18, 21:47:23",
-      "https://news.ycombinator.com/item?id=33254485"
-    ],
-    [
-      "Stripe unfairly hoarding small business cashflow",
-      "https://old.reddit.com/r/smallbusiness/comments/y72dqo/dont_use_stripe_i_am_trying_to_save_you_from_my/"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 21:00:45",
       "https://news.ycombinator.com/item?id=33253884"
     ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2022-10-18, 11:28:50",
+      "https://news.ycombinator.com/item?id=33245700"
+    ],
+    [
+      "MinTOTP – Minimal TOTP generator in 20 lines of Python",
+      "https://github.com/susam/mintotp"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 11:20:13",
       "https://news.ycombinator.com/item?id=33245641"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33244607"
     ],
     [
-      "Abuse Prevention Is Tradecraft",
+      "Abuse prevention is tradecraft",
       "https://alecmuffett.com/article/16257"
     ]
   ],
