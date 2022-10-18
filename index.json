@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-18, 14:36:46",
+      "https://news.ycombinator.com/item?id=33247863"
+    ],
+    [
+      "Office Vacancy Rate in San Francisco Just Hit a New High",
+      "https://socketsite.com/archives/2022/10/office-vacancy-rate-in-san-francisco-just-hit-a-new-high.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 14:24:09",
+      "https://news.ycombinator.com/item?id=33247667"
+    ],
+    [
+      "The Search Is on for Banana Ancestors",
+      "https://www.nytimes.com/2022/10/17/science/banana-ancestors-genes.html"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 13:54:09",
       "https://news.ycombinator.com/item?id=33247155"
     ],
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2022-10-18, 13:16:54",
-      "https://news.ycombinator.com/item?id=33246650"
-    ],
-    [
-      "Nord Stream blast 'blew away 50 metres of pipe'",
-      "https://www.bbc.com/news/world-europe-63297085"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 13:12:57",
       "https://news.ycombinator.com/item?id=33246593"
     ],
     [
-      "Privacy online just got easier with today’s Firefox release",
+      "Firefox Private Browsing mode upgrade",
       "https://blog.mozilla.org/en/mozilla/privacy-online-just-got-easier-with-todays-firefox-release/"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 13:04:18",
-      "https://news.ycombinator.com/item?id=33246507"
-    ],
-    [
-      "Visitors to Qatar for the World Cup need to install spyware on their phone",
-      "https://www.schneier.com/blog/archives/2022/10/qatar-spyware.html"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33246016"
     ],
     [
-      "Facebook owner Meta to sell Giphy after UK watchdog confirms ruling",
+      "Meta to sell Giphy after UK watchdog confirms ruling",
       "https://www.theguardian.com/technology/2022/oct/18/facebook-meta-sell-giphy-cma"
     ]
   ],
@@ -157,6 +157,16 @@
     [
       "MinTOTP – Minimal TOTP generator in 20 lines of Python",
       "https://github.com/susam/mintotp"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 11:20:13",
+      "https://news.ycombinator.com/item?id=33245641"
+    ],
+    [
+      "Alien Truth",
+      "http://paulgraham.com/alien.html"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-10-18, 09:54:59",
-      "https://news.ycombinator.com/item?id=33244991"
-    ],
-    [
-      "Should required fields be marked?",
-      "https://user-interface.io/should-required-fields-be-marked/"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 09:14:56",
       "https://news.ycombinator.com/item?id=33244767"
     ],
@@ -237,6 +237,16 @@
     [
       "Why Rust?",
       "https://www.rerun.io/blog/why-rust"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 08:47:47",
+      "https://news.ycombinator.com/item?id=33244607"
+    ],
+    [
+      "Abuse Prevention Is Tradecraft. Content Moderation Is Not Infosec",
+      "https://alecmuffett.com/article/16257"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "JWST reveals new surprises on galaxy organic molecules near black holes",
       "https://phys.org/news/2022-10-james-webb-space-telescope-reveals.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 12:26:47",
-      "https://news.ycombinator.com/item?id=33232580"
-    ],
-    [
-      "Real-World Engineering Challenges: Migrations",
-      "https://newsletter.pragmaticengineer.com/p/real-world-engineering-challenges"
     ]
   ]
 ]
