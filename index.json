@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-18, 22:15:16",
+      "https://news.ycombinator.com/item?id=33254771"
+    ],
+    [
+      "Aquila: Google's New Datacenter Fabric",
+      "https://www.usenix.org/conference/nsdi22/presentation/gibson"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 21:58:20",
       "https://news.ycombinator.com/item?id=33254597"
     ],
@@ -191,26 +201,6 @@
   ],
   [
     [
-      "2022-10-18, 12:08:28",
-      "https://news.ycombinator.com/item?id=33246007"
-    ],
-    [
-      "Crazy crypto mining story from 2013",
-      "https://joonaskoppa.medium.com/i-was-a-crazy-crypto-miner-dabebc276306"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 11:28:50",
-      "https://news.ycombinator.com/item?id=33245700"
-    ],
-    [
-      "MinTOTP – Minimal TOTP generator in 20 lines of Python",
-      "https://github.com/susam/mintotp"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 11:20:13",
       "https://news.ycombinator.com/item?id=33245641"
     ],
@@ -267,6 +257,16 @@
     [
       "Something’s Jellyfishy in the State of Italy",
       "https://hakaimagazine.com/features/somethings-jellyfishy-in-the-state-of-italy/"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 18:33:49",
+      "https://news.ycombinator.com/item?id=33237769"
+    ],
+    [
+      "Viva: An End-to-End System for Interactive Video Analytics [pdf]",
+      "https://ddkang.github.io/papers/2022/viva-cidr.pdf"
     ]
   ],
   [
