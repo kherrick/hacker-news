@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-18, 18:51:55",
+      "https://news.ycombinator.com/item?id=33252137"
+    ],
+    [
+      "We rewrote a high-performance database in Rust",
+      "https://www.pinecone.io/learn/rust-rewrite/"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 18:41:42",
+      "https://news.ycombinator.com/item?id=33251976"
+    ],
+    [
+      "Meta ordered to sell Giphy by UK's competition watchdog CMA",
+      "https://www.bbc.com/news/technology-63302179"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 18:16:23",
       "https://news.ycombinator.com/item?id=33251652"
     ],
     [
       "Gain of Function? Not So Fast",
       "https://www.science.org/content/blog-post/gain-function-not-so-fast"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 17:56:10",
+      "https://news.ycombinator.com/item?id=33251365"
+    ],
+    [
+      "2/3 of kids bike to school in Assen because it was designed that way",
+      "http://www.aviewfromthecyclepath.com/2013/09/the-school-run-in-assen.html"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2022-10-18, 14:24:09",
-      "https://news.ycombinator.com/item?id=33247667"
-    ],
-    [
-      "The search is on for banana ancestors",
-      "https://www.nytimes.com/2022/10/17/science/banana-ancestors-genes.html"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 14:06:24",
       "https://news.ycombinator.com/item?id=33247335"
     ],
@@ -127,16 +147,6 @@
     [
       "Syntax Design (2014)",
       "https://cs.lmu.edu/~ray/notes/syntaxdesign/"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 13:12:57",
-      "https://news.ycombinator.com/item?id=33246593"
-    ],
-    [
-      "Firefox Private Browsing mode upgrade",
-      "https://blog.mozilla.org/en/mozilla/privacy-online-just-got-easier-with-todays-firefox-release/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Abuse Prevention Is Tradecraft",
       "https://alecmuffett.com/article/16257"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 06:06:54",
-      "https://news.ycombinator.com/item?id=33243529"
-    ],
-    [
-      "The FreeBSD/Firecracker Platform",
-      "https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html"
     ]
   ],
   [
