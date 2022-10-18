@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-18, 17:00:42",
+      "https://news.ycombinator.com/item?id=33250508"
+    ],
+    [
+      "Firezone (YC W22) is hiring a founding engineer (Elixir, Rust)",
+      "https://www.ycombinator.com/companies/firezone/jobs/y97q8A0-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 16:04:18",
+      "https://news.ycombinator.com/item?id=33249518"
+    ],
+    [
+      "Capturing robot data so we can debug it later",
+      "https://www.polymathrobotics.com/blog/recording-robot-data"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 15:48:16",
       "https://news.ycombinator.com/item?id=33249215"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2022-10-18, 15:36:45",
+      "https://news.ycombinator.com/item?id=33248988"
+    ],
+    [
+      "Introducing fine-grained personal access tokens for GitHub",
+      "https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 15:22:12",
       "https://news.ycombinator.com/item?id=33248681"
     ],
     [
       "iPad 10.9",
       "https://www.apple.com/ipad-10.9/"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 15:07:29",
+      "https://news.ycombinator.com/item?id=33248391"
+    ],
+    [
+      "I am endlessly fascinated with content tagging systems",
+      "https://twitter.com/hillelogram/status/1534301374166474752"
     ]
   ],
   [
@@ -51,32 +91,12 @@
   ],
   [
     [
-      "2022-10-18, 14:51:15",
-      "https://news.ycombinator.com/item?id=33248120"
-    ],
-    [
-      "Californians may tax the rich more to subsidise electric cars",
-      "https://www.economist.com/united-states/2022/10/17/californians-may-tax-the-rich-more-to-subsidise-electric-cars"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 14:38:43",
       "https://news.ycombinator.com/item?id=33247892"
     ],
     [
       "Phantom Forests: Why Ambitious Tree Planting Projects Are Failing",
       "https://e360.yale.edu/features/phantom-forests-tree-planting-climate-change"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 14:36:46",
-      "https://news.ycombinator.com/item?id=33247863"
-    ],
-    [
-      "Office vacancy rate in San Francisco just hit a new high",
-      "https://socketsite.com/archives/2022/10/office-vacancy-rate-in-san-francisco-just-hit-a-new-high.html"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Show HN: Filesystem Watcher",
       "https://github.com/e-dant/watcher"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 13:53:56",
-      "https://news.ycombinator.com/item?id=33247151"
-    ],
-    [
-      "Apache Apisix vs. Kong: Open-Source API Gateway",
-      "https://api7.ai/blog/apisix-vs-kong-3-0"
     ]
   ],
   [
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2022-10-18, 12:47:42",
+      "https://news.ycombinator.com/item?id=33246343"
+    ],
+    [
+      "Researchers’ tests of lab-made version of Covid virus draw scrutiny",
+      "https://www.statnews.com/2022/10/17/boston-university-researchers-testing-of-lab-made-version-of-covid-virus-draws-government-scrutiny/"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 12:36:41",
       "https://news.ycombinator.com/item?id=33246241"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-10-18, 12:00:21",
-      "https://news.ycombinator.com/item?id=33245946"
-    ],
-    [
-      "Meticulous (YC S21) Is Hiring #3 Founding Engineer in London",
-      "https://news.ycombinator.com/item?id=33245946"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 11:28:50",
       "https://news.ycombinator.com/item?id=33245700"
     ],
@@ -197,16 +207,6 @@
     [
       "Alien Truth",
       "http://paulgraham.com/alien.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 11:16:57",
-      "https://news.ycombinator.com/item?id=33245614"
-    ],
-    [
-      "Show HN: Projectbook – a free collection of 100 project ideas for learning",
-      "https://projectbook.code.brettchalupa.com/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2022-10-17, 14:41:44",
-      "https://news.ycombinator.com/item?id=33234145"
-    ],
-    [
-      "JWST reveals new surprises on galaxy organic molecules near black holes",
-      "https://phys.org/news/2022-10-james-webb-space-telescope-reveals.html"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 08:05:51",
       "https://news.ycombinator.com/item?id=33230905"
     ],
     [
       "The initial proposal for a C++ Ecosystem International Standard",
       "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2656r0.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 05:53:35",
+      "https://news.ycombinator.com/item?id=33230158"
+    ],
+    [
+      "Product vs. Engineering",
+      "https://martinfowler.com/articles/bottlenecks-of-scaleups/03-product-v-engineering.html"
     ]
   ]
 ]
