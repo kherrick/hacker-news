@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-10-18, 09:51:39",
-      "https://news.ycombinator.com/item?id=33244978"
+      "2022-10-18, 10:52:02",
+      "https://news.ycombinator.com/item?id=33245414"
     ],
     [
-      "Jira new pricing tier to –$765,432,091.03 per user / month",
-      "https://www.atlassian.com/software/jira/pricing"
+      "Libcamera v0.0.1",
+      "https://git.libcamera.org/libcamera/libcamera.git/tag/?h=v0.0.1"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 10:02:43",
+      "https://news.ycombinator.com/item?id=33245042"
+    ],
+    [
+      "TOTP for 2FA is incredibly easy to implement. So what's your excuse?",
+      "https://drewdevault.com/2022/10/18/TOTP-is-easy.html"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33244767"
     ],
     [
-      "Intel and the $1.5trn chip industry meltdown",
+      "Intel and the $1.5T chip industry meltdown",
       "https://www.economist.com/business/2022/10/17/intel-and-the-15trn-chip-industry-meltdown"
     ]
   ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2022-10-18, 05:27:53",
-      "https://news.ycombinator.com/item?id=33243289"
-    ],
-    [
-      "Nothing Says over 40 Like Two Spaces After a Period",
-      "https://www.cultofpedagogy.com/two-spaces-after-period/"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 04:43:33",
       "https://news.ycombinator.com/item?id=33243063"
     ],
@@ -87,6 +87,16 @@
     [
       "Dear JetBrains, Don't mess with your UI",
       "https://neil.computer/notes/dear-jetbrains-dont-mess-with-your-ui/"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 02:21:43",
+      "https://news.ycombinator.com/item?id=33242229"
+    ],
+    [
+      "Amazon’s attrition costs $8B annually according to leaked documents",
+      "https://www.engadget.com/amazon-attrition-leadership-ctsmd-201800110.html"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2022-10-17, 19:53:20",
-      "https://news.ycombinator.com/item?id=33238708"
-    ],
-    [
-      "Ask HN: Have you ever heard of users demonstrating against software?",
-      "https://news.ycombinator.com/item?id=33238708"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 19:19:16",
       "https://news.ycombinator.com/item?id=33238283"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
+      "2022-10-17, 17:00:49",
+      "https://news.ycombinator.com/item?id=33236447"
+    ],
+    [
+      "Gödel’s first incompleteness theorem – an interactive tutorial",
+      "https://tigyog.app/d/H7XOvXvC_x/r/goedel-s-first-incompleteness-theorem"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 14:41:44",
       "https://news.ycombinator.com/item?id=33234145"
     ],
     [
       "JWST reveals new surprises on galaxy organic molecules near black holes",
       "https://phys.org/news/2022-10-james-webb-space-telescope-reveals.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 14:37:28",
-      "https://news.ycombinator.com/item?id=33234083"
-    ],
-    [
-      "Our moon has been slowly drifting away from Earth over the past 2.5B yrs",
-      "https://phys.org/news/2022-10-moon-slowly-drifting-earth-billion.html"
     ]
   ],
   [
