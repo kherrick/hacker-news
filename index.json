@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-18, 12:09:41",
+      "https://news.ycombinator.com/item?id=33246016"
+    ],
+    [
+      "Facebook owner Meta to sell Giphy after UK watchdog confirms ruling",
+      "https://www.theguardian.com/technology/2022/oct/18/facebook-meta-sell-giphy-cma"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 12:08:28",
+      "https://news.ycombinator.com/item?id=33246007"
+    ],
+    [
+      "Crazy crypto mining story from 2013",
+      "https://joonaskoppa.medium.com/i-was-a-crazy-crypto-miner-dabebc276306"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 12:00:21",
+      "https://news.ycombinator.com/item?id=33245946"
+    ],
+    [
+      "Meticulous (YC S21) Is Hiring #3 Founding Engineer in London",
+      "https://news.ycombinator.com/item?id=33245946"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 11:35:59",
+      "https://news.ycombinator.com/item?id=33245760"
+    ],
+    [
+      "Microsoft Lays Off Employees After Slowdown in Earnings Growth",
+      "https://www.wsj.com/articles/microsoft-lays-off-employees-after-slowdown-in-earnings-growth-11666072959"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 11:28:50",
       "https://news.ycombinator.com/item?id=33245700"
     ],
@@ -21,12 +61,12 @@
   ],
   [
     [
-      "2022-10-18, 11:09:59",
-      "https://news.ycombinator.com/item?id=33245554"
+      "2022-10-18, 10:58:03",
+      "https://news.ycombinator.com/item?id=33245457"
     ],
     [
-      "She’s made 1,750 Wikipedia bios for female scientists",
-      "https://www.washingtonpost.com/lifestyle/2022/10/17/jess-wade-scientist-wikiepdia-women/"
+      "Jetstack Paranoia: A New Open-Source Tool for Container Image Security",
+      "https://www.jetstack.io/blog/announcing-paranoia/"
     ]
   ],
   [
@@ -41,6 +81,16 @@
   ],
   [
     [
+      "2022-10-18, 10:42:43",
+      "https://news.ycombinator.com/item?id=33245349"
+    ],
+    [
+      "The U.S. Just Lost 26 Years' Worth of Progress on Life Expectancy",
+      "https://www.scientificamerican.com/article/the-u-s-just-lost-26-years-worth-of-progress-on-life-expectancy/"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 10:33:32",
       "https://news.ycombinator.com/item?id=33245289"
     ],
@@ -51,12 +101,32 @@
   ],
   [
     [
+      "2022-10-18, 10:19:34",
+      "https://news.ycombinator.com/item?id=33245163"
+    ],
+    [
+      "Relaying Yubikeys",
+      "https://cube0x0.github.io/Relaying-YubiKeys/"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 10:02:43",
       "https://news.ycombinator.com/item?id=33245042"
     ],
     [
       "TOTP for 2FA is incredibly easy to implement. So what's your excuse?",
       "https://drewdevault.com/2022/10/18/TOTP-is-easy.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 09:54:59",
+      "https://news.ycombinator.com/item?id=33244991"
+    ],
+    [
+      "Should required fields be marked?",
+      "https://user-interface.io/should-required-fields-be-marked/"
     ]
   ],
   [
@@ -171,52 +241,12 @@
   ],
   [
     [
-      "2022-10-17, 20:59:34",
-      "https://news.ycombinator.com/item?id=33239443"
-    ],
-    [
-      "Reverse Engineer’s Perspective on the Boeing 787 ‘51 days’ Directive",
-      "https://ioactive.com/reverse-engineers-perspective-on-the-boeing-787-51-days-airworthiness-directive/"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 20:37:49",
       "https://news.ycombinator.com/item?id=33239220"
     ],
     [
       "Almost 25% of world’s seafloor now mapped",
       "https://www.hydro-international.com/content/news/seabed-2030-almost-25-of-world-s-seafloor-now-mapped"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 20:19:44",
-      "https://news.ycombinator.com/item?id=33239017"
-    ],
-    [
-      "Solar-powered headphones",
-      "https://www.bbc.com/news/business-63211086"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 19:19:16",
-      "https://news.ycombinator.com/item?id=33238283"
-    ],
-    [
-      "pigz: A parallel implementation of gzip for multi-core machines",
-      "https://github.com/madler/pigz"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 18:50:05",
-      "https://news.ycombinator.com/item?id=33237952"
-    ],
-    [
-      "North Paw",
-      "https://sensebridge.net/projects/northpaw/"
     ]
   ],
   [
@@ -237,16 +267,6 @@
     [
       "Compiling Swift Generics [pdf]",
       "https://download.swift.org/docs/assets/generics.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 17:00:49",
-      "https://news.ycombinator.com/item?id=33236447"
-    ],
-    [
-      "Gödel’s first incompleteness theorem – an interactive tutorial",
-      "https://tigyog.app/d/H7XOvXvC_x/r/goedel-s-first-incompleteness-theorem"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "The case for energy optimism",
       "https://syncretica.substack.com/p/the-case-for-energy-optimism"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 01:16:45",
-      "https://news.ycombinator.com/item?id=33220238"
-    ],
-    [
-      "\"The Social Network\" synth sounds",
-      "https://reverbmachine.com/blog/trent-reznor-social-network-synth-sounds/"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 17:38:13",
-      "https://news.ycombinator.com/item?id=33216837"
-    ],
-    [
-      "Robert De Niro’s Career in Five Artifacts",
-      "https://www.nytimes.com/2022/10/15/movies/robert-de-niro-archive-taxi-driver-raging-bull.html"
     ]
   ]
 ]
