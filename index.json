@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-18, 11:28:50",
+      "https://news.ycombinator.com/item?id=33245700"
+    ],
+    [
+      "MinTOTP – Minimal TOTP generator in 20 lines of Python",
+      "https://github.com/susam/mintotp"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 11:20:13",
+      "https://news.ycombinator.com/item?id=33245641"
+    ],
+    [
+      "Alien Truth",
+      "http://paulgraham.com/alien.html"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 10:52:02",
       "https://news.ycombinator.com/item?id=33245414"
     ],
     [
       "Libcamera v0.0.1",
       "https://git.libcamera.org/libcamera/libcamera.git/tag/?h=v0.0.1"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 10:33:32",
+      "https://news.ycombinator.com/item?id=33245289"
+    ],
+    [
+      "No 37C3 in 2022: Looking forward to decentralized alternatives and CCC Camp 2023",
+      "https://www.ccc.de/en/updates/2022/no-congress-2022"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "Dear JetBrains, Don't mess with your UI",
       "https://neil.computer/notes/dear-jetbrains-dont-mess-with-your-ui/"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 02:21:43",
-      "https://news.ycombinator.com/item?id=33242229"
-    ],
-    [
-      "Amazon’s attrition costs $8B annually according to leaked documents",
-      "https://www.engadget.com/amazon-attrition-leadership-ctsmd-201800110.html"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2022-10-17, 13:13:33",
-      "https://news.ycombinator.com/item?id=33232996"
-    ],
-    [
-      "Cybersickness Could Spell an Early Death for the Metaverse",
-      "https://www.thedailybeast.com/cybersickness-could-spell-an-early-death-for-the-metaverse-and-virtual-reality"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 12:26:47",
       "https://news.ycombinator.com/item?id=33232580"
     ],
     [
       "Real-World Engineering Challenges: Migrations",
       "https://newsletter.pragmaticengineer.com/p/real-world-engineering-challenges"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 12:13:48",
-      "https://news.ycombinator.com/item?id=33232477"
-    ],
-    [
-      "Virding's First Rule of Programming (2008)",
-      "http://rvirding.blogspot.com/2008/01/virdings-first-rule-of-programming.html"
     ]
   ],
   [
