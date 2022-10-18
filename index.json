@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-10-18, 23:26:24",
+      "https://news.ycombinator.com/item?id=33255469"
+    ],
+    [
+      "A Vision of Metascience",
+      "https://scienceplusplus.org/metascience/"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 22:59:16",
+      "https://news.ycombinator.com/item?id=33255201"
+    ],
+    [
+      "What's the difference between USB 3.0, 3.1 Gen 1 and 3.2 Gen 1x1? Just the name",
+      "https://www.technewstoday.com/usb-3-0-vs-3-1-vs-3-2/"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 22:17:26",
+      "https://news.ycombinator.com/item?id=33254791"
+    ],
+    [
+      "Lost something? Search through 91.7M files from the 80s, 90s, and 2000s",
+      "https://arstechnica.com/gaming/2022/10/lost-something-search-through-91-7-million-files-from-the-80s-90s-and-2000s/"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 22:15:16",
       "https://news.ycombinator.com/item?id=33254771"
     ],
     [
-      "Aquila: Google's New Datacenter Fabric",
+      "Aquila: A unified, low-latency fabric for datacenter networks",
       "https://www.usenix.org/conference/nsdi22/presentation/gibson"
     ]
   ],
@@ -57,16 +87,6 @@
     [
       "We rewrote a high-performance database in Rust",
       "https://www.pinecone.io/learn/rust-rewrite/"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 18:49:54",
-      "https://news.ycombinator.com/item?id=33252108"
-    ],
-    [
-      "The AT Protocol",
-      "https://atproto.com"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-10-18, 14:56:12",
-      "https://news.ycombinator.com/item?id=33248210"
-    ],
-    [
-      "iPad Pro M2",
-      "https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 14:38:43",
       "https://news.ycombinator.com/item?id=33247892"
     ],
@@ -197,16 +207,6 @@
     [
       "Microsoft Full Circle",
       "https://stratechery.com/2022/microsoft-full-circle/"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 11:20:13",
-      "https://news.ycombinator.com/item?id=33245641"
-    ],
-    [
-      "Alien Truth",
-      "http://paulgraham.com/alien.html"
     ]
   ],
   [
