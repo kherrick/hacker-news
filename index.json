@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-10-19, 18:53:56",
+      "https://news.ycombinator.com/item?id=33266372"
+    ],
+    [
+      "Wait vs. Interrupt Culture",
+      "http://benjaminrosshoffman.com/wait-vs-interrupt-culture/"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 18:23:31",
       "https://news.ycombinator.com/item?id=33266012"
     ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2022-10-19, 11:56:43",
+      "https://news.ycombinator.com/item?id=33260823"
+    ],
+    [
+      "Does SharePoint destroy intranet design? (2010)",
+      "https://www.nngroup.com/articles/sharepoint-destroy-intranet-design/"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 11:43:51",
       "https://news.ycombinator.com/item?id=33260695"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2022-10-18, 15:48:16",
-      "https://news.ycombinator.com/item?id=33249215"
-    ],
-    [
-      "Sound",
-      "https://ciechanow.ski/sound/"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 09:15:05",
       "https://news.ycombinator.com/item?id=33244768"
     ],
@@ -287,16 +297,6 @@
     [
       "What are the problems with process gates?",
       "https://www.rubick.com/process-gates-of-hell/"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 00:03:38",
-      "https://news.ycombinator.com/item?id=33228398"
-    ],
-    [
-      "Simple, Fast, and Scalable Reverse Image Search",
-      "https://canvatechblog.com/simple-fast-and-scalable-reverse-image-search-using-perceptual-hashes-and-dynamodb-df3007d19934"
     ]
   ]
 ]
