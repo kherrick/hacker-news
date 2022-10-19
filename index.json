@@ -1,22 +1,72 @@
 [
   [
     [
+      "2022-10-19, 03:36:22",
+      "https://news.ycombinator.com/item?id=33257300"
+    ],
+    [
+      "Future Pinball – A Real Time Pinball Development System",
+      "https://futurepinball.com"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 03:24:20",
+      "https://news.ycombinator.com/item?id=33257204"
+    ],
+    [
+      "81% of IT teams directed to reduce or halt cloud spending",
+      "https://venturebeat.com/data-infrastructure/report-81-of-it-teams-directed-to-reduce-or-halt-cloud-spending-by-c-suite/"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 03:23:42",
+      "https://news.ycombinator.com/item?id=33257197"
+    ],
+    [
+      "IDA cybersecurity software provider Hex-Rays acquired",
+      "https://smartfinvc.com/news/smartfin-acquires-leading-cybersecurity-software-provider-hex-rays-together-with-sfpim-and-sriw/"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 02:25:03",
+      "https://news.ycombinator.com/item?id=33256737"
+    ],
+    [
+      "Show HN: Stable Diffusion, but Fast",
+      "https://healthydiffusion.com/?a"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 01:49:45",
+      "https://news.ycombinator.com/item?id=33256446"
+    ],
+    [
+      "Focus Is Saying No to Good Ideas",
+      "https://commoncog.com/focus-saying-no-to-good-ideas/"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 01:49:40",
       "https://news.ycombinator.com/item?id=33256445"
     ],
     [
-      "Card Skimming Disproportionally Affects Those Most in Need",
+      "Card skimming disproportionally affects those most in need",
       "https://krebsonsecurity.com/2022/10/how-card-skimming-disproportionally-affects-those-most-in-need/"
     ]
   ],
   [
     [
-      "2022-10-19, 01:49:30",
-      "https://news.ycombinator.com/item?id=33256444"
+      "2022-10-19, 01:45:22",
+      "https://news.ycombinator.com/item?id=33256412"
     ],
     [
-      "With teachers in short supply, states ease job requirements",
-      "https://apnews.com/article/science-texas-alabama-race-and-ethnicity-0d83fcc256ec2efef37b0d5c24f418a5"
+      "Ask HN: What not-profit-seeking project are you tinkering with this week?",
+      "https://news.ycombinator.com/item?id=33256412"
     ]
   ],
   [
@@ -25,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33256378"
     ],
     [
-      "Starlink for Aviation",
+      "Starlink Aviation",
       "https://www.starlink.com/aviation"
     ]
   ],
@@ -41,16 +91,6 @@
   ],
   [
     [
-      "2022-10-19, 00:27:25",
-      "https://news.ycombinator.com/item?id=33255920"
-    ],
-    [
-      "Just for Fun. No, really.",
-      "https://justforfunnoreally.dev"
-    ]
-  ],
-  [
-    [
       "2022-10-19, 00:07:46",
       "https://news.ycombinator.com/item?id=33255773"
     ],
@@ -61,21 +101,11 @@
   ],
   [
     [
-      "2022-10-19, 00:07:40",
-      "https://news.ycombinator.com/item?id=33255772"
-    ],
-    [
-      "USB4 Specification v2.0",
-      "https://www.usb.org/document-library/usb4r-specification-v20"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 23:26:24",
       "https://news.ycombinator.com/item?id=33255469"
     ],
     [
-      "A Vision of Metascience",
+      "An Engine of Improvement for the Social Processes of Science",
       "https://scienceplusplus.org/metascience/"
     ]
   ],
@@ -137,16 +167,6 @@
     [
       "Photoshop for Text",
       "https://stephanango.com/photoshop-for-text"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 19:23:53",
-      "https://news.ycombinator.com/item?id=33252556"
-    ],
-    [
-      "Comprehensive list of FPGA development boards",
-      "https://www.fpgadeveloper.com/comprehensive-list-of-fpga-development-boards/"
     ]
   ],
   [
@@ -231,31 +251,11 @@
   ],
   [
     [
-      "2022-10-18, 12:47:42",
-      "https://news.ycombinator.com/item?id=33246343"
-    ],
-    [
-      "Researchers’ tests of lab-made version of Covid virus draw scrutiny",
-      "https://www.statnews.com/2022/10/17/boston-university-researchers-testing-of-lab-made-version-of-covid-virus-draws-government-scrutiny/"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 12:36:41",
-      "https://news.ycombinator.com/item?id=33246241"
-    ],
-    [
-      "Microsoft Full Circle",
-      "https://stratechery.com/2022/microsoft-full-circle/"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 11:28:51",
       "https://news.ycombinator.com/item?id=33245701"
     ],
     [
-      "Mathematicians Discover the Fibonacci Numbers Hiding in Strange Spaces",
+      "Mathematicians discover the Fibonacci numbers hiding in strange spaces",
       "https://www.quantamagazine.org/mathematicians-surprised-by-hidden-fibonacci-numbers-20221017/"
     ]
   ],
@@ -267,6 +267,16 @@
     [
       "Something’s jellyfishy in the state of Italy",
       "https://hakaimagazine.com/features/somethings-jellyfishy-in-the-state-of-italy/"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 08:19:14",
+      "https://news.ycombinator.com/item?id=33230977"
+    ],
+    [
+      "Michael Levin: Intelligence Beyond the Brain",
+      "https://www.youtube.com/watch?v=RwEKg5cjkKQ"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Borneo skeleton may show 31,000 year old amputation",
       "https://www.aljazeera.com/news/2022/9/8/borneo-skeleton-may-show-31000-year-old-amputation"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 22:38:29",
-      "https://news.ycombinator.com/item?id=33227801"
-    ],
-    [
-      "The Illustrated History of How Sugar Conquered the World (2017)",
-      "https://www.saveur.com/sugar-history-of-the-world/"
     ]
   ]
 ]
