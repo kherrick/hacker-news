@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-19, 17:39:56",
+      "https://news.ycombinator.com/item?id=33265439"
+    ],
+    [
+      "Why Most Published Research Findings Are False (2005)",
+      "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 17:15:44",
+      "https://news.ycombinator.com/item?id=33265128"
+    ],
+    [
+      "Substack is hiring Data Analysts to build the future for writing",
+      "https://boards.greenhouse.io/substack/jobs/4006118005?gh_src=hn"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 17:12:56",
+      "https://news.ycombinator.com/item?id=33265091"
+    ],
+    [
+      "My Initial Thoughts on Bluesky's AT Protocol",
+      "https://havenweb.org/2022/10/19/bluesky.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 16:31:11",
+      "https://news.ycombinator.com/item?id=33264558"
+    ],
+    [
+      "How a med student made the best AI writing assistant and got acquired by Jasper",
+      "https://theexitgame.substack.com/p/shortly-the-ai-powered-writing-assistant"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 16:24:31",
       "https://news.ycombinator.com/item?id=33264467"
     ],
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33263176"
     ],
     [
-      "It’s Time to Repeal the Jones Act",
+      "It’s time to repeal the Jones Act",
       "https://www.discoursemagazine.com/economics/2022/10/18/its-time-to-repeal-the-jones-act/"
     ]
   ],
@@ -57,16 +97,6 @@
     [
       "The Telefunken RA 770 Analog Computer",
       "http://www.analogmuseum.org/english/collection/telefunken/ra770/"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 14:30:04",
-      "https://news.ycombinator.com/item?id=33262760"
-    ],
-    [
-      "Community Phone Is Hiring Engineers to Make VoIP Simple and Reliable",
-      "https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-senior-backend-engineer"
     ]
   ],
   [
@@ -161,6 +191,16 @@
   ],
   [
     [
+      "2022-10-19, 11:26:37",
+      "https://news.ycombinator.com/item?id=33260527"
+    ],
+    [
+      "Managing and using ONVIF IP cameras with Linux",
+      "https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 11:26:30",
       "https://news.ycombinator.com/item?id=33260525"
     ],
@@ -177,16 +217,6 @@
     [
       "Show HN: I made a simple platform to find founders and buy side-projects",
       "https://news.ycombinator.com/item?id=33260380"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 09:59:34",
-      "https://news.ycombinator.com/item?id=33259835"
-    ],
-    [
-      "Icestudio: Drag and Drop FPGA programming and learning",
-      "https://github.com/FPGAwars/icestudio"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2022-10-19, 01:49:45",
-      "https://news.ycombinator.com/item?id=33256446"
-    ],
-    [
-      "Focus is saying no to good ideas",
-      "https://commoncog.com/focus-saying-no-to-good-ideas/"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 17:54:09",
       "https://news.ycombinator.com/item?id=33251334"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2022-10-18, 09:22:56",
-      "https://news.ycombinator.com/item?id=33244819"
-    ],
-    [
-      "Ableton Note – A playable iOS app for forming musical ideas",
-      "https://www.ableton.com/en/note/"
-    ]
-  ],
-  [
-    [
       "2022-10-18, 09:15:05",
       "https://news.ycombinator.com/item?id=33244768"
     ],
@@ -287,16 +297,6 @@
     [
       "Simple, Fast, and Scalable Reverse Image Search",
       "https://canvatechblog.com/simple-fast-and-scalable-reverse-image-search-using-perceptual-hashes-and-dynamodb-df3007d19934"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 00:02:39",
-      "https://news.ycombinator.com/item?id=33228387"
-    ],
-    [
-      "C Minus Minus",
-      "https://en.wikipedia.org/wiki/C--"
     ]
   ]
 ]
