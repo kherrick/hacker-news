@@ -1,22 +1,32 @@
 [
   [
     [
+      "2022-10-20, 08:31:04",
+      "https://news.ycombinator.com/item?id=33272117"
+    ],
+    [
+      "Demodesk is hiring a full-stack product engineer",
+      "https://demodesk.com/careers"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 07:19:59",
+      "https://news.ycombinator.com/item?id=33271750"
+    ],
+    [
+      "CarperAI announces plans for the first open-source “instruction-tuned” LM",
+      "https://carper.ai/instruct-gpt-announcement/"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 04:03:22",
       "https://news.ycombinator.com/item?id=33270712"
     ],
     [
       "AntiX-22 Released",
       "https://antixlinux.com/antix-22-released/"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 03:37:21",
-      "https://news.ycombinator.com/item?id=33270582"
-    ],
-    [
-      "Pig War (1859)",
-      "https://en.wikipedia.org/wiki/Pig_War_(1859)"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "PostgresML is 8-40x faster than Python HTTP microservices",
       "https://postgresml.org/blog/postgresml-is-8x-faster-than-python-http-microservices/"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 00:38:23",
-      "https://news.ycombinator.com/item?id=33269567"
-    ],
-    [
-      "NIH blocks access to genetics database if research enters “forbidden” territory",
-      "https://www.city-journal.org/nih-blocks-access-to-genetics-database"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-10-19, 15:26:16",
-      "https://news.ycombinator.com/item?id=33263603"
-    ],
-    [
-      "Kill Bill – Open-Source Subscription Billing and Payments Platform",
-      "https://github.com/killbill/killbill"
-    ]
-  ],
-  [
-    [
       "2022-10-19, 14:22:21",
       "https://news.ycombinator.com/item?id=33262637"
     ],
@@ -237,6 +227,16 @@
     [
       "Quantum Monism Could Save the Soul of Physics",
       "https://blogs.scientificamerican.com/observations/quantum-monism-could-save-the-soul-of-physics/"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 04:53:11",
+      "https://news.ycombinator.com/item?id=33257846"
+    ],
+    [
+      "Engineering Judgement: Ralph Peck",
+      "https://peck.geoengineer.org/resources/videos/singleVideo/41"
     ]
   ],
   [
