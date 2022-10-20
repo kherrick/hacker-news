@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-20, 14:28:33",
+      "https://news.ycombinator.com/item?id=33275206"
+    ],
+    [
+      "Canonical releases Ubuntu 22.10 Kinetic Kudu",
+      "https://ubuntu.com/blog/canonical-releases-ubuntu-22-10-kinetic-kudu"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 14:16:22",
+      "https://news.ycombinator.com/item?id=33274988"
+    ],
+    [
+      "DevOps Is Bullshit",
+      "https://blog.massdriver.cloud/devops-is-bullshit"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 14:10:35",
       "https://news.ycombinator.com/item?id=33274918"
     ],
@@ -117,16 +137,6 @@
     [
       "Illegal Jig Grinder – Charges and Arrests",
       "https://www.justice.gov/opa/pr/justice-department-announces-charges-and-arrests-two-cases-involving-export-violation-schemes"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 12:35:34",
-      "https://news.ycombinator.com/item?id=33273675"
-    ],
-    [
-      "Liz Truss resigns as UK prime minister",
-      "https://www.bbc.co.uk/news/live/uk-politics-63309400"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Findings show that the Vikings' self-image was influenced by Ancient Rome",
       "https://phys.org/news/2022-10-vikings-self-image-ancient-rome.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 19:20:34",
-      "https://news.ycombinator.com/item?id=33238299"
-    ],
-    [
-      "That Shouldn't Happen – UnreachableException in .NET 7",
-      "https://ab.bot/blog/that-shouldnt-happen-unreachableexception-in-net-7"
     ]
   ]
 ]
