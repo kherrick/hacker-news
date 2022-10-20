@@ -1,22 +1,72 @@
 [
   [
     [
+      "2022-10-20, 02:23:18",
+      "https://news.ycombinator.com/item?id=33270148"
+    ],
+    [
+      "Iran's government moves to criminalize VPNs",
+      "https://www.article19.org/resources/tightening-the-net-is-the-dangerous-user-protection-bill-still-imminent/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 01:29:34",
+      "https://news.ycombinator.com/item?id=33269858"
+    ],
+    [
+      "Pocket Casts Mobile Apps Are Now Open Source",
+      "https://blog.pocketcasts.com/2022/10/19/pocket-casts-mobile-apps-are-now-open-source/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 01:15:25",
+      "https://news.ycombinator.com/item?id=33269784"
+    ],
+    [
+      "The Mystery of 355/113 (2010)",
+      "http://davidbau.com/archives/2010/03/14/the_mystery_of_355113.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 00:45:32",
+      "https://news.ycombinator.com/item?id=33269615"
+    ],
+    [
+      "PostgresML is 8-40x faster than Python HTTP microservices",
+      "https://postgresml.org/blog/postgresml-is-8x-faster-than-python-http-microservices/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 00:38:23",
+      "https://news.ycombinator.com/item?id=33269567"
+    ],
+    [
+      "NIH blocks access to genetics database if research enters “forbidden” territory",
+      "https://www.city-journal.org/nih-blocks-access-to-genetics-database"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 23:26:13",
+      "https://news.ycombinator.com/item?id=33269092"
+    ],
+    [
+      "We are still early with the cloud",
+      "https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 22:04:53",
       "https://news.ycombinator.com/item?id=33268451"
     ],
     [
       "A Geometrically Natural Uncomputable Function (2008)",
       "https://xorshammer.com/2008/09/04/a-geometrically-natural-uncomputable-function/"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 22:01:05",
-      "https://news.ycombinator.com/item?id=33268413"
-    ],
-    [
-      "One year of wildfires undid decades of California’s emissions policy",
-      "https://www.economist.com/graphic-detail/2022/10/19/one-year-of-wildfires-undid-decades-of-californias-emissions-policy"
     ]
   ],
   [
@@ -37,6 +87,16 @@
     [
       "My PhD Genealogy",
       "http://robots.stanford.edu/genealogy"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 19:45:56",
+      "https://news.ycombinator.com/item?id=33267062"
+    ],
+    [
+      "The link between August birthdays and ADHD (2018)",
+      "https://www.nytimes.com/2018/11/28/opinion/august-birthdays-adhd.html"
     ]
   ],
   [
@@ -101,16 +161,6 @@
   ],
   [
     [
-      "2022-10-19, 17:03:50",
-      "https://news.ycombinator.com/item?id=33264973"
-    ],
-    [
-      "The Soviet Union’s Nuclear Icebreakers",
-      "https://asianometry.substack.com/p/the-soviet-unions-nuclear-icebreakers"
-    ]
-  ],
-  [
-    [
       "2022-10-19, 15:26:16",
       "https://news.ycombinator.com/item?id=33263603"
     ],
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2022-10-19, 14:42:09",
-      "https://news.ycombinator.com/item?id=33262945"
-    ],
-    [
-      "The Telefunken RA 770 Analog Computer",
-      "http://www.analogmuseum.org/english/collection/telefunken/ra770/"
-    ]
-  ],
-  [
-    [
       "2022-10-19, 14:22:21",
       "https://news.ycombinator.com/item?id=33262637"
     ],
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2022-10-19, 13:24:19",
-      "https://news.ycombinator.com/item?id=33261766"
-    ],
-    [
-      "Wargame: LaTeX package to prepare hex'n'counter wargames",
-      "https://ctan.org/pkg/wargame"
-    ]
-  ],
-  [
-    [
       "2022-10-19, 13:00:56",
       "https://news.ycombinator.com/item?id=33261494"
     ],
     [
       "Show HN: I made a new AI colorizer",
       "https://palette.fm/"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 12:43:56",
-      "https://news.ycombinator.com/item?id=33261288"
-    ],
-    [
-      "Identity management for WireGuard",
-      "https://lwn.net/SubscriberLink/910766/7678f8c4ede60928/"
     ]
   ],
   [
@@ -211,32 +231,22 @@
   ],
   [
     [
-      "2022-10-19, 11:56:43",
-      "https://news.ycombinator.com/item?id=33260823"
-    ],
-    [
-      "Does SharePoint destroy intranet design? (2010)",
-      "https://www.nngroup.com/articles/sharepoint-destroy-intranet-design/"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 11:43:51",
-      "https://news.ycombinator.com/item?id=33260695"
-    ],
-    [
-      "Part of the long-lost star catalogue of Hipparchus found in medieval parchment",
-      "https://www.nature.com/articles/d41586-022-03296-1"
-    ]
-  ],
-  [
-    [
       "2022-10-19, 08:40:24",
       "https://news.ycombinator.com/item?id=33259289"
     ],
     [
       "Forgotten Employee (2002)",
       "https://sites.google.com/site/forgottenemployee/"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 05:48:49",
+      "https://news.ycombinator.com/item?id=33258231"
+    ],
+    [
+      "Public Randomness and Randomness Beacons",
+      "https://a16zcrypto.com/public-randomness-and-randomness-beacons/"
     ]
   ],
   [
@@ -255,28 +265,8 @@
       "https://news.ycombinator.com/item?id=33254712"
     ],
     [
-      "Ammonia Combustion Engines (2021)",
+      "Ammonia combustion engines: latest research (2021)",
       "https://www.ammoniaenergy.org/articles/ammonia-combustion-engines-latest-research/"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 21:36:24",
-      "https://news.ycombinator.com/item?id=33254341"
-    ],
-    [
-      "The algorithm: Mapping long-term trends and short-term change at multiple scales",
-      "https://academic.oup.com/ahr/article/127/2/895/6705108"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 17:54:09",
-      "https://news.ycombinator.com/item?id=33251334"
-    ],
-    [
-      "A lot of what is known about pirates is not true (2017)",
-      "https://www.neh.gov/humanities/2017/winter/feature/lot-what-known-about-pirates-not-true-and-lot-what-true-not-known"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2022-10-17, 03:39:53",
-      "https://news.ycombinator.com/item?id=33229614"
+      "2022-10-17, 19:20:34",
+      "https://news.ycombinator.com/item?id=33238299"
     ],
     [
-      "Nima Arkani-Hamed: The End of Space-Time",
-      "https://www.youtube.com/watch?v=GL77oOnrPzY"
+      "That Shouldn't Happen – UnreachableException in .NET 7",
+      "https://ab.bot/blog/that-shouldnt-happen-unreachableexception-in-net-7"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 01:05:50",
+      "https://news.ycombinator.com/item?id=33228782"
+    ],
+    [
+      "Escape-on-input is a bad idea (2012)",
+      "https://lukeplant.me.uk/blog/posts/why-escape-on-input-is-a-bad-idea/"
     ]
   ]
 ]
