@@ -1,6 +1,76 @@
 [
   [
     [
+      "2022-10-20, 14:07:39",
+      "https://news.ycombinator.com/item?id=33274885"
+    ],
+    [
+      "San Francisco to Spend $1.7M to Build a Single Public Toilet",
+      "https://news.yahoo.com/flushing-money-san-francisco-spend-154446848.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 13:55:53",
+      "https://news.ycombinator.com/item?id=33274744"
+    ],
+    [
+      "Is OpenStack fighting a lost battle?",
+      "https://memooo.ooo/posts/is-openstack-losing/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 13:51:11",
+      "https://news.ycombinator.com/item?id=33274679"
+    ],
+    [
+      "OpenBSD 7.2",
+      "https://www.openbsd.org/72.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 13:28:54",
+      "https://news.ycombinator.com/item?id=33274402"
+    ],
+    [
+      "Microbenchmarking Intel’s Arc A770",
+      "https://chipsandcheese.com/2022/10/20/microbenchmarking-intels-arc-a770/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 13:18:27",
+      "https://news.ycombinator.com/item?id=33274246"
+    ],
+    [
+      "Intel Core I9-13900K and I5-13600K Review: Raptor Lake Brings More Bite",
+      "https://www.anandtech.com/show/17601/intel-core-i9-13900k-and-i5-13600k-review"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 13:17:59",
+      "https://news.ycombinator.com/item?id=33274239"
+    ],
+    [
+      "Accounting for developers part III – building a lending marketplace",
+      "https://www.moderntreasury.com/journal/accounting-for-developers-part-iii"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 13:13:48",
+      "https://news.ycombinator.com/item?id=33274186"
+    ],
+    [
+      "The Overflow Offline Project – Stack Overflow Blog",
+      "https://stackoverflow.blog/2022/10/20/introducing-the-overflow-offline-project/"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 13:01:47",
       "https://news.ycombinator.com/item?id=33274031"
     ],
@@ -31,6 +101,16 @@
   ],
   [
     [
+      "2022-10-20, 12:17:09",
+      "https://news.ycombinator.com/item?id=33273495"
+    ],
+    [
+      "Amazon faces $1B lawsuit in UK for 'favouring its own products'",
+      "https://www.reuters.com/business/retail-consumer/amazon-faces-1-bln-lawsuit-uk-favouring-its-own-products-2022-10-20/"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 12:00:15",
       "https://news.ycombinator.com/item?id=33273347"
     ],
@@ -47,6 +127,16 @@
     [
       "Your account is permanently suspended",
       "https://twitter.com/benthompson/status/1583059222555930629"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 11:18:44",
+      "https://news.ycombinator.com/item?id=33273022"
+    ],
+    [
+      "Ask HN: Recommend me a Blender course",
+      "https://news.ycombinator.com/item?id=33273022"
     ]
   ],
   [
@@ -111,16 +201,6 @@
   ],
   [
     [
-      "2022-10-20, 03:32:02",
-      "https://news.ycombinator.com/item?id=33270535"
-    ],
-    [
-      "AI will replace middle management before robots replace hourly workers",
-      "https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 02:47:19",
       "https://news.ycombinator.com/item?id=33270268"
     ],
@@ -161,52 +241,12 @@
   ],
   [
     [
-      "2022-10-20, 01:05:50",
-      "https://news.ycombinator.com/item?id=33269726"
-    ],
-    [
-      "Rikuo: Harley-Davidson and the Birth of the Japanese Motorcycle (1978)",
-      "https://magazine.cycleworld.com/article/1978/04/01/rikuo"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 00:21:26",
       "https://news.ycombinator.com/item?id=33269443"
     ],
     [
       "We're Drowning",
       "https://snarfed.org/2022-03-10_were-drowning-software-dependencies"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 23:26:13",
-      "https://news.ycombinator.com/item?id=33269092"
-    ],
-    [
-      "We are still early with the cloud",
-      "https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 18:53:56",
-      "https://news.ycombinator.com/item?id=33266372"
-    ],
-    [
-      "Wait vs. Interrupt Culture",
-      "http://benjaminrosshoffman.com/wait-vs-interrupt-culture/"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 18:23:31",
-      "https://news.ycombinator.com/item?id=33266012"
-    ],
-    [
-      "How to use a watch as a compass",
-      "https://www.citizenwatch-global.com/support/exterior/direction.html"
     ]
   ],
   [
@@ -221,52 +261,12 @@
   ],
   [
     [
-      "2022-10-19, 14:22:21",
-      "https://news.ycombinator.com/item?id=33262637"
-    ],
-    [
-      "Inside the Proton",
-      "https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/"
-    ]
-  ],
-  [
-    [
       "2022-10-19, 14:20:53",
       "https://news.ycombinator.com/item?id=33262613"
     ],
     [
       "Can We Control Time in Operating System Design?",
       "https://research.redhat.com/events/toward-knowledge-driven-system-management-to-control-timeliness/"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 13:40:45",
-      "https://news.ycombinator.com/item?id=33261981"
-    ],
-    [
-      "Why modifying gravity doesn’t add up",
-      "https://bigthink.com/starts-with-a-bang/modifying-gravity/"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 12:27:18",
-      "https://news.ycombinator.com/item?id=33261125"
-    ],
-    [
-      "Write better error messages",
-      "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 04:39:20",
-      "https://news.ycombinator.com/item?id=33257733"
-    ],
-    [
-      "The Thoughtful Prick: On Casanova",
-      "https://harpers.org/archive/2022/11/the-thoughtful-prick-adventurer-the-life-and-times-of-giacomo-casanova-leo-damrosch/"
     ]
   ],
   [
