@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-20, 21:00:36",
+      "https://news.ycombinator.com/item?id=33280627"
+    ],
+    [
+      "Release (YC W20) Is Hiring – Senior Cloud Infrastructure Engineer",
+      "https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 20:23:12",
+      "https://news.ycombinator.com/item?id=33280176"
+    ],
+    [
+      "ByteDance planned to use TikTok to surveil specific American citizens",
+      "https://www.forbes.com/sites/emilybaker-white/2022/10/20/tiktok-bytedance-surveillance-american-user-data/"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 19:52:15",
       "https://news.ycombinator.com/item?id=33279811"
     ],
     [
       "Barcelona-style “superblocks” could make cities greener and less car-centric",
       "https://www.anthropocenemagazine.org/2022/03/barceolona-style-superblocks-a-surprising-number-of-cities-greener/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 19:11:16",
+      "https://news.ycombinator.com/item?id=33279281"
+    ],
+    [
+      "Endonuclease fingerprint indicates a synthetic origin of SARS-CoV-2?",
+      "https://www.biorxiv.org/content/10.1101/2022.10.18.512756v1"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Battle with bots prompts purge of Amazon, Apple employee accounts on LinkedIn",
       "https://krebsonsecurity.com/2022/10/battle-with-bots-prompts-mass-purge-of-amazon-apple-employee-accounts-on-linkedin/"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 17:00:35",
-      "https://news.ycombinator.com/item?id=33277540"
-    ],
-    [
-      "Evidence (YC S21) is hiring engineers to build a web framework for data teams",
-      "https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer"
     ]
   ],
   [
@@ -181,22 +201,22 @@
   ],
   [
     [
+      "2022-10-20, 14:40:25",
+      "https://news.ycombinator.com/item?id=33275418"
+    ],
+    [
+      "India fines Google $162M for anti-competitive practices on Android",
+      "https://techcrunch.com/2022/10/20/india-fines-google-162-million-for-anti-competitive-practices-on-android/"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 14:28:33",
       "https://news.ycombinator.com/item?id=33275206"
     ],
     [
       "Ubuntu 22.10 Kinetic Kudu",
       "https://ubuntu.com/blog/canonical-releases-ubuntu-22-10-kinetic-kudu"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 14:16:22",
-      "https://news.ycombinator.com/item?id=33274988"
-    ],
-    [
-      "DevOps is broken",
-      "https://blog.massdriver.cloud/devops-is-bullshit"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Google is forcing us to make our open source VoIP app worse",
       "https://www.voys.co.za/blog/how-google-is-forcing-us-to-make-our-open-source-app-worse/"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 10:58:01",
-      "https://news.ycombinator.com/item?id=33272883"
-    ],
-    [
-      "How to check if any word is zero (2021)",
-      "http://0x80.pl/notesen/2021-03-11-any-word-is-zero.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 10:48:29",
-      "https://news.ycombinator.com/item?id=33272824"
-    ],
-    [
-      "Quirks, Caveats, and Gotchas in SQLite",
-      "https://www.sqlite.org/quirks.html"
     ]
   ],
   [
