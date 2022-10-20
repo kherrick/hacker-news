@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-20, 23:03:42",
+      "https://news.ycombinator.com/item?id=33281974"
+    ],
+    [
+      "Current state of AV1 codec playback support – Oct '22",
+      "https://bitmovin.com/av1-playback-support/"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 21:52:45",
       "https://news.ycombinator.com/item?id=33281310"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2022-10-20, 20:23:12",
-      "https://news.ycombinator.com/item?id=33280176"
-    ],
-    [
-      "ByteDance planned to use TikTok to surveil specific American citizens",
-      "https://www.forbes.com/sites/emilybaker-white/2022/10/20/tiktok-bytedance-surveillance-american-user-data/"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 20:18:43",
       "https://news.ycombinator.com/item?id=33280130"
     ],
@@ -97,6 +97,16 @@
     [
       "Endonuclease fingerprint indicates a synthetic origin of SARS-CoV-2?",
       "https://www.biorxiv.org/content/10.1101/2022.10.18.512756v1"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 19:10:53",
+      "https://news.ycombinator.com/item?id=33279274"
+    ],
+    [
+      "It was all downhill after the Cuecat",
+      "https://pluralistic.net/2022/10/20/benevolent-dictators/#felony-contempt-of-business-model"
     ]
   ],
   [
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=33275500"
     ],
     [
-      "CloudFront vs. Cloudflare, and how to reduce response times for both",
+      "CloudFront vs. Cloudflare, and how to reduce response times for both (2021)",
       "https://www.foxy.io/blog/cloudfront-vs-cloudflare-and-how-to-reduce-response-times-for-both-by-35/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "'Wobbling black hole' most extreme example ever detected",
       "https://phys.org/news/2022-10-black-hole-extreme.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 17:36:40",
-      "https://news.ycombinator.com/item?id=33265387"
-    ],
-    [
-      "Soviet Argon-11S Computers for Space",
-      "https://www.cpushack.com/2022/10/19/soviet-argon-11s-computers-for-space/"
     ]
   ]
 ]
