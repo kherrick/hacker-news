@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-20, 09:49:39",
+      "https://news.ycombinator.com/item?id=33272536"
+    ],
+    [
+      "New research suggests our brains use quantum computation",
+      "https://phys.org/news/2022-10-brains-quantum.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 09:19:12",
+      "https://news.ycombinator.com/item?id=33272373"
+    ],
+    [
+      "Traff: An open source format/service for live road traffic updates",
+      "https://gitlab.com/traffxml"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 08:31:04",
       "https://news.ycombinator.com/item?id=33272117"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-10-19, 22:04:53",
-      "https://news.ycombinator.com/item?id=33268451"
-    ],
-    [
-      "A Geometrically Natural Uncomputable Function (2008)",
-      "https://xorshammer.com/2008/09/04/a-geometrically-natural-uncomputable-function/"
-    ]
-  ],
-  [
-    [
       "2022-10-19, 20:25:41",
       "https://news.ycombinator.com/item?id=33267518"
     ],
@@ -187,16 +197,6 @@
     [
       "Why most published research findings are false (2005)",
       "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 15:26:16",
-      "https://news.ycombinator.com/item?id=33263603"
-    ],
-    [
-      "Kill Bill – Open-Source Subscription Billing and Payments Platform",
-      "https://github.com/killbill/killbill"
     ]
   ],
   [
