@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33278633"
     ],
     [
-      "Washington Officials Traded Stocks with Exquisite Timing",
+      "As Covid hit, Washington officials traded stocks with exquisite timing",
       "https://www.wsj.com/articles/covid-washington-officials-stocks-trading-markets-stimulus-11666192404"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33277865"
     ],
     [
-      "Battle with Bots Prompts Mass Purge of Amazon, Apple Employee Accounts on Linke",
+      "Battle with bots prompts purge of Amazon, Apple employee accounts on LinkedIn",
       "https://krebsonsecurity.com/2022/10/battle-with-bots-prompts-mass-purge-of-amazon-apple-employee-accounts-on-linkedin/"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33277540"
     ],
     [
-      "Evidence (YC S21) Is Hiring Engineers to Build a Web Framework for Data Teams",
+      "Evidence (YC S21) is hiring engineers to build a web framework for data teams",
       "https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33277445"
     ],
     [
-      "New Jersey Legislators Aim to Ban Most In-Car Subscriptions",
+      "New Jersey legislators aim to ban most in-car subscriptions",
       "https://www.thedrive.com/news/new-jersey-legislators-aim-to-ban-most-in-car-subscriptions"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33276187"
     ],
     [
-      "BSD-XFCE Installs macOS-Like XFCE Enviroment on FreeBSD",
+      "BSD-XFCE installs macOS-like XFCE enviroment on FreeBSD",
       "https://github.com/Wamphyre/BSD-XFCE"
     ]
   ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=33276137"
     ],
     [
-      "Finding Relationships Between Ruby’s Top Packages and Their Dependencies",
+      "Finding relationships between Ruby’s top packages and their dependencies",
       "https://shopify.engineering/relationships-between-ruby-top-100-packages-dependencies"
     ]
   ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=33275500"
     ],
     [
-      "CloudFront vs. Cloudflare, and how to reduce response times for both by ~35%+",
+      "CloudFront vs. Cloudflare, and how to reduce response times for both",
       "https://www.foxy.io/blog/cloudfront-vs-cloudflare-and-how-to-reduce-response-times-for-both-by-35/"
     ]
   ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=33274875"
     ],
     [
-      "Open Core Companies Are Not Incentivized to Make Their Projects Good",
+      "Open core companies are not incentivized to make their projects good",
       "https://www.plural.sh/blog/open-core-companies/"
     ]
   ],
@@ -217,16 +217,6 @@
     [
       "OpenBSD 7.2",
       "https://www.openbsd.org/72.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 13:49:28",
-      "https://news.ycombinator.com/item?id=33274661"
-    ],
-    [
-      "Show HN: Record voice memo, receive transcription in email",
-      "https://whispermemos.com/"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=33274186"
     ],
     [
-      "The Overflow Offline Project – Stack Overflow Blog",
+      "The Overflow Offline project",
       "https://stackoverflow.blog/2022/10/20/introducing-the-overflow-offline-project/"
     ]
   ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33273210"
     ],
     [
-      "How Google is forcing us to make our open source VoIP app worse",
+      "Google is forcing us to make our open source VoIP app worse",
       "https://www.voys.co.za/blog/how-google-is-forcing-us-to-make-our-open-source-app-worse/"
     ]
   ],
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33272883"
     ],
     [
-      "How to check if any word is zero",
+      "How to check if any word is zero (2021)",
       "http://0x80.pl/notesen/2021-03-11-any-word-is-zero.html"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Quirks, Caveats, and Gotchas in SQLite",
       "https://www.sqlite.org/quirks.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 09:19:12",
+      "https://news.ycombinator.com/item?id=33272373"
+    ],
+    [
+      "Traff: A universal format for live traffic information",
+      "https://traffxml.gitlab.io/"
     ]
   ],
   [
