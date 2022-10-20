@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-10-20, 02:23:18",
-      "https://news.ycombinator.com/item?id=33270148"
+      "2022-10-20, 03:37:21",
+      "https://news.ycombinator.com/item?id=33270582"
     ],
     [
-      "Iran's government moves to criminalize VPNs",
-      "https://www.article19.org/resources/tightening-the-net-is-the-dangerous-user-protection-bill-still-imminent/"
+      "Pig War (1859)",
+      "https://en.wikipedia.org/wiki/Pig_War_(1859)"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 03:32:02",
+      "https://news.ycombinator.com/item?id=33270535"
+    ],
+    [
+      "AI will replace middle management before robots replace hourly workers",
+      "https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 02:47:19",
+      "https://news.ycombinator.com/item?id=33270268"
+    ],
+    [
+      "A large scale non-linear optimization library",
+      "https://github.com/ceres-solver/ceres-solver"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 02:39:24",
+      "https://news.ycombinator.com/item?id=33270235"
+    ],
+    [
+      "Stop Writing Dead Programs",
+      "https://jackrusher.com/strange-loop-2022/"
     ]
   ],
   [
@@ -211,22 +241,12 @@
   ],
   [
     [
-      "2022-10-19, 13:00:56",
-      "https://news.ycombinator.com/item?id=33261494"
+      "2022-10-19, 11:43:51",
+      "https://news.ycombinator.com/item?id=33260695"
     ],
     [
-      "Show HN: I made a new AI colorizer",
-      "https://palette.fm/"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 12:27:18",
-      "https://news.ycombinator.com/item?id=33261125"
-    ],
-    [
-      "Write better error messages",
-      "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f"
+      "Part of the long-lost star catalogue of Hipparchus found in medieval parchment",
+      "https://www.nature.com/articles/d41586-022-03296-1"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-10-18, 09:15:05",
-      "https://news.ycombinator.com/item?id=33244768"
-    ],
-    [
-      "Pipe Viewer",
-      "http://www.ivarch.com/programs/pv.shtml"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 19:20:34",
       "https://news.ycombinator.com/item?id=33238299"
     ],
     [
       "That Shouldn't Happen – UnreachableException in .NET 7",
       "https://ab.bot/blog/that-shouldnt-happen-unreachableexception-in-net-7"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 01:05:50",
-      "https://news.ycombinator.com/item?id=33228782"
-    ],
-    [
-      "Escape-on-input is a bad idea (2012)",
-      "https://lukeplant.me.uk/blog/posts/why-escape-on-input-is-a-bad-idea/"
     ]
   ]
 ]
