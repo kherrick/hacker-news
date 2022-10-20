@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-10-20, 16:19:48",
+      "https://news.ycombinator.com/item?id=33276963"
+    ],
+    [
+      "Ask HN: How to overcome job search exhaustion?",
+      "https://news.ycombinator.com/item?id=33276963"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 16:05:01",
+      "https://news.ycombinator.com/item?id=33276752"
+    ],
+    [
+      "Nabla – Isometric Color Font",
+      "https://nabla.typearture.com/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 15:59:41",
+      "https://news.ycombinator.com/item?id=33276668"
+    ],
+    [
+      "Diabetes, arthritis, and multiple sclerosis trace roots back to the Black Death",
+      "https://studyfinds.org/autoimmune-disease-black-death/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 15:55:26",
+      "https://news.ycombinator.com/item?id=33276601"
+    ],
+    [
+      "MagicDNS is Generally Available",
+      "https://tailscale.com/blog/magicdns/"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 15:37:19",
       "https://news.ycombinator.com/item?id=33276342"
     ],
     [
       "DaVinci Resolve for iPad",
       "https://www.blackmagicdesign.com/media/release/20221020-02"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 15:26:28",
+      "https://news.ycombinator.com/item?id=33276187"
+    ],
+    [
+      "BSD-XFCE Installs macOS-Like XFCE Enviroment on FreeBSD",
+      "https://github.com/Wamphyre/BSD-XFCE"
     ]
   ],
   [
@@ -31,6 +81,16 @@
   ],
   [
     [
+      "2022-10-20, 14:45:15",
+      "https://news.ycombinator.com/item?id=33275500"
+    ],
+    [
+      "CloudFront vs. Cloudflare, and how to reduce response times for both by ~35%+",
+      "https://www.foxy.io/blog/cloudfront-vs-cloudflare-and-how-to-reduce-response-times-for-both-by-35/"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 14:40:25",
       "https://news.ycombinator.com/item?id=33275418"
     ],
@@ -47,16 +107,6 @@
     [
       "Canonical releases Ubuntu 22.10 Kinetic Kudu",
       "https://ubuntu.com/blog/canonical-releases-ubuntu-22-10-kinetic-kudu"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 14:16:22",
-      "https://news.ycombinator.com/item?id=33274988"
-    ],
-    [
-      "DevOps Is Bullshit",
-      "https://blog.massdriver.cloud/devops-is-bullshit"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2022-10-20, 13:18:27",
-      "https://news.ycombinator.com/item?id=33274246"
-    ],
-    [
-      "Intel Core I9-13900K and I5-13600K Review: Raptor Lake Brings More Bite",
-      "https://www.anandtech.com/show/17601/intel-core-i9-13900k-and-i5-13600k-review"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 13:17:59",
       "https://news.ycombinator.com/item?id=33274239"
     ],
@@ -167,16 +207,6 @@
     [
       "The M247/DataPacket Problem with Mullvad VPN",
       "https://worldofmatthew.com/technology/mullvad-m247/"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 12:17:09",
-      "https://news.ycombinator.com/item?id=33273495"
-    ],
-    [
-      "Amazon faces $1B lawsuit in UK for 'favouring its own products'",
-      "https://www.reuters.com/business/retail-consumer/amazon-faces-1-bln-lawsuit-uk-favouring-its-own-products-2022-10-20/"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2022-10-20, 11:08:53",
-      "https://news.ycombinator.com/item?id=33272952"
-    ],
-    [
-      "Firefox Beta for Android now supports custom add-on collections",
-      "https://www.ghacks.net/2022/10/20/firefox-beta-for-android-now-supports-custom-add-on-collections/"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 10:48:29",
       "https://news.ycombinator.com/item?id=33272824"
     ],
@@ -257,26 +277,6 @@
     [
       "CarperAI announces plans for the first open-source “instruction-tuned” LM",
       "https://carper.ai/instruct-gpt-announcement/"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 02:47:19",
-      "https://news.ycombinator.com/item?id=33270268"
-    ],
-    [
-      "A large scale non-linear optimization library",
-      "https://github.com/ceres-solver/ceres-solver"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 01:15:25",
-      "https://news.ycombinator.com/item?id=33269784"
-    ],
-    [
-      "The Mystery of 355/113 (2010)",
-      "http://davidbau.com/archives/2010/03/14/the_mystery_of_355113.html"
     ]
   ],
   [
