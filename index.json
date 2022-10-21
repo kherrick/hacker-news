@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-21, 02:25:56",
+      "https://news.ycombinator.com/item?id=33283712"
+    ],
+    [
+      "Why we chose not to release Stable Diffusion 1.5 as quickly",
+      "https://danieljeffries.substack.com/p/why-the-future-of-open-source-ai"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 02:22:01",
+      "https://news.ycombinator.com/item?id=33283674"
+    ],
+    [
+      "Show HN: I'm trying to guess your personality by your comments with an NLP model",
+      "https://ezpersonality.com"
+    ]
+  ],
+  [
+    [
       "2022-10-21, 01:00:38",
       "https://news.ycombinator.com/item?id=33282883"
     ],
@@ -11,42 +31,12 @@
   ],
   [
     [
-      "2022-10-21, 00:41:34",
-      "https://news.ycombinator.com/item?id=33282757"
-    ],
-    [
-      "Nearly Half of San Franciscans Have Been Victims of Theft, New Poll Says",
-      "https://sfstandard.com/criminal-justice/nearly-half-of-san-franciscans-have-been-victims-of-theft-new-poll-says/"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 00:06:03",
-      "https://news.ycombinator.com/item?id=33282520"
-    ],
-    [
-      "Fingerprinting systems with TCP source-port selection",
-      "https://lwn.net/Articles/910435/"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 23:03:42",
       "https://news.ycombinator.com/item?id=33281974"
     ],
     [
-      "Current state of AV1 codec playback support – Oct '22",
+      "The State of AV1 Playback Support",
       "https://bitmovin.com/av1-playback-support/"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 22:46:38",
-      "https://news.ycombinator.com/item?id=33281812"
-    ],
-    [
-      "Amazon's Jeff Bezos in economy warning: 'Batten down hatches'",
-      "https://www.bbc.com/news/business-63319010"
     ]
   ],
   [
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33281682"
     ],
     [
-      "Size of Andromeda galaxy compared to the Moon",
+      "Apparent size of Andromeda galaxy compared to the Moon",
       "https://astronomy.stackexchange.com/questions/23378/is-this-photocomposition-of-andromedas-galaxy-and-the-moon-accurate"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33281310"
     ],
     [
-      "A Bluetooth Low Energy (BLE) soil moisture sensor",
+      "A Bluetooth Low Energy  soil moisture sensor",
       "https://github.com/rbaron/b-parasite"
     ]
   ],
@@ -87,16 +77,6 @@
     [
       "SHA-3 Buffer Overflow",
       "https://mouha.be/sha-3-buffer-overflow/"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 21:33:32",
-      "https://news.ycombinator.com/item?id=33281081"
-    ],
-    [
-      "Why our Smart Video Doorbell will not be able to support HomeKit Secure Video",
-      "https://get.netatmo.com/hksv-en/"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2022-10-20, 15:26:28",
+      "https://news.ycombinator.com/item?id=33276187"
+    ],
+    [
+      "BSD-XFCE installs macOS-like XFCE enviroment on FreeBSD",
+      "https://github.com/Wamphyre/BSD-XFCE"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 15:11:20",
       "https://news.ycombinator.com/item?id=33275935"
     ],
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2022-10-20, 11:47:20",
-      "https://news.ycombinator.com/item?id=33273227"
-    ],
-    [
-      "On Oreology, the fracture and flow of “milk's favorite cookie",
-      "https://aip.scitation.org/doi/pdf/10.1063/5.0085362"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 11:45:07",
       "https://news.ycombinator.com/item?id=33273210"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
-      "2022-10-19, 19:53:50",
-      "https://news.ycombinator.com/item?id=33267177"
+      "2022-10-19, 19:51:49",
+      "https://news.ycombinator.com/item?id=33267146"
     ],
     [
-      "Increasing evidence that bears are not carnivores",
-      "https://phys.org/news/2022-10-evidence-carnivores.html"
+      "'Wobbling black hole' most extreme example ever detected",
+      "https://phys.org/news/2022-10-black-hole-extreme.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 19:50:27",
+      "https://news.ycombinator.com/item?id=33267127"
+    ],
+    [
+      "6k-year-old skull found in Taiwan possibly confirms legend of Indigenous tribe",
+      "https://phys.org/news/2022-10-year-old-skull-cave-taiwan-possibly.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 06:21:10",
+      "https://news.ycombinator.com/item?id=33258410"
+    ],
+    [
+      "The great semiconductor drought may be about to break",
+      "https://www.theregister.com/2022/10/19/the_great_semiconductor_drought_may/"
     ]
   ]
 ]
