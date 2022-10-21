@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-10-21, 04:55:00",
-      "https://news.ycombinator.com/item?id=33284659"
+      "2022-10-21, 06:33:28",
+      "https://news.ycombinator.com/item?id=33285163"
     ],
     [
-      "Securing a GitHub repo is a ton of work",
-      "https://codeofhonor.substack.com/p/securing-a-github-repo-is-a-ton-of"
+      "Has the CIA Done More Harm Than Good?",
+      "https://www.newyorker.com/magazine/2022/10/10/has-the-cia-done-more-harm-than-good"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-10-20, 15:26:28",
-      "https://news.ycombinator.com/item?id=33276187"
-    ],
-    [
-      "BSD-XFCE installs macOS-like XFCE enviroment on FreeBSD",
-      "https://github.com/Wamphyre/BSD-XFCE"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 15:11:20",
       "https://news.ycombinator.com/item?id=33275935"
     ],
@@ -231,21 +221,11 @@
   ],
   [
     [
-      "2022-10-20, 11:45:07",
-      "https://news.ycombinator.com/item?id=33273210"
-    ],
-    [
-      "Google is forcing us to make our open source VoIP app worse",
-      "https://www.voys.co.za/blog/how-google-is-forcing-us-to-make-our-open-source-app-worse/"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 10:06:52",
       "https://news.ycombinator.com/item?id=33272609"
     ],
     [
-      "Tools, techniques, and stories of making rugs",
+      "How I make my rugs",
       "https://tabithaarnold.substack.com/p/the-process"
     ]
   ],
@@ -297,6 +277,26 @@
     [
       "The great semiconductor drought may be about to break",
       "https://www.theregister.com/2022/10/19/the_great_semiconductor_drought_may/"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 16:01:50",
+      "https://news.ycombinator.com/item?id=33249476"
+    ],
+    [
+      "Sending UDP Messages in Node.js Without DNS Lookups",
+      "https://hermanradtke.com/sending-udp-messages-in-nodejs-without-dns-lookups/"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 07:56:20",
+      "https://news.ycombinator.com/item?id=33244284"
+    ],
+    [
+      "Website Fidelity",
+      "https://blog.jim-nielsen.com/2022/website-fidelity/"
     ]
   ]
 ]
