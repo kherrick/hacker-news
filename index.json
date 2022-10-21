@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-10-21, 14:05:54",
-      "https://news.ycombinator.com/item?id=33288127"
+      "2022-10-21, 14:23:14",
+      "https://news.ycombinator.com/item?id=33288277"
     ],
     [
-      "The Mississippi River Is Drying Up, Disrupting a Vital Supply Lane",
-      "https://www.wsj.com/video/series/current-features/the-mississippi-river-is-drying-up-disrupting-a-vital-supply-lane/787A9825-2DA8-4918-AC29-8A78DE48819F"
+      "A global house-price slump is coming",
+      "https://www.economist.com/leaders/2022/10/20/a-global-house-price-slump-is-coming"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 14:20:32",
+      "https://news.ycombinator.com/item?id=33288246"
+    ],
+    [
+      "Ask HN: Was anyone working at Apple during Steve Jobs' return in 1997?",
+      "https://news.ycombinator.com/item?id=33288246"
     ]
   ],
   [
@@ -17,6 +27,26 @@
     [
       "Students are acing their homework by turning in machine-generated essays",
       "https://aisnakeoil.substack.com/p/students-are-acing-their-homework"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 13:36:43",
+      "https://news.ycombinator.com/item?id=33287858"
+    ],
+    [
+      "Design Considerations for an Anthropophilic Computer (1979)",
+      "https://web.stanford.edu/dept/SUL/sites/mac/primary/docs/bom/anthrophilic.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 13:33:19",
+      "https://news.ycombinator.com/item?id=33287827"
+    ],
+    [
+      "Leveraging Mispriced AWS Spot Instances",
+      "https://pauley.me/post/2022/spot-instance-pricing/"
     ]
   ],
   [
@@ -201,42 +231,12 @@
   ],
   [
     [
-      "2022-10-21, 02:47:36",
-      "https://news.ycombinator.com/item?id=33283849"
-    ],
-    [
-      "Hyrum's Law",
-      "https://www.hyrumslaw.com/"
-    ]
-  ],
-  [
-    [
       "2022-10-21, 02:25:56",
       "https://news.ycombinator.com/item?id=33283712"
     ],
     [
       "Why we chose not to release Stable Diffusion 1.5 as quickly",
       "https://danieljeffries.substack.com/p/why-the-future-of-open-source-ai"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 22:33:02",
-      "https://news.ycombinator.com/item?id=33281682"
-    ],
-    [
-      "Apparent size of Andromeda galaxy compared to the Moon",
-      "https://astronomy.stackexchange.com/questions/23378/is-this-photocomposition-of-andromedas-galaxy-and-the-moon-accurate"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 21:34:55",
-      "https://news.ycombinator.com/item?id=33281106"
-    ],
-    [
-      "SHA-3 Buffer Overflow",
-      "https://mouha.be/sha-3-buffer-overflow/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2022-10-20, 08:20:46",
+      "https://news.ycombinator.com/item?id=33272066"
+    ],
+    [
+      "Aizuchi: Does Your Listening Make Japanese People Uncomfortable?",
+      "https://www.tofugu.com/japanese/aizuchi-japanese-listening/"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 06:21:10",
       "https://news.ycombinator.com/item?id=33258410"
     ],
     [
       "The great semiconductor drought may be about to break",
       "https://www.theregister.com/2022/10/19/the_great_semiconductor_drought_may/"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 16:01:50",
-      "https://news.ycombinator.com/item?id=33249476"
-    ],
-    [
-      "Sending UDP Messages in Node.js Without DNS Lookups",
-      "https://hermanradtke.com/sending-udp-messages-in-nodejs-without-dns-lookups/"
     ]
   ],
   [
