@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-10-21, 01:00:38",
+      "https://news.ycombinator.com/item?id=33282883"
+    ],
+    [
+      "Hightouch (YC S19) Is Hiring an Engineering Manager",
+      "https://boards.greenhouse.io/hightouch/jobs/4580317004"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 00:41:34",
+      "https://news.ycombinator.com/item?id=33282757"
+    ],
+    [
+      "Nearly Half of San Franciscans Have Been Victims of Theft, New Poll Says",
+      "https://sfstandard.com/criminal-justice/nearly-half-of-san-franciscans-have-been-victims-of-theft-new-poll-says/"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 00:06:03",
+      "https://news.ycombinator.com/item?id=33282520"
+    ],
+    [
+      "Fingerprinting systems with TCP source-port selection",
+      "https://lwn.net/Articles/910435/"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 23:03:42",
       "https://news.ycombinator.com/item?id=33281974"
     ],
     [
       "Current state of AV1 codec playback support – Oct '22",
       "https://bitmovin.com/av1-playback-support/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 22:46:38",
+      "https://news.ycombinator.com/item?id=33281812"
+    ],
+    [
+      "Amazon's Jeff Bezos in economy warning: 'Batten down hatches'",
+      "https://www.bbc.com/news/business-63319010"
     ]
   ],
   [
@@ -57,26 +97,6 @@
     [
       "Why our Smart Video Doorbell will not be able to support HomeKit Secure Video",
       "https://get.netatmo.com/hksv-en/"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 21:00:36",
-      "https://news.ycombinator.com/item?id=33280627"
-    ],
-    [
-      "Release (YC W20) Is Hiring – Senior Cloud Infrastructure Engineer",
-      "https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 20:18:43",
-      "https://news.ycombinator.com/item?id=33280130"
-    ],
-    [
-      "Snap Earning Results Q3 2022 [pdf]",
-      "https://s25.q4cdn.com/442043304/files/doc_financials/2022/q3/Snap-Inc.-Q3-2022-Earnings-Slides-(10.20.2022).pdf"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-10-20, 16:53:44",
-      "https://news.ycombinator.com/item?id=33277445"
-    ],
-    [
-      "New Jersey legislators aim to ban most in-car subscriptions",
-      "https://www.thedrive.com/news/new-jersey-legislators-aim-to-ban-most-in-car-subscriptions"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 16:05:01",
       "https://news.ycombinator.com/item?id=33276752"
     ],
@@ -187,16 +197,6 @@
     [
       "DaVinci Resolve for iPad",
       "https://www.blackmagicdesign.com/media/release/20221020-02"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 15:26:28",
-      "https://news.ycombinator.com/item?id=33276187"
-    ],
-    [
-      "BSD-XFCE installs macOS-like XFCE enviroment on FreeBSD",
-      "https://github.com/Wamphyre/BSD-XFCE"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-10-20, 13:51:11",
-      "https://news.ycombinator.com/item?id=33274679"
-    ],
-    [
-      "OpenBSD 7.2",
-      "https://www.openbsd.org/72.html"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 13:13:48",
       "https://news.ycombinator.com/item?id=33274186"
     ],
@@ -261,12 +251,32 @@
   ],
   [
     [
+      "2022-10-20, 11:47:20",
+      "https://news.ycombinator.com/item?id=33273227"
+    ],
+    [
+      "On Oreology, the fracture and flow of “milk's favorite cookie",
+      "https://aip.scitation.org/doi/pdf/10.1063/5.0085362"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 11:45:07",
       "https://news.ycombinator.com/item?id=33273210"
     ],
     [
       "Google is forcing us to make our open source VoIP app worse",
       "https://www.voys.co.za/blog/how-google-is-forcing-us-to-make-our-open-source-app-worse/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 04:45:40",
+      "https://news.ycombinator.com/item?id=33270911"
+    ],
+    [
+      "The Town of Pullman",
+      "https://www.pullman-museum.org/theTown/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Increasing evidence that bears are not carnivores",
       "https://phys.org/news/2022-10-evidence-carnivores.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 19:51:49",
-      "https://news.ycombinator.com/item?id=33267146"
-    ],
-    [
-      "'Wobbling black hole' most extreme example ever detected",
-      "https://phys.org/news/2022-10-black-hole-extreme.html"
     ]
   ]
 ]
