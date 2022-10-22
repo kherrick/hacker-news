@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-22, 17:00:11",
+      "https://news.ycombinator.com/item?id=33300011"
+    ],
+    [
+      "GitLab 15.5 released",
+      "https://about.gitlab.com/releases/2022/10/22/gitlab-15-5-released/"
+    ]
+  ],
+  [
+    [
+      "2022-10-22, 16:57:01",
+      "https://news.ycombinator.com/item?id=33299987"
+    ],
+    [
+      "Why Is That Funny?",
+      "https://nautil.us/why-is-that-funny-243350/"
+    ]
+  ],
+  [
+    [
+      "2022-10-22, 16:55:37",
+      "https://news.ycombinator.com/item?id=33299970"
+    ],
+    [
+      "Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking",
+      "https://arxiv.org/abs/2112.06324"
+    ]
+  ],
+  [
+    [
+      "2022-10-22, 16:51:15",
+      "https://news.ycombinator.com/item?id=33299929"
+    ],
+    [
+      "Hyundai suspending two US suppliers because of child labor",
+      "https://www.reuters.com/business/autos-transportation/exclusive-korean-auto-giant-hyundai-investigating-child-labor-its-us-supply-2022-10-19/"
+    ]
+  ],
+  [
+    [
       "2022-10-22, 16:22:51",
       "https://news.ycombinator.com/item?id=33299650"
     ],
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33299506"
     ],
     [
-      "Speaking Up for Sass",
+      "Speaking Up for Sass (2021)",
       "https://www.brycewray.com/posts/2021/04/speaking-up-for-sass/"
     ]
   ],
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2022-10-22, 07:43:00",
-      "https://news.ycombinator.com/item?id=33296316"
-    ],
-    [
-      "Designing Logic Systems Using State Machines by Christopher R. Clare",
-      "https://archive.org/details/designinglogicsystemsusingstatemachines"
-    ]
-  ],
-  [
-    [
       "2022-10-22, 06:02:48",
       "https://news.ycombinator.com/item?id=33295947"
     ],
@@ -197,26 +227,6 @@
     [
       "Amsterdam looks incredibly realistic in the new Call of Duty",
       "https://twitter.com/juanbuis/status/1583412762176524288"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 04:52:55",
-      "https://news.ycombinator.com/item?id=33295729"
-    ],
-    [
-      "Refurb Weekend: PowerBook 1400",
-      "http://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 04:10:19",
-      "https://news.ycombinator.com/item?id=33295601"
-    ],
-    [
-      "Molasses: DIY Shazaam",
-      "https://github.com/eqy/molasses"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2022-10-21, 00:01:38",
-      "https://news.ycombinator.com/item?id=33282484"
-    ],
-    [
-      "The French Art of Cheese-Label Collecting",
-      "https://www.atlasobscura.com/articles/cheese-label-collecting"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 21:08:22",
       "https://news.ycombinator.com/item?id=33280719"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2022-10-20, 07:08:20",
-      "https://news.ycombinator.com/item?id=33271685"
-    ],
-    [
-      "Revisiting the Playground",
-      "https://www.historyworkshop.org.uk/revisiting-the-playground/"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 05:12:26",
       "https://news.ycombinator.com/item?id=33271054"
     ],
     [
       "Drone photos reveal an early Mesopotamian city made of marsh islands",
       "https://www.sciencenews.org/article/mesopotamia-city-marsh-islands-drone-lagash-iraq"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 08:26:36",
+      "https://news.ycombinator.com/item?id=33259213"
+    ],
+    [
+      "Guy Goma (2006)",
+      "https://en.wikipedia.org/wiki/Guy_Goma"
     ]
   ]
 ]
