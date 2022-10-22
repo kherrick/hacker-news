@@ -1,22 +1,52 @@
 [
   [
     [
-      "2022-10-21, 22:53:38",
-      "https://news.ycombinator.com/item?id=33293837"
+      "2022-10-22, 00:59:26",
+      "https://news.ycombinator.com/item?id=33294613"
     ],
     [
-      "Identifying forum agitators, psyops and shills",
-      "https://edith.reisen/computers/security/forum_shills.html"
+      "A Soviet Circus Clown Tried to Prove That Dogs Can Be Psychic",
+      "https://www.atlasobscura.com/articles/dog-telepathy"
     ]
   ],
   [
     [
-      "2022-10-21, 22:21:40",
-      "https://news.ycombinator.com/item?id=33293608"
+      "2022-10-22, 00:39:22",
+      "https://news.ycombinator.com/item?id=33294493"
     ],
     [
-      "More Than 60k Rent-Stabilized Apartments Are Now Vacant",
-      "https://www.thecity.nyc/housing/2022/10/19/23411956/60000-rent-stabilized-apartments-vacant-warehousing-nyc-landlords-housing"
+      "Smithsonian Open Access-download, share, and reuse Smithsonian’s images",
+      "https://www.si.edu/openaccess"
+    ]
+  ],
+  [
+    [
+      "2022-10-22, 00:33:26",
+      "https://news.ycombinator.com/item?id=33294448"
+    ],
+    [
+      "Celebrating 5 Years of Pop _OS",
+      "https://blog.system76.com/post/celebrating-5-years-of-pop_os/"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 23:57:15",
+      "https://news.ycombinator.com/item?id=33294201"
+    ],
+    [
+      "Butterfly wing patterns emerge from ancient ‘junk’ DNA",
+      "https://news.cornell.edu/stories/2022/10/butterfly-wing-patterns-emerge-ancient-junk-dna"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 22:53:38",
+      "https://news.ycombinator.com/item?id=33293837"
+    ],
+    [
+      "Identifying forum agitators, psyops and shills (2012)",
+      "https://edith.reisen/computers/security/forum_shills.html"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Blending Modes",
       "https://typefully.com/DanHollick/blending-modes-KrBa0JP"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 18:31:49",
-      "https://news.ycombinator.com/item?id=33291442"
-    ],
-    [
-      "Chromium Issue 31482: Huge amount of goats teleported",
-      "https://bugs.chromium.org/p/chromium/issues/detail?id=31482"
     ]
   ],
   [
@@ -191,42 +211,12 @@
   ],
   [
     [
-      "2022-10-21, 10:24:17",
-      "https://news.ycombinator.com/item?id=33286486"
-    ],
-    [
-      "Experiments spell doom for physical-collapse explanation of quantum weirdness",
-      "https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 06:39:20",
-      "https://news.ycombinator.com/item?id=33285198"
-    ],
-    [
-      "Was It A Cat I Saw?",
-      "https://www.npr.org/2011/10/23/141569914/was-it-a-cat-i-saw-nope-it-was-a-palindrome"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 23:58:09",
       "https://news.ycombinator.com/item?id=33282455"
     ],
     [
       "How the ‘Black Death’ Left Its Genetic Mark on Future Generations",
       "https://www.nytimes.com/2022/10/19/science/bubonic-plague-black-death-genetic-protection.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 20:58:54",
-      "https://news.ycombinator.com/item?id=33280605"
-    ],
-    [
-      "The HTTP crash course nobody asked for",
-      "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
     ]
   ],
   [
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2022-10-20, 09:08:43",
-      "https://news.ycombinator.com/item?id=33272316"
+      "2022-10-20, 07:17:04",
+      "https://news.ycombinator.com/item?id=33271734"
     ],
     [
-      "The Future of Rural New England (1897)",
-      "https://www.theatlantic.com/magazine/archive/1897/07/the-future-of-rural-new-england/636155/"
+      "The expanding role of Cyber-Physical Systems",
+      "https://www.electronicdesign.com/technologies/embedded-revolution/article/21250006/luos-lets-get-cyberphysical-the-expanding-role-of-cps"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Lambda Operator in LaTeX",
       "https://commutative.xyz/~miguelmurca/blog/x/lambda.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 06:10:53",
+      "https://news.ycombinator.com/item?id=33258356"
+    ],
+    [
+      "How we use binary search to find compiler bugs",
+      "https://bernsteinbear.com/blog/cinder-jit-bisect/"
     ]
   ]
 ]
