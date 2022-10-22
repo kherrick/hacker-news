@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-10-22, 06:00:43",
+      "https://news.ycombinator.com/item?id=33295944"
+    ],
+    [
+      "Comparing Floating-Point Numbers Is Tricky",
+      "https://bitbashing.io/comparing-floats.html"
+    ]
+  ],
+  [
+    [
       "2022-10-22, 05:59:16",
       "https://news.ycombinator.com/item?id=33295938"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2022-10-21, 15:31:49",
-      "https://news.ycombinator.com/item?id=33289078"
-    ],
-    [
-      "Wayflan: a from-scratch Wayland client for Common Lisp",
-      "https://sr.ht/~shunter/wayflan/"
-    ]
-  ],
-  [
-    [
       "2022-10-21, 15:00:42",
       "https://news.ycombinator.com/item?id=33288706"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-10-20, 14:52:56",
-      "https://news.ycombinator.com/item?id=33275643"
-    ],
-    [
-      "Freeman Dyson and me",
-      "https://thereader.mitpress.mit.edu/freeman-dyson-and-me/"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 12:16:57",
       "https://news.ycombinator.com/item?id=33273492"
     ],
@@ -257,6 +247,16 @@
     [
       "What's different about next-gen transistors",
       "https://semiengineering.com/whats-different-about-next-gen-transistors/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 10:35:30",
+      "https://news.ycombinator.com/item?id=33272763"
+    ],
+    [
+      "Wolf Design Review",
+      "https://review.wolfarchitects.design/"
     ]
   ],
   [
