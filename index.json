@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-22, 12:54:11",
+      "https://news.ycombinator.com/item?id=33297934"
+    ],
+    [
+      "Getting Out of a Rut",
+      "https://news.ycombinator.com/item?id=33297934"
+    ]
+  ],
+  [
+    [
+      "2022-10-22, 12:14:06",
+      "https://news.ycombinator.com/item?id=33297641"
+    ],
+    [
+      "Show HN: First open source data discovery and observability platform",
+      "https://github.com/opendatadiscovery/odd-platform"
+    ]
+  ],
+  [
+    [
       "2022-10-22, 11:59:16",
       "https://news.ycombinator.com/item?id=33297542"
     ],
@@ -37,6 +57,16 @@
     [
       "qpwgraph – PipeWire Graph Qt GUI Interface",
       "https://gitlab.freedesktop.org/rncbc/qpwgraph"
+    ]
+  ],
+  [
+    [
+      "2022-10-22, 10:10:30",
+      "https://news.ycombinator.com/item?id=33296940"
+    ],
+    [
+      "Welcome to Puma 6: Sunflower",
+      "https://github.com/puma/puma/blob/master/6.0-Upgrade.md"
     ]
   ],
   [
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2022-10-21, 12:06:31",
-      "https://news.ycombinator.com/item?id=33287137"
-    ],
-    [
-      "Show HN: Restfox – Open source lightweight alternative to Postman",
-      "https://restfox.dev"
-    ]
-  ],
-  [
-    [
       "2022-10-21, 02:58:21",
       "https://news.ycombinator.com/item?id=33283938"
     ],
     [
       "Python and Async Simplified (2018)",
       "https://www.aeracode.org/2018/02/19/python-async-simplified/"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 23:58:09",
-      "https://news.ycombinator.com/item?id=33282455"
-    ],
-    [
-      "How the ‘black death’ left its genetic mark on future generations",
-      "https://www.nytimes.com/2022/10/19/science/bubonic-plague-black-death-genetic-protection.html"
     ]
   ],
   [
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2022-10-20, 10:35:30",
-      "https://news.ycombinator.com/item?id=33272763"
+      "2022-10-20, 11:35:17",
+      "https://news.ycombinator.com/item?id=33273133"
     ],
     [
-      "Wolf Design Review",
-      "https://review.wolfarchitects.design/"
+      "Washington Pizza Index (1998)",
+      "https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/pizza121998.htm"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Drone photos reveal an early Mesopotamian city made of marsh islands",
       "https://www.sciencenews.org/article/mesopotamia-city-marsh-islands-drone-lagash-iraq"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 06:10:53",
-      "https://news.ycombinator.com/item?id=33258356"
-    ],
-    [
-      "How we use binary search to find compiler bugs",
-      "https://bernsteinbear.com/blog/cinder-jit-bisect/"
     ]
   ]
 ]
