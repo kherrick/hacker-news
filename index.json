@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-22, 02:55:04",
+      "https://news.ycombinator.com/item?id=33295258"
+    ],
+    [
+      "A Moonshot for Coral Breeding Was Successful",
+      "https://hakaimagazine.com/features/a-moonshot-for-coral-breeding-was-successful/"
+    ]
+  ],
+  [
+    [
+      "2022-10-22, 02:44:15",
+      "https://news.ycombinator.com/item?id=33295217"
+    ],
+    [
+      "Clojure 15th Anniversary: A Retrospective",
+      "https://building.nubank.com.br/clojure-15th-anniversary-a-retrospective/"
+    ]
+  ],
+  [
+    [
       "2022-10-22, 00:59:26",
       "https://news.ycombinator.com/item?id=33294613"
     ],
@@ -45,18 +65,8 @@
       "https://news.ycombinator.com/item?id=33293837"
     ],
     [
-      "Identifying forum agitators, psyops and shills (2012)",
-      "https://edith.reisen/computers/security/forum_shills.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 21:28:03",
-      "https://news.ycombinator.com/item?id=33293232"
-    ],
-    [
-      "Long Covid: Hair loss and sexual dysfunction among wider symptoms, study finds",
-      "https://www.bmj.com/content/378/bmj.o1887"
+      "The Gentleperson's Guide To Forum Spies (2012)",
+      "https://cryptome.org/2012/07/gent-forum-spies.htm"
     ]
   ],
   [
@@ -87,6 +97,16 @@
     [
       "Blending Modes",
       "https://typefully.com/DanHollick/blending-modes-KrBa0JP"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 19:14:37",
+      "https://news.ycombinator.com/item?id=33291953"
+    ],
+    [
+      "'The Waste Land' Reviewed",
+      "https://www.theguardian.com/books/2022/oct/21/the-waste-land-reviewed-so-much-waste-paper-eliot-1923"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-10-21, 14:23:14",
-      "https://news.ycombinator.com/item?id=33288277"
-    ],
-    [
-      "A global house-price slump is coming?",
-      "https://www.economist.com/leaders/2022/10/20/a-global-house-price-slump-is-coming"
-    ]
-  ],
-  [
-    [
       "2022-10-21, 14:20:32",
       "https://news.ycombinator.com/item?id=33288246"
     ],
@@ -171,26 +181,6 @@
   ],
   [
     [
-      "2022-10-21, 12:52:03",
-      "https://news.ycombinator.com/item?id=33287471"
-    ],
-    [
-      "State of CSS",
-      "https://web.dev/state-of-css-2022/"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 12:18:19",
-      "https://news.ycombinator.com/item?id=33287224"
-    ],
-    [
-      "Starlink signals can be reverse-engineered to work like GPS",
-      "https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/"
-    ]
-  ],
-  [
-    [
       "2022-10-21, 12:06:31",
       "https://news.ycombinator.com/item?id=33287137"
     ],
@@ -201,22 +191,22 @@
   ],
   [
     [
-      "2022-10-21, 11:42:15",
-      "https://news.ycombinator.com/item?id=33286972"
-    ],
-    [
-      "Pyinfra automates infrastructure super fast at scale",
-      "https://pyinfra.com/"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 23:58:09",
       "https://news.ycombinator.com/item?id=33282455"
     ],
     [
       "How the ‘Black Death’ Left Its Genetic Mark on Future Generations",
       "https://www.nytimes.com/2022/10/19/science/bubonic-plague-black-death-genetic-protection.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 20:58:54",
+      "https://news.ycombinator.com/item?id=33280605"
+    ],
+    [
+      "The HTTP crash course nobody asked for",
+      "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Lambda Operator in LaTeX",
       "https://commutative.xyz/~miguelmurca/blog/x/lambda.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 08:00:35",
+      "https://news.ycombinator.com/item?id=33259036"
+    ],
+    [
+      "There is no ‘royal road’ to geometry (1982)",
+      "https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD841.html"
     ]
   ],
   [
