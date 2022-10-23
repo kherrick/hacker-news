@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-23, 13:43:01",
+      "https://news.ycombinator.com/item?id=33306945"
+    ],
+    [
+      "Rust 1.64 Became 10-20% Faster On Windows",
+      "https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 12:21:24",
       "https://news.ycombinator.com/item?id=33306378"
     ],
@@ -187,16 +197,6 @@
     [
       "News Music Search Archive",
       "http://www.newsmusicsearcharchive.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 16:22:51",
-      "https://news.ycombinator.com/item?id=33299650"
-    ],
-    [
-      "Linux: What Can You Epoll?",
-      "https://darkcoding.net/software/linux-what-can-you-epoll/"
     ]
   ],
   [
