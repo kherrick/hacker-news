@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-23, 04:20:06",
+      "https://news.ycombinator.com/item?id=33304548"
+    ],
+    [
+      "A History of Palomar Observatory",
+      "https://sites.astro.caltech.edu/palomar/about/history.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-23, 04:18:50",
+      "https://news.ycombinator.com/item?id=33304542"
+    ],
+    [
+      "Pouring the 200 inch disk at Corning Glass Works",
+      "https://nyheritage.org/collections/pouring-200-inch-disk-corning-glass-works"
+    ]
+  ],
+  [
+    [
+      "2022-10-23, 03:01:32",
+      "https://news.ycombinator.com/item?id=33304184"
+    ],
+    [
+      "Pocket Casts goes open source",
+      "https://ma.tt/2022/10/open-source-podcasting-client/"
+    ]
+  ],
+  [
+    [
+      "2022-10-23, 02:55:28",
+      "https://news.ycombinator.com/item?id=33304159"
+    ],
+    [
+      "Differential mosquito attraction to humans is associated with skin acid levels",
+      "https://www.cell.com/cell/fulltext/S0092-8674(22)01253-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422012533%3Fshowall%3Dtrue"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 02:36:30",
       "https://news.ycombinator.com/item?id=33304075"
     ],
@@ -21,22 +61,22 @@
   ],
   [
     [
-      "2022-10-23, 02:29:48",
-      "https://news.ycombinator.com/item?id=33304029"
-    ],
-    [
-      "Ask HN: How do you deal with the end of globalization?",
-      "https://news.ycombinator.com/item?id=33304029"
-    ]
-  ],
-  [
-    [
       "2022-10-23, 01:22:12",
       "https://news.ycombinator.com/item?id=33303681"
     ],
     [
       "On finally learning to program at the age of 40 (2020)",
       "https://github.com/Dhghomon/programming_at_40"
+    ]
+  ],
+  [
+    [
+      "2022-10-23, 00:10:20",
+      "https://news.ycombinator.com/item?id=33303359"
+    ],
+    [
+      "A 'screenless smartphone'",
+      "https://www.vice.com/en/article/k7bxpw/mymanu-titan-screenless-smartphone"
     ]
   ],
   [
@@ -65,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33303133"
     ],
     [
-      "GlueSQL: A SQL database engine written as a library in Rust",
+      "GlueSQL: SQL database engine as a library",
       "https://github.com/gluesql/gluesql"
     ]
   ],
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2022-10-22, 19:49:51",
-      "https://news.ycombinator.com/item?id=33301518"
-    ],
-    [
-      "ImageSharp leaving the .NET Foundation due to licensing change",
-      "https://dotnetfoundation.org/blog/2022/10/20/imagesharpupdate"
-    ]
-  ],
-  [
-    [
       "2022-10-22, 19:46:12",
       "https://news.ycombinator.com/item?id=33301483"
     ],
@@ -147,26 +177,6 @@
     [
       "How to Index Anything (2003)",
       "https://www.linuxjournal.com/article/6652"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 16:57:01",
-      "https://news.ycombinator.com/item?id=33299987"
-    ],
-    [
-      "Why Is That Funny?",
-      "https://nautil.us/why-is-that-funny-243350/"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 16:55:37",
-      "https://news.ycombinator.com/item?id=33299970"
-    ],
-    [
-      "Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking",
-      "https://arxiv.org/abs/2112.06324"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2022-10-22, 13:17:13",
-      "https://news.ycombinator.com/item?id=33298082"
+      "2022-10-22, 13:30:53",
+      "https://news.ycombinator.com/item?id=33298158"
     ],
     [
-      "Archery World Record: Most arrows through a keyhole",
-      "https://www.youtube.com/watch?v=67W4kONfL4Y"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 12:54:11",
-      "https://news.ycombinator.com/item?id=33297934"
-    ],
-    [
-      "Getting Out of a Rut",
-      "https://news.ycombinator.com/item?id=33297934"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 12:14:06",
-      "https://news.ycombinator.com/item?id=33297641"
-    ],
-    [
-      "Show HN: Open source data discovery and observability platform",
-      "https://opendatadiscovery.org/"
+      "The Gervais Principle, or the Office According to “The Office” (2009)",
+      "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/"
     ]
   ],
   [
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2022-10-21, 06:41:35",
-      "https://news.ycombinator.com/item?id=33285214"
+      "2022-10-21, 11:40:05",
+      "https://news.ycombinator.com/item?id=33286960"
     ],
     [
-      "Method Singing",
-      "https://van-magazine.com/mag/stanislavski-on-opera/"
+      "Ask HN: What Happens to Older Designers?",
+      "https://news.ycombinator.com/item?id=33286960"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 02:20:10",
+      "https://news.ycombinator.com/item?id=33283652"
+    ],
+    [
+      "What happened when my wife died",
+      "https://www.newyorker.com/culture/personal-history/what-happened-when-my-wife-died"
     ]
   ],
   [
