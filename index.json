@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2022-10-22, 19:57:05",
-      "https://news.ycombinator.com/item?id=33301589"
-    ],
-    [
-      "Single Board Computers Benchmarks",
-      "https://github.com/ThomasKaiser/sbc-bench/blob/master/Results.md"
-    ]
-  ],
-  [
-    [
       "2022-10-22, 19:46:12",
       "https://news.ycombinator.com/item?id=33301483"
     ],
@@ -187,16 +177,6 @@
     [
       "How to Index Anything (2003)",
       "https://www.linuxjournal.com/article/6652"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 16:22:51",
-      "https://news.ycombinator.com/item?id=33299650"
-    ],
-    [
-      "Linux: What Can You Epoll?",
-      "https://darkcoding.net/software/linux-what-can-you-epoll/"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "The Mysterious Patient in Room 23: The Hermit Baroness",
       "https://www.nytimes.com/2022/10/20/nyregion/baroness-birgit-thyssen-bornemisza.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 11:36:24",
+      "https://news.ycombinator.com/item?id=33273144"
+    ],
+    [
+      "Space-based solar power is getting serious",
+      "https://www.science.org/content/article/space-based-solar-power-getting-serious-can-it-solve-earth-s-energy-woes"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 10:27:36",
+      "https://news.ycombinator.com/item?id=33272729"
+    ],
+    [
+      "A Quantum Computer by Blasting It with the Fibonacci Sequence",
+      "https://gizmodo.com/physicists-got-a-quantum-computer-to-work-by-blasting-i-1849328463"
     ]
   ]
 ]
