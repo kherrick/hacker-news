@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33310207"
     ],
     [
-      "Curious Case of Maintaining Sufficient Free Space with ZFS",
+      "Maintaining sufficient free space with ZFS",
       "https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-with-zfs/"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33309969"
     ],
     [
-      "Gamification Affects Software Developers: Cautionary Evidence from GitHub",
+      "Gamification affects software developers: Cautionary evidence from GitHub",
       "https://arxiv.org/abs/2006.02371"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33309526"
     ],
     [
-      "Apple's Sleeping Advertising Business",
+      "Apple's sleeping advertising business",
       "https://www.thespl.it/p/apples-sleeping-advertising-business"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33308167"
     ],
     [
-      "The Mainframe in Your Pocket Running Minicomputer Software",
+      "The mainframe in your pocket running minicomputer software",
       "https://thechipletter.substack.com/p/the-mainframe-in-your-pocket"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "Cloudflare Pages: Best server tech since CGI-bin?",
       "https://taras.glek.net/post/cloudflare-pages-kind-of-amazing/"
-    ]
-  ],
-  [
-    [
-      "2022-10-23, 15:53:07",
-      "https://news.ycombinator.com/item?id=33307864"
-    ],
-    [
-      "DARPA developing universal translator for satellites",
-      "https://www.afcea.org/signal-media/darpa-developing-universal-translator-satellites"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "A Mechanical Neural Network Learns to Respond to Its Environment",
       "https://www.hackster.io/news/this-novel-mechanical-neural-network-architected-material-learns-to-respond-to-its-environment-ad68bdcf2d7b"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 17:34:01",
+      "https://news.ycombinator.com/item?id=33277989"
+    ],
+    [
+      "AI translates Hokkien, an unwritten language, for the first time",
+      "https://tech.fb.com/artificial-intelligence/2022/10/ai-translation-unwritten-language/"
     ]
   ],
   [
