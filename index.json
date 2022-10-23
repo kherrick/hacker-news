@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2022-10-23, 13:58:27",
+      "https://news.ycombinator.com/item?id=33307059"
+    ],
+    [
+      "Programming language comparison by reimplementing the same transit data app",
+      "https://github.com/losvedir/transit-lang-cmp"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 13:43:01",
       "https://news.ycombinator.com/item?id=33306945"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-10-22, 03:13:14",
-      "https://news.ycombinator.com/item?id=33295369"
-    ],
-    [
-      "H.D.’s Art of Failure",
-      "https://www.newyorker.com/books/under-review/hds-art-of-failure"
-    ]
-  ],
-  [
-    [
       "2022-10-22, 02:43:53",
       "https://news.ycombinator.com/item?id=33295216"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-10-20, 13:25:26",
+      "https://news.ycombinator.com/item?id=33274348"
+    ],
+    [
+      "The Logic of Logical Necessity [pdf]",
+      "https://philpapers.org/archive/BACTLO-7.pdf"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 12:54:55",
       "https://news.ycombinator.com/item?id=33273944"
     ],
     [
       "C2Rust Transpiler",
       "https://github.com/immunant/c2rust"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 11:36:24",
-      "https://news.ycombinator.com/item?id=33273144"
-    ],
-    [
-      "Space-based solar power is getting serious",
-      "https://www.science.org/content/article/space-based-solar-power-getting-serious-can-it-solve-earth-s-energy-woes"
     ]
   ]
 ]
