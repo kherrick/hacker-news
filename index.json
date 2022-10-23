@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-10-23, 18:56:17",
+      "https://news.ycombinator.com/item?id=33309246"
+    ],
+    [
+      "Security through obscurity is underrated",
+      "https://utkusen.com/blog/security-by-obscurity-is-underrated"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 18:09:01",
       "https://news.ycombinator.com/item?id=33308918"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2022-10-23, 13:43:01",
-      "https://news.ycombinator.com/item?id=33306945"
-    ],
-    [
-      "How Rust 1.64 became faster on Windows",
-      "https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70"
-    ]
-  ],
-  [
-    [
       "2022-10-23, 13:35:24",
       "https://news.ycombinator.com/item?id=33306881"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-10-21, 00:01:29",
-      "https://news.ycombinator.com/item?id=33282481"
-    ],
-    [
-      "Log4Shell – Through the scope of a reactive network telescope",
-      "https://blog.apnic.net/2022/10/20/log4shell-through-the-scope-of-a-reactive-network-telescope/"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 18:43:51",
       "https://news.ycombinator.com/item?id=33278895"
     ],
@@ -297,6 +287,16 @@
     [
       "C2Rust Transpiler",
       "https://github.com/immunant/c2rust"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 12:47:08",
+      "https://news.ycombinator.com/item?id=33273825"
+    ],
+    [
+      "Tuna use sharks as back scratchers despite risk of being eaten",
+      "https://www.newscientist.com/article/2343044-tuna-use-sharks-as-back-scratchers-despite-risk-of-being-eaten/"
     ]
   ]
 ]
