@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-23, 12:21:24",
+      "https://news.ycombinator.com/item?id=33306378"
+    ],
+    [
+      "Curl doesn't add libproxy due to its quality issues",
+      "https://daniel.haxx.se/blog/2022/08/12/the-dream-of-auto-detecting-proxies/"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 12:02:56",
       "https://news.ycombinator.com/item?id=33306295"
     ],
     [
       "Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations",
       "https://skio.com/careers"
+    ]
+  ],
+  [
+    [
+      "2022-10-23, 11:37:23",
+      "https://news.ycombinator.com/item?id=33306168"
+    ],
+    [
+      "Ask HN: Is Anyone Else Tired of the Self Enforced Limits on AI Tech?",
+      "https://news.ycombinator.com/item?id=33306168"
+    ]
+  ],
+  [
+    [
+      "2022-10-23, 11:30:13",
+      "https://news.ycombinator.com/item?id=33306137"
+    ],
+    [
+      "The Wire retracts its Meta stories",
+      "https://thewire.in/media/the-wire-retracts-meta-stories"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2022-10-22, 22:24:40",
-      "https://news.ycombinator.com/item?id=33302748"
-    ],
-    [
-      "The Raspberry Pi 400 in My Bedroom",
-      "https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html"
-    ]
-  ],
-  [
-    [
       "2022-10-22, 22:13:39",
       "https://news.ycombinator.com/item?id=33302686"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2022-10-22, 19:46:12",
-      "https://news.ycombinator.com/item?id=33301483"
+      "2022-10-22, 16:22:51",
+      "https://news.ycombinator.com/item?id=33299650"
     ],
     [
-      "Show HN: Contact Form Delivery",
-      "https://sendfly.io"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 19:44:42",
-      "https://news.ycombinator.com/item?id=33301471"
-    ],
-    [
-      "Premultiplied alpha vs. not-premultiplied alpha blending and compositing",
-      "https://iquilezles.org/articles/premultipliedalpha/"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 19:42:21",
-      "https://news.ycombinator.com/item?id=33301449"
-    ],
-    [
-      "How to Index Anything (2003)",
-      "https://www.linuxjournal.com/article/6652"
+      "Linux: What Can You Epoll?",
+      "https://darkcoding.net/software/linux-what-can-you-epoll/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-10-21, 19:13:17",
-      "https://news.ycombinator.com/item?id=33291932"
-    ],
-    [
-      "Tuna",
-      "https://granta.com/tuna/"
-    ]
-  ],
-  [
-    [
       "2022-10-21, 02:20:10",
       "https://news.ycombinator.com/item?id=33283652"
     ],
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2022-10-21, 01:37:25",
-      "https://news.ycombinator.com/item?id=33283228"
-    ],
-    [
-      "The Calamities of Others: An ancient historian aims for the big picture",
-      "https://www.laphamsquarterly.org/roundtable/calamities-others"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 19:19:00",
       "https://news.ycombinator.com/item?id=33279359"
     ],
     [
       "The Mysterious Patient in Room 23: The Hermit Baroness",
       "https://www.nytimes.com/2022/10/20/nyregion/baroness-birgit-thyssen-bornemisza.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 17:33:34",
+      "https://news.ycombinator.com/item?id=33277985"
+    ],
+    [
+      "Eglot has landed on master: Emacs now has a built-in LSP client",
+      "https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 12:54:55",
+      "https://news.ycombinator.com/item?id=33273944"
+    ],
+    [
+      "C2Rust Transpiler",
+      "https://github.com/immunant/c2rust"
     ]
   ],
   [
