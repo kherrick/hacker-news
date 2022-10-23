@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-10-23, 17:00:44",
+      "https://news.ycombinator.com/item?id=33308403"
+    ],
+    [
+      "Motion (YC W20) Is Hiring Full-Stack Engineers and Data Scientists",
+      "https://jobs.ashbyhq.com/motion?utm_source=hn"
+    ]
+  ],
+  [
+    [
+      "2022-10-23, 16:44:07",
+      "https://news.ycombinator.com/item?id=33308281"
+    ],
+    [
+      "Ray tracing Voxels made out of Glass",
+      "https://voxelchain.app/previewer/Glass.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-23, 16:41:24",
+      "https://news.ycombinator.com/item?id=33308248"
+    ],
+    [
+      "Show HN: Vector Graphics with Stable Diffusion",
+      "https://vectorart.ai"
+    ]
+  ],
+  [
+    [
+      "2022-10-23, 16:31:45",
+      "https://news.ycombinator.com/item?id=33308167"
+    ],
+    [
+      "The Mainframe in Your Pocket Running Minicomputer Software",
+      "https://thechipletter.substack.com/p/the-mainframe-in-your-pocket"
+    ]
+  ],
+  [
+    [
+      "2022-10-23, 16:28:18",
+      "https://news.ycombinator.com/item?id=33308135"
+    ],
+    [
+      "Product Market Fit",
+      "https://www.kevinslin.com/notes/htchyy536bb169mzu47ksb6/"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 16:15:25",
       "https://news.ycombinator.com/item?id=33308037"
     ],
@@ -11,22 +61,32 @@
   ],
   [
     [
+      "2022-10-23, 16:03:30",
+      "https://news.ycombinator.com/item?id=33307950"
+    ],
+    [
+      "Cloudflare Pages: Best server tech since CGI-bin?",
+      "https://taras.glek.net/post/cloudflare-pages-kind-of-amazing/"
+    ]
+  ],
+  [
+    [
+      "2022-10-23, 15:53:07",
+      "https://news.ycombinator.com/item?id=33307864"
+    ],
+    [
+      "DARPA developing universal translator for satellites",
+      "https://www.afcea.org/signal-media/darpa-developing-universal-translator-satellites"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 15:50:51",
       "https://news.ycombinator.com/item?id=33307845"
     ],
     [
       "Five origami books by Shuzo Fujimoto are now public domain",
       "https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain"
-    ]
-  ],
-  [
-    [
-      "2022-10-23, 14:48:23",
-      "https://news.ycombinator.com/item?id=33307421"
-    ],
-    [
-      "Ask HN: Is a single source of truth not just a single point of failure?",
-      "https://news.ycombinator.com/item?id=33307421"
     ]
   ],
   [
@@ -101,26 +161,6 @@
   ],
   [
     [
-      "2022-10-23, 12:02:56",
-      "https://news.ycombinator.com/item?id=33306295"
-    ],
-    [
-      "Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations",
-      "https://skio.com/careers"
-    ]
-  ],
-  [
-    [
-      "2022-10-23, 11:30:13",
-      "https://news.ycombinator.com/item?id=33306137"
-    ],
-    [
-      "The Wire retracts its Meta stories",
-      "https://thewire.in/media/the-wire-retracts-meta-stories"
-    ]
-  ],
-  [
-    [
       "2022-10-23, 10:58:45",
       "https://news.ycombinator.com/item?id=33306029"
     ],
@@ -151,26 +191,6 @@
   ],
   [
     [
-      "2022-10-23, 04:58:22",
-      "https://news.ycombinator.com/item?id=33304677"
-    ],
-    [
-      "Oidbs: An Open Source MQTT Driven Benchmark Suite for IoT Data",
-      "https://joinbase.io/blog/intro-oidbs/"
-    ]
-  ],
-  [
-    [
-      "2022-10-23, 04:20:06",
-      "https://news.ycombinator.com/item?id=33304548"
-    ],
-    [
-      "A History of Palomar Observatory",
-      "https://sites.astro.caltech.edu/palomar/about/history.html"
-    ]
-  ],
-  [
-    [
       "2022-10-23, 04:18:50",
       "https://news.ycombinator.com/item?id=33304542"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-10-23, 02:55:28",
-      "https://news.ycombinator.com/item?id=33304159"
-    ],
-    [
-      "Differential mosquito attraction to humans is associated with skin acid levels",
-      "https://www.cell.com/cell/fulltext/S0092-8674(22)01253-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422012533%3Fshowall%3Dtrue"
-    ]
-  ],
-  [
-    [
       "2022-10-23, 02:36:30",
       "https://news.ycombinator.com/item?id=33304075"
     ],
@@ -211,21 +221,11 @@
   ],
   [
     [
-      "2022-10-23, 01:22:12",
-      "https://news.ycombinator.com/item?id=33303681"
-    ],
-    [
-      "On finally learning to program at the age of 40 (2020)",
-      "https://github.com/Dhghomon/programming_at_40"
-    ]
-  ],
-  [
-    [
       "2022-10-22, 03:13:14",
       "https://news.ycombinator.com/item?id=33295369"
     ],
     [
-      "H.D.’S Art of Failure\u0011",
+      "H.D.’s Art of Failure",
       "https://www.newyorker.com/books/under-review/hds-art-of-failure"
     ]
   ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-10-20, 16:12:35",
+      "https://news.ycombinator.com/item?id=33276859"
+    ],
+    [
+      "Revised Report on the Propagator Model (2011)",
+      "https://groups.csail.mit.edu/mac/users/gjs/propagators/"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 12:54:55",
       "https://news.ycombinator.com/item?id=33273944"
     ],
@@ -287,16 +297,6 @@
     [
       "Space-based solar power is getting serious",
       "https://www.science.org/content/article/space-based-solar-power-getting-serious-can-it-solve-earth-s-energy-woes"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 10:27:36",
-      "https://news.ycombinator.com/item?id=33272729"
-    ],
-    [
-      "A Quantum Computer by Blasting It with the Fibonacci Sequence",
-      "https://gizmodo.com/physicists-got-a-quantum-computer-to-work-by-blasting-i-1849328463"
     ]
   ]
 ]
