@@ -1,22 +1,72 @@
 [
   [
     [
+      "2022-10-24, 18:57:10",
+      "https://news.ycombinator.com/item?id=33320817"
+    ],
+    [
+      "Office Vacancy Rate in San Francisco Just Hit a New High",
+      "https://socketsite.com/archives/2022/10/enough-empty-office-space-for-over-150000-employees-in-san-francisco.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 18:43:08",
+      "https://news.ycombinator.com/item?id=33320659"
+    ],
+    [
+      "Attacking Weak RC4-Like Ciphers the Hard Way",
+      "https://research.checkpoint.com/2022/attacking-very-weak-rc4-like-ciphers-the-hard-way/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 18:38:38",
+      "https://news.ycombinator.com/item?id=33320597"
+    ],
+    [
+      "RISC-V Celebrates Upstreaming of Android Open Source Project RISC-V Port",
+      "https://riscv.org/blog/2022/10/risc-v-celebrates-upstreaming-of-android-open-source-project-risc-v-port-risc-v-international/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 18:29:21",
+      "https://news.ycombinator.com/item?id=33320477"
+    ],
+    [
+      "Elasticsearch SQL",
+      "https://www.elastic.co/what-is/elasticsearch-sql"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 18:16:57",
+      "https://news.ycombinator.com/item?id=33320294"
+    ],
+    [
+      "Forgetting the Asbestos: Or, how we lose knowledge and technologies.",
+      "https://1517.substack.com/p/forgetting-the-asbestos"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 18:06:57",
+      "https://news.ycombinator.com/item?id=33320181"
+    ],
+    [
+      "Happy Diwali Everyone",
+      "https://en.wikipedia.org/wiki/Diwali"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 18:04:39",
       "https://news.ycombinator.com/item?id=33320156"
     ],
     [
       "Accelerated forgetting of a trauma event after a single dose of hydrocortisone",
       "https://www.nature.com/articles/s41398-022-02126-2"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 18:01:00",
-      "https://news.ycombinator.com/item?id=33320111"
-    ],
-    [
-      "WebKit Features in Safari 16.1",
-      "https://webkit.org/blog/13399/webkit-features-in-safari-16-1/"
     ]
   ],
   [
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2022-10-24, 15:51:16",
-      "https://news.ycombinator.com/item?id=33318314"
-    ],
-    [
-      "Imagorvideo – video thumbnail server using RMSE in Go and FFmpeg C bindings",
-      "https://github.com/cshum/imagorvideo"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 15:45:06",
       "https://news.ycombinator.com/item?id=33318215"
     ],
@@ -137,16 +177,6 @@
     [
       "Show HN: Bolt.css – Another classless CSS library",
       "https://boltcss.com"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 15:22:45",
-      "https://news.ycombinator.com/item?id=33317898"
-    ],
-    [
-      "Exposure to environmental toxins may be root of rise in neurological disorders",
-      "https://www.theguardian.com/us-news/2022/oct/23/environmental-toxins-neurological-disorders-parkinsons-alzheimers"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-10-24, 14:03:12",
-      "https://news.ycombinator.com/item?id=33316743"
-    ],
-    [
-      "The sound of Earth’s magnetic field",
-      "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/The_scary_sound_of_Earth_s_magnetic_field"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 13:58:57",
       "https://news.ycombinator.com/item?id=33316694"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2022-10-24, 13:36:17",
-      "https://news.ycombinator.com/item?id=33316429"
-    ],
-    [
-      "Tomorrow the Unix timestamp will get to 1,666,666,666",
-      "https://time.is/Unix_time"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 13:29:47",
       "https://news.ycombinator.com/item?id=33316351"
     ],
     [
       "Building the SHAKTI Microprocessor",
       "https://cacm.acm.org/magazines/2022/11/265822-building-the-shakti-microprocessor/fulltext"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 13:01:39",
-      "https://news.ycombinator.com/item?id=33316070"
-    ],
-    [
-      "We improved React loading times with Next.js",
-      "https://www.causal.app/blog/next-js"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-10-22, 22:48:09",
-      "https://news.ycombinator.com/item?id=33302924"
+      "2022-10-22, 22:43:09",
+      "https://news.ycombinator.com/item?id=33302896"
     ],
     [
-      "A lift-the-flap book, 18th century style",
-      "https://blogs.bl.uk/untoldlives/2022/10/a-lift-the-flap-book-18th-century-style.html"
+      "Immortal by Default: A brief history of humans and the ginkgo tree",
+      "https://www.laphamsquarterly.org/roundtable/immortal-default"
     ]
   ]
 ]
