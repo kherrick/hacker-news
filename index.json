@@ -1,12 +1,62 @@
 [
   [
     [
-      "2022-10-24, 16:13:47",
-      "https://news.ycombinator.com/item?id=33318616"
+      "2022-10-24, 16:37:35",
+      "https://news.ycombinator.com/item?id=33318956"
     ],
     [
-      "Made $6,763.85 in 6 months with my startup",
-      "https://news.ycombinator.com/item?id=33318616"
+      "SimulaVR: Meta's Subpoena Has Been Dropped",
+      "https://simulavr.com/blog/simula-one-vs-quest-pro/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 16:35:00",
+      "https://news.ycombinator.com/item?id=33318917"
+    ],
+    [
+      "Not the Time to Get Greedy: House Flippers Getting Burned by US Housing Downturn",
+      "https://moneywise.com/real-estate/not-the-time-to-get-greedy-for-house-flippers"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 16:26:22",
+      "https://news.ycombinator.com/item?id=33318788"
+    ],
+    [
+      "Cuckoo Filter: Practically Better Than Bloom (2014) [pdf]",
+      "https://www.eecs.harvard.edu/~michaelm/postscripts/cuckoo-conext2014.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 16:22:40",
+      "https://news.ycombinator.com/item?id=33318725"
+    ],
+    [
+      "Show HN: Open-source non-blocking NIO Java HTTP Server",
+      "https://github.com/FusionAuth/java-http"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 16:11:57",
+      "https://news.ycombinator.com/item?id=33318590"
+    ],
+    [
+      "Memtest86 v6.00 with UEFI support released",
+      "https://www.memtest.org/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 16:00:08",
+      "https://news.ycombinator.com/item?id=33318432"
+    ],
+    [
+      "Show HN: IHP v1.0 (Batteries-included web framework built on Haskell and Nix)",
+      "https://ihp.digitallyinduced.com/blog/c479f341-1374-496a-96d6-7af647005b21-ihp-1-0"
     ]
   ],
   [
@@ -57,16 +107,6 @@
     [
       "Show HN: Topaz: open-source authorization combining the best of OPA and Zanzibar",
       "https://github.com/aserto-dev/topaz"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 14:51:02",
-      "https://news.ycombinator.com/item?id=33317414"
-    ],
-    [
-      "Lawsuit filed against rent-setting software RealPage",
-      "https://www.propublica.org/article/realpage-accused-of-collusion-in-new-lawsuit"
     ]
   ],
   [
@@ -221,16 +261,6 @@
   ],
   [
     [
-      "2022-10-24, 07:16:32",
-      "https://news.ycombinator.com/item?id=33313799"
-    ],
-    [
-      "The Rise of Discmaster",
-      "https://blog.archive.org/2022/10/24/the-rise-of-discmaster/"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 05:24:32",
       "https://news.ycombinator.com/item?id=33313211"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2022-10-24, 02:38:49",
-      "https://news.ycombinator.com/item?id=33312441"
-    ],
-    [
-      "JPEG of Shakespeare is also a zip file containing his complete works (2018)",
-      "https://twitter.com/david3141593/status/1057042085029822464"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 01:24:29",
-      "https://news.ycombinator.com/item?id=33312012"
-    ],
-    [
-      "Debugging C with Cosmopolitan Libc",
-      "https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/"
-    ]
-  ],
-  [
-    [
       "2022-10-22, 22:48:09",
       "https://news.ycombinator.com/item?id=33302924"
     ],
     [
       "A lift-the-flap book, 18th century style",
       "https://blogs.bl.uk/untoldlives/2022/10/a-lift-the-flap-book-18th-century-style.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 23:18:25",
-      "https://news.ycombinator.com/item?id=33282095"
-    ],
-    [
-      "DNS SRV Records for HTTP (2009)",
-      "https://datatracker.ietf.org/doc/id/draft-jennings-http-srv-01.html"
     ]
   ]
 ]
