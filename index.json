@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-24, 18:04:39",
+      "https://news.ycombinator.com/item?id=33320156"
+    ],
+    [
+      "Accelerated forgetting of a trauma event after a single dose of hydrocortisone",
+      "https://www.nature.com/articles/s41398-022-02126-2"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 18:01:00",
+      "https://news.ycombinator.com/item?id=33320111"
+    ],
+    [
+      "WebKit Features in Safari 16.1",
+      "https://webkit.org/blog/13399/webkit-features-in-safari-16-1/"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 17:38:49",
       "https://news.ycombinator.com/item?id=33319777"
     ],
@@ -17,6 +37,16 @@
     [
       "Available Today: Windows Dev Kit 2023 a.k.a. Project Volterra",
       "https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 17:09:06",
+      "https://news.ycombinator.com/item?id=33319367"
+    ],
+    [
+      "macOS Ventura is now available",
+      "https://www.apple.com/newsroom/2022/10/macos-ventura-is-now-available/"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "Show HN: Open-source non-blocking NIO Java HTTP Server",
       "https://github.com/FusionAuth/java-http"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 16:17:28",
+      "https://news.ycombinator.com/item?id=33318659"
+    ],
+    [
+      "Every Door – OpenStreetMap editor for POIs and entrances",
+      "https://every-door.app/"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2022-10-24, 14:32:43",
-      "https://news.ycombinator.com/item?id=33317169"
-    ],
-    [
-      "The first rule of Microsoft Excel: Don’t tell anyone you’re good at it",
-      "https://www.wsj.com/articles/the-first-rule-of-microsoft-exceldont-tell-anyone-youre-good-at-it-1538754380"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 14:30:02",
       "https://news.ycombinator.com/item?id=33317126"
     ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2022-10-24, 11:53:13",
-      "https://news.ycombinator.com/item?id=33315531"
-    ],
-    [
-      "In Defense of Missile Defense",
-      "https://www.navalgazing.net/In-Defense-of-Missile-Defense"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 11:36:31",
       "https://news.ycombinator.com/item?id=33315392"
     ],
@@ -237,16 +257,6 @@
     [
       "Sonic: Fast, lightweight and schema-less search backend",
       "https://github.com/valeriansaliou/sonic"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 09:17:23",
-      "https://news.ycombinator.com/item?id=33314434"
-    ],
-    [
-      "Plastic recycling remains a 'myth': Greenpeace study",
-      "https://phys.org/news/2022-10-plastic-recycling-myth-greenpeace.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Fake Books",
       "https://lcamtuf.substack.com/p/fake-books"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 02:52:53",
-      "https://news.ycombinator.com/item?id=33312508"
-    ],
-    [
-      "Buffers on the Edge: Python and Rust",
-      "https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/"
     ]
   ],
   [
