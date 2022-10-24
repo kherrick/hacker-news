@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-24, 12:45:51",
+      "https://news.ycombinator.com/item?id=33315949"
+    ],
+    [
+      "The bosses who silently nudge out workers",
+      "https://www.bbc.com/worklife/article/20221021-the-bosses-who-silently-nudge-out-workers"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 12:23:01",
+      "https://news.ycombinator.com/item?id=33315758"
+    ],
+    [
+      "Guy turned his eye into a flashlight",
+      "https://www.reddit.com/r/nextfuckinglevel/comments/ybisa1/this_guy_turned_his_eye_into_a_flashlight/"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 11:36:31",
       "https://news.ycombinator.com/item?id=33315392"
     ],
     [
       "Record-breaking chip can transmit entire internet's traffic per second",
       "https://newatlas.com/telecommunications/optical-chip-fastest-data-transmission-record-entire-internet-traffic/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 11:31:27",
+      "https://news.ycombinator.com/item?id=33315352"
+    ],
+    [
+      "Ask HN: How to show a not “so perfect” MVP to potential customers?",
+      "https://news.ycombinator.com/item?id=33315352"
     ]
   ],
   [
@@ -95,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33313687"
     ],
     [
-      "Behind TikTok's Boom: A Legion of Traumatized, $10-a-Day Content Moderators",
+      "Behind TikTok's boom: A legion of traumatized, $10-a-day content moderators",
       "https://www.thebureauinvestigates.com/stories/2022-10-20/behind-tiktoks-boom-a-legion-of-traumatised-10-a-day-content-moderators"
     ]
   ],
@@ -201,6 +231,16 @@
   ],
   [
     [
+      "2022-10-23, 22:01:55",
+      "https://news.ycombinator.com/item?id=33310714"
+    ],
+    [
+      "Coming Home to Vim (2010)",
+      "https://stevelosh.com/blog/2010/09/coming-home-to-vim/"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 21:41:56",
       "https://news.ycombinator.com/item?id=33310554"
     ],
@@ -211,31 +251,11 @@
   ],
   [
     [
-      "2022-10-23, 20:59:16",
-      "https://news.ycombinator.com/item?id=33310207"
-    ],
-    [
-      "Maintaining sufficient free space with ZFS",
-      "https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-with-zfs/"
-    ]
-  ],
-  [
-    [
-      "2022-10-23, 20:27:23",
-      "https://news.ycombinator.com/item?id=33309969"
-    ],
-    [
-      "Gamification affects software developers: Cautionary evidence from GitHub",
-      "https://arxiv.org/abs/2006.02371"
-    ]
-  ],
-  [
-    [
       "2022-10-23, 19:25:44",
       "https://news.ycombinator.com/item?id=33309491"
     ],
     [
-      "2D Global Illumination in Godot",
+      "2D Global Illumination in Godot (2020)",
       "https://samuelbigos.github.io/posts/2dgi1-2d-global-illumination-in-godot.html"
     ]
   ],
@@ -257,26 +277,6 @@
     [
       "Security through obscurity is underrated (2020)",
       "https://utkusen.com/blog/security-by-obscurity-is-underrated"
-    ]
-  ],
-  [
-    [
-      "2022-10-23, 13:58:27",
-      "https://news.ycombinator.com/item?id=33307059"
-    ],
-    [
-      "Programming language comparison by reimplementing the same transit data app",
-      "https://github.com/losvedir/transit-lang-cmp"
-    ]
-  ],
-  [
-    [
-      "2022-10-23, 13:35:24",
-      "https://news.ycombinator.com/item?id=33306881"
-    ],
-    [
-      "Textual TUI framework for Python adds CSS renderer",
-      "https://www.textualize.io/blog/posts/textual-0-point-2-point-0"
     ]
   ],
   [
