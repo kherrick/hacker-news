@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-24, 19:46:40",
+      "https://news.ycombinator.com/item?id=33321579"
+    ],
+    [
+      "Ask HN: Am I the only one not caring about GitHub Copilot?",
+      "https://news.ycombinator.com/item?id=33321579"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 19:39:57",
+      "https://news.ycombinator.com/item?id=33321475"
+    ],
+    [
+      "My next Mac might be the last",
+      "https://morrick.me/archives/9667"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 19:28:10",
       "https://news.ycombinator.com/item?id=33321283"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2022-10-24, 18:33:43",
+      "https://news.ycombinator.com/item?id=33320530"
+    ],
+    [
+      "The Docker+WASM Technical Preview",
+      "https://www.docker.com/blog/docker-wasm-technical-preview/"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 18:29:21",
       "https://news.ycombinator.com/item?id=33320477"
     ],
@@ -65,18 +95,8 @@
       "https://news.ycombinator.com/item?id=33320294"
     ],
     [
-      "Forgetting the Asbestos: Or, how we lose knowledge and technologies.",
+      "Forgetting the Asbestos – how we lose knowledge and technologies",
       "https://1517.substack.com/p/forgetting-the-asbestos"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 18:06:57",
-      "https://news.ycombinator.com/item?id=33320181"
-    ],
-    [
-      "Happy Diwali Everyone",
-      "https://en.wikipedia.org/wiki/Diwali"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "macOS Ventura is now available",
       "https://www.apple.com/newsroom/2022/10/macos-ventura-is-now-available/"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 16:37:35",
-      "https://news.ycombinator.com/item?id=33318956"
-    ],
-    [
-      "Meta's Subpoena Dropped – Simula One vs. Quest Pro",
-      "https://simulavr.com/blog/simula-one-vs-quest-pro/"
     ]
   ],
   [
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=33318432"
     ],
     [
-      "Show HN: IHP – Batteries-included web framework built on Haskell and Nix",
+      "Show HN: IHP v1.0 – Batteries-included web framework built on Haskell and Nix",
       "https://ihp.digitallyinduced.com/blog/c479f341-1374-496a-96d6-7af647005b21-ihp-1-0"
     ]
   ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33315392"
     ],
     [
-      "Record-breaking chip can transmit entire internet's traffic per second",
+      "Record-breaking chip can transmit 1.8 petabits per second",
       "https://newatlas.com/telecommunications/optical-chip-fastest-data-transmission-record-entire-internet-traffic/"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "I help seniors with technology issues",
       "https://twitter.com/_danilo/status/1583169632516509697"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 08:02:46",
-      "https://news.ycombinator.com/item?id=33314045"
-    ],
-    [
-      "Game Boy SM83 CPU Core",
-      "https://github.com/Gekkio/gb-research/tree/main/sm83-cpu-core"
     ]
   ],
   [
