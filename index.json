@@ -1,22 +1,32 @@
 [
   [
     [
-      "2022-10-24, 16:37:35",
-      "https://news.ycombinator.com/item?id=33318956"
+      "2022-10-24, 17:38:49",
+      "https://news.ycombinator.com/item?id=33319777"
     ],
     [
-      "SimulaVR: Meta's Subpoena Has Been Dropped",
-      "https://simulavr.com/blog/simula-one-vs-quest-pro/"
+      "Microsoft’s new $599 Mac Mini-like PC is designed to improve Windows on Arm",
+      "https://www.theverge.com/2022/10/24/23420207/microsoft-windows-dev-kit-2023-project-volterra-release-date-price"
     ]
   ],
   [
     [
-      "2022-10-24, 16:35:00",
-      "https://news.ycombinator.com/item?id=33318917"
+      "2022-10-24, 17:21:09",
+      "https://news.ycombinator.com/item?id=33319535"
     ],
     [
-      "Not the Time to Get Greedy: House Flippers Getting Burned by US Housing Downturn",
-      "https://moneywise.com/real-estate/not-the-time-to-get-greedy-for-house-flippers"
+      "Available Today: Windows Dev Kit 2023 a.k.a. Project Volterra",
+      "https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 16:37:35",
+      "https://news.ycombinator.com/item?id=33318956"
+    ],
+    [
+      "Meta's Subpoena Dropped – Simula One vs. Quest Pro",
+      "https://simulavr.com/blog/simula-one-vs-quest-pro/"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33318432"
     ],
     [
-      "Show HN: IHP v1.0 (Batteries-included web framework built on Haskell and Nix)",
+      "Show HN: IHP – Batteries-included web framework built on Haskell and Nix",
       "https://ihp.digitallyinduced.com/blog/c479f341-1374-496a-96d6-7af647005b21-ihp-1-0"
     ]
   ],
@@ -71,22 +81,22 @@
   ],
   [
     [
-      "2022-10-24, 15:50:50",
-      "https://news.ycombinator.com/item?id=33318307"
-    ],
-    [
-      "A follow-up on our analysis of the anomalous restriction map of SARS-CoV-2",
-      "https://alexwasburne.substack.com/p/open-letter-to-the-world"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 15:45:06",
       "https://news.ycombinator.com/item?id=33318215"
     ],
     [
       "What’s wrong with medieval pigs in videogames",
       "https://www.leidenmedievalistsblog.nl/articles/whats-wrong-with-medieval-pigs-in-videogames"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 15:37:20",
+      "https://news.ycombinator.com/item?id=33318108"
+    ],
+    [
+      "Show HN: Bolt.css – Another classless CSS library",
+      "https://boltcss.com"
     ]
   ],
   [
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2022-10-24, 15:00:22",
+      "https://news.ycombinator.com/item?id=33317575"
+    ],
+    [
+      "Open Source Seed Initiative",
+      "https://osseeds.org/"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 14:32:43",
       "https://news.ycombinator.com/item?id=33317169"
     ],
@@ -127,16 +147,6 @@
     [
       "The evolution of the data engineer role",
       "https://airbyte.com/blog/data-engineering-past-present-and-future"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 14:07:26",
-      "https://news.ycombinator.com/item?id=33316803"
-    ],
-    [
-      "Are Real Numbers Real? (2017)",
-      "https://ptolemy.berkeley.edu/~eal/pnerd/blog/are-real-numbers-real.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Buffers on the Edge: Python and Rust",
       "https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 02:44:28",
-      "https://news.ycombinator.com/item?id=33312469"
-    ],
-    [
-      "Why are there so few dead bugs on windshields these days?",
-      "https://www.washingtonpost.com/business/2022/10/21/dead-bugs-on-windshields/"
     ]
   ],
   [
