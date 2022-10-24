@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-10-24, 09:37:09",
-      "https://news.ycombinator.com/item?id=33314526"
-    ],
-    [
-      "The End of Windows Software",
-      "https://hardcoresoftware.learningbyshipping.com/p/103-end-of-windows-software"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 09:17:23",
       "https://news.ycombinator.com/item?id=33314434"
     ],
@@ -117,6 +107,16 @@
     [
       "The making of Chapter 46 of The Feynman Lectures (2021)",
       "https://physicstoday.scitation.org/do/10.1063/pt.6.3.20211209a/full/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 03:45:16",
+      "https://news.ycombinator.com/item?id=33312753"
+    ],
+    [
+      "Remote work has been a boon for night owls",
+      "https://fortune.com/2022/10/23/waking-up-one-minute-before-remote-job/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-10-23, 19:59:01",
-      "https://news.ycombinator.com/item?id=33309754"
-    ],
-    [
-      "The Social Recession: By the Numbers",
-      "https://novum.substack.com/p/social-recession-by-the-numbers"
-    ]
-  ],
-  [
-    [
       "2022-10-23, 19:25:44",
       "https://news.ycombinator.com/item?id=33309491"
     ],
@@ -267,6 +257,16 @@
     [
       "Security through obscurity is underrated (2020)",
       "https://utkusen.com/blog/security-by-obscurity-is-underrated"
+    ]
+  ],
+  [
+    [
+      "2022-10-23, 13:58:27",
+      "https://news.ycombinator.com/item?id=33307059"
+    ],
+    [
+      "Programming language comparison by reimplementing the same transit data app",
+      "https://github.com/losvedir/transit-lang-cmp"
     ]
   ],
   [
