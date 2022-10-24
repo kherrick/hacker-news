@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-24, 15:22:45",
+      "https://news.ycombinator.com/item?id=33317898"
+    ],
+    [
+      "Exposure to environmental toxins may be root of rise in neurological disorders",
+      "https://www.theguardian.com/us-news/2022/oct/23/environmental-toxins-neurological-disorders-parkinsons-alzheimers"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 15:09:32",
       "https://news.ycombinator.com/item?id=33317718"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33317708"
     ],
     [
-      "Putting Kids in Debt",
+      "Putting Kids in Debt (2015)",
       "https://idiallo.com/blog/too-young-for-big-school-debt"
     ]
   ],
@@ -111,6 +121,26 @@
   ],
   [
     [
+      "2022-10-24, 13:29:47",
+      "https://news.ycombinator.com/item?id=33316351"
+    ],
+    [
+      "Building the Shakti Microprocessor",
+      "https://cacm.acm.org/magazines/2022/11/265822-building-the-shakti-microprocessor/fulltext"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 13:01:39",
+      "https://news.ycombinator.com/item?id=33316070"
+    ],
+    [
+      "We Improved React Loading Times by 70% with Next.js",
+      "https://www.causal.app/blog/next-js"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 12:23:01",
       "https://news.ycombinator.com/item?id=33315758"
     ],
@@ -137,16 +167,6 @@
     [
       "Record-breaking chip can transmit entire internet's traffic per second",
       "https://newatlas.com/telecommunications/optical-chip-fastest-data-transmission-record-entire-internet-traffic/"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 11:31:27",
-      "https://news.ycombinator.com/item?id=33315352"
-    ],
-    [
-      "Ask HN: How to show a not “so perfect” MVP to potential customers?",
-      "https://news.ycombinator.com/item?id=33315352"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2022-10-24, 02:21:10",
-      "https://news.ycombinator.com/item?id=33312336"
-    ],
-    [
-      "A guide for getting started with Self Hosting",
-      "https://github.com/mikeroyal/Self-Hosting-Guide"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 01:24:29",
       "https://news.ycombinator.com/item?id=33312012"
     ],
     [
       "Debugging C with Cosmopolitan Libc",
       "https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/"
-    ]
-  ],
-  [
-    [
-      "2022-10-23, 19:25:44",
-      "https://news.ycombinator.com/item?id=33309491"
-    ],
-    [
-      "2D Global Illumination in Godot (2020)",
-      "https://samuelbigos.github.io/posts/2dgi1-2d-global-illumination-in-godot.html"
     ]
   ],
   [
