@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-24, 04:01:02",
+      "https://news.ycombinator.com/item?id=33312813"
+    ],
+    [
+      "Why Gen X Failed",
+      "https://compactmag.com/article/why-gen-x-failed"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 03:45:16",
+      "https://news.ycombinator.com/item?id=33312753"
+    ],
+    [
+      "I proudly wake up at 8:59 a.m., one minute before starting my remote work job",
+      "https://fortune.com/2022/10/23/waking-up-one-minute-before-remote-job/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 02:52:53",
+      "https://news.ycombinator.com/item?id=33312508"
+    ],
+    [
+      "Buffers on the Edge: Python and Rust",
+      "https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 01:24:29",
       "https://news.ycombinator.com/item?id=33312012"
     ],
@@ -17,16 +47,6 @@
     [
       "Dotfile madness (2019)",
       "https://0x46.net/thoughts/2019/02/01/dotfile-madness/"
-    ]
-  ],
-  [
-    [
-      "2022-10-23, 22:01:55",
-      "https://news.ycombinator.com/item?id=33310714"
-    ],
-    [
-      "Coming Home to Vim (2010)",
-      "https://stevelosh.com/blog/2010/09/coming-home-to-vim/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-10-23, 16:59:32",
-      "https://news.ycombinator.com/item?id=33308393"
-    ],
-    [
-      "Write Like You Talk (2015)",
-      "http://paulgraham.com/talk.html"
-    ]
-  ],
-  [
-    [
       "2022-10-23, 16:31:45",
       "https://news.ycombinator.com/item?id=33308167"
     ],
@@ -191,26 +201,6 @@
   ],
   [
     [
-      "2022-10-23, 13:23:56",
-      "https://news.ycombinator.com/item?id=33306801"
-    ],
-    [
-      "27 years ago, Hoover offered free international flights with any £100 purchase",
-      "https://thehustle.co/the-worst-sales-promotion-in-history/"
-    ]
-  ],
-  [
-    [
-      "2022-10-23, 13:21:07",
-      "https://news.ycombinator.com/item?id=33306778"
-    ],
-    [
-      "Interactive Vim Tutorial",
-      "https://www.openvim.com/"
-    ]
-  ],
-  [
-    [
       "2022-10-21, 04:15:24",
       "https://news.ycombinator.com/item?id=33284439"
     ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2022-10-20, 17:33:34",
-      "https://news.ycombinator.com/item?id=33277985"
+      "2022-10-20, 17:07:12",
+      "https://news.ycombinator.com/item?id=33277634"
     ],
     [
-      "Eglot has landed on master: Emacs now has a built-in LSP client",
-      "https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html"
+      "Trapping Sound and Light on a Chip",
+      "https://www.utwente.nl/en/news/2022/10/148268/trapping-sound-and-light-on-a-chip"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "TigYog",
       "https://tigyog.app/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 10:17:54",
+      "https://news.ycombinator.com/item?id=33272668"
+    ],
+    [
+      "OpenPOWER Foundation Demoes the LibreBMC Power-Based Open-Source BMC",
+      "https://www.phoronix.com/news/LibreBMC-Demo"
     ]
   ]
 ]
