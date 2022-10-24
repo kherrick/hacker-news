@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-24, 16:13:47",
+      "https://news.ycombinator.com/item?id=33318616"
+    ],
+    [
+      "Made $6,763.85 in 6 months with my startup",
+      "https://news.ycombinator.com/item?id=33318616"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 15:51:16",
+      "https://news.ycombinator.com/item?id=33318314"
+    ],
+    [
+      "Imagorvideo – video thumbnail server using RMSE in Go and FFmpeg C bindings",
+      "https://github.com/cshum/imagorvideo"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 15:50:50",
+      "https://news.ycombinator.com/item?id=33318307"
+    ],
+    [
+      "A follow-up on our analysis of the anomalous restriction map of SARS-CoV-2",
+      "https://alexwasburne.substack.com/p/open-letter-to-the-world"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 15:45:06",
+      "https://news.ycombinator.com/item?id=33318215"
+    ],
+    [
+      "What’s wrong with medieval pigs in videogames",
+      "https://www.leidenmedievalistsblog.nl/articles/whats-wrong-with-medieval-pigs-in-videogames"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 15:22:45",
       "https://news.ycombinator.com/item?id=33317898"
     ],
@@ -11,22 +51,12 @@
   ],
   [
     [
-      "2022-10-24, 15:09:32",
-      "https://news.ycombinator.com/item?id=33317718"
+      "2022-10-24, 15:01:44",
+      "https://news.ycombinator.com/item?id=33317597"
     ],
     [
-      "California Poised to Overtake Germany as World’s No. 4 Economy",
-      "https://www.washingtonpost.com/business/energy/california-poised-to-overtakegermany-as-worlds-no-4-economy/2022/10/24/d4df35a2-538b-11ed-ac8b-08bbfab1c5a5_story.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 15:08:52",
-      "https://news.ycombinator.com/item?id=33317708"
-    ],
-    [
-      "Putting Kids in Debt (2015)",
-      "https://idiallo.com/blog/too-young-for-big-school-debt"
+      "Show HN: Topaz: open-source authorization combining the best of OPA and Zanzibar",
+      "https://github.com/aserto-dev/topaz"
     ]
   ],
   [
@@ -35,18 +65,8 @@
       "https://news.ycombinator.com/item?id=33317414"
     ],
     [
-      "Company that makes rent-setting software for landlords sued for collusion",
+      "Lawsuit filed against rent-setting software RealPage",
       "https://www.propublica.org/article/realpage-accused-of-collusion-in-new-lawsuit"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 14:33:05",
-      "https://news.ycombinator.com/item?id=33317173"
-    ],
-    [
-      "Microsoft 3D Movie Maker from 1995 Is Now Open-Source",
-      "https://www.howtogeek.com/803277/microsoft-3d-movie-maker-from-1995-is-now-open-source/"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33317126"
     ],
     [
-      "The Evolution of the Data Engineer Role",
+      "The evolution of the data engineer role",
       "https://airbyte.com/blog/data-engineering-past-present-and-future"
     ]
   ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33316743"
     ],
     [
-      "The scary sound of Earth’s magnetic field",
+      "The sound of Earth’s magnetic field",
       "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/The_scary_sound_of_Earth_s_magnetic_field"
     ]
   ],
@@ -111,21 +131,11 @@
   ],
   [
     [
-      "2022-10-24, 13:32:19",
-      "https://news.ycombinator.com/item?id=33316373"
-    ],
-    [
-      "Ask HN: HN, but for Scientists?",
-      "https://news.ycombinator.com/item?id=33316373"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 13:29:47",
       "https://news.ycombinator.com/item?id=33316351"
     ],
     [
-      "Building the Shakti Microprocessor",
+      "Building the SHAKTI Microprocessor",
       "https://cacm.acm.org/magazines/2022/11/265822-building-the-shakti-microprocessor/fulltext"
     ]
   ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33316070"
     ],
     [
-      "We Improved React Loading Times by 70% with Next.js",
+      "We improved React loading times with Next.js",
       "https://www.causal.app/blog/next-js"
     ]
   ],
@@ -145,8 +155,8 @@
       "https://news.ycombinator.com/item?id=33315758"
     ],
     [
-      "Guy turned his eye into a flashlight",
-      "https://www.reddit.com/r/nextfuckinglevel/comments/ybisa1/this_guy_turned_his_eye_into_a_flashlight/"
+      "A brief demonstration of my Titanium Cyborg Eye as a flashlight [video]",
+      "https://www.tiktok.com/@bsmachinist/video/7157587293451062574"
     ]
   ],
   [
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=33315237"
     ],
     [
-      "An alternative to Elasticsearch that runs on a few MBs of RAM",
+      "Sonic: Fast, lightweight and schema-less search backend",
       "https://github.com/valeriansaliou/sonic"
     ]
   ],
@@ -195,8 +205,8 @@
       "https://news.ycombinator.com/item?id=33314291"
     ],
     [
-      "I help seniors with technology issues. A regular came in with a Lenovo laptop",
-      "https://twitter.com/i/status/1583169632516509697"
+      "I help seniors with technology issues",
+      "https://twitter.com/_danilo/status/1583169632516509697"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The Rise of Discmaster",
       "https://blog.archive.org/2022/10/24/the-rise-of-discmaster/"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 06:56:28",
-      "https://news.ycombinator.com/item?id=33313687"
-    ],
-    [
-      "Behind TikTok's boom: A legion of traumatized, $10-a-day content moderators",
-      "https://www.thebureauinvestigates.com/stories/2022-10-20/behind-tiktoks-boom-a-legion-of-traumatised-10-a-day-content-moderators"
     ]
   ],
   [
