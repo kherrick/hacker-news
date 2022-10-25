@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-10-25, 11:32:45",
+      "https://news.ycombinator.com/item?id=33329130"
+    ],
+    [
+      "Shutterstock will start selling AI-generated stock imagery",
+      "https://www.theverge.com/2022/10/25/23422359/shutterstock-ai-generated-art-openai-dall-e-partnership-contributors-fund-reimbursement"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 11:27:46",
+      "https://news.ycombinator.com/item?id=33329079"
+    ],
+    [
+      "Ask HN: Examples of Top C# Code?",
+      "https://news.ycombinator.com/item?id=33329079"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 11:15:31",
       "https://news.ycombinator.com/item?id=33328983"
     ],
     [
-      "Chrome end support for Windows 7 / 8.1 in early 2023",
+      "Chrome: Sunsetting support for Windows 7 / 8.1 in early 2023",
       "https://support.google.com/chrome/thread/185534985/sunsetting-support-for-windows-7-8-1-in-early-2023?hl=en"
     ]
   ],
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33327104"
     ],
     [
-      "Rust in Linux kernel is just a beginning",
+      "Rust in the Linux Kernel: Just the Beginning",
       "https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning/"
     ]
   ],
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=33325703"
     ],
     [
-      "Meta Learning Backpropagation and Improving It",
+      "Meta Learning Backpropagation and Improving It (2020)",
       "https://arxiv.org/abs/2012.14905"
     ]
   ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-10-24, 22:50:23",
-      "https://news.ycombinator.com/item?id=33323683"
-    ],
-    [
-      "The Surreal Horror of PAM (2021)",
-      "https://xeiaso.net/talks/surreal-horror-pam-2021-11-09"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 22:06:34",
       "https://news.ycombinator.com/item?id=33323261"
     ],
@@ -227,16 +237,6 @@
     [
       "My next Mac might be the last",
       "https://morrick.me/archives/9667"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 18:16:57",
-      "https://news.ycombinator.com/item?id=33320294"
-    ],
-    [
-      "Forgetting the Asbestos – how we lose knowledge and technologies",
-      "https://1517.substack.com/p/forgetting-the-asbestos"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=33287743"
     ],
     [
-      "The Rebirth of Magazines",
+      "The rebirth of magazines",
       "https://therebooting.substack.com/p/the-rebirth-of-magazines"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33281009"
     ],
     [
-      "Don't Overreact to Weak Signals",
+      "Don't overreact to weak signals",
       "https://themarketplace.guide/dont-overreact-to-weak-signals"
     ]
   ]
