@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-10-25, 20:02:34",
+      "https://news.ycombinator.com/item?id=33335415"
+    ],
+    [
+      "Alphabet Earnings Report Q3 2022 [pdf]",
+      "https://abc.xyz/investor/static/pdf/2022Q3_alphabet_earnings_release.pdf"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 18:50:49",
       "https://news.ycombinator.com/item?id=33334639"
     ],
     [
       "5.1 Magnitude Earthquake Near San Jose, CA",
       "https://earthquake.usgs.gov/earthquakes/eventpage/nc73799091/executive"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 18:37:58",
+      "https://news.ycombinator.com/item?id=33334521"
+    ],
+    [
+      "Photopea: The Free Photoshop Alternative Making Millions",
+      "https://www.the5to9.xyz/p/photopea-free-photoshop-alternative-making-millions"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2022-10-25, 16:51:26",
+      "https://news.ycombinator.com/item?id=33333118"
+    ],
+    [
+      "Time to Run and Pee during a movie so you don’t miss the best scenes",
+      "https://runpee.com/"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 16:43:19",
       "https://news.ycombinator.com/item?id=33333009"
     ],
@@ -127,16 +157,6 @@
     [
       "How to maintain engineering velocity as you scale",
       "https://www.ycombinator.com/blog/how-to-maintain-engineering-velocity-as-you-scale"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 15:57:31",
-      "https://news.ycombinator.com/item?id=33332337"
-    ],
-    [
-      "Learnings of a CEO: Matt Schulman, Pave, on Hiring",
-      "https://www.ycombinator.com/blog/learnings-of-a-ceo-matt-schulman-pave"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Jevko: a minimal general-purpose syntax",
       "https://djedr.github.io/posts/jevko-2022-02-22.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 01:04:10",
-      "https://news.ycombinator.com/item?id=33282909"
-    ],
-    [
-      "IEEE Hosted Gitlab Instance",
-      "https://opensource.ieee.org/users/sign_in"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 21:34:45",
-      "https://news.ycombinator.com/item?id=33281100"
-    ],
-    [
-      "A number that can't be calculated",
-      "https://www.amolas.dev/blog/uncomputable-numbers/"
     ]
   ]
 ]
