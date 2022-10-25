@@ -5,28 +5,8 @@
       "https://news.ycombinator.com/item?id=33326080"
     ],
     [
-      "What “Work” Looks Like",
+      "What “work” looks like",
       "https://blog.jim-nielsen.com/2022/what-work-looks-like/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 03:26:36",
-      "https://news.ycombinator.com/item?id=33325821"
-    ],
-    [
-      "Want to Communicate Effectively at Work? Eliminate These Cognitive Distortions",
-      "https://www.techtello.com/avoid-these-cognitive-distortions-to-communicate-effectively/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 03:10:18",
-      "https://news.ycombinator.com/item?id=33325721"
-    ],
-    [
-      "EU Gives Final Approval to Law That Will Force iPhone to Switch to USB-C",
-      "https://www.macrumors.com/2022/10/24/eu-gives-final-approval-to-usb-c-law/"
     ]
   ],
   [
@@ -41,22 +21,12 @@
   ],
   [
     [
-      "2022-10-25, 02:31:58",
-      "https://news.ycombinator.com/item?id=33325474"
+      "2022-10-25, 02:05:16",
+      "https://news.ycombinator.com/item?id=33325292"
     ],
     [
-      "Ask HN: What Is the Hype with Docker?",
-      "https://news.ycombinator.com/item?id=33325474"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 01:28:11",
-      "https://news.ycombinator.com/item?id=33325026"
-    ],
-    [
-      "Car feature subscriptions should be illegal, New Jersey Legislators say",
-      "https://arstechnica.com/cars/2022/10/new-jersey-politicians-want-to-ban-subscriptions-for-car-hardware/"
+      "Deepfake(?) Phishing",
+      "https://www.jefftk.com/p/deepfake-phishing"
     ]
   ],
   [
@@ -65,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33324704"
     ],
     [
-      "The Cult of Dd",
+      "The cult of dd (2017)",
       "https://eklitzke.org/the-cult-of-dd"
     ]
   ],
@@ -75,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33324651"
     ],
     [
-      "Bumble releases open-source A.I. feature to help combat cyberflashing",
+      "Bumble releases open-source A.I. feature to help combat unsolicited nudes",
       "https://bumble.com/the-buzz/bumble-open-source-private-detector-ai-cyberflashing-dick-pics"
     ]
   ],
@@ -135,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33321695"
     ],
     [
-      "How to Make a Roguelike",
+      "How to make a roguelike",
       "https://www.gamedeveloper.com/design/how-to-make-a-roguelike"
     ]
   ],
@@ -165,8 +135,18 @@
       "https://news.ycombinator.com/item?id=33320811"
     ],
     [
-      "Mesh shaders talk at XDC 2022",
+      "My mesh shaders talk at XDC 2022",
       "https://rg3.name/202210222107.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 18:38:38",
+      "https://news.ycombinator.com/item?id=33320597"
+    ],
+    [
+      "RISC-V Celebrates Upstreaming of Android Open Source Project RISC-V Port",
+      "https://riscv.org/blog/2022/10/risc-v-celebrates-upstreaming-of-android-open-source-project-risc-v-port-risc-v-international/"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2022-10-24, 18:04:39",
+      "https://news.ycombinator.com/item?id=33320156"
+    ],
+    [
+      "Accelerated forgetting of a trauma event after a single dose of hydrocortisone",
+      "https://www.nature.com/articles/s41398-022-02126-2"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 17:21:09",
       "https://news.ycombinator.com/item?id=33319535"
     ],
@@ -207,6 +197,16 @@
     [
       "macOS Ventura is now available",
       "https://www.apple.com/newsroom/2022/10/macos-ventura-is-now-available/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 16:22:40",
+      "https://news.ycombinator.com/item?id=33318725"
+    ],
+    [
+      "Show HN: Open-source non-blocking NIO Java HTTP Server",
+      "https://github.com/FusionAuth/java-http"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2022-10-24, 15:01:44",
+      "https://news.ycombinator.com/item?id=33317597"
+    ],
+    [
+      "Show HN: Topaz: open-source authorization combining the best of OPA and Zanzibar",
+      "https://github.com/aserto-dev/topaz"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 15:00:22",
       "https://news.ycombinator.com/item?id=33317575"
     ],
     [
       "Open Source Seed Initiative",
       "https://osseeds.org/"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 14:30:02",
-      "https://news.ycombinator.com/item?id=33317126"
-    ],
-    [
-      "The evolution of the data engineer role",
-      "https://airbyte.com/blog/data-engineering-past-present-and-future"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2022-10-24, 05:24:32",
-      "https://news.ycombinator.com/item?id=33313211"
-    ],
-    [
-      "Fake Books",
-      "https://lcamtuf.substack.com/p/fake-books"
-    ]
-  ],
-  [
-    [
       "2022-10-22, 22:43:09",
       "https://news.ycombinator.com/item?id=33302896"
     ],
     [
       "Immortal by Default: A brief history of humans and the ginkgo tree",
       "https://www.laphamsquarterly.org/roundtable/immortal-default"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 22:47:33",
+      "https://news.ycombinator.com/item?id=33281823"
+    ],
+    [
+      "Chimpanzees synchronise their steps just like humans",
+      "https://news.st-andrews.ac.uk/archive/chimpanzees-synchronise-their-steps-just-like-humans/"
     ]
   ]
 ]
