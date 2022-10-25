@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-25, 18:04:54",
+      "https://news.ycombinator.com/item?id=33334104"
+    ],
+    [
+      "Vercel acquires Splitbee to expand first-party analytics",
+      "https://vercel.com/blog/vercel-acquires-splitbee"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 17:45:36",
+      "https://news.ycombinator.com/item?id=33333843"
+    ],
+    [
+      "Next.js 13",
+      "https://nextjs.org/blog/next-13"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 17:35:28",
+      "https://news.ycombinator.com/item?id=33333695"
+    ],
+    [
+      "Vercel announces Turbopack, the successor to Webpack",
+      "https://vercel.com/blog/turbopack"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 17:27:16",
       "https://news.ycombinator.com/item?id=33333584"
     ],
@@ -27,16 +57,6 @@
     [
       "No New Streaming Services Will Launch in 2022",
       "https://gammawire.com/no-new-streaming-services-will-launch-in-2022/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 16:43:06",
-      "https://news.ycombinator.com/item?id=33333006"
-    ],
-    [
-      "Iranian man who didn't wash for half a century dies at 94",
-      "https://www.bbc.com/news/world-middle-east-63389045"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2022-10-25, 14:21:10",
-      "https://news.ycombinator.com/item?id=33330811"
-    ],
-    [
-      "Ask HN: Corp gives “contractor” benefits, want “employee” obligations, what now?",
-      "https://news.ycombinator.com/item?id=33330811"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 14:20:46",
       "https://news.ycombinator.com/item?id=33330804"
     ],
     [
       "TinyWM – A tiny window manager in around 50 lines of C",
       "http://incise.org/tinywm.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 14:05:30",
-      "https://news.ycombinator.com/item?id=33330613"
-    ],
-    [
-      "The case litigating Andy Warhol’s use of a photograph of Prince",
-      "https://www.nybooks.com/online/2022/10/25/warhol-prince-controversy/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-10-25, 05:18:42",
-      "https://news.ycombinator.com/item?id=33326523"
-    ],
-    [
-      "How the clipboard works",
-      "https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 04:04:47",
       "https://news.ycombinator.com/item?id=33326080"
     ],
@@ -297,6 +287,16 @@
     [
       "IEEE Hosted Gitlab Instance",
       "https://opensource.ieee.org/users/sign_in"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 23:54:32",
+      "https://news.ycombinator.com/item?id=33282428"
+    ],
+    [
+      "Experimental indications of non-classical brain functions [pdf]",
+      "https://iopscience.iop.org/article/10.1088/2399-6528/ac94be/pdf"
     ]
   ]
 ]
