@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2022-10-25, 16:01:44",
+      "https://news.ycombinator.com/item?id=33332411"
+    ],
+    [
+      "A Simple Map for Innovation at Scale",
+      "https://steveblank.com/2022/10/25/a-simple-map-for-innovation-at-scale/"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 16:00:08",
       "https://news.ycombinator.com/item?id=33332388"
     ],
@@ -247,16 +257,6 @@
     [
       "Stranger Strings: An exploitable flaw in SQLite",
       "https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 08:19:02",
-      "https://news.ycombinator.com/item?id=33327678"
-    ],
-    [
-      "Chromium based browsers leak user local IP via WebRTC foundation attribute",
-      "https://niespodd.github.io/webrtc-local-ip-leak/"
     ]
   ],
   [
