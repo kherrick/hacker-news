@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-10-25, 04:04:47",
+      "https://news.ycombinator.com/item?id=33326080"
+    ],
+    [
+      "What “Work” Looks Like",
+      "https://blog.jim-nielsen.com/2022/what-work-looks-like/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 03:26:36",
+      "https://news.ycombinator.com/item?id=33325821"
+    ],
+    [
+      "Want to Communicate Effectively at Work? Eliminate These Cognitive Distortions",
+      "https://www.techtello.com/avoid-these-cognitive-distortions-to-communicate-effectively/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 03:10:18",
+      "https://news.ycombinator.com/item?id=33325721"
+    ],
+    [
+      "EU Gives Final Approval to Law That Will Force iPhone to Switch to USB-C",
+      "https://www.macrumors.com/2022/10/24/eu-gives-final-approval-to-usb-c-law/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 03:07:58",
+      "https://news.ycombinator.com/item?id=33325703"
+    ],
+    [
+      "Meta Learning Backpropagation and Improving It",
+      "https://arxiv.org/abs/2012.14905"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 02:31:58",
+      "https://news.ycombinator.com/item?id=33325474"
+    ],
+    [
+      "Ask HN: What Is the Hype with Docker?",
+      "https://news.ycombinator.com/item?id=33325474"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 01:28:11",
       "https://news.ycombinator.com/item?id=33325026"
     ],
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2022-10-24, 19:52:44",
-      "https://news.ycombinator.com/item?id=33321668"
-    ],
-    [
-      "The Enduring Genius of ‘The Craft of Dying’",
-      "https://thereader.mitpress.mit.edu/the-enduring-genius-of-the-craft-of-dying/"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 19:39:57",
       "https://news.ycombinator.com/item?id=33321475"
     ],
@@ -127,16 +167,6 @@
     [
       "Mesh shaders talk at XDC 2022",
       "https://rg3.name/202210222107.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 18:38:38",
-      "https://news.ycombinator.com/item?id=33320597"
-    ],
-    [
-      "RISC-V Celebrates Upstreaming of Android Open Source Project RISC-V Port",
-      "https://riscv.org/blog/2022/10/risc-v-celebrates-upstreaming-of-android-open-source-project-risc-v-port-risc-v-international/"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2022-10-24, 15:01:44",
-      "https://news.ycombinator.com/item?id=33317597"
-    ],
-    [
-      "Show HN: Topaz: open-source authorization combining the best of OPA and Zanzibar",
-      "https://github.com/aserto-dev/topaz"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 15:00:22",
       "https://news.ycombinator.com/item?id=33317575"
     ],
@@ -277,26 +297,6 @@
     [
       "Immortal by Default: A brief history of humans and the ginkgo tree",
       "https://www.laphamsquarterly.org/roundtable/immortal-default"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 09:04:55",
-      "https://news.ycombinator.com/item?id=33286069"
-    ],
-    [
-      "Converting a polyglot project build to Bazel",
-      "https://www.tweag.io/blog/2022-10-20-bazel-example-servant-elm-1/"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 22:47:33",
-      "https://news.ycombinator.com/item?id=33281823"
-    ],
-    [
-      "Chimpanzees synchronise their steps just like humans",
-      "https://news.st-andrews.ac.uk/archive/chimpanzees-synchronise-their-steps-just-like-humans/"
     ]
   ]
 ]
