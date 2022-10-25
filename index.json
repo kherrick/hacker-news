@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-25, 08:30:31",
+      "https://news.ycombinator.com/item?id=33327774"
+    ],
+    [
+      "Libre Tools from the National Cybersecurity Competence Center of Luxembourg",
+      "https://opensource.nc3.lu"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 08:19:02",
+      "https://news.ycombinator.com/item?id=33327678"
+    ],
+    [
+      "Chromium based browsers leak user local IP via WebRTC foundation attribute",
+      "https://niespodd.github.io/webrtc-local-ip-leak/"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 08:16:28",
       "https://news.ycombinator.com/item?id=33327656"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2022-10-25, 07:28:00",
-      "https://news.ycombinator.com/item?id=33327291"
+      "2022-10-25, 07:32:51",
+      "https://news.ycombinator.com/item?id=33327320"
     ],
     [
-      "macOS Ventura",
-      "https://www.apple.com/macos/ventura/"
+      "Tell HN: WhatsApp Is Down",
+      "https://news.ycombinator.com/item?id=33327320"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "How to autoscale Grafana Loki queries using KEDA",
       "https://grafana.com/blog/2022/10/20/how-to-autoscale-grafana-loki-queries-using-keda/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 05:20:09",
-      "https://news.ycombinator.com/item?id=33326533"
-    ],
-    [
-      "Ask HN: What's the next evolution of the GUI OS?",
-      "https://news.ycombinator.com/item?id=33326533"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Only virgin type of olive oil consumption reduces the risk of mortality: study",
       "https://www.nature.com/articles/s41430-022-01221-3"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 18:56:49",
-      "https://news.ycombinator.com/item?id=33320811"
-    ],
-    [
-      "My mesh shaders talk at XDC 2022",
-      "https://rg3.name/202210222107.html"
     ]
   ],
   [
