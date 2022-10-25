@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2022-10-25, 06:54:41",
+      "https://news.ycombinator.com/item?id=33327104"
+    ],
+    [
+      "Rust in Linux kernel is just a beginning",
+      "https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 06:38:21",
+      "https://news.ycombinator.com/item?id=33327014"
+    ],
+    [
+      "Graphviz v7",
+      "https://gitlab.com/graphviz/graphviz/-/tree/main"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 06:31:37",
       "https://news.ycombinator.com/item?id=33326979"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-10-24, 19:52:44",
-      "https://news.ycombinator.com/item?id=33321668"
-    ],
-    [
-      "The Enduring Genius of ‘The Craft of Dying’",
-      "https://thereader.mitpress.mit.edu/the-enduring-genius-of-the-craft-of-dying/"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 19:39:57",
       "https://news.ycombinator.com/item?id=33321475"
     ],
@@ -227,16 +237,6 @@
     [
       "macOS Ventura is now available",
       "https://www.apple.com/newsroom/2022/10/macos-ventura-is-now-available/"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 16:22:40",
-      "https://news.ycombinator.com/item?id=33318725"
-    ],
-    [
-      "Show HN: Open-source non-blocking NIO Java HTTP Server",
-      "https://github.com/FusionAuth/java-http"
     ]
   ],
   [
