@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-25, 18:50:49",
+      "https://news.ycombinator.com/item?id=33334639"
+    ],
+    [
+      "5.1 Magnitude Earthquake Near San Jose, CA",
+      "https://earthquake.usgs.gov/earthquakes/eventpage/nc73799091/executive"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 18:20:37",
+      "https://news.ycombinator.com/item?id=33334284"
+    ],
+    [
+      "The American chip industry’s $1.5T meltdown",
+      "https://www.economist.com/business/2022/10/17/the-american-chip-industrys-15trn-meltdown"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 18:10:01",
+      "https://news.ycombinator.com/item?id=33334160"
+    ],
+    [
+      "Wad Commander: Play Doom I and II in the Browser",
+      "https://wadcmd.com/"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 18:04:54",
       "https://news.ycombinator.com/item?id=33334104"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2022-10-25, 17:45:36",
-      "https://news.ycombinator.com/item?id=33333843"
+      "2022-10-25, 18:01:16",
+      "https://news.ycombinator.com/item?id=33334062"
     ],
     [
-      "Next.js 13",
-      "https://nextjs.org/blog/next-13"
+      "Anti-Patterns in Startup Engineering Hiring",
+      "https://blog.southparkcommons.com/startup-engineering-hiring-anti-patterns/"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33333695"
     ],
     [
-      "Vercel announces Turbopack, the successor to Webpack",
+      "Turbopack, the successor to Webpack",
       "https://vercel.com/blog/turbopack"
     ]
   ],
@@ -51,12 +81,12 @@
   ],
   [
     [
-      "2022-10-25, 16:43:22",
-      "https://news.ycombinator.com/item?id=33333011"
+      "2022-10-25, 16:43:19",
+      "https://news.ycombinator.com/item?id=33333009"
     ],
     [
-      "No New Streaming Services Will Launch in 2022",
-      "https://gammawire.com/no-new-streaming-services-will-launch-in-2022/"
+      "Build a Passive Radar with Software-Defined Radio",
+      "https://spectrum.ieee.org/passive-radar-with-sdr"
     ]
   ],
   [
@@ -111,26 +141,6 @@
   ],
   [
     [
-      "2022-10-25, 15:20:48",
-      "https://news.ycombinator.com/item?id=33331791"
-    ],
-    [
-      "Show HN: Koda Validate – Typesafe, combinable validation for Python",
-      "https://github.com/keithasaurus/koda-validate"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 15:18:02",
-      "https://news.ycombinator.com/item?id=33331749"
-    ],
-    [
-      "Passkeys.io – A Passkey Authentication Demo",
-      "https://www.passkeys.io/"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 15:17:20",
       "https://news.ycombinator.com/item?id=33331731"
     ],
@@ -147,16 +157,6 @@
     [
       "Zig Is Self-Hosted Now, What's Next?",
       "https://kristoff.it/blog/zig-self-hosted-now-what/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 14:58:33",
-      "https://news.ycombinator.com/item?id=33331403"
-    ],
-    [
-      "Stop Writing Twitter Threads",
-      "https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2022-10-25, 07:01:14",
-      "https://news.ycombinator.com/item?id=33327145"
+      "2022-10-25, 07:59:10",
+      "https://news.ycombinator.com/item?id=33327518"
     ],
     [
-      "Stacker (YC S20) B2B No-Code Platform Is Hiring Product Engineers",
-      "https://apply.workable.com/stackerhq/j/B4A997C78C/"
+      "Layers of change: How buildings and software are alike",
+      "https://medium.com/@glenn.sorrentino/layers-of-change-how-buildings-and-software-are-alike-faa8e644e9e8"
     ]
   ],
   [
     [
-      "2022-10-25, 04:04:47",
-      "https://news.ycombinator.com/item?id=33326080"
+      "2022-10-24, 16:19:42",
+      "https://news.ycombinator.com/item?id=33318687"
     ],
     [
-      "What “work” looks like",
-      "https://blog.jim-nielsen.com/2022/what-work-looks-like/"
+      "GPT-3 can create both sides of an Interactive Fiction transcript",
+      "https://old.reddit.com/r/interactivefiction/comments/ycf8ol/gpt3_does_an_astonishingly_good_job_creating_both/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-10-20, 23:54:32",
-      "https://news.ycombinator.com/item?id=33282428"
+      "2022-10-20, 21:34:45",
+      "https://news.ycombinator.com/item?id=33281100"
     ],
     [
-      "Experimental indications of non-classical brain functions [pdf]",
-      "https://iopscience.iop.org/article/10.1088/2399-6528/ac94be/pdf"
+      "A number that can't be calculated",
+      "https://www.amolas.dev/blog/uncomputable-numbers/"
     ]
   ]
 ]
