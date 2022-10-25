@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-25, 14:45:00",
+      "https://news.ycombinator.com/item?id=33331139"
+    ],
+    [
+      "ClockworkPi – uConsole, “fantasy console” for indie game developers",
+      "https://www.clockworkpi.com/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 14:42:14",
+      "https://news.ycombinator.com/item?id=33331093"
+    ],
+    [
+      "Marijuana Users More Prone to Infections After Knee, Shoulder Surgeries",
+      "https://consumer.healthday.com/marijuana-users-more-prone-to-infections-after-knee-shoulder-surgeries-2658453251.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 14:25:15",
+      "https://news.ycombinator.com/item?id=33330864"
+    ],
+    [
+      "My dad's resume and skills from 1980",
+      "https://github.com/runvnc/dadsresume"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 14:17:19",
+      "https://news.ycombinator.com/item?id=33330758"
+    ],
+    [
+      "Ask HN: What Happened to the Reddit IPO?",
+      "https://news.ycombinator.com/item?id=33330758"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 14:05:30",
       "https://news.ycombinator.com/item?id=33330613"
     ],
@@ -71,26 +111,6 @@
   ],
   [
     [
-      "2022-10-25, 11:15:31",
-      "https://news.ycombinator.com/item?id=33328983"
-    ],
-    [
-      "Chrome: Sunsetting support for Windows 7 / 8.1 in early 2023",
-      "https://support.google.com/chrome/thread/185534985/sunsetting-support-for-windows-7-8-1-in-early-2023?hl=en"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 11:11:25",
-      "https://news.ycombinator.com/item?id=33328947"
-    ],
-    [
-      "Ask HN: How to deal with burn out whilst in probationary period?",
-      "https://news.ycombinator.com/item?id=33328947"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 09:18:39",
       "https://news.ycombinator.com/item?id=33328142"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-10-25, 07:59:06",
-      "https://news.ycombinator.com/item?id=33327515"
-    ],
-    [
-      "Users report Nvidia RTX 4090 GPUs with melted 16-pin power connectors",
-      "https://videocardz.com/newz/first-users-report-nvidia-rtx-4090-gpus-with-melted-16-pin-power-connectors"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 07:01:14",
       "https://news.ycombinator.com/item?id=33327145"
     ],
@@ -187,16 +197,6 @@
     [
       "Graphviz 7",
       "https://gitlab.com/graphviz/graphviz/-/tree/main"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 06:31:37",
-      "https://news.ycombinator.com/item?id=33326979"
-    ],
-    [
-      "How to autoscale Grafana Loki queries using KEDA",
-      "https://grafana.com/blog/2022/10/20/how-to-autoscale-grafana-loki-queries-using-keda/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-10-25, 00:38:12",
-      "https://news.ycombinator.com/item?id=33324651"
-    ],
-    [
-      "Bumble releases open-source A.I. feature to help combat unsolicited nudes",
-      "https://bumble.com/the-buzz/bumble-open-source-private-detector-ai-cyberflashing-dick-pics"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 15:45:06",
       "https://news.ycombinator.com/item?id=33318215"
     ],
@@ -287,6 +277,16 @@
     [
       "Black Death Left a Mark on Human Genome",
       "https://www.science.org/content/article/black-death-left-mark-human-genome"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 01:04:10",
+      "https://news.ycombinator.com/item?id=33282909"
+    ],
+    [
+      "IEEE Hosted Gitlab Instance",
+      "https://opensource.ieee.org/users/sign_in"
     ]
   ],
   [
