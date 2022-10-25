@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-10-25, 16:07:25",
+      "https://news.ycombinator.com/item?id=33332479"
+    ],
+    [
+      "Cheat Codes for Life I Know at 36 That I Wish I Knew at 26",
+      "https://timdenning.com/cheat-codes-for-life/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 16:04:34",
+      "https://news.ycombinator.com/item?id=33332437"
+    ],
+    [
+      "Markov Chain Monte Carlo Without All the Bullshit (2015)",
+      "https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 16:01:44",
+      "https://news.ycombinator.com/item?id=33332411"
+    ],
+    [
+      "A Simple Map for Innovation at Scale",
+      "https://steveblank.com/2022/10/25/a-simple-map-for-innovation-at-scale/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 16:00:08",
+      "https://news.ycombinator.com/item?id=33332388"
+    ],
+    [
+      "How to maintain engineering velocity as you scale",
+      "https://www.ycombinator.com/blog/how-to-maintain-engineering-velocity-as-you-scale"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 15:57:31",
+      "https://news.ycombinator.com/item?id=33332337"
+    ],
+    [
+      "Learnings of a CEO: Matt Schulman, Pave, on Hiring",
+      "https://www.ycombinator.com/blog/learnings-of-a-ceo-matt-schulman-pave"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 15:20:48",
       "https://news.ycombinator.com/item?id=33331791"
     ],
@@ -21,22 +71,32 @@
   ],
   [
     [
+      "2022-10-25, 15:17:20",
+      "https://news.ycombinator.com/item?id=33331731"
+    ],
+    [
+      "The Case of the Missing Fuel: The story of the Stockport air disaster",
+      "https://admiralcloudberg.medium.com/the-case-of-the-missing-fuel-the-story-of-the-stockport-air-disaster-74685ae96cb3"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 15:06:12",
+      "https://news.ycombinator.com/item?id=33331549"
+    ],
+    [
+      "Zig Is Self-Hosted Now, What's Next?",
+      "https://kristoff.it/blog/zig-self-hosted-now-what/"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 14:45:00",
       "https://news.ycombinator.com/item?id=33331139"
     ],
     [
       "ClockworkPi – uConsole, “fantasy console” for indie game developers",
       "https://www.clockworkpi.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 14:42:14",
-      "https://news.ycombinator.com/item?id=33331093"
-    ],
-    [
-      "Marijuana Users More Prone to Infections After Knee, Shoulder Surgeries",
-      "https://consumer.healthday.com/marijuana-users-more-prone-to-infections-after-knee-shoulder-surgeries-2658453251.html"
     ]
   ],
   [
@@ -81,22 +141,32 @@
   ],
   [
     [
-      "2022-10-25, 14:17:19",
-      "https://news.ycombinator.com/item?id=33330758"
-    ],
-    [
-      "Ask HN: What Happened to the Reddit IPO?",
-      "https://news.ycombinator.com/item?id=33330758"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 14:05:30",
       "https://news.ycombinator.com/item?id=33330613"
     ],
     [
-      "Controversy",
+      "The case litigating Andy Warhol’s use of a photograph of Prince",
       "https://www.nybooks.com/online/2022/10/25/warhol-prince-controversy/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 13:49:13",
+      "https://news.ycombinator.com/item?id=33330410"
+    ],
+    [
+      "FTC Takes action against Drizly and CEO following security breaches",
+      "https://www.ftc.gov/news-events/news/press-releases/2022/10/ftc-takes-action-against-drizly-its-ceo-james-cory-rellas-security-failures-exposed-data-25-million"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 12:23:23",
+      "https://news.ycombinator.com/item?id=33329539"
+    ],
+    [
+      "macOS 13 Ventura review",
+      "https://arstechnica.com/gadgets/2022/10/macos-13-ventura-the-ars-technica-review/"
     ]
   ],
   [
@@ -121,52 +191,12 @@
   ],
   [
     [
-      "2022-10-25, 11:32:45",
-      "https://news.ycombinator.com/item?id=33329130"
-    ],
-    [
-      "Shutterstock will start selling AI-generated stock imagery",
-      "https://www.theverge.com/2022/10/25/23422359/shutterstock-ai-generated-art-openai-dall-e-partnership-contributors-fund-reimbursement"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 11:27:46",
-      "https://news.ycombinator.com/item?id=33329079"
-    ],
-    [
-      "Ask HN: Examples of Top C# Code?",
-      "https://news.ycombinator.com/item?id=33329079"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 09:18:39",
-      "https://news.ycombinator.com/item?id=33328142"
-    ],
-    [
-      "Emacs User Survey (2022)",
-      "https://emacssurvey.org/"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 08:47:05",
       "https://news.ycombinator.com/item?id=33327896"
     ],
     [
       "Python 3.11.0 final",
       "https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 08:30:31",
-      "https://news.ycombinator.com/item?id=33327774"
-    ],
-    [
-      "Libre Tools from the National Cybersecurity Competence Center of Luxembourg",
-      "https://opensource.nc3.lu"
     ]
   ],
   [
@@ -181,42 +211,22 @@
   ],
   [
     [
+      "2022-10-25, 07:59:10",
+      "https://news.ycombinator.com/item?id=33327518"
+    ],
+    [
+      "Layers of change: How buildings and software are alike",
+      "https://medium.com/@glenn.sorrentino/layers-of-change-how-buildings-and-software-are-alike-faa8e644e9e8"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 07:01:14",
       "https://news.ycombinator.com/item?id=33327145"
     ],
     [
       "Stacker (YC S20) B2B No-Code Platform Is Hiring Product Engineers",
       "https://apply.workable.com/stackerhq/j/B4A997C78C/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 07:00:33",
-      "https://news.ycombinator.com/item?id=33327140"
-    ],
-    [
-      "Tell HN: A Demo Day without the investors",
-      "https://news.ycombinator.com/item?id=33327140"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 06:54:41",
-      "https://news.ycombinator.com/item?id=33327104"
-    ],
-    [
-      "Rust in the Linux Kernel: Just the Beginning",
-      "https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 06:38:21",
-      "https://news.ycombinator.com/item?id=33327014"
-    ],
-    [
-      "Graphviz 7",
-      "https://gitlab.com/graphviz/graphviz/-/tree/main"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Meta Learning Backpropagation and Improving It (2020)",
       "https://arxiv.org/abs/2012.14905"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 13:24:03",
-      "https://news.ycombinator.com/item?id=33287743"
-    ],
-    [
-      "The rebirth of magazines",
-      "https://therebooting.substack.com/p/the-rebirth-of-magazines"
     ]
   ],
   [
