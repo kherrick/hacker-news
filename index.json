@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-10-25, 09:18:54",
+      "https://news.ycombinator.com/item?id=33328147"
+    ],
+    [
+      "Online card payments still suck",
+      "https://fynbos.app/blog/card-payments-still-suck"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 09:18:39",
+      "https://news.ycombinator.com/item?id=33328142"
+    ],
+    [
+      "Emacs User Survey (2022)",
+      "https://emacssurvey.org/"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 08:47:05",
       "https://news.ycombinator.com/item?id=33327896"
     ],
     [
-      "Python 3.11.0 final is now available",
+      "Python 3.11.0 final",
       "https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33327014"
     ],
     [
-      "Graphviz v7",
+      "Graphviz 7",
       "https://gitlab.com/graphviz/graphviz/-/tree/main"
     ]
   ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-10-24, 20:22:13",
-      "https://news.ycombinator.com/item?id=33322143"
-    ],
-    [
-      "My thoughts on the Framework laptop",
-      "https://ruscur.au/framework/"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 19:54:09",
       "https://news.ycombinator.com/item?id=33321695"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2022-10-24, 17:21:09",
-      "https://news.ycombinator.com/item?id=33319535"
-    ],
-    [
-      "Available Today: Windows Dev Kit 2023 a.k.a. Project Volterra",
-      "https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 15:45:06",
       "https://news.ycombinator.com/item?id=33318215"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-10-22, 22:43:09",
-      "https://news.ycombinator.com/item?id=33302896"
+      "2022-10-21, 13:24:03",
+      "https://news.ycombinator.com/item?id=33287743"
     ],
     [
-      "Immortal by Default: A brief history of humans and the ginkgo tree",
-      "https://www.laphamsquarterly.org/roundtable/immortal-default"
+      "The Rebirth of Magazines",
+      "https://therebooting.substack.com/p/the-rebirth-of-magazines"
     ]
   ]
 ]
