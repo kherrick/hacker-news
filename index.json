@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-10-26, 05:32:06",
-      "https://news.ycombinator.com/item?id=33340166"
+      "2022-10-26, 06:45:28",
+      "https://news.ycombinator.com/item?id=33340548"
     ],
     [
-      "Ultorg: A User Interface for Relational Data",
-      "https://www.ultorg.com/"
+      "Show HN: Keyboard Jobs – A job board which truly understands software developers",
+      "https://keyboardjobs.com"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 05:11:29",
+      "https://news.ycombinator.com/item?id=33340066"
+    ],
+    [
+      "Radioactive traces in tree rings reveal Earth’s history of ‘radiation storms’",
+      "https://theconversation.com/radioactive-traces-in-tree-rings-reveal-earths-history-of-unexplained-radiation-storms-193080"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Building software to last forever",
       "https://herman.bearblog.dev/building-software-to-last-forever/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 03:28:49",
+      "https://news.ycombinator.com/item?id=33339480"
+    ],
+    [
+      "Achieving 3-axes of microscopy imaging with just a motor and a linear actuator",
+      "https://athelaseng.substack.com/p/-3d-positioning-with-only-two-motors"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-10-25, 22:58:31",
-      "https://news.ycombinator.com/item?id=33337329"
-    ],
-    [
-      "TabPFN: Transformer Solves Small Tabular Classification in a Second",
-      "https://www.automl.org/tabpfn-a-transformer-that-solves-small-tabular-classification-problems-in-a-second/"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 22:36:01",
       "https://news.ycombinator.com/item?id=33337086"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-10-25, 18:01:16",
-      "https://news.ycombinator.com/item?id=33334062"
-    ],
-    [
-      "Startup engineering hiring anti-patterns (2021)",
-      "https://blog.southparkcommons.com/startup-engineering-hiring-anti-patterns/"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 17:35:28",
       "https://news.ycombinator.com/item?id=33333695"
     ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2022-10-25, 17:27:16",
-      "https://news.ycombinator.com/item?id=33333584"
+      "2022-10-25, 17:11:08",
+      "https://news.ycombinator.com/item?id=33333381"
     ],
     [
-      "Launch HN: Paigo (YC S22) – Measure and bill SaaS customers based on usage",
-      "https://news.ycombinator.com/item?id=33333584"
+      "Edward Stone retires after 50 years as NASA Voyager’s project scientist",
+      "https://www.jpl.nasa.gov/news/edward-stone-retires-after-50-years-as-nasa-voyagers-project-scientist"
     ]
   ],
   [
@@ -241,32 +241,22 @@
   ],
   [
     [
-      "2022-10-25, 16:04:34",
-      "https://news.ycombinator.com/item?id=33332437"
-    ],
-    [
-      "Markov chain Monte Carlo without the bullshit (2015)",
-      "https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 16:00:08",
-      "https://news.ycombinator.com/item?id=33332388"
-    ],
-    [
-      "How to maintain engineering velocity as you scale",
-      "https://www.ycombinator.com/blog/how-to-maintain-engineering-velocity-as-you-scale"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 14:25:15",
       "https://news.ycombinator.com/item?id=33330864"
     ],
     [
       "My dad's resume and skills from 1980",
       "https://github.com/runvnc/dadsresume"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 08:48:11",
+      "https://news.ycombinator.com/item?id=33327905"
+    ],
+    [
+      "The elaborate set-up of a scam HQ, staffed by people forced to scam",
+      "https://www.channelnewsasia.com/cna-insider/inside-elaborate-set-scam-hq-staffed-people-forced-scam-3018966"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Solitude of Alexander Selkirk (2007)",
       "https://www.damninteresting.com/the-solitude-of-alexander-selkirk/"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 20:21:54",
+      "https://news.ycombinator.com/item?id=33292615"
+    ],
+    [
+      "An unidentified illicit drug has been discovered by Australian chemists",
+      "https://theconversation.com/an-entirely-new-illicit-drug-has-been-discovered-by-australian-chemists-heres-how-they-did-it-192855"
     ]
   ]
 ]
