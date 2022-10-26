@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-26, 14:28:47",
+      "https://news.ycombinator.com/item?id=33344260"
+    ],
+    [
+      "Oracle Contributing GraalVM Community Edition Java Code to OpenJDK",
+      "https://www.graalvm.org/2022/openjdk-announcement/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 14:22:17",
+      "https://news.ycombinator.com/item?id=33344142"
+    ],
+    [
+      "Show HN: SadServers, \"Leetcode for Linux\",test your Linux troubleshooting skills",
+      "https://sadservers.com/"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 14:07:39",
       "https://news.ycombinator.com/item?id=33343916"
     ],
@@ -17,6 +37,16 @@
     [
       "The only way of being anonymous in Sweden is illegal",
       "https://commit.pizza/2022/10/16/the-only-way-of-being-anonymous-in-sweden-is-illegal/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 13:48:41",
+      "https://news.ycombinator.com/item?id=33343656"
+    ],
+    [
+      "U.S. mortgage interest rates jump to 7.16%, highest since 2001",
+      "https://www.reuters.com/markets/us/us-mortgage-interest-rates-jump-716-highest-since-2001-2022-10-26/"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2022-10-26, 10:24:54",
-      "https://news.ycombinator.com/item?id=33341802"
-    ],
-    [
-      "Everything Is an X (2020)",
-      "https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 10:00:07",
       "https://news.ycombinator.com/item?id=33341652"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2022-10-26, 06:56:02",
-      "https://news.ycombinator.com/item?id=33340610"
-    ],
-    [
-      "Undecidability (1999)",
-      "https://www.cs.rochester.edu/u/nelson/courses/csc_173/computability/undecidable.html"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 05:11:29",
       "https://news.ycombinator.com/item?id=33340066"
     ],
     [
       "Radioactive traces in tree rings reveal Earth’s history of ‘radiation storms’",
       "https://theconversation.com/radioactive-traces-in-tree-rings-reveal-earths-history-of-unexplained-radiation-storms-193080"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 03:56:25",
-      "https://news.ycombinator.com/item?id=33339634"
-    ],
-    [
-      "Making a change to SQLite source code",
-      "https://brunocalza.me/making-a-change-to-sqlite-source-code/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2022-10-24, 13:52:44",
+      "https://news.ycombinator.com/item?id=33316607"
+    ],
+    [
+      "Cuckoo Hashing and Cuckoo Filters (2018) [pdf]",
+      "https://www.cs.toronto.edu/~noahfleming/CuckooHashing.pdf"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 13:21:54",
       "https://news.ycombinator.com/item?id=33316277"
     ],
@@ -277,16 +287,6 @@
     [
       "Solar Metal Smelter",
       "https://www.notechmagazine.com/2022/10/solar-metal-smelter.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 04:59:57",
-      "https://news.ycombinator.com/item?id=33284689"
-    ],
-    [
-      "What is “engineering for software?”",
-      "https://github.com/readme/guides/engineering-for-software"
     ]
   ],
   [
