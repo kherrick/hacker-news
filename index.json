@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2022-10-26, 20:52:00",
-      "https://news.ycombinator.com/item?id=33349245"
-    ],
-    [
-      "How much does cocaine cost around the world?",
-      "https://www.economist.com/graphic-detail/2022/10/25/how-much-does-cocaine-cost-around-the-world"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 20:46:37",
       "https://news.ycombinator.com/item?id=33349177"
     ],
     [
       "AppleScript: Control Your Mac with an Email",
       "https://support.apple.com/guide/mail/use-scripts-as-rule-actions-mlhlp1171/mac"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 20:28:37",
-      "https://news.ycombinator.com/item?id=33348964"
-    ],
-    [
-      "The United States’ Unamendable Constitution",
-      "https://www.newyorker.com/culture/annals-of-inquiry/the-united-states-unamendable-constitution"
     ]
   ],
   [
@@ -67,16 +47,6 @@
     [
       "Meta Earning Results Q3 2022 [pdf]",
       "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Third-Quarter-2022-Results-2022.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 20:06:07",
-      "https://news.ycombinator.com/item?id=33348661"
-    ],
-    [
-      "Germany Is Dismantling a Wind Farm to Make Way for a Coal Mine",
-      "https://oilprice.com/Latest-Energy-News/World-News/Germany-Is-Dismantling-A-Wind-Farm-To-Make-Way-For-A-Coal-Mine.html"
     ]
   ],
   [
@@ -281,6 +251,16 @@
   ],
   [
     [
+      "2022-10-26, 09:23:22",
+      "https://news.ycombinator.com/item?id=33341424"
+    ],
+    [
+      "DIY gadgets that could keep your energy bill down",
+      "https://www.bbc.com/news/business-62900202"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 08:49:59",
       "https://news.ycombinator.com/item?id=33341263"
     ],
@@ -297,6 +277,26 @@
     [
       "Making AnimationEvent safe for the CoreCLR garbage collector",
       "https://blog.unity.com/technology/making-animationevent-safe-for-the-coreclr-garbage-collector"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 08:21:40",
+      "https://news.ycombinator.com/item?id=33341122"
+    ],
+    [
+      "Ring0VBA – Getting Ring0 Using a Word Document",
+      "https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 10:33:57",
+      "https://news.ycombinator.com/item?id=33314912"
+    ],
+    [
+      "Energy consumption comparison in machine learning platforms",
+      "https://www.neuraldesigner.com/blog/energy-consumption-comparison"
     ]
   ]
 ]
