@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-26, 21:56:07",
+      "https://news.ycombinator.com/item?id=33350105"
+    ],
+    [
+      "Emulator Performance: WebAssembly vs. JavaScript (2021)",
+      "http://8bitworkshop.com/docs/posts/2021/webassembly-vs-javascript-emulator-performance.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 21:39:21",
+      "https://news.ycombinator.com/item?id=33349871"
+    ],
+    [
+      "Vim After 15 Years",
+      "https://blog.langworth.com/vim3"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 20:54:31",
       "https://news.ycombinator.com/item?id=33349296"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33349291"
     ],
     [
-      "Unreal Tournament 99 running on WASM",
+      "Unreal Tournament 99 running on WASM (2017)",
       "https://icculus.org/ut99-emscripten/"
     ]
   ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2022-10-26, 13:30:13",
-      "https://news.ycombinator.com/item?id=33343390"
-    ],
-    [
-      "Dyalog: Escrow",
-      "http://www.dyalog.com/escrow.htm"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 10:29:02",
       "https://news.ycombinator.com/item?id=33341823"
     ],
@@ -257,16 +267,6 @@
     [
       "Time is an illusion, Unix time doubly so",
       "https://www.netmeister.org/blog/epoch.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 09:23:22",
-      "https://news.ycombinator.com/item?id=33341424"
-    ],
-    [
-      "DIY gadgets that could keep your energy bill down",
-      "https://www.bbc.com/news/business-62900202"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-10-26, 08:21:40",
-      "https://news.ycombinator.com/item?id=33341122"
+      "2022-10-25, 10:21:41",
+      "https://news.ycombinator.com/item?id=33328568"
     ],
     [
-      "Ring0VBA – Getting Ring0 Using a Word Document",
-      "https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/"
+      "Best practices in digitizing language data (2006)",
+      "http://emeld.org/school/index.html"
     ]
   ]
 ]
