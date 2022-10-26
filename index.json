@@ -1,12 +1,72 @@
 [
   [
     [
-      "2022-10-25, 23:26:36",
-      "https://news.ycombinator.com/item?id=33337603"
+      "2022-10-26, 02:19:12",
+      "https://news.ycombinator.com/item?id=33338953"
     ],
     [
-      "Ask HN: What software do you miss that no longer runs on modern hardware?",
-      "https://news.ycombinator.com/item?id=33337603"
+      "SpaceX Launches Starlink ‘Flat High-Performance’ Dish for Moving Vehicles",
+      "https://teslanorth.com/2022/10/25/spacex-launches-starlink-flat-high-performance-dish-for-internet-in-moving-vehicles/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 01:15:33",
+      "https://news.ycombinator.com/item?id=33338477"
+    ],
+    [
+      "The Hotel I Booked Online Became a Homeless Shelter and No One Told Me",
+      "https://www.nytimes.com/2022/10/25/travel/tripped-up-hotel-booking.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 00:37:01",
+      "https://news.ycombinator.com/item?id=33338188"
+    ],
+    [
+      "How to request removal of your contact info from Google search results",
+      "https://blog.google/products/search/a-new-search-tool-to-help-control-your-online-presence/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 00:28:16",
+      "https://news.ycombinator.com/item?id=33338124"
+    ],
+    [
+      "Our Conscious Experience of the World Is but a Memory, Says New Theory",
+      "https://singularityhub.com/2022/10/25/could-consciousness-be-a-memory-system-new-theory-says-yes/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 00:16:21",
+      "https://news.ycombinator.com/item?id=33338030"
+    ],
+    [
+      "The irrelevance of test scores is greatly exaggerated",
+      "https://dynomight.net/are-tests-irrelevant/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 00:13:59",
+      "https://news.ycombinator.com/item?id=33338008"
+    ],
+    [
+      "Microsoft FY23 Q1 Earnings",
+      "https://www.microsoft.com/en-us/investor/earnings/FY-2023-Q1/press-release-webcast"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 22:58:31",
+      "https://news.ycombinator.com/item?id=33337329"
+    ],
+    [
+      "TabPFN: Transformer Solves Small Tabular Classification in a Second",
+      "https://www.automl.org/tabpfn-a-transformer-that-solves-small-tabular-classification-problems-in-a-second/"
     ]
   ],
   [
@@ -47,16 +107,6 @@
     [
       "NY Supreme Court reinstates NYC's fired unvaccinated employees, orders backpay",
       "https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&system=prod&TSPD_101_R0=08533cd43fab2000edb19601c775225bb3f6399e467eba468d5199c578db439f849eb7e40f10149908fdb0d7a514480063155165f24217998870310adf4e840d6f2dc7e02b7b4af121d79ec670c4468d9bd049aca6bd09e1e6afd8e75126fd352e140d96c7de44a910dd0fd70c45a64765c0ad37a316ee13"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 21:50:38",
-      "https://news.ycombinator.com/item?id=33336627"
-    ],
-    [
-      "Stable Diffusion to 3D/WebVR, in the cloud, available now",
-      "https://holovolo.tv/?type=aigen"
     ]
   ],
   [
@@ -161,42 +211,12 @@
   ],
   [
     [
-      "2022-10-25, 16:01:44",
-      "https://news.ycombinator.com/item?id=33332411"
-    ],
-    [
-      "A Simple Map for Innovation at Scale",
-      "https://steveblank.com/2022/10/25/a-simple-map-for-innovation-at-scale/"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 16:00:08",
       "https://news.ycombinator.com/item?id=33332388"
     ],
     [
       "How to maintain engineering velocity as you scale",
       "https://www.ycombinator.com/blog/how-to-maintain-engineering-velocity-as-you-scale"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 15:17:20",
-      "https://news.ycombinator.com/item?id=33331731"
-    ],
-    [
-      "The Case of the Missing Fuel: The story of the Stockport air disaster",
-      "https://admiralcloudberg.medium.com/the-case-of-the-missing-fuel-the-story-of-the-stockport-air-disaster-74685ae96cb3"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 15:06:12",
-      "https://news.ycombinator.com/item?id=33331549"
-    ],
-    [
-      "Zig Is Self-Hosted Now, What's Next?",
-      "https://kristoff.it/blog/zig-self-hosted-now-what/"
     ]
   ],
   [
@@ -241,26 +261,6 @@
   ],
   [
     [
-      "2022-10-25, 12:19:41",
-      "https://news.ycombinator.com/item?id=33329509"
-    ],
-    [
-      "From zero to 10M lines of Kotlin",
-      "https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 11:40:43",
-      "https://news.ycombinator.com/item?id=33329184"
-    ],
-    [
-      "Stranger Strings: An exploitable flaw in SQLite",
-      "https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 16:19:42",
       "https://news.ycombinator.com/item?id=33318687"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2022-10-24, 07:07:19",
-      "https://news.ycombinator.com/item?id=33313748"
+      "2022-10-23, 13:10:11",
+      "https://news.ycombinator.com/item?id=33306707"
     ],
     [
-      "The Original Lego Patent (2015)",
-      "https://www.mentalfloss.com/article/66150/original-lego-patent"
+      "How to Become a Good Theoretical Physicist",
+      "https://www.goodtheorist.science/"
     ]
   ],
   [
     [
-      "2022-10-21, 13:09:26",
-      "https://news.ycombinator.com/item?id=33287620"
+      "2022-10-22, 21:44:45",
+      "https://news.ycombinator.com/item?id=33302499"
     ],
     [
-      "Jevko: a minimal general-purpose syntax",
-      "https://djedr.github.io/posts/jevko-2022-02-22.html"
+      "The Solitude of Alexander Selkirk (2007)",
+      "https://www.damninteresting.com/the-solitude-of-alexander-selkirk/"
     ]
   ],
   [
