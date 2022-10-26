@@ -1,12 +1,62 @@
 [
   [
     [
-      "2022-10-26, 10:09:18",
-      "https://news.ycombinator.com/item?id=33341716"
+      "2022-10-26, 10:30:12",
+      "https://news.ycombinator.com/item?id=33341832"
     ],
     [
-      "Ask HN: Is SourceHut down right now?",
-      "https://news.ycombinator.com/item?id=33341716"
+      "Inventing the Sustainable Batteries of the Future",
+      "https://battery2030.eu/research/roadmap/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 10:29:02",
+      "https://news.ycombinator.com/item?id=33341823"
+    ],
+    [
+      "uWebSockets",
+      "https://github.com/uNetworking/uWebSockets"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 10:24:54",
+      "https://news.ycombinator.com/item?id=33341802"
+    ],
+    [
+      "Everything Is an X (2020)",
+      "https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 10:17:19",
+      "https://news.ycombinator.com/item?id=33341766"
+    ],
+    [
+      "Tor Browser – 11.5.5 (Android, Windows, macOS, Linux) Released",
+      "https://blog.torproject.org/new-release-tor-browser-1155/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 10:00:07",
+      "https://news.ycombinator.com/item?id=33341652"
+    ],
+    [
+      "Time is an illusion, Unix time doubly so",
+      "https://www.netmeister.org/blog/epoch.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 09:23:22",
+      "https://news.ycombinator.com/item?id=33341424"
+    ],
+    [
+      "The DIY gadgets that could keep your energy bill down",
+      "https://www.bbc.com/news/business-62900202"
     ]
   ],
   [
@@ -81,16 +131,6 @@
   ],
   [
     [
-      "2022-10-26, 04:47:39",
-      "https://news.ycombinator.com/item?id=33339940"
-    ],
-    [
-      "Recovered: Sega Exclusives on Palm OS (2019)",
-      "https://blog.gingerbeardman.com/2019/04/24/recovered-forgotten-sega-exclusives-on-palm-os/"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 03:56:25",
       "https://news.ycombinator.com/item?id=33339634"
     ],
@@ -131,32 +171,12 @@
   ],
   [
     [
-      "2022-10-26, 03:19:09",
-      "https://news.ycombinator.com/item?id=33339421"
-    ],
-    [
-      "Open source sustainment and the future of Gitea",
-      "https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 01:51:25",
       "https://news.ycombinator.com/item?id=33338739"
     ],
     [
       "Running Intel Binaries in Linux VMs with Rosetta",
       "https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 00:37:01",
-      "https://news.ycombinator.com/item?id=33338188"
-    ],
-    [
-      "How to request removal of your contact info from Google search results",
-      "https://blog.google/products/search/a-new-search-tool-to-help-control-your-online-presence/"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "Show HN: Encrypt and hide files inside images",
       "https://github.com/7thSamurai/steganography"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 21:51:33",
-      "https://news.ycombinator.com/item?id=33336636"
-    ],
-    [
-      "NY Supreme Court reinstates NYC's fired unvaccinated employees, orders backpay",
-      "https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&system=prod&TSPD_101_R0=08533cd43fab2000edb19601c775225bb3f6399e467eba468d5199c578db439f849eb7e40f10149908fdb0d7a514480063155165f24217998870310adf4e840d6f2dc7e02b7b4af121d79ec670c4468d9bd049aca6bd09e1e6afd8e75126fd352e140d96c7de44a910dd0fd70c45a64765c0ad37a316ee13"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 19:20:29",
-      "https://news.ycombinator.com/item?id=33334957"
-    ],
-    [
-      "Employers should prioritize retention over hiring, study suggests",
-      "https://www.hrdive.com/news/employers-may-need-to-prioritize-retention-over-hiring-study-suggests/632540/"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-10-22, 21:44:45",
-      "https://news.ycombinator.com/item?id=33302499"
-    ],
-    [
-      "The Solitude of Alexander Selkirk (2007)",
-      "https://www.damninteresting.com/the-solitude-of-alexander-selkirk/"
-    ]
-  ],
-  [
-    [
       "2022-10-21, 13:38:14",
       "https://news.ycombinator.com/item?id=33287875"
     ],
@@ -297,6 +287,16 @@
     [
       "What Is “Engineering for Software?”",
       "https://github.com/readme/guides/engineering-for-software"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 00:58:21",
+      "https://news.ycombinator.com/item?id=33282865"
+    ],
+    [
+      "Between Two Lisps (2020)",
+      "https://ane.iki.fi/2020/10/05/between-two-lisps.html"
     ]
   ]
 ]
