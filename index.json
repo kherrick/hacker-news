@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-26, 20:10:23",
+      "https://news.ycombinator.com/item?id=33348716"
+    ],
+    [
+      "Lego Is Discontinuing Mindstorms",
+      "https://www.brickfanatics.com/lego-discontinuing-mindstorms-end-of-2022/"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 20:10:07",
       "https://news.ycombinator.com/item?id=33348711"
     ],
@@ -17,6 +27,16 @@
     [
       "Tesla faces U.S. criminal probe over self-driving claims",
       "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 19:38:39",
+      "https://news.ycombinator.com/item?id=33348319"
+    ],
+    [
+      "TCP Connection Repair",
+      "https://lwn.net/Articles/495304/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-10-26, 01:27:36",
-      "https://news.ycombinator.com/item?id=33338558"
-    ],
-    [
-      "Thumb-sized microscope captures images deep inside the brains of active animals",
-      "https://www.nature.com/articles/d41586-022-03395-z"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 10:33:57",
       "https://news.ycombinator.com/item?id=33314912"
     ],
     [
       "Energy consumption comparison in machine learning platforms",
       "https://www.neuraldesigner.com/blog/energy-consumption-comparison"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 00:58:21",
-      "https://news.ycombinator.com/item?id=33282865"
-    ],
-    [
-      "Between Two Lisps (2020)",
-      "https://ane.iki.fi/2020/10/05/between-two-lisps.html"
     ]
   ]
 ]
