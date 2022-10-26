@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-26, 20:54:31",
+      "https://news.ycombinator.com/item?id=33349296"
+    ],
+    [
+      "Video gaming may be associated with better cognitive performance in children",
+      "https://nida.nih.gov/news-events/news-releases/2022/10/video-gaming-may-be-associated-with-better-cognitive-performance-in-children"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 20:54:17",
       "https://news.ycombinator.com/item?id=33349291"
     ],
@@ -17,6 +27,16 @@
     [
       "How much does cocaine cost around the world?",
       "https://www.economist.com/graphic-detail/2022/10/25/how-much-does-cocaine-cost-around-the-world"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 20:46:37",
+      "https://news.ycombinator.com/item?id=33349177"
+    ],
+    [
+      "AppleScript: Control Your Mac with an Email",
+      "https://support.apple.com/guide/mail/use-scripts-as-rule-actions-mlhlp1171/mac"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Making AnimationEvent safe for the CoreCLR garbage collector",
       "https://blog.unity.com/technology/making-animationevent-safe-for-the-coreclr-garbage-collector"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 08:21:40",
-      "https://news.ycombinator.com/item?id=33341122"
-    ],
-    [
-      "Ring0VBA – Getting Ring0 Using a Word Document",
-      "https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 10:33:57",
-      "https://news.ycombinator.com/item?id=33314912"
-    ],
-    [
-      "Energy consumption comparison in machine learning platforms",
-      "https://www.neuraldesigner.com/blog/energy-consumption-comparison"
     ]
   ]
 ]
