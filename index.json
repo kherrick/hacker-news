@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-26, 15:43:13",
+      "https://news.ycombinator.com/item?id=33345421"
+    ],
+    [
+      "Python 3.11 is faster than 3.8",
+      "https://jott.live/markdown/py3.11_vs_3.8"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 15:20:26",
       "https://news.ycombinator.com/item?id=33345067"
     ],
@@ -31,11 +41,21 @@
   ],
   [
     [
+      "2022-10-26, 15:00:25",
+      "https://news.ycombinator.com/item?id=33344734"
+    ],
+    [
+      "Show HN: Villagers – A group travel app",
+      "https://villagersapp.com/"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 14:51:58",
       "https://news.ycombinator.com/item?id=33344573"
     ],
     [
-      "Welcome to InfluxDB IOx: InfluxData’s New Storage Engine",
+      "IOx: InfluxData’s New Storage Engine",
       "https://www.influxdata.com/blog/influxdb-engine/"
     ]
   ],
@@ -46,7 +66,7 @@
     ],
     [
       "Pixar almost deleted Toy Story 2 (2012)",
-      "https://kottke.org/12/05/how-pixar-almost-deleted-toy-story-2"
+      "https://thenextweb.com/news/how-pixars-toy-story-2-was-deleted-twice-once-by-technology-and-again-for-its-own-good"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33344426"
     ],
     [
-      "I Fell 15,000 Feet and Lived",
+      "I Fell 15,000 Feet and Lived (2009)",
       "https://uss-la-ca135.org/60/1960Judkins-Knott.html"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33344142"
     ],
     [
-      "Show HN: SadServers, \"Leetcode for Linux\",test your Linux troubleshooting skills",
+      "Show HN: SadServers – Test your Linux troubleshooting skills",
       "https://sadservers.com/"
     ]
   ],
@@ -115,18 +135,8 @@
       "https://news.ycombinator.com/item?id=33343681"
     ],
     [
-      "The only way of being anonymous in Sweden is illegal",
+      "The only way of being anonymous in Sweden is illegal?",
       "https://commit.pizza/2022/10/16/the-only-way-of-being-anonymous-in-sweden-is-illegal/"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 13:45:26",
-      "https://news.ycombinator.com/item?id=33343603"
-    ],
-    [
-      "Ask HN: Do people not have hobbies anymore?",
-      "https://news.ycombinator.com/item?id=33343603"
     ]
   ],
   [
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2022-10-26, 09:23:22",
+      "https://news.ycombinator.com/item?id=33341424"
+    ],
+    [
+      "DIY gadgets that could keep your energy bill down",
+      "https://www.bbc.com/news/business-62900202"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 08:49:59",
       "https://news.ycombinator.com/item?id=33341263"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2022-10-25, 17:11:08",
-      "https://news.ycombinator.com/item?id=33333381"
-    ],
-    [
-      "Edward Stone retires after 50 years as NASA Voyager’s project scientist",
-      "https://www.jpl.nasa.gov/news/edward-stone-retires-after-50-years-as-nasa-voyagers-project-scientist"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 08:48:11",
       "https://news.ycombinator.com/item?id=33327905"
     ],
     [
       "The elaborate set-up of a scam HQ, staffed by people forced to scam",
       "https://www.channelnewsasia.com/cna-insider/inside-elaborate-set-scam-hq-staffed-people-forced-scam-3018966"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 13:21:54",
-      "https://news.ycombinator.com/item?id=33316277"
-    ],
-    [
-      "Modeling and Analyzing Lambda vs. Fargate Breakeven",
-      "https://nuvalence.io/insights/modeling-analyzing-lambda-vs-fargate-breakeven/"
     ]
   ],
   [
