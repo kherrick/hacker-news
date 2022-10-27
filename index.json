@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2022-10-26, 22:26:16",
-      "https://news.ycombinator.com/item?id=33350437"
-    ],
-    [
-      "Galactic settlement of low-mass stars as a resolution to the Fermi paradox",
-      "https://arxiv.org/abs/2210.10656"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 21:39:21",
       "https://news.ycombinator.com/item?id=33349871"
     ],
@@ -221,6 +211,26 @@
   ],
   [
     [
+      "2022-10-26, 14:51:58",
+      "https://news.ycombinator.com/item?id=33344573"
+    ],
+    [
+      "IOx: InfluxData’s New Storage Engine",
+      "https://www.influxdata.com/blog/influxdb-engine/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 14:47:37",
+      "https://news.ycombinator.com/item?id=33344516"
+    ],
+    [
+      "Pixar almost deleted Toy Story 2 (2012)",
+      "https://thenextweb.com/news/how-pixars-toy-story-2-was-deleted-twice-once-by-technology-and-again-for-its-own-good"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 14:41:06",
       "https://news.ycombinator.com/item?id=33344426"
     ],
@@ -267,16 +277,6 @@
     [
       "No Safe Efficient Ways to Do Three-Way String Comparisons in Go",
       "https://go101.org/blog/2022-10-01-three-way-string-comparison.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 11:33:05",
-      "https://news.ycombinator.com/item?id=33315368"
-    ],
-    [
-      "DYOL: Design Your Own Language",
-      "https://slebok.github.io/dyol/books/index.html"
     ]
   ],
   [
