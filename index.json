@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-27, 02:45:06",
+      "https://news.ycombinator.com/item?id=33352440"
+    ],
+    [
+      "We Switched from Python to Go (2017)",
+      "https://getstream.io/blog/switched-python-go/"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 01:19:06",
+      "https://news.ycombinator.com/item?id=33351805"
+    ],
+    [
+      "Napa.js: A multi-threaded JavaScript runtime",
+      "https://github.com/microsoft/napajs"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 00:54:55",
       "https://news.ycombinator.com/item?id=33351647"
     ],
     [
       "An ode to that “coffee friend”",
       "https://tiramisu.bearblog.dev/coffee-gift/"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 00:53:25",
+      "https://news.ycombinator.com/item?id=33351636"
+    ],
+    [
+      "My Cloud Storage Crisis",
+      "https://tiramisu.bearblog.dev/google-photos/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "Galactic settlement of low-mass stars as a resolution to the Fermi paradox",
       "https://arxiv.org/abs/2210.10656"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 21:56:07",
-      "https://news.ycombinator.com/item?id=33350105"
-    ],
-    [
-      "Emulator Performance: WebAssembly vs. JavaScript (2021)",
-      "http://8bitworkshop.com/docs/posts/2021/webassembly-vs-javascript-emulator-performance.html"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Lego Is Discontinuing Mindstorms",
       "https://www.brickfanatics.com/lego-discontinuing-mindstorms-end-of-2022/"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 20:10:07",
-      "https://news.ycombinator.com/item?id=33348711"
-    ],
-    [
-      "Meta Earning Results Q3 2022 [pdf]",
-      "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Third-Quarter-2022-Results-2022.pdf"
     ]
   ],
   [
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2022-10-26, 14:51:58",
-      "https://news.ycombinator.com/item?id=33344573"
-    ],
-    [
-      "IOx: InfluxData’s New Storage Engine",
-      "https://www.influxdata.com/blog/influxdb-engine/"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 14:47:37",
-      "https://news.ycombinator.com/item?id=33344516"
-    ],
-    [
-      "Pixar almost deleted Toy Story 2 (2012)",
-      "https://thenextweb.com/news/how-pixars-toy-story-2-was-deleted-twice-once-by-technology-and-again-for-its-own-good"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 14:41:06",
       "https://news.ycombinator.com/item?id=33344426"
     ],
@@ -297,6 +287,16 @@
     [
       "All About E: A Language That Infiltrated JavaScript",
       "https://thenewstack.io/all-about-e-the-language-that-infiltrated-javascript/"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 10:57:53",
+      "https://news.ycombinator.com/item?id=33286697"
+    ],
+    [
+      "Engineers should do customer support and success",
+      "https://notoriousplg.substack.com/p/nplg-102022-engineering-customer"
     ]
   ]
 ]
