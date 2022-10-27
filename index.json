@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-10-27, 00:54:55",
+      "https://news.ycombinator.com/item?id=33351647"
+    ],
+    [
+      "An ode to that “coffee friend”",
+      "https://tiramisu.bearblog.dev/coffee-gift/"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 00:45:21",
+      "https://news.ycombinator.com/item?id=33351585"
+    ],
+    [
+      "Show HN: I solved my New Tab page",
+      "https://startertab.com/"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 23:59:47",
       "https://news.ycombinator.com/item?id=33351290"
     ],
     [
-      "MIT campus is planning on mostly remaining permanently closed to the public",
+      "Most buildings at MIT campus are remaining closed to the public",
       "https://twitter.com/jack_b_reid/status/1556735206547066880"
     ]
   ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-10-26, 19:08:42",
-      "https://news.ycombinator.com/item?id=33347967"
-    ],
-    [
-      "Spreading deadly pathogens under the disguise of popular music",
-      "https://arxiv.org/abs/2210.03688"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 18:12:59",
       "https://news.ycombinator.com/item?id=33347345"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-10-26, 14:44:49",
-      "https://news.ycombinator.com/item?id=33344472"
-    ],
-    [
-      "Metaballs (2017)",
-      "https://varun.ca/metaballs/"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 14:41:06",
       "https://news.ycombinator.com/item?id=33344426"
     ],
@@ -247,26 +247,6 @@
     [
       "Show HN: SadServers – Test your Linux troubleshooting skills",
       "https://sadservers.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 10:00:07",
-      "https://news.ycombinator.com/item?id=33341652"
-    ],
-    [
-      "Time is an illusion, Unix time doubly so",
-      "https://www.netmeister.org/blog/epoch.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 08:40:24",
-      "https://news.ycombinator.com/item?id=33341222"
-    ],
-    [
-      "Making AnimationEvent safe for the CoreCLR garbage collector",
-      "https://blog.unity.com/technology/making-animationevent-safe-for-the-coreclr-garbage-collector"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "No Safe Efficient Ways to Do Three-Way String Comparisons in Go",
       "https://go101.org/blog/2022-10-01-three-way-string-comparison.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 11:33:05",
+      "https://news.ycombinator.com/item?id=33315368"
+    ],
+    [
+      "DYOL: Design Your Own Language",
+      "https://slebok.github.io/dyol/books/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 04:16:03",
+      "https://news.ycombinator.com/item?id=33312879"
+    ],
+    [
+      "All About E: A Language That Infiltrated JavaScript",
+      "https://thenewstack.io/all-about-e-the-language-that-infiltrated-javascript/"
     ]
   ]
 ]
