@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-26, 23:59:47",
+      "https://news.ycombinator.com/item?id=33351290"
+    ],
+    [
+      "MIT campus is planning on mostly remaining permanently closed to the public",
+      "https://twitter.com/jack_b_reid/status/1556735206547066880"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 22:26:16",
+      "https://news.ycombinator.com/item?id=33350437"
+    ],
+    [
+      "Galactic settlement of low-mass stars as a resolution to the Fermi paradox",
+      "https://arxiv.org/abs/2210.10656"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 21:56:07",
       "https://news.ycombinator.com/item?id=33350105"
     ],
@@ -41,12 +61,12 @@
   ],
   [
     [
-      "2022-10-26, 20:46:37",
-      "https://news.ycombinator.com/item?id=33349177"
+      "2022-10-26, 20:28:37",
+      "https://news.ycombinator.com/item?id=33348964"
     ],
     [
-      "AppleScript: Control Your Mac with an Email",
-      "https://support.apple.com/guide/mail/use-scripts-as-rule-actions-mlhlp1171/mac"
+      "The United States’ Unamendable Constitution",
+      "https://www.newyorker.com/culture/annals-of-inquiry/the-united-states-unamendable-constitution"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-10-26, 15:43:13",
-      "https://news.ycombinator.com/item?id=33345421"
-    ],
-    [
-      "Python 3.11 is faster than 3.8",
-      "https://jott.live/markdown/py3.11_vs_3.8"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 15:19:17",
       "https://news.ycombinator.com/item?id=33345040"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-10-26, 14:36:28",
-      "https://news.ycombinator.com/item?id=33344372"
-    ],
-    [
-      "Rooftop wind energy innovation claims 50% more energy than solar at same cost",
-      "https://www.pv-magazine.com/2022/10/17/rooftop-wind-energy-innovation-claims-50-more-energy-than-solar-at-same-cost/"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 14:22:17",
       "https://news.ycombinator.com/item?id=33344142"
     ],
@@ -251,32 +251,12 @@
   ],
   [
     [
-      "2022-10-26, 10:29:02",
-      "https://news.ycombinator.com/item?id=33341823"
-    ],
-    [
-      "uWebSockets",
-      "https://github.com/uNetworking/uWebSockets"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 10:00:07",
       "https://news.ycombinator.com/item?id=33341652"
     ],
     [
       "Time is an illusion, Unix time doubly so",
       "https://www.netmeister.org/blog/epoch.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 08:49:59",
-      "https://news.ycombinator.com/item?id=33341263"
-    ],
-    [
-      "Most people don’t finish online job applications",
-      "https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/most-people-never-finish-online-job-applications.aspx"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Elites tried to monopolize hunting",
       "https://thereader.mitpress.mit.edu/when-elites-tried-to-monopolize-hunting/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 14:18:54",
+      "https://news.ycombinator.com/item?id=33316941"
+    ],
+    [
+      "Australia's Weird Little Time Zone",
+      "https://www.howderfamily.com/blog/australias-weird-little-time-zone/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 13:34:30",
+      "https://news.ycombinator.com/item?id=33316402"
+    ],
+    [
+      "No Safe Efficient Ways to Do Three-Way String Comparisons in Go",
+      "https://go101.org/blog/2022-10-01-three-way-string-comparison.html"
     ]
   ]
 ]
