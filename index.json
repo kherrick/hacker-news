@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-10-27, 16:19:35",
+      "https://news.ycombinator.com/item?id=33359870"
+    ],
+    [
+      "Launch HN: MovingLake (YC S22) – Real-time data Connectors for almost anything",
+      "https://app.movinglake.com"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 15:48:20",
+      "https://news.ycombinator.com/item?id=33359373"
+    ],
+    [
+      "How to backup Firebase realtime database when the payload is too large (256MB)",
+      "https://BigBalli.com/blog/how-to-backup-firebase-realtime-database"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 15:45:41",
+      "https://news.ycombinator.com/item?id=33359329"
+    ],
+    [
+      "Ask HN: How do you maintain your daily log?",
+      "https://news.ycombinator.com/item?id=33359329"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 15:40:56",
+      "https://news.ycombinator.com/item?id=33359258"
+    ],
+    [
+      "300 meters resolution SF Bay Area Forecast",
+      "https://sf.atmo.ai"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 15:39:43",
       "https://news.ycombinator.com/item?id=33359240"
     ],
     [
       "The Rise of Biodigital Surveillance",
       "https://compactmag.com/article/the-rise-of-biodigital-surveillance"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 15:38:47",
+      "https://news.ycombinator.com/item?id=33359231"
+    ],
+    [
+      "US economy returned to growth last quarter, expanding 2.6%",
+      "https://apnews.com/article/inflation-europe-business-economy-gross-domestic-product-e1a95c0c9e7b046ed88ad2e9e3150dce"
     ]
   ],
   [
@@ -21,6 +71,16 @@
   ],
   [
     [
+      "2022-10-27, 15:34:52",
+      "https://news.ycombinator.com/item?id=33359161"
+    ],
+    [
+      "Europe now has so much natural gas that prices just dipped below zero",
+      "https://lite.cnn.com/en/article/h_84f44a3d4dc64a2e2686175e76059fd3"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 15:34:39",
       "https://news.ycombinator.com/item?id=33359159"
     ],
@@ -31,22 +91,12 @@
   ],
   [
     [
-      "2022-10-27, 15:34:25",
-      "https://news.ycombinator.com/item?id=33359154"
+      "2022-10-27, 15:31:13",
+      "https://news.ycombinator.com/item?id=33359090"
     ],
     [
-      "Is “Sex” Socially Constructed?",
-      "https://whyevolutionistrue.com/2022/10/26/is-sex-socially-constructed/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 15:33:03",
-      "https://news.ycombinator.com/item?id=33359126"
-    ],
-    [
-      "Show HN: I made a crowdsourced hourly rate dataset for freelancers/contractors",
-      "https://www.contractrates.fyi"
+      "Audiobooks on Spotify: Here's the full story",
+      "https://timetoplayfair.com/audiobooks/"
     ]
   ],
   [
@@ -55,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33358853"
     ],
     [
-      "Only Intrinsic Motivation Lasts",
+      "Only Intrinsic Motivation Lasts (2019)",
       "https://dvassallo.medium.com/only-intrinsic-motivation-lasts-92c0497cf97c"
     ]
   ],
@@ -81,21 +131,11 @@
   ],
   [
     [
-      "2022-10-27, 14:48:10",
-      "https://news.ycombinator.com/item?id=33358353"
-    ],
-    [
-      "Apple Says iPhones Will Switch over to USB-C Chargers to Comply with New EU Law",
-      "https://www.forbes.com/sites/siladityaray/2022/10/26/weve-no-choice-apple-says-iphones-will-switch-over-to-usb-c-chargers-to-comply-with-new-eu-law/"
-    ]
-  ],
-  [
-    [
       "2022-10-27, 14:27:09",
       "https://news.ycombinator.com/item?id=33357956"
     ],
     [
-      "VHS: Your CLI home video recorder",
+      "VHS: CLI home video recorder",
       "https://github.com/charmbracelet/vhs"
     ]
   ],
@@ -125,7 +165,7 @@
       "https://news.ycombinator.com/item?id=33357318"
     ],
     [
-      "Modern PHP features explained – PHP 8.0 and 8.1",
+      "Modern PHP features – PHP 8.0 and 8.1",
       "https://laravel-news.com/modern-php-features-explained"
     ]
   ],
@@ -157,16 +197,6 @@
     [
       "Ad blocking is under attack (2017)",
       "https://adguard.com/en/blog/ad-blocking-is-under-attack.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 12:20:27",
-      "https://news.ycombinator.com/item?id=33356450"
-    ],
-    [
-      "UN says “No credible pathway” and “woefully inadequate” to stop global 1.5C",
-      "https://www.bbc.co.uk/news/science-environment-63407459"
     ]
   ],
   [
@@ -221,31 +251,11 @@
   ],
   [
     [
-      "2022-10-27, 00:45:21",
-      "https://news.ycombinator.com/item?id=33351585"
-    ],
-    [
-      "Show HN: I solved my New Tab page",
-      "https://startertab.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 11:43:35",
-      "https://news.ycombinator.com/item?id=33329207"
-    ],
-    [
-      "Column Vectors vs. Row Vectors",
-      "http://steve.hollasch.net/cgindex/math/matrix/column-vec.html"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 06:08:19",
       "https://news.ycombinator.com/item?id=33326846"
     ],
     [
-      "Ssss: Shamir's Secret Sharing Scheme",
+      "Ssss: Shamir's Secret Sharing Scheme (2006)",
       "http://point-at-infinity.org/ssss/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "A Theory of Collision Spaces: Where Belief Systems Collide and Diverge (2021)",
       "https://generativist.falsifiable.com/metaverse/collision-space-theory"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 13:10:05",
-      "https://news.ycombinator.com/item?id=33287625"
-    ],
-    [
-      "Designing a Programming Language: I",
-      "http://ducklang.org/designing-a-programming-language-i"
     ]
   ]
 ]
