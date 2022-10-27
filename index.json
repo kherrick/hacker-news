@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-10-27, 13:43:17",
-      "https://news.ycombinator.com/item?id=33357369"
+      "2022-10-27, 14:08:53",
+      "https://news.ycombinator.com/item?id=33357661"
     ],
     [
-      "A Nuclear Meltdown at the New York Times",
-      "https://issuesinsights.com/2022/10/27/a-nuclear-meltdown-at-the-new-york-times/"
+      "Exxon’s Exodus: Employees Have Finally Had Enough of Its Toxic Culture",
+      "https://www.bloomberg.com/news/features/2022-10-13/exxon-xom-jobs-exodus-brings-scrutiny-to-corporate-culture"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 13:40:09",
+      "https://news.ycombinator.com/item?id=33357318"
+    ],
+    [
+      "Modern PHP features explained – PHP 8.0 and 8.1",
+      "https://laravel-news.com/modern-php-features-explained"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 13:38:13",
+      "https://news.ycombinator.com/item?id=33357289"
+    ],
+    [
+      "Meta stock sinks more than 23%",
+      "https://www.google.com/finance/quote/META:NASDAQ"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 13:31:25",
+      "https://news.ycombinator.com/item?id=33357197"
+    ],
+    [
+      "Show HN: I 3D scanned the interior of the Great Pyramid at Giza (Khufu)",
+      "https://giza.mused.org/en/guided/266/inside-the-great-pyramid"
     ]
   ],
   [
@@ -17,16 +47,6 @@
     [
       "QuestDB Is Hiring a Core Database Engineer (Low Latency Java and C++)",
       "https://questdb.io/careers/core-database-engineer/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 12:52:34",
-      "https://news.ycombinator.com/item?id=33356734"
-    ],
-    [
-      "Google Timer is gone (again)",
-      "https://www.google.com/search?q=3+minute+timer"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Napa.js: A multi-threaded JavaScript runtime",
       "https://github.com/microsoft/napajs"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 00:54:55",
-      "https://news.ycombinator.com/item?id=33351647"
-    ],
-    [
-      "An ode to that “coffee friend”",
-      "https://tiramisu.bearblog.dev/coffee-gift/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-10-24, 13:34:30",
-      "https://news.ycombinator.com/item?id=33316402"
-    ],
-    [
-      "No safe efficient ways to do three-way string comparisons in Go",
-      "https://go101.org/blog/2022-10-01-three-way-string-comparison.html"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 10:41:29",
       "https://news.ycombinator.com/item?id=33314960"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-10-23, 15:46:11",
+      "https://news.ycombinator.com/item?id=33307812"
+    ],
+    [
+      "A Theory of Collision Spaces: Where Belief Systems Collide and Diverge (2021)",
+      "https://generativist.falsifiable.com/metaverse/collision-space-theory"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 05:00:03",
       "https://news.ycombinator.com/item?id=33304681"
     ],
@@ -287,16 +297,6 @@
     [
       "Designing a Programming Language: I",
       "https://ducklang.org/designing-a-programming-language-i"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 10:57:53",
-      "https://news.ycombinator.com/item?id=33286697"
-    ],
-    [
-      "Engineers should do customer support and success",
-      "https://notoriousplg.substack.com/p/nplg-102022-engineering-customer"
     ]
   ]
 ]
