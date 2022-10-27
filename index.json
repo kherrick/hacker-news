@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33363770"
     ],
     [
-      "We’re Dropping Google Ads",
+      "We’re Dropping Google Ads (2017)",
       "https://www.groundup.org.za/article/why-were-dropping-google-ads/"
     ]
   ],
@@ -37,6 +37,16 @@
     [
       "Apple Q4/2022",
       "https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 20:28:47",
+      "https://news.ycombinator.com/item?id=33363572"
+    ],
+    [
+      "Microsoft is phoning home the content of your PowerPoint slides",
+      "https://rogermexico.bearblog.dev/microsoft-is-phoning-home-the-content-of-your-powerpoint-slides/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Towards the next generation of XNU memory safety: kalloc_type",
       "https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 18:48:18",
-      "https://news.ycombinator.com/item?id=33362170"
-    ],
-    [
-      "One-Time Programs",
-      "https://blog.cryptographyengineering.com/2022/10/27/one-time-programs/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-10-27, 15:39:43",
-      "https://news.ycombinator.com/item?id=33359240"
-    ],
-    [
-      "The rise of biodigital surveillance",
-      "https://compactmag.com/article/the-rise-of-biodigital-surveillance"
-    ]
-  ],
-  [
-    [
       "2022-10-27, 15:37:48",
       "https://news.ycombinator.com/item?id=33359211"
     ],
@@ -287,6 +277,16 @@
     [
       "Shell Script Best Practices, from a decade of scripting things",
       "https://sharats.me/posts/shell-script-best-practices/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 04:47:57",
+      "https://news.ycombinator.com/item?id=33326360"
+    ],
+    [
+      "Bit Twiddling Hacks (2005)",
+      "https://graphics.stanford.edu/~seander/bithacks.html"
     ]
   ],
   [
