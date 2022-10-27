@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-10-27, 01:20:25",
+      "https://news.ycombinator.com/item?id=33351819"
+    ],
+    [
+      "How to speed up the Rust compiler in October 2022",
+      "https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 01:19:06",
       "https://news.ycombinator.com/item?id=33351805"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-10-26, 14:51:58",
-      "https://news.ycombinator.com/item?id=33344573"
-    ],
-    [
-      "IOx: InfluxData’s New Storage Engine",
-      "https://www.influxdata.com/blog/influxdb-engine/"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 14:41:06",
       "https://news.ycombinator.com/item?id=33344426"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2022-10-25, 11:43:35",
+      "https://news.ycombinator.com/item?id=33329207"
+    ],
+    [
+      "Column Vectors vs. Row Vectors",
+      "http://steve.hollasch.net/cgindex/math/matrix/column-vec.html"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 14:18:54",
       "https://news.ycombinator.com/item?id=33316941"
     ],
@@ -267,16 +277,6 @@
     [
       "No Safe Efficient Ways to Do Three-Way String Comparisons in Go",
       "https://go101.org/blog/2022-10-01-three-way-string-comparison.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 10:01:31",
-      "https://news.ycombinator.com/item?id=33314682"
-    ],
-    [
-      "On Management and the Maginot Line",
-      "http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s12.html"
     ]
   ],
   [
