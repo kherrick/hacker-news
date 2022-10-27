@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-27, 07:18:25",
+      "https://news.ycombinator.com/item?id=33354286"
+    ],
+    [
+      "Shell Script Best Practices, from a decade of scripting things",
+      "https://sharats.me/posts/shell-script-best-practices/"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 07:05:37",
       "https://news.ycombinator.com/item?id=33354199"
     ],
@@ -47,16 +57,6 @@
     [
       "Signal says it won’t compromise on encryption",
       "https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 01:20:25",
-      "https://news.ycombinator.com/item?id=33351819"
-    ],
-    [
-      "How to speed up the Rust compiler in October 2022",
-      "https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2022-10-26, 16:20:46",
-      "https://news.ycombinator.com/item?id=33345954"
+      "2022-10-26, 15:19:17",
+      "https://news.ycombinator.com/item?id=33345040"
     ],
     [
-      "The currency of the new economy won't be money, but attention (1997)",
-      "https://www.wired.com/1997/12/es-attention/"
+      "Disabling the Intel Management Engine",
+      "https://wiki.gentoo.org/wiki/User:Sakaki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=33316941"
     ],
     [
-      "Australia's weird little time zone",
+      "Australia's weird little time zone (2008)",
       "https://www.howderfamily.com/blog/australias-weird-little-time-zone/"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33316402"
     ],
     [
-      "No Safe Efficient Ways to Do Three-Way String Comparisons in Go",
+      "No safe efficient ways to do three-way string comparisons in Go",
       "https://go101.org/blog/2022-10-01-three-way-string-comparison.html"
     ]
   ],
