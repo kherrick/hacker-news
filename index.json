@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-27, 14:27:09",
+      "https://news.ycombinator.com/item?id=33357956"
+    ],
+    [
+      "VHS: Your CLI home video recorder",
+      "https://github.com/charmbracelet/vhs"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 14:08:53",
       "https://news.ycombinator.com/item?id=33357661"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33357289"
     ],
     [
-      "Meta stock sinks more than 23%",
+      "Meta stock price drops more than 20%",
       "https://www.google.com/finance/quote/META:NASDAQ"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33357197"
     ],
     [
-      "Show HN: I 3D scanned the interior of the Great Pyramid at Giza (Khufu)",
+      "Show HN: I 3D scanned the interior of the Great Pyramid at Giza",
       "https://giza.mused.org/en/guided/266/inside-the-great-pyramid"
     ]
   ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-10-26, 16:39:01",
-      "https://news.ycombinator.com/item?id=33346183"
-    ],
-    [
-      "Launch HN: Idemeum (YC S21) – Passwordless access to apps and infrastructure",
-      "https://news.ycombinator.com/item?id=33346183"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 08:04:27",
       "https://news.ycombinator.com/item?id=33341029"
     ],
@@ -296,7 +296,7 @@
     ],
     [
       "Designing a Programming Language: I",
-      "https://ducklang.org/designing-a-programming-language-i"
+      "http://ducklang.org/designing-a-programming-language-i"
     ]
   ]
 ]
