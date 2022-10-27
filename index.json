@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-27, 17:17:51",
+      "https://news.ycombinator.com/item?id=33360830"
+    ],
+    [
+      "How to Write a Bootloader from Scratch",
+      "https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 17:13:44",
+      "https://news.ycombinator.com/item?id=33360776"
+    ],
+    [
+      "Making an SSH client the hard way",
+      "https://tailscale.com/blog/ssh-console/"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 17:00:08",
       "https://news.ycombinator.com/item?id=33360572"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-10-27, 15:31:13",
-      "https://news.ycombinator.com/item?id=33359090"
-    ],
-    [
-      "Audiobooks on Spotify: Here's the full story",
-      "https://timetoplayfair.com/audiobooks/"
-    ]
-  ],
-  [
-    [
       "2022-10-27, 15:17:56",
       "https://news.ycombinator.com/item?id=33358853"
     ],
@@ -237,16 +247,6 @@
     [
       "Shell Script Best Practices, from a decade of scripting things",
       "https://sharats.me/posts/shell-script-best-practices/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 06:00:14",
-      "https://news.ycombinator.com/item?id=33353719"
-    ],
-    [
-      "Multiranges in Postgres",
-      "https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/"
     ]
   ],
   [
