@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-10-28, 11:17:43",
+      "https://news.ycombinator.com/item?id=33369948"
+    ],
+    [
+      "What Happened to Hu Jintao?",
+      "https://www.nytimes.com/interactive/2022/10/27/world/asia/hu-jintao-congress-videos.html"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 11:17:39",
       "https://news.ycombinator.com/item?id=33369947"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2022-10-28, 11:06:08",
+      "https://news.ycombinator.com/item?id=33369860"
+    ],
+    [
+      "Common Lisp Clasp v2.0.0 released",
+      "https://github.com/clasp-developers/clasp/releases/tag/2.0.0"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 10:39:58",
       "https://news.ycombinator.com/item?id=33369719"
     ],
@@ -77,6 +97,16 @@
     [
       "Redditor acquires decommissioned Netflix cache server with 262TB of storage",
       "https://arstechnica.com/information-technology/2022/10/redditor-acquires-decommissioned-netflix-cache-server-with-262tb-of-storage/"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 07:21:00",
+      "https://news.ycombinator.com/item?id=33368579"
+    ],
+    [
+      "Why Is Markdown Popular?",
+      "https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html"
     ]
   ],
   [
@@ -131,62 +161,12 @@
   ],
   [
     [
-      "2022-10-27, 20:09:51",
-      "https://news.ycombinator.com/item?id=33363333"
-    ],
-    [
-      "Apple security bounty upgraded",
-      "https://security.apple.com/blog/apple-security-bounty-upgraded/"
-    ]
-  ],
-  [
-    [
       "2022-10-27, 20:09:45",
       "https://news.ycombinator.com/item?id=33363331"
     ],
     [
       "Pokemon Card Animation",
       "https://deck-24abcd.netlify.app/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 19:11:11",
-      "https://news.ycombinator.com/item?id=33362520"
-    ],
-    [
-      "Extracting Zooming Shots from 600 Hrs of Police Helicopter Surveillance Footage",
-      "https://lav.io/notes/the-zooms/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 18:57:52",
-      "https://news.ycombinator.com/item?id=33362311"
-    ],
-    [
-      "Towards the next generation of XNU memory safety: kalloc_type",
-      "https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 17:17:51",
-      "https://news.ycombinator.com/item?id=33360830"
-    ],
-    [
-      "How to write a bootloader from scratch (2019)",
-      "https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 17:13:44",
-      "https://news.ycombinator.com/item?id=33360776"
-    ],
-    [
-      "Making an SSH client the hard way",
-      "https://tailscale.com/blog/ssh-console/"
     ]
   ],
   [
@@ -251,12 +231,42 @@
   ],
   [
     [
+      "2022-10-26, 08:33:59",
+      "https://news.ycombinator.com/item?id=33341187"
+    ],
+    [
+      "Group decision making in honey bee swarms (2006)",
+      "https://www.americanscientist.org/article/group-decision-making-in-honey-bee-swarms"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 15:15:10",
       "https://news.ycombinator.com/item?id=33331697"
     ],
     [
       "What Is Code? (2015)",
       "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 11:22:25",
+      "https://news.ycombinator.com/item?id=33329041"
+    ],
+    [
+      "How We Designed and Implemented Graph Projection Feature",
+      "https://memgraph.com/blog/how-we-designed-and-implemented-graph-projection-feature"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 10:38:03",
+      "https://news.ycombinator.com/item?id=33328693"
+    ],
+    [
+      "The changing fortunes of Japanese camera manufacturers",
+      "https://petapixel.com/2022/10/24/the-changing-fortunes-of-japanese-camera-manufacturers/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The RISC Deprogrammer",
       "https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 04:47:57",
-      "https://news.ycombinator.com/item?id=33326360"
-    ],
-    [
-      "Bit Twiddling Hacks (2005)",
-      "https://graphics.stanford.edu/~seander/bithacks.html"
     ]
   ],
   [
