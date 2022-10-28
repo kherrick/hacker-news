@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2022-10-28, 16:54:06",
+      "https://news.ycombinator.com/item?id=33374025"
+    ],
+    [
+      "smolnes: A NES emulator in less than 5000 significant bytes of C++",
+      "https://github.com/binji/smolnes"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 16:34:50",
       "https://news.ycombinator.com/item?id=33373729"
     ],
@@ -257,16 +267,6 @@
     [
       "Bumble bees play, according to new research",
       "https://phys.org/news/2022-10-first-ever-bumble-bees.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 08:32:56",
-      "https://news.ycombinator.com/item?id=33368991"
-    ],
-    [
-      "Bringing a dynamic environment to C: My linker project",
-      "https://macoy.me/blog/programming/LinkerLoaderIntro"
     ]
   ],
   [
