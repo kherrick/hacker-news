@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-10-28, 23:08:49",
-      "https://news.ycombinator.com/item?id=33379149"
-    ],
-    [
-      "Treasury Sold $3.4B in I Bonds This Week as Investors Rushed to Get 9.62% Rate",
-      "https://www.wsj.com/articles/i-bond-treasury-interest-rate-deadline-11666912002"
-    ]
-  ],
-  [
-    [
       "2022-10-28, 21:33:20",
       "https://news.ycombinator.com/item?id=33378194"
     ],
@@ -51,21 +41,11 @@
   ],
   [
     [
-      "2022-10-28, 20:26:33",
-      "https://news.ycombinator.com/item?id=33377421"
-    ],
-    [
-      "Every day, I commit a new and more complicated version of some simple code",
-      "https://github.com/Yetiowner/Increasing-code-complexity"
-    ]
-  ],
-  [
-    [
       "2022-10-28, 20:17:48",
       "https://news.ycombinator.com/item?id=33377277"
     ],
     [
-      "Ancient Maya city – Lidar technology unearthed tropical megapolis [at] Calakmul",
+      "Lidar reveals urbanization and landscape modifications at ancient Maya city",
       "https://ucalgary.ca/news/ucalgary-research-collaboration-reveals-new-urbanization-and-landscape-modifications-ancient-maya"
     ]
   ],
@@ -75,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33377151"
     ],
     [
-      "Nanowire Synapses 30,000x Faster Than Nature’s",
+      "Nanowire synapses 30,000x faster than nature’s",
       "https://spectrum.ieee.org/neuromorphic-computing-superconducting-synapse"
     ]
   ],
@@ -87,16 +67,6 @@
     [
       "Iroh: A New Implementation of IPFS",
       "https://iroh.computer/"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 19:12:08",
-      "https://news.ycombinator.com/item?id=33376147"
-    ],
-    [
-      "People are pretending to be laid-off Twitter employees carrying boxes outside HQ",
-      "https://www.theverge.com/2022/10/28/23428775/twitter-fake-employee-layoff-rahul-ligma-elon-musk"
     ]
   ],
   [
@@ -131,16 +101,6 @@
   ],
   [
     [
-      "2022-10-28, 18:21:51",
-      "https://news.ycombinator.com/item?id=33375266"
-    ],
-    [
-      "Control your AI images with these must-know parameters",
-      "https://www.sagiodev.com/blog/stable_diffusion_parameters/"
-    ]
-  ],
-  [
-    [
       "2022-10-28, 18:20:40",
       "https://news.ycombinator.com/item?id=33375250"
     ],
@@ -161,6 +121,16 @@
   ],
   [
     [
+      "2022-10-28, 17:26:07",
+      "https://news.ycombinator.com/item?id=33374465"
+    ],
+    [
+      "Jerry Lee Lewis has died",
+      "https://www.rollingstone.com/music/music-news/jerry-lee-lewis-dead-obituary-1234616945/"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 17:21:28",
       "https://news.ycombinator.com/item?id=33374402"
     ],
@@ -175,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33374025"
     ],
     [
-      "smolnes: A NES emulator in less than 5000 significant bytes of C++",
+      "Smolnes: A NES emulator in less than 5000 significant bytes of C++",
       "https://github.com/binji/smolnes"
     ]
   ],
@@ -205,8 +175,18 @@
       "https://news.ycombinator.com/item?id=33373021"
     ],
     [
-      "Linux Security Hardening and Other Tweaks",
+      "Linux security hardening and other tweaks",
       "https://vez.mrsk.me/linux-hardening.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 15:18:09",
+      "https://news.ycombinator.com/item?id=33372471"
+    ],
+    [
+      "Open letter to Gitea",
+      "https://gitea-open-letter.coding.social/"
     ]
   ],
   [
@@ -235,7 +215,7 @@
       "https://news.ycombinator.com/item?id=33370944"
     ],
     [
-      "Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter",
+      "Space explosion reveals possible hints of dark matter",
       "https://nautil.us/brightest-ever-space-explosion-reveals-possible-hints-of-dark-matter-244346/"
     ]
   ],
@@ -247,6 +227,16 @@
     [
       "Linux 6.1 on NanoPi R4S – On fixing SD-card support, Heisenbugs and Rabbit Holes",
       "https://kohlschuetter.github.io/blog/posts/2022/10/28/linux-nanopi-r4s/"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 13:05:44",
+      "https://news.ycombinator.com/item?id=33370880"
+    ],
+    [
+      "Old tech is haunted",
+      "https://therectangle.substack.com/p/all-your-old-tech-is-haunted-actually"
     ]
   ],
   [
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2022-10-27, 06:54:11",
+      "https://news.ycombinator.com/item?id=33354116"
+    ],
+    [
+      "Pumpkin Plot",
+      "https://alex-hhh.github.io/2022/10/pumpkin-plot.html"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 06:43:53",
       "https://news.ycombinator.com/item?id=33354042"
     ],
     [
-      "Am Stereo",
+      "AM Stereo",
       "http://www.amstereo.org"
     ]
   ]
