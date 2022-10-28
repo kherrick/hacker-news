@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-10-28, 18:38:29",
+      "https://news.ycombinator.com/item?id=33375554"
+    ],
+    [
+      "Show HN: Checksum.sh verify every install script",
+      "https://checksum.sh/"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 18:29:21",
       "https://news.ycombinator.com/item?id=33375392"
     ],
     [
-      "Intel Extension for TensorFlow Released",
+      "Intel Extension for TensorFlow",
       "https://github.com/intel/intel-extension-for-tensorflow"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33375323"
     ],
     [
-      "How Google detects, removes and reports child sexual abuse material",
+      "How we detect, remove and report child sexual abuse material",
       "https://blog.google/technology/safety-security/how-we-detect-remove-and-report-child-sexual-abuse-material/"
     ]
   ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2022-10-28, 18:02:10",
-      "https://news.ycombinator.com/item?id=33374945"
+      "2022-10-28, 18:20:40",
+      "https://news.ycombinator.com/item?id=33375250"
     ],
     [
-      "Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors",
-      "https://arxiv.org/abs/1910.14667"
+      "Twitter will be forming a content moderation council with diverse viewpoints",
+      "https://twitter.com/elonmusk/status/1586059953311137792"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33373729"
     ],
     [
-      "Nvidia’s hot 12VHPWR adapter",
+      "Nvidia’s hot adapter for the GeForce RTX 4090 with a built-in breaking point",
       "https://www.igorslab.de/en/adapter-of-the-gray-analyzed-nvidias-brand-hot-12vhpwr-adapter-with-built-in-breakpoint/"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Tell HN: YouTube's web UI just got even worse",
       "https://news.ycombinator.com/item?id=33371268"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 13:30:56",
-      "https://news.ycombinator.com/item?id=33371155"
-    ],
-    [
-      "Transfinite game values in infinite chess (2013)",
-      "http://jdh.hamkins.org/game-values-in-infinite-chess/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-10-28, 07:01:15",
-      "https://news.ycombinator.com/item?id=33368460"
-    ],
-    [
-      "Deepnote (YC S19) is hiring to build a better data science notebook (Europe)",
-      "https://deepnote.com/join-us"
-    ]
-  ],
-  [
-    [
       "2022-10-28, 06:57:46",
       "https://news.ycombinator.com/item?id=33368444"
     ],
@@ -297,6 +287,16 @@
     [
       "Pumpkin Plot",
       "https://alex-hhh.github.io/2022/10/pumpkin-plot.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 11:40:58",
+      "https://news.ycombinator.com/item?id=33342245"
+    ],
+    [
+      "Spectral slices of overtone singing, animated",
+      "https://languagelog.ldc.upenn.edu/nll/?p=56794"
     ]
   ]
 ]
