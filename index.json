@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-10-28, 13:19:14",
+      "https://news.ycombinator.com/item?id=33371016"
+    ],
+    [
+      "My love-hate relationship with mechanical watches",
+      "https://tiramisu.bearblog.dev/watches/"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 13:12:48",
       "https://news.ycombinator.com/item?id=33370944"
     ],
@@ -31,11 +41,31 @@
   ],
   [
     [
+      "2022-10-28, 13:06:03",
+      "https://news.ycombinator.com/item?id=33370882"
+    ],
+    [
+      "Linux 6.1 on NanoPi R4S – On fixing SD-card support, Heisenbugs and Rabbit Holes",
+      "https://kohlschuetter.github.io/blog/posts/2022/10/28/linux-nanopi-r4s/"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 13:05:44",
+      "https://news.ycombinator.com/item?id=33370880"
+    ],
+    [
+      "All your old tech is haunted",
+      "https://therectangle.substack.com/p/all-your-old-tech-is-haunted-actually"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 13:04:38",
       "https://news.ycombinator.com/item?id=33370870"
     ],
     [
-      "How to communicate (more) effectively as a developer",
+      "How to communicate effectively as a developer",
       "https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/"
     ]
   ],
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33370649"
     ],
     [
-      "Push-Based Outbox Pattern with Postgres Logical Replication",
+      "Push-based outbox pattern with Postgres logical replication",
       "https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/"
     ]
   ],
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33370374"
     ],
     [
-      "Victoria III (First Impressions)",
+      "Victoria III – First Impressions",
       "https://acoup.blog/2022/10/24/miscellanea-victoria-iii-confirmed-first-impressions/"
     ]
   ],
@@ -95,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33369901"
     ],
     [
-      "You can’t trust CPUID – Chips and Cheese",
+      "Why you can’t trust CPUID",
       "https://chipsandcheese.com/2022/10/27/why-you-cant-trust-cpuid/"
     ]
   ],
@@ -135,7 +165,7 @@
       "https://news.ycombinator.com/item?id=33369635"
     ],
     [
-      "I use a Raspberry Pi as my daily computer for over a year now",
+      "I use a Raspberry Pi as my daily computer",
       "https://www.heyhomepage.com/?module=blog&link=1&post=4"
     ]
   ],
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2022-10-27, 20:09:45",
-      "https://news.ycombinator.com/item?id=33363331"
-    ],
-    [
-      "Pokemon Card Animation",
-      "https://deck-24abcd.netlify.app/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 13:31:25",
-      "https://news.ycombinator.com/item?id=33357197"
-    ],
-    [
-      "Show HN: I 3D scanned the interior of the Great Pyramid at Giza",
-      "https://giza.mused.org/en/guided/266/inside-the-great-pyramid"
-    ]
-  ],
-  [
-    [
       "2022-10-27, 05:57:39",
       "https://news.ycombinator.com/item?id=33353694"
     ],
@@ -277,16 +287,6 @@
     [
       "Canon EOS R7 Disassembly and Teardown",
       "https://kolarivision.com/canon-eos-r7-disassembly-and-teardown/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 06:09:53",
-      "https://news.ycombinator.com/item?id=33326858"
-    ],
-    [
-      "The RISC Deprogrammer",
-      "https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html"
     ]
   ],
   [
