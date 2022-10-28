@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-10-28, 17:37:39",
-      "https://news.ycombinator.com/item?id=33374597"
-    ],
-    [
-      "CNBC reporting that Twitter's entire data engineering team was fired today",
-      "https://twitter.com/anthony/status/1586047790341398534"
-    ]
-  ],
-  [
-    [
       "2022-10-28, 17:26:07",
       "https://news.ycombinator.com/item?id=33374465"
     ],
@@ -25,8 +15,18 @@
       "https://news.ycombinator.com/item?id=33373729"
     ],
     [
-      "The horror has a face – Nvidia’s hot 12VHPWR adapter",
+      "Nvidia’s hot 12VHPWR adapter",
       "https://www.igorslab.de/en/adapter-of-the-gray-analyzed-nvidias-brand-hot-12vhpwr-adapter-with-built-in-breakpoint/"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 16:27:11",
+      "https://news.ycombinator.com/item?id=33373619"
+    ],
+    [
+      "Wiby.me: curated search engine for content-first suckless sites",
+      "https://wiby.me/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-10-28, 10:24:59",
-      "https://news.ycombinator.com/item?id=33369635"
-    ],
-    [
-      "I use a Raspberry Pi as my daily computer",
-      "https://www.heyhomepage.com/?module=blog&link=1&post=4"
-    ]
-  ],
-  [
-    [
       "2022-10-28, 10:08:40",
       "https://news.ycombinator.com/item?id=33369572"
     ],
@@ -297,6 +287,16 @@
     [
       "Problem solving via Who not How",
       "https://notes.invertedpassion.com/Meta/Problem+solving+via+Who+not+How"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 05:57:35",
+      "https://news.ycombinator.com/item?id=33313346"
+    ],
+    [
+      "Staging Is a Trap",
+      "https://tylercipriani.com/blog/2022/09/15/staging-is-a-trap/"
     ]
   ]
 ]
