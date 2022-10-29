@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-29, 19:21:22",
+      "https://news.ycombinator.com/item?id=33387162"
+    ],
+    [
+      "Soul – A SQLite RESTful Server",
+      "https://github.com/thevahidal/soul"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 19:19:59",
+      "https://news.ycombinator.com/item?id=33387149"
+    ],
+    [
+      "Compilers and IRs: LLVM IR, SPIR-V, and MLIR",
+      "https://www.lei.chat/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 19:09:39",
       "https://news.ycombinator.com/item?id=33387047"
     ],
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2022-10-29, 15:42:28",
+      "https://news.ycombinator.com/item?id=33385007"
+    ],
+    [
+      "CoWasm: An alternative to Emscripten, based on Zig (demo: Python in the browser)",
+      "https://cowasm.org/"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 14:56:59",
       "https://news.ycombinator.com/item?id=33384577"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2022-10-29, 13:48:28",
-      "https://news.ycombinator.com/item?id=33384014"
-    ],
-    [
-      "Turn your Google Sheets into a webhook without code",
-      "https://logicsheet.co/article/google-sheets-webhook-api-no-code"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 13:47:18",
       "https://news.ycombinator.com/item?id=33384006"
     ],
@@ -157,16 +177,6 @@
     [
       "Electrolyser development: 200 times less iridium needed",
       "https://www.tno.nl/en/newsroom/2022/10/breakthrough-electrolyser-development/"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 11:54:17",
-      "https://news.ycombinator.com/item?id=33383238"
-    ],
-    [
-      "Texas solar and wind resources saved consumers nearly $28B over 12 years",
-      "https://www.utilitydive.com/news/texas-solar-and-wind-resources-saved-consumers-nearly-28-billion-over-12-y/634893/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-10-29, 07:24:35",
-      "https://news.ycombinator.com/item?id=33381823"
-    ],
-    [
-      "The Talos II, Blackbird POWER9 systems support tagged memory",
-      "https://www.devever.net/~hl/power9tags"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 05:39:09",
       "https://news.ycombinator.com/item?id=33381302"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2022-10-27, 06:18:54",
-      "https://news.ycombinator.com/item?id=33353847"
+      "2022-10-27, 07:27:52",
+      "https://news.ycombinator.com/item?id=33354355"
     ],
     [
-      "HP 12C English Calculator",
-      "https://www.hp.com/us-en/shop/pdp/hp-12c-english-calculator"
+      "Variability, Not Repetition, Is the Key to Mastery",
+      "https://www.scotthyoung.com/blog/2022/10/26/variable-mastery/"
     ]
   ],
   [
