@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2022-10-28, 23:48:09",
+      "https://news.ycombinator.com/item?id=33379467"
+    ],
+    [
+      "Daemon – Writing and packaging system daemons",
+      "https://man7.org/linux/man-pages/man7/daemon.7.html"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 21:10:13",
       "https://news.ycombinator.com/item?id=33377964"
     ],
@@ -201,32 +211,22 @@
   ],
   [
     [
-      "2022-10-28, 16:34:50",
-      "https://news.ycombinator.com/item?id=33373729"
-    ],
-    [
-      "Nvidia’s hot adapter for the GeForce RTX 4090 with a built-in breaking point",
-      "https://www.igorslab.de/en/adapter-of-the-gray-analyzed-nvidias-brand-hot-12vhpwr-adapter-with-built-in-breakpoint/"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 16:27:11",
-      "https://news.ycombinator.com/item?id=33373619"
-    ],
-    [
-      "Wiby.me: curated search engine for content-first suckless sites",
-      "https://wiby.me/"
-    ]
-  ],
-  [
-    [
       "2022-10-28, 14:48:22",
       "https://news.ycombinator.com/item?id=33372016"
     ],
     [
       "The Business Impact of Code Quality",
       "https://www.infoq.com/articles/business-impact-code-quality/"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 13:27:57",
+      "https://news.ycombinator.com/item?id=33371121"
+    ],
+    [
+      "The Iran Firewall: A preliminary report",
+      "https://blog.thc.org/the-iran-firewall-a-preliminary-report"
     ]
   ],
   [
