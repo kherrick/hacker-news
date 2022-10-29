@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-10-29, 20:29:38",
+      "https://news.ycombinator.com/item?id=33387678"
+    ],
+    [
+      "AdGuardHome: Network-wide ads and trackers blocking DNS server",
+      "https://github.com/AdguardTeam/AdGuardHome"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 20:14:35",
       "https://news.ycombinator.com/item?id=33387566"
     ],
     [
       "Somali Law",
       "http://www.daviddfriedman.com/Academic/Course_Pages/legal_systems_very_different_12/Book_Draft/Systems/SomaliLawChapter.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 20:01:28",
+      "https://news.ycombinator.com/item?id=33387478"
+    ],
+    [
+      "Telegram CEO Accuses Apple of Crushing Entrepreneurs",
+      "https://www.macrumors.com/2022/10/28/telegram-ceo-apple-destroying-dreams/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-10-29, 13:47:18",
-      "https://news.ycombinator.com/item?id=33384006"
-    ],
-    [
-      "asdf banned_commands",
-      "https://github.com/asdf-vm/asdf/blob/master/test/banned_commands.bats"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 12:17:49",
       "https://news.ycombinator.com/item?id=33383403"
     ],
@@ -257,16 +267,6 @@
     [
       "Taking Lichess to the next level",
       "https://lichess.org/blog/Y1wpBhEAAB8AwbeG/taking-lichess-to-the-next-level"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 05:35:06",
-      "https://news.ycombinator.com/item?id=33381285"
-    ],
-    [
-      "Why is D's garbage collection slower than Go's?",
-      "https://forum.dlang.org/post/tjib6h$2pp6$1@digitalmars.com"
     ]
   ],
   [
