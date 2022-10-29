@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-29, 21:00:29",
+      "https://news.ycombinator.com/item?id=33387899"
+    ],
+    [
+      "Promoted.ai (YC W21) Is Hiring a Staff Data Engineer (Flink)",
+      "https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 20:52:54",
+      "https://news.ycombinator.com/item?id=33387855"
+    ],
+    [
+      "The Perfect Commit",
+      "https://simonwillison.net/2022/Oct/29/the-perfect-commit/"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 20:29:38",
       "https://news.ycombinator.com/item?id=33387678"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-10-29, 17:00:27",
-      "https://news.ycombinator.com/item?id=33385859"
-    ],
-    [
-      "Patterns (YC S21) is hiring to build a developer platform for data apps",
-      "https://www.patterns.app/"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 15:42:28",
       "https://news.ycombinator.com/item?id=33385007"
     ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2022-10-29, 07:44:28",
-      "https://news.ycombinator.com/item?id=33381920"
+      "2022-10-28, 18:02:10",
+      "https://news.ycombinator.com/item?id=33374945"
     ],
     [
-      "BearSSL: A smaller SSL/TLS library",
-      "https://bearssl.org/"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 05:39:09",
-      "https://news.ycombinator.com/item?id=33381302"
-    ],
-    [
-      "Taking Lichess to the next level",
-      "https://lichess.org/blog/Y1wpBhEAAB8AwbeG/taking-lichess-to-the-next-level"
+      "Real World Adversarial Attacks on Object Detectors",
+      "https://arxiv.org/abs/1910.14667"
     ]
   ],
   [
