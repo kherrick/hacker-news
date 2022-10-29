@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-29, 18:02:52",
+      "https://news.ycombinator.com/item?id=33386475"
+    ],
+    [
+      "Principal Component Analysis Explained Visually",
+      "https://setosa.io/ev/principal-component-analysis/"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 17:51:11",
       "https://news.ycombinator.com/item?id=33386359"
     ],
     [
       "Update on the fake story about the river laborers paying people to whip them",
       "https://statmodeling.stat.columbia.edu/2022/10/29/update-on-the-fake-story-about-the-river-laborers-paying-people-to-whip-them/"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 17:48:31",
+      "https://news.ycombinator.com/item?id=33386334"
+    ],
+    [
+      "Clojure Cheatsheets",
+      "https://jafingerhut.github.io/"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 17:46:35",
+      "https://news.ycombinator.com/item?id=33386305"
+    ],
+    [
+      "Life after Heroku: What's a dev to do?",
+      "https://www.reaktor.com/blog/how-to-deal-with-life-after-heroku/"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33386132"
     ],
     [
-      "FBI Testimony on Hair Analysis Contained Errors in 90% of Cases in OngoingReview",
+      "FBI Testimony on Hair Analysis Contained Errors in 90% of Cases in OngoingReview (2015)",
       "https://www.fbi.gov/news/press-releases/press-releases/fbi-testimony-on-microscopic-hair-analysis-contained-errors-in-at-least-90-percent-of-cases-in-ongoing-review"
     ]
   ],
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2022-10-29, 16:31:32",
-      "https://news.ycombinator.com/item?id=33385573"
-    ],
-    [
-      "Saudi woman jailed for 45 years for social media posts",
-      "https://www.bbc.com/news/world-middle-east-62736118"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 14:56:59",
       "https://news.ycombinator.com/item?id=33384577"
     ],
     [
       "The SAFe Delusion",
       "https://safedelusion.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 14:38:17",
-      "https://news.ycombinator.com/item?id=33384391"
-    ],
-    [
-      "Why does the US allow a controversial weedkiller banned across the world?",
-      "https://www.theguardian.com/us-news/2022/oct/28/paraquat-weedkiller-epa-ban"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Om is a novel, maximally-simple concatenative language",
       "http://www.om-language.org/"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 08:22:14",
-      "https://news.ycombinator.com/item?id=33382103"
-    ],
-    [
-      "Bcachefs Status Update",
-      "https://lore.kernel.org/linux-fsdevel/Y1wsQVSQ6ipWyFlX@moria.home.lan/"
     ]
   ],
   [
