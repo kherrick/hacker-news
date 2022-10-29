@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-29, 02:45:23",
+      "https://news.ycombinator.com/item?id=33380500"
+    ],
+    [
+      "Urgent Upcoming OpenSSL release patches critical vulnerability",
+      "https://www.globalsign.com/en/blog/urgent-patch-openssl-november-1-avoid-critical-security-vulnerability"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 02:23:00",
       "https://news.ycombinator.com/item?id=33380374"
     ],
@@ -257,16 +267,6 @@
     [
       "How to communicate effectively as a developer",
       "https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 12:43:03",
-      "https://news.ycombinator.com/item?id=33370649"
-    ],
-    [
-      "Push-based outbox pattern with Postgres logical replication",
-      "https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/"
     ]
   ],
   [
