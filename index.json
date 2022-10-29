@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-10-29, 17:00:27",
+      "https://news.ycombinator.com/item?id=33385859"
+    ],
+    [
+      "Patterns (YC S21) is hiring to build a developer platform for data apps",
+      "https://www.patterns.app/"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 16:50:18",
       "https://news.ycombinator.com/item?id=33385750"
     ],
     [
       "Ask HN: What mindset change made the biggest positive change for you?",
       "https://news.ycombinator.com/item?id=33385750"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 16:44:13",
+      "https://news.ycombinator.com/item?id=33385696"
+    ],
+    [
+      "I made a guestbook for my website using GitHub Gist and Netlify Functions",
+      "https://sunny.gg/guestbook"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2022-10-29, 15:54:07",
-      "https://news.ycombinator.com/item?id=33385148"
+      "2022-10-29, 15:42:28",
+      "https://news.ycombinator.com/item?id=33385007"
     ],
     [
-      "Rust Web Framework Comparison",
-      "https://github.com/flosse/rust-web-framework-comparison"
+      "CoWasm: An alternative to Emscripten, based on Zig (demo: Python in the browser)",
+      "https://cowasm.org/"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33384150"
     ],
     [
-      "Kathleen Booth has died",
+      "Kathleen Booth, the inventor of assembly language, has died",
       "https://www.theregister.com/2022/10/29/kathleen_booth_obit/"
     ]
   ],
@@ -91,32 +111,12 @@
   ],
   [
     [
-      "2022-10-29, 13:43:02",
-      "https://news.ycombinator.com/item?id=33383972"
-    ],
-    [
-      "Incidents caused by unappreciated OSS maintainers or underfunded OSS projects",
-      "https://github.com/PayDevs/awful-oss-incidents"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 12:17:49",
       "https://news.ycombinator.com/item?id=33383403"
     ],
     [
       "Electrolyser development: 200 times less iridium needed",
       "https://www.tno.nl/en/newsroom/2022/10/breakthrough-electrolyser-development/"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 12:00:06",
-      "https://news.ycombinator.com/item?id=33383286"
-    ],
-    [
-      "Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)",
-      "https://www.svix.com/careers/"
     ]
   ],
   [
@@ -147,6 +147,16 @@
     [
       "MGL – OpenGL 4.6 on Metal",
       "https://github.com/openglonmetal/MGL"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 11:20:02",
+      "https://news.ycombinator.com/item?id=33383023"
+    ],
+    [
+      "Show HN: FFmpeg Command Visualizer and Editor",
+      "https://ffmpeg.guide"
     ]
   ],
   [
@@ -251,21 +261,11 @@
   ],
   [
     [
-      "2022-10-27, 12:11:30",
-      "https://news.ycombinator.com/item?id=33356357"
-    ],
-    [
-      "What Is a Service Mesh?",
-      "https://www.koyeb.com/blog/what-is-a-service-mesh"
-    ]
-  ],
-  [
-    [
       "2022-10-27, 09:27:59",
       "https://news.ycombinator.com/item?id=33355219"
     ],
     [
-      "Addiction to Ideas (2017)",
+      "Addiction to ideas (2017)",
       "https://colleenrobb.com/2017/03/18/addiction-to-ideas-how-to-break-the-cycle/"
     ]
   ],
