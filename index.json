@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-10-29, 14:20:45",
+      "https://news.ycombinator.com/item?id=33384236"
+    ],
+    [
+      "Google Ad Disguising Itself as www.gimp.org",
+      "https://www.reddit.com/r/GIMP/comments/ygbr4o/dangerous_google_ad_disguising_itself_as/"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 14:07:02",
       "https://news.ycombinator.com/item?id=33384150"
     ],
     [
-      "RIP: Kathleen Booth, the inventor of assembly language",
+      "Kathleen Booth has died",
       "https://www.theregister.com/2022/10/29/kathleen_booth_obit/"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33383566"
     ],
     [
-      "Why the Math Stack Exchange is a waste of time? (2017) [pdf]",
+      "Math Stack Exchange is a waste of time? (2017) [pdf]",
       "https://www.gotohaggstrom.com/Why%20the%20Math%20Stack%20Exchange%20is%20a%20waste%20of%20time.pdf"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33383403"
     ],
     [
-      "Breakthrough electrolyser development: 200 times less iridium needed",
+      "Electrolyser development: 200 times less iridium needed",
       "https://www.tno.nl/en/newsroom/2022/10/breakthrough-electrolyser-development/"
     ]
   ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2022-10-29, 10:57:17",
+      "https://news.ycombinator.com/item?id=33382896"
+    ],
+    [
+      "Mitmproxy 9: WireGuard Mode",
+      "https://mitmproxy.org/posts/releases/mitmproxy9/"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 09:21:23",
       "https://news.ycombinator.com/item?id=33382397"
     ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=33381949"
     ],
     [
-      "WireGuard has finally landed in FreeBSD",
+      "WireGuard in FreeBSD",
       "https://cgit.freebsd.org/src/commit/?id=744bfb213144c63cbaf38d91a1c4f7aebb9b9fbc"
     ]
   ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2022-10-28, 17:21:28",
-      "https://news.ycombinator.com/item?id=33374402"
-    ],
-    [
-      "SQLite in the browser with WASM/JS",
-      "https://sqlite.org/wasm/doc/tip/about.md"
-    ]
-  ],
-  [
-    [
       "2022-10-28, 09:56:48",
       "https://news.ycombinator.com/item?id=33369505"
     ],
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=33351881"
     ],
     [
-      "Tree rings offer insight into devastating radiation storms",
+      "Tree rings offer insight into radiation storms",
       "https://phys.org/news/2022-10-tree-insight-devastating-storms.html"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Exploring the richness and variety of letters sent to the East India Company",
       "https://blogs.bl.uk/untoldlives/2022/10/exploring-the-richness-and-variety-of-letters-sent-to-the-east-india-company.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 19:34:43",
-      "https://news.ycombinator.com/item?id=33348274"
-    ],
-    [
-      "A Unified Field Theory of Bob Dylan",
-      "https://www.newyorker.com/magazine/2022/10/31/a-unified-field-theory-of-bob-dylan"
     ]
   ]
 ]
