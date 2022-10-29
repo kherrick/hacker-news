@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-10-29, 13:47:18",
+      "https://news.ycombinator.com/item?id=33384006"
+    ],
+    [
+      "asdf banned_commands",
+      "https://github.com/asdf-vm/asdf/blob/master/test/banned_commands.bats"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 13:43:02",
       "https://news.ycombinator.com/item?id=33383972"
     ],
@@ -67,16 +77,6 @@
     [
       "Amazon’s cloud business just recorded its weakest growth to date",
       "https://www.cnbc.com/2022/10/27/aws-earnings-q3-2022.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 12:44:14",
-      "https://news.ycombinator.com/item?id=33383569"
-    ],
-    [
-      "Google alerted Californians to an earthquake before it happened",
-      "https://www.wired.com/story/google-android-earthquake-alert-california/"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "MGL – OpenGL 4.6 on Metal",
       "https://github.com/openglonmetal/MGL"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 11:21:39",
-      "https://news.ycombinator.com/item?id=33383030"
-    ],
-    [
-      "The Garden and the Stream: A Technopastoral (2015)",
-      "https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Mechanical Induction Cooker (2015)",
       "https://www.halfbakery.com/idea/Mechanical_20induction_20cooker"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 12:11:30",
+      "https://news.ycombinator.com/item?id=33356357"
+    ],
+    [
+      "What Is a Service Mesh?",
+      "https://www.koyeb.com/blog/what-is-a-service-mesh"
     ]
   ],
   [
