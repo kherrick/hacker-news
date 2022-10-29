@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-29, 09:05:00",
+      "https://news.ycombinator.com/item?id=33382301"
+    ],
+    [
+      "Crypto exchange Binance, Musk's co-investor, to help Twitter with blockchain",
+      "https://www.reuters.com/technology/crypto-exchange-binance-musks-co-investor-help-twitter-with-blockchain-2022-10-28/"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 08:13:13",
+      "https://news.ycombinator.com/item?id=33382056"
+    ],
+    [
+      "Ask HN: An advice that changed your life?",
+      "https://news.ycombinator.com/item?id=33382056"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 07:44:28",
       "https://news.ycombinator.com/item?id=33381920"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-10-28, 23:48:09",
-      "https://news.ycombinator.com/item?id=33379467"
-    ],
-    [
-      "Daemon – Writing and packaging system daemons",
-      "https://man7.org/linux/man-pages/man7/daemon.7.html"
-    ]
-  ],
-  [
-    [
       "2022-10-28, 21:10:13",
       "https://news.ycombinator.com/item?id=33377964"
     ],
@@ -207,16 +217,6 @@
     [
       "SQLite in the browser with WASM/JS",
       "https://sqlite.org/wasm/doc/tip/about.md"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 16:54:06",
-      "https://news.ycombinator.com/item?id=33374025"
-    ],
-    [
-      "Smolnes: A NES emulator in less than 5000 significant bytes of C++",
-      "https://github.com/binji/smolnes"
     ]
   ],
   [
