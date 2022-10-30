@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-10-30, 21:29:37",
-      "https://news.ycombinator.com/item?id=33398928"
+      "2022-10-30, 22:29:24",
+      "https://news.ycombinator.com/item?id=33399632"
     ],
     [
-      "US Supreme Court poised to ban affirmative action in university admissions",
-      "https://www.nature.com/articles/d41586-022-03470-5"
+      "PwshPaint: A pixel art editor for the terminal in PowerShell",
+      "https://github.com/ShaunLawrie/PwshPaint"
     ]
   ],
   [
@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-10-30, 20:42:29",
+      "https://news.ycombinator.com/item?id=33398444"
+    ],
+    [
+      "You Need an Idea Inbox",
+      "https://writing.fm/you-need-an-idea-inbox/"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 20:31:22",
       "https://news.ycombinator.com/item?id=33398334"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33398253"
     ],
     [
-      "Marten, a Crystal web framework that makes building web apps productive and fun",
+      "Marten: a Crystal web framework",
       "https://martenframework.com"
     ]
   ],
@@ -71,32 +81,12 @@
   ],
   [
     [
-      "2022-10-30, 19:52:03",
-      "https://news.ycombinator.com/item?id=33397973"
-    ],
-    [
-      "Tell HN: WhatsApp appears to be censoring references to Signal",
-      "https://news.ycombinator.com/item?id=33397973"
-    ]
-  ],
-  [
-    [
       "2022-10-30, 19:22:49",
       "https://news.ycombinator.com/item?id=33397677"
     ],
     [
-      "Twitodon: Finding Twitter Peers on Mastodon",
+      "Find your Twitter friends on Mastodon",
       "https://twitodon.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 19:15:00",
-      "https://news.ycombinator.com/item?id=33397605"
-    ],
-    [
-      "Ursula Le Guin on Star Trek: TNG (1994)",
-      "https://gentlier.tumblr.com/post/661155647772082176/ursula-le-guin-on-star-trek-tng"
     ]
   ],
   [
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33397054"
     ],
     [
-      "Optimizing Images with the HTML picture Tag",
+      "Optimizing images with the HTML &lt;picture&gt; tag",
       "https://jfhr.me/optimizing-images-with-the-html-picture-tag/"
     ]
   ],
@@ -127,6 +117,16 @@
     [
       "Show HN: Open-source user onboarding and KYC flow made with Svelte (~50kb)",
       "https://github.com/ballerine-io/ballerine"
+    ]
+  ],
+  [
+    [
+      "2022-10-30, 17:51:19",
+      "https://news.ycombinator.com/item?id=33396792"
+    ],
+    [
+      "Diode",
+      "https://www.withdiode.com/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2022-10-30, 11:13:54",
+      "https://news.ycombinator.com/item?id=33393388"
+    ],
+    [
+      "D-Wave Launches in AWS Marketplace",
+      "https://www.scientific-computing.com/news/d-wave-launches-aws-marketplace"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 10:54:16",
       "https://news.ycombinator.com/item?id=33393283"
     ],
@@ -247,16 +257,6 @@
     [
       "Mel's Hack – The Missing Bits",
       "https://melsloop.com/docs/mels-hack-the-missing-bits"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 15:08:42",
-      "https://news.ycombinator.com/item?id=33384681"
-    ],
-    [
-      "A step by step guide on how to become a DevOps engineer",
-      "https://github.com/milanm/DevOps-Roadmap"
     ]
   ],
   [
