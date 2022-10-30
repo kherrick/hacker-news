@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-10-30, 22:43:13",
+      "https://news.ycombinator.com/item?id=33399753"
+    ],
+    [
+      "Where the Sidewalk Ends: The Death of the Internet",
+      "https://madattheinternet.substack.com/p/where-the-sidewalk-ends-the-death"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 22:29:24",
       "https://news.ycombinator.com/item?id=33399632"
     ],
     [
       "PwshPaint: A pixel art editor for the terminal in PowerShell",
       "https://github.com/ShaunLawrie/PwshPaint"
+    ]
+  ],
+  [
+    [
+      "2022-10-30, 22:12:12",
+      "https://news.ycombinator.com/item?id=33399402"
+    ],
+    [
+      "AT Protocol Overview",
+      "https://atproto.com/guides/overview"
     ]
   ],
   [
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2022-10-30, 20:42:29",
-      "https://news.ycombinator.com/item?id=33398444"
-    ],
-    [
-      "You Need an Idea Inbox",
-      "https://writing.fm/you-need-an-idea-inbox/"
-    ]
-  ],
-  [
-    [
       "2022-10-30, 20:31:22",
       "https://news.ycombinator.com/item?id=33398334"
     ],
@@ -67,6 +77,16 @@
     [
       "Marten: a Crystal web framework",
       "https://martenframework.com"
+    ]
+  ],
+  [
+    [
+      "2022-10-30, 20:07:25",
+      "https://news.ycombinator.com/item?id=33398134"
+    ],
+    [
+      "How Iran can track and control protesters’ phones: hacked documents",
+      "https://theintercept.com/2022/10/28/iran-protests-phone-surveillance/"
     ]
   ],
   [
@@ -91,6 +111,26 @@
   ],
   [
     [
+      "2022-10-30, 19:18:09",
+      "https://news.ycombinator.com/item?id=33397634"
+    ],
+    [
+      "Techniques which allow the sharing of data whilst keeping it secure",
+      "https://www.theguardian.com/technology/2022/oct/29/privacy-problem-tech-enhancing-data-political-legal"
+    ]
+  ],
+  [
+    [
+      "2022-10-30, 18:18:03",
+      "https://news.ycombinator.com/item?id=33397093"
+    ],
+    [
+      "Why Tesla removed radar and ultrasonic sensors [video]",
+      "https://www.youtube.com/watch?v=_W1JBAfV4Io"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 18:15:18",
       "https://news.ycombinator.com/item?id=33397060"
     ],
@@ -111,6 +151,16 @@
   ],
   [
     [
+      "2022-10-30, 18:09:07",
+      "https://news.ycombinator.com/item?id=33396988"
+    ],
+    [
+      "Decoding INTEGRAL",
+      "https://destevez.net/2022/10/decoding-integral/"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 18:08:37",
       "https://news.ycombinator.com/item?id=33396982"
     ],
@@ -121,22 +171,32 @@
   ],
   [
     [
+      "2022-10-30, 18:04:32",
+      "https://news.ycombinator.com/item?id=33396942"
+    ],
+    [
+      "Show HN: Generate quiz questions using AI",
+      "https://quizgecko.com/"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 17:51:19",
       "https://news.ycombinator.com/item?id=33396792"
     ],
     [
-      "Diode",
+      "Diode: Build, program, and simulate hardware projects in the browser",
       "https://www.withdiode.com/"
     ]
   ],
   [
     [
-      "2022-10-30, 16:30:12",
-      "https://news.ycombinator.com/item?id=33395857"
+      "2022-10-30, 17:48:57",
+      "https://news.ycombinator.com/item?id=33396764"
     ],
     [
-      "Tell HN: Spectrum is blocking TCP/UDP 5060 at my home",
-      "https://news.ycombinator.com/item?id=33395857"
+      "Re-using the heat in bathwater in Britain",
+      "https://dynomight.net/hot-water/"
     ]
   ],
   [
@@ -161,26 +221,6 @@
   ],
   [
     [
-      "2022-10-30, 13:49:08",
-      "https://news.ycombinator.com/item?id=33394488"
-    ],
-    [
-      "Physicians’ attitudes about caring for people with disabilities",
-      "https://www.healthaffairs.org/doi/10.1377/hlthaff.2022.00475"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 12:51:19",
-      "https://news.ycombinator.com/item?id=33394033"
-    ],
-    [
-      "Things your manager might not know (2021)",
-      "https://jvns.ca/blog/things-your-manager-might-not-know/"
-    ]
-  ],
-  [
-    [
       "2022-10-30, 12:32:34",
       "https://news.ycombinator.com/item?id=33393881"
     ],
@@ -191,72 +231,12 @@
   ],
   [
     [
-      "2022-10-30, 12:22:14",
-      "https://news.ycombinator.com/item?id=33393799"
-    ],
-    [
-      "Childhood toys: 40 years on 2-XL works just fine",
-      "https://blog.jgc.org/2022/10/childhood-toys-40-years-on-2-xl-works.html"
-    ]
-  ],
-  [
-    [
       "2022-10-30, 11:39:44",
       "https://news.ycombinator.com/item?id=33393540"
     ],
     [
       "Wiring my home with fiber",
       "https://sschueller.github.io/posts/wiring-a-home-with-fiber/"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 11:13:54",
-      "https://news.ycombinator.com/item?id=33393388"
-    ],
-    [
-      "D-Wave Launches in AWS Marketplace",
-      "https://www.scientific-computing.com/news/d-wave-launches-aws-marketplace"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 10:54:16",
-      "https://news.ycombinator.com/item?id=33393283"
-    ],
-    [
-      "Lil: A Scripting Language",
-      "https://beyondloom.com/decker/lil.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 10:04:41",
-      "https://news.ycombinator.com/item?id=33392951"
-    ],
-    [
-      "Why did the F-14 Tomcat retire decades before its peers? (2021)",
-      "https://www.sandboxx.us/blog/why-did-the-f-14-tomcat-retire-decades-before-its-peers/"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 08:26:23",
-      "https://news.ycombinator.com/item?id=33392379"
-    ],
-    [
-      "Charts.css: CSS data visualization framework",
-      "http://chartscss.org/"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 07:43:57",
-      "https://news.ycombinator.com/item?id=33392127"
-    ],
-    [
-      "Mel's Hack – The Missing Bits",
-      "https://melsloop.com/docs/mels-hack-the-missing-bits"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
-      "2022-10-28, 07:10:14",
-      "https://news.ycombinator.com/item?id=33368511"
+      "2022-10-29, 04:07:47",
+      "https://news.ycombinator.com/item?id=33380877"
     ],
     [
-      "The Beautiful Machine (2020)",
-      "https://fabiensanglard.net/the_beautiful_machine/index.html"
+      "Walking streetlamps for hire in seventeenth-century London",
+      "https://daily.jstor.org/walking-streetlamps-for-hire-in-seventeenth-century-london/"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 22:10:44",
+      "https://news.ycombinator.com/item?id=33378616"
+    ],
+    [
+      "Powerline Adapters – the security threat (2020)",
+      "https://community.spiceworks.com/topic/2251762-powerline-adapters-the-security-threat"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 18:13:54",
+      "https://news.ycombinator.com/item?id=33361630"
+    ],
+    [
+      "FAA Traffic Flow Management Design Challenge",
+      "https://faa-tfm-aid.nianet.org/challenge-details/"
     ]
   ],
   [
