@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-10-30, 08:04:48",
+      "https://news.ycombinator.com/item?id=33392260"
+    ],
+    [
+      "The FFmpeg Tutorial",
+      "http://dranger.com/ffmpeg/"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 08:02:36",
       "https://news.ycombinator.com/item?id=33392246"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2022-10-30, 01:14:54",
-      "https://news.ycombinator.com/item?id=33389843"
-    ],
-    [
-      "HN mining or: How I learned that there are some among us with soft quotes",
-      "https://github.com/chapmanjacobd/hn_mining"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 23:24:01",
       "https://news.ycombinator.com/item?id=33388978"
     ],
@@ -117,6 +117,16 @@
     [
       "How the New York City steam system works",
       "https://untappedcities.com/2021/07/09/new-york-city-steam-system/"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 21:00:29",
+      "https://news.ycombinator.com/item?id=33387899"
+    ],
+    [
+      "Promoted.ai (YC W21) is hiring a staff data engineer with Flink experience",
+      "https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-10-29, 19:21:22",
-      "https://news.ycombinator.com/item?id=33387162"
-    ],
-    [
-      "Soul – A SQLite RESTful Server",
-      "https://github.com/thevahidal/soul"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 19:19:59",
       "https://news.ycombinator.com/item?id=33387149"
     ],
@@ -217,6 +217,16 @@
     [
       "How I make a living working on SerenityOS",
       "https://awesomekling.github.io/How-I-make-a-living-working-on-SerenityOS/"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 04:07:47",
+      "https://news.ycombinator.com/item?id=33380877"
+    ],
+    [
+      "Walking Streetlamps for Hire in Seventeenth-Century London",
+      "https://daily.jstor.org/walking-streetlamps-for-hire-in-seventeenth-century-london/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Nvidia investigating reports of RTX 4090 power cables burning or melting",
       "https://www.theverge.com/2022/10/25/23422349/nvidia-rtx-4090-power-cables-connectors-melting-burning"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 16:31:51",
-      "https://news.ycombinator.com/item?id=33346091"
-    ],
-    [
-      "Ship Wreck Database",
-      "https://www.wrecksite.eu/wrecksite.aspx"
     ]
   ]
 ]
