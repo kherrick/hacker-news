@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-30, 10:54:40",
+      "https://news.ycombinator.com/item?id=33393285"
+    ],
+    [
+      "Chartist: Simple Responsive Charts in SVG",
+      "https://github.com/chartist-js/chartist"
+    ]
+  ],
+  [
+    [
+      "2022-10-30, 10:54:16",
+      "https://news.ycombinator.com/item?id=33393283"
+    ],
+    [
+      "Lil: A Scripting Language",
+      "https://beyondloom.com/decker/lil.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-30, 10:51:16",
+      "https://news.ycombinator.com/item?id=33393257"
+    ],
+    [
+      "Why talking to strangers can make us smarter",
+      "https://www.bbc.com/future/article/20221026-why-talking-to-strangers-can-make-us-happier"
+    ]
+  ],
+  [
+    [
+      "2022-10-30, 09:55:12",
+      "https://news.ycombinator.com/item?id=33392898"
+    ],
+    [
+      "Enclaves and Exclaves: A tour of the world's engulfed and orphaned places",
+      "https://storymaps.arcgis.com/stories/e927741a6a1c4157a1e3a91a2645f3f8"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 08:26:23",
       "https://news.ycombinator.com/item?id=33392379"
     ],
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2022-10-29, 21:00:29",
-      "https://news.ycombinator.com/item?id=33387899"
-    ],
-    [
-      "Promoted.ai (YC W21) is hiring a staff data engineer with Flink experience",
-      "https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 20:52:54",
       "https://news.ycombinator.com/item?id=33387855"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2022-10-29, 19:19:59",
-      "https://news.ycombinator.com/item?id=33387149"
-    ],
-    [
-      "Compilers and IRs: LLVM IR, SPIR-V, and MLIR",
-      "https://www.lei.chat/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 19:09:39",
       "https://news.ycombinator.com/item?id=33387047"
     ],
@@ -227,16 +247,6 @@
     [
       "Walking Streetlamps for Hire in Seventeenth-Century London",
       "https://daily.jstor.org/walking-streetlamps-for-hire-in-seventeenth-century-london/"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 07:23:22",
-      "https://news.ycombinator.com/item?id=33368594"
-    ],
-    [
-      "How I dumped an arcade game for MAME",
-      "https://www.mistys-internet.website/blog/blog/2022/10/27/how-i-dumped-an-arcade-game-for-mame/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Variability, not repetition, is the key to mastery",
       "https://www.scotthyoung.com/blog/2022/10/26/variable-mastery/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 07:23:07",
-      "https://news.ycombinator.com/item?id=33354323"
-    ],
-    [
-      "Recovery of function prototypes in Visual Basic 6 executables",
-      "https://decoded.avast.io/davidzimmer/recovery-of-function-prototypes-in-visual-basic-6-executables/"
     ]
   ],
   [
