@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=33390906"
     ],
     [
-      "Nobody Wants Touch-Screen Glove Box Latches on 2023 GM's Cadillac Lyriq",
+      "Nobody wants touch-screen glove box latches",
       "https://www.theautopian.com/nobody-wants-touch-screen-glove-box-latches-and-it-needs-to-stop-now/"
     ]
   ],
@@ -17,6 +17,16 @@
     [
       "HN mining or: How I learned that there are some among us with soft quotes",
       "https://github.com/chapmanjacobd/hn_mining"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 23:24:01",
+      "https://news.ycombinator.com/item?id=33388978"
+    ],
+    [
+      "Linker, can you spare a meg? (2021)",
+      "https://tailscale.com/blog/go-linker/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Theses on the Techlash",
       "https://librarianshipwreck.wordpress.com/2022/10/27/theses-on-the-techlash/"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 05:18:49",
-      "https://news.ycombinator.com/item?id=33367960"
-    ],
-    [
-      "Speeding up the Rust compiler without changing its code",
-      "https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html"
     ]
   ],
   [
