@@ -11,11 +11,21 @@
   ],
   [
     [
+      "2022-10-29, 22:14:09",
+      "https://news.ycombinator.com/item?id=33388473"
+    ],
+    [
+      "How the New York City steam system works",
+      "https://untappedcities.com/2021/07/09/new-york-city-steam-system/"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 21:00:29",
       "https://news.ycombinator.com/item?id=33387899"
     ],
     [
-      "Promoted.ai (YC W21) Is Hiring a Staff Data Engineer (Flink)",
+      "Promoted.ai (YC W21) is hiring a staff data engineer with Flink experience",
       "https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33387678"
     ],
     [
-      "AdGuardHome: Network-wide ads and trackers blocking DNS server",
+      "AdGuard Home: Network-wide ads and trackers blocking DNS server",
       "https://github.com/AdguardTeam/AdGuardHome"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33387566"
     ],
     [
-      "Somali Law",
+      "Somali Law (2013)",
       "http://www.daviddfriedman.com/Academic/Course_Pages/legal_systems_very_different_12/Book_Draft/Systems/SomaliLawChapter.html"
     ]
   ],
@@ -115,28 +125,8 @@
       "https://news.ycombinator.com/item?id=33386475"
     ],
     [
-      "Principal Component Analysis Explained Visually",
+      "Principal Component Analysis explained visually (2015)",
       "https://setosa.io/ev/principal-component-analysis/"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 17:51:11",
-      "https://news.ycombinator.com/item?id=33386359"
-    ],
-    [
-      "Update on the fake story about the river laborers paying people to whip them",
-      "https://statmodeling.stat.columbia.edu/2022/10/29/update-on-the-fake-story-about-the-river-laborers-paying-people-to-whip-them/"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 17:48:31",
-      "https://news.ycombinator.com/item?id=33386334"
-    ],
-    [
-      "Clojure Cheatsheets",
-      "https://jafingerhut.github.io/"
     ]
   ],
   [
@@ -157,16 +147,6 @@
     [
       "How I make a living working on SerenityOS",
       "https://awesomekling.github.io/How-I-make-a-living-working-on-SerenityOS/"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 17:26:49",
-      "https://news.ycombinator.com/item?id=33386145"
-    ],
-    [
-      "Metacognitive Note-Taking for Creativity",
-      "https://idiotlamborghini.com/articles/metacognitive_note_taking_for_creativity"
     ]
   ],
   [
@@ -196,7 +176,7 @@
     ],
     [
       "Google Ad Disguising Itself as www.gimp.org",
-      "https://www.reddit.com/r/GIMP/comments/ygbr4o/dangerous_google_ad_disguising_itself_as/"
+      "https://old.reddit.com/r/GIMP/comments/ygbr4o/dangerous_google_ad_disguising_itself_as/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2022-10-29, 11:27:56",
+      "https://news.ycombinator.com/item?id=33383075"
+    ],
+    [
+      "MGL – OpenGL 4.6 on Metal",
+      "https://github.com/openglonmetal/MGL"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 11:20:02",
       "https://news.ycombinator.com/item?id=33383023"
     ],
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2022-10-29, 09:21:23",
-      "https://news.ycombinator.com/item?id=33382397"
+      "2022-10-29, 10:57:17",
+      "https://news.ycombinator.com/item?id=33382896"
     ],
     [
-      "Om is a novel, maximally-simple concatenative language",
-      "http://www.om-language.org/"
+      "Mitmproxy 9: WireGuard Mode",
+      "https://mitmproxy.org/posts/releases/mitmproxy9/"
     ]
   ],
   [
@@ -275,8 +265,18 @@
       "https://news.ycombinator.com/item?id=33368594"
     ],
     [
-      "How I Dumped an Arcade Game for MAME",
+      "How I dumped an arcade game for MAME",
       "https://www.mistys-internet.website/blog/blog/2022/10/27/how-i-dumped-an-arcade-game-for-mame/"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 00:02:55",
+      "https://news.ycombinator.com/item?id=33365746"
+    ],
+    [
+      "Charles Dickens as Animal Novelist",
+      "https://www.thebeliever.net/dickens-greatest-animal-novelist-of-all-time/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33354355"
     ],
     [
-      "Variability, Not Repetition, Is the Key to Mastery",
+      "Variability, not repetition, is the key to mastery",
       "https://www.scotthyoung.com/blog/2022/10/26/variable-mastery/"
     ]
   ]
