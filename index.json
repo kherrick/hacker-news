@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-10-31, 05:43:12",
-      "https://news.ycombinator.com/item?id=33402436"
+      "2022-10-31, 06:32:39",
+      "https://news.ycombinator.com/item?id=33402646"
     ],
     [
-      "Five Good Things About RISC-V",
-      "https://codasip.com/2022/09/22/5-good-things-about-risc-v/"
+      "Wii U Architecture",
+      "https://www.copetti.org/writings/consoles/wiiu/"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 05:03:50",
+      "https://news.ycombinator.com/item?id=33402256"
+    ],
+    [
+      "Was the internet designed to survive a nuclear attack?",
+      "https://siliconfolklore.com/internet-history/"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "We need a replacement for TCP in the datacenter [pdf]",
       "https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 01:57:39",
+      "https://news.ycombinator.com/item?id=33401185"
+    ],
+    [
+      "VeinViewer technology helps physicians and nurses see a patient's veins [video]",
+      "https://www.youtube.com/watch?v=-ARKVmkQWTY"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-10-30, 19:18:09",
-      "https://news.ycombinator.com/item?id=33397634"
-    ],
-    [
-      "Techniques which allow the sharing of data whilst keeping it secure",
-      "https://www.theguardian.com/technology/2022/oct/29/privacy-problem-tech-enhancing-data-political-legal"
-    ]
-  ],
-  [
-    [
       "2022-10-30, 18:18:03",
       "https://news.ycombinator.com/item?id=33397093"
     ],
@@ -207,16 +217,6 @@
     [
       "Re-using the heat in bathwater in Britain",
       "https://dynomight.net/hot-water/"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 14:09:45",
-      "https://news.ycombinator.com/item?id=33394636"
-    ],
-    [
-      "An Apple II Tale",
-      "https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33368852"
     ],
     [
-      "Hakmem (1972)",
+      "HAKMEM (1972)",
       "https://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html"
     ]
   ]
