@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2022-10-31, 16:58:08",
+      "https://news.ycombinator.com/item?id=33408735"
+    ],
+    [
+      "ISBNdb dump – how many books are preserved forever?",
+      "http://annas-blog.org/blog-isbndb-dump-how-many-books-are-preserved-forever.html"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 16:37:47",
       "https://news.ycombinator.com/item?id=33408332"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2022-10-31, 14:18:00",
-      "https://news.ycombinator.com/item?id=33406027"
-    ],
-    [
-      "Has Rakuten made a Rocky-er road for Red Hat?",
-      "https://www.mobileeurope.co.uk/has-rakuten-made-a-rocky-er-road-for-red-hat/"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 14:16:01",
       "https://news.ycombinator.com/item?id=33405997"
     ],
@@ -197,16 +197,6 @@
     [
       "RustyHermit – A Rust-based, lightweight unikernel",
       "https://github.com/hermitcore/rusty-hermit"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 08:38:31",
-      "https://news.ycombinator.com/item?id=33403305"
-    ],
-    [
-      "New York could become first state with a ‘Right to Repair’ law",
-      "https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-become-first-state-with-a--right-to-repair--law"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Protobuf-ES: Protocol Buffers TypeScript/JavaScript runtime",
       "https://buf.build/blog/protobuf-es-the-protocol-buffers-typescript-javascript-runtime-we-all-deserve"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 22:26:09",
+      "https://news.ycombinator.com/item?id=33378766"
+    ],
+    [
+      "Explaining machine learning pitfalls to managers (2019)",
+      "https://gudok.xyz/mlp/"
     ]
   ]
 ]
