@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-31, 13:59:26",
+      "https://news.ycombinator.com/item?id=33405772"
+    ],
+    [
+      "Twitter to lay off 25% of workforce in first round of job cuts",
+      "https://www.washingtonpost.com/technology/2022/10/31/elon-musk-twitter-layoffs/"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 13:23:52",
+      "https://news.ycombinator.com/item?id=33405359"
+    ],
+    [
+      "How to intentionally throttle CPU on a M1 MacBook?",
+      "https://news.ycombinator.com/item?id=33405359"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 12:11:06",
       "https://news.ycombinator.com/item?id=33404658"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33404640"
     ],
     [
-      "Was Jack Welch the Greatest CEO of His Day–Or the Worst?",
+      "Was Jack Welch the greatest CEO of his day, or the worst?",
       "https://www.newyorker.com/magazine/2022/11/07/was-jack-welch-the-greatest-ceo-of-his-day-or-the-worst"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33403305"
     ],
     [
-      "NY could become first state with a ‘Right to Repair’ law for electronic devices",
+      "New York could become first state with a ‘Right to Repair’ law",
       "https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-become-first-state-with-a--right-to-repair--law"
     ]
   ],
@@ -77,6 +97,16 @@
     [
       "Wikipedians question Wikimedia fundraising ethics after “somewhat-viral” tweet",
       "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2022-10-31/News_and_notes"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 08:11:47",
+      "https://news.ycombinator.com/item?id=33403174"
+    ],
+    [
+      "Ask HN: What was being a software developer like about 30 years ago?",
+      "https://news.ycombinator.com/item?id=33403174"
     ]
   ],
   [
@@ -97,6 +127,16 @@
     [
       "Wii U Architecture",
       "https://www.copetti.org/writings/consoles/wiiu/"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 06:27:52",
+      "https://news.ycombinator.com/item?id=33402628"
+    ],
+    [
+      "Grabby Aliens: A Resolution to the Fermi Paradox",
+      "https://grabbyaliens.com/"
     ]
   ],
   [
@@ -161,42 +201,12 @@
   ],
   [
     [
-      "2022-10-30, 20:58:35",
-      "https://news.ycombinator.com/item?id=33398600"
+      "2022-10-30, 18:09:07",
+      "https://news.ycombinator.com/item?id=33396988"
     ],
     [
-      "If one GUI's not enough for your SPARC workstation, try four",
-      "http://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 20:22:30",
-      "https://news.ycombinator.com/item?id=33398253"
-    ],
-    [
-      "Marten: a Crystal web framework",
-      "https://martenframework.com"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 20:07:09",
-      "https://news.ycombinator.com/item?id=33398130"
-    ],
-    [
-      "A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS",
-      "https://github.com/susam/hello"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 18:18:03",
-      "https://news.ycombinator.com/item?id=33397093"
-    ],
-    [
-      "Why Tesla removed radar and ultrasonic sensors [video]",
-      "https://www.youtube.com/watch?v=_W1JBAfV4Io"
+      "Decoding INTEGRAL",
+      "https://destevez.net/2022/10/decoding-integral/"
     ]
   ],
   [
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=33381130"
     ],
     [
-      "The Sisters Who Pioneered the Historical Novel",
+      "The sisters who pioneered the historical novel",
       "https://www.smithsonianmag.com/history/the-forgotten-sisters-who-pioneered-the-historical-novel-180980730/"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Untangling Lifetimes: The Arena Allocator",
       "https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 22:56:54",
-      "https://news.ycombinator.com/item?id=33379021"
-    ],
-    [
-      "The Windows servers that have been fueling DDoSes for months",
-      "https://arstechnica.com/information-technology/2022/10/researchers-id-12k-microsoft-servers-that-are-a-ddosers-best-friend/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=33368570"
     ],
     [
-      "The Fallacy of Premature Optimization",
+      "The Fallacy of Premature Optimization (2009)",
       "https://ubiquity.acm.org/article.cfm?id=1513451"
     ]
   ],
