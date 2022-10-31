@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-31, 12:11:06",
+      "https://news.ycombinator.com/item?id=33404658"
+    ],
+    [
+      "The Perl Foundation will now be known as The Perl and Raku Foundation",
+      "https://news.perlfoundation.org/post/announcements"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 12:09:14",
+      "https://news.ycombinator.com/item?id=33404640"
+    ],
+    [
+      "Was Jack Welch the Greatest CEO of His Day–Or the Worst?",
+      "https://www.newyorker.com/magazine/2022/11/07/was-jack-welch-the-greatest-ceo-of-his-day-or-the-worst"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 12:02:14",
       "https://news.ycombinator.com/item?id=33404596"
     ],
@@ -17,16 +37,6 @@
     [
       "Your First IPv6 Request",
       "https://www.arin.net/resources/guide/ipv6/first_request/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 10:04:39",
-      "https://news.ycombinator.com/item?id=33403780"
-    ],
-    [
-      "SourceHut terms of service updates, cryptocurrency projects to be removed",
-      "https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2022-10-31, 06:27:52",
-      "https://news.ycombinator.com/item?id=33402628"
-    ],
-    [
-      "Grabby Aliens: A Resolution to the Fermi Paradox",
-      "https://grabbyaliens.com/"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 05:03:50",
       "https://news.ycombinator.com/item?id=33402256"
     ],
@@ -127,16 +127,6 @@
     [
       "We need a replacement for TCP in the datacenter [pdf]",
       "https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 01:57:39",
-      "https://news.ycombinator.com/item?id=33401185"
-    ],
-    [
-      "VeinViewer technology helps physicians and nurses see a patient's veins [video]",
-      "https://www.youtube.com/watch?v=-ARKVmkQWTY"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The paper that keeps showing up",
       "https://cronokirby.com/posts/2022/08/the-paper-that-keeps-showing-up/"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 07:19:56",
+      "https://news.ycombinator.com/item?id=33368570"
+    ],
+    [
+      "The Fallacy of Premature Optimization",
+      "https://ubiquity.acm.org/article.cfm?id=1513451"
     ]
   ],
   [
