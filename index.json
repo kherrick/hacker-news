@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-31, 16:46:16",
+      "https://news.ycombinator.com/item?id=33408497"
+    ],
+    [
+      "By the time new hires today are ready to retire, US debt to GDP could be at 185%",
+      "https://www.morganstanley.com/ideas/thoughts-on-the-market-rates"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 16:13:30",
       "https://news.ycombinator.com/item?id=33407857"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2022-10-31, 15:58:11",
-      "https://news.ycombinator.com/item?id=33407640"
+      "2022-10-31, 15:53:59",
+      "https://news.ycombinator.com/item?id=33407579"
     ],
     [
-      "US Supreme Court to weigh end to race-based college admissions",
-      "https://www.bbc.com/news/world-us-canada-63394285"
+      "Electric scooter ban increased congestion by 10% in Atlanta",
+      "https://www.nature.com/articles/s41560-022-01135-1"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "Replit's In-Browser Coding AI",
       "https://replit.com/site/ghostwriter"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 15:12:04",
-      "https://news.ycombinator.com/item?id=33406910"
-    ],
-    [
-      "Ask HN: What colorscheme are you using in your code editor?",
-      "https://news.ycombinator.com/item?id=33406910"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Your First IPv6 Request",
       "https://www.arin.net/resources/guide/ipv6/first_request/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 09:46:22",
-      "https://news.ycombinator.com/item?id=33403680"
-    ],
-    [
-      "Chatting with Sebastian Witowski: Code Standards, Tooling, and Working in Teams",
-      "https://sourcery.ai/blog/sebastian-witowski-interview-part-1/"
     ]
   ],
   [
@@ -251,12 +241,42 @@
   ],
   [
     [
+      "2022-10-29, 09:36:25",
+      "https://news.ycombinator.com/item?id=33382462"
+    ],
+    [
+      "“Latour for Architects” Is Now Open Access",
+      "https://www.taylorfrancis.com/books/oa-mono/10.4324/9780429328510/latour-architects-albena-yaneva"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 06:34:59",
       "https://news.ycombinator.com/item?id=33381571"
     ],
     [
       "Protobuf-ES – Implementation of Protocol Buffers for TypeScript and JavaScript",
       "https://buf.build/blog/protobuf-es-the-protocol-buffers-typescript-javascript-runtime-we-all-deserve"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 05:01:48",
+      "https://news.ycombinator.com/item?id=33381130"
+    ],
+    [
+      "The sisters who pioneered the historical novel",
+      "https://www.smithsonianmag.com/history/the-forgotten-sisters-who-pioneered-the-historical-novel-180980730/"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 23:02:28",
+      "https://news.ycombinator.com/item?id=33379079"
+    ],
+    [
+      "Untangling Lifetimes: The Arena Allocator",
+      "https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-10-28, 12:12:16",
-      "https://news.ycombinator.com/item?id=33370397"
-    ],
-    [
-      "Traces of ancient ocean discovered on Mars",
-      "https://phys.org/news/2022-10-ancient-ocean-mars.html"
-    ]
-  ],
-  [
-    [
       "2022-10-28, 11:37:04",
       "https://news.ycombinator.com/item?id=33370104"
     ],
     [
       "The paper that keeps showing up",
       "https://cronokirby.com/posts/2022/08/the-paper-that-keeps-showing-up/"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 05:41:58",
-      "https://news.ycombinator.com/item?id=33368076"
-    ],
-    [
-      "The Tesla Cyberquad for kids has been recalled for not meeting safety standards",
-      "https://www.theverge.com/2022/10/27/23426752/tesla-cyberquad-toy-atv-recall-radio-flyer"
     ]
   ]
 ]
