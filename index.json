@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-10-31, 19:28:13",
+      "https://news.ycombinator.com/item?id=33411425"
+    ],
+    [
+      "More Than a Third of US Small Businesses Couldn’t Pay All Their Rent in October",
+      "https://www.bloomberg.com/news/articles/2022-10-31/us-small-business-rent-delinquency-rates-rise-sharply-in-october"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 18:45:43",
       "https://news.ycombinator.com/item?id=33410660"
     ],
     [
       "Retargetable Compiler for the P4 Language",
       "https://github.com/P4ELTE/t4p4s"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 18:43:17",
+      "https://news.ycombinator.com/item?id=33410609"
+    ],
+    [
+      "The McMurdo Wastewater Treatment Plant",
+      "https://brr.fyi/posts/wastewater-plant"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33409626"
     ],
     [
-      "NYC to Require Salary Ranges Be Included in Job Postings",
+      "NYC to require salary ranges be included in job postings",
       "https://www.nytimes.com/2022/10/28/nyregion/nyc-salary-transparency-job-postings.html"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33409558"
     ],
     [
-      "Apple ExtensionKit",
+      "ExtensionKit",
       "https://developer.apple.com/documentation/extensionkit"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33409537"
     ],
     [
-      "HAProxy (Load Balancer) Architecture Guide",
+      "HAProxy (Load Balancer) Architecture Guide (2008)",
       "https://www.haproxy.org/download/1.2/doc/architecture.txt"
     ]
   ],
@@ -75,28 +95,8 @@
       "https://news.ycombinator.com/item?id=33409137"
     ],
     [
-      "‘There Are Only Five Media Stories’",
+      "There are only five media stories",
       "https://fallows.substack.com/p/there-are-only-five-media-stories"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 17:16:28",
-      "https://news.ycombinator.com/item?id=33409075"
-    ],
-    [
-      "GNU Make 4.4 released",
-      "https://lwn.net/Articles/913253/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 16:59:57",
-      "https://news.ycombinator.com/item?id=33408765"
-    ],
-    [
-      "Sergei Diaghilev and the Ballets Russes revolutionized dance",
-      "https://lithub.com/how-sergei-diaghilev-and-the-ballets-russes-revolutionized-dance/"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33407199"
     ],
     [
-      "Replit's In-Browser Coding AI",
+      "Replit's in-browser coding AI",
       "https://replit.com/site/ghostwriter"
     ]
   ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-10-29, 15:09:10",
-      "https://news.ycombinator.com/item?id=33384684"
-    ],
-    [
-      "Hubble telescope peeks through 'cosmic keyhole' in photo",
-      "https://www.space.com/hubble-cosmic-keyhole-stellar-nursery"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 11:30:52",
       "https://news.ycombinator.com/item?id=33383095"
     ],
@@ -287,6 +277,16 @@
     [
       "Protobuf-ES: Protocol Buffers TypeScript/JavaScript runtime",
       "https://buf.build/blog/protobuf-es-the-protocol-buffers-typescript-javascript-runtime-we-all-deserve"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 05:55:22",
+      "https://news.ycombinator.com/item?id=33381373"
+    ],
+    [
+      "Elements of a Great Markup Language",
+      "https://matklad.github.io/2022/10/28/elements-of-a-great-markup-language.html"
     ]
   ],
   [
