@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-31, 04:37:36",
+      "https://news.ycombinator.com/item?id=33402131"
+    ],
+    [
+      "Using AI to compress audio files for quick and easy sharing",
+      "https://ai.facebook.com/blog/ai-powered-audio-compression-technique/"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 02:41:43",
       "https://news.ycombinator.com/item?id=33401480"
     ],
@@ -17,6 +27,16 @@
     [
       "SQLite – Partial Indexes",
       "https://www.sqlite.org/partialindex.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 01:34:14",
+      "https://news.ycombinator.com/item?id=33401022"
+    ],
+    [
+      "Nocode: Write secure and reliable apps. Write nothing; deploy nowhere",
+      "https://github.com/kelseyhightower/nocode"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Star Trek (1964) [pdf]",
       "http://leethomson.myzen.co.uk/Star_Trek/1_Original_Series/Star_Trek_Pitch.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 22:29:24",
-      "https://news.ycombinator.com/item?id=33399632"
-    ],
-    [
-      "PwshPaint: A pixel art editor for the terminal in PowerShell",
-      "https://github.com/ShaunLawrie/PwshPaint"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-10-30, 18:15:18",
-      "https://news.ycombinator.com/item?id=33397060"
-    ],
-    [
-      "Reversible and irreversible decisions (2018)",
-      "https://fs.blog/reversible-irreversible-decisions/"
-    ]
-  ],
-  [
-    [
       "2022-10-30, 18:08:37",
       "https://news.ycombinator.com/item?id=33396982"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2022-10-30, 11:39:44",
-      "https://news.ycombinator.com/item?id=33393540"
+      "2022-10-28, 23:02:28",
+      "https://news.ycombinator.com/item?id=33379079"
     ],
     [
-      "Wiring my home with fiber",
-      "https://sschueller.github.io/posts/wiring-a-home-with-fiber/"
+      "Untangling Lifetimes: The Arena Allocator",
+      "https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator"
     ]
   ],
   [
