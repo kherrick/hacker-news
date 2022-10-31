@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-10-31, 08:43:40",
-      "https://news.ycombinator.com/item?id=33403335"
-    ],
-    [
-      "Do you have product market fit?",
-      "https://www.righttoleft.io/blog/do-you-really-have-product-market-fit"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 08:38:31",
       "https://news.ycombinator.com/item?id=33403305"
     ],
@@ -217,6 +207,16 @@
     [
       "Show HN: Generate quiz questions using AI",
       "https://quizgecko.com/"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 06:34:59",
+      "https://news.ycombinator.com/item?id=33381571"
+    ],
+    [
+      "Protobuf-ES – Implementation of Protocol Buffers for TypeScript and JavaScript",
+      "https://buf.build/blog/protobuf-es-the-protocol-buffers-typescript-javascript-runtime-we-all-deserve"
     ]
   ],
   [
