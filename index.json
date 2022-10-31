@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-31, 18:13:42",
+      "https://news.ycombinator.com/item?id=33410067"
+    ],
+    [
+      "Chime, a Go Editor for macOS – v2.0 Now Available",
+      "https://www.chimehq.com/blog/version-two"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 17:52:23",
+      "https://news.ycombinator.com/item?id=33409730"
+    ],
+    [
+      "Revamp of MDN Web Docs Contribution Docs",
+      "https://hacks.mozilla.org/2022/10/revamp-of-mdn-web-docs-contribution-docs/"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 17:45:59",
       "https://news.ycombinator.com/item?id=33409626"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2022-10-31, 15:53:59",
-      "https://news.ycombinator.com/item?id=33407579"
-    ],
-    [
-      "Electric scooter ban increased congestion by 10% in Atlanta",
-      "https://www.nature.com/articles/s41560-022-01135-1"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 15:52:04",
       "https://news.ycombinator.com/item?id=33407548"
     ],
@@ -107,16 +117,6 @@
     [
       "Replit's In-Browser Coding AI",
       "https://replit.com/site/ghostwriter"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 15:05:18",
-      "https://news.ycombinator.com/item?id=33406790"
-    ],
-    [
-      "I’m taking some time away from comma",
-      "https://geohot.github.io//blog/jekyll/update/2022/10/29/the-heroes-journey.html"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2022-10-31, 13:26:34",
+      "https://news.ycombinator.com/item?id=33405389"
+    ],
+    [
+      "U.S. workers have gotten less productive – no one is sure why",
+      "https://www.washingtonpost.com/business/2022/10/31/productivity-down-employers-worried-recession/"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 12:02:14",
       "https://news.ycombinator.com/item?id=33404596"
     ],
@@ -197,16 +207,6 @@
     [
       "New York could become first state with a ‘Right to Repair’ law",
       "https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-become-first-state-with-a--right-to-repair--law"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 08:24:22",
-      "https://news.ycombinator.com/item?id=33403233"
-    ],
-    [
-      "Wikipedians question Wikimedia fundraising ethics after “somewhat-viral” tweet",
-      "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2022-10-31/News_and_notes"
     ]
   ],
   [
@@ -285,18 +285,18 @@
       "https://news.ycombinator.com/item?id=33381571"
     ],
     [
-      "Protobuf-ES – Implementation of Protocol Buffers for TypeScript and JavaScript",
+      "Protobuf-ES: Protocol Buffers TypeScript/JavaScript runtime",
       "https://buf.build/blog/protobuf-es-the-protocol-buffers-typescript-javascript-runtime-we-all-deserve"
     ]
   ],
   [
     [
-      "2022-10-28, 11:37:04",
-      "https://news.ycombinator.com/item?id=33370104"
+      "2022-10-28, 07:19:56",
+      "https://news.ycombinator.com/item?id=33368570"
     ],
     [
-      "The paper that keeps showing up",
-      "https://cronokirby.com/posts/2022/08/the-paper-that-keeps-showing-up/"
+      "The Fallacy of Premature Optimization (2009)",
+      "https://ubiquity.acm.org/article.cfm?id=1513451"
     ]
   ]
 ]
