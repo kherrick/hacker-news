@@ -1,22 +1,42 @@
 [
   [
     [
-      "2022-10-30, 23:34:12",
-      "https://news.ycombinator.com/item?id=33400192"
+      "2022-10-31, 02:41:43",
+      "https://news.ycombinator.com/item?id=33401480"
     ],
     [
-      "English Sparkling Wines Challenge the Supremacy of Champagne, via Climate Change",
-      "https://www.smithsonianmag.com/science-nature/english-sparkling-wines-challenge-supremacy-champagne-francethanks-climate-change-180974057/"
+      "Ousterhout: It's time to replace TCP in the Datacenter [pdf]",
+      "https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf"
     ]
   ],
   [
     [
-      "2022-10-30, 23:01:21",
-      "https://news.ycombinator.com/item?id=33399940"
+      "2022-10-31, 02:29:11",
+      "https://news.ycombinator.com/item?id=33401404"
     ],
     [
-      "Google set to deprecate JPEG XL support in Chrome 110",
-      "https://chromium-review.googlesource.com/c/chromium/src/+/3988999"
+      "SQLite – Partial Indexes",
+      "https://www.sqlite.org/partialindex.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 01:02:32",
+      "https://news.ycombinator.com/item?id=33400822"
+    ],
+    [
+      "Solarized",
+      "https://ethanschoonover.com/solarized/"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 00:46:54",
+      "https://news.ycombinator.com/item?id=33400726"
+    ],
+    [
+      "Why Is Symmetry So Important in Particle Physics?",
+      "https://mfaizan.github.io/2022/10/02/symmetry.html"
     ]
   ],
   [
@@ -151,26 +171,6 @@
   ],
   [
     [
-      "2022-10-30, 18:14:51",
-      "https://news.ycombinator.com/item?id=33397054"
-    ],
-    [
-      "Optimizing images with the HTML &lt;picture&gt; tag",
-      "https://jfhr.me/optimizing-images-with-the-html-picture-tag/"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 18:09:07",
-      "https://news.ycombinator.com/item?id=33396988"
-    ],
-    [
-      "Decoding INTEGRAL",
-      "https://destevez.net/2022/10/decoding-integral/"
-    ]
-  ],
-  [
-    [
       "2022-10-30, 18:08:37",
       "https://news.ycombinator.com/item?id=33396982"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-10-29, 13:32:02",
-      "https://news.ycombinator.com/item?id=33383881"
-    ],
-    [
-      "What Is the Essence of Computing? (2017)",
-      "http://www.erasmatazz.com/library/c839b0d2d6b6417787b1/what-is-the-essence-of.html"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 04:07:47",
       "https://news.ycombinator.com/item?id=33380877"
     ],
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2022-10-28, 22:10:44",
-      "https://news.ycombinator.com/item?id=33378616"
+      "2022-10-28, 22:56:54",
+      "https://news.ycombinator.com/item?id=33379021"
     ],
     [
-      "Powerline Adapters – the security threat (2020)",
-      "https://community.spiceworks.com/topic/2251762-powerline-adapters-the-security-threat"
+      "The Windows servers that have been fueling DDoSes for months",
+      "https://arstechnica.com/information-technology/2022/10/researchers-id-12k-microsoft-servers-that-are-a-ddosers-best-friend/"
     ]
   ],
   [
     [
-      "2022-10-28, 12:19:22",
-      "https://news.ycombinator.com/item?id=33370467"
+      "2022-10-28, 12:12:16",
+      "https://news.ycombinator.com/item?id=33370397"
     ],
     [
-      "Novelty Automation",
-      "https://www.novelty-automation.com/"
+      "Traces of ancient ocean discovered on Mars",
+      "https://phys.org/news/2022-10-ancient-ocean-mars.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 09:43:04",
+      "https://news.ycombinator.com/item?id=33369432"
+    ],
+    [
+      "Poison Book Project",
+      "http://wiki.winterthur.org/wiki/Poison_Book_Project"
     ]
   ],
   [
