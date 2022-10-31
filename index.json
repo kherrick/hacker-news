@@ -15,28 +15,8 @@
       "https://news.ycombinator.com/item?id=33401480"
     ],
     [
-      "Ousterhout: It's time to replace TCP in the Datacenter [pdf]",
+      "We need a replacement for TCP in the datacenter [pdf]",
       "https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 02:29:11",
-      "https://news.ycombinator.com/item?id=33401404"
-    ],
-    [
-      "SQLite – Partial Indexes",
-      "https://www.sqlite.org/partialindex.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 01:34:14",
-      "https://news.ycombinator.com/item?id=33401022"
-    ],
-    [
-      "Nocode: Write secure and reliable apps. Write nothing; deploy nowhere",
-      "https://github.com/kelseyhightower/nocode"
     ]
   ],
   [
@@ -55,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33400726"
     ],
     [
-      "Why Is Symmetry So Important in Particle Physics?",
+      "Why is symmetry so important in particle physics?",
       "https://mfaizan.github.io/2022/10/02/symmetry.html"
     ]
   ],
@@ -77,6 +57,16 @@
     [
       "Star Trek (1964) [pdf]",
       "http://leethomson.myzen.co.uk/Star_Trek/1_Original_Series/Star_Trek_Pitch.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-30, 22:29:24",
+      "https://news.ycombinator.com/item?id=33399632"
+    ],
+    [
+      "PwshPaint: A pixel art editor for the terminal in PowerShell",
+      "https://github.com/ShaunLawrie/PwshPaint"
     ]
   ],
   [
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2022-10-30, 18:15:18",
+      "https://news.ycombinator.com/item?id=33397060"
+    ],
+    [
+      "Reversible and irreversible decisions (2018)",
+      "https://fs.blog/reversible-irreversible-decisions/"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 18:08:37",
       "https://news.ycombinator.com/item?id=33396982"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2022-10-30, 11:39:44",
+      "https://news.ycombinator.com/item?id=33393540"
+    ],
+    [
+      "Wiring my home with fiber",
+      "https://sschueller.github.io/posts/wiring-a-home-with-fiber/"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 23:02:28",
       "https://news.ycombinator.com/item?id=33379079"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33378547"
     ],
     [
-      "Reminiscing: The Retreat to Comforting Work",
+      "Reminiscing: The retreat to comforting work",
       "https://lethain.com/reminiscing/"
     ]
   ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=33370104"
     ],
     [
-      "The Paper That Keeps Showing Up",
+      "The paper that keeps showing up",
       "https://cronokirby.com/posts/2022/08/the-paper-that-keeps-showing-up/"
     ]
   ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2022-10-27, 18:13:54",
-      "https://news.ycombinator.com/item?id=33361630"
+      "2022-10-28, 08:07:01",
+      "https://news.ycombinator.com/item?id=33368852"
     ],
     [
-      "FAA Traffic Flow Management Design Challenge",
-      "https://faa-tfm-aid.nianet.org/challenge-details/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 03:18:51",
-      "https://news.ycombinator.com/item?id=33352668"
-    ],
-    [
-      "The Essential Philip K. Dick",
-      "https://www.nytimes.com/2022/10/26/books/best-philip-k-dick-novels.html"
+      "Hakmem (1972)",
+      "https://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html"
     ]
   ]
 ]
