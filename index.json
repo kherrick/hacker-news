@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-31, 17:45:59",
+      "https://news.ycombinator.com/item?id=33409626"
+    ],
+    [
+      "NYC to Require Salary Ranges Be Included in Job Postings",
+      "https://www.nytimes.com/2022/10/28/nyregion/nyc-salary-transparency-job-postings.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 17:42:29",
+      "https://news.ycombinator.com/item?id=33409558"
+    ],
+    [
+      "Apple ExtensionKit",
+      "https://developer.apple.com/documentation/extensionkit"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 17:19:58",
       "https://news.ycombinator.com/item?id=33409137"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33408332"
     ],
     [
-      "Why Mathematicians Study Knots",
+      "Why mathematicians study knots",
       "https://www.quantamagazine.org/why-mathematicians-study-knots-20221031/"
     ]
   ],
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2022-10-31, 15:52:04",
+      "https://news.ycombinator.com/item?id=33407548"
+    ],
+    [
+      "Leaked documents outline DHS’s plans to police disinformation",
+      "https://theintercept.com/2022/10/31/social-media-disinformation-dhs/"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 15:29:58",
       "https://news.ycombinator.com/item?id=33407199"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2022-10-31, 14:20:31",
-      "https://news.ycombinator.com/item?id=33406069"
-    ],
-    [
-      "Nord – An Arctic, north-bluish color palette",
-      "https://www.nordtheme.com"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 14:18:00",
       "https://news.ycombinator.com/item?id=33406027"
     ],
@@ -127,6 +147,16 @@
     [
       "Remix web framework aquired by Shopify",
       "https://remix.run/blog/remixing-shopify"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 13:59:26",
+      "https://news.ycombinator.com/item?id=33405772"
+    ],
+    [
+      "Musk’s inner circle worked through weekend to cement Twitter layoff plans",
+      "https://www.washingtonpost.com/technology/2022/10/31/elon-musk-twitter-layoffs/"
     ]
   ],
   [
@@ -221,26 +251,6 @@
   ],
   [
     [
-      "2022-10-31, 04:37:36",
-      "https://news.ycombinator.com/item?id=33402131"
-    ],
-    [
-      "Using AI to compress audio files for quick and easy sharing",
-      "https://ai.facebook.com/blog/ai-powered-audio-compression-technique/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 02:41:43",
-      "https://news.ycombinator.com/item?id=33401480"
-    ],
-    [
-      "We need a replacement for TCP in the datacenter [pdf]",
-      "https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 15:15:35",
       "https://news.ycombinator.com/item?id=33384753"
     ],
@@ -277,16 +287,6 @@
     [
       "Protobuf-ES – Implementation of Protocol Buffers for TypeScript and JavaScript",
       "https://buf.build/blog/protobuf-es-the-protocol-buffers-typescript-javascript-runtime-we-all-deserve"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 22:03:55",
-      "https://news.ycombinator.com/item?id=33378547"
-    ],
-    [
-      "Reminiscing: The retreat to comforting work",
-      "https://lethain.com/reminiscing/"
     ]
   ],
   [
