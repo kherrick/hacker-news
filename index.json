@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-10-31, 16:46:16",
-      "https://news.ycombinator.com/item?id=33408497"
+      "2022-10-31, 17:19:58",
+      "https://news.ycombinator.com/item?id=33409137"
     ],
     [
-      "By the time new hires today are ready to retire, US debt to GDP could be at 185%",
-      "https://www.morganstanley.com/ideas/thoughts-on-the-market-rates"
+      "‘There Are Only Five Media Stories’",
+      "https://fallows.substack.com/p/there-are-only-five-media-stories"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 17:16:28",
+      "https://news.ycombinator.com/item?id=33409075"
+    ],
+    [
+      "GNU Make 4.4 released",
+      "https://lwn.net/Articles/913253/"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 16:59:57",
+      "https://news.ycombinator.com/item?id=33408765"
+    ],
+    [
+      "Sergei Diaghilev and the Ballets Russes revolutionized dance",
+      "https://lithub.com/how-sergei-diaghilev-and-the-ballets-russes-revolutionized-dance/"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 16:37:47",
+      "https://news.ycombinator.com/item?id=33408332"
+    ],
+    [
+      "Why Mathematicians Study Knots",
+      "https://www.quantamagazine.org/why-mathematicians-study-knots-20221031/"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33406790"
     ],
     [
-      "George Hotz is leaving Comma.ai",
+      "I’m taking some time away from comma",
       "https://geohot.github.io//blog/jekyll/update/2022/10/29/the-heroes-journey.html"
     ]
   ],
@@ -97,16 +127,6 @@
     [
       "Remix web framework aquired by Shopify",
       "https://remix.run/blog/remixing-shopify"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 12:11:06",
-      "https://news.ycombinator.com/item?id=33404658"
-    ],
-    [
-      "The Perl Foundation will now be known as The Perl and Raku Foundation",
-      "https://news.perlfoundation.org/post/announcements"
     ]
   ],
   [
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2022-10-30, 18:09:07",
-      "https://news.ycombinator.com/item?id=33396988"
+      "2022-10-29, 15:15:35",
+      "https://news.ycombinator.com/item?id=33384753"
     ],
     [
-      "Decoding INTEGRAL",
-      "https://destevez.net/2022/10/decoding-integral/"
+      "For its big comeback, Intel needs to spend money, and it's making less and less",
+      "https://www.theregister.com/2022/10/29/intel_dilemma/"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Protobuf-ES – Implementation of Protocol Buffers for TypeScript and JavaScript",
       "https://buf.build/blog/protobuf-es-the-protocol-buffers-typescript-javascript-runtime-we-all-deserve"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 05:01:48",
-      "https://news.ycombinator.com/item?id=33381130"
-    ],
-    [
-      "The sisters who pioneered the historical novel",
-      "https://www.smithsonianmag.com/history/the-forgotten-sisters-who-pioneered-the-historical-novel-180980730/"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 23:02:28",
-      "https://news.ycombinator.com/item?id=33379079"
-    ],
-    [
-      "Untangling Lifetimes: The Arena Allocator",
-      "https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator"
     ]
   ],
   [
