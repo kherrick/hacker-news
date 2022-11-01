@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-01, 17:01:04",
+      "https://news.ycombinator.com/item?id=33423941"
+    ],
+    [
+      "EasyPost (YC S13) Is Hiring",
+      "https://www.easypost.com/careers"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 16:49:54",
+      "https://news.ycombinator.com/item?id=33423759"
+    ],
+    [
+      "Launch HN: SimpleHash (YC W22) – API to query digital assets",
+      "https://news.ycombinator.com/item?id=33423759"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 16:28:19",
+      "https://news.ycombinator.com/item?id=33423474"
+    ],
+    [
+      "Applied Category Theory in Chemistry, Computing, and Social Networks [pdf]",
+      "https://www.ams.org/journals/notices/202202/rnoti-p292.pdf"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 16:14:03",
       "https://news.ycombinator.com/item?id=33423271"
     ],
@@ -37,6 +67,16 @@
     [
       "OpenSSL 3.0.7 Published",
       "https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 15:41:34",
+      "https://news.ycombinator.com/item?id=33422717"
+    ],
+    [
+      "Minimax: A Compressed-First, Microcoded RISC-V CPU",
+      "https://github.com/gsmecher/minimax"
     ]
   ],
   [
@@ -111,32 +151,12 @@
   ],
   [
     [
-      "2022-11-01, 13:18:32",
-      "https://news.ycombinator.com/item?id=33420774"
-    ],
-    [
-      "Backblaze Drive Stats for Q3 2022",
-      "https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2022/"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 13:13:58",
       "https://news.ycombinator.com/item?id=33420717"
     ],
     [
       "We handled a recent phishing incident that targeted Dropbox",
       "https://dropbox.tech/security/a-recent-phishing-campaign-targeting-dropbox"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 13:03:02",
-      "https://news.ycombinator.com/item?id=33420583"
-    ],
-    [
-      "Tell HN: Royal Mail Data Breach",
-      "https://news.ycombinator.com/item?id=33420583"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Bring Your Own Password Manager: Portable BitWarden on a Pi Zero",
       "https://novamostra.com/2022/10/23/byopm/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 12:00:42",
-      "https://news.ycombinator.com/item?id=33420039"
-    ],
-    [
-      "Meticulous (YC S21) Is Hiring #3 Founding Engineer in London",
-      "https://news.ycombinator.com/item?id=33420039"
     ]
   ],
   [
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2022-11-01, 01:27:55",
-      "https://news.ycombinator.com/item?id=33415839"
+      "2022-10-29, 14:37:59",
+      "https://news.ycombinator.com/item?id=33384389"
     ],
     [
-      "Chip design shifts as fundamental laws run out of steam",
-      "https://semiengineering.com/chip-design-shifts-as-fundamental-laws-run-out-of-steam/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 17:20:54",
-      "https://news.ycombinator.com/item?id=33409159"
-    ],
-    [
-      "Racketscript",
-      "http://racketscript.org/"
+      "How to Escape Scientific Stagnation",
+      "https://www.economist.com/finance-and-economics/2022/10/26/how-to-escape-scientific-stagnation"
     ]
   ],
   [
