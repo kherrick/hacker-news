@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-11-01, 20:25:53",
+      "https://news.ycombinator.com/item?id=33427004"
+    ],
+    [
+      "Facebook has a hidden tool to delete your phone number, email",
+      "https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 20:18:03",
       "https://news.ycombinator.com/item?id=33426897"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2022-11-01, 17:58:42",
+      "https://news.ycombinator.com/item?id=33424857"
+    ],
+    [
+      "Associations between alcohol consumption and gray and white matter volumes",
+      "https://www.nature.com/articles/s41467-022-28735-5"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 17:42:42",
       "https://news.ycombinator.com/item?id=33424607"
     ],
@@ -127,16 +147,6 @@
     [
       "Show HN: Wrote a tiny WebAssembly (wat2wasm) compiler in Go",
       "https://github.com/thomscoder/luna"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 17:24:47",
-      "https://news.ycombinator.com/item?id=33424299"
-    ],
-    [
-      "Show HN: Docker in the browser using x86-to-WASM recompilation",
-      "http://copy.sh/v86/?profile=archlinux&c=cat%20docker.sh;./docker.sh"
     ]
   ],
   [
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=33423706"
     ],
     [
-      "Potluck: Dynamic Documents as Personal Software",
+      "Potluck: Dynamic documents as personal software",
       "https://www.inkandswitch.com/potluck/"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Android Studio’s “Code contains easter egg” inspection (2019)",
       "https://wh0.github.io/2019/11/16/easter-egg-inspection.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 11:05:27",
-      "https://news.ycombinator.com/item?id=33419539"
-    ],
-    [
-      "Fuzzy Metaballs: Approximate Differentiable Rendering with Algebraic Surfaces",
-      "https://leonidk.github.io/fuzzy-metaballs/"
     ]
   ],
   [
