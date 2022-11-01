@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-11-01, 03:15:40",
+      "https://news.ycombinator.com/item?id=33416498"
+    ],
+    [
+      "Ask HN: What social media site could replace Twitter?",
+      "https://news.ycombinator.com/item?id=33416498"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 02:09:23",
+      "https://news.ycombinator.com/item?id=33416091"
+    ],
+    [
+      "Road to Artificial General Intelligence",
+      "https://maraoz.com/2022/10/31/agi-roadmap/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 02:01:20",
+      "https://news.ycombinator.com/item?id=33416026"
+    ],
+    [
+      "The mysterious Viking runes found in a landlocked US state",
+      "https://www.bbc.com/travel/article/20221030-the-mysterious-viking-runes-found-in-a-landlocked-us-state"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 01:27:55",
       "https://news.ycombinator.com/item?id=33415839"
     ],
     [
       "Chip Design Shifts as Fundamental Laws Run Out of Steam",
       "https://semiengineering.com/chip-design-shifts-as-fundamental-laws-run-out-of-steam/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 01:20:52",
+      "https://news.ycombinator.com/item?id=33415796"
+    ],
+    [
+      "US judge blocks $2.2B Penguin Random House merger",
+      "https://www.theguardian.com/books/2022/oct/31/penguin-random-house-simon-schuster-merger-blocked"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2022-10-31, 16:59:57",
-      "https://news.ycombinator.com/item?id=33408765"
-    ],
-    [
-      "How Sergei Diaghilev and the Ballets Russes revolutionized dance",
-      "https://lithub.com/how-sergei-diaghilev-and-the-ballets-russes-revolutionized-dance/"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 16:58:08",
       "https://news.ycombinator.com/item?id=33408735"
     ],
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2022-10-31, 16:11:30",
-      "https://news.ycombinator.com/item?id=33407830"
-    ],
-    [
-      "Show HN: A small, weird and unpractical programming language",
-      "https://github.com/japiirainen/fp"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 15:29:58",
       "https://news.ycombinator.com/item?id=33407199"
     ],
     [
       "Replit's in-browser coding AI",
       "https://replit.com/site/ghostwriter"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 14:43:04",
-      "https://news.ycombinator.com/item?id=33406431"
-    ],
-    [
-      "Mailbag: Sausage Men",
-      "https://garry.blog/mailbag-sausage-men/"
     ]
   ],
   [
@@ -231,42 +241,12 @@
   ],
   [
     [
-      "2022-10-29, 13:38:01",
-      "https://news.ycombinator.com/item?id=33383938"
-    ],
-    [
-      "AI isn’t choosing our artistic future, we are",
-      "https://thebulletin.org/2022/10/ai-isnt-choosing-our-artistic-future-we-are/"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 12:42:49",
-      "https://news.ycombinator.com/item?id=33383555"
-    ],
-    [
-      "We Don't Understand Computers (2017)",
-      "http://www.erasmatazz.com/library/c839b0d2d6b6417787b1/why-we-dont-understand.html"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 11:30:52",
       "https://news.ycombinator.com/item?id=33383095"
     ],
     [
       "Mkcert: Simple zero-config tool to make locally trusted development certificates",
       "https://github.com/FiloSottile/mkcert"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 07:44:30",
-      "https://news.ycombinator.com/item?id=33381922"
-    ],
-    [
-      "The Subway That Sunk",
-      "https://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2022-10-29, 03:58:47",
+      "https://news.ycombinator.com/item?id=33380835"
+    ],
+    [
+      "Joan Didion’s Life in Objects",
+      "https://www.nytimes.com/interactive/2022/10/28/realestate/joan-didion-estate-sale.html"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 22:26:09",
       "https://news.ycombinator.com/item?id=33378766"
     ],
     [
       "Explaining machine learning pitfalls to managers (2019)",
       "https://gudok.xyz/mlp/"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 22:03:31",
+      "https://news.ycombinator.com/item?id=33378540"
+    ],
+    [
+      "My take on why goal cascades are harmful and what to do instead",
+      "https://jchyip.medium.com/my-take-on-why-goal-cascades-are-harmful-and-what-to-do-instead-e9ebadd44d4a"
     ]
   ],
   [
