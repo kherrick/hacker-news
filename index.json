@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-11-01, 21:45:27",
-      "https://news.ycombinator.com/item?id=33427995"
-    ],
-    [
-      "Status vs. Wealth: Why the Rich Don't Act Rich",
-      "https://www.wealest.com/articles/status-vs-wealth"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 21:09:45",
       "https://news.ycombinator.com/item?id=33427503"
     ],
@@ -27,6 +17,16 @@
     [
       "Cache Associativity",
       "https://en.algorithmica.org/hpc/cpu-cache/associativity/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 20:50:32",
+      "https://news.ycombinator.com/item?id=33427300"
+    ],
+    [
+      "Tcl is faster than Python for database benchmarking",
+      "https://www.hammerdb.com/blog/uncategorized/why-tcl-is-700-faster-than-python-for-database-benchmarking/"
     ]
   ],
   [
