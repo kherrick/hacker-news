@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-01, 17:48:24",
+      "https://news.ycombinator.com/item?id=33424707"
+    ],
+    [
+      "Twitter Blue for $8/month. Price adjusted to purchasing power parity",
+      "https://twitter.com/elonmusk/status/1587498907336118274"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 17:42:42",
+      "https://news.ycombinator.com/item?id=33424607"
+    ],
+    [
+      "Twitter Blue for $8/Month",
+      "https://twitter.com/elonmusk/status/1587500060853424129"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 17:27:31",
       "https://news.ycombinator.com/item?id=33424354"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-11-01, 14:34:08",
-      "https://news.ycombinator.com/item?id=33421751"
-    ],
-    [
-      "Rewind: The Search Engine for Your Life",
-      "https://www.rewind.ai"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 13:38:21",
       "https://news.ycombinator.com/item?id=33421049"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-11-01, 12:11:00",
-      "https://news.ycombinator.com/item?id=33420112"
-    ],
-    [
-      "More Instant Messaging Interoperability",
-      "https://datatracker.ietf.org/doc/bofreq-cooper-more-instant-messaging-interoperability/"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 12:07:35",
       "https://news.ycombinator.com/item?id=33420089"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=33419944"
     ],
     [
-      "Nushell: Introduction to a New Kind of Shell",
+      "Nushell: Introduction to a new kind of shell",
       "https://dataswamp.org/~solene/2022-10-31-nushell.html"
     ]
   ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-11-01, 04:38:35",
-      "https://news.ycombinator.com/item?id=33416989"
-    ],
-    [
-      "Is Turbopack 10x Faster than Vite?",
-      "https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 14:37:59",
       "https://news.ycombinator.com/item?id=33384389"
     ],
@@ -297,6 +287,16 @@
     [
       "How Institutions Game Benchmarks",
       "https://www.institutionalinvestor.com/article/b209xdwj87y87f/How-Institutions-Game-Benchmarks"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 22:25:06",
+      "https://news.ycombinator.com/item?id=33378758"
+    ],
+    [
+      "Cherry: ClojureScript to ES6 Compiler",
+      "https://github.com/squint-cljs/cherry"
     ]
   ]
 ]
