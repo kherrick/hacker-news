@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-01, 12:07:35",
+      "https://news.ycombinator.com/item?id=33420089"
+    ],
+    [
+      "Bring Your Own Password Manager: Portable BitWarden on a Pi Zero",
+      "https://novamostra.com/2022/10/23/byopm/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 12:00:42",
+      "https://news.ycombinator.com/item?id=33420039"
+    ],
+    [
+      "Meticulous (YC S21) Is Hiring #3 Founding Engineer in London",
+      "https://news.ycombinator.com/item?id=33420039"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 11:50:09",
+      "https://news.ycombinator.com/item?id=33419944"
+    ],
+    [
+      "Nushell: Introduction to a New Kind of Shell",
+      "https://dataswamp.org/~solene/2022-10-31-nushell.html"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 11:09:30",
       "https://news.ycombinator.com/item?id=33419574"
     ],
@@ -71,6 +101,16 @@
   ],
   [
     [
+      "2022-11-01, 08:07:01",
+      "https://news.ycombinator.com/item?id=33418284"
+    ],
+    [
+      "Facebook and Twitter have portals for the government to request takedowns",
+      "https://twitter.com/lhfang/status/1587104660355096576"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 07:38:39",
       "https://news.ycombinator.com/item?id=33418125"
     ],
@@ -115,7 +155,7 @@
       "https://news.ycombinator.com/item?id=33416898"
     ],
     [
-      "Is My Package Reproducible Yet?",
+      "Is my package reproducible yet?",
       "https://ismypackagereproducibleyet.org/"
     ]
   ],
@@ -131,21 +171,11 @@
   ],
   [
     [
-      "2022-11-01, 03:42:20",
-      "https://news.ycombinator.com/item?id=33416632"
-    ],
-    [
-      "Stable Diffusion resources (pile of links and up-to-date news)",
-      "https://rentry.co/sdupdates"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 03:34:41",
       "https://news.ycombinator.com/item?id=33416599"
     ],
     [
-      "Systemd 252 Released",
+      "Systemd 252",
       "https://github.com/systemd/systemd/releases/tag/v252"
     ]
   ],
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2022-10-31, 21:00:36",
-      "https://news.ycombinator.com/item?id=33413051"
-    ],
-    [
-      "Flexport (YC W14) Is Hiring Software Engineers",
-      "https://flexport.com/careers"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 20:46:02",
-      "https://news.ycombinator.com/item?id=33412792"
-    ],
-    [
-      "SMS Multifactor Authentication in Antarctica",
-      "https://brr.fyi/posts/sms-mfa"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 20:40:47",
       "https://news.ycombinator.com/item?id=33412702"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2022-10-29, 13:58:00",
-      "https://news.ycombinator.com/item?id=33384086"
-    ],
-    [
-      "I'm a phony. Are you? (2011)",
-      "https://www.hanselman.com/blog/im-a-phony-are-you"
-    ]
-  ],
-  [
-    [
       "2022-10-29, 12:48:58",
       "https://news.ycombinator.com/item?id=33383598"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-10-29, 09:18:34",
+      "https://news.ycombinator.com/item?id=33382376"
+    ],
+    [
+      "GPU-Accelerated Computing with Nanos Unikernels",
+      "https://nanovms.com/dev/tutorials/gpu-accelerated-computing-nanos-unikernels"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 06:25:10",
       "https://news.ycombinator.com/item?id=33381507"
     ],
     [
       "The strange business history of the Ouija board",
       "https://thehustle.co/the-strange-business-history-of-the-ouija-board/"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 22:30:36",
-      "https://news.ycombinator.com/item?id=33378801"
-    ],
-    [
-      "Nerve impulses converted to light for next-generation prosthetics",
-      "https://www.technologynetworks.com/neuroscience/news/nerve-impulses-converted-to-light-for-next-generation-prosthetics-367053"
     ]
   ]
 ]
