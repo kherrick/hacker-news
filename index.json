@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-01, 16:14:03",
+      "https://news.ycombinator.com/item?id=33423271"
+    ],
+    [
+      "CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows",
+      "https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 16:03:07",
+      "https://news.ycombinator.com/item?id=33423102"
+    ],
+    [
+      "One Million Database Connections",
+      "https://planetscale.com/blog/one-million-connections"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 15:57:29",
+      "https://news.ycombinator.com/item?id=33422990"
+    ],
+    [
+      "Invasive Diffusion: one unwilling illustrator found her turned into an AI model",
+      "https://waxy.org/2022/11/invasive-diffusion-how-one-unwilling-illustrator-found-herself-turned-into-an-ai-model/"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 15:49:02",
       "https://news.ycombinator.com/item?id=33422837"
     ],
@@ -27,16 +57,6 @@
     [
       "Ask HN: Who is hiring? (November 2022)",
       "https://news.ycombinator.com/item?id=33422129"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 15:00:43",
-      "https://news.ycombinator.com/item?id=33422128"
-    ],
-    [
-      "Ask HN: Freelancer? Seeking freelancer? (November 2022)",
-      "https://news.ycombinator.com/item?id=33422128"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-11-01, 11:09:30",
-      "https://news.ycombinator.com/item?id=33419574"
-    ],
-    [
-      "Ask HN: How would you design an alternative Twitter",
-      "https://news.ycombinator.com/item?id=33419574"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 11:05:27",
       "https://news.ycombinator.com/item?id=33419539"
     ],
@@ -257,16 +267,6 @@
     [
       "Chip design shifts as fundamental laws run out of steam",
       "https://semiengineering.com/chip-design-shifts-as-fundamental-laws-run-out-of-steam/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 20:40:47",
-      "https://news.ycombinator.com/item?id=33412702"
-    ],
-    [
-      "Nascar driver stuns to qualify for championship with GameCube move",
-      "https://www.nintendolife.com/news/2022/10/random-nascar-driver-stuns-to-qualify-for-championship-with-gamecube-move"
     ]
   ],
   [
