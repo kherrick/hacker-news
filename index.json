@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-11-01, 20:18:03",
+      "https://news.ycombinator.com/item?id=33426897"
+    ],
+    [
+      "Taking a Look at Mastodon",
+      "https://evertpot.com/hello-mastodon/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 20:16:58",
+      "https://news.ycombinator.com/item?id=33426879"
+    ],
+    [
+      "My First Piano: A Story of Hurt, Healing and Joy",
+      "https://www.jeromeleroy.com/complog-content/2022/10/31/my-first-piano-a-story-of-hurt-healing-and-joy"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 19:17:37",
       "https://news.ycombinator.com/item?id=33426041"
     ],
     [
-      "Why I Program in Erlang",
+      "Why I program in Erlang (2012)",
       "https://www.evanmiller.org/why-i-program-in-erlang.html"
     ]
   ],
@@ -41,21 +61,11 @@
   ],
   [
     [
-      "2022-11-01, 18:29:16",
-      "https://news.ycombinator.com/item?id=33425345"
-    ],
-    [
-      "Boeing Needs an Act of Congress or Something Worse to Get Max 7 and 10 Flying",
-      "https://crankyflier.com/2022/10/11/why-boeing-needs-an-act-of-congress-or-something-worse-to-get-the-max-7-and-10-aircraft-flying/"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 18:19:16",
       "https://news.ycombinator.com/item?id=33425182"
     ],
     [
-      "iPhone 14 Pro Camera Review: A Small Step, a Leap",
+      "iPhone 14 Pro camera review: A small step, a huge leap",
       "https://lux.camera/iphone-14-pro-camera-review-a-small-step-a-huge-leap/"
     ]
   ],
@@ -67,6 +77,16 @@
     [
       "Show HN: I made a volumetric audio visualizer",
       "https://a-sumo.github.io/hyperstep/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 17:42:42",
+      "https://news.ycombinator.com/item?id=33424607"
+    ],
+    [
+      "Twitter Blue for $8/Month",
+      "https://twitter.com/elonmusk/status/1587498907336118274"
     ]
   ],
   [
@@ -131,21 +151,11 @@
   ],
   [
     [
-      "2022-11-01, 16:03:07",
-      "https://news.ycombinator.com/item?id=33423102"
-    ],
-    [
-      "One Million Database Connections",
-      "https://planetscale.com/blog/one-million-connections"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 15:57:29",
       "https://news.ycombinator.com/item?id=33422990"
     ],
     [
-      "Invasive Diffusion: one unwilling illustrator found her turned into an AI model",
+      "An unwilling illustrator found herself turned into an AI model",
       "https://waxy.org/2022/11/invasive-diffusion-how-one-unwilling-illustrator-found-herself-turned-into-an-ai-model/"
     ]
   ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=33422581"
     ],
     [
-      "Centralization Is Inevitable",
+      "Centralization is inevitable, but decentralization is right behind it",
       "https://subconscious.substack.com/p/centralization-is-inevitable"
     ]
   ],
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2022-11-01, 15:00:42",
+      "https://news.ycombinator.com/item?id=33422127"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (November 2022)",
+      "https://news.ycombinator.com/item?id=33422127"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 13:25:19",
       "https://news.ycombinator.com/item?id=33420852"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2022-11-01, 13:13:58",
-      "https://news.ycombinator.com/item?id=33420717"
-    ],
-    [
-      "We handled a recent phishing incident that targeted Dropbox",
-      "https://dropbox.tech/security/a-recent-phishing-campaign-targeting-dropbox"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 12:24:02",
       "https://news.ycombinator.com/item?id=33420212"
     ],
     [
       "Android Studio’s “Code contains easter egg” inspection (2019)",
       "https://wh0.github.io/2019/11/16/easter-egg-inspection.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 11:50:09",
-      "https://news.ycombinator.com/item?id=33419944"
-    ],
-    [
-      "Nushell: Introduction to a new kind of shell",
-      "https://dataswamp.org/~solene/2022-10-31-nushell.html"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33418125"
     ],
     [
-      "Housing in Tokyo Is Far Cheaper and More Spacious Than You Think",
+      "Housing in Tokyo is cheaper and more spacious than people think",
       "https://www.konichivalue.com/p/real-estate-housing-in-tokyo-is-far"
     ]
   ],
