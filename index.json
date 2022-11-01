@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-01, 10:11:25",
+      "https://news.ycombinator.com/item?id=33419138"
+    ],
+    [
+      "ARM to prohibit proximity of CPU w 3rd-party modules in one chip",
+      "https://www.ryzencpu.com/2022/10/arm-will-prohibit-proximity-of-its-cpu.html"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 08:51:09",
       "https://news.ycombinator.com/item?id=33418564"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33418445"
     ],
     [
-      "Show HN: I made a collection of 60+ beautiful CSS checkboxes (click to copy)",
+      "CSS checkbox examples",
       "https://getcssscan.com/css-checkboxes-examples"
     ]
   ],
@@ -37,6 +47,16 @@
     [
       "Housing in Tokyo Is Far Cheaper and More Spacious Than You Think",
       "https://www.konichivalue.com/p/real-estate-housing-in-tokyo-is-far"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 07:23:39",
+      "https://news.ycombinator.com/item?id=33418044"
+    ],
+    [
+      "Attempting Linux on Microsoft Dev Kit 2023",
+      "https://blog.alexellis.io/linux-on-microsoft-dev-kit-2023/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-11-01, 01:20:52",
-      "https://news.ycombinator.com/item?id=33415796"
-    ],
-    [
-      "US judge blocks $2.2B Penguin Random House merger",
-      "https://www.theguardian.com/books/2022/oct/31/penguin-random-house-simon-schuster-merger-blocked"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 23:18:22",
       "https://news.ycombinator.com/item?id=33414722"
     ],
@@ -175,18 +185,8 @@
       "https://news.ycombinator.com/item?id=33413278"
     ],
     [
-      "Gross domestic product is a misleading measure of national success",
+      "Gross domestic product is a misleading measure of national success (2014)",
       "https://www.nature.com/articles/505283a"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 21:00:36",
-      "https://news.ycombinator.com/item?id=33413051"
-    ],
-    [
-      "Flexport (YC W14) Is Hiring Software Engineers",
-      "https://flexport.com/careers"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2022-10-31, 14:16:01",
-      "https://news.ycombinator.com/item?id=33405997"
+      "2022-10-31, 07:14:58",
+      "https://news.ycombinator.com/item?id=33402851"
     ],
     [
-      "Remix web framework aquired by Shopify",
-      "https://remix.run/blog/remixing-shopify"
+      "Escaping user input is ridonkulously hard",
+      "https://codeofhonor.substack.com/p/escaping-user-input-is-ridonkulously"
     ]
   ],
   [
