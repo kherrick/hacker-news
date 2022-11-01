@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-01, 01:27:55",
+      "https://news.ycombinator.com/item?id=33415839"
+    ],
+    [
+      "Chip Design Shifts as Fundamental Laws Run Out of Steam",
+      "https://semiengineering.com/chip-design-shifts-as-fundamental-laws-run-out-of-steam/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 00:28:28",
+      "https://news.ycombinator.com/item?id=33415371"
+    ],
+    [
+      "Turbopack Performance Benchmarks",
+      "https://turbo.build/blog/turbopack-benchmarks"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 23:18:22",
       "https://news.ycombinator.com/item?id=33414722"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33414565"
     ],
     [
-      "Why one web pioneer thinks it’s time to reinvent the browser",
+      "The Browser Company’s Darin Fisher thinks it’s time to reinvent the browser",
       "https://www.theverge.com/2022/10/31/23428862/arc-browser-web-company-darin-fisher"
     ]
   ],
@@ -37,26 +57,6 @@
     [
       "Nicheless is a micro-blogging platform for raw, unfiltered thoughts",
       "https://nicheless.blog/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 22:22:35",
-      "https://news.ycombinator.com/item?id=33414148"
-    ],
-    [
-      "Max/MSP Objects Database",
-      "http://maxobjects.com"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 21:41:50",
-      "https://news.ycombinator.com/item?id=33413647"
-    ],
-    [
-      "Python-FIDO2",
-      "https://developers.yubico.com/python-fido2/"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2022-10-31, 16:59:57",
+      "https://news.ycombinator.com/item?id=33408765"
+    ],
+    [
+      "How Sergei Diaghilev and the Ballets Russes revolutionized dance",
+      "https://lithub.com/how-sergei-diaghilev-and-the-ballets-russes-revolutionized-dance/"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 16:58:08",
       "https://news.ycombinator.com/item?id=33408735"
     ],
@@ -177,16 +187,6 @@
     [
       "Show HN: A small, weird and unpractical programming language",
       "https://github.com/japiirainen/fp"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 15:52:04",
-      "https://news.ycombinator.com/item?id=33407548"
-    ],
-    [
-      "Leaked documents outline DHS’s plans to police disinformation",
-      "https://theintercept.com/2022/10/31/social-media-disinformation-dhs/"
     ]
   ],
   [
@@ -221,22 +221,32 @@
   ],
   [
     [
-      "2022-10-31, 13:59:26",
-      "https://news.ycombinator.com/item?id=33405772"
-    ],
-    [
-      "Musk’s inner circle worked through weekend to cement Twitter layoff plans",
-      "https://www.washingtonpost.com/technology/2022/10/31/elon-musk-twitter-layoffs/"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 13:26:34",
       "https://news.ycombinator.com/item?id=33405389"
     ],
     [
       "U.S. workers have gotten less productive – no one is sure why",
       "https://www.washingtonpost.com/business/2022/10/31/productivity-down-employers-worried-recession/"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 13:38:01",
+      "https://news.ycombinator.com/item?id=33383938"
+    ],
+    [
+      "AI isn’t choosing our artistic future, we are",
+      "https://thebulletin.org/2022/10/ai-isnt-choosing-our-artistic-future-we-are/"
+    ]
+  ],
+  [
+    [
+      "2022-10-29, 12:42:49",
+      "https://news.ycombinator.com/item?id=33383555"
+    ],
+    [
+      "We Don't Understand Computers (2017)",
+      "http://www.erasmatazz.com/library/c839b0d2d6b6417787b1/why-we-dont-understand.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The Subway That Sunk",
       "https://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 06:34:59",
-      "https://news.ycombinator.com/item?id=33381571"
-    ],
-    [
-      "Protobuf-ES: Protocol Buffers TypeScript/JavaScript runtime",
-      "https://buf.build/blog/protobuf-es-the-protocol-buffers-typescript-javascript-runtime-we-all-deserve"
     ]
   ],
   [
