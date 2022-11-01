@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2022-11-01, 17:24:47",
+      "https://news.ycombinator.com/item?id=33424299"
+    ],
+    [
+      "Show HN: Docker in the browser using x86-to-WASM recompilation",
+      "http://copy.sh/v86/?profile=archlinux&c=cat%20docker.sh;./docker.sh"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 17:01:04",
       "https://news.ycombinator.com/item?id=33423941"
     ],
@@ -231,12 +241,32 @@
   ],
   [
     [
+      "2022-11-01, 13:13:58",
+      "https://news.ycombinator.com/item?id=33420717"
+    ],
+    [
+      "How we handled a recent phishing incident",
+      "https://dropbox.tech/security/a-recent-phishing-campaign-targeting-dropbox"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 12:24:02",
       "https://news.ycombinator.com/item?id=33420212"
     ],
     [
       "Android Studio’s “Code contains easter egg” inspection (2019)",
       "https://wh0.github.io/2019/11/16/easter-egg-inspection.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 11:50:09",
+      "https://news.ycombinator.com/item?id=33419944"
+    ],
+    [
+      "Nushell: Introduction to a new kind of shell",
+      "https://dataswamp.org/~solene/2022-10-31-nushell.html"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "Housing in Tokyo is cheaper and more spacious than people think",
       "https://www.konichivalue.com/p/real-estate-housing-in-tokyo-is-far"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 14:37:59",
-      "https://news.ycombinator.com/item?id=33384389"
-    ],
-    [
-      "How to Escape Scientific Stagnation",
-      "https://www.economist.com/finance-and-economics/2022/10/26/how-to-escape-scientific-stagnation"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 14:08:41",
-      "https://news.ycombinator.com/item?id=33384156"
-    ],
-    [
-      "The untold history of macOS System Preferences (2020)",
-      "https://arun.is/blog/system-preferences/"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 22:25:06",
-      "https://news.ycombinator.com/item?id=33378758"
-    ],
-    [
-      "Cherry: ClojureScript to ES6 Compiler",
-      "https://github.com/squint-cljs/cherry"
     ]
   ]
 ]
