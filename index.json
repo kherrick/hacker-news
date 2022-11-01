@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-11-01, 05:07:08",
+      "https://news.ycombinator.com/item?id=33417182"
+    ],
+    [
+      "Mozilla blog: Begin your MV3 migration by implementing new features today",
+      "https://blog.mozilla.org/addons/2022/10/31/begin-your-mv3-migration-by-implementing-new-features-today/"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 04:25:57",
       "https://news.ycombinator.com/item?id=33416898"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33416894"
     ],
     [
-      "I finally found an use case for my Raspberry Pi Model B+",
+      "I finally found a use case for my Raspberry Pi Model B+",
       "https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/"
     ]
   ],
@@ -41,32 +51,12 @@
   ],
   [
     [
-      "2022-11-01, 03:27:21",
-      "https://news.ycombinator.com/item?id=33416560"
-    ],
-    [
-      "Association of maternal caffeine consumption during pregnancy with child growth",
-      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797983"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 02:09:23",
       "https://news.ycombinator.com/item?id=33416091"
     ],
     [
       "Road to Artificial General Intelligence",
       "https://maraoz.com/2022/10/31/agi-roadmap/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 02:01:20",
-      "https://news.ycombinator.com/item?id=33416026"
-    ],
-    [
-      "The mysterious Viking runes found in a landlocked US state",
-      "https://www.bbc.com/travel/article/20221030-the-mysterious-viking-runes-found-in-a-landlocked-us-state"
     ]
   ],
   [
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33414722"
     ],
     [
-      "Caring for the only full kākāpō feather cloak in the world Show image caption",
+      "Caring for the only known full kākāpō feather cloak",
       "https://www.britishmuseum.org/blog/caring-only-known-full-kakapo-feather-cloak-world"
     ]
   ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33414338"
     ],
     [
-      "A configuration management system for pets, not cattle",
+      "A configuration management system for computers that are pets, not cattle",
       "https://github.com/ema/pets"
     ]
   ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33414157"
     ],
     [
-      "Nicheless is a micro-blogging platform for raw, unfiltered thoughts",
+      "Nicheless: a micro-blogging platform",
       "https://nicheless.blog/"
     ]
   ],
@@ -147,16 +137,6 @@
     [
       "Gross domestic product is a misleading measure of national success",
       "https://www.nature.com/articles/505283a"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 21:06:06",
-      "https://news.ycombinator.com/item?id=33413124"
-    ],
-    [
-      "Ask HN: What piece of code/codebase blew your mind when you saw it?",
-      "https://news.ycombinator.com/item?id=33413124"
     ]
   ],
   [
@@ -261,12 +241,12 @@
   ],
   [
     [
-      "2022-10-29, 11:30:52",
-      "https://news.ycombinator.com/item?id=33383095"
+      "2022-10-29, 09:18:34",
+      "https://news.ycombinator.com/item?id=33382376"
     ],
     [
-      "Mkcert: Simple zero-config tool to make locally trusted development certificates",
-      "https://github.com/FiloSottile/mkcert"
+      "GPU-Accelerated Computing with Nanos Unikernels",
+      "https://nanovms.com/dev/tutorials/gpu-accelerated-computing-nanos-unikernels"
     ]
   ],
   [
@@ -281,11 +261,31 @@
   ],
   [
     [
+      "2022-10-29, 03:58:47",
+      "https://news.ycombinator.com/item?id=33380835"
+    ],
+    [
+      "Joan Didion’s Life in Objects",
+      "https://www.nytimes.com/interactive/2022/10/28/realestate/joan-didion-estate-sale.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 22:26:09",
+      "https://news.ycombinator.com/item?id=33378766"
+    ],
+    [
+      "Explaining machine learning pitfalls to managers (2019)",
+      "https://gudok.xyz/mlp/"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 22:03:31",
       "https://news.ycombinator.com/item?id=33378540"
     ],
     [
-      "My take on why goal cascades are harmful and what to do instead",
+      "Why goal cascades are harmful and what to do instead",
       "https://jchyip.medium.com/my-take-on-why-goal-cascades-are-harmful-and-what-to-do-instead-e9ebadd44d4a"
     ]
   ],
