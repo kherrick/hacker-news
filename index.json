@@ -1,22 +1,32 @@
 [
   [
     [
-      "2022-11-01, 17:48:24",
-      "https://news.ycombinator.com/item?id=33424707"
+      "2022-11-01, 18:35:20",
+      "https://news.ycombinator.com/item?id=33425443"
     ],
     [
-      "Twitter Blue for $8/month. Price adjusted to purchasing power parity",
-      "https://twitter.com/elonmusk/status/1587498907336118274"
+      "Ask HN: `Contact Us` Pricing",
+      "https://news.ycombinator.com/item?id=33425443"
     ]
   ],
   [
     [
-      "2022-11-01, 17:42:42",
-      "https://news.ycombinator.com/item?id=33424607"
+      "2022-11-01, 18:19:16",
+      "https://news.ycombinator.com/item?id=33425182"
     ],
     [
-      "Twitter Blue for $8/Month",
-      "https://twitter.com/elonmusk/status/1587500060853424129"
+      "iPhone 14 Pro Camera Review: A Small Step, a Leap",
+      "https://lux.camera/iphone-14-pro-camera-review-a-small-step-a-huge-leap/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 18:18:01",
+      "https://news.ycombinator.com/item?id=33425159"
+    ],
+    [
+      "Show HN: I made a volumetric audio visualizer",
+      "https://a-sumo.github.io/hyperstep/"
     ]
   ],
   [
@@ -41,22 +51,22 @@
   ],
   [
     [
+      "2022-11-01, 17:18:30",
+      "https://news.ycombinator.com/item?id=33424200"
+    ],
+    [
+      "RNBO: Export Max-Like Patches to C++, WASM, VST, Max Externals & RPI",
+      "https://rnbo.cycling74.com/"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 17:01:04",
       "https://news.ycombinator.com/item?id=33423941"
     ],
     [
       "EasyPost (YC S13) Is Hiring",
       "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 16:57:58",
-      "https://news.ycombinator.com/item?id=33423895"
-    ],
-    [
-      "FCC commissioner says government should ban TikTok",
-      "https://www.axios.com/2022/11/01/interview-fcc-commissioner-says-government-should-ban-tiktok"
     ]
   ],
   [
@@ -71,11 +81,21 @@
   ],
   [
     [
+      "2022-11-01, 16:46:25",
+      "https://news.ycombinator.com/item?id=33423706"
+    ],
+    [
+      "Potluck: Dynamic Documents as Personal Software",
+      "https://www.inkandswitch.com/potluck/"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 16:28:19",
       "https://news.ycombinator.com/item?id=33423474"
     ],
     [
-      "Applied Category Theory in Chemistry, Computing, and Social Networks [pdf]",
+      "Applied category theory in chemistry, computing, and social networks [pdf]",
       "https://www.ams.org/journals/notices/202202/rnoti-p292.pdf"
     ]
   ],
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33422717"
     ],
     [
-      "Minimax: A Compressed-First, Microcoded RISC-V CPU",
+      "Show HN: Minimax – A Compressed-First, Microcoded RISC-V CPU",
       "https://github.com/gsmecher/minimax"
     ]
   ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-11-01, 12:07:35",
-      "https://news.ycombinator.com/item?id=33420089"
-    ],
-    [
-      "Bring Your Own Password Manager: Portable BitWarden on a Pi Zero",
-      "https://novamostra.com/2022/10/23/byopm/"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 11:50:09",
       "https://news.ycombinator.com/item?id=33419944"
     ],
@@ -237,16 +247,6 @@
     [
       "Diffoscope – In-depth comparison of files, archives, and directories",
       "https://diffoscope.org/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 10:11:25",
-      "https://news.ycombinator.com/item?id=33419138"
-    ],
-    [
-      "ARM to prohibit proximity of CPU w 3rd-party modules in one chip",
-      "https://www.ryzencpu.com/2022/10/arm-will-prohibit-proximity-of-its-cpu.html"
     ]
   ],
   [
