@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-01, 12:24:02",
+      "https://news.ycombinator.com/item?id=33420212"
+    ],
+    [
+      "Android Studio’s “Code contains easter egg” inspection (2019)",
+      "https://wh0.github.io/2019/11/16/easter-egg-inspection.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 12:11:00",
+      "https://news.ycombinator.com/item?id=33420112"
+    ],
+    [
+      "More Instant Messaging Interoperability",
+      "https://datatracker.ietf.org/doc/bofreq-cooper-more-instant-messaging-interoperability/"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 12:07:35",
       "https://news.ycombinator.com/item?id=33420089"
     ],
@@ -21,12 +41,32 @@
   ],
   [
     [
+      "2022-11-01, 12:00:04",
+      "https://news.ycombinator.com/item?id=33420033"
+    ],
+    [
+      "Ask HN: Getting a Lobster.s Invite in '22",
+      "https://news.ycombinator.com/item?id=33420033"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 11:50:09",
       "https://news.ycombinator.com/item?id=33419944"
     ],
     [
       "Nushell: Introduction to a New Kind of Shell",
       "https://dataswamp.org/~solene/2022-10-31-nushell.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 11:23:12",
+      "https://news.ycombinator.com/item?id=33419692"
+    ],
+    [
+      "For naturally introverted people, acting more extroverted can backfire",
+      "https://hbr.org/2022/10/stop-telling-introverts-to-act-like-extroverts"
     ]
   ],
   [
@@ -61,6 +101,16 @@
   ],
   [
     [
+      "2022-11-01, 10:34:16",
+      "https://news.ycombinator.com/item?id=33419285"
+    ],
+    [
+      "Show HN: I made an open-source code snippet manager",
+      "https://github.com/egoist/dropcode"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 10:11:25",
       "https://news.ycombinator.com/item?id=33419138"
     ],
@@ -87,26 +137,6 @@
     [
       "iCepa: iOS system-wide VPN based Tor client",
       "https://github.com/iCepa/iCepa"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 08:32:17",
-      "https://news.ycombinator.com/item?id=33418445"
-    ],
-    [
-      "CSS checkbox examples",
-      "https://getcssscan.com/css-checkboxes-examples"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 08:07:01",
-      "https://news.ycombinator.com/item?id=33418284"
-    ],
-    [
-      "Facebook and Twitter have portals for the government to request takedowns",
-      "https://twitter.com/lhfang/status/1587104660355096576"
     ]
   ],
   [
@@ -201,36 +231,6 @@
   ],
   [
     [
-      "2022-10-31, 22:23:31",
-      "https://news.ycombinator.com/item?id=33414157"
-    ],
-    [
-      "Nicheless: a micro-blogging platform",
-      "https://nicheless.blog/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 21:22:21",
-      "https://news.ycombinator.com/item?id=33413382"
-    ],
-    [
-      "I made outlines for KDE Breeze window decoration",
-      "https://www.akselmo.dev/2022/10/31/I-made-outlines-for-KDE-Breeze.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 21:14:36",
-      "https://news.ycombinator.com/item?id=33413278"
-    ],
-    [
-      "Gross domestic product is a misleading measure of national success (2014)",
-      "https://www.nature.com/articles/505283a"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 20:40:47",
       "https://news.ycombinator.com/item?id=33412702"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2022-10-29, 11:27:52",
+      "https://news.ycombinator.com/item?id=33383073"
+    ],
+    [
+      "Why Meta is tanking and how Zuckerberg can fix it",
+      "https://www.wired.com/story/plaintext-why-meta-is-tanking-and-how-zuckerberg-can-fix-it/"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 10:13:52",
       "https://news.ycombinator.com/item?id=33382660"
     ],
     [
       "Hypertext Gardens (1998)",
       "https://www.eastgate.com/garden/Enter.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 09:18:34",
-      "https://news.ycombinator.com/item?id=33382376"
-    ],
-    [
-      "GPU-Accelerated Computing with Nanos Unikernels",
-      "https://nanovms.com/dev/tutorials/gpu-accelerated-computing-nanos-unikernels"
     ]
   ],
   [
