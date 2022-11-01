@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-11-01, 21:09:45",
+      "https://news.ycombinator.com/item?id=33427503"
+    ],
+    [
+      "Auth0 Verifiable Credentials",
+      "https://verifiablecredentials.dev/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 20:55:06",
+      "https://news.ycombinator.com/item?id=33427349"
+    ],
+    [
+      "Cache Associativity",
+      "https://en.algorithmica.org/hpc/cpu-cache/associativity/"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 20:38:25",
       "https://news.ycombinator.com/item?id=33427157"
     ],
     [
-      "NASA Finds More Than 50 Super-Emitters of Methane",
+      "NASA finds super-emitters of methane",
       "https://www.smithsonianmag.com/smart-news/nasa-finds-more-than-50-super-emitters-of-methane-180981045/"
     ]
   ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33426879"
     ],
     [
-      "My First Piano: A Story of Hurt, Healing and Joy",
+      "My First Piano",
       "https://www.jeromeleroy.com/complog-content/2022/10/31/my-first-piano-a-story-of-hurt-healing-and-joy"
     ]
   ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2022-11-01, 13:13:58",
-      "https://news.ycombinator.com/item?id=33420717"
-    ],
-    [
-      "How we handled a recent phishing incident",
-      "https://dropbox.tech/security/a-recent-phishing-campaign-targeting-dropbox"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 12:24:02",
       "https://news.ycombinator.com/item?id=33420212"
     ],
     [
       "Android Studio’s “Code contains easter egg” inspection (2019)",
       "https://wh0.github.io/2019/11/16/easter-egg-inspection.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 11:50:09",
-      "https://news.ycombinator.com/item?id=33419944"
-    ],
-    [
-      "Nushell: Introduction to a new kind of shell",
-      "https://dataswamp.org/~solene/2022-10-31-nushell.html"
     ]
   ],
   [
