@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=33425443"
     ],
     [
-      "Ask HN: `Contact Us` Pricing",
+      "Ask HN: “Contact Us” Pricing",
       "https://news.ycombinator.com/item?id=33425443"
     ]
   ],
@@ -47,16 +47,6 @@
     [
       "Show HN: Docker in the browser using x86-to-WASM recompilation",
       "http://copy.sh/v86/?profile=archlinux&c=cat%20docker.sh;./docker.sh"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 17:18:30",
-      "https://news.ycombinator.com/item?id=33424200"
-    ],
-    [
-      "RNBO: Export Max-Like Patches to C++, WASM, VST, Max Externals & RPI",
-      "https://rnbo.cycling74.com/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Cherry: ClojureScript to ES6 Compiler",
       "https://github.com/squint-cljs/cherry"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 21:08:12",
+      "https://news.ycombinator.com/item?id=33377945"
+    ],
+    [
+      "Lost in the 20th Century by Albert_Szent-Györgyi",
+      "https://www.annualreviews.org/doi/abs/10.1146/annurev.bi.32.070163.000245"
     ]
   ]
 ]
