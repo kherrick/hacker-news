@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-02, 20:08:11",
+      "https://news.ycombinator.com/item?id=33442235"
+    ],
+    [
+      "Cree releases LEDs designed for horticulture",
+      "https://cree-led.com/news/photophyll-select/"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 17:49:05",
       "https://news.ycombinator.com/item?id=33440030"
     ],
@@ -27,16 +37,6 @@
     [
       "doom3do: DOOM for the 3DO",
       "https://github.com/Olde-Skuul/doom3do"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 17:35:33",
-      "https://news.ycombinator.com/item?id=33439799"
-    ],
-    [
-      "Grafana Faro: An open source project for front end application observability",
-      "https://grafana.com/blog/2022/11/02/introducing-grafana-faro-oss-application-observability/"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=33437911"
     ],
     [
-      "Seeking the Productive Life: Some Details of My Personal Infrastructure",
+      "Seeking the productive life: Some details of my personal infrastructure (2019)",
       "https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33437419"
     ],
     [
-      "Grafana Phlare, open source database for continuous profiling at scale",
+      "Phlare: open-source database for continuous profiling at scale",
       "https://grafana.com/blog/2022/11/02/announcing-grafana-phlare-oss-continuous-profiling-database/"
     ]
   ],
@@ -167,16 +167,6 @@
     [
       "OpenSSL added new C parser code [...] without doing any basic security testing",
       "https://twitter.com/hanno/status/1587775675397726209"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 15:06:18",
-      "https://news.ycombinator.com/item?id=33437020"
-    ],
-    [
-      "The worst drought in 1,200 years",
-      "https://www.bbc.com/future/article/20221031-how-tucson-arizona-is-facing-up-to-a-1200-year-drought"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Hard User Separation with NixOS",
       "https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 20:09:56",
+      "https://news.ycombinator.com/item?id=33412200"
+    ],
+    [
+      "The House of His Desires: The life and legacy of al-Hallaj",
+      "https://www.laphamsquarterly.org/roundtable/house-his-desires"
     ]
   ],
   [
