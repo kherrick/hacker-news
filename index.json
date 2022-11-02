@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-11-02, 16:06:37",
+      "https://news.ycombinator.com/item?id=33438092"
+    ],
+    [
+      "NEONnoir is a hybrid point-and-click adventure/visual novel game for the Amiga",
+      "https://steamknight.itch.io/neonnoir"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 15:50:52",
+      "https://news.ycombinator.com/item?id=33437791"
+    ],
+    [
+      "T-Mobile will start charging a $35 fee on all new activations and upgrades",
+      "https://www.engadget.com/t-mobile-will-start-charging-a-35-fee-on-all-new-activations-and-upgrades-065518011.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 15:28:26",
+      "https://news.ycombinator.com/item?id=33437419"
+    ],
+    [
+      "Grafana Phlare, open source database for continuous profiling at scale",
+      "https://grafana.com/blog/2022/11/02/announcing-grafana-phlare-oss-continuous-profiling-database/"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 15:24:48",
+      "https://news.ycombinator.com/item?id=33437358"
+    ],
+    [
+      "U.S. pushes Japan and other allies to join China chip curbs",
+      "https://asia.nikkei.com/Politics/International-relations/U.S.-pushes-Japan-and-other-allies-to-join-China-chip-curbs"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 15:21:32",
       "https://news.ycombinator.com/item?id=33437296"
     ],
@@ -17,6 +57,16 @@
     [
       "OpenSSL added new C parser code [...] without doing any basic security testing",
       "https://twitter.com/hanno/status/1587775675397726209"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 15:06:00",
+      "https://news.ycombinator.com/item?id=33437012"
+    ],
+    [
+      "'Planet killer' asteroid found hiding in sun's glare may one day hit Earth",
+      "https://www.space.com/dangerous-asteroid-discovered-in-sun-glare"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2022-11-02, 11:40:06",
-      "https://news.ycombinator.com/item?id=33434153"
-    ],
-    [
-      "Ask HN: Carrier “lost” my number in a port request",
-      "https://news.ycombinator.com/item?id=33434153"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 11:30:44",
       "https://news.ycombinator.com/item?id=33434092"
     ],
@@ -221,16 +261,6 @@
   ],
   [
     [
-      "2022-11-02, 00:40:29",
-      "https://news.ycombinator.com/item?id=33429972"
-    ],
-    [
-      "Show HN: Tier.run – Terraform for Stripe",
-      "https://github.com/tierrun"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 20:38:25",
       "https://news.ycombinator.com/item?id=33427157"
     ],
@@ -257,36 +287,6 @@
     [
       "An unwilling illustrator found herself turned into an AI model",
       "https://waxy.org/2022/11/invasive-diffusion-how-one-unwilling-illustrator-found-herself-turned-into-an-ai-model/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 15:49:02",
-      "https://news.ycombinator.com/item?id=33422837"
-    ],
-    [
-      "OpenSSL 3.0.7 fixes X.509 email address buffer overflows",
-      "https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 18:23:18",
-      "https://news.ycombinator.com/item?id=33410220"
-    ],
-    [
-      "Overwatch: Learning patterns in code edit sequences",
-      "https://arxiv.org/abs/2207.12456"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 18:12:53",
-      "https://news.ycombinator.com/item?id=33410053"
-    ],
-    [
-      "Building a Microgame (2020)",
-      "https://craigmbooth.com/blog/microgame-you-killed-a-bear/"
     ]
   ],
   [
