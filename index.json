@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-11-02, 15:00:46",
+      "https://news.ycombinator.com/item?id=33436918"
+    ],
+    [
+      "SpaceX is now building a Raptor engine a day, NASA says",
+      "https://arstechnica.com/science/2022/11/spacex-is-now-building-a-raptor-engine-a-day-nasa-says/"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 14:23:05",
       "https://news.ycombinator.com/item?id=33436268"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2022-11-02, 13:50:56",
-      "https://news.ycombinator.com/item?id=33435731"
-    ],
-    [
-      "Method Chaining in Pandas: Bad Form or a Recipe for Success?",
-      "https://davidamos.dev/method-chaining-in-pandas/"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 13:49:52",
       "https://news.ycombinator.com/item?id=33435720"
     ],
@@ -67,6 +67,26 @@
     [
       "Why Are so Many Babies Born around 8:00 A.M.?",
       "https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 13:25:22",
+      "https://news.ycombinator.com/item?id=33435361"
+    ],
+    [
+      "AskEdith – Never write SQL from scratch again",
+      "https://www.askedith.ai/"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 13:11:59",
+      "https://news.ycombinator.com/item?id=33435140"
+    ],
+    [
+      "Psychedelics: A Personal Take (2021)",
+      "https://ava.substack.com/p/psychedelics-a-personal-take"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2022-11-01, 15:45:37",
-      "https://news.ycombinator.com/item?id=33422779"
-    ],
-    [
-      "As last module docks, China completes its space station",
-      "https://www.nytimes.com/2022/10/31/world/asia/china-launch-space-station.html"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 18:23:18",
       "https://news.ycombinator.com/item?id=33410220"
     ],
@@ -287,16 +297,6 @@
     [
       "The first minute of every phone call is torture now",
       "https://www.theatlantic.com/technology/archive/2022/10/phone-call-greeting-smartphone-technological-error/671910/"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 18:52:59",
-      "https://news.ycombinator.com/item?id=33397395"
-    ],
-    [
-      "Chokuretsu ROM Hacking Challenges Part 1 – Cracking a Compression Algorithm",
-      "https://haroohie.club/blog/2022-10-19-chokuretsu-compression/"
     ]
   ]
 ]
