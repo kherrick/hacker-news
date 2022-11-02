@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-11-02, 20:21:25",
+      "https://news.ycombinator.com/item?id=33442415"
+    ],
+    [
+      "Braess's Paradox",
+      "https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws12/ct/Braess-paradox.pdf"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 20:08:11",
       "https://news.ycombinator.com/item?id=33442235"
     ],
@@ -47,6 +57,16 @@
     [
       "Court overturns state ruling on San Francisco’s infamous 469 Stevenson project",
       "https://www.sfchronicle.com/opinion/openforum/article/california-469-stevenson-court-ceqa-housing-17550982.php"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 18:06:55",
+      "https://news.ycombinator.com/item?id=33440341"
+    ],
+    [
+      "Why did the OpenSSL punycode vulnerability happen?",
+      "https://words.filippo.io/dispatches/openssl-punycode/"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2022-11-02, 16:41:13",
-      "https://news.ycombinator.com/item?id=33438726"
-    ],
-    [
-      "Typing the technical interview (2017)",
-      "https://aphyr.com/posts/342-typing-the-technical-interview"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 16:39:15",
       "https://news.ycombinator.com/item?id=33438678"
     ],
@@ -127,6 +137,16 @@
     [
       "LemmyBB, a federated bulletin board",
       "https://join-lemmy.org/news/2022-11-02-_First_release_of_LemmyBB"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 16:22:19",
+      "https://news.ycombinator.com/item?id=33438372"
+    ],
+    [
+      "Beaming solar energy from space",
+      "https://www.caltech.edu/about/news/space-solar-power-atwater-hajimiri-pellegrino"
     ]
   ],
   [
@@ -177,26 +197,6 @@
     [
       "How Tucson is facing up to a megadrought",
       "https://www.bbc.com/future/article/20221031-how-tucson-arizona-is-facing-up-to-a-1200-year-drought"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 14:23:05",
-      "https://news.ycombinator.com/item?id=33436268"
-    ],
-    [
-      "The pool of talented C++ developers is running dry",
-      "https://www.efinancialcareers.com/news/2022/11/why-is-there-a-drought-in-the-talent-pool-for-c-developers"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 13:25:22",
-      "https://news.ycombinator.com/item?id=33435361"
-    ],
-    [
-      "AskEdith – Natural language interface for databases",
-      "https://www.askedith.ai/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-11-01, 09:44:49",
+      "https://news.ycombinator.com/item?id=33418949"
+    ],
+    [
+      "Halloween: Go For Launch (2020)",
+      "https://www.therpf.com/forums/threads/halloween-go-for-launch.334717/"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 09:21:10",
       "https://news.ycombinator.com/item?id=33418788"
     ],
@@ -287,16 +297,6 @@
     [
       "Demo of =GPT3() as a spreadsheet feature",
       "https://twitter.com/shubroski/status/1587136794797244417"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 05:40:37",
-      "https://news.ycombinator.com/item?id=33402418"
-    ],
-    [
-      "Ancient dung reveals early evidence for animal tending",
-      "https://today.uconn.edu/2022/09/ancient-dung-reveals-earliest-evidence-for-animal-tending/"
     ]
   ]
 ]
