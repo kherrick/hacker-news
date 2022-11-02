@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-11-02, 00:50:51",
-      "https://news.ycombinator.com/item?id=33430049"
+      "2022-11-02, 02:47:41",
+      "https://news.ycombinator.com/item?id=33430886"
     ],
     [
-      "iCloud Mail is experiencing an ongoing outage",
-      "https://www.apple.com/support/systemstatus/"
+      "Cook Shortage Threatens to Sink U.S. Coast Guard Operations",
+      "https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 02:11:10",
+      "https://news.ycombinator.com/item?id=33430660"
+    ],
+    [
+      "Rate Hikes Are Affecting the Economy",
+      "https://www.apricitas.io/p/how-rate-hikes-are-affecting-the"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 01:24:00",
+      "https://news.ycombinator.com/item?id=33430305"
+    ],
+    [
+      "Moving past TCP in the data center, part 1",
+      "https://lwn.net/SubscriberLink/913260/8819c42491a70e9b/"
     ]
   ],
   [
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2022-11-01, 17:58:42",
-      "https://news.ycombinator.com/item?id=33424857"
-    ],
-    [
-      "Associations between alcohol consumption and gray and white matter volumes",
-      "https://www.nature.com/articles/s41467-022-28735-5"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 17:42:42",
       "https://news.ycombinator.com/item?id=33424607"
     ],
     [
       "Twitter Blue for $8/Month",
       "https://twitter.com/elonmusk/status/1587498907336118274"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 17:27:31",
-      "https://news.ycombinator.com/item?id=33424354"
-    ],
-    [
-      "Show HN: Wrote a tiny WebAssembly (wat2wasm) compiler in Go",
-      "https://github.com/thomscoder/luna"
     ]
   ],
   [
