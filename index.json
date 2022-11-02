@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-02, 15:21:32",
+      "https://news.ycombinator.com/item?id=33437296"
+    ],
+    [
+      "An AI generated, never-ending discussion between Werner Herzog and Slavoj ŽIžek",
+      "https://infiniteconversation.com/"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 15:13:52",
+      "https://news.ycombinator.com/item?id=33437158"
+    ],
+    [
+      "OpenSSL added new C parser code [...] without doing any basic security testing",
+      "https://twitter.com/hanno/status/1587775675397726209"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 14:23:05",
       "https://news.ycombinator.com/item?id=33436268"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33436157"
     ],
     [
-      "Playstation VR2 launches on February 22nd for $549.99",
+      "Playstation VR2",
       "https://www.theverge.com/2022/11/2/23436550/sony-playstation-vr2-release-date-price-features-games"
     ]
   ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33435720"
     ],
     [
-      "EU Commission proposes to accelerate the rollout of instant payments in euro",
+      "Commission proposes to accelerate the rollout of instant payments in euro",
       "https://ec.europa.eu/commission/presscorner/detail/en/IP_22_6272"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33435002"
     ],
     [
-      "urlscan.io's SOAR spot: Chatty security tools leaking private data",
+      "Urlscan.io’s SOAR spot: Chatty security tools leaking private data",
       "https://positive.security/blog/urlscan-data-leaks"
     ]
   ],
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2022-11-02, 12:01:16",
+      "https://news.ycombinator.com/item?id=33434326"
+    ],
+    [
+      "Doing what you love when the money won’t follow",
+      "https://loveofallwisdom.com/blog/2022/06/doing-what-you-love-when-the-money-wont-follow/"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 11:40:06",
       "https://news.ycombinator.com/item?id=33434153"
     ],
@@ -95,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33434092"
     ],
     [
-      "C++ Is the Next C++",
+      "C++ is the next C++",
       "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html"
     ]
   ],
@@ -121,21 +151,11 @@
   ],
   [
     [
-      "2022-11-02, 09:10:21",
-      "https://news.ycombinator.com/item?id=33433053"
-    ],
-    [
-      "Mastodon gained 70k users after Musk’s Twitter takeover",
-      "https://www.theguardian.com/media/2022/nov/01/mastodon-twitter-elon-musk-takeover"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 08:32:40",
       "https://news.ycombinator.com/item?id=33432746"
     ],
     [
-      "Rakuten dumps Red Hat, turns to “true” open-source Linux OS",
+      "Rakuten Mobile is replacing Red Hat as its Linux OS supplier",
       "https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/"
     ]
   ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=33432720"
     ],
     [
-      "TomTom announces new Maps Platform using OpenStreetMap",
+      "TomTom’s new mapping platform and ecosystem",
       "https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/"
     ]
   ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2022-11-01, 21:37:40",
-      "https://news.ycombinator.com/item?id=33427888"
-    ],
-    [
-      "Section 230: Mend it, don’t end it (2020)",
-      "https://medium.com/craft-ventures/section-230-mend-it-dont-end-it-e33799a43a5f"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 20:38:25",
       "https://news.ycombinator.com/item?id=33427157"
     ],
     [
       "NASA finds super-emitters of methane",
       "https://www.smithsonianmag.com/smart-news/nasa-finds-more-than-50-super-emitters-of-methane-180981045/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 19:11:02",
-      "https://news.ycombinator.com/item?id=33425947"
-    ],
-    [
-      "Show HN: A tool to help you remember shit you are interested in",
-      "https://www.recall-app.com/"
     ]
   ],
   [
