@@ -1,22 +1,42 @@
 [
   [
     [
+      "2022-11-02, 00:50:51",
+      "https://news.ycombinator.com/item?id=33430049"
+    ],
+    [
+      "iCloud Mail is experiencing an ongoing outage",
+      "https://www.apple.com/support/systemstatus/"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 00:40:29",
+      "https://news.ycombinator.com/item?id=33429972"
+    ],
+    [
+      "Show HN: Tier.run – Terraform for Stripe",
+      "https://github.com/tierrun"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 23:59:55",
+      "https://news.ycombinator.com/item?id=33429608"
+    ],
+    [
+      "Rise of Generative AI will be comparable to the rise of CGI in the early 90s",
+      "https://sarharibhakti.substack.com/p/rise-of-generative-ai-will-be-comparable"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 22:43:38",
       "https://news.ycombinator.com/item?id=33428726"
     ],
     [
       "Show HN: HiSHtory: Your shell history in context, synced, and queryable",
       "https://github.com/ddworken/hishtory"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 21:37:40",
-      "https://news.ycombinator.com/item?id=33427888"
-    ],
-    [
-      "Section 230: Mend it, don’t end it (2020)",
-      "https://medium.com/craft-ventures/section-230-mend-it-dont-end-it-e33799a43a5f"
     ]
   ],
   [
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2022-11-01, 20:50:32",
-      "https://news.ycombinator.com/item?id=33427300"
-    ],
-    [
-      "Tcl is faster than Python for database benchmarking",
-      "https://www.hammerdb.com/blog/uncategorized/why-tcl-is-700-faster-than-python-for-database-benchmarking/"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 20:38:25",
       "https://news.ycombinator.com/item?id=33427157"
     ],
@@ -67,16 +77,6 @@
     [
       "Facebook has a hidden tool to delete your phone number, email",
       "https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 20:18:03",
-      "https://news.ycombinator.com/item?id=33426897"
-    ],
-    [
-      "Taking a Look at Mastodon",
-      "https://evertpot.com/hello-mastodon/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2022-11-01, 12:24:02",
-      "https://news.ycombinator.com/item?id=33420212"
+      "2022-10-31, 17:38:26",
+      "https://news.ycombinator.com/item?id=33409501"
     ],
     [
-      "Android Studio’s “Code contains easter egg” inspection (2019)",
-      "https://wh0.github.io/2019/11/16/easter-egg-inspection.html"
+      "Aria-label is a code smell",
+      "https://ericwbailey.website/published/aria-label-is-a-code-smell/"
     ]
   ],
   [
     [
-      "2022-11-01, 11:01:05",
-      "https://news.ycombinator.com/item?id=33419500"
+      "2022-10-30, 18:52:59",
+      "https://news.ycombinator.com/item?id=33397395"
     ],
     [
-      "Diffoscope – In-depth comparison of files, archives, and directories",
-      "https://diffoscope.org/"
+      "Chokuretsu ROM Hacking Challenges Part 1 – Cracking a Compression Algorithm",
+      "https://haroohie.club/blog/2022-10-19-chokuretsu-compression/"
     ]
   ]
 ]
