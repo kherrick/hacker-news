@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-02, 09:43:35",
+      "https://news.ycombinator.com/item?id=33433316"
+    ],
+    [
+      "Priceloop NoCode Spreadsheet platform built in Scala and on-top of Postgres",
+      "https://news.ycombinator.com/item?id=33433316"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 08:32:40",
       "https://news.ycombinator.com/item?id=33432746"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2022-11-02, 08:19:34",
+      "https://news.ycombinator.com/item?id=33432662"
+    ],
+    [
+      "How to upgrade an antiquated Identity and Access Management system?",
+      "https://memgraph.com/blog/how-to-upgrade-an-antiquated-identity-and-access-management-system"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 07:22:58",
       "https://news.ycombinator.com/item?id=33432296"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33432159"
     ],
     [
-      "PhotoRoom Is Hiring a Senior Back End Engineer (Django, 200GB+ PSQL DB) in Paris",
+      "PhotoRoom Is Hiring a Senior Backend Engineer (Django, 200GB+ PSQL DB) in Paris",
       "https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "Cook shortage threatens to sink U.S. Coast Guard operations",
       "https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 02:11:10",
-      "https://news.ycombinator.com/item?id=33430660"
-    ],
-    [
-      "How rate hikes are affecting the economy",
-      "https://www.apricitas.io/p/how-rate-hikes-are-affecting-the"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Cache Associativity",
       "https://en.algorithmica.org/hpc/cpu-cache/associativity/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 20:50:32",
-      "https://news.ycombinator.com/item?id=33427300"
-    ],
-    [
-      "Tcl is faster than Python for database benchmarking",
-      "https://www.hammerdb.com/blog/uncategorized/why-tcl-is-700-faster-than-python-for-database-benchmarking/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2022-10-31, 20:40:47",
-      "https://news.ycombinator.com/item?id=33412702"
+      "2022-10-31, 22:22:35",
+      "https://news.ycombinator.com/item?id=33414148"
     ],
     [
-      "Nascar driver stuns to qualify for championship with GameCube move",
-      "https://www.nintendolife.com/news/2022/10/random-nascar-driver-stuns-to-qualify-for-championship-with-gamecube-move"
+      "Max/MSP Objects Database",
+      "http://maxobjects.com"
     ]
   ],
   [
