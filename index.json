@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-02, 07:00:22",
+      "https://news.ycombinator.com/item?id=33432159"
+    ],
+    [
+      "PhotoRoom Is Hiring a Senior Back End Engineer (Django, 200GB+ PSQL DB) in Paris",
+      "https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 02:47:41",
       "https://news.ycombinator.com/item?id=33430886"
     ],
@@ -67,16 +77,6 @@
     [
       "Cache Associativity",
       "https://en.algorithmica.org/hpc/cpu-cache/associativity/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 20:50:32",
-      "https://news.ycombinator.com/item?id=33427300"
-    ],
-    [
-      "Tcl is faster than Python for database benchmarking",
-      "https://www.hammerdb.com/blog/uncategorized/why-tcl-is-700-faster-than-python-for-database-benchmarking/"
     ]
   ],
   [
