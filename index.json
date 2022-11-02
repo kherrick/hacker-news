@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-11-02, 21:17:26",
-      "https://news.ycombinator.com/item?id=33443035"
-    ],
-    [
-      "Wine 7.2 Released",
-      "https://www.winehq.org/announce/7.20"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 21:02:09",
       "https://news.ycombinator.com/item?id=33442875"
     ],
@@ -51,21 +41,11 @@
   ],
   [
     [
-      "2022-11-02, 20:05:03",
-      "https://news.ycombinator.com/item?id=33442183"
-    ],
-    [
-      "Tumblr brings mature content back, after 4 years",
-      "https://staff.tumblr.com/post/699744158019190784/this-is-not-a-drill-our-new-community-guidelines"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 19:16:35",
       "https://news.ycombinator.com/item?id=33441442"
     ],
     [
-      "A court just gutted years of California's housing efforts",
+      "Court overturns state ruling on San Francisco’s infamous 469 Stevenson project",
       "https://www.sfchronicle.com/opinion/openforum/article/california-469-stevenson-court-ceqa-housing-17550982.php"
     ]
   ],
@@ -105,8 +85,18 @@
       "https://news.ycombinator.com/item?id=33439052"
     ],
     [
-      "A Systems Engineering Primer",
+      "Systems Engineering, or \"why james gets paid\"",
       "https://cohost.org/jamesmunns/post/167078-systems-engineering"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 16:41:13",
+      "https://news.ycombinator.com/item?id=33438726"
+    ],
+    [
+      "Typing the technical interview (2017)",
+      "https://aphyr.com/posts/342-typing-the-technical-interview"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2022-11-02, 14:23:05",
+      "https://news.ycombinator.com/item?id=33436268"
+    ],
+    [
+      "The pool of talented C++ developers is running dry",
+      "https://www.efinancialcareers.com/news/2022/11/why-is-there-a-drought-in-the-talent-pool-for-c-developers"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 13:25:22",
       "https://news.ycombinator.com/item?id=33435361"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33431367"
     ],
     [
-      "Extracting Hominin Evolution from Fossilized Teeth",
+      "Extracting hominin evolution from fossilized teeth",
       "https://www.sapiens.org/biology/fossilized-teeth-oxygen-isotopes/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33402418"
     ],
     [
-      "Ancient Dung Reveals Earliest Evidence for Animal Tending",
+      "Ancient dung reveals early evidence for animal tending",
       "https://today.uconn.edu/2022/09/ancient-dung-reveals-earliest-evidence-for-animal-tending/"
     ]
   ]
