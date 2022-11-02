@@ -1,12 +1,102 @@
 [
   [
     [
+      "2022-11-02, 16:56:19",
+      "https://news.ycombinator.com/item?id=33439021"
+    ],
+    [
+      "The Problem with Go",
+      "https://vanitynotes.com/posts/20221101-the-real-problem-with-go"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 16:53:08",
+      "https://news.ycombinator.com/item?id=33438938"
+    ],
+    [
+      "Remote Work Scam",
+      "https://news.ycombinator.com/item?id=33438938"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 16:50:01",
+      "https://news.ycombinator.com/item?id=33438877"
+    ],
+    [
+      "Windows 11 runs on fewer than 1 in 6 PCs",
+      "https://www.theregister.com/2022/11/02/windows_11_statcounter/"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 16:41:23",
+      "https://news.ycombinator.com/item?id=33438729"
+    ],
+    [
+      "GitHub Availability October 2022",
+      "https://github.blog/2022-11-02-github-availability-report-october-2022/"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 16:41:13",
+      "https://news.ycombinator.com/item?id=33438726"
+    ],
+    [
+      "Typing the Technical Interview(solving a problem using only Haskell type system)",
+      "https://aphyr.com/posts/342-typing-the-technical-interview"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 16:39:15",
+      "https://news.ycombinator.com/item?id=33438678"
+    ],
+    [
+      "Dozens of malicious PyPI packages discovered targeting developers",
+      "https://blog.phylum.io/phylum-discovers-dozens-more-pypi-packages-attempting-to-deliver-w4sp-stealer-in-ongoing-supply-chain-attack"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 16:32:06",
+      "https://news.ycombinator.com/item?id=33438540"
+    ],
+    [
+      "Aegis Authenticator – Secure 2FA App for Android",
+      "https://getaegis.app/"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 16:29:17",
+      "https://news.ycombinator.com/item?id=33438493"
+    ],
+    [
+      "First release of LemmyBB, a federated bulletin board written in Rust",
+      "https://join-lemmy.org/news/2022-11-02-_First_release_of_LemmyBB"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 16:06:37",
       "https://news.ycombinator.com/item?id=33438092"
     ],
     [
       "NEONnoir is a hybrid point-and-click adventure/visual novel game for the Amiga",
       "https://steamknight.itch.io/neonnoir"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 15:57:35",
+      "https://news.ycombinator.com/item?id=33437911"
+    ],
+    [
+      "Seeking the Productive Life: Some Details of My Personal Infrastructure",
+      "https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/"
     ]
   ],
   [
@@ -61,16 +151,6 @@
   ],
   [
     [
-      "2022-11-02, 15:06:00",
-      "https://news.ycombinator.com/item?id=33437012"
-    ],
-    [
-      "'Planet killer' asteroid found hiding in sun's glare may one day hit Earth",
-      "https://www.space.com/dangerous-asteroid-discovered-in-sun-glare"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 15:00:46",
       "https://news.ycombinator.com/item?id=33436918"
     ],
@@ -91,32 +171,12 @@
   ],
   [
     [
-      "2022-11-02, 14:16:01",
-      "https://news.ycombinator.com/item?id=33436157"
-    ],
-    [
-      "Playstation VR2",
-      "https://www.theverge.com/2022/11/2/23436550/sony-playstation-vr2-release-date-price-features-games"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 13:49:52",
       "https://news.ycombinator.com/item?id=33435720"
     ],
     [
       "Commission proposes to accelerate the rollout of instant payments in euro",
       "https://ec.europa.eu/commission/presscorner/detail/en/IP_22_6272"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 13:47:57",
-      "https://news.ycombinator.com/item?id=33435695"
-    ],
-    [
-      "Why Are so Many Babies Born around 8:00 A.M.?",
-      "https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/"
     ]
   ],
   [
@@ -141,52 +201,12 @@
   ],
   [
     [
-      "2022-11-02, 13:00:55",
-      "https://news.ycombinator.com/item?id=33435002"
-    ],
-    [
-      "Urlscan.io’s SOAR spot: Chatty security tools leaking private data",
-      "https://positive.security/blog/urlscan-data-leaks"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 12:38:33",
-      "https://news.ycombinator.com/item?id=33434742"
-    ],
-    [
-      "Ask HN: How to deal with burnout and its consequences?",
-      "https://news.ycombinator.com/item?id=33434742"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 12:18:13",
-      "https://news.ycombinator.com/item?id=33434512"
-    ],
-    [
-      "Scientists Increasingly Can’t Explain How AI Works",
-      "https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 12:01:16",
       "https://news.ycombinator.com/item?id=33434326"
     ],
     [
       "Doing what you love when the money won’t follow",
       "https://loveofallwisdom.com/blog/2022/06/doing-what-you-love-when-the-money-wont-follow/"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 11:30:44",
-      "https://news.ycombinator.com/item?id=33434092"
-    ],
-    [
-      "C++ is the next C++",
-      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-11-02, 08:32:40",
-      "https://news.ycombinator.com/item?id=33432746"
-    ],
-    [
-      "Rakuten Mobile is replacing Red Hat as its Linux OS supplier",
-      "https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 08:28:21",
       "https://news.ycombinator.com/item?id=33432720"
     ],
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2022-11-02, 07:22:58",
-      "https://news.ycombinator.com/item?id=33432296"
-    ],
-    [
-      "Protonmail can delete the wrong email and nobody cares",
-      "https://github.com/ProtonMail/proton-bridge/issues/220"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 07:00:22",
       "https://news.ycombinator.com/item?id=33432159"
     ],
     [
       "PhotoRoom Is Hiring a Senior Backend Engineer (Django, 200GB+ PSQL DB) in Paris",
       "https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 04:49:19",
+      "https://news.ycombinator.com/item?id=33431541"
+    ],
+    [
+      "Niches Are Overrated",
+      "https://scottjack.me/niches-are-overrated/"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2022-11-01, 18:49:58",
-      "https://news.ycombinator.com/item?id=33425697"
+      "2022-10-31, 19:45:13",
+      "https://news.ycombinator.com/item?id=33411748"
     ],
     [
-      "See a Satellite Tonight",
-      "https://james.darpinian.com/satellites/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 15:57:29",
-      "https://news.ycombinator.com/item?id=33422990"
-    ],
-    [
-      "An unwilling illustrator found herself turned into an AI model",
-      "https://waxy.org/2022/11/invasive-diffusion-how-one-unwilling-illustrator-found-herself-turned-into-an-ai-model/"
+      "Demo of =GPT3() as a spreadsheet feature",
+      "https://twitter.com/shubroski/status/1587136794797244417"
     ]
   ],
   [
