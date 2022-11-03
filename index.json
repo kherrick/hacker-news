@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-03, 19:28:24",
+      "https://news.ycombinator.com/item?id=33456153"
+    ],
+    [
+      "Netflix launches an ad-supported tier",
+      "https://about.netflix.com/en/news/our-newest-plan-now-available-us"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 18:54:17",
       "https://news.ycombinator.com/item?id=33455646"
     ],
@@ -217,16 +227,6 @@
     [
       "FreeBSD optimizations used by Netflix to serve video at 800Gb/s [pdf]",
       "https://people.freebsd.org/~gallatin/talks/euro2022.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 10:48:06",
-      "https://news.ycombinator.com/item?id=33449229"
-    ],
-    [
-      "Open Source Firebase Alternative with GraphQL",
-      "https://nhost.io/"
     ]
   ],
   [
