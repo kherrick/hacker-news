@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-11-03, 02:15:24",
-      "https://news.ycombinator.com/item?id=33446049"
+      "2022-11-03, 04:35:38",
+      "https://news.ycombinator.com/item?id=33447041"
     ],
     [
-      "Russell Napier: The world will experience a capex boom",
-      "https://themarket.ch/interview/russell-napier-the-world-will-experience-a-capex-boom-ld.7606"
+      "The dynamic incremental compiler of APL\\3000 (1979) [pdf]",
+      "https://www.softwarepreservation.org/projects/apl/Papers/DYNAMICINCREMENTAL"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 03:22:41",
+      "https://news.ycombinator.com/item?id=33446587"
+    ],
+    [
+      "Twitter plans to order remaining workers back to office after layoffs",
+      "https://www.axios.com/2022/11/03/musk-twitter-layoffs-remote-back-to-office"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 02:23:22",
+      "https://news.ycombinator.com/item?id=33446121"
+    ],
+    [
+      "Universal Paperclips",
+      "https://www.decisionproblem.com/paperclips/"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33445893"
     ],
     [
-      "What's the word for a large collection of fraudulent web stores?",
+      "A large collection of fraudulent web stores",
       "https://chair6.net/a-large-collection-of-fraudulent-web-stores.html"
     ]
   ],
@@ -37,16 +57,6 @@
     [
       "Blip: A tool for seeing your internet latency",
       "https://github.com/apenwarr/blip"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 00:45:39",
-      "https://news.ycombinator.com/item?id=33445118"
-    ],
-    [
-      "Today’s inflation is not a repeat of the 1970s",
-      "https://awealthofcommonsense.com/2022/11/why-todays-inflation-is-not-a-repeat-of-the-1970s/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "PR that converts the TypeScript repo from namespaces to modules",
       "https://github.com/microsoft/TypeScript/pull/51387"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 17:44:47",
-      "https://news.ycombinator.com/item?id=33439947"
-    ],
-    [
-      "Doom3do: DOOM for the 3DO",
-      "https://github.com/Olde-Skuul/doom3do"
     ]
   ],
   [
