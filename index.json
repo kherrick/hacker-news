@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-11-03, 11:02:03",
+      "https://news.ycombinator.com/item?id=33449323"
+    ],
+    [
+      "Sile: A Modern Rewrite of TeX",
+      "https://sile-typesetter.org/"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 10:48:06",
       "https://news.ycombinator.com/item?id=33449229"
     ],
     [
       "Open Source Firebase Alternative with GraphQL",
       "https://nhost.io/"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 10:37:04",
+      "https://news.ycombinator.com/item?id=33449159"
+    ],
+    [
+      "Over 16,000 people still use a Pebble smartwatch",
+      "https://rebble.io/2022/11/02/rebble-hackathon.html"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-11-02, 17:49:05",
-      "https://news.ycombinator.com/item?id=33440030"
-    ],
-    [
-      "PR that converts the TypeScript repo from namespaces to modules",
-      "https://github.com/microsoft/TypeScript/pull/51387"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 17:00:12",
       "https://news.ycombinator.com/item?id=33439118"
     ],
@@ -277,16 +287,6 @@
     [
       "Visualizing Diffs: The Myers difference algorithm (2020)",
       "https://www.nathaniel.ai/myers-diff/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 21:14:24",
-      "https://news.ycombinator.com/item?id=33413273"
-    ],
-    [
-      "Cloud development environments tame complexity by reducing state",
-      "https://medium.com/@kentbeck_7670/cloud-development-environments-tame-complexity-by-reducing-state-4a154ea7959f"
     ]
   ],
   [
