@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-11-02, 06:26:15",
-      "https://news.ycombinator.com/item?id=33431988"
-    ],
-    [
-      "A few of my favourite things about the OpenBSD Packet Filter tools",
-      "https://blog.apnic.net/2022/11/02/openbsd-packet-filter-tools/"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 12:36:06",
       "https://news.ycombinator.com/item?id=33420306"
     ],
@@ -257,6 +247,16 @@
     [
       "Advice that worked for me",
       "https://nabeelqu.co/advice"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 09:21:10",
+      "https://news.ycombinator.com/item?id=33418788"
+    ],
+    [
+      "Hard User Separation with NixOS",
+      "https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/"
     ]
   ],
   [
