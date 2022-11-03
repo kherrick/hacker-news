@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-03, 12:28:42",
+      "https://news.ycombinator.com/item?id=33449985"
+    ],
+    [
+      "Kaluma: A Tiny JavaScript Runtime for RP2040 (Raspberry Pi Pico)",
+      "https://github.com/kaluma-project/kaluma"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 12:07:32",
+      "https://news.ycombinator.com/item?id=33449791"
+    ],
+    [
+      "Ex-Reddit CEO on Twitter moderation",
+      "https://twitter.com/yishan/status/1586955288061452289"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 11:43:02",
       "https://news.ycombinator.com/item?id=33449600"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2022-11-02, 20:08:11",
-      "https://news.ycombinator.com/item?id=33442235"
-    ],
-    [
-      "Cree releases LEDs designed for horticulture",
-      "https://cree-led.com/news/photophyll-select/"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 20:05:57",
       "https://news.ycombinator.com/item?id=33442195"
     ],
     [
       "Employee gift ideas that make people feel bad",
       "https://www.tremendous.com/blog/5-employee-gift-ideas-make-people-feel-bad"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 18:06:55",
-      "https://news.ycombinator.com/item?id=33440341"
-    ],
-    [
-      "Why did the OpenSSL punycode vulnerability happen?",
-      "https://words.filippo.io/dispatches/openssl-punycode/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2022-11-01, 14:25:20",
-      "https://news.ycombinator.com/item?id=33421647"
+      "2022-11-02, 05:16:07",
+      "https://news.ycombinator.com/item?id=33431669"
     ],
     [
-      "Computer Security Technology Planning Study (1972)",
-      "https://apps.dtic.mil/sti/citations/AD0758206"
+      "Comparing TCP and QUIC",
+      "https://www.potaroo.net/ispcol/2022-11/quicvtcp.html"
     ]
   ],
   [
