@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-03, 23:20:34",
+      "https://news.ycombinator.com/item?id=33459330"
+    ],
+    [
+      "Show HN: SnowId – A Decentralized, K-Ordered, 128-bit UUID library in C",
+      "https://github.com/beyonddream/snowid"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 23:09:52",
       "https://news.ycombinator.com/item?id=33459255"
     ],
@@ -237,16 +247,6 @@
     [
       "Over 16k people still use a Pebble smartwatch",
       "https://rebble.io/2022/11/02/rebble-hackathon.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 00:13:27",
-      "https://news.ycombinator.com/item?id=33444832"
-    ],
-    [
-      "SVGs as Elm Code",
-      "https://blog.noredink.com/post/699829728548372480/svgs-as-elm-code"
     ]
   ],
   [
