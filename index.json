@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-11-03, 13:37:58",
-      "https://news.ycombinator.com/item?id=33450753"
+      "2022-11-03, 14:01:08",
+      "https://news.ycombinator.com/item?id=33451109"
     ],
     [
-      "Stripe Announces 14% Layoff",
-      "https://stripe.com/en-au/newsroom/news/ceo-patrick-collisons-email-to-stripe-employees"
+      "CEO Patrick Collison's email to Stripe employees about layoffs",
+      "https://stripe.com/newsroom/news/ceo-patrick-collisons-email-to-stripe-employees"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 12:59:22",
+      "https://news.ycombinator.com/item?id=33450281"
+    ],
+    [
+      "Translate Between JSON and EDI",
+      "https://www.stedi.com/blog/translate-between-json-and-edi"
     ]
   ],
   [
@@ -15,8 +25,8 @@
       "https://news.ycombinator.com/item?id=33450152"
     ],
     [
-      "Stripe Layoff 14% of Workforce",
-      "https://www.teamblind.com/post/Stripe-layoff-14-of-the-workforce-ORCpmMEK"
+      "Stripe laying off around 14% of workforce",
+      "https://stripe.com/en-au/newsroom/news/ceo-patrick-collisons-email-to-stripe-employees"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-11-03, 04:35:38",
-      "https://news.ycombinator.com/item?id=33447041"
-    ],
-    [
-      "The dynamic incremental compiler of APL\\3000 (1979) [pdf]",
-      "https://www.softwarepreservation.org/projects/apl/Papers/DYNAMICINCREMENTAL"
-    ]
-  ],
-  [
-    [
       "2022-11-03, 02:23:22",
       "https://news.ycombinator.com/item?id=33446121"
     ],
@@ -187,16 +187,6 @@
     [
       "A large collection of fraudulent web stores",
       "https://chair6.net/a-large-collection-of-fraudulent-web-stores.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 01:13:14",
-      "https://news.ycombinator.com/item?id=33445368"
-    ],
-    [
-      "Can I exec a new process without an executable file? (2015)",
-      "https://unix.stackexchange.com/questions/230472/can-i-exec-an-entirely-new-process-without-an-executable-file"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Show HN: Nudges.fyi – simple, unmissable reminders via phone/text/email",
       "https://nudges.fyi"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 09:10:56",
+      "https://news.ycombinator.com/item?id=33433061"
+    ],
+    [
+      "RawTherapee",
+      "https://www.rawtherapee.com/"
     ]
   ],
   [
