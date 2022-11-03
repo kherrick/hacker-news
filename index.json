@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-03, 15:58:02",
+      "https://news.ycombinator.com/item?id=33453037"
+    ],
+    [
+      "Sugar Substitutes Surprise",
+      "https://www.science.org/content/blog-post/sugar-substitutes-surprise"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 15:44:47",
+      "https://news.ycombinator.com/item?id=33452791"
+    ],
+    [
+      "Lyft laying off 13% of staff",
+      "https://www.wsj.com/articles/lyft-plans-to-lay-off-hundreds-of-staffers-11667490092"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 15:41:26",
+      "https://news.ycombinator.com/item?id=33452733"
+    ],
+    [
+      "2022 State of Haskell Survey",
+      "https://haskellweekly.news/survey/2022.html"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 14:40:32",
       "https://news.ycombinator.com/item?id=33451711"
     ],
@@ -97,16 +127,6 @@
     [
       "Stripe laying off around 14% of workforce",
       "https://stripe.com/en-au/newsroom/news/ceo-patrick-collisons-email-to-stripe-employees"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 12:40:32",
-      "https://news.ycombinator.com/item?id=33450102"
-    ],
-    [
-      "I am a quite good bad programmer",
-      "https://news.ycombinator.com/item?id=33450102"
     ]
   ],
   [
@@ -231,26 +251,6 @@
   ],
   [
     [
-      "2022-11-03, 00:52:43",
-      "https://news.ycombinator.com/item?id=33445178"
-    ],
-    [
-      "Blip: A tool for seeing your internet latency",
-      "https://github.com/apenwarr/blip"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 20:11:19",
-      "https://news.ycombinator.com/item?id=33442281"
-    ],
-    [
-      "The case for JPEG XL",
-      "https://cloudinary.com/blog/the-case-for-jpeg-xl"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 09:10:56",
       "https://news.ycombinator.com/item?id=33433061"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-11-01, 05:52:17",
-      "https://news.ycombinator.com/item?id=33417466"
+      "2022-11-01, 04:52:43",
+      "https://news.ycombinator.com/item?id=33417088"
     ],
     [
-      "Visualizing Diffs: The Myers difference algorithm (2020)",
-      "https://www.nathaniel.ai/myers-diff/"
+      "The New Art of Making Books",
+      "https://thereader.mitpress.mit.edu/the-new-art-of-making-books-on-bookworks/"
     ]
   ]
 ]
