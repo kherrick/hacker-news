@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2022-11-02, 21:32:28",
+      "https://news.ycombinator.com/item?id=33443199"
+    ],
+    [
+      "Vast and innumerable throngs of the ancient dead",
+      "https://www.laphamsquarterly.org/roundtable/vast-and-innumerable-throngs-ancient-dead"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 20:11:19",
       "https://news.ycombinator.com/item?id=33442281"
     ],
@@ -191,62 +201,12 @@
   ],
   [
     [
-      "2022-11-02, 16:57:31",
-      "https://news.ycombinator.com/item?id=33439052"
-    ],
-    [
-      "Systems Engineering, or \"why james gets paid\"",
-      "https://cohost.org/jamesmunns/post/167078-systems-engineering"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 16:39:15",
       "https://news.ycombinator.com/item?id=33438678"
     ],
     [
       "Dozens of malicious PyPI packages discovered targeting developers",
       "https://blog.phylum.io/phylum-discovers-dozens-more-pypi-packages-attempting-to-deliver-w4sp-stealer-in-ongoing-supply-chain-attack"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 16:32:06",
-      "https://news.ycombinator.com/item?id=33438540"
-    ],
-    [
-      "Aegis Authenticator – Secure 2FA App for Android",
-      "https://getaegis.app/"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 16:29:17",
-      "https://news.ycombinator.com/item?id=33438493"
-    ],
-    [
-      "LemmyBB, a federated bulletin board",
-      "https://join-lemmy.org/news/2022-11-02-_First_release_of_LemmyBB"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 16:06:37",
-      "https://news.ycombinator.com/item?id=33438092"
-    ],
-    [
-      "NEONnoir is a hybrid point-and-click adventure/visual novel game for the Amiga",
-      "https://steamknight.itch.io/neonnoir"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 15:57:35",
-      "https://news.ycombinator.com/item?id=33437911"
-    ],
-    [
-      "Seeking the productive life: Some details of my personal infrastructure (2019)",
-      "https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/"
     ]
   ],
   [
@@ -267,6 +227,16 @@
     [
       "Advice that worked for me",
       "https://nabeelqu.co/advice"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 09:21:10",
+      "https://news.ycombinator.com/item?id=33418788"
+    ],
+    [
+      "Hard User Separation with NixOS",
+      "https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/"
     ]
   ],
   [
@@ -297,6 +267,36 @@
     [
       "The little device driver writer (1994)",
       "http://www.masterberg.se/hberg/driverwriting/"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 21:14:24",
+      "https://news.ycombinator.com/item?id=33413273"
+    ],
+    [
+      "Cloud development environments tame complexity by reducing state",
+      "https://medium.com/@kentbeck_7670/cloud-development-environments-tame-complexity-by-reducing-state-4a154ea7959f"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 19:45:13",
+      "https://news.ycombinator.com/item?id=33411748"
+    ],
+    [
+      "Demo of =GPT3() as a spreadsheet feature",
+      "https://twitter.com/shubroski/status/1587136794797244417"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 01:46:45",
+      "https://news.ycombinator.com/item?id=33401104"
+    ],
+    [
+      "Cultural transmission makes animals flexible, but vulnerable",
+      "https://knowablemagazine.org/article/living-world/2022/cultural-transmission-makes-animals-flexible-vulnerable"
     ]
   ]
 ]
