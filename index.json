@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-11-03, 05:13:21",
-      "https://news.ycombinator.com/item?id=33447285"
-    ],
-    [
-      "TikTok is “unacceptable security risk” and should be removed from app stores",
-      "https://www.malwarebytes.com/blog/news/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc"
-    ]
-  ],
-  [
-    [
       "2022-11-03, 04:35:38",
       "https://news.ycombinator.com/item?id=33447041"
     ],
@@ -27,6 +17,16 @@
     [
       "Universal Paperclips",
       "https://www.decisionproblem.com/paperclips/"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 02:17:09",
+      "https://news.ycombinator.com/item?id=33446064"
+    ],
+    [
+      "Moderation is different from censorship",
+      "https://astralcodexten.substack.com/p/moderation-is-different-from-censorship"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
+      "2022-11-02, 15:57:35",
+      "https://news.ycombinator.com/item?id=33437911"
+    ],
+    [
+      "Seeking the productive life: Some details of my personal infrastructure (2019)",
+      "https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 15:28:26",
       "https://news.ycombinator.com/item?id=33437419"
     ],
     [
       "Phlare: open-source database for continuous profiling at scale",
       "https://grafana.com/blog/2022/11/02/announcing-grafana-phlare-oss-continuous-profiling-database/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 16:34:16",
-      "https://news.ycombinator.com/item?id=33423555"
-    ],
-    [
-      "The Marine Lab in the Path of Fury",
-      "https://hakaimagazine.com/features/the-marine-lab-in-the-path-of-fury/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33417466"
     ],
     [
-      "Visualizing Diffs: The Myers difference algorithm",
+      "Visualizing Diffs: The Myers difference algorithm (2020)",
       "https://www.nathaniel.ai/myers-diff/"
     ]
   ],
