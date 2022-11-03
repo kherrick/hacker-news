@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-03, 09:12:14",
+      "https://news.ycombinator.com/item?id=33448661"
+    ],
+    [
+      "UK workers have had their accents mocked, survey suggests",
+      "https://www.bbc.co.uk/news/uk-63494849"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 07:55:40",
       "https://news.ycombinator.com/item?id=33448204"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-11-02, 16:29:17",
-      "https://news.ycombinator.com/item?id=33438493"
-    ],
-    [
-      "LemmyBB, a federated bulletin board",
-      "https://join-lemmy.org/news/2022-11-02-_First_release_of_LemmyBB"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 12:36:06",
       "https://news.ycombinator.com/item?id=33420306"
     ],
@@ -237,6 +237,16 @@
     [
       "Hard User Separation with NixOS",
       "https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 08:52:09",
+      "https://news.ycombinator.com/item?id=33418573"
+    ],
+    [
+      "Command-line data analytics",
+      "https://danielcmoura.com/blog/2022/spyql-cell-towers/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Cloud development environments tame complexity by reducing state",
       "https://medium.com/@kentbeck_7670/cloud-development-environments-tame-complexity-by-reducing-state-4a154ea7959f"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 19:45:13",
-      "https://news.ycombinator.com/item?id=33411748"
-    ],
-    [
-      "Demo of =GPT3() as a spreadsheet feature",
-      "https://twitter.com/shubroski/status/1587136794797244417"
     ]
   ],
   [
