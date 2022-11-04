@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-04, 14:25:49",
+      "https://news.ycombinator.com/item?id=33467223"
+    ],
+    [
+      "Ask HN: Why do HN feel so negatively about Musk?",
+      "https://news.ycombinator.com/item?id=33467223"
+    ]
+  ],
+  [
+    [
       "2022-11-04, 14:01:08",
       "https://news.ycombinator.com/item?id=33466806"
     ],
@@ -27,6 +37,16 @@
     [
       "Ask HN: What Recession?",
       "https://news.ycombinator.com/item?id=33465760"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 12:53:39",
+      "https://news.ycombinator.com/item?id=33465750"
+    ],
+    [
+      "AstraZeneca patients data exposed for over a year due to password snafu",
+      "https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-11-03, 14:32:13",
-      "https://news.ycombinator.com/item?id=33451584"
-    ],
-    [
-      "Launch HN: Akiflow (YC S20) – Bring your tasks and calendars together",
-      "https://news.ycombinator.com/item?id=33451584"
-    ]
-  ],
-  [
-    [
       "2022-11-03, 12:07:32",
       "https://news.ycombinator.com/item?id=33449791"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2022-11-02, 09:21:34",
-      "https://news.ycombinator.com/item?id=33433150"
+      "2022-11-02, 11:07:09",
+      "https://news.ycombinator.com/item?id=33433918"
     ],
     [
-      "Cameras abandoned 85 years ago by photography pioneer found on glacier",
-      "https://petapixel.com/2022/11/01/cameras-abandoned-85-years-ago-by-photography-pioneer-found-on-glacier/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 10:03:20",
-      "https://news.ycombinator.com/item?id=33419089"
-    ],
-    [
-      "‘Date me’ Google Docs and the hyper-optimized quest for love",
-      "https://www.wired.com/story/date-me-google-docs-and-the-hyper-optimized-quest-for-love/"
+      "Verifying GCC optimizations using an SMT solver",
+      "https://kristerw.github.io/2022/11/01/verifying-optimizations/"
     ]
   ]
 ]
