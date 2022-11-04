@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33460587"
     ],
     [
-      "Clojure from a Schemer's Perspective (2021)",
+      "Clojure from a Schemer's perspective (2021)",
       "https://www.more-magic.net/posts/thoughts-on-clojure.html"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33460052"
     ],
     [
-      "Attach your private rail car to an Amtrak train",
+      "Privately-Owned Rail Cars",
       "https://www.amtrak.com/privately-owned-rail-cars"
     ]
   ],
@@ -57,16 +57,6 @@
     [
       "Passage Is Joining 1Password",
       "https://passage.id/post/passage-is-joining-1password"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 23:09:52",
-      "https://news.ycombinator.com/item?id=33459255"
-    ],
-    [
-      "Robinhood reported a 35% drop in September monthly active users",
-      "https://www.wsj.com/articles/robinhood-cuts-losses-after-transaction-revenue-drops-11667426198"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "Photography is not just about the camera",
       "https://peter.czanik.hu/posts/photography-not-just-camera/"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 20:02:54",
+      "https://news.ycombinator.com/item?id=33456708"
+    ],
+    [
+      "The New York Times made a weird editorial decision with its tech coverage",
+      "https://twitter.com/mattyglesias/status/1588190763413868553"
     ]
   ],
   [
@@ -135,18 +135,8 @@
       "https://news.ycombinator.com/item?id=33454205"
     ],
     [
-      "Crows Found to Be Smarter Than We Think",
+      "Crows found to be smarter than we think",
       "https://www.wsj.com/articles/crows-found-to-be-smarter-than-we-think-11667412092"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 16:55:31",
-      "https://news.ycombinator.com/item?id=33453894"
-    ],
-    [
-      "Bye Twitter – Manu Cornet",
-      "https://ma.nu/blog/bye-twitter"
     ]
   ],
   [
@@ -187,16 +177,6 @@
     [
       "Communities Now Available",
       "https://blog.whatsapp.com/communities-now-available"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 14:04:18",
-      "https://news.ycombinator.com/item?id=33451148"
-    ],
-    [
-      "Show HN: Sprig, open-source game console and engine, by teenagers for teenagers",
-      "https://github.com/hackclub/sprig"
     ]
   ],
   [
@@ -245,7 +225,7 @@
       "https://news.ycombinator.com/item?id=33433317"
     ],
     [
-      "A Complete History of Mainframe Computing: Page 2",
+      "History of Mainframe Computing: Page 2 (2009)",
       "https://www.tomshardware.com/picturestory/508-mainframe-computer-history-2.html"
     ]
   ],
@@ -255,7 +235,7 @@
       "https://news.ycombinator.com/item?id=33433150"
     ],
     [
-      "Cameras Abandoned 85 Years Ago by Photography Pioneer Found on Glacier",
+      "Cameras abandoned 85 years ago by photography pioneer found on glacier",
       "https://petapixel.com/2022/11/01/cameras-abandoned-85-years-ago-by-photography-pioneer-found-on-glacier/"
     ]
   ],
@@ -265,8 +245,18 @@
       "https://news.ycombinator.com/item?id=33432757"
     ],
     [
-      "How to deal with Extreme Physical Pain (2020)",
+      "How to deal with extreme physical pain (2020)",
       "https://www.hanselman.com/blog/how-to-deal-with-extreme-physical-pain"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 07:39:40",
+      "https://news.ycombinator.com/item?id=33432396"
+    ],
+    [
+      "Map, magnetic, and grid north all align in southwest England",
+      "https://www.bbc.co.uk/news/uk-england-dorset-63475943"
     ]
   ],
   [
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2022-11-01, 11:19:24",
+      "https://news.ycombinator.com/item?id=33419659"
+    ],
+    [
+      "CORDIC",
+      "https://en.wikipedia.org/wiki/CORDIC"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 10:03:20",
       "https://news.ycombinator.com/item?id=33419089"
     ],
     [
-      "‘Date Me’ Google Docs and the Hyper-Optimized Quest for Love",
+      "‘Date me’ Google Docs and the hyper-optimized quest for love",
       "https://www.wired.com/story/date-me-google-docs-and-the-hyper-optimized-quest-for-love/"
     ]
   ]
