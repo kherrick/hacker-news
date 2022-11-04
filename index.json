@@ -1,22 +1,12 @@
 [
   [
     [
-      "2022-11-04, 20:06:46",
-      "https://news.ycombinator.com/item?id=33473008"
+      "2022-11-04, 20:00:36",
+      "https://news.ycombinator.com/item?id=33472922"
     ],
     [
-      "HBO cancels ‘Westworld’ in shock decision",
-      "https://www.hollywoodreporter.com/tv/tv-news/hbo-cancels-westworld-1235255955/"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 19:53:46",
-      "https://news.ycombinator.com/item?id=33472829"
-    ],
-    [
-      "“The entire Human Rights team has been cut from the company.”",
-      "https://twitter.com/shannonrsingh/status/1588591603622772736"
+      "Up to 30% of online reviews are fake and consumers can't tell the difference",
+      "https://cbsaustin.com/news/local/up-to-30-of-online-reviews-are-fake-and-most-consumers-cant-tell-the-difference"
     ]
   ],
   [
@@ -41,22 +31,22 @@
   ],
   [
     [
+      "2022-11-04, 19:10:01",
+      "https://news.ycombinator.com/item?id=33472138"
+    ],
+    [
+      "Show HN: Auto generate images from Figma using an API",
+      "https://pikmaker.com/"
+    ]
+  ],
+  [
+    [
       "2022-11-04, 19:06:46",
       "https://news.ycombinator.com/item?id=33472088"
     ],
     [
       "New Zealand plunges into recessionary spiral",
       "https://www.macrobusiness.com.au/2022/10/new-zealand-plunges-into-recessionary-spiral/"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 18:56:28",
-      "https://news.ycombinator.com/item?id=33471913"
-    ],
-    [
-      "Going from engineer to entrepreneur takes more than just good code",
-      "https://stackoverflow.blog/2022/11/04/going-from-engineer-to-entrepreneur-takes-more-than-just-good-code-ep-503/"
     ]
   ],
   [
@@ -75,18 +65,8 @@
       "https://news.ycombinator.com/item?id=33471733"
     ],
     [
-      "RStudio is now Posit, our mission continues",
+      "RStudio is now Posit",
       "https://posit.co/"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 18:37:42",
-      "https://news.ycombinator.com/item?id=33471643"
-    ],
-    [
-      "Thoughts about Twitter",
-      "https://nolancaudill.com/2022/11/04/thoughts-about-twitter/"
     ]
   ],
   [
@@ -121,12 +101,12 @@
   ],
   [
     [
-      "2022-11-04, 17:02:37",
-      "https://news.ycombinator.com/item?id=33470066"
+      "2022-11-04, 16:57:33",
+      "https://news.ycombinator.com/item?id=33469978"
     ],
     [
-      "Show HN: Top 70000 educational YouTube channels in 20 languages by category",
-      "https://limnology.co/"
+      "Tim Berners-Lee: ‘Web3 is not the web at all’",
+      "https://www.cnbc.com/2022/11/04/web-inventor-tim-berners-lee-wants-us-to-ignore-web3.html"
     ]
   ],
   [
@@ -165,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33468052"
     ],
     [
-      "Show HN: Step CI – open-source lightweight alternative to Checkly",
+      "Show HN: Step CI – open-source lightweight alternative to Pingdom and Checkly",
       "https://github.com/stepci/stepci"
     ]
   ],
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2022-11-04, 12:45:31",
+      "https://news.ycombinator.com/item?id=33465645"
+    ],
+    [
+      "Linode Outage in Dallas, Fremont, Atlanta, Newark, and Toronto Data Centers",
+      "https://status.linode.com/incidents/bqlkm3ttppdl"
+    ]
+  ],
+  [
+    [
       "2022-11-04, 10:44:28",
       "https://news.ycombinator.com/item?id=33464492"
     ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2022-11-03, 12:44:10",
+      "https://news.ycombinator.com/item?id=33450141"
+    ],
+    [
+      "Everywhere at the End of Time",
+      "https://en.wikipedia.org/wiki/Everywhere_at_the_End_of_Time"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 12:01:19",
       "https://news.ycombinator.com/item?id=33449733"
     ],
@@ -257,6 +257,16 @@
     [
       "Taste vs. Skills",
       "https://refactoring.fm/p/taste-vs-skills"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 10:13:34",
+      "https://news.ycombinator.com/item?id=33449033"
+    ],
+    [
+      "Replacing forks and chopsticks with pincers",
+      "https://medium.com/@jbuxton97/on-replacing-forks-and-chopsticks-with-pincers-e8390d614450"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Vulnerable Internet",
       "https://www.wired.com/story/submarine-internet-cables-egypt/"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 11:07:09",
-      "https://news.ycombinator.com/item?id=33433918"
-    ],
-    [
-      "Verifying GCC optimizations using an SMT solver",
-      "https://kristerw.github.io/2022/11/01/verifying-optimizations/"
     ]
   ]
 ]
