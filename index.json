@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=33462658"
     ],
     [
-      "I Fought the PayPal and I Won",
+      "I fought the PayPal and I won",
       "https://jessesingal.substack.com/p/i-fought-the-paypal-and-i-won"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 05:39:59",
-      "https://news.ycombinator.com/item?id=33462629"
-    ],
-    [
-      "Twitter employees: IMPORTANT INFO from a CA employment attorney",
-      "https://twitter.com/lisabloom/status/1588359669843513344"
     ]
   ],
   [
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33462345"
     ],
     [
-      "The Linux Scheduler: A Decade of Wasted Cores",
+      "The Linux scheduler: A decade of wasted cores (2016)",
       "https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/"
     ]
   ],
@@ -67,6 +57,16 @@
     [
       "ZLibrary domains have been seized by the United States Postal Inspection Service",
       "http://3lib.net/"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 01:40:21",
+      "https://news.ycombinator.com/item?id=33460670"
+    ],
+    [
+      "Blurhash: A compact representation of a placeholder for an image",
+      "https://github.com/woltapp/blurhash"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=33434364"
     ],
     [
-      "Travis Basevi: the Statsguru visionary who transformed cricket",
+      "The Statsguru visionary who transformed cricket",
       "https://www.theguardian.com/sport/2022/nov/02/travis-bavesi-the-statsguru-visionary-who-transformed-cricket-spin"
     ]
   ],
