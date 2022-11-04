@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-11-04, 12:54:10",
+      "https://news.ycombinator.com/item?id=33465760"
+    ],
+    [
+      "Ask HN: What Recession?",
+      "https://news.ycombinator.com/item?id=33465760"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 12:49:59",
+      "https://news.ycombinator.com/item?id=33465707"
+    ],
+    [
+      "Sudo: Heap-based overflow with small passwords",
+      "https://bugzilla.redhat.com/show_bug.cgi?id=2139911"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 12:45:31",
+      "https://news.ycombinator.com/item?id=33465645"
+    ],
+    [
+      "Linode Outage in Dallas, Fremont, Atlanta, Newark, and Toronto Data Centers",
+      "https://status.linode.com/incidents/bqlkm3ttppdl"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 12:20:42",
+      "https://news.ycombinator.com/item?id=33465386"
+    ],
+    [
+      "Telling people you're a self taught developer in YouTube is a big business now",
+      "https://news.ycombinator.com/item?id=33465386"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 12:16:18",
+      "https://news.ycombinator.com/item?id=33465330"
+    ],
+    [
+      "Companies like HP must split to survive, is like the evolution of new species",
+      "https://www.bu.edu/articles/2022/how-racism-and-bias-influence-substance-use-and-addiction-treatment/"
+    ]
+  ],
+  [
+    [
       "2022-11-04, 12:01:20",
       "https://news.ycombinator.com/item?id=33465187"
     ],
@@ -31,16 +81,6 @@
   ],
   [
     [
-      "2022-11-04, 11:00:50",
-      "https://news.ycombinator.com/item?id=33464654"
-    ],
-    [
-      "Twitter to employees today: 'If in office or on your way, please return home'",
-      "https://www.firstpost.com/world/if-in-office-or-on-your-way-please-return-home-elon-musks-email-sent-to-twitter-employees-confirm-layoffs-11570141.html"
-    ]
-  ],
-  [
-    [
       "2022-11-04, 10:44:31",
       "https://news.ycombinator.com/item?id=33464494"
     ],
@@ -61,22 +101,22 @@
   ],
   [
     [
+      "2022-11-04, 09:33:25",
+      "https://news.ycombinator.com/item?id=33463908"
+    ],
+    [
+      "Twitter’s mass layoffs have begun",
+      "https://techcrunch.com/2022/11/03/twitter-layoffs-elon-musk/"
+    ]
+  ],
+  [
+    [
       "2022-11-04, 08:59:38",
       "https://news.ycombinator.com/item?id=33463683"
     ],
     [
       "Low Energy Chest Fridge",
       "https://www.notechmagazine.com/2022/11/low-energy-chest-fridge.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 08:42:40",
-      "https://news.ycombinator.com/item?id=33463586"
-    ],
-    [
-      "UK to hand over Chagos back to Mauritius",
-      "https://www.theguardian.com/world/2022/nov/03/uk-agrees-to-negotiate-with-mauritius-over-handover-of-chagos-islands"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "I fought the PayPal and I won",
       "https://jessesingal.substack.com/p/i-fought-the-paypal-and-i-won"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 05:09:12",
-      "https://news.ycombinator.com/item?id=33462454"
-    ],
-    [
-      "Why Lisp?",
-      "https://github.com/naver/lispe/wiki/6.16-Why-Lisp"
     ]
   ],
   [
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2022-11-03, 23:44:26",
-      "https://news.ycombinator.com/item?id=33459600"
-    ],
-    [
-      "It's about time – Approaching bitemporality",
-      "https://javahippie.net/databases/bitemporality/2022/11/03/its-about-time-1.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 14:32:13",
-      "https://news.ycombinator.com/item?id=33451584"
-    ],
-    [
-      "Launch HN: Akiflow (YC S20) – Bring your tasks and calendars together",
-      "https://news.ycombinator.com/item?id=33451584"
-    ]
-  ],
-  [
-    [
       "2022-11-03, 13:37:58",
       "https://news.ycombinator.com/item?id=33450753"
     ],
@@ -217,6 +227,16 @@
     [
       "Ex-Reddit CEO on Twitter moderation",
       "https://twitter.com/yishan/status/1586955288061452289"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 11:25:28",
+      "https://news.ycombinator.com/item?id=33449475"
+    ],
+    [
+      "Show HN: PostgreSQL Sessions in Vim",
+      "https://github.com/patrkris/pisk"
     ]
   ],
   [
@@ -241,6 +261,16 @@
   ],
   [
     [
+      "2022-11-03, 01:49:51",
+      "https://news.ycombinator.com/item?id=33445761"
+    ],
+    [
+      "Hunting for Hieroglyphs at Philae (2019)",
+      "https://nilescribes.org/2019/12/14/hunting-hieroglyphs-philae/"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 12:05:50",
       "https://news.ycombinator.com/item?id=33434364"
     ],
@@ -257,36 +287,6 @@
     [
       "Cameras abandoned 85 years ago by photography pioneer found on glacier",
       "https://petapixel.com/2022/11/01/cameras-abandoned-85-years-ago-by-photography-pioneer-found-on-glacier/"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 07:39:40",
-      "https://news.ycombinator.com/item?id=33432396"
-    ],
-    [
-      "Map, magnetic, and grid north all align in southwest England",
-      "https://www.bbc.co.uk/news/uk-england-dorset-63475943"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 12:04:18",
-      "https://news.ycombinator.com/item?id=33420068"
-    ],
-    [
-      "Robb Oat is a robot software engineer",
-      "https://robboat.com"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 11:17:35",
-      "https://news.ycombinator.com/item?id=33419643"
-    ],
-    [
-      "Cave of Sounds: 8 instruments, 3 continents, 10 years",
-      "https://timmb.com/cave-of-sounds-8-instruments-3-continents-10-years/"
     ]
   ],
   [
