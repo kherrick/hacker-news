@@ -1,22 +1,52 @@
 [
   [
     [
-      "2022-11-04, 00:51:18",
-      "https://news.ycombinator.com/item?id=33460233"
+      "2022-11-04, 02:06:30",
+      "https://news.ycombinator.com/item?id=33460970"
     ],
     [
-      "Jack Dorsey Unveils Bluesky Social, the Decentralized Twitter",
-      "https://www.geekmetaverse.com/jack-dorsey-unveils-bluesky-social-the-decentralized-twitter/"
+      "ZLibrary domains have been seized by the United States Postal Inspection Service",
+      "http://3lib.net/"
     ]
   ],
   [
     [
-      "2022-11-04, 00:16:24",
-      "https://news.ycombinator.com/item?id=33459918"
+      "2022-11-04, 01:31:51",
+      "https://news.ycombinator.com/item?id=33460587"
     ],
     [
-      "Search Pipeline: Part I",
-      "https://canvatechblog.com/search-pipeline-part-i-faa6c543aef1"
+      "Clojure from a Schemer's Perspective (2021)",
+      "https://www.more-magic.net/posts/thoughts-on-clojure.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 01:01:41",
+      "https://news.ycombinator.com/item?id=33460307"
+    ],
+    [
+      "Twitter to start layoffs -internal email",
+      "https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 00:29:48",
+      "https://news.ycombinator.com/item?id=33460052"
+    ],
+    [
+      "Attach your private rail car to an Amtrak train",
+      "https://www.amtrak.com/privately-owned-rail-cars"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 00:18:14",
+      "https://news.ycombinator.com/item?id=33459938"
+    ],
+    [
+      "Passage Is Joining 1Password",
+      "https://passage.id/post/passage-is-joining-1password"
     ]
   ],
   [
@@ -121,6 +151,16 @@
   ],
   [
     [
+      "2022-11-03, 17:14:24",
+      "https://news.ycombinator.com/item?id=33454205"
+    ],
+    [
+      "Crows Found to Be Smarter Than We Think",
+      "https://www.wsj.com/articles/crows-found-to-be-smarter-than-we-think-11667412092"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 16:55:31",
       "https://news.ycombinator.com/item?id=33453894"
     ],
@@ -211,46 +251,6 @@
   ],
   [
     [
-      "2022-11-03, 11:39:50",
-      "https://news.ycombinator.com/item?id=33449574"
-    ],
-    [
-      "Duplicati: Free backup software to store encrypted backups online",
-      "https://www.duplicati.com/"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 11:02:03",
-      "https://news.ycombinator.com/item?id=33449323"
-    ],
-    [
-      "Sile: A Modern Rewrite of TeX",
-      "https://sile-typesetter.org/"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 10:58:50",
-      "https://news.ycombinator.com/item?id=33449297"
-    ],
-    [
-      "FreeBSD optimizations used by Netflix to serve video at 800Gb/s [pdf]",
-      "https://people.freebsd.org/~gallatin/talks/euro2022.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 10:37:04",
-      "https://news.ycombinator.com/item?id=33449159"
-    ],
-    [
-      "Over 16k people still use a Pebble smartwatch",
-      "https://rebble.io/2022/11/02/rebble-hackathon.html"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 09:21:34",
       "https://news.ycombinator.com/item?id=33433150"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-11-01, 12:45:31",
-      "https://news.ycombinator.com/item?id=33420392"
-    ],
-    [
-      "The Reciprocal Value of Access to Maintainers",
-      "https://words.filippo.io/dispatches/reciprocal/"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 12:04:18",
       "https://news.ycombinator.com/item?id=33420068"
     ],
@@ -297,6 +287,16 @@
     [
       "CORDIC",
       "https://en.wikipedia.org/wiki/CORDIC"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 10:03:20",
+      "https://news.ycombinator.com/item?id=33419089"
+    ],
+    [
+      "‘Date Me’ Google Docs and the Hyper-Optimized Quest for Love",
+      "https://www.wired.com/story/date-me-google-docs-and-the-hyper-optimized-quest-for-love/"
     ]
   ]
 ]
