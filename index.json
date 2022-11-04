@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-04, 04:49:42",
+      "https://news.ycombinator.com/item?id=33462337"
+    ],
+    [
+      "Tinygrad: A simple and powerful neural network framework",
+      "https://tinygrad.org/"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 03:51:13",
+      "https://news.ycombinator.com/item?id=33461952"
+    ],
+    [
+      "A Golang linter to detect functions not in alphabetical order",
+      "https://github.com/skx/alphavet"
+    ]
+  ],
+  [
+    [
       "2022-11-04, 02:06:30",
       "https://news.ycombinator.com/item?id=33460970"
     ],
@@ -17,16 +37,6 @@
     [
       "Clojure from a Schemer's Perspective (2021)",
       "https://www.more-magic.net/posts/thoughts-on-clojure.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 01:01:41",
-      "https://news.ycombinator.com/item?id=33460307"
-    ],
-    [
-      "Twitter to start layoffs -internal email",
-      "https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/"
     ]
   ],
   [
@@ -65,18 +75,8 @@
       "https://news.ycombinator.com/item?id=33458756"
     ],
     [
-      "Is Microsoft's CBL-Mariner Going to Become Microsoft Linux?",
+      "Is CBL-Mariner going to become Microsoft Linux?",
       "https://boxofcables.dev/cbl-delridge-is-dead-long-live-cbl-mariner/"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 22:11:47",
-      "https://news.ycombinator.com/item?id=33458563"
-    ],
-    [
-      "Microsoft is killing custom domain names in Outlook.com",
-      "https://www.bigtechwire.com/2022/11/02/microsoft-is-killing-custom-domain-names-in-outlook-com/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2022-11-02, 04:35:53",
+      "https://news.ycombinator.com/item?id=33431486"
+    ],
+    [
+      "An experimental approach to lighting systems in Paleolithic caves",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250497"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 12:04:18",
       "https://news.ycombinator.com/item?id=33420068"
     ],
     [
       "Robb Oat is a robot software engineer",
       "https://robboat.com"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 11:19:24",
-      "https://news.ycombinator.com/item?id=33419659"
-    ],
-    [
-      "CORDIC",
-      "https://en.wikipedia.org/wiki/CORDIC"
     ]
   ],
   [
