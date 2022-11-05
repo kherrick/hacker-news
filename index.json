@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-11-05, 03:59:59",
+      "https://news.ycombinator.com/item?id=33477793"
+    ],
+    [
+      "Mathics: A free, open-source alternative to Mathematica",
+      "https://mathics.org/"
+    ]
+  ],
+  [
+    [
       "2022-11-05, 03:12:44",
       "https://news.ycombinator.com/item?id=33477463"
     ],
     [
       "Backlash after 500 drones light up New York City sky to celebrate Candy Crush",
       "https://www.theguardian.com/us-news/2022/nov/04/candy-crush-drone-show-backlash"
-    ]
-  ],
-  [
-    [
-      "2022-11-05, 02:00:53",
-      "https://news.ycombinator.com/item?id=33476960"
-    ],
-    [
-      "60% of home compostable plastic doesn’t fully break down, ending up in our soil",
-      "https://blog.frontiersin.org/2022/11/03/60-of-home-compostable-plastic-doesnt-fully-break-down-ending-up-in-our-soil/"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Hollow City: Edward Hopper’s portraits of urban alienation",
       "https://thebaffler.com/latest/hollow-city-arn"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 22:17:33",
+      "https://news.ycombinator.com/item?id=33474681"
+    ],
+    [
+      "Rage Against The Machine’s explosive debut album changed everything",
+      "https://www.loudersound.com/features/rage-against-the-machine-debut-album-story"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "AI Learns to Play CS:Go via Large-Scale Behavioural Cloning",
       "https://arxiv.org/abs/2104.04258"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 12:49:59",
-      "https://news.ycombinator.com/item?id=33465707"
-    ],
-    [
-      "Sudo: Heap-based overflow with small passwords",
-      "https://bugzilla.redhat.com/show_bug.cgi?id=2139911"
     ]
   ],
   [
