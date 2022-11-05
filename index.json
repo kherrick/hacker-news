@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-05, 15:47:04",
+      "https://news.ycombinator.com/item?id=33482573"
+    ],
+    [
+      "Twitter UK staff get deadline over cuts consultation",
+      "https://www.bbc.co.uk/news/technology-63527336"
+    ]
+  ],
+  [
+    [
       "2022-11-05, 15:11:35",
       "https://news.ycombinator.com/item?id=33482215"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2022-11-04, 20:46:02",
-      "https://news.ycombinator.com/item?id=33473497"
+      "2022-11-04, 07:52:16",
+      "https://news.ycombinator.com/item?id=33463327"
     ],
     [
-      "In defense of linked lists",
-      "http://antirez.com/news/138"
+      "Tales from the Kernel Parameter Side",
+      "https://sysdig.com/blog/kernel-parameters-falco/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Postgres Insider Terminology",
       "https://www.crunchydata.com/blog/challenging-postgres-terminology"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 01:22:24",
-      "https://news.ycombinator.com/item?id=33460489"
-    ],
-    [
-      "The Incredible Proof Machine (2016)",
-      "https://incredible.pm/"
     ]
   ],
   [
