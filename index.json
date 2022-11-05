@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-11-05, 13:24:32",
+      "https://news.ycombinator.com/item?id=33481232"
+    ],
+    [
+      "Quantum Winter Is Coming",
+      "http://backreaction.blogspot.com/2022/11/quantum-winter-is-coming.html"
+    ]
+  ],
+  [
+    [
       "2022-11-05, 12:40:32",
       "https://news.ycombinator.com/item?id=33480849"
     ],
@@ -27,16 +37,6 @@
     [
       "Eighty Years of the Finite Element Method: Birth, Evolution, and Future",
       "https://link.springer.com/article/10.1007/s11831-022-09740-9"
-    ]
-  ],
-  [
-    [
-      "2022-11-05, 12:13:52",
-      "https://news.ycombinator.com/item?id=33480713"
-    ],
-    [
-      "The Public Shouldn’t Pay for Drugs Twice",
-      "https://undark.org/2022/11/03/the-public-shouldnt-pay-for-drugs-twice/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2022-11-04, 20:52:04",
-      "https://news.ycombinator.com/item?id=33473571"
-    ],
-    [
-      "System containers as Docker sandboxes (2019)",
-      "https://blog.nestybox.com/2019/11/11/docker-sandbox.html"
-    ]
-  ],
-  [
-    [
       "2022-11-04, 20:46:02",
       "https://news.ycombinator.com/item?id=33473497"
     ],
     [
       "In defense of linked lists",
       "http://antirez.com/news/138"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 06:46:26",
+      "https://news.ycombinator.com/item?id=33462983"
+    ],
+    [
+      "Postgres Insider Terminology",
+      "https://www.crunchydata.com/blog/challenging-postgres-terminology"
     ]
   ],
   [
