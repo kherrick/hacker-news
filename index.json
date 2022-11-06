@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-11-06, 14:10:02",
+      "https://news.ycombinator.com/item?id=33492794"
+    ],
+    [
+      "Ancient water system uncovered at Roman Stabiae",
+      "https://www.heritagedaily.com/2022/11/ancient-water-system-uncovered-at-roman-stabiae/145135"
+    ]
+  ],
+  [
+    [
       "2022-11-06, 14:07:52",
       "https://news.ycombinator.com/item?id=33492770"
     ],
     [
       "Galois field instructions on 2021 CPUs",
       "http://www.corsix.org/content/galois-field-instructions-2021-cpus"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 14:02:34",
-      "https://news.ycombinator.com/item?id=33492729"
-    ],
-    [
-      "Was everyone stupid back then?",
-      "https://www.smbc-comics.com/comic/internet-5"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Nearly all binary searches and mergesorts are broken (2006)",
       "https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 13:01:45",
-      "https://news.ycombinator.com/item?id=33492114"
-    ],
-    [
-      "Ask HN: How do you navigate Seasonal Affective Disorder?",
-      "https://news.ycombinator.com/item?id=33492114"
     ]
   ],
   [
@@ -271,11 +261,21 @@
   ],
   [
     [
+      "2022-11-05, 21:12:46",
+      "https://news.ycombinator.com/item?id=33485830"
+    ],
+    [
+      "QualityScaler: Image/video deeplearning upscaler with any GPU",
+      "https://github.com/Djdefrag/QualityScaler"
+    ]
+  ],
+  [
+    [
       "2022-11-05, 18:21:56",
       "https://news.ycombinator.com/item?id=33484145"
     ],
     [
-      "Scientists demonstrate that crows are capable of recursion",
+      "Crows are capable of recursion, scientists claim",
       "https://www.scientificamerican.com/article/crows-perform-yet-another-skill-once-thought-distinctively-human/"
     ]
   ],
