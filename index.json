@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-06, 20:57:25",
+      "https://news.ycombinator.com/item?id=33497051"
+    ],
+    [
+      "2 years of fiddling with Rust – critical thoughts",
+      "https://n-eq.github.io/blog/2022/11/01/rust-fiddling-2-years"
+    ]
+  ],
+  [
+    [
       "2022-11-06, 20:55:00",
       "https://news.ycombinator.com/item?id=33497012"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2022-11-06, 20:52:52",
-      "https://news.ycombinator.com/item?id=33496991"
+      "2022-11-06, 20:36:19",
+      "https://news.ycombinator.com/item?id=33496808"
     ],
     [
-      "A Big List of Mastodon Resources",
-      "https://researchbuzz.me/2022/11/05/a-big-list-of-mastodon-resources/"
+      "Twitter Now Asks Some Fired Workers to Please Come Back",
+      "https://www.bloomberg.com/news/articles/2022-11-06/twitter-now-asks-some-fired-workers-to-please-come-back"
     ]
   ],
   [
@@ -27,26 +37,6 @@
     [
       "proofInAToot",
       "https://mathstodon.xyz/tags/proofInAToot"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 18:58:59",
-      "https://news.ycombinator.com/item?id=33495853"
-    ],
-    [
-      "Twitter’s Entire A11y Experience Team Let Go",
-      "https://twitter.com/gerardkcohen/status/1588584459779321857"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 18:54:37",
-      "https://news.ycombinator.com/item?id=33495817"
-    ],
-    [
-      "BBC: Twitter users jump to Mastodon – but what is it?",
-      "https://www.bbc.com/news/technology-63534240"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Make your DOM look like an eye that can focus on anything",
       "https://github.com/jj811208/watching-you"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 06:55:56",
+      "https://news.ycombinator.com/item?id=33489935"
+    ],
+    [
+      "eBPF – Adding functionality to OS at runtime",
+      "https://ebpf.io/what-is-ebpf/"
     ]
   ],
   [
