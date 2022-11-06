@@ -11,11 +11,31 @@
   ],
   [
     [
+      "2022-11-06, 21:42:30",
+      "https://news.ycombinator.com/item?id=33497585"
+    ],
+    [
+      "Germany‘s state sponsored privacy agency on Mastodon",
+      "https://social.bund.de/explore"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 20:59:31",
+      "https://news.ycombinator.com/item?id=33497075"
+    ],
+    [
+      "The plan to save America by killing the partisan primary",
+      "https://www.vox.com/policy-and-politics/23412858/nevada-question-3-final-five-voting-katherine-gehl"
+    ]
+  ],
+  [
+    [
       "2022-11-06, 20:57:25",
       "https://news.ycombinator.com/item?id=33497051"
     ],
     [
-      "2 years of fiddling with Rust – critical thoughts",
+      "Two years of fiddling with Rust",
       "https://n-eq.github.io/blog/2022/11/01/rust-fiddling-2-years"
     ]
   ],
@@ -25,28 +45,8 @@
       "https://news.ycombinator.com/item?id=33497020"
     ],
     [
-      "Barilla Passive Cooker",
+      "Barilla passive cooker",
       "https://www.barilla.com/en-gb/passive-cooking"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 19:58:56",
-      "https://news.ycombinator.com/item?id=33496414"
-    ],
-    [
-      "Veloren is a multiplayer voxel RPG written in Rust",
-      "https://veloren.net/"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 19:00:56",
-      "https://news.ycombinator.com/item?id=33495876"
-    ],
-    [
-      "proofInAToot",
-      "https://mathstodon.xyz/tags/proofInAToot"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33495496"
     ],
     [
-      "The Lonely Runner Conjecture",
+      "The lonely runner conjecture",
       "https://en.wikipedia.org/wiki/Lonely_runner_conjecture"
     ]
   ],
@@ -75,18 +75,8 @@
       "https://news.ycombinator.com/item?id=33495295"
     ],
     [
-      "What to Blog About",
+      "What to blog about",
       "https://simonwillison.net/2022/Nov/6/what-to-blog-about/"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 17:18:18",
-      "https://news.ycombinator.com/item?id=33494840"
-    ],
-    [
-      "Helix: Post-Modern Text Editor",
-      "https://helix-editor.com/"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "The essence of Reed-Solomon coding",
       "https://mazzo.li/posts/reed-solomon.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 13:02:16",
+      "https://news.ycombinator.com/item?id=33492122"
+    ],
+    [
+      "Nearly all binary searches and mergesorts are broken (2006)",
+      "https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html"
     ]
   ],
   [
