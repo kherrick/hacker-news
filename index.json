@@ -1,12 +1,72 @@
 [
   [
     [
+      "2022-11-06, 12:15:03",
+      "https://news.ycombinator.com/item?id=33491781"
+    ],
+    [
+      "Home Truths about macOS",
+      "https://eclecticlight.co/2022/11/06/last-week-on-my-mac-home-truths-about-macos/"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 12:03:19",
+      "https://news.ycombinator.com/item?id=33491702"
+    ],
+    [
+      "Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations",
+      "https://skio.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 12:00:48",
+      "https://news.ycombinator.com/item?id=33491684"
+    ],
+    [
+      "Ask HN: ActivityPub or Mastodon?",
+      "https://news.ycombinator.com/item?id=33491684"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 11:58:11",
+      "https://news.ycombinator.com/item?id=33491662"
+    ],
+    [
+      "Twilight: A Differentially Private Payment Channel Network",
+      "https://www.usenix.org/conference/usenixsecurity22/presentation/dotan"
+    ]
+  ],
+  [
+    [
       "2022-11-06, 11:24:24",
       "https://news.ycombinator.com/item?id=33491446"
     ],
     [
       "Ask HN: Open-Source GitHub Copilot?",
       "https://news.ycombinator.com/item?id=33491446"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 11:22:37",
+      "https://news.ycombinator.com/item?id=33491437"
+    ],
+    [
+      "New research suggests nose picking could increase risk for Alzheimer’s",
+      "https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 11:21:52",
+      "https://news.ycombinator.com/item?id=33491433"
+    ],
+    [
+      "EU Voice is the official ActivityPub microblogging platform of the EU",
+      "https://social.network.europa.eu/about/more"
     ]
   ],
   [
@@ -171,16 +231,6 @@
   ],
   [
     [
-      "2022-11-05, 23:24:44",
-      "https://news.ycombinator.com/item?id=33487021"
-    ],
-    [
-      "Towards Moore's Law Software (2008)",
-      "http://www.moserware.com/2008/04/towards-moores-law-software-part-3-of-3.html"
-    ]
-  ],
-  [
-    [
       "2022-11-05, 23:11:38",
       "https://news.ycombinator.com/item?id=33486938"
     ],
@@ -211,16 +261,6 @@
   ],
   [
     [
-      "2022-11-05, 21:26:27",
-      "https://news.ycombinator.com/item?id=33485985"
-    ],
-    [
-      "3D OpenStreetMap",
-      "https://demo.f4map.com"
-    ]
-  ],
-  [
-    [
       "2022-11-05, 21:12:46",
       "https://news.ycombinator.com/item?id=33485830"
     ],
@@ -241,26 +281,6 @@
   ],
   [
     [
-      "2022-11-05, 16:48:58",
-      "https://news.ycombinator.com/item?id=33483165"
-    ],
-    [
-      "Negative 2000 Lines of Code (1982)",
-      "https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt"
-    ]
-  ],
-  [
-    [
-      "2022-11-05, 13:39:58",
-      "https://news.ycombinator.com/item?id=33481368"
-    ],
-    [
-      "Fractal tasks and the journey through the forest of the infinite (2020)",
-      "https://gameweld.medium.com/fractal-tasks-and-the-journey-through-the-forest-of-the-infinite-c6c5d3cefc2e"
-    ]
-  ],
-  [
-    [
       "2022-11-05, 08:43:55",
       "https://news.ycombinator.com/item?id=33479310"
     ],
@@ -277,26 +297,6 @@
     [
       "Keropunk Part 2: Lantern Analysis",
       "https://www.sevarg.net/2022/10/22/keropunk-part-2-kerosene-lantern-analysis/"
-    ]
-  ],
-  [
-    [
-      "2022-11-05, 06:06:49",
-      "https://news.ycombinator.com/item?id=33478440"
-    ],
-    [
-      "The Secret Microscope That Sparked a Scientific Revolution",
-      "https://www.wired.com/story/secret-microscope-sparked-scientific-revolution/"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 20:33:53",
-      "https://news.ycombinator.com/item?id=33473397"
-    ],
-    [
-      "How close is RISC-V to RISC-I? (2017)",
-      "https://web.archive.org/web/20220331041830/https://aspire.eecs.berkeley.edu/2017/06/how-close-is-risc-v-to-risc-i/"
     ]
   ]
 ]
