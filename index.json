@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-06, 04:21:17",
+      "https://news.ycombinator.com/item?id=33488957"
+    ],
+    [
+      "Mastodon v4.0.0 Release Candidate",
+      "https://github.com/mastodon/mastodon/releases/tag/v4.0.0rc1"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 04:14:47",
+      "https://news.ycombinator.com/item?id=33488899"
+    ],
+    [
+      "Twitter, when the wall came down",
+      "http://dtrace.org/blogs/bmc/2022/11/05/twitter-when-the-wall-came-down/"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 04:12:47",
+      "https://news.ycombinator.com/item?id=33488891"
+    ],
+    [
+      "Hello",
+      "https://news.ycombinator.com/item?id=33488891"
+    ]
+  ],
+  [
+    [
       "2022-11-06, 02:33:13",
       "https://news.ycombinator.com/item?id=33488268"
     ],
@@ -107,36 +137,6 @@
     [
       "QualityScaler: Image/video deeplearning upscaler with any GPU",
       "https://github.com/Djdefrag/QualityScaler"
-    ]
-  ],
-  [
-    [
-      "2022-11-05, 20:49:50",
-      "https://news.ycombinator.com/item?id=33485544"
-    ],
-    [
-      "Microsoft sued for open-source piracy through GitHub Copilot",
-      "https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/"
-    ]
-  ],
-  [
-    [
-      "2022-11-05, 17:12:30",
-      "https://news.ycombinator.com/item?id=33483372"
-    ],
-    [
-      "Engineered ‘Superplant’ Cleans Indoor Air Like 30 Regular Plants",
-      "https://singularityhub.com/2022/11/02/this-engineered-superplant-cleans-indoor-air-like-30-regular-plants/"
-    ]
-  ],
-  [
-    [
-      "2022-11-05, 17:02:47",
-      "https://news.ycombinator.com/item?id=33483285"
-    ],
-    [
-      "Physical Warp Drives (2021)",
-      "https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2022-11-05, 06:22:28",
+      "https://news.ycombinator.com/item?id=33478511"
+    ],
+    [
+      "It’s the Way That You Do It",
+      "https://www.berfrois.com/2022/11/samuel-jay-keyser-quit-your-books/"
+    ]
+  ],
+  [
+    [
       "2022-11-05, 03:31:17",
       "https://news.ycombinator.com/item?id=33477589"
     ],
@@ -267,16 +277,6 @@
     [
       "How close is RISC-V to RISC-I? (2017)",
       "https://web.archive.org/web/20220331041830/https://aspire.eecs.berkeley.edu/2017/06/how-close-is-risc-v-to-risc-i/"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 06:46:26",
-      "https://news.ycombinator.com/item?id=33462983"
-    ],
-    [
-      "Postgres Insider Terminology",
-      "https://www.crunchydata.com/blog/challenging-postgres-terminology"
     ]
   ],
   [
