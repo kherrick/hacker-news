@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-11-05, 23:35:21",
-      "https://news.ycombinator.com/item?id=33487107"
+      "2022-11-06, 00:55:36",
+      "https://news.ycombinator.com/item?id=33487598"
     ],
     [
-      "Z-Library eBook site domains seized by U.S. Dept of Justice",
-      "https://www.bleepingcomputer.com/news/technology/z-library-ebook-site-domains-seized-by-us-dept-of-justice/"
+      "NASA Puts Jet Propulsion Lab on Blast over Psyche Mission Failures",
+      "https://futurism.com/the-byte/nasa-jpl-psyche-independent-review"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 00:02:02",
+      "https://news.ycombinator.com/item?id=33487271"
+    ],
+    [
+      "DIY Van Building with 8020 Extruded Aluminum",
+      "https://engineerswhovanlife.com/extruded-aluminum-van-build-guide/"
+    ]
+  ],
+  [
+    [
+      "2022-11-05, 23:48:53",
+      "https://news.ycombinator.com/item?id=33487178"
+    ],
+    [
+      "Thoughts on the “Guard” Proposal for Go's Error Handling",
+      "https://wagslane.dev/posts/guard-keyword-error-handling-golang/"
     ]
   ],
   [
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2022-11-05, 22:12:13",
-      "https://news.ycombinator.com/item?id=33486449"
-    ],
-    [
-      "Hurricane Ian and EV Fires",
-      "https://www.edn.com/hurricane-ian-and-ev-fires/"
-    ]
-  ],
-  [
-    [
       "2022-11-05, 21:26:27",
       "https://news.ycombinator.com/item?id=33485985"
     ],
@@ -57,6 +67,16 @@
     [
       "Microsoft sued for open-source piracy through GitHub Copilot",
       "https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/"
+    ]
+  ],
+  [
+    [
+      "2022-11-05, 17:46:51",
+      "https://news.ycombinator.com/item?id=33483751"
+    ],
+    [
+      "Context to Twitter's 2023 advertisers issues",
+      "https://twitter.com/goangelo/status/1588696157794242560"
     ]
   ],
   [
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33482968"
     ],
     [
-      "A Step by Step Backpropagation Example",
+      "A Step by Step Backpropagation Example (2015)",
       "https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/"
     ]
   ],
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2022-11-05, 08:56:47",
-      "https://news.ycombinator.com/item?id=33479397"
-    ],
-    [
-      "Multiple assertions are fine in a unit test",
-      "https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/"
-    ]
-  ],
-  [
-    [
-      "2022-11-05, 06:21:12",
-      "https://news.ycombinator.com/item?id=33478508"
-    ],
-    [
-      "Swedish engineer creates playable accordion from 2 Commodore 64 computers",
-      "https://arstechnica.com/gadgets/2022/11/playable-commodore-64-accordion-delights-with-homemade-chiptune-goodness/"
-    ]
-  ],
-  [
-    [
       "2022-11-05, 03:31:17",
       "https://news.ycombinator.com/item?id=33477589"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2022-11-05, 00:34:01",
+      "https://news.ycombinator.com/item?id=33476247"
+    ],
+    [
+      "Fluorescence achieved in light-driven molecular motors",
+      "https://phys.org/news/2022-11-fluorescence-light-driven-molecular-motors.html"
+    ]
+  ],
+  [
+    [
       "2022-11-04, 23:26:26",
       "https://news.ycombinator.com/item?id=33475551"
     ],
     [
       "A Priceless Archive of Ordinary Life",
       "https://www.theatlantic.com/culture/archive/2021/02/race-save-black-history-archives/617932/"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 21:52:41",
-      "https://news.ycombinator.com/item?id=33474374"
-    ],
-    [
-      "Enigma Variations",
-      "https://en.wikipedia.org/wiki/Enigma_Variations"
     ]
   ],
   [
