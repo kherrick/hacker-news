@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-11-06, 19:58:56",
+      "https://news.ycombinator.com/item?id=33496414"
+    ],
+    [
+      "Veloren is a multiplayer voxel RPG written in Rust",
+      "https://veloren.net/"
+    ]
+  ],
+  [
+    [
       "2022-11-06, 19:00:56",
       "https://news.ycombinator.com/item?id=33495876"
     ],
@@ -227,16 +237,6 @@
     [
       "Make your DOM look like an eye that can focus on anything",
       "https://github.com/jj811208/watching-you"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 06:55:56",
-      "https://news.ycombinator.com/item?id=33489935"
-    ],
-    [
-      "eBPF – Adding functionality to OS at runtime",
-      "https://ebpf.io/what-is-ebpf/"
     ]
   ],
   [
