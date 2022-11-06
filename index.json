@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=33495876"
     ],
     [
-      "#proofInAToot",
+      "proofInAToot",
       "https://mathstodon.xyz/tags/proofInAToot"
     ]
   ],
@@ -27,16 +27,6 @@
     [
       "Explore some of the finest open-source software out there",
       "https://tchncs.de/"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 18:44:40",
-      "https://news.ycombinator.com/item?id=33495743"
-    ],
-    [
-      "Past eight years warmest on record",
-      "https://www.aljazeera.com/news/2022/11/6/un-report-warns-about-effects-of-global-warming-as-cop27-underway"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "3D map of the Czech Republic, made from 12.5cm/px imagery (2017)",
       "https://mapy.cz/zakladni?m3d=1&height=1100&yaw=234&pitch=-18&l=0&x=13.7549779&y=50.5258665&z=17&base=ophoto"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 11:58:11",
+      "https://news.ycombinator.com/item?id=33491662"
+    ],
+    [
+      "Twilight: A Differentially Private Payment Channel Network",
+      "https://www.usenix.org/conference/usenixsecurity22/presentation/dotan"
     ]
   ],
   [
