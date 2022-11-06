@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-11-06, 06:04:33",
+      "https://news.ycombinator.com/item?id=33489648"
+    ],
+    [
+      "PayPal Allows Bypassing Two-Factor Authentication with a Button Click",
+      "https://medium.com/@jewbixcube/paypal-allows-bypassing-two-factor-auth-with-a-button-click-claims-its-for-your-protection-ce1d0dc9a28a"
+    ]
+  ],
+  [
+    [
       "2022-11-06, 04:52:22",
       "https://news.ycombinator.com/item?id=33489123"
     ],
     [
-      "Innovative Rich Text Editing: Typing Affinity",
+      "Bike: Innovative Rich Text Editing",
       "https://www.hogbaysoftware.com/posts/bike-rich-text/"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33488996"
     ],
     [
-      "Git as a janky twitter replacement",
+      "Git as a janky Twitter replacement",
       "https://github.com/diracdeltas/tweets"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33488891"
     ],
     [
-      "Hello",
+      "Ask HN: Comment here about whatever you're passionate about at the moment",
       "https://news.ycombinator.com/item?id=33488891"
     ]
   ],
@@ -57,26 +67,6 @@
     [
       "10 years of FTL: The making of an enduring spaceship simulator",
       "https://arstechnica.com/gaming/2022/11/ten-years-of-ftl-the-making-of-an-enduring-spaceship-simulator/"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 02:01:15",
-      "https://news.ycombinator.com/item?id=33488077"
-    ],
-    [
-      "Level responds to lock picker opening its $330 Apple Store lock in seconds",
-      "https://www.techradar.com/news/the-apple-stores-dollar330-level-lock-plus-smart-lock-isnt-as-secure-as-youd-think"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 01:19:09",
-      "https://news.ycombinator.com/item?id=33487747"
-    ],
-    [
-      "Pinafore is a web client for Mastodon, designed for speed and simplicity",
-      "https://pinafore.social/"
     ]
   ],
   [
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33487178"
     ],
     [
-      "Thoughts on the “Guard” Proposal for Go's Error Handling",
+      "Thoughts on the “guard” proposal for Go's error handling",
       "https://wagslane.dev/posts/guard-keyword-error-handling-golang/"
     ]
   ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33487021"
     ],
     [
-      "Towards Moore's Law Software: Part 3 of 3",
+      "Towards Moore's Law Software (2008)",
       "http://www.moserware.com/2008/04/towards-moores-law-software-part-3-of-3.html"
     ]
   ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2022-11-05, 20:49:50",
+      "https://news.ycombinator.com/item?id=33485544"
+    ],
+    [
+      "Microsoft sued for open-source piracy through GitHub Copilot",
+      "https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/"
+    ]
+  ],
+  [
+    [
       "2022-11-05, 16:48:58",
       "https://news.ycombinator.com/item?id=33483165"
     ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=33482968"
     ],
     [
-      "A Step by Step Backpropagation Example (2015)",
+      "A step by step backpropagation example (2015)",
       "https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/"
     ]
   ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=33478697"
     ],
     [
-      "Kerosene Lantern Analysis",
+      "Keropunk Part 2: Lantern Analysis",
       "https://www.sevarg.net/2022/10/22/keropunk-part-2-kerosene-lantern-analysis/"
     ]
   ],
