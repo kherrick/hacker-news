@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-06, 20:52:52",
+      "https://news.ycombinator.com/item?id=33496991"
+    ],
+    [
+      "A Big List of Mastodon Resources",
+      "https://researchbuzz.me/2022/11/05/a-big-list-of-mastodon-resources/"
+    ]
+  ],
+  [
+    [
       "2022-11-06, 19:41:18",
       "https://news.ycombinator.com/item?id=33496246"
     ],
@@ -17,6 +27,16 @@
     [
       "proofInAToot",
       "https://mathstodon.xyz/tags/proofInAToot"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 18:58:59",
+      "https://news.ycombinator.com/item?id=33495853"
+    ],
+    [
+      "Twitter’s Entire A11y Experience Team Let Go",
+      "https://twitter.com/gerardkcohen/status/1588584459779321857"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "What to Blog About",
       "https://simonwillison.net/2022/Nov/6/what-to-blog-about/"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 17:21:31",
-      "https://news.ycombinator.com/item?id=33494885"
-    ],
-    [
-      "Full Text and Vector Search for Firestore with Weaviate",
-      "https://samos-it.com/posts/full-text-search-for-firestore-with-weaviate.html"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-11-06, 06:55:56",
-      "https://news.ycombinator.com/item?id=33489935"
-    ],
-    [
-      "eBPF – Adding functionality to OS at runtime",
-      "https://ebpf.io/what-is-ebpf/"
-    ]
-  ],
-  [
-    [
       "2022-11-05, 22:16:07",
       "https://news.ycombinator.com/item?id=33486478"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2022-11-05, 18:30:29",
-      "https://news.ycombinator.com/item?id=33484237"
+      "2022-11-05, 20:33:50",
+      "https://news.ycombinator.com/item?id=33485363"
     ],
     [
-      "Lessons from the invention of the thermometer",
-      "https://antonhowes.substack.com/p/age-of-invention-getting-into-hot"
+      "Grafana Phlare – aggregating continuous profiling data",
+      "https://github.com/grafana/phlare"
     ]
   ],
   [
