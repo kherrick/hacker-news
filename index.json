@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-07, 22:24:18",
+      "https://news.ycombinator.com/item?id=33513421"
+    ],
+    [
+      "ActivityPub",
+      "https://www.w3.org/TR/activitypub/"
+    ]
+  ],
+  [
+    [
+      "2022-11-07, 21:49:02",
+      "https://news.ycombinator.com/item?id=33513030"
+    ],
+    [
+      "The Incidence of Myocarditis and Pericarditis in Unvaccinated Covid Patients",
+      "https://pubmed.ncbi.nlm.nih.gov/35456309/"
+    ]
+  ],
+  [
+    [
       "2022-11-07, 21:00:53",
       "https://news.ycombinator.com/item?id=33512375"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-11-07, 17:07:50",
-      "https://news.ycombinator.com/item?id=33508666"
-    ],
-    [
-      "Motto: Unsafe languages allow mostly-safe implementations",
-      "https://www.humprog.org/~stephen/research/libcrunch/"
-    ]
-  ],
-  [
-    [
       "2022-11-07, 16:59:54",
       "https://news.ycombinator.com/item?id=33508536"
     ],
@@ -147,16 +157,6 @@
     [
       "Our brains 'time-stamp' sounds to process the words we hear",
       "https://www.nyu.edu/about/news-publications/news/2022/november/our-brains--time-stamp--sounds-to-process-the-words-we-hear.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 15:20:08",
-      "https://news.ycombinator.com/item?id=33506907"
-    ],
-    [
-      "A crash dummy aimed at protecting women drivers",
-      "https://www.bbc.com/news/technology-62877930"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-11-07, 04:33:45",
-      "https://news.ycombinator.com/item?id=33501182"
-    ],
-    [
-      "Aluminum formate Al(HCOO)3: Earth-abundant, scalable, & material for CO2 capture",
-      "https://www.science.org/doi/10.1126/sciadv.ade1473"
-    ]
-  ],
-  [
-    [
       "2022-11-06, 21:51:02",
       "https://news.ycombinator.com/item?id=33497698"
     ],
@@ -257,6 +247,16 @@
     [
       "In Bishopsgate, 1838",
       "https://spitalfieldslife.com/2022/11/06/in-bishopsgate-1838/"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 06:37:24",
+      "https://news.ycombinator.com/item?id=33489860"
+    ],
+    [
+      "The Differential Analyzer (2020)",
+      "https://sinclairtarget.com/differential-analyzer/"
     ]
   ],
   [
