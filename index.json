@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-11-07, 17:45:59",
-      "https://news.ycombinator.com/item?id=33509274"
+      "2022-11-07, 18:07:47",
+      "https://news.ycombinator.com/item?id=33509613"
     ],
     [
-      "An unofficial guide to Mastodon and Fediverse",
-      "https://fedi.tips/"
+      "Your Organization should run its own Mastodon server",
+      "https://martinfowler.com/articles/your-org-run-mastodon.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-07, 17:46:32",
+      "https://news.ycombinator.com/item?id=33509282"
+    ],
+    [
+      "F.lux, but for Your House",
+      "https://tylercipriani.com/blog/2022/10/17/whole-house-circadian-lighting-with-home-assistant/"
     ]
   ],
   [
@@ -17,6 +27,26 @@
     [
       "Purchasing Power Parity: fair pricing for your SaaS product",
       "https://scastiel.dev/implement-ppp-fair-pricing-for-your-product"
+    ]
+  ],
+  [
+    [
+      "2022-11-07, 17:42:16",
+      "https://news.ycombinator.com/item?id=33509223"
+    ],
+    [
+      "C Isn't a Programming Language Anymore",
+      "https://faultlore.com/blah/c-isnt-a-language/"
+    ]
+  ],
+  [
+    [
+      "2022-11-07, 17:35:39",
+      "https://news.ycombinator.com/item?id=33509121"
+    ],
+    [
+      "India lifted 415M out of poverty in 15 years, says UN",
+      "https://economictimes.indiatimes.com/news/india/india-lifted-415-million-out-of-poverty-in-15-years-says-un/articleshow/94926338.cms"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33507819"
     ],
     [
-      "Backdoor in OpenSea allows to take anybody's tokens",
+      "OpenSea administrators can take any tokens minted on OpenSea Shared Storefront",
       "https://blog.phor.net/2022/11/04/Does-OpenSea-Shared-Storefront-have-a-backdoor.html"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33507817"
     ],
     [
-      "Is There Too Much CSS Now?",
+      "Is there too much CSS now?",
       "https://css-tricks.com/is-there-too-much-css-now/"
     ]
   ],
@@ -95,28 +125,8 @@
       "https://news.ycombinator.com/item?id=33506907"
     ],
     [
-      "The First Female Crash Dummy Has Arrived",
-      "https://www.smithsonianmag.com/smart-news/the-first-female-crash-dummy-has-arrived-180981072/"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 15:17:59",
-      "https://news.ycombinator.com/item?id=33506878"
-    ],
-    [
-      "Swedish amateur archivist “Rosa Mannen” shutdown from YouTube, again",
-      "https://www.gp.se/kultur/kultur/youtubekanalen-rosa-mannen-nedstängd-igen-1.84848419"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 15:13:14",
-      "https://news.ycombinator.com/item?id=33506818"
-    ],
-    [
-      "Ask HN: Is it better to be a consultant in a time of layoffs?",
-      "https://news.ycombinator.com/item?id=33506818"
+      "A crash dummy aimed at protecting women drivers",
+      "https://www.bbc.com/news/technology-62877930"
     ]
   ],
   [
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=33506576"
     ],
     [
-      "Microsoft is phoning home the content of your PowerPoint slides",
+      "Microsoft is phoning home the content of PowerPoint slides",
       "https://rogermexico.bearblog.dev/microsoft-is-phoning-home-the-content-of-your-powerpoint-slides/"
     ]
   ],
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2022-11-07, 10:49:18",
-      "https://news.ycombinator.com/item?id=33504206"
+      "2022-11-07, 07:10:38",
+      "https://news.ycombinator.com/item?id=33502184"
     ],
     [
-      "Nvidia Security Team: “What if we just stopped using C?”",
-      "https://blog.adacore.com/nvidia-security-team-what-if-we-just-stopped-using-c"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 05:45:19",
-      "https://news.ycombinator.com/item?id=33501657"
-    ],
-    [
-      "Mild autumn weather has sent European gas prices plummeting",
-      "https://www.economist.com/graphic-detail/2022/11/03/mild-autumn-weather-has-sent-european-gas-prices-plummeting"
+      "How to make sure no Dynamic Memory is used",
+      "https://mcuoneclipse.com/2022/11/06/how-to-make-sure-no-dynamic-memory-is-used/"
     ]
   ],
   [
