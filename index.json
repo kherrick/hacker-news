@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-07, 18:40:59",
+      "https://news.ycombinator.com/item?id=33510169"
+    ],
+    [
+      "Some Thoughts on Social Networking and Usenet",
+      "https://jfm.carcosa.net/blog/computing/usenet/"
+    ]
+  ],
+  [
+    [
       "2022-11-07, 18:27:20",
       "https://news.ycombinator.com/item?id=33509941"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2022-11-07, 18:07:47",
-      "https://news.ycombinator.com/item?id=33509613"
+      "2022-11-07, 18:05:18",
+      "https://news.ycombinator.com/item?id=33509571"
     ],
     [
-      "Your Organization should run its own Mastodon server",
-      "https://martinfowler.com/articles/your-org-run-mastodon.html"
+      "Signal Introduces Stories",
+      "https://www.signal.org/blog/introducing-stories/"
     ]
   ],
   [
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2022-11-07, 16:59:54",
+      "https://news.ycombinator.com/item?id=33508536"
+    ],
+    [
+      "Signal Introduces Story Time",
+      "https://signal.org/blog/introducing-stories/"
+    ]
+  ],
+  [
+    [
       "2022-11-07, 16:18:37",
       "https://news.ycombinator.com/item?id=33507819"
     ],
@@ -117,16 +137,6 @@
     [
       "Our brains 'time-stamp' sounds to process the words we hear",
       "https://www.nyu.edu/about/news-publications/news/2022/november/our-brains--time-stamp--sounds-to-process-the-words-we-hear.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 16:17:23",
-      "https://news.ycombinator.com/item?id=33507795"
-    ],
-    [
-      "‘Putin’s chef’ admits to interfering in U.S. elections",
-      "https://apnews.com/article/2022-midterm-elections-business-social-media-7fefa7ab0491b653f6094a4d090155fe"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Microsoft is phoning home the content of PowerPoint slides",
       "https://rogermexico.bearblog.dev/microsoft-is-phoning-home-the-content-of-your-powerpoint-slides/"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 14:49:32",
-      "https://news.ycombinator.com/item?id=33506458"
-    ],
-    [
-      "Toxic smog has turned India’s capital into a ‘gas chamber’",
-      "https://globalnews.ca/news/9252830/india-smog-new-delhi-gas-chamber-pollution/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-11-06, 02:02:29",
-      "https://news.ycombinator.com/item?id=33488085"
+      "2022-11-05, 10:30:34",
+      "https://news.ycombinator.com/item?id=33480031"
     ],
     [
-      "Goethe and Schiller ushered in the romantic age",
-      "https://www.prospectmagazine.co.uk/arts-and-books/goethe-schiller-romantic-age-jena-andrea-wulf-book-review"
+      "Fast Functional Lists, Hash-Lists, Deques and Variable Length Arrays [pdf]",
+      "http://trout.me.uk/lisp/vlist.pdf"
     ]
   ]
 ]
