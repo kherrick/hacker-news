@@ -35,8 +35,8 @@
       "https://news.ycombinator.com/item?id=33511831"
     ],
     [
-      "Ladybird, the from-scratch SerenityOS browser, can now display Google Docs",
-      "https://nitter.1d4.us/awesomekling/status/1589711499672502274#m"
+      "Early stages of Google Docs support in the Ladybird browser",
+      "https://twitter.com/awesomekling/status/1589711499672502274"
     ]
   ],
   [
@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2022-11-07, 18:11:10",
+      "https://news.ycombinator.com/item?id=33509674"
+    ],
+    [
+      "Show HN: Fully-featured desktop gRPC/gRPC-Web client",
+      "https://github.com/getezy/ezy"
+    ]
+  ],
+  [
+    [
       "2022-11-07, 17:46:32",
       "https://news.ycombinator.com/item?id=33509282"
     ],
@@ -117,16 +127,6 @@
     [
       "Purchasing Power Parity: fair pricing for your SaaS product",
       "https://scastiel.dev/implement-ppp-fair-pricing-for-your-product"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 17:42:16",
-      "https://news.ycombinator.com/item?id=33509223"
-    ],
-    [
-      "C isn't a programming language anymore",
-      "https://faultlore.com/blah/c-isnt-a-language/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33480031"
     ],
     [
-      "Fast Functional Lists, Hash-Lists, Deques and Variable Length Arrays [pdf]",
+      "Fast Functional Lists, Hash-Lists, Deques and Variable Length Arrays [pdf] (2002)",
       "http://trout.me.uk/lisp/vlist.pdf"
     ]
   ]
