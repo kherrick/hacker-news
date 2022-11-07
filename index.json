@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=33513666"
     ],
     [
-      "Esperanto is not my favourite Artificial Language (2002)",
-      "https://web.archive.org/web/20021210061212/http://www.cix.co.uk/~morven/lang/esp.html"
+      "Esperanto is not my favourite artificial language (2002)",
+      "http://miresperanto.com/konkurentoj/not_my_favourite.htm"
+    ]
+  ],
+  [
+    [
+      "2022-11-07, 22:00:00",
+      "https://news.ycombinator.com/item?id=33513154"
+    ],
+    [
+      "Overton's window creates opportunities for the brave",
+      "https://underorion.se/en/posts/overtons/"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33513030"
     ],
     [
-      "The Incidence of Myocarditis and Pericarditis in Unvaccinated Covid Patients",
+      "The incidence of myocarditis and pericarditis in unvaccinated Covid patients",
       "https://pubmed.ncbi.nlm.nih.gov/35456309/"
     ]
   ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-11-07, 14:44:13",
-      "https://news.ycombinator.com/item?id=33506373"
-    ],
-    [
-      "US Attorney Announces $3.36B Cryptocurrency Seizure in Connection with Silk Road",
-      "https://www.justice.gov/usao-sdny/pr/us-attorney-announces-historic-336-billion-cryptocurrency-seizure-and-conviction"
-    ]
-  ],
-  [
-    [
       "2022-11-07, 12:05:53",
       "https://news.ycombinator.com/item?id=33504777"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=33504700"
     ],
     [
-      "Why Would Anyone Need JavaScript Generator Functions?",
+      "Why would anyone need JavaScript generator functions?",
       "https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/"
     ]
   ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=33502184"
     ],
     [
-      "How to make sure no Dynamic Memory is used",
+      "How to make sure no dynamic memory is used",
       "https://mcuoneclipse.com/2022/11/06/how-to-make-sure-no-dynamic-memory-is-used/"
     ]
   ],
