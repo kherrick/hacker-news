@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-07, 14:29:31",
+      "https://news.ycombinator.com/item?id=33506172"
+    ],
+    [
+      "Twitter Bullies",
+      "https://raskality.wordpress.com/2011/12/22/twitter-bullies/"
+    ]
+  ],
+  [
+    [
+      "2022-11-07, 14:23:28",
+      "https://news.ycombinator.com/item?id=33506100"
+    ],
+    [
+      "Undefined Isn’t Unpredictable",
+      "http://www.os2museum.com/wp/undefined-isnt-unpredictable/"
+    ]
+  ],
+  [
+    [
+      "2022-11-07, 12:58:32",
+      "https://news.ycombinator.com/item?id=33505219"
+    ],
+    [
+      "How to Destroy Google",
+      "https://freakspot.net/en/how-to-destroy-Google/"
+    ]
+  ],
+  [
+    [
       "2022-11-07, 12:50:21",
       "https://news.ycombinator.com/item?id=33505134"
     ],
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2022-11-07, 04:05:16",
-      "https://news.ycombinator.com/item?id=33501004"
-    ],
-    [
-      "RISC-Vlim, a RISC-V Framework for Logic-in-Memory Architectures",
-      "https://www.mdpi.com/2079-9292/11/19/2990/htm"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 03:35:03",
-      "https://news.ycombinator.com/item?id=33500807"
-    ],
-    [
-      "Self hosted Docker registry with auto image push on push to main",
-      "https://blog.aawadia.dev/2022/11/02/docker-registry-ci/"
-    ]
-  ],
-  [
-    [
       "2022-11-07, 03:11:55",
       "https://news.ycombinator.com/item?id=33500666"
     ],
@@ -257,16 +267,6 @@
     [
       "Reasons why Fortran is still used (2021)",
       "https://www.matecdev.com/posts/why-fortran-still-used.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 18:01:20",
-      "https://news.ycombinator.com/item?id=33495328"
-    ],
-    [
-      "Building a BitTorrent client from the ground up in Go (2020)",
-      "https://blog.jse.li/posts/torrent/"
     ]
   ],
   [
