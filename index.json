@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-11-07, 17:45:59",
+      "https://news.ycombinator.com/item?id=33509274"
+    ],
+    [
+      "An unofficial guide to Mastodon and Fediverse",
+      "https://fedi.tips/"
+    ]
+  ],
+  [
+    [
+      "2022-11-07, 17:44:57",
+      "https://news.ycombinator.com/item?id=33509258"
+    ],
+    [
+      "Purchasing Power Parity: fair pricing for your SaaS product",
+      "https://scastiel.dev/implement-ppp-fair-pricing-for-your-product"
+    ]
+  ],
+  [
+    [
       "2022-11-07, 17:14:17",
       "https://news.ycombinator.com/item?id=33508776"
     ],
     [
       "MDL: A Micro-Architecture Description Language for LLVM",
       "https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409"
+    ]
+  ],
+  [
+    [
+      "2022-11-07, 17:07:50",
+      "https://news.ycombinator.com/item?id=33508666"
+    ],
+    [
+      "Motto: Unsafe languages allow mostly-safe implementations",
+      "https://www.humprog.org/~stephen/research/libcrunch/"
     ]
   ],
   [
@@ -151,6 +181,16 @@
   ],
   [
     [
+      "2022-11-07, 14:25:42",
+      "https://news.ycombinator.com/item?id=33506132"
+    ],
+    [
+      "Blessed.rs – An unofficial guide to the Rust ecosystem",
+      "https://blessed.rs/crates"
+    ]
+  ],
+  [
+    [
       "2022-11-07, 14:23:28",
       "https://news.ycombinator.com/item?id=33506100"
     ],
@@ -181,42 +221,12 @@
   ],
   [
     [
-      "2022-11-07, 11:50:04",
-      "https://news.ycombinator.com/item?id=33504650"
-    ],
-    [
-      "Rust: “Explain GATs Like I'm 5 Years Old”",
-      "https://old.reddit.com/r/rust/comments/ynvm8a/could_someone_explain_the_gats_like_i_was_5/"
-    ]
-  ],
-  [
-    [
       "2022-11-07, 10:49:18",
       "https://news.ycombinator.com/item?id=33504206"
     ],
     [
       "Nvidia Security Team: “What if we just stopped using C?”",
       "https://blog.adacore.com/nvidia-security-team-what-if-we-just-stopped-using-c"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 09:50:00",
-      "https://news.ycombinator.com/item?id=33503630"
-    ],
-    [
-      "Show HN: Game of Life on non-square topologies with 2^32 update rules",
-      "https://github.com/Jeadie/Go-L"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 07:50:34",
-      "https://news.ycombinator.com/item?id=33502538"
-    ],
-    [
-      "Manifesto for minimalist software engineers (2013)",
-      "http://minifesto.org/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Goethe and Schiller ushered in the romantic age",
       "https://www.prospectmagazine.co.uk/arts-and-books/goethe-schiller-romantic-age-jena-andrea-wulf-book-review"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 17:08:46",
-      "https://news.ycombinator.com/item?id=33454114"
-    ],
-    [
-      "Shadows from the Walls of Death (1874)",
-      "https://publicdomainreview.org/collection/kedzie-shadows/"
     ]
   ]
 ]
