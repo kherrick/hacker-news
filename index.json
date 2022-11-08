@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-08, 08:20:01",
+      "https://news.ycombinator.com/item?id=33517059"
+    ],
+    [
+      "Qualcomm vs. Arm: The bizarro quotient just went off the scale",
+      "https://www.theregister.com/2022/11/07/opinion_qualcomm_vs_arm/"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 07:55:52",
+      "https://news.ycombinator.com/item?id=33516918"
+    ],
+    [
+      "FreeBSD will replace Sendmail by The Dragonfly Mail Agent (dma)",
+      "https://cgit.freebsd.org/src/commit/?id=a67b925ff3e58b072a60b633e442ee1d33e47f7f"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 06:45:48",
       "https://news.ycombinator.com/item?id=33516533"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-11-07, 22:00:00",
-      "https://news.ycombinator.com/item?id=33513154"
-    ],
-    [
-      "Overton's window creates opportunities for the brave",
-      "https://underorion.se/en/posts/overtons/"
-    ]
-  ],
-  [
-    [
       "2022-11-07, 21:00:53",
       "https://news.ycombinator.com/item?id=33512375"
     ],
@@ -207,16 +217,6 @@
     [
       "Delaware judge discovers hidden entity recruiting people to be patent trolls",
       "https://ipde.com/blog/2022/11/04/a-wild-hearing-chief-judge-connolly-flips-over-rock-finds-mavexar-llc-crawling-around-controlling-patent-litigation-and-giving-hapless-patent-owners-just-5-10/"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 07:10:38",
-      "https://news.ycombinator.com/item?id=33502184"
-    ],
-    [
-      "How to make sure no dynamic memory is used",
-      "https://mcuoneclipse.com/2022/11/06/how-to-make-sure-no-dynamic-memory-is-used/"
     ]
   ],
   [
