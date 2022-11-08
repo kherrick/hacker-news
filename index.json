@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-08, 21:00:55",
+      "https://news.ycombinator.com/item?id=33524231"
+    ],
+    [
+      "Compound (YC S19) is hiring to build financial products for tech people",
+      "https://withcompound.com/company/about"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 20:58:23",
+      "https://news.ycombinator.com/item?id=33524201"
+    ],
+    [
+      "Salesforce cut hundreds of employees Monday",
+      "https://www.cnbc.com/2022/11/08/salesforce-cut-hundreds-of-employees-on-monday.html"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 20:27:11",
       "https://news.ycombinator.com/item?id=33523837"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33522647"
     ],
     [
-      "Veterans find relief from nightmares with NightWare and Apple Watch",
+      "NightWare helps disrupt nightmares for those with PTSD",
       "https://www.apple.com/newsroom/2022/11/veterans-find-relief-from-nightmares-with-nightware-and-apple-watch/"
     ]
   ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33522495"
     ],
     [
-      "“It would be career limiting “",
+      "Story: “It would be career limiting...\"",
       "https://doomedprojects.com/post/it-would-be-career-limiting"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "Show HN: Helping laid-off people find their next job",
       "https://www.layoff-sucks.com/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 17:00:41",
-      "https://news.ycombinator.com/item?id=33521280"
-    ],
-    [
-      "ReadMe (YC W15) is hiring a product manager who loves APIs",
-      "https://readme.com/careers#product-lead"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2022-11-08, 14:37:09",
-      "https://news.ycombinator.com/item?id=33519402"
-    ],
-    [
-      "From Common Lisp to Julia",
-      "https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/index.html"
-    ]
-  ],
-  [
-    [
       "2022-11-08, 14:06:22",
       "https://news.ycombinator.com/item?id=33519048"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-11-08, 12:47:32",
-      "https://news.ycombinator.com/item?id=33518443"
-    ],
-    [
-      "Scaling PostgresML to 1M Requests per Second",
-      "https://postgresml.org/blog/scaling-postgresml-to-one-million-requests-per-second/"
-    ]
-  ],
-  [
-    [
       "2022-11-08, 12:33:27",
       "https://news.ycombinator.com/item?id=33518359"
     ],
@@ -237,6 +227,16 @@
     [
       "What Is an Eigenvalue?",
       "https://nhigham.com/2022/11/08/what-is-an-eigenvalue/"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 07:55:52",
+      "https://news.ycombinator.com/item?id=33516918"
+    ],
+    [
+      "Mail: Make The Dragonfly Mail Agent (dma) the default mta",
+      "https://cgit.freebsd.org/src/commit/?id=a67b925ff3e58b072a60b633e442ee1d33e47f7f"
     ]
   ],
   [
