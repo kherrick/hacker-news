@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33516344"
     ],
     [
-      "Found around 250 hilarious CS quotes while browsing Notepad++'s code (Line 7102)",
+      "CS quotes found while browsing Notepad++'s code",
       "https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/src/Notepad_plus.cpp"
     ]
   ],
@@ -97,16 +97,6 @@
     [
       "LGP-30 found in basement, the same model of drum computer programmed by “Mel”",
       "https://old.reddit.com/r/vintagecomputing/comments/yonoa5/i_found_ancient_computers_in_the_basement_of_my/"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 23:40:34",
-      "https://news.ycombinator.com/item?id=33514129"
-    ],
-    [
-      "Towns are testing new ballot counting machines that use open source software",
-      "https://www.nhpr.org/politics/2022-11-07/three-n-h-towns-are-testing-out-new-ballot-counting-machines-that-use-open-source-software"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "The Principles of Pricing",
       "https://www.principlesofpricing.com/"
+    ]
+  ],
+  [
+    [
+      "2022-11-07, 07:10:38",
+      "https://news.ycombinator.com/item?id=33502184"
+    ],
+    [
+      "How to make sure no dynamic memory is used",
+      "https://mcuoneclipse.com/2022/11/06/how-to-make-sure-no-dynamic-memory-is-used/"
     ]
   ],
   [
