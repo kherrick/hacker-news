@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-11-08, 11:00:56",
+      "https://news.ycombinator.com/item?id=33517944"
+    ],
+    [
+      "Ntfy.sh – Send push notifications to your phone via PUT/POST",
+      "https://ntfy.sh/"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 10:26:32",
       "https://news.ycombinator.com/item?id=33517774"
     ],
     [
-      "Good Quality DOSBox Video Capture",
+      "Good Quality DOSBox Video Capture (2020)",
       "https://susam.net/blog/good-quality-dosbox-video-capture.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 10:17:00",
+      "https://news.ycombinator.com/item?id=33517718"
+    ],
+    [
+      "Useful Engines",
+      "https://lenright.substack.com/p/really-useful-engines"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33516918"
     ],
     [
-      "FreeBSD will replace Sendmail by The Dragonfly Mail Agent (dma)",
+      "Mail: Make The Dragonfly Mail Agent (dma) the default mta",
       "https://cgit.freebsd.org/src/commit/?id=a67b925ff3e58b072a60b633e442ee1d33e47f7f"
     ]
   ],
@@ -66,7 +86,7 @@
     ],
     [
       "CS quotes found while browsing Notepad++'s code",
-      "https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/src/Notepad_plus.cpp"
+      "https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/src/Notepad_plus.cpp#L7103"
     ]
   ],
   [
@@ -175,28 +195,8 @@
       "https://news.ycombinator.com/item?id=33509258"
     ],
     [
-      "Purchasing Power Parity: fair pricing for your SaaS product",
+      "Purchasing Power Parity: Fair pricing for SaaS products",
       "https://scastiel.dev/implement-ppp-fair-pricing-for-your-product"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 17:35:39",
-      "https://news.ycombinator.com/item?id=33509121"
-    ],
-    [
-      "India lifted 415M out of poverty in 15 years, says UN",
-      "https://economictimes.indiatimes.com/news/india/india-lifted-415-million-out-of-poverty-in-15-years-says-un/articleshow/94926338.cms"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 17:14:17",
-      "https://news.ycombinator.com/item?id=33508776"
-    ],
-    [
-      "MDL: A Micro-Architecture Description Language for LLVM",
-      "https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=33498159"
     ],
     [
-      "A Musical Analysis of Hardcore Punk Riffs",
+      "How to write a hardcore punk riff [video]",
       "https://www.youtube.com/watch?v=R9_mP48PNwA"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33484039"
     ],
     [
-      "Peto's Paradox",
+      "Peto’s Paradox",
       "https://en.wikipedia.org/wiki/Peto%27s_paradox"
     ]
   ],
