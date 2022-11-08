@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-11-08, 01:00:09",
+      "https://news.ycombinator.com/item?id=33514719"
+    ],
+    [
+      "‘I don’t want this kind of life’: graduate students question career options",
+      "https://www.nature.com/articles/d41586-022-03586-8"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 00:12:45",
+      "https://news.ycombinator.com/item?id=33514399"
+    ],
+    [
+      "LGP-30 found in basement, the same model of drum computer programmed by “Mel”",
+      "https://old.reddit.com/r/vintagecomputing/comments/yonoa5/i_found_ancient_computers_in_the_basement_of_my/"
+    ]
+  ],
+  [
+    [
+      "2022-11-07, 23:50:53",
+      "https://news.ycombinator.com/item?id=33514219"
+    ],
+    [
+      "Industrialization of Biotech vs. the Biologization of Industry",
+      "https://centuryofbio.substack.com/p/atoms-are-local"
+    ]
+  ],
+  [
+    [
       "2022-11-07, 23:14:52",
       "https://news.ycombinator.com/item?id=33513876"
     ],
     [
-      "So I lost my OpenBSD FDE password",
+      "So I lost my OpenBSD FDE password (2016)",
       "https://words.filippo.io/so-i-lost-my-openbsd-fde-password/"
     ]
   ],
@@ -27,16 +57,6 @@
     [
       "Overton's window creates opportunities for the brave",
       "https://underorion.se/en/posts/overtons/"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 21:49:02",
-      "https://news.ycombinator.com/item?id=33513030"
-    ],
-    [
-      "The incidence of myocarditis and pericarditis in unvaccinated Covid patients",
-      "https://pubmed.ncbi.nlm.nih.gov/35456309/"
     ]
   ],
   [
@@ -87,26 +107,6 @@
     [
       "The most unethical thing I was asked to build while working at Twitter in 2015",
       "https://twitter.com/stevekrenzel/status/1589700721121058817"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 19:15:33",
-      "https://news.ycombinator.com/item?id=33510827"
-    ],
-    [
-      "Typography for Lawyers, 2nd Edition (2018)",
-      "https://typographyforlawyers.com/"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 18:40:59",
-      "https://news.ycombinator.com/item?id=33510169"
-    ],
-    [
-      "Some thoughts on social networking and Usenet (2018)",
-      "https://jfm.carcosa.net/blog/computing/usenet/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-11-06, 21:51:02",
-      "https://news.ycombinator.com/item?id=33497698"
-    ],
-    [
-      "The Apple II Yellowstone Floppy Interface",
-      "https://nicole.express/2022/my-yellowstone-vacation.html"
-    ]
-  ],
-  [
-    [
       "2022-11-06, 09:23:23",
       "https://news.ycombinator.com/item?id=33490712"
     ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2022-11-06, 06:37:24",
-      "https://news.ycombinator.com/item?id=33489860"
+      "2022-11-06, 06:43:23",
+      "https://news.ycombinator.com/item?id=33489894"
     ],
     [
-      "The Differential Analyzer (2020)",
-      "https://sinclairtarget.com/differential-analyzer/"
+      "Learning to Imitate",
+      "http://ai.stanford.edu/blog/learning-to-imitate/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Fast Functional Lists, Hash-Lists, Deques and Variable Length Arrays [pdf] (2002)",
       "http://trout.me.uk/lisp/vlist.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 20:40:33",
+      "https://news.ycombinator.com/item?id=33473440"
+    ],
+    [
+      "Recent Progress in and around LibreSSL [pdf]",
+      "https://www.openbsd.org/papers/eurobsdcon2022-tb-libressl.pdf"
     ]
   ]
 ]
