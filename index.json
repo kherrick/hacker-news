@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-11-08, 14:09:22",
-      "https://news.ycombinator.com/item?id=33519085"
+      "2022-11-08, 14:37:09",
+      "https://news.ycombinator.com/item?id=33519402"
     ],
     [
-      "Ask HN: Java is the best language for large projects. Prove me wrong",
-      "https://news.ycombinator.com/item?id=33519085"
+      "From Common Lisp to Julia",
+      "https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/index.html"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "FTX Appears to Have Stopped Processing Withdrawals, On-Chain Data Show",
       "https://www.theblock.co/post/184176/ftx-appears-to-have-stopped-processing-withdrawals-on-chain-data-show"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 13:31:01",
-      "https://news.ycombinator.com/item?id=33518722"
-    ],
-    [
-      "UK grocery price inflation hits record 14.7%",
-      "https://www.kantar.com/uki/contact/wpuk-news-contact"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33518496"
     ],
     [
-      "Just Dont",
+      "Just Don’t",
       "https://www.tbray.org/ongoing/When/202x/2022/11/07/Just-Dont"
     ]
   ],
@@ -97,16 +87,6 @@
     [
       "Show HN: Cozo – new Graph DB with Datalog, embedded like SQLite, written in Rust",
       "https://github.com/cozodb/cozo"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 12:23:04",
-      "https://news.ycombinator.com/item?id=33518308"
-    ],
-    [
-      "Energy crisis: How living in a cold home affects your health",
-      "https://www.bbc.com/future/article/20221107-energy-crisis-how-living-in-a-cold-home-affects-your-health"
     ]
   ],
   [
@@ -171,12 +151,32 @@
   ],
   [
     [
+      "2022-11-08, 06:05:16",
+      "https://news.ycombinator.com/item?id=33516344"
+    ],
+    [
+      "CS quotes found while browsing Notepad++'s code",
+      "https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/src/Notepad_plus.cpp#L7103"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 05:56:18",
       "https://news.ycombinator.com/item?id=33516297"
     ],
     [
       "Maps and Memory Leaks in Go",
       "https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 02:19:05",
+      "https://news.ycombinator.com/item?id=33515212"
+    ],
+    [
+      "The default effect: why we renounce our ability to choose",
+      "https://nesslabs.com/default-effect"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "LGP-30 found in basement, the same model of drum computer programmed by “Mel”",
       "https://old.reddit.com/r/vintagecomputing/comments/yonoa5/i_found_ancient_computers_in_the_basement_of_my/"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 23:14:52",
-      "https://news.ycombinator.com/item?id=33513876"
-    ],
-    [
-      "So I lost my OpenBSD FDE password (2016)",
-      "https://words.filippo.io/so-i-lost-my-openbsd-fde-password/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Idaho Stop",
       "https://en.wikipedia.org/wiki/Idaho_stop"
+    ]
+  ],
+  [
+    [
+      "2022-11-05, 04:35:40",
+      "https://news.ycombinator.com/item?id=33478007"
+    ],
+    [
+      "Did Ancient Humans Use Echolocation?",
+      "https://www.atlasobscura.com/articles/human-echolocation"
     ]
   ],
   [
