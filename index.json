@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-11-08, 16:23:46",
+      "https://news.ycombinator.com/item?id=33520733"
+    ],
+    [
+      "Ask HN: Skeptical about my company going “full serverless”. What am I missing?",
+      "https://news.ycombinator.com/item?id=33520733"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 16:15:44",
+      "https://news.ycombinator.com/item?id=33520624"
+    ],
+    [
+      "Binance Acquires FTX",
+      "https://twitter.com/cz_binance/status/1590013613586411520"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 16:13:15",
+      "https://news.ycombinator.com/item?id=33520585"
+    ],
+    [
+      "Binance to Acquire FTX",
+      "https://slashdot.org/story/22/11/08/1612256/binance-to-acquire-ftx"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 16:09:54",
+      "https://news.ycombinator.com/item?id=33520547"
+    ],
+    [
+      "FTX Agreement with Binance",
+      "https://twitter.com/sbf_ftx/status/1590012124864348160"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 15:46:51",
       "https://news.ycombinator.com/item?id=33520244"
     ],
@@ -47,6 +87,16 @@
     [
       "From Common Lisp to Julia",
       "https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 14:24:06",
+      "https://news.ycombinator.com/item?id=33519238"
+    ],
+    [
+      "ActivityPub Overview",
+      "https://www.w3.org/TR/activitypub/#Overview"
     ]
   ],
   [
@@ -171,32 +221,12 @@
   ],
   [
     [
-      "2022-11-08, 10:17:00",
-      "https://news.ycombinator.com/item?id=33517718"
-    ],
-    [
-      "Useful Engines",
-      "https://lenright.substack.com/p/really-useful-engines"
-    ]
-  ],
-  [
-    [
       "2022-11-08, 07:55:52",
       "https://news.ycombinator.com/item?id=33516918"
     ],
     [
       "Mail: Make The Dragonfly Mail Agent (dma) the default mta",
       "https://cgit.freebsd.org/src/commit/?id=a67b925ff3e58b072a60b633e442ee1d33e47f7f"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 06:45:48",
-      "https://news.ycombinator.com/item?id=33516533"
-    ],
-    [
-      "Show HN: Slashbase – open-source collaborative IDE for databases in browser",
-      "https://github.com/slashbaseide/slashbase"
     ]
   ],
   [
@@ -231,6 +261,16 @@
   ],
   [
     [
+      "2022-11-07, 10:20:59",
+      "https://news.ycombinator.com/item?id=33503961"
+    ],
+    [
+      "What entrepreneurs can learn from regular people (2016)",
+      "https://studio.ribbonfarm.com/p/what-entrepreneurs-can-learn-from"
+    ]
+  ],
+  [
+    [
       "2022-11-07, 07:54:09",
       "https://news.ycombinator.com/item?id=33502567"
     ],
@@ -251,52 +291,12 @@
   ],
   [
     [
-      "2022-11-06, 22:30:06",
-      "https://news.ycombinator.com/item?id=33498159"
-    ],
-    [
-      "How to write a hardcore punk riff [video]",
-      "https://www.youtube.com/watch?v=R9_mP48PNwA"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 17:13:55",
-      "https://news.ycombinator.com/item?id=33494796"
-    ],
-    [
-      "Monolith: Real Time Recommendation System with Collisionless Embedding Table",
-      "https://arxiv.org/abs/2209.07663"
-    ]
-  ],
-  [
-    [
-      "2022-11-05, 14:54:18",
-      "https://news.ycombinator.com/item?id=33482042"
-    ],
-    [
-      "Idaho Stop",
-      "https://en.wikipedia.org/wiki/Idaho_stop"
-    ]
-  ],
-  [
-    [
       "2022-11-05, 02:19:01",
       "https://news.ycombinator.com/item?id=33477114"
     ],
     [
       "Bomba (Cryptography)",
       "https://en.wikipedia.org/wiki/Bomba_(cryptography)"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 19:32:05",
-      "https://news.ycombinator.com/item?id=33472479"
-    ],
-    [
-      "Alexander the Great in Firdawsi's Book of Kings",
-      "https://blogs.bl.uk/asian-and-african/2022/10/alexander-the-great-in-firdawsis-book-of-kings.html"
     ]
   ]
 ]
