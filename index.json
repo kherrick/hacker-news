@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-08, 12:47:32",
+      "https://news.ycombinator.com/item?id=33518443"
+    ],
+    [
+      "Scaling PostgresML to 1M Requests per Second",
+      "https://postgresml.org/blog/scaling-postgresml-to-one-million-requests-per-second/"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 12:33:27",
+      "https://news.ycombinator.com/item?id=33518359"
+    ],
+    [
+      "A Sun-like star orbiting a black hole",
+      "https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac3140/6794289"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 12:25:23",
+      "https://news.ycombinator.com/item?id=33518320"
+    ],
+    [
+      "Show HN: Cozo – new Graph DB with Datalog, embedded like SQLite, written in Rust",
+      "https://github.com/cozodb/cozo"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 11:00:56",
       "https://news.ycombinator.com/item?id=33517944"
     ],
@@ -37,16 +67,6 @@
     [
       "Does Apple maintain APFS in older macOS?",
       "https://eclecticlight.co/2022/11/08/does-apple-maintain-apfs-in-older-macos/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 08:20:01",
-      "https://news.ycombinator.com/item?id=33517059"
-    ],
-    [
-      "Qualcomm vs. Arm: The bizarro quotient just went off the scale",
-      "https://www.theregister.com/2022/11/07/opinion_qualcomm_vs_arm/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-11-07, 20:56:03",
-      "https://news.ycombinator.com/item?id=33512302"
-    ],
-    [
-      "LiteDB: A .NET embedded NoSQL database",
-      "https://www.litedb.org/"
-    ]
-  ],
-  [
-    [
       "2022-11-07, 18:27:20",
       "https://news.ycombinator.com/item?id=33509941"
     ],
@@ -187,16 +197,6 @@
     [
       "Circadian lighting with Home Assistant: Like f.lux, but for your house",
       "https://tylercipriani.com/blog/2022/10/17/whole-house-circadian-lighting-with-home-assistant/"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 17:44:57",
-      "https://news.ycombinator.com/item?id=33509258"
-    ],
-    [
-      "Purchasing Power Parity: Fair pricing for SaaS products",
-      "https://scastiel.dev/implement-ppp-fair-pricing-for-your-product"
     ]
   ],
   [
@@ -251,22 +251,12 @@
   ],
   [
     [
-      "2022-11-06, 04:08:41",
-      "https://news.ycombinator.com/item?id=33488865"
+      "2022-11-05, 14:54:18",
+      "https://news.ycombinator.com/item?id=33482042"
     ],
     [
-      "Centuries-old whaling logs are filling gaps in our climate knowledge",
-      "https://grist.org/article/how-centuries-old-whaling-logs-are-filling-gaps-in-our-climate-knowledge/"
-    ]
-  ],
-  [
-    [
-      "2022-11-05, 18:11:49",
-      "https://news.ycombinator.com/item?id=33484039"
-    ],
-    [
-      "Peto’s Paradox",
-      "https://en.wikipedia.org/wiki/Peto%27s_paradox"
+      "Idaho Stop",
+      "https://en.wikipedia.org/wiki/Idaho_stop"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Bomba (Cryptography)",
       "https://en.wikipedia.org/wiki/Bomba_(cryptography)"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 20:40:33",
+      "https://news.ycombinator.com/item?id=33473440"
+    ],
+    [
+      "Recent Progress in and around LibreSSL [pdf]",
+      "https://www.openbsd.org/papers/eurobsdcon2022-tb-libressl.pdf"
     ]
   ],
   [
