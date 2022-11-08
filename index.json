@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-11-08, 17:12:00",
+      "https://news.ycombinator.com/item?id=33521407"
+    ],
+    [
+      "Show HN: Helping laid-off people find their next job",
+      "https://www.layoff-sucks.com/"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 17:00:41",
       "https://news.ycombinator.com/item?id=33521280"
     ],
@@ -76,7 +86,7 @@
     ],
     [
       "Binance to acquire FTX",
-      "https://techcrunch.com/2022/11/08/binance-signs-letter-of-intent-to-acquire-ftx/"
+      "https://www.bloomberg.com/opinion/articles/2022-11-08/binance-s-zhao-sbf-ed-ftx-s-bankman-fried"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2022-11-08, 14:38:13",
-      "https://news.ycombinator.com/item?id=33519414"
-    ],
-    [
-      "Nvidia PhysX 5.0",
-      "https://github.com/NVIDIA-Omniverse/PhysX"
-    ]
-  ],
-  [
-    [
       "2022-11-08, 14:37:09",
       "https://news.ycombinator.com/item?id=33519402"
     ],
@@ -147,6 +147,16 @@
     [
       "Show HN: All-SVG websites with complex animation",
       "https://svija.love/vibe"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 13:43:13",
+      "https://news.ycombinator.com/item?id=33518828"
+    ],
+    [
+      "Show HN: Metadocs, kinda like Reddit, but built into every documentation",
+      "https://metadocs8.com/"
     ]
   ],
   [
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=33518320"
     ],
     [
-      "Show HN: Cozo – new Graph DB with Datalog, embedded like SQLite, written in Rust",
+      "Show HN: Cozo – new Graph DB with Datalog, embedded like SQLite",
       "https://github.com/cozodb/cozo"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "What Is an Eigenvalue?",
       "https://nhigham.com/2022/11/08/what-is-an-eigenvalue/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 07:55:52",
-      "https://news.ycombinator.com/item?id=33516918"
-    ],
-    [
-      "Mail: Make The Dragonfly Mail Agent (dma) the default mta",
-      "https://cgit.freebsd.org/src/commit/?id=a67b925ff3e58b072a60b633e442ee1d33e47f7f"
     ]
   ],
   [
