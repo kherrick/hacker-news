@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-11-09, 20:48:34",
+      "https://news.ycombinator.com/item?id=33537614"
+    ],
+    [
+      "GitHub code search",
+      "https://github.com/features/code-search"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 20:12:15",
       "https://news.ycombinator.com/item?id=33537180"
     ],
     [
       "Find your way through the x86 firmware maze (2013) [pdf]",
       "https://www.linux-kvm.org/images/f/fa/Kvm-forum-2013-firmware.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 19:58:26",
+      "https://news.ycombinator.com/item?id=33537009"
+    ],
+    [
+      "What's new in Svelte: November 2022",
+      "https://svelte.dev/blog/whats-new-in-svelte-november-2022"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2022-11-08, 09:36:35",
-      "https://news.ycombinator.com/item?id=33517505"
-    ],
-    [
-      "Better CPU selection for Linux timer expiration",
-      "https://lwn.net/SubscriberLink/913568/435d437c9bf7edd3/"
-    ]
-  ],
-  [
-    [
       "2022-11-08, 09:10:32",
       "https://news.ycombinator.com/item?id=33517356"
     ],
@@ -287,16 +297,6 @@
     [
       "Novelist as a Vocation",
       "https://www.theguardian.com/books/2022/nov/06/novelist-as-a-vocation-by-haruki-murakami-review-the-secrets-behind-the-literary-phenomenon"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 11:01:49",
-      "https://news.ycombinator.com/item?id=33504306"
-    ],
-    [
-      "IodéOS Is Open Source",
-      "https://iode.tech/en/news/iodeos-is-open-source/"
     ]
   ]
 ]
