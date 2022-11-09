@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-09, 17:25:39",
+      "https://news.ycombinator.com/item?id=33534856"
+    ],
+    [
+      "Launch HN: Metlo (YC S21) – Open-source software for securing your APIs",
+      "https://news.ycombinator.com/item?id=33534856"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 17:03:04",
       "https://news.ycombinator.com/item?id=33534505"
     ],
@@ -17,6 +27,16 @@
     [
       "Ciro (YC S22) is hiring founding engineers to build an SMB search engine",
       "https://www.ycombinator.com/companies/ciro/jobs"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 16:55:19",
+      "https://news.ycombinator.com/item?id=33534368"
+    ],
+    [
+      "How to optimize write latency for global tables in CockroachDB",
+      "https://www.cockroachlabs.com/blog/optimize-write-latency/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Why is Rosetta 2 fast?",
       "https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 15:37:31",
-      "https://news.ycombinator.com/item?id=33533088"
-    ],
-    [
-      "Binance Is Strongly Leaning Toward Scrapping FTX Rescue Takeover",
-      "https://www.coindesk.com/business/2022/11/09/binance-is-strongly-leaning-toward-scrapping-ftx-rescue-takeover-after-first-glance-at-books-source/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Meta lays off 11,000 people",
       "https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 09:18:38",
-      "https://news.ycombinator.com/item?id=33529048"
-    ],
-    [
-      "Three new utility functions in C++23",
-      "https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/"
     ]
   ],
   [
