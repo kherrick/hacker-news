@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2022-11-09, 17:12:14",
-      "https://news.ycombinator.com/item?id=33534644"
-    ],
-    [
-      "Ask HN: How do I find my “purpose”?",
-      "https://news.ycombinator.com/item?id=33534644"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 17:05:42",
       "https://news.ycombinator.com/item?id=33534549"
     ],
@@ -97,16 +87,6 @@
     [
       "Ciro (YC S22) is hiring founding engineers to build an SMB search engine",
       "https://www.ycombinator.com/companies/ciro/jobs"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 16:48:04",
-      "https://news.ycombinator.com/item?id=33534235"
-    ],
-    [
-      "Erlang and Telecoms Market",
-      "https://news.ycombinator.com/item?id=33534235"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2022-11-09, 09:29:46",
+      "https://news.ycombinator.com/item?id=33529147"
+    ],
+    [
+      "A guide to error handling in Rust",
+      "https://nrc.github.io/error-docs/"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 09:18:38",
       "https://news.ycombinator.com/item?id=33529048"
     ],
@@ -227,6 +217,16 @@
     [
       "Versepad – A text editor for poets",
       "https://versepad.com/"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 12:25:23",
+      "https://news.ycombinator.com/item?id=33518320"
+    ],
+    [
+      "Show HN: Cozo – new Graph DB with Datalog, embedded like SQLite",
+      "https://github.com/cozodb/cozo"
     ]
   ],
   [
