@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-09, 14:55:10",
+      "https://news.ycombinator.com/item?id=33532423"
+    ],
+    [
+      "NYC jail complex to be restored into citywide green energy hub",
+      "https://movemnt.net/nyc-jail-complex-to-be-restored-into-citywide-green-energy-hub/"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 14:44:02",
       "https://news.ycombinator.com/item?id=33532260"
     ],
@@ -11,11 +21,21 @@
   ],
   [
     [
+      "2022-11-09, 14:35:10",
+      "https://news.ycombinator.com/item?id=33532158"
+    ],
+    [
+      "Building a semantic search engine in Rust",
+      "https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 14:32:46",
       "https://news.ycombinator.com/item?id=33532121"
     ],
     [
-      "Redfin Cuts 13% of Staff, Shuts Down Home-Flipping Business",
+      "Redfin cuts 13% of staff, shuts down home-flipping business",
       "https://www.bloomberg.com/news/articles/2022-11-09/redfin-lays-off-13-of-staff-shuts-down-home-flipping-business"
     ]
   ],
@@ -37,16 +57,6 @@
     [
       "So long and thanks for all the bits",
       "https://www.ncsc.gov.uk/blog-post/so-long-thanks-for-all-the-bits"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 12:37:12",
-      "https://news.ycombinator.com/item?id=33530674"
-    ],
-    [
-      "In 2021, FTX had a funding round of $420.69M",
-      "https://www.coindesk.com/business/2021/10/21/ftx-raises-420690000/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Let’s build a container runtime using only the chroot system call",
       "https://earthly.dev/blog/chroot/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 23:28:12",
-      "https://news.ycombinator.com/item?id=33525673"
-    ],
-    [
-      "Why are glasses so expensive? The industry prefers to keep that blurry (2019)",
-      "https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33503306"
     ],
     [
-      "An Animated Introduction to Elixir",
+      "An animated introduction to Elixir",
       "https://markm208.github.io/exbook/"
     ]
   ]
