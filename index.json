@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-11-09, 18:26:33",
+      "https://news.ycombinator.com/item?id=33535807"
+    ],
+    [
+      "Imperative configs are out; Declarative configs are in",
+      "https://www.prodvana.io/blog/declarative-configs"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 18:14:26",
+      "https://news.ycombinator.com/item?id=33535633"
+    ],
+    [
+      "Affinity Photo 2 Adds Tons of Features, Still Doesn’t Require a Subscription",
+      "https://petapixel.com/2022/11/09/affinity-photo-2-adds-tons-of-features-still-doesnt-require-a-subscription/"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 18:09:33",
+      "https://news.ycombinator.com/item?id=33535562"
+    ],
+    [
+      "GitHub announcing a $10M open-source fund",
+      "https://twitter.com/github/status/1590404832116211712"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 18:02:48",
       "https://news.ycombinator.com/item?id=33535457"
     ],
     [
-      "Antitrust Lawsuit Says Apple and Amazon Colluded to Raise iPhone, iPad Prices",
+      "Antitrust lawsuit says Apple and Amazon colluded to raise iPhone, iPad prices",
       "https://www.hbsslaw.com/press/apple-amazon-price-fixing/antitrust-lawsuit-says-apple-and-amazon-colluded-to-raise-iphone-ipad-prices"
     ]
   ],
@@ -41,22 +71,22 @@
   ],
   [
     [
+      "2022-11-09, 17:05:42",
+      "https://news.ycombinator.com/item?id=33534549"
+    ],
+    [
+      "The Quest for a Fusion Drive",
+      "https://orbitalindex.com/archive/2022-11-09-Issue-193/"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 17:00:25",
       "https://news.ycombinator.com/item?id=33534455"
     ],
     [
       "Ciro (YC S22) is hiring founding engineers to build an SMB search engine",
       "https://www.ycombinator.com/companies/ciro/jobs"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 16:55:19",
-      "https://news.ycombinator.com/item?id=33534368"
-    ],
-    [
-      "How to optimize write latency for global tables in CockroachDB",
-      "https://www.cockroachlabs.com/blog/optimize-write-latency/"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2022-11-09, 16:47:50",
-      "https://news.ycombinator.com/item?id=33534232"
-    ],
-    [
-      "In France, all large parking lots now have to be covered by solar panels",
-      "https://electrek.co/2022/11/08/france-require-parking-lots-be-covered-in-solar-panels/"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 15:40:22",
       "https://news.ycombinator.com/item?id=33533132"
     ],
@@ -91,32 +111,12 @@
   ],
   [
     [
-      "2022-11-09, 15:21:12",
-      "https://news.ycombinator.com/item?id=33532835"
-    ],
-    [
-      "What You Shouldn't Think",
-      "https://yuvalaizenman.posthaven.com/"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 15:01:37",
       "https://news.ycombinator.com/item?id=33532523"
     ],
     [
       "The Sad Saga of the 500 MHz Power Mac G4",
       "https://512pixels.net/2022/11/the-sad-saga-of-the-500-mhz-power-mac-g4/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 14:58:05",
-      "https://news.ycombinator.com/item?id=33532465"
-    ],
-    [
-      "Ask HN: Is React impacted by Meta layoff?",
-      "https://news.ycombinator.com/item?id=33532465"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2022-11-09, 04:54:24",
+      "https://news.ycombinator.com/item?id=33527642"
+    ],
+    [
+      "Stop using low DNS TTLs (2019)",
+      "https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 03:55:44",
       "https://news.ycombinator.com/item?id=33527356"
     ],
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2022-11-09, 03:42:25",
-      "https://news.ycombinator.com/item?id=33527296"
+      "2022-11-08, 19:54:38",
+      "https://news.ycombinator.com/item?id=33523453"
     ],
     [
-      "Writing down what I do in Obsidian",
-      "https://v5.chriskrycho.com/journal/writing-down-what-i-do-in-obsidian/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 03:22:53",
-      "https://news.ycombinator.com/item?id=33527207"
-    ],
-    [
-      "AI and the Future of Pixel Art",
-      "https://pixelparmesan.com/ai-and-the-future-of-pixel-art/"
+      "Versepad – A Text Editor for Poets",
+      "https://versepad.com/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33517356"
     ],
     [
-      "Crossrail Gets Cross",
+      "Crossrail gets cross",
       "https://diamondgeezer.blogspot.com/2022/11/crossrail-gets-cross.html"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=33516422"
     ],
     [
-      "Lisp as the Maxwell’s Equations of Software",
+      "Lisp as the Maxwell’s Equations of Software (2012)",
       "https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=33516417"
     ],
     [
-      "Novelist as a Vocation by Haruki Murakami Review",
+      "Novelist as a Vocation",
       "https://www.theguardian.com/books/2022/nov/06/novelist-as-a-vocation-by-haruki-murakami-review-the-secrets-behind-the-literary-phenomenon"
     ]
   ],
