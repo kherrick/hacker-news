@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-09, 12:31:24",
+      "https://news.ycombinator.com/item?id=33530616"
+    ],
+    [
+      "Most coding courses suck – this is why we're building a text adventure",
+      "https://www.frobocode.com/"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 12:05:32",
+      "https://news.ycombinator.com/item?id=33530356"
+    ],
+    [
+      "Affinity Version 2 Is Here",
+      "https://affinity.serif.com/en-gb/"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 11:51:30",
+      "https://news.ycombinator.com/item?id=33530240"
+    ],
+    [
+      "Z-Library Aftermath Reveals the Feds Seized Dozens of Domain Names",
+      "https://torrentfreak.com/z-library-aftermath-reveals-that-the-feds-seized-dozens-of-domain-names-221107/"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 11:11:01",
       "https://news.ycombinator.com/item?id=33529838"
     ],
@@ -17,6 +47,16 @@
     [
       "Tell HN: Emmet, the HTML editing plugin, gets $100k/yr in donations from casinos",
       "https://news.ycombinator.com/item?id=33529742"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 10:41:16",
+      "https://news.ycombinator.com/item?id=33529637"
+    ],
+    [
+      "Building a simple shell in C – Part 1",
+      "https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-1"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2022-11-09, 02:35:07",
-      "https://news.ycombinator.com/item?id=33526951"
-    ],
-    [
-      "TikTok’s greatest asset isn’t its algorithm, it’s your phone",
-      "https://www.wired.com/story/tiktok-phones-extended-mind-philosophy/"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 01:42:04",
       "https://news.ycombinator.com/item?id=33526668"
     ],
@@ -137,26 +167,6 @@
     [
       "Why are glasses so expensive? The industry prefers to keep that blurry (2019)",
       "https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 21:41:05",
-      "https://news.ycombinator.com/item?id=33524683"
-    ],
-    [
-      "In the 1990s a piece of Germany’s air traffic control software ran on Emacs",
-      "https://old.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 21:14:29",
-      "https://news.ycombinator.com/item?id=33524389"
-    ],
-    [
-      "Recreating sci-fi terminals using VHS",
-      "https://blog.ldodds.com/2022/11/08/recreating-sci-fi-terminals-using-vhs/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-11-08, 12:57:53",
-      "https://news.ycombinator.com/item?id=33518496"
-    ],
-    [
-      "Just don’t",
-      "https://www.tbray.org/ongoing/When/202x/2022/11/07/Just-Dont"
-    ]
-  ],
-  [
-    [
       "2022-11-08, 12:25:23",
       "https://news.ycombinator.com/item?id=33518320"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2022-11-08, 09:39:07",
-      "https://news.ycombinator.com/item?id=33517520"
+      "2022-11-08, 09:36:35",
+      "https://news.ycombinator.com/item?id=33517505"
     ],
     [
-      "A requiem for amateur chemistry",
-      "https://lcamtuf.substack.com/p/a-requiem-for-amateur-chemistry"
+      "Better CPU selection for Linux timer expiration",
+      "https://lwn.net/SubscriberLink/913568/435d437c9bf7edd3/"
     ]
   ],
   [
