@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-11-09, 03:12:10",
+      "https://news.ycombinator.com/item?id=33527141"
+    ],
+    [
+      "Apple is tracking you even when its own privacy settings say not, research says",
+      "https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 02:35:07",
+      "https://news.ycombinator.com/item?id=33526951"
+    ],
+    [
+      "TikTok’s greatest asset isn’t its algorithm, it’s your phone",
+      "https://www.wired.com/story/tiktok-phones-extended-mind-philosophy/"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 02:29:02",
+      "https://news.ycombinator.com/item?id=33526922"
+    ],
+    [
+      "Tell HN: Duty of Care",
+      "https://news.ycombinator.com/item?id=33526922"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 01:42:04",
+      "https://news.ycombinator.com/item?id=33526668"
+    ],
+    [
+      "Containers are chroot with a marketing budget",
+      "https://earthly.dev/blog/chroot/"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 01:06:29",
       "https://news.ycombinator.com/item?id=33526384"
     ],
@@ -11,32 +51,22 @@
   ],
   [
     [
-      "2022-11-09, 01:02:06",
-      "https://news.ycombinator.com/item?id=33526344"
+      "2022-11-08, 23:28:12",
+      "https://news.ycombinator.com/item?id=33525673"
     ],
     [
-      "Ask HN: If you were laid off, do you want to be a cofounder?",
-      "https://news.ycombinator.com/item?id=33526344"
+      "Why are glasses so expensive? The industry prefers to keep that blurry (2019)",
+      "https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html"
     ]
   ],
   [
     [
-      "2022-11-09, 00:19:18",
-      "https://news.ycombinator.com/item?id=33526049"
+      "2022-11-08, 21:41:05",
+      "https://news.ycombinator.com/item?id=33524683"
     ],
     [
-      "Disney says it has more streaming customers than Netflix",
-      "https://www.cbsnews.com/news/disney-streaming-more-customers-than-netflix/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 00:19:04",
-      "https://news.ycombinator.com/item?id=33526046"
-    ],
-    [
-      "Zoom says its video conference app coming soon to Tesla vehicles",
-      "https://www.cbsnews.com/news/zoom-tesla-video-conference-app-coming-soon-to-tesla-vehicles/"
+      "In the 1990s a piece of Germany’s air traffic control software ran on Emacs",
+      "https://old.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/"
     ]
   ],
   [
@@ -57,6 +87,16 @@
     [
       "Compound (YC S19) is hiring to build financial products for tech people",
       "https://withcompound.com/company/about"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 20:43:06",
+      "https://news.ycombinator.com/item?id=33524039"
+    ],
+    [
+      "It's not Ruby that's slow, it's your database",
+      "https://berk.es/2022/08/09/ruby-slow-database-slow/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2022-11-08, 15:12:40",
-      "https://news.ycombinator.com/item?id=33519837"
-    ],
-    [
-      "Kindness, tech staffing and resource allocation",
-      "https://redmonk.com/rstephens/2022/11/01/kindness-and-staffing/"
-    ]
-  ],
-  [
-    [
       "2022-11-08, 15:01:09",
       "https://news.ycombinator.com/item?id=33519700"
     ],
@@ -147,26 +177,6 @@
     [
       "Dragon’s teeth – Stopping tanks in their tracks",
       "https://tankhistoria.com/cold-war/dragons-teeth/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 13:45:03",
-      "https://news.ycombinator.com/item?id=33518845"
-    ],
-    [
-      "Show HN: All-SVG websites with complex animation",
-      "https://svija.love/vibe"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 13:43:13",
-      "https://news.ycombinator.com/item?id=33518828"
-    ],
-    [
-      "Show HN: Metadocs, kinda like Reddit, but built into every documentation",
-      "https://metadocs8.com/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-11-08, 12:33:27",
-      "https://news.ycombinator.com/item?id=33518359"
-    ],
-    [
-      "A Sun-like star orbiting a black hole",
-      "https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac3140/6794289"
-    ]
-  ],
-  [
-    [
       "2022-11-08, 12:25:23",
       "https://news.ycombinator.com/item?id=33518320"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-11-08, 10:48:16",
-      "https://news.ycombinator.com/item?id=33517871"
-    ],
-    [
-      "Inline caches in the Skybison Python runtime",
-      "https://bernsteinbear.com/blog/inline-caches-in-skybison/"
-    ]
-  ],
-  [
-    [
       "2022-11-08, 10:29:46",
       "https://news.ycombinator.com/item?id=33517795"
     ],
@@ -247,6 +237,36 @@
     [
       "A requiem for amateur chemistry",
       "https://lcamtuf.substack.com/p/a-requiem-for-amateur-chemistry"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 08:39:13",
+      "https://news.ycombinator.com/item?id=33517174"
+    ],
+    [
+      "Cryptographer's Way (1967) [pdf]",
+      "https://ia804703.us.archive.org/2/items/cryptographers-way-bradford-hardie/Cryptographers-Way.Bradford-Hardie.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-11-07, 19:15:08",
+      "https://news.ycombinator.com/item?id=33510818"
+    ],
+    [
+      "The Battle of the Pass: An Umayyad Military Disaster",
+      "https://www.medievalists.net/2022/10/battle-pass-umayyad-military-disaster/"
+    ]
+  ],
+  [
+    [
+      "2022-11-07, 09:14:24",
+      "https://news.ycombinator.com/item?id=33503306"
+    ],
+    [
+      "An Animated Introduction to Elixir",
+      "https://markm208.github.io/exbook/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Medieval Bestiary",
       "https://bestiary.ca/"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 23:39:28",
-      "https://news.ycombinator.com/item?id=33498888"
-    ],
-    [
-      "50 years ago, an artist exhibited an invented Iron Age civilization",
-      "https://theconversation.com/50-years-ago-an-artist-convincingly-exhibited-a-fake-iron-age-civilization-with-invented-maps-music-and-artifacts-189026"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 11:50:37",
-      "https://news.ycombinator.com/item?id=33491604"
-    ],
-    [
-      "Exploring the Unchartered Space of Container Registry Typosquatting",
-      "https://www.usenix.org/conference/usenixsecurity22/presentation/liu-guannan"
     ]
   ]
 ]
