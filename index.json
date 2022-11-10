@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-11-10, 18:34:37",
+      "https://news.ycombinator.com/item?id=33551019"
+    ],
+    [
+      "Wrist-mounted camera captures entire body in 3D",
+      "https://news.cornell.edu/stories/2022/11/wrist-mounted-camera-captures-entire-body-3d"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 18:24:39",
       "https://news.ycombinator.com/item?id=33550870"
     ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33547863"
     ],
     [
-      "FTX Tapped into Customer Accounts to Fund Risky Bets, Setting Up Its Downfall",
+      "FTX tapped into customer accounts to fund risky bets, setting up its downfall",
       "https://www.wsj.com/articles/ftx-tapped-into-customer-accounts-to-fund-risky-bets-setting-up-its-downfall-11668093732"
     ]
   ],
@@ -171,22 +181,22 @@
   ],
   [
     [
-      "2022-11-10, 14:40:27",
-      "https://news.ycombinator.com/item?id=33547102"
-    ],
-    [
-      "The Sam Bankman-Fried empire crumbled. What happened? (part one)",
-      "https://newsletter.mollywhite.net/p/ftx-explainer"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 14:23:48",
       "https://news.ycombinator.com/item?id=33546852"
     ],
     [
       "Oxford University Press’s new logo is unfathomably bad",
       "https://joukovsky.substack.com/p/oxford-university-presss-new-logo"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 13:59:27",
+      "https://news.ycombinator.com/item?id=33546491"
+    ],
+    [
+      "Look out: Divergent representations are everywhere",
+      "https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/"
     ]
   ],
   [
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=33545755"
     ],
     [
-      "I Learned to Stop Worrying and Love Uncertainty",
+      "How I learned to stop worrying and love uncertainty",
       "https://nautil.us/how-i-learned-to-stop-worrying-and-love-uncertainty-245816/"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "Try TeXmacs in your Browser via WebAssembly (Mogan Fork of TeXmacs)",
       "https://yufeng-shen.github.io"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 12:08:29",
-      "https://news.ycombinator.com/item?id=33545272"
-    ],
-    [
-      "Capsicum-rs: Rust bindings for the FreeBSD Capsicum framework",
-      "https://github.com/dlrobertson/capsicum-rs"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=33523032"
     ],
     [
-      "Only Solve One Problem at a Time",
+      "Only solve one new problem at a time",
       "https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm"
     ]
   ],
