@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-11-10, 18:42:30",
+      "https://news.ycombinator.com/item?id=33551131"
+    ],
+    [
+      "Metaphor Systems: A search engine based on generative AI",
+      "https://metaphor.systems"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 18:37:33",
+      "https://news.ycombinator.com/item?id=33551066"
+    ],
+    [
+      "Show HN: An API for CO₂ Removal",
+      "https://docs.cdrplatform.com"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 18:36:09",
       "https://news.ycombinator.com/item?id=33551042"
     ],
     [
-      "Following the Unix philosophy without getting left-pad",
+      "Following the Unix philosophy without getting left-pad (2021)",
       "https://raku-advent.blog/2021/12/06/unix_philosophy_without_leftpad/"
     ]
   ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33550870"
     ],
     [
-      "The Weird-Looking, Fuel-Efficient Planes You Could Be Flying in One Day",
+      "Engineers are exploring radical new designs for commercial planes",
       "https://www.wsj.com/articles/the-weird-looking-fuel-efficient-planes-you-could-be-flying-in-one-day-11667397440"
     ]
   ],
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33547813"
     ],
     [
-      "Show HN: Hstream – quick Python web apps (Streamlit alternative using htmx)",
+      "Show HN: Hstream – quick Python web apps – Streamlit alternative using htmx",
       "https://github.com/conradbez/hstream"
     ]
   ],
@@ -167,26 +187,6 @@
     [
       "Oxford University Press’s new logo is unfathomably bad",
       "https://joukovsky.substack.com/p/oxford-university-presss-new-logo"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 13:59:27",
-      "https://news.ycombinator.com/item?id=33546491"
-    ],
-    [
-      "Look out: Divergent representations are everywhere",
-      "https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 13:55:20",
-      "https://news.ycombinator.com/item?id=33546415"
-    ],
-    [
-      "Xterm code execution via font ops",
-      "https://www.openwall.com/lists/oss-security/2022/11/10/1"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33524394"
     ],
     [
-      "Interview with Roald Dahl (1982) [video]",
+      "Roald Dahl's writing shed (1982) [video]",
       "https://www.youtube.com/watch?v=AsxTR09_iWE"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=33523546"
     ],
     [
-      "A next-gen crawling and spidering framework",
+      "Katana: A crawling and spidering framework",
       "https://github.com/projectdiscovery/katana"
     ]
   ],
