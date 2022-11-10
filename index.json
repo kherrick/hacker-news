@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-11-10, 12:13:31",
+      "https://news.ycombinator.com/item?id=33545312"
+    ],
+    [
+      "Tether USDT is depegging from dollar",
+      "https://pro.coinbase.com/trade/USDT-USD"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 12:00:35",
+      "https://news.ycombinator.com/item?id=33545215"
+    ],
+    [
+      "Kamion (YC S22) Is Hiring",
+      "https://www.ycombinator.com/companies/kamion/jobs/pHwM0r2-software-engineer-frontend"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 12:00:03",
+      "https://news.ycombinator.com/item?id=33545209"
+    ],
+    [
+      "Why are clinical trials so expensive? Tales from the beast’s belly",
+      "https://milkyeggs.com/?p=136"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 11:32:34",
+      "https://news.ycombinator.com/item?id=33545015"
+    ],
+    [
+      "Tether's USDT Stablecoin Slips from $1 Peg",
+      "https://www.coindesk.com/markets/2022/11/10/tethers-usdt-stablecoin-slips-from-1-peg/"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 11:13:47",
       "https://news.ycombinator.com/item?id=33544893"
     ],
@@ -61,32 +101,12 @@
   ],
   [
     [
-      "2022-11-10, 07:06:40",
-      "https://news.ycombinator.com/item?id=33543205"
-    ],
-    [
-      "Generally Intelligent (YC S17) Is Hiring AI Policy and Safety Researchers",
-      "https://news.ycombinator.com/item?id=33543205"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 06:36:42",
       "https://news.ycombinator.com/item?id=33543033"
     ],
     [
       "Zoho's annual revenues surpassed $1B in 2021",
       "https://www.businessinsider.in/business/corporates/news/zoho-becomes-a-1-billion-company-in-revenues/articleshow/95382381.cms"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 05:07:31",
-      "https://news.ycombinator.com/item?id=33542473"
-    ],
-    [
-      "Gundam and anime replace rampant politics in Japanese Twitter Trends",
-      "https://nichegamer.com/gundam-anime-twitter-trends/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-11-09, 23:13:49",
-      "https://news.ycombinator.com/item?id=33539549"
-    ],
-    [
-      "Thoughts on Arc Browser",
-      "https://chrishannah.me/arc-browser/"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 22:45:48",
       "https://news.ycombinator.com/item?id=33539192"
     ],
@@ -167,16 +177,6 @@
     [
       "Web automation: Don't use Selenium, use Playwright",
       "https://new.pythonforengineers.com/blog/web-automation-dont-use-selenium-use-playwright/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 20:52:10",
-      "https://news.ycombinator.com/item?id=33537663"
-    ],
-    [
-      "Binary Lambda Calculus (2020)",
-      "https://tromp.github.io/cl/Binary_lambda_calculus.html"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-11-08, 21:28:19",
-      "https://news.ycombinator.com/item?id=33524556"
-    ],
-    [
-      "Former CIA master of disguise helps disfigured people come out of hiding",
-      "https://globalnews.ca/news/9224267/cia-master-of-disguise-helps-disfigured-people/"
-    ]
-  ],
-  [
-    [
       "2022-11-08, 21:09:27",
       "https://news.ycombinator.com/item?id=33524330"
     ],
@@ -267,6 +257,16 @@
     [
       "Only Solve One Problem at a Time",
       "https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 18:33:19",
+      "https://news.ycombinator.com/item?id=33522499"
+    ],
+    [
+      "Silicon innovation and custom ASICs at Amazon [pdf]",
+      "https://mvdirona.com/jrh/talksandpapers/JamesHamilton20221010.pdf"
     ]
   ],
   [
