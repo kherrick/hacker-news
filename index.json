@@ -1,12 +1,72 @@
 [
   [
     [
+      "2022-11-10, 12:59:30",
+      "https://news.ycombinator.com/item?id=33545786"
+    ],
+    [
+      "A new curl option was born: --url-query",
+      "https://daniel.haxx.se/blog/2022/11/10/append-data-to-the-url-query/"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 12:43:29",
+      "https://news.ycombinator.com/item?id=33545610"
+    ],
+    [
+      "I’m the “Nurse Who Called 911” for Help with Unsafe Staffing – Here's My Story",
+      "https://nurse.org/articles/nurse-who-called-911-real-story/"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 12:40:22",
+      "https://news.ycombinator.com/item?id=33545579"
+    ],
+    [
+      "The Golden Rule of Personal Finance",
+      "https://bestinterest.blog/golden-rule/"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 12:23:22",
+      "https://news.ycombinator.com/item?id=33545406"
+    ],
+    [
+      "Try TeXmacs in your Browser via WebAssembly (Mogan Fork of TeXmacs)",
+      "https://yufeng-shen.github.io"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 12:17:10",
+      "https://news.ycombinator.com/item?id=33545345"
+    ],
+    [
+      "Ask HN: Where to Start with Android Custom ROM or AOSP Development?",
+      "https://news.ycombinator.com/item?id=33545345"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 12:13:31",
       "https://news.ycombinator.com/item?id=33545312"
     ],
     [
       "Tether USDT is depegging from dollar",
       "https://pro.coinbase.com/trade/USDT-USD"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 12:08:29",
+      "https://news.ycombinator.com/item?id=33545272"
+    ],
+    [
+      "Dlrobertson/capsicum-rs: Rust bindings for the FreeBSD capsicum framework",
+      "https://github.com/dlrobertson/capsicum-rs"
     ]
   ],
   [
@@ -61,16 +121,6 @@
   ],
   [
     [
-      "2022-11-10, 11:07:11",
-      "https://news.ycombinator.com/item?id=33544855"
-    ],
-    [
-      "What will be the second order effects widespread AI?",
-      "https://news.ycombinator.com/item?id=33544855"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 09:40:32",
       "https://news.ycombinator.com/item?id=33544230"
     ],
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2022-11-10, 04:17:16",
-      "https://news.ycombinator.com/item?id=33542130"
-    ],
-    [
-      "Zip Function Solution: Haskell, Elixir, JavaScript, Python, Vlang",
-      "https://kevin-da-silva.medium.com/one-problem-five-solutions-zip-function-ad1ed3bd1f16"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 00:18:07",
       "https://news.ycombinator.com/item?id=33540293"
     ],
@@ -161,52 +201,12 @@
   ],
   [
     [
-      "2022-11-09, 21:06:45",
-      "https://news.ycombinator.com/item?id=33537821"
-    ],
-    [
-      "We will not pursue the potential acquisition of FTX",
-      "https://twitter.com/binance/status/1590449161069268992"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 21:01:43",
-      "https://news.ycombinator.com/item?id=33537772"
-    ],
-    [
-      "Web automation: Don't use Selenium, use Playwright",
-      "https://new.pythonforengineers.com/blog/web-automation-dont-use-selenium-use-playwright/"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 19:55:40",
       "https://news.ycombinator.com/item?id=33536978"
     ],
     [
       "Podman Desktop: A Free OSS Alternative to Docker Desktop",
       "https://podman-desktop.io"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 17:25:39",
-      "https://news.ycombinator.com/item?id=33534856"
-    ],
-    [
-      "Launch HN: Metlo (YC S21) – Open-source software for securing your APIs",
-      "https://news.ycombinator.com/item?id=33534856"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 17:22:20",
-      "https://news.ycombinator.com/item?id=33534801"
-    ],
-    [
-      "Thunderbird Supernova Preview: The New Calendar Design",
-      "https://blog.thunderbird.net/2022/11/thunderbird-supernova-preview-the-new-calendar-design/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2022-11-08, 19:10:08",
+      "https://news.ycombinator.com/item?id=33522951"
+    ],
+    [
+      "The Death of a Statesman",
+      "https://ez.substack.com/p/the-death-of-a-statesman"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 18:33:19",
       "https://news.ycombinator.com/item?id=33522499"
     ],
     [
       "Silicon innovation and custom ASICs at Amazon [pdf]",
       "https://mvdirona.com/jrh/talksandpapers/JamesHamilton20221010.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 17:47:50",
-      "https://news.ycombinator.com/item?id=33521894"
-    ],
-    [
-      "Show HN: Cito – Actionable data observability for data teams",
-      "https://www.citodata.com"
     ]
   ],
   [
