@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-10, 00:08:08",
+      "https://news.ycombinator.com/item?id=33540164"
+    ],
+    [
+      "I strive to be a 0.1x Engineer (2016)",
+      "https://benjiweber.co.uk/blog/2016/01/25/why-i-strive-to-be-a-0-1x-engineer/"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 23:37:34",
+      "https://news.ycombinator.com/item?id=33539777"
+    ],
+    [
+      "Remembering an “effervescently affable man”: Kurt Vonnegut at 100",
+      "https://thecritic.co.uk/issues/november-2022/remembering-an-effervescently-affable-man/"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 23:29:04",
       "https://news.ycombinator.com/item?id=33539701"
     ],
@@ -47,26 +67,6 @@
     [
       "iOS 16.1.1 includes fixes for two libxml vulnerabilities",
       "https://support.apple.com/en-us/HT213505"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 22:31:44",
-      "https://news.ycombinator.com/item?id=33539001"
-    ],
-    [
-      "Solar Car Just Toured the US, and Will Start Production Next Year",
-      "https://singularityhub.com/2022/11/09/this-solar-car-just-toured-the-us-and-will-start-production-next-year/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 22:20:40",
-      "https://news.ycombinator.com/item?id=33538838"
-    ],
-    [
-      "Bitcoin falls under $16,000",
-      "https://www.cnbc.com/2022/11/09/cryptocurrencies-pressured-as-investors-digest-ftx-fallout-solana-loses-another-20percent.html"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-11-09, 18:02:48",
-      "https://news.ycombinator.com/item?id=33535457"
-    ],
-    [
-      "Antitrust lawsuit says Apple and Amazon colluded to raise iPhone, iPad prices",
-      "https://www.hbsslaw.com/press/apple-amazon-price-fixing/antitrust-lawsuit-says-apple-and-amazon-colluded-to-raise-iphone-ipad-prices"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 17:25:39",
       "https://news.ycombinator.com/item?id=33534856"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2022-11-08, 06:21:16",
-      "https://news.ycombinator.com/item?id=33516417"
+      "2022-11-08, 19:53:43",
+      "https://news.ycombinator.com/item?id=33523445"
     ],
     [
-      "Novelist as a Vocation",
-      "https://www.theguardian.com/books/2022/nov/06/novelist-as-a-vocation-by-haruki-murakami-review-the-secrets-behind-the-literary-phenomenon"
+      "The Ascent of \"guy\" (1999)",
+      "https://muse.jhu.edu/article/2705"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 17:24:14",
+      "https://news.ycombinator.com/item?id=33521571"
+    ],
+    [
+      "Fuzzy Substring Matching: On-Device Fuzzy Friend Search at Snapchat",
+      "https://arxiv.org/abs/2211.02767"
     ]
   ]
 ]
