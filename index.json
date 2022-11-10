@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2022-11-10, 17:29:39",
-      "https://news.ycombinator.com/item?id=33550018"
-    ],
-    [
-      "The IESG has approved QUIC Version 2 for publication as an RFC",
-      "https://datatracker.ietf.org/doc/draft-ietf-quic-v2/"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 17:23:20",
       "https://news.ycombinator.com/item?id=33549919"
     ],
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2022-11-10, 13:59:27",
-      "https://news.ycombinator.com/item?id=33546491"
-    ],
-    [
-      "Look out: Divergent representations are everywhere",
-      "https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 13:33:35",
       "https://news.ycombinator.com/item?id=33546142"
     ],
@@ -221,16 +201,6 @@
   ],
   [
     [
-      "2022-11-10, 12:23:22",
-      "https://news.ycombinator.com/item?id=33545406"
-    ],
-    [
-      "Try TeXmacs in your Browser via WebAssembly (Mogan Fork of TeXmacs)",
-      "https://yufeng-shen.github.io"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 12:00:03",
       "https://news.ycombinator.com/item?id=33545209"
     ],
@@ -247,6 +217,36 @@
     [
       "Accidental Google Pixel Lock Screen Bypass",
       "https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 09:45:49",
+      "https://news.ycombinator.com/item?id=33544280"
+    ],
+    [
+      "Musk’s first email to Twitter staff ends remote work",
+      "https://www.bloomberg.com/news/articles/2022-11-10/musk-s-first-email-to-twitter-staff-ends-remote-work"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 07:35:05",
+      "https://news.ycombinator.com/item?id=33543379"
+    ],
+    [
+      "Mastodon’s eternal September begins?",
+      "https://www.hughrundle.net/home-invasion/"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 05:31:24",
+      "https://news.ycombinator.com/item?id=33527820"
+    ],
+    [
+      "Classic HCI Demos – videos produced during the golden age from 1983-2002",
+      "https://jackrusher.com/classic-ux/"
     ]
   ],
   [
