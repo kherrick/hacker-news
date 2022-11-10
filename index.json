@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-10, 16:29:10",
+      "https://news.ycombinator.com/item?id=33548918"
+    ],
+    [
+      "Why Is Tipping Everywhere You Checkout?",
+      "https://www.maxinomics.com/blog/why-is-tipping-everywhere-you-checkout"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 16:06:55",
+      "https://news.ycombinator.com/item?id=33548484"
+    ],
+    [
+      "How did NPR’s pre-election poll get things so so so wrong?",
+      "https://statmodeling.stat.columbia.edu/2022/11/10/how-did-nprs-poll-get-things-so-so-so-wrong-the-friends-family-coworkers-question/"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 15:48:22",
       "https://news.ycombinator.com/item?id=33548166"
     ],
@@ -21,12 +41,32 @@
   ],
   [
     [
+      "2022-11-10, 15:46:16",
+      "https://news.ycombinator.com/item?id=33548133"
+    ],
+    [
+      "Vocaloid 6",
+      "https://www.vocaloid.com/en/"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 15:46:13",
       "https://news.ycombinator.com/item?id=33548131"
     ],
     [
       "How the Apple Archive Ended Up at Stanford",
       "https://annamancini.substack.com/p/how-the-apple-archive-ended-up-at"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 15:25:30",
+      "https://news.ycombinator.com/item?id=33547813"
+    ],
+    [
+      "Show HN: Hstream – quick Python web apps (Streamlit alternative using htmx)",
+      "https://github.com/conradbez/hstream"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2022-11-10, 12:17:10",
-      "https://news.ycombinator.com/item?id=33545345"
-    ],
-    [
-      "Ask HN: Where to Start with Android Custom ROM or AOSP Development?",
-      "https://news.ycombinator.com/item?id=33545345"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 12:08:29",
       "https://news.ycombinator.com/item?id=33545272"
     ],
@@ -177,16 +207,6 @@
     [
       "Why are clinical trials so expensive? Tales from the beast’s belly",
       "https://milkyeggs.com/?p=136"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 11:30:52",
-      "https://news.ycombinator.com/item?id=33545004"
-    ],
-    [
-      "Hash Codes, Non-Determinism, and Other Eldritch Horrors",
-      "https://verdagon.dev/blog/generics-hash-codes-horrors"
     ]
   ],
   [
@@ -221,32 +241,22 @@
   ],
   [
     [
-      "2022-11-10, 04:23:27",
-      "https://news.ycombinator.com/item?id=33542171"
-    ],
-    [
-      "OpenEnergyMonitor – open-source monitoring for energy",
-      "https://openenergymonitor.org/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 22:45:48",
-      "https://news.ycombinator.com/item?id=33539192"
-    ],
-    [
-      "Stretch iPhone to its limit: 2GiB Stable Diffusion model runs locally on device",
-      "https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 00:59:31",
       "https://news.ycombinator.com/item?id=33526325"
     ],
     [
       "The Anatomy of SaaS Pricing Strategy (2017) [pdf]",
       "https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 20:03:13",
+      "https://news.ycombinator.com/item?id=33523546"
+    ],
+    [
+      "A next-gen crawling and spidering framework",
+      "https://github.com/projectdiscovery/katana"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Silicon innovation and custom ASICs at Amazon [pdf]",
       "https://mvdirona.com/jrh/talksandpapers/JamesHamilton20221010.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 16:00:56",
-      "https://news.ycombinator.com/item?id=33520429"
-    ],
-    [
-      "Mouse-level evasion performance using real-time computational planning",
-      "https://arxiv.org/abs/2211.02700"
     ]
   ],
   [
