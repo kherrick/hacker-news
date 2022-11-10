@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-11-10, 21:29:12",
-      "https://news.ycombinator.com/item?id=33553668"
-    ],
-    [
-      "NSA Releases Guidance on How to Protect Against Software Memory Safety Issues",
-      "https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3215760/nsa-releases-guidance-on-how-to-protect-against-software-memory-safety-issues/"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 21:28:38",
       "https://news.ycombinator.com/item?id=33553659"
     ],
@@ -27,6 +17,16 @@
     [
       "Block web scanners with ipset and iptables",
       "https://nbailey.ca/post/block-scanners/"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 20:29:09",
+      "https://news.ycombinator.com/item?id=33552816"
+    ],
+    [
+      "Property-Based Testing in Rust with Arbitrary",
+      "https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/"
     ]
   ],
   [
@@ -152,6 +152,16 @@
   [
     [
       "2022-11-10, 15:46:16",
+      "https://news.ycombinator.com/item?id=33548134"
+    ],
+    [
+      "We should have Markdown-rendered websites",
+      "https://ipfs.io/ipfs/bafybeid7lt7snuzcvcmfqs5a5hlc5fmk3xmflz4hx2qa7c674vm3rpsdvm/why-we-should-have-markdown-rendered-websites.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 15:46:16",
       "https://news.ycombinator.com/item?id=33548133"
     ],
     [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-11-10, 12:00:03",
-      "https://news.ycombinator.com/item?id=33545209"
-    ],
-    [
-      "Why are clinical trials so expensive? Tales from the beast’s belly",
-      "https://milkyeggs.com/?p=136"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 11:11:26",
       "https://news.ycombinator.com/item?id=33544883"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2022-11-10, 07:35:05",
-      "https://news.ycombinator.com/item?id=33543379"
+      "2022-11-10, 00:01:33",
+      "https://news.ycombinator.com/item?id=33540091"
     ],
     [
-      "Mastodon’s eternal September begins?",
-      "https://www.hughrundle.net/home-invasion/"
+      "Seeing through hardware counters: A journey to 3x performance increase",
+      "https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822"
     ]
   ],
   [
