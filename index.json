@@ -1,22 +1,42 @@
 [
   [
     [
-      "2022-11-10, 14:12:36",
-      "https://news.ycombinator.com/item?id=33546686"
+      "2022-11-10, 15:06:43",
+      "https://news.ycombinator.com/item?id=33547530"
     ],
     [
-      "‘Young, male and aimless’: Why are men in India delaying marriage?",
-      "https://news.cornell.edu/stories/2022/11/young-male-and-aimless-why-are-men-india-delaying-marriage"
+      "Apple will spend $450M with Globalstar to enable emergency satellite texting",
+      "https://www.cnbc.com/2022/11/10/apple-spending-450-million-with-globalstar-others-for-satellite-texting.html"
     ]
   ],
   [
     [
-      "2022-11-10, 14:09:53",
-      "https://news.ycombinator.com/item?id=33546638"
+      "2022-11-10, 14:54:23",
+      "https://news.ycombinator.com/item?id=33547323"
     ],
     [
-      "Aiphone door entry systems can be ‘easily’ bypassed thanks to NFC bug",
-      "https://techcrunch.com/2022/11/10/aiphone-door-entry-nfc-bug/"
+      "Python Asyncio: The Complete Guide",
+      "https://superfastpython.com/python-asyncio/"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 14:40:27",
+      "https://news.ycombinator.com/item?id=33547102"
+    ],
+    [
+      "The Sam Bankman-Fried empire crumbled. What happened? (part one)",
+      "https://newsletter.mollywhite.net/p/ftx-explainer"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 14:23:48",
+      "https://news.ycombinator.com/item?id=33546852"
+    ],
+    [
+      "Oxford University Press’s new logo is unfathomably bad",
+      "https://joukovsky.substack.com/p/oxford-university-presss-new-logo"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "CVE-2022-45063: xterm code execution via font ops",
       "https://www.openwall.com/lists/oss-security/2022/11/10/1"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 13:37:45",
-      "https://news.ycombinator.com/item?id=33546182"
-    ],
-    [
-      "The ethics of reclining airplane seats",
-      "https://www.lesswrong.com/posts/fo4LYBHCpcoYptBfN/the-ethics-of-reclining-airplane-seats"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2022-11-10, 06:36:42",
-      "https://news.ycombinator.com/item?id=33543033"
-    ],
-    [
-      "Zoho's annual revenues surpassed $1B in 2021",
-      "https://www.businessinsider.in/business/corporates/news/zoho-becomes-a-1-billion-company-in-revenues/articleshow/95382381.cms"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 04:23:27",
       "https://news.ycombinator.com/item?id=33542171"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-11-08, 21:29:20",
-      "https://news.ycombinator.com/item?id=33524563"
-    ],
-    [
-      "Seeing Our Own Reflection in the Birth of the Self-Portrait (2020)",
-      "https://www.nytimes.com/interactive/2020/09/25/arts/durer-self-portrait.html"
-    ]
-  ],
-  [
-    [
       "2022-11-08, 21:09:27",
       "https://news.ycombinator.com/item?id=33524330"
     ],
@@ -287,6 +277,16 @@
     [
       "Silicon innovation and custom ASICs at Amazon [pdf]",
       "https://mvdirona.com/jrh/talksandpapers/JamesHamilton20221010.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 16:00:56",
+      "https://news.ycombinator.com/item?id=33520429"
+    ],
+    [
+      "Mouse-level evasion performance using real-time computational planning",
+      "https://arxiv.org/abs/2211.02700"
     ]
   ],
   [
