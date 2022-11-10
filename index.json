@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-10, 13:33:35",
+      "https://news.ycombinator.com/item?id=33546142"
+    ],
+    [
+      "US annual inflation declines to 7.7% in October vs. 7.9% expected",
+      "https://www.bls.gov/news.release/archives/cpi_11102022.htm"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 12:59:59",
+      "https://news.ycombinator.com/item?id=33545788"
+    ],
+    [
+      "Ask HN: Why do startups avoid Java?",
+      "https://news.ycombinator.com/item?id=33545788"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 12:59:30",
       "https://news.ycombinator.com/item?id=33545786"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33545610"
     ],
     [
-      "I’m the “Nurse Who Called 911” for Help with Unsafe Staffing – Here's My Story",
+      "I’m the nurse who called 911 for help with staffing",
       "https://nurse.org/articles/nurse-who-called-911-real-story/"
     ]
   ],
@@ -47,16 +67,6 @@
     [
       "Ask HN: Where to Start with Android Custom ROM or AOSP Development?",
       "https://news.ycombinator.com/item?id=33545345"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 12:13:31",
-      "https://news.ycombinator.com/item?id=33545312"
-    ],
-    [
-      "Tether USDT is depegging from dollar",
-      "https://pro.coinbase.com/trade/USDT-USD"
     ]
   ],
   [
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2022-11-10, 11:30:52",
+      "https://news.ycombinator.com/item?id=33545004"
+    ],
+    [
+      "Hash Codes, Non-Determinism, and Other Eldritch Horrors",
+      "https://verdagon.dev/blog/generics-hash-codes-horrors"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 11:13:47",
       "https://news.ycombinator.com/item?id=33544893"
     ],
@@ -135,18 +155,8 @@
       "https://news.ycombinator.com/item?id=33543946"
     ],
     [
-      "GitHub is planning Voice to Code",
+      "Hey, GitHub – Use voice to write code",
       "https://githubnext.com/projects/hey-github/"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 07:35:05",
-      "https://news.ycombinator.com/item?id=33543379"
-    ],
-    [
-      "Mastodon’s Eternal September Begins",
-      "https://www.hughrundle.net/home-invasion/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Why Everything Looks the Same",
       "https://medium.com/knowable/why-everything-looks-the-same-bad80133dd6e"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 02:39:25",
-      "https://news.ycombinator.com/item?id=33500447"
-    ],
-    [
-      "TikTok’s stratospheric rise: An oral history",
-      "https://www.wsj.com/articles/tiktoks-stratospheric-rise-an-oral-history-11667599696"
     ]
   ]
 ]
