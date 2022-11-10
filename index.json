@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-10, 20:58:08",
+      "https://news.ycombinator.com/item?id=33553252"
+    ],
+    [
+      "OpenTalk: Open-Source Video Conferencing",
+      "https://sqwera.com/opentalk-open-source-video-conferencing/"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 20:40:49",
+      "https://news.ycombinator.com/item?id=33552986"
+    ],
+    [
+      "Block web scanners with ipset and iptables",
+      "https://nbailey.ca/post/block-scanners/"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 19:32:17",
       "https://news.ycombinator.com/item?id=33551809"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33551789"
     ],
     [
-      "FTC Restores Rigorous Enforcement of Law Banning Unfair Methods of Competition",
+      "FTC restores rigorous enforcement of law banning unfair methods of competition",
       "https://www.ftc.gov/news-events/news/press-releases/2022/11/ftc-restores-rigorous-enforcement-law-banning-unfair-methods-competition"
     ]
   ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-11-10, 12:56:30",
-      "https://news.ycombinator.com/item?id=33545755"
-    ],
-    [
-      "How I learned to stop worrying and love uncertainty",
-      "https://nautil.us/how-i-learned-to-stop-worrying-and-love-uncertainty-245816/"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 12:00:03",
       "https://news.ycombinator.com/item?id=33545209"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33527820"
     ],
     [
-      "Classic HCI Demos – videos produced during the golden age from 1983-2002",
+      "Classic HCI Demos",
       "https://jackrusher.com/classic-ux/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Katana: A crawling and spidering framework",
       "https://github.com/projectdiscovery/katana"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 19:16:20",
-      "https://news.ycombinator.com/item?id=33523032"
-    ],
-    [
-      "Only solve one new problem at a time",
-      "https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm"
     ]
   ]
 ]
