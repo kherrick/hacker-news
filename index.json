@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-11-10, 14:23:48",
+      "https://news.ycombinator.com/item?id=33546852"
+    ],
+    [
+      "Oxford University Press’s new logo is unfathomably bad",
+      "https://joukovsky.substack.com/p/oxford-university-presss-new-logo"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 14:12:36",
+      "https://news.ycombinator.com/item?id=33546686"
+    ],
+    [
+      "‘Young, male and aimless’: Why are men in India delaying marriage?",
+      "https://news.cornell.edu/stories/2022/11/young-male-and-aimless-why-are-men-india-delaying-marriage"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 13:59:27",
+      "https://news.ycombinator.com/item?id=33546491"
+    ],
+    [
+      "Look out: Divergent representations are everywhere",
+      "https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 13:37:45",
+      "https://news.ycombinator.com/item?id=33546182"
+    ],
+    [
+      "The ethics of reclining airplane seats",
+      "https://www.lesswrong.com/posts/fo4LYBHCpcoYptBfN/the-ethics-of-reclining-airplane-seats"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 13:33:35",
       "https://news.ycombinator.com/item?id=33546142"
     ],
@@ -11,42 +51,12 @@
   ],
   [
     [
-      "2022-11-10, 12:59:59",
-      "https://news.ycombinator.com/item?id=33545788"
-    ],
-    [
-      "Ask HN: Why do startups avoid Java?",
-      "https://news.ycombinator.com/item?id=33545788"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 12:59:30",
       "https://news.ycombinator.com/item?id=33545786"
     ],
     [
-      "A new curl option was born: --url-query",
+      "Append data to the url query",
       "https://daniel.haxx.se/blog/2022/11/10/append-data-to-the-url-query/"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 12:43:29",
-      "https://news.ycombinator.com/item?id=33545610"
-    ],
-    [
-      "I’m the nurse who called 911 for help with staffing",
-      "https://nurse.org/articles/nurse-who-called-911-real-story/"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 12:40:22",
-      "https://news.ycombinator.com/item?id=33545579"
-    ],
-    [
-      "The Golden Rule of Personal Finance",
-      "https://bestinterest.blog/golden-rule/"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33545272"
     ],
     [
-      "Dlrobertson/capsicum-rs: Rust bindings for the FreeBSD capsicum framework",
+      "Capsicum-rs: Rust bindings for the FreeBSD Capsicum framework",
       "https://github.com/dlrobertson/capsicum-rs"
     ]
   ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2022-11-10, 11:32:34",
-      "https://news.ycombinator.com/item?id=33545015"
-    ],
-    [
-      "Tether's USDT Stablecoin Slips from $1 Peg",
-      "https://www.coindesk.com/markets/2022/11/10/tethers-usdt-stablecoin-slips-from-1-peg/"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 11:30:52",
       "https://news.ycombinator.com/item?id=33545004"
     ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33544893"
     ],
     [
-      "Tech’s Talent Wars Have Come Back to Bite It",
+      "Tech’s talent wars have come back to bite it",
       "https://www.nytimes.com/2022/11/10/technology/big-tech-layoffs.html"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=33544883"
     ],
     [
-      "Accidental $70k Google Pixel Lock Screen Bypass",
+      "Accidental Google Pixel Lock Screen Bypass",
       "https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/"
     ]
   ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2022-11-09, 15:40:22",
-      "https://news.ycombinator.com/item?id=33533132"
-    ],
-    [
-      "Why is Rosetta 2 fast?",
-      "https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 00:59:31",
       "https://news.ycombinator.com/item?id=33526325"
     ],
     [
       "The Anatomy of SaaS Pricing Strategy (2017) [pdf]",
       "https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 21:29:20",
+      "https://news.ycombinator.com/item?id=33524563"
+    ],
+    [
+      "Seeing Our Own Reflection in the Birth of the Self-Portrait (2020)",
+      "https://www.nytimes.com/interactive/2020/09/25/arts/durer-self-portrait.html"
     ]
   ],
   [
