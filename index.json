@@ -1,42 +1,12 @@
 [
   [
     [
-      "2022-11-10, 21:39:18",
-      "https://news.ycombinator.com/item?id=33553793"
-    ],
-    [
-      "The Worst Website Ever",
-      "https://www.theworldsworstwebsiteever.com/"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 20:58:08",
-      "https://news.ycombinator.com/item?id=33553252"
-    ],
-    [
-      "OpenTalk: Open-Source Video Conferencing",
-      "https://sqwera.com/opentalk-open-source-video-conferencing/"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 20:40:49",
       "https://news.ycombinator.com/item?id=33552986"
     ],
     [
       "Block web scanners with ipset and iptables",
       "https://nbailey.ca/post/block-scanners/"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 19:32:17",
-      "https://news.ycombinator.com/item?id=33551809"
-    ],
-    [
-      "How Do You Slay a Dragon – A Manual for Startup Revolutionaries",
-      "https://dragonbook.khodorkovsky.com/en/"
     ]
   ],
   [
@@ -211,6 +181,26 @@
   ],
   [
     [
+      "2022-11-10, 12:59:30",
+      "https://news.ycombinator.com/item?id=33545786"
+    ],
+    [
+      "Append data to the url query",
+      "https://daniel.haxx.se/blog/2022/11/10/append-data-to-the-url-query/"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 12:00:03",
+      "https://news.ycombinator.com/item?id=33545209"
+    ],
+    [
+      "Why are clinical trials so expensive? Tales from the beast’s belly",
+      "https://milkyeggs.com/?p=136"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 11:11:26",
       "https://news.ycombinator.com/item?id=33544883"
     ],
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2022-11-08, 20:47:40",
+      "https://news.ycombinator.com/item?id=33524088"
+    ],
+    [
+      "The Marquee Element",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 20:03:13",
       "https://news.ycombinator.com/item?id=33523546"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33521482"
     ],
     [
-      "Thought to Be Extinct for 80 Years – Scientists Rediscover a Unique Insect",
+      "Scientists rediscover an insect thought to be extinct for 80 years",
       "https://scitechdaily.com/thought-to-be-extinct-for-80-years-scientists-rediscover-a-unique-insect/"
     ]
   ]
