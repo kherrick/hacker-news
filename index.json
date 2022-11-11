@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-11-11, 02:02:35",
+      "https://news.ycombinator.com/item?id=33556439"
+    ],
+    [
+      "Zendo: The Game of Inductive Logic",
+      "https://www.looneylabs.com/games/zendo"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 00:28:34",
+      "https://news.ycombinator.com/item?id=33555783"
+    ],
+    [
+      "Show HN: GitHub Org Audit Tool",
+      "https://github.com/EISMGard/github-audit-tool"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 22:56:17",
       "https://news.ycombinator.com/item?id=33554818"
     ],
     [
-      "what.cd: A Cypherpunk's Manifesto",
+      "A Cypherpunk’s Manifesto (1993)",
       "https://what.cd/"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 22:25:39",
+      "https://news.ycombinator.com/item?id=33554452"
+    ],
+    [
+      "I make $8k/year sending cheap flight alert emails",
+      "https://phillyflightlist.com/cheap-flight-newsletter-makes-money/"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33553895"
     ],
     [
-      "The i Element Has Changed",
+      "&lt;i&gt;: The Idiomatic Text element",
       "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i"
     ]
   ],
@@ -35,8 +65,8 @@
       "https://news.ycombinator.com/item?id=33553668"
     ],
     [
-      "NSA Releases Guidance on How to Protect Against Software Memory Safety Issues",
-      "https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3215760/nsa-releases-guidance-on-how-to-protect-against-software-memory-safety-issues/"
+      "NSA guidance on how to protect against software memory safety issues [pdf]",
+      "https://media.defense.gov/2022/Nov/10/2003112742/-1/-1/0/CSI_SOFTWARE_MEMORY_SAFETY.PDF"
     ]
   ],
   [
@@ -81,42 +111,12 @@
   ],
   [
     [
-      "2022-11-10, 18:37:33",
-      "https://news.ycombinator.com/item?id=33551066"
-    ],
-    [
-      "Show HN: An API for CO₂ Removal",
-      "https://docs.cdrplatform.com"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 18:36:09",
-      "https://news.ycombinator.com/item?id=33551042"
-    ],
-    [
-      "Following the Unix philosophy without getting left-pad (2021)",
-      "https://raku-advent.blog/2021/12/06/unix_philosophy_without_leftpad/"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 18:24:39",
       "https://news.ycombinator.com/item?id=33550870"
     ],
     [
       "Engineers are exploring radical new designs for commercial planes",
       "https://www.wsj.com/articles/the-weird-looking-fuel-efficient-planes-you-could-be-flying-in-one-day-11667397440"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 18:21:42",
-      "https://news.ycombinator.com/item?id=33550824"
-    ],
-    [
-      "French court: refusing to disclose mobile passcode to law enforcement is a crime",
-      "https://www.fairtrials.org/articles/news/french-court-rules-that-refusing-to-disclose-a-mobile-passcode-to-law-enforcement-is-a-criminal-offence/"
     ]
   ],
   [
@@ -182,6 +182,16 @@
   [
     [
       "2022-11-10, 15:46:16",
+      "https://news.ycombinator.com/item?id=33548134"
+    ],
+    [
+      "We should have Markdown-rendered websites",
+      "https://ipfs.io/ipfs/bafybeid7lt7snuzcvcmfqs5a5hlc5fmk3xmflz4hx2qa7c674vm3rpsdvm/why-we-should-have-markdown-rendered-websites.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 15:46:16",
       "https://news.ycombinator.com/item?id=33548133"
     ],
     [
@@ -207,16 +217,6 @@
     [
       "FTX tapped into customer accounts to fund risky bets, setting up its downfall",
       "https://www.wsj.com/articles/ftx-tapped-into-customer-accounts-to-fund-risky-bets-setting-up-its-downfall-11668093732"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 12:59:30",
-      "https://news.ycombinator.com/item?id=33545786"
-    ],
-    [
-      "Append data to the url query",
-      "https://daniel.haxx.se/blog/2022/11/10/append-data-to-the-url-query/"
     ]
   ],
   [
@@ -251,12 +251,22 @@
   ],
   [
     [
-      "2022-11-09, 05:31:24",
-      "https://news.ycombinator.com/item?id=33527820"
+      "2022-11-09, 20:42:28",
+      "https://news.ycombinator.com/item?id=33537531"
     ],
     [
-      "Classic HCI Demos",
-      "https://jackrusher.com/classic-ux/"
+      "Pinboard vs. Raindrop",
+      "https://dsalo.info/pinboard-vs-raindrop-two-bookmark-apps-enter/"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 02:12:47",
+      "https://news.ycombinator.com/item?id=33526831"
+    ],
+    [
+      "500M year-old fossils reveal answer to evolutionary riddle",
+      "https://phys.org/news/2022-11-million-year-old-fossils-reveal-evolutionary.html"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2022-11-08, 22:18:39",
-      "https://news.ycombinator.com/item?id=33525102"
+      "2022-11-08, 19:18:16",
+      "https://news.ycombinator.com/item?id=33523058"
     ],
     [
-      "Better CPU selection for timer expiration",
-      "https://lwn.net/SubscriberLink/913568/5150974329ecf2e1/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 21:14:56",
-      "https://news.ycombinator.com/item?id=33524394"
-    ],
-    [
-      "Roald Dahl's writing shed (1982) [video]",
-      "https://www.youtube.com/watch?v=AsxTR09_iWE"
+      "From WampServer to Vagrant to QEMU",
+      "https://andrewpillar.com/programming/2022/11/08/from-wampserver-to-vagrant-to-qemu/"
     ]
   ],
   [
