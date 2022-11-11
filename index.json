@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-11-11, 06:55:48",
-      "https://news.ycombinator.com/item?id=33558006"
-    ],
-    [
-      "The Queen’s Coup",
-      "https://declassifiedaus.org/2022/11/11/the-queens-coup/"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 05:30:15",
       "https://news.ycombinator.com/item?id=33557611"
     ],
@@ -297,6 +287,16 @@
     [
       "Arduino Unveils the Opta, Its First “Micro PLC” for Industrial IoT",
       "https://www.hackster.io/news/arduino-unveils-the-opta-its-first-micro-plc-for-the-industrial-internet-of-things-d97f1d6b868a"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 19:18:16",
+      "https://news.ycombinator.com/item?id=33523058"
+    ],
+    [
+      "From WampServer to Vagrant to QEMU",
+      "https://andrewpillar.com/programming/2022/11/08/from-wampserver-to-vagrant-to-qemu/"
     ]
   ]
 ]
