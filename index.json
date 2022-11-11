@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=33556906"
     ],
     [
-      "Too much efficiency makes everything worse",
+      "Overfitting and the strong version of Goodhart’s law",
       "https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 03:12:45",
-      "https://news.ycombinator.com/item?id=33556902"
-    ],
-    [
-      "HCL is the fastest growing language according to the GitHub Octoverse 2022",
-      "https://octoverse.github.com/2022/top-programming-languages"
     ]
   ],
   [
@@ -67,16 +57,6 @@
     [
       "A Cypherpunk’s Manifesto (1993)",
       "https://what.cd/"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 22:25:39",
-      "https://news.ycombinator.com/item?id=33554452"
-    ],
-    [
-      "I make $8k/year sending cheap flight alert emails",
-      "https://phillyflightlist.com/cheap-flight-newsletter-makes-money/"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2022-11-10, 16:48:47",
+      "https://news.ycombinator.com/item?id=33549267"
+    ],
+    [
+      "Show HN: Postcard – Easy way to make a personal website",
+      "https://postcard.page/"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 15:48:22",
       "https://news.ycombinator.com/item?id=33548166"
     ],
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2022-11-10, 11:11:26",
-      "https://news.ycombinator.com/item?id=33544883"
-    ],
-    [
-      "Accidental Google Pixel Lock Screen Bypass",
-      "https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 09:45:49",
       "https://news.ycombinator.com/item?id=33544280"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2022-11-09, 14:56:02",
+      "https://news.ycombinator.com/item?id=33532430"
+    ],
+    [
+      "Minikin Retrospective",
+      "https://raphlinus.github.io/text/2022/11/08/minikin.html"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 02:12:23",
       "https://news.ycombinator.com/item?id=33526826"
     ],
     [
       "Egg whites can be transformed into a material capable of filtering microplastics",
       "https://phys.org/news/2022-11-egg-whites-material-capable-filtering.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-08, 17:17:37",
+      "https://news.ycombinator.com/item?id=33521482"
+    ],
+    [
+      "Scientists rediscover an insect thought to be extinct for 80 years",
+      "https://scitechdaily.com/thought-to-be-extinct-for-80-years-scientists-rediscover-a-unique-insect/"
     ]
   ]
 ]
