@@ -1,22 +1,32 @@
 [
   [
     [
+      "2022-11-11, 20:26:05",
+      "https://news.ycombinator.com/item?id=33566329"
+    ],
+    [
+      "Size is the best predictor of code quality (2011)",
+      "https://blog.vivekhaldar.com/post/10669678292/size-is-the-best-predictor-of-code-quality"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 20:22:16",
+      "https://news.ycombinator.com/item?id=33566281"
+    ],
+    [
+      "Guess what we find in books? (2016)",
+      "https://blog.archive.org/2016/03/11/guess-what-we-find-in-books-a-look-inside-our-midwest-regional-digitization-center-by-jeff-sharpe/"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 19:25:23",
       "https://news.ycombinator.com/item?id=33565493"
     ],
     [
       "Why are U.S. transit projects so costly? This group is on the case",
       "https://www.governing.com/finance/why-are-u-s-transit-projects-so-costly-this-group-is-on-the-case"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 18:44:31",
-      "https://news.ycombinator.com/item?id=33564900"
-    ],
-    [
-      "Sublime Text 4 Build 4142",
-      "https://www.sublimetext.com/blog/articles/sublime-text-4142"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Demystifying financial leverage",
       "https://bam.kalzumeus.com/archive/demystifying-financial-leverage/"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 16:17:20",
+      "https://news.ycombinator.com/item?id=33562660"
+    ],
+    [
+      "An overview of concrete forming technology",
+      "https://constructionphysics.substack.com/p/an-overview-of-concrete-forming-technology"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-11-11, 14:59:06",
-      "https://news.ycombinator.com/item?id=33561584"
-    ],
-    [
-      "Key staff driving Apple search engine leave to rejoin Google",
-      "https://appleinsider.com/articles/22/11/11/key-staff-driving-apple-search-engine-leave-to-rejoin-google"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 14:42:38",
       "https://news.ycombinator.com/item?id=33561377"
     ],
@@ -191,22 +201,22 @@
   ],
   [
     [
-      "2022-11-11, 13:19:56",
-      "https://news.ycombinator.com/item?id=33560492"
-    ],
-    [
-      "Zuo: A tiny Racket for scripting",
-      "https://docs.racket-lang.org/zuo/index.html"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 12:59:15",
       "https://news.ycombinator.com/item?id=33560275"
     ],
     [
       "Resolving the great undo-redo quandary",
       "https://github.com/zaboople/klonk/blob/master/TheGURQ.md"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 10:54:33",
+      "https://news.ycombinator.com/item?id=33559198"
+    ],
+    [
+      "The one about Lisp interactivity",
+      "http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/"
     ]
   ],
   [
@@ -221,21 +231,11 @@
   ],
   [
     [
-      "2022-11-11, 05:30:15",
-      "https://news.ycombinator.com/item?id=33557611"
-    ],
-    [
-      "Thirteen Years of Go",
-      "https://go.dev/blog/13years"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 01:57:13",
       "https://news.ycombinator.com/item?id=33556407"
     ],
     [
-      "Baking Bread with a Hot Car",
+      "Baking bread with a hot car",
       "https://twitter.com/seismogenic/status/1566873127866421249"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33543570"
     ],
     [
-      "Where Is All the Book Data?",
+      "Where is all the book data?",
       "https://www.publicbooks.org/where-is-all-the-book-data/"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=33528661"
     ],
     [
-      "“Fixing” the Rules of Division",
+      "“Fixing” the rules of division",
       "https://alexwlchan.net/2022/09/moomin-mathematics/"
     ]
   ],
