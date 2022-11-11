@@ -1,6 +1,76 @@
 [
   [
     [
+      "2022-11-11, 13:38:13",
+      "https://news.ycombinator.com/item?id=33560657"
+    ],
+    [
+      "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
+      "https://deepnote.com/join-us"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 13:28:50",
+      "https://news.ycombinator.com/item?id=33560582"
+    ],
+    [
+      "The Sad, Sad Story of Laika, the Space Dog, and Her One-Way Trip into Orbit",
+      "https://www.smithsonianmag.com/smithsonian-institution/sad-story-laika-space-dog-and-her-one-way-trip-orbit-1-180968728/"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 13:19:56",
+      "https://news.ycombinator.com/item?id=33560492"
+    ],
+    [
+      "Zuo: A Tiny Racket for Scripting",
+      "https://docs.racket-lang.org/zuo/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 12:59:15",
+      "https://news.ycombinator.com/item?id=33560275"
+    ],
+    [
+      "Resolving the Great Undo-Redo Quandary",
+      "https://github.com/zaboople/klonk/blob/master/TheGURQ.md"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 12:55:11",
+      "https://news.ycombinator.com/item?id=33560227"
+    ],
+    [
+      "NSA urges orgs to use memory-safe programming languages",
+      "https://www.theregister.com/2022/11/11/nsa_urges_orgs_to_use/"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 12:40:32",
+      "https://news.ycombinator.com/item?id=33560092"
+    ],
+    [
+      "Books recommended by profitable founders",
+      "https://microsaashq.com/insights/founder-insights-books-recommendations"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 12:32:56",
+      "https://news.ycombinator.com/item?id=33560018"
+    ],
+    [
+      "NeuRRAM – New chip for running large-scale AI algorithms on smaller devices",
+      "https://www.quantamagazine.org/a-brain-inspired-chip-can-run-ai-with-far-less-energy-20221110/"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 11:29:49",
       "https://news.ycombinator.com/item?id=33559431"
     ],
@@ -41,16 +111,6 @@
   ],
   [
     [
-      "2022-11-11, 08:56:03",
-      "https://news.ycombinator.com/item?id=33558541"
-    ],
-    [
-      "‘Whisper list’ contains 40 politicians never to accept a drink from, MP claims",
-      "https://www.theguardian.com/uk-news/2022/nov/10/whisper-list-contains-40-politicians-never-to-accept-a-drink-from-mp-claims"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 08:54:26",
       "https://news.ycombinator.com/item?id=33558531"
     ],
@@ -65,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33558526"
     ],
     [
-      "A Cost Model for Nim",
+      "A cost model for Nim",
       "https://nim-lang.org/blog/2022/11/11/a-cost-model-for-nim.html"
     ]
   ],
@@ -75,18 +135,8 @@
       "https://news.ycombinator.com/item?id=33558509"
     ],
     [
-      "Databases: 2021 in Review and Predictions for 2022",
+      "Database Review 2021",
       "https://www.bytebase.com/blog/database-review-2021"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 07:13:22",
-      "https://news.ycombinator.com/item?id=33558072"
-    ],
-    [
-      "AdBlue shortage threatens EU supply chains",
-      "https://www.economist.com/business/2022/11/10/a-series-of-shortages-threatens-eu-supply-chains"
     ]
   ],
   [
@@ -95,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33558006"
     ],
     [
-      "The Queen's Coup",
+      "The Queen’s Coup",
       "https://declassifiedaus.org/2022/11/11/the-queens-coup/"
     ]
   ],
@@ -151,16 +201,6 @@
   ],
   [
     [
-      "2022-11-10, 23:35:22",
-      "https://news.ycombinator.com/item?id=33555221"
-    ],
-    [
-      "Reclaiming Mobile Privacy with GrapheneOS",
-      "https://xn--gckvb8fzb.com/reclaiming-mobile-privacy-with-grapheneos/"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 22:56:17",
       "https://news.ycombinator.com/item?id=33554818"
     ],
@@ -195,18 +235,8 @@
       "https://news.ycombinator.com/item?id=33551036"
     ],
     [
-      "What it's like to dissect a cadaver",
+      "What it’s like to dissect a cadaver",
       "https://alok.github.io/2022/11/09/dissection/"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 15:48:22",
-      "https://news.ycombinator.com/item?id=33548166"
-    ],
-    [
-      "Octopuses caught on camera throwing things at each other",
-      "https://www.nature.com/articles/d41586-022-03592-w"
     ]
   ],
   [
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2022-11-10, 05:43:08",
-      "https://news.ycombinator.com/item?id=33542731"
-    ],
-    [
-      "Proust’s Pinks",
-      "https://publicdomainreview.org/essay/prousts-pinks/"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 00:01:33",
-      "https://news.ycombinator.com/item?id=33540091"
-    ],
-    [
-      "Seeing through hardware counters: A journey to 3x performance increase",
-      "https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 20:42:28",
       "https://news.ycombinator.com/item?id=33537531"
     ],
     [
       "Pinboard vs. Raindrop",
       "https://dsalo.info/pinboard-vs-raindrop-two-bookmark-apps-enter/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 14:56:02",
-      "https://news.ycombinator.com/item?id=33532430"
-    ],
-    [
-      "Minikin Retrospective",
-      "https://raphlinus.github.io/text/2022/11/08/minikin.html"
     ]
   ],
   [
