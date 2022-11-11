@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-11, 20:44:46",
+      "https://news.ycombinator.com/item?id=33566557"
+    ],
+    [
+      "Ken Thompson's NFA regex patent",
+      "https://patents.google.com/patent/US3568156A/en"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 20:26:05",
       "https://news.ycombinator.com/item?id=33566329"
     ],
@@ -17,6 +27,16 @@
     [
       "Guess what we find in books? (2016)",
       "https://blog.archive.org/2016/03/11/guess-what-we-find-in-books-a-look-inside-our-midwest-regional-digitization-center-by-jeff-sharpe/"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 20:19:04",
+      "https://news.ycombinator.com/item?id=33566250"
+    ],
+    [
+      "Police Don't Trust Apple's Find My to Retrieve Missing MacBook Shown Next Door",
+      "https://www.cbc.ca/news/canada/sudbury/sudbury-bill-mcelree-stolen-laptop-1.6647876"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-11-09, 08:10:36",
-      "https://news.ycombinator.com/item?id=33528661"
-    ],
-    [
-      "“Fixing” the rules of division",
-      "https://alexwlchan.net/2022/09/moomin-mathematics/"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 05:45:36",
       "https://news.ycombinator.com/item?id=33527900"
     ],
     [
       "Arduino unveils the Opta – “Micro PLC” for industrial IoT",
       "https://www.hackster.io/news/arduino-unveils-the-opta-its-first-micro-plc-for-the-industrial-internet-of-things-d97f1d6b868a"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 19:18:16",
-      "https://news.ycombinator.com/item?id=33523058"
-    ],
-    [
-      "From WampServer to Vagrant to QEMU",
-      "https://andrewpillar.com/programming/2022/11/08/from-wampserver-to-vagrant-to-qemu/"
     ]
   ]
 ]
