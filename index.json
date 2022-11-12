@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-11-11, 17:16:07",
-      "https://news.ycombinator.com/item?id=33563555"
-    ],
-    [
-      "Demystifying financial leverage",
-      "https://bam.kalzumeus.com/archive/demystifying-financial-leverage/"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 16:17:20",
       "https://news.ycombinator.com/item?id=33562660"
     ],
@@ -237,6 +227,16 @@
     [
       "Resolving the great undo-redo quandary",
       "https://github.com/zaboople/klonk/blob/master/TheGURQ.md"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 06:42:00",
+      "https://news.ycombinator.com/item?id=33557960"
+    ],
+    [
+      "Discover Paxos via 2PC (2019)",
+      "https://blog.the-pans.com/discover-paxos/"
     ]
   ],
   [
