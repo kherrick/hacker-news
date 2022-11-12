@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-12, 12:31:56",
+      "https://news.ycombinator.com/item?id=33572436"
+    ],
+    [
+      "You Can Forget About Crypto Now",
+      "https://www.theatlantic.com/technology/archive/2022/11/sam-bankman-fried-bankruptcy-crypto-ftx/672104/"
+    ]
+  ],
+  [
+    [
       "2022-11-12, 12:22:37",
       "https://news.ycombinator.com/item?id=33572390"
     ],
@@ -31,12 +41,42 @@
   ],
   [
     [
+      "2022-11-12, 11:58:54",
+      "https://news.ycombinator.com/item?id=33572271"
+    ],
+    [
+      "The Ethical Principles of Public Health",
+      "https://dc.hillsdale.edu/Academy-for-Science-and-Freedom/The-Ethical-Principles-of-Public-Health/"
+    ]
+  ],
+  [
+    [
+      "2022-11-12, 11:57:40",
+      "https://news.ycombinator.com/item?id=33572264"
+    ],
+    [
+      "The Evolution of Scalable CSS",
+      "https://frontendmastery.com/posts/the-evolution-of-scalable-css/"
+    ]
+  ],
+  [
+    [
       "2022-11-12, 11:08:30",
       "https://news.ycombinator.com/item?id=33572019"
     ],
     [
       "The German School of Lisp (2011)",
       "http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/"
+    ]
+  ],
+  [
+    [
+      "2022-11-12, 10:57:23",
+      "https://news.ycombinator.com/item?id=33571962"
+    ],
+    [
+      "Eli Lilly stock fell by $20B because of a fake tweet about free insulin",
+      "https://twitter.com/drericding/status/1591168147792728065"
     ]
   ],
   [
@@ -171,6 +211,26 @@
   ],
   [
     [
+      "2022-11-11, 23:10:36",
+      "https://news.ycombinator.com/item?id=33568059"
+    ],
+    [
+      ".bestbuy",
+      "http://nic.bestbuy/"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 22:43:23",
+      "https://news.ycombinator.com/item?id=33567855"
+    ],
+    [
+      "Type-Signature.com",
+      "https://type-signature.com/"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 21:12:48",
       "https://news.ycombinator.com/item?id=33566924"
     ],
@@ -191,56 +251,6 @@
   ],
   [
     [
-      "2022-11-11, 21:09:50",
-      "https://news.ycombinator.com/item?id=33566884"
-    ],
-    [
-      "Chaos Bernie: Delete Azure resources by playing Doom",
-      "https://github.com/secureworks/chaosbernie"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 21:01:10",
-      "https://news.ycombinator.com/item?id=33566773"
-    ],
-    [
-      "An unconfirmed tweet about Freeport LNG is upending gas markets",
-      "https://www.bloomberg.com/news/articles/2022-11-11/an-unconfirmed-tweet-about-freeport-lng-is-upending-gas-markets"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 20:49:41",
-      "https://news.ycombinator.com/item?id=33566620"
-    ],
-    [
-      "Membrane: A simple UI library that runs anywhere",
-      "https://github.com/phronmophobic/membrane"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 20:34:16",
-      "https://news.ycombinator.com/item?id=33566419"
-    ],
-    [
-      "AWS IAM Roles, a tale of unnecessary complexity",
-      "https://infosec.rodeo/posts/thoughts-on-aws-iam/"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 20:26:05",
-      "https://news.ycombinator.com/item?id=33566329"
-    ],
-    [
-      "Size is the best predictor of code quality (2011)",
-      "https://blog.vivekhaldar.com/post/10669678292/size-is-the-best-predictor-of-code-quality"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 17:21:35",
       "https://news.ycombinator.com/item?id=33563636"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2022-11-11, 14:42:38",
-      "https://news.ycombinator.com/item?id=33561377"
+      "2022-11-11, 06:42:00",
+      "https://news.ycombinator.com/item?id=33557960"
     ],
     [
-      "A Visual Bibliography of Tree Visualization",
-      "https://treevis.net"
+      "Discover Paxos via 2PC (2019)",
+      "https://blog.the-pans.com/discover-paxos/"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2022-11-10, 13:34:22",
-      "https://news.ycombinator.com/item?id=33546151"
+      "2022-11-10, 09:49:53",
+      "https://news.ycombinator.com/item?id=33544323"
     ],
     [
-      "The 1993 Murder She Wrote VR episode (2014)",
-      "https://www.wired.com/2014/04/underwire-0402-murdershewrote/"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 12:17:32",
-      "https://news.ycombinator.com/item?id=33545349"
-    ],
-    [
-      "Turning music into a chore is how I became a musician",
-      "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/"
+      "Browsers, JSON, and FormData",
+      "https://blog.jim-nielsen.com/2022/browsers-json-formdata/"
     ]
   ],
   [
