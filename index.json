@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-12, 06:56:25",
+      "https://news.ycombinator.com/item?id=33570741"
+    ],
+    [
+      "Twitter Is Going Great",
+      "http://twitterisgoinggreat.com/"
+    ]
+  ],
+  [
+    [
       "2022-11-12, 06:26:52",
       "https://news.ycombinator.com/item?id=33570575"
     ],
@@ -27,16 +37,6 @@
     [
       "Symbian Source Code Final Repositories from the Defunct Symbian Foundation",
       "https://github.com/SymbianSource/oss.FCL.sf.os.kernelhwsrv"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 03:39:52",
-      "https://news.ycombinator.com/item?id=33569719"
-    ],
-    [
-      "‘Dark ships’ emerge from the shadows of the Nord Stream mystery",
-      "https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-11-11, 16:13:02",
-      "https://news.ycombinator.com/item?id=33562614"
-    ],
-    [
-      "Is algae the new kale?",
-      "https://www.nationalgeographic.com/environment/article/is-it-time-to-start-eating-algae"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 14:42:38",
       "https://news.ycombinator.com/item?id=33561377"
     ],
@@ -237,6 +227,16 @@
     [
       "How stdbuf works",
       "https://hmarr.com/blog/how-stdbuf-works/"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 12:59:15",
+      "https://news.ycombinator.com/item?id=33560275"
+    ],
+    [
+      "Resolving the great undo-redo quandary",
+      "https://github.com/zaboople/klonk/blob/master/TheGURQ.md"
     ]
   ],
   [
