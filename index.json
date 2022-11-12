@@ -1,22 +1,32 @@
 [
   [
     [
-      "2022-11-12, 01:17:42",
-      "https://news.ycombinator.com/item?id=33568994"
+      "2022-11-12, 03:39:52",
+      "https://news.ycombinator.com/item?id=33569719"
     ],
     [
-      "Tunneling Internet through WhatsApp to get around network data usage limits",
-      "https://github.com/aleixrodriala/wa-tunnel"
+      "‘Dark ships’ emerge from the shadows of the Nord Stream mystery",
+      "https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/"
     ]
   ],
   [
     [
-      "2022-11-12, 00:40:53",
-      "https://news.ycombinator.com/item?id=33568732"
+      "2022-11-12, 01:24:35",
+      "https://news.ycombinator.com/item?id=33569029"
     ],
     [
-      "Spanner: Google’s Globally-Distributed Database Wins Sigops Hall of Fame Award",
-      "https://www.sigops.org/2022/hof-2022/"
+      "Mathematician who solved prime-number riddle claims new breakthrough",
+      "https://www.nature.com/articles/d41586-022-03689-2"
+    ]
+  ],
+  [
+    [
+      "2022-11-12, 01:17:42",
+      "https://news.ycombinator.com/item?id=33568994"
+    ],
+    [
+      "Show HN: Wa-tunnel – HTTP Tunneling through Whatsapp",
+      "https://github.com/aleixrodriala/wa-tunnel"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-11-11, 19:40:13",
-      "https://news.ycombinator.com/item?id=33565697"
-    ],
-    [
-      "Rendering Doom with Emojis",
-      "https://crocidb.com/post/rendering-doom-with-emojis/"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 17:16:07",
       "https://news.ycombinator.com/item?id=33563555"
     ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2022-11-11, 15:23:04",
+      "https://news.ycombinator.com/item?id=33561916"
+    ],
+    [
+      "How Australia became the world’s greatest lithium supplier",
+      "https://www.bbc.com/future/article/20221110-how-australia-became-the-worlds-greatest-lithium-supplier"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 14:42:38",
       "https://news.ycombinator.com/item?id=33561377"
     ],
@@ -237,16 +247,6 @@
     [
       "Laika, the space dog, and her one-way trip into orbit (2018)",
       "https://www.smithsonianmag.com/smithsonian-institution/sad-story-laika-space-dog-and-her-one-way-trip-orbit-1-180968728/"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 12:59:15",
-      "https://news.ycombinator.com/item?id=33560275"
-    ],
-    [
-      "Resolving the great undo-redo quandary",
-      "https://github.com/zaboople/klonk/blob/master/TheGURQ.md"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33545216"
     ],
     [
-      "Academic Addiction Goes Unnoticed (2018)",
+      "Academic addiction goes unnoticed (2018)",
       "https://scotscoop.com/the-addiction-that-goes-unnoticed/"
     ]
   ]
