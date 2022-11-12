@@ -1,32 +1,12 @@
 [
   [
     [
-      "2022-11-12, 04:46:47",
-      "https://news.ycombinator.com/item?id=33570050"
+      "2022-11-12, 05:30:55",
+      "https://news.ycombinator.com/item?id=33570274"
     ],
     [
-      "Over $400M worth of tokens drained from FTX accounts",
-      "https://www.theblock.co/post/186279/over-400m-worth-of-tokens-ftx-funds-drained-from-company-accounts"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 04:31:54",
-      "https://news.ycombinator.com/item?id=33569969"
-    ],
-    [
-      "At least $1B of client funds missing at failed crypto firm FTX",
-      "https://www.reuters.com/markets/currencies/exclusive-least-1-billion-client-funds-missing-failed-crypto-firm-ftx-sources-2022-11-12/"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 03:46:45",
-      "https://news.ycombinator.com/item?id=33569757"
-    ],
-    [
-      "$280mm+ has been moved from FTX wallets to another wallet in possible hack",
-      "https://etherscan.io/address/0x59abf3837fa962d6853b4cc0a19513aa031fd32b"
+      "FTX faces potential hack, sees mysterious outflows totaling more than $600M",
+      "https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/"
     ]
   ],
   [
@@ -41,12 +21,12 @@
   ],
   [
     [
-      "2022-11-12, 03:24:40",
-      "https://news.ycombinator.com/item?id=33569653"
+      "2022-11-12, 01:56:10",
+      "https://news.ycombinator.com/item?id=33569222"
     ],
     [
-      "Tunnel IPv4 data through a DNS server",
-      "https://github.com/yarrick/iodine"
+      "On CAD: OnShape is to FreeCAD as FreeCAD is to SolveSpace",
+      "https://1299651405.com/cad/"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2022-11-11, 20:22:16",
+      "https://news.ycombinator.com/item?id=33566281"
+    ],
+    [
+      "Guess what we find in books (2016)",
+      "https://blog.archive.org/2016/03/11/guess-what-we-find-in-books-a-look-inside-our-midwest-regional-digitization-center-by-jeff-sharpe/"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 17:16:07",
       "https://news.ycombinator.com/item?id=33563555"
     ],
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2022-11-11, 14:38:26",
+      "https://news.ycombinator.com/item?id=33561319"
+    ],
+    [
+      "How stdbuf works",
+      "https://hmarr.com/blog/how-stdbuf-works/"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 02:04:51",
       "https://news.ycombinator.com/item?id=33556457"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-11-10, 07:28:42",
-      "https://news.ycombinator.com/item?id=33543335"
+      "2022-11-10, 07:34:38",
+      "https://news.ycombinator.com/item?id=33543376"
     ],
     [
-      "The Glass Box and the Commonplace Book (2010)",
-      "https://stevenberlinjohnson.com/the-glass-box-and-the-commonplace-book-639b16c4f3bb"
+      "The Fediverse is inefficient but that's a good trade-off",
+      "https://berk.es/2022/11/08/fediverse-inefficiencies/"
     ]
   ]
 ]
