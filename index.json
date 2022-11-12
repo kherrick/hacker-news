@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-12, 10:53:53",
+      "https://news.ycombinator.com/item?id=33571953"
+    ],
+    [
+      "In Praise of Plan 9",
+      "https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html"
+    ]
+  ],
+  [
+    [
       "2022-11-12, 10:06:07",
       "https://news.ycombinator.com/item?id=33571734"
     ],
@@ -27,16 +37,6 @@
     [
       "The NetHack Learning Environment",
       "https://github.com/facebookresearch/nle"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 08:39:06",
-      "https://news.ycombinator.com/item?id=33571275"
-    ],
-    [
-      "(Mastodon) Surviving and thriving through the 2022-11-05 meltdown",
-      "https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2022-11-11, 22:43:23",
-      "https://news.ycombinator.com/item?id=33567855"
-    ],
-    [
-      "Type-Signature.com",
-      "https://type-signature.com/"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 21:12:48",
       "https://news.ycombinator.com/item?id=33566924"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2022-11-11, 17:21:35",
+      "https://news.ycombinator.com/item?id=33563636"
+    ],
+    [
+      "Data and Reality (1978)",
+      "https://www.bkent.net/Doc/darxrp.htm"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 16:17:20",
       "https://news.ycombinator.com/item?id=33562660"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-11-10, 09:49:53",
-      "https://news.ycombinator.com/item?id=33544323"
+      "2022-11-10, 11:52:04",
+      "https://news.ycombinator.com/item?id=33545147"
     ],
     [
-      "Browsers, JSON, and FormData",
-      "https://blog.jim-nielsen.com/2022/browsers-json-formdata/"
+      "The scale of the web, the authority of print",
+      "https://electricbookworks.com/thinking/scale-of-the-web-authority-of-print/"
     ]
   ],
   [
