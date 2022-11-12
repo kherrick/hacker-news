@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-11-12, 21:28:01",
-      "https://news.ycombinator.com/item?id=33577284"
-    ],
-    [
-      "Bevy 0.9: data oriented game engine built in Rust",
-      "https://bevyengine.org/news/bevy-0-9/"
-    ]
-  ],
-  [
-    [
       "2022-11-12, 21:01:16",
       "https://news.ycombinator.com/item?id=33577022"
     ],
@@ -41,32 +31,12 @@
   ],
   [
     [
-      "2022-11-12, 20:59:51",
-      "https://news.ycombinator.com/item?id=33577003"
-    ],
-    [
-      "It amazes me how many people are blissfully unaware of the rampant tether fraud",
-      "https://news.ycombinator.com/item?id=33577003"
-    ]
-  ],
-  [
-    [
       "2022-11-12, 20:33:16",
       "https://news.ycombinator.com/item?id=33576744"
     ],
     [
       "Using GSE and DVB-S2 for IP Traffic",
       "https://destevez.net/2022/11/using-gse-and-dvb-s2-for-ip-traffic/"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 20:30:57",
-      "https://news.ycombinator.com/item?id=33576722"
-    ],
-    [
-      "GitHub is replacing Rails front end rendering with React",
-      "https://twitter.com/rauchg/status/1591464351990697984"
     ]
   ],
   [
@@ -131,6 +101,16 @@
   ],
   [
     [
+      "2022-11-12, 16:29:57",
+      "https://news.ycombinator.com/item?id=33574568"
+    ],
+    [
+      "Australia gives world-first approval for fecal transplants to restore gut health",
+      "https://www.theguardian.com/australia-news/2022/nov/11/australia-gives-world-first-approval-for-faecal-transplants-to-restore-gut-health"
+    ]
+  ],
+  [
+    [
       "2022-11-12, 16:07:52",
       "https://news.ycombinator.com/item?id=33574311"
     ],
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2022-11-12, 13:21:50",
+      "https://news.ycombinator.com/item?id=33572787"
+    ],
+    [
+      "LeanQt – GUI is here, Widgets are near",
+      "https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11"
+    ]
+  ],
+  [
+    [
       "2022-11-12, 11:57:40",
       "https://news.ycombinator.com/item?id=33572264"
     ],
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2022-11-12, 07:58:57",
-      "https://news.ycombinator.com/item?id=33571080"
-    ],
-    [
-      "Gzip exceptions, but only on hot or rainy days",
-      "https://alexyorke.github.io//2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/"
-    ]
-  ],
-  [
-    [
       "2022-11-12, 06:47:13",
       "https://news.ycombinator.com/item?id=33570683"
     ],
@@ -261,11 +241,31 @@
   ],
   [
     [
+      "2022-11-11, 21:31:56",
+      "https://news.ycombinator.com/item?id=33567123"
+    ],
+    [
+      "Similarity search and deduplication at scale",
+      "https://dsalaj.com/2022/10/25/similarity-search-and-deduplication.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 17:50:00",
+      "https://news.ycombinator.com/item?id=33564088"
+    ],
+    [
+      "Reverse Engineering an EV Charger",
+      "https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 06:03:03",
       "https://news.ycombinator.com/item?id=33557767"
     ],
     [
-      "The Velveteen Rabbit Was Always More Than a Children’s Book",
+      "The Velveteen Rabbit was always more than a children’s book",
       "https://www.vulture.com/2022/11/velveteen-rabbit-margery-williams-bianco-book.html"
     ]
   ],
