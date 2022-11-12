@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-11-12, 16:07:52",
+      "https://news.ycombinator.com/item?id=33574311"
+    ],
+    [
+      "A Brief Interview with Common Lisp Creator Dr. Scott Fahlman",
+      "https://pldb.com/posts/scottFalhmanInterview.html"
+    ]
+  ],
+  [
+    [
       "2022-11-12, 15:50:08",
       "https://news.ycombinator.com/item?id=33574154"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33572912"
     ],
     [
-      "Turn Raspberry Pi’s GPIO into an FM Transmitter",
+      "Turn Raspberry Pi’s GPIO into an FM Transmitter (2012)",
       "http://www.icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Reverse Engineering an EV Charger",
       "https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 03:31:47",
-      "https://news.ycombinator.com/item?id=33557022"
-    ],
-    [
-      "The Cost of Exception Handling",
-      "https://grenouillebouillie.wordpress.com/2022/05/09/the-hidden-cost-of-exception-handling/"
     ]
   ],
   [
