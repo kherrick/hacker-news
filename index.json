@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-12, 01:17:42",
+      "https://news.ycombinator.com/item?id=33568994"
+    ],
+    [
+      "Tunneling Internet through WhatsApp to get around network data usage limits",
+      "https://github.com/aleixrodriala/wa-tunnel"
+    ]
+  ],
+  [
+    [
+      "2022-11-12, 00:13:21",
+      "https://news.ycombinator.com/item?id=33568521"
+    ],
+    [
+      "The Next Hot Job: Pretending to Be a Robot",
+      "https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 23:52:22",
+      "https://news.ycombinator.com/item?id=33568388"
+    ],
+    [
+      "Notmuch – Just an email system",
+      "https://notmuchmail.org/"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 23:10:36",
       "https://news.ycombinator.com/item?id=33568059"
     ],
@@ -81,6 +111,16 @@
   ],
   [
     [
+      "2022-11-11, 20:34:16",
+      "https://news.ycombinator.com/item?id=33566419"
+    ],
+    [
+      "AWS IAM Roles, a tale of unnecessary complexity",
+      "https://infosec.rodeo/posts/thoughts-on-aws-iam/"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 20:26:05",
       "https://news.ycombinator.com/item?id=33566329"
     ],
@@ -97,16 +137,6 @@
     [
       "Guess what we find in books (2016)",
       "https://blog.archive.org/2016/03/11/guess-what-we-find-in-books-a-look-inside-our-midwest-regional-digitization-center-by-jeff-sharpe/"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 19:25:23",
-      "https://news.ycombinator.com/item?id=33565493"
-    ],
-    [
-      "Why are U.S. transit projects so costly? This group is on the case",
-      "https://www.governing.com/finance/why-are-u-s-transit-projects-so-costly-this-group-is-on-the-case"
     ]
   ],
   [
@@ -131,32 +161,12 @@
   ],
   [
     [
-      "2022-11-11, 16:34:20",
-      "https://news.ycombinator.com/item?id=33562902"
-    ],
-    [
-      "Tether's Troubles in November 2022",
-      "https://www.kalzumeus.com/2022/11/11/tether-required-recapitalization-again/"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 16:17:20",
       "https://news.ycombinator.com/item?id=33562660"
     ],
     [
       "An overview of concrete forming technology",
       "https://constructionphysics.substack.com/p/an-overview-of-concrete-forming-technology"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 16:15:43",
-      "https://news.ycombinator.com/item?id=33562642"
-    ],
-    [
-      "Show HN: ShowMeYourHotKeys – A macOS app to show applications menu shortcuts",
-      "https://showmeyourhotkeys.moxadventu.com/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "We upgraded an old, 3PB large, Elasticsearch cluster without downtime",
       "https://underthehood.meltwater.com/blog/2022/11/11/how-we-upgraded-an-old-3pb-large-elasticsearch-cluster-without-downtime-part-1-introduction/"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 15:46:42",
-      "https://news.ycombinator.com/item?id=33562244"
-    ],
-    [
-      "Downbeat delays are a key component of swing in jazz",
-      "https://www.nature.com/articles/s42005-022-00995-z"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2022-11-10, 18:35:39",
-      "https://news.ycombinator.com/item?id=33551036"
+      "2022-11-11, 02:04:51",
+      "https://news.ycombinator.com/item?id=33556457"
     ],
     [
-      "What it’s like to dissect a cadaver",
-      "https://alok.github.io/2022/11/09/dissection/"
+      "Conference line radio among the Hmong diaspora (2019)",
+      "https://www.theverge.com/2019/11/22/20975911/hmong-radio-conference-line-diaspora-america-phone-djs"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-11-10, 11:26:47",
-      "https://news.ycombinator.com/item?id=33544973"
+      "2022-11-10, 10:18:56",
+      "https://news.ycombinator.com/item?id=33544524"
     ],
     [
-      "The fateful, final journey of the Edmund Fitzgerald",
-      "https://www.shipwreckmuseum.com/edmund-fitzgerald/the-fateful-journey/"
+      "Formal informal languages",
+      "https://www.oreilly.com/radar/formal-informal-languages/"
     ]
   ]
 ]
