@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-11-11, 15:54:23",
-      "https://news.ycombinator.com/item?id=33562359"
-    ],
-    [
-      "We upgraded an old, 3PB large, Elasticsearch cluster without downtime",
-      "https://underthehood.meltwater.com/blog/2022/11/11/how-we-upgraded-an-old-3pb-large-elasticsearch-cluster-without-downtime-part-1-introduction/"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 14:42:38",
       "https://news.ycombinator.com/item?id=33561377"
     ],
@@ -247,6 +237,16 @@
     [
       "How stdbuf works",
       "https://hmarr.com/blog/how-stdbuf-works/"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 03:31:47",
+      "https://news.ycombinator.com/item?id=33557022"
+    ],
+    [
+      "The Cost of Exception Handling",
+      "https://grenouillebouillie.wordpress.com/2022/05/09/the-hidden-cost-of-exception-handling/"
     ]
   ],
   [
