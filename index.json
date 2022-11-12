@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-11-12, 06:56:24",
-      "https://news.ycombinator.com/item?id=33570740"
-    ],
-    [
-      "Ask HN: Where can one learn about boring web development?",
-      "https://news.ycombinator.com/item?id=33570740"
-    ]
-  ],
-  [
-    [
       "2022-11-12, 06:26:52",
       "https://news.ycombinator.com/item?id=33570575"
     ],
@@ -217,6 +207,16 @@
     [
       "How stdbuf works",
       "https://hmarr.com/blog/how-stdbuf-works/"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 12:59:15",
+      "https://news.ycombinator.com/item?id=33560275"
+    ],
+    [
+      "Resolving the great undo-redo quandary",
+      "https://github.com/zaboople/klonk/blob/master/TheGURQ.md"
     ]
   ],
   [
