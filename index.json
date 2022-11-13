@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-13, 10:46:33",
+      "https://news.ycombinator.com/item?id=33581828"
+    ],
+    [
+      "Layoff spree in Silicon Valley spells end of an era for Big Tech",
+      "https://www.washingtonpost.com/technology/2022/11/12/tech-facebook-twitter-layoffs-dotcom/"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 10:17:05",
+      "https://news.ycombinator.com/item?id=33581704"
+    ],
+    [
+      "Chibicc – A Small C Compiler",
+      "https://github.com/rui314/chibicc"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 10:15:26",
       "https://news.ycombinator.com/item?id=33581696"
     ],
@@ -37,16 +57,6 @@
     [
       "Zeal OS is a modernized fork of the Temple Operating System",
       "https://github.com/Zeal-Operating-System/ZealOS"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 08:52:21",
-      "https://news.ycombinator.com/item?id=33581290"
-    ],
-    [
-      "The global housing market is heading for a brutal downturn",
-      "https://www.ft.com/content/76e8b499-2381-463d-ac6d-9d3507f150c3"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "#lang Lua",
       "https://defn.io/2022/11/12/ann-racket-lua/"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 21:01:16",
-      "https://news.ycombinator.com/item?id=33577022"
-    ],
-    [
-      "Promoted.ai (YC W21) Is Hiring a Staff Data Engineer (Flink)",
-      "https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink"
     ]
   ],
   [
