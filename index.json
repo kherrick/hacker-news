@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-11-13, 17:23:54",
-      "https://news.ycombinator.com/item?id=33585104"
-    ],
-    [
-      "Build the Modular Monolith First",
-      "https://www.fearofoblivion.com/build-a-modular-monolith-first"
-    ]
-  ],
-  [
-    [
       "2022-11-13, 17:22:27",
       "https://news.ycombinator.com/item?id=33585097"
     ],
@@ -61,6 +51,16 @@
   ],
   [
     [
+      "2022-11-13, 17:08:21",
+      "https://news.ycombinator.com/item?id=33584958"
+    ],
+    [
+      "Fast Software, the Best Software (2019)",
+      "https://craigmod.com/essays/fast_software/"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 17:07:32",
       "https://news.ycombinator.com/item?id=33584948"
     ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33584883"
     ],
     [
-      "Patterns (YC S21), the platform for building next generation AI apps, is hiring",
+      "Patterns (YC S21), a platform for building next generation AI apps, is hiring",
       "http://patterns.app/"
     ]
   ],
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2022-11-13, 16:11:10",
+      "https://news.ycombinator.com/item?id=33584337"
+    ],
+    [
+      "Show HN: A tiny WASM compiler and runtime for demonstration purposes",
+      "https://luna-demo.vercel.app"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 15:31:07",
       "https://news.ycombinator.com/item?id=33583906"
     ],
@@ -137,6 +147,16 @@
     [
       "Area 5150, a Reflection",
       "https://scalibq.wordpress.com/2022/09/16/area-5150-a-reflection/"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 15:07:22",
+      "https://news.ycombinator.com/item?id=33583683"
+    ],
+    [
+      "1-in-6 managers told to deprioritize hiring white men, 48% diversity over merit",
+      "https://www.resumebuilder.com/1-in-6-hiring-managers-have-been-told-to-stop-hiring-white-men/"
     ]
   ],
   [
@@ -177,6 +197,16 @@
     [
       "A gut-derived hormone suppresses sugar appetite/regulates food choice Drosophila",
       "https://www.nature.com/articles/s42255-022-00672-z"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 13:23:56",
+      "https://news.ycombinator.com/item?id=33582795"
+    ],
+    [
+      "Human behavior on social media is similar to collective behavior in nature",
+      "https://www.noemamag.com/how-online-mobs-act-like-flocks-of-birds/"
     ]
   ],
   [
@@ -241,26 +271,6 @@
   ],
   [
     [
-      "2022-11-13, 06:00:54",
-      "https://news.ycombinator.com/item?id=33580500"
-    ],
-    [
-      "The Invention of Free Love",
-      "https://aeon.co/essays/how-percy-shelley-invented-free-love-in-1792"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 05:28:30",
-      "https://news.ycombinator.com/item?id=33580350"
-    ],
-    [
-      "Why does zsh start so slowly?",
-      "https://pickard.cc/posts/why-does-zsh-start-slowly/"
-    ]
-  ],
-  [
-    [
       "2022-11-13, 04:39:25",
       "https://news.ycombinator.com/item?id=33580136"
     ],
@@ -287,16 +297,6 @@
     [
       "Array short-circuiting",
       "https://futhark-lang.org/blog/2022-11-03-short-circuiting.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 05:44:55",
-      "https://news.ycombinator.com/item?id=33570334"
-    ],
-    [
-      "Tracing HTTP Requests with tcpflow",
-      "https://ananthakumaran.in/2022/11/12/trace-http-requests.html"
     ]
   ]
 ]
