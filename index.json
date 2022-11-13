@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-11-13, 01:13:27",
+      "https://news.ycombinator.com/item?id=33578928"
+    ],
+    [
+      "Agile sucks for software development and I’m tired of pretending it doesn’t",
+      "https://news.ycombinator.com/item?id=33578928"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 00:18:49",
+      "https://news.ycombinator.com/item?id=33578630"
+    ],
+    [
+      "Programming Games for Atari 2600",
+      "https://forums.atariage.com/topic/339819-upcoming-book-on-atari-2600-programming-now-available/"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 00:06:10",
+      "https://news.ycombinator.com/item?id=33578550"
+    ],
+    [
+      "Achieving 100Gbps intrusion prevention on a single server",
+      "https://blog.acolyer.org/2020/11/16/pigasus/"
+    ]
+  ],
+  [
+    [
+      "2022-11-12, 23:56:39",
+      "https://news.ycombinator.com/item?id=33578487"
+    ],
+    [
+      "Hard Reset Or, How Not to Drive Your Company Off a Cliff",
+      "https://sarahguo.com/blog/hardreset"
+    ]
+  ],
+  [
+    [
+      "2022-11-12, 23:39:19",
+      "https://news.ycombinator.com/item?id=33578376"
+    ],
+    [
+      "Digital Astronomy with Cellular Automata",
+      "https://kylehovey.github.io/blog/automata-nebula"
+    ]
+  ],
+  [
+    [
       "2022-11-12, 22:35:16",
       "https://news.ycombinator.com/item?id=33577855"
     ],
@@ -37,16 +87,6 @@
     [
       "Promoted.ai (YC W21) Is Hiring a Staff Data Engineer (Flink)",
       "https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 20:33:16",
-      "https://news.ycombinator.com/item?id=33576744"
-    ],
-    [
-      "Using GSE and DVB-S2 for IP Traffic",
-      "https://destevez.net/2022/11/using-gse-and-dvb-s2-for-ip-traffic/"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2022-11-12, 14:33:42",
-      "https://news.ycombinator.com/item?id=33573395"
-    ],
-    [
-      "Ur",
-      "https://en.wikipedia.org/wiki/Ur"
-    ]
-  ],
-  [
-    [
       "2022-11-12, 14:07:49",
       "https://news.ycombinator.com/item?id=33573157"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2022-11-12, 13:21:50",
-      "https://news.ycombinator.com/item?id=33572787"
-    ],
-    [
-      "LeanQt – GUI is here, Widgets are near",
-      "https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11"
-    ]
-  ],
-  [
-    [
       "2022-11-12, 11:57:40",
       "https://news.ycombinator.com/item?id=33572264"
     ],
@@ -197,26 +217,6 @@
     [
       "The German School of Lisp (2011)",
       "http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 09:50:10",
-      "https://news.ycombinator.com/item?id=33571656"
-    ],
-    [
-      "ZFSBootMenu – A boot loader to manage ZFS boot environments for Linux",
-      "https://zfsbootmenu.org/"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 09:49:53",
-      "https://news.ycombinator.com/item?id=33571652"
-    ],
-    [
-      "The NetHack Learning Environment",
-      "https://github.com/facebookresearch/nle"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-11-11, 05:35:11",
-      "https://news.ycombinator.com/item?id=33557639"
-    ],
-    [
-      "Simulation-Based Calibration Checking for Bayesian Computation",
-      "https://arxiv.org/abs/2211.02383"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 20:28:40",
       "https://news.ycombinator.com/item?id=33552809"
     ],
@@ -297,6 +287,16 @@
     [
       "Growing a Home Apothecary",
       "https://worldsensorium.com/growing-a-home-apothecary/"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 04:02:15",
+      "https://news.ycombinator.com/item?id=33542040"
+    ],
+    [
+      "Ancient wisdom: Oldest full sentence in first alphabet is about head lice",
+      "https://arstechnica.com/science/2022/11/ancient-wisdom-oldest-full-sentence-in-first-alphabet-is-about-head-lice/"
     ]
   ]
 ]
