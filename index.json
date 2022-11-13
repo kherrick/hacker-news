@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-11-12, 16:07:52",
-      "https://news.ycombinator.com/item?id=33574311"
-    ],
-    [
-      "A brief interview with Common Lisp co-creator Dr. Scott Fahlman",
-      "https://pldb.com/posts/scottFalhmanInterview.html"
-    ]
-  ],
-  [
-    [
       "2022-11-12, 14:48:24",
       "https://news.ycombinator.com/item?id=33573555"
     ],
@@ -237,6 +227,16 @@
     [
       "Coral restoration goes big",
       "https://nautil.us/coral-restoration-goes-big-246102/"
+    ]
+  ],
+  [
+    [
+      "2022-11-12, 05:44:55",
+      "https://news.ycombinator.com/item?id=33570334"
+    ],
+    [
+      "Tracing HTTP Requests with tcpflow",
+      "https://ananthakumaran.in/2022/11/12/trace-http-requests.html"
     ]
   ],
   [
