@@ -31,11 +31,21 @@
   ],
   [
     [
+      "2022-11-13, 19:37:26",
+      "https://news.ycombinator.com/item?id=33586536"
+    ],
+    [
+      "Just how complicated could it be to register a German company?",
+      "https://major-grooves.medium.com/just-how-complicated-could-it-be-to-register-a-german-company-e5eb6e50db79"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 19:19:02",
       "https://news.ycombinator.com/item?id=33586383"
     ],
     [
-      "Box Breathing Techniques and Benefits",
+      "Box breathing techniques and benefits",
       "https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900"
     ]
   ],
@@ -57,6 +67,16 @@
     [
       "A simple, clean and cross-platform music player",
       "https://github.com/martpie/museeks"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 18:26:44",
+      "https://news.ycombinator.com/item?id=33585817"
+    ],
+    [
+      "Single-Board Computer from a TV",
+      "https://github.com/ninakali/chip_scavenger/blob/main/src/scavenge/008_tv/index.md"
     ]
   ],
   [
@@ -161,6 +181,16 @@
   ],
   [
     [
+      "2022-11-13, 16:48:19",
+      "https://news.ycombinator.com/item?id=33584765"
+    ],
+    [
+      "Solar panel waste may not be as bad as we thought",
+      "https://www.fastcompany.com/90806146/solar-panel-waste-may-not-be-nearly-as-bad-as-we-once-thought"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 16:37:05",
       "https://news.ycombinator.com/item?id=33584651"
     ],
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2022-11-13, 10:58:25",
-      "https://news.ycombinator.com/item?id=33581901"
-    ],
-    [
-      "Carefully exploring Rust as a Python developer",
-      "https://karimjedda.com/carefully-exploring-rust/"
-    ]
-  ],
-  [
-    [
       "2022-11-13, 10:52:46",
       "https://news.ycombinator.com/item?id=33581856"
     ],
     [
       "Build Your Own Text Editor (2017)",
       "https://viewsourcecode.org/snaptoken/kilo/"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 10:18:23",
-      "https://news.ycombinator.com/item?id=33581708"
-    ],
-    [
-      "How to use your DSLR from 2008 as a webcam in 2022 (NixOS)",
-      "https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The Invention of Free Love",
       "https://aeon.co/essays/how-percy-shelley-invented-free-love-in-1792"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 01:16:52",
-      "https://news.ycombinator.com/item?id=33578948"
-    ],
-    [
-      "Emacs: Quickly Killing Processes",
-      "https://xenodium.com/emacs-quick-kill-process/"
     ]
   ],
   [
