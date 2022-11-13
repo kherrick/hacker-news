@@ -1,6 +1,66 @@
 [
   [
     [
+      "2022-11-13, 18:00:18",
+      "https://news.ycombinator.com/item?id=33585522"
+    ],
+    [
+      "Ask HN: In mid 40s. What non-tech job can I do?",
+      "https://news.ycombinator.com/item?id=33585522"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 17:34:30",
+      "https://news.ycombinator.com/item?id=33585203"
+    ],
+    [
+      "Source code is not enough",
+      "https://fuzzypixelz.com/blog/source-code-is-not-enough/"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 17:29:11",
+      "https://news.ycombinator.com/item?id=33585154"
+    ],
+    [
+      "AT&T Syntax versus Intel Syntax",
+      "https://www.cs.mcgill.ca/~cs573/winter2001/AttLinux_syntax.htm"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 17:23:54",
+      "https://news.ycombinator.com/item?id=33585104"
+    ],
+    [
+      "Build the Modular Monolith First",
+      "https://www.fearofoblivion.com/build-a-modular-monolith-first"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 17:22:27",
+      "https://news.ycombinator.com/item?id=33585097"
+    ],
+    [
+      "Less is exponentially more (2012)",
+      "https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 17:17:29",
+      "https://news.ycombinator.com/item?id=33585050"
+    ],
+    [
+      "nvALT 2",
+      "https://github.com/ttscoff/nv"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 17:07:32",
       "https://news.ycombinator.com/item?id=33584948"
     ],
@@ -21,6 +81,16 @@
   ],
   [
     [
+      "2022-11-13, 16:48:19",
+      "https://news.ycombinator.com/item?id=33584765"
+    ],
+    [
+      "Solar panel waste may not be nearly as bad as we once thought",
+      "https://www.fastcompany.com/90806146/solar-panel-waste-may-not-be-nearly-as-bad-as-we-once-thought"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 16:37:05",
       "https://news.ycombinator.com/item?id=33584651"
     ],
@@ -31,22 +101,12 @@
   ],
   [
     [
-      "2022-11-13, 16:16:53",
-      "https://news.ycombinator.com/item?id=33584407"
+      "2022-11-13, 16:12:56",
+      "https://news.ycombinator.com/item?id=33584360"
     ],
     [
-      "Sam Bankman-Fried vs. the Match King",
-      "https://awealthofcommonsense.com/2022/11/sam-bankman-fried-vs-the-match-king/"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 16:04:34",
-      "https://news.ycombinator.com/item?id=33584257"
-    ],
-    [
-      "Crypto exchanges may be exchanging ETH loans to pass proof-of-reserve audits",
-      "https://twitter.com/adamscochran/status/1591653327770906624"
+      "CommunityRule is a governance toolkit for great communities",
+      "https://communityrule.info/"
     ]
   ],
   [
@@ -65,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33583830"
     ],
     [
-      "Mighty is shutting down after 3.5 years",
+      "I decided to stop working on Mighty",
       "https://twitter.com/suhail/status/1591813110230568963"
     ]
   ],
@@ -131,16 +191,6 @@
   ],
   [
     [
-      "2022-11-13, 11:13:46",
-      "https://news.ycombinator.com/item?id=33581983"
-    ],
-    [
-      "Software dark matter is the enemy of software transparency",
-      "https://www.chainguard.dev/unchained/software-dark-matter-is-the-enemy-of-software-transparency"
-    ]
-  ],
-  [
-    [
       "2022-11-13, 10:58:25",
       "https://news.ycombinator.com/item?id=33581901"
     ],
@@ -191,22 +241,12 @@
   ],
   [
     [
-      "2022-11-13, 09:09:54",
-      "https://news.ycombinator.com/item?id=33581371"
+      "2022-11-13, 06:00:54",
+      "https://news.ycombinator.com/item?id=33580500"
     ],
     [
-      "Tell HN: Siri provides Apple Music link when sharing current song on Spotify",
-      "https://news.ycombinator.com/item?id=33581371"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 09:01:39",
-      "https://news.ycombinator.com/item?id=33581333"
-    ],
-    [
-      "Zeal OS is a modernized fork of the Temple Operating System",
-      "https://github.com/Zeal-Operating-System/ZealOS"
+      "The Invention of Free Love",
+      "https://aeon.co/essays/how-percy-shelley-invented-free-love-in-1792"
     ]
   ],
   [
@@ -231,32 +271,12 @@
   ],
   [
     [
-      "2022-11-13, 04:31:12",
-      "https://news.ycombinator.com/item?id=33580074"
-    ],
-    [
-      "Euclidean rhythms",
-      "https://observablehq.com/@toja/euclidean-rhythms"
-    ]
-  ],
-  [
-    [
       "2022-11-13, 03:58:30",
       "https://news.ycombinator.com/item?id=33579884"
     ],
     [
       "Why does calloc exist? (2016)",
       "https://vorpus.org/blog/why-does-calloc-exist/"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 03:28:30",
-      "https://news.ycombinator.com/item?id=33579703"
-    ],
-    [
-      "An Inside Look at MS-DOS – The design decisions behind the popular OS (1983)",
-      "https://patersontech.com/Dos/Byte/InsideDos.htm"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-11-12, 15:46:20",
-      "https://news.ycombinator.com/item?id=33574118"
-    ],
-    [
-      "8 Bit Projects for Everyone",
-      "https://8bit.yarek.pl/"
-    ]
-  ],
-  [
-    [
       "2022-11-12, 05:44:55",
       "https://news.ycombinator.com/item?id=33570334"
     ],
     [
       "Tracing HTTP Requests with tcpflow",
       "https://ananthakumaran.in/2022/11/12/trace-http-requests.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 21:29:34",
-      "https://news.ycombinator.com/item?id=33567106"
-    ],
-    [
-      "Phone battery creates striking alien landscapes (2021)",
-      "https://www.bbc.com/future/article/20210809-how-your-phone-battery-creates-striking-landscapes"
     ]
   ]
 ]
