@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-11-13, 18:32:13",
-      "https://news.ycombinator.com/item?id=33585876"
-    ],
-    [
-      "Larry David predicted FTX's implosion",
-      "https://abc7.com/larry-david-crypto-ftx-cryptocurrency/12446699/"
-    ]
-  ],
-  [
-    [
       "2022-11-13, 18:22:12",
       "https://news.ycombinator.com/item?id=33585757"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33585050"
     ],
     [
-      "nvALT 2",
+      "nvALT 2 (2021)",
       "https://github.com/ttscoff/nv"
     ]
   ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2022-11-13, 13:57:05",
+      "https://news.ycombinator.com/item?id=33583097"
+    ],
+    [
+      "A gut-derived hormone suppresses sugar appetite/regulates food choice Drosophila",
+      "https://www.nature.com/articles/s42255-022-00672-z"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 13:23:56",
       "https://news.ycombinator.com/item?id=33582795"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-11-13, 03:58:30",
-      "https://news.ycombinator.com/item?id=33579884"
+      "2022-11-13, 01:16:52",
+      "https://news.ycombinator.com/item?id=33578948"
     ],
     [
-      "Why does calloc exist? (2016)",
-      "https://vorpus.org/blog/why-does-calloc-exist/"
+      "Emacs: Quickly Killing Processes",
+      "https://xenodium.com/emacs-quick-kill-process/"
     ]
   ],
   [
