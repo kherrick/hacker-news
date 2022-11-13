@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-13, 12:01:54",
+      "https://news.ycombinator.com/item?id=33582278"
+    ],
+    [
+      "Tesorio (YC S15) Is Hiring a Product Manager and Senior Front End Engineer",
+      "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 11:16:22",
+      "https://news.ycombinator.com/item?id=33582002"
+    ],
+    [
+      "Tell HN: You can get into YC without a product",
+      "https://news.ycombinator.com/item?id=33582002"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 11:13:46",
+      "https://news.ycombinator.com/item?id=33581983"
+    ],
+    [
+      "Software Dark Matter Is the Enemy of Software Transparency",
+      "https://www.chainguard.dev/unchained/software-dark-matter-is-the-enemy-of-software-transparency"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 10:56:12",
       "https://news.ycombinator.com/item?id=33581883"
     ],
@@ -11,12 +41,32 @@
   ],
   [
     [
+      "2022-11-13, 10:52:46",
+      "https://news.ycombinator.com/item?id=33581856"
+    ],
+    [
+      "Build Your Own Text Editor (2017)",
+      "https://viewsourcecode.org/snaptoken/kilo/"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 10:46:33",
       "https://news.ycombinator.com/item?id=33581828"
     ],
     [
       "Layoff spree in Silicon Valley spells end of an era for Big Tech",
       "https://www.washingtonpost.com/technology/2022/11/12/tech-facebook-twitter-layoffs-dotcom/"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 10:18:23",
+      "https://news.ycombinator.com/item?id=33581708"
+    ],
+    [
+      "How to use your DSLR from 2008 as a webcam in 2022 (NixOS)",
+      "https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos"
     ]
   ],
   [
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2022-11-13, 02:33:47",
-      "https://news.ycombinator.com/item?id=33579365"
-    ],
-    [
-      "DeviantArt upsets artists with its new AI art generator, DreamUp",
-      "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/"
-    ]
-  ],
-  [
-    [
       "2022-11-13, 02:02:09",
       "https://news.ycombinator.com/item?id=33579209"
     ],
@@ -211,22 +251,12 @@
   ],
   [
     [
-      "2022-11-12, 21:07:29",
-      "https://news.ycombinator.com/item?id=33577089"
+      "2022-11-12, 20:52:57",
+      "https://news.ycombinator.com/item?id=33576936"
     ],
     [
-      "#lang Lua",
-      "https://defn.io/2022/11/12/ann-racket-lua/"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 21:01:16",
-      "https://news.ycombinator.com/item?id=33577022"
-    ],
-    [
-      "Promoted.ai (YC W21) Is Hiring a Staff Data Engineer (Flink)",
-      "https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink"
+      "Array short-circuiting",
+      "https://futhark-lang.org/blog/2022-11-03-short-circuiting.html"
     ]
   ],
   [
@@ -237,16 +267,6 @@
     [
       "8 Bit Projects for Everyone",
       "https://8bit.yarek.pl/"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 13:54:22",
-      "https://news.ycombinator.com/item?id=33573059"
-    ],
-    [
-      "Coral restoration goes big",
-      "https://nautil.us/coral-restoration-goes-big-246102/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-11-11, 21:31:56",
-      "https://news.ycombinator.com/item?id=33567123"
-    ],
-    [
-      "Similarity search and deduplication at scale",
-      "https://dsalaj.com/2022/10/25/similarity-search-and-deduplication.html"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 21:29:34",
       "https://news.ycombinator.com/item?id=33567106"
     ],
     [
       "Phone battery creates striking alien landscapes (2021)",
       "https://www.bbc.com/future/article/20210809-how-your-phone-battery-creates-striking-landscapes"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 23:56:53",
-      "https://news.ycombinator.com/item?id=33555446"
-    ],
-    [
-      "Exploring \"The Waste Land\" (2002)",
-      "https://theworld.com/~raparker/exploring/thewasteland/explore.html"
     ]
   ]
 ]
