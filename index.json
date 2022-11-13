@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-13, 05:31:01",
+      "https://news.ycombinator.com/item?id=33580366"
+    ],
+    [
+      "How to hack the simulation?",
+      "https://www.researchgate.net/publication/364811408_How_to_Hack_the_Simulation"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 04:39:25",
       "https://news.ycombinator.com/item?id=33580136"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33580074"
     ],
     [
-      "Euclidean Rhythms",
+      "Euclidean rhythms",
       "https://observablehq.com/@toja/euclidean-rhythms"
     ]
   ],
@@ -35,18 +45,8 @@
       "https://news.ycombinator.com/item?id=33579884"
     ],
     [
-      "Why Does Calloc Exist?",
+      "Why does calloc exist? (2016)",
       "https://vorpus.org/blog/why-does-calloc-exist/"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 03:37:20",
-      "https://news.ycombinator.com/item?id=33579759"
-    ],
-    [
-      "A collection of tips to help you improve your CSS skills",
-      "https://github.com/garu2/Skills-CSS"
     ]
   ],
   [
@@ -55,28 +55,8 @@
       "https://news.ycombinator.com/item?id=33579703"
     ],
     [
-      "An Inside Look at MS-DOS – The design decisions behind the popular OS",
-      "https://web.archive.org/web/20001003150639/http://www.patersontech.com/Dos/Byte/InsideDos.htm"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 03:14:29",
-      "https://news.ycombinator.com/item?id=33579611"
-    ],
-    [
-      "Show HN: Fed Up Inflation Game",
-      "https://fed-up.fly.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 03:13:36",
-      "https://news.ycombinator.com/item?id=33579599"
-    ],
-    [
-      "Iranian who made Paris airport home for 18 years dies",
-      "https://www.bbc.com/news/world-europe-63612017"
+      "An Inside Look at MS-DOS – The design decisions behind the popular OS (1983)",
+      "https://patersontech.com/Dos/Byte/InsideDos.htm"
     ]
   ],
   [
@@ -135,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33578550"
     ],
     [
-      "Achieving 100Gbps intrusion prevention on a single server",
+      "Achieving 100Gbps intrusion prevention on a single server (2020)",
       "https://blog.acolyer.org/2020/11/16/pigasus/"
     ]
   ],
@@ -145,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33578376"
     ],
     [
-      "Digital Astronomy with Cellular Automata",
+      "Digital astronomy with cellular automata",
       "https://kylehovey.github.io/blog/automata-nebula"
     ]
   ],
@@ -241,12 +221,12 @@
   ],
   [
     [
-      "2022-11-12, 14:47:06",
-      "https://news.ycombinator.com/item?id=33573537"
+      "2022-11-12, 14:48:24",
+      "https://news.ycombinator.com/item?id=33573555"
     ],
     [
-      "Media companies that also sell personal data",
-      "https://www.wired.com/story/big-information-relx-privacy-surveillance-data/"
+      "Behavior of spin glasses",
+      "https://phys.org/news/2022-11-mathematics-dont-behavior-glasses.html"
     ]
   ],
   [
@@ -261,12 +241,12 @@
   ],
   [
     [
-      "2022-11-12, 06:47:13",
-      "https://news.ycombinator.com/item?id=33570683"
+      "2022-11-11, 22:37:07",
+      "https://news.ycombinator.com/item?id=33567801"
     ],
     [
-      "How T.S. Eliot’s therapeutic practice produced The Waste Land",
-      "https://lithub.com/how-t-s-eliots-therapeutic-practice-produced-the-waste-land/"
+      "Tattoos on ancient Egyptian women appear to ask for protection during childbirth",
+      "https://phys.org/news/2022-11-tattoos-ancient-egyptian-women-childbirth.html"
     ]
   ],
   [
@@ -277,6 +257,16 @@
     [
       "Similarity search and deduplication at scale",
       "https://dsalaj.com/2022/10/25/similarity-search-and-deduplication.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 06:08:52",
+      "https://news.ycombinator.com/item?id=33557795"
+    ],
+    [
+      "Out it goes: The difficulty of being John constable",
+      "https://www.laphamsquarterly.org/roundtable/out-it-goes"
     ]
   ],
   [
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=33555446"
     ],
     [
-      "Exploring the Waste Land (2002)",
+      "Exploring \"The Waste Land\" (2002)",
       "https://theworld.com/~raparker/exploring/thewasteland/explore.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 20:28:40",
+      "https://news.ycombinator.com/item?id=33552809"
+    ],
+    [
+      "Indigenous groups are using 3D technology to preserve ancient practices",
+      "https://www.scientificamerican.com/article/how-indigenous-groups-are-using-3-d-technology-to-preserve-ancient-practices/"
     ]
   ]
 ]
