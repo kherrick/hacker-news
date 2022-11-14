@@ -1,22 +1,52 @@
 [
   [
     [
+      "2022-11-14, 01:46:15",
+      "https://news.ycombinator.com/item?id=33589362"
+    ],
+    [
+      "Starlink User Terminal Modchip",
+      "https://github.com/KULeuven-COSIC/Starlink-FI"
+    ]
+  ],
+  [
+    [
+      "2022-11-14, 01:14:12",
+      "https://news.ycombinator.com/item?id=33589163"
+    ],
+    [
+      "Money Creation in the Modern Economy – Its a Wonderful Lie",
+      "https://andrewleahey.com/its-a-wonderful-lie-that-movie-misled-us-about-money/"
+    ]
+  ],
+  [
+    [
+      "2022-11-14, 00:37:32",
+      "https://news.ycombinator.com/item?id=33588919"
+    ],
+    [
+      "OpenBSD: Immutable Userland Mappings",
+      "https://marc.info/?l=openbsd-tech&m=166203784715942"
+    ]
+  ],
+  [
+    [
+      "2022-11-14, 00:14:10",
+      "https://news.ycombinator.com/item?id=33588778"
+    ],
+    [
+      "The Motorola PowerStack",
+      "https://www.wolfeden.org/unix-museum/motorola/powerstack.html"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 22:18:56",
       "https://news.ycombinator.com/item?id=33587988"
     ],
     [
       "Scrutiny – A WebUI for smartd S.M.A.R.T monitoring (written in Go)",
       "https://github.com/AnalogJ/scrutiny"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 22:02:39",
-      "https://news.ycombinator.com/item?id=33587846"
-    ],
-    [
-      "Michael Lewis' next book is about Sam Bankman-Fried",
-      "https://theankler.com/p/hwood-ftx-frenzy-as-michael-lewis"
     ]
   ],
   [
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2022-11-13, 19:19:02",
-      "https://news.ycombinator.com/item?id=33586383"
+      "2022-11-13, 19:09:37",
+      "https://news.ycombinator.com/item?id=33586290"
     ],
     [
-      "Box breathing techniques and benefits",
-      "https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 18:53:40",
-      "https://news.ycombinator.com/item?id=33586129"
-    ],
-    [
-      "TV Tropes",
-      "https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 18:45:35",
-      "https://news.ycombinator.com/item?id=33586041"
-    ],
-    [
-      "A simple, clean and cross-platform music player",
-      "https://github.com/martpie/museeks"
+      "Finding the Darkest Pencil",
+      "https://unsharpen.com/darkest-pencil/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-11-13, 16:37:05",
-      "https://news.ycombinator.com/item?id=33584651"
-    ],
-    [
-      "Mold linker may switch to a source-available license",
-      "https://github.com/rui314/mold/releases/tag/v1.7.0"
-    ]
-  ],
-  [
-    [
       "2022-11-13, 16:12:56",
       "https://news.ycombinator.com/item?id=33584360"
     ],
@@ -217,6 +217,16 @@
     [
       "Area 5150, a Reflection",
       "https://scalibq.wordpress.com/2022/09/16/area-5150-a-reflection/"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 14:49:54",
+      "https://news.ycombinator.com/item?id=33583537"
+    ],
+    [
+      "Building a simple shell in C – Part 3",
+      "https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-3"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2022-11-13, 13:19:13",
+      "https://news.ycombinator.com/item?id=33582762"
+    ],
+    [
+      "The Surprising History of Sprites",
+      "https://wireframe.raspberrypi.com/articles/the-surprising-history-of-sprites"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 12:58:34",
       "https://news.ycombinator.com/item?id=33582623"
     ],
@@ -261,26 +281,6 @@
   ],
   [
     [
-      "2022-11-13, 10:52:46",
-      "https://news.ycombinator.com/item?id=33581856"
-    ],
-    [
-      "Build Your Own Text Editor (2017)",
-      "https://viewsourcecode.org/snaptoken/kilo/"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 10:15:26",
-      "https://news.ycombinator.com/item?id=33581696"
-    ],
-    [
-      "Where has the passive radar code gone?",
-      "https://forum.krakenrf.com/t/where-has-the-passive-radar-code-gone/98"
-    ]
-  ],
-  [
-    [
       "2022-11-13, 06:00:54",
       "https://news.ycombinator.com/item?id=33580500"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-11-12, 20:38:03",
-      "https://news.ycombinator.com/item?id=33576803"
+      "2022-11-13, 02:09:50",
+      "https://news.ycombinator.com/item?id=33579254"
     ],
     [
-      "W00w00 Interview with Mindw0rk (2003)",
-      "https://readtexts.org/security/w00w00-interview-with-mindw0rk/"
+      "The Bendix Central Air Data Computer (CADC)",
+      "https://twitter.com/kenshirriff/status/1591186137321594881"
     ]
   ]
 ]
