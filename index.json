@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-11-14, 18:27:57",
+      "https://news.ycombinator.com/item?id=33598593"
+    ],
+    [
+      "Show HN: Science fiction inspired by an HN thread (5 min read)",
+      "https://davidlaprade.github.io/your-dietbet-destroyed-the-world"
+    ]
+  ],
+  [
+    [
       "2022-11-14, 18:12:47",
       "https://news.ycombinator.com/item?id=33598330"
     ],
     [
-      "FTX’s Balance Sheet Was Bad",
+      "FTX’s balance sheet was bad",
       "https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33598256"
     ],
     [
-      "Movie Maker mode arrives in Godot 4.0",
+      "Movie Maker mode in Godot 4.0",
       "https://godotengine.org/article/movie-maker-mode-arrives-in-godot-4"
     ]
   ],
@@ -85,18 +95,8 @@
       "https://news.ycombinator.com/item?id=33596546"
     ],
     [
-      "Optimizations Can Have Unexpectedly Large Effects When Combined with Caches",
+      "Optimizations can have unexpectedly large effects when combined with caches",
       "https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 16:00:12",
-      "https://news.ycombinator.com/item?id=33595949"
-    ],
-    [
-      "Amazon Is Said to Plan to Lay Off Thousands of Employees",
-      "https://www.nytimes.com/2022/11/14/technology/amazon-layoffs.html"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33595202"
     ],
     [
-      "Kanaye Nagasawa: The samurai who forever changed California",
+      "Kanaye Nagasawa: A samurai who changed California",
       "https://www.bbc.com/travel/article/20221113-kanaye-nagasawa-the-samurai-who-forever-changed-california"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=33594676"
     ],
     [
-      "Making a Go program 42% faster with a one character change",
+      "Making a Go program faster with a one-character change",
       "https://hmarr.com/blog/go-allocation-hunting/"
     ]
   ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=33593646"
     ],
     [
-      "Crypto Exchange AAX Suspends Withdrawals",
+      "Crypto exchange AAX suspends withdrawals",
       "https://trends.aax.com/important-update-forward-through-adversity"
     ]
   ],
@@ -205,8 +205,8 @@
       "https://news.ycombinator.com/item?id=33593455"
     ],
     [
-      "Apple Hit with Class Action Alleging It Tracks Users Despite Privacy Assurances",
-      "https://www.macrumors.com/2022/11/14/apple-class-action-user-tracking-allegations/"
+      "Proposed class action alleges that Apple tracks users despite privacy assurances",
+      "https://news.bloomberglaw.com/litigation/apple-hit-with-class-action-over-tracking-of-mobile-app-activity"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=33592990"
     ],
     [
-      "Show HN: Open-Source Alternative to Retool",
+      "Show HN: Open-source alternative to Retool",
       "https://github.com/openblocks-dev/openblocks"
     ]
   ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-11-14, 04:54:21",
+      "https://news.ycombinator.com/item?id=33590308"
+    ],
+    [
+      "Rust and C++ Interoperability",
+      "https://slint-ui.com/blog/rust-and-cpp.html"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 17:17:33",
       "https://news.ycombinator.com/item?id=33585052"
     ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33584205"
     ],
     [
-      "The Story of Heroku",
+      "The Story of Heroku [audio]",
       "https://pca.st/707b9kxt"
     ]
   ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=33583750"
     ],
     [
-      "CEO Coach Matt Mochary's Curriculum",
+      "Mochary Method Curriculum",
       "https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview?pru=AAABhJWbSqY*FMEbkc9t8_4DleCDoLD_3A#heading=h.k44glvkhodxj"
     ]
   ],
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=33583495"
     ],
     [
-      "Long live personal websites, Let's make the web personal again",
+      "Let's make the web personal again",
       "https://blog.nymhq.com/writing/long-live-personal-websites"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 08:46:11",
-      "https://news.ycombinator.com/item?id=33581261"
-    ],
-    [
-      "The Young Ones changed comedy",
-      "https://www.theguardian.com/tv-and-radio/2022/nov/12/the-young-ones-40-years-lise-mayer-nigel-planer-alexei-sayle-chrisopher-ryan-interview"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33580825"
     ],
     [
-      "Email from Bill (1994)",
+      "Email from Bill (1993)",
       "https://www.newyorker.com/magazine/1994/01/10/e-mail-from-bill"
     ]
   ]
