@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-15, 07:21:31",
+      "https://news.ycombinator.com/item?id=33606256"
+    ],
+    [
+      "There exists a book dedicated to explaining how to use a single React function",
+      "https://twitter.com/tomaka17/status/1377302768713629704"
+    ]
+  ],
+  [
+    [
       "2022-11-15, 07:03:29",
       "https://news.ycombinator.com/item?id=33606153"
     ],
@@ -197,16 +207,6 @@
     [
       "Typing “old” (space) into iOS Safari crashes the app",
       "https://twitter.com/matthew_d_green/status/1592209243331268608"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 16:30:59",
-      "https://news.ycombinator.com/item?id=33596546"
-    ],
-    [
-      "Optimizations can have unexpectedly large effects when combined with caches",
-      "https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html"
     ]
   ],
   [
