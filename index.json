@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-15, 18:16:54",
+      "https://news.ycombinator.com/item?id=33612865"
+    ],
+    [
+      "Adding a hinge to a Game Boy that God never intended",
+      "https://posts.decontextualize.com/pocket-sp/"
+    ]
+  ],
+  [
+    [
+      "2022-11-15, 17:39:14",
+      "https://news.ycombinator.com/item?id=33612410"
+    ],
+    [
+      "Sapling SCM: new source control system with Git compatible client",
+      "https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/"
+    ]
+  ],
+  [
+    [
       "2022-11-15, 17:38:38",
       "https://news.ycombinator.com/item?id=33612401"
     ],
@@ -41,22 +61,22 @@
   ],
   [
     [
+      "2022-11-15, 16:58:54",
+      "https://news.ycombinator.com/item?id=33611759"
+    ],
+    [
+      "How PlanetScale Boost serves SQL queries faster",
+      "https://planetscale.com/blog/how-planetscale-boost-serves-your-sql-queries-instantly"
+    ]
+  ],
+  [
+    [
       "2022-11-15, 16:56:29",
       "https://news.ycombinator.com/item?id=33611725"
     ],
     [
       "Revolutionary technique to generate hydrogen more efficiently from water",
       "https://phys.org/news/2022-10-revolutionary-technique-hydrogen-efficiently.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 16:48:23",
-      "https://news.ycombinator.com/item?id=33611586"
-    ],
-    [
-      "Apple’s Satellite Emergency SOS Tested: Deep-Dive Explainer",
-      "https://www.dcrainmaker.com/2022/11/apple-iphone-satellite-sos-emergency-explainer.html"
     ]
   ],
   [
@@ -81,12 +101,12 @@
   ],
   [
     [
-      "2022-11-15, 16:11:08",
-      "https://news.ycombinator.com/item?id=33610996"
+      "2022-11-15, 16:28:06",
+      "https://news.ycombinator.com/item?id=33611265"
     ],
     [
-      "PlanetScale Boost",
-      "https://planetscale.com/blog/introducing-planetscale-boost"
+      "Galactica: an AI trained on humanity's scientific knowledge (by Meta)",
+      "https://galactica.org/"
     ]
   ],
   [
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2022-11-15, 15:40:32",
-      "https://news.ycombinator.com/item?id=33610492"
-    ],
-    [
-      "Berkshire Hathaway bought a $4.1B stake in Apple chipmaker TSMC",
-      "https://9to5mac.com/2022/11/15/berkshire-hathaway-bought/"
-    ]
-  ],
-  [
-    [
       "2022-11-15, 15:39:20",
       "https://news.ycombinator.com/item?id=33610476"
     ],
     [
       "Vast Majority of People Who Invest in Bitcoin Inevitably Lose Money, Study Shows",
       "https://gizmodo.com/bitcoin-crypto-bank-of-international-settlements-1849784466"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 15:17:51",
-      "https://news.ycombinator.com/item?id=33610147"
-    ],
-    [
-      "Ask HN: Hourly billers, do you bill for only focused work?",
-      "https://news.ycombinator.com/item?id=33610147"
     ]
   ],
   [
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=33608671"
     ],
     [
-      "Apple: Emergency SOS via satellite available today (US and Canada)",
+      "Emergency SOS via satellite",
       "https://www.apple.com/newsroom/2022/11/emergency-sos-via-satellite-available-today-on-iphone-14-lineup/"
     ]
   ],
