@@ -1,22 +1,52 @@
 [
   [
     [
-      "2022-11-14, 22:25:05",
-      "https://news.ycombinator.com/item?id=33602180"
+      "2022-11-15, 01:00:08",
+      "https://news.ycombinator.com/item?id=33603788"
     ],
     [
-      "Chess, but neither player moves first",
-      "https://chess2.fun"
+      "Flexport Is Hiring Software Engineers to Digitize Global Trade",
+      "https://flexport.com/careers"
     ]
   ],
   [
     [
-      "2022-11-14, 22:03:09",
-      "https://news.ycombinator.com/item?id=33601888"
+      "2022-11-15, 00:28:06",
+      "https://news.ycombinator.com/item?id=33603508"
     ],
     [
-      "Ukraïnśka Latynka",
-      "https://github.com/paiv/latynka"
+      "Fencer Matthias Behr takes in relatives of the opponent he stabbed (2022)",
+      "https://www.archysport.com/2022/05/fencer-matthias-behr-takes-in-relatives-of-the-opponent-he-stabbed/"
+    ]
+  ],
+  [
+    [
+      "2022-11-15, 00:18:47",
+      "https://news.ycombinator.com/item?id=33603436"
+    ],
+    [
+      "Сhecking for leaked data without storing any",
+      "https://medispank.com/blog.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-15, 00:16:03",
+      "https://news.ycombinator.com/item?id=33603410"
+    ],
+    [
+      "How the War Was Won",
+      "https://cepr.org/voxeu/columns/how-war-was-won"
+    ]
+  ],
+  [
+    [
+      "2022-11-14, 22:25:05",
+      "https://news.ycombinator.com/item?id=33602180"
+    ],
+    [
+      "Chess, but moves are simultaneous",
+      "https://chess2.fun"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2022-11-14, 21:00:07",
-      "https://news.ycombinator.com/item?id=33600957"
-    ],
-    [
-      "Ivy (YC W23) Is Hiring ML Engineers to Help Unify AI",
-      "https://www.ycombinator.com/companies/ivy/jobs"
-    ]
-  ],
-  [
-    [
       "2022-11-14, 20:58:55",
       "https://news.ycombinator.com/item?id=33600941"
     ],
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2022-11-14, 18:08:11",
-      "https://news.ycombinator.com/item?id=33598256"
-    ],
-    [
-      "Movie Maker mode in Godot 4.0",
-      "https://godotengine.org/article/movie-maker-mode-arrives-in-godot-4"
-    ]
-  ],
-  [
-    [
       "2022-11-14, 17:37:27",
       "https://news.ycombinator.com/item?id=33597746"
     ],
     [
       "Typing “old” (space) into iOS Safari crashes the app",
       "https://twitter.com/matthew_d_green/status/1592209243331268608"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 17:32:36",
-      "https://news.ycombinator.com/item?id=33597657"
-    ],
-    [
-      "Draft RFC: Cryptographic Hyperlinks (2021)",
-      "https://datatracker.ietf.org/doc/html/draft-sporny-hashlink-07"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "Making a Go program faster with a one-character change",
       "https://hmarr.com/blog/go-allocation-hunting/"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 14:15:40",
-      "https://news.ycombinator.com/item?id=33594175"
-    ],
-    [
-      "Myocarditis after Covid vaccination: Research on possible long-term risks begins",
-      "https://www.nbcnews.com/health/health-news/myocarditis-covid-vaccine-research-long-term-effects-rcna55666"
     ]
   ],
   [
@@ -261,11 +251,21 @@
   ],
   [
     [
+      "2022-11-13, 17:25:42",
+      "https://news.ycombinator.com/item?id=33585126"
+    ],
+    [
+      "Mutable value types are evil Sort of",
+      "https://steven-giesel.com/blogPost/7b896127-41a4-4008-87cb-d2fbdd5a0d5b"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 16:10:08",
       "https://news.ycombinator.com/item?id=33584319"
     ],
     [
-      "Stupid Mistakes Companies Make with Their Online Communities (2008)",
+      "Mistakes companies make with their online communities (2008)",
       "https://www.computerworld.com/article/2373699/enterprise-software/6-stupid-mistakes-companies-make-with-their-online-communities.amp.html"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-11-13, 14:45:07",
-      "https://news.ycombinator.com/item?id=33583495"
+      "2022-11-13, 14:18:09",
+      "https://news.ycombinator.com/item?id=33583283"
     ],
     [
-      "Let's make the web personal again",
-      "https://blog.nymhq.com/writing/long-live-personal-websites"
+      "'Like the Moon': Astronauts flock to Spanish isle to train",
+      "https://phys.org/news/2022-11-moon-astronauts-flock-spanish-isle.html"
     ]
   ]
 ]
