@@ -1,22 +1,32 @@
 [
   [
     [
+      "2022-11-15, 21:10:20",
+      "https://news.ycombinator.com/item?id=33615058"
+    ],
+    [
+      "Lemmy: A Federated Reddit Alternative",
+      "https://lemmy.ml/"
+    ]
+  ],
+  [
+    [
+      "2022-11-15, 21:00:43",
+      "https://news.ycombinator.com/item?id=33614951"
+    ],
+    [
+      "Charge Robotics (YC S21) is hiring meches to build robots that build solar farms",
+      "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer"
+    ]
+  ],
+  [
+    [
       "2022-11-15, 20:18:12",
       "https://news.ycombinator.com/item?id=33614434"
     ],
     [
       "TerminusDB Internals: Mutation in a Graph Database",
       "https://terminusdb.com/blog/terminusdb-internals-2/"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 20:18:09",
-      "https://news.ycombinator.com/item?id=33614432"
-    ],
-    [
-      "Percy Crosby and Skippy (2000)",
-      "http://www.skippy.com/skippy1.html"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Tinycpm – CP/M ON A TINY 2040",
       "https://www.kianryan.co.uk/2022-11-14-tiny-cpm/"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 17:00:39",
-      "https://news.ycombinator.com/item?id=33611795"
-    ],
-    [
-      "Universe (YC W18) Is Hiring a Site Reliability Engineer",
-      "https://jobs.lever.co/onuniverse/9a6e8128-47a5-4b10-9f2a-ac033dac9615"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2022-11-15, 07:30:37",
-      "https://news.ycombinator.com/item?id=33606311"
+      "2022-11-14, 19:57:46",
+      "https://news.ycombinator.com/item?id=33600043"
     ],
     [
-      "Crsql – Multi-writer and CRDT support for SQLite",
-      "https://github.com/vlcn-io/cr-sqlite"
+      "Eliza Is Turing Complete",
+      "https://sites.google.com/view/elizagen-org/eliza-is-turing-complete"
     ]
   ],
   [
