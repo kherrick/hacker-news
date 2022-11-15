@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-15, 19:53:02",
+      "https://news.ycombinator.com/item?id=33614114"
+    ],
+    [
+      "Berkeley Mono v1.008 Released",
+      "https://berkeleygraphics.com/public-affairs/bulletins/BT-001/"
+    ]
+  ],
+  [
+    [
       "2022-11-15, 19:36:49",
       "https://news.ycombinator.com/item?id=33613892"
     ],
@@ -17,6 +27,16 @@
     [
       "Activision Blizzard Is Trying to Stop a Union Vote at Its Albany Office",
       "https://www.vice.com/en/article/pkgv48/activision-blizzard-is-trying-to-stop-a-union-vote-at-its-albany-office"
+    ]
+  ],
+  [
+    [
+      "2022-11-15, 19:02:16",
+      "https://news.ycombinator.com/item?id=33613416"
+    ],
+    [
+      "Show HN: The German Job Market Is Crashing",
+      "https://jobmarketanalytics.com/#months=%2212%22&technology=%5B%22Java%22%2C%22Python%22%2C%22SQL%22%5D"
     ]
   ],
   [
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=33611725"
     ],
     [
-      "Revolutionary technique to generate hydrogen more efficiently from water",
+      "Researchers generate hydrogen more efficiently from water",
       "https://phys.org/news/2022-10-revolutionary-technique-hydrogen-efficiently.html"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-11-15, 13:09:35",
-      "https://news.ycombinator.com/item?id=33608699"
-    ],
-    [
-      "Show HN: Rethinking Tabs in Firefox",
-      "https://madprops.github.io/grasshopper/"
-    ]
-  ],
-  [
-    [
       "2022-11-15, 13:06:50",
       "https://news.ycombinator.com/item?id=33608671"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2022-11-14, 11:39:22",
-      "https://news.ycombinator.com/item?id=33592678"
-    ],
-    [
-      "Mystery of BBC radio's first broadcasts revealed 100 years on",
-      "https://www.bbc.com/news/entertainment-arts-63583081"
-    ]
-  ],
-  [
-    [
       "2022-11-14, 09:56:30",
       "https://news.ycombinator.com/item?id=33591970"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-11-14, 06:22:33",
+      "https://news.ycombinator.com/item?id=33590754"
+    ],
+    [
+      "The Flying Wedge",
+      "https://lethain.com/flying-wedge/"
+    ]
+  ],
+  [
+    [
       "2022-11-14, 05:07:02",
       "https://news.ycombinator.com/item?id=33590356"
     ],
@@ -287,16 +297,6 @@
     [
       "The Fibre Optic Path",
       "https://www.potaroo.net/ispcol/2022-11/optics.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 12:16:34",
-      "https://news.ycombinator.com/item?id=33582366"
-    ],
-    [
-      "Kemal: Fast, Effective, Simple Web Framework for Crystal",
-      "https://kemalcr.com/"
     ]
   ]
 ]
