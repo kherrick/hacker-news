@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-16, 15:25:51",
+      "https://news.ycombinator.com/item?id=33624602"
+    ],
+    [
+      "Sinclair ZX Spectrum (bundled) basic programming book [pdf]",
+      "http://zxnext.narod.ru/manuals/Basic_Programming.pdf"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 15:06:00",
       "https://news.ycombinator.com/item?id=33624234"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33623861"
     ],
     [
-      "Peacetime CEO / Wartime CEO",
+      "Peacetime CEO / Wartime CEO (2011)",
       "https://future.com/peacetime-ceo-wartime-ceo/"
     ]
   ],
@@ -77,6 +87,16 @@
     [
       "Windows Subsystem For Linux a.k.a. WSL 1.0.0 released",
       "https://github.com/microsoft/WSL/releases/tag/1.0.0"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 14:30:33",
+      "https://news.ycombinator.com/item?id=33623538"
+    ],
+    [
+      "Bottomless, consumption-based storage for PostgreSQL built on Amazon S3",
+      "https://www.timescale.com/blog/expanding-the-boundaries-of-postgresql-announcing-a-bottomless-consumption-based-object-storage-layer-built-on-amazon-s3/"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Hand of Irulegi: ancient artefact could help trace origins of Basque language",
       "https://www.theguardian.com/world/2022/nov/15/hand-of-irulegi-ancient-spanish-artefact-rewrites-history-of-basque-language"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 13:35:36",
-      "https://news.ycombinator.com/item?id=33622639"
-    ],
-    [
-      "EVs are the least reliable vehicle type: Consumer Reports",
-      "https://finance.yahoo.com/video/evs-least-reliable-vehicle-type-214225842.html"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-11-16, 09:30:12",
-      "https://news.ycombinator.com/item?id=33620692"
-    ],
-    [
-      "Python 3.12.0 is to remove long-deprecated items",
-      "https://discuss.python.org/t/python-3-12-0-alpha-2-released/21087"
-    ]
-  ],
-  [
-    [
       "2022-11-16, 08:34:15",
       "https://news.ycombinator.com/item?id=33620439"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-11-16, 01:39:11",
-      "https://news.ycombinator.com/item?id=33617762"
-    ],
-    [
-      "Pakistan's lost city of 40k people",
-      "https://www.bbc.com/travel/article/20221114-pakistans-lost-city-of-40000-people"
-    ]
-  ],
-  [
-    [
       "2022-11-15, 23:18:16",
       "https://news.ycombinator.com/item?id=33616593"
     ],
@@ -287,6 +277,16 @@
     [
       "Computational Complexity: Who first thought of the notion of Polynomial Time?",
       "http://blog.computationalcomplexity.org/2022/11/who-first-thought-of-notion-of.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-15, 02:18:49",
+      "https://news.ycombinator.com/item?id=33604444"
+    ],
+    [
+      "U.S. Fines Airlines More Than $7M for Not Providing Refunds",
+      "https://www.nytimes.com/2022/11/14/business/transportation-department-airline-fines.html"
     ]
   ],
   [
