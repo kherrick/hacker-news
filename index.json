@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-16, 18:30:47",
+      "https://news.ycombinator.com/item?id=33628087"
+    ],
+    [
+      "All the Science Hitching a Ride on Artemis-1",
+      "https://spectrum.ieee.org/nasa-artemis-science"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 17:27:05",
+      "https://news.ycombinator.com/item?id=33626896"
+    ],
+    [
+      "Amazon confirms corporate staff cuts that could hit 10k employees",
+      "https://www.wsj.com/articles/amazon-to-cut-10-000-employees-from-corporate-ranks-11668617313"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 17:12:34",
       "https://news.ycombinator.com/item?id=33626670"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33625475"
     ],
     [
-      "BPF for Hid Drivers",
+      "BPF for HID Drivers",
       "https://lwn.net/Articles/909109/"
     ]
   ],
@@ -101,32 +121,22 @@
   ],
   [
     [
+      "2022-11-16, 14:39:59",
+      "https://news.ycombinator.com/item?id=33623697"
+    ],
+    [
+      "Show HN: I built a tool to get instant test results (250ms)",
+      "https://github.com/nabaz-io/nabaz"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 14:36:51",
       "https://news.ycombinator.com/item?id=33623645"
     ],
     [
       "Learning Latent Part-Whole Hierarchies for Point Clouds",
       "https://arxiv.org/abs/2211.07082"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 14:36:13",
-      "https://news.ycombinator.com/item?id=33623632"
-    ],
-    [
-      "Windows Subsystem For Linux a.k.a. WSL 1.0.0 released",
-      "https://github.com/microsoft/WSL/releases/tag/1.0.0"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 14:11:57",
-      "https://news.ycombinator.com/item?id=33623201"
-    ],
-    [
-      "Notion AI – waiting list signup",
-      "https://www.notion.so/ai"
     ]
   ],
   [
@@ -167,6 +177,16 @@
     [
       "Genesis' Crypto-Lending Unit Is Suspending Withdrawals in Wake of FTX Collapse",
       "https://www.coindesk.com/business/2022/11/16/genesis-crypto-lending-unit-is-halting-customer-withdrawals-in-wake-of-ftx-collapse/"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 12:36:05",
+      "https://news.ycombinator.com/item?id=33622060"
+    ],
+    [
+      "THC can transfer to milk when hemp is fed to dairy cows",
+      "https://www.nature.com/articles/s43016-022-00623-7"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2022-11-16, 06:03:10",
-      "https://news.ycombinator.com/item?id=33619463"
-    ],
-    [
-      "Amazon staff laid off as tech giants cut costs, according to LinkedIn posts",
-      "https://www.bbc.com/news/business-63631877"
-    ]
-  ],
-  [
-    [
       "2022-11-15, 23:18:16",
       "https://news.ycombinator.com/item?id=33616593"
     ],
@@ -287,16 +297,6 @@
     [
       "Reverse Engineering an EV Charger",
       "https://harrisonsand.com/posts/reverse-engineering-ev-charger/"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 10:27:21",
-      "https://news.ycombinator.com/item?id=33592191"
-    ],
-    [
-      "Borland Turbo Assembler Version 5 User's Guide (1996) [pdf]",
-      "http://bitsavers.informatik.uni-stuttgart.de/pdf/borland/turbo_assembler/Turbo_Assembler_Version_5_Users_Guide.pdf"
     ]
   ]
 ]
