@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-11-16, 17:04:00",
-      "https://news.ycombinator.com/item?id=33626510"
-    ],
-    [
-      "Economist Calls Binance CEO a “Walking Time Bomb”",
-      "https://www.cnbc.com/2022/11/16/crypto-an-ecosystem-that-is-totally-corrupt-says-nouriel-roubini-.html"
-    ]
-  ],
-  [
-    [
       "2022-11-16, 17:01:11",
       "https://news.ycombinator.com/item?id=33626448"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33625367"
     ],
     [
-      "Amazon’s Distributed Computing Manifesto (1998)",
+      "Amazon’s distributed computing manifesto (1998)",
       "https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html"
     ]
   ],
@@ -127,16 +117,6 @@
     [
       "Windows Subsystem For Linux a.k.a. WSL 1.0.0 released",
       "https://github.com/microsoft/WSL/releases/tag/1.0.0"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 14:30:33",
-      "https://news.ycombinator.com/item?id=33623538"
-    ],
-    [
-      "Bottomless, consumption-based storage for PostgreSQL built on Amazon S3",
-      "https://www.timescale.com/blog/expanding-the-boundaries-of-postgresql-announcing-a-bottomless-consumption-based-object-storage-layer-built-on-amazon-s3/"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2022-11-16, 07:16:05",
+      "https://news.ycombinator.com/item?id=33619933"
+    ],
+    [
+      "Dimensions of Scalability",
+      "https://jenniferplusplus.com/dimensions-of-scalability/"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 06:33:18",
       "https://news.ycombinator.com/item?id=33619650"
     ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33608682"
     ],
     [
-      "Story of Texas Instruments’ Biggest Blunder: The TMS9900 Microprocessor (2017)",
+      "Texas Instruments’ Biggest Blunder: The TMS9900 Microprocessor (2017)",
       "https://spectrum.ieee.org/the-inside-story-of-texas-instruments-biggest-blunder-the-tms9900-microprocessor"
     ]
   ],
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33608004"
     ],
     [
-      "Computational Complexity: Who first thought of the notion of Polynomial Time?",
+      "Who first thought of the notion of Polynomial Time?",
       "http://blog.computationalcomplexity.org/2022/11/who-first-thought-of-notion-of.html"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Reverse Engineering an EV Charger",
       "https://harrisonsand.com/posts/reverse-engineering-ev-charger/"
+    ]
+  ],
+  [
+    [
+      "2022-11-14, 10:27:21",
+      "https://news.ycombinator.com/item?id=33592191"
+    ],
+    [
+      "Borland Turbo Assembler Version 5 User's Guide (1996) [pdf]",
+      "http://bitsavers.informatik.uni-stuttgart.de/pdf/borland/turbo_assembler/Turbo_Assembler_Version_5_Users_Guide.pdf"
     ]
   ]
 ]
