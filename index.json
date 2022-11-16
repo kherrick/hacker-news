@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-11-16, 20:41:45",
+      "https://news.ycombinator.com/item?id=33630220"
+    ],
+    [
+      "CPSC calls for full recall of all Onewheel self-balancing electric skateboards",
+      "https://www.cpsc.gov/Newsroom/News-Releases/2023/CPSC-Warns-Consumers-to-Stop-Using-Onewheel-Self-Balancing-Electric-Skateboards-Due-to-Ejection-Hazard-At-Least-Four-Deaths-and-Multiple-Injuries-Reported"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 20:36:47",
       "https://news.ycombinator.com/item?id=33630150"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2022-11-16, 16:10:09",
-      "https://news.ycombinator.com/item?id=33625475"
-    ],
-    [
-      "BPF for HID Drivers",
-      "https://lwn.net/Articles/909109/"
-    ]
-  ],
-  [
-    [
       "2022-11-16, 16:03:52",
       "https://news.ycombinator.com/item?id=33625367"
     ],
@@ -177,16 +177,6 @@
     [
       "Evernote to be acquired by Bending Spoons",
       "https://evernote.com/blog/evernote-next-move-joining-bending-spoons/"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 14:11:38",
-      "https://news.ycombinator.com/item?id=33623195"
-    ],
-    [
-      "Solving brain dynamics gives rise to flexible machine learning models",
-      "https://www.csail.mit.edu/news/solving-brain-dynamics-gives-rise-flexible-machine-learning-models"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "What’s so great about functional programming anyway?",
       "https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 08:30:55",
+      "https://news.ycombinator.com/item?id=33620427"
+    ],
+    [
+      "Enso: Hybrid visual and textual functional programming",
+      "https://github.com/enso-org/enso"
     ]
   ],
   [
