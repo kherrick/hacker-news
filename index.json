@@ -35,8 +35,8 @@
       "https://news.ycombinator.com/item?id=33619398"
     ],
     [
-      "We Are Leaving Australia",
-      "https://riders.deliveroo.com.au/en/news/20221116"
+      "Deliveroo is leaving Australia",
+      "https://www.abc.net.au/news/2022-11-16/deliveroo-enters-voluntary-administration/101661932"
     ]
   ],
   [
@@ -171,32 +171,22 @@
   ],
   [
     [
+      "2022-11-15, 17:16:00",
+      "https://news.ycombinator.com/item?id=33612039"
+    ],
+    [
+      "Libgrapheme: A simple freestanding C99 library for Unicode",
+      "https://libs.suckless.org/libgrapheme/"
+    ]
+  ],
+  [
+    [
       "2022-11-15, 16:58:54",
       "https://news.ycombinator.com/item?id=33611759"
     ],
     [
       "How PlanetScale Boost serves SQL queries faster",
       "https://planetscale.com/blog/how-planetscale-boost-serves-your-sql-queries-instantly"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 16:56:29",
-      "https://news.ycombinator.com/item?id=33611725"
-    ],
-    [
-      "Researchers generate hydrogen more efficiently from water",
-      "https://phys.org/news/2022-10-revolutionary-technique-hydrogen-efficiently.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 16:28:06",
-      "https://news.ycombinator.com/item?id=33611265"
-    ],
-    [
-      "Galactica: an AI trained on humanity's scientific knowledge (by Meta)",
-      "https://galactica.org/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Emergency SOS via satellite",
       "https://www.apple.com/newsroom/2022/11/emergency-sos-via-satellite-available-today-on-iphone-14-lineup/"
+    ]
+  ],
+  [
+    [
+      "2022-11-15, 08:51:54",
+      "https://news.ycombinator.com/item?id=33606831"
+    ],
+    [
+      "Tracers in the Dark",
+      "https://pluralistic.net/2022/11/15/public-immutable-crimes/#andy-greenberg"
     ]
   ],
   [
