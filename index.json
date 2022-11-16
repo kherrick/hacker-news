@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=33630503"
     ],
     [
-      "Meticulous (YC S21) Is Hiring #3 Founding Engineer in London",
+      "Meticulous (YC S21) is hiring engineer #3 in London",
       "https://news.ycombinator.com/item?id=33630503"
     ]
   ],
@@ -17,6 +17,16 @@
     [
       "CPSC calls for full recall of all Onewheel self-balancing electric skateboards",
       "https://www.cpsc.gov/Newsroom/News-Releases/2023/CPSC-Warns-Consumers-to-Stop-Using-Onewheel-Self-Balancing-Electric-Skateboards-Due-to-Ejection-Hazard-At-Least-Four-Deaths-and-Multiple-Injuries-Reported"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 20:39:01",
+      "https://news.ycombinator.com/item?id=33630179"
+    ],
+    [
+      "Robot treats 500k plants per hour with 95% less chemicals [video]",
+      "https://www.youtube.com/watch?v=sV0cR_Nhac0"
     ]
   ],
   [
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2022-11-16, 18:33:47",
-      "https://news.ycombinator.com/item?id=33628136"
+      "2022-11-16, 18:38:09",
+      "https://news.ycombinator.com/item?id=33628205"
     ],
     [
-      "SQLite Release 3.40.0",
-      "https://www.sqlite.org/releaselog/3_40_0.html"
+      "Why is the terminal input so weird?",
+      "https://www.warp.dev/blog/why-is-the-terminal-input-so-weird"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "What’s so great about functional programming anyway?",
       "https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 08:30:55",
-      "https://news.ycombinator.com/item?id=33620427"
-    ],
-    [
-      "Enso: Hybrid visual and textual functional programming",
-      "https://github.com/enso-org/enso"
     ]
   ],
   [
