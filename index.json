@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-11-16, 15:06:00",
+      "https://news.ycombinator.com/item?id=33624234"
+    ],
+    [
+      "Mortgage Rates Could Tank Home Prices by 20%, Fed Study Finds",
+      "https://www.bloomberg.com/news/articles/2022-11-15/mortgage-rates-could-tank-house-prices-by-20-fed-study-shows"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 14:56:20",
+      "https://news.ycombinator.com/item?id=33624032"
+    ],
+    [
+      "Psychological and Psychiatric Terms to Avoid",
+      "https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01100/full"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 14:55:56",
+      "https://news.ycombinator.com/item?id=33624018"
+    ],
+    [
+      "Who needs MLflow when you have SQLite?",
+      "https://ploomber.io/blog/experiment-tracking/"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 14:48:34",
+      "https://news.ycombinator.com/item?id=33623861"
+    ],
+    [
+      "Peacetime CEO / Wartime CEO",
+      "https://future.com/peacetime-ceo-wartime-ceo/"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 14:42:01",
+      "https://news.ycombinator.com/item?id=33623735"
+    ],
+    [
+      "Cracking Passwords Using John the Ripper",
+      "https://stealthsecurity.io/cracking-passwords-using-john-the-ripper-977943d7ab38"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 14:39:59",
       "https://news.ycombinator.com/item?id=33623697"
     ],
@@ -21,6 +71,16 @@
   ],
   [
     [
+      "2022-11-16, 14:36:13",
+      "https://news.ycombinator.com/item?id=33623632"
+    ],
+    [
+      "Windows Subsystem For Linux a.k.a. WSL 1.0.0 released",
+      "https://github.com/microsoft/WSL/releases/tag/1.0.0"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 14:23:31",
       "https://news.ycombinator.com/item?id=33623402"
     ],
@@ -35,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33623201"
     ],
     [
-      "Introducing Notion AI",
+      "Notion AI",
       "https://www.notion.so/ai"
     ]
   ],
@@ -91,6 +151,16 @@
   ],
   [
     [
+      "2022-11-16, 13:05:11",
+      "https://news.ycombinator.com/item?id=33622313"
+    ],
+    [
+      "Even a global recession may not crush inflation",
+      "https://www.economist.com/finance-and-economics/2022/11/15/even-a-global-recession-may-not-crush-inflation"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 13:03:16",
       "https://news.ycombinator.com/item?id=33622295"
     ],
@@ -141,16 +211,6 @@
   ],
   [
     [
-      "2022-11-16, 10:13:08",
-      "https://news.ycombinator.com/item?id=33620933"
-    ],
-    [
-      "GPS does not account for leap seconds (2002)",
-      "http://leapsecond.com/java/gpsclock.htm"
-    ]
-  ],
-  [
-    [
       "2022-11-16, 09:30:12",
       "https://news.ycombinator.com/item?id=33620692"
     ],
@@ -177,16 +237,6 @@
     [
       "Enso: Hybrid visual and textual functional programming",
       "https://github.com/enso-org/enso"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 08:14:07",
-      "https://news.ycombinator.com/item?id=33620344"
-    ],
-    [
-      "KDE beats macOS",
-      "https://old.reddit.com/r/kde/comments/yvxz2l/kde_beats_macos_hands_down/"
     ]
   ],
   [
@@ -231,62 +281,12 @@
   ],
   [
     [
-      "2022-11-15, 22:04:18",
-      "https://news.ycombinator.com/item?id=33615708"
-    ],
-    [
-      "The Terayacht Project",
-      "https://www.pangeosyacht.com/projects"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 21:45:49",
-      "https://news.ycombinator.com/item?id=33615473"
-    ],
-    [
-      "Relational diversity in social portfolios predicts well-being",
-      "https://www.pnas.org/doi/10.1073/pnas.2120668119"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 20:01:40",
-      "https://news.ycombinator.com/item?id=33614213"
-    ],
-    [
-      "Researchers thought this was a bug (Borwein integrals) [video]",
-      "https://www.youtube.com/watch?v=851U557j6HE"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 17:39:14",
-      "https://news.ycombinator.com/item?id=33612410"
-    ],
-    [
-      "Sapling: A new source control system with Git-compatible client",
-      "https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/"
-    ]
-  ],
-  [
-    [
       "2022-11-15, 11:45:02",
       "https://news.ycombinator.com/item?id=33608004"
     ],
     [
       "Computational Complexity: Who first thought of the notion of Polynomial Time?",
       "http://blog.computationalcomplexity.org/2022/11/who-first-thought-of-notion-of.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 02:53:12",
-      "https://news.ycombinator.com/item?id=33604654"
-    ],
-    [
-      "Cesium detected in the atmosphere of a hot white dwarf",
-      "https://phys.org/news/2022-11-cesium-atmosphere-hot-white-dwarf.html"
     ]
   ],
   [
