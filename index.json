@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-11-17, 01:02:08",
+      "https://news.ycombinator.com/item?id=33633512"
+    ],
+    [
+      "My ADHD founder toolbox",
+      "https://hypatia.ca/2022/03/03/my-adhd-founder-toolbox/"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 23:49:10",
       "https://news.ycombinator.com/item?id=33632742"
     ],
     [
-      "How did Cole factor 26^7−1 in 1903?",
+      "How did Cole factor 2^67−1 in 1903?",
       "https://mathoverflow.net/questions/207321/how-did-cole-factor-267-1-in-1903"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Clear snow the laziest way",
       "https://www.instructables.com/Clear-Snow-the-Laziest-Way-Imaginable/"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 21:24:41",
-      "https://news.ycombinator.com/item?id=33630866"
-    ],
-    [
-      "Nvidia Earning Results Q3 2023",
-      "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2023"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2022-11-16, 18:23:35",
-      "https://news.ycombinator.com/item?id=33627953"
-    ],
-    [
-      "Show HN: Narrative BI – Actionable analytics for growth teams",
-      "https://www.narrative.bi/"
-    ]
-  ],
-  [
-    [
       "2022-11-16, 18:00:13",
       "https://news.ycombinator.com/item?id=33627563"
     ],
@@ -217,6 +207,16 @@
     [
       "Hand of Irulegi: ancient artefact could help trace origins of Basque language",
       "https://www.theguardian.com/world/2022/nov/15/hand-of-irulegi-ancient-spanish-artefact-rewrites-history-of-basque-language"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 13:15:19",
+      "https://news.ycombinator.com/item?id=33622406"
+    ],
+    [
+      "Maria: A ClojureScript coding environment for beginners",
+      "https://www.maria.cloud/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-11-15, 11:45:02",
-      "https://news.ycombinator.com/item?id=33608004"
+      "2022-11-15, 02:50:34",
+      "https://news.ycombinator.com/item?id=33604638"
     ],
     [
-      "Who first thought of the notion of Polynomial Time?",
-      "http://blog.computationalcomplexity.org/2022/11/who-first-thought-of-notion-of.html"
+      "Maurice Sendak’s ageless imagination",
+      "https://www.artforum.com/books/maurice-sendak-s-ageless-imagination-89438"
     ]
   ]
 ]
