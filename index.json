@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-17, 13:28:19",
+      "https://news.ycombinator.com/item?id=33638536"
+    ],
+    [
+      "NSA opens up to outsiders in fight for cybersecurity",
+      "https://www.cyberscoop.com/nsa-threat-sharing-unclassified-ccc/"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 12:40:32",
       "https://news.ycombinator.com/item?id=33638069"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33637977"
     ],
     [
-      "Discord Inc. fined 800 000 euros by the CNIL, GDPR regulator in France",
+      "Discord fined €800k for failing to comply with several obligations of the GDPR",
       "https://www.cnil.fr/en/discord-inc-fined-800-000-euros"
     ]
   ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2022-11-17, 12:03:57",
-      "https://news.ycombinator.com/item?id=33637802"
-    ],
-    [
-      "Peter Thiel Turned a Retirement Account into a $5B Tax-Free Piggy Bank",
-      "https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank"
-    ]
-  ],
-  [
-    [
       "2022-11-17, 11:52:02",
       "https://news.ycombinator.com/item?id=33637685"
     ],
@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2022-11-17, 11:35:13",
-      "https://news.ycombinator.com/item?id=33637519"
+      "2022-11-17, 11:17:36",
+      "https://news.ycombinator.com/item?id=33637393"
     ],
     [
-      "Ask HN: (Solved) We are sorry, but you do not have access to Gmail",
-      "https://news.ycombinator.com/item?id=33637519"
+      "Restoring my Rockwell 8R calculator with a 3D printer",
+      "https://blog.jgc.org/2022/11/restoring-my-rockwell-8r-calculator.html"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33637092"
     ],
     [
-      "Is Rust Stack-Efficient Yet?",
+      "Is Rust stack-efficient yet?",
       "https://arewestackefficientyet.com/"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33636607"
     ],
     [
-      "ASX drops plan to replace CHESS with blockchain, writes off $250M AUD",
+      "ASX drops plan to replace CHESS with blockchain, writes off AUD $250M",
       "https://insideadviser.com.au/asx-drops-plan-to-replace-chess-with-blockchain-writes-off-250m/"
     ]
   ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33635720"
     ],
     [
-      "A Secret Apple Silicon Extension to Accommodate an Intel 8080 Artifact",
+      "A secret Apple Silicon extension to accommodate an Intel 8080 artifact",
       "https://bytecellar.com/2022/11/16/a-secret-apple-silicon-extension-to-accommodate-an-intel-8080-artifact/"
     ]
   ],
@@ -157,6 +157,16 @@
     [
       "The near future of AI is action-driven",
       "https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven"
+    ]
+  ],
+  [
+    [
+      "2022-11-17, 01:41:15",
+      "https://news.ycombinator.com/item?id=33633818"
+    ],
+    [
+      "Effective Altruism and Its Future",
+      "https://eigenrobot.substack.com/p/effective-altruism-and-its-future"
     ]
   ],
   [
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2022-11-16, 21:21:50",
-      "https://news.ycombinator.com/item?id=33630823"
-    ],
-    [
-      "Nokia and Airbus elected as judges at the UPC, an unheard corruption of Justice",
-      "https://ffii.org/nokia-and-airbus-elected-as-judges-at-the-kangaroo-unified-patent-court-kupc/"
-    ]
-  ],
-  [
-    [
       "2022-11-16, 20:39:01",
       "https://news.ycombinator.com/item?id=33630179"
     ],
     [
       "Robot treats 500k plants per hour with 95% less chemicals [video]",
       "https://www.youtube.com/watch?v=sV0cR_Nhac0"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 13:52:29",
+      "https://news.ycombinator.com/item?id=33622852"
+    ],
+    [
+      "Friendship Forever",
+      "https://www.secretorum.life/p/friendship-forever"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Maria: A ClojureScript coding environment for beginners",
       "https://www.maria.cloud/"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 09:33:28",
-      "https://news.ycombinator.com/item?id=33620716"
-    ],
-    [
-      "Give Your Ideas Some Legs: The Positive Effect of Walking on Creative Thinking",
-      "https://fermatslibrary.com/s/give-your-ideas-some-legs-the-positive-effect-of-walking-on-creative-thinking"
     ]
   ],
   [
