@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-17, 16:14:27",
+      "https://news.ycombinator.com/item?id=33641019"
+    ],
+    [
+      "What not to say to someone who has just been laid off",
+      "https://sifted.eu/articles/what-not-to-say-layoff/"
+    ]
+  ],
+  [
+    [
+      "2022-11-17, 16:11:59",
+      "https://news.ycombinator.com/item?id=33640978"
+    ],
+    [
+      "Electric car drivers in the UK must pay tax from 2025",
+      "https://www.bbc.com/news/business-63660321"
+    ]
+  ],
+  [
+    [
+      "2022-11-17, 15:52:53",
+      "https://news.ycombinator.com/item?id=33640672"
+    ],
+    [
+      "Automating the detection of geographic and temporal features",
+      "https://github.com/jataware/cartwright"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 15:30:40",
       "https://news.ycombinator.com/item?id=33640259"
     ],
@@ -17,6 +47,16 @@
     [
       "Air Force, FBI raid homes in probe of Area 51 website",
       "https://www.reviewjournal.com/news/military/air-force-fbi-raid-homes-in-probe-of-area-51-website-2677764/"
+    ]
+  ],
+  [
+    [
+      "2022-11-17, 15:03:56",
+      "https://news.ycombinator.com/item?id=33639791"
+    ],
+    [
+      "Cisco Reportedly Lays Off over 4k",
+      "https://www.forbes.com/sites/brianbushard/2022/11/17/cisco-reportedly-lays-off-over-4000-here-are-the-biggest-us-job-cuts-this-year/"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2022-11-17, 13:11:44",
-      "https://news.ycombinator.com/item?id=33638374"
-    ],
-    [
-      "Ask HN: Where to buy old computers and consoles?",
-      "https://news.ycombinator.com/item?id=33638374"
-    ]
-  ],
-  [
-    [
       "2022-11-17, 12:51:05",
       "https://news.ycombinator.com/item?id=33638184"
     ],
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2022-11-17, 12:28:37",
-      "https://news.ycombinator.com/item?id=33637977"
-    ],
-    [
-      "Discord fined €800k for failing to comply with several obligations of the GDPR",
-      "https://www.cnil.fr/en/discord-inc-fined-800-000-euros"
-    ]
-  ],
-  [
-    [
       "2022-11-17, 11:59:20",
       "https://news.ycombinator.com/item?id=33637764"
     ],
     [
       "Is Rust Ready for the Web Yet?",
       "https://blog.devgenius.io/is-rust-ready-for-the-web-yet-9ec38c01dcaf"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 11:52:02",
-      "https://news.ycombinator.com/item?id=33637685"
-    ],
-    [
-      "Bethesda issues statement to Mick Gordon",
-      "https://twitter.com/bethesda/status/1592971214817222656"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-11-17, 08:48:54",
-      "https://news.ycombinator.com/item?id=33636419"
-    ],
-    [
-      "Estonia: Become an E-Resident",
-      "https://www.e-resident.gov.ee/become-an-e-resident/"
-    ]
-  ],
-  [
-    [
       "2022-11-17, 06:38:12",
       "https://news.ycombinator.com/item?id=33635720"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-11-16, 13:15:19",
-      "https://news.ycombinator.com/item?id=33622406"
-    ],
-    [
-      "Maria: A ClojureScript coding environment for beginners",
-      "https://www.maria.cloud/"
-    ]
-  ],
-  [
-    [
       "2022-11-16, 08:37:22",
       "https://news.ycombinator.com/item?id=33620456"
     ],
@@ -267,6 +257,16 @@
     [
       "Requirements for Japanese Text Layout",
       "https://www.w3.org/TR/jlreq/"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 08:06:11",
+      "https://news.ycombinator.com/item?id=33620294"
+    ],
+    [
+      "More Evidence for Problems in VM Warmup",
+      "https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html"
     ]
   ],
   [
