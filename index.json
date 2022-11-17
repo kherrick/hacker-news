@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-11-16, 23:49:10",
+      "https://news.ycombinator.com/item?id=33632742"
+    ],
+    [
+      "How did Cole factor 26^7−1 in 1903?",
+      "https://mathoverflow.net/questions/207321/how-did-cole-factor-267-1-in-1903"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 23:36:23",
+      "https://news.ycombinator.com/item?id=33632610"
+    ],
+    [
+      "AI found a bug in my code",
+      "https://joel.tools/codegen/"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 23:22:52",
       "https://news.ycombinator.com/item?id=33632468"
     ],
     [
-      "Nothing has ever angered me more than The Google Play Team",
+      "Two weeks of dealing with Google as a developer",
       "https://danfitdegree.hashnode.dev/nothing-has-ever-angered-me-more-than-the-google-play-team"
     ]
   ],
@@ -17,6 +37,16 @@
     [
       "Reconstructing images a person sees via non-invasive brain scans",
       "https://mind-vis.github.io/"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 22:01:22",
+      "https://news.ycombinator.com/item?id=33631404"
+    ],
+    [
+      "Clear snow the laziest way",
+      "https://www.instructables.com/Clear-Snow-the-Laziest-Way-Imaginable/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Infosys leaked FullAdminAccess AWS keys on PyPI for over a year",
       "https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 18:38:09",
-      "https://news.ycombinator.com/item?id=33628205"
-    ],
-    [
-      "Why is the terminal input so weird?",
-      "https://www.warp.dev/blog/why-is-the-terminal-input-so-weird"
     ]
   ],
   [
@@ -231,31 +251,11 @@
   ],
   [
     [
-      "2022-11-16, 09:30:12",
-      "https://news.ycombinator.com/item?id=33620692"
-    ],
-    [
-      "Python 3.12.0 is to remove long-deprecated items",
-      "https://discuss.python.org/t/python-3-12-0-alpha-2-released/21087"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 08:34:15",
-      "https://news.ycombinator.com/item?id=33620439"
-    ],
-    [
-      "What’s so great about functional programming anyway?",
-      "https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/"
-    ]
-  ],
-  [
-    [
       "2022-11-15, 21:39:30",
       "https://news.ycombinator.com/item?id=33615416"
     ],
     [
-      "The Day the Dinosaurs Died",
+      "The day the dinosaurs died (2019)",
       "https://www.newyorker.com/magazine/2019/04/08/the-day-the-dinosaurs-died"
     ]
   ],
