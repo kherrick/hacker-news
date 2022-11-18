@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-11-18, 17:00:39",
+      "https://news.ycombinator.com/item?id=33657677"
+    ],
+    [
+      "Supabase (YC S20) Is Hiring Success Engineers (US Timezone)",
+      "https://boards.greenhouse.io/supabase/jobs/4711141004"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 16:42:56",
+      "https://news.ycombinator.com/item?id=33657345"
+    ],
+    [
+      "Mohammed bin Salman: Saudi leader given US immunity over Khashoggi killing",
+      "https://www.bbc.com/news/world-us-canada-63671947"
+    ]
+  ],
+  [
+    [
       "2022-11-18, 16:18:07",
       "https://news.ycombinator.com/item?id=33656909"
     ],
     [
-      "Ask HN: Why some people do not communicate clearly?",
+      "Ask HN: Why do some people not communicate clearly?",
       "https://news.ycombinator.com/item?id=33656909"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 16:13:17",
+      "https://news.ycombinator.com/item?id=33656823"
+    ],
+    [
+      "The floating solar panels that track the Sun",
+      "https://www.bbc.com/future/article/20221116-the-floating-solar-panels-that-track-the-sun"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 16:10:33",
+      "https://news.ycombinator.com/item?id=33656785"
+    ],
+    [
+      "Some notes on the Stable Diffusion safety filter",
+      "https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/"
     ]
   ],
   [
@@ -131,32 +171,12 @@
   ],
   [
     [
-      "2022-11-18, 12:00:16",
-      "https://news.ycombinator.com/item?id=33653419"
-    ],
-    [
-      "Emerge Tools (YC W21) is hiring to build the future of mobile development",
-      "https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer"
-    ]
-  ],
-  [
-    [
       "2022-11-18, 11:58:21",
       "https://news.ycombinator.com/item?id=33653409"
     ],
     [
       "Rust in the 6.2 kernel",
       "https://lwn.net/SubscriberLink/914458/a6d5816bad1890e4/"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 10:21:50",
-      "https://news.ycombinator.com/item?id=33652748"
-    ],
-    [
-      "Wikipedia Is a Source of Political Propaganda",
-      "https://battlepenguin.com/politics/wikipedia-is-a-source-of-political-propaganda/"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-11-18, 01:53:47",
-      "https://news.ycombinator.com/item?id=33648811"
-    ],
-    [
-      "The death of the key change",
-      "https://tedium.co/2022/11/09/the-death-of-the-key-change"
-    ]
-  ],
-  [
-    [
       "2022-11-18, 00:57:27",
       "https://news.ycombinator.com/item?id=33648341"
     ],
     [
       "Tailscale Funnel",
       "https://tailscale.com/blog/introducing-tailscale-funnel/"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 00:23:10",
-      "https://news.ycombinator.com/item?id=33648027"
-    ],
-    [
-      "How different the world would look if Neanderthals had prevailed",
-      "https://theconversation.com/8-billion-people-how-different-the-world-would-look-if-neanderthals-had-prevailed-194576"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-11-16, 12:36:02",
+      "https://news.ycombinator.com/item?id=33622058"
+    ],
+    [
+      "Perl on Rails (2007)",
+      "https://www.bbc.co.uk/blogs/radiolabs/2007/11/perl_on_rails.shtml"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 12:19:58",
       "https://news.ycombinator.com/item?id=33621939"
     ],
     [
       "Asami: A flexible graph store in Clojure",
       "https://github.com/quoll/asami"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 10:32:41",
-      "https://news.ycombinator.com/item?id=33621077"
-    ],
-    [
-      "Choice Trees: Nondeterministic, Recursive, and Impure Programs in Coq",
-      "https://arxiv.org/abs/2211.06863"
     ]
   ]
 ]
