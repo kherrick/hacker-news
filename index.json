@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-18, 19:03:31",
+      "https://news.ycombinator.com/item?id=33660219"
+    ],
+    [
+      "NASA Declines to Rename JWST",
+      "https://www.nasa.gov/feature/nasa-shares-james-webb-history-report/"
+    ]
+  ],
+  [
+    [
       "2022-11-18, 18:42:18",
       "https://news.ycombinator.com/item?id=33659737"
     ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33655503"
     ],
     [
-      "Map of the Universe",
+      "Map of the observable universe",
       "https://mapoftheuniverse.net/"
     ]
   ],
@@ -171,21 +181,11 @@
   ],
   [
     [
-      "2022-11-18, 11:58:21",
-      "https://news.ycombinator.com/item?id=33653409"
-    ],
-    [
-      "Rust in the 6.2 kernel",
-      "https://lwn.net/SubscriberLink/914458/a6d5816bad1890e4/"
-    ]
-  ],
-  [
-    [
       "2022-11-18, 09:28:20",
       "https://news.ycombinator.com/item?id=33652343"
     ],
     [
-      "Google’s Go Style Guide",
+      "Go Style",
       "https://google.github.io/styleguide/go/"
     ]
   ],
