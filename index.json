@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-18, 00:57:27",
+      "https://news.ycombinator.com/item?id=33648341"
+    ],
+    [
+      "Tailscale Funnel",
+      "https://tailscale.com/blog/introducing-tailscale-funnel/"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 00:39:43",
+      "https://news.ycombinator.com/item?id=33648183"
+    ],
+    [
+      "ASML looking to finally get ahead of Moore’s Law",
+      "https://bits-chips.nl/artikel/asml-looking-to-finally-get-ahead-of-moores-law/"
+    ]
+  ],
+  [
+    [
+      "2022-11-17, 23:48:14",
+      "https://news.ycombinator.com/item?id=33647689"
+    ],
+    [
+      "(Mail) hardening your unused domains",
+      "https://www.mailhardener.com/kb/hardening-unused-domains"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 22:59:15",
       "https://news.ycombinator.com/item?id=33647168"
     ],
@@ -17,6 +47,16 @@
     [
       "Languages Pre-Fortran",
       "https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/"
+    ]
+  ],
+  [
+    [
+      "2022-11-17, 22:38:27",
+      "https://news.ycombinator.com/item?id=33646951"
+    ],
+    [
+      "Show HN: I am building a new Python library to read/write PDF files",
+      "https://github.com/desgeeko/pdfsyntax"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2022-11-17, 19:53:21",
-      "https://news.ycombinator.com/item?id=33644637"
-    ],
-    [
-      "Punctuation and other ways negotiators have resolved climate change issues",
-      "https://repository.law.umich.edu/mjeal/vol6/iss1/2/"
-    ]
-  ],
-  [
-    [
       "2022-11-17, 19:20:09",
       "https://news.ycombinator.com/item?id=33644165"
     ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2022-11-17, 12:40:32",
-      "https://news.ycombinator.com/item?id=33638069"
-    ],
-    [
-      "APL deserves its renaissance too (2018)",
-      "https://wordsandbuttons.online/apl_deserves_its_renaissance_too.html"
-    ]
-  ],
-  [
-    [
       "2022-11-17, 12:37:16",
       "https://news.ycombinator.com/item?id=33638045"
     ],
@@ -231,32 +251,22 @@
   ],
   [
     [
-      "2022-11-17, 09:20:53",
-      "https://news.ycombinator.com/item?id=33636639"
-    ],
-    [
-      "Demystifying Fourier analysis",
-      "https://dsego.github.io/demystifying-fourier/"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 09:13:45",
-      "https://news.ycombinator.com/item?id=33636588"
-    ],
-    [
-      "Z-library founders arrested in Argentina",
-      "https://www.justice.gov/usao-edny/pr/two-russian-nationals-charged-running-massive-e-book-piracy-website"
-    ]
-  ],
-  [
-    [
       "2022-11-16, 16:16:33",
       "https://news.ycombinator.com/item?id=33625584"
     ],
     [
       "Memento Mori",
       "https://en.wikipedia.org/wiki/Memento_mori"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 13:17:37",
+      "https://news.ycombinator.com/item?id=33622434"
+    ],
+    [
+      "Idio by Example",
+      "https://idio-lang.org/docs/idio-by-example/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "More evidence for problems in VM warmup",
       "https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 06:27:06",
-      "https://news.ycombinator.com/item?id=33619610"
-    ],
-    [
-      "Seven Levels of Busy",
-      "https://randsinrepose.com/archives/the-seven-levels-of-busy/"
     ]
   ]
 ]
