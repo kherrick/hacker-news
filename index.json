@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-18, 12:00:16",
+      "https://news.ycombinator.com/item?id=33653419"
+    ],
+    [
+      "Emerge Tools (YC W21) is hiring to build the future of mobile development",
+      "https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer"
+    ]
+  ],
+  [
+    [
       "2022-11-18, 10:56:32",
       "https://news.ycombinator.com/item?id=33652967"
     ],
@@ -17,6 +27,16 @@
     [
       "India follows EU's example in requiring USB-C charging for smart devices",
       "https://www.theregister.com/2022/11/18/india_usb_c_requirements/"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 09:59:48",
+      "https://news.ycombinator.com/item?id=33652599"
+    ],
+    [
+      "Qatar Bans Beer Sales at World Cup Stadiums",
+      "https://www.nytimes.com/2022/11/18/sports/soccer/world-cup-beer-qatar.html"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Breaking BIOS: enabling VT-x virtualization support on Acer Aspire One netbook",
       "https://sudonull.com/post/137275-Breaking-BIOS-enabling-VT-x-virtualization-support-on-Acer-Aspire-One-netbook"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 03:52:28",
+      "https://news.ycombinator.com/item?id=33649969"
+    ],
+    [
+      "The case against the Twitter apology and our culture of performed remorse",
+      "https://www.newyorker.com/magazine/2022/11/14/the-case-against-the-twitter-apology-matthew-ichihashi-potts-forgiveness-danya-ruttenberg-on-repentance-and-repair"
     ]
   ],
   [
@@ -131,12 +161,12 @@
   ],
   [
     [
-      "2022-11-17, 22:59:15",
-      "https://news.ycombinator.com/item?id=33647168"
+      "2022-11-17, 22:49:28",
+      "https://news.ycombinator.com/item?id=33647064"
     ],
     [
-      "Kodable (YC IK12) is hiring a full stack engineer to help us teach kids to code",
-      "https://www.indeed.com/job/full-stack-engineer-c4948f7319bbd2f4?_ga=2.104740672.1378721118.1668634777-1229181858.1666896160"
+      "Languages Pre-Fortran",
+      "https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/"
     ]
   ],
   [
@@ -161,42 +191,22 @@
   ],
   [
     [
+      "2022-11-17, 21:36:26",
+      "https://news.ycombinator.com/item?id=33646121"
+    ],
+    [
+      "Styling form states without JavaScript",
+      "https://webkit.org/blog/13096/css-has-pseudo-class/#styling-form-states-without-js"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 21:31:01",
       "https://news.ycombinator.com/item?id=33646042"
     ],
     [
       "Is novel research worth doing? Evidence from peer review",
       "https://www.pnas.org/doi/10.1073/pnas.2118046119"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 21:24:45",
-      "https://news.ycombinator.com/item?id=33645953"
-    ],
-    [
-      "TurboWarp Desktop",
-      "https://desktop.turbowarp.org/"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 21:06:52",
-      "https://news.ycombinator.com/item?id=33645710"
-    ],
-    [
-      "Plants use their epigenetic memories to adapt to climate change",
-      "https://www.sciencedaily.com/releases/2022/11/221117135539.htm"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 20:43:03",
-      "https://news.ycombinator.com/item?id=33645362"
-    ],
-    [
-      "Mighty Retrospective",
-      "http://blog.chaselambda.com/2022/10/28/mighty-shutting-down.html"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Migrating 1 terabyte of files from OneDrive to Nextcloud",
       "https://herrherrmann.net/migrating-1-terabyte-of-files-from-onedrive-to-nextcloud/"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 16:16:33",
-      "https://news.ycombinator.com/item?id=33625584"
-    ],
-    [
-      "Memento mori",
-      "https://en.wikipedia.org/wiki/Memento_mori"
     ]
   ],
   [
