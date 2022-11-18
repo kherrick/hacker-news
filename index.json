@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-18, 20:13:26",
+      "https://news.ycombinator.com/item?id=33661363"
+    ],
+    [
+      "Ask HN: Why is Android not just another GNU/Linux distro?",
+      "https://news.ycombinator.com/item?id=33661363"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 19:56:00",
+      "https://news.ycombinator.com/item?id=33661116"
+    ],
+    [
+      "The Decentralized Web and the Future of Section 230",
+      "https://www.thecgo.org/research/the-decentralized-web-and-the-future-of-section-230/#technology-design-and-user-sovereignty"
+    ]
+  ],
+  [
+    [
       "2022-11-18, 19:39:00",
       "https://news.ycombinator.com/item?id=33660842"
     ],
@@ -15,28 +35,8 @@
       "https://news.ycombinator.com/item?id=33660409"
     ],
     [
-      "Faceless Clock Makes Your Think Twice About How It Works",
+      "Faceless clock makes you think twice about how it works",
       "https://hackaday.com/2022/11/18/faceless-clock-makes-your-think-twice-about-how-it-works/"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 18:42:18",
-      "https://news.ycombinator.com/item?id=33659737"
-    ],
-    [
-      "Ask HN: Will Google Ever Launch a Successful New Product Again?",
-      "https://news.ycombinator.com/item?id=33659737"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 18:24:52",
-      "https://news.ycombinator.com/item?id=33659327"
-    ],
-    [
-      "Subreply",
-      "https://subreply.com/trending"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33658716"
     ],
     [
-      "Carvana to Cut 1,500 Jobs as Online Auto Dealer’s Troubles Mount",
+      "Carvana to cut 1,500 jobs as online auto dealer’s troubles mount",
       "https://www.bloomberg.com/news/articles/2022-11-18/carvana-says-it-will-cut-1-500-jobs-as-company-s-troubles-mount"
     ]
   ],
@@ -71,22 +71,22 @@
   ],
   [
     [
-      "2022-11-18, 17:00:39",
-      "https://news.ycombinator.com/item?id=33657677"
+      "2022-11-18, 17:17:24",
+      "https://news.ycombinator.com/item?id=33657997"
     ],
     [
-      "Supabase (YC S20) Is Hiring Success Engineers (US Timezone)",
-      "https://boards.greenhouse.io/supabase/jobs/4711141004"
+      "Eli Lilly CEO says insulin tweet flap “probably” signals need to bring down cost",
+      "https://arstechnica.com/science/2022/11/eli-lilly-ceo-says-insulin-tweet-flap-probably-signals-need-to-bring-down-cost/"
     ]
   ],
   [
     [
-      "2022-11-18, 16:31:33",
-      "https://news.ycombinator.com/item?id=33657139"
+      "2022-11-18, 17:00:39",
+      "https://news.ycombinator.com/item?id=33657677"
     ],
     [
-      "Webb Telescope Image Gallery",
-      "https://webbtelescope.org/resource-gallery/images"
+      "Supabase (YC S20) is hiring success engineers (US time zone)",
+      "https://boards.greenhouse.io/supabase/jobs/4711141004"
     ]
   ],
   [
@@ -101,11 +101,21 @@
   ],
   [
     [
+      "2022-11-18, 16:13:39",
+      "https://news.ycombinator.com/item?id=33656829"
+    ],
+    [
+      "Mojo.js is a port of Perl's Mojolicious to TypeScript",
+      "https://mojojs.org/"
+    ]
+  ],
+  [
+    [
       "2022-11-18, 16:13:17",
       "https://news.ycombinator.com/item?id=33656823"
     ],
     [
-      "The floating solar panels that track the Sun",
+      "Floating solar panels that track the Sun",
       "https://www.bbc.com/future/article/20221116-the-floating-solar-panels-that-track-the-sun"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=33656767"
     ],
     [
-      "Blazing fast CI with MicroVMs",
+      "Fast CI with MicroVMs",
       "https://blog.alexellis.io/blazing-fast-ci-with-microvms/"
     ]
   ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=33654610"
     ],
     [
-      "Dice Baseball – A Tabletop Tradition",
+      "Dice baseball: a tabletop tradition",
       "https://baseballgames.dreamhosters.com/BbDiceHome.htm"
     ]
   ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=33653890"
     ],
     [
-      "Why This Universe? New Calculation Suggests Our Cosmos Is Typical",
+      "Why this universe? New calculation suggests our cosmos is typical",
       "https://www.quantamagazine.org/why-this-universe-new-calculation-suggests-our-cosmos-is-typical-20221117/"
     ]
   ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=33650986"
     ],
     [
-      "Shopping for Recipes in Early Modern London Virtually",
+      "Shopping for recipes in early modern London virtually",
       "https://recipes.hypotheses.org/20469"
     ]
   ],
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=33649400"
     ],
     [
-      "Annie Ernaux Turns Memory into Art",
+      "Annie Ernaux turns memory into art",
       "https://www.newyorker.com/magazine/2022/11/21/annie-ernaux-turns-memory-into-art"
     ]
   ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33647816"
     ],
     [
-      "A Fresh Twist to a Knot: A Year with Mary Wollstonecraft and William Godwin",
+      "A fresh twist to a knot: A year with Mary Wollstonecraft and William Godwin",
       "https://www.laphamsquarterly.org/roundtable/fresh-twist-knot"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Is novel research worth doing? Evidence from peer review",
       "https://www.pnas.org/doi/10.1073/pnas.2118046119"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 11:17:36",
-      "https://news.ycombinator.com/item?id=33637393"
-    ],
-    [
-      "Restoring my Rockwell 8R calculator with a 3D printer",
-      "https://blog.jgc.org/2022/11/restoring-my-rockwell-8r-calculator.html"
     ]
   ],
   [
