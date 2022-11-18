@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-11-18, 02:47:01",
+      "https://news.ycombinator.com/item?id=33649297"
+    ],
+    [
+      "Researchers Quietly Cracked Zeppelin Ransomware Keys",
+      "https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 01:56:22",
+      "https://news.ycombinator.com/item?id=33648827"
+    ],
+    [
+      "Association between Vitamin D supplementation and Covid infection and mortality",
+      "https://www.nature.com/articles/s41598-022-24053-4"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 01:54:28",
+      "https://news.ycombinator.com/item?id=33648818"
+    ],
+    [
+      "How safe is ayahuasca? Large-scale study explores",
+      "https://www.technologynetworks.com/biopharma/news/how-safe-is-ayahuasca-large-scale-study-explores-367665"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 01:53:47",
+      "https://news.ycombinator.com/item?id=33648811"
+    ],
+    [
+      "How the Billboard Hot 100 Lost Interest in the Key Change",
+      "https://tedium.co/2022/11/09/the-death-of-the-key-change"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 01:29:50",
+      "https://news.ycombinator.com/item?id=33648618"
+    ],
+    [
+      "Neocities: A platform that lets you create your own website/follow other's sites",
+      "https://neocities.org/"
+    ]
+  ],
+  [
+    [
       "2022-11-18, 00:57:27",
       "https://news.ycombinator.com/item?id=33648341"
     ],
@@ -21,11 +71,21 @@
   ],
   [
     [
+      "2022-11-18, 00:08:39",
+      "https://news.ycombinator.com/item?id=33647882"
+    ],
+    [
+      "Twitter alerted employees all office buildings closed and badge access suspended",
+      "https://twitter.com/zoeschiffer/status/1593391604785504257"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 23:48:14",
       "https://news.ycombinator.com/item?id=33647689"
     ],
     [
-      "(Mail) hardening your unused domains",
+      "Hardening unused (sub)domains",
       "https://www.mailhardener.com/kb/hardening-unused-domains"
     ]
   ],
@@ -71,32 +131,12 @@
   ],
   [
     [
-      "2022-11-17, 22:03:38",
-      "https://news.ycombinator.com/item?id=33646504"
-    ],
-    [
-      "Improving code review time at Meta",
-      "https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/"
-    ]
-  ],
-  [
-    [
       "2022-11-17, 21:36:26",
       "https://news.ycombinator.com/item?id=33646121"
     ],
     [
       "Styling form states without JavaScript",
       "https://webkit.org/blog/13096/css-has-pseudo-class/#styling-form-states-without-js"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 21:28:08",
-      "https://news.ycombinator.com/item?id=33646001"
-    ],
-    [
-      "Z-Library | Domain Seized",
-      "https://web.archive.org/web/20221117212626/http://z-lib.org/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2022-11-17, 20:52:10",
-      "https://news.ycombinator.com/item?id=33645489"
-    ],
-    [
-      "Ask HN: What's a good business model for selling standalone software?",
-      "https://news.ycombinator.com/item?id=33645489"
-    ]
-  ],
-  [
-    [
       "2022-11-17, 20:43:03",
       "https://news.ycombinator.com/item?id=33645362"
     ],
@@ -147,26 +177,6 @@
     [
       "How to get your backup to half of its size – ZSTD support",
       "https://www.percona.com/blog/get-your-backup-to-half-of-its-size-introducing-zstd-support-in-percona-xtrabackup/"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 19:20:09",
-      "https://news.ycombinator.com/item?id=33644165"
-    ],
-    [
-      "99Wh Battery Linux Laptop",
-      "https://www.tuxedocomputers.com/en/TUXEDO-InfinityBook-Pro-14-Gen7.tuxedo"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 17:41:49",
-      "https://news.ycombinator.com/item?id=33642615"
-    ],
-    [
-      "Security concerns with the e-Tugra certificate authority",
-      "https://ian.sh/etugra"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-11-17, 14:24:59",
-      "https://news.ycombinator.com/item?id=33639261"
-    ],
-    [
-      "Cybernetics A to Z (1974)",
-      "https://archive.org/details/pekelis-cybernetics-a-z-mir-1974"
-    ]
-  ],
-  [
-    [
       "2022-11-17, 14:20:16",
       "https://news.ycombinator.com/item?id=33639206"
     ],
@@ -221,22 +221,12 @@
   ],
   [
     [
-      "2022-11-17, 14:15:11",
-      "https://news.ycombinator.com/item?id=33639132"
+      "2022-11-17, 14:19:18",
+      "https://news.ycombinator.com/item?id=33639191"
     ],
     [
-      "Resources for microtonal music",
-      "https://sevish.com/music-resources/"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 14:12:40",
-      "https://news.ycombinator.com/item?id=33639103"
-    ],
-    [
-      "FTX used corporate funds to purchase employee homes, new filing shows",
-      "https://www.cnbc.com/2022/11/17/ftx-used-corporate-funds-to-purchase-employee-homes-new-filing-shows.html"
+      "Carolynn Levy, Inventor of the SAFE",
+      "https://meridian.mercury.com/carolynn-levy"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "The Unison language – a new approach to Distributed programming",
       "https://www.unison-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2022-11-17, 03:06:56",
+      "https://news.ycombinator.com/item?id=33634442"
+    ],
+    [
+      "Baseball Cards: 1912 Boston Garters",
+      "http://www.cycleback.com/garter.html"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-11-16, 12:09:48",
+      "https://news.ycombinator.com/item?id=33621864"
+    ],
+    [
+      "Web 1.61803 or Web Golden",
+      "https://susam.net/maze/web-golden.html"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 11:15:04",
       "https://news.ycombinator.com/item?id=33621409"
     ],
@@ -287,16 +297,6 @@
     [
       "An undersea art gallery that ensnares illegal trawlers",
       "https://www.wired.co.uk/article/underwater-sculptures-stopping-trawling"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 08:06:11",
-      "https://news.ycombinator.com/item?id=33620294"
-    ],
-    [
-      "More evidence for problems in VM warmup",
-      "https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html"
     ]
   ]
 ]
