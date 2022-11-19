@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-19, 16:33:44",
+      "https://news.ycombinator.com/item?id=33671627"
+    ],
+    [
+      "Decision Fatigue",
+      "https://www.antipope.org/charlie/blog-static/2022/11/decision-fatigue.html"
+    ]
+  ],
+  [
+    [
       "2022-11-19, 16:32:29",
       "https://news.ycombinator.com/item?id=33671612"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2022-11-19, 16:30:55",
-      "https://news.ycombinator.com/item?id=33671595"
+      "2022-11-19, 16:04:10",
+      "https://news.ycombinator.com/item?id=33671333"
     ],
     [
-      "Twitter removed their diversity page some time between November 16, 2022 and now",
-      "http://web.archive.org/web/20221111021313/https://careers.twitter.com/en/diversity.html"
+      "Wickr shutting down December 31, 2023",
+      "https://wickr.com/our-focus-on-end-to-end-encrypted-enterprise-communications/"
     ]
   ],
   [
@@ -31,12 +41,32 @@
   ],
   [
     [
+      "2022-11-19, 15:46:59",
+      "https://news.ycombinator.com/item?id=33671171"
+    ],
+    [
+      "A Twitter Off Ramp: A Tutorial for Getting on Mastodon",
+      "https://patricia.no/2022/11/18/twitter_off_ramp.html"
+    ]
+  ],
+  [
+    [
       "2022-11-19, 15:27:05",
       "https://news.ycombinator.com/item?id=33670963"
     ],
     [
       "TinyBIOS – A minimalist open-source BIOS project for fun",
       "https://github.com/pwk4m1/TinyBIOS"
+    ]
+  ],
+  [
+    [
+      "2022-11-19, 14:52:38",
+      "https://news.ycombinator.com/item?id=33670590"
+    ],
+    [
+      "Ask HN: How do I build a website as a backend engineer?",
+      "https://news.ycombinator.com/item?id=33670590"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2022-11-19, 12:25:09",
-      "https://news.ycombinator.com/item?id=33669503"
-    ],
-    [
-      "Paris mulls e-scooter ban in global test for micromobility industry",
-      "https://www.washingtonpost.com/world/2022/11/17/paris-electric-scooters-ban-safety/"
-    ]
-  ],
-  [
-    [
       "2022-11-19, 12:00:03",
       "https://news.ycombinator.com/item?id=33669364"
     ],
@@ -157,16 +177,6 @@
     [
       "Tree views in CSS",
       "https://iamkate.com/code/tree-views/"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 05:25:37",
-      "https://news.ycombinator.com/item?id=33667236"
-    ],
-    [
-      "Tell HN: Cloudflare Is Blocking Piped",
-      "https://news.ycombinator.com/item?id=33667236"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How friendships change in adulthood",
       "https://www.theatlantic.com/health/archive/2015/10/how-friendships-change-over-time-in-adulthood/411466/"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 09:36:42",
-      "https://news.ycombinator.com/item?id=33636724"
-    ],
-    [
-      "Processor Design: An Introduction (1998)",
-      "http://www.gamezero.com/team-0/articles/math_magic/micro/"
     ]
   ]
 ]
