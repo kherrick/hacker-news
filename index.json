@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-19, 03:41:24",
+      "https://news.ycombinator.com/item?id=33666694"
+    ],
+    [
+      "Reverse-mode algorithmic differentiation using effect handlers in OCaml 5",
+      "https://github.com/ocaml-multicore/effects-examples/blob/master/algorithmic_differentiation.ml"
+    ]
+  ],
+  [
+    [
       "2022-11-19, 02:12:07",
       "https://news.ycombinator.com/item?id=33666013"
     ],
@@ -207,16 +217,6 @@
     [
       "Some notes on the Stable Diffusion safety filter",
       "https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 15:07:05",
-      "https://news.ycombinator.com/item?id=33655747"
-    ],
-    [
-      "Show HN: Posterity Automations – Get things done from the afterlife",
-      "https://posterity.life/automations/"
     ]
   ],
   [
