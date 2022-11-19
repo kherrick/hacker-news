@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2022-11-19, 14:33:54",
-      "https://news.ycombinator.com/item?id=33670406"
-    ],
-    [
-      "Latam Airlines Airbus A320neo hits fire engine on runway during take-off",
-      "https://www.aviation24.be/airlines/latam/airbus-a320neo-hits-vehicle-on-runway-during-take-off-roll/"
-    ]
-  ],
-  [
-    [
       "2022-11-19, 14:30:19",
       "https://news.ycombinator.com/item?id=33670382"
     ],
@@ -247,6 +237,16 @@
     [
       "ABI compatibility in Python: How hard could it be?",
       "https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 14:52:34",
+      "https://news.ycombinator.com/item?id=33655542"
+    ],
+    [
+      "Devenv.sh: Fast and reproducible developer environments using Nix",
+      "https://devenv.sh/"
     ]
   ],
   [
