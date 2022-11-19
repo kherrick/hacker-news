@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-11-19, 05:31:29",
-      "https://news.ycombinator.com/item?id=33667270"
-    ],
-    [
-      "Tree views in CSS",
-      "https://iamkate.com/code/tree-views/"
-    ]
-  ],
-  [
-    [
       "2022-11-19, 02:35:35",
       "https://news.ycombinator.com/item?id=33666188"
     ],
@@ -297,6 +287,16 @@
     [
       "Inside boost::unordered_flat_map",
       "http://bannalia.blogspot.com/2022/11/inside-boostunorderedflatmap.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 13:17:03",
+      "https://news.ycombinator.com/item?id=33654121"
+    ],
+    [
+      "Don't hide things that didn't go perfectly",
+      "https://andrewhuth.substack.com/p/dont-hide-things-that-didnt-go-perfectly"
     ]
   ]
 ]
