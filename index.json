@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-11-19, 20:22:50",
-      "https://news.ycombinator.com/item?id=33674254"
+      "2022-11-19, 20:54:04",
+      "https://news.ycombinator.com/item?id=33674562"
     ],
     [
-      "Former Anti-Abortion Leader Alleges Another Supreme Court Breach",
-      "https://www.nytimes.com/2022/11/19/us/supreme-court-leak-abortion-roe-wade.html"
+      "The erasure of women from online pregnancy literature",
+      "https://quillette.com/2022/11/18/the-erasure-of-women-from-online-pregnancy-literature/"
     ]
   ],
   [
@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2022-11-19, 17:11:26",
+      "https://news.ycombinator.com/item?id=33672072"
+    ],
+    [
+      "US Supreme Court asked if cops can plant spy cams around homes",
+      "https://www.theregister.com/2022/11/18/supreme_court_cameras_police/"
+    ]
+  ],
+  [
+    [
       "2022-11-19, 16:04:10",
       "https://news.ycombinator.com/item?id=33671333"
     ],
@@ -107,6 +117,16 @@
     [
       "TinyBIOS – A minimalist open-source BIOS project for fun",
       "https://github.com/pwk4m1/TinyBIOS"
+    ]
+  ],
+  [
+    [
+      "2022-11-19, 14:33:54",
+      "https://news.ycombinator.com/item?id=33670406"
+    ],
+    [
+      "Latam Airlines Airbus A320neo hits fire engine on runway during take-off",
+      "https://www.aviation24.be/airlines/latam/airbus-a320neo-hits-vehicle-on-runway-during-take-off-roll/"
     ]
   ],
   [
@@ -181,22 +201,22 @@
   ],
   [
     [
-      "2022-11-19, 05:18:44",
-      "https://news.ycombinator.com/item?id=33667199"
-    ],
-    [
-      "Quake 1 port for Apple Watch",
-      "https://github.com/ByteOverlord/Watch_Quake"
-    ]
-  ],
-  [
-    [
       "2022-11-19, 03:34:54",
       "https://news.ycombinator.com/item?id=33666651"
     ],
     [
       "ChessBase and Stockfish end their legal dispute",
       "https://stockfishchess.org/blog/2022/chessbase-stockfish-agreement/"
+    ]
+  ],
+  [
+    [
+      "2022-11-19, 03:22:19",
+      "https://news.ycombinator.com/item?id=33666565"
+    ],
+    [
+      "How to Measure Cohort Retention",
+      "https://www.lennysnewsletter.com/p/measuring-cohort-retention"
     ]
   ],
   [
@@ -217,16 +237,6 @@
     [
       "Ask HN: What is the most impactful thing you've built?",
       "https://news.ycombinator.com/item?id=33659852"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 17:44:34",
-      "https://news.ycombinator.com/item?id=33658541"
-    ],
-    [
-      "The leap second’s time is up: world votes to stop pausing clocks",
-      "https://www.nature.com/articles/d41586-022-03783-5"
     ]
   ],
   [
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33654407"
     ],
     [
-      "Boost:Unordered_flat_map",
+      "Inside boost::unordered_flat_map",
       "http://bannalia.blogspot.com/2022/11/inside-boostunorderedflatmap.html"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Institutions of Epistemic Vigilance: The Case of the Newspaper Press",
       "https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2109532"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 08:00:28",
-      "https://news.ycombinator.com/item?id=33651724"
-    ],
-    [
-      "The 12-bit rainbow palette",
-      "https://iamkate.com/data/12-bit-rainbow/"
     ]
   ],
   [
