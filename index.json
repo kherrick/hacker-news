@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-19, 23:21:24",
+      "https://news.ycombinator.com/item?id=33676044"
+    ],
+    [
+      "Digging 10 miles underground could yield enough geothermal energy to power Earth",
+      "https://interestingengineering.com/innovation/digging-10-miles-geothermal-energy"
+    ]
+  ],
+  [
+    [
       "2022-11-19, 22:36:53",
       "https://news.ycombinator.com/item?id=33675579"
     ],
@@ -51,22 +61,12 @@
   ],
   [
     [
-      "2022-11-19, 20:54:04",
-      "https://news.ycombinator.com/item?id=33674562"
-    ],
-    [
-      "The erasure of women from online pregnancy literature",
-      "https://quillette.com/2022/11/18/the-erasure-of-women-from-online-pregnancy-literature/"
-    ]
-  ],
-  [
-    [
       "2022-11-19, 20:46:27",
       "https://news.ycombinator.com/item?id=33674486"
     ],
     [
       "Starting FORTH (1981) [pdf]",
-      "http://www.exemark.com/FORTH/StartingFORTHfromForthWebsitev9_2013_12_24.pdf"
+      "https://www.forth.com/starting-forth/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Show HN: Run unsafe user generated JavaScript in the browser",
       "https://workerbox.net/"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 16:04:10",
-      "https://news.ycombinator.com/item?id=33671333"
-    ],
-    [
-      "Wickr Me is shutting down December 31, 2023",
-      "https://wickr.com/our-focus-on-end-to-end-encrypted-enterprise-communications/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Don't hide things that didn't go perfectly",
       "https://andrewhuth.substack.com/p/dont-hide-things-that-didnt-go-perfectly"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 11:44:52",
+      "https://news.ycombinator.com/item?id=33653304"
+    ],
+    [
+      "Microservice Security Design Patterns for Kubernetes (2019)",
+      "https://blog.kellybrazil.com/2019/12/05/microservice-security-design-patterns-for-kubernetes-part-1/"
     ]
   ]
 ]
