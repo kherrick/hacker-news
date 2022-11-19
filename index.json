@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-19, 18:54:28",
+      "https://news.ycombinator.com/item?id=33673347"
+    ],
+    [
+      "Strategy 101: An Introduction to Power",
+      "https://tasshin.com/blog/strategy-101/"
+    ]
+  ],
+  [
+    [
+      "2022-11-19, 18:28:54",
+      "https://news.ycombinator.com/item?id=33673080"
+    ],
+    [
+      "An Interview with Mickey Petersen, Author of Mastering Emacs",
+      "https://syntopikon.substack.com/p/an-interview-with-mickey-petersen"
+    ]
+  ],
+  [
+    [
       "2022-11-19, 18:15:10",
       "https://news.ycombinator.com/item?id=33672924"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2022-11-19, 03:41:24",
-      "https://news.ycombinator.com/item?id=33666694"
-    ],
-    [
-      "Reverse-mode algorithmic differentiation using effect handlers in OCaml 5",
-      "https://github.com/ocaml-multicore/effects-examples/blob/master/algorithmic_differentiation.ml"
-    ]
-  ],
-  [
-    [
       "2022-11-19, 03:34:54",
       "https://news.ycombinator.com/item?id=33666651"
     ],
     [
       "ChessBase and Stockfish end their legal dispute",
       "https://stockfishchess.org/blog/2022/chessbase-stockfish-agreement/"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 03:22:19",
-      "https://news.ycombinator.com/item?id=33666565"
-    ],
-    [
-      "How to Measure Cohort Retention",
-      "https://www.lennysnewsletter.com/p/measuring-cohort-retention"
     ]
   ],
   [
