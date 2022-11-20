@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-20, 10:22:23",
+      "https://news.ycombinator.com/item?id=33679818"
+    ],
+    [
+      "Running Arm64.aarch64 FreeBSD on QEMU/UTM.app on Apple Silicon",
+      "https://weblog.antranigv.am/posts/2022/11/running-arm64-aarch64-freebsd-on-qemu-utm-app-on-apple-silicon/"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 10:22:08",
+      "https://news.ycombinator.com/item?id=33679816"
+    ],
+    [
+      "Reader Macros in Common Lisp (2014)",
+      "https://lisper.in/reader-macros"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 09:48:14",
+      "https://news.ycombinator.com/item?id=33679668"
+    ],
+    [
+      "Greg Bear (1951-2022)",
+      "https://file770.com/greg-bear-1951-2022/"
+    ]
+  ],
+  [
+    [
       "2022-11-20, 09:42:16",
       "https://news.ycombinator.com/item?id=33679643"
     ],
@@ -17,16 +47,6 @@
     [
       "Thinking Forth",
       "https://thinking-forth.sourceforge.net/"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 07:19:14",
-      "https://news.ycombinator.com/item?id=33679028"
-    ],
-    [
-      "Tracking Mastodon user numbers over time with a bucket of tricks",
-      "https://simonwillison.net/2022/Nov/20/tracking-mastodon/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Brilliant jerks, crazy hotties, and other artifacts of range restriction (2019)",
       "https://towardsdatascience.com/brilliant-jerks-crazy-hotties-and-other-artifacts-of-range-restriction-c53785ae249f"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 23:21:24",
-      "https://news.ycombinator.com/item?id=33676044"
-    ],
-    [
-      "Digging 10 miles underground could yield enough geothermal energy to power Earth",
-      "https://interestingengineering.com/innovation/digging-10-miles-geothermal-energy"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Tools for thought as cultural practices, not computational objects",
       "https://maggieappleton.com/tools-for-thought"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 18:47:33",
-      "https://news.ycombinator.com/item?id=33659852"
-    ],
-    [
-      "Ask HN: What is the most impactful thing you've built?",
-      "https://news.ycombinator.com/item?id=33659852"
     ]
   ],
   [
