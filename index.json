@@ -1,22 +1,32 @@
 [
   [
     [
+      "2022-11-20, 20:57:33",
+      "https://news.ycombinator.com/item?id=33685209"
+    ],
+    [
+      "Kite is saying farewell, and is open-sourcing all of its code.",
+      "https://www.kite.com/blog/product/kite-is-saying-farewell/"
+    ]
+  ],
+  [
+    [
       "2022-11-20, 20:34:08",
       "https://news.ycombinator.com/item?id=33684966"
     ],
     [
-      "Tesla killers: The new wave of must-have electric vehicles",
+      "A new wave of electric vehicles",
       "https://www.whichcar.com.au/news/tesla-killers-next-wave-electric-vehicles"
     ]
   ],
   [
     [
-      "2022-11-20, 20:11:44",
-      "https://news.ycombinator.com/item?id=33684772"
+      "2022-11-20, 20:28:26",
+      "https://news.ycombinator.com/item?id=33684918"
     ],
     [
-      "The failure of FTX and Sam Bankman-Fried will leave deep scars",
-      "https://www.economist.com/briefing/2022/11/17/the-failure-of-ftx-and-sam-bankman-fried-will-leave-deep-scars"
+      "GitHub Access Token Exposure",
+      "https://hackerone.com/reports/1087489"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33684130"
     ],
     [
-      "Stop lying to yourself – you “fix it later”",
+      "You will never “fix it later”",
       "https://uselessdevblog.wordpress.com/2022/11/10/stop-lying-to-yourself-you-will-never-fix-it-later/"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=33683122"
     ],
     [
-      "Disassembling an Amazon Blink Mini Camera",
+      "Disassembling an Amazon Blink Mini camera",
       "https://astrid.tech/2022/07/07/0/blink-mini-disassembly/"
     ]
   ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33680239"
     ],
     [
-      "Mildly Interesting Quirks of C",
+      "Mildly interesting quirks of C",
       "https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Thinking Forth",
       "https://thinking-forth.sourceforge.net/"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 06:15:51",
-      "https://news.ycombinator.com/item?id=33678782"
-    ],
-    [
-      "TIC-80 tiny computer",
-      "https://tic80.com/"
     ]
   ],
   [
