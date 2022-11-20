@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-11-20, 18:09:15",
+      "https://news.ycombinator.com/item?id=33683474"
+    ],
+    [
+      "Let Crypto Burn",
+      "https://www.ft.com/content/ac058ede-80cb-4aa6-8394-941443eec7e3"
+    ]
+  ],
+  [
+    [
       "2022-11-20, 17:51:03",
       "https://news.ycombinator.com/item?id=33683278"
     ],
     [
       "Computer Latency: 1977-2017",
       "https://danluu.com/input-lag/"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 17:35:44",
+      "https://news.ycombinator.com/item?id=33683122"
+    ],
+    [
+      "Disassembling an Amazon Blink Mini Camera",
+      "https://astrid.tech/2022/07/07/0/blink-mini-disassembly/"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 17:25:06",
+      "https://news.ycombinator.com/item?id=33683037"
+    ],
+    [
+      "While Crypto Bro Scammed Clients, Reporters Scammed Readers – Fair",
+      "https://fair.org/home/while-crypto-bro-scammed-clients-reporters-scammed-readers/"
     ]
   ],
   [
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2022-11-20, 16:44:46",
-      "https://news.ycombinator.com/item?id=33682519"
+      "2022-11-20, 16:44:36",
+      "https://news.ycombinator.com/item?id=33682517"
     ],
     [
-      "Homebrew (brew.sh) guy has gone full blockchain/Web3",
-      "https://stackoverflow.blog/2022/11/18/the-creator-of-homebrew-has-a-plan-to-get-open-source-contributors-paid-ep-506/"
+      "The Case for the F-35",
+      "https://www.navalgazing.net/The-Case-for-the-F-35"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2022-11-20, 13:44:23",
-      "https://news.ycombinator.com/item?id=33680805"
-    ],
-    [
-      "Ask HN: Again: The “I want to do everything but end up doing nothing” dilemma",
-      "https://news.ycombinator.com/item?id=33680805"
-    ]
-  ],
-  [
-    [
       "2022-11-20, 13:17:42",
       "https://news.ycombinator.com/item?id=33680678"
     ],
@@ -171,22 +191,22 @@
   ],
   [
     [
-      "2022-11-20, 12:42:12",
-      "https://news.ycombinator.com/item?id=33680469"
-    ],
-    [
-      "Ask HN: Publish old projects even though the source code embarrasses you by now?",
-      "https://news.ycombinator.com/item?id=33680469"
-    ]
-  ],
-  [
-    [
       "2022-11-20, 11:54:33",
       "https://news.ycombinator.com/item?id=33680239"
     ],
     [
       "Mildly Interesting Quirks of C",
       "https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 11:52:35",
+      "https://news.ycombinator.com/item?id=33680226"
+    ],
+    [
+      "Eternal Recurrence – An experiment in generative creative writing",
+      "https://github.com/ungoldman/eternal-recurrence"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-11-19, 15:16:17",
-      "https://news.ycombinator.com/item?id=33670844"
-    ],
-    [
-      "Steps to improve your writing (2020)",
-      "https://adamfaliq.wordpress.com/2020/10/28/write-well/"
-    ]
-  ],
-  [
-    [
       "2022-11-18, 12:01:08",
       "https://news.ycombinator.com/item?id=33653428"
     ],
     [
       "Cannon Lake: Intel’s Forgotten Generation",
       "https://chipsandcheese.com/2022/11/15/cannon-lake-intels-forgotten-generation/"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 11:51:40",
-      "https://news.ycombinator.com/item?id=33653356"
-    ],
-    [
-      "AMD finally opens up its Radeon raytracing analyzer “RRA” source code",
-      "https://www.phoronix.com/news/AMD-GPUOpen-RRA-Open-Source"
     ]
   ]
 ]
