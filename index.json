@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-11-20, 05:40:08",
+      "https://news.ycombinator.com/item?id=33678641"
+    ],
+    [
+      "QuickJS Running in WebAssembly",
+      "https://github.com/justjake/quickjs-emscripten"
+    ]
+  ],
+  [
+    [
       "2022-11-20, 05:30:54",
       "https://news.ycombinator.com/item?id=33678599"
     ],
@@ -237,16 +247,6 @@
     [
       "Devenv.sh: Fast and reproducible developer environments using Nix",
       "https://devenv.sh/"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 14:45:17",
-      "https://news.ycombinator.com/item?id=33655429"
-    ],
-    [
-      "Open Library",
-      "https://openlibrary.org/"
     ]
   ],
   [
