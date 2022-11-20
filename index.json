@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-20, 17:51:03",
+      "https://news.ycombinator.com/item?id=33683278"
+    ],
+    [
+      "Computer Latency: 1977-2017",
+      "https://danluu.com/input-lag/"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 17:20:11",
+      "https://news.ycombinator.com/item?id=33682976"
+    ],
+    [
+      "How the First Transistor Worked",
+      "https://spectrum.ieee.org/transistor-history"
+    ]
+  ],
+  [
+    [
       "2022-11-20, 17:09:33",
       "https://news.ycombinator.com/item?id=33682835"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33682813"
     ],
     [
-      "Show HN: A saxophone with keyboard keys, in Rust",
+      "Show HN: Haxophone",
       "https://github.com/jcard0na/haxo-hw"
     ]
   ],
@@ -31,12 +51,22 @@
   ],
   [
     [
-      "2022-11-20, 16:50:34",
-      "https://news.ycombinator.com/item?id=33682599"
+      "2022-11-20, 16:45:46",
+      "https://news.ycombinator.com/item?id=33682531"
     ],
     [
-      "Ask HN: What is example of good documentation in your opinion?",
-      "https://news.ycombinator.com/item?id=33682599"
+      "The New Smoking",
+      "https://conorbroderick.net/the-new-smoking/"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 16:44:46",
+      "https://news.ycombinator.com/item?id=33682519"
+    ],
+    [
+      "Homebrew (brew.sh) guy has gone full blockchain/Web3",
+      "https://stackoverflow.blog/2022/11/18/the-creator-of-homebrew-has-a-plan-to-get-open-source-contributors-paid-ep-506/"
     ]
   ],
   [
@@ -105,18 +135,8 @@
       "https://news.ycombinator.com/item?id=33680869"
     ],
     [
-      "Kernel (OS Kernel Book)",
+      "The 539kernel Book: A journey in creating an operating system kernel",
       "https://539kernel.com/"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 13:49:30",
-      "https://news.ycombinator.com/item?id=33680852"
-    ],
-    [
-      "10 KB Club: Curated list of websites whose home pages do not exceed 10 KB size",
-      "https://10kbclub.com/"
     ]
   ],
   [
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=33680661"
     ],
     [
-      "Hacker News Parody Thread",
+      "Hacker News Parody Thread (2013)",
       "http://bradconte.com/files/misc/HackerNewsParodyThread/"
     ]
   ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2022-11-19, 19:12:05",
-      "https://news.ycombinator.com/item?id=33673517"
-    ],
-    [
-      "Investigating why Steam started picking a random font",
-      "http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html"
-    ]
-  ],
-  [
-    [
       "2022-11-19, 19:11:27",
       "https://news.ycombinator.com/item?id=33673507"
     ],
@@ -267,16 +277,6 @@
     [
       "Steps to improve your writing (2020)",
       "https://adamfaliq.wordpress.com/2020/10/28/write-well/"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 12:16:15",
-      "https://news.ycombinator.com/item?id=33653537"
-    ],
-    [
-      "A common fungus eliminates toxic mercury from soil and water: researcher",
-      "https://phys.org/news/2022-11-common-fungus-toxic-mercury-soil.html"
     ]
   ],
   [
