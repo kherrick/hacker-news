@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2022-11-20, 20:41:12",
+      "https://news.ycombinator.com/item?id=33685043"
+    ],
+    [
+      "How I fixed Mopac and why it had it coming – The importance of bug reports",
+      "https://omajoshi.com/blog/14/"
+    ]
+  ],
+  [
+    [
       "2022-11-20, 20:34:08",
       "https://news.ycombinator.com/item?id=33684966"
     ],
     [
       "A new wave of electric vehicles",
       "https://www.whichcar.com.au/news/tesla-killers-next-wave-electric-vehicles"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 20:28:26",
-      "https://news.ycombinator.com/item?id=33684918"
-    ],
-    [
-      "GitHub Access Token Exposure",
-      "https://hackerone.com/reports/1087489"
     ]
   ],
   [
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33684062"
     ],
     [
-      "On Accountability in Software Development",
+      "On Accountability in Software Development (2020)",
       "https://franciscomt.medium.com/on-accountability-in-software-development-7e80cc6226aa"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33683642"
     ],
     [
-      "The clever camera code on rolls of film",
+      "The clever camera code on rolls of film [video]",
       "https://www.youtube.com/watch?v=imMBwUGjXHs"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33683037"
     ],
     [
-      "While Crypto Bro Scammed Clients, Reporters Scammed Readers – Fair",
+      "While crypto bro scammed clients, reporters scammed readers",
       "https://fair.org/home/while-crypto-bro-scammed-clients-reporters-scammed-readers/"
     ]
   ],
@@ -205,18 +205,8 @@
       "https://news.ycombinator.com/item?id=33681795"
     ],
     [
-      "Acquisition of Chess Knowledge in AlphaZero",
+      "Acquisition of chess knowledge in AlphaZero",
       "https://www.pnas.org/doi/10.1073/pnas.2206625119"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 15:39:39",
-      "https://news.ycombinator.com/item?id=33681748"
-    ],
-    [
-      "The Anti-Promethean Backlash",
-      "https://brinklindsey.substack.com/p/the-anti-promethean-backlash"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Eternal Recurrence – An experiment in generative creative writing",
       "https://github.com/ungoldman/eternal-recurrence"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 10:22:08",
+      "https://news.ycombinator.com/item?id=33679816"
+    ],
+    [
+      "Reader Macros in Common Lisp (2014)",
+      "https://lisper.in/reader-macros"
     ]
   ],
   [
