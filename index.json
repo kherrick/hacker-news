@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=33678782"
     ],
     [
-      "TIC-80 Fantasy Computer",
+      "TIC-80 tiny computer",
       "https://tic80.com/"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 05:54:25",
-      "https://news.ycombinator.com/item?id=33678700"
-    ],
-    [
-      "Collapse of Carvana, the 'Amazon of Used Cars', Continues",
-      "https://www.thestreet.com/technology/the-collapse-of-carvana-the-amazon-of-used-cars-continues"
     ]
   ],
   [
@@ -35,8 +25,18 @@
       "https://news.ycombinator.com/item?id=33678599"
     ],
     [
-      "Show HN: ILLA is an Open-source alternative to Retool",
+      "Show HN: Illa – An open-source alternative to Retool",
       "https://github.com/illacloud/illa-builder"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 04:59:50",
+      "https://news.ycombinator.com/item?id=33678415"
+    ],
+    [
+      "Nvidia and Microsoft team up to build AI cloud computer",
+      "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/"
     ]
   ],
   [
@@ -171,22 +171,12 @@
   ],
   [
     [
-      "2022-11-19, 15:27:05",
-      "https://news.ycombinator.com/item?id=33670963"
+      "2022-11-19, 15:25:28",
+      "https://news.ycombinator.com/item?id=33670943"
     ],
     [
-      "TinyBIOS – A minimalist open-source BIOS project for fun",
-      "https://github.com/pwk4m1/TinyBIOS"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 13:22:48",
-      "https://news.ycombinator.com/item?id=33669805"
-    ],
-    [
-      "Software Rituals [audio]",
-      "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5yZXNvbmF0ZXJlY29yZGluZ3MuY29tL3NvZnR3YXJlLXVuc2NyaXB0ZWQ/episode/ZmVkYjNjMGMtOTE0NS00ZGFmLWJlZTItMzVmMDgzOTAyMmUx"
+      "Nix-Lisp: A Lisp implementation written in Nix",
+      "https://github.com/utdemir/nixlisp"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2022-11-18, 15:01:39",
+      "https://news.ycombinator.com/item?id=33655678"
+    ],
+    [
+      "ABI compatibility in Python: How hard could it be?",
+      "https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/"
+    ]
+  ],
+  [
+    [
       "2022-11-18, 14:52:34",
       "https://news.ycombinator.com/item?id=33655542"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=33653356"
     ],
     [
-      "AMD Finally Opens Up Its Radeon Raytracing Analyzer “RRA” Source Code",
+      "AMD finally opens up its Radeon raytracing analyzer “RRA” source code",
       "https://www.phoronix.com/news/AMD-GPUOpen-RRA-Open-Source"
     ]
   ],
