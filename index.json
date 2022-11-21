@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2022-11-20, 16:45:46",
-      "https://news.ycombinator.com/item?id=33682531"
-    ],
-    [
-      "The New Smoking (2021)",
-      "https://conorbroderick.net/the-new-smoking/"
-    ]
-  ],
-  [
-    [
       "2022-11-20, 12:34:50",
       "https://news.ycombinator.com/item?id=33680429"
     ],
     [
       "Do you have firebrick?",
       "https://hightempinc.net/2017/05/24/do-you-have-firebrick/"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 02:06:33",
+      "https://news.ycombinator.com/item?id=33677340"
+    ],
+    [
+      "Why are E12 resistor values 10,12,15,18,22,27,33,39 not 10,12,15,18,22,26,32,39",
+      "https://electronics.stackexchange.com/questions/643070/why-are-e12-resistor-values-10-12-15-18-22-27-33-39-47-56-68-82-and-not-10-12-15"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33652117"
     ],
     [
-      "Show HN: C++17 RISC-V RV32/64/128 userspace emulator library",
+      "Show HN: Libriscv – RISC-V userspace emulator library",
       "https://github.com/fwsGonzo/libriscv"
     ]
   ]
