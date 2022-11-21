@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-11-20, 18:22:38",
-      "https://news.ycombinator.com/item?id=33683642"
-    ],
-    [
-      "The clever camera code on rolls of film [video]",
-      "https://www.youtube.com/watch?v=imMBwUGjXHs"
-    ]
-  ],
-  [
-    [
       "2022-11-20, 17:51:03",
       "https://news.ycombinator.com/item?id=33683278"
     ],
@@ -297,6 +287,16 @@
     [
       "Quest for my perfect watch",
       "https://lock.cmpxchg8b.com/watch.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-18, 09:00:01",
+      "https://news.ycombinator.com/item?id=33652117"
+    ],
+    [
+      "Show HN: C++17 RISC-V RV32/64/128 userspace emulator library",
+      "https://github.com/fwsGonzo/libriscv"
     ]
   ]
 ]
