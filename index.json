@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-11-21, 14:38:12",
-      "https://news.ycombinator.com/item?id=33692942"
+      "2022-11-21, 14:39:17",
+      "https://news.ycombinator.com/item?id=33692947"
     ],
     [
-      "Tell HN: I can't login to Gmail due to phone cannot be used for verification",
-      "https://news.ycombinator.com/item?id=33692942"
+      "The Genius of Binary Space Partitioning in Doom",
+      "https://twobithistory.org/2019/11/06/doom-bsp.html"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Betting on Things That Never Change",
       "https://collabfund.com/blog/betting-on-things-that-never-change/"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 14:03:35",
+      "https://news.ycombinator.com/item?id=33692546"
+    ],
+    [
+      "Semantic Search with SQLite",
+      "https://neuml.github.io/txtai/embeddings/query/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Spiral’s Homomorphic Encryption – Is This the Future of Privacy?",
       "https://www.21analytics.ch/blog/spirals-homomorphic-encryption-is-this-the-future-of-privacy/"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 09:44:17",
-      "https://news.ycombinator.com/item?id=33690719"
-    ],
-    [
-      "Ask HN: Why isn't remote work advertised as a pro environment initiative?",
-      "https://news.ycombinator.com/item?id=33690719"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-11-20, 22:21:45",
-      "https://news.ycombinator.com/item?id=33686094"
-    ],
-    [
-      "Briar: Peer-to-Peer Encrypted Messaging",
-      "https://briarproject.org/how-it-works/"
-    ]
-  ],
-  [
-    [
       "2022-11-20, 20:57:33",
       "https://news.ycombinator.com/item?id=33685209"
     ],
@@ -267,6 +257,16 @@
     [
       "Sheep flocks alternate their leader and achieve collective intelligence",
       "https://www.science.org/doi/10.1126/sciadv.adc9241"
+    ]
+  ],
+  [
+    [
+      "2022-11-19, 12:53:48",
+      "https://news.ycombinator.com/item?id=33669658"
+    ],
+    [
+      "Go First Dice",
+      "http://www.ericharshbarger.org/dice/go_first_dice.html"
     ]
   ],
   [
