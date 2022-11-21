@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-11-21, 07:43:20",
+      "https://news.ycombinator.com/item?id=33689935"
+    ],
+    [
+      "Is it time to retire the .gb top level domain?",
+      "https://cddo.blog.gov.uk/2022/11/15/is-it-time-to-retire-the-gb-top-level-domain/"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 07:00:51",
       "https://news.ycombinator.com/item?id=33689678"
     ],
     [
-      "Berty: The privacy-first messaging app",
+      "Berty: Privacy-first messaging app",
       "https://berty.tech/"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "R49081 Is Prime",
       "https://mersenneforum.org/showpost.php?p=602219&postcount=35"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 02:52:24",
-      "https://news.ycombinator.com/item?id=33688125"
-    ],
-    [
-      "Bob Iger back as Disney CEO",
-      "https://deadline.com/2022/11/disney-bob-iger-returns-ceo-bob-chapek-out-1235178223/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33677340"
     ],
     [
-      "Why are E12 resistor values 10,12,15,18,22,27,33,39 not 10,12,15,18,22,26,32,39",
+      "Why does the E12 resistor sequence use 27 and 33 instead of 26 and 32?",
       "https://electronics.stackexchange.com/questions/643070/why-are-e12-resistor-values-10-12-15-18-22-27-33-39-47-56-68-82-and-not-10-12-15"
     ]
   ],
