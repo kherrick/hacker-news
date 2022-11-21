@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-21, 15:48:23",
+      "https://news.ycombinator.com/item?id=33693873"
+    ],
+    [
+      "Why CVE-2022-3602 was not detected by fuzz testing",
+      "http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 15:30:16",
+      "https://news.ycombinator.com/item?id=33693646"
+    ],
+    [
+      "NASA’s Orion spacecraft reaches the moon, flying 81 miles above the surface",
+      "https://www.washingtonpost.com/technology/2022/11/21/orion-moon-orbit-arrives/"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 15:12:01",
       "https://news.ycombinator.com/item?id=33693411"
     ],
@@ -87,16 +107,6 @@
     [
       "Show HN: Buzz, strongly typed scripting language written in Zig",
       "https://github.com/buzz-language/buzz"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 10:16:48",
-      "https://news.ycombinator.com/item?id=33690916"
-    ],
-    [
-      "Kubernetes Cordon: How It Works and When to Use It",
-      "https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/"
     ]
   ],
   [
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2022-11-21, 00:23:49",
-      "https://news.ycombinator.com/item?id=33687141"
+      "2022-11-20, 23:40:56",
+      "https://news.ycombinator.com/item?id=33686782"
     ],
     [
-      "Criticizing Computers",
-      "https://annasofia.xyz/2022/11/05/criticizing-computers.html"
+      "Minecraft Running on Asahi Linux with Open Source GPU Drivers",
+      "https://social.treehouse.systems/@alyssa/109378606742926582"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Alan MacMasters: How the great toaster hoax was exposed",
       "https://www.bbc.co.uk/news/the-reporters-63622746"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 09:00:01",
-      "https://news.ycombinator.com/item?id=33652117"
-    ],
-    [
-      "Show HN: Libriscv – RISC-V userspace emulator library",
-      "https://github.com/fwsGonzo/libriscv"
     ]
   ]
 ]
