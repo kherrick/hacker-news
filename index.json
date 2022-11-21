@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-21, 18:46:17",
+      "https://news.ycombinator.com/item?id=33696270"
+    ],
+    [
+      "What story from the PDP-8 era would make a good script?",
+      "https://news.ycombinator.com/item?id=33696270"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 18:42:19",
+      "https://news.ycombinator.com/item?id=33696216"
+    ],
+    [
+      "Ask HN: What weird technical scene are you fond/part of?",
+      "https://news.ycombinator.com/item?id=33696216"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 18:21:02",
       "https://news.ycombinator.com/item?id=33695937"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-11-21, 10:38:42",
-      "https://news.ycombinator.com/item?id=33691048"
-    ],
-    [
-      "C23 Implications for C Libraries",
-      "https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html"
-    ]
-  ],
-  [
-    [
       "2022-11-21, 10:29:28",
       "https://news.ycombinator.com/item?id=33690989"
     ],
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2022-11-20, 22:30:23",
-      "https://news.ycombinator.com/item?id=33686168"
-    ],
-    [
-      "AWS and Blockchain",
-      "https://www.tbray.org/ongoing/When/202x/2022/11/19/AWS-Blockchain"
-    ]
-  ],
-  [
-    [
       "2022-11-20, 02:06:33",
       "https://news.ycombinator.com/item?id=33677340"
     ],
     [
       "Why does the E12 resistor sequence use 27 and 33 instead of 26 and 32?",
       "https://electronics.stackexchange.com/questions/643070/why-are-e12-resistor-values-10-12-15-18-22-27-33-39-47-56-68-82-and-not-10-12-15"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 21:26:19",
-      "https://news.ycombinator.com/item?id=33674904"
-    ],
-    [
-      "Quest for my perfect watch",
-      "https://lock.cmpxchg8b.com/watch.html"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2022-11-19, 07:45:36",
+      "https://news.ycombinator.com/item?id=33668004"
+    ],
+    [
+      "Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications",
+      "https://ccrma.stanford.edu/~jos/mdft/"
+    ]
+  ],
+  [
+    [
       "2022-11-19, 07:20:20",
       "https://news.ycombinator.com/item?id=33667882"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-11-18, 12:16:26",
-      "https://news.ycombinator.com/item?id=33653540"
+      "2022-11-18, 17:55:41",
+      "https://news.ycombinator.com/item?id=33658763"
     ],
     [
-      "Show HN: A visual guide to Box Breathing",
-      "https://lassebomh.github.io/box-breathing/"
+      "Show HN: General Task, a free task manager for builders (beta)",
+      "https://generaltask.com/"
     ]
   ]
 ]
