@@ -1,22 +1,42 @@
 [
   [
     [
-      "2022-11-21, 02:06:31",
-      "https://news.ycombinator.com/item?id=33687819"
+      "2022-11-21, 02:58:04",
+      "https://news.ycombinator.com/item?id=33688164"
     ],
     [
-      "You can fire 80% of software engineers and the company will survive",
-      "https://medium.com/@victor.ronin/you-can-fire-80-of-software-engineers-and-the-company-will-survive-4117f5a5c182"
+      "R49081 Is Prime",
+      "https://mersenneforum.org/showpost.php?p=602219&postcount=35"
     ]
   ],
   [
     [
-      "2022-11-21, 00:30:43",
-      "https://news.ycombinator.com/item?id=33687179"
+      "2022-11-21, 02:52:24",
+      "https://news.ycombinator.com/item?id=33688125"
     ],
     [
-      "Scala 3 is not production ready",
-      "https://gvolpe.com/blog/scala3-is-not-prod-ready/"
+      "Disney Shocker Bob Iger Back as CEO, Bob Chapek Out",
+      "https://deadline.com/2022/11/disney-bob-iger-returns-ceo-bob-chapek-out-1235178223/"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 02:34:36",
+      "https://news.ycombinator.com/item?id=33688006"
+    ],
+    [
+      "JR East mulls seats for dogs on some special Shinkansen rides",
+      "https://www.asahi.com/ajw/articles/14759577"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 01:43:00",
+      "https://news.ycombinator.com/item?id=33687673"
+    ],
+    [
+      "AWS and Blockchain",
+      "https://www.tbray.org/ongoing/When/202x/2022/11/19/AWS-Blockchain"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-11-20, 19:03:25",
-      "https://news.ycombinator.com/item?id=33684045"
-    ],
-    [
-      "The Modern Observability Problem",
-      "https://failingfast.io/opentelemetry-observability/"
-    ]
-  ],
-  [
-    [
       "2022-11-20, 19:03:16",
       "https://news.ycombinator.com/item?id=33684043"
     ],
@@ -287,16 +297,6 @@
     [
       "The 539kernel Book: A journey in creating an operating system kernel",
       "https://539kernel.com/"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 11:54:33",
-      "https://news.ycombinator.com/item?id=33680239"
-    ],
-    [
-      "Mildly interesting quirks of C",
-      "https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01"
     ]
   ]
 ]
