@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-11-22, 07:33:47",
-      "https://news.ycombinator.com/item?id=33703096"
-    ],
-    [
-      "TinyLLama – A Tiny x86 Retrocomputer",
-      "https://github.com/eivindbohler/tinyllama"
-    ]
-  ],
-  [
-    [
       "2022-11-22, 06:45:48",
       "https://news.ycombinator.com/item?id=33702830"
     ],
@@ -277,6 +267,16 @@
     [
       "CGAL: Computational Geometry Algorithms Library",
       "https://www.cgal.org/"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 04:59:27",
+      "https://news.ycombinator.com/item?id=33678411"
+    ],
+    [
+      "How to Use Exceptions Correctly",
+      "https://thelig.ht/correct-exceptions/"
     ]
   ],
   [
