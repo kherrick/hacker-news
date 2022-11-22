@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-22, 21:47:06",
+      "https://news.ycombinator.com/item?id=33711987"
+    ],
+    [
+      "NASA Uses RISC-V Vector Spec to Soup Up Space Computers",
+      "https://www.eetimes.com/nasa-uses-risc-v-vector-spec-to-soup-up-space-computers/"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 21:22:55",
       "https://news.ycombinator.com/item?id=33711699"
     ],
@@ -47,6 +57,16 @@
     [
       "Dwarf Fortress – randomly generated, persistent fantasy world",
       "http://www.bay12games.com/dwarves/features.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 20:41:37",
+      "https://news.ycombinator.com/item?id=33711205"
+    ],
+    [
+      "22-11-22 22:11:22",
+      "https://news.ycombinator.com/item?id=33711205"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-11-22, 14:49:32",
-      "https://news.ycombinator.com/item?id=33706380"
-    ],
-    [
-      "Brotli-G: A GPU compression/decompression standard for digital assets",
-      "https://gpuopen.com/brotli-g-sdk-announce/"
-    ]
-  ],
-  [
-    [
       "2022-11-22, 14:34:09",
       "https://news.ycombinator.com/item?id=33706197"
     ],
@@ -207,16 +217,6 @@
     [
       "Please restore our registers when you’re done with them",
       "https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 12:37:34",
-      "https://news.ycombinator.com/item?id=33705087"
-    ],
-    [
-      "Show HN: JXL.js – JPEG XL Decoder in JavaScript Using WebAssembly in Web Worker",
-      "https://github.com/niutech/jxl.js"
     ]
   ],
   [
