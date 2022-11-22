@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-11-22, 08:43:44",
-      "https://news.ycombinator.com/item?id=33703516"
-    ],
-    [
-      "Five Recommendation Algorithms No Recommendation Engine Is Whole Without",
-      "https://memgraph.com/blog/five-recommendation-algorithms-no-recommendation-engine-is-whole-without"
-    ]
-  ],
-  [
-    [
       "2022-11-22, 07:33:47",
       "https://news.ycombinator.com/item?id=33703096"
     ],
@@ -77,6 +67,16 @@
     [
       "TinyGL 0.4.1",
       "https://bellard.org/TinyGL/"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 04:02:15",
+      "https://news.ycombinator.com/item?id=33701687"
+    ],
+    [
+      "Always use [closed, open) intervals",
+      "https://fhur.me/posts/always-use-closed-open-intervals"
     ]
   ],
   [
