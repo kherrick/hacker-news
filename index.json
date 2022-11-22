@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-22, 21:00:50",
+      "https://news.ycombinator.com/item?id=33711451"
+    ],
+    [
+      "Avenue (YC W21) Is Hiring Software Engineers in NYC (React/TypeScript/TRPC)",
+      "https://jobs.ashbyhq.com/avenue/f4e8842d-83ae-413a-9ee3-d20c2b39380a"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 20:45:12",
+      "https://news.ycombinator.com/item?id=33711253"
+    ],
+    [
+      "Dwarf Fortress – randomly generated, persistent fantasy world",
+      "http://www.bay12games.com/dwarves/features.html"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 18:45:31",
       "https://news.ycombinator.com/item?id=33709389"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33708851"
     ],
     [
-      "Matthias Wandel woodworks his way to 1.72M subscribers",
+      "Woodworking through the mind of an engineer",
       "https://www.cbc.ca/news/canada/new-brunswick/matthias-wandel-fredericton-woodworker-1.6659038"
     ]
   ],
@@ -47,26 +67,6 @@
     [
       "Barclays using TeamViewer font to warn customers",
       "https://old.reddit.com/r/UKPersonalFinance/comments/z1uvo8/this_felt_like_a_scam_how_did_my_bank_know_what/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 17:01:05",
-      "https://news.ycombinator.com/item?id=33707952"
-    ],
-    [
-      "Finley (YC W21) is hiring across all teams to build capital markets software",
-      "https://news.ycombinator.com/item?id=33707952"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 16:56:52",
-      "https://news.ycombinator.com/item?id=33707889"
-    ],
-    [
-      "Ask HN: How do you start a startup in your 30s when you have wife/kids/mortgage?",
-      "https://news.ycombinator.com/item?id=33707889"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-11-22, 11:10:25",
-      "https://news.ycombinator.com/item?id=33704483"
-    ],
-    [
-      "Frog: OCR Tool for Linux",
-      "https://tenderowl.com/work/frog/"
-    ]
-  ],
-  [
-    [
       "2022-11-22, 10:43:30",
       "https://news.ycombinator.com/item?id=33704297"
     ],
@@ -247,6 +237,16 @@
     [
       "Mycroft – open source voice assistant",
       "https://mycroft.ai/"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 12:03:05",
+      "https://news.ycombinator.com/item?id=33691635"
+    ],
+    [
+      "Introduction to Embedded Systems Programming (Ada)",
+      "https://learn.adacore.com/courses/intro-to-embedded-sys-prog/index.html"
     ]
   ],
   [
