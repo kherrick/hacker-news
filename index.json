@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-11-22, 15:47:33",
+      "https://news.ycombinator.com/item?id=33706997"
+    ],
+    [
+      "Human-level play in the game of Diplomacy by combining language models",
+      "https://www.science.org/doi/10.1126/science.ade9097"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 15:32:02",
+      "https://news.ycombinator.com/item?id=33706831"
+    ],
+    [
+      "Quickadd: A Python library for extracting date and time from natural language",
+      "https://github.com/Acreom/quickadd"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 15:24:17",
       "https://news.ycombinator.com/item?id=33706750"
     ],
     [
       "Human-Level Play in Diplomacy Combining Language Models with Strategic Reasoning",
       "https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 15:21:21",
+      "https://news.ycombinator.com/item?id=33706721"
+    ],
+    [
+      "Retrofitting null-safety onto Java at Meta",
+      "https://engineering.fb.com/2022/11/22/developer-tools/meta-java-nullsafe/"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "Frog: OCR Tool for Linux",
       "https://tenderowl.com/work/frog/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 10:51:58",
-      "https://news.ycombinator.com/item?id=33704347"
-    ],
-    [
-      "Turing Machine in Prolog (2017)",
-      "https://www.metalevel.at/prolog/showcases/turing.pl"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "The secret lives of compers",
       "https://www.theguardian.com/lifeandstyle/2022/nov/20/its-such-a-rush-the-secret-lives-of-compers"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 20:49:41",
-      "https://news.ycombinator.com/item?id=33674516"
-    ],
-    [
-      "How can you not be romantic about programming? (2020)",
-      "https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 08:18:36",
-      "https://news.ycombinator.com/item?id=33668198"
-    ],
-    [
-      "Live Coding Video Synth",
-      "https://hydra.ojack.xyz/"
     ]
   ]
 ]
