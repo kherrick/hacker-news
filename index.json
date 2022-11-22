@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-22, 12:37:34",
+      "https://news.ycombinator.com/item?id=33705087"
+    ],
+    [
+      "Show HN: JXL.js – JPEG XL Decoder in JavaScript Using WebAssembly in Web Worker",
+      "https://github.com/niutech/jxl.js"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 12:00:43",
       "https://news.ycombinator.com/item?id=33704804"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2022-11-22, 12:00:24",
+      "https://news.ycombinator.com/item?id=33704801"
+    ],
+    [
+      "Self Hosting a Google Maps Alternative with OpenStreetMap",
+      "https://wcedmisten.fyi/post/self-hosting-osm/"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 11:10:25",
       "https://news.ycombinator.com/item?id=33704483"
     ],
     [
       "Frog: OCR Tool for Linux",
       "https://tenderowl.com/work/frog/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 10:51:58",
-      "https://news.ycombinator.com/item?id=33704347"
-    ],
-    [
-      "Turing Machine in Prolog (2017)",
-      "https://www.metalevel.at/prolog/showcases/turing.pl"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Moving Away from UUIDs",
       "https://neilmadden.blog/2018/08/30/moving-away-from-uuids/"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 21:36:26",
-      "https://news.ycombinator.com/item?id=33698314"
-    ],
-    [
-      "Kubeshark: The API Traffic Viewer for Kubernetes",
-      "https://github.com/kubeshark/kubeshark"
     ]
   ],
   [
