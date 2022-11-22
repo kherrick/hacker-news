@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2022-11-22, 18:36:12",
-      "https://news.ycombinator.com/item?id=33709255"
+      "2022-11-22, 18:21:56",
+      "https://news.ycombinator.com/item?id=33709013"
     ],
     [
-      "Adobe now requires you to purchase a subscription to rotate PDF pages",
-      "https://merveilles.town/@vladh/109388897488336869"
+      "VSCode-Neovim: Use embedded Neovim in VSCode without emulation",
+      "https://github.com/vscode-neovim/vscode-neovim"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=33706117"
     ],
     [
-      "Improving Firefox stability with this one weird trick",
+      "Improving Firefox stability on Windows by retrying failed memory allocation",
       "https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/"
     ]
   ],
