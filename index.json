@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-22, 00:55:03",
+      "https://news.ycombinator.com/item?id=33700415"
+    ],
+    [
+      "Basics of Concrete Barriers",
+      "https://highways.dot.gov/public-roads/marchapril-2000/basics-concrete-barriers"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 00:21:42",
+      "https://news.ycombinator.com/item?id=33700136"
+    ],
+    [
+      "Show HN: Wiretap – Transparent WireGuard proxy server without root",
+      "https://github.com/sandialabs/wiretap"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 23:31:32",
       "https://news.ycombinator.com/item?id=33699708"
     ],
@@ -11,32 +31,12 @@
   ],
   [
     [
-      "2022-11-21, 23:23:34",
-      "https://news.ycombinator.com/item?id=33699619"
-    ],
-    [
-      "Microscale",
-      "http://alestsurko.by/microscale/"
-    ]
-  ],
-  [
-    [
       "2022-11-21, 22:53:28",
       "https://news.ycombinator.com/item?id=33699298"
     ],
     [
       "Moving Away from UUIDs",
       "https://neilmadden.blog/2018/08/30/moving-away-from-uuids/"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 21:56:53",
-      "https://news.ycombinator.com/item?id=33698599"
-    ],
-    [
-      "MicroPython officially becomes part of the Arduino ecosystem",
-      "https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Launch HN: Kalshi (YC W19) – A regulated exchange for trading on events",
       "https://news.ycombinator.com/item?id=33696486"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 18:42:19",
+      "https://news.ycombinator.com/item?id=33696216"
+    ],
+    [
+      "Ask HN: What weird technical scene are you fond/part of?",
+      "https://news.ycombinator.com/item?id=33696216"
     ]
   ],
   [
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2022-11-21, 11:14:42",
-      "https://news.ycombinator.com/item?id=33691293"
+      "2022-11-20, 10:36:30",
+      "https://news.ycombinator.com/item?id=33679874"
     ],
     [
-      "Termux on Android 5 or 6",
-      "https://github.com/termux/termux-app/wiki/Termux-on-android-5-or-6"
+      "Bell Works New Jersey",
+      "https://bell.works/new-jersey/explore/"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2022-11-20, 04:05:38",
-      "https://news.ycombinator.com/item?id=33678123"
+      "2022-11-20, 04:31:51",
+      "https://news.ycombinator.com/item?id=33678269"
     ],
     [
-      "The Diligence That's Due",
-      "https://investing1012dot0.substack.com/p/the-diligence-thats-due"
+      "Albert Einstein vs. Robert Oppenheimer (1933)",
+      "https://www.chessgames.com/perl/chessgame?gid=1261614"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2022-11-19, 19:10:33",
-      "https://news.ycombinator.com/item?id=33673499"
+      "2022-11-19, 13:48:04",
+      "https://news.ycombinator.com/item?id=33669998"
     ],
     [
-      "Sheep flocks alternate their leader and achieve collective intelligence",
-      "https://www.science.org/doi/10.1126/sciadv.adc9241"
+      "Marble Solitaire",
+      "https://iamkate.com/games/marble-solitaire/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Go First Dice",
       "http://www.ericharshbarger.org/dice/go_first_dice.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 07:45:36",
-      "https://news.ycombinator.com/item?id=33668004"
-    ],
-    [
-      "Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications",
-      "https://ccrma.stanford.edu/~jos/mdft/"
     ]
   ],
   [
