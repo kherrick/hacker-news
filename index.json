@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-22, 13:21:52",
+      "https://news.ycombinator.com/item?id=33705446"
+    ],
+    [
+      "Don’t download Qatar World Cup apps, EU data authorities warn",
+      "https://www.politico.eu/article/qatar-world-cup-app-data-warning/"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 12:57:29",
+      "https://news.ycombinator.com/item?id=33705249"
+    ],
+    [
+      "Hanami 2.0",
+      "https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 12:53:23",
+      "https://news.ycombinator.com/item?id=33705209"
+    ],
+    [
+      "Please restore our registers when you’re done with them",
+      "https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 12:37:34",
       "https://news.ycombinator.com/item?id=33705087"
     ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33704254"
     ],
     [
-      "D2 is now open source – a modern language that turns text to diagrams",
+      "D2 is a modern diagram scripting language that turns text to diagrams",
       "https://github.com/terrastruct/d2"
     ]
   ],
@@ -75,8 +105,18 @@
       "https://news.ycombinator.com/item?id=33704197"
     ],
     [
-      "Subtractive Color Mixture Computation",
+      "Subtractive Color Mixture Computation (2021)",
       "http://scottburns.us/subtractive-color-mixture/"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 10:05:26",
+      "https://news.ycombinator.com/item?id=33704054"
+    ],
+    [
+      "Considering C99 for Curl",
+      "https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/"
     ]
   ],
   [
@@ -121,26 +161,6 @@
   ],
   [
     [
-      "2022-11-22, 05:47:11",
-      "https://news.ycombinator.com/item?id=33702485"
-    ],
-    [
-      "Telling It Like It Is in Plain English (Calling SBF a Fraud in March)",
-      "https://jeffreycarter.substack.com/p/telling-it-like-it-is"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 04:59:40",
-      "https://news.ycombinator.com/item?id=33702150"
-    ],
-    [
-      "Perlisms – “Epigrams in Programming”",
-      "http://www.cs.yale.edu/homes/perlis-alan/quotes.html"
-    ]
-  ],
-  [
-    [
       "2022-11-22, 04:18:41",
       "https://news.ycombinator.com/item?id=33701826"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2022-11-22, 00:21:42",
-      "https://news.ycombinator.com/item?id=33700136"
-    ],
-    [
-      "Show HN: Wiretap – Transparent WireGuard proxy server without root",
-      "https://github.com/sandialabs/wiretap"
-    ]
-  ],
-  [
-    [
       "2022-11-21, 22:53:28",
       "https://news.ycombinator.com/item?id=33699298"
     ],
     [
       "Moving Away from UUIDs",
       "https://neilmadden.blog/2018/08/30/moving-away-from-uuids/"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 18:17:54",
-      "https://news.ycombinator.com/item?id=33695886"
-    ],
-    [
-      "CVE-2022-41924 – tailscaled can be used to remotely execute code on Windows",
-      "https://emily.id.au/tailscale"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=33674516"
     ],
     [
-      "How can you not be romantic about programming?",
+      "How can you not be romantic about programming? (2020)",
       "https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/"
     ]
   ],
