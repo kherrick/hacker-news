@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-23, 03:58:42",
+      "https://news.ycombinator.com/item?id=33715007"
+    ],
+    [
+      "Longtermism, or How to Get-Out-of-Caring While Feeling Moral and Smart",
+      "https://www.pestemag.com/books-before-you-die-or-after/longtermism-or-how-to-get-out-of-caring-while-feeling-moral-and-smart-s52gf-6tzmf"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 03:53:10",
       "https://news.ycombinator.com/item?id=33714963"
     ],
@@ -71,12 +81,32 @@
   ],
   [
     [
+      "2022-11-22, 22:31:51",
+      "https://news.ycombinator.com/item?id=33712490"
+    ],
+    [
+      "WebAssembly back end merged into GHC",
+      "https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 21:47:06",
       "https://news.ycombinator.com/item?id=33711987"
     ],
     [
       "NASA Uses RISC-V Vector Spec to Soup Up Space Computers",
       "https://www.eetimes.com/nasa-uses-risc-v-vector-spec-to-soup-up-space-computers/"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 21:46:31",
+      "https://news.ycombinator.com/item?id=33711981"
+    ],
+    [
+      "Show HN: Visualising real-time Sydney bus congestion with Marey charts",
+      "https://jakecoppinger.com/2022/11/visualising-sydney-bus-congestion-with-marey-charts/"
     ]
   ],
   [
@@ -231,26 +261,6 @@
   ],
   [
     [
-      "2022-11-22, 12:57:29",
-      "https://news.ycombinator.com/item?id=33705249"
-    ],
-    [
-      "Hanami 2.0",
-      "https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 12:53:23",
-      "https://news.ycombinator.com/item?id=33705209"
-    ],
-    [
-      "Please restore our registers when you’re done with them",
-      "https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/"
-    ]
-  ],
-  [
-    [
       "2022-11-22, 05:46:00",
       "https://news.ycombinator.com/item?id=33702475"
     ],
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2022-11-21, 11:23:16",
+      "https://news.ycombinator.com/item?id=33691341"
+    ],
+    [
+      "Why Take and Make Notes",
+      "https://dsebastien.net/blog/2022-11-16-why-take-notes"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 07:35:23",
       "https://news.ycombinator.com/item?id=33689890"
     ],
     [
       "Troubleshooting on a Distributed Team Without Losing Common Ground",
       "https://blog.danslimmon.com/2015/10/19/troubleshooting-chatops-ddx/"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 09:49:27",
-      "https://news.ycombinator.com/item?id=33679673"
-    ],
-    [
-      "Digitizing Analog Video Through a Digital Camcorder",
-      "https://www.pagetable.com/?p=1697"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 04:03:29",
-      "https://news.ycombinator.com/item?id=33678107"
-    ],
-    [
-      "Sweet Shell: With Oh-My-Zsh, SpaceVim, Starship, True Color, and Demo Mode",
-      "https://www.bretfisher.com/shell/"
     ]
   ]
 ]
