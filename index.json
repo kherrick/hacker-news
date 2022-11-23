@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-23, 15:31:42",
+      "https://news.ycombinator.com/item?id=33720409"
+    ],
+    [
+      "Wikipedia blocks 26 million users from the UK's largest mobile network operator",
+      "https://utrs-beta.wmflabs.org/public/appeal/view?hash=39df2e56e0709bbb7129ab8aa4fdea6f"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 15:26:18",
+      "https://news.ycombinator.com/item?id=33720330"
+    ],
+    [
+      "Porting 58000 lines of D and C++ to jai, Part 0: Why and How",
+      "https://www.yet-another-blog.com/porting_the_game_to_jai_part0/"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 15:04:36",
       "https://news.ycombinator.com/item?id=33719983"
     ],
@@ -131,26 +151,6 @@
   ],
   [
     [
-      "2022-11-23, 10:18:18",
-      "https://news.ycombinator.com/item?id=33717331"
-    ],
-    [
-      "Intel on Demand",
-      "https://www.intel.com/content/www/us/en/products/docs/ondemand/overview.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 10:17:08",
-      "https://news.ycombinator.com/item?id=33717323"
-    ],
-    [
-      "Building a custom code search index in Go for searchcode.com",
-      "https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 09:51:09",
       "https://news.ycombinator.com/item?id=33717135"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-11-23, 06:13:28",
+      "https://news.ycombinator.com/item?id=33715826"
+    ],
+    [
+      "Displaying the Dead: The Musée Dupuytren Catalogue",
+      "https://publicdomainreview.org/essay/musee-dupuytren-catalogue/"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 05:03:52",
       "https://news.ycombinator.com/item?id=33715443"
     ],
@@ -257,16 +267,6 @@
     [
       "Emacs: Feature/tree-sitter merged into master",
       "https://lists.gnu.org/archive/html/emacs-devel/2022-11/msg01443.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 00:43:35",
-      "https://news.ycombinator.com/item?id=33713612"
-    ],
-    [
-      "Safely writing code that isn't thread-safe",
-      "http://cliffle.com/blog/not-thread-safe/"
     ]
   ],
   [
