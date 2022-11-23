@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-23, 21:01:27",
+      "https://news.ycombinator.com/item?id=33724468"
+    ],
+    [
+      "Westinghouse sees a tech disrupter in its eVinci microreactor",
+      "https://www.power-eng.com/nuclear/westinghouse-sees-a-tech-disrupter-in-its-evinci-microreactor/"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 20:15:13",
       "https://news.ycombinator.com/item?id=33723987"
     ],
@@ -107,16 +117,6 @@
     [
       "ReadMe (YC W15) is hiring a product manager who loves APIs",
       "https://readme.com/careers#product-lead"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 17:01:13",
-      "https://news.ycombinator.com/item?id=33721688"
-    ],
-    [
-      "Analysis on Docker Hub malicious images: Attacks through public container images",
-      "https://sysdig.com/blog/analysis-of-supply-chain-attacks-through-public-docker-images/"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2022-11-23, 09:03:53",
-      "https://news.ycombinator.com/item?id=33716796"
-    ],
-    [
-      "2D Rubik’s Cube solution visualization",
-      "https://twitter.com/jagarikin/status/1593771091738374144"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 08:15:52",
       "https://news.ycombinator.com/item?id=33716486"
     ],
     [
       "Life as a door-to-door salesman",
       "https://www.tampabay.com/narratives/2022/11/17/whats-it-like-work-door-door-sales-job/"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 06:46:11",
+      "https://news.ycombinator.com/item?id=33715986"
+    ],
+    [
+      "Hexagonal Architecture vs. Free Monad",
+      "https://deque.blog/2017/07/06/hexagonal-architecture-a-less-declarative-free-monad/"
     ]
   ],
   [
