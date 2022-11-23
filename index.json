@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-11-23, 11:09:10",
-      "https://news.ycombinator.com/item?id=33717733"
+      "2022-11-23, 11:47:15",
+      "https://news.ycombinator.com/item?id=33718011"
     ],
     [
-      "Scottish Parliament does not have power to legislate an independence referendum",
-      "https://www.supremecourt.uk/press-summary/uksc-2022-0098.html"
+      "Common Lisp Object System (CLOS)",
+      "https://hescaide.me/clos/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Intel on Demand",
       "https://www.intel.com/content/www/us/en/products/docs/ondemand/overview.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 10:17:08",
+      "https://news.ycombinator.com/item?id=33717323"
+    ],
+    [
+      "Building a custom code search index in Go for searchcode.com",
+      "https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Building the fastest Lua interpreter automatically",
       "https://sillycross.github.io/2022/11/22/2022-11-22/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 15:50:26",
-      "https://news.ycombinator.com/item?id=33707022"
-    ],
-    [
-      "High-documentation, low-meeting work culture",
-      "https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture"
     ]
   ],
   [
