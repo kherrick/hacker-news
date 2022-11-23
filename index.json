@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-11-23, 18:32:47",
+      "https://news.ycombinator.com/item?id=33722862"
+    ],
+    [
+      "Last.fm turns 20",
+      "https://www.theverge.com/2022/11/22/23473358/lastfm-discord-bot-neil-young-spotify"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 18:05:17",
       "https://news.ycombinator.com/item?id=33722494"
     ],
@@ -47,6 +57,16 @@
     [
       "Show HN: Benthos Studio – A modern take on Yahoo Pipes",
       "https://studio.benthos.dev/"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 17:15:32",
+      "https://news.ycombinator.com/item?id=33721853"
+    ],
+    [
+      "Per-seat pricing is off the table now",
+      "https://github.com/getlago/lago/wiki/Per-Seat-pricing-is-off-the-table-now"
     ]
   ],
   [
@@ -151,22 +171,12 @@
   ],
   [
     [
-      "2022-11-23, 13:18:13",
-      "https://news.ycombinator.com/item?id=33718765"
+      "2022-11-23, 13:28:45",
+      "https://news.ycombinator.com/item?id=33718850"
     ],
     [
-      "Migrating from Warp to Axum",
-      "https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 12:56:36",
-      "https://news.ycombinator.com/item?id=33718600"
-    ],
-    [
-      "Show HN: Noctie – A chess AI that predicts your rating",
-      "https://noctie.ai/rate-me"
+      "Show HN: Unclutter – Reader mode, but better",
+      "https://unclutter.it"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2022-11-23, 11:47:15",
-      "https://news.ycombinator.com/item?id=33718011"
+      "2022-11-23, 10:17:08",
+      "https://news.ycombinator.com/item?id=33717323"
     ],
     [
-      "Common Lisp Object System (CLOS)",
-      "https://hescaide.me/clos/"
+      "Building a custom code search index in Go",
+      "https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/"
     ]
   ],
   [
@@ -227,6 +237,26 @@
     [
       "2D Rubik’s Cube solution visualization",
       "https://twitter.com/jagarikin/status/1593771091738374144"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 08:15:52",
+      "https://news.ycombinator.com/item?id=33716486"
+    ],
+    [
+      "Life as a door-to-door salesman",
+      "https://www.tampabay.com/narratives/2022/11/17/whats-it-like-work-door-door-sales-job/"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 06:13:28",
+      "https://news.ycombinator.com/item?id=33715826"
+    ],
+    [
+      "Displaying the Dead: The Musée Dupuytren Catalogue",
+      "https://publicdomainreview.org/essay/musee-dupuytren-catalogue/"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2022-11-22, 19:09:36",
-      "https://news.ycombinator.com/item?id=33709799"
-    ],
-    [
-      "The case for dynamic, functional programming",
-      "https://www.onebigfluke.com/2022/11/the-case-for-dynamic-functional.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 13:30:36",
-      "https://news.ycombinator.com/item?id=33705532"
-    ],
-    [
-      "Tax filing websites have been sending users’ financial information to Facebook",
-      "https://www.theverge.com/2022/11/22/23471842/facebook-hr-block-taxact-taxslayer-info-sharing"
-    ]
-  ],
-  [
-    [
       "2022-11-22, 07:52:14",
       "https://news.ycombinator.com/item?id=33703192"
     ],
     [
-      "Being OK with Not Being Extraordinary",
+      "Being ok with not being extraordinary",
       "https://www.tiffanymatthe.com/not-extraordinary"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 03:04:43",
-      "https://news.ycombinator.com/item?id=33701250"
-    ],
-    [
-      "More than you cared to know about PC fans",
-      "https://nick-black.com/dankwiki/index.php?title=PC_Fans"
     ]
   ]
 ]
