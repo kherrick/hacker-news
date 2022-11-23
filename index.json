@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-11-23, 21:34:12",
+      "https://news.ycombinator.com/item?id=33724826"
+    ],
+    [
+      "Earth might be experiencing 7th mass extinction, not 6th",
+      "https://news.ucr.edu/articles/2022/11/22/earth-might-be-experiencing-7th-mass-extinction-not-6th"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 21:27:08",
       "https://news.ycombinator.com/item?id=33724759"
     ],
     [
       "Socrates on the Forgetfulness That Comes with Writing",
       "https://newlearningonline.com/literacies/chapter-1/socrates-on-the-forgetfulness-that-comes-with-writing"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 21:19:56",
+      "https://news.ycombinator.com/item?id=33724681"
+    ],
+    [
+      "First active chemistry on an exoplanet revealed by Webb telescope",
+      "https://www.nature.com/articles/d41586-022-03820-3"
     ]
   ],
   [
@@ -31,6 +51,26 @@
   ],
   [
     [
+      "2022-11-23, 20:48:31",
+      "https://news.ycombinator.com/item?id=33724337"
+    ],
+    [
+      "2 Years at Twitter",
+      "https://eed3si9n.com/2years-at-twitter/"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 20:45:42",
+      "https://news.ycombinator.com/item?id=33724307"
+    ],
+    [
+      "Smithsonian Native Cinema Showcase Brings Indigenous Films to Online Audiences",
+      "https://www.si.edu/newsdesk/releases/online-native-cinema-showcase-brings-indigenous-films-audiences-worldwide"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 20:15:13",
       "https://news.ycombinator.com/item?id=33723987"
     ],
@@ -47,16 +87,6 @@
     [
       "Enlightenment and lighting controls",
       "https://computer.rip/2022-11-23-enlightenment-and-lighting-controls.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 18:35:19",
-      "https://news.ycombinator.com/item?id=33722906"
-    ],
-    [
-      "Building the PiDP-11 Dec PDP-11 Replica Minicomputer",
-      "https://bigdanzblog.wordpress.com/2022/11/22/building-the-pidp-11-dec-pdp-11-replica-minicomputer/"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2022-11-23, 17:05:24",
-      "https://news.ycombinator.com/item?id=33721730"
-    ],
-    [
-      "Biff tutorial: build a chat app with Clojure",
-      "https://biffweb.com/p/tutorial/"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 17:01:36",
       "https://news.ycombinator.com/item?id=33721693"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-11-23, 16:16:16",
-      "https://news.ycombinator.com/item?id=33721075"
-    ],
-    [
-      "A programmer-friendly I/O abstraction over io_uring and kqueue",
-      "https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 15:45:15",
       "https://news.ycombinator.com/item?id=33720602"
     ],
@@ -177,16 +187,6 @@
     [
       "Ooh.directory",
       "https://ooh.directory"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 14:30:05",
-      "https://news.ycombinator.com/item?id=33719519"
-    ],
-    [
-      "How not to think about cells",
-      "https://www.subanima.org/veritasium/"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "Show HN: I made a pretty relaxing puzzle game",
       "https://rotaboxes.com"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 10:17:08",
-      "https://news.ycombinator.com/item?id=33717323"
-    ],
-    [
-      "Building a custom code search index in Go",
-      "https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "A toy example of Bayesian hyperparameter optimization on parallel cloud VMs",
       "https://sidsite.com/posts/kubeflow-hyperparam-opt/"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 10:29:40",
+      "https://news.ycombinator.com/item?id=33704206"
+    ],
+    [
+      "Rewriting (and optimizing) a tree-walking interpreter in Rust",
+      "https://www.dannyvankooten.com/blog/2022-12-rewriting-interpreter-rust/"
     ]
   ],
   [
