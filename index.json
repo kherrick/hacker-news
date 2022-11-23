@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-11-23, 13:18:13",
+      "https://news.ycombinator.com/item?id=33718765"
+    ],
+    [
+      "Migrating from Warp to Axum",
+      "https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 13:17:51",
+      "https://news.ycombinator.com/item?id=33718763"
+    ],
+    [
+      "Release 18 of Rust based MQTT broker and client",
+      "https://github.com/bytebeamio/rumqtt/releases/tag/R18"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 13:06:54",
+      "https://news.ycombinator.com/item?id=33718676"
+    ],
+    [
+      "Valid Reasons to Hate on Art",
+      "https://lrios.bearblog.dev/valid-reasons-to-hate-on-art/"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 12:47:27",
+      "https://news.ycombinator.com/item?id=33718508"
+    ],
+    [
+      "An Interactive Guide to Flexbox",
+      "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 12:03:31",
       "https://news.ycombinator.com/item?id=33718124"
     ],
@@ -77,16 +117,6 @@
     [
       "The miracle of Smalltalk’s become: (2009)",
       "https://gbracha.blogspot.com/2009/07/miracle-of-become.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 08:38:04",
-      "https://news.ycombinator.com/item?id=33716613"
-    ],
-    [
-      "Unix time is bad and needs replacement, not UTC",
-      "https://z.vandillen.dev/2022/11/21/unix-time-bad/"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2022-11-23, 02:28:27",
-      "https://news.ycombinator.com/item?id=33714401"
-    ],
-    [
-      "Drought Reveals Rare American Lion Fossil in Dried Up Mississippi River",
-      "https://www.smithsonianmag.com/smart-news/drought-reveals-rare-american-lion-fossil-in-dried-up-mississippi-river-180981166/"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 01:06:59",
       "https://news.ycombinator.com/item?id=33713765"
     ],
     [
       "Zero Trust Strategy and Roadmap",
       "https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 00:59:29",
-      "https://news.ycombinator.com/item?id=33713717"
-    ],
-    [
-      "The Carcinization of Go Programs",
-      "https://xeiaso.net/blog/carcinization-golang"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Building the fastest Lua interpreter automatically",
       "https://sillycross.github.io/2022/11/22/2022-11-22/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 15:50:26",
-      "https://news.ycombinator.com/item?id=33707022"
-    ],
-    [
-      "High-documentation, low-meeting work culture",
-      "https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture"
     ]
   ],
   [
