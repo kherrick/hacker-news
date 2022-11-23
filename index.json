@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-23, 01:38:22",
+      "https://news.ycombinator.com/item?id=33714007"
+    ],
+    [
+      "Using Rust at a startup: A cautionary tale",
+      "https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 01:06:59",
+      "https://news.ycombinator.com/item?id=33713765"
+    ],
+    [
+      "Department of Defense Releases Zero Trust Strategy and Roadmap",
+      "https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 00:43:35",
+      "https://news.ycombinator.com/item?id=33713612"
+    ],
+    [
+      "Safely writing code that isn't thread-safe: An under-appreciated Rust feature",
+      "http://cliffle.com/blog/not-thread-safe/"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 23:45:12",
       "https://news.ycombinator.com/item?id=33713170"
     ],
@@ -25,18 +55,8 @@
       "https://news.ycombinator.com/item?id=33712999"
     ],
     [
-      "AP fired reporter after dangerous blunder. Slack chats reveal chaotic process",
+      "AP fired reporter after dangerous blunder – Slack chats reveal chaotic process",
       "https://www.semafor.com/article/11/22/2022/ap-fired-a-reporter-after-a-dangerous-blunder-slack-messages-reveal-a-chaotic-process"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 22:50:49",
-      "https://news.ycombinator.com/item?id=33712685"
-    ],
-    [
-      "LPD: Libertarian Police Department (2014)",
-      "https://www.newyorker.com/humor/daily-shouts/l-p-d-libertarian-police-department"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33711839"
     ],
     [
-      "Why Gratitude Is the Secret Weapon for Attracting More Opportunities",
+      "Gratitude is a secret weapon for attracting more opportunities",
       "https://www.exaltitude.io/blogs/why-gratitude-is-the-secret-weapon-for-attracting-more-opportunities-and-creating-positive-change"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33711699"
     ],
     [
-      "Decades of Air Pollution Undermine the Immune System",
+      "Decades of air pollution undermine the immune system",
       "https://www.cuimc.columbia.edu/news/decades-air-pollution-undermine-immune-system"
     ]
   ],
@@ -231,42 +251,12 @@
   ],
   [
     [
-      "2022-11-22, 10:43:30",
-      "https://news.ycombinator.com/item?id=33704297"
-    ],
-    [
-      "Extremely Linear Git History",
-      "https://westling.dev/b/extremely-linear-git"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 10:37:11",
-      "https://news.ycombinator.com/item?id=33704254"
-    ],
-    [
-      "D2, a diagram scripting language that turns text to diagrams, is now open source",
-      "https://github.com/terrastruct/d2"
-    ]
-  ],
-  [
-    [
       "2022-11-22, 10:05:26",
       "https://news.ycombinator.com/item?id=33704054"
     ],
     [
       "Considering C99 for Curl",
       "https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 09:54:38",
-      "https://news.ycombinator.com/item?id=33703979"
-    ],
-    [
-      "Mycroft – open source voice assistant",
-      "https://mycroft.ai/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Pristine meteorite found within hours of hitting Earth",
       "https://astronomy.com/news/2022/11/pristine-meteorite-found-within-hours-of-hitting-earth"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 09:49:27",
+      "https://news.ycombinator.com/item?id=33679673"
+    ],
+    [
+      "Digitizing Analog Video Through a Digital Camcorder",
+      "https://www.pagetable.com/?p=1697"
     ]
   ],
   [
