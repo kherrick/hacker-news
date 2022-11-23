@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-11-23, 13:19:13",
+      "https://news.ycombinator.com/item?id=33718775"
+    ],
+    [
+      "Why Isn’t the Whole World Rich?",
+      "https://asteriskmag.com/issues/1/why-isn-t-the-whole-world-rich"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 13:18:13",
       "https://news.ycombinator.com/item?id=33718765"
     ],
     [
       "Migrating from Warp to Axum",
       "https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 13:17:51",
-      "https://news.ycombinator.com/item?id=33718763"
-    ],
-    [
-      "Release 18 of Rust based MQTT broker and client",
-      "https://github.com/bytebeamio/rumqtt/releases/tag/R18"
     ]
   ],
   [
@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2022-11-23, 12:56:36",
+      "https://news.ycombinator.com/item?id=33718600"
+    ],
+    [
+      "Show HN: Noctie – A chess AI that predicts your rating",
+      "https://noctie.ai/rate-me"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 12:47:27",
       "https://news.ycombinator.com/item?id=33718508"
     ],
     [
       "An Interactive Guide to Flexbox",
       "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 12:12:12",
+      "https://news.ycombinator.com/item?id=33718202"
+    ],
+    [
+      "“Invalid Username or Password”: a useless security measure",
+      "https://kevin.burke.dev/kevin/invalid-username-or-password-useless/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "The miracle of Smalltalk’s become: (2009)",
       "https://gbracha.blogspot.com/2009/07/miracle-of-become.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 08:30:34",
-      "https://news.ycombinator.com/item?id=33716570"
-    ],
-    [
-      "Who ranks better? Memgraph vs. NetworkX PageRank",
-      "https://memgraph.com/blog/who-ranks-better-memgraph-vs-networkx-pagerank"
     ]
   ],
   [
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2022-11-23, 04:46:21",
+      "https://news.ycombinator.com/item?id=33715321"
+    ],
+    [
+      "Emacs: Feature/tree-sitter merged into master",
+      "https://lists.gnu.org/archive/html/emacs-devel/2022-11/msg01443.html"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 01:06:59",
       "https://news.ycombinator.com/item?id=33713765"
     ],
@@ -247,26 +267,6 @@
     [
       "Making Journals Free",
       "https://zenodo.org/record/7212922"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 22:31:51",
-      "https://news.ycombinator.com/item?id=33712490"
-    ],
-    [
-      "WebAssembly back end merged into GHC",
-      "https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 21:11:37",
-      "https://news.ycombinator.com/item?id=33711583"
-    ],
-    [
-      "Building the fastest Lua interpreter automatically",
-      "https://sillycross.github.io/2022/11/22/2022-11-22/"
     ]
   ],
   [
