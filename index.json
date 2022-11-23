@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-23, 05:41:33",
+      "https://news.ycombinator.com/item?id=33715659"
+    ],
+    [
+      "UV Devices Could Keep Indoor Air Free of Viruses",
+      "https://www.nature.com/articles/d41586-022-03360-w"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 05:27:56",
+      "https://news.ycombinator.com/item?id=33715575"
+    ],
+    [
+      "GitBook bypassing Cloudflare DNS to route traffic to their domain",
+      "https://community.cloudflare.com/t/dns-updates-issues-with-cloudflare-partners-like-gitbook/341449"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 05:27:05",
+      "https://news.ycombinator.com/item?id=33715565"
+    ],
+    [
+      "The Ancient Japanese Technique That Produces Lumber Without Cutting Trees",
+      "https://dsfantiquejewelry.com/blogs/interesting-facts/the-ancient-japanese-technique-that-produces-lumber-without-cutting-trees"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 04:28:25",
       "https://news.ycombinator.com/item?id=33715167"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2022-11-22, 15:47:33",
-      "https://news.ycombinator.com/item?id=33706997"
-    ],
-    [
-      "Human-level play in the game of Diplomacy by combining language models",
-      "https://www.science.org/doi/10.1126/science.ade9097"
-    ]
-  ],
-  [
-    [
       "2022-11-22, 15:24:17",
       "https://news.ycombinator.com/item?id=33706750"
     ],
     [
       "CICERO: An AI agent that negotiates, persuades, and cooperates with people",
       "https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 14:34:09",
-      "https://news.ycombinator.com/item?id=33706197"
-    ],
-    [
-      "Cobalt – a stripped down Chromium for apps, Linux and embedded systems",
-      "https://cobalt.dev/overview.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 14:26:42",
-      "https://news.ycombinator.com/item?id=33706117"
-    ],
-    [
-      "Improving Firefox stability on Windows by retrying failed memory allocation",
-      "https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/"
     ]
   ],
   [
