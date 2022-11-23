@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-11-23, 22:10:01",
-      "https://news.ycombinator.com/item?id=33725154"
-    ],
-    [
-      "HTTPS Reverse Proxy: Caddy Outperforms Nginx 4x",
-      "https://manishrjain.com/reverse-proxy-caddy-nginx"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 21:34:12",
       "https://news.ycombinator.com/item?id=33724826"
     ],
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2022-11-23, 17:16:35",
-      "https://news.ycombinator.com/item?id=33721870"
-    ],
-    [
-      "Show HN: Benthos Studio – A modern take on Yahoo Pipes",
-      "https://studio.benthos.dev/"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 17:01:36",
       "https://news.ycombinator.com/item?id=33721693"
     ],
@@ -177,16 +157,6 @@
     [
       "Writing by hand is still the best way to retain information",
       "https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 15:26:18",
-      "https://news.ycombinator.com/item?id=33720330"
-    ],
-    [
-      "Porting 58k lines of D and C++ to Jai",
-      "https://www.yet-another-blog.com/porting_the_game_to_jai_part0/"
     ]
   ],
   [
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2022-11-23, 10:17:08",
+      "https://news.ycombinator.com/item?id=33717323"
+    ],
+    [
+      "Building a custom code search index in Go",
+      "https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 08:15:52",
       "https://news.ycombinator.com/item?id=33716486"
     ],
@@ -267,6 +247,26 @@
     [
       "Emacs: Feature/tree-sitter merged into master",
       "https://lists.gnu.org/archive/html/emacs-devel/2022-11/msg01443.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 04:25:07",
+      "https://news.ycombinator.com/item?id=33715146"
+    ],
+    [
+      "The Names of All Manner of Hounds: Inventory in a Fifteenth-Century Manuscript",
+      "https://www.researchgate.net/publication/257920157_The_Names_of_All_Manner_of_Hounds_A_Unique_Inventory_in_a_Fifteenth-Century_Manuscript"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 00:59:09",
+      "https://news.ycombinator.com/item?id=33713713"
+    ],
+    [
+      "Understanding USB Type C: Cable Types, Pitfalls and More",
+      "https://learn.adafruit.com/understanding-usb-type-c-cable-types-pitfalls-and-more"
     ]
   ],
   [
