@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-11-23, 03:58:42",
-      "https://news.ycombinator.com/item?id=33715007"
-    ],
-    [
-      "Longtermism, or How to Get-Out-of-Caring While Feeling Moral and Smart",
-      "https://www.pestemag.com/books-before-you-die-or-after/longtermism-or-how-to-get-out-of-caring-while-feeling-moral-and-smart-s52gf-6tzmf"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 03:53:10",
       "https://news.ycombinator.com/item?id=33714963"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33713765"
     ],
     [
-      "Department of Defense Releases Zero Trust Strategy and Roadmap",
+      "Zero Trust Strategy and Roadmap",
       "https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "CICERO: An AI agent that negotiates, persuades, and cooperates with people",
       "https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 14:49:32",
+      "https://news.ycombinator.com/item?id=33706380"
+    ],
+    [
+      "Brotli-G: A GPU compression/decompression standard for digital assets",
+      "https://gpuopen.com/brotli-g-sdk-announce/"
     ]
   ],
   [
