@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-24, 00:45:18",
+      "https://news.ycombinator.com/item?id=33726496"
+    ],
+    [
+      "The SF Police Dept is requesting permission for their robots to use deadly force",
+      "https://localtoday.news/ca/the-san-francisco-police-department-is-requesting-permission-for-their-robots-to-use-deadly-force-142138.html"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 21:34:12",
       "https://news.ycombinator.com/item?id=33724826"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33724759"
     ],
     [
-      "Socrates on the Forgetfulness That Comes with Writing",
+      "Socrates on the forgetfulness that comes with writing",
       "https://newlearningonline.com/literacies/chapter-1/socrates-on-the-forgetfulness-that-comes-with-writing"
     ]
   ],
@@ -51,22 +61,12 @@
   ],
   [
     [
-      "2022-11-23, 20:48:31",
-      "https://news.ycombinator.com/item?id=33724337"
+      "2022-11-23, 20:41:21",
+      "https://news.ycombinator.com/item?id=33724253"
     ],
     [
-      "2 Years at Twitter",
-      "https://eed3si9n.com/2years-at-twitter/"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 20:45:42",
-      "https://news.ycombinator.com/item?id=33724307"
-    ],
-    [
-      "Smithsonian Native Cinema Showcase Brings Indigenous Films to Online Audiences",
-      "https://www.si.edu/newsdesk/releases/online-native-cinema-showcase-brings-indigenous-films-audiences-worldwide"
+      "Guide to Lock Convoys",
+      "https://davekilian.com/lock-convoys.html"
     ]
   ],
   [
@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2022-11-23, 18:35:19",
-      "https://news.ycombinator.com/item?id=33722906"
-    ],
-    [
-      "Building the PiDP-11 Dec PDP-11 Replica Minicomputer",
-      "https://bigdanzblog.wordpress.com/2022/11/22/building-the-pidp-11-dec-pdp-11-replica-minicomputer/"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 18:32:47",
       "https://news.ycombinator.com/item?id=33722862"
     ],
@@ -117,16 +107,6 @@
     [
       "Show HN: I built an app that scans every social media network for your username",
       "https://www.handlefinder.com/"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 17:47:51",
-      "https://news.ycombinator.com/item?id=33722282"
-    ],
-    [
-      "Valve Introduces Proton Next",
-      "https://linuxgamingcentral.com/posts/valve-introduces-proton-next/"
     ]
   ],
   [
@@ -161,12 +141,32 @@
   ],
   [
     [
+      "2022-11-23, 16:16:16",
+      "https://news.ycombinator.com/item?id=33721075"
+    ],
+    [
+      "A programmer-friendly I/O abstraction over io_uring and kqueue",
+      "https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 15:45:15",
       "https://news.ycombinator.com/item?id=33720602"
     ],
     [
       "Writing by hand is still the best way to retain information",
       "https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 15:26:18",
+      "https://news.ycombinator.com/item?id=33720330"
+    ],
+    [
+      "Porting 58k lines of D and C++ to Jai",
+      "https://www.yet-another-blog.com/porting_the_game_to_jai_part0/"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=33715986"
     ],
     [
-      "Hexagonal Architecture vs. Free Monad",
+      "Hexagonal Architecture vs. Free Monad (2017)",
       "https://deque.blog/2017/07/06/hexagonal-architecture-a-less-declarative-free-monad/"
     ]
   ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-11-23, 00:59:09",
-      "https://news.ycombinator.com/item?id=33713713"
-    ],
-    [
-      "Understanding USB Type C: Cable Types, Pitfalls and More",
-      "https://learn.adafruit.com/understanding-usb-type-c-cable-types-pitfalls-and-more"
-    ]
-  ],
-  [
-    [
       "2022-11-22, 22:08:41",
       "https://news.ycombinator.com/item?id=33712243"
     ],
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2022-11-22, 10:29:40",
-      "https://news.ycombinator.com/item?id=33704206"
+      "2022-11-22, 19:09:36",
+      "https://news.ycombinator.com/item?id=33709799"
     ],
     [
-      "Rewriting (and optimizing) a tree-walking interpreter in Rust",
-      "https://www.dannyvankooten.com/blog/2022-12-rewriting-interpreter-rust/"
+      "The case for dynamic, functional programming",
+      "https://www.onebigfluke.com/2022/11/the-case-for-dynamic-functional.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 13:22:15",
+      "https://news.ycombinator.com/item?id=33705450"
+    ],
+    [
+      "Lost 8th century Japanese medical text by Buddhist monk has been found",
+      "https://arstechnica.com/science/2022/11/lost-8th-century-japanese-medical-text-by-buddhist-monk-has-been-found/"
     ]
   ],
   [
