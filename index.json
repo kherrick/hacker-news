@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-11-23, 16:16:16",
-      "https://news.ycombinator.com/item?id=33721075"
-    ],
-    [
-      "A programmer-friendly I/O abstraction over io_uring and kqueue",
-      "https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 15:45:15",
       "https://news.ycombinator.com/item?id=33720602"
     ],
@@ -237,6 +227,16 @@
     [
       "An interactive guide to Flexbox",
       "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 09:04:29",
+      "https://news.ycombinator.com/item?id=33716799"
+    ],
+    [
+      "Emacs on an iPad",
+      "https://andschwa.com/posts/emacs-on-an-ipad/"
     ]
   ],
   [
