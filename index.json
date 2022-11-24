@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-24, 19:08:58",
+      "https://news.ycombinator.com/item?id=33735105"
+    ],
+    [
+      "Underrated Reasons to Be Thankful",
+      "https://dynomight.substack.com/p/thanks-2"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 19:08:17",
+      "https://news.ycombinator.com/item?id=33735101"
+    ],
+    [
+      "Go-Fed: ActivityPub in Go",
+      "https://go-fed.org/"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 18:44:13",
+      "https://news.ycombinator.com/item?id=33734846"
+    ],
+    [
+      "Introduction to Genomics for Engineers",
+      "https://learngenomics.dev/"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 18:38:41",
       "https://news.ycombinator.com/item?id=33734771"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2022-11-24, 12:14:03",
-      "https://news.ycombinator.com/item?id=33730436"
-    ],
-    [
-      "The Mystery of the Blue Whale Songs",
-      "https://nautil.us/the-mystery-of-the-blue-whale-songs-248099/"
-    ]
-  ],
-  [
-    [
       "2022-11-24, 12:11:48",
       "https://news.ycombinator.com/item?id=33730417"
     ],
@@ -191,22 +211,22 @@
   ],
   [
     [
-      "2022-11-24, 10:27:25",
-      "https://news.ycombinator.com/item?id=33729694"
-    ],
-    [
-      "Stable Diffusion 2.0 on Mac and Linux via imaginAIry Python library",
-      "https://github.com/brycedrennan/imaginAIry"
-    ]
-  ],
-  [
-    [
       "2022-11-24, 09:30:35",
       "https://news.ycombinator.com/item?id=33729345"
     ],
     [
       "maps.google.com now redirects to google.com/maps",
       "https://garrit.xyz/posts/2022-11-24-smart-move-google"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 07:06:54",
+      "https://news.ycombinator.com/item?id=33728529"
+    ],
+    [
+      "Generally Intelligent (YC S17) Is Hiring Simulation Engineers",
+      "https://news.ycombinator.com/item?id=33728529"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Ccache – a fast C/C++ compiler cache",
       "https://ccache.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 23:06:45",
-      "https://news.ycombinator.com/item?id=33712831"
-    ],
-    [
-      "Staying in Zumthor's Swiss Wooden Cabin",
-      "https://abhvio.us/posts/oberhus/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 21:25:59",
-      "https://news.ycombinator.com/item?id=33711724"
-    ],
-    [
-      "Subtext - A multi-user BBS server for classic macOS",
-      "https://jcs.org/subtext"
     ]
   ],
   [
