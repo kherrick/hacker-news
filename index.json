@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-24, 16:08:19",
+      "https://news.ycombinator.com/item?id=33732913"
+    ],
+    [
+      "Tell HN: Happy ThanksGiving",
+      "https://news.ycombinator.com/item?id=33732913"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 15:30:15",
+      "https://news.ycombinator.com/item?id=33732421"
+    ],
+    [
+      "Show HN: Pokemon Emerald Randomizer",
+      "https://github.com/Cloudef/pokeemerald-randomizer"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 15:29:47",
       "https://news.ycombinator.com/item?id=33732414"
     ],
@@ -17,16 +37,6 @@
     [
       "Inverting a binary tree using x64 assembly",
       "https://sanket.tech/posts/invert_binary_tree_assembly/"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 14:49:17",
-      "https://news.ycombinator.com/item?id=33731866"
-    ],
-    [
-      "Proof of work is temporarily illegal in New York",
-      "https://mastodon.social/@thefirstred/109397286530098299"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Compiler Errors for Humans (2015)",
       "https://elm-lang.org/news/compiler-errors-for-humans"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 14:12:06",
-      "https://news.ycombinator.com/item?id=33731430"
-    ],
-    [
-      "On the Usefulness of Photography",
-      "https://simonsarris.substack.com/p/on-the-usefulness-of-photography"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-11-24, 01:43:35",
-      "https://news.ycombinator.com/item?id=33726947"
-    ],
-    [
-      "Rebuilding after the replication crisis",
-      "https://asteriskmag.com/issues/1/rebuilding-after-the-replication-crisis"
-    ]
-  ],
-  [
-    [
       "2022-11-24, 01:29:31",
       "https://news.ycombinator.com/item?id=33726831"
     ],
@@ -227,6 +217,16 @@
     [
       "Stable Diffusion 2.0",
       "https://stability.ai/blog/stable-diffusion-v2-release"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 09:35:59",
+      "https://news.ycombinator.com/item?id=33717028"
+    ],
+    [
+      "Mosh: An Interactive Remote Shell for Mobile Clients (2012) [pdf]",
+      "https://mosh.org/mosh-paper.pdf"
     ]
   ],
   [
