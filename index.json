@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-11-24, 21:08:39",
-      "https://news.ycombinator.com/item?id=33736259"
-    ],
-    [
-      "Apple is becoming an ad company despite privacy claims",
-      "https://proton.me/blog/apple-ad-company"
-    ]
-  ],
-  [
-    [
       "2022-11-24, 20:56:06",
       "https://news.ycombinator.com/item?id=33736133"
     ],
@@ -21,12 +11,42 @@
   ],
   [
     [
+      "2022-11-24, 20:50:08",
+      "https://news.ycombinator.com/item?id=33736076"
+    ],
+    [
+      "Why it’s hard to buy deodorant in Manhattan",
+      "https://www.economist.com/united-states/2022/11/24/why-its-hard-to-buy-deodorant-in-manhattan"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 20:42:30",
+      "https://news.ycombinator.com/item?id=33736003"
+    ],
+    [
+      "StackStorm (a.k.a. “IFTTT for Ops”) is event-driven automation",
+      "https://github.com/StackStorm/st2"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 20:32:29",
       "https://news.ycombinator.com/item?id=33735902"
     ],
     [
       "High-level Rust library for the Activitypub protocol",
       "https://github.com/LemmyNet/activitypub-federation-rust"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 20:29:09",
+      "https://news.ycombinator.com/item?id=33735866"
+    ],
+    [
+      "Movetodon: Find your Twitter friends on Mastodon",
+      "https://movetodon.org/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-11-24, 17:44:06",
-      "https://news.ycombinator.com/item?id=33734052"
-    ],
-    [
-      "Alice’s Restaurant: An American Thanksgiving Tradition",
-      "https://nysmusic.com/2021/11/25/alices-restaurant-an-american-thanksgiving-tradition/"
-    ]
-  ],
-  [
-    [
       "2022-11-24, 16:12:28",
       "https://news.ycombinator.com/item?id=33732969"
     ],
@@ -197,16 +207,6 @@
     [
       "Almost everything on Amazon is becoming an ad",
       "https://www.washingtonpost.com/technology/interactive/2022/amazon-shopping-ads/"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 12:53:56",
-      "https://news.ycombinator.com/item?id=33730760"
-    ],
-    [
-      "Show HN: Speed up your site by running JavaScript when the browser is idle",
-      "https://www.npmjs.com/package/idle-task"
     ]
   ],
   [
