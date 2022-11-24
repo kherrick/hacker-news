@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-11-24, 20:56:06",
-      "https://news.ycombinator.com/item?id=33736133"
-    ],
-    [
-      "Ask HN: Is it just me?",
-      "https://news.ycombinator.com/item?id=33736133"
-    ]
-  ],
-  [
-    [
       "2022-11-24, 20:50:08",
       "https://news.ycombinator.com/item?id=33736076"
     ],
@@ -35,18 +25,18 @@
       "https://news.ycombinator.com/item?id=33736003"
     ],
     [
-      "StackStorm (a.k.a. “IFTTT for Ops”) is event-driven automation",
+      "StackStorm: Event-driven automation",
       "https://github.com/StackStorm/st2"
     ]
   ],
   [
     [
-      "2022-11-24, 20:32:29",
-      "https://news.ycombinator.com/item?id=33735902"
+      "2022-11-24, 20:29:09",
+      "https://news.ycombinator.com/item?id=33735866"
     ],
     [
-      "High-level Rust library for the Activitypub protocol",
-      "https://github.com/LemmyNet/activitypub-federation-rust"
+      "Movetodon: Find your Twitter friends on Mastodon",
+      "https://movetodon.org/"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2022-11-24, 12:53:56",
+      "https://news.ycombinator.com/item?id=33730760"
+    ],
+    [
+      "Show HN: Speed up your site by running JavaScript when the browser is idle",
+      "https://www.npmjs.com/package/idle-task"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 12:11:48",
       "https://news.ycombinator.com/item?id=33730417"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-11-23, 08:14:47",
+      "https://news.ycombinator.com/item?id=33716482"
+    ],
+    [
+      "Programmimg Pearls (1985)",
+      "https://dl.acm.org/doi/10.1145/4284.315122"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 07:47:22",
       "https://news.ycombinator.com/item?id=33716353"
     ],
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2022-11-23, 06:37:43",
+      "https://news.ycombinator.com/item?id=33715945"
+    ],
+    [
+      "Ccache – a fast C/C++ compiler cache",
+      "https://ccache.dev/"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 19:09:15",
       "https://news.ycombinator.com/item?id=33709793"
     ],
     [
       "Subtext – A multi-user BBS server for classic macOS",
       "https://jcs.org/subtext"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 11:02:55",
-      "https://news.ycombinator.com/item?id=33704435"
-    ],
-    [
-      "‘Some things never leave you’: Poverty’s indelible marks",
-      "https://longreads.com/2022/10/11/some-things-never-leave-you-christian-livermore-on-povertys-indelible-marks/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 10:05:50",
-      "https://news.ycombinator.com/item?id=33704056"
-    ],
-    [
-      "Music Studio: Windows-based C64 SID music creator software",
-      "https://martin-piper.itch.io/musicstudio"
     ]
   ]
 ]
