@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2022-11-25, 16:40:01",
+      "https://news.ycombinator.com/item?id=33744106"
+    ],
+    [
+      "Hurl, run and test HTTP requests with plain text",
+      "https://github.com/Orange-OpenSource/hurl"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 16:32:44",
+      "https://news.ycombinator.com/item?id=33743994"
+    ],
+    [
+      "Black Friday Deals (macOS apps, SaaS, Books, Courses, etc.)",
+      "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 16:28:56",
       "https://news.ycombinator.com/item?id=33743945"
     ],
@@ -47,16 +67,6 @@
     [
       "Azure has run out of compute. Anyone else affected?",
       "https://news.ycombinator.com/item?id=33743567"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 14:54:51",
-      "https://news.ycombinator.com/item?id=33742899"
-    ],
-    [
-      "Ask HN: Any good black Friday deals?",
-      "https://news.ycombinator.com/item?id=33742899"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-11-25, 12:07:45",
-      "https://news.ycombinator.com/item?id=33741634"
-    ],
-    [
-      "Code Puzzle: \"Parsons puzzles\" generator and manager",
-      "https://www.codepuzzle.io/en"
-    ]
-  ],
-  [
-    [
       "2022-11-25, 09:44:33",
       "https://news.ycombinator.com/item?id=33740824"
     ],
@@ -237,6 +237,16 @@
     [
       "&#x27;Very scary&#x27; issue dialing 911 on Google Pixel 6 cell phones",
       "https://www.actionnewsjax.com/news/local/investigates-very-scary-cell-phone-issue-dialing-911/ZNT76HVHRRCB5AUVRTT7JL43DM/"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 05:27:28",
+      "https://news.ycombinator.com/item?id=33739533"
+    ],
+    [
+      "How 'bin chickens' learnt to wash poisonous cane toads",
+      "https://www.bbc.com/news/world-australia-63699884"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I over-engineered a Fast Fourier Transform for Arduino",
       "https://klafyvel.me/blog/articles/fft-arduino/"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 11:23:19",
-      "https://news.ycombinator.com/item?id=33717831"
-    ],
-    [
-      "Pattern matching and tail recursion in Emacs Lisp",
-      "https://arnesonium.com/2022/11/pattern-matching-tail-recursion-emacs-lisp"
     ]
   ]
 ]
