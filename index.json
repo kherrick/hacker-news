@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-25, 22:34:05",
+      "https://news.ycombinator.com/item?id=33747554"
+    ],
+    [
+      "Show HN: Open-Source Page Block Builder with Remix and Tailwind CSS",
+      "https://remix-page-blocks.vercel.app"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 22:05:58",
       "https://news.ycombinator.com/item?id=33747324"
     ],
@@ -17,6 +27,16 @@
     [
       "Meet your new two-factor authenticator: your Commodore 64",
       "http://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 21:53:23",
+      "https://news.ycombinator.com/item?id=33747231"
+    ],
+    [
+      "Ask HN: Is there a site that is just a text scratchpad?",
+      "https://news.ycombinator.com/item?id=33747231"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Hippotat: IP over HTTP",
       "https://diziet.dreamwidth.org/12934.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 18:49:00",
-      "https://news.ycombinator.com/item?id=33745537"
-    ],
-    [
-      "AutoGraff: Computational understanding of graffiti writing and related art forms [pdf]",
-      "https://www.enist.org/autograff_thesis.pdf"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A few examples of Lisp code typography (2013)",
       "http://kazimirmajorinc.com/Documents/Lisp-code-typography/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 20:06:52",
-      "https://news.ycombinator.com/item?id=33723886"
-    ],
-    [
-      "Why Domain Driven Design?",
-      "https://yehohanan7.medium.com/why-domain-driven-design-203099adf32a"
     ]
   ]
 ]
