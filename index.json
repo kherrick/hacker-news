@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=33742438"
     ],
     [
-      "Greg Kroah Hartman on the Linux Kernel and How It Is Tested (2008)",
+      "Greg Kroah Hartman on the Linux Kernel and How It Is Tested (2008) [video]",
       "https://www.youtube.com/watch?v=L2SED6sewRw"
     ]
   ],
@@ -27,6 +27,26 @@
     [
       "Playstation 6 Release Leaked",
       "https://hypebeast.com/2022/11/sony-playstation-6-ps6-release-date-leak-news"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 13:49:18",
+      "https://news.ycombinator.com/item?id=33742326"
+    ],
+    [
+      "Rice’s Theorem: An interactive tutorial",
+      "https://busy-beavers.tigyog.app/rice"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 13:43:33",
+      "https://news.ycombinator.com/item?id=33742283"
+    ],
+    [
+      "First-ever physical model consistent with the history of the Earth-Moon system",
+      "https://news.cnrs.fr/articles/first-ever-physical-model-consistent-with-the-history-of-the-earth-moon-system"
     ]
   ],
   [
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2022-11-25, 13:07:23",
+      "https://news.ycombinator.com/item?id=33742018"
+    ],
+    [
+      "The Art and Science of Cause and Effect (1996)",
+      "http://singapore.cs.ucla.edu/LECTURE/lecture_sec1.htm"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 12:57:10",
       "https://news.ycombinator.com/item?id=33741952"
     ],
@@ -71,12 +101,32 @@
   ],
   [
     [
+      "2022-11-25, 12:21:24",
+      "https://news.ycombinator.com/item?id=33741727"
+    ],
+    [
+      "Noosphere, a Protocol for Thought",
+      "https://subconscious.substack.com/p/noosphere-a-protocol-for-thought"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 12:15:12",
       "https://news.ycombinator.com/item?id=33741688"
     ],
     [
       "Jqjq: Jq Implementation of Jq",
       "https://github.com/wader/jqjq"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 12:14:40",
+      "https://news.ycombinator.com/item?id=33741685"
+    ],
+    [
+      "Oldest software system in continuous use – Guinness World Records",
+      "https://www.guinnessworldrecords.com/world-records/636196-oldest-software-system-in-continuous-use"
     ]
   ],
   [
@@ -151,26 +201,6 @@
   ],
   [
     [
-      "2022-11-25, 06:46:41",
-      "https://news.ycombinator.com/item?id=33739919"
-    ],
-    [
-      "Whales dying from consuming plastics",
-      "https://adetokunbo.substack.com/p/whales-dying-from-consuming-plastics"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 05:40:27",
-      "https://news.ycombinator.com/item?id=33739599"
-    ],
-    [
-      "Garlic Mustard: Invasive, Destructive, Edible (2020)",
-      "https://www.nature.org/en-us/about-us/where-we-work/united-states/indiana/stories-in-indiana/garlic-mustard/"
-    ]
-  ],
-  [
-    [
       "2022-11-25, 05:38:06",
       "https://news.ycombinator.com/item?id=33739583"
     ],
@@ -197,26 +227,6 @@
     [
       "Writing docs well: why should a software engineer care?",
       "https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 23:24:34",
-      "https://news.ycombinator.com/item?id=33737344"
-    ],
-    [
-      "Show HN: A decentralized semantic web built atop Activity Pub",
-      "https://github.com/chatternet/chatternet-client-http"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 23:10:01",
-      "https://news.ycombinator.com/item?id=33737258"
-    ],
-    [
-      "Show HN: FIFA Interactive Bracket (World Cup)",
-      "https://worldcup.cole.ws/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Pattern matching and tail recursion in Emacs Lisp",
       "https://arnesonium.com/2022/11/pattern-matching-tail-recursion-emacs-lisp"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 08:03:42",
-      "https://news.ycombinator.com/item?id=33716429"
-    ],
-    [
-      "Tumblr to Add Support for ActivityPub",
-      "https://techcrunch.com/2022/11/21/tumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps/"
     ]
   ],
   [
