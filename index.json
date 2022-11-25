@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-11-25, 18:58:22",
-      "https://news.ycombinator.com/item?id=33745624"
-    ],
-    [
-      "Miami-Dade County, stuck in a 19-year contract with FTX, seeks to rename arena",
-      "https://www.npr.org/2022/11/24/1139164190/ftx-bankruptcy-miami-heat-arena-naming-rights"
-    ]
-  ],
-  [
-    [
       "2022-11-25, 18:21:00",
       "https://news.ycombinator.com/item?id=33745267"
     ],
@@ -67,16 +57,6 @@
     [
       "KDE runs on the Apple M2 with full GPU acceleration",
       "https://vt.social/@lina/109405566112910885"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 17:18:05",
-      "https://news.ycombinator.com/item?id=33744597"
-    ],
-    [
-      "BunnyCDN Domain Banned in Turkey",
-      "https://status.bunny.net/incidents/jlnsmzyzdghg"
     ]
   ],
   [
@@ -141,12 +121,22 @@
   ],
   [
     [
-      "2022-11-25, 14:02:23",
-      "https://news.ycombinator.com/item?id=33742438"
+      "2022-11-25, 14:43:37",
+      "https://news.ycombinator.com/item?id=33742790"
     ],
     [
-      "Greg Kroah Hartman on the Linux Kernel and How It Is Tested (2008) [video]",
-      "https://www.youtube.com/watch?v=L2SED6sewRw"
+      "89 Operating Systems",
+      "https://daniel.haxx.se/blog/2022/11/25/89-operating-systems/"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 14:16:40",
+      "https://news.ycombinator.com/item?id=33742563"
+    ],
+    [
+      "Cloudflare servers don't own IPs anymore so how do they connect to the internet?",
+      "https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2022-11-25, 09:44:33",
+      "https://news.ycombinator.com/item?id=33740824"
+    ],
+    [
+      "Parasite gives wolves what it takes to be pack leaders",
+      "https://www.nature.com/articles/d41586-022-03836-9"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 09:23:44",
       "https://news.ycombinator.com/item?id=33740700"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=33740180"
     ],
     [
-      "Spreading Deadly Pathogens Under the Disguise of Popular Music",
+      "Spreading deadly pathogens under the disguise of popular music",
       "https://dl.acm.org/doi/10.1145/3548606.3560643"
     ]
   ],
@@ -247,6 +247,16 @@
     [
       "'Bin chickens' learned to wash poisonous cane toads",
       "https://www.bbc.com/news/world-australia-63699884"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 05:16:50",
+      "https://news.ycombinator.com/item?id=33739468"
+    ],
+    [
+      "My Review of Sonic Frontiers",
+      "https://xeiaso.net/blog/sonic-frontiers"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Why Domain Driven Design?",
       "https://yehohanan7.medium.com/why-domain-driven-design-203099adf32a"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 11:24:59",
-      "https://news.ycombinator.com/item?id=33717847"
-    ],
-    [
-      "I over-engineered a Fast Fourier Transform for Arduino",
-      "https://klafyvel.me/blog/articles/fft-arduino/"
     ]
   ]
 ]
