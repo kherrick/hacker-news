@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-11-25, 05:51:36",
+      "https://news.ycombinator.com/item?id=33739657"
+    ],
+    [
+      "University offers investigation into Oracle finance disaster",
+      "https://www.theregister.com/2022/11/23/edinburgh_university_oracle_investigation/"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 04:11:38",
       "https://news.ycombinator.com/item?id=33739094"
     ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2022-11-24, 19:25:35",
+      "https://news.ycombinator.com/item?id=33735252"
+    ],
+    [
+      "Cancer vaccines: the next immunotherapy frontier",
+      "https://www.nature.com/articles/s43018-022-00418-6"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 18:44:13",
       "https://news.ycombinator.com/item?id=33734846"
     ],
@@ -157,16 +177,6 @@
     [
       "Ask HN: Books about full text search?",
       "https://news.ycombinator.com/item?id=33734259"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 17:51:36",
-      "https://news.ycombinator.com/item?id=33734147"
-    ],
-    [
-      "Show HN: WinkNLP delivers 600k tokens/second speed on browsers (MBP M1)",
-      "https://github.com/winkjs/wink-nlp"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Pattern matching and tail recursion in Emacs Lisp",
       "https://arnesonium.com/2022/11/pattern-matching-tail-recursion-emacs-lisp"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 09:40:27",
-      "https://news.ycombinator.com/item?id=33717061"
-    ],
-    [
-      "Heterogeneous-Memory Storage Engine",
-      "https://hse-project.github.io/3.x"
     ]
   ],
   [
