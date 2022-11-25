@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-25, 00:59:23",
+      "https://news.ycombinator.com/item?id=33737913"
+    ],
+    [
+      "Show HN: A new way to do footnotes",
+      "https://try.scroll.pub/#scroll%0A%20%23%20Footnotes%20beta%20test%0A%20%0A%20*%20This%20demo%20shows%20a%20new%20idea%20for%20how%20to%20do%20footnotes%20in%20Scroll%5Escroll.%0A%20%0A%20%5Escroll%20Scroll%20is%20a%20new%20language%20and%20static%20site%20publishing%20tool.%20It%20is%20an%20extensible%20alternative%20to%20markdown.%0A%20%20https%3A%2F%2Fscroll.pub%20Scroll%0A%20%0A%20*%20Scroll%20was%20started%20by%20a%20kid%20from%20Brockton%20which%20is%20a%20city%20in%20Massachusetts%5Estate.%20Brockton%20was%20incorporated%20in%201881%5Einc.%20%0A%20%20https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBrockton%2C_Massachusetts%20Brockton%0A%20%0A%20%5Estate%20A%20state%20in%20the%20United%20States.%0A%20%0A%20%5Einc%20Brockton%20was%20incorporated%20as%20a%20city%20in%201881%2C%20but%20as%20a%20town%20in%201821.%20Wikipedia.%0A%20%20https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBrockton%2C_Massachusetts%20Wikipedia%0A%20%0A%20%23%23%20Footnotes%0A%20%0A%20notes"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 00:34:01",
+      "https://news.ycombinator.com/item?id=33737746"
+    ],
+    [
+      "Congressmembers Tried to Stop the SEC’s Inquiry into FTX",
+      "https://prospect.org/power/congressmembers-tried-to-stop-secs-inquiry-into-ftx/"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 23:24:34",
       "https://news.ycombinator.com/item?id=33737344"
     ],
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2022-11-24, 19:35:10",
+      "https://news.ycombinator.com/item?id=33735349"
+    ],
+    [
+      "Mate with only pawns and no promotions",
+      "https://www.amolas.dev/blog/mate-with-only-pawns/"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 19:25:35",
       "https://news.ycombinator.com/item?id=33735252"
     ],
@@ -87,16 +117,6 @@
     [
       "Introduction to Genomics for Engineers",
       "https://learngenomics.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 18:38:41",
-      "https://news.ycombinator.com/item?id=33734771"
-    ],
-    [
-      "BBC documentary used face-swapping AI to hide protesters' identities",
-      "https://www.newscientist.com/article/2348197-bbc-documentary-used-face-swapping-ai-to-hide-protesters-identities/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-11-24, 16:12:25",
-      "https://news.ycombinator.com/item?id=33732965"
-    ],
-    [
-      "FTX’s ownership of a U.S. bank raises questions",
-      "https://www.nytimes.com/2022/11/23/business/ftx-cryptocurrency-bank.html"
-    ]
-  ],
-  [
-    [
       "2022-11-24, 16:08:19",
       "https://news.ycombinator.com/item?id=33732913"
     ],
@@ -181,42 +191,12 @@
   ],
   [
     [
-      "2022-11-24, 14:29:32",
-      "https://news.ycombinator.com/item?id=33731626"
-    ],
-    [
-      "Compiler Errors for Humans (2015)",
-      "https://elm-lang.org/news/compiler-errors-for-humans"
-    ]
-  ],
-  [
-    [
       "2022-11-24, 14:00:55",
       "https://news.ycombinator.com/item?id=33731342"
     ],
     [
       "Almost everything on Amazon is becoming an ad",
       "https://www.washingtonpost.com/technology/interactive/2022/amazon-shopping-ads/"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 12:11:48",
-      "https://news.ycombinator.com/item?id=33730417"
-    ],
-    [
-      "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "https://github.com/MichaelMure/git-bug"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 09:30:35",
-      "https://news.ycombinator.com/item?id=33729345"
-    ],
-    [
-      "maps.google.com now redirects to google.com/maps",
-      "https://garrit.xyz/posts/2022-11-24-smart-move-google"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2022-11-23, 07:56:28",
+      "https://news.ycombinator.com/item?id=33716398"
+    ],
+    [
+      "Beyond the Code: Deploying Empathy",
+      "https://www.youtube.com/watch?v=RRp_NwBmcXw"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 07:47:22",
       "https://news.ycombinator.com/item?id=33716353"
     ],
     [
       "Life in the slow lane: how the slow cooker changed the world",
       "https://longreads.com/2022/11/17/life-in-the-slow-lane/"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 20:49:18",
+      "https://news.ycombinator.com/item?id=33711302"
+    ],
+    [
+      "The Making of Dr. Strangelove (2013) [video]",
+      "https://www.youtube.com/watch?v=iJ6BiRtGTAk"
     ]
   ],
   [
