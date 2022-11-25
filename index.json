@@ -75,8 +75,8 @@
       "https://news.ycombinator.com/item?id=33744106"
     ],
     [
-      "Hurl, run and test HTTP requests with plain text https://hurl.dev/",
-      "https://github.com/Orange-OpenSource/hurl"
+      "Hurl: Run and test HTTP requests with plain text",
+      "https://hurl.dev/"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Ask HN: Azure has run out of compute – anyone else affected?",
       "https://news.ycombinator.com/item?id=33743567"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 14:43:37",
+      "https://news.ycombinator.com/item?id=33742790"
+    ],
+    [
+      "89 Operating Systems",
+      "https://daniel.haxx.se/blog/2022/11/25/89-operating-systems/"
     ]
   ],
   [
@@ -195,18 +205,8 @@
       "https://news.ycombinator.com/item?id=33741685"
     ],
     [
-      "Oldest software system in continuous use – Guinness World Records",
+      "Oldest software system in continuous use",
       "https://www.guinnessworldrecords.com/world-records/636196-oldest-software-system-in-continuous-use"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 09:44:33",
-      "https://news.ycombinator.com/item?id=33740824"
-    ],
-    [
-      "Parasite gives wolves what it takes to be pack leaders",
-      "https://www.nature.com/articles/d41586-022-03836-9"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=33736005"
     ],
     [
-      "A Few Examples of Lisp Code Typography",
+      "A few examples of Lisp code typography (2013)",
       "http://kazimirmajorinc.com/Documents/Lisp-code-typography/index.html"
     ]
   ],
