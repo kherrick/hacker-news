@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-26, 02:21:38",
+      "https://news.ycombinator.com/item?id=33749223"
+    ],
+    [
+      "Tom Brady, Giselle Bündchen, Larry David Sued in FTX Class Action Suit",
+      "https://deadline.com/2022/11/tom-brady-giselle-bundchen-ftx-lawsuit-larry-david-steph-curry-crypto-1235174541/"
+    ]
+  ],
+  [
+    [
       "2022-11-26, 01:34:45",
       "https://news.ycombinator.com/item?id=33748949"
     ],
@@ -121,22 +131,12 @@
   ],
   [
     [
-      "2022-11-25, 18:49:00",
-      "https://news.ycombinator.com/item?id=33745537"
+      "2022-11-25, 18:21:00",
+      "https://news.ycombinator.com/item?id=33745267"
     ],
     [
-      "AutoGraff: Computational understanding of graffiti writing and related art forms [pdf]",
-      "https://www.enist.org/autograff_thesis.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 18:41:35",
-      "https://news.ycombinator.com/item?id=33745446"
-    ],
-    [
-      "Thoughts on compile-time function evaluation and type systems (2018)",
-      "https://www.ralfj.de/blog/2018/07/19/const.html"
+      "A meta-analysis of the effects of trigger warnings and content notes",
+      "https://osf.io/qav9m/"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-11-25, 16:27:00",
-      "https://news.ycombinator.com/item?id=33743923"
-    ],
-    [
-      "Keep the Internet free and open (2012)",
-      "https://blog.google/outreach-initiatives/public-policy/keep-internet-free-and-open/"
-    ]
-  ],
-  [
-    [
       "2022-11-25, 14:16:40",
       "https://news.ycombinator.com/item?id=33742563"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2022-11-25, 12:28:20",
-      "https://news.ycombinator.com/item?id=33741771"
-    ],
-    [
-      "Volkswagen Originalteil",
-      "https://www.atlasobscura.com/foods/volkswagen-originalteil-sausages"
-    ]
-  ],
-  [
-    [
       "2022-11-25, 12:21:24",
       "https://news.ycombinator.com/item?id=33741727"
     ],
@@ -257,6 +237,16 @@
     [
       "Oldest software system in continuous use",
       "https://www.guinnessworldrecords.com/world-records/636196-oldest-software-system-in-continuous-use"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 08:31:21",
+      "https://news.ycombinator.com/item?id=33740418"
+    ],
+    [
+      "Figuring out round, floor and ceil with integer division",
+      "http://blog.pkh.me/p/36-figuring-out-round%2C-floor-and-ceil-with-integer-division.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A few examples of Lisp code typography (2013)",
       "http://kazimirmajorinc.com/Documents/Lisp-code-typography/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 22:52:32",
+      "https://news.ycombinator.com/item?id=33725541"
+    ],
+    [
+      "The Huxleys electrified evolution",
+      "https://www.newyorker.com/magazine/2022/11/28/how-the-huxleys-electrified-evolution"
     ]
   ]
 ]
