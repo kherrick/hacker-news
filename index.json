@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-26, 10:41:33",
+      "https://news.ycombinator.com/item?id=33751589"
+    ],
+    [
+      "Clojure at the REPL: Data Visualization",
+      "https://clojure.org/guides/repl/data_visualization_at_the_repl#_graphical_and_web_based_visualizations"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 09:24:01",
+      "https://news.ycombinator.com/item?id=33751266"
+    ],
+    [
+      "I/O is no longer the bottleneck",
+      "https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/"
+    ]
+  ],
+  [
+    [
       "2022-11-26, 08:49:05",
       "https://news.ycombinator.com/item?id=33751099"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-11-25, 18:53:24",
-      "https://news.ycombinator.com/item?id=33745580"
-    ],
-    [
-      "Hippotat: IP over HTTP",
-      "https://diziet.dreamwidth.org/12934.html"
-    ]
-  ],
-  [
-    [
       "2022-11-25, 18:19:33",
       "https://news.ycombinator.com/item?id=33745254"
     ],
@@ -187,16 +197,6 @@
     [
       "Making all your integers positive with zigzag encoding",
       "https://lemire.me/blog/2022/11/25/making-all-your-integers-positive-with-zigzag-encoding/"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 14:16:40",
-      "https://news.ycombinator.com/item?id=33742563"
-    ],
-    [
-      "Cloudflare servers don't own IPs anymore so how do they connect to the internet?",
-      "https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/"
     ]
   ],
   [
