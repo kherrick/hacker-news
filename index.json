@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-26, 08:02:40",
+      "https://news.ycombinator.com/item?id=33750825"
+    ],
+    [
+      "The Need to Read",
+      "http://paulgraham.com/read.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 08:02:16",
+      "https://news.ycombinator.com/item?id=33750819"
+    ],
+    [
+      "The Origins of Python – Lambert Meertens",
+      "https://inference-review.com/article/the-origins-of-python"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 07:21:31",
+      "https://news.ycombinator.com/item?id=33750654"
+    ],
+    [
+      "Act: Run your GitHub Actions locally",
+      "https://github.com/nektos/act"
+    ]
+  ],
+  [
+    [
       "2022-11-26, 07:11:11",
       "https://news.ycombinator.com/item?id=33750622"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2022-11-25, 18:41:35",
-      "https://news.ycombinator.com/item?id=33745446"
-    ],
-    [
-      "Thoughts on compile-time function evaluation and type systems (2018)",
-      "https://www.ralfj.de/blog/2018/07/19/const.html"
-    ]
-  ],
-  [
-    [
       "2022-11-25, 18:19:33",
       "https://news.ycombinator.com/item?id=33745254"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-11-25, 16:40:01",
-      "https://news.ycombinator.com/item?id=33744106"
-    ],
-    [
-      "Hurl: Run and test HTTP requests with plain text",
-      "https://hurl.dev/"
-    ]
-  ],
-  [
-    [
       "2022-11-25, 16:28:56",
       "https://news.ycombinator.com/item?id=33743945"
     ],
@@ -207,16 +217,6 @@
     [
       "Cloudflare servers don't own IPs anymore so how do they connect to the internet?",
       "https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 13:07:23",
-      "https://news.ycombinator.com/item?id=33742018"
-    ],
-    [
-      "The Art and Science of Cause and Effect (1996)",
-      "http://singapore.cs.ucla.edu/LECTURE/lecture_sec1.htm"
     ]
   ],
   [
