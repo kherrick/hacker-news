@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33750198"
     ],
     [
-      "Redox OS 0.8.0",
+      "Redox OS 0.8",
       "https://www.redox-os.org/news/release-0.8.0/"
     ]
   ],
@@ -35,18 +35,8 @@
       "https://news.ycombinator.com/item?id=33749927"
     ],
     [
-      "Investor Home Purchases Drop 30%",
+      "Investor home purchases drop 30%",
       "https://www.wsj.com/articles/investor-home-purchases-drop-30-as-rising-rates-high-prices-cool-housing-market-11669067972"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 03:57:01",
-      "https://news.ycombinator.com/item?id=33749757"
-    ],
-    [
-      "Forgejo – Launching a Fork of Gitea",
-      "https://codeberg.org/forgejo/forgejo"
     ]
   ],
   [
@@ -57,16 +47,6 @@
     [
       "The Impossible Port: MacOS",
       "https://blog.ryujinx.org/the-impossible-port-macos/"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 00:04:46",
-      "https://news.ycombinator.com/item?id=33748363"
-    ],
-    [
-      "Show HN: Open Source Bot That Summarizes Top Hacker News Stories Using GPT-3",
-      "https://github.com/jiggy-ai/hn_summary"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2022-11-25, 18:41:35",
+      "https://news.ycombinator.com/item?id=33745446"
+    ],
+    [
+      "Thoughts on compile-time function evaluation and type systems (2018)",
+      "https://www.ralfj.de/blog/2018/07/19/const.html"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 18:19:33",
       "https://news.ycombinator.com/item?id=33745254"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=33740536"
     ],
     [
-      "‘Gold Hydrogen’ Is an Untapped Resource in Depleted Oil Wells",
+      "‘Gold hydrogen’ is an untapped resource in depleted oil wells",
       "https://www.wired.co.uk/article/gold-hydrogen"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "iPod Nano V6 LCD Hacking",
       "https://www.electricstuff.co.uk/nanohack.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 23:03:39",
+      "https://news.ycombinator.com/item?id=33737207"
+    ],
+    [
+      "Editing Binaries in DOS (2002)",
+      "https://susam.net/blog/editing-binaries-in-dos.html"
     ]
   ],
   [
