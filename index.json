@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2022-11-26, 05:11:45",
-      "https://news.ycombinator.com/item?id=33750198"
-    ],
-    [
-      "Redox OS 0.8",
-      "https://www.redox-os.org/news/release-0.8.0/"
-    ]
-  ],
-  [
-    [
       "2022-11-26, 01:34:45",
       "https://news.ycombinator.com/item?id=33748949"
     ],
@@ -207,6 +197,16 @@
     [
       "Cloudflare servers don't own IPs anymore so how do they connect to the internet?",
       "https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 14:11:10",
+      "https://news.ycombinator.com/item?id=33742518"
+    ],
+    [
+      "A self-generating story that gets longer the more stars it gets",
+      "https://github.com/lizadaly/there-are-stars"
     ]
   ],
   [
