@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2022-11-27, 10:21:11",
-      "https://news.ycombinator.com/item?id=33761870"
+      "2022-11-27, 10:22:38",
+      "https://news.ycombinator.com/item?id=33761877"
     ],
     [
-      "London's Ultra Low Emission Zone to cover entire city",
-      "https://www.autocar.co.uk/car-news/consumer/londons-ultra-low-emission-zone-cover-entire-city"
+      "Babashka Clojure nREPL as a system interface",
+      "https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "We ran a Unix-like OS (Xv6) on our home-built CPU with our home-built C compiler (2020)",
       "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 08:18:48",
-      "https://news.ycombinator.com/item?id=33761361"
-    ],
-    [
-      "Web Archive appears to be down",
-      "https://web.archive.org"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Mangle, a programming language for deductive database programming",
       "https://github.com/google/mangle"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 20:21:53",
+      "https://news.ycombinator.com/item?id=33756277"
+    ],
+    [
+      "Converting a WW2-Era Engine Cowl Flaps Indicator into a USB Peripheral",
+      "https://bikerglen.com/blog/ww2-engine-cowl-flaps-indicator/"
     ]
   ],
   [
