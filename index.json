@@ -1,22 +1,32 @@
 [
   [
     [
-      "2022-11-27, 17:39:26",
-      "https://news.ycombinator.com/item?id=33764794"
+      "2022-11-27, 17:55:18",
+      "https://news.ycombinator.com/item?id=33764935"
     ],
     [
-      "18-month $220k Powerwall solar energy installation nightmare",
-      "https://www.couriermail.com.au/technology/innovation/im-sick-of-this-adelaide-dads-240000-18month-tesla-nightmare/news-story/3ee7702c7ec44bde25152585d267394e"
+      "Sticky Notes for the Internet",
+      "https://lawrencehook.com/ws/"
     ]
   ],
   [
     [
-      "2022-11-27, 17:36:22",
-      "https://news.ycombinator.com/item?id=33764767"
+      "2022-11-27, 17:49:42",
+      "https://news.ycombinator.com/item?id=33764883"
     ],
     [
-      "Ask HN: Company is going through layoffs, but still interviewing me. Red flag?",
-      "https://news.ycombinator.com/item?id=33764767"
+      "Thriving on China's Belt and Road, Laos border town ditches kip for yuan",
+      "https://asia.nikkei.com/Spotlight/Belt-and-Road/Thriving-on-China-s-Belt-and-Road-Laos-border-town-ditches-kip-for-yuan"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 17:27:55",
+      "https://news.ycombinator.com/item?id=33764691"
+    ],
+    [
+      "Reusing Yesterday’s Coffee Grounds for Another Cup of Coffee",
+      "https://wokelark.com/reusing-coffee-grounds-another-cup-of-coffee-caffeine-cold-brew/"
     ]
   ],
   [
@@ -31,22 +41,12 @@
   ],
   [
     [
-      "2022-11-27, 17:07:06",
-      "https://news.ycombinator.com/item?id=33764499"
-    ],
-    [
-      "‘Extinction is on the table’: Jaron Lanier tech’s existential threat to humanity",
-      "https://www.theguardian.com/technology/2022/nov/27/jaron-lanier-tech-threat-humanity-twitter-social-media"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 17:03:38",
       "https://news.ycombinator.com/item?id=33764449"
     ],
     [
-      "Evan Wallace CRDT Algorithms",
-      "https://madebyevan.com/algos/"
+      "CRDT: Fractional Indexing",
+      "https://madebyevan.com/algos/crdt-fractional-indexing/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-11-27, 02:38:07",
-      "https://news.ycombinator.com/item?id=33759607"
-    ],
-    [
-      "Create Your Own Compiler: A step-by-step interactive tutorial",
-      "https://citw.dev/tutorial/create-your-own-compiler"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 02:07:46",
       "https://news.ycombinator.com/item?id=33759331"
     ],
@@ -267,6 +257,16 @@
     [
       "Grasp: Grep Clojure code using clojure.spec regexes",
       "https://github.com/borkdude/grasp"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 17:45:41",
+      "https://news.ycombinator.com/item?id=33754827"
+    ],
+    [
+      "Data-Oriented Programming in Python",
+      "https://www.moderndescartes.com/essays/data_oriented_python/"
     ]
   ],
   [
