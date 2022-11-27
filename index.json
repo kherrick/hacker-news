@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-27, 11:52:52",
+      "https://news.ycombinator.com/item?id=33762322"
+    ],
+    [
+      "A curated and opinionated list of resources for Chief Technology Officers",
+      "https://github.com/kuchin/awesome-cto"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 11:03:43",
       "https://news.ycombinator.com/item?id=33762099"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2022-11-26, 23:37:02",
-      "https://news.ycombinator.com/item?id=33758150"
-    ],
-    [
-      "The Pentagon fails its fifth audit in a row",
-      "https://responsiblestatecraft.org/2022/11/22/why-cant-the-dod-get-its-financial-house-in-order/"
-    ]
-  ],
-  [
-    [
       "2022-11-26, 22:57:43",
       "https://news.ycombinator.com/item?id=33757766"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=33752363"
     ],
     [
-      "How to easily type your (scientific) notes with TeXmacs",
+      "How to easily type scientific notes with TeXmacs [video]",
       "https://www.youtube.com/watch?v=bCCnp0OXlhY"
     ]
   ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=33752180"
     ],
     [
-      "Portals in Earth's Magnetic Field",
+      "Portals in Earth's Magnetic Field (2012)",
       "https://www.nasa.gov/mission_pages/sunearth/news/mag-portals.html"
     ]
   ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2022-11-26, 08:51:42",
+      "https://news.ycombinator.com/item?id=33751109"
+    ],
+    [
+      "Cheap Land Colorado: What going off the grid really looks like",
+      "https://www.newyorker.com/magazine/2022/11/28/what-going-off-the-grid-really-looks-like-cheap-land-colorado"
+    ]
+  ],
+  [
+    [
       "2022-11-26, 03:43:06",
       "https://news.ycombinator.com/item?id=33749677"
     ],
     [
       "Cache invalidation really is one of the hardest problems in computer science",
       "https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 02:58:04",
-      "https://news.ycombinator.com/item?id=33749448"
-    ],
-    [
-      "KATT (Klarna API Testing Tool) Is an HTTP-Based API Testing Tool for Erlang",
-      "https://github.com/for-GET/katt"
     ]
   ],
   [
