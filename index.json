@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-11-27, 09:53:50",
-      "https://news.ycombinator.com/item?id=33761756"
-    ],
-    [
-      "WebAssembly: TinyGo vs. Rust vs. AssemblyScript",
-      "https://ecostack.dev/posts/wasm-tinygo-vs-rust-vs-assemblyscript/"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 08:30:11",
       "https://news.ycombinator.com/item?id=33761419"
     ],
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2022-11-26, 22:57:43",
-      "https://news.ycombinator.com/item?id=33757766"
-    ],
-    [
-      "Doctests in R",
-      "https://hughjonesd.github.io/doctest/"
-    ]
-  ],
-  [
-    [
       "2022-11-26, 22:02:02",
       "https://news.ycombinator.com/item?id=33757247"
     ],
@@ -297,6 +277,26 @@
     [
       "Cheap Land Colorado: What going off the grid really looks like",
       "https://www.newyorker.com/magazine/2022/11/28/what-going-off-the-grid-really-looks-like-cheap-land-colorado"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 09:10:37",
+      "https://news.ycombinator.com/item?id=33740620"
+    ],
+    [
+      "Owl: A Logics Perspective",
+      "http://owl.cs.manchester.ac.uk/about/orientation/a-logics-perspective/"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 08:02:19",
+      "https://news.ycombinator.com/item?id=33740269"
+    ],
+    [
+      "The Hibernators Guide to the Galaxy",
+      "https://www.wired.com/story/mars-hiberators-guide-to-the-galaxy/"
     ]
   ]
 ]
