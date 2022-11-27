@@ -1,22 +1,32 @@
 [
   [
     [
+      "2022-11-27, 05:43:39",
+      "https://news.ycombinator.com/item?id=33760713"
+    ],
+    [
+      "HECnet: The Hobbyist DECnet Network",
+      "http://mim.stupi.net/hecnet"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 05:13:49",
       "https://news.ycombinator.com/item?id=33760607"
     ],
     [
-      "No Cure for Loneliness",
+      "No cure for loneliness",
       "https://compactmag.com/article/no-cure-for-loneliness"
     ]
   ],
   [
     [
-      "2022-11-27, 03:52:54",
-      "https://news.ycombinator.com/item?id=33760141"
+      "2022-11-27, 04:09:03",
+      "https://news.ycombinator.com/item?id=33760232"
     ],
     [
-      "Show HN: footnote - a modern take on Goodreads",
-      "https://footnote.cc/signup"
+      "When splines were physical objects (2016)",
+      "https://www.core77.com/posts/55368/When-Splines-Were-Physical-Objects"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "French scientists decode 500-year-old letter",
       "https://www.bbc.co.uk/news/world-europe-63757443"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 01:00:07",
+      "https://news.ycombinator.com/item?id=33758849"
+    ],
+    [
+      "Startup Restructuring 101",
+      "https://cyrilgrislain.substack.com/p/startup-restructuring-101"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-11-26, 20:01:49",
-      "https://news.ycombinator.com/item?id=33756089"
-    ],
-    [
-      "FCC Bans Authorizations for Devices That Pose National Security Threat",
-      "https://www.fcc.gov/document/fcc-bans-authorizations-devices-pose-national-security-threat"
-    ]
-  ],
-  [
-    [
       "2022-11-26, 19:16:05",
       "https://news.ycombinator.com/item?id=33755651"
     ],
@@ -177,16 +187,6 @@
     [
       "Americans are choosing to be alone, but we should reverse that",
       "https://www.washingtonpost.com/opinions/2022/11/23/americans-alone-thanksgiving-friends/"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 18:26:36",
-      "https://news.ycombinator.com/item?id=33755206"
-    ],
-    [
-      "Cyber Guidance for Small Businesses",
-      "https://www.cisa.gov/small-business"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=33749677"
     ],
     [
-      "Cache invalidation is one of the hardest problems in computer science",
+      "Cache invalidation really is one of the hardest problems in computer science",
       "https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/"
     ]
   ],
