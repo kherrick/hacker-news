@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-27, 07:36:21",
+      "https://news.ycombinator.com/item?id=33761193"
+    ],
+    [
+      "ᚣ the Rune Programming Language",
+      "https://github.com/google/rune"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 05:43:39",
       "https://news.ycombinator.com/item?id=33760713"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-11-26, 20:10:34",
-      "https://news.ycombinator.com/item?id=33756181"
-    ],
-    [
-      "LuaJIT Remake: An ongoing attempt to re-engineer LuaJIT from scratch",
-      "https://github.com/luajit-remake/luajit-remake"
-    ]
-  ],
-  [
-    [
       "2022-11-26, 20:09:45",
       "https://news.ycombinator.com/item?id=33756171"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2022-11-26, 11:14:08",
+      "https://news.ycombinator.com/item?id=33751739"
+    ],
+    [
+      "Static Program Analysis",
+      "https://cs.au.dk/~amoeller/spa/"
+    ]
+  ],
+  [
+    [
       "2022-11-26, 08:26:53",
       "https://news.ycombinator.com/item?id=33750963"
     ],
     [
       "In what sense is quantum computing a science?",
       "https://cognitivemedium.com/qc-a-science"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 08:02:40",
-      "https://news.ycombinator.com/item?id=33750825"
-    ],
-    [
-      "The Need to Read",
-      "http://paulgraham.com/read.html"
     ]
   ],
   [
