@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-11-27, 12:35:12",
+      "https://news.ycombinator.com/item?id=33762543"
+    ],
+    [
+      "A Practical Discrete 386",
+      "https://hackaday.com/2022/11/27/a-practical-discrete-386/"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 12:22:51",
       "https://news.ycombinator.com/item?id=33762492"
     ],
@@ -97,6 +107,16 @@
     [
       "Babashka Clojure nREPL as a system interface",
       "https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 09:53:50",
+      "https://news.ycombinator.com/item?id=33761756"
+    ],
+    [
+      "WebAssembly: TinyGo vs. Rust vs. AssemblyScript",
+      "https://ecostack.dev/posts/wasm-tinygo-vs-rust-vs-assemblyscript/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-11-27, 00:26:25",
-      "https://news.ycombinator.com/item?id=33758604"
-    ],
-    [
-      "Non conventional 3D Print challenges (GCode)",
-      "https://fullcontrol.xyz/#/models"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 00:22:01",
       "https://news.ycombinator.com/item?id=33758578"
     ],
@@ -247,16 +257,6 @@
     [
       "Grasp: Grep Clojure code using clojure.spec regexes",
       "https://github.com/borkdude/grasp"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 12:42:34",
-      "https://news.ycombinator.com/item?id=33752180"
-    ],
-    [
-      "Portals in Earth's Magnetic Field (2012)",
-      "https://www.nasa.gov/mission_pages/sunearth/news/mag-portals.html"
     ]
   ],
   [
