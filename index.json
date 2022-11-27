@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2022-11-27, 00:22:01",
+      "https://news.ycombinator.com/item?id=33758578"
+    ],
+    [
+      "Writing Interpreters in Rust: A Guide",
+      "https://rust-hosted-langs.github.io/book/introduction.html"
+    ]
+  ],
+  [
+    [
       "2022-11-26, 23:37:02",
       "https://news.ycombinator.com/item?id=33758150"
     ],
@@ -247,16 +257,6 @@
     [
       "Static Program Analysis",
       "https://cs.au.dk/~amoeller/spa/"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 08:26:53",
-      "https://news.ycombinator.com/item?id=33750963"
-    ],
-    [
-      "In what sense is quantum computing a science?",
-      "https://cognitivemedium.com/qc-a-science"
     ]
   ],
   [
