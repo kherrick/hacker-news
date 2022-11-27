@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-11-27, 18:53:46",
+      "https://news.ycombinator.com/item?id=33765480"
+    ],
+    [
+      "Mach: A Pluggable Metrics Storage Engine for the Age of Observability [pdf]",
+      "https://www.cidrdb.org/cidr2022/papers/p12-solleza.pdf"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 18:51:03",
       "https://news.ycombinator.com/item?id=33765437"
     ],
     [
       "Ask HN: Can we delete our accounts?",
       "https://news.ycombinator.com/item?id=33765437"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 18:41:42",
+      "https://news.ycombinator.com/item?id=33765350"
+    ],
+    [
+      "As Gen X and Boomers Age, They Confront Living Alone",
+      "https://www.nytimes.com/2022/11/27/us/living-alone-aging.html"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "CRDT: Fractional Indexing",
       "https://madebyevan.com/algos/crdt-fractional-indexing/"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 16:52:17",
-      "https://news.ycombinator.com/item?id=33764320"
-    ],
-    [
-      "New Bitcoin DDoS Technique",
-      "https://github.com/bitcoin/bitcoin/issues/26585"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The Rune Programming Language",
       "https://github.com/google/rune"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 04:09:03",
-      "https://news.ycombinator.com/item?id=33760232"
-    ],
-    [
-      "When splines were physical objects (2016)",
-      "https://www.core77.com/posts/55368/When-Splines-Were-Physical-Objects"
     ]
   ],
   [
