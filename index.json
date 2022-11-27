@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2022-11-27, 19:27:28",
+      "https://news.ycombinator.com/item?id=33765839"
+    ],
+    [
+      "Statistical process control after W. Edwards Deming",
+      "https://www.2uo.de/deming/"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 19:18:16",
       "https://news.ycombinator.com/item?id=33765735"
     ],
     [
       "Emacs Lisp shorthands as namespacing system",
       "https://andreyorst.gitlab.io/posts/2022-11-01-emacs-lisp-shorthands-as-namespacing-system/"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 19:02:16",
+      "https://news.ycombinator.com/item?id=33765570"
+    ],
+    [
+      "Index Merges vs. Composite Indexes in Postgres and MySQL",
+      "https://sirupsen.com/index-merges"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2022-11-27, 18:06:55",
-      "https://news.ycombinator.com/item?id=33765044"
-    ],
-    [
-      "Mastodon: Servers, Good and Bad",
-      "https://nedbatchelder.com/blog/202211/mastodon_servers_good_and_bad.html"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 17:55:18",
       "https://news.ycombinator.com/item?id=33764935"
     ],
@@ -91,12 +101,12 @@
   ],
   [
     [
-      "2022-11-27, 17:49:42",
-      "https://news.ycombinator.com/item?id=33764883"
+      "2022-11-27, 17:51:56",
+      "https://news.ycombinator.com/item?id=33764903"
     ],
     [
-      "Thriving on China's Belt and Road, Laos border town ditches kip for yuan",
-      "https://asia.nikkei.com/Spotlight/Belt-and-Road/Thriving-on-China-s-Belt-and-Road-Laos-border-town-ditches-kip-for-yuan"
+      "GPS vs. Glonass vs. Galileo",
+      "https://www.gpsrchive.com/Shared/Satellites/GPS%20vs%20GLONASS%20vs%20Galileo.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Startup Restructuring 101",
       "https://cyrilgrislain.substack.com/p/startup-restructuring-101"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 22:02:02",
-      "https://news.ycombinator.com/item?id=33757247"
-    ],
-    [
-      "Grasp: Grep Clojure code using clojure.spec regexes",
-      "https://github.com/borkdude/grasp"
     ]
   ],
   [
