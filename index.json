@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2022-11-27, 17:27:55",
-      "https://news.ycombinator.com/item?id=33764691"
-    ],
-    [
-      "Reusing Yesterday’s Coffee Grounds for Another Cup of Coffee",
-      "https://wokelark.com/reusing-coffee-grounds-another-cup-of-coffee-caffeine-cold-brew/"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 17:08:38",
       "https://news.ycombinator.com/item?id=33764511"
     ],
@@ -267,6 +257,16 @@
     [
       "Startup Restructuring 101",
       "https://cyrilgrislain.substack.com/p/startup-restructuring-101"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 22:02:02",
+      "https://news.ycombinator.com/item?id=33757247"
+    ],
+    [
+      "Grasp: Grep Clojure code using clojure.spec regexes",
+      "https://github.com/borkdude/grasp"
     ]
   ],
   [
