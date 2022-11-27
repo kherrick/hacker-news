@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-11-27, 16:07:41",
-      "https://news.ycombinator.com/item?id=33763875"
-    ],
-    [
-      "French man wins right to not be fun at work",
-      "https://www.washingtonpost.com/world/2022/11/27/france-man-fired-company-drinking-culture/"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 15:56:52",
       "https://news.ycombinator.com/item?id=33763772"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33763465"
     ],
     [
-      "AI Will Completely Dominate the Animation Industry in Less Than 5 Years",
+      "AI will dominate the animation industry in less than 5 years",
       "https://nicksaraev.com/ai-animation-is-coming/"
     ]
   ],
@@ -57,6 +47,16 @@
     [
       "A hundred UK companies sign up for four-day week with no loss of pay",
       "https://www.theguardian.com/business/2022/nov/27/a-hundred-uk-companies-sign-up-for-four-day-week-with-no-loss-of-pay"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 13:27:07",
+      "https://news.ycombinator.com/item?id=33762795"
+    ],
+    [
+      "Fujifilm Warns Its 35mm Films in Short Supply ‘For the Time Being’",
+      "https://petapixel.com/2022/11/25/fujifilm-warns-its-35mm-films-in-short-supply-for-the-time-being/"
     ]
   ],
   [
@@ -95,18 +95,8 @@
       "https://news.ycombinator.com/item?id=33762444"
     ],
     [
-      "Rusty Ownership and the Lifecycle’s Stone",
-      "https://blogs.harvard.edu/kapolos/rusty-ownership-and-the-lifecycles-stone/"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 11:52:52",
-      "https://news.ycombinator.com/item?id=33762322"
-    ],
-    [
-      "A curated and opinionated list of resources for Chief Technology Officers",
-      "https://github.com/kuchin/awesome-cto"
+      "Rusty ownership and the lifecycle’s stone",
+      "https://blogs.harvard.edu/kapolos/rusty-ownership-and-the-lifecycles-stone/49"
     ]
   ],
   [
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=33761932"
     ],
     [
-      "Ever wonder why plumbers are paid so much? Peek into the world of pipe fittings",
+      "The world of pipe fittings",
       "https://naich.net/wordpress/index.php/ever-wondered-why-plumbers-are-paid-so-much/"
     ]
   ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=33761419"
     ],
     [
-      "We ran a Unix-like OS (Xv6) on our home-built CPU with our home-built C compiler (2020)",
+      "Running a Unix-like OS on a home-built CPU with a home-built C compiler (2020)",
       "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/"
     ]
   ],
@@ -187,6 +177,16 @@
     [
       "The Rune Programming Language",
       "https://github.com/google/rune"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 05:43:39",
+      "https://news.ycombinator.com/item?id=33760713"
+    ],
+    [
+      "HECnet: The Hobbyist DECnet Network",
+      "http://mim.stupi.net/hecnet"
     ]
   ],
   [
