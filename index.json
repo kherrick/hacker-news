@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-11-27, 20:05:06",
+      "https://news.ycombinator.com/item?id=33766243"
+    ],
+    [
+      "Stack Computers: the new wave (1989) [pdf]",
+      "https://users.ece.cmu.edu/~koopman/stack_computers/stack_computers_book.pdf"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 19:46:30",
       "https://news.ycombinator.com/item?id=33766051"
     ],
@@ -257,16 +267,6 @@
     [
       "Startup Restructuring 101",
       "https://cyrilgrislain.substack.com/p/startup-restructuring-101"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 22:02:02",
-      "https://news.ycombinator.com/item?id=33757247"
-    ],
-    [
-      "Grasp: Grep Clojure code using clojure.spec regexes",
-      "https://github.com/borkdude/grasp"
     ]
   ],
   [
