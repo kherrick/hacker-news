@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-27, 17:07:06",
+      "https://news.ycombinator.com/item?id=33764499"
+    ],
+    [
+      "‘Extinction is on the table’: Jaron Lanier tech’s existential threat to humanity",
+      "https://www.theguardian.com/technology/2022/nov/27/jaron-lanier-tech-threat-humanity-twitter-social-media"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 17:03:38",
+      "https://news.ycombinator.com/item?id=33764449"
+    ],
+    [
+      "Evan Wallace CRDT Algorithms",
+      "https://madebyevan.com/algos/"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 16:17:04",
       "https://news.ycombinator.com/item?id=33763976"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2022-11-27, 15:19:07",
-      "https://news.ycombinator.com/item?id=33763465"
+      "2022-11-27, 15:21:05",
+      "https://news.ycombinator.com/item?id=33763481"
     ],
     [
-      "AI will dominate the animation industry in less than 5 years",
-      "https://nicksaraev.com/ai-animation-is-coming/"
+      "Narcissistic Collapse",
+      "https://www.choosingtherapy.com/narcissistic-collapse/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "A hundred UK companies sign up for four-day week with no loss of pay",
       "https://www.theguardian.com/business/2022/nov/27/a-hundred-uk-companies-sign-up-for-four-day-week-with-no-loss-of-pay"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 13:27:07",
-      "https://news.ycombinator.com/item?id=33762795"
-    ],
-    [
-      "Fujifilm Warns Its 35mm Films in Short Supply ‘For the Time Being’",
-      "https://petapixel.com/2022/11/25/fujifilm-warns-its-35mm-films-in-short-supply-for-the-time-being/"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2022-11-27, 10:47:17",
-      "https://news.ycombinator.com/item?id=33762000"
-    ],
-    [
-      "Why Unreal Engine 5.1 is a Deal",
-      "https://www.youtube.com/watch?v=FUGqzE6Je5c"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 10:32:16",
       "https://news.ycombinator.com/item?id=33761932"
     ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-11-27, 05:43:39",
-      "https://news.ycombinator.com/item?id=33760713"
-    ],
-    [
-      "HECnet: The Hobbyist DECnet Network",
-      "http://mim.stupi.net/hecnet"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 04:55:37",
       "https://news.ycombinator.com/item?id=33760526"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=33758849"
     ],
     [
-      "Startup Restructuring",
+      "Startup Restructuring 101",
       "https://cyrilgrislain.substack.com/p/startup-restructuring-101"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Researching Lispy Neovim",
       "https://enochchau.com/blog/2022/lispy-neovim/"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 09:10:37",
+      "https://news.ycombinator.com/item?id=33740620"
+    ],
+    [
+      "Owl: A Logics Perspective",
+      "http://owl.cs.manchester.ac.uk/about/orientation/a-logics-perspective/"
     ]
   ]
 ]
