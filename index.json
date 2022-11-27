@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-27, 08:30:11",
+      "https://news.ycombinator.com/item?id=33761419"
+    ],
+    [
+      "We ran a Unix-like OS (Xv6) on our home-built CPU with our home-built C compiler",
+      "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 08:13:47",
       "https://news.ycombinator.com/item?id=33761336"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33761193"
     ],
     [
-      "ᚣ the Rune Programming Language",
+      "The Rune Programming Language",
       "https://github.com/google/rune"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "HECnet: The Hobbyist DECnet Network",
       "http://mim.stupi.net/hecnet"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 05:13:49",
-      "https://news.ycombinator.com/item?id=33760607"
-    ],
-    [
-      "No cure for loneliness",
-      "https://compactmag.com/article/no-cure-for-loneliness"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33758849"
     ],
     [
-      "Startup Restructuring 101",
+      "Startup Restructuring",
       "https://cyrilgrislain.substack.com/p/startup-restructuring-101"
     ]
   ],
@@ -137,16 +137,6 @@
     [
       "Pictorial Maps of the United States",
       "https://daily.jstor.org/pictorial-maps-of-the-united-states/"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 22:13:03",
-      "https://news.ycombinator.com/item?id=33757349"
-    ],
-    [
-      "Sabine Hossenfelder: There are areas where physics blurs into religion",
-      "https://www.theguardian.com/science/2022/nov/26/physicist-sabine-hossenfelder-there-are-quite-a-few-areas-where-physics-blurs-into-religion-multiverse"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "How to easily type your (scientific) notes with TeXmacs",
       "https://www.youtube.com/watch?v=bCCnp0OXlhY"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 12:42:34",
+      "https://news.ycombinator.com/item?id=33752180"
+    ],
+    [
+      "Portals in Earth's Magnetic Field",
+      "https://www.nasa.gov/mission_pages/sunearth/news/mag-portals.html"
     ]
   ],
   [
