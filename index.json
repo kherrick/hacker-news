@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2022-11-27, 21:01:23",
-      "https://news.ycombinator.com/item?id=33766912"
-    ],
-    [
-      "OneSignal (YC S11) Is Hiring a Head of Developer Relations",
-      "https://onesignal.com/careers/b1924054-503d-4816-9314-7e4622abdfd7"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 20:17:59",
       "https://news.ycombinator.com/item?id=33766396"
     ],
@@ -267,6 +257,16 @@
     [
       "Engineers' billing nightmares",
       "https://github.com/getlago/lago/wiki/Engineers%27-billing-nightmares"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 18:43:05",
+      "https://news.ycombinator.com/item?id=33755344"
+    ],
+    [
+      "Logic Primitive Transformations with Yosys Techmap",
+      "https://tomverbeure.github.io/2022/11/18/Primitive-Transformations-with-Yosys-Techmap.html"
     ]
   ],
   [
