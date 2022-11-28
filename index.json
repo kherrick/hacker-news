@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-28, 06:03:37",
+      "https://news.ycombinator.com/item?id=33770277"
+    ],
+    [
+      "GCC undefined behaviors are getting wild",
+      "http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-28, 05:52:53",
+      "https://news.ycombinator.com/item?id=33770232"
+    ],
+    [
+      "Wordle for Poker",
+      "https://poklegame.com/"
+    ]
+  ],
+  [
+    [
+      "2022-11-28, 05:15:37",
+      "https://news.ycombinator.com/item?id=33770062"
+    ],
+    [
+      "Unix History",
+      "https://www.levenez.com/unix/"
+    ]
+  ],
+  [
+    [
       "2022-11-28, 05:10:24",
       "https://news.ycombinator.com/item?id=33770028"
     ],
@@ -27,26 +57,6 @@
     [
       "Can’t Hear What Actors Are Saying on TV? It’s Not You",
       "https://www.wsj.com/articles/cant-hear-what-actors-are-saying-on-tv-its-not-you-probably-11669400315"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 00:35:48",
-      "https://news.ycombinator.com/item?id=33768502"
-    ],
-    [
-      "The AI war and how to win it",
-      "https://alexw.substack.com/p/war"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 00:25:29",
-      "https://news.ycombinator.com/item?id=33768449"
-    ],
-    [
-      "Clang is better than GCC",
-      "https://yurichev.org/clang/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-11-27, 17:27:55",
-      "https://news.ycombinator.com/item?id=33764691"
-    ],
-    [
-      "Reusing yesterday’s coffee grounds for another cup of coffee",
-      "https://wokelark.com/reusing-coffee-grounds-another-cup-of-coffee-caffeine-cold-brew/"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 17:03:38",
       "https://news.ycombinator.com/item?id=33764449"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-11-27, 04:57:25",
-      "https://news.ycombinator.com/item?id=33760537"
-    ],
-    [
-      "A treasure hunt for microbes in Chile’s Atacama desert",
-      "https://knowablemagazine.org/article/living-world/2022/treasure-hunt-microbes-chile-atacama-desert"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 02:56:37",
       "https://news.ycombinator.com/item?id=33759729"
     ],
@@ -257,6 +247,16 @@
     [
       "The Mystery of Spin",
       "https://www.math.columbia.edu/~woit/wordpress/?p=13152"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 18:49:05",
+      "https://news.ycombinator.com/item?id=33755400"
+    ],
+    [
+      "Engineers' Billing Nightmares",
+      "https://github.com/getlago/lago/wiki/Engineers%27-billing-nightmares"
     ]
   ],
   [
