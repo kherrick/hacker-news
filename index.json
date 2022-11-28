@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-11-28, 10:36:40",
+      "https://news.ycombinator.com/item?id=33771922"
+    ],
+    [
+      "Falsehoods programmers believe about undefined behavior",
+      "https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/"
+    ]
+  ],
+  [
+    [
       "2022-11-28, 10:30:29",
       "https://news.ycombinator.com/item?id=33771881"
     ],
@@ -47,16 +57,6 @@
     [
       "The Ultimate Guide to FFmpeg",
       "https://img.ly/blog/ultimate-guide-to-ffmpeg/"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 06:03:37",
-      "https://news.ycombinator.com/item?id=33770277"
-    ],
-    [
-      "GCC undefined behaviors are getting wild",
-      "http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html"
     ]
   ],
   [
@@ -171,22 +171,22 @@
   ],
   [
     [
-      "2022-11-27, 19:46:30",
-      "https://news.ycombinator.com/item?id=33766051"
-    ],
-    [
-      "Temporal Programming, a new name for an old paradigm",
-      "https://github.com/aappleby/Metron/blob/master/docs/TemporalTLDR.md"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 17:03:38",
       "https://news.ycombinator.com/item?id=33764449"
     ],
     [
       "CRDT: Fractional Indexing",
       "https://madebyevan.com/algos/crdt-fractional-indexing/"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 14:38:46",
+      "https://news.ycombinator.com/item?id=33763207"
+    ],
+    [
+      "Amygdala connectivity predicts ketamine treatment response among patients (cont)",
+      "https://www.psypost.org/2022/11/amygdala-connectivity-predicts-ketamine-treatment-response-among-patients-with-anxious-depression-64384"
     ]
   ],
   [
