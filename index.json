@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-28, 00:25:29",
+      "https://news.ycombinator.com/item?id=33768449"
+    ],
+    [
+      "Clang is better than GCC",
+      "https://yurichev.org/clang/"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 23:01:26",
+      "https://news.ycombinator.com/item?id=33767935"
+    ],
+    [
+      "Photography for geeks",
+      "https://lcamtuf.coredump.cx/photo_basics/"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 22:10:50",
       "https://news.ycombinator.com/item?id=33767530"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33766396"
     ],
     [
-      "Git Notes: Git's Coolest, Most Unloved­ Feature",
+      "Git Notes",
       "https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33766192"
     ],
     [
-      "FreeTube – The Private YouTube Client",
+      "FreeTube – A Private YouTube Client",
       "https://freetubeapp.io/"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "Temporal Programming, a new name for an old paradigm",
       "https://github.com/aappleby/Metron/blob/master/docs/TemporalTLDR.md"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 19:32:04",
-      "https://news.ycombinator.com/item?id=33765898"
-    ],
-    [
-      "Useful Concepts You Should Know",
-      "https://gurwinder.substack.com/p/40-useful-concepts-you-should-know"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2022-11-27, 18:53:46",
-      "https://news.ycombinator.com/item?id=33765480"
-    ],
-    [
-      "Mach: A Pluggable Metrics Storage Engine for the Age of Observability [pdf]",
-      "https://www.cidrdb.org/cidr2022/papers/p12-solleza.pdf"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 18:47:55",
       "https://news.ycombinator.com/item?id=33765399"
     ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33764935"
     ],
     [
-      "Sticky Notes for the Internet",
+      "Show HN: WebStickies – Sticky notes for the internet",
       "https://lawrencehook.com/ws/"
     ]
   ],
@@ -137,6 +137,16 @@
     [
       "GPS vs. Glonass vs. Galileo",
       "https://www.gpsrchive.com/Shared/Satellites/GPS%20vs%20GLONASS%20vs%20Galileo.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 17:27:55",
+      "https://news.ycombinator.com/item?id=33764691"
+    ],
+    [
+      "Reusing yesterday’s coffee grounds for another cup of coffee",
+      "https://wokelark.com/reusing-coffee-grounds-another-cup-of-coffee-caffeine-cold-brew/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-11-27, 12:35:12",
-      "https://news.ycombinator.com/item?id=33762543"
-    ],
-    [
-      "A Practical Discrete 386",
-      "https://hackaday.com/2022/11/27/a-practical-discrete-386/"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 12:22:51",
       "https://news.ycombinator.com/item?id=33762492"
     ],
@@ -221,22 +221,12 @@
   ],
   [
     [
-      "2022-11-27, 10:22:38",
-      "https://news.ycombinator.com/item?id=33761877"
+      "2022-11-27, 04:57:25",
+      "https://news.ycombinator.com/item?id=33760537"
     ],
     [
-      "Babashka Clojure nREPL as a system interface",
-      "https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 08:30:11",
-      "https://news.ycombinator.com/item?id=33761419"
-    ],
-    [
-      "Running a Unix-like OS on a home-built CPU with a home-built C compiler (2020)",
-      "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/"
+      "A treasure hunt for microbes in Chile’s Atacama desert",
+      "https://knowablemagazine.org/article/living-world/2022/treasure-hunt-microbes-chile-atacama-desert"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Data-Oriented Programming in Python",
       "https://www.moderndescartes.com/essays/data_oriented_python/"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 17:33:39",
+      "https://news.ycombinator.com/item?id=33754723"
+    ],
+    [
+      "Could Dissolvable Cranberry Film Replace Plastic Packaging Someday?",
+      "https://modernfarmer.com/2022/11/cranberry-film-packaging/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33740235"
     ],
     [
-      "Unix's (technical) history is mostly old now",
+      "Unix's technical history is mostly old now",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixHistoryMostlyOldNow"
     ]
   ]
