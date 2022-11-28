@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-28, 16:08:12",
+      "https://news.ycombinator.com/item?id=33775334"
+    ],
+    [
+      "AVX 512 will be the future",
+      "https://www.realworldtech.com/forum/?threadid=209249&curpostid=209596"
+    ]
+  ],
+  [
+    [
+      "2022-11-28, 15:54:36",
+      "https://news.ycombinator.com/item?id=33775143"
+    ],
+    [
+      "The ATtiny 2-Series",
+      "http://www.technoblogy.com/show?3UKF"
+    ]
+  ],
+  [
+    [
+      "2022-11-28, 15:51:33",
+      "https://news.ycombinator.com/item?id=33775085"
+    ],
+    [
+      "Open-source tabletop board game simulator",
+      "https://github.com/drwhut/tabletop-club"
+    ]
+  ],
+  [
+    [
       "2022-11-28, 15:32:08",
       "https://news.ycombinator.com/item?id=33774822"
     ],
@@ -17,6 +47,26 @@
     [
       "Apple Introduces Oceanic+",
       "https://www.apple.com/newsroom/2022/11/reach-new-depths-with-the-oceanic-plus-app-and-apple-watch-ultra/"
+    ]
+  ],
+  [
+    [
+      "2022-11-28, 15:17:30",
+      "https://news.ycombinator.com/item?id=33774624"
+    ],
+    [
+      "Imagining CSS for URLs and HTTP Headers",
+      "https://blog.jim-nielsen.com/2022/css-for-urls-and-http-headers/"
+    ]
+  ],
+  [
+    [
+      "2022-11-28, 14:58:06",
+      "https://news.ycombinator.com/item?id=33774386"
+    ],
+    [
+      "Capsaicin Is a Psychoactive Substance",
+      "https://p.migdal.pl/blog/2022/10/perspective-capsaicin-is-a-psychoactive-substance/"
     ]
   ],
   [
@@ -161,16 +211,6 @@
   ],
   [
     [
-      "2022-11-28, 11:31:03",
-      "https://news.ycombinator.com/item?id=33772320"
-    ],
-    [
-      "Japanese Artist Creates Miniature Dioramas Every Day for 10 Years",
-      "https://digitalsynopsis.com/design/miniature-dioramas/"
-    ]
-  ],
-  [
-    [
       "2022-11-28, 10:36:40",
       "https://news.ycombinator.com/item?id=33771922"
     ],
@@ -207,36 +247,6 @@
     [
       "Wordle for Poker",
       "https://poklegame.com/"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 05:10:24",
-      "https://news.ycombinator.com/item?id=33770028"
-    ],
-    [
-      "Refurb Weekend: The Sega Dreamcast",
-      "http://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 02:44:42",
-      "https://news.ycombinator.com/item?id=33769274"
-    ],
-    [
-      "Lightweight Alpine VMs on macOS",
-      "https://beringresearch.github.io/macpine/"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 23:01:26",
-      "https://news.ycombinator.com/item?id=33767935"
-    ],
-    [
-      "Photography for geeks",
-      "https://lcamtuf.coredump.cx/photo_basics/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Compiler and Runtime Specializations for Accelerating Managed Languages on FPGAs",
       "https://programming-journal.org/2021/5/8/"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 07:52:45",
-      "https://news.ycombinator.com/item?id=33750765"
-    ],
-    [
-      "Farewell, My Lovely (1936)",
-      "https://www.newyorker.com/magazine/1936/05/16/farewell-my-lovely"
     ]
   ]
 ]
