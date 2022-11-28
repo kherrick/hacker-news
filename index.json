@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-11-27, 19:46:30",
-      "https://news.ycombinator.com/item?id=33766051"
-    ],
-    [
-      "Temporal Programming, a new name for an old paradigm",
-      "https://github.com/aappleby/Metron/blob/master/docs/TemporalTLDR.md"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 17:03:38",
       "https://news.ycombinator.com/item?id=33764449"
     ],
@@ -257,6 +247,16 @@
     [
       "Engineers' billing nightmares",
       "https://github.com/getlago/lago/wiki/Engineers%27-billing-nightmares"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 18:43:05",
+      "https://news.ycombinator.com/item?id=33755344"
+    ],
+    [
+      "Logic Primitive Transformations with Yosys Techmap",
+      "https://tomverbeure.github.io/2022/11/18/Primitive-Transformations-with-Yosys-Techmap.html"
     ]
   ],
   [
