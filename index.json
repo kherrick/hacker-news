@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-29, 17:10:14",
+      "https://news.ycombinator.com/item?id=33790219"
+    ],
+    [
+      "Tales of the M1 GPU",
+      "https://asahilinux.org/2022/11/tales-of-the-m1-gpu/"
+    ]
+  ],
+  [
+    [
       "2022-11-29, 17:01:05",
       "https://news.ycombinator.com/item?id=33790099"
     ],
@@ -287,16 +297,6 @@
     [
       "Pointer Compression in Oilpan",
       "https://v8.dev/blog/oilpan-pointer-compression"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 11:47:44",
-      "https://news.ycombinator.com/item?id=33772435"
-    ],
-    [
-      "A Forth Apologia (1988)",
-      "http://holonforth.com/duncan.html"
     ]
   ]
 ]
