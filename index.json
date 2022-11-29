@@ -65,18 +65,8 @@
       "https://news.ycombinator.com/item?id=33792874"
     ],
     [
-      "Ruby adds a new core Data class to represent immutable value objects",
+      "Ruby adds new core class called Data to represent simple immutable value objects",
       "https://blog.saeloun.com/2022/11/22/data-immutable-object.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 20:11:33",
-      "https://news.ycombinator.com/item?id=33792607"
-    ],
-    [
-      "Interview SBF: FTX User Funds on Alameda, $8B Hole, CZ, Run on the Bank, Remorse",
-      "https://www.youtube.com/watch?v=xP54LZB3WRw"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Set Adrift",
       "https://www.nytimes.com/interactive/2022/11/27/us/set-adrift.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-28, 14:34:23",
+      "https://news.ycombinator.com/item?id=33774046"
+    ],
+    [
+      "Pointer Compression in Oilpan",
+      "https://v8.dev/blog/oilpan-pointer-compression"
     ]
   ],
   [
