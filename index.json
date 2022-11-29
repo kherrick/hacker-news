@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=33788208"
     ],
     [
-      "Emacs 29 is nigh What can we expect?",
+      "Emacs 29",
       "https://blog.phundrak.com/emacs-29-what-can-we-expect/"
     ]
   ],
@@ -27,6 +27,26 @@
     [
       "PCjs Machines",
       "https://www.pcjs.org/"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 14:39:17",
+      "https://news.ycombinator.com/item?id=33788118"
+    ],
+    [
+      "The EV Transition Explained: Can the Grid Cope?",
+      "https://spectrum.ieee.org/the-ev-transition-explained-2658463709"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 14:33:49",
+      "https://news.ycombinator.com/item?id=33788044"
+    ],
+    [
+      "The Balenciaga Controversy",
+      "https://www.glossy.co/fashion/the-balenciaga-controversy-explained/"
     ]
   ],
   [
@@ -87,26 +107,6 @@
     [
       "How do transistors work, anyway?",
       "https://lcamtuf.substack.com/p/how-do-transistors-work-anyway"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 10:09:23",
-      "https://news.ycombinator.com/item?id=33785685"
-    ],
-    [
-      "Japanese Researchers Faked Data in ISS Simulation",
-      "https://gizmodo.com/japanese-researchers-faked-data-iss-simulation-1849827303"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 10:07:27",
-      "https://news.ycombinator.com/item?id=33785670"
-    ],
-    [
-      "Scaling Mastodon with systemd template units",
-      "https://www.eigenmagic.com/2022/11/29/scaling-mastodon-with-systemd-template-units/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2022-11-28, 14:34:23",
+      "https://news.ycombinator.com/item?id=33774046"
+    ],
+    [
+      "Pointer Compression in Oilpan",
+      "https://v8.dev/blog/oilpan-pointer-compression"
+    ]
+  ],
+  [
+    [
       "2022-11-28, 13:07:01",
       "https://news.ycombinator.com/item?id=33773135"
     ],
@@ -287,16 +297,6 @@
     [
       "The Transistor of 2047: Expert Predictions",
       "https://spectrum.ieee.org/the-transistor-of-2047-expert-predictions"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 21:10:46",
-      "https://news.ycombinator.com/item?id=33756763"
-    ],
-    [
-      "Implementing an ordered concurrent queue",
-      "https://themisir.com/implementing-ordered-queue/"
     ]
   ]
 ]
