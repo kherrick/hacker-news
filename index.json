@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-29, 04:40:55",
+      "https://news.ycombinator.com/item?id=33783770"
+    ],
+    [
+      "Low Latency Optimization: Understanding Pages (Part 1)",
+      "https://www.hudsonrivertrading.com/hrtbeat/low-latency-optimization-part-1/"
+    ]
+  ],
+  [
+    [
       "2022-11-29, 03:53:12",
       "https://news.ycombinator.com/item?id=33783504"
     ],
@@ -37,16 +47,6 @@
     [
       "Motorola 68030 wire wrap prototype",
       "https://retrocomputingforum.com/t/68030-prototype-at-1-mhz-18-boards-of-ttl/1387"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 00:40:32",
-      "https://news.ycombinator.com/item?id=33782086"
-    ],
-    [
-      "EU Regulator: Proposal to force websites to pay telcos puts Internet at risk",
-      "https://cyberlaw.stanford.edu/blog/2022/11/eus-top-telecom-regulator-big-telecoms-proposal-force-websites-pay-them-puts-internet"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-11-28, 09:30:20",
-      "https://news.ycombinator.com/item?id=33771445"
-    ],
-    [
-      "Guide to FFmpeg",
-      "https://img.ly/blog/ultimate-guide-to-ffmpeg/"
-    ]
-  ],
-  [
-    [
       "2022-11-28, 07:57:40",
       "https://news.ycombinator.com/item?id=33770888"
     ],
@@ -297,6 +287,16 @@
     [
       "The Indie Web Is Dead, Long Live the Indie Web (2019)",
       "https://criticalmas.org/2019/06/the-indie-web-is-dead-long-live-the-indie-web/"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 21:10:46",
+      "https://news.ycombinator.com/item?id=33756763"
+    ],
+    [
+      "Implementing an ordered concurrent queue",
+      "https://themisir.com/implementing-ordered-queue/"
     ]
   ]
 ]
