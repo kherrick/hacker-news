@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-29, 23:08:53",
+      "https://news.ycombinator.com/item?id=33794672"
+    ],
+    [
+      "Show HN: A userscript that adds archive URLs below the paywalled HN submissions",
+      "https://github.com/MostlyEmre/hn-anti-paywall"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 22:49:53",
+      "https://news.ycombinator.com/item?id=33794489"
+    ],
+    [
+      "Who Controls the Internet? Authoritative NS Records in gTLDs",
+      "https://netmeister.org/blog/nsauth-diversity.html"
+    ]
+  ],
+  [
+    [
       "2022-11-29, 22:13:45",
       "https://news.ycombinator.com/item?id=33794122"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-11-29, 17:34:32",
-      "https://news.ycombinator.com/item?id=33790568"
-    ],
-    [
-      "Dynamic types have the potential to be more than \"no static types\"",
-      "https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/"
-    ]
-  ],
-  [
-    [
       "2022-11-29, 17:08:04",
       "https://news.ycombinator.com/item?id=33790186"
     ],
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2022-11-29, 14:56:10",
+      "https://news.ycombinator.com/item?id=33788339"
+    ],
+    [
+      "Homebrew Social Networking",
+      "http://dtrace.org/blogs/bmc/2022/11/27/homebrew-social-networking/"
+    ]
+  ],
+  [
+    [
       "2022-11-29, 14:46:04",
       "https://news.ycombinator.com/item?id=33788208"
     ],
@@ -187,16 +207,6 @@
     [
       "A Compiler Writing Journey",
       "https://github.com/DoctorWkt/acwj"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 13:50:43",
-      "https://news.ycombinator.com/item?id=33787505"
-    ],
-    [
-      "An extensive tutorial on how to setup a Pi-Hole",
-      "https://www.crosstalksolutions.com/the-worlds-greatest-pi-hole-and-unbound-tutorial-2023/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Keyboard shortcuts for GNU Readline",
       "https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 07:09:34",
-      "https://news.ycombinator.com/item?id=33784549"
-    ],
-    [
-      "Obsolete Sounds: collection of disappearing sounds and extinct sounds",
-      "https://citiesandmemory.com/obsolete-sounds/"
     ]
   ],
   [
