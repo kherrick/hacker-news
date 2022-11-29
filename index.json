@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-11-29, 14:30:37",
+      "https://news.ycombinator.com/item?id=33788013"
+    ],
+    [
+      "A Compiler Writing Journey",
+      "https://github.com/DoctorWkt/acwj"
+    ]
+  ],
+  [
+    [
       "2022-11-29, 13:50:43",
       "https://news.ycombinator.com/item?id=33787505"
     ],
@@ -157,16 +167,6 @@
     [
       "Show HN: Python library for embedding large graphs (Written in Rust)",
       "https://github.com/H4kor/graph-force"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 04:40:55",
-      "https://news.ycombinator.com/item?id=33783770"
-    ],
-    [
-      "Low Latency Optimization: Understanding Pages (Part 1)",
-      "https://www.hudsonrivertrading.com/hrtbeat/low-latency-optimization-part-1/"
     ]
   ],
   [
