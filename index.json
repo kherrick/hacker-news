@@ -1,22 +1,52 @@
 [
   [
     [
-      "2022-11-29, 17:34:32",
-      "https://news.ycombinator.com/item?id=33790568"
+      "2022-11-29, 18:08:29",
+      "https://news.ycombinator.com/item?id=33790999"
     ],
     [
-      "I am disappointed by dynamic typing",
-      "https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/"
+      "Let's Encrypt has a neat annual report [pdf]",
+      "https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf"
     ]
   ],
   [
     [
-      "2022-11-29, 17:29:07",
-      "https://news.ycombinator.com/item?id=33790482"
+      "2022-11-29, 18:04:24",
+      "https://news.ycombinator.com/item?id=33790945"
     ],
     [
-      "American EVs reduced gasoline consumption by just 0.54% in 2021",
-      "https://arstechnica.com/cars/2022/11/american-evs-reduced-gasoline-consumption-by-just-0-54-in-2021/"
+      "Dropbox Acquires Boxcryptor’s Assets, to provide client-side encryption",
+      "https://www.boxcryptor.com/en/blog/post/new-chapter-with-dropbox/"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 18:01:37",
+      "https://news.ycombinator.com/item?id=33790916"
+    ],
+    [
+      "New York City Will Hospitalize More Mentally Ill People Involuntarily",
+      "https://www.nytimes.com/2022/11/29/nyregion/nyc-mentally-ill-involuntary-custody.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 17:38:21",
+      "https://news.ycombinator.com/item?id=33790621"
+    ],
+    [
+      "Mastodon Isn’t Just a Replacement for Twitter",
+      "https://www.noemamag.com/mastodon-isnt-just-a-replacement-for-twitter/"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 17:34:32",
+      "https://news.ycombinator.com/item?id=33790568"
+    ],
+    [
+      "Dynamic types have the potential to be more than \"no static types\"",
+      "https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33790099"
     ],
     [
-      "Pachyderm Is Hiring Sales Engineers and Solutions Architects",
+      "Pachyderm (YC W15) is hiring sales engineers and solutions architects",
       "https://www.pachyderm.com/careers/"
     ]
   ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2022-11-29, 15:34:58",
-      "https://news.ycombinator.com/item?id=33788794"
-    ],
-    [
-      "DWARF-Based Stack Walking Using eBPF",
-      "https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/"
-    ]
-  ],
-  [
-    [
       "2022-11-29, 15:24:20",
       "https://news.ycombinator.com/item?id=33788667"
     ],
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33788208"
     ],
     [
-      "Emacs 29",
+      "Emacs 29 is nigh",
       "https://blog.phundrak.com/emacs-29-what-can-we-expect/"
     ]
   ],
@@ -155,18 +175,8 @@
       "https://news.ycombinator.com/item?id=33787270"
     ],
     [
-      "Goodbye, Data Science",
+      "Goodbye, data science",
       "https://ryxcommar.com/2022/11/27/goodbye-data-science/"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 13:19:50",
-      "https://news.ycombinator.com/item?id=33787218"
-    ],
-    [
-      "Tailwind is a leaky abstraction",
-      "https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/"
     ]
   ],
   [
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=33785631"
     ],
     [
-      "Keyboard Shortcuts every Command Line Hacker should know about GNU Readline",
+      "Keyboard shortcuts for GNU Readline",
       "https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Mathematical Existence and the Axiom of Choice",
       "https://billwadge.com/2022/11/28/to-be-or-not-to-be-mathematical-existence-and-the-axiom-of-choice/"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 15:28:20",
-      "https://news.ycombinator.com/item?id=33774770"
-    ],
-    [
-      "Berlin artist transforms waste plastic into an inflatable isolation chamber",
-      "https://action-io.com/works/correlation-waves/"
     ]
   ],
   [
