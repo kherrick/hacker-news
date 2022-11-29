@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-29, 20:08:57",
+      "https://news.ycombinator.com/item?id=33792578"
+    ],
+    [
+      "Canada geese beat humans in longstanding territory battle: study",
+      "https://aces.illinois.edu/news/study-canada-geese-beat-humans-longstanding-territory-battle"
+    ]
+  ],
+  [
+    [
       "2022-11-29, 19:49:46",
       "https://news.ycombinator.com/item?id=33792322"
     ],
@@ -37,16 +47,6 @@
     [
       "European countries begin taking down public company registers after ruling",
       "https://www.ft.com/content/e4b31a4e-a79d-40f7-8a19-c1e451a95c4b"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 18:08:29",
-      "https://news.ycombinator.com/item?id=33790999"
-    ],
-    [
-      "Let's Encrypt has a neat annual report [pdf]",
-      "https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "A Compiler Writing Journey",
       "https://github.com/DoctorWkt/acwj"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 14:07:01",
-      "https://news.ycombinator.com/item?id=33787719"
-    ],
-    [
-      "Working with Tailwind CSS every day for 2 years",
-      "https://www.themosaad.com/blog/two-years-of-tailwind-css"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "More Hopf Fibrations",
       "https://vinequai.com/morehopf"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 07:13:06",
+      "https://news.ycombinator.com/item?id=33761102"
+    ],
+    [
+      "ARM1 Gate-Level Simulation",
+      "http://visual6502.org/sim/varm/armgl.html"
     ]
   ]
 ]
