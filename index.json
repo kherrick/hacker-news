@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-29, 15:40:38",
+      "https://news.ycombinator.com/item?id=33788883"
+    ],
+    [
+      "Dwarf-Based Stack Walking Using eBPF",
+      "https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/"
+    ]
+  ],
+  [
+    [
       "2022-11-29, 15:36:28",
       "https://news.ycombinator.com/item?id=33788821"
     ],
@@ -17,16 +27,6 @@
     [
       "Charles V of Spain Secret Code Cracked",
       "https://www.schneier.com/blog/archives/2022/11/charles-v-of-spain-secret-code-cracked.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 15:00:28",
-      "https://news.ycombinator.com/item?id=33788381"
-    ],
-    [
-      "San Francisco considers allowing law enforcement robots to use lethal force",
-      "https://www.npr.org/2022/11/28/1139523832/san-francisco-considers-allowing-law-enforcement-robots-to-use-lethal-force"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2022-11-29, 00:33:03",
-      "https://news.ycombinator.com/item?id=33782010"
+      "2022-11-28, 20:33:47",
+      "https://news.ycombinator.com/item?id=33779177"
     ],
     [
-      "JupyterLite: a JupyterLab distribution that runs in the browser",
-      "https://github.com/jupyterlite/jupyterlite"
+      "The Scent of Flavor",
+      "https://inference-review.com/article/the-scent-of-flavor"
     ]
   ],
   [
