@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-11-30, 01:43:00",
+      "https://news.ycombinator.com/item?id=33795870"
+    ],
+    [
+      "U.S. government to backstop mortgages above $1M for the first time",
+      "https://www.wsj.com/articles/u-s-government-to-backstop-mortgages-above-1-million-mark-for-first-time-11669740331"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 01:07:31",
+      "https://news.ycombinator.com/item?id=33795607"
+    ],
+    [
+      "$50SAT",
+      "http://www.50dollarsat.info/"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 00:24:09",
+      "https://news.ycombinator.com/item?id=33795296"
+    ],
+    [
+      "Show HN: Trading cards made with e-ink displays",
+      "https://www.wyldcard.io/blog/introducing-wyldcard"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 00:20:36",
+      "https://news.ycombinator.com/item?id=33795263"
+    ],
+    [
+      "Artist feeds childhood diary into GPT-3 to have a moving chat with herself",
+      "https://nwn.blogs.com/nwn/2022/11/michelle-huang-ai-art-gpt-diary-conversation.html"
+    ]
+  ],
+  [
+    [
       "2022-11-30, 00:02:16",
       "https://news.ycombinator.com/item?id=33795122"
     ],
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2022-11-29, 22:13:45",
-      "https://news.ycombinator.com/item?id=33794122"
-    ],
-    [
-      "ffmpeg.wasm – a pure WebAssembly / JavaScript port of FFmpeg",
-      "https://ffmpegwasm.netlify.app"
-    ]
-  ],
-  [
-    [
       "2022-11-29, 22:01:04",
       "https://news.ycombinator.com/item?id=33793988"
     ],
@@ -77,16 +107,6 @@
     [
       "Speeding up the JavaScript ecosystem, one library at a time",
       "https://marvinh.dev/blog/speeding-up-javascript-ecosystem/"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 21:05:01",
-      "https://news.ycombinator.com/item?id=33793281"
-    ],
-    [
-      "Godot Engine Release Management: 4.0 and beyond",
-      "https://godotengine.org/article/release-management-4-0-and-beyond"
     ]
   ],
   [
@@ -127,6 +147,16 @@
     [
       "Ruby adds a core class called Data to represent simple immutable value objects",
       "https://blog.saeloun.com/2022/11/22/data-immutable-object.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 20:14:31",
+      "https://news.ycombinator.com/item?id=33792643"
+    ],
+    [
+      "Show HN: SinglePage – Quickly and anonymously publish a page to the web",
+      "https://singlepage.cc/"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2022-11-29, 14:30:37",
-      "https://news.ycombinator.com/item?id=33788013"
-    ],
-    [
-      "A Compiler Writing Journey",
-      "https://github.com/DoctorWkt/acwj"
-    ]
-  ],
-  [
-    [
       "2022-11-29, 13:26:14",
       "https://news.ycombinator.com/item?id=33787270"
     ],
@@ -231,22 +251,12 @@
   ],
   [
     [
-      "2022-11-29, 10:14:13",
-      "https://news.ycombinator.com/item?id=33785714"
+      "2022-11-29, 13:19:50",
+      "https://news.ycombinator.com/item?id=33787218"
     ],
     [
-      "UK ditches ban on 'legal but harmful' online content",
-      "https://www.reuters.com/world/uk/uk-ditches-ban-legal-harmful-online-content-favour-free-speech-2022-11-28/"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 10:00:52",
-      "https://news.ycombinator.com/item?id=33785631"
-    ],
-    [
-      "Keyboard shortcuts for GNU Readline",
-      "https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline"
+      "Tailwind is a leaky abstraction",
+      "https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2022-11-28, 22:21:29",
-      "https://news.ycombinator.com/item?id=33780702"
+      "2022-11-28, 23:29:47",
+      "https://news.ycombinator.com/item?id=33781403"
     ],
     [
-      "Borges: Recommendations from a life of lectures and essays",
-      "https://www.laphamsquarterly.org/roundtable/jorge-luis-borges-reading-list"
+      "Where does all the cardboard come from?",
+      "https://www.nytimes.com/2022/11/28/magazine/cardboard-international-paper.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Set Adrift",
       "https://www.nytimes.com/interactive/2022/11/27/us/set-adrift.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 14:40:00",
-      "https://news.ycombinator.com/item?id=33774116"
-    ],
-    [
-      "The Secret Life of Videocassettes in Iran",
-      "https://thereader.mitpress.mit.edu/the-secret-life-of-videocassettes-in-iran/"
     ]
   ],
   [
