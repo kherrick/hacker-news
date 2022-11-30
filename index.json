@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-11-30, 18:21:30",
+      "https://news.ycombinator.com/item?id=33805119"
+    ],
+    [
+      "Our population has become so large that the Earth cannot cope",
+      "https://populationmatters.org/the-facts/"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 18:08:01",
+      "https://news.ycombinator.com/item?id=33804874"
+    ],
+    [
+      "OpenAI ChatGPT: Optimizing Language Models for Dialogue",
+      "https://openai.com/blog/chatgpt/"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 18:00:42",
+      "https://news.ycombinator.com/item?id=33804732"
+    ],
+    [
+      "CT scan shows there's still lots of toner left in an “empty” cartridge",
+      "https://www.lumafield.com/article/is-this-toner-half-empty-or-half-full"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 17:50:07",
+      "https://news.ycombinator.com/item?id=33804558"
+    ],
+    [
+      "A Julia package for high-throughput manipulation of structured signal data",
+      "https://github.com/beacon-biosignals/Onda.jl"
+    ]
+  ],
+  [
+    [
       "2022-11-30, 17:36:09",
       "https://news.ycombinator.com/item?id=33804293"
     ],
@@ -37,16 +77,6 @@
     [
       "Programmable Ink",
       "https://www.inkandswitch.com/inkbase/"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 17:18:01",
-      "https://news.ycombinator.com/item?id=33803941"
-    ],
-    [
-      "Revert “flag_descriptions: Add note about JPEG XL removal”",
-      "https://chromium-review.googlesource.com/c/chromium/src/+/4061563"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2022-11-30, 16:22:14",
-      "https://news.ycombinator.com/item?id=33802991"
-    ],
-    [
-      "Ask HN: How do you upskill your teams technical writing?",
-      "https://news.ycombinator.com/item?id=33802991"
-    ]
-  ],
-  [
-    [
       "2022-11-30, 16:13:43",
       "https://news.ycombinator.com/item?id=33802844"
     ],
@@ -117,16 +137,6 @@
     [
       "Using a date-modified header to detect unique visitors without using cookies",
       "https://notes.normally.com/cookieless-unique-visitor-counts/"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 15:42:02",
-      "https://news.ycombinator.com/item?id=33802251"
-    ],
-    [
-      "Minimum Viable Git for Trunk-Based Development",
-      "https://blog.trunk.io/minimum-viable-git-for-trunk-based-development-81a5da7a77a7"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Launch HN: Patterns (YC S21) – A much faster way to build and deploy data apps",
       "https://news.ycombinator.com/item?id=33801314"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 14:30:56",
-      "https://news.ycombinator.com/item?id=33801213"
-    ],
-    [
-      "Persistent and pervasive impact of being bullied in childhood and adolescence",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6542665/"
     ]
   ],
   [
