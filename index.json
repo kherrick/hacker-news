@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-11-30, 21:59:46",
+      "https://news.ycombinator.com/item?id=33808435"
+    ],
+    [
+      "Gimp Turns 27",
+      "https://www.gimp.org/news/2022/11/21/gimp-27-birthday/"
+    ]
+  ],
+  [
+    [
       "2022-11-30, 21:01:22",
       "https://news.ycombinator.com/item?id=33807621"
     ],
     [
       "Meticulous (YC S21) Is Hiring #3 Founding Engineer in London",
       "https://news.ycombinator.com/item?id=33807621"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 20:26:31",
+      "https://news.ycombinator.com/item?id=33807130"
+    ],
+    [
+      "New details on commercial spyware vendor Variston",
+      "https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Soufflé: A Datalog Synthesis Tool for Static Analysis",
       "https://souffle-lang.github.io/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 18:59:47",
-      "https://news.ycombinator.com/item?id=33805802"
-    ],
-    [
-      "Google Details Tools of Commercial Spyware Vendor Variston",
-      "https://duo.com/decipher/google-exposes-heliconia-exploit-framework-targeting-chrome-firefox-windows"
     ]
   ],
   [
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=33801973"
     ],
     [
-      "The Casino-Chip Society: a framework for understanding the politics of money",
+      "The Casino-Chip Society",
       "https://brettscott.substack.com/p/casino-chip-cashless-society"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "How We Built Fly Postgres",
       "https://fly.io/blog/how-we-built-fly-postgres/"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 07:04:31",
-      "https://news.ycombinator.com/item?id=33797799"
-    ],
-    [
-      "Building arbitrary Life patterns in 15 gliders",
-      "https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/"
     ]
   ],
   [
