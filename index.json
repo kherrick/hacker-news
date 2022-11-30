@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-30, 18:59:12",
+      "https://news.ycombinator.com/item?id=33805791"
+    ],
+    [
+      "Twitter 2.0",
+      "https://blog.twitter.com/en_us/topics/company/2022/twitter-2-0-our-continued-commitment-to-the-public-conversation"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 18:55:16",
+      "https://news.ycombinator.com/item?id=33805732"
+    ],
+    [
+      "pup: Parsing HTML at the Command Line",
+      "https://github.com/ericchiang/pup"
+    ]
+  ],
+  [
+    [
       "2022-11-30, 18:10:02",
       "https://news.ycombinator.com/item?id=33804909"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2022-11-30, 17:27:24",
-      "https://news.ycombinator.com/item?id=33804126"
-    ],
-    [
-      "Scientists discover secret to waking up alert and refreshed",
-      "https://news.berkeley.edu/2022/11/29/scientists-discover-secret-to-waking-up-alert-and-refreshed/"
-    ]
-  ],
-  [
-    [
       "2022-11-30, 17:20:50",
       "https://news.ycombinator.com/item?id=33804011"
     ],
@@ -77,16 +87,6 @@
     [
       "Programmable Ink",
       "https://www.inkandswitch.com/inkbase/"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 17:18:01",
-      "https://news.ycombinator.com/item?id=33803941"
-    ],
-    [
-      "Revert “flag_descriptions: Add note about JPEG XL removal”",
-      "https://chromium-review.googlesource.com/c/chromium/src/+/4061563"
     ]
   ],
   [
