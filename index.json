@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-30, 18:59:47",
+      "https://news.ycombinator.com/item?id=33805802"
+    ],
+    [
+      "Google Details Tools of Commercial Spyware Vendor Variston",
+      "https://duo.com/decipher/google-exposes-heliconia-exploit-framework-targeting-chrome-firefox-windows"
+    ]
+  ],
+  [
+    [
       "2022-11-30, 18:59:12",
       "https://news.ycombinator.com/item?id=33805791"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=33804874"
     ],
     [
-      "OpenAI ChatGPT: Optimizing Language Models for Dialogue",
+      "OpenAI ChatGPT: Optimizing language models for dialogue",
       "https://openai.com/blog/chatgpt/"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "Introducing Gitlab Dedicated, our new single-tenant SaaS offering",
       "https://about.gitlab.com/blog/2022/11/30/introducing-gitlab-dedicated/"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 13:38:57",
-      "https://news.ycombinator.com/item?id=33800516"
-    ],
-    [
-      "RTS devlog #7: Optimizing performance for 1000 units",
-      "https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-optimizing-1604"
     ]
   ],
   [
