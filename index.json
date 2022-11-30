@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-11-30, 14:10:04",
+      "https://news.ycombinator.com/item?id=33800960"
+    ],
+    [
+      "Introducing Gitlab Dedicated, our new single-tenant SaaS offering",
+      "https://about.gitlab.com/blog/2022/11/30/introducing-gitlab-dedicated/"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 14:04:11",
+      "https://news.ycombinator.com/item?id=33800886"
+    ],
+    [
+      "Lago (YC S21) Is Hiring",
+      "https://www.ycombinator.com/companies/lago/jobs/LuTb5d5-founding-sales-manager"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 13:48:50",
+      "https://news.ycombinator.com/item?id=33800683"
+    ],
+    [
+      "Just Say No",
+      "https://www.jeffgeerling.com/blog/2022/just-say-no"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 13:38:57",
+      "https://news.ycombinator.com/item?id=33800516"
+    ],
+    [
+      "RTS devlog #7: Optimizing performance for 1000 units",
+      "https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-optimizing-1604"
+    ]
+  ],
+  [
+    [
       "2022-11-30, 13:25:10",
       "https://news.ycombinator.com/item?id=33800340"
     ],
     [
       "Ask HN: Do you look angry while you work?",
       "https://news.ycombinator.com/item?id=33800340"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 13:24:28",
+      "https://news.ycombinator.com/item?id=33800324"
+    ],
+    [
+      "I've fuzzed parts of the GitHub API. Here are my findings",
+      "https://ludovicianul.github.io/2020/10/05/github-api-testing/"
     ]
   ],
   [
@@ -27,16 +77,6 @@
     [
       "Lunatic is an Erlang-inspired runtime for WebAssembly",
       "https://lunatic.solutions/"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 12:02:15",
-      "https://news.ycombinator.com/item?id=33799562"
-    ],
-    [
-      "Author warns about 'epidemic of self-censorship'",
-      "https://www.bbc.co.uk/news/entertainment-arts-63797087"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2022-11-29, 22:49:53",
-      "https://news.ycombinator.com/item?id=33794489"
-    ],
-    [
-      "Who Controls the Internet? Authoritative NS Records in gTLDs",
-      "https://netmeister.org/blog/nsauth-diversity.html"
-    ]
-  ],
-  [
-    [
       "2022-11-29, 22:30:30",
       "https://news.ycombinator.com/item?id=33794293"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2022-11-29, 20:40:30",
-      "https://news.ycombinator.com/item?id=33792974"
-    ],
-    [
-      "A tiny C header-only RISC-V emulator",
-      "https://github.com/cnlohr/mini-rv32ima"
-    ]
-  ],
-  [
-    [
       "2022-11-29, 20:14:31",
       "https://news.ycombinator.com/item?id=33792643"
     ],
@@ -227,16 +247,6 @@
     [
       "Firefox Translations: Translate websites in your browser without using the cloud",
       "https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 19:36:34",
-      "https://news.ycombinator.com/item?id=33792157"
-    ],
-    [
-      "Show HN: Can you tell if an image is AI-generated?",
-      "https://aiquiz.ronsor.com/index.jsp?__qs=KBGIOLC"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Army tried to develop a missile guided by pigeons",
       "https://taskandpurpose.com/history/project-pigeon-missiles-ww2/"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 07:19:45",
-      "https://news.ycombinator.com/item?id=33761128"
-    ],
-    [
-      "Aleatoric music",
-      "https://en.wikipedia.org/wiki/Aleatoric_music"
     ]
   ]
 ]
