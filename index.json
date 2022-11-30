@@ -1,26 +1,6 @@
 [
   [
     [
-      "2022-11-30, 19:38:38",
-      "https://news.ycombinator.com/item?id=33806401"
-    ],
-    [
-      "Apple limited a crucial AirDrop function in China just weeks before protests",
-      "https://www.cnbc.com/2022/11/30/apple-limited-a-crucial-airdrop-function-in-china-just-weeks-before-protests.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 19:15:41",
-      "https://news.ycombinator.com/item?id=33806026"
-    ],
-    [
-      "Physicists Create a Wormhole Using a Quantum Computer",
-      "https://www.quantamagazine.org/physicists-create-a-wormhole-using-a-quantum-computer-20221130/"
-    ]
-  ],
-  [
-    [
       "2022-11-30, 18:59:47",
       "https://news.ycombinator.com/item?id=33805802"
     ],
@@ -47,6 +27,16 @@
     [
       "pup: Parsing HTML at the Command Line",
       "https://github.com/ericchiang/pup"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 18:38:30",
+      "https://news.ycombinator.com/item?id=33805419"
+    ],
+    [
+      "How much does Rust's bounds checking cost?",
+      "https://blog.readyset.io/bounds-checks/"
     ]
   ],
   [
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=33804293"
     ],
     [
-      "A long expected update (probablistic programming langauge team laid off)",
+      "The last three years of my work will be permanently abandoned",
       "https://ericlippert.com/2022/11/30/a-long-expected-update/"
     ]
   ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33803505"
     ],
     [
-      "DoorDash Lays of 1250 Employees",
+      "DoorDash lays off 1250 employees",
       "https://doordash.news/company/teamupdate/"
     ]
   ],
@@ -157,6 +147,16 @@
     [
       "EU climate plan sacrifices carbon storage and biodiversity for bioenergy",
       "https://www.nature.com/articles/d41586-022-04133-1"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 15:24:26",
+      "https://news.ycombinator.com/item?id=33801973"
+    ],
+    [
+      "The Casino-Chip Society: a framework for understanding the politics of money",
+      "https://brettscott.substack.com/p/casino-chip-cashless-society"
     ]
   ],
   [
