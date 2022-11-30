@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-11-30, 17:00:03",
+      "https://news.ycombinator.com/item?id=33803602"
+    ],
+    [
+      "Roboflow (YC S20) is hiring engineers to democratize computer vision",
+      "https://roboflow.com/careers?ref=ychiring"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 16:54:01",
+      "https://news.ycombinator.com/item?id=33803505"
+    ],
+    [
+      "DoorDash Lays of 1250 Employees",
+      "https://doordash.news/company/teamupdate/"
+    ]
+  ],
+  [
+    [
       "2022-11-30, 16:37:09",
       "https://news.ycombinator.com/item?id=33803266"
     ],
     [
       "Kraken lays off 30% of staff",
       "https://blog.kraken.com/post/16442/business-update/"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 16:22:14",
+      "https://news.ycombinator.com/item?id=33802991"
+    ],
+    [
+      "Ask HN: How do you upskill your teams technical writing?",
+      "https://news.ycombinator.com/item?id=33802991"
     ]
   ],
   [
@@ -47,6 +77,26 @@
     [
       "At SpaceX, work was taken away from me in case I “might retire or die.”",
       "https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 15:42:02",
+      "https://news.ycombinator.com/item?id=33802251"
+    ],
+    [
+      "Minimum Viable Git for Trunk-Based Development",
+      "https://blog.trunk.io/minimum-viable-git-for-trunk-based-development-81a5da7a77a7"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 15:36:14",
+      "https://news.ycombinator.com/item?id=33802155"
+    ],
+    [
+      "EU climate plan sacrifices carbon storage and biodiversity for bioenergy",
+      "https://www.nature.com/articles/d41586-022-04133-1"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2022-11-30, 14:04:11",
-      "https://news.ycombinator.com/item?id=33800886"
-    ],
-    [
-      "Lago (YC S21) Is Hiring",
-      "https://www.ycombinator.com/companies/lago/jobs/LuTb5d5-founding-sales-manager"
-    ]
-  ],
-  [
-    [
       "2022-11-30, 13:48:50",
       "https://news.ycombinator.com/item?id=33800683"
     ],
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2022-11-30, 07:10:45",
-      "https://news.ycombinator.com/item?id=33797841"
-    ],
-    [
-      "Photographs of Films",
-      "https://www.jasonshulmanstudio.com/photographs-of-films"
-    ]
-  ],
-  [
-    [
       "2022-11-30, 07:04:31",
       "https://news.ycombinator.com/item?id=33797799"
     ],
@@ -241,32 +271,12 @@
   ],
   [
     [
-      "2022-11-30, 02:21:40",
-      "https://news.ycombinator.com/item?id=33796158"
-    ],
-    [
-      "Releasing v1 of GPT-JT, fork of GPT-6B fine-tuned on 3.53B tokens",
-      "https://www.together.xyz/research/releasing-v1-of-gpt-jt-powered-by-open-source-ai"
-    ]
-  ],
-  [
-    [
       "2022-11-30, 00:24:09",
       "https://news.ycombinator.com/item?id=33795296"
     ],
     [
       "Show HN: Trading cards made with e-ink displays",
       "https://www.wyldcard.io/blog/introducing-wyldcard"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 20:56:48",
-      "https://news.ycombinator.com/item?id=33793174"
-    ],
-    [
-      "Program Repair",
-      "https://arxiv.org/abs/2211.12787"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Fake Snow Leopard: Photomontage Spread Around the World",
       "https://alpinemag.com/fake-snow-leopard-photomontage-spread-around-world-kittiya-pawlowski/"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 09:28:49",
-      "https://news.ycombinator.com/item?id=33785422"
-    ],
-    [
-      "Blue Peter discovers the Internet (1995) [video]",
-      "https://www.youtube.com/watch?v=L59xEQsy2r4"
     ]
   ]
 ]
