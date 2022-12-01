@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-01, 04:59:59",
+      "https://news.ycombinator.com/item?id=33812528"
+    ],
+    [
+      "New Browser Dynamic Viewport Units",
+      "https://web.dev/viewport-units/"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 03:25:21",
       "https://news.ycombinator.com/item?id=33811958"
     ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2022-11-30, 14:30:56",
-      "https://news.ycombinator.com/item?id=33801213"
-    ],
-    [
-      "The persistent and pervasive impact of bullying in childhood and adolescence",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6542665/"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 14:10:04",
-      "https://news.ycombinator.com/item?id=33800960"
-    ],
-    [
-      "Gitlab Dedicated – our new single-tenant SaaS offering",
-      "https://about.gitlab.com/blog/2022/11/30/introducing-gitlab-dedicated/"
-    ]
-  ],
-  [
-    [
       "2022-11-30, 12:37:48",
       "https://news.ycombinator.com/item?id=33799825"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: Trading cards made with e-ink displays",
       "https://www.wyldcard.io/blog/introducing-wyldcard"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 15:47:00",
+      "https://news.ycombinator.com/item?id=33788978"
+    ],
+    [
+      "For many widows, the hardest part is mealtime (2019)",
+      "https://www.nytimes.com/2019/10/28/dining/widows-cooking-grief.html"
     ]
   ]
 ]
