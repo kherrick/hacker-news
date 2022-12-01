@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-01, 04:04:51",
-      "https://news.ycombinator.com/item?id=33812186"
-    ],
-    [
-      "Couple Died by Suicide After the DEA Shut Down Their Pain Doctor (2022)",
-      "https://www.vice.com/en/article/wxnyb9/dea-fentanyl-doctor-patient-suicide"
-    ]
-  ],
-  [
-    [
       "2022-12-01, 03:25:21",
       "https://news.ycombinator.com/item?id=33811958"
     ],
@@ -37,16 +27,6 @@
     [
       "Making unphishable 2FA phishable",
       "https://mjg59.dreamwidth.org/62175.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 01:03:52",
-      "https://news.ycombinator.com/item?id=33810767"
-    ],
-    [
-      "Age that kids acquire mobile phones not linked to well-being: study",
-      "https://med.stanford.edu/news/all-news/2022/11/children-mobile-phone-age.html"
     ]
   ],
   [
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2022-11-30, 18:38:30",
+      "https://news.ycombinator.com/item?id=33805419"
+    ],
+    [
+      "How much does Rust's bounds checking cost?",
+      "https://blog.readyset.io/bounds-checks/"
+    ]
+  ],
+  [
+    [
       "2022-11-30, 18:24:28",
       "https://news.ycombinator.com/item?id=33805172"
     ],
@@ -197,6 +187,16 @@
     [
       "DoorDash lays off 1250 employees",
       "https://doordash.news/company/teamupdate/"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 16:04:48",
+      "https://news.ycombinator.com/item?id=33802683"
+    ],
+    [
+      "Using a date-modified header to detect unique visitors without using cookies",
+      "https://notes.normally.com/cookieless-unique-visitor-counts/"
     ]
   ],
   [
