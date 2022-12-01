@@ -1,22 +1,32 @@
 [
   [
     [
-      "2022-11-30, 23:22:51",
-      "https://news.ycombinator.com/item?id=33809508"
+      "2022-12-01, 01:32:01",
+      "https://news.ycombinator.com/item?id=33811033"
     ],
     [
-      "LastPass owner GoTo has been hacked",
-      "https://www.goto.com/blog/our-response-to-a-recent-security-incident"
+      "Don't End the Week with Nothing (2014)",
+      "https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing"
     ]
   ],
   [
     [
-      "2022-11-30, 23:06:31",
-      "https://news.ycombinator.com/item?id=33809309"
+      "2022-12-01, 01:26:56",
+      "https://news.ycombinator.com/item?id=33810984"
     ],
     [
-      "Bugout: Browser-to-browser networking built on WebTorrent",
-      "https://github.com/chr15m/bugout"
+      "Making Unphishable 2FA Phishable",
+      "https://mjg59.dreamwidth.org/62175.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-01, 01:03:52",
+      "https://news.ycombinator.com/item?id=33810767"
+    ],
+    [
+      "Age that kids acquire mobile phones not linked to well-being: study",
+      "https://med.stanford.edu/news/all-news/2022/11/children-mobile-phone-age.html"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "GIMP Turns 27",
       "https://www.gimp.org/news/2022/11/21/gimp-27-birthday/"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 21:47:56",
+      "https://news.ycombinator.com/item?id=33808262"
+    ],
+    [
+      "We found critical vulnerabilities in Hive Social",
+      "https://zerforschung.org/posts/hive-en/"
     ]
   ],
   [
@@ -71,12 +91,22 @@
   ],
   [
     [
-      "2022-11-30, 19:39:29",
-      "https://news.ycombinator.com/item?id=33806429"
+      "2022-11-30, 20:05:39",
+      "https://news.ycombinator.com/item?id=33806840"
     ],
     [
-      "The Feelings Monster: building a character with all the feels",
-      "https://medium.com/microsoft-design/the-feelings-monster-building-a-character-with-all-the-feels-331b5b871fd1"
+      "How to arrange any number of stars on the U.S. flag (2016)",
+      "https://www.crwflags.com/fotw/flags/us_stars.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 20:03:29",
+      "https://news.ycombinator.com/item?id=33806803"
+    ],
+    [
+      "Lastpass Security Incident",
+      "https://blog.lastpass.com/2022/11/notice-of-recent-security-incident/"
     ]
   ],
   [
@@ -151,36 +181,6 @@
   ],
   [
     [
-      "2022-11-30, 16:54:01",
-      "https://news.ycombinator.com/item?id=33803505"
-    ],
-    [
-      "DoorDash lays off 1250 employees",
-      "https://doordash.news/company/teamupdate/"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 16:13:43",
-      "https://news.ycombinator.com/item?id=33802844"
-    ],
-    [
-      "Why I am learning category theory",
-      "https://the.scapegoat.dev/why-i-am-learning-category-theory-1/"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 16:04:48",
-      "https://news.ycombinator.com/item?id=33802683"
-    ],
-    [
-      "Using a date-modified header to detect unique visitors without using cookies",
-      "https://notes.normally.com/cookieless-unique-visitor-counts/"
-    ]
-  ],
-  [
-    [
       "2022-11-30, 15:24:26",
       "https://news.ycombinator.com/item?id=33801973"
     ],
@@ -217,6 +217,16 @@
     [
       "Gitlab Dedicated – our new single-tenant SaaS offering",
       "https://about.gitlab.com/blog/2022/11/30/introducing-gitlab-dedicated/"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 12:37:48",
+      "https://news.ycombinator.com/item?id=33799825"
+    ],
+    [
+      "Grow the Puzzle Around You (2018)",
+      "https://foundersatwork.posthaven.com/grow-the-puzzle-around-you"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2022-11-30, 08:46:32",
-      "https://news.ycombinator.com/item?id=33798387"
+      "2022-11-30, 04:38:23",
+      "https://news.ycombinator.com/item?id=33797081"
     ],
     [
-      "Aesthetic PCB Design Tips for Improved Functionality",
-      "https://hackaday.com/2022/11/29/aesthetic-pcb-design-tips-for-improved-functionality/"
+      "Reunited: a Russian manuscript of the Alexander Romance",
+      "https://blogs.bl.uk/digitisedmanuscripts/2022/11/the-russian-alexander-reunited.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Measuring System Interface Complexity",
       "https://blog.sunfishcode.online/measuring-system-interface-complexity/"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 15:47:00",
-      "https://news.ycombinator.com/item?id=33788978"
-    ],
-    [
-      "For many widows, the hardest part is mealtime (2019)",
-      "https://www.nytimes.com/2019/10/28/dining/widows-cooking-grief.html"
     ]
   ]
 ]
