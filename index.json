@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-12-01, 12:07:43",
+      "https://news.ycombinator.com/item?id=33815197"
+    ],
+    [
+      "83% of Developers Suffer from Burnout, Haystack Analytics Study Finds",
+      "https://www.usehaystack.io/blog/83-of-developers-suffer-from-burnout-haystack-analytics-study-finds"
+    ]
+  ],
+  [
+    [
+      "2022-12-01, 12:00:50",
+      "https://news.ycombinator.com/item?id=33815151"
+    ],
+    [
+      "Firezone (YC W22) is hiring engineers to work on open-source network security",
+      "https://www.ycombinator.com/companies/firezone/jobs/BvqYd3f-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-12-01, 11:52:34",
+      "https://news.ycombinator.com/item?id=33815085"
+    ],
+    [
+      "NixOS 22.11 “Raccoon” Released",
+      "https://nixos.org/blog/announcements"
+    ]
+  ],
+  [
+    [
+      "2022-12-01, 11:22:43",
+      "https://news.ycombinator.com/item?id=33814916"
+    ],
+    [
+      "Estimated cumulative excess deaths during Covid, World",
+      "https://ourworldindata.org/grapher/excess-deaths-cumulative-economist-single-entity"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 10:49:06",
       "https://news.ycombinator.com/item?id=33814653"
     ],
@@ -21,6 +61,16 @@
   ],
   [
     [
+      "2022-12-01, 10:36:58",
+      "https://news.ycombinator.com/item?id=33814572"
+    ],
+    [
+      "Consider Disabling Browser Push Notifications on Family and Friends Devices",
+      "https://www.lloydatkinson.net/posts/2022/consider-disabling-browser-push-notifications-on-family-and-friends-devices/"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 08:59:36",
       "https://news.ycombinator.com/item?id=33813957"
     ],
@@ -37,16 +87,6 @@
     [
       "Show HN: We have built a benchmark platform for graph databases",
       "https://memgraph.com/benchgraph/"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 08:14:56",
-      "https://news.ycombinator.com/item?id=33813660"
-    ],
-    [
-      "Mozilla moves to distrust the TrustCor CA",
-      "https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/oxX69KFvsm4/m/yLohoVqtCgAJ"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2022-11-30, 20:28:50",
-      "https://news.ycombinator.com/item?id=33807169"
-    ],
-    [
-      "This Week's Hype",
-      "https://www.math.columbia.edu/~woit/wordpress/?p=13181"
-    ]
-  ],
-  [
-    [
       "2022-11-30, 20:26:31",
       "https://news.ycombinator.com/item?id=33807130"
     ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2022-11-30, 20:05:39",
-      "https://news.ycombinator.com/item?id=33806840"
-    ],
-    [
-      "How to arrange any number of stars on the U.S. flag (2016)",
-      "https://www.crwflags.com/fotw/flags/us_stars.html"
-    ]
-  ],
-  [
-    [
       "2022-11-30, 20:03:29",
       "https://news.ycombinator.com/item?id=33806803"
     ],
     [
       "Lastpass Security Incident",
       "https://blog.lastpass.com/2022/11/notice-of-recent-security-incident/"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 19:39:10",
-      "https://news.ycombinator.com/item?id=33806419"
-    ],
-    [
-      "Soufflé: A Datalog Synthesis Tool for Static Analysis",
-      "https://souffle-lang.github.io/index.html"
     ]
   ],
   [
@@ -225,18 +235,8 @@
       "https://news.ycombinator.com/item?id=33802815"
     ],
     [
-      "The sad history of Unicode printf-style format specifiers in Visual C++",
+      "The sad history of Unicode printf-style format specifiers in Visual C++ (2019)",
       "https://devblogs.microsoft.com/oldnewthing/20190830-00/?p=102823"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 15:33:07",
-      "https://news.ycombinator.com/item?id=33802091"
-    ],
-    [
-      "Astronomers detect “mystery molecule” in exoplanet’s atmosphere",
-      "https://www.freethink.com/space/gas-giant-wasp-39b"
     ]
   ],
   [
