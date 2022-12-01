@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-01, 19:26:17",
+      "https://news.ycombinator.com/item?id=33821371"
+    ],
+    [
+      "“I've asked Stable Diffusion to generate 250 pages of 1987 RadioShack catalog”",
+      "https://tilde.zone/@ftrain/109436259129597431"
+    ]
+  ],
+  [
+    [
+      "2022-12-01, 19:03:51",
+      "https://news.ycombinator.com/item?id=33820975"
+    ],
+    [
+      "CRDTs make multiplayer text editing part of Zed's DNA",
+      "https://zed.dev/blog/crdts"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 19:01:47",
       "https://news.ycombinator.com/item?id=33820947"
     ],
@@ -127,16 +147,6 @@
     [
       "Statistical vs. Deep Learning forecasting methods",
       "https://github.com/Nixtla/statsforecast/tree/main/experiments/m3"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 16:28:29",
-      "https://news.ycombinator.com/item?id=33818511"
-    ],
-    [
-      "Text to Diagram Tools",
-      "https://text-to-diagram.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Company, Team, Self",
       "https://lethain.com/company-team-self/"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 16:17:36",
-      "https://news.ycombinator.com/item?id=33802926"
-    ],
-    [
-      "Extensibility for the Masses (2012) [pdf]",
-      "https://www.cs.utexas.edu/~wcook/Drafts/2012/ecoop2012.pdf"
     ]
   ]
 ]
