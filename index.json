@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-01, 16:29:25",
+      "https://news.ycombinator.com/item?id=33818531"
+    ],
+    [
+      "Statistical vs. Deep Learning forecasting methods",
+      "https://github.com/Nixtla/statsforecast/tree/main/experiments/m3"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 16:08:20",
       "https://news.ycombinator.com/item?id=33818183"
     ],
@@ -17,6 +27,16 @@
     [
       "Ask HN: Who is hiring? (December 2022)",
       "https://news.ycombinator.com/item?id=33818037"
+    ]
+  ],
+  [
+    [
+      "2022-12-01, 16:00:59",
+      "https://news.ycombinator.com/item?id=33818036"
+    ],
+    [
+      "Ask HN: Freelancer? Seeking freelancer? (December 2022)",
+      "https://news.ycombinator.com/item?id=33818036"
     ]
   ],
   [
@@ -211,22 +231,22 @@
   ],
   [
     [
-      "2022-12-01, 06:20:18",
-      "https://news.ycombinator.com/item?id=33812983"
-    ],
-    [
-      "GeoDesk is a spatial database engine for OpenStreetMap features",
-      "https://www.geodesk.com/"
-    ]
-  ],
-  [
-    [
       "2022-12-01, 05:53:45",
       "https://news.ycombinator.com/item?id=33812854"
     ],
     [
       "Surely you're publishing, Mr. Feynman",
       "https://praveshkoirala.com/2022/11/03/surely-you-are-publishing-mr-feynman/"
+    ]
+  ],
+  [
+    [
+      "2022-12-01, 03:52:46",
+      "https://news.ycombinator.com/item?id=33812111"
+    ],
+    [
+      "The Legacy of the Brazilian Artistic Visionary Hélio Oiticica (2017)",
+      "https://art.newcity.com/2017/02/17/how-to-instigate-invention/"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2022-12-01, 01:02:46",
-      "https://news.ycombinator.com/item?id=33810755"
-    ],
-    [
-      "Mozilla, Microsoft yank TrustCor's root certificate authority",
-      "https://www.washingtonpost.com/technology/2022/11/30/trustcor-internet-authority-mozilla/"
-    ]
-  ],
-  [
-    [
       "2022-11-30, 21:51:11",
       "https://news.ycombinator.com/item?id=33808311"
     ],
     [
       "The enigma of Richard Schultes, Amazonian hallucinogens, and ethnobotany (2020)",
       "https://journals.sagepub.com/doi/full/10.1177/0306312720920362"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 16:12:27",
-      "https://news.ycombinator.com/item?id=33802815"
-    ],
-    [
-      "The sad history of Unicode printf-style format specifiers in Visual C++ (2019)",
-      "https://devblogs.microsoft.com/oldnewthing/20190830-00/?p=102823"
     ]
   ],
   [
