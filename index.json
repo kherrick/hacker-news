@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-11-30, 23:33:51",
-      "https://news.ycombinator.com/item?id=33809631"
+      "2022-11-30, 23:22:51",
+      "https://news.ycombinator.com/item?id=33809508"
     ],
     [
-      "Elastic.co lays off 13% of team",
-      "https://www.elastic.co/blog/ceo-ash-kulkarni-email-to-elastic-employees"
+      "LastPass owner GoTo has been hacked",
+      "https://www.goto.com/blog/our-response-to-a-recent-security-incident"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "CT scan shows there's still lots of toner left in an “empty” cartridge",
       "https://www.lumafield.com/article/is-this-toner-half-empty-or-half-full"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 17:50:07",
-      "https://news.ycombinator.com/item?id=33804558"
-    ],
-    [
-      "A Julia package for high-throughput manipulation of structured signal data",
-      "https://github.com/beacon-biosignals/Onda.jl"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Show HN: Trading cards made with e-ink displays",
       "https://www.wyldcard.io/blog/introducing-wyldcard"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 21:51:19",
+      "https://news.ycombinator.com/item?id=33793858"
+    ],
+    [
+      "Measuring System Interface Complexity",
+      "https://blog.sunfishcode.online/measuring-system-interface-complexity/"
     ]
   ],
   [
