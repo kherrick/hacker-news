@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-12-01, 20:21:08",
+      "https://news.ycombinator.com/item?id=33822149"
+    ],
+    [
+      "Gut epithelial barrier damage caused by dishwasher detergents and rinse aids",
+      "https://www.jacionline.org/article/S0091-6749(22)01477-4/fulltext"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 20:20:37",
       "https://news.ycombinator.com/item?id=33822145"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33820975"
     ],
     [
-      "CRDTs make multiplayer text editing part of Zed's DNA",
+      "Using CRDTs for multiplayer text editing",
       "https://zed.dev/blog/crdts"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "Extism: Make all software programmable with WebAssembly",
       "https://extism.org/blog/announcing-extism/"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 13:35:49",
-      "https://news.ycombinator.com/item?id=33816014"
-    ],
-    [
-      "Recoll – Full-text search for your desktop",
-      "https://www.lesbonscomptes.com/recoll/pages/index-recoll.html"
     ]
   ],
   [
