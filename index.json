@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-01, 01:52:52",
+      "https://news.ycombinator.com/item?id=33811229"
+    ],
+    [
+      "‘Shark Tank’ Startup Is Making Vegan Bacon Out of Seaweed",
+      "https://singularityhub.com/2022/11/30/this-shark-tank-funded-startup-is-making-vegan-bacon-out-of-seaweed/"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 01:32:01",
       "https://news.ycombinator.com/item?id=33811033"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33810984"
     ],
     [
-      "Making Unphishable 2FA Phishable",
+      "Making unphishable 2FA phishable",
       "https://mjg59.dreamwidth.org/62175.html"
     ]
   ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2022-11-30, 16:54:01",
+      "https://news.ycombinator.com/item?id=33803505"
+    ],
+    [
+      "DoorDash lays off 1250 employees",
+      "https://doordash.news/company/teamupdate/"
+    ]
+  ],
+  [
+    [
       "2022-11-30, 15:24:26",
       "https://news.ycombinator.com/item?id=33801973"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2022-11-30, 11:57:54",
-      "https://news.ycombinator.com/item?id=33799526"
-    ],
-    [
-      "Convert SimCity 2000 cities into Minecraft worlds",
-      "https://github.com/jgosar/mine-city-2000"
-    ]
-  ],
-  [
-    [
       "2022-11-30, 11:55:54",
       "https://news.ycombinator.com/item?id=33799512"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Trading cards made with e-ink displays",
       "https://www.wyldcard.io/blog/introducing-wyldcard"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 21:51:19",
-      "https://news.ycombinator.com/item?id=33793858"
-    ],
-    [
-      "Measuring System Interface Complexity",
-      "https://blog.sunfishcode.online/measuring-system-interface-complexity/"
     ]
   ]
 ]
