@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-01, 22:35:30",
+      "https://news.ycombinator.com/item?id=33823946"
+    ],
+    [
+      "Android platform signing key compromised",
+      "https://bugs.chromium.org/p/apvi/issues/detail?id=100"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 22:16:31",
       "https://news.ycombinator.com/item?id=33823725"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33821959"
     ],
     [
-      "John Carmack trying to get a bunch of GPUs on Google Cloud",
+      "Trying to get a bunch of GPUs on Google Cloud",
       "https://twitter.com/id_aa_carmack/status/1598391619673358342"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "Hive (YC S14) is hiring engineers #3, 4 and 5 (100% Remote in Canada)",
       "https://angel.co/company/hive/jobs/2435822-senior-full-stack-software-developer"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 16:45:11",
-      "https://news.ycombinator.com/item?id=33818822"
-    ],
-    [
-      "Tldraw&#x27;s $2.7M Seed - A new collaborative infinite canvas for the web",
-      "https://tldraw.substack.com/p/tiny-little-seed-round"
     ]
   ],
   [
