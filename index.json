@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2022-12-01, 21:56:04",
-      "https://news.ycombinator.com/item?id=33823468"
-    ],
-    [
-      "Machines and Chaos",
-      "https://jakespracher.medium.com/machines-and-chaos-9f0e87eebe86"
-    ]
-  ],
-  [
-    [
       "2022-12-01, 21:21:00",
       "https://news.ycombinator.com/item?id=33822950"
     ],
@@ -117,16 +107,6 @@
     [
       "Using CRDTs for multiplayer text editing",
       "https://zed.dev/blog/crdts"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 19:01:47",
-      "https://news.ycombinator.com/item?id=33820947"
-    ],
-    [
-      "Discord’s Creator Portal",
-      "https://discord.com/creators"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2022-12-01, 12:00:01",
+      "https://news.ycombinator.com/item?id=33815146"
+    ],
+    [
+      "Show HN: Natural Language Processing Demystified",
+      "https://news.ycombinator.com/item?id=33815146"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 10:51:58",
       "https://news.ycombinator.com/item?id=33814682"
     ],
@@ -257,6 +247,16 @@
     [
       "Commodore 128D Computer (2001)",
       "http://www.zimmers.net/cbmpics/c128ds.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-01, 00:41:29",
+      "https://news.ycombinator.com/item?id=33810539"
+    ],
+    [
+      "Blitsort: A fast, in-place stable hybrid merge/quick sort",
+      "https://github.com/scandum/blitsort"
     ]
   ],
   [
