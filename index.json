@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2022-12-02, 11:29:15",
+      "https://news.ycombinator.com/item?id=33829152"
+    ],
+    [
+      "Why America’s Railroads Refuse to Give Their Workers Paid Leave",
+      "https://nymag.com/intelligencer/2022/11/rail-strike-why-the-railroads-wont-give-in-on-paid-leave-psr-precision-scheduled-railroading.html"
+    ]
+  ],
+  [
+    [
       "2022-12-02, 11:08:20",
       "https://news.ycombinator.com/item?id=33829032"
     ],
     [
       "After violent robberies, some photographers opt to stay away from San Francisco",
       "https://abc7news.com/san-francisco-photography-robbery-photographers-not-visiting-photographer-assaulted-palace-of-fine-arts-attack/12453913/"
+    ]
+  ],
+  [
+    [
+      "2022-12-02, 10:25:16",
+      "https://news.ycombinator.com/item?id=33828777"
+    ],
+    [
+      "Smartphones wiped out 97% of the compact camera market",
+      "https://asia.nikkei.com/Business/Business-trends/Panasonic-Nikon-quit-developing-low-end-compact-digital-cameras"
     ]
   ],
   [
@@ -111,6 +131,16 @@
   ],
   [
     [
+      "2022-12-01, 20:25:40",
+      "https://news.ycombinator.com/item?id=33822215"
+    ],
+    [
+      "The Legacy of Peer-to-Peer Systems",
+      "https://cacm.acm.org/blogs/blog-cacm/267236-the-legacy-of-peer-to-peer-systems/fulltext"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 20:21:53",
       "https://news.ycombinator.com/item?id=33822157"
     ],
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2022-12-01, 19:03:51",
-      "https://news.ycombinator.com/item?id=33820975"
-    ],
-    [
-      "Using CRDTs for multiplayer text editing",
-      "https://zed.dev/blog/crdts"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 18:59:29",
-      "https://news.ycombinator.com/item?id=33820907"
-    ],
-    [
-      "PostScript: A Digital Printing Press",
-      "https://computerhistory.org/blog/postscript-a-digital-printing-press/"
-    ]
-  ],
-  [
-    [
       "2022-12-01, 18:41:58",
       "https://news.ycombinator.com/item?id=33820608"
     ],
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2022-12-01, 18:39:29",
-      "https://news.ycombinator.com/item?id=33820575"
-    ],
-    [
-      "Apple blocks Coinbase Wallet",
-      "https://twitter.com/coinbasewallet/status/1598354819735031809"
-    ]
-  ],
-  [
-    [
       "2022-12-01, 17:59:15",
       "https://news.ycombinator.com/item?id=33819952"
     ],
     [
       "Understanding Convolutions in Probability",
       "https://www.countbayesie.com/blog/2022/11/30/understanding-convolutions-in-probability-a-mad-science-perspective"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 17:53:46",
-      "https://news.ycombinator.com/item?id=33819860"
-    ],
-    [
-      "New York City hiring top rat killer",
-      "https://a002-oom03.nyc.gov/IRM/Handlers/Campaign/Attachments.ashx?attachmentId=78646d83-e510-4769-945c-4d557c9080bc"
     ]
   ],
   [
@@ -217,16 +207,6 @@
     [
       "Experiment with Penrose Tilings and other patterns",
       "https://aatishb.com/patterncollider/"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 16:29:25",
-      "https://news.ycombinator.com/item?id=33818531"
-    ],
-    [
-      "Statistical vs. Deep Learning forecasting methods",
-      "https://github.com/Nixtla/statsforecast/tree/main/experiments/m3"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2022-11-30, 18:26:26",
+      "https://news.ycombinator.com/item?id=33805202"
+    ],
+    [
+      "Stabilization of gamma sulfur at room temperature to use in Li-S batteries",
+      "https://www.nature.com/articles/s42004-022-00626-2"
+    ]
+  ],
+  [
+    [
       "2022-11-30, 18:03:24",
       "https://news.ycombinator.com/item?id=33804783"
     ],
@@ -297,6 +287,16 @@
     [
       "Tremc: Curses Interface for Transmission",
       "https://github.com/tremc/tremc"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 11:55:54",
+      "https://news.ycombinator.com/item?id=33799512"
+    ],
+    [
+      "Inkbase: Programmable Ink",
+      "https://www.inkandswitch.com/inkbase/"
     ]
   ]
 ]
