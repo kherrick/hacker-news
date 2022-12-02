@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-02, 01:27:01",
+      "https://news.ycombinator.com/item?id=33825583"
+    ],
+    [
+      "America’s School Districts Are Too Big",
+      "https://www.wsj.com/articles/americas-school-districts-are-too-big-deconsolidation-democratic-local-control-community-efficiency-tuition-unions-11669818901"
+    ]
+  ],
+  [
+    [
+      "2022-12-02, 01:22:05",
+      "https://news.ycombinator.com/item?id=33825544"
+    ],
+    [
+      "BloomTech, previously Lambda School, cuts half of staff",
+      "https://techcrunch.com/2022/12/01/bloomtech-previously-lambda-school-cuts-half-of-staff/"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 23:20:48",
       "https://news.ycombinator.com/item?id=33824480"
     ],
@@ -17,6 +37,16 @@
     [
       "Android platform signing key compromised",
       "https://bugs.chromium.org/p/apvi/issues/detail?id=100"
+    ]
+  ],
+  [
+    [
+      "2022-12-01, 22:16:31",
+      "https://news.ycombinator.com/item?id=33823725"
+    ],
+    [
+      "The distinction between free speech as a legal right and cultural value",
+      "https://www.thefire.org/news/free-speech-culture-elon-musk-and-twitter"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Mastering Stratego",
       "https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 20:06:43",
-      "https://news.ycombinator.com/item?id=33821959"
-    ],
-    [
-      "Trying to get a bunch of GPUs on Google Cloud",
-      "https://twitter.com/id_aa_carmack/status/1598391619673358342"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-12-01, 17:05:13",
-      "https://news.ycombinator.com/item?id=33819132"
-    ],
-    [
-      "Brave launches private search ads",
-      "https://brave.com/private-search-ads/"
-    ]
-  ],
-  [
-    [
       "2022-12-01, 17:01:10",
       "https://news.ycombinator.com/item?id=33819070"
     ],
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2022-12-01, 10:49:06",
-      "https://news.ycombinator.com/item?id=33814653"
-    ],
-    [
-      "Human Chess is a chess variant where playing the top engine move is forbidden",
-      "https://humanchess.abcd.party"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 10:37:06",
-      "https://news.ycombinator.com/item?id=33814573"
-    ],
-    [
-      "Isometric Pixel Art",
-      "https://www.slynyrd.com/blog/2022/11/28/pixelblog-41-isometric-pixel-art"
-    ]
-  ],
-  [
-    [
       "2022-12-01, 03:46:56",
       "https://news.ycombinator.com/item?id=33812085"
     ],
@@ -297,6 +287,16 @@
     [
       "Program-repair: Community for discovery, access and systematization of data",
       "https://program-repair.org/"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 15:37:08",
+      "https://news.ycombinator.com/item?id=33802167"
+    ],
+    [
+      "The Low Earth Orbit Platforms [pdf]",
+      "https://kasperkubica.com/leoplatforms.pdf"
     ]
   ]
 ]
