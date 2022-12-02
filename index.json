@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-02, 05:13:34",
+      "https://news.ycombinator.com/item?id=33827075"
+    ],
+    [
+      "Migrating from Vue 2 to Svelte",
+      "https://escape.tech/blog/from-vue2-to-svelte/"
+    ]
+  ],
+  [
+    [
       "2022-12-02, 01:22:05",
       "https://news.ycombinator.com/item?id=33825544"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33823946"
     ],
     [
-      "Android platform signing key compromised",
+      "Platform certificates used to sign malware",
       "https://bugs.chromium.org/p/apvi/issues/detail?id=100"
     ]
   ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2022-12-01, 17:59:15",
+      "https://news.ycombinator.com/item?id=33819952"
+    ],
+    [
+      "Understanding Convolutions in Probability",
+      "https://www.countbayesie.com/blog/2022/11/30/understanding-convolutions-in-probability-a-mad-science-perspective"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 17:57:38",
       "https://news.ycombinator.com/item?id=33819923"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-12-01, 17:01:10",
-      "https://news.ycombinator.com/item?id=33819070"
-    ],
-    [
-      "Hive (YC S14) is hiring engineers #3, 4 and 5 (100% Remote in Canada)",
-      "https://angel.co/company/hive/jobs/2435822-senior-full-stack-software-developer"
-    ]
-  ],
-  [
-    [
       "2022-12-01, 16:29:25",
       "https://news.ycombinator.com/item?id=33818531"
     ],
@@ -227,16 +237,6 @@
     [
       "Ask HN: Who is hiring? (December 2022)",
       "https://news.ycombinator.com/item?id=33818037"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 14:45:25",
-      "https://news.ycombinator.com/item?id=33816861"
-    ],
-    [
-      "Sperm counts worldwide are plummeting faster than we thought",
-      "https://www.nationalgeographic.com/magazine/article/sperm-counts-worldwide-plummeting-fast-infertility-lifestyle"
     ]
   ],
   [
