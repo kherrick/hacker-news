@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2022-12-02, 13:14:03",
+      "https://news.ycombinator.com/item?id=33830029"
+    ],
+    [
+      "Show HN: A Visual UI to Hacker News",
+      "https://v20.ohayo.computer/?filename=ohayo.ohayo&nodeBreakSymbol=%7E&edgeSymbol=_&data=hackernews.submissions_100_breck%7E_hidden%7E_rows.sortByReverse_score%7E__hidden%7E__vega.scatter_breck%27s_most_recent_500_submissions_to_news.ycombinator.com%7E___yColumn_score%7E___xColumn_time%7E__columns.keep_score_title_url%7E___hidden%7E___tables.basic"
+    ]
+  ],
+  [
+    [
       "2022-12-02, 13:12:45",
       "https://news.ycombinator.com/item?id=33830014"
     ],
@@ -227,16 +237,6 @@
     [
       "Understanding Convolutions in Probability",
       "https://www.countbayesie.com/blog/2022/11/30/understanding-convolutions-in-probability-a-mad-science-perspective"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 17:39:14",
-      "https://news.ycombinator.com/item?id=33819616"
-    ],
-    [
-      "Memory Safe Languages in Android 13",
-      "https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html"
     ]
   ],
   [
