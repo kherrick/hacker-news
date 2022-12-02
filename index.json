@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-02, 18:07:29",
+      "https://news.ycombinator.com/item?id=33834258"
+    ],
+    [
+      "Ask HN: Is your memory as bad as mine?",
+      "https://news.ycombinator.com/item?id=33834258"
+    ]
+  ],
+  [
+    [
+      "2022-12-02, 17:53:03",
+      "https://news.ycombinator.com/item?id=33834006"
+    ],
+    [
+      "Booz Allen ticketmastered America’s public lands",
+      "https://doctorow.medium.com/booz-allen-tickemastered-americas-public-lands-8edf4c0dddcc"
+    ]
+  ],
+  [
+    [
+      "2022-12-02, 17:49:57",
+      "https://news.ycombinator.com/item?id=33833947"
+    ],
+    [
+      "Twitter engineer: I thought I’d been hacked. It turned out I’d been fired",
+      "https://www.economist.com/1843/2022/12/02/i-thought-id-been-hacked-it-turned-out-id-been-fired-tales-of-a-twitter-engineer"
+    ]
+  ],
+  [
+    [
       "2022-12-02, 17:43:10",
       "https://news.ycombinator.com/item?id=33833836"
     ],
@@ -21,21 +51,11 @@
   ],
   [
     [
-      "2022-12-02, 17:16:33",
-      "https://news.ycombinator.com/item?id=33833420"
-    ],
-    [
-      "Tell HN: OpenAI can solve Leetcode problems",
-      "https://news.ycombinator.com/item?id=33833420"
-    ]
-  ],
-  [
-    [
       "2022-12-02, 17:00:15",
       "https://news.ycombinator.com/item?id=33833145"
     ],
     [
-      "Flexport Is Hiring Software Engineers",
+      "Flexport (YC W14) Is Hiring Software Engineers",
       "https://www.reuters.com/business/logistics-startup-flexport-plans-hiring-spree-double-engineers-2023-2022-11-02/"
     ]
   ],
@@ -97,6 +117,16 @@
     [
       "People tricking ChatGPT “like watching an Asimov novel come to life”",
       "https://twitter.com/carnage4life/status/1598332648723976193"
+    ]
+  ],
+  [
+    [
+      "2022-12-02, 16:06:05",
+      "https://news.ycombinator.com/item?id=33832331"
+    ],
+    [
+      "Interface Ideas for Chat Apps",
+      "https://prabros.com/chat-ui-ideas/"
     ]
   ],
   [
@@ -241,32 +271,12 @@
   ],
   [
     [
-      "2022-12-02, 05:13:34",
-      "https://news.ycombinator.com/item?id=33827075"
-    ],
-    [
-      "Migrating from Vue 2 to Svelte",
-      "https://escape.tech/blog/from-vue2-to-svelte/"
-    ]
-  ],
-  [
-    [
       "2022-12-02, 03:55:49",
       "https://news.ycombinator.com/item?id=33826570"
     ],
     [
       "A Bestiary of Loss",
       "https://publicdomainreview.org/collection/extinct-animals/"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 22:15:44",
-      "https://news.ycombinator.com/item?id=33823712"
-    ],
-    [
-      "No Ghosts",
-      "https://blog.sunfishcode.online/no-ghosts/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "FCC Broadband Map",
       "https://broadbandmap.fcc.gov/home"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 16:16:36",
-      "https://news.ycombinator.com/item?id=33802901"
-    ],
-    [
-      "Tremc: Curses Interface for Transmission",
-      "https://github.com/tremc/tremc"
     ]
   ]
 ]
