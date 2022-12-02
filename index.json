@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-01, 23:20:48",
+      "https://news.ycombinator.com/item?id=33824480"
+    ],
+    [
+      "Accelerando (2005)",
+      "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 22:35:30",
       "https://news.ycombinator.com/item?id=33823946"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2022-12-01, 22:16:31",
-      "https://news.ycombinator.com/item?id=33823725"
+      "2022-12-01, 21:56:04",
+      "https://news.ycombinator.com/item?id=33823468"
     ],
     [
-      "The distinction between free speech as a legal right and cultural value",
-      "https://www.thefire.org/news/free-speech-culture-elon-musk-and-twitter"
+      "Machines and Chaos",
+      "https://jakespracher.medium.com/machines-and-chaos-9f0e87eebe86"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Discord’s Creator Portal",
       "https://discord.com/creators"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 18:59:29",
-      "https://news.ycombinator.com/item?id=33820907"
-    ],
-    [
-      "PostScript: A Digital Printing Press",
-      "https://computerhistory.org/blog/postscript-a-digital-printing-press/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-12-01, 08:59:36",
-      "https://news.ycombinator.com/item?id=33813957"
-    ],
-    [
-      "TSMC to make 4nm chips in Arizona for Apple, AMD, Nvidia",
-      "https://techmonitor.ai/technology/silicon/tsmcs-arizona-apple-amd-nvidia"
-    ]
-  ],
-  [
-    [
       "2022-12-01, 03:46:56",
       "https://news.ycombinator.com/item?id=33812085"
     ],
@@ -297,6 +287,16 @@
     [
       "The game theory of John von Neumann transformed the 20th century",
       "https://www.thenation.com/article/society/john-von-neumann/"
+    ]
+  ],
+  [
+    [
+      "2022-11-30, 16:16:05",
+      "https://news.ycombinator.com/item?id=33802892"
+    ],
+    [
+      "Program-repair: Community for discovery, access and systematization of data",
+      "https://program-repair.org/"
     ]
   ]
 ]
