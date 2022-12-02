@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-12-02, 22:41:10",
+      "https://news.ycombinator.com/item?id=33837954"
+    ],
+    [
+      "The clever reason scammers can’t spell",
+      "https://itservices.wp.st-andrews.ac.uk/2019/06/06/the-clever-reason-scammers-cant-spell/"
+    ]
+  ],
+  [
+    [
       "2022-12-02, 22:18:11",
       "https://news.ycombinator.com/item?id=33837715"
     ],
     [
-      "Speech by Chair Powell on Inflation and the Labor Market – Federal Reserve Board",
+      "Speech by Chair Powell on inflation and the labor market",
       "https://www.federalreserve.gov/newsevents/speech/powell20221130a.htm"
     ]
   ],
@@ -26,17 +36,7 @@
     ],
     [
       "South Dakota first to ban TikTok on state-owned devices",
-      "https://www.malwarebytes.com/blog/news/2022/12/south-dakota-is-first-state-to-ban-tiktok"
-    ]
-  ],
-  [
-    [
-      "2022-12-02, 20:25:06",
-      "https://news.ycombinator.com/item?id=33836388"
-    ],
-    [
-      "Upcoming pricing changes (increases) for Cloud Storage",
-      "https://cloud.google.com/storage/pricing-announce-apr23"
+      "https://gizmodo.com/tiktok-china-south-dakota-ban-bytedance-1849836201"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33835815"
     ],
     [
-      "Why Is Booz Allen Renting Us Back Our Own National Parks?",
+      "Why is Booz Allen renting us back our own national parks?",
       "https://mattstoller.substack.com/p/why-is-booz-allen-renting-us-back"
     ]
   ],
@@ -101,21 +101,11 @@
   ],
   [
     [
-      "2022-12-02, 18:42:38",
-      "https://news.ycombinator.com/item?id=33834828"
-    ],
-    [
-      "Clara.io Shutting Down",
-      "https://news.ycombinator.com/item?id=33834828"
-    ]
-  ],
-  [
-    [
       "2022-12-02, 18:13:35",
       "https://news.ycombinator.com/item?id=33834353"
     ],
     [
-      "FCC Partially Grants SpaceX Gen2 Broadband Satellite Application",
+      "FCC partially grants SpaceX Gen2 broadband satellite application",
       "https://www.fcc.gov/document/fcc-partially-grants-spacex-gen2-broadband-satellite-application"
     ]
   ],
@@ -127,16 +117,6 @@
     [
       "Mona Sans and Hubot Sans",
       "https://github.blog/2022-12-02-introducing-mona-sans-and-hubot-sans/"
-    ]
-  ],
-  [
-    [
-      "2022-12-02, 17:53:03",
-      "https://news.ycombinator.com/item?id=33834006"
-    ],
-    [
-      "Booz Allen ticketmastered America’s public lands",
-      "https://doctorow.medium.com/booz-allen-tickemastered-americas-public-lands-8edf4c0dddcc"
     ]
   ],
   [
@@ -175,7 +155,7 @@
       "https://news.ycombinator.com/item?id=33832923"
     ],
     [
-      "Why Roman Egypt Was Such a Strange Province",
+      "Roman Egypt was a strange province",
       "https://acoup.blog/2022/12/02/collections-why-roman-egypt-was-such-a-strange-province/"
     ]
   ],
@@ -225,7 +205,7 @@
       "https://news.ycombinator.com/item?id=33831127"
     ],
     [
-      "Remotely unlock/start/locate/flash/honk any remotely connected Honda/Nissan",
+      "Remotely unlock/start/locate any remotely connected Honda/Nissan [resolved]",
       "https://twitter.com/samwcyo/status/1597792097175674880"
     ]
   ],
@@ -247,6 +227,16 @@
     [
       "DNS over Wikipedia",
       "https://github.com/aaronjanse/dns-over-wikipedia"
+    ]
+  ],
+  [
+    [
+      "2022-12-02, 14:19:02",
+      "https://news.ycombinator.com/item?id=33830674"
+    ],
+    [
+      "Exploring competitive features in Node.js v18 and v19",
+      "https://blog.logrocket.com/exploring-competitive-features-node-js-v18-v19/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Bestiary of Loss",
       "https://publicdomainreview.org/collection/extinct-animals/"
+    ]
+  ],
+  [
+    [
+      "2022-12-02, 02:54:31",
+      "https://news.ycombinator.com/item?id=33826178"
+    ],
+    [
+      "Document Detectives Use Smudges and Bloodstains to Investigate the Past",
+      "https://www.smithsonianmag.com/history/document-detectives-use-smudges-bloodstains-investigate-past-180980986/"
     ]
   ]
 ]
