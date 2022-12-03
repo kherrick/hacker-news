@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-12-03, 12:59:43",
+      "https://news.ycombinator.com/item?id=33843148"
+    ],
+    [
+      "Bettercap – Swiss Army Knife for 802.11, BLE, IPv4 and IPv6 Networks",
+      "https://github.com/bettercap/bettercap"
+    ]
+  ],
+  [
+    [
       "2022-12-03, 12:37:41",
       "https://news.ycombinator.com/item?id=33843020"
     ],
     [
       "Call of Duty players flock to buy “all-black” DLC skin, hide in dark corners",
       "https://arstechnica.com/gaming/2022/12/call-of-duty-players-flock-to-buy-all-black-dlc-skin-hide-in-dark-corners/"
+    ]
+  ],
+  [
+    [
+      "2022-12-03, 12:31:35",
+      "https://news.ycombinator.com/item?id=33842981"
+    ],
+    [
+      "Show HN: A nice C string API",
+      "https://github.com/mickjc750/str"
+    ]
+  ],
+  [
+    [
+      "2022-12-03, 12:16:32",
+      "https://news.ycombinator.com/item?id=33842904"
+    ],
+    [
+      "AI solves Advent of Code 2022",
+      "https://note89.github.io/the-advent-of-code-ai-edition/"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2022-12-02, 19:46:19",
-      "https://news.ycombinator.com/item?id=33835815"
-    ],
-    [
-      "Why is Booz Allen renting us back our own national parks?",
-      "https://mattstoller.substack.com/p/why-is-booz-allen-renting-us-back"
-    ]
-  ],
-  [
-    [
-      "2022-12-02, 18:13:35",
-      "https://news.ycombinator.com/item?id=33834353"
-    ],
-    [
-      "FCC partially grants SpaceX Gen2 broadband satellite application",
-      "https://www.fcc.gov/document/fcc-partially-grants-spacex-gen2-broadband-satellite-application"
-    ]
-  ],
-  [
-    [
       "2022-12-02, 17:59:56",
       "https://news.ycombinator.com/item?id=33834118"
     ],
@@ -267,16 +277,6 @@
     [
       "Remotely unlock/start/locate any remotely connected Honda/Nissan [resolved]",
       "https://twitter.com/samwcyo/status/1597792097175674880"
-    ]
-  ],
-  [
-    [
-      "2022-12-02, 14:25:04",
-      "https://news.ycombinator.com/item?id=33830759"
-    ],
-    [
-      "DNS over Wikipedia",
-      "https://github.com/aaronjanse/dns-over-wikipedia"
     ]
   ],
   [
