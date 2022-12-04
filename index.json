@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-04, 01:27:38",
+      "https://news.ycombinator.com/item?id=33849556"
+    ],
+    [
+      "Emacs should become a Wayland compositor",
+      "https://emacsconf.org/2022/talks/wayland/"
+    ]
+  ],
+  [
+    [
+      "2022-12-04, 00:49:57",
+      "https://news.ycombinator.com/item?id=33849267"
+    ],
+    [
+      "Ask HN: Best books read in 2022",
+      "https://news.ycombinator.com/item?id=33849267"
+    ]
+  ],
+  [
+    [
+      "2022-12-04, 00:24:11",
+      "https://news.ycombinator.com/item?id=33849068"
+    ],
+    [
+      "It’s Time for ‘Maximum Viable Product’",
+      "https://debugger.medium.com/its-time-for-maximum-viable-product-eec9d5211156"
+    ]
+  ],
+  [
+    [
       "2022-12-03, 23:18:46",
       "https://news.ycombinator.com/item?id=33848529"
     ],
@@ -37,16 +67,6 @@
     [
       "Anker’s Eufy lied to us about the security of its security cameras",
       "https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage"
-    ]
-  ],
-  [
-    [
-      "2022-12-03, 20:02:43",
-      "https://news.ycombinator.com/item?id=33846751"
-    ],
-    [
-      "Judge finds no rights violations in FBI seizure Beverly Hills safe-deposit boxes",
-      "https://www.latimes.com/california/story/2022-09-30/judge-backs-fbi-beverly-hills-safe-deposit-box-raid"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-12-03, 17:55:52",
-      "https://news.ycombinator.com/item?id=33845555"
-    ],
-    [
-      "The Novachord Restoration Project",
-      "https://discretesynthesizers.com/nova/intro.htm"
-    ]
-  ],
-  [
-    [
       "2022-12-03, 17:36:21",
       "https://news.ycombinator.com/item?id=33845291"
     ],
@@ -171,42 +181,12 @@
   ],
   [
     [
-      "2022-12-03, 15:24:14",
-      "https://news.ycombinator.com/item?id=33844117"
-    ],
-    [
-      "Twenty five thousand dollars of funny money",
-      "http://rachelbythebay.com/w/2022/12/02/25k/"
-    ]
-  ],
-  [
-    [
-      "2022-12-03, 15:16:14",
-      "https://news.ycombinator.com/item?id=33844065"
-    ],
-    [
-      "The Oldschool PC Font Pack (v2.2)",
-      "https://int10h.org/oldschool-pc-fonts/readme/"
-    ]
-  ],
-  [
-    [
       "2022-12-03, 14:43:23",
       "https://news.ycombinator.com/item?id=33843808"
     ],
     [
       "Why We’re Suing NSO",
       "https://knightcolumbia.org/blog/why-were-suing-nso-group?_preview_=7bd805e6dc"
-    ]
-  ],
-  [
-    [
-      "2022-12-03, 13:56:07",
-      "https://news.ycombinator.com/item?id=33843480"
-    ],
-    [
-      "The first Geely was a fake Mercedes-Benz E-Class based on a real Audi 100",
-      "https://chinacarhistory.com/2018/02/07/the-first-geely-was-a-mercedes-benz-e-class-based-on-an-audi-100/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2022-12-02, 07:13:44",
+      "https://news.ycombinator.com/item?id=33827787"
+    ],
+    [
+      "Magma: Open-source carrier-grade wireless networking platform for rural areas",
+      "https://github.com/magma"
+    ]
+  ],
+  [
+    [
       "2022-12-02, 06:18:26",
       "https://news.ycombinator.com/item?id=33827437"
     ],
     [
       "What I’ve Learned in 45 Years in the Software Industry (2021)",
       "https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/"
+    ]
+  ],
+  [
+    [
+      "2022-12-02, 06:17:31",
+      "https://news.ycombinator.com/item?id=33827434"
+    ],
+    [
+      "Robot Gift Guide 2022",
+      "https://spectrum.ieee.org/robot-gift-guide-2022"
     ]
   ]
 ]
