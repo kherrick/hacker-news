@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-04, 07:22:34",
+      "https://news.ycombinator.com/item?id=33851406"
+    ],
+    [
+      "Apple to move 40-45% iPhone production to India",
+      "https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099"
+    ]
+  ],
+  [
+    [
       "2022-12-04, 05:51:02",
       "https://news.ycombinator.com/item?id=33851030"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-12-03, 19:35:06",
-      "https://news.ycombinator.com/item?id=33846512"
-    ],
-    [
-      "PX or REM in CSS? Just Use REM",
-      "https://austingil.com/px-or-rem-in-css/"
-    ]
-  ],
-  [
-    [
       "2022-12-03, 18:45:29",
       "https://news.ycombinator.com/item?id=33846104"
     ],
@@ -205,8 +205,8 @@
       "https://news.ycombinator.com/item?id=33829934"
     ],
     [
-      "Show HN: A web front end for your Org-files (100% faithful to GNU+Emacs)",
-      "https://github.com/Gopiandcode/emacs-viewer"
+      "Show HN: A web front end for your Org-files",
+      "https://codeberg.org/gopiandcode/emacs-viewer"
     ]
   ],
   [
