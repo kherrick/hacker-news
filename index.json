@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-04, 15:25:47",
+      "https://news.ycombinator.com/item?id=33854469"
+    ],
+    [
+      "Winter Is Here: Slowing Down to Fight Sad",
+      "https://nicky.bearblog.dev/sad-is-here/"
+    ]
+  ],
+  [
+    [
+      "2022-12-04, 14:54:57",
+      "https://news.ycombinator.com/item?id=33854184"
+    ],
+    [
+      "The War on General Purpose Computing",
+      "https://csclub.uwaterloo.ca/resources/tech-talks/cory-doctorow-the-war-on-general-purpose-computing/"
+    ]
+  ],
+  [
+    [
       "2022-12-04, 14:01:45",
       "https://news.ycombinator.com/item?id=33853773"
     ],
@@ -57,16 +77,6 @@
     [
       "Recommendations for Japan Travel",
       "https://www.kalzumeus.com/japan-recommendations/"
-    ]
-  ],
-  [
-    [
-      "2022-12-04, 10:38:07",
-      "https://news.ycombinator.com/item?id=33852383"
-    ],
-    [
-      "Iran abolishes morality police",
-      "https://www.hindustantimes.com/world-news/iran-anti-hijab-protests-mahsa-amini-death-iran-abolishes-controversial-morality-police-amid-massive-unrest-report-101670145795129.html"
     ]
   ],
   [
@@ -171,22 +181,22 @@
   ],
   [
     [
-      "2022-12-04, 00:24:11",
-      "https://news.ycombinator.com/item?id=33849068"
-    ],
-    [
-      "It’s Time for ‘Maximum Viable Product’",
-      "https://debugger.medium.com/its-time-for-maximum-viable-product-eec9d5211156"
-    ]
-  ],
-  [
-    [
       "2022-12-03, 21:19:45",
       "https://news.ycombinator.com/item?id=33847479"
     ],
     [
       "Building a Virtual Machine Inside ChatGPT",
       "https://www.engraved.blog/building-a-virtual-machine-inside/"
+    ]
+  ],
+  [
+    [
+      "2022-12-03, 13:47:29",
+      "https://news.ycombinator.com/item?id=33843427"
+    ],
+    [
+      "On the Design of Display Processors (1968) [pdf]",
+      "http://cva.stanford.edu/classes/cs99s/papers/myer-sutherland-design-of-display-processors.pdf"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Creating a modifiable gzipped disk image",
       "https://rwmj.wordpress.com/2022/12/01/creating-a-modifiable-gzipped-disk-image/"
-    ]
-  ],
-  [
-    [
-      "2022-12-02, 07:13:44",
-      "https://news.ycombinator.com/item?id=33827787"
-    ],
-    [
-      "Magma: Open-source carrier-grade wireless networking platform for rural areas",
-      "https://github.com/magma"
     ]
   ]
 ]
