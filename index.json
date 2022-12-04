@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-12-04, 15:25:47",
-      "https://news.ycombinator.com/item?id=33854469"
+      "2022-12-04, 16:16:31",
+      "https://news.ycombinator.com/item?id=33854927"
     ],
     [
-      "Winter Is Here: Slowing Down to Fight Sad",
-      "https://nicky.bearblog.dev/sad-is-here/"
+      "Undocumented 8086 Opcodes part 1",
+      "http://www.os2museum.com/wp/undocumented-8086-opcodes-part-i/"
+    ]
+  ],
+  [
+    [
+      "2022-12-04, 15:43:09",
+      "https://news.ycombinator.com/item?id=33854638"
+    ],
+    [
+      "Show HN: Whole Git repo was made with ChatGPT",
+      "https://github.com/vrescobar/chatGPT-python-elm"
+    ]
+  ],
+  [
+    [
+      "2022-12-04, 15:32:32",
+      "https://news.ycombinator.com/item?id=33854539"
+    ],
+    [
+      "Streetlights Are Turning Purple",
+      "https://www.businessinsider.com/led-city-streetlights-turning-purple-broken-tech-danger-2022-11"
+    ]
+  ],
+  [
+    [
+      "2022-12-04, 15:14:45",
+      "https://news.ycombinator.com/item?id=33854385"
+    ],
+    [
+      "A new AI game: Give me ideas for crimes to do",
+      "https://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-12-04, 01:06:15",
-      "https://news.ycombinator.com/item?id=33849394"
-    ],
-    [
-      "Convincing ChatGPT to Eradicate Humanity with Python Code",
-      "https://zacdenham.com/blog/narrative-manipulation-convincing-gpt-chat-to-write-a-python-program-to-eradicate-humanity"
-    ]
-  ],
-  [
-    [
       "2022-12-03, 21:19:45",
       "https://news.ycombinator.com/item?id=33847479"
     ],
@@ -215,7 +235,7 @@
       "https://news.ycombinator.com/item?id=33842919"
     ],
     [
-      "The Future Is Analog",
+      "The Future Is Analog: How to Create a More Human World  by David Sax",
       "https://thewalrus.ca/why-the-future-is-analog/"
     ]
   ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2022-12-02, 12:26:57",
-      "https://news.ycombinator.com/item?id=33829645"
-    ],
-    [
-      "WTF Is T_paamayim_nekudotayim (2013)",
-      "https://phil.tech/2013/wtf-is-t-paamayim-nekudotayim/"
-    ]
-  ],
-  [
-    [
       "2022-12-02, 10:45:07",
       "https://news.ycombinator.com/item?id=33828878"
     ],
@@ -287,16 +297,6 @@
     [
       "Is it worth writing about?",
       "https://notes.eatonphil.com/is-it-worth-writing-about.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-02, 07:40:09",
-      "https://news.ycombinator.com/item?id=33827903"
-    ],
-    [
-      "Creating a modifiable gzipped disk image",
-      "https://rwmj.wordpress.com/2022/12/01/creating-a-modifiable-gzipped-disk-image/"
     ]
   ]
 ]
