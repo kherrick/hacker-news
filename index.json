@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-05, 00:28:51",
+      "https://news.ycombinator.com/item?id=33859751"
+    ],
+    [
+      "Activision’s Faulty Anti-Cheat Software",
+      "https://blog.mikeswanson.com/post/702753924034297856/activisions-faulty-anti-cheat-software"
+    ]
+  ],
+  [
+    [
+      "2022-12-05, 00:21:32",
+      "https://news.ycombinator.com/item?id=33859697"
+    ],
+    [
+      "Egui commit: Implement accessibility APIs via AccessKit",
+      "https://github.com/emilk/egui/commit/e1f348e4b24c2fa83d25c6a7ddfd9b38b85de161"
+    ]
+  ],
+  [
+    [
+      "2022-12-04, 23:55:17",
+      "https://news.ycombinator.com/item?id=33859445"
+    ],
+    [
+      "Google has a company strategy, not a product strategy",
+      "https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy"
+    ]
+  ],
+  [
+    [
       "2022-12-04, 23:27:58",
       "https://news.ycombinator.com/item?id=33859220"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2022-12-04, 23:06:00",
-      "https://news.ycombinator.com/item?id=33859011"
+      "2022-12-04, 23:21:03",
+      "https://news.ycombinator.com/item?id=33859162"
     ],
     [
-      "Web Platforms Collapse: The Facebook Case Study",
-      "https://tedgioia.substack.com/p/how-web-platforms-collapse-the-facebook"
+      "Memory leaks detection paper co-authored by Netflix CEO Reed Hastings in 1992 [pdf]",
+      "https://web.stanford.edu/class/cs343/resources/purify.pdf"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33858947"
     ],
     [
-      "Archaeologists Ask Netflix to Reclassify Graham Hancock’s Docuseries as Fiction",
+      "Archaeologists ask Netflix to reclassify Graham Hancock’s docuseries as fiction",
       "https://news.artnet.com/art-world/archaeologists-graham-hancocks-ancient-apocalypse-fiction-2222060"
     ]
   ],
@@ -57,16 +87,6 @@
     [
       "Software horror show: SAP Concur",
       "https://blog.plover.com/2022/12/04/#crap-warning-signs-2"
-    ]
-  ],
-  [
-    [
-      "2022-12-04, 20:14:08",
-      "https://news.ycombinator.com/item?id=33857356"
-    ],
-    [
-      "Ask HN: How would you build a ChatGPT detector?",
-      "https://news.ycombinator.com/item?id=33857356"
     ]
   ],
   [
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=33855494"
     ],
     [
-      "The terahertz gap: into the dead zone",
+      "The terahertz gap: into the dead zone (2007)",
       "https://www.chemistryworld.com/features/the-terahertz-gap-into-the-dead-zone/3004857.article"
     ]
   ],
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=33854927"
     ],
     [
-      "Undocumented 8086 Opcodes part 1",
+      "Undocumented 8086 Opcodes part 1 (2017)",
       "http://www.os2museum.com/wp/undocumented-8086-opcodes-part-i/"
     ]
   ],
@@ -167,36 +187,6 @@
     [
       "Ask HN: Reading material on how to be a better software engineer?",
       "https://news.ycombinator.com/item?id=33854815"
-    ]
-  ],
-  [
-    [
-      "2022-12-04, 15:43:09",
-      "https://news.ycombinator.com/item?id=33854638"
-    ],
-    [
-      "Show HN: Whole Git repo was made with ChatGPT",
-      "https://github.com/vrescobar/chatGPT-python-elm"
-    ]
-  ],
-  [
-    [
-      "2022-12-04, 15:14:45",
-      "https://news.ycombinator.com/item?id=33854385"
-    ],
-    [
-      "A new AI game: Give me ideas for crimes to do",
-      "https://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/"
-    ]
-  ],
-  [
-    [
-      "2022-12-04, 15:06:04",
-      "https://news.ycombinator.com/item?id=33854316"
-    ],
-    [
-      "Acorn ARM Evaluation System",
-      "http://www.computinghistory.org.uk/det/4617/Acorn-ARM-Evaluation-System"
     ]
   ],
   [
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2022-12-04, 09:44:07",
-      "https://news.ycombinator.com/item?id=33852091"
+      "2022-12-04, 05:29:48",
+      "https://news.ycombinator.com/item?id=33850906"
     ],
     [
-      "Cognitive ability is a powerful predictor of political tolerance",
-      "https://onlinelibrary.wiley.com/doi/abs/10.1111/jopy.12667"
+      "Nervous system manipulation by electromagnetic fields from monitors",
+      "https://pubchem.ncbi.nlm.nih.gov/patent/US-6506148-B2"
     ]
   ],
   [
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2022-12-03, 21:19:45",
-      "https://news.ycombinator.com/item?id=33847479"
+      "2022-12-03, 22:02:12",
+      "https://news.ycombinator.com/item?id=33847869"
     ],
     [
-      "Building a Virtual Machine Inside ChatGPT",
-      "https://www.engraved.blog/building-a-virtual-machine-inside/"
+      "The Trusted Platform Module Key Hierarchy",
+      "https://ericchiang.github.io/post/tpm-keys/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The future is analog: How to create a more human world",
       "https://thewalrus.ca/why-the-future-is-analog/"
+    ]
+  ],
+  [
+    [
+      "2022-12-03, 07:02:51",
+      "https://news.ycombinator.com/item?id=33841365"
+    ],
+    [
+      "Paying Maintainers Isn’t a Magic Bullet",
+      "https://blog.hansenpartnership.com/paying-maintainers-isnt-a-magic-bullet/"
     ]
   ]
 ]
