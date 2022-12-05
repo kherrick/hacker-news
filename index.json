@@ -1,22 +1,12 @@
 [
   [
     [
-      "2022-12-05, 12:11:20",
-      "https://news.ycombinator.com/item?id=33864531"
+      "2022-12-05, 12:42:50",
+      "https://news.ycombinator.com/item?id=33864844"
     ],
     [
-      "Filtering webhook events based on the payload structure",
-      "https://getconvoy.io/blog/introducing-subscriptions-filtering/"
-    ]
-  ],
-  [
-    [
-      "2022-12-05, 12:02:42",
-      "https://news.ycombinator.com/item?id=33864447"
-    ],
-    [
-      "Nobody’s using CBDCs. India’s piloting one anyway",
-      "https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway"
+      "Ask HN: Is AI-Assisted Coding the Start of the Death of Software Development?",
+      "https://news.ycombinator.com/item?id=33864844"
     ]
   ],
   [
@@ -31,12 +21,12 @@
   ],
   [
     [
-      "2022-12-05, 11:29:25",
-      "https://news.ycombinator.com/item?id=33864195"
+      "2022-12-05, 11:37:11",
+      "https://news.ycombinator.com/item?id=33864257"
     ],
     [
-      "Ask HN: Do you measure and/or mitigate CO2 in your living space?",
-      "https://news.ycombinator.com/item?id=33864195"
+      "One Man's Crusade Against Machismo in Latin America",
+      "https://www.spiegel.de/international/world/the-stain-of-toxic-masculinity-one-man-s-crusade-against-machismo-in-latin-america-a-2cf78882-9ea6-4a9c-825e-6f276fba18c7"
     ]
   ],
   [
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2022-12-05, 05:19:25",
+      "https://news.ycombinator.com/item?id=33861773"
+    ],
+    [
+      "Be Less Scared of Overconfidence",
+      "https://www.benkuhn.net/overconfidence/"
+    ]
+  ],
+  [
+    [
       "2022-12-05, 04:45:12",
       "https://news.ycombinator.com/item?id=33861574"
     ],
@@ -177,16 +177,6 @@
     [
       "Egui commit: Implement accessibility APIs via AccessKit",
       "https://github.com/emilk/egui/commit/e1f348e4b24c2fa83d25c6a7ddfd9b38b85de161"
-    ]
-  ],
-  [
-    [
-      "2022-12-04, 23:55:17",
-      "https://news.ycombinator.com/item?id=33859445"
-    ],
-    [
-      "Google has a company strategy, not a product strategy",
-      "https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Lessons learned after living in an off-grid rental",
       "https://www.theverge.com/23487709/inforest-off-grid-solar-cabin-review"
+    ]
+  ],
+  [
+    [
+      "2022-12-03, 18:44:20",
+      "https://news.ycombinator.com/item?id=33846087"
+    ],
+    [
+      "Modern data modeling: Start with the end?",
+      "https://www.adventofdata.com/modern-data-modeling-start-with-the-end/"
     ]
   ],
   [
