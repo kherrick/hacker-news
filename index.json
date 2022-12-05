@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-12-05, 05:11:46",
-      "https://news.ycombinator.com/item?id=33861739"
-    ],
-    [
-      "Predicting sex from retinal fundus photographs using automated deep learning",
-      "https://www.nature.com/articles/s41598-021-89743-x"
-    ]
-  ],
-  [
-    [
       "2022-12-05, 04:45:12",
       "https://news.ycombinator.com/item?id=33861574"
     ],
@@ -67,16 +57,6 @@
     [
       "Nibbler 4 Bit CPU",
       "https://www.bigmessowires.com/nibbler/"
-    ]
-  ],
-  [
-    [
-      "2022-12-05, 02:10:26",
-      "https://news.ycombinator.com/item?id=33860562"
-    ],
-    [
-      "Tell HN: ChatGPT can reply like a specific Reddit or HN user, including you",
-      "https://news.ycombinator.com/item?id=33860562"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2022-12-04, 11:55:24",
+      "https://news.ycombinator.com/item?id=33852825"
+    ],
+    [
+      "x86 Quine: These 12 Bytes of Machine Code Print Themselves (2005)",
+      "https://susam.net/blog/x86-quine.html"
+    ]
+  ],
+  [
+    [
       "2022-12-04, 05:29:48",
       "https://news.ycombinator.com/item?id=33850906"
     ],
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2022-12-04, 04:37:00",
-      "https://news.ycombinator.com/item?id=33850659"
-    ],
-    [
-      "User IDs probably shouldn't be passed around as ints (2018)",
-      "https://rachelbythebay.com/w/2018/04/27/uid/"
-    ]
-  ],
-  [
-    [
       "2022-12-03, 22:08:57",
       "https://news.ycombinator.com/item?id=33847937"
     ],
     [
       "Recreating Medieval Paintings with Light at St Albans Cathedral",
       "https://www.medievalists.net/2022/11/medieval-paitings-st-albans-cathedral/"
+    ]
+  ],
+  [
+    [
+      "2022-12-03, 22:02:12",
+      "https://news.ycombinator.com/item?id=33847869"
+    ],
+    [
+      "The Trusted Platform Module Key Hierarchy",
+      "https://ericchiang.github.io/post/tpm-keys/"
+    ]
+  ],
+  [
+    [
+      "2022-12-03, 21:19:45",
+      "https://news.ycombinator.com/item?id=33847479"
+    ],
+    [
+      "Building a Virtual Machine Inside ChatGPT",
+      "https://www.engraved.blog/building-a-virtual-machine-inside/"
     ]
   ],
   [
