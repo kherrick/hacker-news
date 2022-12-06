@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33884441"
     ],
     [
-      "Apple announces upgrade to App Store pricing",
+      "Apple announces ‘upgrade’ to App Store pricing, adding 700 new price points",
       "https://appleworld.today/archives/101157"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33881857"
     ],
     [
-      "Tell HN: My Child's First Program",
+      "Tell HN: My child's first program",
       "https://news.ycombinator.com/item?id=33881857"
     ]
   ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-12-06, 09:33:32",
-      "https://news.ycombinator.com/item?id=33877510"
-    ],
-    [
-      "Exercises for understanding Haskell Lenses (2019)",
-      "https://williamyaoh.com/posts/2019-04-25-lens-exercises.html"
-    ]
-  ],
-  [
-    [
       "2022-12-06, 07:51:52",
       "https://news.ycombinator.com/item?id=33876949"
     ],
@@ -297,6 +287,16 @@
     [
       "Taiga: A free and open-source project management tool",
       "https://www.taiga.io/"
+    ]
+  ],
+  [
+    [
+      "2022-12-03, 10:09:35",
+      "https://news.ycombinator.com/item?id=33842285"
+    ],
+    [
+      "Trebuchet-client: Communication through tough firewalls and bad mobile networks",
+      "https://github.com/mattkrick/trebuchet-client"
     ]
   ]
 ]
