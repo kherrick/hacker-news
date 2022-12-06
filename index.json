@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-06, 22:08:15",
+      "https://news.ycombinator.com/item?id=33887813"
+    ],
+    [
+      "Loopr: A Loop/Reduction Macro for Clojure",
+      "https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure"
+    ]
+  ],
+  [
+    [
       "2022-12-06, 22:05:03",
       "https://news.ycombinator.com/item?id=33887783"
     ],
@@ -17,16 +27,6 @@
     [
       "Odiggo (YC S21), a hardware startup, is looking for a tech co-founder",
       "https://news.ycombinator.com/item?id=33886973"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 20:40:42",
-      "https://news.ycombinator.com/item?id=33886709"
-    ],
-    [
-      "Faceting large result sets in PostgreSQL",
-      "https://www.cybertec-postgresql.com/en/faceting-large-result-sets/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-12-06, 12:53:52",
-      "https://news.ycombinator.com/item?id=33878873"
-    ],
-    [
-      "Show HN: TinyUX – Grid based low-fi wireframing on your mobile phone",
-      "https://www.tinyux.app/"
-    ]
-  ],
-  [
-    [
       "2022-12-06, 11:31:56",
       "https://news.ycombinator.com/item?id=33878209"
     ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2022-12-05, 21:44:58",
+      "https://news.ycombinator.com/item?id=33872336"
+    ],
+    [
+      "A tale of two particles: Not all radioactivity is risky or harmful",
+      "https://worksinprogress.substack.com/p/a-tale-of-two-particles"
+    ]
+  ],
+  [
+    [
       "2022-12-05, 16:25:35",
       "https://news.ycombinator.com/item?id=33867657"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-12-05, 13:59:14",
-      "https://news.ycombinator.com/item?id=33865687"
+      "2022-12-04, 07:59:56",
+      "https://news.ycombinator.com/item?id=33851589"
     ],
     [
-      "A new CMake Scripting Language?",
-      "https://zenodo.org/record/6578791"
+      "QSL Cards: Ghosts in the Air Glow and High-Freq Active Auroral Research (HAARP)",
+      "https://goughlui.com/2022/12/04/qsl-cards-ghosts-in-the-air-glow-g1taeg-high-frequency-active-auroral-research-program-haarp/"
     ]
   ],
   [
