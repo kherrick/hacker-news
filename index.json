@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-06, 20:37:33",
+      "https://news.ycombinator.com/item?id=33886673"
+    ],
+    [
+      "Lottie 4.0 for iOS: new render engine with significant performance improvements",
+      "https://medium.com/airbnb-engineering/announcing-lottie-4-0-for-ios-d4d226862a54"
+    ]
+  ],
+  [
+    [
       "2022-12-06, 19:40:06",
       "https://news.ycombinator.com/item?id=33885834"
     ],
@@ -27,6 +37,16 @@
     [
       "Apple announces ‘upgrade’ to App Store pricing, adding 700 new price points",
       "https://appleworld.today/archives/101157"
+    ]
+  ],
+  [
+    [
+      "2022-12-06, 18:05:00",
+      "https://news.ycombinator.com/item?id=33884424"
+    ],
+    [
+      "Show HN: Publish from GitHub Actions using multi-factor authentication",
+      "https://github.com/step-security/wait-for-secrets"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-12-06, 13:10:53",
-      "https://news.ycombinator.com/item?id=33879083"
-    ],
-    [
-      "Ask HN: Software architects – what’s your typical day look like?",
-      "https://news.ycombinator.com/item?id=33879083"
-    ]
-  ],
-  [
-    [
       "2022-12-06, 12:53:52",
       "https://news.ycombinator.com/item?id=33878873"
     ],
@@ -277,16 +287,6 @@
     [
       "Leaving the Basement",
       "https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/"
-    ]
-  ],
-  [
-    [
-      "2022-12-03, 13:09:53",
-      "https://news.ycombinator.com/item?id=33843200"
-    ],
-    [
-      "Taiga: A free and open-source project management tool",
-      "https://www.taiga.io/"
     ]
   ],
   [
