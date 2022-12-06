@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-06, 07:51:52",
+      "https://news.ycombinator.com/item?id=33876949"
+    ],
+    [
+      "Linux Certificate Authority root stores have a too simple view of 'trust'",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem"
+    ]
+  ],
+  [
+    [
+      "2022-12-06, 07:22:37",
+      "https://news.ycombinator.com/item?id=33876811"
+    ],
+    [
+      "A Reader Asks How to Avoid Working for Evil",
+      "https://rachelbythebay.com/w/2022/12/04/downfall/"
+    ]
+  ],
+  [
+    [
       "2022-12-06, 07:00:18",
       "https://news.ycombinator.com/item?id=33876690"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-12-05, 18:03:25",
-      "https://news.ycombinator.com/item?id=33869187"
-    ],
-    [
-      "Federal court requires Amazon to stop firing employees for protected activities",
-      "https://www.nlrb.gov/news-outreach/news-story/nlrb-region-29-wins-federal-court-order-requiring-amazon-to-cease-and"
-    ]
-  ],
-  [
-    [
       "2022-12-05, 17:59:24",
       "https://news.ycombinator.com/item?id=33869118"
     ],
@@ -217,16 +227,6 @@
     [
       "One does not simply destroy a nuclear weapon",
       "https://educatedguesswork.org/posts/nuclear-weapon-disposal/"
-    ]
-  ],
-  [
-    [
-      "2022-12-05, 16:24:31",
-      "https://news.ycombinator.com/item?id=33867636"
-    ],
-    [
-      "Djot: A light markup language by the creator of Pandoc and CommonMark",
-      "https://github.com/jgm/djot"
     ]
   ],
   [
