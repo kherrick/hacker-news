@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-12-06, 07:51:52",
-      "https://news.ycombinator.com/item?id=33876949"
-    ],
-    [
-      "Linux Certificate Authority root stores have a too simple view of 'trust'",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem"
-    ]
-  ],
-  [
-    [
       "2022-12-05, 16:25:35",
       "https://news.ycombinator.com/item?id=33867657"
     ],
@@ -287,6 +277,16 @@
     [
       "Findings from 3,300-year-old Uluburun shipwreck reveal complex trade network",
       "https://phys.org/news/2022-11-year-old-uluburun-shipwreck-reveal-complex.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-05, 13:59:14",
+      "https://news.ycombinator.com/item?id=33865687"
+    ],
+    [
+      "A new CMake Scripting Language?",
+      "https://zenodo.org/record/6578791"
     ]
   ],
   [
