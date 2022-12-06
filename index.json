@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-06, 09:50:36",
+      "https://news.ycombinator.com/item?id=33877587"
+    ],
+    [
+      "FTX Contagion",
+      "https://www.mollywhite.net/etc/ftx-contagion"
+    ]
+  ],
+  [
+    [
       "2022-12-06, 09:26:23",
       "https://news.ycombinator.com/item?id=33877463"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33877153"
     ],
     [
-      "FreeBSD 12.4 Released",
+      "FreeBSD 12.4",
       "https://www.freebsd.org/releases/12.4R/announce/"
     ]
   ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2022-12-05, 22:49:54",
+      "https://news.ycombinator.com/item?id=33873028"
+    ],
+    [
+      "Fe: next generation smart contract language for Ethereum",
+      "https://fe-lang.org/"
+    ]
+  ],
+  [
+    [
       "2022-12-05, 22:16:06",
       "https://news.ycombinator.com/item?id=33872674"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-12-05, 18:03:25",
-      "https://news.ycombinator.com/item?id=33869187"
-    ],
-    [
-      "Federal court requires Amazon to stop firing employees for protected activities",
-      "https://www.nlrb.gov/news-outreach/news-story/nlrb-region-29-wins-federal-court-order-requiring-amazon-to-cease-and"
-    ]
-  ],
-  [
-    [
       "2022-12-05, 17:59:24",
       "https://news.ycombinator.com/item?id=33869118"
     ],
@@ -227,16 +237,6 @@
     [
       "Thunderbird for Android preview: Modern message redesign",
       "https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/"
-    ]
-  ],
-  [
-    [
-      "2022-12-05, 16:24:31",
-      "https://news.ycombinator.com/item?id=33867636"
-    ],
-    [
-      "Djot: A light markup language by the creator of Pandoc and CommonMark",
-      "https://github.com/jgm/djot"
     ]
   ],
   [
