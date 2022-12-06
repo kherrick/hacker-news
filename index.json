@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-12-06, 16:33:16",
-      "https://news.ycombinator.com/item?id=33882733"
-    ],
-    [
-      "Mastodon Instance with 6 Files",
-      "https://www.justingarrison.com/blog/2022-12-06-mastodon-files-instance/"
-    ]
-  ],
-  [
-    [
       "2022-12-06, 16:24:50",
       "https://news.ycombinator.com/item?id=33882590"
     ],
@@ -117,6 +107,16 @@
     [
       "Apple Introduces Apple Music Sing",
       "https://www.apple.com/newsroom/2022/12/apple-introduces-apple-music-sing/"
+    ]
+  ],
+  [
+    [
+      "2022-12-06, 14:54:44",
+      "https://news.ycombinator.com/item?id=33880909"
+    ],
+    [
+      "Debugging Lisp: in CL we can resume a program from any point in the stack",
+      "https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/"
     ]
   ],
   [
