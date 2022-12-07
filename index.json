@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-07, 00:12:27",
+      "https://news.ycombinator.com/item?id=33888981"
+    ],
+    [
+      "RMS – EmacsConf Talk",
+      "https://emacsconf.org/2022/talks/rms/"
+    ]
+  ],
+  [
+    [
       "2022-12-06, 23:08:23",
       "https://news.ycombinator.com/item?id=33888394"
     ],
@@ -37,6 +47,16 @@
     [
       "Anomaly 6: Private spying firm targets global population with illegal spyware",
       "https://thegrayzone.com/2022/12/06/files-anomaly-6-firm-spyware/"
+    ]
+  ],
+  [
+    [
+      "2022-12-06, 21:16:31",
+      "https://news.ycombinator.com/item?id=33887170"
+    ],
+    [
+      "McDonalds Event Driven Architecture",
+      "https://medium.com/mcdonalds-technical-blog/behind-the-scenes-mcdonalds-event-driven-architecture-51a6542c0d86"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-12-06, 16:24:50",
-      "https://news.ycombinator.com/item?id=33882590"
-    ],
-    [
-      "PR for startups: is it only for the rich and famous? (2020)",
-      "https://anhtho.substack.com/p/pr-for-startups-is-it-only-for-the"
-    ]
-  ],
-  [
-    [
       "2022-12-06, 16:20:34",
       "https://news.ycombinator.com/item?id=33882506"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-12-06, 14:54:44",
-      "https://news.ycombinator.com/item?id=33880909"
-    ],
-    [
-      "Debugging Lisp: fix and resume a program from any point in stack",
-      "https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/"
-    ]
-  ],
-  [
-    [
       "2022-12-06, 14:45:30",
       "https://news.ycombinator.com/item?id=33880721"
     ],
@@ -187,6 +187,16 @@
     [
       "A homework question in someone’s 11th grade statistics class",
       "https://statmodeling.stat.columbia.edu/2022/12/06/a-homework-question-in-someones-11th-grade-statistics-class/"
+    ]
+  ],
+  [
+    [
+      "2022-12-06, 14:20:53",
+      "https://news.ycombinator.com/item?id=33880215"
+    ],
+    [
+      "Emanote – Haskell-powered structured view of your plain-text notes",
+      "https://emanote.srid.ca/"
     ]
   ],
   [
@@ -261,21 +271,11 @@
   ],
   [
     [
-      "2022-12-05, 15:35:16",
-      "https://news.ycombinator.com/item?id=33866947"
-    ],
-    [
-      "Findings from 3,300-year-old Uluburun shipwreck reveal complex trade network",
-      "https://phys.org/news/2022-11-year-old-uluburun-shipwreck-reveal-complex.html"
-    ]
-  ],
-  [
-    [
       "2022-12-04, 11:43:42",
       "https://news.ycombinator.com/item?id=33852746"
     ],
     [
-      "The Axiom of Infinity",
+      "The Axiom of Infinity (2018)",
       "https://boxingpythagoras.com/2018/12/01/the-axiom-of-infinity/"
     ]
   ],
