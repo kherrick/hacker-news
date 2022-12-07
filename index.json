@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-12-07, 15:59:55",
-      "https://news.ycombinator.com/item?id=33895867"
+      "2022-12-07, 16:26:42",
+      "https://news.ycombinator.com/item?id=33896284"
     ],
     [
-      "Cost of running ChatGPT is $100K per day, or $3M per month",
-      "https://twitter.com/tomgoldsteincs/status/1600196995389366274"
+      "Ask HN: Why doesn't archive.today get shut down?",
+      "https://news.ycombinator.com/item?id=33896284"
     ]
   ],
   [
@@ -17,26 +17,6 @@
     [
       "Plaid Layoffs",
       "https://plaid.com/team-update/"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 15:14:02",
-      "https://news.ycombinator.com/item?id=33895237"
-    ],
-    [
-      "Configuring Your Outbound Webhook Requests with Static IPs",
-      "https://getconvoy.io/blog/configuring-your-outbound-webhook-requests-with-static-ips/"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 15:12:25",
-      "https://news.ycombinator.com/item?id=33895211"
-    ],
-    [
-      "Experimentally Inventing a Programming Language Using Chat GPT",
-      "https://smaller.fish/posts/l_plus"
     ]
   ],
   [
@@ -91,6 +71,16 @@
   ],
   [
     [
+      "2022-12-07, 14:30:41",
+      "https://news.ycombinator.com/item?id=33894702"
+    ],
+    [
+      "Bun v0.3.0",
+      "https://bun.sh/blog/bun-v0.3.0"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 14:29:40",
       "https://news.ycombinator.com/item?id=33894688"
     ],
@@ -117,6 +107,16 @@
     [
       "Memories: First Exposure to Computers",
       "https://lawrencecpaulson.github.io//2022/12/07/Memories_first_exposure.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 14:08:23",
+      "https://news.ycombinator.com/item?id=33894469"
+    ],
+    [
+      "I've now disabled systemd-oomd on my Fedora desktops",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdOomdNowDisabled"
     ]
   ],
   [
