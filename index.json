@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-07, 12:57:58",
+      "https://news.ycombinator.com/item?id=33893815"
+    ],
+    [
+      "Ncdu – NCurses Disk Usage",
+      "https://dev.yorhel.nl/ncdu"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 12:00:07",
       "https://news.ycombinator.com/item?id=33893390"
     ],
@@ -97,16 +107,6 @@
     [
       "Talk = GPT-2 and Whisper and WASM",
       "https://github.com/ggerganov/whisper.cpp/discussions/167"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 08:40:00",
-      "https://news.ycombinator.com/item?id=33892076"
-    ],
-    [
-      "New Docker Desktop: Run WASM Applications Alongside Linux Containers in Docker",
-      "https://docs.docker.com/desktop/wasm/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
+      "2022-12-06, 23:11:14",
+      "https://news.ycombinator.com/item?id=33888416"
+    ],
+    [
+      "Young Bloomsbury",
+      "https://www.wsj.com/articles/young-bloomsbury-book-review-a-bohemia-of-their-own-11669395598"
+    ]
+  ],
+  [
+    [
       "2022-12-06, 22:47:28",
       "https://news.ycombinator.com/item?id=33888189"
     ],
     [
       "What does it feel like to do maths? (2016)",
       "https://plus.maths.org/content/andrew-wiles-what-does-if-feel-do-maths"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 22:08:15",
-      "https://news.ycombinator.com/item?id=33887813"
-    ],
-    [
-      "Loopr: A Loop/Reduction Macro for Clojure",
-      "https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure"
     ]
   ],
   [
