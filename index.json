@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=33900161"
     ],
     [
-      "Avenue (YC W21) Is Hiring Software Engineers in NYC (React/TypeScript/TRPC)",
+      "Avenue (YC W21) is hiring software engineers in NYC (React/TypeScript/tRPC)",
       "https://jobs.ashbyhq.com/avenue/f4e8842d-83ae-413a-9ee3-d20c2b39380a"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 20:43:06",
+      "https://news.ycombinator.com/item?id=33899948"
+    ],
+    [
+      "Ask HN: What is your go to idiot-filter question in interviews?",
+      "https://news.ycombinator.com/item?id=33899948"
     ]
   ],
   [
@@ -36,7 +46,7 @@
     ],
     [
       "Publicity Stunt Fallout",
-      "https://www.math.columbia.edu/~woit/wordpress/?p=13229"
+      "https://scottaaronson.blog/?p=6871"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2022-12-07, 18:06:49",
-      "https://news.ycombinator.com/item?id=33897790"
-    ],
-    [
-      "Time travel in Postgres. Bisect to the last valid transaction",
-      "https://neon.tech/blog/time-travel-with-postgres/"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 17:37:33",
       "https://news.ycombinator.com/item?id=33897379"
     ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33897305"
     ],
     [
-      "To Be or Not to Be a Diode? It Depends on Temperature Gradient",
+      "To be or not to be a diode? It depends on temperature gradient",
       "https://www.electronicdesign.com/technologies/analog/article/21255975/electronic-design-to-be-or-not-to-be-a-diode-it-depends-on-temperature-gradient"
     ]
   ],
@@ -131,32 +131,12 @@
   ],
   [
     [
-      "2022-12-07, 15:10:57",
-      "https://news.ycombinator.com/item?id=33895187"
-    ],
-    [
-      "Dora: A open-source Rust DHCP Server",
-      "https://github.com/bluecatengineering/dora"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 15:10:25",
       "https://news.ycombinator.com/item?id=33895178"
     ],
     [
       "Abstraction is expensive",
       "https://specbranch.com/posts/expensive-abstraction/"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 14:56:19",
-      "https://news.ycombinator.com/item?id=33894995"
-    ],
-    [
-      "Go and SQLite in the Cloud",
-      "https://www.golang.dk/articles/go-and-sqlite-in-the-cloud"
     ]
   ],
   [
@@ -175,7 +155,7 @@
       "https://news.ycombinator.com/item?id=33894679"
     ],
     [
-      "Why is everything so ugly?",
+      "The mid in fake midcentury modern",
       "https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/"
     ]
   ],
@@ -187,6 +167,16 @@
     [
       "Ncdu – NCurses Disk Usage",
       "https://dev.yorhel.nl/ncdu"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 11:20:59",
+      "https://news.ycombinator.com/item?id=33893120"
+    ],
+    [
+      "Chris Seaton has died",
+      "https://twitter.com/flavorjones/status/1600436490885947393"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2022-12-06, 23:08:39",
+      "https://news.ycombinator.com/item?id=33888398"
+    ],
+    [
+      "The Chinese Civil Examinations",
+      "https://inference-review.com/article/the-chinese-civil-examinations"
+    ]
+  ],
+  [
+    [
       "2022-12-06, 22:42:52",
       "https://news.ycombinator.com/item?id=33888157"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2022-12-06, 17:35:35",
-      "https://news.ycombinator.com/item?id=33883916"
+      "2022-12-06, 22:12:31",
+      "https://news.ycombinator.com/item?id=33887854"
     ],
     [
-      "Using clocks to detect ultralight dark matter",
-      "https://www.udel.edu/udaily/2022/december/ultralight-dark-matter-space-quantum-sensors-marianna-safronova/"
+      "Astra Magazine Had Creative Freedom and a Budget. It Wasn’t Enough",
+      "https://www.nytimes.com/2022/12/03/books/astra-magazine.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33866917"
     ],
     [
-      "Mysteriously bright flash is a black hole jet pointing straight toward Earth",
+      "Bright flash is a black hole jet pointing at Earth, astronomers say",
       "https://phys.org/news/2022-11-mysteriously-bright-black-hole-jet.html"
     ]
   ]
