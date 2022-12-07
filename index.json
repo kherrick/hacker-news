@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-07, 05:27:19",
+      "https://news.ycombinator.com/item?id=33890925"
+    ],
+    [
+      "CS 007: Personal Finance for Engineers",
+      "https://cs007.blog/"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 04:55:10",
+      "https://news.ycombinator.com/item?id=33890753"
+    ],
+    [
+      "Quanta Magazine",
+      "https://www.quantamagazine.org/infinite-patterns-appear-in-numbers-described-as-moving-systems-20221205/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 04:34:32",
       "https://news.ycombinator.com/item?id=33890655"
     ],
@@ -87,16 +107,6 @@
     [
       "What I'd like to see in Emacs",
       "https://emacsconf.org/2022/talks/rms/"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 23:14:41",
-      "https://news.ycombinator.com/item?id=33888453"
-    ],
-    [
-      "The Simple Art of Murder (1944)",
-      "https://www.theatlantic.com/magazine/archive/1944/12/the-simple-art-of-murder/656179/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "QSL Cards: Ghosts in the Air Glow and High-Freq Active Auroral Research (HAARP)",
       "https://goughlui.com/2022/12/04/qsl-cards-ghosts-in-the-air-glow-g1taeg-high-frequency-active-auroral-research-program-haarp/"
-    ]
-  ],
-  [
-    [
-      "2022-12-03, 10:09:35",
-      "https://news.ycombinator.com/item?id=33842285"
-    ],
-    [
-      "Trebuchet-client: Communication through tough firewalls and bad mobile networks",
-      "https://github.com/mattkrick/trebuchet-client"
     ]
   ]
 ]
