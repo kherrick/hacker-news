@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2022-12-07, 08:40:00",
+      "https://news.ycombinator.com/item?id=33892076"
+    ],
+    [
+      "New Docker Desktop: Run WASM Applications Alongside Linux Containers in Docker",
+      "https://docs.docker.com/desktop/wasm/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 08:06:45",
       "https://news.ycombinator.com/item?id=33891867"
     ],
@@ -267,16 +277,6 @@
     [
       "Losing the magic",
       "https://lwn.net/SubscriberLink/915163/ba83480903b82cb8/"
-    ]
-  ],
-  [
-    [
-      "2022-12-05, 15:34:33",
-      "https://news.ycombinator.com/item?id=33866935"
-    ],
-    [
-      "QOIR: A fast, simple, lossless image file format",
-      "https://nigeltao.github.io/blog/2022/qoir.html"
     ]
   ],
   [
