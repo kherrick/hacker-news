@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2022-12-07, 15:10:57",
+      "https://news.ycombinator.com/item?id=33895187"
+    ],
+    [
+      "Dora: A open-source Rust DHCP Server",
+      "https://github.com/bluecatengineering/dora"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 15:10:25",
       "https://news.ycombinator.com/item?id=33895178"
     ],
     [
       "Abstraction Is Expensive",
       "https://specbranch.com/posts/expensive-abstraction/"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 14:51:09",
+      "https://news.ycombinator.com/item?id=33894933"
+    ],
+    [
+      "Tell HN: IPv6-only still pretty much unusable",
+      "https://news.ycombinator.com/item?id=33894933"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-12-07, 11:57:39",
-      "https://news.ycombinator.com/item?id=33893376"
-    ],
-    [
-      "Vivaldi integrates Mastodon in its desktop browser",
-      "https://vivaldi.com/blog/vivaldi-5-6-on-desktop/"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 11:20:59",
       "https://news.ycombinator.com/item?id=33893120"
     ],
@@ -157,16 +167,6 @@
     [
       "Talk = GPT-2 and Whisper and WASM",
       "https://github.com/ggerganov/whisper.cpp/discussions/167"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 07:56:04",
-      "https://news.ycombinator.com/item?id=33891807"
-    ],
-    [
-      "Telegram: No-SIM Signup, Auto-Delete All Chats, Topics 2.0 and more",
-      "https://telegram.org/blog/ultimate-privacy-topics-2-0/fr?setln=en"
     ]
   ],
   [
