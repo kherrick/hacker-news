@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-07, 09:45:19",
+      "https://news.ycombinator.com/item?id=33892473"
+    ],
+    [
+      "Why Do We Hack?",
+      "http://curious.galthub.com/blog/2022-12-04/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 08:06:45",
       "https://news.ycombinator.com/item?id=33891867"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-12-06, 18:24:34",
-      "https://news.ycombinator.com/item?id=33884716"
-    ],
-    [
-      "OpenAI quietly launched Whisper V2 in a GitHub commit",
-      "https://github.com/openai/whisper/commit/4179ed2475cc84cba66868b516232ef1b74dacdf"
-    ]
-  ],
-  [
-    [
       "2022-12-06, 16:20:34",
       "https://news.ycombinator.com/item?id=33882506"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-12-04, 07:59:56",
-      "https://news.ycombinator.com/item?id=33851589"
+      "2022-12-04, 13:25:56",
+      "https://news.ycombinator.com/item?id=33853509"
     ],
     [
-      "QSL Cards: Ghosts in the Air Glow and High-Freq Active Auroral Research (HAARP)",
-      "https://goughlui.com/2022/12/04/qsl-cards-ghosts-in-the-air-glow-g1taeg-high-frequency-active-auroral-research-program-haarp/"
+      "Emacs: Using SQLite as a Data Source",
+      "https://emacsconf.org/2022/talks/sqlite/"
     ]
   ]
 ]
