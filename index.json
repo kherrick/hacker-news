@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-12-07, 02:38:06",
+      "https://news.ycombinator.com/item?id=33890037"
+    ],
+    [
+      "Boeing’s last 747 is rolling out of the factory",
+      "https://www.cnbc.com/2022/12/06/boeing-747-production-is-ending-with-shift-to-twin-engine-jets.html"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 01:05:14",
       "https://news.ycombinator.com/item?id=33889415"
     ],
@@ -147,16 +157,6 @@
     [
       "Apple announces ‘upgrade’ to App Store pricing, adding 700 new price points",
       "https://9to5mac.com/2022/12/06/app-store-pricing-changes-developers/"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 18:05:00",
-      "https://news.ycombinator.com/item?id=33884424"
-    ],
-    [
-      "Show HN: Publish from GitHub Actions using multi-factor authentication",
-      "https://github.com/step-security/wait-for-secrets"
     ]
   ],
   [
