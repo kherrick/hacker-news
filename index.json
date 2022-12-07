@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-12-07, 16:52:21",
+      "https://news.ycombinator.com/item?id=33896711"
+    ],
+    [
+      "Ian Fleming Explains How to Write a Thriller",
+      "https://lithub.com/ian-fleming-explains-how-to-write-a-thriller/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 16:26:42",
       "https://news.ycombinator.com/item?id=33896284"
     ],
@@ -27,16 +37,6 @@
     [
       "Plaid Layoffs",
       "https://plaid.com/team-update/"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 15:12:25",
-      "https://news.ycombinator.com/item?id=33895211"
-    ],
-    [
-      "Experimentally Inventing a Programming Language Using Chat GPT",
-      "https://smaller.fish/posts/l_plus"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2022-12-07, 14:29:40",
-      "https://news.ycombinator.com/item?id=33894688"
-    ],
-    [
-      "Elixir – HUGE Release Coming Soon",
-      "https://genserver.social/notice/AQIfjB7SQcuEwPGEAC"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 14:28:59",
       "https://news.ycombinator.com/item?id=33894679"
     ],
@@ -131,22 +121,22 @@
   ],
   [
     [
-      "2022-12-07, 14:08:23",
-      "https://news.ycombinator.com/item?id=33894469"
-    ],
-    [
-      "I've now disabled systemd-oomd on my Fedora desktops",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdOomdNowDisabled"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 12:57:58",
       "https://news.ycombinator.com/item?id=33893815"
     ],
     [
       "Ncdu – NCurses Disk Usage",
       "https://dev.yorhel.nl/ncdu"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 12:44:53",
+      "https://news.ycombinator.com/item?id=33893683"
+    ],
+    [
+      "The “Oscar Movie” Is Dying",
+      "https://www.worldofreel.com/blog/2022/11/2mqsu7z0y7ht4ut7nymgl25svxmyoi"
     ]
   ],
   [
@@ -215,7 +205,7 @@
       "https://news.ycombinator.com/item?id=33890823"
     ],
     [
-      "Why being able to partially distrust a Certificate Authority is good",
+      "Being able to partially distrust a Certificate Authority is good",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/CAPartialDistrustWhyGood"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Mysteriously bright flash is a black hole jet pointing straight toward Earth",
       "https://phys.org/news/2022-11-mysteriously-bright-black-hole-jet.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-04, 13:25:56",
+      "https://news.ycombinator.com/item?id=33853509"
+    ],
+    [
+      "Emacs: Using SQLite as a Data Source",
+      "https://emacsconf.org/2022/talks/sqlite/"
     ]
   ]
 ]
