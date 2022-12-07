@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-12-07, 12:00:07",
+      "https://news.ycombinator.com/item?id=33893390"
+    ],
+    [
+      "PiinPoint (YC W14) Is Hiring Developers (Remote in Canada)",
+      "https://angel.co/l/2hhhmR"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 11:41:34",
+      "https://news.ycombinator.com/item?id=33893271"
+    ],
+    [
+      "The Argument for Invisible Aliens",
+      "https://now.northropgrumman.com/hiding-in-plain-sight-the-argument-for-invisible-aliens/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 11:20:59",
       "https://news.ycombinator.com/item?id=33893120"
     ],
     [
       "Chris Seaton passed away on Dec 3rd",
       "https://twitter.com/flavorjones/status/1600436490885947393"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 11:16:12",
+      "https://news.ycombinator.com/item?id=33893080"
+    ],
+    [
+      "North Korea – teenagers executed for distributing South Korean movies",
+      "https://tvpworld.com/64892532/n-korea-publicly-executes-two-teenagers-for-distributing-s-korean-movies"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 10:57:12",
+      "https://news.ycombinator.com/item?id=33892944"
+    ],
+    [
+      "Direct detection of ultralight dark matter bound to the Sun with space sensors",
+      "https://www.nature.com/articles/s41550-022-01833-6"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 10:22:03",
+      "https://news.ycombinator.com/item?id=33892718"
+    ],
+    [
+      "I don’t want to be an internet person",
+      "https://www.palladiummag.com/2022/11/04/i-do-not-want-to-be-an-internet-person/"
     ]
   ],
   [
@@ -27,6 +77,16 @@
     [
       "Why Do We Hack?",
       "http://curious.galthub.com/blog/2022-12-04/"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 08:41:53",
+      "https://news.ycombinator.com/item?id=33892087"
+    ],
+    [
+      "Talk = GPT-2 and Whisper and WASM",
+      "https://github.com/ggerganov/whisper.cpp/discussions/167"
     ]
   ],
   [
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2022-12-07, 07:01:00",
-      "https://news.ycombinator.com/item?id=33891493"
-    ],
-    [
-      "Ashby (YC W19) is hiring product and design engineers",
-      "https://www.ashbyhq.com/careers?utm_source=hn"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 06:23:18",
       "https://news.ycombinator.com/item?id=33891265"
     ],
@@ -117,16 +167,6 @@
     [
       "Driving Amazon’s electric delivery vehicle: Rivian EDV [video]",
       "https://www.youtube.com/watch?v=3TFz1xqp3us"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 02:50:29",
-      "https://news.ycombinator.com/item?id=33890105"
-    ],
-    [
-      "The Interrotron",
-      "https://telepromptermirror.com/errol-morris-interrotron/"
     ]
   ],
   [
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2022-12-07, 01:04:03",
-      "https://news.ycombinator.com/item?id=33889407"
-    ],
-    [
-      "Beware of the perfect gentleman",
-      "https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 00:12:27",
       "https://news.ycombinator.com/item?id=33888981"
     ],
     [
       "What I'd like to see in Emacs",
       "https://emacsconf.org/2022/talks/rms/"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 23:14:41",
-      "https://news.ycombinator.com/item?id=33888453"
-    ],
-    [
-      "The Simple Art of Murder (1944)",
-      "https://www.theatlantic.com/magazine/archive/1944/12/the-simple-art-of-murder/656179/"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Loopr: A Loop/Reduction Macro for Clojure",
       "https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 21:16:31",
-      "https://news.ycombinator.com/item?id=33887170"
-    ],
-    [
-      "McDonalds Event Driven Architecture",
-      "https://medium.com/mcdonalds-technical-blog/behind-the-scenes-mcdonalds-event-driven-architecture-51a6542c0d86"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 20:37:33",
-      "https://news.ycombinator.com/item?id=33886673"
-    ],
-    [
-      "Lottie 4.0 for iOS: new render engine with significant performance improvements",
-      "https://medium.com/airbnb-engineering/announcing-lottie-4-0-for-ios-d4d226862a54"
     ]
   ],
   [
