@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-07, 02:49:26",
+      "https://news.ycombinator.com/item?id=33890098"
+    ],
+    [
+      "VSCode remote code execution advisory",
+      "https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 01:05:14",
       "https://news.ycombinator.com/item?id=33889415"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33889407"
     ],
     [
-      "Beware of the Perfect Gentleman",
+      "Beware of the perfect gentleman",
       "https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman"
     ]
   ],
@@ -87,16 +97,6 @@
     [
       "Quantum steampunk, a retrofuturistic field of physics",
       "https://www.popularmechanics.com/science/a32209316/quantum-steampunk-physics/"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 18:53:01",
-      "https://news.ycombinator.com/item?id=33885153"
-    ],
-    [
-      "I Taught ChatGPT to Invent a Language",
-      "https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-12-06, 11:21:58",
-      "https://news.ycombinator.com/item?id=33878155"
-    ],
-    [
-      "It’s not Tourette’s but a new type of mass sociogenic illness",
-      "https://academic.oup.com/brain/article/145/2/476/6356504"
-    ]
-  ],
-  [
-    [
       "2022-12-06, 10:36:54",
       "https://news.ycombinator.com/item?id=33877838"
     ],
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=33876840"
     ],
     [
-      "I Have Wedded Fyve: Review of “The Wife of Bath: A Biography”",
+      "I Have Wedded Fyve: The Wife of Bath, a Biography",
       "https://literaryreview.co.uk/i-have-wedded-fyve"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Lobster and snow crab fisheries search for alternative baits",
       "https://hakaimagazine.com/features/is-sausage-the-missing-link-in-the-great-bait-debate/"
+    ]
+  ],
+  [
+    [
+      "2022-12-05, 15:34:33",
+      "https://news.ycombinator.com/item?id=33866935"
+    ],
+    [
+      "QOIR: A fast, simple, lossless image file format",
+      "https://nigeltao.github.io/blog/2022/qoir.html"
     ]
   ],
   [
