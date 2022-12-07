@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2022-12-07, 18:06:49",
+      "https://news.ycombinator.com/item?id=33897790"
+    ],
+    [
+      "Time travel in Postgres. Bisect to the last valid transaction",
+      "https://neon.tech/blog/time-travel-with-postgres/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 17:37:33",
       "https://news.ycombinator.com/item?id=33897379"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2022-12-07, 06:23:18",
-      "https://news.ycombinator.com/item?id=33891265"
+      "2022-12-07, 08:41:53",
+      "https://news.ycombinator.com/item?id=33892087"
     ],
     [
-      "In Solidarity with Library Genesis and Sci-Hub (2015)",
-      "https://custodians.online"
+      "Talk = GPT-2 and Whisper and WASM",
+      "https://github.com/ggerganov/whisper.cpp/discussions/167"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Fine-grained locking with two-bit mutexes",
       "https://probablydance.com/2022/12/05/fine-grained-locking-with-two-bit-mutexes/"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 10:46:25",
-      "https://news.ycombinator.com/item?id=33877893"
-    ],
-    [
-      "Show HN: Port of OpenAI's Whisper model in C/C++",
-      "https://github.com/ggerganov/whisper.cpp"
     ]
   ],
   [
