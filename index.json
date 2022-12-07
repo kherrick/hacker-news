@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-07, 22:44:51",
+      "https://news.ycombinator.com/item?id=33901450"
+    ],
+    [
+      "Java 20: A Sneak Peek on the Panama FFM API",
+      "http://minborgsjavapot.blogspot.com/2022/12/java-20-sneak-peek-on-panama-ffm-api.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 22:38:11",
+      "https://news.ycombinator.com/item?id=33901368"
+    ],
+    [
+      "Theranos exec Sunny Balwani sentenced to 13 years in prison",
+      "https://techcrunch.com/2022/12/07/theranos-exec-sunny-balwani-sentenced-to-13-years-in-prison-for-defrauding-patients-and-investors/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 22:06:37",
       "https://news.ycombinator.com/item?id=33900995"
     ],
@@ -27,6 +47,16 @@
     [
       "Avenue (YC W21) is hiring software engineers in NYC (React/TypeScript/tRPC)",
       "https://jobs.ashbyhq.com/avenue/f4e8842d-83ae-413a-9ee3-d20c2b39380a"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 20:57:57",
+      "https://news.ycombinator.com/item?id=33900122"
+    ],
+    [
+      "What's Great about Julia?",
+      "https://viralinstruction.com/posts/goodjulia/"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Apple introduces end-to-end encryption for backups",
       "https://support.apple.com/en-us/HT202303#advanced"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 17:37:33",
-      "https://news.ycombinator.com/item?id=33897379"
-    ],
-    [
-      "How a dangerous stew of air pollution is choking the United States",
-      "https://www.nature.com/articles/d41586-022-04333-9"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "Fast midpoint between two integers without overflow",
       "https://lemire.me/blog/2022/12/06/fast-midpoint-between-two-integers-without-overflow/"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 08:41:53",
-      "https://news.ycombinator.com/item?id=33892087"
-    ],
-    [
-      "Talk = GPT-2 and Whisper and WASM",
-      "https://github.com/ggerganov/whisper.cpp/discussions/167"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 06:12:03",
-      "https://news.ycombinator.com/item?id=33891197"
-    ],
-    [
-      "Apple GPU drivers now in Asahi Linux",
-      "https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/"
     ]
   ],
   [
