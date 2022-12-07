@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2022-12-07, 16:36:15",
-      "https://news.ycombinator.com/item?id=33896460"
-    ],
-    [
-      "Math whiz Caroline Ellison was bound for success. Then she got into crypto",
-      "https://www.boston.com/news/the-boston-globe/2022/12/07/caroline-ellison-ftx-alameda-research/"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 15:10:57",
       "https://news.ycombinator.com/item?id=33895187"
     ],
@@ -297,6 +287,16 @@
     [
       "Mysteriously bright flash is a black hole jet pointing straight toward Earth",
       "https://phys.org/news/2022-11-mysteriously-bright-black-hole-jet.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-04, 13:25:56",
+      "https://news.ycombinator.com/item?id=33853509"
+    ],
+    [
+      "Emacs: Using SQLite as a Data Source",
+      "https://emacsconf.org/2022/talks/sqlite/"
     ]
   ]
 ]
