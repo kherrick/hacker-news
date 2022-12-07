@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-07, 21:23:33",
+      "https://news.ycombinator.com/item?id=33900488"
+    ],
+    [
+      "CircleCI Layoffs",
+      "https://circleci.com/blog/ceo-jim-rose-email-to-circleci-employees/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 21:00:34",
       "https://news.ycombinator.com/item?id=33900161"
     ],
@@ -67,16 +77,6 @@
     [
       "Apple introduces end-to-end encryption for backups",
       "https://support.apple.com/en-us/HT202303#advanced"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 18:06:49",
-      "https://news.ycombinator.com/item?id=33897790"
-    ],
-    [
-      "Time travel in Postgres. Bisect to the last valid transaction",
-      "https://neon.tech/blog/time-travel-with-postgres/"
     ]
   ],
   [
