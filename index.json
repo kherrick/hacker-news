@@ -21,11 +21,21 @@
   ],
   [
     [
+      "2022-12-08, 19:16:17",
+      "https://news.ycombinator.com/item?id=33911910"
+    ],
+    [
+      "Systemd.timer, an Alternative to Cron",
+      "https://andrewpillar.com/programming/2022/12/08/systemd-timer-an-alternative-to-cron/"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 19:12:58",
       "https://news.ycombinator.com/item?id=33911873"
     ],
     [
-      "Airtable, last valued at $11B for its no-code software, lays off over 250",
+      "Airtable lays off over 250",
       "https://techcrunch.com/2022/12/08/airtable-layoffs/"
     ]
   ],
@@ -41,11 +51,21 @@
   ],
   [
     [
+      "2022-12-08, 19:01:23",
+      "https://news.ycombinator.com/item?id=33911694"
+    ],
+    [
+      "Nearly six in 10 US young adults live within 10 miles of where they grew up",
+      "https://www.census.gov/library/stories/2022/07/theres-no-place-like-home.html"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 18:28:11",
       "https://news.ycombinator.com/item?id=33911278"
     ],
     [
-      "Not a Monad Tutorial",
+      "Not a monad tutorial",
       "https://johnazariah.github.io/2022/12/06/this-is-not-a-monad-tutorial.html"
     ]
   ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2022-12-08, 17:57:58",
-      "https://news.ycombinator.com/item?id=33910912"
-    ],
-    [
-      "Association vigorous intermittent lifestyle physical activity with mortality",
-      "https://www.nature.com/articles/s41591-022-02100-x"
-    ]
-  ],
-  [
-    [
       "2022-12-08, 17:53:53",
       "https://news.ycombinator.com/item?id=33910863"
     ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33910711"
     ],
     [
-      "Xiaomi’s Humanoid Drummer Beats Expectations",
+      "Xiaomi’s humanoid drummer beats expectations?",
       "https://spectrum.ieee.org/xiaomi-robot-drummer"
     ]
   ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2022-12-08, 17:20:30",
-      "https://news.ycombinator.com/item?id=33910465"
-    ],
-    [
-      "Show HN: Hnpdf.com – Quick access to pdfs shared on Hacker News",
-      "https://hnpdf.com/latest"
-    ]
-  ],
-  [
-    [
       "2022-12-08, 17:00:09",
       "https://news.ycombinator.com/item?id=33910196"
     ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=33909241"
     ],
     [
-      "Babashka: GraalVM Helped Create a Scripting Environment for Clojure",
+      "Babashka is a fast-starting scripting environment for Clojure",
       "https://medium.com/graalvm/babashka-how-graalvm-helped-create-a-fast-starting-scripting-environment-for-clojure-b0fcc38b0746"
     ]
   ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=33908058"
     ],
     [
-      "AOC 2022 in q by experienced q programmers",
+      "Advent of q 2022",
       "https://github.com/qbists/studyq/tree/main/aoc/2022"
     ]
   ],
@@ -215,18 +215,8 @@
       "https://news.ycombinator.com/item?id=33907897"
     ],
     [
-      "Ending support for Gitpod Self Hosted and moving our source to AGPL",
+      "Ending support for self-hosted Gitpod and moving our source to AGPL",
       "https://github.com/gitpod-io/website/blob/main/src/routes/blog/introducing-gitpod-dedicated.md"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 12:55:35",
-      "https://news.ycombinator.com/item?id=33907357"
-    ],
-    [
-      "Ask HN: Are things getting more convenient but less satisfying?",
-      "https://news.ycombinator.com/item?id=33907357"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Low-code is not a cure for overworked IT departments",
       "https://www.zdnet.com/article/low-code-is-not-a-cure-for-overworked-it-departments-just-yet/"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 03:20:13",
+      "https://news.ycombinator.com/item?id=33890274"
+    ],
+    [
+      "Teardown of the UNI-T PRO UTi690B Thermal Camera with 25hz 256x192 sensor",
+      "https://wizeus.de/teardown-of-the-uni-t-pro-uti690b-thermal-camera/"
     ]
   ],
   [
