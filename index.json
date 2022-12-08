@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-12-08, 15:54:55",
+      "https://news.ycombinator.com/item?id=33909241"
+    ],
+    [
+      "Babashka: GraalVM Helped Create a Scripting Environment for Clojure",
+      "https://medium.com/graalvm/babashka-how-graalvm-helped-create-a-fast-starting-scripting-environment-for-clojure-b0fcc38b0746"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 15:36:45",
       "https://news.ycombinator.com/item?id=33908954"
     ],
@@ -67,16 +77,6 @@
     [
       "The Sad Story of Heisenberg's Doctoral Oral Exam (1998)",
       "https://www.aps.org/publications/apsnews/199801/heisenberg.cfm"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 14:22:24",
-      "https://news.ycombinator.com/item?id=33908134"
-    ],
-    [
-      "The road to Dart 3: A fully sound, null safe language",
-      "https://medium.com/dartlang/the-road-to-dart-3-afdd580fbefa"
     ]
   ],
   [
