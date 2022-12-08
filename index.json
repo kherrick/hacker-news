@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-08, 02:02:08",
-      "https://news.ycombinator.com/item?id=33903147"
-    ],
-    [
-      "Tell HN: macOS Ventura broke the entire Raspberry Pi Pico ecosystem",
-      "https://news.ycombinator.com/item?id=33903147"
-    ]
-  ],
-  [
-    [
       "2022-12-08, 01:22:42",
       "https://news.ycombinator.com/item?id=33902878"
     ],
@@ -217,6 +207,16 @@
     [
       "Ncdu – NCurses Disk Usage",
       "https://dev.yorhel.nl/ncdu"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 03:43:12",
+      "https://news.ycombinator.com/item?id=33890398"
+    ],
+    [
+      "write-edid – writes custom EDID data into HDMI adapter over I2C on Linux",
+      "https://github.com/ChalkElec/write-edid"
     ]
   ],
   [
