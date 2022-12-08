@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-12-08, 21:00:11",
+      "https://news.ycombinator.com/item?id=33913332"
+    ],
+    [
+      "Generally Intelligent (YC S17) Is Hiring Senior Software Engineers",
+      "https://news.ycombinator.com/item?id=33913332"
+    ]
+  ],
+  [
+    [
+      "2022-12-08, 20:53:12",
+      "https://news.ycombinator.com/item?id=33913231"
+    ],
+    [
+      "Goodbye to the C++ Implementation of Zig",
+      "https://ziglang.org/news/goodbye-cpp/"
+    ]
+  ],
+  [
+    [
+      "2022-12-08, 20:49:01",
+      "https://news.ycombinator.com/item?id=33913161"
+    ],
+    [
+      "Bumblebee: GPT2, Stable Diffusion, and More in Elixir",
+      "https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O"
+    ]
+  ],
+  [
+    [
+      "2022-12-08, 20:42:22",
+      "https://news.ycombinator.com/item?id=33913071"
+    ],
+    [
+      "BlackRock 2023 Outlook [pdf]",
+      "https://www.blackrock.com/corporate"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 20:21:05",
       "https://news.ycombinator.com/item?id=33912786"
     ],
@@ -47,16 +87,6 @@
     [
       "Systemd.timer, an Alternative to Cron",
       "https://andrewpillar.com/programming/2022/12/08/systemd-timer-an-alternative-to-cron/"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 19:12:58",
-      "https://news.ycombinator.com/item?id=33911873"
-    ],
-    [
-      "Airtable lays off over 250",
-      "https://techcrunch.com/2022/12/08/airtable-layoffs/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2022-12-08, 17:00:09",
-      "https://news.ycombinator.com/item?id=33910196"
-    ],
-    [
-      "Banner (YC S19) Is Hiring a Senior PM",
-      "https://www.ycombinator.com/companies/banner/jobs/MeC2JUn-senior-product-manager"
-    ]
-  ],
-  [
-    [
       "2022-12-08, 15:54:55",
       "https://news.ycombinator.com/item?id=33909241"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2022-12-08, 12:46:55",
-      "https://news.ycombinator.com/item?id=33907276"
-    ],
-    [
-      "‘Significant overload’ caused Norway’s timber bridge collapse",
-      "https://www.newcivilengineer.com/latest/significant-overload-caused-norways-timber-bridge-collapse-05-12-2022/"
-    ]
-  ],
-  [
-    [
       "2022-12-08, 01:42:57",
       "https://news.ycombinator.com/item?id=33903016"
     ],
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2022-12-07, 15:42:45",
-      "https://news.ycombinator.com/item?id=33895622"
-    ],
-    [
-      "Vanuatu has been knocked offline for over a month",
-      "https://www.npr.org/2022/12/06/1140752192/the-pacific-island-nation-of-vanuatu-has-been-knocked-offline-for-more-than-a-mo"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 07:42:44",
-      "https://news.ycombinator.com/item?id=33891708"
-    ],
-    [
-      "Rebuilding Babel: The Tokenizer",
-      "https://www.nan.fyi/tokenizer"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 03:58:49",
       "https://news.ycombinator.com/item?id=33890477"
     ],
@@ -287,6 +277,16 @@
     [
       "Teardown of the UNI-T PRO UTi690B thermal camera",
       "https://wizeus.de/teardown-of-the-uni-t-pro-uti690b-thermal-camera/"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 02:45:09",
+      "https://news.ycombinator.com/item?id=33890079"
+    ],
+    [
+      "EcoRNN: Efficient Computing of LSTM RNN on GPUs (1997) [pdf]",
+      "https://www.microarch.org/micro51/SRC/posters/20_zheng.pdf"
     ]
   ],
   [
