@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-08, 07:59:27",
+      "https://news.ycombinator.com/item?id=33905450"
+    ],
+    [
+      "Artificial intelligence is permeating business at last",
+      "https://www.economist.com/business/2022/12/06/artificial-intelligence-is-permeating-business-at-last"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 04:53:58",
       "https://news.ycombinator.com/item?id=33904336"
     ],
@@ -97,16 +107,6 @@
     [
       "Boris, a tradeoff-oriented goal-setting process",
       "https://vaughntan.org/unpacking-boris"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 00:44:18",
-      "https://news.ycombinator.com/item?id=33902583"
-    ],
-    [
-      "Paleontologist accused of faking data in dino-killing asteroid paper",
-      "https://www.science.org/content/article/paleontologist-accused-faking-data-dino-killing-asteroid-paper"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-12-07, 14:51:09",
-      "https://news.ycombinator.com/item?id=33894933"
-    ],
-    [
-      "Tell HN: IPv6-only still pretty much unusable",
-      "https://news.ycombinator.com/item?id=33894933"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 14:44:36",
       "https://news.ycombinator.com/item?id=33894851"
     ],
@@ -297,6 +287,16 @@
     [
       "The importance of distributing true copies of government records",
       "https://www.cjr.org/business_of_news/archiving-official-documents-as-an-act-of-radical-journalism.php"
+    ]
+  ],
+  [
+    [
+      "2022-12-06, 21:04:50",
+      "https://news.ycombinator.com/item?id=33887015"
+    ],
+    [
+      "Learning to summarize with human feedback (2020)",
+      "https://proceedings.neurips.cc/paper/2020/hash/1f89885d556929e98d3ef9b86448f951-Abstract.html"
     ]
   ]
 ]
