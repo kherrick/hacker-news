@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-12-08, 20:21:05",
+      "https://news.ycombinator.com/item?id=33912786"
+    ],
+    [
+      "How PostScript kickstarted desktop publishing",
+      "https://spectrum.ieee.org/adobe-postscript-code"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 20:04:54",
       "https://news.ycombinator.com/item?id=33912563"
     ],
     [
       "Adventures in Teletext Recovery",
       "https://www.andrewnile.co.uk/blog/adventures-in-teletext-recovery/"
+    ]
+  ],
+  [
+    [
+      "2022-12-08, 19:53:46",
+      "https://news.ycombinator.com/item?id=33912401"
+    ],
+    [
+      "Finding the B-21's hanger location from the stars in its press image",
+      "https://twitter.com/johnmcelhone8/status/1600683623250030593"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Hacking on a plane: Leaking data of millions and taking over any account",
       "https://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 19:01:23",
-      "https://news.ycombinator.com/item?id=33911694"
-    ],
-    [
-      "Nearly six in 10 US young adults live within 10 miles of where they grew up",
-      "https://www.census.gov/library/stories/2022/07/theres-no-place-like-home.html"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-12-08, 16:18:57",
-      "https://news.ycombinator.com/item?id=33909616"
-    ],
-    [
-      "Edge-compatible Serverless Driver for Postgres",
-      "https://neon.tech/blog/serverless-driver-for-postgres/"
-    ]
-  ],
-  [
-    [
       "2022-12-08, 15:54:55",
       "https://news.ycombinator.com/item?id=33909241"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2022-12-08, 12:30:34",
-      "https://news.ycombinator.com/item?id=33907158"
+      "2022-12-08, 01:42:57",
+      "https://news.ycombinator.com/item?id=33903016"
     ],
     [
-      "A Christmas tree bauble that plays Doom",
-      "https://spritesmods.com/?art=doom-bauble&page=1"
+      "Google combines Maps and Waze teams in restructuring move",
+      "https://www.wsj.com/articles/google-combines-maps-and-waze-teams-in-restructuring-move-11670462301"
     ]
   ],
   [
     [
-      "2022-12-08, 10:50:05",
-      "https://news.ycombinator.com/item?id=33906520"
+      "2022-12-07, 19:12:58",
+      "https://news.ycombinator.com/item?id=33898777"
     ],
     [
-      "Show HN: Ezy – open-source gRPC client, alternative to Postman and Insomnia",
-      "https://github.com/getezy/ezy/releases/tag/v1.0.0-beta.13.2"
+      "A Year of New Avenues",
+      "https://www.robinsloan.com/lab/new-avenues/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=33890274"
     ],
     [
-      "Teardown of the UNI-T PRO UTi690B Thermal Camera with 25hz 256x192 sensor",
+      "Teardown of the UNI-T PRO UTi690B thermal camera",
       "https://wizeus.de/teardown-of-the-uni-t-pro-uti690b-thermal-camera/"
     ]
   ],
