@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-08, 16:18:57",
+      "https://news.ycombinator.com/item?id=33909616"
+    ],
+    [
+      "Postgres over WebSocket",
+      "https://neon.tech/blog/serverless-driver-for-postgres/"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 15:36:45",
       "https://news.ycombinator.com/item?id=33908954"
     ],
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2022-12-08, 02:57:11",
-      "https://news.ycombinator.com/item?id=33903563"
-    ],
-    [
-      "5000x faster CRDTs: An adventure in optimization (2021)",
-      "https://josephg.com/blog/crdts-go-brrr/"
-    ]
-  ],
-  [
-    [
       "2022-12-08, 02:39:33",
       "https://news.ycombinator.com/item?id=33903420"
     ],
     [
       "Intel is using DXVK for their Windows Arc GPU DX9 drivers",
       "https://www.gamingonlinux.com/2022/12/intel-using-dxvk-part-of-steam-proton-for-their-windows-arc-gpu-dx-9-drivers/"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 19:12:58",
+      "https://news.ycombinator.com/item?id=33898777"
+    ],
+    [
+      "A Year of New Avenues",
+      "https://www.robinsloan.com/lab/new-avenues/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Vanuatu has been knocked offline for over a month",
       "https://www.npr.org/2022/12/06/1140752192/the-pacific-island-nation-of-vanuatu-has-been-knocked-offline-for-more-than-a-mo"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 08:45:58",
-      "https://news.ycombinator.com/item?id=33892108"
-    ],
-    [
-      "Oru kayak’s reckless and irresponsible advertising",
-      "https://forums.paddling.com/t/oru-kayaks-reckless-and-irresponsible-advertising/114490"
     ]
   ],
   [
