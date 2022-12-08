@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-12-08, 18:45:38",
-      "https://news.ycombinator.com/item?id=33911478"
+      "2022-12-08, 19:01:31",
+      "https://news.ycombinator.com/item?id=33911698"
     ],
     [
-      "Raspberry Pi brags about hiring a spy, then doubles down",
-      "https://raspberrypi.social/@Raspberry_Pi/109476972427437410"
+      "Hacking on a plane: Leaking data of millions and taking over any account",
+      "https://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "Xiaomi’s Humanoid Drummer Beats Expectations",
       "https://spectrum.ieee.org/xiaomi-robot-drummer"
+    ]
+  ],
+  [
+    [
+      "2022-12-08, 17:37:49",
+      "https://news.ycombinator.com/item?id=33910685"
+    ],
+    [
+      "The Annotated Google Zanzibar Paper",
+      "https://authzed.com/zanzibar"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-12-08, 11:18:22",
-      "https://news.ycombinator.com/item?id=33906699"
-    ],
-    [
-      "Data stream hack gets UCI world championship qualifier banned",
-      "https://www.dcrainmaker.com/2022/12/zwift-uci-cheating-astounding-championship-qualifier.html"
-    ]
-  ],
-  [
-    [
       "2022-12-08, 10:50:05",
       "https://news.ycombinator.com/item?id=33906520"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2022-12-07, 19:12:58",
-      "https://news.ycombinator.com/item?id=33898777"
-    ],
-    [
-      "A Year of New Avenues",
-      "https://www.robinsloan.com/lab/new-avenues/"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 15:42:45",
       "https://news.ycombinator.com/item?id=33895622"
     ],
     [
       "Vanuatu has been knocked offline for over a month",
       "https://www.npr.org/2022/12/06/1140752192/the-pacific-island-nation-of-vanuatu-has-been-knocked-offline-for-more-than-a-mo"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 07:42:44",
+      "https://news.ycombinator.com/item?id=33891708"
+    ],
+    [
+      "Rebuilding Babel: The Tokenizer",
+      "https://www.nan.fyi/tokenizer"
     ]
   ],
   [
