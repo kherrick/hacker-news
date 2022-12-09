@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-09, 15:41:20",
-      "https://news.ycombinator.com/item?id=33922483"
-    ],
-    [
-      "Latest Tech Layoff Trends in Three Charts",
-      "https://spectrum.ieee.org/tech-layoffs-2022"
-    ]
-  ],
-  [
-    [
       "2022-12-09, 15:31:18",
       "https://news.ycombinator.com/item?id=33922328"
     ],
@@ -61,6 +51,16 @@
   ],
   [
     [
+      "2022-12-09, 14:35:20",
+      "https://news.ycombinator.com/item?id=33921585"
+    ],
+    [
+      "Low nutritional quality in vegetarian meat substitutes",
+      "https://www.eurekalert.org/news-releases/973666"
+    ]
+  ],
+  [
+    [
       "2022-12-09, 14:34:01",
       "https://news.ycombinator.com/item?id=33921576"
     ],
@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2022-12-09, 14:02:32",
+      "https://news.ycombinator.com/item?id=33921295"
+    ],
+    [
+      "A 2M-year-old ecosystem in Greenland uncovered by environmental DNA",
+      "https://www.nature.com/articles/s41586-022-05453-y"
+    ]
+  ],
+  [
+    [
       "2022-12-09, 14:02:15",
       "https://news.ycombinator.com/item?id=33921292"
     ],
@@ -97,16 +107,6 @@
     [
       "Neovim Conf 2022",
       "https://www.neovimconf.live/"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 13:54:51",
-      "https://news.ycombinator.com/item?id=33921223"
-    ],
-    [
-      "Russia’s apparent resilience is being kept up by policy tricks and cash",
-      "https://archive.vn/6EXTd"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2022-12-07, 20:47:52",
-      "https://news.ycombinator.com/item?id=33900011"
-    ],
-    [
-      "It Belongs in a Museum: Isabella Stewart Gardner builds a place to house her art",
-      "https://www.laphamsquarterly.org/roundtable/it-belongs-museum"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 13:43:28",
       "https://news.ycombinator.com/item?id=33894223"
     ],
     [
       "Using Bitmaps to Perform Range Queries",
       "https://www.featurebase.com/blog/range-encoded-bitmaps"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 13:16:27",
+      "https://news.ycombinator.com/item?id=33893977"
+    ],
+    [
+      "Database Performance Optimization and Scaling in Rails",
+      "https://blog.appsignal.com/2022/12/07/database-performance-optimization-and-scaling-in-rails.html"
     ]
   ],
   [
