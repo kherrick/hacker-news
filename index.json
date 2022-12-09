@@ -1,12 +1,72 @@
 [
   [
     [
+      "2022-12-09, 19:04:03",
+      "https://news.ycombinator.com/item?id=33925197"
+    ],
+    [
+      "Fireship – Learn to Code Faster",
+      "https://fireship.io/"
+    ]
+  ],
+  [
+    [
+      "2022-12-09, 19:00:34",
+      "https://news.ycombinator.com/item?id=33925163"
+    ],
+    [
+      "Show HN: I fine-tuned Flan-T5. Can it cook?",
+      "https://abuqader.substack.com/p/i-fine-tuned-flan-t5-can-it-cook"
+    ]
+  ],
+  [
+    [
+      "2022-12-09, 19:00:17",
+      "https://news.ycombinator.com/item?id=33925160"
+    ],
+    [
+      "The Internet during world war",
+      "https://www.oecd-forum.org/posts/fragility-digitally-the-internet-during-world-war"
+    ]
+  ],
+  [
+    [
+      "2022-12-09, 18:51:02",
+      "https://news.ycombinator.com/item?id=33925049"
+    ],
+    [
+      "How I got involved in the Rust community",
+      "https://ochagavia.nl/blog/how-i-got-involved-in-the-rust-community/"
+    ]
+  ],
+  [
+    [
       "2022-12-09, 18:50:57",
       "https://news.ycombinator.com/item?id=33925047"
     ],
     [
       "Ten Minute Physics",
       "https://matthias-research.github.io/pages/tenMinutePhysics/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-09, 18:43:42",
+      "https://news.ycombinator.com/item?id=33924961"
+    ],
+    [
+      "Dark Patterns from the End-User Perspective",
+      "https://arxiv.org/abs/2104.12653"
+    ]
+  ],
+  [
+    [
+      "2022-12-09, 18:42:50",
+      "https://news.ycombinator.com/item?id=33924944"
+    ],
+    [
+      "Knight’s Landing: Atom with AVX-512 – Chips and Cheese",
+      "https://chipsandcheese.com/2022/12/08/knights-landing-atom-with-avx-512/"
     ]
   ],
   [
@@ -27,16 +87,6 @@
     [
       "Show HN: LearnGPT – Browse and share ChatGPT examples",
       "https://www.learngpt.com/"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 16:55:21",
-      "https://news.ycombinator.com/item?id=33923537"
-    ],
-    [
-      "Vite 4.0",
-      "https://vitejs.dev/blog/announcing-vite4.html"
     ]
   ],
   [
@@ -67,16 +117,6 @@
     [
       "DeepMind Dramatron: a new tool for writers to co-write theatre and film scripts",
       "https://deepmind.github.io/dramatron/"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 15:31:18",
-      "https://news.ycombinator.com/item?id=33922328"
-    ],
-    [
-      "Volatile pay for gig workers linked to health problems",
-      "https://www.apa.org/news/press/releases/2022/12/volatile-gig-workers-health-problems"
     ]
   ],
   [
@@ -127,16 +167,6 @@
     [
       "ChatGPT, the Abacus, and Education",
       "https://blog.charliemeyer.co/chatgpt-the-abacus-and-education/"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 13:33:22",
-      "https://news.ycombinator.com/item?id=33921023"
-    ],
-    [
-      "A Practical Guide to CSS Media Queries",
-      "https://stackdiary.com/css-media-queries/"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2022-12-09, 06:59:12",
-      "https://news.ycombinator.com/item?id=33918430"
-    ],
-    [
-      "Delimiter-first code",
-      "https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html"
-    ]
-  ],
-  [
-    [
       "2022-12-09, 05:45:24",
       "https://news.ycombinator.com/item?id=33917962"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-12-07, 13:43:28",
-      "https://news.ycombinator.com/item?id=33894223"
-    ],
-    [
-      "Using Bitmaps to Perform Range Queries",
-      "https://www.featurebase.com/blog/range-encoded-bitmaps"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 09:33:02",
       "https://news.ycombinator.com/item?id=33892392"
     ],
     [
       "Transistors are civilization’s invisible infrastructure",
       "https://spectrum.ieee.org/point-contact-transistor"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 23:52:42",
-      "https://news.ycombinator.com/item?id=33888799"
-    ],
-    [
-      "The cyanide tooth is a cold war fairy-tale (2018)",
-      "https://www.atlasobscura.com/articles/cyanide-tooth-is-not-real"
     ]
   ]
 ]
