@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-09, 13:16:55",
+      "https://news.ycombinator.com/item?id=33920885"
+    ],
+    [
+      "CLI for OAuth 2.0",
+      "https://github.com/cloudentity/oauth2c"
+    ]
+  ],
+  [
+    [
       "2022-12-09, 12:28:53",
       "https://news.ycombinator.com/item?id=33920510"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2022-12-08, 21:37:13",
-      "https://news.ycombinator.com/item?id=33913845"
-    ],
-    [
-      "ChatGPT, Rot13, and Daniel Kahneman",
-      "https://jameswillia.ms/posts/chatgpt-rot13.html"
-    ]
-  ],
-  [
-    [
       "2022-12-08, 20:51:49",
       "https://news.ycombinator.com/item?id=33913201"
     ],
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2022-12-08, 01:42:57",
-      "https://news.ycombinator.com/item?id=33903016"
+      "2022-12-08, 16:11:31",
+      "https://news.ycombinator.com/item?id=33909503"
     ],
     [
-      "Google combines Maps and Waze teams in restructuring move",
-      "https://www.wsj.com/articles/google-combines-maps-and-waze-teams-in-restructuring-move-11670462301"
+      "Hash-based digital signatures (almost) from scratch",
+      "https://medium.com/@georgwiese/hash-based-digital-signatures-almost-from-scratch-da57e54dd774"
     ]
   ],
   [
