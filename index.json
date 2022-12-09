@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-12-08, 19:01:31",
-      "https://news.ycombinator.com/item?id=33911698"
-    ],
-    [
-      "Hacking on a plane: Leaking data of millions and taking over any account",
-      "https://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html"
-    ]
-  ],
-  [
-    [
       "2022-12-08, 17:59:48",
       "https://news.ycombinator.com/item?id=33910929"
     ],
@@ -267,6 +257,16 @@
     [
       "What it's like to live in Monaco",
       "https://lite.cnn.com/en/article/h_6f8f728329e34e49cd1bb975701fd361"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 13:23:38",
+      "https://news.ycombinator.com/item?id=33894040"
+    ],
+    [
+      "C++23: std:out_ptr and std:inout_ptr",
+      "https://www.sandordargo.com/blog/2022/12/07/inout_ptr-and-out_ptr"
     ]
   ],
   [
