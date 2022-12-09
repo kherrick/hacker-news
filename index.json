@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-09, 13:57:35",
+      "https://news.ycombinator.com/item?id=33921251"
+    ],
+    [
+      "Neovim Conf 2022",
+      "https://www.neovimconf.live/"
+    ]
+  ],
+  [
+    [
       "2022-12-09, 13:54:51",
       "https://news.ycombinator.com/item?id=33921223"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=33918430"
     ],
     [
-      "Delimiter-First Code",
+      "Delimiter-first code",
       "https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html"
     ]
   ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2022-12-07, 13:23:38",
-      "https://news.ycombinator.com/item?id=33894040"
-    ],
-    [
-      "C++23: std:out_ptr and std:inout_ptr",
-      "https://www.sandordargo.com/blog/2022/12/07/inout_ptr-and-out_ptr"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 13:16:27",
       "https://news.ycombinator.com/item?id=33893977"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33888799"
     ],
     [
-      "The cyanide tooth is a cold war fairy-tale",
+      "The cyanide tooth is a cold war fairy-tale (2018)",
       "https://www.atlasobscura.com/articles/cyanide-tooth-is-not-real"
     ]
   ]
