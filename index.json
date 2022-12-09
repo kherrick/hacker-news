@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2022-12-08, 19:01:31",
+      "https://news.ycombinator.com/item?id=33911698"
+    ],
+    [
+      "Hacking on a plane: Leaking data of millions and taking over any account",
+      "https://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 17:59:48",
       "https://news.ycombinator.com/item?id=33910929"
     ],
@@ -201,22 +211,12 @@
   ],
   [
     [
-      "2022-12-08, 17:53:53",
-      "https://news.ycombinator.com/item?id=33910863"
+      "2022-12-08, 17:37:49",
+      "https://news.ycombinator.com/item?id=33910685"
     ],
     [
-      "Show HN: Web search using a ChatGPT-like model that can cite its sources",
-      "https://beta.sayhello.so/"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 15:54:55",
-      "https://news.ycombinator.com/item?id=33909241"
-    ],
-    [
-      "Babashka is a fast-starting scripting environment for Clojure",
-      "https://medium.com/graalvm/babashka-how-graalvm-helped-create-a-fast-starting-scripting-environment-for-clojure-b0fcc38b0746"
+      "Google Zanzibar Through Our Eyes",
+      "https://authzed.com/blog/annotated-zanzibar-launch/"
     ]
   ],
   [
