@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-10, 18:56:51",
+      "https://news.ycombinator.com/item?id=33935566"
+    ],
+    [
+      "Yale’s 367-year-old water bond still pays interest",
+      "https://news.yale.edu/2015/09/22/living-artifact-dutch-golden-age-yale-s-367-year-old-water-bond-still-pays-interest"
+    ]
+  ],
+  [
+    [
       "2022-12-10, 18:34:48",
       "https://news.ycombinator.com/item?id=33935306"
     ],
@@ -65,8 +75,18 @@
       "https://news.ycombinator.com/item?id=33934228"
     ],
     [
-      "What Causes Alzheimer's? Scientists Are Rethinking the Answer",
+      "What causes Alzheimer's? Scientists are rethinking the answer",
       "https://www.quantamagazine.org/what-causes-alzheimers-scientists-are-rethinking-the-answer-20221208/"
+    ]
+  ],
+  [
+    [
+      "2022-12-10, 16:55:33",
+      "https://news.ycombinator.com/item?id=33934159"
+    ],
+    [
+      "DDD, Hexagonal, Onion, Clean, CQRS, How I put it all together (2017)",
+      "https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/"
     ]
   ],
   [
@@ -111,26 +131,6 @@
   ],
   [
     [
-      "2022-12-10, 16:16:07",
-      "https://news.ycombinator.com/item?id=33933802"
-    ],
-    [
-      "Tesla calls self-driving technology 'failure,' not fraud",
-      "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 16:12:39",
-      "https://news.ycombinator.com/item?id=33933776"
-    ],
-    [
-      "Gender Inequities in Household Labor Predict Lower Sexual Desire in Women",
-      "https://pubmed.ncbi.nlm.nih.gov/36112330/"
-    ]
-  ],
-  [
-    [
       "2022-12-10, 15:05:51",
       "https://news.ycombinator.com/item?id=33933208"
     ],
@@ -147,6 +147,16 @@
     [
       "Elixir-style Pipelines in 9 Lines of Ruby",
       "https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-10, 14:06:15",
+      "https://news.ycombinator.com/item?id=33932708"
+    ],
+    [
+      "Automated code reviews (well, almost)",
+      "https://brainfisheatfishbrain.com/post/chatgpt-code-reviews/"
     ]
   ],
   [
@@ -177,6 +187,16 @@
     [
       "Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service",
       "https://www.svix.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2022-12-10, 11:19:23",
+      "https://news.ycombinator.com/item?id=33931677"
+    ],
+    [
+      "Show HN: Interactive exercises for Linux CLI text processing commands",
+      "https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises"
     ]
   ],
   [
@@ -237,26 +257,6 @@
     [
       "mimmutable() for OpenBSD",
       "https://lwn.net/SubscriberLink/915640/53bc300d11179c62/"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 03:42:31",
-      "https://news.ycombinator.com/item?id=33929659"
-    ],
-    [
-      "A fake job offer gone wrong",
-      "https://indeedjobscam.pages.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 03:34:33",
-      "https://news.ycombinator.com/item?id=33929620"
-    ],
-    [
-      "End-to-end encrypted messages need more than libsignal",
-      "https://mjg59.dreamwidth.org/62598.html"
     ]
   ],
   [
