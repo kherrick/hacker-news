@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-10, 03:34:33",
+      "https://news.ycombinator.com/item?id=33929620"
+    ],
+    [
+      "End-to-end encrypted messages need more than libsignal",
+      "https://mjg59.dreamwidth.org/62598.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-10, 01:10:18",
+      "https://news.ycombinator.com/item?id=33928670"
+    ],
+    [
+      "Practical Python Programming Course",
+      "https://dabeaz-course.github.io/practical-python/Notes/Contents.html"
+    ]
+  ],
+  [
+    [
       "2022-12-10, 01:04:21",
       "https://news.ycombinator.com/item?id=33928625"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-12-09, 18:43:42",
-      "https://news.ycombinator.com/item?id=33924961"
-    ],
-    [
-      "Dark patterns from the end-user perspective",
-      "https://arxiv.org/abs/2104.12653"
-    ]
-  ],
-  [
-    [
       "2022-12-09, 18:28:58",
       "https://news.ycombinator.com/item?id=33924754"
     ],
@@ -217,16 +227,6 @@
     [
       "Why does the Commodore C128 perform poorly when running CP/M?",
       "https://retrocomputing.stackexchange.com/questions/2361/why-does-the-commodore-c128-perform-poorly-when-running-cp-m"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 22:32:08",
-      "https://news.ycombinator.com/item?id=33914672"
-    ],
-    [
-      "Why don’t software development methodologies work? (2014)",
-      "https://typicalprogrammer.com/why-dont-software-development-methodologies-work"
     ]
   ],
   [
