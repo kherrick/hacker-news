@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-12-10, 10:52:17",
+      "https://news.ycombinator.com/item?id=33931567"
+    ],
+    [
+      "LinkedIn Is Toast",
+      "https://twitter.com/klingebeil/status/1599353468648448000"
+    ]
+  ],
+  [
+    [
+      "2022-12-10, 10:05:25",
+      "https://news.ycombinator.com/item?id=33931384"
+    ],
+    [
+      "EU-wide maximum limit of €10K for cash payments",
+      "https://www.consilium.europa.eu/en/press/press-releases/2022/12/07/anti-money-laundering-council-agrees-its-position-on-a-strengthened-rulebook/"
+    ]
+  ],
+  [
+    [
       "2022-12-10, 10:00:09",
       "https://news.ycombinator.com/item?id=33931371"
     ],
     [
       "Grant Wahl last article “They just don’t care.”",
       "https://grantwahl.substack.com/p/world-cup-daily-day-25"
+    ]
+  ],
+  [
+    [
+      "2022-12-10, 09:57:08",
+      "https://news.ycombinator.com/item?id=33931361"
+    ],
+    [
+      "Keep Your Identity Small (2009)",
+      "http://www.paulgraham.com/identity.html"
     ]
   ],
   [
@@ -67,26 +97,6 @@
     [
       "End-to-end encrypted messages need more than libsignal",
       "https://mjg59.dreamwidth.org/62598.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 01:10:18",
-      "https://news.ycombinator.com/item?id=33928670"
-    ],
-    [
-      "Practical Python Programming Course",
-      "https://dabeaz-course.github.io/practical-python/Notes/Contents.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 00:44:03",
-      "https://news.ycombinator.com/item?id=33928476"
-    ],
-    [
-      "Code coverage for your AWK programs",
-      "https://benhoyt.com/writings/goawk-coverage/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A crash course in Python “comprehensions” and “generators”",
       "https://medium.com/@petefison/a-crash-course-in-python-comprehensions-and-generators-f069c8f8ca38"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 08:29:57",
-      "https://news.ycombinator.com/item?id=33892009"
-    ],
-    [
-      "Korg makes music with Raspberry Pi",
-      "https://www.raspberrypi.com/news/electronic-music-icon-korg-makes-music-with-raspberry-pi/"
     ]
   ]
 ]
