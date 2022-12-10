@@ -51,22 +51,22 @@
   ],
   [
     [
+      "2022-12-10, 11:18:40",
+      "https://news.ycombinator.com/item?id=33931672"
+    ],
+    [
+      "HopToDesk – Free Remote Desktop Software for Windows, Mac, Linux, Android, iOS",
+      "https://www.hoptodesk.com"
+    ]
+  ],
+  [
+    [
       "2022-12-10, 10:22:59",
       "https://news.ycombinator.com/item?id=33931458"
     ],
     [
       "Tauri Mobile Alpha Release",
       "https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 10:05:25",
-      "https://news.ycombinator.com/item?id=33931384"
-    ],
-    [
-      "EU-wide maximum limit of €10K for cash payments",
-      "https://www.consilium.europa.eu/en/press/press-releases/2022/12/07/anti-money-laundering-council-agrees-its-position-on-a-strengthened-rulebook/"
     ]
   ],
   [
@@ -221,36 +221,6 @@
   ],
   [
     [
-      "2022-12-09, 19:04:03",
-      "https://news.ycombinator.com/item?id=33925197"
-    ],
-    [
-      "Fireship – Learn to Code Faster",
-      "https://fireship.io/"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 18:50:57",
-      "https://news.ycombinator.com/item?id=33925047"
-    ],
-    [
-      "Ten Minute Physics",
-      "https://matthias-research.github.io/pages/tenMinutePhysics/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 17:21:22",
-      "https://news.ycombinator.com/item?id=33923907"
-    ],
-    [
-      "Show HN: LearnGPT – Browse and share ChatGPT examples",
-      "https://www.learngpt.com/"
-    ]
-  ],
-  [
-    [
       "2022-12-09, 09:18:14",
       "https://news.ycombinator.com/item?id=33919316"
     ],
@@ -281,6 +251,16 @@
   ],
   [
     [
+      "2022-12-08, 09:52:15",
+      "https://news.ycombinator.com/item?id=33906174"
+    ],
+    [
+      "No Hello: A New Wave",
+      "https://sbmueller.github.io/nohello/"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 09:12:15",
       "https://news.ycombinator.com/item?id=33905910"
     ],
@@ -297,6 +277,26 @@
     [
       "I am frustrated with Stable Diffusion",
       "https://novalis.org/blog/2022-12-05-i-am-frustrated-with-stable-diffusion.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 23:01:12",
+      "https://news.ycombinator.com/item?id=33901623"
+    ],
+    [
+      "The Right to Be Lazy (1883)",
+      "https://www.marxists.org/archive/lafargue/1883/lazy/ch01.htm"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 08:30:59",
+      "https://news.ycombinator.com/item?id=33892017"
+    ],
+    [
+      "A crash course in Python “comprehensions” and “generators”",
+      "https://medium.com/@petefison/a-crash-course-in-python-comprehensions-and-generators-f069c8f8ca38"
     ]
   ]
 ]
