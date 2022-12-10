@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2022-12-10, 01:10:18",
+      "https://news.ycombinator.com/item?id=33928670"
+    ],
+    [
+      "Practical Python Programming Course",
+      "https://dabeaz-course.github.io/practical-python/Notes/Contents.html"
+    ]
+  ],
+  [
+    [
       "2022-12-10, 01:04:21",
       "https://news.ycombinator.com/item?id=33928625"
     ],
@@ -117,16 +127,6 @@
     [
       "Uxn is a virtual machine with 32 instructions",
       "https://wiki.xxiivv.com/site/uxn.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 19:53:46",
-      "https://news.ycombinator.com/item?id=33925741"
-    ],
-    [
-      "Glow: Render Markdown on the CLI",
-      "https://github.com/charmbracelet/glow"
     ]
   ],
   [
