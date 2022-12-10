@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-10, 18:34:48",
+      "https://news.ycombinator.com/item?id=33935306"
+    ],
+    [
+      "Fuel Out of Thin Air: CO2 Capture from Air and Conversion to Methanol",
+      "https://research.american.edu/carbonremoval/2020/09/29/fuel-out-of-thin-air-co2-capture-from-air-and-conversion-to-methanol/"
+    ]
+  ],
+  [
+    [
+      "2022-12-10, 18:23:28",
+      "https://news.ycombinator.com/item?id=33935162"
+    ],
+    [
+      "Miracast",
+      "https://github.com/albfan/miraclecast"
+    ]
+  ],
+  [
+    [
       "2022-12-10, 18:19:22",
       "https://news.ycombinator.com/item?id=33935103"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=33934139"
     ],
     [
-      "Just Use Postgres for Everything",
+      "Just use Postgres for everything",
       "https://www.amazingcto.com/postgres-for-everything/"
     ]
   ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-12-10, 14:06:15",
-      "https://news.ycombinator.com/item?id=33932708"
-    ],
-    [
-      "Automated code reviews (well, almost)",
-      "https://brainfisheatfishbrain.com/post/chatgpt-code-reviews/"
-    ]
-  ],
-  [
-    [
       "2022-12-10, 13:51:32",
       "https://news.ycombinator.com/item?id=33932594"
     ],
@@ -167,16 +177,6 @@
     [
       "Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service",
       "https://www.svix.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 11:19:23",
-      "https://news.ycombinator.com/item?id=33931677"
-    ],
-    [
-      "Show HN: Interactive exercises for Linux CLI text processing commands",
-      "https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises"
     ]
   ],
   [
