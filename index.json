@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-12-10, 13:12:20",
-      "https://news.ycombinator.com/item?id=33932314"
-    ],
-    [
-      "Don't design your database like a front end developer",
-      "https://www.wking.dev/library/dont-design-your-database-like-a-frontend-developer"
-    ]
-  ],
-  [
-    [
       "2022-12-10, 13:05:43",
       "https://news.ycombinator.com/item?id=33932271"
     ],
@@ -191,12 +181,22 @@
   ],
   [
     [
-      "2022-12-09, 22:08:36",
-      "https://news.ycombinator.com/item?id=33927021"
+      "2022-12-09, 23:20:30",
+      "https://news.ycombinator.com/item?id=33927820"
     ],
     [
-      "Programming Languages: Application and Interpretation, 3rd Ed",
-      "https://www.plai.org/"
+      "AT&T Long Lines – A Forgotten System (2018)",
+      "http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/"
+    ]
+  ],
+  [
+    [
+      "2022-12-09, 21:33:46",
+      "https://news.ycombinator.com/item?id=33926683"
+    ],
+    [
+      "A 100MW solar farm in Texas will mount panels directly on the ground",
+      "https://www.canarymedia.com/articles/solar/a-100mw-solar-farm-in-texas-will-mount-panels-directly-on-the-ground"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2022-12-09, 19:53:10",
-      "https://news.ycombinator.com/item?id=33925735"
-    ],
-    [
-      "Pausing Manifest V2 phase-out changes",
-      "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/zQ77HkGmK9E"
-    ]
-  ],
-  [
-    [
       "2022-12-09, 19:16:24",
       "https://news.ycombinator.com/item?id=33925342"
     ],
     [
       "Pulsar: A Community Effort to Revive the Atom Text Editor",
       "https://pulsar-edit.dev/"
+    ]
+  ],
+  [
+    [
+      "2022-12-09, 18:50:57",
+      "https://news.ycombinator.com/item?id=33925047"
+    ],
+    [
+      "Ten Minute Physics",
+      "https://matthias-research.github.io/pages/tenMinutePhysics/index.html"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-12-08, 20:31:12",
+      "https://news.ycombinator.com/item?id=33912935"
+    ],
+    [
+      "In Search of True Color: Sergei Prokudin-Gorsky’s Flawed Images",
+      "https://publicdomainreview.org/essay/in-search-of-true-color/"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 17:18:56",
       "https://news.ycombinator.com/item?id=33910439"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2022-12-08, 00:06:17",
-      "https://news.ycombinator.com/item?id=33902248"
+      "2022-12-07, 08:30:59",
+      "https://news.ycombinator.com/item?id=33892017"
     ],
     [
-      "I am frustrated with Stable Diffusion",
-      "https://novalis.org/blog/2022-12-05-i-am-frustrated-with-stable-diffusion.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 23:01:12",
-      "https://news.ycombinator.com/item?id=33901623"
-    ],
-    [
-      "The Right to Be Lazy (1883)",
-      "https://www.marxists.org/archive/lafargue/1883/lazy/ch01.htm"
+      "A crash course in Python “comprehensions” and “generators”",
+      "https://medium.com/@petefison/a-crash-course-in-python-comprehensions-and-generators-f069c8f8ca38"
     ]
   ]
 ]
