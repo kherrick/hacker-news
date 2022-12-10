@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-10, 19:13:49",
+      "https://news.ycombinator.com/item?id=33935760"
+    ],
+    [
+      "Sign in with Google has been removed for your privacy",
+      "https://slimvoice.co/login"
+    ]
+  ],
+  [
+    [
       "2022-12-10, 18:56:51",
       "https://news.ycombinator.com/item?id=33935566"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33935162"
     ],
     [
-      "Miracast",
+      "MiracleCast",
       "https://github.com/albfan/miraclecast"
     ]
   ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2022-12-10, 16:12:02",
+      "https://news.ycombinator.com/item?id=33933772"
+    ],
+    [
+      "Talking About Large Language Models",
+      "https://arxiv.org/abs/2212.03551"
+    ]
+  ],
+  [
+    [
       "2022-12-10, 15:05:51",
       "https://news.ycombinator.com/item?id=33933208"
     ],
@@ -147,16 +167,6 @@
     [
       "Elixir-style Pipelines in 9 Lines of Ruby",
       "https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 14:06:15",
-      "https://news.ycombinator.com/item?id=33932708"
-    ],
-    [
-      "Automated code reviews (well, almost)",
-      "https://brainfisheatfishbrain.com/post/chatgpt-code-reviews/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service",
       "https://www.svix.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 11:19:23",
-      "https://news.ycombinator.com/item?id=33931677"
-    ],
-    [
-      "Show HN: Interactive exercises for Linux CLI text processing commands",
-      "https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises"
     ]
   ],
   [
