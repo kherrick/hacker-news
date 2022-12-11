@@ -1,22 +1,32 @@
 [
   [
     [
-      "2022-12-11, 01:33:05",
-      "https://news.ycombinator.com/item?id=33939047"
-    ],
-    [
-      "Z-Library on New Domain",
-      "https://z-lib.is/"
-    ]
-  ],
-  [
-    [
       "2022-12-11, 00:43:21",
       "https://news.ycombinator.com/item?id=33938704"
     ],
     [
       "Copyright denied as pose lacks originality",
       "https://twitter.com/zemotion/status/1600529480099196928"
+    ]
+  ],
+  [
+    [
+      "2022-12-10, 23:32:10",
+      "https://news.ycombinator.com/item?id=33938207"
+    ],
+    [
+      "Zero-Cost Well-Defined Signed Integer Overflow in C++",
+      "https://rentry.co/c955s"
+    ]
+  ],
+  [
+    [
+      "2022-12-10, 23:03:45",
+      "https://news.ycombinator.com/item?id=33937997"
+    ],
+    [
+      "Fuzzing ping(8) and finding a 24 year old bug",
+      "https://tlakh.xyz/fuzzing-ping.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Tauri Mobile Alpha Release",
       "https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 10:05:25",
-      "https://news.ycombinator.com/item?id=33931384"
-    ],
-    [
-      "EU-wide maximum limit of €10K for cash payments",
-      "https://www.consilium.europa.eu/en/press/press-releases/2022/12/07/anti-money-laundering-council-agrees-its-position-on-a-strengthened-rulebook/"
     ]
   ],
   [
