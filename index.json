@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=33945370"
     ],
     [
-      "Orion has splashed down off the coast of Baja, California. Our spacecraft's home",
+      "Orion has splashed down off the coast of Baja, California",
       "https://twitter.com/nasa_orion/status/1601995706642071552"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=33944772"
     ],
     [
-      "NCC Group security audit for Google's One VPN service",
+      "VPN by Google One security assessment",
       "https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/"
     ]
   ],
@@ -25,28 +25,8 @@
       "https://news.ycombinator.com/item?id=33944767"
     ],
     [
-      "The Tech Is Finally Good Enough for an Airship Revival",
+      "LTA Research’s Pathfinder 1",
       "https://spectrum.ieee.org/airship"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 16:39:09",
-      "https://news.ycombinator.com/item?id=33944678"
-    ],
-    [
-      "Biodiversity: Ocean 'dead zones' are proliferating due to global warming",
-      "https://www.france24.com/en/environment/20221208-biodiversity-ocean-dead-zones-are-proliferating"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 16:25:22",
-      "https://news.ycombinator.com/item?id=33944543"
-    ],
-    [
-      "The Reason Washington Is Silent on the FTX Fiasco - Bipartisan Donations",
-      "https://www.politico.com/news/magazine/2022/12/09/crypto-scandal-sam-bankman-fried-ftx-00073178"
     ]
   ],
   [
@@ -57,16 +37,6 @@
     [
       "Richard Hipp Speaks Out on SQLite (2019) [pdf]",
       "https://sigmodrecord.org/publications/sigmodRecord/1906/pdfs/06_Profiles_Hipp.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 15:20:25",
-      "https://news.ycombinator.com/item?id=33943886"
-    ],
-    [
-      "Ask HN: Do anyone get anxiety from following Hacker News?",
-      "https://news.ycombinator.com/item?id=33943886"
     ]
   ],
   [
@@ -97,6 +67,16 @@
     [
       "Getting Started with Tmux",
       "https://ittavern.com/getting-started-with-tmux/"
+    ]
+  ],
+  [
+    [
+      "2022-12-11, 14:31:43",
+      "https://news.ycombinator.com/item?id=33943522"
+    ],
+    [
+      "Show HN: Prompt Engineering Course",
+      "https://learnprompting.org/"
     ]
   ],
   [
@@ -141,21 +121,11 @@
   ],
   [
     [
-      "2022-12-11, 12:21:38",
-      "https://news.ycombinator.com/item?id=33942558"
-    ],
-    [
-      "Ask HN: Those with money-making side projects,how did you come up with the idea?",
-      "https://news.ycombinator.com/item?id=33942558"
-    ]
-  ],
-  [
-    [
       "2022-12-11, 12:13:20",
       "https://news.ycombinator.com/item?id=33942519"
     ],
     [
-      "I start taking English classes at the age of 46",
+      "I started taking English classes at the age of 46",
       "https://mxgrn.com/blog/english-classes"
     ]
   ],
@@ -187,6 +157,26 @@
     [
       "PermitFlow (YC W22) Is Hiring",
       "https://www.ycombinator.com/companies/permitflow/jobs/axcfyjc-founding-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-12-11, 11:32:20",
+      "https://news.ycombinator.com/item?id=33942309"
+    ],
+    [
+      "Hashing Apples, Bananas and Cherries",
+      "https://crypto.junod.info/posts/recursive-hash/"
+    ]
+  ],
+  [
+    [
+      "2022-12-11, 09:43:28",
+      "https://news.ycombinator.com/item?id=33941714"
+    ],
+    [
+      "Refined GitHub",
+      "https://github.com/refined-github/refined-github"
     ]
   ],
   [
@@ -241,12 +231,22 @@
   ],
   [
     [
-      "2022-12-10, 06:40:38",
-      "https://news.ycombinator.com/item?id=33930503"
+      "2022-12-10, 22:40:10",
+      "https://news.ycombinator.com/item?id=33937753"
     ],
     [
-      "How to Think About Compiling",
-      "https://uptointerpretation.com/posts/how-to-think-about-compiling/"
+      "Disputing a Parking Fine with ChatGPT",
+      "https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-10, 17:15:12",
+      "https://news.ycombinator.com/item?id=33934369"
+    ],
+    [
+      "The father of all secrets: John le Carré’s daddy issues",
+      "https://thebaffler.com/salvos/the-father-of-all-secrets-adler-bell"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=33908357"
     ],
     [
-      "Meditations on an Inexpensive Laundry Basket",
+      "Meditations on an inexpensive laundry basket",
       "https://onefoottsunami.com/2022/12/08/meditations-on-an-inexpensive-laundry-basket/"
     ]
   ],
