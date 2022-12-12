@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-12-12, 14:31:57",
-      "https://news.ycombinator.com/item?id=33954974"
+      "2022-12-12, 14:55:48",
+      "https://news.ycombinator.com/item?id=33955257"
     ],
     [
-      "Artificial womb facility concept for 30k babies per year",
-      "https://superinnovators.com/2022/12/artificial-womb-facility-concept-for-30000-babies-per-year/"
+      "The Zig programming language has been ported to SerenityOS",
+      "https://twitter.com/awesomekling/status/1602315728320880640"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 14:50:35",
+      "https://news.ycombinator.com/item?id=33955192"
+    ],
+    [
+      "Fusion “Breakthrough” at NIF?",
+      "https://www.science.org/content/article/fusion-breakthrough-nif-uh-not-really"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 14:36:53",
+      "https://news.ycombinator.com/item?id=33955031"
+    ],
+    [
+      "U.S. to announce major breakthrough in zero-carbon nuclear fusion energy",
+      "https://www.cbsnews.com/news/nuclear-fusion-energy-breakthrough-us-expected-announcement-zero-carbon-power/"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 14:36:10",
+      "https://news.ycombinator.com/item?id=33955020"
+    ],
+    [
+      "Medieval ship found in Norway's biggest lake",
+      "https://lite.cnn.com/en/article/h_f7e68a3a7d704b1a13bcdea82f4454ad"
     ]
   ],
   [
@@ -31,6 +61,26 @@
   ],
   [
     [
+      "2022-12-12, 14:00:18",
+      "https://news.ycombinator.com/item?id=33954660"
+    ],
+    [
+      "The Hype Around Esports Is Fading as Investors and Sponsors Dry Up",
+      "https://www.bloomberg.com/news/articles/2022-12-08/the-hype-around-esports-is-fading-as-investors-and-sponsors-flee"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 13:57:04",
+      "https://news.ycombinator.com/item?id=33954636"
+    ],
+    [
+      "“A Solution in Search of a Problem” Is a Low-Rates Phenomenon",
+      "https://www.thediff.co/p/a-solution-in-search-of-a-problem"
+    ]
+  ],
+  [
+    [
       "2022-12-12, 13:52:52",
       "https://news.ycombinator.com/item?id=33954595"
     ],
@@ -51,12 +101,22 @@
   ],
   [
     [
-      "2022-12-12, 13:04:25",
-      "https://news.ycombinator.com/item?id=33954224"
+      "2022-12-12, 13:20:37",
+      "https://news.ycombinator.com/item?id=33954352"
     ],
     [
-      "U.S. Justice Department is split over charging Binance as crypto world falters",
-      "https://www.reuters.com/markets/us/us-justice-dept-is-split-over-charging-binance-crypto-world-falters-sources-2022-12-12/"
+      "SK Hynix Reveals DDR5 MCR DIMM, Up to DDR5-8000 Speeds for HPC",
+      "https://www.anandtech.com/show/18683/sk-hynix-reveals-mcr-dimm-up-to-8gbps-bandwidth-for-hpc"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 12:52:32",
+      "https://news.ycombinator.com/item?id=33954129"
+    ],
+    [
+      "Show HN: Train your own image generator (Stable Diffusion) for free",
+      "https://88stacks.com/"
     ]
   ],
   [
@@ -161,46 +221,6 @@
   ],
   [
     [
-      "2022-12-12, 01:09:26",
-      "https://news.ycombinator.com/item?id=33949611"
-    ],
-    [
-      "The 6.1 kernel is out",
-      "https://lwn.net/Articles/917504/"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 00:16:19",
-      "https://news.ycombinator.com/item?id=33949162"
-    ],
-    [
-      "Binance is trying to calm investors, but its finances remain a mystery",
-      "https://www.wsj.com/articles/binance-is-trying-to-calm-investors-but-its-finances-remain-a-mystery-11670679351"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 20:08:40",
-      "https://news.ycombinator.com/item?id=33946933"
-    ],
-    [
-      "Beyond Functional Programming: The Verse Programming Language [pdf]",
-      "https://simon.peytonjones.org/assets/pdfs/haskell-exchange-22.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 18:06:36",
-      "https://news.ycombinator.com/item?id=33945628"
-    ],
-    [
-      "Ask HN: Should HN ban ChatGPT/generated responses?",
-      "https://news.ycombinator.com/item?id=33945628"
-    ]
-  ],
-  [
-    [
       "2022-12-11, 12:57:59",
       "https://news.ycombinator.com/item?id=33942766"
     ],
@@ -277,26 +297,6 @@
     [
       "Taking jigsaw puzzles to infinity and beyond",
       "https://www.nytimes.com/2022/12/09/science/puzzles-jigsaw-math.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 18:56:38",
-      "https://news.ycombinator.com/item?id=33935562"
-    ],
-    [
-      "What powers artists who reach old age? The work",
-      "https://www.washingtonpost.com/opinions/2022/12/06/artists-old-age-hockney-bourgeois-katz/"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 13:46:45",
-      "https://news.ycombinator.com/item?id=33932562"
-    ],
-    [
-      "C23 Implications for C Libraries",
-      "https://gustedt.gitlabpages.inria.fr/c23-library/"
     ]
   ]
 ]
