@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-12-12, 23:42:07",
+      "https://news.ycombinator.com/item?id=33962116"
+    ],
+    [
+      "Sam Bankman-Fried arrested in the Bahamas after U.S. files criminal charges",
+      "https://www.cnbc.com/2022/12/12/ftx-founder-sam-bankman-fried-arrested-in-the-bahamas-after-us-files-criminal-charges.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 23:38:53",
+      "https://news.ycombinator.com/item?id=33962083"
+    ],
+    [
+      "SBF Arrested by Bahamian Authorities",
+      "https://twitter.com/tier10k/status/1602446984090107905"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 23:07:12",
+      "https://news.ycombinator.com/item?id=33961785"
+    ],
+    [
+      "The Scourge of Job Title Inflation",
+      "https://www.economist.com/business/2022/12/08/the-scourge-of-job-title-inflation"
+    ]
+  ],
+  [
+    [
       "2022-12-12, 22:44:48",
       "https://news.ycombinator.com/item?id=33961543"
     ],
     [
-      "The obvious answer to homelessness and why everyone's ignoring it",
+      "Shortage of affordable housing guarantees that some people will become homeless",
       "https://www.theatlantic.com/magazine/archive/2023/01/homelessness-affordable-housing-crisis-democrats-causes/672224/"
     ]
   ],
@@ -91,26 +121,6 @@
   ],
   [
     [
-      "2022-12-12, 18:32:29",
-      "https://news.ycombinator.com/item?id=33958290"
-    ],
-    [
-      "The silent struggles of workers with ADHD",
-      "https://www.bbc.com/worklife/article/20221209-the-silent-struggles-of-workers-with-adhd"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 18:04:40",
-      "https://news.ycombinator.com/item?id=33957900"
-    ],
-    [
-      "Coat makes wearers invisible to AI security cameras",
-      "https://petapixel.com/2022/12/12/71-coat-makes-wearers-invisible-to-ai-security-cameras/"
-    ]
-  ],
-  [
-    [
       "2022-12-12, 15:51:57",
       "https://news.ycombinator.com/item?id=33955983"
     ],
@@ -127,16 +137,6 @@
     [
       "The next step in ecommerce – replatform with APIs and micro front ends",
       "https://stackoverflow.blog/2022/12/12/the-next-step-in-ecommerce-replatform-with-apis-and-micro-frontends/"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 14:55:48",
-      "https://news.ycombinator.com/item?id=33955257"
-    ],
-    [
-      "The Zig programming language has been ported to SerenityOS",
-      "https://twitter.com/awesomekling/status/1602315728320880640"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-12-12, 09:03:32",
-      "https://news.ycombinator.com/item?id=33952515"
-    ],
-    [
-      "A list of advanced math tricks by Terence Tao",
-      "https://mathstodon.xyz/@tao/109451634735720062"
-    ]
-  ],
-  [
-    [
       "2022-12-12, 06:33:36",
       "https://news.ycombinator.com/item?id=33951613"
     ],
@@ -297,6 +287,16 @@
     [
       "Fusion energy breakthrough by Livermore Lab",
       "https://www.ft.com/content/4b6f0fab-66ef-4e33-adec-cfc345589dc7"
+    ]
+  ],
+  [
+    [
+      "2022-12-11, 04:45:43",
+      "https://news.ycombinator.com/item?id=33940190"
+    ],
+    [
+      "Taking jigsaw puzzles to infinity and beyond",
+      "https://www.nytimes.com/2022/12/09/science/puzzles-jigsaw-math.html"
     ]
   ]
 ]
