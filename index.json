@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-12, 01:47:13",
+      "https://news.ycombinator.com/item?id=33949895"
+    ],
+    [
+      "Sharrow MX-1: Tipless propeller (2020)",
+      "https://www.mby.com/gear/sharrow-mx-1-tipless-propeller-110120"
+    ]
+  ],
+  [
+    [
       "2022-12-12, 01:17:27",
       "https://news.ycombinator.com/item?id=33949680"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=33948535"
     ],
     [
-      "Carvana sees 98% of its market value evaporate",
+      "As Carvana crashes, used car dealers, not buyers, stand to win big",
       "https://www.businessinsider.com/used-vehicle-retailer-carvana-bankruptcy-car-buyers-inventory-2022-12"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "Is Dark Mode Good for Your Eyes? (2020)",
       "https://kevquirk.com/is-dark-mode-such-a-good-idea/"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 21:30:44",
-      "https://news.ycombinator.com/item?id=33947761"
-    ],
-    [
-      "‘Diablo IV’ developers work long hours, bracing for impending release",
-      "https://www.washingtonpost.com/video-games/2022/12/08/diablo-iv-release-date-crunch/"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2022-12-11, 20:24:41",
-      "https://news.ycombinator.com/item?id=33947087"
-    ],
-    [
-      "GPT based tool that writes the commit message for you",
-      "https://github.com/KanHarI/gpt-commit-summarizer"
-    ]
-  ],
-  [
-    [
       "2022-12-11, 20:08:40",
       "https://news.ycombinator.com/item?id=33946933"
     ],
@@ -145,8 +135,18 @@
       "https://news.ycombinator.com/item?id=33946431"
     ],
     [
-      "Video games made in the USSR",
+      "Video games made in the USSR (2020)",
       "https://www.rbth.com/lifestyle/332384-video-games-soviet-russian-tetris"
+    ]
+  ],
+  [
+    [
+      "2022-12-11, 19:09:11",
+      "https://news.ycombinator.com/item?id=33946342"
+    ],
+    [
+      "“What if your entire worldview was just because of near-zero interest rates?”",
+      "https://novum.substack.com/p/what-if-worldview-zero-interest-rates"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "What's wrong with social science and how to fix it (2020)",
       "https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 17:28:04",
-      "https://news.ycombinator.com/item?id=33945219"
-    ],
-    [
-      "Elastic UI – Component library for data-driven web apps",
-      "https://elastic.github.io/eui/#/"
     ]
   ],
   [
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2022-12-11, 12:29:41",
-      "https://news.ycombinator.com/item?id=33942597"
+      "2022-12-11, 12:43:09",
+      "https://news.ycombinator.com/item?id=33942670"
     ],
     [
-      "The GPT Architecture, on a Napkin",
-      "https://dugas.ch/artificial_curiosity/GPT_architecture.html"
+      "Be wary of imitating high-status people who can afford to countersignal",
+      "https://robkhenderson.substack.com/p/the-perils-of-imitating-high-status"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "The father of all secrets: John le Carré’s daddy issues",
       "https://thebaffler.com/salvos/the-father-of-all-secrets-adler-bell"
+    ]
+  ],
+  [
+    [
+      "2022-12-10, 13:46:45",
+      "https://news.ycombinator.com/item?id=33932562"
+    ],
+    [
+      "C23 Implications for C Libraries",
+      "https://gustedt.gitlabpages.inria.fr/c23-library/"
     ]
   ],
   [
