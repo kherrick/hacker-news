@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-12-12, 15:22:28",
+      "https://news.ycombinator.com/item?id=33955563"
+    ],
+    [
+      "DARPA: Neural Evidence Aggregation Tool",
+      "https://www.darpa.mil/news-events/2022-03-02"
+    ]
+  ],
+  [
+    [
       "2022-12-12, 14:55:48",
       "https://news.ycombinator.com/item?id=33955257"
     ],
     [
       "The Zig programming language has been ported to SerenityOS",
       "https://twitter.com/awesomekling/status/1602315728320880640"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 14:47:43",
+      "https://news.ycombinator.com/item?id=33955145"
+    ],
+    [
+      "Ask HN: Have you ever considered leaving tech because you didn’t feel fulfilled?",
+      "https://news.ycombinator.com/item?id=33955145"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 14:40:00",
+      "https://news.ycombinator.com/item?id=33955066"
+    ],
+    [
+      "Ask a DNA Expert: What Would It Take to Bring Back the Dinosaurs?",
+      "https://thewalrus.ca/bring-back-dinosaurs/"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "Show HN: Embed a snow effect on your website",
       "https://embed.im/snow/"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 14:13:45",
+      "https://news.ycombinator.com/item?id=33954778"
+    ],
+    [
+      "Ask HN: What's Your Proudest Hack?",
+      "https://news.ycombinator.com/item?id=33954778"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "SK Hynix Reveals DDR5 MCR DIMM, Up to DDR5-8000 Speeds for HPC",
       "https://www.anandtech.com/show/18683/sk-hynix-reveals-mcr-dimm-up-to-8gbps-bandwidth-for-hpc"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 12:52:32",
-      "https://news.ycombinator.com/item?id=33954129"
-    ],
-    [
-      "Show HN: Train your own image generator (Stable Diffusion) for free",
-      "https://88stacks.com/"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "Dreams change under authoritarianism (2019)",
       "https://www.newyorker.com/books/second-read/how-dreams-change-under-authoritarianism"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 06:10:51",
-      "https://news.ycombinator.com/item?id=33940581"
-    ],
-    [
-      "Watching the Greatest Hits from the Last 120 Years",
-      "https://matthewc.dev/projects/movie-history-tour/"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 04:45:43",
-      "https://news.ycombinator.com/item?id=33940190"
-    ],
-    [
-      "Taking jigsaw puzzles to infinity and beyond",
-      "https://www.nytimes.com/2022/12/09/science/puzzles-jigsaw-math.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 13:46:45",
-      "https://news.ycombinator.com/item?id=33932562"
-    ],
-    [
-      "C23 Implications for C Libraries",
-      "https://gustedt.gitlabpages.inria.fr/c23-library/"
     ]
   ]
 ]
