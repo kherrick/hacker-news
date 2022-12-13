@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-12-12, 23:42:07",
-      "https://news.ycombinator.com/item?id=33962116"
+      "2022-12-13, 01:29:54",
+      "https://news.ycombinator.com/item?id=33963383"
     ],
     [
-      "Sam Bankman-Fried arrested in the Bahamas after U.S. files criminal charges",
-      "https://www.cnbc.com/2022/12/12/ftx-founder-sam-bankman-fried-arrested-in-the-bahamas-after-us-files-criminal-charges.html"
+      "Solving Advent of Code with jq",
+      "https://github.com/odnoletkov/advent-of-code-jq"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 01:17:50",
+      "https://news.ycombinator.com/item?id=33963269"
+    ],
+    [
+      "Ask HN: If I get locked out of everything, please try to help me",
+      "https://news.ycombinator.com/item?id=33963269"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 00:08:56",
+      "https://news.ycombinator.com/item?id=33962478"
+    ],
+    [
+      "Data behind high-functioning engineering organizations [pdf]",
+      "https://www.datocms-assets.com/65181/1667327773-iconiq-analytics-insights-engineering-in-a-hybrid-world.pdf"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33962090"
     ],
     [
-      "Holy Trinity of Clojure: Language, REPL and Structural Editor",
+      "Clojure is a trinity of language, REPL, and structural editor",
       "https://blog.jakubholy.net/2022/trinity-of-clojure/"
     ]
   ],
@@ -31,22 +51,22 @@
   ],
   [
     [
-      "2022-12-12, 23:07:12",
-      "https://news.ycombinator.com/item?id=33961785"
+      "2022-12-12, 23:34:58",
+      "https://news.ycombinator.com/item?id=33962042"
     ],
     [
-      "The Scourge of Job Title Inflation",
-      "https://www.economist.com/business/2022/12/08/the-scourge-of-job-title-inflation"
+      "Building Games with DragonRuby – A free book on Ruby game dev",
+      "https://book.dragonriders.community/"
     ]
   ],
   [
     [
-      "2022-12-12, 22:44:48",
-      "https://news.ycombinator.com/item?id=33961543"
+      "2022-12-12, 23:13:51",
+      "https://news.ycombinator.com/item?id=33961847"
     ],
     [
-      "Shortage of affordable housing guarantees that some people will become homeless",
-      "https://www.theatlantic.com/magazine/archive/2023/01/homelessness-affordable-housing-crisis-democrats-causes/672224/"
+      "Why hasn’t technology disrupted higher education already?",
+      "https://www.slowboring.com/p/why-hasnt-technology-disrupted-higher"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Perhaps it is a bad thing that the leading AI companies cannot control their AIs",
       "https://astralcodexten.substack.com/p/perhaps-it-is-a-bad-thing-that-the"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 22:12:08",
+      "https://news.ycombinator.com/item?id=33961168"
+    ],
+    [
+      "A Canaanite’s wish to eradicate lice on an inscribed ivory comb from Lachish [pdf]",
+      "https://jjar.huji.ac.il/sites/default/files/jjar/files/jjar2_art4_lachish_p76-119_2022-10-12_01.pdf"
     ]
   ],
   [
@@ -91,6 +121,16 @@
   ],
   [
     [
+      "2022-12-12, 19:28:32",
+      "https://news.ycombinator.com/item?id=33959016"
+    ],
+    [
+      "Geoff Dyer: The essayist on not having a career James Surowiecki",
+      "https://yalereview.org/article/surowiecki-geoff-dyer"
+    ]
+  ],
+  [
+    [
       "2022-12-12, 19:02:19",
       "https://news.ycombinator.com/item?id=33958696"
     ],
@@ -107,16 +147,6 @@
     [
       "Database drivers: Naughty or nice?",
       "https://www.prequel.co/blog/database-drivers-naughty-or-nice"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 15:33:24",
-      "https://news.ycombinator.com/item?id=33955713"
-    ],
-    [
-      "The next step in ecommerce – replatform with APIs and micro front ends",
-      "https://stackoverflow.blog/2022/12/12/the-next-step-in-ecommerce-replatform-with-apis-and-micro-frontends/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-12-12, 13:20:37",
-      "https://news.ycombinator.com/item?id=33954352"
-    ],
-    [
-      "SK Hynix Reveals DDR5 MCR DIMM, Up to DDR5-8000 Speeds for HPC",
-      "https://www.anandtech.com/show/18683/sk-hynix-reveals-mcr-dimm-up-to-8gbps-bandwidth-for-hpc"
-    ]
-  ],
-  [
-    [
       "2022-12-12, 12:58:12",
       "https://news.ycombinator.com/item?id=33954176"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-12-12, 11:47:37",
-      "https://news.ycombinator.com/item?id=33953658"
-    ],
-    [
-      "How type influences readability",
-      "https://fonts.google.com/knowledge/readability_and_accessibility/how_type_influences_readability"
-    ]
-  ],
-  [
-    [
       "2022-12-12, 10:23:14",
       "https://news.ycombinator.com/item?id=33953053"
     ],
@@ -237,16 +247,6 @@
     [
       "Overlapping markup",
       "https://en.wikipedia.org/wiki/Overlapping_markup"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 04:26:44",
-      "https://news.ycombinator.com/item?id=33950861"
-    ],
-    [
-      "What was Dracula like? 550-year-old clue to Vlad the Impaler emerges",
-      "https://www.theguardian.com/books/2022/dec/11/dracula-vlad-the-impaler-letter-protein-clues"
     ]
   ],
   [
