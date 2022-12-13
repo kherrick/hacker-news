@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-12-13, 19:11:56",
+      "https://news.ycombinator.com/item?id=33974161"
+    ],
+    [
+      "Hydra – the fastest Postgres for analytics [benchmarks]",
+      "https://hydras.io/blog/2022-12-13-how-we-built-fastest-postgres-db-for-analytics"
+    ]
+  ],
+  [
+    [
       "2022-12-13, 18:54:22",
       "https://news.ycombinator.com/item?id=33973888"
     ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=33971432"
     ],
     [
-      "Julia Evans: Tips for Analyzing Logs",
+      "Tips for analyzing logs",
       "https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/"
     ]
   ],
@@ -137,16 +147,6 @@
     [
       "Longer proteins for longer lifespan? – Josh Mitteldorf",
       "https://joshmitteldorf.scienceblog.com/2022/12/13/longer-proteins-for-longer-lifespan/"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 16:07:03",
-      "https://news.ycombinator.com/item?id=33970717"
-    ],
-    [
-      "New Zealand passes legislation banning cigarettes for future generations",
-      "https://www.bbc.com/news/world-asia-63954862"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=33969490"
     ],
     [
-      "LosslessCut: The Swiss Army Knife of Lossless Video/Audio Editing",
+      "LosslessCut: lossless video/audio editing",
       "https://mifi.no/losslesscut/"
     ]
   ],
