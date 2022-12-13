@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-12-13, 14:44:56",
+      "https://news.ycombinator.com/item?id=33969490"
+    ],
+    [
+      "LosslessCut: The Swiss Army Knife of Lossless Video/Audio Editing",
+      "https://mifi.no/losslesscut/"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 14:41:30",
+      "https://news.ycombinator.com/item?id=33969454"
+    ],
+    [
+      "Shutting down our unencrypted public DNS service",
+      "https://mullvad.net/en/blog/2022/12/13/shutting-down-our-unencrypted-public-dns-service/"
+    ]
+  ],
+  [
+    [
       "2022-12-13, 14:27:28",
       "https://news.ycombinator.com/item?id=33969300"
     ],
     [
-      "The Best Things and Stuff of 2022",
+      "The best things and stuff of 2022",
       "http://blog.fogus.me/2022/12/13/the-best-things-and-stuff-of-2022/"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 14:07:07",
+      "https://news.ycombinator.com/item?id=33969026"
+    ],
+    [
+      "Ask HN: Are Any of You Tired from macOS and Want to Go Back to Linux?",
+      "https://news.ycombinator.com/item?id=33969026"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2022-12-13, 08:09:38",
-      "https://news.ycombinator.com/item?id=33966074"
-    ],
-    [
-      "Orphaned neurological implants",
-      "https://pluralistic.net/2022/12/12/unsafe-at-any-speed/#this-is-literally-your-brain-on-capitalism"
-    ]
-  ],
-  [
-    [
       "2022-12-13, 08:06:14",
       "https://news.ycombinator.com/item?id=33966059"
     ],
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=33965933"
     ],
     [
-      "Read This Post ‘Unless’ You’re Not a Ruby Developer",
+      "Read this post ‘unless’ you’re not a Ruby developer",
       "https://jesseduffield.com/Unless/"
     ]
   ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-12-12, 23:34:58",
-      "https://news.ycombinator.com/item?id=33962042"
-    ],
-    [
-      "Building Games with DragonRuby – A free book on Ruby game dev",
-      "https://book.dragonriders.community/"
-    ]
-  ],
-  [
-    [
       "2022-12-12, 14:30:38",
       "https://news.ycombinator.com/item?id=33954958"
     ],
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2022-12-11, 23:24:36",
-      "https://news.ycombinator.com/item?id=33948769"
-    ],
-    [
-      "A shader for sharp pixels (2017)",
-      "https://gamingprojects.wordpress.com/2017/12/03/reducing-pixel-blur-and-distortion/"
-    ]
-  ],
-  [
-    [
       "2022-12-11, 22:03:36",
       "https://news.ycombinator.com/item?id=33948060"
     ],
     [
-      "A Neat XOR Trick",
+      "A neat XOR trick",
       "https://www.mattkeeter.com/blog/2022-12-10-xor/"
     ]
   ],
