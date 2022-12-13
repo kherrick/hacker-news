@@ -1,12 +1,72 @@
 [
   [
     [
+      "2022-12-13, 17:01:00",
+      "https://news.ycombinator.com/item?id=33971681"
+    ],
+    [
+      "Oven (YC S19) is hiring C/C++ or Zig engineers to build Bun",
+      "https://bun.sh/careers"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 16:56:29",
+      "https://news.ycombinator.com/item?id=33971577"
+    ],
+    [
+      "Is Europe Just Not Good at Innovating?",
+      "https://berthub.eu/articles/posts/is-europe-just-not-good-at-innovating/"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 16:47:16",
+      "https://news.ycombinator.com/item?id=33971432"
+    ],
+    [
+      "Julia Evans: Tips for Analyzing Logs",
+      "https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 16:47:16",
+      "https://news.ycombinator.com/item?id=33971431"
+    ],
+    [
+      "Bipartisan Legislation to Ban TikTok",
+      "https://www.rubio.senate.gov/public/index.cfm/2022/12/rubio-gallagher-introduce-bipartisan-legislation-to-ban-tiktok"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 16:44:40",
+      "https://news.ycombinator.com/item?id=33971377"
+    ],
+    [
+      "US Department of Energy: Fusion Ignition Achieved",
+      "https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition"
+    ]
+  ],
+  [
+    [
       "2022-12-13, 16:07:03",
       "https://news.ycombinator.com/item?id=33970717"
     ],
     [
       "New Zealand passes legislation banning cigarettes for future generations",
       "https://www.bbc.com/news/world-asia-63954862"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 16:05:23",
+      "https://news.ycombinator.com/item?id=33970688"
+    ],
+    [
+      "Our Year in Review: How Firefox Works for You",
+      "https://blog.mozilla.org/en/mozilla/our-firefox-2022-year-in-review/"
     ]
   ],
   [
@@ -141,16 +201,6 @@
   ],
   [
     [
-      "2022-12-13, 12:00:26",
-      "https://news.ycombinator.com/item?id=33967720"
-    ],
-    [
-      "Rutter (YC S19) Is Hiring a Senior Software Engineer in NYC",
-      "https://jobs.ashbyhq.com/rutter/7b222f5f-cd46-4592-9cf8-6cd1f5e09931"
-    ]
-  ],
-  [
-    [
       "2022-12-13, 11:24:37",
       "https://news.ycombinator.com/item?id=33967386"
     ],
@@ -161,32 +211,12 @@
   ],
   [
     [
-      "2022-12-13, 11:18:59",
-      "https://news.ycombinator.com/item?id=33967335"
-    ],
-    [
-      "Yerba Mate – A Long but Current History (2021)",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622869/"
-    ]
-  ],
-  [
-    [
       "2022-12-13, 08:06:14",
       "https://news.ycombinator.com/item?id=33966059"
     ],
     [
       "Human_fallback",
       "https://www.nplusonemag.com/issue-44/essays/human_fallback/"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 07:47:06",
-      "https://news.ycombinator.com/item?id=33965966"
-    ],
-    [
-      "Farewell, Building in Public",
-      "https://www.coryzue.com/writing/building-in-private/"
     ]
   ],
   [
@@ -221,42 +251,12 @@
   ],
   [
     [
-      "2022-12-12, 14:30:38",
-      "https://news.ycombinator.com/item?id=33954958"
-    ],
-    [
-      "OCaml Canvas",
-      "https://ocamlpro.github.io/ocaml-canvas/"
-    ]
-  ],
-  [
-    [
       "2022-12-12, 07:30:18",
       "https://news.ycombinator.com/item?id=33951939"
     ],
     [
       "How much decentralisation is too much?",
       "https://shkspr.mobi/blog/2022/12/how-much-decentralisation-is-too-much/"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 07:18:19",
-      "https://news.ycombinator.com/item?id=33951866"
-    ],
-    [
-      "My IDE is too heavy so I moved to Emacs",
-      "https://renato.athaydes.com/posts/switching-from-heavyweight-ides-to-emacs.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 03:44:26",
-      "https://news.ycombinator.com/item?id=33950621"
-    ],
-    [
-      "Pi number calculator in 146 bytes of 8088 machine code",
-      "https://github.com/nanochess/pi"
     ]
   ],
   [
