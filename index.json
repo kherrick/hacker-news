@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-13, 08:48:00",
+      "https://news.ycombinator.com/item?id=33966272"
+    ],
+    [
+      "Binance “temporarily” suspends USDC withdrawals",
+      "https://twitter.com/cz_binance/status/1602579499903852544"
+    ]
+  ],
+  [
+    [
       "2022-12-13, 08:06:23",
       "https://news.ycombinator.com/item?id=33966061"
     ],
@@ -37,6 +47,16 @@
     [
       "Read This Post ‘Unless’ You’re Not a Ruby Developer",
       "https://jesseduffield.com/Unless/"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 07:37:04",
+      "https://news.ycombinator.com/item?id=33965914"
+    ],
+    [
+      "Programs are dead, and JavaScript has killed them",
+      "https://pouria.dev/programs-are-dead/"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Solving Advent of Code with jq",
       "https://github.com/odnoletkov/advent-of-code-jq"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 01:17:50",
-      "https://news.ycombinator.com/item?id=33963269"
-    ],
-    [
-      "Ask HN: If I get locked out of everything, please try to help me",
-      "https://news.ycombinator.com/item?id=33963269"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-12-12, 19:28:32",
-      "https://news.ycombinator.com/item?id=33959016"
-    ],
-    [
-      "Geoff Dyer: The essayist on not having a career",
-      "https://yalereview.org/article/surowiecki-geoff-dyer"
-    ]
-  ],
-  [
-    [
       "2022-12-12, 14:30:38",
       "https://news.ycombinator.com/item?id=33954958"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2022-12-12, 14:13:45",
-      "https://news.ycombinator.com/item?id=33954778"
+      "2022-12-12, 07:18:19",
+      "https://news.ycombinator.com/item?id=33951866"
     ],
     [
-      "Ask HN: What's your proudest hack?",
-      "https://news.ycombinator.com/item?id=33954778"
+      "My IDE is too heavy so I moved to Emacs",
+      "https://renato.athaydes.com/posts/switching-from-heavyweight-ides-to-emacs.html"
     ]
   ],
   [
