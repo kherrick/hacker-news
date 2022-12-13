@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-13, 16:07:03",
+      "https://news.ycombinator.com/item?id=33970717"
+    ],
+    [
+      "New Zealand passes legislation banning cigarettes for future generations",
+      "https://www.bbc.com/news/world-asia-63954862"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 15:56:04",
+      "https://news.ycombinator.com/item?id=33970547"
+    ],
+    [
+      "Pony Programming Language",
+      "https://github.com/ponylang/ponyc"
+    ]
+  ],
+  [
+    [
       "2022-12-13, 15:36:09",
       "https://news.ycombinator.com/item?id=33970201"
     ],
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2022-12-13, 13:35:06",
+      "https://news.ycombinator.com/item?id=33968594"
+    ],
+    [
+      "US annual inflation declines to 7.1% in November vs. 7.3% expected",
+      "https://www.bls.gov/news.release/archives/cpi_12132022.htm"
+    ]
+  ],
+  [
+    [
       "2022-12-13, 13:11:01",
       "https://news.ycombinator.com/item?id=33968357"
     ],
@@ -117,36 +147,6 @@
     [
       "Yerba Mate – A Long but Current History (2021)",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622869/"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 11:09:32",
-      "https://news.ycombinator.com/item?id=33967257"
-    ],
-    [
-      "Upcoming Bugzilla releases and more fun stuff",
-      "https://www.bugzilla.org/blog/2022/12/13/upcoming-releases-and-more-fun-stuff/"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 10:31:54",
-      "https://news.ycombinator.com/item?id=33966930"
-    ],
-    [
-      "How are you doing?",
-      "https://pudding.cool/2022/12/emotion-wheel/"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 09:39:50",
-      "https://news.ycombinator.com/item?id=33966585"
-    ],
-    [
-      "The death of Rackspace’s ‘fanatical support’",
-      "https://sanantonioreport.org/the-death-of-rackspaces-fanatical-support/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-12-13, 02:29:06",
-      "https://news.ycombinator.com/item?id=33963918"
-    ],
-    [
-      "Picol, a Tcl interpreter in 550 lines of C code",
-      "http://oldblog.antirez.com/page/picol.html"
-    ]
-  ],
-  [
-    [
       "2022-12-13, 01:29:54",
       "https://news.ycombinator.com/item?id=33963383"
     ],
@@ -267,6 +257,16 @@
     [
       "Pi number calculator in 146 bytes of 8088 machine code",
       "https://github.com/nanochess/pi"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 02:53:57",
+      "https://news.ycombinator.com/item?id=33950319"
+    ],
+    [
+      "The Linguistics of Swearing Explain Why We Substitute Darn for Damn",
+      "https://www.scientificamerican.com/article/the-linguistics-of-swearing-explain-why-we-substitute-darn-for-damn/"
     ]
   ],
   [
