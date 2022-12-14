@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-12-14, 07:40:23",
+      "https://news.ycombinator.com/item?id=33981015"
+    ],
+    [
+      "Chinese company that stole IP from ASML raises $140M",
+      "https://bits-chips.nl/artikel/chinese-company-that-stole-ip-from-asml-raises-140m/"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 07:08:46",
       "https://news.ycombinator.com/item?id=33980862"
     ],
     [
       "Fungible sold to Microsoft for $190M, say multiple sources",
       "https://blocksandfiles.com/2022/12/13/fungible-sold-to-microsoft-for-190-million/"
+    ]
+  ],
+  [
+    [
+      "2022-12-14, 03:21:38",
+      "https://news.ycombinator.com/item?id=33979637"
+    ],
+    [
+      "Rust: State of GUI, December 2022 – KAS blog",
+      "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-12-13, 16:47:16",
-      "https://news.ycombinator.com/item?id=33971432"
-    ],
-    [
-      "Tips for analyzing logs",
-      "https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/"
-    ]
-  ],
-  [
-    [
       "2022-12-13, 16:44:40",
       "https://news.ycombinator.com/item?id=33971377"
     ],
@@ -217,16 +227,6 @@
     [
       "What we can learn from vintage computing",
       "https://github.com/readme/featured/vintage-computing"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 14:44:56",
-      "https://news.ycombinator.com/item?id=33969490"
-    ],
-    [
-      "LosslessCut: lossless video/audio editing",
-      "https://mifi.no/losslesscut/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2022-12-12, 07:30:18",
-      "https://news.ycombinator.com/item?id=33951939"
-    ],
-    [
-      "How much decentralisation is too much?",
-      "https://shkspr.mobi/blog/2022/12/how-much-decentralisation-is-too-much/"
-    ]
-  ],
-  [
-    [
       "2022-12-11, 23:42:07",
       "https://news.ycombinator.com/item?id=33948915"
     ],
     [
       "The maddening mess of airport codes [video]",
       "https://www.youtube.com/watch?v=jfOUVYQnuhw"
+    ]
+  ],
+  [
+    [
+      "2022-12-11, 22:07:11",
+      "https://news.ycombinator.com/item?id=33948084"
+    ],
+    [
+      "Algebraic Effects – You Can Touch This (2019)",
+      "http://jacek.zlydach.pl/blog/2019-07-24-algebraic-effects-you-can-touch-this.html"
     ]
   ],
   [
