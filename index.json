@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-12-14, 07:07:49",
+      "https://news.ycombinator.com/item?id=33980854"
+    ],
+    [
+      "Fputc semantics for conforming C implementations",
+      "https://thephd.dev/conformance-should-mean-something-fputc-and-freestanding"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 03:21:38",
       "https://news.ycombinator.com/item?id=33979637"
     ],
@@ -277,16 +287,6 @@
     [
       "Algebraic Effects – You Can Touch This (2019)",
       "http://jacek.zlydach.pl/blog/2019-07-24-algebraic-effects-you-can-touch-this.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 21:25:34",
-      "https://news.ycombinator.com/item?id=33947713"
-    ],
-    [
-      "We iterate so that you can recurse",
-      "https://wingolog.org/archives/2022/12/11/we-iterate-so-that-you-can-recurse"
     ]
   ],
   [
