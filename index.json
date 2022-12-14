@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-14, 07:40:23",
-      "https://news.ycombinator.com/item?id=33981015"
-    ],
-    [
-      "Chinese company that stole IP from ASML raises $140M",
-      "https://bits-chips.nl/artikel/chinese-company-that-stole-ip-from-asml-raises-140m/"
-    ]
-  ],
-  [
-    [
       "2022-12-14, 07:08:46",
       "https://news.ycombinator.com/item?id=33980862"
     ],
@@ -287,6 +277,16 @@
     [
       "Algebraic Effects – You Can Touch This (2019)",
       "http://jacek.zlydach.pl/blog/2019-07-24-algebraic-effects-you-can-touch-this.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-11, 21:25:34",
+      "https://news.ycombinator.com/item?id=33947713"
+    ],
+    [
+      "We iterate so that you can recurse",
+      "https://wingolog.org/archives/2022/12/11/we-iterate-so-that-you-can-recurse"
     ]
   ],
   [
