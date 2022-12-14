@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=33987118"
     ],
     [
-      "Waymo's Collision Avoidance Testing",
+      "Waymo's collision avoidance testing",
       "https://blog.waymo.com/2022/12/waymos-collision-avoidance-testing.html"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33986430"
     ],
     [
-      "Tailscale Talent Lock",
+      "Tailnet Lock",
       "https://tailscale.com/blog/tailnet-lock/"
     ]
   ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-12-13, 16:44:40",
-      "https://news.ycombinator.com/item?id=33971377"
-    ],
-    [
-      "US Department of Energy: Fusion Ignition Achieved",
-      "https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition"
-    ]
-  ],
-  [
-    [
       "2022-12-13, 13:58:57",
       "https://news.ycombinator.com/item?id=33968888"
     ],
@@ -297,6 +287,16 @@
     [
       "Observable Plot 0.6.1",
       "https://github.com/observablehq/plot/blob/main/CHANGELOG.md"
+    ]
+  ],
+  [
+    [
+      "2022-12-11, 16:13:10",
+      "https://news.ycombinator.com/item?id=33944412"
+    ],
+    [
+      "The Sega ST-V's MIDI Out: A Quick Examination and Failed Experiments",
+      "https://nicole.express/2022/midi-on-the-saturn-or-not.html"
     ]
   ]
 ]
