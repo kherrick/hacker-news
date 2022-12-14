@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-14, 22:25:52",
-      "https://news.ycombinator.com/item?id=33991546"
-    ],
-    [
-      "Twitter's rules and policies now forbid live location information sharing",
-      "https://web.archive.org/web/diff/20221213101556/20221214221401/https://help.twitter.com/en/rules-and-policies/personal-information"
-    ]
-  ],
-  [
-    [
       "2022-12-14, 21:57:10",
       "https://news.ycombinator.com/item?id=33991186"
     ],
@@ -197,6 +187,16 @@
     [
       "Tesla FSD data is getting worse, according to beta tester self-reports",
       "https://electrek.co/2022/12/14/tesla-full-self-driving-data-awful-challenge-elon-musk-prove-otherwise/"
+    ]
+  ],
+  [
+    [
+      "2022-12-14, 14:42:04",
+      "https://news.ycombinator.com/item?id=33984072"
+    ],
+    [
+      "Building Go programs with Nix flakes",
+      "https://xeiaso.net/blog/nix-flakes-go-programs"
     ]
   ],
   [
