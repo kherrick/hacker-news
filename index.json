@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-12-14, 20:29:14",
+      "https://news.ycombinator.com/item?id=33990006"
+    ],
+    [
+      "Solar furnace to melt steel at 2000°C for Swiss recycler",
+      "https://www.solarpaces.org/solar-furnace-to-melt-steel-at-2000c-for-swiss-recycler-panatere/"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 20:01:43",
       "https://news.ycombinator.com/item?id=33989432"
     ],
     [
-      "Six Charged in Mass Takedown of DDoS-for-Hire Sites",
+      "Six charged in mass takedown of DDoS-for-hire sites",
       "https://krebsonsecurity.com/2022/12/six-charged-in-mass-takedown-of-ddos-for-hire-sites/"
     ]
   ],
@@ -17,16 +27,6 @@
     [
       "The Metals Company subsidiary lifts over 3000T of nodules to sea surface",
       "https://investors.metals.co/news-releases/news-release-details/nori-and-allseas-lift-over-3000-tonnes-polymetallic-nodules/"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 19:02:45",
-      "https://news.ycombinator.com/item?id=33988345"
-    ],
-    [
-      "Federal Reserve to increase interest rates by 50 basis points",
-      "https://www.federalreserve.gov/newsevents/pressreleases/monetary20221214a.htm"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2022-12-14, 16:10:49",
+      "https://news.ycombinator.com/item?id=33985550"
+    ],
+    [
+      "Show HN: Software for Remote GPU-over-IP",
+      "https://github.com/Juice-Labs/Juice-Labs/wiki"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 15:51:27",
       "https://news.ycombinator.com/item?id=33985204"
     ],
@@ -161,32 +171,22 @@
   ],
   [
     [
-      "2022-12-14, 14:53:02",
-      "https://news.ycombinator.com/item?id=33984213"
-    ],
-    [
-      "Facebook owner Meta sued for inciting hatred in Ethiopia",
-      "https://www.dw.com/en/facebook-owner-meta-sued-for-inciting-hatred-in-ethiopia/a-64085804"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 14:44:58",
-      "https://news.ycombinator.com/item?id=33984104"
-    ],
-    [
-      "Supabase introduces MFA support",
-      "https://supabase.com/blog/mfa-auth-via-rls"
-    ]
-  ],
-  [
-    [
       "2022-12-14, 14:42:04",
       "https://news.ycombinator.com/item?id=33984072"
     ],
     [
       "Building Go Programs with Nix Flakes",
       "https://xeiaso.net/blog/nix-flakes-go-programs"
+    ]
+  ],
+  [
+    [
+      "2022-12-14, 14:26:15",
+      "https://news.ycombinator.com/item?id=33983878"
+    ],
+    [
+      "ElonJet Is Now Suspended",
+      "https://twitter.com/jxcksweeney/status/1603028610209779712"
     ]
   ],
   [
@@ -211,11 +211,21 @@
   ],
   [
     [
+      "2022-12-14, 12:40:24",
+      "https://news.ycombinator.com/item?id=33982683"
+    ],
+    [
+      "Ways to get around ChatGPT's safeguards",
+      "https://twitter.com/davisblalock/status/1602600453555961856"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 11:56:42",
       "https://news.ycombinator.com/item?id=33982347"
     ],
     [
-      "Rewriting TypeScript in Rust? You'D have to be",
+      "Rewriting TypeScript in Rust?",
       "https://www.totaltypescript.com/rewriting-typescript-in-rust"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Mmtk: Memory Management Toolkit",
       "https://www.mmtk.io/"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 07:28:02",
-      "https://news.ycombinator.com/item?id=33980946"
-    ],
-    [
-      "SBF Written Testimony Notes 12/12/2022",
-      "https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rbgv1U_v6edA/v0"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=33953319"
     ],
     [
-      "Recovering Components of Disposable Cameras (2017)",
+      "Recovering components of disposable cameras (2017)",
       "http://www.increa.com/reverse/dc/index.htm"
     ]
   ]
