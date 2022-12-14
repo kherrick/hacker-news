@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-14, 17:15:27",
+      "https://news.ycombinator.com/item?id=33986555"
+    ],
+    [
+      "SvelteKit 1.0",
+      "https://svelte.dev/blog/announcing-sveltekit-1.0"
+    ]
+  ],
+  [
+    [
+      "2022-12-14, 17:07:07",
+      "https://news.ycombinator.com/item?id=33986430"
+    ],
+    [
+      "Tailscale Talent Lock",
+      "https://tailscale.com/blog/tailnet-lock/"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 17:05:40",
       "https://news.ycombinator.com/item?id=33986406"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-12-14, 12:32:19",
-      "https://news.ycombinator.com/item?id=33982619"
-    ],
-    [
-      "Pluralistic: Web apps could de-monopolize mobile devices (13 Dec 2022)",
-      "https://pluralistic.net/2022/12/13/kitbashed/#app-store-tax"
-    ]
-  ],
-  [
-    [
       "2022-12-14, 11:56:42",
       "https://news.ycombinator.com/item?id=33982347"
     ],
@@ -177,16 +187,6 @@
     [
       "Mmtk: Memory Management Toolkit",
       "https://www.mmtk.io/"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 09:59:39",
-      "https://news.ycombinator.com/item?id=33981728"
-    ],
-    [
-      "Rust front-end merged in GCC trunk",
-      "https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html"
     ]
   ],
   [
