@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-12-14, 09:59:39",
+      "https://news.ycombinator.com/item?id=33981728"
+    ],
+    [
+      "Rust front-end merged in GCC trunk",
+      "https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 07:08:46",
       "https://news.ycombinator.com/item?id=33980862"
     ],
     [
       "Fungible sold to Microsoft for $190M, say multiple sources",
       "https://blocksandfiles.com/2022/12/13/fungible-sold-to-microsoft-for-190-million/"
+    ]
+  ],
+  [
+    [
+      "2022-12-14, 07:07:49",
+      "https://news.ycombinator.com/item?id=33980854"
+    ],
+    [
+      "Fputc semantics for conforming C implementations",
+      "https://thephd.dev/conformance-should-mean-something-fputc-and-freestanding"
     ]
   ],
   [
@@ -157,26 +177,6 @@
     [
       "Balloon framing is worse-is-better (2021)",
       "https://constructionphysics.substack.com/p/balloon-framing-is-worse-is-better"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 18:54:22",
-      "https://news.ycombinator.com/item?id=33973888"
-    ],
-    [
-      "SQLite-loadable-rs: A framework for building SQLite Extensions in Rust",
-      "https://observablehq.com/@asg017/introducing-sqlite-loadable-rs"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 18:03:03",
-      "https://news.ycombinator.com/item?id=33972984"
-    ],
-    [
-      "Data2vec 2.0: Highly efficient self-supervised learning for vision, speech, text",
-      "https://ai.facebook.com/blog/ai-self-supervised-learning-data2vec/"
     ]
   ],
   [
