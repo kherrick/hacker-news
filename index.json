@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-14, 00:59:26",
+      "https://news.ycombinator.com/item?id=33978608"
+    ],
+    [
+      "OKRs Are Hard",
+      "https://skamille.medium.com/okrs-are-hard-b4a6a8491af0"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 23:03:29",
+      "https://news.ycombinator.com/item?id=33977504"
+    ],
+    [
+      "A native internet protocol for social media",
+      "https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112"
+    ]
+  ],
+  [
+    [
       "2022-12-13, 21:45:56",
       "https://news.ycombinator.com/item?id=33976355"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2022-12-13, 20:29:18",
-      "https://news.ycombinator.com/item?id=33975273"
-    ],
-    [
-      "Al Seckel on Richard Feynman (2001)",
-      "http://www.fotuva.org/online/frameload.htm?/online/seckel.htm"
-    ]
-  ],
-  [
-    [
       "2022-12-13, 20:15:32",
       "https://news.ycombinator.com/item?id=33975082"
     ],
@@ -97,26 +107,6 @@
     [
       "Balloon framing is worse-is-better (2021)",
       "https://constructionphysics.substack.com/p/balloon-framing-is-worse-is-better"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 19:19:14",
-      "https://news.ycombinator.com/item?id=33974265"
-    ],
-    [
-      "Apple to allow outside app stores in overhaul spurred by EU laws",
-      "https://www.bloomberg.com/news/articles/2022-12-13/will-apple-allow-users-to-install-third-party-app-stores-sideload-in-europe"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 19:11:56",
-      "https://news.ycombinator.com/item?id=33974161"
-    ],
-    [
-      "Hydra – the fastest Postgres for analytics [benchmarks]",
-      "https://hydras.io/blog/2022-12-13-how-we-built-fastest-postgres-db-for-analytics"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2022-12-12, 14:38:58",
-      "https://news.ycombinator.com/item?id=33955053"
+      "2022-12-12, 15:25:56",
+      "https://news.ycombinator.com/item?id=33955611"
     ],
     [
-      "The Pirahã are off by one (2020)",
-      "https://byrnehobart.medium.com/the-pirah%C3%A3-are-off-by-one-9c77eb66a6d9"
+      "Fail-Slow at Scale: Evidence of Performance Faults in Large Production Systems",
+      "https://dl.acm.org/doi/10.1145/3242086"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "How much decentralisation is too much?",
       "https://shkspr.mobi/blog/2022/12/how-much-decentralisation-is-too-much/"
+    ]
+  ],
+  [
+    [
+      "2022-12-11, 21:58:07",
+      "https://news.ycombinator.com/item?id=33948008"
+    ],
+    [
+      "Jaxga: Geometric Algebra Library for Jax",
+      "https://github.com/RobinKa/jaxga"
     ]
   ],
   [
