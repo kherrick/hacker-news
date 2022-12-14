@@ -41,6 +41,26 @@
   ],
   [
     [
+      "2022-12-14, 16:55:44",
+      "https://news.ycombinator.com/item?id=33986276"
+    ],
+    [
+      "Open-Source is the way out of a tech downturn",
+      "https://www.plural.sh/blog/open-source-is-the-way-out-of-a-tech-downturn/"
+    ]
+  ],
+  [
+    [
+      "2022-12-14, 16:02:38",
+      "https://news.ycombinator.com/item?id=33985413"
+    ],
+    [
+      "Tesla Market Cap falls below $500B",
+      "https://companiesmarketcap.com/tesla/marketcap/"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 15:51:27",
       "https://news.ycombinator.com/item?id=33985204"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-12-14, 07:07:49",
-      "https://news.ycombinator.com/item?id=33980854"
-    ],
-    [
-      "Fputc semantics for conforming C implementations",
-      "https://thephd.dev/conformance-should-mean-something-fputc-and-freestanding"
-    ]
-  ],
-  [
-    [
       "2022-12-14, 03:21:38",
       "https://news.ycombinator.com/item?id=33979637"
     ],
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2022-12-14, 02:42:09",
-      "https://news.ycombinator.com/item?id=33979379"
-    ],
-    [
-      "uBlock Origin Core",
-      "https://www.npmjs.com/package/@gorhill/ubo-core"
-    ]
-  ],
-  [
-    [
       "2022-12-14, 01:44:00",
       "https://news.ycombinator.com/item?id=33978978"
     ],
     [
       "Recursive Game of Life",
       "https://oimo.io/works/life/"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 01:11:28",
-      "https://news.ycombinator.com/item?id=33978703"
-    ],
-    [
-      "8″ Fairlight Floppy Disk Imaging",
-      "https://synthroom.com/fairlight-cmi/fairlight-disk-imaging/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "A trip through the Graphics Pipeline",
       "https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 08:04:48",
+      "https://news.ycombinator.com/item?id=33966057"
+    ],
+    [
+      "Observable Plot 0.6.1",
+      "https://github.com/observablehq/plot/blob/main/CHANGELOG.md"
     ]
   ],
   [
