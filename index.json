@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-12-14, 21:22:52",
-      "https://news.ycombinator.com/item?id=33990792"
+      "2022-12-14, 21:42:28",
+      "https://news.ycombinator.com/item?id=33991007"
     ],
     [
-      "Intermittent fasting may negate need for diabetes drugs, small study suggests",
-      "https://www.upi.com/Health_News/2022/12/14/diabetes-intermittent-fasting-study/5411671028271/"
+      "A circuit simulator that doesn't look like it was made in 2003",
+      "https://www.withdiode.com/projects/62716731-5e1e-4622-86af-90d8e6b5123b"
     ]
   ],
   [
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=33990612"
     ],
     [
-      "Turn the Radio Volume Down for Adverts and DJs Talking",
+      "Turn the radio volume down for adverts and DJs talking",
       "https://matthewfelgate.wordpress.com/2022/12/14/turn-the-radio-volume-down-for-adverts-and-djs-talking/"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=33990567"
     ],
     [
-      "How Does GPT Obtain Its Ability? Tracing Emergent Abilities of Language Models",
+      "How does GPT obtain its ability? Tracing emergent abilities of language models",
       "https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1"
     ]
   ],
@@ -55,8 +55,18 @@
       "https://news.ycombinator.com/item?id=33990408"
     ],
     [
-      "IEDM 2022: Did We Just Witness the Death of SRAM?",
+      "The Death of SRAM?",
       "https://fuse.wikichip.org/news/7343/iedm-2022-did-we-just-witness-the-death-of-sram/"
+    ]
+  ],
+  [
+    [
+      "2022-12-14, 20:31:21",
+      "https://news.ycombinator.com/item?id=33990049"
+    ],
+    [
+      "You can hook your MIDI keyboard up to a website with Firefox 108",
+      "https://www.theregister.com/2022/12/14/firefox_108/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Observable Plot 0.6.1",
       "https://github.com/observablehq/plot/blob/main/CHANGELOG.md"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 10:57:21",
-      "https://news.ycombinator.com/item?id=33953319"
-    ],
-    [
-      "Recovering components of disposable cameras (2017)",
-      "http://www.increa.com/reverse/dc/index.htm"
     ]
   ]
 ]
