@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-14, 14:26:15",
+      "https://news.ycombinator.com/item?id=33983878"
+    ],
+    [
+      "ElonJet Is Now Suspended",
+      "https://twitter.com/jxcksweeney/status/1603028610209779712"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 14:17:26",
       "https://news.ycombinator.com/item?id=33983748"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2022-12-14, 11:56:42",
+      "https://news.ycombinator.com/item?id=33982347"
+    ],
+    [
+      "Rewriting TypeScript in Rust? You'D have to be",
+      "https://www.totaltypescript.com/rewriting-typescript-in-rust"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 10:31:18",
       "https://news.ycombinator.com/item?id=33981873"
     ],
@@ -77,6 +97,16 @@
     [
       "Rust front-end merged in GCC trunk",
       "https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-14, 09:52:37",
+      "https://news.ycombinator.com/item?id=33981691"
+    ],
+    [
+      "ElonJet – Account Suspended",
+      "https://twitter.com/elonjet"
     ]
   ],
   [
@@ -161,36 +191,6 @@
   ],
   [
     [
-      "2022-12-13, 23:03:29",
-      "https://news.ycombinator.com/item?id=33977504"
-    ],
-    [
-      "A native internet protocol for social media",
-      "https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 21:45:56",
-      "https://news.ycombinator.com/item?id=33976355"
-    ],
-    [
-      "Reddit's photo albums broke due to Integer overflow of Signed Int32",
-      "https://old.reddit.com/r/shittychangelog/comments/zl5gaz/here_at_reddit_we_believe_everything_is_better_in/"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 21:32:57",
-      "https://news.ycombinator.com/item?id=33976166"
-    ],
-    [
-      "After 20 years the Dwarf Fortress devs have to get used to being millionaires",
-      "https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires/"
-    ]
-  ],
-  [
-    [
       "2022-12-13, 21:16:57",
       "https://news.ycombinator.com/item?id=33975926"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2022-12-13, 14:44:56",
-      "https://news.ycombinator.com/item?id=33969490"
-    ],
-    [
-      "LosslessCut: lossless video/audio editing",
-      "https://mifi.no/losslesscut/"
-    ]
-  ],
-  [
-    [
       "2022-12-13, 13:58:57",
       "https://news.ycombinator.com/item?id=33968888"
     ],
     [
       "A trip through the Graphics Pipeline",
       "https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 22:19:58",
+      "https://news.ycombinator.com/item?id=33961251"
+    ],
+    [
+      "Where did software go wrong? (2020)",
+      "https://blog.jse.li/posts/software/"
     ]
   ],
   [
