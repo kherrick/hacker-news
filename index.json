@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-14, 18:25:38",
+      "https://news.ycombinator.com/item?id=33987578"
+    ],
+    [
+      "Htmx",
+      "https://htmx.org/docs/"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 18:14:16",
       "https://news.ycombinator.com/item?id=33987376"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=33986741"
     ],
     [
-      "My Bike Was Stolen",
+      "My bike was stolen (2017)",
       "https://schollz.com/blog/bike/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=33986406"
     ],
     [
-      "Apple Considering Dropping Requirement for iPhone Web Browsers to Use WebKit",
+      "Apple considering dropping requirement for iPhone web browsers to use WebKit",
       "https://www.macrumors.com/2022/12/14/apple-considering-non-webkit-iphone-browsers/"
     ]
   ],
@@ -75,18 +85,18 @@
       "https://news.ycombinator.com/item?id=33986276"
     ],
     [
-      "Open-Source is the way out of a tech downturn",
+      "Open source is the way out of a tech downturn",
       "https://www.plural.sh/blog/open-source-is-the-way-out-of-a-tech-downturn/"
     ]
   ],
   [
     [
-      "2022-12-14, 16:02:38",
-      "https://news.ycombinator.com/item?id=33985413"
+      "2022-12-14, 16:22:37",
+      "https://news.ycombinator.com/item?id=33985739"
     ],
     [
-      "Tesla Market Cap falls below $500B",
-      "https://companiesmarketcap.com/tesla/marketcap/"
+      "Mobile Store Owner Sentenced to 10 Years for Scheme to Illegally Unlock Phones",
+      "https://www.justice.gov/usao-cdca/pr/former-mobile-phone-store-owner-sentenced-10-years-federal-prison-multimillion-dollar"
     ]
   ],
   [
@@ -171,26 +181,6 @@
   ],
   [
     [
-      "2022-12-14, 14:17:26",
-      "https://news.ycombinator.com/item?id=33983748"
-    ],
-    [
-      "Jumpstarting new careers in open source",
-      "https://accelerator.github.com/"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 14:13:51",
-      "https://news.ycombinator.com/item?id=33983703"
-    ],
-    [
-      "SEC Charges Eight Social Media Influencers in $100M Stock Manipulation Scheme",
-      "https://www.sec.gov/news/press-release/2022-221"
-    ]
-  ],
-  [
-    [
       "2022-12-14, 13:58:40",
       "https://news.ycombinator.com/item?id=33983512"
     ],
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=33982912"
     ],
     [
-      "The secret lives of MI6’s top female spies",
+      "Female spies of MI6",
       "https://www.ft.com/content/741772c0-ee76-4d3d-bfcd-4fabc1fb405d"
     ]
   ],
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2022-12-14, 03:21:38",
-      "https://news.ycombinator.com/item?id=33979637"
-    ],
-    [
-      "Rust: State of GUI, December 2022",
-      "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
-    ]
-  ],
-  [
-    [
       "2022-12-14, 01:44:00",
       "https://news.ycombinator.com/item?id=33978978"
     ],
@@ -297,6 +277,26 @@
     [
       "Observable Plot 0.6.1",
       "https://github.com/observablehq/plot/blob/main/CHANGELOG.md"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 10:57:21",
+      "https://news.ycombinator.com/item?id=33953319"
+    ],
+    [
+      "Recovering Components of Disposable Cameras (2017)",
+      "http://www.increa.com/reverse/dc/index.htm"
+    ]
+  ],
+  [
+    [
+      "2022-12-11, 16:13:10",
+      "https://news.ycombinator.com/item?id=33944412"
+    ],
+    [
+      "The Sega ST-V's MIDI Out: A Quick Examination and Failed Experiments",
+      "https://nicole.express/2022/midi-on-the-saturn-or-not.html"
     ]
   ]
 ]
