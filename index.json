@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-12-14, 00:59:26",
-      "https://news.ycombinator.com/item?id=33978608"
+      "2022-12-14, 01:20:12",
+      "https://news.ycombinator.com/item?id=33978767"
     ],
     [
-      "OKRs Are Hard",
-      "https://skamille.medium.com/okrs-are-hard-b4a6a8491af0"
+      "Tailscale/golink: A private shortlink service for tailnets",
+      "https://github.com/tailscale/golink"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "After 20 years the Dwarf Fortress devs have to get used to being millionaires",
       "https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires/"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 21:27:19",
-      "https://news.ycombinator.com/item?id=33976090"
-    ],
-    [
-      "No, Google did not hike the price of a .dev domain from $12 to $850",
-      "https://www.agwa.name/blog/post/domain_pricing_is_very_confusing"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=33955611"
     ],
     [
-      "Fail-Slow at Scale: Evidence of Performance Faults in Large Production Systems",
+      "Fail-slow at scale: Evidence of performance faults in large systems (2018)",
       "https://dl.acm.org/doi/10.1145/3242086"
     ]
   ],
@@ -281,11 +271,21 @@
   ],
   [
     [
+      "2022-12-11, 23:42:07",
+      "https://news.ycombinator.com/item?id=33948915"
+    ],
+    [
+      "The maddening mess of airport codes [video]",
+      "https://www.youtube.com/watch?v=jfOUVYQnuhw"
+    ]
+  ],
+  [
+    [
       "2022-12-11, 21:58:07",
       "https://news.ycombinator.com/item?id=33948008"
     ],
     [
-      "Jaxga: Geometric Algebra Library for Jax",
+      "Jaxga: Geometric algebra library for Jax",
       "https://github.com/RobinKa/jaxga"
     ]
   ],
