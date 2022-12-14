@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-12-14, 13:05:57",
-      "https://news.ycombinator.com/item?id=33982910"
+      "2022-12-14, 13:03:54",
+      "https://news.ycombinator.com/item?id=33982883"
     ],
     [
-      "ChatGPT: Can't calculate even basic math. Is it getting dumber?",
-      "https://news.ycombinator.com/item?id=33982910"
+      "Helsinki hospitals severely overcrowded, emergency rooms full to capacity",
+      "https://yle.fi/a/74-20008564"
     ]
   ],
   [
@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2022-12-14, 07:28:02",
+      "https://news.ycombinator.com/item?id=33980946"
+    ],
+    [
+      "SBF Written Testimony Notes 12/12/2022",
+      "https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rbgv1U_v6edA/v0"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 07:07:49",
       "https://news.ycombinator.com/item?id=33980854"
     ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=33979637"
     ],
     [
-      "Rust: State of GUI, December 2022 – KAS blog",
+      "Rust: State of GUI, December 2022",
       "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=33979379"
     ],
     [
-      "@gorhill/ubo-core – npm",
+      "uBlock Origin Core",
       "https://www.npmjs.com/package/@gorhill/ubo-core"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "What we can learn from vintage computing",
       "https://github.com/readme/featured/vintage-computing"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 14:44:56",
-      "https://news.ycombinator.com/item?id=33969490"
-    ],
-    [
-      "LosslessCut: lossless video/audio editing",
-      "https://mifi.no/losslesscut/"
     ]
   ],
   [
