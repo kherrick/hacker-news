@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=34001347"
     ],
     [
-      "NIST Retires SHA-1 Cryptographic Algorithm",
+      "NIST is announcing that SHA-1 should be phased out by Dec. 31, 2030",
       "https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm"
     ]
   ],
@@ -117,6 +117,16 @@
     [
       "22 Discoveries of 2022",
       "https://www.nationalgeographic.com/science/article/most-amazing-discoveries-2022"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 14:38:52",
+      "https://news.ycombinator.com/item?id=34000131"
+    ],
+    [
+      "Autopsy-based characterization of myocarditis after anti-SARS-CoV-2-vaccination",
+      "https://link.springer.com/article/10.1007/s00392-022-02129-5"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Wendy Carlos: The brilliant but lonely life of an electronic music pioneer",
       "https://english.elpais.com/culture/2022-12-12/wendy-carlos-the-brilliant-but-lonely-life-of-an-electronic-music-pioneer.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 10:07:38",
-      "https://news.ycombinator.com/item?id=33966755"
-    ],
-    [
-      "Actually Portable Perl",
-      "https://computoid.com/APPerl/"
     ]
   ]
 ]
