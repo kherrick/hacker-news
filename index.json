@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-15, 13:42:50",
+      "https://news.ycombinator.com/item?id=33999340"
+    ],
+    [
+      "Wetland emission and atmospheric sink changes explain methane growth in 2020",
+      "https://www.nature.com/articles/s41586-022-05447-w"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 13:37:47",
       "https://news.ycombinator.com/item?id=33999296"
     ],
@@ -37,16 +47,6 @@
     [
       "Meta, Microsoft, AWS and TomTom launch Overture Foundation for open map data",
       "https://techcrunch.com/2022/12/15/meta-microsoft-aws-and-tomtom-launch-the-overture-maps-foundation-to-develop-interoperable-open-map-data/"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 12:11:20",
-      "https://news.ycombinator.com/item?id=33998311"
-    ],
-    [
-      "Medium bans user for Chrome extension that opened articles in incognito mode",
-      "https://twitter.com/henrylim96/status/1603281698287935488"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2022-12-15, 11:29:33",
+      "https://news.ycombinator.com/item?id=33997953"
+    ],
+    [
+      "The rise and fall of peer review",
+      "https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 10:47:27",
       "https://news.ycombinator.com/item?id=33997645"
     ],
@@ -117,6 +127,16 @@
     [
       "Python 3.11 Delivers",
       "https://twitter.com/pypi/status/1603089763287826432"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 08:59:06",
+      "https://news.ycombinator.com/item?id=33996931"
+    ],
+    [
+      "Istanbul mayor jailed for 'insulting' officials ahead of 2023 election",
+      "https://www.euronews.com/2022/12/14/istanbul-mayor-jailed-for-insulting-officials-ahead-of-2023-election"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-12-13, 13:33:13",
-      "https://news.ycombinator.com/item?id=33968572"
-    ],
-    [
-      "Potato Programming",
-      "https://blog.glyph.im/2022/12/potato-programming.html"
-    ]
-  ],
-  [
-    [
       "2022-12-13, 10:07:38",
       "https://news.ycombinator.com/item?id=33966755"
     ],
     [
       "Actually Portable Perl",
       "https://computoid.com/APPerl/"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 06:55:49",
-      "https://news.ycombinator.com/item?id=33965677"
-    ],
-    [
-      "Lesser-known JavaScript APIs",
-      "https://www.smashingmagazine.com/2022/09/javascript-api-guide/"
     ]
   ]
 ]
