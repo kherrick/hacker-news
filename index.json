@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-15, 14:17:47",
+      "https://news.ycombinator.com/item?id=33999812"
+    ],
+    [
+      "XFCE 4.18 Released",
+      "https://alexxcons.github.io/blogpost_8.html"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 14:00:53",
       "https://news.ycombinator.com/item?id=33999572"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2022-12-15, 13:37:47",
-      "https://news.ycombinator.com/item?id=33999296"
-    ],
-    [
-      "Ask HN: How might HN build a social network together?",
-      "https://news.ycombinator.com/item?id=33999296"
-    ]
-  ],
-  [
-    [
       "2022-12-15, 13:32:16",
       "https://news.ycombinator.com/item?id=33999229"
     ],
@@ -47,6 +47,16 @@
     [
       "Maintain a clean architecture in Python with dependency rules",
       "https://sourcery.ai/blog/dependency-rules/"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 13:26:04",
+      "https://news.ycombinator.com/item?id=33999162"
+    ],
+    [
+      "Riffusion – Stable Diffusion fine-tuned to generate Music",
+      "https://www.riffusion.com/about"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Epic is turning off online services and servers for some older games",
       "https://www.epicgames.com/site/en-US/news/epic-is-turning-off-online-services-and-servers-for-some-older-games"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 09:20:21",
-      "https://news.ycombinator.com/item?id=33997074"
-    ],
-    [
-      "MIPS announces its first RISC-V chip designs are now available for licensing",
-      "https://liliputing.com/mips-announces-its-first-risc-v-chip-designs-are-now-available-for-licensing/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-12-14, 23:29:41",
-      "https://news.ycombinator.com/item?id=33992412"
-    ],
-    [
-      "Twitter has re-suspended ElonJet account",
-      "https://twitter.com/elonjet/"
-    ]
-  ],
-  [
-    [
       "2022-12-14, 21:42:28",
       "https://news.ycombinator.com/item?id=33991007"
     ],
@@ -297,6 +287,16 @@
     [
       "Actually Portable Perl",
       "https://computoid.com/APPerl/"
+    ]
+  ],
+  [
+    [
+      "2022-12-13, 06:07:26",
+      "https://news.ycombinator.com/item?id=33965400"
+    ],
+    [
+      "The Rise and Fall of the General Electric Coporation Computer Department (1995) [pdf]",
+      "http://bitsavers.org/pdf/ge/history/Lee_-_The_Rise_and_Fall_of_the_General_Electric_Coporation_Computer_Department_1995.pdf"
     ]
   ]
 ]
