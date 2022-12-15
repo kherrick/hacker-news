@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=34001493"
     ],
     [
-      "Supabase Wrappers: A Framework for Building Postgres Foreign Data Wrappers",
+      "Supabase Wrappers: A framework for building Postgres foreign data wrappers",
       "https://supabase.com/blog/postgres-foreign-data-wrappers-rust"
     ]
   ],
@@ -137,16 +137,6 @@
     [
       "Deepmind’s alphacode conquers coding, performing as well as humans",
       "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 14:43:04",
-      "https://news.ycombinator.com/item?id=34000206"
-    ],
-    [
-      "22 Discoveries of 2022",
-      "https://www.nationalgeographic.com/science/article/most-amazing-discoveries-2022"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "The rise and fall of peer review",
       "https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 09:00:19",
+      "https://news.ycombinator.com/item?id=33996937"
+    ],
+    [
+      "What does copyright say about generative models?",
+      "https://www.oreilly.com/radar/what-does-copyright-say-about-generative-models/"
     ]
   ],
   [
