@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-15, 21:16:54",
+      "https://news.ycombinator.com/item?id=34005889"
+    ],
+    [
+      "Apollo Layoffs",
+      "https://www.apollographql.com/blog/announcement/ceo-geoff-schmidts-message-to-apollo-employees/"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 21:13:46",
+      "https://news.ycombinator.com/item?id=34005860"
+    ],
+    [
+      "Implementing a Toy Optimizer",
+      "https://www.pypy.org/posts/2022/07/toy-optimizer.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 21:07:30",
+      "https://news.ycombinator.com/item?id=34005791"
+    ],
+    [
+      "Finding JIT Optimizer Bugs Using SMT Solvers and Fuzzing – PyPy",
+      "https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 21:00:35",
       "https://news.ycombinator.com/item?id=34005702"
     ],
@@ -247,36 +277,6 @@
     [
       "What does copyright say about generative models?",
       "https://www.oreilly.com/radar/what-does-copyright-say-about-generative-models/"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 08:38:11",
-      "https://news.ycombinator.com/item?id=33996785"
-    ],
-    [
-      "The Gates of Argonath in VR at 50 FPS on Unreal Engine",
-      "https://old.reddit.com/r/unrealengine/comments/zlytkq/hi_guys_i_made_the_argonath_from_the_lord_of_the/"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 17:05:56",
-      "https://news.ycombinator.com/item?id=33986412"
-    ],
-    [
-      "Orange Micro's Grappler+",
-      "https://computeradsfromthepast.substack.com/p/orange-micros-grappler"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 13:21:46",
-      "https://news.ycombinator.com/item?id=33983088"
-    ],
-    [
-      "Project Butterly: restoring and preserving the IBM ThinkPad 701",
-      "https://www.701c.org"
     ]
   ],
   [
