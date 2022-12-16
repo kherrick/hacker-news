@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-16, 05:54:57",
+      "https://news.ycombinator.com/item?id=34010970"
+    ],
+    [
+      "Use a laptop as a 2nd display on Linux using FreeRDP",
+      "https://blog.jacobstoner.com/use-a-laptop-or-tablet-as-a-2nd-display-on-linux-with-a-dummy-monitor-and-rdp/"
+    ]
+  ],
+  [
+    [
       "2022-12-16, 04:12:16",
       "https://news.ycombinator.com/item?id=34010065"
     ],
@@ -25,8 +35,8 @@
       "https://news.ycombinator.com/item?id=34008383"
     ],
     [
-      "Twitter applies 7-day suspension to prominent journalists",
-      "https://twitter.com/elonmusk/status/1603593201683599360?s=46&t=9UpCrTmScsHkp0vCCATebw"
+      "Twitter applies 7-day suspension to half a dozen journalists",
+      "https://www.washingtonpost.com/media/2022/12/15/twitter-journalists-suspended-musk/"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2022-12-15, 19:35:34",
+      "https://news.ycombinator.com/item?id=34004494"
+    ],
+    [
+      "Sen. Wyden Requests Probe into Sale of DNS Query Data [pdf]",
+      "https://www.wyden.senate.gov/imo/media/doc/Signed%20Neustar%20letter%2012.15.22.pdf"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 18:13:06",
       "https://news.ycombinator.com/item?id=34003394"
     ],
@@ -231,26 +251,6 @@
   ],
   [
     [
-      "2022-12-15, 14:49:52",
-      "https://news.ycombinator.com/item?id=34000330"
-    ],
-    [
-      "Adding WebRTC support to OBS using Rust",
-      "https://github.com/obsproject/obs-studio/pull/7926"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 14:43:12",
-      "https://news.ycombinator.com/item?id=34000208"
-    ],
-    [
-      "Deepmind’s AlphaCode conquers coding, performing as well as humans",
-      "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/"
-    ]
-  ],
-  [
-    [
       "2022-12-15, 14:38:52",
       "https://news.ycombinator.com/item?id=34000131"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2022-12-15, 14:10:57",
-      "https://news.ycombinator.com/item?id=33999718"
+      "2022-12-15, 14:29:15",
+      "https://news.ycombinator.com/item?id=33999975"
     ],
     [
-      "How popular is COBOL?",
-      "https://www.techradar.com/news/cobol-wants-to-find-out-just-how-popular-it-really-is"
+      "A thin gold layer could be the secret to glasses that don't fog",
+      "https://gizmodo.com/glasses-fog-anti-no-fog-without-spray-heating-gold-laye-1849887511"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=33999162"
     ],
     [
-      "Riffusion – Stable Diffusion fine-tuned to generate Music",
+      "Riffusion – Stable Diffusion fine-tuned to generate music",
       "https://www.riffusion.com/about"
     ]
   ],
