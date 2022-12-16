@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-12-16, 06:59:08",
-      "https://news.ycombinator.com/item?id=34011514"
+      "2022-12-16, 07:28:46",
+      "https://news.ycombinator.com/item?id=34011770"
     ],
     [
-      "Twitter has flagged all the major Mastodon servers as malware",
-      "https://news.ycombinator.com/item?id=34011514"
+      "Kilo Lisp: A Kilo Byte-Sized Lisp System",
+      "http://t3x.org/klisp/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-16, 06:53:23",
+      "https://news.ycombinator.com/item?id=34011470"
+    ],
+    [
+      "IBM creates 24-core Power chip so customers can exploit Oracle database license",
+      "https://www.theregister.com/2022/12/15/new_ibm_power_cpu_for_oracle/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Tiktoken: OpenAI’s Tokenizer",
       "https://github.com/openai/tiktoken"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 01:32:33",
-      "https://news.ycombinator.com/item?id=34008383"
-    ],
-    [
-      "Twitter applies 7-day suspension to half a dozen journalists",
-      "https://www.washingtonpost.com/media/2022/12/15/twitter-journalists-suspended-musk/"
     ]
   ],
   [
