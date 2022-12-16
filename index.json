@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-16, 00:04:53",
+      "https://news.ycombinator.com/item?id=34007654"
+    ],
+    [
+      "Vintage Apple Advertisements",
+      "https://www.printmag.com/advertising/making-the-mac-20-vintage-apple-ads/"
+    ]
+  ],
+  [
+    [
+      "2022-12-16, 00:03:02",
+      "https://news.ycombinator.com/item?id=34007637"
+    ],
+    [
+      "Secret scanning is now available for free on public repositories",
+      "https://github.blog/changelog/2022-12-15-secret-scanning-is-now-available-for-free-on-public-repositories/"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 23:37:42",
+      "https://news.ycombinator.com/item?id=34007403"
+    ],
+    [
+      "IvorySQL: Open-source Oracle-compatible PostgreSQL",
+      "https://github.com/IvorySQL/IvorySQL"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 22:19:18",
       "https://news.ycombinator.com/item?id=34006622"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34006388"
     ],
     [
-      "Bitter Lesson by Richard Sutton",
+      "The Bitter Lesson (2019)",
       "http://incompleteideas.net/IncIdeas/BitterLesson.html"
     ]
   ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2022-12-15, 21:13:46",
-      "https://news.ycombinator.com/item?id=34005860"
-    ],
-    [
-      "Implementing a Toy Optimizer",
-      "https://www.pypy.org/posts/2022/07/toy-optimizer.html"
-    ]
-  ],
-  [
-    [
       "2022-12-15, 21:07:30",
       "https://news.ycombinator.com/item?id=34005791"
     ],
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2022-12-15, 18:45:20",
-      "https://news.ycombinator.com/item?id=34003797"
-    ],
-    [
-      "What Is a Query Planner?",
-      "https://planetscale.com/blog/what-is-a-query-planner"
-    ]
-  ],
-  [
-    [
       "2022-12-15, 18:13:06",
       "https://news.ycombinator.com/item?id=34003394"
     ],
     [
       "New and Improved Embedding Model for OpenAI",
       "https://openai.com/blog/new-and-improved-embedding-model/"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 17:13:48",
-      "https://news.ycombinator.com/item?id=34002599"
-    ],
-    [
-      "DBT Cloud increase Team plan price by 100% and limit features at the same time",
-      "https://www.getdbt.com/blog/dbt-cloud-package-update/"
     ]
   ],
   [
@@ -221,12 +221,22 @@
   ],
   [
     [
-      "2022-12-15, 14:30:33",
-      "https://news.ycombinator.com/item?id=33999999"
+      "2022-12-15, 14:29:30",
+      "https://news.ycombinator.com/item?id=33999983"
     ],
     [
-      "Z-Wave Alliance Announces Z-Wave Source Code Project Now Open and Available",
-      "https://z-wavealliance.org/news_p/z-wave-alliance-announces-z-wave-source-code-project-is-complete-now-open-and-widely-available-to-members/"
+      "The Suppressed Electrodynamics of Ampère-Gauss-Weber (2001)",
+      "https://21sci-tech.com/articles/spring01/Electrodynamics.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 13:37:47",
+      "https://news.ycombinator.com/item?id=33999296"
+    ],
+    [
+      "Ask HN: How might HN build a social network together?",
+      "https://news.ycombinator.com/item?id=33999296"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "What does copyright say about generative models?",
       "https://www.oreilly.com/radar/what-does-copyright-say-about-generative-models/"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 08:41:38",
-      "https://news.ycombinator.com/item?id=33996808"
-    ],
-    [
-      "Governance topologies for data mesh",
-      "https://www.infoq.com/news/2022/06/data-mesh-topologies/"
     ]
   ],
   [
