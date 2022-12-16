@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2022-12-15, 21:07:30",
-      "https://news.ycombinator.com/item?id=34005791"
-    ],
-    [
-      "Finding JIT Optimizer Bugs Using SMT Solvers and Fuzzing – PyPy",
-      "https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html"
-    ]
-  ],
-  [
-    [
       "2022-12-15, 21:00:35",
       "https://news.ycombinator.com/item?id=34005702"
     ],
@@ -127,6 +117,16 @@
     [
       "Vintage-Style Map of the Mandelbrot Set",
       "https://kottke.org/22/12/vintage-map-mandelbrot-set"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 18:13:06",
+      "https://news.ycombinator.com/item?id=34003394"
+    ],
+    [
+      "New and Improved Embedding Model for OpenAI",
+      "https://openai.com/blog/new-and-improved-embedding-model/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2022-12-15, 14:38:52",
+      "https://news.ycombinator.com/item?id=34000131"
+    ],
+    [
+      "Autopsy-based characterization of myocarditis after anti-SARS-CoV-2-vaccination",
+      "https://link.springer.com/article/10.1007/s00392-022-02129-5"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 14:29:30",
       "https://news.ycombinator.com/item?id=33999983"
     ],
@@ -257,16 +267,6 @@
     [
       "Who knew the first AI battles would be fought by artists?",
       "https://vmst.io/@selzero/109512557990367884"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 09:00:19",
-      "https://news.ycombinator.com/item?id=33996937"
-    ],
-    [
-      "What does copyright say about generative models?",
-      "https://www.oreilly.com/radar/what-does-copyright-say-about-generative-models/"
     ]
   ],
   [
