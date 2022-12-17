@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-12-17, 21:50:08",
+      "https://news.ycombinator.com/item?id=34032605"
+    ],
+    [
+      "Show HN: A self-updating list of the most current useragents",
+      "https://www.useragents.me"
+    ]
+  ],
+  [
+    [
       "2022-12-17, 21:25:35",
       "https://news.ycombinator.com/item?id=34032402"
     ],
     [
       "Get root on macOS 13.0.1 the macOS Dirty Cow bug",
       "https://worthdoingbadly.com/macdirtycow/"
+    ]
+  ],
+  [
+    [
+      "2022-12-17, 20:30:32",
+      "https://news.ycombinator.com/item?id=34031917"
+    ],
+    [
+      "Capture the flag using OSINT techniques (2019)",
+      "https://www.netwatchglobal.com/solutions/capture-the-flag-using-osint-techniques/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2022-12-17, 15:43:47",
-      "https://news.ycombinator.com/item?id=34028682"
-    ],
-    [
-      "Valve is paying open-source developers to work on Proton, Mesa, and more",
-      "https://old.reddit.com/r/linux/comments/znxb9y/valve_is_paying_100_opensource_developers_to_work/"
-    ]
-  ],
-  [
-    [
       "2022-12-17, 15:38:19",
       "https://news.ycombinator.com/item?id=34028601"
     ],
     [
       "Apk.sh is a Bash script that makes reverse engineering Android apps easier",
       "https://github.com/ax/apk.sh"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 15:09:27",
-      "https://news.ycombinator.com/item?id=34028346"
-    ],
-    [
-      "Google introduces end-to-end encryption for Gmail on the web",
-      "https://www.bleepingcomputer.com/news/security/google-introduces-end-to-end-encryption-for-gmail-on-the-web/"
     ]
   ],
   [
