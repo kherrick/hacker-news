@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-17, 09:53:29",
+      "https://news.ycombinator.com/item?id=34026414"
+    ],
+    [
+      "Carp – a statically typed, non-GC Lisp language",
+      "https://github.com/carp-lang/Carp/blob/master/README.md"
+    ]
+  ],
+  [
+    [
       "2022-12-17, 06:27:23",
       "https://news.ycombinator.com/item?id=34025377"
     ],
@@ -227,16 +237,6 @@
     [
       "Hot Wheels are one of the most inflation-proof toys in American history",
       "https://www.npr.org/2022/12/16/1143282569/why-hot-wheels-are-one-of-the-most-inflation-proof-toys-in-american-history"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 11:09:24",
-      "https://news.ycombinator.com/item?id=34013195"
-    ],
-    [
-      "A Linux Evening",
-      "https://fabiensanglard.net/a_linux_evening/index.html"
     ]
   ],
   [
