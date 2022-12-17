@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-17, 18:39:43",
-      "https://news.ycombinator.com/item?id=34030749"
-    ],
-    [
-      "Mark Zuckerberg Has Never Done Anything Original and I Can Prove It",
-      "https://notes.ghed.in/posts/2022/zuckerberg-original/"
-    ]
-  ],
-  [
-    [
       "2022-12-17, 18:37:52",
       "https://news.ycombinator.com/item?id=34030735"
     ],
@@ -47,6 +37,16 @@
     [
       "Corviale, a one-kilometer residential complex in Rome",
       "https://www.archdaily.com/956906/corviale-a-one-kilometer-residential-complex-in-rome"
+    ]
+  ],
+  [
+    [
+      "2022-12-17, 17:12:02",
+      "https://news.ycombinator.com/item?id=34029750"
+    ],
+    [
+      "AVR-GCC Compiler Makes Questionable Code",
+      "https://www.bigmessowires.com/2022/12/16/avr-gcc-compiler-makes-questionable-code/"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34028304"
     ],
     [
-      "The Empty List",
+      "The empty list",
       "https://www.tfeb.org/fragments/2022/12/16/the-empty-list/"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=34028084"
     ],
     [
-      "Linux, Amazon, Meta, and Microsoft Want to Break the Google Maps Monopoly",
+      "Linux, Amazon, Meta, and Microsoft want to break the Google Maps monopoly",
       "https://arstechnica.com/gadgets/2022/12/linux-amazon-meta-and-microsoft-want-to-break-the-google-maps-monopoly/"
     ]
   ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=34021071"
     ],
     [
-      "UWaterloo Steam Tunnels",
+      "UWaterloo Steam Tunnels (2016)",
       "https://hashman.ca/tunnels/"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-12-16, 09:41:16",
-      "https://news.ycombinator.com/item?id=34012657"
+      "2022-12-16, 10:05:38",
+      "https://news.ycombinator.com/item?id=34012793"
     ],
     [
-      "IBM COBOL Basics",
-      "https://www.coursera.org/learn/ibm-cobol-basics"
+      "You Have Too Many Metrics",
+      "https://breakingpoint.substack.com/p/you-have-too-many-metrics"
     ]
   ]
 ]
