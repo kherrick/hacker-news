@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-17, 17:12:02",
+      "https://news.ycombinator.com/item?id=34029750"
+    ],
+    [
+      "AVR-GCC Compiler Makes Questionable Code",
+      "https://www.bigmessowires.com/2022/12/16/avr-gcc-compiler-makes-questionable-code/"
+    ]
+  ],
+  [
+    [
+      "2022-12-17, 16:59:07",
+      "https://news.ycombinator.com/item?id=34029603"
+    ],
+    [
+      "Sorting with SIMD",
+      "https://tweedegolf.nl/en/blog/79/sorting-with-simd"
+    ]
+  ],
+  [
+    [
       "2022-12-17, 16:17:43",
       "https://news.ycombinator.com/item?id=34029078"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2022-12-17, 14:49:02",
-      "https://news.ycombinator.com/item?id=34028171"
-    ],
-    [
-      "Post, the latest Twitter alternative, is betting big on micropayments for news",
-      "https://www.niemanlab.org/2022/11/post-the-latest-twitter-alternative-is-betting-big-on-micropayments-for-news/"
-    ]
-  ],
-  [
-    [
       "2022-12-17, 14:39:27",
       "https://news.ycombinator.com/item?id=34028087"
     ],
@@ -117,6 +127,16 @@
     [
       "Linux, Amazon, Meta, and Microsoft Want to Break the Google Maps Monopoly",
       "https://arstechnica.com/gadgets/2022/12/linux-amazon-meta-and-microsoft-want-to-break-the-google-maps-monopoly/"
+    ]
+  ],
+  [
+    [
+      "2022-12-17, 14:38:07",
+      "https://news.ycombinator.com/item?id=34028079"
+    ],
+    [
+      "John Carmack's Resignation Letter",
+      "https://www.facebook.com/100006735798590/posts/i-resigned-from-my-position-as-an-executive-consultant-for-vr-with-meta-my-inter/3467566940144465/"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "GTK File Chooser Dialog gets a thumbnail view after 18 years",
       "https://thisweek.gnome.org/posts/2022/12/twig-74/"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 11:15:53",
-      "https://news.ycombinator.com/item?id=34026826"
-    ],
-    [
-      "French accounting firm Mazars is pausing all its work with crypto firms",
-      "https://finance.yahoo.com/news/accounting-firm-mazars-drops-all-crypto-clients-including-binance-and-cryptocom-153807881.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The strange case of BeOS, SRS and the silent Power Mac 6500",
       "https://oldvcr.blogspot.com/2022/12/the-strange-case-of-beos-srs-and-silent.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 00:44:00",
-      "https://news.ycombinator.com/item?id=34022797"
-    ],
-    [
-      "Open source USB C camera with C mount lens, MIPI Sensor, Lattice FPGA, USB 3.0",
-      "https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html"
     ]
   ],
   [
