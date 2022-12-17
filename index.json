@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2022-12-17, 16:03:50",
-      "https://news.ycombinator.com/item?id=34028921"
-    ],
-    [
-      "Binance outflows hit $6B as Mazars halts ‘proof of reserves’ work",
-      "https://www.ft.com/content/bb50a204-5239-4db0-9964-c3bf9339c594"
-    ]
-  ],
-  [
-    [
       "2022-12-17, 15:50:20",
       "https://news.ycombinator.com/item?id=34028765"
     ],
@@ -227,6 +217,16 @@
     [
       "The strange case of Britain’s demise",
       "https://www.economist.com/britain/2022/12/12/the-strange-case-of-britains-demise"
+    ]
+  ],
+  [
+    [
+      "2022-12-17, 09:53:29",
+      "https://news.ycombinator.com/item?id=34026414"
+    ],
+    [
+      "Carp – a statically typed, non-GC Lisp language",
+      "https://github.com/carp-lang/Carp/blob/master/README.md"
     ]
   ],
   [
