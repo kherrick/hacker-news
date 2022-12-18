@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-12-18, 11:20:56",
+      "https://news.ycombinator.com/item?id=34036692"
+    ],
+    [
+      "GNU/Linux shell related internals",
+      "https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 11:04:41",
       "https://news.ycombinator.com/item?id=34036590"
     ],
@@ -207,16 +217,6 @@
     [
       "Corviale, a one-kilometer residential complex in Rome",
       "https://www.archdaily.com/956906/corviale-a-one-kilometer-residential-complex-in-rome"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 16:59:07",
-      "https://news.ycombinator.com/item?id=34029603"
-    ],
-    [
-      "Sorting with SIMD",
-      "https://tweedegolf.nl/en/blog/79/sorting-with-simd"
     ]
   ],
   [
