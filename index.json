@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-18, 12:46:32",
+      "https://news.ycombinator.com/item?id=34037185"
+    ],
+    [
+      "In the U.S., His Site Has Been Linked to Massacres. In Japan, He’s a Star",
+      "https://www.nytimes.com/2022/12/18/business/4chan-hiroyuki-nishimura.html"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 12:05:23",
       "https://news.ycombinator.com/item?id=34036926"
     ],
@@ -17,6 +27,16 @@
     [
       "GNU/Linux shell related internals",
       "https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/"
+    ]
+  ],
+  [
+    [
+      "2022-12-18, 11:18:14",
+      "https://news.ycombinator.com/item?id=34036681"
+    ],
+    [
+      "You Shouldn't Use Public CAs for Internal Infrastructures",
+      "https://smallstep.com/blog/reasons-not-to-use-public-certificate-authorities/"
     ]
   ],
   [
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2022-12-18, 09:14:03",
+      "https://news.ycombinator.com/item?id=34036169"
+    ],
+    [
+      "ChatGPT playing a not so simple game",
+      "https://showgpt.co/s/j40Y1k9R"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 08:41:34",
       "https://news.ycombinator.com/item?id=34036011"
     ],
@@ -87,16 +117,6 @@
     [
       "Programming with Unicon [pdf]",
       "http://unicon.org/book/ub-nightly.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 05:14:11",
-      "https://news.ycombinator.com/item?id=34035249"
-    ],
-    [
-      "America’s social and political turmoil during the 1910s and 20s",
-      "https://quillette.com/2022/12/17/americas-forgotten-crisis/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2022-12-17, 00:10:36",
-      "https://news.ycombinator.com/item?id=34022484"
-    ],
-    [
-      "John Carmack Leaves Meta",
-      "https://www.facebook.com/100006735798590/posts/i-resigned-from-my-position-as-an-executive-consultant-for-vr-with-meta-my-inter/3467566940144465/"
-    ]
-  ],
-  [
-    [
       "2022-12-16, 22:49:14",
       "https://news.ycombinator.com/item?id=34021701"
     ],
     [
       "Corkscrew Optics Yield Direct Line to Electronics",
       "https://spectrum.ieee.org/optical-computing-picosecond-gates"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 21:21:16",
-      "https://news.ycombinator.com/item?id=34020588"
-    ],
-    [
-      "Britain’s empire of science",
-      "https://www.newstatesman.com/culture/books/2022/11/how-the-victorians-took-us-to-the-moon-iwan-rhys-morun-review"
     ]
   ],
   [
