@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-12-18, 02:13:22",
-      "https://news.ycombinator.com/item?id=34034413"
-    ],
-    [
-      "These 299 macOS apps are so buggy, Apple had to fix them in AppKit (2018)",
-      "https://worthdoingbadly.com/appkitcompat/"
-    ]
-  ],
-  [
-    [
       "2022-12-18, 01:20:15",
       "https://news.ycombinator.com/item?id=34034121"
     ],
@@ -67,6 +57,16 @@
     [
       "The record-breaking -108.00 diopter myopia lenses (2016)",
       "https://www.pointsdevue.com/article/record-high-myopia-solved-alliance-experts-10800-d"
+    ]
+  ],
+  [
+    [
+      "2022-12-17, 22:35:32",
+      "https://news.ycombinator.com/item?id=34032990"
+    ],
+    [
+      "SQLite internals: How the most-used database works",
+      "https://www.compileralchemy.com/books/sqlite-internals/"
     ]
   ],
   [
