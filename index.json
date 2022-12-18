@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-18, 14:15:51",
+      "https://news.ycombinator.com/item?id=34037817"
+    ],
+    [
+      "New Twitter Policy May Be More Terrifying Than Mass Suspension of Journalists",
+      "https://post.news/article/2J3AloOm0Fho4H1A0YFAy9nU3fS"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 14:06:04",
       "https://news.ycombinator.com/item?id=34037731"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2022-12-17, 23:13:10",
-      "https://news.ycombinator.com/item?id=34033275"
+      "2022-12-17, 19:58:37",
+      "https://news.ycombinator.com/item?id=34031568"
     ],
     [
-      "The record-breaking -108.00 diopter myopia lenses (2016)",
-      "https://www.pointsdevue.com/article/record-high-myopia-solved-alliance-experts-10800-d"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 22:35:32",
-      "https://news.ycombinator.com/item?id=34032990"
-    ],
-    [
-      "SQLite internals: How the most-used database works",
-      "https://www.compileralchemy.com/books/sqlite-internals/"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 21:50:08",
-      "https://news.ycombinator.com/item?id=34032605"
-    ],
-    [
-      "A self-updating list of the most current useragents",
-      "https://www.useragents.me"
+      "Unredacter: Never use pixelation as a redaction technique",
+      "https://github.com/BishopFox/unredacter"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How to spot a 'short snorter'",
       "https://www.atlasobscura.com/articles/what-is-a-short-snorter"
+    ]
+  ],
+  [
+    [
+      "2022-12-16, 14:29:31",
+      "https://news.ycombinator.com/item?id=34014830"
+    ],
+    [
+      "Surprisingly Turing-Complete (2021)",
+      "https://www.gwern.net/Turing-complete"
     ]
   ]
 ]
