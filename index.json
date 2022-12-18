@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-18, 02:13:30",
+      "https://news.ycombinator.com/item?id=34034414"
+    ],
+    [
+      "Show HN: A Highly Opinionated, Fully Functional Obsidian Vault",
+      "https://github.com/bramses/bramses-highly-opinionated-vault-2023"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 01:20:15",
       "https://news.ycombinator.com/item?id=34034121"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34033557"
     ],
     [
-      "Does It Inline?",
+      "Does it inline?",
       "https://bolinlang.com/does-it-inline"
     ]
   ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2022-12-17, 19:33:17",
-      "https://news.ycombinator.com/item?id=34031292"
-    ],
-    [
-      "W3C’s transfer from MIT to non-profit going poorly",
-      "https://twitter.com/robinberjon/status/1603834995830816769"
-    ]
-  ],
-  [
-    [
       "2022-12-17, 19:17:39",
       "https://news.ycombinator.com/item?id=34031136"
     ],
@@ -147,6 +147,16 @@
     [
       "Corviale, a one-kilometer residential complex in Rome",
       "https://www.archdaily.com/956906/corviale-a-one-kilometer-residential-complex-in-rome"
+    ]
+  ],
+  [
+    [
+      "2022-12-17, 17:12:02",
+      "https://news.ycombinator.com/item?id=34029750"
+    ],
+    [
+      "AVR-GCC Compiler Makes Questionable Code",
+      "https://www.bigmessowires.com/2022/12/16/avr-gcc-compiler-makes-questionable-code/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Surprisingly Turing-Complete (2021)",
       "https://www.gwern.net/Turing-complete"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 10:56:04",
-      "https://news.ycombinator.com/item?id=34013100"
-    ],
-    [
-      "Water-based circuit concept switches much faster than semiconductors",
-      "https://newatlas.com/electronics/water-circuit-switches-thz-faster-semiconductors/"
     ]
   ]
 ]
