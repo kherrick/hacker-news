@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-12-17, 23:56:51",
+      "https://news.ycombinator.com/item?id=34033557"
+    ],
+    [
+      "Does It Inline?",
+      "https://bolinlang.com/does-it-inline"
+    ]
+  ],
+  [
+    [
       "2022-12-17, 23:33:43",
       "https://news.ycombinator.com/item?id=34033389"
     ],
     [
-      "Abandoned: The human cost of neurotechnology failure",
+      "The human cost of neurotechnology failure",
       "https://www.nature.com/immersive/d41586-022-03810-5/index.html"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34032672"
     ],
     [
-      "Steve Jobs Insult Response",
+      "Steve Jobs Insult Response (1997) [video]",
       "https://www.youtube.com/watch?v=oeqPrUmVz-o"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34032605"
     ],
     [
-      "Show HN: A self-updating list of the most current useragents",
+      "A self-updating list of the most current useragents",
       "https://www.useragents.me"
     ]
   ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2022-12-17, 18:26:29",
-      "https://news.ycombinator.com/item?id=34030621"
-    ],
-    [
-      "Atari Cosmos: A portable holographic video game machine (scroll a bit) (2013)",
-      "https://www.ataricompendium.com/archives/interviews/roger_hector/interview_roger_hector.html"
-    ]
-  ],
-  [
-    [
       "2022-12-17, 18:05:04",
       "https://news.ycombinator.com/item?id=34030389"
     ],
@@ -167,16 +167,6 @@
     [
       "Sorting with SIMD",
       "https://tweedegolf.nl/en/blog/79/sorting-with-simd"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 16:17:43",
-      "https://news.ycombinator.com/item?id=34029078"
-    ],
-    [
-      "Strg.snek",
-      "https://toulou.itch.io/strgsnek"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2022-12-16, 17:23:42",
+      "https://news.ycombinator.com/item?id=34017328"
+    ],
+    [
+      "Mathematician withdraws preprint 24 years after initial submission",
+      "https://retractionwatch.com/2022/12/12/mathematician-withdraws-preprint-24-years-after-initial-submission/"
+    ]
+  ],
+  [
+    [
       "2022-12-16, 14:36:00",
       "https://news.ycombinator.com/item?id=34014912"
     ],
@@ -285,18 +285,18 @@
       "https://news.ycombinator.com/item?id=34014830"
     ],
     [
-      "A list of things that surprisingly are Turing-complete",
+      "Surprisingly Turing-Complete (2021)",
       "https://www.gwern.net/Turing-complete"
     ]
   ],
   [
     [
-      "2022-12-16, 10:05:38",
-      "https://news.ycombinator.com/item?id=34012793"
+      "2022-12-16, 10:56:04",
+      "https://news.ycombinator.com/item?id=34013100"
     ],
     [
-      "The more metrics you track, the less you know",
-      "https://breakingpoint.substack.com/p/you-have-too-many-metrics"
+      "Water-based circuit concept switches much faster than semiconductors",
+      "https://newatlas.com/electronics/water-circuit-switches-thz-faster-semiconductors/"
     ]
   ]
 ]
