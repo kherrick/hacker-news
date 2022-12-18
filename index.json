@@ -1,26 +1,6 @@
 [
   [
     [
-      "2022-12-18, 14:06:04",
-      "https://news.ycombinator.com/item?id=34037731"
-    ],
-    [
-      "U.S. copyright office rules A.I. art can’t be copyrighted",
-      "https://www.smithsonianmag.com/smart-news/us-copyright-office-rules-ai-art-cant-be-copyrighted-180979808/"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 14:03:17",
-      "https://news.ycombinator.com/item?id=34037703"
-    ],
-    [
-      "'Stress, burnout, churn, and a cut-throat atmosphere': An internal Amazon study",
-      "https://www.businessinsider.com/amazon-earths-best-employer-stress-churn-burnout-cut-throat-atmosphere-2022-12"
-    ]
-  ],
-  [
-    [
       "2022-12-18, 13:55:58",
       "https://news.ycombinator.com/item?id=34037647"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2022-12-17, 14:20:51",
+      "https://news.ycombinator.com/item?id=34027961"
+    ],
+    [
+      "AlcorMicro AU9560 reader and fast smart cards: help from crowd needed",
+      "https://ludovicrousseau.blogspot.com/2022/12/alcormicro-au9560-reader-and-fast-smart.html"
+    ]
+  ],
+  [
+    [
       "2022-12-16, 22:49:14",
       "https://news.ycombinator.com/item?id=34021701"
     ],
@@ -267,6 +257,16 @@
     [
       "Biomolecular design in Realtalk [video]",
       "https://www.youtube.com/watch?v=_gXiVOmaVSo"
+    ]
+  ],
+  [
+    [
+      "2022-12-16, 16:10:24",
+      "https://news.ycombinator.com/item?id=34016188"
+    ],
+    [
+      "Vulnerability scanner written in Go that uses osv.dev data",
+      "https://github.com/google/osv-scanner"
     ]
   ],
   [
