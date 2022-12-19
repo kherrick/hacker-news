@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-12-19, 11:35:07",
-      "https://news.ycombinator.com/item?id=34050966"
+      "2022-12-19, 11:57:03",
+      "https://news.ycombinator.com/item?id=34051088"
     ],
     [
-      "Elon Musk Grossly Misunderstands Free Speech",
-      "https://www.zdziarski.com/blog/?p=11814"
+      "Post YC Post Mortem",
+      "https://github.com/getlago/lago/wiki/Post-mortem-of-our-1st-YC-startup:-a-Reverse-ETL"
+    ]
+  ],
+  [
+    [
+      "2022-12-19, 11:52:08",
+      "https://news.ycombinator.com/item?id=34051062"
+    ],
+    [
+      "Fungal toxins are widespread in European wheat",
+      "https://theconversation.com/fungal-toxins-are-widespread-in-european-wheat-threatening-human-health-and-the-economy-196531"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34050835"
     ],
     [
-      "Converting my PhD thesis into HTML",
+      "Converting my PhD thesis into HTML (2021)",
       "https://desfontain.es/privacy/latex-to-html.html"
     ]
   ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2022-12-19, 04:19:16",
+      "https://news.ycombinator.com/item?id=34048432"
+    ],
+    [
+      "You can’t take it with you: straight talk about epigenetics",
+      "https://razib.substack.com/p/you-cant-take-it-with-you-straight"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 03:31:14",
       "https://news.ycombinator.com/item?id=34048082"
     ],
@@ -137,16 +157,6 @@
     [
       "Pollution cleanup method destroys toxic “forever chemicals”",
       "https://news.ucr.edu/articles/2022/12/12/pollution-cleanup-method-destroys-toxic-forever-chemicals"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 00:31:09",
-      "https://news.ycombinator.com/item?id=34046434"
-    ],
-    [
-      "NumPy 1.24",
-      "https://github.com/numpy/numpy/releases/tag/v1.24.0"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "P-22 has been euthanized",
       "https://www.bbc.com/news/world-us-canada-64006005"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 22:18:36",
-      "https://news.ycombinator.com/item?id=34032872"
-    ],
-    [
-      "Copilot Internals",
-      "https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html"
     ]
   ],
   [
