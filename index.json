@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-19, 22:31:47",
+      "https://news.ycombinator.com/item?id=34058711"
+    ],
+    [
+      "zstd",
+      "https://github.com/facebook/zstd"
+    ]
+  ],
+  [
+    [
+      "2022-12-19, 22:27:53",
+      "https://news.ycombinator.com/item?id=34058658"
+    ],
+    [
+      "Astronomical Calculations for Hard SF in Common Lisp",
+      "https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 22:07:45",
       "https://news.ycombinator.com/item?id=34058421"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-12-19, 15:06:35",
-      "https://news.ycombinator.com/item?id=34052903"
-    ],
-    [
-      "Was Rocket Lake Power Efficient?",
-      "https://chipsandcheese.com/2022/12/17/was-rocket-lake-power-efficient/"
-    ]
-  ],
-  [
-    [
       "2022-12-19, 14:25:40",
       "https://news.ycombinator.com/item?id=34052363"
     ],
@@ -207,16 +217,6 @@
     [
       "Structuring Clojure applications",
       "https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 14:11:23",
-      "https://news.ycombinator.com/item?id=34052201"
-    ],
-    [
-      "Ask HN: Has anyone here turned around their life in their 40s?",
-      "https://news.ycombinator.com/item?id=34052201"
     ]
   ],
   [
