@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-12-19, 05:36:44",
+      "https://news.ycombinator.com/item?id=34048881"
+    ],
+    [
+      "How Many Computers Are in Your Computer? (2021)",
+      "https://www.gwern.net/Computers"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 04:41:25",
       "https://news.ycombinator.com/item?id=34048573"
     ],
@@ -217,16 +227,6 @@
     [
       "Reinventing backend subsetting at Google",
       "https://queue.acm.org/detail.cfm?id=3570937"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 06:28:16",
-      "https://news.ycombinator.com/item?id=34035508"
-    ],
-    [
-      "Why doesn’t Windows use 64-bit virtual address space below 0x00000000`7ffe0000?",
-      "https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598"
     ]
   ],
   [
