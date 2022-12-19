@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-19, 19:21:55",
+      "https://news.ycombinator.com/item?id=34056378"
+    ],
+    [
+      "Twitter archiver: Make your own simple, public, searchable Twitter archive",
+      "https://github.com/dariusk/twitter-archiver"
+    ]
+  ],
+  [
+    [
+      "2022-12-19, 18:56:38",
+      "https://news.ycombinator.com/item?id=34056067"
+    ],
+    [
+      "Spotifyd",
+      "https://github.com/Spotifyd/spotifyd"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 18:41:08",
       "https://news.ycombinator.com/item?id=34055834"
     ],
@@ -37,6 +57,16 @@
     [
       "Ask HN: What is the best thing you read in 2022?",
       "https://news.ycombinator.com/item?id=34055123"
+    ]
+  ],
+  [
+    [
+      "2022-12-19, 17:50:34",
+      "https://news.ycombinator.com/item?id=34055101"
+    ],
+    [
+      "Video Codec in 100 lines of Rust",
+      "https://blog.tempus-ex.com/hello-video-codec/"
     ]
   ],
   [
@@ -205,18 +235,8 @@
       "https://news.ycombinator.com/item?id=34051561"
     ],
     [
-      "NIH can’t deny former research chimps sanctuary retirement, federal judge rules",
+      "Federal judge overrules NIH veterinarians about lab chimp retirement",
       "https://www.science.org/content/article/nih-can-t-deny-former-research-chimps-sanctuary-retirement-federal-judge-rules"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 12:34:57",
-      "https://news.ycombinator.com/item?id=34051325"
-    ],
-    [
-      "Wing: A cloud-oriented programming language",
-      "https://www.winglang.io/"
     ]
   ],
   [
@@ -237,26 +257,6 @@
     [
       "Converting my PhD thesis into HTML (2021)",
       "https://desfontain.es/privacy/latex-to-html.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 10:55:26",
-      "https://news.ycombinator.com/item?id=34050715"
-    ],
-    [
-      "J one-page interpreter fragment (1992)",
-      "https://code.jsoftware.com/wiki/Essays/Incunabulum"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 05:36:44",
-      "https://news.ycombinator.com/item?id=34048881"
-    ],
-    [
-      "How many computers are in your computer? (2021)",
-      "https://www.gwern.net/Computers"
     ]
   ],
   [
