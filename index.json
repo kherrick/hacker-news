@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-19, 15:22:54",
+      "https://news.ycombinator.com/item?id=34053094"
+    ],
+    [
+      "Apple Music deletes your original songs and replaces them with DRM'd versions",
+      "https://old.reddit.com/r/YouShouldKnow/comments/zl8ko3/ysk_apple_music_deletes_your_original_songs_and/"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 15:06:35",
       "https://news.ycombinator.com/item?id=34052903"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2022-12-19, 14:12:15",
+      "https://news.ycombinator.com/item?id=34052218"
+    ],
+    [
+      "How to Surrender to a Drone",
+      "https://www.schneier.com/blog/archives/2022/12/how-to-surrender-to-a-drone.html"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 14:11:23",
       "https://news.ycombinator.com/item?id=34052201"
     ],
@@ -77,16 +97,6 @@
     [
       "Epic Games to pay $520M to resolve FTC allegations",
       "https://www.wsj.com/articles/epic-games-maker-of-fortnite-to-pay-520-million-to-resolve-ftc-allegations-11671456744"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 13:40:16",
-      "https://news.ycombinator.com/item?id=34051876"
-    ],
-    [
-      "Tell HN: Uber has blocked my account for years, won't tell me why",
-      "https://news.ycombinator.com/item?id=34051876"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "NIH can’t deny former research chimps sanctuary retirement, federal judge rules",
       "https://www.science.org/content/article/nih-can-t-deny-former-research-chimps-sanctuary-retirement-federal-judge-rules"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 12:47:40",
-      "https://news.ycombinator.com/item?id=34051414"
-    ],
-    [
-      "1/4 of companies that IPO'd in 2020-2021 trades below $2, risking delisting",
-      "https://www.wsj.com/articles/oatly-other-deflated-ipo-stocks-haunt-new-issue-market-11671417781"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2022-12-19, 01:34:28",
-      "https://news.ycombinator.com/item?id=34047076"
-    ],
-    [
-      "A math problem generator",
-      "https://github.com/lukew3/mathgenerator"
-    ]
-  ],
-  [
-    [
       "2022-12-19, 01:31:21",
       "https://news.ycombinator.com/item?id=34047047"
     ],
     [
       "Pollution cleanup method destroys toxic “forever chemicals”",
       "https://news.ucr.edu/articles/2022/12/12/pollution-cleanup-method-destroys-toxic-forever-chemicals"
+    ]
+  ],
+  [
+    [
+      "2022-12-18, 21:01:53",
+      "https://news.ycombinator.com/item?id=34043314"
+    ],
+    [
+      "EABitTricks.h",
+      "https://github.com/electronicarts/EAStdC/blob/master/include/EAStdC/EABitTricks.h"
     ]
   ],
   [
