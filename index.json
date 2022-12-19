@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2022-12-18, 19:34:22",
-      "https://news.ycombinator.com/item?id=34041900"
-    ],
-    [
-      "Government should incentivize high performance home builders",
-      "https://dan.bulwinkle.net/blog/government-should-incentivize-green-builders/"
-    ]
-  ],
-  [
-    [
       "2022-12-18, 18:04:52",
       "https://news.ycombinator.com/item?id=34040397"
     ],
@@ -297,6 +287,16 @@
     [
       "Jugaad takes agile to the extreme (2020)",
       "https://blog.georgovassilis.com/2020/09/13/draft-jugaad-takes-agile-to-the-extreme/"
+    ]
+  ],
+  [
+    [
+      "2022-12-16, 16:10:24",
+      "https://news.ycombinator.com/item?id=34016188"
+    ],
+    [
+      "Vulnerability scanner written in Go that uses osv.dev data",
+      "https://github.com/google/osv-scanner"
     ]
   ]
 ]
