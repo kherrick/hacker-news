@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-19, 22:07:45",
+      "https://news.ycombinator.com/item?id=34058421"
+    ],
+    [
+      "Fast memcpy, A System Design",
+      "https://www.sigarch.org/fast-memcpy-a-system-design/"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 21:28:26",
       "https://news.ycombinator.com/item?id=34057981"
     ],
@@ -137,16 +147,6 @@
     [
       "Commodore PET 2001 repair",
       "https://biosrhythm.com/?p=2224"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 16:26:15",
-      "https://news.ycombinator.com/item?id=34053938"
-    ],
-    [
-      "RFC2217 implementation written in Rust",
-      "https://github.com/esp-rs/rfc2217-rs"
     ]
   ],
   [
