@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-19, 22:44:36",
+      "https://news.ycombinator.com/item?id=34058856"
+    ],
+    [
+      "Implementing ‘Strlen’ Using SVE",
+      "https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 22:31:47",
       "https://news.ycombinator.com/item?id=34058711"
     ],
@@ -27,16 +37,6 @@
     [
       "Fast memcpy, A System Design",
       "https://www.sigarch.org/fast-memcpy-a-system-design/"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 21:29:55",
-      "https://news.ycombinator.com/item?id=34058004"
-    ],
-    [
-      "Sydney CBD is bringing back pedestrian “beg buttons”",
-      "https://jakecoppinger.com/2022/12/sydney-cbd-is-bringing-back-pedestrian-beg-buttons/"
     ]
   ],
   [
