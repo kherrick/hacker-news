@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-19, 00:31:09",
+      "https://news.ycombinator.com/item?id=34046434"
+    ],
+    [
+      "NumPy 1.24 Release Notes",
+      "https://github.com/numpy/numpy/releases/tag/v1.24.0"
+    ]
+  ],
+  [
+    [
+      "2022-12-18, 23:32:53",
+      "https://news.ycombinator.com/item?id=34045636"
+    ],
+    [
+      "Marion Smith, the world’s most prolific cave explorer, dies at 80",
+      "https://www.nytimes.com/2022/12/16/us/marion-smith-dead.html"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 23:21:52",
       "https://news.ycombinator.com/item?id=34045423"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2022-12-18, 22:30:37",
-      "https://news.ycombinator.com/item?id=34044484"
+      "2022-12-18, 22:44:26",
+      "https://news.ycombinator.com/item?id=34044784"
     ],
     [
-      "Introducing The Flickr Foundation",
-      "https://thisweekinphoto.com/introducing-the-flickr-foundation/"
+      "Devpod: Remote development environment at Uber",
+      "https://www.uber.com/blog/devpod-improving-developer-productivity-at-uber/"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34044047"
     ],
     [
-      "Twitter suspends pg's account",
+      "Twitter suspends pg's account [fixed]",
       "https://twitter.com/paulg/"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=34042651"
     ],
     [
-      "Browser extension that let's you follow accounts on foreign Mastodon instances",
+      "Browser extension that lets you follow accounts on foreign Mastodon instances",
       "https://github.com/Lartsch/FediAct"
     ]
   ],
@@ -71,11 +91,31 @@
   ],
   [
     [
+      "2022-12-18, 19:34:22",
+      "https://news.ycombinator.com/item?id=34041900"
+    ],
+    [
+      "Government should incentivize high performance home builders",
+      "https://dan.bulwinkle.net/blog/government-should-incentivize-green-builders/"
+    ]
+  ],
+  [
+    [
+      "2022-12-18, 18:53:58",
+      "https://news.ycombinator.com/item?id=34041272"
+    ],
+    [
+      "Ubuntu Snap update spoiled my World Cup Final",
+      "https://www.circusscientist.com/2022/12/18/ubuntu-snap-update-spoiled-the-world-cup/"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 18:04:52",
       "https://news.ycombinator.com/item?id=34040397"
     ],
     [
-      "Ten most(ly dead) influential programming languages (2020)",
+      "Ten influential programming languages (2020)",
       "https://www.hillelwayne.com/post/influential-dead-languages/"
     ]
   ],
@@ -111,11 +151,21 @@
   ],
   [
     [
+      "2022-12-18, 16:31:33",
+      "https://news.ycombinator.com/item?id=34039283"
+    ],
+    [
+      "TV disappears, but HBO Max removing shows feels different",
+      "https://www.vulture.com/article/hbo-max-warner-cancelations-disappearing-tv-streaming-future.html"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 16:10:44",
       "https://news.ycombinator.com/item?id=34039028"
     ],
     [
-      "Everything as a service – The age where everything has become a transaction",
+      "Everything as a Service",
       "https://curiositysink.substack.com/p/everything-as-a-service"
     ]
   ],
@@ -131,32 +181,22 @@
   ],
   [
     [
+      "2022-12-18, 16:05:20",
+      "https://news.ycombinator.com/item?id=34038948"
+    ],
+    [
+      "Investigating Logan Paul's biggest scam [video]",
+      "https://www.youtube.com/watch?v=386p68_lDHA"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 15:51:45",
       "https://news.ycombinator.com/item?id=34038784"
     ],
     [
       "Richard Feynman on looking at the world from another point of view (1973)",
       "https://cassandradispatch.org/richard-feynman-on-looking-at-the-world-from-another-point-of-view/"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 15:33:25",
-      "https://news.ycombinator.com/item?id=34038601"
-    ],
-    [
-      "I’ve been battling cancer last 2 years, but now only have a few days left",
-      "https://twitter.com/stokesneuro/status/1604369158883491841"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 15:31:15",
-      "https://news.ycombinator.com/item?id=34038582"
-    ],
-    [
-      "Winter & Cold Weather EV Range Loss in 7,000 Cars",
-      "https://www.recurrentauto.com/research/winter-ev-range-loss"
     ]
   ],
   [
@@ -171,42 +211,12 @@
   ],
   [
     [
-      "2022-12-18, 14:58:21",
-      "https://news.ycombinator.com/item?id=34038272"
-    ],
-    [
-      "Emacs: ffmpeg and macOS aliasing commands",
-      "https://xenodium.com/emacs-ffmpeg-and-macos-alias-commands/"
-    ]
-  ],
-  [
-    [
       "2022-12-18, 14:55:33",
       "https://news.ycombinator.com/item?id=34038244"
     ],
     [
       "Zilog Z8000 Coprocessor for the IBM PC by Sweet Micro Systems [video]",
       "https://www.youtube.com/watch?v=iKmXQAupWzM"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 14:35:34",
-      "https://news.ycombinator.com/item?id=34038021"
-    ],
-    [
-      "Waymo expands its rider-only territories",
-      "https://blog.waymo.com/2022/12/wheels-up-for-waymo-as-we-expand.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 11:20:56",
-      "https://news.ycombinator.com/item?id=34036692"
-    ],
-    [
-      "GNU/Linux shell related internals",
-      "https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/"
     ]
   ],
   [
@@ -225,18 +235,8 @@
       "https://news.ycombinator.com/item?id=34035755"
     ],
     [
-      "Reinventing Back End Subsetting at Google",
+      "Reinventing backend subsetting at Google",
       "https://queue.acm.org/detail.cfm?id=3570937"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 07:00:52",
-      "https://news.ycombinator.com/item?id=34035628"
-    ],
-    [
-      "Show HN: I made an Ethernet transceiver from logic gates",
-      "https://imihajlov.tk/blog/posts/eth-to-spi/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-12-16, 22:49:14",
-      "https://news.ycombinator.com/item?id=34021701"
+      "2022-12-17, 03:18:37",
+      "https://news.ycombinator.com/item?id=34024130"
     ],
     [
-      "Corkscrew Optics Yield Direct Line to Electronics",
-      "https://spectrum.ieee.org/optical-computing-picosecond-gates"
+      "Evan S. Connell mastered minor writing",
+      "https://www.newyorker.com/books/under-review/the-man-who-mastered-minor-writing"
     ]
   ],
   [
