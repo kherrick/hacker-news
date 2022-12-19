@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34047984"
     ],
     [
-      "The Risk of Orbital Debris and One (Cheap) Way to Mitigate It",
+      "The risk of orbital debris and one cheap way to mitigate it",
       "https://locationtbd.home.blog/2022/12/17/how-free-radar-data-can-save-billions-of-dollars/"
     ]
   ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2022-12-18, 09:53:00",
+      "https://news.ycombinator.com/item?id=34036307"
+    ],
+    [
+      "The keyboard controller",
+      "https://computer.rip/2022-12-17-the-keyboard-controller.html"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 08:51:38",
       "https://news.ycombinator.com/item?id=34036059"
     ],
@@ -287,16 +297,6 @@
     [
       "Jugaad takes agile to the extreme (2020)",
       "https://blog.georgovassilis.com/2020/09/13/draft-jugaad-takes-agile-to-the-extreme/"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 16:10:24",
-      "https://news.ycombinator.com/item?id=34016188"
-    ],
-    [
-      "Vulnerability scanner written in Go that uses osv.dev data",
-      "https://github.com/google/osv-scanner"
     ]
   ]
 ]
