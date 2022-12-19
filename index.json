@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2022-12-18, 16:10:44",
+      "https://news.ycombinator.com/item?id=34039028"
+    ],
+    [
+      "Everything as a Service",
+      "https://curiositysink.substack.com/p/everything-as-a-service"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 15:51:45",
       "https://news.ycombinator.com/item?id=34038784"
     ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=34035438"
     ],
     [
-      "P-22 has been put to sleep",
+      "P-22 has been euthanized",
       "https://www.bbc.com/news/world-us-canada-64006005"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Jugaad takes agile to the extreme (2020)",
       "https://blog.georgovassilis.com/2020/09/13/draft-jugaad-takes-agile-to-the-extreme/"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 16:10:24",
-      "https://news.ycombinator.com/item?id=34016188"
-    ],
-    [
-      "Vulnerability scanner written in Go that uses osv.dev data",
-      "https://github.com/google/osv-scanner"
     ]
   ]
 ]
