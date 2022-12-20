@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-20, 18:51:28",
+      "https://news.ycombinator.com/item?id=34070451"
+    ],
+    [
+      "MariaDB plunges nearly 40% in NYSE debut after SPAC merger",
+      "https://www.bizjournals.com/sanjose/news/2022/12/19/mariadb-goes-public-in-spac-merger.html"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 17:40:21",
       "https://news.ycombinator.com/item?id=34069305"
     ],
@@ -207,16 +217,6 @@
     [
       "Upgrading my old Chumby 8 Linux kernel",
       "https://www.downtowndougbrown.com/2022/12/upgrading-my-old-chumby-8-linux-kernel-part-1-u-boot/"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 09:44:07",
-      "https://news.ycombinator.com/item?id=34063735"
-    ],
-    [
-      "Password generator doesn't generate new password in the same session",
-      "https://bugzilla.mozilla.org/show_bug.cgi?id=1621599"
     ]
   ],
   [
