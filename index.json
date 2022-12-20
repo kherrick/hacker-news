@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-20, 03:33:49",
+      "https://news.ycombinator.com/item?id=34061214"
+    ],
+    [
+      "Waydroid: A container-based approach to boot a full Android system on GNU/Linux",
+      "https://waydro.id/"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 01:52:21",
       "https://news.ycombinator.com/item?id=34060545"
     ],
@@ -127,16 +137,6 @@
     [
       "Ask HN: What is the cheapest, easiest way to host a cronjob in 2022?",
       "https://news.ycombinator.com/item?id=34056812"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 19:21:55",
-      "https://news.ycombinator.com/item?id=34056378"
-    ],
-    [
-      "Twitter archiver: Make your own simple, public, searchable Twitter archive",
-      "https://github.com/dariusk/twitter-archiver"
     ]
   ],
   [
