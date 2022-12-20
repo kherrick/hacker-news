@@ -1,32 +1,12 @@
 [
   [
     [
-      "2022-12-20, 02:15:20",
-      "https://news.ycombinator.com/item?id=34060710"
-    ],
-    [
-      "Stanford's Elimination of Harmful Language (In IT) Initiative [pdf]",
-      "https://s.wsj.net/public/resources/documents/stanfordlanguage.pdf"
-    ]
-  ],
-  [
-    [
       "2022-12-20, 01:52:21",
       "https://news.ycombinator.com/item?id=34060545"
     ],
     [
       "Content Moderation Survivor Bias",
       "https://cyber.fsi.stanford.edu/io/news/content-moderation-survivor-bias"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 01:49:52",
-      "https://news.ycombinator.com/item?id=34060522"
-    ],
-    [
-      "Hacked Ring Cams Used to Record Swatting Victims",
-      "https://krebsonsecurity.com/2022/12/hacked-ring-cams-used-to-record-swatting-victims/"
     ]
   ],
   [
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2022-12-19, 19:21:55",
+      "https://news.ycombinator.com/item?id=34056378"
+    ],
+    [
+      "Twitter archiver: Make your own simple, public, searchable Twitter archive",
+      "https://github.com/dariusk/twitter-archiver"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 19:21:26",
       "https://news.ycombinator.com/item?id=34056370"
     ],
@@ -237,6 +227,16 @@
     [
       "Did insurance fire brigades let uninsured buildings burn?",
       "https://www.tomscott.com/corrections/firemarks/"
+    ]
+  ],
+  [
+    [
+      "2022-12-19, 14:25:40",
+      "https://news.ycombinator.com/item?id=34052363"
+    ],
+    [
+      "Code Design Decision – Always throw custom exceptions",
+      "https://github.com/getparthenon/parthenon/wiki/Design-Decision:-Throw-Custom-Exceptions"
     ]
   ],
   [
