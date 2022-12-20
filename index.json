@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-12-20, 09:44:07",
+      "https://news.ycombinator.com/item?id=34063735"
+    ],
+    [
+      "Password generator doesn't generate new password in the same session",
+      "https://bugzilla.mozilla.org/show_bug.cgi?id=1621599"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 09:41:44",
       "https://news.ycombinator.com/item?id=34063720"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2022-12-20, 03:15:30",
-      "https://news.ycombinator.com/item?id=34061110"
-    ],
-    [
-      "Valve is paying open source developers to keep Steam Deck playable",
-      "https://www.pcgamer.com/valve-is-paying-a-whole-lot-of-developers-to-keep-the-steam-decks-open-source-software-going/"
-    ]
-  ],
-  [
-    [
       "2022-12-20, 00:11:30",
       "https://news.ycombinator.com/item?id=34059744"
     ],
@@ -187,16 +187,6 @@
     [
       "Fast memcpy, a system design",
       "https://www.sigarch.org/fast-memcpy-a-system-design/"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 22:00:06",
-      "https://news.ycombinator.com/item?id=34058358"
-    ],
-    [
-      "Show HN: Yahtzee and Poker and Cosmic Horror = Pine Tar Poker",
-      "https://www.pinetarpoker.com"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "How to draw ugly lines fast",
       "https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin"
+    ]
+  ],
+  [
+    [
+      "2022-12-19, 08:45:32",
+      "https://news.ycombinator.com/item?id=34049896"
+    ],
+    [
+      "MelonJS – a fresh and lightweight JavaScript game engine",
+      "https://github.com/melonjs/melonJS"
     ]
   ],
   [
