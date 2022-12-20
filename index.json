@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-12-20, 03:33:49",
-      "https://news.ycombinator.com/item?id=34061214"
+      "2022-12-20, 03:32:58",
+      "https://news.ycombinator.com/item?id=34061206"
     ],
     [
-      "Waydroid: A container-based approach to boot a full Android system on GNU/Linux",
-      "https://waydro.id/"
+      "“Laws” of software estimation for complex work (2021)",
+      "https://mdalmijn.com/p/11-laws-of-software-estimation-for-complex-work"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 03:26:10",
+      "https://news.ycombinator.com/item?id=34061180"
+    ],
+    [
+      "Gary Gensler got cryptocurrency right",
+      "https://www.economicliberties.us/our-work/gary-gensler-got-it-right/"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 03:25:06",
+      "https://news.ycombinator.com/item?id=34061174"
+    ],
+    [
+      "Ask HN: One of our Azure accounts was hacked – how to negotiate the bill?",
+      "https://news.ycombinator.com/item?id=34061174"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=34058421"
     ],
     [
-      "Fast memcpy, A System Design",
+      "Fast memcpy, a system design",
       "https://www.sigarch.org/fast-memcpy-a-system-design/"
     ]
   ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-12-19, 17:48:02",
-      "https://news.ycombinator.com/item?id=34055058"
-    ],
-    [
-      "Binance's books are a black box, filings show, as it tries to rally confidence",
-      "https://www.reuters.com/technology/binances-books-are-black-box-filings-show-crypto-giant-tries-rally-confidence-2022-12-19/"
-    ]
-  ],
-  [
-    [
       "2022-12-19, 17:22:07",
       "https://news.ycombinator.com/item?id=34054718"
     ],
@@ -227,16 +237,6 @@
     [
       "Did insurance fire brigades let uninsured buildings burn?",
       "https://www.tomscott.com/corrections/firemarks/"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 14:25:40",
-      "https://news.ycombinator.com/item?id=34052363"
-    ],
-    [
-      "Code Design Decision – Always throw custom exceptions",
-      "https://github.com/getparthenon/parthenon/wiki/Design-Decision:-Throw-Custom-Exceptions"
     ]
   ],
   [
