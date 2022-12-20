@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-12-20, 04:23:25",
+      "https://news.ycombinator.com/item?id=34061511"
+    ],
+    [
+      "Towards a More Open Secure Element Chip",
+      "https://www.bunniestudios.com/blog/?p=6606"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 03:41:41",
       "https://news.ycombinator.com/item?id=34061255"
     ],
     [
       "How to break the “get me everything” cycle",
       "https://leaddev.com/process/how-break-get-me-everything-cycle"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 03:41:21",
+      "https://news.ycombinator.com/item?id=34061252"
+    ],
+    [
+      "Boring Python: Code Quality",
+      "https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/"
     ]
   ],
   [
@@ -87,26 +107,6 @@
     [
       "Implementing ‘strlen’ using SVE",
       "https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 22:31:47",
-      "https://news.ycombinator.com/item?id=34058711"
-    ],
-    [
-      "Zstandard – Fast real-time compression algorithm",
-      "https://github.com/facebook/zstd"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 22:30:12",
-      "https://news.ycombinator.com/item?id=34058691"
-    ],
-    [
-      "Ryugu isotopes suggest it formed close to comets along with some unique minerals",
-      "https://phys.org/news/2022-12-isotopic-signatures-ryugu-comets-unique.html"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2022-12-19, 14:25:40",
+      "https://news.ycombinator.com/item?id=34052363"
+    ],
+    [
+      "Code Design Decision – Always throw custom exceptions",
+      "https://github.com/getparthenon/parthenon/wiki/Design-Decision:-Throw-Custom-Exceptions"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 14:16:51",
       "https://news.ycombinator.com/item?id=34052268"
     ],
     [
       "Structuring Clojure applications",
       "https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 13:39:34",
-      "https://news.ycombinator.com/item?id=34051868"
-    ],
-    [
-      "Evidence that the evolution of mammals began in the Southern Hemisphere",
-      "https://www.australiangeographic.com.au/news/2022/12/discovery-identifies-australia-as-birthplace-of-all-modern-mammals/"
     ]
   ],
   [
