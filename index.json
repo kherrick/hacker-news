@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-21, 12:49:27",
+      "https://news.ycombinator.com/item?id=34080026"
+    ],
+    [
+      "Ink – inkle's narrative scripting language",
+      "https://www.inklestudios.com/ink/"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 12:41:44",
+      "https://news.ycombinator.com/item?id=34079942"
+    ],
+    [
+      "‘My power’s low’: NASA’s Insight Mars lander prepares to sign off",
+      "https://www.theguardian.com/science/2022/dec/20/my-powers-really-low-nasas-insight-mars-rover-signs-off-from-the-red-planet"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 12:19:06",
       "https://news.ycombinator.com/item?id=34079690"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34079543"
     ],
     [
-      "I still use Flash in 2022",
+      "I still use Flash",
       "https://foon.uk/how-flash-2022/"
     ]
   ],
@@ -71,26 +91,6 @@
   ],
   [
     [
-      "2022-12-21, 11:15:42",
-      "https://news.ycombinator.com/item?id=34079186"
-    ],
-    [
-      "I trained ChatGPT on my childhood journal entries to talk to my inner child",
-      "https://www.businessinsider.com/i-trained-ai-chatbot-on-my-journals-inner-child-2022-12"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 10:53:51",
-      "https://news.ycombinator.com/item?id=34079034"
-    ],
-    [
-      "Older iPhones Bricked for Being Too Outdated – Locking Users from Their Data",
-      "https://www.youtube.com/watch?v=UxaCUugPoRY"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 10:37:37",
       "https://news.ycombinator.com/item?id=34078942"
     ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34078935"
     ],
     [
-      "Wells Fargo Penalties Since 2000: $22,081,458,643",
+      "Wells Fargo Penalties Since 2000: $22B",
       "https://violationtracker.goodjobsfirst.org/?parent=wells-fargo&order=penalty&sort=desc"
     ]
   ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=34078422"
     ],
     [
-      "C64 OS v1.0 Release",
+      "C64 OS v1.0",
       "https://www.c64os.com/post/c64osv1release"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=34078247"
     ],
     [
-      "ThreeUK Is Blocking Tutanota",
+      "Threeuk is blocking Tutanota",
       "https://tutanota.com/blog/posts/threeuk-blocks-tutanota"
     ]
   ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2022-12-21, 06:00:34",
+      "https://news.ycombinator.com/item?id=34077221"
+    ],
+    [
+      "A not so unfortunate sharp edge in Pipenv",
+      "https://0xda.de/blog/2022/12/a-not-so-unfortunate-sharp-edge-in-pipenv/"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 05:45:41",
       "https://news.ycombinator.com/item?id=34077125"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2022-12-21, 03:59:39",
-      "https://news.ycombinator.com/item?id=34076476"
-    ],
-    [
-      "Number Stations and Enigma Stations",
-      "https://www.sigidwiki.com/wiki/Category:Numbers_Stations"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 02:44:24",
       "https://news.ycombinator.com/item?id=34076077"
     ],
     [
       "Stable Diffusion 2 Depth Guided model: architecture photos from dollhouse",
       "https://twitter.com/justlv/status/1605276764598665217"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 22:00:30",
-      "https://news.ycombinator.com/item?id=34073298"
-    ],
-    [
-      "Signed distance functions in 46 lines of Python",
-      "https://vgel.me/posts/donut/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "January 1, 2023 is Public Domain Day: Works from 1927 are open to all",
       "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 16:26:17",
+      "https://news.ycombinator.com/item?id=34068129"
+    ],
+    [
+      "Hacking Go's runtime with generics",
+      "https://www.dolthub.com/blog/2022-12-19-maphash/"
     ]
   ],
   [
