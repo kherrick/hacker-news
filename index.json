@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=34085435"
     ],
     [
-      "Jitsi: More secure, more flexible, and completely free video conferencing",
+      "Jitsi: More secure, more flexible, free video conferencing",
       "https://jitsi.org/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 18:56:00",
-      "https://news.ycombinator.com/item?id=34084782"
-    ],
-    [
-      "Ask HN: How to build F-You Skills",
-      "https://news.ycombinator.com/item?id=34084782"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=34078942"
     ],
     [
-      "Apple launches Freeform: a powerful new app designed for creative collaboration",
+      "Freeform: a new app designed for creative collaboration",
       "https://www.apple.com/newsroom/2022/12/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration/"
     ]
   ],
@@ -271,22 +261,32 @@
   ],
   [
     [
-      "2022-12-21, 10:06:31",
-      "https://news.ycombinator.com/item?id=34078731"
-    ],
-    [
-      "Crochet: A little hook to improve attention?",
-      "https://www.medrxiv.org/content/10.1101/2022.12.17.22283453v1"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 09:39:39",
       "https://news.ycombinator.com/item?id=34078532"
     ],
     [
       "WebAssembly: Docker Without Containers",
       "https://wasmlabs.dev/articles/docker-without-containers/"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 09:15:14",
+      "https://news.ycombinator.com/item?id=34078364"
+    ],
+    [
+      "Mastodon's federation model encourages specific instances with peculiar rules",
+      "https://but-her-flies.bearblog.dev/mastodon-is-not-a-good-social-network/"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 08:53:48",
+      "https://news.ycombinator.com/item?id=34078225"
+    ],
+    [
+      "Web IDE Beta",
+      "https://docs.gitlab.com/ee/user/project/web_ide_beta/"
     ]
   ],
   [
