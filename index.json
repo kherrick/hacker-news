@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-21, 00:53:01",
+      "https://news.ycombinator.com/item?id=34075254"
+    ],
+    [
+      "Gut microbiome affects motivation to exercise in mice: study",
+      "https://singularityhub.com/2022/12/20/to-hack-your-motivation-to-exercise-you-may-just-need-to-tweak-your-gut-microbiome/"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 00:09:58",
       "https://news.ycombinator.com/item?id=34074843"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2022-12-20, 21:03:27",
+      "https://news.ycombinator.com/item?id=34072516"
+    ],
+    [
+      "An extensive letter from Edsger Dijkstra to my 19 year old self (1989)",
+      "https://mastodon.online/@raph/109547934082265439"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 20:54:41",
       "https://news.ycombinator.com/item?id=34072394"
     ],
@@ -107,16 +127,6 @@
     [
       "Deep work. Essentialism in asynchronous culture",
       "https://jorzel.github.io/deep-work-essentialism-in-asynchronous-culture/"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 19:40:28",
-      "https://news.ycombinator.com/item?id=34071325"
-    ],
-    [
-      "Potassco: The Answer Set Solving Collection",
-      "https://potassco.org/"
     ]
   ],
   [
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=34067173"
     ],
     [
-      "Deriving a Bit-Twiddling Hack: Signed Integer Overflow",
+      "Deriving a bit-twiddling hack: Signed integer overflow",
       "https://grack.com/blog/2022/12/20/deriving-a-bit-twiddling-hack/"
     ]
   ],
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2022-12-20, 12:05:53",
-      "https://news.ycombinator.com/item?id=34064764"
+      "2022-12-20, 12:44:33",
+      "https://news.ycombinator.com/item?id=34065087"
     ],
     [
-      "The topologist’s world map (2020)",
-      "https://tafc.space/qna/the-topologists-world-map/"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 11:54:23",
-      "https://news.ycombinator.com/item?id=34064652"
-    ],
-    [
-      "The “Wavefunction Collapse” generation algorithm explained clearly (2018)",
-      "https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/"
+      "Atari 2600 Manual: Basic Programming (1979)",
+      "https://archive.org/details/Basic_Programming_1979_Atari_US_a"
     ]
   ],
   [
