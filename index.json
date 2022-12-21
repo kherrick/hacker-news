@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-21, 11:57:35",
+      "https://news.ycombinator.com/item?id=34079496"
+    ],
+    [
+      "The Physics of baking good Pizza (2018)",
+      "https://arxiv.org/abs/1806.08790"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 11:32:49",
+      "https://news.ycombinator.com/item?id=34079299"
+    ],
+    [
+      "I failed 3 job applications, here's what I learned",
+      "https://alexewerlof.substack.com/p/3-job-applications"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 11:15:42",
       "https://news.ycombinator.com/item?id=34079186"
     ],
@@ -27,6 +47,16 @@
     [
       "Older iPhones Bricked for Being Too Outdated – Locking Users from Their Data",
       "https://www.youtube.com/watch?v=UxaCUugPoRY"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 10:37:37",
+      "https://news.ycombinator.com/item?id=34078942"
+    ],
+    [
+      "Apple launches Freeform: a powerful new app designed for creative collaboration",
+      "https://www.apple.com/newsroom/2022/12/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2022-12-21, 00:00:03",
-      "https://news.ycombinator.com/item?id=34074744"
-    ],
-    [
-      "Being Glue (2019)",
-      "https://noidea.dog/glue"
-    ]
-  ],
-  [
-    [
       "2022-12-20, 23:28:38",
       "https://news.ycombinator.com/item?id=34074380"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-12-20, 20:54:41",
-      "https://news.ycombinator.com/item?id=34072394"
-    ],
-    [
-      "Bach’s Accidental Masterpiece",
-      "https://www.newstatesman.com/culture/music/2022/11/well-tempered-clavier-bach-300-years-accidental-masterpiece"
-    ]
-  ],
-  [
-    [
       "2022-12-20, 20:51:07",
       "https://news.ycombinator.com/item?id=34072349"
     ],
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2022-12-20, 20:12:53",
-      "https://news.ycombinator.com/item?id=34071820"
+      "2022-12-20, 16:26:17",
+      "https://news.ycombinator.com/item?id=34068129"
     ],
     [
-      "Deep work. Essentialism in asynchronous culture",
-      "https://jorzel.github.io/deep-work-essentialism-in-asynchronous-culture/"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 17:40:21",
-      "https://news.ycombinator.com/item?id=34069305"
-    ],
-    [
-      "There oughta be a Game Boy capture cartridge",
-      "https://there.oughta.be/a/game-boy-capture-cartridge"
+      "Hacking Go's runtime with generics",
+      "https://www.dolthub.com/blog/2022-12-19-maphash/"
     ]
   ],
   [
