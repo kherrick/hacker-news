@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-12-21, 00:09:58",
+      "https://news.ycombinator.com/item?id=34074843"
+    ],
+    [
+      "The recent Bank of Japan meeting and its implications for markets",
+      "https://themacrocompass.substack.com/p/bank-of-japan-surprise"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 00:00:03",
+      "https://news.ycombinator.com/item?id=34074744"
+    ],
+    [
+      "Being Glue (2019)",
+      "https://noidea.dog/glue"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 22:50:34",
       "https://news.ycombinator.com/item?id=34073950"
     ],
     [
-      "Devbox 0.2.0: Automatic Nix Installer, Plugins, and Background Services",
+      "Devbox 0.2.0: Automatic Nix installer, plugins, and background services",
       "https://www.jetpack.io/blog/devbox-0-2-0/"
     ]
   ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34073877"
     ],
     [
-      "Mozilla to Explore Healthy Social Media Alternative",
+      "Mozilla to explore healthy social media alternative",
       "https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/"
     ]
   ],
@@ -37,6 +57,16 @@
     [
       "Signed distance functions in 46 lines of Python",
       "https://vgel.me/posts/donut/"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 21:25:02",
+      "https://news.ycombinator.com/item?id=34072801"
+    ],
+    [
+      "People took some potassium and lost some weight",
+      "https://slimemoldtimemold.com/2022/12/20/people-took-some-potassium-and-lost-some-weight/"
     ]
   ],
   [
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2022-12-20, 19:58:54",
-      "https://news.ycombinator.com/item?id=34071611"
-    ],
-    [
-      "Serial Reader: Reading Schedule Builder",
-      "https://www.serialreader.org/schedule-builder/2023/"
-    ]
-  ],
-  [
-    [
       "2022-12-20, 19:40:28",
       "https://news.ycombinator.com/item?id=34071325"
     ],
     [
       "Potassco: The Answer Set Solving Collection",
       "https://potassco.org/"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 18:51:28",
-      "https://news.ycombinator.com/item?id=34070451"
-    ],
-    [
-      "MariaDB plunges nearly 40% in NYSE debut after SPAC merger",
-      "https://www.bizjournals.com/sanjose/news/2022/12/19/mariadb-goes-public-in-spac-merger.html"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2022-12-20, 17:25:36",
-      "https://news.ycombinator.com/item?id=34069074"
-    ],
-    [
-      "RapidSlide Adjustable Wrench",
-      "https://mechanomy.com/posts/221212_slideWrench/"
-    ]
-  ],
-  [
-    [
       "2022-12-20, 17:00:01",
       "https://news.ycombinator.com/item?id=34068669"
     ],
@@ -167,6 +167,16 @@
     [
       "Wells Fargo to pay $3.7B for mistreating customers",
       "https://finance.yahoo.com/news/wells-fargo-reaches-record-3-135449093.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 15:26:42",
+      "https://news.ycombinator.com/item?id=34067173"
+    ],
+    [
+      "Deriving a Bit-Twiddling Hack: Signed Integer Overflow",
+      "https://grack.com/blog/2022/12/20/deriving-a-bit-twiddling-hack/"
     ]
   ],
   [
@@ -201,21 +211,11 @@
   ],
   [
     [
-      "2022-12-20, 14:42:35",
-      "https://news.ycombinator.com/item?id=34066527"
-    ],
-    [
-      "The Fermi paradox revisited: Technosignatures and the contact era",
-      "https://arxiv.org/abs/2211.16505"
-    ]
-  ],
-  [
-    [
       "2022-12-20, 13:43:10",
       "https://news.ycombinator.com/item?id=34065735"
     ],
     [
-      "Control-Flow Integrity",
+      "Control-flow integrity",
       "https://maskray.me/blog/2022-12-18-control-flow-integrity"
     ]
   ],
@@ -247,6 +247,16 @@
     [
       "Point-E: Point cloud diffusion for 3D model synthesis",
       "https://github.com/openai/point-e"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 10:39:51",
+      "https://news.ycombinator.com/item?id=34064091"
+    ],
+    [
+      "Better String Library (2015)",
+      "https://raw.githubusercontent.com/websnarf/bstrlib/master/bstrlib.txt"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "More than 100 new designs discovered in Peru’s ancient Nazca plain",
       "https://www.theguardian.com/world/2022/dec/19/peru-nazca-plain-ancient-art-new-designs-discovered"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 08:45:32",
-      "https://news.ycombinator.com/item?id=34049896"
-    ],
-    [
-      "MelonJS – a fresh and lightweight JavaScript game engine",
-      "https://github.com/melonjs/melonJS"
     ]
   ]
 ]
