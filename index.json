@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-21, 23:32:05",
+      "https://news.ycombinator.com/item?id=34087808"
+    ],
+    [
+      "All 1,400 Google Chrome CLI flags",
+      "https://peter.sh/experiments/chromium-command-line-switches/"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 23:21:18",
+      "https://news.ycombinator.com/item?id=34087708"
+    ],
+    [
+      "Global Chipmakers to Spend US$500B",
+      "https://semiwiki.com/forum/index.php?threads/global-chip-industry-to-invest-more-than-us-500b-in-new-plants-by-2024-says-semi.17225/"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 23:12:00",
       "https://news.ycombinator.com/item?id=34087626"
     ],
@@ -27,6 +47,16 @@
     [
       "Nim version 2.0.0 release candidate",
       "https://nim-lang.org/blog/2022/12/21/version-20-rc.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 21:26:59",
+      "https://news.ycombinator.com/item?id=34086617"
+    ],
+    [
+      "Implementing a Toy Optimizer",
+      "https://www.pypy.org/posts/2022/07/toy-optimizer.html"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Checked C",
       "https://github.com/microsoft/checkedc"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 18:21:47",
-      "https://news.ycombinator.com/item?id=34084345"
-    ],
-    [
-      "Show HN: How to use ChatGPT+ARKit to script experiences with natural language",
-      "https://github.com/trzy/ChatARKit"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-12-21, 12:49:27",
-      "https://news.ycombinator.com/item?id=34080026"
-    ],
-    [
-      "Ink – Inkle's narrative scripting language",
-      "https://www.inklestudios.com/ink/"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 12:01:57",
       "https://news.ycombinator.com/item?id=34079543"
     ],
@@ -287,16 +297,6 @@
     [
       "LoRa: Field Testing Antennas",
       "https://www.sparkfun.com/news/5497"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 16:52:03",
-      "https://news.ycombinator.com/item?id=34068548"
-    ],
-    [
-      "The pie Problem: A performance assessment parable",
-      "https://geekincentives.substack.com/p/the-pie-problem"
     ]
   ]
 ]
