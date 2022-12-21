@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-21, 22:08:56",
+      "https://news.ycombinator.com/item?id=34087037"
+    ],
+    [
+      "Pixelmator Pro gets a magical, AI‑powered Deband feature",
+      "https://www.pixelmator.com/blog/2022/12/21/pixelmator-pro-gets-a-magical-ai-powered-deband-feature/"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 21:38:38",
+      "https://news.ycombinator.com/item?id=34086739"
+    ],
+    [
+      "Nim version 2.0.0 release candidate",
+      "https://nim-lang.org/blog/2022/12/21/version-20-rc.html"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 21:10:43",
       "https://news.ycombinator.com/item?id=34086445"
     ],
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2022-12-21, 17:49:36",
+      "https://news.ycombinator.com/item?id=34083940"
+    ],
+    [
+      "Pixi3D – 3D rendering library for the web",
+      "https://github.com/jnsmalm/pixi3d"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 17:10:28",
       "https://news.ycombinator.com/item?id=34083366"
     ],
@@ -107,16 +137,6 @@
     [
       "Ciro (YC S22) hiring a founding back end engineer to build an SMB search engine",
       "https://www.ycombinator.com/companies/ciro/jobs"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 16:41:47",
-      "https://news.ycombinator.com/item?id=34082958"
-    ],
-    [
-      "Palantir’s SPAC bets backfire",
-      "https://www.wsj.com/articles/palantirs-spac-bets-backfire-hitting-companys-growth-11671511333"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-12-21, 12:19:59",
-      "https://news.ycombinator.com/item?id=34079701"
-    ],
-    [
-      "DBpedia Ontology",
-      "https://www.dbpedia.org/resources/ontology/"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 12:01:57",
       "https://news.ycombinator.com/item?id=34079543"
     ],
@@ -257,16 +267,6 @@
     [
       "Mastodon's federation model encourages specific instances with peculiar rules",
       "https://but-her-flies.bearblog.dev/mastodon-is-not-a-good-social-network/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 08:53:48",
-      "https://news.ycombinator.com/item?id=34078225"
-    ],
-    [
-      "Web IDE Beta",
-      "https://docs.gitlab.com/ee/user/project/web_ide_beta/"
     ]
   ],
   [
