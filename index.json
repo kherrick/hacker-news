@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-12-21, 12:19:06",
+      "https://news.ycombinator.com/item?id=34079690"
+    ],
+    [
+      "TensorFlow Datasets (TFDS): a collection of ready-to-use datasets",
+      "https://github.com/tensorflow/datasets"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 12:18:26",
+      "https://news.ycombinator.com/item?id=34079682"
+    ],
+    [
+      "Systemd-coredump: CVE-2022-4415: local information leak",
+      "https://www.openwall.com/lists/oss-security/2022/12/21/3"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 12:12:34",
+      "https://news.ycombinator.com/item?id=34079629"
+    ],
+    [
+      "Binance caught commingling funds between US and international exchanges",
+      "https://dirtybubblemedia.substack.com/p/is-binanceus-a-fake-exchange"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 12:01:57",
+      "https://news.ycombinator.com/item?id=34079543"
+    ],
+    [
+      "I still use Flash in 2022",
+      "https://foon.uk/how-flash-2022/"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 12:01:51",
+      "https://news.ycombinator.com/item?id=34079542"
+    ],
+    [
+      "Regulating Crypto: How we move forward as an industry from here",
+      "https://www.coinbase.com/blog/regulating-crypto-how-we-move-forward-as-an-industry-from-here"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 11:57:35",
       "https://news.ycombinator.com/item?id=34079496"
     ],
@@ -27,16 +77,6 @@
     [
       "I trained ChatGPT on my childhood journal entries to talk to my inner child",
       "https://www.businessinsider.com/i-trained-ai-chatbot-on-my-journals-inner-child-2022-12"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 11:05:42",
-      "https://news.ycombinator.com/item?id=34079113"
-    ],
-    [
-      "Convicted for solving a problem the government refused to address",
-      "https://tomknighton.substack.com/p/no-one-should-be-convicted-for-solving"
     ]
   ],
   [
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2022-12-20, 23:28:38",
-      "https://news.ycombinator.com/item?id=34074380"
-    ],
-    [
-      "Reanimate: Build declarative animations with SVG and Haskell",
-      "https://reanimate.github.io/"
-    ]
-  ],
-  [
-    [
       "2022-12-20, 22:00:30",
       "https://news.ycombinator.com/item?id=34073298"
     ],
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2022-12-20, 20:51:07",
-      "https://news.ycombinator.com/item?id=34072349"
-    ],
-    [
-      "Ruby delights built into the language",
-      "https://technology.doximity.com/articles/ruby-delights-built-into-the-language"
-    ]
-  ],
-  [
-    [
       "2022-12-20, 20:50:50",
       "https://news.ycombinator.com/item?id=34072345"
     ],
     [
       "January 1, 2023 is Public Domain Day: Works from 1927 are open to all",
       "https://web.law.duke.edu/cspd/publicdomainday/2023/"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 16:26:17",
-      "https://news.ycombinator.com/item?id=34068129"
-    ],
-    [
-      "Hacking Go's runtime with generics",
-      "https://www.dolthub.com/blog/2022-12-19-maphash/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "D2 language, open source alternative to PlantUML",
       "https://d2lang.com/tour/intro/"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 04:26:31",
-      "https://news.ycombinator.com/item?id=34061531"
-    ],
-    [
-      "The US Government’s trove of apple paintings (2015)",
-      "https://kottke.org/15/11/the-us-govts-trove-of-beautiful-apple-paintings"
     ]
   ],
   [
