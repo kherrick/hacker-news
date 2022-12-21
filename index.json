@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-21, 21:26:59",
-      "https://news.ycombinator.com/item?id=34086617"
-    ],
-    [
-      "Implementing a Toy Optimizer",
-      "https://www.pypy.org/posts/2022/07/toy-optimizer.html"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 21:10:43",
       "https://news.ycombinator.com/item?id=34086445"
     ],
@@ -37,6 +27,16 @@
     [
       "Swing Ratio",
       "https://nld-intern.ds.mpg.de/swingratio/"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 20:44:29",
+      "https://news.ycombinator.com/item?id=34086158"
+    ],
+    [
+      "Ask HN: FOSS Projects Worth Donating To?",
+      "https://news.ycombinator.com/item?id=34086158"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-12-21, 11:59:07",
-      "https://news.ycombinator.com/item?id=34079516"
-    ],
-    [
-      "Bike Frame Stiffness",
-      "https://www.cyclist.co.uk/in-depth/11046/bike-frame-stiffness"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 10:37:37",
       "https://news.ycombinator.com/item?id=34078942"
     ],
@@ -267,6 +257,16 @@
     [
       "Mastodon's federation model encourages specific instances with peculiar rules",
       "https://but-her-flies.bearblog.dev/mastodon-is-not-a-good-social-network/"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 08:53:48",
+      "https://news.ycombinator.com/item?id=34078225"
+    ],
+    [
+      "Web IDE Beta",
+      "https://docs.gitlab.com/ee/user/project/web_ide_beta/"
     ]
   ],
   [
