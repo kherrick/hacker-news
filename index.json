@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-21, 21:08:49",
+      "https://news.ycombinator.com/item?id=34086421"
+    ],
+    [
+      "How “See a Satellite Tonight” Works",
+      "https://james.darpinian.com/blog/how-see-a-satellite-tonight-works"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 21:03:51",
+      "https://news.ycombinator.com/item?id=34086368"
+    ],
+    [
+      "Swing Ratio",
+      "https://nld-intern.ds.mpg.de/swingratio/"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 20:22:49",
+      "https://news.ycombinator.com/item?id=34085913"
+    ],
+    [
+      "NTSC encoding/decoding in C89 using only integers and fixed point math",
+      "https://github.com/LMP88959/NTSC-CRT"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 19:56:22",
       "https://news.ycombinator.com/item?id=34085585"
     ],
@@ -17,16 +47,6 @@
     [
       "Checked C",
       "https://github.com/microsoft/checkedc"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 18:21:47",
-      "https://news.ycombinator.com/item?id=34084345"
-    ],
-    [
-      "Show HN: How to use ChatGPT+ARKit to script experiences with natural language",
-      "https://github.com/trzy/ChatARKit"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-12-21, 12:41:44",
-      "https://news.ycombinator.com/item?id=34079942"
-    ],
-    [
-      "‘My power’s low’: NASA’s Insight Mars lander prepares to sign off",
-      "https://www.theguardian.com/science/2022/dec/20/my-powers-really-low-nasas-insight-mars-rover-signs-off-from-the-red-planet"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 12:19:59",
       "https://news.ycombinator.com/item?id=34079701"
     ],
@@ -177,16 +187,6 @@
     [
       "TensorFlow Datasets",
       "https://github.com/tensorflow/datasets"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 12:18:26",
-      "https://news.ycombinator.com/item?id=34079682"
-    ],
-    [
-      "Systemd-coredump: CVE-2022-4415: local information leak",
-      "https://www.openwall.com/lists/oss-security/2022/12/21/3"
     ]
   ],
   [
