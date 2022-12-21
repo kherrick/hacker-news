@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-12-21, 19:42:56",
-      "https://news.ycombinator.com/item?id=34085435"
-    ],
-    [
-      "Jitsi: More secure, more flexible, free video conferencing",
-      "https://jitsi.org/"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 18:29:49",
       "https://news.ycombinator.com/item?id=34084455"
     ],
@@ -31,12 +21,12 @@
   ],
   [
     [
-      "2022-12-21, 18:01:25",
-      "https://news.ycombinator.com/item?id=34084089"
+      "2022-12-21, 18:21:47",
+      "https://news.ycombinator.com/item?id=34084345"
     ],
     [
-      "Substack Outage",
-      "https://substack.com/"
+      "Show HN: How to use ChatGPT+ARKit to script experiences with natural language",
+      "https://github.com/trzy/ChatARKit"
     ]
   ],
   [
@@ -81,16 +71,6 @@
   ],
   [
     [
-      "2022-12-21, 16:29:20",
-      "https://news.ycombinator.com/item?id=34082779"
-    ],
-    [
-      "Manual scavenging: A stinking legacy of suffocation and stigma",
-      "https://www.downtoearth.org.in/news/waste/manual-scavenging-a-stinking-legacy-of-suffocation-and-stigma-61586"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 16:24:30",
       "https://news.ycombinator.com/item?id=34082718"
     ],
@@ -125,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34082022"
     ],
     [
-      "A Non-Constructive Proof of the Four Colour Theorem",
+      "A non-constructive proof of the Four Colour Theorem",
       "https://arxiv.org/abs/2212.09835"
     ]
   ],
@@ -137,16 +117,6 @@
     [
       "Philadelphia Phreakers installing free payphone",
       "https://www.nbcphiladelphia.com/news/tech/pay-phone-philadelphia/3452775/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 14:13:55",
-      "https://news.ycombinator.com/item?id=34080955"
-    ],
-    [
-      "I spent two years trying to do what Backstage does for free",
-      "https://stackoverflow.blog/2022/12/21/i-spent-two-years-trying-to-do-what-backstage-does-for-free/"
     ]
   ],
   [
@@ -175,7 +145,7 @@
       "https://news.ycombinator.com/item?id=34080026"
     ],
     [
-      "Ink – inkle's narrative scripting language",
+      "Ink – Inkle's narrative scripting language",
       "https://www.inklestudios.com/ink/"
     ]
   ],
@@ -191,12 +161,12 @@
   ],
   [
     [
-      "2022-12-21, 12:27:20",
-      "https://news.ycombinator.com/item?id=34079777"
+      "2022-12-21, 12:19:59",
+      "https://news.ycombinator.com/item?id=34079701"
     ],
     [
-      "QTS refits Dutch datacenter to warm thousands of homes with waste heat",
-      "https://www.theregister.com/2022/12/21/datacenter_district_heating/"
+      "DBpedia Ontology",
+      "https://www.dbpedia.org/resources/ontology/"
     ]
   ],
   [
@@ -205,7 +175,7 @@
       "https://news.ycombinator.com/item?id=34079690"
     ],
     [
-      "TensorFlow Datasets (TFDS): a collection of ready-to-use datasets",
+      "TensorFlow Datasets",
       "https://github.com/tensorflow/datasets"
     ]
   ],
@@ -235,7 +205,7 @@
       "https://news.ycombinator.com/item?id=34079516"
     ],
     [
-      "Bike frame stiffness: Why it matters and all you need to know",
+      "Bike Frame Stiffness",
       "https://www.cyclist.co.uk/in-depth/11046/bike-frame-stiffness"
     ]
   ],
@@ -255,8 +225,18 @@
       "https://news.ycombinator.com/item?id=34078929"
     ],
     [
-      "A Swarm of Robots Built This Tunnel [video]",
+      "A swarm of robots built this tunnel [video]",
       "https://www.youtube.com/watch?v=bfJY0syocfU"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 10:06:31",
+      "https://news.ycombinator.com/item?id=34078731"
+    ],
+    [
+      "Crochet: A little hook to improve attention?",
+      "https://www.medrxiv.org/content/10.1101/2022.12.17.22283453v1"
     ]
   ],
   [
@@ -295,8 +275,28 @@
       "https://news.ycombinator.com/item?id=34074069"
     ],
     [
-      "Cormac McCarthy Loves a Good Diner",
+      "Cormac McCarthy loves a good diner",
       "https://www.nytimes.com/2022/12/19/books/cormac-mccarthy-food-passenger.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 20:55:51",
+      "https://news.ycombinator.com/item?id=34072408"
+    ],
+    [
+      "The PDR Index",
+      "https://publicdomainreview.org/blog/2022/12/introducing-the-pdr-index/"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 16:52:03",
+      "https://news.ycombinator.com/item?id=34068548"
+    ],
+    [
+      "The pie Problem: A performance assessment parable",
+      "https://geekincentives.substack.com/p/the-pie-problem"
     ]
   ]
 ]
