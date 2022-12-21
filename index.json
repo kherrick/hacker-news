@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-21, 19:56:22",
+      "https://news.ycombinator.com/item?id=34085585"
+    ],
+    [
+      "OpenJDK Proposes Project Galahad to Merge GraalVM Native Compilation",
+      "https://www.infoq.com/news/2022/12/openjdk-galahad-Dec22/"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 18:56:00",
       "https://news.ycombinator.com/item?id=34084782"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34083366"
     ],
     [
-      "Show HN: I store my critical secrets and document, and communicate privately",
+      "Show HN: Portable Secret – How I store my secrets and communicate privately",
       "https://mprimi.github.io/portable-secret/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34082958"
     ],
     [
-      "Palantir’s SPAC Bets Backfire",
+      "Palantir’s SPAC bets backfire",
       "https://www.wsj.com/articles/palantirs-spac-bets-backfire-hitting-companys-growth-11671511333"
     ]
   ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=34080465"
     ],
     [
-      "Scientists created male and female cells from a single person",
+      "Scientists generate XX and XY cells from a single person",
       "https://www.scientificamerican.com/article/scientists-created-male-and-female-cells-from-a-single-person/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The Generation Ship Model of Software Development (2014)",
       "https://medium.com/@wm/the-generation-ship-model-of-software-development-5ef89a74854b"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 20:55:51",
-      "https://news.ycombinator.com/item?id=34072408"
-    ],
-    [
-      "The PDR Index",
-      "https://publicdomainreview.org/blog/2022/12/introducing-the-pdr-index/"
     ]
   ]
 ]
