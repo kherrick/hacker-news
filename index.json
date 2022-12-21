@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-21, 21:26:59",
+      "https://news.ycombinator.com/item?id=34086617"
+    ],
+    [
+      "Implementing a Toy Optimizer",
+      "https://www.pypy.org/posts/2022/07/toy-optimizer.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 21:10:43",
+      "https://news.ycombinator.com/item?id=34086445"
+    ],
+    [
+      "All American Five radio receivers",
+      "https://en.wikipedia.org/wiki/All_American_Five"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 21:08:49",
       "https://news.ycombinator.com/item?id=34086421"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2022-12-21, 16:30:46",
-      "https://news.ycombinator.com/item?id=34082799"
-    ],
-    [
-      "The Decline of the City Grid",
-      "https://www.economist.com/interactive/christmas-specials/2022/12/20/the-decline-of-the-city-grid"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 16:24:30",
       "https://news.ycombinator.com/item?id=34082718"
     ],
@@ -107,16 +117,6 @@
     [
       "Raytheon completes engine run of hybrid-electric flight demonstrator",
       "https://www.timesaerospace.aero:443/news/general-aviation/raytheon-completes-engine-run-of-hybrid-electric-flight-demonstrator"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 16:09:57",
-      "https://news.ycombinator.com/item?id=34082515"
-    ],
-    [
-      "2022 report of The Program, my fiction podcast launched on HN",
-      "https://programaudioseries.com/the-program-results-4/"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "DBpedia Ontology",
       "https://www.dbpedia.org/resources/ontology/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 12:19:06",
-      "https://news.ycombinator.com/item?id=34079690"
-    ],
-    [
-      "TensorFlow Datasets",
-      "https://github.com/tensorflow/datasets"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Cormac McCarthy loves a good diner",
       "https://www.nytimes.com/2022/12/19/books/cormac-mccarthy-food-passenger.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 22:42:56",
+      "https://news.ycombinator.com/item?id=34073834"
+    ],
+    [
+      "LoRa: Field Testing Antennas",
+      "https://www.sparkfun.com/news/5497"
     ]
   ],
   [
