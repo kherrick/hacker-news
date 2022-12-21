@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-21, 04:33:46",
+      "https://news.ycombinator.com/item?id=34076685"
+    ],
+    [
+      "3M to end 'forever chemicals' output",
+      "https://www.reuters.com/business/3m-stop-making-forever-chemicals-take-up-23-bln-charge-2022-12-20/"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 03:59:39",
       "https://news.ycombinator.com/item?id=34076476"
     ],
@@ -31,32 +41,22 @@
   ],
   [
     [
-      "2022-12-21, 00:53:01",
-      "https://news.ycombinator.com/item?id=34075254"
-    ],
-    [
-      "Gut microbiome affects motivation to exercise in mice: study",
-      "https://singularityhub.com/2022/12/20/to-hack-your-motivation-to-exercise-you-may-just-need-to-tweak-your-gut-microbiome/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 00:09:58",
-      "https://news.ycombinator.com/item?id=34074843"
-    ],
-    [
-      "The recent Bank of Japan meeting and its implications for markets",
-      "https://themacrocompass.substack.com/p/bank-of-japan-surprise"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 00:00:03",
       "https://news.ycombinator.com/item?id=34074744"
     ],
     [
       "Being Glue (2019)",
       "https://noidea.dog/glue"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 23:28:38",
+      "https://news.ycombinator.com/item?id=34074380"
+    ],
+    [
+      "Reanimate: Build declarative animations with SVG and Haskell",
+      "https://reanimate.github.io/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-12-20, 15:26:42",
-      "https://news.ycombinator.com/item?id=34067173"
-    ],
-    [
-      "Deriving a bit-twiddling hack: Signed integer overflow",
-      "https://grack.com/blog/2022/12/20/deriving-a-bit-twiddling-hack/"
-    ]
-  ],
-  [
-    [
       "2022-12-20, 15:23:07",
       "https://news.ycombinator.com/item?id=34067109"
     ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2022-12-20, 11:31:21",
+      "https://news.ycombinator.com/item?id=34064477"
+    ],
+    [
+      "Interactive Data Analysis with Quibbler",
+      "https://github.com/Technion-Kishony-lab/quibbler"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 11:15:49",
       "https://news.ycombinator.com/item?id=34064345"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2022-12-20, 10:39:51",
-      "https://news.ycombinator.com/item?id=34064091"
-    ],
-    [
-      "Better String Library (2015)",
-      "https://raw.githubusercontent.com/websnarf/bstrlib/master/bstrlib.txt"
-    ]
-  ],
-  [
-    [
       "2022-12-20, 10:18:11",
       "https://news.ycombinator.com/item?id=34063931"
     ],
     [
       "Upgrading my old Chumby 8 Linux kernel",
       "https://www.downtowndougbrown.com/2022/12/upgrading-my-old-chumby-8-linux-kernel-part-1-u-boot/"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 08:27:04",
+      "https://news.ycombinator.com/item?id=34063132"
+    ],
+    [
+      "Safety Comes First (1993)",
+      "https://www.dg-aviation.de/en/library/safety-comes-first"
     ]
   ],
   [
