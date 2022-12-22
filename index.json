@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-22, 05:55:35",
+      "https://news.ycombinator.com/item?id=34090294"
+    ],
+    [
+      "How Apple names things",
+      "https://nicolas.kruchten.com/content/2022/12/apple_tm/"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 04:28:41",
+      "https://news.ycombinator.com/item?id=34089796"
+    ],
+    [
+      "Tattoos and clothing in sixteenth-century Roanoke",
+      "https://www.laphamsquarterly.org/roundtable/body-talk"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 02:05:14",
       "https://news.ycombinator.com/item?id=34088840"
     ],
@@ -61,6 +81,36 @@
   ],
   [
     [
+      "2022-12-21, 23:25:23",
+      "https://news.ycombinator.com/item?id=34087740"
+    ],
+    [
+      "Inform is a programming language for creating interactive fiction",
+      "https://ganelson.github.io/inform-website/"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 22:55:47",
+      "https://news.ycombinator.com/item?id=34087479"
+    ],
+    [
+      "Roll or Don’t",
+      "https://www.rollordont.com/"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 22:50:19",
+      "https://news.ycombinator.com/item?id=34087426"
+    ],
+    [
+      "Against All Applications",
+      "https://experimentalhistory.substack.com/p/against-all-applications"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 22:08:56",
       "https://news.ycombinator.com/item?id=34087037"
     ],
@@ -81,16 +131,6 @@
   ],
   [
     [
-      "2022-12-21, 21:26:59",
-      "https://news.ycombinator.com/item?id=34086617"
-    ],
-    [
-      "Implementing a Toy Optimizer",
-      "https://www.pypy.org/posts/2022/07/toy-optimizer.html"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 21:11:54",
       "https://news.ycombinator.com/item?id=34086454"
     ],
@@ -107,6 +147,26 @@
     [
       "How “See a Satellite Tonight” Works",
       "https://james.darpinian.com/blog/how-see-a-satellite-tonight-works"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 21:08:23",
+      "https://news.ycombinator.com/item?id=34086416"
+    ],
+    [
+      "Programming as Play",
+      "https://austinhenley.com/blog/programmingasplay.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 21:07:56",
+      "https://news.ycombinator.com/item?id=34086411"
+    ],
+    [
+      "Computer Security Technology Planning Study (1972) [pdf]",
+      "https://apps.dtic.mil/sti/pdfs/AD0758206.pdf"
     ]
   ],
   [
@@ -151,32 +211,12 @@
   ],
   [
     [
-      "2022-12-21, 20:22:16",
-      "https://news.ycombinator.com/item?id=34085906"
-    ],
-    [
-      "Using ChatGPT to make Bash palatable",
-      "https://brev.dev/blog/ai-wont-replace-you-write-bash"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 18:29:49",
       "https://news.ycombinator.com/item?id=34084455"
     ],
     [
       "Checked C",
       "https://github.com/microsoft/checkedc"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 17:49:36",
-      "https://news.ycombinator.com/item?id=34083940"
-    ],
-    [
-      "Pixi3D – 3D rendering library for the web",
-      "https://github.com/jnsmalm/pixi3d"
     ]
   ],
   [
@@ -191,42 +231,22 @@
   ],
   [
     [
+      "2022-12-21, 17:00:42",
+      "https://news.ycombinator.com/item?id=34083233"
+    ],
+    [
+      "Ciro (YC S22) hiring a founding back end engineer to build an SMB search engine",
+      "https://www.ycombinator.com/companies/ciro/jobs"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 16:30:46",
       "https://news.ycombinator.com/item?id=34082799"
     ],
     [
       "The Decline of the City Grid",
       "https://www.economist.com/interactive/christmas-specials/2022/12/20/the-decline-of-the-city-grid"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 15:36:07",
-      "https://news.ycombinator.com/item?id=34082022"
-    ],
-    [
-      "A non-constructive proof of the Four Colour Theorem",
-      "https://arxiv.org/abs/2212.09835"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 15:26:05",
-      "https://news.ycombinator.com/item?id=34081858"
-    ],
-    [
-      "Philadelphia Phreakers installing free payphone",
-      "https://www.nbcphiladelphia.com/news/tech/pay-phone-philadelphia/3452775/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 13:39:16",
-      "https://news.ycombinator.com/item?id=34080551"
-    ],
-    [
-      "Getting Takahē to Run on Piku",
-      "https://taoofmac.com/space/blog/2022/12/21/0900"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Interview with Martin Hellman of Diffie-Hellman (2004)",
       "https://conservancy.umn.edu/bitstream/handle/11299/107353/oh375mh.pdf?sequence=1&isAllowed=y"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 23:01:44",
-      "https://news.ycombinator.com/item?id=34074069"
-    ],
-    [
-      "Cormac McCarthy loves a good diner",
-      "https://www.nytimes.com/2022/12/19/books/cormac-mccarthy-food-passenger.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 22:42:56",
-      "https://news.ycombinator.com/item?id=34073834"
-    ],
-    [
-      "LoRa: Field Testing Antennas",
-      "https://www.sparkfun.com/news/5497"
     ]
   ]
 ]
