@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-12-22, 17:20:21",
+      "https://news.ycombinator.com/item?id=34095815"
+    ],
+    [
+      "What Happens When a Group of 12-Year-Olds Left with No Supervision for 5 Days?",
+      "https://kottke.org/22/12/boys-girls-alone"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 16:39:07",
       "https://news.ycombinator.com/item?id=34095258"
     ],
@@ -21,21 +31,11 @@
   ],
   [
     [
-      "2022-12-22, 16:28:25",
-      "https://news.ycombinator.com/item?id=34095107"
-    ],
-    [
-      "Even the FBI says you should use an ad blocker",
-      "https://techcrunch.com/2022/12/22/fbi-ad-blocker/"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 16:23:01",
       "https://news.ycombinator.com/item?id=34095022"
     ],
     [
-      "Hypercard on the Archive",
+      "Hypercard on the Archive (2017)",
       "https://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-years-of-hypercard/"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34093597"
     ],
     [
-      "Ask HN: In depth sites for various industry's news?",
+      "Ask HN: In-depth sites for various industries' news?",
       "https://news.ycombinator.com/item?id=34093597"
     ]
   ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=34093025"
     ],
     [
-      "A Year of Building for the Terminal",
+      "A year of building for the terminal",
       "https://textual.textualize.io/blog/2022/12/20/a-year-of-building-for-the-terminal/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=34085233"
     ],
     [
-      "Whoops: Linux's Strcmp() for the M68k Has Always Been Broken",
+      "Linux's strcmp() for the m68k has always been broken",
       "https://www.phoronix.com/news/Linux-m68k-strcmp-Always-Broken"
     ]
   ]
