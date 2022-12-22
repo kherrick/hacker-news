@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-22, 00:53:51",
+      "https://news.ycombinator.com/item?id=34088370"
+    ],
+    [
+      "Avoid exception throwing in performance-sensitive code",
+      "https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 23:32:05",
       "https://news.ycombinator.com/item?id=34087808"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2022-12-21, 23:21:18",
-      "https://news.ycombinator.com/item?id=34087708"
-    ],
-    [
-      "Global Chipmakers to Spend US$500B",
-      "https://semiwiki.com/forum/index.php?threads/global-chip-industry-to-invest-more-than-us-500b-in-new-plants-by-2024-says-semi.17225/"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 22:08:56",
       "https://news.ycombinator.com/item?id=34087037"
     ],
     [
       "Pixelmator Pro gets a magical, AI‑powered Deband feature",
       "https://www.pixelmator.com/blog/2022/12/21/pixelmator-pro-gets-a-magical-ai-powered-deband-feature/"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 22:06:01",
+      "https://news.ycombinator.com/item?id=34087000"
+    ],
+    [
+      "The End of Programming",
+      "https://cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-12-21, 13:30:45",
-      "https://news.ycombinator.com/item?id=34080465"
-    ],
-    [
-      "Scientists generate XX and XY cells from a single person",
-      "https://www.scientificamerican.com/article/scientists-created-male-and-female-cells-from-a-single-person/"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 13:26:46",
       "https://news.ycombinator.com/item?id=34080419"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-12-21, 11:57:43",
+      "https://news.ycombinator.com/item?id=34079497"
+    ],
+    [
+      "Why did the flywheel hybrid system never catch on for road cars? (2021)",
+      "https://arstechnica.com/cars/2021/02/whatever-happened-to-williams-f1s-flywheel-hybrid-idea/"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 10:37:37",
       "https://news.ycombinator.com/item?id=34078942"
     ],
@@ -257,16 +267,6 @@
     [
       "A swarm of robots built this tunnel [video]",
       "https://www.youtube.com/watch?v=bfJY0syocfU"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 09:39:39",
-      "https://news.ycombinator.com/item?id=34078532"
-    ],
-    [
-      "WebAssembly: Docker Without Containers",
-      "https://wasmlabs.dev/articles/docker-without-containers/"
     ]
   ],
   [
