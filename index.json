@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-22, 19:48:24",
+      "https://news.ycombinator.com/item?id=34097682"
+    ],
+    [
+      "Common Lisp – Myths and Legends",
+      "http://www.lispworks.com/products/myths_and_legends.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 19:45:44",
+      "https://news.ycombinator.com/item?id=34097642"
+    ],
+    [
+      "SantaCoder: A new 1.1B code model for generation and infilling",
+      "https://huggingface.co/spaces/bigcode/santacoder-demo"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 19:26:05",
       "https://news.ycombinator.com/item?id=34097361"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-12-22, 15:40:04",
-      "https://news.ycombinator.com/item?id=34094422"
-    ],
-    [
-      "Staging is dead: The rise of preview environments",
-      "https://www.withcoherence.com/post/staging-is-dead-the-rise-of-preview-environments"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 15:31:29",
       "https://news.ycombinator.com/item?id=34094308"
     ],
@@ -217,16 +227,6 @@
     [
       "Against Method",
       "https://en.wikipedia.org/wiki/Against_Method"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 13:18:03",
-      "https://news.ycombinator.com/item?id=34092934"
-    ],
-    [
-      "Japan to invest on nuclear energy in major policy shift",
-      "https://eandt.theiet.org/content/articles/2022/12/japan-to-invest-on-nuclear-energy-in-major-policy-shift/"
     ]
   ],
   [
