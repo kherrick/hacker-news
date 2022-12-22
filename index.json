@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2022-12-22, 02:05:14",
+      "https://news.ycombinator.com/item?id=34088840"
+    ],
+    [
+      "Caroline Ellison and Gary Wang are cooperating in the criminal case against SBF",
+      "https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 01:19:04",
       "https://news.ycombinator.com/item?id=34088541"
     ],
@@ -87,16 +97,6 @@
     [
       "The pocket guide to debugging",
       "https://jvns.ca/blog/2022/12/21/new-zine--the-pocket-guide-to-debugging/"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 00:53:51",
-      "https://news.ycombinator.com/item?id=34088370"
-    ],
-    [
-      "Avoid exception throwing in performance-sensitive code",
-      "https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/"
     ]
   ],
   [
