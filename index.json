@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-22, 15:45:57",
+      "https://news.ycombinator.com/item?id=34094497"
+    ],
+    [
+      "UnifiedPush: A decentralized, open-source push notification protocol",
+      "https://f-droid.org/2022/12/18/unifiedpush.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 15:31:29",
+      "https://news.ycombinator.com/item?id=34094308"
+    ],
+    [
+      "Grad student unions strike controversial deal with University of California",
+      "https://www.science.org/content/article/grad-student-unions-strike-controversial-deal-university-california"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 15:25:15",
+      "https://news.ycombinator.com/item?id=34094223"
+    ],
+    [
+      "A personal history of visual programming environments (2021)",
+      "https://nickarner.com/notes/a-personal-history-of-visual-programming-enviornments-november-13-2021/"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 14:54:54",
       "https://news.ycombinator.com/item?id=34093857"
     ],
@@ -107,16 +137,6 @@
     [
       "Japan to invest on nuclear energy in major policy shift",
       "https://eandt.theiet.org/content/articles/2022/12/japan-to-invest-on-nuclear-energy-in-major-policy-shift/"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 12:48:11",
-      "https://news.ycombinator.com/item?id=34092749"
-    ],
-    [
-      "O Holy Crap",
-      "https://www.thefp.com/p/an-elegy-to-all-my-crap"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-12-21, 19:34:20",
-      "https://news.ycombinator.com/item?id=34085337"
-    ],
-    [
-      "Guide to Go profiling, tracing and observability",
-      "https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md"
-    ]
-  ],
-  [
-    [
       "2022-12-21, 19:26:42",
       "https://news.ycombinator.com/item?id=34085233"
     ],
     [
       "Whoops: Linux's Strcmp() for the M68k Has Always Been Broken",
       "https://www.phoronix.com/news/Linux-m68k-strcmp-Always-Broken"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 17:10:28",
-      "https://news.ycombinator.com/item?id=34083366"
-    ],
-    [
-      "Show HN: Portable Secret – How I store my secrets and communicate privately",
-      "https://mprimi.github.io/portable-secret/"
     ]
   ]
 ]
