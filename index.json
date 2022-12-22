@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-22, 12:48:11",
+      "https://news.ycombinator.com/item?id=34092749"
+    ],
+    [
+      "O Holy Crap",
+      "https://www.thefp.com/p/an-elegy-to-all-my-crap"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 11:43:18",
       "https://news.ycombinator.com/item?id=34092401"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2022-12-22, 06:37:23",
-      "https://news.ycombinator.com/item?id=34090507"
-    ],
-    [
-      "John Ford and the Citizen Kane assumption (2012)",
-      "http://www.davidbordwell.net/blog/2012/03/06/john-ford-and-the-citizen-kane-assumption/"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 06:37:16",
       "https://news.ycombinator.com/item?id=34090506"
     ],
@@ -87,6 +87,16 @@
     [
       "How Apple names things",
       "https://nicolas.kruchten.com/content/2022/12/apple_tm/"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 03:01:11",
+      "https://news.ycombinator.com/item?id=34089214"
+    ],
+    [
+      "What Does the Sea Sound Like?",
+      "https://hazlitt.net/longreads/what-does-sea-sound"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Guide to Go profiling, tracing and observability",
       "https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 17:49:36",
-      "https://news.ycombinator.com/item?id=34083940"
-    ],
-    [
-      "Pixi3D – 3D rendering library for the web",
-      "https://github.com/jnsmalm/pixi3d"
     ]
   ],
   [
