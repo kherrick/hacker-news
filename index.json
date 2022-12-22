@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2022-12-22, 02:05:14",
-      "https://news.ycombinator.com/item?id=34088840"
-    ],
-    [
-      "Caroline Ellison and Gary Wang are cooperating in the criminal case against SBF",
-      "https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 01:19:04",
       "https://news.ycombinator.com/item?id=34088541"
     ],
@@ -297,6 +287,16 @@
     [
       "Interview with Martin Hellman of Diffie-Hellman (2004)",
       "https://conservancy.umn.edu/bitstream/handle/11299/107353/oh375mh.pdf?sequence=1&isAllowed=y"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 22:42:56",
+      "https://news.ycombinator.com/item?id=34073834"
+    ],
+    [
+      "LoRa: Field Testing Antennas",
+      "https://www.sparkfun.com/news/5497"
     ]
   ]
 ]
