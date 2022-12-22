@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-22, 14:54:54",
+      "https://news.ycombinator.com/item?id=34093857"
+    ],
+    [
+      "State of OpenID Connect Providers",
+      "https://blog.m5e.de/post/state-of-openid-connect-providers/"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 14:33:31",
       "https://news.ycombinator.com/item?id=34093616"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-12-22, 03:01:11",
-      "https://news.ycombinator.com/item?id=34089214"
-    ],
-    [
-      "What Does the Sea Sound Like?",
-      "https://hazlitt.net/longreads/what-does-sea-sound"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 01:19:04",
       "https://news.ycombinator.com/item?id=34088541"
     ],
@@ -227,16 +227,6 @@
     [
       "The pocket guide to debugging",
       "https://jvns.ca/blog/2022/12/21/new-zine--the-pocket-guide-to-debugging/"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 00:29:59",
-      "https://news.ycombinator.com/item?id=34088219"
-    ],
-    [
-      "Life cycle assessment of enzymatic PET recycling",
-      "https://www.nrel.gov/news/features/2022/scientists-discover-enzymes-cheaper-to-recycle-waste-polyester-textiles-and-bottles-than-making-from-petroleum.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Guide to Go profiling, tracing and observability",
       "https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 19:26:42",
+      "https://news.ycombinator.com/item?id=34085233"
+    ],
+    [
+      "Whoops: Linux's Strcmp() for the M68k Has Always Been Broken",
+      "https://www.phoronix.com/news/Linux-m68k-strcmp-Always-Broken"
     ]
   ],
   [
