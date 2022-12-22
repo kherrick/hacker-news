@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-12-22, 00:58:13",
+      "https://news.ycombinator.com/item?id=34088398"
+    ],
+    [
+      "The Pocket Guide to Debugging",
+      "https://jvns.ca/blog/2022/12/21/new-zine--the-pocket-guide-to-debugging/"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 00:53:51",
       "https://news.ycombinator.com/item?id=34088370"
     ],
     [
       "Avoid exception throwing in performance-sensitive code",
       "https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 00:29:59",
+      "https://news.ycombinator.com/item?id=34088219"
+    ],
+    [
+      "Enzymes That Could Make It Cheaper to Recycle Than Make Them from Petroleum",
+      "https://www.nrel.gov/news/features/2022/scientists-discover-enzymes-cheaper-to-recycle-waste-polyester-textiles-and-bottles-than-making-from-petroleum.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 23:49:17",
+      "https://news.ycombinator.com/item?id=34087938"
+    ],
+    [
+      "Netflix: 30% bitrate saving using Film Grain Synthesis",
+      "https://waveletbeam.com/index.php/news/48-netflix-film-grain-synthesis"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "Using ChatGPT to make Bash palatable",
       "https://brev.dev/blog/ai-wont-replace-you-write-bash"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 19:56:22",
-      "https://news.ycombinator.com/item?id=34085585"
-    ],
-    [
-      "OpenJDK Proposes Project Galahad to Merge GraalVM Native Compilation",
-      "https://www.infoq.com/news/2022/12/openjdk-galahad-Dec22/"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Why did the flywheel hybrid system never catch on for road cars? (2021)",
       "https://arstechnica.com/cars/2021/02/whatever-happened-to-williams-f1s-flywheel-hybrid-idea/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 10:37:37",
-      "https://news.ycombinator.com/item?id=34078942"
-    ],
-    [
-      "Freeform: a new app designed for creative collaboration",
-      "https://www.apple.com/newsroom/2022/12/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 10:33:57",
-      "https://news.ycombinator.com/item?id=34078929"
-    ],
-    [
-      "A swarm of robots built this tunnel [video]",
-      "https://www.youtube.com/watch?v=bfJY0syocfU"
     ]
   ],
   [
