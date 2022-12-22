@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2022-12-22, 14:37:16",
-      "https://news.ycombinator.com/item?id=34093655"
-    ],
-    [
-      "German car makers putting out of the self driving AI-race",
-      "https://www.handelsblatt.com/unternehmen/industrie/autonomes-fahren-volkswagen-veraergert-softwareexperten-von-argo-ai/28851238.html"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 14:33:31",
       "https://news.ycombinator.com/item?id=34093616"
     ],
@@ -241,22 +231,22 @@
   ],
   [
     [
+      "2022-12-22, 05:46:24",
+      "https://news.ycombinator.com/item?id=34090240"
+    ],
+    [
+      "Why Turgenev remains one of the most important Russian writers",
+      "https://lithub.com/why-turgenev-remains-one-of-the-most-important-russian-writers-and-why-you-should-read-the-constance-garnett-translation/"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 01:19:04",
       "https://news.ycombinator.com/item?id=34088541"
     ],
     [
       "Hotels turn to robots and room cleanings every 4 days to ease staffing shortages",
       "https://www.npr.org/2022/12/21/1143475374/hotels-labor-worker-shortage-robots-automation"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 00:58:13",
-      "https://news.ycombinator.com/item?id=34088398"
-    ],
-    [
-      "The pocket guide to debugging",
-      "https://jvns.ca/blog/2022/12/21/new-zine--the-pocket-guide-to-debugging/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Programming as Play",
       "https://austinhenley.com/blog/programmingasplay.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-21, 19:34:20",
+      "https://news.ycombinator.com/item?id=34085337"
+    ],
+    [
+      "Guide to Go profiling, tracing and observability",
+      "https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md"
     ]
   ],
   [
