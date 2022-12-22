@@ -5,8 +5,28 @@
       "https://news.ycombinator.com/item?id=34098288"
     ],
     [
-      "Don't Force Users to Register Before They Can Buy (2015)",
+      "Don't force users to register before they can buy (2015)",
       "https://www.nngroup.com/articles/optional-registration/"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 20:22:08",
+      "https://news.ycombinator.com/item?id=34098132"
+    ],
+    [
+      "ByteDance confirmed it used TikTok to monitor journalists’ physical location",
+      "https://www.forbes.com/sites/emilybaker-white/2022/12/22/tiktok-tracks-forbes-journalists-bytedance/"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 20:06:52",
+      "https://news.ycombinator.com/item?id=34097936"
+    ],
+    [
+      "Pico8 Music Synthesizer",
+      "https://johanpeitz.itch.io/picosynth"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34097682"
     ],
     [
-      "Common Lisp – Myths and Legends",
+      "Common Lisp – Myths and Legends (2002)",
       "http://www.lispworks.com/products/myths_and_legends.html"
     ]
   ],
@@ -27,26 +47,6 @@
     [
       "SantaCoder: A new 1.1B code model for generation and infilling",
       "https://huggingface.co/spaces/bigcode/santacoder-demo"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 19:29:32",
-      "https://news.ycombinator.com/item?id=34097416"
-    ],
-    [
-      "Aging is associated with a systemic length-associated transcriptome imbalance",
-      "https://www.nature.com/articles/s43587-022-00317-6"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 19:26:05",
-      "https://news.ycombinator.com/item?id=34097361"
-    ],
-    [
-      "Milk and dairy products: good or bad for human health?",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5122229/"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34097142"
     ],
     [
-      "LastPass: Notice of Recent Security Incident",
+      "Notice of Recent Security Incident [updated]",
       "https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=34096988"
     ],
     [
-      "Do Simpler Machine Learning Models Exist and How Can We Find Them?",
+      "Do simpler machine learning models exist and how can we find them?",
       "https://statmodeling.stat.columbia.edu/2022/12/22/do-simpler-machine-learning-models-exist-and-how-can-we-find-them/"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=34095954"
     ],
     [
-      "“Pitfall” for the Atari describes its whole world in a single byte",
+      "How Pitfall builds its world (2021)",
       "https://evoniuk.github.io/posts/pitfall.html"
     ]
   ],
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2022-12-22, 15:25:15",
-      "https://news.ycombinator.com/item?id=34094223"
-    ],
-    [
-      "A personal history of visual programming environments (2021)",
-      "https://nickarner.com/notes/a-personal-history-of-visual-programming-enviornments-november-13-2021/"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 14:54:54",
       "https://news.ycombinator.com/item?id=34093857"
     ],
@@ -227,6 +217,16 @@
     [
       "Against Method",
       "https://en.wikipedia.org/wiki/Against_Method"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 13:18:03",
+      "https://news.ycombinator.com/item?id=34092934"
+    ],
+    [
+      "Japan to invest on nuclear energy in major policy shift",
+      "https://eandt.theiet.org/content/articles/2022/12/japan-to-invest-on-nuclear-energy-in-major-policy-shift/"
     ]
   ],
   [
