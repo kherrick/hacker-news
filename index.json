@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-23, 10:52:44",
+      "https://news.ycombinator.com/item?id=34104400"
+    ],
+    [
+      "Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies",
+      "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html"
+    ]
+  ],
+  [
+    [
       "2022-12-23, 09:32:24",
       "https://news.ycombinator.com/item?id=34103896"
     ],
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2022-12-22, 19:48:24",
-      "https://news.ycombinator.com/item?id=34097682"
-    ],
-    [
-      "Common Lisp – Myths and Legends (2002)",
-      "http://www.lispworks.com/products/myths_and_legends.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 19:45:44",
-      "https://news.ycombinator.com/item?id=34097642"
-    ],
-    [
-      "SantaCoder: A new 1.1B code model for generation and infilling",
-      "https://huggingface.co/spaces/bigcode/santacoder-demo"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 19:22:35",
       "https://news.ycombinator.com/item?id=34097324"
     ],
@@ -237,6 +227,16 @@
     [
       "Infinite Canvas",
       "https://infinitecanvas.tools/"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 17:22:01",
+      "https://news.ycombinator.com/item?id=34095830"
+    ],
+    [
+      "Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part I)",
+      "https://devos50.github.io/blog/2022/ipod-touch-qemu/"
     ]
   ],
   [
