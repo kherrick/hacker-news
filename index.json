@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-23, 21:07:23",
+      "https://news.ycombinator.com/item?id=34110624"
+    ],
+    [
+      "Show HN: Search HN Favorites or Export to CSV/HTML",
+      "https://github.com/gabrielsroka/gabrielsroka.github.io/blob/master/getHNFavorites.js"
+    ]
+  ],
+  [
+    [
       "2022-12-23, 21:04:34",
       "https://news.ycombinator.com/item?id=34110601"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34110321"
     ],
     [
-      "Show HN: Hacker News Insight",
+      "Hacker News Insight",
       "https://hackernews-insight.vercel.app/user-analysis"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34109215"
     ],
     [
-      "Meson 1.0 Build System",
+      "Meson Build System 1.0",
       "https://mesonbuild.com/Release-notes-for-1-0-0.html"
     ]
   ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=34105052"
     ],
     [
-      "The Hobbit: Riddles in the Dark – The Lost Version",
+      "The Hobbit: Riddles in the Dark – The Lost Version (2001)",
       "https://www.ringgame.net/riddles.html"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "WebAssembly for the Java Geek",
       "https://www.javaadvent.com/2022/12/webassembly-for-the-java-geek.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 07:04:29",
-      "https://news.ycombinator.com/item?id=34103039"
-    ],
-    [
-      "Python Malware Starting to Employ Anti-Debug Techniques",
-      "https://jfrog.com/blog/pypi-malware-creators-are-starting-to-employ-anti-debug-techniques/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=34078291"
     ],
     [
-      "Large-Format Camera Movements",
+      "Large-format camera movements (2020)",
       "https://www.alexbond.com.au/understanding-large-format-camera-movements/"
     ]
   ]
