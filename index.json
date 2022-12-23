@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-12-23, 07:22:06",
+      "https://news.ycombinator.com/item?id=34103142"
+    ],
+    [
+      "WebAssembly for the Java Geek",
+      "https://www.javaadvent.com/2022/12/webassembly-for-the-java-geek.html"
+    ]
+  ],
+  [
+    [
       "2022-12-23, 06:51:50",
       "https://news.ycombinator.com/item?id=34102962"
     ],
     [
       "A book teaching assembly language programming on the ARM 64 bit ISA",
       "https://github.com/pkivolowitz/asm_book"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 06:30:42",
-      "https://news.ycombinator.com/item?id=34102868"
-    ],
-    [
-      "Introduction to Locality-Sensitive Hashing",
-      "https://tylerneylon.com/a/lsh1/"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2022-12-22, 20:42:12",
-      "https://news.ycombinator.com/item?id=34098367"
-    ],
-    [
-      "Docker on MacOS is slow and how to fix it",
-      "https://www.paolomainardi.com/posts/docker-performance-macos/"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 20:06:52",
       "https://news.ycombinator.com/item?id=34097936"
     ],
@@ -267,6 +257,16 @@
     [
       "Implementing the MySQL server protocol for fun and profit",
       "https://ochagavia.nl/blog/implementing-the-mysql-server-protocol-for-fun-and-profit/"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 14:50:06",
+      "https://news.ycombinator.com/item?id=34093799"
+    ],
+    [
+      "Prompt engineering DaVinci-003 on our own docs for automated support (Part I)",
+      "https://www.patterns.app/blog/2022/12/21/finetune-llm-tech-support/"
     ]
   ],
   [
