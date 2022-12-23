@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-12-23, 11:11:02",
+      "https://news.ycombinator.com/item?id=34104530"
+    ],
+    [
+      "Plain English: A simple guide on words to avoid in government (UK)",
+      "https://civilservice.blog.gov.uk/2022/08/16/a-simple-guide-on-words-to-avoid-in-government/"
+    ]
+  ],
+  [
+    [
       "2022-12-23, 10:52:44",
       "https://news.ycombinator.com/item?id=34104400"
     ],
     [
       "Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies",
       "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-23, 10:27:07",
+      "https://news.ycombinator.com/item?id=34104221"
+    ],
+    [
+      "DOS demo/game development template",
+      "https://github.com/badlogic/dos-dev-template"
+    ]
+  ],
+  [
+    [
+      "2022-12-23, 10:23:16",
+      "https://news.ycombinator.com/item?id=34104204"
+    ],
+    [
+      "Sanderson shares intimate details about contracting with publishing industry",
+      "https://www.brandonsanderson.com/state-of-the-sanderson-2022/"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2022-12-22, 19:22:35",
-      "https://news.ycombinator.com/item?id=34097324"
-    ],
-    [
-      "Bunny AI",
-      "https://bunny.net/blog/introducing-bunny-optimizer-ai-a-new-way-of-creating-content/"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 19:09:30",
-      "https://news.ycombinator.com/item?id=34097166"
-    ],
-    [
-      "Searching a data breach with ElasticSearch",
-      "https://adamfallon.com/databreach/csv/elasticsearch/2022/12/22/elasticsearch-facebook-data-leak.html"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 18:53:59",
       "https://news.ycombinator.com/item?id=34096952"
     ],
@@ -227,16 +237,6 @@
     [
       "Infinite Canvas",
       "https://infinitecanvas.tools/"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 17:22:01",
-      "https://news.ycombinator.com/item?id=34095830"
-    ],
-    [
-      "Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part I)",
-      "https://devos50.github.io/blog/2022/ipod-touch-qemu/"
     ]
   ],
   [
