@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-23, 17:33:11",
+      "https://news.ycombinator.com/item?id=34108434"
+    ],
+    [
+      "The Mathematical Hacker",
+      "https://www.evanmiller.org/mathematical-hacker.html"
+    ]
+  ],
+  [
+    [
       "2022-12-23, 17:06:27",
       "https://news.ycombinator.com/item?id=34108127"
     ],
@@ -257,16 +267,6 @@
     [
       "Cats, Pi, and Machine Learning",
       "https://blog.aawadia.dev/2022/12/20/cats-pi-and-machine-learning/"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 14:50:06",
-      "https://news.ycombinator.com/item?id=34093799"
-    ],
-    [
-      "Prompt engineering DaVinci-003 on our own docs for automated support (Part I)",
-      "https://www.patterns.app/blog/2022/12/21/finetune-llm-tech-support/"
     ]
   ],
   [
