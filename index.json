@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-23, 19:11:34",
-      "https://news.ycombinator.com/item?id=34109525"
-    ],
-    [
-      "RSS Readers That You Can Self Host",
-      "https://rohanrd.xyz/posts/rss-readers-that-you-can-self-host/"
-    ]
-  ],
-  [
-    [
       "2022-12-23, 19:10:07",
       "https://news.ycombinator.com/item?id=34109507"
     ],
@@ -25,8 +15,8 @@
       "https://news.ycombinator.com/item?id=34109349"
     ],
     [
-      "Haiku R1/beta4 has been released",
-      "https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/"
+      "Haiku R1/beta4",
+      "https://www.haiku-os.org/get-haiku/r1beta4/release-notes/"
     ]
   ],
   [
@@ -41,21 +31,11 @@
   ],
   [
     [
-      "2022-12-23, 18:08:52",
-      "https://news.ycombinator.com/item?id=34108841"
-    ],
-    [
-      "Ask HN: Fallback remote job options for an experienced developer in the U.S.?",
-      "https://news.ycombinator.com/item?id=34108841"
-    ]
-  ],
-  [
-    [
       "2022-12-23, 17:56:18",
       "https://news.ycombinator.com/item?id=34108692"
     ],
     [
-      "The Rise of User-Hostile Software [2021]",
+      "The Rise of User-Hostile Software (2021)",
       "https://den.dev/blog/user-hostile-software/"
     ]
   ],
@@ -75,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34108434"
     ],
     [
-      "The Mathematical Hacker",
+      "The Mathematical Hacker (2012)",
       "https://www.evanmiller.org/mathematical-hacker.html"
     ]
   ],
@@ -145,8 +125,18 @@
       "https://news.ycombinator.com/item?id=34105572"
     ],
     [
-      "This is the year of the RSS reader",
+      "This is the year of the RSS reader?",
       "https://www.niemanlab.org/2022/12/this-is-the-year-of-the-rss-reader-really/"
+    ]
+  ],
+  [
+    [
+      "2022-12-23, 13:31:30",
+      "https://news.ycombinator.com/item?id=34105558"
+    ],
+    [
+      "It's time for an RSS revival (2018)",
+      "https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/"
     ]
   ],
   [
@@ -221,11 +211,21 @@
   ],
   [
     [
+      "2022-12-23, 06:51:50",
+      "https://news.ycombinator.com/item?id=34102962"
+    ],
+    [
+      "A book teaching assembly language programming on the ARM 64 bit ISA",
+      "https://github.com/pkivolowitz/asm_book"
+    ]
+  ],
+  [
+    [
       "2022-12-23, 06:30:42",
       "https://news.ycombinator.com/item?id=34102868"
     ],
     [
-      "Introduction to Locality-Sensitive Hashing",
+      "Introduction to Locality-Sensitive Hashing (2018)",
       "https://tylerneylon.com/a/lsh1/"
     ]
   ],
@@ -237,16 +237,6 @@
     [
       "Nix on the Steam Deck",
       "https://determinate.systems/posts/nix-on-the-steam-deck"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 04:46:57",
-      "https://news.ycombinator.com/item?id=34102419"
-    ],
-    [
-      "Can Doom Run It? An Adding Machine in Doom",
-      "https://blog.otterstack.com/posts/202212-doom-calculator/"
     ]
   ],
   [
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2022-12-22, 06:38:16",
+      "https://news.ycombinator.com/item?id=34090510"
+    ],
+    [
+      "Percy Crosby and Skippy (2000)",
+      "http://www.skippy.com/skippy1.html"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 23:44:28",
       "https://news.ycombinator.com/item?id=34087896"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-12-21, 21:07:56",
-      "https://news.ycombinator.com/item?id=34086411"
+      "2022-12-21, 09:04:50",
+      "https://news.ycombinator.com/item?id=34078291"
     ],
     [
-      "Computer Security Technology Planning Study (1972) [pdf]",
-      "https://apps.dtic.mil/sti/pdfs/AD0758206.pdf"
+      "Large-Format Camera Movements",
+      "https://www.alexbond.com.au/understanding-large-format-camera-movements/"
     ]
   ]
 ]
