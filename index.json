@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-12-24, 12:03:44",
+      "https://news.ycombinator.com/item?id=34116085"
+    ],
+    [
+      "Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service",
+      "https://www.svix.com/careers/"
+    ]
+  ],
+  [
+    [
       "2022-12-24, 11:08:48",
       "https://news.ycombinator.com/item?id=34115818"
     ],
     [
       "How NYU’s Emergency Room Favors the Rich",
       "https://www.nytimes.com/2022/12/22/health/nyu-langone-emergency-room-vip.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-24, 10:56:32",
+      "https://news.ycombinator.com/item?id=34115747"
+    ],
+    [
+      "Rotary Keyboard",
+      "https://squidgeefish.com/projects/rotary-keyboard/"
     ]
   ],
   [
@@ -117,6 +137,16 @@
     [
       "Managing tape drives and libraries with the Unix/Linux CLI",
       "http://blogs.intellique.com/cgi-bin/tech/2022/01/27"
+    ]
+  ],
+  [
+    [
+      "2022-12-23, 21:51:37",
+      "https://news.ycombinator.com/item?id=34111002"
+    ],
+    [
+      "Detecting potential cheaters in Advent of Code Leaderboards",
+      "https://adamfallon.com/aoc/advent-of-code/cheating/2022/12/23/detecting-potential-cheaters-in-private-advent-of-code-leaderboard.html"
     ]
   ],
   [
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2022-12-23, 08:32:07",
-      "https://news.ycombinator.com/item?id=34103538"
-    ],
-    [
-      "Analog",
-      "https://www.nikki.lol/analog/"
-    ]
-  ],
-  [
-    [
       "2022-12-23, 08:12:32",
       "https://news.ycombinator.com/item?id=34103426"
     ],
@@ -277,26 +297,6 @@
     [
       "Introduction to Locality-Sensitive Hashing (2018)",
       "https://tylerneylon.com/a/lsh1/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 09:04:50",
-      "https://news.ycombinator.com/item?id=34078291"
-    ],
-    [
-      "Large-format camera movements (2020)",
-      "https://www.alexbond.com.au/understanding-large-format-camera-movements/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 00:21:34",
-      "https://news.ycombinator.com/item?id=34074966"
-    ],
-    [
-      "The death of the line of death",
-      "https://emilymstark.com/2022/12/18/death-to-the-line-of-death.html"
     ]
   ]
 ]
