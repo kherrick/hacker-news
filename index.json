@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-25, 00:26:11",
+      "https://news.ycombinator.com/item?id=34122719"
+    ],
+    [
+      "What does Overture Map mean for the future of OpenStreetMap",
+      "https://blog.andygol.co.ua/en/2022/12/24/creating-overture-map-and-future-of-osm/"
+    ]
+  ],
+  [
+    [
       "2022-12-25, 00:07:19",
       "https://news.ycombinator.com/item?id=34122578"
     ],
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2022-12-24, 22:39:19",
-      "https://news.ycombinator.com/item?id=34121873"
-    ],
-    [
-      "Idaho professor sues TikToker over allegations in the killing of 4 students",
-      "https://www.nbcnews.com/news/us-news/idaho-professor-sues-tiktoker-allegations-killing-4-university-student-rcna63149"
-    ]
-  ],
-  [
-    [
       "2022-12-24, 22:11:24",
       "https://news.ycombinator.com/item?id=34121624"
     ],
     [
-      "How to Write Unmantainable Code",
+      "How to write unmantainable code (2015)",
       "https://github.com/Droogans/unmaintainable-code"
-    ]
-  ],
-  [
-    [
-      "2022-12-24, 22:06:42",
-      "https://news.ycombinator.com/item?id=34121583"
-    ],
-    [
-      "Lastpass setting the delete account div to display: none",
-      "https://infosec.exchange/@chiesennegs/109570145849933257"
     ]
   ],
   [
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34121380"
     ],
     [
-      "What ChatGPT Can't Do",
+      "What ChatGPT can't do",
       "https://auerstack.substack.com/p/what-chatgpt-cant-do"
     ]
   ],
@@ -67,16 +57,6 @@
     [
       "PostScript Cartridge for HP LaserJet",
       "https://www.pagetable.com/?p=1721"
-    ]
-  ],
-  [
-    [
-      "2022-12-24, 21:24:26",
-      "https://news.ycombinator.com/item?id=34121204"
-    ],
-    [
-      "Bootstrap 5.3.0-Alpha1",
-      "https://blog.getbootstrap.com/2022/12/24/bootstrap-5-3-0-alpha1/"
     ]
   ],
   [
@@ -95,7 +75,7 @@
       "https://news.ycombinator.com/item?id=34120517"
     ],
     [
-      "Stanford Hates Fun",
+      "Stanford hates fun",
       "https://johnhcochrane.blogspot.com/2022/12/stanford-hates-fun.html"
     ]
   ],
@@ -107,26 +87,6 @@
     [
       "The cold hard truth about electric vehicles in winter",
       "https://www.axios.com/2022/03/04/the-cold-hard-truth-about-electric-vehicles-in-winter"
-    ]
-  ],
-  [
-    [
-      "2022-12-24, 18:54:08",
-      "https://news.ycombinator.com/item?id=34119879"
-    ],
-    [
-      "Maxi Jazz has died",
-      "https://djmag.com/news/faithless-singer-maxi-jazz-dies-aged-65"
-    ]
-  ],
-  [
-    [
-      "2022-12-24, 18:54:06",
-      "https://news.ycombinator.com/item?id=34119878"
-    ],
-    [
-      "Libstdc++ Gets C++20 Chrono",
-      "https://isocpp.org//blog/2022/12/libstdcpp-gets-c20-chrono"
     ]
   ],
   [
@@ -161,6 +121,16 @@
   ],
   [
     [
+      "2022-12-24, 16:54:31",
+      "https://news.ycombinator.com/item?id=34118595"
+    ],
+    [
+      "California’s population shrinks for third straight year",
+      "https://www.sacbee.com/news/politics-government/capitol-alert/article270354472.html"
+    ]
+  ],
+  [
+    [
       "2022-12-24, 16:51:37",
       "https://news.ycombinator.com/item?id=34118562"
     ],
@@ -191,22 +161,22 @@
   ],
   [
     [
-      "2022-12-24, 13:09:54",
-      "https://news.ycombinator.com/item?id=34116481"
-    ],
-    [
-      "California passes law banning Tesla from calling software FSD",
-      "https://www.teslarati.com/califonia-banning-tesla-fsd/"
-    ]
-  ],
-  [
-    [
       "2022-12-24, 11:55:51",
       "https://news.ycombinator.com/item?id=34116041"
     ],
     [
       "The Great Forgetting",
       "https://nautil.us/the-great-forgetting-253223/"
+    ]
+  ],
+  [
+    [
+      "2022-12-24, 11:31:49",
+      "https://news.ycombinator.com/item?id=34115928"
+    ],
+    [
+      "Deadly, dirty, indispensable: the nitrogen industry has changed the world",
+      "https://www.economist.com/christmas-specials/2022/12/20/deadly-dirty-indispensable-the-nitrogen-industry-has-changed-the-world"
     ]
   ],
   [
@@ -241,6 +211,26 @@
   ],
   [
     [
+      "2022-12-24, 01:05:20",
+      "https://news.ycombinator.com/item?id=34112652"
+    ],
+    [
+      "Show HN: TapTab – Tab switching web extension for Safari",
+      "https://www.taptab.dev"
+    ]
+  ],
+  [
+    [
+      "2022-12-24, 00:06:54",
+      "https://news.ycombinator.com/item?id=34112231"
+    ],
+    [
+      "A Marine Biologist Remixed Whalesong",
+      "https://www.newyorker.com/science/elements/how-a-marine-biologist-remixed-whalesong"
+    ]
+  ],
+  [
+    [
       "2022-12-23, 21:57:42",
       "https://news.ycombinator.com/item?id=34111057"
     ],
@@ -255,18 +245,28 @@
       "https://news.ycombinator.com/item?id=34110957"
     ],
     [
-      "Deadly sharp points found in Idaho could be first American-made tools",
+      "Sharp points found in Idaho could be first American-made tools",
       "https://www.science.org/content/article/deadly-sharp-points-found-idaho-could-be-first-american-made-tools"
     ]
   ],
   [
     [
-      "2022-12-23, 20:06:29",
-      "https://news.ycombinator.com/item?id=34110036"
+      "2022-12-23, 18:26:18",
+      "https://news.ycombinator.com/item?id=34109049"
     ],
     [
-      "Eyes That Bite",
-      "https://www.lrb.co.uk/the-paper/v45/n01/anne-enright/eyes-that-bite"
+      "I want to suckless and you can too",
+      "https://bt.ht/suckless/"
+    ]
+  ],
+  [
+    [
+      "2022-12-23, 07:16:09",
+      "https://news.ycombinator.com/item?id=34103108"
+    ],
+    [
+      "Money, money, money (and investing) (2015)",
+      "https://philip.greenspun.com/materialism/money"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=34092875"
     ],
     [
-      "Startup Childhood",
+      "Startup childhood – Tiny startups are not Google-in-miniature-form",
       "https://dalton.substack.com/p/startup-childhood"
     ]
   ],
