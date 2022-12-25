@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-12-25, 17:25:49",
-      "https://news.ycombinator.com/item?id=34129030"
+      "2022-12-25, 17:31:40",
+      "https://news.ycombinator.com/item?id=34129105"
     ],
     [
-      "Redpill Op: How online White Supremacists ruined 4chan",
-      "https://dakotavadams.substack.com/p/redpill-op"
+      "Subpoenaed Fossil Fuel Documents Reveal an Industry Stuck in the Past",
+      "https://theintercept.com/2022/12/24/oil-gas-climate-disinformation/"
     ]
   ],
   [
@@ -21,22 +21,12 @@
   ],
   [
     [
-      "2022-12-25, 16:22:24",
-      "https://news.ycombinator.com/item?id=34128468"
+      "2022-12-25, 15:57:59",
+      "https://news.ycombinator.com/item?id=34128258"
     ],
     [
-      "China stages 'strike drills' around Taiwan, citing provocation",
-      "https://asia.nikkei.com/Politics/International-relations/Taiwan-tensions/China-stages-strike-drills-around-Taiwan-citing-provocation"
-    ]
-  ],
-  [
-    [
-      "2022-12-25, 16:14:14",
-      "https://news.ycombinator.com/item?id=34128398"
-    ],
-    [
-      "Benefits of Monty Python's Silly Walks",
-      "https://www.bmj.com/content/379/bmj-2022-072833"
+      "Ask HN: Which password manager is the most secure and why?",
+      "https://news.ycombinator.com/item?id=34128258"
     ]
   ],
   [
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34128140"
     ],
     [
-      "Donald Knuth’s Christmas Lecture (2022)",
+      "Donald Knuth’s Christmas Lecture (2022) [video]",
       "https://www.youtube.com/watch?v=zg6YRqT4Duo"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34127804"
     ],
     [
-      "APITable open-source 500k lines code, the best Airtable alternative",
+      "APITable: open-source Airtable alternative",
       "https://github.com/apitable/apitable"
     ]
   ],
@@ -77,16 +67,6 @@
     [
       "Ask HN: How to get better at writing?",
       "https://news.ycombinator.com/item?id=34127742"
-    ]
-  ],
-  [
-    [
-      "2022-12-25, 14:56:29",
-      "https://news.ycombinator.com/item?id=34127728"
-    ],
-    [
-      "This Year in Matrix",
-      "https://matrix.org/blog/2022/12/25/the-matrix-holiday-update-2022/"
     ]
   ],
   [
@@ -115,7 +95,7 @@
       "https://news.ycombinator.com/item?id=34127025"
     ],
     [
-      "Tech Journalism Doesn’t Know What to Do with Mastodon",
+      "Tech journalism doesn’t know what to do with Mastodon",
       "https://worldhistory.medium.com/tech-journalism-doesnt-know-what-to-do-with-mastodon-df1309f088a0"
     ]
   ],
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2022-12-25, 11:17:17",
+      "https://news.ycombinator.com/item?id=34126239"
+    ],
+    [
+      "Non-ECC memory corrupted my hard drive image [video]",
+      "https://www.youtube.com/watch?v=0itrM7t4l34"
+    ]
+  ],
+  [
+    [
       "2022-12-25, 10:32:00",
       "https://news.ycombinator.com/item?id=34125958"
     ],
@@ -175,28 +165,8 @@
       "https://news.ycombinator.com/item?id=34125628"
     ],
     [
-      "Ask HN: What are you predictions for 2023?",
+      "Ask HN: What are your predictions for 2023?",
       "https://news.ycombinator.com/item?id=34125628"
-    ]
-  ],
-  [
-    [
-      "2022-12-25, 09:14:12",
-      "https://news.ycombinator.com/item?id=34125590"
-    ],
-    [
-      "Cracking encrypted LastPass vaults",
-      "https://markuta.com/cracking-lastpass-vaults/"
-    ]
-  ],
-  [
-    [
-      "2022-12-25, 08:16:46",
-      "https://news.ycombinator.com/item?id=34125353"
-    ],
-    [
-      "The UKHO intends to withdraw from paper chart production by 2026",
-      "https://www.admiralty.co.uk/sunsetting-paper-charts"
     ]
   ],
   [
@@ -215,7 +185,7 @@
       "https://news.ycombinator.com/item?id=34124992"
     ],
     [
-      "The X11 Conservancy Project",
+      "X11 Conservancy Project",
       "https://x11cp.org/"
     ]
   ],
@@ -235,8 +205,18 @@
       "https://news.ycombinator.com/item?id=34124489"
     ],
     [
-      "Brain circuit that converts spatial goals to escape actions discovered",
+      "Brain circuit that converts spatial goals to escape actions discovered in mice",
       "https://www.sainsburywellcome.org/web/research-news/brain-circuit-converts-spatial-goals-escape-actions-discovered"
+    ]
+  ],
+  [
+    [
+      "2022-12-25, 04:32:24",
+      "https://news.ycombinator.com/item?id=34124285"
+    ],
+    [
+      "How much I’ve spent so far running my own Mastodon server on AWS",
+      "https://www.micahwalter.com/how-much-ive-spent-so-far-running-my-own-mastodon-server-on-aws/"
     ]
   ],
   [
@@ -247,6 +227,26 @@
     [
       "Introduction to Homotopy Type Theory",
       "https://arxiv.org/abs/2212.11082"
+    ]
+  ],
+  [
+    [
+      "2022-12-25, 01:15:07",
+      "https://news.ycombinator.com/item?id=34123025"
+    ],
+    [
+      "“Fun disabled by administrator” (2015)",
+      "https://bugs.chromium.org/p/chromium/issues/detail?id=462221"
+    ]
+  ],
+  [
+    [
+      "2022-12-24, 23:27:45",
+      "https://news.ycombinator.com/item?id=34122296"
+    ],
+    [
+      "The meaning and origin of the expression “Bronx cheer”",
+      "https://www.phrases.org.uk/meanings/bronx-cheer.html"
     ]
   ],
   [
