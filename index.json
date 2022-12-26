@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-26, 18:54:34",
+      "https://news.ycombinator.com/item?id=34140574"
+    ],
+    [
+      "Facebook increased satisfaction and usage by sending fewer notifications",
+      "https://medium.com/@AnalyticsAtMeta/notifications-why-less-is-more-how-facebook-has-been-increasing-both-user-satisfaction-and-app-9463f7325e7d"
+    ]
+  ],
+  [
+    [
+      "2022-12-26, 18:38:00",
+      "https://news.ycombinator.com/item?id=34140405"
+    ],
+    [
+      "Why I'm Glad I Lack Passion to Be a Programmer",
+      "https://blog.miris.design/not-a-programmer"
+    ]
+  ],
+  [
+    [
       "2022-12-26, 18:16:46",
       "https://news.ycombinator.com/item?id=34140206"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-12-26, 15:43:41",
-      "https://news.ycombinator.com/item?id=34138509"
-    ],
-    [
-      "Decoding the Secret Language of Photosynthesis",
-      "https://news.ucr.edu/articles/2022/12/21/decoding-secret-language-photosynthesis"
-    ]
-  ],
-  [
-    [
       "2022-12-26, 15:10:52",
       "https://news.ycombinator.com/item?id=34138188"
     ],
@@ -187,26 +197,6 @@
     [
       "Unbundling Tools for Thought",
       "https://borretti.me/article/unbundling-tools-for-thought"
-    ]
-  ],
-  [
-    [
-      "2022-12-26, 14:09:46",
-      "https://news.ycombinator.com/item?id=34137709"
-    ],
-    [
-      "What does it mean for users to be in full control over their data [pdf]",
-      "https://schluss.org/wp-content/uploads/2022/12/What-does-it-mean-users-in-full-control-over-their-data-CONCEPT.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-12-26, 14:07:41",
-      "https://news.ycombinator.com/item?id=34137703"
-    ],
-    [
-      "Digital Gardening in Obsidian",
-      "https://bytes.zone/posts/digital-gardening-in-obsidian/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The 5GHz “Problem” for Wi-Fi Networks: DFS (2018)",
       "http://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-25, 06:41:31",
+      "https://news.ycombinator.com/item?id=34124991"
+    ],
+    [
+      "Qt on MCU (2018)",
+      "https://decovar.dev/blog/2022/12/24/qt-on-mcu/"
     ]
   ]
 ]
