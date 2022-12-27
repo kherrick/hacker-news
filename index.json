@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-27, 18:27:45",
+      "https://news.ycombinator.com/item?id=34151880"
+    ],
+    [
+      "Hydrochloric Acid is more complicated than you think",
+      "https://www.science.org/content/blog-post/acid-personalities"
+    ]
+  ],
+  [
+    [
       "2022-12-27, 17:51:19",
       "https://news.ycombinator.com/item?id=34151382"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-12-27, 06:53:46",
-      "https://news.ycombinator.com/item?id=34145972"
-    ],
-    [
-      "Experimental Rust Feature: Safer Interoperable ABI",
-      "https://github.com/rust-lang/rust/pull/105586"
-    ]
-  ],
-  [
-    [
       "2022-12-27, 06:28:04",
       "https://news.ycombinator.com/item?id=34145799"
     ],
@@ -237,16 +237,6 @@
     [
       "I have reached Vim nirvana",
       "https://www.maxwellrules.com/misc/nvim_jupyter.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-27, 03:28:51",
-      "https://news.ycombinator.com/item?id=34144707"
-    ],
-    [
-      "Clipboard: Cut, copy, and paste anything, anywhere, all from the terminal",
-      "https://github.com/Slackadays/Clipboard"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "CoreFreq, a CPU monitoring software frequencies, ratios, C-states",
       "https://github.com/cyring/CoreFreq"
+    ]
+  ],
+  [
+    [
+      "2022-12-24, 15:06:19",
+      "https://news.ycombinator.com/item?id=34117429"
+    ],
+    [
+      "“Blue Light” creating capacity for nothing (2007)",
+      "http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html"
     ]
   ],
   [
