@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-27, 20:35:48",
+      "https://news.ycombinator.com/item?id=34153448"
+    ],
+    [
+      "GoDaddy buying domains when they expire to extort their own users",
+      "https://twitter.com/kchironis/status/1607496457942335489"
+    ]
+  ],
+  [
+    [
       "2022-12-27, 20:33:39",
       "https://news.ycombinator.com/item?id=34153404"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2022-12-27, 19:45:04",
-      "https://news.ycombinator.com/item?id=34152865"
+      "2022-12-27, 19:54:03",
+      "https://news.ycombinator.com/item?id=34152981"
     ],
     [
-      "Tesla stopped reporting its Autopilot safety numbers online. Why?",
-      "https://www.latimes.com/business/story/2022-12-27/tesla-stopped-reporting-autopilot-safety-statistics-online"
+      "BrianKrebs: Experian Vulnerability Shows Any Report with just SSN, DOB, ADR",
+      "https://infosec.exchange/@briankrebs/109587022002246891"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34152369"
     ],
     [
-      "BorgBackup, Deduplicating archiver with compression and encryption",
+      "BorgBackup: Deduplicating archiver with compression and encryption",
       "https://www.borgbackup.org"
     ]
   ],
@@ -57,6 +67,16 @@
     [
       "Anki SRS Algorithm : Spaced repetition explained with code",
       "https://www.juliensobczak.com/inspect/2022/05/30/anki-srs.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-27, 18:33:33",
+      "https://news.ycombinator.com/item?id=34151951"
+    ],
+    [
+      "The Zen Anti-Interpretation of Quantum Mechanics (2021)",
+      "https://scottaaronson.blog/?p=5359"
     ]
   ],
   [
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2022-12-27, 16:56:37",
+      "https://news.ycombinator.com/item?id=34150530"
+    ],
+    [
+      "Mickey’s Copyright Adventure: Early Disney Toon Is Set to Be Public Property",
+      "https://www.nytimes.com/2022/12/27/business/mickey-mouse-disney-public-domain.html"
+    ]
+  ],
+  [
+    [
       "2022-12-27, 16:24:42",
       "https://news.ycombinator.com/item?id=34150040"
     ],
@@ -127,16 +157,6 @@
     [
       "Unmasking Meta's Bad News Strategy",
       "https://memo.co/blog/unmasking-metas-bad-news-strategy/"
-    ]
-  ],
-  [
-    [
-      "2022-12-27, 15:37:18",
-      "https://news.ycombinator.com/item?id=34149528"
-    ],
-    [
-      "Americans duped into losing $10B by illegal Indian call centres in 2022: report",
-      "https://timesofindia.indiatimes.com/india/illegal-desi-call-centres-behind-10-billion-loss-to-americans-in-2022/articleshow/96501320.cms"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-12-27, 12:12:07",
-      "https://news.ycombinator.com/item?id=34147977"
-    ],
-    [
-      "What’s in a PR statement: LastPass breach explained",
-      "https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/"
-    ]
-  ],
-  [
-    [
       "2022-12-27, 11:42:00",
       "https://news.ycombinator.com/item?id=34147825"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2022-12-27, 06:28:04",
-      "https://news.ycombinator.com/item?id=34145799"
+      "2022-12-27, 10:03:31",
+      "https://news.ycombinator.com/item?id=34147243"
     ],
     [
-      "Detecting the use of “curl | bash” server side (2016)",
-      "https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/"
+      "How to Annotate Everything",
+      "https://beepb00p.xyz/annotating.html"
     ]
   ],
   [
@@ -221,21 +231,11 @@
   ],
   [
     [
-      "2022-12-27, 06:05:40",
-      "https://news.ycombinator.com/item?id=34145680"
-    ],
-    [
-      "I have reached Vim nirvana",
-      "https://www.maxwellrules.com/misc/nvim_jupyter.html"
-    ]
-  ],
-  [
-    [
       "2022-12-26, 23:56:38",
       "https://news.ycombinator.com/item?id=34143272"
     ],
     [
-      "Archaeologists Devise a Better Clock for Biblical Times",
+      "Archaeologists devise a better clock for Biblical times",
       "https://www.nytimes.com/2022/12/20/science/archaeology-bible-geomagnetism.html"
     ]
   ],
