@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-27, 20:35:48",
-      "https://news.ycombinator.com/item?id=34153448"
-    ],
-    [
-      "GoDaddy buying domains when they expire to extort their own users",
-      "https://twitter.com/kchironis/status/1607496457942335489"
-    ]
-  ],
-  [
-    [
       "2022-12-27, 20:33:39",
       "https://news.ycombinator.com/item?id=34153404"
     ],
@@ -31,22 +21,22 @@
   ],
   [
     [
-      "2022-12-27, 19:13:35",
-      "https://news.ycombinator.com/item?id=34152511"
-    ],
-    [
-      "The Grinch Stealing the Future of Gen Y and Z",
-      "https://www.ineteconomics.org/perspectives/blog/meet-the-grinch-stealing-the-future-of-gen-y-and-z"
-    ]
-  ],
-  [
-    [
       "2022-12-27, 19:01:48",
       "https://news.ycombinator.com/item?id=34152369"
     ],
     [
       "BorgBackup: Deduplicating archiver with compression and encryption",
       "https://www.borgbackup.org"
+    ]
+  ],
+  [
+    [
+      "2022-12-27, 18:59:02",
+      "https://news.ycombinator.com/item?id=34152329"
+    ],
+    [
+      "Putin gives eight gold rings to presidents of CIS countries, keeps ninth",
+      "https://theins.ru/en/news/258195/"
     ]
   ],
   [
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34151107"
     ],
     [
-      "Amazon Packages Burn in India, Final Stop in Broken Recycling System",
+      "Amazon packages burn in India, final stop in broken recycling system",
       "https://www.bloomberg.com/features/2022-india-plastic-recycling-pollution/"
     ]
   ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2022-12-27, 15:37:18",
+      "https://news.ycombinator.com/item?id=34149528"
+    ],
+    [
+      "Americans duped into losing $10B by illegal Indian call centres in 2022: report",
+      "https://timesofindia.indiatimes.com/india/illegal-desi-call-centres-behind-10-billion-loss-to-americans-in-2022/articleshow/96501320.cms"
+    ]
+  ],
+  [
+    [
       "2022-12-27, 15:13:13",
       "https://news.ycombinator.com/item?id=34149340"
     ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=34149239"
     ],
     [
-      "Visually Symmetric Words",
+      "Visually symmetric words",
       "https://www.johndcook.com/blog/2022/12/27/visually-symmetric-words/"
     ]
   ],
@@ -191,11 +191,21 @@
   ],
   [
     [
+      "2022-12-27, 12:47:00",
+      "https://news.ycombinator.com/item?id=34148153"
+    ],
+    [
+      "Three things for the next 100 years of Computer Science",
+      "https://but-her-flies.bearblog.dev/3-things-for-the-next-100-years-of-computer-science/"
+    ]
+  ],
+  [
+    [
       "2022-12-27, 11:42:00",
       "https://news.ycombinator.com/item?id=34147825"
     ],
     [
-      "Show HN: Self-hosted CMS on Server-less Cloudflare for podcast/blog/img/videos",
+      "Show HN: Self-hosted CMS on serverless Cloudflare",
       "https://github.com/microfeed/microfeed"
     ]
   ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-12-27, 06:07:45",
-      "https://news.ycombinator.com/item?id=34145691"
-    ],
-    [
-      "Extending Python with Rust",
-      "https://maxwellrules.com/programming/rusty-python.html"
-    ]
-  ],
-  [
-    [
       "2022-12-26, 23:56:38",
       "https://news.ycombinator.com/item?id=34143272"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=34142965"
     ],
     [
-      "The Annihilation of Space: A Bad (Historical) Concept (2021)",
+      "The annihilation of space: A bad historical concept (2021)",
       "https://www.cambridge.org/core/journals/historical-journal/article/annihilation-of-space-a-bad-historical-concept/4F468F5C4AC58E18836E0C2EC4318DF6"
     ]
   ],
