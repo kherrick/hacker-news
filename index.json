@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2022-12-27, 12:01:00",
-      "https://news.ycombinator.com/item?id=34147923"
-    ],
-    [
-      "Jerry (YC S17) Is Hiring Tech Leader / EM 中国远程 热爱技术",
-      "https://v2ex.com/t/904724#reply0"
-    ]
-  ],
-  [
-    [
       "2022-12-27, 11:42:00",
       "https://news.ycombinator.com/item?id=34147825"
     ],
@@ -207,6 +197,16 @@
     [
       "How to Annotate Everything",
       "https://beepb00p.xyz/annotating.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-27, 06:53:46",
+      "https://news.ycombinator.com/item?id=34145972"
+    ],
+    [
+      "Experimental Rust Feature: Safer Interoperable ABI",
+      "https://github.com/rust-lang/rust/pull/105586"
     ]
   ],
   [
