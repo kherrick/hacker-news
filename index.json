@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-12-27, 23:00:34",
-      "https://news.ycombinator.com/item?id=34155032"
+      "2022-12-28, 01:10:11",
+      "https://news.ycombinator.com/item?id=34156235"
     ],
     [
-      "SEC may take steep measures against HEX, founder Richard Heart accused of fraud",
-      "https://crypto.news/us-sec-may-take-steep-measures-against-hex/"
+      "Apple Japan hit with $98M in back taxes for missing duty-free abuses",
+      "https://asia.nikkei.com/Business/Retail/Apple-Japan-hit-with-98m-in-back-taxes-for-missing-duty-free-abuses"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 00:27:45",
+      "https://news.ycombinator.com/item?id=34155875"
+    ],
+    [
+      "Ventura Issues",
+      "https://mjtsai.com/blog/2022/12/27/ventura-issues/"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 00:16:58",
+      "https://news.ycombinator.com/item?id=34155783"
+    ],
+    [
+      "Your Cellphone Will Be a Satphone",
+      "https://spectrum.ieee.org/satellite-cellphone"
+    ]
+  ],
+  [
+    [
+      "2022-12-27, 23:54:44",
+      "https://news.ycombinator.com/item?id=34155585"
+    ],
+    [
+      "Tesla stock marks lowest close in years as investors worry about Musk’s focus",
+      "https://www.theguardian.com/technology/2022/dec/27/tesla-stock-drops-lowest-close-years-elon-musk"
     ]
   ],
   [
@@ -41,12 +71,12 @@
   ],
   [
     [
-      "2022-12-27, 22:17:29",
-      "https://news.ycombinator.com/item?id=34154607"
+      "2022-12-27, 21:56:48",
+      "https://news.ycombinator.com/item?id=34154406"
     ],
     [
-      "‘Too much’ nitrite-cured meat brings clear risk of cancer, say scientists",
-      "https://www.theguardian.com/society/2022/dec/27/too-much-nitrite-cured-meat-brings-clear-risk-of-cancer-say-scientists"
+      "How RISC-V Timer Interrupts Work",
+      "https://danielmangum.com/posts/risc-v-bytes-timer-interrupts/"
     ]
   ],
   [
@@ -61,21 +91,11 @@
   ],
   [
     [
-      "2022-12-27, 20:33:39",
-      "https://news.ycombinator.com/item?id=34153404"
-    ],
-    [
-      "KMSCon – A Userspace System Console That Does Not Depend on Any Graphics Server",
-      "https://cgit.freedesktop.org/~dvdhrm/kmscon/plain/README"
-    ]
-  ],
-  [
-    [
       "2022-12-27, 19:54:03",
       "https://news.ycombinator.com/item?id=34152981"
     ],
     [
-      "BrianKrebs: Experian Vulnerability Shows Any Report with just SSN, DOB, ADR",
+      "Experian Vulnerability Shows Any Report with just SSN, DOB, ADR",
       "https://infosec.exchange/@briankrebs/109587022002246891"
     ]
   ],
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=34152333"
     ],
     [
-      "The Architecture of the Lisa Personal Computer [pdf]",
+      "The Architecture of the Lisa Personal Computer (1984) [pdf]",
       "http://bitsavers.org/pdf/apple/lisa/development_history/articles/Daniels_-_The_Architecture_of_the_Lisa_Personal_Computer_198403.pdf"
     ]
   ],
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34152137"
     ],
     [
-      "A lightweight, simple, fast, feature-filled, text editor written in C, and Lua",
+      "Lite XL: A lightweight text editor written in C and Lua",
       "https://lite-xl.com/"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-12-27, 16:24:42",
-      "https://news.ycombinator.com/item?id=34150040"
-    ],
-    [
-      "EmailTriager",
-      "https://www.emailtriager.com/"
-    ]
-  ],
-  [
-    [
       "2022-12-27, 16:02:49",
       "https://news.ycombinator.com/item?id=34149804"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2022-12-27, 10:23:03",
-      "https://news.ycombinator.com/item?id=34147366"
+      "2022-12-27, 08:16:45",
+      "https://news.ycombinator.com/item?id=34146493"
     ],
     [
-      "Show HN: Dog API",
-      "https://dogapi.dog"
+      "Old-school computing: when your lab PC is ancient (2021)",
+      "https://www.nature.com/articles/d41586-021-01431-y"
     ]
   ],
   [
@@ -247,6 +257,16 @@
     [
       "Ask HN: Elevator Pitch for a Polymath?",
       "https://news.ycombinator.com/item?id=34146397"
+    ]
+  ],
+  [
+    [
+      "2022-12-27, 06:29:43",
+      "https://news.ycombinator.com/item?id=34145811"
+    ],
+    [
+      "Run Third-Party Scripts from a Web Worker",
+      "https://partytown.builder.io/"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Archaeologists devise a better clock for Biblical times",
       "https://www.nytimes.com/2022/12/20/science/archaeology-bible-geomagnetism.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-26, 23:10:11",
-      "https://news.ycombinator.com/item?id=34142965"
-    ],
-    [
-      "The annihilation of space: A bad historical concept (2021)",
-      "https://www.cambridge.org/core/journals/historical-journal/article/annihilation-of-space-a-bad-historical-concept/4F468F5C4AC58E18836E0C2EC4318DF6"
-    ]
-  ],
-  [
-    [
-      "2022-12-24, 15:09:32",
-      "https://news.ycombinator.com/item?id=34117471"
-    ],
-    [
-      "CoreFreq, a CPU monitoring software frequencies, ratios, C-states",
-      "https://github.com/cyring/CoreFreq"
     ]
   ],
   [
