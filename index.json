@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-12-28, 12:30:06",
+      "https://news.ycombinator.com/item?id=34160356"
+    ],
+    [
+      "Abenics: Active Ball Joint Mechanism with Three-DoF Based on Spherical Gear Mesh",
+      "https://ieeexplore.ieee.org/document/9415699"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 11:53:32",
+      "https://news.ycombinator.com/item?id=34160097"
+    ],
+    [
+      "A Guided Introduction to the Free Pascal Language",
+      "https://www.getlazarus.org/guides/intro/"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 10:58:46",
+      "https://news.ycombinator.com/item?id=34159699"
+    ],
+    [
+      "SQL and M4 = Composable SQL",
+      "https://emiruz.com/post/2022-12-28-composable-sql/"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 10:49:30",
+      "https://news.ycombinator.com/item?id=34159631"
+    ],
+    [
+      "Pa – a simple password manager based on age",
+      "https://github.com/biox/pa"
+    ]
+  ],
+  [
+    [
       "2022-12-28, 10:01:32",
       "https://news.ycombinator.com/item?id=34159341"
     ],
@@ -17,6 +57,16 @@
     [
       "Schooling improves intelligence, socioeconomic/genetic differences not affected",
       "https://www.nature.com/articles/s41539-022-00148-5"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 08:19:11",
+      "https://news.ycombinator.com/item?id=34158798"
+    ],
+    [
+      "Antitrust 101: Tacit Collusion",
+      "https://www.winston.com/en/competition-corner/antitrust-101-tacit-collusion.html"
     ]
   ],
   [
@@ -41,26 +91,6 @@
   ],
   [
     [
-      "2022-12-28, 06:31:14",
-      "https://news.ycombinator.com/item?id=34158111"
-    ],
-    [
-      "Tesla to run reduced output in Shanghai in January",
-      "https://www.reuters.com/business/autos-transportation/tesla-run-reduced-output-shanghai-january-plan-shows-2022-12-27/"
-    ]
-  ],
-  [
-    [
-      "2022-12-28, 06:16:56",
-      "https://news.ycombinator.com/item?id=34158033"
-    ],
-    [
-      "Rogue geoengineering startup attempts to affect atmosphere despite warnings",
-      "https://www.jpost.com/environment-and-climate-change/article-725984"
-    ]
-  ],
-  [
-    [
       "2022-12-28, 05:51:28",
       "https://news.ycombinator.com/item?id=34157907"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2022-12-28, 03:18:07",
-      "https://news.ycombinator.com/item?id=34157142"
-    ],
-    [
-      "Colorado ski town fielding dozens of automated 911 calls from iPhones",
-      "https://coloradosun.com/2022/12/26/skier-iphone-crash-detection-calls/"
-    ]
-  ],
-  [
-    [
       "2022-12-28, 02:20:31",
       "https://news.ycombinator.com/item?id=34156780"
     ],
@@ -107,16 +127,6 @@
     [
       "I've just started mixing shaders with Pygame",
       "https://dafluffypotato.itch.io/hue-flowing"
-    ]
-  ],
-  [
-    [
-      "2022-12-28, 00:59:11",
-      "https://news.ycombinator.com/item?id=34156140"
-    ],
-    [
-      "Run Stable Diffusion natively on your Mac",
-      "https://sindresorhus.com/amazing-ai"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-12-27, 20:53:15",
-      "https://news.ycombinator.com/item?id=34153648"
-    ],
-    [
-      "Brooklyn Bar Menu Generator (2015)",
-      "https://www.brooklynbarmenus.com"
-    ]
-  ],
-  [
-    [
       "2022-12-27, 19:01:48",
       "https://news.ycombinator.com/item?id=34152369"
     ],
@@ -171,22 +171,22 @@
   ],
   [
     [
-      "2022-12-27, 18:46:12",
-      "https://news.ycombinator.com/item?id=34152137"
-    ],
-    [
-      "Lite XL: A lightweight text editor written in C and Lua",
-      "https://lite-xl.com/"
-    ]
-  ],
-  [
-    [
       "2022-12-27, 18:14:56",
       "https://news.ycombinator.com/item?id=34151708"
     ],
     [
       "All About USB-C: Illegal Adapters",
       "https://hackaday.com/2022/12/27/all-about-usb-c-illegal-adapters/"
+    ]
+  ],
+  [
+    [
+      "2022-12-27, 12:31:57",
+      "https://news.ycombinator.com/item?id=34148082"
+    ],
+    [
+      "A Paper Internet (2010)",
+      "https://carlos.bueno.org/2010/09/paper-internet.html"
     ]
   ],
   [
