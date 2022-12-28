@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-28, 05:47:52",
+      "https://news.ycombinator.com/item?id=34157891"
+    ],
+    [
+      "Tesla’s 2022 Collapse Hits 69% After Deepest Selloff Since April",
+      "https://finance.yahoo.com/news/tesla-deepening-rout-obliterates-half-143652547.html"
+    ]
+  ],
+  [
+    [
       "2022-12-28, 03:55:46",
       "https://news.ycombinator.com/item?id=34157363"
     ],
@@ -211,21 +221,11 @@
   ],
   [
     [
-      "2022-12-27, 15:02:17",
-      "https://news.ycombinator.com/item?id=34149239"
-    ],
-    [
-      "Visually symmetric words",
-      "https://www.johndcook.com/blog/2022/12/27/visually-symmetric-words/"
-    ]
-  ],
-  [
-    [
       "2022-12-27, 08:54:19",
       "https://news.ycombinator.com/item?id=34146794"
     ],
     [
-      "Zero Knowledge FPGAs",
+      "Accelerating zk-SNARKs - MSM and NTT algorithms on FPGAs with Hardcaml",
       "https://blog.janestreet.com/zero-knowledge-fpgas-hardcaml/"
     ]
   ],
