@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-12-28, 20:10:05",
+      "https://news.ycombinator.com/item?id=34165295"
+    ],
+    [
+      "Learning Modern 3D Graphics Programming (2012)",
+      "https://paroj.github.io/gltut/"
+    ]
+  ],
+  [
+    [
       "2022-12-28, 19:18:28",
       "https://news.ycombinator.com/item?id=34164684"
     ],
     [
-      "Fourteen Discoveries Made About Human Evolution in 2022",
+      "Discoveries made about human evolution in 2022",
       "https://www.smithsonianmag.com/smithsonian-institution/fourteen-discoveries-made-about-human-evolution-in-2022-180981344/"
     ]
   ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-12-28, 13:35:36",
-      "https://news.ycombinator.com/item?id=34160793"
-    ],
-    [
-      "Bra Size Calculator",
-      "https://www.calculator.net/bra-size-calculator.html"
-    ]
-  ],
-  [
-    [
       "2022-12-28, 12:55:32",
       "https://news.ycombinator.com/item?id=34160509"
     ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=34160356"
     ],
     [
-      "Active Ball Joint Mechanism With 3-DoF Based on Spherical Gear Meshings (2021)",
+      "Active ball joint mechanism with 3 DoF based on spherical gear meshings (2021)",
       "https://ieeexplore.ieee.org/document/9415699"
     ]
   ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=34160097"
     ],
     [
-      "Free Pascal Guide",
+      "A guided intro to the Free Pascal language",
       "https://www.getlazarus.org/guides/intro/"
     ]
   ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=34159062"
     ],
     [
-      "Pbproxy – Send your clipboard anywhere you can ssh",
+      "Show HN: Pbproxy – Send your clipboard anywhere you can ssh",
       "https://github.com/nikvdp/pbproxy"
     ]
   ],
