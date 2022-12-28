@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-12-27, 23:54:44",
-      "https://news.ycombinator.com/item?id=34155585"
-    ],
-    [
-      "Tesla stock marks lowest close in years as investors worry about Musk’s focus",
-      "https://www.theguardian.com/technology/2022/dec/27/tesla-stock-drops-lowest-close-years-elon-musk"
-    ]
-  ],
-  [
-    [
       "2022-12-27, 22:58:47",
       "https://news.ycombinator.com/item?id=34155009"
     ],
@@ -87,6 +77,16 @@
     [
       "Brooklyn Bar Menu Generator (2015)",
       "https://www.brooklynbarmenus.com"
+    ]
+  ],
+  [
+    [
+      "2022-12-27, 20:33:39",
+      "https://news.ycombinator.com/item?id=34153404"
+    ],
+    [
+      "KMSCon – A Userspace System Console That Does Not Depend on Any Graphics Server",
+      "https://cgit.freedesktop.org/~dvdhrm/kmscon/plain/README"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Anki SRS Algorithm : Spaced repetition explained with code",
       "https://www.juliensobczak.com/inspect/2022/05/30/anki-srs.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-27, 18:33:33",
-      "https://news.ycombinator.com/item?id=34151951"
-    ],
-    [
-      "The Zen anti-interpretation of quantum mechanics (2021)",
-      "https://scottaaronson.blog/?p=5359"
     ]
   ],
   [
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2022-12-27, 08:04:56",
-      "https://news.ycombinator.com/item?id=34146397"
-    ],
-    [
-      "Ask HN: Elevator Pitch for a Polymath?",
-      "https://news.ycombinator.com/item?id=34146397"
-    ]
-  ],
-  [
-    [
       "2022-12-27, 06:29:43",
       "https://news.ycombinator.com/item?id=34145811"
     ],
@@ -287,6 +267,26 @@
     [
       "Archaeologists devise a better clock for Biblical times",
       "https://www.nytimes.com/2022/12/20/science/archaeology-bible-geomagnetism.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-26, 10:12:19",
+      "https://news.ycombinator.com/item?id=34136331"
+    ],
+    [
+      "The Reality of Depending on True Fans (2008)",
+      "https://kk.org/thetechnium/the-reality-of/"
+    ]
+  ],
+  [
+    [
+      "2022-12-24, 15:09:32",
+      "https://news.ycombinator.com/item?id=34117471"
+    ],
+    [
+      "CoreFreq, a CPU monitoring software frequencies, ratios, C-states",
+      "https://github.com/cyring/CoreFreq"
     ]
   ],
   [
