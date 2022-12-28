@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=34160356"
     ],
     [
-      "Abenics: Active Ball Joint Mechanism with Three-DoF Based on Spherical Gear Mesh",
+      "Active Ball Joint Mechanism With 3-DoF Based on Spherical Gear Meshings (2021)",
       "https://ieeexplore.ieee.org/document/9415699"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 12:18:14",
+      "https://news.ycombinator.com/item?id=34160267"
+    ],
+    [
+      "Ask HN: Help recall AI-powered personal assitant showcased recently on HN",
+      "https://news.ycombinator.com/item?id=34160267"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34160097"
     ],
     [
-      "A Guided Introduction to the Free Pascal Language",
+      "Free Pascal Guide",
       "https://www.getlazarus.org/guides/intro/"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34159699"
     ],
     [
-      "SQL and M4 = Composable SQL",
+      "SQL + M4 = Composable SQL",
       "https://emiruz.com/post/2022-12-28-composable-sql/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34158895"
     ],
     [
-      "Schooling improves intelligence, socioeconomic/genetic differences not affected",
+      "Schooling improves intelligence; no effect on impact of socioeconomics, genetics",
       "https://www.nature.com/articles/s41539-022-00148-5"
     ]
   ],
@@ -281,21 +291,11 @@
   ],
   [
     [
-      "2022-12-27, 06:03:28",
-      "https://news.ycombinator.com/item?id=34145665"
-    ],
-    [
-      "FEA Solver that doesn't need defeaturing",
-      "https://coreform.com/"
-    ]
-  ],
-  [
-    [
       "2022-12-26, 10:20:22",
       "https://news.ycombinator.com/item?id=34136381"
     ],
     [
-      "Novu",
+      "Novu – Service for managing multi-channel notifications with a single API",
       "https://github.com/novuhq/novu"
     ]
   ]
