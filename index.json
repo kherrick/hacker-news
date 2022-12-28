@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-12-28, 20:22:12",
-      "https://news.ycombinator.com/item?id=34165439"
+      "2022-12-28, 20:50:52",
+      "https://news.ycombinator.com/item?id=34165791"
     ],
     [
-      "Christmastime hospital-room raid busts dying man for using marijuana extract",
-      "https://www.kansas.com/opinion/opn-columns-blogs/dion-lefler/article270381287.html"
+      "How Southwest Airlines melted down",
+      "https://www.wsj.com/articles/southwest-airlines-melting-down-flights-cancelled-11672257523"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 20:29:02",
+      "https://news.ycombinator.com/item?id=34165522"
+    ],
+    [
+      "Reverse-engineering the source prompts of Notion AI",
+      "https://lspace.swyx.io/p/reverse-prompt-eng"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Sherlock Holmes will finally escape copyright this weekend",
       "https://www.theverge.com/2022/12/28/23528003/sherlock-holmes-metropolis-to-the-lighthouse-public-domain-day-2023"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 19:04:01",
+      "https://news.ycombinator.com/item?id=34164493"
+    ],
+    [
+      "Waze tests new alerts warning drivers about roads with a ‘history of crashes’",
+      "https://www.theverge.com/2022/12/28/23529380/waze-history-of-crashes-beta-release-traffic-crash-data"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2022-12-28, 17:18:15",
+      "https://news.ycombinator.com/item?id=34163231"
+    ],
+    [
+      "A new treatment for arthritis: Vagus-nerve stimulation",
+      "https://spectrum.ieee.org/rhumatoid-arthritis"
+    ]
+  ],
+  [
+    [
       "2022-12-28, 15:35:57",
       "https://news.ycombinator.com/item?id=34162002"
     ],
@@ -101,22 +131,22 @@
   ],
   [
     [
+      "2022-12-28, 15:35:36",
+      "https://news.ycombinator.com/item?id=34161997"
+    ],
+    [
+      "Acorn, our open source precision farming rover",
+      "https://community.twistedfields.com/t/a-closer-look-at-acorn-our-open-source-precision-farming-rover/108"
+    ]
+  ],
+  [
+    [
       "2022-12-28, 15:21:29",
       "https://news.ycombinator.com/item?id=34161822"
     ],
     [
       "Hard truths I learned when I got laid off from my SWE job",
       "https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off"
-    ]
-  ],
-  [
-    [
-      "2022-12-28, 14:56:57",
-      "https://news.ycombinator.com/item?id=34161528"
-    ],
-    [
-      "Laid off tech workers quickly find new jobs",
-      "https://www.wsj.com/articles/laid-off-tech-workers-quickly-find-new-jobs-11672097730"
     ]
   ],
   [
@@ -151,12 +181,12 @@
   ],
   [
     [
-      "2022-12-28, 13:39:31",
-      "https://news.ycombinator.com/item?id=34160824"
+      "2022-12-28, 14:19:34",
+      "https://news.ycombinator.com/item?id=34161180"
     ],
     [
-      "Facebook addiction increases depression severity among already depressed people",
-      "https://www.psypost.org/2022/12/facebook-addiction-increases-depression-severity-among-people-who-are-already-depressed-64586"
+      "1491: New revelations of the Americas before Columbus (2005)",
+      "https://www.kirkusreviews.com/book-reviews/charles-c-mann/1491/"
     ]
   ],
   [
@@ -165,18 +195,18 @@
       "https://news.ycombinator.com/item?id=34160793"
     ],
     [
-      "Bra Size Calculator",
+      "Bra size calculator",
       "https://www.calculator.net/bra-size-calculator.html"
     ]
   ],
   [
     [
-      "2022-12-28, 12:55:32",
-      "https://news.ycombinator.com/item?id=34160509"
+      "2022-12-28, 13:19:56",
+      "https://news.ycombinator.com/item?id=34160672"
     ],
     [
-      "Little Free Library",
-      "https://littlefreelibrary.org/"
+      "US companies are producing heat pumps that work below -20F",
+      "https://electrek.co/2022/12/26/us-companies-are-producing-heat-pumps-that-work-below-20f/"
     ]
   ],
   [
@@ -191,6 +221,16 @@
   ],
   [
     [
+      "2022-12-28, 12:29:47",
+      "https://news.ycombinator.com/item?id=34160353"
+    ],
+    [
+      "My Age+Yubikeys Password Management Solution",
+      "https://words.filippo.io/dispatches/passage/"
+    ]
+  ],
+  [
+    [
       "2022-12-28, 11:53:32",
       "https://news.ycombinator.com/item?id=34160097"
     ],
@@ -201,22 +241,12 @@
   ],
   [
     [
-      "2022-12-28, 10:58:46",
-      "https://news.ycombinator.com/item?id=34159699"
+      "2022-12-28, 11:19:45",
+      "https://news.ycombinator.com/item?id=34159868"
     ],
     [
-      "SQL + M4 = Composable SQL",
-      "https://emiruz.com/post/2022-12-28-composable-sql/"
-    ]
-  ],
-  [
-    [
-      "2022-12-28, 10:49:30",
-      "https://news.ycombinator.com/item?id=34159631"
-    ],
-    [
-      "Pa – a simple password manager based on age",
-      "https://github.com/biox/pa"
+      "Wiretapping Google smart speakers",
+      "https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html"
     ]
   ],
   [
@@ -237,26 +267,6 @@
     [
       "Open Source SMT Pick and Place Hardware and Software",
       "https://github.com/openpnp/openpnp"
-    ]
-  ],
-  [
-    [
-      "2022-12-28, 07:02:55",
-      "https://news.ycombinator.com/item?id=34158318"
-    ],
-    [
-      "Apple Lightning (2020)",
-      "https://nyansatan.github.io/lightning/"
-    ]
-  ],
-  [
-    [
-      "2022-12-28, 06:39:41",
-      "https://news.ycombinator.com/item?id=34158160"
-    ],
-    [
-      "Principles of Chaos Engineering (2019)",
-      "https://principlesofchaos.org/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "One man’s search for the first Hebrew-lettered cookbook",
       "https://www.atlasobscura.com/articles/first-hebrew-lettered-cookbook"
-    ]
-  ],
-  [
-    [
-      "2022-12-27, 10:40:09",
-      "https://news.ycombinator.com/item?id=34147465"
-    ],
-    [
-      "Petrichor",
-      "https://en.wikipedia.org/wiki/Petrichor"
     ]
   ]
 ]
