@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-12-28, 11:54:50",
+      "https://news.ycombinator.com/item?id=34160107"
+    ],
+    [
+      "Spin up your development background processes with ease",
+      "https://github.com/anystack-sh/porter"
+    ]
+  ],
+  [
+    [
       "2022-12-28, 11:53:32",
       "https://news.ycombinator.com/item?id=34160097"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2022-12-28, 08:38:59",
-      "https://news.ycombinator.com/item?id=34158895"
+      "2022-12-28, 08:19:11",
+      "https://news.ycombinator.com/item?id=34158798"
     ],
     [
-      "Schooling improves intelligence; no effect on impact of socioeconomics, genetics",
-      "https://www.nature.com/articles/s41539-022-00148-5"
+      "Antitrust 101: Tacit Collusion",
+      "https://www.winston.com/en/competition-corner/antitrust-101-tacit-collusion.html"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "How RISC-V Timer Interrupts Work",
       "https://danielmangum.com/posts/risc-v-bytes-timer-interrupts/"
-    ]
-  ],
-  [
-    [
-      "2022-12-27, 19:01:48",
-      "https://news.ycombinator.com/item?id=34152369"
-    ],
-    [
-      "BorgBackup: Deduplicating archiver with compression and encryption",
-      "https://www.borgbackup.org"
     ]
   ],
   [
