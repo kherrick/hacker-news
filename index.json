@@ -131,32 +131,12 @@
   ],
   [
     [
-      "2022-12-27, 19:53:49",
-      "https://news.ycombinator.com/item?id=34152978"
-    ],
-    [
-      "When Algorithms Rule, Values Can Wither",
-      "https://sloanreview.mit.edu/article/when-algorithms-rule-values-can-wither/"
-    ]
-  ],
-  [
-    [
       "2022-12-27, 19:01:48",
       "https://news.ycombinator.com/item?id=34152369"
     ],
     [
       "BorgBackup: Deduplicating archiver with compression and encryption",
       "https://www.borgbackup.org"
-    ]
-  ],
-  [
-    [
-      "2022-12-27, 18:59:11",
-      "https://news.ycombinator.com/item?id=34152333"
-    ],
-    [
-      "The Architecture of the Lisa Personal Computer (1984) [pdf]",
-      "http://bitsavers.org/pdf/apple/lisa/development_history/articles/Daniels_-_The_Architecture_of_the_Lisa_Personal_Computer_198403.pdf"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2022-12-27, 07:21:44",
+      "https://news.ycombinator.com/item?id=34146145"
+    ],
+    [
+      "Aggregation Theory (2015)",
+      "https://stratechery.com/2015/aggregation-theory/"
+    ]
+  ],
+  [
+    [
       "2022-12-27, 06:48:45",
       "https://news.ycombinator.com/item?id=34145934"
     ],
@@ -267,6 +257,16 @@
     [
       "Run Third-Party Scripts from a Web Worker",
       "https://partytown.builder.io/"
+    ]
+  ],
+  [
+    [
+      "2022-12-27, 06:04:44",
+      "https://news.ycombinator.com/item?id=34145672"
+    ],
+    [
+      "A New Old Idea; Permacomputing",
+      "https://systemstack.dev/2022/12/new-old-computer/"
     ]
   ],
   [
