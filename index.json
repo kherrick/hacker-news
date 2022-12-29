@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-29, 20:04:57",
-      "https://news.ycombinator.com/item?id=34177231"
-    ],
-    [
-      "Pele Has Died",
-      "https://www.bbc.co.uk/sport/football/42751517"
-    ]
-  ],
-  [
-    [
       "2022-12-29, 20:04:40",
       "https://news.ycombinator.com/item?id=34177221"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34176601"
     ],
     [
-      "Pelé, the Global Face of Soccer, Dies at 82",
+      "Pelé has died",
       "https://www.nytimes.com/2022/12/29/sports/soccer/pele-dead.html"
     ]
   ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34176479"
     ],
     [
-      "zLib a website to search for books in the Z-Library index on the IPFS network",
+      "A search engine for searching books in the Z-Library index on the IPFS network",
       "https://zlib.zu1k.com/"
     ]
   ],
@@ -91,12 +81,12 @@
   ],
   [
     [
-      "2022-12-29, 17:47:27",
-      "https://news.ycombinator.com/item?id=34175466"
+      "2022-12-29, 18:00:10",
+      "https://news.ycombinator.com/item?id=34175639"
     ],
     [
-      "Windows Update but Not Automatic",
-      "https://github.com/DavidXanatos/wumgr"
+      "ULIDs and Primary Keys",
+      "https://blog.daveallie.com/ulid-primary-keys"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "The Linux Command Line",
       "https://www.linuxcommand.org/tlcl.php"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 14:05:40",
+      "https://news.ycombinator.com/item?id=34161044"
+    ],
+    [
+      "TeXmacs “The Jolly Writer” book now available as pdf download",
+      "https://www.scypress.com/book_download.html"
     ]
   ],
   [
