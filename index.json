@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-12-29, 21:37:06",
-      "https://news.ycombinator.com/item?id=34178349"
+      "2022-12-29, 21:38:17",
+      "https://news.ycombinator.com/item?id=34178358"
     ],
     [
-      "Ask HN: Tutorials Written with Heavy Dependencies",
-      "https://news.ycombinator.com/item?id=34178349"
+      "Vivienne Westwood has died",
+      "https://www.theguardian.com/fashion/2022/dec/29/dame-vivienne-westwood-fashion-designer-dies-aged-81"
+    ]
+  ],
+  [
+    [
+      "2022-12-29, 21:23:32",
+      "https://news.ycombinator.com/item?id=34178168"
+    ],
+    [
+      "Unintended consequences of blocking IP addresses",
+      "https://blog.cloudflare.com/consequences-of-ip-blocking/"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34177930"
     ],
     [
-      "Privacy Is OK",
+      "Privacy is ok",
       "https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK"
     ]
   ],
@@ -41,22 +51,22 @@
   ],
   [
     [
+      "2022-12-29, 20:14:35",
+      "https://news.ycombinator.com/item?id=34177331"
+    ],
+    [
+      "Encrypted DNS and NTP = Deadlock",
+      "https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f"
+    ]
+  ],
+  [
+    [
       "2022-12-29, 20:06:52",
       "https://news.ycombinator.com/item?id=34177252"
     ],
     [
       "Airport runway names shift with magnetic field",
       "https://www.ncei.noaa.gov/news/airport-runway-names-shift-magnetic-field"
-    ]
-  ],
-  [
-    [
-      "2022-12-29, 19:51:21",
-      "https://news.ycombinator.com/item?id=34177057"
-    ],
-    [
-      "Filmora is no longer supporting user's Lifetime licenses",
-      "https://linustechtips.com/topic/1476599-filmora-is-no-longer-supporting-users-lifetime-licenses/"
     ]
   ],
   [
@@ -141,26 +151,6 @@
   ],
   [
     [
-      "2022-12-29, 16:33:00",
-      "https://news.ycombinator.com/item?id=34174356"
-    ],
-    [
-      "Hydroxychloroquine lowers Alzheimer's disease and related dementias risk",
-      "https://pubmed.ncbi.nlm.nih.gov/36577843/"
-    ]
-  ],
-  [
-    [
-      "2022-12-29, 15:50:33",
-      "https://news.ycombinator.com/item?id=34173830"
-    ],
-    [
-      "Hundreds of Houston bats were saved after a cold snap",
-      "https://www.npr.org/2022/12/28/1145923340/1-600-bats-fell-to-the-ground-during-houstons-cold-snap-heres-how-they-were-save"
-    ]
-  ],
-  [
-    [
       "2022-12-29, 15:45:26",
       "https://news.ycombinator.com/item?id=34173761"
     ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2022-12-28, 15:07:30",
+      "https://news.ycombinator.com/item?id=34161661"
+    ],
+    [
+      "Bash retry function with exponential backoff",
+      "https://gist.github.com/sj26/88e1c6584397bb7c13bd11108a579746"
+    ]
+  ],
+  [
+    [
       "2022-12-28, 14:09:05",
       "https://news.ycombinator.com/item?id=34161081"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=34157761"
     ],
     [
-      "iCub Knows Where You Look: Exploiting Social Cues for Object Detection Learning",
+      "iCub knows where you look: Exploiting social cues for object detection learning",
       "https://arxiv.org/abs/2207.13552"
     ]
   ],
