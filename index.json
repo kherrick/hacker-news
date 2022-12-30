@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-30, 18:58:05",
+      "https://news.ycombinator.com/item?id=34188528"
+    ],
+    [
+      "Lies we tell ourselves to keep using Golang",
+      "https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang#the-author-is-a-platypus"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 18:52:32",
       "https://news.ycombinator.com/item?id=34188461"
     ],
@@ -17,6 +27,16 @@
     [
       "Transformer Stockpiles–and Grids–Come Under Threat",
       "https://spectrum.ieee.org/transformer-stockpiles"
+    ]
+  ],
+  [
+    [
+      "2022-12-30, 18:42:41",
+      "https://news.ycombinator.com/item?id=34188320"
+    ],
+    [
+      "PostgreSQL and Software Development",
+      "https://hdombrovskaya.wordpress.com/2022/12/29/pgsql-phriday-004-postgresql-and-software-development/"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34187032"
     ],
     [
-      "Switching to software engineering after 5 years in data science",
+      "I became a software engineer after 5 years in data science",
       "https://zachary-thomas.medium.com/how-i-became-a-software-engineer-after-5-years-in-data-science-e0c56b872257"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=34186886"
     ],
     [
-      "How we got grifted by a multi-billion dollar grocery distributor",
+      "We got grifted by a distributor and need to move 30k bags of coffee [updated]",
       "https://www.modest.coffee/2022/12/how-we-got-grifted/"
     ]
   ],
@@ -107,16 +127,6 @@
     [
       "Why I'm still using Python",
       "https://mostlypython.substack.com/p/why-im-still-using-python"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 15:11:54",
-      "https://news.ycombinator.com/item?id=34185718"
-    ],
-    [
-      "What would a decentralised Uber look like?",
-      "https://shkspr.mobi/blog/2022/12/what-would-a-decentralised-uber-look-like/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Algorithms to Live By – The Computer Science of Human Decisions",
       "https://blog.galowicz.de/2022/12/28/book-review-algorithms-to-live-by/"
-    ]
-  ],
-  [
-    [
-      "2022-12-28, 14:27:05",
-      "https://news.ycombinator.com/item?id=34161259"
-    ],
-    [
-      "How Novell Netware lost the battle against Windows NT (2013)",
-      "https://www.theregister.com/2013/07/16/netware_4_anniversary/"
     ]
   ],
   [
