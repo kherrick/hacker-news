@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-30, 20:08:29",
+      "https://news.ycombinator.com/item?id=34189422"
+    ],
+    [
+      "Why I wrote a SQL engine in (only) Python",
+      "https://github.com/marsupialtail/quokka/blob/master/blog/why.md"
+    ]
+  ],
+  [
+    [
+      "2022-12-30, 19:34:27",
+      "https://news.ycombinator.com/item?id=34189003"
+    ],
+    [
+      "Show HN: Backup Scheduler",
+      "https://github.com/divyenduz/backup-scheduler"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 19:32:03",
       "https://news.ycombinator.com/item?id=34188975"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-12-30, 16:30:58",
-      "https://news.ycombinator.com/item?id=34186573"
-    ],
-    [
-      "Summary: “No: The Only Negotiating System You Need for Work and Home” – Jim Camp",
-      "https://www.chestergrant.com/summary-no-the-only-negotiating-system-you-need-for-work-and-home-by-jim-camp"
-    ]
-  ],
-  [
-    [
       "2022-12-30, 16:23:07",
       "https://news.ycombinator.com/item?id=34186484"
     ],
@@ -197,16 +207,6 @@
     [
       "Quickly checking that a string belongs to a small set",
       "https://lemire.me/blog/2022/12/30/quickly-checking-that-a-string-belongs-to-a-small-set/"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 10:28:17",
-      "https://news.ycombinator.com/item?id=34183738"
-    ],
-    [
-      "50 years of C, the good, the bad and the ugly [video]",
-      "https://streaming.media.ccc.de/jev22/relive/49151"
     ]
   ],
   [
