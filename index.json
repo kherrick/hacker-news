@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-30, 12:54:47",
+      "https://news.ycombinator.com/item?id=34184564"
+    ],
+    [
+      "SpaceX caps 2022 with record-setting 61st Falcon 9 launch",
+      "https://www.cbsnews.com/news/spacex-closes-out-22-with-record-setting-61st-falcon-9-launch/"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 12:51:27",
       "https://news.ycombinator.com/item?id=34184540"
     ],
@@ -101,32 +111,12 @@
   ],
   [
     [
-      "2022-12-30, 02:48:26",
-      "https://news.ycombinator.com/item?id=34181206"
-    ],
-    [
-      "Herb Kelleher: Manage in Good Times So You'll Do Well in the Bad Times (2006)",
-      "https://www.gsb.stanford.edu/insights/herb-kelleher-manage-good-times-so-youll-do-well-bad-times"
-    ]
-  ],
-  [
-    [
       "2022-12-30, 01:24:47",
       "https://news.ycombinator.com/item?id=34180508"
     ],
     [
       "Poll: What's the best laptop for Linux these days?",
       "https://news.ycombinator.com/item?id=34180508"
-    ]
-  ],
-  [
-    [
-      "2022-12-29, 23:17:43",
-      "https://news.ycombinator.com/item?id=34179426"
-    ],
-    [
-      "Golang disables Nagle's Algorithm by default",
-      "https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Make your database tables smaller",
       "https://jezenthomas.com/make-your-database-tables-smaller/"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 16:41:48",
+      "https://news.ycombinator.com/item?id=34162763"
+    ],
+    [
+      "Log4Shell Still Has Sting in the Tail",
+      "https://spectrum.ieee.org/log4shell-log4j-still-stings"
     ]
   ],
   [
