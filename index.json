@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-12-30, 00:28:38",
+      "https://news.ycombinator.com/item?id=34180037"
+    ],
+    [
+      "ChatGPT Political Compass",
+      "https://www.gptoverflow.link/question/1519492600837443584/chatgpt-political-compass"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 00:17:12",
       "https://news.ycombinator.com/item?id=34179949"
     ],
@@ -21,21 +31,11 @@
   ],
   [
     [
-      "2022-12-29, 23:32:34",
-      "https://news.ycombinator.com/item?id=34179568"
-    ],
-    [
-      "How to Identify a Scientific Fact",
-      "https://blog.oup.com/2022/11/how-to-identify-a-scientific-fact/"
-    ]
-  ],
-  [
-    [
       "2022-12-29, 23:17:43",
       "https://news.ycombinator.com/item?id=34179426"
     ],
     [
-      "Golang is evil on shitty networks",
+      "This adventure starts with git-lfs",
       "https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34179067"
     ],
     [
-      "Software Illustrated: I'm just trying to change this lightbulb",
+      "I'm just trying to change this lightbulb (2014)",
       "https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34178994"
     ],
     [
-      "Freenet build 1495 released: new user entrance, user experience, performance",
+      "Freenet build 1495: new user experience and performance",
       "https://freenetproject.org/freenet-build-1495-new-user-experience-and-performance.html"
     ]
   ],
@@ -221,21 +221,11 @@
   ],
   [
     [
-      "2022-12-29, 10:52:38",
-      "https://news.ycombinator.com/item?id=34171406"
-    ],
-    [
-      "WireGuard for the ESP32",
-      "https://github.com/ciniml/WireGuard-ESP32-Arduino"
-    ]
-  ],
-  [
-    [
       "2022-12-28, 15:56:13",
       "https://news.ycombinator.com/item?id=34162229"
     ],
     [
-      "Inequality, Interest Rates, Aging, and the Role of Central Banks",
+      "Inequality, interest rates, aging, and the role of central banks (2021)",
       "https://theovershoot.co/p/inequality-interest-rates-aging-and"
     ]
   ],
@@ -251,11 +241,21 @@
   ],
   [
     [
+      "2022-12-28, 15:06:23",
+      "https://news.ycombinator.com/item?id=34161647"
+    ],
+    [
+      "“Lying” by Sissela Bok: a summary and discussion",
+      "https://infed.org/mobi/sissela-bok-on-lying-and-moral-choice-in-private-and-public-life-an-amplification/"
+    ]
+  ],
+  [
+    [
       "2022-12-28, 14:08:15",
       "https://news.ycombinator.com/item?id=34161071"
     ],
     [
-      "How I found my house through 6 degrees of separation",
+      "I found my house through 6 degrees of separation",
       "https://glissblog.vercel.app/posts/how-i-found-my-new-house-thru-6-degrees"
     ]
   ],
