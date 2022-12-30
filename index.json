@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-30, 11:04:23",
+      "https://news.ycombinator.com/item?id=34183944"
+    ],
+    [
+      "A portable, modern regular expression language",
+      "https://pomsky-lang.org/"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 10:12:21",
       "https://news.ycombinator.com/item?id=34183663"
     ],
@@ -27,16 +37,6 @@
     [
       "Prolonged oral breathing could significantly induce impaired cognitive function",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8228257/"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 03:36:43",
-      "https://news.ycombinator.com/item?id=34181484"
-    ],
-    [
-      "SGCL: Real-time garbage collector for C++",
-      "https://github.com/pebal/sgcl"
     ]
   ],
   [
