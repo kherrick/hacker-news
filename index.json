@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-30, 03:07:37",
+      "https://news.ycombinator.com/item?id=34181339"
+    ],
+    [
+      "Where does ChatGPT fall on the political compass?",
+      "https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 01:24:47",
       "https://news.ycombinator.com/item?id=34180508"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34179426"
     ],
     [
-      "This adventure starts with git-lfs",
+      "Golang disables Nagle's Algorithm by default",
       "https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/"
     ]
   ],
@@ -101,22 +111,22 @@
   ],
   [
     [
-      "2022-12-29, 21:07:20",
-      "https://news.ycombinator.com/item?id=34177930"
-    ],
-    [
-      "Privacy is ok",
-      "https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK"
-    ]
-  ],
-  [
-    [
       "2022-12-29, 21:01:08",
       "https://news.ycombinator.com/item?id=34177863"
     ],
     [
       "Hive (YC S14) is hiring devs #3-10 in 2023 (Canada remote)",
       "https://angel.co/l/2xRy8y"
+    ]
+  ],
+  [
+    [
+      "2022-12-29, 20:14:35",
+      "https://news.ycombinator.com/item?id=34177331"
+    ],
+    [
+      "Encrypted DNS and NTP = Deadlock",
+      "https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "ULIDs and Primary Keys",
       "https://blog.daveallie.com/ulid-primary-keys"
-    ]
-  ],
-  [
-    [
-      "2022-12-29, 17:06:42",
-      "https://news.ycombinator.com/item?id=34174806"
-    ],
-    [
-      "TSMC starts volume production of 3nm chips",
-      "https://focustaiwan.tw/business/202212290013"
     ]
   ],
   [
