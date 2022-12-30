@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-30, 08:11:07",
+      "https://news.ycombinator.com/item?id=34183020"
+    ],
+    [
+      "An M1 for Curl",
+      "https://daniel.haxx.se/blog/2022/12/30/an-m1-for-curl/"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 03:07:37",
       "https://news.ycombinator.com/item?id=34181339"
     ],
@@ -87,16 +97,6 @@
     [
       "Freenet build 1495: new user experience and performance",
       "https://freenetproject.org/freenet-build-1495-new-user-experience-and-performance.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-29, 22:23:16",
-      "https://news.ycombinator.com/item?id=34178880"
-    ],
-    [
-      "The IE 11 user-agent forced Mozilla to freeze part of its user-agent string",
-      "https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html"
     ]
   ],
   [
