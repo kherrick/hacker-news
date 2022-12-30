@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-12-30, 16:50:34",
+      "https://news.ycombinator.com/item?id=34186806"
+    ],
+    [
+      "NuttX RTOS for PinePhone: Framebuffer",
+      "https://lupyuen.github.io/articles/fb?1"
+    ]
+  ],
+  [
+    [
+      "2022-12-30, 16:45:50",
+      "https://news.ycombinator.com/item?id=34186742"
+    ],
+    [
+      "Tamagui 1.0 – Cross-platform React apps in ½ the time with 2x performance",
+      "https://tamagui.dev/blog/version-one"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 16:30:58",
       "https://news.ycombinator.com/item?id=34186573"
     ],
     [
       "Summary: “No: The Only Negotiating System You Need for Work and Home” – Jim Camp",
       "https://www.chestergrant.com/summary-no-the-only-negotiating-system-you-need-for-work-and-home-by-jim-camp"
+    ]
+  ],
+  [
+    [
+      "2022-12-30, 16:12:18",
+      "https://news.ycombinator.com/item?id=34186349"
+    ],
+    [
+      "Tech Execs Who Raise Their Kids Tech-Free or Limit Their Screen Time",
+      "https://www.businessinsider.com/tech-execs-screen-time-children-bill-gates-steve-jobs-2019-9"
     ]
   ],
   [
@@ -111,26 +141,6 @@
   ],
   [
     [
-      "2022-12-30, 12:51:27",
-      "https://news.ycombinator.com/item?id=34184540"
-    ],
-    [
-      "Amazon admits no basis for damages in $1M asset seizure by DOJ",
-      "https://twitter.com/amy_k_nelson/status/1608447389538418689"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 11:38:34",
-      "https://news.ycombinator.com/item?id=34184129"
-    ],
-    [
-      "Feds lift gain-of-function research pause, offer guidance (2017)",
-      "https://www.cidrap.umn.edu/dual-use-research/feds-lift-gain-function-research-pause-offer-guidance"
-    ]
-  ],
-  [
-    [
       "2022-12-30, 11:04:23",
       "https://news.ycombinator.com/item?id=34183944"
     ],
@@ -157,6 +167,16 @@
     [
       "Color Formats in CSS",
       "https://www.joshwcomeau.com/css/color-formats/"
+    ]
+  ],
+  [
+    [
+      "2022-12-30, 08:11:07",
+      "https://news.ycombinator.com/item?id=34183020"
+    ],
+    [
+      "An M1 for Curl",
+      "https://daniel.haxx.se/blog/2022/12/30/an-m1-for-curl/"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2022-12-29, 22:51:46",
-      "https://news.ycombinator.com/item?id=34179185"
-    ],
-    [
-      "Can a Tarot card reading be defamatory?",
-      "https://popehat.substack.com/p/can-a-tarot-card-reading-be-defamatory"
-    ]
-  ],
-  [
-    [
       "2022-12-29, 19:05:23",
       "https://news.ycombinator.com/item?id=34176479"
     ],
     [
       "A search engine for searching books in the Z-Library index on the IPFS network",
       "https://zlib.zu1k.com/"
-    ]
-  ],
-  [
-    [
-      "2022-12-29, 00:15:59",
-      "https://news.ycombinator.com/item?id=34167839"
-    ],
-    [
-      "Make your database tables smaller",
-      "https://jezenthomas.com/make-your-database-tables-smaller/"
     ]
   ],
   [
