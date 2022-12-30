@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-30, 19:32:03",
+      "https://news.ycombinator.com/item?id=34188975"
+    ],
+    [
+      "What are those dents in I-90 outside Seattle?",
+      "https://boards.straightdope.com/t/what-are-those-dents-in-i-90-outside-seattle/422061/30"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 19:13:52",
       "https://news.ycombinator.com/item?id=34188734"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2022-12-30, 18:58:05",
-      "https://news.ycombinator.com/item?id=34188528"
+      "2022-12-30, 18:58:32",
+      "https://news.ycombinator.com/item?id=34188535"
     ],
     [
-      "Lies we tell ourselves to keep using Golang",
-      "https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang#the-author-is-a-platypus"
+      "9 Forecasts for the Near Future, with Implications",
+      "https://scottbelsky.substack.com/p/edition1"
     ]
   ],
   [
@@ -35,18 +45,8 @@
       "https://news.ycombinator.com/item?id=34188356"
     ],
     [
-      "Transformer Stockpiles–and Grids–Come Under Threat",
+      "Transformer stockpiles and power grids come under threat",
       "https://spectrum.ieee.org/transformer-stockpiles"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 18:42:41",
-      "https://news.ycombinator.com/item?id=34188320"
-    ],
-    [
-      "PostgreSQL and Software Development",
-      "https://hdombrovskaya.wordpress.com/2022/12/29/pgsql-phriday-004-postgresql-and-software-development/"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=34186742"
     ],
     [
-      "Tamagui 1.0 – Cross-platform React apps in ½ the time with 2x performance",
+      "Tamagui 1.0 – Cross-platform React apps",
       "https://tamagui.dev/blog/version-one"
     ]
   ],
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2022-12-30, 14:38:03",
-      "https://news.ycombinator.com/item?id=34185389"
-    ],
-    [
-      "AMD, Intel, and Nvidia Reportedly Slash Orders with TSMC",
-      "https://www.tomshardware.com/news/amd-intel-nvidia-slash-orders-to-tsmc"
-    ]
-  ],
-  [
-    [
       "2022-12-30, 14:20:42",
       "https://news.ycombinator.com/item?id=34185209"
     ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2022-12-30, 10:28:17",
+      "https://news.ycombinator.com/item?id=34183738"
+    ],
+    [
+      "50 years of C, the good, the bad and the ugly [video]",
+      "https://streaming.media.ccc.de/jev22/relive/49151"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 10:12:21",
       "https://news.ycombinator.com/item?id=34183663"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2022-12-29, 22:16:48",
-      "https://news.ycombinator.com/item?id=34178789"
-    ],
-    [
-      "Show HN: Scripting language inspired by JavaScript and GLSL",
-      "https://github.com/sebbekarlsson/glms"
-    ]
-  ],
-  [
-    [
       "2022-12-29, 19:24:54",
       "https://news.ycombinator.com/item?id=34176739"
     ],
     [
       "The Ghosts of Kennan",
       "https://www.foreignaffairs.com/reviews/ghosts-george-kennan-lessons-cold-war"
+    ]
+  ],
+  [
+    [
+      "2022-12-29, 15:05:02",
+      "https://news.ycombinator.com/item?id=34173290"
+    ],
+    [
+      "Text layout is a loose hierarchy of segmentation (2020)",
+      "https://raphlinus.github.io/text/2020/10/26/text-layout.html"
     ]
   ],
   [
