@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2022-12-30, 20:29:19",
-      "https://news.ycombinator.com/item?id=34189684"
-    ],
-    [
-      "Boston Housing Price Dataset was Removed from scikit-learn 1.2",
-      "https://github.com/scikit-learn/scikit-learn/blob/2cce02414d4a7161f0d105450c196d94b1182220/sklearn/datasets/__init__.py"
-    ]
-  ],
-  [
-    [
       "2022-12-30, 20:08:29",
       "https://news.ycombinator.com/item?id=34189422"
     ],
@@ -81,16 +71,6 @@
   ],
   [
     [
-      "2022-12-30, 18:58:32",
-      "https://news.ycombinator.com/item?id=34188535"
-    ],
-    [
-      "9 Forecasts for the Near Future, with Implications",
-      "https://scottbelsky.substack.com/p/edition1"
-    ]
-  ],
-  [
-    [
       "2022-12-30, 18:52:32",
       "https://news.ycombinator.com/item?id=34188461"
     ],
@@ -117,6 +97,16 @@
     [
       "2022 Letter",
       "https://zhengdongwang.com/2022/12/28/2022-letter.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-30, 17:42:07",
+      "https://news.ycombinator.com/item?id=34187461"
+    ],
+    [
+      "The Dymaxion Bathroom",
+      "https://blogs.uoregon.edu/dymaxionhouse/the-dymaxion-bathroom/"
     ]
   ],
   [
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2022-12-29, 19:24:54",
-      "https://news.ycombinator.com/item?id=34176739"
+      "2022-12-29, 17:03:52",
+      "https://news.ycombinator.com/item?id=34174765"
     ],
     [
-      "The Ghosts of Kennan",
-      "https://www.foreignaffairs.com/reviews/ghosts-george-kennan-lessons-cold-war"
+      "Power on the moon: What will it take to survive the lunar night?",
+      "https://www.universetoday.com/159372/power-on-the-moon-what-will-it-take-to-survive-the-lunar-night/"
     ]
   ],
   [
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2022-12-28, 16:41:48",
-      "https://news.ycombinator.com/item?id=34162763"
+      "2022-12-28, 16:50:14",
+      "https://news.ycombinator.com/item?id=34162865"
     ],
     [
-      "Log4Shell Still Has Sting in the Tail",
-      "https://spectrum.ieee.org/log4shell-log4j-still-stings"
+      "Cheerful chatbots don’t necessarily improve customer service",
+      "https://research.gatech.edu/cheerful-chatbots-dont-necessarily-improve-customer-service"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Algorithms to Live By – The Computer Science of Human Decisions",
       "https://blog.galowicz.de/2022/12/28/book-review-algorithms-to-live-by/"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 14:27:05",
+      "https://news.ycombinator.com/item?id=34161259"
+    ],
+    [
+      "How Novell Netware lost the battle against Windows NT (2013)",
+      "https://www.theregister.com/2013/07/16/netware_4_anniversary/"
     ]
   ],
   [
