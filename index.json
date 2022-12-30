@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-12-29, 15:45:26",
-      "https://news.ycombinator.com/item?id=34173761"
-    ],
-    [
-      "Show HN: GUI for making animated webcomics",
-      "https://elonman.com/page/how/"
-    ]
-  ],
-  [
-    [
       "2022-12-29, 00:15:59",
       "https://news.ycombinator.com/item?id=34167839"
     ],
@@ -297,6 +287,16 @@
     [
       "Saying “sup” with `net send`",
       "https://drew.shoes/posts/sup/"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 04:21:27",
+      "https://news.ycombinator.com/item?id=34157505"
+    ],
+    [
+      "Ruby-Nix: Generates reproducible Ruby/bundler app environment with Nix",
+      "https://github.com/sagittaros/ruby-nix"
     ]
   ]
 ]
