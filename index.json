@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-31, 03:32:56",
+      "https://news.ycombinator.com/item?id=34193243"
+    ],
+    [
+      "Lila: A Unified Benchmark for Mathematical Reasoning",
+      "https://arxiv.org/abs/2210.17517"
+    ]
+  ],
+  [
+    [
       "2022-12-31, 02:57:59",
       "https://news.ycombinator.com/item?id=34193047"
     ],
@@ -47,16 +57,6 @@
     [
       "Young adults and mental health: Is more childhood independence the answer?",
       "https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 21:24:53",
-      "https://news.ycombinator.com/item?id=34190284"
-    ],
-    [
-      "Control Pandas, Polars, or SQL from One DSL",
-      "https://github.com/WinVector/data_algebra"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2022-12-29, 21:53:36",
-      "https://news.ycombinator.com/item?id=34178539"
+      "2022-12-30, 01:17:24",
+      "https://news.ycombinator.com/item?id=34180436"
     ],
     [
-      "Art as the Overcoming of Death: The Russian Cosmists (2018)",
-      "https://www.e-flux.com/journal/89/180332/art-as-the-overcoming-of-death-from-nikolai-fedorov-to-the-cosmists-of-the-1920s/"
+      "EndBASIC 0.10: Core language, evolved",
+      "https://jmmv.dev/2022/12/endbasic-0.10.html"
     ]
   ],
   [
