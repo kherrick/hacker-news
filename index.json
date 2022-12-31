@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-12-31, 00:24:33",
-      "https://news.ycombinator.com/item?id=34191831"
+      "2022-12-31, 01:34:27",
+      "https://news.ycombinator.com/item?id=34192427"
     ],
     [
-      "Wage inequality may be starting to reverse",
-      "https://www.wsj.com/articles/wage-inequality-may-be-starting-to-reverse-11672339062"
+      "Seattle tech worker charged for theft inspired by the movie 'Office Space'",
+      "https://komonews.com/news/local/seattle-tech-worker-charged-for-theft-inspired-by-the-movie-office-space"
+    ]
+  ],
+  [
+    [
+      "2022-12-31, 01:25:35",
+      "https://news.ycombinator.com/item?id=34192336"
+    ],
+    [
+      "Decentralized storage company Storj removed their warrant canary",
+      "https://www.storj.io/canary.txt"
+    ]
+  ],
+  [
+    [
+      "2022-12-31, 00:48:06",
+      "https://news.ycombinator.com/item?id=34191984"
+    ],
+    [
+      "This Year I Will Write More",
+      "https://candrewlee14.github.io/blog/i-will-write-more/"
     ]
   ],
   [
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2022-12-30, 22:45:50",
-      "https://news.ycombinator.com/item?id=34191028"
-    ],
-    [
-      "RGCosm – Reverse Geocode for OpenStreetmap",
-      "https://github.com/punnerud/rgcosm"
-    ]
-  ],
-  [
-    [
       "2022-12-30, 22:40:10",
       "https://news.ycombinator.com/item?id=34190975"
     ],
     [
       "Young adults are struggling with their mental health",
       "https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 21:24:53",
-      "https://news.ycombinator.com/item?id=34190284"
-    ],
-    [
-      "Control Pandas, Polars, or SQL from One DSL",
-      "https://github.com/WinVector/data_algebra"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-12-29, 21:32:48",
-      "https://news.ycombinator.com/item?id=34178300"
-    ],
-    [
-      "Speaker diarization (labels) for OpenAI Whisper generated transcripts",
-      "https://www.ufarooqi.com/speaker-diarization-for-whisper-transcripts/"
-    ]
-  ],
-  [
-    [
       "2022-12-29, 17:03:52",
       "https://news.ycombinator.com/item?id=34174765"
     ],
@@ -217,6 +207,16 @@
     [
       "Text layout is a loose hierarchy of segmentation (2020)",
       "https://raphlinus.github.io/text/2020/10/26/text-layout.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 17:50:24",
+      "https://news.ycombinator.com/item?id=34163642"
+    ],
+    [
+      "Roboflow 100: A New Object Detection Benchmark",
+      "https://www.rf100.org"
     ]
   ],
   [
