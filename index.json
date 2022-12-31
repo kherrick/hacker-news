@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-31, 21:50:27",
+      "https://news.ycombinator.com/item?id=34201132"
+    ],
+    [
+      "Seven Stowaways and a Hijacked Oil Tanker",
+      "https://www.theguardian.com/world/2022/jun/09/stowaways-oil-tanker-isle-of-wight-hijacking-strange-case-nave-andromeda"
+    ]
+  ],
+  [
+    [
+      "2022-12-31, 21:20:49",
+      "https://news.ycombinator.com/item?id=34200883"
+    ],
+    [
+      "Large-Scale Vehicle Classification",
+      "https://blog.aqnichol.com/2022/12/31/large-scale-vehicle-classification/"
+    ]
+  ],
+  [
+    [
       "2022-12-31, 20:46:07",
       "https://news.ycombinator.com/item?id=34200564"
     ],
@@ -17,16 +37,6 @@
     [
       "New industries come from crazy people (2021)",
       "https://www.palladiummag.com/2021/02/02/new-industries-come-from-crazy-people/"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 20:30:12",
-      "https://news.ycombinator.com/item?id=34200392"
-    ],
-    [
-      "Episteme and Techne",
-      "https://plato.stanford.edu/entries/episteme-techne/"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2022-12-31, 16:49:00",
-      "https://news.ycombinator.com/item?id=34198172"
-    ],
-    [
-      "For Humpbacks, Bubbles Can Be Tools",
-      "https://hakaimagazine.com/videos-visuals/for-humpbacks-bubbles-can-be-tools/"
-    ]
-  ],
-  [
-    [
       "2022-12-31, 16:43:44",
       "https://news.ycombinator.com/item?id=34198120"
     ],
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2022-12-31, 15:19:48",
-      "https://news.ycombinator.com/item?id=34197169"
-    ],
-    [
-      "Complementary foundations for mathematics: when do we choose? [pdf]",
-      "https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf"
-    ]
-  ],
-  [
-    [
       "2022-12-31, 15:12:28",
       "https://news.ycombinator.com/item?id=34197098"
     ],
@@ -197,6 +187,16 @@
     [
       "Cached Chrome Top Million Websites",
       "https://github.com/zakird/crux-top-lists"
+    ]
+  ],
+  [
+    [
+      "2022-12-31, 13:47:05",
+      "https://news.ycombinator.com/item?id=34196370"
+    ],
+    [
+      "Analyzing the complexity of various RISC/CISC architectures",
+      "https://userpages.umbc.edu/~vijay/mashey.on.risc.html"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-12-31, 02:56:23",
-      "https://news.ycombinator.com/item?id=34193033"
+      "2022-12-30, 05:06:04",
+      "https://news.ycombinator.com/item?id=34182010"
     ],
     [
-      "Mummy – web server written in Nim that returns to the ancient ways of threads",
-      "https://github.com/guzba/mummy"
+      "Over-engineering an emoji webcam filter with a neural network",
+      "https://jott.live/markdown/images_as_emoji"
     ]
   ],
   [
