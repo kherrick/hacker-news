@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2022-12-31, 14:36:35",
-      "https://news.ycombinator.com/item?id=34196771"
+      "2022-12-31, 14:53:12",
+      "https://news.ycombinator.com/item?id=34196925"
     ],
     [
-      "South Korea's middle aged men are dying 'lonely deaths'",
-      "https://lite.cnn.com/en/article/h_80a652c828dba44d567472356998ce21"
+      "US navy released worst rust photo to date",
+      "https://gcaptain.com/us-navy-released-worst-rust-photo-to-date/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Magic beans, Bahamian penthouses, old-fashioned fraud and other important SBF-in",
       "https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine/"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 14:15:49",
-      "https://news.ycombinator.com/item?id=34196592"
-    ],
-    [
-      "CA high-speed rail is Exhibit A for how America can’t build big things anymore",
-      "https://twitter.com/noahpinion/status/1608641613315858433"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Whatever happened to SHA-256 support in Git",
       "https://lwn.net/Articles/898522/"
+    ]
+  ],
+  [
+    [
+      "2022-12-31, 02:56:23",
+      "https://news.ycombinator.com/item?id=34193033"
+    ],
+    [
+      "Mummy – web server written in Nim that returns to the ancient ways of threads",
+      "https://github.com/guzba/mummy"
     ]
   ],
   [
