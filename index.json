@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-12-31, 20:46:07",
+      "https://news.ycombinator.com/item?id=34200564"
+    ],
+    [
+      "CPU branch prediction evolution over years",
+      "https://danluu.com/branch-prediction/"
+    ]
+  ],
+  [
+    [
+      "2022-12-31, 20:42:59",
+      "https://news.ycombinator.com/item?id=34200535"
+    ],
+    [
+      "Benedict XVI in Memoriam",
+      "https://www.laciviltacattolica.com/benedict-xvi-in-memoriam/"
+    ]
+  ],
+  [
+    [
+      "2022-12-31, 20:33:13",
+      "https://news.ycombinator.com/item?id=34200428"
+    ],
+    [
+      "New industries come from crazy people (2021)",
+      "https://www.palladiummag.com/2021/02/02/new-industries-come-from-crazy-people/"
+    ]
+  ],
+  [
+    [
+      "2022-12-31, 20:30:12",
+      "https://news.ycombinator.com/item?id=34200392"
+    ],
+    [
+      "Episteme and Techne",
+      "https://plato.stanford.edu/entries/episteme-techne/"
+    ]
+  ],
+  [
+    [
+      "2022-12-31, 20:14:43",
+      "https://news.ycombinator.com/item?id=34200282"
+    ],
+    [
+      "Lawfare Podcast: Content Moderation and the First Amendment for Dummies (2021)",
+      "https://shows.acast.com/lawfare/episodes/lawfare-archive-content-moderation-and-the-first-amendment-f"
+    ]
+  ],
+  [
+    [
       "2022-12-31, 20:10:46",
       "https://news.ycombinator.com/item?id=34200249"
     ],
@@ -47,16 +97,6 @@
     [
       "8,760 Hours: How to get the most out of next year (2016)",
       "https://alexvermeer.com/8760hours/"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 19:12:48",
-      "https://news.ycombinator.com/item?id=34199652"
-    ],
-    [
-      "Mac OS Ventura Issues",
-      "https://morrick.me/archives/9696"
     ]
   ],
   [
@@ -221,42 +261,12 @@
   ],
   [
     [
-      "2022-12-31, 11:10:18",
-      "https://news.ycombinator.com/item?id=34195372"
-    ],
-    [
-      "Deceiving Windows Defender: The Big Stack Bypass",
-      "https://steve-s.gitbook.io/0xtriboulet/deceiving-defender/deceiving-defender-the-big-stack-bypass"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 10:51:46",
-      "https://news.ycombinator.com/item?id=34195291"
-    ],
-    [
-      "A taste of pavex, an upcoming Rust web framework",
-      "https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/"
-    ]
-  ],
-  [
-    [
       "2022-12-31, 09:54:23",
       "https://news.ycombinator.com/item?id=34195045"
     ],
     [
       "VanillaOS: Immutable Ubuntu-Based Linux",
       "https://vanillaos.org/"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 09:20:41",
-      "https://news.ycombinator.com/item?id=34194889"
-    ],
-    [
-      "SD: My script directory",
-      "https://github.com/ianthehenry/sd"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Mummy – web server written in Nim that returns to the ancient ways of threads",
       "https://github.com/guzba/mummy"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 17:29:24",
-      "https://news.ycombinator.com/item?id=34187285"
-    ],
-    [
-      "Can Science Solve the Mystery of the Concrete Book?",
-      "https://www.atlasobscura.com/articles/vostell-concrete-book-mystery"
     ]
   ],
   [
