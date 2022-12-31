@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-12-31, 21:53:51",
+      "https://news.ycombinator.com/item?id=34201157"
+    ],
+    [
+      "Worker Tools: Tools for Writing HTTP Servers in Worker Runtimes",
+      "https://workers.tools/"
+    ]
+  ],
+  [
+    [
       "2022-12-31, 21:50:27",
       "https://news.ycombinator.com/item?id=34201132"
     ],
     [
       "Seven Stowaways and a Hijacked Oil Tanker",
       "https://www.theguardian.com/world/2022/jun/09/stowaways-oil-tanker-isle-of-wight-hijacking-strange-case-nave-andromeda"
+    ]
+  ],
+  [
+    [
+      "2022-12-31, 21:46:46",
+      "https://news.ycombinator.com/item?id=34201098"
+    ],
+    [
+      "Re-Entering the Vampire Castle",
+      "https://justinehsmith.substack.com/p/re-entering-the-vampire-castle"
     ]
   ],
   [
@@ -195,7 +215,7 @@
       "https://news.ycombinator.com/item?id=34196370"
     ],
     [
-      "Analyzing the complexity of various RISC/CISC architectures",
+      "John Mashey on RISC/CISC (1991)",
       "https://userpages.umbc.edu/~vijay/mashey.on.risc.html"
     ]
   ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2022-12-31, 11:10:18",
-      "https://news.ycombinator.com/item?id=34195372"
-    ],
-    [
-      "Deceiving Windows Defender: The Big Stack Bypass",
-      "https://steve-s.gitbook.io/0xtriboulet/deceiving-defender/deceiving-defender-the-big-stack-bypass"
-    ]
-  ],
-  [
-    [
       "2022-12-31, 09:54:23",
       "https://news.ycombinator.com/item?id=34195045"
     ],
     [
       "VanillaOS: Immutable Ubuntu-Based Linux",
       "https://vanillaos.org/"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 08:23:19",
-      "https://news.ycombinator.com/item?id=34194659"
-    ],
-    [
-      "Surviving disillusionment (2020)",
-      "https://www.spakhm.com/p/surviving-disillusionment"
     ]
   ],
   [
