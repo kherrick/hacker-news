@@ -1,21 +1,11 @@
 [
   [
     [
-      "2022-12-31, 04:52:19",
-      "https://news.ycombinator.com/item?id=34193703"
-    ],
-    [
-      "I Lived the VanLife. It Wasn’t Pretty",
-      "https://www.nytimes.com/2022/04/20/magazine/van-life-dwelling.html"
-    ]
-  ],
-  [
-    [
       "2022-12-31, 03:39:58",
       "https://news.ycombinator.com/item?id=34193287"
     ],
     [
-      "Alameda County admits tallying error in ranked choice voting, flips one result",
+      "Alameda County admits tallying error in ranked choice voting",
       "https://www.sfchronicle.com/bayarea/article/Alameda-County-admits-tallying-error-in-17682520.php"
     ]
   ],
@@ -107,6 +97,16 @@
     [
       "I wrote a SQL engine in Python",
       "https://github.com/marsupialtail/quokka/blob/master/blog/why.md"
+    ]
+  ],
+  [
+    [
+      "2022-12-30, 19:44:11",
+      "https://news.ycombinator.com/item?id=34189110"
+    ],
+    [
+      "Opt out of all the data sharing you wouldn't opt in to",
+      "https://simpleoptout.com"
     ]
   ],
   [
@@ -211,12 +211,32 @@
   ],
   [
     [
+      "2022-12-30, 14:43:03",
+      "https://news.ycombinator.com/item?id=34185442"
+    ],
+    [
+      "Write a Wayland Compositor [video]",
+      "https://streaming.media.ccc.de/jev22/relive/49255"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 01:17:24",
       "https://news.ycombinator.com/item?id=34180436"
     ],
     [
       "EndBASIC 0.10: Core language, evolved",
       "https://jmmv.dev/2022/12/endbasic-0.10.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-29, 19:24:54",
+      "https://news.ycombinator.com/item?id=34176739"
+    ],
+    [
+      "The Ghosts of Kennan",
+      "https://www.foreignaffairs.com/reviews/ghosts-george-kennan-lessons-cold-war"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2022-12-28, 17:18:52",
-      "https://news.ycombinator.com/item?id=34163242"
-    ],
-    [
-      "One Thing – Put a single task or goal in your menu bar",
-      "https://sindresorhus.com/one-thing"
-    ]
-  ],
-  [
-    [
       "2022-12-28, 16:50:14",
       "https://news.ycombinator.com/item?id=34162865"
     ],
@@ -267,16 +277,6 @@
     [
       "TV Ratings Road Map: Where, When and How Viewers Watch in the Streaming Era",
       "https://www.hollywoodreporter.com/tv/tv-news/tv-ratings-explained-where-how-viewers-watch-1235286912/"
-    ]
-  ],
-  [
-    [
-      "2022-12-28, 14:23:22",
-      "https://news.ycombinator.com/item?id=34161225"
-    ],
-    [
-      "BBC Set to Replace Robot News Studio Cameras",
-      "https://deadline.com/2022/12/bbc-replacing-robot-news-studio-cameras-1235207592/"
     ]
   ],
   [
