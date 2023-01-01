@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34204073"
     ],
     [
-      "AI Voice Generator: Versatile Text to Speech Software – Murf AI",
+      "AI Voice Generator: Text to Speech Software",
       "https://murf.ai"
     ]
   ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-12-31, 16:30:35",
-      "https://news.ycombinator.com/item?id=34197956"
-    ],
-    [
-      "The 5% Rule",
-      "https://jonpauluritis.com/articles/5-percent-rule/"
-    ]
-  ],
-  [
-    [
       "2022-12-31, 16:02:48",
       "https://news.ycombinator.com/item?id=34197613"
     ],
@@ -285,7 +275,7 @@
       "https://news.ycombinator.com/item?id=34191749"
     ],
     [
-      "I made a home security system, powered by a Raspberry Pi 3",
+      "Raspberry Pi security alarm – the basics",
       "https://blog.cavelab.dev/2022/12/rpi-security-alarm/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Materialized View: SQL Queries on Steroids",
       "https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/"
+    ]
+  ],
+  [
+    [
+      "2022-12-30, 05:06:04",
+      "https://news.ycombinator.com/item?id=34182010"
+    ],
+    [
+      "Over-engineering an emoji webcam filter with a neural network",
+      "https://jott.live/markdown/images_as_emoji"
     ]
   ]
 ]
