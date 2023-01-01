@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2023-01-01, 02:04:39",
-      "https://news.ycombinator.com/item?id=34202836"
+      "2023-01-01, 02:08:46",
+      "https://news.ycombinator.com/item?id=34202857"
     ],
     [
-      "Compromised PyTorch-nightly dependency chain December 30th, 2022",
-      "https://pytorch.org/blog/compromised-nightly-dependency/"
+      "Coworkers are less ambitious; bosses adjust to the new order",
+      "https://www.wsj.com/articles/your-coworkers-are-less-ambitious-bosses-adjust-to-the-new-order-11672441067"
     ]
   ],
   [
@@ -41,11 +41,21 @@
   ],
   [
     [
+      "2023-01-01, 01:23:02",
+      "https://news.ycombinator.com/item?id=34202606"
+    ],
+    [
+      "Easy, alternative soft deletion: `deleted_record_insert`",
+      "https://brandur.org/fragments/deleted-record-insert"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 00:08:15",
       "https://news.ycombinator.com/item?id=34202107"
     ],
     [
-      "Xfinity Stream on Linux (A Tale of Widevine, ChromeOS, and a Patched Glibc)",
+      "Xfinity Stream on Linux: A Tale of Widevine, ChromeOS, and a patched Glibc",
       "https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html"
     ]
   ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-12-31, 16:43:44",
-      "https://news.ycombinator.com/item?id=34198120"
-    ],
-    [
-      "Templates of Doom – A spreadsheet text adventure game (1985)",
-      "https://twitter.com/taviso/status/1609032924015493120"
-    ]
-  ],
-  [
-    [
       "2022-12-31, 16:30:35",
       "https://news.ycombinator.com/item?id=34197956"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2022-12-30, 19:27:14",
-      "https://news.ycombinator.com/item?id=34188915"
+      "2022-12-31, 13:24:59",
+      "https://news.ycombinator.com/item?id=34196232"
     ],
     [
-      "Dynamic LCP priority: Learning from past visits",
-      "https://philipwalton.com/articles/dynamic-lcp-priority/"
+      "The Power of Starting Again",
+      "https://blog.ericfrisch.com/start-again/"
     ]
   ],
   [
