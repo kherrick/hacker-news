@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-01, 05:27:05",
+      "https://news.ycombinator.com/item?id=34203880"
+    ],
+    [
+      "Dirty USB-C Tricks: One Port for the Price of Two",
+      "https://hackaday.com/2022/12/31/dirty-usb-c-tricks-one-port-for-the-price-of-two/"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 04:36:30",
       "https://news.ycombinator.com/item?id=34203653"
     ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2022-12-31, 12:44:10",
-      "https://news.ycombinator.com/item?id=34195951"
+      "2022-12-31, 00:11:38",
+      "https://news.ycombinator.com/item?id=34191749"
     ],
     [
-      "Archaeology and genetics can’t yet agree on when humans arrived in the Americas",
-      "https://aeon.co/essays/the-first-americans-a-story-of-wonderful-uncertain-science"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 19:27:14",
-      "https://news.ycombinator.com/item?id=34188915"
-    ],
-    [
-      "Dynamic LCP priority: Learning from past visits",
-      "https://philipwalton.com/articles/dynamic-lcp-priority/"
+      "I made a home security system, powered by a Raspberry Pi 3",
+      "https://blog.cavelab.dev/2022/12/rpi-security-alarm/"
     ]
   ],
   [
