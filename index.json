@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-01-01, 19:18:24",
-      "https://news.ycombinator.com/item?id=34209706"
-    ],
-    [
-      "Lula Becomes Brazil’s President, Bolsonaro Flees to Florida",
-      "https://www.nytimes.com/2023/01/01/world/americas/bolsonaro-florida-brazil.html"
-    ]
-  ],
-  [
-    [
       "2023-01-01, 18:44:55",
       "https://news.ycombinator.com/item?id=34209313"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34208926"
     ],
     [
-      "Mini Brains Grown from Stem Cells Developed Eye-Like Features (2021)",
+      "Mini brains grown from stem cells developed eye-like features (2021)",
       "https://www.smithsonianmag.com/smart-news/mini-brains-grown-stem-cells-developed-eyes-can-sense-light-180978478/"
     ]
   ],
@@ -77,6 +67,16 @@
     [
       "Tell HN: Did you know that you can help restore a person’s eyesight for $50?",
       "https://news.ycombinator.com/item?id=34208100"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 16:54:57",
+      "https://news.ycombinator.com/item?id=34207996"
+    ],
+    [
+      "Blood test can detect 'toxic' protein years before Alzheimer's symptoms emerge",
+      "https://www.sciencedaily.com/releases/2022/12/221205153722.htm"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-01-01, 13:16:45",
+      "https://news.ycombinator.com/item?id=34206039"
+    ],
+    [
+      "The Fable of the Dragon-Tyrant (2005)",
+      "https://nickbostrom.com/fable/dragon"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 13:08:16",
       "https://news.ycombinator.com/item?id=34205996"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-01-01, 04:17:52",
-      "https://news.ycombinator.com/item?id=34203552"
-    ],
-    [
-      "Posters of the IPv4 and IPv6 internet as of Jan 1, 2023",
-      "https://vad.solutions/ipmap/"
-    ]
-  ],
-  [
-    [
       "2022-12-31, 04:16:46",
       "https://news.ycombinator.com/item?id=34193504"
     ],
@@ -257,16 +257,6 @@
     [
       "A truncated manuscript",
       "https://inference-review.com/article/a-truncated-manuscript"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 00:11:38",
-      "https://news.ycombinator.com/item?id=34191749"
-    ],
-    [
-      "Raspberry Pi security alarm – the basics",
-      "https://blog.cavelab.dev/2022/12/rpi-security-alarm/"
     ]
   ],
   [
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=34187791"
     ],
     [
-      "The Pac-Man Dossier (2015)",
+      "The Pac-Man Dossier (2009)",
       "https://pacman.holenet.info/"
+    ]
+  ],
+  [
+    [
+      "2022-12-29, 10:41:50",
+      "https://news.ycombinator.com/item?id=34171348"
+    ],
+    [
+      "Weird stuff and how to test it",
+      "https://blog.lawrencejones.dev/weird-testing/"
     ]
   ]
 ]
