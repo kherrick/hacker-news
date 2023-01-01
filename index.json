@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-01-01, 02:38:52",
+      "https://news.ycombinator.com/item?id=34203029"
+    ],
+    [
+      "Digital Logic Sim",
+      "https://sebastian.itch.io/digital-logic-sim"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 02:08:46",
       "https://news.ycombinator.com/item?id=34202857"
     ],
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=34198679"
     ],
     [
-      "A Brief History of Haiti's Cherished Soup Joumou",
+      "Haiti's Cherished Soup Joumou",
       "https://www.smithsonianmag.com/travel/haitis-beloved-soup-joumou-serves-up-freedom-in-every-bowl-180981378/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Materialized View: SQL Queries on Steroids",
       "https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 05:06:04",
-      "https://news.ycombinator.com/item?id=34182010"
-    ],
-    [
-      "Over-engineering an emoji webcam filter with a neural network",
-      "https://jott.live/markdown/images_as_emoji"
     ]
   ]
 ]
