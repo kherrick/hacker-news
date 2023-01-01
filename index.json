@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-01-01, 02:35:01",
+      "https://news.ycombinator.com/item?id=34203012"
+    ],
+    [
+      "“Scale” by Greg Egan",
+      "https://www.gregegan.net/SCALE/SCALE.html"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 02:04:39",
       "https://news.ycombinator.com/item?id=34202836"
     ],
@@ -257,16 +267,6 @@
     [
       "Should small Rust structs be passed by-copy or by-borrow? (2019)",
       "https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 13:24:59",
-      "https://news.ycombinator.com/item?id=34196232"
-    ],
-    [
-      "The Power of Starting Again",
-      "https://blog.ericfrisch.com/start-again/"
     ]
   ],
   [
