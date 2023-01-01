@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-01-01, 00:15:03",
-      "https://news.ycombinator.com/item?id=34202159"
+      "2023-01-01, 02:04:39",
+      "https://news.ycombinator.com/item?id=34202836"
     ],
     [
-      "Worst Interview Questions for Software Developers",
-      "https://fibery.io/blog/worst-interview-questions-for-software-developers/"
+      "Compromised PyTorch-nightly dependency chain December 30th, 2022",
+      "https://pytorch.org/blog/compromised-nightly-dependency/"
+    ]
+  ],
+  [
+    [
+      "2022-12-31, 23:20:28",
+      "https://news.ycombinator.com/item?id=34201755"
+    ],
+    [
+      "I did Advent of Code on a Playstation",
+      "https://bvisness.me/advent-of-dreams/"
     ]
   ],
   [
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2022-12-31, 19:31:49",
+      "https://news.ycombinator.com/item?id=34199828"
+    ],
+    [
+      "Self-Hosting and HomeLab Walkthrough",
+      "https://docs.technotim.live/posts/homelab-services-tour-2022/"
+    ]
+  ],
+  [
+    [
       "2022-12-31, 17:55:26",
       "https://news.ycombinator.com/item?id=34198846"
     ],
@@ -147,16 +167,6 @@
     [
       "First TV Image of Mars: Interplanetary color by numbers (2016)",
       "http://www.directedplay.com/first-tv-image-of-mars"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 16:49:00",
-      "https://news.ycombinator.com/item?id=34198172"
-    ],
-    [
-      "For humpbacks, bubbles can be tools",
-      "https://hakaimagazine.com/videos-visuals/for-humpbacks-bubbles-can-be-tools/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Draw SVG rope using JavaScript",
       "https://muffinman.io/blog/draw-svg-rope-using-javascript/"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 15:12:28",
-      "https://news.ycombinator.com/item?id=34197098"
-    ],
-    [
-      "2022: A Retrospective",
-      "https://godotengine.org/article/2022-retrospective"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-12-30, 17:29:24",
-      "https://news.ycombinator.com/item?id=34187285"
+      "2022-12-30, 19:27:14",
+      "https://news.ycombinator.com/item?id=34188915"
     ],
     [
-      "Can science solve the mystery of the concrete book?",
-      "https://www.atlasobscura.com/articles/vostell-concrete-book-mystery"
+      "Dynamic LCP priority: Learning from past visits",
+      "https://philipwalton.com/articles/dynamic-lcp-priority/"
     ]
   ],
   [
