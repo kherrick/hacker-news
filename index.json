@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-01-01, 20:09:43",
-      "https://news.ycombinator.com/item?id=34210315"
-    ],
-    [
-      "Don’t rely on credibility stamps (2021)",
-      "https://nav.al/credibility"
-    ]
-  ],
-  [
-    [
       "2023-01-01, 19:48:45",
       "https://news.ycombinator.com/item?id=34210076"
     ],
@@ -237,6 +227,16 @@
     [
       "Ripes: Visual computer architecture simulator, assembly code editor for RISC-V",
       "https://github.com/mortbopet/Ripes"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 08:23:34",
+      "https://news.ycombinator.com/item?id=34204642"
+    ],
+    [
+      "Competitive programming in Haskell: better binary search",
+      "https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/"
     ]
   ],
   [
