@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-01, 13:19:08",
+      "https://news.ycombinator.com/item?id=34206055"
+    ],
+    [
+      "Rant: Year of Linux on the Desktop (2022)",
+      "https://blog.liw.fi/posts/2022/goalposts/"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 13:08:16",
       "https://news.ycombinator.com/item?id=34205996"
     ],
@@ -127,16 +137,6 @@
     [
       "Coworkers are less ambitious; bosses adjust to the new order",
       "https://www.wsj.com/articles/your-coworkers-are-less-ambitious-bosses-adjust-to-the-new-order-11672441067"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 01:34:04",
-      "https://news.ycombinator.com/item?id=34202662"
-    ],
-    [
-      "Compromised PyTorch-nightly dependency chain between December 25th – December 30",
-      "https://pytorch.org/blog/compromised-nightly-dependency/"
     ]
   ],
   [
