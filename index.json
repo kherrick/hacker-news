@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-01-01, 02:50:36",
-      "https://news.ycombinator.com/item?id=34203098"
-    ],
-    [
-      "Women overinvesting in education? Evidence from the medical profession (2012)",
-      "https://www.journals.uchicago.edu/doi/abs/10.1086/665536"
-    ]
-  ],
-  [
-    [
       "2023-01-01, 02:35:01",
       "https://news.ycombinator.com/item?id=34203012"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2022-12-31, 15:12:28",
+      "https://news.ycombinator.com/item?id=34197098"
+    ],
+    [
+      "2022: A Retrospective",
+      "https://godotengine.org/article/2022-retrospective"
+    ]
+  ],
+  [
+    [
       "2022-12-31, 13:49:20",
       "https://news.ycombinator.com/item?id=34196381"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2022-12-31, 13:33:30",
-      "https://news.ycombinator.com/item?id=34196294"
-    ],
-    [
-      "Should small Rust structs be passed by-copy or by-borrow? (2019)",
-      "https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/"
-    ]
-  ],
-  [
-    [
       "2022-12-31, 13:24:59",
       "https://news.ycombinator.com/item?id=34196232"
     ],
     [
       "The Power of Starting Again",
       "https://blog.ericfrisch.com/start-again/"
+    ]
+  ],
+  [
+    [
+      "2022-12-30, 19:27:14",
+      "https://news.ycombinator.com/item?id=34188915"
+    ],
+    [
+      "Dynamic LCP priority: Learning from past visits",
+      "https://philipwalton.com/articles/dynamic-lcp-priority/"
     ]
   ],
   [
