@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-01, 22:02:03",
+      "https://news.ycombinator.com/item?id=34211482"
+    ],
+    [
+      "Adding “invariant” clauses to C++ via GCC plugin to enable Design-by-Contract",
+      "https://gavinray97.github.io/blog/adding-invariant-to-cpp-design-by-contract"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 21:21:28",
+      "https://news.ycombinator.com/item?id=34211051"
+    ],
+    [
+      "Google to pay $29M settling location tracking with DC, IN; –$392M to 40 states",
+      "https://events.in.gov/event/attorney_general_todd_rokita_secures_20_million_settlement_with_google_under_same_indiana_law_being_used_against_tiktok"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 21:08:29",
+      "https://news.ycombinator.com/item?id=34210902"
+    ],
+    [
+      "Tesla broke labor laws by telling workers not to discuss pay, NLRB claims",
+      "https://www.theverge.com/2022/12/31/23533743/tesla-florida-workers-pay-working-conditions-nlrb"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 21:06:16",
       "https://news.ycombinator.com/item?id=34210874"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2023-01-01, 17:15:35",
-      "https://news.ycombinator.com/item?id=34208254"
-    ],
-    [
-      "On Charlie Munger (2019)",
-      "https://jasonzweig.com/on-charlie-munger/"
-    ]
-  ],
-  [
-    [
       "2023-01-01, 17:04:11",
       "https://news.ycombinator.com/item?id=34208105"
     ],
@@ -147,16 +167,6 @@
     [
       "Map, Filter, Reduce in Fortran (2019)",
       "https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 14:37:40",
-      "https://news.ycombinator.com/item?id=34206559"
-    ],
-    [
-      "Ask HN: How does a hobby programmer get hired?",
-      "https://news.ycombinator.com/item?id=34206559"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Ripes: Visual computer architecture simulator, assembly code editor for RISC-V",
       "https://github.com/mortbopet/Ripes"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 08:23:34",
-      "https://news.ycombinator.com/item?id=34204642"
-    ],
-    [
-      "Competitive programming in Haskell: better binary search",
-      "https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/"
     ]
   ],
   [
