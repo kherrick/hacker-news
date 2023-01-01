@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-01, 10:47:26",
+      "https://news.ycombinator.com/item?id=34205311"
+    ],
+    [
+      "Ripes: Visual computer architecture simulator, assembly code editor for RISC-V",
+      "https://github.com/mortbopet/Ripes"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 10:43:43",
       "https://news.ycombinator.com/item?id=34205294"
     ],
@@ -17,6 +27,16 @@
     [
       "Competitive programming in Haskell: better binary search",
       "https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 07:21:44",
+      "https://news.ycombinator.com/item?id=34204356"
+    ],
+    [
+      "Magic Circle Generator",
+      "https://game-dev-goose.itch.io/magic-circle-generator"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2022-12-31, 21:20:49",
-      "https://news.ycombinator.com/item?id=34200883"
-    ],
-    [
-      "Large-scale vehicle classification",
-      "https://blog.aqnichol.com/2022/12/31/large-scale-vehicle-classification/"
-    ]
-  ],
-  [
-    [
       "2022-12-31, 20:46:07",
       "https://news.ycombinator.com/item?id=34200564"
     ],
     [
       "CPU branch prediction evolution over years (2017)",
       "https://danluu.com/branch-prediction/"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 20:33:13",
-      "https://news.ycombinator.com/item?id=34200428"
-    ],
-    [
-      "New industries come from crazy people (2021)",
-      "https://www.palladiummag.com/2021/02/02/new-industries-come-from-crazy-people/"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "First TV Image of Mars: Interplanetary color by numbers (2016)",
       "http://www.directedplay.com/first-tv-image-of-mars"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 17:40:40",
-      "https://news.ycombinator.com/item?id=34198679"
-    ],
-    [
-      "Haiti's Cherished Soup Joumou",
-      "https://www.smithsonianmag.com/travel/haitis-beloved-soup-joumou-serves-up-freedom-in-every-bowl-180981378/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "A practical guide to scientific management for postdocs (2006)",
       "https://www.hhmi.org/science-education/programs/resources/making-right-moves"
+    ]
+  ],
+  [
+    [
+      "2022-12-30, 19:24:19",
+      "https://news.ycombinator.com/item?id=34188875"
+    ],
+    [
+      "On Reflection",
+      "https://www.neelnanda.io/blog/39-reflection"
     ]
   ],
   [
