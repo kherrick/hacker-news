@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2023-01-01, 04:31:27",
+      "https://news.ycombinator.com/item?id=34203622"
+    ],
+    [
+      "Writing an Interpreter in Go",
+      "https://interpreterbook.com"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 04:17:52",
       "https://news.ycombinator.com/item?id=34203552"
     ],
     [
       "Posters of the IPv4 and IPv6 internet as of Jan 1, 2023",
       "https://vad.solutions/ipmap/"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 02:08:46",
+      "https://news.ycombinator.com/item?id=34202857"
+    ],
+    [
+      "Coworkers are less ambitious; bosses adjust to the new order",
+      "https://www.wsj.com/articles/your-coworkers-are-less-ambitious-bosses-adjust-to-the-new-order-11672441067"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Easy, alternative soft deletion: `deleted_record_insert`",
       "https://brandur.org/fragments/deleted-record-insert"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 00:15:03",
+      "https://news.ycombinator.com/item?id=34202159"
+    ],
+    [
+      "Worst Interview Questions for Software Developers",
+      "https://fibery.io/blog/worst-interview-questions-for-software-developers/"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "I am not a supplier",
       "https://www.softwaremaxims.com/blog/not-a-supplier"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 21:51:29",
-      "https://news.ycombinator.com/item?id=34201142"
-    ],
-    [
-      "Oxytocin, trust, and reciprocity (2007)",
-      "https://www.hugthemonkey.com/2007/03/paul_zak_oxytoc.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-12-31, 19:43:57",
-      "https://news.ycombinator.com/item?id=34199962"
-    ],
-    [
-      "Croatia to switch to euro, enter passport-free Schengen zone",
-      "https://www.aljazeera.com/news/2022/12/31/croatia-to-switch-to-euro-enter-passport-free-schengen-zone"
-    ]
-  ],
-  [
-    [
       "2022-12-31, 17:55:26",
       "https://news.ycombinator.com/item?id=34198846"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2022-12-31, 13:24:59",
-      "https://news.ycombinator.com/item?id=34196232"
+      "2022-12-31, 12:44:10",
+      "https://news.ycombinator.com/item?id=34195951"
     ],
     [
-      "The Power of Starting Again",
-      "https://blog.ericfrisch.com/start-again/"
+      "Archaeology and genetics can’t yet agree on when humans arrived in the Americas",
+      "https://aeon.co/essays/the-first-americans-a-story-of-wonderful-uncertain-science"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "I made a home security system, powered by a Raspberry Pi 3",
       "https://blog.cavelab.dev/2022/12/rpi-security-alarm/"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 17:22:55",
-      "https://news.ycombinator.com/item?id=34187203"
-    ],
-    [
-      "The First Romantics",
-      "https://aeon.co/essays/english-romanticism-was-born-from-a-serious-germanomania"
     ]
   ],
   [
