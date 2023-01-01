@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-01-01, 04:36:30",
+      "https://news.ycombinator.com/item?id=34203653"
+    ],
+    [
+      "To Be Productive, Be Prepared",
+      "https://martinrue.com/to-be-productive-be-prepared/"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 04:31:31",
+      "https://news.ycombinator.com/item?id=34203626"
+    ],
+    [
+      "Epstein's sex trafficking was aided by JPMorgan, US Virgin Islands lawsuit says",
+      "https://www.npr.org/2022/12/30/1146221454/epstein-jpmorgan-virgin-islands-lawsuit"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 02:35:01",
       "https://news.ycombinator.com/item?id=34203012"
     ],
     [
       "“Scale” by Greg Egan",
       "https://www.gregegan.net/SCALE/SCALE.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 02:08:46",
-      "https://news.ycombinator.com/item?id=34202857"
-    ],
-    [
-      "Coworkers are less ambitious; bosses adjust to the new order",
-      "https://www.wsj.com/articles/your-coworkers-are-less-ambitious-bosses-adjust-to-the-new-order-11672441067"
     ]
   ],
   [
@@ -221,42 +231,12 @@
   ],
   [
     [
-      "2022-12-31, 15:12:28",
-      "https://news.ycombinator.com/item?id=34197098"
-    ],
-    [
-      "2022: A Retrospective",
-      "https://godotengine.org/article/2022-retrospective"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 13:49:20",
-      "https://news.ycombinator.com/item?id=34196381"
-    ],
-    [
-      "Cached Chrome Top Million Websites",
-      "https://github.com/zakird/crux-top-lists"
-    ]
-  ],
-  [
-    [
       "2022-12-31, 13:47:05",
       "https://news.ycombinator.com/item?id=34196370"
     ],
     [
       "John Mashey on RISC/CISC (1991)",
       "https://userpages.umbc.edu/~vijay/mashey.on.risc.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 13:40:51",
-      "https://news.ycombinator.com/item?id=34196340"
-    ],
-    [
-      "Show HN: Pole Clock, a single 24h clock with multiple timezones",
-      "https://poleclock.com"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2022-12-30, 19:27:14",
+      "https://news.ycombinator.com/item?id=34188915"
+    ],
+    [
+      "Dynamic LCP priority: Learning from past visits",
+      "https://philipwalton.com/articles/dynamic-lcp-priority/"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 17:22:55",
       "https://news.ycombinator.com/item?id=34187203"
     ],
     [
       "The First Romantics",
       "https://aeon.co/essays/english-romanticism-was-born-from-a-serious-germanomania"
+    ]
+  ],
+  [
+    [
+      "2022-12-30, 15:49:09",
+      "https://news.ycombinator.com/item?id=34186098"
+    ],
+    [
+      "Materialized View: SQL Queries on Steroids",
+      "https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/"
     ]
   ],
   [
