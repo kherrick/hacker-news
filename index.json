@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2022-12-31, 19:43:57",
+      "https://news.ycombinator.com/item?id=34199962"
+    ],
+    [
+      "Croatia to switch to euro, enter passport-free Schengen zone",
+      "https://www.aljazeera.com/news/2022/12/31/croatia-to-switch-to-euro-enter-passport-free-schengen-zone"
+    ]
+  ],
+  [
+    [
       "2022-12-31, 17:55:26",
       "https://news.ycombinator.com/item?id=34198846"
     ],
@@ -287,16 +297,6 @@
     [
       "Materialized View: SQL Queries on Steroids",
       "https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 05:06:04",
-      "https://news.ycombinator.com/item?id=34182010"
-    ],
-    [
-      "Over-engineering an emoji webcam filter with a neural network",
-      "https://jott.live/markdown/images_as_emoji"
     ]
   ]
 ]
