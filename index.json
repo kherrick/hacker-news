@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-01-01, 12:34:12",
+      "https://news.ycombinator.com/item?id=34205815"
+    ],
+    [
+      "2023 HackerRank Developer Skills Report",
+      "https://www.hackerrank.com/research/developer-skills/2023"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 12:25:46",
       "https://news.ycombinator.com/item?id=34205773"
     ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34203778"
     ],
     [
-      "Report on an Unidentified Space Station",
+      "Report on an Unidentified Space Station (1982)",
       "http://geosci.uchicago.edu/~kite/doc/roauss.htm"
     ]
   ],
@@ -111,22 +121,22 @@
   ],
   [
     [
-      "2023-01-01, 02:38:52",
-      "https://news.ycombinator.com/item?id=34203029"
-    ],
-    [
-      "Digital Logic Sim",
-      "https://sebastian.itch.io/digital-logic-sim"
-    ]
-  ],
-  [
-    [
       "2023-01-01, 02:08:46",
       "https://news.ycombinator.com/item?id=34202857"
     ],
     [
       "Coworkers are less ambitious; bosses adjust to the new order",
       "https://www.wsj.com/articles/your-coworkers-are-less-ambitious-bosses-adjust-to-the-new-order-11672441067"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 01:34:04",
+      "https://news.ycombinator.com/item?id=34202662"
+    ],
+    [
+      "Compromised PyTorch-nightly dependency chain between December 25th – December 30",
+      "https://pytorch.org/blog/compromised-nightly-dependency/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Raspberry Pi security alarm – the basics",
       "https://blog.cavelab.dev/2022/12/rpi-security-alarm/"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 00:08:56",
-      "https://news.ycombinator.com/item?id=34191731"
-    ],
-    [
-      "A practical guide to scientific management for postdocs (2006)",
-      "https://www.hhmi.org/science-education/programs/resources/making-right-moves"
     ]
   ],
   [
