@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-01-02, 00:08:38",
+      "https://news.ycombinator.com/item?id=34212641"
+    ],
+    [
+      "Blog series on building an air sensor with Arduino",
+      "https://www.airdeets.com/blog/diy-arduino-based-air-sensor-pt1"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 00:00:37",
       "https://news.ycombinator.com/item?id=34212574"
     ],
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2023-01-01, 22:50:25",
-      "https://news.ycombinator.com/item?id=34211922"
-    ],
-    [
-      "Building a Frankenstein 64",
-      "https://celso.io/retrocomputing/2022/12/27/c64-from-scratch"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 22:02:03",
-      "https://news.ycombinator.com/item?id=34211482"
-    ],
-    [
-      "Adding design-by-contract conditions to C++ via a GCC plugin",
-      "https://gavinray97.github.io/blog/adding-invariant-to-cpp-design-by-contract"
-    ]
-  ],
-  [
-    [
       "2023-01-01, 21:32:43",
       "https://news.ycombinator.com/item?id=34211187"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2023-01-01, 21:06:16",
-      "https://news.ycombinator.com/item?id=34210874"
+      "2023-01-01, 19:30:35",
+      "https://news.ycombinator.com/item?id=34209852"
     ],
     [
-      "Modeling my Grandpa with 3D Photogrammetry (2021)",
-      "https://www.jeffgeerling.com/blog/2021/modeling-my-grandpa-3d-photogrammetry"
+      "Walkie Talkie architect 'didn't realise it was going to be so hot' (2013)",
+      "https://www.theguardian.com/artanddesign/2013/sep/06/walkie-talkie-architect-predicted-reflection-sun-rays"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "HTTPS explained with carrier pigeons",
       "https://baida.dev/articles/https-explained-with-carrier-pigeons"
+    ]
+  ],
+  [
+    [
+      "2022-12-31, 05:02:21",
+      "https://news.ycombinator.com/item?id=34193748"
+    ],
+    [
+      "Up to the 1990s, raw salmon sushi was not eaten in Japan",
+      "https://twitter.com/trungtphan/status/1608176899804782592"
     ]
   ],
   [
