@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-02, 03:59:02",
+      "https://news.ycombinator.com/item?id=34214150"
+    ],
+    [
+      "Functional Programming – How and Why",
+      "https://onsclom.bearblog.dev/functional-programming-how-and-why/"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 02:29:45",
       "https://news.ycombinator.com/item?id=34213549"
     ],
@@ -11,11 +21,21 @@
   ],
   [
     [
+      "2023-01-02, 01:37:19",
+      "https://news.ycombinator.com/item?id=34213200"
+    ],
+    [
+      "C++ at the End of 2022",
+      "https://www.cppstories.com/2022/cpp-status-2022/"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 01:15:39",
       "https://news.ycombinator.com/item?id=34213077"
     ],
     [
-      "For U.S. Companies, the Race for the New EV Battery Is On",
+      "For U.S. companies, the race for the new EV battery is on",
       "https://e360.yale.edu/features/alternate-ev-battery-technology"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34212615"
     ],
     [
-      "Should this paper in Psychological Science be retracted?",
+      "Should this paper in psychological science be retracted? (2016)",
       "https://statmodeling.stat.columbia.edu/2016/06/28/khkhkj/"
     ]
   ],
@@ -77,6 +97,16 @@
     [
       "Langoguessr",
       "https://langoguessr.com"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 23:47:31",
+      "https://news.ycombinator.com/item?id=34212465"
+    ],
+    [
+      "Emergent Tokyo: Designing the spontaneous city",
+      "https://www.bloomberg.com/news/articles/2022-07-21/tokyo-s-urban-planning-secrets-revealed-in-new-book"
     ]
   ],
   [
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2023-01-01, 16:45:56",
-      "https://news.ycombinator.com/item?id=34207883"
-    ],
-    [
-      "Querying the GitHub archive with the ClickHouse playground",
-      "https://til.simonwillison.net/clickhouse/github-explorer"
-    ]
-  ],
-  [
-    [
       "2023-01-01, 14:19:18",
       "https://news.ycombinator.com/item?id=34206418"
     ],
     [
-      "Conversation Skills Essentials",
+      "Conversation skills essentials",
       "https://tynan.com/letstalk/"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 14:01:47",
-      "https://news.ycombinator.com/item?id=34206293"
-    ],
-    [
-      "Homoiconic Spreadsheets: What, How and Why [video]",
-      "https://www.youtube.com/watch?v=U9uZlEqUQw0"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Ask HN: Concepts that clicked only years after you first encountered them?",
       "https://news.ycombinator.com/item?id=34206219"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 13:08:16",
-      "https://news.ycombinator.com/item?id=34205996"
-    ],
-    [
-      "Pop2Piano: Pop audio-based piano cover generation",
-      "https://sweetcocoa.github.io/pop2piano_samples/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=34190966"
     ],
     [
-      "Product-Led Growth for Dev-First Business: Is It Inevitable?",
+      "Product-led growth for dev-first business: Is it inevitable?",
       "https://thenewstack.io/product-led-growth-for-dev-first-business-is-it-inevitable/"
     ]
   ]
