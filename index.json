@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-01-02, 01:15:39",
+      "https://news.ycombinator.com/item?id=34213077"
+    ],
+    [
+      "For U.S. Companies, the Race for the New EV Battery Is On",
+      "https://e360.yale.edu/features/alternate-ev-battery-technology"
+    ]
+  ],
+  [
+    [
+      "2023-01-02, 01:11:21",
+      "https://news.ycombinator.com/item?id=34213049"
+    ],
+    [
+      "Automatic snow tires throw chains at your wheels [video]",
+      "https://www.youtube.com/watch?v=x2IQNsLuikw"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 00:08:38",
       "https://news.ycombinator.com/item?id=34212641"
     ],
     [
       "Blog series on building an air sensor with Arduino",
       "https://www.airdeets.com/blog/diy-arduino-based-air-sensor-pt1"
+    ]
+  ],
+  [
+    [
+      "2023-01-02, 00:05:19",
+      "https://news.ycombinator.com/item?id=34212615"
+    ],
+    [
+      "Should this paper in Psychological Science be retracted?",
+      "https://statmodeling.stat.columbia.edu/2016/06/28/khkhkj/"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2023-01-01, 21:21:28",
-      "https://news.ycombinator.com/item?id=34211051"
-    ],
-    [
-      "Google to pay Indiana $20M to resolve privacy suit",
-      "https://apnews.com/article/technology-indiana-state-government-business-tod-rokita-3fc0f24cd0ca72cc9c4de14204abda01"
-    ]
-  ],
-  [
-    [
       "2023-01-01, 21:06:16",
       "https://news.ycombinator.com/item?id=34210874"
     ],
@@ -101,22 +121,12 @@
   ],
   [
     [
-      "2023-01-01, 21:05:42",
-      "https://news.ycombinator.com/item?id=34210865"
+      "2023-01-01, 20:35:51",
+      "https://news.ycombinator.com/item?id=34210583"
     ],
     [
-      "Picturing Scent: The Tale of a Beached Whale (2021)",
-      "https://publicdomainreview.org/essay/picturing-scent"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 20:41:28",
-      "https://news.ycombinator.com/item?id=34210625"
-    ],
-    [
-      "Liberation Circuit – FOSS RTS/programming game",
-      "https://github.com/linleyh/liberation-circuit"
+      "“My PGP key is compromised, and at least many of my bitcoins stolen”",
+      "https://twitter.com/LukeDashjr/status/1609613748364509184"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "German Bundestag Passes Whistleblower Protection Act",
       "https://www.bakertilly.de/en/news/detail/bundestag-beschliesst-hinweisgeberschutzgesetz-welche-neuerungen-fuer-unternehmen-nun-wichtig-sind.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 18:44:55",
-      "https://news.ycombinator.com/item?id=34209313"
-    ],
-    [
-      "Why 536 was 'the worst year to be alive' (2018)",
-      "https://www.science.org/content/article/why-536-was-worst-year-be-alive"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-01-01, 10:04:10",
+      "https://news.ycombinator.com/item?id=34205119"
+    ],
+    [
+      "The Eureka Theory of History Is Wrong",
+      "https://www.theatlantic.com/magazine/archive/2023/01/science-technology-vaccine-invention-history/672227/"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 07:31:39",
       "https://news.ycombinator.com/item?id=34204395"
     ],
@@ -287,16 +297,6 @@
     [
       "Claude Shannon’s research laid foundations for modern communications (2020)",
       "https://www.quantamagazine.org/how-claude-shannons-information-theory-invented-the-future-20201222/"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 18:04:22",
-      "https://news.ycombinator.com/item?id=34187791"
-    ],
-    [
-      "The Pac-Man Dossier (2009)",
-      "https://pacman.holenet.info/"
     ]
   ]
 ]
