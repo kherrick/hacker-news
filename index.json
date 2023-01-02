@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-01-02, 19:58:50",
-      "https://news.ycombinator.com/item?id=34222849"
+      "2023-01-02, 20:35:18",
+      "https://news.ycombinator.com/item?id=34223288"
     ],
     [
-      "Comparison of Exercise and Pharmacologic Treatment of Depression",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5430071/"
+      "Ask HN: Pros and cons of thinking in public vs. in private?",
+      "https://news.ycombinator.com/item?id=34223288"
     ]
   ],
   [
     [
-      "2023-01-02, 19:51:29",
-      "https://news.ycombinator.com/item?id=34222762"
+      "2023-01-02, 19:58:50",
+      "https://news.ycombinator.com/item?id=34222849"
     ],
     [
-      "Netscape 1.0 Browser Emulator",
-      "https://www.dejavu.org/1995win.htm"
+      "Comparison of exercise and pharmacologic treatment of depression (2017)",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5430071/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Pyright: Static Type Checker for Python",
       "https://github.com/microsoft/pyright"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 18:58:13",
-      "https://news.ycombinator.com/item?id=34222107"
-    ],
-    [
-      "Ask HN: Why did Backend development explode in complexity?",
-      "https://news.ycombinator.com/item?id=34222107"
     ]
   ],
   [
@@ -56,7 +46,7 @@
     ],
     [
       "Higher-order organization of multivariate time series",
-      "https://www.nature.com/articles/s41567-022-01852-0"
+      "https://arxiv.org/abs/2203.10702"
     ]
   ],
   [
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=34221374"
     ],
     [
-      "Inside the 8086 Processor's Instruction Prefetch Circuitry",
+      "Inside the 8086 processor's instruction prefetch circuitry",
       "https://www.righto.com/2023/01/inside-8086-processors-instruction.html"
     ]
   ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=34221357"
     ],
     [
-      "Show HN: Beesy: Record Google Meets for Free, No Signups, Download Locally",
+      "Show HN: Beesy – Record Google Meets for free, download locally",
       "https://chrome.google.com/webstore/detail/beesy-record-google-meets/eabicnldgjknbifdgmnieblkbnggfnde"
     ]
   ],
@@ -137,16 +127,6 @@
     [
       "Weathering Software Winter",
       "https://100r.co/site/weathering_software_winter.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 16:06:31",
-      "https://news.ycombinator.com/item?id=34219434"
-    ],
-    [
-      "The quest for a family-friendly password manager",
-      "https://dustri.org/b/the-quest-for-a-family-friendly-password-manager.html"
     ]
   ],
   [
@@ -185,7 +165,7 @@
       "https://news.ycombinator.com/item?id=34218591"
     ],
     [
-      "WorldWideWeb, the First Web Browser",
+      "WorldWideWeb – the first web browser",
       "https://worldwideweb.cern.ch/browser/"
     ]
   ],
@@ -205,7 +185,7 @@
       "https://news.ycombinator.com/item?id=34217938"
     ],
     [
-      "Show HN: Spall – WASM-based profiler for JavaScript and C in ~5k lines of Odin",
+      "Show HN: Spall – WASM-based profiler for JavaScript and C and Odin",
       "https://gravitymoth.com/spall/"
     ]
   ],
@@ -227,6 +207,16 @@
     [
       "Code Smell of the Day: Type Keys (2021)",
       "https://jesseduffield.com/Type-Keys/"
+    ]
+  ],
+  [
+    [
+      "2023-01-02, 09:49:11",
+      "https://news.ycombinator.com/item?id=34216159"
+    ],
+    [
+      "The Year of C++ Successor Languages",
+      "https://accu.org/journals/overload/30/172/teodorescu/"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=34212130"
     ],
     [
-      "Interview with Benjamin de Cock, Early Designer at Stripe",
+      "Interview with Benjamin de Cock, early designer at Stripe",
       "https://manual.withcompound.com/chapters/interview-with-benjamin-de-cock-early-designer-at-stripe"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Automating heating with Home Assistant",
       "https://seanblanchfield.com/2022/02/automating-heating-with-home-assistant"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 18:29:03",
+      "https://news.ycombinator.com/item?id=34209115"
+    ],
+    [
+      "What fingerprints tell us about Jerusalem’s ancient artisans",
+      "https://www.smithsonianmag.com/history/what-fingerprints-tell-us-about-jerusalems-ancient-artisans-180981238/"
     ]
   ],
   [
