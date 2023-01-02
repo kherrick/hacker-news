@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-02, 09:49:11",
+      "https://news.ycombinator.com/item?id=34216159"
+    ],
+    [
+      "The Year of C++ Successor Languages",
+      "https://accu.org/journals/overload/30/172/teodorescu/"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 09:18:40",
       "https://news.ycombinator.com/item?id=34215980"
     ],
@@ -157,16 +167,6 @@
     [
       "Adding design-by-contract conditions to C++ via a GCC plugin",
       "https://gavinray97.github.io/blog/adding-invariant-to-cpp-design-by-contract"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 21:59:07",
-      "https://news.ycombinator.com/item?id=34211457"
-    ],
-    [
-      "Ask HN: Are there any good open source text-to-speech tools?",
-      "https://news.ycombinator.com/item?id=34211457"
     ]
   ],
   [
