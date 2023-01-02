@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-01-01, 16:45:56",
+      "https://news.ycombinator.com/item?id=34207883"
+    ],
+    [
+      "Querying the GitHub archive with the ClickHouse playground",
+      "https://til.simonwillison.net/clickhouse/github-explorer"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 14:19:18",
       "https://news.ycombinator.com/item?id=34206418"
     ],
@@ -237,16 +247,6 @@
     [
       "Pop2Piano: Pop audio-based piano cover generation",
       "https://sweetcocoa.github.io/pop2piano_samples/"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 12:37:59",
-      "https://news.ycombinator.com/item?id=34205828"
-    ],
-    [
-      "The internet wants to be fragmented",
-      "https://noahpinion.substack.com/p/the-internet-wants-to-be-fragmented"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-12-29, 13:52:41",
-      "https://news.ycombinator.com/item?id=34172580"
+      "2022-12-30, 22:39:31",
+      "https://news.ycombinator.com/item?id=34190966"
     ],
     [
-      "Mirror test of wild penguins suggests they may possess self-awareness",
-      "https://phys.org/news/2022-12-mirror-wild-penguins-self-awareness.html"
+      "Product-Led Growth for Dev-First Business: Is It Inevitable?",
+      "https://thenewstack.io/product-led-growth-for-dev-first-business-is-it-inevitable/"
     ]
   ]
 ]
