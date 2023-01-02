@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-02, 18:44:59",
+      "https://news.ycombinator.com/item?id=34221879"
+    ],
+    [
+      "English as She Is Spoke",
+      "https://en.wikipedia.org/wiki/English_as_She_Is_Spoke"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 18:37:12",
       "https://news.ycombinator.com/item?id=34221756"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2023-01-02, 13:45:51",
-      "https://news.ycombinator.com/item?id=34217752"
-    ],
-    [
-      "Mazda has tested a synthetic fuel in an unmodified MX5 on a 1000-mile road trip",
-      "https://wkk.usa.mybluehost.me/mazda-just-proved-that-synthetic-fuels-could-be-the-future/"
-    ]
-  ],
-  [
-    [
       "2023-01-02, 11:25:30",
       "https://news.ycombinator.com/item?id=34216761"
     ],
     [
       "Code Smell of the Day: Type Keys (2021)",
       "https://jesseduffield.com/Type-Keys/"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 11:07:39",
-      "https://news.ycombinator.com/item?id=34216619"
-    ],
-    [
-      "How many layers of UI inconsistencies are in Windows 11?",
-      "https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Automating Heating with Home Assistant",
       "https://seanblanchfield.com/2022/02/automating-heating-with-home-assistant"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 16:52:56",
+      "https://news.ycombinator.com/item?id=34207974"
+    ],
+    [
+      "Understanding the N + 1 queries problem",
+      "https://ananthakumaran.in/2023/01/01/solving_n_plus_1_queries_on_rails.html"
     ]
   ],
   [
