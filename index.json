@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-01-03, 01:18:09",
+      "https://news.ycombinator.com/item?id=34226258"
+    ],
+    [
+      "Idaho murders: Suspect was identified through DNA using genealogy databases",
+      "https://abcnews.go.com/US/idaho-murders-suspect-identified-dna-genealogy-databases-police/story?id=96088596"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 01:15:22",
       "https://news.ycombinator.com/item?id=34226234"
     ],
     [
-      "Incoming Potentially Catastrophic Storm for SF Area",
+      "Incoming potentially catastrophic storm for SF area",
       "https://forecast.weather.gov/product.php?site=MTR&issuedby=MTR&product=AFD&format=CI&version=1&glossary=1"
     ]
   ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2023-01-02, 20:59:31",
-      "https://news.ycombinator.com/item?id=34223557"
-    ],
-    [
-      "Rust for Professionals",
-      "https://overexact.com/rust-for-professionals/"
-    ]
-  ],
-  [
-    [
       "2023-01-02, 20:55:51",
       "https://news.ycombinator.com/item?id=34223517"
     ],
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-01-02, 18:37:12",
-      "https://news.ycombinator.com/item?id=34221756"
-    ],
-    [
-      "Higher-order organization of multivariate time series",
-      "https://arxiv.org/abs/2203.10702"
-    ]
-  ],
-  [
-    [
       "2023-01-02, 18:24:14",
       "https://news.ycombinator.com/item?id=34221561"
     ],
@@ -137,16 +127,6 @@
     [
       "Inside the 8086 processor's instruction prefetch circuitry",
       "https://www.righto.com/2023/01/inside-8086-processors-instruction.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 17:46:11",
-      "https://news.ycombinator.com/item?id=34220986"
-    ],
-    [
-      "What we talk about when we talk about performance (2021)",
-      "https://secretartofscience.com/performance"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "Megaface",
       "https://exposing.ai/megaface/"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 22:34:32",
+      "https://news.ycombinator.com/item?id=34211796"
+    ],
+    [
+      "Ask HN: Why isn't JSON-RPC more widely adopted?",
+      "https://news.ycombinator.com/item?id=34211796"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 20:32:36",
+      "https://news.ycombinator.com/item?id=34210559"
+    ],
+    [
+      "A Decade of HardenedBSD",
+      "https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/hardenedbsd/2023-01_decade/article.md"
     ]
   ],
   [
