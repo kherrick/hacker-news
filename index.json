@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-03, 19:43:21",
+      "https://news.ycombinator.com/item?id=34236889"
+    ],
+    [
+      "Long out of math, an AI programmer cracks a pure math problem",
+      "https://www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 19:31:56",
       "https://news.ycombinator.com/item?id=34236734"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2023-01-03, 18:15:20",
+      "https://news.ycombinator.com/item?id=34235343"
+    ],
+    [
+      "NixOS Webzine Issue #002",
+      "https://webzine.nixos.cafe/issue-002.html"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 17:57:43",
       "https://news.ycombinator.com/item?id=34235068"
     ],
@@ -41,12 +61,12 @@
   ],
   [
     [
-      "2023-01-03, 17:41:29",
-      "https://news.ycombinator.com/item?id=34234824"
+      "2023-01-03, 17:55:29",
+      "https://news.ycombinator.com/item?id=34235041"
     ],
     [
-      "Ketamine disrupts late sensory information transfer in corticothalamic network",
-      "https://onlinelibrary.wiley.com/doi/10.1111/ejn.15845"
+      "The cost of cheap TVs",
+      "https://www.theatlantic.com/technology/archive/2023/01/smart-tvs-sony-lg-cheap/672614/"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2023-01-03, 16:10:59",
+      "https://news.ycombinator.com/item?id=34233295"
+    ],
+    [
+      "Blank cassette tape types and how to choose the right one",
+      "https://theaudioowl.com/cassette-tapes/blank-cassette-tape-types/"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 15:54:22",
       "https://news.ycombinator.com/item?id=34233033"
     ],
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2023-01-03, 14:51:02",
-      "https://news.ycombinator.com/item?id=34232037"
-    ],
-    [
-      "Men Without Work (2016)",
-      "https://time.com/4504004/men-without-work/"
-    ]
-  ],
-  [
-    [
       "2023-01-03, 14:33:08",
       "https://news.ycombinator.com/item?id=34231770"
     ],
     [
       "10x C++ Editor",
       "https://10xeditor.com/"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 14:28:37",
-      "https://news.ycombinator.com/item?id=34231714"
-    ],
-    [
-      "Legal use of hallucinogenic mushrooms begins in Oregon",
-      "https://www.nytimes.com/2023/01/03/health/psychedelic-drugs-mushrooms-oregon.html"
     ]
   ],
   [
@@ -161,22 +171,32 @@
   ],
   [
     [
+      "2023-01-03, 13:02:05",
+      "https://news.ycombinator.com/item?id=34230823"
+    ],
+    [
+      "“Unexplainable” core dump (2011)",
+      "https://stackoverflow.com/questions/4703844/unexplainable-core-dump"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 12:57:07",
+      "https://news.ycombinator.com/item?id=34230780"
+    ],
+    [
+      "Scientists have discovered the first virovore – an organism that eats viruses",
+      "https://news.unl.edu/newsrooms/today/article/eating-viruses-can-power-growth-reproduction-of-microorganism/"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 12:35:03",
       "https://news.ycombinator.com/item?id=34230641"
     ],
     [
       "Modules, Not Microservices",
       "http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 12:27:04",
-      "https://news.ycombinator.com/item?id=34230589"
-    ],
-    [
-      "Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D and Text-to-Image Diffusion",
-      "https://bluestyle97.github.io/dream3d/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-01-03, 05:37:17",
-      "https://news.ycombinator.com/item?id=34228114"
-    ],
-    [
-      "26 programming languages in 25 days, Part 2: Reflections on language design",
-      "https://matt.might.net/articles/26-languages-part2/"
-    ]
-  ],
-  [
-    [
       "2023-01-02, 23:25:30",
       "https://news.ycombinator.com/item?id=34225192"
     ],
@@ -231,12 +241,32 @@
   ],
   [
     [
+      "2023-01-02, 22:36:46",
+      "https://news.ycombinator.com/item?id=34224664"
+    ],
+    [
+      "Infinite AI Array",
+      "https://ianbicking.org/blog/2023/01/infinite-ai-array.html"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 18:05:49",
       "https://news.ycombinator.com/item?id=34221287"
     ],
     [
       "Multi-camera real-time object detection with WebRTC and YOLO",
       "https://softwarescalability.com/editorial/real-time-object-detection-with-webrtc-and-yolo"
+    ]
+  ],
+  [
+    [
+      "2023-01-02, 17:59:53",
+      "https://news.ycombinator.com/item?id=34221194"
+    ],
+    [
+      "Measuring an engineering organization",
+      "https://lethain.com/measuring-engineering-organizations/"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-01-01, 21:25:49",
-      "https://news.ycombinator.com/item?id=34211110"
+      "2023-01-02, 02:57:13",
+      "https://news.ycombinator.com/item?id=34213715"
     ],
     [
-      "Disagreeable personalities do not have an advantage in power at work (2020)",
-      "https://pubmed.ncbi.nlm.nih.gov/32868412/"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 20:57:52",
-      "https://news.ycombinator.com/item?id=34210789"
-    ],
-    [
-      "Offensive Nim",
-      "https://github.com/byt3bl33d3r/OffensiveNim"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 20:40:00",
-      "https://news.ycombinator.com/item?id=34210612"
-    ],
-    [
-      "Show HN: Sierra, a DSL for building Java Swing applications",
-      "https://github.com/HTTP-RPC/Sierra"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 14:06:56",
-      "https://news.ycombinator.com/item?id=34206333"
-    ],
-    [
-      "Show HN: Lama2 - Plain-Text Powered REST API Client for Teams",
-      "https://hexmos.com/lama2/index.html"
+      "Interesting things about the Lua interpreter (2020)",
+      "https://thesephist.com/posts/lua/"
     ]
   ]
 ]
