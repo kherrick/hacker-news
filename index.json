@@ -41,26 +41,6 @@
   ],
   [
     [
-      "2023-01-03, 18:15:20",
-      "https://news.ycombinator.com/item?id=34235343"
-    ],
-    [
-      "NixOS Webzine Issue #002",
-      "https://webzine.nixos.cafe/issue-002.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 17:57:43",
-      "https://news.ycombinator.com/item?id=34235068"
-    ],
-    [
-      "$25K grant for side projects from South Park Commons",
-      "https://blog.southparkcommons.com/announcing-the-spc-community-grant/"
-    ]
-  ],
-  [
-    [
       "2023-01-03, 17:55:29",
       "https://news.ycombinator.com/item?id=34235041"
     ],
@@ -76,7 +56,17 @@
     ],
     [
       "Microsoft.Recognizers.Text for JavaScript",
-      "https://github.com/microsoft/Recognizers-Text/tree/master/JavaScript/packages/recognizers-text-suite"
+      "https://github.com/microsoft/Recognizers-Text"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 17:22:27",
+      "https://news.ycombinator.com/item?id=34234485"
+    ],
+    [
+      "Solar panels reduced my electric bill in 2022",
+      "https://mattbruenig.com/2023/01/01/solar-panels-reduced-my-electric-bill-by-2677-in-2022/"
     ]
   ],
   [
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=34232732"
     ],
     [
-      "Bertrand Meyer et al.: The concept of class invariant in OO programming",
+      "The concept of class invariant in object-oriented programming",
       "https://arxiv.org/abs/2109.06557"
     ]
   ],
@@ -151,22 +141,22 @@
   ],
   [
     [
-      "2023-01-03, 14:15:37",
-      "https://news.ycombinator.com/item?id=34231553"
-    ],
-    [
-      "Tell HN: GitHub is partially blocked in India",
-      "https://news.ycombinator.com/item?id=34231553"
-    ]
-  ],
-  [
-    [
       "2023-01-03, 14:01:45",
       "https://news.ycombinator.com/item?id=34231364"
     ],
     [
       "South Korea’s online security dead end",
       "https://palant.info/2023/01/02/south-koreas-online-security-dead-end/"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 13:04:39",
+      "https://news.ycombinator.com/item?id=34230841"
+    ],
+    [
+      "Shopify tells employees to just say no to meetings",
+      "https://www.bloomberg.com/news/articles/2023-01-03/shopify-ceo-tobi-lutke-tells-employees-to-just-say-no-to-meetings"
     ]
   ],
   [
@@ -195,8 +185,18 @@
       "https://news.ycombinator.com/item?id=34230641"
     ],
     [
-      "Modules, Not Microservices",
+      "Modules, not microservices",
       "http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 12:27:04",
+      "https://news.ycombinator.com/item?id=34230589"
+    ],
+    [
+      "Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D and Text-to-Image Diffusion",
+      "https://bluestyle97.github.io/dream3d/"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "Ask HN: Alternatives to Scratch for a blind child?",
       "https://news.ycombinator.com/item?id=34229502"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 23:25:30",
-      "https://news.ycombinator.com/item?id=34225192"
-    ],
-    [
-      "My Youtube earnings",
-      "https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Interesting things about the Lua interpreter (2020)",
       "https://thesephist.com/posts/lua/"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 20:40:00",
+      "https://news.ycombinator.com/item?id=34210612"
+    ],
+    [
+      "Show HN: Sierra, a DSL for building Java Swing applications",
+      "https://github.com/HTTP-RPC/Sierra"
     ]
   ]
 ]
