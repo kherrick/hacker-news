@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34233033"
     ],
     [
-      "Some Remarks on Large Language Models – Yoav Goldberg",
+      "Some Remarks on Large Language Models",
       "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34233011"
     ],
     [
-      "Update: Stripe is holding over $400k of mine with no explanation",
+      "Update: Stripe is holding over $400k of mine with no explanation [resolved]",
       "https://news.ycombinator.com/item?id=34233011"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "Bertrand Meyer et al.: The concept of class invariant in OO programming",
       "https://arxiv.org/abs/2109.06557"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 14:51:02",
-      "https://news.ycombinator.com/item?id=34232037"
-    ],
-    [
-      "Men Without Work: America's Invisible Crisis (Book)",
-      "https://en.wikipedia.org/wiki/Men_Without_Work_(book)"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "26 programming languages in 25 days, Part 2: Reflections on language design",
       "https://matt.might.net/articles/26-languages-part2/"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 04:42:02",
+      "https://news.ycombinator.com/item?id=34227760"
+    ],
+    [
+      "Python 2 removed from Debian",
+      "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1027108"
     ]
   ],
   [
