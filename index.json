@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-03, 16:22:38",
+      "https://news.ycombinator.com/item?id=34233488"
+    ],
+    [
+      "x86 is Turing-complete with no registers",
+      "http://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 15:54:22",
       "https://news.ycombinator.com/item?id=34233033"
     ],
@@ -187,16 +197,6 @@
     [
       "26 programming languages in 25 days, Part 2: Reflections on language design",
       "https://matt.might.net/articles/26-languages-part2/"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 04:42:02",
-      "https://news.ycombinator.com/item?id=34227760"
-    ],
-    [
-      "Python 2 removed from Debian",
-      "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1027108"
     ]
   ],
   [
