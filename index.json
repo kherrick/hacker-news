@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-01-03, 22:20:52",
-      "https://news.ycombinator.com/item?id=34238966"
-    ],
-    [
-      "Large Language Models Encode Clinical Knowledge",
-      "https://arxiv.org/abs/2212.13138"
-    ]
-  ],
-  [
-    [
       "2023-01-03, 21:27:58",
       "https://news.ycombinator.com/item?id=34238319"
     ],
@@ -97,6 +87,16 @@
     [
       "Japan’s business owners can’t find successors – one man is giving his away",
       "https://www.nytimes.com/2023/01/03/business/japan-businesses-succession.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 17:30:05",
+      "https://news.ycombinator.com/item?id=34234626"
+    ],
+    [
+      "Microsoft.Recognizers.Text: numbers, units, and date/time in multiple languages",
+      "https://github.com/microsoft/Recognizers-Text"
     ]
   ],
   [
