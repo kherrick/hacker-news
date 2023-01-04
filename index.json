@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-01-04, 04:09:35",
+      "https://news.ycombinator.com/item?id=34241907"
+    ],
+    [
+      "The faker's guide to reading (x86) assembly language",
+      "https://www.timdbg.com/posts/fakers-guide-to-assembly/"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 03:13:17",
       "https://news.ycombinator.com/item?id=34241548"
     ],
     [
       "Names that decreased in popularity from 2020 to 2021",
       "https://www.ssa.gov/oact/babynames/popularity_decrease.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 02:55:43",
+      "https://news.ycombinator.com/item?id=34241399"
+    ],
+    [
+      "Even More Bay Area House Party",
+      "https://astralcodexten.substack.com/p/even-more-bay-area-house-party"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "The MOS 6502 is (mostly) Turing-complete without registers",
       "http://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 01:02:30",
-      "https://news.ycombinator.com/item?id=34240471"
-    ],
-    [
-      "BusyBox 1.36.0",
-      "https://busybox.net/"
     ]
   ],
   [
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=34228516"
     ],
     [
-      "Frederic Tudor brings cocktails and ice cream to the rest of the world",
+      "Frederic Tudor in 1806 brings cocktails and ice cream to the rest of the world",
       "https://newenglandhistoricalsociety.com/frederic-tudor-1806-brings-cocktails-and-ice-cream-world/"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Measuring an engineering organization",
       "https://lethain.com/measuring-engineering-organizations/"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 14:19:32",
-      "https://news.ycombinator.com/item?id=34218087"
-    ],
-    [
-      "At the edges of Moore’s Law, connecting components is increasingly the game",
-      "https://spectrum.ieee.org/interconnect-back-side-power"
     ]
   ],
   [
