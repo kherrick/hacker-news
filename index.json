@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-01-04, 01:40:57",
-      "https://news.ycombinator.com/item?id=34240810"
+      "2023-01-04, 02:18:54",
+      "https://news.ycombinator.com/item?id=34241120"
     ],
     [
-      "Hitman 3 to become ‘World of Assassination’",
-      "https://www.ioi.dk/hitman-3-to-world-of-assassination/"
+      "The MOS 6502 is (mostly) Turing-complete without registers",
+      "http://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Migrating from AWS to Fly.io",
       "https://terrateam.io/blog/flying-away-from-aws"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 20:34:37",
-      "https://news.ycombinator.com/item?id=34237609"
-    ],
-    [
-      "To build truly intelligent machines, teach them cause and effect (2018)",
-      "https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "French startup unveils new residential thermo-acoustic heat pump",
       "https://www.pv-magazine.com/2023/01/02/residential-thermo-acoustic-heat-pump-produces-water-up-to-80-c/"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 16:22:38",
+      "https://news.ycombinator.com/item?id=34233488"
+    ],
+    [
+      "x86 is Turing-complete with no registers (2014)",
+      "http://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html"
     ]
   ],
   [
