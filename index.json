@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-04, 20:26:34",
+      "https://news.ycombinator.com/item?id=34250969"
+    ],
+    [
+      "Why is the JavaScript ecosystem like this",
+      "http://meta.ath0.com/2022/12/ghost-of-a-chance/"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 20:23:58",
+      "https://news.ycombinator.com/item?id=34250929"
+    ],
+    [
+      "Apple headset leak reveals new details and confirms earlier rumors",
+      "https://mixed-news.com/en/massive-apple-headset-leak-reveals-new-details-and-confirms-earlier-rumors/"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 20:20:03",
+      "https://news.ycombinator.com/item?id=34250872"
+    ],
+    [
+      "G-3PO: A Protocol Droid for Ghidra, or GPT-3 for Reverse-Engineering",
+      "https://medium.com/tenable-techblog/g-3po-a-protocol-droid-for-ghidra-4b46fa72f1ff"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 19:50:31",
       "https://news.ycombinator.com/item?id=34250467"
     ],
@@ -21,22 +51,22 @@
   ],
   [
     [
+      "2023-01-04, 19:28:13",
+      "https://news.ycombinator.com/item?id=34250184"
+    ],
+    [
+      "Fault-Tolerant SFTP Scripting",
+      "https://www.linuxjournal.com/content/fault-tolerant-sftp-scripting-retry-failed-transfers-automatically"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 17:59:17",
       "https://news.ycombinator.com/item?id=34249018"
     ],
     [
       "How do you know when macOS detects and remediates malware?",
       "https://eclecticlight.co/2023/01/04/how-do-you-know-when-macos-detects-and-remediates-malware/"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 17:24:56",
-      "https://news.ycombinator.com/item?id=34248513"
-    ],
-    [
-      "What HHS has to say about tracking technologies in latest HIPAA guidance",
-      "https://www.freshpaint.io/blog/what-the-latest-hhs-guidance-on-hipaa-means-for-health-tech-companies"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2023-01-04, 14:46:03",
-      "https://news.ycombinator.com/item?id=34246053"
-    ],
-    [
-      "WordPress sites under attack from newly found Linux trojan",
-      "https://www.darkreading.com/attacks-breaches/wordpress-under-attack-from-new-linux-backdoor-malware"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 14:32:40",
       "https://news.ycombinator.com/item?id=34245875"
     ],
     [
       "A Note on Distributed Computing (1994) [pdf]",
       "https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 14:29:55",
-      "https://news.ycombinator.com/item?id=34245853"
-    ],
-    [
-      "Urllib3 in 2022",
-      "https://sethmlarson.dev/urllib3-in-2022"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2023-01-04, 06:00:18",
+      "https://news.ycombinator.com/item?id=34242521"
+    ],
+    [
+      "Lincoln Cathedral",
+      "https://www.countrylife.co.uk/architecture/lincoln-cathedral-the-950-year-story-of-one-of-europes-very-greatest-cathedrals-251041"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 05:59:01",
       "https://news.ycombinator.com/item?id=34242513"
     ],
@@ -277,26 +297,6 @@
     [
       "Can self-replicating species flourish in the interior of a star? (2020) [pdf]",
       "https://pdfs.semanticscholar.org/3cb2/0df9e075056030103d73f173fa29f8f92f07.pdf?_ga=2.37017120.1076752451.1672779819-279137700.1672779819"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 16:43:35",
-      "https://news.ycombinator.com/item?id=34233848"
-    ],
-    [
-      "Podlite – Pod6 markup language editor",
-      "https://github.com/podlite/podlite-desktop"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 05:48:37",
-      "https://news.ycombinator.com/item?id=34214803"
-    ],
-    [
-      "Interview with Eudora founders [video]",
-      "https://www.youtube.com/watch?v=XF_HxakQuXU"
     ]
   ]
 ]
