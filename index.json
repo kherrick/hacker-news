@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-04, 19:50:31",
+      "https://news.ycombinator.com/item?id=34250467"
+    ],
+    [
+      "Two surprises in browser crashes",
+      "https://neugierig.org/software/blog/2023/01/browser-crashes.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 19:42:36",
+      "https://news.ycombinator.com/item?id=34250352"
+    ],
+    [
+      "Emulating an emulator inside itself. Meet Blink",
+      "https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 17:59:17",
       "https://news.ycombinator.com/item?id=34249018"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34248513"
     ],
     [
-      "What HHS Has to Say About Tracking Technologies in Latest HIPAA Guidance",
+      "What HHS has to say about tracking technologies in latest HIPAA guidance",
       "https://www.freshpaint.io/blog/what-the-latest-hhs-guidance-on-hipaa-means-for-health-tech-companies"
     ]
   ],
@@ -151,22 +171,12 @@
   ],
   [
     [
-      "2023-01-04, 14:46:03",
-      "https://news.ycombinator.com/item?id=34246053"
-    ],
-    [
-      "WordPress sites under attack from newly found Linux trojan",
-      "https://www.darkreading.com/attacks-breaches/wordpress-under-attack-from-new-linux-backdoor-malware"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 14:32:40",
       "https://news.ycombinator.com/item?id=34245875"
     ],
     [
-      "Irreconcilable differences between local and distributed computing (1994)",
-      "https://scholar.harvard.edu/waldo/publications/note-distributed-computing"
+      "A Note on Distributed Computing (1994) [pdf]",
+      "https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf"
     ]
   ],
   [
@@ -195,28 +205,8 @@
       "https://news.ycombinator.com/item?id=34245255"
     ],
     [
-      "Supermicro Throws Its Weight Behind Arm Servers",
+      "Supermicro throws its weight behind Arm servers",
       "https://www.nextplatform.com/2023/01/03/supermicro-throws-its-weight-behind-arm-servers/"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 13:20:58",
-      "https://news.ycombinator.com/item?id=34245202"
-    ],
-    [
-      "Salesforce will lay off 10% of staff as part of restructuring",
-      "https://www.marketwatch.com/story/salesforce-will-lay-off-10-of-staff-as-part-of-restructuring-11672832799"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 13:11:12",
-      "https://news.ycombinator.com/item?id=34245102"
-    ],
-    [
-      "Intelligence – A good collection of great OSINT Resources",
-      "https://github.com/ARPSyndicate/awesome-intelligence"
     ]
   ],
   [
@@ -241,22 +231,22 @@
   ],
   [
     [
-      "2023-01-04, 10:03:26",
-      "https://news.ycombinator.com/item?id=34243896"
-    ],
-    [
-      "Moiré no more (2021)",
-      "https://newsletter.shifthappens.site/archive/moire-no-more/"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 09:31:05",
       "https://news.ycombinator.com/item?id=34243709"
     ],
     [
       "The expanding dark forest and generative AI",
       "https://maggieappleton.com/ai-dark-forest"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 05:59:01",
+      "https://news.ycombinator.com/item?id=34242513"
+    ],
+    [
+      "Fun, danger, and 70s airplane toys",
+      "https://whyisthisinteresting.substack.com/p/the-worlds-most-dangerous-toy-edition"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Podlite – Pod6 markup language editor",
       "https://github.com/podlite/podlite-desktop"
+    ]
+  ],
+  [
+    [
+      "2023-01-02, 05:48:37",
+      "https://news.ycombinator.com/item?id=34214803"
+    ],
+    [
+      "Interview with Eudora founders [video]",
+      "https://www.youtube.com/watch?v=XF_HxakQuXU"
     ]
   ]
 ]
