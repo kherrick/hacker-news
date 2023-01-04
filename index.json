@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34248164"
     ],
     [
-      "On-demand learning is ruining the tech industry",
+      "On-demand learning comes at the cost of conceptual understanding",
       "https://www.jernesto.com/articles/learning.html"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=34246960"
     ],
     [
-      "First public release of Pushup: a new compiler for making web apps in Go",
+      "Pushup: a new compiler for making web apps in Go",
       "https://github.com/adhocteam/pushup"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=34246564"
     ],
     [
-      "Going Full Time on My SaaS After 13 Years",
+      "Going full time on my SaaS after 13 years",
       "https://mattmazur.com/2023/01/04/going-full-time-on-my-saas-after-13-years/"
     ]
   ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-01-04, 13:20:58",
+      "https://news.ycombinator.com/item?id=34245202"
+    ],
+    [
+      "Salesforce will lay off 10% of staff as part of restructuring",
+      "https://www.marketwatch.com/story/salesforce-will-lay-off-10-of-staff-as-part-of-restructuring-11672832799"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 13:11:12",
       "https://news.ycombinator.com/item?id=34245102"
     ],
@@ -217,16 +227,6 @@
     [
       "Parallel streaming in Haskell: Part 1 – Fast, efficient, and fun",
       "https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 12:25:44",
-      "https://news.ycombinator.com/item?id=34244739"
-    ],
-    [
-      "A short history of bi-directional links (2020)",
-      "https://maggieappleton.com/bidirectionals"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=34243709"
     ],
     [
-      "The Expanding Dark Forest and Generative AI",
+      "The expanding dark forest and generative AI",
       "https://maggieappleton.com/ai-dark-forest"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=34238028"
     ],
     [
-      "Can Self-Replicating Species Flourish in the Interior of a Star? (2020) [pdf]",
+      "Can self-replicating species flourish in the interior of a star? (2020) [pdf]",
       "https://pdfs.semanticscholar.org/3cb2/0df9e075056030103d73f173fa29f8f92f07.pdf?_ga=2.37017120.1076752451.1672779819-279137700.1672779819"
     ]
   ],
