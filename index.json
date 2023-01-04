@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-01-04, 15:49:34",
+      "https://news.ycombinator.com/item?id=34246960"
+    ],
+    [
+      "First public release of Pushup: a new compiler for making web apps in Go",
+      "https://github.com/adhocteam/pushup"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 15:36:18",
+      "https://news.ycombinator.com/item?id=34246785"
+    ],
+    [
+      "All About USB-C: Resistors and Emarkers",
+      "https://hackaday.com/2023/01/04/all-about-usb-c-resistors-and-emarkers/"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 15:23:41",
+      "https://news.ycombinator.com/item?id=34246564"
+    ],
+    [
+      "Going Full Time on My SaaS After 13 Years",
+      "https://mattmazur.com/2023/01/04/going-full-time-on-my-saas-after-13-years/"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 15:18:45",
+      "https://news.ycombinator.com/item?id=34246498"
+    ],
+    [
+      "Chunking strings in Elixir: how difficult can it be?",
+      "https://ochagavia.nl/blog/chunking-strings-in-elixir-how-difficult-can-it-be/"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 15:07:57",
+      "https://news.ycombinator.com/item?id=34246340"
+    ],
+    [
+      "Ask HN: Why Are Programmer Design Tastes So Utilitarian?",
+      "https://news.ycombinator.com/item?id=34246340"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 14:59:22",
       "https://news.ycombinator.com/item?id=34246215"
     ],
@@ -71,6 +121,16 @@
   ],
   [
     [
+      "2023-01-04, 13:26:17",
+      "https://news.ycombinator.com/item?id=34245255"
+    ],
+    [
+      "Supermicro Throws Its Weight Behind Arm Servers",
+      "https://www.nextplatform.com/2023/01/03/supermicro-throws-its-weight-behind-arm-servers/"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 13:20:58",
       "https://news.ycombinator.com/item?id=34245202"
     ],
@@ -131,16 +191,6 @@
   ],
   [
     [
-      "2023-01-04, 09:45:04",
-      "https://news.ycombinator.com/item?id=34243785"
-    ],
-    [
-      "MSVC: The Devourer of Const",
-      "https://ibob.bg/blog/2023/01/04/msvc-allows-moving-from-const/"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 09:31:05",
       "https://news.ycombinator.com/item?id=34243709"
     ],
@@ -151,32 +201,12 @@
   ],
   [
     [
-      "2023-01-04, 09:21:09",
-      "https://news.ycombinator.com/item?id=34243644"
-    ],
-    [
-      "Get Started with Rust: Generics",
-      "https://serokell.io/blog/rust-generics"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 06:57:53",
       "https://news.ycombinator.com/item?id=34242863"
     ],
     [
       "QBittorrent v4.5.0: The Hitchhiker's Guide to Legible Text",
       "https://datalars.com/2023/01/03/qbittorrent-v450-the-hitchhikers-guide-to-legible-text-2/"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 05:59:01",
-      "https://news.ycombinator.com/item?id=34242513"
-    ],
-    [
-      "Fun, danger, and 70s airplane toys",
-      "https://whyisthisinteresting.substack.com/p/the-worlds-most-dangerous-toy-edition"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2023-01-04, 04:45:52",
-      "https://news.ycombinator.com/item?id=34242124"
-    ],
-    [
-      "Thanks to DALL-E, the race to make artificial protein drugs is on",
-      "https://singularityhub.com/2023/01/03/thanks-to-dall-e-the-race-to-make-artificial-protein-drugs-is-on/"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 04:09:35",
       "https://news.ycombinator.com/item?id=34241907"
     ],
@@ -247,26 +267,6 @@
     [
       "HTTP/3 prioritization demystified",
       "https://calendar.perfplanet.com/2022/http-3-prioritization-demystified/"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 13:40:39",
-      "https://news.ycombinator.com/item?id=34231144"
-    ],
-    [
-      "Ant plus is PAN for ants",
-      "https://computer.rip/2023-01-02-ANT-plus-is-PAN-for-ants.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 12:45:58",
-      "https://news.ycombinator.com/item?id=34230701"
-    ],
-    [
-      "SERV: 32-bit is the New 8-bit [video]",
-      "https://www.youtube.com/watch?v=GSHasXHvZaQ"
     ]
   ],
   [
