@@ -1,12 +1,42 @@
 [
   [
     [
-      "2023-01-03, 21:27:58",
-      "https://news.ycombinator.com/item?id=34238319"
+      "2023-01-04, 01:02:30",
+      "https://news.ycombinator.com/item?id=34240471"
     ],
     [
-      "Equium: Acoustic Heat Pumps",
-      "https://www.equium.fr/en/home"
+      "BusyBox 1.36.0",
+      "https://busybox.net/"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 00:42:51",
+      "https://news.ycombinator.com/item?id=34240298"
+    ],
+    [
+      "Tell HN: I just received my Equifax breach settlement check",
+      "https://news.ycombinator.com/item?id=34240298"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 23:32:27",
+      "https://news.ycombinator.com/item?id=34239684"
+    ],
+    [
+      "Meta Quest Pro – Bad AR Passthrough",
+      "https://kguttag.com/2023/01/03/meta-quest-pro-part-1-unbelievably-bad-ar-passthrough/"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 22:47:11",
+      "https://news.ycombinator.com/item?id=34239253"
+    ],
+    [
+      "Google wants RISC-V to be a “tier-1” Android architecture",
+      "https://arstechnica.com/gadgets/2023/01/google-announces-official-android-support-for-risc-v/"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "Next-generation Qi2 wireless charging standard embraces Apple's MagSafe",
       "https://www.macrumors.com/2023/01/03/qi2-wireless-charging-standard-gains-magsafe/"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 20:03:18",
+      "https://news.ycombinator.com/item?id=34237195"
+    ],
+    [
+      "Show HN: A device that only lets you type lol if you've truly laughed out loud",
+      "https://twitter.com/lanewinfield/status/1610294277434933249"
     ]
   ],
   [
@@ -91,32 +131,12 @@
   ],
   [
     [
-      "2023-01-03, 17:22:27",
-      "https://news.ycombinator.com/item?id=34234485"
+      "2023-01-03, 16:36:57",
+      "https://news.ycombinator.com/item?id=34233719"
     ],
     [
-      "Solar panels reduced my electric bill in 2022",
-      "https://mattbruenig.com/2023/01/01/solar-panels-reduced-my-electric-bill-by-2677-in-2022/"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 16:22:38",
-      "https://news.ycombinator.com/item?id=34233488"
-    ],
-    [
-      "x86 is Turing-complete with no registers (2014)",
-      "http://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 16:10:59",
-      "https://news.ycombinator.com/item?id=34233295"
-    ],
-    [
-      "Blank cassette tape types and how to choose the right one",
-      "https://theaudioowl.com/cassette-tapes/blank-cassette-tape-types/"
+      "French startup unveils new residential thermo-acoustic heat pump",
+      "https://www.pv-magazine.com/2023/01/02/residential-thermo-acoustic-heat-pump-produces-water-up-to-80-c/"
     ]
   ],
   [
@@ -127,26 +147,6 @@
     [
       "Some Remarks on Large Language Models",
       "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 15:35:33",
-      "https://news.ycombinator.com/item?id=34232732"
-    ],
-    [
-      "The concept of class invariant in object-oriented programming",
-      "https://arxiv.org/abs/2109.06557"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 14:33:08",
-      "https://news.ycombinator.com/item?id=34231770"
-    ],
-    [
-      "10x C++ Editor",
-      "https://10xeditor.com/"
     ]
   ],
   [
@@ -191,22 +191,12 @@
   ],
   [
     [
-      "2023-01-03, 12:27:04",
-      "https://news.ycombinator.com/item?id=34230589"
-    ],
-    [
-      "Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D and Text-to-Image Diffusion",
-      "https://bluestyle97.github.io/dream3d/"
-    ]
-  ],
-  [
-    [
       "2023-01-03, 11:25:07",
       "https://news.ycombinator.com/item?id=34230217"
     ],
     [
-      "Algol 68 Genie (2021)",
-      "https://jmvdveer.home.xs4all.nl/en.download.algol-68-genie-current.html"
+      "The Algol 68 Genie project",
+      "https://jmvdveer.home.xs4all.nl/en.algol-68-genie.html"
     ]
   ],
   [
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2023-01-03, 09:16:39",
-      "https://news.ycombinator.com/item?id=34229502"
-    ],
-    [
-      "Ask HN: Alternatives to Scratch for a blind child?",
-      "https://news.ycombinator.com/item?id=34229502"
-    ]
-  ],
-  [
-    [
       "2023-01-03, 09:10:22",
       "https://news.ycombinator.com/item?id=34229467"
     ],
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2023-01-03, 00:15:48",
+      "https://news.ycombinator.com/item?id=34225669"
+    ],
+    [
+      "Ask HN: A Better Docker Compose?",
+      "https://news.ycombinator.com/item?id=34225669"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 22:36:46",
       "https://news.ycombinator.com/item?id=34224664"
     ],
     [
       "Infinite AI Array",
       "https://ianbicking.org/blog/2023/01/infinite-ai-array.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-02, 18:49:14",
+      "https://news.ycombinator.com/item?id=34221942"
+    ],
+    [
+      "Wondering what to do (if anything) about hotlinking",
+      "https://www.kryogenix.org/days/2023/01/02/what-to-do-about-hotlinking/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-01-02, 13:30:00",
-      "https://news.ycombinator.com/item?id=34217610"
+      "2023-01-02, 13:43:12",
+      "https://news.ycombinator.com/item?id=34217727"
     ],
     [
-      "Xerox’s influence on Steve Jobs and Bill Gates (2018) [video]",
-      "https://www.youtube.com/watch?v=pQocN_c2uLI"
+      "The Beauty of Bézier Curves (2021) [video]",
+      "https://www.youtube.com/watch?v=aVwxzDHniEw"
     ]
   ],
   [
