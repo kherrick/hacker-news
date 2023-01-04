@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-04, 09:45:04",
+      "https://news.ycombinator.com/item?id=34243785"
+    ],
+    [
+      "MSVC: The Devourer of Const",
+      "https://ibob.bg/blog/2023/01/04/msvc-allows-moving-from-const/"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 09:31:44",
+      "https://news.ycombinator.com/item?id=34243718"
+    ],
+    [
+      "CLib: Header-only C library that implements the most important classes from GLib",
+      "https://github.com/aheck/clib"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 09:31:05",
+      "https://news.ycombinator.com/item?id=34243709"
+    ],
+    [
+      "The Expanding Dark Forest and Generative AI",
+      "https://maggieappleton.com/ai-dark-forest"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 06:57:53",
       "https://news.ycombinator.com/item?id=34242863"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-01-03, 14:04:08",
-      "https://news.ycombinator.com/item?id=34231391"
-    ],
-    [
-      "Reviving proteins from billions of years ago to fight diseases in human cells",
-      "https://english.elpais.com/science-tech/2023-01-03/scientists-are-reviving-proteins-from-billions-of-years-ago-to-fight-diseases-in-human-cells.html"
-    ]
-  ],
-  [
-    [
       "2023-01-03, 13:02:05",
       "https://news.ycombinator.com/item?id=34230823"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-01-02, 17:59:53",
-      "https://news.ycombinator.com/item?id=34221194"
-    ],
-    [
-      "Measuring an engineering organization",
-      "https://lethain.com/measuring-engineering-organizations/"
-    ]
-  ],
-  [
-    [
       "2023-01-02, 13:43:12",
       "https://news.ycombinator.com/item?id=34217727"
     ],
@@ -287,16 +297,6 @@
     [
       "Tadoma",
       "https://en.wikipedia.org/wiki/Tadoma"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 02:57:13",
-      "https://news.ycombinator.com/item?id=34213715"
-    ],
-    [
-      "Interesting things about the Lua interpreter (2020)",
-      "https://thesephist.com/posts/lua/"
     ]
   ]
 ]
