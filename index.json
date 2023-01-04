@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-04, 17:00:23",
+      "https://news.ycombinator.com/item?id=34248128"
+    ],
+    [
+      "Aviator (YC S21) is hiring engineers interested in dev productivity",
+      "https://www.ycombinator.com/companies/aviator/jobs"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 16:40:26",
+      "https://news.ycombinator.com/item?id=34247817"
+    ],
+    [
+      "Faster MySQL with HTTP/3",
+      "https://planetscale.com/blog/faster-mysql-with-http3"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 16:27:52",
+      "https://news.ycombinator.com/item?id=34247615"
+    ],
+    [
+      "Go 1.20 Cryptography",
+      "https://words.filippo.io/dispatches/go-1-20-cryptography/"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 15:49:34",
       "https://news.ycombinator.com/item?id=34246960"
     ],
@@ -17,6 +47,16 @@
     [
       "All About USB-C: Resistors and Emarkers",
       "https://hackaday.com/2023/01/04/all-about-usb-c-resistors-and-emarkers/"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 15:29:23",
+      "https://news.ycombinator.com/item?id=34246660"
+    ],
+    [
+      "Globalization Is Dead and No One Is Listening",
+      "https://interconnect.substack.com/p/globalization-is-dead-and-no-one"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2023-01-04, 13:16:29",
-      "https://news.ycombinator.com/item?id=34245160"
-    ],
-    [
-      "Why would prisons ban my book? Absurdities rule the system (2022)",
-      "https://www.themarshallproject.org/2022/12/21/prison-banned-books-new-york-florida-censorship"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 13:11:12",
       "https://news.ycombinator.com/item?id=34245102"
     ],
@@ -147,16 +177,6 @@
     [
       "MacBook owners have two months to claim up to $395 over butterfly keyboard woes",
       "https://www.theverge.com/2023/1/4/23538548/macbook-class-action-lawsuit-claims-faulty-butterfly-keyboard"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 11:08:41",
-      "https://news.ycombinator.com/item?id=34244264"
-    ],
-    [
-      "Microsoft workers to form company’s first union in the U.S.",
-      "https://www.wsj.com/articles/microsoft-workers-to-form-companys-first-union-in-the-u-s-11672779470"
     ]
   ],
   [
@@ -187,16 +207,6 @@
     [
       "QBittorrent v4.5.0: The Hitchhiker's Guide to Legible Text",
       "https://datalars.com/2023/01/03/qbittorrent-v450-the-hitchhikers-guide-to-legible-text-2/"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 06:49:20",
-      "https://news.ycombinator.com/item?id=34242820"
-    ],
-    [
-      "Ruby 3.2.0 is from another dimension",
-      "https://tomaszs2.medium.com/ruby-3-2-0-is-from-another-dimension-5249e3186ec9"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Microsoft is preparing to add ChatGPT to Bing",
       "https://www.bloomberg.com/news/articles/2023-01-04/microsoft-hopes-openai-s-chatbot-will-make-bing-smarter"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 04:09:35",
-      "https://news.ycombinator.com/item?id=34241907"
-    ],
-    [
-      "The faker's guide to reading x86 assembly language",
-      "https://www.timdbg.com/posts/fakers-guide-to-assembly/"
     ]
   ],
   [
