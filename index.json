@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-01-05, 09:50:17",
-      "https://news.ycombinator.com/item?id=34257818"
-    ],
-    [
-      "AUTOMATIC1111's GitHub Account Suspended For \"TOS Violations\"",
-      "https://github.com/AUTOMATIC1111"
-    ]
-  ],
-  [
-    [
       "2023-01-05, 09:13:49",
       "https://news.ycombinator.com/item?id=34257646"
     ],
@@ -247,6 +237,16 @@
     [
       "Researchers develop a light source that produces two entangled light beams",
       "https://phys.org/news/2023-01-source-entangled.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 11:41:23",
+      "https://news.ycombinator.com/item?id=34244446"
+    ],
+    [
+      "C Posix complaint argument parsing in 42 loc, inspired by Duff's device",
+      "https://github.com/camel-cdr/cauldron/blob/main/cauldron/arg.h"
     ]
   ],
   [
