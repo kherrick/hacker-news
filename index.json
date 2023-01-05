@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-05, 20:35:48",
+      "https://news.ycombinator.com/item?id=34266158"
+    ],
+    [
+      "Why are antennas popping up all over the foothills? SLC seeks to solve mystery",
+      "https://ksltv.com/516749/why-are-antennas-popping-up-all-over-the-foothills-salt-lake-city-seeks-to-solve-mystery/"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 20:29:08",
+      "https://news.ycombinator.com/item?id=34266078"
+    ],
+    [
+      "Microfeatures I'd like to see in more languages",
+      "https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 19:44:48",
       "https://news.ycombinator.com/item?id=34265433"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-01-05, 16:10:50",
-      "https://news.ycombinator.com/item?id=34261902"
-    ],
-    [
-      "U.S. moves to seize $460M Robinhood stake linked to Sam Bankman-Fried",
-      "https://www.cnn.com/2023/01/05/investing/doj-seizes-robinhood-shares/index.html"
-    ]
-  ],
-  [
-    [
       "2023-01-05, 16:00:52",
       "https://news.ycombinator.com/item?id=34261656"
     ],
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2023-01-05, 00:13:42",
+      "https://news.ycombinator.com/item?id=34253952"
+    ],
+    [
+      "The Literary Life of Pessoa’s Alter Ego (2020)",
+      "https://lithub.com/the-literary-life-of-pessoas-alter-ego/"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 22:03:08",
       "https://news.ycombinator.com/item?id=34252525"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-01-04, 16:12:29",
-      "https://news.ycombinator.com/item?id=34247340"
-    ],
-    [
-      "Rijndael S-box in 512 bytes of Python",
-      "https://gist.github.com/juliusgeo/969c722b2152e53e4f6bb94ca2696c7a"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 12:57:11",
       "https://news.ycombinator.com/item?id=34244977"
     ],
     [
       "Chaos Hypertextbook",
       "https://hypertextbook.com/chaos/"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 11:41:23",
-      "https://news.ycombinator.com/item?id=34244446"
-    ],
-    [
-      "C Posix-compliant argument parsing in 42 LoC, inspired by Duff's device",
-      "https://github.com/camel-cdr/cauldron/blob/main/cauldron/arg.h"
     ]
   ]
 ]
