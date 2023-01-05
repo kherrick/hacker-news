@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=34255996"
     ],
     [
-      "Bill Gates: \"I'm literally losing sleep over Java\"",
+      "Bill Gates: I'm literally losing sleep over Java (1996)",
       "https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 03:54:49",
-      "https://news.ycombinator.com/item?id=34255735"
-    ],
-    [
-      "Hummingbird Clock",
-      "http://www.hummingbirdclock.info/about"
     ]
   ],
   [
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34255522"
     ],
     [
-      "I was laid off 2 months agoand I’ve never even seen a severance letter",
+      "I was laid off 2 months ago and I’ve never even seen a severance letter",
       "https://twitter.com/sbstryker/status/1610760987996749824"
     ]
   ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34255319"
     ],
     [
-      "Rotate any secrets stored in CircleCI",
+      "CircleCI security alert: Rotate any secrets stored in CircleCI",
       "https://circleci.com/blog/january-4-2023-security-alert/"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34254766"
     ],
     [
-      "Founder of Creative Technology, Sim Wong Hoo, has Died",
+      "Sim Wong Hoo has died",
       "https://www.theedgesingapore.com/news/company-news/creative-technologys-sim-wong-hoo-dies"
     ]
   ],
@@ -55,18 +45,8 @@
       "https://news.ycombinator.com/item?id=34254183"
     ],
     [
-      "FTC Cracks Down on Companies That Impose Harmful Noncompete Restrictions",
+      "FTC cracks down on companies that impose harmful noncompete restrictions",
       "https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-cracks-down-companies-impose-harmful-noncompete-restrictions-thousands-workers"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 23:25:20",
-      "https://news.ycombinator.com/item?id=34253478"
-    ],
-    [
-      "Amazon to Lay Off over 17,000 Workers, More Than First Planned",
-      "https://www.wsj.com/articles/amazon-to-lay-off-over-17-000-workers-more-than-first-planned-11672874304"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2023-01-04, 16:40:26",
+      "https://news.ycombinator.com/item?id=34247817"
+    ],
+    [
+      "Faster MySQL with HTTP/3",
+      "https://planetscale.com/blog/faster-mysql-with-http3"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 16:25:05",
       "https://news.ycombinator.com/item?id=34247577"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2023-01-04, 13:40:53",
+      "https://news.ycombinator.com/item?id=34245386"
+    ],
+    [
+      "Researchers develop a light source that produces two entangled light beams",
+      "https://phys.org/news/2023-01-source-entangled.html"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 13:17:16",
       "https://news.ycombinator.com/item?id=34245167"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=34238944"
     ],
     [
-      "Major torrent sites are currently exposing intimate details of their operations",
+      "Major torrent sites are currently exposing details of their operations",
       "https://torrentfreak.com/major-private-torrent-sites-have-a-security-disaster-to-fix-right-now-230103/"
     ]
   ],
