@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-01-05, 08:29:07",
-      "https://news.ycombinator.com/item?id=34257359"
-    ],
-    [
-      "Is the economic recession taking a toll on working from home?",
-      "https://www.firstpost.com/explainers/recession-2023-end-to-work-from-home-remote-work-hybrid-us-europe-eu-11914932.html"
-    ]
-  ],
-  [
-    [
       "2023-01-05, 07:51:24",
       "https://news.ycombinator.com/item?id=34257150"
     ],
@@ -27,6 +17,16 @@
     [
       "AMD’s Zen 4, Part 3: System Level Stuff, and iGPU",
       "https://chipsandcheese.com/2023/01/05/amds-zen-4-part-3-system-level-stuff-and-igpu/"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 05:56:37",
+      "https://news.ycombinator.com/item?id=34256592"
+    ],
+    [
+      "Apple introduces Digital narration for books",
+      "https://authors.apple.com/support/4519-digital-narration-audiobooks"
     ]
   ],
   [
@@ -61,22 +61,32 @@
   ],
   [
     [
-      "2023-01-05, 04:33:23",
-      "https://news.ycombinator.com/item?id=34255996"
-    ],
-    [
-      "Bill Gates: I'm literally losing sleep over Java (1996)",
-      "https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java"
-    ]
-  ],
-  [
-    [
       "2023-01-05, 01:39:36",
       "https://news.ycombinator.com/item?id=34254766"
     ],
     [
       "Sim Wong Hoo has died",
       "https://www.theedgesingapore.com/news/company-news/creative-technologys-sim-wong-hoo-dies"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 00:38:43",
+      "https://news.ycombinator.com/item?id=34254183"
+    ],
+    [
+      "FTC cracks down on companies that impose harmful noncompete restrictions",
+      "https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-cracks-down-companies-impose-harmful-noncompete-restrictions-thousands-workers"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 23:25:20",
+      "https://news.ycombinator.com/item?id=34253478"
+    ],
+    [
+      "Amazon to Lay Off over 17,000 Workers, More Than First Planned",
+      "https://www.wsj.com/articles/amazon-to-lay-off-over-17-000-workers-more-than-first-planned-11672874304"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-01-04, 17:59:17",
-      "https://news.ycombinator.com/item?id=34249018"
-    ],
-    [
-      "How do you know when macOS detects and remediates malware?",
-      "https://eclecticlight.co/2023/01/04/how-do-you-know-when-macos-detects-and-remediates-malware/"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 15:23:41",
       "https://news.ycombinator.com/item?id=34246564"
     ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-01-04, 13:36:17",
-      "https://news.ycombinator.com/item?id=34245350"
-    ],
-    [
-      "Samsung bets on MicroLED and 8K for its premium 2023 TVs",
-      "https://www.engadget.com/samsungs-bets-on-micro-led-and-8-k-for-its-premium-2023-t-vs-030033433.html"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 13:17:16",
       "https://news.ycombinator.com/item?id=34245167"
     ],
@@ -207,6 +197,16 @@
     [
       "Parallel streaming in Haskell: Part 1 – Fast, efficient, and fun",
       "https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 11:52:19",
+      "https://news.ycombinator.com/item?id=34244511"
+    ],
+    [
+      "Show HN: Semantic search for video",
+      "http://semanticvideosearch.com"
     ]
   ],
   [
