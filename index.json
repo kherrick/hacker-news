@@ -1,32 +1,22 @@
 [
   [
     [
+      "2023-01-05, 05:29:36",
+      "https://news.ycombinator.com/item?id=34256392"
+    ],
+    [
+      "How to Optimize a CUDA Matmul Kernel for CuBLAS-Like Performance: A Worklog",
+      "https://siboehm.com/articles/22/CUDA-MMM"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 04:33:23",
       "https://news.ycombinator.com/item?id=34255996"
     ],
     [
       "Bill Gates: I'm literally losing sleep over Java (1996)",
       "https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 03:27:32",
-      "https://news.ycombinator.com/item?id=34255522"
-    ],
-    [
-      "I was laid off 2 months ago and I’ve never even seen a severance letter",
-      "https://twitter.com/sbstryker/status/1610760987996749824"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 02:57:04",
-      "https://news.ycombinator.com/item?id=34255319"
-    ],
-    [
-      "CircleCI security alert: Rotate any secrets stored in CircleCI",
-      "https://circleci.com/blog/january-4-2023-security-alert/"
     ]
   ],
   [
@@ -47,6 +37,16 @@
     [
       "FTC cracks down on companies that impose harmful noncompete restrictions",
       "https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-cracks-down-companies-impose-harmful-noncompete-restrictions-thousands-workers"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 23:48:02",
+      "https://news.ycombinator.com/item?id=34253715"
+    ],
+    [
+      "RIP sf/f author Suzy McKee Charnas (1939-2023)",
+      "https://locusmag.com/2023/01/suzy-mckee-charnas-1939-2023/"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-01-04, 16:36:03",
+      "https://news.ycombinator.com/item?id=34247738"
+    ],
+    [
+      "WAL Mode in LiteFS",
+      "https://fly.io/blog/wal-mode-in-litefs/"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 16:25:05",
       "https://news.ycombinator.com/item?id=34247577"
     ],
@@ -251,21 +261,11 @@
   ],
   [
     [
-      "2023-01-03, 22:18:37",
-      "https://news.ycombinator.com/item?id=34238944"
-    ],
-    [
-      "Major torrent sites are currently exposing details of their operations",
-      "https://torrentfreak.com/major-private-torrent-sites-have-a-security-disaster-to-fix-right-now-230103/"
-    ]
-  ],
-  [
-    [
       "2023-01-03, 22:12:22",
       "https://news.ycombinator.com/item?id=34238860"
     ],
     [
-      "An Unorthodox Scholar Uses Technology to Expose Biblical Forgeries",
+      "An unorthodox scholar uses technology to expose Biblical forgeries",
       "https://www.smithsonianmag.com/history/how-unorthodox-scholar-uses-technology-expose-biblical-forgeries-180981290/"
     ]
   ],
