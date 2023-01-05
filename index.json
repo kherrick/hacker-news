@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-01-04, 16:40:26",
-      "https://news.ycombinator.com/item?id=34247817"
-    ],
-    [
-      "Faster MySQL with HTTP/3",
-      "https://planetscale.com/blog/faster-mysql-with-http3"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 16:25:05",
       "https://news.ycombinator.com/item?id=34247577"
     ],
@@ -297,6 +287,16 @@
     [
       "Small Teams",
       "https://stevepulec.com/posts/small/"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 05:32:34",
+      "https://news.ycombinator.com/item?id=34228076"
+    ],
+    [
+      "Profiting from the Folly of Others (2020)",
+      "https://accu.org/journals/overload/28/156/harrison_2776/"
     ]
   ]
 ]
