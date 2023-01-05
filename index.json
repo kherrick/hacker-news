@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-05, 05:56:58",
+      "https://news.ycombinator.com/item?id=34256594"
+    ],
+    [
+      "AMD’s Zen 4, Part 3: System Level Stuff, and iGPU",
+      "https://chipsandcheese.com/2023/01/05/amds-zen-4-part-3-system-level-stuff-and-igpu/"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 05:29:36",
       "https://news.ycombinator.com/item?id=34256392"
     ],
@@ -37,16 +47,6 @@
     [
       "FTC cracks down on companies that impose harmful noncompete restrictions",
       "https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-cracks-down-companies-impose-harmful-noncompete-restrictions-thousands-workers"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 23:48:02",
-      "https://news.ycombinator.com/item?id=34253715"
-    ],
-    [
-      "RIP sf/f author Suzy McKee Charnas (1939-2023)",
-      "https://locusmag.com/2023/01/suzy-mckee-charnas-1939-2023/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Faster MySQL with HTTP/3",
       "https://planetscale.com/blog/faster-mysql-with-http3"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 16:36:03",
-      "https://news.ycombinator.com/item?id=34247738"
-    ],
-    [
-      "WAL Mode in LiteFS",
-      "https://fly.io/blog/wal-mode-in-litefs/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Small Teams",
       "https://stevepulec.com/posts/small/"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 05:32:34",
+      "https://news.ycombinator.com/item?id=34228076"
+    ],
+    [
+      "Profiting from the Folly of Others (2020)",
+      "https://accu.org/journals/overload/28/156/harrison_2776/"
     ]
   ],
   [
