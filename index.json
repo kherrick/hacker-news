@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-01-05, 19:44:48",
+      "https://news.ycombinator.com/item?id=34265433"
+    ],
+    [
+      "Twilio’s Toll Fraud Problem",
+      "https://billychasen.medium.com/twilios-toll-fraud-problem-28b3aef39243"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 19:42:30",
+      "https://news.ycombinator.com/item?id=34265392"
+    ],
+    [
+      "Kerbal Space Program Free on Epic",
+      "https://store.epicgames.com/en-US/"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 19:34:35",
+      "https://news.ycombinator.com/item?id=34265266"
+    ],
+    [
+      "Is it possible for a lunar eclipse to occur before sunset?",
+      "https://astronomy.stackexchange.com/questions/51501/is-it-possible-for-a-lunar-eclipse-to-occur-before-sunset"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 19:34:16",
+      "https://news.ycombinator.com/item?id=34265261"
+    ],
+    [
+      "LiteSync – Easy synchronization of SQLite databases",
+      "https://litesync.io/en/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 19:25:34",
+      "https://news.ycombinator.com/item?id=34265127"
+    ],
+    [
+      "GoatCounter open source hosted/self-hosted web analytics",
+      "https://www.goatcounter.com/"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 18:58:52",
       "https://news.ycombinator.com/item?id=34264693"
     ],
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2023-01-05, 16:15:33",
-      "https://news.ycombinator.com/item?id=34261986"
-    ],
-    [
-      "Automatic1111 is back on GitHub after removing Embedding Links",
-      "https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion"
-    ]
-  ],
-  [
-    [
       "2023-01-05, 16:10:50",
       "https://news.ycombinator.com/item?id=34261902"
     ],
@@ -157,16 +197,6 @@
     [
       "The YC Founder Directory",
       "https://www.ycombinator.com/blog/the-yc-founder-directory"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 15:43:28",
-      "https://news.ycombinator.com/item?id=34261284"
-    ],
-    [
-      "Works entering the public domain this year",
-      "https://www.smithsonianmag.com/arts-culture/the-top-ten-works-entering-the-public-domain-2023-180981370/"
     ]
   ],
   [
@@ -231,36 +261,6 @@
   ],
   [
     [
-      "2023-01-05, 12:37:02",
-      "https://news.ycombinator.com/item?id=34258858"
-    ],
-    [
-      "Why SQLite succeeded as a database (2016)",
-      "https://changelog.com/podcast/201"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 11:12:02",
-      "https://news.ycombinator.com/item?id=34258293"
-    ],
-    [
-      "The (Almost) Definitive 486DX/50 Article",
-      "http://brassicgamer.blogspot.com/2023/01/the-almost-definitive-486dx50-article.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 22:03:08",
-      "https://news.ycombinator.com/item?id=34252525"
-    ],
-    [
-      "Murder Most Foul: On Agatha Christie",
-      "https://drb.ie/articles/murder-most-foul/"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 17:00:32",
       "https://news.ycombinator.com/item?id=34248130"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-01-04, 12:57:11",
+      "https://news.ycombinator.com/item?id=34244977"
+    ],
+    [
+      "Chaos Hypertextbook",
+      "https://hypertextbook.com/chaos/"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 11:41:23",
       "https://news.ycombinator.com/item?id=34244446"
     ],
     [
       "C Posix-compliant argument parsing in 42 loc, inspired by Duff's device",
       "https://github.com/camel-cdr/cauldron/blob/main/cauldron/arg.h"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 09:01:43",
-      "https://news.ycombinator.com/item?id=34243520"
-    ],
-    [
-      "Lnav – An advanced log file viewer for the small-scale",
-      "https://lnav.org/"
     ]
   ]
 ]
