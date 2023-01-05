@@ -1,21 +1,11 @@
 [
   [
     [
-      "2023-01-05, 19:51:57",
-      "https://news.ycombinator.com/item?id=34265532"
-    ],
-    [
-      "Embed Neovim in Chrome, Firefox and Others",
-      "https://github.com/glacambre/firenvim"
-    ]
-  ],
-  [
-    [
       "2023-01-05, 19:44:48",
       "https://news.ycombinator.com/item?id=34265433"
     ],
     [
-      "Twilio’s Toll Fraud Problem",
+      "Twilio’s toll fraud problem",
       "https://billychasen.medium.com/twilios-toll-fraud-problem-28b3aef39243"
     ]
   ],
@@ -25,8 +15,8 @@
       "https://news.ycombinator.com/item?id=34265392"
     ],
     [
-      "Kerbal Space Program Free on Epic",
-      "https://store.epicgames.com/en-US/"
+      "Kerbal Space Program free on Epic",
+      "https://store.epicgames.com/en-US/p/kerbal-space-program"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34265127"
     ],
     [
-      "GoatCounter open source hosted/self-hosted web analytics",
+      "GoatCounter: Open-source hosted/self-hosted web analytics",
       "https://www.goatcounter.com/"
     ]
   ],
@@ -75,18 +65,8 @@
       "https://news.ycombinator.com/item?id=34264487"
     ],
     [
-      "Advanced and easy YouTube archiver now stable",
+      "Yark: Advanced and easy YouTube archiver now stable",
       "https://github.com/Owez/yark"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 18:42:12",
-      "https://news.ycombinator.com/item?id=34264436"
-    ],
-    [
-      "How to slow down scientific progress, according to Leo Szilard",
-      "https://rootsofprogress.org/szilard-on-slowing-science"
     ]
   ],
   [
@@ -181,12 +161,32 @@
   ],
   [
     [
+      "2023-01-05, 16:10:50",
+      "https://news.ycombinator.com/item?id=34261902"
+    ],
+    [
+      "U.S. moves to seize $460M Robinhood stake linked to Sam Bankman-Fried",
+      "https://www.cnn.com/2023/01/05/investing/doj-seizes-robinhood-shares/index.html"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 16:00:52",
       "https://news.ycombinator.com/item?id=34261656"
     ],
     [
       "The YC Founder Directory",
       "https://www.ycombinator.com/blog/the-yc-founder-directory"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 15:29:22",
+      "https://news.ycombinator.com/item?id=34261010"
+    ],
+    [
+      "Babashka Babooka: Write Command Line Clojure",
+      "https://www.braveclojure.com/quests/babooka/"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=34259592"
     ],
     [
-      "We’ve made the difficult decision to shut down Revue",
+      "Revue will shut down and all data will be deleted",
       "http://help.getrevue.co/en/articles/6819675-we-ve-made-the-difficult-decision-to-shut-down-revue"
     ]
   ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=34259213"
     ],
     [
-      "How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core",
+      "How to get 1.5 TFlops of FP32 performance on a single M1 CPU core",
       "https://jott.live/markdown/1.5tflop_m1"
     ]
   ],
@@ -247,16 +247,6 @@
     [
       "Apple Books digital narration",
       "https://authors.apple.com/support/4519-digital-narration-audiobooks"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 20:52:47",
-      "https://news.ycombinator.com/item?id=34251379"
-    ],
-    [
-      "‘Disruptive’ science has declined",
-      "https://www.nature.com/articles/d41586-022-04577-5"
     ]
   ],
   [
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=34248130"
     ],
     [
-      "Migrating Our Largest Mobile App to React Native",
+      "Migrating our largest mobile app to React Native",
       "https://shopify.engineering/migrating-our-largest-mobile-app-to-react-native"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Chaos Hypertextbook",
       "https://hypertextbook.com/chaos/"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 11:41:23",
+      "https://news.ycombinator.com/item?id=34244446"
+    ],
+    [
+      "C Posix-compliant argument parsing in 42 loc, inspired by Duff's device",
+      "https://github.com/camel-cdr/cauldron/blob/main/cauldron/arg.h"
     ]
   ]
 ]
