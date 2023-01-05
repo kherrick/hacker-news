@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-01-05, 17:51:50",
-      "https://news.ycombinator.com/item?id=34263644"
-    ],
-    [
-      "Spreadsheet with compute-like functions: GET(), POST(), PARSE(), ASK_OpenAI()",
-      "https://rows.com/templates/ask-openai"
-    ]
-  ],
-  [
-    [
       "2023-01-05, 17:49:18",
       "https://news.ycombinator.com/item?id=34263601"
     ],
@@ -187,6 +177,16 @@
     [
       "Show HN: Vim online editor using WebAssembly, storing files using IndexedDB",
       "https://www.vimonlineeditor.com/"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 16:47:21",
+      "https://news.ycombinator.com/item?id=34262587"
+    ],
+    [
+      "Show HN: GPTDuck – Ask questions about any GitHub repo",
+      "https://www.gptduck.com/"
     ]
   ],
   [
