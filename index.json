@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-01-05, 13:25:50",
-      "https://news.ycombinator.com/item?id=34259243"
-    ],
-    [
-      "Does the world have enough lithium to move to electric vehicles?",
-      "https://hannahritchie.substack.com/p/lithium-electric-vehicles"
-    ]
-  ],
-  [
-    [
       "2023-01-05, 13:22:04",
       "https://news.ycombinator.com/item?id=34259213"
     ],
@@ -267,6 +257,16 @@
     [
       "Migrating Our Largest Mobile App to React Native",
       "https://shopify.engineering/migrating-our-largest-mobile-app-to-react-native"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 16:12:29",
+      "https://news.ycombinator.com/item?id=34247340"
+    ],
+    [
+      "Rijndael S-box in 512 bytes of Python",
+      "https://gist.github.com/juliusgeo/969c722b2152e53e4f6bb94ca2696c7a"
     ]
   ],
   [
