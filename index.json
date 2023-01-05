@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-01-05, 17:32:48",
+      "https://news.ycombinator.com/item?id=34263361"
+    ],
+    [
+      "Writing a Tiny RISC-V Emulator [video]",
+      "https://www.youtube.com/watch?v=YT5vB3UqU_E"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 17:19:40",
+      "https://news.ycombinator.com/item?id=34263125"
+    ],
+    [
+      "Superposition, Memorization, and Double Descent",
+      "https://transformer-circuits.pub/2023/toy-double-descent/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 17:18:42",
+      "https://news.ycombinator.com/item?id=34263100"
+    ],
+    [
+      "Having friends in HR is fine, but HR is not your friend",
+      "https://cdoyle.me/2023/01/05/having-friends-in-hr-is-fine-but-hr-is-not-your-friend/"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 17:02:04",
+      "https://news.ycombinator.com/item?id=34262825"
+    ],
+    [
+      "Show HN: Vim online editor using WebAssembly, storing files using IndexedDB",
+      "https://www.vimonlineeditor.com/"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 16:47:21",
       "https://news.ycombinator.com/item?id=34262587"
     ],
@@ -17,16 +57,6 @@
     [
       "The genetic history of Scandinavia from the Roman Iron Age to the present",
       "https://www.cell.com/cell/fulltext/S0092-8674(22)01468-4"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 16:33:22",
-      "https://news.ycombinator.com/item?id=34262345"
-    ],
-    [
-      "America needs carpenters and plumbers. Try telling that to Gen Z",
-      "https://text.npr.org/1142817339"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "U.S. Moves to Bar Noncompete Agreements in Labor Contracts",
       "https://www.nytimes.com/2023/01/05/business/economy/ftc-noncompete.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 14:48:33",
-      "https://news.ycombinator.com/item?id=34260283"
-    ],
-    [
-      "Investors conclude that Tesla is a carmaker, not a tech firm",
-      "https://www.economist.com/business/2023/01/04/investors-conclude-that-tesla-is-a-carmaker-not-a-tech-firm"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-01-05, 09:13:49",
-      "https://news.ycombinator.com/item?id=34257646"
-    ],
-    [
-      "Slack's private GitHub code repositories stolen over holidays",
-      "https://www.bleepingcomputer.com/news/security/slacks-private-github-code-repositories-stolen-over-holidays/"
-    ]
-  ],
-  [
-    [
       "2023-01-05, 05:56:58",
       "https://news.ycombinator.com/item?id=34256594"
     ],
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2023-01-05, 05:56:37",
-      "https://news.ycombinator.com/item?id=34256592"
-    ],
-    [
-      "Apple Books digital narration",
-      "https://authors.apple.com/support/4519-digital-narration-audiobooks"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 22:03:08",
       "https://news.ycombinator.com/item?id=34252525"
     ],
     [
       "Murder Most Foul: On Agatha Christie",
       "https://drb.ie/articles/murder-most-foul/"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 17:00:32",
+      "https://news.ycombinator.com/item?id=34248130"
+    ],
+    [
+      "Migrating Our Largest Mobile App to React Native",
+      "https://shopify.engineering/migrating-our-largest-mobile-app-to-react-native"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Walter Cunningham, who helped pave the way to the moon, dies at 90",
       "https://www.nytimes.com/2023/01/03/science/space/walter-cunningham-dead.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 04:32:29",
-      "https://news.ycombinator.com/item?id=34242067"
-    ],
-    [
-      "Some thoughts on Prometheus Alertmanager's alert reminders",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/AlertmanagerRepeatTimeThoughts"
     ]
   ]
 ]
