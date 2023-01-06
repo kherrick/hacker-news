@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-06, 17:09:20",
+      "https://news.ycombinator.com/item?id=34277477"
+    ],
+    [
+      "Microsoft CEO Satya Nadella says there's 2 more years of pain before tech rally",
+      "https://www.cnbctv18.com/technology/microsoft-ceo-satya-nadella-says-there-will-be-2-more-years-of-pain-before-a-massive-tech-rally-15578191.htm"
+    ]
+  ],
+  [
+    [
+      "2023-01-06, 16:57:01",
+      "https://news.ycombinator.com/item?id=34277254"
+    ],
+    [
+      "Politics and the English Language by George Orwell",
+      "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 16:44:31",
       "https://news.ycombinator.com/item?id=34277033"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2023-01-06, 13:49:17",
-      "https://news.ycombinator.com/item?id=34274501"
-    ],
-    [
-      "Switzerland: snow flown in by helicopter in attempt to keep ski slopes open",
-      "https://switzerlandtimes.ch/local/gstaad-be-flies-in-snow-by-helicopter/"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 13:35:38",
       "https://news.ycombinator.com/item?id=34274392"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2023-01-06, 08:09:25",
-      "https://news.ycombinator.com/item?id=34272215"
-    ],
-    [
-      "No, you can’t manufacture that like Apple does (2014)",
-      "https://beneinstein.medium.com/no-you-cant-manufacture-that-like-apple-does-93bea02a3bbf"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 06:46:55",
       "https://news.ycombinator.com/item?id=34271739"
     ],
     [
       "Rust Atomics and Locks: Low-Level Concurrency in Practice",
       "https://marabos.nl/atomics/"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 05:21:19",
-      "https://news.ycombinator.com/item?id=34271293"
-    ],
-    [
-      "A practical comparison of build and test speed between C++ and Rust",
-      "https://quick-lint-js.com/blog/cpp-vs-rust-build-times/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Richardson Maturity Model",
       "https://martinfowler.com/articles/richardsonMaturityModel.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 16:13:09",
+      "https://news.ycombinator.com/item?id=34261943"
+    ],
+    [
+      "Flying Disc Museum",
+      "https://www.flyingdiscmuseum.com/"
     ]
   ],
   [
