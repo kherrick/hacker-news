@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=34275668"
     ],
     [
-      "The size of an empire cannot be larger than 1 month of travel from capital",
+      "How transportation technologies shaped empires",
       "https://unchartedterritories.tomaspueyo.com/p/transportation-tech-shaped-empires"
     ]
   ],
@@ -197,6 +197,16 @@
     [
       "GitHub is sued, and we may learn something about creative commons licensing",
       "https://scholarlykitchen.sspnet.org/2023/01/05/github-is-sued-and-we-may-learn-something-about-creative-commons-licensing/"
+    ]
+  ],
+  [
+    [
+      "2023-01-06, 12:12:12",
+      "https://news.ycombinator.com/item?id=34273837"
+    ],
+    [
+      "Independent researcher claims to find writing in prehistoric cave paintings",
+      "https://www.vice.com/en/article/pkg95v/a-total-amateur-may-have-just-rewritten-human-history-with-bombshell-discovery"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Changing firmware config that doesn't want to be changed",
       "https://mjg59.dreamwidth.org/63787.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 22:25:50",
-      "https://news.ycombinator.com/item?id=34252796"
-    ],
-    [
-      "Debugging Lisp: trace options, break on conditions",
-      "https://lisp-journey.gitlab.io/blog/debugging-lisp-trace-options-break-on-conditions/"
     ]
   ]
 ]
