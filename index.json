@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-01-06, 20:08:32",
-      "https://news.ycombinator.com/item?id=34280281"
-    ],
-    [
-      "Learn to Process Text in Linux Using Grep, Sed, and Awk",
-      "https://www.linode.com/docs/guides/differences-between-grep-sed-awk/"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 20:05:50",
       "https://news.ycombinator.com/item?id=34280239"
     ],
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2023-01-06, 12:58:20",
-      "https://news.ycombinator.com/item?id=34274139"
-    ],
-    [
-      "Please Sell My Personal Information",
-      "https://taylor.town/please-sell-my-personal-information"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 12:01:16",
       "https://news.ycombinator.com/item?id=34273766"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2023-01-05, 21:46:49",
+      "https://news.ycombinator.com/item?id=34267209"
+    ],
+    [
+      "The Frontier computer, which broke the exascale barrier in 2022",
+      "https://www.bloomberg.com/news/features/2023-01-05/frontier-supercomputer-world-s-fastest-needs-74-miles-of-cable"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 16:13:09",
       "https://news.ycombinator.com/item?id=34261943"
     ],
@@ -297,6 +287,16 @@
     [
       "Changing firmware config that doesn't want to be changed",
       "https://mjg59.dreamwidth.org/63787.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 22:25:50",
+      "https://news.ycombinator.com/item?id=34252796"
+    ],
+    [
+      "Debugging Lisp: trace options, break on conditions",
+      "https://lisp-journey.gitlab.io/blog/debugging-lisp-trace-options-break-on-conditions/"
     ]
   ]
 ]
