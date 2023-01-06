@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-06, 03:02:27",
+      "https://news.ycombinator.com/item?id=34270425"
+    ],
+    [
+      "The intersection of shadow stacks and CRIU",
+      "https://lwn.net/Articles/915728/"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 02:53:55",
       "https://news.ycombinator.com/item?id=34270375"
     ],
@@ -117,16 +127,6 @@
     [
       "Is it possible for a lunar eclipse to occur before sunset?",
       "https://astronomy.stackexchange.com/questions/51501/is-it-possible-for-a-lunar-eclipse-to-occur-before-sunset"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 19:34:16",
-      "https://news.ycombinator.com/item?id=34265261"
-    ],
-    [
-      "LiteSync – Easy synchronization of SQLite databases",
-      "https://litesync.io/en/index.html"
     ]
   ],
   [
