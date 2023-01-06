@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-01-06, 05:21:19",
+      "https://news.ycombinator.com/item?id=34271293"
+    ],
+    [
+      "C++ vs. Rust Build Times",
+      "https://quick-lint-js.com/blog/cpp-vs-rust-build-times/"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 02:46:42",
       "https://news.ycombinator.com/item?id=34270311"
     ],
     [
-      "Neural Codec Language Models Are Zero-Shot Text to Speech Synthesizers",
+      "VALL-E: Neural codec language models are zero-shot text to speech synthesizers",
       "https://valle-demo.github.io/"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34269772"
     ],
     [
-      "Omg.lol – A lovable web page and email address, just for you",
+      "Omg.lol – A lovable web page and email address",
       "https://home.omg.lol"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34269742"
     ],
     [
-      "Zelda: Link's Awakening Game Engine Documentation",
+      "Zelda: Link's Awakening game engine documentation",
       "https://github.com/zladx/LADX-Disassembly/wiki/Game-engine-documentation"
     ]
   ],
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2023-01-05, 16:37:36",
+      "https://news.ycombinator.com/item?id=34262412"
+    ],
+    [
+      "The genetic history of Scandinavia from the Roman Iron Age to the present",
+      "https://www.cell.com/cell/fulltext/S0092-8674(22)01468-4"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 16:33:22",
       "https://news.ycombinator.com/item?id=34262345"
     ],
@@ -237,26 +257,6 @@
     [
       "U.S. moves to bar noncompete agreements in labor contracts",
       "https://www.nytimes.com/2023/01/05/business/economy/ftc-noncompete.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 14:46:31",
-      "https://news.ycombinator.com/item?id=34260253"
-    ],
-    [
-      "AMD Announces 7950X3D, 7900X3D Upto 128MB L3 Cache",
-      "https://www.anandtech.com/show/18709/amd-unveils-ryzen-9-7950x3d-7900x3d-and-ryzen-7-7800x3d-up-to-128-mb-of-l3-cache-and-5-7-ghz-boost"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 14:38:56",
-      "https://news.ycombinator.com/item?id=34260124"
-    ],
-    [
-      "Cargo Cult Quantum Factoring",
-      "https://scottaaronson.blog/?p=6957"
     ]
   ],
   [
