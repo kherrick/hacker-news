@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-06, 17:55:49",
+      "https://news.ycombinator.com/item?id=34278322"
+    ],
+    [
+      "Wikipedia admin jailed for 32 years after alleged Saudi spy infiltration",
+      "https://arstechnica.com/tech-policy/2023/01/wikipedia-admin-jailed-for-32-years-after-alleged-saudi-spy-infiltration/"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 17:32:35",
       "https://news.ycombinator.com/item?id=34277908"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=34274517"
     ],
     [
-      "Thousands of scientists publish a paper every five days",
+      "Thousands of scientists publish a paper every five days (2018)",
       "https://www.nature.com/articles/d41586-018-06185-8"
     ]
   ],
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2023-01-06, 11:09:31",
+      "https://news.ycombinator.com/item?id=34273430"
+    ],
+    [
+      "Non-binary DDR5 memory could be a game-changer for businesses everywhere",
+      "https://www.techradar.com/news/non-binary-ddr5-memory-could-be-a-game-changer-for-businesses-everywhere"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 11:02:17",
       "https://news.ycombinator.com/item?id=34273366"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-01-06, 09:31:48",
-      "https://news.ycombinator.com/item?id=34272752"
-    ],
-    [
-      "Carl Hewitt has died [pdf]",
-      "http://ee380.stanford.edu/Carl-Hewitt.pdf"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 09:23:15",
       "https://news.ycombinator.com/item?id=34272687"
     ],
@@ -217,16 +227,6 @@
     [
       "Rust Atomics and Locks: Low-Level Concurrency in Practice",
       "https://marabos.nl/atomics/"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 05:21:19",
-      "https://news.ycombinator.com/item?id=34271293"
-    ],
-    [
-      "A practical comparison of build and test speed between C++ and Rust",
-      "https://quick-lint-js.com/blog/cpp-vs-rust-build-times/"
     ]
   ],
   [
