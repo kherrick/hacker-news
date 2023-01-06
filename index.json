@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-01-06, 17:09:20",
-      "https://news.ycombinator.com/item?id=34277477"
-    ],
-    [
-      "Microsoft CEO Satya Nadella says there's 2 more years of pain before tech rally",
-      "https://www.cnbctv18.com/technology/microsoft-ceo-satya-nadella-says-there-will-be-2-more-years-of-pain-before-a-massive-tech-rally-15578191.htm"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 16:57:01",
       "https://news.ycombinator.com/item?id=34277254"
     ],
@@ -27,16 +17,6 @@
     [
       "Ask HN: Is there some academic research on software fragility?",
       "https://news.ycombinator.com/item?id=34277033"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 16:42:15",
-      "https://news.ycombinator.com/item?id=34276986"
-    ],
-    [
-      "Amazon S3 will now encrypt all new data with AES-256 by default",
-      "https://www.bleepingcomputer.com/news/security/amazon-s3-will-now-encrypt-all-new-data-with-aes-256-by-default/"
     ]
   ],
   [
@@ -117,6 +97,16 @@
     [
       "Thousands of scientists publish a paper every five days",
       "https://www.nature.com/articles/d41586-018-06185-8"
+    ]
+  ],
+  [
+    [
+      "2023-01-06, 13:50:49",
+      "https://news.ycombinator.com/item?id=34274510"
+    ],
+    [
+      "Jane Street: How to Build an Exchange",
+      "https://www.janestreet.com/tech-talks/building-an-exchange/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Rust Atomics and Locks: Low-Level Concurrency in Practice",
       "https://marabos.nl/atomics/"
+    ]
+  ],
+  [
+    [
+      "2023-01-06, 05:21:19",
+      "https://news.ycombinator.com/item?id=34271293"
+    ],
+    [
+      "A practical comparison of build and test speed between C++ and Rust",
+      "https://quick-lint-js.com/blog/cpp-vs-rust-build-times/"
     ]
   ],
   [
