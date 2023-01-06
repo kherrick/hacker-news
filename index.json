@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-01-06, 21:49:55",
-      "https://news.ycombinator.com/item?id=34281730"
-    ],
-    [
-      "Show HN: List of Stripe Alternatives",
-      "https://news.ycombinator.com/item?id=34281730"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 21:32:31",
       "https://news.ycombinator.com/item?id=34281474"
     ],
@@ -86,7 +76,7 @@
     ],
     [
       "Fourth membrane is discovered in the brain",
-      "https://www.science.org/doi/10.1126/science.adc8810"
+      "https://www.newscientist.com/article/2353622-weve-just-discovered-a-new-part-of-the-brains-waste-disposal-system/"
     ]
   ],
   [
@@ -191,26 +181,6 @@
   ],
   [
     [
-      "2023-01-06, 13:26:47",
-      "https://news.ycombinator.com/item?id=34274326"
-    ],
-    [
-      "GitHub is sued, and we may learn something about creative commons licensing",
-      "https://scholarlykitchen.sspnet.org/2023/01/05/github-is-sued-and-we-may-learn-something-about-creative-commons-licensing/"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 12:12:12",
-      "https://news.ycombinator.com/item?id=34273837"
-    ],
-    [
-      "Independent researcher claims to find writing in prehistoric cave paintings",
-      "https://www.vice.com/en/article/pkg95v/a-total-amateur-may-have-just-rewritten-human-history-with-bombshell-discovery"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 12:01:16",
       "https://news.ycombinator.com/item?id=34273766"
     ],
@@ -241,12 +211,32 @@
   ],
   [
     [
+      "2023-01-06, 10:11:57",
+      "https://news.ycombinator.com/item?id=34273008"
+    ],
+    [
+      "BMW I Vision Dee",
+      "https://www.bmw.co.uk/en/topics/discover/concept-cars/bmw-vision-ivisiondee-2023.html"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 09:45:32",
       "https://news.ycombinator.com/item?id=34272834"
     ],
     [
       "My bad habit of hoarding information",
       "https://andreisurugiu.com/blog/bad-habit/"
+    ]
+  ],
+  [
+    [
+      "2023-01-06, 09:23:15",
+      "https://news.ycombinator.com/item?id=34272687"
+    ],
+    [
+      "Ask HN: What sub $200 product improved your 2022",
+      "https://news.ycombinator.com/item?id=34272687"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Changing firmware config that doesn't want to be changed",
       "https://mjg59.dreamwidth.org/63787.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-04, 22:25:50",
+      "https://news.ycombinator.com/item?id=34252796"
+    ],
+    [
+      "Debugging Lisp: trace options, break on conditions",
+      "https://lisp-journey.gitlab.io/blog/debugging-lisp-trace-options-break-on-conditions/"
     ]
   ]
 ]
