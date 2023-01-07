@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-01-07, 20:16:10",
+      "https://news.ycombinator.com/item?id=34292224"
+    ],
+    [
+      "The time I yoga-balled an Apple store employee",
+      "https://jasoneckert.github.io/myblog/the-time-i-yoga-balled-an-apple-store-employee/"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 20:12:00",
       "https://news.ycombinator.com/item?id=34292166"
     ],
     [
       "Why Does Private Equity Get to Play Make-Believe with Prices?",
       "https://www.institutionalinvestor.com/article/b1h9csrci656v4/Why-Does-Private-Equity-Get-to-Play-Make-Believe-With-Prices"
+    ]
+  ],
+  [
+    [
+      "2023-01-07, 19:31:33",
+      "https://news.ycombinator.com/item?id=34291701"
+    ],
+    [
+      "Using Qt 6 under LGPLv3",
+      "https://embeddeduse.com/2023/01/06/using-qt-5-15-and-qt-6-under-lgplv3/"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2023-01-07, 17:47:55",
-      "https://news.ycombinator.com/item?id=34290555"
-    ],
-    [
-      "Dedicated biomass is not a good idea",
-      "https://climateer.substack.com/p/biomass"
-    ]
-  ],
-  [
-    [
       "2023-01-07, 17:40:48",
       "https://news.ycombinator.com/item?id=34290470"
     ],
@@ -97,16 +107,6 @@
     [
       "Show HN: Futurecoder – A free interactive Python course for coding beginners",
       "https://futurecoder.io/"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 16:24:13",
-      "https://news.ycombinator.com/item?id=34289520"
-    ],
-    [
-      "Will we know alien life when we see it?",
-      "https://nautil.us/will-we-know-alien-life-when-we-see-it-256501/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-01-07, 11:01:02",
+      "https://news.ycombinator.com/item?id=34287020"
+    ],
+    [
+      "Best Current Operational Practice for Operators (2017)",
+      "https://www.ripe.net/publications/docs/ripe-690"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 09:38:38",
       "https://news.ycombinator.com/item?id=34286622"
     ],
@@ -287,16 +297,6 @@
     [
       "ESP32-P4: High-performance MCU with IO-connectivity and security features",
       "https://www.espressif.com/en/news/ESP32-P4"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 20:42:06",
-      "https://news.ycombinator.com/item?id=34266240"
-    ],
-    [
-      "A Lisp interpreter implemented in Conway's Game of Life (2021)",
-      "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html"
     ]
   ]
 ]
