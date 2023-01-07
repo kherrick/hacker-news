@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-01-06, 22:24:56",
+      "https://news.ycombinator.com/item?id=34282156"
+    ],
+    [
+      "BugChecker – a SoftICE-like kernel and user debugger for Windows",
+      "https://github.com/vitoplantamura/BugChecker"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 20:38:55",
       "https://news.ycombinator.com/item?id=34280708"
     ],
@@ -87,16 +97,6 @@
     [
       "Why was Roman concrete so durable?",
       "https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 19:34:05",
-      "https://news.ycombinator.com/item?id=34279701"
-    ],
-    [
-      "Netscape's Constellation (1997)",
-      "https://people.apache.org/~jim/NewArchitect/webrevu/1997/02_07/developers/02_07_97_2.html"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-01-06, 13:51:58",
-      "https://news.ycombinator.com/item?id=34274517"
-    ],
-    [
-      "Thousands of scientists publish a paper every five days (2018)",
-      "https://www.nature.com/articles/d41586-018-06185-8"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 13:50:49",
       "https://news.ycombinator.com/item?id=34274510"
     ],
@@ -207,6 +197,16 @@
     [
       "Canaries in coal mines (2018)",
       "https://blog.scienceandindustrymuseum.org.uk/canary-resuscitator/"
+    ]
+  ],
+  [
+    [
+      "2023-01-06, 11:37:07",
+      "https://news.ycombinator.com/item?id=34273610"
+    ],
+    [
+      "Denoising Diffusion models from first principle in Julia",
+      "https://liorsinai.github.io/coding/2022/12/03/denoising-diffusion-1-spiral.html"
     ]
   ],
   [
