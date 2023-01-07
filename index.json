@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-01-07, 13:55:22",
+      "https://news.ycombinator.com/item?id=34287964"
+    ],
+    [
+      "Rsync.net Warrant Canary",
+      "https://www.rsync.net/resources/notices/canary.txt"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 13:30:12",
       "https://news.ycombinator.com/item?id=34287800"
     ],
     [
       "Study Finds That Buttons in Cars Are Safer and Quicker to Use Than Touchscreens",
       "https://futurism.com/the-byte/study-finds-that-buttons-in-cars-are-safer-and-quicker-to-use-than-touchscreens"
+    ]
+  ],
+  [
+    [
+      "2023-01-07, 13:22:53",
+      "https://news.ycombinator.com/item?id=34287747"
+    ],
+    [
+      "The creator economy: the top 1% and everyone else",
+      "https://therationalist.substack.com/p/the-creator-economy-the-top-1-and"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "Not-Such-Better-Living Through Chemistry",
       "https://www.science.org/content/blog-post/not-such-better-living-through-chemistry"
+    ]
+  ],
+  [
+    [
+      "2023-01-07, 12:47:32",
+      "https://news.ycombinator.com/item?id=34287562"
+    ],
+    [
+      "Modern C for C++ Peeps",
+      "https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2023-01-07, 07:52:53",
-      "https://news.ycombinator.com/item?id=34286122"
-    ],
-    [
-      "Software horror show: SAP Concur",
-      "https://blog.plover.com/prog/crap-warning-signs-2.html"
-    ]
-  ],
-  [
-    [
       "2023-01-07, 07:23:24",
       "https://news.ycombinator.com/item?id=34285997"
     ],
@@ -167,16 +187,6 @@
     [
       "Jazz Is Freedom",
       "https://thebaffler.com/salvos/jazz-is-freedom-grimstad"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 02:54:08",
-      "https://news.ycombinator.com/item?id=34284635"
-    ],
-    [
-      "In the Stacks",
-      "https://brandnewbox.com/inthestacks/?ref=the-browser"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "What We Do in the /etc./Shadow – Cryptography with Passwords",
       "https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 14:54:19",
-      "https://news.ycombinator.com/item?id=34260371"
-    ],
-    [
-      "Soapbox 3.0 – Web UI for the Fediverse",
-      "https://soapbox.pub/2022/12/25/releasing-soapbox-3-0/"
     ]
   ]
 ]
