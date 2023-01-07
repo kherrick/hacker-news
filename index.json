@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-01-07, 18:46:51",
+      "https://news.ycombinator.com/item?id=34291191"
+    ],
+    [
+      "Production Twitter on one machine? 100Gbps NICs and NVMe are fast",
+      "https://thume.ca/2023/01/02/one-machine-twitter/"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 18:35:49",
       "https://news.ycombinator.com/item?id=34291045"
     ],
@@ -37,6 +47,16 @@
     [
       "Lessons learned from three container-management systems over a decade (2016)",
       "https://queue.acm.org/detail.cfm?id=2898444"
+    ]
+  ],
+  [
+    [
+      "2023-01-07, 17:47:55",
+      "https://news.ycombinator.com/item?id=34290555"
+    ],
+    [
+      "Dedicated biomass is not a good idea",
+      "https://climateer.substack.com/p/biomass"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-01-07, 11:57:29",
-      "https://news.ycombinator.com/item?id=34287252"
-    ],
-    [
-      "Social norms: The downside",
-      "https://wyclif.substack.com/p/social-norms-the-downside"
-    ]
-  ],
-  [
-    [
       "2023-01-07, 11:01:02",
       "https://news.ycombinator.com/item?id=34287020"
     ],
@@ -277,16 +287,6 @@
     [
       "ESP32-P4: High-performance MCU with IO-connectivity and security features",
       "https://www.espressif.com/en/news/ESP32-P4"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 20:42:06",
-      "https://news.ycombinator.com/item?id=34266240"
-    ],
-    [
-      "A Lisp interpreter implemented in Conway's Game of Life (2021)",
-      "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html"
     ]
   ],
   [
