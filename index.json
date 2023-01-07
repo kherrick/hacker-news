@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-07, 01:10:12",
+      "https://news.ycombinator.com/item?id=34283861"
+    ],
+    [
+      "Monkey stone tools shed doubts on the human origin of archeological sites",
+      "https://journals.sagepub.com/doi/10.1177/09596836221131707"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 00:23:46",
       "https://news.ycombinator.com/item?id=34283427"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2023-01-06, 21:56:43",
-      "https://news.ycombinator.com/item?id=34281831"
+      "2023-01-06, 22:24:56",
+      "https://news.ycombinator.com/item?id=34282156"
     ],
     [
-      "That paper with the ‘T’ error bars was just retracted",
-      "https://retractionwatch.com/2022/12/22/that-paper-with-the-t-error-bars-was-just-retracted/"
+      "BugChecker – a SoftICE-like kernel and user debugger for Windows",
+      "https://github.com/vitoplantamura/BugChecker"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2023-01-06, 19:28:06",
-      "https://news.ycombinator.com/item?id=34279605"
-    ],
-    [
-      "Fourth membrane is discovered in the brain",
-      "https://www.newscientist.com/article/2353622-weve-just-discovered-a-new-part-of-the-brains-waste-disposal-system/"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 18:59:15",
       "https://news.ycombinator.com/item?id=34279224"
     ],
@@ -127,6 +127,16 @@
     [
       "A Curious Integral",
       "https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-06, 17:29:58",
+      "https://news.ycombinator.com/item?id=34277859"
+    ],
+    [
+      "‘Remember your training’: teen pilot makes emergency landing on Route 66",
+      "https://www.theguardian.com/us-news/2023/jan/04/brock-peters-hero-teen-pilot-route-66"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-01-06, 13:26:47",
-      "https://news.ycombinator.com/item?id=34274326"
-    ],
-    [
-      "GitHub is sued, and we may learn something about Creative Commons licensing",
-      "https://scholarlykitchen.sspnet.org/2023/01/05/github-is-sued-and-we-may-learn-something-about-creative-commons-licensing/"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 13:14:45",
       "https://news.ycombinator.com/item?id=34274235"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-01-06, 06:46:55",
-      "https://news.ycombinator.com/item?id=34271739"
+      "2023-01-06, 07:24:30",
+      "https://news.ycombinator.com/item?id=34271902"
     ],
     [
-      "Rust Atomics and Locks: Low-Level Concurrency in Practice",
-      "https://marabos.nl/atomics/"
+      "Leaked Slack all-hands meeting reveals a ‘strong culture clash’ with Salesforce",
+      "https://fortune.com/2023/01/05/leaked-slack-all-hands-meeting-reveals-a-strong-culture-clash-and-growing-rift-with-parent-company-salesforce/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-01-06, 05:09:27",
+      "https://news.ycombinator.com/item?id=34271218"
+    ],
+    [
+      "The different sorts of 'iconification' of windows in X",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/XIconificationManyWays"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 21:46:49",
       "https://news.ycombinator.com/item?id=34267209"
     ],
     [
       "The Frontier computer, which broke the exascale barrier in 2022",
       "https://www.bloomberg.com/news/features/2023-01-05/frontier-supercomputer-world-s-fastest-needs-74-miles-of-cable"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 01:20:38",
-      "https://news.ycombinator.com/item?id=34254614"
-    ],
-    [
-      "A plea for culinary modernism (2001) [pdf]",
-      "https://www.rachellaudan.com/wp-content/uploads/2007/12/plea-for-culinary-modernism.pdf"
     ]
   ]
 ]
