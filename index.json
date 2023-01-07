@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34292166"
     ],
     [
-      "Why Does Private Equity Get to Play Make-Believe with Prices?",
+      "Why does private equity get to play make-believe with prices?",
       "https://www.institutionalinvestor.com/article/b1h9csrci656v4/Why-Does-Private-Equity-Get-to-Play-Make-Believe-With-Prices"
     ]
   ],
@@ -31,21 +31,11 @@
   ],
   [
     [
-      "2023-01-07, 19:31:33",
-      "https://news.ycombinator.com/item?id=34291701"
-    ],
-    [
-      "Using Qt 6 under LGPLv3",
-      "https://embeddeduse.com/2023/01/06/using-qt-5-15-and-qt-6-under-lgplv3/"
-    ]
-  ],
-  [
-    [
       "2023-01-07, 19:04:14",
       "https://news.ycombinator.com/item?id=34291399"
     ],
     [
-      "Aral Sea Disaster: Why One of the Biggest Inland Seas Dried Up?",
+      "The Aral Sea has shrunk because of the re-routing of its source rivers (2022)",
       "https://www.marineinsight.com/environment/aral-sea-disaster-why-one-of-the-biggest-inland-seas-dried-up/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "ESP32-P4: High-performance MCU with IO-connectivity and security features",
       "https://www.espressif.com/en/news/ESP32-P4"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 20:42:06",
+      "https://news.ycombinator.com/item?id=34266240"
+    ],
+    [
+      "A Lisp interpreter implemented in Conway's Game of Life (2021)",
+      "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html"
     ]
   ]
 ]
