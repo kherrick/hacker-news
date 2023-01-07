@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-07, 08:41:58",
+      "https://news.ycombinator.com/item?id=34286322"
+    ],
+    [
+      "Watch out for DoS when using Rust’s popular Hyper package",
+      "https://jfrog.com/blog/watch-out-for-dos-when-using-rusts-popular-hyper-package/"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 08:27:21",
       "https://news.ycombinator.com/item?id=34286253"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2023-01-06, 19:34:05",
-      "https://news.ycombinator.com/item?id=34279701"
-    ],
-    [
-      "Netscape's Constellation (1997)",
-      "https://people.apache.org/~jim/NewArchitect/webrevu/1997/02_07/developers/02_07_97_2.html"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 18:59:15",
       "https://news.ycombinator.com/item?id=34279224"
     ],
@@ -187,16 +187,6 @@
     [
       "A skeptical take on ChatGPT: Ezra Klein interviews Gary Marcus",
       "https://www.nytimes.com/2023/01/06/podcasts/transcript-ezra-klein-interviews-gary-marcus.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 17:32:35",
-      "https://news.ycombinator.com/item?id=34277908"
-    ],
-    [
-      "A Curious Integral",
-      "https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "I prefer semi-automation",
       "https://lucaskostka.com/posts/semi-automation"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 21:29:08",
+      "https://news.ycombinator.com/item?id=34266901"
+    ],
+    [
+      "Espressif Reveals ESP32-P4: High-Performance MCU with Connectivity and Security",
+      "https://www.espressif.com/en/news/ESP32-P4"
     ]
   ],
   [
