@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-01-07, 18:11:41",
-      "https://news.ycombinator.com/item?id=34290798"
+      "2023-01-07, 19:18:08",
+      "https://news.ycombinator.com/item?id=34291565"
     ],
     [
-      "Lessons learned from three container-management systems over a decade",
-      "https://queue.acm.org/detail.cfm?id=2898444"
+      "Why ChatGPT won’t replace search engines any time soon",
+      "https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/"
+    ]
+  ],
+  [
+    [
+      "2023-01-07, 18:35:49",
+      "https://news.ycombinator.com/item?id=34291045"
+    ],
+    [
+      "Seattle Public Schools sues TikTok, YouTube, Instagram over youth mental health",
+      "https://www.geekwire.com/2023/seattle-public-schools-sues-tiktok-youtube-instagram-and-others-seeking-compensation-for-youth-mental-health-crisis/"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34290555"
     ],
     [
-      "Can We Please Never Talk About Dedicated Biomass Again",
+      "Dedicated biomass is not a good idea",
       "https://climateer.substack.com/p/biomass"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34289581"
     ],
     [
-      "Show HN: A 100% free and interactive Python course for coding beginners",
+      "Show HN: A free and interactive Python course for coding beginners",
       "https://futurecoder.io/"
     ]
   ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-01-07, 12:29:09",
-      "https://news.ycombinator.com/item?id=34287447"
-    ],
-    [
-      "Classifying Python virtual environment workflows",
-      "https://snarky.ca/classifying-python-virtual-environment-workflows/"
-    ]
-  ],
-  [
-    [
       "2023-01-07, 12:22:11",
       "https://news.ycombinator.com/item?id=34287407"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2023-01-06, 00:43:15",
-      "https://news.ycombinator.com/item?id=34269318"
-    ],
-    [
-      "I prefer semi-automation",
-      "https://lucaskostka.com/posts/semi-automation"
-    ]
-  ],
-  [
-    [
       "2023-01-05, 21:29:08",
       "https://news.ycombinator.com/item?id=34266901"
     ],
     [
       "ESP32-P4: High-performance MCU with IO-connectivity and security features",
       "https://www.espressif.com/en/news/ESP32-P4"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 20:42:06",
+      "https://news.ycombinator.com/item?id=34266240"
+    ],
+    [
+      "A Lisp interpreter implemented in Conway's Game of Life (2021)",
+      "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html"
     ]
   ],
   [
