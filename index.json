@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-01-07, 15:47:48",
+      "https://news.ycombinator.com/item?id=34289092"
+    ],
+    [
+      "Universal flu vaccine against all known subtypes takes promising first steps",
+      "https://www.science.org/doi/10.1126/science.abm0271"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 15:12:07",
       "https://news.ycombinator.com/item?id=34288684"
     ],
@@ -67,16 +77,6 @@
     [
       "Study Finds That Buttons in Cars Are Safer and Quicker to Use Than Touchscreens",
       "https://futurism.com/the-byte/study-finds-that-buttons-in-cars-are-safer-and-quicker-to-use-than-touchscreens"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 13:22:53",
-      "https://news.ycombinator.com/item?id=34287747"
-    ],
-    [
-      "The creator economy: the top 1% and everyone else",
-      "https://therationalist.substack.com/p/the-creator-economy-the-top-1-and"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-01-07, 01:10:12",
-      "https://news.ycombinator.com/item?id=34283861"
-    ],
-    [
-      "Monkey stone tools shed doubts on the human origin of archeological sites",
-      "https://journals.sagepub.com/doi/10.1177/09596836221131707"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 22:38:40",
       "https://news.ycombinator.com/item?id=34282339"
     ],
@@ -297,6 +287,16 @@
     [
       "ESP32-P4: High-performance MCU with IO-connectivity and security features",
       "https://www.espressif.com/en/news/ESP32-P4"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 20:11:02",
+      "https://news.ycombinator.com/item?id=34265805"
+    ],
+    [
+      "What We Do in the /etc/shadow – Cryptography with Passwords",
+      "https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/"
     ]
   ]
 ]
