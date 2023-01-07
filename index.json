@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-07, 13:30:12",
+      "https://news.ycombinator.com/item?id=34287800"
+    ],
+    [
+      "Study Finds That Buttons in Cars Are Safer and Quicker to Use Than Touchscreens",
+      "https://futurism.com/the-byte/study-finds-that-buttons-in-cars-are-safer-and-quicker-to-use-than-touchscreens"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 13:10:13",
       "https://news.ycombinator.com/item?id=34287685"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
+      "2023-01-07, 12:22:11",
+      "https://news.ycombinator.com/item?id=34287407"
+    ],
+    [
+      "Tell HN: Vim users, `:x` is like `:wq` but writes only when changes are made",
+      "https://news.ycombinator.com/item?id=34287407"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 12:04:59",
       "https://news.ycombinator.com/item?id=34287308"
     ],
     [
       "Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service",
       "https://www.svix.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 11:43:26",
-      "https://news.ycombinator.com/item?id=34287199"
-    ],
-    [
-      "GoDaddy Rant:(",
-      "https://news.ycombinator.com/item?id=34287199"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "The beauty of CGI and simple design",
       "https://rubenerd.com/the-beauty-of-cgi-and-simple-design-by-hales/"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 08:41:58",
-      "https://news.ycombinator.com/item?id=34286322"
-    ],
-    [
-      "Watch out for DoS when using Rust’s Hyper package",
-      "https://jfrog.com/blog/watch-out-for-dos-when-using-rusts-popular-hyper-package/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-01-06, 18:16:54",
+      "https://news.ycombinator.com/item?id=34278622"
+    ],
+    [
+      "The 10 year old indie mobile app: what worked for the long haul",
+      "https://medium.com/@taylorhughes/the-10-year-old-indie-mobile-app-ce96244a0af0"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 15:44:07",
       "https://news.ycombinator.com/item?id=34275951"
     ],
@@ -267,16 +277,6 @@
     [
       "ESP32-P4: High-performance MCU with IO-connectivity and security features",
       "https://www.espressif.com/en/news/ESP32-P4"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 20:30:30",
-      "https://news.ycombinator.com/item?id=34266095"
-    ],
-    [
-      "Safe deposit boxes aren’t safe (2019)",
-      "https://www.nytimes.com/2019/07/19/business/safe-deposit-box-theft.html"
     ]
   ],
   [
