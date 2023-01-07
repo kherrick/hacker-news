@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-07, 06:26:39",
+      "https://news.ycombinator.com/item?id=34285747"
+    ],
+    [
+      "Devirtualizing Nike.com's Bot Protection (Part 1)",
+      "https://www.nullpt.rs/devirtualizing-nike-vm-1"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 04:28:27",
       "https://news.ycombinator.com/item?id=34285206"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-01-06, 19:34:05",
-      "https://news.ycombinator.com/item?id=34279701"
-    ],
-    [
-      "Netscape's Constellation (1997)",
-      "https://people.apache.org/~jim/NewArchitect/webrevu/1997/02_07/developers/02_07_97_2.html"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 18:59:15",
       "https://news.ycombinator.com/item?id=34279224"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-01-06, 10:56:14",
-      "https://news.ycombinator.com/item?id=34273320"
-    ],
-    [
-      "Making the ultimate-guitar.com web player easier to practice with",
-      "https://ivanca.tumblr.com/post/705694114475360256/making-the-ultimate-guitar-web-player-easier-to"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 09:35:10",
       "https://news.ycombinator.com/item?id=34272772"
     ],
@@ -297,6 +287,16 @@
     [
       "Safe deposit boxes aren’t safe (2019)",
       "https://www.nytimes.com/2019/07/19/business/safe-deposit-box-theft.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 20:11:02",
+      "https://news.ycombinator.com/item?id=34265805"
+    ],
+    [
+      "What We Do in the /etc./Shadow – Cryptography with Passwords",
+      "https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/"
     ]
   ]
 ]
