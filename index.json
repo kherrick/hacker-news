@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-01-07, 11:01:02",
-      "https://news.ycombinator.com/item?id=34287020"
-    ],
-    [
-      "Best Current Operational Practice for Operators (2017)",
-      "https://www.ripe.net/publications/docs/ripe-690"
-    ]
-  ],
-  [
-    [
       "2023-01-07, 09:38:38",
       "https://news.ycombinator.com/item?id=34286622"
     ],
@@ -287,6 +277,16 @@
     [
       "ESP32-P4: High-performance MCU with IO-connectivity and security features",
       "https://www.espressif.com/en/news/ESP32-P4"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 20:42:06",
+      "https://news.ycombinator.com/item?id=34266240"
+    ],
+    [
+      "A Lisp interpreter implemented in Conway's Game of Life (2021)",
+      "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html"
     ]
   ],
   [
