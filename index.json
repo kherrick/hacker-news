@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-01-08, 16:30:08",
-      "https://news.ycombinator.com/item?id=34300446"
-    ],
-    [
-      "Patagonia’s $3B corporate gift is also a convenient way to avoid taxes",
-      "https://qz.com/patagonia-s-3-billion-corporate-gift-is-also-a-conveni-1849543678"
-    ]
-  ],
-  [
-    [
       "2023-01-08, 16:17:40",
       "https://news.ycombinator.com/item?id=34300329"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2023-01-08, 14:38:25",
+      "https://news.ycombinator.com/item?id=34299433"
+    ],
+    [
+      "Apple Fined $8.5M for Illegally Collecting iPhone Owners' Data for Ads",
+      "https://gizmodo.com/apple-iphone-france-ads-fine-illegal-data-1849950163"
+    ]
+  ],
+  [
+    [
       "2023-01-08, 14:22:30",
       "https://news.ycombinator.com/item?id=34299304"
     ],
@@ -77,6 +77,16 @@
     [
       "Game prototype using AI assisted graphics",
       "https://www.traffickinggame.com/ai-assisted-graphics/"
+    ]
+  ],
+  [
+    [
+      "2023-01-08, 13:33:07",
+      "https://news.ycombinator.com/item?id=34298965"
+    ],
+    [
+      "Assembly Optimization Tips",
+      "http://mark.masmcode.com/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "SDL2 common mistakes and how to avoid them",
       "https://nullprogram.com/blog/2023/01/08/"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 01:50:29",
-      "https://news.ycombinator.com/item?id=34295165"
-    ],
-    [
-      "Tilck – A Tiny Linux-Compatible Kernel",
-      "https://github.com/vvaltchev/tilck"
     ]
   ],
   [
