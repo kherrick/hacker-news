@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-01-08, 05:37:24",
+      "https://news.ycombinator.com/item?id=34296390"
+    ],
+    [
+      "CSS lengths in Gecko are limited to 17,895,697 pixels (2010)",
+      "https://bugzilla.mozilla.org/show_bug.cgi?id=552412"
+    ]
+  ],
+  [
+    [
       "2023-01-08, 04:57:10",
       "https://news.ycombinator.com/item?id=34296170"
     ],
@@ -157,16 +167,6 @@
     [
       "Jailbroken iOS can't run macOS apps – I spent a week to find out why (2021)",
       "https://worthdoingbadly.com/macappsios/"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 20:06:43",
-      "https://news.ycombinator.com/item?id=34292099"
-    ],
-    [
-      "There is no software maintenance",
-      "https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/"
     ]
   ],
   [
