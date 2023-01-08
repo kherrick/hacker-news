@@ -25,8 +25,18 @@
       "https://news.ycombinator.com/item?id=34298234"
     ],
     [
-      "Tax System in the Faroe Islands: what America and the world can learn from it",
+      "Tax System in the Faroe Islands: What America and the world can learn from it",
       "https://prospect.org/world/best-tax-system-on-earth-faroe-islands/"
+    ]
+  ],
+  [
+    [
+      "2023-01-08, 11:20:44",
+      "https://news.ycombinator.com/item?id=34298157"
+    ],
+    [
+      "Fish 3.6.0",
+      "https://github.com/fish-shell/fish-shell/releases/tag/3.6.0"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2023-01-07, 17:46:05",
-      "https://news.ycombinator.com/item?id=34290539"
-    ],
-    [
-      "Excess management is costing the U.S. $3T per year (2016)",
-      "https://hbr.org/2016/09/excess-management-is-costing-the-us-3-trillion-per-year"
-    ]
-  ],
-  [
-    [
       "2023-01-07, 15:40:37",
       "https://news.ycombinator.com/item?id=34288999"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=34275818"
     ],
     [
-      "Modern Polars: a comparison of the Polars and Pandas dataframe libraries",
+      "Modern Polars: A comparison of the Polars and Pandas dataframe libraries",
       "https://kevinheavey.github.io/modern-polars/"
     ]
   ]
