@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-01-09, 21:40:34",
-      "https://news.ycombinator.com/item?id=34316529"
-    ],
-    [
-      "An Analysis of Deaths in U.S. National Parks",
-      "https://www.psbr.law/nevada/deaths-in-us-national-parks/"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 20:46:31",
       "https://news.ycombinator.com/item?id=34315779"
     ],
@@ -51,21 +41,11 @@
   ],
   [
     [
-      "2023-01-09, 20:26:15",
-      "https://news.ycombinator.com/item?id=34315499"
-    ],
-    [
-      "A single developer dropped AWS costs by 90%, then disappeared",
-      "https://medium.com/@maximetopolov/how-a-single-developer-dropped-aws-costs-by-90-then-disappeared-2b46a115103a"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 20:16:55",
       "https://news.ycombinator.com/item?id=34315380"
     ],
     [
-      "Show HN: How to create a 3D space using CSS",
+      "3D in CSS",
       "https://garden.bradwoods.io/notes/css/3d"
     ]
   ],
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34314504"
     ],
     [
-      "Three Lessons from Threema: Analysis of a Secure Messenger",
+      "Three lessons from Threema: Analysis of a secure messenger",
       "https://breakingthe3ma.app/"
     ]
   ],
@@ -125,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34312877"
     ],
     [
-      "Values and Objects in Programming Languages (1982) [pdf]",
+      "Values and objects in programming languages (1982) [pdf]",
       "https://dl.acm.org/doi/pdf/10.1145/988164.988172"
     ]
   ],
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2023-01-09, 13:18:46",
+      "https://news.ycombinator.com/item?id=34309977"
+    ],
+    [
+      "‘That girl is going to get herself killed’",
+      "https://longreads.com/2022/11/15/death-in-national-parks/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 12:47:54",
       "https://news.ycombinator.com/item?id=34309725"
     ],
@@ -257,6 +247,16 @@
     [
       "Partial Function Application",
       "http://modernescpp.com/index.php/partial-function-application"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 05:42:17",
+      "https://news.ycombinator.com/item?id=34307201"
+    ],
+    [
+      "Writing an IaC Rosetta Stone",
+      "https://briancaffey.github.io/2023/01/07/i-deployed-the-same-containerized-serverless-django-app-with-aws-cdk-terraform-and-pulumi/"
     ]
   ],
   [
