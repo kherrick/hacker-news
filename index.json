@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-09, 18:06:01",
+      "https://news.ycombinator.com/item?id=34313597"
+    ],
+    [
+      "Data pipelines are not workflows",
+      "https://dagster.io/blog/declarative-scheduling"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 18:05:17",
       "https://news.ycombinator.com/item?id=34313589"
     ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=34309230"
     ],
     [
-      "The Organ as a Wind Instrument",
+      "The organ as a wind instrument",
       "https://www.yamaha.com/en/musical_instrument_guide/pipeorgan/mechanism/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "PromptArray: A Prompting Language for Neural Text Generators",
       "https://github.com/jeffbinder/promptarray"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 01:18:06",
-      "https://news.ycombinator.com/item?id=34305518"
-    ],
-    [
-      "In honor of Weizenbaum's Centenary, I asked ChatGPT to program ELIZA",
-      "https://news.ycombinator.com/item?id=34305518"
     ]
   ],
   [
