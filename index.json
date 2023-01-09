@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-09, 05:04:03",
+      "https://news.ycombinator.com/item?id=34306963"
+    ],
+    [
+      "Reverse Engineering TikTok's VM Obfuscation (Part 2)",
+      "https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 04:50:45",
       "https://news.ycombinator.com/item?id=34306874"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-01-08, 21:35:53",
-      "https://news.ycombinator.com/item?id=34303386"
-    ],
-    [
-      "Monitoring ECC memory on Linux with rasdaemon",
-      "https://www.setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/"
-    ]
-  ],
-  [
-    [
       "2023-01-08, 21:02:16",
       "https://news.ycombinator.com/item?id=34303068"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2023-01-08, 04:43:41",
+      "https://news.ycombinator.com/item?id=34296086"
+    ],
+    [
+      "Mariner's Guide to the 500-Millibar Chart",
+      "https://www.vos.noaa.gov/MWL/dec_08/milibar_chart.shtml"
+    ]
+  ],
+  [
+    [
       "2023-01-08, 01:57:04",
       "https://news.ycombinator.com/item?id=34295198"
     ],
     [
       "Dweb: Offline Internet Archive",
       "https://github.com/internetarchive/dweb-mirror"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 00:16:45",
-      "https://news.ycombinator.com/item?id=34294576"
-    ],
-    [
-      "Microsoft subdomain takeover",
-      "http://cseo-coherence.microsoft.com/"
     ]
   ],
   [
