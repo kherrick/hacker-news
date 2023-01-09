@@ -1,6 +1,86 @@
 [
   [
     [
+      "2023-01-09, 17:00:05",
+      "https://news.ycombinator.com/item?id=34312574"
+    ],
+    [
+      "Kable (YC W22) Is Hiring Lead Engineer (Remote/US)",
+      "https://www.ycombinator.com/companies/kable/jobs"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 16:57:50",
+      "https://news.ycombinator.com/item?id=34312546"
+    ],
+    [
+      "How to store your app's entire state in the url",
+      "https://www.scottantipa.com/store-app-state-in-urls"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 16:46:57",
+      "https://news.ycombinator.com/item?id=34312398"
+    ],
+    [
+      "R3 RADIO BLACKOUT 7:57 P.M. EDT January 5, 2023",
+      "https://www.swpc.noaa.gov/news/r3-radio-blackout-757-pm-edt-january-5-2023"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 16:41:42",
+      "https://news.ycombinator.com/item?id=34312338"
+    ],
+    [
+      "Japan, US to step up cooperation in developing next-generation nuclear reactors",
+      "https://asianews.network/japan-us-to-step-up-cooperation-in-developing-next-generation-nuclear-reactors/"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 16:41:40",
+      "https://news.ycombinator.com/item?id=34312335"
+    ],
+    [
+      "Show HN: HyperLogLog in Zig",
+      "https://github.com/axiomhq/zig-hyperloglog"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 16:34:34",
+      "https://news.ycombinator.com/item?id=34312248"
+    ],
+    [
+      "Ask HN: What are the foundational texts for learning about AI/ML/NN?",
+      "https://news.ycombinator.com/item?id=34312248"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 16:21:42",
+      "https://news.ycombinator.com/item?id=34312069"
+    ],
+    [
+      "Can the double-slit experiment distinguish between quantum interpretations?",
+      "https://arxiv.org/abs/2301.02641"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 16:20:58",
+      "https://news.ycombinator.com/item?id=34312066"
+    ],
+    [
+      "John Carmack: I loaned money to anyone that asked me",
+      "https://twitter.com/id_aa_carmack/status/1612484342567010306"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 15:15:00",
       "https://news.ycombinator.com/item?id=34311192"
     ],
@@ -71,16 +151,6 @@
   ],
   [
     [
-      "2023-01-09, 14:13:10",
-      "https://news.ycombinator.com/item?id=34310505"
-    ],
-    [
-      "AMD Ryzen 5 7600 / Ryzen 7 7700 / Ryzen 9 7900 Linux Performance",
-      "https://www.phoronix.com/review/ryzen-7600-7700-7900-linux"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 14:02:45",
       "https://news.ycombinator.com/item?id=34310395"
     ],
@@ -121,26 +191,6 @@
   ],
   [
     [
-      "2023-01-09, 12:35:02",
-      "https://news.ycombinator.com/item?id=34309625"
-    ],
-    [
-      "James Webb Telescope reveals Milky Way–like galaxies in young universe",
-      "https://phys.org/news/2023-01-james-webb-telescope-reveals-milky.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 12:06:11",
-      "https://news.ycombinator.com/item?id=34309414"
-    ],
-    [
-      "BuildZoom (better way to build custom homes) Is hiring a Product Manager",
-      "https://jobs.lever.co/buildzoom"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 11:48:43",
       "https://news.ycombinator.com/item?id=34309306"
     ],
@@ -167,16 +217,6 @@
     [
       "The Organ as a Wind Instrument",
       "https://www.yamaha.com/en/musical_instrument_guide/pipeorgan/mechanism/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 11:24:15",
-      "https://news.ycombinator.com/item?id=34309170"
-    ],
-    [
-      "Why Intermittent Fasting Has So Many Health Benefits",
-      "https://www.universal-sci.com/article/why-intermittent-fasting-has-so-many-health-benefits"
     ]
   ],
   [
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2023-01-09, 05:44:44",
-      "https://news.ycombinator.com/item?id=34307215"
-    ],
-    [
-      "Parsing layout – problems with Haskell's syntax",
-      "https://amelia.how/posts/parsing-layout.html"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 05:04:03",
       "https://news.ycombinator.com/item?id=34306963"
     ],
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2023-01-09, 02:01:17",
-      "https://news.ycombinator.com/item?id=34305831"
-    ],
-    [
-      "Deere to allow farmers to repair their own equipment",
-      "https://www.wsj.com/articles/deere-to-allow-farmers-to-repair-their-own-equipment-11673228580"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 01:18:06",
       "https://news.ycombinator.com/item?id=34305518"
     ],
     [
       "In honor of Weizenbaum's Centenary, I asked ChatGPT to program ELIZA",
       "https://news.ycombinator.com/item?id=34305518"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 22:16:24",
-      "https://news.ycombinator.com/item?id=34303825"
-    ],
-    [
-      "Implementing VisiCalc (2003): Bob Frankston's design notes",
-      "https://rmf.vc/ImplementingVisiCalc"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 21:46:29",
-      "https://news.ycombinator.com/item?id=34303497"
-    ],
-    [
-      "CDC File Transfer",
-      "https://github.com/google/cdc-file-transfer"
     ]
   ],
   [
