@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-01-08, 22:16:24",
+      "https://news.ycombinator.com/item?id=34303825"
+    ],
+    [
+      "Implementing VisiCalc (2003): Bob Frankston's design notes",
+      "https://rmf.vc/ImplementingVisiCalc"
+    ]
+  ],
+  [
+    [
       "2023-01-08, 21:46:29",
       "https://news.ycombinator.com/item?id=34303497"
     ],
@@ -257,16 +267,6 @@
     [
       "Collective Decision-Making with AHP (Analytic Hierarchy Process)",
       "https://open.nytimes.com/collective-decision-making-with-ahp-3ef819e5bc2a"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 15:21:42",
-      "https://news.ycombinator.com/item?id=34299797"
-    ],
-    [
-      "Requiem for piet-gpu-hal",
-      "https://raphlinus.github.io/rust/gpu/2023/01/07/requiem-piet-gpu-hal.html"
     ]
   ],
   [
