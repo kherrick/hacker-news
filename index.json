@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-01-09, 13:45:47",
-      "https://news.ycombinator.com/item?id=34310218"
+      "2023-01-09, 14:13:10",
+      "https://news.ycombinator.com/item?id=34310505"
     ],
     [
-      "U.S. safety agency to consider ban on gas stoves amid health fears",
-      "https://www.bloomberg.com/news/articles/2023-01-09/us-safety-agency-to-consider-ban-on-gas-stoves-amid-health-fears"
+      "AMD Ryzen 5 7600 / Ryzen 7 7700 / Ryzen 9 7900 Linux Performance",
+      "https://www.phoronix.com/review/ryzen-7600-7700-7900-linux"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 14:02:45",
+      "https://news.ycombinator.com/item?id=34310395"
+    ],
+    [
+      "Show HN: I wrote a WebAssembly Interpreter and Toolkit in C",
+      "https://github.com/FastVM/Web49"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2023-01-09, 05:17:48",
-      "https://news.ycombinator.com/item?id=34307053"
-    ],
-    [
-      "Design Tool Performance Signatures",
-      "https://bjango.com/articles/perfsignatures/"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 05:13:28",
       "https://news.ycombinator.com/item?id=34307026"
     ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-01-09, 01:17:03",
+      "https://news.ycombinator.com/item?id=34305515"
+    ],
+    [
+      "Ask HN: What software was used to make 90s cutscenes?",
+      "https://news.ycombinator.com/item?id=34305515"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 00:03:59",
       "https://news.ycombinator.com/item?id=34304851"
     ],
@@ -227,16 +237,6 @@
     [
       "Alan Kay on web browsers, document viewers, Smalltalk, NeWS and HyperCard (2021)",
       "https://donhopkins.medium.com/alan-kay-on-should-web-browsers-have-stuck-to-being-document-viewers-and-a-discussion-of-news-5cb92c7b3445"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 23:26:00",
-      "https://news.ycombinator.com/item?id=34304520"
-    ],
-    [
-      "Safari is released to the world (2013)",
-      "https://donmelton.com/2013/01/10/safari-is-released-to-the-world/"
     ]
   ],
   [
