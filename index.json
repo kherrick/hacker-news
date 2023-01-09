@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34316613"
     ],
     [
-      "“I measured the pollution from my gas stove. It was bad.”",
+      "I measured the pollution from my gas stove",
       "https://www.distilled.earth/p/i-measured-the-pollution-from-my"
     ]
   ],
@@ -27,26 +27,6 @@
     [
       "An Analysis of Deaths in U.S. National Parks",
       "https://www.psbr.law/nevada/deaths-in-us-national-parks/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 21:36:37",
-      "https://news.ycombinator.com/item?id=34316479"
-    ],
-    [
-      "Conservative group targets migrant cell phone data, raising privacy concerns",
-      "https://www.tpr.org/border-immigration/2023-01-06/conservative-group-targets-migrant-cell-phone-data-at-ngos-raising-privacy-concerns"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 20:59:19",
-      "https://news.ycombinator.com/item?id=34315969"
-    ],
-    [
-      "Texas Records All Inmates Last Words Before Execution And Puts Them All Online",
-      "https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html"
     ]
   ],
   [
@@ -65,8 +45,18 @@
       "https://news.ycombinator.com/item?id=34315533"
     ],
     [
-      "Tomu – A family of devices which fit inside your USB port",
+      "Tomu – A tiny ARM microprocessor which fits in your USB port",
       "https://tomu.im/"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 20:26:15",
+      "https://news.ycombinator.com/item?id=34315499"
+    ],
+    [
+      "A single developer dropped AWS costs by 90%, then disappeared",
+      "https://medium.com/@maximetopolov/how-a-single-developer-dropped-aws-costs-by-90-then-disappeared-2b46a115103a"
     ]
   ],
   [
@@ -107,16 +97,6 @@
     [
       "An Open Letter on the Open Gaming License, to Wizards of the Coast",
       "https://www.opendnd.games"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 18:46:38",
-      "https://news.ycombinator.com/item?id=34314272"
-    ],
-    [
-      "Raspberry Pi's Camera Module 3 adds autofocus and new Sony sensor",
-      "https://www.jeffgeerling.com/blog/2023/raspberry-pis-camera-module-3-adds-autofocus-and-new-sony-sensor"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2023-01-09, 14:05:02",
+      "https://news.ycombinator.com/item?id=34310423"
+    ],
+    [
+      "Binance has lost $12B in assets in under 60 days",
+      "https://ripue.com/binance-has-lost-12-billion-in-assets-in-under-60-days/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 14:02:45",
       "https://news.ycombinator.com/item?id=34310395"
     ],
@@ -231,6 +221,26 @@
   ],
   [
     [
+      "2023-01-09, 12:40:43",
+      "https://news.ycombinator.com/item?id=34309671"
+    ],
+    [
+      "I don't read web articles anymore, but I read books",
+      "https://news.ycombinator.com/item?id=34309671"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 11:48:43",
+      "https://news.ycombinator.com/item?id=34309306"
+    ],
+    [
+      "VALL-E: Microsoft’s new zero-shot text-to-speech model",
+      "https://mpost.io/vall-e-microsofts-new-zero-shot-text-to-speech-model-can-duplicate-everyones-voice-in-three-seconds/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 11:35:35",
       "https://news.ycombinator.com/item?id=34309230"
     ],
@@ -247,16 +257,6 @@
     [
       "Partial Function Application",
       "http://modernescpp.com/index.php/partial-function-application"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 07:17:52",
-      "https://news.ycombinator.com/item?id=34307705"
-    ],
-    [
-      "Gail.com FAQ",
-      "https://gail.com/"
     ]
   ],
   [
