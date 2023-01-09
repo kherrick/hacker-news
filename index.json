@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2023-01-09, 16:46:57",
-      "https://news.ycombinator.com/item?id=34312398"
+      "2023-01-09, 16:52:56",
+      "https://news.ycombinator.com/item?id=34312474"
     ],
     [
-      "R3 radio blackout 7:57 p.m. EDT January 5, 2023",
-      "https://www.swpc.noaa.gov/news/r3-radio-blackout-757-pm-edt-january-5-2023"
+      "Mapping Python to LLVM",
+      "https://blog.exaloop.io/python-llvm/"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=34312066"
     ],
     [
-      "John Carmack: I loaned money to anyone that asked me",
+      "I went through a period where I loaned money to anyone that asked me",
       "https://twitter.com/id_aa_carmack/status/1612484342567010306"
     ]
   ],
@@ -157,6 +157,16 @@
     [
       "Mind Your Own Business Act of 2021",
       "https://www.congress.gov/bill/117th-congress/senate-bill/1444"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 14:28:39",
+      "https://news.ycombinator.com/item?id=34310674"
+    ],
+    [
+      "Sourcehut will blacklist the Go module mirror",
+      "https://sourcehut.org/blog/2023-01-09-gomodulemirror/"
     ]
   ],
   [
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2023-01-09, 11:35:35",
-      "https://news.ycombinator.com/item?id=34309230"
-    ],
-    [
-      "The organ as a wind instrument",
-      "https://www.yamaha.com/en/musical_instrument_guide/pipeorgan/mechanism/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 08:59:39",
-      "https://news.ycombinator.com/item?id=34308248"
-    ],
-    [
-      "Vim: ZZ and zz: Do you know the difference?",
-      "https://www.programmerhat.com/vim-zz/"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 07:17:52",
       "https://news.ycombinator.com/item?id=34307705"
     ],
@@ -277,6 +267,16 @@
     [
       "PromptArray: A Prompting Language for Neural Text Generators",
       "https://github.com/jeffbinder/promptarray"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 01:18:06",
+      "https://news.ycombinator.com/item?id=34305518"
+    ],
+    [
+      "In honor of Weizenbaum's Centenary, I asked ChatGPT to program ELIZA",
+      "https://news.ycombinator.com/item?id=34305518"
     ]
   ],
   [
