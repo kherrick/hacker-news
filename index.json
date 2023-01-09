@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2023-01-09, 04:50:45",
-      "https://news.ycombinator.com/item?id=34306874"
-    ],
-    [
-      "The Problem with Macros",
-      "https://ianthehenry.com/posts/janet-game/the-problem-with-macros/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 04:36:26",
-      "https://news.ycombinator.com/item?id=34306793"
-    ],
-    [
-      "McMaster-Carr: A refreshingly fast, thoughtful, and well-organized website",
-      "https://www.mcmaster.com/"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 04:08:46",
       "https://news.ycombinator.com/item?id=34306640"
     ],
@@ -45,18 +25,8 @@
       "https://news.ycombinator.com/item?id=34306453"
     ],
     [
-      "Doctorow: Social Quitting",
+      "Social Quitting",
       "https://locusmag.com/2023/01/commentary-cory-doctorow-social-quitting/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 03:12:15",
-      "https://news.ycombinator.com/item?id=34306260"
-    ],
-    [
-      "Branchless Workflow for Git",
-      "https://github.com/arxanas/git-branchless"
     ]
   ],
   [
@@ -165,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34303894"
     ],
     [
-      "Portugal’s digital nomad bubble poised to pop",
+      "Portugal’s digital nomad bubble",
       "https://www.politico.eu/article/portugal-digital-nomads-bubble-gentrification/"
     ]
   ],
@@ -177,6 +147,16 @@
     [
       "CDC File Transfer",
       "https://github.com/google/cdc-file-transfer"
+    ]
+  ],
+  [
+    [
+      "2023-01-08, 21:35:53",
+      "https://news.ycombinator.com/item?id=34303386"
+    ],
+    [
+      "Monitoring ECC memory on Linux with rasdaemon",
+      "https://www.setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2023-01-08, 15:21:42",
+      "https://news.ycombinator.com/item?id=34299797"
+    ],
+    [
+      "Requiem for piet-gpu-hal",
+      "https://raphlinus.github.io/rust/gpu/2023/01/07/requiem-piet-gpu-hal.html"
+    ]
+  ],
+  [
+    [
       "2023-01-08, 14:52:41",
       "https://news.ycombinator.com/item?id=34299550"
     ],
@@ -277,6 +267,16 @@
     [
       "Dweb: Offline Internet Archive",
       "https://github.com/internetarchive/dweb-mirror"
+    ]
+  ],
+  [
+    [
+      "2023-01-08, 00:16:45",
+      "https://news.ycombinator.com/item?id=34294576"
+    ],
+    [
+      "Microsoft subdomain takeover",
+      "http://cseo-coherence.microsoft.com/"
     ]
   ],
   [
