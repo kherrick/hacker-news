@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-09, 18:05:17",
+      "https://news.ycombinator.com/item?id=34313589"
+    ],
+    [
+      "We're wasting money by only supporting gzip for raw DNA files",
+      "http://www.bioinformaticszen.com/post/use-zstd-for-raw-fastq/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 17:28:06",
       "https://news.ycombinator.com/item?id=34312937"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-01-09, 17:16:20",
-      "https://news.ycombinator.com/item?id=34312766"
+      "2023-01-09, 17:24:08",
+      "https://news.ycombinator.com/item?id=34312877"
     ],
     [
-      "I Tried JetBrains' “New UI” and I Liked It",
-      "https://blog.levinotik.com/2023/01/09/i-tried-jetbrains-new-ui-and-i-liked-it/"
+      "Values and Objects in Programming Languages (1982) [pdf]",
+      "https://dl.acm.org/doi/pdf/10.1145/988164.988172"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34312398"
     ],
     [
-      "R3 RADIO BLACKOUT 7:57 P.M. EDT January 5, 2023",
+      "R3 radio blackout 7:57 p.m. EDT January 5, 2023",
       "https://www.swpc.noaa.gov/news/r3-radio-blackout-757-pm-edt-january-5-2023"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Ask HN: What are the foundational texts for learning about AI/ML/NN?",
       "https://news.ycombinator.com/item?id=34312248"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 16:34:22",
-      "https://news.ycombinator.com/item?id=34312243"
-    ],
-    [
-      "My Coffee Maker Just Makes Coffee",
-      "https://bt.ht/one-thing/"
     ]
   ],
   [
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=34311165"
     ],
     [
-      "Logging Practices I Follow",
+      "Logging practices I follow",
       "https://www.16elt.com/2023/01/06/logging-practices-I-follow/"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=34310522"
     ],
     [
-      "Identity thieves bypassed experian security to view credit reports",
+      "Identity thieves bypassed Experian security to view credit reports",
       "https://krebsonsecurity.com/2023/01/identity-thieves-bypassed-experian-security-to-view-credit-reports/"
     ]
   ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=34309977"
     ],
     [
-      "‘That Girl Is Going to Get Herself Killed’",
+      "‘That girl is going to get herself killed’",
       "https://longreads.com/2022/11/15/death-in-national-parks/"
     ]
   ],
@@ -207,16 +207,6 @@
     [
       "I don't read web articles anymore, but I read books",
       "https://news.ycombinator.com/item?id=34309671"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 11:48:43",
-      "https://news.ycombinator.com/item?id=34309306"
-    ],
-    [
-      "VALL-E: Microsoft’s new zero-shot text-to-speech model",
-      "https://mpost.io/vall-e-microsofts-new-zero-shot-text-to-speech-model-can-duplicate-everyones-voice-in-three-seconds/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "PromptArray: A Prompting Language for Neural Text Generators",
       "https://github.com/jeffbinder/promptarray"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 01:18:06",
+      "https://news.ycombinator.com/item?id=34305518"
+    ],
+    [
+      "In honor of Weizenbaum's Centenary, I asked ChatGPT to program ELIZA",
+      "https://news.ycombinator.com/item?id=34305518"
     ]
   ],
   [
