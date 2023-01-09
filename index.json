@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-09, 12:35:02",
+      "https://news.ycombinator.com/item?id=34309625"
+    ],
+    [
+      "James Webb Telescope reveals Milky Way–like galaxies in young universe",
+      "https://phys.org/news/2023-01-james-webb-telescope-reveals-milky.html"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 12:06:11",
       "https://news.ycombinator.com/item?id=34309414"
     ],
@@ -17,6 +27,16 @@
     [
       "Microsoft’s new text-to-speech model can duplicate anyone's voice in 3 seconds",
       "https://mpost.io/vall-e-microsofts-new-zero-shot-text-to-speech-model-can-duplicate-everyones-voice-in-three-seconds/"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 11:46:44",
+      "https://news.ycombinator.com/item?id=34309293"
+    ],
+    [
+      "“The current climate in AI has so many parallels to 2021 Web3”",
+      "https://twitter.com/fchollet/status/1612142423425138688"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Raspberry Pi Camera Module 3 released",
       "https://www.raspberrypi.com/news/new-autofocus-camera-modules/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 07:44:09",
-      "https://news.ycombinator.com/item?id=34307843"
-    ],
-    [
-      "GPT Takes the Bar Exam",
-      "https://github.com/mjbommar/gpt-takes-the-bar-exam"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2023-01-08, 22:16:24",
-      "https://news.ycombinator.com/item?id=34303825"
-    ],
-    [
-      "Implementing VisiCalc (2003): Bob Frankston's design notes",
-      "https://rmf.vc/ImplementingVisiCalc"
-    ]
-  ],
-  [
-    [
       "2023-01-08, 21:46:29",
       "https://news.ycombinator.com/item?id=34303497"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-01-08, 04:43:41",
-      "https://news.ycombinator.com/item?id=34296086"
-    ],
-    [
-      "Mariner's Guide to the 500-Millibar Chart",
-      "https://www.vos.noaa.gov/MWL/dec_08/milibar_chart.shtml"
-    ]
-  ],
-  [
-    [
       "2023-01-08, 01:57:04",
       "https://news.ycombinator.com/item?id=34295198"
     ],
     [
       "Dweb: Offline Internet Archive",
       "https://github.com/internetarchive/dweb-mirror"
+    ]
+  ],
+  [
+    [
+      "2023-01-07, 15:02:42",
+      "https://news.ycombinator.com/item?id=34288577"
+    ],
+    [
+      "Show HN: URL Snake",
+      "https://github.com/lukebatchelor/url-snake"
     ]
   ]
 ]
