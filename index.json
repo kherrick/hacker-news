@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=34310522"
     ],
     [
-      "Identity Thieves Bypassed Experian Security to View Credit Reports",
+      "Identity thieves bypassed experian security to view credit reports",
       "https://krebsonsecurity.com/2023/01/identity-thieves-bypassed-experian-security-to-view-credit-reports/"
     ]
   ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-01-09, 06:56:11",
+      "https://news.ycombinator.com/item?id=34307586"
+    ],
+    [
+      "The KCL Programming Language for Data Validation",
+      "https://medium.com/@xpf6677/validation-in-the-kcl-programming-language-dc3b88601108"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 05:04:03",
       "https://news.ycombinator.com/item?id=34306963"
     ],
@@ -277,16 +287,6 @@
     [
       "PromptArray: A Prompting Language for Neural Text Generators",
       "https://github.com/jeffbinder/promptarray"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 01:18:06",
-      "https://news.ycombinator.com/item?id=34305518"
-    ],
-    [
-      "In honor of Weizenbaum's Centenary, I asked ChatGPT to program ELIZA",
-      "https://news.ycombinator.com/item?id=34305518"
     ]
   ],
   [
