@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-01-09, 22:25:32",
-      "https://news.ycombinator.com/item?id=34317224"
-    ],
-    [
-      "Credit card balances increased 19% year-over-year to a new record",
-      "https://wusfnews.wusf.usf.edu/economy-business/2023-01-06/credit-card-debt-reaches-record-high-among-u-s-consumers"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 21:45:54",
       "https://news.ycombinator.com/item?id=34316618"
     ],
@@ -51,16 +41,6 @@
   ],
   [
     [
-      "2023-01-09, 20:26:15",
-      "https://news.ycombinator.com/item?id=34315499"
-    ],
-    [
-      "A single developer dropped AWS costs by 90%, then disappeared",
-      "https://medium.com/@maximetopolov/how-a-single-developer-dropped-aws-costs-by-90-then-disappeared-2b46a115103a"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 20:16:55",
       "https://news.ycombinator.com/item?id=34315380"
     ],
@@ -91,12 +71,12 @@
   ],
   [
     [
-      "2023-01-09, 18:13:27",
-      "https://news.ycombinator.com/item?id=34313726"
+      "2023-01-09, 18:59:57",
+      "https://news.ycombinator.com/item?id=34314448"
     ],
     [
-      "Reduced pollution caused farmers to use more sulfur fertilizer",
-      "https://www.nature.com/articles/s43247-022-00662-9"
+      "An Open Letter on the Open Gaming License, to Wizards of the Coast",
+      "https://www.opendnd.games"
     ]
   ],
   [
@@ -181,16 +161,6 @@
   ],
   [
     [
-      "2023-01-09, 14:05:02",
-      "https://news.ycombinator.com/item?id=34310423"
-    ],
-    [
-      "Binance has lost $12B in assets in under 60 days",
-      "https://ripue.com/binance-has-lost-12-billion-in-assets-in-under-60-days/"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 14:02:45",
       "https://news.ycombinator.com/item?id=34310395"
     ],
@@ -217,6 +187,16 @@
     [
       "Tetris is capable of universal computation",
       "https://meatfighter.com/tetromino-computer/"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 12:40:43",
+      "https://news.ycombinator.com/item?id=34309671"
+    ],
+    [
+      "I don't read web articles anymore, but I read books",
+      "https://news.ycombinator.com/item?id=34309671"
     ]
   ],
   [
@@ -265,7 +245,7 @@
       "https://news.ycombinator.com/item?id=34306032"
     ],
     [
-      "High level mods/patches for console video-games",
+      "High level mods/patches for console video games",
       "https://krystalgamer.github.io/high-level-game-patches/"
     ]
   ],
@@ -277,6 +257,16 @@
     [
       "In honor of Weizenbaum's Centenary, I asked ChatGPT to program ELIZA",
       "https://news.ycombinator.com/item?id=34305518"
+    ]
+  ],
+  [
+    [
+      "2023-01-08, 22:16:24",
+      "https://news.ycombinator.com/item?id=34303825"
+    ],
+    [
+      "Implementing VisiCalc (2003): Bob Frankston's design notes",
+      "https://rmf.vc/ImplementingVisiCalc"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Rio de Janeiro Botanical Garden (2018)",
       "https://myskle.com/blog/botanical-garden-rio-de-janeiro/"
+    ]
+  ],
+  [
+    [
+      "2023-01-07, 15:02:42",
+      "https://news.ycombinator.com/item?id=34288577"
+    ],
+    [
+      "Show HN: URL Snake",
+      "https://github.com/lukebatchelor/url-snake"
     ]
   ]
 ]
