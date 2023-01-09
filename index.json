@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-09, 08:01:28",
+      "https://news.ycombinator.com/item?id=34307921"
+    ],
+    [
+      "Raspberry Pi Camera Module 3 released",
+      "https://www.raspberrypi.com/news/new-autofocus-camera-modules/"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 07:44:09",
+      "https://news.ycombinator.com/item?id=34307843"
+    ],
+    [
+      "GPT Takes the Bar Exam",
+      "https://github.com/mjbommar/gpt-takes-the-bar-exam"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 07:17:52",
       "https://news.ycombinator.com/item?id=34307705"
     ],
@@ -37,16 +57,6 @@
     [
       "My mom left behind some number code",
       "https://puzzling.stackexchange.com/questions/119277/my-dead-mom-left-behind-some-number-code"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 03:38:33",
-      "https://news.ycombinator.com/item?id=34306453"
-    ],
-    [
-      "Social Quitting",
-      "https://locusmag.com/2023/01/commentary-cory-doctorow-social-quitting/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-01-08, 21:35:53",
-      "https://news.ycombinator.com/item?id=34303386"
-    ],
-    [
-      "Monitoring ECC memory on Linux with rasdaemon",
-      "https://www.setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/"
-    ]
-  ],
-  [
-    [
       "2023-01-08, 21:02:16",
       "https://news.ycombinator.com/item?id=34303068"
     ],
@@ -197,16 +197,6 @@
     [
       "The California roll was invented by a Japanese-Canadian chef (2020)",
       "https://www.insider.com/how-the-california-roll-was-invented-by-a-canadian-chef-2020-8"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 19:19:59",
-      "https://news.ycombinator.com/item?id=34302136"
-    ],
-    [
-      "Introduction to micro-optimization",
-      "https://specbranch.com/posts/intro-to-micro-optimization/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Dweb: Offline Internet Archive",
       "https://github.com/internetarchive/dweb-mirror"
+    ]
+  ],
+  [
+    [
+      "2023-01-08, 00:16:45",
+      "https://news.ycombinator.com/item?id=34294576"
+    ],
+    [
+      "Microsoft subdomain takeover",
+      "http://cseo-coherence.microsoft.com/"
     ]
   ],
   [
