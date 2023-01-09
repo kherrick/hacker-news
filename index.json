@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-09, 04:36:26",
+      "https://news.ycombinator.com/item?id=34306793"
+    ],
+    [
+      "McMaster-Carr: A refreshingly fast, thoughtful, and well-organized website",
+      "https://www.mcmaster.com/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 04:08:46",
       "https://news.ycombinator.com/item?id=34306640"
     ],
@@ -131,22 +141,22 @@
   ],
   [
     [
-      "2023-01-08, 22:16:24",
-      "https://news.ycombinator.com/item?id=34303825"
-    ],
-    [
-      "Implementing VisiCalc (2003): Bob Frankston's design notes",
-      "https://rmf.vc/ImplementingVisiCalc"
-    ]
-  ],
-  [
-    [
       "2023-01-08, 21:46:29",
       "https://news.ycombinator.com/item?id=34303497"
     ],
     [
       "CDC File Transfer",
       "https://github.com/google/cdc-file-transfer"
+    ]
+  ],
+  [
+    [
+      "2023-01-08, 21:35:53",
+      "https://news.ycombinator.com/item?id=34303386"
+    ],
+    [
+      "Monitoring ECC memory on Linux with rasdaemon",
+      "https://www.setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Playing Zork with AI-generated imagery [video]",
       "https://www.youtube.com/watch?v=ZpCrBBj6AWE"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 15:21:42",
-      "https://news.ycombinator.com/item?id=34299797"
-    ],
-    [
-      "Requiem for piet-gpu-hal",
-      "https://raphlinus.github.io/rust/gpu/2023/01/07/requiem-piet-gpu-hal.html"
     ]
   ],
   [
