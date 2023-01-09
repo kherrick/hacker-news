@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-01-09, 05:17:48",
+      "https://news.ycombinator.com/item?id=34307053"
+    ],
+    [
+      "Design Tool Performance Signatures",
+      "https://bjango.com/articles/perfsignatures/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 05:04:03",
       "https://news.ycombinator.com/item?id=34306963"
     ],
@@ -187,16 +197,6 @@
     [
       "CDC File Transfer",
       "https://github.com/google/cdc-file-transfer"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 21:35:53",
-      "https://news.ycombinator.com/item?id=34303386"
-    ],
-    [
-      "Monitoring ECC memory on Linux with rasdaemon",
-      "https://www.setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/"
     ]
   ],
   [
