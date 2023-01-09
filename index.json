@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-01-09, 03:22:21",
+      "https://news.ycombinator.com/item?id=34306342"
+    ],
+    [
+      "Decoding Hakuto-R M1",
+      "https://destevez.net/2023/01/decoding-hakuto-r-m1/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 02:35:42",
       "https://news.ycombinator.com/item?id=34306025"
     ],
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2023-01-08, 22:22:11",
-      "https://news.ycombinator.com/item?id=34303894"
+      "2023-01-08, 22:16:24",
+      "https://news.ycombinator.com/item?id=34303825"
     ],
     [
-      "Portugal’s digital nomad bubble",
-      "https://www.politico.eu/article/portugal-digital-nomads-bubble-gentrification/"
+      "Implementing VisiCalc (2003): Bob Frankston's design notes",
+      "https://rmf.vc/ImplementingVisiCalc"
     ]
   ],
   [
@@ -177,6 +187,16 @@
     [
       "CDC File Transfer",
       "https://github.com/google/cdc-file-transfer"
+    ]
+  ],
+  [
+    [
+      "2023-01-08, 21:35:53",
+      "https://news.ycombinator.com/item?id=34303386"
+    ],
+    [
+      "Monitoring ECC memory on Linux with rasdaemon",
+      "https://www.setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/"
     ]
   ],
   [
@@ -201,22 +221,22 @@
   ],
   [
     [
+      "2023-01-08, 19:20:44",
+      "https://news.ycombinator.com/item?id=34302148"
+    ],
+    [
+      "Collective Decision-Making with AHP (Analytic Hierarchy Process)",
+      "https://open.nytimes.com/collective-decision-making-with-ahp-3ef819e5bc2a"
+    ]
+  ],
+  [
+    [
       "2023-01-08, 18:40:23",
       "https://news.ycombinator.com/item?id=34301768"
     ],
     [
       "ssh whoami.filippo.io",
       "https://words.filippo.io/dispatches/whoami-updated/"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 17:13:45",
-      "https://news.ycombinator.com/item?id=34300893"
-    ],
-    [
-      "Owl: A toolkit for writing command-line user interfaces in Elixir",
-      "https://hexdocs.pm/owl/readme.html"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-01-08, 05:38:57",
-      "https://news.ycombinator.com/item?id=34296396"
-    ],
-    [
-      "Dotfiles Management",
-      "https://mitxela.com/projects/dotfiles_management"
-    ]
-  ],
-  [
-    [
       "2023-01-08, 04:43:41",
       "https://news.ycombinator.com/item?id=34296086"
     ],
@@ -287,16 +297,6 @@
     [
       "Microsoft subdomain takeover",
       "http://cseo-coherence.microsoft.com/"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 22:14:34",
-      "https://news.ycombinator.com/item?id=34282033"
-    ],
-    [
-      "Five mildly anti-Buddhist essays",
-      "https://sashachapin.substack.com/p/five-mildly-anti-buddhist-essays"
     ]
   ]
 ]
