@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-09, 22:31:48",
+      "https://news.ycombinator.com/item?id=34317333"
+    ],
+    [
+      "A college student made an app to detect AI-written text",
+      "https://www.npr.org/2023/01/09/1147549845/gptzero-ai-chatgpt-edward-tian-plagiarism"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 21:45:54",
       "https://news.ycombinator.com/item?id=34316618"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-01-09, 12:40:43",
-      "https://news.ycombinator.com/item?id=34309671"
-    ],
-    [
-      "I don't read web articles anymore, but I read books",
-      "https://news.ycombinator.com/item?id=34309671"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 11:48:43",
       "https://news.ycombinator.com/item?id=34309306"
     ],
@@ -227,6 +227,16 @@
     [
       "Partial Function Application",
       "http://modernescpp.com/index.php/partial-function-application"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 05:44:44",
+      "https://news.ycombinator.com/item?id=34307215"
+    ],
+    [
+      "Parsing layout – problems with Haskell's syntax (2021)",
+      "https://amelia.how/posts/parsing-layout.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Rio de Janeiro Botanical Garden (2018)",
       "https://myskle.com/blog/botanical-garden-rio-de-janeiro/"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 15:02:42",
-      "https://news.ycombinator.com/item?id=34288577"
-    ],
-    [
-      "Show HN: URL Snake",
-      "https://github.com/lukebatchelor/url-snake"
     ]
   ]
 ]
