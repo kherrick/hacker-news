@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-01-10, 05:51:26",
+      "https://news.ycombinator.com/item?id=34321015"
+    ],
+    [
+      "telemetry.optIn defaults to true",
+      "https://www.elastic.co/guide/en/kibana/8.5/telemetry-settings-kbn.html"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 05:06:34",
       "https://news.ycombinator.com/item?id=34320772"
     ],
@@ -167,16 +177,6 @@
     [
       "3D in CSS",
       "https://garden.bradwoods.io/notes/css/3d"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 19:04:27",
-      "https://news.ycombinator.com/item?id=34314504"
-    ],
-    [
-      "Three lessons from Threema: Analysis of a secure messenger",
-      "https://breakingthe3ma.app/"
     ]
   ],
   [
