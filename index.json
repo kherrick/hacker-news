@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-10, 17:30:37",
+      "https://news.ycombinator.com/item?id=34328350"
+    ],
+    [
+      "Ask HN: How to best take advantage of the coming recession?",
+      "https://news.ycombinator.com/item?id=34328350"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 17:13:06",
       "https://news.ycombinator.com/item?id=34328069"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34327992"
     ],
     [
-      "Untraceable 3D-printed 'ghost guns' on the rise in Canada",
+      "Untraceable 3D-printed guns on the rise in Canada",
       "https://www.cbc.ca/news/canada/3d-printed-guns-canada-increase-1.6708049"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34327856"
     ],
     [
-      "Ribbon (YC S17) is hiring values-driven Engineers to help patients find care",
+      "Ribbon (YC S17) is hiring values-driven engineers to help patients find care",
       "https://www.keyvalues.com/ribbon-health"
     ]
   ],
@@ -61,22 +71,22 @@
   ],
   [
     [
-      "2023-01-10, 16:46:27",
-      "https://news.ycombinator.com/item?id=34327584"
-    ],
-    [
-      "Ask HN: HN's login page and password manager autofill issue",
-      "https://news.ycombinator.com/item?id=34327584"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 16:36:35",
       "https://news.ycombinator.com/item?id=34327453"
     ],
     [
       "The Tyranny of ‘The Plan' (2013)",
       "https://chrisgagne.com/1255/mary-poppendiecks-the-tyranny-of-the-plan/"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 16:10:13",
+      "https://news.ycombinator.com/item?id=34327018"
+    ],
+    [
+      "Fields where it matters, fields where you can thrive on BS alone, and in between",
+      "https://statmodeling.stat.columbia.edu/2023/01/10/fields-where-it-matters-that-theres-no-there-there-fields-where-you-can-thrive-on-b-s-alone-and-everything-in-between/"
     ]
   ],
   [
@@ -91,21 +101,11 @@
   ],
   [
     [
-      "2023-01-10, 15:30:45",
-      "https://news.ycombinator.com/item?id=34326292"
-    ],
-    [
-      "Fewer than 40% of New Yorkers earn a living wage",
-      "https://news.cornell.edu/stories/2023/01/fewer-40-new-yorkers-earn-living-wage"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 15:09:16",
       "https://news.ycombinator.com/item?id=34325951"
     ],
     [
-      "‘Films are vulnerable’: the battle to preserve Eastern Europe’s analogue movies",
+      "‘Films are vulnerable’: The battle to preserve Eastern Europe’s analogue movies",
       "https://www.calvertjournal.com/features/show/13454/films-are-vulnerable-the-battle-to-preserve-eastern-europes-films"
     ]
   ],
@@ -127,16 +127,6 @@
     [
       "Taking over a Dead IoT Company",
       "https://blog.kchung.co/taking-over-a-dead-iot-company/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 14:49:04",
-      "https://news.ycombinator.com/item?id=34325633"
-    ],
-    [
-      "Ask HN: Where to get help with a hardware idea?",
-      "https://news.ycombinator.com/item?id=34325633"
     ]
   ],
   [
@@ -165,18 +155,8 @@
       "https://news.ycombinator.com/item?id=34324919"
     ],
     [
-      "Show HN: A different type of open-source alternative to Tableau",
+      "Show HN: Graphic-Walker – A different type of open-source alternative to Tableau",
       "https://github.com/Kanaries/graphic-walker"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 13:32:07",
-      "https://news.ycombinator.com/item?id=34324567"
-    ],
-    [
-      "Ask HN: I'm 40 and feel my mental ability declining. Programming seems harder.",
-      "https://news.ycombinator.com/item?id=34324567"
     ]
   ],
   [
@@ -195,7 +175,7 @@
       "https://news.ycombinator.com/item?id=34324169"
     ],
     [
-      "When Douglas Adams wrote about Hypercard",
+      "Douglas Adams on Hypercard and new educational models",
       "https://arbesman.substack.com/p/open-ended-software-as-human-beings"
     ]
   ],
@@ -221,22 +201,32 @@
   ],
   [
     [
-      "2023-01-10, 10:48:32",
-      "https://news.ycombinator.com/item?id=34322929"
-    ],
-    [
-      "Show HN: Python framework is faster than Golang Fiber",
-      "https://github.com/cirospaciari/socketify.py"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 09:42:31",
       "https://news.ycombinator.com/item?id=34322452"
     ],
     [
       "Museums with CC0 Collections",
       "https://standardebooks.org/manual/1.7.0/10-art-and-images#10.3.3.7.4"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 08:32:18",
+      "https://news.ycombinator.com/item?id=34322033"
+    ],
+    [
+      "Wolfram Alpha and ChatGPT",
+      "https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 08:08:59",
+      "https://news.ycombinator.com/item?id=34321891"
+    ],
+    [
+      "Why has no one published a computer version of Squad Leader?",
+      "https://www.yobowargames.com/2017/09/09/why-has-no-one-published-a-computer-version-of-squad-leader/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Galmon – Galileo/GPS/GLONASS/BeiDou open source monitoring",
       "https://galmon.eu/"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 04:51:37",
+      "https://news.ycombinator.com/item?id=34320669"
+    ],
+    [
+      "A mistake that killed Japan’s software industry?",
+      "https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=34307146"
     ],
     [
-      "Apple Just Released the Dream Karaoke Machine (2017)",
+      "Apple Music Sing: Is this the dream karaoke machine? (2017)",
       "https://slate.com/culture/2023/01/karaoke-apple-music-sing-iphone-tv-youtube.html"
     ]
   ]
