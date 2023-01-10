@@ -1,11 +1,41 @@
 [
   [
     [
+      "2023-01-10, 12:00:37",
+      "https://news.ycombinator.com/item?id=34323487"
+    ],
+    [
+      "PolicyFly (YC W22) Is Hiring an EM to Lead Our Solutions Team",
+      "https://www.ycombinator.com/companies/policyfly/jobs/aY0a0gg-engineering-manager-solutions"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 11:58:34",
+      "https://news.ycombinator.com/item?id=34323469"
+    ],
+    [
+      "UK: Excess deaths in 2022 among worst in 50 years",
+      "https://www.bbc.co.uk/news/health-64209221"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 11:42:49",
+      "https://news.ycombinator.com/item?id=34323336"
+    ],
+    [
+      "Coinbase cuts staff by a further 25%",
+      "https://www.coinbase.com/blog/a-message-from-ceo-and-co-founder-brian-armstrong-to-coinbase-employees"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 11:33:53",
       "https://news.ycombinator.com/item?id=34323258"
     ],
     [
-      "Faster PostgresSQL to BigQuery",
+      "Faster PostgresSQL to BigQuery Tranfers",
       "https://tech.marksblogg.com/postgresql-to-bigquery.html"
     ]
   ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2023-01-10, 02:11:04",
-      "https://news.ycombinator.com/item?id=34319453"
-    ],
-    [
-      "Interactive California Reservoir Levels Dashboard",
-      "https://engaging-data.com/ca-reservoir-dashboard/"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 00:50:04",
       "https://news.ycombinator.com/item?id=34318783"
     ],
@@ -167,16 +187,6 @@
     [
       "Extending the Android SDK",
       "https://android-developers.googleblog.com/2023/01/extending-android-sdk.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 00:19:07",
-      "https://news.ycombinator.com/item?id=34318506"
-    ],
-    [
-      "The number of banks willing to do business with the crypto industry is shrinking",
-      "https://www.barrons.com/articles/banks-fleeing-crypto-bitcoin-worried-51673278376"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "3D in CSS",
       "https://garden.bradwoods.io/notes/css/3d"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 19:56:21",
-      "https://news.ycombinator.com/item?id=34315137"
-    ],
-    [
-      "Show HN: FixScript, an embedded/standalone language with custom syntax additions",
-      "https://www.fixscript.org/blog/introduction"
     ]
   ],
   [
