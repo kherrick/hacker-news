@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-10, 02:29:11",
+      "https://news.ycombinator.com/item?id=34319636"
+    ],
+    [
+      "VanadiumOS: Portable, multi-user Unix-like OS",
+      "https://github.com/p-durlej/newsys"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 02:11:04",
+      "https://news.ycombinator.com/item?id=34319453"
+    ],
+    [
+      "Interactive California Reservoir Levels Dashboard",
+      "https://engaging-data.com/ca-reservoir-dashboard/"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 01:58:53",
       "https://news.ycombinator.com/item?id=34319361"
     ],
@@ -205,7 +225,7 @@
       "https://news.ycombinator.com/item?id=34309977"
     ],
     [
-      "‘That girl is going to get herself killed’",
+      "‘That girl is going to get herself killed’ (2022)",
       "https://longreads.com/2022/11/15/death-in-national-parks/"
     ]
   ],
@@ -221,22 +241,22 @@
   ],
   [
     [
-      "2023-01-09, 11:35:35",
-      "https://news.ycombinator.com/item?id=34309230"
+      "2023-01-09, 10:17:51",
+      "https://news.ycombinator.com/item?id=34308744"
     ],
     [
-      "The organ as a wind instrument",
-      "https://www.yamaha.com/en/musical_instrument_guide/pipeorgan/mechanism/"
+      "Explanations: Play Don't Show",
+      "https://magcius.github.io/xplain/article/index.html"
     ]
   ],
   [
     [
-      "2023-01-09, 09:51:25",
-      "https://news.ycombinator.com/item?id=34308589"
+      "2023-01-09, 09:45:37",
+      "https://news.ycombinator.com/item?id=34308543"
     ],
     [
-      "Partial Function Application",
-      "http://modernescpp.com/index.php/partial-function-application"
+      "Amber Monitors (2020)",
+      "https://blog.solidsignal.com/tutorials/obsolete-technology-amber-monitors/"
     ]
   ],
   [
@@ -247,16 +267,6 @@
     [
       "Skribilo: Document Programming Framework",
       "https://www.nongnu.org/skribilo/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 05:44:44",
-      "https://news.ycombinator.com/item?id=34307215"
-    ],
-    [
-      "Parsing layout – problems with Haskell's syntax (2021)",
-      "https://amelia.how/posts/parsing-layout.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "High level mods/patches for console video games",
       "https://krystalgamer.github.io/high-level-game-patches/"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 22:16:24",
-      "https://news.ycombinator.com/item?id=34303825"
-    ],
-    [
-      "Implementing VisiCalc (2003): Bob Frankston's design notes",
-      "https://rmf.vc/ImplementingVisiCalc"
     ]
   ],
   [
