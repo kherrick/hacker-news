@@ -1,32 +1,62 @@
 [
   [
     [
+      "2023-01-10, 00:57:18",
+      "https://news.ycombinator.com/item?id=34318839"
+    ],
+    [
+      "Canada buys 88 F-35 fighter jets for $14.2B",
+      "https://www.aljazeera.com/news/2023/1/9/canada-finalises-deal-to-buy-dozens-of-f-35-fighter-jets-from-us"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 00:50:04",
+      "https://news.ycombinator.com/item?id=34318783"
+    ],
+    [
+      "UPS and the Package Wars",
+      "https://www.newyorker.com/magazine/2023/01/16/can-ups-still-deliver-a-middle-class-life"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 00:19:07",
+      "https://news.ycombinator.com/item?id=34318506"
+    ],
+    [
+      "Banks Are Fleeing Crypto. Bitcoin Investors Should Be Worried",
+      "https://www.barrons.com/articles/banks-fleeing-crypto-bitcoin-worried-51673278376"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 23:56:41",
+      "https://news.ycombinator.com/item?id=34318307"
+    ],
+    [
+      "Fyrox Game Engine 0.29",
+      "https://fyrox.rs/blog/post/feature-highlights-0-29/"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 22:58:35",
+      "https://news.ycombinator.com/item?id=34317757"
+    ],
+    [
+      "Visualizing the Inside of Cells at Previously Impossible Resolutions Provides Vi",
+      "https://singularityhub.com/2023/01/09/visualizing-the-inside-of-cells-at-previously-impossible-resolutions-provides-vivid-insights-into-how-they-work/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 22:31:48",
       "https://news.ycombinator.com/item?id=34317333"
     ],
     [
       "A college student made an app to detect AI-written text",
       "https://www.npr.org/2023/01/09/1147549845/gptzero-ai-chatgpt-edward-tian-plagiarism"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 22:07:27",
-      "https://news.ycombinator.com/item?id=34316927"
-    ],
-    [
-      "The Extreme Shortage of High IQ Workers",
-      "https://marginalrevolution.com/marginalrevolution/2023/01/the-extreme-shortage-of-high-iq-workers.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 21:45:54",
-      "https://news.ycombinator.com/item?id=34316618"
-    ],
-    [
-      "The first time I'm aware that Meta is taking back signed, FTE offers",
-      "https://twitter.com/gergelyorosz/status/1612565777407938560"
     ]
   ],
   [
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2023-01-09, 19:52:58",
-      "https://news.ycombinator.com/item?id=34315094"
+      "2023-01-09, 19:56:21",
+      "https://news.ycombinator.com/item?id=34315137"
     ],
     [
-      "England just made gigabit internet a legal requirement for new homes",
-      "https://www.theverge.com/2023/1/9/23546401/gigabit-internet-broadband-england-new-homes-policy"
+      "Show HN: FixScript, an embedded/standalone language with custom syntax additions",
+      "https://www.fixscript.org/blog/introduction"
     ]
   ],
   [
@@ -141,32 +171,22 @@
   ],
   [
     [
+      "2023-01-09, 16:14:11",
+      "https://news.ycombinator.com/item?id=34311976"
+    ],
+    [
+      "A Wicked Problem – The Second Egress: Building a Code Change",
+      "https://secondegress.ca/A-Wicked-Problem"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 15:15:00",
       "https://news.ycombinator.com/item?id=34311192"
     ],
     [
       "Fake it until you automate it",
       "https://understandlegacycode.com/blog/fake-it-until-you-automate-it/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 14:14:35",
-      "https://news.ycombinator.com/item?id=34310522"
-    ],
-    [
-      "Identity thieves bypassed Experian security to view credit reports",
-      "https://krebsonsecurity.com/2023/01/identity-thieves-bypassed-experian-security-to-view-credit-reports/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 14:02:45",
-      "https://news.ycombinator.com/item?id=34310395"
-    ],
-    [
-      "Show HN: I wrote a WebAssembly Interpreter and Toolkit in C",
-      "https://github.com/FastVM/Web49"
     ]
   ],
   [
@@ -187,16 +207,6 @@
     [
       "Tetris is capable of universal computation",
       "https://meatfighter.com/tetromino-computer/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 11:48:43",
-      "https://news.ycombinator.com/item?id=34309306"
-    ],
-    [
-      "VALL-E: Microsoft’s new zero-shot text-to-speech model",
-      "https://mpost.io/vall-e-microsofts-new-zero-shot-text-to-speech-model-can-duplicate-everyones-voice-in-three-seconds/"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2023-01-09, 07:18:14",
+      "https://news.ycombinator.com/item?id=34307706"
+    ],
+    [
+      "Skribilo: The Document Programming Framework",
+      "https://www.nongnu.org/skribilo/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 05:44:44",
       "https://news.ycombinator.com/item?id=34307215"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2023-01-09, 01:18:06",
-      "https://news.ycombinator.com/item?id=34305518"
-    ],
-    [
-      "In honor of Weizenbaum's Centenary, I asked ChatGPT to program ELIZA",
-      "https://news.ycombinator.com/item?id=34305518"
-    ]
-  ],
-  [
-    [
       "2023-01-08, 22:16:24",
       "https://news.ycombinator.com/item?id=34303825"
     ],
     [
       "Implementing VisiCalc (2003): Bob Frankston's design notes",
       "https://rmf.vc/ImplementingVisiCalc"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 13:47:30",
-      "https://news.ycombinator.com/item?id=34299059"
-    ],
-    [
-      "Ghost Ships - What happens when ships become data?",
-      "https://logicmag.io/pivot/ghost-ships/"
     ]
   ],
   [
