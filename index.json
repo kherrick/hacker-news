@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34321015"
     ],
     [
-      "telemetry.optIn defaults to true",
+      "Telemetry settings in Kibana",
       "https://www.elastic.co/guide/en/kibana/8.5/telemetry-settings-kbn.html"
     ]
   ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-01-09, 19:19:45",
+      "https://news.ycombinator.com/item?id=34314690"
+    ],
+    [
+      "Von Neumann's First Computer Program (1970)",
+      "https://fermatslibrary.com/s/von-neumanns-first-computer-program"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 19:04:27",
       "https://news.ycombinator.com/item?id=34314504"
     ],
@@ -201,32 +211,22 @@
   ],
   [
     [
+      "2023-01-09, 17:24:08",
+      "https://news.ycombinator.com/item?id=34312877"
+    ],
+    [
+      "Values and objects in programming languages (1982) [pdf]",
+      "https://dl.acm.org/doi/pdf/10.1145/988164.988172"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 16:57:50",
       "https://news.ycombinator.com/item?id=34312546"
     ],
     [
       "How to store your app's entire state in the url",
       "https://www.scottantipa.com/store-app-state-in-urls"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 16:52:56",
-      "https://news.ycombinator.com/item?id=34312474"
-    ],
-    [
-      "Mapping Python to LLVM",
-      "https://blog.exaloop.io/python-llvm/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 16:41:40",
-      "https://news.ycombinator.com/item?id=34312335"
-    ],
-    [
-      "Show HN: HyperLogLog in Zig",
-      "https://github.com/axiomhq/zig-hyperloglog"
     ]
   ],
   [
