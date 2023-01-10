@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-01-10, 05:14:09",
+      "https://news.ycombinator.com/item?id=34320811"
+    ],
+    [
+      "Intermittent Fasting Completely Reverses Type 2 Diabetes in Study",
+      "https://scitechdaily.com/intermittent-fasting-completely-reverses-type-2-diabetes-in-study/"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 05:06:34",
+      "https://news.ycombinator.com/item?id=34320772"
+    ],
+    [
+      "Galmon – Galileo/GPS/GLONASS/BeiDou open source monitoring",
+      "https://galmon.eu/"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 05:02:25",
+      "https://news.ycombinator.com/item?id=34320748"
+    ],
+    [
+      "Elastic Cloud password complexity has an “OR” condition",
+      "https://www.dropbox.com/s/mk4e0m73lqjayp1/password_or_condition.png?dl=0"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 04:04:15",
       "https://news.ycombinator.com/item?id=34320362"
     ],
     [
       "Binance Is Bleeding Assets, $12B Gone in Less Than 60 Days",
       "https://www.forbes.com/sites/javierpaz/2023/01/09/binance-is-bleeding-assets-12-billion-gone-in-less-than-60-days/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 03:48:38",
-      "https://news.ycombinator.com/item?id=34320270"
-    ],
-    [
-      "Can GPT pass the bar exam?",
-      "https://matthewminer.name/blog/can-ai-pass-the-bar-exam"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Fyrox Game Engine 0.29",
       "https://fyrox.rs/blog/post/feature-highlights-0-29/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 22:31:48",
-      "https://news.ycombinator.com/item?id=34317333"
-    ],
-    [
-      "A college student made an app to detect AI-written text",
-      "https://www.npr.org/2023/01/09/1147549845/gptzero-ai-chatgpt-edward-tian-plagiarism"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Show HN: HyperLogLog in Zig",
       "https://github.com/axiomhq/zig-hyperloglog"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 16:14:11",
-      "https://news.ycombinator.com/item?id=34311976"
-    ],
-    [
-      "A Wicked Problem – The Second Egress: Building a Code Change",
-      "https://secondegress.ca/A-Wicked-Problem"
     ]
   ],
   [
