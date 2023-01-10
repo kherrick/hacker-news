@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-01-10, 10:04:00",
+      "https://news.ycombinator.com/item?id=34322610"
+    ],
+    [
+      "Ask HN: Other Devs, How Do You Deal with Socials, Blogging, etc.",
+      "https://news.ycombinator.com/item?id=34322610"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 09:01:58",
       "https://news.ycombinator.com/item?id=34322194"
     ],
     [
-      "A patient without cavities visits 180 dentists",
+      "Health Services as Credence Goods: a Field Experiment (2020)",
       "https://academic.oup.com/ej/article-abstract/130/629/1346/5766223?redirectedFrom=fulltext"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34321970"
     ],
     [
-      "Sherlock Holmes is now in public domain.We asked ChatGPT to write a new mystery",
+      "We asked ChatGPT to write a Sherlock Holmes mystery",
       "https://www.vixus.co/articles/we-asked-chatgpt-to-write-a-sherlock-holmes-story"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Crisis over The Atlantic: The near crash of Air Transat flight 236",
       "https://admiralcloudberg.medium.com/crisis-over-the-atlantic-the-near-crash-of-air-transat-flight-236-671d3a0c4b04"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 05:51:26",
-      "https://news.ycombinator.com/item?id=34321015"
-    ],
-    [
-      "Telemetry settings in Kibana",
-      "https://www.elastic.co/guide/en/kibana/8.5/telemetry-settings-kbn.html"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=34311468"
     ],
     [
-      "Demystifying Apache Arrow",
+      "Demystifying Apache Arrow (2020)",
       "https://www.robinlinacre.com/demystifying_arrow/"
     ]
   ],
