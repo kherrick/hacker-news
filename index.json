@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-10, 04:04:15",
+      "https://news.ycombinator.com/item?id=34320362"
+    ],
+    [
+      "Binance Is Bleeding Assets, $12B Gone in Less Than 60 Days",
+      "https://www.forbes.com/sites/javierpaz/2023/01/09/binance-is-bleeding-assets-12-billion-gone-in-less-than-60-days/"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 03:48:38",
       "https://news.ycombinator.com/item?id=34320270"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
+      "2023-01-10, 02:25:33",
+      "https://news.ycombinator.com/item?id=34319600"
+    ],
+    [
+      "Handling 100K Consumers with One Pulsar Topic",
+      "https://streamnative.io/blog/case/2023-01-10-handling-100k-consumers-with-one-pulsar-topic/"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 02:11:04",
       "https://news.ycombinator.com/item?id=34319453"
     ],
     [
       "Interactive California Reservoir Levels Dashboard",
       "https://engaging-data.com/ca-reservoir-dashboard/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 01:58:53",
-      "https://news.ycombinator.com/item?id=34319361"
-    ],
-    [
-      "Old man yells at cloud",
-      "https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud/"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "Extending the Android SDK",
       "https://android-developers.googleblog.com/2023/01/extending-android-sdk.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 00:19:07",
+      "https://news.ycombinator.com/item?id=34318506"
+    ],
+    [
+      "Banks are fleeing crypto",
+      "https://www.barrons.com/articles/banks-fleeing-crypto-bitcoin-worried-51673278376"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-01-09, 13:18:46",
-      "https://news.ycombinator.com/item?id=34309977"
-    ],
-    [
-      "‘That girl is going to get herself killed’ (2022)",
-      "https://longreads.com/2022/11/15/death-in-national-parks/"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 10:17:51",
       "https://news.ycombinator.com/item?id=34308744"
     ],
@@ -267,16 +277,6 @@
     [
       "Skribilo: Document Programming Framework",
       "https://www.nongnu.org/skribilo/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 05:42:17",
-      "https://news.ycombinator.com/item?id=34307201"
-    ],
-    [
-      "Writing an IaC Rosetta Stone",
-      "https://briancaffey.github.io/2023/01/07/i-deployed-the-same-containerized-serverless-django-app-with-aws-cdk-terraform-and-pulumi/"
     ]
   ],
   [
