@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-10, 10:48:32",
+      "https://news.ycombinator.com/item?id=34322929"
+    ],
+    [
+      "Show HN: Python framework is faster than Golang Fiber",
+      "https://github.com/cirospaciari/socketify.py"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 10:04:00",
       "https://news.ycombinator.com/item?id=34322610"
     ],
@@ -37,16 +47,6 @@
     [
       "The AMD Ryzen 9 7900, Ryzen 7 7700, and Ryzen 5 5 7600 Review: Zen 4 at 65 Watts",
       "https://www.anandtech.com/show/18693/the-amd-ryzen-9-7900-ryzen-7-7700-and-ryzen-5-5-7600-review-ryzen-7000-at-65-w-zen-4-efficiency"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 07:29:56",
-      "https://news.ycombinator.com/item?id=34321638"
-    ],
-    [
-      "Robot is doing the work of an army of Renaissance sculptors, according to owner",
-      "https://www.cbsnews.com/news/robots-marble-sculpture-carrara-italy-robotics-art/"
     ]
   ],
   [
@@ -91,22 +91,32 @@
   ],
   [
     [
+      "2023-01-10, 04:51:37",
+      "https://news.ycombinator.com/item?id=34320669"
+    ],
+    [
+      "A mistake that killed Japan’s software industry?",
+      "https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 04:30:58",
+      "https://news.ycombinator.com/item?id=34320517"
+    ],
+    [
+      "Names should be cute, not descriptive",
+      "https://ntietz.com/blog/name-your-projects-cutesy-things/"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 03:56:25",
       "https://news.ycombinator.com/item?id=34320319"
     ],
     [
       "AI-powered lawyer will be first of its kind to represent defendant in court",
       "https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 02:29:11",
-      "https://news.ycombinator.com/item?id=34319636"
-    ],
-    [
-      "VanadiumOS: Portable, multi-user Unix-like OS",
-      "https://github.com/p-durlej/newsys"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Extending the Android SDK",
       "https://android-developers.googleblog.com/2023/01/extending-android-sdk.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 00:19:07",
-      "https://news.ycombinator.com/item?id=34318506"
-    ],
-    [
-      "The number of banks willing to do business with the crypto industry is shrinking",
-      "https://www.barrons.com/articles/banks-fleeing-crypto-bitcoin-worried-51673278376"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=34305852"
     ],
     [
-      "Mobian: A look back in the mirror And a glimpse of the future",
+      "Mobian: A look back in the mirror and a glimpse of the future",
       "https://blog.mobian.org/posts/2023/01/08/2022-review/"
     ]
   ]
