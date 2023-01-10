@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-01-10, 11:33:53",
+      "https://news.ycombinator.com/item?id=34323258"
+    ],
+    [
+      "Faster PostgresSQL to BigQuery Transfers",
+      "https://tech.marksblogg.com/postgresql-to-bigquery.html"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 10:32:24",
       "https://news.ycombinator.com/item?id=34322813"
     ],
@@ -287,16 +297,6 @@
     [
       "The Osage orange, Texas’s ugliest fruit (2021)",
       "https://www.texasmonthly.com/being-texan/osage-orange-history/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 15:36:50",
-      "https://news.ycombinator.com/item?id=34311468"
-    ],
-    [
-      "Demystifying Apache Arrow (2020)",
-      "https://www.robinlinacre.com/demystifying_arrow/"
     ]
   ]
 ]
