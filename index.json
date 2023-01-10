@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-01-10, 08:16:58",
+      "https://news.ycombinator.com/item?id=34321937"
+    ],
+    [
+      "The AMD Ryzen 9 7900, Ryzen 7 7700, and Ryzen 5 5 7600 Review: Zen 4 at 65 Watts",
+      "https://www.anandtech.com/show/18693/the-amd-ryzen-9-7900-ryzen-7-7700-and-ryzen-5-5-7600-review-ryzen-7000-at-65-w-zen-4-efficiency"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 07:29:56",
       "https://news.ycombinator.com/item?id=34321638"
     ],
@@ -77,16 +87,6 @@
     [
       "Galmon – Galileo/GPS/GLONASS/BeiDou open source monitoring",
       "https://galmon.eu/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 05:02:25",
-      "https://news.ycombinator.com/item?id=34320748"
-    ],
-    [
-      "Elastic Cloud password complexity has an “OR” condition",
-      "https://www.dropbox.com/s/mk4e0m73lqjayp1/password_or_condition.png?dl=0"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-01-09, 19:04:27",
-      "https://news.ycombinator.com/item?id=34314504"
-    ],
-    [
-      "Three lessons from Threema: Analysis of a secure messenger",
-      "https://breakingthe3ma.app/"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 18:00:01",
       "https://news.ycombinator.com/item?id=34313482"
     ],
@@ -247,6 +237,16 @@
     [
       "How to store your app's entire state in the url",
       "https://www.scottantipa.com/store-app-state-in-urls"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 15:36:50",
+      "https://news.ycombinator.com/item?id=34311468"
+    ],
+    [
+      "Demystifying Apache Arrow",
+      "https://www.robinlinacre.com/demystifying_arrow/"
     ]
   ],
   [
