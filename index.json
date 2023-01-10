@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34331412"
     ],
     [
-      "Jerry (YC S17) Is Hiring VP / Dir. Engineering (中英文）",
+      "Jerry (YC S17) Is Hiring VP / Director of Engineering",
       "https://jobs.ashbyhq.com/Jerry/2e30b90f-a707-4f50-9b7d-d27c841a238a"
     ]
   ],
@@ -21,22 +21,22 @@
   ],
   [
     [
-      "2023-01-10, 20:56:01",
-      "https://news.ycombinator.com/item?id=34331332"
-    ],
-    [
-      "IRS Audits Few Millionaires but Targeted Many Low-Income Families in FY 2022",
-      "https://trac.syr.edu/reports/706/"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 20:46:03",
       "https://news.ycombinator.com/item?id=34331225"
     ],
     [
-      "MathML Core is now supported in Chrome",
+      "Bringing MathML back to Chromium",
       "https://www.igalia.com/2023/01/10/Igalia-Brings-MathML-Back-to-Chromium.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 20:45:06",
+      "https://news.ycombinator.com/item?id=34331216"
+    ],
+    [
+      "Be where your business is",
+      "https://steveblank.com/2023/01/10/be-where-your-business-is/"
     ]
   ],
   [
@@ -51,21 +51,11 @@
   ],
   [
     [
-      "2023-01-10, 20:21:44",
-      "https://news.ycombinator.com/item?id=34330900"
-    ],
-    [
-      "Louis Rossmann Interviews John Deere User – MOU Full of Poison Pills",
-      "https://www.youtube.com/watch?v=7-RgOUT3zeo"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 20:11:29",
       "https://news.ycombinator.com/item?id=34330794"
     ],
     [
-      "Safe Memory Reclamation for Bind",
+      "Safe Memory Reclamation for BIND",
       "https://dotat.at/@/2023-01-10-qsbr.html"
     ]
   ],
@@ -117,16 +107,6 @@
     [
       "X Window System Basics (2014)",
       "https://magcius.github.io/xplain/article/x-basics.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 17:49:28",
-      "https://news.ycombinator.com/item?id=34328619"
-    ],
-    [
-      "Tesla Vehicle Safety Report",
-      "https://www.tesla.com/VehicleSafetyReport"
     ]
   ],
   [
@@ -245,7 +225,7 @@
       "https://news.ycombinator.com/item?id=34322813"
     ],
     [
-      "Minimalism and the Art of Photography",
+      "Minimalism and the art of photography",
       "https://johnpweiss.com/blog/183699/minimalism-and-the-art-of-photography"
     ]
   ],
@@ -281,11 +261,21 @@
   ],
   [
     [
+      "2023-01-09, 23:17:06",
+      "https://news.ycombinator.com/item?id=34317942"
+    ],
+    [
+      "Redundancy vs. dependencies: which is worse? (2008)",
+      "https://yosefk.com/blog/redundancy-vs-dependencies-which-is-worse.html"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 21:14:47",
       "https://news.ycombinator.com/item?id=34316167"
     ],
     [
-      "The Quirky History of the Osage Orange, Texas’s Ugliest Fruit (2021)",
+      "The Osage orange, Texas’s ugliest fruit (2021)",
       "https://www.texasmonthly.com/being-texan/osage-orange-history/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Demystifying Apache Arrow (2020)",
       "https://www.robinlinacre.com/demystifying_arrow/"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 05:33:19",
+      "https://news.ycombinator.com/item?id=34307146"
+    ],
+    [
+      "Apple Music Sing: Is this the dream karaoke machine? (2017)",
+      "https://slate.com/culture/2023/01/karaoke-apple-music-sing-iphone-tv-youtube.html"
     ]
   ]
 ]
