@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-01-11, 12:03:22",
+      "https://news.ycombinator.com/item?id=34337518"
+    ],
+    [
+      "Elastic: Several customer facing deployments deleted across multiple regions",
+      "https://status.elastic.co"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 11:51:39",
       "https://news.ycombinator.com/item?id=34337454"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34337158"
     ],
     [
-      "FAA NOTAM System Outage Affecting All North America Flights",
+      "FAA NOTAM System Outage",
       "https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC&title=NOTAM+SYSTEM+EQUIPMENT+OUTAGE_FYI&titleDate=01/11/23"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34336576"
     ],
     [
-      "Don't use Tailwind for your Design System (March  2021)",
+      "Don't use Tailwind for a design system (2021)",
       "https://sancho.dev/blog/tailwind-and-design-systems"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "Pirate Weather: A free, open, and documented forecast API",
       "https://pirateweather.net/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 14:52:40",
-      "https://news.ycombinator.com/item?id=34325695"
-    ],
-    [
-      "Taking over a Dead IoT Company",
-      "https://blog.kchung.co/taking-over-a-dead-iot-company/"
     ]
   ],
   [
