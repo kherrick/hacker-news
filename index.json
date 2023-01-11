@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-11, 23:09:18",
+      "https://news.ycombinator.com/item?id=34346425"
+    ],
+    [
+      "Verily (an Google/Alphabet Bet) eliminates off 15% of it's staff",
+      "https://verily.com/blog/one-verily-forward/"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 23:07:49",
+      "https://news.ycombinator.com/item?id=34346411"
+    ],
+    [
+      "CTEs as Lookup Tables",
+      "https://misfra.me/2023/ctes-as-lookup-tables/"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 22:03:40",
       "https://news.ycombinator.com/item?id=34345641"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-01-11, 15:35:13",
-      "https://news.ycombinator.com/item?id=34339575"
-    ],
-    [
-      "Open Source in Environmental Sustainability",
-      "https://report.opensustain.tech/chapters/index.html"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 15:26:42",
       "https://news.ycombinator.com/item?id=34339459"
     ],
@@ -267,16 +277,6 @@
     [
       "Show HN: ToolJet 2.0 – Open-source alternative to Power Apps and Retool",
       "https://github.com/ToolJet/ToolJet/releases/tag/v2.0.0"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 09:28:23",
-      "https://news.ycombinator.com/item?id=34322345"
-    ],
-    [
-      "Efficient and performance-portable vector software",
-      "https://github.com/google/highway"
     ]
   ],
   [
