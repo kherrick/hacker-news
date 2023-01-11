@@ -1,6 +1,66 @@
 [
   [
     [
+      "2023-01-11, 15:48:50",
+      "https://news.ycombinator.com/item?id=34339752"
+    ],
+    [
+      "RISC-V SBC VisionFive 2 Officially Shipped",
+      "https://www.starfivetech.com/en/site/new_details/976"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 15:44:06",
+      "https://news.ycombinator.com/item?id=34339698"
+    ],
+    [
+      "Why are there so many tech layoffs, and why should we be worried?",
+      "https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 15:37:40",
+      "https://news.ycombinator.com/item?id=34339608"
+    ],
+    [
+      "We need a lot more electricians if we’re going to electrify everything",
+      "https://www.canarymedia.com/articles/clean-energy-jobs/we-need-a-lot-more-electricians-if-were-going-to-electrify-everything"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 15:35:13",
+      "https://news.ycombinator.com/item?id=34339575"
+    ],
+    [
+      "Open Source in Environmental Sustainability",
+      "https://report.opensustain.tech/chapters/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 15:26:42",
+      "https://news.ycombinator.com/item?id=34339459"
+    ],
+    [
+      "Guerrilla guide to CNC machining, mold making, and resin casting (2015)",
+      "https://lcamtuf.coredump.cx/gcnc/"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 15:13:09",
+      "https://news.ycombinator.com/item?id=34339285"
+    ],
+    [
+      "Genders.wtf",
+      "https://genders.wtf/"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 14:46:54",
       "https://news.ycombinator.com/item?id=34338995"
     ],
@@ -111,16 +171,6 @@
   ],
   [
     [
-      "2023-01-11, 08:36:27",
-      "https://news.ycombinator.com/item?id=34336396"
-    ],
-    [
-      "Naming Elixir Phoenix context functions",
-      "https://www.stephenlewis.me/blog/naming-phoenix-context-functions"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 08:34:25",
       "https://news.ycombinator.com/item?id=34336386"
     ],
@@ -161,42 +211,22 @@
   ],
   [
     [
-      "2023-01-11, 05:20:18",
-      "https://news.ycombinator.com/item?id=34335269"
-    ],
-    [
-      "Secondments at Zapier",
-      "https://zapier.com/blog/secondments-at-zapier/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 01:00:28",
-      "https://news.ycombinator.com/item?id=34333638"
-    ],
-    [
-      "What happens when a CPU starts",
-      "https://lateblt.tripod.com/bit68.txt"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 19:15:31",
-      "https://news.ycombinator.com/item?id=34329988"
-    ],
-    [
-      "Pirate Weather: A free, open, and documented forecast API",
-      "https://pirateweather.net/"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 18:56:26",
       "https://news.ycombinator.com/item?id=34329656"
     ],
     [
       "Microservices are hard",
       "https://code-held.com/2022/07/28/microservices/"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 09:28:23",
+      "https://news.ycombinator.com/item?id=34322345"
+    ],
+    [
+      "Efficient and performance-portable vector software",
+      "https://github.com/google/highway"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-01-09, 16:10:21",
-      "https://news.ycombinator.com/item?id=34311935"
-    ],
-    [
-      "Marketing advice from open source founders",
-      "https://cannon.wtf/marketing-advice-from-open-source-founders/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 12:22:13",
-      "https://news.ycombinator.com/item?id=34309530"
-    ],
-    [
-      "Surprising Consequences of macOS’s Environment Variable Sanitization",
-      "https://hynek.me/articles/macos-dyld-env/"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 11:54:55",
       "https://news.ycombinator.com/item?id=34309347"
     ],
     [
       "A Zig Diary",
       "https://kihlander.net/post/a-zig-diary/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 06:49:09",
-      "https://news.ycombinator.com/item?id=34307552"
-    ],
-    [
-      "A look at Unison: a revolutionary programming language",
-      "https://renato.athaydes.com/posts/unison-revolution.html"
     ]
   ]
 ]
