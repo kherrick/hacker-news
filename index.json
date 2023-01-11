@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-01-11, 14:52:23",
-      "https://news.ycombinator.com/item?id=34339052"
-    ],
-    [
-      "The CPSC is on a mission that has nothing to do with safety",
-      "https://cremieux.substack.com/p/lying-for-climate-crusading"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 14:46:54",
       "https://news.ycombinator.com/item?id=34338995"
     ],
@@ -97,16 +87,6 @@
     [
       "Windows OS Security",
       "https://github.com/jmau111-org/windows_security"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 12:18:38",
-      "https://news.ycombinator.com/item?id=34337592"
-    ],
-    [
-      "Show HN: Quick tunnels to localhost with one command and no binary download",
-      "https://pinggy.io/"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2023-01-10, 19:15:31",
+      "https://news.ycombinator.com/item?id=34329988"
+    ],
+    [
+      "Pirate Weather: A free, open, and documented forecast API",
+      "https://pirateweather.net/"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 18:56:26",
       "https://news.ycombinator.com/item?id=34329656"
     ],
@@ -277,6 +267,16 @@
     [
       "Marketing advice from open source founders",
       "https://cannon.wtf/marketing-advice-from-open-source-founders/"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 12:22:13",
+      "https://news.ycombinator.com/item?id=34309530"
+    ],
+    [
+      "Surprising Consequences of macOS’s Environment Variable Sanitization",
+      "https://hynek.me/articles/macos-dyld-env/"
     ]
   ],
   [
