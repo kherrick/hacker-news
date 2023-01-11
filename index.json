@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-01-11, 17:24:26",
-      "https://news.ycombinator.com/item?id=34341186"
+      "2023-01-11, 18:05:06",
+      "https://news.ycombinator.com/item?id=34341968"
     ],
     [
-      "Carta lays off 10% of the workforce",
-      "https://news.ycombinator.com/item?id=34341186"
+      "The Alien Grave of Aurora, Texas",
+      "https://burialsandbeyond.com/2023/01/11/the-alien-grave-of-aurora-texas/"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 17:57:23",
+      "https://news.ycombinator.com/item?id=34341818"
+    ],
+    [
+      "Docker Support in Codesandbox",
+      "https://codesandbox.io/post/introducing-docker-support-in-codesandbox"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34340443"
     ],
     [
-      "America’s roads and highways have a big, fat style guide",
+      "The Style Guide for America’s Highways",
       "https://www.beautifulpublicdata.com/the-style-guide-for-americas-highways-mutcd/"
     ]
   ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2023-01-11, 15:37:40",
+      "https://news.ycombinator.com/item?id=34339608"
+    ],
+    [
+      "We need a lot more electricians",
+      "https://www.canarymedia.com/articles/clean-energy-jobs/we-need-a-lot-more-electricians-if-were-going-to-electrify-everything"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 15:35:13",
       "https://news.ycombinator.com/item?id=34339575"
     ],
@@ -61,22 +81,12 @@
   ],
   [
     [
-      "2023-01-11, 15:13:09",
-      "https://news.ycombinator.com/item?id=34339285"
+      "2023-01-11, 15:01:11",
+      "https://news.ycombinator.com/item?id=34339153"
     ],
     [
-      "Genders.wtf",
-      "https://genders.wtf/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 15:08:01",
-      "https://news.ycombinator.com/item?id=34339222"
-    ],
-    [
-      "Yes, a branch of the Army Corps of Engineers did make a cat calendar",
-      "https://www.stripes.com/theaters/us/2023-01-10/cats-army-engineers-8711631.html"
+      "Apple Announces Full Swift Rewrite of the Foundation Framework",
+      "https://www.infoq.com/news/2022/12/apple-swift-foundation-rewrite/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Memories: Artificial Intelligence at Stanford in the 70s",
       "https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 13:58:11",
-      "https://news.ycombinator.com/item?id=34338487"
-    ],
-    [
-      "Haiku beta 4: a thing of beauty",
-      "https://www.theregister.com/2023/01/11/haiku_beta_4/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-01-10, 19:28:50",
+      "https://news.ycombinator.com/item?id=34330198"
+    ],
+    [
+      "Makefiles for web work",
+      "https://rosszurowski.com/log/2022/makefiles"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 18:56:26",
       "https://news.ycombinator.com/item?id=34329656"
     ],
@@ -261,26 +271,6 @@
   ],
   [
     [
-      "2023-01-10, 05:28:56",
-      "https://news.ycombinator.com/item?id=34320892"
-    ],
-    [
-      "Lessons in Electric Circuits",
-      "https://www.allaboutcircuits.com/textbook/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 20:58:16",
-      "https://news.ycombinator.com/item?id=34315951"
-    ],
-    [
-      "The Daily Habits of Happiness Experts",
-      "https://time.com/6241099/daily-habits-happiness-experts/"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 20:46:43",
       "https://news.ycombinator.com/item?id=34315782"
     ],
@@ -297,6 +287,16 @@
     [
       "A Zig Diary",
       "https://kihlander.net/post/a-zig-diary/"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 10:37:20",
+      "https://news.ycombinator.com/item?id=34308876"
+    ],
+    [
+      "Learning Verilog and FPGA",
+      "https://johanneshoff.com/learning-fpga/"
     ]
   ]
 ]
