@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-01-11, 14:52:23",
+      "https://news.ycombinator.com/item?id=34339052"
+    ],
+    [
+      "The CPSC is on a mission that has nothing to do with safety",
+      "https://cremieux.substack.com/p/lying-for-climate-crusading"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 14:46:54",
       "https://news.ycombinator.com/item?id=34338995"
     ],
     [
       "Launch HN: IcePanel (YC W23) – Onboard engineers with explorable system designs",
       "https://news.ycombinator.com/item?id=34338995"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 14:25:04",
+      "https://news.ycombinator.com/item?id=34338777"
+    ],
+    [
+      "Mastering diverse domains through world models",
+      "https://arxiv.org/abs/2301.04104"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 14:09:54",
+      "https://news.ycombinator.com/item?id=34338629"
+    ],
+    [
+      "Show HN: Kandria, an action RPG made in Common Lisp, is now out",
+      "https://store.steampowered.com/app/1261430/Kandria/"
     ]
   ],
   [
@@ -21,22 +51,22 @@
   ],
   [
     [
+      "2023-01-11, 13:58:11",
+      "https://news.ycombinator.com/item?id=34338487"
+    ],
+    [
+      "Haiku beta 4: a thing of beauty",
+      "https://www.theregister.com/2023/01/11/haiku_beta_4/"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 13:13:37",
       "https://news.ycombinator.com/item?id=34337996"
     ],
     [
       "On leading underscores and names reserved by the C and C++ languages",
       "https://devblogs.microsoft.com/oldnewthing/20230109-00/?p=107685"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 12:50:18",
-      "https://news.ycombinator.com/item?id=34337807"
-    ],
-    [
-      "US Halts Flights Nationwide After Key FAA System Goes Down",
-      "https://www.bloomberg.com/news/articles/2023-01-11/us-flights-disrupted-after-outage-of-faa-pilot-advisory-system"
     ]
   ],
   [
@@ -71,12 +101,12 @@
   ],
   [
     [
-      "2023-01-11, 12:04:57",
-      "https://news.ycombinator.com/item?id=34337529"
+      "2023-01-11, 12:18:38",
+      "https://news.ycombinator.com/item?id=34337592"
     ],
     [
-      "Antidepressants are over-prescribed, but genuinely help some patients",
-      "https://www.economist.com/graphic-detail/2023/01/10/antidepressants-are-over-prescribed-but-genuinely-help-some-patients"
+      "Show HN: Quick tunnels to localhost with one command and no binary download",
+      "https://pinggy.io/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "FAA NOTAM System Outage",
       "https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC&title=NOTAM+SYSTEM+EQUIPMENT+OUTAGE_FYI&titleDate=01/11/23"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 09:07:52",
-      "https://news.ycombinator.com/item?id=34336576"
-    ],
-    [
-      "Don't use Tailwind for a design system (2021)",
-      "https://sancho.dev/blog/tailwind-and-design-systems"
     ]
   ],
   [
@@ -181,22 +201,22 @@
   ],
   [
     [
-      "2023-01-10, 19:15:31",
-      "https://news.ycombinator.com/item?id=34329988"
-    ],
-    [
-      "Pirate Weather: A free, open, and documented forecast API",
-      "https://pirateweather.net/"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 18:56:26",
       "https://news.ycombinator.com/item?id=34329656"
     ],
     [
-      "Microservices are a big ball of mud",
+      "Microservices are hard",
       "https://code-held.com/2022/07/28/microservices/"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 07:24:16",
+      "https://news.ycombinator.com/item?id=34321599"
+    ],
+    [
+      "Zoo Vadis, or how to breathe new life into a thirty-year-old classic",
+      "https://boardgamegeek.com/blogpost/140765/publisher-diary-reiner-knizias-zoo-vadis-or-how-br"
     ]
   ],
   [
@@ -217,16 +237,6 @@
     [
       "Lessons in Electric Circuits",
       "https://www.allaboutcircuits.com/textbook/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 05:20:08",
-      "https://news.ycombinator.com/item?id=34320840"
-    ],
-    [
-      "Myths and legends in high-performance computing",
-      "https://arxiv.org/abs/2301.02432"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Marketing advice from open source founders",
       "https://cannon.wtf/marketing-advice-from-open-source-founders/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 12:22:13",
-      "https://news.ycombinator.com/item?id=34309530"
-    ],
-    [
-      "Surprising Consequences of macOS’s Environment Variable Sanitization",
-      "https://hynek.me/articles/macos-dyld-env/"
     ]
   ],
   [
