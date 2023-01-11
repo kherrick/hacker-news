@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-11, 12:04:57",
+      "https://news.ycombinator.com/item?id=34337529"
+    ],
+    [
+      "Antidepressants are over-prescribed, but genuinely help some patients",
+      "https://www.economist.com/graphic-detail/2023/01/10/antidepressants-are-over-prescribed-but-genuinely-help-some-patients"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 11:51:39",
+      "https://news.ycombinator.com/item?id=34337454"
+    ],
+    [
+      "Another NaN-based tagging strategy for dynamic programming languages",
+      "https://outerproduct.net/trivial/2023-01-11_nan.html"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 11:01:54",
       "https://news.ycombinator.com/item?id=34337158"
     ],
@@ -71,32 +91,12 @@
   ],
   [
     [
-      "2023-01-11, 06:08:17",
-      "https://news.ycombinator.com/item?id=34335562"
-    ],
-    [
-      "Photo Editing: Respecting Context",
-      "https://simonsarris.substack.com/p/photo-editing-respecting-context"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 05:20:18",
       "https://news.ycombinator.com/item?id=34335269"
     ],
     [
       "Secondments at Zapier",
       "https://zapier.com/blog/secondments-at-zapier/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 04:59:14",
-      "https://news.ycombinator.com/item?id=34335173"
-    ],
-    [
-      "What’s better than maps or stamps? Maps on stamps",
-      "https://bigthink.com/strange-maps/maps-on-stamps/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "NeevaAI",
       "https://neeva.com/blog/introducing-neevaai"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 20:46:03",
-      "https://news.ycombinator.com/item?id=34331225"
-    ],
-    [
-      "Bringing MathML back to Chromium",
-      "https://www.igalia.com/2023/01/10/Igalia-Brings-MathML-Back-to-Chromium.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Surprising Consequences of macOS’s Environment Variable Sanitization",
       "https://hynek.me/articles/macos-dyld-env/"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 11:54:55",
+      "https://news.ycombinator.com/item?id=34309347"
+    ],
+    [
+      "A Zig Diary",
+      "https://kihlander.net/post/a-zig-diary/"
     ]
   ],
   [
