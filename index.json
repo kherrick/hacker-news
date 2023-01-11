@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-01-11, 20:48:53",
+      "https://news.ycombinator.com/item?id=34344514"
+    ],
+    [
+      "Conc: Better Structured Concurrency for Go",
+      "https://github.com/sourcegraph/conc"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 20:48:25",
       "https://news.ycombinator.com/item?id=34344510"
     ],
     [
       "Heat exchanger header with fractal geometry",
       "https://patents.google.com/patent/US20200284532A1/en"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 20:41:56",
+      "https://news.ycombinator.com/item?id=34344412"
+    ],
+    [
+      "An online IDE for visual programming in Prolog",
+      "https://github.com/toblotron/praxis-ide"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-01-11, 15:37:40",
-      "https://news.ycombinator.com/item?id=34339608"
-    ],
-    [
-      "We need a lot more electricians",
-      "https://www.canarymedia.com/articles/clean-energy-jobs/we-need-a-lot-more-electricians-if-were-going-to-electrify-everything"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 15:35:13",
       "https://news.ycombinator.com/item?id=34339575"
     ],
@@ -237,16 +247,6 @@
     [
       "NanoGPT",
       "https://github.com/karpathy/nanoGPT"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 07:14:23",
-      "https://news.ycombinator.com/item?id=34335937"
-    ],
-    [
-      "The Unexpected Heaviosity of Ferris Bueller’s Day Off (2006)",
-      "https://www.vqronline.org/essay/john-hughes-goes-deep-unexpected-heaviosity-ferris-bueller%E2%80%99s-day"
     ]
   ],
   [
