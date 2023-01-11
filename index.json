@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-01-11, 13:13:37",
+      "https://news.ycombinator.com/item?id=34337996"
+    ],
+    [
+      "On leading underscores and names reserved by the C and C++ languages",
+      "https://devblogs.microsoft.com/oldnewthing/20230109-00/?p=107685"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 12:37:58",
+      "https://news.ycombinator.com/item?id=34337707"
+    ],
+    [
+      "“A Handbook of Integer Sequences” Fifty Years Later",
+      "https://arxiv.org/abs/2301.03149"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 12:31:52",
+      "https://news.ycombinator.com/item?id=34337667"
+    ],
+    [
+      "Django Styleguide",
+      "https://github.com/HackSoftware/Django-Styleguide"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 12:22:57",
+      "https://news.ycombinator.com/item?id=34337614"
+    ],
+    [
+      "Windows OS Security",
+      "https://github.com/jmau111-org/windows_security"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 12:04:57",
       "https://news.ycombinator.com/item?id=34337529"
     ],
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2023-01-11, 00:06:38",
-      "https://news.ycombinator.com/item?id=34333282"
-    ],
-    [
-      "HTML with Superpowers: An Introduction to Web Components",
-      "https://htmlwithsuperpowers.netlify.app/"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 23:55:02",
       "https://news.ycombinator.com/item?id=34333176"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-01-10, 21:55:01",
-      "https://news.ycombinator.com/item?id=34332114"
-    ],
-    [
-      "NeevaAI",
-      "https://neeva.com/blog/introducing-neevaai"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 19:15:31",
       "https://news.ycombinator.com/item?id=34329988"
     ],
@@ -171,12 +191,12 @@
   ],
   [
     [
-      "2023-01-10, 07:10:45",
-      "https://news.ycombinator.com/item?id=34321521"
+      "2023-01-10, 18:56:26",
+      "https://news.ycombinator.com/item?id=34329656"
     ],
     [
-      "Grandma Gatewood",
-      "https://en.wikipedia.org/wiki/Grandma_Gatewood"
+      "Microservices are a big ball of mud",
+      "https://code-held.com/2022/07/28/microservices/"
     ]
   ],
   [
@@ -207,16 +227,6 @@
     [
       "Myths and legends in high-performance computing",
       "https://arxiv.org/abs/2301.02432"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 02:14:15",
-      "https://news.ycombinator.com/item?id=34319478"
-    ],
-    [
-      "Restoration of the ozone layer is back on track, scientists say",
-      "https://www.nytimes.com/2023/01/09/climate/ozone-hole-restoration-montreal-protocol.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "A Zig Diary",
       "https://kihlander.net/post/a-zig-diary/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 10:37:20",
-      "https://news.ycombinator.com/item?id=34308876"
-    ],
-    [
-      "Learning Verilog and FPGA",
-      "https://johanneshoff.com/learning-fpga/"
     ]
   ],
   [
