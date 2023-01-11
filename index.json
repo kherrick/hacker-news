@@ -1,11 +1,31 @@
 [
   [
     [
+      "2023-01-11, 19:18:40",
+      "https://news.ycombinator.com/item?id=34343127"
+    ],
+    [
+      "CNCF accepts Kubescape as its first security and compliance scanner project",
+      "https://www.sdxcentral.com/articles/interview/cncf-accepts-kubescape-as-inaugural-open-source-security-scanner/2023/01/"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 19:18:28",
+      "https://news.ycombinator.com/item?id=34343122"
+    ],
+    [
+      "Show HN: Val Town – A Cloud Scripting Site",
+      "https://www.val.town/"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 19:03:26",
       "https://news.ycombinator.com/item?id=34342901"
     ],
     [
-      "Why Use Make",
+      "Why Use Make (2013)",
       "https://bost.ocks.org/mike/make/"
     ]
   ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34342255"
     ],
     [
-      "Android malware from Amazon straight to your door",
+      "T95 Allwinner T616 Malware Analysis",
       "https://github.com/DesktopECHO/T95-H616-Malware"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34342166"
     ],
     [
-      "It's Time to Stop Texting",
+      "It's time to stop texting",
       "https://dfeldman.medium.com/its-time-to-stop-texting-6fcce2014e36"
     ]
   ],
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=34339153"
     ],
     [
-      "Apple Announces Full Swift Rewrite of the Foundation Framework (2022)",
+      "Apple announces full Swift rewrite of the Foundation framework (2022)",
       "https://www.infoq.com/news/2022/12/apple-swift-foundation-rewrite/"
     ]
   ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-01-11, 11:01:54",
-      "https://news.ycombinator.com/item?id=34337158"
-    ],
-    [
-      "FAA NOTAM System Outage",
-      "https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC&title=NOTAM+SYSTEM+EQUIPMENT+OUTAGE_FYI&titleDate=01/11/23"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 08:34:25",
       "https://news.ycombinator.com/item?id=34336386"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2023-01-11, 08:05:18",
-      "https://news.ycombinator.com/item?id=34336213"
-    ],
-    [
-      "The Computer Science Book (2020)",
-      "https://thecomputersciencebook.com/book/"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 07:14:23",
       "https://news.ycombinator.com/item?id=34335937"
     ],
     [
       "The Unexpected Heaviosity of Ferris Bueller’s Day Off (2006)",
       "https://www.vqronline.org/essay/john-hughes-goes-deep-unexpected-heaviosity-ferris-bueller%E2%80%99s-day"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 20:25:27",
+      "https://news.ycombinator.com/item?id=34330966"
+    ],
+    [
+      "Compiled and interpreted languages: Two ways of saying tomato",
+      "https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Efficient and performance-portable vector software",
       "https://github.com/google/highway"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 07:24:16",
-      "https://news.ycombinator.com/item?id=34321599"
-    ],
-    [
-      "Zoo Vadis, or how to breathe new life into a thirty-year-old classic",
-      "https://boardgamegeek.com/blogpost/140765/publisher-diary-reiner-knizias-zoo-vadis-or-how-br"
     ]
   ],
   [
