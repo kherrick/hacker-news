@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-11, 07:00:19",
+      "https://news.ycombinator.com/item?id=34335873"
+    ],
+    [
+      "Actiondesk (YC S19) Is Hiring a Product Designer (4-6 months contract)",
+      "https://www.ycombinator.com/companies/actiondesk/jobs/LggjAvL-product-designer-4-6-months-contract"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 05:20:18",
       "https://news.ycombinator.com/item?id=34335269"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-01-10, 21:00:44",
-      "https://news.ycombinator.com/item?id=34331412"
-    ],
-    [
-      "Jerry (YC S17) Is Hiring VP / Director of Engineering",
-      "https://jobs.ashbyhq.com/Jerry/2e30b90f-a707-4f50-9b7d-d27c841a238a"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 20:46:03",
       "https://news.ycombinator.com/item?id=34331225"
     ],
@@ -197,16 +197,6 @@
     [
       "Theory-building and why employee churn is lethal to software companies",
       "https://www.baldurbjarnason.com/2022/theory-building/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 16:56:09",
-      "https://news.ycombinator.com/item?id=34327759"
-    ],
-    [
-      "How Microsoft attempted to make the Xbox 360 dashboard load faster",
-      "https://eaton-works.com/2023/01/09/how-microsoft-attempted-to-make-the-xbox-360-dashboard-load-faster/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Building an Internet Scale Meme Search Engine",
       "https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 12:22:13",
+      "https://news.ycombinator.com/item?id=34309530"
+    ],
+    [
+      "Surprising Consequences of macOS’s Environment Variable Sanitization",
+      "https://hynek.me/articles/macos-dyld-env/"
     ]
   ],
   [
