@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-01-11, 04:40:32",
-      "https://news.ycombinator.com/item?id=34335066"
-    ],
-    [
-      "ChatGPT January 9th Release Notes",
-      "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 04:10:34",
       "https://news.ycombinator.com/item?id=34334925"
     ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=34321135"
     ],
     [
-      "NetworkX 3.0",
+      "NetworkX 3.0 - create, manipulate, and study complex networks in Python",
       "https://networkx.org/documentation/stable/release/release_3.0.html"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Lessons in Electric Circuits",
       "https://www.allaboutcircuits.com/textbook/"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 05:20:08",
+      "https://news.ycombinator.com/item?id=34320840"
+    ],
+    [
+      "Myths and Legends in High-Performance Computing",
+      "https://arxiv.org/abs/2301.02432"
     ]
   ],
   [
