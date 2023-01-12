@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-12, 19:41:22",
+      "https://news.ycombinator.com/item?id=34359211"
+    ],
+    [
+      "Circl: Cloudflare Interoperable Reusable Cryptographic Library",
+      "https://github.com/cloudflare/circl"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 19:34:13",
       "https://news.ycombinator.com/item?id=34359119"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2023-01-12, 18:50:18",
+      "https://news.ycombinator.com/item?id=34358510"
+    ],
+    [
+      "Liquid Democracy. Two Experiments on Delegation in Voting",
+      "https://www.nber.org/papers/w30794"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 18:48:24",
       "https://news.ycombinator.com/item?id=34358483"
     ],
@@ -105,28 +125,8 @@
       "https://news.ycombinator.com/item?id=34357895"
     ],
     [
-      "U.S. Cancer Death Rate Has Dropped by a Third Since 1991",
+      "U.S. cancer death rate has dropped by a third since 1991",
       "https://www.wsj.com/articles/u-s-cancer-death-rate-has-dropped-by-a-third-since-1991-11673535327"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 17:52:08",
-      "https://news.ycombinator.com/item?id=34357645"
-    ],
-    [
-      "Clozure Common Lisp Wiki",
-      "https://github.com/Clozure/ccl/wiki"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 17:48:56",
-      "https://news.ycombinator.com/item?id=34357596"
-    ],
-    [
-      "The end of the high school essay",
-      "https://seths.blog/2023/01/the-end-of-the-high-school-essay/"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34357580"
     ],
     [
-      "Extreme 'Rogue Wave' in the North Pacific Confirmed as Most Extreme on Record",
+      "Extreme 'rogue wave' in the North Pacific confirmed as most extreme on record",
       "https://www.sciencealert.com/extreme-rogue-wave-in-the-north-pacific-confirmed-as-most-extreme-on-record"
     ]
   ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-01-11, 12:48:50",
-      "https://news.ycombinator.com/item?id=34337793"
+      "2023-01-11, 14:58:01",
+      "https://news.ycombinator.com/item?id=34339117"
     ],
     [
-      "How to Survive FOSDEM",
-      "https://marcin.juszkiewicz.com.pl/2019/10/15/how-to-survive-fosdem/"
+      "Manage Like an Engineer",
+      "https://ben.balter.com/2023/01/10/manage-like-an-engineer/"
     ]
   ],
   [
