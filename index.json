@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-01-12, 03:16:04",
+      "https://news.ycombinator.com/item?id=34348720"
+    ],
+    [
+      "Amazon loses bid to overturn historic union win on Staten Island warehouse",
+      "https://www.npr.org/2023/01/11/1125205641/amazon-warehouse-union-staten-island"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 02:45:27",
       "https://news.ycombinator.com/item?id=34348496"
     ],
     [
       "The Systematic Valley",
       "https://philosophyinhell.substack.com/p/the-systematic-valley"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 02:30:05",
+      "https://news.ycombinator.com/item?id=34348388"
+    ],
+    [
+      "A corrupt file led to the FAA ground stoppage – it was also found in the backup",
+      "https://www.cnn.com/travel/article/faa-ground-stop-causes/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 01:19:40",
+      "https://news.ycombinator.com/item?id=34347778"
+    ],
+    [
+      "New video of Tesla crash demonstrates the problem of semi-automated driving",
+      "https://www.theautopian.com/newly-released-video-of-thanksgiving-day-tesla-full-self-driving-crash-demonstrates-the-fundamental-problem-of-semi-automated-driving-systems/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-01-11, 18:33:49",
-      "https://news.ycombinator.com/item?id=34342438"
-    ],
-    [
-      "What happens when you open a terminal and enter `ls’",
-      "https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 18:22:52",
       "https://news.ycombinator.com/item?id=34342255"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-01-11, 13:13:37",
-      "https://news.ycombinator.com/item?id=34337996"
-    ],
-    [
-      "On leading underscores and names reserved by the C and C++ languages",
-      "https://devblogs.microsoft.com/oldnewthing/20230109-00/?p=107685"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 08:34:25",
       "https://news.ycombinator.com/item?id=34336386"
     ],
@@ -247,16 +257,6 @@
     [
       "HoloKit relaunched, $129 AR Headset accessory for iPhone",
       "https://holokit.io/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 20:25:27",
-      "https://news.ycombinator.com/item?id=34330966"
-    ],
-    [
-      "Compiled and interpreted languages: Two ways of saying tomato",
-      "https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=34318169"
     ],
     [
-      "The Written World and the Unwritten World",
+      "The written world and the unwritten world",
       "https://www.theparisreview.org/blog/2023/01/05/the-written-world-and-the-unwritten-world/"
     ]
   ]
