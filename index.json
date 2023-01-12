@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-12, 23:14:38",
+      "https://news.ycombinator.com/item?id=34361607"
+    ],
+    [
+      "Ask HN: Is it legal for an employer to post as you on Slack?",
+      "https://news.ycombinator.com/item?id=34361607"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 22:56:22",
       "https://news.ycombinator.com/item?id=34361439"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34361046"
     ],
     [
-      "Null Call: Advice for the vestigial shamans among us",
+      "Null Call: Advice for the vestigial shamans among us (2021)",
       "https://arcove.substack.com/p/null-call"
     ]
   ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=34358663"
     ],
     [
-      "Taking the derivative of an algebraic data type [pdf]",
+      "The Derivative of a Regular Type is its Type of One-Hole Contexts (2001) [pdf]",
       "http://strictlypositive.org/diff.pdf"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "SQLite Wasm in the browser backed by the Origin Private File System",
       "https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system/"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 08:22:18",
-      "https://news.ycombinator.com/item?id=34350662"
-    ],
-    [
-      "Geoffrey Hinton publishes new deep learning algorithm",
-      "https://www.infoq.com/news/2023/01/hinton-forward-algorithm/"
     ]
   ],
   [
