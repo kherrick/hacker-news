@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-12, 18:57:01",
+      "https://news.ycombinator.com/item?id=34358622"
+    ],
+    [
+      "Own Your Data",
+      "https://yourdigitalrights.org"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 18:28:42",
       "https://news.ycombinator.com/item?id=34358190"
     ],
@@ -11,12 +21,42 @@
   ],
   [
     [
+      "2023-01-12, 18:08:50",
+      "https://news.ycombinator.com/item?id=34357904"
+    ],
+    [
+      "The Misunderstood Roman Empress Who Willed Her Way to the Top",
+      "https://www.smithsonianmag.com/history/misunderstood-roman-empress-willed-way-to-top-180981294/"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 18:08:27",
       "https://news.ycombinator.com/item?id=34357895"
     ],
     [
       "U.S. Cancer Death Rate Has Dropped by a Third Since 1991",
       "https://www.wsj.com/articles/u-s-cancer-death-rate-has-dropped-by-a-third-since-1991-11673535327"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 17:52:08",
+      "https://news.ycombinator.com/item?id=34357645"
+    ],
+    [
+      "Clozure Common Lisp Wiki",
+      "https://github.com/Clozure/ccl/wiki"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 17:48:56",
+      "https://news.ycombinator.com/item?id=34357596"
+    ],
+    [
+      "The end of the high school essay",
+      "https://seths.blog/2023/01/the-end-of-the-high-school-essay/"
     ]
   ],
   [
@@ -97,26 +137,6 @@
     [
       "System76 AMD-Only Laptop Returns",
       "https://system76.com/laptops/pangolin-teaser"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 16:09:19",
-      "https://news.ycombinator.com/item?id=34355654"
-    ],
-    [
-      "Monitoring Space Weather from the Ground",
-      "https://spectrum.ieee.org/space-weather"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 15:04:27",
-      "https://news.ycombinator.com/item?id=34354506"
-    ],
-    [
-      "Medium Embraces Mastodon",
-      "https://blog.medium.com/medium-embraces-mastodon-19dcb873eb11"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-01-11, 22:37:25",
-      "https://news.ycombinator.com/item?id=34346064"
-    ],
-    [
-      "The Royally Radical Life of Margaret Cavendish (2019)",
-      "https://www.theparisreview.org/blog/2019/04/15/the-royally-radical-life-of-margaret-cavendish/"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 15:56:01",
       "https://news.ycombinator.com/item?id=34339827"
     ],
@@ -287,16 +297,6 @@
     [
       "New software sells new hardware, but not forever",
       "https://www.theregister.com/2023/01/11/software_versus_hardware/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 12:48:50",
-      "https://news.ycombinator.com/item?id=34337793"
-    ],
-    [
-      "How to Survive FOSDEM",
-      "https://marcin.juszkiewicz.com.pl/2019/10/15/how-to-survive-fosdem/"
     ]
   ]
 ]
