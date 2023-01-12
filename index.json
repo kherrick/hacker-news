@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-01-12, 17:50:33",
-      "https://news.ycombinator.com/item?id=34357616"
+      "2023-01-12, 17:48:04",
+      "https://news.ycombinator.com/item?id=34357580"
     ],
     [
-      "Tell HN: Tailscale terms updated, added mandatory arbitration",
-      "https://news.ycombinator.com/item?id=34357616"
+      "Extreme 'Rogue Wave' in the North Pacific Confirmed as Most Extreme on Record",
+      "https://www.sciencealert.com/extreme-rogue-wave-in-the-north-pacific-confirmed-as-most-extreme-on-record"
     ]
   ],
   [
@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2023-01-12, 16:59:01",
-      "https://news.ycombinator.com/item?id=34356677"
+      "2023-01-12, 16:47:29",
+      "https://news.ycombinator.com/item?id=34356429"
     ],
     [
-      "Tell HN: LinkedIn is giving out my phone number without consent (?)",
-      "https://news.ycombinator.com/item?id=34356677"
+      "Writing a TLA⁺ tree-sitter grammar: my foray into free software",
+      "https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/"
     ]
   ],
   [
@@ -61,21 +61,11 @@
   ],
   [
     [
-      "2023-01-12, 16:22:15",
-      "https://news.ycombinator.com/item?id=34355899"
-    ],
-    [
-      "Crime App 'Citizen' Lays Off Dozens of Employees",
-      "https://www.vice.com/en/article/7k8yxb/citizen-app-lays-off-dozens-of-employees"
-    ]
-  ],
-  [
-    [
       "2023-01-12, 16:19:52",
       "https://news.ycombinator.com/item?id=34355857"
     ],
     [
-      "CEO Jack Altman’s email to lattice employees",
+      "CEO Jack Altman’s email to Lattice employees",
       "https://lattice.com/blog/ceo-jack-altmans-email-to-lattice-employees"
     ]
   ],
@@ -101,41 +91,11 @@
   ],
   [
     [
-      "2023-01-12, 15:55:41",
-      "https://news.ycombinator.com/item?id=34355408"
-    ],
-    [
-      "Fuckup Nights – Series of events where stories of failure are shared",
-      "https://en.fuckupnights.com/"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 15:33:01",
-      "https://news.ycombinator.com/item?id=34355009"
-    ],
-    [
-      "Show HN: WunderGraph – The simplicity of RPC with the power of GraphQL",
-      "https://wundergraph.com/index"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 15:30:32",
-      "https://news.ycombinator.com/item?id=34354962"
-    ],
-    [
-      "Eggs are 60% more expensive than last year in the US",
-      "https://www.semafor.com/article/01/12/2023/eggs-are-60-more-expensive-than-last-year-in-the-us"
-    ]
-  ],
-  [
-    [
       "2023-01-12, 15:27:39",
       "https://news.ycombinator.com/item?id=34354910"
     ],
     [
-      "Sugar and fat affect your brain",
+      "How sugar and fat affect your brain",
       "https://www.nationalgeographic.com/magazine/article/how-sugar-and-fat-affect-your-brain"
     ]
   ],
@@ -165,7 +125,7 @@
       "https://news.ycombinator.com/item?id=34354179"
     ],
     [
-      "Show HN: New GraphQL API for WordPress (1.5 years of development, 16000 commits)",
+      "Show HN: New GraphQL API for WordPress",
       "https://github.com/leoloso/PoP/releases/tag/0.9.3"
     ]
   ],
@@ -205,8 +165,18 @@
       "https://news.ycombinator.com/item?id=34352935"
     ],
     [
-      "SQLite WASM in the browser backed by the origin private file system",
+      "SQLite Wasm in the browser backed by the Origin Private File System",
       "https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system/"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 12:07:17",
+      "https://news.ycombinator.com/item?id=34352309"
+    ],
+    [
+      "Do heat pumps work in cold climates?",
+      "https://carbonswitch.com/do-heat-pumps-work-in-cold-weather/"
     ]
   ],
   [
@@ -227,6 +197,16 @@
     [
       "The curious Soviet mini-sub of South Alabama (2018)",
       "https://laststandonzombieisland.com/2018/11/24/the-curious-soviet-mini-sub-of-south-alabama/"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 10:15:41",
+      "https://news.ycombinator.com/item?id=34351503"
+    ],
+    [
+      "The Yaml document from hell",
+      "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2023-01-11, 22:37:25",
+      "https://news.ycombinator.com/item?id=34346064"
+    ],
+    [
+      "The Royally Radical Life of Margaret Cavendish (2019)",
+      "https://www.theparisreview.org/blog/2019/04/15/the-royally-radical-life-of-margaret-cavendish/"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 15:56:01",
       "https://news.ycombinator.com/item?id=34339827"
     ],
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=34338215"
     ],
     [
-      "New software sells new hardware – but not forever",
+      "New software sells new hardware, but not forever",
       "https://www.theregister.com/2023/01/11/software_versus_hardware/"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 12:48:50",
+      "https://news.ycombinator.com/item?id=34337793"
+    ],
+    [
+      "How to Survive FOSDEM",
+      "https://marcin.juszkiewicz.com.pl/2019/10/15/how-to-survive-fosdem/"
     ]
   ]
 ]
