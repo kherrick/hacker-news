@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-12, 11:36:04",
+      "https://news.ycombinator.com/item?id=34352081"
+    ],
+    [
+      "Europe’s largest deposit of rare earth metals is located in the Kiruna area",
+      "https://lkab.com/en/press/europes-largest-deposit-of-rare-earth-metals-is-located-in-the-kiruna-area/"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 11:30:45",
+      "https://news.ycombinator.com/item?id=34352040"
+    ],
+    [
+      "Europe's largest deposit of rare earth metals discovered in Sweden",
+      "https://news.cision.com/lkab/r/europe-s-largest-deposit-of-rare-earth-metals-is-located-in-the-kiruna-area,c3696152"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 10:46:06",
       "https://news.ycombinator.com/item?id=34351710"
     ],
@@ -17,6 +37,16 @@
     [
       "The YAML Document from Hell",
       "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 09:21:56",
+      "https://news.ycombinator.com/item?id=34351078"
+    ],
+    [
+      "Roomba testers feel misled after intimate images ended up on Facebook",
+      "https://www.technologyreview.com/2023/01/10/1066500/roomba-irobot-robot-vacuum-beta-product-testers-consent-agreement-misled/"
     ]
   ],
   [
@@ -61,6 +91,16 @@
   ],
   [
     [
+      "2023-01-12, 07:50:13",
+      "https://news.ycombinator.com/item?id=34350433"
+    ],
+    [
+      "Teenage suicide rates dropped during lockdown due to respite from bullying",
+      "https://www.economist.com/graphic-detail/2023/01/10/why-did-teenage-suicides-decline-during-americas-first-covid-19-lockdowns"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 07:21:37",
       "https://news.ycombinator.com/item?id=34350260"
     ],
@@ -101,12 +141,32 @@
   ],
   [
     [
+      "2023-01-12, 03:16:04",
+      "https://news.ycombinator.com/item?id=34348720"
+    ],
+    [
+      "Amazon loses bid to overturn historic union win on Staten Island warehouse",
+      "https://www.npr.org/2023/01/11/1125205641/amazon-warehouse-union-staten-island"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 02:30:05",
       "https://news.ycombinator.com/item?id=34348388"
     ],
     [
       "A corrupt file led to the FAA ground stoppage – also found in backup system",
       "https://www.cnn.com/travel/article/faa-ground-stop-causes/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 01:19:40",
+      "https://news.ycombinator.com/item?id=34347778"
+    ],
+    [
+      "New video of Tesla crash demonstrates the problem of semi-automated driving",
+      "https://www.theautopian.com/newly-released-video-of-thanksgiving-day-tesla-full-self-driving-crash-demonstrates-the-fundamental-problem-of-semi-automated-driving-systems/"
     ]
   ],
   [
@@ -141,62 +201,12 @@
   ],
   [
     [
-      "2023-01-11, 20:48:53",
-      "https://news.ycombinator.com/item?id=34344514"
-    ],
-    [
-      "Conc: Better Structured Concurrency for Go",
-      "https://github.com/sourcegraph/conc"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 20:41:56",
-      "https://news.ycombinator.com/item?id=34344412"
-    ],
-    [
-      "An online IDE for visual programming in Prolog",
-      "https://github.com/toblotron/praxis-ide"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 19:55:25",
-      "https://news.ycombinator.com/item?id=34343712"
-    ],
-    [
-      "'Oumuamua: An analysis of the debate regarding the first interstellar visitor",
-      "http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1721987&dswid=-4818"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 19:18:28",
-      "https://news.ycombinator.com/item?id=34343122"
-    ],
-    [
-      "Show HN: Val Town – A Cloud Scripting Site",
-      "https://www.val.town/"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 19:00:54",
       "https://news.ycombinator.com/item?id=34342871"
     ],
     [
       "NYC Slice",
       "https://elkue.com/nyc-slice/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 18:22:52",
-      "https://news.ycombinator.com/item?id=34342255"
-    ],
-    [
-      "T95 Allwinner T616 Malware Analysis",
-      "https://github.com/DesktopECHO/T95-H616-Malware"
     ]
   ],
   [
@@ -211,22 +221,22 @@
   ],
   [
     [
-      "2023-01-11, 16:38:30",
-      "https://news.ycombinator.com/item?id=34340443"
-    ],
-    [
-      "The Style Guide for America’s Highways",
-      "https://www.beautifulpublicdata.com/the-style-guide-for-americas-highways-mutcd/"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 15:56:01",
       "https://news.ycombinator.com/item?id=34339827"
     ],
     [
       "An engineer has built and programmed an all-robot band",
       "https://www.guitarworld.com/features/one-hacker-band"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 15:01:11",
+      "https://news.ycombinator.com/item?id=34339153"
+    ],
+    [
+      "Apple announces full Swift rewrite of the Foundation framework (2022)",
+      "https://www.infoq.com/news/2022/12/apple-swift-foundation-rewrite/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Show HN: Grila – Calendar for keyboard addicts, always one keypress away",
       "https://lowtechguys.com/grila/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 06:48:49",
-      "https://news.ycombinator.com/item?id=34335819"
-    ],
-    [
-      "Swift Quit – Automatic App Quitting on Mac",
-      "https://swiftquit.com/"
     ]
   ],
   [
