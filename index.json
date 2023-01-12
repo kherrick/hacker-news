@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-12, 14:18:55",
+      "https://news.ycombinator.com/item?id=34353802"
+    ],
+    [
+      "Mexico’s subway drivers depend on WhatsApp to keep the trains running",
+      "https://restofworld.org/2023/mexico-metro-drivers-whatsapp-trains/"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 13:46:27",
+      "https://news.ycombinator.com/item?id=34353386"
+    ],
+    [
+      "U.S. inflation cools again, giving Fed room to downshift on rates",
+      "https://www.bloomberg.com/news/articles/2023-01-12/us-inflation-cools-again-giving-fed-room-to-downshift-on-rates"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 13:20:39",
+      "https://news.ycombinator.com/item?id=34353049"
+    ],
+    [
+      "Ask HN: Can you crowdfund the compute for GPT?",
+      "https://news.ycombinator.com/item?id=34353049"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 12:20:18",
       "https://news.ycombinator.com/item?id=34352435"
     ],
@@ -17,6 +47,16 @@
     [
       "Startup is fining employees for contacting colleagues on vacation",
       "https://fortune.com/2023/01/11/writing-colleague-on-vacation-fine-dream-sports-india-startup/"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 12:07:17",
+      "https://news.ycombinator.com/item?id=34352309"
+    ],
+    [
+      "Do heat pumps work in cold climates?",
+      "https://carbonswitch.com/do-heat-pumps-work-in-cold-weather/"
     ]
   ],
   [
@@ -171,36 +211,6 @@
   ],
   [
     [
-      "2023-01-11, 23:12:17",
-      "https://news.ycombinator.com/item?id=34346448"
-    ],
-    [
-      "Lightweight Arch-based distro that runs, without root, upon any Linux distro",
-      "https://github.com/fsquillace/junest"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 23:07:49",
-      "https://news.ycombinator.com/item?id=34346411"
-    ],
-    [
-      "CTEs as lookup tables",
-      "https://misfra.me/2023/ctes-as-lookup-tables/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 23:02:21",
-      "https://news.ycombinator.com/item?id=34346346"
-    ],
-    [
-      "Setting the TZ environment variable avoids thousands of system calls (2017)",
-      "https://blog.packagecloud.io/set-environment-variable-save-thousands-of-system-calls/"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 19:00:54",
       "https://news.ycombinator.com/item?id=34342871"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-01-11, 15:01:11",
-      "https://news.ycombinator.com/item?id=34339153"
-    ],
-    [
-      "Apple announces full Swift rewrite of the Foundation framework (2022)",
-      "https://www.infoq.com/news/2022/12/apple-swift-foundation-rewrite/"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 14:46:54",
       "https://news.ycombinator.com/item?id=34338995"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2023-01-11, 14:09:54",
-      "https://news.ycombinator.com/item?id=34338629"
+      "2023-01-11, 13:34:42",
+      "https://news.ycombinator.com/item?id=34338215"
     ],
     [
-      "Show HN: Kandria, an action RPG made in Common Lisp, is now out",
-      "https://store.steampowered.com/app/1261430/Kandria/"
+      "New software sells new hardware – but not forever",
+      "https://www.theregister.com/2023/01/11/software_versus_hardware/"
     ]
   ],
   [
     [
-      "2023-01-11, 01:47:48",
-      "https://news.ycombinator.com/item?id=34334061"
+      "2023-01-11, 06:48:49",
+      "https://news.ycombinator.com/item?id=34335819"
     ],
     [
-      "HoloKit relaunched, $129 AR Headset accessory for iPhone",
-      "https://holokit.io/"
+      "Swift Quit – Automatic App Quitting on Mac",
+      "https://swiftquit.com/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=34332495"
     ],
     [
-      "I hacked Gumroad's API and broke a bunch of tools",
+      "I hacked Gumroad’s API and broke a bunch of tools",
       "https://aescreens.com/blog/gumroad-hack"
     ]
   ],
