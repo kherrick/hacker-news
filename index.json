@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34348388"
     ],
     [
-      "A corrupt file led to the FAA ground stoppage – it was also found in the backup",
+      "A corrupt file led to the FAA ground stoppage – also found in backup system",
       "https://www.cnn.com/travel/article/faa-ground-stop-causes/index.html"
     ]
   ],
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2023-01-11, 19:17:44",
+      "https://news.ycombinator.com/item?id=34343113"
+    ],
+    [
+      "Market Annealing: Getting to $10M ARR in Early Markets",
+      "https://a16z.com/2023/01/11/market-annealing/"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 19:00:54",
       "https://news.ycombinator.com/item?id=34342871"
     ],
@@ -227,16 +237,6 @@
     [
       "Show HN: Kandria, an action RPG made in Common Lisp, is now out",
       "https://store.steampowered.com/app/1261430/Kandria/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 08:34:25",
-      "https://news.ycombinator.com/item?id=34336386"
-    ],
-    [
-      "NanoGPT",
-      "https://github.com/karpathy/nanoGPT"
     ]
   ],
   [
