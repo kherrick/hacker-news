@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-01-12, 01:19:40",
+      "https://news.ycombinator.com/item?id=34347778"
+    ],
+    [
+      "New Video of Tesla Crash Demonstrates the Problem of Semi-Automated Driving",
+      "https://www.theautopian.com/newly-released-video-of-thanksgiving-day-tesla-full-self-driving-crash-demonstrates-the-fundamental-problem-of-semi-automated-driving-systems/"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 00:01:07",
+      "https://news.ycombinator.com/item?id=34346951"
+    ],
+    [
+      "The energy crisis and Europe’s astonishing luck",
+      "https://www.economist.com/finance-and-economics/2023/01/11/the-energy-crisis-and-europes-astonishing-luck"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 23:09:18",
       "https://news.ycombinator.com/item?id=34346425"
     ],
     [
-      "Verily (an Alphabet/Google Bet) eliminates 15% of its staff",
-      "https://verily.com/blog/one-verily-forward/"
+      "Alphabet unit Verily to trim more than 200 jobs",
+      "https://www.wsj.com/articles/alphabet-unit-verily-to-trim-more-than-200-jobs-11673466950"
     ]
   ],
   [
@@ -21,11 +41,21 @@
   ],
   [
     [
+      "2023-01-11, 23:02:21",
+      "https://news.ycombinator.com/item?id=34346346"
+    ],
+    [
+      "Setting the TZ environment variable avoids thousands of system calls (2017)",
+      "https://blog.packagecloud.io/set-environment-variable-save-thousands-of-system-calls/"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 22:03:40",
       "https://news.ycombinator.com/item?id=34345641"
     ],
     [
-      "Etleap (YC W13) Is Hiring – Software Engineer (London)",
+      "Etleap (YC W13) is hiring a software engineer (London)",
       "https://etleap.com/careers/software-engineer/"
     ]
   ],
@@ -81,12 +111,12 @@
   ],
   [
     [
-      "2023-01-11, 20:17:04",
-      "https://news.ycombinator.com/item?id=34344009"
+      "2023-01-11, 19:55:25",
+      "https://news.ycombinator.com/item?id=34343712"
     ],
     [
-      "Flexport slashes 20% of global workforce over weak 2023 volume forecast",
-      "https://theloadstar.com/flexport-slashes-20-of-global-workforce-over-weak-2023-volume-forecast/"
+      "'Oumuamua: An analysis of the debate regarding the first interstellar visitor",
+      "http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1721987&dswid=-4818"
     ]
   ],
   [
@@ -97,26 +127,6 @@
     [
       "Show HN: Val Town – A Cloud Scripting Site",
       "https://www.val.town/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 19:17:44",
-      "https://news.ycombinator.com/item?id=34343113"
-    ],
-    [
-      "Market Annealing: Getting to $10M ARR in Early Markets",
-      "https://a16z.com/2023/01/11/market-annealing/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 19:03:26",
-      "https://news.ycombinator.com/item?id=34342901"
-    ],
-    [
-      "Why Use Make (2013)",
-      "https://bost.ocks.org/mike/make/"
     ]
   ],
   [
@@ -151,12 +161,12 @@
   ],
   [
     [
-      "2023-01-11, 18:19:05",
-      "https://news.ycombinator.com/item?id=34342190"
+      "2023-01-11, 18:08:16",
+      "https://news.ycombinator.com/item?id=34342013"
     ],
     [
-      "Apache Hudi vs. Delta Lake vs. Apache Iceberg Lakehouse Feature Comparison",
-      "https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison"
+      "Tocharian Languages",
+      "https://en.wikipedia.org/wiki/Tocharian_languages"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "HoloKit relaunched, $129 AR Headset accessory for iPhone",
       "https://holokit.io/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 20:25:27",
-      "https://news.ycombinator.com/item?id=34330966"
-    ],
-    [
-      "Compiled and interpreted languages: Two ways of saying tomato",
-      "https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html"
     ]
   ],
   [
