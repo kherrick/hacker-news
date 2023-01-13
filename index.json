@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=34367905"
     ],
     [
-      "Endemic Pathogens Are Making You Crazy and Then Killing You",
+      "Endemic pathogens are causing psychiatric illnesses and shortening lifespans",
       "https://return.life/2022/05/endemic-pathogens/"
+    ]
+  ],
+  [
+    [
+      "2023-01-13, 14:02:05",
+      "https://news.ycombinator.com/item?id=34367824"
+    ],
+    [
+      "OpenAI starts testing ChatGPT premium",
+      "https://www.businesstoday.in/technology/story/openai-tests-the-premium-version-of-chatgpt-heres-how-you-can-get-it-359958-2023-01-12"
     ]
   ],
   [
@@ -71,22 +81,22 @@
   ],
   [
     [
-      "2023-01-13, 11:32:51",
-      "https://news.ycombinator.com/item?id=34366438"
-    ],
-    [
-      "Apple’s Tim Cook to take 50% pay hit after shareholder feedback",
-      "https://www.theguardian.com/technology/2023/jan/13/apple-tim-cook-to-take-pay-hit-after-shareholder-feedback"
-    ]
-  ],
-  [
-    [
       "2023-01-13, 11:10:16",
       "https://news.ycombinator.com/item?id=34366286"
     ],
     [
       "Liu Cixin's Technologies of the Future",
       "https://vincelwt.com/darkforest"
+    ]
+  ],
+  [
+    [
+      "2023-01-13, 09:24:28",
+      "https://news.ycombinator.com/item?id=34365609"
+    ],
+    [
+      "The 'buy now, pay later' bubble is about to burst",
+      "https://www.theatlantic.com/culture/archive/2023/01/buy-now-pay-later-affirm-afterpay-credit-card-debt/672686/"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2023-01-12, 00:21:25",
-      "https://news.ycombinator.com/item?id=34347183"
+      "2023-01-12, 05:14:22",
+      "https://news.ycombinator.com/item?id=34349484"
     ],
     [
-      "API Mismatch: Why bolting SQL onto noSQL is a bad idea",
-      "https://www.chrisarmstrong.dev/posts/api-mismatch--why-bolting-sql-onto-nosql-is-a-bad-idea"
+      "Vim is touch-typing on steroids",
+      "https://www.trickster.dev/post/vim-is-touch-typing-on-steroids/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Therapod dinosaurs had primate-like numbers of neurons",
       "https://www.biorxiv.org/content/10.1101/2022.06.20.496834v1"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 19:03:34",
-      "https://news.ycombinator.com/item?id=34329779"
-    ],
-    [
-      "Keep CALM and CRDT on [pdf]",
-      "https://www.vldb.org/pvldb/vol16/p856-power.pdf"
     ]
   ]
 ]
