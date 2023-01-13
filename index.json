@@ -1,21 +1,11 @@
 [
   [
     [
-      "2023-01-13, 01:28:17",
-      "https://news.ycombinator.com/item?id=34362826"
-    ],
-    [
-      "Tesla's solar factory in Buffalo fizzles",
-      "https://www.investigativepost.org/2023/01/11/teslas-solar-factory-in-buffalo-fizzles/"
-    ]
-  ],
-  [
-    [
       "2023-01-13, 00:12:28",
       "https://news.ycombinator.com/item?id=34362210"
     ],
     [
-      "Loss of Epigenetic Information Can Drive Aging, Restoration Can Reverse It",
+      "Loss of epigenetic information can drive aging in mice",
       "https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse"
     ]
   ],
@@ -37,16 +27,6 @@
     [
       "Foundational knowledge is worth a thousand tools",
       "https://lucaskostka.com/posts/foundational_knowledge"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 22:51:57",
-      "https://news.ycombinator.com/item?id=34361392"
-    ],
-    [
-      "Servo’s New Home",
-      "https://servo.org/blog/2020/11/17/servo-home/"
     ]
   ],
   [
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34360179"
     ],
     [
-      "Supporting the Use of Rust in the Chromium Project",
+      "Supporting the use of Rust in the Chromium project",
       "https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html"
     ]
   ],
@@ -127,6 +107,16 @@
     [
       "Nintendo 64 Java",
       "https://www.mikekohn.net/micro/nintendo64_java.php"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 20:03:04",
+      "https://news.ycombinator.com/item?id=34359504"
+    ],
+    [
+      "Ask HN: Is TypeScript worth it?",
+      "https://news.ycombinator.com/item?id=34359504"
     ]
   ],
   [
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=34358510"
     ],
     [
-      "Liquid Democracy. Two Experiments on Delegation in Voting",
+      "Liquid democracy: two experiments on delegation in voting",
       "https://www.nber.org/papers/w30794"
     ]
   ],
@@ -271,11 +261,21 @@
   ],
   [
     [
+      "2023-01-12, 05:14:22",
+      "https://news.ycombinator.com/item?id=34349484"
+    ],
+    [
+      "Vim is touch-typing on steroids",
+      "https://www.trickster.dev/post/vim-is-touch-typing-on-steroids/"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 22:29:00",
       "https://news.ycombinator.com/item?id=34345952"
     ],
     [
-      "When the CIA spied on American citizens, using pigeons",
+      "When the CIA spied on American citizens using pigeons",
       "https://www.atlasobscura.com/articles/cia-cold-war-pigeon-spies"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=34337000"
     ],
     [
-      "Sonic: A Super-Light Alternative to Elasticsearch",
+      "Sonic: A super-light alternative to Elasticsearch",
       "https://journal.valeriansaliou.name/announcing-sonic-a-super-light-alternative-to-elasticsearch/"
     ]
   ]
