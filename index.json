@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-13, 14:09:14",
+      "https://news.ycombinator.com/item?id=34367943"
+    ],
+    [
+      "Cue Wins",
+      "https://blog.cedriccharly.com/post/20210523-how-cue-wins/"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 14:06:59",
       "https://news.ycombinator.com/item?id=34367905"
     ],
@@ -51,26 +61,6 @@
   ],
   [
     [
-      "2023-01-13, 12:08:36",
-      "https://news.ycombinator.com/item?id=34366696"
-    ],
-    [
-      "Study: Exxon Mobil Accurately Predicted Warming Since 1970s",
-      "https://www.voanews.com/a/study-exxon-mobil-accurately-predicted-warming-since-1970s-/6916612.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 12:05:12",
-      "https://news.ycombinator.com/item?id=34366666"
-    ],
-    [
-      "New study puts a number on what 'Exxon knew' decades ago about climate science",
-      "https://phys.org/news/2023-01-exxon-knew-decades-climate-science.html"
-    ]
-  ],
-  [
-    [
       "2023-01-13, 12:04:36",
       "https://news.ycombinator.com/item?id=34366657"
     ],
@@ -107,16 +97,6 @@
     [
       "Alpine.js",
       "https://alpinejs.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 09:06:22",
-      "https://news.ycombinator.com/item?id=34365494"
-    ],
-    [
-      "Care is needed to use C++ std:optional with non-trivial objects",
-      "https://lemire.me/blog/2023/01/12/care-is-needed-to-use-c-stdoptional-with-non-trivial-objects/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2023-01-12, 07:33:16",
+      "https://news.ycombinator.com/item?id=34350324"
+    ],
+    [
+      "DNS4EU",
+      "https://labs.apnic.net/index.php/2022/02/11/dns4eu/"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 07:12:08",
       "https://news.ycombinator.com/item?id=34350209"
     ],
@@ -297,6 +287,16 @@
     [
       "Therapod dinosaurs had primate-like numbers of neurons",
       "https://www.biorxiv.org/content/10.1101/2022.06.20.496834v1"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 19:03:34",
+      "https://news.ycombinator.com/item?id=34329779"
+    ],
+    [
+      "Keep CALM and CRDT on [pdf]",
+      "https://www.vldb.org/pvldb/vol16/p856-power.pdf"
     ]
   ]
 ]
