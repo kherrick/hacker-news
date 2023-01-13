@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-01-13, 16:38:36",
+      "https://news.ycombinator.com/item?id=34370192"
+    ],
+    [
+      "Strava hikes monthly subscription price by more than 25 per cent",
+      "https://www.bikeradar.com/news/strava-hikes-monthly-subscription-cost-by-more-than-25-per-cent/"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 15:58:52",
       "https://news.ycombinator.com/item?id=34369562"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2023-01-13, 03:32:52",
-      "https://news.ycombinator.com/item?id=34363642"
-    ],
-    [
-      "Write admin tools from day one (2022)",
-      "http://milwaukeemaven.blogspot.com/2022/08/write-admin-tools-from-day-one.html"
-    ]
-  ],
-  [
-    [
       "2023-01-12, 09:49:36",
       "https://news.ycombinator.com/item?id=34351304"
     ],
@@ -247,16 +247,6 @@
     [
       "DNS4EU",
       "https://labs.apnic.net/index.php/2022/02/11/dns4eu/"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 07:02:50",
-      "https://news.ycombinator.com/item?id=34350158"
-    ],
-    [
-      "Floppy Disk Museum on a Bootable Floppy serving from a 286 PC",
-      "http://floppy.museum/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Corporate legibility for software engineers",
       "https://matt.blwt.io/post/corporate-legibility-for-engineers/"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 07:17:37",
+      "https://news.ycombinator.com/item?id=34335957"
+    ],
+    [
+      "Change the destination output device in Web Audio",
+      "https://developer.chrome.com/blog/audiocontext-setsinkid/"
     ]
   ]
 ]
