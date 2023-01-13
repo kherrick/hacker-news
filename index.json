@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2023-01-13, 14:35:07",
-      "https://news.ycombinator.com/item?id=34368237"
+      "2023-01-13, 14:59:21",
+      "https://news.ycombinator.com/item?id=34368597"
     ],
     [
-      "Ask HN: We found a cracked version of our software on the web, now what?",
-      "https://news.ycombinator.com/item?id=34368237"
+      "Examples of Floating Point Problems",
+      "https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "How CUE Wins (2021)",
       "https://blog.cedriccharly.com/post/20210523-how-cue-wins/"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 14:07:54",
-      "https://news.ycombinator.com/item?id=34367920"
-    ],
-    [
-      "Despite Everything You Think You Know, America Is on the Right Track",
-      "https://www.theatlantic.com/ideas/archive/2023/01/american-optimism-productivity-innovation-rise/672714/"
     ]
   ],
   [
@@ -67,6 +57,16 @@
     [
       "Big meat can’t quit antibiotics",
       "https://www.vox.com/future-perfect/2023/1/8/23542789/big-meat-antibiotics-resistance-fda"
+    ]
+  ],
+  [
+    [
+      "2023-01-13, 13:59:41",
+      "https://news.ycombinator.com/item?id=34367780"
+    ],
+    [
+      "ABC: A C compiler for printable x86",
+      "http://tom7.org/abc/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-01-12, 09:49:36",
+      "https://news.ycombinator.com/item?id=34351304"
+    ],
+    [
+      "The sound of the dialup, pictured (2012)",
+      "https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 07:36:03",
       "https://news.ycombinator.com/item?id=34350340"
     ],
@@ -257,16 +267,6 @@
     [
       "Sometimes it actually is a kernel bug: bind() in Linux 6.0.16",
       "https://utcc.utoronto.ca/~cks/space/blog/linux/KernelBindBugIn6016"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 05:14:22",
-      "https://news.ycombinator.com/item?id=34349484"
-    ],
-    [
-      "Vim is touch-typing on steroids",
-      "https://www.trickster.dev/post/vim-is-touch-typing-on-steroids/"
     ]
   ],
   [
