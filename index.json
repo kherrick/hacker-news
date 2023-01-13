@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-13, 18:49:42",
+      "https://news.ycombinator.com/item?id=34372140"
+    ],
+    [
+      "Docker 2.0 went from $11M to $135M in 2 years",
+      "https://sacra.com/p/docker-plg-pivot/"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 18:02:44",
       "https://news.ycombinator.com/item?id=34371438"
     ],
@@ -27,6 +37,16 @@
     [
       "Learning eBPF Exploitation",
       "https://stdnoerr.github.io/writeup/2022/08/21/eBPF-exploitation-(ft.-D-3CTF-d3bpf).html"
+    ]
+  ],
+  [
+    [
+      "2023-01-13, 17:41:28",
+      "https://news.ycombinator.com/item?id=34371073"
+    ],
+    [
+      "Alpine Linux in the Browser",
+      "https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-01-13, 15:32:11",
-      "https://news.ycombinator.com/item?id=34369110"
-    ],
-    [
-      "ChatGPT Can't Kill Anything Worth Preserving",
-      "https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth"
-    ]
-  ],
-  [
-    [
       "2023-01-13, 14:59:21",
       "https://news.ycombinator.com/item?id=34368597"
     ],
@@ -127,16 +137,6 @@
     [
       "How CUE Wins (2021)",
       "https://blog.cedriccharly.com/post/20210523-how-cue-wins/"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 14:06:59",
-      "https://news.ycombinator.com/item?id=34367905"
-    ],
-    [
-      "Endemic pathogens are causing psychiatric illnesses and shortening lives",
-      "https://return.life/2022/05/endemic-pathogens/"
     ]
   ],
   [
