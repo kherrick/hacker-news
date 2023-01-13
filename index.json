@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-01-12, 23:14:38",
-      "https://news.ycombinator.com/item?id=34361607"
+      "2023-01-12, 23:19:25",
+      "https://news.ycombinator.com/item?id=34361651"
     ],
     [
-      "Ask HN: Is it legal for an employer to post as you on Slack?",
-      "https://news.ycombinator.com/item?id=34361607"
+      "Voice Doesn't Exist – Generative Voice AI",
+      "https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Foundational knowledge is worth a thousand tools",
       "https://lucaskostka.com/posts/foundational_knowledge"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 22:51:57",
+      "https://news.ycombinator.com/item?id=34361392"
+    ],
+    [
+      "Servo’s New Home",
+      "https://servo.org/blog/2020/11/17/servo-home/"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2023-01-12, 20:31:12",
-      "https://news.ycombinator.com/item?id=34359853"
-    ],
-    [
-      "Want a Viking Funeral? Only State That Allows It Is Colorado",
-      "https://cowboystatedaily.com/2023/01/11/want-a-viking-funeral-only-state-that-allows-it-is-colorado/"
-    ]
-  ],
-  [
-    [
       "2023-01-12, 20:30:22",
       "https://news.ycombinator.com/item?id=34359839"
     ],
@@ -117,16 +117,6 @@
     [
       "Niron Magnetics – powerful, rare earth-free permanent magnets",
       "https://www.nironmagnetics.com/"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 19:41:22",
-      "https://news.ycombinator.com/item?id=34359211"
-    ],
-    [
-      "CIRCL: Cloudflare Interoperable Reusable Cryptographic Library",
-      "https://github.com/cloudflare/circl"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Manage like an engineer",
       "https://ben.balter.com/2023/01/10/manage-like-an-engineer/"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 10:30:37",
+      "https://news.ycombinator.com/item?id=34337000"
+    ],
+    [
+      "Sonic: A Super-Light Alternative to Elasticsearch",
+      "https://journal.valeriansaliou.name/announcing-sonic-a-super-light-alternative-to-elasticsearch/"
     ]
   ]
 ]
