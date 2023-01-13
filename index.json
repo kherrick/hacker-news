@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-01-12, 16:09:54",
-      "https://news.ycombinator.com/item?id=34355669"
-    ],
-    [
-      "System76 AMD-Only Laptop Returns",
-      "https://system76.com/laptops/pangolin-teaser"
-    ]
-  ],
-  [
-    [
       "2023-01-12, 14:47:14",
       "https://news.ycombinator.com/item?id=34354213"
     ],
@@ -297,6 +287,16 @@
     [
       "Therapod dinosaurs had primate-like numbers of neurons",
       "https://www.biorxiv.org/content/10.1101/2022.06.20.496834v1"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 19:03:34",
+      "https://news.ycombinator.com/item?id=34329779"
+    ],
+    [
+      "Keep CALM and CRDT on [pdf]",
+      "https://www.vldb.org/pvldb/vol16/p856-power.pdf"
     ]
   ]
 ]
