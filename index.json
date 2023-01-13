@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-13, 07:09:03",
+      "https://news.ycombinator.com/item?id=34364807"
+    ],
+    [
+      "A command line tool that draw plots on the terminal",
+      "https://github.com/red-data-tools/YouPlot"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 04:35:28",
       "https://news.ycombinator.com/item?id=34363991"
     ],
@@ -177,16 +187,6 @@
     [
       "Part II: The failure points from $5M to $100M in ARR",
       "https://tracy.posthaven.com/part-ii-the-failure-points-from-$5m-to-$100m-in-arr"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 16:47:29",
-      "https://news.ycombinator.com/item?id=34356429"
-    ],
-    [
-      "Writing a TLA⁺ tree-sitter grammar: my foray into free software",
-      "https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/"
     ]
   ],
   [
