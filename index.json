@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-01-13, 14:35:07",
+      "https://news.ycombinator.com/item?id=34368237"
+    ],
+    [
+      "Ask HN: We found a cracked version of our software on the web, now what?",
+      "https://news.ycombinator.com/item?id=34368237"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 14:09:14",
       "https://news.ycombinator.com/item?id=34367943"
     ],
     [
-      "Cue Wins",
+      "How CUE Wins (2021)",
       "https://blog.cedriccharly.com/post/20210523-how-cue-wins/"
     ]
   ],
@@ -41,12 +51,32 @@
   ],
   [
     [
+      "2023-01-13, 14:01:58",
+      "https://news.ycombinator.com/item?id=34367820"
+    ],
+    [
+      "Big meat can’t quit antibiotics",
+      "https://www.vox.com/future-perfect/2023/1/8/23542789/big-meat-antibiotics-resistance-fda"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 13:58:45",
       "https://news.ycombinator.com/item?id=34367767"
     ],
     [
       "A 116kb WASM of Blink that lets you run x86_64 Linux binaries in the browser",
       "https://twitter.com/justinetunney/status/1613895681038770182"
+    ]
+  ],
+  [
+    [
+      "2023-01-13, 13:57:34",
+      "https://news.ycombinator.com/item?id=34367747"
+    ],
+    [
+      "Conversion of HP 54520C / 54540C oscilloscopes to VGA display(s)",
+      "https://github.com/blackbit42/HP54542_LCD2VGA"
     ]
   ],
   [
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2023-01-13, 12:53:26",
-      "https://news.ycombinator.com/item?id=34367036"
+      "2023-01-13, 13:30:35",
+      "https://news.ycombinator.com/item?id=34367367"
     ],
     [
-      "I deleted all my social media 3 yrs ago and I hardcore regret it everyday",
-      "https://old.reddit.com/r/nosurf/comments/107osuu/i_deleted_all_my_social_media_about_3_years_ago/"
+      "The Halo Drive: Fuel-Free Relativistic Propulsion (2019)",
+      "https://arxiv.org/abs/1903.03423"
     ]
   ],
   [
@@ -77,6 +107,16 @@
     [
       "CNET Has Been Quietly Publishing AI-Written Articles for Months",
       "https://gizmodo.com/cnet-chatgpt-ai-articles-publish-for-months-1849976921"
+    ]
+  ],
+  [
+    [
+      "2023-01-13, 11:57:46",
+      "https://news.ycombinator.com/item?id=34366610"
+    ],
+    [
+      "Ask HN: Do you hate software engineering but love programming?",
+      "https://news.ycombinator.com/item?id=34366610"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2023-01-13, 04:35:28",
-      "https://news.ycombinator.com/item?id=34363991"
-    ],
-    [
-      "Paizo Announces System-Neutral Open RPG License",
-      "https://paizo.com/community/blog/v5748dyo6si7v?Paizo-Announces-SystemNeutral-Open-RPG-License"
-    ]
-  ],
-  [
-    [
       "2023-01-13, 04:31:43",
       "https://news.ycombinator.com/item?id=34363974"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2023-01-12, 23:19:25",
-      "https://news.ycombinator.com/item?id=34361651"
-    ],
-    [
-      "This Voice Doesn't Exist – Generative Voice AI",
-      "https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/"
-    ]
-  ],
-  [
-    [
       "2023-01-12, 20:45:57",
       "https://news.ycombinator.com/item?id=34360010"
     ],
@@ -217,16 +237,6 @@
     [
       "DNS4EU",
       "https://labs.apnic.net/index.php/2022/02/11/dns4eu/"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 07:12:08",
-      "https://news.ycombinator.com/item?id=34350209"
-    ],
-    [
-      "DIY Spacecraft Models",
-      "https://science.nasa.gov/get-involved/toolkits/diy-paper-spacecraft-models"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Digital Signals",
       "https://www.sigidwiki.com/wiki/Category:Digital"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 05:32:29",
-      "https://news.ycombinator.com/item?id=34335341"
-    ],
-    [
-      "Therapod dinosaurs had primate-like numbers of neurons",
-      "https://www.biorxiv.org/content/10.1101/2022.06.20.496834v1"
     ]
   ]
 ]
