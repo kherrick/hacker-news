@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-01-14, 00:34:59",
-      "https://news.ycombinator.com/item?id=34375936"
+      "2023-01-14, 01:27:03",
+      "https://news.ycombinator.com/item?id=34376276"
     ],
     [
-      "Sergey Brin’s $100B Private Fiefdom",
-      "https://puck.news/sergey-brins-100b-private-fiefdom/"
+      "WInd3x, the iPod Bootrom exploit 10 years too late",
+      "https://q3k.org/wInd3x.html"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "How will the remaining uplift affect the Scandinavian landscape?",
       "https://geoforskning.no/hvordan-vil-gjenstaende-landheving-pavirke-landskapet-eng/"
+    ]
+  ],
+  [
+    [
+      "2023-01-13, 22:22:31",
+      "https://news.ycombinator.com/item?id=34374725"
+    ],
+    [
+      "GitHub – pi-hole/pi-hole: A black hole for Internet advertisements",
+      "https://github.com/pi-hole/pi-hole"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "What the hell is Forth? (2019)",
       "https://blog.information-superhighway.net/what-the-hell-is-forth"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 19:23:00",
-      "https://news.ycombinator.com/item?id=34372587"
-    ],
-    [
-      "Why older fathers pass on more genetic mutations to their offspring",
-      "https://www.rockefeller.edu/news/33436-why-older-fathers-pass-on-more-genetic-mutations-to-their-offspring/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-01-13, 07:43:55",
+      "https://news.ycombinator.com/item?id=34364991"
+    ],
+    [
+      "Static HTML Comments",
+      "https://sive.rs/shc"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 04:22:16",
       "https://news.ycombinator.com/item?id=34363916"
     ],
@@ -247,16 +257,6 @@
     [
       "Probletronics",
       "http://blog.karliner.net/posts/probletronics/"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 09:44:26",
-      "https://news.ycombinator.com/item?id=34351258"
-    ],
-    [
-      "Reducing Online Serving Latency from 1.11s to 123.6ms",
-      "https://ossinsight.io/blog/reduce-query-latency/"
     ]
   ],
   [
