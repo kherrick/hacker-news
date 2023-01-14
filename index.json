@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-01-14, 16:54:22",
-      "https://news.ycombinator.com/item?id=34381694"
-    ],
-    [
-      "Job interviews are a nightmare – and only getting worse",
-      "https://www.vox.com/the-goods/2023/1/12/23546379/job-interviewing-applying-exhausting-tests-employment"
-    ]
-  ],
-  [
-    [
       "2023-01-14, 16:42:38",
       "https://news.ycombinator.com/item?id=34381598"
     ],
@@ -35,8 +25,18 @@
       "https://news.ycombinator.com/item?id=34381219"
     ],
     [
-      "FAA says computer failure was caused by 2 contractors who introduced data errors",
+      "FAA says computer failure was caused by contractors who introduced data errors",
       "https://fortune.com/2023/01/13/faa-computer-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/"
+    ]
+  ],
+  [
+    [
+      "2023-01-14, 14:34:52",
+      "https://news.ycombinator.com/item?id=34380594"
+    ],
+    [
+      "Mainstream economists have completely blown the issue of working time (2001)",
+      "https://web.archive.org/web/20030605162351/http://www.straightgoods.com/item439.asp"
     ]
   ],
   [
@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-01-14, 13:59:56",
+      "https://news.ycombinator.com/item?id=34380359"
+    ],
+    [
+      "Hyprland, a dynamic tiling Wayland compositor that doesn't sacrifice on looks",
+      "https://hyprland.org/"
+    ]
+  ],
+  [
+    [
       "2023-01-14, 13:35:28",
       "https://news.ycombinator.com/item?id=34380220"
     ],
@@ -77,6 +87,16 @@
     [
       "A Dynamic Forth Compiler for WebAssembly (2018)",
       "https://el-tramo.be/blog/waforth/"
+    ]
+  ],
+  [
+    [
+      "2023-01-14, 12:58:48",
+      "https://news.ycombinator.com/item?id=34379965"
+    ],
+    [
+      "Anarchist Cookbook (1971) [pdf]",
+      "https://ia600700.us.archive.org/17/items/anarchist-cookbook-william-powell_201810/anarchist-cookbook-william-powell.pdf"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-01-13, 22:22:31",
-      "https://news.ycombinator.com/item?id=34374725"
-    ],
-    [
-      "Pi-hole: Network-wide ad blocking",
-      "https://github.com/pi-hole/pi-hole"
-    ]
-  ],
-  [
-    [
       "2023-01-13, 22:20:27",
       "https://news.ycombinator.com/item?id=34374710"
     ],
@@ -287,16 +297,6 @@
     [
       "“Expect tests” make test-writing feel like a REPL session",
       "https://blog.janestreet.com/the-joy-of-expect-tests/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 09:23:15",
-      "https://news.ycombinator.com/item?id=34336668"
-    ],
-    [
-      "Rebooting with JMP Instruction (2003)",
-      "https://susam.net/blog/rebooting-with-jmp-instruction.html"
     ]
   ]
 ]
