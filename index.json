@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-14, 17:21:01",
+      "https://news.ycombinator.com/item?id=34381944"
+    ],
+    [
+      "I Lost over $200k",
+      "https://news.ycombinator.com/item?id=34381944"
+    ]
+  ],
+  [
+    [
       "2023-01-14, 16:42:38",
       "https://news.ycombinator.com/item?id=34381598"
     ],
@@ -37,6 +47,16 @@
     [
       "FAA says computer failure was caused by contractors who introduced data errors",
       "https://fortune.com/2023/01/13/faa-computer-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/"
+    ]
+  ],
+  [
+    [
+      "2023-01-14, 15:17:06",
+      "https://news.ycombinator.com/item?id=34380914"
+    ],
+    [
+      "You can run Rust code in a Jupyter notebook",
+      "https://github.com/google/evcxr/blob/1a2d6c40c467267801c7382edfa28028f99bbd9a/evcxr_jupyter/samples/evcxr_jupyter_tour.ipynb"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-01-14, 02:29:29",
-      "https://news.ycombinator.com/item?id=34376775"
-    ],
-    [
-      "TinyEMU – x86 and RISC-V emulator, small and simple while being complete",
-      "https://bellard.org/tinyemu/"
-    ]
-  ],
-  [
-    [
       "2023-01-14, 01:27:03",
       "https://news.ycombinator.com/item?id=34376276"
     ],
@@ -257,16 +267,6 @@
     [
       "Off grid in Manhattan for 8 months",
       "https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 11:57:46",
-      "https://news.ycombinator.com/item?id=34366610"
-    ],
-    [
-      "Ask HN: Do you hate software engineering but love programming?",
-      "https://news.ycombinator.com/item?id=34366610"
     ]
   ],
   [
