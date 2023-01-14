@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-14, 20:12:56",
+      "https://news.ycombinator.com/item?id=34383720"
+    ],
+    [
+      "Stripe crushed my startup at the first whiff of success",
+      "https://news.ycombinator.com/item?id=34383720"
+    ]
+  ],
+  [
+    [
       "2023-01-14, 19:53:52",
       "https://news.ycombinator.com/item?id=34383529"
     ],
@@ -97,16 +107,6 @@
     [
       "Conversations (XMPP Client) is now a UnifiedPush distributor",
       "https://unifiedpush.org/users/distributors/conversations/"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 15:53:47",
-      "https://news.ycombinator.com/item?id=34381219"
-    ],
-    [
-      "FAA says computer failure was caused by contractors who introduced data errors",
-      "https://fortune.com/2023/01/13/faa-computer-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-01-12, 13:14:56",
+      "https://news.ycombinator.com/item?id=34352979"
+    ],
+    [
+      "Weird Ones: 30 years of Brainfuck",
+      "https://deusinmachina.substack.com/p/weird-ones-30-years-of-brainfuck"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 04:38:49",
       "https://news.ycombinator.com/item?id=34349278"
     ],
     [
       "Atari 2600 hardware design: Making something out of almost nothing",
       "https://www.bigmessowires.com/2023/01/11/atari-2600-hardware-design-making-something-out-of-almost-nothing/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 23:40:33",
-      "https://news.ycombinator.com/item?id=34346727"
-    ],
-    [
-      "“Expect tests” make test-writing feel like a REPL session",
-      "https://blog.janestreet.com/the-joy-of-expect-tests/"
     ]
   ]
 ]
