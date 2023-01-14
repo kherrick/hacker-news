@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-01-14, 19:03:47",
-      "https://news.ycombinator.com/item?id=34382976"
-    ],
-    [
-      "I don't understand terminals, shells and SSH",
-      "https://j11g.com/2023/01/14/i-dont-understand-terminals-shells-and-ssh/"
-    ]
-  ],
-  [
-    [
       "2023-01-14, 18:58:37",
       "https://news.ycombinator.com/item?id=34382908"
     ],
@@ -297,6 +287,16 @@
     [
       "Atari 2600 hardware design: Making something out of almost nothing",
       "https://www.bigmessowires.com/2023/01/11/atari-2600-hardware-design-making-something-out-of-almost-nothing/"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 23:40:33",
+      "https://news.ycombinator.com/item?id=34346727"
+    ],
+    [
+      "“Expect tests” make test-writing feel like a REPL session",
+      "https://blog.janestreet.com/the-joy-of-expect-tests/"
     ]
   ]
 ]
