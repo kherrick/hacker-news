@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-01-14, 06:35:39",
+      "https://news.ycombinator.com/item?id=34377853"
+    ],
+    [
+      "Amazon S3 now automatically encrypts all new objects",
+      "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-automatically-encrypts-new-objects/"
+    ]
+  ],
+  [
+    [
       "2023-01-14, 05:33:28",
       "https://news.ycombinator.com/item?id=34377619"
     ],
@@ -161,26 +171,6 @@
   ],
   [
     [
-      "2023-01-13, 17:44:12",
-      "https://news.ycombinator.com/item?id=34371123"
-    ],
-    [
-      "Learning eBPF Exploitation",
-      "https://stdnoerr.github.io/writeup/2022/08/21/eBPF-exploitation-(ft.-D-3CTF-d3bpf).html"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 17:41:28",
-      "https://news.ycombinator.com/item?id=34371073"
-    ],
-    [
-      "Alpine Linux in the Browser (2020)",
-      "https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192"
-    ]
-  ],
-  [
-    [
       "2023-01-13, 16:55:21",
       "https://news.ycombinator.com/item?id=34370440"
     ],
@@ -257,6 +247,16 @@
     [
       "The gotcha of unhandled promise rejections",
       "https://jakearchibald.com/2023/unhandled-rejections/"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 23:40:33",
+      "https://news.ycombinator.com/item?id=34346727"
+    ],
+    [
+      "“Expect tests” make test-writing feel like a REPL session",
+      "https://blog.janestreet.com/the-joy-of-expect-tests/"
     ]
   ],
   [
