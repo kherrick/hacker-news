@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-01-14, 18:31:12",
+      "https://news.ycombinator.com/item?id=34382635"
+    ],
+    [
+      "Feathered robotic wing paves way for flapping drones",
+      "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229338?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229338"
+    ]
+  ],
+  [
+    [
       "2023-01-14, 17:15:49",
       "https://news.ycombinator.com/item?id=34381895"
     ],
@@ -287,16 +297,6 @@
     [
       "Atari 2600 hardware design: Making something out of almost nothing",
       "https://www.bigmessowires.com/2023/01/11/atari-2600-hardware-design-making-something-out-of-almost-nothing/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 23:40:33",
-      "https://news.ycombinator.com/item?id=34346727"
-    ],
-    [
-      "“Expect tests” make test-writing feel like a REPL session",
-      "https://blog.janestreet.com/the-joy-of-expect-tests/"
     ]
   ]
 ]
