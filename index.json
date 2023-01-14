@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-01-14, 14:15:58",
-      "https://news.ycombinator.com/item?id=34380470"
-    ],
-    [
-      "A breakdown of Colorado's 'weather modification' program",
-      "https://www.outtherecolorado.com/news/a-quick-breakdown-of-colorados-weather-modification-program/article_d01b73ea-906d-11ed-8b71-9b0fe103f14e.html"
-    ]
-  ],
-  [
-    [
       "2023-01-14, 14:05:57",
       "https://news.ycombinator.com/item?id=34380388"
     ],
@@ -297,6 +287,16 @@
     [
       "Atari 2600 hardware design: Making something out of almost nothing",
       "https://www.bigmessowires.com/2023/01/11/atari-2600-hardware-design-making-something-out-of-almost-nothing/"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 23:40:33",
+      "https://news.ycombinator.com/item?id=34346727"
+    ],
+    [
+      "“Expect tests” make test-writing feel like a REPL session",
+      "https://blog.janestreet.com/the-joy-of-expect-tests/"
     ]
   ]
 ]
