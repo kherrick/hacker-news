@@ -41,12 +41,32 @@
   ],
   [
     [
+      "2023-01-14, 06:35:39",
+      "https://news.ycombinator.com/item?id=34377853"
+    ],
+    [
+      "Amazon S3 now automatically encrypts all new objects",
+      "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-automatically-encrypts-new-objects/"
+    ]
+  ],
+  [
+    [
       "2023-01-14, 06:29:18",
       "https://news.ycombinator.com/item?id=34377826"
     ],
     [
       "There Was Nothing “Wasted” About My Youth Spent Clubbing on Ecstasy",
       "https://filtermag.org/youth-clubbing-mdma-ecstasy/"
+    ]
+  ],
+  [
+    [
+      "2023-01-14, 05:33:28",
+      "https://news.ycombinator.com/item?id=34377619"
+    ],
+    [
+      "C'Dent is a new Acmeist programming language for writing portable modules (2010)",
+      "http://cdent.org/"
     ]
   ],
   [
@@ -171,6 +191,16 @@
   ],
   [
     [
+      "2023-01-13, 17:41:28",
+      "https://news.ycombinator.com/item?id=34371073"
+    ],
+    [
+      "Alpine Linux in the Browser (2020)",
+      "https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 16:55:21",
       "https://news.ycombinator.com/item?id=34370440"
     ],
@@ -221,6 +251,16 @@
   ],
   [
     [
+      "2023-01-13, 06:57:44",
+      "https://news.ycombinator.com/item?id=34364748"
+    ],
+    [
+      "Bogs, bones and bodies: the deposition of human remains in north European mires",
+      "https://www.cambridge.org/core/journals/antiquity/article/bogs-bones-and-bodies-the-deposition-of-human-remains-in-northern-european-mires-9000-bcad-1900/B90A16A211894CB87906A7BCFC0B2FC7"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 04:22:31",
       "https://news.ycombinator.com/item?id=34363918"
     ],
@@ -257,46 +297,6 @@
     [
       "“Expect tests” make test-writing feel like a REPL session",
       "https://blog.janestreet.com/the-joy-of-expect-tests/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 20:02:51",
-      "https://news.ycombinator.com/item?id=34343819"
-    ],
-    [
-      "Work queues when using messaging",
-      "https://mats3.io/patterns/work-queues/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 19:54:12",
-      "https://news.ycombinator.com/item?id=34343688"
-    ],
-    [
-      "Franz Kafka, Party Animal",
-      "https://www.newyorker.com/magazine/2023/01/16/the-diaries-of-franz-kafka-party-animal"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 09:23:15",
-      "https://news.ycombinator.com/item?id=34336668"
-    ],
-    [
-      "Rebooting with JMP Instruction (2003)",
-      "https://susam.net/blog/rebooting-with-jmp-instruction.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 07:34:23",
-      "https://news.ycombinator.com/item?id=34336044"
-    ],
-    [
-      "Formalizing Python F-Strings",
-      "https://lwn.net/SubscriberLink/919426/38b2b5aaacc9bba0/"
     ]
   ]
 ]
