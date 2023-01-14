@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-14, 16:14:44",
+      "https://news.ycombinator.com/item?id=34381379"
+    ],
+    [
+      "39 years ago, a KGB defector chillingly predicted modern America",
+      "https://bigthink.com/the-present/yuri-bezmenov/"
+    ]
+  ],
+  [
+    [
       "2023-01-14, 15:53:47",
       "https://news.ycombinator.com/item?id=34381219"
     ],
@@ -181,22 +191,22 @@
   ],
   [
     [
-      "2023-01-13, 22:22:31",
-      "https://news.ycombinator.com/item?id=34374725"
-    ],
-    [
-      "Pi-hole: Network-wide ad blocking",
-      "https://github.com/pi-hole/pi-hole"
-    ]
-  ],
-  [
-    [
       "2023-01-13, 22:20:27",
       "https://news.ycombinator.com/item?id=34374710"
     ],
     [
       "Docker-OSX: Run macOS VM in a Docker",
       "https://github.com/sickcodes/Docker-OSX"
+    ]
+  ],
+  [
+    [
+      "2023-01-13, 21:18:36",
+      "https://news.ycombinator.com/item?id=34374012"
+    ],
+    [
+      "Large Language Models as Simulated Economic Agents (2022) [pdf]",
+      "https://john-joseph-horton.com/papers/llm_ask.pdf"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Wakamai Fondue, the tool that answers the question “what can my font do?”",
       "https://wakamaifondue.com/beta/"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 07:09:01",
-      "https://news.ycombinator.com/item?id=34364806"
-    ],
-    [
-      "Sometimes it is a kernel bug: bind() in Linux 6.0.16",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/KernelBindBugIn6016"
     ]
   ],
   [
