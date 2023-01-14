@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34377619"
     ],
     [
-      "C'Dent is a new Acmeist programming language for writing portable modules",
+      "C'Dent is a new Acmeist programming language for writing portable modules (2010)",
       "http://cdent.org/"
     ]
   ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2023-01-13, 04:22:16",
-      "https://news.ycombinator.com/item?id=34363916"
-    ],
-    [
-      "Zeno’s paradox",
-      "https://joeldavidhamkins.substack.com/p/zenos-paradox"
-    ]
-  ],
-  [
-    [
       "2023-01-13, 00:06:48",
       "https://news.ycombinator.com/item?id=34362157"
     ],
@@ -297,6 +287,16 @@
     [
       "Rebooting with JMP Instruction (2003)",
       "https://susam.net/blog/rebooting-with-jmp-instruction.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 07:34:23",
+      "https://news.ycombinator.com/item?id=34336044"
+    ],
+    [
+      "Formalizing Python F-Strings",
+      "https://lwn.net/SubscriberLink/919426/38b2b5aaacc9bba0/"
     ]
   ]
 ]
