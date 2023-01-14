@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-01-14, 18:58:06",
-      "https://news.ycombinator.com/item?id=34382901"
+      "2023-01-14, 19:06:47",
+      "https://news.ycombinator.com/item?id=34383010"
     ],
     [
-      "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?",
-      "https://dl.acm.org/doi/10.1145/3442188.3445922"
+      "Ask HN: Role-model companies with the best dev culture in 2023",
+      "https://news.ycombinator.com/item?id=34383010"
     ]
   ],
   [
     [
-      "2023-01-14, 18:51:11",
-      "https://news.ycombinator.com/item?id=34382829"
+      "2023-01-14, 18:58:06",
+      "https://news.ycombinator.com/item?id=34382901"
     ],
     [
-      "Impact of breakfast skipping compared with dinner skipping",
-      "https://pubmed.ncbi.nlm.nih.gov/28490511/"
+      "On the dangers of stochastic parrots: Can language models be too big? (2021)",
+      "https://dl.acm.org/doi/10.1145/3442188.3445922"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Counting the transistors in the 8086 processor: it's harder than you might think",
       "http://www.righto.com/2023/01/counting-transistors-in-8086-processor.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-14, 18:33:12",
+      "https://news.ycombinator.com/item?id=34382655"
+    ],
+    [
+      "How to Draw Ideas",
+      "https://ralphammer.com/how-to-draw-ideas/"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2023-01-14, 14:34:52",
-      "https://news.ycombinator.com/item?id=34380594"
-    ],
-    [
-      "Remembrance of Work Time Standards Lost (2001)",
-      "https://web.archive.org/web/20030605162351/http://www.straightgoods.com/item439.asp"
-    ]
-  ],
-  [
-    [
       "2023-01-14, 14:15:58",
       "https://news.ycombinator.com/item?id=34380470"
     ],
@@ -137,16 +137,6 @@
     [
       "The 1986 Paris-Dakar rally (2021)",
       "https://www.hagerty.com/media/automotive-history/remembering-the-triumph-and-tragedy-of-the-1986-paris-dakar-rally/"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 13:01:00",
-      "https://news.ycombinator.com/item?id=34379984"
-    ],
-    [
-      "A Dynamic Forth Compiler for WebAssembly (2018)",
-      "https://el-tramo.be/blog/waforth/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Atari 2600 hardware design: Making something out of almost nothing",
       "https://www.bigmessowires.com/2023/01/11/atari-2600-hardware-design-making-something-out-of-almost-nothing/"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 23:40:33",
+      "https://news.ycombinator.com/item?id=34346727"
+    ],
+    [
+      "“Expect tests” make test-writing feel like a REPL session",
+      "https://blog.janestreet.com/the-joy-of-expect-tests/"
     ]
   ]
 ]
