@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-15, 10:30:22",
+      "https://news.ycombinator.com/item?id=34388369"
+    ],
+    [
+      "SLT – A Common Lisp Language Plugin for Jetbrains IDE Lineup",
+      "https://github.com/Enerccio/SLT"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 09:35:35",
+      "https://news.ycombinator.com/item?id=34388095"
+    ],
+    [
+      "Go FOSS: Information is power",
+      "https://gofoss.net/"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 09:27:51",
+      "https://news.ycombinator.com/item?id=34388063"
+    ],
+    [
+      "German riot police clear protesters for coal mine expansion",
+      "https://www.cnn.com/2023/01/14/europe/lutzerath-germany-coal-protests-climate-intl/index.html"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 08:37:14",
       "https://news.ycombinator.com/item?id=34387834"
     ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2023-01-15, 03:21:00",
-      "https://news.ycombinator.com/item?id=34386449"
-    ],
-    [
-      "ChatGPT scores 80% on SAT reading/writing with collective chain of thought",
-      "https://old.reddit.com/r/ChatGPT/comments/10bpzjb/chatgpt_scores_80_correct12_out_of_15_on_sample/"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 03:19:15",
       "https://news.ycombinator.com/item?id=34386443"
     ],
@@ -127,16 +147,6 @@
     [
       "CircleCI says hackers stole encryption keys and customers’ source code",
       "https://techcrunch.com/2023/01/14/circleci-hackers-stole-customer-source-code/"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 01:16:00",
-      "https://news.ycombinator.com/item?id=34385785"
-    ],
-    [
-      "Two research teams reverse signs of aging in mice",
-      "https://www.science.org/content/article/two-research-teams-reverse-signs-aging-mice"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "NASA’s Double Asteroid Redirection Test Is a Smashing Success",
       "https://eos.org/articles/nasas-double-asteroid-redirection-test-is-a-smashing-success"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 18:42:52",
-      "https://news.ycombinator.com/item?id=34382751"
-    ],
-    [
-      "Homelab analog telephone exchange",
-      "https://skagmo.com/page.php?p=projects/42_pbx"
     ]
   ],
   [
