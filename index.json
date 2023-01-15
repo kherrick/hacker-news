@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-01-15, 17:37:12",
-      "https://news.ycombinator.com/item?id=34391212"
-    ],
-    [
-      "Ask HN: How do you choose your usernames?",
-      "https://news.ycombinator.com/item?id=34391212"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 17:19:52",
       "https://news.ycombinator.com/item?id=34391045"
     ],
@@ -71,6 +61,16 @@
   ],
   [
     [
+      "2023-01-15, 16:44:07",
+      "https://news.ycombinator.com/item?id=34390725"
+    ],
+    [
+      "Subverting the Software Interview",
+      "https://nliu.net/posts/2021-03-19-interview.html"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 16:43:30",
       "https://news.ycombinator.com/item?id=34390720"
     ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=34390585"
     ],
     [
-      "How to improve Python packaging, or why 14 tools are at least 12 too many",
+      "How to improve Python packaging",
       "https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34389421"
     ],
     [
-      "How I Ruined My SEO",
+      "How I ruined my SEO",
       "https://johnnyreilly.com/2023/01/15/how-i-ruined-my-seo"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "A formula for the n’th digit of 𝜋 and 𝜋^n",
       "https://arxiv.org/abs/2201.12601"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 13:00:16",
-      "https://news.ycombinator.com/item?id=34389076"
-    ],
-    [
-      "More Than 150 Organizations Call to Close Guantánamo on 21st Anniversary",
-      "https://theintercept.com/2023/01/11/guantanamo-bay-letter-biden/"
     ]
   ],
   [
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=34388962"
     ],
     [
-      "I'm Shadow Banned by DuckDuckGo (and Bing)",
+      "I'm shadow banned by DuckDuckGo (and Bing)",
       "https://daverupert.com/2023/01/shadow-banned-by-duckduckgo-and-bing/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "The Bibites: Artificial Life Simulation",
       "https://leocaussan.itch.io/the-bibites"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 03:19:15",
+      "https://news.ycombinator.com/item?id=34386443"
+    ],
+    [
+      "Server BMCs can need to be rebooted every so often",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BMCsCanNeedRebooting"
     ]
   ]
 ]
