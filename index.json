@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-01-15, 18:40:54",
-      "https://news.ycombinator.com/item?id=34391808"
-    ],
-    [
-      "Colonoscopies save lives. Why did a trial suggest they might not?",
-      "https://www.nature.com/articles/d41586-023-00020-5"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 18:34:54",
       "https://news.ycombinator.com/item?id=34391742"
     ],
@@ -41,11 +31,21 @@
   ],
   [
     [
+      "2023-01-15, 18:16:48",
+      "https://news.ycombinator.com/item?id=34391568"
+    ],
+    [
+      "Google and Section 230: US court ruling could “turn the internet upside down”",
+      "https://www.wsj.com/articles/google-says-supreme-court-ruling-could-potentially-upend-the-internet-11673553968"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 17:58:45",
       "https://news.ycombinator.com/item?id=34391407"
     ],
     [
-      "Realistic daily range of an electric vehicle: 50% of EPA range",
+      "Realistic daily range of an electric vehicle",
       "https://blog.forret.com/2023/01/15/realistic-daily-range-ev/"
     ]
   ],
@@ -87,16 +87,6 @@
     [
       "Skio (YC S20) Is Hiring",
       "https://skio.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 16:59:00",
-      "https://news.ycombinator.com/item?id=34390878"
-    ],
-    [
-      "I can finally afford a house,Toronto man says after winning $55M lottery jackpot",
-      "https://globalnews.ca/news/9337718/toronto-man-can-afford-house-lotto-max-win/"
     ]
   ],
   [
@@ -147,16 +137,6 @@
     [
       "How to improve Python packaging",
       "https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 15:30:29",
-      "https://news.ycombinator.com/item?id=34390082"
-    ],
-    [
-      "Stable Diffusion Frivolous Litigation",
-      "http://www.stablediffusionfrivolous.com/"
     ]
   ],
   [
@@ -235,7 +215,7 @@
       "https://news.ycombinator.com/item?id=34388962"
     ],
     [
-      "I'm shadow banned by DuckDuckGo (and Bing)",
+      "I'm shadow banned by DuckDuckGo and Bing",
       "https://daverupert.com/2023/01/shadow-banned-by-duckduckgo-and-bing/"
     ]
   ],
@@ -297,6 +277,26 @@
     [
       "Ubuntu 22.04 LTS servers and phased apt updates",
       "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2204ServerPhasedUpdates"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 07:18:20",
+      "https://news.ycombinator.com/item?id=34387407"
+    ],
+    [
+      "Faster than the filesystem (2021)",
+      "https://www.sqlite.org/fasterthanfs.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 05:54:27",
+      "https://news.ycombinator.com/item?id=34387081"
+    ],
+    [
+      "Bayesian statistics and machine learning: How do they differ?",
+      "https://statmodeling.stat.columbia.edu/2023/01/14/bayesian-statistics-and-machine-learning-how-do-they-differ/"
     ]
   ]
 ]
