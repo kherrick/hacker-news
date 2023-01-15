@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-15, 23:16:30",
+      "https://news.ycombinator.com/item?id=34394738"
+    ],
+    [
+      "Common Hall-effect sensor myths",
+      "https://e2e.ti.com/blogs_/b/analogwire/posts/5-common-hall-effect-sensor-myths"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 22:33:53",
       "https://news.ycombinator.com/item?id=34394354"
     ],
@@ -37,16 +47,6 @@
     [
       "Tell HN: Windows 10 might have tricked you into using a online account",
       "https://news.ycombinator.com/item?id=34393273"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 20:56:16",
-      "https://news.ycombinator.com/item?id=34393271"
-    ],
-    [
-      "Trace your Python process line by line with minimal overhead",
-      "https://github.com/furkanonder/beetrace"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2023-01-15, 09:36:23",
+      "https://news.ycombinator.com/item?id=34388100"
+    ],
+    [
+      "Explaining the Global Chip Shortage",
+      "https://www.jabil.com/blog/global-chip-shortages.html"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 06:05:28",
       "https://news.ycombinator.com/item?id=34387134"
     ],
     [
       "A skeptic’s guide to software architecture decisions",
       "https://www.infoq.com/articles/architecture-skeptics-guide/"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 08:52:23",
-      "https://news.ycombinator.com/item?id=34378557"
-    ],
-    [
-      "BGP on Windows Desktop",
-      "https://goldensyrupgames.com/blog/2023-01-14-gobgp-windows/"
     ]
   ],
   [
