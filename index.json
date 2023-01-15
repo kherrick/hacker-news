@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2023-01-15, 19:16:36",
-      "https://news.ycombinator.com/item?id=34392193"
-    ],
-    [
-      "Gimp 2.10.32 on Apple Silicon (2022)",
-      "https://www.gimp.org/news/2022/12/02/gimp-2.10.32-apple-silicon/"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 19:06:51",
       "https://news.ycombinator.com/item?id=34392084"
     ],
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2023-01-15, 12:45:15",
+      "https://news.ycombinator.com/item?id=34388985"
+    ],
+    [
+      "Porth, It's Like Forth but in Python",
+      "https://gitlab.com/tsoding/porth"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 12:20:52",
       "https://news.ycombinator.com/item?id=34388866"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-01-15, 07:18:33",
-      "https://news.ycombinator.com/item?id=34387409"
+      "2023-01-15, 10:30:22",
+      "https://news.ycombinator.com/item?id=34388369"
     ],
     [
-      "Ubuntu 22.04 LTS servers and phased apt updates",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2204ServerPhasedUpdates"
+      "SLT – A Common Lisp Language Plugin for Jetbrains IDE Lineup",
+      "https://github.com/Enerccio/SLT"
     ]
   ],
   [
