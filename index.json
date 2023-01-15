@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2023-01-15, 19:31:43",
-      "https://news.ycombinator.com/item?id=34392391"
-    ],
-    [
-      "Apple Has Begun Scanning Your Local Image Files Without Consent",
-      "https://sneak.berlin/20230115/macos-scans-your-local-files-now/"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 19:16:36",
       "https://news.ycombinator.com/item?id=34392193"
     ],
     [
-      "Gimp 2.10.32 on Apple Silicon",
+      "Gimp 2.10.32 on Apple Silicon (2022)",
       "https://www.gimp.org/news/2022/12/02/gimp-2.10.32-apple-silicon/"
     ]
   ],
@@ -77,6 +67,16 @@
     [
       "For your next side project, make a browser extension",
       "https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 18:15:54",
+      "https://news.ycombinator.com/item?id=34391559"
+    ],
+    [
+      "How to beat lag when developing a multiplayer RTS game",
+      "https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-beat-lag-1607"
     ]
   ],
   [
