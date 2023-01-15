@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-01-14, 23:28:00",
+      "https://news.ycombinator.com/item?id=34385152"
+    ],
+    [
+      "Reasons Python Sucks",
+      "https://www.hackerfactor.com/blog/index.php?/archives/825-8-Reasons-Python-Sucks.html"
+    ]
+  ],
+  [
+    [
       "2023-01-14, 23:08:17",
       "https://news.ycombinator.com/item?id=34385043"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34384936"
     ],
     [
-      "Show HN: Robyn – the fastest Python web framework written in Rust",
+      "Show HN: Robyn – A fast, extensible async Python web server with a Rust runtime",
       "https://github.com/sansyrox/robyn"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=34384730"
     ],
     [
-      "9 Things I Learned from My 2 Year Old Baby Girl",
+      "Things I Learned from My 2 Year Old Baby Girl",
       "https://madeincosmos.substack.com/p/9-things-i-learned-from-my-2-year"
     ]
   ],
@@ -77,6 +87,26 @@
     [
       "Use.GPU Goes Trad",
       "https://acko.net/blog/use-gpu-goes-trad/"
+    ]
+  ],
+  [
+    [
+      "2023-01-14, 22:17:00",
+      "https://news.ycombinator.com/item?id=34384681"
+    ],
+    [
+      "1991: A server-side web framework written in Forth",
+      "https://www.1-9-9-1.com/"
+    ]
+  ],
+  [
+    [
+      "2023-01-14, 21:58:56",
+      "https://news.ycombinator.com/item?id=34384558"
+    ],
+    [
+      "Low THD PWM audio amp, DIY friendly",
+      "https://www.diyclassd.com/"
     ]
   ],
   [
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2023-01-14, 12:00:02",
-      "https://news.ycombinator.com/item?id=34379577"
-    ],
-    [
-      "YC's Startup School is growing and we need a product engineer",
-      "https://www.ycombinator.com/companies/y-combinator/jobs/5JHBtJd-product-engineer-startup-school"
-    ]
-  ],
-  [
-    [
       "2023-01-14, 10:33:12",
       "https://news.ycombinator.com/item?id=34379109"
     ],
     [
       "The evolution of Unix facilities and architecture (2017)",
       "https://minnie.tuhs.org/pipermail/tuhs/2017-May/011552.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 09:29:40",
-      "https://news.ycombinator.com/item?id=34378756"
-    ],
-    [
-      "Always look down in London: Pavement oddities",
-      "https://londonist.com/london/secret/look-down"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 08:35:49",
-      "https://news.ycombinator.com/item?id=34378460"
-    ],
-    [
-      "YouTube Addiction",
-      "https://www.jntrnr.com/youtube-addiction/"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2023-01-13, 08:36:38",
+      "https://news.ycombinator.com/item?id=34365307"
+    ],
+    [
+      "Power Adjustable Pedal Retrofit",
+      "https://www.idmsvcs.com/2vmod/powerpedals/index.html"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 04:26:59",
       "https://news.ycombinator.com/item?id=34363948"
     ],
@@ -287,16 +297,6 @@
     [
       "Weird Ones: 30 years of Brainfuck",
       "https://deusinmachina.substack.com/p/weird-ones-30-years-of-brainfuck"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 04:38:49",
-      "https://news.ycombinator.com/item?id=34349278"
-    ],
-    [
-      "Atari 2600 hardware design: Making something out of almost nothing",
-      "https://www.bigmessowires.com/2023/01/11/atari-2600-hardware-design-making-something-out-of-almost-nothing/"
     ]
   ]
 ]
