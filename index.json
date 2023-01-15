@@ -1,12 +1,42 @@
 [
   [
     [
-      "2023-01-15, 19:02:50",
-      "https://news.ycombinator.com/item?id=34392039"
+      "2023-01-15, 19:31:43",
+      "https://news.ycombinator.com/item?id=34392391"
     ],
     [
-      "Ask HN: Why are some Windows 11 keys so cheap?",
-      "https://news.ycombinator.com/item?id=34392039"
+      "Apple Has Begun Scanning Your Local Image Files Without Consent",
+      "https://sneak.berlin/20230115/macos-scans-your-local-files-now/"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 19:16:36",
+      "https://news.ycombinator.com/item?id=34392193"
+    ],
+    [
+      "Gimp 2.10.32 on Apple Silicon",
+      "https://www.gimp.org/news/2022/12/02/gimp-2.10.32-apple-silicon/"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 19:06:51",
+      "https://news.ycombinator.com/item?id=34392084"
+    ],
+    [
+      "NSA asks Congress to let it get on with that warrantless data harvesting, again",
+      "https://www.theregister.com/2023/01/14/in_brief_security/"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 18:54:56",
+      "https://news.ycombinator.com/item?id=34391938"
+    ],
+    [
+      "In a Moment, Mathematicians Merge Probability and Number Theory",
+      "https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/"
     ]
   ],
   [
@@ -31,12 +61,12 @@
   ],
   [
     [
-      "2023-01-15, 18:16:48",
-      "https://news.ycombinator.com/item?id=34391568"
+      "2023-01-15, 18:21:20",
+      "https://news.ycombinator.com/item?id=34391619"
     ],
     [
-      "Google and Section 230: US court ruling could “turn the internet upside down”",
-      "https://www.wsj.com/articles/google-says-supreme-court-ruling-could-potentially-upend-the-internet-11673553968"
+      "For your next side project, make a browser extension",
+      "https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-01-15, 14:00:32",
-      "https://news.ycombinator.com/item?id=34389421"
-    ],
-    [
-      "How I ruined my SEO",
-      "https://johnnyreilly.com/2023/01/15/how-i-ruined-my-seo"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 13:12:38",
       "https://news.ycombinator.com/item?id=34389145"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-01-15, 09:35:35",
-      "https://news.ycombinator.com/item?id=34388095"
-    ],
-    [
-      "Go FOSS: Information is power",
-      "https://gofoss.net/"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 07:18:33",
       "https://news.ycombinator.com/item?id=34387409"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-01-15, 07:18:20",
-      "https://news.ycombinator.com/item?id=34387407"
+      "2023-01-14, 08:52:23",
+      "https://news.ycombinator.com/item?id=34378557"
     ],
     [
-      "Faster than the filesystem (2021)",
-      "https://www.sqlite.org/fasterthanfs.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 05:54:27",
-      "https://news.ycombinator.com/item?id=34387081"
-    ],
-    [
-      "Bayesian statistics and machine learning: How do they differ?",
-      "https://statmodeling.stat.columbia.edu/2023/01/14/bayesian-statistics-and-machine-learning-how-do-they-differ/"
+      "BGP on Windows Desktop",
+      "https://goldensyrupgames.com/blog/2023-01-14-gobgp-windows/"
     ]
   ]
 ]
