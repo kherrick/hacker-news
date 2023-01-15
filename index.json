@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-01-15, 18:16:48",
-      "https://news.ycombinator.com/item?id=34391568"
+      "2023-01-15, 18:40:54",
+      "https://news.ycombinator.com/item?id=34391808"
     ],
     [
-      "Google and Section 230: US court ruling could “turn the internet upside down”",
-      "https://techaint.com/2023/01/15/google-and-section-230-us-court-ruling-could-turn-the-internet-upside-down/"
+      "Colonoscopies save lives. Why did a trial suggest they might not?",
+      "https://www.nature.com/articles/d41586-023-00020-5"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 18:34:54",
+      "https://news.ycombinator.com/item?id=34391742"
+    ],
+    [
+      "Google announces update to unlock Stadia controllers to work with other devices",
+      "https://community.stadia.com/t5/Stadia-General/A-Gift-from-the-Stadia-Team-amp-Bluetooth-Controller/m-p/85936#M34875"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 18:22:52",
+      "https://news.ycombinator.com/item?id=34391632"
+    ],
+    [
+      "DIY Raspberry / Orange Pi NAS That Looks Like a NAS – 2023 Edition",
+      "https://www.instructables.com/DIY-Raspberry-Orange-Pi-NAS-That-Really-Looks-Like/"
     ]
   ],
   [
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2023-01-15, 16:59:00",
+      "https://news.ycombinator.com/item?id=34390878"
+    ],
+    [
+      "I can finally afford a house,Toronto man says after winning $55M lottery jackpot",
+      "https://globalnews.ca/news/9337718/toronto-man-can-afford-house-lotto-max-win/"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 16:50:39",
       "https://news.ycombinator.com/item?id=34390794"
     ],
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34390725"
     ],
     [
-      "Subverting the Software Interview",
+      "Subverting the Software Interview (2021)",
       "https://nliu.net/posts/2021-03-19-interview.html"
     ]
   ],
@@ -117,16 +147,6 @@
     [
       "Stable Diffusion Frivolous Litigation",
       "http://www.stablediffusionfrivolous.com/"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 14:34:30",
-      "https://news.ycombinator.com/item?id=34389670"
-    ],
-    [
-      "Stripe clawed back pension contributions after staff cuts",
-      "https://www.businesspost.ie/news/stripe-clawed-back-pension-contributions-after-staff-cuts/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Ubuntu 22.04 LTS servers and phased apt updates",
       "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2204ServerPhasedUpdates"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 05:54:27",
-      "https://news.ycombinator.com/item?id=34387081"
-    ],
-    [
-      "Bayesian statistics and machine learning: How do they differ?",
-      "https://statmodeling.stat.columbia.edu/2023/01/14/bayesian-statistics-and-machine-learning-how-do-they-differ/"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 03:51:17",
-      "https://news.ycombinator.com/item?id=34386570"
-    ],
-    [
-      "The Bibites: Artificial Life Simulation",
-      "https://leocaussan.itch.io/the-bibites"
     ]
   ]
 ]
