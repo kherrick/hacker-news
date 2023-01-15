@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-15, 21:21:11",
+      "https://news.ycombinator.com/item?id=34393545"
+    ],
+    [
+      "Toes regrow with the help of cells at the base of the nail",
+      "https://www.nature.com/articles/d41586-022-04497-4"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 21:14:13",
       "https://news.ycombinator.com/item?id=34393485"
     ],
@@ -37,16 +47,6 @@
     [
       "Awk: Power and Promise of a 40 yr old language (2021)",
       "https://www.fosslife.org/awk-power-and-promise-40-year-old-language"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 20:37:06",
-      "https://news.ycombinator.com/item?id=34393078"
-    ],
-    [
-      "What We Know Now About Friday Night’s Near-Disaster at JFK Airport",
-      "https://viewfromthewing.com/what-we-know-now-about-friday-nights-near-disaster-at-jfk-airport/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-01-15, 12:45:15",
-      "https://news.ycombinator.com/item?id=34388985"
-    ],
-    [
-      "Porth, It's Like Forth but in Python",
-      "https://gitlab.com/tsoding/porth"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 12:20:52",
       "https://news.ycombinator.com/item?id=34388866"
     ],
@@ -277,6 +267,16 @@
     [
       "Ubuntu 22.04 LTS servers and phased apt updates",
       "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2204ServerPhasedUpdates"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 06:05:28",
+      "https://news.ycombinator.com/item?id=34387134"
+    ],
+    [
+      "A Skeptic’s Guide to Software Architecture Decisions",
+      "https://www.infoq.com/articles/architecture-skeptics-guide/"
     ]
   ],
   [
