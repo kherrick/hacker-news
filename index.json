@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-16, 03:24:11",
+      "https://news.ycombinator.com/item?id=34396443"
+    ],
+    [
+      "Use cookies and sessions (not JWTs) for authentication",
+      "https://www.mikesukmanowsky.com/blog/authentication-with-django-and-spas"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 02:54:49",
       "https://news.ycombinator.com/item?id=34396278"
     ],
@@ -17,16 +27,6 @@
     [
       "The Unreasonable Effectiveness of AWK",
       "https://stephenramsay.net/posts/unreasonable-awk.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 01:59:26",
-      "https://news.ycombinator.com/item?id=34395916"
-    ],
-    [
-      "DataFixerUpper: Incremental building and merging of data transformations",
-      "https://github.com/Mojang/DataFixerUpper"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-01-15, 12:20:52",
-      "https://news.ycombinator.com/item?id=34388866"
-    ],
-    [
-      "Ask HN: How do you trust that your personal machine is not compromised?",
-      "https://news.ycombinator.com/item?id=34388866"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 11:51:40",
       "https://news.ycombinator.com/item?id=34388735"
     ],
@@ -287,6 +277,16 @@
     [
       "A skeptic’s guide to software architecture decisions",
       "https://www.infoq.com/articles/architecture-skeptics-guide/"
+    ]
+  ],
+  [
+    [
+      "2023-01-14, 19:57:10",
+      "https://news.ycombinator.com/item?id=34383558"
+    ],
+    [
+      "‘The Beloved Vision’ Review: The Age of Musical Amateurs",
+      "https://www.wsj.com/articles/the-beloved-vision-book-review-the-age-of-musical-amateurs-11673629786"
     ]
   ],
   [
