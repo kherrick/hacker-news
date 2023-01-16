@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-16, 17:07:00",
+      "https://news.ycombinator.com/item?id=34402752"
+    ],
+    [
+      "Speeding up the JavaScript ecosystem part 2 – Module Resolution",
+      "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 17:05:56",
       "https://news.ycombinator.com/item?id=34402737"
     ],
@@ -17,6 +27,16 @@
     [
       "EasyPost (YC S13) Is Hiring",
       "https://www.easypost.com/careers"
+    ]
+  ],
+  [
+    [
+      "2023-01-16, 16:59:23",
+      "https://news.ycombinator.com/item?id=34402648"
+    ],
+    [
+      "GPT-3 Is the Best Journal I’ve Ever Used",
+      "https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Godot for AA/AAA game development – What's missing?",
       "https://godotengine.org/article/whats-missing-in-godot-for-aaa/"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 14:25:33",
-      "https://news.ycombinator.com/item?id=34400936"
-    ],
-    [
-      "Lawyers Barred by Madison Square Garden Found a Way Back In",
-      "https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.html"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-01-16, 10:00:56",
-      "https://news.ycombinator.com/item?id=34398886"
-    ],
-    [
-      "Show HN: DevClad – A social-workspace platform for developers",
-      "https://github.com/DevClad-Inc/devclad"
-    ]
-  ],
-  [
-    [
       "2023-01-16, 08:44:09",
       "https://news.ycombinator.com/item?id=34398396"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-01-15, 20:59:58",
-      "https://news.ycombinator.com/item?id=34393320"
-    ],
-    [
-      "Oops: Learning from the incident you didn't have",
-      "https://www.learningfromincidents.io/posts/oops-learning-from-the-incident-you-didnt-have"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 20:13:02",
       "https://news.ycombinator.com/item?id=34392832"
     ],
@@ -267,6 +257,16 @@
     [
       "Rendering like it's 1996 – Bitmap fonts and DOS",
       "https://marioslab.io/posts/rendering-like-its-1996/dos-nostalgia/"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 10:48:07",
+      "https://news.ycombinator.com/item?id=34388463"
+    ],
+    [
+      "Need for speed: static analysis version",
+      "https://semgrep.dev/blog/2022/static-analysis-speed"
     ]
   ],
   [
