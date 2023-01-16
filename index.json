@@ -25,18 +25,8 @@
       "https://news.ycombinator.com/item?id=34403852"
     ],
     [
-      "Amazon S3 server side encryption (SSE-S3) is misleading",
+      "The Cloud Conundrum: S3 Encryption",
       "https://www.secwale.com/p/encryption"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 18:25:06",
-      "https://news.ycombinator.com/item?id=34403795"
-    ],
-    [
-      "Trusting Fatshark with Warhammer 40k: Darktide (2020)",
-      "https://www.fatshark.se/news/2021/4/19/trusting-fatshark-with-warhammer-40000-darktide-1"
     ]
   ],
   [
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34403684"
     ],
     [
-      "Why Alexa won't wake up when she hears her name in ads (2019)",
+      "Why Alexa won't wake up when hearing \"Alexa\" in Amazon's Super Bowl ad (2019)",
       "https://www.amazon.science/blog/why-alexa-wont-wake-up-when-she-hears-her-name-in-amazons-super-bowl-ad"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34403383"
     ],
     [
-      "Late Hokusai: Thought, Technique, Society",
+      "Late Hokusai: Thought, technique, society",
       "https://www.britishmuseum.org/research/projects/late-hokusai-thought-technique-society"
     ]
   ],
@@ -97,16 +87,6 @@
     [
       "Speeding up the JavaScript ecosystem part 2 – Module Resolution",
       "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 17:05:56",
-      "https://news.ycombinator.com/item?id=34402737"
-    ],
-    [
-      "The FTC plans to curtail the use of non-compete clauses",
-      "https://www.economist.com/leaders/2023/01/12/americas-trustbusters-plan-to-curtail-the-use-of-non-compete-clauses-good"
     ]
   ],
   [
@@ -171,12 +151,12 @@
   ],
   [
     [
-      "2023-01-16, 13:09:50",
-      "https://news.ycombinator.com/item?id=34400214"
+      "2023-01-16, 13:32:23",
+      "https://news.ycombinator.com/item?id=34400435"
     ],
     [
-      "Servo to Advance in 2023",
-      "https://servo.org/blog/2023/01/16/servo-2023/"
+      "Ask HN: When to make the jump to freelance/consultant?",
+      "https://news.ycombinator.com/item?id=34400435"
     ]
   ],
   [
@@ -197,16 +177,6 @@
     [
       "Wobbly clock",
       "https://somethingorotherwhatever.com/wobble-clock/"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 11:33:11",
-      "https://news.ycombinator.com/item?id=34399598"
-    ],
-    [
-      "ASCII table and history – Or, why does Ctrl+i insert a Tab in my terminal?",
-      "https://bestasciitable.com"
     ]
   ],
   [
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2023-01-16, 06:28:43",
+      "https://news.ycombinator.com/item?id=34397514"
+    ],
+    [
+      "Selfie – A tiny RISC-V C compiler, emulator and hypervisor",
+      "http://selfie.cs.uni-salzburg.at/"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 02:18:06",
       "https://news.ycombinator.com/item?id=34396026"
     ],
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2023-01-15, 21:54:26",
+      "https://news.ycombinator.com/item?id=34393943"
+    ],
+    [
+      "The peculiar event sourced deadlock",
+      "https://jappie.me/the-peculiar-event-sourced-deadlock.html"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 21:51:01",
       "https://news.ycombinator.com/item?id=34393903"
     ],
     [
       "Will Floating Point 8 Solve AI/ML Overhead?",
       "https://semiengineering.com/will-floating-point-8-solve-ai-ml-overhead/"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 21:40:41",
+      "https://news.ycombinator.com/item?id=34393791"
+    ],
+    [
+      "Wasavi – Vi editor for any webpage",
+      "http://appsweets.net/wasavi/"
     ]
   ],
   [
