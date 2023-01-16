@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-16, 19:03:38",
+      "https://news.ycombinator.com/item?id=34404241"
+    ],
+    [
+      "GraphQL Live Queries with live directive",
+      "https://grafbase.com/blog/simplify-building-realtime-applications-with-graphql-live-queries"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 18:37:05",
       "https://news.ycombinator.com/item?id=34403942"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2023-01-16, 17:17:56",
+      "https://news.ycombinator.com/item?id=34402887"
+    ],
+    [
+      "Intel Core i9-13900T CPU benchmarks show faster than 12900K 125W performance",
+      "https://wccftech.com/intel-core-i9-13900t-cpu-benchmarks-show-faster-than-12900k-125w-performance-at-35w/"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 17:07:00",
       "https://news.ycombinator.com/item?id=34402752"
     ],
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=34402648"
     ],
     [
-      "GPT-3 Is the Best Journal I’ve Ever Used",
+      "GPT-3 is the best journal I’ve used",
       "https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used"
     ]
   ],
@@ -215,18 +235,8 @@
       "https://news.ycombinator.com/item?id=34398396"
     ],
     [
-      "The Cab Ride I'll Never Forget",
+      "A cab ride I'll never forget",
       "https://kentnerburn.com/the-cab-ride-ill-never-forget/"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 06:28:43",
-      "https://news.ycombinator.com/item?id=34397514"
-    ],
-    [
-      "Selfie – A tiny RISC-V C compiler, emulator and hypervisor",
-      "http://selfie.cs.uni-salzburg.at/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Show HN: Terra Firma, a playable erosion simulation",
       "https://store.steampowered.com/app/1482770/Terra_Firma/"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 21:54:26",
-      "https://news.ycombinator.com/item?id=34393943"
-    ],
-    [
-      "The peculiar event sourced deadlock",
-      "https://jappie.me/the-peculiar-event-sourced-deadlock.html"
     ]
   ],
   [
