@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-01-16, 12:26:12",
-      "https://news.ycombinator.com/item?id=34399923"
-    ],
-    [
-      "Customer returned $800 in books after using them to stage a home for holidays",
-      "https://www.insider.com/customer-returned-books-after-using-them-stage-home-bookstore-owner-2023-1"
-    ]
-  ],
-  [
-    [
       "2023-01-16, 12:09:02",
       "https://news.ycombinator.com/item?id=34399811"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34399598"
     ],
     [
-      "ASCII table and history – Or, why does Ctrl+I insert a Tab in my terminal?",
+      "ASCII table and history – Or, why does Ctrl+i insert a Tab in my terminal?",
       "https://bestasciitable.com"
     ]
   ],
@@ -77,6 +67,16 @@
     [
       "Granian – a Rust HTTP server for Python applications",
       "https://github.com/emmett-framework/granian"
+    ]
+  ],
+  [
+    [
+      "2023-01-16, 10:07:24",
+      "https://news.ycombinator.com/item?id=34398940"
+    ],
+    [
+      "93% of researchers refuse to honour on-request data availability policies",
+      "https://www.jclinepi.com/article/S0895-4356(22)00141-X/fulltext"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "Supporting half-precision floats is really annoying (2021)",
       "https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-16, 03:57:59",
+      "https://news.ycombinator.com/item?id=34396619"
+    ],
+    [
+      "Blogging and microblogging",
+      "https://mjg59.dreamwidth.org/64660.html"
     ]
   ],
   [
@@ -191,42 +201,12 @@
   ],
   [
     [
-      "2023-01-15, 23:16:30",
-      "https://news.ycombinator.com/item?id=34394738"
-    ],
-    [
-      "Common Hall-effect sensor myths (2022)",
-      "https://e2e.ti.com/blogs_/b/analogwire/posts/5-common-hall-effect-sensor-myths"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 22:38:52",
       "https://news.ycombinator.com/item?id=34394414"
     ],
     [
       "Windows 98 icons are great (2015)",
       "https://alexmeub.com/old-windows-icons/"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 22:33:51",
-      "https://news.ycombinator.com/item?id=34394351"
-    ],
-    [
-      "We invested 10% to pay back tech debt",
-      "https://blog.alexewerlof.com/p/tech-debt-day"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 22:33:46",
-      "https://news.ycombinator.com/item?id=34394350"
-    ],
-    [
-      "The global health-care collapse",
-      "https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse"
     ]
   ],
   [
@@ -251,12 +231,42 @@
   ],
   [
     [
+      "2023-01-15, 20:51:09",
+      "https://news.ycombinator.com/item?id=34393223"
+    ],
+    [
+      "Mammonart. An Essay on Economic Interpretation (1925)",
+      "https://en.wikipedia.org/wiki/Mammonart"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 20:13:02",
       "https://news.ycombinator.com/item?id=34392832"
     ],
     [
       "Rendering like it's 1996 – Baby's first pixel",
       "https://marioslab.io/posts/rendering-like-its-1996/babys-first-pixel/"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 18:21:20",
+      "https://news.ycombinator.com/item?id=34391619"
+    ],
+    [
+      "For your next side project, make a browser extension",
+      "https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 16:50:39",
+      "https://news.ycombinator.com/item?id=34390794"
+    ],
+    [
+      "Remastering Colin McRae Rally 3 with SilentPatch",
+      "https://cookieplmonster.github.io/2023/01/15/remastering-colin-mcrae-rally-3-silentpatch/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Interactive Music Theory Cheat Sheet",
       "https://muted.io/cheat-sheet/"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 07:13:00",
-      "https://news.ycombinator.com/item?id=34378013"
-    ],
-    [
-      "Sorting algorithms that don’t hate you",
-      "https://medium.com/@erik_68861/sorting-algorithms-that-dont-hate-you-165ba313bbc2"
     ]
   ]
 ]
