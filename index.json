@@ -1,11 +1,31 @@
 [
   [
     [
+      "2023-01-16, 12:04:05",
+      "https://news.ycombinator.com/item?id=34399787"
+    ],
+    [
+      "German defense minister announces resignation",
+      "https://www.dw.com/en/german-defense-minister-announces-resignation/a-64401401"
+    ]
+  ],
+  [
+    [
+      "2023-01-16, 11:33:11",
+      "https://news.ycombinator.com/item?id=34399598"
+    ],
+    [
+      "ASCII table and history – Or, why does Ctrl+I insert a Tab in my terminal?",
+      "https://bestasciitable.com"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 10:32:12",
       "https://news.ycombinator.com/item?id=34399142"
     ],
     [
-      "Reverse Engineering a Neural Network's Clever Solution to Binary Addition",
+      "Reverse engineering a neural network's clever solution to binary addition",
       "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34398491"
     ],
     [
-      "Gasoline Is Made of Carbon Sucked from the Air (2018)",
+      "Gasoline made of carbon sucked from the air (2018)",
       "https://www.nationalgeographic.com/science/article/carbon-engineering-liquid-fuel-carbon-capture-neutral-science"
     ]
   ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34396619"
     ],
     [
-      "Blogging and Microblogging",
+      "Blogging and microblogging",
       "https://mjg59.dreamwidth.org/64660.html"
     ]
   ],
@@ -137,6 +157,16 @@
     [
       "Misskey: An Interplanetary Microblogging Platform",
       "https://github.com/misskey-dev/misskey"
+    ]
+  ],
+  [
+    [
+      "2023-01-16, 01:27:21",
+      "https://news.ycombinator.com/item?id=34395685"
+    ],
+    [
+      "The downside to life in a supertall tower (2021)",
+      "https://www.nytimes.com/2021/02/03/realestate/luxury-high-rise-432-park.html"
     ]
   ],
   [
@@ -221,26 +251,6 @@
   ],
   [
     [
-      "2023-01-15, 20:37:34",
-      "https://news.ycombinator.com/item?id=34393085"
-    ],
-    [
-      "Awk: Power and Promise of a 40 yr old language (2021)",
-      "https://www.fosslife.org/awk-power-and-promise-40-year-old-language"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 20:37:06",
-      "https://news.ycombinator.com/item?id=34393078"
-    ],
-    [
-      "Friday night’s near-disaster at JFK airport",
-      "https://viewfromthewing.com/what-we-know-now-about-friday-nights-near-disaster-at-jfk-airport/"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 20:13:02",
       "https://news.ycombinator.com/item?id=34392832"
     ],
@@ -277,16 +287,6 @@
     [
       "Interactive Music Theory Cheat Sheet",
       "https://muted.io/cheat-sheet/"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 06:05:28",
-      "https://news.ycombinator.com/item?id=34387134"
-    ],
-    [
-      "A skeptic’s guide to software architecture decisions",
-      "https://www.infoq.com/articles/architecture-skeptics-guide/"
     ]
   ],
   [
