@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-16, 10:32:12",
+      "https://news.ycombinator.com/item?id=34399142"
+    ],
+    [
+      "Reverse Engineering a Neural Network's Clever Solution to Binary Addition",
+      "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 10:00:56",
       "https://news.ycombinator.com/item?id=34398886"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34397514"
     ],
     [
-      "selfie – A tiny RISC-V C compiler, emulator and hypervisor",
+      "Selfie – A tiny RISC-V C compiler, emulator and hypervisor",
       "http://selfie.cs.uni-salzburg.at/"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "Supporting half-precision floats is really annoying (2021)",
       "https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 03:57:59",
-      "https://news.ycombinator.com/item?id=34396619"
-    ],
-    [
-      "Blogging and Microblogging",
-      "https://mjg59.dreamwidth.org/64660.html"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2023-01-15, 20:13:02",
+      "https://news.ycombinator.com/item?id=34392832"
+    ],
+    [
+      "Rendering like it's 1996 – Baby's first pixel",
+      "https://marioslab.io/posts/rendering-like-its-1996/babys-first-pixel/"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 18:21:20",
       "https://news.ycombinator.com/item?id=34391619"
     ],
@@ -277,16 +287,6 @@
     [
       "A skeptic’s guide to software architecture decisions",
       "https://www.infoq.com/articles/architecture-skeptics-guide/"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 10:12:03",
-      "https://news.ycombinator.com/item?id=34378985"
-    ],
-    [
-      "New Sony Walkman music players feature good looks, Android 12",
-      "https://arstechnica.com/gadgets/2023/01/new-sony-walkman-music-players-feature-stunning-good-looks-android-12/"
     ]
   ],
   [
