@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-17, 23:04:06",
+      "https://news.ycombinator.com/item?id=34420789"
+    ],
+    [
+      "The Art of Knowing When to Quit",
+      "https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 22:21:43",
+      "https://news.ycombinator.com/item?id=34420306"
+    ],
+    [
+      "Hyundai Head Unit Hacking",
+      "https://xakcop.com/post/hyundai-hack-2/"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 22:10:08",
+      "https://news.ycombinator.com/item?id=34420142"
+    ],
+    [
+      "Tailscale bug allowed a person to share nodes from other tailnets without auth",
+      "https://tailscale.com/security-bulletins/#ts-2023-001/"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 22:00:58",
       "https://news.ycombinator.com/item?id=34419998"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-01-17, 16:21:39",
-      "https://news.ycombinator.com/item?id=34414420"
-    ],
-    [
-      "Conservatives think ChatGPT has gone 'woke'",
-      "https://www.vice.com/en/article/93a4qe/conservatives-panicking-about-ai-bias-years-too-late-think-chatgpt-has-gone-woke"
-    ]
-  ],
-  [
-    [
       "2023-01-17, 16:14:46",
       "https://news.ycombinator.com/item?id=34414322"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-01-17, 14:18:00",
-      "https://news.ycombinator.com/item?id=34412610"
-    ],
-    [
-      "MacBook Pro featuring M2 Pro and M2 Max",
-      "https://www.apple.com/newsroom/2023/01/apple-unveils-macbook-pro-featuring-m2-pro-and-m2-max/"
-    ]
-  ],
-  [
-    [
       "2023-01-17, 14:03:30",
       "https://news.ycombinator.com/item?id=34412444"
     ],
@@ -237,16 +247,6 @@
     [
       "Ask HN: Books that teach programming by building a series of small projects?",
       "https://news.ycombinator.com/item?id=34412069"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 09:51:44",
-      "https://news.ycombinator.com/item?id=34410776"
-    ],
-    [
-      "Why we need to know LR and recursive descent parsing techniques",
-      "https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2023-01-16, 03:05:17",
-      "https://news.ycombinator.com/item?id=34396344"
-    ],
-    [
-      "The underground cooks of Singapore’s prisons",
-      "https://www.atlasobscura.com/articles/prison-cooking-singapore"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 20:25:28",
       "https://news.ycombinator.com/item?id=34392947"
     ],
@@ -297,6 +287,16 @@
     [
       "Learning Physics With Ringworld (2010)",
       "https://www.tor.com/2010/10/18/ringworld-physics/"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 18:59:36",
+      "https://news.ycombinator.com/item?id=34391996"
+    ],
+    [
+      "A Not-So-Brief History of the United States Navy Steel Band",
+      "https://www.panonthenet.com/exclusive/2011/navy-poole-4-12-2011.htm"
     ]
   ]
 ]
