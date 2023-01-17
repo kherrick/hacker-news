@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-01-17, 20:24:13",
+      "https://news.ycombinator.com/item?id=34418372"
+    ],
+    [
+      "What’s Going on in the World of Extensions",
+      "https://blog.mozilla.org/en/products/firefox/extensions-addons/heres-whats-going-on-in-the-world-of-extensions/"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 20:21:55",
       "https://news.ycombinator.com/item?id=34418340"
     ],
     [
       "EV batteries alone could satisfy short-term grid storage demand as early as 2030",
       "https://www.nature.com/articles/s41467-022-35393-0"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 20:08:28",
+      "https://news.ycombinator.com/item?id=34418092"
+    ],
+    [
+      "Pegasus: A Spy in Your Pocket Threatens the End of Privacy",
+      "https://www.tatteredcover.com/book/9781250858696"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 19:59:39",
+      "https://news.ycombinator.com/item?id=34417936"
+    ],
+    [
+      "What Is Our Universe Expanding Into?",
+      "https://nautil.us/what-is-our-universe-expanding-into-258168/"
     ]
   ],
   [
@@ -221,6 +251,16 @@
   ],
   [
     [
+      "2023-01-17, 14:03:30",
+      "https://news.ycombinator.com/item?id=34412444"
+    ],
+    [
+      "Show HN: A tool for motion-capturing 3D characters using a VR headset",
+      "https://diegomacario.github.io/Hands-In-The-Web/public/index.html"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 13:24:59",
       "https://news.ycombinator.com/item?id=34412080"
     ],
@@ -251,52 +291,12 @@
   ],
   [
     [
-      "2023-01-17, 07:42:55",
-      "https://news.ycombinator.com/item?id=34410072"
-    ],
-    [
-      "How does it know I want CSV? – An HTTP trick",
-      "https://csvbase.com/blog/2"
-    ]
-  ],
-  [
-    [
       "2023-01-16, 03:05:17",
       "https://news.ycombinator.com/item?id=34396344"
     ],
     [
       "The Underground Cooks of Singapore’s Prisons",
       "https://www.atlasobscura.com/articles/prison-cooking-singapore"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 18:21:13",
-      "https://news.ycombinator.com/item?id=34391617"
-    ],
-    [
-      "A journey in e-commerce search",
-      "https://danpalmer.me/2023-01-15-ecommerce-search-journey/"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 16:03:08",
-      "https://news.ycombinator.com/item?id=34390348"
-    ],
-    [
-      "Faster virtual machines: Speeding up programming language execution",
-      "https://mort.coffee/home/fast-interpreters/"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 10:51:31",
-      "https://news.ycombinator.com/item?id=34388473"
-    ],
-    [
-      "Muse: Text-to-Image Generation via Masked Generative Transformers",
-      "https://muse-model.github.io/"
     ]
   ]
 ]
