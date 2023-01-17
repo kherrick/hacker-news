@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-01-16, 23:42:25",
+      "https://news.ycombinator.com/item?id=34407106"
+    ],
+    [
+      "Blaze: A high-performance C++ math library",
+      "https://bitbucket.org/blaze-lib/blaze/src/master/"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 23:08:09",
       "https://news.ycombinator.com/item?id=34406760"
     ],
     [
-      "Quitting the Rat Race",
+      "Quitting the rat race",
       "https://seanbarry.dev/posts/quitting-the-rat-race/"
     ]
   ],
@@ -21,12 +31,22 @@
   ],
   [
     [
-      "2023-01-16, 21:40:56",
-      "https://news.ycombinator.com/item?id=34405846"
+      "2023-01-16, 22:31:50",
+      "https://news.ycombinator.com/item?id=34406340"
     ],
     [
-      "Apple won’t let you use an Apple TV unless you have another Apple device?",
-      "https://twitter.com/hugelgupf/status/1614794516309118977"
+      "Show HN: Vento, a screen recorder that lets you rewind and record over mistakes",
+      "https://vento.so"
+    ]
+  ],
+  [
+    [
+      "2023-01-16, 22:11:38",
+      "https://news.ycombinator.com/item?id=34406127"
+    ],
+    [
+      "Major standard library changes in Go 1.20",
+      "https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-01-16, 16:46:36",
-      "https://news.ycombinator.com/item?id=34402481"
-    ],
-    [
-      "Using paleogenomics to elucidate 10k years of immune system evolution",
-      "https://www.pasteur.fr/en/press-area/press-documents/using-paleogenomics-elucidate-10000-years-immune-system-evolution"
-    ]
-  ],
-  [
-    [
       "2023-01-16, 15:24:51",
       "https://news.ycombinator.com/item?id=34401530"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-01-16, 10:29:50",
-      "https://news.ycombinator.com/item?id=34399125"
-    ],
-    [
-      "Granian – a Rust HTTP server for Python applications",
-      "https://github.com/emmett-framework/granian"
-    ]
-  ],
-  [
-    [
       "2023-01-16, 08:44:09",
       "https://news.ycombinator.com/item?id=34398396"
     ],
@@ -217,16 +217,6 @@
     [
       "Heat pumps of the 1800s are becoming the technology of the future",
       "https://knowablemagazine.org/article/technology/2023/heat-pumps-becoming-technology-future"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 02:18:06",
-      "https://news.ycombinator.com/item?id=34396026"
-    ],
-    [
-      "Show HN: Terra Firma, a playable erosion simulation",
-      "https://store.steampowered.com/app/1482770/Terra_Firma/"
     ]
   ],
   [
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2023-01-15, 18:56:43",
-      "https://news.ycombinator.com/item?id=34391963"
-    ],
-    [
-      "Rendering like it's 1996 – Bitmap fonts and DOS",
-      "https://marioslab.io/posts/rendering-like-its-1996/dos-nostalgia/"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 11:07:12",
       "https://news.ycombinator.com/item?id=34388533"
     ],
     [
       "MSI's (in)Secure Boot",
       "https://dawidpotocki.com/en/2023/01/13/msi-insecure-boot/"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 10:41:22",
+      "https://news.ycombinator.com/item?id=34388429"
+    ],
+    [
+      "TI-Basic interpreter written in JavaScript",
+      "https://www.davidtorosyan.com/ti-js/"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 03:21:36",
+      "https://news.ycombinator.com/item?id=34386452"
+    ],
+    [
+      "Scissors NOT Gate [video]",
+      "https://www.youtube.com/watch?v=uVS7YGSKmJM"
     ]
   ],
   [
