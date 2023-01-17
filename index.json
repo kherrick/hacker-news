@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34408985"
     ],
     [
-      "The Ecological Catastrophe You’ve Never Heard Of",
+      "The November 2020 landslide, tsunami, and outburst flood at Elliot Creek",
       "https://nautil.us/the-ecological-catastrophe-youve-never-heard-of-257291/"
     ]
   ],
@@ -25,18 +25,8 @@
       "https://news.ycombinator.com/item?id=34408680"
     ],
     [
-      "Hubble finds hungry black hole twisting captured star into donut shape",
+      "Hubble finds black hole twisting captured star into donut shape",
       "https://phys.org/news/2023-01-hubble-hungry-black-hole-captured.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 02:19:45",
-      "https://news.ycombinator.com/item?id=34408399"
-    ],
-    [
-      "Legit Startups – AI Generated Startup Websites",
-      "https://legit-startups.com/"
     ]
   ],
   [
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34408123"
     ],
     [
-      "Pretty Good House",
+      "The Pretty Good House",
       "https://www.prettygoodhouse.org"
     ]
   ],
@@ -67,6 +57,16 @@
     [
       "Blaze: A high-performance C++ math library",
       "https://bitbucket.org/blaze-lib/blaze/src/master/"
+    ]
+  ],
+  [
+    [
+      "2023-01-16, 23:08:09",
+      "https://news.ycombinator.com/item?id=34406760"
+    ],
+    [
+      "Quitting the rat race",
+      "https://seanbarry.dev/posts/quitting-the-rat-race/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Boris Yeltsin's visit to a suburban Houston supermarket in 1989 (2016)",
       "http://beelineblogger.blogspot.com/2016/01/how-supermarket-visit-brought-down.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 19:30:17",
-      "https://news.ycombinator.com/item?id=34404535"
-    ],
-    [
-      "Show HN: Cross-Platform GitHub Action",
-      "https://github.com/marketplace/actions/cross-platform-action"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2023-01-15, 21:51:01",
+      "https://news.ycombinator.com/item?id=34393903"
+    ],
+    [
+      "Will Floating Point 8 Solve AI/ML Overhead?",
+      "https://semiengineering.com/will-floating-point-8-solve-ai-ml-overhead/"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 21:40:59",
       "https://news.ycombinator.com/item?id=34393794"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=34387062"
     ],
     [
-      "Scaling Bevy Game Engine Development",
+      "Scaling Bevy Development",
       "https://bevyengine.org/news/scaling-bevy-development/"
     ]
   ],
