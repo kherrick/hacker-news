@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-17, 01:38:01",
+      "https://news.ycombinator.com/item?id=34408123"
+    ],
+    [
+      "Pretty Good House",
+      "https://www.prettygoodhouse.org"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 01:13:27",
+      "https://news.ycombinator.com/item?id=34407924"
+    ],
+    [
+      "Show HN: Otterkit – COBOL compiler for .NET",
+      "https://github.com/otterkit/otterkit"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 23:42:25",
       "https://news.ycombinator.com/item?id=34407106"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2023-01-16, 22:55:18",
-      "https://news.ycombinator.com/item?id=34406619"
+      "2023-01-16, 22:54:35",
+      "https://news.ycombinator.com/item?id=34406610"
     ],
     [
-      "How my brother's iCloud account was stolen",
-      "https://7c0h.com/blog/new/stolen_iphone.html"
+      "Programmer salaries in the age of LLMs",
+      "https://milkyeggs.com/?p=303"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Major standard library changes in Go 1.20",
       "https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/"
+    ]
+  ],
+  [
+    [
+      "2023-01-16, 21:53:33",
+      "https://news.ycombinator.com/item?id=34405962"
+    ],
+    [
+      "Show HN: Anonymous Feedback Tool for Teams",
+      "https://runsignals.com/"
     ]
   ],
   [
@@ -111,26 +141,6 @@
   ],
   [
     [
-      "2023-01-16, 17:50:46",
-      "https://news.ycombinator.com/item?id=34403383"
-    ],
-    [
-      "Late Hokusai: Thought, technique, society",
-      "https://www.britishmuseum.org/research/projects/late-hokusai-thought-technique-society"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 17:48:56",
-      "https://news.ycombinator.com/item?id=34403360"
-    ],
-    [
-      "Marriage rules in Minoan Crete revealed by ancient DNA analysis",
-      "https://phys.org/news/2023-01-marriage-minoan-crete-revealed-ancient.html"
-    ]
-  ],
-  [
-    [
       "2023-01-16, 17:17:56",
       "https://news.ycombinator.com/item?id=34402887"
     ],
@@ -147,16 +157,6 @@
     [
       "EasyPost (YC S13) Is Hiring",
       "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 15:24:51",
-      "https://news.ycombinator.com/item?id=34401530"
-    ],
-    [
-      "Godot for AA/AAA game development – What's missing?",
-      "https://godotengine.org/article/whats-missing-in-godot-for-aaa/"
     ]
   ],
   [
@@ -187,16 +187,6 @@
     [
       "Wobbly clock",
       "https://somethingorotherwhatever.com/wobble-clock/"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 10:32:12",
-      "https://news.ycombinator.com/item?id=34399142"
-    ],
-    [
-      "Reverse engineering a neural network's clever solution to binary addition",
-      "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "TI-Basic interpreter written in JavaScript",
       "https://www.davidtorosyan.com/ti-js/"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 05:49:20",
+      "https://news.ycombinator.com/item?id=34387062"
+    ],
+    [
+      "Scaling Bevy Game Engine Development",
+      "https://bevyengine.org/news/scaling-bevy-development/"
     ]
   ],
   [
