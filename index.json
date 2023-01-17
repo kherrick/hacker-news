@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-17, 10:39:02",
+      "https://news.ycombinator.com/item?id=34411018"
+    ],
+    [
+      "PHP in 2023",
+      "https://stitcher.io/blog/php-in-2023"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 09:25:27",
       "https://news.ycombinator.com/item?id=34410624"
     ],
@@ -27,6 +37,16 @@
     [
       "Memory Safety Approaches Speed Up and Slow Down Development Velocity",
       "https://verdagon.dev/blog/when-to-use-memory-safe-part-2"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 07:42:55",
+      "https://news.ycombinator.com/item?id=34410072"
+    ],
+    [
+      "How does it know I want CSV? – An HTTP trick",
+      "https://csvbase.com/blog/2"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Conditional CSS",
       "https://ishadeed.com/article/conditional-css/"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 17:58:04",
-      "https://news.ycombinator.com/item?id=34403464"
-    ],
-    [
-      "GPU Caching Compared Among AMD, Intel UHD, Apple M1",
-      "https://chipsandcheese.com/2022/05/21/igpu-cache-setups-compared-including-m1/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Scissors NOT Gate [video]",
       "https://www.youtube.com/watch?v=uVS7YGSKmJM"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 20:46:02",
-      "https://news.ycombinator.com/item?id=34384016"
-    ],
-    [
-      "The Whole Code Catalog (2019)",
-      "https://futureofcoding.org/catalog/"
     ]
   ],
   [
