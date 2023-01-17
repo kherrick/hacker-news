@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-01-17, 12:34:01",
+      "https://news.ycombinator.com/item?id=34411713"
+    ],
+    [
+      "Eating one freshwater fish equals a month of drinking ‘forever chemicals’ water",
+      "https://www.ewg.org/news-insights/news-release/2023/01/ewg-study-eating-one-freshwater-fish-equals-month-drinking"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 12:01:03",
       "https://news.ycombinator.com/item?id=34411497"
     ],
     [
       "Sirum (YC Nonprofit) Is Hiring Chief of Staff and Product Managers in Atlanta",
       "https://sirum.org/careers/"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 11:39:59",
+      "https://news.ycombinator.com/item?id=34411381"
+    ],
+    [
+      "Show HN: Cosh – concatenative command-line shell",
+      "https://github.com/tomhrr/cosh"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "We Need to Know LR and Recursive Descent Parsing Techniques",
       "https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 09:25:27",
-      "https://news.ycombinator.com/item?id=34410624"
-    ],
-    [
-      "Twitter kicking off a developer API campaign on January 16, 2023",
-      "https://carhenge.club/@mattdsteele/109700383808551139"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Major standard library changes in Go 1.20",
       "https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 18:20:31",
-      "https://news.ycombinator.com/item?id=34403742"
-    ],
-    [
-      "Conditional CSS",
-      "https://ishadeed.com/article/conditional-css/"
     ]
   ],
   [
