@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-01-17, 20:33:42",
-      "https://news.ycombinator.com/item?id=34418524"
-    ],
-    [
-      "Autopilot software boss says Tesla staged 2016 self-driving video",
-      "https://arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer/"
-    ]
-  ],
-  [
-    [
       "2023-01-17, 20:27:57",
       "https://news.ycombinator.com/item?id=34418425"
     ],
@@ -57,16 +47,6 @@
     [
       "Microsoft to lay off 11k employees",
       "https://www.reuters.com/technology/microsoft-cut-thousands-jobs-sky-news-2023-01-17/"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 19:23:45",
-      "https://news.ycombinator.com/item?id=34417336"
-    ],
-    [
-      "Losing Taiwan Means Losing Japan",
-      "https://scholars-stage.org/losing-taiwan-means-losing-japan/"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2023-01-17, 14:18:00",
+      "https://news.ycombinator.com/item?id=34412610"
+    ],
+    [
+      "MacBook Pro featuring M2 Pro and M2 Max",
+      "https://www.apple.com/newsroom/2023/01/apple-unveils-macbook-pro-featuring-m2-pro-and-m2-max/"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 14:03:30",
       "https://news.ycombinator.com/item?id=34412444"
     ],
@@ -255,8 +245,18 @@
       "https://news.ycombinator.com/item?id=34410776"
     ],
     [
-      "We Need to Know LR and Recursive Descent Parsing Techniques",
+      "Why we need to know LR and recursive descent parsing techniques",
       "https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 07:42:55",
+      "https://news.ycombinator.com/item?id=34410072"
+    ],
+    [
+      "How does it know I want CSV? – An HTTP trick",
+      "https://csvbase.com/blog/2"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=34396344"
     ],
     [
-      "The Underground Cooks of Singapore’s Prisons",
+      "The underground cooks of Singapore’s prisons",
       "https://www.atlasobscura.com/articles/prison-cooking-singapore"
     ]
   ],
