@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-01-18, 13:58:46",
+      "https://news.ycombinator.com/item?id=34426637"
+    ],
+    [
+      "Tesla’s tech stack is a testimony to the need for Open Source",
+      "https://medusajs.com/blog/tesla-open-source/"
+    ]
+  ],
+  [
+    [
       "2023-01-18, 13:36:42",
       "https://news.ycombinator.com/item?id=34426430"
     ],
     [
       "u-config: a new, lean pkg-config clone",
       "https://nullprogram.com/blog/2023/01/18/"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 13:35:31",
+      "https://news.ycombinator.com/item?id=34426421"
+    ],
+    [
+      "OpenAI Used Kenyan Workers on Less Than $2 per Hour to Make ChatGPT Less Toxic",
+      "https://time.com/6247678/openai-chatgpt-kenya-workers/"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 13:09:40",
+      "https://news.ycombinator.com/item?id=34426198"
+    ],
+    [
+      "ReactOS",
+      "https://reactos.org/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-01-17, 23:59:41",
-      "https://news.ycombinator.com/item?id=34421314"
-    ],
-    [
-      "Show HN: Summate.it – Quickly summarize web articles with OpenAI",
-      "https://summate.it/?v2"
-    ]
-  ],
-  [
-    [
       "2023-01-17, 22:58:13",
       "https://news.ycombinator.com/item?id=34420727"
     ],
@@ -197,16 +217,6 @@
     [
       "The ThinkPad TrackPoint tried to build a better mouse (2020)",
       "https://www.theverge.com/circuitbreaker/2020/6/30/21292182/thinkpad-trackpoint-mouse-nub-button-trackpad-challenges-design-user-input"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 22:10:08",
-      "https://news.ycombinator.com/item?id=34420142"
-    ],
-    [
-      "Tailscale bug allowed a person to share nodes from other tailnets without auth",
-      "https://tailscale.com/security-bulletins/#ts-2023-001/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "What's the right UX for an expired certificate?",
       "https://emilymstark.com/2023/01/16/whats-the-right-ux-for-an-expired-certificate.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 20:39:58",
-      "https://news.ycombinator.com/item?id=34405207"
-    ],
-    [
-      "I Am the Ghost Here",
-      "https://www.guernicamag.com/i-am-the-ghost-here/"
     ]
   ],
   [
