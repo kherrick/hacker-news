@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-18, 00:00:18",
+      "https://news.ycombinator.com/item?id=34421320"
+    ],
+    [
+      "A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet",
+      "https://arxiv.org/abs/2105.02723"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 23:34:14",
       "https://news.ycombinator.com/item?id=34421070"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2023-01-17, 22:34:11",
+      "https://news.ycombinator.com/item?id=34420450"
+    ],
+    [
+      "The ThinkPad TrackPoint tried to build a better mouse (2020)",
+      "https://www.theverge.com/circuitbreaker/2020/6/30/21292182/thinkpad-trackpoint-mouse-nub-button-trackpad-challenges-design-user-input"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 22:21:43",
       "https://news.ycombinator.com/item?id=34420306"
     ],
@@ -71,12 +91,22 @@
   ],
   [
     [
-      "2023-01-17, 20:24:13",
-      "https://news.ycombinator.com/item?id=34418372"
+      "2023-01-17, 21:42:13",
+      "https://news.ycombinator.com/item?id=34419723"
     ],
     [
-      "What’s going on in the world of extensions",
-      "https://blog.mozilla.org/en/products/firefox/extensions-addons/heres-whats-going-on-in-the-world-of-extensions/"
+      "We could stumble into AI catastrophe",
+      "https://forum.effectivealtruism.org/posts/yjm5CW9JdwBTFZB2B/how-we-could-stumble-into-ai-catastrophe"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 21:23:33",
+      "https://news.ycombinator.com/item?id=34419406"
+    ],
+    [
+      "Bike helmets: what the science says about an American safety obsession",
+      "https://slate.com/technology/2023/01/bike-helmets-cyclist-deaths-do-you-need-to-wear.html"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Git security vulnerabilities announced",
       "https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 18:38:54",
-      "https://news.ycombinator.com/item?id=34416682"
-    ],
-    [
-      "UT-Austin blocks access to TikTok on campus Wi-Fi networks",
-      "https://www.texastribune.org/2023/01/17/ut-austin-tiktok-ban/"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-01-17, 13:24:04",
-      "https://news.ycombinator.com/item?id=34412069"
-    ],
-    [
-      "Ask HN: Books that teach programming by building a series of small projects?",
-      "https://news.ycombinator.com/item?id=34412069"
-    ]
-  ],
-  [
-    [
       "2023-01-17, 00:08:20",
       "https://news.ycombinator.com/item?id=34407338"
     ],
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2023-01-15, 20:25:28",
-      "https://news.ycombinator.com/item?id=34392947"
-    ],
-    [
-      "The Amagasaki Derailment [video]",
-      "https://www.youtube.com/watch?v=vfWUgkWh784&list=UULFFXad0mx4WxY1fXdbvtg0CQ"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 18:59:48",
-      "https://news.ycombinator.com/item?id=34392000"
-    ],
-    [
-      "Learning Physics With Ringworld (2010)",
-      "https://www.tor.com/2010/10/18/ringworld-physics/"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 18:59:36",
       "https://news.ycombinator.com/item?id=34391996"
     ],
     [
       "A Not-So-Brief History of the United States Navy Steel Band",
       "https://www.panonthenet.com/exclusive/2011/navy-poole-4-12-2011.htm"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 04:19:54",
+      "https://news.ycombinator.com/item?id=34386682"
+    ],
+    [
+      "Dell Tried to Hide Bad Capacitors Problem 2003-2005 (2010)",
+      "https://spectrum.ieee.org/dell-tried-to-hide-bad-capacitors-problem"
     ]
   ]
 ]
