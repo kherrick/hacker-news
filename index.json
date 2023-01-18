@@ -5,28 +5,8 @@
       "https://news.ycombinator.com/item?id=34423979"
     ],
     [
-      "Meet “Claude”: Anthropic’s Rival to ChatGPT",
+      "Meet “Claude”: Anthropic’s rival to ChatGPT",
       "https://scale.com/blog/chatgpt-vs-claude"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 06:14:38",
-      "https://news.ycombinator.com/item?id=34423925"
-    ],
-    [
-      "Thinking of Hiring or Running a Booter Service? Think Again",
-      "https://krebsonsecurity.com/2023/01/thinking-of-hiring-or-running-a-booter-service-think-again/"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 05:34:23",
-      "https://news.ycombinator.com/item?id=34423737"
-    ],
-    [
-      "Fast.ai starts a corporate partnership program",
-      "https://www.fast.ai/partners.html"
     ]
   ],
   [
@@ -35,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34423590"
     ],
     [
-      "A Programmable Markup Language for Typesetting [pdf]",
+      "Typst: A Programmable Markup Language for Typesetting [pdf]",
       "https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf"
     ]
   ],
@@ -77,6 +57,16 @@
     [
       "Fast DataFrames for Ruby",
       "https://github.com/ankane/polars-ruby"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 03:03:36",
+      "https://news.ycombinator.com/item?id=34422948"
+    ],
+    [
+      "WebGL Fluid Simulation",
+      "https://paveldogreat.github.io/WebGL-Fluid-Simulation/"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2023-01-17, 17:54:26",
+      "https://news.ycombinator.com/item?id=34415889"
+    ],
+    [
+      "Common Lisp and Music Composition",
+      "https://ldbeth.sdf.org/articles/cm.html"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 16:40:29",
       "https://news.ycombinator.com/item?id=34414716"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-01-16, 03:15:10",
-      "https://news.ycombinator.com/item?id=34396402"
+      "2023-01-16, 20:37:57",
+      "https://news.ycombinator.com/item?id=34405187"
     ],
     [
-      "Faster virtual machines: Speeding up programming language execution",
-      "https://mort.coffee/home/fast-interpreters/"
+      "Dr V’s Magical Putter (2014)",
+      "https://grantland.com/features/a-mysterious-physicist-golf-club-dr-v/"
     ]
   ],
   [
