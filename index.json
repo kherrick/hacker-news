@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-01-18, 15:11:36",
+      "https://news.ycombinator.com/item?id=34427553"
+    ],
+    [
+      "Bitwarden Acquires Passwordless.dev",
+      "https://bitwarden.com/blog/bitwarden-extends-passwordless-leadership-with-acquisition/"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 15:08:36",
+      "https://news.ycombinator.com/item?id=34427504"
+    ],
+    [
+      "Times New Roman is being phased out at the State Department, replaced by Calibri",
+      "https://twitter.com/john_hudson/status/1615486867712999426"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 14:52:25",
+      "https://news.ycombinator.com/item?id=34427277"
+    ],
+    [
+      "Amazon set to begin new round of layoffs affecting over 18,000 people",
+      "https://www.cnbc.com/2023/01/18/amazon-set-to-begin-new-round-of-layoffs-affecting-over-18000-people.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 14:42:43",
+      "https://news.ycombinator.com/item?id=34427143"
+    ],
+    [
+      "Ask HN: What have you built more than twice and wish someone had built for you?",
+      "https://news.ycombinator.com/item?id=34427143"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 14:38:15",
+      "https://news.ycombinator.com/item?id=34427081"
+    ],
+    [
+      "Tar.pl – A tar creator and extractor in approx. 100 lines of Prolog",
+      "https://github.com/SuperDisk/tar.pl"
+    ]
+  ],
+  [
+    [
       "2023-01-18, 14:36:13",
       "https://news.ycombinator.com/item?id=34427055"
     ],
@@ -51,6 +101,16 @@
   ],
   [
     [
+      "2023-01-18, 13:35:31",
+      "https://news.ycombinator.com/item?id=34426421"
+    ],
+    [
+      "OpenAI used Kenyan workers on less than $2 per hour to make ChatGPT less toxic",
+      "https://time.com/6247678/openai-chatgpt-kenya-workers/"
+    ]
+  ],
+  [
+    [
       "2023-01-18, 13:09:40",
       "https://news.ycombinator.com/item?id=34426198"
     ],
@@ -91,16 +151,6 @@
   ],
   [
     [
-      "2023-01-18, 10:16:33",
-      "https://news.ycombinator.com/item?id=34425153"
-    ],
-    [
-      "Formalizing the H-Principle and Sphere Eversion",
-      "https://dl.acm.org/doi/abs/10.1145/3573105.3575688"
-    ]
-  ],
-  [
-    [
       "2023-01-18, 10:01:00",
       "https://news.ycombinator.com/item?id=34425067"
     ],
@@ -115,7 +165,7 @@
       "https://news.ycombinator.com/item?id=34424854"
     ],
     [
-      "Thonny – Python IDE for new to programming",
+      "Thonny – Python IDE for beginners",
       "https://thonny.org"
     ]
   ],
@@ -161,32 +211,12 @@
   ],
   [
     [
-      "2023-01-18, 03:45:20",
-      "https://news.ycombinator.com/item?id=34423224"
-    ],
-    [
-      "Japanese manhole mass production process [video]",
-      "https://www.youtube.com/watch?v=9OYPWgzDBxE"
-    ]
-  ],
-  [
-    [
       "2023-01-18, 03:45:05",
       "https://news.ycombinator.com/item?id=34423221"
     ],
     [
       "Fast DataFrames for Ruby",
       "https://github.com/ankane/polars-ruby"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 03:03:36",
-      "https://news.ycombinator.com/item?id=34422948"
-    ],
-    [
-      "WebGL Fluid Simulation",
-      "https://paveldogreat.github.io/WebGL-Fluid-Simulation/"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2023-01-18, 01:51:03",
-      "https://news.ycombinator.com/item?id=34422429"
-    ],
-    [
-      "Academics and the grid. Are they studying the right things?",
-      "https://judithcurry.com/2023/01/09/academics-and-the-grid-part-ii-are-they-studying-the-right-things/"
-    ]
-  ],
-  [
-    [
       "2023-01-17, 18:27:34",
       "https://news.ycombinator.com/item?id=34416467"
     ],
@@ -237,16 +257,6 @@
     [
       "Cruel optimism and lazy pessimism",
       "https://tegowerk.eu/posts/cruel-optimism/"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 16:40:29",
-      "https://news.ycombinator.com/item?id=34414716"
-    ],
-    [
-      "Let's build GPT: from scratch, in code, spelled out by Andrej Karpathy [video]",
-      "https://www.youtube.com/watch?v=kCc8FmEb1nY"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "A Human-Centered Approach to Developer Productivity",
       "https://ieeexplore.ieee.org/document/9994260"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 08:19:45",
-      "https://news.ycombinator.com/item?id=34387754"
-    ],
-    [
-      "How Blogs Broke the Web",
-      "https://stackingthebricks.com/how-blogs-broke-the-web/"
     ]
   ],
   [
