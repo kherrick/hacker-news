@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-01-18, 01:28:19",
-      "https://news.ycombinator.com/item?id=34422220"
-    ],
-    [
-      "Show HN: I made a tool, create GitHub Repository from local directory directly",
-      "https://github.com/shunak/wfh"
-    ]
-  ],
-  [
-    [
       "2023-01-18, 00:00:18",
       "https://news.ycombinator.com/item?id=34421320"
     ],
@@ -137,6 +127,16 @@
     [
       "A flurry of new studies identifies causes of the Industrial Revolution",
       "https://www.economist.com/graphic-detail/2023/01/17/a-flurry-of-new-studies-identifies-causes-of-the-industrial-revolution"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 22:34:11",
+      "https://news.ycombinator.com/item?id=34420450"
+    ],
+    [
+      "The ThinkPad TrackPoint tried to build a better mouse (2020)",
+      "https://www.theverge.com/circuitbreaker/2020/6/30/21292182/thinkpad-trackpoint-mouse-nub-button-trackpad-challenges-design-user-input"
     ]
   ],
   [
@@ -211,12 +211,22 @@
   ],
   [
     [
-      "2023-01-17, 17:54:26",
-      "https://news.ycombinator.com/item?id=34415889"
+      "2023-01-17, 17:55:01",
+      "https://news.ycombinator.com/item?id=34415901"
     ],
     [
-      "Common Lisp and Music Composition",
-      "https://ldbeth.sdf.org/articles/cm.html"
+      "In the past, I've had students call my problem sets “emotionally trying”",
+      "https://twitter.com/shengwuli/status/1614637276113563648"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 17:42:23",
+      "https://news.ycombinator.com/item?id=34415704"
+    ],
+    [
+      "The Quest for a Dumber Phone",
+      "https://every.to/cybernaut/the-quest-for-a-dumber-phone"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2023-01-17, 07:30:18",
+      "https://news.ycombinator.com/item?id=34410015"
+    ],
+    [
+      "What's the right UX for an expired certificate?",
+      "https://emilymstark.com/2023/01/16/whats-the-right-ux-for-an-expired-certificate.html"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 07:08:29",
       "https://news.ycombinator.com/item?id=34409878"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-01-16, 20:37:57",
-      "https://news.ycombinator.com/item?id=34405187"
-    ],
-    [
-      "Dr V’s Magical Putter (2014)",
-      "https://grantland.com/features/a-mysterious-physicist-golf-club-dr-v/"
-    ]
-  ],
-  [
-    [
       "2023-01-15, 23:33:38",
       "https://news.ycombinator.com/item?id=34394854"
     ],
     [
       "Venice’s lagoon of 2,000 lost boats",
       "https://www.theguardian.com/environment/2023/jan/10/venices-lagoon-of-2000-lost-boats-the-true-cost-of-dumping-small-vessels"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 04:19:54",
-      "https://news.ycombinator.com/item?id=34386682"
-    ],
-    [
-      "Dell Tried to Hide Bad Capacitors Problem 2003-2005 (2010)",
-      "https://spectrum.ieee.org/dell-tried-to-hide-bad-capacitors-problem"
     ]
   ]
 ]
