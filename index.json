@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-19, 19:19:30",
+      "https://news.ycombinator.com/item?id=34444377"
+    ],
+    [
+      "Simulation Intelligence: Towards a New Generation of Scientific Methods (2022)",
+      "https://arxiv.org/abs/2112.03235"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 19:12:17",
+      "https://news.ycombinator.com/item?id=34444294"
+    ],
+    [
+      "The Current Secrets Rotation Process Is Broken",
+      "https://www.doppler.com/blog/the-current-secrets-rotation-process-is-broken"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 19:11:44",
+      "https://news.ycombinator.com/item?id=34444286"
+    ],
+    [
+      "Show HN: DALL-E for Playlists",
+      "https://www.naturallanguageplaylist.com/"
+    ]
+  ],
+  [
+    [
       "2023-01-19, 19:04:15",
       "https://news.ycombinator.com/item?id=34444177"
     ],
@@ -11,22 +41,22 @@
   ],
   [
     [
+      "2023-01-19, 19:01:14",
+      "https://news.ycombinator.com/item?id=34444129"
+    ],
+    [
+      "Introducing Rust Support in CodeSandbox, start a Rust VM in one click",
+      "https://codesandbox.io/blog/announcing-rust-support-in-codesandbox"
+    ]
+  ],
+  [
+    [
       "2023-01-19, 18:37:18",
       "https://news.ycombinator.com/item?id=34443813"
     ],
     [
       "Exploiting null-dereferences in the Linux kernel",
       "https://googleprojectzero.blogspot.com/2023/01/exploiting-null-dereferences-in-linux.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 18:21:29",
-      "https://news.ycombinator.com/item?id=34443629"
-    ],
-    [
-      "Tell HN: Coinbase is a joke (product and support)",
-      "https://news.ycombinator.com/item?id=34443629"
     ]
   ],
   [
@@ -87,26 +117,6 @@
     [
       "A first person shooter in 571 lines of GNU Awk (2017)",
       "https://github.com/TheMozg/awk-raycaster"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 16:44:51",
-      "https://news.ycombinator.com/item?id=34442360"
-    ],
-    [
-      "GitHub Pages is currently degraded",
-      "https://www.githubstatus.com/incidents/n18j5g7wpg0s"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 16:37:33",
-      "https://news.ycombinator.com/item?id=34442228"
-    ],
-    [
-      "WhatsApp fined 5.5M euro by lead EU privacy regulator",
-      "https://www.reuters.com/technology/metas-whatsapp-fined-55-mln-euro-by-lead-eu-privacy-regulator-2023-01-19/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "The Story of Microsleep (2012)",
       "https://scalibq.wordpress.com/2012/03/27/the-story-of-microsleep/"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 08:45:36",
-      "https://news.ycombinator.com/item?id=34438115"
-    ],
-    [
-      "Pandoc 3.0",
-      "https://pandoc.org/releases.html"
     ]
   ],
   [
