@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-01-19, 13:52:01",
+      "https://news.ycombinator.com/item?id=34440228"
+    ],
+    [
+      "Nationwide FAA weather reporting outage",
+      "https://www.nco.ncep.noaa.gov/status/messages/"
+    ]
+  ],
+  [
+    [
       "2023-01-19, 13:01:45",
       "https://news.ycombinator.com/item?id=34439830"
     ],
     [
-      "Folders with High File Counts",
+      "Folders with high file counts",
       "https://bombich.com/blog/2023/01/18/folders-high-file-counts"
     ]
   ],
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2023-01-18, 22:51:12",
-      "https://news.ycombinator.com/item?id=34434249"
-    ],
-    [
-      "Show HN: Unblob – extraction suite for 30+ file formats",
-      "https://github.com/onekey-sec/unblob"
-    ]
-  ],
-  [
-    [
       "2023-01-18, 22:33:21",
       "https://news.ycombinator.com/item?id=34434083"
     ],
     [
       "A toxin that helps oyster mushrooms devour worm flesh",
       "https://www.nytimes.com/2023/01/18/science/oyster-mushrooms-carnivorous-toxins.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 22:29:31",
-      "https://news.ycombinator.com/item?id=34434042"
-    ],
-    [
-      "Boston Dynamics’ bipedal robot Atlas can now grab and toss",
-      "https://www.theverge.com/23560592/boston-dynamics-atlas-robot-bipedal-work-video-construction-site"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Roger Linn on Swing, Groove and the Magic of the MPC's Timing",
       "https://www.attackmagazine.com/features/interview/roger-linn-swing-groove-magic-mpc-timing/"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 02:02:15",
+      "https://news.ycombinator.com/item?id=34422519"
+    ],
+    [
+      "sudo make install",
+      "https://bvnf.space/blog/008-sudo-make-install.html"
     ]
   ],
   [
