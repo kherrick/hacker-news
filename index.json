@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-01-19, 21:29:32",
+      "https://news.ycombinator.com/item?id=34445873"
+    ],
+    [
+      "ChatRWKV, like ChatGPT but powered by the RWKV (RNN-based, open) language model",
+      "https://github.com/BlinkDL/ChatRWKV"
+    ]
+  ],
+  [
+    [
       "2023-01-19, 21:15:09",
       "https://news.ycombinator.com/item?id=34445702"
     ],
@@ -97,16 +107,6 @@
     [
       "Simulation Intelligence: Towards a New Generation of Scientific Methods (2022)",
       "https://arxiv.org/abs/2112.03235"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 19:17:38",
-      "https://news.ycombinator.com/item?id=34444353"
-    ],
-    [
-      "The X-Y Problem",
-      "http://mywiki.wooledge.org/XyProblem"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-01-18, 08:56:58",
+      "https://news.ycombinator.com/item?id=34424767"
+    ],
+    [
+      "Codex – Find and Replace for Code",
+      "https://codex-kappa-dusky.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2023-01-18, 07:03:34",
       "https://news.ycombinator.com/item?id=34424150"
     ],
     [
       "IBM Quantum System Two",
       "https://newsroom.ibm.com/2022-11-09-IBM-Unveils-400-Qubit-Plus-Quantum-Processor-and-Next-Generation-IBM-Quantum-System-Two"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 05:50:23",
-      "https://news.ycombinator.com/item?id=34423813"
-    ],
-    [
-      "Rapid-fire laser diverts lightning strikes",
-      "https://www.nature.com/articles/d41586-023-00080-7"
     ]
   ]
 ]
