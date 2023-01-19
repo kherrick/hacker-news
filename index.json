@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2023-01-19, 21:15:09",
+      "https://news.ycombinator.com/item?id=34445702"
+    ],
+    [
+      "Twitterrific has been discontinued",
+      "https://blog.iconfactory.com/2023/01/twitterrific-end-of-an-era/"
+    ]
+  ],
+  [
+    [
       "2023-01-19, 21:05:26",
       "https://news.ycombinator.com/item?id=34445602"
     ],
     [
       "CVE-2023-22809: Sudoedit can edit arbitrary files",
       "https://seclists.org/oss-sec/2023/q1/42"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 21:03:02",
+      "https://news.ycombinator.com/item?id=34445578"
+    ],
+    [
+      "Netflix co-founder Reed Hastings to step down from co-CEO",
+      "https://www.ft.com/content/166a7cac-ca72-4a6e-ab0a-48bcb8cef355"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "ZeroSSL: XSS to session hijacking, stealing a private key (and password hash)",
       "https://groups.google.com/a/ccadb.org/g/public/c/kqtoGeEv5Fc"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 20:39:20",
-      "https://news.ycombinator.com/item?id=34445297"
-    ],
-    [
-      "Show HN: Fully LLM powered code repair – fix and explain your code in seconds",
-      "http://www.useadrenaline.com"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "AcousticBrainz: Making a hard decision to end the project (2022)",
       "https://blog.metabrainz.org/2022/02/16/acousticbrainz-making-a-hard-decision-to-end-the-project/"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 09:09:43",
-      "https://news.ycombinator.com/item?id=34438251"
-    ],
-    [
-      "Pwned or Bot",
-      "https://www.troyhunt.com/pwned-or-bot/"
     ]
   ],
   [
