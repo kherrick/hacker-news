@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-01-19, 21:00:35",
+      "https://news.ycombinator.com/item?id=34445538"
+    ],
+    [
+      "Emerge (YC W21) is hiring engineers to build the future of mobile development",
+      "https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 20:57:13",
+      "https://news.ycombinator.com/item?id=34445498"
+    ],
+    [
+      "US Supreme Court releases leak investigation report",
+      "https://www.supremecourt.gov/publicinfo/press/pressreleases/pr_01-19-23"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 20:45:12",
+      "https://news.ycombinator.com/item?id=34445367"
+    ],
+    [
+      "Ultibo – Bare-Metal Pascal for Raspberry Pi",
+      "https://ultibo.org/make/"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 20:40:02",
+      "https://news.ycombinator.com/item?id=34445305"
+    ],
+    [
+      "ZeroSSL: XSS to session hijacking, stealing a private key (and password hash)",
+      "https://groups.google.com/a/ccadb.org/g/public/c/kqtoGeEv5Fc"
+    ]
+  ],
+  [
+    [
       "2023-01-19, 20:10:20",
       "https://news.ycombinator.com/item?id=34444980"
     ],
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2023-01-19, 19:01:14",
-      "https://news.ycombinator.com/item?id=34444129"
-    ],
-    [
-      "Introducing Rust Support in CodeSandbox, start a Rust VM in one click",
-      "https://codesandbox.io/blog/announcing-rust-support-in-codesandbox"
-    ]
-  ],
-  [
-    [
       "2023-01-19, 18:45:41",
       "https://news.ycombinator.com/item?id=34443915"
     ],
@@ -107,16 +137,6 @@
     [
       "Amazon ends charity donation program AmazonSmile",
       "https://techcrunch.com/2023/01/19/amazon-ends-charity-donation-program-amazonsmile/"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 17:00:31",
-      "https://news.ycombinator.com/item?id=34442614"
-    ],
-    [
-      "Tesorio (YC S15) Is Hiring a Senior DevOps in Latam. Join Our 100% Distributed Team",
-      "https://jobs.lever.co/tesorio/50fed114-0b83-4a2a-91ec-c5a9cda58cbd"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-01-19, 12:13:29",
-      "https://news.ycombinator.com/item?id=34439494"
-    ],
-    [
-      "Batch Box Rocket Stove: Ergonomic, Efficient Wood Combustion",
-      "https://batchrocket.eu/en/"
-    ]
-  ],
-  [
-    [
       "2023-01-19, 12:07:47",
       "https://news.ycombinator.com/item?id=34439461"
     ],
@@ -247,16 +257,6 @@
     [
       "Pwned or Bot",
       "https://www.troyhunt.com/pwned-or-bot/"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 08:45:36",
-      "https://news.ycombinator.com/item?id=34438115"
-    ],
-    [
-      "Pandoc 3.0",
-      "https://pandoc.org/releases.html"
     ]
   ],
   [
