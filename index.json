@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-01-19, 00:52:27",
+      "https://news.ycombinator.com/item?id=34435338"
+    ],
+    [
+      "Amazon Closing AmazonSmile",
+      "https://www.aboutamazon.com/news/company-news/amazon-closing-amazonsmile-to-focus-its-philanthropic-giving-to-programs-with-greater-impact"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 23:27:22",
+      "https://news.ycombinator.com/item?id=34434636"
+    ],
+    [
+      "Things I’ve learned in my years as a software engineer",
+      "https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/"
+    ]
+  ],
+  [
+    [
       "2023-01-18, 22:51:12",
       "https://news.ycombinator.com/item?id=34434249"
     ],
     [
       "Show HN: Unblob – extraction suite for 30+ file formats",
       "https://github.com/onekey-sec/unblob"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 22:29:31",
+      "https://news.ycombinator.com/item?id=34434042"
+    ],
+    [
+      "Boston Dynamics’ bipedal robot Atlas can now grab and toss",
+      "https://www.theverge.com/23560592/boston-dynamics-atlas-robot-bipedal-work-video-construction-site"
     ]
   ],
   [
@@ -61,26 +91,6 @@
   ],
   [
     [
-      "2023-01-18, 20:51:03",
-      "https://news.ycombinator.com/item?id=34432899"
-    ],
-    [
-      "Techniques for evaluating character",
-      "https://tedgioia.substack.com/p/my-8-best-techniques-for-evaluating"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 20:43:57",
-      "https://news.ycombinator.com/item?id=34432809"
-    ],
-    [
-      "Show HN: Codeium: Free Copilot Alternative for Vim / Neovim",
-      "https://github.com/Exafunction/codeium.vim"
-    ]
-  ],
-  [
-    [
       "2023-01-18, 20:38:58",
       "https://news.ycombinator.com/item?id=34432735"
     ],
@@ -91,32 +101,12 @@
   ],
   [
     [
-      "2023-01-18, 20:14:36",
-      "https://news.ycombinator.com/item?id=34432385"
-    ],
-    [
-      "Unexpected ways generative AI will change how you work forever",
-      "https://maestroai.substack.com/p/generative-ai-and-the-future-of-work"
-    ]
-  ],
-  [
-    [
       "2023-01-18, 20:12:45",
       "https://news.ycombinator.com/item?id=34432364"
     ],
     [
-      "Gitlab Personas",
+      "Personas",
       "https://about.gitlab.com/handbook/product/personas/"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 19:41:41",
-      "https://news.ycombinator.com/item?id=34431908"
-    ],
-    [
-      "Salesforce, but for Dating",
-      "https://dateforce.app/"
     ]
   ],
   [
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=34431056"
     ],
     [
-      "GPUs for Deep Learning in 2023 – An In-depth Analysis",
+      "Which GPU(s) to get for deep learning",
       "https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34430390"
     ],
     [
-      "New Norwegian land could emerge from The Atlantic Ocean",
+      "New Norwegian land could emerge from the Atlantic Ocean",
       "https://sciencenorway.no/geology-seabed-volcanoes/new-norwegian-land-could-emerge-from-the-atlantic-ocean/2139271"
     ]
   ],
@@ -167,26 +157,6 @@
     [
       "QuestPDF: Modern .NET library for PDF document generation",
       "https://github.com/QuestPDF/QuestPDF"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 17:10:00",
-      "https://news.ycombinator.com/item?id=34429502"
-    ],
-    [
-      "U.S. military-run slot machines earn $100M a year from service members",
-      "https://www.npr.org/2022/07/31/1110882487/dod-slot-machines-overseas-bases"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 16:56:43",
-      "https://news.ycombinator.com/item?id=34429307"
-    ],
-    [
-      "The Power of Proto Boards [video]",
-      "https://www.youtube.com/watch?v=A5BXMILt49s"
     ]
   ],
   [
@@ -221,52 +191,82 @@
   ],
   [
     [
+      "2023-01-18, 15:08:36",
+      "https://news.ycombinator.com/item?id=34427504"
+    ],
+    [
+      "Times New Roman is being phased out at the State Department, replaced by Calibri",
+      "https://twitter.com/john_hudson/status/1615486867712999426"
+    ]
+  ],
+  [
+    [
       "2023-01-18, 14:38:15",
       "https://news.ycombinator.com/item?id=34427081"
     ],
     [
-      "Tar.pl – A tar creator and extractor in approx. 100 lines of Prolog",
+      "Tar.pl – A tar creator and extractor in ~130 lines of Prolog",
       "https://github.com/SuperDisk/tar.pl"
     ]
   ],
   [
     [
-      "2023-01-18, 10:01:00",
-      "https://news.ycombinator.com/item?id=34425067"
+      "2023-01-18, 13:19:09",
+      "https://news.ycombinator.com/item?id=34426275"
     ],
     [
-      "Hello, PNG",
-      "https://www.da.vidbuchanan.co.uk/blog/hello-png.html"
+      "Knots to Narnia – Bill Thurston (1992) [video]",
+      "https://www.youtube.com/watch?v=IKSrBt2kFD4"
     ]
   ],
   [
     [
-      "2023-01-18, 09:15:33",
-      "https://news.ycombinator.com/item?id=34424854"
+      "2023-01-18, 12:03:59",
+      "https://news.ycombinator.com/item?id=34425734"
     ],
     [
-      "Thonny – Python IDE for beginners",
-      "https://thonny.org"
+      "GeoServer is an open source server for sharing geospatial data",
+      "https://geoserver.org/"
     ]
   ],
   [
     [
-      "2023-01-18, 01:42:15",
-      "https://news.ycombinator.com/item?id=34422345"
+      "2023-01-18, 10:11:49",
+      "https://news.ycombinator.com/item?id=34425132"
     ],
     [
-      "Connected and Autonomous Vehicle Highways",
-      "https://www.cavway.com/"
+      "A Robust Theory of Series Parallel Graphs",
+      "https://dl.acm.org/doi/pdf/10.1145/3571230"
     ]
   ],
   [
     [
-      "2023-01-18, 00:26:26",
-      "https://news.ycombinator.com/item?id=34421569"
+      "2023-01-18, 08:56:58",
+      "https://news.ycombinator.com/item?id=34424767"
     ],
     [
-      "The Renaissance Lets Its Hair Down",
-      "https://daily.jstor.org/the-renaissance-lets-its-hair-down/"
+      "Show HN: Codex – Find and Replace for Code",
+      "https://codex-kappa-dusky.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 02:18:35",
+      "https://news.ycombinator.com/item?id=34422646"
+    ],
+    [
+      "The Radical Design of PizzaExpress",
+      "https://vittles.substack.com/p/the-radical-design-of-pizzaexpress"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 00:48:46",
+      "https://news.ycombinator.com/item?id=34421804"
+    ],
+    [
+      "How to Swim Against the Stream: On Diogenes",
+      "https://lareviewofbooks.org/article/how-to-swim-against-the-stream-on-diogenes/"
     ]
   ],
   [
@@ -285,18 +285,18 @@
       "https://news.ycombinator.com/item?id=34416839"
     ],
     [
-      "‘The One’ Review: Platonic Particles and Waves of History",
+      "‘The One’: Platonic particles and waves of history",
       "https://www.wsj.com/articles/the-one-review-platonic-particles-and-waves-of-history-11673628851"
     ]
   ],
   [
     [
-      "2023-01-17, 18:01:33",
-      "https://news.ycombinator.com/item?id=34416027"
+      "2023-01-17, 16:06:09",
+      "https://news.ycombinator.com/item?id=34414193"
     ],
     [
-      "Understanding Impedance (2003)",
-      "https://www.soundonsound.com/techniques/understanding-impedance"
+      "Software testing, and why I'm unhappy about it",
+      "http://nhaehnle.blogspot.com/2023/01/software-testing-and-why-im-unhappy.html"
     ]
   ]
 ]
