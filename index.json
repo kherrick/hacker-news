@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-19, 04:14:33",
+      "https://news.ycombinator.com/item?id=34436625"
+    ],
+    [
+      "Short, friendly base32 slugs from timestamps",
+      "https://brandur.org/fragments/base32-slugs"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 04:12:23",
+      "https://news.ycombinator.com/item?id=34436616"
+    ],
+    [
+      "Driver of Tesla killed after slamming into semi-truck in Victorville",
+      "https://www.vvng.com/driver-of-tesla-killed-after-slamming-into-back-of-semi-truck-in-victorville/"
+    ]
+  ],
+  [
+    [
       "2023-01-19, 03:18:25",
       "https://news.ycombinator.com/item?id=34436311"
     ],
@@ -87,16 +107,6 @@
     [
       "HC-tree is an experimental high-concurrency database back end for SQLite",
       "https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 22:20:15",
-      "https://news.ycombinator.com/item?id=34433950"
-    ],
-    [
-      "An aggressive, stealthy web spider operating from Microsoft IP space",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/AggressiveStealthyWebSpider"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Tar.pl – A tar creator and extractor in ~130 lines of Prolog",
       "https://github.com/SuperDisk/tar.pl"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 13:19:09",
-      "https://news.ycombinator.com/item?id=34426275"
-    ],
-    [
-      "Knots to Narnia – Bill Thurston (1992) [video]",
-      "https://www.youtube.com/watch?v=IKSrBt2kFD4"
     ]
   ],
   [
