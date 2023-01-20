@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-20, 11:34:15",
+      "https://news.ycombinator.com/item?id=34451679"
+    ],
+    [
+      "Not worried about AI that passes Turing test, but AI that fails it on purpose",
+      "https://old.reddit.com/r/C_S_T/comments/ae288t/im_not_worried_about_the_ai_that_can_pass_the/"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 11:21:25",
+      "https://news.ycombinator.com/item?id=34451566"
+    ],
+    [
+      "The Myth of the Myth of the 10x Programmer (2020)",
+      "https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 11:06:15",
+      "https://news.ycombinator.com/item?id=34451454"
+    ],
+    [
+      "A different approach to building C++ projects",
+      "https://rachelbythebay.com/bb/"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 10:55:30",
       "https://news.ycombinator.com/item?id=34451344"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-01-19, 21:59:01",
-      "https://news.ycombinator.com/item?id=34446251"
-    ],
-    [
-      "DiscoBSD: 2.11BSD-Based OS for STM32 and PIC32 Microcontrollers",
-      "https://github.com/chettrick/discobsd"
-    ]
-  ],
-  [
-    [
       "2023-01-19, 21:30:32",
       "https://news.ycombinator.com/item?id=34445888"
     ],
@@ -197,16 +217,6 @@
     [
       "Sudoedit can edit arbitrary files",
       "https://seclists.org/oss-sec/2023/q1/42"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 21:00:35",
-      "https://news.ycombinator.com/item?id=34445538"
-    ],
-    [
-      "Emerge (YC W21) is hiring engineers to build the future of mobile development",
-      "https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "A first person shooter in 571 lines of GNU Awk (2016)",
       "https://github.com/TheMozg/awk-raycaster"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 15:56:43",
-      "https://news.ycombinator.com/item?id=34441672"
-    ],
-    [
-      "Another Tale of IBM I (AS/400) Hacking (2022)",
-      "https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/"
     ]
   ],
   [
