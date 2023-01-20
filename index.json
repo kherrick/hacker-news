@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-20, 10:38:54",
+      "https://news.ycombinator.com/item?id=34451178"
+    ],
+    [
+      "Revisiting Apple’s ill-fated Lisa computer, 40 years on",
+      "https://arstechnica.com/gadgets/2023/01/revisiting-apples-ill-fated-lisa-computer-40-years-on/"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 10:23:47",
       "https://news.ycombinator.com/item?id=34451069"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-01-20, 04:47:43",
-      "https://news.ycombinator.com/item?id=34449365"
-    ],
-    [
-      "PhD training is no longer fit for purpose – it needs reform now",
-      "https://www.nature.com/articles/d41586-023-00084-3"
-    ]
-  ],
-  [
-    [
       "2023-01-20, 03:30:57",
       "https://news.ycombinator.com/item?id=34448858"
     ],
@@ -157,6 +157,16 @@
     [
       "How to own an airline in 3 easy steps and grab the TSA nofly list along the way",
       "https://maia.crimew.gay/posts/how-to-hack-an-airline/"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 21:59:01",
+      "https://news.ycombinator.com/item?id=34446251"
+    ],
+    [
+      "DiscoBSD: 2.11BSD-Based OS for STM32 and PIC32 Microcontrollers",
+      "https://github.com/chettrick/discobsd"
     ]
   ],
   [
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2023-01-19, 19:19:30",
-      "https://news.ycombinator.com/item?id=34444377"
+      "2023-01-19, 18:18:49",
+      "https://news.ycombinator.com/item?id=34443602"
     ],
     [
-      "Simulation Intelligence: Towards a New Generation of Scientific Methods (2022)",
-      "https://arxiv.org/abs/2112.03235"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 18:37:18",
-      "https://news.ycombinator.com/item?id=34443813"
-    ],
-    [
-      "Exploiting null-dereferences in the Linux kernel",
-      "https://googleprojectzero.blogspot.com/2023/01/exploiting-null-dereferences-in-linux.html"
+      "The Foonly F1 Computer (2011)",
+      "http://dave.zfxinc.net/f1.html"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-01-19, 15:56:43",
+      "https://news.ycombinator.com/item?id=34441672"
+    ],
+    [
+      "Another Tale of IBM I (AS/400) Hacking (2022)",
+      "https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/"
+    ]
+  ],
+  [
+    [
       "2023-01-19, 14:41:17",
       "https://news.ycombinator.com/item?id=34440757"
     ],
@@ -287,16 +297,6 @@
     [
       "What not to write on your security clearance form (1988)",
       "http://milk.com/wall-o-shame/security_clearance.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 07:03:34",
-      "https://news.ycombinator.com/item?id=34424150"
-    ],
-    [
-      "IBM Quantum System Two",
-      "https://newsroom.ibm.com/2022-11-09-IBM-Unveils-400-Qubit-Plus-Quantum-Processor-and-Next-Generation-IBM-Quantum-System-Two"
     ]
   ]
 ]
