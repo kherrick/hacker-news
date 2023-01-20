@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-20, 12:33:35",
+      "https://news.ycombinator.com/item?id=34452218"
+    ],
+    [
+      "How Restaurant Workers Help Pay for Lobbying to Keep Their Wages Low",
+      "https://www.nytimes.com/2023/01/17/us/politics/restaurant-workers-wages-lobbying.html"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 12:14:10",
       "https://news.ycombinator.com/item?id=34452018"
     ],
@@ -51,12 +61,32 @@
   ],
   [
     [
+      "2023-01-20, 10:58:04",
+      "https://news.ycombinator.com/item?id=34451373"
+    ],
+    [
+      "Can a Human See a Single Photon?",
+      "https://math.ucr.edu/home/baez/physics/Quantum/see_a_photon.html"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 10:55:30",
       "https://news.ycombinator.com/item?id=34451344"
     ],
     [
       "Choosing a Postgres Primary Key",
       "https://supabase.com/blog/choosing-a-postgres-primary-key"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 10:52:53",
+      "https://news.ycombinator.com/item?id=34451315"
+    ],
+    [
+      "Disney’s troubles show how technology has changed the business of culture",
+      "https://www.economist.com/leaders/2023/01/19/disneys-troubles-show-how-technology-has-changed-the-business-of-culture"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-01-20, 03:30:57",
-      "https://news.ycombinator.com/item?id=34448858"
-    ],
-    [
-      "Compilable Lightweight Markup Language for Mathematics",
-      "https://iheartla.github.io/"
-    ]
-  ],
-  [
-    [
       "2023-01-20, 02:46:20",
       "https://news.ycombinator.com/item?id=34448576"
     ],
@@ -217,26 +237,6 @@
     [
       "DiscoBSD: 2.11BSD-Based OS for STM32 and PIC32 Microcontrollers",
       "https://github.com/chettrick/discobsd"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 21:30:32",
-      "https://news.ycombinator.com/item?id=34445888"
-    ],
-    [
-      "So why a News Feed?",
-      "https://post.news/article/2KYjMzTY05WmEZmxJnG3PGqyVpz"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 21:29:32",
-      "https://news.ycombinator.com/item?id=34445873"
-    ],
-    [
-      "ChatRWKV, like ChatGPT but powered by the RWKV (RNN-based, open) language model",
-      "https://github.com/BlinkDL/ChatRWKV"
     ]
   ],
   [
