@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-01-20, 10:52:53",
-      "https://news.ycombinator.com/item?id=34451315"
-    ],
-    [
-      "Disney’s troubles show how technology has changed the business of culture",
-      "https://www.economist.com/leaders/2023/01/19/disneys-troubles-show-how-technology-has-changed-the-business-of-culture"
-    ]
-  ],
-  [
-    [
       "2023-01-20, 10:38:54",
       "https://news.ycombinator.com/item?id=34451178"
     ],
@@ -277,6 +267,16 @@
     [
       "Launch HN: Odigos (YC W23) – Instant distributed tracing for Kubernetes clusters",
       "https://news.ycombinator.com/item?id=34442603"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 16:55:10",
+      "https://news.ycombinator.com/item?id=34442528"
+    ],
+    [
+      "A first person shooter in 571 lines of GNU Awk (2016)",
+      "https://github.com/TheMozg/awk-raycaster"
     ]
   ],
   [
