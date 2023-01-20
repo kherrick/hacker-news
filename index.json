@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-01-20, 15:31:16",
-      "https://news.ycombinator.com/item?id=34454392"
-    ],
-    [
-      "Ask HN: Why are big tech companies having mass layoffs?",
-      "https://news.ycombinator.com/item?id=34454392"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 15:20:20",
-      "https://news.ycombinator.com/item?id=34454250"
-    ],
-    [
-      "Google employees finding out if they're laid off by testing their access badges",
-      "https://twitter.com/readdanwrite/status/1616453244561297408"
-    ]
-  ],
-  [
-    [
       "2023-01-20, 15:15:31",
       "https://news.ycombinator.com/item?id=34454184"
     ],
@@ -31,12 +11,12 @@
   ],
   [
     [
-      "2023-01-20, 15:14:15",
-      "https://news.ycombinator.com/item?id=34454165"
+      "2023-01-20, 15:13:39",
+      "https://news.ycombinator.com/item?id=34454158"
     ],
     [
-      "Sudo Replacement",
-      "https://xeiaso.net/blog/%F0%9F%A5%BA"
+      "Idris: A language for type-driven development",
+      "https://www.idris-lang.org/"
     ]
   ],
   [
@@ -45,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34453987"
     ],
     [
-      "Uses and Abuses of Military History",
+      "Uses and abuses of military history",
       "https://newcriterion.com/issues/2023/1/uses-abuses-of-military-history"
     ]
   ],
@@ -55,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34453981"
     ],
     [
-      "The Enduring Mystery of an Aggressive FBI Raid Near Area 51",
+      "The enduring mystery of an aggressive FBI raid near Area 51",
       "https://gizmodo.com/ufo-fbi-area-51-raid-dreamland-resort-joerg-arnu-1849887879"
     ]
   ],
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34453854"
     ],
     [
-      "Stay Ahead of Cyber Threats with Graph Databases",
+      "Stay ahead of cyber threats with graph databases",
       "https://memgraph.com/blog/stay-ahead-of-cyber-threats-with-graph-databases"
     ]
   ],
@@ -95,7 +75,7 @@
       "https://news.ycombinator.com/item?id=34453701"
     ],
     [
-      "Wayfair Is Laying Off 1,750 Workers",
+      "Wayfair is laying off 1,750 workers",
       "https://www.wsj.com/articles/wayfair-is-preparing-to-lay-off-more-than-1-000-workers-11674161122"
     ]
   ],
@@ -111,26 +91,6 @@
   ],
   [
     [
-      "2023-01-20, 13:29:14",
-      "https://news.ycombinator.com/item?id=34452845"
-    ],
-    [
-      "Amazon to Lay of 18k Workers",
-      "https://www.cnbc.com/2023/01/18/amazon-job-cuts-read-the-memos.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 12:33:35",
-      "https://news.ycombinator.com/item?id=34452218"
-    ],
-    [
-      "How Restaurant Workers Help Pay for Lobbying to Keep Their Wages Low",
-      "https://www.nytimes.com/2023/01/17/us/politics/restaurant-workers-wages-lobbying.html"
-    ]
-  ],
-  [
-    [
       "2023-01-20, 12:28:02",
       "https://news.ycombinator.com/item?id=34452163"
     ],
@@ -141,11 +101,21 @@
   ],
   [
     [
+      "2023-01-20, 12:14:10",
+      "https://news.ycombinator.com/item?id=34452018"
+    ],
+    [
+      "Parser as Prototype: why choice-based games are more interesting (2013)",
+      "https://threeedgedsword.wordpress.com/2013/12/05/parser-as-prototype-why-choice-based-games-are-more-interesting/"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 12:08:35",
       "https://news.ycombinator.com/item?id=34451955"
     ],
     [
-      "Carbon offset ratings agency: 70% of offsets are worthless",
+      "Sylvera response to The Guardian’s analysis of rainforest offsets",
       "https://www.sylvera.com/blog/guardian-offsets-response"
     ]
   ],
@@ -165,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34451566"
     ],
     [
-      "The Myth of the Myth of the 10x Programmer (2020)",
+      "The myth of the myth of the 10x programmer (2020)",
       "https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/"
     ]
   ],
@@ -185,7 +155,7 @@
       "https://news.ycombinator.com/item?id=34451344"
     ],
     [
-      "Choosing a Postgres Primary Key",
+      "Choosing a Postgres primary key",
       "https://supabase.com/blog/choosing-a-postgres-primary-key"
     ]
   ],
@@ -215,7 +185,7 @@
       "https://news.ycombinator.com/item?id=34450736"
     ],
     [
-      "Getting Started with Property-Based Testing in Python with Hypothesis and Pytest",
+      "Getting started with property-based testing in Python with hypothesis and Pytest",
       "https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest"
     ]
   ],
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2023-01-20, 06:04:21",
+      "https://news.ycombinator.com/item?id=34449740"
+    ],
+    [
+      "Interesting Facts about Bell Labs and 2001: A Space Odyssey (2001)",
+      "https://sites.psu.edu/comm150honors/2016/05/03/interesting-facts-about-bell-labs-and-the-odyssey-from-an-archivist-at-bell-labs-my-dad/"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 05:35:24",
       "https://news.ycombinator.com/item?id=34449626"
     ],
@@ -255,8 +235,18 @@
       "https://news.ycombinator.com/item?id=34449527"
     ],
     [
-      "Deep Learning Tuning Playbook",
+      "Deep learning tuning playbook",
       "https://github.com/google-research/tuning_playbook"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 04:50:22",
+      "https://news.ycombinator.com/item?id=34449381"
+    ],
+    [
+      "How true is 'Speed Enforced by Aircraft' Sign? (2016)",
+      "https://www.kqed.org/news/10953748/how-much-truth-is-there-to-those-speed-enforced-by-aircraft-signs"
     ]
   ],
   [
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2023-01-20, 01:13:46",
-      "https://news.ycombinator.com/item?id=34447945"
+      "2023-01-20, 02:07:59",
+      "https://news.ycombinator.com/item?id=34448334"
     ],
     [
-      "The Art of Money Getting or Golden Rules for Making Money by P. T. Barnum (1880)",
-      "https://www.gutenberg.org/files/8581/8581-h/8581-h.htm"
+      "Show HN: Music Audio Search Engine Using OpenAI's Embeddings on GPT Descriptions",
+      "https://muzic-sage.vercel.app/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Lisa Source Code Release",
       "https://computerhistory.org/blog/the-lisa-apples-most-influential-failure/"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 12:17:34",
+      "https://news.ycombinator.com/item?id=34439525"
+    ],
+    [
+      "Photos capture life inside a drop of seawater",
+      "https://www.smithsonianmag.com/science-nature/these-gorgeous-photos-capture-life-inside-drop-seawater-180981297/"
     ]
   ]
 ]
