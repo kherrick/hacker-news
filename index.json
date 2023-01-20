@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-01-20, 18:40:33",
+      "https://news.ycombinator.com/item?id=34457663"
+    ],
+    [
+      "NRC Certifies First U.S. Small Modular Reactor Design",
+      "https://www.energy.gov/ne/articles/nrc-certifies-first-us-small-modular-reactor-design"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 18:14:14",
       "https://news.ycombinator.com/item?id=34457224"
     ],
     [
       "Gonorrhea is becoming unstoppable; highly resistant cases found in US",
       "https://arstechnica.com/science/2023/01/gonorrhea-is-becoming-unstoppable-highly-resistant-cases-found-in-us/"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 18:08:50",
+      "https://news.ycombinator.com/item?id=34457143"
+    ],
+    [
+      "Towards a Reproducible F-Droid",
+      "https://f-droid.org/2023/01/15/towards-a-reproducible-fdroid.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 18:07:54",
+      "https://news.ycombinator.com/item?id=34457130"
+    ],
+    [
+      "GitHub Sunsetting Subversion Support",
+      "https://github.blog/2023-01-20-sunsetting-subversion-support/"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Rust in 2023: Growing Up",
       "http://smallcultfollowing.com/babysteps/blog/2023/01/20/rust-in-2023-growing-up/"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 15:00:03",
-      "https://news.ycombinator.com/item?id=34453981"
-    ],
-    [
-      "The enduring mystery of an aggressive FBI raid near Area 51",
-      "https://gizmodo.com/ufo-fbi-area-51-raid-dreamland-resort-joerg-arnu-1849887879"
     ]
   ],
   [
@@ -237,26 +257,6 @@
     [
       "Runlike: Given an existing Docker container, prints the command line to run it",
       "https://github.com/lavie/runlike"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 09:28:12",
-      "https://news.ycombinator.com/item?id=34450736"
-    ],
-    [
-      "Getting started with property-based testing in Python with hypothesis and Pytest",
-      "https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 07:14:53",
-      "https://news.ycombinator.com/item?id=34450059"
-    ],
-    [
-      "SSHD: Random boot time relinking, OpenBSD",
-      "https://undeadly.org/cgi?action=article;sid=20230119075627"
     ]
   ],
   [
