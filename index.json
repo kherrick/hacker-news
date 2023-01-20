@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-01-20, 03:42:07",
-      "https://news.ycombinator.com/item?id=34448945"
-    ],
-    [
-      "OneUptime is an open-source Datadog alternative",
-      "https://github.com/OneUptime/oneuptime"
-    ]
-  ],
-  [
-    [
       "2023-01-20, 03:30:57",
       "https://news.ycombinator.com/item?id=34448858"
     ],
@@ -101,12 +91,12 @@
   ],
   [
     [
-      "2023-01-19, 21:49:41",
-      "https://news.ycombinator.com/item?id=34446126"
+      "2023-01-19, 21:59:01",
+      "https://news.ycombinator.com/item?id=34446251"
     ],
     [
-      "Apple releases Lisa source code",
-      "https://computerhistory.org/press-releases/chm-makes-apple-lisa-source-code-available-to-the-public-as-a-part-of-its-art-of-code-series/"
+      "DiscoBSD: 2.11BSD-Based OS for STM32 and PIC32 Microcontrollers",
+      "https://github.com/chettrick/discobsd"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "ChatRWKV, like ChatGPT but powered by the RWKV (RNN-based, open) language model",
       "https://github.com/BlinkDL/ChatRWKV"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 21:15:09",
+      "https://news.ycombinator.com/item?id=34445702"
+    ],
+    [
+      "Twitterrific has been discontinued",
+      "https://blog.iconfactory.com/2023/01/twitterrific-end-of-an-era/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-01-19, 20:08:25",
+      "https://news.ycombinator.com/item?id=34444953"
+    ],
+    [
+      "Gptcommit: Never write a commit message again (with the help of GPT-3)",
+      "https://zura.wiki/post/never-write-a-commit-message-again-with-the-help-of-gpt-3/"
+    ]
+  ],
+  [
+    [
       "2023-01-19, 19:19:30",
       "https://news.ycombinator.com/item?id=34444377"
     ],
@@ -207,16 +217,6 @@
     [
       "Stock market charts you never saw (2021)",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3050736"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 17:02:12",
-      "https://news.ycombinator.com/item?id=34442647"
-    ],
-    [
-      "Amazon ends charity donation program AmazonSmile",
-      "https://techcrunch.com/2023/01/19/amazon-ends-charity-donation-program-amazonsmile/"
     ]
   ],
   [
