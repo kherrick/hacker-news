@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-01-21, 12:26:20",
+      "https://news.ycombinator.com/item?id=34465958"
+    ],
+    [
+      "Make Believe",
+      "https://sive.rs/mb"
+    ]
+  ],
+  [
+    [
       "2023-01-21, 12:00:19",
       "https://news.ycombinator.com/item?id=34465835"
     ],
     [
       "Hydra (YC W22) Is Hiring Database Engineers (Postgres)",
       "https://jobs.ashbyhq.com/hydra/880aa0ad-4cbb-4373-8a31-1478d5b7ebdc"
-    ]
-  ],
-  [
-    [
-      "2023-01-21, 11:45:37",
-      "https://news.ycombinator.com/item?id=34465758"
-    ],
-    [
-      "Ask HN: Fully remote role but not allowed to work outside the country",
-      "https://news.ycombinator.com/item?id=34465758"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Andromeda Invaders: A retro-style game written in HTML5, Canvas, and Web Audio",
       "https://susam.net/invaders.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-21, 05:53:16",
-      "https://news.ycombinator.com/item?id=34464247"
-    ],
-    [
-      "Could Ultrasound Replace the Stethoscope?",
-      "https://www.newyorker.com/science/annals-of-medicine/could-ultrasound-replace-the-stethoscope"
     ]
   ],
   [
@@ -191,12 +181,32 @@
   ],
   [
     [
+      "2023-01-20, 18:54:38",
+      "https://news.ycombinator.com/item?id=34457900"
+    ],
+    [
+      "Citizen scientists report global rapid reductions in the visibility of stars",
+      "https://www.science.org/doi/10.1126/science.abq7781"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 18:40:33",
       "https://news.ycombinator.com/item?id=34457663"
     ],
     [
       "NRC Certifies First U.S. Small Modular Reactor Design",
       "https://www.energy.gov/ne/articles/nrc-certifies-first-us-small-modular-reactor-design"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 18:07:54",
+      "https://news.ycombinator.com/item?id=34457130"
+    ],
+    [
+      "GitHub Sunsetting Subversion Support",
+      "https://github.blog/2023-01-20-sunsetting-subversion-support/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Monochrome terminal setup for an E-ink monitor",
       "https://bsandro.tech/posts/monochrome-terminal-setup-for-an-e-ink-monitor/"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 13:23:17",
-      "https://news.ycombinator.com/item?id=34400347"
-    ],
-    [
-      "The model code gap (2022)",
-      "https://blog.icepanel.io/2022/11/30/the-model-code-gap/"
     ]
   ]
 ]
