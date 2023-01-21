@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34467523"
     ],
     [
-      "An Unexpected Benefit of Unit Tests",
+      "An unexpected benefit of unit tests",
       "https://matthewc.dev/musings/unit-tests/"
     ]
   ],
@@ -77,16 +77,6 @@
     [
       "Direct Memory Access computing machine RP2040",
       "https://people.ece.cornell.edu/land/courses/ece4760/RP2040/C_SDK_DMA_machine/DMA_machine_rp2040.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-21, 15:14:12",
-      "https://news.ycombinator.com/item?id=34466934"
-    ],
-    [
-      "US Pilot Shot Down Four Soviet MiGs in 30 minutes – A secret for 50 years",
-      "https://www.cnn.com/2023/01/20/asia/korean-war-fighter-pilot-soviet-shootdown-intl-hnk-ml/index.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Breaking the Snake: How Python went from 2 to 3",
       "https://www.deusinmachina.net/p/breaking-the-snake-how-python-went"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 10:14:25",
+      "https://news.ycombinator.com/item?id=34438670"
+    ],
+    [
+      "The Minimum Viable Data Room",
+      "https://causal.app/blog/the-minimum-viable-data-room"
     ]
   ],
   [
