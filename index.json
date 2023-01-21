@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-01-20, 22:35:18",
-      "https://news.ycombinator.com/item?id=34461054"
-    ],
-    [
-      "Can you trust your quantum simulator?",
-      "https://news.mit.edu/2023/quantum-simulator-randomness-0118"
-    ]
-  ],
-  [
-    [
       "2023-01-20, 22:30:39",
       "https://news.ycombinator.com/item?id=34460997"
     ],
@@ -277,6 +267,16 @@
     [
       "FFhistory: Conclusion",
       "https://codecs.multimedia.cx/2023/01/ffhistory-conclusion/"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 11:10:52",
+      "https://news.ycombinator.com/item?id=34439069"
+    ],
+    [
+      "Writing a Vector Tileserver for Osm2streets",
+      "https://jakecoppinger.com/2023/01/lane-accurate-street-maps-with-openstreetmap-writing-a-vector-tileserver-for-osm2streets/"
     ]
   ],
   [
