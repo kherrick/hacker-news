@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-01-21, 01:02:54",
-      "https://news.ycombinator.com/item?id=34462575"
+      "2023-01-21, 01:48:22",
+      "https://news.ycombinator.com/item?id=34462926"
     ],
     [
-      "Tell HN: Sundar Pichai made $8M today",
-      "https://news.ycombinator.com/item?id=34462575"
+      "GPT-3: Techniques to improve reliability",
+      "https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md"
+    ]
+  ],
+  [
+    [
+      "2023-01-21, 01:13:12",
+      "https://news.ycombinator.com/item?id=34462640"
+    ],
+    [
+      "So Good They Can't Lay You Off",
+      "https://yafetn.github.io/2023/01/20/so-good-they-cant-lay-you-off.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-21, 00:15:42",
+      "https://news.ycombinator.com/item?id=34462176"
+    ],
+    [
+      "Viral illnesses may increase chances of developing neurodegenerative diseases",
+      "http://www.nia.nih.gov/news/could-viral-illness-increase-chances-developing-alzheimers-or-other-neurodegenerative-diseasep/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Fighting murder convictions that rest on shoddy stats",
       "https://www.science.org/content/article/unlucky-numbers-fighting-murder-convictions-rest-shoddy-stats"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 22:53:37",
-      "https://news.ycombinator.com/item?id=34461265"
-    ],
-    [
-      "Offsec.tools – A vast collection of security tools",
-      "https://offsec.tools"
     ]
   ],
   [
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2023-01-20, 10:13:44",
+      "https://news.ycombinator.com/item?id=34451002"
+    ],
+    [
+      "The Surprising Things That CSS Can Animate (2020)",
+      "https://codersblock.com/blog/the-surprising-things-that-css-can-animate/"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 10:13:18",
       "https://news.ycombinator.com/item?id=34451000"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-01-19, 11:10:52",
-      "https://news.ycombinator.com/item?id=34439069"
-    ],
-    [
-      "Writing a Vector Tileserver for Osm2streets",
-      "https://jakecoppinger.com/2023/01/lane-accurate-street-maps-with-openstreetmap-writing-a-vector-tileserver-for-osm2streets/"
-    ]
-  ],
-  [
-    [
       "2023-01-19, 04:14:44",
       "https://news.ycombinator.com/item?id=34436626"
     ],
     [
       "Mumbai embraces its booming flamingo population",
       "https://hakaimagazine.com/features/mumbai-embraces-its-booming-flamingo-population/"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 12:01:46",
-      "https://news.ycombinator.com/item?id=34411500"
-    ],
-    [
-      "Palindromic Rolling Hash (2016)",
-      "http://aleclownes.com/2016/10/03/palindromic-rolling-hash.html"
     ]
   ]
 ]
