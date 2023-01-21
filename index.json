@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-21, 09:39:14",
+      "https://news.ycombinator.com/item?id=34465195"
+    ],
+    [
+      "Twitter has fewer than 550 full time engineers",
+      "https://www.cnbc.com/2023/01/20/twitter-is-down-to-fewer-than-550-full-time-engineers.html"
+    ]
+  ],
+  [
+    [
       "2023-01-21, 09:02:05",
       "https://news.ycombinator.com/item?id=34465008"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
-      "2023-01-21, 06:07:39",
-      "https://news.ycombinator.com/item?id=34464302"
-    ],
-    [
-      "Hampster Invaders",
-      "https://vole.wtf/hampster-invaders/"
-    ]
-  ],
-  [
-    [
       "2023-01-21, 05:53:16",
       "https://news.ycombinator.com/item?id=34464247"
     ],
     [
       "Could Ultrasound Replace the Stethoscope?",
       "https://www.newyorker.com/science/annals-of-medicine/could-ultrasound-replace-the-stethoscope"
+    ]
+  ],
+  [
+    [
+      "2023-01-21, 05:07:52",
+      "https://news.ycombinator.com/item?id=34464063"
+    ],
+    [
+      "Information about a recent security incident at Mailchimp",
+      "https://mailchimp.com/january-2023-security-incident/"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2023-01-20, 17:53:36",
-      "https://news.ycombinator.com/item?id=34456904"
-    ],
-    [
-      "General technology for enabling AI capabilities with LLMs and Generative models",
-      "https://github.com/microsoft/LMOps"
-    ]
-  ],
-  [
-    [
       "2023-01-20, 13:34:52",
       "https://news.ycombinator.com/item?id=34452895"
     ],
     [
       "Mathematicians roll dice and get rock-paper-scissors",
       "https://www.quantamagazine.org/mathematicians-roll-dice-and-get-rock-paper-scissors-20230119/"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 10:33:56",
-      "https://news.ycombinator.com/item?id=34451137"
-    ],
-    [
-      "Grizzly bears were mysteriously missing toes. These scientists cracked the case",
-      "https://www.washingtonpost.com/climate-environment/2023/01/19/grizzly-bear-missing-toes/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Official SkiFree Home Page",
       "https://ski.ihoc.net/"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 09:44:03",
+      "https://news.ycombinator.com/item?id=34410734"
+    ],
+    [
+      "Monochrome terminal setup for an E-ink monitor",
+      "https://bsandro.tech/posts/monochrome-terminal-setup-for-an-e-ink-monitor/"
     ]
   ]
 ]
