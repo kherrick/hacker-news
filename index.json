@@ -41,22 +41,12 @@
   ],
   [
     [
-      "2023-01-21, 00:42:24",
-      "https://news.ycombinator.com/item?id=34462443"
-    ],
-    [
-      "You don't have to engage with people on the Internet",
-      "https://xeiaso.net/blog/lesson-online-feedback"
-    ]
-  ],
-  [
-    [
       "2023-01-21, 00:15:42",
       "https://news.ycombinator.com/item?id=34462176"
     ],
     [
       "Viral illnesses may increase chances of developing neurodegenerative diseases",
-      "http://www.nia.nih.gov/news/could-viral-illness-increase-chances-developing-alzheimers-or-other-neurodegenerative-diseasep/"
+      "https://www.nia.nih.gov/news/could-viral-illness-increase-chances-developing-alzheimers-or-other-neurodegenerative-disease"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2023-01-20, 17:34:55",
+      "https://news.ycombinator.com/item?id=34456573"
+    ],
+    [
+      "Lean – Theorem Prover",
+      "https://leanprover.github.io/"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 17:24:13",
       "https://news.ycombinator.com/item?id=34456416"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=34451002"
     ],
     [
-      "The Surprising Things That CSS Can Animate (2020)",
+      "Surprising things that CSS can animate (2020)",
       "https://codersblock.com/blog/the-surprising-things-that-css-can-animate/"
     ]
   ],
