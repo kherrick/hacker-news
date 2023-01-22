@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-22, 01:06:56",
+      "https://news.ycombinator.com/item?id=34472914"
+    ],
+    [
+      "The Schwarzschild Defence",
+      "https://www.nature.com/articles/d41586-022-04550-2"
+    ]
+  ],
+  [
+    [
+      "2023-01-22, 00:38:25",
+      "https://news.ycombinator.com/item?id=34472692"
+    ],
+    [
+      "Rumors of GTA online exploits allowing remote code execution on gamer PCs",
+      "https://old.reddit.com/r/gtaonline/comments/10hsosu/mass_reporting_the_dangerous_pc_exploit/"
+    ]
+  ],
+  [
+    [
       "2023-01-22, 00:19:55",
       "https://news.ycombinator.com/item?id=34472549"
     ],
@@ -27,6 +47,16 @@
     [
       "What Happened with the Substation Attack in North Carolina?",
       "https://practical.engineering/blog/2023/1/16/what-really-happened-with-the-substation-attack-in-north-carolina"
+    ]
+  ],
+  [
+    [
+      "2023-01-21, 22:44:23",
+      "https://news.ycombinator.com/item?id=34471479"
+    ],
+    [
+      "The Sweet Spot for Buying Used Cars",
+      "https://www.amolas.dev/blog/buy-used-cars/"
     ]
   ],
   [
@@ -71,32 +101,12 @@
   ],
   [
     [
-      "2023-01-21, 20:44:02",
-      "https://news.ycombinator.com/item?id=34470301"
-    ],
-    [
-      "The official KeeperFX website has been launched",
-      "https://keeperfx.net"
-    ]
-  ],
-  [
-    [
       "2023-01-21, 20:43:04",
       "https://news.ycombinator.com/item?id=34470287"
     ],
     [
       "Show HN: Names",
       "https://joostjansen.me/index"
-    ]
-  ],
-  [
-    [
-      "2023-01-21, 19:06:12",
-      "https://news.ycombinator.com/item?id=34469204"
-    ],
-    [
-      "Is Apple checking images we view in the Finder?",
-      "https://eclecticlight.co/2023/01/18/is-apple-checking-images-we-view-in-the-finder/"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2023-01-21, 06:14:00",
-      "https://news.ycombinator.com/item?id=34464318"
+      "2023-01-20, 13:01:37",
+      "https://news.ycombinator.com/item?id=34452526"
     ],
     [
-      "This Is Not Word",
-      "https://ludipe.itch.io/this-is-not-word"
+      "Replacing Pandas with Polars. A Practical Guide",
+      "https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Rivet nut for composite materials (2020) [video]",
       "https://www.youtube.com/watch?v=X2sysHswUgI"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 10:14:25",
-      "https://news.ycombinator.com/item?id=34438670"
-    ],
-    [
-      "The Minimum Viable Data Room",
-      "https://causal.app/blog/the-minimum-viable-data-room"
     ]
   ]
 ]
