@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-22, 15:01:36",
+      "https://news.ycombinator.com/item?id=34477976"
+    ],
+    [
+      "Git-SIM: Visually simulate Git operations in your own repos with a single termi",
+      "https://initialcommit.com/blog/git-sim"
+    ]
+  ],
+  [
+    [
+      "2023-01-22, 14:56:11",
+      "https://news.ycombinator.com/item?id=34477928"
+    ],
+    [
+      "The contagious visual blandness of Netflix",
+      "https://haleynahman.substack.com/p/132-the-contagious-visual-blandness"
+    ]
+  ],
+  [
+    [
       "2023-01-22, 13:26:58",
       "https://news.ycombinator.com/item?id=34477124"
     ],
@@ -37,16 +57,6 @@
     [
       "Fortran H and PL.8: Papers about Great Optimizing Compilers [pdf]",
       "https://www.clear.rice.edu/comp512/Lectures/06GreatCompilers.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 10:29:32",
-      "https://news.ycombinator.com/item?id=34476024"
-    ],
-    [
-      "Prisma laying off 28% staff",
-      "https://www.prisma.io/blog/restructure-announcement-1a9ek279du8j"
     ]
   ],
   [
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2023-01-20, 13:01:37",
-      "https://news.ycombinator.com/item?id=34452526"
-    ],
-    [
-      "Replacing Pandas with Polars",
-      "https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide/"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 03:19:02",
-      "https://news.ycombinator.com/item?id=34448781"
-    ],
-    [
-      "Pulsating eclipsing binary AI Hya investigated in detail",
-      "https://phys.org/news/2023-01-pulsating-eclipsing-binary-ai-hya.html"
-    ]
-  ],
-  [
-    [
       "2023-01-19, 21:52:53",
       "https://news.ycombinator.com/item?id=34446169"
     ],
@@ -297,6 +287,16 @@
     [
       "Use the wrong tool for the job",
       "https://buttondown.email/hillelwayne/archive/use-the-wrong-tool-for-the-job/"
+    ]
+  ],
+  [
+    [
+      "2023-01-16, 12:04:19",
+      "https://news.ycombinator.com/item?id=34399790"
+    ],
+    [
+      "Fighting games use delay-based and rollback netcode",
+      "https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/"
     ]
   ]
 ]
