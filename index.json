@@ -1,21 +1,11 @@
 [
   [
     [
-      "2023-01-22, 22:40:35",
-      "https://news.ycombinator.com/item?id=34483030"
-    ],
-    [
-      "ChatGPT Has Passed the United States Medical Licensing Examination (Usmle)",
-      "https://www.medrxiv.org/content/10.1101/2022.12.19.22283643v2"
-    ]
-  ],
-  [
-    [
       "2023-01-22, 22:19:15",
       "https://news.ycombinator.com/item?id=34482836"
     ],
     [
-      "The Guide to Software Architecture Documentation",
+      "Guide to Software Architecture Documentation",
       "https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/"
     ]
   ],
@@ -231,12 +221,32 @@
   ],
   [
     [
+      "2023-01-22, 09:24:13",
+      "https://news.ycombinator.com/item?id=34475721"
+    ],
+    [
+      "Wolfenstein 3D with a CGA Renderer",
+      "https://github.com/jhhoward/WolfensteinCGA"
+    ]
+  ],
+  [
+    [
       "2023-01-22, 07:10:56",
       "https://news.ycombinator.com/item?id=34475134"
     ],
     [
       "The Mystery of Richard Posner",
       "https://lawliberty.org/features/the-mystery-of-richard-posner/"
+    ]
+  ],
+  [
+    [
+      "2023-01-22, 04:25:45",
+      "https://news.ycombinator.com/item?id=34474270"
+    ],
+    [
+      "Show HN: New AI edits images based on text instructions",
+      "https://github.com/brycedrennan/imaginAIry/blob/master/README.md"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The 88x31 GIF Collection",
       "https://cyber.dabamos.de/88x31/"
-    ]
-  ],
-  [
-    [
-      "2023-01-21, 07:39:55",
-      "https://news.ycombinator.com/item?id=34464667"
-    ],
-    [
-      "AI Is Not a Horse",
-      "https://essays.georgestrakhov.com/ai-is-not-a-horse/"
     ]
   ],
   [
