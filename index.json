@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-22, 18:15:42",
+      "https://news.ycombinator.com/item?id=34480375"
+    ],
+    [
+      "Microsoft Hosted Sting Performance in Davos on Night Before Announcing Layoffs",
+      "https://www.wsj.com/livecoverage/davos2023/card/microsoft-hosted-sting-performance-in-davos-on-night-before-it-announced-layoffs-cRHO4k295pSWarvtfQRJ"
+    ]
+  ],
+  [
+    [
       "2023-01-22, 18:08:58",
       "https://news.ycombinator.com/item?id=34480314"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-01-22, 18:08:52",
-      "https://news.ycombinator.com/item?id=34480313"
+      "2023-01-22, 17:49:25",
+      "https://news.ycombinator.com/item?id=34480081"
     ],
     [
-      "Ask HN: Will Google become a better place to work with a new focus on chatbots?",
-      "https://news.ycombinator.com/item?id=34480313"
+      "Decoding Lunar Flashlight",
+      "https://destevez.net/2023/01/decoding-lunar-flashlight/"
     ]
   ],
   [
@@ -47,6 +57,26 @@
     [
       "Ask HN: Anyone doing some absurd stuff after getting laid off?",
       "https://news.ycombinator.com/item?id=34479806"
+    ]
+  ],
+  [
+    [
+      "2023-01-22, 17:18:01",
+      "https://news.ycombinator.com/item?id=34479648"
+    ],
+    [
+      "Bypassing Gmail's spam filters with ChatGPT",
+      "https://neelc.org/posts/chatgpt-gmail-spam/"
+    ]
+  ],
+  [
+    [
+      "2023-01-22, 17:17:25",
+      "https://news.ycombinator.com/item?id=34479643"
+    ],
+    [
+      "Gpu.js: GPU Accelerated JavaScript",
+      "https://github.com/gpujs/gpu.js"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-01-22, 15:12:42",
-      "https://news.ycombinator.com/item?id=34478098"
-    ],
-    [
-      "Supreme Court allows Reddit mods to anonymously defend Section 230",
-      "https://arstechnica.com/tech-policy/2023/01/supreme-court-allows-reddit-mods-to-anonymously-defend-section-230/"
-    ]
-  ],
-  [
-    [
       "2023-01-22, 15:01:36",
       "https://news.ycombinator.com/item?id=34477976"
     ],
@@ -181,6 +201,26 @@
   ],
   [
     [
+      "2023-01-22, 11:53:10",
+      "https://news.ycombinator.com/item?id=34476483"
+    ],
+    [
+      "Fortran H and PL.8: Papers about Great Optimizing Compilers [pdf] (2015)",
+      "https://www.clear.rice.edu/comp512/Lectures/06GreatCompilers.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-01-22, 11:15:44",
+      "https://news.ycombinator.com/item?id=34476277"
+    ],
+    [
+      "Hampstead Heath",
+      "https://www.hampsteadheath.net/about"
+    ]
+  ],
+  [
+    [
       "2023-01-22, 09:24:13",
       "https://news.ycombinator.com/item?id=34475721"
     ],
@@ -191,32 +231,12 @@
   ],
   [
     [
-      "2023-01-22, 07:04:54",
-      "https://news.ycombinator.com/item?id=34475114"
-    ],
-    [
-      "Ask HN: Why do games (as media) make so much money?",
-      "https://news.ycombinator.com/item?id=34475114"
-    ]
-  ],
-  [
-    [
       "2023-01-22, 07:01:02",
       "https://news.ycombinator.com/item?id=34475095"
     ],
     [
       "PhotoRoom (YC S20) Is Hiring a Fullstack Engineer (Generative AI API) in Paris",
       "https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 06:40:23",
-      "https://news.ycombinator.com/item?id=34475005"
-    ],
-    [
-      "ChatGPT in an iOS Shortcut: Smart HomeKit Voice Assistant",
-      "https://matemarschalko.medium.com/chatgpt-in-an-ios-shortcut-worlds-smartest-homekit-voice-assistant-9a33b780007a"
     ]
   ],
   [
@@ -237,16 +257,6 @@
     [
       "AirJet – Solid-state chip for active device cooling",
       "https://www.froresystems.com/"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 03:49:49",
-      "https://news.ycombinator.com/item?id=34474049"
-    ],
-    [
-      "Ruby on Jets: Like Rails but serverless",
-      "https://github.com/boltops-tools/jets"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Huge pages are a good idea",
       "https://www.evanjones.ca/hugepages-are-a-good-idea.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 10:14:07",
-      "https://news.ycombinator.com/item?id=34438665"
-    ],
-    [
-      "Semantic Linefeeds (2012)",
-      "https://rhodesmill.org/brandon/2012/one-sentence-per-line/"
     ]
   ],
   [
