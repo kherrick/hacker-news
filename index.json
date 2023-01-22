@@ -1,22 +1,32 @@
 [
   [
     [
-      "2023-01-21, 23:03:09",
-      "https://news.ycombinator.com/item?id=34471699"
+      "2023-01-22, 00:19:55",
+      "https://news.ycombinator.com/item?id=34472549"
     ],
     [
-      "Tech companies are quietly defunding diversity pledges",
-      "https://www.essence.com/news/money-career/tech-companies-quietly-defunding-diversity-pledges/"
+      "Microsoft has laid off entire teams behind Virtual, Mixed Reality, and HoloLens",
+      "https://www.windowscentral.com/microsoft/microsoft-has-laid-off-entire-teams-behind-virtual-mixed-reality-and-hololens"
     ]
   ],
   [
     [
-      "2023-01-21, 22:46:30",
-      "https://news.ycombinator.com/item?id=34471503"
+      "2023-01-22, 00:15:51",
+      "https://news.ycombinator.com/item?id=34472506"
     ],
     [
-      "‘Assassinated in cold blood’: activist killed protesting Georgia’s ‘Cop City’",
-      "https://www.theguardian.com/us-news/2023/jan/21/protester-killed-georgia-cop-city-police-shooting"
+      "Binance says banking partner will stop processing SWIFT transfers under $100K",
+      "https://twitter.com/mikeburgersburg/status/1616901701927059457"
+    ]
+  ],
+  [
+    [
+      "2023-01-21, 23:39:35",
+      "https://news.ycombinator.com/item?id=34472122"
+    ],
+    [
+      "What Happened with the Substation Attack in North Carolina?",
+      "https://practical.engineering/blog/2023/1/16/what-really-happened-with-the-substation-attack-in-north-carolina"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34471179"
     ],
     [
-      "Speak softly, and carry a big chip",
+      "TSMC is making the best of a bad geopolitical situation",
       "https://www.economist.com/business/2023/01/19/tsmc-is-making-the-best-of-a-bad-geopolitical-situation"
     ]
   ],
@@ -57,6 +67,16 @@
     [
       "Inherit environment variables from PID 1 by reading /proc/1/environ",
       "https://gist.github.com/milesrichardson/8f1c9c7088f8a4e889019d7ce0559ec9"
+    ]
+  ],
+  [
+    [
+      "2023-01-21, 20:44:02",
+      "https://news.ycombinator.com/item?id=34470301"
+    ],
+    [
+      "The official KeeperFX website has been launched",
+      "https://keeperfx.net"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=34469078"
     ],
     [
-      "Vikunja – The open-source, self-hostable to-do app",
+      "Vikunja – Open-source, self-hostable to-do app",
       "https://vikunja.io/"
     ]
   ],
@@ -135,7 +155,7 @@
       "https://news.ycombinator.com/item?id=34467952"
     ],
     [
-      "Thoughts on the Python Packaging Ecosystem",
+      "Thoughts on the Python packaging ecosystem",
       "https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/"
     ]
   ],
@@ -147,16 +167,6 @@
     [
       "A large network of fake Google Maps comments/reviews and fake businesses",
       "https://www.google.com/maps/place/Right+Way+Laboratory/@40.9957803,-74.2784512,15z/data=!3m1!5s0x89c303336bbaf299:0x341e1cb1b4d7560d!4m13!1m5!8m4!1e1!2s112286728424662092965!3m1!1e1!3m6!1s0x89c30351e348823d:0x6d3151713097139c!8m2!3d40.9929449!4d-74.2811153!9m1!1b1?hl=en-US"
-    ]
-  ],
-  [
-    [
-      "2023-01-21, 16:39:15",
-      "https://news.ycombinator.com/item?id=34467636"
-    ],
-    [
-      "Amazon Smile Gets a Frown",
-      "https://seths.blog/2023/01/amazon-smile-gets-a-frown/"
     ]
   ],
   [
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=34467518"
     ],
     [
-      "Thoughts on Ethereum’s Stealth Address",
+      "An incomplete guide to stealth addresses",
       "https://vitalik.eth.limo/general/2023/01/20/stealth.html"
     ]
   ],
@@ -205,38 +215,8 @@
       "https://news.ycombinator.com/item?id=34466587"
     ],
     [
-      "When Truman Capote’s Lies Caught Up with Him",
+      "When Truman Capote’s lies caught up with him",
       "https://www.theatlantic.com/books/archive/2023/01/truman-capote-true-crime-in-cold-blood/672747/"
-    ]
-  ],
-  [
-    [
-      "2023-01-21, 12:00:19",
-      "https://news.ycombinator.com/item?id=34465835"
-    ],
-    [
-      "Hydra (YC W22) Is Hiring Database Engineers (Postgres)",
-      "https://jobs.ashbyhq.com/hydra/880aa0ad-4cbb-4373-8a31-1478d5b7ebdc"
-    ]
-  ],
-  [
-    [
-      "2023-01-21, 08:51:24",
-      "https://news.ycombinator.com/item?id=34464951"
-    ],
-    [
-      "A page with no code",
-      "https://danq.me/2023/01/11/nocode/"
-    ]
-  ],
-  [
-    [
-      "2023-01-21, 08:28:39",
-      "https://news.ycombinator.com/item?id=34464865"
-    ],
-    [
-      "Andromeda Invaders: A retro-style game written in HTML5, Canvas, and Web Audio",
-      "https://susam.net/invaders.html"
     ]
   ],
   [
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2023-01-21, 06:14:00",
+      "https://news.ycombinator.com/item?id=34464318"
+    ],
+    [
+      "This Is Not Word",
+      "https://ludipe.itch.io/this-is-not-word"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 06:25:03",
       "https://news.ycombinator.com/item?id=34449822"
     ],
     [
       "Debugging a Crash in OpenRCT2",
       "http://voidstar.tech/rct_crash/"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 03:15:02",
+      "https://news.ycombinator.com/item?id=34448750"
+    ],
+    [
+      "Multi-kilometer and sub-terahertz communications at extreme frequency bands",
+      "https://techxplore.com/news/2023-01-enable-multi-kilometer-sub-terahertz-communications-extremely.html"
     ]
   ],
   [
