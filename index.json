@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-01-22, 20:54:35",
+      "https://news.ycombinator.com/item?id=34482116"
+    ],
+    [
+      "JEP draft: No longer require super() and this() to appear first in a constructor",
+      "https://openjdk.org/jeps/8300786"
+    ]
+  ],
+  [
+    [
       "2023-01-22, 18:52:06",
       "https://news.ycombinator.com/item?id=34480873"
     ],
@@ -67,16 +77,6 @@
     [
       "Brief structured respiration enhances mood and reduces physiological arousal",
       "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00474-8"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 17:33:41",
-      "https://news.ycombinator.com/item?id=34479873"
-    ],
-    [
-      "What the spread of universal basic-income schemes says about Americas safety net",
-      "https://www.economist.com/united-states/2023/01/19/what-the-spread-of-universal-basic-income-schemes-says-about-americas-safety-net"
     ]
   ],
   [
@@ -151,12 +151,12 @@
   ],
   [
     [
-      "2023-01-22, 15:20:02",
-      "https://news.ycombinator.com/item?id=34478168"
+      "2023-01-22, 15:12:42",
+      "https://news.ycombinator.com/item?id=34478098"
     ],
     [
-      "Pomodoro Timer",
-      "https://pomofocus.io/"
+      "Supreme Court allows Reddit mods to anonymously defend Section 230",
+      "https://arstechnica.com/tech-policy/2023/01/supreme-court-allows-reddit-mods-to-anonymously-defend-section-230/"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2023-01-22, 11:53:10",
-      "https://news.ycombinator.com/item?id=34476483"
+      "2023-01-22, 11:15:44",
+      "https://news.ycombinator.com/item?id=34476277"
     ],
     [
-      "Fortran H and PL.8: Papers about Great Optimizing Compilers [pdf] (2015)",
-      "https://www.clear.rice.edu/comp512/Lectures/06GreatCompilers.pdf"
+      "Hampstead Heath",
+      "https://www.hampsteadheath.net/about"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2023-01-22, 04:25:45",
-      "https://news.ycombinator.com/item?id=34474270"
-    ],
-    [
-      "Show HN: New AI edits images based on text instructions",
-      "https://github.com/brycedrennan/imaginAIry/blob/master/README.md"
-    ]
-  ],
-  [
-    [
       "2023-01-21, 10:43:16",
       "https://news.ycombinator.com/item?id=34465455"
     ],
     [
       "The 88x31 GIF Collection",
       "https://cyber.dabamos.de/88x31/"
+    ]
+  ],
+  [
+    [
+      "2023-01-21, 07:39:55",
+      "https://news.ycombinator.com/item?id=34464667"
+    ],
+    [
+      "AI Is Not a Horse",
+      "https://essays.georgestrakhov.com/ai-is-not-a-horse/"
     ]
   ],
   [
