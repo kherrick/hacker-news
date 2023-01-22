@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34474270"
     ],
     [
-      "New AI edits images based on text instructions (instructPix2Pix/imaginAIry)",
+      "New AI edits images based on text instructions",
       "https://github.com/brycedrennan/imaginAIry/blob/master/README.md"
     ]
   ],
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-01-22, 02:22:33",
-      "https://news.ycombinator.com/item?id=34473500"
-    ],
-    [
-      "Google Fuchsia OS team affected by layoffs",
-      "https://9to5google.com/2023/01/21/fuchsia-area-120-google-layoffs/"
-    ]
-  ],
-  [
-    [
       "2023-01-22, 01:06:56",
       "https://news.ycombinator.com/item?id=34472914"
     ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34472122"
     ],
     [
-      "What Happened with the Substation Attack in North Carolina?",
+      "What happened with the substation attack in North Carolina?",
       "https://practical.engineering/blog/2023/1/16/what-really-happened-with-the-substation-attack-in-north-carolina"
     ]
   ],
@@ -147,6 +137,16 @@
     [
       "Show HN: Names",
       "https://joostjansen.me/index"
+    ]
+  ],
+  [
+    [
+      "2023-01-21, 19:18:01",
+      "https://news.ycombinator.com/item?id=34469336"
+    ],
+    [
+      "AI is in danger of being swallowed up by copyright law",
+      "https://heathermeeker.com/2023/01/19/is-copyright-eating-ai/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-01-21, 16:26:07",
+      "https://news.ycombinator.com/item?id=34467523"
+    ],
+    [
+      "An unexpected benefit of unit tests",
+      "https://matthewc.dev/musings/unit-tests/"
+    ]
+  ],
+  [
+    [
       "2023-01-21, 15:20:35",
       "https://news.ycombinator.com/item?id=34466985"
     ],
@@ -231,31 +241,11 @@
   ],
   [
     [
-      "2023-01-21, 06:14:53",
-      "https://news.ycombinator.com/item?id=34464323"
-    ],
-    [
-      "TimeMyMeeting",
-      "https://timemymeeting.com/"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 16:34:22",
-      "https://news.ycombinator.com/item?id=34455525"
-    ],
-    [
-      "So you’ve acquired a codebase. What now?",
-      "https://stayrelevant.globant.com/en/technology/scalable-platforms/codebase-technologies/"
-    ]
-  ],
-  [
-    [
       "2023-01-20, 14:29:56",
       "https://news.ycombinator.com/item?id=34453623"
     ],
     [
-      "A History of the Eprom in the Soviet Union",
+      "A history of the EPROM in the Soviet Union",
       "https://www.cpushack.com/2023/01/19/a-history-of-the-eprom-in-the-soviet-union/"
     ]
   ],
@@ -265,8 +255,18 @@
       "https://news.ycombinator.com/item?id=34452526"
     ],
     [
-      "Replacing Pandas with Polars. A Practical Guide",
+      "Replacing Pandas with Polars",
       "https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide/"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 06:25:03",
+      "https://news.ycombinator.com/item?id=34449822"
+    ],
+    [
+      "Debugging a Crash in OpenRCT2",
+      "http://voidstar.tech/rct_crash/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=34410671"
     ],
     [
-      "Use the Wrong Tool for the Job",
+      "Use the wrong tool for the job",
       "https://buttondown.email/hillelwayne/archive/use-the-wrong-tool-for-the-job/"
     ]
   ]
