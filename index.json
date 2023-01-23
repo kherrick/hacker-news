@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-01-23, 08:39:06",
+      "https://news.ycombinator.com/item?id=34486706"
+    ],
+    [
+      "Coding Curves: Superellipses and Superformulas",
+      "https://www.bit-101.com/blog/2023/01/coding-curves-13-superellipses-and-superformulas/"
+    ]
+  ],
+  [
+    [
       "2023-01-23, 08:38:03",
       "https://news.ycombinator.com/item?id=34486699"
     ],
@@ -287,16 +297,6 @@
     [
       "How to Use AVX512 in Golang",
       "https://gorse.io/posts/avx512-in-golang.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 18:45:19",
-      "https://news.ycombinator.com/item?id=34457730"
-    ],
-    [
-      "Show HN: Timeretain – Track, visualize, and export your hours",
-      "https://timeretain.com/"
     ]
   ]
 ]
