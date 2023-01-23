@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34491563"
     ],
     [
-      "Pure Java Typesetting System",
+      "KeenType: Pure Java typesetting system",
       "https://github.com/DaveJarvis/KeenType"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34490298"
     ],
     [
-      "NASA Solved a $100M Problem for Five Bucks",
+      "NASA solved a $100M problem for five bucks (2012)",
       "https://gizmodo.com/how-nasa-solved-a-100-million-problem-for-five-bucks-5880850"
     ]
   ],
@@ -115,18 +115,8 @@
       "https://news.ycombinator.com/item?id=34488968"
     ],
     [
-      "Windows 3.x Vddvga",
+      "Windows 3.x VDDVGA",
       "http://www.os2museum.com/wp/windows-3-x-vddvga/"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 14:15:07",
-      "https://news.ycombinator.com/item?id=34488938"
-    ],
-    [
-      "Ask HN: How do you balance support and sprint tickets?",
-      "https://news.ycombinator.com/item?id=34488938"
     ]
   ],
   [
@@ -225,8 +215,18 @@
       "https://news.ycombinator.com/item?id=34486596"
     ],
     [
-      "Show HN: Shite: The little hot-reloadin' static site maker from shell",
+      "Show HN: Shite – little hot-reloadin' static site maker from shell",
       "https://github.com/adityaathalye/shite"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 05:59:52",
+      "https://news.ycombinator.com/item?id=34485977"
+    ],
+    [
+      "My Dream Computer",
+      "https://bluelander.bearblog.dev/my-dream-computer/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=34482318"
     ],
     [
-      "Perplexity.ai Prompt Leakage",
+      "Perplexity.ai prompt leakage",
       "https://twitter.com/jmilldotdev/status/1600624362394091523"
     ]
   ],
