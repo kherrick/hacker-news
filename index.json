@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-01-23, 15:50:39",
+      "https://news.ycombinator.com/item?id=34490240"
+    ],
+    [
+      "Netflix's New Chapter",
+      "https://stratechery.com/2023/netflixs-new-chapter/"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 15:41:46",
+      "https://news.ycombinator.com/item?id=34490100"
+    ],
+    [
+      "Fentanyl Vaccine Potential ‘Game Changer’ for Opioid Epidemic",
+      "https://uh.edu/news-events/stories/2022-news-articles/november-2022/11142022-fentanyl-vaccine-haile-kosten.php"
+    ]
+  ],
+  [
+    [
       "2023-01-23, 15:38:44",
       "https://news.ycombinator.com/item?id=34490057"
     ],
     [
       "Stripe Extends Partnership with Amazon",
       "https://stripe.com/en-es/newsroom/news/amazon-and-stripe"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 15:29:22",
+      "https://news.ycombinator.com/item?id=34489945"
+    ],
+    [
+      "Commercial 3D printers emit traces of toxic fumes, study finds",
+      "https://eandt.theiet.org/content/articles/2019/10/commercial-3d-printers-emit-traces-of-toxic-fumes-study-finds/"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2023-01-23, 03:49:16",
-      "https://news.ycombinator.com/item?id=34485254"
-    ],
-    [
-      "Ask HN: Has anyone fully attempted Bret Victor's vision?",
-      "https://news.ycombinator.com/item?id=34485254"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 03:05:41",
-      "https://news.ycombinator.com/item?id=34484994"
-    ],
-    [
-      "Hewlett Packard HP-15C Simulator",
-      "https://hp-15c.homepage.t-online.de/homepage.htm"
-    ]
-  ],
-  [
-    [
       "2023-01-23, 02:58:39",
       "https://news.ycombinator.com/item?id=34484937"
     ],
@@ -287,16 +297,6 @@
     [
       "Paper Map Sales Are Booming",
       "https://www.wsj.com/articles/why-paper-map-sales-are-booming-11674164824"
-    ]
-  ],
-  [
-    [
-      "2023-01-21, 10:05:38",
-      "https://news.ycombinator.com/item?id=34465297"
-    ],
-    [
-      "How to Use AVX512 in Golang",
-      "https://gorse.io/posts/avx512-in-golang.html"
     ]
   ]
 ]
