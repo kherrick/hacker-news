@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-23, 17:55:11",
+      "https://news.ycombinator.com/item?id=34492381"
+    ],
+    [
+      "ChatCody, the GitHub Bot That Boosts Team Productivity",
+      "https://github.com/marketplace/chatcody"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 17:47:00",
+      "https://news.ycombinator.com/item?id=34492248"
+    ],
+    [
+      "Dosdude – A custom-designed IDE SSD for old PCs",
+      "https://github.com/dosdude1/2.5-inch-ide-ssd"
+    ]
+  ],
+  [
+    [
       "2023-01-23, 17:01:29",
       "https://news.ycombinator.com/item?id=34491563"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2023-01-23, 15:41:46",
+      "https://news.ycombinator.com/item?id=34490100"
+    ],
+    [
+      "Fentanyl vaccine tested in rats",
+      "https://uh.edu/news-events/stories/2022-news-articles/november-2022/11142022-fentanyl-vaccine-haile-kosten.php"
+    ]
+  ],
+  [
+    [
       "2023-01-23, 15:38:44",
       "https://news.ycombinator.com/item?id=34490057"
     ],
@@ -97,16 +127,6 @@
     [
       "OpenAI and Microsoft extend partnership",
       "https://openai.com/blog/openai-and-microsoft-extend-partnership/"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 13:04:23",
-      "https://news.ycombinator.com/item?id=34488280"
-    ],
-    [
-      "Deepmind is working on a rival to ChatGPT",
-      "https://techfundingnews.com/chatgpt-killer-google-owned-uk-born-ai-startup-deepmind-is-working-on-a-rival/"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2023-01-23, 04:55:38",
-      "https://news.ycombinator.com/item?id=34485631"
-    ],
-    [
-      "Neural Networks and the Chomsky Hierarchy",
-      "https://arxiv.org/abs/2207.02098"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 02:58:39",
-      "https://news.ycombinator.com/item?id=34484937"
-    ],
-    [
-      "Whisper.cpp example running fully in the browser",
-      "https://whisper.ggerganov.com/"
-    ]
-  ],
-  [
-    [
       "2023-01-22, 21:16:11",
       "https://news.ycombinator.com/item?id=34482318"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-01-22, 04:25:45",
-      "https://news.ycombinator.com/item?id=34474270"
-    ],
-    [
-      "Show HN: New AI edits images based on text instructions",
-      "https://github.com/brycedrennan/imaginAIry/blob/master/README.md"
-    ]
-  ],
-  [
-    [
       "2023-01-22, 02:55:51",
       "https://news.ycombinator.com/item?id=34473742"
     ],
     [
       "‘Sensational’ runestone discovered in Norway may be the world’s oldest",
       "https://www.smithsonianmag.com/smart-news/sensational-runestone-discovered-in-norway-may-be-the-worlds-oldest-180981470/"
+    ]
+  ],
+  [
+    [
+      "2023-01-21, 19:23:17",
+      "https://news.ycombinator.com/item?id=34469378"
+    ],
+    [
+      "Paper map sales are booming",
+      "https://www.wsj.com/articles/why-paper-map-sales-are-booming-11674164824"
     ]
   ]
 ]
