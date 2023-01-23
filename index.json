@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-01-22, 22:59:45",
+      "https://news.ycombinator.com/item?id=34483229"
+    ],
+    [
+      "Rust on macOS 9",
+      "https://twitter.com/turbolent/status/1617231570573873152"
+    ]
+  ],
+  [
+    [
       "2023-01-22, 22:19:15",
       "https://news.ycombinator.com/item?id=34482836"
     ],
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2023-01-22, 17:18:01",
-      "https://news.ycombinator.com/item?id=34479648"
+      "2023-01-22, 15:01:36",
+      "https://news.ycombinator.com/item?id=34477976"
     ],
     [
-      "Bypassing Gmail's spam filters with ChatGPT",
-      "https://neelc.org/posts/chatgpt-gmail-spam/"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 16:51:42",
-      "https://news.ycombinator.com/item?id=34479284"
-    ],
-    [
-      "Nolibc: A minimal C-library replacement shipped with the kernel",
-      "https://lwn.net/SubscriberLink/920158/313ec4305df220bb/"
+      "Git-sim: Visually simulate Git operations in your own repos",
+      "https://initialcommit.com/blog/git-sim"
     ]
   ],
   [
