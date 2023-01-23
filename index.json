@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-01-23, 19:25:03",
-      "https://news.ycombinator.com/item?id=34493653"
-    ],
-    [
-      "You Know API Gateways, Now Learn about Webhook Gateways",
-      "https://getconvoy.io/blog/what-are-webhook-gateways/"
-    ]
-  ],
-  [
-    [
       "2023-01-23, 19:12:30",
       "https://news.ycombinator.com/item?id=34493487"
     ],
     [
       "An incomplete guide to stealth addresses",
       "https://vitalik.ca/general/2023/01/20/stealth.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 19:06:03",
+      "https://news.ycombinator.com/item?id=34493408"
+    ],
+    [
+      "iOS 16.3 Is Out",
+      "https://developer.apple.com/news/releases/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Pwning the all Google phone with a non-Google bug",
       "https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 15:58:02",
-      "https://news.ycombinator.com/item?id=34490376"
-    ],
-    [
-      "Zero to Nix, an unofficial, opinionated, gentle introduction to Nix",
-      "https://zero-to-nix.com/"
     ]
   ],
   [
@@ -191,12 +181,12 @@
   ],
   [
     [
-      "2023-01-23, 09:49:03",
-      "https://news.ycombinator.com/item?id=34487066"
+      "2023-01-23, 09:35:03",
+      "https://news.ycombinator.com/item?id=34487000"
     ],
     [
-      "macOS CLI tool to configure multi-display resolutions and arrangements",
-      "https://github.com/jakehilborn/displayplacer"
+      "Medical history books",
+      "https://scottlocklin.wordpress.com/2022/12/21/medical-history-books/"
     ]
   ],
   [
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=34486824"
     ],
     [
-      "Japan: The Harbinger State",
+      "Japan: the harbinger state",
       "https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/japan-the-harbinger-state/2A9123B64A04C480B1BC5669FC2C8AF3"
     ]
   ],
@@ -257,6 +247,16 @@
     [
       "Perplexity.ai prompt leakage",
       "https://twitter.com/jmilldotdev/status/1600624362394091523"
+    ]
+  ],
+  [
+    [
+      "2023-01-22, 17:24:49",
+      "https://news.ycombinator.com/item?id=34479742"
+    ],
+    [
+      "The last days of Nikki Finke, Hollywood’s most reviled reporter",
+      "https://www.nytimes.com/2023/01/21/style/nikki-finke-hollywood-journalist.html"
     ]
   ],
   [
