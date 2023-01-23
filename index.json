@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-23, 05:59:52",
+      "https://news.ycombinator.com/item?id=34485977"
+    ],
+    [
+      "My Dream Computer",
+      "https://bluelander.bearblog.dev/my-dream-computer/"
+    ]
+  ],
+  [
+    [
       "2023-01-23, 04:55:38",
       "https://news.ycombinator.com/item?id=34485631"
     ],
@@ -151,12 +161,12 @@
   ],
   [
     [
-      "2023-01-22, 21:28:57",
-      "https://news.ycombinator.com/item?id=34482433"
+      "2023-01-22, 22:00:40",
+      "https://news.ycombinator.com/item?id=34482684"
     ],
     [
-      "Ask HN: Those making $500+/month on side projects in 2023 – Show and tell",
-      "https://news.ycombinator.com/item?id=34482433"
+      "The first new build of Circle, a new C++20 compiler, since April 2022 is online",
+      "https://github.com/seanbaxter/circle/blob/master/new-circle/README.md"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Negative-weight single-source shortest paths in near-linear time",
       "https://arxiv.org/abs/2203.03456"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 15:01:36",
-      "https://news.ycombinator.com/item?id=34477976"
-    ],
-    [
-      "Git-sim: Visually simulate Git operations in your own repos",
-      "https://initialcommit.com/blog/git-sim"
     ]
   ],
   [
