@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2023-01-23, 01:57:00",
-      "https://news.ycombinator.com/item?id=34484519"
+      "2023-01-23, 02:00:16",
+      "https://news.ycombinator.com/item?id=34484556"
     ],
     [
-      "TrueOS (née PC-BSD) Has Been Discontinued (2020)",
-      "https://www.truenas.com/trueos-discontinuation/"
+      "Show HN: Synesthesia – Visual Website Builder",
+      "https://synesthesia.ai/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Rust on macOS 9",
       "https://twitter.com/turbolent/status/1617231570573873152"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 22:54:46",
-      "https://news.ycombinator.com/item?id=34483168"
-    ],
-    [
-      "WY Union Says Court Ruling in Kroger–Albertson’s Merger Favors “Ultra-Wealthy”",
-      "https://cowboystatedaily.com/2023/01/19/fight-over-albertsons-kroger-grocery-mega-merger-moves-goes-political/"
     ]
   ],
   [
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2023-01-22, 11:57:18",
-      "https://news.ycombinator.com/item?id=34476507"
-    ],
-    [
-      "Detect breaches with Canary credit cards",
-      "https://blog.thinkst.com/2023/01/swipe-right-on-our-new-credit-card-tokens.html"
-    ]
-  ],
-  [
-    [
       "2023-01-22, 11:15:44",
       "https://news.ycombinator.com/item?id=34476277"
     ],
@@ -241,12 +221,12 @@
   ],
   [
     [
-      "2023-01-22, 09:53:31",
-      "https://news.ycombinator.com/item?id=34475870"
+      "2023-01-22, 09:43:53",
+      "https://news.ycombinator.com/item?id=34475815"
     ],
     [
-      "Post-mortem of our first YC startup: a Reverse ETL",
-      "https://www.getlago.com/blog/post-mortem-of-our-1st-yc-startup-a-reverse-etl"
+      "Bringing TLS to the Magic Cap DataRover",
+      "http://oldvcr.blogspot.com/2023/01/bringing-tls-to-magic-cap-datarover.html"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2023-01-18, 10:13:43",
+      "https://news.ycombinator.com/item?id=34425139"
+    ],
+    [
+      "The Future of Search Is Boutique",
+      "https://future.com/the-future-of-search-is-boutique/"
+    ]
+  ],
+  [
+    [
       "2023-01-18, 07:06:26",
       "https://news.ycombinator.com/item?id=34424172"
     ],
@@ -297,6 +287,16 @@
     [
       "How to transform code into arithmetic circuits",
       "https://www.notamonadtutorial.com/how-to-transform-code-into-arithmetic-circuits/"
+    ]
+  ],
+  [
+    [
+      "2023-01-16, 12:04:19",
+      "https://news.ycombinator.com/item?id=34399790"
+    ],
+    [
+      "How fighting games use delay-based and rollback netcode (2019)",
+      "https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/"
     ]
   ]
 ]
