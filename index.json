@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-23, 03:56:16",
+      "https://news.ycombinator.com/item?id=34485301"
+    ],
+    [
+      "Concise – Search Engine to Replace Shopping Filters",
+      "https://concise.space"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 03:25:24",
+      "https://news.ycombinator.com/item?id=34485119"
+    ],
+    [
+      "OWASP Juice Shop",
+      "https://owasp.org/www-project-juice-shop/"
+    ]
+  ],
+  [
+    [
       "2023-01-23, 03:05:41",
       "https://news.ycombinator.com/item?id=34484994"
     ],
@@ -21,12 +41,22 @@
   ],
   [
     [
-      "2023-01-23, 02:36:33",
-      "https://news.ycombinator.com/item?id=34484784"
+      "2023-01-23, 02:39:42",
+      "https://news.ycombinator.com/item?id=34484809"
     ],
     [
-      "Grand Theft Auto V exploit assigned CVE number due to partial RCE",
-      "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24059"
+      "Opensnitch, application level interactive firewall, heading into Debian",
+      "https://people.skolelinux.org/pere/blog/Opensnitch__the_application_level_interactive_firewall__heading_into_the_Debian_archive.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 02:22:34",
+      "https://news.ycombinator.com/item?id=34484710"
+    ],
+    [
+      "Ask HN: What is your experience in tech consulting?",
+      "https://news.ycombinator.com/item?id=34484710"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-01-22, 17:49:25",
-      "https://news.ycombinator.com/item?id=34480081"
-    ],
-    [
-      "Decoding Lunar Flashlight",
-      "https://destevez.net/2023/01/decoding-lunar-flashlight/"
-    ]
-  ],
-  [
-    [
       "2023-01-22, 17:46:26",
       "https://news.ycombinator.com/item?id=34480039"
     ],
@@ -237,26 +257,6 @@
     [
       "How to implement Q&A against your docs with GPT3 embeddings and Datasette",
       "https://simonwillison.net/2023/Jan/13/semantic-search-answers/"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 12:42:35",
-      "https://news.ycombinator.com/item?id=34476820"
-    ],
-    [
-      "Appalachian Apple hunter who rescued 1k ‘lost’ varieties (2021)",
-      "https://www.atlasobscura.com/articles/heritage-appalachian-apples"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 11:15:44",
-      "https://news.ycombinator.com/item?id=34476277"
-    ],
-    [
-      "Hampstead Heath",
-      "https://www.hampsteadheath.net/about"
     ]
   ],
   [
