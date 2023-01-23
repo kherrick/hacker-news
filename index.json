@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-23, 12:06:54",
+      "https://news.ycombinator.com/item?id=34487875"
+    ],
+    [
+      "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer",
+      "https://jobs.lever.co/buildzoom"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 11:26:16",
+      "https://news.ycombinator.com/item?id=34487606"
+    ],
+    [
+      "Ask HN: What do you do to start and develop friendships?",
+      "https://news.ycombinator.com/item?id=34487606"
+    ]
+  ],
+  [
+    [
       "2023-01-23, 10:19:25",
       "https://news.ycombinator.com/item?id=34487201"
     ],
@@ -227,26 +247,6 @@
     [
       "The first new build of Circle, a new C++20 compiler, since April 2022 is online",
       "https://github.com/seanbaxter/circle/blob/master/new-circle/README.md"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 21:05:59",
-      "https://news.ycombinator.com/item?id=34482226"
-    ],
-    [
-      "The Point of the Banach-Tarski Theorem",
-      "https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?wa22hn"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 20:54:35",
-      "https://news.ycombinator.com/item?id=34482116"
-    ],
-    [
-      "JEP draft: No longer require super() and this() to appear first in a constructor",
-      "https://openjdk.org/jeps/8300786"
     ]
   ],
   [
