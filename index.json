@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34485551"
     ],
     [
-      "Ceremonial Security and Cargo Cults",
+      "Ceremonial security and cargo cults",
       "https://www.philvenables.com/post/ceremonial-security-and-cargo-cults"
     ]
   ],
@@ -57,6 +57,16 @@
     [
       "Opensnitch, application level interactive firewall, heading into Debian",
       "https://people.skolelinux.org/pere/blog/Opensnitch__the_application_level_interactive_firewall__heading_into_the_Debian_archive.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 02:22:34",
+      "https://news.ycombinator.com/item?id=34484710"
+    ],
+    [
+      "Ask HN: What is your experience in tech consulting?",
+      "https://news.ycombinator.com/item?id=34484710"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Git-sim: Visually simulate Git operations in your own repos",
       "https://initialcommit.com/blog/git-sim"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 14:11:18",
-      "https://news.ycombinator.com/item?id=34477543"
-    ],
-    [
-      "How to implement Q&A against your docs with GPT3 embeddings and Datasette",
-      "https://simonwillison.net/2023/Jan/13/semantic-search-answers/"
     ]
   ],
   [
