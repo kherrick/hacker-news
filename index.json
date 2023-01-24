@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-24, 17:00:07",
+      "https://news.ycombinator.com/item?id=34506370"
+    ],
+    [
+      "Replit (YC W18) Is Hiring First Developer Advocate",
+      "https://jobs.ashbyhq.com/replit/434075ed-aa4c-4a42-b2ad-fa1242817e7d"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 16:23:38",
       "https://news.ycombinator.com/item?id=34505717"
     ],
@@ -57,26 +67,6 @@
     [
       "The Git source code audit, viewed as a Rust programmer",
       "https://litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 15:28:29",
-      "https://news.ycombinator.com/item?id=34504752"
-    ],
-    [
-      "MacBooks from 2020 Are Being Sold for Scrap Because of Activation Lock",
-      "https://www.vice.com/en/article/xgybq7/apple-macbook-activation-lock-right-to-repair"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 15:15:15",
-      "https://news.ycombinator.com/item?id=34504565"
-    ],
-    [
-      "Gas stoves became part of America’s culture wars",
-      "https://www.economist.com/the-economist-explains/2023/01/17/how-gas-stoves-became-part-of-americas-culture-wars"
     ]
   ],
   [
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2023-01-24, 12:00:58",
-      "https://news.ycombinator.com/item?id=34502527"
+      "2023-01-24, 11:05:24",
+      "https://news.ycombinator.com/item?id=34502135"
     ],
     [
-      "OneText (YC W23) is hiring our first engineer",
-      "https://www.ycombinator.com/companies/onetext/jobs/VdQkXRa-first-engineer-for-onetext-new-y-combinator-fintech-startup-with-former-paypal-leads"
+      "German cartel office initiates proceedings against PayPal",
+      "https://www.reuters.com/legal/german-cartel-office-initiates-proceedings-against-paypal-2023-01-23/"
     ]
   ],
   [
@@ -227,6 +217,26 @@
     [
       "Marp: Markdown Presentation Ecosystem",
       "https://marp.app/"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 09:23:43",
+      "https://news.ycombinator.com/item?id=34501459"
+    ],
+    [
+      "Linear-log bucketing: fast, versatile, simple (2015)",
+      "https://pvk.ca/Blog/2015/06/27/linear-log-bucketing-fast-versatile-simple/"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 08:49:04",
+      "https://news.ycombinator.com/item?id=34501173"
+    ],
+    [
+      "Apple attempting to stop investigation into its practices involving Browsers",
+      "https://twitter.com/openwebadvocacy/status/1617802614149894144"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Build security with the assumption it will be used against your friends",
       "https://mjg59.dreamwidth.org/65272.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 01:36:17",
-      "https://news.ycombinator.com/item?id=34497898"
-    ],
-    [
-      "Bitwarden design flaw: Server side iterations",
-      "https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/"
     ]
   ],
   [
