@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-01-24, 18:21:12",
-      "https://news.ycombinator.com/item?id=34507665"
+      "2023-01-24, 18:21:48",
+      "https://news.ycombinator.com/item?id=34507672"
     ],
     [
-      "Poll: Are startup founders a minority on HN?",
-      "https://news.ycombinator.com/item?id=34507665"
+      "Cal.com: The Open-Source Calendly Alternative",
+      "https://cal.com/"
     ]
   ],
   [
@@ -31,12 +31,42 @@
   ],
   [
     [
+      "2023-01-24, 18:13:18",
+      "https://news.ycombinator.com/item?id=34507532"
+    ],
+    [
+      "Apple CEO Tim Cook requests and receives a 40% pay cut",
+      "https://www.cnbc.com/2023/01/12/apple-ceo-tim-cook-receives-a-40percent-pay-cut-after-shareholder-vote.html"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 18:12:41",
       "https://news.ycombinator.com/item?id=34507525"
     ],
     [
       "Now Available: Ivory for Mastodon by Tapbots",
       "https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 18:12:06",
+      "https://news.ycombinator.com/item?id=34507513"
+    ],
+    [
+      "Show HN: Create QuickBooks Sale Receipt from 3rd Party Transactions",
+      "https://paysync.ca/"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 18:07:50",
+      "https://news.ycombinator.com/item?id=34507443"
+    ],
+    [
+      "Snowden on the Lightning Network on Nostr",
+      "https://iris.to/#/post/note1scags6u8fre3rhyc9h457wdrhu0r2c0h4t4e4d4nrwsjj6mcg2qqc2k7am"
     ]
   ],
   [
@@ -171,36 +201,6 @@
   ],
   [
     [
-      "2023-01-24, 14:10:05",
-      "https://news.ycombinator.com/item?id=34503723"
-    ],
-    [
-      "ChatGPT Cheat Sheet",
-      "https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view?usp=share_link"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 13:44:01",
-      "https://news.ycombinator.com/item?id=34503418"
-    ],
-    [
-      "GPT is all you need for the back end",
-      "https://github.com/TheAppleTucker/backend-GPT"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 13:26:02",
-      "https://news.ycombinator.com/item?id=34503233"
-    ],
-    [
-      "TIL you can de-obfuscate code with ChatGPT",
-      "https://twitter.com/AlexAlexandrius/status/1617876020593557506"
-    ]
-  ],
-  [
-    [
       "2023-01-24, 13:19:02",
       "https://news.ycombinator.com/item?id=34503176"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-01-24, 08:25:57",
+      "https://news.ycombinator.com/item?id=34500979"
+    ],
+    [
+      "Are you indexing the smart way?",
+      "https://blog.meilisearch.com/best-practices-for-faster-indexing/"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 07:57:28",
       "https://news.ycombinator.com/item?id=34500776"
     ],
@@ -277,16 +287,6 @@
     [
       "Minimal Cross-Platform Graphics",
       "https://zserge.com/posts/fenster/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 05:16:27",
-      "https://news.ycombinator.com/item?id=34499649"
-    ],
-    [
-      "Build security with the assumption it will be used against your friends",
-      "https://mjg59.dreamwidth.org/65272.html"
     ]
   ],
   [
