@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-24, 15:01:06",
+      "https://news.ycombinator.com/item?id=34504376"
+    ],
+    [
+      "Making sense of TypeScript using set theory",
+      "https://blog.thoughtspile.tech/2023/01/23/typescript-sets/"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 14:38:34",
       "https://news.ycombinator.com/item?id=34504085"
     ],
@@ -15,8 +25,38 @@
       "https://news.ycombinator.com/item?id=34504037"
     ],
     [
-      "Gitpod has laid off 28% of the company which is circa 21 employees",
+      "Gitpod has laid off around 20 employees",
       "https://twitter.com/geoffreyhuntley/status/1617878457807167494"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 14:29:29",
+      "https://news.ycombinator.com/item?id=34503970"
+    ],
+    [
+      "SlidesGPT – Like ChatGPT for Slides",
+      "https://slidesgpt.com"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 14:22:59",
+      "https://news.ycombinator.com/item?id=34503888"
+    ],
+    [
+      "Make a Resume in LaTeX from Scratch",
+      "https://drshika.me/2022/04/15/latex-resumes"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 14:10:05",
+      "https://news.ycombinator.com/item?id=34503723"
+    ],
+    [
+      "ChatGPT Cheat Sheet",
+      "https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view?usp=share_link"
     ]
   ],
   [
@@ -51,11 +91,21 @@
   ],
   [
     [
+      "2023-01-24, 13:19:02",
+      "https://news.ycombinator.com/item?id=34503176"
+    ],
+    [
+      "Ask HN: Self-hosting in 2023: Nextcloud on Linode, or...?",
+      "https://news.ycombinator.com/item?id=34503176"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 12:50:14",
       "https://news.ycombinator.com/item?id=34502939"
     ],
     [
-      "CNET's AI Journalist Appears to Have Committed Extensive Plagiarism",
+      "CNET's AI journalist appears to have committed extensive plagiarism",
       "https://futurism.com/cnet-ai-plagiarism"
     ]
   ],
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2023-01-24, 09:49:30",
-      "https://news.ycombinator.com/item?id=34501651"
-    ],
-    [
-      "Code reviews need to shift-left",
-      "https://sourcery-ai.medium.com/code-reviews-need-to-shift-left-ef76fb161a1b"
-    ]
-  ],
-  [
-    [
       "2023-01-24, 09:23:43",
       "https://news.ycombinator.com/item?id=34501459"
     ],
@@ -157,16 +197,6 @@
     [
       "Apple attempting to stop investigation into its practices involving Browsers",
       "https://twitter.com/openwebadvocacy/status/1617802614149894144"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 08:37:56",
-      "https://news.ycombinator.com/item?id=34501085"
-    ],
-    [
-      "The current layoffs were orchestrated by hedge funds",
-      "https://m6n.io/@fuzzychef/109740778756656452"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-01-23, 21:29:22",
-      "https://news.ycombinator.com/item?id=34495334"
-    ],
-    [
-      "Has Earth’s inner core stopped its strange spin?",
-      "https://www.nature.com/articles/d41586-023-00167-1"
-    ]
-  ],
-  [
-    [
       "2023-01-23, 19:40:05",
       "https://news.ycombinator.com/item?id=34493852"
     ],
     [
       "If you find this world bad, you should see some of the others (1977) [pdf]",
       "https://ia903105.us.archive.org/7/items/philip.k.dickif.you.find.this.world.bad.you.should.see.some.of.the.others/Philip.K.Dick-If.You.Find.This.World.Bad.You.Should.See.Some.Of.The.Others.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 17:34:05",
-      "https://news.ycombinator.com/item?id=34492052"
-    ],
-    [
-      "Wonders of Street View",
-      "https://neal.fun/wonders-of-street-view/"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 00:55:13",
-      "https://news.ycombinator.com/item?id=34484128"
-    ],
-    [
-      "Competing Paradigms: On “The Last Writings of Thomas S. Kuhn”",
-      "https://lareviewofbooks.org/article/competing-paradigms-on-the-last-writings-of-thomas-s-kuhn/"
     ]
   ]
 ]
