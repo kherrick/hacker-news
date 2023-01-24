@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-24, 01:36:17",
+      "https://news.ycombinator.com/item?id=34497898"
+    ],
+    [
+      "Bitwarden Design Flaw",
+      "https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 01:13:26",
+      "https://news.ycombinator.com/item?id=34497700"
+    ],
+    [
+      "International domain names: where does HTTPS://meßagefactory.ca lead you?",
+      "https://lemire.me/blog/2023/01/23/international-domain-names-where-does-https-mesagefactory-ca-lead-you/"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 01:01:41",
       "https://news.ycombinator.com/item?id=34497587"
     ],
@@ -27,6 +47,16 @@
     [
       "How Equifax Became a Private IRS",
       "https://mattstoller.substack.com/p/how-equifax-became-a-private-irs"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 23:44:58",
+      "https://news.ycombinator.com/item?id=34496794"
+    ],
+    [
+      "Ask HN: How is the tech market in SF? How does it compare to remote?",
+      "https://news.ycombinator.com/item?id=34496794"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2023-01-23, 21:29:22",
-      "https://news.ycombinator.com/item?id=34495334"
-    ],
-    [
-      "Has Earth’s inner core stopped its strange spin?",
-      "https://www.nature.com/articles/d41586-023-00167-1"
-    ]
-  ],
-  [
-    [
       "2023-01-23, 21:12:41",
       "https://news.ycombinator.com/item?id=34495115"
     ],
@@ -141,12 +161,12 @@
   ],
   [
     [
-      "2023-01-23, 18:52:10",
-      "https://news.ycombinator.com/item?id=34493200"
+      "2023-01-23, 17:51:17",
+      "https://news.ycombinator.com/item?id=34492319"
     ],
     [
-      "Expanding Features for End-to-End Encryption on Messenger",
-      "https://about.fb.com/news/2023/01/expanding-features-for-end-to-end-encryption-on-messenger/"
+      "Synchronous Observation of Bell Nonlocality and State-Dependent Contextuality",
+      "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.040201"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Dissolution Foretold: A neurosurgeon on the reality of his diagnosis",
       "https://lithub.com/dissolution-foretold-neurosurgeon-henry-marsh-on-the-reality-of-his-own-diagnosis/"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 15:29:22",
-      "https://news.ycombinator.com/item?id=34489945"
-    ],
-    [
-      "Commercial 3D printers emit traces of toxic fumes, study finds (2019)",
-      "https://eandt.theiet.org/content/articles/2019/10/commercial-3d-printers-emit-traces-of-toxic-fumes-study-finds/"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 08:13:14",
-      "https://news.ycombinator.com/item?id=34486596"
-    ],
-    [
-      "Show HN: Shite – little hot-reloadin' static site maker from shell",
-      "https://github.com/adityaathalye/shite"
     ]
   ],
   [
