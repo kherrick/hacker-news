@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-01-24, 17:11:54",
-      "https://news.ycombinator.com/item?id=34506580"
+      "2023-01-24, 17:52:14",
+      "https://news.ycombinator.com/item?id=34507230"
     ],
     [
-      "We are now 90 seconds to our doom",
-      "https://www.theverge.com/2023/1/24/23569012/doomsday-clock-90-seconds-midnight-ukraine-war-climate-change-disinformation"
+      "U.S. Accuses Google of Abusing Monopoly in Ad Technology",
+      "https://www.nytimes.com/2023/01/24/technology/google-ads-lawsuit.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 17:17:06",
+      "https://news.ycombinator.com/item?id=34506657"
+    ],
+    [
+      "Kysely: TypeScript SQL Query Builder",
+      "https://github.com/koskimas/kysely"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "PagerDuty to Lay Off 7% of Staff; Revenue Officer to Exit",
       "https://www.marketwatch.com/story/pagerduty-to-lay-off-7-of-staff-revenue-officer-to-exit-271674568511"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 16:49:00",
-      "https://news.ycombinator.com/item?id=34506176"
-    ],
-    [
-      "A Perceptually Meaningful Audio Visualizer",
-      "https://delu.medium.com/a-perceptually-meaningful-audio-visualizer-ee72051781bc"
     ]
   ],
   [
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34505219"
     ],
     [
-      "HN: Thank you for being fast, ad-free and text only",
+      "Tell HN: Thank you for being fast, ad-free and text only",
       "https://news.ycombinator.com/item?id=34505219"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=34503888"
     ],
     [
-      "Make a Resume in LaTeX from Scratch",
+      "Make a Resume in LaTeX",
       "https://drshika.me/2022/04/15/latex-resumes"
     ]
   ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-01-24, 08:03:07",
-      "https://news.ycombinator.com/item?id=34500822"
-    ],
-    [
-      "Elastic, Loki and SigNoz – A Perf Benchmark of Open-Source Logging Platforms",
-      "https://github.com/SigNoz/logs-benchmark"
-    ]
-  ],
-  [
-    [
       "2023-01-24, 07:57:28",
       "https://news.ycombinator.com/item?id=34500776"
     ],
@@ -287,6 +277,16 @@
     [
       "Build security with the assumption it will be used against your friends",
       "https://mjg59.dreamwidth.org/65272.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 20:39:13",
+      "https://news.ycombinator.com/item?id=34494667"
+    ],
+    [
+      "Corpse Medicine",
+      "https://collation.folger.edu/2023/01/corpse-medicine/"
     ]
   ],
   [
