@@ -1,11 +1,31 @@
 [
   [
     [
+      "2023-01-24, 19:31:27",
+      "https://news.ycombinator.com/item?id=34508886"
+    ],
+    [
+      "Ask HN: Is PayPal an open scam at this point?",
+      "https://news.ycombinator.com/item?id=34508886"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 19:04:31",
+      "https://news.ycombinator.com/item?id=34508396"
+    ],
+    [
+      "Appliance makers sad that 50% of customers won’t connect smart appliances",
+      "https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament/"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 19:04:19",
       "https://news.ycombinator.com/item?id=34508386"
     ],
     [
-      "Making chloroform so I can sleep better at night",
+      "Making chloroform so I can sleep better at night [video]",
       "https://www.youtube.com/watch?v=L23akTkDqTM"
     ]
   ],
@@ -27,26 +47,6 @@
     [
       "Poll: Are startup founders a minority on HN?",
       "https://news.ycombinator.com/item?id=34507665"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 18:16:48",
-      "https://news.ycombinator.com/item?id=34507579"
-    ],
-    [
-      "512GB 14” M2 Pro MacBook Pro has slower SSD than previous model",
-      "https://twitter.com/ZONEofTECH/status/1617946631156162560"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 18:13:18",
-      "https://news.ycombinator.com/item?id=34507532"
-    ],
-    [
-      "Apple CEO Tim Cook requests and receives a 40% pay cut",
-      "https://www.cnbc.com/2023/01/12/apple-ceo-tim-cook-receives-a-40percent-pay-cut-after-shareholder-vote.html"
     ]
   ],
   [
@@ -105,18 +105,8 @@
       "https://news.ycombinator.com/item?id=34506370"
     ],
     [
-      "Replit (YC W18) Is Hiring First Developer Advocate",
+      "Replit (YC W18) is hiring a first developer advocate",
       "https://jobs.ashbyhq.com/replit/434075ed-aa4c-4a42-b2ad-fa1242817e7d"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 16:54:46",
-      "https://news.ycombinator.com/item?id=34506278"
-    ],
-    [
-      "PagerDuty to Lay Off 7% of Staff; Revenue Officer to Exit",
-      "https://www.marketwatch.com/story/pagerduty-to-lay-off-7-of-staff-revenue-officer-to-exit-271674568511"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Hyperscale in your Homelab: The Compute Blade arrives",
       "https://www.jeffgeerling.com/blog/2023/hyperscale-your-homelab-compute-blade-arrives"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 05:12:53",
+      "https://news.ycombinator.com/item?id=34499615"
+    ],
+    [
+      "Tweak New Twitter",
+      "https://github.com/insin/tweak-new-twitter"
     ]
   ],
   [
