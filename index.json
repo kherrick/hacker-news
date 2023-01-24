@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34497898"
     ],
     [
-      "Bitwarden Design Flaw",
+      "Bitwarden design flaw: Server side iterations",
       "https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34497700"
     ],
     [
-      "International domain names: where does HTTPS://meßagefactory.ca lead you?",
+      "International domain names: where does https://meßagefactory.ca lead you?",
       "https://lemire.me/blog/2023/01/23/international-domain-names-where-does-https-mesagefactory-ca-lead-you/"
     ]
   ],
@@ -41,22 +41,32 @@
   ],
   [
     [
-      "2023-01-23, 23:44:58",
-      "https://news.ycombinator.com/item?id=34496794"
+      "2023-01-24, 00:14:22",
+      "https://news.ycombinator.com/item?id=34497137"
     ],
     [
-      "Ask HN: How is the tech market in SF? How does it compare to remote?",
-      "https://news.ycombinator.com/item?id=34496794"
+      "The Disappearance of the Ashtray",
+      "https://clivethompson.medium.com/the-disappearance-of-the-ashtray-4badc1be9e3b"
     ]
   ],
   [
     [
-      "2023-01-23, 23:36:39",
-      "https://news.ycombinator.com/item?id=34496724"
+      "2023-01-23, 23:57:54",
+      "https://news.ycombinator.com/item?id=34496934"
     ],
     [
-      "ChatGPT passes MBA exam given by a Wharton professor",
-      "https://www.nbcnews.com/tech/tech-news/chatgpt-passes-mba-exam-wharton-professor-rcna67036"
+      "OpenDolphin: Contribute to a truly open social network",
+      "https://about.opendolphin.social/"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 23:10:59",
+      "https://news.ycombinator.com/item?id=34496438"
+    ],
+    [
+      "Is tipping getting out of control? Many consumers say yes",
+      "https://apnews.com/article/tipping-fatigue-business-c4ae9d440610dae5e8ff4d4df0f88c35"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Setting the clock ahead to see what breaks",
       "https://rachelbythebay.com/w/2023/01/19/time/"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 22:34:02",
-      "https://news.ycombinator.com/item?id=34496089"
-    ],
-    [
-      "If you are using Cloudflare and Chrome, add custom header to see cache hit",
-      "https://kiru.io/blog/posts/2022/easily-detect-cloudflare-cache-hit/"
     ]
   ],
   [
@@ -115,18 +115,18 @@
       "https://news.ycombinator.com/item?id=34495472"
     ],
     [
-      "Doomgeneric: Make Porting Doom Easier",
+      "Doomgeneric: Make porting Doom easier",
       "https://github.com/ozkl/doomgeneric"
     ]
   ],
   [
     [
-      "2023-01-23, 21:12:41",
-      "https://news.ycombinator.com/item?id=34495115"
+      "2023-01-23, 21:29:22",
+      "https://news.ycombinator.com/item?id=34495334"
     ],
     [
-      "A dozen USB chargers in the lab: Apple is good, but not quite the best (2012)",
-      "https://www.righto.com/2012/10/a-dozen-usb-chargers-in-lab-apple-is.html"
+      "Has Earth’s inner core stopped its strange spin?",
+      "https://www.nature.com/articles/d41586-023-00167-1"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-01-23, 16:37:31",
+      "https://news.ycombinator.com/item?id=34491077"
+    ],
+    [
+      "Blind Spots: Automatically detecting ignored program inputs",
+      "https://arxiv.org/abs/2301.08700"
+    ]
+  ],
+  [
+    [
       "2023-01-23, 16:03:17",
       "https://news.ycombinator.com/item?id=34490471"
     ],
@@ -231,21 +241,11 @@
   ],
   [
     [
-      "2023-01-23, 14:04:06",
-      "https://news.ycombinator.com/item?id=34488811"
-    ],
-    [
-      "OpenAI and Microsoft extend partnership",
-      "https://openai.com/blog/openai-and-microsoft-extend-partnership/"
-    ]
-  ],
-  [
-    [
       "2023-01-23, 01:59:18",
       "https://news.ycombinator.com/item?id=34484546"
     ],
     [
-      "Emulating Win32",
+      "Emulating win32",
       "https://neugierig.org/software/blog/2023/01/emulating-win32.html"
     ]
   ],
