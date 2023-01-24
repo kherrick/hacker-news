@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-01-24, 21:01:06",
+      "https://news.ycombinator.com/item?id=34510307"
+    ],
+    [
+      "Jerry (YC S17) is hiring a senior product designer (remote)",
+      "https://jobs.ashbyhq.com/Jerry/0a1e6878-1f8d-443e-aaad-fcdd97ee1829?departmentId=35139ec5-efdf-4d54-bbfb-47d24a37e6e2"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 20:27:43",
       "https://news.ycombinator.com/item?id=34509789"
     ],
     [
-      "Strings in YAML – To Quote or Not to Quote",
+      "Strings in YAML – To quote or not to quote (2018)",
       "https://blogs.perl.org/users/tinita/2018/03/strings-in-yaml---to-quote-or-not-to-quote.html"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34509498"
     ],
     [
-      "The Mac Malware of 2022",
+      "Mac Malware of 2022",
       "https://objective-see.org/blog/blog_0x71.html"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "How the Xbox 360 knows if your hard drive is genuine",
       "https://eaton-works.com/2023/01/24/how-the-xbox-360-knows-if-your-hard-drive-is-genuine/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 19:04:31",
-      "https://news.ycombinator.com/item?id=34508396"
-    ],
-    [
-      "Appliance makers sad that 50% of customers won’t connect smart appliances",
-      "https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament/"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Kysely: TypeScript SQL Query Builder",
       "https://github.com/koskimas/kysely"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 17:00:07",
-      "https://news.ycombinator.com/item?id=34506370"
-    ],
-    [
-      "Replit (YC W18) is hiring a first developer advocate",
-      "https://jobs.ashbyhq.com/replit/434075ed-aa4c-4a42-b2ad-fa1242817e7d"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Ask HN: Self-hosting in 2023: Nextcloud on Linode, or...?",
       "https://news.ycombinator.com/item?id=34503176"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 12:41:42",
+      "https://news.ycombinator.com/item?id=34502870"
+    ],
+    [
+      "Show HN: Realtime GPU-powered implicit function plotter in your browser",
+      "https://plotf.xyz/"
     ]
   ],
   [
