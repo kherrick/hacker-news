@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-25, 18:21:07",
+      "https://news.ycombinator.com/item?id=34522084"
+    ],
+    [
+      "There are now 100M developers around the world using GitHub",
+      "https://github.blog/2023-01-25-100-million-developers-and-counting/"
+    ]
+  ],
+  [
+    [
       "2023-01-25, 17:23:00",
       "https://news.ycombinator.com/item?id=34521179"
     ],
@@ -21,21 +31,11 @@
   ],
   [
     [
-      "2023-01-25, 17:16:33",
-      "https://news.ycombinator.com/item?id=34521085"
-    ],
-    [
-      "DOJ Sues Google, Seeking to Break Up Online Advertising Business",
-      "https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792"
-    ]
-  ],
-  [
-    [
       "2023-01-25, 16:51:39",
       "https://news.ycombinator.com/item?id=34520664"
     ],
     [
-      "From $200/mo to $18k in 5 years as solo founder",
+      "Tell HN: From $200/mo to $18k in 5 years as solo founder",
       "https://news.ycombinator.com/item?id=34520664"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34520498"
     ],
     [
-      "Do Not Taunt Happy Fun Branch Predictor",
+      "Do not taunt happy fun branch predictor",
       "https://www.mattkeeter.com/blog/2023-01-25-branch/"
     ]
   ],
@@ -67,6 +67,16 @@
     [
       "Jetnet Acquires ADS-B Exchange, a community-fed ADSB aggregator",
       "https://www.jetnet.com/news/jetnet-acquires-ads-b-exchange.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 16:10:29",
+      "https://news.ycombinator.com/item?id=34520031"
+    ],
+    [
+      "Coinbase’s chief product officer will leave with a $105M payday",
+      "https://dlnews.com/articles/coinbase-chief-product-officer-surojit-chatterjee-gets-105-million-payday"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34519268"
     ],
     [
-      "What We Look for in a Resume",
+      "What we look for in a resume",
       "https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34518606"
     ],
     [
-      "“MuffinTerm”: A Great New Terminal App for BBSing on iPhone, iPad, and Mac",
+      "“MuffinTerm”: A great new terminal app for BBSing on iPhone, iPad, and Mac",
       "https://bytecellar.com/2023/01/25/muffinterm-a-great-new-terminal-emulator-for-iphone-ipad-and-mac/"
     ]
   ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-01-25, 13:00:04",
-      "https://news.ycombinator.com/item?id=34517718"
-    ],
-    [
-      "Startup studios that created billions in value",
-      "https://www.volodarik.com/blog/10-startup-studios-that-created-billions-in-value"
-    ]
-  ],
-  [
-    [
       "2023-01-25, 12:58:16",
       "https://news.ycombinator.com/item?id=34517698"
     ],
@@ -207,6 +207,16 @@
     [
       "EVs Are Essential Grid-Scale Storage",
       "https://spectrum.ieee.org/electric-vehicle-grid-storage"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 11:30:45",
+      "https://news.ycombinator.com/item?id=34517065"
+    ],
+    [
+      "A Matchbox Game-Learning Machine (1991) [pdf]",
+      "https://gwern.net/docs/reinforcement-learning/model-free/1991-gardner-ch8amatchboxgamelearningmachine.pdf"
     ]
   ],
   [
@@ -255,48 +265,38 @@
       "https://news.ycombinator.com/item?id=34516275"
     ],
     [
-      "LastPass breach gets worse – reddit.com/r/sysadmin",
+      "LastPass breach gets worse",
       "https://old.reddit.com/r/sysadmin/comments/10kp4ye/lastpass_breach_gets_worse/"
     ]
   ],
   [
     [
-      "2023-01-25, 07:26:44",
-      "https://news.ycombinator.com/item?id=34515421"
+      "2023-01-25, 08:54:19",
+      "https://news.ycombinator.com/item?id=34516013"
     ],
     [
-      "1min high-intensity exercise 3x a week improves fitness as much as 3x aerobics (2016)",
-      "https://pubmed.ncbi.nlm.nih.gov/27115137/"
+      "IPinside: Korea’s Mandatory Spyware",
+      "https://palant.info/2023/01/25/ipinside-koreas-mandatory-spyware/"
     ]
   ],
   [
     [
-      "2023-01-25, 07:00:53",
-      "https://news.ycombinator.com/item?id=34515267"
+      "2023-01-25, 05:07:41",
+      "https://news.ycombinator.com/item?id=34514656"
     ],
     [
-      "Macroeconomic Changes Have Made It Impossible for Me to Want to Pay You",
-      "https://www.mcsweeneys.net/articles/macroeconomic-changes-have-made-it-impossible-for-me-to-want-to-pay-you"
+      "Fun with macOS's Sip",
+      "https://metalbear.co/blog/fun-with-macoss-sip/"
     ]
   ],
   [
     [
-      "2023-01-25, 04:39:53",
-      "https://news.ycombinator.com/item?id=34514480"
+      "2023-01-25, 04:44:00",
+      "https://news.ycombinator.com/item?id=34514499"
     ],
     [
-      "Show HN: I “wrote” a kid's book with ChatGPT and Midjourney",
-      "https://adventure-of-penelope.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 02:55:18",
-      "https://news.ycombinator.com/item?id=34513806"
-    ],
-    [
-      "The six dumbest ideas in computer security (2005)",
-      "http://ranum.com/security/computer_security/editorials/dumb/index.html"
+      "Trs80gp – A TRS-80 Emulator",
+      "http://48k.ca/trs80gp.html"
     ]
   ]
 ]
