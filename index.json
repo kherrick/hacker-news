@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-01-25, 18:21:07",
-      "https://news.ycombinator.com/item?id=34522084"
-    ],
-    [
-      "There are now 100M developers around the world using GitHub",
-      "https://github.blog/2023-01-25-100-million-developers-and-counting/"
-    ]
-  ],
-  [
-    [
       "2023-01-25, 17:23:00",
       "https://news.ycombinator.com/item?id=34521179"
     ],
@@ -71,16 +61,6 @@
   ],
   [
     [
-      "2023-01-25, 16:10:29",
-      "https://news.ycombinator.com/item?id=34520031"
-    ],
-    [
-      "Coinbase’s chief product officer will leave with a $105M payday",
-      "https://dlnews.com/articles/coinbase-chief-product-officer-surojit-chatterjee-gets-105-million-payday"
-    ]
-  ],
-  [
-    [
       "2023-01-25, 15:56:46",
       "https://news.ycombinator.com/item?id=34519824"
     ],
@@ -107,6 +87,16 @@
     [
       "What we look for in a resume",
       "https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 15:19:10",
+      "https://news.ycombinator.com/item?id=34519238"
+    ],
+    [
+      "Semaphores are surprisingly versatile (2015)",
+      "https://preshing.com/20150316/semaphores-are-surprisingly-versatile/"
     ]
   ],
   [
@@ -141,12 +131,42 @@
   ],
   [
     [
+      "2023-01-25, 14:00:43",
+      "https://news.ycombinator.com/item?id=34518299"
+    ],
+    [
+      "US Marines defeat DARPA robot by hiding under a cardboard box",
+      "https://www.extremetech.com/extreme/342413-us-marines-defeat-darpa-robot-by-hiding-under-a-cardboard-box"
+    ]
+  ],
+  [
+    [
       "2023-01-25, 13:37:16",
       "https://news.ycombinator.com/item?id=34518074"
     ],
     [
       "Show HN: A simple world flags game, my first web dev project as a beginner",
       "https://billywojcicki.github.io/vexillologist/"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 13:24:53",
+      "https://news.ycombinator.com/item?id=34517965"
+    ],
+    [
+      "Using {blocks} in Rust and Go for fun and profit",
+      "https://taylor.town/code-blocks"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 13:21:07",
+      "https://news.ycombinator.com/item?id=34517921"
+    ],
+    [
+      "Ask HN: Anyone here working on/with membrane computing?",
+      "https://news.ycombinator.com/item?id=34517921"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Bionic 3rd Thumb [video]",
       "https://www.youtube.com/watch?v=Ba4YklRq0Po"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 13:12:24",
-      "https://news.ycombinator.com/item?id=34517830"
-    ],
-    [
-      "We tried to run a social media site and it was awful",
-      "https://www.ft.com/content/8d995a24-d77c-4208-a3a6-603d8788ebcd"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-01-25, 05:07:41",
-      "https://news.ycombinator.com/item?id=34514656"
+      "2023-01-25, 07:46:29",
+      "https://news.ycombinator.com/item?id=34515566"
     ],
     [
-      "Fun with macOS's Sip",
-      "https://metalbear.co/blog/fun-with-macoss-sip/"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 04:44:00",
-      "https://news.ycombinator.com/item?id=34514499"
-    ],
-    [
-      "Trs80gp – A TRS-80 Emulator",
-      "http://48k.ca/trs80gp.html"
+      "Microsoft Azure Outage",
+      "https://twitter.com/MSFT365Status/status/1618149579341369345"
     ]
   ]
 ]
