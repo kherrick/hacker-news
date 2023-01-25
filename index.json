@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34513806"
     ],
     [
-      "The Six Dumbest Ideas in Computer Security (2005)",
+      "The six dumbest ideas in computer security (2005)",
       "http://ranum.com/security/computer_security/editorials/dumb/index.html"
     ]
   ],
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-01-24, 19:52:19",
-      "https://news.ycombinator.com/item?id=34509223"
-    ],
-    [
-      "NASA, DARPA will test nuclear engine for future Mars missions",
-      "https://www.nasa.gov/press-release/nasa-darpa-will-test-nuclear-engine-for-future-mars-missions/"
-    ]
-  ],
-  [
-    [
       "2023-01-24, 19:40:24",
       "https://news.ycombinator.com/item?id=34509037"
     ],
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=34501344"
     ],
     [
-      "The Story behind ASINs (Amazon Standard Identification Numbers)",
+      "The Story behind ASINs – Amazon Standard Identification Numbers (2021)",
       "https://inventlikeanowner.com/blog/the-story-behind-asins-amazon-standard-identification-numbers/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Hyperscale in your Homelab: The Compute Blade arrives",
       "https://www.jeffgeerling.com/blog/2023/hyperscale-your-homelab-compute-blade-arrives"
+    ]
+  ],
+  [
+    [
+      "2023-01-22, 13:07:44",
+      "https://news.ycombinator.com/item?id=34476991"
+    ],
+    [
+      "Google Search URL Request Parameters (2016)",
+      "https://stenevang.wordpress.com/2013/02/22/google-advanced-power-search-url-request-parameters/"
     ]
   ]
 ]
