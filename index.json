@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-01-25, 07:51:29",
+      "https://news.ycombinator.com/item?id=34515598"
+    ],
+    [
+      "Azure DevOps Outage",
+      "https://status.dev.azure.com/_event/362852649"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 07:46:29",
+      "https://news.ycombinator.com/item?id=34515566"
+    ],
+    [
+      "Microsoft Azure Outage",
+      "https://twitter.com/MSFT365Status/status/1618149579341369345"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 07:26:44",
+      "https://news.ycombinator.com/item?id=34515421"
+    ],
+    [
+      "1min high-intensity exercise 3x a week improves fitness as much as 3x aerobics",
+      "https://pubmed.ncbi.nlm.nih.gov/27115137/"
+    ]
+  ],
+  [
+    [
       "2023-01-25, 07:02:17",
       "https://news.ycombinator.com/item?id=34515277"
     ],
     [
       "Google’s Fuchsia OS was one of the hardest hit by last week’s layoffs",
       "https://arstechnica.com/gadgets/2023/01/big-layoffs-at-googles-fuchsia-os-call-the-projects-future-into-question/"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 07:00:53",
+      "https://news.ycombinator.com/item?id=34515267"
+    ],
+    [
+      "Macroeconomic Changes Have Made It Impossible for Me to Want to Pay You",
+      "https://www.mcsweeneys.net/articles/macroeconomic-changes-have-made-it-impossible-for-me-to-want-to-pay-you"
     ]
   ],
   [
@@ -91,26 +131,6 @@
   ],
   [
     [
-      "2023-01-25, 00:03:39",
-      "https://news.ycombinator.com/item?id=34512442"
-    ],
-    [
-      "Apple issues security update for the almost 10-year-old iPhone 5S",
-      "https://www.theverge.com/2023/1/24/23569600/apple-iphone-5s-security-update-ios-12"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 22:58:07",
-      "https://news.ycombinator.com/item?id=34511840"
-    ],
-    [
-      "Fast JavaScript-to-WASM Call from FTL",
-      "https://github.com/WebKit/WebKit/pull/8607"
-    ]
-  ],
-  [
-    [
       "2023-01-24, 22:43:45",
       "https://news.ycombinator.com/item?id=34511666"
     ],
@@ -127,26 +147,6 @@
     [
       "How to prioritize tasks?",
       "https://jimmyislive.dev/posts/how-to-prioritize/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 22:00:44",
-      "https://news.ycombinator.com/item?id=34511140"
-    ],
-    [
-      "Bulldozer, AMD’s Crash Modernization: Caching and Conclusion",
-      "https://chipsandcheese.com/2023/01/24/bulldozer-amds-crash-modernization-caching-and-conclusion/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 21:15:52",
-      "https://news.ycombinator.com/item?id=34510516"
-    ],
-    [
-      "Show HN: Infisical – open-source secrets manager for developers",
-      "https://infisical.com/"
     ]
   ],
   [
