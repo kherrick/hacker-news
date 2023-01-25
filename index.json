@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-01-25, 18:57:23",
+      "https://news.ycombinator.com/item?id=34522597"
+    ],
+    [
+      "Amazon has radically transformed small businesses in both the U.S. and China",
+      "https://www.semafor.com/article/01/25/2023/how-amazon-turned-small-businesses-into-day-traders"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 18:53:48",
+      "https://news.ycombinator.com/item?id=34522548"
+    ],
+    [
+      "PolicyFly (YC W22) Is Hiring a Golang Engineer to Build DevTools and Integrations",
+      "https://www.ycombinator.com/companies/policyfly/jobs/EZEP3qP-backend-engineer-tools-integrations"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 18:36:57",
+      "https://news.ycombinator.com/item?id=34522311"
+    ],
+    [
+      "OpenJourney: Midjourney, but Open Source",
+      "https://open-journey.github.io/"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 18:13:18",
+      "https://news.ycombinator.com/item?id=34521970"
+    ],
+    [
+      "The audacity of Apple Podcasts",
+      "https://basta.substack.com/p/the-absolute-audacity-of-apple-podcasts"
+    ]
+  ],
+  [
+    [
       "2023-01-25, 17:23:00",
       "https://news.ycombinator.com/item?id=34521179"
     ],
@@ -87,16 +127,6 @@
     [
       "What we look for in a resume",
       "https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 15:19:10",
-      "https://news.ycombinator.com/item?id=34519238"
-    ],
-    [
-      "Semaphores are surprisingly versatile (2015)",
-      "https://preshing.com/20150316/semaphores-are-surprisingly-versatile/"
     ]
   ],
   [
@@ -207,36 +237,6 @@
     [
       "SQLite-based databases on the Postgres protocol",
       "https://blog.chiselstrike.com/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 11:35:27",
-      "https://news.ycombinator.com/item?id=34517099"
-    ],
-    [
-      "EVs Are Essential Grid-Scale Storage",
-      "https://spectrum.ieee.org/electric-vehicle-grid-storage"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 11:30:45",
-      "https://news.ycombinator.com/item?id=34517065"
-    ],
-    [
-      "A Matchbox Game-Learning Machine (1991) [pdf]",
-      "https://gwern.net/docs/reinforcement-learning/model-free/1991-gardner-ch8amatchboxgamelearningmachine.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 11:28:01",
-      "https://news.ycombinator.com/item?id=34517049"
-    ],
-    [
-      "Calling Ruby Methods in C: Avoid Memory Leaks",
-      "https://blog.appsignal.com/2023/01/25/calling-ruby-methods-in-c-avoid-memory-leaks.html"
     ]
   ],
   [
