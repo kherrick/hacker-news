@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-25, 21:03:04",
+      "https://news.ycombinator.com/item?id=34524150"
+    ],
+    [
+      "ASML Q4 2022 financial results",
+      "https://www.asml.com/en/news/press-releases/2023/q4-2022-financial-results"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 20:52:24",
+      "https://news.ycombinator.com/item?id=34524006"
+    ],
+    [
+      "9k-Year-Old Stonehenge-Like Structure Found Under Lake Michigan",
+      "https://www.thearchaeologist.org/blog/9000-year-old-stonehenge-like-structure-found-under-lake-michigan"
+    ]
+  ],
+  [
+    [
       "2023-01-25, 20:29:34",
       "https://news.ycombinator.com/item?id=34523745"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-01-25, 18:21:58",
-      "https://news.ycombinator.com/item?id=34522104"
-    ],
-    [
-      "Don't store TOTP in Bitwarden for your online accounts (2022)",
-      "https://prezu.ca/post/dont-use-totp-in-bitwarden/"
-    ]
-  ],
-  [
-    [
       "2023-01-25, 18:13:18",
       "https://news.ycombinator.com/item?id=34521970"
     ],
@@ -127,16 +137,6 @@
     [
       "Do not taunt happy fun branch predictor",
       "https://www.mattkeeter.com/blog/2023-01-25-branch/"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 16:38:53",
-      "https://news.ycombinator.com/item?id=34520461"
-    ],
-    [
-      "Annotated: Sam Bankman-Fried's “FTX Pre-Mortem Overview”",
-      "https://www.mollywhite.net/annotations/sbf-ftx-pre-mortem-overview"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-01-25, 13:53:52",
+      "https://news.ycombinator.com/item?id=34518223"
+    ],
+    [
+      "The Subtle Art of the Changelog",
+      "https://www.commandbar.com/blog/the-art-of-the-changelog"
+    ]
+  ],
+  [
+    [
       "2023-01-25, 13:37:16",
       "https://news.ycombinator.com/item?id=34518074"
     ],
@@ -237,16 +247,6 @@
     [
       "Ask HN: Anyone here working on/with membrane computing?",
       "https://news.ycombinator.com/item?id=34517921"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 13:19:33",
-      "https://news.ycombinator.com/item?id=34517906"
-    ],
-    [
-      "Parallel streaming in Haskell: Part 4 – Conditionals and non-blocking evaluation",
-      "https://www.channable.com/tech/parallel-streaming-in-haskell-part-4-conditionals-and-non-blocking-evaluation"
     ]
   ],
   [
