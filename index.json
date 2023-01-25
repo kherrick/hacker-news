@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-01-25, 11:56:02",
+      "https://news.ycombinator.com/item?id=34517214"
+    ],
+    [
+      "The CSS at w3.org is gone",
+      "https://www.w3.org/"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 11:35:27",
+      "https://news.ycombinator.com/item?id=34517099"
+    ],
+    [
+      "EVs Are Essential Grid-Scale Storage",
+      "https://spectrum.ieee.org/electric-vehicle-grid-storage"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 11:30:45",
+      "https://news.ycombinator.com/item?id=34517065"
+    ],
+    [
+      "A Matchbox Game-Learning Machine (1991) [pdf]",
+      "https://gwern.net/docs/reinforcement-learning/model-free/1991-gardner-ch8amatchboxgamelearningmachine.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 11:28:01",
+      "https://news.ycombinator.com/item?id=34517049"
+    ],
+    [
+      "Calling Ruby Methods in C: Avoid Memory Leaks",
+      "https://blog.appsignal.com/2023/01/25/calling-ruby-methods-in-c-avoid-memory-leaks.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 11:23:18",
+      "https://news.ycombinator.com/item?id=34517022"
+    ],
+    [
+      "Mjolnir",
+      "https://fabiensanglard.net/mjolnir/"
+    ]
+  ],
+  [
+    [
       "2023-01-25, 11:12:59",
       "https://news.ycombinator.com/item?id=34516952"
     ],
@@ -171,16 +221,6 @@
   ],
   [
     [
-      "2023-01-25, 00:21:32",
-      "https://news.ycombinator.com/item?id=34512586"
-    ],
-    [
-      "Three bugs in the Go MySQL driver (2020)",
-      "https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/"
-    ]
-  ],
-  [
-    [
       "2023-01-25, 00:19:47",
       "https://news.ycombinator.com/item?id=34512574"
     ],
@@ -211,26 +251,6 @@
   ],
   [
     [
-      "2023-01-24, 19:40:24",
-      "https://news.ycombinator.com/item?id=34509037"
-    ],
-    [
-      "How the Xbox 360 knows if your hard drive is genuine",
-      "https://eaton-works.com/2023/01/24/how-the-xbox-360-knows-if-your-hard-drive-is-genuine/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 18:21:48",
-      "https://news.ycombinator.com/item?id=34507672"
-    ],
-    [
-      "Cal.com: Open Scheduling Infrastructure",
-      "https://cal.com/"
-    ]
-  ],
-  [
-    [
       "2023-01-24, 16:39:21",
       "https://news.ycombinator.com/item?id=34506004"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2023-01-24, 16:17:59",
-      "https://news.ycombinator.com/item?id=34505603"
-    ],
-    [
-      "Launch HN: Matano (YC W23) – Open-Source Security Lake Platform (SIEM) for AWS",
-      "https://news.ycombinator.com/item?id=34505603"
-    ]
-  ],
-  [
-    [
       "2023-01-24, 12:32:15",
       "https://news.ycombinator.com/item?id=34502778"
     ],
     [
       "Things that improved between Elasticsearch 1 and 7",
       "https://underthehood.meltwater.com/blog/2023/01/20/how-we-upgraded-an-old-3pb-large-elasticsearch-cluster-without-downtime-part-7-final-architecture-learnings/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 09:12:20",
-      "https://news.ycombinator.com/item?id=34501352"
-    ],
-    [
-      "Oberon-2, a hi-performance alternative to C++ (1997)",
-      "https://folk.ntnu.no/haugwarb/Programming/Oberon/oberon_vs_cpp_II.htm"
     ]
   ],
   [
