@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-25, 22:04:36",
+      "https://news.ycombinator.com/item?id=34524794"
+    ],
+    [
+      "Etleap (YC W13) Is Hiring a Software Engineer (London)",
+      "https://etleap.com/careers/software-engineer/"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 22:00:22",
+      "https://news.ycombinator.com/item?id=34524749"
+    ],
+    [
+      "I Almost Bought a Scanner",
+      "http://leejo.github.io/2023/01/25/scanner/"
+    ]
+  ],
+  [
+    [
       "2023-01-25, 21:03:04",
       "https://news.ycombinator.com/item?id=34524150"
     ],
@@ -77,26 +97,6 @@
     [
       "Amazon has radically transformed small businesses in both the U.S. and China",
       "https://www.semafor.com/article/01/25/2023/how-amazon-turned-small-businesses-into-day-traders"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 18:53:48",
-      "https://news.ycombinator.com/item?id=34522548"
-    ],
-    [
-      "PolicyFly (YC W22) Is Hiring a Golang Engineer to Build DevTools and Integrations",
-      "https://www.ycombinator.com/companies/policyfly/jobs/EZEP3qP-backend-engineer-tools-integrations"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 18:43:07",
-      "https://news.ycombinator.com/item?id=34522391"
-    ],
-    [
-      "Similar Image Search (2021)",
-      "https://blog.qwertyforce.dev/posts/similar_image_search"
     ]
   ],
   [
@@ -187,6 +187,16 @@
     [
       "What we look for in a resume",
       "https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 15:19:10",
+      "https://news.ycombinator.com/item?id=34519238"
+    ],
+    [
+      "Semaphores are surprisingly versatile (2015)",
+      "https://preshing.com/20150316/semaphores-are-surprisingly-versatile/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: I've built a C# IDE, Runtime, and AppStore inside Excel",
       "https://querystorm.com/csharp-in-excel/"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 07:46:29",
-      "https://news.ycombinator.com/item?id=34515566"
-    ],
-    [
-      "Microsoft Azure Outage",
-      "https://twitter.com/MSFT365Status/status/1618149579341369345"
     ]
   ]
 ]
