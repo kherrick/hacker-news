@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-01-26, 21:08:18",
-      "https://news.ycombinator.com/item?id=34538864"
+      "2023-01-26, 21:17:08",
+      "https://news.ycombinator.com/item?id=34538965"
     ],
     [
-      "Arizona legislature exempts itself from public records law",
-      "https://mohavedailynews.com/news/145057/legislature-changes-rules-on-retaining-correspondence/"
+      "A dinosaur with a remarkably preserved face",
+      "https://arstechnica.com/science/2023/01/researchers-look-a-dinosaur-in-its-remarkably-preserved-face/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34537820"
     ],
     [
-      "Nelua, AOT statically typed Lua",
+      "Nelua: AOT statically typed Lua",
       "https://nelua.io/"
     ]
   ],
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-01-26, 15:49:02",
+      "https://news.ycombinator.com/item?id=34533218"
+    ],
+    [
+      "Show HN: Knotend – a keyboard-driven flowchart editor",
+      "https://www.knotend.com"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 15:31:55",
       "https://news.ycombinator.com/item?id=34532927"
     ],
@@ -147,16 +157,6 @@
     [
       "Fun with Gentoo: Why don't we just shuffle those ROP gadgets away?",
       "https://quitesimple.org/page/fun-gentoo-shuffle-rop-gadgets"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 14:56:17",
-      "https://news.ycombinator.com/item?id=34532358"
-    ],
-    [
-      "How thick is sea ice and how do we know?",
-      "https://nsidc.org/learn/ask-scientist/how-thick-is-sea-ice"
     ]
   ],
   [
@@ -235,8 +235,8 @@
       "https://news.ycombinator.com/item?id=34524552"
     ],
     [
-      "The rise and fall of Lisp at the Jet Propulsion Lab",
-      "https://mecrisp-stellaris-folkdoc.sourceforge.io/lisp.html"
+      "The rise and fall of Lisp at the Jet Propulsion Lab (2002)",
+      "https://flownet.com/gat/jpl-lisp.html"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=34518306"
     ],
     [
-      "The forgery that earned Michelangelo his first Roman patron (2016)",
+      "A forgery earned Michelangelo his first Roman patron (2016)",
       "https://www.artsy.net/article/artsy-editorial-how-michelangelo-got-his-start-by-forging-antiquities"
     ]
   ],
