@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-26, 01:42:43",
+      "https://news.ycombinator.com/item?id=34526741"
+    ],
+    [
+      "OpenAI Major Outage",
+      "https://status.openai.com/#"
+    ]
+  ],
+  [
+    [
       "2023-01-25, 23:55:58",
       "https://news.ycombinator.com/item?id=34525936"
     ],
@@ -71,32 +81,12 @@
   ],
   [
     [
-      "2023-01-25, 20:52:24",
-      "https://news.ycombinator.com/item?id=34524006"
-    ],
-    [
-      "9k-year-old Stonehenge-like structure found under Lake Michigan",
-      "https://www.thearchaeologist.org/blog/9000-year-old-stonehenge-like-structure-found-under-lake-michigan"
-    ]
-  ],
-  [
-    [
       "2023-01-25, 20:33:46",
       "https://news.ycombinator.com/item?id=34523800"
     ],
     [
       "Designing my own ASIC with tiny tapeout",
       "https://teaandtechtime.com/designing-my-very-own-asic-with-tiny-tapeout/"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 20:29:34",
-      "https://news.ycombinator.com/item?id=34523745"
-    ],
-    [
-      "Amazon acquires 400 acres near new Intel development in Ohio",
-      "https://www.dispatch.com/story/business/2023/01/25/amazon-buys-hundreds-of-acres-in-new-albany-mum-on-what-it-plans/69833373007/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2023-01-25, 14:28:12",
+      "https://news.ycombinator.com/item?id=34518606"
+    ],
+    [
+      "“MuffinTerm”: A great new terminal app for BBSing on iPhone, iPad, and Mac",
+      "https://bytecellar.com/2023/01/25/muffinterm-a-great-new-terminal-emulator-for-iphone-ipad-and-mac/"
+    ]
+  ],
+  [
+    [
       "2023-01-25, 14:00:43",
       "https://news.ycombinator.com/item?id=34518299"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2023-01-25, 13:24:53",
+      "https://news.ycombinator.com/item?id=34517965"
+    ],
+    [
+      "Using {blocks} in Rust and Go for fun and profit",
+      "https://taylor.town/code-blocks"
+    ]
+  ],
+  [
+    [
       "2023-01-25, 12:31:50",
       "https://news.ycombinator.com/item?id=34517474"
     ],
     [
       "SQLite-based databases on the Postgres protocol",
       "https://blog.chiselstrike.com/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 11:12:59",
-      "https://news.ycombinator.com/item?id=34516952"
-    ],
-    [
-      "Mjolnir",
-      "https://fabiensanglard.net/mjolnir/index.html"
     ]
   ],
   [
