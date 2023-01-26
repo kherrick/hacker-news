@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34526741"
     ],
     [
-      "OpenAI Major Outage",
+      "OpenAI Status: Multiple engines are down",
       "https://status.openai.com/#"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "Show HN: A tool to design and run user state machines",
       "https://www.dopt.com/"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 22:38:03",
+      "https://news.ycombinator.com/item?id=34525139"
+    ],
+    [
+      "CamelCase vs. underscores revisited (2013)",
+      "https://whatheco.de/2013/02/16/camelcase-vs-underscores-revisited/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Composefs: Content-Addressable Overlay Filesystem for Linux",
       "https://github.com/containers/composefs"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 21:03:04",
-      "https://news.ycombinator.com/item?id=34524150"
-    ],
-    [
-      "ASML Q4 2022 financial results",
-      "https://www.asml.com/en/news/press-releases/2023/q4-2022-financial-results"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2023-01-25, 13:24:53",
-      "https://news.ycombinator.com/item?id=34517965"
-    ],
-    [
-      "Using {blocks} in Rust and Go for fun and profit",
-      "https://taylor.town/code-blocks"
-    ]
-  ],
-  [
-    [
       "2023-01-25, 12:31:50",
       "https://news.ycombinator.com/item?id=34517474"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: I've built a C# IDE, Runtime, and AppStore inside Excel",
       "https://querystorm.com/csharp-in-excel/"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 21:22:01",
+      "https://news.ycombinator.com/item?id=34510615"
+    ],
+    [
+      "The Gaucho Western",
+      "https://www.laphamsquarterly.org/roundtable/gaucho-western"
     ]
   ]
 ]
