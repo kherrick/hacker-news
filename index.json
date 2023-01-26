@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-26, 23:18:24",
+      "https://news.ycombinator.com/item?id=34540251"
+    ],
+    [
+      "SQLAlchemy 2.0 Released",
+      "https://www.sqlalchemy.org/blog/2023/01/26/sqlalchemy-2.0.0-released/"
+    ]
+  ],
+  [
+    [
+      "2023-01-26, 23:12:05",
+      "https://news.ycombinator.com/item?id=34540206"
+    ],
+    [
+      "ImGUI Ported to a LiteX SoC",
+      "https://github.com/suarezvictor/litex_imgui_usb_demo"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 22:57:40",
       "https://news.ycombinator.com/item?id=34540085"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-01-26, 14:30:30",
-      "https://news.ycombinator.com/item?id=34531989"
-    ],
-    [
-      "Ask HN: What have you created that deserves a second chance on HN?",
-      "https://news.ycombinator.com/item?id=34531989"
-    ]
-  ],
-  [
-    [
       "2023-01-26, 10:32:04",
       "https://news.ycombinator.com/item?id=34530011"
     ],
@@ -287,16 +297,6 @@
     [
       "Bayes Theorem for project managers (2010)",
       "https://eight2late.wordpress.com/2010/03/11/bayes-theorem-for-project-managers/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 09:22:20",
-      "https://news.ycombinator.com/item?id=34501446"
-    ],
-    [
-      "The Nitpicks of Power, Part I: Exploding Forges",
-      "https://acoup.blog/2023/01/20/collections-the-nitpicks-of-power-part-i-exploding-forges/"
     ]
   ]
 ]
