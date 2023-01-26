@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-26, 18:21:27",
+      "https://news.ycombinator.com/item?id=34536142"
+    ],
+    [
+      "Google Is Screwed, Even If It Wins Its Antitrust Case",
+      "https://gizmodo.com/google-bing-microsoft-chatgpt-ai-antitrust-doj-screwed-1850029781"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 17:33:07",
       "https://news.ycombinator.com/item?id=34535150"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2023-01-26, 17:19:38",
-      "https://news.ycombinator.com/item?id=34534848"
-    ],
-    [
-      "Long Covid Is Keeping Significant Numbers of People Out of Work",
-      "https://www.nytimes.com/2023/01/24/health/long-covid-work.html"
-    ]
-  ],
-  [
-    [
       "2023-01-26, 17:06:51",
       "https://news.ycombinator.com/item?id=34534615"
     ],
     [
       "Show HN: I'm a doctor and made a responsive breathing app for stress and anxiety",
       "https://www.lungy.app/"
+    ]
+  ],
+  [
+    [
+      "2023-01-26, 16:41:40",
+      "https://news.ycombinator.com/item?id=34534095"
+    ],
+    [
+      "Laid Off from Google Search?",
+      "https://news.ycombinator.com/item?id=34534095"
     ]
   ],
   [
@@ -51,32 +61,32 @@
   ],
   [
     [
+      "2023-01-26, 16:18:19",
+      "https://news.ycombinator.com/item?id=34533710"
+    ],
+    [
+      "Stripe sets one-year timetable to decide on going public",
+      "https://www.wsj.com/articles/stripe-sets-one-year-timetable-to-decide-on-going-public-11674749304"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 16:01:11",
       "https://news.ycombinator.com/item?id=34533429"
     ],
     [
-      "Airbyte makes 100 alpha / beta connectors free on Airbyte Cloud",
+      "Airbyte makes 100 alpha / beta connectors free",
       "https://airbyte.com/blog/why-airbyte-made-alpha-and-beta-connectors-free"
     ]
   ],
   [
     [
-      "2023-01-26, 15:59:19",
-      "https://news.ycombinator.com/item?id=34533396"
+      "2023-01-26, 15:29:15",
+      "https://news.ycombinator.com/item?id=34532874"
     ],
     [
-      "Smart ovens shouting out to servers in Russia and China",
-      "https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 15:01:00",
-      "https://news.ycombinator.com/item?id=34532437"
-    ],
-    [
-      "IBM to cut about 3,900 workers while still hiring in ‘higher growth’ areas",
-      "https://www.latimes.com/business/story/2023-01-25/ibm-layoff-3900-workers-still-hiring"
+      "Yrs: High-performance CRDT implementation based on the idea of shared types",
+      "https://docs.rs/yrs/0.16.0/yrs/"
     ]
   ],
   [
@@ -111,52 +121,12 @@
   ],
   [
     [
-      "2023-01-26, 14:51:31",
-      "https://news.ycombinator.com/item?id=34532295"
-    ],
-    [
-      "Tell HN: Confluent laying off 8% of staff",
-      "https://news.ycombinator.com/item?id=34532295"
-    ]
-  ],
-  [
-    [
       "2023-01-26, 14:27:40",
       "https://news.ycombinator.com/item?id=34531943"
     ],
     [
-      "Show HN: Precloud – Dynamic tests for infrastructure-as-code. Open source",
+      "Show HN: Precloud – Dynamic tests for infrastructure-as-code",
       "https://github.com/tinystacks/precloud"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 14:08:26",
-      "https://news.ycombinator.com/item?id=34531727"
-    ],
-    [
-      "Show HN: Don't lose track of HN post comments",
-      "https://news.ycombinator.com/item?id=34531727"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 13:29:10",
-      "https://news.ycombinator.com/item?id=34531363"
-    ],
-    [
-      "What if AI didn't make you a bad writer, but a better thinker?",
-      "https://slite.com/blog/gpt-knowledge-revolution-is-coming"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 12:10:11",
-      "https://news.ycombinator.com/item?id=34530710"
-    ],
-    [
-      "Show HN: Doc Converter – Convert PDF docs to Word documents on your computer",
-      "https://docconverter.app/"
     ]
   ],
   [
@@ -165,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34530631"
     ],
     [
-      "Meticulous (YC S21) Is Hiring #3 Founding Engineer in London",
+      "Meticulous (YC S21) is hiring #3 founding engineer in London",
       "https://news.ycombinator.com/item?id=34530631"
     ]
   ],
@@ -215,7 +185,7 @@
       "https://news.ycombinator.com/item?id=34529340"
     ],
     [
-      "An AI robot lawyer was set to argue in court. Real lawyers shut it down",
+      "An AI lawyer was set to argue in court – real lawyers shut it down",
       "https://www.npr.org/2023/01/25/1151435033/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
     ]
   ],
@@ -251,6 +221,16 @@
   ],
   [
     [
+      "2023-01-26, 03:21:02",
+      "https://news.ycombinator.com/item?id=34527340"
+    ],
+    [
+      "Airframes.io an aircraft-related aggregator for ACARS, VDL, HFDL and SATCOM data",
+      "https://app.airframes.io"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 02:43:58",
       "https://news.ycombinator.com/item?id=34527138"
     ],
@@ -267,6 +247,16 @@
     [
       "Nostr: Notes and Other Stuff Transmitted by Relays",
       "https://www.nostr.net/"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 23:50:59",
+      "https://news.ycombinator.com/item?id=34525875"
+    ],
+    [
+      "Origami is yielding new applications in spacecraft, architecture, and medicine",
+      "https://www.nationalgeographic.com/magazine/article/origami-driving-futuristic-technologies-feature"
     ]
   ],
   [
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2023-01-24, 23:17:53",
+      "https://news.ycombinator.com/item?id=34512048"
+    ],
+    [
+      "Frost Flowers on the Windows (1899)",
+      "https://publicdomainreview.org/collection/frost-flowers"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 09:22:20",
       "https://news.ycombinator.com/item?id=34501446"
     ],
     [
-      "Collections: The Nitpicks of Power, Part I: Exploding Forges",
+      "The Nitpicks of Power, Part I: Exploding Forges",
       "https://acoup.blog/2023/01/20/collections-the-nitpicks-of-power-part-i-exploding-forges/"
     ]
   ]
