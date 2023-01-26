@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-01-26, 18:32:07",
+      "https://news.ycombinator.com/item?id=34536344"
+    ],
+    [
+      "Swiss retailer Galaxus now displays warranty score and return rate of products",
+      "https://www.galaxus.ch/en/page/refreshingly-honest-digitec-galaxus-now-displays-warranty-score-and-return-rate-25950"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 18:21:27",
       "https://news.ycombinator.com/item?id=34536142"
     ],
     [
-      "Google Is Screwed, Even If It Wins Its Antitrust Case",
+      "Google is screwed, even if it wins its antitrust case",
       "https://gizmodo.com/google-bing-microsoft-chatgpt-ai-antitrust-doj-screwed-1850029781"
     ]
   ],
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2023-01-26, 17:31:28",
-      "https://news.ycombinator.com/item?id=34535109"
-    ],
-    [
-      "Adani Group: How 3rd Richest Man Is Pulling the Largest Con in Corporate History",
-      "https://hindenburgresearch.com/?p=2376"
-    ]
-  ],
-  [
-    [
       "2023-01-26, 17:06:51",
       "https://news.ycombinator.com/item?id=34534615"
     ],
     [
       "Show HN: I'm a doctor and made a responsive breathing app for stress and anxiety",
       "https://www.lungy.app/"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 16:41:40",
-      "https://news.ycombinator.com/item?id=34534095"
-    ],
-    [
-      "Laid Off from Google Search?",
-      "https://news.ycombinator.com/item?id=34534095"
     ]
   ],
   [
@@ -87,16 +77,6 @@
     [
       "Airbyte makes 100 alpha / beta connectors free",
       "https://airbyte.com/blog/why-airbyte-made-alpha-and-beta-connectors-free"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 15:29:15",
-      "https://news.ycombinator.com/item?id=34532874"
-    ],
-    [
-      "Yrs: High-performance CRDT implementation based on the idea of shared types",
-      "https://docs.rs/yrs/0.16.0/yrs/"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2023-01-26, 07:20:29",
+      "https://news.ycombinator.com/item?id=34528682"
+    ],
+    [
+      "Show HN: I made a video game to help reduce stress and anxiety",
+      "https://www.vortle.com/"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 06:47:00",
       "https://news.ycombinator.com/item?id=34528443"
     ],
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2023-01-26, 03:21:02",
-      "https://news.ycombinator.com/item?id=34527340"
+      "2023-01-26, 06:46:02",
+      "https://news.ycombinator.com/item?id=34528433"
     ],
     [
-      "Airframes.io an aircraft-related aggregator for ACARS, VDL, HFDL and SATCOM data",
-      "https://app.airframes.io"
+      "Disassembly of the Asteroids arcade game firmware",
+      "https://github.com/nmikstas/asteroids-disassembly"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Nostr: Notes and Other Stuff Transmitted by Relays",
       "https://www.nostr.net/"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 23:50:59",
+      "https://news.ycombinator.com/item?id=34525875"
+    ],
+    [
+      "Origami is yielding new applications in spacecraft, architecture, and medicine",
+      "https://www.nationalgeographic.com/magazine/article/origami-driving-futuristic-technologies-feature"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=34515361"
     ],
     [
-      "The Bartender Behind the Blue Hawaii",
+      "The bartender behind the Blue Hawaii",
       "https://www.newyorker.com/news/afterword/the-bartender-behind-the-blue-hawaii"
     ]
   ],
