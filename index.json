@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-01-25, 22:39:40",
-      "https://news.ycombinator.com/item?id=34525157"
+      "2023-01-25, 23:55:58",
+      "https://news.ycombinator.com/item?id=34525936"
     ],
     [
-      "Training Stable Diffusion from Scratch Costs <$160k",
-      "https://www.mosaicml.com/blog/training-stable-diffusion-from-scratch-costs-160k"
+      "Tell HN: Whole Yandex Git repository leaked",
+      "https://news.ycombinator.com/item?id=34525936"
     ]
   ],
   [
     [
-      "2023-01-25, 22:38:03",
-      "https://news.ycombinator.com/item?id=34525139"
+      "2023-01-25, 23:07:41",
+      "https://news.ycombinator.com/item?id=34525447"
     ],
     [
-      "CamelCase vs. underscores revisited",
-      "https://whatheco.de/2013/02/16/camelcase-vs-underscores-revisited/"
+      "Show HN: A tool to design and run user state machines",
+      "https://www.dopt.com/"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34524794"
     ],
     [
-      "Etleap (YC W13) Is Hiring a Software Engineer (London)",
+      "Etleap (YC W13) is hiring a software engineer (London)",
       "https://etleap.com/careers/software-engineer/"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "I almost bought a scanner",
       "http://leejo.github.io/2023/01/25/scanner/"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 21:50:10",
+      "https://news.ycombinator.com/item?id=34524651"
+    ],
+    [
+      "Composefs: Content-Addressable Overlay Filesystem for Linux",
+      "https://github.com/containers/composefs"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=34523800"
     ],
     [
-      "Designing My Own ASIC with Tiny Tapeout",
+      "Designing my own ASIC with tiny tapeout",
       "https://teaandtechtime.com/designing-my-very-own-asic-with-tiny-tapeout/"
     ]
   ],
@@ -95,18 +105,8 @@
       "https://news.ycombinator.com/item?id=34523038"
     ],
     [
-      "Building the Perfect Memory Bandwidth Beast",
+      "Building the perfect memory bandwidth beast",
       "https://www.nextplatform.com/2023/01/24/building-the-perfect-memory-bandwidth-beast/"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 19:23:07",
-      "https://news.ycombinator.com/item?id=34522913"
-    ],
-    [
-      "The Reinforcing Nature of Toil",
-      "https://two-wrongs.com/the-reinforcing-nature-of-toil.html"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-01-25, 13:53:52",
+      "https://news.ycombinator.com/item?id=34518223"
+    ],
+    [
+      "The Subtle Art of the Changelog",
+      "https://www.commandbar.com/blog/the-art-of-the-changelog"
+    ]
+  ],
+  [
+    [
       "2023-01-25, 13:37:16",
       "https://news.ycombinator.com/item?id=34518074"
     ],
@@ -277,16 +287,6 @@
     [
       "Mjolnir",
       "https://fabiensanglard.net/mjolnir/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 10:21:12",
-      "https://news.ycombinator.com/item?id=34516628"
-    ],
-    [
-      "Motors for Makers: A Guide to Steppers, Servos, and Other Electrical Machines (2015)",
-      "http://www.motorsformakers.com/"
     ]
   ],
   [
