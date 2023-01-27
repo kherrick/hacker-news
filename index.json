@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-01-27, 12:44:54",
-      "https://news.ycombinator.com/item?id=34545369"
+      "2023-01-27, 13:49:43",
+      "https://news.ycombinator.com/item?id=34545961"
     ],
     [
-      "Experts warn of steep increase in Java costs",
-      "https://www.theregister.com/2023/01/27/oracle_java_licensing_change/"
+      "OsmAnd (OpenStreetMap) 4.3 for Android is fast with a new rendering engine",
+      "https://osmand.net/blog/osmand-android-4-3-released/"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 13:48:14",
+      "https://news.ycombinator.com/item?id=34545943"
+    ],
+    [
+      "Accessible hamburger buttons without JavaScript",
+      "https://www.pausly.app/blog/accessible-hamburger-buttons-without-javascript"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 12:00:39",
+      "https://news.ycombinator.com/item?id=34545086"
+    ],
+    [
+      "The Tilde Text Editor",
+      "https://github.com/gphalkes/tilde"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Apple’s Mac security is so good, it’s sending used M1 MacBooks to the scrap heap",
       "https://www.macworld.com/article/1485237/mac-security-t2-chip-macbook-activation-lock.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 11:47:52",
-      "https://news.ycombinator.com/item?id=34545010"
-    ],
-    [
-      "Attacker with access to XML config can trigger keepass.exe to obtain passwords",
-      "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24055"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Apple: The only big tech giant going against the job cuts tide",
       "https://blog.pragmaticengineer.com/apple-job-cuts-tide/"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 02:57:48",
-      "https://news.ycombinator.com/item?id=34541933"
-    ],
-    [
-      "The Python Paradox (2004)",
-      "http://www.paulgraham.com/pypar.html"
     ]
   ],
   [
