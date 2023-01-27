@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-01-27, 23:28:34",
+      "https://news.ycombinator.com/item?id=34553234"
+    ],
+    [
+      "Manatee county teachers close class libraries, fearing prosecution under FL law",
+      "https://www.heraldtribune.com/story/news/education/2023/01/23/fearing-prosecution-manatee-county-teachers-cover-up-classroom-books/69832276007/"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 23:24:06",
       "https://news.ycombinator.com/item?id=34553190"
     ],
     [
       "Broider: Pixel Art CSS Borders",
       "https://maxbittker.github.io/broider/"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 22:58:59",
+      "https://news.ycombinator.com/item?id=34552981"
+    ],
+    [
+      "Why Go and Not Rust? (2019)",
+      "https://kristoff.it/blog/why-go-and-not-rust/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Building a Sleeper Computer from an SGI Indy",
       "https://buu342.me/blog/projects/01-SGIIndySleeper.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 21:51:18",
-      "https://news.ycombinator.com/item?id=34552382"
-    ],
-    [
-      "Carp: A Statically Typed Lisp",
-      "https://github.com/carp-lang/Carp"
     ]
   ],
   [
@@ -116,7 +126,7 @@
     ],
     [
       "Pandas Illustrated: Visual Guide to Pandas",
-      "https://scribe.citizen4.eu/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43"
+      "https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43?sk=50184a8a8b46ffca16664f6529741abc"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Erlang's not about lightweight processes and message passing",
       "https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 11:45:43",
-      "https://news.ycombinator.com/item?id=34544994"
-    ],
-    [
-      "Reverse engineering programs with unknown instruction sets (2012) [pdf]",
-      "https://www.recon.cx/2012/schedule/attachments/40_Chernov-Troshina.pdf"
     ]
   ],
   [
