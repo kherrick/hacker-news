@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-27, 11:45:43",
+      "https://news.ycombinator.com/item?id=34544994"
+    ],
+    [
+      "Reverse Engineering Programs with Unknown Instruction Sets [pdf]",
+      "https://www.recon.cx/2012/schedule/attachments/40_Chernov-Troshina.pdf"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 11:03:46",
       "https://news.ycombinator.com/item?id=34544744"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34544621"
     ],
     [
-      "97% of American adults own a cellphone or smartphone",
+      "97% of American adults own a cellphone or smartphone (2021)",
       "https://www.pewresearch.org/internet/fact-sheet/mobile/"
     ]
   ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2023-01-27, 07:55:55",
+      "https://news.ycombinator.com/item?id=34543700"
+    ],
+    [
+      "Show HN: Pashword – Hashed Password Calculator",
+      "https://pashword.app"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 07:00:18",
       "https://news.ycombinator.com/item?id=34543419"
     ],
@@ -97,16 +117,6 @@
     [
       "Lytro Unlock – Making a bad camera slightly better",
       "https://github.com/ea/lytro_unlock"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 05:26:33",
-      "https://news.ycombinator.com/item?id=34542824"
-    ],
-    [
-      "Ask HN: Right to Repair for Software?",
-      "https://news.ycombinator.com/item?id=34542824"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Galaga, Pac-Man, Donkey Kong Emulator for ESP32",
       "https://github.com/harbaum/galagino"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 22:03:45",
-      "https://news.ycombinator.com/item?id=34539548"
-    ],
-    [
-      "9 years maintaining a sorta-popular open-source package: lessons learned",
-      "https://evanhahn.com/lessons-learned-maintaining-a-sorta-popular-open-source-package/"
     ]
   ],
   [
