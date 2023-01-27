@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-27, 07:21:02",
+      "https://news.ycombinator.com/item?id=34543521"
+    ],
+    [
+      "Deepfaked Tom Cruise and Paris Hilton",
+      "https://old.reddit.com/r/DeepFakesSFW/comments/10meypl/deepfaked_tom_cruise_and_paris_hilton_what_do_you/"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 07:00:18",
       "https://news.ycombinator.com/item?id=34543419"
     ],
@@ -77,6 +87,16 @@
     [
       "ImGUI Ported to a LiteX SoC",
       "https://github.com/suarezvictor/litex_imgui_usb_demo"
+    ]
+  ],
+  [
+    [
+      "2023-01-26, 22:57:40",
+      "https://news.ycombinator.com/item?id=34540085"
+    ],
+    [
+      "Slack is the opposite of organizational memory (2018)",
+      "https://abe-winter.github.io/plea%27s/help/2018/02/11/slack.html"
     ]
   ],
   [
@@ -177,26 +197,6 @@
     [
       "Rails on Docker",
       "https://fly.io/ruby-dispatch/rails-on-docker/"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 16:21:06",
-      "https://news.ycombinator.com/item?id=34533752"
-    ],
-    [
-      "How a CPU works: Bare metal C on my RISC-V toy CPU",
-      "https://florian.noeding.com/posts/risc-v-toy-cpu/cpu-from-scratch/"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 16:18:19",
-      "https://news.ycombinator.com/item?id=34533710"
-    ],
-    [
-      "Stripe sets one-year timetable to decide on going public",
-      "https://www.wsj.com/articles/stripe-sets-one-year-timetable-to-decide-on-going-public-11674749304"
     ]
   ],
   [
