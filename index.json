@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-27, 22:58:59",
+      "https://news.ycombinator.com/item?id=34552981"
+    ],
+    [
+      "Why Go and Not Rust? (2019)",
+      "https://kristoff.it/blog/why-go-and-not-rust/"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 22:35:59",
       "https://news.ycombinator.com/item?id=34552808"
     ],
@@ -17,6 +27,16 @@
     [
       "Building a Sleeper Computer from an SGI Indy",
       "https://buu342.me/blog/projects/01-SGIIndySleeper.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 21:51:18",
+      "https://news.ycombinator.com/item?id=34552382"
+    ],
+    [
+      "Carp: A Statically Typed Lisp",
+      "https://github.com/carp-lang/Carp"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Natural language is the lazy user interface",
       "https://austinhenley.com/blog/naturallanguageui.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 17:53:10",
-      "https://news.ycombinator.com/item?id=34549296"
-    ],
-    [
-      "Notes on Craft",
-      "https://granta.com/notes-on-craft-lee-lai/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Real Book",
       "https://en.wikipedia.org/wiki/Real_Book"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 18:27:15",
-      "https://news.ycombinator.com/item?id=34536256"
-    ],
-    [
-      "Thomas of Cana copper plates",
-      "https://en.wikipedia.org/wiki/Thomas_of_Cana_copper_plates"
     ]
   ]
 ]
