@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-01-27, 11:47:52",
+      "https://news.ycombinator.com/item?id=34545010"
+    ],
+    [
+      "Attacker with access to XML config can trigger keepass.exe to obtain passwords",
+      "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24055"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 11:45:43",
       "https://news.ycombinator.com/item?id=34544994"
     ],
@@ -67,16 +77,6 @@
     [
       "SirTunnel, a Personal Ngrok Alternative",
       "https://eighty-twenty.org/2023/01/27/sirtunnel-personal-ngrok"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 11:03:46",
-      "https://news.ycombinator.com/item?id=34544744"
-    ],
-    [
-      "BuzzFeed says it will use AI to help create content, stock jumps 150% – CNN",
-      "https://www.cnn.com/2023/01/26/media/buzzfeed-ai-content-creation/index.html"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2023-01-27, 02:44:32",
+      "https://news.ycombinator.com/item?id=34541834"
+    ],
+    [
+      "The Archive Moles",
+      "https://www.prospectmagazine.co.uk/arts-and-books/meet-the-archive-moles-bookshops-second-hand-publishing"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 02:20:26",
       "https://news.ycombinator.com/item?id=34541693"
     ],
     [
       "MusicLM: Generating Music from Text",
       "https://google-research.github.io/seanet/musiclm/examples/"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 22:53:46",
-      "https://news.ycombinator.com/item?id=34540051"
-    ],
-    [
-      "Grokking big unfamiliar codebases",
-      "https://www.jeremyong.com/game%20engines/2023/01/25/grokking-big-unfamiliar-codebases/"
     ]
   ],
   [
