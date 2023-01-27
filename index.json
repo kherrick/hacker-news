@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-01-27, 15:23:34",
+      "https://news.ycombinator.com/item?id=34547015"
+    ],
+    [
+      "Show HN: Interact with the terminal in plain English using GPT-3",
+      "https://github.com/dylanjcastillo/shell-genie"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 15:07:44",
       "https://news.ycombinator.com/item?id=34546846"
     ],
@@ -127,16 +137,6 @@
     [
       "Erlang's not about lightweight processes and message passing",
       "https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 11:50:01",
-      "https://news.ycombinator.com/item?id=34545028"
-    ],
-    [
-      "Apple’s Mac security is so good, it’s sending used M1 MacBooks to the scrap heap",
-      "https://www.macworld.com/article/1485237/mac-security-t2-chip-macbook-activation-lock.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-01-27, 02:20:26",
-      "https://news.ycombinator.com/item?id=34541693"
-    ],
-    [
-      "MusicLM: Generating Music from Text",
-      "https://google-research.github.io/seanet/musiclm/examples/"
-    ]
-  ],
-  [
-    [
       "2023-01-26, 21:06:49",
       "https://news.ycombinator.com/item?id=34538850"
     ],
     [
       "Sonic Hedgehog Protein (encoded by the SHH gene)",
       "https://en.wikipedia.org/wiki/Sonic_hedgehog_protein"
+    ]
+  ],
+  [
+    [
+      "2023-01-26, 18:27:15",
+      "https://news.ycombinator.com/item?id=34536256"
+    ],
+    [
+      "Thomas of Cana Copper Plates",
+      "https://en.wikipedia.org/wiki/Thomas_of_Cana_copper_plates"
     ]
   ]
 ]
