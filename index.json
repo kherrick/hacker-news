@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-27, 12:44:54",
+      "https://news.ycombinator.com/item?id=34545369"
+    ],
+    [
+      "Experts warn of steep increase in Java costs",
+      "https://www.theregister.com/2023/01/27/oracle_java_licensing_change/"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 12:33:06",
+      "https://news.ycombinator.com/item?id=34545282"
+    ],
+    [
+      "Can video games change people’s minds about the climate crisis?",
+      "https://www.theguardian.com/games/2023/jan/26/can-video-games-change-peoples-minds-about-the-climate-crisis"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 11:56:12",
       "https://news.ycombinator.com/item?id=34545061"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-01-26, 23:12:05",
-      "https://news.ycombinator.com/item?id=34540206"
-    ],
-    [
-      "ImGUI Ported to a LiteX SoC",
-      "https://github.com/suarezvictor/litex_imgui_usb_demo"
-    ]
-  ],
-  [
-    [
       "2023-01-26, 22:53:46",
       "https://news.ycombinator.com/item?id=34540051"
     ],
@@ -217,16 +227,6 @@
     [
       "Galaga, Pac-Man, Donkey Kong Emulator for ESP32",
       "https://github.com/harbaum/galagino"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 22:03:45",
-      "https://news.ycombinator.com/item?id=34539548"
-    ],
-    [
-      "9 years maintaining a sorta-popular open-source package: lessons learned",
-      "https://evanhahn.com/lessons-learned-maintaining-a-sorta-popular-open-source-package/"
     ]
   ],
   [
