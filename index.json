@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-27, 07:00:18",
+      "https://news.ycombinator.com/item?id=34543419"
+    ],
+    [
+      "Enso (YC S21) Is Hiring TypeScript Developer",
+      "https://www.ycombinator.com/companies/enso/jobs/yON8exA-senior-typescript-developer"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 05:48:52",
       "https://news.ycombinator.com/item?id=34542993"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-01-26, 21:00:40",
-      "https://news.ycombinator.com/item?id=34538753"
-    ],
-    [
-      "Charge Robotics (YC S21) is hiring meches to build robots that build solar farms",
-      "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer"
-    ]
-  ],
-  [
-    [
       "2023-01-26, 20:48:48",
       "https://news.ycombinator.com/item?id=34538604"
     ],
@@ -137,16 +137,6 @@
     [
       "Nelua: AOT statically typed Lua",
       "https://nelua.io/"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 18:46:06",
-      "https://news.ycombinator.com/item?id=34536605"
-    ],
-    [
-      "Librandombytes – a public domain library for generating randomness",
-      "https://randombytes.cr.yp.to/"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "How a CPU works: Bare metal C on my RISC-V toy CPU",
       "https://florian.noeding.com/posts/risc-v-toy-cpu/cpu-from-scratch/"
+    ]
+  ],
+  [
+    [
+      "2023-01-26, 16:18:19",
+      "https://news.ycombinator.com/item?id=34533710"
+    ],
+    [
+      "Stripe sets one-year timetable to decide on going public",
+      "https://www.wsj.com/articles/stripe-sets-one-year-timetable-to-decide-on-going-public-11674749304"
     ]
   ],
   [
