@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-01-27, 02:57:48",
+      "https://news.ycombinator.com/item?id=34541933"
+    ],
+    [
+      "The Python Paradox",
+      "http://www.paulgraham.com/pypar.html"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 02:44:37",
       "https://news.ycombinator.com/item?id=34541836"
     ],
     [
-      "MusicLM: Generating Music from Text",
+      "MusicLM: Generating music from text",
       "https://arxiv.org/abs/2301.11325"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "Digitec Galaxus now displays warranty score and return rate",
       "https://www.galaxus.ch/en/page/refreshingly-honest-digitec-galaxus-now-displays-warranty-score-and-return-rate-25950"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 17:33:07",
-      "https://news.ycombinator.com/item?id=34535150"
-    ],
-    [
-      "Reverse-engineering the Intel 8086 processor's HALT circuits",
-      "https://www.righto.com/2023/01/reverse-engineering-intel-8086.html"
     ]
   ],
   [
