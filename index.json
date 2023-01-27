@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-27, 11:56:12",
+      "https://news.ycombinator.com/item?id=34545061"
+    ],
+    [
+      "Erlang's not about lightweight processes and message passing",
+      "https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 11:47:52",
+      "https://news.ycombinator.com/item?id=34545010"
+    ],
+    [
+      "Attacker with access to XML config can trigger keepass.exe to obtain passwords",
+      "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24055"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 11:45:43",
       "https://news.ycombinator.com/item?id=34544994"
     ],
@@ -171,6 +191,16 @@
   ],
   [
     [
+      "2023-01-26, 23:12:05",
+      "https://news.ycombinator.com/item?id=34540206"
+    ],
+    [
+      "ImGUI Ported to a LiteX SoC",
+      "https://github.com/suarezvictor/litex_imgui_usb_demo"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 22:53:46",
       "https://news.ycombinator.com/item?id=34540051"
     ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2023-01-26, 20:48:48",
-      "https://news.ycombinator.com/item?id=34538604"
-    ],
-    [
-      "Resilience and Waste in Software Teams",
-      "https://jessitron.com/2023/01/16/resilience-and-waste-in-software-teams/"
-    ]
-  ],
-  [
-    [
       "2023-01-26, 18:32:07",
       "https://news.ycombinator.com/item?id=34536344"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-01-26, 11:02:23",
-      "https://news.ycombinator.com/item?id=34530217"
-    ],
-    [
-      "Self-hosted vector tiles",
-      "https://www.openstreetmap.org/user/rtnf/diary/400836"
-    ]
-  ],
-  [
-    [
       "2023-01-26, 10:32:04",
       "https://news.ycombinator.com/item?id=34530011"
     ],
     [
       "Realistic computer-generated handwriting",
       "https://www.calligrapher.ai/"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 06:28:20",
-      "https://news.ycombinator.com/item?id=34528337"
-    ],
-    [
-      "How the video game Fallout became a backdrop for live Shakespeare shows",
-      "https://www.theguardian.com/culture/2023/jan/25/the-open-worlds-a-stage-how-the-video-game-fallout-became-a-backdrop-for-live-shakespeare-shows"
     ]
   ],
   [
