@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-01-26, 17:33:07",
+      "https://news.ycombinator.com/item?id=34535150"
+    ],
+    [
+      "Reverse-engineering the Intel 8086 processor's HALT circuits",
+      "https://www.righto.com/2023/01/reverse-engineering-intel-8086.html"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 17:06:51",
       "https://news.ycombinator.com/item?id=34534615"
     ],
@@ -287,16 +297,6 @@
     [
       "Fake Parallel Printer – A Parallel Port Traffic Capturing Tool",
       "https://tomverbeure.github.io/2023/01/24/Fake-Parallel-Printer-Capture-Tool-HW.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 09:49:34",
-      "https://news.ycombinator.com/item?id=34501654"
-    ],
-    [
-      "Bayes Theorem for project managers (2010)",
-      "https://eight2late.wordpress.com/2010/03/11/bayes-theorem-for-project-managers/"
     ]
   ]
 ]
