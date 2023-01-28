@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-28, 13:47:39",
+      "https://news.ycombinator.com/item?id=34557530"
+    ],
+    [
+      "AP again clarifies tweet advising that writing 'the French' is 'dehumanizing'",
+      "https://www.lemonde.fr/en/united-states/article/2023/01/27/us-news-agency-ap-advises-against-writing-the-french-a-dehumanizing-generalization_6013310_133.html"
+    ]
+  ],
+  [
+    [
       "2023-01-28, 13:39:23",
       "https://news.ycombinator.com/item?id=34557475"
     ],
@@ -67,16 +77,6 @@
     [
       "Diff Models – A New Way to Edit Code",
       "https://carper.ai/diff-models-a-new-way-to-edit-code/"
-    ]
-  ],
-  [
-    [
-      "2023-01-28, 11:02:02",
-      "https://news.ycombinator.com/item?id=34556681"
-    ],
-    [
-      "Detect ChatGPT Generated Content",
-      "https://gptzero.me/"
     ]
   ],
   [
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2023-01-27, 23:28:45",
-      "https://news.ycombinator.com/item?id=34553236"
+      "2023-01-27, 23:24:18",
+      "https://news.ycombinator.com/item?id=34553191"
     ],
     [
-      "Cyber is a new language for fast, efficient, and concurrent scripting",
-      "https://cyberscript.dev/"
+      "An Undersea Battlefield",
+      "https://www.archaeology.org/issues/496-2301/digs/11045-digs-irish-sea-shipwrecks"
     ]
   ],
   [
@@ -191,22 +191,32 @@
   ],
   [
     [
-      "2023-01-27, 22:47:52",
-      "https://news.ycombinator.com/item?id=34552890"
+      "2023-01-27, 23:18:08",
+      "https://news.ycombinator.com/item?id=34553140"
     ],
     [
-      "Weather Machine – Rock solid weather APIs with zero hassle",
-      "https://weathermachine.io/"
+      "High-Earning Men Are Cutting Back on Their Working Hours",
+      "https://www.wsj.com/articles/high-earning-men-are-cutting-back-on-their-working-hours-11674697563"
     ]
   ],
   [
     [
-      "2023-01-27, 20:41:50",
-      "https://news.ycombinator.com/item?id=34551569"
+      "2023-01-27, 22:59:08",
+      "https://news.ycombinator.com/item?id=34552984"
     ],
     [
-      "Kevin Mitnick Hacked California Law in 1983",
-      "https://www.schneier.com/blog/archives/2023/01/kevin-mitnick-hacked-california-law-in-1983.html"
+      "The Hardest Scaling Issue",
+      "https://blog.codeberg.org/the-hardest-scaling-issue.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 22:56:39",
+      "https://news.ycombinator.com/item?id=34552959"
+    ],
+    [
+      "Tonight's rabbit hole: time math and 32 bit longs",
+      "http://rachelbythebay.com/w/2023/01/26/shadow/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Elite for Emacs (2015)",
       "https://www.salkosuo.net/2015/10/22/elite-for-emacs.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 19:00:15",
-      "https://news.ycombinator.com/item?id=34550191"
-    ],
-    [
-      "Transcending Scaling Laws with 0.1% Extra Compute",
-      "https://arxiv.org/abs/2210.11399"
     ]
   ],
   [
