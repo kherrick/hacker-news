@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-28, 18:43:23",
+      "https://news.ycombinator.com/item?id=34560245"
+    ],
+    [
+      "“tipflation” and “tip creep” are sparking a backlash",
+      "https://www.cbsnews.com/news/tipping-backlash-inflation-who-should-get-tipped/"
+    ]
+  ],
+  [
+    [
+      "2023-01-28, 18:18:11",
+      "https://news.ycombinator.com/item?id=34559993"
+    ],
+    [
+      "Tracy: A hybrid frame and sampling profiler for games and other applications",
+      "https://github.com/wolfpld/tracy"
+    ]
+  ],
+  [
+    [
       "2023-01-28, 18:12:09",
       "https://news.ycombinator.com/item?id=34559939"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-01-28, 05:34:25",
-      "https://news.ycombinator.com/item?id=34555465"
-    ],
-    [
-      "A History of the FFmpeg Project",
-      "https://codecs.multimedia.cx/category/cempeg/ffhistory/"
-    ]
-  ],
-  [
-    [
       "2023-01-28, 04:55:45",
       "https://news.ycombinator.com/item?id=34555283"
     ],
@@ -267,16 +277,6 @@
     [
       "Tonight's rabbit hole: time math and 32 bit longs",
       "http://rachelbythebay.com/w/2023/01/26/shadow/"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 15:42:00",
-      "https://news.ycombinator.com/item?id=34547259"
-    ],
-    [
-      "Forking Chrome to render in a terminal",
-      "https://fathy.fr/carbonyl"
     ]
   ],
   [
