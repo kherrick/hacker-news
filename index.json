@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-01-27, 17:54:26",
-      "https://news.ycombinator.com/item?id=34549328"
-    ],
-    [
-      "The Passive in English (2011)",
-      "https://languagelog.ldc.upenn.edu/nll/?p=2922"
-    ]
-  ],
-  [
-    [
       "2023-01-27, 17:44:06",
       "https://news.ycombinator.com/item?id=34549162"
     ],
@@ -277,6 +267,16 @@
     [
       "Forking Chrome to render in a terminal",
       "https://fathy.fr/carbonyl"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 11:56:12",
+      "https://news.ycombinator.com/item?id=34545061"
+    ],
+    [
+      "Erlang's not about lightweight processes and message passing",
+      "https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md"
     ]
   ],
   [
