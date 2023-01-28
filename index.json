@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-28, 03:43:16",
+      "https://news.ycombinator.com/item?id=34554904"
+    ],
+    [
+      "US police use digital data to prosecute abortions",
+      "https://techcrunch.com/2023/01/27/digital-data-roe-wade-reproductive-privacy/"
+    ]
+  ],
+  [
+    [
+      "2023-01-28, 02:44:23",
+      "https://news.ycombinator.com/item?id=34554580"
+    ],
+    [
+      "Indication of molnupiravir-associated mutations in SARS-CoV-2 sequencing",
+      "https://www.medrxiv.org/content/10.1101/2023.01.26.23284998v1"
+    ]
+  ],
+  [
+    [
       "2023-01-28, 02:39:13",
       "https://news.ycombinator.com/item?id=34554546"
     ],
@@ -17,16 +37,6 @@
     [
       "Magic the Gathering Players Lament the Loss of 30-Year History",
       "https://mtgrocks.com/mtg-players-lament-the-loss-of-30-year-history/"
-    ]
-  ],
-  [
-    [
-      "2023-01-28, 02:16:05",
-      "https://news.ycombinator.com/item?id=34554424"
-    ],
-    [
-      "Self-locking gears prevent backdriving (2012)",
-      "https://gearsolutions.com/features/applications-for-self-locking-gears/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Building a Sleeper Computer from an SGI Indy",
       "https://buu342.me/blog/projects/01-SGIIndySleeper.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 22:08:13",
-      "https://news.ycombinator.com/item?id=34552574"
-    ],
-    [
-      "RESTler is a stateful REST API fuzzing tool",
-      "https://github.com/microsoft/restler-fuzzer"
     ]
   ],
   [
