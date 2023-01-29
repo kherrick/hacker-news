@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-29, 03:31:18",
+      "https://news.ycombinator.com/item?id=34564590"
+    ],
+    [
+      "Ask HN: Is it just me or is 5G strictly worse than LTE?",
+      "https://news.ycombinator.com/item?id=34564590"
+    ]
+  ],
+  [
+    [
       "2023-01-29, 02:57:02",
       "https://news.ycombinator.com/item?id=34564404"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-01-29, 02:50:36",
-      "https://news.ycombinator.com/item?id=34564382"
+      "2023-01-29, 02:30:05",
+      "https://news.ycombinator.com/item?id=34564279"
     ],
     [
-      "Ask HN: What are those strategic skills to master for the next 5, 10 years?",
-      "https://news.ycombinator.com/item?id=34564382"
+      "Can an electric circuit do recursion?",
+      "https://electronics.stackexchange.com/a/158915/331615"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Show HN: Git Heat Map – a tool for visualising git repo activity for each file",
       "https://github.com/jmforsythe/Git-Heat-Map"
+    ]
+  ],
+  [
+    [
+      "2023-01-28, 23:59:00",
+      "https://news.ycombinator.com/item?id=34563300"
+    ],
+    [
+      "Noise2Music: Generating Music from Text Using Diffusion Models",
+      "https://noise2music.github.io/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Features I'd Like in PostgreSQL",
       "https://gilslotd.com/blog/features_id_postgresql"
-    ]
-  ],
-  [
-    [
-      "2023-01-28, 18:18:11",
-      "https://news.ycombinator.com/item?id=34559993"
-    ],
-    [
-      "Tracy: A hybrid frame and sampling profiler for games and other applications",
-      "https://github.com/wolfpld/tracy"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Lisping at JPL Revisited",
       "http://blog.rongarret.info/2023/01/lisping-at-jpl-revisited.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-28, 12:43:22",
-      "https://news.ycombinator.com/item?id=34557116"
-    ],
-    [
-      "Ergo: Erlang/OTP patterns implemented in Golang",
-      "https://cloud.ergo.services/#Framework"
     ]
   ],
   [
