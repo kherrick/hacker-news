@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-01-29, 12:40:06",
-      "https://news.ycombinator.com/item?id=34567550"
-    ],
-    [
-      "Why should you use Tokio vs. threads in Rust?",
-      "https://twitter.com/rikarends/status/1619312946420789248"
-    ]
-  ],
-  [
-    [
       "2023-01-29, 12:03:43",
       "https://news.ycombinator.com/item?id=34567318"
     ],
@@ -175,8 +165,18 @@
       "https://news.ycombinator.com/item?id=34566560"
     ],
     [
-      "Noctua's NH-P1 – Simply Amazing",
+      "Noctua’s NH-P1 with Ryzen 7700x and Intel’s i9-13900K",
       "https://boringtextreviews.com/a-cooler-without-fans-testing-noctuas-nh-p1-with-ryzen-7700x-and-intels-i9-13900k/"
+    ]
+  ],
+  [
+    [
+      "2023-01-29, 09:19:56",
+      "https://news.ycombinator.com/item?id=34566340"
+    ],
+    [
+      "My Journey from R to Julia",
+      "https://drtomasaragon.github.io/posts/2023-01-14-my-journey-from-r-to-julia/"
     ]
   ],
   [
