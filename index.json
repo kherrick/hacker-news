@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-01-30, 15:13:37",
-      "https://news.ycombinator.com/item?id=34580631"
-    ],
-    [
-      "Electrify America “fries” EVs at charging stations",
-      "https://www.teslarati.com/rivian-ford-chevy-fried-electrify-america-video/"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 15:09:50",
       "https://news.ycombinator.com/item?id=34580560"
     ],
@@ -227,6 +217,16 @@
     [
       "PageRank algorithm for graph databases",
       "https://memgraph.com/blog/pagerank-algorithm-for-graph-databases"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 07:43:01",
+      "https://news.ycombinator.com/item?id=34576941"
+    ],
+    [
+      "Deep dive into diagram layout engines: Minimizing hierarchical edge crossings",
+      "https://www.terrastruct.com/blog/post/diagram-layout-engines-crossing-minimization/"
     ]
   ],
   [
