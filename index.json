@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-01-30, 21:48:15",
+      "https://news.ycombinator.com/item?id=34586917"
+    ],
+    [
+      "Git archive checksums may change",
+      "https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 21:22:01",
       "https://news.ycombinator.com/item?id=34586553"
     ],
     [
       "Amazon Is Selling Its 29-Acre Bay Area Property as Return to Office Stalls",
       "https://www.msn.com/en-us/money/companies/amazon-to-sell-bay-area-office-complex-as-sales-growth-cools/ar-AA16M4Pp"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 21:17:02",
+      "https://news.ycombinator.com/item?id=34586495"
+    ],
+    [
+      "Steering wheel falls off a new Tesla Y while driving on a highway",
+      "https://twitter.com/preneh24/status/1619889507133976580"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-01-30, 15:28:53",
-      "https://news.ycombinator.com/item?id=34580907"
-    ],
-    [
-      "FYI: LLVM-project repo has exceeded GitHub upload size limit (2022)",
-      "https://discourse.llvm.org/t/fyi-llvm-project-repo-has-exceeded-github-upload-size-limit/63293"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 14:24:10",
       "https://news.ycombinator.com/item?id=34579915"
     ],
@@ -191,22 +201,22 @@
   ],
   [
     [
+      "2023-01-30, 13:45:46",
+      "https://news.ycombinator.com/item?id=34579473"
+    ],
+    [
+      "On “I don't trust microcode”",
+      "https://patrick.georgi.family/2021/02/13/on-microcode/"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 13:22:51",
       "https://news.ycombinator.com/item?id=34579236"
     ],
     [
       "A Modern Compiler for the French Tax Code",
       "https://arxiv.org/abs/2011.07966"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 12:01:54",
-      "https://news.ycombinator.com/item?id=34578597"
-    ],
-    [
-      "How to find your blind spots",
-      "https://www.zeptonaut.com/posts/find-your-blind-spots/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "SQL should be the default choice for data transformation logic",
       "https://www.robinlinacre.com/recommend_sql/"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 10:42:42",
-      "https://news.ycombinator.com/item?id=34578077"
-    ],
-    [
-      "An Update on Leap Seconds (2022)",
-      "https://dotat.at/@/2022-12-04-leap-seconds.html"
     ]
   ],
   [
