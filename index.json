@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-01-30, 07:21:09",
+      "https://news.ycombinator.com/item?id=34576799"
+    ],
+    [
+      "An Analysis of Conficker (2009)",
+      "http://www.csl.sri.com/users/vinod/papers/Conficker/"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 07:00:52",
       "https://news.ycombinator.com/item?id=34576673"
     ],
@@ -257,16 +267,6 @@
     [
       "Where our gasoline comes from",
       "https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 01:58:57",
-      "https://news.ycombinator.com/item?id=34574993"
-    ],
-    [
-      "Train CIFAR10 to 94% in under 10 seconds on a single A100",
-      "https://github.com/tysam-code/hlb-CIFAR10"
     ]
   ],
   [
