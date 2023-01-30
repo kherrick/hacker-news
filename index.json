@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-01-30, 13:53:58",
+      "https://news.ycombinator.com/item?id=34579562"
+    ],
+    [
+      "WAN router IP address change blamed for global Microsoft 365 outage",
+      "https://www.theregister.com/2023/01/30/wan_router_ip_address_change/"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 13:22:51",
       "https://news.ycombinator.com/item?id=34579236"
     ],
@@ -217,16 +227,6 @@
     [
       "PageRank algorithm for graph databases",
       "https://memgraph.com/blog/pagerank-algorithm-for-graph-databases"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 07:43:01",
-      "https://news.ycombinator.com/item?id=34576941"
-    ],
-    [
-      "Deep dive into diagram layout engines: Minimizing hierarchical edge crossings",
-      "https://www.terrastruct.com/blog/post/diagram-layout-engines-crossing-minimization/"
     ]
   ],
   [
