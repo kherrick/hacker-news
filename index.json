@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-30, 14:58:08",
+      "https://news.ycombinator.com/item?id=34580360"
+    ],
+    [
+      "Tell HN: Ubuntu Pro now required for security fixes, even for supported releases",
+      "https://news.ycombinator.com/item?id=34580360"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 14:24:10",
+      "https://news.ycombinator.com/item?id=34579915"
+    ],
+    [
+      "Cargo airships could be big",
+      "https://www.elidourado.com/p/cargo-airships"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 14:17:26",
       "https://news.ycombinator.com/item?id=34579842"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-01-30, 08:01:46",
-      "https://news.ycombinator.com/item?id=34577056"
-    ],
-    [
-      "Choosing the Correct High-Bandwidth Memory",
-      "https://semiengineering.com/choosing-the-correct-high-bandwidth-memory/"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 07:43:01",
       "https://news.ycombinator.com/item?id=34576941"
     ],
@@ -237,16 +247,6 @@
     [
       "Train CIFAR10 to 94% in under 10 seconds on a single A100",
       "https://github.com/tysam-code/hlb-CIFAR10"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 23:38:32",
-      "https://news.ycombinator.com/item?id=34573980"
-    ],
-    [
-      "Determine durations with monotonic clocks if available",
-      "http://rachelbythebay.com/w/2023/01/29/bash/"
     ]
   ],
   [
