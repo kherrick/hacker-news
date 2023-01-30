@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-30, 14:17:26",
+      "https://news.ycombinator.com/item?id=34579842"
+    ],
+    [
+      "Why I’m Still on Strike: Portraits from the HarperCollins Picket Line",
+      "https://lithub.com/why-im-still-on-strike-portraits-from-the-harpercollins-picket-line/"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 14:14:15",
+      "https://news.ycombinator.com/item?id=34579810"
+    ],
+    [
+      "Show HN: DeepReview (ChatGPT powered CV/cover letter/perf review writer)",
+      "https://deepreview.eu/"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 13:16:53",
       "https://news.ycombinator.com/item?id=34579175"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34578411"
     ],
     [
-      "Löb and möb: strange loops in Haskell",
+      "Löb and möb: strange loops in Haskell (2015)",
       "https://github.com/quchen/articles/blob/master/loeb-moeb.md"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "An Update on Leap Seconds",
       "https://dotat.at/@/2022-12-04-leap-seconds.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 10:15:36",
-      "https://news.ycombinator.com/item?id=34577914"
-    ],
-    [
-      "UK Online Safety Bill threatens encryption, secure communication, and reporting",
-      "https://cpj.org/2023/01/how-uk-online-safety-bill-threatens-encryption-secure-communication-and-reporting-on-migration/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Train CIFAR10 to 94% in under 10 seconds on a single A100",
       "https://github.com/tysam-code/hlb-CIFAR10"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 23:38:32",
-      "https://news.ycombinator.com/item?id=34573980"
-    ],
-    [
-      "Determine durations with monotonic clocks if available",
-      "http://rachelbythebay.com/w/2023/01/29/bash/"
     ]
   ],
   [
