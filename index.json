@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-01-30, 20:53:06",
+      "https://news.ycombinator.com/item?id=34586213"
+    ],
+    [
+      "Firefighters forced to smash window of driverless Cruise taxi to stop it",
+      "https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 20:17:08",
       "https://news.ycombinator.com/item?id=34585754"
     ],
     [
       "Burning a NeXTCube (1993)",
       "http://web.archive.org/web/20000817013818/http://simson.net/photos/hacks/cubefire.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 20:10:00",
+      "https://news.ycombinator.com/item?id=34585670"
+    ],
+    [
+      "S3 will automatically block public access and disable ACL for new buckets",
+      "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-automatically-enable-block-public-access-disable-access-control-lists-buckets-april-2023/"
     ]
   ],
   [
@@ -67,6 +87,16 @@
     [
       "Berkeley Mono Ligatures Release",
       "https://berkeleygraphics.com/public-affairs/bulletins/BT-002/"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 17:22:46",
+      "https://news.ycombinator.com/item?id=34583080"
+    ],
+    [
+      "Show HN: Asdf Clone Written in Rust",
+      "https://news.ycombinator.com/item?id=34583080"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2023-01-30, 12:01:54",
-      "https://news.ycombinator.com/item?id=34578597"
-    ],
-    [
-      "How to find your blind spots",
-      "https://www.zeptonaut.com/posts/find-your-blind-spots/"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 11:29:24",
       "https://news.ycombinator.com/item?id=34578411"
     ],
@@ -207,26 +227,6 @@
     [
       "SQL should be the default choice for data transformation logic",
       "https://www.robinlinacre.com/recommend_sql/"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 11:00:09",
-      "https://news.ycombinator.com/item?id=34578197"
-    ],
-    [
-      "New Distro 'BlendOS' Combines Arch Linux, Fedora Linux and Ubuntu",
-      "https://blendos.co/"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 10:42:42",
-      "https://news.ycombinator.com/item?id=34578077"
-    ],
-    [
-      "An Update on Leap Seconds",
-      "https://dotat.at/@/2022-12-04-leap-seconds.html"
     ]
   ],
   [
