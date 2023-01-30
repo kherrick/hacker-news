@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-01-30, 15:32:30",
+      "https://news.ycombinator.com/item?id=34580959"
+    ],
+    [
+      "When Will Fusion Energy Light Our Homes?",
+      "https://nautil.us/when-will-fusion-energy-light-our-homes-259169/"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 15:28:53",
       "https://news.ycombinator.com/item?id=34580907"
     ],
     [
-      "FYI: LLVM-project repo has exceeded GitHub upload size limit",
+      "FYI: LLVM-project repo has exceeded GitHub upload size limit (2022)",
       "https://discourse.llvm.org/t/fyi-llvm-project-repo-has-exceeded-github-upload-size-limit/63293"
     ]
   ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2023-01-30, 11:38:18",
-      "https://news.ycombinator.com/item?id=34578468"
+      "2023-01-30, 12:01:54",
+      "https://news.ycombinator.com/item?id=34578597"
     ],
     [
-      "Antarctica’s Brunt Ice Shelf breaks",
-      "https://earthobservatory.nasa.gov/images/150880/antarcticas-brunt-ice-shelf-finally-breaks"
+      "How to find your blind spots",
+      "https://www.zeptonaut.com/posts/find-your-blind-spots/"
     ]
   ],
   [
@@ -141,12 +151,32 @@
   ],
   [
     [
+      "2023-01-30, 10:44:31",
+      "https://news.ycombinator.com/item?id=34578094"
+    ],
+    [
+      "Relational Floating-Point Arithmetic [pdf]",
+      "https://www.cs.toronto.edu/~lczhang/sandre_float2021.pdf"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 10:42:42",
       "https://news.ycombinator.com/item?id=34578077"
     ],
     [
       "An Update on Leap Seconds",
       "https://dotat.at/@/2022-12-04-leap-seconds.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 10:28:17",
+      "https://news.ycombinator.com/item?id=34577987"
+    ],
+    [
+      "Float Compression 0: Intro",
+      "https://aras-p.info/blog/2023/01/29/Float-Compression-0-Intro/"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2023-01-30, 02:35:28",
-      "https://news.ycombinator.com/item?id=34575213"
-    ],
-    [
-      "A genius at suffering",
-      "https://newcriterion.com/issues/2023/2/a-genius-at-suffering"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 01:58:57",
       "https://news.ycombinator.com/item?id=34574993"
     ],
@@ -257,26 +277,6 @@
     [
       "Will Wright on designing user interfaces to simulation games (1996)",
       "https://donhopkins.medium.com/designing-user-interfaces-to-simulation-games-bd7a9d81e62d"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 21:46:37",
-      "https://news.ycombinator.com/item?id=34573094"
-    ],
-    [
-      "My “favorite” magtape story",
-      "https://minnie.tuhs.org/pipermail/tuhs/2023-January/027546.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 20:11:07",
-      "https://news.ycombinator.com/item?id=34572174"
-    ],
-    [
-      "Spaghetti-Tree Hoax",
-      "https://en.wikipedia.org/wiki/Spaghetti-tree_hoax"
     ]
   ],
   [
