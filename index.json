@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-01-30, 12:40:08",
+      "https://news.ycombinator.com/item?id=34578900"
+    ],
+    [
+      "A bunch of bored kids found a way to unenroll their school Chromebooks",
+      "https://sh1mmer.me"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 11:38:18",
       "https://news.ycombinator.com/item?id=34578468"
     ],
     [
       "Antarctica’s Brunt Ice Shelf Finally Breaks",
       "https://earthobservatory.nasa.gov/images/150880/antarcticas-brunt-ice-shelf-finally-breaks"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 11:37:50",
+      "https://news.ycombinator.com/item?id=34578461"
+    ],
+    [
+      "Lone Wolves: Why do some people hate teamwork? (2017)",
+      "https://queendomblog.wordpress.com/2017/10/13/lone-wolves-why-do-some-people-hate-teamwork/"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 11:29:24",
+      "https://news.ycombinator.com/item?id=34578411"
+    ],
+    [
+      "Löb and möb: strange loops in Haskell",
+      "https://github.com/quchen/articles/blob/master/loeb-moeb.md"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "An Update on Leap Seconds",
       "https://dotat.at/@/2022-12-04-leap-seconds.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 10:17:24",
+      "https://news.ycombinator.com/item?id=34577929"
+    ],
+    [
+      "I Don't Write",
+      "https://mxb.dev/blog/seven-reasons-why-i-dont-write/"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2023-01-30, 03:28:13",
-      "https://news.ycombinator.com/item?id=34575469"
-    ],
-    [
-      "What does it mean to trademark a color?",
-      "https://www.atlasobscura.com/articles/jardin-marjorelle-trademark-color"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 02:35:28",
       "https://news.ycombinator.com/item?id=34575213"
     ],
@@ -187,16 +217,6 @@
     [
       "Determine durations with monotonic clocks if available",
       "http://rachelbythebay.com/w/2023/01/29/bash/"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 22:39:18",
-      "https://news.ycombinator.com/item?id=34573527"
-    ],
-    [
-      "Swift Achieved Dynamic Linking Where Rust Couldn't (2019)",
-      "https://faultlore.com/blah/swift-abi/"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2023-01-29, 20:18:56",
-      "https://news.ycombinator.com/item?id=34572263"
-    ],
-    [
-      "The “Build Your Own Redis” Book Is Completed",
-      "https://build-your-own.org/blog/20230127_byor/"
-    ]
-  ],
-  [
-    [
       "2023-01-29, 20:11:07",
       "https://news.ycombinator.com/item?id=34572174"
     ],
     [
       "Spaghetti-Tree Hoax",
       "https://en.wikipedia.org/wiki/Spaghetti-tree_hoax"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 19:42:30",
-      "https://news.ycombinator.com/item?id=34571885"
-    ],
-    [
-      "AirGradient Open Source Air Quality Monitor for CO2 and PM2.5 Measurements",
-      "https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/"
     ]
   ],
   [
