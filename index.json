@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-30, 15:40:45",
+      "https://news.ycombinator.com/item?id=34581090"
+    ],
+    [
+      "How Likely Is Losing a Google Account?",
+      "https://www.jefftk.com/p/how-likely-is-losing-a-google-account"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 15:32:30",
       "https://news.ycombinator.com/item?id=34580959"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2023-01-30, 15:31:47",
+      "https://news.ycombinator.com/item?id=34580943"
+    ],
+    [
+      "The benefits of everything (in Emacs) being a buffer",
+      "https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 15:28:53",
       "https://news.ycombinator.com/item?id=34580907"
     ],
     [
       "FYI: LLVM-project repo has exceeded GitHub upload size limit (2022)",
       "https://discourse.llvm.org/t/fyi-llvm-project-repo-has-exceeded-github-upload-size-limit/63293"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 15:17:40",
+      "https://news.ycombinator.com/item?id=34580705"
+    ],
+    [
+      "U.S. No Fly list publicly shared on a hacking forum, government investigating",
+      "https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-a-hacking-forum-government-investigating/"
     ]
   ],
   [
@@ -41,22 +71,22 @@
   ],
   [
     [
+      "2023-01-30, 14:52:59",
+      "https://news.ycombinator.com/item?id=34580281"
+    ],
+    [
+      "Philips Plans 6000 Job Cuts; Sees Growth in FY25, Beyond",
+      "https://www.nasdaq.com/articles/philips-plans-6000-job-cuts-sees-growth-in-fy25-beyond"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 14:24:10",
       "https://news.ycombinator.com/item?id=34579915"
     ],
     [
       "Cargo airships could be big",
       "https://www.elidourado.com/p/cargo-airships"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 14:17:26",
-      "https://news.ycombinator.com/item?id=34579842"
-    ],
-    [
-      "Why I’m Still on Strike: Portraits from the HarperCollins Picket Line",
-      "https://lithub.com/why-im-still-on-strike-portraits-from-the-harpercollins-picket-line/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-01-30, 10:28:17",
-      "https://news.ycombinator.com/item?id=34577987"
-    ],
-    [
-      "Float Compression 0: Intro",
-      "https://aras-p.info/blog/2023/01/29/Float-Compression-0-Intro/"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 10:04:40",
       "https://news.ycombinator.com/item?id=34577844"
     ],
@@ -197,26 +217,6 @@
     [
       "PageRank algorithm for graph databases",
       "https://memgraph.com/blog/pagerank-algorithm-for-graph-databases"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 09:10:36",
-      "https://news.ycombinator.com/item?id=34577480"
-    ],
-    [
-      "Yandex ‘leak’ reveals 1,922 search ranking factors",
-      "https://searchengineland.com/yandex-search-ranking-factors-leak-392323"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 07:43:01",
-      "https://news.ycombinator.com/item?id=34576941"
-    ],
-    [
-      "Deep dive into diagram layout engines: Minimizing hierarchical edge crossings",
-      "https://www.terrastruct.com/blog/post/diagram-layout-engines-crossing-minimization/"
     ]
   ],
   [
