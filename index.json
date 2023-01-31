@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-31, 22:15:44",
+      "https://news.ycombinator.com/item?id=34603067"
+    ],
+    [
+      "Why We Ship the Most Code on Friday",
+      "https://blog.railway.app/p/ship-on-friday"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 21:19:29",
       "https://news.ycombinator.com/item?id=34602318"
     ],
@@ -77,6 +87,16 @@
     [
       "Hermes: An open-source document management system",
       "https://www.hashicorp.com/blog/introducing-hermes-an-open-source-document-management-system"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 18:41:21",
+      "https://news.ycombinator.com/item?id=34599673"
+    ],
+    [
+      "Reducing technical debt by valuing comments as much as code",
+      "https://blogs.oracle.com/javamagazine/post/java-comments-reduce-technical-debt"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-01-31, 01:17:05",
-      "https://news.ycombinator.com/item?id=34589468"
-    ],
-    [
-      "A fairy-like robot flies by the power of wind and light",
-      "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.html"
-    ]
-  ],
-  [
-    [
       "2023-01-31, 01:16:03",
       "https://news.ycombinator.com/item?id=34589454"
     ],
@@ -287,16 +297,6 @@
     [
       "ASRock Industrial NUCS Box-1360P/D4 Review: Raptor Lake-P Plus Surprise ECC",
       "https://www.anandtech.com/show/18732/asrock-industrial-nucs-box1360pd4-review-raptor-lakep-ecc"
-    ]
-  ],
-  [
-    [
-      "2023-01-28, 08:04:33",
-      "https://news.ycombinator.com/item?id=34556044"
-    ],
-    [
-      "The Decision Book: Fifty models for strategic thinking (2019)",
-      "https://medium.com/@snehal.katare/book-summary-the-decision-book-fifty-models-for-strategic-thinking-ad866b60fa40"
     ]
   ]
 ]
