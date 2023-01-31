@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-01-31, 18:24:47",
-      "https://news.ycombinator.com/item?id=34599364"
-    ],
-    [
-      "Artifact – A personalized news feed, by the Instagram founders",
-      "https://artifact.news/"
-    ]
-  ],
-  [
-    [
       "2023-01-31, 18:11:14",
       "https://news.ycombinator.com/item?id=34599106"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34598563"
     ],
     [
-      "Heroku deleted my database with no warning",
+      "Tell HN: Heroku deleted my database with no warning",
       "https://news.ycombinator.com/item?id=34598563"
     ]
   ],
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=34594675"
     ],
     [
-      "Typed Lisp, a primer (2019)",
+      "Typed Lisp, A Primer (2019)",
       "http://alhassy.com/TypedLisp"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "How to smooth and spread A* paths for an RTS",
       "https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-extreme-pathfinding-1608"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 11:53:08",
+      "https://news.ycombinator.com/item?id=34593977"
+    ],
+    [
+      "Generating Platonic Solids in C++ (2021)",
+      "https://www.danielsieger.com/blog/2021/01/03/generating-platonic-solids.html"
     ]
   ],
   [
