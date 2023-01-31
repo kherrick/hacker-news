@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-01-31, 21:19:29",
+      "https://news.ycombinator.com/item?id=34602318"
+    ],
+    [
+      "Ask HN: How do you test SQL?",
+      "https://news.ycombinator.com/item?id=34602318"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 21:18:24",
+      "https://news.ycombinator.com/item?id=34602297"
+    ],
+    [
+      "Modernizing C arrays for greater memory safety: a case study in the Linux kernel",
+      "https://people.kernel.org/kees/bounded-flexible-arrays-in-c"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 20:31:10",
       "https://news.ycombinator.com/item?id=34601498"
     ],
     [
       "Sourcehut will not blacklist the Go module mirror",
       "https://sourcehut.org/blog/2023-01-09-gomodulemirror/"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 20:03:48",
+      "https://news.ycombinator.com/item?id=34601089"
+    ],
+    [
+      "Combobulate: Structured Movement and Editing with Tree-Sitter",
+      "https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-01-31, 16:36:36",
-      "https://news.ycombinator.com/item?id=34597387"
-    ],
-    [
-      "“In roughly two hours, 1647 devices are about to be wiped”",
-      "https://infosec.exchange/@SecurityWriter/109777576538835360"
-    ]
-  ],
-  [
-    [
       "2023-01-31, 16:19:00",
       "https://news.ycombinator.com/item?id=34597125"
     ],
@@ -157,16 +177,6 @@
     [
       "Show HN: Silly math games to make learning fun for K through 3rd grade",
       "https://www.mindlygames.com"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 15:30:01",
-      "https://news.ycombinator.com/item?id=34596303"
-    ],
-    [
-      "A New Lower Bound in the ABC Conjecture",
-      "https://arxiv.org/abs/2301.11056"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "ASRock Industrial NUCS Box-1360P/D4 Review: Raptor Lake-P Plus Surprise ECC",
       "https://www.anandtech.com/show/18732/asrock-industrial-nucs-box1360pd4-review-raptor-lakep-ecc"
-    ]
-  ],
-  [
-    [
-      "2023-01-28, 15:01:27",
-      "https://news.ycombinator.com/item?id=34558044"
-    ],
-    [
-      "Electro Gyro-Cator",
-      "https://en.wikipedia.org/wiki/Electro_Gyrocator"
     ]
   ],
   [
