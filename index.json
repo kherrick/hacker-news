@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-31, 18:11:14",
+      "https://news.ycombinator.com/item?id=34599106"
+    ],
+    [
+      "New AI classifier for indicating AI-written text",
+      "https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 18:04:37",
       "https://news.ycombinator.com/item?id=34598987"
     ],
@@ -17,6 +27,16 @@
     [
       "Discovery could help extend battery life when not used",
       "https://www.dal.ca/news/2023/01/16/dalhousie-battery-discovery-self-discharge.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 17:44:20",
+      "https://news.ycombinator.com/item?id=34598563"
+    ],
+    [
+      "Heroku deleted my database with no warning",
+      "https://news.ycombinator.com/item?id=34598563"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34597743"
     ],
     [
-      "QuestDB, Open-Source Database, Is Hiring a DevRel Engineer (US-Based)",
+      "QuestDB (YC S20), open-source database, is hiring a devrel engineer (US-based)",
       "https://questdb.io/careers/developer-relations-engineer/"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "California cities to lose all zoning powers in 2 days",
       "https://darrellowens.substack.com/p/ca-cities-to-lose-all-zoning-powers"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 16:41:17",
-      "https://news.ycombinator.com/item?id=34597446"
-    ],
-    [
-      "Tesla tells investors it’s being investigated by the Justice Department",
-      "https://arstechnica.com/cars/2023/01/tesla-confirms-justice-department-investigation-into-autopilot/"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=34597162"
     ],
     [
-      "A judge ordered the unsealing of Sam Bankman-Fried's 2 anonymous bail sponsors",
+      "Sam Bankman-Fried's anonymous bail sponsors should be public, judge says",
       "https://www.businessinsider.com/sam-bankman-fried-bail-sponsors-should-be-public-judge-says-2023-1"
     ]
   ],
@@ -115,8 +125,18 @@
       "https://news.ycombinator.com/item?id=34596303"
     ],
     [
-      "A New Lower Bound in the Abc Conjecture",
+      "A New Lower Bound in the ABC Conjecture",
       "https://arxiv.org/abs/2301.11056"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 15:22:12",
+      "https://news.ycombinator.com/item?id=34596187"
+    ],
+    [
+      "Stable Diffusion Memorizes Training Points",
+      "https://arxiv.org/abs/2301.13188"
     ]
   ],
   [
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=34594743"
     ],
     [
-      "Nim and Go programs identified as malware on Windows",
+      "Nim and Go programs identified by Carbon Black as malware on Windows",
       "https://forum.nim-lang.org/t/9850"
     ]
   ],
@@ -231,21 +251,11 @@
   ],
   [
     [
-      "2023-01-30, 17:33:19",
-      "https://news.ycombinator.com/item?id=34583294"
-    ],
-    [
-      "A Midcentury Bender: Revisiting Mad Men",
-      "https://theamericanscholar.org/a-midcentury-bender/"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 16:02:24",
       "https://news.ycombinator.com/item?id=34581487"
     ],
     [
-      "WebAssembly: Adding Python Support to WASM Language Runtimes",
+      "WebAssembly: Adding Python support to WASM language runtimes",
       "https://wasmlabs.dev/articles/python-wasm32-wasi/"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Insulation: First the body, then the home (2011)",
       "https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 08:32:17",
-      "https://news.ycombinator.com/item?id=34577246"
-    ],
-    [
-      "Over the past 21 months I’ve written a code editor from the ground up",
-      "https://edita.vercel.app/blog/approach/"
     ]
   ],
   [
