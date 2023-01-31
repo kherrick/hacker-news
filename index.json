@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-01-30, 23:38:12",
+      "https://news.ycombinator.com/item?id=34588340"
+    ],
+    [
+      "Fish (shell) porting to Rust from C++",
+      "https://github.com/fish-shell/fish-shell/pull/9512"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 23:14:13",
+      "https://news.ycombinator.com/item?id=34588046"
+    ],
+    [
+      "FCC proposes $504k fine for broadcaster's misuse of Emergency Alert System tones",
+      "https://www.insideradio.com/free/fox-sports-admits-it-used-fake-eas-tones-on-radio-as-well-as-tv/article_6b18d2f0-9e1c-11ed-ab28-c7b167cea819.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 23:06:42",
+      "https://news.ycombinator.com/item?id=34587959"
+    ],
+    [
+      "Google Play Developer Antitrust Litigation",
+      "https://www.googleplaydevelopersettlement.com"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 22:39:24",
       "https://news.ycombinator.com/item?id=34587575"
     ],
     [
       "Proving Earth is a globe",
       "https://mctoon.net/interesting/"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 22:28:28",
-      "https://news.ycombinator.com/item?id=34587421"
-    ],
-    [
-      "It Should Be Okay to Just Read Headlines",
-      "https://mukdde.substack.com/p/why-it-should-be-okay-to-just-read"
     ]
   ],
   [
@@ -51,22 +71,12 @@
   ],
   [
     [
-      "2023-01-30, 21:22:01",
-      "https://news.ycombinator.com/item?id=34586553"
-    ],
-    [
-      "Amazon to Sell Bay Area Office Complex as Sales Growth Cools",
-      "https://www.msn.com/en-us/money/companies/amazon-to-sell-bay-area-office-complex-as-sales-growth-cools/ar-AA16M4Pp"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 21:10:13",
       "https://news.ycombinator.com/item?id=34586433"
     ],
     [
       "Automerge 2.0",
-      "https://automerge.org//blog/automerge-2/"
+      "https://automerge.org/blog/automerge-2/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Berkeley Mono Ligatures Release",
       "https://berkeleygraphics.com/public-affairs/bulletins/BT-002/"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 17:22:46",
-      "https://news.ycombinator.com/item?id=34583080"
-    ],
-    [
-      "Show HN: Asdf Clone Written in Rust",
-      "https://news.ycombinator.com/item?id=34583080"
     ]
   ],
   [
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=34579473"
     ],
     [
-      "On “I don't trust microcode”",
+      "On “I don't trust microcode” (2021)",
       "https://patrick.georgi.family/2021/02/13/on-microcode/"
     ]
   ],
@@ -227,16 +227,6 @@
     [
       "Löb and möb: strange loops in Haskell (2015)",
       "https://github.com/quchen/articles/blob/master/loeb-moeb.md"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 11:15:20",
-      "https://news.ycombinator.com/item?id=34578324"
-    ],
-    [
-      "SQL should be the default choice for data transformation logic",
-      "https://www.robinlinacre.com/recommend_sql/"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=34576637"
     ],
     [
-      "Learn the Basics of Coding with a Needle and Thread (2018)",
+      "Learn the basics of coding with a needle and thread (2018)",
       "https://www.ideo.com/blog/learn-the-basics-of-code-with-a-needle-and-thread"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "A symbolic Neanderthal accumulation of large herbivore crania",
       "https://www.nature.com/articles/s41562-022-01503-7"
+    ]
+  ],
+  [
+    [
+      "2023-01-28, 13:41:08",
+      "https://news.ycombinator.com/item?id=34557488"
+    ],
+    [
+      "When Screens Were Secondary: Mario Bellini's TCV 250 for Olivetti",
+      "https://www.core77.com/posts/117998/When-Screens-were-Secondary-Mario-Bellinis-TCV-250-for-Olivetti"
     ]
   ],
   [
