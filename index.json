@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2023-01-31, 16:19:00",
+      "https://news.ycombinator.com/item?id=34597125"
+    ],
+    [
+      "Instagram’s co-founders are back with Artifact, a kind of TikTok for text",
+      "https://www.theverge.com/2023/1/31/23579552/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 15:45:29",
       "https://news.ycombinator.com/item?id=34596554"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-01-31, 13:20:40",
-      "https://news.ycombinator.com/item?id=34594675"
-    ],
-    [
-      "Typed Lisp, A Primer (2019)",
-      "http://alhassy.com/TypedLisp"
-    ]
-  ],
-  [
-    [
       "2023-01-31, 13:16:02",
       "https://news.ycombinator.com/item?id=34594639"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=34591661"
     ],
     [
-      "Twm − Tab Window Manager for the X Window System",
+      "TWM − Tab Window Manager for the X Window System",
       "https://www.x.org/releases/X11R7.6/doc/man/man1/twm.1.xhtml"
     ]
   ],
