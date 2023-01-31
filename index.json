@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-01-31, 02:27:59",
-      "https://news.ycombinator.com/item?id=34590094"
+      "2023-01-31, 04:12:18",
+      "https://news.ycombinator.com/item?id=34590942"
     ],
     [
-      "The Limits of Computational Photography",
-      "https://yager.io/comp/comp.html"
+      "Understanding the x86's Decimal Adjust after Addition (DAA) instruction",
+      "http://www.righto.com/2023/01/understanding-x86s-decimal-adjust-after.html"
     ]
   ],
   [
     [
-      "2023-01-31, 02:26:10",
-      "https://news.ycombinator.com/item?id=34590087"
+      "2023-01-31, 02:27:59",
+      "https://news.ycombinator.com/item?id=34590094"
     ],
     [
-      "Need help with students who've turned my class into a dating service",
-      "https://academia.stackexchange.com/questions/192977/need-help-with-students-whove-turned-my-class-into-a-dating-service"
+      "The limits of \"computational photography\"",
+      "https://yager.io/comp/comp.html"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Cistercian Numerals",
       "https://kottke.org/23/01/cistercian-numerals"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 00:11:30",
+      "https://news.ycombinator.com/item?id=34588764"
+    ],
+    [
+      "Open source implementation of Google's MusicLM in PyTorch",
+      "https://github.com/lucidrains/musiclm-pytorch"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2023-01-30, 13:22:51",
-      "https://news.ycombinator.com/item?id=34579236"
-    ],
-    [
-      "A Modern Compiler for the French Tax Code (2020)",
-      "https://arxiv.org/abs/2011.07966"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 09:56:49",
       "https://news.ycombinator.com/item?id=34577788"
     ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=34577246"
     ],
     [
-      "Embrace the Chaos: How to Write a Code Editor in 4 Months",
+      "Over the past 21 months I’ve written a code editor from the ground up",
       "https://edita.vercel.app/blog/approach/"
     ]
   ],
