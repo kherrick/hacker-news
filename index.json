@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-01-31, 18:24:47",
+      "https://news.ycombinator.com/item?id=34599364"
+    ],
+    [
+      "Artifact – A personalized news feed, by the Instagram founders",
+      "https://artifact.news/"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 18:11:14",
       "https://news.ycombinator.com/item?id=34599106"
     ],
     [
       "New AI classifier for indicating AI-written text",
       "https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 18:10:45",
+      "https://news.ycombinator.com/item?id=34599094"
+    ],
+    [
+      "Cosmic DE update: System76's new Linux desktop environment",
+      "https://blog.system76.com/post/more-on-cosmic-de-to-kick-off-2023/"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2023-01-31, 17:02:07",
-      "https://news.ycombinator.com/item?id=34597781"
-    ],
-    [
-      "India’s population will start to shrink sooner than expected (2021)",
-      "https://www.economist.com/asia/2021/12/02/indias-population-will-start-to-shrink-sooner-than-expected"
-    ]
-  ],
-  [
-    [
       "2023-01-31, 17:00:09",
       "https://news.ycombinator.com/item?id=34597743"
     ],
@@ -85,18 +95,8 @@
       "https://news.ycombinator.com/item?id=34597387"
     ],
     [
-      "In roughly two hours, 1647 devices are about to be wiped",
+      "“In roughly two hours, 1647 devices are about to be wiped”",
       "https://infosec.exchange/@SecurityWriter/109777576538835360"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 16:21:37",
-      "https://news.ycombinator.com/item?id=34597162"
-    ],
-    [
-      "Sam Bankman-Fried's anonymous bail sponsors should be public, judge says",
-      "https://www.businessinsider.com/sam-bankman-fried-bail-sponsors-should-be-public-judge-says-2023-1"
     ]
   ],
   [
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34597089"
     ],
     [
-      "Weaponizing hyperfocus: Becoming the first DevRel at Tailscale",
+      "Becoming the first DevRel at Tailscale",
       "https://tailscale.dev/blog/weaponizing-hyperfocus"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=34596323"
     ],
     [
-      "Show HN: Silly Math Games to Make Learning Fun for K through 3rd Grade",
+      "Show HN: Silly math games to make learning fun for K through 3rd grade",
       "https://www.mindlygames.com"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34596187"
     ],
     [
-      "Stable Diffusion Memorizes Training Points",
+      "Extracting training data from diffusion models",
       "https://arxiv.org/abs/2301.13188"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=34558044"
     ],
     [
-      "Electro Gyrocator",
+      "Electro Gyro-Cator",
       "https://en.wikipedia.org/wiki/Electro_Gyrocator"
     ]
   ],
