@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-31, 16:46:08",
+      "https://news.ycombinator.com/item?id=34597507"
+    ],
+    [
+      "CA Cities to Lose All Zoning Powers in 2 Days",
+      "https://darrellowens.substack.com/p/ca-cities-to-lose-all-zoning-powers"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 16:21:37",
       "https://news.ycombinator.com/item?id=34597162"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2023-01-30, 16:02:24",
+      "https://news.ycombinator.com/item?id=34581487"
+    ],
+    [
+      "WebAssembly: Adding Python Support to WASM Language Runtimes",
+      "https://wasmlabs.dev/articles/python-wasm32-wasi/"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 15:33:49",
       "https://news.ycombinator.com/item?id=34580983"
     ],
@@ -247,26 +267,6 @@
     [
       "Over the past 21 months I’ve written a code editor from the ground up",
       "https://edita.vercel.app/blog/approach/"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 05:20:45",
-      "https://news.ycombinator.com/item?id=34565202"
-    ],
-    [
-      "Entering and Running a Tiny Program from the PDP-11 (PiDP-11) Front Panel",
-      "https://bigdanzblog.wordpress.com/2023/01/26/entering-and-running-a-tiny-program-from-the-pdp-11-pidp-11-front-panel/"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 05:18:23",
-      "https://news.ycombinator.com/item?id=34565191"
-    ],
-    [
-      "Console Screendumps",
-      "https://research.exoticsilicon.com/articles/console_screendumps"
     ]
   ],
   [
