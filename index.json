@@ -1,22 +1,32 @@
 [
   [
     [
-      "2023-01-30, 23:38:12",
-      "https://news.ycombinator.com/item?id=34588340"
+      "2023-01-31, 00:19:05",
+      "https://news.ycombinator.com/item?id=34588865"
     ],
     [
-      "Fish (shell) porting to Rust from C++",
-      "https://github.com/fish-shell/fish-shell/pull/9512"
+      "Yahoo is making a return to search",
+      "https://searchengineland.com/yahoo-is-making-a-return-to-search-392341"
     ]
   ],
   [
     [
-      "2023-01-30, 23:14:13",
-      "https://news.ycombinator.com/item?id=34588046"
+      "2023-01-31, 00:14:17",
+      "https://news.ycombinator.com/item?id=34588808"
     ],
     [
-      "FCC proposes $504k fine for broadcaster's misuse of Emergency Alert System tones",
-      "https://www.insideradio.com/free/fox-sports-admits-it-used-fake-eas-tones-on-radio-as-well-as-tv/article_6b18d2f0-9e1c-11ed-ab28-c7b167cea819.html"
+      "Cistercian Numerals",
+      "https://kottke.org/23/01/cistercian-numerals"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 23:38:12",
+      "https://news.ycombinator.com/item?id=34588340"
+    ],
+    [
+      "Rewrite it in Rust",
+      "https://github.com/fish-shell/fish-shell/pull/9512"
     ]
   ],
   [
@@ -31,32 +41,12 @@
   ],
   [
     [
-      "2023-01-30, 22:39:24",
-      "https://news.ycombinator.com/item?id=34587575"
-    ],
-    [
-      "Proving Earth is a globe",
-      "https://mctoon.net/interesting/"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 22:24:05",
       "https://news.ycombinator.com/item?id=34587360"
     ],
     [
       "Ask HN: Do you use JSON Schema? Help us shape its future stability guarantees",
       "https://news.ycombinator.com/item?id=34587360"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 22:19:17",
-      "https://news.ycombinator.com/item?id=34587293"
-    ],
-    [
-      "10TB portable SSDs on Amazon UK are scams",
-      "https://www.amazon.co.uk/s?k=portable+ssd+10tb&crid=3B5JCJDW98CMX&sprefix=portable+ssd+10tb%2Caps%2C149&ref=nb_sb_noss_1"
     ]
   ],
   [
@@ -81,16 +71,6 @@
   ],
   [
     [
-      "2023-01-30, 20:53:06",
-      "https://news.ycombinator.com/item?id=34586213"
-    ],
-    [
-      "Firefighters forced to smash window of driverless Cruise taxi to stop it",
-      "https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 20:17:08",
       "https://news.ycombinator.com/item?id=34585754"
     ],
@@ -107,16 +87,6 @@
     [
       "SimulaVR FPGA Image Processing Pipeline",
       "https://simulavr.com/blog/fpga-image-processing-pipeline/"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 17:56:43",
-      "https://news.ycombinator.com/item?id=34583670"
-    ],
-    [
-      "J&J can’t use bankruptcy to resolve talc-injury lawsuits, appeals court rules",
-      "https://www.wsj.com/articles/j-js-talc-bankruptcy-case-thrown-out-by-appeals-court-11675096308"
     ]
   ],
   [
@@ -165,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34580947"
     ],
     [
-      "Light from a rare isotope of helium in a distant galaxy",
+      "Light from an ionized state of helium in a distant galaxy",
       "https://www.quantamagazine.org/astronomers-say-they-have-spotted-the-universes-first-stars-20230130/"
     ]
   ],
@@ -211,6 +181,16 @@
   ],
   [
     [
+      "2023-01-30, 13:40:40",
+      "https://news.ycombinator.com/item?id=34579412"
+    ],
+    [
+      "Plasma Mobile Dev Log: January 2023",
+      "https://plasma-mobile.org/2023/01/30/january-blog-post/"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 13:22:51",
       "https://news.ycombinator.com/item?id=34579236"
     ],
@@ -227,6 +207,16 @@
     [
       "Löb and möb: strange loops in Haskell (2015)",
       "https://github.com/quchen/articles/blob/master/loeb-moeb.md"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 11:15:20",
+      "https://news.ycombinator.com/item?id=34578324"
+    ],
+    [
+      "SQL should be the default choice for data transformation logic",
+      "https://www.robinlinacre.com/recommend_sql/"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2023-01-29, 22:23:55",
+      "https://news.ycombinator.com/item?id=34573406"
+    ],
+    [
+      "Will Wright on designing user interfaces to simulation games (1996)",
+      "https://donhopkins.medium.com/designing-user-interfaces-to-simulation-games-bd7a9d81e62d"
+    ]
+  ],
+  [
+    [
       "2023-01-29, 12:43:24",
       "https://news.ycombinator.com/item?id=34567570"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=34557488"
     ],
     [
-      "When Screens Were Secondary: Mario Bellini's TCV 250 for Olivetti",
+      "Mario Bellini's TCV 250 for Olivetti",
       "https://www.core77.com/posts/117998/When-Screens-were-Secondary-Mario-Bellinis-TCV-250-for-Olivetti"
     ]
   ],
