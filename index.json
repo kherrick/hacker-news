@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-31, 20:31:10",
+      "https://news.ycombinator.com/item?id=34601498"
+    ],
+    [
+      "Sourcehut will not blacklist the Go module mirror",
+      "https://sourcehut.org/blog/2023-01-09-gomodulemirror/"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 19:58:31",
       "https://news.ycombinator.com/item?id=34601012"
     ],
@@ -17,16 +27,6 @@
     [
       "Tell HN: GitHub will delete your private repo if you lose access to the original",
       "https://news.ycombinator.com/item?id=34600985"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 19:18:52",
-      "https://news.ycombinator.com/item?id=34600345"
-    ],
-    [
-      "America’s fever of workaholism is finally breaking",
-      "https://www.theatlantic.com/newsletters/archive/2023/01/american-rich-men-work-less-hours-workism/672895/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-01-31, 13:20:40",
+      "https://news.ycombinator.com/item?id=34594675"
+    ],
+    [
+      "Typed Lisp, A Primer (2019)",
+      "http://alhassy.com/TypedLisp"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 13:16:02",
       "https://news.ycombinator.com/item?id=34594639"
     ],
@@ -257,16 +267,6 @@
     [
       "WebAssembly: Adding Python support to WASM language runtimes",
       "https://wasmlabs.dev/articles/python-wasm32-wasi/"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 15:33:49",
-      "https://news.ycombinator.com/item?id=34580983"
-    ],
-    [
-      "Insulation: First the body, then the home (2011)",
-      "https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html"
     ]
   ],
   [
