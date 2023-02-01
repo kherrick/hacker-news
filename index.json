@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-02-01, 04:14:53",
-      "https://news.ycombinator.com/item?id=34606274"
-    ],
-    [
-      "Prime Voice AI: The most realistic and versatile AI speech software",
-      "https://beta.elevenlabs.io/"
-    ]
-  ],
-  [
-    [
       "2023-02-01, 04:12:12",
       "https://news.ycombinator.com/item?id=34606254"
     ],
@@ -127,6 +117,16 @@
     [
       "Modernizing C arrays for greater memory safety: a case study in the Linux kernel",
       "https://people.kernel.org/kees/bounded-flexible-arrays-in-c"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 20:03:48",
+      "https://news.ycombinator.com/item?id=34601089"
+    ],
+    [
+      "Combobulate: Structured Movement and Editing with Tree-Sitter",
+      "https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter"
     ]
   ],
   [
