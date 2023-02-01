@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-01, 12:15:54",
+      "https://news.ycombinator.com/item?id=34609461"
+    ],
+    [
+      "A URL shortener not shortening the URL but makes it look very dodgy",
+      "https://github.com/defaultnamehere/verylegit.link"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 12:13:33",
+      "https://news.ycombinator.com/item?id=34609445"
+    ],
+    [
+      "How we plan to de-extinct the Dodo bird",
+      "https://colossal.com/dodo/"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 10:50:30",
       "https://news.ycombinator.com/item?id=34608883"
     ],
@@ -17,16 +37,6 @@
     [
       "Forthcoming OpenSSL Releases 3.0.8, 1.1.1T and 1.0.2zg",
       "https://mta.openssl.org/pipermail/openssl-announce/2023-January/000248.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 09:07:39",
-      "https://news.ycombinator.com/item?id=34608179"
-    ],
-    [
-      "San Francisco is getting cold feet about self-driving car tests",
-      "https://www.newscientist.com/article/2356888-san-francisco-is-getting-cold-feet-about-self-driving-car-tests/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Reducing Go execution tracer overhead with frame pointer unwinding",
       "https://blog.felixge.de/reducing-gos-execution-tracer-overhead-with-frame-pointer-unwinding/"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 18:11:14",
-      "https://news.ycombinator.com/item?id=34599106"
-    ],
-    [
-      "New AI classifier for indicating AI-written text",
-      "https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/"
     ]
   ],
   [
