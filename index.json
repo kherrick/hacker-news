@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-02-01, 14:29:48",
+      "https://news.ycombinator.com/item?id=34610919"
+    ],
+    [
+      "The Curse of the Corporate Headshot",
+      "https://www.economist.com/business/2023/01/26/the-curse-of-the-corporate-headshot"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 14:09:37",
       "https://news.ycombinator.com/item?id=34610597"
     ],
     [
       "Tech only has one strategy: Embrace, Extend, Extinguish",
       "https://mrsteinberg.com/embrace-extend-extinguish/"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 14:04:03",
+      "https://news.ycombinator.com/item?id=34610517"
+    ],
+    [
+      "Pakistani gov degrades Wikipedia connections due to blasphemy",
+      "https://www.pta.gov.pk/en/media-center/single-media/wikipedia-services-degraded-over-unlawful-content-010223"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-02-01, 01:48:46",
-      "https://news.ycombinator.com/item?id=34605240"
-    ],
-    [
-      "Is remote work bad for the economy?",
-      "https://www.fractional.work/p/is-remote-work-bad-for-the-economy"
-    ]
-  ],
-  [
-    [
       "2023-02-01, 01:00:27",
       "https://news.ycombinator.com/item?id=34604832"
     ],
@@ -227,16 +237,6 @@
     [
       "Ask HN: How do you test SQL?",
       "https://news.ycombinator.com/item?id=34602318"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 21:18:24",
-      "https://news.ycombinator.com/item?id=34602297"
-    ],
-    [
-      "Modernizing C arrays for greater memory safety: a case study in the Linux kernel",
-      "https://people.kernel.org/kees/bounded-flexible-arrays-in-c"
     ]
   ],
   [
