@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-02-01, 18:20:39",
-      "https://news.ycombinator.com/item?id=34614997"
+      "2023-02-01, 18:09:54",
+      "https://news.ycombinator.com/item?id=34614813"
     ],
     [
-      "Apple: $52,000 Mac Pro Is Now Worth $1k",
-      "https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000/"
+      "Show HN: HealthPlanExplorer.com: Search & parse insurance plan MRF Files",
+      "https://www.healthplanexplorer.com/"
     ]
   ],
   [
@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-02-01, 17:06:23",
-      "https://news.ycombinator.com/item?id=34613598"
-    ],
-    [
-      "Never take meeting notes again",
-      "https://www.meetjamie.ai/"
-    ]
-  ],
-  [
-    [
       "2023-02-01, 17:01:02",
       "https://news.ycombinator.com/item?id=34613508"
     ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=34612732"
     ],
     [
-      "Data-free Disney: Evading data capture at Disneyland",
+      "Data-Free Disneyland",
       "https://www.optoutproject.net/data-free-disney/"
     ]
   ],
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2023-02-01, 15:56:30",
-      "https://news.ycombinator.com/item?id=34612277"
-    ],
-    [
-      "The Rock 5B is not a Raspberry Pi killer–yet",
-      "https://www.jeffgeerling.com/blog/2023/rock-5-b-not-raspberry-pi-killer-yet"
-    ]
-  ],
-  [
-    [
       "2023-02-01, 15:49:31",
       "https://news.ycombinator.com/item?id=34612162"
     ],
@@ -155,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34611969"
     ],
     [
-      "Python's “Disappointing” Superpowers",
+      "Python's “disappointing” superpowers",
       "https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/"
     ]
   ],
@@ -267,6 +247,26 @@
     [
       "Do we live in a society without a counterculture?",
       "https://www.xmodtwo.com/p/do-we-live-in-a-society-without-a"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 10:33:38",
+      "https://news.ycombinator.com/item?id=34608750"
+    ],
+    [
+      "Forthcoming OpenSSL Releases 3.0.8, 1.1.1T and 1.0.2zg",
+      "https://mta.openssl.org/pipermail/openssl-announce/2023-January/000248.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 07:38:21",
+      "https://news.ycombinator.com/item?id=34607604"
+    ],
+    [
+      "I've had bad luck with transparent hugepages on my Linux machines",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/TransparentHugepagesBadLuck"
     ]
   ],
   [
