@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-01, 05:26:12",
+      "https://news.ycombinator.com/item?id=34606780"
+    ],
+    [
+      "Show HN: GPTMinus1 – Fool OpenAIs AI Detector by Randomly Replacing Words",
+      "https://gptminus1.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 04:14:53",
       "https://news.ycombinator.com/item?id=34606274"
     ],
@@ -117,16 +127,6 @@
     [
       "Modernizing C arrays for greater memory safety: a case study in the Linux kernel",
       "https://people.kernel.org/kees/bounded-flexible-arrays-in-c"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 20:03:48",
-      "https://news.ycombinator.com/item?id=34601089"
-    ],
-    [
-      "Combobulate: Structured Movement and Editing with Tree-Sitter",
-      "https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter"
     ]
   ],
   [
