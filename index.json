@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-01, 12:52:18",
+      "https://news.ycombinator.com/item?id=34609747"
+    ],
+    [
+      "Dassault Rafale vs. F-35",
+      "https://historyandwar.org/2015/09/11/dassault-rafale-vs-f-35/"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 12:22:37",
+      "https://news.ycombinator.com/item?id=34609516"
+    ],
+    [
+      "Stable Diffusion found to emit some images from training at generation time",
+      "https://twitter.com/Eric_Wallace_/status/1620449934863642624"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 12:15:54",
       "https://news.ycombinator.com/item?id=34609461"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2023-02-01, 11:38:06",
+      "https://news.ycombinator.com/item?id=34609182"
+    ],
+    [
+      "Stripe increases fees for EU and UK-based businesses in April",
+      "https://support.stripe.com/questions/april-2023-pricing-updates-for-businesses-based-in-europe"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 10:50:30",
       "https://news.ycombinator.com/item?id=34608883"
     ],
@@ -37,16 +67,6 @@
     [
       "Forthcoming OpenSSL Releases 3.0.8, 1.1.1T and 1.0.2zg",
       "https://mta.openssl.org/pipermail/openssl-announce/2023-January/000248.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 08:40:56",
-      "https://news.ycombinator.com/item?id=34608014"
-    ],
-    [
-      "Tiny radioactive capsule lost in Australian outback found",
-      "https://www.theguardian.com/australia-news/2023/feb/01/tiny-radioactive-capsule-lost-in-australian-outback-found-by-side-of-1400km-stretch-of-road"
     ]
   ],
   [
@@ -181,26 +201,6 @@
   ],
   [
     [
-      "2023-01-31, 20:03:48",
-      "https://news.ycombinator.com/item?id=34601089"
-    ],
-    [
-      "Combobulate: Structured Movement and Editing with Tree-Sitter",
-      "https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 19:58:31",
-      "https://news.ycombinator.com/item?id=34601012"
-    ],
-    [
-      "Critical brain hypothesis: A physical theory for when the brain performs best",
-      "https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/"
-    ]
-  ],
-  [
-    [
       "2023-01-31, 19:06:31",
       "https://news.ycombinator.com/item?id=34600126"
     ],
@@ -217,6 +217,16 @@
     [
       "Reducing Go execution tracer overhead with frame pointer unwinding",
       "https://blog.felixge.de/reducing-gos-execution-tracer-overhead-with-frame-pointer-unwinding/"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 18:11:14",
+      "https://news.ycombinator.com/item?id=34599106"
+    ],
+    [
+      "New AI classifier for indicating AI-written text",
+      "https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Contiki – OS for networked, memory-constrained systems",
       "https://en.wikipedia.org/wiki/Contiki"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 16:31:55",
-      "https://news.ycombinator.com/item?id=34569656"
-    ],
-    [
-      "ASRock Industrial NUCS Box-1360P/D4 Review: Raptor Lake-P Plus Surprise ECC",
-      "https://www.anandtech.com/show/18732/asrock-industrial-nucs-box1360pd4-review-raptor-lakep-ecc"
     ]
   ]
 ]
