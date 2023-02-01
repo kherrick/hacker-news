@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-02-01, 01:00:27",
+      "https://news.ycombinator.com/item?id=34604832"
+    ],
+    [
+      "Tablevibe (YC S21) hiring AU sales exec to help restaurants go direct-to-consumer",
+      "https://www.ycombinator.com/companies/tablevibe-co/jobs/aN5DPci-senior-sales-executive-australia-new-zealand"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 00:08:02",
+      "https://news.ycombinator.com/item?id=34604281"
+    ],
+    [
+      "Show HN: KnifeGeek – Online Database of Pocket Knives",
+      "https://www.knifegeek.io/"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 22:59:50",
       "https://news.ycombinator.com/item?id=34603587"
     ],
     [
-      "Concordia Students Set to Launch Most Powerful Rocket Developed by Civilians",
+      "Concordia students set to launch most powerful rocket developed by civilians",
       "https://www.concordia.ca/news/stories/2023/01/23/members-of-space-concordia-have-their-hearts-set-on-the-stars.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 21:28:41",
+      "https://news.ycombinator.com/item?id=34602444"
+    ],
+    [
+      "Show HN: TunnlTo – Windows WireGuard split tunnel client built with Rust, Tauri",
+      "https://github.com/TunnlTo/desktop-app"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Modernizing C arrays for greater memory safety: a case study in the Linux kernel",
       "https://people.kernel.org/kees/bounded-flexible-arrays-in-c"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 21:13:36",
-      "https://news.ycombinator.com/item?id=34602213"
-    ],
-    [
-      "Snap Quarterly Results Q4 2022 [pdf]",
-      "https://investor.snap.com/files/doc_financials/2022/q4/Q4%2722-Earnings-Slides.pdf"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Tell HN: GitHub will delete your private repo if you lose access to the original",
       "https://news.ycombinator.com/item?id=34600985"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 19:12:56",
-      "https://news.ycombinator.com/item?id=34600232"
-    ],
-    [
-      "DetectGPT: Zero-Shot Machine-Generated Text Detection",
-      "https://arxiv.org/abs/2301.11305"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-01-31, 17:00:09",
-      "https://news.ycombinator.com/item?id=34597743"
-    ],
-    [
-      "QuestDB (YC S20), open-source database, is hiring a devrel engineer (US-based)",
-      "https://questdb.io/careers/developer-relations-engineer/"
-    ]
-  ],
-  [
-    [
       "2023-01-31, 16:19:00",
       "https://news.ycombinator.com/item?id=34597125"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-01-31, 13:56:26",
+      "https://news.ycombinator.com/item?id=34595010"
+    ],
+    [
+      "Spotify is first music streaming service to surpass 200M paid subscribers",
+      "https://www.theverge.com/2023/1/31/23577499/spotify-q4-2022-earnings-release-subscriber-growth-layoffs"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 13:04:22",
       "https://news.ycombinator.com/item?id=34594547"
     ],
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2023-01-31, 11:53:08",
-      "https://news.ycombinator.com/item?id=34593977"
+      "2023-01-31, 12:26:04",
+      "https://news.ycombinator.com/item?id=34594216"
     ],
     [
-      "Generating Platonic Solids in C++ (2021)",
-      "https://www.danielsieger.com/blog/2021/01/03/generating-platonic-solids.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 11:07:10",
-      "https://news.ycombinator.com/item?id=34593724"
-    ],
-    [
-      "Japanese explained to programmers",
-      "https://lajili.com/posts/post-1/"
+      "C++ Neural Network in a Weekend (2020)",
+      "https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-01-31, 01:17:05",
-      "https://news.ycombinator.com/item?id=34589468"
-    ],
-    [
-      "A fairy-like robot flies by the power of wind and light",
-      "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.html"
-    ]
-  ],
-  [
-    [
       "2023-01-31, 01:16:03",
       "https://news.ycombinator.com/item?id=34589454"
     ],
@@ -287,6 +277,16 @@
     [
       "WebAssembly: Adding Python support to WASM language runtimes",
       "https://wasmlabs.dev/articles/python-wasm32-wasi/"
+    ]
+  ],
+  [
+    [
+      "2023-01-30, 09:34:18",
+      "https://news.ycombinator.com/item?id=34577643"
+    ],
+    [
+      "Contiki – OS for networked, memory-constrained systems",
+      "https://en.wikipedia.org/wiki/Contiki"
     ]
   ],
   [
