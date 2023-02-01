@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-02-01, 14:09:37",
-      "https://news.ycombinator.com/item?id=34610597"
-    ],
-    [
-      "Tech only has one strategy: Embrace, Extend, Extinguish",
-      "https://mrsteinberg.com/embrace-extend-extinguish/"
-    ]
-  ],
-  [
-    [
       "2023-02-01, 14:04:03",
       "https://news.ycombinator.com/item?id=34610517"
     ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34610253"
     ],
     [
-      "An astonishing regularity in student learning rate",
+      "Regularity in student learning rate",
       "https://psyarxiv.com/pxsfh/"
     ]
   ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=34609648"
     ],
     [
-      "BioGPT: A Language Model Pre-Trained on Large-Scale Biomedical Literature",
+      "BioGPT: A language model pre-trained on large-scale biomedical literature",
       "https://www.marktechpost.com/2023/01/31/microsoft-research-proposes-biogpt-a-domain-specific-generative-transformer-language-model-pre-trained-on-large-scale-biomedical-literature/"
     ]
   ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2023-02-01, 10:50:30",
+      "https://news.ycombinator.com/item?id=34608883"
+    ],
+    [
+      "Do we live in a society without a counterculture?",
+      "https://www.xmodtwo.com/p/do-we-live-in-a-society-without-a"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 10:33:38",
       "https://news.ycombinator.com/item?id=34608750"
     ],
@@ -251,6 +251,26 @@
   ],
   [
     [
+      "2023-02-01, 06:22:54",
+      "https://news.ycombinator.com/item?id=34607152"
+    ],
+    [
+      "Destroy All Monsters (2006)",
+      "https://www.thebeliever.net/destroy-all-monsters/"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 04:12:12",
+      "https://news.ycombinator.com/item?id=34606254"
+    ],
+    [
+      "Write simply (2021)",
+      "http://www.paulgraham.com/simply.html"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 03:01:37",
       "https://news.ycombinator.com/item?id=34605772"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-01-31, 21:19:29",
-      "https://news.ycombinator.com/item?id=34602318"
+      "2023-01-31, 01:37:57",
+      "https://news.ycombinator.com/item?id=34589665"
     ],
     [
-      "Ask HN: How do you test SQL?",
-      "https://news.ycombinator.com/item?id=34602318"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 14:10:35",
-      "https://news.ycombinator.com/item?id=34595180"
-    ],
-    [
-      "Show HN: DocAsker – Use LLMs to ask documentation questions",
-      "https://www.docasker.com/"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 13:12:47",
-      "https://news.ycombinator.com/item?id=34594612"
-    ],
-    [
-      "Fast, Optimal, Any-Angle Pathfinding (Polyanya)",
-      "https://research.monash.edu/en/publications/compromise-free-pathfinding-on-a-navigation-mesh"
+      "Discovering unique microbes made easy with new software platform",
+      "https://phys.org/news/2023-01-unique-microbes-easy-software-platform.html"
     ]
   ]
 ]
