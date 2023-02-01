@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=34606254"
     ],
     [
-      "Write Simply",
+      "Write simply (2021)",
       "http://www.paulgraham.com/simply.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 03:30:37",
-      "https://news.ycombinator.com/item?id=34605974"
-    ],
-    [
-      "The founder of Gmail claims that ChatGPT can “kill” Google in two years",
-      "https://fincash.biggrow.in/tech/the-founder-of-gmail-claims-that-chatgpt-can-kill-google-in-two-years/"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "Modernizing C arrays for greater memory safety: a case study in the Linux kernel",
       "https://people.kernel.org/kees/bounded-flexible-arrays-in-c"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 20:03:48",
+      "https://news.ycombinator.com/item?id=34601089"
+    ],
+    [
+      "Combobulate: Structured Movement and Editing with Tree-Sitter",
+      "https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter"
     ]
   ],
   [
