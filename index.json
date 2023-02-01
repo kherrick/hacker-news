@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2023-01-31, 20:03:48",
+      "https://news.ycombinator.com/item?id=34601089"
+    ],
+    [
+      "Combobulate: Structured Movement and Editing with Tree-Sitter",
+      "https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 19:58:31",
       "https://news.ycombinator.com/item?id=34601012"
     ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2023-01-31, 17:47:04",
+      "https://news.ycombinator.com/item?id=34598615"
+    ],
+    [
+      "Discovery could extend battery life by replacing tape that causes self‑discharge",
+      "https://www.dal.ca/news/2023/01/16/dalhousie-battery-discovery-self-discharge.html"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 17:44:20",
       "https://news.ycombinator.com/item?id=34598563"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-01-31, 15:45:29",
-      "https://news.ycombinator.com/item?id=34596554"
-    ],
-    [
-      "Is AM radio dead?",
-      "https://www.jeffgeerling.com/blog/2023/am-radio-dead"
-    ]
-  ],
-  [
-    [
       "2023-01-31, 14:10:35",
       "https://news.ycombinator.com/item?id=34595180"
     ],
     [
       "Show HN: DocAsker – Use LLMs to ask documentation questions",
       "https://www.docasker.com/"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 13:56:26",
-      "https://news.ycombinator.com/item?id=34595010"
-    ],
-    [
-      "Spotify is first music streaming service to surpass 200M paid subscribers",
-      "https://www.theverge.com/2023/1/31/23577499/spotify-q4-2022-earnings-release-subscriber-growth-layoffs"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-01-30, 16:02:24",
-      "https://news.ycombinator.com/item?id=34581487"
-    ],
-    [
-      "WebAssembly: Adding Python support to WASM language runtimes",
-      "https://wasmlabs.dev/articles/python-wasm32-wasi/"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 09:34:18",
       "https://news.ycombinator.com/item?id=34577643"
     ],
     [
       "Contiki – OS for networked, memory-constrained systems",
       "https://en.wikipedia.org/wiki/Contiki"
+    ]
+  ],
+  [
+    [
+      "2023-01-29, 16:31:55",
+      "https://news.ycombinator.com/item?id=34569656"
+    ],
+    [
+      "ASRock Industrial NUCS Box-1360P/D4 Review: Raptor Lake-P Plus Surprise ECC",
+      "https://www.anandtech.com/show/18732/asrock-industrial-nucs-box1360pd4-review-raptor-lakep-ecc"
     ]
   ]
 ]
