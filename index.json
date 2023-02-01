@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-01, 15:23:54",
+      "https://news.ycombinator.com/item?id=34611736"
+    ],
+    [
+      "Data Visualization: Choropleth maps with ggplot and R",
+      "https://socviz.co/maps.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 15:12:58",
+      "https://news.ycombinator.com/item?id=34611552"
+    ],
+    [
+      "Meanwhile, over in Androidtown",
+      "https://daringfireball.net/2023/01/meanwhile_over_in_androidtown"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 15:04:03",
       "https://news.ycombinator.com/item?id=34611412"
     ],
@@ -17,6 +37,16 @@
     [
       "Why are online recipes always so long-winded?",
       "https://jjpryor.substack.com/p/why-are-online-recipes-always-so"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 14:45:43",
+      "https://news.ycombinator.com/item?id=34611136"
+    ],
+    [
+      "When Discord is open in the background, NVIDIA card will not reach full speeds",
+      "https://nvidia.custhelp.com/app/answers/detail/a_id/5443/~/when-discord-is-open-in-the-background%2C-graphics-card-memory-clocks-will-not"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-02-01, 12:05:56",
-      "https://news.ycombinator.com/item?id=34609379"
-    ],
-    [
-      "LLM discourse needs more nuance",
-      "https://proofinprogress.com/posts/2023-02-01/the-ai-crowd-is-mad.html"
-    ]
-  ],
-  [
-    [
       "2023-02-01, 11:38:06",
       "https://news.ycombinator.com/item?id=34609182"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2023-02-01, 01:00:27",
-      "https://news.ycombinator.com/item?id=34604832"
-    ],
-    [
-      "Tablevibe (YC S21) hiring AU sales exec to help restaurants go direct-to-consumer",
-      "https://www.ycombinator.com/companies/tablevibe-co/jobs/aN5DPci-senior-sales-executive-australia-new-zealand"
-    ]
-  ],
-  [
-    [
       "2023-01-31, 21:19:29",
       "https://news.ycombinator.com/item?id=34602318"
     ],
     [
       "Ask HN: How do you test SQL?",
       "https://news.ycombinator.com/item?id=34602318"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 19:06:31",
-      "https://news.ycombinator.com/item?id=34600126"
-    ],
-    [
-      "Hermes: An open-source document management system",
-      "https://www.hashicorp.com/blog/introducing-hermes-an-open-source-document-management-system"
     ]
   ],
   [
