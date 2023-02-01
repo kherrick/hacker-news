@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-02-01, 15:04:03",
+      "https://news.ycombinator.com/item?id=34611412"
+    ],
+    [
+      "Academia’s culture of overwork almost broke me, so I’m working to undo it",
+      "https://www.nature.com/articles/d41586-023-00241-8"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 14:52:16",
       "https://news.ycombinator.com/item?id=34611222"
     ],
     [
-      "Why Are Online Recipes Always So Long-Winded?",
+      "Why are online recipes always so long-winded?",
       "https://jjpryor.substack.com/p/why-are-online-recipes-always-so"
     ]
   ],
@@ -27,6 +37,16 @@
     [
       "The Curse of the Corporate Headshot",
       "https://www.economist.com/business/2023/01/26/the-curse-of-the-corporate-headshot"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 14:15:53",
+      "https://news.ycombinator.com/item?id=34610686"
+    ],
+    [
+      "Show HN: We built a developer-first open-source Zapier alternative",
+      "https://trigger.dev"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Operation Luigi: How I hacked my friend without her noticing",
       "https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 13:46:19",
+      "https://news.ycombinator.com/item?id=34610292"
+    ],
+    [
+      "CatGPT – What if ChatGPT were a cat?",
+      "https://catgpt.wvd.io"
     ]
   ],
   [
@@ -207,36 +237,6 @@
     [
       "Tablevibe (YC S21) hiring AU sales exec to help restaurants go direct-to-consumer",
       "https://www.ycombinator.com/companies/tablevibe-co/jobs/aN5DPci-senior-sales-executive-australia-new-zealand"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 00:21:47",
-      "https://news.ycombinator.com/item?id=34604416"
-    ],
-    [
-      "Why Finland Selected the F-35A (2021)",
-      "https://corporalfrisk.com/2021/12/11/f-35a-is-hx-the-winner-takes-it-all/"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 00:08:02",
-      "https://news.ycombinator.com/item?id=34604281"
-    ],
-    [
-      "Show HN: KnifeGeek – Online Database of Pocket Knives",
-      "https://www.knifegeek.io/"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 21:28:41",
-      "https://news.ycombinator.com/item?id=34602444"
-    ],
-    [
-      "Show HN: TunnlTo – Windows WireGuard split tunnel client built with Rust, Tauri",
-      "https://github.com/TunnlTo/desktop-app"
     ]
   ],
   [
