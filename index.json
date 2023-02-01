@@ -15,8 +15,8 @@
       "https://news.ycombinator.com/item?id=34616352"
     ],
     [
-      "Go 1.20 Released",
-      "https://groups.google.com/g/golang-announce/c/QMK8IQALDvA/m/JbovhzpOAAAJ"
+      "Go 1.20 released",
+      "https://go.dev/doc/go1.20"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-02-01, 14:29:48",
+      "https://news.ycombinator.com/item?id=34610919"
+    ],
+    [
+      "The curse of the corporate headshot",
+      "https://www.economist.com/business/2023/01/26/the-curse-of-the-corporate-headshot"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 14:26:14",
       "https://news.ycombinator.com/item?id=34610858"
     ],
@@ -257,16 +267,6 @@
     [
       "Do we live in a society without a counterculture?",
       "https://www.xmodtwo.com/p/do-we-live-in-a-society-without-a"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 07:38:21",
-      "https://news.ycombinator.com/item?id=34607604"
-    ],
-    [
-      "I've had bad luck with transparent hugepages on my Linux machines",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/TransparentHugepagesBadLuck"
     ]
   ],
   [
