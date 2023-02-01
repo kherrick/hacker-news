@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-01, 14:09:37",
+      "https://news.ycombinator.com/item?id=34610597"
+    ],
+    [
+      "Tech only has one strategy: Embrace, Extend, Extinguish",
+      "https://mrsteinberg.com/embrace-extend-extinguish/"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 13:30:54",
+      "https://news.ycombinator.com/item?id=34610116"
+    ],
+    [
+      "The Difference Between Speaking and Thinking and Why ChatGPT Is Uncanny",
+      "https://www.theatlantic.com/technology/archive/2023/01/chatgpt-ai-language-human-computer-grammar-logic/672902/"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 12:51:28",
       "https://news.ycombinator.com/item?id=34609741"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-01-31, 22:59:50",
-      "https://news.ycombinator.com/item?id=34603587"
-    ],
-    [
-      "Concordia students set to launch most powerful rocket developed by civilians",
-      "https://www.concordia.ca/news/stories/2023/01/23/members-of-space-concordia-have-their-hearts-set-on-the-stars.html"
-    ]
-  ],
-  [
-    [
       "2023-01-31, 21:28:41",
       "https://news.ycombinator.com/item?id=34602444"
     ],
@@ -287,16 +297,6 @@
     [
       "C++ Neural Network in a Weekend (2020)",
       "https://www.jeremyong.com/cpp/machine-learning/2020/10/23/cpp-neural-network-in-a-weekend/"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 09:34:18",
-      "https://news.ycombinator.com/item?id=34577643"
-    ],
-    [
-      "Contiki – OS for networked, memory-constrained systems",
-      "https://en.wikipedia.org/wiki/Contiki"
     ]
   ]
 ]
