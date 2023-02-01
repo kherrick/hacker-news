@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-01, 17:48:06",
+      "https://news.ycombinator.com/item?id=34614449"
+    ],
+    [
+      "Same.energy: Image Search by Similarity",
+      "https://same.energy"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 17:22:44",
       "https://news.ycombinator.com/item?id=34613961"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34613039"
     ],
     [
-      "Netlify Acquires Gatsby",
+      "Netlify acquires Gatsby",
       "https://www.netlify.com/press/netlify-acquires-gatsby-inc-to-accelerate-adoption-of-composable-web-architectures/"
     ]
   ],
@@ -92,16 +102,6 @@
   [
     [
       "2023-02-01, 16:01:23",
-      "https://news.ycombinator.com/item?id=34612352"
-    ],
-    [
-      "Ask HN: Freelancer? Seeking freelancer? (February 2023)",
-      "https://news.ycombinator.com/item?id=34612352"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 16:01:23",
       "https://news.ycombinator.com/item?id=34612351"
     ],
     [
@@ -111,11 +111,21 @@
   ],
   [
     [
+      "2023-02-01, 15:56:30",
+      "https://news.ycombinator.com/item?id=34612277"
+    ],
+    [
+      "The Rock 5B is not a Raspberry Pi killer–yet",
+      "https://www.jeffgeerling.com/blog/2023/rock-5-b-not-raspberry-pi-killer-yet"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 15:49:31",
       "https://news.ycombinator.com/item?id=34612162"
     ],
     [
-      "Virtual DOM is pure overhead",
+      "Virtual DOM is pure overhead (2018)",
       "https://svelte.dev/blog/virtual-dom-is-pure-overhead"
     ]
   ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=34611736"
     ],
     [
-      "Data Visualization: Choropleth maps with ggplot and R",
+      "Choropleth maps with ggplot and R",
       "https://socviz.co/maps.html"
     ]
   ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-02-01, 14:29:48",
-      "https://news.ycombinator.com/item?id=34610919"
-    ],
-    [
-      "The curse of the corporate headshot",
-      "https://www.economist.com/business/2023/01/26/the-curse-of-the-corporate-headshot"
-    ]
-  ],
-  [
-    [
       "2023-02-01, 14:26:14",
       "https://news.ycombinator.com/item?id=34610858"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=34610253"
     ],
     [
-      "Regularity in student learning rate",
+      "An astonishing regularity in student learning rate",
       "https://psyarxiv.com/pxsfh/"
     ]
   ],
@@ -237,16 +237,6 @@
     [
       "Morning exposure to deep red light improves declining eyesight",
       "https://www.nature.com/articles/s41598-021-02311-1"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 12:22:37",
-      "https://news.ycombinator.com/item?id=34609516"
-    ],
-    [
-      "Stable Diffusion found to emit some images from training at generation time",
-      "https://twitter.com/Eric_Wallace_/status/1620449934863642624"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "I've had bad luck with transparent hugepages on my Linux machines",
       "https://utcc.utoronto.ca/~cks/space/blog/linux/TransparentHugepagesBadLuck"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 06:22:54",
+      "https://news.ycombinator.com/item?id=34607152"
+    ],
+    [
+      "Destroy All Monsters (2006)",
+      "https://www.thebeliever.net/destroy-all-monsters/"
     ]
   ],
   [
