@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-02, 08:55:03",
+      "https://news.ycombinator.com/item?id=34623964"
+    ],
+    [
+      "Meta Was Scraping Sites for Years While Fighting the Practice",
+      "https://www.bloomberg.com/news/articles/2023-02-02/meta-was-scraping-sites-for-years-while-fighting-the-practice"
+    ]
+  ],
+  [
+    [
       "2023-02-02, 06:48:30",
       "https://news.ycombinator.com/item?id=34623052"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-02-02, 02:49:30",
-      "https://news.ycombinator.com/item?id=34621407"
-    ],
-    [
-      "Bethesda’s Redfall needs to be online for single-player mode",
-      "https://arstechnica.com/gaming/2023/02/single-player-redfall-still-requires-a-persistent-online-connection/"
-    ]
-  ],
-  [
-    [
       "2023-02-02, 00:58:28",
       "https://news.ycombinator.com/item?id=34620563"
     ],
@@ -127,16 +127,6 @@
     [
       "Microsoft Teams Premium: powered by OpenAI’s GPT-3.5",
       "https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 22:47:07",
-      "https://news.ycombinator.com/item?id=34619135"
-    ],
-    [
-      "OpenQNX Source (2007)",
-      "https://github.com/vocho/openqnx/blob/master/trunk/lib/c/1/open.c"
     ]
   ],
   [
@@ -207,16 +197,6 @@
     [
       "ChatGPT Plus",
       "https://openai.com/blog/chatgpt-plus/"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 17:50:50",
-      "https://news.ycombinator.com/item?id=34614497"
-    ],
-    [
-      "Release engineering is exhausting so here's cargo-dist",
-      "https://blog.axo.dev/2023/02/cargo-dist"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Flame: A small language model for spreadsheet formulas",
       "https://arxiv.org/abs/2301.13779"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 05:18:58",
+      "https://news.ycombinator.com/item?id=34606727"
+    ],
+    [
+      "The Golden Age of Glossies",
+      "https://www.nybooks.com/online/2023/01/30/the-golden-age-of-glossies/"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 19:20:07",
+      "https://news.ycombinator.com/item?id=34600364"
+    ],
+    [
+      "How to control your smart home without yelling at a dumb voice assistant",
+      "https://arstechnica.com/gadgets/2023/01/how-to-control-your-smart-home-without-yelling-at-a-dumb-voice-assistant/"
     ]
   ]
 ]
