@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-02-02, 21:03:53",
+      "https://news.ycombinator.com/item?id=34632986"
+    ],
+    [
+      "The 27th Letter",
+      "https://www.poetryfoundation.org/harriet-books/2016/01/the-27th-letter"
+    ]
+  ],
+  [
+    [
       "2023-02-02, 21:00:29",
       "https://news.ycombinator.com/item?id=34632943"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-02-02, 14:41:03",
-      "https://news.ycombinator.com/item?id=34627101"
-    ],
-    [
-      "From math to machine: translating a function to machine code (2017)",
-      "https://web.archive.org/web/20210420194827/https://www.briansteffens.com/2017/02/20/from-math-to-machine.html"
-    ]
-  ],
-  [
-    [
       "2023-02-02, 13:46:39",
       "https://news.ycombinator.com/item?id=34626395"
     ],
@@ -251,42 +251,32 @@
   ],
   [
     [
-      "2023-02-02, 08:04:14",
-      "https://news.ycombinator.com/item?id=34623604"
+      "2023-02-01, 16:54:35",
+      "https://news.ycombinator.com/item?id=34613365"
     ],
     [
-      "tcpdump is amazing (2016)",
-      "https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/"
+      "Quirks of the Page Visibility API",
+      "https://mattj.io/posts/2023-02-01-page-visibility-api/"
     ]
   ],
   [
     [
-      "2023-02-02, 06:42:46",
-      "https://news.ycombinator.com/item?id=34623007"
+      "2023-02-01, 15:38:46",
+      "https://news.ycombinator.com/item?id=34611994"
     ],
     [
-      "C was not created as an abstract machine",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/CAsAbstractMachine"
+      "Why I Like Nox",
+      "https://hynek.me/articles/why-i-like-nox/"
     ]
   ],
   [
     [
-      "2023-02-02, 03:47:13",
-      "https://news.ycombinator.com/item?id=34621775"
+      "2023-02-01, 14:59:33",
+      "https://news.ycombinator.com/item?id=34611335"
     ],
     [
-      "Illusory Wealth: Victor Dubreuil’s Cryptic Currencies",
-      "https://publicdomainreview.org/essay/illusory-wealth"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 23:11:10",
-      "https://news.ycombinator.com/item?id=34619458"
-    ],
-    [
-      "The DOS SDK",
-      "https://scalibq.wordpress.com/2023/02/01/the-dos-sdk/"
+      "A manifesto on shower temperature control",
+      "https://benholmen.com/blog/shower-temperature-control/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Goiânia Accident",
       "https://en.wikipedia.org/wiki/Goi%C3%A2nia_accident"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 11:23:47",
+      "https://news.ycombinator.com/item?id=34609093"
+    ],
+    [
+      "WASM compression benchmarks and the cost of missing compression APIs",
+      "https://nickb.dev/blog/wasm-compression-benchmarks-and-the-cost-of-missing-compression-apis/"
     ]
   ]
 ]
