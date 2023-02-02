@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-02-01, 22:47:07",
+      "https://news.ycombinator.com/item?id=34619135"
+    ],
+    [
+      "OpenQNX Source (2007)",
+      "https://github.com/vocho/openqnx/blob/master/trunk/lib/c/1/open.c"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 22:34:24",
       "https://news.ycombinator.com/item?id=34618984"
     ],
@@ -207,16 +217,6 @@
     [
       "Release engineering is exhausting so here's cargo-dist",
       "https://blog.axo.dev/2023/02/cargo-dist"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 17:48:06",
-      "https://news.ycombinator.com/item?id=34614449"
-    ],
-    [
-      "Same.energy: Image Search by Similarity",
-      "https://same.energy"
     ]
   ],
   [
