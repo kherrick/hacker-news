@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-02-02, 00:58:28",
+      "https://news.ycombinator.com/item?id=34620563"
+    ],
+    [
+      "Google layoffs Jan 20, 2023 – California WARN public records",
+      "https://airtable.cool/shrF23JdDHMQ3QDyw"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 23:12:40",
       "https://news.ycombinator.com/item?id=34619484"
     ],
     [
-      "Infinite partial sumsets in the primes – Terence Tao",
+      "Infinite partial sumsets in the primes",
       "https://terrytao.wordpress.com/2023/01/26/infinite-partial-sumsets-in-the-primes/"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "Information Theory, Inference, and Learning Algorithms (2003)",
       "https://inference.org.uk/itila/book.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 21:51:44",
-      "https://news.ycombinator.com/item?id=34618404"
-    ],
-    [
-      "Ask HN: Does the HN commentariat have a reductive view of what a human being is?",
-      "https://news.ycombinator.com/item?id=34618404"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-02-01, 17:11:39",
-      "https://news.ycombinator.com/item?id=34613703"
-    ],
-    [
-      "Tuning into brainwave rhythms speeds up learning in adults",
-      "https://www.cam.ac.uk/stories/brainwavelearning"
-    ]
-  ],
-  [
-    [
       "2023-02-01, 17:01:02",
       "https://news.ycombinator.com/item?id=34613508"
     ],
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2023-02-01, 15:37:19",
-      "https://news.ycombinator.com/item?id=34611969"
+      "2023-02-01, 15:49:31",
+      "https://news.ycombinator.com/item?id=34612162"
     ],
     [
-      "Python's “disappointing” superpowers",
-      "https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/"
+      "Virtual DOM is pure overhead (2018)",
+      "https://svelte.dev/blog/virtual-dom-is-pure-overhead"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Choropleth maps with ggplot and R",
       "https://socviz.co/maps.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 14:29:48",
+      "https://news.ycombinator.com/item?id=34610919"
+    ],
+    [
+      "The curse of the corporate headshot",
+      "https://www.economist.com/business/2023/01/26/the-curse-of-the-corporate-headshot"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2023-02-01, 07:58:16",
+      "https://news.ycombinator.com/item?id=34607738"
+    ],
+    [
+      "Flame: A small language model for spreadsheet formulas",
+      "https://arxiv.org/abs/2301.13779"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 07:20:28",
       "https://news.ycombinator.com/item?id=34607497"
     ],
@@ -287,16 +297,6 @@
     [
       "GNU Radio in a Direct-RF World [video]",
       "https://archive.org/details/youtube-7N27o-DpQZM"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 16:57:22",
-      "https://news.ycombinator.com/item?id=34597680"
-    ],
-    [
-      "What the ancient bog bodies knew",
-      "https://www.nytimes.com/2023/01/30/science/archaeology-bogs-mummies.html"
     ]
   ]
 ]
