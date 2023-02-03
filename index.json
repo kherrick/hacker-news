@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-03, 19:00:45",
+      "https://news.ycombinator.com/item?id=34646199"
+    ],
+    [
+      "Show HN: Glidesort, a new stable sort in Rust up to ~4x faster for random data",
+      "https://github.com/orlp/glidesort"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 18:59:23",
+      "https://news.ycombinator.com/item?id=34646178"
+    ],
+    [
+      "Show HN: Talk to GPT-3 through Siri",
+      "https://news.ycombinator.com/item?id=34646178"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 18:12:53",
       "https://news.ycombinator.com/item?id=34645371"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-02-02, 18:32:04",
-      "https://news.ycombinator.com/item?id=34631031"
-    ],
-    [
-      "Biomolecular analyses enable new insights into ancient Egyptian embalming",
-      "https://www.nature.com/articles/s41586-022-05663-4"
-    ]
-  ],
-  [
-    [
       "2023-02-02, 15:40:05",
       "https://news.ycombinator.com/item?id=34628068"
     ],
@@ -277,16 +287,6 @@
     [
       "AWS Tape Gateway",
       "https://aws.amazon.com/storagegateway/vtl/"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 15:32:11",
-      "https://news.ycombinator.com/item?id=34627916"
-    ],
-    [
-      "Method for reducing coffee acidity",
-      "https://patents.google.com/patent/US5853787A/en"
     ]
   ],
   [
