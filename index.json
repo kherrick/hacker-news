@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-03, 19:13:28",
+      "https://news.ycombinator.com/item?id=34646389"
+    ],
+    [
+      "New Universal Summarizer by Kagi",
+      "https://labs.kagi.com/ai/sum"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 19:00:45",
       "https://news.ycombinator.com/item?id=34646199"
     ],
@@ -287,16 +297,6 @@
     [
       "AWS Tape Gateway",
       "https://aws.amazon.com/storagegateway/vtl/"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 06:12:41",
-      "https://news.ycombinator.com/item?id=34622788"
-    ],
-    [
-      "Starting February 9, we will no longer support free access to the Twitter API",
-      "https://twitter.com/twitterdev/status/1621026986784337922"
     ]
   ]
 ]
