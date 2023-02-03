@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-03, 21:44:32",
+      "https://news.ycombinator.com/item?id=34648149"
+    ],
+    [
+      "Update on Samsung SSD Reliability",
+      "https://www.pugetsystems.com/blog/2023/02/02/update-on-samsung-ssd-reliability/"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 21:34:38",
+      "https://news.ycombinator.com/item?id=34648021"
+    ],
+    [
+      "I Bought a CO2 Monitor, and It Broke Me",
+      "https://www.theatlantic.com/health/archive/2023/02/carbon-dioxide-monitor-indoor-air-pollution-gas-stoves/672923/"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 21:25:25",
+      "https://news.ycombinator.com/item?id=34647916"
+    ],
+    [
+      "Argentina has been trapped in neocolonial debt for 200 years",
+      "https://geopoliticaleconomy.com/2022/12/18/argentina-neocolonial-debt-history/"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 20:33:06",
       "https://news.ycombinator.com/item?id=34647333"
     ],
@@ -27,6 +57,16 @@
     [
       "New Universal Summarizer by Kagi",
       "https://labs.kagi.com/ai/sum"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 19:10:37",
+      "https://news.ycombinator.com/item?id=34646361"
+    ],
+    [
+      "Effective altruism has a sexual harassment problem, women say",
+      "https://time.com/6252617/effective-altruism-sexual-harassment/"
     ]
   ],
   [
@@ -121,26 +161,6 @@
   ],
   [
     [
-      "2023-02-03, 14:41:26",
-      "https://news.ycombinator.com/item?id=34641549"
-    ],
-    [
-      "Companies save billions of dollars by giving employees fake “manager” titles",
-      "https://www.cbsnews.com/news/salary-manager-jobs-fake-titles-save-4-billion-overtime-nber/"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 13:51:59",
-      "https://news.ycombinator.com/item?id=34641025"
-    ],
-    [
-      "Until further notice, think twice before using Google to download software",
-      "https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software/"
-    ]
-  ],
-  [
-    [
       "2023-02-03, 13:34:21",
       "https://news.ycombinator.com/item?id=34640833"
     ],
@@ -167,16 +187,6 @@
     [
       "Haskell is not category theory",
       "https://pema.dev/2023/02/01/haskell-not-ct/"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 12:45:47",
-      "https://news.ycombinator.com/item?id=34640350"
-    ],
-    [
-      "Tell HN: Firefox Is an awesome browser right now",
-      "https://news.ycombinator.com/item?id=34640350"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "AWS Tape Gateway",
       "https://aws.amazon.com/storagegateway/vtl/"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 06:12:41",
-      "https://news.ycombinator.com/item?id=34622788"
-    ],
-    [
-      "Starting February 9, we will no longer support free access to the Twitter API",
-      "https://twitter.com/twitterdev/status/1621026986784337922"
     ]
   ]
 ]
