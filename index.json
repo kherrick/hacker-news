@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-02-04, 20:04:46",
+      "https://news.ycombinator.com/item?id=34657655"
+    ],
+    [
+      "U.S. military shoots down suspected Chinese surveillance balloon",
+      "https://www.cnbc.com/2023/02/04/us-military-prepares-to-take-down-suspected-chinese-surveillance-balloon.html"
+    ]
+  ],
+  [
+    [
       "2023-02-04, 19:53:10",
       "https://news.ycombinator.com/item?id=34657535"
     ],
@@ -67,16 +77,6 @@
     [
       "Nostr.how – A Complete Guide to Nostr",
       "https://www.nostr.how/"
-    ]
-  ],
-  [
-    [
-      "2023-02-04, 18:47:11",
-      "https://news.ycombinator.com/item?id=34656906"
-    ],
-    [
-      "Polymode: Multiple Major Modes and How to Use SQL and Python in One Buffer",
-      "https://www.masteringemacs.org/article/polymode-multiple-major-modes-how-to-use-sql-python-in-one-buffer"
     ]
   ],
   [
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2023-02-04, 13:08:20",
-      "https://news.ycombinator.com/item?id=34654155"
+      "2023-02-04, 14:17:25",
+      "https://news.ycombinator.com/item?id=34654649"
     ],
     [
-      "The War for Iron",
-      "https://www.science.org/content/blog-post/war-iron"
+      "De-Bloated Windows 11 Build Runs on 2GB of RAM",
+      "https://www.tomshardware.com/news/tiny11-lean-windows-11"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-02-03, 06:21:45",
-      "https://news.ycombinator.com/item?id=34637781"
-    ],
-    [
-      "What Is a Mineral?",
-      "https://www.mindat.org/a/what_is_a_mineral"
-    ]
-  ],
-  [
-    [
       "2023-02-02, 10:08:07",
       "https://news.ycombinator.com/item?id=34624527"
     ],
@@ -297,6 +287,16 @@
     [
       "Humans Need Play",
       "https://allenpike.com/2023/humans-need-play"
+    ]
+  ],
+  [
+    [
+      "2023-02-02, 02:11:20",
+      "https://news.ycombinator.com/item?id=34621158"
+    ],
+    [
+      "Tokens, Please: Comparing OpenID Connect with Video Game “Papers, Please”",
+      "https://www.toddtee.sh/posts/github-actions-oidc/"
     ]
   ]
 ]
