@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-02-04, 11:00:56",
-      "https://news.ycombinator.com/item?id=34653505"
-    ],
-    [
-      "Ask HN: What can you do or learn to experience a better love life?",
-      "https://news.ycombinator.com/item?id=34653505"
-    ]
-  ],
-  [
-    [
       "2023-02-04, 10:51:48",
       "https://news.ycombinator.com/item?id=34653462"
     ],
@@ -297,6 +287,16 @@
     [
       "Khepri is a tree-like replicated on-disk database library for Erlang and Elixir",
       "https://github.com/rabbitmq/khepri"
+    ]
+  ],
+  [
+    [
+      "2023-02-02, 06:47:19",
+      "https://news.ycombinator.com/item?id=34623041"
+    ],
+    [
+      "Pluggable Authentication Modules (PAM)",
+      "https://www.netbsd.org/docs/guide/en/chap-pam.html"
     ]
   ]
 ]
