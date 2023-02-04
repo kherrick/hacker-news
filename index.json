@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-02-04, 13:08:20",
+      "https://news.ycombinator.com/item?id=34654155"
+    ],
+    [
+      "The War for Iron",
+      "https://www.science.org/content/blog-post/war-iron"
+    ]
+  ],
+  [
+    [
+      "2023-02-04, 12:29:23",
+      "https://news.ycombinator.com/item?id=34653965"
+    ],
+    [
+      "Deploy your own GPT-3 API with Docker and fly",
+      "https://github.com/queercat/gpt-api-docker"
+    ]
+  ],
+  [
+    [
       "2023-02-04, 12:06:12",
       "https://news.ycombinator.com/item?id=34653843"
     ],
     [
       "The plateauing of cognitive ability among top earners",
       "https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcac076/7008955"
+    ]
+  ],
+  [
+    [
+      "2023-02-04, 12:05:19",
+      "https://news.ycombinator.com/item?id=34653838"
+    ],
+    [
+      "MIT engineers develop a new way to remove carbon dioxide from air",
+      "https://news.mit.edu/2019/mit-engineers-develop-new-way-remove-carbon-dioxide-air-1025"
     ]
   ],
   [
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2023-02-03, 23:07:16",
-      "https://news.ycombinator.com/item?id=34649113"
-    ],
-    [
-      "The paper that made ChatGPT possible",
-      "https://arxiv.org/abs/1706.03762"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 22:35:25",
-      "https://news.ycombinator.com/item?id=34648760"
-    ],
-    [
-      "Show HN: Webapp.io - Free firecracker-based full-stack hosting",
-      "https://webapp.io/hosting"
-    ]
-  ],
-  [
-    [
       "2023-02-03, 22:17:09",
       "https://news.ycombinator.com/item?id=34648543"
     ],
@@ -217,16 +227,6 @@
     [
       "Universal Summarizer",
       "https://labs.kagi.com/ai/sum"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 19:00:45",
-      "https://news.ycombinator.com/item?id=34646199"
-    ],
-    [
-      "Show HN: Glidesort, a new stable sort in Rust up to ~4x faster for random data",
-      "https://github.com/orlp/glidesort"
     ]
   ],
   [
