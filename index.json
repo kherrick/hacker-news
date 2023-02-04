@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-04, 18:32:48",
+      "https://news.ycombinator.com/item?id=34656776"
+    ],
+    [
+      "Scalability Is Overrated",
+      "https://waseem.substack.com/p/scalability-is-overrated"
+    ]
+  ],
+  [
+    [
+      "2023-02-04, 18:10:35",
+      "https://news.ycombinator.com/item?id=34656591"
+    ],
+    [
+      "ChatGPT Passes Google Coding Interview for Level 3 Engineer with $183K Salary",
+      "https://www.pcmag.com/news/chatgpt-passes-google-coding-interview-for-level-3-engineer-with-183k-salary"
+    ]
+  ],
+  [
+    [
       "2023-02-04, 17:57:40",
       "https://news.ycombinator.com/item?id=34656461"
     ],
@@ -27,6 +47,16 @@
     [
       "A Solar Kiln to dry wood. Overview, design and build (2019)",
       "https://www.adrianpreda.com/blog/solar-kiln"
+    ]
+  ],
+  [
+    [
+      "2023-02-04, 17:09:33",
+      "https://news.ycombinator.com/item?id=34656022"
+    ],
+    [
+      "yq: command-line YAML, JSON, XML, CSV and properties processor",
+      "https://github.com/mikefarah/yq"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "LVFS – Linux Vendor Firmware Service",
       "https://fwupd.org"
-    ]
-  ],
-  [
-    [
-      "2023-02-04, 15:25:55",
-      "https://news.ycombinator.com/item?id=34655130"
-    ],
-    [
-      "Colombian judge used ChatGPT to make court decision",
-      "https://www.vice.com/en/article/k7bdmv/judge-used-chatgpt-to-make-court-decision"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-02-03, 10:23:51",
-      "https://news.ycombinator.com/item?id=34639445"
-    ],
-    [
-      "Did David Hume retract 2 essays on immorality to avoid religious controversy?",
-      "https://retractionwatch.com/2023/02/02/did-david-hume-retract-2-essays-on-immorality-to-avoid-religious-controversy/"
-    ]
-  ],
-  [
-    [
       "2023-02-02, 12:21:39",
       "https://news.ycombinator.com/item?id=34625563"
     ],
@@ -277,16 +287,6 @@
     [
       "CPU of the Day: The Intel Everest Series",
       "https://www.cpushack.com/2018/07/03/cpu-of-the-day-the-intel-everest-series/"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 06:47:19",
-      "https://news.ycombinator.com/item?id=34623041"
-    ],
-    [
-      "Pluggable Authentication Modules (PAM)",
-      "https://www.netbsd.org/docs/guide/en/chap-pam.html"
     ]
   ],
   [
