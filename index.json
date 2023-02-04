@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-02-04, 07:30:35",
-      "https://news.ycombinator.com/item?id=34652458"
-    ],
-    [
-      "Ask HN: Should we be concerned about the current H5N1 outbreak?",
-      "https://news.ycombinator.com/item?id=34652458"
-    ]
-  ],
-  [
-    [
       "2023-02-04, 07:00:00",
       "https://news.ycombinator.com/item?id=34652299"
     ],
@@ -37,16 +27,6 @@
     [
       "AMD Killed the Itanium",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/AMDandItanium"
-    ]
-  ],
-  [
-    [
-      "2023-02-04, 05:20:45",
-      "https://news.ycombinator.com/item?id=34651786"
-    ],
-    [
-      "Wind chill on Mt. Washington NH minus 108, temp -46, wind 98 gusting 107",
-      "https://www.mountwashington.org/experience-the-weather/current-summit-conditions.aspx"
     ]
   ],
   [
@@ -91,16 +71,6 @@
   ],
   [
     [
-      "2023-02-04, 01:32:04",
-      "https://news.ycombinator.com/item?id=34650368"
-    ],
-    [
-      "Servo 2023 Roadmap",
-      "https://servo.org/blog/2023/02/03/servo-2023-roadmap/"
-    ]
-  ],
-  [
-    [
       "2023-02-04, 00:38:53",
       "https://news.ycombinator.com/item?id=34649960"
     ],
@@ -127,6 +97,16 @@
     [
       "The KLF: Chaos, magic and the band who burned £1M",
       "https://johnhiggs.com/books/the-klf/"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 22:35:25",
+      "https://news.ycombinator.com/item?id=34648760"
+    ],
+    [
+      "Show HN: Webapp.io - Free firecracker-based full-stack hosting",
+      "https://webapp.io/hosting"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2023-02-03, 17:30:55",
+      "https://news.ycombinator.com/item?id=34644558"
+    ],
+    [
+      "The future (and the past) of the web is server side rendering",
+      "https://deno.com/blog/the-future-and-past-is-server-side-rendering"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 16:54:54",
       "https://news.ycombinator.com/item?id=34643811"
     ],
@@ -255,8 +245,18 @@
       "https://news.ycombinator.com/item?id=34642289"
     ],
     [
-      "The Fertilizer Shortage Will Persist in 2023",
+      "The fertilizer shortage will persist in 2023",
       "https://modernfarmer.com/2022/12/the-fertilizer-shortage-will-persist-in-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 15:18:50",
+      "https://news.ycombinator.com/item?id=34642158"
+    ],
+    [
+      "Layoffs Are Cruel and Don't Work",
+      "https://matduggan.com/us-layoffs-are-unspeakably-cruel/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=34637863"
     ],
     [
-      "How the Arpanet Protocols Worked (2021)",
+      "How the ARPANET Protocols Worked (2021)",
       "https://twobithistory.org/2021/03/08/arpanet-protocols.html"
     ]
   ],
