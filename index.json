@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-02-03, 23:28:22",
-      "https://news.ycombinator.com/item?id=34649326"
-    ],
-    [
-      "The KLF: Chaos, magic and the band who burned £1M",
-      "https://johnhiggs.com/books/the-klf/"
-    ]
-  ],
-  [
-    [
       "2023-02-03, 12:54:12",
       "https://news.ycombinator.com/item?id=34640416"
     ],
@@ -297,6 +287,16 @@
     [
       "Pluggable Authentication Modules (PAM)",
       "https://www.netbsd.org/docs/guide/en/chap-pam.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-02, 06:35:02",
+      "https://news.ycombinator.com/item?id=34622953"
+    ],
+    [
+      "Reliable event dispatching using a transactional outbox",
+      "https://blog.frankdejonge.nl/reliable-event-dispatching-using-a-transactional-outbox/"
     ]
   ]
 ]
