@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-05, 09:54:37",
+      "https://news.ycombinator.com/item?id=34663465"
+    ],
+    [
+      "The Coming AI Hackers",
+      "https://www.schneier.com/academic/archives/2021/04/the-coming-ai-hackers.html"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 09:32:10",
       "https://news.ycombinator.com/item?id=34663352"
     ],
@@ -57,16 +67,6 @@
     [
       "What can I do for Arch Linux?",
       "https://whatcanidofor.archlinux.org/"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 04:32:40",
-      "https://news.ycombinator.com/item?id=34661893"
-    ],
-    [
-      "Linux Kernel: Bypassing Spectre-BTI User Space Mitigations",
-      "https://github.com/google/security-research/security/advisories/GHSA-9x5g-vmxf-4qj8"
     ]
   ],
   [
@@ -191,22 +191,22 @@
   ],
   [
     [
-      "2023-02-04, 11:48:25",
-      "https://news.ycombinator.com/item?id=34653729"
-    ],
-    [
-      "ESP32 Buyer’s Guide: Different Chips, Firmware, Sensors",
-      "https://eitherway.io/posts/esp32-buyers-guide/"
-    ]
-  ],
-  [
-    [
       "2023-02-04, 11:04:45",
       "https://news.ycombinator.com/item?id=34653522"
     ],
     [
       "What time is it? A simple question with a complex answer",
       "https://andrea.corbellini.name/2023/01/23/what-time-is-it/"
+    ]
+  ],
+  [
+    [
+      "2023-02-04, 08:08:49",
+      "https://news.ycombinator.com/item?id=34652672"
+    ],
+    [
+      "A Linking Adventure",
+      "https://nsnotes.github.io/2023/03/03/A-linking-adventure/"
     ]
   ],
   [
