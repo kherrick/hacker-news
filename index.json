@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-02-05, 15:47:38",
+      "https://news.ycombinator.com/item?id=34665797"
+    ],
+    [
+      "NSA wooing thousands of laid-off Big Tech workers for spy agency's hiring spree",
+      "https://www.washingtontimes.com/news/2023/feb/3/nsa-wooing-thousands-laid-big-tech-workers-spy-age/"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 15:16:57",
       "https://news.ycombinator.com/item?id=34665532"
     ],
     [
-      "HSBC's Money Laundering Scandal 2012, money laudering for Mexican Drug gangs",
+      "HSBC's Money Laundering Scandal",
       "https://www.investopedia.com/stock-analysis/2013/investing-news-for-jan-29-hsbcs-money-laundering-scandal-hbc-scbff-ing-cs-rbs0129.aspx"
     ]
   ],
@@ -201,36 +211,6 @@
   ],
   [
     [
-      "2023-02-05, 00:38:54",
-      "https://news.ycombinator.com/item?id=34660204"
-    ],
-    [
-      "The cheapest flash microcontroller you can buy is actually an Arm Cortex-M0+",
-      "https://jaycarlson.net/2023/02/04/the-cheapest-flash-microcontroller-you-can-buy-is-actually-an-arm-cortex-m0/"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 00:25:07",
-      "https://news.ycombinator.com/item?id=34660100"
-    ],
-    [
-      "The Market for Lemons",
-      "https://infrequently.org/2023/02/the-market-for-lemons/"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 00:19:53",
-      "https://news.ycombinator.com/item?id=34660065"
-    ],
-    [
-      "The Packing Chromatic Number of the Infinite Grid is 15: the story behind it",
-      "https://bsubercaseaux.github.io/blog/2023/packingchromatic/"
-    ]
-  ],
-  [
-    [
       "2023-02-04, 23:00:49",
       "https://news.ycombinator.com/item?id=34659344"
     ],
@@ -257,6 +237,16 @@
     [
       "Scalability is overrated",
       "https://waseem.substack.com/p/scalability-is-overrated"
+    ]
+  ],
+  [
+    [
+      "2023-02-04, 08:08:49",
+      "https://news.ycombinator.com/item?id=34652672"
+    ],
+    [
+      "A Linking Adventure",
+      "https://nsnotes.github.io/2023/03/03/A-linking-adventure/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Taking the initial phone screen with candidates",
       "https://davidgomes.com/taking-the-initial-phone-screen-with-candidates/"
+    ]
+  ],
+  [
+    [
+      "2023-02-02, 19:39:15",
+      "https://news.ycombinator.com/item?id=34631945"
+    ],
+    [
+      "Making a loudness monitor for online meetings",
+      "https://rolisz.ro/2023/02/02/making-a-loudness-monitor/"
     ]
   ]
 ]
