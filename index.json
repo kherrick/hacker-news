@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-05, 18:32:32",
+      "https://news.ycombinator.com/item?id=34667411"
+    ],
+    [
+      "Ask HN: Employers, why do you want us back in the office?",
+      "https://news.ycombinator.com/item?id=34667411"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 18:04:14",
       "https://news.ycombinator.com/item?id=34667114"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2023-02-05, 15:47:38",
-      "https://news.ycombinator.com/item?id=34665797"
-    ],
-    [
-      "NSA wooing thousands of laid-off Big Tech workers for spy agency's hiring spree",
-      "https://www.washingtontimes.com/news/2023/feb/3/nsa-wooing-thousands-laid-big-tech-workers-spy-age/"
-    ]
-  ],
-  [
-    [
       "2023-02-05, 15:41:17",
       "https://news.ycombinator.com/item?id=34665748"
     ],
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-02-05, 14:13:29",
+      "https://news.ycombinator.com/item?id=34665023"
+    ],
+    [
+      "All Circuits are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
+      "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 13:44:08",
       "https://news.ycombinator.com/item?id=34664826"
     ],
@@ -177,16 +187,6 @@
     [
       "C Port of Ken Thompson's Space Travel",
       "https://github.com/mohd-akram/st"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 12:28:57",
-      "https://news.ycombinator.com/item?id=34664373"
-    ],
-    [
-      "Structured Concurrency Definition",
-      "https://gavinhoward.com/2019/12/structured-concurrency-definition/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
+      "2023-02-05, 11:24:51",
+      "https://news.ycombinator.com/item?id=34663968"
+    ],
+    [
+      "Lightweight Kubernetes Operators with WebAssembly – FOSDEM 2023 [video]",
+      "https://www.youtube.com/watch?v=E5o81Wldshk"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 11:13:41",
       "https://news.ycombinator.com/item?id=34663895"
     ],
     [
       "Safe Foreign Callouts from Racket to Swift",
       "https://defn.io/2023/02/04/racket-foreign-callouts-to-swift/"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 09:59:12",
-      "https://news.ycombinator.com/item?id=34663494"
-    ],
-    [
-      "How New Ideas Arise",
-      "https://thereader.mitpress.mit.edu/how-new-ideas-arise/"
     ]
   ],
   [
