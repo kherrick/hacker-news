@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-02-05, 19:58:33",
+      "https://news.ycombinator.com/item?id=34668565"
+    ],
+    [
+      "Getty Images v. Stability AI – Complaint",
+      "https://copyrightlately.com/pdfviewer/getty-images-v-stability-ai-complaint/"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 18:55:32",
       "https://news.ycombinator.com/item?id=34667708"
     ],
     [
-      "Don’t Teach During Code Reviews",
+      "Don’t teach during code reviews",
       "https://www.michaelagreiler.com/teach-during-code-reviews/"
     ]
   ],
@@ -17,16 +27,6 @@
     [
       "Ask HN: Employers, why do you want us back in the office?",
       "https://news.ycombinator.com/item?id=34667411"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 18:29:49",
-      "https://news.ycombinator.com/item?id=34667378"
-    ],
-    [
-      "Ask HN: Share Your YouTube Channel",
-      "https://news.ycombinator.com/item?id=34667378"
     ]
   ],
   [
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34665878"
     ],
     [
-      "Archiving in the Time of Streaming",
+      "Archiving in the time of streaming",
       "http://ascii.textfiles.com/archives/5443"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34665532"
     ],
     [
-      "HSBC's Money Laundering Scandal",
+      "HSBC's Money Laundering Scandal (2022)",
       "https://www.investopedia.com/stock-analysis/2013/investing-news-for-jan-29-hsbcs-money-laundering-scandal-hbc-scbff-ing-cs-rbs0129.aspx"
     ]
   ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-02-05, 11:54:50",
-      "https://news.ycombinator.com/item?id=34664146"
-    ],
-    [
-      "Reversing UK ticket smart cards",
-      "https://lobi.to/talks/papertickets/"
-    ]
-  ],
-  [
-    [
       "2023-02-05, 11:45:24",
       "https://news.ycombinator.com/item?id=34664091"
     ],
@@ -237,6 +227,16 @@
     [
       "Lightweight Kubernetes Operators with WebAssembly – FOSDEM 2023 [video]",
       "https://www.youtube.com/watch?v=E5o81Wldshk"
+    ]
+  ],
+  [
+    [
+      "2023-02-05, 11:13:41",
+      "https://news.ycombinator.com/item?id=34663895"
+    ],
+    [
+      "Safe Foreign Callouts from Racket to Swift",
+      "https://defn.io/2023/02/04/racket-foreign-callouts-to-swift/"
     ]
   ],
   [
