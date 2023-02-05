@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-02-05, 04:32:40",
+      "https://news.ycombinator.com/item?id=34661893"
+    ],
+    [
+      "Linux Kernel: Bypassing Spectre-BTI User Space Mitigations",
+      "https://github.com/google/security-research/security/advisories/GHSA-9x5g-vmxf-4qj8"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 02:12:32",
       "https://news.ycombinator.com/item?id=34660938"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2023-02-04, 18:49:23",
-      "https://news.ycombinator.com/item?id=34656925"
-    ],
-    [
-      "Nostr.how – A Complete Guide to Nostr",
-      "https://www.nostr.how/"
-    ]
-  ],
-  [
-    [
       "2023-02-04, 18:32:48",
       "https://news.ycombinator.com/item?id=34656776"
     ],
@@ -187,6 +187,16 @@
     [
       "De-Bloated Windows 11 Build Runs on 2GB of RAM",
       "https://www.tomshardware.com/news/tiny11-lean-windows-11"
+    ]
+  ],
+  [
+    [
+      "2023-02-04, 11:48:25",
+      "https://news.ycombinator.com/item?id=34653729"
+    ],
+    [
+      "ESP32 Buyer’s Guide: Different Chips, Firmware, Sensors",
+      "https://eitherway.io/posts/esp32-buyers-guide/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Taking the initial phone screen with candidates",
       "https://davidgomes.com/taking-the-initial-phone-screen-with-candidates/"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 07:58:22",
-      "https://news.ycombinator.com/item?id=34638456"
-    ],
-    [
-      "A 50-year quest: My personal journey with the second law of thermodynamics",
-      "https://writings.stephenwolfram.com/2023/02/a-50-year-quest-my-personal-journey-with-the-second-law-of-thermodynamics/"
     ]
   ],
   [
