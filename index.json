@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-02-05, 03:14:31",
-      "https://news.ycombinator.com/item?id=34661406"
-    ],
-    [
-      "Show HN: Hacker News, but Just ChatGPT",
-      "https://neontomo.com/play/chatgpt-news/"
-    ]
-  ],
-  [
-    [
       "2023-02-05, 02:12:32",
       "https://news.ycombinator.com/item?id=34660938"
     ],
@@ -221,12 +211,52 @@
   ],
   [
     [
+      "2023-02-04, 08:08:49",
+      "https://news.ycombinator.com/item?id=34652672"
+    ],
+    [
+      "A Linking Adventure",
+      "https://nsnotes.github.io/2023/03/03/A-linking-adventure/"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 16:36:09",
+      "https://news.ycombinator.com/item?id=34643466"
+    ],
+    [
+      "The Decree Design Pattern",
+      "https://calebhearth.com/decree"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 12:55:57",
       "https://news.ycombinator.com/item?id=34640433"
     ],
     [
       "Reversing UK mobile rail tickets",
       "https://eta.st/2023/01/31/rail-tickets.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 12:31:49",
+      "https://news.ycombinator.com/item?id=34640233"
+    ],
+    [
+      "Some Were Meant for C – Endurance of an Unmanageable Language [pdf]",
+      "https://www.humprog.org/~stephen//research/papers/kell17some-preprint.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 08:31:36",
+      "https://news.ycombinator.com/item?id=34638721"
+    ],
+    [
+      "Technical Debt Ratio",
+      "https://blog.georgovassilis.com/2023/01/22/technical-debt-ratio/"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "What killed Karl Patterson Schmidt? Venom gland analysis of the boomslang (2017)",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5335903/"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 09:26:01",
-      "https://news.ycombinator.com/item?id=34624188"
-    ],
-    [
-      "The Agon light is the fastest 8-bit microcomputer",
-      "https://www.thebyteattic.com/p/agon.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 09:14:46",
-      "https://news.ycombinator.com/item?id=34624112"
-    ],
-    [
-      "Humans Need Play",
-      "https://allenpike.com/2023/humans-need-play"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 02:11:20",
-      "https://news.ycombinator.com/item?id=34621158"
-    ],
-    [
-      "Tokens, Please: Comparing OpenID Connect with Video Game “Papers, Please”",
-      "https://www.toddtee.sh/posts/github-actions-oidc/"
     ]
   ]
 ]
