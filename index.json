@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34660204"
     ],
     [
-      "The Cheapest Flash Microcontroller You Can Buy Is Actually an Arm Cortex-M0",
+      "The cheapest flash microcontroller you can buy is actually an Arm Cortex-M0+",
       "https://jaycarlson.net/2023/02/04/the-cheapest-flash-microcontroller-you-can-buy-is-actually-an-arm-cortex-m0/"
     ]
   ],
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2023-02-04, 18:28:49",
+      "https://news.ycombinator.com/item?id=34656736"
+    ],
+    [
+      "Libostree",
+      "https://ostreedev.github.io/ostree/"
+    ]
+  ],
+  [
+    [
       "2023-02-04, 18:10:35",
       "https://news.ycombinator.com/item?id=34656591"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2023-02-04, 17:00:50",
-      "https://news.ycombinator.com/item?id=34655930"
-    ],
-    [
-      "Patterns (YC S21) is hiring to build the best AI app dev platform",
-      "https://www.ycombinator.com/companies/patterns"
-    ]
-  ],
-  [
-    [
       "2023-02-04, 16:51:03",
       "https://news.ycombinator.com/item?id=34655832"
     ],
@@ -197,6 +197,16 @@
     [
       "De-Bloated Windows 11 Build Runs on 2GB of RAM",
       "https://www.tomshardware.com/news/tiny11-lean-windows-11"
+    ]
+  ],
+  [
+    [
+      "2023-02-04, 11:48:25",
+      "https://news.ycombinator.com/item?id=34653729"
+    ],
+    [
+      "ESP32 Buyer’s Guide: Different Chips, Firmware, Sensors",
+      "https://eitherway.io/posts/esp32-buyers-guide/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Some Were Meant for C – Endurance of an Unmanageable Language [pdf]",
       "https://www.humprog.org/~stephen//research/papers/kell17some-preprint.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 08:31:36",
-      "https://news.ycombinator.com/item?id=34638721"
-    ],
-    [
-      "Technical Debt Ratio",
-      "https://blog.georgovassilis.com/2023/01/22/technical-debt-ratio/"
     ]
   ],
   [
