@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34664223"
     ],
     [
-      "Make WSA (Windows Subsystem for Android) Run on Windows 10",
+      "A patch to enable Windows Subsystem for Android to run on Windows 10",
       "https://github.com/cinit/WSAPatch"
     ]
   ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-02-04, 14:17:25",
+      "https://news.ycombinator.com/item?id=34654649"
+    ],
+    [
+      "De-Bloated Windows 11 Build Runs on 2GB of RAM",
+      "https://www.tomshardware.com/news/tiny11-lean-windows-11"
+    ]
+  ],
+  [
+    [
       "2023-02-04, 11:04:45",
       "https://news.ycombinator.com/item?id=34653522"
     ],
@@ -287,16 +297,6 @@
     [
       "Making a loudness monitor for online meetings",
       "https://rolisz.ro/2023/02/02/making-a-loudness-monitor/"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 19:03:24",
-      "https://news.ycombinator.com/item?id=34631496"
-    ],
-    [
-      "What killed Karl Patterson Schmidt? Venom gland analysis of the boomslang (2017)",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5335903/"
     ]
   ]
 ]
