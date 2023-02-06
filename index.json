@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2023-02-06, 14:11:49",
+      "https://news.ycombinator.com/item?id=34677480"
+    ],
+    [
+      "A startup is deploying armed bodyguards to NYC",
+      "https://www.radius.nyc/"
+    ]
+  ],
+  [
+    [
+      "2023-02-06, 14:01:26",
+      "https://news.ycombinator.com/item?id=34677361"
+    ],
+    [
+      "Fast and dynamic encoding of Protocol Buffers in Go",
+      "https://vincent.bernat.ch/en/blog/2023-dynamic-protobuf-golang"
+    ]
+  ],
+  [
+    [
       "2023-02-06, 13:48:40",
       "https://news.ycombinator.com/item?id=34677217"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-02-05, 11:17:37",
-      "https://news.ycombinator.com/item?id=34663926"
-    ],
-    [
-      "On Being a Good Newsletterer (2020)",
-      "https://craigmod.com/essays/on_writing_good_newsletters/"
-    ]
-  ],
-  [
-    [
       "2023-02-05, 10:40:51",
       "https://news.ycombinator.com/item?id=34663720"
     ],
@@ -287,16 +297,6 @@
     [
       "Music Programming for Java and JVM Languages",
       "http://www.jfugue.org/"
-    ]
-  ],
-  [
-    [
-      "2023-02-04, 22:44:52",
-      "https://news.ycombinator.com/item?id=34659236"
-    ],
-    [
-      "The WiC64 Brings Classic Commodores Online, Google Maps Included",
-      "https://hackaday.com/2023/02/04/the-wic64-brings-classic-commodores-online-google-maps-included/"
     ]
   ]
 ]
