@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34671478"
     ],
     [
-      "Masonry 0.1 (Rust GUI framework)",
+      "Announcing Masonry 0.1, and my vision for Rust UI",
       "https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "OneSignal (YC S11) Is Hiring Engineers",
       "https://onesignal.com/careers"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 20:52:04",
-      "https://news.ycombinator.com/item?id=34669219"
-    ],
-    [
-      "Duolingo’s AI Learns What You Need to Learn",
-      "https://spectrum.ieee.org/duolingo"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=34663994"
     ],
     [
-      "The Missing Piece Meets the Big O",
+      "Shel Silverstein and The Missing Piece Meets the Big O",
       "https://newsletter.butwhatfor.com/p/takeaway-tuesday-the-missing-piece"
     ]
   ],
@@ -275,8 +265,18 @@
       "https://news.ycombinator.com/item?id=34663965"
     ],
     [
-      "The Creative Sweet Spot of Dreaming",
+      "The creative sweet spot of dreaming",
       "https://nautil.us/narcoleptic-naps-are-a-creative-sweet-spot-259482/"
+    ]
+  ],
+  [
+    [
+      "2023-02-05, 01:34:18",
+      "https://news.ycombinator.com/item?id=34660646"
+    ],
+    [
+      "Conventional Commits: Spec for adding human and machine meaning to commit msgs",
+      "https://www.conventionalcommits.org/en/v1.0.0/"
     ]
   ],
   [
