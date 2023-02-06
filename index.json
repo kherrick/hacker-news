@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-06, 19:50:23",
+      "https://news.ycombinator.com/item?id=34683237"
+    ],
+    [
+      "Making SQLite extensions pip install-able",
+      "https://observablehq.com/@asg017/making-sqlite-extensions-pip-install-able"
+    ]
+  ],
+  [
+    [
       "2023-02-06, 19:01:45",
       "https://news.ycombinator.com/item?id=34682340"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2023-02-06, 15:47:21",
-      "https://news.ycombinator.com/item?id=34679087"
-    ],
-    [
-      "Amazon Q4 2022 Financials",
-      "https://www.tbray.org/ongoing/When/202x/2023/02/03/Amazon-Q4-2022"
-    ]
-  ],
-  [
-    [
       "2023-02-06, 15:44:57",
       "https://news.ycombinator.com/item?id=34679031"
     ],
@@ -197,6 +197,16 @@
     [
       "How much can you get out of a $4 VPS?",
       "https://alicegg.tech//2023/02/06/4dollar-vps.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-06, 11:53:18",
+      "https://news.ycombinator.com/item?id=34676129"
+    ],
+    [
+      "The Hunt for the Death Valley Germans",
+      "https://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How Micro Drill Bits Are Made [video]",
       "https://www.youtube.com/watch?v=G55kLhv2d_4"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 01:42:10",
-      "https://news.ycombinator.com/item?id=34660716"
-    ],
-    [
-      "Flare Programming Language",
-      "https://flarelang.sourceforge.net/index.html"
     ]
   ]
 ]
