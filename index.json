@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-06, 02:39:53",
+      "https://news.ycombinator.com/item?id=34672601"
+    ],
+    [
+      "Craft using an inertial mass reduction device (Patent by US Navy)",
+      "https://patents.google.com/patent/US10144532B2/en"
+    ]
+  ],
+  [
+    [
+      "2023-02-06, 02:39:31",
+      "https://news.ycombinator.com/item?id=34672598"
+    ],
+    [
+      "QCVM: Bite-sized QuakeC VM written in C",
+      "https://github.com/JaycieErysdren/QCVM"
+    ]
+  ],
+  [
+    [
       "2023-02-06, 02:02:12",
       "https://news.ycombinator.com/item?id=34672314"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-02-05, 18:37:00",
-      "https://news.ycombinator.com/item?id=34667465"
-    ],
-    [
-      "A Brief History of Parafilm",
-      "https://cell.substack.com/p/parafilm"
-    ]
-  ],
-  [
-    [
       "2023-02-05, 17:59:59",
       "https://news.ycombinator.com/item?id=34667067"
     ],
@@ -227,16 +237,6 @@
     [
       "All Circuits are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
       "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 12:06:33",
-      "https://news.ycombinator.com/item?id=34664223"
-    ],
-    [
-      "A patch to enable Windows Subsystem for Android to run on Windows 10",
-      "https://github.com/cinit/WSAPatch"
     ]
   ],
   [
