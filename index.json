@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34672601"
     ],
     [
-      "Craft using an inertial mass reduction device (Patent by US Navy)",
+      "Craft using an inertial mass reduction device",
       "https://patents.google.com/patent/US10144532B2/en"
     ]
   ],
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-02-05, 17:59:59",
-      "https://news.ycombinator.com/item?id=34667067"
-    ],
-    [
-      "Gattaca is still pertinent 25 years later",
-      "https://www.nature.com/articles/s41588-022-01242-5"
-    ]
-  ],
-  [
-    [
       "2023-02-05, 16:42:11",
       "https://news.ycombinator.com/item?id=34666305"
     ],
@@ -261,11 +251,21 @@
   ],
   [
     [
+      "2023-02-05, 06:04:27",
+      "https://news.ycombinator.com/item?id=34662394"
+    ],
+    [
+      "How to Advance in Your Career as an IC",
+      "https://www.platohq.com/resources/when-management-isnt-for-you-how-to-advance-in-your-career-as-an-ic-1490593444"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 01:34:18",
       "https://news.ycombinator.com/item?id=34660646"
     ],
     [
-      "Conventional Commits: Spec for adding human and machine meaning to commit msgs",
+      "A specification for adding human and machine readable meaning to commit messages",
       "https://www.conventionalcommits.org/en/v1.0.0/"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=34660580"
     ],
     [
-      "History of Computer Graphics and Animation",
+      "Computer Graphics and Computer Animation: A Retrospective Overview",
       "https://ohiostate.pressbooks.pub/graphicshistory/"
     ]
   ],
