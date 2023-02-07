@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-02-07, 16:08:54",
+      "https://news.ycombinator.com/item?id=34694546"
+    ],
+    [
+      "Ask HN: How do you find stuff on the internet now?",
+      "https://news.ycombinator.com/item?id=34694546"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 14:41:02",
       "https://news.ycombinator.com/item?id=34693339"
     ],
     [
       "Mandatory DEI statements are becoming the norm in academic hiring",
       "https://www.economist.com/united-states/2023/02/04/american-universities-are-hiring-based-on-devotion-to-diversity"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 14:34:05",
+      "https://news.ycombinator.com/item?id=34693233"
+    ],
+    [
+      "Show HN: We built an open-source OAuth service for 40 APIs",
+      "https://www.nango.dev"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34692749"
     ],
     [
-      "Show HN: Database of VC investment memos",
+      "Database of VC investment announcements",
       "https://www.vcinsights.co/"
     ]
   ],
@@ -47,6 +67,16 @@
     [
       "Regular Expression Matching with a Trigram Index (2012)",
       "https://swtch.com/~rsc/regexp/regexp4.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 13:11:25",
+      "https://news.ycombinator.com/item?id=34692258"
+    ],
+    [
+      "The Black Ships Shock: A Historic Encounter That Changed Japan",
+      "https://www.nippon.com/en/japan-topics/g02197/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2023-02-07, 11:59:39",
-      "https://news.ycombinator.com/item?id=34691600"
-    ],
-    [
-      "FOSDEM 2023: Glad to Be Back",
-      "https://diego.codes/post/fosdem-2023/"
-    ]
-  ],
-  [
-    [
       "2023-02-07, 11:45:28",
       "https://news.ycombinator.com/item?id=34691489"
     ],
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=34691291"
     ],
     [
-      "Honest guide to Vanlife in Japan after a year",
+      "Van Life in Japan",
       "https://kumazen.com/a-guide-for-van-life-in-japan/"
     ]
   ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-02-06, 23:38:37",
-      "https://news.ycombinator.com/item?id=34686216"
-    ],
-    [
-      "Show HN: iWF – A new “workflow as code” execution engine",
-      "https://github.com/indeedeng/iwf"
-    ]
-  ],
-  [
-    [
       "2023-02-06, 21:36:49",
       "https://news.ycombinator.com/item?id=34684761"
     ],
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=34675928"
     ],
     [
-      "Building a legged robot in 80 days: Lessons learned, tears shed, blood spilled",
+      "Building a legged robot in 80 days",
       "https://107-systems.org/l3xz-hexapod-robot-elrob2022/"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 07:24:09",
-      "https://news.ycombinator.com/item?id=34674375"
-    ],
-    [
-      "History of Video Games (1940's – 2010's) – list of firsts",
-      "https://ultimatehistoryvideogames.jimdofree.com/"
     ]
   ]
 ]
