@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-07, 14:41:02",
+      "https://news.ycombinator.com/item?id=34693339"
+    ],
+    [
+      "Mandatory DEI statements are becoming the norm in academic hiring",
+      "https://www.economist.com/united-states/2023/02/04/american-universities-are-hiring-based-on-devotion-to-diversity"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 14:29:08",
       "https://news.ycombinator.com/item?id=34693175"
     ],
@@ -31,32 +41,12 @@
   ],
   [
     [
-      "2023-02-07, 13:38:15",
-      "https://news.ycombinator.com/item?id=34692537"
-    ],
-    [
-      "The Quest to Find Rectangles in a Square",
-      "https://www.nytimes.com/2023/02/07/science/puzzles-rectangles-mathematics.html"
-    ]
-  ],
-  [
-    [
       "2023-02-07, 13:23:10",
       "https://news.ycombinator.com/item?id=34692373"
     ],
     [
       "Regular Expression Matching with a Trigram Index (2012)",
       "https://swtch.com/~rsc/regexp/regexp4.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 13:05:22",
-      "https://news.ycombinator.com/item?id=34692190"
-    ],
-    [
-      "After Callous Layoffs, Workers Are Done with the Full-Time Work",
-      "https://www.a.team//mission/the-great-betrayal"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Visual design rules you can safely follow",
       "https://anthonyhobday.com/sideprojects/saferules/"
+    ]
+  ],
+  [
+    [
+      "2023-02-06, 20:35:37",
+      "https://news.ycombinator.com/item?id=34683941"
+    ],
+    [
+      "Transmitting SDI Signals from an Arduino",
+      "https://github.com/tempus-ex/arduino-sdi"
     ]
   ],
   [
