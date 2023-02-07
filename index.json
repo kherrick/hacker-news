@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-02-07, 12:24:29",
+      "https://news.ycombinator.com/item?id=34691804"
+    ],
+    [
+      "Grep.app – Search across a half million Git repos",
+      "https://grep.app/"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 11:59:39",
       "https://news.ycombinator.com/item?id=34691600"
     ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2023-02-07, 04:42:34",
+      "https://news.ycombinator.com/item?id=34688856"
+    ],
+    [
+      "HP bricking printers remotely if the client's credit card expires [video]",
+      "https://www.youtube.com/watch?v=KGszSj0BLeg"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 03:23:17",
       "https://news.ycombinator.com/item?id=34688329"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-02-06, 22:01:54",
-      "https://news.ycombinator.com/item?id=34685086"
-    ],
-    [
-      "Show HN: Flappy Bird and Wordle",
-      "https://flappybirdle.com/"
-    ]
-  ],
-  [
-    [
       "2023-02-06, 21:36:49",
       "https://news.ycombinator.com/item?id=34684761"
     ],
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2023-02-06, 21:24:09",
-      "https://news.ycombinator.com/item?id=34684593"
+      "2023-02-06, 17:32:44",
+      "https://news.ycombinator.com/item?id=34680903"
     ],
     [
-      "Storing OpenAI embeddings in Postgres with pgvector",
-      "https://supabase.com/blog/openai-embeddings-postgres-vector"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 21:19:26",
-      "https://news.ycombinator.com/item?id=34684523"
-    ],
-    [
-      "Hardware trojans under a microscope (2022)",
-      "https://ryancor.medium.com/hardware-trojans-under-a-microscope-bf542acbcc29"
+      "The technology behind GitHub’s new code search",
+      "https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-02-06, 06:06:49",
-      "https://news.ycombinator.com/item?id=34673950"
-    ],
-    [
-      "Better than Free (2008)",
-      "https://kk.org/thetechnium/better-than-fre/"
-    ]
-  ],
-  [
-    [
       "2023-02-06, 04:44:31",
       "https://news.ycombinator.com/item?id=34673442"
     ],
     [
       "Mikalojus Konstantinas Čiurlionis: a genius cursed by fate?",
       "https://blogs.bl.uk/european/2023/02/mikalojus-konstantinas-%C4%8Diurlionis-a-genius-cursed-by-fate.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-05, 15:07:38",
+      "https://news.ycombinator.com/item?id=34665455"
+    ],
+    [
+      "Documentary on a family pizza business (1982)",
+      "https://grubbits.com/getting-your-fair-shake-in-the-family-business/"
     ]
   ]
 ]
