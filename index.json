@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-02-07, 22:18:36",
+      "https://news.ycombinator.com/item?id=34700612"
+    ],
+    [
+      "Ask HN: Primary Google calendar connected to strange account even after deleting",
+      "https://news.ycombinator.com/item?id=34700612"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 21:57:23",
       "https://news.ycombinator.com/item?id=34700390"
     ],
     [
       "Blender moves from Phabricator to Gitea",
       "https://code.blender.org/2023/02/new-blender-development-infrastructure/"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 21:54:27",
+      "https://news.ycombinator.com/item?id=34700346"
+    ],
+    [
+      "OpenJDK mailing list: Null-safety and value types",
+      "https://mail.openjdk.org/pipermail/valhalla-spec-experts/2023-February/002223.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 21:42:13",
+      "https://news.ycombinator.com/item?id=34700198"
+    ],
+    [
+      "US DOT awards $800M toward street safety",
+      "https://www.smartcitiesdive.com/news/us-dot-800m-safe-streets-and-roads-for-all-ss4a/641704/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2023-02-07, 18:16:12",
-      "https://news.ycombinator.com/item?id=34696635"
-    ],
-    [
-      "Why do we create modern desktop GUI apps using HTML/CSS/JavaScript? (2022)",
-      "https://gerrysweeney.com/why-do-write-desktop-gui-desktop-apps-in-html-css-javascript-making-them-just-glorified-web-pages/"
-    ]
-  ],
-  [
-    [
       "2023-02-07, 17:46:09",
       "https://news.ycombinator.com/item?id=34696083"
     ],
@@ -117,16 +137,6 @@
     [
       "Zoom lays of 15% of employees",
       "https://blog.zoom.us/a-message-from-eric-yuan-ceo-of-zoom/"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 17:14:58",
-      "https://news.ycombinator.com/item?id=34695571"
-    ],
-    [
-      "Show HN: We built an open-source social-media simulator for research",
-      "https://misinfogame.com/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The Design of Postgres [pdf]",
       "https://dsf.berkeley.edu/papers/ERL-M85-95.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 20:35:37",
-      "https://news.ycombinator.com/item?id=34683941"
-    ],
-    [
-      "Transmitting SDI Signals from an Arduino",
-      "https://github.com/tempus-ex/arduino-sdi"
     ]
   ],
   [
