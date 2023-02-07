@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-07, 19:27:41",
+      "https://news.ycombinator.com/item?id=34697955"
+    ],
+    [
+      "An Introduction to Class Warfare for the Software Engineer",
+      "https://medium.com/@lloyd-f-hough/an-introduction-to-class-warfare-for-the-software-engineer-1810833055d7"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 19:13:51",
       "https://news.ycombinator.com/item?id=34697652"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34696849"
     ],
     [
-      "The New Bing with ChatGPT",
+      "Microsoft announces new Bing and Edge browser powered by upgraded ChatGPT AI",
       "https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai"
     ]
   ],
@@ -47,26 +57,6 @@
     [
       "Microsoft Adds ChatGPT AI Technology to Bing Search Engine",
       "https://www.wsj.com/articles/microsoft-adds-chatgpt-ai-technology-to-bing-search-engine-11675793525"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 18:16:12",
-      "https://news.ycombinator.com/item?id=34696635"
-    ],
-    [
-      "Why do we create modern desktop GUI apps using HTML/CSS/JavaScript? (2022)",
-      "https://gerrysweeney.com/why-do-write-desktop-gui-desktop-apps-in-html-css-javascript-making-them-just-glorified-web-pages/"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 18:01:34",
-      "https://news.ycombinator.com/item?id=34696361"
-    ],
-    [
-      "Cloudflare is destroying the open internet",
-      "https://goauthentik.io/blog/2023-02-07-cloudflare-is-destroying-the-open-internet"
     ]
   ],
   [
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=34694926"
     ],
     [
-      "Big Data Is Dead",
+      "Big data is dead",
       "https://motherduck.com/blog/big-data-is-dead/"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34694056"
     ],
     [
-      "A pocket sized open-source AR device for the imaginative hacker",
+      "Monocle: A pocket sized open-source AR device",
       "https://www.brilliantmonocle.com/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Building a legged robot in 80 days",
       "https://107-systems.org/l3xz-hexapod-robot-elrob2022/"
+    ]
+  ],
+  [
+    [
+      "2023-02-04, 11:56:05",
+      "https://news.ycombinator.com/item?id=34653778"
+    ],
+    [
+      "Lisa Source Code: Understanding Clascal",
+      "http://eschatologist.net/blog/?p=314"
     ]
   ]
 ]
