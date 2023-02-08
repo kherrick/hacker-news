@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2023-02-08, 19:31:27",
+      "https://news.ycombinator.com/item?id=34713553"
+    ],
+    [
+      "Reddit mods and scaling problems in social control",
+      "https://maximumeffort.substack.com/p/scaling-problems-in-social-control"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 19:13:06",
       "https://news.ycombinator.com/item?id=34713202"
     ],
     [
       "Show HN: Filmbox, physically accurate film emulation, now on Linux and Windows",
       "https://videovillage.co/filmbox/"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 19:09:56",
-      "https://news.ycombinator.com/item?id=34713133"
-    ],
-    [
-      "FDroid debating Aves Libre app TOS as reason for removal",
-      "https://gitlab.com/fdroid/fdroiddata/-/issues/2893"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "The Chemistry of ‘Yes Minister’ (2017)",
       "https://sphericalbullshit.wordpress.com/2017/05/13/the-chemistry-of-yes-minister/"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 15:10:15",
-      "https://news.ycombinator.com/item?id=34709078"
-    ],
-    [
-      "Telemetry in the Go Toolchain",
-      "https://github.com/golang/go/discussions/58409"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2023-02-08, 06:14:57",
-      "https://news.ycombinator.com/item?id=34704764"
+      "2023-02-08, 02:52:22",
+      "https://news.ycombinator.com/item?id=34703478"
     ],
     [
-      "Transmission 4.0",
-      "https://transmissionbt.com"
+      "Transmission v4.0",
+      "https://github.com/transmission/transmission/releases/tag/4.0.0"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 19:16:20",
+      "https://news.ycombinator.com/item?id=34697703"
+    ],
+    [
+      "Hot Keys, Scalability, and the Zipf Distribution",
+      "https://brooker.co.za/blog/2023/02/07/hot-keys.html"
     ]
   ]
 ]
