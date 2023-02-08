@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-08, 00:03:02",
+      "https://news.ycombinator.com/item?id=34701878"
+    ],
+    [
+      "Vaultwarden (bitwarden fork) render.com deployment",
+      "https://github.com/davidjameshowell/vaultwarden-render-deployment"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 23:45:34",
+      "https://news.ycombinator.com/item?id=34701692"
+    ],
+    [
+      "Prehistoric Images and Medicines Under the Sea in Cosquer Cave",
+      "https://www.bradshawfoundation.com/cosquer/"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 23:44:29",
+      "https://news.ycombinator.com/item?id=34701676"
+    ],
+    [
+      "My employer is reneging on its remote-work promise",
+      "https://www.washingtonpost.com/business/2023/02/02/work-advice-my-employer-is-reneging-its-remote-work-promise/"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 22:40:14",
       "https://news.ycombinator.com/item?id=34700883"
     ],
@@ -27,16 +57,6 @@
     [
       "Nullness markers to enable flattening",
       "https://mail.openjdk.org/pipermail/valhalla-spec-experts/2023-February/002223.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 21:42:13",
-      "https://news.ycombinator.com/item?id=34700198"
-    ],
-    [
-      "US DOT awards $800M toward street safety",
-      "https://www.smartcitiesdive.com/news/us-dot-800m-safe-streets-and-roads-for-all-ss4a/641704/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-02-07, 16:45:51",
-      "https://news.ycombinator.com/item?id=34695098"
-    ],
-    [
-      "OpenSSL Security Advisory [7th February 2023]",
-      "https://www.openssl.org/news/secadv/20230207.txt"
-    ]
-  ],
-  [
-    [
       "2023-02-07, 16:34:46",
       "https://news.ycombinator.com/item?id=34694926"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-02-07, 13:23:10",
-      "https://news.ycombinator.com/item?id=34692373"
-    ],
-    [
-      "Regular Expression Matching with a Trigram Index (2012)",
-      "https://swtch.com/~rsc/regexp/regexp4.html"
-    ]
-  ],
-  [
-    [
       "2023-02-07, 13:11:25",
       "https://news.ycombinator.com/item?id=34692258"
     ],
@@ -197,6 +197,16 @@
     [
       "Van Life in Japan",
       "https://kumazen.com/a-guide-for-van-life-in-japan/"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 11:12:47",
+      "https://news.ycombinator.com/item?id=34691281"
+    ],
+    [
+      "Steps towards prompt-based creation of virtual worlds",
+      "https://arxiv.org/abs/2211.05875"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2023-02-07, 06:43:16",
-      "https://news.ycombinator.com/item?id=34689546"
+      "2023-02-07, 06:28:07",
+      "https://news.ycombinator.com/item?id=34689467"
     ],
     [
-      "A Mysterious Cézanne Portrait Was Hiding Under the Layers of a Still Life",
-      "https://www.atlasobscura.com/articles/cezanne-hidden-portrait"
+      "It was the biggest painting in the world – how could it just disappear?",
+      "https://forward.com/culture/534139/symeon-shimin-movie-largest-painting-gina-lollobrigida-yul-brynner/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The Busy Beaver Challenge",
       "https://bbchallenge.org/"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 21:36:49",
-      "https://news.ycombinator.com/item?id=34684761"
-    ],
-    [
-      "Visual design rules you can safely follow",
-      "https://anthonyhobday.com/sideprojects/saferules/"
     ]
   ],
   [
