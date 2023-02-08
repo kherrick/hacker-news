@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-08, 13:31:56",
+      "https://news.ycombinator.com/item?id=34707727"
+    ],
+    [
+      "Meilisearch v1.0 – the open-source Rust alternative to Algolia and Elasticsearch",
+      "https://blog.meilisearch.com/v1-enterprise-ready-stable/"
+    ]
+  ],
+  [
+    [
+      "2023-02-08, 13:19:39",
+      "https://news.ycombinator.com/item?id=34707583"
+    ],
+    [
+      "Transparent Telemetry for Open-Source Projects",
+      "https://research.swtch.com/telemetry-intro"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 13:04:48",
       "https://news.ycombinator.com/item?id=34707435"
     ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=34706360"
     ],
     [
-      "Estonian Foreign Intelligence Service's 2023 Security Report",
+      "International Security and Estonia 2023",
       "https://raport.valisluureamet.ee/2023/en/"
     ]
   ],
@@ -197,26 +217,6 @@
     [
       "Open RuneScape Classic",
       "https://rsc.vet/"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 23:58:55",
-      "https://news.ycombinator.com/item?id=34701833"
-    ],
-    [
-      "An In-Depth Look at WebGPU",
-      "https://unzip.dev/0x00f-webgpu/"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 23:45:34",
-      "https://news.ycombinator.com/item?id=34701692"
-    ],
-    [
-      "Prehistoric Images and Medicines Under the Sea in Cosquer Cave",
-      "https://www.bradshawfoundation.com/cosquer/"
     ]
   ],
   [
