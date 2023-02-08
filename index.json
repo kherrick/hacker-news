@@ -1,12 +1,62 @@
 [
   [
     [
-      "2023-02-08, 00:03:02",
-      "https://news.ycombinator.com/item?id=34701878"
+      "2023-02-08, 01:46:40",
+      "https://news.ycombinator.com/item?id=34703004"
     ],
     [
-      "Vaultwarden (bitwarden fork) render.com deployment",
-      "https://github.com/davidjameshowell/vaultwarden-render-deployment"
+      "CBMC: The C Bounded Model Checker",
+      "https://arxiv.org/abs/2302.02384"
+    ]
+  ],
+  [
+    [
+      "2023-02-08, 01:44:54",
+      "https://news.ycombinator.com/item?id=34702988"
+    ],
+    [
+      "Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst",
+      "https://arxiv.org/abs/2302.03642"
+    ]
+  ],
+  [
+    [
+      "2023-02-08, 01:30:53",
+      "https://news.ycombinator.com/item?id=34702866"
+    ],
+    [
+      "Intelligence is everywhere: From AI to cephalopods",
+      "https://newhumanist.org.uk/articles/6068/intelligence-is-everywhere"
+    ]
+  ],
+  [
+    [
+      "2023-02-08, 00:42:52",
+      "https://news.ycombinator.com/item?id=34702294"
+    ],
+    [
+      "Play Runescape Classic Again",
+      "https://rsc.vet/"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 23:58:55",
+      "https://news.ycombinator.com/item?id=34701833"
+    ],
+    [
+      "An In-Depth Look at WebGPU",
+      "https://unzip.dev/0x00f-webgpu/"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 23:57:05",
+      "https://news.ycombinator.com/item?id=34701813"
+    ],
+    [
+      "The New Madrid Seismic Zone",
+      "https://www.usgs.gov/programs/earthquake-hazards/new-madrid-seismic-zone"
     ]
   ],
   [
@@ -21,32 +71,12 @@
   ],
   [
     [
-      "2023-02-07, 23:44:29",
-      "https://news.ycombinator.com/item?id=34701676"
-    ],
-    [
-      "My employer is reneging on its remote-work promise",
-      "https://www.washingtonpost.com/business/2023/02/02/work-advice-my-employer-is-reneging-its-remote-work-promise/"
-    ]
-  ],
-  [
-    [
       "2023-02-07, 22:40:14",
       "https://news.ycombinator.com/item?id=34700883"
     ],
     [
       "Nintendo Will Pay Its Workers 10% More",
       "https://www.gamespot.com/articles/nintendo-will-pay-its-workers-10-more/1100-6511268/"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 21:57:23",
-      "https://news.ycombinator.com/item?id=34700390"
-    ],
-    [
-      "Blender moves from Phabricator to Gitea",
-      "https://code.blender.org/2023/02/new-blender-development-infrastructure/"
     ]
   ],
   [
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2023-02-07, 12:32:44",
-      "https://news.ycombinator.com/item?id=34691885"
-    ],
-    [
-      "How cheap digital verniers work (2017)",
-      "https://www.mjt.me.uk/posts/digital-vernier-teardown/"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 11:15:34",
-      "https://news.ycombinator.com/item?id=34691291"
-    ],
-    [
-      "Van Life in Japan",
-      "https://kumazen.com/a-guide-for-van-life-in-japan/"
-    ]
-  ],
-  [
-    [
       "2023-02-07, 11:12:47",
       "https://news.ycombinator.com/item?id=34691281"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2023-02-07, 10:16:19",
-      "https://news.ycombinator.com/item?id=34690900"
-    ],
-    [
-      "Stripe increases price for business in the European Economic Area",
-      "https://support.stripe.com/questions/pricing-updates-for-businesses-based-in-the-european-economic-area-(eea)"
-    ]
-  ],
-  [
-    [
       "2023-02-07, 10:00:33",
       "https://news.ycombinator.com/item?id=34690788"
     ],
@@ -247,6 +247,16 @@
     [
       "It was the biggest painting in the world – how could it just disappear?",
       "https://forward.com/culture/534139/symeon-shimin-movie-largest-painting-gina-lollobrigida-yul-brynner/"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 06:11:51",
+      "https://news.ycombinator.com/item?id=34689363"
+    ],
+    [
+      "Reality Check",
+      "https://www.vulture.com/article/tv-documentaries-ethical-standards.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: SQRL – Anti-spam rules language Twitter acquired in 2018, open-sourced",
       "https://websqrl.vercel.app/twitter"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 11:17:10",
-      "https://news.ycombinator.com/item?id=34675928"
-    ],
-    [
-      "Building a legged robot in 80 days",
-      "https://107-systems.org/l3xz-hexapod-robot-elrob2022/"
     ]
   ]
 ]
