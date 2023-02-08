@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-08, 19:09:56",
+      "https://news.ycombinator.com/item?id=34713133"
+    ],
+    [
+      "FDroid debating Aves Libre app TOS as reason for removal",
+      "https://gitlab.com/fdroid/fdroiddata/-/issues/2893"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 18:39:54",
       "https://news.ycombinator.com/item?id=34712640"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2023-02-08, 18:04:58",
-      "https://news.ycombinator.com/item?id=34712078"
-    ],
-    [
-      "Why Wyndly raised $2M and things we wished we'd known",
-      "https://www.wyndly.com/blogs/learn/why-wyndly-raised-2m"
-    ]
-  ],
-  [
-    [
       "2023-02-08, 17:46:38",
       "https://news.ycombinator.com/item?id=34711758"
     ],
@@ -47,16 +47,6 @@
     [
       "OpenSSH Pre-Auth Double Free – CVE-2023-25136 – Writeup and Proof-of-Concept",
       "https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 17:22:39",
-      "https://news.ycombinator.com/item?id=34711367"
-    ],
-    [
-      "Acrobat PDF rendering engine added to Microsoft Edge",
-      "https://blog.adobe.com/en/publish/2023/02/08/adobe-microsoft-bring-industry-leading-acrobat-pdf-experience-window-users-microsoft-edge"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Ask HN: I just want to have fun programming again",
       "https://news.ycombinator.com/item?id=34706991"
+    ]
+  ],
+  [
+    [
+      "2023-02-08, 11:05:29",
+      "https://news.ycombinator.com/item?id=34706577"
+    ],
+    [
+      "Polynomial Interpolation",
+      "https://cohost.org/tomforsyth/post/982199-polynomial-interpola"
     ]
   ],
   [
