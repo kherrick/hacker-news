@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-08, 05:29:30",
+      "https://news.ycombinator.com/item?id=34704488"
+    ],
+    [
+      "FlexiRaft: Flexible Quorums with Raft [pdf]",
+      "https://www.cidrdb.org/cidr2023/papers/p83-yadav.pdf"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 03:12:03",
       "https://news.ycombinator.com/item?id=34703626"
     ],
@@ -37,16 +47,6 @@
     [
       "Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst",
       "https://arxiv.org/abs/2302.03642"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 01:35:12",
-      "https://news.ycombinator.com/item?id=34702915"
-    ],
-    [
-      "ChatGPT3 Prompt Engineering",
-      "https://github.com/mattnigh/ChatGPT3-Free-Prompt-List"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-02-07, 19:05:42",
-      "https://news.ycombinator.com/item?id=34697491"
-    ],
-    [
-      "Google's Bard shows incorrect information in its launch ad",
-      "https://twitter.com/IsabelNAngelo/status/1623013720011194368"
-    ]
-  ],
-  [
-    [
       "2023-02-07, 18:27:42",
       "https://news.ycombinator.com/item?id=34696849"
     ],
@@ -197,6 +187,16 @@
     [
       "The Quest to Find Rectangles in a Square",
       "https://www.nytimes.com/2023/02/07/science/puzzles-rectangles-mathematics.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 13:04:09",
+      "https://news.ycombinator.com/item?id=34692177"
+    ],
+    [
+      "Show HN: We built an open-source LaunchDarkly alternative for B2Bs",
+      "https://www.enrolla.io"
     ]
   ],
   [
