@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34715890"
     ],
     [
-      "Twitter starts limiting how many Tweets you can post per Day",
+      "Twitter starts limiting how many tweets you can post per day",
       "https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34715517"
     ],
     [
-      "Top Byte Ignore for Fun and Memory Savings",
+      "Top byte ignore for fun and memory savings",
       "https://www.linaro.org/blog/top-byte-ignore-for-fun-and-memory-savings/"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=34712729"
     ],
     [
-      "NIST Selects ‘Lightweight Cryptography’ Algorithms to Protect Small Devices",
+      "NIST selects ‘lightweight cryptography’ algorithms to protect small devices",
       "https://www.nist.gov/news-events/news/2023/02/nist-selects-lightweight-cryptography-algorithms-protect-small-devices"
     ]
   ],
@@ -141,11 +141,21 @@
   ],
   [
     [
+      "2023-02-08, 15:49:26",
+      "https://news.ycombinator.com/item?id=34709699"
+    ],
+    [
+      "Keybase.pub Shutting Down on March 1 2023",
+      "https://keybase.pub/"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 15:36:41",
       "https://news.ycombinator.com/item?id=34709487"
     ],
     [
-      "Zrok: Open-Source Peer to Peer",
+      "Zrok: Open-source peer to peer",
       "https://zrok.io/"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "The Chemistry of ‘Yes Minister’ (2017)",
       "https://sphericalbullshit.wordpress.com/2017/05/13/the-chemistry-of-yes-minister/"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 14:50:26",
-      "https://news.ycombinator.com/item?id=34708756"
-    ],
-    [
-      "Why does 0.1 and 0.2 = 0.30000000000000004?",
-      "https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/"
     ]
   ],
   [
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=34707583"
     ],
     [
-      "Transparent Telemetry for Open-Source Projects",
+      "Transparent telemetry for open-source projects",
       "https://research.swtch.com/telemetry-intro"
     ]
   ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=34706577"
     ],
     [
-      "Polynomial Interpolation",
+      "Polynomial interpolation",
       "https://cohost.org/tomforsyth/post/982199-polynomial-interpola"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=34697703"
     ],
     [
-      "Hot Keys, Scalability, and the Zipf Distribution",
+      "Hot keys, scalability, and the Zipf distribution",
       "https://brooker.co.za/blog/2023/02/07/hot-keys.html"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=34690969"
     ],
     [
-      "Update to the .NET Language Strategy",
+      "Update to the .NET language strategy",
       "https://devblogs.microsoft.com/dotnet/update-to-the-dotnet-language-strategy/"
     ]
   ]
