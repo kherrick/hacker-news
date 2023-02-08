@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-08, 05:59:07",
+      "https://news.ycombinator.com/item?id=34704669"
+    ],
+    [
+      "The Artist Who Collaborates with Ants",
+      "https://www.newyorker.com/culture/persons-of-interest/the-artist-who-collaborates-with-ants"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 05:29:30",
       "https://news.ycombinator.com/item?id=34704488"
     ],
@@ -47,16 +57,6 @@
     [
       "Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst",
       "https://arxiv.org/abs/2302.03642"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 01:35:12",
-      "https://news.ycombinator.com/item?id=34702915"
-    ],
-    [
-      "ChatGPT3 Prompt Engineering",
-      "https://github.com/mattnigh/ChatGPT3-Free-Prompt-List"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-02-07, 21:54:27",
+      "https://news.ycombinator.com/item?id=34700346"
+    ],
+    [
+      "Nullness markers to enable flattening",
+      "https://mail.openjdk.org/pipermail/valhalla-spec-experts/2023-February/002223.html"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 21:01:31",
       "https://news.ycombinator.com/item?id=34699570"
     ],
@@ -181,12 +191,12 @@
   ],
   [
     [
-      "2023-02-07, 13:38:15",
-      "https://news.ycombinator.com/item?id=34692537"
+      "2023-02-07, 13:57:37",
+      "https://news.ycombinator.com/item?id=34692765"
     ],
     [
-      "The Quest to Find Rectangles in a Square",
-      "https://www.nytimes.com/2023/02/07/science/puzzles-rectangles-mathematics.html"
+      "The history of “typeof null” (2013)",
+      "https://2ality.com/2013/10/typeof-null.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: SQRL – Anti-spam rules language Twitter acquired in 2018, open-sourced",
       "https://websqrl.vercel.app/twitter"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 20:49:05",
-      "https://news.ycombinator.com/item?id=34669183"
-    ],
-    [
-      "From AI to cephalopods, a new strain of \"nature writing\"",
-      "https://newhumanist.org.uk/articles/6068/intelligence-is-everywhere"
     ]
   ]
 ]
