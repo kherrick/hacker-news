@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-08, 22:56:29",
+      "https://news.ycombinator.com/item?id=34716797"
+    ],
+    [
+      "Apache Kafka Beyond the Basics: Windowing",
+      "https://www.confluent.io/blog/windowing-in-kafka-streams/"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 22:52:20",
       "https://news.ycombinator.com/item?id=34716743"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-02-08, 15:49:26",
-      "https://news.ycombinator.com/item?id=34709699"
-    ],
-    [
-      "Keybase.pub Shutting Down on March 1 2023",
-      "https://keybase.pub/"
-    ]
-  ],
-  [
-    [
       "2023-02-08, 15:36:41",
       "https://news.ycombinator.com/item?id=34709487"
     ],
@@ -177,16 +177,6 @@
     [
       "Twitter restricted in Turkey in aftermath of earthquake",
       "https://netblocks.org/reports/twitter-restricted-in-turkey-in-aftermath-of-earthquake-oy9LJ9B3"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 13:39:17",
-      "https://news.ycombinator.com/item?id=34707816"
-    ],
-    [
-      "Why Steam Deck Is One of the Most Significant PC Gaming Moments in Years",
-      "https://www.techspot.com/article/2620-steam-deck-pc-gaming-moment/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Show HN: Kuboble.com – Minimalistic sliding pieces puzzle game",
       "https://kuboble.com"
+    ]
+  ],
+  [
+    [
+      "2023-02-08, 07:34:12",
+      "https://news.ycombinator.com/item?id=34705246"
+    ],
+    [
+      "Trustfall: How to Query (Almost) Everything",
+      "https://github.com/obi1kenobi/trustfall"
     ]
   ],
   [
