@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-02-08, 17:34:31",
+      "https://news.ycombinator.com/item?id=34711565"
+    ],
+    [
+      "OpenSSH Pre-Auth Double Free – CVE-2023-25136 – Writeup and Proof-of-Concept",
+      "https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 17:22:39",
       "https://news.ycombinator.com/item?id=34711367"
     ],
     [
-      "Adobe and Microsoft bring Acrobat PDF experience tro Microsoft Edge users",
+      "Acrobat PDF rendering engine added to Microsoft Edge",
       "https://blog.adobe.com/en/publish/2023/02/08/adobe-microsoft-bring-industry-leading-acrobat-pdf-experience-window-users-microsoft-edge"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Fungi and bacteria are binging on burned soil",
       "https://news.ucr.edu/articles/2023/02/07/fungi-and-bacteria-are-binging-burned-soil"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 16:27:32",
-      "https://news.ycombinator.com/item?id=34710403"
-    ],
-    [
-      "Ask HN: Do you celebrate failures at work?",
-      "https://news.ycombinator.com/item?id=34710403"
     ]
   ],
   [
@@ -121,26 +121,6 @@
   ],
   [
     [
-      "2023-02-08, 14:45:53",
-      "https://news.ycombinator.com/item?id=34708685"
-    ],
-    [
-      "George Orwell's 6 rules for writing (2018; originally published in 1946)",
-      "https://infusion.media/blog/george-orwells-six-rules-for-writing/"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 14:33:35",
-      "https://news.ycombinator.com/item?id=34708518"
-    ],
-    [
-      "Google will blur explicit image results for all users, requires login to disable",
-      "https://arstechnica.com/gadgets/2023/02/google-will-soon-default-to-blurring-explicit-image-search-results/"
-    ]
-  ],
-  [
-    [
       "2023-02-08, 14:14:46",
       "https://news.ycombinator.com/item?id=34708255"
     ],
@@ -165,7 +145,7 @@
       "https://news.ycombinator.com/item?id=34707974"
     ],
     [
-      "Turkey blocks Twitter after the earthquake",
+      "Twitter restricted in Turkey in aftermath of earthquake",
       "https://netblocks.org/reports/twitter-restricted-in-turkey-in-aftermath-of-earthquake-oy9LJ9B3"
     ]
   ],
@@ -185,7 +165,7 @@
       "https://news.ycombinator.com/item?id=34707734"
     ],
     [
-      "The Teen Mental Illness Epidemic Began Around 2012",
+      "The teen mental illness epidemic began around 2012",
       "https://jonathanhaidt.substack.com/p/the-teen-mental-illness-epidemic"
     ]
   ],
@@ -227,6 +207,16 @@
     [
       "Toxic Exposure: The True Story Behind the Monsanto Trials",
       "https://www.press.jhu.edu/books/title/12717/toxic-exposure"
+    ]
+  ],
+  [
+    [
+      "2023-02-08, 12:12:16",
+      "https://news.ycombinator.com/item?id=34707024"
+    ],
+    [
+      "Etsy is awash with illicit products and mass produced goods (2021)",
+      "https://www.businessinsider.com/etsy-sells-ivory-weapons-poisonous-plants-mass-produced-products-2021-4"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Fundamental Math for Game Developers",
       "https://pikuma.com/blog/math-for-game-developers"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 09:42:00",
+      "https://news.ycombinator.com/item?id=34690656"
+    ],
+    [
+      "What is a CDN? How do CDNs work?",
+      "https://animeshgaitonde.medium.com/content-delivery-network-cnd-explained-in-simple-words-674e971b06c3"
     ]
   ]
 ]
