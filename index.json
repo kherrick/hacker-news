@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-08, 13:04:48",
+      "https://news.ycombinator.com/item?id=34707435"
+    ],
+    [
+      "Linux 6.1 Officially Promoted to Being an LTS Kernel",
+      "https://www.phoronix.com/news/Linux-6.1-LTS-Official"
+    ]
+  ],
+  [
+    [
+      "2023-02-08, 12:44:48",
+      "https://news.ycombinator.com/item?id=34707273"
+    ],
+    [
+      "Tell HN: You can get ghostbanned for mentioning certain “unpersons.”",
+      "https://news.ycombinator.com/item?id=34707273"
+    ]
+  ],
+  [
+    [
+      "2023-02-08, 12:10:12",
+      "https://news.ycombinator.com/item?id=34707007"
+    ],
+    [
+      "ChatGPT is a data privacy nightmare",
+      "https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 11:45:22",
       "https://news.ycombinator.com/item?id=34706857"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-02-08, 04:11:35",
-      "https://news.ycombinator.com/item?id=34704029"
-    ],
-    [
-      "Posix Compatibility Comparison: GCP Filestore, Amazon EFS, and Azure Files",
-      "https://juicefs.com/en/blog/engineering/posix-compatibility-comparison-among-four-file-system-on-the-cloud"
-    ]
-  ],
-  [
-    [
       "2023-02-08, 03:12:03",
       "https://news.ycombinator.com/item?id=34703626"
     ],
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2023-02-07, 23:58:55",
+      "https://news.ycombinator.com/item?id=34701833"
+    ],
+    [
+      "An In-Depth Look at WebGPU",
+      "https://unzip.dev/0x00f-webgpu/"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 22:40:14",
       "https://news.ycombinator.com/item?id=34700883"
     ],
@@ -207,16 +237,6 @@
     [
       "Show HN: We built an open-source LaunchDarkly alternative for B2Bs",
       "https://www.enrolla.io"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 10:23:52",
-      "https://news.ycombinator.com/item?id=34690947"
-    ],
-    [
-      "Show HN: Docker rollout – Zero Downtime Deployment for Docker-compose",
-      "https://github.com/Wowu/docker-rollout"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-02-07, 05:35:52",
-      "https://news.ycombinator.com/item?id=34689143"
-    ],
-    [
-      "The Design of Postgres (1986) [pdf]",
-      "https://dsf.berkeley.edu/papers/ERL-M85-95.pdf"
-    ]
-  ],
-  [
-    [
       "2023-02-06, 23:34:53",
       "https://news.ycombinator.com/item?id=34686181"
     ],
     [
       "The Broom Method",
       "https://shop.minimuseum.com/blogs/cool-things/the-broom-method"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 16:54:31",
-      "https://news.ycombinator.com/item?id=34680269"
-    ],
-    [
-      "Show HN: SQRL – Anti-spam rules language Twitter acquired in 2018, open-sourced",
-      "https://websqrl.vercel.app/twitter"
     ]
   ]
 ]
