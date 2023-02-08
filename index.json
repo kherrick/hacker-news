@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-02-08, 04:11:35",
+      "https://news.ycombinator.com/item?id=34704029"
+    ],
+    [
+      "Posix Compatibility Comparison: GCP Filestore, Amazon EFS, and Azure Files",
+      "https://juicefs.com/en/blog/engineering/posix-compatibility-comparison-among-four-file-system-on-the-cloud"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 03:12:03",
       "https://news.ycombinator.com/item?id=34703626"
     ],
@@ -127,16 +137,6 @@
     [
       "Nintendo Will Pay Its Workers 10% More",
       "https://www.gamespot.com/articles/nintendo-will-pay-its-workers-10-more/1100-6511268/"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 21:54:27",
-      "https://news.ycombinator.com/item?id=34700346"
-    ],
-    [
-      "Nullness markers to enable flattening",
-      "https://mail.openjdk.org/pipermail/valhalla-spec-experts/2023-February/002223.html"
     ]
   ],
   [
