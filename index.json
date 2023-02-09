@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-09, 21:22:02",
+      "https://news.ycombinator.com/item?id=34731679"
+    ],
+    [
+      "Image Compression with Singular Value Decomposition",
+      "http://timbaumann.info/svd-image-compression-demo/"
+    ]
+  ],
+  [
+    [
       "2023-02-09, 21:00:21",
       "https://news.ycombinator.com/item?id=34731373"
     ],
@@ -17,6 +27,16 @@
     [
       "Kraken to end on-chain staking services for U.S. clients",
       "https://blog.kraken.com/post/17619/settlement/"
+    ]
+  ],
+  [
+    [
+      "2023-02-09, 20:36:33",
+      "https://news.ycombinator.com/item?id=34731013"
+    ],
+    [
+      "Cause of Fatal 2021 Tesla Wreck Was “Excessive Speed” and “Alcohol Intoxication”",
+      "https://www.ntsb.gov:443/investigations/Pages/HWY21FH007.aspx"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-02-09, 16:41:03",
-      "https://news.ycombinator.com/item?id=34726726"
-    ],
-    [
-      "Insulin is way too expensive. California has a solution: Make its own",
-      "https://www.vox.com/policy-and-politics/23574178/insulin-cost-california-biden-medicare-coverage"
-    ]
-  ],
-  [
-    [
       "2023-02-09, 16:08:18",
       "https://news.ycombinator.com/item?id=34726115"
     ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=34725776"
     ],
     [
-      "Comcast gave false map data to FCC–and didn’t admit it until Ars got involved",
+      "Comcast gave false map data to FCC",
       "https://arstechnica.com/tech-policy/2023/02/comcast-gave-false-map-data-to-fcc-and-didnt-admit-it-until-ars-got-involved/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Emacs StackExchange",
       "https://emacs.stackexchange.com/questions?tab=Votes"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 06:16:55",
-      "https://news.ycombinator.com/item?id=34704772"
-    ],
-    [
-      "The Fascinating Influence of the Cyclone Language (2019)",
-      "https://pling.jondgoodwin.com/post/cyclone/"
     ]
   ]
 ]
