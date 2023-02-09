@@ -1,11 +1,51 @@
 [
   [
     [
+      "2023-02-09, 14:02:21",
+      "https://news.ycombinator.com/item?id=34723989"
+    ],
+    [
+      "Launch HN: Activepieces (YC S22) – Open-Source Zapier Alternative",
+      "https://news.ycombinator.com/item?id=34723989"
+    ]
+  ],
+  [
+    [
+      "2023-02-09, 14:00:49",
+      "https://news.ycombinator.com/item?id=34723971"
+    ],
+    [
+      "My network home setup – v4.0",
+      "https://giuliomagnifico.blog/networking/2023/01/05/home-network_v4.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-09, 13:59:19",
+      "https://news.ycombinator.com/item?id=34723949"
+    ],
+    [
+      "GoDaddy Announces Layoffs of “About 8%”",
+      "https://aboutus.godaddy.net/newsroom/press-releases/press-release-details/2023/A-message-from-GoDaddy-CEO-Aman-Bhutani/default.aspx"
+    ]
+  ],
+  [
+    [
+      "2023-02-09, 13:52:46",
+      "https://news.ycombinator.com/item?id=34723854"
+    ],
+    [
+      "Gitlab to lay off 7% of staff",
+      "https://about.gitlab.com/blog/2023/02/09/gitlab-news/"
+    ]
+  ],
+  [
+    [
       "2023-02-09, 13:11:43",
       "https://news.ycombinator.com/item?id=34723407"
     ],
     [
-      "Lion burger? Meet the cell cultured startup working in exotic meats",
+      "A cell cultured startup working in exotic meats (2022)",
       "https://www.foodnavigator.com/Article/2022/03/30/lion-burger-tiger-tacos-meet-the-cell-cultured-start-up-working-in-exotic-meats"
     ]
   ],
@@ -17,6 +57,16 @@
     [
       "The Mobile Phones of Doctor Who – The Motherlode of Props",
       "https://shkspr.mobi/blog/2023/02/the-mobile-phones-of-doctor-who-the-motherlode-of-props/"
+    ]
+  ],
+  [
+    [
+      "2023-02-09, 13:10:42",
+      "https://news.ycombinator.com/item?id=34723391"
+    ],
+    [
+      "How ‘Diversity’ Policing Fails Science",
+      "https://www.wsj.com/articles/how-diversity-policing-fails-science-equality-equity-education-texas-tech-job-candidates-interview-dei-pronouns-11675722169"
     ]
   ],
   [
@@ -81,16 +131,6 @@
   ],
   [
     [
-      "2023-02-09, 10:58:47",
-      "https://news.ycombinator.com/item?id=34722220"
-    ],
-    [
-      "Ask HN: Is anyone else getting AI fatigue?",
-      "https://news.ycombinator.com/item?id=34722220"
-    ]
-  ],
-  [
-    [
       "2023-02-09, 10:57:07",
       "https://news.ycombinator.com/item?id=34722208"
     ],
@@ -151,32 +191,22 @@
   ],
   [
     [
+      "2023-02-08, 23:51:19",
+      "https://news.ycombinator.com/item?id=34717514"
+    ],
+    [
+      "Covid drug drives viral mutations – and now some want to halt its use",
+      "https://www.nature.com/articles/d41586-023-00347-z"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 23:06:04",
       "https://news.ycombinator.com/item?id=34716924"
     ],
     [
       "Photoprism – open-source Google Photos Alternative",
       "https://www.photoprism.app/"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 22:56:29",
-      "https://news.ycombinator.com/item?id=34716797"
-    ],
-    [
-      "Apache Kafka Beyond the Basics: Windowing",
-      "https://www.confluent.io/blog/windowing-in-kafka-streams/"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 22:52:20",
-      "https://news.ycombinator.com/item?id=34716743"
-    ],
-    [
-      "Vestas unveils solution to end landfill disposal for wind turbine blades",
-      "https://www.vestas.com/en/media/company-news/2023/vestas-unveils-circularity-solution-to-end-landfill-for-c3710818"
     ]
   ],
   [
@@ -215,18 +245,8 @@
       "https://news.ycombinator.com/item?id=34706832"
     ],
     [
-      "Shells Are Two Things",
+      "Shells are two things",
       "https://borretti.me/article/shells-are-two-things"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 11:09:55",
-      "https://news.ycombinator.com/item?id=34706605"
-    ],
-    [
-      "Hack Is Wack! (2010)",
-      "https://web.archive.org/web/20101222175616/http://hackiswack.com/"
     ]
   ],
   [
@@ -237,26 +257,6 @@
     [
       "The Undying Holiday-Suicide Myth",
       "https://statmodeling.stat.columbia.edu/2023/02/03/the-undying-holiday-suicide-myth/"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 08:40:19",
-      "https://news.ycombinator.com/item?id=34705662"
-    ],
-    [
-      "Mary, Queen of Scots prison letters finally decoded",
-      "https://www.theguardian.com/uk-news/2023/feb/08/mary-queen-of-scots-prison-letters-finally-decoded"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 07:34:12",
-      "https://news.ycombinator.com/item?id=34705246"
-    ],
-    [
-      "Trustfall: How to Query (Almost) Everything",
-      "https://github.com/obi1kenobi/trustfall"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=34703182"
     ],
     [
-      "DIY 1,500W solar power electric bike",
+      "DIY 1,500W solar power electric bike (2022)",
       "https://electrek.co/2022/07/24/diy-solar-power-electric-bike-1500w/"
     ]
   ],
