@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-02-10, 20:19:13",
-      "https://news.ycombinator.com/item?id=34745216"
-    ],
-    [
-      "TikTok lays off all employees in India",
-      "https://www.moneycontrol.com/news/trends/current-affairs/tiktok-lays-off-all-40-employees-in-india-10049421.html"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 19:46:50",
       "https://news.ycombinator.com/item?id=34744757"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34743263"
     ],
     [
-      "Understanding and Coding the Self-Attention Mechanism of Large Language Models",
+      "Understanding and coding the self-attention mechanism of large language models",
       "https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html"
     ]
   ],
@@ -97,6 +87,16 @@
     [
       "Wi Flag (2002)",
       "https://asheron.fandom.com/wiki/Wi_Flag"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 17:03:00",
+      "https://news.ycombinator.com/item?id=34742385"
+    ],
+    [
+      "Why backlogs are useless, why they never shrink, and what to do instead",
+      "https://lucasfcosta.com/2023/02/07/backlogs-are-useless.html"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=34741195"
     ],
     [
-      "DuckDB – in-process SQL OLAP database management system",
+      "DuckDB – An in-process SQL OLAP database management system",
       "https://duckdb.org/"
     ]
   ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=34738649"
     ],
     [
-      "Reverse engineering an e-paper pricetag",
+      "Reverse engineering an e-ink display",
       "https://zeus.ugent.be/blog/22-23/reverse_engineering_epaper/"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=34721302"
     ],
     [
-      "The Complete Dinosaur",
+      "The Complete Dinosaur (2012)",
       "https://iupress.org/9780253357014/the-complete-dinosaur/"
     ]
   ],
