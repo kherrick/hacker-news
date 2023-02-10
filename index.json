@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-10, 01:00:22",
+      "https://news.ycombinator.com/item?id=34734176"
+    ],
+    [
+      "Etleap (YC W13) Is Hiring a Software Engineer (London)",
+      "https://etleap.com/careers/software-engineer/"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 00:47:57",
+      "https://news.ycombinator.com/item?id=34734040"
+    ],
+    [
+      "A new way to build with Large Language Models",
+      "https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 00:23:10",
+      "https://news.ycombinator.com/item?id=34733805"
+    ],
+    [
+      "Trunk-Based Development: Game Changers",
+      "https://trunkbaseddevelopment.com/game-changers/"
+    ]
+  ],
+  [
+    [
       "2023-02-09, 23:20:54",
       "https://news.ycombinator.com/item?id=34733164"
     ],
@@ -51,42 +81,12 @@
   ],
   [
     [
-      "2023-02-09, 21:00:21",
-      "https://news.ycombinator.com/item?id=34731373"
-    ],
-    [
-      "OneText (YC W23) Is Hiring a Full-Stack JavaScript Engineer",
-      "https://www.ycombinator.com/companies/onetext/jobs/VdQkXRa-first-engineer-for-onetext-new-y-combinator-fintech-startup-with-former-paypal-leads"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 20:36:33",
-      "https://news.ycombinator.com/item?id=34731013"
-    ],
-    [
-      "Cause of Fatal 2021 Tesla Wreck Was “Excessive Speed” and “Alcohol Intoxication”",
-      "https://www.ntsb.gov:443/investigations/Pages/HWY21FH007.aspx"
-    ]
-  ],
-  [
-    [
       "2023-02-09, 20:04:54",
       "https://news.ycombinator.com/item?id=34730520"
     ],
     [
       "Show HN: boxxy – Control where Linux programs put files, without symlinks",
       "https://github.com/queer/boxxy"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 19:57:05",
-      "https://news.ycombinator.com/item?id=34730365"
-    ],
-    [
-      "Theory of Mind May Have Spontaneously Emerged in Large Language Models",
-      "https://arxiv.org/abs/2302.02083"
     ]
   ],
   [
@@ -107,26 +107,6 @@
     [
       "Show HN: I made a tool that turns screenshots into dramatically angled photos",
       "https://www.screenstab.com/editor/"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 19:27:00",
-      "https://news.ycombinator.com/item?id=34729806"
-    ],
-    [
-      "Localizing Unity games as an indie dev",
-      "https://www.bjmalicoat.com/projects/localizingunitygames"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 19:04:04",
-      "https://news.ycombinator.com/item?id=34729360"
-    ],
-    [
-      "AI Joins Hunt for ET: Study Finds 8 Potential Alien Signals",
-      "https://blogs.nvidia.com/blog/2023/02/06/ai-potential-alien-signals/"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2023-02-09, 14:33:58",
+      "https://news.ycombinator.com/item?id=34724477"
+    ],
+    [
+      "ChatGPT is a blurry JPEG of the web",
+      "https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web"
+    ]
+  ],
+  [
+    [
       "2023-02-09, 14:02:21",
       "https://news.ycombinator.com/item?id=34723989"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2023-02-09, 07:07:11",
-      "https://news.ycombinator.com/item?id=34720649"
+      "2023-02-08, 17:05:48",
+      "https://news.ycombinator.com/item?id=34711054"
     ],
     [
-      "Worst Rated Dishes in the World",
-      "https://www.tasteatlas.com/100-worst-rated-dishes-in-the-world"
+      "Boss' Dilemma: Taking Responsibility Signals Cooperation",
+      "https://tidyfirst.substack.com/p/signaling-cooperation-employees-dilemma"
+    ]
+  ],
+  [
+    [
+      "2023-02-08, 16:03:40",
+      "https://news.ycombinator.com/item?id=34709956"
+    ],
+    [
+      "Regular Expressions make me feel like a powerful wizard: that's not a good thing",
+      "https://shkspr.mobi/blog/2023/02/regular-expressions-make-me-feel-like-a-powerful-wizard-and-thats-not-a-good-thing/"
     ]
   ]
 ]
