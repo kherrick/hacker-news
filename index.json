@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-10, 13:43:55",
+      "https://news.ycombinator.com/item?id=34739497"
+    ],
+    [
+      "Windows 11 is collecting more user data than you know",
+      "https://windowsreport.com/windows-11-user-data/"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 13:31:00",
+      "https://news.ycombinator.com/item?id=34739375"
+    ],
+    [
+      "How a Heat Pump Works",
+      "https://hvac-learning.com/courses/heat-pumps-part-1/"
+    ]
+  ],
+  [
+    [
       "2023-02-10, 12:54:15",
       "https://news.ycombinator.com/item?id=34739016"
     ],
@@ -87,16 +107,6 @@
     [
       "Reddit Confirms It Was Hacked–Recommends Users Set Up 2FA",
       "https://www.forbes.com/sites/daveywinder/2023/02/10/reddit-confirms-it-was-hacked-recommends-users-set-up-2fa/"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 08:26:23",
-      "https://news.ycombinator.com/item?id=34737067"
-    ],
-    [
-      "Use TOML for `.env` Files?",
-      "https://snarky.ca/use-toml-for-env-files/"
     ]
   ],
   [
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2023-02-09, 20:04:54",
-      "https://news.ycombinator.com/item?id=34730520"
-    ],
-    [
-      "Show HN: boxxy – Control where Linux programs put files, without symlinks",
-      "https://github.com/queer/boxxy"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 19:28:59",
-      "https://news.ycombinator.com/item?id=34729849"
-    ],
-    [
-      "Show HN: I made a tool that turns screenshots into dramatically angled photos",
-      "https://www.screenstab.com/editor/"
-    ]
-  ],
-  [
-    [
       "2023-02-09, 18:07:56",
       "https://news.ycombinator.com/item?id=34728405"
     ],
@@ -271,16 +261,6 @@
   ],
   [
     [
-      "2023-02-09, 14:40:55",
-      "https://news.ycombinator.com/item?id=34724585"
-    ],
-    [
-      "The Future of Thunderbird",
-      "https://blog.thunderbird.net/2023/02/the-future-of-thunderbird-why-were-rebuilding-from-the-ground-up/"
-    ]
-  ],
-  [
-    [
       "2023-02-09, 14:02:21",
       "https://news.ycombinator.com/item?id=34723989"
     ],
@@ -297,6 +277,26 @@
     [
       "AirPods Pro case converted from Lightning to USB-C with open-source PCB",
       "https://www.engadget.com/a-robotics-engineer-is-trying-to-make-the-airpods-pro-easier-to-repair-184249580.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-09, 07:48:53",
+      "https://news.ycombinator.com/item?id=34720933"
+    ],
+    [
+      "The Future of Cinema (2015)",
+      "https://500ish.com/the-future-of-cinema-2e0240d83507?gi=760ac08ff9cb"
+    ]
+  ],
+  [
+    [
+      "2023-02-08, 20:52:32",
+      "https://news.ycombinator.com/item?id=34714911"
+    ],
+    [
+      "The Art Criticism of Jerry Saltz",
+      "https://nymag.com/author/jerry-saltz/"
     ]
   ]
 ]
