@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2023-02-10, 17:03:00",
-      "https://news.ycombinator.com/item?id=34742385"
-    ],
-    [
-      "Why backlogs are useless, why they never shrink, and what to do instead",
-      "https://lucasfcosta.com/2023/02/07/backlogs-are-useless.html"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 17:00:41",
       "https://news.ycombinator.com/item?id=34742343"
     ],
@@ -297,6 +287,16 @@
     [
       "Logic Gate Simulator",
       "https://academo.org/demos/logic-gate-simulator/"
+    ]
+  ],
+  [
+    [
+      "2023-02-09, 06:29:13",
+      "https://news.ycombinator.com/item?id=34720416"
+    ],
+    [
+      "ARM Assembly: ∞ Ways to Return (2017)",
+      "https://quantum5.ca/2017/10/19/arm-ways-to-return/"
     ]
   ]
 ]
