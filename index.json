@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-10, 14:58:59",
+      "https://news.ycombinator.com/item?id=34740463"
+    ],
+    [
+      "Show HN: Dslcad a programming language and interpreter for building 3D models",
+      "https://github.com/DSchroer/dslcad"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 14:50:56",
+      "https://news.ycombinator.com/item?id=34740360"
+    ],
+    [
+      "Is Seattle a 15-minute city? It depends on where you want to walk",
+      "https://nathenry.com/writing/2023-02-07-seattle-walkability.html"
+    ]
+  ],
+  [
+    [
       "2023-02-10, 14:48:39",
       "https://news.ycombinator.com/item?id=34740322"
     ],
@@ -77,16 +97,6 @@
     [
       "Reactivity Without Virtual DOM",
       "https://github.com/Camplejs/Cample.js"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 12:18:47",
-      "https://news.ycombinator.com/item?id=34738702"
-    ],
-    [
-      "OpenBSD: Why and How",
-      "https://sive.rs/openbsd"
     ]
   ],
   [
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2023-02-10, 03:10:14",
-      "https://news.ycombinator.com/item?id=34735161"
-    ],
-    [
-      "Yahoo will lay off 20% of staff, or 1600 people",
-      "https://techcrunch.com/2023/02/09/yahoo-will-lay-off-20-of-staff-or-1600-people/"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 01:55:38",
       "https://news.ycombinator.com/item?id=34734655"
     ],
     [
       "Why big tech companies need so many people",
       "https://thebuilderjr.substack.com/p/why-big-tech-companies-need-so-many"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 16:37:20",
-      "https://news.ycombinator.com/item?id=34726662"
-    ],
-    [
-      "Burt Bacharach has died",
-      "https://www.independent.co.uk/arts-entertainment/music/news/burt-bacharach-death-cause-songs-b2279102.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "AirPods Pro case converted from Lightning to USB-C with open-source PCB",
       "https://www.engadget.com/a-robotics-engineer-is-trying-to-make-the-airpods-pro-easier-to-repair-184249580.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-09, 07:10:23",
+      "https://news.ycombinator.com/item?id=34720670"
+    ],
+    [
+      "Logic Gate Simulator",
+      "https://academo.org/demos/logic-gate-simulator/"
     ]
   ],
   [
