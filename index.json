@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-02-10, 15:42:12",
+      "https://news.ycombinator.com/item?id=34741090"
+    ],
+    [
+      "Ask HN: Why aren't laptops evaluated with a plot of performance vs. fan noise?",
+      "https://news.ycombinator.com/item?id=34741090"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 15:37:48",
+      "https://news.ycombinator.com/item?id=34741018"
+    ],
+    [
+      "Manticore 6.0.0 – a faster alternative to Elasticsearch in C++",
+      "https://manticoresearch.com/blog/manticore-search-6-0-0/"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 15:32:34",
+      "https://news.ycombinator.com/item?id=34740937"
+    ],
+    [
+      "How a Zig IDE Could Work",
+      "https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 15:03:40",
+      "https://news.ycombinator.com/item?id=34740529"
+    ],
+    [
+      "Show HN: Spaghettify – A VSCode Extension to make your code worse with AI",
+      "https://www.spaghettify.dev/"
+    ]
+  ],
+  [
+    [
       "2023-02-10, 14:58:59",
       "https://news.ycombinator.com/item?id=34740463"
     ],
@@ -27,6 +67,16 @@
     [
       "Apple Avoids Job Cuts Because It Didn’t Overhire Like Google and Amazon",
       "https://www.bloomberg.com/news/articles/2023-02-10/apple-aapl-avoids-tech-layoffs-because-it-didn-t-overhire-like-google-amazon"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 14:47:03",
+      "https://news.ycombinator.com/item?id=34740294"
+    ],
+    [
+      "Microsoft want court to toss lawsuit accusing them of abusing open-source code",
+      "https://www.reuters.com/legal/litigation/openai-microsoft-want-court-toss-lawsuit-accusing-them-abusing-open-source-code-2023-01-27/"
     ]
   ],
   [
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2023-02-10, 12:14:55",
-      "https://news.ycombinator.com/item?id=34738667"
-    ],
-    [
-      "Individuals who share an ideology have more similar neural representations",
-      "https://www.science.org/doi/10.1126/sciadv.abq5920"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 12:11:59",
       "https://news.ycombinator.com/item?id=34738649"
     ],
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2023-02-10, 07:23:25",
-      "https://news.ycombinator.com/item?id=34736710"
-    ],
-    [
-      "The XML spec is 25 years old today",
-      "https://www.w3.org/TR/1998/REC-xml-19980210"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 07:19:57",
       "https://news.ycombinator.com/item?id=34736691"
     ],
@@ -207,26 +237,6 @@
     [
       "Meticulous (YC S21) Is Hiring #3 Engineer in London to Revolutionize Testing",
       "https://news.ycombinator.com/item?id=34736554"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 06:48:03",
-      "https://news.ycombinator.com/item?id=34736457"
-    ],
-    [
-      "Rust: A Unique Perspective (2019)",
-      "https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 06:41:06",
-      "https://news.ycombinator.com/item?id=34736416"
-    ],
-    [
-      "Why TLS is better without STARTTLS (2021)",
-      "https://nostarttls.secvuln.info/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "A GPT in 60 Lines of NumPy",
       "https://jaykmody.com/blog/gpt-from-scratch/"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 14:02:21",
-      "https://news.ycombinator.com/item?id=34723989"
-    ],
-    [
-      "Launch HN: Activepieces (YC S22) – Open-Source Zapier Alternative",
-      "https://news.ycombinator.com/item?id=34723989"
     ]
   ],
   [
