@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-02-10, 16:31:43",
+      "https://news.ycombinator.com/item?id=34741898"
+    ],
+    [
+      "AI assistants: The convenient crutch for new developers or a recipe for disaster",
+      "https://blog.codeanywhere.com/how-ai-assistants-are-assisting-in-creating-less-experienced-developers/"
+    ]
+  ],
+  [
+    [
       "2023-02-10, 16:01:44",
       "https://news.ycombinator.com/item?id=34741435"
     ],
     [
       "Molnupiravir Mutations in the Wild",
       "https://www.science.org/content/blog-post/monupiravir-mutations-wild"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 15:51:05",
+      "https://news.ycombinator.com/item?id=34741240"
+    ],
+    [
+      "JavE – Java ASCII Versatile Editor",
+      "http://www.jave.de/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "How a Zig IDE Could Work",
       "https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 15:28:26",
-      "https://news.ycombinator.com/item?id=34740876"
-    ],
-    [
-      "External Garbage Collection in Ruby",
-      "https://census.dev/blog/external-garbage-collection"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Reddit Confirms It Was Hacked–Recommends Users Set Up 2FA",
       "https://www.forbes.com/sites/daveywinder/2023/02/10/reddit-confirms-it-was-hacked-recommends-users-set-up-2fa/"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 07:43:25",
-      "https://news.ycombinator.com/item?id=34736834"
-    ],
-    [
-      "Show HN: Enc – A modern and friendly CLI alternative to GnuPG",
-      "https://github.com/life4/enc"
     ]
   ],
   [
