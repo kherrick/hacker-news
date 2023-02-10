@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-10, 15:48:45",
+      "https://news.ycombinator.com/item?id=34741195"
+    ],
+    [
+      "DuckDB – in-process SQL OLAP database management system",
+      "https://duckdb.org/"
+    ]
+  ],
+  [
+    [
       "2023-02-10, 15:42:12",
       "https://news.ycombinator.com/item?id=34741090"
     ],
@@ -27,6 +37,16 @@
     [
       "How a Zig IDE Could Work",
       "https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 15:28:26",
+      "https://news.ycombinator.com/item?id=34740876"
+    ],
+    [
+      "External Garbage Collection in Ruby",
+      "https://census.dev/blog/external-garbage-collection"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-02-10, 07:28:08",
-      "https://news.ycombinator.com/item?id=34736745"
-    ],
-    [
-      "David Guetta uses ChatGPT and uberduck.ai to deepfake Eminem rap for DJ set",
-      "https://twitter.com/davidguetta/status/1621605376733872129"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 07:19:57",
       "https://news.ycombinator.com/item?id=34736691"
     ],
@@ -237,6 +247,16 @@
     [
       "Meticulous (YC S21) Is Hiring #3 Engineer in London to Revolutionize Testing",
       "https://news.ycombinator.com/item?id=34736554"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 05:45:56",
+      "https://news.ycombinator.com/item?id=34736082"
+    ],
+    [
+      "What Can Humdrum Do? (2022)",
+      "https://www.humdrum.org/guide/ch01/index.html#what-can-humdrum-do"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-02-09, 16:08:18",
-      "https://news.ycombinator.com/item?id=34726115"
-    ],
-    [
-      "A GPT in 60 Lines of NumPy",
-      "https://jaykmody.com/blog/gpt-from-scratch/"
-    ]
-  ],
-  [
-    [
       "2023-02-09, 12:49:06",
       "https://news.ycombinator.com/item?id=34723176"
     ],
@@ -287,16 +297,6 @@
     [
       "Logic Gate Simulator",
       "https://academo.org/demos/logic-gate-simulator/"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 20:52:32",
-      "https://news.ycombinator.com/item?id=34714911"
-    ],
-    [
-      "The Art Criticism of Jerry Saltz",
-      "https://nymag.com/author/jerry-saltz/"
     ]
   ]
 ]
