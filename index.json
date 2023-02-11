@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-11, 06:01:09",
+      "https://news.ycombinator.com/item?id=34749973"
+    ],
+    [
+      "Curl turns 25 years old GitHub Celebration",
+      "https://github.com/curl/curl/discussions/10465"
+    ]
+  ],
+  [
+    [
       "2023-02-11, 03:45:02",
       "https://news.ycombinator.com/item?id=34749380"
     ],
@@ -17,6 +27,16 @@
     [
       "Bird.makeup: a Twitter to ActivityPub bridge",
       "https://bird.makeup/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 01:19:02",
+      "https://news.ycombinator.com/item?id=34748475"
+    ],
+    [
+      "Gofumpt: A stricter gofmt",
+      "https://github.com/mvdan/gofumpt"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-02-10, 15:37:48",
-      "https://news.ycombinator.com/item?id=34741018"
-    ],
-    [
-      "Manticore 6.0.0 – a faster alternative to Elasticsearch in C++",
-      "https://manticoresearch.com/blog/manticore-search-6-0-0/"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 15:32:34",
       "https://news.ycombinator.com/item?id=34740937"
     ],
@@ -167,16 +177,6 @@
     [
       "Show HN: DSLCad – a programming language and interpreter for building 3D models",
       "https://github.com/DSchroer/dslcad"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 14:48:39",
-      "https://news.ycombinator.com/item?id=34740322"
-    ],
-    [
-      "Apple avoids job cuts because it didn’t overhire like Google and Amazon",
-      "https://www.bloomberg.com/news/articles/2023-02-10/apple-aapl-avoids-tech-layoffs-because-it-didn-t-overhire-like-google-amazon"
     ]
   ],
   [
