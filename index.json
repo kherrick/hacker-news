@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-11, 10:04:01",
+      "https://news.ycombinator.com/item?id=34750979"
+    ],
+    [
+      "From Swiping to Sexting: The Gender Divide in American Dating and Relationships",
+      "https://www.americansurveycenter.org/research/from-swiping-to-sexting-the-enduring-gender-divide-in-american-dating-and-relationships/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 08:39:25",
+      "https://news.ycombinator.com/item?id=34750657"
+    ],
+    [
+      "Why type hinting sucks (/r/Python)",
+      "https://old.reddit.com/r/Python/comments/10zdidm/why_type_hinting_sucks/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 08:30:29",
+      "https://news.ycombinator.com/item?id=34750614"
+    ],
+    [
+      "Gentoo Linux 2022 Retrospective",
+      "https://www.gentoo.org/news/2023/02/09/new-year.html"
+    ]
+  ],
+  [
+    [
       "2023-02-11, 08:03:58",
       "https://news.ycombinator.com/item?id=34750522"
     ],
@@ -17,6 +47,16 @@
     [
       "Google Python Style Guide",
       "https://google.github.io/styleguide/pyguide.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 03:45:02",
+      "https://news.ycombinator.com/item?id=34749380"
+    ],
+    [
+      "Universal Tracking Back – Data Still Destroyed",
+      "https://community.cointracker.io/t/universal-tracking-back-data-still-destroyed/6543"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=34747927"
     ],
     [
-      "Treasure trove of mechanical animations",
+      "Treasure trove of mechanical animations (2015)",
       "https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations"
     ]
   ],
@@ -91,26 +131,6 @@
   ],
   [
     [
-      "2023-02-10, 18:37:23",
-      "https://news.ycombinator.com/item?id=34743772"
-    ],
-    [
-      "Ask HN: Why did medium.com \"fail\"?",
-      "https://news.ycombinator.com/item?id=34743772"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 18:04:22",
-      "https://news.ycombinator.com/item?id=34743263"
-    ],
-    [
-      "Understanding and coding the self-attention mechanism of large language models",
-      "https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 17:37:59",
       "https://news.ycombinator.com/item?id=34742923"
     ],
@@ -131,12 +151,12 @@
   ],
   [
     [
-      "2023-02-10, 17:03:00",
-      "https://news.ycombinator.com/item?id=34742385"
+      "2023-02-10, 17:00:41",
+      "https://news.ycombinator.com/item?id=34742343"
     ],
     [
-      "Why backlogs are useless, why they never shrink, and what to do instead",
-      "https://lucasfcosta.com/2023/02/07/backlogs-are-useless.html"
+      "Charge Robotics (YC S21) is hiring meches to build robots that build solar farms",
+      "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Junkyard computing – repurposing discarded smartphones to minimize pollution",
       "https://dl.acm.org/doi/pdf/10.1145/3575693.3575710"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 15:37:48",
-      "https://news.ycombinator.com/item?id=34741018"
-    ],
-    [
-      "Manticore 6.0.0 – a faster alternative to Elasticsearch in C++",
-      "https://manticoresearch.com/blog/manticore-search-6-0-0/"
     ]
   ],
   [
@@ -197,6 +207,16 @@
     [
       "Conrad Waddington and his epigenetic landscape (2013)",
       "https://bitesizebio.com/10999/conrad-waddington-and-his-epigenetic-landscape/"
+    ]
+  ],
+  [
+    [
+      "2023-02-09, 23:38:45",
+      "https://news.ycombinator.com/item?id=34733363"
+    ],
+    [
+      "Service Mesh Use Cases",
+      "https://lucperkins.dev/blog/service-mesh-use-cases/"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Web Rendering Patterns",
       "https://mburakerman.github.io/blog/web-rendering-patterns"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 08:48:28",
-      "https://news.ycombinator.com/item?id=34721286"
-    ],
-    [
-      "Clark Foam’s demise, 10 years later (2015)",
-      "https://www.surfer.com/blogs/culture/clark-foams-demise-10-years-later-grubby-clark/"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 06:29:13",
-      "https://news.ycombinator.com/item?id=34720416"
-    ],
-    [
-      "ARM Assembly: ∞ Ways to Return (2017)",
-      "https://quantum5.ca/2017/10/19/arm-ways-to-return/"
     ]
   ],
   [
