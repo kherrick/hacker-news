@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34751948"
     ],
     [
-      "Scientists discover a protein in the lungs that blocks Covid infection",
+      "Scientists discover receptor that blocks Covid-19 infection",
       "https://www.sydney.edu.au/news-opinion/news/2023/02/10/scientists-discover-receptor-that-blocks-covid-19-infection.html"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34750782"
     ],
     [
-      "Adding Telemetry to Go-Lang",
+      "The design of transparent telemetry",
       "https://research.swtch.com/telemetry-design"
     ]
   ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-02-10, 15:32:34",
+      "https://news.ycombinator.com/item?id=34740937"
+    ],
+    [
+      "How a Zig IDE Could Work",
+      "https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html"
+    ]
+  ],
+  [
+    [
       "2023-02-10, 14:34:04",
       "https://news.ycombinator.com/item?id=34740105"
     ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=34733363"
     ],
     [
-      "Service Mesh Use Cases",
+      "Service mesh use cases (2020)",
       "https://lucperkins.dev/blog/service-mesh-use-cases/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Launch HN: Activepieces (YC S22) – Open-Source Zapier Alternative",
       "https://news.ycombinator.com/item?id=34723989"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 10:28:29",
-      "https://news.ycombinator.com/item?id=34721987"
-    ],
-    [
-      "Manticore Search v6 Released",
-      "https://manticoresearch.com/blog/manticore-search-6-0-0/"
     ]
   ],
   [
