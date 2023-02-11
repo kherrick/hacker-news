@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-02-11, 21:17:54",
-      "https://news.ycombinator.com/item?id=34756456"
+      "2023-02-11, 22:25:56",
+      "https://news.ycombinator.com/item?id=34757042"
     ],
     [
-      "30 People Tell Us What Homelessness Is Like",
-      "https://www.nytimes.com/interactive/2023/02/10/headway/homelessness-mental-health-us.html"
+      "US aircraft shoots down new airborne object over Canada",
+      "https://www.bbc.com/news/world-us-canada-64614098"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 22:05:12",
+      "https://news.ycombinator.com/item?id=34756884"
+    ],
+    [
+      "Why does the SARS-Cov2 genome end in aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa (33 a's)?",
+      "https://bioinformatics.stackexchange.com/questions/11227/why-does-the-sars-cov2-coronavirus-genome-end-in-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 21:26:24",
+      "https://news.ycombinator.com/item?id=34756539"
+    ],
+    [
+      "Deep learning for twelve hour precipitation forecasts",
+      "https://www.nature.com/articles/s41467-022-32483-x"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Toward policy for open-source software as infrastructure",
       "https://www.atlanticcouncil.org/in-depth-research-reports/report/open-source-software-as-infrastructure/"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 19:08:41",
-      "https://news.ycombinator.com/item?id=34755248"
-    ],
-    [
-      "The effect of high-polyphenol Mediterranean diet on visceral adiposity",
-      "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02525-8"
     ]
   ],
   [
@@ -185,18 +195,8 @@
       "https://news.ycombinator.com/item?id=34753937"
     ],
     [
-      "Why Dark Matter Feels Like Cheating (and Why It Isn’t)",
+      "Why dark matter feels like cheating (and why it isn’t)",
       "https://4gravitons.com/2023/02/10/why-dark-matter-feels-like-cheating-and-why-it-isnt/"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 16:10:42",
-      "https://news.ycombinator.com/item?id=34753565"
-    ],
-    [
-      "‘Mutual aid’ is a radical ideal. Some live its communal spirit",
-      "https://www.csmonitor.com/text_edition/Business/2023/0130/Mutual-aid-is-a-radical-ideal.-Some-live-its-communal-spirit"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-02-10, 00:45:42",
-      "https://news.ycombinator.com/item?id=34734021"
-    ],
-    [
-      "Tips for a healthier Postgres database (2021)",
-      "https://www.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year"
-    ]
-  ],
-  [
-    [
       "2023-02-09, 23:38:45",
       "https://news.ycombinator.com/item?id=34733363"
     ],
@@ -287,6 +277,16 @@
     [
       "Autodidax: JAX core from scratch",
       "https://jax.readthedocs.io/en/latest/autodidax.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-09, 22:00:10",
+      "https://news.ycombinator.com/item?id=34732190"
+    ],
+    [
+      "Building in the open, again",
+      "https://boleary.dev/building-in-the-open-again/"
     ]
   ],
   [
