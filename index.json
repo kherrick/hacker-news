@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-02-11, 21:03:34",
-      "https://news.ycombinator.com/item?id=34756324"
-    ],
-    [
-      "Thiel Foundation Announces Next (2023) Thiel Fellow Class",
-      "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 20:51:39",
       "https://news.ycombinator.com/item?id=34756203"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34756024"
     ],
     [
-      "Theory of Mind May Have Spontaneously Emerged in Large Language Models (2021)",
+      "Theory of mind may have spontaneously emerged in large language models (2021)",
       "https://osf.io/csdhb/"
     ]
   ],
@@ -45,8 +35,18 @@
       "https://news.ycombinator.com/item?id=34756023"
     ],
     [
-      "The Creator of North Korean Hackers’ New Favorite Crypto Privacy Service",
+      "The creator of North Korean hackers’ new favorite crypto privacy service",
       "https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 20:23:05",
+      "https://news.ycombinator.com/item?id=34755970"
+    ],
+    [
+      "Silurian Hypothesis",
+      "https://en.wikipedia.org/wiki/Silurian_hypothesis"
     ]
   ],
   [
@@ -55,8 +55,28 @@
       "https://news.ycombinator.com/item?id=34755887"
     ],
     [
-      "Billions of Celestial Objects Revealed in Gargantuan Survey of the Milky Way",
+      "Billions of celestial objects revealed in survey of the Milky Way",
       "https://noirlab.edu/public/news/noirlab2301/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 19:18:12",
+      "https://news.ycombinator.com/item?id=34755352"
+    ],
+    [
+      "Toward policy for open-source software as infrastructure",
+      "https://www.atlanticcouncil.org/in-depth-research-reports/report/open-source-software-as-infrastructure/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 18:53:04",
+      "https://news.ycombinator.com/item?id=34755090"
+    ],
+    [
+      "The Legend of Abraham Wald",
+      "https://www.privatdozent.co/p/the-legend-of-abraham-wald"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=34754902"
     ],
     [
-      "“Magic” Drug Restores Lost Memories and Unleashes Hidden Knowledge",
+      "An FDA-approved asthma drug has shown the ability to restore memories in mice",
       "https://thedebrief.org/magic-drug-restores-lost-memories-and-unleashes-hidden-knowledge/"
     ]
   ],
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2023-02-11, 17:56:46",
+      "https://news.ycombinator.com/item?id=34754567"
+    ],
+    [
+      "Students suing elite U.S. colleges seek 'wealth favoritism' information",
+      "https://www.reuters.com/legal/litigation/students-suing-elite-us-colleges-seek-wealth-favoritism-information-2023-02-09/"
+    ]
+  ],
+  [
+    [
       "2023-02-11, 17:54:02",
       "https://news.ycombinator.com/item?id=34754544"
     ],
@@ -111,12 +141,12 @@
   ],
   [
     [
-      "2023-02-11, 17:34:39",
-      "https://news.ycombinator.com/item?id=34754355"
+      "2023-02-11, 17:38:06",
+      "https://news.ycombinator.com/item?id=34754387"
     ],
     [
-      "Understanding Large Language Models – A Transformative Reading List",
-      "https://sebastianraschka.com/blog/2023/llm-reading-list.html"
+      "WW2 Bomb Explodes in England",
+      "https://www.cbsnews.com/news/wwii-era-bomb-explodes-in-england-in-unplanned-detonation/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-02-11, 15:08:01",
-      "https://news.ycombinator.com/item?id=34752960"
-    ],
-    [
-      "Delegaid – package your favourite prompts in simple UI",
-      "https://www.delegaid.ai/create"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 14:41:42",
       "https://news.ycombinator.com/item?id=34752675"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-02-11, 14:21:55",
-      "https://news.ycombinator.com/item?id=34752486"
-    ],
-    [
-      "An antidote to envy",
-      "https://moretothat.com/the-antidote-to-envy/"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 14:10:13",
       "https://news.ycombinator.com/item?id=34752400"
     ],
@@ -227,16 +237,6 @@
     [
       "Geogram: Programming Library with Geometric Algorithms",
       "https://github.com/BrunoLevy/geogram"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 10:07:54",
-      "https://news.ycombinator.com/item?id=34750997"
-    ],
-    [
-      "SDK update for Raspberry Pi Pico W unlocks Bluetooth support",
-      "https://github.com/raspberrypi/pico-sdk/releases/tag/1.5.0"
     ]
   ],
   [
