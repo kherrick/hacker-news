@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-11, 13:36:06",
+      "https://news.ycombinator.com/item?id=34752193"
+    ],
+    [
+      "No level of alcohol consumption is safe for our health",
+      "https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health"
+    ]
+  ],
+  [
+    [
       "2023-02-11, 12:58:11",
       "https://news.ycombinator.com/item?id=34751948"
     ],
@@ -57,16 +67,6 @@
     [
       "Gentoo Linux 2022 Retrospective",
       "https://www.gentoo.org/news/2023/02/09/new-year.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 08:03:58",
-      "https://news.ycombinator.com/item?id=34750522"
-    ],
-    [
-      "Databases on Kubernetes is fundamentally same as a database on a VM",
-      "https://twitter.com/kelseyhightower/status/1624081136073994240"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "Junkyard computing – repurposing discarded smartphones to minimize pollution",
       "https://dl.acm.org/doi/pdf/10.1145/3575693.3575710"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 15:32:34",
-      "https://news.ycombinator.com/item?id=34740937"
-    ],
-    [
-      "How a Zig IDE Could Work",
-      "https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "A GPT in 60 Lines of NumPy",
       "https://jaykmody.com/blog/gpt-from-scratch/"
+    ]
+  ],
+  [
+    [
+      "2023-02-09, 10:28:29",
+      "https://news.ycombinator.com/item?id=34721987"
+    ],
+    [
+      "Manticore Search v6 Released",
+      "https://manticoresearch.com/blog/manticore-search-6-0-0/"
     ]
   ],
   [
