@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-11, 00:42:06",
+      "https://news.ycombinator.com/item?id=34748195"
+    ],
+    [
+      "Mastodon.lol will shut down on May 9, 2023",
+      "https://mastodon.lol/@nathan/109836633022272265"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 00:40:42",
+      "https://news.ycombinator.com/item?id=34748175"
+    ],
+    [
+      "Bowie, Jazz, and the Unplayable Piano",
+      "https://timharford.com/2019/12/cautionary-tales-ep-7-bowie-jazz-and-the-unplayable-piano/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 00:11:11",
+      "https://news.ycombinator.com/item?id=34747927"
+    ],
+    [
+      "Treasure trove of mechanical animations",
+      "https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations"
+    ]
+  ],
+  [
+    [
       "2023-02-10, 23:07:34",
       "https://news.ycombinator.com/item?id=34747255"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2023-02-10, 22:25:34",
-      "https://news.ycombinator.com/item?id=34746839"
+      "2023-02-10, 22:15:02",
+      "https://news.ycombinator.com/item?id=34746716"
     ],
     [
-      "GitHub and EFF back YouTube ripper in legal battle with the RIAA",
-      "https://torrentfreak.com/github-and-eff-back-youtube-ripper-in-legal-battle-with-the-riaa-230210/"
+      "A Gentle Introduction to CRDTs",
+      "https://vlcn.io/blog/gentle-intro-to-crdts.html"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-02-10, 14:50:56",
-      "https://news.ycombinator.com/item?id=34740360"
-    ],
-    [
-      "Is Seattle a 15-minute city? It depends on where you want to walk",
-      "https://nathenry.com/writing/2023-02-07-seattle-walkability.html"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 14:48:39",
       "https://news.ycombinator.com/item?id=34740322"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-02-10, 13:31:00",
-      "https://news.ycombinator.com/item?id=34739375"
-    ],
-    [
-      "How a heat pump works",
-      "https://hvac-learning.com/courses/heat-pumps-part-1/"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 12:11:59",
       "https://news.ycombinator.com/item?id=34738649"
     ],
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2023-02-09, 19:12:59",
-      "https://news.ycombinator.com/item?id=34729539"
+      "2023-02-09, 20:56:05",
+      "https://news.ycombinator.com/item?id=34731321"
     ],
     [
-      "Rocks of Ages",
-      "https://www.historytoday.com/archive/history-matters/rocks-ages"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 08:50:06",
-      "https://news.ycombinator.com/item?id=34721302"
-    ],
-    [
-      "The Complete Dinosaur (2012)",
-      "https://iupress.org/9780253357014/the-complete-dinosaur/"
+      "Mast1c0re: Part 1 – Modifying PS2 game save files",
+      "https://mccaulay.co.uk/mast1c0re-part-1-modifying-ps2-game-save-files/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-02-09, 07:10:23",
-      "https://news.ycombinator.com/item?id=34720670"
+      "2023-02-09, 06:29:13",
+      "https://news.ycombinator.com/item?id=34720416"
     ],
     [
-      "Logic Gate Simulator",
-      "https://academo.org/demos/logic-gate-simulator/"
+      "ARM Assembly: ∞ Ways to Return (2017)",
+      "https://quantum5.ca/2017/10/19/arm-ways-to-return/"
     ]
   ]
 ]
