@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-11, 10:18:39",
+      "https://news.ycombinator.com/item?id=34751031"
+    ],
+    [
+      "Is A.I. Art Stealing from Artists?",
+      "https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 10:07:54",
+      "https://news.ycombinator.com/item?id=34750997"
+    ],
+    [
+      "SDK update for Raspberry Pi Pico W unlocks Bluetooth support",
+      "https://github.com/raspberrypi/pico-sdk/releases/tag/1.5.0"
+    ]
+  ],
+  [
+    [
       "2023-02-11, 10:04:01",
       "https://news.ycombinator.com/item?id=34750979"
     ],
@@ -57,6 +77,16 @@
     [
       "Google Python Style Guide",
       "https://google.github.io/styleguide/pyguide.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 07:19:43",
+      "https://news.ycombinator.com/item?id=34750310"
+    ],
+    [
+      "MicroCap circuit simulator is now free (as of 07/04/2019)",
+      "http://www.spectrum-soft.com/index.shtm"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-02-10, 15:32:34",
-      "https://news.ycombinator.com/item?id=34740937"
-    ],
-    [
-      "How a Zig IDE Could Work",
-      "https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 14:34:04",
       "https://news.ycombinator.com/item?id=34740105"
     ],
@@ -267,26 +287,6 @@
     [
       "A GPT in 60 Lines of NumPy",
       "https://jaykmody.com/blog/gpt-from-scratch/"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 08:09:32",
-      "https://news.ycombinator.com/item?id=34721055"
-    ],
-    [
-      "The Arm Manga Guide to the Mali GPU (2021)",
-      "https://interactive.arm.com/story/the-arm-manga-guide-to-the-mali-gpu/page/1"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 07:27:25",
-      "https://news.ycombinator.com/item?id=34720786"
-    ],
-    [
-      "Fragrant fungi rewards Himalayan foragers",
-      "https://www3.nhk.or.jp/nhkworld/en/news/backstories/2284/"
     ]
   ],
   [
