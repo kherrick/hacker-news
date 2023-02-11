@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-11, 18:35:08",
+      "https://news.ycombinator.com/item?id=34754902"
+    ],
+    [
+      "“Magic” Drug Restores Lost Memories and Unleashes Hidden Knowledge",
+      "https://thedebrief.org/magic-drug-restores-lost-memories-and-unleashes-hidden-knowledge/"
+    ]
+  ],
+  [
+    [
       "2023-02-11, 18:12:11",
       "https://news.ycombinator.com/item?id=34754681"
     ],
@@ -17,6 +27,16 @@
     [
       "I had ChatGPT write a Decemberists song and recorded it",
       "https://colinmeloy.substack.com/p/i-had-chatgpt-write-a-decemberists"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 18:07:38",
+      "https://news.ycombinator.com/item?id=34754652"
+    ],
+    [
+      "I made ChatGPT and Bing AI have a conversation",
+      "https://moritz.pm/posts/chatgpt-bing"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "A Heisenbug lurking in async Python",
       "https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 17:17:14",
+      "https://news.ycombinator.com/item?id=34754190"
+    ],
+    [
+      "Which is the best method for deep cloning in JavaScript?",
+      "https://medium.com/@tiagobertolo/which-is-the-best-method-for-deep-cloning-in-javascript-are-they-all-bad-101f32d620c5"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-02-11, 13:53:42",
-      "https://news.ycombinator.com/item?id=34752293"
-    ],
-    [
-      "DeepMind AI is as fast as humans at solving previously unseen tasks",
-      "https://www.newscientist.com/article/2357017-deepmind-ai-is-as-fast-as-humans-at-solving-previously-unseen-tasks/"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 13:42:14",
       "https://news.ycombinator.com/item?id=34752234"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2023-02-11, 12:58:11",
-      "https://news.ycombinator.com/item?id=34751948"
-    ],
-    [
-      "Scientists discover receptor that blocks Covid-19 infection",
-      "https://www.sydney.edu.au/news-opinion/news/2023/02/10/scientists-discover-receptor-that-blocks-covid-19-infection.html"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 10:07:54",
       "https://news.ycombinator.com/item?id=34750997"
     ],
     [
       "SDK update for Raspberry Pi Pico W unlocks Bluetooth support",
       "https://github.com/raspberrypi/pico-sdk/releases/tag/1.5.0"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 07:39:05",
-      "https://news.ycombinator.com/item?id=34750397"
-    ],
-    [
-      "Google Python Style Guide",
-      "https://google.github.io/styleguide/pyguide.html"
     ]
   ],
   [
