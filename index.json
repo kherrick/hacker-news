@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34752565"
     ],
     [
-      "Twitter's Top Advertisers Have Left",
+      "Twitter's top advertisers have left",
       "https://www.cnn.com/2023/02/10/tech/twitter-top-advertiser-decline/index.html"
     ]
   ],
@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2023-02-11, 13:36:06",
-      "https://news.ycombinator.com/item?id=34752193"
+      "2023-02-11, 13:42:14",
+      "https://news.ycombinator.com/item?id=34752234"
     ],
     [
-      "No level of alcohol consumption is safe for our health",
-      "https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health"
+      "Geogram: Programming Library with Geometric Algorithms",
+      "https://github.com/BrunoLevy/geogram"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Gentoo Linux 2022 Retrospective",
       "https://www.gentoo.org/news/2023/02/09/new-year.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 08:03:58",
+      "https://news.ycombinator.com/item?id=34750522"
+    ],
+    [
+      "Databases on Kubernetes is fundamentally same as a database on a VM",
+      "https://twitter.com/kelseyhightower/status/1624081136073994240"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-02-10, 15:32:34",
-      "https://news.ycombinator.com/item?id=34740937"
-    ],
-    [
-      "How a Zig IDE Could Work",
-      "https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 14:34:04",
       "https://news.ycombinator.com/item?id=34740105"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-02-10, 00:45:42",
+      "https://news.ycombinator.com/item?id=34734021"
+    ],
+    [
+      "Tips for a Healthier Postgres Database",
+      "https://www.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year"
+    ]
+  ],
+  [
+    [
       "2023-02-09, 23:38:45",
       "https://news.ycombinator.com/item?id=34733363"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2023-02-09, 22:34:08",
-      "https://news.ycombinator.com/item?id=34732642"
-    ],
-    [
-      "The effects of TV content on entrepreneurship: Evidence from German unification",
-      "https://www.sciencedirect.com/science/article/pii/S0147596723000070"
-    ]
-  ],
-  [
-    [
       "2023-02-09, 18:21:44",
       "https://news.ycombinator.com/item?id=34728704"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-02-09, 14:02:21",
-      "https://news.ycombinator.com/item?id=34723989"
+      "2023-02-09, 09:10:45",
+      "https://news.ycombinator.com/item?id=34721450"
     ],
     [
-      "Launch HN: Activepieces (YC S22) – Open-Source Zapier Alternative",
-      "https://news.ycombinator.com/item?id=34723989"
+      "Web Rendering Patterns",
+      "https://mburakerman.github.io/blog/web-rendering-patterns"
     ]
   ],
   [
