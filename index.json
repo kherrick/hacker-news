@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34754766"
     ],
     [
-      "V, the programming language that is making a lot of success",
+      "V, the programming language that is making a lot of success (2022)",
       "https://terminalroot.com/vlang-the-programming-language-that-is-making-a-lot-of-success/"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34754661"
     ],
     [
-      "I had ChatGPT write a Decemberists song",
+      "I had ChatGPT write a Decemberists song and recorded it",
       "https://colinmeloy.substack.com/p/i-had-chatgpt-write-a-decemberists"
     ]
   ],
@@ -51,21 +51,11 @@
   ],
   [
     [
-      "2023-02-11, 17:26:18",
-      "https://news.ycombinator.com/item?id=34754284"
-    ],
-    [
-      "Ask HN: How can Netflix and Amazon Prime be this bad at recommending content?",
-      "https://news.ycombinator.com/item?id=34754284"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 17:25:46",
       "https://news.ycombinator.com/item?id=34754276"
     ],
     [
-      "The Heisenbug lurking in your async code (Python)",
+      "A Heisenbug lurking in async Python",
       "https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34754116"
     ],
     [
-      "Shfmt – format shell programs (like gofmt, rustfmt)",
+      "Shfmt – format shell programs",
       "https://github.com/mvdan/sh/blob/master/cmd/shfmt/shfmt.1.scd"
     ]
   ],
@@ -137,6 +127,16 @@
     [
       "How to train large models on many GPUs? (2021)",
       "https://lilianweng.github.io/posts/2021-09-25-train-large/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 14:21:55",
+      "https://news.ycombinator.com/item?id=34752486"
+    ],
+    [
+      "An antidote to envy",
+      "https://moretothat.com/the-antidote-to-envy/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=34734021"
     ],
     [
-      "Tips for a healthier Postgres database",
+      "Tips for a healthier Postgres database (2021)",
       "https://www.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year"
     ]
   ],
