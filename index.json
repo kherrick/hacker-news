@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-02-11, 08:03:58",
-      "https://news.ycombinator.com/item?id=34750522"
-    ],
-    [
-      "Databases on Kubernetes is fundamentally same as a database on a VM",
-      "https://twitter.com/kelseyhightower/status/1624081136073994240"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 07:39:05",
       "https://news.ycombinator.com/item?id=34750397"
     ],
@@ -167,6 +157,16 @@
     [
       "Junkyard computing – repurposing discarded smartphones to minimize pollution",
       "https://dl.acm.org/doi/pdf/10.1145/3575693.3575710"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 15:32:34",
+      "https://news.ycombinator.com/item?id=34740937"
+    ],
+    [
+      "How a Zig IDE Could Work",
+      "https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html"
     ]
   ],
   [
