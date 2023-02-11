@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-02-10, 15:37:48",
+      "https://news.ycombinator.com/item?id=34741018"
+    ],
+    [
+      "Manticore 6.0.0 – a faster alternative to Elasticsearch in C++",
+      "https://manticoresearch.com/blog/manticore-search-6-0-0/"
+    ]
+  ],
+  [
+    [
       "2023-02-10, 15:32:34",
       "https://news.ycombinator.com/item?id=34740937"
     ],
@@ -217,16 +227,6 @@
     [
       "Roman church decorated with 4k skeletons",
       "https://www.smithsonianmag.com/travel/decorated-with-4000-skeletons-this-roman-church-will-have-you-pondering-your-own-mortality-180981573/"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 12:11:59",
-      "https://news.ycombinator.com/item?id=34738649"
-    ],
-    [
-      "Reverse engineering an e-ink display",
-      "https://zeus.ugent.be/blog/22-23/reverse_engineering_epaper/"
     ]
   ],
   [
