@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-02-11, 16:17:10",
+      "https://news.ycombinator.com/item?id=34753623"
+    ],
+    [
+      "Reckless American 777 Pilots Refuse NTSB Interviews",
+      "https://onemileatatime.com/news/american-777-pilots-refuse-interviews/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 16:10:42",
+      "https://news.ycombinator.com/item?id=34753565"
+    ],
+    [
+      "‘Mutual aid’ is a radical ideal. Some live its communal spirit",
+      "https://www.csmonitor.com/text_edition/Business/2023/0130/Mutual-aid-is-a-radical-ideal.-Some-live-its-communal-spirit"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 15:51:09",
+      "https://news.ycombinator.com/item?id=34753369"
+    ],
+    [
+      "American Airlines jet and shuttle bus collide on taxiway",
+      "https://abc7.com/lax-passenger-bus-plane-hits-taxiway/12799150/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 15:35:37",
+      "https://news.ycombinator.com/item?id=34753240"
+    ],
+    [
+      "I Thought I Was Saving Trans Kids. Now I’m Blowing the Whistle",
+      "https://www.thefp.com/p/i-thought-i-was-saving-trans-kids"
+    ]
+  ],
+  [
+    [
       "2023-02-11, 14:57:28",
       "https://news.ycombinator.com/item?id=34752833"
     ],
@@ -77,16 +117,6 @@
     [
       "Gentoo Linux 2022 Retrospective",
       "https://www.gentoo.org/news/2023/02/09/new-year.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 08:03:58",
-      "https://news.ycombinator.com/item?id=34750522"
-    ],
-    [
-      "Databases on Kubernetes is fundamentally same as a database on a VM",
-      "https://twitter.com/kelseyhightower/status/1624081136073994240"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2023-02-10, 16:55:39",
-      "https://news.ycombinator.com/item?id=34742266"
-    ],
-    [
-      "Junkyard computing – repurposing discarded smartphones to minimize pollution",
-      "https://dl.acm.org/doi/pdf/10.1145/3575693.3575710"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 14:34:04",
       "https://news.ycombinator.com/item?id=34740105"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2023-02-09, 18:21:44",
-      "https://news.ycombinator.com/item?id=34728704"
+      "2023-02-09, 22:12:08",
+      "https://news.ycombinator.com/item?id=34732361"
     ],
     [
-      "The Mistress of Slang",
-      "https://www.chronicle.com/article/the-mistress-of-slang"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 16:08:18",
-      "https://news.ycombinator.com/item?id=34726115"
-    ],
-    [
-      "A GPT in 60 Lines of NumPy",
-      "https://jaykmody.com/blog/gpt-from-scratch/"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 09:10:45",
-      "https://news.ycombinator.com/item?id=34721450"
-    ],
-    [
-      "Web Rendering Patterns",
-      "https://mburakerman.github.io/blog/web-rendering-patterns"
+      "Autodidax: JAX core from scratch",
+      "https://jax.readthedocs.io/en/latest/autodidax.html"
     ]
   ],
   [
