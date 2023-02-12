@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-02-12, 21:39:52",
-      "https://news.ycombinator.com/item?id=34767329"
-    ],
-    [
-      "U.S. Shoots Down a Fourth Flying Object",
-      "https://www.nytimes.com/2023/02/12/us/politics/us-shoots-down-object-michigan.html"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 21:18:29",
       "https://news.ycombinator.com/item?id=34767096"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34766801"
     ],
     [
-      "Firefox Multi-Account Containers",
+      "Multi-Account Containers",
       "https://support.mozilla.org/en-US/kb/containers"
     ]
   ],
@@ -47,16 +37,6 @@
     [
       "Algorithmic Trading: A Practitioner’s Guide",
       "https://henrikwarne.com/2023/02/12/algorithmic-trading-a-practitioners-guide/"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 20:22:19",
-      "https://news.ycombinator.com/item?id=34766475"
-    ],
-    [
-      "Pentagon testing mass surveillance balloons across the US (2019)",
-      "https://www.theguardian.com/us-news/2019/aug/02/pentagon-balloons-surveillance-midwest"
     ]
   ],
   [
@@ -95,8 +75,18 @@
       "https://news.ycombinator.com/item?id=34766387"
     ],
     [
-      "Why Google Stores Billions of Lines of Code in a Single Repository",
+      "Google stores billions of lines of code in a single repository (2016) [pdf]",
       "https://dl.acm.org/doi/pdf/10.1145/2854146"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 19:39:26",
+      "https://news.ycombinator.com/item?id=34766088"
+    ],
+    [
+      "Balloon Buster",
+      "https://en.wikipedia.org/wiki/Balloon_buster"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Jendeley – JSON-based document organizing software",
       "https://akawashiro.github.io/jendeley/"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 21:48:27",
+      "https://news.ycombinator.com/item?id=34746378"
+    ],
+    [
+      "Monotreme Dreams",
+      "https://www.nybooks.com/articles/2023/02/23/monotreme-dreams-platypus-matters-jack-ashby/"
     ]
   ]
 ]
