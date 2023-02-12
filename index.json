@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-02-12, 02:41:28",
+      "https://news.ycombinator.com/item?id=34759094"
+    ],
+    [
+      "Warnock's dilemma",
+      "https://en.wikipedia.org/wiki/Warnock%27s_dilemma"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 02:34:25",
       "https://news.ycombinator.com/item?id=34759028"
     ],
@@ -217,16 +227,6 @@
     [
       "A Heisenbug lurking in async Python",
       "https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 14:22:23",
-      "https://news.ycombinator.com/item?id=34752489"
-    ],
-    [
-      "How to train large models on many GPUs? (2021)",
-      "https://lilianweng.github.io/posts/2021-09-25-train-large/"
     ]
   ],
   [
