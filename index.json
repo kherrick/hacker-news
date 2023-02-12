@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-12, 15:41:15",
+      "https://news.ycombinator.com/item?id=34763633"
+    ],
+    [
+      "The FBI’s most controversial surveillance tool is under threat",
+      "https://www.wired.com/story/fbi-section-702/"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 14:35:45",
       "https://news.ycombinator.com/item?id=34763071"
     ],
@@ -51,6 +61,26 @@
   ],
   [
     [
+      "2023-02-12, 13:41:54",
+      "https://news.ycombinator.com/item?id=34762748"
+    ],
+    [
+      "Testing the Lua kernel interpreter in NetBSD (2021)",
+      "https://www.unitedbsd.com/d/590-testing-the-lua-kernel-interpreter"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 13:32:45",
+      "https://news.ycombinator.com/item?id=34762683"
+    ],
+    [
+      "Communicating with Interactive Articles",
+      "https://distill.pub/2020/communicating-with-interactive-articles/"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 13:13:04",
       "https://news.ycombinator.com/item?id=34762555"
     ],
@@ -67,16 +97,6 @@
     [
       "Sun: The Network Is the Computer",
       "https://www.abortretry.fail/p/the-network-is-the-computer"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 12:10:12",
-      "https://news.ycombinator.com/item?id=34762241"
-    ],
-    [
-      "Donald Knuth on Machine Learning and the Meaning of Life",
-      "https://thenewstack.io/donald-knuth-on-machine-learning-and-the-meaning-of-life/"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-02-11, 22:05:12",
-      "https://news.ycombinator.com/item?id=34756884"
-    ],
-    [
-      "Why does the SARS-Cov2 genome end in aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa? (2020)",
-      "https://bioinformatics.stackexchange.com/questions/11227/why-does-the-sars-cov2-coronavirus-genome-end-in-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 21:26:24",
       "https://news.ycombinator.com/item?id=34756539"
     ],
     [
       "Deep learning for twelve hour precipitation forecasts",
       "https://www.nature.com/articles/s41467-022-32483-x"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 17:25:46",
-      "https://news.ycombinator.com/item?id=34754276"
-    ],
-    [
-      "A Heisenbug lurking in async Python",
-      "https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/"
     ]
   ],
   [
