@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-02-12, 08:01:46",
-      "https://news.ycombinator.com/item?id=34760887"
+      "2023-02-12, 08:29:37",
+      "https://news.ycombinator.com/item?id=34761052"
     ],
     [
-      "Stripe can completely ruin your 6-figure business in one minute",
-      "https://twitter.com/FlurlyApp/status/1624177183626530816"
+      "Correlation Between the Use of Swearwords and Code Quality in Open Source Code? [pdf]",
+      "https://cme.h-its.org/exelixis/pubs/JanThesis.pdf"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Let's write a setjmp",
       "https://nullprogram.com/blog/2023/02/12/"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 06:39:54",
-      "https://news.ycombinator.com/item?id=34760504"
-    ],
-    [
-      "Japan adopts plan to make maximum use of nuclear power",
-      "https://japannews.yomiuri.co.jp/business/companies/20230210-90175/"
     ]
   ],
   [
@@ -121,12 +111,32 @@
   ],
   [
     [
+      "2023-02-12, 00:24:24",
+      "https://news.ycombinator.com/item?id=34757997"
+    ],
+    [
+      "Deteriorating mitochondria linked to major depression in older adults",
+      "https://today.uconn.edu/2023/02/mitochondria-linked-to-major-depression-in-older-adults/"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 00:08:58",
       "https://news.ycombinator.com/item?id=34757898"
     ],
     [
       "Hacking Your Keyboard with Karabiner",
       "https://kau.sh/blog/hacking-your-keyboard/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 22:52:17",
+      "https://news.ycombinator.com/item?id=34757265"
+    ],
+    [
+      "Toolformer: Language Models Can Teach Themselves to Use Tools",
+      "https://arxiv.org/abs/2302.04761"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Toward policy for open-source software as infrastructure",
       "https://www.atlanticcouncil.org/in-depth-research-reports/report/open-source-software-as-infrastructure/"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 17:54:02",
-      "https://news.ycombinator.com/item?id=34754544"
-    ],
-    [
-      "Silicon reverse-engineering: the Intel 8086 processor's flag circuitry",
-      "http://www.righto.com/2023/02/silicon-reverse-engineering-intel-8086.html"
     ]
   ],
   [
