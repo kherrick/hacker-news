@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-02-12, 19:39:26",
+      "https://news.ycombinator.com/item?id=34766088"
+    ],
+    [
+      "Balloon Buster",
+      "https://en.wikipedia.org/wiki/Balloon_buster"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 18:48:09",
       "https://news.ycombinator.com/item?id=34765578"
     ],
     [
       "Why messaging is much better than REST for inter-microservice communications",
       "https://mats3.io/background/rationale-for-mats/"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 18:44:18",
+      "https://news.ycombinator.com/item?id=34765539"
+    ],
+    [
+      "A tiny genetic change inflicts old age on young kids",
+      "https://www.nature.com/articles/d41586-023-00355-z"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 18:36:03",
+      "https://news.ycombinator.com/item?id=34765437"
+    ],
+    [
+      "Flow Manifest(o)",
+      "https://flowmanifest.org/"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 18:32:58",
+      "https://news.ycombinator.com/item?id=34765393"
+    ],
+    [
+      "The fundamental thermodynamic costs of communication",
+      "https://arxiv.org/abs/2302.04320"
     ]
   ],
   [
@@ -21,12 +61,12 @@
   ],
   [
     [
-      "2023-02-12, 18:19:05",
-      "https://news.ycombinator.com/item?id=34765227"
+      "2023-02-12, 18:25:50",
+      "https://news.ycombinator.com/item?id=34765307"
     ],
     [
-      "Run Your Own Television Network in the Browser with Channel Two",
-      "https://www.chrisfinke.com/2023/02/10/run-your-own-television-network-with-channel-two/"
+      "Show HN: HN Pop-Up – Hover on HN Username to See Their Profile",
+      "https://github.com/mudulo/hnpopup"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2023-02-12, 15:54:02",
-      "https://news.ycombinator.com/item?id=34763756"
-    ],
-    [
-      "Another Russian spacecraft at ISS has a coolant leak",
-      "https://spacepolicyonline.com/news/another-russian-spacecraft-at-iss-has-a-coolant-leak/"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 15:46:01",
       "https://news.ycombinator.com/item?id=34763681"
     ],
@@ -121,32 +151,12 @@
   ],
   [
     [
-      "2023-02-12, 15:45:01",
-      "https://news.ycombinator.com/item?id=34763668"
-    ],
-    [
-      "School dental program prevents 80% of cavities with non-invasive treatment",
-      "https://www.nyu.edu/about/news-publications/news/2023/february/school-dental-program-prevents-80-percent-of-cavities.html"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 14:16:47",
       "https://news.ycombinator.com/item?id=34762941"
     ],
     [
       "Dijkstra comparing computer science to alchemy (1989)",
       "https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1041.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 13:46:03",
-      "https://news.ycombinator.com/item?id=34762779"
-    ],
-    [
-      "How to create portable Linux binaries",
-      "https://blog.gibson.sh/2017/11/26/creating-portable-linux-binaries/#some-general-suggestions"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Iatrogenics: Why Intervention Often Leads to Worse Outcomes",
       "https://fs.blog/iatrogenics/"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 09:59:23",
-      "https://news.ycombinator.com/item?id=34761563"
-    ],
-    [
-      "Show HN: Link Book – Quickly save links from around the web to GitHub",
-      "https://link-book.vercel.app"
     ]
   ],
   [
