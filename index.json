@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-02-12, 03:19:32",
-      "https://news.ycombinator.com/item?id=34759357"
-    ],
-    [
-      "Is it illegal to plug in a device to watch BBC iPlayer or Live TV in Starbucks?",
-      "https://law.stackexchange.com/questions/89138/it-is-really-illegal-to-plug-in-a-device-to-watch-bbc-iplayer-or-live-tv-in-a-st"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 02:41:28",
       "https://news.ycombinator.com/item?id=34759094"
     ],
@@ -67,16 +57,6 @@
     [
       "Microsoft failed to rotate certificates for winget CDN on time",
       "https://cdn.winget.microsoft.com/cache"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 01:43:13",
-      "https://news.ycombinator.com/item?id=34758626"
-    ],
-    [
-      "U.S. Representative Comments on New “Object” over Montana",
-      "https://twitter.com/reprosendale/status/1624579901608034306"
     ]
   ],
   [
@@ -101,12 +81,22 @@
   ],
   [
     [
-      "2023-02-12, 00:44:07",
-      "https://news.ycombinator.com/item?id=34758144"
+      "2023-02-12, 01:10:16",
+      "https://news.ycombinator.com/item?id=34758336"
     ],
     [
-      "Don’t force child care workers to get college degrees",
-      "https://www.fullstackeconomics.com/p/dont-force-child-care-workers-to"
+      "Wideboard: Render _all_ of Linux's source code in a browser tab via WebGL",
+      "https://github.com/aappleby/Wideboard"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 01:03:23",
+      "https://news.ycombinator.com/item?id=34758283"
+    ],
+    [
+      "NOTAM: Montana airspace temporarily restricted for national defense purposes",
+      "https://twitter.com/IntelCrab/status/1624569071583854596"
     ]
   ],
   [
@@ -117,6 +107,16 @@
     [
       "Deteriorating mitochondria linked to major depression in older adults",
       "https://today.uconn.edu/2023/02/mitochondria-linked-to-major-depression-in-older-adults/"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 00:08:58",
+      "https://news.ycombinator.com/item?id=34757898"
+    ],
+    [
+      "Hacking Your Keyboard with Karabiner",
+      "https://kau.sh/blog/hacking-your-keyboard/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=34733922"
     ],
     [
-      "A Jim Simons Market Mystery, Solved?",
+      "A Jim Simons market mystery, solved?",
       "https://www.institutionalinvestor.com/article/b8xc1b3bzfrk3m/A-Jim-Simons-Market-Mystery-Solved"
     ]
   ],
