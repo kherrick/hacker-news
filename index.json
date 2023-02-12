@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-02-12, 11:36:25",
+      "https://news.ycombinator.com/item?id=34762051"
+    ],
+    [
+      "Iatrogenics: Why Intervention Often Leads to Worse Outcomes",
+      "https://fs.blog/iatrogenics/"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 11:11:59",
       "https://news.ycombinator.com/item?id=34761938"
     ],
     [
-      "After Snowden, We Quit Our Jobs to Build Privacy Software – It Reached 1.0",
+      "After Snowden, we quit our jobs to build privacy software. It reached 1.0",
       "https://safing.io/blog/2023/02/07/snowden-changed-everything/"
     ]
   ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-02-12, 10:57:25",
-      "https://news.ycombinator.com/item?id=34761874"
+      "2023-02-12, 10:32:08",
+      "https://news.ycombinator.com/item?id=34761735"
     ],
     [
-      "Lessons Learned from 1 Year of Intermittent Fasting",
-      "https://jamesclear.com/intermittent-fasting-lessons-learned"
+      "I learned seven programming languages",
+      "https://mode80.github.io/7-langs-in-12-months.html"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34761374"
     ],
     [
-      "FOSDEM 2023 Transcribed with OpenAI's Whisper Speech Recognition",
+      "FOSDEM 2023 Transcribed by Whisper",
       "https://jonatron.github.io/fosdem2023whisper/links.html"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=34761052"
     ],
     [
-      "Correlation Between the Use of Swearwords and Code Quality in Open Source Code? [pdf]",
+      "Correlation between the use of swearwords and code quality in open source code? [pdf]",
       "https://cme.h-its.org/exelixis/pubs/JanThesis.pdf"
     ]
   ],
@@ -147,16 +157,6 @@
     [
       "Wideboard: Render _all_ of Linux's source code in a browser tab via WebGL",
       "https://github.com/aappleby/Wideboard"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 00:08:58",
-      "https://news.ycombinator.com/item?id=34757898"
-    ],
-    [
-      "Hacking Your Keyboard with Karabiner",
-      "https://kau.sh/blog/hacking-your-keyboard/"
     ]
   ],
   [
