@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-12, 16:15:18",
+      "https://news.ycombinator.com/item?id=34763955"
+    ],
+    [
+      "How this database legal war could be decided by the name given to this license",
+      "https://www.theregister.com/2023/02/12/software_freedom_conservancy_fights_agplv3/"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 15:54:02",
       "https://news.ycombinator.com/item?id=34763756"
     ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2023-02-12, 12:41:23",
+      "https://news.ycombinator.com/item?id=34762388"
+    ],
+    [
+      "Noam Chomsky on ChatGPT: High-Tech Plagiarism, Way of Avoiding Learning",
+      "https://www.openculture.com/2023/02/noam-chomsky-on-chatgpt.html"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 11:36:25",
       "https://news.ycombinator.com/item?id=34762051"
     ],
@@ -185,7 +205,7 @@
       "https://news.ycombinator.com/item?id=34760828"
     ],
     [
-      "Let's write a setjmp",
+      "Let&#x27;s write a setjmp",
       "https://nullprogram.com/blog/2023/02/12/"
     ]
   ],
@@ -205,7 +225,7 @@
       "https://news.ycombinator.com/item?id=34759527"
     ],
     [
-      "The <Dialog> Element",
+      "The &lt;Dialog&gt; Element",
       "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog"
     ]
   ],
@@ -215,28 +235,8 @@
       "https://news.ycombinator.com/item?id=34759507"
     ],
     [
-      "StarFighter 16 inch: 4K Coreboot/Ryzen Linux laptop",
+      "StarFighter 16 inch: 4K Coreboot&#x2F;Ryzen Linux laptop",
       "https://starlabs.systems/pages/starfighter"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 01:11:38",
-      "https://news.ycombinator.com/item?id=34758348"
-    ],
-    [
-      "Show HN: G-Script – Visual Scripting for the Web",
-      "https://g-script.io/"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 01:10:16",
-      "https://news.ycombinator.com/item?id=34758336"
-    ],
-    [
-      "Wideboard: Render _all_ of Linux's source code in a browser tab via WebGL",
-      "https://github.com/aappleby/Wideboard"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "Creatively Misusing TLA+",
       "https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 08:32:25",
+      "https://news.ycombinator.com/item?id=34750622"
+    ],
+    [
+      "Scott and Scurvy (2010)",
+      "https://idlewords.com/2010/03/scott_and_scurvy.htm"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Jupyterlab Desktop",
       "https://blog.jupyter.org/introducing-the-new-jupyterlab-desktop-bca1982bdb23?gi=8d071739f6eb"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 01:59:11",
-      "https://news.ycombinator.com/item?id=34734696"
-    ],
-    [
-      "Toolformer: Language models can teach themselves to use tools",
-      "https://arxiv.org/abs/2302.04761"
     ]
   ],
   [
