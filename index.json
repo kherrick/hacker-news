@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-12, 02:34:25",
+      "https://news.ycombinator.com/item?id=34759028"
+    ],
+    [
+      "Microsoft failed to rotate certificates for winget CDN on time",
+      "https://cdn.winget.microsoft.com/cache"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 02:13:44",
       "https://news.ycombinator.com/item?id=34758874"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2023-02-12, 01:18:00",
+      "https://news.ycombinator.com/item?id=34758402"
+    ],
+    [
+      "Google employees criticize CEO for ‘rushed, botched’ announcement of Bard",
+      "https://www.cnbc.com/2023/02/10/google-employees-slam-ceo-sundar-pichai-for-rushed-bard-announcement.html"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 01:11:38",
       "https://news.ycombinator.com/item?id=34758348"
     ],
@@ -77,16 +97,6 @@
     [
       "Deteriorating Mitochondria Linked to Major Depression in Older Adults",
       "https://today.uconn.edu/2023/02/mitochondria-linked-to-major-depression-in-older-adults/"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 23:56:12",
-      "https://news.ycombinator.com/item?id=34757800"
-    ],
-    [
-      "“Hunger cliff” looms as 32 states set to slash food-stamp benefits",
-      "https://www.cbsnews.com/news/food-stamps-snap-benefits-cut-in-32-states-emergency-allotments-march-2023/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "A Jim Simons Market Mystery – Solved? Not:-)",
       "https://www.institutionalinvestor.com/article/b8xc1b3bzfrk3m/A-Jim-Simons-Market-Mystery-Solved"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 22:12:08",
-      "https://news.ycombinator.com/item?id=34732361"
-    ],
-    [
-      "Autodidax: JAX core from scratch",
-      "https://jax.readthedocs.io/en/latest/autodidax.html"
     ]
   ],
   [
