@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-02-12, 01:20:39",
+      "https://news.ycombinator.com/item?id=34758429"
+    ],
+    [
+      "U.S. FAA closes some airspace in Montana for Defense Department activities",
+      "https://www.reuters.com/article/usa-object-montana-idUSL1N34S008"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 01:03:23",
+      "https://news.ycombinator.com/item?id=34758283"
+    ],
+    [
+      "NOTAM: Montana airspace temporarily restricted for national defense purposes",
+      "https://twitter.com/IntelCrab/status/1624569071583854596"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 00:24:36",
+      "https://news.ycombinator.com/item?id=34757999"
+    ],
+    [
+      "To ease the housing crunch, more places end single-family zoning",
+      "https://www.npr.org/2023/02/11/1155094278/states-cities-end-single-family-zoning-housing-affordable"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 23:56:12",
+      "https://news.ycombinator.com/item?id=34757800"
+    ],
+    [
+      "“Hunger cliff” looms as 32 states set to slash food-stamp benefits",
+      "https://www.cbsnews.com/news/food-stamps-snap-benefits-cut-in-32-states-emergency-allotments-march-2023/"
+    ]
+  ],
+  [
+    [
       "2023-02-11, 23:50:32",
       "https://news.ycombinator.com/item?id=34757751"
     ],
@@ -37,16 +77,6 @@
     [
       "British woman undertakes trip from London to Edinburgh using only £2 local buses",
       "https://www.theguardian.com/uk-news/2023/feb/11/twitter-gets-behind-womans-london-to-edinburgh-local-bus-expedition"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 22:11:26",
-      "https://news.ycombinator.com/item?id=34756934"
-    ],
-    [
-      "PM ordered take down of an unidentified object that violated Canadian airspace",
-      "https://twitter.com/JustinTrudeau/status/1624527581331554306"
     ]
   ],
   [
@@ -101,26 +131,6 @@
   ],
   [
     [
-      "2023-02-11, 20:23:05",
-      "https://news.ycombinator.com/item?id=34755970"
-    ],
-    [
-      "Silurian Hypothesis",
-      "https://en.wikipedia.org/wiki/Silurian_hypothesis"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 20:16:01",
-      "https://news.ycombinator.com/item?id=34755887"
-    ],
-    [
-      "Billions of celestial objects revealed in survey of the Milky Way",
-      "https://noirlab.edu/public/news/noirlab2301/"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 19:18:12",
       "https://news.ycombinator.com/item?id=34755352"
     ],
@@ -137,16 +147,6 @@
     [
       "The Legend of Abraham Wald",
       "https://www.privatdozent.co/p/the-legend-of-abraham-wald"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 18:35:08",
-      "https://news.ycombinator.com/item?id=34754902"
-    ],
-    [
-      "An FDA-approved asthma drug has shown the ability to restore memories in mice",
-      "https://thedebrief.org/magic-drug-restores-lost-memories-and-unleashes-hidden-knowledge/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-02-11, 17:08:45",
-      "https://news.ycombinator.com/item?id=34754116"
-    ],
-    [
-      "Shfmt – format shell programs",
-      "https://github.com/mvdan/sh/blob/master/cmd/shfmt/shfmt.1.scd"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 14:41:42",
       "https://news.ycombinator.com/item?id=34752675"
     ],
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2023-02-11, 09:14:30",
-      "https://news.ycombinator.com/item?id=34750782"
-    ],
-    [
-      "The design of transparent telemetry",
-      "https://research.swtch.com/telemetry-design"
-    ]
-  ],
-  [
-    [
       "2023-02-10, 07:17:03",
       "https://news.ycombinator.com/item?id=34736662"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2023-02-10, 00:34:32",
+      "https://news.ycombinator.com/item?id=34733922"
+    ],
+    [
+      "A Jim Simons Market Mystery – Solved? Not:-)",
+      "https://www.institutionalinvestor.com/article/b8xc1b3bzfrk3m/A-Jim-Simons-Market-Mystery-Solved"
+    ]
+  ],
+  [
+    [
       "2023-02-09, 22:12:08",
       "https://news.ycombinator.com/item?id=34732361"
     ],
@@ -297,6 +287,16 @@
     [
       "How seawater might soak up more carbon",
       "https://nautil.us/how-seawater-might-soak-up-more-carbon-261446/"
+    ]
+  ],
+  [
+    [
+      "2023-02-09, 21:39:31",
+      "https://news.ycombinator.com/item?id=34731917"
+    ],
+    [
+      "I gained a new appreciation for Test Driven Development",
+      "https://www.worthe-it.co.za/blog/2023-02-09-i-was-saved-by-test-driven-development.html"
     ]
   ]
 ]
