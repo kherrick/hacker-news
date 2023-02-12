@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34766444"
     ],
     [
-      "“A little bit of slope makes up for a lot of y-intercept”",
+      "A little bit of slope makes up for a lot of y-intercept (2012)",
       "https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185"
     ]
   ],
@@ -26,7 +26,7 @@
     ],
     [
       "John Carmack goes off about online-only games being abandoned",
-      "https://web.archive.org/web/20230206154619/https://www.pcgamer.com/john-carmack-goes-off-about-online-only-games-being-abandoned-i-believe-in-saving-everything/"
+      "https://www.pcgamer.com/john-carmack-goes-off-about-online-only-games-being-abandoned-i-believe-in-saving-everything/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34765578"
     ],
     [
-      "Why messaging is much better than REST for inter-microservice communications",
+      "Async message-oriented architectures compared to synchronous REST-based systems",
       "https://mats3.io/background/rationale-for-mats/"
     ]
   ],
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-02-12, 18:04:59",
+      "https://news.ycombinator.com/item?id=34765093"
+    ],
+    [
+      "Call GPT-3 from Terminal",
+      "https://github.com/TheR1D/shell_gpt"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 17:50:00",
       "https://news.ycombinator.com/item?id=34764952"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=34764805"
     ],
     [
-      "New hampshire on the cusp of enshrining software freedom into law",
+      "New Hampshire on the cusp of enshrining software freedom into law",
       "https://libreboot.org/news/usa-libre-part2.html"
     ]
   ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2023-02-12, 16:15:18",
-      "https://news.ycombinator.com/item?id=34763955"
-    ],
-    [
-      "How this database legal war could be decided by the name given to this license",
-      "https://www.theregister.com/2023/02/12/software_freedom_conservancy_fights_agplv3/"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 15:46:01",
       "https://news.ycombinator.com/item?id=34763681"
     ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=34762941"
     ],
     [
-      "Dijkstra comparing computer science to alchemy (1989)",
+      "By way of introduction – EWD 1041 (1989)",
       "https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1041.html"
     ]
   ],
