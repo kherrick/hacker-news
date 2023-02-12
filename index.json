@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-12, 13:02:40",
+      "https://news.ycombinator.com/item?id=34762508"
+    ],
+    [
+      "Sun: The Network Is the Computer",
+      "https://www.abortretry.fail/p/the-network-is-the-computer"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 11:36:25",
       "https://news.ycombinator.com/item?id=34762051"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2023-02-12, 10:57:25",
-      "https://news.ycombinator.com/item?id=34761874"
-    ],
-    [
-      "Lessons Learned from 1 Year of Intermittent Fasting",
-      "https://jamesclear.com/intermittent-fasting-lessons-learned"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 10:32:08",
       "https://news.ycombinator.com/item?id=34761735"
     ],
@@ -47,6 +47,16 @@
     [
       "Show HN: Link Book – Quickly save links from around the web to GitHub",
       "https://link-book.vercel.app"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 09:46:54",
+      "https://news.ycombinator.com/item?id=34761502"
+    ],
+    [
+      "Simple Physics-based Flight Simulation with C++",
+      "https://www.jakobmaier.at/posts/flight-simulation/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-02-11, 23:42:02",
-      "https://news.ycombinator.com/item?id=34757682"
-    ],
-    [
-      "ImagineAI: A code generator that turns your app spec into a Node project",
-      "https://www.imagine.ai/"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 22:05:12",
       "https://news.ycombinator.com/item?id=34756884"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2023-02-11, 17:27:02",
-      "https://news.ycombinator.com/item?id=34754288"
-    ],
-    [
-      "Trove of spices from around the world on sunken fifteenth-century Norse ship",
-      "https://phys.org/news/2023-02-trove-spices-world-sunken-fifteenth-century.html"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 17:25:46",
       "https://news.ycombinator.com/item?id=34754276"
     ],
     [
       "A Heisenbug lurking in async Python",
       "https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 09:19:54",
+      "https://news.ycombinator.com/item?id=34750798"
+    ],
+    [
+      "Creatively Misusing TLA+",
+      "https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/"
     ]
   ],
   [
