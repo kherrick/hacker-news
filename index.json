@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-13, 14:59:17",
+      "https://news.ycombinator.com/item?id=34774187"
+    ],
+    [
+      "700k car insurance prices show why you can&#x27;t insure a Kia",
+      "https://www.coveragecat.com/blog/car-insurance-prices"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 14:55:15",
       "https://news.ycombinator.com/item?id=34774118"
     ],
@@ -27,16 +37,6 @@
     [
       "Tyler Cowen on the Great Stagnation, pro-progress policy, metascience, and more",
       "https://fasterplease.substack.com/p/tyler-cowen-on-the-state-of-the-great"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 14:36:27",
-      "https://news.ycombinator.com/item?id=34773865"
-    ],
-    [
-      "Twilio is laying off 17% of workforce",
-      "https://www.twilio.com/blog/restructuring-twilio"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-02-13, 10:42:32",
-      "https://news.ycombinator.com/item?id=34772049"
-    ],
-    [
-      "What&#x27;s Going Wrong in Particle Physics? [video]",
-      "https://www.youtube.com/watch?v=lu4mH3Hmw2o"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 09:55:57",
       "https://news.ycombinator.com/item?id=34771804"
     ],
@@ -157,6 +147,16 @@
     [
       "Making a Homegrown ClickHouse Log for $20&#x2F;mo",
       "https://www.hybridlogic.co.uk/2023/02/clog/"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 08:47:03",
+      "https://news.ycombinator.com/item?id=34771453"
+    ],
+    [
+      "Pkg.jl telemetry should be opt-in (2020)",
+      "https://discourse.julialang.org/t/pkg-jl-telemetry-should-be-opt-in/42209"
     ]
   ],
   [
