@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-13, 05:28:01",
+      "https://news.ycombinator.com/item?id=34770463"
+    ],
+    [
+      "AI&#x27;s energy consumption makes Bitcoin look green.",
+      "https://www.wired.com/story/the-generative-ai-search-race-has-a-dirty-secret/"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 04:27:18",
       "https://news.ycombinator.com/item?id=34770111"
     ],
@@ -197,16 +207,6 @@
     [
       "Purego – A library for calling C functions from Go without Cgo",
       "https://github.com/ebitengine/purego"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 14:16:47",
-      "https://news.ycombinator.com/item?id=34762941"
-    ],
-    [
-      "By way of introduction – EWD 1041 (1989)",
-      "https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1041.html"
     ]
   ],
   [
