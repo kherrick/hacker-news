@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-13, 09:06:10",
+      "https://news.ycombinator.com/item?id=34771524"
+    ],
+    [
+      "DuckDB 0.7.0",
+      "https://duckdb.org/2023/02/13/announcing-duckdb-070.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 08:56:00",
+      "https://news.ycombinator.com/item?id=34771486"
+    ],
+    [
+      "Making a Homegrown ClickHouse Log for $20&#x2F;mo",
+      "https://www.hybridlogic.co.uk/2023/02/clog/"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 08:35:32",
       "https://news.ycombinator.com/item?id=34771385"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2023-02-12, 20:11:01",
-      "https://news.ycombinator.com/item?id=34766387"
-    ],
-    [
-      "Google stores billions of lines of code in a single repository (2016) [pdf]",
-      "https://dl.acm.org/doi/pdf/10.1145/2854146"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 18:48:09",
       "https://news.ycombinator.com/item?id=34765578"
     ],
     [
       "Async message-oriented systems vs. REST for inter-microservice communications",
       "https://mats3.io/background/rationale-for-mats/"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 18:32:58",
-      "https://news.ycombinator.com/item?id=34765393"
-    ],
-    [
-      "The fundamental thermodynamic costs of communication",
-      "https://arxiv.org/abs/2302.04320"
     ]
   ],
   [
