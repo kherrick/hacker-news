@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-02-13, 05:28:01",
-      "https://news.ycombinator.com/item?id=34770463"
-    ],
-    [
-      "The Generative AI Race Has a Dirty Secret",
-      "https://www.wired.com/story/the-generative-ai-search-race-has-a-dirty-secret/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 04:27:18",
-      "https://news.ycombinator.com/item?id=34770111"
-    ],
-    [
-      "This layoff does not exist",
-      "https://thislayoffdoesnotexist.com"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 02:43:15",
       "https://news.ycombinator.com/item?id=34769574"
     ],
@@ -37,6 +17,16 @@
     [
       "My Fear of Commitment to the First CPU Core",
       "https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 00:22:21",
+      "https://news.ycombinator.com/item?id=34768668"
+    ],
+    [
+      "Re-License Vaultwarden to AGPLv3",
+      "https://github.com/dani-garcia/vaultwarden/pull/2561"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2023-02-12, 17:34:47",
+      "https://news.ycombinator.com/item?id=34764805"
+    ],
+    [
+      "New Hampshire on the cusp of enshrining software freedom into law",
+      "https://libreboot.org/news/usa-libre-part2.html"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 17:03:05",
       "https://news.ycombinator.com/item?id=34764456"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=34759220"
     ],
     [
-      "The New York City Kosher Meat Boycott of 1902",
+      "The New York City kosher meat boycott of 1902",
       "https://daily.jstor.org/inside-the-new-york-city-kosher-meat-boycott-of-1902/"
     ]
   ],
