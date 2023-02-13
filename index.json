@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-13, 03:13:17",
+      "https://news.ycombinator.com/item?id=34769738"
+    ],
+    [
+      "Deepfake scams are here and we&#x27;re not ready",
+      "https://twitter.com/coffeebreak_YT/status/1624868006823165953"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 03:02:15",
       "https://news.ycombinator.com/item?id=34769673"
     ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=34769574"
     ],
     [
-      "KiCad Version 7.0.0 Released",
+      "KiCad 7.0",
       "https://www.kicad.org/blog/2023/02/Version-7.0.0-Released/"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 02:26:19",
+      "https://news.ycombinator.com/item?id=34769484"
+    ],
+    [
+      "My Fear of Commitment to the First CPU Core",
+      "https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-02-12, 20:11:01",
-      "https://news.ycombinator.com/item?id=34766387"
-    ],
-    [
-      "Google stores billions of lines of code in a single repository (2016) [pdf]",
-      "https://dl.acm.org/doi/pdf/10.1145/2854146"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 18:48:09",
       "https://news.ycombinator.com/item?id=34765578"
     ],
@@ -157,16 +167,6 @@
     [
       "The fundamental thermodynamic costs of communication",
       "https://arxiv.org/abs/2302.04320"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 18:04:59",
-      "https://news.ycombinator.com/item?id=34765093"
-    ],
-    [
-      "Call GPT-3 from Terminal",
-      "https://github.com/TheR1D/shell_gpt"
     ]
   ],
   [
