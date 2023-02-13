@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-13, 19:39:18",
+      "https://news.ycombinator.com/item?id=34779104"
+    ],
+    [
+      "Women’s underwear is taxed at higher rates than Men’s",
+      "https://www.axios.com/2023/02/13/womens-underwear-tariffs-pink-tax"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 19:30:52",
+      "https://news.ycombinator.com/item?id=34778954"
+    ],
+    [
+      "Mariana Mazzucato: “The McKinseys and the Deloittes have no expertise ”",
+      "https://www.ft.com/content/fb1254dd-a011-44cc-bde9-a434e5a09fb4"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 19:03:52",
+      "https://news.ycombinator.com/item?id=34778483"
+    ],
+    [
+      "Mastodon Flock: Migrate your tweeps to the Fediverse",
+      "https://mastodon-flock.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 18:55:13",
       "https://news.ycombinator.com/item?id=34778314"
     ],
@@ -11,12 +41,22 @@
   ],
   [
     [
-      "2023-02-13, 18:50:58",
-      "https://news.ycombinator.com/item?id=34778237"
+      "2023-02-13, 18:50:31",
+      "https://news.ycombinator.com/item?id=34778224"
     ],
     [
-      "MIT No-AI License",
-      "https://ognjen.io/mit-no-ai/"
+      "Declarative Shadow DOM",
+      "https://webkit.org/blog/13851/declarative-shadow-dom/"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 18:19:59",
+      "https://news.ycombinator.com/item?id=34777748"
+    ],
+    [
+      "MastoFeed – Send Your RSS Feeds to Mastodon",
+      "https://mastofeed.org/"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2023-02-13, 15:46:39",
-      "https://news.ycombinator.com/item?id=34774950"
-    ],
-    [
-      "Mozilla removes Bypass Paywalls Clean extension from its add-ons repository",
-      "https://www.ghacks.net/2023/02/13/mozilla-removes-bypass-paywalls-clean-extension-from-its-add-ons-repository/"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 15:43:40",
       "https://news.ycombinator.com/item?id=34774891"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-02-13, 14:55:15",
-      "https://news.ycombinator.com/item?id=34774118"
-    ],
-    [
-      "ESPP Calculator",
-      "https://espp.fyi"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 14:36:27",
       "https://news.ycombinator.com/item?id=34773865"
     ],
@@ -177,16 +197,6 @@
     [
       "GitHub staff are required to use Teams by Sep 1, 2023",
       "https://twitter.com/karrisaarinen/status/1623857893090152448"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 14:06:42",
-      "https://news.ycombinator.com/item?id=34773502"
-    ],
-    [
-      "Debian Privacy Issues",
-      "https://wiki.debian.org/PrivacyIssues"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Show HN: Self-host Whisper As a Service with GUI and queueing",
       "https://github.com/schibsted/WAAS"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 20:50:34",
-      "https://news.ycombinator.com/item?id=34766801"
-    ],
-    [
-      "Multi-Account Containers",
-      "https://support.mozilla.org/en-US/kb/containers"
     ]
   ],
   [
