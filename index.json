@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-02-13, 04:00:06",
-      "https://news.ycombinator.com/item?id=34769962"
-    ],
-    [
-      "The Last Man Without a Cell Phone",
-      "https://annekadet.substack.com/p/nocell"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 03:13:17",
       "https://news.ycombinator.com/item?id=34769738"
     ],
     [
       "Deepfake scams are here and we&#x27;re not ready",
       "https://twitter.com/coffeebreak_YT/status/1624868006823165953"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 03:02:15",
-      "https://news.ycombinator.com/item?id=34769673"
-    ],
-    [
-      "Bing ChatGTP demands an apology from user for claiming it&#x27;s 2023",
-      "https://old.reddit.com/r/bing/comments/110eagl/the_customer_service_of_the_new_bing_chat_is/"
     ]
   ],
   [
@@ -91,6 +71,16 @@
   ],
   [
     [
+      "2023-02-12, 21:54:19",
+      "https://news.ycombinator.com/item?id=34767466"
+    ],
+    [
+      "I chose OpenAI over academia: reflections on academic and industry job markets",
+      "https://rowanzellers.com/blog/rowan-job-search2/"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 21:18:29",
       "https://news.ycombinator.com/item?id=34767096"
     ],
@@ -137,6 +127,16 @@
     [
       "A little bit of slope makes up for a lot of y-intercept (2012)",
       "https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 20:11:01",
+      "https://news.ycombinator.com/item?id=34766387"
+    ],
+    [
+      "Google stores billions of lines of code in a single repository (2016) [pdf]",
+      "https://dl.acm.org/doi/pdf/10.1145/2854146"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2023-02-12, 13:41:54",
-      "https://news.ycombinator.com/item?id=34762748"
+      "2023-02-12, 10:37:35",
+      "https://news.ycombinator.com/item?id=34761768"
     ],
     [
-      "Testing the Lua kernel interpreter in NetBSD (2021)",
-      "https://www.unitedbsd.com/d/590-testing-the-lua-kernel-interpreter"
+      "The program is the database is the interface",
+      "https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/"
     ]
   ],
   [
