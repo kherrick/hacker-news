@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-13, 04:26:47",
+      "https://news.ycombinator.com/item?id=34770108"
+    ],
+    [
+      "ArxivGPT: Chrome extension that summarizes arxived research papers using ChatGPT",
+      "https://github.com/hunkimForks/chatgpt-arxiv-extension"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 02:43:15",
       "https://news.ycombinator.com/item?id=34769574"
     ],
@@ -157,16 +167,6 @@
     [
       "Async message-oriented systems vs. REST for inter-microservice communications",
       "https://mats3.io/background/rationale-for-mats/"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 18:36:03",
-      "https://news.ycombinator.com/item?id=34765437"
-    ],
-    [
-      "Flow Manifest(o)",
-      "https://flowmanifest.org/"
     ]
   ],
   [
