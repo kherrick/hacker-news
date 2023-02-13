@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34771791"
     ],
     [
-      "How to get a heart attack while using JEB decompiler",
+      "How to get a heart attack while using JEB decompiler (2022)",
       "https://blog.stmcyber.com/how-to-get-a-heart-attack-while-using-jeb-decompiler/"
     ]
   ],
@@ -77,6 +77,16 @@
     [
       "Making a Homegrown ClickHouse Log for $20&#x2F;mo",
       "https://www.hybridlogic.co.uk/2023/02/clog/"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 08:51:50",
+      "https://news.ycombinator.com/item?id=34771472"
+    ],
+    [
+      "Go claims telemetry objectors arguing in bad faith and violating Code of Conduct",
+      "https://circumstances.run/@davidgerard/109848768306100450"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-02-12, 21:54:19",
-      "https://news.ycombinator.com/item?id=34767466"
-    ],
-    [
-      "Why I chose OpenAI over academia",
-      "https://rowanzellers.com/blog/rowan-job-search2/"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 20:50:34",
       "https://news.ycombinator.com/item?id=34766801"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2023-02-12, 20:19:25",
-      "https://news.ycombinator.com/item?id=34766452"
-    ],
-    [
-      "NoSQL: The Baby and the Bathwater",
-      "https://brooker.co.za/blog/2023/01/30/nosql.html"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 20:17:30",
       "https://news.ycombinator.com/item?id=34766444"
     ],
     [
       "A little bit of slope makes up for a lot of Y-intercept (2012)",
       "https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 18:48:09",
+      "https://news.ycombinator.com/item?id=34765578"
+    ],
+    [
+      "Async message-oriented systems vs. REST for inter-microservice communications",
+      "https://mats3.io/background/rationale-for-mats/"
     ]
   ],
   [
