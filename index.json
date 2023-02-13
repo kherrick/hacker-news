@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-13, 18:55:13",
+      "https://news.ycombinator.com/item?id=34778314"
+    ],
+    [
+      "Creator of Linux virtual assistant blames &#x27;patent troll&#x27; for project&#x27;s death",
+      "https://www.theregister.com/2023/02/13/linux_ai_assistant_killed_off/"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 18:50:58",
+      "https://news.ycombinator.com/item?id=34778237"
+    ],
+    [
+      "MIT No-AI License",
+      "https://ognjen.io/mit-no-ai/"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 18:13:39",
       "https://news.ycombinator.com/item?id=34777646"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2023-02-13, 17:59:40",
-      "https://news.ycombinator.com/item?id=34777401"
-    ],
-    [
-      "Ask HN: If you were not laid off, how are your 1:1 meetings going?",
-      "https://news.ycombinator.com/item?id=34777401"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 17:55:40",
       "https://news.ycombinator.com/item?id=34777325"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2023-02-13, 17:50:29",
-      "https://news.ycombinator.com/item?id=34777224"
+      "2023-02-13, 17:01:18",
+      "https://news.ycombinator.com/item?id=34776243"
     ],
     [
-      "Ask HN: Would anyone find this system fair?",
-      "https://news.ycombinator.com/item?id=34777224"
+      "Tell HN: Salesforce is mandating RTO 3 days&#x2F;wk for all employee",
+      "https://news.ycombinator.com/item?id=34776243"
     ]
   ],
   [
@@ -141,22 +151,22 @@
   ],
   [
     [
-      "2023-02-13, 15:40:08",
-      "https://news.ycombinator.com/item?id=34774823"
-    ],
-    [
-      "India’s government wants total control of the internet",
-      "https://www.wired.com/story/indias-government-wants-total-control-of-the-internet/"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 15:21:36",
       "https://news.ycombinator.com/item?id=34774498"
     ],
     [
       "Clojure Turns 15 panel discussion video",
       "https://www.youtube.com/watch?v=exSRG-iL74Q"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 14:55:15",
+      "https://news.ycombinator.com/item?id=34774118"
+    ],
+    [
+      "ESPP Calculator",
+      "https://espp.fyi"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2023-02-13, 04:01:39",
-      "https://news.ycombinator.com/item?id=34769970"
-    ],
-    [
-      "Illusion Diffusion: Optical Illusions Using Stable Diffusion",
-      "https://github.com/tancik/Illusion-Diffusion"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 08:30:24",
       "https://news.ycombinator.com/item?id=34761055"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-02-12, 00:09:39",
-      "https://news.ycombinator.com/item?id=34757904"
-    ],
-    [
-      "Some data centers are noisy neighbors",
-      "https://www.washingtonpost.com/dc-md-va/2023/02/10/data-centers-northern-virginia-internet/"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 13:47:12",
       "https://news.ycombinator.com/item?id=34752265"
     ],
     [
       "QwikTape: Do calculations, annotate like you would on a paper",
       "https://github.com/4silvertooth/QwikTape"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 07:36:31",
+      "https://news.ycombinator.com/item?id=34750382"
+    ],
+    [
+      "In Defense of Not-Invented-Here Syndrome (2001)",
+      "https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/"
     ]
   ]
 ]
