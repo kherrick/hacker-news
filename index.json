@@ -1,42 +1,32 @@
 [
   [
     [
+      "2023-02-13, 17:01:13",
+      "https://news.ycombinator.com/item?id=34776237"
+    ],
+    [
+      "TrueVault (YC W14) Is Hiring a Head of Engineering",
+      "https://www.ycombinator.com/companies/truevault/jobs/r9X5TLQ-head-of-engineering"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 16:40:26",
+      "https://news.ycombinator.com/item?id=34775853"
+    ],
+    [
+      "Bing AI Can&#x27;t Be Trusted",
+      "https://dkb.blog/p/bing-ai-cant-be-trusted"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 16:29:38",
       "https://news.ycombinator.com/item?id=34775667"
     ],
     [
       "Ask HN: AI “white mirror” – what are some inspiring future visions you&#x27;ve seen?",
       "https://news.ycombinator.com/item?id=34775667"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 16:21:31",
-      "https://news.ycombinator.com/item?id=34775529"
-    ],
-    [
-      "Tech Giants Are Building a Dystopia of Desperate Workers and Social Isolation",
-      "https://jacobin.com/2023/01/tech-friction-service-work-dystopia"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 16:06:57",
-      "https://news.ycombinator.com/item?id=34775299"
-    ],
-    [
-      "The AI Bubble of 2023",
-      "https://thereformedbroker.com/2023/02/07/the-ai-bubble-of-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 16:05:35",
-      "https://news.ycombinator.com/item?id=34775277"
-    ],
-    [
-      "Twilio to cut 17% staff, close offices to focus on profitability",
-      "https://www.reuters.com/technology/twilio-cut-17-staff-close-offices-focus-profitability-2023-02-13/"
     ]
   ],
   [
@@ -71,6 +61,16 @@
   ],
   [
     [
+      "2023-02-13, 15:43:40",
+      "https://news.ycombinator.com/item?id=34774891"
+    ],
+    [
+      "Loyal to the Company",
+      "https://dilbert.com/strip/2023-02-11"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 15:40:19",
       "https://news.ycombinator.com/item?id=34774827"
     ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=34774823"
     ],
     [
-      "India’s Government Wants Total Control of the Internet",
+      "India’s government wants total control of the internet",
       "https://www.wired.com/story/indias-government-wants-total-control-of-the-internet/"
     ]
   ],
@@ -107,6 +107,16 @@
     [
       "SQLite WASM: Something subtle in the browser",
       "https://blog.kebab-ca.se/chapters/2023-02-12-sqlite-wasm/overview.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 14:55:15",
+      "https://news.ycombinator.com/item?id=34774118"
+    ],
+    [
+      "ESPP Calculator",
+      "https://espp.fyi"
     ]
   ],
   [
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=34771771"
     ],
     [
-      "Electric Clojure: Unified fullstack application compiler",
+      "Electric Clojure – A signals DSL for full-stack web UI",
       "https://github.com/hyperfiddle/electric"
     ]
   ],
@@ -177,6 +187,16 @@
     [
       "We overestimate our short-term ability, but underestimate our long-term ability",
       "https://paavandesign.com/blog/ostaulta/"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 08:56:00",
+      "https://news.ycombinator.com/item?id=34771486"
+    ],
+    [
+      "Clog: Making a homegrown ClickHouse log for $20 a month",
+      "https://www.hybridlogic.co.uk/2023/02/clog/"
     ]
   ],
   [
@@ -251,21 +271,11 @@
   ],
   [
     [
-      "2023-02-12, 10:37:35",
-      "https://news.ycombinator.com/item?id=34761768"
-    ],
-    [
-      "The program is the database is the interface",
-      "https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 07:11:14",
       "https://news.ycombinator.com/item?id=34760632"
     ],
     [
-      "How to Keep a Great Magazine Going",
+      "How to keep a great magazine going",
       "https://www.texasmonthly.com/the-stand-up-desk/how-texas-monthly-magazine-kept-publishing-50-year-anniversary/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Some data centers are noisy neighbors",
       "https://www.washingtonpost.com/dc-md-va/2023/02/10/data-centers-northern-virginia-internet/"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 15:54:37",
-      "https://news.ycombinator.com/item?id=34753407"
-    ],
-    [
-      "Show HN: Toodle.Studio is an art playground with Lisp and turtles",
-      "https://toodle.studio"
     ]
   ]
 ]
