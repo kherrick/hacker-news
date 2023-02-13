@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-13, 23:26:01",
+      "https://news.ycombinator.com/item?id=34782513"
+    ],
+    [
+      "War and subsidies have turbocharged the green transition",
+      "https://www.economist.com/finance-and-economics/2023/02/13/war-and-subsidies-have-turbocharged-the-green-transition"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 22:12:58",
       "https://news.ycombinator.com/item?id=34781525"
     ],
@@ -47,6 +57,16 @@
     [
       "Reimplementing the Coreutils in a modern language (Rust)",
       "https://fosdem.org/2023/schedule/event/rust_coreutils/"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 21:28:24",
+      "https://news.ycombinator.com/item?id=34780859"
+    ],
+    [
+      "So what’s next (personal news from developer of popular CoreJS polyfill",
+      "https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-02-13, 09:45:25",
-      "https://news.ycombinator.com/item?id=34771739"
-    ],
-    [
-      "We overestimate our short-term ability, but underestimate our long-term ability",
-      "https://paavandesign.com/blog/ostaulta/"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 08:13:19",
       "https://news.ycombinator.com/item?id=34771263"
     ],
@@ -257,16 +267,6 @@
     [
       "QwikTape: Do calculations, annotate like you would on a paper",
       "https://github.com/4silvertooth/QwikTape"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 07:36:31",
-      "https://news.ycombinator.com/item?id=34750382"
-    ],
-    [
-      "In Defense of Not-Invented-Here Syndrome (2001)",
-      "https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/"
     ]
   ],
   [
