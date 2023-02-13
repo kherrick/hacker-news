@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-02-13, 00:22:21",
+      "https://news.ycombinator.com/item?id=34768668"
+    ],
+    [
+      "Re-License Vaultwarden to AGPLv3",
+      "https://github.com/dani-garcia/vaultwarden/pull/2561"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 00:08:58",
+      "https://news.ycombinator.com/item?id=34768589"
+    ],
+    [
+      "A Clever Radio Trick Can Tell If a Drone Is Watching You (2018)",
+      "https://www.wired.com/story/a-clever-radio-trick-can-tell-if-a-drone-is-watching-you/"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 00:02:23",
+      "https://news.ycombinator.com/item?id=34768550"
+    ],
+    [
+      "NameCheap&#x27;s email hacked to send Metamask, DHL phishing emails",
+      "https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 23:51:59",
+      "https://news.ycombinator.com/item?id=34768483"
+    ],
+    [
+      "Transparent Aluminum",
+      "https://en.wikipedia.org/wiki/Aluminium_oxynitride"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 23:29:34",
+      "https://news.ycombinator.com/item?id=34768320"
+    ],
+    [
+      "ESA: Small meteorite will safely impact atmosphere tonight over northern France",
+      "https://twitter.com/esaoperations/status/1624901825785724929"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 22:26:41",
       "https://news.ycombinator.com/item?id=34767795"
     ],
@@ -11,12 +61,12 @@
   ],
   [
     [
-      "2023-02-12, 22:25:38",
-      "https://news.ycombinator.com/item?id=34767787"
+      "2023-02-12, 22:07:13",
+      "https://news.ycombinator.com/item?id=34767613"
     ],
     [
-      "Where is ChatGPT taking us? And do we want to follow?",
-      "https://hub.jhu.edu/2023/02/09/chatgpt-qa-khashabi/"
+      "Futurist Programming Notes",
+      "http://www.graficaobscura.com/future/futnotes.html"
     ]
   ],
   [
@@ -25,18 +75,8 @@
       "https://news.ycombinator.com/item?id=34767466"
     ],
     [
-      "I chose OpenAI over academia: reflections academic and industry job markets",
+      "I chose OpenAI over academia: reflections on academic and industry job markets",
       "https://rowanzellers.com/blog/rowan-job-search2/"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 21:50:47",
-      "https://news.ycombinator.com/item?id=34767430"
-    ],
-    [
-      "“SILEX is the only privately held information that is classified by the US gov.”",
-      "https://en.wikipedia.org/wiki/Separation_of_isotopes_by_laser_excitation"
     ]
   ],
   [
@@ -105,18 +145,8 @@
       "https://news.ycombinator.com/item?id=34765578"
     ],
     [
-      "Async message-oriented architectures compared to synchronous REST-based systems",
+      "Async message-oriented systems vs. REST for inter-microservice communications",
       "https://mats3.io/background/rationale-for-mats/"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 18:44:18",
-      "https://news.ycombinator.com/item?id=34765539"
-    ],
-    [
-      "A tiny genetic change inflicts old age on young kids",
-      "https://www.nature.com/articles/d41586-023-00355-z"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2023-02-12, 16:50:04",
-      "https://news.ycombinator.com/item?id=34764318"
-    ],
-    [
-      "Leonardo noted link between gravity and acceleration centuries before Einstein",
-      "https://arstechnica.com/science/2023/02/leonardo-noted-link-between-gravity-and-acceleration-centuries-before-einstein/"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 15:46:01",
       "https://news.ycombinator.com/item?id=34763681"
     ],
@@ -231,42 +251,12 @@
   ],
   [
     [
-      "2023-02-12, 09:46:54",
-      "https://news.ycombinator.com/item?id=34761502"
-    ],
-    [
-      "Simple Physics-based Flight Simulation with C++",
-      "https://www.jakobmaier.at/posts/flight-simulation/"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 02:50:19",
-      "https://news.ycombinator.com/item?id=34759159"
-    ],
-    [
-      "Mirror Fever: The history of mirror halls in France and China",
-      "https://www.laphamsquarterly.org/roundtable/mirror-fever"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 13:32:32",
       "https://news.ycombinator.com/item?id=34752173"
     ],
     [
       "Siliwiz – A Semiconductor Simulator",
       "https://app.siliwiz.com/"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 09:19:54",
-      "https://news.ycombinator.com/item?id=34750798"
-    ],
-    [
-      "Creatively Misusing TLA+",
-      "https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/"
     ]
   ],
   [
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2023-02-11, 07:42:11",
+      "https://news.ycombinator.com/item?id=34750420"
+    ],
+    [
+      "Designing Access Methods: The RUM Conjecture",
+      "http://muratbuffalo.blogspot.com/2023/02/designing-access-methods-rum-conjecture.html"
+    ]
+  ],
+  [
+    [
       "2023-02-11, 07:18:42",
       "https://news.ycombinator.com/item?id=34750305"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-02-10, 21:31:40",
-      "https://news.ycombinator.com/item?id=34746162"
+      "2023-02-11, 04:55:06",
+      "https://news.ycombinator.com/item?id=34749724"
     ],
     [
-      "Raytheon High-Energy Laser",
-      "https://www.raytheonintelligenceandspace.com/what-we-do/advanced-tech/lasers"
+      "My review of the C standard library in practice",
+      "https://nullprogram.com/blog/2023/02/11/"
     ]
   ]
 ]
