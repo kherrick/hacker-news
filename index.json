@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-02-13, 17:14:50",
+      "https://news.ycombinator.com/item?id=34776523"
+    ],
+    [
+      "Pepper Spray Your Officers",
+      "https://yakkomajuri.com/blog/pepper-spray-your-officers"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 17:12:36",
+      "https://news.ycombinator.com/item?id=34776474"
+    ],
+    [
+      "Twilio to lay off about 1,500 employees, or 17% of its workforce",
+      "https://www.cnbc.com/2023/02/13/twilio-layoffs-1500-employees-17percent-of-workforce.html"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 17:01:13",
       "https://news.ycombinator.com/item?id=34776237"
     ],
     [
       "TrueVault (YC W14) Is Hiring a Head of Engineering",
       "https://www.ycombinator.com/companies/truevault/jobs/r9X5TLQ-head-of-engineering"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 16:58:30",
+      "https://news.ycombinator.com/item?id=34776188"
+    ],
+    [
+      "Z-Library Returns on the Clearnet in Full Hydra-Mode",
+      "https://torrentfreak.com/z-library-returns-on-the-clearnet-in-full-hydra-mode-230213/"
     ]
   ],
   [
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2023-02-13, 16:29:38",
-      "https://news.ycombinator.com/item?id=34775667"
+      "2023-02-13, 16:21:31",
+      "https://news.ycombinator.com/item?id=34775529"
     ],
     [
-      "Ask HN: AI “white mirror” – what are some inspiring future visions you&#x27;ve seen?",
-      "https://news.ycombinator.com/item?id=34775667"
+      "Tech Giants Are Building a Dystopia of Desperate Workers and Social Isolation",
+      "https://jacobin.com/2023/01/tech-friction-service-work-dystopia"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-02-13, 14:40:29",
-      "https://news.ycombinator.com/item?id=34773914"
-    ],
-    [
-      "Tyler Cowen on the Great Stagnation, pro-progress policy, metascience, and more",
-      "https://fasterplease.substack.com/p/tyler-cowen-on-the-state-of-the-great"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 14:06:42",
       "https://news.ycombinator.com/item?id=34773502"
     ],
@@ -147,16 +167,6 @@
     [
       "Launch HN: Lago (YC S21) – Open-source usage-based billing",
       "https://news.ycombinator.com/item?id=34773442"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 13:49:34",
-      "https://news.ycombinator.com/item?id=34773305"
-    ],
-    [
-      "Ask HN: RSS Feed for Comments?",
-      "https://news.ycombinator.com/item?id=34773305"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "We overestimate our short-term ability, but underestimate our long-term ability",
       "https://paavandesign.com/blog/ostaulta/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 08:56:00",
-      "https://news.ycombinator.com/item?id=34771486"
-    ],
-    [
-      "Clog: Making a homegrown ClickHouse log for $20 a month",
-      "https://www.hybridlogic.co.uk/2023/02/clog/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-02-12, 20:50:34",
-      "https://news.ycombinator.com/item?id=34766801"
-    ],
-    [
-      "Multi-Account Containers",
-      "https://support.mozilla.org/en-US/kb/containers"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 07:11:14",
       "https://news.ycombinator.com/item?id=34760632"
     ],
@@ -297,6 +287,16 @@
     [
       "Some data centers are noisy neighbors",
       "https://www.washingtonpost.com/dc-md-va/2023/02/10/data-centers-northern-virginia-internet/"
+    ]
+  ],
+  [
+    [
+      "2023-02-11, 13:47:12",
+      "https://news.ycombinator.com/item?id=34752265"
+    ],
+    [
+      "QwikTape: Do calculations, annotate like you would on a paper",
+      "https://github.com/4silvertooth/QwikTape"
     ]
   ]
 ]
