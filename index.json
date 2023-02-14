@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-14, 19:44:53",
+      "https://news.ycombinator.com/item?id=34794866"
+    ],
+    [
+      "Ford halts production, shipments of F-150 Lightning over possible battery issue",
+      "https://www.reuters.com/business/autos-transportation/ford-halts-production-shipment-f-150-lightning-electric-truck-cnbc-2023-02-14/"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 19:37:19",
+      "https://news.ycombinator.com/item?id=34794753"
+    ],
+    [
+      "Videos show Turkey&#x27;s Erdogan boasted letting builders avoid earthquake codes",
+      "https://www.npr.org/2023/02/13/1156512284/turkey-earthquake-erdogan-building-safety"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 19:13:39",
       "https://news.ycombinator.com/item?id=34794418"
     ],
@@ -21,31 +41,11 @@
   ],
   [
     [
-      "2023-02-14, 18:54:56",
-      "https://news.ycombinator.com/item?id=34794148"
-    ],
-    [
-      "GitHub&#x27;s Copilot AI for Business now available for $19&#x2F;month",
-      "https://techcrunch.com/2023/02/14/githubs-copilot-for-business-is-now-generally-available/"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 18:38:03",
-      "https://news.ycombinator.com/item?id=34793897"
-    ],
-    [
-      "One thing for founders to know about Business Systems",
-      "https://ghiculescu.substack.com/p/1-thing-for-founders-to-learn-about"
-    ]
-  ],
-  [
-    [
       "2023-02-14, 18:27:08",
       "https://news.ycombinator.com/item?id=34793714"
     ],
     [
-      "Build Your Own Fast, Persistent, Toy KV Store",
+      "Build Your Own Fast, Persistent KV Store",
       "https://dinesh.wiki/posts/build-your-own-persistent-kv-store/"
     ]
   ],
@@ -117,16 +117,6 @@
     [
       "Microsoft&#x27;s AI Bing also generated factual errors at launch",
       "https://www.theregister.com/2023/02/14/microsoft_ai_bing_error/"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 16:12:32",
-      "https://news.ycombinator.com/item?id=34791474"
-    ],
-    [
-      "Whistleblowers Take Note: Don’t Trust Cropping Tools",
-      "https://theintercept.com/2023/02/14/whistleblower-image-crop-document/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Supabase (YC S20) Is Hiring a Technical Documentation Lead (Remote)",
       "https://boards.greenhouse.io/supabase/jobs/4796595004"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 13:08:34",
+      "https://news.ycombinator.com/item?id=34772954"
+    ],
+    [
+      "IBM&#x27;s SSEC, the First Computer That Can Modify a Stored Program",
+      "https://www.historyofinformation.com/detail.php?id=665"
     ]
   ],
   [
