@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-02-14, 11:12:17",
+      "https://news.ycombinator.com/item?id=34787844"
+    ],
+    [
+      "Rust vs. Haskell",
+      "https://serokell.io/blog/rust-vs-haskell"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 11:04:36",
       "https://news.ycombinator.com/item?id=34787782"
     ],
     [
       "BBC offices in India raided by tax officials amid Modi documentary fallout",
       "https://www.theguardian.com/world/2023/feb/14/bbc-offices-india-raided-tax-officials-modi-documentary-fallout"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 10:31:58",
+      "https://news.ycombinator.com/item?id=34787602"
+    ],
+    [
+      "Go Ahead and Ban My Book",
+      "https://www.theatlantic.com/ideas/archive/2023/02/margaret-atwood-handmaids-tale-virginia-book-ban-library-removal/673013/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-02-13, 23:24:37",
-      "https://news.ycombinator.com/item?id=34782491"
-    ],
-    [
-      "Using Lua with C++",
-      "https://edw.is/using-lua-with-cpp/"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 23:08:13",
       "https://news.ycombinator.com/item?id=34782287"
     ],
@@ -167,16 +177,6 @@
     [
       "The retaliation: Pranking my roommate with targeted Facebook ads (2014)",
       "http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 19:29:04",
-      "https://news.ycombinator.com/item?id=34778921"
-    ],
-    [
-      "Fast Debian package builds using sbuild, mmdebstrap and apt-cacher-ng",
-      "https://stephan.lachnit.xyz/posts/2023-02-08-debian-sbuild-mmdebstrap-apt-cacher-ng/"
     ]
   ],
   [
