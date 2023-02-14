@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34789355"
     ],
     [
-      "Startups that Have Employees In Offices Grow 3½ Times Faster",
+      "Pre-seed, seed startups with employees in office have higher revenue growth",
       "https://steveblank.com/2023/02/14/startups-that-have-employees-in-offices-grow-3-%c2%bd-times-faster/"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "Harvesting credit card numbers and passwords from your site (2018)",
       "https://david-gilbertson.medium.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 09:25:34",
-      "https://news.ycombinator.com/item?id=34787197"
-    ],
-    [
-      "Cloudflare mitigates record-breaking 71M request-per-second DDoS attack",
-      "https://blog.cloudflare.com/cloudflare-mitigates-record-breaking-71-million-request-per-second-ddos-attack/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Launch HN: Lago (YC S21) – Open-source usage-based billing",
       "https://news.ycombinator.com/item?id=34773442"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 12:12:30",
+      "https://news.ycombinator.com/item?id=34772586"
+    ],
+    [
+      "Show HN: Lockval Engine – A distributed backend KV engine that can run scripts",
+      "https://lockval.com"
     ]
   ],
   [
