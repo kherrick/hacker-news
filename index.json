@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-02-14, 04:42:33",
-      "https://news.ycombinator.com/item?id=34785392"
-    ],
-    [
-      "Ask HN: Will Microsoft be liable for defamatory Bing statements?",
-      "https://news.ycombinator.com/item?id=34785392"
-    ]
-  ],
-  [
-    [
       "2023-02-14, 04:36:37",
       "https://news.ycombinator.com/item?id=34785350"
     ],
@@ -81,22 +71,32 @@
   ],
   [
     [
+      "2023-02-13, 23:26:01",
+      "https://news.ycombinator.com/item?id=34782513"
+    ],
+    [
+      "War and subsidies have turbocharged the green transition",
+      "https://www.economist.com/finance-and-economics/2023/02/13/war-and-subsidies-have-turbocharged-the-green-transition"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 23:24:37",
+      "https://news.ycombinator.com/item?id=34782491"
+    ],
+    [
+      "Using Lua with C++",
+      "https://edw.is/using-lua-with-cpp/"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 23:08:13",
       "https://news.ycombinator.com/item?id=34782287"
     ],
     [
       "pix2pix-zero: Zero-Shot Image-to-Image Translation",
       "https://pix2pixzero.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 21:48:13",
-      "https://news.ycombinator.com/item?id=34781163"
-    ],
-    [
-      "GPU Video acceleration in the Windows Subsystem for Linux now available",
-      "https://devblogs.microsoft.com/commandline/d3d12-gpu-video-acceleration-in-the-windows-subsystem-for-linux-now-available/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-02-13, 15:21:36",
+      "https://news.ycombinator.com/item?id=34774498"
+    ],
+    [
+      "Clojure Turns 15 panel discussion video",
+      "https://www.youtube.com/watch?v=exSRG-iL74Q"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 14:01:29",
       "https://news.ycombinator.com/item?id=34773442"
     ],
@@ -207,16 +217,6 @@
     [
       "How does human echolocation work? (2017)",
       "https://www.smithsonianmag.com/innovation/how-does-human-echolocation-work-180965063/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 00:14:04",
-      "https://news.ycombinator.com/item?id=34768618"
-    ],
-    [
-      "Lost Letters by Mary, Queen of Scots, Uncovered by Code Breakers",
-      "https://www.nytimes.com/2023/02/08/world/europe/mary-queen-of-scots-letters.html"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=34750304"
     ],
     [
-      "What Colour are your bits? (2004)",
+      "What colour are your bits? (2004)",
       "https://ansuz.sooke.bc.ca/entry/23"
     ]
   ],
