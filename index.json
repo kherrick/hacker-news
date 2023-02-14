@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-14, 13:33:36",
+      "https://news.ycombinator.com/item?id=34788988"
+    ],
+    [
+      "Inflation rose more than expected, up 6.4% from a year ago",
+      "https://www.cnbc.com/2023/02/14/consumer-price-index-january-2023-.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 13:24:56",
+      "https://news.ycombinator.com/item?id=34788894"
+    ],
+    [
+      "Watchdog and West Yorkshire police raid crypto ATM operators in UK first",
+      "https://www.theguardian.com/technology/2023/feb/14/fca-and-west-yorkshire-police-raid-crypto-operators-in-uk-first"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 13:10:59",
+      "https://news.ycombinator.com/item?id=34788764"
+    ],
+    [
+      "The Witch Trials of J.K. Rowling",
+      "https://www.thefp.com/p/the-witch-trials-of-jk-rowling"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 13:06:21",
       "https://news.ycombinator.com/item?id=34788714"
     ],
@@ -77,16 +107,6 @@
     [
       "Consultancies know less than they claim and cost more than they seem to",
       "https://www.ft.com/content/fb1254dd-a011-44cc-bde9-a434e5a09fb4"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 10:22:32",
-      "https://news.ycombinator.com/item?id=34787546"
-    ],
-    [
-      "C++23 “Pandemic Edition” is complete",
-      "https://herbsutter.com/2023/02/13/c23-pandemic-edition-is-complete-trip-report-winter-iso-c-standards-meeting-issaquah-wa-usa/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-02-13, 23:24:37",
-      "https://news.ycombinator.com/item?id=34782491"
-    ],
-    [
-      "Using Lua with C++",
-      "https://edw.is/using-lua-with-cpp/"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 23:08:13",
       "https://news.ycombinator.com/item?id=34782287"
     ],
@@ -227,16 +237,6 @@
     [
       "Launch HN: Lago (YC S21) – Open-source usage-based billing",
       "https://news.ycombinator.com/item?id=34773442"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 12:12:30",
-      "https://news.ycombinator.com/item?id=34772586"
-    ],
-    [
-      "Show HN: Lockval Engine – a distributed backend KV engine that can run scripts",
-      "https://lockval.com"
     ]
   ],
   [
