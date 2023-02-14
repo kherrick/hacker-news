@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-02-14, 14:27:57",
+      "https://news.ycombinator.com/item?id=34789752"
+    ],
+    [
+      "Arkansas Proposes Requiring ID to Watch Porn Online",
+      "https://www.vice.com/en/article/akexaz/arkansas-porn-sites-id-age-verification"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 14:24:55",
       "https://news.ycombinator.com/item?id=34789698"
     ],
     [
       "Show HN: Data Painter – A Different Way to Interact with Your Data",
       "https://docs.kanaries.net/rath/tutorials/data-painter/"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 14:24:36",
+      "https://news.ycombinator.com/item?id=34789688"
+    ],
+    [
+      "Health concerns grow in East Palestine, Ohio, after train derailment",
+      "https://www.npr.org/2023/02/14/1156567743/health-east-palestine-ohio-train-derailment-chemicals"
     ]
   ],
   [
@@ -31,32 +51,22 @@
   ],
   [
     [
+      "2023-02-14, 13:24:28",
+      "https://news.ycombinator.com/item?id=34788890"
+    ],
+    [
+      "Curl audit: How a joke led to significant findings",
+      "https://blog.trailofbits.com/2023/02/14/curl-audit-fuzzing-libcurl-command-line-interface/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 13:06:21",
       "https://news.ycombinator.com/item?id=34788714"
     ],
     [
       "Rust went from side project to world’s fastest growing language",
       "https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 12:21:51",
-      "https://news.ycombinator.com/item?id=34788331"
-    ],
-    [
-      "US defence forces no match for the unstoppable fiend known as Reply-All",
-      "https://www.theregister.com/2023/02/14/us_army_reply_all_storm/"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 11:40:44",
-      "https://news.ycombinator.com/item?id=34788029"
-    ],
-    [
-      "Tesla Workers Launch Union Campaign in New York",
-      "https://www.bloomberg.com/news/articles/2023-02-14/tesla-autopilot-workers-launch-union-campaign-in-buffalo-new-york-tsla"
     ]
   ],
   [
@@ -121,12 +131,32 @@
   ],
   [
     [
+      "2023-02-14, 09:35:45",
+      "https://news.ycombinator.com/item?id=34787255"
+    ],
+    [
+      "Data-Free Disney",
+      "https://www.publicbooks.org/data-free-disney/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 09:02:47",
       "https://news.ycombinator.com/item?id=34787092"
     ],
     [
       "Data Classification: Does Python still have a need for class without dataclass?",
       "https://blog.glyph.im/2023/02/data-classification.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 08:38:25",
+      "https://news.ycombinator.com/item?id=34786921"
+    ],
+    [
+      "Gibson Research Corporation&#x27;s Ultra-High Entropy Pseudo-Random Number Generator",
+      "https://www.grc.com/otg/uheprng.htm"
     ]
   ],
   [
@@ -187,26 +217,6 @@
     [
       "The retaliation: Pranking my roommate with targeted Facebook ads (2014)",
       "http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 18:50:31",
-      "https://news.ycombinator.com/item?id=34778224"
-    ],
-    [
-      "Declarative Shadow DOM",
-      "https://webkit.org/blog/13851/declarative-shadow-dom/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 17:55:40",
-      "https://news.ycombinator.com/item?id=34777325"
-    ],
-    [
-      "Modern Mono",
-      "https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Coping with nontermination: some thoughts on stopping loops",
       "https://outerproduct.net/boring/2023-02-11_term-loop.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 09:17:51",
-      "https://news.ycombinator.com/item?id=34761342"
-    ],
-    [
-      "Routes don&#x27;t look flat enough to me",
-      "https://www.pixelated-noise.com/blog/2023/02/09/flatten-routes/index.html"
     ]
   ],
   [
