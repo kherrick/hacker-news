@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-14, 21:14:19",
+      "https://news.ycombinator.com/item?id=34796087"
+    ],
+    [
+      "Biggest Barrier to Biking Is a Fear of Cars",
+      "https://www.treehugger.com/fear-of-cars-biggest-biking-barrier-study-6979522"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 20:38:57",
+      "https://news.ycombinator.com/item?id=34795609"
+    ],
+    [
+      "ClimateJets: Private Jet Emissions",
+      "https://climatejets.org/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 20:32:35",
       "https://news.ycombinator.com/item?id=34795527"
     ],
@@ -107,16 +127,6 @@
     [
       "Build Your Own Fast, Persistent KV Store",
       "https://dinesh.wiki/posts/build-your-own-persistent-kv-store/"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 18:10:15",
-      "https://news.ycombinator.com/item?id=34793414"
-    ],
-    [
-      "Hyundai and Kia forced to update millions of vehicles due to TikTok challenge",
-      "https://www.theverge.com/2023/2/14/23599300/hyundai-kia-car-theft-software-update-free-tiktok-challenge"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Vxlan over WireGuard (On OpenBSD)",
       "https://rob-turner.net/post/vx-lan/"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 11:38:50",
-      "https://news.ycombinator.com/item?id=34788020"
-    ],
-    [
-      "Ruff: A fast Python linter, written in Rust",
-      "https://beta.ruff.rs/docs/"
     ]
   ],
   [
