@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-02-14, 22:11:45",
+      "https://news.ycombinator.com/item?id=34796917"
+    ],
+    [
+      "GitHub Copilot for Business is now available",
+      "https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 21:48:59",
       "https://news.ycombinator.com/item?id=34796611"
     ],
     [
       "What Is ChatGPT Doing and Why Does It Work?",
       "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 21:26:39",
+      "https://news.ycombinator.com/item?id=34796277"
+    ],
+    [
+      "The Case for Frameworks",
+      "https://seldo.com/posts/the_case_for_frameworks"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-02-14, 18:35:03",
-      "https://news.ycombinator.com/item?id=34793858"
-    ],
-    [
-      "WebContainer API",
-      "https://webcontainers.io/"
-    ]
-  ],
-  [
-    [
       "2023-02-14, 18:27:08",
       "https://news.ycombinator.com/item?id=34793714"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=34793414"
     ],
     [
-      "Hyundai and Kia forced to update millions of vehicles due to TikTok challenge",
+      "Hyundai, Kia to update security on millions of vehicles after TikTok challenge",
       "https://www.theverge.com/2023/2/14/23599300/hyundai-kia-car-theft-software-update-free-tiktok-challenge"
     ]
   ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2023-02-14, 14:24:36",
-      "https://news.ycombinator.com/item?id=34789688"
-    ],
-    [
-      "Health concerns grow in East Palestine, Ohio, after train derailment",
-      "https://www.npr.org/2023/02/14/1156567743/health-east-palestine-ohio-train-derailment-chemicals"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 13:33:38",
-      "https://news.ycombinator.com/item?id=34788989"
-    ],
-    [
-      "Vxlan over WireGuard (On OpenBSD)",
-      "https://rob-turner.net/post/vx-lan/"
-    ]
-  ],
-  [
-    [
       "2023-02-14, 11:11:53",
       "https://news.ycombinator.com/item?id=34787838"
     ],
@@ -297,6 +287,16 @@
     [
       "Excel Functions in F# Language",
       "https://www.sharpcells.com/"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 07:08:06",
+      "https://news.ycombinator.com/item?id=34760624"
+    ],
+    [
+      "On Being the Ideal Reader of Tom Wolfe’s School of New Journalism (2018)",
+      "https://www.newyorker.com/culture/cultural-comment/on-being-the-ideal-reader-of-tom-wolfes-school-of-new-journalism"
     ]
   ]
 ]
