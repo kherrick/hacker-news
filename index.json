@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-14, 13:06:21",
+      "https://news.ycombinator.com/item?id=34788714"
+    ],
+    [
+      "Rust went from side project to world’s fastest growing language",
+      "https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 12:21:51",
       "https://news.ycombinator.com/item?id=34788331"
     ],
@@ -57,16 +67,6 @@
     [
       "BBC offices in India raided by tax officials amid Modi documentary fallout",
       "https://www.theguardian.com/world/2023/feb/14/bbc-offices-india-raided-tax-officials-modi-documentary-fallout"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 10:31:58",
-      "https://news.ycombinator.com/item?id=34787602"
-    ],
-    [
-      "Go Ahead and Ban My Book",
-      "https://www.theatlantic.com/ideas/archive/2023/02/margaret-atwood-handmaids-tale-virginia-book-ban-library-removal/673013/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-02-13, 23:24:37",
+      "https://news.ycombinator.com/item?id=34782491"
+    ],
+    [
+      "Using Lua with C++",
+      "https://edw.is/using-lua-with-cpp/"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 23:08:13",
       "https://news.ycombinator.com/item?id=34782287"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2023-02-13, 07:49:59",
-      "https://news.ycombinator.com/item?id=34771135"
+      "2023-02-13, 12:12:30",
+      "https://news.ycombinator.com/item?id=34772586"
     ],
     [
-      "Korg: Tekt NTS-2 Oscilloscope Kit",
-      "https://www.thomann.ae/korg_nu_tekt_nts_2_oscilloscope_kit.htm"
+      "Show HN: Lockval Engine – a distributed backend KV engine that can run scripts",
+      "https://lockval.com"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Coping with nontermination: some thoughts on stopping loops",
       "https://outerproduct.net/boring/2023-02-11_term-loop.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 09:17:51",
-      "https://news.ycombinator.com/item?id=34761342"
-    ],
-    [
-      "Routes don&#x27;t look flat enough to me",
-      "https://www.pixelated-noise.com/blog/2023/02/09/flatten-routes/index.html"
     ]
   ],
   [
