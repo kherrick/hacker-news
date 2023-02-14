@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-14, 23:03:40",
+      "https://news.ycombinator.com/item?id=34797488"
+    ],
+    [
+      "Tesla goes down across Europe leaving some drivers unable to charge cars",
+      "https://metro.co.uk/2023/02/14/tesla-goes-down-across-europe-leaving-some-drivers-unable-to-charge-cars-18282364/"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 22:52:19",
+      "https://news.ycombinator.com/item?id=34797380"
+    ],
+    [
+      "“Tired of being treated like robots,” Tesla Autopilot workers try to unionize",
+      "https://arstechnica.com/tech-policy/2023/02/tesla-autopilot-workers-try-to-unionize-are-tired-of-being-treated-like-robots/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 22:11:45",
       "https://news.ycombinator.com/item?id=34796917"
     ],
@@ -27,16 +47,6 @@
     [
       "The Case for Frameworks",
       "https://seldo.com/posts/the_case_for_frameworks"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 20:58:31",
-      "https://news.ycombinator.com/item?id=34795886"
-    ],
-    [
-      "Ask HN: Open-source ChatGPT alternatives?",
-      "https://news.ycombinator.com/item?id=34795886"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Build your own fast, persistent KV store",
       "https://dinesh.wiki/posts/build-your-own-persistent-kv-store/"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 18:10:15",
-      "https://news.ycombinator.com/item?id=34793414"
-    ],
-    [
-      "Hyundai, Kia to update security on millions of vehicles after TikTok challenge",
-      "https://www.theverge.com/2023/2/14/23599300/hyundai-kia-car-theft-software-update-free-tiktok-challenge"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2023-02-14, 14:24:36",
-      "https://news.ycombinator.com/item?id=34789688"
-    ],
-    [
-      "Health concerns grow in East Palestine, Ohio, after train derailment",
-      "https://www.npr.org/2023/02/14/1156567743/health-east-palestine-ohio-train-derailment-chemicals"
-    ]
-  ],
-  [
-    [
       "2023-02-14, 11:11:53",
       "https://news.ycombinator.com/item?id=34787838"
     ],
     [
       "Turning a TV set-top box into a Linux computer (2022)",
       "https://zeus.ugent.be/blog/22-23/repurposing_ewaste/"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 06:17:18",
+      "https://news.ycombinator.com/item?id=34786075"
+    ],
+    [
+      "An Interactive Explanation of Quadtrees",
+      "https://jimkang.com/quadtreevis/"
     ]
   ],
   [
