@@ -1,22 +1,52 @@
 [
   [
     [
+      "2023-02-14, 01:37:37",
+      "https://news.ycombinator.com/item?id=34783940"
+    ],
+    [
+      "A grim environmental disaster is happening in Ohio and you&#x27;ve not heard about it",
+      "https://www.fastcompany.com/90848025/ohio-train-derailment-toxic-chemicals-pvc-spill-fire-disaster"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 01:36:42",
+      "https://news.ycombinator.com/item?id=34783930"
+    ],
+    [
+      "Better without AI (by David Chapman meaningness)",
+      "https://betterwithout.ai/"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 00:43:47",
+      "https://news.ycombinator.com/item?id=34783475"
+    ],
+    [
+      "More than five whys and “layer eight” problems",
+      "http://rachelbythebay.com/w/2023/02/13/broken/"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 00:40:46",
+      "https://news.ycombinator.com/item?id=34783447"
+    ],
+    [
+      "Google’s Fully Homomorphic Encryption Compiler – A Primer",
+      "https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 00:35:39",
       "https://news.ycombinator.com/item?id=34783366"
     ],
     [
       "U.S. Copyright Office Tells Judge That AI Artwork Isn’t Protectable",
       "https://petapixel.com/2023/02/09/u-s-copyright-office-tells-judge-that-ai-artwork-isnt-protectable/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 23:54:46",
-      "https://news.ycombinator.com/item?id=34782814"
-    ],
-    [
-      "Walmart to close three tech hubs, tells tech staff to return to offices",
-      "https://www.wsj.com/articles/walmart-to-close-three-tech-hubs-tells-tech-staff-to-return-to-offices-3fb131e4"
     ]
   ],
   [
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2023-02-13, 21:11:51",
-      "https://news.ycombinator.com/item?id=34780579"
-    ],
-    [
-      "Show HN: I made Hacker News but for research papers",
-      "https://paperlist.io/"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 21:01:15",
       "https://news.ycombinator.com/item?id=34780402"
     ],
     [
       "Zentail (YC S12) Is Hiring a Sr Software Engineer in Columbia, MD (Series A)",
       "https://jobs.lever.co/zentail/0ec12095-ccbb-4915-a10e-a06872dee948"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 20:57:33",
-      "https://news.ycombinator.com/item?id=34780343"
-    ],
-    [
-      "Let Teenagers Sleep",
-      "https://www.scientificamerican.com/article/let-teenagers-sleep/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Fast Debian package builds using sbuild, mmdebstrap and apt-cacher-ng",
       "https://stephan.lachnit.xyz/posts/2023-02-08-debian-sbuild-mmdebstrap-apt-cacher-ng/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 18:55:13",
-      "https://news.ycombinator.com/item?id=34778314"
-    ],
-    [
-      "Creator of Linux virtual assistant blames &#x27;patent troll&#x27; for project&#x27;s death",
-      "https://www.theregister.com/2023/02/13/linux_ai_assistant_killed_off/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-02-13, 16:22:38",
-      "https://news.ycombinator.com/item?id=34775549"
-    ],
-    [
-      "The bottom emoji breaks rust-analyzer",
-      "https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 15:21:36",
       "https://news.ycombinator.com/item?id=34774498"
     ],
@@ -241,6 +231,36 @@
   ],
   [
     [
+      "2023-02-13, 12:12:30",
+      "https://news.ycombinator.com/item?id=34772586"
+    ],
+    [
+      "Show HN: Lockval Engine – a distributed back end KV engine that can run scripts",
+      "https://lockval.com"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 06:14:56",
+      "https://news.ycombinator.com/item?id=34770688"
+    ],
+    [
+      "How Does Human Echolocation Work?",
+      "https://www.smithsonianmag.com/innovation/how-does-human-echolocation-work-180965063/"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 09:17:51",
+      "https://news.ycombinator.com/item?id=34761342"
+    ],
+    [
+      "Routes don&#x27;t look flat enough to me",
+      "https://www.pixelated-noise.com/blog/2023/02/09/flatten-routes/index.html"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 08:48:25",
       "https://news.ycombinator.com/item?id=34761162"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-02-11, 07:36:31",
-      "https://news.ycombinator.com/item?id=34750382"
-    ],
-    [
-      "In Defense of Not-Invented-Here Syndrome (2001)",
-      "https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 07:18:37",
       "https://news.ycombinator.com/item?id=34750304"
     ],
@@ -287,16 +297,6 @@
     [
       "Darwinian Gastronomy: Why We Use Spices (1999)",
       "https://academic.oup.com/bioscience/article/49/6/453/229475"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 13:08:46",
-      "https://news.ycombinator.com/item?id=34739163"
-    ],
-    [
-      "How I Use My Mouse",
-      "https://github.com/madprops/blog/blob/main/mouse.md"
     ]
   ]
 ]
