@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-14, 18:27:08",
+      "https://news.ycombinator.com/item?id=34793714"
+    ],
+    [
+      "Build Your Own Fast, Persistent, Toy KV Store",
+      "https://dinesh.wiki/posts/build-your-own-persistent-kv-store/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 18:10:15",
       "https://news.ycombinator.com/item?id=34793414"
     ],
@@ -27,16 +37,6 @@
     [
       "Spotify&#x27;s podcast bet went wrong",
       "https://www.semafor.com/article/02/12/2023/how-spotifys-podcast-bet-went-wrong"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 17:39:48",
-      "https://news.ycombinator.com/item?id=34792932"
-    ],
-    [
-      "The C++ Killers (Not You, Rust)",
-      "https://hackernoon.com/the-real-c-killers-not-you-rust"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-02-14, 11:38:50",
+      "https://news.ycombinator.com/item?id=34788020"
+    ],
+    [
+      "Ruff: An fast Python linter, written in Rust",
+      "https://beta.ruff.rs/docs/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 11:11:53",
       "https://news.ycombinator.com/item?id=34787838"
     ],
@@ -277,16 +287,6 @@
     [
       "Supabase (YC S20) Is Hiring a Technical Documentation Lead (Remote)",
       "https://boards.greenhouse.io/supabase/jobs/4796595004"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 04:36:37",
-      "https://news.ycombinator.com/item?id=34785350"
-    ],
-    [
-      "My System&#x2F;3 model 10 (2010)",
-      "http://www.ibmsystem3.nl/my5410/my5410.html"
     ]
   ],
   [
