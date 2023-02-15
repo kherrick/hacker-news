@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-02-15, 21:09:52",
+      "https://news.ycombinator.com/item?id=34810610"
+    ],
+    [
+      "Intel Publishes Fast AVX-512 Sorting Library, 10~17x Faster Sorts in NumPy",
+      "https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 21:09:47",
       "https://news.ycombinator.com/item?id=34810607"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2023-02-15, 20:06:06",
-      "https://news.ycombinator.com/item?id=34809811"
+      "2023-02-15, 19:53:49",
+      "https://news.ycombinator.com/item?id=34809666"
     ],
     [
-      "Install a server in your house, get free hot water!",
-      "https://www.cnx-software.com/2023/02/15/install-a-server-in-your-house-get-free-hot-water/"
+      "Making Full Use of Three Ordinary Dice",
+      "http://www.quadibloc.com/other/bo0201.htm"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-02-15, 13:18:10",
-      "https://news.ycombinator.com/item?id=34803379"
-    ],
-    [
-      "When Rust hurts",
-      "https://mmapped.blog/posts/15-when-rust-hurts.html"
-    ]
-  ],
-  [
-    [
       "2023-02-15, 12:56:41",
       "https://news.ycombinator.com/item?id=34803186"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2023-02-15, 08:42:44",
+      "https://news.ycombinator.com/item?id=34801464"
+    ],
+    [
+      "Clojure in the Tyre Manufacturing Industry",
+      "https://blogit.michelin.io/clojure-programming/"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 08:41:32",
       "https://news.ycombinator.com/item?id=34801457"
     ],
     [
       "Introduction to Datalog",
       "https://blogit.michelin.io/an-introduction-to-datalog/"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 02:34:15",
-      "https://news.ycombinator.com/item?id=34799308"
-    ],
-    [
-      "The maze is in the mouse: what ails Google",
-      "https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a"
     ]
   ],
   [
