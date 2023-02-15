@@ -1,22 +1,42 @@
 [
   [
     [
-      "2023-02-15, 13:59:27",
-      "https://news.ycombinator.com/item?id=34803819"
+      "2023-02-15, 15:20:22",
+      "https://news.ycombinator.com/item?id=34804952"
     ],
     [
-      "The Mysteries By Bill Watterson",
-      "https://www.simonandschuster.com/books/The-Mysteries/Bill-Watterson/9781524884949"
+      "Scientists ‘switch off’ autism symptoms using $3 epilepsy drug",
+      "https://nypost.com/2023/02/14/scientists-switch-off-autism-using-3-epilepsy-drug-study/"
     ]
   ],
   [
     [
-      "2023-02-15, 13:53:54",
-      "https://news.ycombinator.com/item?id=34803780"
+      "2023-02-15, 15:04:43",
+      "https://news.ycombinator.com/item?id=34804754"
     ],
     [
-      "Show HN: A compilation of websites with dumb password rules",
-      "https://dumbpasswordrules.com/"
+      "We need a textodon (text-only Fediverse hub)",
+      "https://bluelander.bearblog.dev/we-need-a-textodon/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 15:02:24",
+      "https://news.ycombinator.com/item?id=34804721"
+    ],
+    [
+      "Show HN: I wrote a tool in Rust for tracking all allocations in a Linux process",
+      "https://github.com/matt-kimball/allocscope"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 14:56:44",
+      "https://news.ycombinator.com/item?id=34804650"
+    ],
+    [
+      "Sea life bounced back fast after the ‘mother of mass extinctions’",
+      "https://www.nature.com/articles/d41586-023-00383-9"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34803575"
     ],
     [
-      "The Story of DeLorean’s Snowcat Factory Is Even More Bizarre Than the DMC-12",
+      "The first DeLorean wasn’t a car, it was a snowcat",
       "https://www.thedrive.com/news/40031/the-strange-story-of-john-deloreans-snowcat-factory-is-even-more-bizarre-than-the-dmc-12"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "When Rust hurts",
       "https://mmapped.blog/posts/15-when-rust-hurts.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 12:53:49",
-      "https://news.ycombinator.com/item?id=34803157"
-    ],
-    [
-      "I was banned because of a security flaw in Facebook’s password recovery system",
-      "http://zuckbannedme.com/"
     ]
   ],
   [
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=34802160"
     ],
     [
-      "Shoichiro Toyoda, who turned Toyota into global automaker, dies at 97",
+      "Shoichiro Toyoda, who turned Toyota into global automaker, has died",
       "https://mainichi.jp/english/articles/20230214/p2g/00m/0bu/043000c"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "Documentation related to the implementation of SimCity 2000",
       "https://github.com/dfloer/SC2k-docs"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 03:13:57",
-      "https://news.ycombinator.com/item?id=34799597"
-    ],
-    [
-      "PyTorch at the Edge: Deploy 964 TIMM Models on Android with TorchScript",
-      "https://dicksonneoh.com/portfolio/pytorch_at_the_edge_timm_torchscript_flutter/"
     ]
   ],
   [
