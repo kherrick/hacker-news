@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-02-15, 17:48:41",
+      "https://news.ycombinator.com/item?id=34807687"
+    ],
+    [
+      "Ask HN: Does Google use the text inside gdocs and Gmail for training AI models?",
+      "https://news.ycombinator.com/item?id=34807687"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 17:12:58",
       "https://news.ycombinator.com/item?id=34807080"
     ],
@@ -87,16 +97,6 @@
     [
       "We need a textodon (text-only Fediverse hub)",
       "https://bluelander.bearblog.dev/we-need-a-textodon/"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 15:02:24",
-      "https://news.ycombinator.com/item?id=34804721"
-    ],
-    [
-      "Show HN: I wrote a tool in Rust for tracking all allocations in a Linux process",
-      "https://github.com/matt-kimball/allocscope"
     ]
   ],
   [
