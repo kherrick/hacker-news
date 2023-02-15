@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-15, 19:13:37",
+      "https://news.ycombinator.com/item?id=34809023"
+    ],
+    [
+      "Squares in Squares",
+      "https://erich-friedman.github.io/packing/squinsqu/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 19:01:12",
+      "https://news.ycombinator.com/item?id=34808851"
+    ],
+    [
+      "For leaders, playing favorites can be a smart strategy",
+      "https://phys.org/news/2023-02-leaders-playing-favorites-smart-strategy.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 18:34:31",
+      "https://news.ycombinator.com/item?id=34808439"
+    ],
+    [
+      "Many women struggle to breastfeed. Scientists are starting to ask why",
+      "https://www.nationalgeographic.com/science/article/many-women-struggle-to-breastfeed-scientists-are-starting-to-ask-why"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 18:01:51",
       "https://news.ycombinator.com/item?id=34807904"
     ],
@@ -37,16 +67,6 @@
     [
       "Rerun Is Open Source",
       "https://www.rerun.io/blog/oss-beta"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 16:37:25",
-      "https://news.ycombinator.com/item?id=34806313"
-    ],
-    [
-      "Linux Looks to Retire Itanium&#x2F;IA64 Support",
-      "https://www.phoronix.com/news/Linux-Retire-Itanium-IA64-Patch"
     ]
   ],
   [
@@ -97,26 +117,6 @@
     [
       "Tesla to open some superchargers to other vehicles",
       "https://www.wsj.com/articles/tesla-to-open-some-superchargers-to-other-vehicles-white-house-says-2ed35fd5"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 15:04:43",
-      "https://news.ycombinator.com/item?id=34804754"
-    ],
-    [
-      "We need a textodon (text-only Fediverse hub)",
-      "https://bluelander.bearblog.dev/we-need-a-textodon/"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 15:02:24",
-      "https://news.ycombinator.com/item?id=34804721"
-    ],
-    [
-      "Show HN: I wrote a tool in Rust for tracking all allocations in a Linux process",
-      "https://github.com/matt-kimball/allocscope"
     ]
   ],
   [
