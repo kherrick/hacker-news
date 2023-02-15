@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-02-15, 16:19:36",
+      "https://news.ycombinator.com/item?id=34805930"
+    ],
+    [
+      "Swarmlet: A self-hosted, open-source Platform as a Service",
+      "https://github.com/swarmlet/swarmlet"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 15:39:55",
       "https://news.ycombinator.com/item?id=34805229"
     ],
@@ -97,6 +107,16 @@
     [
       "We need a textodon (text-only Fediverse hub)",
       "https://bluelander.bearblog.dev/we-need-a-textodon/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 15:02:24",
+      "https://news.ycombinator.com/item?id=34804721"
+    ],
+    [
+      "Show HN: I wrote a tool in Rust for tracking all allocations in a Linux process",
+      "https://github.com/matt-kimball/allocscope"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-02-15, 06:30:15",
-      "https://news.ycombinator.com/item?id=34800744"
-    ],
-    [
-      "Alexander the ‘Accursed’ and Zoroastrianism",
-      "https://blogs.bl.uk/asian-and-african/2023/02/alexander-the-accursed-and-zoroastrianism.html"
-    ]
-  ],
-  [
-    [
       "2023-02-15, 06:29:53",
       "https://news.ycombinator.com/item?id=34800742"
     ],
     [
       "Toward a Digital Comics Praxis",
       "https://digitalcomics.co/"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 03:54:20",
-      "https://news.ycombinator.com/item?id=34799905"
-    ],
-    [
-      "Documentation related to the implementation of SimCity 2000",
-      "https://github.com/dfloer/SC2k-docs"
     ]
   ],
   [
