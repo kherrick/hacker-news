@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-02-15, 04:42:46",
-      "https://news.ycombinator.com/item?id=34800182"
-    ],
-    [
-      "Ask HN: What&#x27;s a good open-source alternative to Cloudflare?",
-      "https://news.ycombinator.com/item?id=34800182"
-    ]
-  ],
-  [
-    [
       "2023-02-15, 03:54:20",
       "https://news.ycombinator.com/item?id=34799905"
     ],
@@ -167,6 +157,16 @@
     [
       "Build your own fast, persistent KV store",
       "https://dinesh.wiki/posts/build-your-own-persistent-kv-store/"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 18:10:04",
+      "https://news.ycombinator.com/item?id=34793411"
+    ],
+    [
+      "TurboTLS: TLS connection establishment with 1 less round trip",
+      "https://arxiv.org/abs/2302.05311"
     ]
   ],
   [
