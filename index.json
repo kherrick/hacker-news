@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-16, 02:26:01",
+      "https://news.ycombinator.com/item?id=34814178"
+    ],
+    [
+      "CMU CS Academy: a free online computer science curriculum by Carnegie Mellon",
+      "https://academy.cs.cmu.edu/"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 02:12:30",
       "https://news.ycombinator.com/item?id=34814070"
     ],
@@ -27,16 +37,6 @@
     [
       "Scientists find first observational evidence linking black holes to dark energy",
       "https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 00:01:08",
-      "https://news.ycombinator.com/item?id=34812857"
-    ],
-    [
-      "Cut the Cutesy Errors",
-      "https://alexwlchan.net/2022/no-cute/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "SOBA: Potential blood test for Alzheimer&#x27;s disease",
       "https://www.pnas.org/doi/10.1073/pnas.2213157119"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 22:23:45",
-      "https://news.ycombinator.com/item?id=34811626"
-    ],
-    [
-      "Apple Reportedly Planning to Limit iPhone 15 USB-C Port in Same Way as Lightning",
-      "https://www.macrumors.com/2023/02/10/apple-planning-to-limit-iphone-15-usb-c-port/"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "Comparing Objective Caml and Standard ML",
       "http://adam.chlipala.net/mlcomp/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 15:33:14",
+      "https://news.ycombinator.com/item?id=34805132"
+    ],
+    [
+      "Show HN: Build auto-updating dashboards in a spreadsheet",
+      "https://equals.app/dashboards/"
     ]
   ],
   [
