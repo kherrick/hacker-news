@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-02-16, 14:33:06",
-      "https://news.ycombinator.com/item?id=34819122"
-    ],
-    [
-      "DigitalOcean axes about 11 percent of workforce",
-      "https://www.theregister.com/2023/02/15/digitalocean_layoffs/"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 14:23:35",
       "https://news.ycombinator.com/item?id=34818984"
     ],
@@ -61,36 +51,6 @@
   ],
   [
     [
-      "2023-02-16, 13:26:42",
-      "https://news.ycombinator.com/item?id=34818311"
-    ],
-    [
-      "Help, Bing Won’t Stop Declaring Its Love for Me",
-      "https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 13:22:38",
-      "https://news.ycombinator.com/item?id=34818282"
-    ],
-    [
-      "Tesla Terminated Dozens in Response to New Union Campaign, Complaint Alleges",
-      "https://www.bloomberg.com/news/articles/2023-02-16/tesla-tsla-fires-unionizing-workers-after-labor-campaign-complaint-alleges"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 12:57:41",
-      "https://news.ycombinator.com/item?id=34818078"
-    ],
-    [
-      "Scientists find first evidence that black holes are the source of dark energy",
-      "https://phys.org/news/2023-02-scientists-evidence-black-holes-source.html"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 12:56:54",
       "https://news.ycombinator.com/item?id=34818071"
     ],
@@ -137,6 +97,16 @@
     [
       "IKEA made a smart air quality sensor to track indoor pollution",
       "https://www.engadget.com/ikea-vindstyrka-indoor-air-quality-sensor-195810594.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 11:00:57",
+      "https://news.ycombinator.com/item?id=34817222"
+    ],
+    [
+      "Homebrew 4.0.0",
+      "https://brew.sh/2023/02/16/homebrew-4.0.0/"
     ]
   ],
   [
@@ -241,12 +211,52 @@
   ],
   [
     [
+      "2023-02-15, 22:59:20",
+      "https://news.ycombinator.com/item?id=34812143"
+    ],
+    [
+      "SOBA: Potential blood test for Alzheimer&#x27;s disease",
+      "https://www.pnas.org/doi/10.1073/pnas.2213157119"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 21:46:36",
+      "https://news.ycombinator.com/item?id=34811070"
+    ],
+    [
+      "Prompt Engine – Microsoft&#x27;s prompt engineering library",
+      "https://github.com/microsoft/prompt-engine"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 20:46:56",
       "https://news.ycombinator.com/item?id=34810332"
     ],
     [
       "The Little Learner: A Straight Line to Deep Learning",
       "https://mitpress.mit.edu/9780262546379/the-little-learner/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 19:13:37",
+      "https://news.ycombinator.com/item?id=34809023"
+    ],
+    [
+      "Squares in Squares",
+      "https://erich-friedman.github.io/packing/squinsqu/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 15:23:57",
+      "https://news.ycombinator.com/item?id=34804994"
+    ],
+    [
+      "Making a terrarium with an Arduino-powered artificial sun",
+      "https://twiddlingbits.net/artificial-sun"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Trying every combination to flash my Asus motherboard&#x27;s BIOS",
       "https://www.jeffgeerling.com/blog/2023/trying-every-combination-flash-my-asus-motherboards-bios"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 02:34:15",
-      "https://news.ycombinator.com/item?id=34799308"
-    ],
-    [
-      "The maze is in the mouse: what ails Google",
-      "https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a"
     ]
   ]
 ]
