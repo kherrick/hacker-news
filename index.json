@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=34825296"
     ],
     [
-      "Microsoft to Support Windows 11 on Apple M1 and M2 Macs Through Parallels",
+      "Microsoft to support Windows 11 on M1 and M2 Macs through Parallels partnership",
       "https://www.theverge.com/2023/2/16/23602718/microsoft-windows-11-apple-mac-m1-m2-support-parallels-virtual-machines"
     ]
   ],
@@ -157,16 +157,6 @@
     [
       "Web Push for Web Apps on iOS and iPadOS",
       "https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 18:19:16",
-      "https://news.ycombinator.com/item?id=34823002"
-    ],
-    [
-      "The new Bing will happily give you citations for a pile of nonsense",
-      "https://twitter.com/arbuge/status/1626283571294896128"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "I replaced grub with systemd-boot",
       "https://blog.bofh.it/debian/id_465"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 09:53:33",
+      "https://news.ycombinator.com/item?id=34816831"
+    ],
+    [
+      "Our World in Data (YC W19) Is Hiring",
+      "https://ourworldindata.org/human-resources-manager"
     ]
   ],
   [
