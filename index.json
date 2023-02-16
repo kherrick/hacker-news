@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-16, 02:12:30",
+      "https://news.ycombinator.com/item?id=34814070"
+    ],
+    [
+      "WebKit Supports Nested CSS",
+      "https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 01:02:46",
       "https://news.ycombinator.com/item?id=34813489"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34812527"
     ],
     [
-      "SQLite the only database you will ever need in most cases",
+      "SQLite the only database you will ever need in most cases (2021)",
       "https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "Comparing Objective Caml and Standard ML",
       "http://adam.chlipala.net/mlcomp/"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 15:33:14",
-      "https://news.ycombinator.com/item?id=34805132"
-    ],
-    [
-      "Show HN: Build auto-updating dashboards in a spreadsheet",
-      "https://equals.app/dashboards/"
     ]
   ],
   [
