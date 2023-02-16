@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-16, 23:18:22",
+      "https://news.ycombinator.com/item?id=34828124"
+    ],
+    [
+      "SEC Charges Terraform and CEO Do Kwon with Defrauding Investors InCrypto Schemes",
+      "https://www.sec.gov/news/press-release/2023-32"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 23:10:33",
       "https://news.ycombinator.com/item?id=34828023"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-02-16, 17:54:24",
-      "https://news.ycombinator.com/item?id=34822455"
-    ],
-    [
-      "Moving my PC into my rack in a 2U case",
-      "https://www.jeffgeerling.com/blog/2023/moving-my-pc-my-rack-2u-case"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 17:52:54",
       "https://news.ycombinator.com/item?id=34822414"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-02-16, 03:11:13",
+      "https://news.ycombinator.com/item?id=34814511"
+    ],
+    [
+      "A Brief History of Random Numbers",
+      "https://sr.ht/~icefox/oorandom/#a-brief-history-of-random-numbers"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 22:48:12",
       "https://news.ycombinator.com/item?id=34811990"
     ],
     [
       "Roll your own JavaScript runtime (2022)",
       "https://deno.com/blog/roll-your-own-javascript-runtime"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 07:51:58",
-      "https://news.ycombinator.com/item?id=34801184"
-    ],
-    [
-      "Trying every combination to flash my Asus motherboard&#x27;s BIOS",
-      "https://www.jeffgeerling.com/blog/2023/trying-every-combination-flash-my-asus-motherboards-bios"
     ]
   ]
 ]
