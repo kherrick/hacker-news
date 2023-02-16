@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-16, 22:16:55",
+      "https://news.ycombinator.com/item?id=34827298"
+    ],
+    [
+      "New Malware Abuses Microsoft IIS Feature to Establish Backdoor",
+      "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 21:51:54",
       "https://news.ycombinator.com/item?id=34826944"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2023-02-16, 21:44:26",
+      "https://news.ycombinator.com/item?id=34826813"
+    ],
+    [
+      "I_suck_and_my_tests_are_order_dependent",
+      "https://www.rubydoc.info/gems/minitest/Minitest%2FTest.i_suck_and_my_tests_are_order_dependent!"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 21:43:39",
       "https://news.ycombinator.com/item?id=34826804"
     ],
@@ -37,16 +57,6 @@
     [
       "List of Companies Hiring Globally",
       "https://github.com/wceolin/global-hiring"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 21:32:28",
-      "https://news.ycombinator.com/item?id=34826637"
-    ],
-    [
-      "Tell HN: Fired After 7 Years During Maternity Leave Paperwork Filing",
-      "https://news.ycombinator.com/item?id=34826637"
     ]
   ],
   [
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2023-02-16, 20:33:11",
-      "https://news.ycombinator.com/item?id=34825573"
-    ],
-    [
-      "Silicon Valley Loop How the dot-com crash created Palo Alto’s clueless investors",
-      "https://nymag.com/intelligencer/2023/02/the-silicon-valley-loop-malcolm-harriss-palo-alto.html"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 20:17:42",
       "https://news.ycombinator.com/item?id=34825296"
     ],
@@ -117,6 +117,16 @@
     [
       "Hobby Club’s Missing Balloon Feared Shot Down by USAF",
       "https://aviationweek.com/defense-space/aircraft-propulsion/hobby-clubs-missing-balloon-feared-shot-down-usaf"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 19:43:32",
+      "https://news.ycombinator.com/item?id=34824635"
+    ],
+    [
+      "Nodebox: A Node.js runtime that runs in any browser",
+      "https://codesandbox.io/blog/announcing-sandpack-2"
     ]
   ],
   [
@@ -175,8 +185,18 @@
       "https://news.ycombinator.com/item?id=34822414"
     ],
     [
-      "Tesla recalls 362,758 vehicles, says full self-driving beta may cause crashes",
+      "Tesla recalls 360k vehicles, says full self-driving beta may cause crashes",
       "https://www.cnbc.com/2023/02/16/tesla-recalls-362758-vehicles-says-full-self-driving-beta-software-may-cause-crashes.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 17:26:06",
+      "https://news.ycombinator.com/item?id=34821872"
+    ],
+    [
+      "Blowing holes in Seymour Hersh’s pipe dream",
+      "https://oalexanderdk.substack.com/p/blowing-holes-in-seymour-hershs-pipe"
     ]
   ],
   [
@@ -187,16 +207,6 @@
     [
       "We Found an Neuron in GPT-2",
       "https://clementneo.com/posts/2023/02/11/we-found-an-neuron"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 16:24:45",
-      "https://news.ycombinator.com/item?id=34820768"
-    ],
-    [
-      "I&#x27;m starting a zero waste grocery delivery service in NYC. Anybody interested?",
-      "https://zerowastenyc.shop/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "I replaced grub with systemd-boot",
       "https://blog.bofh.it/debian/id_465"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 09:53:33",
-      "https://news.ycombinator.com/item?id=34816831"
-    ],
-    [
-      "Our World in Data (YC W19) Is Hiring",
-      "https://ourworldindata.org/human-resources-manager"
     ]
   ],
   [
