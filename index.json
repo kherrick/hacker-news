@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-16, 23:10:33",
+      "https://news.ycombinator.com/item?id=34828023"
+    ],
+    [
+      "The reason content creators worry about ChatGPT",
+      "https://jayacunzo.com/blog/chatgpt-generative-ai-replace-creators"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 22:16:55",
       "https://news.ycombinator.com/item?id=34827298"
     ],
@@ -17,16 +27,6 @@
     [
       "InCaptions: Search in YouTube Captions",
       "https://incaptions.com/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 21:48:19",
-      "https://news.ycombinator.com/item?id=34826884"
-    ],
-    [
-      "Sorting 400 tabs in 60 seconds with JavaScript, Rust and GPT-3",
-      "https://blog.entropy.observer/sorting-400-tabs-in-60-seconds/"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2023-02-16, 10:09:19",
+      "https://news.ycombinator.com/item?id=34816911"
+    ],
+    [
+      "Search through historical cookbooks dating back to the Middle Ages",
+      "https://thesifter.org/"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 09:59:14",
       "https://news.ycombinator.com/item?id=34816863"
     ],
     [
       "I replaced grub with systemd-boot",
       "https://blog.bofh.it/debian/id_465"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 09:53:33",
-      "https://news.ycombinator.com/item?id=34816831"
-    ],
-    [
-      "Our World in Data (YC W19) Is Hiring",
-      "https://ourworldindata.org/human-resources-manager"
     ]
   ],
   [
