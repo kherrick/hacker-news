@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-02-16, 18:36:41",
+      "https://news.ycombinator.com/item?id=34823402"
+    ],
+    [
+      "Web Push for Web Apps on iOS and iPadOS",
+      "https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 18:19:16",
       "https://news.ycombinator.com/item?id=34823002"
     ],
     [
       "The new Bing will happily give you citations for a pile of nonsense",
       "https://twitter.com/arbuge/status/1626283571294896128"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 18:01:39",
-      "https://news.ycombinator.com/item?id=34822616"
-    ],
-    [
-      "How should AI systems behave, and who should decide?",
-      "https://openai.com/blog/how-should-ai-systems-behave/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-02-16, 11:00:57",
-      "https://news.ycombinator.com/item?id=34817222"
-    ],
-    [
-      "Homebrew 4.0.0",
-      "https://brew.sh/2023/02/16/homebrew-4.0.0/"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 10:11:46",
       "https://news.ycombinator.com/item?id=34816918"
     ],
@@ -267,6 +257,16 @@
     [
       "How we boosted our marketing email open rate",
       "https://catonmat.net/marketing-email-open-rate"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 05:36:32",
+      "https://news.ycombinator.com/item?id=34815464"
+    ],
+    [
+      "Postgres WAL Files and Sequence Numbers",
+      "https://www.crunchydata.com/blog/postgres-wal-files-and-sequuence-numbers"
     ]
   ],
   [
