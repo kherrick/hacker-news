@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-16, 16:46:34",
+      "https://news.ycombinator.com/item?id=34821151"
+    ],
+    [
+      "Climate change is stealing New England&#x27;s winters",
+      "https://www.bostonglobe.com/2023/02/16/science/climate-change-is-stealing-new-englands-winters/"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 16:33:30",
+      "https://news.ycombinator.com/item?id=34820926"
+    ],
+    [
+      "Airbnb nightly rates shot up 36% in 3 years",
+      "https://thepointsguy.com/news/airbnb-rate-surge/"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 15:11:29",
       "https://news.ycombinator.com/item?id=34819680"
     ],
@@ -17,16 +37,6 @@
     [
       "Launch HN: Neptyne (YC W23) – A programmable spreadsheet that runs Python",
       "https://news.ycombinator.com/item?id=34818706"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 13:45:53",
-      "https://news.ycombinator.com/item?id=34818483"
-    ],
-    [
-      "ChatGPT Is Ingesting Corporate Secrets",
-      "https://www.schneier.com/blog/archives/2023/02/chatgpt-is-ingesting-corporate-secrets.html"
     ]
   ],
   [
@@ -61,22 +71,22 @@
   ],
   [
     [
+      "2023-02-16, 12:17:26",
+      "https://news.ycombinator.com/item?id=34817743"
+    ],
+    [
+      "Rise of ‘zombie’ VCs haunts tech investors as valuations plunging",
+      "https://www.cnbc.com/2023/02/16/rise-of-zombie-vcs-haunts-tech-investors-as-startup-valuations-plunge.html"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 11:52:25",
       "https://news.ycombinator.com/item?id=34817550"
     ],
     [
       "SatCat5: FPGA gateware that implements a low-power, mixed-media Ethernet switch",
       "https://github.com/the-aerospace-corporation/satcat5"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 11:40:52",
-      "https://news.ycombinator.com/item?id=34817457"
-    ],
-    [
-      "‘I will show you how safe Telegram is’",
-      "https://twitter.com/jsrailton/status/1625720504366555137"
     ]
   ],
   [
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=34815927"
     ],
     [
-      "We boosted marketing email open rate from 20% to 60%",
+      "How we boosted our marketing email open rate",
       "https://catonmat.net/marketing-email-open-rate"
     ]
   ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=34815875"
     ],
     [
-      "Oakland Declares State of Emergency Due to Ransomware Attack",
+      "Oakland declares state of emergency due to ransomware attack",
       "https://www.nbcbayarea.com/news/local/east-bay/oakland-state-of-emergency-ransomware-attack/3158122/"
     ]
   ],
@@ -201,42 +211,12 @@
   ],
   [
     [
-      "2023-02-16, 01:02:46",
-      "https://news.ycombinator.com/item?id=34813489"
-    ],
-    [
-      "Show HN: Ractor – a Rust-based actor framework with clusters and supervisors",
-      "https://github.com/slawlor/ractor"
-    ]
-  ],
-  [
-    [
       "2023-02-15, 23:27:15",
       "https://news.ycombinator.com/item?id=34812478"
     ],
     [
-      "Failing into Tech and Content Design",
+      "Failing into tech and content design",
       "https://indeed.design/article/failing-into-tech-and-content-design/"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 20:46:56",
-      "https://news.ycombinator.com/item?id=34810332"
-    ],
-    [
-      "The Little Learner: A Straight Line to Deep Learning",
-      "https://mitpress.mit.edu/9780262546379/the-little-learner/"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 19:13:37",
-      "https://news.ycombinator.com/item?id=34809023"
-    ],
-    [
-      "Squares in Squares",
-      "https://erich-friedman.github.io/packing/squinsqu/"
     ]
   ],
   [
@@ -257,6 +237,26 @@
     [
       "Does mathematics need a philosophy?",
       "https://www.logicmatters.net/2023/02/15/does-mathematics-need-a-philosophy/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 14:56:44",
+      "https://news.ycombinator.com/item?id=34804650"
+    ],
+    [
+      "Sea life bounced back fast after the ‘mother of mass extinctions’",
+      "https://www.nature.com/articles/d41586-023-00383-9"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 11:51:06",
+      "https://news.ycombinator.com/item?id=34802600"
+    ],
+    [
+      "Unix Edition Zero (1971)",
+      "http://doc.cat-v.org/unix/v0/"
     ]
   ],
   [
