@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-02-16, 15:48:27",
-      "https://news.ycombinator.com/item?id=34820200"
-    ],
-    [
-      "DocuSign to lay off 10% of its workforce, or about 700 employees",
-      "https://www.cnbc.com/2023/02/16/docusign-layoffs-company-to-cut-10percent-of-workforce.html"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 15:11:29",
       "https://news.ycombinator.com/item?id=34819680"
     ],
@@ -165,8 +155,28 @@
       "https://news.ycombinator.com/item?id=34816010"
     ],
     [
-      "Gary Hunt -the Messi of cliff diving",
+      "Gary Hunt, the greatest cliff diver",
       "https://www.theguardian.com/sport/2023/feb/16/no-coach-no-agent-no-ego-lionel-messi-of-cliff-diving-gary-hunt"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 07:11:01",
+      "https://news.ycombinator.com/item?id=34815927"
+    ],
+    [
+      "We boosted marketing email open rate from 20% to 60%",
+      "https://catonmat.net/marketing-email-open-rate"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 07:01:17",
+      "https://news.ycombinator.com/item?id=34815875"
+    ],
+    [
+      "Oakland Declares State of Emergency Due to Ransomware Attack",
+      "https://www.nbcbayarea.com/news/local/east-bay/oakland-state-of-emergency-ransomware-attack/3158122/"
     ]
   ],
   [
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2023-02-16, 00:27:01",
-      "https://news.ycombinator.com/item?id=34813141"
-    ],
-    [
-      "Scientists find first observational evidence linking black holes to dark energy",
-      "https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/"
-    ]
-  ],
-  [
-    [
       "2023-02-15, 23:27:15",
       "https://news.ycombinator.com/item?id=34812478"
     ],
     [
       "Failing into Tech and Content Design",
       "https://indeed.design/article/failing-into-tech-and-content-design/"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 21:46:36",
-      "https://news.ycombinator.com/item?id=34811070"
-    ],
-    [
-      "Prompt Engine – Microsoft&#x27;s prompt engineering library",
-      "https://github.com/microsoft/prompt-engine"
     ]
   ],
   [
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2023-02-15, 15:23:57",
-      "https://news.ycombinator.com/item?id=34804994"
-    ],
-    [
-      "Making a terrarium with an Arduino-powered artificial sun",
-      "https://twiddlingbits.net/artificial-sun"
-    ]
-  ],
-  [
-    [
       "2023-02-15, 15:14:15",
       "https://news.ycombinator.com/item?id=34804874"
     ],
@@ -271,12 +251,12 @@
   ],
   [
     [
-      "2023-02-15, 12:23:29",
-      "https://news.ycombinator.com/item?id=34802858"
+      "2023-02-15, 15:06:24",
+      "https://news.ycombinator.com/item?id=34804780"
     ],
     [
-      "Last Flight Out",
-      "https://brr.fyi/posts/last-flight-out"
+      "Does mathematics need a philosophy?",
+      "https://www.logicmatters.net/2023/02/15/does-mathematics-need-a-philosophy/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2023-02-15, 08:42:44",
+      "https://news.ycombinator.com/item?id=34801464"
+    ],
+    [
+      "Clojure in the Tyre Manufacturing Industry",
+      "https://blogit.michelin.io/clojure-programming/"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 07:51:58",
       "https://news.ycombinator.com/item?id=34801184"
     ],
     [
       "Trying every combination to flash my Asus motherboard&#x27;s BIOS",
       "https://www.jeffgeerling.com/blog/2023/trying-every-combination-flash-my-asus-motherboards-bios"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 02:34:15",
+      "https://news.ycombinator.com/item?id=34799308"
+    ],
+    [
+      "The maze is in the mouse: what ails Google",
+      "https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a"
     ]
   ]
 ]
