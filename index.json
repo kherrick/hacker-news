@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-02-16, 16:46:34",
-      "https://news.ycombinator.com/item?id=34821151"
-    ],
-    [
-      "Climate change is stealing New England&#x27;s winters",
-      "https://www.bostonglobe.com/2023/02/16/science/climate-change-is-stealing-new-englands-winters/"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 16:33:30",
       "https://news.ycombinator.com/item?id=34820926"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34819680"
     ],
     [
-      "American drivers have a blinding headlight problem. It could last for years",
+      "American drivers have a blinding headlight problem",
       "https://www.businessinsider.com/american-drivers-have-a-blinding-headlight-problem-2023-2"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34817743"
     ],
     [
-      "Rise of ‘zombie’ VCs haunts tech investors as valuations plunging",
+      "Rise of ‘zombie’ VCs as startup valuations plunge",
       "https://www.cnbc.com/2023/02/16/rise-of-zombie-vcs-haunts-tech-investors-as-startup-valuations-plunge.html"
     ]
   ],
@@ -275,8 +265,18 @@
       "https://news.ycombinator.com/item?id=34801464"
     ],
     [
-      "Clojure in the Tyre Manufacturing Industry",
+      "Bringing Clojure programming to Enterprise (2021)",
       "https://blogit.michelin.io/clojure-programming/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 08:41:32",
+      "https://news.ycombinator.com/item?id=34801457"
+    ],
+    [
+      "Introduction to Datalog",
+      "https://blogit.michelin.io/an-introduction-to-datalog/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-02-15, 02:34:15",
-      "https://news.ycombinator.com/item?id=34799308"
+      "2023-02-15, 04:34:38",
+      "https://news.ycombinator.com/item?id=34800138"
     ],
     [
-      "The maze is in the mouse: what ails Google",
-      "https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a"
+      "Efficient and Compact Spreadsheet Formula Graphs",
+      "https://arxiv.org/abs/2302.05482"
     ]
   ]
 ]
