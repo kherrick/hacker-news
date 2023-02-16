@@ -1,12 +1,52 @@
 [
   [
     [
-      "2023-02-15, 22:46:13",
-      "https://news.ycombinator.com/item?id=34811943"
+      "2023-02-16, 00:01:08",
+      "https://news.ycombinator.com/item?id=34812857"
     ],
     [
-      "Harnessing ChatGPT on Any Website",
-      "https://chrome.google.com/webstore/detail/writegpt-openais-gpt-prom/dflcdbibjghipieemcligeelbmackgco"
+      "Cut the Cutesy Errors",
+      "https://alexwlchan.net/2022/no-cute/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 23:43:45",
+      "https://news.ycombinator.com/item?id=34812652"
+    ],
+    [
+      "SkyNews (Canadian Astronomy magazine) is closing",
+      "https://skynews.ca/skynews-is-closing/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 23:34:40",
+      "https://news.ycombinator.com/item?id=34812570"
+    ],
+    [
+      "Zantac’s maker kept quiet about cancer risks for 40 years",
+      "https://www.fiercepharma.com/pharma/gsk-was-warned-repeatedly-about-zantac-risks-didnt-act-warnings-bloomberg"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 23:31:42",
+      "https://news.ycombinator.com/item?id=34812527"
+    ],
+    [
+      "SQLite the only database you will ever need in most cases",
+      "https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 22:59:20",
+      "https://news.ycombinator.com/item?id=34812143"
+    ],
+    [
+      "SOBA: Potential blood test for Alzheimer&#x27;s disease",
+      "https://www.pnas.org/doi/10.1073/pnas.2213157119"
     ]
   ],
   [
@@ -61,21 +101,11 @@
   ],
   [
     [
-      "2023-02-15, 20:46:02",
-      "https://news.ycombinator.com/item?id=34810328"
-    ],
-    [
-      "FTX founder Sam Bankman-Fried’s two bond guarantors unsealed, ties to Stanford",
-      "https://www.cnbc.com/2023/02/15/sam-bankman-frieds-two-bond-guarantors-revealed-after-unsealing-.html"
-    ]
-  ],
-  [
-    [
       "2023-02-15, 20:36:20",
       "https://news.ycombinator.com/item?id=34810208"
     ],
     [
-      "Unimpeded Permeation of Water Through Helium-Leak–Tight Graphene-Based Membranes",
+      "Unimpeded permeation of water through helium-leak-tight graphene-based membranes",
       "https://www.science.org/doi/10.1126/science.1211694"
     ]
   ],
@@ -117,26 +147,6 @@
     [
       "Rerun OSS beta is released",
       "https://www.rerun.io/blog/oss-beta"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 16:43:55",
-      "https://news.ycombinator.com/item?id=34806482"
-    ],
-    [
-      "Show HN: Keep – Open-source alerting CLI",
-      "https://github.com/keephq/keep"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 16:19:36",
-      "https://news.ycombinator.com/item?id=34805930"
-    ],
-    [
-      "Swarmlet: A self-hosted, open-source Platform as a Service",
-      "https://github.com/swarmlet/swarmlet"
     ]
   ],
   [
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2023-02-15, 14:54:52",
-      "https://news.ycombinator.com/item?id=34804627"
-    ],
-    [
-      "Semantic Search with Phoenix, Axon, Bumblebee, and ExFaiss",
-      "https://dockyard.com/blog/2023/01/11/semantic-search-with-phoenix-axon-bumblebee-and-exfaiss"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 14:40:19",
-      "https://news.ycombinator.com/item?id=34804387"
-    ],
-    [
-      "From Bing to Sydney",
-      "https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/"
-    ]
-  ],
-  [
-    [
       "2023-02-15, 12:23:29",
       "https://news.ycombinator.com/item?id=34802858"
     ],
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2023-02-15, 08:41:32",
-      "https://news.ycombinator.com/item?id=34801457"
+      "2023-02-15, 04:37:33",
+      "https://news.ycombinator.com/item?id=34800157"
     ],
     [
-      "Introduction to Datalog",
-      "https://blogit.michelin.io/an-introduction-to-datalog/"
+      "A hacking and disinformation team meddling in elections",
+      "https://www.theguardian.com/world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 04:34:38",
+      "https://news.ycombinator.com/item?id=34800138"
+    ],
+    [
+      "Efficient and Compact Spreadsheet Formula Graphs",
+      "https://arxiv.org/abs/2302.05482"
     ]
   ],
   [
