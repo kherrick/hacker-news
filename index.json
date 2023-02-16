@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-02-16, 17:26:08",
-      "https://news.ycombinator.com/item?id=34821873"
-    ],
-    [
-      "YouTube CEO Susan Wojcicki is stepping down",
-      "https://www.engadget.com/youtube-ceo-susan-wojcicki-is-stepping-down-172115390.html"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 17:01:47",
       "https://news.ycombinator.com/item?id=34821414"
     ],
@@ -287,6 +277,16 @@
     [
       "Postgres WAL Files and Sequence Numbers",
       "https://www.crunchydata.com/blog/postgres-wal-files-and-sequuence-numbers"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 22:48:12",
+      "https://news.ycombinator.com/item?id=34811990"
+    ],
+    [
+      "Roll your own JavaScript runtime",
+      "https://deno.com/blog/roll-your-own-javascript-runtime"
     ]
   ],
   [
