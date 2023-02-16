@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-16, 21:48:19",
+      "https://news.ycombinator.com/item?id=34826884"
+    ],
+    [
+      "Sorting 400 tabs in 60 seconds with JavaScript, Rust and GPT-3",
+      "https://blog.entropy.observer/sorting-400-tabs-in-60-seconds/"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 21:34:19",
+      "https://news.ycombinator.com/item?id=34826670"
+    ],
+    [
+      "List of Companies Hiring Globally",
+      "https://github.com/wceolin/global-hiring"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 21:22:36",
       "https://news.ycombinator.com/item?id=34826453"
     ],
@@ -17,6 +37,16 @@
     [
       "I made an early 2000s-inspired internet forum",
       "https://basementcommunity.com"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 20:38:56",
+      "https://news.ycombinator.com/item?id=34825676"
+    ],
+    [
+      "Writing JavaScript without a build system",
+      "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/"
     ]
   ],
   [
@@ -151,26 +181,6 @@
   ],
   [
     [
-      "2023-02-16, 16:16:31",
-      "https://news.ycombinator.com/item?id=34820634"
-    ],
-    [
-      "The new Bing and Edge: Learning from our first week",
-      "https://blogs.bing.com/search/february-2023/The-new-Bing-Edge-%E2%80%93-Learning-from-our-first-week"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 16:15:15",
-      "https://news.ycombinator.com/item?id=34820603"
-    ],
-    [
-      "Study Suggests Fructose Could Drive Alzheimer&#x27;s Disease",
-      "https://news.cuanschutz.edu/news-stories/study-suggests-fructose-could-drive-alzheimers-disease"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 14:02:37",
       "https://news.ycombinator.com/item?id=34818706"
     ],
@@ -197,16 +207,6 @@
     [
       "SatCat5: FPGA gateware that implements a low-power, mixed-media Ethernet switch",
       "https://github.com/the-aerospace-corporation/satcat5"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 11:36:05",
-      "https://news.ycombinator.com/item?id=34817424"
-    ],
-    [
-      "Automated data analysis for the prevention of criminal acts is unconstitutional",
-      "https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2023/bvg23-018.html"
     ]
   ],
   [
