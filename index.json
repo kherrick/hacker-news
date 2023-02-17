@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-17, 15:30:00",
+      "https://news.ycombinator.com/item?id=34835726"
+    ],
+    [
+      "&quot;Are US companies legally obligated to maximize profits for shareholders?&quot;",
+      "https://skeptics.stackexchange.com/questions/8146/are-u-s-companies-legally-obligated-to-maximize-profits-for-shareholders"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 15:21:25",
+      "https://news.ycombinator.com/item?id=34835631"
+    ],
+    [
+      "I love building a startup in Rust. I wouldn&#x27;t pick it again",
+      "https://www.propelauth.com/post/i-love-building-a-startup-in-rust-i-wouldnt-pick-it-again"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 15:20:42",
       "https://news.ycombinator.com/item?id=34835623"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2023-02-17, 13:03:54",
-      "https://news.ycombinator.com/item?id=34834148"
+      "2023-02-17, 14:35:19",
+      "https://news.ycombinator.com/item?id=34835096"
     ],
     [
-      "Federal judge sanctions Seattle officials for deleting texts",
-      "https://www.seattletimes.com/seattle-news/law-justice/judge-sanctions-city-of-seattle-for-destroying-evidence-in-chop-lawsuit-lets-claims-go-to-trial/"
+      "Big Tech lobbyist language made it verbatim into NY’s hedged repair bill",
+      "https://arstechnica.com/tech-policy/2023/02/report-reveals-the-influence-big-tech-lobbyists-had-on-new-yorks-repair-bill/"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Tesorio Is Hiring a Senior PM and Senior DevOps. Join Our 100% Remote Team",
       "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 11:25:14",
+      "https://news.ycombinator.com/item?id=34833387"
+    ],
+    [
+      "Reducing Tailscale’s binary size on macOS",
+      "https://tailscale.com/blog/macos-binary-size/"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2023-02-16, 21:02:14",
-      "https://news.ycombinator.com/item?id=34826085"
-    ],
-    [
-      "Show HN: I made an early 2000s-inspired internet forum",
-      "https://basementcommunity.com"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 18:36:41",
       "https://news.ycombinator.com/item?id=34823402"
     ],
     [
       "Web Push for Web Apps on iOS and iPadOS",
       "https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 13:22:03",
-      "https://news.ycombinator.com/item?id=34818275"
-    ],
-    [
-      "A step forward in understanding Fragile X syndrome, a cause of autism",
-      "https://nouvelles.umontreal.ca/en/article/2023/02/16/a-giant-step-forward-in-understanding-autism/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Io_uring and Networking in 2023 [pdf]",
       "https://kernel.dk/io_uring%20and%20networking%20in%202023.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 23:16:14",
-      "https://news.ycombinator.com/item?id=34812356"
-    ],
-    [
-      "A Wiser Sympathy: Theorizing plant intelligence in the nineteenth century",
-      "https://www.laphamsquarterly.org/roundtable/wiser-sympathy"
     ]
   ]
 ]
