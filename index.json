@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2023-02-17, 15:30:00",
-      "https://news.ycombinator.com/item?id=34835726"
+      "2023-02-17, 15:50:53",
+      "https://news.ycombinator.com/item?id=34836027"
     ],
     [
-      "Are U.S companies legally obligated to maximize profits for shareholders? (2012)",
-      "https://skeptics.stackexchange.com/questions/8146/are-u-s-companies-legally-obligated-to-maximize-profits-for-shareholders"
+      "We cut our CI pipeline execution time in half",
+      "https://www.tinybird.co/blog-posts/better-ci-pipeline-with-data"
     ]
   ],
   [
     [
-      "2023-02-17, 15:10:18",
-      "https://news.ycombinator.com/item?id=34835519"
+      "2023-02-17, 15:14:53",
+      "https://news.ycombinator.com/item?id=34835559"
     ],
     [
-      "One of the biggest landlords in Los Angeles just defaulted on $755M",
-      "https://fortune.com/2023/02/14/remote-work-los-angeles-office-building-default-brookfield/"
+      "Show HN: Laudspeaker – open-source customer journey automation",
+      "https://github.com/laudspeaker/laudspeaker"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Super Resolution: Image-to-Image Translation Using Deep Learning in ArcGIS Pro",
       "https://www.esri.com/arcgis-blog/products/arcgis-pro/aec/super-resolution-image-to-image-translation-using-deep-learning-in-arcgis-pro/"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 15:04:55",
+      "https://news.ycombinator.com/item?id=34835460"
+    ],
+    [
+      "Awesome Kubectl plugins for Security Engineers",
+      "https://sysdig.com/blog/top-15-kubectl-plugins-for-security-engineers/"
     ]
   ],
   [
@@ -57,6 +67,26 @@
     [
       "Big Tech lobbyist language made it verbatim into NY’s hedged repair bill",
       "https://arstechnica.com/tech-policy/2023/02/report-reveals-the-influence-big-tech-lobbyists-had-on-new-yorks-repair-bill/"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 14:31:41",
+      "https://news.ycombinator.com/item?id=34835063"
+    ],
+    [
+      "Type Constraints in 65 lines of SQL",
+      "https://supabase.com/blog/type-constraints-in-65-lines-of-sql"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 13:06:33",
+      "https://news.ycombinator.com/item?id=34834173"
+    ],
+    [
+      "An Expertise Acceleration Experiment in Judo",
+      "https://commoncog.com/expertise-acceleration-experiment-judo/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-02-17, 08:07:56",
-      "https://news.ycombinator.com/item?id=34832119"
-    ],
-    [
-      "Throughout the rich world, the young are falling out of love with cars",
-      "https://www.economist.com/international/2023/02/16/throughout-the-rich-world-the-young-are-falling-out-of-love-with-cars"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 07:30:52",
       "https://news.ycombinator.com/item?id=34831880"
     ],
@@ -141,22 +161,12 @@
   ],
   [
     [
-      "2023-02-17, 07:15:29",
-      "https://news.ycombinator.com/item?id=34831782"
+      "2023-02-17, 05:40:05",
+      "https://news.ycombinator.com/item?id=34831209"
     ],
     [
-      "How to pull carbon dioxide out of seawater",
-      "https://news.mit.edu/2023/carbon-dioxide-out-seawater-ocean-decorbonization-0216"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 05:58:43",
-      "https://news.ycombinator.com/item?id=34831330"
-    ],
-    [
-      "Our brain is a closet (2009)",
-      "https://usablelearning.com/2009/04/06/why-your-brain-is-a-closet/"
+      "Levi Walter Yaggy’s Geographical Maps and Charts (1887&#x2F;93)",
+      "https://publicdomainreview.org/collection/yaggy-geographical-maps"
     ]
   ],
   [
@@ -191,22 +201,22 @@
   ],
   [
     [
-      "2023-02-17, 00:41:32",
-      "https://news.ycombinator.com/item?id=34829039"
-    ],
-    [
-      "Modern SPAs without bundlers, CDNs, or Node.js",
-      "https://kofi.sexy/blog/modern-spas"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 23:09:42",
       "https://news.ycombinator.com/item?id=34828012"
     ],
     [
       "Sloth – A Mac app that shows all open files, directories, sockets, etc.",
       "https://github.com/sveinbjornt/Sloth"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 19:52:32",
+      "https://news.ycombinator.com/item?id=34824807"
+    ],
+    [
+      "Bay Area homeowner is the face of California’s latest housing drama",
+      "https://www.sfchronicle.com/bayarea/article/california-housing-problem-17783816.php"
     ]
   ],
   [
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2023-02-16, 12:36:35",
-      "https://news.ycombinator.com/item?id=34817881"
-    ],
-    [
-      "What Lights the Universe’s Standard Candles?",
-      "https://www.quantamagazine.org/what-lights-the-universes-standard-candles-20230208/"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 12:23:02",
       "https://news.ycombinator.com/item?id=34817779"
     ],
     [
       "Geo-Assist – An in-memory spatial engine to store and query spatial data",
       "https://github.com/thegeekyasian/geo-assist"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 09:38:12",
-      "https://news.ycombinator.com/item?id=34816757"
-    ],
-    [
-      "Jar of Fortune Files",
-      "http://fortunes.cat-v.org/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Wiser Sympathy: Theorizing plant intelligence in the nineteenth century",
       "https://www.laphamsquarterly.org/roundtable/wiser-sympathy"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 15:59:32",
+      "https://news.ycombinator.com/item?id=34805583"
+    ],
+    [
+      "All the Buns Are Blank",
+      "https://onefoottsunami.com/2023/02/15/all-the-buns-are-blank/"
     ]
   ]
 ]
