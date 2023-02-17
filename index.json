@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-02-17, 19:42:16",
+      "https://news.ycombinator.com/item?id=34839380"
+    ],
+    [
+      "Amazon Funds Seaweed Farming at Offshore Wind Farm to Test CO2 Capture",
+      "https://maritime-executive.com/article/amazon-funds-seaweed-farming-test-of-co2-capture-at-offshore-wind-farm"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 19:38:52",
       "https://news.ycombinator.com/item?id=34839329"
     ],
     [
-      "Twilio Flex outage now 6 hours after laying off 28% staff",
+      "Twilio Flex outage now 6 hours after laying off ~26% staff",
       "https://status.twilio.com"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Amazon will require employees return to the office 3 days a week",
       "https://www.seattletimes.com/business/amazon-will-require-employees-return-to-the-office-3-days-a-week/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 18:28:24",
-      "https://news.ycombinator.com/item?id=34838422"
-    ],
-    [
-      "Show HN: Epstein Documents, Fully Searchable",
-      "https://collie.ai/show/epstein"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-02-17, 11:25:14",
+      "https://news.ycombinator.com/item?id=34833387"
+    ],
+    [
+      "Reducing Tailscale’s binary size on macOS",
+      "https://tailscale.com/blog/macos-binary-size/"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 10:34:29",
       "https://news.ycombinator.com/item?id=34833052"
     ],
@@ -257,16 +267,6 @@
     [
       "Firefox Android now supports Tampermonkey",
       "https://support.mozilla.org/en-US/kb/whats-new-firefox-android"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 11:07:04",
-      "https://news.ycombinator.com/item?id=34817268"
-    ],
-    [
-      "Blueprints – How objects work in JavaScript",
-      "https://www.innoq.com/en/articles/2023/02/blueprints-how-objects-work-in-javascript/"
     ]
   ],
   [
