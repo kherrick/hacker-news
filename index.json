@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-02-17, 17:18:19",
+      "https://news.ycombinator.com/item?id=34837432"
+    ],
+    [
+      "OpenAI Buys Ai.com for $11M",
+      "https://warpcast.com/giu/0x42b933"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 16:39:15",
       "https://news.ycombinator.com/item?id=34836877"
     ],
     [
       "The secret sauce of TikTok’s recommendations",
       "https://www.shaped.ai/blog/the-secret-sauce-of-tik-toks-recommendations"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 16:26:21",
+      "https://news.ycombinator.com/item?id=34836683"
+    ],
+    [
+      "Waiting for Postgres 16: Cumulative I&#x2F;O statistics with pg_stat_io",
+      "https://pganalyze.com/blog/pg-stat-io"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-02-17, 11:13:20",
-      "https://news.ycombinator.com/item?id=34833311"
-    ],
-    [
-      "What’s wrong with bananas",
-      "https://worldsensorium.com/whats-wrong-with-bananas/"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 09:51:27",
       "https://news.ycombinator.com/item?id=34832779"
     ],
@@ -187,16 +197,6 @@
     [
       "Firefox Android now supports Tampermonkey",
       "https://support.mozilla.org/en-US/kb/whats-new-firefox-android"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 02:19:26",
-      "https://news.ycombinator.com/item?id=34829855"
-    ],
-    [
-      "Simple Modern JavaScript Using JavaScript Modules and Import Maps",
-      "https://vue-mjs.web-templates.io/blog/javascript"
     ]
   ],
   [
