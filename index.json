@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-02-17, 20:24:26",
+      "https://news.ycombinator.com/item?id=34840039"
+    ],
+    [
+      "Intuit pouring money into lobbying amid push for free government-run tax filing",
+      "https://www.opensecrets.org/news/2023/02/turbotax-parent-company-intuit-is-pouring-more-money-than-ever-into-lobbying-amid-push-for-free-government-run-tax-filing/"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 19:42:16",
       "https://news.ycombinator.com/item?id=34839380"
     ],
     [
-      "Amazon Funds Seaweed Farming at Offshore Wind Farm to Test CO2 Capture",
+      "Amazon funds seaweed farming at offshore wind farm to test CO2 capture",
       "https://maritime-executive.com/article/amazon-funds-seaweed-farming-test-of-co2-capture-at-offshore-wind-farm"
     ]
   ],
@@ -15,18 +25,8 @@
       "https://news.ycombinator.com/item?id=34839329"
     ],
     [
-      "Twilio Flex outage now 6 hours after laying off ~26% staff",
+      "Errors for the Twilio Rest API impacting multiple services",
       "https://status.twilio.com"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 19:34:18",
-      "https://news.ycombinator.com/item?id=34839263"
-    ],
-    [
-      "John Carmack on lead time to push fixes in startups",
-      "https://twitter.com/id_aa_carmack/status/1626389610635923457"
     ]
   ],
   [
@@ -35,8 +35,18 @@
       "https://news.ycombinator.com/item?id=34839090"
     ],
     [
-      "Black Holes as the Source of Dark Energy",
+      "Black holes as the source of dark energy",
       "https://aasnova.org/2023/02/15/black-holes-as-the-source-of-dark-energy/"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 19:11:25",
+      "https://news.ycombinator.com/item?id=34838946"
+    ],
+    [
+      "NASA is using AI to design alien-looking spacecraft and mission hardware",
+      "https://www.fastcompany.com/90851698/nasas-new-generative-ai-designed-parts-look-like-theyre-from-an-alien-starship"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "GoDaddy: Hackers stole source code, installed malware in multi-year breach",
       "https://www.bleepingcomputer.com/news/security/godaddy-hackers-stole-source-code-installed-malware-in-multi-year-breach/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 17:55:32",
-      "https://news.ycombinator.com/item?id=34837976"
-    ],
-    [
-      "Berkshire Hathaway buys more AAPL stock, ditches most of TSMC",
-      "https://9to5mac.com/2023/02/14/warren-buffetts-berkshire-aapl-stock/"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=34836700"
     ],
     [
-      "How The washington Post is replacing Mapbox with open source solutions",
+      "Replacing Mapbox with open source solutions",
       "https://www.kschaul.com/post/2023/02/16/how-the-post-is-replacing-mapbox-with-open-source-solutions/"
     ]
   ],
