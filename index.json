@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-02-17, 16:43:05",
+      "https://news.ycombinator.com/item?id=34836934"
+    ],
+    [
+      "Unpacking the Benefits of Zero Trust Architecture as Defined by NIST",
+      "https://www.pomerium.com/blog/what-are-the-benefits-zero-trust-brings-to-organizations/"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 16:39:15",
       "https://news.ycombinator.com/item?id=34836877"
     ],
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=34833311"
     ],
     [
-      "What’s wrong with bananas",
+      "What’s Wrong with Bananas (2018)",
       "https://worldsensorium.com/whats-wrong-with-bananas/"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-02-17, 04:57:03",
-      "https://news.ycombinator.com/item?id=34830961"
-    ],
-    [
-      "NetHack 3.6.7",
-      "https://www.nethack.org/v367/release.html"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 04:07:30",
       "https://news.ycombinator.com/item?id=34830629"
     ],
@@ -227,16 +227,6 @@
     [
       "Sloth – A Mac app that shows all open files, directories, sockets, etc.",
       "https://github.com/sveinbjornt/Sloth"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 18:36:41",
-      "https://news.ycombinator.com/item?id=34823402"
-    ],
-    [
-      "Web Push for Web Apps on iOS and iPadOS",
-      "https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "All the Buns Are Blank",
       "https://onefoottsunami.com/2023/02/15/all-the-buns-are-blank/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 10:00:44",
+      "https://news.ycombinator.com/item?id=34801884"
+    ],
+    [
+      "Conway&#x27;s Game of Life: Mathematics and Construction",
+      "https://conwaylife.com/book/"
     ]
   ]
 ]
