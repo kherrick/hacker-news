@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-17, 02:19:26",
+      "https://news.ycombinator.com/item?id=34829855"
+    ],
+    [
+      "Simple Modern JavaScript Using JavaScript Modules and Import Maps",
+      "https://vue-mjs.web-templates.io/blog/javascript"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 23:18:22",
       "https://news.ycombinator.com/item?id=34828124"
     ],
@@ -77,16 +87,6 @@
     [
       "Writing JavaScript without a build system",
       "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 20:33:11",
-      "https://news.ycombinator.com/item?id=34825573"
-    ],
-    [
-      "The Silicon Valley Loop",
-      "https://nymag.com/intelligencer/2023/02/the-silicon-valley-loop-malcolm-harriss-palo-alto.html"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
+      "2023-02-16, 12:36:35",
+      "https://news.ycombinator.com/item?id=34817881"
+    ],
+    [
+      "What Lights the Universe’s Standard Candles?",
+      "https://www.quantamagazine.org/what-lights-the-universes-standard-candles-20230208/"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 12:17:26",
       "https://news.ycombinator.com/item?id=34817743"
     ],
     [
       "Rise of ‘zombie’ VCs as startup valuations plunge",
       "https://www.cnbc.com/2023/02/16/rise-of-zombie-vcs-haunts-tech-investors-as-startup-valuations-plunge.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 11:52:25",
-      "https://news.ycombinator.com/item?id=34817550"
-    ],
-    [
-      "SatCat5: FPGA gateware that implements a low-power, mixed-media Ethernet switch",
-      "https://github.com/the-aerospace-corporation/satcat5"
     ]
   ],
   [
