@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2023-02-17, 19:00:08",
-      "https://news.ycombinator.com/item?id=34838828"
+      "2023-02-17, 19:34:18",
+      "https://news.ycombinator.com/item?id=34839263"
     ],
     [
-      "Amazon calls employees back to office 3 days a week starting 5&#x2F;1",
-      "https://www.levels.fyi/community/thread/ayOi5T/amazon-calls-employees-back-to-office-3-days-a-week-starting-51"
+      "John Carmack on lead time to push fixes in startups",
+      "https://twitter.com/id_aa_carmack/status/1626389610635923457"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 19:23:46",
+      "https://news.ycombinator.com/item?id=34839090"
+    ],
+    [
+      "Black Holes as the Source of Dark Energy",
+      "https://aasnova.org/2023/02/15/black-holes-as-the-source-of-dark-energy/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "GoDaddy: Hackers stole source code, installed malware in multi-year breach",
       "https://www.bleepingcomputer.com/news/security/godaddy-hackers-stole-source-code-installed-malware-in-multi-year-breach/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 18:11:22",
-      "https://news.ycombinator.com/item?id=34838191"
-    ],
-    [
-      "Did an F-22 Blow Up an Illinois Club’s Hobby Balloon?",
-      "https://nymag.com/intelligencer/2023/02/did-an-f-22-blow-up-some-illinois-hobbyists-pico-balloon.html"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-02-17, 11:25:14",
-      "https://news.ycombinator.com/item?id=34833387"
-    ],
-    [
-      "Reducing Tailscale’s binary size on macOS",
-      "https://tailscale.com/blog/macos-binary-size/"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 10:34:29",
       "https://news.ycombinator.com/item?id=34833052"
     ],
@@ -267,6 +257,16 @@
     [
       "Firefox Android now supports Tampermonkey",
       "https://support.mozilla.org/en-US/kb/whats-new-firefox-android"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 11:07:04",
+      "https://news.ycombinator.com/item?id=34817268"
+    ],
+    [
+      "Blueprints – How objects work in JavaScript",
+      "https://www.innoq.com/en/articles/2023/02/blueprints-how-objects-work-in-javascript/"
     ]
   ],
   [
