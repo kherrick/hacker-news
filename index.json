@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-17, 04:07:30",
+      "https://news.ycombinator.com/item?id=34830629"
+    ],
+    [
+      "Firefox Android now supports tampermonkey",
+      "https://support.mozilla.org/en-US/kb/whats-new-firefox-android"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 02:19:26",
       "https://news.ycombinator.com/item?id=34829855"
     ],
@@ -17,6 +27,16 @@
     [
       "Modern SPAs without bundlers, CDNs, or Node.js",
       "https://kofi.sexy/blog/modern-spas"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 23:21:40",
+      "https://news.ycombinator.com/item?id=34828169"
+    ],
+    [
+      "Show HN: Inquery (YC W23) – Real-time events for Postgres",
+      "https://github.com/inqueryio/inquery"
     ]
   ],
   [
@@ -87,26 +107,6 @@
     [
       "Writing JavaScript without a build system",
       "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 20:33:11",
-      "https://news.ycombinator.com/item?id=34825573"
-    ],
-    [
-      "The Silicon Valley Loop",
-      "https://nymag.com/intelligencer/2023/02/the-silicon-valley-loop-malcolm-harriss-palo-alto.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 20:32:37",
-      "https://news.ycombinator.com/item?id=34825565"
-    ],
-    [
-      "Programming AIs worry me",
-      "https://buttondown.email/hillelwayne/archive/programming-ais-worry-me/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=34812388"
     ],
     [
-      "The Twelve Networking Truths",
+      "The Twelve Networking Truths (1996)",
       "https://www.ietf.org/rfc/rfc1925.txt"
     ]
   ],
