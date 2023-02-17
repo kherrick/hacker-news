@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-17, 01:16:30",
+      "https://news.ycombinator.com/item?id=34829375"
+    ],
+    [
+      "Household debt hit record $16.9T",
+      "https://abc7.com/us-household-debt-credit-cards-record-card-balance/12825921/"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 23:18:22",
       "https://news.ycombinator.com/item?id=34828124"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-02-16, 23:10:33",
-      "https://news.ycombinator.com/item?id=34828023"
+      "2023-02-16, 23:09:42",
+      "https://news.ycombinator.com/item?id=34828012"
     ],
     [
-      "The reason content creators worry about ChatGPT",
-      "https://jayacunzo.com/blog/chatgpt-generative-ai-replace-creators"
+      "Sloth – A Mac app that shows all open files, directories, sockets, etc.",
+      "https://github.com/sveinbjornt/Sloth"
     ]
   ],
   [
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2023-02-16, 21:48:19",
-      "https://news.ycombinator.com/item?id=34826884"
-    ],
-    [
-      "Sorting 400+ Chrome tabs in seconds",
-      "https://blog.entropy.observer/sorting-400-tabs-in-60-seconds/"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 21:44:26",
       "https://news.ycombinator.com/item?id=34826813"
     ],
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-02-16, 21:34:19",
-      "https://news.ycombinator.com/item?id=34826670"
-    ],
-    [
-      "List of Companies Hiring Globally",
-      "https://github.com/wceolin/global-hiring"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 21:22:36",
       "https://news.ycombinator.com/item?id=34826453"
     ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=34826085"
     ],
     [
-      "I made an early 2000s-inspired internet forum",
+      "Show HN: I made an early 2000s-inspired internet forum",
       "https://basementcommunity.com"
     ]
   ],
@@ -107,6 +97,16 @@
     [
       "Writing JavaScript without a build system",
       "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 20:33:11",
+      "https://news.ycombinator.com/item?id=34825573"
+    ],
+    [
+      "The Silicon Valley Loop",
+      "https://nymag.com/intelligencer/2023/02/the-silicon-valley-loop-malcolm-harriss-palo-alto.html"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-02-16, 19:44:29",
-      "https://news.ycombinator.com/item?id=34824653"
-    ],
-    [
-      "Hobby Club’s Missing Balloon Feared Shot Down by USAF",
-      "https://aviationweek.com/defense-space/aircraft-propulsion/hobby-clubs-missing-balloon-feared-shot-down-usaf"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 19:43:32",
       "https://news.ycombinator.com/item?id=34824635"
     ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2023-02-16, 18:37:27",
-      "https://news.ycombinator.com/item?id=34823416"
-    ],
-    [
-      "Controversial experiments that could make bird flu more risky to resume (2019)",
-      "https://www.science.org/content/article/exclusive-controversial-experiments-make-bird-flu-more-risky-poised-resume"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 18:36:41",
       "https://news.ycombinator.com/item?id=34823402"
     ],
@@ -181,12 +161,22 @@
   ],
   [
     [
-      "2023-02-16, 17:52:54",
-      "https://news.ycombinator.com/item?id=34822414"
+      "2023-02-16, 17:54:24",
+      "https://news.ycombinator.com/item?id=34822455"
     ],
     [
-      "Tesla recalls 360k vehicles, says full self-driving beta may cause crashes",
-      "https://www.cnbc.com/2023/02/16/tesla-recalls-362758-vehicles-says-full-self-driving-beta-software-may-cause-crashes.html"
+      "Moving my PC into my rack in a 2U case",
+      "https://www.jeffgeerling.com/blog/2023/moving-my-pc-my-rack-2u-case"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 17:46:36",
+      "https://news.ycombinator.com/item?id=34822281"
+    ],
+    [
+      "Where do stolen bikes go?",
+      "https://news.mit.edu/2023/where-do-stolen-bikes-go-0215"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Blowing holes in Seymour Hersh’s pipe dream",
       "https://oalexanderdk.substack.com/p/blowing-holes-in-seymour-hershs-pipe"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 17:23:08",
+      "https://news.ycombinator.com/item?id=34821818"
+    ],
+    [
+      "10BASE-T1S is the missing Ethernet link for automotive communications",
+      "https://www.analog.com/en/thought-leadership/why-10base-t1s-is-the-missing-ethernet-link.html"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "SatCat5: FPGA gateware that implements a low-power, mixed-media Ethernet switch",
       "https://github.com/the-aerospace-corporation/satcat5"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 10:11:46",
-      "https://news.ycombinator.com/item?id=34816918"
-    ],
-    [
-      "The dangers behind image resizing (2021)",
-      "https://zuru.tech/blog/the-dangers-behind-image-resizing"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2023-02-15, 22:48:12",
-      "https://news.ycombinator.com/item?id=34811990"
+      "2023-02-15, 23:18:41",
+      "https://news.ycombinator.com/item?id=34812388"
     ],
     [
-      "Roll your own JavaScript runtime (2022)",
-      "https://deno.com/blog/roll-your-own-javascript-runtime"
+      "The Twelve Networking Truths",
+      "https://www.ietf.org/rfc/rfc1925.txt"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 23:05:05",
+      "https://news.ycombinator.com/item?id=34812219"
+    ],
+    [
+      "Thirty years of oppressive spiritual cultivation at Apple: Part III",
+      "https://cherp.medium.com/connecting-dots-to-deaths-at-apple-cher-scarlett-e29d00774cce"
     ]
   ]
 ]
