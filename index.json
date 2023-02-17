@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-17, 04:57:03",
+      "https://news.ycombinator.com/item?id=34830961"
+    ],
+    [
+      "NetHack 3.6.7",
+      "https://www.nethack.org/v367/release.html"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 04:07:30",
       "https://news.ycombinator.com/item?id=34830629"
     ],
@@ -107,16 +117,6 @@
     [
       "Microsoft to support Windows 11 on M1 and M2 Macs through Parallels partnership",
       "https://www.theverge.com/2023/2/16/23602718/microsoft-windows-11-apple-mac-m1-m2-support-parallels-virtual-machines"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 19:43:32",
-      "https://news.ycombinator.com/item?id=34824635"
-    ],
-    [
-      "Nodebox: A Node.js runtime that runs in any browser",
-      "https://codesandbox.io/blog/announcing-sandpack-2"
     ]
   ],
   [
