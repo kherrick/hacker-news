@@ -41,22 +41,22 @@
   ],
   [
     [
-      "2023-02-17, 19:11:25",
-      "https://news.ycombinator.com/item?id=34838946"
-    ],
-    [
-      "NASA is using AI to design alien-looking spacecraft and mission hardware",
-      "https://www.fastcompany.com/90851698/nasas-new-generative-ai-designed-parts-look-like-theyre-from-an-alien-starship"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 18:52:10",
       "https://news.ycombinator.com/item?id=34838728"
     ],
     [
       "Sweet Home 3D is a free interior design application",
       "https://www.sweethome3d.com"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 18:39:42",
+      "https://news.ycombinator.com/item?id=34838583"
+    ],
+    [
+      "Tracking Viruses with WastewaterSCAN",
+      "https://stamen.com/down-in-the-sewers-tracking-viruses-with-wastewaterscan/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Show HN: Laudspeaker – open-source customer journey automation",
       "https://github.com/laudspeaker/laudspeaker"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 15:06:50",
-      "https://news.ycombinator.com/item?id=34835480"
-    ],
-    [
-      "Super Resolution: Image-to-Image Translation Using Deep Learning in ArcGIS Pro",
-      "https://www.esri.com/arcgis-blog/products/arcgis-pro/aec/super-resolution-image-to-image-translation-using-deep-learning-in-arcgis-pro/"
     ]
   ],
   [
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2023-02-17, 05:40:05",
-      "https://news.ycombinator.com/item?id=34831209"
+      "2023-02-17, 05:58:43",
+      "https://news.ycombinator.com/item?id=34831330"
     ],
     [
-      "Levi Walter Yaggy’s Geographical Maps and Charts",
-      "https://publicdomainreview.org/collection/yaggy-geographical-maps"
+      "The brain is a closet (2009)",
+      "https://usablelearning.com/2009/04/06/why-your-brain-is-a-closet/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Conway&#x27;s Game of Life: Mathematics and Construction",
       "https://conwaylife.com/book/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 09:24:38",
+      "https://news.ycombinator.com/item?id=34801674"
+    ],
+    [
+      "Rule 30 RNG in Racket (2012)",
+      "https://blog.jverkamp.com/2012/10/17/rule-30-rng/"
     ]
   ]
 ]
