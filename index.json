@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-02-17, 13:20:34",
-      "https://news.ycombinator.com/item?id=34834308"
+      "2023-02-17, 15:06:50",
+      "https://news.ycombinator.com/item?id=34835480"
     ],
     [
-      "Meta Gives Thousands of Staff Subpar Reviews",
-      "https://www.wsj.com/articles/og-mark-returns-at-meta-as-facebook-parent-gives-thousands-of-staff-subpar-reviews-56e648b4"
+      "Super Resolution: Image-to-Image Translation Using Deep Learning in ArcGIS Pro",
+      "https://www.esri.com/arcgis-blog/products/arcgis-pro/aec/super-resolution-image-to-image-translation-using-deep-learning-in-arcgis-pro/"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 14:44:14",
+      "https://news.ycombinator.com/item?id=34835200"
+    ],
+    [
+      "Audacium has officially merged with Tenacity",
+      "https://github.com/Audacium/audacium/commit/709c098bdc2968c12fcf9b7092af12d11f309101"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-02-16, 19:12:46",
-      "https://news.ycombinator.com/item?id=34824115"
-    ],
-    [
-      "Does your office have a library?",
-      "https://jonpauluritis.com/articles/does-your-office-have-a-library/"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 18:36:41",
       "https://news.ycombinator.com/item?id=34823402"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2023-02-16, 12:23:02",
+      "https://news.ycombinator.com/item?id=34817779"
+    ],
+    [
+      "Geo-Assist – An in-memory spatial engine to store and query spatial data",
+      "https://github.com/thegeekyasian/geo-assist"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 09:38:12",
       "https://news.ycombinator.com/item?id=34816757"
     ],
     [
       "Jar of Fortune Files",
       "http://fortunes.cat-v.org/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 08:01:28",
-      "https://news.ycombinator.com/item?id=34816184"
-    ],
-    [
-      "Transformer models: an introduction and catalog",
-      "https://arxiv.org/abs/2302.07730"
     ]
   ],
   [
