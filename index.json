@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-02-18, 21:10:36",
-      "https://news.ycombinator.com/item?id=34851123"
-    ],
-    [
-      "The following companies charge for 2FA features",
-      "https://2fatax.com/"
-    ]
-  ],
-  [
-    [
       "2023-02-18, 20:44:36",
       "https://news.ycombinator.com/item?id=34850890"
     ],
     [
       "The AI Mirror Test, which smart people keep failing",
       "https://www.theverge.com/23604075/ai-chatbots-bing-chatgpt-intelligent-sentient-mirror-test"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 20:12:02",
+      "https://news.ycombinator.com/item?id=34850571"
+    ],
+    [
+      "Voice.ai denies claim it violated open source software license requirements",
+      "https://www.theregister.com/2023/02/08/voiceai_open_source/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2023-02-18, 11:07:56",
+      "https://news.ycombinator.com/item?id=34845955"
+    ],
+    [
+      "Do all data structures resemble a linked list?",
+      "https://medium.com/@kellyselmc/do-all-data-structures-resemble-a-linked-list-2af5df3b6097"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 11:07:55",
       "https://news.ycombinator.com/item?id=34845954"
     ],
@@ -287,16 +297,6 @@
     [
       "A C64 MP3 Player",
       "https://lyonsden.net/a-c64-mp3-player/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 07:24:21",
-      "https://news.ycombinator.com/item?id=34816000"
-    ],
-    [
-      "Numen: Voice Control for Handsfree Computing",
-      "https://numenvoice.com/"
     ]
   ]
 ]
