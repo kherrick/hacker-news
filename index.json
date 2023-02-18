@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-18, 17:16:56",
+      "https://news.ycombinator.com/item?id=34848678"
+    ],
+    [
+      "Beautiful Binary Search in D",
+      "https://muscar.eu/shar-binary-search-meta.html"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 17:01:01",
       "https://news.ycombinator.com/item?id=34848471"
     ],
@@ -17,6 +27,16 @@
     [
       "Apple, please don’t take all of the buttons away",
       "https://www.theverge.com/2023/2/18/23604808/apple-iphone-15-pro-button-rumor-haptic"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 16:36:54",
+      "https://news.ycombinator.com/item?id=34848210"
+    ],
+    [
+      "Show HN: Node.js REPL with GPT3 Completion",
+      "https://github.com/roryrjb/node-gpt-repl"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-02-18, 07:09:02",
-      "https://news.ycombinator.com/item?id=34844716"
-    ],
-    [
-      "John Carmack on Functional Programming in C++ (2018)",
-      "http://www.sevangelatos.com/john-carmack-on/"
-    ]
-  ],
-  [
-    [
       "2023-02-18, 05:54:50",
       "https://news.ycombinator.com/item?id=34844334"
     ],
@@ -277,16 +287,6 @@
     [
       "Daily Sketch 2",
       "https://yuanchuan.dev/daily-sketch-2"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 00:12:00",
-      "https://news.ycombinator.com/item?id=34828729"
-    ],
-    [
-      "Recursive (Re-Entrant) Locks (2013)",
-      "https://blog.stephencleary.com/2013/04/recursive-re-entrant-locks.html"
     ]
   ],
   [
