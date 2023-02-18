@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-02-17, 23:02:34",
-      "https://news.ycombinator.com/item?id=34841800"
-    ],
-    [
-      "Amazon Announces RTO for Employees",
-      "https://www.cnbc.com/2023/02/17/amazon-employees-asked-to-be-in-office-three-days-a-week-andy-jassy.html"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 22:54:49",
       "https://news.ycombinator.com/item?id=34841742"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2023-02-17, 11:25:14",
-      "https://news.ycombinator.com/item?id=34833387"
-    ],
-    [
-      "Reducing Tailscale’s binary size on macOS",
-      "https://tailscale.com/blog/macos-binary-size/"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 10:34:29",
       "https://news.ycombinator.com/item?id=34833052"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2023-02-17, 04:07:30",
+      "https://news.ycombinator.com/item?id=34830629"
+    ],
+    [
+      "Firefox Android now supports Tampermonkey",
+      "https://support.mozilla.org/en-US/kb/whats-new-firefox-android"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 11:07:04",
       "https://news.ycombinator.com/item?id=34817268"
     ],
@@ -297,6 +287,16 @@
     [
       "Conway&#x27;s Game of Life: Mathematics and Construction",
       "https://conwaylife.com/book/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 09:24:38",
+      "https://news.ycombinator.com/item?id=34801674"
+    ],
+    [
+      "Rule 30 RNG in Racket (2012)",
+      "https://blog.jverkamp.com/2012/10/17/rule-30-rng/"
     ]
   ]
 ]
