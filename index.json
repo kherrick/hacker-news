@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-18, 16:06:54",
+      "https://news.ycombinator.com/item?id=34847912"
+    ],
+    [
+      "Text Is All You Need",
+      "https://studio.ribbonfarm.com/p/text-is-all-you-need"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 15:38:48",
       "https://news.ycombinator.com/item?id=34847650"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2023-02-18, 13:52:33",
-      "https://news.ycombinator.com/item?id=34846937"
-    ],
-    [
-      "An instant camera using e-paper as film",
-      "https://hackaday.com/2023/02/10/an-instant-camera-using-e-paper-as-film/"
-    ]
-  ],
-  [
-    [
       "2023-02-18, 13:39:34",
       "https://news.ycombinator.com/item?id=34846857"
     ],
@@ -91,12 +91,32 @@
   ],
   [
     [
+      "2023-02-18, 13:05:01",
+      "https://news.ycombinator.com/item?id=34846621"
+    ],
+    [
+      "A Guide to High-Altitude Objects",
+      "https://www.nytimes.com/interactive/2023/02/16/science/ufo-balloon-high-altitude-objects.html"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 12:54:51",
       "https://news.ycombinator.com/item?id=34846546"
     ],
     [
       "Doom the Way It Was Meant to Be Played – v1.1 Multi-Monitor",
       "https://www.youtube.com/watch?v=q3NQQ7bPf6U"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 12:21:28",
+      "https://news.ycombinator.com/item?id=34846366"
+    ],
+    [
+      "Postgres Unlogged Tables",
+      "https://www.crunchydata.com/blog/postgresl-unlogged-tables"
     ]
   ],
   [
@@ -117,6 +137,16 @@
     [
       "OWASP Needs to Evolve",
       "https://github.com/owasp-change/owasp-change.github.io"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 08:02:56",
+      "https://news.ycombinator.com/item?id=34844981"
+    ],
+    [
+      "Huell Howser Archives: California’s Gold",
+      "https://blogs.chapman.edu/huell-howser-archives/"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2023-02-17, 16:27:30",
-      "https://news.ycombinator.com/item?id=34836700"
-    ],
-    [
-      "Replacing Mapbox with open source solutions",
-      "https://www.kschaul.com/post/2023/02/16/how-the-post-is-replacing-mapbox-with-open-source-solutions/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 12:23:17",
-      "https://news.ycombinator.com/item?id=34833803"
-    ],
-    [
-      "The Untold Story of a Music Royalty&#x27;s Tragic End",
-      "https://jjpryor.substack.com/p/the-untold-story-of-a-music-royaltys"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 11:02:30",
       "https://news.ycombinator.com/item?id=34833229"
     ],
@@ -237,16 +247,6 @@
     [
       "A C64 MP3 Player",
       "https://lyonsden.net/a-c64-mp3-player/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 10:10:53",
-      "https://news.ycombinator.com/item?id=34832904"
-    ],
-    [
-      "Show HN: Coerce – Distributed actor framework in Rust",
-      "https://github.com/LeonHartley/Coerce-rs"
     ]
   ],
   [
