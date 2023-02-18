@@ -1,12 +1,62 @@
 [
   [
     [
+      "2023-02-18, 04:16:07",
+      "https://news.ycombinator.com/item?id=34843841"
+    ],
+    [
+      "Civilization 7 Is in Development",
+      "https://www.polygon.com/23604146/civilization-7-release-date-firaxis-games-announcement"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 03:59:06",
+      "https://news.ycombinator.com/item?id=34843748"
+    ],
+    [
+      "GitHub Is Down",
+      "https://www.githubstatus.com/incidents/t2xwk9mz56f4"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 03:10:46",
+      "https://news.ycombinator.com/item?id=34843483"
+    ],
+    [
+      "Meta’s Push to Solve the Noisy Office",
+      "https://www.wsj.com/articles/inside-metas-push-to-solve-the-noisy-office-ba43042"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 02:42:02",
       "https://news.ycombinator.com/item?id=34843306"
     ],
     [
       "The Janet Language",
       "https://janet-lang.org"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 02:17:34",
+      "https://news.ycombinator.com/item?id=34843163"
+    ],
+    [
+      "Symbolic Discovery of Optimization Algorithms",
+      "https://arxiv.org/abs/2302.06675"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 02:09:09",
+      "https://news.ycombinator.com/item?id=34843128"
+    ],
+    [
+      "It&#x27;s probably time to stop recommending Clean Code (2020)",
+      "https://qntm.org/clean"
     ]
   ],
   [
@@ -27,16 +77,6 @@
     [
       "Rejected Emoji Proposals",
       "https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 01:49:33",
-      "https://news.ycombinator.com/item?id=34843034"
-    ],
-    [
-      "An update on two-factor authentication using SMS on Twitter",
-      "https://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "Making macOS Apps Uninstallable",
       "https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 22:50:46",
-      "https://news.ycombinator.com/item?id=34841705"
-    ],
-    [
-      "Clinic to open near Ohio derailment as health worries linger",
-      "https://apnews.com/article/pennsylvania-ohio-climate-and-environment-health-ad32648e67289166f9ae1e9d104ca53b"
     ]
   ],
   [
@@ -127,16 +157,6 @@
     [
       "First UK child to receive gene therapy for fatal genetic disorder is now healthy",
       "https://www.livescience.com/1st-uk-child-to-receive-gene-therapy-for-fatal-genetic-disorder-is-now-happy-and-healthy"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 19:42:16",
-      "https://news.ycombinator.com/item?id=34839380"
-    ],
-    [
-      "Amazon funds seaweed farming at offshore wind farm to test CO2 capture",
-      "https://maritime-executive.com/article/amazon-funds-seaweed-farming-test-of-co2-capture-at-offshore-wind-farm"
     ]
   ],
   [
@@ -221,42 +241,22 @@
   ],
   [
     [
-      "2023-02-17, 14:44:14",
-      "https://news.ycombinator.com/item?id=34835200"
-    ],
-    [
-      "Audacium has officially merged with Tenacity",
-      "https://github.com/Audacium/audacium/commit/709c098bdc2968c12fcf9b7092af12d11f309101"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 14:35:19",
-      "https://news.ycombinator.com/item?id=34835096"
-    ],
-    [
-      "Big Tech lobbyist language made it verbatim into NY’s hedged repair bill",
-      "https://arstechnica.com/tech-policy/2023/02/report-reveals-the-influence-big-tech-lobbyists-had-on-new-yorks-repair-bill/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 14:31:41",
-      "https://news.ycombinator.com/item?id=34835063"
-    ],
-    [
-      "Type constraints in 65 lines of SQL",
-      "https://supabase.com/blog/type-constraints-in-65-lines-of-sql"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 10:34:29",
       "https://news.ycombinator.com/item?id=34833052"
     ],
     [
       "Newly released footage of a 1986 Titanic dive reveals the ship&#x27;s interior",
       "https://www.npr.org/2023/02/16/1157430021/titanic-wreck-new-footage-1986"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 09:33:08",
+      "https://news.ycombinator.com/item?id=34832686"
+    ],
+    [
+      "Founder Intuition vs. Team Expertise vs. Customer Expertise",
+      "https://caseyaccidental.com/founder-intuition-team-expertise/"
     ]
   ],
   [
