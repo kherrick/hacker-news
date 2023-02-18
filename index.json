@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-18, 17:44:34",
+      "https://news.ycombinator.com/item?id=34849024"
+    ],
+    [
+      "Password protect a static HTML page",
+      "https://github.com/robinmoisson/staticrypt"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 17:43:44",
+      "https://news.ycombinator.com/item?id=34849013"
+    ],
+    [
+      "Why Firms Are Struggling with the U.S. Economy’s Soft Landing",
+      "https://hbr.org/2023/02/why-firms-are-struggling-with-the-u-s-economys-soft-landing"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 17:16:56",
       "https://news.ycombinator.com/item?id=34848678"
     ],
@@ -17,16 +37,6 @@
     [
       "Patterns (YC S21) is hiring to build the best AI app dev platform",
       "http://patterns.app/"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 16:54:14",
-      "https://news.ycombinator.com/item?id=34848400"
-    ],
-    [
-      "Apple, please don’t take all of the buttons away",
-      "https://www.theverge.com/2023/2/18/23604808/apple-iphone-15-pro-button-rumor-haptic"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Text Is All You Need",
       "https://studio.ribbonfarm.com/p/text-is-all-you-need"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 15:59:22",
-      "https://news.ycombinator.com/item?id=34847842"
-    ],
-    [
-      "Chat with Historical Figures Using AI – Learn from the Past in a Fun New Way",
-      "https://apps.apple.com/us/app/talkto-ai-chat-ai-characters/id1671836061"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Cashless society in Switzerland? People to vote on keeping cash forever",
       "https://www.euronews.com/next/2023/02/06/cashless-society-not-in-switzerland-where-people-will-vote-to-keeping-banknotes-and-coins-"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 14:33:37",
-      "https://news.ycombinator.com/item?id=34847194"
-    ],
-    [
-      "ChatGPT-3: Google Says AI Generated Contents Are Against Webmaster Guidelines",
-      "https://www.steadipulse.com/2023/02/chatgpt-3-vs-google-webmaster-guidelines.html"
     ]
   ],
   [
@@ -231,22 +221,32 @@
   ],
   [
     [
-      "2023-02-18, 02:42:02",
-      "https://news.ycombinator.com/item?id=34843306"
-    ],
-    [
-      "The Janet Language",
-      "https://janet-lang.org"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 19:51:14",
       "https://news.ycombinator.com/item?id=34839528"
     ],
     [
       "First UK child to receive gene therapy for fatal genetic disorder is now healthy",
       "https://www.livescience.com/1st-uk-child-to-receive-gene-therapy-for-fatal-genetic-disorder-is-now-happy-and-healthy"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 18:52:10",
+      "https://news.ycombinator.com/item?id=34838728"
+    ],
+    [
+      "Sweet Home 3D is a free interior design application",
+      "https://www.sweethome3d.com"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 10:42:04",
+      "https://news.ycombinator.com/item?id=34833098"
+    ],
+    [
+      "Show HN: I built a custom USB Trackball",
+      "https://www.xythobuz.de/trackball_v1.html"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-02-17, 09:33:08",
-      "https://news.ycombinator.com/item?id=34832686"
+      "2023-02-17, 06:15:17",
+      "https://news.ycombinator.com/item?id=34831423"
     ],
     [
-      "Founder Intuition vs. Team Expertise vs. Customer Expertise",
-      "https://caseyaccidental.com/founder-intuition-team-expertise/"
+      "P3synth: MIDI synthesizer and player running on Processing 4",
+      "https://github.com/vlcoo/P3synth"
     ]
   ],
   [
