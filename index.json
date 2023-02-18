@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-02-17, 16:26:21",
-      "https://news.ycombinator.com/item?id=34836683"
-    ],
-    [
-      "Waiting for Postgres 16: Cumulative I&#x2F;O statistics with pg_stat_io",
-      "https://pganalyze.com/blog/pg-stat-io"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 12:55:57",
       "https://news.ycombinator.com/item?id=34834075"
     ],
@@ -247,6 +237,16 @@
     [
       "Newly released footage of a 1986 Titanic dive reveals the ship&#x27;s interior",
       "https://www.npr.org/2023/02/16/1157430021/titanic-wreck-new-footage-1986"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 10:10:53",
+      "https://news.ycombinator.com/item?id=34832904"
+    ],
+    [
+      "Show HN: Coerce – Distributed actor framework in Rust",
+      "https://github.com/LeonHartley/Coerce-rs"
     ]
   ],
   [
