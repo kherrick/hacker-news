@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-18, 04:47:13",
+      "https://news.ycombinator.com/item?id=34843989"
+    ],
+    [
+      "Vancouver hospital patient loses Netflix access due to password crackdown",
+      "https://bc.ctvnews.ca/vancouver-hospital-patient-loses-netflix-access-due-to-password-crackdown-1.6279452"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 04:16:07",
       "https://news.ycombinator.com/item?id=34843841"
     ],
@@ -217,16 +227,6 @@
     [
       "Waiting for Postgres 16: Cumulative I&#x2F;O statistics with pg_stat_io",
       "https://pganalyze.com/blog/pg-stat-io"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 15:14:53",
-      "https://news.ycombinator.com/item?id=34835559"
-    ],
-    [
-      "Show HN: Laudspeaker – open-source customer journey automation",
-      "https://github.com/laudspeaker/laudspeaker"
     ]
   ],
   [
