@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-18, 19:06:53",
+      "https://news.ycombinator.com/item?id=34849967"
+    ],
+    [
+      "Steam now allows you to copy games over a local network to another PC",
+      "https://twitter.com/OnDeck/status/1626693524489121793"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 19:00:47",
       "https://news.ycombinator.com/item?id=34849902"
     ],
@@ -37,16 +47,6 @@
     [
       "Sips: Scriptable Image Processing System",
       "https://til.simonwillison.net/macos/sips"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 18:42:05",
-      "https://news.ycombinator.com/item?id=34849699"
-    ],
-    [
-      "Intel Open-Sources Its OpenCL CPU-Based Runtime",
-      "https://www.phoronix.com/news/Intel-OpenCL-CPU-Open-Source"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2023-02-18, 05:54:50",
-      "https://news.ycombinator.com/item?id=34844334"
+      "2023-02-17, 21:31:39",
+      "https://news.ycombinator.com/item?id=34840828"
     ],
     [
-      "Named Booleans prevent C++ bugs and save you time",
-      "https://raymii.org/s/blog/Named_Booleans_prevent_bugs.html"
+      "Play the game Taboo against AI",
+      "https://taboo-ai.vercel.app/"
     ]
   ],
   [
