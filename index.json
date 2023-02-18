@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-02-18, 19:00:47",
+      "https://news.ycombinator.com/item?id=34849902"
+    ],
+    [
+      "Debian 12 “Bookworm” Enters Its Soft Freeze",
+      "https://lists.debian.org/debian-devel-announce/2023/02/msg00003.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 18:55:01",
+      "https://news.ycombinator.com/item?id=34849838"
+    ],
+    [
+      "Amazon Takes a 50% Cut of Seller&#x27;s Revenue",
+      "https://www.marketplacepulse.com/articles/amazon-takes-a-50-cut-of-sellers-revenue"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 18:45:37",
+      "https://news.ycombinator.com/item?id=34849739"
+    ],
+    [
+      "Mozilla solves the Manifest V3 puzzle to save ad blockers from Chromapocalypse",
+      "https://adguard.com/en/blog/firefox-manifestv3-chrome-adblocking.html"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 18:44:57",
       "https://news.ycombinator.com/item?id=34849734"
     ],
     [
       "Sips: Scriptable Image Processing System",
       "https://til.simonwillison.net/macos/sips"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 18:42:05",
+      "https://news.ycombinator.com/item?id=34849699"
+    ],
+    [
+      "Intel Open-Sources Its OpenCL CPU-Based Runtime",
+      "https://www.phoronix.com/news/Intel-OpenCL-CPU-Open-Source"
     ]
   ],
   [
@@ -141,22 +181,12 @@
   ],
   [
     [
-      "2023-02-18, 13:39:34",
-      "https://news.ycombinator.com/item?id=34846857"
+      "2023-02-18, 13:02:08",
+      "https://news.ycombinator.com/item?id=34846590"
     ],
     [
-      "How pervasive is corporate fraud?",
-      "https://link.springer.com/article/10.1007/s11142-022-09738-5"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 13:28:49",
-      "https://news.ycombinator.com/item?id=34846786"
-    ],
-    [
-      "White Castle collecting burger slingers&#x27; fingerprints looks like a $17B mistake",
-      "https://www.theregister.com/2023/02/18/white_castle_fingerprints_fine/"
+      "From Erlang to Lunatic",
+      "https://mattpo.pe/posts/from-erlang-to-lunatic/"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2023-02-17, 18:52:10",
-      "https://news.ycombinator.com/item?id=34838728"
-    ],
-    [
-      "Sweet Home 3D is a free interior design application",
-      "https://www.sweethome3d.com"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 10:42:04",
       "https://news.ycombinator.com/item?id=34833098"
     ],
@@ -267,26 +287,6 @@
     [
       "A C64 MP3 Player",
       "https://lyonsden.net/a-c64-mp3-player/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 06:15:17",
-      "https://news.ycombinator.com/item?id=34831423"
-    ],
-    [
-      "P3synth: MIDI synthesizer and player running on Processing 4",
-      "https://github.com/vlcoo/P3synth"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 00:12:00",
-      "https://news.ycombinator.com/item?id=34828729"
-    ],
-    [
-      "Recursive (Re-Entrant) Locks (2013)",
-      "https://blog.stephencleary.com/2013/04/recursive-re-entrant-locks.html"
     ]
   ],
   [
