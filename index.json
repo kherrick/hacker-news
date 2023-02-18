@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-18, 07:09:02",
+      "https://news.ycombinator.com/item?id=34844716"
+    ],
+    [
+      "John Carmack on Functional Programming in C++ (2018)",
+      "http://www.sevangelatos.com/john-carmack-on/"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 05:54:50",
+      "https://news.ycombinator.com/item?id=34844334"
+    ],
+    [
+      "Named Booleans prevent C++ bugs and save you time",
+      "https://raymii.org/s/blog/Named_Booleans_prevent_bugs.html"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 04:55:43",
       "https://news.ycombinator.com/item?id=34844027"
     ],
@@ -57,16 +77,6 @@
     [
       "Grug Notes, A tool for text: simple, fast, self-organizing notes",
       "https://grugnotes.com/"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 01:27:06",
-      "https://news.ycombinator.com/item?id=34842895"
-    ],
-    [
-      "1Password Park – St. Thomas Ontario",
-      "https://www.railwaycitytourism.com/1password-park.html"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-02-17, 20:04:25",
-      "https://news.ycombinator.com/item?id=34839748"
-    ],
-    [
-      "Microsoft looks to tame Bing chatbot",
-      "https://apnews.com/article/technology-science-microsoft-corp-business-software-fb49e5d625bf37be0527e5173116bef3"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 19:51:14",
       "https://news.ycombinator.com/item?id=34839528"
     ],
@@ -197,16 +197,6 @@
     [
       "An overview of single-purpose Linux distributions",
       "https://lwn.net/SubscriberLink/922968/4a69aa7f1f2332d7/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 16:43:05",
-      "https://news.ycombinator.com/item?id=34836934"
-    ],
-    [
-      "Unpacking the Benefits of Zero Trust Architecture as Defined by NIST",
-      "https://www.pomerium.com/blog/what-are-the-benefits-zero-trust-brings-to-organizations/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Daily Sketch 2",
       "https://yuanchuan.dev/daily-sketch-2"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 00:12:00",
+      "https://news.ycombinator.com/item?id=34828729"
+    ],
+    [
+      "Recursive (Re-Entrant) Locks (2013)",
+      "https://blog.stephencleary.com/2013/04/recursive-re-entrant-locks.html"
     ]
   ],
   [
