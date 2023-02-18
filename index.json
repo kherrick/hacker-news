@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-18, 09:17:53",
+      "https://news.ycombinator.com/item?id=34845370"
+    ],
+    [
+      "How an AI Porn Industry Is Emerging Through Stable Diffusion",
+      "https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 07:09:02",
       "https://news.ycombinator.com/item?id=34844716"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2023-02-18, 04:42:34",
+      "https://news.ycombinator.com/item?id=34843963"
+    ],
+    [
+      "What modern utilities should be a standard part of a modern unixy distro?",
+      "https://exple.tive.org/blarg/2023/02/17/modern-problems-require-modern-solutions/"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 04:16:07",
       "https://news.ycombinator.com/item?id=34843841"
     ],
@@ -57,16 +77,6 @@
     [
       "Symbolic Discovery of Optimization Algorithms",
       "https://arxiv.org/abs/2302.06675"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 02:09:09",
-      "https://news.ycombinator.com/item?id=34843128"
-    ],
-    [
-      "It&#x27;s probably time to stop recommending Clean Code (2020)",
-      "https://qntm.org/clean"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-02-17, 18:36:48",
-      "https://news.ycombinator.com/item?id=34838551"
-    ],
-    [
-      "Amazon will require employees return to the office 3 days a week",
-      "https://www.seattletimes.com/business/amazon-will-require-employees-return-to-the-office-3-days-a-week/"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 16:27:30",
       "https://news.ycombinator.com/item?id=34836700"
     ],
@@ -207,16 +207,6 @@
     [
       "Better to micromanage than be disengaged",
       "https://lethain.com/better-micromanage-than-disengaged/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 10:34:29",
-      "https://news.ycombinator.com/item?id=34833052"
-    ],
-    [
-      "Newly released footage of a 1986 Titanic dive reveals the ship&#x27;s interior",
-      "https://www.npr.org/2023/02/16/1157430021/titanic-wreck-new-footage-1986"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "AMD ROCm: A Wasted Opportunity",
       "https://threedots.ovh/blog/2022/05/amd-rocm-a-wasted-opportunity/"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 06:15:17",
+      "https://news.ycombinator.com/item?id=34831423"
+    ],
+    [
+      "P3synth: MIDI synthesizer and player running on Processing 4",
+      "https://github.com/vlcoo/P3synth"
     ]
   ],
   [
