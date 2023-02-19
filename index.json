@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-19, 19:29:49",
+      "https://news.ycombinator.com/item?id=34860936"
+    ],
+    [
+      "Using AI tools to design an entire website",
+      "https://www.samdickie.me/writing/experiment-1-creating-a-landing-page-using-ai-tools-no-code"
+    ]
+  ],
+  [
+    [
+      "2023-02-19, 19:03:05",
+      "https://news.ycombinator.com/item?id=34860655"
+    ],
+    [
+      "Self hosting in 2023",
+      "https://grifel.dev/decentralization/"
+    ]
+  ],
+  [
+    [
       "2023-02-19, 18:16:23",
       "https://news.ycombinator.com/item?id=34860226"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
-      "2023-02-19, 18:02:35",
-      "https://news.ycombinator.com/item?id=34860073"
+      "2023-02-19, 18:03:09",
+      "https://news.ycombinator.com/item?id=34860078"
     ],
     [
-      "Lessons learnt while trying to modernize some C code",
-      "https://dorinlazar.ro/220710-trying-to-modernize-goaccess.en/"
+      "Recovery at California&#x27;s most beleaguered reservoir",
+      "https://www.cnn.com/2023/02/19/us/lake-oroville-before-and-after-storms-climate/index.html"
     ]
   ],
   [
     [
-      "2023-02-19, 18:00:11",
-      "https://news.ycombinator.com/item?id=34860051"
+      "2023-02-19, 18:02:35",
+      "https://news.ycombinator.com/item?id=34860073"
     ],
     [
-      "City of Cincinnati to Close Water Intake at GCWW",
-      "https://www.cincinnati-oh.gov/cityofcincinnati/news/city-to-close-water-intake-feb2023/"
+      "Lessons learnt while trying to modernize some C code (2022)",
+      "https://dorinlazar.ro/220710-trying-to-modernize-goaccess.en/"
     ]
   ],
   [
@@ -41,22 +61,32 @@
   ],
   [
     [
-      "2023-02-19, 17:48:06",
-      "https://news.ycombinator.com/item?id=34859919"
-    ],
-    [
-      "Meta selling new “Meta Verified” blue badge for $12-15&#x2F;month",
-      "https://www.facebook.com/zuck/posts/pfbid02979GyAHwTKsMd7ngCiHTRCHyeTCEHwYe9Evq3YV2ffvxUY7fKVb9TGyKEUFBeo3kl"
-    ]
-  ],
-  [
-    [
       "2023-02-19, 17:37:17",
       "https://news.ycombinator.com/item?id=34859781"
     ],
     [
       "Talk-to-ChatGPT",
       "https://github.com/C-Nedelcu/talk-to-chatgpt"
+    ]
+  ],
+  [
+    [
+      "2023-02-19, 16:39:53",
+      "https://news.ycombinator.com/item?id=34859102"
+    ],
+    [
+      "Is parallel programming hard, and, if so, what can you do about it? [pdf]",
+      "https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2022.09.25a.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-02-19, 16:03:23",
+      "https://news.ycombinator.com/item?id=34858691"
+    ],
+    [
+      "Facebook Announces Meta Verified",
+      "https://www.facebook.com/4/posts/good-morning-and-new-product-announcement-this-week-were-starting-to-roll-out-me/10114993498750111/"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2023-02-19, 15:23:58",
-      "https://news.ycombinator.com/item?id=34858321"
-    ],
-    [
-      "Germany raises red flags about Palantir’s big data dragnet",
-      "https://www.wired.com/story/palantir-germany-gotham-dragnet/"
-    ]
-  ],
-  [
-    [
       "2023-02-19, 15:23:49",
       "https://news.ycombinator.com/item?id=34858318"
     ],
@@ -107,16 +127,6 @@
     [
       "GPTZero Case Study – Exploring False Positives",
       "https://gonzoknows.com/posts/GPTZero-Case-Study/"
-    ]
-  ],
-  [
-    [
-      "2023-02-19, 15:20:06",
-      "https://news.ycombinator.com/item?id=34858285"
-    ],
-    [
-      "City-Builder Taken Off Steam After Fan Goes Rogue",
-      "https://kotaku.com/workers-resources-steam-pc-dmca-takedown-communism-1850125125"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=34855331"
     ],
     [
-      "Few lesser known tricks, quirks and features of C",
+      "Lesser known tricks, quirks and features of C",
       "https://blog.joren.ga/less-known-c"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Email: Explained from First Principles",
       "https://explained-from-first-principles.com/email/"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 04:42:38",
-      "https://news.ycombinator.com/item?id=34843965"
-    ],
-    [
-      "Queues should be empty",
-      "http://joshvoigts.com/articles/queues-should-be-empty/"
     ]
   ],
   [
