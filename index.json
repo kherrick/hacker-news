@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-02-19, 15:12:05",
+      "https://news.ycombinator.com/item?id=34858209"
+    ],
+    [
+      "The Cameras Worked Fine. Their Maker Said They Had Reached Their End of Life",
+      "https://www.wsj.com/articles/the-cameras-worked-fine-their-maker-said-they-had-reached-their-end-of-life-b6fd3036"
+    ]
+  ],
+  [
+    [
       "2023-02-19, 15:10:15",
       "https://news.ycombinator.com/item?id=34858190"
     ],
     [
       "Privilege drop, separation, and restricted-service operating mode in OpenBSD",
       "https://sha256.net/privsep.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-19, 14:39:47",
+      "https://news.ycombinator.com/item?id=34857920"
+    ],
+    [
+      "LOL Verifier",
+      "https://brianmoore.com/lol-verifier/"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Whisper: Wraps any Go io.ReadWriter in a secure tunnel using Ed25519&#x2F;X25519",
       "https://github.com/lukejoshuapark/whisper"
-    ]
-  ],
-  [
-    [
-      "2023-02-19, 13:00:04",
-      "https://news.ycombinator.com/item?id=34857228"
-    ],
-    [
-      "The age 30 crisis and seasons of a man‘s life",
-      "https://robkhenderson.substack.com/p/the-age-30-crisis-and-seasons-of"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "&quot;BGP at home&quot;: getting a DIA circuit installed at home",
       "https://aaka.sh/posts/20230129-bgp-at-home.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-19, 01:20:38",
-      "https://news.ycombinator.com/item?id=34853075"
-    ],
-    [
-      "80k megapixel panorama photograph of New York City (2021)",
-      "https://www.earthcam.net/projects/empirestatebuilding/gigapixelpanorama/2021/"
     ]
   ],
   [
