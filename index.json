@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-19, 18:16:23",
+      "https://news.ycombinator.com/item?id=34860226"
+    ],
+    [
+      "A Docker footgun led to a vandal deleting NewsBlur&#x27;s MongoDB database (2021)",
+      "https://blog.newsblur.com/2021/06/28/story-of-a-hacking/"
+    ]
+  ],
+  [
+    [
       "2023-02-19, 18:02:35",
       "https://news.ycombinator.com/item?id=34860073"
     ],
@@ -137,16 +147,6 @@
     [
       "LOL Verifier",
       "https://brianmoore.com/lol-verifier/"
-    ]
-  ],
-  [
-    [
-      "2023-02-19, 13:52:00",
-      "https://news.ycombinator.com/item?id=34857556"
-    ],
-    [
-      "Scintilla is a free source code editing component with a permissive license",
-      "https://www.scintilla.org/"
     ]
   ],
   [
