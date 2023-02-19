@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-02-19, 17:36:13",
-      "https://news.ycombinator.com/item?id=34859766"
+      "2023-02-19, 17:53:48",
+      "https://news.ycombinator.com/item?id=34859979"
     ],
     [
-      "Open-source is broken: the sad story of Denis Pushkarev (core-JS)",
-      "https://www.izoukhai.com/blog/the-sad-story-of-denis-pushkarev-zloirock-the-creator-of-core-js"
+      "Writing an Engineering Strategy",
+      "https://lethain.com/eng-strategies/"
+    ]
+  ],
+  [
+    [
+      "2023-02-19, 17:37:17",
+      "https://news.ycombinator.com/item?id=34859781"
+    ],
+    [
+      "Talk-to-ChatGPT",
+      "https://github.com/C-Nedelcu/talk-to-chatgpt"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2023-02-19, 13:52:00",
-      "https://news.ycombinator.com/item?id=34857556"
-    ],
-    [
-      "Scintilla is a free source code editing component with a permissive license",
-      "https://www.scintilla.org/"
-    ]
-  ],
-  [
-    [
       "2023-02-19, 13:35:53",
       "https://news.ycombinator.com/item?id=34857435"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-02-18, 13:03:38",
+      "https://news.ycombinator.com/item?id=34846606"
+    ],
+    [
+      "Email: Explained from First Principles",
+      "https://explained-from-first-principles.com/email/"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 10:57:14",
       "https://news.ycombinator.com/item?id=34845895"
     ],
@@ -277,16 +287,6 @@
     [
       "Queues should be empty",
       "http://joshvoigts.com/articles/queues-should-be-empty/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 13:47:37",
-      "https://news.ycombinator.com/item?id=34834579"
-    ],
-    [
-      "What does “excess liquidity sloshing around the financial system” mean?",
-      "https://renormalizetheworld.wordpress.com/2023/02/17/what-does-it-mean-for-there-to-be-excess-liquidity-sloshing-around-the-financial-system/"
     ]
   ],
   [
