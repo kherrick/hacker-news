@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-02-20, 01:12:27",
+      "https://news.ycombinator.com/item?id=34863784"
+    ],
+    [
+      "C-rusted: The Advantages of Rust, in C, without the Disadvantages",
+      "https://arxiv.org/abs/2302.05331"
+    ]
+  ],
+  [
+    [
       "2023-02-19, 22:39:20",
       "https://news.ycombinator.com/item?id=34862607"
     ],
@@ -37,16 +47,6 @@
     [
       "Library of Congress Digitization Strategy: 2023-2027",
       "https://blogs.loc.gov/thesignal/2023/02/library-of-congress-digitization-strategy-2023-2027/"
-    ]
-  ],
-  [
-    [
-      "2023-02-19, 20:24:19",
-      "https://news.ycombinator.com/item?id=34861465"
-    ],
-    [
-      "Rust – What made it “click” for me (Ownership and memory internals)",
-      "https://deavid.wordpress.com/2021/06/06/rust-what-made-it-click-for-me-ownership-memory-internals/"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2023-02-19, 12:02:49",
-      "https://news.ycombinator.com/item?id=34856866"
+      "2023-02-19, 07:55:52",
+      "https://news.ycombinator.com/item?id=34855485"
     ],
     [
-      "Building an ARM64 home server the hard way",
-      "https://jforberg.se/blog/posts/2023-02-19-rockpro64/rockpro64.html"
+      "Things, Names, and Numbers",
+      "https://mathenchant.wordpress.com/2023/02/17/things-names-and-numbers/"
     ]
   ],
   [
