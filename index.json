@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-20, 13:08:12",
+      "https://news.ycombinator.com/item?id=34867736"
+    ],
+    [
+      "Traceo is now open source",
+      "https://github.com/traceo-dev/traceo"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 12:12:46",
+      "https://news.ycombinator.com/item?id=34867384"
+    ],
+    [
+      "Developer with ADHD? You’re not alone",
+      "https://stackoverflow.blog/2023/02/19/developer-with-adhd-youre-not-alone/"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 12:09:28",
+      "https://news.ycombinator.com/item?id=34867365"
+    ],
+    [
+      "There’s been no disinvestment in infrastructure (2017)",
+      "https://www.strongtowns.org/journal/2017/9/17/everything-thats-wrong-with-america-in-two-charts-not"
+    ]
+  ],
+  [
+    [
       "2023-02-20, 12:09:05",
       "https://news.ycombinator.com/item?id=34867359"
     ],
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=34866901"
     ],
     [
-      "Gitlab&#x27;s Startup Acquisition Process",
+      "Gitlab’s Startup Acquisition Process",
       "https://about.gitlab.com/handbook/acquisitions/acquisition-process/"
     ]
   ],
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34866668"
     ],
     [
-      "A complete guide to Linux process scheduling [pdf]",
+      "A complete guide to Linux process scheduling (2015) [pdf]",
       "https://trepo.tuni.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf"
     ]
   ],
@@ -127,16 +157,6 @@
     [
       "AWS Creates New Policy-Based Access Control Language Cedar",
       "https://www.infoq.com/news/2023/02/aws-policy-language-cedar/"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 06:51:34",
-      "https://news.ycombinator.com/item?id=34865695"
-    ],
-    [
-      "Ask HN: What are these strange random strings spamming my blog?",
-      "https://news.ycombinator.com/item?id=34865695"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-02-20, 01:12:27",
-      "https://news.ycombinator.com/item?id=34863784"
-    ],
-    [
-      "C-rusted: The advantages of Rust, in C, without the disadvantages",
-      "https://arxiv.org/abs/2302.05331"
-    ]
-  ],
-  [
-    [
       "2023-02-19, 22:39:20",
       "https://news.ycombinator.com/item?id=34862607"
     ],
@@ -237,16 +247,6 @@
     [
       "What Is Textmode?",
       "http://polyducks.co.uk/what-is-textmode/"
-    ]
-  ],
-  [
-    [
-      "2023-02-19, 10:58:20",
-      "https://news.ycombinator.com/item?id=34856449"
-    ],
-    [
-      "The world’s first modern airliner",
-      "https://onfirstup.com/boeing/BNN/articles/the-world-s-first-modern-airliner-1"
     ]
   ],
   [
