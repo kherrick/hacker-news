@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-20, 19:29:58",
+      "https://news.ycombinator.com/item?id=34871824"
+    ],
+    [
+      "The Philosophy of Computer Science",
+      "https://plato.stanford.edu/entries/computer-science/"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 18:51:14",
+      "https://news.ycombinator.com/item?id=34871370"
+    ],
+    [
+      "Microsoft&#x27;s Bing plans AI ads in early pitch to advertisers",
+      "https://www.reuters.com/technology/microsofts-bing-plans-ai-ads-early-pitch-advertisers-2023-02-17/"
+    ]
+  ],
+  [
+    [
       "2023-02-20, 18:01:01",
       "https://news.ycombinator.com/item?id=34870752"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-02-20, 14:02:10",
-      "https://news.ycombinator.com/item?id=34868128"
-    ],
-    [
-      "Teams are becoming smaller",
-      "https://www.bbc.com/worklife/article/20230217-how-shrinking-teams-are-pushing-workers-to-the-brink"
-    ]
-  ],
-  [
-    [
       "2023-02-20, 13:08:12",
       "https://news.ycombinator.com/item?id=34867736"
     ],
@@ -177,16 +187,6 @@
     [
       "How to Start Your Blog in 2023",
       "https://molodtsov.me/2023/02/how-to-start-your-blog-in-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 11:58:54",
-      "https://news.ycombinator.com/item?id=34867299"
-    ],
-    [
-      "Amsterdam supermarket offers free groceries, life coach to struggling families",
-      "https://nltimes.nl/2023/01/25/amsterdam-supermarket-offers-free-groceries-life-coach-struggling-families"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2023-02-20, 08:18:30",
-      "https://news.ycombinator.com/item?id=34866155"
-    ],
-    [
-      "Show HN: ProtoCURL, a curl for Protobuf",
-      "https://github.com/qaware/protocurl"
-    ]
-  ],
-  [
-    [
       "2023-02-20, 06:51:34",
       "https://news.ycombinator.com/item?id=34865695"
     ],
     [
       "Ask HN: What are these strange random strings spamming my blog?",
       "https://news.ycombinator.com/item?id=34865695"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 05:34:32",
+      "https://news.ycombinator.com/item?id=34865262"
+    ],
+    [
+      "Low-Level Software Security for Compiler Developers",
+      "https://llsoftsec.github.io/llsoftsecbook/#introduction"
     ]
   ],
   [
