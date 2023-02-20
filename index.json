@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-02-19, 23:19:06",
-      "https://news.ycombinator.com/item?id=34862931"
+      "2023-02-20, 00:32:51",
+      "https://news.ycombinator.com/item?id=34863494"
     ],
     [
-      "Vinyl Chloride and the Ohio Train Derailment",
-      "https://www.mcgill.ca/oss/article/health-and-nutrition-history/vinyl-chloride-and-ohio-train-derailment"
+      "Police say GPS tag darts can eliminate need for dangerous high-speed chases",
+      "https://www.cbsnews.com/chicago/news/oak-brook-police-gps-tag-darts/"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 00:02:40",
+      "https://news.ycombinator.com/item?id=34863273"
+    ],
+    [
+      "Bing threatens to dox a student in revenge for prompt hacking",
+      "https://twitter.com/tobyordoxford/status/1627414519784910849"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34862607"
     ],
     [
-      "I Still ‘Lisp’ (and You Should Too)",
+      "I still Lisp (2021)",
       "https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8"
     ]
   ],
@@ -25,18 +35,18 @@
       "https://news.ycombinator.com/item?id=34862432"
     ],
     [
-      "IBM Research&#x27;s Vela Is an AI Supercomputer in the Cloud – IBM Research Blog",
+      "IBM Research&#x27;s Vela Is an AI Supercomputer in the Cloud",
       "https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster"
     ]
   ],
   [
     [
-      "2023-02-19, 20:34:25",
-      "https://news.ycombinator.com/item?id=34861575"
+      "2023-02-19, 20:24:19",
+      "https://news.ycombinator.com/item?id=34861465"
     ],
     [
-      "Google abandoned Fastlane, it has no maintainers currently",
-      "https://mastodon.social/@joshdholtz/109892201251474243"
+      "Rust – What made it “click” for me (Ownership and memory internals)",
+      "https://deavid.wordpress.com/2021/06/06/rust-what-made-it-click-for-me-ownership-memory-internals/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Writing an Engineering Strategy",
       "https://lethain.com/eng-strategies/"
-    ]
-  ],
-  [
-    [
-      "2023-02-19, 17:37:17",
-      "https://news.ycombinator.com/item?id=34859781"
-    ],
-    [
-      "Talk-to-ChatGPT",
-      "https://github.com/C-Nedelcu/talk-to-chatgpt"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-02-19, 13:09:27",
-      "https://news.ycombinator.com/item?id=34857287"
-    ],
-    [
-      "The Norvig – Chomsky debate (2017)",
-      "http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html"
-    ]
-  ],
-  [
-    [
       "2023-02-19, 12:33:50",
       "https://news.ycombinator.com/item?id=34857087"
     ],
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2023-02-19, 02:21:01",
+      "https://news.ycombinator.com/item?id=34853524"
+    ],
+    [
+      "Containers of fossils from 1909 expedition reconstructed nondestructively",
+      "https://phys.org/news/2023-02-contents-fossils-reconstructed-nondestructively.html"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 13:18:24",
       "https://news.ycombinator.com/item?id=34846719"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2023-02-18, 01:37:44",
+      "https://news.ycombinator.com/item?id=34842962"
+    ],
+    [
+      "Childhoods of Exceptional People",
+      "https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 23:07:21",
       "https://news.ycombinator.com/item?id=34841844"
     ],
@@ -287,16 +297,6 @@
     [
       "Only Debate The Non-Linear",
       "https://thelog.farm/2023/02/17/only-debate-the-non-linear/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 13:53:37",
-      "https://news.ycombinator.com/item?id=34834641"
-    ],
-    [
-      "Creating a search engine for my music streaming platform",
-      "https://nectarine.sh/posts/creating-a-search-engine-for-my-streaming-platform/"
     ]
   ]
 ]
