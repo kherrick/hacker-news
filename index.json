@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-02-20, 16:04:04",
+      "https://news.ycombinator.com/item?id=34869376"
+    ],
+    [
+      "Physics Envy",
+      "https://en.wikipedia.org/wiki/Physics_envy"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 15:56:46",
+      "https://news.ycombinator.com/item?id=34869298"
+    ],
+    [
+      "UK ‘barking up wrong tree’ trying to get over-50s back to work",
+      "https://www.theguardian.com/business/2023/feb/20/over-50s-back-to-work-uk-lcp-report"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 15:50:49",
+      "https://news.ycombinator.com/item?id=34869244"
+    ],
+    [
+      "Show HN: Turn Your Pandas Dataframe into a Tableau-Style UI for Visual Analysis",
+      "https://github.com/Kanaries/pygwalker"
+    ]
+  ],
+  [
+    [
       "2023-02-20, 15:34:58",
       "https://news.ycombinator.com/item?id=34869060"
     ],
     [
       "Photographer captures image of rare fish that walks on its ‘hands’",
       "https://www.cnn.com/2023/02/20/world/australian-handfish-photograph-c2e-spc-intl-scn/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 15:27:57",
+      "https://news.ycombinator.com/item?id=34868979"
+    ],
+    [
+      "Jack&#x27;s Ass",
+      "https://sdf.org/~vito/jack.html"
     ]
   ],
   [
@@ -27,16 +67,6 @@
     [
       "Opossum: Cross-platform web browser written in Golang, optimized for Plan 9",
       "https://github.com/psilva261/opossum"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 14:48:37",
-      "https://news.ycombinator.com/item?id=34868560"
-    ],
-    [
-      "Ask HN: Where are laid off employees gathering?",
-      "https://news.ycombinator.com/item?id=34868560"
     ]
   ],
   [
@@ -107,6 +137,16 @@
     [
       "Traceo is now open source",
       "https://github.com/traceo-dev/traceo"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 13:03:40",
+      "https://news.ycombinator.com/item?id=34867702"
+    ],
+    [
+      "NAT between identical networks using VRF",
+      "https://blog.oddbit.com/post/2023-02-19-vrf-and-nat/"
     ]
   ],
   [
@@ -211,26 +251,6 @@
   ],
   [
     [
-      "2023-02-20, 07:05:23",
-      "https://news.ycombinator.com/item?id=34865768"
-    ],
-    [
-      "AWS Creates New Policy-Based Access Control Language Cedar",
-      "https://www.infoq.com/news/2023/02/aws-policy-language-cedar/"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 06:37:11",
-      "https://news.ycombinator.com/item?id=34865614"
-    ],
-    [
-      "Dusting off Dreamcast Linux",
-      "http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html"
-    ]
-  ],
-  [
-    [
       "2023-02-20, 03:54:21",
       "https://news.ycombinator.com/item?id=34864753"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-02-19, 13:50:33",
-      "https://news.ycombinator.com/item?id=34857535"
-    ],
-    [
-      "Study: car evolution trends (2015)",
-      "https://www.teoalida.com/cardatabase/evolution/"
-    ]
-  ],
-  [
-    [
       "2023-02-19, 13:20:00",
       "https://news.ycombinator.com/item?id=34857340"
     ],
@@ -277,16 +287,6 @@
     [
       "Three Approaches to Heap Sizing",
       "https://wingolog.org/archives/2023/01/27/three-approaches-to-heap-sizing"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 13:17:02",
-      "https://news.ycombinator.com/item?id=34846709"
-    ],
-    [
-      "DOjS is a JavaScript programming environment for systems running MS-DOS",
-      "https://github.com/SuperIlu/DOjS"
     ]
   ],
   [
