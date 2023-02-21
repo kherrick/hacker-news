@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34880709"
     ],
     [
-      "In-car climate control design: How it has gone backwards and how to fix it",
+      "The design of in-car climate controls has gone backward",
       "https://www.theturnsignalblog.com/blog/climate-control-design/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34879304"
     ],
     [
-      "Haiku Package Management",
+      "Haiku package management",
       "https://www.markround.com/blog/2023/02/13/haiku-package-management/"
     ]
   ],
@@ -117,6 +117,16 @@
     [
       "Show HN: Gargantuan Takeout Rocket – Google Takeout Transloader to Azure",
       "https://github.com/nelsonjchen/gargantuan-takeout-rocket"
+    ]
+  ],
+  [
+    [
+      "2023-02-21, 05:30:16",
+      "https://news.ycombinator.com/item?id=34877075"
+    ],
+    [
+      "Magic doesn&#x27;t work that way",
+      "https://jakobgreenfeld.com/modern-magic"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Computer Networking Introduction: Ethernet and IP – Heavily Illustrated (2021)",
       "https://iximiuz.com/en/posts/computer-networking-101/"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 22:16:25",
-      "https://news.ycombinator.com/item?id=34873687"
-    ],
-    [
-      "Make systemd better for Podman with Quadlet",
-      "https://www.redhat.com/sysadmin/quadlet-podman"
     ]
   ],
   [
