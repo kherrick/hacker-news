@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-21, 08:21:06",
+      "https://news.ycombinator.com/item?id=34878296"
+    ],
+    [
+      "Outage on All Models",
+      "https://status.openai.com/incidents/mq5jgswy45fr"
+    ]
+  ],
+  [
+    [
       "2023-02-21, 07:42:51",
       "https://news.ycombinator.com/item?id=34878022"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34877623"
     ],
     [
-      "A pilot scheme to trail the four-day workweek in Britain deemed a success",
+      "A pilot scheme to trail the four-day workweek in Britain deemed a success (2022)",
       "https://www.economist.com/britain/2022/11/17/a-pilot-scheme-to-trail-the-four-day-workweek-in-britain"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Show HN: Replbuilder, quickly build a Python REPL CLI prompt",
       "https://github.com/Aperocky/replbuilder"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 05:34:32",
-      "https://news.ycombinator.com/item?id=34865262"
-    ],
-    [
-      "Low-Level Software Security for Compiler Developers",
-      "https://llsoftsec.github.io/llsoftsecbook/#introduction"
     ]
   ],
   [
