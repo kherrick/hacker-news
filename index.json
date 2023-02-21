@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-21, 05:30:16",
+      "https://news.ycombinator.com/item?id=34877075"
+    ],
+    [
+      "Magic doesn&#x27;t work that way",
+      "https://jakobgreenfeld.com/modern-magic"
+    ]
+  ],
+  [
+    [
+      "2023-02-21, 05:23:17",
+      "https://news.ycombinator.com/item?id=34877020"
+    ],
+    [
+      "James Somers on a Whisper-driven Future",
+      "https://www.newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future"
+    ]
+  ],
+  [
+    [
       "2023-02-21, 05:15:31",
       "https://news.ycombinator.com/item?id=34876961"
     ],
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2023-02-21, 05:04:14",
-      "https://news.ycombinator.com/item?id=34876871"
-    ],
-    [
-      "You Need at Least $3M in Savings to Live Comfortably in Retirement",
-      "https://www.bloomberg.com/news/articles/2023-02-21/saving-for-retirement-investors-say-you-ll-need-3-million-to-be-comfortable"
-    ]
-  ],
-  [
-    [
       "2023-02-21, 03:46:28",
       "https://news.ycombinator.com/item?id=34876233"
     ],
     [
       "What Mary Didn&#x27;t Know (1986) [pdf]",
       "https://courses.physics.illinois.edu/phys419/sp2021/Jackson1986_WhatMaryDidntKnow.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 03:23:33",
-      "https://news.ycombinator.com/item?id=34876082"
-    ],
-    [
-      "Seattle could become the first city to ban caste discrimination",
-      "https://www.knkx.org/social-justice/2023-02-20/seattle-could-become-the-first-city-to-ban-caste-discrimination"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2023-02-20, 15:15:08",
-      "https://news.ycombinator.com/item?id=34868843"
-    ],
-    [
-      "Opossum: Cross-platform web browser written in Golang, optimized for Plan 9",
-      "https://github.com/psilva261/opossum"
-    ]
-  ],
-  [
-    [
       "2023-02-20, 14:45:42",
       "https://news.ycombinator.com/item?id=34868531"
     ],
@@ -267,6 +257,16 @@
     [
       "Show HN: Replbuilder, quickly build a Python REPL CLI prompt",
       "https://github.com/Aperocky/replbuilder"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 05:34:32",
+      "https://news.ycombinator.com/item?id=34865262"
+    ],
+    [
+      "Low-Level Software Security for Compiler Developers",
+      "https://llsoftsec.github.io/llsoftsecbook/#introduction"
     ]
   ],
   [
