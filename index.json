@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-02-21, 20:39:49",
+      "https://news.ycombinator.com/item?id=34886832"
+    ],
+    [
+      "Reddit is experiencing a partial outage",
+      "https://www.redditstatus.com"
+    ]
+  ],
+  [
+    [
+      "2023-02-21, 20:32:59",
+      "https://news.ycombinator.com/item?id=34886732"
+    ],
+    [
+      "Microsoft is now injecting full-size ads on Chrome website",
+      "https://www.neowin.net/news/microsoft-is-now-injecting-full-size-ads-on-chrome-website-to-make-you-stay-on-edge/"
+    ]
+  ],
+  [
+    [
       "2023-02-21, 20:11:36",
       "https://news.ycombinator.com/item?id=34886382"
     ],
     [
       "Chrome 110 will automatically discard background tabs",
       "https://arstechnica.com/gadgets/2023/02/chrome-110-will-automatically-discard-background-tabs-heres-how-to-stop-it/"
+    ]
+  ],
+  [
+    [
+      "2023-02-21, 20:05:31",
+      "https://news.ycombinator.com/item?id=34886300"
+    ],
+    [
+      "AdNauseam – clicking ads so you don&#x27;t have to",
+      "https://adnauseam.io/"
     ]
   ],
   [
@@ -35,28 +65,8 @@
       "https://news.ycombinator.com/item?id=34885911"
     ],
     [
-      "SEC Charges the Church of Jesus Christ of Latter-Day Saints",
+      "SEC charges the Church of Jesus Christ of Latter-Day Saints",
       "https://www.sec.gov/news/press-release/2023-35"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 19:19:35",
-      "https://news.ycombinator.com/item?id=34885605"
-    ],
-    [
-      "Polygon Labs Cuts 20% Workforce, Almost 100 Jobs",
-      "https://www.coindesk.com/business/2023/02/21/polygon-labs-cuts-20-workforce-almost-100-jobs/"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 18:56:17",
-      "https://news.ycombinator.com/item?id=34885253"
-    ],
-    [
-      "Sci-Fi Mag Pauses Submissions Amid Flood of AI-Generated Short Stories",
-      "https://www.pcmag.com/news/sci-fi-mag-pauses-submissions-amid-flood-of-ai-generated-short-stories"
     ]
   ],
   [
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2023-02-21, 18:01:00",
+      "https://news.ycombinator.com/item?id=34884412"
+    ],
+    [
+      "Saying goodbye to Stack Overflow",
+      "https://old.reddit.com/r/webdev/comments/116vvpp/saying_goodbye_to_stack_overflow/"
+    ]
+  ],
+  [
+    [
       "2023-02-21, 17:56:43",
       "https://news.ycombinator.com/item?id=34884338"
     ],
@@ -147,16 +167,6 @@
     [
       "Show HN: QuestDB with Python, Pandas and SQL in a Jupyter notebook – no install",
       "https://play.questdb.io/"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 16:28:43",
-      "https://news.ycombinator.com/item?id=34883012"
-    ],
-    [
-      "OODA Loop",
-      "https://en.wikipedia.org/wiki/OODA_loop"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-02-21, 05:56:57",
-      "https://news.ycombinator.com/item?id=34877254"
-    ],
-    [
-      "Show HN: Gargantuan Takeout Rocket – Google Takeout Transloader to Azure",
-      "https://github.com/nelsonjchen/gargantuan-takeout-rocket"
-    ]
-  ],
-  [
-    [
       "2023-02-21, 05:06:27",
       "https://news.ycombinator.com/item?id=34876894"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=34875078"
     ],
     [
-      "Is This Painting a Raphael or Not?",
+      "Is this painting a Raphael or not?",
       "https://www.wsj.com/articles/is-this-painting-a-raphael-or-not-a-fortune-rides-on-the-answer-2cf3283a"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=34872614"
     ],
     [
-      "NP-Complete isn&#x27;t (always) Hard",
+      "NP-complete isn&#x27;t (always) hard",
       "https://www.hillelwayne.com/post/np-hard/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=34871670"
     ],
     [
-      "Is It Time to Replace TCP in Data Centers?",
+      "Is it time to replace TCP in data centers?",
       "https://blog.ipspace.net/2023/01/data-center-tcp-replacement.html"
     ]
   ]
