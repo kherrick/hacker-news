@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-02-21, 02:37:15",
-      "https://news.ycombinator.com/item?id=34875781"
-    ],
-    [
-      "Clarksworld closes submissions due to GPT spam",
-      "https://twitter.com/ShackletonCI/status/1627730312925966336"
-    ]
-  ],
-  [
-    [
       "2023-02-21, 02:11:33",
       "https://news.ycombinator.com/item?id=34875624"
     ],
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=34867166"
     ],
     [
-      "Laws of Showrunning [pdf]",
+      "Laws of Showrunning (2016) [pdf]",
       "https://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning.pdf"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Show HN: Replbuilder, quickly build a Python REPL CLI prompt",
       "https://github.com/Aperocky/replbuilder"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 05:34:32",
+      "https://news.ycombinator.com/item?id=34865262"
+    ],
+    [
+      "Low-Level Software Security for Compiler Developers",
+      "https://llsoftsec.github.io/llsoftsecbook/#introduction"
     ]
   ],
   [
