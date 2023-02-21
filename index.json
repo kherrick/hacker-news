@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-02-21, 00:01:04",
-      "https://news.ycombinator.com/item?id=34874603"
+      "2023-02-21, 01:27:55",
+      "https://news.ycombinator.com/item?id=34875305"
     ],
     [
-      "The age of agile must end",
-      "https://uxdesign.cc/the-age-of-agile-must-end-bc89c0f084b7"
+      "&#x27;artificial photosynthesis&#x27; claimed 10x more efficient",
+      "https://news.uchicago.edu/story/chemists-create-artificial-photosynthesis-system-10-times-more-efficient-existing-systems"
+    ]
+  ],
+  [
+    [
+      "2023-02-21, 01:05:57",
+      "https://news.ycombinator.com/item?id=34875153"
+    ],
+    [
+      "Postman is limiting local collection runner to 25 runs for basic plans",
+      "https://community.postman.com/t/250-collection-runs-per-month-on-professional/43946"
     ]
   ],
   [
@@ -17,26 +27,6 @@
     [
       "Widespread ethernet issues reported on new M2 Pro Mac mini",
       "https://forums.macrumors.com/threads/m2-pro-ethernet-issues.2378455/"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 22:55:15",
-      "https://news.ycombinator.com/item?id=34874015"
-    ],
-    [
-      "TurboTax is blitzing Congress for the right to tax YOU",
-      "https://pluralistic.net/2023/02/20/turbotaxed/"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 22:55:04",
-      "https://news.ycombinator.com/item?id=34874014"
-    ],
-    [
-      "Podman 4.4",
-      "https://github.com/containers/podman/releases/tag/v4.4.0"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "CheatGPT",
       "https://blog.humphd.org/cheatgpt/"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 19:31:36",
+      "https://news.ycombinator.com/item?id=34871854"
+    ],
+    [
+      "Why do modern pop songs have so many credited writers?",
+      "https://tedium.co/2023/02/04/why-do-modern-pop-songs-have-so-many-credited-writers/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-02-20, 14:48:37",
+      "https://news.ycombinator.com/item?id=34868560"
+    ],
+    [
+      "Ask HN: Where are laid off employees gathering?",
+      "https://news.ycombinator.com/item?id=34868560"
+    ]
+  ],
+  [
+    [
       "2023-02-20, 14:28:12",
       "https://news.ycombinator.com/item?id=34868374"
     ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2023-02-20, 13:03:40",
+      "https://news.ycombinator.com/item?id=34867702"
+    ],
+    [
+      "NAT between identical networks using VRF",
+      "https://blog.oddbit.com/post/2023-02-19-vrf-and-nat/"
+    ]
+  ],
+  [
+    [
       "2023-02-20, 12:01:21",
       "https://news.ycombinator.com/item?id=34867314"
     ],
@@ -205,38 +225,8 @@
       "https://news.ycombinator.com/item?id=34867166"
     ],
     [
-      "The Eleven Laws of Showrunning [pdf]",
+      "Laws of Showrunning [pdf]",
       "https://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 10:32:35",
-      "https://news.ycombinator.com/item?id=34866901"
-    ],
-    [
-      "Gitlab’s Startup Acquisition Process",
-      "https://about.gitlab.com/handbook/acquisitions/acquisition-process/"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 10:30:39",
-      "https://news.ycombinator.com/item?id=34866890"
-    ],
-    [
-      "Cognitive sophistication does not attenuate the bias blind spot (2012)",
-      "https://pubmed.ncbi.nlm.nih.gov/22663351/"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 10:17:41",
-      "https://news.ycombinator.com/item?id=34866808"
-    ],
-    [
-      "Infinite-Storage-Glitch – Use YouTube as cloud storage for any files",
-      "https://github.com/DvorakDwarf/Infinite-Storage-Glitch"
     ]
   ],
   [
@@ -275,8 +265,28 @@
       "https://news.ycombinator.com/item?id=34853827"
     ],
     [
-      "The Hollywood sign debuted 100 years ago in 1923, the year of L.A.’s ‘Big Bang’",
+      "The Hollywood sign debuted 100 years ago",
       "https://www.latimes.com/california/story/2023-02-16/hollywood-sign-centennial-los-angeles"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 19:31:27",
+      "https://news.ycombinator.com/item?id=34839210"
+    ],
+    [
+      "The Codex Arundel: A Collection of Papers in Italian by Leonardo da Vinci",
+      "https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_MS_263"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 07:03:13",
+      "https://news.ycombinator.com/item?id=34831703"
+    ],
+    [
+      "Notator SL",
+      "http://notator.org/"
     ]
   ],
   [
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=34831547"
     ],
     [
-      "Oxen.ai: Very Fast Unstructured Data Version Control",
+      "Oxen.ai: Fast Unstructured Data Version Control",
       "https://github.com/Oxen-AI/oxen-release"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 06:15:29",
-      "https://news.ycombinator.com/item?id=34831425"
-    ],
-    [
-      "Cows Destroyed an Entire Marine Ecosystem in California",
-      "https://www.atlasobscura.com/articles/california-continental-shelf-ecosystem-cows"
     ]
   ]
 ]
