@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-02-21, 22:23:58",
+      "https://news.ycombinator.com/item?id=34888502"
+    ],
+    [
+      "A subredit dedicated to legacy code",
+      "https://old.reddit.com/r/legacydev/"
+    ]
+  ],
+  [
+    [
       "2023-02-21, 22:09:47",
       "https://news.ycombinator.com/item?id=34888312"
     ],
     [
-      "Wilson&#x27;s 3D-Printed Basketball Is Full of Holes but Never Goes Flat",
+      "Wilson&#x27;s 3D-printed basketball is full of holes but never goes flat",
       "https://gizmodo.com/wilson-eos-nba-airless-basketball-that-never-goes-flat-1850139570"
+    ]
+  ],
+  [
+    [
+      "2023-02-21, 21:59:27",
+      "https://news.ycombinator.com/item?id=34888149"
+    ],
+    [
+      "Bing Just Upgraded YouTube (and changed the internet forever)",
+      "https://www.youtube.com/watch?v=q5I9lP2mf6M"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34887276"
     ],
     [
-      "World’s Largest Four-Day Work Week Trial Finds Few Are Going Back",
+      "World’s largest four-day work week trial finds few are going back",
       "https://www.bloomberg.com/news/articles/2023-02-21/four-day-work-week-uk-study-finds-majority-of-employers-shifting"
     ]
   ],
@@ -37,16 +57,6 @@
     [
       "Jerry (YC S17) Is Hiring a Senior &#x2F; Staff Engineer (China Remote)",
       "https://jobs.ashbyhq.com/Jerry/142d1a0a-56e4-4deb-92bd-20c0e13d35f9"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 20:39:49",
-      "https://news.ycombinator.com/item?id=34886832"
-    ],
-    [
-      "Reddit is experiencing a partial outage",
-      "https://www.redditstatus.com"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2023-02-21, 18:37:47",
-      "https://news.ycombinator.com/item?id=34884920"
-    ],
-    [
-      "EPA orders Norfolk Southern to conduct all cleanup actions related to derailment",
-      "https://www.epa.gov/newsreleases/epa-orders-norfolk-southern-conduct-all-cleanup-actions-associated-east-palestine"
-    ]
-  ],
-  [
-    [
       "2023-02-21, 18:01:00",
       "https://news.ycombinator.com/item?id=34884412"
     ],
@@ -157,16 +157,6 @@
     [
       "Prompt Engineering Guide: Guides, papers, and resources for prompt engineering",
       "https://github.com/dair-ai/Prompt-Engineering-Guide"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 16:34:30",
-      "https://news.ycombinator.com/item?id=34883106"
-    ],
-    [
-      "Ask HN: YC co-founder matching is bad",
-      "https://news.ycombinator.com/item?id=34883106"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=34878367"
     ],
     [
-      "Lucy Ives&#x27; Retro Homepage",
+      "L Ives",
       "http://www.lucy-ives.com/"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Anaximander and the Nature of Science",
       "https://www.theguardian.com/books/2023/feb/13/anaximander-and-the-nature-of-science-by-carlo-rovelli-review-the-ancient-master-of-the-universe"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 19:19:25",
+      "https://news.ycombinator.com/item?id=34871670"
+    ],
+    [
+      "Is it time to replace TCP in data centers?",
+      "https://blog.ipspace.net/2023/01/data-center-tcp-replacement.html"
     ]
   ],
   [
