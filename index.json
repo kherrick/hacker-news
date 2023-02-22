@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-22, 23:05:30",
+      "https://news.ycombinator.com/item?id=34904337"
+    ],
+    [
+      "It&#x27;s time to get the Posix elephant off our necks",
+      "https://queue.acm.org/detail.cfm?id=3570921"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 22:39:51",
+      "https://news.ycombinator.com/item?id=34904033"
+    ],
+    [
+      "AI-Assisted Art – A Mixed Decision from the Copyright Office",
+      "https://www.processmechanics.com/2023/02/22/a-mixed-decision-from-the-us-copyright-office/"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 22:36:02",
       "https://news.ycombinator.com/item?id=34903976"
     ],
@@ -37,6 +57,16 @@
     [
       "Is_email()",
       "https://github.com/dominicsayers/isemail"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 20:45:24",
+      "https://news.ycombinator.com/item?id=34902429"
+    ],
+    [
+      "LED Lights and Screens Are Killing You",
+      "https://www.sevarg.net/2023/02/11/how-your-leds-are-killing-you/"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "Loxilb: eBPF based cloud-native service load-balancer",
       "https://github.com/loxilb-io/loxilb"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 18:34:24",
-      "https://news.ycombinator.com/item?id=34900402"
-    ],
-    [
-      "Google stopping coding competitions",
-      "https://developers.googleblog.com/2023/02/celebrate-googles-coding-competitions.html"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-02-22, 15:13:25",
-      "https://news.ycombinator.com/item?id=34896790"
-    ],
-    [
-      "Show HN: Graphic – A grammar of data visualization and Flutter charting library",
-      "https://github.com/entronad/graphic"
-    ]
-  ],
-  [
-    [
       "2023-02-22, 14:33:29",
       "https://news.ycombinator.com/item?id=34896129"
     ],
@@ -287,16 +297,6 @@
     [
       "NASA&#x27;s planetary radar captures detailed view of oblong asteroid",
       "https://phys.org/news/2023-02-nasa-planetary-radar-captures-view.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 20:50:20",
-      "https://news.ycombinator.com/item?id=34887040"
-    ],
-    [
-      "Hope Mirrlees and her curious masterpiece",
-      "https://hedgehogreview.com/web-features/thr/posts/a-novelists-reflections-on-useful-fictions"
     ]
   ]
 ]
