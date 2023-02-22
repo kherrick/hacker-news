@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-02-22, 19:06:19",
-      "https://news.ycombinator.com/item?id=34900941"
+      "2023-02-22, 19:07:41",
+      "https://news.ycombinator.com/item?id=34900964"
     ],
     [
-      "We need to talk about your GitHub addiction",
-      "https://ploum.net/2023-02-22-leaving-github.html"
+      "Learnings from employing ChatGPT as a ML Engineer for a day",
+      "https://encord.com/blog/we-employed-chatgpt-as-an-ml-engineer-this-is-what-we-learned/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Amazon officially becomes a health care provider after purchase of One Medical",
       "https://www.aboutamazon.com/news/company-news/one-medical-joins-amazon-to-make-it-easier-for-people-to-get-and-stay-healthier"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 17:18:00",
-      "https://news.ycombinator.com/item?id=34898972"
-    ],
-    [
-      "1 in 6 retirees are considering returning to work, and 53% want remote positions",
-      "https://www.paychex.com/articles/human-resources/retirees-rejoining-the-workforce"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "My Own Python Web Framework",
       "https://healeycodes.com/my-own-python-web-framework"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 07:57:39",
+      "https://news.ycombinator.com/item?id=34892916"
+    ],
+    [
+      "Rust-sitter: Define your entire tree-sitter grammar in Rust code",
+      "https://github.com/hydro-project/rust-sitter"
     ]
   ],
   [
