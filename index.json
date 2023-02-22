@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-02-22, 13:34:31",
-      "https://news.ycombinator.com/item?id=34895172"
-    ],
-    [
-      "ML would have advanced faster if another front-end language had been adopted?",
-      "https://twitter.com/ylecun/status/1628386056641847296"
-    ]
-  ],
-  [
-    [
       "2023-02-22, 13:26:24",
       "https://news.ycombinator.com/item?id=34895061"
     ],
@@ -191,12 +181,12 @@
   ],
   [
     [
-      "2023-02-21, 23:44:19",
-      "https://news.ycombinator.com/item?id=34889419"
+      "2023-02-21, 23:49:49",
+      "https://news.ycombinator.com/item?id=34889470"
     ],
     [
-      "The Remarkable Ivan Sutherland",
-      "https://computerhistory.org/blog/the-remarkable-ivan-sutherland/"
+      "AWS will offer HF’s products to its customers and run its next LLM tool",
+      "https://www.bloomberg.com/news/articles/2023-02-21/amazon-s-aws-joins-with-ai-startup-hugging-face-as-chatgpt-competition-heats-up"
     ]
   ],
   [
@@ -207,16 +197,6 @@
     [
       "Poisoning web-scale training datasets is practical",
       "https://arxiv.org/abs/2302.10149"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 23:27:52",
-      "https://news.ycombinator.com/item?id=34889243"
-    ],
-    [
-      "Let&#x27;s build a Chrome extension that steals as much data as possible",
-      "https://mattfrisbie.substack.com/p/spy-chrome-extension"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2023-02-21, 14:58:42",
+      "https://news.ycombinator.com/item?id=34881881"
+    ],
+    [
+      "Software 2.0 (2017)",
+      "https://karpathy.medium.com/software-2-0-a64152b37c35"
+    ]
+  ],
+  [
+    [
       "2023-02-21, 12:43:17",
       "https://news.ycombinator.com/item?id=34880460"
     ],
@@ -267,6 +257,16 @@
     [
       "The time it takes to change the time (2015)",
       "http://blog.poormansmath.net/the-time-it-takes-to-change-the-time/"
+    ]
+  ],
+  [
+    [
+      "2023-02-21, 10:26:12",
+      "https://news.ycombinator.com/item?id=34879259"
+    ],
+    [
+      "KanjiVG – SVGs of Kanji character strokes including order, shape and direction",
+      "https://kanjivg.tagaini.net/"
     ]
   ],
   [
