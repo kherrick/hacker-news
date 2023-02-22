@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-22, 16:56:28",
+      "https://news.ycombinator.com/item?id=34898526"
+    ],
+    [
+      "Florida lawyer argues pregnant inmate’s fetus is being illegally detained",
+      "https://www.washingtonpost.com/nation/2023/02/22/pregnant-woman-fetus-jail-roe/"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 16:42:21",
+      "https://news.ycombinator.com/item?id=34898288"
+    ],
+    [
+      "The US Supreme Court Doesn’t Understand the Internet",
+      "https://www.wired.com/story/the-supreme-court-section-230-the-internet/"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 16:40:42",
       "https://news.ycombinator.com/item?id=34898258"
     ],
@@ -21,12 +41,22 @@
   ],
   [
     [
-      "2023-02-22, 16:19:11",
-      "https://news.ycombinator.com/item?id=34897945"
+      "2023-02-22, 16:31:13",
+      "https://news.ycombinator.com/item?id=34898130"
     ],
     [
-      "Arizona’s top prosecutor concealed records debunking election fraud claims",
-      "https://www.washingtonpost.com/politics/2023/02/22/arizona-election-fraud-claims-mark-brnovich/"
+      "C++ Coroutines",
+      "https://nigeltao.github.io/blog/2023/cpp-coro-part-1-yield-return-prime-sieve.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 16:27:41",
+      "https://news.ycombinator.com/item?id=34898074"
+    ],
+    [
+      "Record-Breaking Egg Profits Prompt Accusation of Price Gouging",
+      "https://modernfarmer.com/2023/01/record-breaking-egg-profits-prompt-accusation-of-price-gouging/"
     ]
   ],
   [
@@ -81,6 +111,36 @@
   ],
   [
     [
+      "2023-02-22, 16:05:07",
+      "https://news.ycombinator.com/item?id=34897707"
+    ],
+    [
+      "Motion Canvas – Visualize complex ideas programmatically",
+      "https://github.com/motion-canvas/motion-canvas"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 16:04:56",
+      "https://news.ycombinator.com/item?id=34897701"
+    ],
+    [
+      "The Unreasonable Effectiveness of Conditional Probabilities",
+      "https://two-wrongs.com/unreasonable-effectiveness-of-conditional-probabilities.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 16:03:34",
+      "https://news.ycombinator.com/item?id=34897668"
+    ],
+    [
+      "Connecting a 1980s Pinball Machine to the Internet",
+      "https://eli.lipsitz.net/posts/internet-connected-pinball/"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 15:55:08",
       "https://news.ycombinator.com/item?id=34897534"
     ],
@@ -91,12 +151,12 @@
   ],
   [
     [
-      "2023-02-22, 15:49:01",
-      "https://news.ycombinator.com/item?id=34897427"
+      "2023-02-22, 15:42:23",
+      "https://news.ycombinator.com/item?id=34897312"
     ],
     [
-      "Gmail spam is out of control",
-      "https://news.ycombinator.com/item?id=34897427"
+      "You shouldn&#x27;t use Kubernetes as a startup",
+      "https://thetechtrailblazer.blog/2023/02/14/dont-use-kubernetes-please/"
     ]
   ],
   [
@@ -107,36 +167,6 @@
     [
       "Show HN: Graphic – A grammar of data visualization and Flutter charting library",
       "https://github.com/entronad/graphic"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 14:30:50",
-      "https://news.ycombinator.com/item?id=34896084"
-    ],
-    [
-      "Rovio delists original Angry Birds from PlayStore because it&#x27;s still too popular",
-      "https://twitter.com/Rovio/status/1627956351002443778/photo/1"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 14:25:17",
-      "https://news.ycombinator.com/item?id=34895984"
-    ],
-    [
-      "De-Extinction? Surely You’re Joking",
-      "https://cell.substack.com/p/extinction"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 13:50:33",
-      "https://news.ycombinator.com/item?id=34895396"
-    ],
-    [
-      "Amazon has approval from FTC to acquire One Medical primary-care clinics",
-      "https://www.wsj.com/articles/ftc-wont-block-amazon-purchase-of-one-medical-network-of-health-clinics-c635495e"
     ]
   ],
   [
@@ -197,16 +227,6 @@
     [
       "Show HN: Vector icons, but for viral memes",
       "https://www.streamlinehq.com/elements/memes"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 08:10:52",
-      "https://news.ycombinator.com/item?id=34892985"
-    ],
-    [
-      "Show HN: Starter.place – Gumroad for Starter Repos",
-      "https://www.starter.place"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "The Rise of the Yaghan, Indigenous People of Tierra Del Fuego",
       "https://www.atlasobscura.com/articles/yaghan-indigenous-tierra-del-fuego"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 20:35:07",
-      "https://news.ycombinator.com/item?id=34886766"
-    ],
-    [
-      "Spy Balloon Simulator",
-      "https://spyballoonsim.hornetsnestguild.com/"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 05:27:00",
-      "https://news.ycombinator.com/item?id=34877046"
-    ],
-    [
-      "Dansk and the Promise of a Simple Scandinavian Life",
-      "https://www.newyorker.com/culture/cultural-comment/dansk-and-the-promise-of-a-simple-scandinavian-life"
     ]
   ]
 ]
