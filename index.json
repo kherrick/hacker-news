@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34899606"
     ],
     [
-      "The Dystopian Underworld of South Africa’s Illegal Gold Mines",
+      "The dystopian underworld of South Africa’s illegal gold mines",
       "https://www.newyorker.com/magazine/2023/02/27/the-dystopian-underworld-of-south-africas-illegal-gold-mines"
     ]
   ],
@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-02-22, 16:42:21",
+      "https://news.ycombinator.com/item?id=34898288"
+    ],
+    [
+      "The US Supreme Court doesn’t understand the internet",
+      "https://www.wired.com/story/the-supreme-court-section-230-the-internet/"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 16:40:42",
       "https://news.ycombinator.com/item?id=34898258"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-02-22, 16:27:41",
-      "https://news.ycombinator.com/item?id=34898074"
-    ],
-    [
-      "Record-Breaking Egg Profits Prompt Accusation of Price Gouging",
-      "https://modernfarmer.com/2023/01/record-breaking-egg-profits-prompt-accusation-of-price-gouging/"
-    ]
-  ],
-  [
-    [
       "2023-02-22, 16:17:25",
       "https://news.ycombinator.com/item?id=34897913"
     ],
@@ -127,16 +127,6 @@
     [
       "Show HN: AskHN",
       "https://www.patterns.app/blog/2023/02/19/ask-hn-gpt-embeddings-question-answering/"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 16:07:29",
-      "https://news.ycombinator.com/item?id=34897741"
-    ],
-    [
-      "Meta plans to cut thousands of jobs, after CEO predicted no more layoffs",
-      "https://www.washingtonpost.com/technology/2023/02/22/meta-layoffs/"
     ]
   ],
   [
@@ -181,12 +171,42 @@
   ],
   [
     [
+      "2023-02-22, 16:02:26",
+      "https://news.ycombinator.com/item?id=34897645"
+    ],
+    [
+      "Show HN: We’re open-sourcing our session replay tool",
+      "https://github.com/highlight/highlight"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 15:55:08",
+      "https://news.ycombinator.com/item?id=34897534"
+    ],
+    [
+      "Eggspensive",
+      "https://eggspensive.net/"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 15:13:25",
       "https://news.ycombinator.com/item?id=34896790"
     ],
     [
       "Show HN: Graphic – A grammar of data visualization and Flutter charting library",
       "https://github.com/entronad/graphic"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 15:07:58",
+      "https://news.ycombinator.com/item?id=34896712"
+    ],
+    [
+      "Jimmy Carter: Unlucky President, Lucky Man",
+      "https://fallows.substack.com/p/jimmy-carter-unlucky-president-lucky"
     ]
   ],
   [
@@ -221,22 +241,12 @@
   ],
   [
     [
-      "2023-02-22, 10:18:27",
-      "https://news.ycombinator.com/item?id=34893771"
+      "2023-02-22, 12:47:58",
+      "https://news.ycombinator.com/item?id=34894690"
     ],
     [
-      "Rust Now Available for Real-Time Operating System and Hypervisor PikeOS",
-      "https://www.sysgo.com/press-releases/rust-now-available-for-real-time-operating-system-and-hypervisor-pikeos"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 08:54:58",
-      "https://news.ycombinator.com/item?id=34893255"
-    ],
-    [
-      "Show HN: Vector icons, but for viral memes",
-      "https://www.streamlinehq.com/elements/memes"
+      "Apple orders entire supply of TSMC&#x27;s 3nm chips for iPhone 15 Pro and M3 Macs",
+      "https://www.macrumors.com/2023/02/22/apple-secures-tsmc-3nm-chips/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-02-22, 04:03:18",
-      "https://news.ycombinator.com/item?id=34891482"
+      "2023-02-21, 21:08:39",
+      "https://news.ycombinator.com/item?id=34887360"
     ],
     [
-      "AMD CEO: The Next Challenge Is Energy Efficiency",
-      "https://spectrum.ieee.org/amd-eyes-supercomputer-efficiency-gains"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 21:14:53",
-      "https://news.ycombinator.com/item?id=34887465"
-    ],
-    [
-      "The Rise of the Yaghan, Indigenous People of Tierra Del Fuego",
-      "https://www.atlasobscura.com/articles/yaghan-indigenous-tierra-del-fuego"
+      "NASA&#x27;s planetary radar captures detailed view of oblong asteroid",
+      "https://phys.org/news/2023-02-nasa-planetary-radar-captures-view.html"
     ]
   ]
 ]
