@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-02-22, 13:41:09",
-      "https://news.ycombinator.com/item?id=34895267"
+      "2023-02-22, 13:50:33",
+      "https://news.ycombinator.com/item?id=34895396"
     ],
     [
-      "Most young men are single. Most young women are not",
-      "https://thehill.com/blogs/blog-briefing-room/3868557-most-young-men-are-single-most-young-women-are-not/"
+      "Amazon has approval from FTC to acquire One Medical primary-care clinics",
+      "https://www.wsj.com/articles/ftc-wont-block-amazon-purchase-of-one-medical-network-of-health-clinics-c635495e"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 13:34:31",
+      "https://news.ycombinator.com/item?id=34895172"
+    ],
+    [
+      "ML would have advanced faster if another front-end language had been adopted?",
+      "https://twitter.com/ylecun/status/1628386056641847296"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34895061"
     ],
     [
-      "After Alaska Airlines has 2 tail strikes in Seattle, a software bug was found",
+      "Bug identified after Alaska Airlines planes bump runway while taking off",
       "https://www.adn.com/alaska-news/aviation/2023/02/20/after-alaska-airlines-planes-bump-runway-a-scramble-to-pull-the-plug/"
     ]
   ],
@@ -91,12 +101,12 @@
   ],
   [
     [
-      "2023-02-22, 08:56:10",
-      "https://news.ycombinator.com/item?id=34893263"
+      "2023-02-22, 07:56:46",
+      "https://news.ycombinator.com/item?id=34892908"
     ],
     [
-      "Musk’s takeover turbocharged VC Twitter usage",
-      "https://www.maddyness.com/uk/?p=713786"
+      "Optimizing Haskell Code for Runtime Verification",
+      "https://serokell.io/blog/optimizing-k-framework"
     ]
   ],
   [
@@ -137,6 +147,16 @@
     [
       "AMD CEO: The Next Challenge Is Energy Efficiency",
       "https://spectrum.ieee.org/amd-eyes-supercomputer-efficiency-gains"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 02:27:16",
+      "https://news.ycombinator.com/item?id=34890787"
+    ],
+    [
+      "The usability of advanced type systems: Rust as a case study",
+      "https://arxiv.org/abs/2301.02308"
     ]
   ],
   [
@@ -241,26 +261,6 @@
   ],
   [
     [
-      "2023-02-21, 17:56:43",
-      "https://news.ycombinator.com/item?id=34884338"
-    ],
-    [
-      "Show HN: Phind.com – Generative AI search engine for developers",
-      "https://phind.com"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 14:58:42",
-      "https://news.ycombinator.com/item?id=34881881"
-    ],
-    [
-      "Software 2.0 (2017)",
-      "https://karpathy.medium.com/software-2-0-a64152b37c35"
-    ]
-  ],
-  [
-    [
       "2023-02-21, 12:43:17",
       "https://news.ycombinator.com/item?id=34880460"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-02-21, 10:26:12",
-      "https://news.ycombinator.com/item?id=34879259"
+      "2023-02-21, 05:27:00",
+      "https://news.ycombinator.com/item?id=34877046"
     ],
     [
-      "KanjiVG – SVGs of Kanji character strokes including order, shape and direction",
-      "https://kanjivg.tagaini.net/"
+      "Dansk and the Promise of a Simple Scandinavian Life",
+      "https://www.newyorker.com/culture/cultural-comment/dansk-and-the-promise-of-a-simple-scandinavian-life"
     ]
   ],
   [
