@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-02-22, 16:40:42",
+      "https://news.ycombinator.com/item?id=34898258"
+    ],
+    [
+      "Google claims breakthrough in quantum computer error correction",
+      "https://www.ft.com/content/9e04ff7d-f56a-4d5f-a4fa-849336abf659"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 16:40:15",
+      "https://news.ycombinator.com/item?id=34898253"
+    ],
+    [
+      "Launch HN: Depot (YC W23) – Fast Docker Builds in the Cloud",
+      "https://news.ycombinator.com/item?id=34898253"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 16:19:11",
       "https://news.ycombinator.com/item?id=34897945"
     ],
     [
       "Arizona’s top prosecutor concealed records debunking election fraud claims",
       "https://www.washingtonpost.com/politics/2023/02/22/arizona-election-fraud-claims-mark-brnovich/"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 16:17:25",
+      "https://news.ycombinator.com/item?id=34897913"
+    ],
+    [
+      "Italian prosecutors probe Meta for &#x27;870Ms EUR tax evasion&#x27;",
+      "https://www.ansa.it/english/news/business/2023/02/22/milan-prosecutors-probe-meta-for-870-mn-tax-evasion_4093668e-23d4-4841-81c8-cdf4eb91fdf9.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 16:12:13",
+      "https://news.ycombinator.com/item?id=34897817"
+    ],
+    [
+      "Is there a market failure in child care?",
+      "https://arnoldkling.substack.com/p/is-there-a-market-failure-in-child"
     ]
   ],
   [
@@ -21,6 +61,26 @@
   ],
   [
     [
+      "2023-02-22, 16:07:29",
+      "https://news.ycombinator.com/item?id=34897741"
+    ],
+    [
+      "Meta plans to cut thousands of jobs, after CEO predicted no more layoffs",
+      "https://www.washingtonpost.com/technology/2023/02/22/meta-layoffs/"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 16:06:39",
+      "https://news.ycombinator.com/item?id=34897723"
+    ],
+    [
+      "Gossip Glomers: Fly.io Distributed Systems Challenges",
+      "https://fly.io/blog/gossip-glomers/"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 15:55:08",
       "https://news.ycombinator.com/item?id=34897534"
     ],
@@ -31,32 +91,22 @@
   ],
   [
     [
+      "2023-02-22, 15:49:01",
+      "https://news.ycombinator.com/item?id=34897427"
+    ],
+    [
+      "Gmail spam is out of control",
+      "https://news.ycombinator.com/item?id=34897427"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 15:13:25",
       "https://news.ycombinator.com/item?id=34896790"
     ],
     [
       "Show HN: Graphic – A grammar of data visualization and Flutter charting library",
       "https://github.com/entronad/graphic"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 15:06:45",
-      "https://news.ycombinator.com/item?id=34896686"
-    ],
-    [
-      "Apple is convinced my dog is stalking me",
-      "https://www.engadget.com/apple-is-convinced-my-dog-is-stalking-me-143100932.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 14:35:55",
-      "https://news.ycombinator.com/item?id=34896169"
-    ],
-    [
-      "NIO reveals aggressive plan to add 1,000 swap stations in 2023",
-      "https://cnevpost.com/2023/02/21/nio-plans-to-add-1000-swap-stations-in-2023/"
     ]
   ],
   [
@@ -221,36 +271,6 @@
   ],
   [
     [
-      "2023-02-22, 01:38:44",
-      "https://news.ycombinator.com/item?id=34890401"
-    ],
-    [
-      "Passwordless authentication with FIDO2–beyond just the web",
-      "https://lwn.net/SubscriberLink/923656/b15e2aa9b44ac718/"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 01:11:11",
-      "https://news.ycombinator.com/item?id=34890164"
-    ],
-    [
-      "Experts discover how zebra stripes work to thwart horsefly attacks",
-      "https://phys.org/news/2023-02-experts-zebra-stripes-thwart-horsefly.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 23:36:41",
-      "https://news.ycombinator.com/item?id=34889336"
-    ],
-    [
-      "Poisoning web-scale training datasets is practical",
-      "https://arxiv.org/abs/2302.10149"
-    ]
-  ],
-  [
-    [
       "2023-02-21, 21:14:53",
       "https://news.ycombinator.com/item?id=34887465"
     ],
@@ -267,26 +287,6 @@
     [
       "Spy Balloon Simulator",
       "https://spyballoonsim.hornetsnestguild.com/"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 18:48:10",
-      "https://news.ycombinator.com/item?id=34885077"
-    ],
-    [
-      "Launch HN: Moonrepo (YC W23) – Open-source build system",
-      "https://news.ycombinator.com/item?id=34885077"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 15:31:43",
-      "https://news.ycombinator.com/item?id=34882235"
-    ],
-    [
-      "Hope in the Dark: History and Ghost Stories",
-      "https://www.historians.org/research-and-publications/perspectives-on-history/march-2023/hope-in-the-dark-history-and-ghost-stories"
     ]
   ],
   [
