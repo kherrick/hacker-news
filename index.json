@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-02-23, 04:21:07",
-      "https://news.ycombinator.com/item?id=34906722"
-    ],
-    [
-      "Safari 16.4 Is an Admission",
-      "https://infrequently.org/2023/02/safari-16-4-is-an-admission/"
-    ]
-  ],
-  [
-    [
       "2023-02-23, 03:59:50",
       "https://news.ycombinator.com/item?id=34906593"
     ],
@@ -107,16 +97,6 @@
     [
       "Toshiba HD-DVD firmware archive",
       "http://www.mirrorsite.net/files/toshiba/hd-dvd/"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 02:21:53",
-      "https://news.ycombinator.com/item?id=34905912"
-    ],
-    [
-      "Distributed Systems for Fun and Profit",
-      "http://book.mixu.net/distsys/"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2023-02-22, 20:42:49",
+      "https://news.ycombinator.com/item?id=34902388"
+    ],
+    [
+      "Mercedes-Benz previews its operating system MB.OS",
+      "https://media.mbusa.com/releases/software-architects-mercedes-benz-previews-its-operating-system-mbos"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 19:57:47",
       "https://news.ycombinator.com/item?id=34901703"
     ],
@@ -221,6 +211,26 @@
   ],
   [
     [
+      "2023-02-22, 19:00:05",
+      "https://news.ycombinator.com/item?id=34900839"
+    ],
+    [
+      "Loxilb: eBPF based cloud-native service load-balancer",
+      "https://github.com/loxilb-io/loxilb"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 17:16:18",
+      "https://news.ycombinator.com/item?id=34898927"
+    ],
+    [
+      "There are no (absolute) red flags in venture capital",
+      "https://blog.aaronkharris.com/there-are-no-absolute-red-flags-in-venture-capital"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 16:40:15",
       "https://news.ycombinator.com/item?id=34898253"
     ],
@@ -247,16 +257,6 @@
     [
       "Show HN: AskHN",
       "https://www.patterns.app/blog/2023/02/19/ask-hn-gpt-embeddings-question-answering/"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 16:06:39",
-      "https://news.ycombinator.com/item?id=34897723"
-    ],
-    [
-      "Gossip Glomers: Fly.io Distributed Systems Challenges",
-      "https://fly.io/blog/gossip-glomers/"
     ]
   ],
   [
