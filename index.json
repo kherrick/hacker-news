@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-23, 08:26:32",
+      "https://news.ycombinator.com/item?id=34908206"
+    ],
+    [
+      "Companies can no longer silence laid-off employees in exchange for severance",
+      "https://www.cnn.com/2023/02/22/success/severance-agreements-rule-change-from-nlrb/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-23, 07:45:53",
+      "https://news.ycombinator.com/item?id=34907970"
+    ],
+    [
+      "Ask HN: What would happen if we prioritised all bugs over all new features?",
+      "https://news.ycombinator.com/item?id=34907970"
+    ]
+  ],
+  [
+    [
       "2023-02-23, 07:35:23",
       "https://news.ycombinator.com/item?id=34907885"
     ],
@@ -107,6 +127,16 @@
     [
       "Toshiba HD-DVD firmware archive",
       "http://www.mirrorsite.net/files/toshiba/hd-dvd/"
+    ]
+  ],
+  [
+    [
+      "2023-02-23, 02:12:50",
+      "https://news.ycombinator.com/item?id=34905847"
+    ],
+    [
+      "Silicon or Carbon?",
+      "https://thepointmag.com/politics/silicon-or-carbon/"
     ]
   ],
   [
@@ -221,12 +251,12 @@
   ],
   [
     [
-      "2023-02-22, 17:16:18",
-      "https://news.ycombinator.com/item?id=34898927"
+      "2023-02-22, 19:00:05",
+      "https://news.ycombinator.com/item?id=34900839"
     ],
     [
-      "There are no (absolute) red flags in venture capital",
-      "https://blog.aaronkharris.com/there-are-no-absolute-red-flags-in-venture-capital"
+      "Loxilb: eBPF based cloud-native service load-balancer",
+      "https://github.com/loxilb-io/loxilb"
     ]
   ],
   [
@@ -237,26 +267,6 @@
     [
       "Launch HN: Depot (YC W23) – Fast Docker Builds in the Cloud",
       "https://news.ycombinator.com/item?id=34898253"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 16:31:13",
-      "https://news.ycombinator.com/item?id=34898130"
-    ],
-    [
-      "C++ Coroutines",
-      "https://nigeltao.github.io/blog/2023/cpp-coro-part-1-yield-return-prime-sieve.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 16:09:31",
-      "https://news.ycombinator.com/item?id=34897773"
-    ],
-    [
-      "Show HN: AskHN",
-      "https://www.patterns.app/blog/2023/02/19/ask-hn-gpt-embeddings-question-answering/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Konstantin Tsiolkovsky",
       "https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 21:08:39",
-      "https://news.ycombinator.com/item?id=34887360"
-    ],
-    [
-      "NASA&#x27;s planetary radar captures detailed view of oblong asteroid",
-      "https://phys.org/news/2023-02-nasa-planetary-radar-captures-view.html"
     ]
   ]
 ]
