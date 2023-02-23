@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-02-23, 09:48:31",
+      "https://news.ycombinator.com/item?id=34908665"
+    ],
+    [
+      "5 People killed as plane carrying environment workers to Ohio tragedy crashes",
+      "https://www.independent.co.uk/news/world/americas/arkansas-plane-crash-little-rock-b2287648.html"
+    ]
+  ],
+  [
+    [
       "2023-02-23, 09:20:23",
       "https://news.ycombinator.com/item?id=34908528"
     ],
     [
-      "Mox: Modern full-featured mail server for low-maintenance self-hosted email",
+      "Show HN: Mox - Modern full-featured low-maintenance self-hosted mail server",
       "https://github.com/mjl-/mox"
     ]
   ],
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2023-02-22, 19:41:08",
-      "https://news.ycombinator.com/item?id=34901481"
-    ],
-    [
-      "Show HN: Graph-based AI for longform writing",
-      "https://jotte.ai/"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 19:00:05",
-      "https://news.ycombinator.com/item?id=34900839"
-    ],
-    [
-      "Loxilb: eBPF based cloud-native service load-balancer",
-      "https://github.com/loxilb-io/loxilb"
-    ]
-  ],
-  [
-    [
       "2023-02-22, 16:40:15",
       "https://news.ycombinator.com/item?id=34898253"
     ],
     [
       "Launch HN: Depot (YC W23) – Fast Docker Builds in the Cloud",
       "https://news.ycombinator.com/item?id=34898253"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 16:02:26",
+      "https://news.ycombinator.com/item?id=34897645"
+    ],
+    [
+      "Show HN: We’re open-sourcing our session replay tool",
+      "https://github.com/highlight/highlight"
     ]
   ],
   [
