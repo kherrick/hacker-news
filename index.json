@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-02-23, 13:21:25",
+      "https://news.ycombinator.com/item?id=34910177"
+    ],
+    [
+      "“Chat GPT went down and 25% of my team could not work.”",
+      "https://twitter.com/HarryStebbings/status/1628729481778143234"
+    ]
+  ],
+  [
+    [
       "2023-02-23, 13:00:43",
       "https://news.ycombinator.com/item?id=34909921"
     ],
     [
       "Show HN: IngestAI – NoCode ChatGPT-bot creator from your knowledge base in Slack",
       "https://ingestai.io"
+    ]
+  ],
+  [
+    [
+      "2023-02-23, 12:40:58",
+      "https://news.ycombinator.com/item?id=34909670"
+    ],
+    [
+      "Psql Tips",
+      "https://psql-tips.org/"
     ]
   ],
   [
@@ -41,12 +61,12 @@
   ],
   [
     [
-      "2023-02-23, 11:37:45",
-      "https://news.ycombinator.com/item?id=34909251"
+      "2023-02-23, 11:30:25",
+      "https://news.ycombinator.com/item?id=34909196"
     ],
     [
-      "PHP bug: Password_verify() always return true with some hash",
-      "https://bugs.php.net/bug.php?id=81744"
+      "Probability 101, the intuition behind martingales and solving problems with them",
+      "https://codeforces.com/blog/entry/110801"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Common Lisp Implementations in 2023",
       "https://www.n16f.net/blog/common-lisp-implementations-in-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-02-23, 11:04:12",
+      "https://news.ycombinator.com/item?id=34909058"
+    ],
+    [
+      "PFAS Can Suppress White Blood Cells’ Ability to Destroy Invaders",
+      "https://news.ncsu.edu/2023/02/pfas-can-suppress-white-blood-cells-ability-to-destroy-invaders/"
     ]
   ],
   [
@@ -115,7 +145,7 @@
       "https://news.ycombinator.com/item?id=34906476"
     ],
     [
-      "Lessons from 35 Years of Newsletter Publishing",
+      "Lessons from 35 Years of Newsletter Publishing (2022)",
       "https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing/"
     ]
   ],
@@ -201,6 +231,16 @@
   ],
   [
     [
+      "2023-02-22, 23:45:30",
+      "https://news.ycombinator.com/item?id=34904793"
+    ],
+    [
+      "Custom Embeddings: Why going viral caused us to rip out everything in a weekend",
+      "https://www.buildt.ai/blog/viral-ripout"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 23:05:30",
       "https://news.ycombinator.com/item?id=34904337"
     ],
@@ -211,42 +251,12 @@
   ],
   [
     [
-      "2023-02-22, 22:30:27",
-      "https://news.ycombinator.com/item?id=34903912"
-    ],
-    [
-      "Monitoring my weather at home",
-      "https://tylercipriani.com/blog/2023/02/19/weather-station/"
-    ]
-  ],
-  [
-    [
       "2023-02-22, 21:52:03",
       "https://news.ycombinator.com/item?id=34903440"
     ],
     [
       "Model-driven systems with Zen-lang [video]",
       "https://www.youtube.com/watch?v=1QxhoV67Sys"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 20:45:24",
-      "https://news.ycombinator.com/item?id=34902429"
-    ],
-    [
-      "LED lighting badly suppresses human melatonin production at night",
-      "https://www.sevarg.net/2023/02/11/how-your-leds-are-killing-you/"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 19:57:47",
-      "https://news.ycombinator.com/item?id=34901703"
-    ],
-    [
-      "Poste.io – Complete Mail Server",
-      "https://poste.io/"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=34896965"
     ],
     [
-      "Pessimistic Thoughts on Startups",
+      "Pessimistic Thoughts on Startups (2020)",
       "https://mrsteinberg.com/5-pessimistic-thoughts-on-startups/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "The Reaction Economy",
       "https://www.lrb.co.uk/the-paper/v45/n05/william-davies/the-reaction-economy"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 09:17:48",
-      "https://news.ycombinator.com/item?id=34893398"
-    ],
-    [
-      "The Forgotten History of Hong Kong’s Tigers",
-      "https://www.sixthtone.com/news/1012313/the-forgotten-history-of-hong-kongs-tigers"
     ]
   ],
   [
