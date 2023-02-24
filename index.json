@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-02-23, 18:21:10",
-      "https://news.ycombinator.com/item?id=34914348"
-    ],
-    [
-      "Argonne: Lithium-Air battery 1200 wh&#x2F;kg, 1000 cycles",
-      "https://www.anl.gov/article/new-design-for-lithiumair-battery-could-offer-much-longer-driving-range-compared-with-the-lithiumion"
-    ]
-  ],
-  [
-    [
       "2023-02-23, 16:06:42",
       "https://news.ycombinator.com/item?id=34912300"
     ],
@@ -297,6 +287,16 @@
     [
       "The Importance of Probability in Data Science",
       "https://www.kdnuggets.com/2023/02/importance-probability-data-science.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 06:07:12",
+      "https://news.ycombinator.com/item?id=34892214"
+    ],
+    [
+      "Omniscient Debugging (2007)",
+      "https://omniscientdebugger.github.io/"
     ]
   ]
 ]
