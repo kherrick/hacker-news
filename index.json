@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-24, 14:12:43",
+      "https://news.ycombinator.com/item?id=34924654"
+    ],
+    [
+      "Rust on Espressif chips – 2023 Roadmap",
+      "https://mabez.dev/blog/posts/esp-rust-24-02-2023/"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 13:40:52",
       "https://news.ycombinator.com/item?id=34924374"
     ],
@@ -47,16 +57,6 @@
     [
       "It’s time for Alphabet to spin off YouTube",
       "https://www.economist.com/business/2023/02/23/its-time-for-alphabet-to-spin-off-youtube"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 10:29:47",
-      "https://news.ycombinator.com/item?id=34923075"
-    ],
-    [
-      "Signal would &#x27;walk&#x27; from UK if Online Safety Bill undermined encryption",
-      "https://www.bbc.com/news/technology-64584001"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-02-23, 22:42:31",
-      "https://news.ycombinator.com/item?id=34917743"
-    ],
-    [
-      "DOJ Preps Antitrust Suit to Block Adobe’s $20B Figma Deal",
-      "https://www.bloomberg.com/news/articles/2023-02-23/doj-preparing-suit-to-block-adobe-s-20-billion-deal-for-figma"
-    ]
-  ],
-  [
-    [
       "2023-02-23, 16:06:42",
       "https://news.ycombinator.com/item?id=34912300"
     ],
@@ -237,6 +227,16 @@
     [
       "Squeezing a Sokoban game into 10 lines of Haskell",
       "https://www.cole-k.com/2023/02/21/tiny-games-hs/"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 23:48:39",
+      "https://news.ycombinator.com/item?id=34904833"
+    ],
+    [
+      "GPT Spiritual Avisor",
+      "https://www.robotspiritguide.com/"
     ]
   ],
   [
