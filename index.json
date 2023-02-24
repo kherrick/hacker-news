@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-24, 14:29:49",
+      "https://news.ycombinator.com/item?id=34924804"
+    ],
+    [
+      "AI chatbots are having their “tulip mania” moment",
+      "https://www.salon.com/2023/02/21/ai-chatbots-are-having-their-tulip-mania-moment/"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 14:12:43",
       "https://news.ycombinator.com/item?id=34924654"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-02-24, 13:40:52",
-      "https://news.ycombinator.com/item?id=34924374"
+      "2023-02-24, 13:48:34",
+      "https://news.ycombinator.com/item?id=34924448"
     ],
     [
-      "BASF to cut 2,600 jobs as energy crisis hits German industry",
-      "https://finance.yahoo.com/news/basf-falls-2-600-job-084353889.html"
+      "Warner Brothers Plans Revamp of LotR",
+      "https://variety.com/2023/film/news/lord-of-the-rings-new-movies-warner-bros-1235533672/"
     ]
   ],
   [
@@ -41,12 +51,32 @@
   ],
   [
     [
+      "2023-02-24, 12:08:10",
+      "https://news.ycombinator.com/item?id=34923670"
+    ],
+    [
+      "Show HN: Get advice from a GPT3-based stoic philosopher",
+      "https://seneca.dylancastillo.co/"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 10:58:24",
       "https://news.ycombinator.com/item?id=34923234"
     ],
     [
       "It’s time for Alphabet to spin off YouTube?",
       "https://www.economist.com/business/2023/02/23/its-time-for-alphabet-to-spin-off-youtube"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 07:23:32",
+      "https://news.ycombinator.com/item?id=34921883"
+    ],
+    [
+      "Show HN: While painting this, I had nothing in mind",
+      "https://krickelkrackel.com/en"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Meticulous (YC S21) Is Hiring #3 Engineer in London to Eliminate Testing",
       "https://news.ycombinator.com/item?id=34921728"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 05:24:38",
-      "https://news.ycombinator.com/item?id=34921157"
-    ],
-    [
-      "Konsta UI – Mobile UI Components Built with TailwindCSS",
-      "https://konstaui.com/"
     ]
   ],
   [
@@ -107,26 +127,6 @@
     [
       "The legacy of fy_iceworld, Counter-Strike’s divisive, popular custom map (2020)",
       "https://www.rockpapershotgun.com/the-legacy-of-fy_iceworld-counter-strikes-divisive-and-hugely-popular-custom-map"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 03:20:50",
-      "https://news.ycombinator.com/item?id=34920356"
-    ],
-    [
-      "Human mind control of rat cyborg&#x27;s movement via brain-to-brain interface (2019)",
-      "https://www.nature.com/articles/s41598-018-36885-0"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 03:13:16",
-      "https://news.ycombinator.com/item?id=34920307"
-    ],
-    [
-      "Encoder-Based Domain Tuning for Fast Personalization of Text-to-Image Models",
-      "https://tuning-encoder.github.io/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-02-23, 11:25:32",
+      "https://news.ycombinator.com/item?id=34909169"
+    ],
+    [
+      "Gluon, a high-performance IMAP library",
+      "https://proton.me/blog/gluon-imap-library"
+    ]
+  ],
+  [
+    [
       "2023-02-23, 02:40:28",
       "https://news.ycombinator.com/item?id=34906029"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2023-02-22, 21:53:07",
-      "https://news.ycombinator.com/item?id=34903454"
-    ],
-    [
-      "What&#x27;s Postgres got to do with AI?",
-      "https://www.crunchydata.com/blog/whats-postgres-got-to-do-with-ai"
-    ]
-  ],
-  [
-    [
       "2023-02-22, 20:59:33",
       "https://news.ycombinator.com/item?id=34902625"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-02-22, 15:58:28",
-      "https://news.ycombinator.com/item?id=34897589"
-    ],
-    [
-      "AsciiDoc, Liquid and Jekyll",
-      "https://mattrighetti.com/2023/02/22/asciidoc-liquid-and-jekyll.html"
-    ]
-  ],
-  [
-    [
       "2023-02-22, 15:26:32",
       "https://news.ycombinator.com/item?id=34897028"
     ],
     [
       "The Importance of Probability in Data Science",
       "https://www.kdnuggets.com/2023/02/importance-probability-data-science.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 05:48:13",
+      "https://news.ycombinator.com/item?id=34892118"
+    ],
+    [
+      "Webhooks with message brokers and Convoy",
+      "https://getconvoy.io/blog/webhooks-with-message-brokers-and-convoy/"
     ]
   ]
 ]
