@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-02-24, 17:05:55",
+      "https://news.ycombinator.com/item?id=34926778"
+    ],
+    [
+      "Training Deep Networks with Data Parallelism in Jax",
+      "https://www.mishalaskin.com/posts/data_parallel"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 17:00:00",
       "https://news.ycombinator.com/item?id=34926704"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-02-24, 15:27:05",
-      "https://news.ycombinator.com/item?id=34925396"
-    ],
-    [
-      "Roald Dahl: Original books to be kept in print following criticism",
-      "https://www.bbc.com/news/entertainment-arts-64759118"
-    ]
-  ],
-  [
-    [
       "2023-02-24, 15:07:40",
       "https://news.ycombinator.com/item?id=34925171"
     ],
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2023-02-24, 04:49:36",
-      "https://news.ycombinator.com/item?id=34920920"
+      "2023-02-23, 21:58:58",
+      "https://news.ycombinator.com/item?id=34917164"
     ],
     [
-      "How the cover art of Defender of the Crown (1986) was made (2013)",
-      "https://spelpappan.se/2013/08/this-is-how-the-cover-art-of-defender-of-the-crown-1986-was-made/"
+      "Show HN: Moochacha, quantum-safe file encryption (analyzed by Frama-C)",
+      "https://codeberg.org/markdascher/moochacha"
     ]
   ],
   [
