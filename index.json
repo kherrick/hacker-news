@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-02-24, 01:07:39",
-      "https://news.ycombinator.com/item?id=34919272"
+      "2023-02-24, 01:49:46",
+      "https://news.ycombinator.com/item?id=34919659"
     ],
     [
-      "The Investors Who Still Think Crypto Can Make Them Rich",
-      "https://www.wsj.com/articles/some-everyday-investors-still-bet-crypto-can-make-them-rich-7107d63e"
+      "Eduard: Swiss-Style Relief Shading for Maps Using Machine Learning",
+      "https://dilpreet.co/projects/eduard"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 01:26:54",
+      "https://news.ycombinator.com/item?id=34919449"
+    ],
+    [
+      "FCC Considering Banning Transfer of Online Consent Forms",
+      "https://tcpaworld.com/2023/02/23/closing-the-lead-generator-loophole-fcc-considering-banning-transfer-of-online-consent-forms-and-other-critical-changes-and-i-warned-you/"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 01:20:30",
+      "https://news.ycombinator.com/item?id=34919391"
+    ],
+    [
+      "So, you’ve been challenged to a duel. What are the rules? (2016)",
+      "https://blogs.loc.gov/law/2016/06/so-youve-been-challenged-to-a-duel-what-are-the-rules/"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "Dalio Exits: Hedge Fund Billionaire Extracts Billions More to Retire",
       "https://www.nytimes.com/2023/02/20/business/bridgewater-ray-dalio-retire.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 00:07:40",
-      "https://news.ycombinator.com/item?id=34918735"
-    ],
-    [
-      "TikTok “teen” AI filter is hitting hard for Gen-X users",
-      "https://twitter.com/memotv/status/1628758590033993728"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-02-23, 12:02:17",
-      "https://news.ycombinator.com/item?id=34909376"
-    ],
-    [
-      "Generally Intelligent (YC S17) Is Hiring Engineer Managers",
-      "https://news.ycombinator.com/item?id=34909376"
-    ]
-  ],
-  [
-    [
       "2023-02-23, 11:41:21",
       "https://news.ycombinator.com/item?id=34909270"
     ],
@@ -207,16 +207,6 @@
     [
       "Probability 101, the intuition behind martingales and solving problems with them",
       "https://codeforces.com/blog/entry/110801"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 11:16:21",
-      "https://news.ycombinator.com/item?id=34909113"
-    ],
-    [
-      "Common Lisp Implementations in 2023",
-      "https://www.n16f.net/blog/common-lisp-implementations-in-2023/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Evidence for Dirac flat band superconductivity enabled by quantum geometry",
       "https://www.nature.com/articles/s41586-022-05576-2"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 03:48:10",
+      "https://news.ycombinator.com/item?id=34891392"
+    ],
+    [
+      "The Case Against Monkey Patching",
+      "https://shopify.engineering/the-case-against-monkey-patching"
     ]
   ]
 ]
