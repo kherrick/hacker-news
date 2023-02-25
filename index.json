@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-02-25, 00:05:34",
-      "https://news.ycombinator.com/item?id=34932072"
-    ],
-    [
-      "U-2 pilot&#x27;s selfie above China&#x27;s balloon taken over Missouri",
-      "https://www.npr.org/2023/02/23/1159007203/selfie-china-balloon-photo"
-    ]
-  ],
-  [
-    [
       "2023-02-24, 23:46:57",
       "https://news.ycombinator.com/item?id=34931920"
     ],
@@ -207,6 +197,16 @@
     [
       "Training Deep Networks with Data Parallelism in Jax",
       "https://www.mishalaskin.com/posts/data_parallel"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 16:08:17",
+      "https://news.ycombinator.com/item?id=34925944"
+    ],
+    [
+      "LLaMA: A foundational, 65B-parameter large language model",
+      "https://ai.facebook.com/blog/large-language-model-llama-meta-ai/"
     ]
   ],
   [
