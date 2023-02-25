@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-02-25, 14:16:14",
+      "https://news.ycombinator.com/item?id=34936827"
+    ],
+    [
+      "Google adverts direct pregnant women to services run by UK anti-abortion groups",
+      "https://www.theguardian.com/world/2023/feb/25/google-adverts-direct-pregnant-women-anti-abortion-groups"
+    ]
+  ],
+  [
+    [
       "2023-02-25, 13:49:08",
       "https://news.ycombinator.com/item?id=34936635"
     ],
     [
-      "A new IDE for C&#x2F;C++ based on QtCreator, LeanQt and the BUSY build system",
+      "LeanCreator – A lean version of Qt Creator",
       "https://github.com/rochus-keller/LeanCreator"
     ]
   ],
@@ -167,16 +177,6 @@
     [
       "Daily.place",
       "https://www.daily.place/"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 23:40:31",
-      "https://news.ycombinator.com/item?id=34931849"
-    ],
-    [
-      "Most container images in production have serious vulnerabilities",
-      "https://www.darkreading.com/dr-tech/87-of-container-images-in-production-have-critical-or-high-severity-vulnerabilities"
     ]
   ],
   [
