@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-02-25, 00:24:37",
+      "https://news.ycombinator.com/item?id=34932261"
+    ],
+    [
+      "Research Rsc: Opting in to Transparent Telemetry (Transparent Telemetry, Part 4)",
+      "https://research.swtch.com/telemetry-opt-in"
+    ]
+  ],
+  [
+    [
       "2023-02-25, 00:07:44",
       "https://news.ycombinator.com/item?id=34932095"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-02-24, 18:40:18",
-      "https://news.ycombinator.com/item?id=34928162"
-    ],
-    [
-      "Bitnami ARM containers available at Docker Hub",
-      "https://blog.bitnami.com/2023/02/bitnami-arm-containers-available-at.html"
-    ]
-  ],
-  [
-    [
       "2023-02-24, 18:35:59",
       "https://news.ycombinator.com/item?id=34928087"
     ],
@@ -197,16 +197,6 @@
     [
       "Training Deep Networks with Data Parallelism in Jax",
       "https://www.mishalaskin.com/posts/data_parallel"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 16:08:17",
-      "https://news.ycombinator.com/item?id=34925944"
-    ],
-    [
-      "LLaMA: A foundational, 65B-parameter large language model",
-      "https://ai.facebook.com/blog/large-language-model-llama-meta-ai/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "The beginner&#x27;s guide to over­complicating coffee",
       "https://tylercipriani.com/blog/2023/01/31/coffee-science/"
+    ]
+  ],
+  [
+    [
+      "2023-02-23, 04:15:19",
+      "https://news.ycombinator.com/item?id=34906691"
+    ],
+    [
+      "Community in a Downturn",
+      "https://www.erinmikailstaples.com/community-in-a-downturn/"
     ]
   ],
   [
