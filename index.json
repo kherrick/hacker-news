@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-25, 06:00:34",
+      "https://news.ycombinator.com/item?id=34934280"
+    ],
+    [
+      "My daughter&#x27;s school took over my personal Microsoft account",
+      "https://www.jeffgeerling.com/blog/2023/my-daughters-school-took-over-my-personal-microsoft-account"
+    ]
+  ],
+  [
+    [
       "2023-02-25, 05:40:34",
       "https://news.ycombinator.com/item?id=34934216"
     ],
@@ -207,16 +217,6 @@
     [
       "Training Deep Networks with Data Parallelism in Jax",
       "https://www.mishalaskin.com/posts/data_parallel"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 03:45:32",
-      "https://news.ycombinator.com/item?id=34920507"
-    ],
-    [
-      "At Random: The business of books and the merger that wasn’t",
-      "https://harpers.org/archive/2023/03/at-random-simon-and-schuster-bertelsmann-merger-trial-penguin-random-house/"
     ]
   ],
   [
