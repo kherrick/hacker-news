@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-26, 20:13:01",
+      "https://news.ycombinator.com/item?id=34948894"
+    ],
+    [
+      "Inmos and the Transputer (1998)",
+      "https://www.transputer.net/fbooks/iandt/inmos_transputer.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-26, 20:03:21",
+      "https://news.ycombinator.com/item?id=34948816"
+    ],
+    [
+      "Relic: Functional relational programming for Clojure(Script)",
+      "https://github.com/wotbrew/relic"
+    ]
+  ],
+  [
+    [
+      "2023-02-26, 19:04:28",
+      "https://news.ycombinator.com/item?id=34948308"
+    ],
+    [
+      "Rope (data structure)",
+      "https://en.wikipedia.org/wiki/Rope_(data_structure)"
+    ]
+  ],
+  [
+    [
       "2023-02-26, 19:02:46",
       "https://news.ycombinator.com/item?id=34948289"
     ],
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2023-02-26, 18:22:45",
-      "https://news.ycombinator.com/item?id=34947883"
+      "2023-02-26, 18:27:29",
+      "https://news.ycombinator.com/item?id=34947942"
     ],
     [
-      "Canada starts investigating TikTok over data collection from young users",
-      "https://www.firstpost.com/world/canada-starts-investigating-tiktok-over-data-collection-from-young-users-12204042.html"
+      "Video games for dogs aim to help aging canine brains",
+      "https://www.axios.com/2022/11/28/dogs-video-games-joipaw"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "Linux 6.2 and Apple Silicon clarification",
       "https://twitter.com/AsahiLinux/status/1629867285379960833"
+    ]
+  ],
+  [
+    [
+      "2023-02-26, 17:09:41",
+      "https://news.ycombinator.com/item?id=34947153"
+    ],
+    [
+      "Tech’s hottest new job: Prompt engineer",
+      "https://www.washingtonpost.com/technology/2023/02/25/prompt-engineers-techs-next-big-job/"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2023-02-26, 16:29:33",
-      "https://news.ycombinator.com/item?id=34946763"
-    ],
-    [
-      "OKRs will never be enough",
-      "https://www.edge.ceo/p/okrs-will-never-be-enough"
-    ]
-  ],
-  [
-    [
       "2023-02-26, 16:10:30",
       "https://news.ycombinator.com/item?id=34946592"
     ],
@@ -117,6 +147,16 @@
     [
       "A Relational Spreadsheet",
       "https://kevinlynagh.com/relational-spreadsheet/"
+    ]
+  ],
+  [
+    [
+      "2023-02-26, 15:12:13",
+      "https://news.ycombinator.com/item?id=34946129"
+    ],
+    [
+      "The philosophical and spiritual views of Barbara McClintock",
+      "https://superbowl.substack.com/p/church-of-reality-barbara-mcclintock"
     ]
   ],
   [
@@ -141,32 +181,22 @@
   ],
   [
     [
-      "2023-02-26, 14:39:12",
-      "https://news.ycombinator.com/item?id=34945869"
+      "2023-02-26, 12:42:39",
+      "https://news.ycombinator.com/item?id=34945083"
     ],
     [
-      "Bovine meat and milk protein in tumor‐free mucosa of colorectal cancer patients",
-      "https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.13390?af=R"
+      "What is REM sleep and why is it important?",
+      "https://www.nytimes.com/2023/02/25/well/mind/rem-sleep-benefits.html"
     ]
   ],
   [
     [
-      "2023-02-26, 12:55:41",
-      "https://news.ycombinator.com/item?id=34945155"
+      "2023-02-26, 12:35:17",
+      "https://news.ycombinator.com/item?id=34945046"
     ],
     [
-      "EasyOS kirkstone 2.0 release – lightweight Linux from the guy behind Puppy Linux",
-      "https://bkhome.org/news/202302/easyos-kirkstone-series-version-50.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 11:32:14",
-      "https://news.ycombinator.com/item?id=34944753"
-    ],
-    [
-      "Cosmic rays may explain life’s bias for right-handed DNA (2020)",
-      "https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/"
+      "Popular education in Sweden: much more than you wanted to know (2022)",
+      "https://www.lesswrong.com/posts/tjxgbovwc5Ft7wrtc/popular-education-in-sweden-much-more-than-you-wanted-to-1"
     ]
   ],
   [
@@ -191,32 +221,22 @@
   ],
   [
     [
-      "2023-02-25, 17:09:54",
-      "https://news.ycombinator.com/item?id=34938271"
+      "2023-02-26, 02:53:21",
+      "https://news.ycombinator.com/item?id=34942587"
     ],
     [
-      "Nokia launches DIY repairable budget Android phone",
-      "https://www.theguardian.com/technology/2023/feb/25/nokia-launches-diy-repairable-budget-android-phone"
+      "111-1111111 is a valid Windows 95 key (2021) [video]",
+      "https://www.youtube.com/watch?v=cwyH59nACzQ"
     ]
   ],
   [
     [
-      "2023-02-25, 15:12:08",
-      "https://news.ycombinator.com/item?id=34937217"
+      "2023-02-26, 02:33:35",
+      "https://news.ycombinator.com/item?id=34942490"
     ],
     [
-      "Hayes command set history: The tech that dialed in a million modems",
-      "https://tedium.co/2023/02/22/early-modem-technology-history/"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 15:11:23",
-      "https://news.ycombinator.com/item?id=34937213"
-    ],
-    [
-      "How I learned to program a Commodore 64 in BASIC and compiled C (2020) [video]",
-      "https://www.youtube.com/watch?v=mE3Ry_1I4i4"
+      "Nino Rota’s I due timidi – an opera for radio transmission (2022)",
+      "https://blogs.bl.uk/music/2022/11/nino-rota-i-due-timidi.html"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-02-24, 08:31:09",
-      "https://news.ycombinator.com/item?id=34922294"
+      "2023-02-24, 06:59:24",
+      "https://news.ycombinator.com/item?id=34921718"
     ],
     [
-      "An overview of modern Japanese wood construction (2004) [pdf]",
-      "https://www.forum-holzbau.com/pdf/an_overview-Yoshiaki.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 04:44:55",
-      "https://news.ycombinator.com/item?id=34920875"
-    ],
-    [
-      "Why Sat Is Hard",
-      "https://matklad.github.io/2023/02/21/why-SAT-is-hard.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 20:08:49",
-      "https://news.ycombinator.com/item?id=34901877"
-    ],
-    [
-      "Flesh and Page: The laborious process of making parchment",
-      "https://www.laphamsquarterly.org/roundtable/flesh-and-page"
+      "The gap between how old you are and how old you think you are",
+      "https://www.theatlantic.com/magazine/archive/2023/04/subjective-age-how-old-you-feel-difference/673086/"
     ]
   ]
 ]
