@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-26, 12:55:41",
+      "https://news.ycombinator.com/item?id=34945155"
+    ],
+    [
+      "EasyOS kirkstone 2.0 release – lightweight Linux from the guy behind Puppy Linux",
+      "https://bkhome.org/news/202302/easyos-kirkstone-series-version-50.html"
+    ]
+  ],
+  [
+    [
       "2023-02-26, 12:43:08",
       "https://news.ycombinator.com/item?id=34945086"
     ],
@@ -31,12 +41,22 @@
   ],
   [
     [
-      "2023-02-26, 12:14:13",
-      "https://news.ycombinator.com/item?id=34944931"
+      "2023-02-26, 12:02:04",
+      "https://news.ycombinator.com/item?id=34944885"
     ],
     [
-      "Microsoft Edge sets Yandex as default search engine in Moldova",
-      "https://twitter.com/NicolaeNMV/status/1629501622878453764"
+      "Ask HN: Please critique my metalanguage: “Dogma”",
+      "https://news.ycombinator.com/item?id=34944885"
+    ]
+  ],
+  [
+    [
+      "2023-02-26, 11:32:14",
+      "https://news.ycombinator.com/item?id=34944753"
+    ],
+    [
+      "Cosmic Rays May Explain Life’s Bias for Right-Handed DNA (2020)",
+      "https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/"
     ]
   ],
   [
@@ -107,6 +127,16 @@
     [
       "The most radioactive spot in New York City can also fix your muffler",
       "https://www.atlasobscura.com/places/primo-autobody-repair"
+    ]
+  ],
+  [
+    [
+      "2023-02-26, 01:49:51",
+      "https://news.ycombinator.com/item?id=34942276"
+    ],
+    [
+      "Show HN: AI Files – manage and organize your files with AI",
+      "https://www.npmjs.com/package/aifiles"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2023-02-25, 14:35:12",
-      "https://news.ycombinator.com/item?id=34936964"
-    ],
-    [
-      "Prices and Policies in Opioid Markets [pdf]",
-      "https://www.hoover.org/sites/default/files/2023-01/MulliganOpioids_jpe3.pdf"
-    ]
-  ],
-  [
-    [
       "2023-02-25, 14:24:46",
       "https://news.ycombinator.com/item?id=34936884"
     ],
     [
       "The Graph Programming Language GP [pdf]",
       "https://www.cs.york.ac.uk/plasma/publications/pdf/Plump.CAI.09.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 13:59:57",
-      "https://news.ycombinator.com/item?id=34936719"
-    ],
-    [
-      "SwissGL: Swiss Army Knife for WebGL2",
-      "https://github.com/google/swissgl"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-02-24, 16:16:35",
-      "https://news.ycombinator.com/item?id=34926081"
-    ],
-    [
-      "The Tyranny of “The Plan”",
-      "https://www.infoq.com/presentations/tyranny-of-plan/"
-    ]
-  ],
-  [
-    [
       "2023-02-24, 16:13:07",
       "https://news.ycombinator.com/item?id=34926027"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2023-02-24, 14:40:15",
-      "https://news.ycombinator.com/item?id=34924911"
+      "2023-02-24, 14:49:08",
+      "https://news.ycombinator.com/item?id=34924997"
     ],
     [
-      "Distributing binaries with Common Lisp and foreign libraries",
-      "https://blog.cddr.org/posts/2023-02-20-distributing-binaries-cl-ffi/"
+      "Pulsar – A Community-Led Hyper-Hackable Text Editor",
+      "https://github.com/pulsar-edit/pulsar"
     ]
   ],
   [
