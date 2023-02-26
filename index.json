@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-02-26, 04:30:26",
-      "https://news.ycombinator.com/item?id=34943047"
+      "2023-02-26, 04:00:24",
+      "https://news.ycombinator.com/item?id=34942910"
     ],
     [
-      "Ask HN: Why hasn&#x27;t YouTube removed those fake MrBeast $1000 giveaway ad scams?",
-      "https://news.ycombinator.com/item?id=34943047"
+      "IsOdd (and IsEven) as a Service",
+      "https://typicalprogrammer.com/isodd-as-a-service"
+    ]
+  ],
+  [
+    [
+      "2023-02-26, 03:18:42",
+      "https://news.ycombinator.com/item?id=34942722"
+    ],
+    [
+      "WordPlate: WordPress on Composer with sensible defaults",
+      "https://github.com/vinkla/wordplate"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2023-02-25, 14:38:50",
+      "https://news.ycombinator.com/item?id=34936988"
+    ],
+    [
+      "My Friend, Stalin’s Daughter",
+      "https://www.newyorker.com/magazine/2014/03/31/my-friend-stalins-daughter"
+    ]
+  ],
+  [
+    [
       "2023-02-25, 14:31:43",
       "https://news.ycombinator.com/item?id=34936936"
     ],
@@ -177,16 +197,6 @@
     [
       "Symbolic Programming with Clojure [pdf]",
       "https://www.cs.utexas.edu/users/novak/cs378.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 14:16:33",
-      "https://news.ycombinator.com/item?id=34936831"
-    ],
-    [
-      "Online 3D Viewer for FreeCAD files",
-      "https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/FreeCAD/FreeCAD/master/data/examples/PartDesignExample.FCStd$camera=66.34677,160.67932,-135.55368,17.48001,-50.00000,-14.99847,0.00000,1.00000,0.00000,45.00000$cameramode=perspective$envsettings=fishermans_bastion,off$backgroundcolor=42,43,46,255$defaultcolor=200,200,200$edgesettings=on,0,0,0,20"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Electron Fiddle: The easiest way to get started with Electron",
       "https://www.electronjs.org/fiddle/"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 15:20:35",
-      "https://news.ycombinator.com/item?id=34925320"
-    ],
-    [
-      "Encryption Lava Lamps",
-      "https://www.atlasobscura.com/places/encryption-lava-lamps"
     ]
   ],
   [
