@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-02-26, 03:18:42",
-      "https://news.ycombinator.com/item?id=34942722"
-    ],
-    [
-      "WordPlate: WordPress on Composer with sensible defaults",
-      "https://github.com/vinkla/wordplate"
-    ]
-  ],
-  [
-    [
       "2023-02-26, 02:37:24",
       "https://news.ycombinator.com/item?id=34942512"
     ],
@@ -267,6 +257,16 @@
     [
       "Pulsar – A Community-Led Hyper-Hackable Text Editor",
       "https://github.com/pulsar-edit/pulsar"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 14:40:15",
+      "https://news.ycombinator.com/item?id=34924911"
+    ],
+    [
+      "Distributing binaries with Common Lisp and foreign libraries",
+      "https://blog.cddr.org/posts/2023-02-20-distributing-binaries-cl-ffi/"
     ]
   ],
   [
