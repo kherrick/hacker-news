@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=34945389"
     ],
     [
-      "I Disapprove of What You Say but I Will Defend to the Death Your Right to Say It",
+      "I disapprove of what you say but I will defend to the death your right to say it",
       "https://quoteinvestigator.com/2015/06/01/defend-say/"
     ]
   ],
@@ -47,16 +47,6 @@
     [
       "REM Sleep Is Magical. Here’s What the Experts Know",
       "https://www.nytimes.com/2023/02/25/well/mind/rem-sleep-benefits.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 12:41:42",
-      "https://news.ycombinator.com/item?id=34945078"
-    ],
-    [
-      "Lab Leak Most Likely Origin of Covid-19 Pandemic, U.S. Agency Now Says",
-      "https://www.wsj.com/articles/covid-origin-china-lab-leak-807b7b0a"
     ]
   ],
   [
@@ -101,12 +91,12 @@
   ],
   [
     [
-      "2023-02-26, 11:00:02",
-      "https://news.ycombinator.com/item?id=34944631"
+      "2023-02-26, 10:42:28",
+      "https://news.ycombinator.com/item?id=34944553"
     ],
     [
-      "Making Go telemetry opt-in is a mistake",
-      "https://twi.github.io/blog/making-go-telemetry-opt-in-is-a-mistake.html"
+      "France&#x27;s baby bust",
+      "https://worksinprogress.co/issue/frances-baby-bust"
     ]
   ],
   [
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2023-02-26, 03:18:42",
+      "https://news.ycombinator.com/item?id=34942722"
+    ],
+    [
+      "WordPlate: WordPress on Composer with sensible defaults",
+      "https://github.com/vinkla/wordplate"
+    ]
+  ],
+  [
+    [
       "2023-02-26, 02:37:24",
       "https://news.ycombinator.com/item?id=34942512"
     ],
@@ -161,12 +161,12 @@
   ],
   [
     [
-      "2023-02-26, 01:49:51",
-      "https://news.ycombinator.com/item?id=34942276"
+      "2023-02-25, 23:48:37",
+      "https://news.ycombinator.com/item?id=34941650"
     ],
     [
-      "Show HN: AI Files – manage and organize your files with AI",
-      "https://www.npmjs.com/package/aifiles"
+      "Oops, You Wrote a Database",
+      "https://dx.tips/oops-database"
     ]
   ],
   [
@@ -261,26 +261,6 @@
   ],
   [
     [
-      "2023-02-24, 14:40:15",
-      "https://news.ycombinator.com/item?id=34924911"
-    ],
-    [
-      "Distributing binaries with Common Lisp and foreign libraries",
-      "https://blog.cddr.org/posts/2023-02-20-distributing-binaries-cl-ffi/"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 14:08:17",
-      "https://news.ycombinator.com/item?id=34924616"
-    ],
-    [
-      "Computing e to 116,000 Places with a Personal Computer (1981)",
-      "https://archive.org/details/byte-magazine-1981-06"
-    ]
-  ],
-  [
-    [
       "2023-02-24, 13:26:47",
       "https://news.ycombinator.com/item?id=34924247"
     ],
@@ -297,6 +277,26 @@
     [
       "An overview of modern Japanese wood construction (2004) [pdf]",
       "https://www.forum-holzbau.com/pdf/an_overview-Yoshiaki.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 04:44:55",
+      "https://news.ycombinator.com/item?id=34920875"
+    ],
+    [
+      "Why Sat Is Hard",
+      "https://matklad.github.io/2023/02/21/why-SAT-is-hard.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-23, 08:12:41",
+      "https://news.ycombinator.com/item?id=34908119"
+    ],
+    [
+      "Making a Keyboard Layout",
+      "https://www.jntrnr.com/making-a-keyboard-layout/"
     ]
   ]
 ]
