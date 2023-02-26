@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-02-26, 02:23:15",
+      "https://news.ycombinator.com/item?id=34942451"
+    ],
+    [
+      "The most radioactive spot in New York City can also fix your muffler",
+      "https://www.atlasobscura.com/places/primo-autobody-repair"
+    ]
+  ],
+  [
+    [
       "2023-02-26, 01:25:14",
       "https://news.ycombinator.com/item?id=34942151"
     ],
     [
-      "Medical Response to a Vinyl Chloride Release from a Train Derailment: NJ, 2012",
+      "Medical response to a vinyl chloride release from a train derailment (2017)",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5776704/"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=34939421"
     ],
     [
-      "Bloom&#x27;s 2 Sigma Problem",
+      "Bloom&#x27;s 2 sigma problem",
       "https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "Nokia launches DIY repairable budget Android phone",
       "https://www.theguardian.com/technology/2023/feb/25/nokia-launches-diy-repairable-budget-android-phone"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 16:13:17",
-      "https://news.ycombinator.com/item?id=34937719"
-    ],
-    [
-      "Dow said it was recycling our shoes. We found them at an Indonesian flea market",
-      "https://www.reuters.com/investigates/special-report/global-plastic-dow-shoes/"
     ]
   ],
   [
@@ -221,26 +221,6 @@
   ],
   [
     [
-      "2023-02-25, 11:12:19",
-      "https://news.ycombinator.com/item?id=34935712"
-    ],
-    [
-      "Open Airport Map",
-      "https://openairportmap.org"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 21:41:28",
-      "https://news.ycombinator.com/item?id=34930510"
-    ],
-    [
-      "The Greenblatt chess program (1967) [pdf]",
-      "https://dl.acm.org/doi/pdf/10.1145/1465611.1465715"
-    ]
-  ],
-  [
-    [
       "2023-02-24, 16:18:02",
       "https://news.ycombinator.com/item?id=34926110"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2023-02-24, 14:40:15",
+      "https://news.ycombinator.com/item?id=34924911"
+    ],
+    [
+      "Distributing binaries with Common Lisp and foreign libraries",
+      "https://blog.cddr.org/posts/2023-02-20-distributing-binaries-cl-ffi/"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 14:08:17",
       "https://news.ycombinator.com/item?id=34924616"
     ],
     [
       "Computing e to 116,000 Places with a Personal Computer (1981)",
       "https://archive.org/details/byte-magazine-1981-06"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 13:26:47",
+      "https://news.ycombinator.com/item?id=34924247"
+    ],
+    [
+      "Show HN: Convert sketches into images using ControlNet",
+      "https://clio.so/sketch"
     ]
   ],
   [
