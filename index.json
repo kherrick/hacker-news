@@ -1,21 +1,11 @@
 [
   [
     [
-      "2023-02-26, 19:04:28",
-      "https://news.ycombinator.com/item?id=34948308"
-    ],
-    [
-      "Rope (Data Structure)",
-      "https://en.wikipedia.org/wiki/Rope_(data_structure)"
-    ]
-  ],
-  [
-    [
       "2023-02-26, 19:02:46",
       "https://news.ycombinator.com/item?id=34948289"
     ],
     [
-      "Trove of LA Students’ Mental Health Records Posted to Dark Web After Cyber Hack",
+      "Trove of LA students’ mental health records posted to dark web after cyber hack",
       "https://www.the74million.org/article/trove-of-l-a-students-mental-health-records-posted-to-dark-web-after-cyber-hack/"
     ]
   ],
@@ -47,16 +37,6 @@
     [
       "Jeff Minter, The wizard of gaming psychedelia",
       "https://www.polygon.com/23613576/jeff-minter-profile-akka-arrh-atari-llamasoft-arcade"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 17:25:50",
-      "https://news.ycombinator.com/item?id=34947310"
-    ],
-    [
-      "GOTOphobia considered harmful in C",
-      "https://blog.joren.ga/gotophobia-harmful"
     ]
   ],
   [
@@ -185,7 +165,7 @@
       "https://news.ycombinator.com/item?id=34944753"
     ],
     [
-      "Cosmic Rays May Explain Life’s Bias for Right-Handed DNA (2020)",
+      "Cosmic rays may explain life’s bias for right-handed DNA (2020)",
       "https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/"
     ]
   ],
@@ -201,12 +181,12 @@
   ],
   [
     [
-      "2023-02-26, 08:44:43",
-      "https://news.ycombinator.com/item?id=34944058"
+      "2023-02-26, 08:15:52",
+      "https://news.ycombinator.com/item?id=34943952"
     ],
     [
-      "Wolfram Language and Mathematica Free on Every Raspberry Pi",
-      "https://www.wolfram.com/raspberry-pi/"
+      "GOTOphobia considered harmful in C",
+      "https://blog.joren.ga/gotophobia-harmful"
     ]
   ],
   [
@@ -225,8 +205,18 @@
       "https://news.ycombinator.com/item?id=34937217"
     ],
     [
-      "Hayes Command Set History: The Tech That Dialed in a Million Modems",
+      "Hayes command set history: The tech that dialed in a million modems",
       "https://tedium.co/2023/02/22/early-modem-technology-history/"
+    ]
+  ],
+  [
+    [
+      "2023-02-25, 15:11:23",
+      "https://news.ycombinator.com/item?id=34937213"
+    ],
+    [
+      "How I learned to program a Commodore 64 in BASIC and compiled C (2020) [video]",
+      "https://www.youtube.com/watch?v=mE3Ry_1I4i4"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "An overview of modern Japanese wood construction (2004) [pdf]",
       "https://www.forum-holzbau.com/pdf/an_overview-Yoshiaki.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 04:44:55",
+      "https://news.ycombinator.com/item?id=34920875"
+    ],
+    [
+      "Why Sat Is Hard",
+      "https://matklad.github.io/2023/02/21/why-SAT-is-hard.html"
     ]
   ],
   [
