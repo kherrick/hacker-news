@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34945541"
     ],
     [
-      "Marginalia Search: 2 years, big news",
+      "Marginalia Search has received an NLNet grant",
       "https://memex.marginalia.nu/log/74-marginalia-2-years.gmi"
     ]
   ],
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-02-25, 23:48:37",
-      "https://news.ycombinator.com/item?id=34941650"
-    ],
-    [
-      "Oops, You Wrote a Database",
-      "https://dx.tips/oops-database"
-    ]
-  ],
-  [
-    [
       "2023-02-25, 21:09:50",
       "https://news.ycombinator.com/item?id=34940505"
     ],
@@ -187,6 +177,16 @@
     [
       "Nokia launches DIY repairable budget Android phone",
       "https://www.theguardian.com/technology/2023/feb/25/nokia-launches-diy-repairable-budget-android-phone"
+    ]
+  ],
+  [
+    [
+      "2023-02-25, 15:12:08",
+      "https://news.ycombinator.com/item?id=34937217"
+    ],
+    [
+      "Hayes Command Set History: The Tech That Dialed in a Million Modems",
+      "https://tedium.co/2023/02/22/early-modem-technology-history/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-02-24, 13:26:47",
-      "https://news.ycombinator.com/item?id=34924247"
+      "2023-02-24, 14:40:15",
+      "https://news.ycombinator.com/item?id=34924911"
     ],
     [
-      "Show HN: Convert sketches into images using ControlNet",
-      "https://clio.so/sketch"
+      "Distributing binaries with Common Lisp and foreign libraries",
+      "https://blog.cddr.org/posts/2023-02-20-distributing-binaries-cl-ffi/"
     ]
   ],
   [
