@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-26, 19:04:28",
+      "https://news.ycombinator.com/item?id=34948308"
+    ],
+    [
+      "Rope (Data Structure)",
+      "https://en.wikipedia.org/wiki/Rope_(data_structure)"
+    ]
+  ],
+  [
+    [
       "2023-02-26, 19:02:46",
       "https://news.ycombinator.com/item?id=34948289"
     ],
@@ -17,16 +27,6 @@
     [
       "Britain’s biggest skills problem is that many firms don’t value them",
       "https://www.economist.com/britain/2023/02/21/britains-biggest-skills-problem-is-that-many-firms-dont-value-them"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 18:24:00",
-      "https://news.ycombinator.com/item?id=34947898"
-    ],
-    [
-      "The Vanilla JavaScript Toolkit",
-      "https://vanillajstoolkit.com/"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34947310"
     ],
     [
-      "GOTOphobia Considered Harmful (In C)",
+      "GOTOphobia considered harmful in C",
       "https://blog.joren.ga/gotophobia-harmful"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=34946877"
     ],
     [
-      "2D Liquid Simulator with Cellular Automaton",
+      "2D Liquid Simulator with Cellular Automaton (2017)",
       "http://www.jgallant.com/2d-liquid-simulator-with-cellular-automaton-in-unity/"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=34946844"
     ],
     [
-      "The Power of “Yes, If”: Iterating on Our RFC Process – Squarespace &#x2F; Engineering",
+      "“Yes, if”: Iterating on our RFC Process",
       "https://engineering.squarespace.com/blog/2019/the-power-of-yes-if"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=34946800"
     ],
     [
-      "Why Is Mars&#x27;s Moon Traveling the Wrong Way?",
+      "Phobos&#x27;s orbit and its apparent motion across the Martian sky",
       "https://azeemba.com/posts/mars-phobos-wrong-way-moon.html"
     ]
   ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=34946071"
     ],
     [
-      "U.S. Department of Veterans Affairs: FreeCAD Is Approved with Constraints (2021)",
+      "U.S. Department of Veterans Affairs: FreeCAD (2021)",
       "https://www.oit.va.gov/Services/TRM/ToolPage.aspx?tid=15500"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=34945869"
     ],
     [
-      "Bovine meat and milk factor proteine in mucosa of colorectal cancer patients",
+      "Bovine meat and milk protein in tumor‐free mucosa of colorectal cancer patients",
       "https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.13390?af=R"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=34924780"
     ],
     [
-      "An Online Archive of Agrippa: A Book of the Dead",
+      "An online archive of Agrippa: A Book of the Dead",
       "https://agrippa.english.ucsb.edu/category/the-book-subcategories/the-poem"
     ]
   ],
