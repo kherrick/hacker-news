@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-02-26, 14:24:31",
-      "https://news.ycombinator.com/item?id=34945760"
-    ],
-    [
-      "Newspapers have dropped the &#x27;Dilbert&#x27; comic strip after creator&#x27;s racist rant",
-      "https://www.npr.org/2023/02/26/1159580425/newspapers-have-dropped-the-dilbert-comic-strip-after-a-racist-rant-by-its-creat"
-    ]
-  ],
-  [
-    [
       "2023-02-26, 13:53:32",
       "https://news.ycombinator.com/item?id=34945541"
     ],
@@ -57,6 +47,16 @@
     [
       "REM Sleep Is Magical. Here’s What the Experts Know",
       "https://www.nytimes.com/2023/02/25/well/mind/rem-sleep-benefits.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-26, 12:41:42",
+      "https://news.ycombinator.com/item?id=34945078"
+    ],
+    [
+      "Lab Leak Most Likely Origin of Covid-19 Pandemic, U.S. Agency Now Says",
+      "https://www.wsj.com/articles/covid-origin-china-lab-leak-807b7b0a"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-02-25, 14:38:50",
-      "https://news.ycombinator.com/item?id=34936988"
-    ],
-    [
-      "My Friend, Stalin’s Daughter (2014)",
-      "https://www.newyorker.com/magazine/2014/03/31/my-friend-stalins-daughter"
-    ]
-  ],
-  [
-    [
       "2023-02-25, 14:24:46",
       "https://news.ycombinator.com/item?id=34936884"
     ],
@@ -267,6 +257,16 @@
     [
       "Pulsar – A Community-Led Hyper-Hackable Text Editor",
       "https://github.com/pulsar-edit/pulsar"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 14:40:15",
+      "https://news.ycombinator.com/item?id=34924911"
+    ],
+    [
+      "Distributing binaries with Common Lisp and foreign libraries",
+      "https://blog.cddr.org/posts/2023-02-20-distributing-binaries-cl-ffi/"
     ]
   ],
   [
