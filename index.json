@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-02-26, 14:24:31",
+      "https://news.ycombinator.com/item?id=34945760"
+    ],
+    [
+      "Newspapers have dropped the &#x27;Dilbert&#x27; comic strip after creator&#x27;s racist rant",
+      "https://www.npr.org/2023/02/26/1159580425/newspapers-have-dropped-the-dilbert-comic-strip-after-a-racist-rant-by-its-creat"
+    ]
+  ],
+  [
+    [
       "2023-02-26, 13:53:32",
       "https://news.ycombinator.com/item?id=34945541"
     ],
     [
       "Marginalia Search: 2 years, big news",
       "https://memex.marginalia.nu/log/74-marginalia-2-years.gmi"
+    ]
+  ],
+  [
+    [
+      "2023-02-26, 13:32:23",
+      "https://news.ycombinator.com/item?id=34945389"
+    ],
+    [
+      "I Disapprove of What You Say but I Will Defend to the Death Your Right to Say It",
+      "https://quoteinvestigator.com/2015/06/01/defend-say/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-02-25, 19:51:10",
-      "https://news.ycombinator.com/item?id=34939809"
-    ],
-    [
-      "Bizarre and unusual uses of DNS",
-      "https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/"
-    ]
-  ],
-  [
-    [
       "2023-02-25, 17:09:54",
       "https://news.ycombinator.com/item?id=34938271"
     ],
@@ -257,16 +267,6 @@
     [
       "Pulsar – A Community-Led Hyper-Hackable Text Editor",
       "https://github.com/pulsar-edit/pulsar"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 14:40:15",
-      "https://news.ycombinator.com/item?id=34924911"
-    ],
-    [
-      "Distributing binaries with Common Lisp and foreign libraries",
-      "https://blog.cddr.org/posts/2023-02-20-distributing-binaries-cl-ffi/"
     ]
   ],
   [
