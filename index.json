@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-27, 12:01:02",
+      "https://news.ycombinator.com/item?id=34955422"
+    ],
+    [
+      "Emerge Career (YC S22) Is Hiring",
+      "https://www.ycombinator.com/companies/emerge-career/jobs/LZAKBCW-founding-operations-manager"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 11:50:12",
+      "https://news.ycombinator.com/item?id=34955347"
+    ],
+    [
+      "Steam Deck: First Anniversary of the Ultimate Gaming Platform",
+      "https://boilingsteam.com/steam-deck-first-anniversary-of-the-ultimate-gaming-platform/"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 11:43:16",
       "https://news.ycombinator.com/item?id=34955309"
     ],
@@ -17,6 +37,26 @@
     [
       "Plastic-based fuels may present an “unreasonable risk” to human health",
       "https://www.propublica.org/article/chevron-pascagoula-pollution-future-cancer-risk"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 09:39:53",
+      "https://news.ycombinator.com/item?id=34954604"
+    ],
+    [
+      "ShareGPT: Share your ChatGPT conversations with one click",
+      "https://sharegpt.com"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 07:55:38",
+      "https://news.ycombinator.com/item?id=34954090"
+    ],
+    [
+      "Work Less, Get More Done: Analytics for Maximizing Productivity",
+      "https://www.kalzumeus.com/2009/10/04/work-smarter-not-harder/"
     ]
   ],
   [
@@ -161,21 +201,11 @@
   ],
   [
     [
-      "2023-02-26, 21:26:27",
-      "https://news.ycombinator.com/item?id=34949642"
-    ],
-    [
-      "Feedbase is an Atom&#x2F;RSS-feed to nntp gateway",
-      "http://feedbase.org/about/"
-    ]
-  ],
-  [
-    [
       "2023-02-26, 21:25:30",
       "https://news.ycombinator.com/item?id=34949635"
     ],
     [
-      "Iconhunt: Search 150.000 free and open source icons",
+      "Iconhunt: Search 150k free and open source icons",
       "https://www.iconhunt.site/"
     ]
   ],
@@ -197,26 +227,6 @@
     [
       "Toy CPU Simulator",
       "https://jimhall.itch.io/toy-cpu"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 20:13:01",
-      "https://news.ycombinator.com/item?id=34948894"
-    ],
-    [
-      "Inmos and the Transputer (1998)",
-      "https://www.transputer.net/fbooks/iandt/inmos_transputer.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 20:03:21",
-      "https://news.ycombinator.com/item?id=34948816"
-    ],
-    [
-      "Relic: Functional relational programming for Clojure(Script)",
-      "https://github.com/wotbrew/relic"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Speedy transactions in multicore in-memory databases",
       "http://muratbuffalo.blogspot.com/2023/02/speedy-transactions-in-multicore-in.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 14:32:10",
-      "https://news.ycombinator.com/item?id=34924828"
-    ],
-    [
-      "To build truly intelligent machines, teach them cause and effect",
-      "https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/?trk=feed_main-feed-card_feed-article-content"
     ]
   ]
 ]
