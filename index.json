@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-02-26, 21:15:59",
-      "https://news.ycombinator.com/item?id=34949545"
-    ],
-    [
-      "DreamWorld (YC W21) Is Hiring Unreal Engine Game Developers",
-      "https://www.ycombinator.com/companies/dreamworld/jobs/atBKbEg-unreal-engine-game-developer-senior"
-    ]
-  ],
-  [
-    [
       "2023-02-26, 20:38:38",
       "https://news.ycombinator.com/item?id=34949146"
     ],
@@ -207,6 +197,16 @@
     [
       "Relic: Functional relational programming for Clojure(Script)",
       "https://github.com/wotbrew/relic"
+    ]
+  ],
+  [
+    [
+      "2023-02-26, 18:49:11",
+      "https://news.ycombinator.com/item?id=34948151"
+    ],
+    [
+      "Write a First Person Game in 2KB with Rust",
+      "https://grantshandy.github.io/posts/raycasting/"
     ]
   ],
   [
