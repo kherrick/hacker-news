@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-02-27, 16:12:46",
-      "https://news.ycombinator.com/item?id=34958096"
-    ],
-    [
-      "We’re using our streets wrong [video]",
-      "https://www.youtube.com/watch?v=hK7agOPye6M"
-    ]
-  ],
-  [
-    [
       "2023-02-27, 16:03:17",
       "https://news.ycombinator.com/item?id=34957953"
     ],
@@ -227,6 +217,16 @@
     [
       "Will Carbon Replace C++?",
       "https://semaphoreci.com/blog/carbon"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 14:30:40",
+      "https://news.ycombinator.com/item?id=34956807"
+    ],
+    [
+      "Open source implementation for LLaMA-based ChatGPT",
+      "https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama"
     ]
   ],
   [
