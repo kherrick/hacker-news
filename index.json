@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-02-27, 18:40:56",
+      "https://news.ycombinator.com/item?id=34960243"
+    ],
+    [
+      "Reverse-engineering the ModR&#x2F;M addressing microcode in the Intel 8086 processor",
+      "https://www.righto.com/2023/02/8086-modrm-addressing.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 18:13:27",
+      "https://news.ycombinator.com/item?id=34959895"
+    ],
+    [
+      "Graph DBMSs need new join algorithms: Story of worst-case optimal joins",
+      "https://kuzudb.com/blog/wcoj.html"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 17:57:44",
       "https://news.ycombinator.com/item?id=34959670"
     ],
     [
       "Unit Testing PDF Generation",
       "https://nibblestew.blogspot.com/2023/02/unit-testing-pdf-generation.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 17:56:24",
-      "https://news.ycombinator.com/item?id=34959649"
-    ],
-    [
-      "The vertical farming bubble is finally popping",
-      "https://www.fastcompany.com/90824702/vertical-farming-failing-profitable-appharvest-aerofarms-bowery"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "CPU of the Day: UTMC UT69R000: The RISC with a Trick (2019)",
       "https://www.cpushack.com/2019/03/01/cpu-of-the-day-utmc-ut69r000-the-risc-with-a-trick/"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 05:24:05",
-      "https://news.ycombinator.com/item?id=34943288"
-    ],
-    [
-      "A Brief Hobbyist Primer on Clipping Diodes",
-      "https://www.guitarpedalx.com/news/news/a-brief-hobbyist-primer-on-clipping-diodes"
     ]
   ],
   [
