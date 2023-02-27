@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-27, 13:47:36",
+      "https://news.ycombinator.com/item?id=34956319"
+    ],
+    [
+      "Ongoing Incident in Google Cloud",
+      "https://status.cloud.google.com/incidents/LnvJwfYu3TCyUrcrP7yf#RP1d9aZLNFZEJmTBk8e1"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 13:31:07",
+      "https://news.ycombinator.com/item?id=34956146"
+    ],
+    [
+      "Dumpster Diving FAQ (2004)",
+      "http://ranprieur.com/misc/dumpster.html"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 12:39:29",
       "https://news.ycombinator.com/item?id=34955699"
     ],
@@ -15,18 +35,8 @@
       "https://news.ycombinator.com/item?id=34955578"
     ],
     [
-      "Giant Zombie Atoms of the Cosmos (What Is a Neutron Star?)",
+      "In neutron stars, astrophysicists see a form of matter like none other",
       "https://nautil.us/giant-zombie-atoms-of-the-cosmos-263495/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 12:17:30",
-      "https://news.ycombinator.com/item?id=34955551"
-    ],
-    [
-      "Couchbase withdraws non-profit event sponshorship 4 days before",
-      "https://twitter.com/T3chFest/status/1630139044129648640"
     ]
   ],
   [
@@ -87,6 +97,16 @@
     [
       "Work less, get more done: Analytics for maximizing productivity (2009)",
       "https://www.kalzumeus.com/2009/10/04/work-smarter-not-harder/"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 06:33:17",
+      "https://news.ycombinator.com/item?id=34953693"
+    ],
+    [
+      "Getting around website paywalls with devtools alone",
+      "https://bbarrows.com/posts/how-to-get-around-paywalls-with-debug-tools"
     ]
   ],
   [
@@ -161,6 +181,16 @@
   ],
   [
     [
+      "2023-02-26, 23:45:07",
+      "https://news.ycombinator.com/item?id=34951027"
+    ],
+    [
+      "How confusion spreads and becomes engrained (2017)",
+      "https://stephan-shahinian.medium.com/how-confusion-spreads-in-todays-society-and-how-it-becomes-engrained-c687376cb602"
+    ]
+  ],
+  [
+    [
       "2023-02-26, 23:00:23",
       "https://news.ycombinator.com/item?id=34950614"
     ],
@@ -181,46 +211,6 @@
   ],
   [
     [
-      "2023-02-26, 22:41:56",
-      "https://news.ycombinator.com/item?id=34950430"
-    ],
-    [
-      "Loongson’s LSX and LASX Vector Extensions",
-      "https://chipsandcheese.com/2023/02/26/loongsons-lsx-and-lasx-vector-extensions/"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 22:11:18",
-      "https://news.ycombinator.com/item?id=34950093"
-    ],
-    [
-      "Tilde.news – A Link Aggregator for the Tildeverse",
-      "https://tilde.news"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 21:30:38",
-      "https://news.ycombinator.com/item?id=34949683"
-    ],
-    [
-      "Subscription fatigue and related musings",
-      "https://morrick.me/archives/9718"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 21:25:30",
-      "https://news.ycombinator.com/item?id=34949635"
-    ],
-    [
-      "Iconhunt: Search 150k free and open source icons",
-      "https://www.iconhunt.site/"
-    ]
-  ],
-  [
-    [
       "2023-02-26, 20:38:38",
       "https://news.ycombinator.com/item?id=34949146"
     ],
@@ -237,6 +227,16 @@
     [
       "Toy CPU Simulator",
       "https://jimhall.itch.io/toy-cpu"
+    ]
+  ],
+  [
+    [
+      "2023-02-26, 20:03:21",
+      "https://news.ycombinator.com/item?id=34948816"
+    ],
+    [
+      "Relic: Functional relational programming for Clojure(Script)",
+      "https://github.com/wotbrew/relic"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2023-02-26, 02:34:41",
+      "https://news.ycombinator.com/item?id=34942498"
+    ],
+    [
+      "Danny Dunn and the Homework Machine",
+      "https://www.newyorker.com/books/second-read/what-a-sixty-five-year-old-book-teaches-us-about-ai"
+    ]
+  ],
+  [
+    [
       "2023-02-25, 17:09:54",
       "https://news.ycombinator.com/item?id=34938271"
     ],
@@ -287,16 +297,6 @@
     [
       "Scientists lugged logs on their heads to resolve Chaco Canyon mystery",
       "https://arstechnica.com/science/2023/02/these-scientists-lugged-logs-on-their-heads-to-resolve-chaco-canyon-mystery/"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 23:31:20",
-      "https://news.ycombinator.com/item?id=34931735"
-    ],
-    [
-      "Speedy transactions in multicore in-memory databases",
-      "http://muratbuffalo.blogspot.com/2023/02/speedy-transactions-in-multicore-in.html"
     ]
   ]
 ]
