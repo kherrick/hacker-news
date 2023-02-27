@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-02-27, 21:15:18",
-      "https://news.ycombinator.com/item?id=34961951"
-    ],
-    [
-      "Shortwave: A GPT-3-powered front end for Gmail",
-      "https://www.shortwave.com/"
-    ]
-  ],
-  [
-    [
       "2023-02-27, 21:00:06",
       "https://news.ycombinator.com/item?id=34961781"
     ],
@@ -137,6 +127,16 @@
     [
       "Reverse-engineering the ModR&#x2F;M addressing microcode in the Intel 8086 processor",
       "https://www.righto.com/2023/02/8086-modrm-addressing.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 18:13:27",
+      "https://news.ycombinator.com/item?id=34959895"
+    ],
+    [
+      "Graph DBMSs need new join algorithms: Story of worst-case optimal joins",
+      "https://kuzudb.com/blog/wcoj.html"
     ]
   ],
   [
