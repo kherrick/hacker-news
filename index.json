@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-27, 09:58:37",
+      "https://news.ycombinator.com/item?id=34954694"
+    ],
+    [
+      "Why Are So Many Young Men Single and Sexless?",
+      "https://www.psychologytoday.com/intl/blog/the-state-of-our-unions/202302/why-are-so-many-young-men-single-and-sexless"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 09:05:33",
       "https://news.ycombinator.com/item?id=34954443"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=34953693"
     ],
     [
-      "Chrome DevTools, Scroll Into View gets around paywalls",
+      "Getting around website paywalls with devtools alone",
       "https://bbarrows.com/posts/how-to-get-around-paywalls-with-debug-tools"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=34953242"
     ],
     [
-      "From Go on EC2 to Fly.io: +fun, −$9&#x2F;mo",
+      "From Go on EC2 to Fly.io",
       "https://benhoyt.com/writings/flyio/"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "Relic: Functional relational programming for Clojure(Script)",
       "https://github.com/wotbrew/relic"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 18:49:11",
-      "https://news.ycombinator.com/item?id=34948151"
-    ],
-    [
-      "Write a First Person Game in 2KB with Rust",
-      "https://grantshandy.github.io/posts/raycasting/"
     ]
   ],
   [
