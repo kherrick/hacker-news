@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-28, 00:32:24",
+      "https://news.ycombinator.com/item?id=34964152"
+    ],
+    [
+      "Why CMake sucks (2021)",
+      "https://twdev.blog/2021/08/cmake/"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 22:41:05",
       "https://news.ycombinator.com/item?id=34963025"
     ],
@@ -37,26 +47,6 @@
     [
       "Using HDMI radio interference for high-speed data transfer",
       "https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 22:19:28",
-      "https://news.ycombinator.com/item?id=34962782"
-    ],
-    [
-      "CoffeeScript for TypeScript",
-      "https://civet.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 22:14:22",
-      "https://news.ycombinator.com/item?id=34962707"
-    ],
-    [
-      "Plutonium: The most dangerous substance known to man?",
-      "https://worksinprogress.co/issue/the-most-dangerous-substance-known-to-man"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "The history of writing tech",
       "https://blog.benwinding.com/the-history-of-writing-tech/"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 03:28:50",
+      "https://news.ycombinator.com/item?id=34952594"
+    ],
+    [
+      "Regular Visual Studio versus ClangCL",
+      "https://lemire.me/blog/2023/02/27/visual-studio-versus-clangcl/"
     ]
   ],
   [
