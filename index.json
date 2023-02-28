@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-02-28, 03:04:58",
-      "https://news.ycombinator.com/item?id=34965162"
-    ],
-    [
-      "I wanted to see James Taylor, but didn&#x27;t know it would cost $5k",
-      "https://www.berkshireeagle.com/opinion/columnists/simon-winchester-james-taylor-tickets-secondary-ticket-market-five-thousand-dollars/article_628155f2-b471-11ed-8e17-c79bc3e262ff.html"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 01:32:06",
       "https://news.ycombinator.com/item?id=34964572"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2023-02-27, 18:13:27",
+      "https://news.ycombinator.com/item?id=34959895"
+    ],
+    [
+      "Graph DBMSs need new join algorithms: Story of worst-case optimal joins",
+      "https://kuzudb.com/blog/wcoj.html"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 17:55:44",
       "https://news.ycombinator.com/item?id=34959639"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-02-27, 17:29:48",
+      "https://news.ycombinator.com/item?id=34959276"
+    ],
+    [
+      "Show HN: Touca – a better alternative to snapshot testing",
+      "https://github.com/trytouca/trytouca"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 16:16:34",
       "https://news.ycombinator.com/item?id=34958153"
     ],
@@ -227,16 +237,6 @@
     [
       "Research: The Transformative Power of Sabbaticals",
       "https://hbr.org/2023/02/research-the-transformative-power-of-sabbaticals"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 16:03:17",
-      "https://news.ycombinator.com/item?id=34957953"
-    ],
-    [
-      "The Determinate Nix Installer",
-      "https://determinate.systems/posts/determinate-nix-installer"
     ]
   ],
   [
