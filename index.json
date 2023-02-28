@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=34968769"
     ],
     [
-      "Pandas 2.0 and the Arrow revolution (part I)",
+      "Pandas 2.0 and the Arrow revolution",
       "https://datapythonista.me/blog/"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "Canada bans TikTok on government devices over security risks",
       "https://www.theguardian.com/technology/2023/feb/28/canada-bans-tiktok-on-government-phones-devices-over-security-risks"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 12:44:24",
-      "https://news.ycombinator.com/item?id=34968647"
-    ],
-    [
-      "Show HN: Ink – Pocket ChatGPT",
-      "https://apps.apple.com/us/app/ink-ai-writing-app-with-chat/id1663795399"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34968360"
     ],
     [
-      "Comparing Static Site Hosts; Which Is the Best Host for a Static Site?",
+      "Comparing static website hosts (2022)",
       "https://kevquirk.com/comparing-static-site-hosts-best-host-for-a-static-site/"
     ]
   ],
@@ -87,6 +77,16 @@
     [
       "We will not ‘walk out’ of UK, nor comply with any request to bypass encryption",
       "https://tutanota.com/blog/posts/uk-undermine-encryption"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 11:51:20",
+      "https://news.ycombinator.com/item?id=34968290"
+    ],
+    [
+      "AI simulates hypersonic air battle, offering tactic for winning Mach 11 dogfight",
+      "https://www.scmp.com/news/china/science/article/3211730/chinese-ai-simulates-hypersonic-air-battle-offering-surprising-tactic-winning-mach-11-dogfight"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2023-02-28, 07:43:53",
+      "https://news.ycombinator.com/item?id=34966715"
+    ],
+    [
+      "We&#x27;re creating a new top-level product group at Meta focused on generative AI",
+      "https://www.facebook.com/4/posts/were-creating-a-new-top-level-product-group-at-meta-focused-on-generative-ai-to-/10115006704889901/"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 05:55:24",
       "https://news.ycombinator.com/item?id=34966138"
     ],
@@ -167,6 +177,16 @@
     [
       "FFmpeg 6.0",
       "http://www.ffmpeg.org/download.html#release_6.0"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 03:36:31",
+      "https://news.ycombinator.com/item?id=34965326"
+    ],
+    [
+      "Language Is Not All You Need: Aligning Perception with Language Models",
+      "https://arxiv.org/abs/2302.14045"
     ]
   ],
   [
@@ -221,22 +241,12 @@
   ],
   [
     [
-      "2023-02-27, 22:30:33",
-      "https://news.ycombinator.com/item?id=34962914"
+      "2023-02-27, 23:41:48",
+      "https://news.ycombinator.com/item?id=34963685"
     ],
     [
-      "Linux-factory: A framework used to create custom Linux Debian operating systems",
-      "https://github.com/clayrisser/linux-factory"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 22:22:57",
-      "https://news.ycombinator.com/item?id=34962820"
-    ],
-    [
-      "Show HN: Former game devs building a platform showcasing game projects",
-      "https://projectgoobii.com/"
+      "Mathematical Foundations of Computer Networking (2012)",
+      "https://www.pearson.com/en-us/subject-catalog/p/mathematical-foundations-of-computer-networking/P200000009272/9780321792105"
     ]
   ],
   [
@@ -247,26 +257,6 @@
     [
       "Using HDMI radio interference for high-speed data transfer",
       "https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 22:19:28",
-      "https://news.ycombinator.com/item?id=34962782"
-    ],
-    [
-      "CoffeeScript for TypeScript",
-      "https://civet.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 22:14:22",
-      "https://news.ycombinator.com/item?id=34962707"
-    ],
-    [
-      "Plutonium: The most dangerous substance known to man?",
-      "https://worksinprogress.co/issue/the-most-dangerous-substance-known-to-man"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Launch HN: Infisical (YC W23) – Open-source secrets manager for developers",
       "https://news.ycombinator.com/item?id=34955699"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 03:28:50",
+      "https://news.ycombinator.com/item?id=34952594"
+    ],
+    [
+      "Regular Visual Studio versus ClangCL",
+      "https://lemire.me/blog/2023/02/27/visual-studio-versus-clangcl/"
     ]
   ]
 ]
