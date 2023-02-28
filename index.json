@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-28, 19:30:08",
+      "https://news.ycombinator.com/item?id=34973700"
+    ],
+    [
+      "The Weapons That Win World Wars",
+      "https://austinvernon.site/blog/peerwareconomics.html"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 18:50:21",
       "https://news.ycombinator.com/item?id=34973210"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2023-02-28, 18:13:17",
-      "https://news.ycombinator.com/item?id=34972708"
-    ],
-    [
-      "Floating Calculation in Mesopotamia [pdf]",
-      "https://arxiv.org/abs/2302.13607"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 18:03:56",
       "https://news.ycombinator.com/item?id=34972587"
     ],
@@ -87,6 +87,16 @@
     [
       "Null References: The Billion Dollar Mistake",
       "https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 17:56:49",
+      "https://news.ycombinator.com/item?id=34972490"
+    ],
+    [
+      "How the 8086 processor determines the length of an instruction",
+      "https://www.righto.com/2023/02/how-8086-processor-determines-length-of.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "So, you want to write a POP3 service?",
       "https://github.com/billpg/POP3Listener/blob/main/BuildYourOwnPOP3Server.md"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 08:01:51",
-      "https://news.ycombinator.com/item?id=34954126"
-    ],
-    [
-      "Out of the Tar Pit (2006) [pdf]",
-      "https://curtclifton.net/papers/MoseleyMarks06a.pdf"
     ]
   ],
   [
