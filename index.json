@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-02-28, 04:13:53",
+      "https://news.ycombinator.com/item?id=34965535"
+    ],
+    [
+      "FFmpeg 6.0",
+      "http://www.ffmpeg.org/download.html#release_6.0"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 03:21:53",
       "https://news.ycombinator.com/item?id=34965260"
     ],
@@ -177,16 +187,6 @@
     [
       "Diffusion with Offset Noise: Finetuning SD to generate very dark or light images",
       "https://www.crosslabs.org//blog/diffusion-with-offset-noise"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 17:29:48",
-      "https://news.ycombinator.com/item?id=34959276"
-    ],
-    [
-      "Show HN: Touca – a better alternative to snapshot testing",
-      "https://github.com/trytouca/trytouca"
     ]
   ],
   [
