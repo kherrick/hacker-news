@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-02-28, 04:50:30",
-      "https://news.ycombinator.com/item?id=34965752"
-    ],
-    [
-      "Dropping the creator of ‘Dilbert’ is free speech at work",
-      "https://www.washingtonpost.com/opinions/2023/02/27/dilbert-scott-adams-racist-rant-canceled/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 04:18:31",
-      "https://news.ycombinator.com/item?id=34965567"
-    ],
-    [
-      "I wish people would stop insisting that Git branches are nothing but refs",
-      "https://blog.plover.com/2023/02/27/"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 04:13:53",
       "https://news.ycombinator.com/item?id=34965535"
     ],
@@ -37,6 +17,16 @@
     [
       "LastPass says DevOps engineer’s hacked computer led to security breach in 2022",
       "https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 03:11:04",
+      "https://news.ycombinator.com/item?id=34965201"
+    ],
+    [
+      "The Lone Developer Problem",
+      "https://evanhahn.com/the-lone-developer-problem/"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34964197"
     ],
     [
-      "Firecracker internals: deep dive inside the technology powering AWS Lambda(2021)",
+      "Firecracker internals: Inside the technology powering AWS Lambda (2021)",
       "https://www.talhoffman.com/2021/07/18/firecracker-internals/"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=34963685"
     ],
     [
-      "Mathematical Foundations of Computer Networking",
+      "Mathematical Foundations of Computer Networking (2012)",
       "https://www.pearson.com/en-us/subject-catalog/p/mathematical-foundations-of-computer-networking/P200000009272/9780321792105"
     ]
   ],
@@ -121,22 +111,32 @@
   ],
   [
     [
+      "2023-02-27, 22:19:28",
+      "https://news.ycombinator.com/item?id=34962782"
+    ],
+    [
+      "CoffeeScript for TypeScript",
+      "https://civet.dev/"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 22:14:22",
+      "https://news.ycombinator.com/item?id=34962707"
+    ],
+    [
+      "Plutonium: The most dangerous substance known to man?",
+      "https://worksinprogress.co/issue/the-most-dangerous-substance-known-to-man"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 21:00:06",
       "https://news.ycombinator.com/item?id=34961781"
     ],
     [
       "Bitmovin (YC S15) Is Hiring Solution Engineers in Video in the US",
       "https://bitmovin.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 20:39:27",
-      "https://news.ycombinator.com/item?id=34961568"
-    ],
-    [
-      "W3C Beta Website",
-      "https://beta.w3.org/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-02-27, 17:50:50",
+      "https://news.ycombinator.com/item?id=34959565"
+    ],
+    [
+      "Show HN: Gitgpt – Natural Language Git",
+      "https://github.com/Hesse/gitgpt"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 17:29:48",
       "https://news.ycombinator.com/item?id=34959276"
     ],
@@ -227,16 +237,6 @@
     [
       "The Determinate Nix Installer",
       "https://determinate.systems/posts/determinate-nix-installer"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 15:04:16",
-      "https://news.ycombinator.com/item?id=34957215"
-    ],
-    [
-      "Will Carbon Replace C++?",
-      "https://semaphoreci.com/blog/carbon"
     ]
   ],
   [
