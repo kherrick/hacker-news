@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-28, 21:00:48",
+      "https://news.ycombinator.com/item?id=34974776"
+    ],
+    [
+      "OneSignal (YC S11) Is Hiring Engineers to Work on Mobile Customer Engagement",
+      "https://onesignal.com/careers"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 20:31:08",
       "https://news.ycombinator.com/item?id=34974406"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2023-02-28, 17:00:39",
-      "https://news.ycombinator.com/item?id=34971686"
-    ],
-    [
-      "Legion Health (YC S21) is hiring a founding engineer to fix mental health",
-      "https://www.ycombinator.com/companies/legion-health/jobs/rYWoawE-founding-engineer-full-stack"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 16:56:04",
       "https://news.ycombinator.com/item?id=34971627"
     ],
@@ -177,16 +177,6 @@
     [
       "Transformer learning explained: Coinductive guide to inductive transformer heads",
       "https://arxiv.org/abs/2302.01834"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 16:00:58",
-      "https://news.ycombinator.com/item?id=34970752"
-    ],
-    [
-      "Loneliness reshapes the brain",
-      "https://www.quantamagazine.org/how-loneliness-reshapes-the-brain-20230228/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Future Fords could repossess themselves and drive away if you miss payments",
       "https://www.thedrive.com/news/future-fords-could-repossess-themselves-and-drive-away-if-you-miss-payments"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 13:08:18",
+      "https://news.ycombinator.com/item?id=34955957"
+    ],
+    [
+      "Show HN: Dak – a Lisp like language that transpiles to JavaScript",
+      "https://www.daklang.com/"
     ]
   ],
   [
