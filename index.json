@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=34969726"
     ],
     [
-      "Client-side encryption for Gmail is now generally available (for Workspace&#x2F;Edu)",
+      "Client-side encryption for Gmail in Google Workspace is now generally available",
       "https://workspaceupdates.googleblog.com/2023/02/client-side-encryption-for-gmail-generally-available.html"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "Rare insect found at AR Walmart sets historic record, points to deeper questions",
       "https://phys.org/news/2023-02-rare-insect-arkansas-walmart-historic.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 14:27:09",
-      "https://news.ycombinator.com/item?id=34969623"
-    ],
-    [
-      "Ford seeks patent for cars that ditch you if payments missed",
-      "https://www.theregister.com/2023/02/28/ford_self_repossessing_patent/"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "Pandas 2.0 and the Arrow revolution",
       "https://datapythonista.me/blog/"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 12:58:36",
+      "https://news.ycombinator.com/item?id=34968757"
+    ],
+    [
+      "Linux is not “ready to run” on Apple Silicon, but give it time",
+      "https://arstechnica.com/gadgets/2023/02/linux-is-not-exactly-ready-to-run-on-apple-silicon-but-give-it-time/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-02-28, 07:43:53",
+      "https://news.ycombinator.com/item?id=34966715"
+    ],
+    [
+      "We&#x27;re creating a new top-level product group at Meta focused on generative AI",
+      "https://www.facebook.com/4/posts/were-creating-a-new-top-level-product-group-at-meta-focused-on-generative-ai-to-/10115006704889901/"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 05:38:40",
       "https://news.ycombinator.com/item?id=34966045"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-02-28, 00:37:11",
-      "https://news.ycombinator.com/item?id=34964197"
+      "2023-02-27, 16:16:34",
+      "https://news.ycombinator.com/item?id=34958153"
     ],
     [
-      "Firecracker internals: Inside the technology powering AWS Lambda (2021)",
-      "https://www.talhoffman.com/2021/07/18/firecracker-internals/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 16:13:16",
-      "https://news.ycombinator.com/item?id=34958102"
-    ],
-    [
-      "Research: The Transformative Power of Sabbaticals",
-      "https://hbr.org/2023/02/research-the-transformative-power-of-sabbaticals"
+      "The Camera-Shy Hoodie",
+      "https://www.macpierce.com/the-camera-shy-hoodie"
     ]
   ]
 ]
