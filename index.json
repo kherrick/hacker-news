@@ -1,12 +1,82 @@
 [
   [
     [
+      "2023-02-28, 12:59:11",
+      "https://news.ycombinator.com/item?id=34968769"
+    ],
+    [
+      "Pandas 2.0 and the Arrow revolution (part I)",
+      "https://datapythonista.me/blog/"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 12:50:26",
+      "https://news.ycombinator.com/item?id=34968694"
+    ],
+    [
+      "Canada bans TikTok on government devices over security risks",
+      "https://www.theguardian.com/technology/2023/feb/28/canada-bans-tiktok-on-government-phones-devices-over-security-risks"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 12:44:24",
+      "https://news.ycombinator.com/item?id=34968647"
+    ],
+    [
+      "Show HN: Ink – Pocket ChatGPT",
+      "https://apps.apple.com/us/app/ink-ai-writing-app-with-chat/id1663795399"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 12:04:51",
+      "https://news.ycombinator.com/item?id=34968381"
+    ],
+    [
+      "200-Year-Old Math Opens Up AI’s Mysterious Black Box",
+      "https://spectrum.ieee.org/black-box-ai"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 12:02:35",
+      "https://news.ycombinator.com/item?id=34968371"
+    ],
+    [
+      "What I Learned at Stripe",
+      "https://steinkamp.us/post/2022/11/10/what-i-learned-at-stripe.html"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 12:00:18",
       "https://news.ycombinator.com/item?id=34968362"
     ],
     [
       "Laudspeaker (YC W21) hiring to build open source customer journey software",
       "https://news.ycombinator.com/item?id=34968362"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 12:00:12",
+      "https://news.ycombinator.com/item?id=34968360"
+    ],
+    [
+      "Comparing Static Site Hosts; Which Is the Best Host for a Static Site?",
+      "https://kevquirk.com/comparing-static-site-hosts-best-host-for-a-static-site/"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 11:55:15",
+      "https://news.ycombinator.com/item?id=34968316"
+    ],
+    [
+      "Who rules Earth? Wild mammals far outweighed by humans and domestic animals",
+      "https://www.science.org/content/article/who-rules-earth-wild-mammals-far-outweighed-humans-and-domestic-animals"
     ]
   ],
   [
@@ -21,32 +91,12 @@
   ],
   [
     [
-      "2023-02-28, 11:51:20",
-      "https://news.ycombinator.com/item?id=34968290"
-    ],
-    [
-      "AI simulates hypersonic air battle, offering tactic for winning Mach 11 dogfight",
-      "https://www.scmp.com/news/china/science/article/3211730/chinese-ai-simulates-hypersonic-air-battle-offering-surprising-tactic-winning-mach-11-dogfight"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 11:31:19",
       "https://news.ycombinator.com/item?id=34968186"
     ],
     [
       "How to write Python extensions in Rust with PyO3",
       "https://www.infoworld.com/article/3687744/how-to-write-python-extensions-in-rust-with-pyo3.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 11:23:25",
-      "https://news.ycombinator.com/item?id=34968130"
-    ],
-    [
-      "‘Scanners are complicated’: why Gen Z faces workplace ‘tech shame’",
-      "https://www.theguardian.com/technology/2023/feb/27/gen-z-tech-shame-office-technology-printers"
     ]
   ],
   [
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2023-02-28, 07:43:53",
-      "https://news.ycombinator.com/item?id=34966715"
-    ],
-    [
-      "We&#x27;re creating a new top-level product group at Meta focused on generative AI",
-      "https://www.facebook.com/4/posts/were-creating-a-new-top-level-product-group-at-meta-focused-on-generative-ai-to-/10115006704889901/"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 05:55:24",
       "https://news.ycombinator.com/item?id=34966138"
     ],
@@ -127,16 +167,6 @@
     [
       "FFmpeg 6.0",
       "http://www.ffmpeg.org/download.html#release_6.0"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 03:36:31",
-      "https://news.ycombinator.com/item?id=34965326"
-    ],
-    [
-      "LLMs that can see and hear",
-      "https://arxiv.org/abs/2302.14045"
     ]
   ],
   [
@@ -187,16 +217,6 @@
     [
       "Firecracker internals: Inside the technology powering AWS Lambda (2021)",
       "https://www.talhoffman.com/2021/07/18/firecracker-internals/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 23:41:48",
-      "https://news.ycombinator.com/item?id=34963685"
-    ],
-    [
-      "Mathematical Foundations of Computer Networking (2012)",
-      "https://www.pearson.com/en-us/subject-catalog/p/mathematical-foundations-of-computer-networking/P200000009272/9780321792105"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-02-27, 13:20:35",
-      "https://news.ycombinator.com/item?id=34956067"
-    ],
-    [
-      "Turn your backyard into a biodiversity hotspot",
-      "https://www.wired.com/story/you-can-turn-your-backyard-into-a-biodiversity-hotspot/"
-    ]
-  ],
-  [
-    [
       "2023-02-27, 12:39:29",
       "https://news.ycombinator.com/item?id=34955699"
     ],
     [
       "Launch HN: Infisical (YC W23) – Open-source secrets manager for developers",
       "https://news.ycombinator.com/item?id=34955699"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 03:28:50",
-      "https://news.ycombinator.com/item?id=34952594"
-    ],
-    [
-      "Regular Visual Studio versus ClangCL",
-      "https://lemire.me/blog/2023/02/27/visual-studio-versus-clangcl/"
     ]
   ]
 ]
