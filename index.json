@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-02-28, 00:32:24",
-      "https://news.ycombinator.com/item?id=34964152"
+      "2023-02-28, 01:32:06",
+      "https://news.ycombinator.com/item?id=34964572"
     ],
     [
-      "Why CMake sucks (2021)",
-      "https://twdev.blog/2021/08/cmake/"
+      "Vimium – The Hacker&#x27;s Browser",
+      "https://vimium.github.io/"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 00:37:11",
+      "https://news.ycombinator.com/item?id=34964197"
+    ],
+    [
+      "Firecracker internals: deep dive inside the technology powering AWS Lambda(2021)",
+      "https://www.talhoffman.com/2021/07/18/firecracker-internals/"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 23:41:48",
+      "https://news.ycombinator.com/item?id=34963685"
+    ],
+    [
+      "Mathematical Foundations of Computer Networking",
+      "https://www.pearson.com/en-us/subject-catalog/p/mathematical-foundations-of-computer-networking/P200000009272/9780321792105"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-02-27, 17:56:24",
-      "https://news.ycombinator.com/item?id=34959649"
-    ],
-    [
-      "The vertical farming bubble is finally popping",
-      "https://www.fastcompany.com/90824702/vertical-farming-failing-profitable-appharvest-aerofarms-bowery"
-    ]
-  ],
-  [
-    [
       "2023-02-27, 17:55:44",
       "https://news.ycombinator.com/item?id=34959639"
     ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2023-02-27, 16:13:16",
+      "https://news.ycombinator.com/item?id=34958102"
+    ],
+    [
+      "Research: The Transformative Power of Sabbaticals",
+      "https://hbr.org/2023/02/research-the-transformative-power-of-sabbaticals"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 16:03:17",
       "https://news.ycombinator.com/item?id=34957953"
     ],
@@ -207,16 +227,6 @@
     [
       "Zig&#x27;s multi-sequence for loops",
       "https://kristoff.it/blog/zig-multi-sequence-for-loops/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 13:31:07",
-      "https://news.ycombinator.com/item?id=34956146"
-    ],
-    [
-      "Dumpster Diving FAQ (2004)",
-      "http://ranprieur.com/misc/dumpster.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Every Graphics at Once: Nintendo&#x27;s Popeye",
       "https://nicole.express/2023/yes-popeye-the-sailor-man.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 16:30:22",
-      "https://news.ycombinator.com/item?id=34946771"
-    ],
-    [
-      "CPU of the Day: UTMC UT69R000: The RISC with a Trick (2019)",
-      "https://www.cpushack.com/2019/03/01/cpu-of-the-day-utmc-ut69r000-the-risc-with-a-trick/"
     ]
   ]
 ]
