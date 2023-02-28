@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-28, 04:18:31",
+      "https://news.ycombinator.com/item?id=34965567"
+    ],
+    [
+      "I wish people would stop insisting that Git branches are nothing but refs",
+      "https://blog.plover.com/2023/02/27/"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 03:21:53",
       "https://news.ycombinator.com/item?id=34965260"
     ],
@@ -157,16 +167,6 @@
     [
       "Reverse-engineering the ModR&#x2F;M addressing microcode in the Intel 8086 processor",
       "https://www.righto.com/2023/02/8086-modrm-addressing.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 18:13:27",
-      "https://news.ycombinator.com/item?id=34959895"
-    ],
-    [
-      "Graph DBMSs need new join algorithms: Story of worst-case optimal joins",
-      "https://kuzudb.com/blog/wcoj.html"
     ]
   ],
   [
