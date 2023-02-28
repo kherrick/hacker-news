@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-02-27, 20:20:34",
+      "https://news.ycombinator.com/item?id=34961367"
+    ],
+    [
+      "Recreating ANSI Art from a Screenshot",
+      "https://bert.org/2023/02/27/recreating-ansi-art-from-a-screenshot/"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 19:44:53",
       "https://news.ycombinator.com/item?id=34960965"
     ],
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2023-02-27, 17:55:44",
-      "https://news.ycombinator.com/item?id=34959639"
+      "2023-02-27, 18:40:56",
+      "https://news.ycombinator.com/item?id=34960243"
     ],
     [
-      "Diffusion with Offset Noise: Finetuning SD to generate very dark or light images",
-      "https://www.crosslabs.org//blog/diffusion-with-offset-noise"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 17:50:50",
-      "https://news.ycombinator.com/item?id=34959565"
-    ],
-    [
-      "Show HN: Gitgpt – Natural Language Git",
-      "https://github.com/Hesse/gitgpt"
+      "Reverse-engineering the ModR&#x2F;M addressing microcode in the Intel 8086 processor",
+      "https://www.righto.com/2023/02/8086-modrm-addressing.html"
     ]
   ],
   [
