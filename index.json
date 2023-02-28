@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-28, 13:29:50",
+      "https://news.ycombinator.com/item?id=34969046"
+    ],
+    [
+      "Proposal to Merge Pyston with Cpython",
+      "https://discuss.python.org/t/contributing-the-pyston-jit/24195"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 12:59:11",
       "https://news.ycombinator.com/item?id=34968769"
     ],
@@ -21,11 +31,31 @@
   ],
   [
     [
+      "2023-02-28, 12:44:44",
+      "https://news.ycombinator.com/item?id=34968649"
+    ],
+    [
+      "Tunnelmole – give your local servers a public URL",
+      "https://github.com/robbie-cahill/tunnelmole-client"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 12:39:23",
+      "https://news.ycombinator.com/item?id=34968602"
+    ],
+    [
+      "Woman wins case against British Airways over flight vouchers",
+      "https://www.bbc.co.uk/news/uk-england-birmingham-64788448"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 12:04:51",
       "https://news.ycombinator.com/item?id=34968381"
     ],
     [
-      "200-Year-Old Math Opens Up AI’s Mysterious Black Box",
+      "Fourier analysis provides ideas on how to train more accurate neural networks",
       "https://spectrum.ieee.org/black-box-ai"
     ]
   ],
@@ -61,6 +91,16 @@
   ],
   [
     [
+      "2023-02-28, 11:59:42",
+      "https://news.ycombinator.com/item?id=34968354"
+    ],
+    [
+      "News Corp says state hackers were on its network for two years",
+      "https://www.bleepingcomputer.com/news/security/news-corp-says-state-hackers-were-on-its-network-for-two-years/"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 11:55:15",
       "https://news.ycombinator.com/item?id=34968316"
     ],
@@ -77,16 +117,6 @@
     [
       "We will not ‘walk out’ of UK, nor comply with any request to bypass encryption",
       "https://tutanota.com/blog/posts/uk-undermine-encryption"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 11:51:20",
-      "https://news.ycombinator.com/item?id=34968290"
-    ],
-    [
-      "AI simulates hypersonic air battle, offering tactic for winning Mach 11 dogfight",
-      "https://www.scmp.com/news/china/science/article/3211730/chinese-ai-simulates-hypersonic-air-battle-offering-surprising-tactic-winning-mach-11-dogfight"
     ]
   ],
   [
@@ -147,16 +177,6 @@
     [
       "We&#x27;re creating a new top-level product group at Meta focused on generative AI",
       "https://www.facebook.com/4/posts/were-creating-a-new-top-level-product-group-at-meta-focused-on-generative-ai-to-/10115006704889901/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 05:55:24",
-      "https://news.ycombinator.com/item?id=34966138"
-    ],
-    [
-      "The widespread layoffs are more because of copycat behavior than cost-cutting",
-      "https://www.businessinsider.com/stanford-professor-mass-layoffs-caused-by-social-contagion-companies-imitating-2023-2"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-02-27, 23:41:48",
-      "https://news.ycombinator.com/item?id=34963685"
-    ],
-    [
-      "Mathematical Foundations of Computer Networking (2012)",
-      "https://www.pearson.com/en-us/subject-catalog/p/mathematical-foundations-of-computer-networking/P200000009272/9780321792105"
-    ]
-  ],
-  [
-    [
       "2023-02-27, 22:20:59",
       "https://news.ycombinator.com/item?id=34962804"
     ],
@@ -287,16 +297,6 @@
     [
       "Launch HN: Infisical (YC W23) – Open-source secrets manager for developers",
       "https://news.ycombinator.com/item?id=34955699"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 03:28:50",
-      "https://news.ycombinator.com/item?id=34952594"
-    ],
-    [
-      "Regular Visual Studio versus ClangCL",
-      "https://lemire.me/blog/2023/02/27/visual-studio-versus-clangcl/"
     ]
   ]
 ]
