@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-03-01, 17:20:03",
+      "https://news.ycombinator.com/item?id=34985084"
+    ],
+    [
+      "Apple rumored to subvert EU Rules by nerfing USB-C on iPhone15",
+      "https://appleinsider.com/articles/23/02/28/iphone-15-to-require-certified-accessories-for-full-access-to-usb-c"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 17:13:48",
+      "https://news.ycombinator.com/item?id=34984973"
+    ],
+    [
+      "Thorium – A Starship Bridge Simulator",
+      "https://thoriumsim.com/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 17:00:58",
       "https://news.ycombinator.com/item?id=34984749"
     ],
     [
       "TigerEye (YC S22) is hiring machine learning and full stack engineers",
       "https://tigereye.com"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 16:56:48",
+      "https://news.ycombinator.com/item?id=34984686"
+    ],
+    [
+      "Less than half of California students read or do math at grade level",
+      "https://caaspp-elpac.ets.org/caaspp/DashViewReportSB?ps=true&lstTestYear=2022&lstTestType=B&lstGroup=1&lstSubGroup=1&lstSchoolType=A&lstGrade=13&lstCounty=00&lstDistrict=00000&lstSchool=0000000"
     ]
   ],
   [
@@ -21,6 +51,16 @@
   ],
   [
     [
+      "2023-03-01, 16:34:59",
+      "https://news.ycombinator.com/item?id=34984297"
+    ],
+    [
+      "Today&#x27;s 5-year-olds will likely live to 100",
+      "https://www.nationalgeographic.com/magazine/article/half-of-todays-5-year-olds-will-live-to-be-100"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 16:34:43",
       "https://news.ycombinator.com/item?id=34984293"
     ],
@@ -31,32 +71,12 @@
   ],
   [
     [
-      "2023-03-01, 16:23:13",
-      "https://news.ycombinator.com/item?id=34984114"
-    ],
-    [
-      "America Is Trying to Electrify. There Aren’t Enough Electricians",
-      "https://www.wsj.com/articles/america-is-trying-to-electrify-there-arent-enough-electricians-4260d05b"
-    ]
-  ],
-  [
-    [
       "2023-03-01, 16:22:13",
       "https://news.ycombinator.com/item?id=34984095"
     ],
     [
       "No, Teen Suicide Isn’t Rising Because Life Got Objectively Worse",
       "https://nymag.com/intelligencer/2023/02/teen-suicide-depression-girls-social-media.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 16:08:04",
-      "https://news.ycombinator.com/item?id=34983871"
-    ],
-    [
-      "Airbnb Is Banning People Who Are ‘Closely Associated’ with Already-Banned Users",
-      "https://www.vice.com/en/article/y3pajy/airbnb-is-banning-people-who-are-closely-associated-with-already-banned-users"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "Ask HN: Who is hiring? (March 2023)",
       "https://news.ycombinator.com/item?id=34983767"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 16:01:15",
+      "https://news.ycombinator.com/item?id=34983765"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (March 2023)",
+      "https://news.ycombinator.com/item?id=34983765"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2023-03-01, 11:07:32",
-      "https://news.ycombinator.com/item?id=34981026"
-    ],
-    [
-      "Steel was already being used in Europe 2,900 years ago, shows study",
-      "https://phys.org/news/2023-02-steel-europe-years.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 10:56:55",
-      "https://news.ycombinator.com/item?id=34980964"
-    ],
-    [
-      "You can watch Pluto TV in VLC, and the MPA considers this piracy",
-      "https://www.theverge.com/2023/2/28/23617624/pluto-tv-dmca-mpa-github-playlists"
-    ]
-  ],
-  [
-    [
       "2023-03-01, 09:38:13",
       "https://news.ycombinator.com/item?id=34980449"
     ],
@@ -267,16 +277,6 @@
     [
       "Tauri Mobile – Develop Mobile Apps with JavaScript and Rust",
       "https://studioterabyte.nl/en/blog/tauri-mobile-app-development"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 03:04:07",
-      "https://news.ycombinator.com/item?id=34978264"
-    ],
-    [
-      "KWOK: Kubernetes WithOut Kubelet",
-      "https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/"
     ]
   ],
   [
