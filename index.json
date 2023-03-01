@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-01, 13:13:38",
+      "https://news.ycombinator.com/item?id=34982007"
+    ],
+    [
+      "I quitted infosec and I couldn&#x27;t be happier",
+      "http://paulsec.github.io/posts/i-quitted-infosec/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 13:08:05",
       "https://news.ycombinator.com/item?id=34981946"
     ],
@@ -17,6 +27,16 @@
     [
       "GitHub Packages Is Down",
       "https://www.githubstatus.com/incidents/bypf7bqdh4g0"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 12:41:40",
+      "https://news.ycombinator.com/item?id=34981719"
+    ],
+    [
+      "Telemetry Required? Ask Users First",
+      "https://dev.blog.documentfoundation.org/2023/02/21/telemetry-required-ask-users-first/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-03-01, 08:21:22",
-      "https://news.ycombinator.com/item?id=34979981"
-    ],
-    [
-      "OpenAI Is Now Everything It Promised Not to Be: Closed-Source, and For-Profit",
-      "https://www.vice.com/en/article/5d3naz/openai-is-now-everything-it-promised-not-to-be-corporate-closed-source-and-for-profit"
-    ]
-  ],
-  [
-    [
       "2023-03-01, 08:08:32",
       "https://news.ycombinator.com/item?id=34979910"
     ],
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2023-02-28, 23:34:51",
-      "https://news.ycombinator.com/item?id=34976493"
+      "2023-02-28, 23:55:00",
+      "https://news.ycombinator.com/item?id=34976676"
     ],
     [
-      "Apartment rents fall as new supply hits market",
-      "https://www.wsj.com/articles/apartment-rents-fall-as-crush-of-new-supply-hits-market-2403c6ea"
+      "Who Made the First Stone Tool Kits?",
+      "https://www.smithsonianmag.com/science-nature/who-made-the-first-stone-toolkits-180981606/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Launch HN: Pyq (YC W23) – Simple APIs to Popular AI Models",
       "https://news.ycombinator.com/item?id=34971883"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 09:41:42",
-      "https://news.ycombinator.com/item?id=34967467"
-    ],
-    [
-      "AMD Instinct MI300 Data Center APU – 146B Transistors, Shipping H2’23",
-      "https://www.anandtech.com/show/18721/ces-2023-amd-instinct-mi300-data-center-apu-silicon-in-hand-146b-transistors-shipping-h223"
     ]
   ],
   [
