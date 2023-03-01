@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-03-01, 11:07:32",
+      "https://news.ycombinator.com/item?id=34981026"
+    ],
+    [
+      "Steel was already being used in Europe 2,900 years ago, shows study",
+      "https://phys.org/news/2023-02-steel-europe-years.html"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 11:03:54",
       "https://news.ycombinator.com/item?id=34981007"
     ],
@@ -27,6 +37,16 @@
     [
       "You can watch Pluto TV in VLC, and the MPA considers this piracy",
       "https://www.theverge.com/2023/2/28/23617624/pluto-tv-dmca-mpa-github-playlists"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 10:50:24",
+      "https://news.ycombinator.com/item?id=34980905"
+    ],
+    [
+      "Embracing Chaos: The Imperfect Art of Semiconductor Manufacturing, Lithography",
+      "https://www.semianalysis.com/p/embracing-chaos-the-imperfect-art"
     ]
   ],
   [
@@ -61,12 +81,42 @@
   ],
   [
     [
+      "2023-03-01, 09:33:14",
+      "https://news.ycombinator.com/item?id=34980413"
+    ],
+    [
+      "Experts say humans could be wrestling AI for control by 2035",
+      "https://aimagazine.com/articles/experts-say-humans-could-be-wrestling-ai-for-control-by-2035"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 08:39:53",
+      "https://news.ycombinator.com/item?id=34980113"
+    ],
+    [
+      "Healing the brain: hydrogels enable neuronal tissue growth",
+      "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/230719?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/230719"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 08:21:22",
       "https://news.ycombinator.com/item?id=34979981"
     ],
     [
       "OpenAI Is Now Everything It Promised Not to Be: Closed-Source, and For-Profit",
       "https://www.vice.com/en/article/5d3naz/openai-is-now-everything-it-promised-not-to-be-corporate-closed-source-and-for-profit"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 08:08:32",
+      "https://news.ycombinator.com/item?id=34979910"
+    ],
+    [
+      "Tauri Mobile – Develop Mobile Apps with JavaScript and Rust",
+      "https://studioterabyte.nl/en/blog/tauri-mobile-app-development"
     ]
   ],
   [
@@ -171,52 +221,12 @@
   ],
   [
     [
-      "2023-02-28, 20:31:08",
-      "https://news.ycombinator.com/item?id=34974406"
-    ],
-    [
-      "TCG TPM2.0 implementations vulnerable to memory corruption",
-      "https://kb.cert.org/vuls/id/782720"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 19:26:45",
-      "https://news.ycombinator.com/item?id=34973654"
-    ],
-    [
-      "OpenAI&#x27;s Foundry leaked pricing says a lot",
-      "https://cognitiverevolution.substack.com/p/openais-foundry-leaked-pricing-says"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 18:19:21",
       "https://news.ycombinator.com/item?id=34972791"
     ],
     [
       "Jailbreak Chat: A collection of ChatGPT jailbreaks",
       "https://www.jailbreakchat.com"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 17:56:49",
-      "https://news.ycombinator.com/item?id=34972490"
-    ],
-    [
-      "How the 8086 processor determines the length of an instruction",
-      "https://www.righto.com/2023/02/how-8086-processor-determines-length-of.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 17:17:10",
-      "https://news.ycombinator.com/item?id=34971924"
-    ],
-    [
-      "A spellchecker used to be a major feat of software engineering (2008)",
-      "https://prog21.dadgum.com/29.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Glory or Gravity? John Hutchinson and Isaac Newton",
       "https://www.historytoday.com/archive/great-debates/glory-or-gravity"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 13:08:18",
-      "https://news.ycombinator.com/item?id=34955957"
-    ],
-    [
-      "Show HN: Dak – a Lisp-like language that transpiles to JavaScript",
-      "https://www.daklang.com/"
     ]
   ]
 ]
