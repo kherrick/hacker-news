@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-03-01, 07:09:47",
+      "https://news.ycombinator.com/item?id=34979577"
+    ],
+    [
+      "US Pedestrian Death Rate Increased 9x Faster Than Population 2019 to 2022",
+      "https://usa.streetsblog.org/2023/02/28/report-us-pedestrian-death-rate-increased-9x-faster-than-population-during-covid/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 03:04:07",
       "https://news.ycombinator.com/item?id=34978264"
     ],
     [
       "KWOK: Kubernetes WithOut Kubelet",
       "https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 02:55:20",
+      "https://news.ycombinator.com/item?id=34978199"
+    ],
+    [
+      "What Amazon was thinking during the Comixology layoffs",
+      "https://www.comicsbeat.com/comixology-update-strange-doings-at-amazon/"
     ]
   ],
   [
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2023-02-28, 23:35:16",
+      "https://news.ycombinator.com/item?id=34976498"
+    ],
+    [
+      "HDMI Capture and Analysis FPGA Project",
+      "https://warmcat.com/hardware%20design/hdmi/fpga/2015/10/21/hdmi-capture-and-analysis-fpga-project-2.html"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 23:34:51",
       "https://news.ycombinator.com/item?id=34976493"
     ],
@@ -111,6 +141,16 @@
   ],
   [
     [
+      "2023-02-28, 18:23:36",
+      "https://news.ycombinator.com/item?id=34972839"
+    ],
+    [
+      "Show HN: Briefsky – a free Dark Sky clone for multiple weather APIs",
+      "https://briefsky.app/"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 18:19:21",
       "https://news.ycombinator.com/item?id=34972791"
     ],
@@ -127,6 +167,16 @@
     [
       "How SMS fraud works and how to guard against it",
       "https://apuchitnis.substack.com/p/how-sms-fraud-works-and-how-to-guard-against-it"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 17:56:49",
+      "https://news.ycombinator.com/item?id=34972490"
+    ],
+    [
+      "How the 8086 processor determines the length of an instruction",
+      "https://www.righto.com/2023/02/how-8086-processor-determines-length-of.html"
     ]
   ],
   [
@@ -191,52 +241,12 @@
   ],
   [
     [
-      "2023-02-28, 15:10:44",
-      "https://news.ycombinator.com/item?id=34970128"
-    ],
-    [
-      "Nvidia’s latest GPU drivers can upscale old blurry YouTube videos",
-      "https://blogs.nvidia.com/blog/2023/02/28/rtx-video-super-resolution/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 14:27:49",
-      "https://news.ycombinator.com/item?id=34969629"
-    ],
-    [
-      "Rare insect found at Arkansas Walmart",
-      "https://phys.org/news/2023-02-rare-insect-arkansas-walmart-historic.html"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 13:20:39",
       "https://news.ycombinator.com/item?id=34968953"
     ],
     [
       "The Playing Field",
       "https://grahamduncan.blog/the-playing-field/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 12:55:10",
-      "https://news.ycombinator.com/item?id=34968730"
-    ],
-    [
-      "Explanation of the Domino&#x27;s Pizza tracker",
-      "https://twitter.com/snubs/status/1630220894919598080"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 10:14:22",
-      "https://news.ycombinator.com/item?id=34967685"
-    ],
-    [
-      "Do the simplest thing that can possibly work (2004)",
-      "https://twasink.net/2004/03/30/dtsttcpw-what-does-it-mean/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-02-27, 21:31:40",
-      "https://news.ycombinator.com/item?id=34962145"
+      "2023-02-27, 13:08:18",
+      "https://news.ycombinator.com/item?id=34955957"
     ],
     [
-      "Future Fords could repossess themselves and drive away if you miss payments",
-      "https://www.thedrive.com/news/future-fords-could-repossess-themselves-and-drive-away-if-you-miss-payments"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 08:01:51",
-      "https://news.ycombinator.com/item?id=34954126"
-    ],
-    [
-      "Out of the Tar Pit (2006) [pdf]",
-      "https://curtclifton.net/papers/MoseleyMarks06a.pdf"
+      "Show HN: Dak – a Lisp-like language that transpiles to JavaScript",
+      "https://www.daklang.com/"
     ]
   ]
 ]
