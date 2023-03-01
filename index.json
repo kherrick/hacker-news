@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-03-01, 11:07:34",
+      "https://news.ycombinator.com/item?id=34981027"
+    ],
+    [
+      "Bitwise Division",
+      "http://h14s.p5r.org/2023/02/bitwise-division.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 11:03:54",
+      "https://news.ycombinator.com/item?id=34981007"
+    ],
+    [
+      "Daniel Stenberg and the home of curl in Stockholm, Sweden",
+      "https://hackerstations.com/setups/daniel_stenberg/"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 10:56:55",
+      "https://news.ycombinator.com/item?id=34980964"
+    ],
+    [
+      "You can watch Pluto TV in VLC, and the MPA considers this piracy",
+      "https://www.theverge.com/2023/2/28/23617624/pluto-tv-dmca-mpa-github-playlists"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 10:24:05",
+      "https://news.ycombinator.com/item?id=34980755"
+    ],
+    [
+      "Algorithm edits every sales demo into a highlight-reel video",
+      "https://demotime.com"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 10:00:28",
       "https://news.ycombinator.com/item?id=34980593"
     ],
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2023-02-28, 18:23:36",
-      "https://news.ycombinator.com/item?id=34972839"
-    ],
-    [
-      "Show HN: Briefsky – a free Dark Sky clone for multiple weather APIs",
-      "https://briefsky.app/"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 18:19:21",
       "https://news.ycombinator.com/item?id=34972791"
     ],
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2023-02-28, 18:03:43",
-      "https://news.ycombinator.com/item?id=34972584"
-    ],
-    [
-      "Null References: The Billion Dollar Mistake (2009) [video]",
-      "https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 17:56:49",
       "https://news.ycombinator.com/item?id=34972490"
     ],
     [
       "How the 8086 processor determines the length of an instruction",
       "https://www.righto.com/2023/02/how-8086-processor-determines-length-of.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 17:17:10",
-      "https://news.ycombinator.com/item?id=34971924"
-    ],
-    [
-      "A spellchecker used to be a major feat of software engineering (2008)",
-      "https://prog21.dadgum.com/29.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The E-Ink Badge",
       "https://census.dev/blog/diy-e-ink-badge"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 16:52:12",
-      "https://news.ycombinator.com/item?id=34971579"
-    ],
-    [
-      "Show HN: Scribble Diffusion – Turn your sketch into a refined image using AI",
-      "https://scribblediffusion.com"
     ]
   ],
   [
