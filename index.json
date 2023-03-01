@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-01, 16:23:13",
+      "https://news.ycombinator.com/item?id=34984114"
+    ],
+    [
+      "America Is Trying to Electrify. There Aren’t Enough Electricians",
+      "https://www.wsj.com/articles/america-is-trying-to-electrify-there-arent-enough-electricians-4260d05b"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 16:04:45",
+      "https://news.ycombinator.com/item?id=34983824"
+    ],
+    [
+      "Improving Students’ Learning with Effective Learning Techniques",
+      "https://journals.sagepub.com/stoken/rbtfl/Z10jaVH/60XQM/full"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 16:01:15",
+      "https://news.ycombinator.com/item?id=34983767"
+    ],
+    [
+      "Ask HN: Who is hiring? (March 2023)",
+      "https://news.ycombinator.com/item?id=34983767"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 15:16:55",
       "https://news.ycombinator.com/item?id=34983274"
     ],
@@ -17,16 +47,6 @@
     [
       "Qualcomm CEO says he’s expecting Apple to use its own modems in iPhones in 2024",
       "https://www.cnbc.com/2023/03/01/qualcomm-ceo-says-planning-for-apple-to-make-own-iphone-modems-from-2024-.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 14:43:25",
-      "https://news.ycombinator.com/item?id=34982919"
-    ],
-    [
-      "Meta’s AR&#x2F;VR hardware roadmap for the next four years",
-      "https://www.theverge.com/2023/2/28/23619730/meta-vr-oculus-ar-glasses-smartwatch-plans"
     ]
   ],
   [
@@ -61,22 +81,22 @@
   ],
   [
     [
-      "2023-03-01, 13:47:05",
-      "https://news.ycombinator.com/item?id=34982309"
-    ],
-    [
-      "Startup Decoupling and Reckoning",
-      "https://blog.eladgil.com/p/startup-decoupling-and-reckoning"
-    ]
-  ],
-  [
-    [
       "2023-03-01, 13:38:08",
       "https://news.ycombinator.com/item?id=34982225"
     ],
     [
       "I Made a Wemos D1 Mini Dev Board",
       "https://github.com/fellowgeek/wemos-d1-mini-dev-board"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 13:13:38",
+      "https://news.ycombinator.com/item?id=34982007"
+    ],
+    [
+      "I quitted infosec and I couldn&#x27;t be happier",
+      "http://paulsec.github.io/posts/i-quitted-infosec/"
     ]
   ],
   [
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=34981737"
     ],
     [
-      "What is Chess? What to think and how long for",
+      "What is Chess? What to think and for how long",
       "https://www.alexcrompton.com/blog/time-thoughts-chess"
     ]
   ],
@@ -277,26 +297,6 @@
     [
       "Common Microservices Misconceptions",
       "https://redis.com/blog/5-microservices-misconceptions/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 18:19:21",
-      "https://news.ycombinator.com/item?id=34972791"
-    ],
-    [
-      "Jailbreak Chat: A collection of ChatGPT jailbreaks",
-      "https://www.jailbreakchat.com"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 17:14:59",
-      "https://news.ycombinator.com/item?id=34971883"
-    ],
-    [
-      "Launch HN: Pyq (YC W23) – Simple APIs to Popular AI Models",
-      "https://news.ycombinator.com/item?id=34971883"
     ]
   ]
 ]
