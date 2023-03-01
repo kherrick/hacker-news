@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-01, 00:14:03",
+      "https://news.ycombinator.com/item?id=34976886"
+    ],
+    [
+      "Indirect Prompt Injection on Bing Chat",
+      "https://greshake.github.io/"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 00:11:45",
+      "https://news.ycombinator.com/item?id=34976862"
+    ],
+    [
+      "Make JDK source code UTF-8",
+      "https://bugs.openjdk.org/browse/JDK-8301971"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 23:56:57",
+      "https://news.ycombinator.com/item?id=34976696"
+    ],
+    [
+      "AMD Zen2 ymm registers rolling back",
+      "https://lkml.org/lkml/2023/2/22/33"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 22:37:13",
       "https://news.ycombinator.com/item?id=34975920"
     ],
@@ -27,26 +57,6 @@
     [
       "TCG TPM2.0 implementations vulnerable to memory corruption",
       "https://kb.cert.org/vuls/id/782720"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 19:26:45",
-      "https://news.ycombinator.com/item?id=34973654"
-    ],
-    [
-      "OpenAI&#x27;s Foundry leaked pricing says a lot",
-      "https://cognitiverevolution.substack.com/p/openais-foundry-leaked-pricing-says"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 18:23:36",
-      "https://news.ycombinator.com/item?id=34972839"
-    ],
-    [
-      "Show HN: Briefsky – a free Dark Sky clone for multiple weather APIs",
-      "https://briefsky.app/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Show HN: Dak – a Lisp-like language that transpiles to JavaScript",
       "https://www.daklang.com/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 11:20:05",
-      "https://news.ycombinator.com/item?id=34955179"
-    ],
-    [
-      "Flight Simulator gave birth to 3D video-game graphics",
-      "https://spectrum.ieee.org/microsoft-flight-simulator"
     ]
   ],
   [
