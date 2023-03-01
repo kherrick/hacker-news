@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-03-01, 16:34:43",
+      "https://news.ycombinator.com/item?id=34984293"
+    ],
+    [
+      "Dried Lake Reveals New Statue on Easter Island",
+      "https://www.smithsonianmag.com/smart-news/new-moai-statue-found-on-easter-island-180981717/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 16:23:13",
       "https://news.ycombinator.com/item?id=34984114"
     ],
     [
       "America Is Trying to Electrify. There Aren’t Enough Electricians",
       "https://www.wsj.com/articles/america-is-trying-to-electrify-there-arent-enough-electricians-4260d05b"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 16:22:13",
+      "https://news.ycombinator.com/item?id=34984095"
+    ],
+    [
+      "No, Teen Suicide Isn’t Rising Because Life Got Objectively Worse",
+      "https://nymag.com/intelligencer/2023/02/teen-suicide-depression-girls-social-media.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 16:08:04",
+      "https://news.ycombinator.com/item?id=34983871"
+    ],
+    [
+      "Airbnb Is Banning People Who Are ‘Closely Associated’ with Already-Banned Users",
+      "https://www.vice.com/en/article/y3pajy/airbnb-is-banning-people-who-are-closely-associated-with-already-banned-users"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Godot 4.0 Stable",
       "https://github.com/godotengine/godot/releases/tag/4.0-stable"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 14:19:28",
-      "https://news.ycombinator.com/item?id=34982647"
-    ],
-    [
-      "Linode increases price of compute plans and more",
-      "https://www.linode.com/blog/linode/akamai_cloud_computing_price_update/"
     ]
   ],
   [
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2023-03-01, 11:07:32",
-      "https://news.ycombinator.com/item?id=34981026"
-    ],
-    [
-      "Steel was already being used in Europe 2,900 years ago, shows study",
-      "https://phys.org/news/2023-02-steel-europe-years.html"
-    ]
-  ],
-  [
-    [
       "2023-03-01, 10:56:55",
       "https://news.ycombinator.com/item?id=34980964"
     ],
     [
       "You can watch Pluto TV in VLC, and the MPA considers this piracy",
       "https://www.theverge.com/2023/2/28/23617624/pluto-tv-dmca-mpa-github-playlists"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 10:50:24",
-      "https://news.ycombinator.com/item?id=34980905"
-    ],
-    [
-      "Embracing Chaos: The Imperfect Art of Semiconductor Manufacturing, Lithography",
-      "https://www.semianalysis.com/p/embracing-chaos-the-imperfect-art"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "Microsoft Kosmos-1: A Multimodal Large Language Model",
       "https://github.com/microsoft/unilm"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 09:25:42",
+      "https://news.ycombinator.com/item?id=34980363"
+    ],
+    [
+      "Luxo: A robotic Pixar-style lamp that jumps (2021)",
+      "https://dheera.net/projects/luxo/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Tale of Shipwreck, Mutiny, and Murder",
       "https://www.newyorker.com/books/page-turner/the-wager-david-grann-book-excerpt"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 21:08:13",
-      "https://news.ycombinator.com/item?id=34974856"
-    ],
-    [
-      "Common Microservices Misconceptions",
-      "https://redis.com/blog/5-microservices-misconceptions/"
     ]
   ]
 ]
