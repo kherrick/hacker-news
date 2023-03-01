@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-03-01, 15:16:55",
+      "https://news.ycombinator.com/item?id=34983274"
+    ],
+    [
+      "BeeRef – a free opens-source simple reference image viewer",
+      "https://beeref.org/"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 14:42:49",
+      "https://news.ycombinator.com/item?id=34982912"
+    ],
+    [
+      "EV startups from Lucid to Rivian see demand fade, supply chain issues linger",
+      "https://www.reuters.com/business/autos-transportation/ev-startups-lucid-rivian-see-demand-fade-supply-chain-issues-linger-2023-03-01/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 14:41:09",
       "https://news.ycombinator.com/item?id=34982889"
     ],
     [
       "Godot 4.0 Stable",
       "https://github.com/godotengine/godot/releases/tag/4.0-stable"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 13:47:05",
+      "https://news.ycombinator.com/item?id=34982309"
+    ],
+    [
+      "Startup Decoupling and Reckoning",
+      "https://blog.eladgil.com/p/startup-decoupling-and-reckoning"
     ]
   ],
   [
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=34981719"
     ],
     [
-      "Telemetry Required? Ask Users First",
+      "Telemetry required? Ask users first",
       "https://dev.blog.documentfoundation.org/2023/02/21/telemetry-required-ask-users-first/"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "Tether elements to each other with CSS anchor positioning",
       "https://developer.chrome.com/blog/tether-elements-to-each-other-with-css-anchor-positioning/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 12:17:49",
-      "https://news.ycombinator.com/item?id=34981518"
-    ],
-    [
-      "Uncurled: A book by Daniel Stenberg, creator of curl",
-      "https://github.com/bagder/uncurled"
     ]
   ],
   [
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2023-03-01, 08:21:22",
+      "https://news.ycombinator.com/item?id=34979981"
+    ],
+    [
+      "OpenAI is now everything it promised not to be: closed-source and for-profit",
+      "https://www.vice.com/en/article/5d3naz/openai-is-now-everything-it-promised-not-to-be-corporate-closed-source-and-for-profit"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 08:08:32",
       "https://news.ycombinator.com/item?id=34979910"
     ],
@@ -217,26 +247,6 @@
     [
       "How they filmed The Last of Us arcade scene",
       "https://forums.arcade-museum.com/threads/last-of-us-arcade-scene.518996/page-3"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 00:14:03",
-      "https://news.ycombinator.com/item?id=34976886"
-    ],
-    [
-      "Indirect Prompt Injection on Bing Chat",
-      "https://greshake.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 23:56:57",
-      "https://news.ycombinator.com/item?id=34976696"
-    ],
-    [
-      "AMD Zen2 ymm registers rolling back",
-      "https://lkml.org/lkml/2023/2/22/33"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Launch HN: Pyq (YC W23) – Simple APIs to Popular AI Models",
       "https://news.ycombinator.com/item?id=34971883"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 05:55:18",
-      "https://news.ycombinator.com/item?id=34966137"
-    ],
-    [
-      "“Clean” code, horrible performance",
-      "https://www.computerenhance.com/p/clean-code-horrible-performance"
     ]
   ]
 ]
