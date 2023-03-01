@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-03-01, 13:07:29",
+      "https://news.ycombinator.com/item?id=34981929"
+    ],
+    [
+      "GitHub Packages Is Down",
+      "https://www.githubstatus.com/incidents/bypf7bqdh4g0"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 12:21:57",
+      "https://news.ycombinator.com/item?id=34981557"
+    ],
+    [
+      "EvoPrompting: Language Models for Code-Level Neural Architecture Search",
+      "https://arxiv.org/abs/2302.14838"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 12:18:17",
+      "https://news.ycombinator.com/item?id=34981523"
+    ],
+    [
+      "Tether elements to each other with CSS anchor positioning",
+      "https://developer.chrome.com/blog/tether-elements-to-each-other-with-css-anchor-positioning/"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 12:15:26",
+      "https://news.ycombinator.com/item?id=34981505"
+    ],
+    [
+      "NIS2: Europe’s Most Extensive Cybersecurity Directive to Date",
+      "https://nis2directive.eu/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 12:14:16",
       "https://news.ycombinator.com/item?id=34981496"
     ],
@@ -17,6 +57,16 @@
     [
       "TrueVault Is Hiring Our Head of Engineering",
       "https://www.ycombinator.com/companies/truevault/jobs/r9X5TLQ-head-of-engineering"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 11:58:11",
+      "https://news.ycombinator.com/item?id=34981363"
+    ],
+    [
+      "Can We Make Bicycles Sustainable Again?",
+      "https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html"
     ]
   ],
   [
@@ -145,7 +195,7 @@
       "https://news.ycombinator.com/item?id=34979201"
     ],
     [
-      "You Don&#x27;t Know Jax",
+      "JAX – Augments numpy and Python code with function transformations (2019)",
       "https://colinraffel.com/blog/you-don-t-know-jax.html"
     ]
   ],
@@ -157,16 +207,6 @@
     [
       "KWOK: Kubernetes WithOut Kubelet",
       "https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 02:55:20",
-      "https://news.ycombinator.com/item?id=34978199"
-    ],
-    [
-      "What Amazon was thinking during the Comixology layoffs",
-      "https://www.comicsbeat.com/comixology-update-strange-doings-at-amazon/"
     ]
   ],
   [
@@ -241,26 +281,6 @@
   ],
   [
     [
-      "2023-02-28, 16:56:04",
-      "https://news.ycombinator.com/item?id=34971627"
-    ],
-    [
-      "The E-Ink Badge",
-      "https://census.dev/blog/diy-e-ink-badge"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 15:58:51",
-      "https://news.ycombinator.com/item?id=34970729"
-    ],
-    [
-      "Götz von Berlichingen – The “Iron Hand” of the Renaissance (2019)",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7000084/"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 09:41:42",
       "https://news.ycombinator.com/item?id=34967467"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-02-28, 06:22:21",
-      "https://news.ycombinator.com/item?id=34966288"
-    ],
-    [
-      "Access Path Selection in a Relational Database Management System (1979) [pdf]",
-      "https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 05:55:18",
       "https://news.ycombinator.com/item?id=34966137"
     ],
     [
       "“Clean” code, horrible performance",
       "https://www.computerenhance.com/p/clean-code-horrible-performance"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 21:49:43",
-      "https://news.ycombinator.com/item?id=34962375"
-    ],
-    [
-      "Glory or Gravity? John Hutchinson and Isaac Newton",
-      "https://www.historytoday.com/archive/great-debates/glory-or-gravity"
     ]
   ]
 ]
