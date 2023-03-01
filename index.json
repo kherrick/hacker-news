@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-01, 13:38:08",
+      "https://news.ycombinator.com/item?id=34982225"
+    ],
+    [
+      "I Made a Wemos D1 Mini Dev Board",
+      "https://github.com/fellowgeek/wemos-d1-mini-dev-board"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 13:13:38",
       "https://news.ycombinator.com/item?id=34982007"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2023-03-01, 12:44:07",
+      "https://news.ycombinator.com/item?id=34981737"
+    ],
+    [
+      "What is Chess? What to think and how long for",
+      "https://www.alexcrompton.com/blog/time-thoughts-chess"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 12:41:40",
       "https://news.ycombinator.com/item?id=34981719"
     ],
@@ -41,22 +61,22 @@
   ],
   [
     [
-      "2023-03-01, 12:21:57",
-      "https://news.ycombinator.com/item?id=34981557"
-    ],
-    [
-      "EvoPrompting: Language Models for Code-Level Neural Architecture Search",
-      "https://arxiv.org/abs/2302.14838"
-    ]
-  ],
-  [
-    [
       "2023-03-01, 12:18:17",
       "https://news.ycombinator.com/item?id=34981523"
     ],
     [
       "Tether elements to each other with CSS anchor positioning",
       "https://developer.chrome.com/blog/tether-elements-to-each-other-with-css-anchor-positioning/"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 12:17:49",
+      "https://news.ycombinator.com/item?id=34981518"
+    ],
+    [
+      "Uncurled: A book by Daniel Stenberg, creator of curl",
+      "https://github.com/bagder/uncurled"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-02-28, 20:46:53",
-      "https://news.ycombinator.com/item?id=34974598"
-    ],
-    [
-      "LokiOS: A new version of CP&#x2F;M 2.2, written from scratch",
-      "https://forum.vcfed.org/index.php?threads/introducing-lokios-a-new-version-of-cp-m-written-from-scratch-compatible-with-cp-m2-2-programs.1242138/"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 18:19:21",
       "https://news.ycombinator.com/item?id=34972791"
     ],
@@ -287,16 +297,6 @@
     [
       "Launch HN: Pyq (YC W23) – Simple APIs to Popular AI Models",
       "https://news.ycombinator.com/item?id=34971883"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 05:55:18",
-      "https://news.ycombinator.com/item?id=34966137"
-    ],
-    [
-      "“Clean” code, horrible performance",
-      "https://www.computerenhance.com/p/clean-code-horrible-performance"
     ]
   ]
 ]
