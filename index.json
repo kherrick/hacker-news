@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-01, 22:47:05",
+      "https://news.ycombinator.com/item?id=34989407"
+    ],
+    [
+      "Using Stable Diffusion techniques to create 2D game environments",
+      "https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 22:16:44",
       "https://news.ycombinator.com/item?id=34989112"
     ],
@@ -27,16 +37,6 @@
     [
       "Chicago sold rights to 36k parking meters for $1.2B that generate $200M per year",
       "https://chicago.suntimes.com/city-hall/2022/5/26/23143356/chicago-parking-meters-75-year-lease-daley-city-council-audit-skyway-loop-garages-krislov"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 21:49:31",
-      "https://news.ycombinator.com/item?id=34988830"
-    ],
-    [
-      "Low-income households are falling behind on car bills",
-      "https://www.axios.com/2023/03/01/low-income-households-are-falling-behind-on-car-bills"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Nix journey part 0: Learning and reference materials",
       "https://tinkering.xyz/nix-docs/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 19:15:56",
-      "https://news.ycombinator.com/item?id=34986903"
-    ],
-    [
-      "Twilight of the Libraries: What Gets Lost When Books Go Off-Site and Online (2022)",
-      "https://thewalrus.ca/library-digitization/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Startup Decoupling and Reckoning",
       "https://blog.eladgil.com/p/startup-decoupling-and-reckoning"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 17:06:14",
+      "https://news.ycombinator.com/item?id=34971765"
+    ],
+    [
+      "Writing an OS in Rust to run on RISC-V",
+      "https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb"
     ]
   ]
 ]
