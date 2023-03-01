@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-03-01, 12:21:57",
+      "https://news.ycombinator.com/item?id=34981557"
+    ],
+    [
+      "EvoPrompting: Language Models for Code-Level Neural Architecture Search",
+      "https://arxiv.org/abs/2302.14838"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 12:18:17",
       "https://news.ycombinator.com/item?id=34981523"
     ],
@@ -77,16 +87,6 @@
     [
       "Uncurled: A book by Daniel Stenberg, creator of curl",
       "https://github.com/bagder/uncurled"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 12:15:26",
-      "https://news.ycombinator.com/item?id=34981505"
-    ],
-    [
-      "NIS2: Europe’s Most Extensive Cybersecurity Directive to Date",
-      "https://nis2directive.eu/"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-03-01, 11:58:11",
-      "https://news.ycombinator.com/item?id=34981363"
-    ],
-    [
-      "Can We Make Bicycles Sustainable Again?",
-      "https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html"
-    ]
-  ],
-  [
-    [
       "2023-03-01, 11:07:34",
       "https://news.ycombinator.com/item?id=34981027"
     ],
@@ -137,16 +127,6 @@
     [
       "Steel was already being used in Europe 2,900 years ago, shows study",
       "https://phys.org/news/2023-02-steel-europe-years.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 11:03:54",
-      "https://news.ycombinator.com/item?id=34981007"
-    ],
-    [
-      "Daniel Stenberg and the home of curl in Stockholm, Sweden",
-      "https://hackerstations.com/setups/daniel_stenberg/"
     ]
   ],
   [
@@ -197,26 +177,6 @@
     [
       "Tauri Mobile – Develop Mobile Apps with JavaScript and Rust",
       "https://studioterabyte.nl/en/blog/tauri-mobile-app-development"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 07:09:47",
-      "https://news.ycombinator.com/item?id=34979577"
-    ],
-    [
-      "US Pedestrian Death Rate Increased 9x Faster Than Population 2019 to 2022",
-      "https://usa.streetsblog.org/2023/02/28/report-us-pedestrian-death-rate-increased-9x-faster-than-population-during-covid/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 06:56:03",
-      "https://news.ycombinator.com/item?id=34979516"
-    ],
-    [
-      "Investors are going nuts for ChatGPT-ish artificial intelligence",
-      "https://www.economist.com/business/2023/02/28/investors-are-going-nuts-for-chatgpt-ish-artificial-intelligence"
     ]
   ],
   [
@@ -281,6 +241,26 @@
   ],
   [
     [
+      "2023-02-28, 23:34:51",
+      "https://news.ycombinator.com/item?id=34976493"
+    ],
+    [
+      "Apartment rents fall as new supply hits market",
+      "https://www.wsj.com/articles/apartment-rents-fall-as-crush-of-new-supply-hits-market-2403c6ea"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 20:46:53",
+      "https://news.ycombinator.com/item?id=34974598"
+    ],
+    [
+      "LokiOS: A new version of CP&#x2F;M 2.2, written from scratch",
+      "https://forum.vcfed.org/index.php?threads/introducing-lokios-a-new-version-of-cp-m-written-from-scratch-compatible-with-cp-m2-2-programs.1242138/"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 18:19:21",
       "https://news.ycombinator.com/item?id=34972791"
     ],
@@ -297,6 +277,26 @@
     [
       "Launch HN: Pyq (YC W23) – Simple APIs to Popular AI Models",
       "https://news.ycombinator.com/item?id=34971883"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 09:41:42",
+      "https://news.ycombinator.com/item?id=34967467"
+    ],
+    [
+      "AMD Instinct MI300 Data Center APU – 146B Transistors, Shipping H2’23",
+      "https://www.anandtech.com/show/18721/ces-2023-amd-instinct-mi300-data-center-apu-silicon-in-hand-146b-transistors-shipping-h223"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 05:55:18",
+      "https://news.ycombinator.com/item?id=34966137"
+    ],
+    [
+      "“Clean” code, horrible performance",
+      "https://www.computerenhance.com/p/clean-code-horrible-performance"
     ]
   ]
 ]
