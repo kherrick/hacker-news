@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-01, 01:11:35",
+      "https://news.ycombinator.com/item?id=34977435"
+    ],
+    [
+      "How Duolingo reignited user growth",
+      "https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 00:14:03",
       "https://news.ycombinator.com/item?id=34976886"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2023-02-28, 22:37:13",
-      "https://news.ycombinator.com/item?id=34975920"
+      "2023-02-28, 23:34:51",
+      "https://news.ycombinator.com/item?id=34976493"
     ],
     [
-      "Vodafone unveils prototype 5G network built on a Raspberry Pi computer",
-      "https://www.vodafone.com/news/technology/vodafone-unveils-prototype-5g-network-built-raspberry-pi-computer"
+      "Apartment rents fall as new supply hits market",
+      "https://www.wsj.com/articles/apartment-rents-fall-as-crush-of-new-supply-hits-market-2403c6ea"
     ]
   ],
   [
@@ -51,12 +61,32 @@
   ],
   [
     [
+      "2023-02-28, 20:46:53",
+      "https://news.ycombinator.com/item?id=34974598"
+    ],
+    [
+      "LokiOS: A new version of CP&#x2F;M 2.2, written from scratch",
+      "https://forum.vcfed.org/index.php?threads/introducing-lokios-a-new-version-of-cp-m-written-from-scratch-compatible-with-cp-m2-2-programs.1242138/"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 20:31:08",
       "https://news.ycombinator.com/item?id=34974406"
     ],
     [
       "TCG TPM2.0 implementations vulnerable to memory corruption",
       "https://kb.cert.org/vuls/id/782720"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 19:26:45",
+      "https://news.ycombinator.com/item?id=34973654"
+    ],
+    [
+      "OpenAI&#x27;s Foundry leaked pricing says a lot",
+      "https://cognitiverevolution.substack.com/p/openais-foundry-leaked-pricing-says"
     ]
   ],
   [
@@ -81,26 +111,6 @@
   ],
   [
     [
-      "2023-02-28, 18:03:43",
-      "https://news.ycombinator.com/item?id=34972584"
-    ],
-    [
-      "Null References: The Billion Dollar Mistake (2009) [video]",
-      "https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 17:56:49",
-      "https://news.ycombinator.com/item?id=34972490"
-    ],
-    [
-      "How the 8086 processor determines the length of an instruction",
-      "https://www.righto.com/2023/02/how-8086-processor-determines-length-of.html"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 17:17:10",
       "https://news.ycombinator.com/item?id=34971924"
     ],
@@ -117,16 +127,6 @@
     [
       "Launch HN: Pyq (YC W23) – Simple APIs to Popular AI Models",
       "https://news.ycombinator.com/item?id=34971883"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 17:02:37",
-      "https://news.ycombinator.com/item?id=34971717"
-    ],
-    [
-      "The Offshore Networks of Oligarchs",
-      "https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgad051/7059318"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-02-28, 15:10:44",
+      "https://news.ycombinator.com/item?id=34970128"
+    ],
+    [
+      "Nvidia’s latest GPU drivers can upscale old blurry YouTube videos",
+      "https://blogs.nvidia.com/blog/2023/02/28/rtx-video-super-resolution/"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 15:04:12",
       "https://news.ycombinator.com/item?id=34970045"
     ],
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2023-02-28, 12:55:10",
+      "https://news.ycombinator.com/item?id=34968730"
+    ],
+    [
+      "Explanation of the Domino&#x27;s Pizza tracker",
+      "https://twitter.com/snubs/status/1630220894919598080"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 10:14:22",
       "https://news.ycombinator.com/item?id=34967685"
     ],
@@ -221,12 +241,22 @@
   ],
   [
     [
-      "2023-02-28, 06:59:39",
-      "https://news.ycombinator.com/item?id=34966472"
+      "2023-02-28, 09:41:42",
+      "https://news.ycombinator.com/item?id=34967467"
     ],
     [
-      "X12: Requirements for a successor to the X11 protocol (2013)",
-      "https://www.x.org/wiki/Development/X12/"
+      "AMD Instinct MI300 Data Center APU – 146B Transistors, Shipping H2’23",
+      "https://www.anandtech.com/show/18721/ces-2023-amd-instinct-mi300-data-center-apu-silicon-in-hand-146b-transistors-shipping-h223"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 06:22:21",
+      "https://news.ycombinator.com/item?id=34966288"
+    ],
+    [
+      "Access Path Selection in a Relational Database Management System (1979) [pdf]",
+      "https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-02-27, 13:08:18",
-      "https://news.ycombinator.com/item?id=34955957"
-    ],
-    [
-      "Show HN: Dak – a Lisp-like language that transpiles to JavaScript",
-      "https://www.daklang.com/"
-    ]
-  ],
-  [
-    [
       "2023-02-27, 08:01:51",
       "https://news.ycombinator.com/item?id=34954126"
     ],
     [
       "Out of the Tar Pit (2006) [pdf]",
       "https://curtclifton.net/papers/MoseleyMarks06a.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 09:48:05",
-      "https://news.ycombinator.com/item?id=34944324"
-    ],
-    [
-      "OpenType: Let&#x27;s learn how modern fonts work",
-      "https://pomax.github.io/1449777175633/opentype-let-s-learn-how-modern-fonts-actually-work"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 08:46:40",
-      "https://news.ycombinator.com/item?id=34944067"
-    ],
-    [
-      "The PS2’s Backwards Compatibility from the Engineer Who Built It",
-      "https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353"
     ]
   ]
 ]
