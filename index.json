@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-03-02, 11:14:33",
+      "https://news.ycombinator.com/item?id=34994449"
+    ],
+    [
+      "Starbucks illegally fired US workers over union, judge rules",
+      "https://www.bbc.co.uk/news/business-64819774"
+    ]
+  ],
+  [
+    [
       "2023-03-02, 11:13:12",
       "https://news.ycombinator.com/item?id=34994444"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=34993823"
     ],
     [
-      "EU will require Apple to open up iMessage",
+      "EU will require Apple to open up iMessage (2022)",
       "https://www.protocol.com/bulletins/europe-dma-apple-imessage"
     ]
   ],
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2023-03-01, 23:06:23",
-      "https://news.ycombinator.com/item?id=34989601"
-    ],
-    [
-      "Standard Notes",
-      "https://standardnotes.com"
-    ]
-  ],
-  [
-    [
       "2023-03-01, 22:47:05",
       "https://news.ycombinator.com/item?id=34989407"
     ],
     [
       "Creating Isometric RPG Game Backgrounds",
       "https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 21:42:29",
-      "https://news.ycombinator.com/item?id=34988748"
-    ],
-    [
-      "ChatML: ChatGPT API expects a structured format, called Chat Markup Language",
-      "https://github.com/openai/openai-python/blob/main/chatml.md"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Cromemco Z-2D",
       "https://computeradsfromthepast.substack.com/p/cromemco-z-2d"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 00:59:35",
+      "https://news.ycombinator.com/item?id=34977319"
+    ],
+    [
+      "Autofz: Automated Fuzzer Composition at Runtime",
+      "https://arxiv.org/abs/2302.12879"
     ]
   ],
   [
