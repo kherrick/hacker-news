@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-03-02, 01:39:57",
+      "https://news.ycombinator.com/item?id=34990844"
+    ],
+    [
+      "Asteroid lost 1M kilograms after collision with DART spacecraft",
+      "https://www.nature.com/articles/d41586-023-00601-4"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 01:12:30",
+      "https://news.ycombinator.com/item?id=34990666"
+    ],
+    [
+      "US-Japan team hails H2-boron plasma fusion breakthrough",
+      "https://www.rechargenews.com/energy-transition/100-000-years-of-power-us-japan-team-hails-h2-boron-plasma-fusion-breakthrough/2-1-1411318?zephr_sso_ott=QAIu08"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 00:21:48",
+      "https://news.ycombinator.com/item?id=34990302"
+    ],
+    [
+      "ARM vs. Intel on Amazon’s Cloud: A URL Parsing Benchmark",
+      "https://lemire.me/blog/2023/03/01/arm-vs-intel-on-amazons-cloud/"
+    ]
+  ],
+  [
+    [
       "2023-03-02, 00:13:38",
       "https://news.ycombinator.com/item?id=34990229"
     ],
     [
       "HackerFM – An AI Generated HN Podcast Using the New ChatGPT API",
       "https://hackerfm.com/index"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 23:55:30",
-      "https://news.ycombinator.com/item?id=34990078"
-    ],
-    [
-      "Raster CRT Typography (According to DEC)",
-      "https://www.masswerk.at/nowgobang/2019/dec-crt-typography"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-03-01, 20:29:05",
-      "https://news.ycombinator.com/item?id=34987857"
-    ],
-    [
-      "Why the Abstraction and Reasoning Corpus is interesting and important for AI",
-      "https://aiguide.substack.com/p/why-the-abstraction-and-reasoning"
-    ]
-  ],
-  [
-    [
       "2023-03-01, 20:14:16",
       "https://news.ycombinator.com/item?id=34987658"
     ],
@@ -177,16 +187,6 @@
     [
       "You cannot have exactly-once delivery (2015)",
       "https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 18:25:34",
-      "https://news.ycombinator.com/item?id=34986267"
-    ],
-    [
-      "Service Weaver: A Framework for Writing Distributed Applications",
-      "https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-02-28, 18:47:02",
-      "https://news.ycombinator.com/item?id=34973170"
+      "2023-02-28, 20:08:11",
+      "https://news.ycombinator.com/item?id=34974113"
     ],
     [
-      "Startup Decoupling and Reckoning",
-      "https://blog.eladgil.com/p/startup-decoupling-and-reckoning"
+      "Digirule2: 1970 8-bit programmable binary computer built into a 20cm ruler",
+      "https://bradsprojects.com/digirule2/"
     ]
   ],
   [
