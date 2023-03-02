@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-02, 18:13:19",
+      "https://news.ycombinator.com/item?id=34999464"
+    ],
+    [
+      "A Senior Engineer&#x27;s Guide to the System Design Interview",
+      "https://interviewing.io/guides/system-design-interview"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 18:06:16",
+      "https://news.ycombinator.com/item?id=34999366"
+    ],
+    [
+      "Why doesn&#x27;t Costa Rica use real addresses?",
+      "https://www.crcdaily.com/p/why-doesnt-costa-rica-use-real-addresses"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 17:44:10",
+      "https://news.ycombinator.com/item?id=34999042"
+    ],
+    [
+      "Canadians think tipping is ‘getting out of control,’ new poll suggest",
+      "https://globalnews.ca/news/9498238/tipping-canada-angus-reid-poll/"
+    ]
+  ],
+  [
+    [
       "2023-03-02, 17:35:45",
       "https://news.ycombinator.com/item?id=34998921"
     ],
@@ -11,32 +41,12 @@
   ],
   [
     [
-      "2023-03-02, 17:02:40",
-      "https://news.ycombinator.com/item?id=34998372"
-    ],
-    [
-      "Bad Projection Is Ruining the Movie Theater Experience",
-      "https://www.vulture.com/2023/03/movie-theater-projector-amc-regal.html"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 17:01:15",
       "https://news.ycombinator.com/item?id=34998345"
     ],
     [
       "EasyPost (YC S13) Is Hiring",
       "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 16:39:58",
-      "https://news.ycombinator.com/item?id=34998043"
-    ],
-    [
-      "Salesforce Lays Off 8k While Paying Matthew McConaughey $10M&#x2F;Yr to Sit Around",
-      "https://futurism.com/the-byte/company-paying-matthew-mcconaughey-10-million-to-sit-around"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Revolutionary Stroke Treatment Will Save Millions of Lives",
       "https://www.nytimes.com/2023/03/01/magazine/evt-stroke-treatment.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 15:29:48",
-      "https://news.ycombinator.com/item?id=34996861"
-    ],
-    [
-      "What Redwood learned in its first year of EV battery recycling",
-      "https://arstechnica.com/cars/2023/03/heres-what-redwood-learned-in-its-first-year-of-ev-battery-recycling/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-03-01, 18:01:48",
+      "https://news.ycombinator.com/item?id=34985848"
+    ],
+    [
+      "Introducing ChatGPT and Whisper APIs",
+      "https://openai.com/blog/introducing-chatgpt-and-whisper-apis"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 14:07:10",
       "https://news.ycombinator.com/item?id=34982520"
     ],
@@ -287,16 +297,6 @@
     [
       "Autofz: Automated Fuzzer Composition at Runtime",
       "https://arxiv.org/abs/2302.12879"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 00:49:20",
-      "https://news.ycombinator.com/item?id=34977233"
-    ],
-    [
-      "Researchers have discovered a new type of coexistence between algae and fungi",
-      "https://phys.org/news/2023-02-coexistence-algae-fungi.html"
     ]
   ]
 ]
