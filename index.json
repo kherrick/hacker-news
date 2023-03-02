@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-03-02, 16:55:09",
+      "https://news.ycombinator.com/item?id=34998255"
+    ],
+    [
+      "Tell HN: Gitlab Premium pricing increases incoming $19 to $29",
+      "https://about.gitlab.com/pricing/"
+    ]
+  ],
+  [
+    [
       "2023-03-02, 16:32:19",
       "https://news.ycombinator.com/item?id=34997937"
     ],
@@ -141,22 +151,22 @@
   ],
   [
     [
-      "2023-03-02, 13:08:07",
-      "https://news.ycombinator.com/item?id=34995177"
-    ],
-    [
-      "How white can white paint get?",
-      "https://gizmodo.com/whitest-reflective-paint-nanotechnology-purdue-cooling-1850168584"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 11:14:33",
       "https://news.ycombinator.com/item?id=34994449"
     ],
     [
       "Starbucks illegally fired US workers over union, judge rules",
       "https://www.bbc.co.uk/news/business-64819774"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 11:12:30",
+      "https://news.ycombinator.com/item?id=34994439"
+    ],
+    [
+      "Don&#x27;t let event-driven architecture buzzwords fool you",
+      "https://event-driven.io/en/dont_let_event_driven_architecture_buzzwords_fool_you/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Parenscript",
       "https://parenscript.common-lisp.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 00:59:35",
-      "https://news.ycombinator.com/item?id=34977319"
-    ],
-    [
-      "Autofz: Automated Fuzzer Composition at Runtime",
-      "https://arxiv.org/abs/2302.12879"
     ]
   ],
   [
