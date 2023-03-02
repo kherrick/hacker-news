@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-03-02, 04:57:47",
-      "https://news.ycombinator.com/item?id=34992189"
-    ],
-    [
-      "Effortless Performance Improvements in C++: std:unordered_map",
-      "https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-unordered_map/"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 03:55:00",
       "https://news.ycombinator.com/item?id=34991802"
     ],
@@ -117,6 +107,16 @@
     [
       "ARM vs. Intel on Amazon’s Cloud: A URL Parsing Benchmark",
       "https://lemire.me/blog/2023/03/01/arm-vs-intel-on-amazons-cloud/"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 00:13:38",
+      "https://news.ycombinator.com/item?id=34990229"
+    ],
+    [
+      "HackerFM – An AI Generated HN Podcast Using the New ChatGPT API",
+      "https://hackerfm.com/index"
     ]
   ],
   [
@@ -171,22 +171,22 @@
   ],
   [
     [
+      "2023-03-01, 18:52:43",
+      "https://news.ycombinator.com/item?id=34986691"
+    ],
+    [
+      "You cannot have exactly-once delivery (2015)",
+      "https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 18:25:31",
       "https://news.ycombinator.com/item?id=34986264"
     ],
     [
       "Ask HN: How to get an accessibility tester job as a blind programmer?",
       "https://news.ycombinator.com/item?id=34986264"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 18:12:26",
-      "https://news.ycombinator.com/item?id=34986042"
-    ],
-    [
-      "GNU poke: The extensible editor for structured binary data",
-      "https://jemarch.net/poke"
     ]
   ],
   [
