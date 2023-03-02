@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-03-02, 13:08:07",
+      "https://news.ycombinator.com/item?id=34995177"
+    ],
+    [
+      "Just How White Can White Paint Get?",
+      "https://gizmodo.com/whitest-reflective-paint-nanotechnology-purdue-cooling-1850168584"
+    ]
+  ],
+  [
+    [
       "2023-03-02, 11:43:10",
       "https://news.ycombinator.com/item?id=34994614"
     ],
     [
-      "The Great Gaslighting of the JavaScript Era – The Spicy Web",
+      "The JavaScript era happened because we were fed a line",
       "https://www.spicyweb.dev/the-great-gaslighting-of-the-js-age/"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 11:13:12",
+      "https://news.ycombinator.com/item?id=34994444"
+    ],
+    [
+      "Show HN: Beatbot.fm – Make Songs with AI",
+      "https://beatbot.fm"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "Creating Isometric RPG Game Backgrounds",
       "https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 21:46:21",
-      "https://news.ycombinator.com/item?id=34988790"
-    ],
-    [
-      "Aboriginal Australian genomes reveal Indian ancestry (2013)",
-      "https://www.nature.com/articles/nature.2013.12219"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Surprisingly Scientific Roots of Monkey Bars",
       "https://www.smithsonianmag.com/history/history-monkey-bars-180981556/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 17:06:14",
-      "https://news.ycombinator.com/item?id=34971765"
-    ],
-    [
-      "Writing an OS in Rust to run on RISC-V",
-      "https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb"
     ]
   ]
 ]
