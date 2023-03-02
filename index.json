@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-02, 11:12:30",
+      "https://news.ycombinator.com/item?id=34994439"
+    ],
+    [
+      "Don&#x27;t let Event-Driven Architecture buzzwords fool you",
+      "https://event-driven.io/en/dont_let_event_driven_architecture_buzzwords_fool_you/"
+    ]
+  ],
+  [
+    [
       "2023-03-02, 09:51:16",
       "https://news.ycombinator.com/item?id=34993912"
     ],
@@ -147,16 +157,6 @@
     [
       "ChatML: ChatGPT API expects a structured format, called Chat Markup Language",
       "https://github.com/openai/openai-python/blob/main/chatml.md"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 20:27:42",
-      "https://news.ycombinator.com/item?id=34987834"
-    ],
-    [
-      "Show HN: ChatGPT-powered dystopia simulator",
-      "https://future.attejuvonen.fi/"
     ]
   ],
   [
