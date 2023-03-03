@@ -1,22 +1,52 @@
 [
   [
     [
+      "2023-03-03, 02:56:56",
+      "https://news.ycombinator.com/item?id=35005259"
+    ],
+    [
+      "Redox OS – A Unix-Like Operating System Written in Rust",
+      "https://www.redox-os.org/"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 02:50:51",
+      "https://news.ycombinator.com/item?id=35005218"
+    ],
+    [
+      "Replika users fell in love with their AI chatbot companions. Then they lost them",
+      "https://www.abc.net.au/news/science/2023-03-01/replika-users-fell-in-love-with-their-ai-chatbot-companion/102028196"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 02:19:37",
+      "https://news.ycombinator.com/item?id=35005022"
+    ],
+    [
+      "Rethinking Splice()",
+      "https://lwn.net/Articles/923237/"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 01:52:51",
+      "https://news.ycombinator.com/item?id=35004828"
+    ],
+    [
+      "Initial V: A BMW shifter converted to a Bluetooth Keyboard for use with Vim",
+      "https://github.com/tenderlove/initial-v"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 01:38:01",
       "https://news.ycombinator.com/item?id=35004705"
     ],
     [
       "Cosmic Text: Pure Rust multi-line text handling",
       "https://github.com/pop-os/cosmic-text"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 00:50:16",
-      "https://news.ycombinator.com/item?id=35004294"
-    ],
-    [
-      "EA Lays Off over 200 Apex Legends Testers over Zoom Call",
-      "https://kotaku.com/ea-apex-legends-bugs-layoffs-respawn-zoom-1850168472"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2023-03-02, 23:50:35",
-      "https://news.ycombinator.com/item?id=35003741"
-    ],
-    [
-      "GitHub Actions Down &#x2F; Degraded",
-      "https://www.githubstatus.com/incidents/qfby3shb6r3w"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 23:45:18",
       "https://news.ycombinator.com/item?id=35003701"
     ],
@@ -111,42 +131,12 @@
   ],
   [
     [
-      "2023-03-02, 22:04:10",
-      "https://news.ycombinator.com/item?id=35002720"
-    ],
-    [
-      "Rows 2.0: The easiest way to use data on a spreadsheet",
-      "https://rows.com/"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 21:01:16",
       "https://news.ycombinator.com/item?id=35002019"
     ],
     [
       "Aviator (YC S21) Is hiring senior engineers interested in dev productivity",
       "https://www.ycombinator.com/companies/aviator/jobs"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 20:40:46",
-      "https://news.ycombinator.com/item?id=35001728"
-    ],
-    [
-      "Stop the Medicare “Advantage” Scam Before Medicare Is Dead",
-      "https://hartmannreport.com/p/stop-the-medicare-advantage-scam"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 20:24:59",
-      "https://news.ycombinator.com/item?id=35001493"
-    ],
-    [
-      "Subterranean Paris: Félix Nadar’s Descent into the Parisian Underground",
-      "https://thereader.mitpress.mit.edu/subterranean-paris-felix-nadars-descent-into-the-parisian-underground/"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2023-03-02, 18:43:54",
+      "https://news.ycombinator.com/item?id=34999925"
+    ],
+    [
+      "Banning words won’t make the world more just",
+      "https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/"
+    ]
+  ],
+  [
+    [
       "2023-03-02, 18:34:45",
       "https://news.ycombinator.com/item?id=34999774"
     ],
@@ -217,6 +217,16 @@
     [
       "A Senior Engineer&#x27;s Guide to the System Design Interview",
       "https://interviewing.io/guides/system-design-interview"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 18:06:16",
+      "https://news.ycombinator.com/item?id=34999366"
+    ],
+    [
+      "Costa Rica’s enigmatic addresses (2021)",
+      "https://www.crcdaily.com/p/why-doesnt-costa-rica-use-real-addresses"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "A philosopher who believes in living things",
       "https://www.newyorker.com/culture/annals-of-inquiry/the-philosopher-who-believes-in-living-things"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 17:58:39",
-      "https://news.ycombinator.com/item?id=34985786"
-    ],
-    [
-      "Non-linear career paths are the future",
-      "https://www.forbes.com/sites/carolinecastrillon/2023/02/26/why-non-linear-career-paths-are-the-future/"
     ]
   ],
   [
