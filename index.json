@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-03, 16:16:29",
+      "https://news.ycombinator.com/item?id=35011497"
+    ],
+    [
+      "RISC-V Business: Testing StarFive&#x27;s VisionFive 2 SBC",
+      "https://www.jeffgeerling.com/blog/2023/risc-v-business-testing-starfives-visionfive-2-sbc"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 15:49:20",
       "https://news.ycombinator.com/item?id=35011145"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2023-03-03, 15:47:02",
+      "https://news.ycombinator.com/item?id=35011108"
+    ],
+    [
+      "The EU&#x27;s new Cyber Resilience Act is about to tell us how to code",
+      "https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 15:39:47",
       "https://news.ycombinator.com/item?id=35011005"
     ],
     [
       "30 Days of Python",
       "https://github.com/Asabeneh/30-Days-Of-Python"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 15:34:40",
+      "https://news.ycombinator.com/item?id=35010917"
+    ],
+    [
+      "Boeing Engineers Set a New Record for Paper Plane Distance",
+      "https://jalopnik.com/boeing-engineers-set-a-new-record-for-paper-plane-fligh-1850157043"
     ]
   ],
   [
@@ -37,26 +67,6 @@
     [
       "Belgium launches nationwide safe harbor for ethical hackers",
       "https://portswigger.net/daily-swig/belgium-launches-nationwide-safe-harbor-for-ethical-hackers"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 14:44:51",
-      "https://news.ycombinator.com/item?id=35010229"
-    ],
-    [
-      "Ethically Sourced Lena Picture",
-      "https://mortenhannemose.github.io/lena/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 14:00:21",
-      "https://news.ycombinator.com/item?id=35009723"
-    ],
-    [
-      "First Impressions of Bluesky&#x27;s Brand New iOS App",
-      "https://notes.ghed.in/posts/2023/bluesky-ios-app-review/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-03-03, 11:02:30",
-      "https://news.ycombinator.com/item?id=35008074"
-    ],
-    [
-      "Ending Dependency Chaos: A Proposal for Comprehensive Function Versioning",
-      "https://github.com/davidbullado/blog/blob/main/we-need-a-new-versioning-notation.md"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 10:46:33",
       "https://news.ycombinator.com/item?id=35007978"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-03-03, 02:19:37",
-      "https://news.ycombinator.com/item?id=35005022"
-    ],
-    [
-      "Rethinking splice()",
-      "https://lwn.net/Articles/923237/"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 01:52:51",
       "https://news.ycombinator.com/item?id=35004828"
     ],
@@ -267,6 +257,16 @@
     [
       "New F-Droid repository format for faster and smaller updates",
       "https://f-droid.org/2023/03/01/new-repo-format-faster-smaller-updates.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 22:07:25",
+      "https://news.ycombinator.com/item?id=35002755"
+    ],
+    [
+      "Primitive Technology: Iron Bacteria Cement [video]",
+      "https://www.youtube.com/watch?v=9irICRnszOc"
     ]
   ],
   [
