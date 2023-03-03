@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-03, 16:34:43",
+      "https://news.ycombinator.com/item?id=35011761"
+    ],
+    [
+      "AAA Reports That 68 Percent of Americans Are Now Afraid of Autonomous Cars",
+      "https://www.theautopian.com/aaa-autonomous-car-report-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 16:33:34",
+      "https://news.ycombinator.com/item?id=35011747"
+    ],
+    [
+      "Chroma Doze – Open-Source Customizable White Noise Generator for Android",
+      "https://f-droid.org/packages/net.pmarks.chromadoze/"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 16:24:01",
+      "https://news.ycombinator.com/item?id=35011618"
+    ],
+    [
+      "Nordstrom to close all 13 stores in Canada, lay off 2,500 workers by June",
+      "https://www.wsj.com/articles/nordstrom-to-close-liquidate-its-canadian-stores-2c1aa7fb"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 16:18:10",
       "https://news.ycombinator.com/item?id=35011525"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-03-03, 10:31:11",
-      "https://news.ycombinator.com/item?id=35007883"
-    ],
-    [
-      "Chartbrew – create live reporting dashboards from APIs, MongoDB, Firestore, etc.",
-      "https://github.com/chartbrew/chartbrew"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 10:28:28",
       "https://news.ycombinator.com/item?id=35007871"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2023-03-03, 01:38:01",
-      "https://news.ycombinator.com/item?id=35004705"
-    ],
-    [
-      "Cosmic Text: Pure Rust multi-line text handling",
-      "https://github.com/pop-os/cosmic-text"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 23:43:18",
       "https://news.ycombinator.com/item?id=35003679"
     ],
     [
       "Mapping hidden corridors and chambers in the Great Pyramid of Giza",
       "https://arstechnica.com/science/2023/03/scientists-have-mapped-a-secret-hidden-corridor-in-great-pyramid-of-giza/"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 22:28:31",
-      "https://news.ycombinator.com/item?id=35002983"
-    ],
-    [
-      "New F-Droid repository format for faster and smaller updates",
-      "https://f-droid.org/2023/03/01/new-repo-format-faster-smaller-updates.html"
     ]
   ],
   [
