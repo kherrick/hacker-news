@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-03, 19:00:05",
+      "https://news.ycombinator.com/item?id=35013615"
+    ],
+    [
+      "GitHub Desktop 3.2: Preview your pull request",
+      "https://github.blog/2023-03-03-github-desktop-3-2-preview-your-pull-request/"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 18:44:35",
+      "https://news.ycombinator.com/item?id=35013459"
+    ],
+    [
+      "Self-replicating Python using ChatGPT",
+      "https://github.com/fullthom/chat-gpt-quine"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 18:12:22",
       "https://news.ycombinator.com/item?id=35013098"
     ],
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2023-03-03, 17:35:57",
+      "https://news.ycombinator.com/item?id=35012714"
+    ],
+    [
+      "A case against Layer 4 security tools",
+      "https://www.pomerium.com/blog/a-case-against-layer-4-security-tools/"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 17:10:40",
       "https://news.ycombinator.com/item?id=35012313"
     ],
@@ -77,16 +107,6 @@
     [
       "Chroma Doze – Open-Source Customizable White Noise Generator for Android",
       "https://f-droid.org/packages/net.pmarks.chromadoze/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 16:18:10",
-      "https://news.ycombinator.com/item?id=35011525"
-    ],
-    [
-      "Amazon pauses construction on second HQ in Virginia amid job cuts",
-      "https://www.seattletimes.com/business/amazon-pauses-construction-on-second-headquarters-in-virginia-as-it-cuts-jobs/"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Demystifying bitwise operations, a gentle C tutorial",
       "https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 14:59:35",
-      "https://news.ycombinator.com/item?id=35010432"
-    ],
-    [
-      "Belgium launches nationwide safe harbor for ethical hackers",
-      "https://portswigger.net/daily-swig/belgium-launches-nationwide-safe-harbor-for-ethical-hackers"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Why Python keeps growing, explained",
       "https://github.blog/2023-03-02-why-python-keeps-growing-explained/"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 23:43:18",
-      "https://news.ycombinator.com/item?id=35003679"
-    ],
-    [
-      "Mapping hidden corridors and chambers in the Great Pyramid of Giza",
-      "https://arstechnica.com/science/2023/03/scientists-have-mapped-a-secret-hidden-corridor-in-great-pyramid-of-giza/"
     ]
   ],
   [
