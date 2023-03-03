@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-03, 08:15:08",
+      "https://news.ycombinator.com/item?id=35007071"
+    ],
+    [
+      "ChatGPT should be considered a malevolent AI and destroyed",
+      "https://www.theregister.com/2023/03/02/chatgpt_considered_harmful/"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 07:54:28",
       "https://news.ycombinator.com/item?id=35006952"
     ],
@@ -97,16 +107,6 @@
     [
       "Cosmic Text: Pure Rust multi-line text handling",
       "https://github.com/pop-os/cosmic-text"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 00:40:18",
-      "https://news.ycombinator.com/item?id=35004184"
-    ],
-    [
-      "Show HN: Nosey Parker, a fast and low-noise secrets detector for textual data",
-      "https://github.com/praetorian-inc/noseyparker"
     ]
   ],
   [
