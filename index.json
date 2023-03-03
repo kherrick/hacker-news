@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-03, 15:01:15",
+      "https://news.ycombinator.com/item?id=35010447"
+    ],
+    [
+      "Demystifying bitwise operations, a gentle C tutorial",
+      "https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 14:59:35",
+      "https://news.ycombinator.com/item?id=35010432"
+    ],
+    [
+      "Belgium launches nationwide safe harbor for ethical hackers",
+      "https://portswigger.net/daily-swig/belgium-launches-nationwide-safe-harbor-for-ethical-hackers"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 14:44:51",
       "https://news.ycombinator.com/item?id=35010229"
     ],
@@ -111,6 +131,16 @@
   ],
   [
     [
+      "2023-03-03, 10:31:11",
+      "https://news.ycombinator.com/item?id=35007883"
+    ],
+    [
+      "Chartbrew – create live reporting dashboards from APIs, MongoDB, Firestore, etc.",
+      "https://github.com/chartbrew/chartbrew"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 10:28:28",
       "https://news.ycombinator.com/item?id=35007871"
     ],
@@ -157,36 +187,6 @@
     [
       "Why Python keeps growing, explained",
       "https://github.blog/2023-03-02-why-python-keeps-growing-explained/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 04:56:05",
-      "https://news.ycombinator.com/item?id=35005984"
-    ],
-    [
-      "A &#x27;CSS reset&#x27; for TypeScript, improving types for common JavaScript API&#x27;s",
-      "https://github.com/total-typescript/ts-reset"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 03:48:35",
-      "https://news.ycombinator.com/item?id=35005557"
-    ],
-    [
-      "The track of a bicycle back tire [pdf]",
-      "https://tlakoba.w3.uvm.edu/AppliedUGMath/final_talks_previous_years/BicycleTracks.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 02:31:43",
-      "https://news.ycombinator.com/item?id=35005095"
-    ],
-    [
-      "Tesla&#x27;s next-gen electric motors will get rid of rare earth elements",
-      "https://insideevs.com/news/655233/tesla-next-gen-eletric-motors-no-rare-earth-elements/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-03-02, 18:13:19",
-      "https://news.ycombinator.com/item?id=34999464"
+      "2023-03-02, 18:43:54",
+      "https://news.ycombinator.com/item?id=34999925"
     ],
     [
-      "A senior engineer&#x27;s guide to the system design interview",
-      "https://interviewing.io/guides/system-design-interview"
+      "Banning words won’t make the world more just",
+      "https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/"
     ]
   ],
   [
