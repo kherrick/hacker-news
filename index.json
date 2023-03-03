@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-03-03, 08:15:08",
-      "https://news.ycombinator.com/item?id=35007071"
-    ],
-    [
-      "ChatGPT should be considered a malevolent AI and destroyed",
-      "https://www.theregister.com/2023/03/02/chatgpt_considered_harmful/"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 07:54:28",
       "https://news.ycombinator.com/item?id=35006952"
     ],
     [
       "Use GNU Emacs",
       "https://www2.lib.uchicago.edu/keith/emacs/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 07:21:14",
-      "https://news.ycombinator.com/item?id=35006777"
-    ],
-    [
-      "Why Python keeps growing, explained",
-      "https://github.blog/2023-03-02-why-python-keeps-growing-explained/"
     ]
   ],
   [
@@ -81,6 +61,16 @@
   ],
   [
     [
+      "2023-03-03, 02:50:51",
+      "https://news.ycombinator.com/item?id=35005218"
+    ],
+    [
+      "Replika users fell in love with their AI chatbot companions. Then they lost them",
+      "https://www.abc.net.au/news/science/2023-03-01/replika-users-fell-in-love-with-their-ai-chatbot-companion/102028196"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 02:19:37",
       "https://news.ycombinator.com/item?id=35005022"
     ],
@@ -107,6 +97,16 @@
     [
       "Cosmic Text: Pure Rust multi-line text handling",
       "https://github.com/pop-os/cosmic-text"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 00:40:18",
+      "https://news.ycombinator.com/item?id=35004184"
+    ],
+    [
+      "Show HN: Nosey Parker, a fast and low-noise secrets detector for textual data",
+      "https://github.com/praetorian-inc/noseyparker"
     ]
   ],
   [
@@ -157,6 +157,16 @@
     [
       "New F-Droid repository format for faster and smaller updates",
       "https://f-droid.org/2023/03/01/new-repo-format-faster-smaller-updates.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 22:24:10",
+      "https://news.ycombinator.com/item?id=35002942"
+    ],
+    [
+      "A replicable decline in mood during rest and simple tasks",
+      "https://www.nature.com/articles/s41562-023-01519-7"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2023-03-02, 17:44:07",
-      "https://news.ycombinator.com/item?id=34999039"
-    ],
-    [
-      "Running Databases on Kubernetes",
-      "https://questdb.io/blog/databases-on-k8s/"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 17:35:45",
-      "https://news.ycombinator.com/item?id=34998921"
-    ],
-    [
-      "Developer marketing for early-stage startups – what we’ve learned",
-      "https://posthog.com/blog/dev-marketing-for-startups"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 02:44:10",
       "https://news.ycombinator.com/item?id=34991276"
     ],
     [
       "Deconstructing Datalog [pdf]",
       "http://www.rntz.net/files/thesis.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 20:32:47",
+      "https://news.ycombinator.com/item?id=34987891"
+    ],
+    [
+      "A philosopher who believes in living things",
+      "https://www.newyorker.com/culture/annals-of-inquiry/the-philosopher-who-believes-in-living-things"
     ]
   ]
 ]
