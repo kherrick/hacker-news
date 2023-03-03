@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-03, 19:47:19",
+      "https://news.ycombinator.com/item?id=35014146"
+    ],
+    [
+      "OpenAI Becomes ClosedAI",
+      "https://closedai.us/blog/openai-becomes-closedai"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 19:47:16",
+      "https://news.ycombinator.com/item?id=35014143"
+    ],
+    [
+      "Detecting Starlink Satellites with a Portable Raspberry Pi and RTL-SDR",
+      "https://www.rtl-sdr.com/detecting-starlink-satellites-with-a-portable-raspberry-pi-rtl-sdr/"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 19:29:43",
       "https://news.ycombinator.com/item?id=35013939"
     ],
@@ -77,16 +97,6 @@
     [
       "High-res image reconstruction with latent diffusion models from human brain",
       "https://github.com/yu-takagi/StableDiffusionReconstruction"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 17:54:00",
-      "https://news.ycombinator.com/item?id=35012879"
-    ],
-    [
-      "Playground IT – the reason majority of IT systems out there are so shitty",
-      "https://bitslap.it/blog/posts/playground-it.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Book Jackets by Fred Marcellino (all 616)",
       "https://fredmarcellino.com/book-jackets/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 11:12:05",
-      "https://news.ycombinator.com/item?id=34981059"
-    ],
-    [
-      "Fuzix OS: Unix for the Z80 and 680x",
-      "https://www.fuzix.org/"
     ]
   ]
 ]
