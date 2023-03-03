@@ -1,6 +1,86 @@
 [
   [
     [
+      "2023-03-03, 01:38:01",
+      "https://news.ycombinator.com/item?id=35004705"
+    ],
+    [
+      "Cosmic Text: Pure Rust multi-line text handling",
+      "https://github.com/pop-os/cosmic-text"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 00:50:16",
+      "https://news.ycombinator.com/item?id=35004294"
+    ],
+    [
+      "EA Lays Off over 200 Apex Legends Testers over Zoom Call",
+      "https://kotaku.com/ea-apex-legends-bugs-layoffs-respawn-zoom-1850168472"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 00:40:18",
+      "https://news.ycombinator.com/item?id=35004184"
+    ],
+    [
+      "Show HN: Nosey Parker, a fast and low-noise secrets detector for textual data",
+      "https://github.com/praetorian-inc/noseyparker"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 00:26:45",
+      "https://news.ycombinator.com/item?id=35004073"
+    ],
+    [
+      "Ford Hires 550 Former Argo.ai Engineers, Creates Latitude.ai",
+      "https://media.ford.com/content/fordmedia/fna/us/en/news/2023/03/02/ford-establishes-latitude-ai-to-develop-future-automated-driving.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 00:25:49",
+      "https://news.ycombinator.com/item?id=35004064"
+    ],
+    [
+      "The Super Tiny Compiler",
+      "https://github.com/jamiebuilds/the-super-tiny-compiler"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 00:11:29",
+      "https://news.ycombinator.com/item?id=35003940"
+    ],
+    [
+      "Opted out, yet tracked. Are regulations enough to protect your privacy?",
+      "https://arxiv.org/abs/2202.00885"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 23:50:35",
+      "https://news.ycombinator.com/item?id=35003741"
+    ],
+    [
+      "GitHub Actions Down &#x2F; Degraded",
+      "https://www.githubstatus.com/incidents/qfby3shb6r3w"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 23:45:18",
+      "https://news.ycombinator.com/item?id=35003701"
+    ],
+    [
+      "Denver’s e-bike subsidy program produced more new riders, fewer car trips",
+      "https://www.ridereport.com/blog/ebike-inventive-programs"
+    ]
+  ],
+  [
+    [
       "2023-03-02, 22:28:31",
       "https://news.ycombinator.com/item?id=35002983"
     ],
@@ -15,8 +95,18 @@
       "https://news.ycombinator.com/item?id=35002942"
     ],
     [
-      "A highly replicable decline in mood during rest and simple tasks",
+      "A replicable decline in mood during rest and simple tasks",
       "https://www.nature.com/articles/s41562-023-01519-7"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 22:10:10",
+      "https://news.ycombinator.com/item?id=35002784"
+    ],
+    [
+      "A guide to Plan S: the open-access initiative shaking up science publishing",
+      "https://www.nature.com/articles/d41586-021-00883-6"
     ]
   ],
   [
@@ -31,32 +121,12 @@
   ],
   [
     [
-      "2023-03-02, 21:18:43",
-      "https://news.ycombinator.com/item?id=35002222"
-    ],
-    [
-      "Scaling to millions of users with Google Sheets as a back end",
-      "https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 21:01:16",
       "https://news.ycombinator.com/item?id=35002019"
     ],
     [
       "Aviator (YC S21) Is hiring senior engineers interested in dev productivity",
       "https://www.ycombinator.com/companies/aviator/jobs"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 20:48:06",
-      "https://news.ycombinator.com/item?id=35001823"
-    ],
-    [
-      "A: A CLI tool to generate code snippets from GPT3 written in Rust",
-      "https://github.com/ddddddeon/a"
     ]
   ],
   [
@@ -121,16 +191,6 @@
   ],
   [
     [
-      "2023-03-02, 19:08:08",
-      "https://news.ycombinator.com/item?id=35000263"
-    ],
-    [
-      "BetterHelp Barred by FTC from Sharing Data with Facebook",
-      "https://www.bloomberg.com/news/articles/2023-03-02/teladoc-s-tdoc-betterhelp-online-therapy-unit-barred-from-data-sharing"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 19:03:29",
       "https://news.ycombinator.com/item?id=35000195"
     ],
@@ -181,56 +241,6 @@
   ],
   [
     [
-      "2023-03-02, 15:20:35",
-      "https://news.ycombinator.com/item?id=34996729"
-    ],
-    [
-      "All you may need is HTML",
-      "https://fabiensanglard.net/html/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 15:20:25",
-      "https://news.ycombinator.com/item?id=34996727"
-    ],
-    [
-      "You don&#x27;t need a build step",
-      "https://deno.com/blog/you-dont-need-a-build-step"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 15:08:10",
-      "https://news.ycombinator.com/item?id=34996552"
-    ],
-    [
-      "Germany opposes EU plans for client-side scanning",
-      "https://tutanota.com/blog/posts/germany-against-client-side-scanning-csam"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 13:27:24",
-      "https://news.ycombinator.com/item?id=34995370"
-    ],
-    [
-      "What is the minimal possible UK address?",
-      "https://microblog.vladh.net/posts/most-minimal-uk-address/"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 11:14:33",
-      "https://news.ycombinator.com/item?id=34994449"
-    ],
-    [
-      "Starbucks illegally fired US workers over union, judge rules",
-      "https://www.bbc.co.uk/news/business-64819774"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 03:34:55",
       "https://news.ycombinator.com/item?id=34991639"
     ],
@@ -241,22 +251,32 @@
   ],
   [
     [
+      "2023-03-01, 23:36:54",
+      "https://news.ycombinator.com/item?id=34989920"
+    ],
+    [
+      "AI: Practical Advice for the Worried",
+      "https://thezvi.wordpress.com/2023/03/01/ai-practical-advice-for-the-worried/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 20:32:47",
       "https://news.ycombinator.com/item?id=34987891"
     ],
     [
-      "The Philosopher Who Believes in Living Things",
+      "A philosopher who believes in living things",
       "https://www.newyorker.com/culture/annals-of-inquiry/the-philosopher-who-believes-in-living-things"
     ]
   ],
   [
     [
-      "2023-03-01, 14:07:10",
-      "https://news.ycombinator.com/item?id=34982520"
+      "2023-03-01, 17:58:39",
+      "https://news.ycombinator.com/item?id=34985786"
     ],
     [
-      "Swarm M138 Modem",
-      "https://swarm.space/product/swarm-m138-modem/"
+      "Non-linear career paths are the future",
+      "https://www.forbes.com/sites/carolinecastrillon/2023/02/26/why-non-linear-career-paths-are-the-future/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Simple Smalltalk Testing: With Patterns",
       "https://web.archive.org/web/20150315073817/http://www.xprogramming.com/testfram.htm"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 08:01:30",
-      "https://news.ycombinator.com/item?id=34979871"
-    ],
-    [
-      "Parenscript",
-      "https://parenscript.common-lisp.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 22:18:18",
-      "https://news.ycombinator.com/item?id=34975714"
-    ],
-    [
-      "What time is it on moon? Europe pushing for lunar time zone",
-      "https://apnews.com/article/moon-time-zone-space-2b0124415c14755e08a58e1b5ed5362a"
     ]
   ]
 ]
