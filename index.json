@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35006213"
     ],
     [
-      "Never Use Git Submodules",
+      "Never use Git submodules",
       "https://diziet.dreamwidth.org/14666.html"
     ]
   ],
@@ -47,16 +47,6 @@
     [
       "It&#x27;s official: BlackLotus malware can bypass secure boot",
       "https://www.theregister.com/2023/03/01/blacklotus_malware_eset/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 04:56:05",
-      "https://news.ycombinator.com/item?id=35005984"
-    ],
-    [
-      "A &#x27;CSS reset&#x27; for TypeScript, improving types for common JavaScript API&#x27;s",
-      "https://github.com/total-typescript/ts-reset"
     ]
   ],
   [
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35005022"
     ],
     [
-      "Rethinking Splice()",
+      "Rethinking splice()",
       "https://lwn.net/Articles/923237/"
     ]
   ],
@@ -177,6 +167,16 @@
     [
       "New F-Droid repository format for faster and smaller updates",
       "https://f-droid.org/2023/03/01/new-repo-format-faster-smaller-updates.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 22:24:10",
+      "https://news.ycombinator.com/item?id=35002942"
+    ],
+    [
+      "A replicable decline in mood during rest and simple tasks",
+      "https://www.nature.com/articles/s41562-023-01519-7"
     ]
   ],
   [
