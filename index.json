@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-03-03, 18:12:22",
+      "https://news.ycombinator.com/item?id=35013098"
+    ],
+    [
+      "Live2D Is a Security Trainwreck",
+      "https://undeleted.ronsor.com/live2d-a-security-trainwreck/"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 18:11:09",
+      "https://news.ycombinator.com/item?id=35013084"
+    ],
+    [
+      "Switching to Fedora Silverblue",
+      "https://yorickpeterse.com/articles/switching-to-fedora-silverblue/"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 18:06:27",
       "https://news.ycombinator.com/item?id=35013030"
     ],
     [
       "Leaked audio reveals US rail workers were told to skip inspections",
       "https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-ohio-train-crash"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 18:02:26",
+      "https://news.ycombinator.com/item?id=35012981"
+    ],
+    [
+      "High-res image reconstruction with latent diffusion models from human brain",
+      "https://github.com/yu-takagi/StableDiffusionReconstruction"
     ]
   ],
   [
@@ -31,6 +61,16 @@
   ],
   [
     [
+      "2023-03-03, 17:35:57",
+      "https://news.ycombinator.com/item?id=35012714"
+    ],
+    [
+      "A case against Layer 4 security tools",
+      "https://www.pomerium.com/blog/a-case-against-layer-4-security-tools/"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 17:10:40",
       "https://news.ycombinator.com/item?id=35012313"
     ],
@@ -47,16 +87,6 @@
     [
       "Chroma Doze – Open-Source Customizable White Noise Generator for Android",
       "https://f-droid.org/packages/net.pmarks.chromadoze/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 16:24:01",
-      "https://news.ycombinator.com/item?id=35011618"
-    ],
-    [
-      "Nordstrom to close all 13 stores in Canada, lay off 2,500 workers by June",
-      "https://www.wsj.com/articles/nordstrom-to-close-liquidate-its-canadian-stores-2c1aa7fb"
     ]
   ],
   [
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2023-03-03, 10:28:28",
-      "https://news.ycombinator.com/item?id=35007871"
-    ],
-    [
-      "Accessing the RAM of a QEMU Emulated System from Another Process",
-      "https://blog.reds.ch/?p=1379"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 07:21:14",
       "https://news.ycombinator.com/item?id=35006777"
     ],
     [
       "Why Python keeps growing, explained",
       "https://github.blog/2023-03-02-why-python-keeps-growing-explained/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 03:48:35",
-      "https://news.ycombinator.com/item?id=35005557"
-    ],
-    [
-      "The track of a bicycle back tire [pdf]",
-      "https://tlakoba.w3.uvm.edu/AppliedUGMath/final_talks_previous_years/BicycleTracks.pdf"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Anxiety can be created by the body, mouse heart study suggests",
       "https://www.nature.com/articles/d41586-023-00584-2"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 12:26:23",
-      "https://news.ycombinator.com/item?id=34981594"
-    ],
-    [
-      "Focus on things that don&#x27;t change",
-      "https://www.dsebastien.net/focus-on-things-that-dont-change/"
     ]
   ],
   [
