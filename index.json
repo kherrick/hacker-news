@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-03-03, 12:43:07",
-      "https://news.ycombinator.com/item?id=35008804"
+      "2023-03-03, 13:01:02",
+      "https://news.ycombinator.com/item?id=35008983"
     ],
     [
-      "Tesla&#x27;s self-driving efforts rank last in study of self-driving companies",
-      "https://www.businessinsider.com/tesla-sef-driving-not-in-top-ranked-autonomy-guidehouse-research-2023-3"
+      "The extensible vi layer for Emacs",
+      "https://github.com/emacs-evil/evil"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 12:46:06",
+      "https://news.ycombinator.com/item?id=35008841"
+    ],
+    [
+      "Scientists have mapped a secret hidden corridor in Great Pyramid of Giza",
+      "https://arstechnica.com/science/2023/03/scientists-have-mapped-a-secret-hidden-corridor-in-great-pyramid-of-giza/"
     ]
   ],
   [
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2023-03-03, 07:37:56",
+      "https://news.ycombinator.com/item?id=35006869"
+    ],
+    [
+      "Iran discovers world’s second largest lithium reserve",
+      "https://thecradle.co/article-view/22122"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 07:21:14",
       "https://news.ycombinator.com/item?id=35006777"
     ],
@@ -105,18 +125,8 @@
       "https://news.ycombinator.com/item?id=35006213"
     ],
     [
-      "Never use Git submodules",
+      "Better alternatives to git submodules",
       "https://diziet.dreamwidth.org/14666.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 05:01:28",
-      "https://news.ycombinator.com/item?id=35006016"
-    ],
-    [
-      "It&#x27;s official: BlackLotus malware can bypass secure boot",
-      "https://www.theregister.com/2023/03/01/blacklotus_malware_eset/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "The track of a bicycle back tire [pdf]",
       "https://tlakoba.w3.uvm.edu/AppliedUGMath/final_talks_previous_years/BicycleTracks.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 03:19:04",
-      "https://news.ycombinator.com/item?id=35005384"
-    ],
-    [
-      "Tiny Classifier Circuits: Evolving Accelerators for Tabular Data",
-      "https://arxiv.org/abs/2303.00031"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "Ford Hires 550 Former Argo.ai Engineers, Creates Latitude.ai",
       "https://media.ford.com/content/fordmedia/fna/us/en/news/2023/03/02/ford-establishes-latitude-ai-to-develop-future-automated-driving.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 00:11:29",
-      "https://news.ycombinator.com/item?id=35003940"
-    ],
-    [
-      "Opted out, yet tracked: Are regulations enough to protect privacy?",
-      "https://arxiv.org/abs/2202.00885"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Non-linear career paths are the future",
       "https://www.forbes.com/sites/carolinecastrillon/2023/02/26/why-non-linear-career-paths-are-the-future/"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 12:26:23",
+      "https://news.ycombinator.com/item?id=34981594"
+    ],
+    [
+      "Focus on things that don&#x27;t change",
+      "https://www.dsebastien.net/focus-on-things-that-dont-change/"
     ]
   ]
 ]
