@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-03, 07:21:14",
+      "https://news.ycombinator.com/item?id=35006777"
+    ],
+    [
+      "Why Python keeps growing, explained",
+      "https://github.blog/2023-03-02-why-python-keeps-growing-explained/"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 05:01:28",
       "https://news.ycombinator.com/item?id=35006016"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=35004828"
     ],
     [
-      "Initial V: A BMW shifter converted to a Bluetooth Keyboard for use with Vim",
+      "Initial V: A BMW shifter converted to a Bluetooth keyboard for use with Vim",
       "https://github.com/tenderlove/initial-v"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=35003940"
     ],
     [
-      "Opted out, yet tracked. Are regulations enough to protect your privacy?",
+      "Opted out, yet tracked: Are regulations enough to protect privacy?",
       "https://arxiv.org/abs/2202.00885"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Deconstructing Datalog [pdf]",
       "http://www.rntz.net/files/thesis.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 20:32:47",
-      "https://news.ycombinator.com/item?id=34987891"
-    ],
-    [
-      "A philosopher who believes in living things",
-      "https://www.newyorker.com/culture/annals-of-inquiry/the-philosopher-who-believes-in-living-things"
     ]
   ]
 ]
