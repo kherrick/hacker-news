@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-03-04, 19:44:48",
+      "https://news.ycombinator.com/item?id=35023833"
+    ],
+    [
+      "Boehm-Demers-Weiser Garbage Collector",
+      "https://github.com/ivmai/bdwgc"
+    ]
+  ],
+  [
+    [
       "2023-03-04, 19:00:19",
       "https://news.ycombinator.com/item?id=35023440"
     ],
@@ -87,16 +97,6 @@
     [
       "Be Careful Using Tmux and Environment Variables",
       "https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 14:23:11",
-      "https://news.ycombinator.com/item?id=35020920"
-    ],
-    [
-      "Prompt to bypass the restrictions of Bing Chat or to restore the old “Sydney”",
-      "https://www.make-safe-ai.com/is-bing-chat-safe/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-03-04, 00:50:20",
-      "https://news.ycombinator.com/item?id=35016988"
-    ],
-    [
-      "Could we make the web more immersive using a simple optical illusion?",
-      "https://shopify.github.io/spatial-commerce-projects/WonkaVision/"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 22:22:38",
       "https://news.ycombinator.com/item?id=35015849"
     ],
@@ -227,6 +217,16 @@
     [
       "The overfitted brain: Dreams evolved to assist generalization",
       "https://www.sciencedirect.com/science/article/pii/S2666389921000647"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 13:40:06",
+      "https://news.ycombinator.com/item?id=35009447"
+    ],
+    [
+      "Repair Workshop",
+      "https://futo.org/workshops/"
     ]
   ],
   [
