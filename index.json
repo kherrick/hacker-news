@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-03-04, 14:31:21",
-      "https://news.ycombinator.com/item?id=35020964"
-    ],
-    [
-      "Jack Dorsey has set a 10 btc bounty for Nostr based alternative to GitHub",
-      "https://snort.social/e/note17gfm0k0ssw4qctpge32dp3nulu975mjpdl9nqmrs78msp622d90qvdral4"
-    ]
-  ],
-  [
-    [
       "2023-03-04, 14:23:11",
       "https://news.ycombinator.com/item?id=35020920"
     ],
     [
       "Prompt to bypass the restrictions of Bing Chat or to restore the old “Sydney”",
       "https://www.make-safe-ai.com/is-bing-chat-safe/"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 14:15:19",
-      "https://news.ycombinator.com/item?id=35020881"
-    ],
-    [
-      "ChatGPT fails India civil service exam",
-      "https://www.news18.com/buzz/popular-ai-chatbot-chatgpt-fails-upsc-prelims-exam-by-30-7208599.html"
     ]
   ],
   [
@@ -47,6 +27,16 @@
     [
       "Secret Service, ICE break the law over and over with fake cell tower spying",
       "https://www.theregister.com/2023/03/04/dhs_secret_service_ice_stingray/"
+    ]
+  ],
+  [
+    [
+      "2023-03-04, 13:57:05",
+      "https://news.ycombinator.com/item?id=35020781"
+    ],
+    [
+      "Finding Java Thread Leaks with JDK Flight Recorder and a Bit of SQL",
+      "https://www.morling.dev/blog/finding-java-thread-leaks-with-jdk-flight-recorder-and-bit-of-sql/"
     ]
   ],
   [
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2023-03-04, 11:01:30",
+      "https://news.ycombinator.com/item?id=35019993"
+    ],
+    [
+      "Ask HN: How did you rebuild yourself after having hit rock bottom?",
+      "https://news.ycombinator.com/item?id=35019993"
+    ]
+  ],
+  [
+    [
       "2023-03-04, 07:00:14",
       "https://news.ycombinator.com/item?id=35018849"
     ],
@@ -171,22 +171,22 @@
   ],
   [
     [
-      "2023-03-03, 23:51:51",
-      "https://news.ycombinator.com/item?id=35016579"
-    ],
-    [
-      "20M digits of pi in 1 minute using Julia",
-      "https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 20:36:47",
       "https://news.ycombinator.com/item?id=35014677"
     ],
     [
       "ARM64 Linux Workstation",
       "https://jasoneckert.github.io/myblog/ultimate-linux-arm64-workstation/"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 13:43:26",
+      "https://news.ycombinator.com/item?id=35009509"
+    ],
+    [
+      "The overfitted brain: Dreams evolved to assist generalization",
+      "https://www.sciencedirect.com/science/article/pii/S2666389921000647"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2023-03-02, 21:10:22",
-      "https://news.ycombinator.com/item?id=35002122"
-    ],
-    [
-      "Neural Chip Plays Doom Using a Thousandth of a Watt",
-      "https://www.tomshardware.com/news/chip-plays-doom-using-1-mw"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 16:13:31",
       "https://news.ycombinator.com/item?id=34997589"
     ],
@@ -297,6 +287,16 @@
     [
       "A deep-learning search for technosignatures from 820 nearby stars",
       "https://www.nature.com/articles/s41550-022-01872-z"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 14:46:09",
+      "https://news.ycombinator.com/item?id=34996268"
+    ],
+    [
+      "How peptide injections became the answer to everything",
+      "https://www.wsj.com/articles/peptide-injections-home-shot-2040a709"
     ]
   ]
 ]
