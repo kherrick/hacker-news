@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2023-03-04, 05:36:54",
-      "https://news.ycombinator.com/item?id=35018496"
+      "2023-03-04, 05:17:09",
+      "https://news.ycombinator.com/item?id=35018410"
     ],
     [
-      "Shradiko – a tool for making portable AppImages from distro packages",
-      "https://github.com/universe-software/shradiko"
+      "SecureDrop is evolving: We want to hear from you",
+      "https://securedrop.org/news/securedrop-is-evolving-we-want-to-hear-from-you/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "The Paratethys Sea Was the Largest Lake in Earth’s History",
       "https://www.atlasobscura.com/articles/strange-maps-paratethys-sea"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 01:12:57",
-      "https://news.ycombinator.com/item?id=35017120"
-    ],
-    [
-      "Roald Dahl ebooks remotely updated to censored versions after purchase",
-      "https://www.thetimes.co.uk/article/roald-dahl-collection-books-changes-text-puffin-uk-2023-rm2622vl0"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Understanding British Money: What&#x27;s a Quid? A Shilling?",
       "https://www.iheartbritain.com/understanding-british-money-whats-a-quid-a-shilling/"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 23:01:08",
+      "https://news.ycombinator.com/item?id=35003306"
+    ],
+    [
+      "Writing a simple Lisp interpreter in Rust",
+      "https://david-delassus.medium.com/writing-a-simple-lisp-interpreter-in-rust-91dd32ea4d8f"
     ]
   ],
   [
