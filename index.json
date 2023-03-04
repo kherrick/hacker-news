@@ -121,12 +121,32 @@
   ],
   [
     [
+      "2023-03-03, 21:01:35",
+      "https://news.ycombinator.com/item?id=35014934"
+    ],
+    [
+      "Oldest Human Genome from Southern Spain",
+      "https://www.forensicmag.com/594943-Oldest-Human-Genome-from-Southern-Spain/"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 20:36:47",
       "https://news.ycombinator.com/item?id=35014677"
     ],
     [
       "ARM64 Linux Workstation",
       "https://jasoneckert.github.io/myblog/ultimate-linux-arm64-workstation/"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 19:47:16",
+      "https://news.ycombinator.com/item?id=35014143"
+    ],
+    [
+      "Detecting Starlink Satellites with a Portable Raspberry Pi and RTL-SDR (2022)",
+      "https://www.rtl-sdr.com/detecting-starlink-satellites-with-a-portable-raspberry-pi-rtl-sdr/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2023-03-03, 17:10:40",
-      "https://news.ycombinator.com/item?id=35012313"
+      "2023-03-03, 17:52:51",
+      "https://news.ycombinator.com/item?id=35012862"
     ],
     [
-      "The SCO lawsuit, 20 years later",
-      "https://lwn.net/SubscriberLink/924577/75ae0a1538029fcc/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 15:39:47",
-      "https://news.ycombinator.com/item?id=35011005"
-    ],
-    [
-      "30 Days of Python",
-      "https://github.com/Asabeneh/30-Days-Of-Python"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 15:01:15",
-      "https://news.ycombinator.com/item?id=35010447"
-    ],
-    [
-      "Demystifying bitwise operations, a gentle C tutorial",
-      "https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops"
+      "JEP 430: String Templates (Preview) Proposed to Target Java 21",
+      "https://openjdk.org/jeps/430"
     ]
   ],
   [
@@ -197,6 +197,16 @@
     [
       "Bathysphere: Historical Photos of the World’s First Deep-Sea Exploration Vessel",
       "https://rarehistoricalphotos.com/bathysphere-old-photos/"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 06:03:39",
+      "https://news.ycombinator.com/item?id=35006341"
+    ],
+    [
+      "The Tunguska Mystery–100 Years Later",
+      "https://www.scientificamerican.com/article/the-tunguska-mystery-100-years-later/"
     ]
   ],
   [
@@ -251,22 +261,22 @@
   ],
   [
     [
-      "2023-03-02, 22:07:25",
-      "https://news.ycombinator.com/item?id=35002755"
-    ],
-    [
-      "Primitive Technology: Iron Bacteria Cement [video]",
-      "https://www.youtube.com/watch?v=9irICRnszOc"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 21:10:22",
       "https://news.ycombinator.com/item?id=35002122"
     ],
     [
       "Neural Chip Plays Doom Using a Thousandth of a Watt",
       "https://www.tomshardware.com/news/chip-plays-doom-using-1-mw"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 19:12:32",
+      "https://news.ycombinator.com/item?id=35000338"
+    ],
+    [
+      "What We Talk About When We Talk About Mathematics (2022) [pdf]",
+      "http://philsci-archive.pitt.edu/20979/7/talk_archive.pdf"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A deep-learning search for technosignatures from 820 nearby stars",
       "https://www.nature.com/articles/s41550-022-01872-z"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 14:46:09",
-      "https://news.ycombinator.com/item?id=34996268"
-    ],
-    [
-      "How peptide injections became the answer to everything",
-      "https://www.wsj.com/articles/peptide-injections-home-shot-2040a709"
     ]
   ]
 ]
