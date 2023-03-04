@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-03-04, 15:39:38",
-      "https://news.ycombinator.com/item?id=35021568"
-    ],
-    [
-      "America chips away at the 40-hour workweek",
-      "https://www.axios.com/2023/03/04/part-time-work-40-hours-employment-caregiving"
-    ]
-  ],
-  [
-    [
       "2023-03-04, 15:28:31",
       "https://news.ycombinator.com/item?id=35021475"
     ],
@@ -277,6 +267,16 @@
     [
       "Understanding British Money: What&#x27;s a Quid? A Shilling? (2020)",
       "https://www.iheartbritain.com/understanding-british-money-whats-a-quid-a-shilling/"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 23:01:08",
+      "https://news.ycombinator.com/item?id=35003306"
+    ],
+    [
+      "Writing a simple Lisp interpreter in Rust",
+      "https://david-delassus.medium.com/writing-a-simple-lisp-interpreter-in-rust-91dd32ea4d8f"
     ]
   ],
   [
