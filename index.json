@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-03-04, 01:12:57",
+      "https://news.ycombinator.com/item?id=35017120"
+    ],
+    [
+      "Roald Dahl ebooks remotely updated to censored versions after purchase",
+      "https://www.thetimes.co.uk/article/roald-dahl-collection-books-changes-text-puffin-uk-2023-rm2622vl0"
+    ]
+  ],
+  [
+    [
+      "2023-03-04, 00:09:30",
+      "https://news.ycombinator.com/item?id=35016711"
+    ],
+    [
+      "California community colleges rely too much on part-time faculty; misspend funds",
+      "https://www.bakersfield.com/news/california-community-colleges-rely-too-much-on-part-time-faculty-and-misspend-funds-audit-finds/article_b7b5da7e-b93b-11ed-9e70-5fd006aad8d7.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 23:51:51",
+      "https://news.ycombinator.com/item?id=35016579"
+    ],
+    [
+      "20M digits of pi in 1 minute using Julia",
+      "https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 23:07:11",
       "https://news.ycombinator.com/item?id=35016250"
     ],
     [
       "AI teaches itself to use an API",
       "https://twitter.com/DYtweetshere/status/1631349179934203904"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 22:51:06",
-      "https://news.ycombinator.com/item?id=35016102"
-    ],
-    [
-      "Architecting Asynchronous Schedulers",
-      "https://slightknack.dev/passerine/schedule/"
     ]
   ],
   [
@@ -91,32 +111,12 @@
   ],
   [
     [
-      "2023-03-03, 19:29:43",
-      "https://news.ycombinator.com/item?id=35013939"
-    ],
-    [
-      "Show HN: Zipslicer, a library for loading LLM checkpoints on consumer hardware",
-      "https://github.com/kir-gadjello/zipslicer"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 19:29:37",
       "https://news.ycombinator.com/item?id=35013937"
     ],
     [
       "Hacking the Nintendo DSi Browser",
       "https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 18:44:35",
-      "https://news.ycombinator.com/item?id=35013459"
-    ],
-    [
-      "Self-replicating Python using ChatGPT",
-      "https://github.com/fullthom/chat-gpt-quine"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Jasmine Energy (YC S22) Is Hiring a Full Stack Developer",
       "https://www.ycombinator.com/companies/jasmine-energy/jobs/Iq6e8Z6-jasmine-energy-s22-full-stack-developer"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 17:10:40",
-      "https://news.ycombinator.com/item?id=35012313"
-    ],
-    [
-      "The SCO lawsuit, 20 years later",
-      "https://lwn.net/SubscriberLink/924577/75ae0a1538029fcc/"
     ]
   ],
   [
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2023-03-02, 23:12:07",
-      "https://news.ycombinator.com/item?id=35003411"
-    ],
-    [
-      "LEDs from Dubai (2021)",
-      "https://hackaday.com/2021/01/17/leds-from-dubai-the-royal-lights-you-cant-buy/"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 22:07:25",
       "https://news.ycombinator.com/item?id=35002755"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2023-03-02, 21:10:22",
+      "https://news.ycombinator.com/item?id=35002122"
+    ],
+    [
+      "Neural Chip Plays Doom Using a Thousandth of a Watt",
+      "https://www.tomshardware.com/news/chip-plays-doom-using-1-mw"
+    ]
+  ],
+  [
+    [
       "2023-03-02, 19:35:21",
       "https://news.ycombinator.com/item?id=35000694"
     ],
     [
       "Ask HN: How do you get companies to talk to you about their problems?",
       "https://news.ycombinator.com/item?id=35000694"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 18:40:44",
+      "https://news.ycombinator.com/item?id=34999873"
+    ],
+    [
+      "Identifying as an Artist",
+      "https://mattgemmell.scot/identifying-as-an-artist/"
     ]
   ],
   [
