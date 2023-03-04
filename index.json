@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-03-04, 01:59:08",
-      "https://news.ycombinator.com/item?id=35017378"
-    ],
-    [
-      "Please tell us what features you&#x27;d like in news.Y Combinator",
-      "https://news.ycombinator.com/item?id=363"
-    ]
-  ],
-  [
-    [
       "2023-03-04, 01:12:57",
       "https://news.ycombinator.com/item?id=35017120"
     ],
@@ -47,16 +37,6 @@
     [
       "20M digits of pi in 1 minute using Julia",
       "https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 23:29:02",
-      "https://news.ycombinator.com/item?id=35016402"
-    ],
-    [
-      "Continuous Growth Is Cancer",
-      "https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/"
     ]
   ],
   [
@@ -101,6 +81,16 @@
   ],
   [
     [
+      "2023-03-03, 21:29:02",
+      "https://news.ycombinator.com/item?id=35015277"
+    ],
+    [
+      "Why I stopped using an external monitor",
+      "https://bt.ht/monitor/"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 21:01:35",
       "https://news.ycombinator.com/item?id=35014934"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2023-03-03, 18:11:09",
+      "https://news.ycombinator.com/item?id=35013084"
+    ],
+    [
+      "Switching to Fedora Silverblue",
+      "https://yorickpeterse.com/articles/switching-to-fedora-silverblue/"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 18:02:26",
       "https://news.ycombinator.com/item?id=35012981"
     ],
@@ -161,22 +161,22 @@
   ],
   [
     [
-      "2023-03-03, 17:51:34",
-      "https://news.ycombinator.com/item?id=35012847"
-    ],
-    [
-      "Vitamin D supplementation and incident dementia",
-      "https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/dad2.12404"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 17:48:02",
       "https://news.ycombinator.com/item?id=35012811"
     ],
     [
       "Jasmine Energy (YC S22) Is Hiring a Full Stack Developer",
       "https://www.ycombinator.com/companies/jasmine-energy/jobs/Iq6e8Z6-jasmine-energy-s22-full-stack-developer"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 17:10:40",
+      "https://news.ycombinator.com/item?id=35012313"
+    ],
+    [
+      "The SCO lawsuit, 20 years later",
+      "https://lwn.net/SubscriberLink/924577/75ae0a1538029fcc/"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2023-03-03, 11:57:27",
-      "https://news.ycombinator.com/item?id=35008377"
+      "2023-03-03, 04:21:26",
+      "https://news.ycombinator.com/item?id=35005781"
     ],
     [
-      "Show HN: Classic FPS Wolfenstein 3D brought in the browser via Emscripten",
-      "https://github.com/midzer/wolf4sdl"
+      "When and how slow motion makes products more luxurious",
+      "https://journals.sagepub.com/doi/abs/10.1177/00222437221146728"
     ]
   ],
   [
