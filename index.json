@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-03-04, 00:50:20",
+      "https://news.ycombinator.com/item?id=35016988"
+    ],
+    [
+      "Could we make the web more immersive using a simple optical illusion?",
+      "https://shopify.github.io/spatial-commerce-projects/WonkaVision/"
+    ]
+  ],
+  [
+    [
       "2023-03-04, 00:09:30",
       "https://news.ycombinator.com/item?id=35016711"
     ],
@@ -27,6 +37,16 @@
     [
       "20M digits of pi in 1 minute using Julia",
       "https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 23:29:02",
+      "https://news.ycombinator.com/item?id=35016402"
+    ],
+    [
+      "Continuous Growth Is Cancer",
+      "https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/"
     ]
   ],
   [
@@ -151,26 +171,6 @@
   ],
   [
     [
-      "2023-03-03, 17:10:40",
-      "https://news.ycombinator.com/item?id=35012313"
-    ],
-    [
-      "The SCO lawsuit, 20 years later",
-      "https://lwn.net/SubscriberLink/924577/75ae0a1538029fcc/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 16:16:29",
-      "https://news.ycombinator.com/item?id=35011497"
-    ],
-    [
-      "RISC-V Business: Testing StarFive&#x27;s VisionFive 2 SBC",
-      "https://www.jeffgeerling.com/blog/2023/risc-v-business-testing-starfives-visionfive-2-sbc"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 15:39:47",
       "https://news.ycombinator.com/item?id=35011005"
     ],
@@ -197,16 +197,6 @@
     [
       "DuckDB: Querying JSON files as if they were tables",
       "https://duckdb.org/2023/03/03/json.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 13:46:47",
-      "https://news.ycombinator.com/item?id=35009545"
-    ],
-    [
-      "RVVM – The RISC-V Virtual Machine",
-      "https://github.com/LekKit/RVVM"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Identifying as an Artist",
       "https://mattgemmell.scot/identifying-as-an-artist/"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 15:36:37",
+      "https://news.ycombinator.com/item?id=34996953"
+    ],
+    [
+      "A deep-learning search for technosignatures from 820 nearby stars",
+      "https://www.nature.com/articles/s41550-022-01872-z"
     ]
   ],
   [
