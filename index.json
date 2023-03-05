@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-05, 10:42:41",
+      "https://news.ycombinator.com/item?id=35028441"
+    ],
+    [
+      "Reducing code size in (Rust) librsvg by removing an unnecessary generic struct",
+      "https://viruta.org/reducing-binary-size-generics.html"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 09:24:05",
       "https://news.ycombinator.com/item?id=35028107"
     ],
@@ -187,16 +197,6 @@
     [
       "Why is there a voltage on my HDMI and coaxial cables?",
       "https://diy.stackexchange.com/questions/268070/why-is-there-a-voltage-on-my-hdmi-and-coaxial-cables"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 19:44:48",
-      "https://news.ycombinator.com/item?id=35023833"
-    ],
-    [
-      "Boehm-Demers-Weiser Garbage Collector",
-      "https://github.com/ivmai/bdwgc"
     ]
   ],
   [
