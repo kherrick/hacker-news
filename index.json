@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-03-05, 07:15:39",
-      "https://news.ycombinator.com/item?id=35027581"
-    ],
-    [
-      "Show HN: ChatGPT, No Login Needed, Made with Official OpenAI API",
-      "https://chatgptbay.com/"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 07:06:21",
       "https://news.ycombinator.com/item?id=35027543"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2023-03-04, 23:58:17",
+      "https://news.ycombinator.com/item?id=35025736"
+    ],
+    [
+      "AI Won&#x27;t Cause Unemployment",
+      "https://pmarca.substack.com/p/why-ai-wont-cause-unemployment"
+    ]
+  ],
+  [
+    [
       "2023-03-04, 23:52:26",
       "https://news.ycombinator.com/item?id=35025699"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2023-03-04, 18:21:11",
-      "https://news.ycombinator.com/item?id=35023065"
+      "2023-03-04, 19:44:48",
+      "https://news.ycombinator.com/item?id=35023833"
     ],
     [
-      "Testing multiple Python versions with nox and pyenv",
-      "https://sethmlarson.dev/nox-pyenv-all-python-versions"
+      "Boehm-Demers-Weiser Garbage Collector",
+      "https://github.com/ivmai/bdwgc"
     ]
   ],
   [
