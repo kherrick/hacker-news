@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-05, 15:08:15",
+      "https://news.ycombinator.com/item?id=35030205"
+    ],
+    [
+      "Brett Slatkin: Why am I building a new functional programming language?",
+      "https://www.onebigfluke.com/2023/03/a-new-functional-programming-language.html"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 14:33:44",
       "https://news.ycombinator.com/item?id=35029889"
     ],
@@ -27,16 +37,6 @@
     [
       "AI to name your Java Classes",
       "https://projects.haykranen.nl/java/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 12:52:08",
-      "https://news.ycombinator.com/item?id=35029183"
-    ],
-    [
-      "Norway takes a stance against Google Analytics",
-      "https://www.simpleanalytics.com/blog/norway-takes-a-stance-against-google-analytics"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-03-05, 07:00:32",
+      "https://news.ycombinator.com/item?id=35027513"
+    ],
+    [
+      "Contexto: Find the Secret Word",
+      "https://contexto.me/"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 06:31:09",
       "https://news.ycombinator.com/item?id=35027386"
     ],
@@ -197,16 +207,6 @@
     [
       "Sony&#x27;s Legal Attack on Quad9, Censorship, and Freedom of Speech",
       "https://www.quad9.net/news/blog/sony-s-legal-attack-on-quad9-censorship-and-freedom-of-speech/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 00:16:25",
-      "https://news.ycombinator.com/item?id=35025838"
-    ],
-    [
-      "Fix Intel CPU Throttling on Linux",
-      "https://github.com/erpalma/throttled"
     ]
   ],
   [
