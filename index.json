@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-05, 19:01:18",
+      "https://news.ycombinator.com/item?id=35032746"
+    ],
+    [
+      "ChatGPT broke the EU plan to regulate AI",
+      "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 18:50:13",
+      "https://news.ycombinator.com/item?id=35032650"
+    ],
+    [
+      "RailsCasts grew to make over 1M a year",
+      "https://rbates.dev/railscasts-retrospective-part-1-the-fuel"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 18:28:51",
       "https://news.ycombinator.com/item?id=35032437"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
+      "2023-03-05, 18:18:35",
+      "https://news.ycombinator.com/item?id=35032334"
+    ],
+    [
+      "Tufte CSS",
+      "https://edwardtufte.github.io/tufte-css/"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 17:58:46",
       "https://news.ycombinator.com/item?id=35032125"
     ],
     [
       "The lab that’s growing mushroom computers",
       "https://www.popsci.com/technology/unconventional-computing-lab-mushroom/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 17:53:44",
-      "https://news.ycombinator.com/item?id=35032060"
-    ],
-    [
-      "Science magazine touts the existence of strong and ubiquitous “implicit bias”",
-      "https://whyevolutionistrue.com/2023/03/05/science-magazine-touts-the-existence-of-strong-and-ubiquitous-implicit-bias-as-well-as-the-need-to-measure-it-and-develoop-ways-to-eliminate-it/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2023-03-05, 10:42:41",
-      "https://news.ycombinator.com/item?id=35028441"
-    ],
-    [
-      "Reducing code size in librsvg by removing an unnecessary generic struct",
-      "https://viruta.org/reducing-binary-size-generics.html"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 08:34:46",
       "https://news.ycombinator.com/item?id=35027922"
     ],
     [
       "Amazon is closing its cashierless stores in NYC, San Francisco and Seattle",
       "https://www.cstoredive.com/news/amazon-go-closing-8-of-its-c-stores/644167/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 07:06:21",
-      "https://news.ycombinator.com/item?id=35027543"
-    ],
-    [
-      "Nannou – An open-source creative-coding framework for Rust",
-      "https://nannou.cc/"
     ]
   ],
   [
