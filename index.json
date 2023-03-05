@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-03-04, 23:52:26",
+      "https://news.ycombinator.com/item?id=35025699"
+    ],
+    [
+      "Genetics show grapevines domesticated in 2 places, 3k years earlier than thought",
+      "https://wineanorak.com/2023/03/02/big-news-new-genetic-evidence-shows-that-the-grapevine-was-domesticated-in-two-locations-and-3000-years-earlier-than-previously-thought/"
+    ]
+  ],
+  [
+    [
       "2023-03-04, 23:24:00",
       "https://news.ycombinator.com/item?id=35025535"
     ],
@@ -157,26 +167,6 @@
     [
       "Testing multiple Python versions with nox and pyenv",
       "https://sethmlarson.dev/nox-pyenv-all-python-versions"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 15:52:14",
-      "https://news.ycombinator.com/item?id=35021682"
-    ],
-    [
-      "2022 letter on life in China",
-      "https://danwang.co/2022-letter/"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 15:41:11",
-      "https://news.ycombinator.com/item?id=35021587"
-    ],
-    [
-      "Be Careful Using Tmux and Environment Variables",
-      "https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Lemon-Derived Nanoparticles Block the Progression of Kidney Stones",
       "https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c05099"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 15:01:08",
+      "https://news.ycombinator.com/item?id=34996447"
+    ],
+    [
+      "Writing the Most Boring Quine",
+      "http://rtpg.co/2023/03/02/quines-for-dummies.html"
     ]
   ]
 ]
