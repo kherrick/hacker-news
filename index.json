@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-03-05, 17:03:49",
+      "https://news.ycombinator.com/item?id=35031474"
+    ],
+    [
+      "How to hire engineering talent without the BS",
+      "https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 16:58:22",
+      "https://news.ycombinator.com/item?id=35031405"
+    ],
+    [
+      "Why does the all 0 public key have a known private key in SR25519 and ED25519?",
+      "https://substrate.stackexchange.com/questions/982/why-does-the-all-0-public-key-have-a-known-private-key-in-sr25519-and-ed25519"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 16:48:12",
+      "https://news.ycombinator.com/item?id=35031284"
+    ],
+    [
+      "Old Wisdom on Daily Meal Frequency",
+      "https://theiflife.com/wisdom-day-meal-frequency/"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 16:30:54",
       "https://news.ycombinator.com/item?id=35031072"
     ],
     [
       "Tell HN: Microsoft Teams is blocking Firefox Nightly",
       "https://teams.live.com/_#/unsupportedBrowser"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 16:05:25",
+      "https://news.ycombinator.com/item?id=35030796"
+    ],
+    [
+      "Achieving High-Performance the Functional Way",
+      "https://dl.acm.org/doi/pdf/10.1145/3408974"
     ]
   ],
   [
@@ -27,26 +67,6 @@
     [
       "‘Compostable’ plastics no longer able to be composted in Boulder",
       "https://boulderbeat.news/2023/03/02/compost/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 14:33:44",
-      "https://news.ycombinator.com/item?id=35029889"
-    ],
-    [
-      "As Kenya’s crops fail, a fight over GMO",
-      "https://www.wired.com/story/kenya-gmo-approval/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 14:09:59",
-      "https://news.ycombinator.com/item?id=35029709"
-    ],
-    [
-      "AI to name your Java Classes",
-      "https://projects.haykranen.nl/java/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-03-05, 03:34:34",
-      "https://news.ycombinator.com/item?id=35026701"
-    ],
-    [
-      "Fountain Society",
-      "https://placesjournal.org/article/drinking-fountains-and-public-goods/"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 02:43:13",
       "https://news.ycombinator.com/item?id=35026493"
     ],
@@ -247,16 +257,6 @@
     [
       "“March of the Intellect” Cartoons (1828–29)",
       "https://publicdomainreview.org/collection/march-of-the-intellect"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 15:40:50",
-      "https://news.ycombinator.com/item?id=35011028"
-    ],
-    [
-      "Float-Parsing Benchmark: Regular Visual Studio, ClangCL and Linux GCC",
-      "https://lemire.me/blog/2023/03/03/float-parsing-benchmark-regular-visual-studio-clangcl-and-linux-gcc/"
     ]
   ],
   [
