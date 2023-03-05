@@ -51,21 +51,11 @@
   ],
   [
     [
-      "2023-03-05, 16:48:12",
-      "https://news.ycombinator.com/item?id=35031284"
-    ],
-    [
-      "Old Wisdom on Daily Meal Frequency",
-      "https://theiflife.com/wisdom-day-meal-frequency/"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 16:35:10",
       "https://news.ycombinator.com/item?id=35031109"
     ],
     [
-      "Self Hosted SaaS Alternatives",
+      "Self-Host All the Things?",
       "https://tedium.co/2023/03/04/self-hosted-saas-app-alternatives/"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=35031072"
     ],
     [
-      "Tell HN: Microsoft Teams is blocking Firefox Nightly",
+      "Microsoft Teams is blocking Firefox Nightly",
       "https://teams.live.com/_#/unsupportedBrowser"
     ]
   ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35030796"
     ],
     [
-      "Achieving High-Performance the Functional Way",
+      "Achieving High-Performance the Functional Way (2020)",
       "https://dl.acm.org/doi/pdf/10.1145/3408974"
     ]
   ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=35028562"
     ],
     [
-      "Dropping the SAT Requirement Is a Luxury Belief",
+      "Dropping the SAT requirement is a luxury belief",
       "https://robkhenderson.substack.com/p/dropping-the-sat-requirement-is-a"
     ]
   ],
@@ -137,6 +127,16 @@
     [
       "Reducing code size in librsvg by removing an unnecessary generic struct",
       "https://viruta.org/reducing-binary-size-generics.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 10:04:25",
+      "https://news.ycombinator.com/item?id=35028262"
+    ],
+    [
+      "Show HN: OpenBB Terminal – Investment research for everyone",
+      "https://github.com/OpenBB-finance/OpenBBTerminal"
     ]
   ],
   [
