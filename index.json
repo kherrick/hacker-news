@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-05, 14:11:12",
+      "https://news.ycombinator.com/item?id=35029720"
+    ],
+    [
+      "Matterhorn no more: Toblerone to change design under ‘Swissness’ rules",
+      "https://www.theguardian.com/world/2023/mar/05/matterhorn-mountain-toblerone-packaging-design-switzerland"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 12:52:08",
       "https://news.ycombinator.com/item?id=35029183"
     ],
@@ -17,16 +27,6 @@
     [
       "Life is a game, this is your strategy guide (2014)",
       "https://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 11:10:52",
-      "https://news.ycombinator.com/item?id=35028562"
-    ],
-    [
-      "Dropping the SAT Requirement Is a Luxury Belief",
-      "https://robkhenderson.substack.com/p/dropping-the-sat-requirement-is-a"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Deutschlandticket for regional bus and rail services to be offered for €49&#x2F;month",
       "https://www.deutschland.de/en/topic/life/49-euro-ticket-deutschlandticket-for-buses-and-trains"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 08:34:46",
+      "https://news.ycombinator.com/item?id=35027922"
+    ],
+    [
+      "Amazon Is Closing Its Cashierless Stores in NYC, San Francisco and Seattle",
+      "https://www.cstoredive.com/news/amazon-go-closing-8-of-its-c-stores/644167/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Show HN: Tiny Metasearch Engine to Find Software Developers",
       "https://talentsignals.com"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 21:24:42",
-      "https://news.ycombinator.com/item?id=35024630"
-    ],
-    [
-      "Minimal, allocation-free OpenMetrics implementation for no-std&#x2F;embedded Rust",
-      "https://github.com/hawkw/tinymetrics"
     ]
   ],
   [
