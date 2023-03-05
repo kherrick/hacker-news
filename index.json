@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-05, 12:12:18",
+      "https://news.ycombinator.com/item?id=35028913"
+    ],
+    [
+      "Life is a game, this is your strategy guide (2014)",
+      "https://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 11:10:52",
       "https://news.ycombinator.com/item?id=35028562"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-03-05, 03:43:01",
-      "https://news.ycombinator.com/item?id=35026736"
-    ],
-    [
-      "Hector Martin: we care about fixing Linux problems on Asahi",
-      "https://social.treehouse.systems/@marcan/109966319008107138"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 03:34:34",
       "https://news.ycombinator.com/item?id=35026701"
     ],
@@ -207,16 +207,6 @@
     [
       "Learning to Summarize from Human Feedback (2022)",
       "https://arxiv.org/abs/2009.01325"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 21:24:42",
-      "https://news.ycombinator.com/item?id=35024630"
-    ],
-    [
-      "Minimal, allocation-free OpenMetrics implementation for no-std&#x2F;embedded Rust",
-      "https://github.com/hawkw/tinymetrics"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Lemon-Derived Nanoparticles Block the Progression of Kidney Stones",
       "https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c05099"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 18:02:14",
+      "https://news.ycombinator.com/item?id=34999315"
+    ],
+    [
+      "Ancient eggshells unlock discovery of extinct elephant bird lineage",
+      "https://www.colorado.edu/today/2023/02/28/ancient-eggshells-unlock-discovery-extinct-elephant-bird-lineage"
     ]
   ]
 ]
