@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-03-05, 10:57:19",
+      "https://news.ycombinator.com/item?id=35028499"
+    ],
+    [
+      "Chinese banks cause alarm as capital flight measures intensify",
+      "https://www.asiamarkets.com/chinese-banks-cause-alarm-as-capital-flight-measures-intensify/"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 10:42:41",
       "https://news.ycombinator.com/item?id=35028441"
     ],
     [
       "Reducing code size in (Rust) librsvg by removing an unnecessary generic struct",
       "https://viruta.org/reducing-binary-size-generics.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 10:04:25",
+      "https://news.ycombinator.com/item?id=35028262"
+    ],
+    [
+      "Can’t afford Bloomberg Terminal? No prob, I built the next best thing",
+      "https://github.com/OpenBB-finance/OpenBBTerminal"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-03-04, 23:58:17",
-      "https://news.ycombinator.com/item?id=35025736"
-    ],
-    [
-      "AI Won&#x27;t Cause Unemployment",
-      "https://pmarca.substack.com/p/why-ai-wont-cause-unemployment"
-    ]
-  ],
-  [
-    [
       "2023-03-04, 23:52:26",
       "https://news.ycombinator.com/item?id=35025699"
     ],
@@ -197,16 +207,6 @@
     [
       "Why is there a voltage on my HDMI and coaxial cables?",
       "https://diy.stackexchange.com/questions/268070/why-is-there-a-voltage-on-my-hdmi-and-coaxial-cables"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 19:44:48",
-      "https://news.ycombinator.com/item?id=35023833"
-    ],
-    [
-      "Boehm-Demers-Weiser Garbage Collector",
-      "https://github.com/ivmai/bdwgc"
     ]
   ],
   [
