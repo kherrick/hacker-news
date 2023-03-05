@@ -1,22 +1,42 @@
 [
   [
     [
-      "2023-03-05, 21:08:42",
-      "https://news.ycombinator.com/item?id=35033944"
+      "2023-03-05, 21:33:05",
+      "https://news.ycombinator.com/item?id=35034194"
     ],
     [
-      "Ask HN: Secure and simple way for secret&#x2F;credential management in a startup?",
-      "https://news.ycombinator.com/item?id=35033944"
+      "How to lose $950 quickly on Airbnb",
+      "https://chriskiehl.com/article/how-to-lose-about-nine-fitty"
     ]
   ],
   [
     [
-      "2023-03-05, 20:57:28",
-      "https://news.ycombinator.com/item?id=35033850"
+      "2023-03-05, 20:53:25",
+      "https://news.ycombinator.com/item?id=35033812"
     ],
     [
-      "Ask HN: Taking 6-12 months off work?",
-      "https://news.ycombinator.com/item?id=35033850"
+      "ChatGPT in Academic Writing",
+      "https://www.monsterwriter.app/chatgpt-in-academic-writing.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 20:44:07",
+      "https://news.ycombinator.com/item?id=35033749"
+    ],
+    [
+      "On the Candlemaker&#x27;s Petition",
+      "https://pmarca.substack.com/p/on-the-candlemakers-petition"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 20:03:00",
+      "https://news.ycombinator.com/item?id=35033381"
+    ],
+    [
+      "Do no harm: can school mental health interventions cause iatrogenic harm? [pdf]",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9F00E6568F642ECFA559815915F77B8C/S2056469423000098a.pdf/do-no-harm-can-school-mental-health-interventions-cause-iatrogenic-harm.pdf"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Safety and Soundness in Rust",
       "https://jacko.io/safety_and_soundness.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 19:01:18",
+      "https://news.ycombinator.com/item?id=35032746"
+    ],
+    [
+      "ChatGPT broke the EU plan to regulate AI",
+      "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2023-03-05, 18:30:31",
-      "https://news.ycombinator.com/item?id=35032451"
-    ],
-    [
-      "How ChatGPT was built from the people who made it",
-      "https://www.technologyreview.com/2023/03/03/1069311/inside-story-oral-history-how-chatgpt-built-openai/"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 18:28:51",
       "https://news.ycombinator.com/item?id=35032437"
     ],
@@ -131,12 +151,32 @@
   ],
   [
     [
+      "2023-03-05, 18:07:07",
+      "https://news.ycombinator.com/item?id=35032224"
+    ],
+    [
+      "Activity Pub vs. Web Frameworks",
+      "https://danpalmer.me/2023-01-08-activitypub-vs-web-frameworks/"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 17:10:55",
       "https://news.ycombinator.com/item?id=35031545"
     ],
     [
       "After Dark Screensavers in CSS",
       "https://www.bryanbraun.com/after-dark-css/"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 17:03:49",
+      "https://news.ycombinator.com/item?id=35031474"
+    ],
+    [
+      "How to hire engineering talent without the BS",
+      "https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/"
     ]
   ],
   [
@@ -181,12 +221,12 @@
   ],
   [
     [
-      "2023-03-05, 12:01:10",
-      "https://news.ycombinator.com/item?id=35028838"
+      "2023-03-05, 15:08:15",
+      "https://news.ycombinator.com/item?id=35030205"
     ],
     [
-      "Runst: Handle desktop notifications neatly on Linux",
-      "https://blog.orhun.dev/introducing-runst/"
+      "Building a new functional programming language",
+      "https://www.onebigfluke.com/2023/03/a-new-functional-programming-language.html"
     ]
   ],
   [
@@ -231,52 +271,12 @@
   ],
   [
     [
-      "2023-03-05, 04:13:32",
-      "https://news.ycombinator.com/item?id=35026862"
-    ],
-    [
-      "3dfx: So powerful it’s kind of ridiculous",
-      "https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 03:41:35",
-      "https://news.ycombinator.com/item?id=35026730"
-    ],
-    [
-      "Sanctuary – A woman, an elephant, and an uncommon love story",
-      "https://magazine.atavist.com/sanctuary-tarra-elephant-georgia-tennessee-carol-buckley/"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 03:30:27",
       "https://news.ycombinator.com/item?id=35026681"
     ],
     [
       "The Open Microscopy Environment",
       "https://www.openmicroscopy.org/"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 10:40:15",
-      "https://news.ycombinator.com/item?id=35019903"
-    ],
-    [
-      "Ever wanted to peek into your GPU&#x27;s cache setup?",
-      "https://social.treehouse.systems/@clamchowder/109962463320713837"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 15:24:17",
-      "https://news.ycombinator.com/item?id=35010794"
-    ],
-    [
-      "MailCrab",
-      "https://tweedegolf.nl/en/blog/86/introducing-mailcrab"
     ]
   ],
   [
