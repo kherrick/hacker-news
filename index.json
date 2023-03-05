@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-05, 03:43:01",
+      "https://news.ycombinator.com/item?id=35026736"
+    ],
+    [
+      "Hector Martin: we care about fixing Linux problems on Asahi",
+      "https://social.treehouse.systems/@marcan/109966319008107138"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 02:43:13",
       "https://news.ycombinator.com/item?id=35026493"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=35025865"
     ],
     [
-      "The Incompatibility of Open Core and Profit",
+      "The incompatibility of open core and profit",
       "https://bytesdataaction.substack.com/p/open-core-profit"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=35024160"
     ],
     [
-      "The dogs of Chernobyl",
+      "The Dogs of Chernobyl",
       "https://www.science.org/doi/10.1126/sciadv.ade2537"
     ]
   ],
@@ -111,22 +121,12 @@
   ],
   [
     [
-      "2023-03-04, 19:00:19",
-      "https://news.ycombinator.com/item?id=35023440"
+      "2023-03-04, 18:21:11",
+      "https://news.ycombinator.com/item?id=35023065"
     ],
     [
-      "Tables of Soyga: the first cellular automaton (2014)",
-      "https://stream.syscoi.com/2019/05/14/tables-of-soyga-the-first-cellular-automaton-anders-sandberg/"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 16:04:27",
-      "https://news.ycombinator.com/item?id=35021797"
-    ],
-    [
-      "AmigaOS 3.2",
-      "https://www.hyperion-entertainment.com/index.php/news"
+      "Testing multiple Python versions with nox and pyenv",
+      "https://sethmlarson.dev/nox-pyenv-all-python-versions"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=35021682"
     ],
     [
-      "2022 Letter",
+      "2022 letter on life in China",
       "https://danwang.co/2022-letter/"
     ]
   ],
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-03-04, 13:35:12",
-      "https://news.ycombinator.com/item?id=35020665"
-    ],
-    [
-      "Getting started with C++ MathGL on Windows and Linux (2020)",
-      "https://solarianprogrammer.com/2020/06/25/getting-started-mathgl-windows-linux/"
-    ]
-  ],
-  [
-    [
       "2023-03-04, 13:30:37",
       "https://news.ycombinator.com/item?id=35020630"
     ],
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2023-03-04, 13:16:17",
-      "https://news.ycombinator.com/item?id=35020548"
+      "2023-03-03, 22:22:38",
+      "https://news.ycombinator.com/item?id=35015849"
     ],
     [
-      "Passing for Human: Philip K. Dick in Vancouver (2018)",
-      "https://bctimeslip.skullcrackersuite.org/index.php/2018/02/11/passing-for-human-pkd-in-vancouver/"
+      "Beware of Book Blurbs",
+      "https://themillions.com/2023/03/beware-of-blurbs.html"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2023-03-03, 13:38:21",
+      "https://news.ycombinator.com/item?id=35009417"
+    ],
+    [
+      "What Are Signals?",
+      "https://signia.tldraw.dev/docs/what-are-signals"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 13:25:12",
       "https://news.ycombinator.com/item?id=35009258"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-03-03, 12:16:49",
-      "https://news.ycombinator.com/item?id=35008526"
+      "2023-03-03, 06:03:39",
+      "https://news.ycombinator.com/item?id=35006341"
     ],
     [
-      "Hidden order in chaotic crowds",
-      "https://phys.org/news/2023-03-lane-hidden-chaotic-crowds.html"
+      "The Tunguska Mystery 100 Years Later (2008)",
+      "https://www.scientificamerican.com/article/the-tunguska-mystery-100-years-later/"
     ]
   ],
   [
