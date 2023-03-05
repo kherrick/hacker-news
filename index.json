@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-05, 07:00:56",
+      "https://news.ycombinator.com/item?id=35027517"
+    ],
+    [
+      "GQ.fyi (YC W21) Is Hiring Rails engineers to build GTP3 for customer research",
+      "https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 06:31:09",
+      "https://news.ycombinator.com/item?id=35027386"
+    ],
+    [
+      "Refurb weekend: Cobalt RaQ 2",
+      "http://oldvcr.blogspot.com/2023/03/refurb-weekend-cobalt-raq-2.html"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 04:13:37",
       "https://news.ycombinator.com/item?id=35026863"
     ],
@@ -97,16 +117,6 @@
     [
       "Minimal, allocation-free OpenMetrics implementation for no-std&#x2F;embedded Rust",
       "https://github.com/hawkw/tinymetrics"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 21:01:10",
-      "https://news.ycombinator.com/item?id=35024460"
-    ],
-    [
-      "Mux (YC W16) is looking for a BDR that&#x27;s reading Hacker News",
-      "https://www.mux.com/jobs"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Lemon-Derived Nanoparticles Block the Progression of Kidney Stones",
       "https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c05099"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 15:01:08",
-      "https://news.ycombinator.com/item?id=34996447"
-    ],
-    [
-      "Writing the Most Boring Quine",
-      "http://rtpg.co/2023/03/02/quines-for-dummies.html"
     ]
   ]
 ]
