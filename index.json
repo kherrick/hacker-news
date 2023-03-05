@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-03-05, 12:30:35",
-      "https://news.ycombinator.com/item?id=35029042"
-    ],
-    [
-      "When ChatGPT Reads Roald Dahl",
-      "https://charlesschifano.substack.com/p/when-chatgpt-reads-roald-dahl"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 12:12:18",
       "https://news.ycombinator.com/item?id=35028913"
     ],
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2023-03-04, 22:41:17",
-      "https://news.ycombinator.com/item?id=35025221"
+      "2023-03-04, 21:24:42",
+      "https://news.ycombinator.com/item?id=35024630"
     ],
     [
-      "Learning to summarize from human feedback (2022)",
-      "https://arxiv.org/abs/2009.01325"
+      "Minimal, allocation-free OpenMetrics implementation for no-std&#x2F;embedded Rust",
+      "https://github.com/hawkw/tinymetrics"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Float-Parsing Benchmark: Regular Visual Studio, ClangCL and Linux GCC",
       "https://lemire.me/blog/2023/03/03/float-parsing-benchmark-regular-visual-studio-clangcl-and-linux-gcc/"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 15:34:50",
+      "https://news.ycombinator.com/item?id=35010922"
+    ],
+    [
+      "APL Since 1978 (2020) [pdf]",
+      "https://dl.acm.org/doi/pdf/10.1145/3386319"
     ]
   ],
   [
