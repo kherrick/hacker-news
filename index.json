@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-03-05, 06:22:42",
+      "https://news.ycombinator.com/item?id=35027340"
+    ],
+    [
+      "We&#x27;re never getting rid of ChatGPT",
+      "https://xeiaso.net/blog/chatgpt-emacs"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 05:40:08",
       "https://news.ycombinator.com/item?id=35027169"
     ],
@@ -197,16 +207,6 @@
     [
       "Minimal, allocation-free OpenMetrics implementation for no-std&#x2F;embedded Rust",
       "https://github.com/hawkw/tinymetrics"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 19:44:48",
-      "https://news.ycombinator.com/item?id=35023833"
-    ],
-    [
-      "Boehm-Demers-Weiser Garbage Collector",
-      "https://github.com/ivmai/bdwgc"
     ]
   ],
   [
