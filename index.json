@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-03-06, 10:16:20",
-      "https://news.ycombinator.com/item?id=35039335"
-    ],
-    [
-      "How Brompton Bicycle uses Raspberry Pi technology to improve production [video]",
-      "https://www.youtube.com/watch?v=MBXYZ7vHmXw"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 09:56:57",
       "https://news.ycombinator.com/item?id=35039244"
     ],
@@ -277,6 +267,16 @@
     [
       "How to hire engineering talent without the BS",
       "https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 16:58:22",
+      "https://news.ycombinator.com/item?id=35031405"
+    ],
+    [
+      "Why does the all 0 public key have a known private key in SR25519 and ED25519?",
+      "https://substrate.stackexchange.com/questions/982/why-does-the-all-0-public-key-have-a-known-private-key-in-sr25519-and-ed25519"
     ]
   ],
   [
