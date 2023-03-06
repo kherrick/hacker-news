@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-03-06, 14:45:36",
-      "https://news.ycombinator.com/item?id=35041590"
+      "2023-03-06, 15:00:54",
+      "https://news.ycombinator.com/item?id=35041754"
     ],
     [
-      "Amazon Employees Are Fighting on Slack About Returning to the Office",
-      "https://www.entrepreneur.com/business-news/amazon-workers-are-fighting-each-other-about-office-return/446729"
+      "Tesla Drops Model S and Model X Pricing, Making Plaid the Same Price",
+      "https://blog.onlyusedtesla.com/tesla-updates-model-s-and-model-x-pricing-making-plaid-the-same-price-dd82925161b1"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 14:41:04",
+      "https://news.ycombinator.com/item?id=35041549"
+    ],
+    [
+      "Cargo Cult Science – Feynman&#x27;s 1974 Caltech commencement address",
+      "http://calteches.library.caltech.edu/51/2/CargoCult.htm"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 14:31:23",
+      "https://news.ycombinator.com/item?id=35041435"
+    ],
+    [
+      "Amazon’s big dreams for Alexa fall short",
+      "https://www.ft.com/content/bab905bd-a2fa-4022-b63d-a385c2a0fb86"
     ]
   ],
   [
@@ -21,12 +41,32 @@
   ],
   [
     [
+      "2023-03-06, 14:12:03",
+      "https://news.ycombinator.com/item?id=35041202"
+    ],
+    [
+      "SimCity launched a decade ago, and it was so disastrous it killed the series",
+      "https://www.pcgamer.com/simcity-launched-a-decade-ago-and-it-was-so-disastrous-it-killed-the-series/"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 13:14:30",
       "https://news.ycombinator.com/item?id=35040547"
     ],
     [
       "Why the Floppy Disk Just Won’t Die",
       "https://www.wired.com/story/why-the-floppy-disk-just-wont-die/"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 12:52:40",
+      "https://news.ycombinator.com/item?id=35040373"
+    ],
+    [
+      "Automate writing changelog using ChatGPT",
+      "https://olvy.co/changelogs"
     ]
   ],
   [
@@ -87,16 +127,6 @@
     [
       "I&#x27;m a Very Slow Thinker",
       "https://sive.rs/slow"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 10:16:20",
-      "https://news.ycombinator.com/item?id=35039335"
-    ],
-    [
-      "How Brompton Bicycle uses Raspberry Pi technology to improve production [video]",
-      "https://www.youtube.com/watch?v=MBXYZ7vHmXw"
     ]
   ],
   [
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2023-03-05, 23:55:35",
-      "https://news.ycombinator.com/item?id=35035618"
-    ],
-    [
-      "Even the Pylint codebase uses Ruff",
-      "https://github.com/PyCQA/pylint/blob/47cb11f4cb01a61f83d915d88e828f103a479980/pyproject.toml"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 23:18:43",
-      "https://news.ycombinator.com/item?id=35035297"
-    ],
-    [
-      "Can the West’s perplexing employment miracle continue?",
-      "https://www.economist.com/finance-and-economics/2023/03/05/can-the-wests-perplexing-employment-miracle-continue"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 22:55:15",
       "https://news.ycombinator.com/item?id=35035100"
     ],
     [
       "Van Gogh, AMD’s Steam Deck APU",
       "https://chipsandcheese.com/2023/03/05/van-gogh-amds-steam-deck-apu/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 21:02:03",
-      "https://news.ycombinator.com/item?id=35033890"
-    ],
-    [
-      "If I died tomorrow, how long would my webapp keep running?",
-      "https://casparwre.de/blog/webapp-afterlife/"
     ]
   ],
   [
