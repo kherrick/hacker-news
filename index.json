@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-06, 19:09:55",
+      "https://news.ycombinator.com/item?id=35046061"
+    ],
+    [
+      "Low-code development (Node-RED alternative)",
+      "https://www.totaljs.com/flow/"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 18:23:06",
       "https://news.ycombinator.com/item?id=35045224"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35043478"
     ],
     [
-      "Maybe Treating Housing as an Investment Was a Colossal Mistake",
+      "Maybe treating housing as an investment was a mistake",
       "https://goodreason.substack.com/p/maybe-treating-housing-as-an-investment"
     ]
   ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2023-03-06, 16:51:06",
-      "https://news.ycombinator.com/item?id=35043246"
-    ],
-    [
-      "Ultra-processed foods may contribute to cognitive decline",
-      "https://cam.mbi.ufl.edu/2023/01/31/6089/"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 16:20:38",
       "https://news.ycombinator.com/item?id=35042836"
     ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=35042431"
     ],
     [
-      "The Waluigi Effect: an explanation of bizarre semiotic effects in LLMs",
+      "The Waluigi Effect",
       "https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post"
     ]
   ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-03-06, 12:31:05",
-      "https://news.ycombinator.com/item?id=35040214"
-    ],
-    [
-      "Epson EcoTank Pro Printers",
-      "https://epson.com/ecotank-pro-ink-tank-printers"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 12:27:06",
       "https://news.ycombinator.com/item?id=35040194"
     ],
@@ -247,6 +237,16 @@
     [
       "Genes reveal striking diversity within similar ice age cultures",
       "https://www.science.org/content/article/ancient-dna-upends-european-prehistory"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 08:39:58",
+      "https://news.ycombinator.com/item?id=35038804"
+    ],
+    [
+      "ChatGPT generated a puzzle game",
+      "https://puzzledpenguin.substack.com/p/chatgpt-invented-its-own-puzzle-game"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2023-03-06, 05:05:44",
+      "https://news.ycombinator.com/item?id=35037690"
+    ],
+    [
+      "The Smallest Hash Table",
+      "https://orlp.net/blog/worlds-smallest-hash-table/"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 03:45:19",
       "https://news.ycombinator.com/item?id=35026746"
     ],
@@ -287,16 +297,6 @@
     [
       "Inverted computer culture: A thought experiment",
       "http://viznut.fi/texts-en/inverted_computer_culture.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 07:01:03",
-      "https://news.ycombinator.com/item?id=35018854"
-    ],
-    [
-      "Unsigned int considered harmful for Java",
-      "https://www.nayuki.io/page/unsigned-int-considered-harmful-for-java"
     ]
   ]
 ]
