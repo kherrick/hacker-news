@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-03-06, 02:00:06",
+      "https://news.ycombinator.com/item?id=35036637"
+    ],
+    [
+      "Phoenix 1.7.0 Released: Built-In Tailwind, Verified Routes, LiveView Streams",
+      "https://www.phoenixframework.org/blog/phoenix-1.7-final-released"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 01:39:32",
+      "https://news.ycombinator.com/item?id=35036491"
+    ],
+    [
+      "Fed Reserve Zoom conference canceled after &#x27;porn-bombing&#x27;",
+      "https://www.reuters.com/world/us/feds-waller-virtual-event-canceled-after-zoom-hijack-2023-03-02/"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 00:53:28",
+      "https://news.ycombinator.com/item?id=35036142"
+    ],
+    [
+      "“Your File May Violate Google Drive&#x27;s Terms of Service”",
+      "https://news.ycombinator.com/item?id=35036142"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 00:45:39",
+      "https://news.ycombinator.com/item?id=35036068"
+    ],
+    [
+      "Rebranding the Wise design system for everyone (part 1)",
+      "https://wise.design/design-at-wise/stories/accessible-but-never-boring"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 00:00:28",
       "https://news.ycombinator.com/item?id=35035663"
     ],
@@ -11,12 +51,12 @@
   ],
   [
     [
-      "2023-03-05, 23:55:37",
-      "https://news.ycombinator.com/item?id=35035619"
+      "2023-03-05, 23:55:35",
+      "https://news.ycombinator.com/item?id=35035618"
     ],
     [
-      "Man has two more chances before $232M in Bitcoin is lost forever",
-      "https://au.finance.yahoo.com/news/man-has-two-more-chances-before-232-million-is-lost-forever-222045101.html"
+      "Even the Pylint codebase uses Ruff",
+      "https://github.com/PyCQA/pylint/blob/47cb11f4cb01a61f83d915d88e828f103a479980/pyproject.toml"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2023-03-05, 19:30:21",
-      "https://news.ycombinator.com/item?id=35033032"
-    ],
-    [
-      "Observation contains 3 different images of same supernova-hosting galaxy",
-      "https://esawebb.org/images/potm2302a/"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 19:18:52",
       "https://news.ycombinator.com/item?id=35032922"
     ],
@@ -107,26 +137,6 @@
     [
       "ChatGPT broke the EU plan to regulate AI",
       "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 18:50:13",
-      "https://news.ycombinator.com/item?id=35032650"
-    ],
-    [
-      "RailsCasts Retrospective Part 1: The Fuel",
-      "https://rbates.dev/railscasts-retrospective-part-1-the-fuel"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 18:47:53",
-      "https://news.ycombinator.com/item?id=35032638"
-    ],
-    [
-      "A Criticism of JavaScript Cryptography",
-      "https://blog.bren2010.io/blog/criticism-of-javascript-crypto"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Building a new functional programming language",
       "https://www.onebigfluke.com/2023/03/a-new-functional-programming-language.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 11:10:52",
-      "https://news.ycombinator.com/item?id=35028562"
-    ],
-    [
-      "Dropping the SAT requirement is a luxury belief",
-      "https://robkhenderson.substack.com/p/dropping-the-sat-requirement-is-a"
     ]
   ],
   [
