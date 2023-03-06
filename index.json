@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-06, 18:23:06",
+      "https://news.ycombinator.com/item?id=35045224"
+    ],
+    [
+      "Bevy 0.10: data oriented game engine built in Rust",
+      "https://bevyengine.org/news/bevy-0-10/"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 17:47:28",
+      "https://news.ycombinator.com/item?id=35044516"
+    ],
+    [
+      "Rapid growth, lessons learned and improvements at Fly.io",
+      "https://community.fly.io/t/reliability-its-not-great/11253"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 17:41:06",
       "https://news.ycombinator.com/item?id=35044355"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2023-03-06, 15:10:18",
-      "https://news.ycombinator.com/item?id=35041886"
-    ],
-    [
-      "Hired’s 2023 State of Software Engineers [pdf]",
-      "https://pages.hired.email/rs/289-SIY-439/images/Hired_2023%20State%20of%20Software%20Engineers.pdf"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 15:09:25",
       "https://news.ycombinator.com/item?id=35041873"
     ],
     [
       "Basic terminology and practices related to graph databases and graph modeling",
       "https://memgraph.com/docs/memgraph/tutorials/graph-modeling"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 14:41:04",
-      "https://news.ycombinator.com/item?id=35041549"
-    ],
-    [
-      "Cargo cult science (1974)",
-      "http://calteches.library.caltech.edu/51/2/CargoCult.htm"
     ]
   ],
   [
