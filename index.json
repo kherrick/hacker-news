@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-03-06, 15:00:54",
-      "https://news.ycombinator.com/item?id=35041754"
+      "2023-03-06, 15:09:25",
+      "https://news.ycombinator.com/item?id=35041873"
     ],
     [
-      "Tesla Drops Model S and Model X Pricing, Making Plaid the Same Price",
-      "https://blog.onlyusedtesla.com/tesla-updates-model-s-and-model-x-pricing-making-plaid-the-same-price-dd82925161b1"
+      "Basic terminology and practices related to graph databases and graph modeling",
+      "https://memgraph.com/docs/memgraph/tutorials/graph-modeling"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 15:06:14",
+      "https://news.ycombinator.com/item?id=35041829"
+    ],
+    [
+      "I spent a week without IPv4 to understand IPv6 transition mechanisms",
+      "https://www.apalrd.net/posts/2023/network_ipv6/"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=35041549"
     ],
     [
-      "Cargo Cult Science – Feynman&#x27;s 1974 Caltech commencement address",
+      "Cargo Cult Science (1974)",
       "http://calteches.library.caltech.edu/51/2/CargoCult.htm"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Why the Floppy Disk Just Won’t Die",
       "https://www.wired.com/story/why-the-floppy-disk-just-wont-die/"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 12:52:40",
-      "https://news.ycombinator.com/item?id=35040373"
-    ],
-    [
-      "Automate writing changelog using ChatGPT",
-      "https://olvy.co/changelogs"
     ]
   ],
   [
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=35039358"
     ],
     [
-      "I&#x27;m a Very Slow Thinker",
+      "I&#x27;m a very slow thinker (2016)",
       "https://sive.rs/slow"
     ]
   ],
@@ -137,16 +137,6 @@
     [
       "Nix-Powered Development with OCaml",
       "https://dimitrije.website/posts/2023-03-04-nix-ocaml.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 08:58:15",
-      "https://news.ycombinator.com/item?id=35038926"
-    ],
-    [
-      "Researchers Use AI to Generate Images Based on People&#x27;s Brain Activity",
-      "https://www.vice.com/en/article/wxje8n/researchers-use-ai-to-generate-images-based-on-peoples-brain-activity"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2023-03-06, 03:58:22",
+      "https://news.ycombinator.com/item?id=35037371"
+    ],
+    [
+      "Academic urban legends (2014)",
+      "https://journals.sagepub.com/doi/full/10.1177/0306312714535679"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 02:35:07",
       "https://news.ycombinator.com/item?id=35036871"
     ],
@@ -237,6 +237,16 @@
     [
       "Phoenix 1.7.0",
       "https://www.phoenixframework.org/blog/phoenix-1.7-final-released"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 00:45:39",
+      "https://news.ycombinator.com/item?id=35036068"
+    ],
+    [
+      "Rebranding the Wise design system for everyone (part 1)",
+      "https://wise.design/design-at-wise/stories/accessible-but-never-boring"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "How to hire engineering talent without the BS",
       "https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 16:58:22",
-      "https://news.ycombinator.com/item?id=35031405"
-    ],
-    [
-      "Why does the all 0 public key have a known private key in SR25519 and ED25519?",
-      "https://substrate.stackexchange.com/questions/982/why-does-the-all-0-public-key-have-a-known-private-key-in-sr25519-and-ed25519"
     ]
   ],
   [
