@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-06, 14:26:04",
+      "https://news.ycombinator.com/item?id=35041358"
+    ],
+    [
+      "Mastodon: Add support for incoming rich text",
+      "https://github.com/mastodon/mastodon/pull/23913"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 13:14:30",
+      "https://news.ycombinator.com/item?id=35040547"
+    ],
+    [
+      "Why the Floppy Disk Just Won’t Die",
+      "https://www.wired.com/story/why-the-floppy-disk-just-wont-die/"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 12:10:06",
       "https://news.ycombinator.com/item?id=35040079"
     ],
@@ -57,6 +77,16 @@
     [
       "I&#x27;m a Very Slow Thinker",
       "https://sive.rs/slow"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 10:16:20",
+      "https://news.ycombinator.com/item?id=35039335"
+    ],
+    [
+      "How Brompton Bicycle uses Raspberry Pi technology to improve production [video]",
+      "https://www.youtube.com/watch?v=MBXYZ7vHmXw"
     ]
   ],
   [
@@ -181,12 +211,12 @@
   ],
   [
     [
-      "2023-03-05, 22:58:18",
-      "https://news.ycombinator.com/item?id=35035128"
+      "2023-03-05, 23:18:43",
+      "https://news.ycombinator.com/item?id=35035297"
     ],
     [
-      "Miller Puckette: Inside PureData – Lectures on pd&#x2F;development of computer music",
-      "http://msp.ucsd.edu/syllabi/206.20s/index.htm"
+      "Can the West’s perplexing employment miracle continue?",
+      "https://www.economist.com/finance-and-economics/2023/03/05/can-the-wests-perplexing-employment-miracle-continue"
     ]
   ],
   [
@@ -201,22 +231,12 @@
   ],
   [
     [
-      "2023-03-05, 19:18:52",
-      "https://news.ycombinator.com/item?id=35032922"
+      "2023-03-05, 21:02:03",
+      "https://news.ycombinator.com/item?id=35033890"
     ],
     [
-      "Lifting Discrete Logarithm Based Cryptography to Post-Quantum Cryptography",
-      "https://eprint.iacr.org/2023/318"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 19:01:18",
-      "https://news.ycombinator.com/item?id=35032746"
-    ],
-    [
-      "ChatGPT broke the EU plan to regulate AI",
-      "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
+      "If I died tomorrow, how long would my webapp keep running?",
+      "https://casparwre.de/blog/webapp-afterlife/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Show HN: Lander, a lunar lander style web game",
       "https://ehmorris.com/lander/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 18:13:34",
-      "https://news.ycombinator.com/item?id=35032286"
-    ],
-    [
-      "Depression, Anxiety, and Stress Spread Through Employee Mobility (2022)",
-      "https://journals.sagepub.com/doi/epub/10.1177/00018392211014819"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 18:07:07",
-      "https://news.ycombinator.com/item?id=35032224"
-    ],
-    [
-      "Activity Pub vs. Web Frameworks",
-      "https://danpalmer.me/2023-01-08-activitypub-vs-web-frameworks/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-03-05, 15:46:04",
+      "https://news.ycombinator.com/item?id=35030587"
+    ],
+    [
+      "The Most Cited AI Papers in 2022",
+      "https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 04:13:32",
       "https://news.ycombinator.com/item?id=35026862"
     ],
     [
       "3dfx: So powerful it’s kind of ridiculous",
       "https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 03:30:27",
-      "https://news.ycombinator.com/item?id=35026681"
-    ],
-    [
-      "The Open Microscopy Environment",
-      "https://www.openmicroscopy.org/"
     ]
   ]
 ]
