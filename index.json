@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-06, 06:01:07",
+      "https://news.ycombinator.com/item?id=35037952"
+    ],
+    [
+      "The mission to discover if Jupiter’s moons support life",
+      "https://www.theguardian.com/science/2023/mar/05/could-jupiters-icy-moons-support-life"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 05:35:22",
+      "https://news.ycombinator.com/item?id=35037819"
+    ],
+    [
+      "Pine64: Things Are Taking Shape",
+      "https://www.pine64.org/2023/03/01/february-update-things-are-taking-shape/"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 05:12:36",
+      "https://news.ycombinator.com/item?id=35037723"
+    ],
+    [
+      "Writing - Human Interface Guidelines",
+      "https://developer.apple.com/design/human-interface-guidelines/foundations/writing/"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 03:58:22",
       "https://news.ycombinator.com/item?id=35037371"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=35036871"
     ],
     [
-      "Lessons learned from 5 years of indie hacking",
+      "Five years of indie hacking",
       "https://allisonseboldt.com/5-years-of-indie-hacking/"
     ]
   ],
@@ -35,18 +65,8 @@
       "https://news.ycombinator.com/item?id=35036637"
     ],
     [
-      "Phoenix 1.7.0 Released: Built-In Tailwind, Verified Routes, LiveView Streams",
+      "Phoenix 1.7.0",
       "https://www.phoenixframework.org/blog/phoenix-1.7-final-released"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 01:39:32",
-      "https://news.ycombinator.com/item?id=35036491"
-    ],
-    [
-      "Porn Zoom bomb forces cancellation of Fed&#x27;s Waller event",
-      "https://www.reuters.com/world/us/feds-waller-virtual-event-canceled-after-zoom-hijack-2023-03-02/"
     ]
   ],
   [
@@ -75,8 +95,8 @@
       "https://news.ycombinator.com/item?id=35035368"
     ],
     [
-      "One NYC Airbnb has nearly $1M in fines. It hasn&#x27;t paid any of them",
-      "https://www.businessinsider.com/illegally-listed-nyc-airbnb-1m-fines-bloomberg-2023-3"
+      "An NYC Airbnb Racked Up $1M in Fines. New Rules Would Block the Listing",
+      "https://www.bloomberg.com/news/articles/2023-03-03/is-airbnb-illegal-in-nyc-new-rules-will-block-listings-as-1-million-fines-fail"
     ]
   ],
   [
@@ -111,22 +131,12 @@
   ],
   [
     [
-      "2023-03-05, 20:03:00",
-      "https://news.ycombinator.com/item?id=35033381"
+      "2023-03-05, 20:44:07",
+      "https://news.ycombinator.com/item?id=35033749"
     ],
     [
-      "Do no harm: can school mental health interventions cause iatrogenic harm? [pdf]",
-      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9F00E6568F642ECFA559815915F77B8C/S2056469423000098a.pdf/do-no-harm-can-school-mental-health-interventions-cause-iatrogenic-harm.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 20:02:00",
-      "https://news.ycombinator.com/item?id=35033368"
-    ],
-    [
-      "Show HN: A HN clone writen in Go",
-      "https://remoterenters.com/"
+      "On the Candlemaker&#x27;s Petition",
+      "https://pmarca.substack.com/p/on-the-candlemakers-petition"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "ChatGPT broke the EU plan to regulate AI",
       "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 18:47:37",
-      "https://news.ycombinator.com/item?id=35032634"
-    ],
-    [
-      "Show HN: TuringJest – Pretend to be an AI and spot the real one",
-      "https://www.turingjest.app/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-03-05, 15:08:15",
-      "https://news.ycombinator.com/item?id=35030205"
-    ],
-    [
-      "Building a new functional programming language",
-      "https://www.onebigfluke.com/2023/03/a-new-functional-programming-language.html"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 04:13:32",
       "https://news.ycombinator.com/item?id=35026862"
     ],
@@ -287,6 +277,16 @@
     [
       "The Open Microscopy Environment",
       "https://www.openmicroscopy.org/"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 13:59:46",
+      "https://news.ycombinator.com/item?id=35009718"
+    ],
+    [
+      "The Counterintuitive Physics of Turning a Bike (2015) [video]",
+      "https://www.youtube.com/watch?v=llRkf1fnNDM"
     ]
   ],
   [
