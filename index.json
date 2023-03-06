@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-06, 15:41:23",
+      "https://news.ycombinator.com/item?id=35042316"
+    ],
+    [
+      "Show HN: Up to 100x Faster FastAPI with simdjson and io_uring on Linux 5.19",
+      "https://github.com/unum-cloud/ujrpc"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 15:13:06",
       "https://news.ycombinator.com/item?id=35041926"
     ],
@@ -71,12 +81,32 @@
   ],
   [
     [
+      "2023-03-06, 13:48:13",
+      "https://news.ycombinator.com/item?id=35040912"
+    ],
+    [
+      "Police arrest suspected members of prolific DoppelPaymer ransomware gang",
+      "https://techcrunch.com/2023/03/06/police-arrest-suspected-members-of-prolific-doppelpaymer-ransomware-gang/"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 13:14:30",
       "https://news.ycombinator.com/item?id=35040547"
     ],
     [
       "Why the Floppy Disk Just Won’t Die",
       "https://www.wired.com/story/why-the-floppy-disk-just-wont-die/"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 12:27:06",
+      "https://news.ycombinator.com/item?id=35040194"
+    ],
+    [
+      "Want an unfair advantage in your tech career? Consume content for other roles",
+      "https://matthewgrohman.substack.com/p/want-an-unfair-advantage-in-your"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2023-03-06, 06:01:07",
-      "https://news.ycombinator.com/item?id=35037952"
-    ],
-    [
-      "The mission to discover if Jupiter’s moons support life",
-      "https://www.theguardian.com/science/2023/mar/05/could-jupiters-icy-moons-support-life"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 05:12:36",
       "https://news.ycombinator.com/item?id=35037723"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-03-06, 00:45:39",
-      "https://news.ycombinator.com/item?id=35036068"
-    ],
-    [
-      "Rebranding the Wise design system for everyone (part 1)",
-      "https://wise.design/design-at-wise/stories/accessible-but-never-boring"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 22:55:15",
       "https://news.ycombinator.com/item?id=35035100"
     ],
@@ -287,16 +297,6 @@
     [
       "After Dark Screensavers in CSS",
       "https://www.bryanbraun.com/after-dark-css/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 17:03:49",
-      "https://news.ycombinator.com/item?id=35031474"
-    ],
-    [
-      "How to hire engineering talent without the BS",
-      "https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/"
     ]
   ]
 ]
