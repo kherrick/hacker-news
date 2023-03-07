@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-03-07, 02:27:37",
+      "https://news.ycombinator.com/item?id=35050770"
+    ],
+    [
+      "Microsoft Edge is getting a video upscaler to make blurry old videos look better",
+      "https://www.theverge.com/2023/3/6/23627080/microsoft-edge-video-upscaling-ai-super-resolution-vsr"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 02:26:40",
+      "https://news.ycombinator.com/item?id=35050757"
+    ],
+    [
+      "SafeButler (YC S17) Is Hiring Business Development",
+      "https://www.safebutler.com/careers"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 01:31:37",
+      "https://news.ycombinator.com/item?id=35050335"
+    ],
+    [
+      "Domain Names as Handles in Bluesky",
+      "https://blueskyweb.xyz/blog/3-6-2023-domain-names-as-handles-in-bluesky"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 01:27:45",
+      "https://news.ycombinator.com/item?id=35050307"
+    ],
+    [
+      "A Vulnerability in Implementations of SHA-3, Shake, EdDSA",
+      "https://eprint.iacr.org/2023/331"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 00:55:26",
       "https://news.ycombinator.com/item?id=35050069"
     ],
@@ -31,26 +71,6 @@
   ],
   [
     [
-      "2023-03-07, 00:01:36",
-      "https://news.ycombinator.com/item?id=35049680"
-    ],
-    [
-      "Google tells employees that fewer of them will get promotions to senior roles",
-      "https://www.cnbc.com/2023/03/06/google-tells-employees-that-fewer-of-them-will-get-promotions-to-senior-roles.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 23:31:06",
-      "https://news.ycombinator.com/item?id=35049371"
-    ],
-    [
-      "Five ways to soothe a mind overstimulated by anxiety, stress and information",
-      "https://www.nytimes.com/2022/03/14/well/mind/stress-anxiety-mind.html"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 22:18:05",
       "https://news.ycombinator.com/item?id=35048535"
     ],
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2023-03-06, 21:58:40",
-      "https://news.ycombinator.com/item?id=35048285"
+      "2023-03-06, 21:21:17",
+      "https://news.ycombinator.com/item?id=35047776"
     ],
     [
-      "Pedestrian Traffic Fatalities by State: 2022 Preliminary Data",
-      "https://www.ghsa.org/resources/Pedestrians23"
+      "GPT-3 will ignore tools when it disagrees with them",
+      "https://vgel.me/posts/tools-not-needed/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-03-06, 17:00:12",
-      "https://news.ycombinator.com/item?id=35043380"
-    ],
-    [
-      "Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge migrations",
-      "https://skio.com/careers/"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 16:20:38",
       "https://news.ycombinator.com/item?id=35042836"
     ],
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2023-03-06, 16:05:21",
-      "https://news.ycombinator.com/item?id=35042662"
-    ],
-    [
-      "Show HN: Sorbay – Open-source alternative to Loom",
-      "https://sorbay.io/"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 15:50:17",
       "https://news.ycombinator.com/item?id=35042431"
     ],
     [
       "The Waluigi Effect",
       "https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 15:41:23",
-      "https://news.ycombinator.com/item?id=35042316"
-    ],
-    [
-      "Show HN: Faster FastAPI with simdjson and io_uring on Linux 5.19",
-      "https://github.com/unum-cloud/ujrpc"
     ]
   ],
   [
@@ -201,6 +191,36 @@
   ],
   [
     [
+      "2023-03-06, 14:31:23",
+      "https://news.ycombinator.com/item?id=35041435"
+    ],
+    [
+      "Amazon’s big dreams for Alexa fall short",
+      "https://www.ft.com/content/bab905bd-a2fa-4022-b63d-a385c2a0fb86"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 13:14:30",
+      "https://news.ycombinator.com/item?id=35040547"
+    ],
+    [
+      "The floppy disk just won’t die",
+      "https://www.wired.com/story/why-the-floppy-disk-just-wont-die/"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 13:00:50",
+      "https://news.ycombinator.com/item?id=35040451"
+    ],
+    [
+      "Nobody needs a faster dishwasher – solve real user needs",
+      "https://louison.substack.com/p/nobody-needs-a-faster-dishwasher"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 12:27:06",
       "https://news.ycombinator.com/item?id=35040194"
     ],
@@ -211,12 +231,12 @@
   ],
   [
     [
-      "2023-03-06, 10:10:42",
-      "https://news.ycombinator.com/item?id=35039305"
+      "2023-03-06, 10:41:04",
+      "https://news.ycombinator.com/item?id=35039478"
     ],
     [
-      "Show HN: Simple Log Alerts to Slack",
-      "https://profitview.net/blog/simple-effective-system-alerts"
+      "Linker Notes on AArch64",
+      "https://maskray.me/blog/2023-03-05-linker-notes-on-aarch64"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Kern and Co. AG: Instruction for the Use of the Dotting Pen 1069 [pdf]",
       "https://www.mathinstruments.ch/pdf/kern_gebrauchsanleitung_fuer_den_punktierapparat.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 06:58:08",
-      "https://news.ycombinator.com/item?id=35027500"
-    ],
-    [
-      "Willy &#x27;N Ethel",
-      "http://www.mrboffo.com/wdaily.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 13:37:06",
-      "https://news.ycombinator.com/item?id=35020676"
-    ],
-    [
-      "From Function Level Semantics to Program Transformation and Optimization (1985)",
-      "https://link.springer.com/content/pdf/10.1007/3-540-15198-2_5.pdf?pdf=inline%20link"
     ]
   ],
   [
