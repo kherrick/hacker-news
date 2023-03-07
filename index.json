@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-07, 16:31:44",
+      "https://news.ycombinator.com/item?id=35057308"
+    ],
+    [
+      "Feb 27 2023 GCP Outage Incident Report",
+      "https://status.cloud.google.com/incidents/LnvJwfYu3TCyUrcrP7yf"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 16:28:08",
+      "https://news.ycombinator.com/item?id=35057257"
+    ],
+    [
+      "Haraldur Thorleifsson&#x27;s Personal Site",
+      "http://www.haraldurthorleifsson.com"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 16:18:24",
+      "https://news.ycombinator.com/item?id=35057119"
+    ],
+    [
+      "Ask HN: What can I do with my DevOps Experience?",
+      "https://news.ycombinator.com/item?id=35057119"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 16:04:36",
       "https://news.ycombinator.com/item?id=35056903"
     ],
@@ -27,6 +57,16 @@
     [
       "RustPython – A Python-3 (CPython &gt;= 3.11.0) Interpreter written in Rust",
       "https://github.com/RustPython/RustPython"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 15:41:11",
+      "https://news.ycombinator.com/item?id=35056548"
+    ],
+    [
+      "France comes to standstill livid workers protest plan to increase retirement age",
+      "https://www.cbc.ca/news/world/france-nationwide-strikes-pensions-1.6770345"
     ]
   ],
   [
@@ -95,7 +135,7 @@
       "https://news.ycombinator.com/item?id=35055845"
     ],
     [
-      "A first-ever study on the extent of global air pollution",
+      "A study on the extent of global air pollution",
       "https://scienceswitch.com/2023/03/07/the-pm2-5-pandemic-a-first-ever-study-on-the-extent-of-global-air-pollution-reveals-startling-results/"
     ]
   ],
@@ -231,16 +271,6 @@
   ],
   [
     [
-      "2023-03-07, 01:27:45",
-      "https://news.ycombinator.com/item?id=35050307"
-    ],
-    [
-      "A Vulnerability in Implementations of SHA-3, Shake, EdDSA",
-      "https://eprint.iacr.org/2023/331"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 12:56:29",
       "https://news.ycombinator.com/item?id=35040411"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-03-05, 13:39:39",
-      "https://news.ycombinator.com/item?id=35029504"
-    ],
-    [
-      "Dragon Programming Language",
-      "https://dragon-lang.org/"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 10:27:34",
       "https://news.ycombinator.com/item?id=35028370"
     ],
     [
       "Text Search with Tries (2021)",
       "https://chidiwilliams.com/post/text-search-with-tries/"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 08:06:11",
-      "https://news.ycombinator.com/item?id=35019158"
-    ],
-    [
-      "Qualcomm wants to replace eSIMs with iSIMs, has the first certified SoC",
-      "https://arstechnica.com/gadgets/2023/03/qualcomm-wants-to-replace-esims-with-isims-has-the-first-certified-soc/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 09:34:29",
-      "https://news.ycombinator.com/item?id=35007555"
-    ],
-    [
-      "Building the worlds jankiest serial to USB cable from scavenged parts",
-      "https://github.com/francisrstokes/githublog/blob/main/2023/3/1/building-a-jank-uart-cable-from-scavenged-parts.md"
     ]
   ]
 ]
