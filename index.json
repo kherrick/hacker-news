@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-03-07, 00:55:26",
+      "https://news.ycombinator.com/item?id=35050069"
+    ],
+    [
+      "Show HN: Roastedby.ai – Talk some trash, have some fun",
+      "https://www.roastedby.ai/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 00:41:01",
+      "https://news.ycombinator.com/item?id=35049978"
+    ],
+    [
+      "Cabel Sasser: Untitled Goose Game rejected from the Mac App Store twice",
+      "https://social.panic.com/@cabel/109977366338856750"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 00:07:49",
+      "https://news.ycombinator.com/item?id=35049729"
+    ],
+    [
+      "Shiki Syntax Highlighter",
+      "https://shiki.matsu.io/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 00:01:36",
+      "https://news.ycombinator.com/item?id=35049680"
+    ],
+    [
+      "Google tells employees that fewer of them will get promotions to senior roles",
+      "https://www.cnbc.com/2023/03/06/google-tells-employees-that-fewer-of-them-will-get-promotions-to-senior-roles.html"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 23:31:06",
       "https://news.ycombinator.com/item?id=35049371"
     ],
@@ -11,12 +51,12 @@
   ],
   [
     [
-      "2023-03-06, 22:12:32",
-      "https://news.ycombinator.com/item?id=35048472"
+      "2023-03-06, 22:18:05",
+      "https://news.ycombinator.com/item?id=35048535"
     ],
     [
-      "What&#x27;s that smell? Detecting air quality with Python, Raspberry Pi, and Redis",
-      "https://2023.pythonwebconf.com/presentations/whats-that-smell-detecting-air-quality-with-python-raspberry-pi-and-redis"
+      "Cross-Domain Thinking Drives Insights and Innovation",
+      "https://markmcneilly.substack.com/p/cross-domain-thinking-drives-insights"
     ]
   ],
   [
@@ -37,26 +77,6 @@
     [
       "Europe&#x27;s big tech bill is coming to fruition",
       "https://www.technologyreview.com/2023/03/06/1069391/safer-internet-dsa-dma-eu/"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 19:54:16",
-      "https://news.ycombinator.com/item?id=35046695"
-    ],
-    [
-      "Open-source Stable Diffusion plug-in for Photoshop",
-      "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 19:31:37",
-      "https://news.ycombinator.com/item?id=35046385"
-    ],
-    [
-      "Charter boat captains don&#x27;t have to share location with government, court rules",
-      "https://reason.com/2023/03/06/charter-boat-captains-dont-have-to-share-their-location-data-with-the-government-court-rules/"
     ]
   ],
   [
@@ -121,22 +141,22 @@
   ],
   [
     [
-      "2023-03-06, 16:57:38",
-      "https://news.ycombinator.com/item?id=35043347"
-    ],
-    [
-      "Understanding people matters more than understanding tech",
-      "https://letterstoanewdeveloper.com/2023/03/06/understanding-people-matters-more-than-understanding-tech/"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 16:20:38",
       "https://news.ycombinator.com/item?id=35042836"
     ],
     [
       "Launch HN: Vellum (YC W23) – Dev Platform for LLM Apps",
       "https://news.ycombinator.com/item?id=35042836"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 16:05:21",
+      "https://news.ycombinator.com/item?id=35042662"
+    ],
+    [
+      "Show HN: Sorbay – Open-source alternative to Loom",
+      "https://sorbay.io/"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "Show HN: Faster FastAPI with simdjson and io_uring on Linux 5.19",
       "https://github.com/unum-cloud/ujrpc"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 15:09:25",
-      "https://news.ycombinator.com/item?id=35041873"
-    ],
-    [
-      "Basic terminology and practices related to graph databases and graph modeling",
-      "https://memgraph.com/docs/memgraph/tutorials/graph-modeling"
     ]
   ],
   [
@@ -211,21 +221,11 @@
   ],
   [
     [
-      "2023-03-06, 06:21:21",
-      "https://news.ycombinator.com/item?id=35038062"
-    ],
-    [
-      "Mr. Rodgers&#x27;s Neighborhood (2011)",
-      "http://www.nilerodgers.com/about/press/3-new-york-times-mr-rodgerss-neighborhood"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 04:46:50",
       "https://news.ycombinator.com/item?id=35037603"
     ],
     [
-      "Purple-Teams: MS Teams Plugin for Pidgin",
+      "Purple-Teams: MS Teams Plugin for Pidgin (2022)",
       "https://github.com/EionRobb/purple-teams"
     ]
   ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-03-05, 17:46:13",
-      "https://news.ycombinator.com/item?id=35031963"
-    ],
-    [
-      "Social media is changing, and paid accounts are the response",
-      "https://www.bigtechnology.com/p/social-media-is-changing-and-paid"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 13:31:01",
       "https://news.ycombinator.com/item?id=35029447"
     ],
@@ -261,12 +251,22 @@
   ],
   [
     [
-      "2023-03-05, 03:45:19",
-      "https://news.ycombinator.com/item?id=35026746"
+      "2023-03-05, 13:26:53",
+      "https://news.ycombinator.com/item?id=35029416"
     ],
     [
-      "Mina Miller Edison",
-      "https://www.smithsonianmag.com/history/mina-miller-edison-was-more-than-the-wife-of-the-wizard-of-menlo-park-180981726/"
+      "Kern and Co. AG: Instruction for the Use of the Dotting Pen 1069 [pdf]",
+      "https://www.mathinstruments.ch/pdf/kern_gebrauchsanleitung_fuer_den_punktierapparat.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 06:58:08",
+      "https://news.ycombinator.com/item?id=35027500"
+    ],
+    [
+      "Willy &#x27;N Ethel",
+      "http://www.mrboffo.com/wdaily.html"
     ]
   ],
   [
