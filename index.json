@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=35058176"
     ],
     [
-      "When Zig is safer and faster than Rust",
+      "Zig as an alternative to writing unsafe Rust",
       "https://zackoverflow.dev/writing/unsafe-rust-vs-zig/"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "Feb 27 2023 GCP Outage Incident Report",
       "https://status.cloud.google.com/incidents/LnvJwfYu3TCyUrcrP7yf"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 16:28:08",
-      "https://news.ycombinator.com/item?id=35057257"
-    ],
-    [
-      "Haraldur Thorleifsson&#x27;s Personal Site",
-      "http://www.haraldurthorleifsson.com"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Text Search with Tries (2021)",
       "https://chidiwilliams.com/post/text-search-with-tries/"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 01:37:22",
+      "https://news.ycombinator.com/item?id=35026257"
+    ],
+    [
+      "Customizing the startup chime on a 1999 G3 iMac",
+      "https://www.downtowndougbrown.com/2023/03/customizing-the-startup-chime-on-a-1999-g3-imac/"
     ]
   ]
 ]
