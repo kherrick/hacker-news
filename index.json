@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-07, 17:01:42",
+      "https://news.ycombinator.com/item?id=35057763"
+    ],
+    [
+      "Fake sugars sneak into foods and disrupt metabolic health",
+      "https://www.washingtonpost.com/wellness/interactive/2023/sugar-substitutes-health-effects/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 17:01:11",
+      "https://news.ycombinator.com/item?id=35057754"
+    ],
+    [
+      "Svix (YC W21) Is Hiring a Technical DevRel (US Remote)",
+      "https://www.svix.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 16:47:37",
+      "https://news.ycombinator.com/item?id=35057516"
+    ],
+    [
+      "Signal is for everyone, and everyone is different",
+      "https://signal.org/blog/signal-is-for-everyone/"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 16:31:44",
       "https://news.ycombinator.com/item?id=35057308"
     ],
@@ -21,12 +51,22 @@
   ],
   [
     [
-      "2023-03-07, 16:18:24",
-      "https://news.ycombinator.com/item?id=35057119"
+      "2023-03-07, 16:25:28",
+      "https://news.ycombinator.com/item?id=35057219"
     ],
     [
-      "Ask HN: What can I do with my DevOps Experience?",
-      "https://news.ycombinator.com/item?id=35057119"
+      "A curated list of engineering blogs",
+      "https://github.com/kilimchoi/engineering-blogs"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 16:17:04",
+      "https://news.ycombinator.com/item?id=35057092"
+    ],
+    [
+      "Framework-Defined Infrastructure",
+      "https://vercel.com/blog/framework-defined-infrastructure"
     ]
   ],
   [
@@ -57,26 +97,6 @@
     [
       "RustPython – A Python-3 (CPython &gt;= 3.11.0) Interpreter written in Rust",
       "https://github.com/RustPython/RustPython"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 15:41:11",
-      "https://news.ycombinator.com/item?id=35056548"
-    ],
-    [
-      "France comes to standstill livid workers protest plan to increase retirement age",
-      "https://www.cbc.ca/news/world/france-nationwide-strikes-pensions-1.6770345"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 15:37:54",
-      "https://news.ycombinator.com/item?id=35056499"
-    ],
-    [
-      "Show HN: YoBulk AI – Open Source React SDK for data cleansing",
-      "https://yobulk.dev/"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-03-07, 13:14:32",
-      "https://news.ycombinator.com/item?id=35054948"
-    ],
-    [
-      "Possible reasons for 8-bit bytes",
-      "https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-bytes/"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 12:57:10",
       "https://news.ycombinator.com/item?id=35054786"
     ],
     [
       "Stochastic gradient descent written in SQL",
       "https://maxhalford.github.io/blog/ogd-in-sql/"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 12:00:45",
-      "https://news.ycombinator.com/item?id=35054375"
-    ],
-    [
-      "Toko (YC W22) Is Hiring a Founding Engineer to Teach English Using AI",
-      "https://www.ycombinator.com/companies/toko/jobs/hXNmmpi-founding-engineer"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-03-07, 01:49:27",
-      "https://news.ycombinator.com/item?id=35050475"
-    ],
-    [
-      "Palm-E: An Embodied Multimodal Language Model",
-      "https://palm-e.github.io/"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 12:56:29",
       "https://news.ycombinator.com/item?id=35040411"
     ],
@@ -287,6 +277,16 @@
     [
       "Peru’s Lost Temple",
       "https://www.archaeology.org/issues/503-2303/digs/11215-digs-peru-moche-temple"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 11:23:33",
+      "https://news.ycombinator.com/item?id=35028628"
+    ],
+    [
+      "The Most Boring Number in the World Is ...",
+      "https://www.scientificamerican.com/article/the-most-boring-number-in-the-world-is/"
     ]
   ],
   [
