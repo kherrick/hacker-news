@@ -1,12 +1,82 @@
 [
   [
     [
+      "2023-03-07, 15:07:56",
+      "https://news.ycombinator.com/item?id=35056136"
+    ],
+    [
+      "No Lodash",
+      "https://thescottyjam.github.io/snap.js/#!/nolodash"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 15:04:07",
+      "https://news.ycombinator.com/item?id=35056098"
+    ],
+    [
+      "Haraldur Þorleifsson Sweeps Person of the Year Awards",
+      "https://www.icelandreview.com/news/haraldur-thorleifsson-sweeps-person-of-the-year-awards/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 15:03:47",
+      "https://news.ycombinator.com/item?id=35056094"
+    ],
+    [
+      "A Low Latency Guitar Effects Processor Suitable for Running on a Raspberry Pi",
+      "https://github.com/Quinny/GuitarEffects"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 14:54:35",
+      "https://news.ycombinator.com/item?id=35055993"
+    ],
+    [
+      "Boulder Dash",
+      "https://lutzroeder.github.io/digger/"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 14:43:29",
       "https://news.ycombinator.com/item?id=35055851"
     ],
     [
       "Pure Storage Teases 300 TB Ultra-Large NVMe SSD with Tentative 2026 Launch",
       "https://wccftech.com/pure-storage-teases-monstrous-300-tb-ultra-large-capacity-nvme-ssd-with-a-tentative-2026-launch-date/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 14:42:58",
+      "https://news.ycombinator.com/item?id=35055845"
+    ],
+    [
+      "Only 0.001% of global population breathes safe air by WHO standards",
+      "https://scienceswitch.com/2023/03/07/the-pm2-5-pandemic-a-first-ever-study-on-the-extent-of-global-air-pollution-reveals-startling-results/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 14:42:47",
+      "https://news.ycombinator.com/item?id=35055843"
+    ],
+    [
+      "Show HN: Bearer – Open-source code security scanning solution (SAST)",
+      "https://news.ycombinator.com/item?id=35055843"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 14:42:33",
+      "https://news.ycombinator.com/item?id=35055839"
+    ],
+    [
+      "Hi again @elonmusk",
+      "https://twitter.com/iamharaldur/status/1633082707835080705"
     ]
   ],
   [
@@ -81,16 +151,6 @@
   ],
   [
     [
-      "2023-03-07, 10:15:42",
-      "https://news.ycombinator.com/item?id=35053670"
-    ],
-    [
-      "The C++ Standard Library: The Fourth Edition includes C++23",
-      "http://modernescpp.com/index.php/the-c-standard-library-the-fourth-edition-includes-c-23"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 09:21:39",
       "https://news.ycombinator.com/item?id=35053328"
     ],
@@ -141,26 +201,6 @@
   ],
   [
     [
-      "2023-03-07, 02:35:21",
-      "https://news.ycombinator.com/item?id=35050831"
-    ],
-    [
-      "Meta plans thousands more layoffs as soon as this week",
-      "https://www.bloomberg.com/news/articles/2023-03-07/meta-is-said-to-plan-thousands-more-layoffs-as-soon-as-this-week"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 01:55:20",
-      "https://news.ycombinator.com/item?id=35050523"
-    ],
-    [
-      "Study finds mushrooms magnify memory by boosting nerve growth",
-      "https://medicalxpress.com/news/2023-02-mushrooms-magnify-memory-boosting-nerve.html"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 01:49:27",
       "https://news.ycombinator.com/item?id=35050475"
     ],
@@ -191,32 +231,12 @@
   ],
   [
     [
-      "2023-03-07, 00:07:49",
-      "https://news.ycombinator.com/item?id=35049729"
-    ],
-    [
-      "Shiki Syntax Highlighter",
-      "https://shiki.matsu.io/"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 17:47:28",
       "https://news.ycombinator.com/item?id=35044516"
     ],
     [
       "Reliability: It’s not great",
       "https://community.fly.io/t/reliability-its-not-great/11253"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 16:20:38",
-      "https://news.ycombinator.com/item?id=35042836"
-    ],
-    [
-      "Launch HN: Vellum (YC W23) – Dev Platform for LLM Apps",
-      "https://news.ycombinator.com/item?id=35042836"
     ]
   ],
   [
@@ -237,16 +257,6 @@
     [
       "Peru’s Lost Temple",
       "https://www.archaeology.org/issues/503-2303/digs/11215-digs-peru-moche-temple"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 23:48:49",
-      "https://news.ycombinator.com/item?id=35035561"
-    ],
-    [
-      "The Quest to Restore Notre Dame&#x27;s Glorious Sound",
-      "https://www.nytimes.com/interactive/2023/03/03/magazine/notre-dame-cathedral-acoustics-sound.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Building the worlds jankiest serial to USB cable from scavenged parts",
       "https://github.com/francisrstokes/githublog/blob/main/2023/3/1/building-a-jank-uart-cable-from-scavenged-parts.md"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 09:31:16",
-      "https://news.ycombinator.com/item?id=35007533"
-    ],
-    [
-      "King Kong at 90: In film and in comics",
-      "https://13thdimension.com/king-kong-at-90-in-film-and-in-comics/"
     ]
   ]
 ]
