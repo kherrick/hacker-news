@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-03-07, 19:36:18",
+      "https://news.ycombinator.com/item?id=35060074"
+    ],
+    [
+      "ChatGPT powered GitHub code review app",
+      "https://chatcody.umso.co"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 19:36:09",
+      "https://news.ycombinator.com/item?id=35060071"
+    ],
+    [
+      "The Death of Personality",
+      "https://bt.ht/death-of-personality/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 19:33:50",
+      "https://news.ycombinator.com/item?id=35060049"
+    ],
+    [
+      "Engineering Manager vs. Product Manager: What&#x27;s the Difference?",
+      "https://blog.get-merit.com/engineering-manager-vs-product-manager-whats-the-difference/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 19:29:49",
+      "https://news.ycombinator.com/item?id=35059992"
+    ],
+    [
+      "Remote Code Execution as a Service",
+      "https://earthly.dev/blog/remote-code-execution/"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 19:26:58",
       "https://news.ycombinator.com/item?id=35059956"
     ],
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2023-03-07, 16:25:28",
-      "https://news.ycombinator.com/item?id=35057219"
-    ],
-    [
-      "A curated list of engineering blogs",
-      "https://github.com/kilimchoi/engineering-blogs"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 16:11:07",
       "https://news.ycombinator.com/item?id=35057004"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-03-07, 14:43:29",
-      "https://news.ycombinator.com/item?id=35055851"
-    ],
-    [
-      "Pure Storage Teases 300 TB Ultra-Large NVMe SSD with Tentative 2026 Launch",
-      "https://wccftech.com/pure-storage-teases-monstrous-300-tb-ultra-large-capacity-nvme-ssd-with-a-tentative-2026-launch-date/"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 14:42:47",
       "https://news.ycombinator.com/item?id=35055843"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-03-07, 09:21:39",
-      "https://news.ycombinator.com/item?id=35053328"
-    ],
-    [
-      "Show HN: Regex Derivatives (Brzozowski Derivatives)",
-      "https://github.com/c0stya/brzozowski"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 08:47:45",
       "https://news.ycombinator.com/item?id=35053118"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2023-03-06, 12:56:29",
-      "https://news.ycombinator.com/item?id=35040411"
+      "2023-03-06, 16:24:10",
+      "https://news.ycombinator.com/item?id=35042884"
     ],
     [
-      "User interface design timeframes: from 0.1 seconds to 10 years (2009)",
-      "https://www.nngroup.com/articles/powers-of-10-time-scales-in-ux/"
+      "Assertions Are Pessimistic, Assumptions Are Optimistic (2014)",
+      "https://blog.regehr.org/archives/1096"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The Most Boring Number in the World Is ...",
       "https://www.scientificamerican.com/article/the-most-boring-number-in-the-world-is/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 10:27:34",
-      "https://news.ycombinator.com/item?id=35028370"
-    ],
-    [
-      "Text Search with Tries (2021)",
-      "https://chidiwilliams.com/post/text-search-with-tries/"
     ]
   ],
   [
