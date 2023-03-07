@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-03-07, 16:04:36",
+      "https://news.ycombinator.com/item?id=35056903"
+    ],
+    [
+      "Launch HN: DAGWorks – ML platform for data science teams",
+      "https://news.ycombinator.com/item?id=35056903"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 16:01:45",
+      "https://news.ycombinator.com/item?id=35056857"
+    ],
+    [
+      "Young people in 13 EU countries refuse surveillance of online communication",
+      "https://edri.org/our-work/press-release-poll-youth-in-13-eu-countries-refuse-surveillance-of-online-communication/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 15:43:50",
+      "https://news.ycombinator.com/item?id=35056586"
+    ],
+    [
+      "RustPython – A Python-3 (CPython &gt;= 3.11.0) Interpreter written in Rust",
+      "https://github.com/RustPython/RustPython"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 15:37:54",
+      "https://news.ycombinator.com/item?id=35056499"
+    ],
+    [
+      "Show HN: YoBulk AI – Open Source React SDK for data cleansing",
+      "https://yobulk.dev/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 15:28:29",
+      "https://news.ycombinator.com/item?id=35056379"
+    ],
+    [
+      "Closing your MacBook hardware disconnects microphone, safety&#x2F;privacy feature",
+      "https://support.apple.com/guide/security/hardware-microphone-disconnect-secbbd20b00b/web"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 15:07:56",
       "https://news.ycombinator.com/item?id=35056136"
     ],
@@ -65,7 +115,7 @@
       "https://news.ycombinator.com/item?id=35055668"
     ],
     [
-      "Porsche, Ferrari E-Fuel Push at Heart of EU Engine Debate",
+      "Porsche, Ferrari e-fuel push at heart of EU engine debate",
       "https://www.bloomberg.com/news/articles/2023-03-04/porsche-ferrari-e-fuel-push-at-heart-of-eu-engine-debate"
     ]
   ],
@@ -87,6 +137,16 @@
     [
       "Mailed asthma, cancer, erectile drugs are seized the most, despite opioid claims",
       "https://www.cnn.com/2023/03/07/health/fda-drug-shipments-khn-partner/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 13:52:46",
+      "https://news.ycombinator.com/item?id=35055308"
+    ],
+    [
+      "Show HN: Programming language for making NES games",
+      "https://pubby.games/nesfab.html"
     ]
   ],
   [
@@ -131,16 +191,6 @@
   ],
   [
     [
-      "2023-03-07, 11:24:06",
-      "https://news.ycombinator.com/item?id=35054116"
-    ],
-    [
-      "Show HN: I built a better UI for ChatGPT",
-      "https://www.typingmind.com/"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 09:21:39",
       "https://news.ycombinator.com/item?id=35053328"
     ],
@@ -171,16 +221,6 @@
   ],
   [
     [
-      "2023-03-07, 02:39:55",
-      "https://news.ycombinator.com/item?id=35050858"
-    ],
-    [
-      "Discord, or the Death of Lore",
-      "http://ascii.textfiles.com/archives/5509"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 01:49:27",
       "https://news.ycombinator.com/item?id=35050475"
     ],
@@ -191,32 +231,12 @@
   ],
   [
     [
-      "2023-03-07, 01:31:37",
-      "https://news.ycombinator.com/item?id=35050335"
-    ],
-    [
-      "Domain Names as Handles in Bluesky",
-      "https://blueskyweb.xyz/blog/3-6-2023-domain-names-as-handles-in-bluesky"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 01:27:45",
       "https://news.ycombinator.com/item?id=35050307"
     ],
     [
       "A Vulnerability in Implementations of SHA-3, Shake, EdDSA",
       "https://eprint.iacr.org/2023/331"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 17:47:28",
-      "https://news.ycombinator.com/item?id=35044516"
-    ],
-    [
-      "Reliability: It’s not great",
-      "https://community.fly.io/t/reliability-its-not-great/11253"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-03-05, 23:48:49",
-      "https://news.ycombinator.com/item?id=35035561"
-    ],
-    [
-      "The Quest to Restore Notre Dame&#x27;s Glorious Sound",
-      "https://www.nytimes.com/interactive/2023/03/03/magazine/notre-dame-cathedral-acoustics-sound.html"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 13:39:39",
       "https://news.ycombinator.com/item?id=35029504"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2023-03-04, 20:35:47",
-      "https://news.ycombinator.com/item?id=35024270"
+      "2023-03-05, 10:27:34",
+      "https://news.ycombinator.com/item?id=35028370"
     ],
     [
-      "Frances Burney&#x27;s account of her ‘terrible operation’ (2018)",
-      "https://www.bl.uk/restoration-18th-century-literature/articles/frances-burneys-account-of-her-terrible-operation"
+      "Text Search with Tries (2021)",
+      "https://chidiwilliams.com/post/text-search-with-tries/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Building the worlds jankiest serial to USB cable from scavenged parts",
       "https://github.com/francisrstokes/githublog/blob/main/2023/3/1/building-a-jank-uart-cable-from-scavenged-parts.md"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 09:31:16",
-      "https://news.ycombinator.com/item?id=35007533"
-    ],
-    [
-      "King Kong at 90: In film and in comics",
-      "https://13thdimension.com/king-kong-at-90-in-film-and-in-comics/"
     ]
   ]
 ]
