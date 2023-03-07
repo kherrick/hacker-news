@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=35062157"
     ],
     [
-      "ChatGPT Explained: A Normie&#x27;s Guide to How It Works",
+      "ChatGPT Explained: A normie&#x27;s guide to how it works",
       "https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies"
     ]
   ],
@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2023-03-07, 22:13:04",
-      "https://news.ycombinator.com/item?id=35062007"
-    ],
-    [
-      "O’Reilly urges world to get ready for a red-hot summer of AI – AI Magazine",
-      "https://aimagazine.com/articles/oreilly-urges-world-to-get-ready-for-a-red-hot-summer-of-ai"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 21:58:54",
       "https://news.ycombinator.com/item?id=35061864"
     ],
     [
-      "Graduate Students at the University of Southern California Have Won a Union",
+      "Graduate students at the University of Southern California have won a union",
       "https://jacobin.com/2023/03/university-of-southern-california-grad-student-workers-union-bargaining-demands-nlrb"
     ]
   ],
@@ -45,18 +35,8 @@
       "https://news.ycombinator.com/item?id=35061821"
     ],
     [
-      "BlinderKitten, A free lighting software without restriction",
+      "BlinderKitten: Free lighting software",
       "http://blinderkitten.lighting"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 21:20:17",
-      "https://news.ycombinator.com/item?id=35061406"
-    ],
-    [
-      "After seven years of Brexit talks, Europe has emerged as the clear winner",
-      "https://www.economist.com/europe/2023/03/02/after-seven-years-of-brexit-talks-europe-has-emerged-as-the-clear-winner"
     ]
   ],
   [
@@ -75,7 +55,7 @@
       "https://news.ycombinator.com/item?id=35060972"
     ],
     [
-      "Google ads malvertising is targeting open source software",
+      "Malvertising on Google Ads",
       "https://www.kolide.com/blog/malvertising-on-google-ads-it-s-hiding-in-plain-site"
     ]
   ],
@@ -111,16 +91,6 @@
   ],
   [
     [
-      "2023-03-07, 19:36:18",
-      "https://news.ycombinator.com/item?id=35060074"
-    ],
-    [
-      "ChatGPT powered GitHub code review app",
-      "https://chatcody.umso.co"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 19:29:49",
       "https://news.ycombinator.com/item?id=35059992"
     ],
@@ -141,12 +111,32 @@
   ],
   [
     [
+      "2023-03-07, 18:04:59",
+      "https://news.ycombinator.com/item?id=35058744"
+    ],
+    [
+      "Mario Kart Tour Triggers You into Gambling Your Money",
+      "https://growth.design/case-studies/mario-kart-revenue-model"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 18:02:52",
       "https://news.ycombinator.com/item?id=35058706"
     ],
     [
       "Improving Signal&#x27;s Sealed Sender (2021)",
       "https://www.ndss-symposium.org/ndss-paper/improving-signals-sealed-sender/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 17:26:35",
+      "https://news.ycombinator.com/item?id=35058176"
+    ],
+    [
+      "Zig as an alternative to writing unsafe Rust",
+      "https://zackoverflow.dev/writing/unsafe-rust-vs-zig/"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Launch HN: DAGWorks – ML platform for data science teams",
       "https://news.ycombinator.com/item?id=35056903"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 15:43:50",
+      "https://news.ycombinator.com/item?id=35056586"
+    ],
+    [
+      "RustPython – A Python-3 (CPython &gt;= 3.11.0) Interpreter written in Rust",
+      "https://github.com/RustPython/RustPython"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=35055308"
     ],
     [
-      "Show HN: Programming language for making NES games",
+      "Show HN: NESFab – Programming language for making NES games",
       "https://pubby.games/nesfab.html"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=35053118"
     ],
     [
-      "Parse, Don&#x27;t Validate (2019)",
+      "Parse, don&#x27;t validate (2019)",
       "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"
     ]
   ],
