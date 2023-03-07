@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-03-07, 22:21:51",
+      "https://news.ycombinator.com/item?id=35062097"
+    ],
+    [
+      "The Right Side of History",
+      "https://www.newyorker.com/news/annals-of-education/the-right-side-of-history"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 22:13:04",
+      "https://news.ycombinator.com/item?id=35062007"
+    ],
+    [
+      "O’Reilly urges world to get ready for a red-hot summer of AI – AI Magazine",
+      "https://aimagazine.com/articles/oreilly-urges-world-to-get-ready-for-a-red-hot-summer-of-ai"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 21:58:54",
+      "https://news.ycombinator.com/item?id=35061864"
+    ],
+    [
+      "Graduate Students at the University of Southern California Have Won a Union",
+      "https://jacobin.com/2023/03/university-of-southern-california-grad-student-workers-union-bargaining-demands-nlrb"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 21:55:39",
+      "https://news.ycombinator.com/item?id=35061821"
+    ],
+    [
+      "BlinderKitten, A free lighting software without restriction",
+      "http://blinderkitten.lighting"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 21:20:17",
       "https://news.ycombinator.com/item?id=35061406"
     ],
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2023-03-07, 18:44:26",
-      "https://news.ycombinator.com/item?id=35059324"
-    ],
-    [
-      "Cash Management for Early Stage Startups",
-      "https://www.codingvc.com/p/cash-management-for-early-stage-startups"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 18:04:59",
       "https://news.ycombinator.com/item?id=35058744"
     ],
@@ -117,16 +147,6 @@
     [
       "Zig as an alternative to writing unsafe Rust",
       "https://zackoverflow.dev/writing/unsafe-rust-vs-zig/"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 17:18:04",
-      "https://news.ycombinator.com/item?id=35058046"
-    ],
-    [
-      "Georgia nuclear plant begins splitting atoms",
-      "https://apnews.com/article/georgia-power-nuclear-reactor-electricity-voglte-startup-305145dc46cc1752c2d9371fa70aea35"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-03-06, 14:06:15",
-      "https://news.ycombinator.com/item?id=35041123"
-    ],
-    [
-      "It’s Not TV: The Spectacular Rise, Revolution, and Future of HBO",
-      "https://www.nybooks.com/articles/2023/03/23/bigger-deeper-and-more-fucked-up-hbo/"
-    ]
-  ],
-  [
-    [
       "2023-03-05, 11:23:33",
       "https://news.ycombinator.com/item?id=35028628"
     ],
@@ -287,16 +297,6 @@
     [
       "Customizing the startup chime on a 1999 G3 iMac",
       "https://www.downtowndougbrown.com/2023/03/customizing-the-startup-chime-on-a-1999-g3-imac/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 10:21:22",
-      "https://news.ycombinator.com/item?id=35007829"
-    ],
-    [
-      "The Cotorreo",
-      "https://kinduff.com/2023/03/02/the-cotorreo/"
     ]
   ]
 ]
