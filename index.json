@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-07, 21:24:32",
+      "https://news.ycombinator.com/item?id=35061471"
+    ],
+    [
+      "Journalists Are Exhibiting Too Much Credulousness Toward Jamie Reed’s Critics",
+      "https://jessesingal.substack.com/p/journalists-are-exhibiting-far-too"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 21:00:05",
       "https://news.ycombinator.com/item?id=35061134"
     ],
@@ -27,16 +37,6 @@
     [
       "Category Theory ∩ Machine Learning",
       "https://github.com/bgavran/Category_Theory_Machine_Learning"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 19:53:47",
-      "https://news.ycombinator.com/item?id=35060298"
-    ],
-    [
-      "Zero energy ready homes are coming",
-      "https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-03-07, 19:26:58",
-      "https://news.ycombinator.com/item?id=35059956"
-    ],
-    [
-      "Show HN: ChatGPT and Document Parser = Ghost",
-      "https://www.ghostextension.com/"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 18:44:26",
       "https://news.ycombinator.com/item?id=35059324"
     ],
@@ -105,8 +95,18 @@
       "https://news.ycombinator.com/item?id=35058706"
     ],
     [
-      "Signal&#x27;s Sealed Sender anonymity is broken",
+      "Signal&#x27;s Sealed Sender anonymity is broken (2021) (2021)",
       "https://www.ndss-symposium.org/ndss-paper/improving-signals-sealed-sender/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 17:26:35",
+      "https://news.ycombinator.com/item?id=35058176"
+    ],
+    [
+      "Zig as an alternative to writing unsafe Rust",
+      "https://zackoverflow.dev/writing/unsafe-rust-vs-zig/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-03-07, 14:42:47",
-      "https://news.ycombinator.com/item?id=35055843"
-    ],
-    [
-      "Show HN: Bearer – Open-source code security scanning solution (SAST)",
-      "https://news.ycombinator.com/item?id=35055843"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 14:14:08",
       "https://news.ycombinator.com/item?id=35055538"
     ],
@@ -237,6 +227,16 @@
     [
       "The lost art of lacing cable (2018)",
       "https://www.thebroadcastbridge.com/content/entry/12400/the-lost-art-of-lacing-cable"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 13:14:32",
+      "https://news.ycombinator.com/item?id=35054948"
+    ],
+    [
+      "Possible reasons for 8-bit bytes",
+      "https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-bytes/"
     ]
   ],
   [
