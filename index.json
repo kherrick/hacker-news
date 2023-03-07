@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=35062806"
     ],
     [
-      "Sued by Meta, Freenom Halts Domain Registrations",
+      "Sued by Meta, Freenom halts domain registrations",
       "https://krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/"
     ]
   ],
@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-03-07, 20:04:37",
-      "https://news.ycombinator.com/item?id=35060438"
-    ],
-    [
-      "Category Theory ∩ Machine Learning",
-      "https://github.com/bgavran/Category_Theory_Machine_Learning"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 19:53:47",
       "https://news.ycombinator.com/item?id=35060298"
     ],
@@ -81,12 +71,32 @@
   ],
   [
     [
+      "2023-03-07, 19:53:01",
+      "https://news.ycombinator.com/item?id=35060285"
+    ],
+    [
+      "ChatGPT has trouble giving an answer before explaining its reasoning",
+      "https://blog.valentin.sh/chatgpt5/"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 19:52:17",
       "https://news.ycombinator.com/item?id=35060273"
     ],
     [
       "My Hardest Bug Ever (2013)",
       "https://www.gamedeveloper.com/programming/my-hardest-bug-ever"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 19:50:40",
+      "https://news.ycombinator.com/item?id=35060258"
+    ],
+    [
+      "Filmed interview with Georges Lemaître, &#x27;father of the Big Bang,&#x27; rediscovered",
+      "https://www.livescience.com/lost-georges-lemaitre-interview-recovered"
     ]
   ],
   [
@@ -111,32 +121,12 @@
   ],
   [
     [
-      "2023-03-07, 18:04:59",
-      "https://news.ycombinator.com/item?id=35058744"
-    ],
-    [
-      "Mario Kart Tour Triggers You into Gambling Your Money",
-      "https://growth.design/case-studies/mario-kart-revenue-model"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 18:02:52",
       "https://news.ycombinator.com/item?id=35058706"
     ],
     [
       "Improving Signal&#x27;s Sealed Sender (2021)",
       "https://www.ndss-symposium.org/ndss-paper/improving-signals-sealed-sender/"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 17:26:35",
-      "https://news.ycombinator.com/item?id=35058176"
-    ],
-    [
-      "Zig as an alternative to writing unsafe Rust",
-      "https://zackoverflow.dev/writing/unsafe-rust-vs-zig/"
     ]
   ],
   [
@@ -167,16 +157,6 @@
     [
       "Launch HN: DAGWorks – ML platform for data science teams",
       "https://news.ycombinator.com/item?id=35056903"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 15:43:50",
-      "https://news.ycombinator.com/item?id=35056586"
-    ],
-    [
-      "RustPython – A Python-3 (CPython &gt;= 3.11.0) Interpreter written in Rust",
-      "https://github.com/RustPython/RustPython"
     ]
   ],
   [
@@ -267,6 +247,26 @@
     [
       "Parse, don&#x27;t validate (2019)",
       "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 16:24:10",
+      "https://news.ycombinator.com/item?id=35042884"
+    ],
+    [
+      "Assertions are pessimistic, assumptions are optimistic (2014)",
+      "https://blog.regehr.org/archives/1096"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 14:06:15",
+      "https://news.ycombinator.com/item?id=35041123"
+    ],
+    [
+      "It’s Not TV: The Spectacular Rise, Revolution, and Future of HBO",
+      "https://www.nybooks.com/articles/2023/03/23/bigger-deeper-and-more-fucked-up-hbo/"
     ]
   ],
   [
