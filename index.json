@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-03-08, 12:03:53",
-      "https://news.ycombinator.com/item?id=35068001"
+      "2023-03-08, 12:27:30",
+      "https://news.ycombinator.com/item?id=35068191"
     ],
     [
-      "“Forbidden-Word” Lists Are a Symptom of Administrative Bloat",
-      "https://www.jamesgmartin.center/2023/03/forbidden-word-lists-are-a-symptom-of-administrative-bloat/"
+      "Researchers develop blood test for anxiety",
+      "https://www.sciencedaily.com/releases/2023/03/230307143746.htm"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Show HN: Construct Animate – our new browser-based animation tool",
       "https://www.construct.net/en/blogs/construct-official-blog-1/launching-construct-animate-1612"
+    ]
+  ],
+  [
+    [
+      "2023-03-08, 10:12:00",
+      "https://news.ycombinator.com/item?id=35067224"
+    ],
+    [
+      "Cachix 1.3: Nix uploads unleashed",
+      "https://blog.cachix.org/posts/2023-03-08-cachix-1-3-uploads-unleashed/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-03-07, 21:55:39",
-      "https://news.ycombinator.com/item?id=35061821"
-    ],
-    [
-      "BlinderKitten: Free lighting software",
-      "http://blinderkitten.lighting"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 21:43:25",
       "https://news.ycombinator.com/item?id=35061672"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2023-03-06, 23:10:05",
-      "https://news.ycombinator.com/item?id=35049149"
+      "2023-03-07, 11:31:47",
+      "https://news.ycombinator.com/item?id=35054175"
     ],
     [
-      "Computers aren’t so smart, after all (1974)",
-      "https://www.theatlantic.com/magazine/archive/1974/08/computers-aren-t-so-smart-after-all/303467/"
+      "Evolution of tree roots may have driven mass extinctions",
+      "https://news.iu.edu/live/news/18907-evolution-of-tree-roots-may-have-driven-mass"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2023-03-06, 15:19:07",
-      "https://news.ycombinator.com/item?id=35042001"
-    ],
-    [
-      "Slightly Intelligent Home",
-      "https://blog.gabrielsimmer.com/posts/slightly-intelligent-home/"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 12:34:46",
       "https://news.ycombinator.com/item?id=35040245"
     ],
     [
       "The Moby Project: accelerated software containerization",
       "https://github.com/moby/moby"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 10:41:04",
+      "https://news.ycombinator.com/item?id=35039478"
+    ],
+    [
+      "Linker Notes on AArch64",
+      "https://maskray.me/blog/2023-03-05-linker-notes-on-aarch64"
     ]
   ],
   [
