@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-03-07, 21:58:54",
-      "https://news.ycombinator.com/item?id=35061864"
-    ],
-    [
-      "Graduate students at the University of Southern California have won a union",
-      "https://jacobin.com/2023/03/university-of-southern-california-grad-student-workers-union-bargaining-demands-nlrb"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 21:55:39",
       "https://news.ycombinator.com/item?id=35061821"
     ],
@@ -237,6 +227,16 @@
     [
       "Stochastic gradient descent written in SQL",
       "https://maxhalford.github.io/blog/ogd-in-sql/"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 16:24:10",
+      "https://news.ycombinator.com/item?id=35042884"
+    ],
+    [
+      "Assertions are pessimistic, assumptions are optimistic (2014)",
+      "https://blog.regehr.org/archives/1096"
     ]
   ],
   [
