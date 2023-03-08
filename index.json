@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-03-08, 01:42:39",
-      "https://news.ycombinator.com/item?id=35064079"
+      "2023-03-08, 02:09:44",
+      "https://news.ycombinator.com/item?id=35064303"
     ],
     [
-      "We deploy 5X faster with warm Docker containers",
-      "https://dagster.io/blog/fast-deploys-with-pex-and-docker"
+      "Effective altruism’s obsession with AI safety helps bury bad behavior",
+      "https://www.bloomberg.com/news/features/2023-03-07/effective-altruism-s-problems-go-beyond-sam-bankman-fried"
     ]
   ],
   [
     [
-      "2023-03-08, 01:26:40",
-      "https://news.ycombinator.com/item?id=35063964"
+      "2023-03-08, 01:42:39",
+      "https://news.ycombinator.com/item?id=35064079"
     ],
     [
-      "Google Releases Paper on Embodied LLM (562b parameters)",
-      "https://palm-e.github.io/#demo"
+      "How we deploy faster with warm Docker containers",
+      "https://dagster.io/blog/fast-deploys-with-pex-and-docker"
     ]
   ],
   [
@@ -71,22 +71,22 @@
   ],
   [
     [
+      "2023-03-07, 21:58:54",
+      "https://news.ycombinator.com/item?id=35061864"
+    ],
+    [
+      "Graduate students at the University of Southern California have won a union",
+      "https://jacobin.com/2023/03/university-of-southern-california-grad-student-workers-union-bargaining-demands-nlrb"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 21:55:39",
       "https://news.ycombinator.com/item?id=35061821"
     ],
     [
       "BlinderKitten: Free lighting software",
       "http://blinderkitten.lighting"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 21:43:25",
-      "https://news.ycombinator.com/item?id=35061672"
-    ],
-    [
-      "React Is Holding Me Hostage",
-      "https://emnudge.dev/blog/react-hostage"
     ]
   ],
   [
