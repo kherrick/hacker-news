@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-08, 16:01:49",
+      "https://news.ycombinator.com/item?id=35070643"
+    ],
+    [
+      "Room-Temperature Superconductor Discovery Meets with Resistance",
+      "https://www.quantamagazine.org/room-temperature-superconductor-discovery-meets-with-resistance-20230308/"
+    ]
+  ],
+  [
+    [
+      "2023-03-08, 15:59:35",
+      "https://news.ycombinator.com/item?id=35070618"
+    ],
+    [
+      "Google Groups has been left to die",
+      "https://ahelwer.ca/post/2023-03-08-google-groups/"
+    ]
+  ],
+  [
+    [
       "2023-03-08, 15:46:00",
       "https://news.ycombinator.com/item?id=35070405"
     ],
@@ -17,6 +37,26 @@
     [
       "Governments should compete for residents, not businesses",
       "https://www.bloomberg.com/opinion/articles/2023-03-07/amazon-hq2-pause-could-be-a-sign-of-a-new-era-for-development"
+    ]
+  ],
+  [
+    [
+      "2023-03-08, 15:20:58",
+      "https://news.ycombinator.com/item?id=35070060"
+    ],
+    [
+      "Americans want to delete Instagram more than any other app",
+      "https://vpnoverview.com/privacy/apps/most-deleted-apps-in-united-states/"
+    ]
+  ],
+  [
+    [
+      "2023-03-08, 15:09:54",
+      "https://news.ycombinator.com/item?id=35069901"
+    ],
+    [
+      "Dust XP1 switches to GPT-3.5-turbo, is now free to use",
+      "https://dust.tt/xp1"
     ]
   ],
   [
@@ -91,12 +131,12 @@
   ],
   [
     [
-      "2023-03-08, 13:57:13",
-      "https://news.ycombinator.com/item?id=35069002"
+      "2023-03-08, 13:58:45",
+      "https://news.ycombinator.com/item?id=35069018"
     ],
     [
-      "DuckDuckGo Dabbles with AI Search",
-      "https://techcrunch.com/2023/03/08/duckassist/"
+      "Show HN: SearQ, RSS are still useful",
+      "https://searq.org"
     ]
   ],
   [
@@ -111,12 +151,12 @@
   ],
   [
     [
-      "2023-03-08, 11:09:41",
-      "https://news.ycombinator.com/item?id=35067603"
+      "2023-03-08, 11:33:09",
+      "https://news.ycombinator.com/item?id=35067766"
     ],
     [
-      "Intel continues with more optimizations to the Linux kernel",
-      "https://www.phoronix.com/news/Intel-rcuref-Linux-Speed-Up"
+      "Bee and butterfly numbers are falling, even in undisturbed forests",
+      "https://www.science.org/content/article/bee-butterfly-numbers-are-falling-even-undisturbed-forests"
     ]
   ],
   [
@@ -171,52 +211,12 @@
   ],
   [
     [
-      "2023-03-08, 07:19:14",
-      "https://news.ycombinator.com/item?id=35066178"
-    ],
-    [
-      "Signal K – open-source universal marine data exchange format",
-      "https://signalk.org/"
-    ]
-  ],
-  [
-    [
-      "2023-03-08, 06:05:23",
-      "https://news.ycombinator.com/item?id=35065796"
-    ],
-    [
-      "Fork of Facebook’s LLaMa model to run on CPU",
-      "https://github.com/markasoftware/llama-cpu"
-    ]
-  ],
-  [
-    [
       "2023-03-08, 06:03:10",
       "https://news.ycombinator.com/item?id=35065785"
     ],
     [
       "Lessons learned from 15 years of SumatraPDF, an open source Windows app (2021)",
       "https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-08, 01:00:23",
-      "https://news.ycombinator.com/item?id=35063771"
-    ],
-    [
-      "Jerry (YC S17) Is Hiring Sr PM &#x2F; Designers (SF&#x2F;Toronto&#x2F;Remote)",
-      "https://getjerry.com/careers"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 19:12:49",
-      "https://news.ycombinator.com/item?id=35059770"
-    ],
-    [
-      "Globally Distributed Elixir over Tailscale",
-      "https://www.richardtaylor.dev/articles/globally-distributed-elixir-over-tailscale"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-03-07, 11:09:56",
+      "https://news.ycombinator.com/item?id=35054027"
+    ],
+    [
+      "Floppydisk.com – Recycle 3.5“ Floppy Disks",
+      "https://www.floppydisk.com/recycle"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 09:34:44",
       "https://news.ycombinator.com/item?id=35053402"
     ],
@@ -277,16 +287,6 @@
     [
       "Linker Notes on AArch64",
       "https://maskray.me/blog/2023-03-05-linker-notes-on-aarch64"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 10:39:34",
-      "https://news.ycombinator.com/item?id=35039468"
-    ],
-    [
-      "FreeCAD User Book (2019)",
-      "https://bassmatifreecad.github.io/FreecadUserBook/en/index.htm"
     ]
   ],
   [
