@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-08, 17:01:06",
+      "https://news.ycombinator.com/item?id=35071541"
+    ],
+    [
+      "The Registers of Rust",
+      "https://without.boats/blog/the-registers-of-rust/"
+    ]
+  ],
+  [
+    [
+      "2023-03-08, 16:48:17",
+      "https://news.ycombinator.com/item?id=35071317"
+    ],
+    [
+      "Truck: CAD Kernel in Rust",
+      "https://github.com/ricosjp/truck"
+    ]
+  ],
+  [
+    [
       "2023-03-08, 16:01:49",
       "https://news.ycombinator.com/item?id=35070643"
     ],
@@ -71,26 +91,6 @@
   ],
   [
     [
-      "2023-03-08, 15:03:53",
-      "https://news.ycombinator.com/item?id=35069813"
-    ],
-    [
-      "AI is making it easier to create more noise, when all I want is good search",
-      "https://rachsmith.com/i-want-good-search/"
-    ]
-  ],
-  [
-    [
-      "2023-03-08, 14:58:32",
-      "https://news.ycombinator.com/item?id=35069740"
-    ],
-    [
-      "The privacy loophole in your doorbell",
-      "https://www.politico.com/news/2023/03/07/privacy-loophole-ring-doorbell-00084979"
-    ]
-  ],
-  [
-    [
       "2023-03-08, 14:37:05",
       "https://news.ycombinator.com/item?id=35069437"
     ],
@@ -117,16 +117,6 @@
     [
       "How secure is merely TRIMing all of a SSD&#x27;s blocks?",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/SSDBlockDiscardHowSecure"
-    ]
-  ],
-  [
-    [
-      "2023-03-08, 13:59:01",
-      "https://news.ycombinator.com/item?id=35069020"
-    ],
-    [
-      "How Californians are weaponizing environmental law to eliminate housing",
-      "https://www.theatlantic.com/ideas/archive/2021/03/signature-environmental-law-hurts-housing/618264/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Floppydisk.com – Recycle 3.5“ Floppy Disks",
       "https://www.floppydisk.com/recycle"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 10:50:22",
+      "https://news.ycombinator.com/item?id=35053879"
+    ],
+    [
+      "Content Moderation Patterns in Industry",
+      "https://eugeneyan.com/writing/content-moderation/"
     ]
   ],
   [
