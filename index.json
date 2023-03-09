@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-03-09, 01:33:21",
+      "https://news.ycombinator.com/item?id=35077285"
+    ],
+    [
+      "5.2% pay raise proposal for federal employees in 2024",
+      "https://www.washingtonpost.com/politics/2023/03/08/federal-pay-boost-biden-budget-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-03-09, 01:18:37",
+      "https://news.ycombinator.com/item?id=35077169"
+    ],
+    [
+      "Control Mario Kart 64 with Your Car over Can Bus",
+      "https://github.com/DanH42/CatchMeIfYouCAN"
+    ]
+  ],
+  [
+    [
       "2023-03-09, 01:00:07",
       "https://news.ycombinator.com/item?id=35077006"
     ],
     [
       "8vdX (YC W22) Is Hiring",
       "https://www.ycombinator.com/companies/8vdx/jobs/oKQSIyc-software-engineers-full-stack-front-end-back-end-developers"
+    ]
+  ],
+  [
+    [
+      "2023-03-09, 00:39:08",
+      "https://news.ycombinator.com/item?id=35076824"
+    ],
+    [
+      "Single File Elixir Scripts",
+      "https://fly.io/phoenix-files/single-file-elixir-scripts/"
     ]
   ],
   [
@@ -21,22 +51,22 @@
   ],
   [
     [
-      "2023-03-08, 23:54:58",
-      "https://news.ycombinator.com/item?id=35076436"
-    ],
-    [
-      "Tesla was likely on autopilot in deadly fire truck crash in Bay Area, feds say",
-      "https://www.sfgate.com/bayarea/article/tesla-autopilot-deadly-fire-truck-crash-17827415.php"
-    ]
-  ],
-  [
-    [
       "2023-03-08, 22:58:49",
       "https://news.ycombinator.com/item?id=35075961"
     ],
     [
       "Disclosure: Supervisor security vulnerability",
       "https://www.home-assistant.io/blog/2023/03/08/supervisor-security-disclosure/"
+    ]
+  ],
+  [
+    [
+      "2023-03-08, 20:32:39",
+      "https://news.ycombinator.com/item?id=35074357"
+    ],
+    [
+      "GDevelop: An open-source, cross-platform, free, and easy game-making app",
+      "https://gdevelop.io/"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2023-03-08, 19:21:18",
-      "https://news.ycombinator.com/item?id=35073515"
-    ],
-    [
-      "Stripe increases prices for US businesses starting June first, 2023",
-      "https://stripe.com/pricing#pricing-details"
-    ]
-  ],
-  [
-    [
       "2023-03-08, 18:08:16",
       "https://news.ycombinator.com/item?id=35072517"
     ],
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2023-03-08, 17:35:02",
-      "https://news.ycombinator.com/item?id=35072058"
-    ],
-    [
-      "FTC bars GoodRx from sharing consumers’ sensitive health info for advertising",
-      "https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-enforcement-action-bar-goodrx-sharing-consumers-sensitive-health-info-advertising"
-    ]
-  ],
-  [
-    [
       "2023-03-08, 17:15:00",
       "https://news.ycombinator.com/item?id=35071755"
     ],
     [
       "Show HN: CodeGPT.nvim – ChatGPT plugin for Neovim",
       "https://github.com/dpayne/CodeGPT.nvim"
-    ]
-  ],
-  [
-    [
-      "2023-03-08, 17:01:06",
-      "https://news.ycombinator.com/item?id=35071541"
-    ],
-    [
-      "The Registers of Rust",
-      "https://without.boats/blog/the-registers-of-rust/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-03-06, 23:49:20",
-      "https://news.ycombinator.com/item?id=35049561"
+      "2023-03-06, 15:29:41",
+      "https://news.ycombinator.com/item?id=35042154"
     ],
     [
-      "A Taste of Brazil: How Guaraná Soda Became a National Icon",
-      "https://notevenpast.org/a-taste-of-brazil-how-guarana-soda-became-a-national-icon/"
+      "The Office as Architectural Touchstone (2008)",
+      "https://www.nytimes.com/2008/03/02/nyregion/nyregionspecial2/02Rlandmark.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=35039133"
     ],
     [
-      "Ralf Brown&#x27;s Interrupt List – a comprehensive CMOS settings, port addresses",
+      "Ralf Brown&#x27;s Interrupt List",
       "https://en.wikipedia.org/wiki/Ralf_Brown%27s_Interrupt_List"
     ]
   ]
