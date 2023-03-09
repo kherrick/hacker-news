@@ -1,32 +1,42 @@
 [
   [
     [
+      "2023-03-09, 01:00:07",
+      "https://news.ycombinator.com/item?id=35077006"
+    ],
+    [
+      "8vdX (YC W22) Is Hiring",
+      "https://www.ycombinator.com/companies/8vdx/jobs/oKQSIyc-software-engineers-full-stack-front-end-back-end-developers"
+    ]
+  ],
+  [
+    [
+      "2023-03-09, 00:10:29",
+      "https://news.ycombinator.com/item?id=35076570"
+    ],
+    [
+      "Audio Engineer Explains NPR&#x27;s Signature Sound",
+      "https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/"
+    ]
+  ],
+  [
+    [
+      "2023-03-08, 23:54:58",
+      "https://news.ycombinator.com/item?id=35076436"
+    ],
+    [
+      "Tesla was likely on autopilot in deadly fire truck crash in Bay Area, feds say",
+      "https://www.sfgate.com/bayarea/article/tesla-autopilot-deadly-fire-truck-crash-17827415.php"
+    ]
+  ],
+  [
+    [
       "2023-03-08, 22:58:49",
       "https://news.ycombinator.com/item?id=35075961"
     ],
     [
       "Disclosure: Supervisor security vulnerability",
       "https://www.home-assistant.io/blog/2023/03/08/supervisor-security-disclosure/"
-    ]
-  ],
-  [
-    [
-      "2023-03-08, 22:09:09",
-      "https://news.ycombinator.com/item?id=35075430"
-    ],
-    [
-      "The Muse (YC W12) is hiring a director of FP&amp;A",
-      "https://www.themuse.com/jobs/themuse/director-financial-planning-analysis"
-    ]
-  ],
-  [
-    [
-      "2023-03-08, 20:30:37",
-      "https://news.ycombinator.com/item?id=35074329"
-    ],
-    [
-      "Effortless Performance Improvements in C++: std:vector",
-      "https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-vector/"
     ]
   ],
   [
@@ -71,12 +81,12 @@
   ],
   [
     [
-      "2023-03-08, 18:50:05",
-      "https://news.ycombinator.com/item?id=35073136"
+      "2023-03-08, 19:21:18",
+      "https://news.ycombinator.com/item?id=35073515"
     ],
     [
-      "Overhead of Python asyncio tasks",
-      "https://textual.textualize.io/blog/2023/03/08/overhead-of-python-asyncio-tasks/"
+      "Stripe increases prices for US businesses starting June first, 2023",
+      "https://stripe.com/pricing#pricing-details"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-03-06, 03:04:42",
-      "https://news.ycombinator.com/item?id=35037059"
+      "2023-03-06, 09:34:37",
+      "https://news.ycombinator.com/item?id=35039133"
     ],
     [
-      "The Vindication of Ask Jeeves",
-      "https://www.theatlantic.com/technology/archive/2023/03/ask-jeeves-chatgpt-bing-ai-chatbot-google-search/673275/"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 08:24:42",
-      "https://news.ycombinator.com/item?id=35019232"
-    ],
-    [
-      "What was the point of [ “x$var” = “xval” ]? (2021)",
-      "https://www.vidarholen.net/contents/blog/?p=1035"
+      "Ralf Brown&#x27;s Interrupt List – a comprehensive CMOS settings, port addresses",
+      "https://en.wikipedia.org/wiki/Ralf_Brown%27s_Interrupt_List"
     ]
   ]
 ]
