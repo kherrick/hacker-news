@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2023-03-09, 23:12:31",
-      "https://news.ycombinator.com/item?id=35088196"
+      "2023-03-09, 23:16:53",
+      "https://news.ycombinator.com/item?id=35088230"
     ],
     [
-      "Internet Story (2011) [video]",
-      "https://www.youtube.com/watch?v=g-SL4ejpP94"
+      "Getting LUKS, Btrfs, Hibernation and Swap file working in tandem",
+      "https://nwb.sh/btrfs_swapfile_hibernation/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-03-09, 15:08:46",
+      "https://news.ycombinator.com/item?id=35081942"
+    ],
+    [
+      "The End of the Beginning (2020)",
+      "https://stratechery.com/2020/the-end-of-the-beginning/"
+    ]
+  ],
+  [
+    [
       "2023-03-09, 14:29:57",
       "https://news.ycombinator.com/item?id=35081510"
     ],
@@ -227,16 +237,6 @@
     [
       "Writing a Kubernetes Operator",
       "https://metalbear.co/blog/writing-a-kubernetes-operator/"
-    ]
-  ],
-  [
-    [
-      "2023-03-09, 13:05:41",
-      "https://news.ycombinator.com/item?id=35080777"
-    ],
-    [
-      "Domain registrar Gandi gets bought out, removes free mailboxes",
-      "https://social.afront.org/@pbarker/109993372907209176"
     ]
   ],
   [
