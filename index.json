@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=35100251"
     ],
     [
-      "Blind: Meta&#x27;s layoff will happen March 14-16, cut ~1200 D1-D2-M1, M2 and most M0",
+      "Blind: Meta&#x27;s layoff rumor March 14-16, cut ~1200 D1-D2-M1, M2 and most M0",
       "https://www.teamblind.com/post/Meta-Layoff-Dates-KQp8AABt"
     ]
   ],
@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=35100176"
     ],
     [
-      "Twitter’s $42,000-per-Month API Prices Out Nearly Everyone",
+      "Twitter’s $42k-per-month API prices out nearly everyone",
       "https://www.wired.com/story/twitter-data-api-prices-out-nearly-everyone/"
+    ]
+  ],
+  [
+    [
+      "2023-03-10, 20:01:54",
+      "https://news.ycombinator.com/item?id=35100086"
+    ],
+    [
+      "LLaMA-7B in Pure C++ with full Apple Silicon support",
+      "https://github.com/ggerganov/llama.cpp"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "Microbiologist Investigates After Her Beef Soup Turned Blue in the Fridge",
       "https://www.iflscience.com/microbiologist-investigates-after-her-beef-soup-turned-blue-in-the-freezer-67894"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 19:18:21",
-      "https://news.ycombinator.com/item?id=35099424"
-    ],
-    [
-      "GPT 4 coming next week",
-      "https://www.theinsaneapp.com/2023/03/microsoft-to-launch-gpt4-next-week.html"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Launch HN: Defer (YC W23) – Zero-infrastructure background jobs for Node.js",
       "https://news.ycombinator.com/item?id=35096366"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 15:53:50",
-      "https://news.ycombinator.com/item?id=35095958"
-    ],
-    [
-      "KGB Defector Yuri Bezmenov 1985 Interview – Idealogical Subversion",
-      "https://www.youtube.com/watch?v=pOmXiapfCs8"
     ]
   ],
   [
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=35091768"
     ],
     [
-      "How to Yubikey: A Configuration Cheatsheet",
+      "How to Yubikey",
       "https://debugging.works/blog/yubikey-cheatsheet/"
     ]
   ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=35090989"
     ],
     [
-      "Steel threads are a technique that will make you a better engineer",
+      "Steel Threads are a powerful but obscure software design approach",
       "https://www.rubick.com/steel-threads/"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "The Big City; Aftermath of 40 Hours in an Elevator (1999)",
       "https://www.nytimes.com/1999/10/28/nyregion/the-big-city-aftermath-of-40-hours-in-an-elevator.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-09, 13:23:48",
+      "https://news.ycombinator.com/item?id=35080894"
+    ],
+    [
+      "The CoreDNS Cache Poisoning Conjecture",
+      "http://sbudella.altervista.org/blog/20230308-coredns-conjecture.html"
     ]
   ],
   [
