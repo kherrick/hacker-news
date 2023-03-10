@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-10, 19:01:27",
+      "https://news.ycombinator.com/item?id=35099267"
+    ],
+    [
+      "Google, Meta hired talent to do &#x27;fake work&#x27;",
+      "https://fortune.com/2023/03/10/google-over-hired-talent-do-nothing-fake-work-stop-working-rivals-former-paypal-boss-keith-rabois/"
+    ]
+  ],
+  [
+    [
       "2023-03-10, 18:34:21",
       "https://news.ycombinator.com/item?id=35098830"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-03-10, 14:56:18",
-      "https://news.ycombinator.com/item?id=35095031"
-    ],
-    [
-      "Smartphones and social media are destroying children’s mental health",
-      "https://www.ft.com/content/0e2f6f8e-bb03-4fa7-8864-f48f576167d2"
-    ]
-  ],
-  [
-    [
       "2023-03-10, 14:44:49",
       "https://news.ycombinator.com/item?id=35094866"
     ],
@@ -127,16 +127,6 @@
     [
       "Dutch Police Collecting Demonstrators&#x27; Personal Data on a Large Scale",
       "https://nltimes.nl/2023/03/10/police-collecting-demonstrators-personal-data-large-scale"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 14:10:54",
-      "https://news.ycombinator.com/item?id=35094466"
-    ],
-    [
-      "SVB in talks to sell itself after attempts to raise capital fail",
-      "https://www.cnbc.com/2023/03/10/silicon-valley-bank-financial-in-talks-to-sell-itself-after-attempts-to-raise-capital-have-failed-sources-say.html"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Carp lang: statically typed Lisp, no GC",
       "https://www.eriksvedang.com/carp"
+    ]
+  ],
+  [
+    [
+      "2023-03-10, 08:24:49",
+      "https://news.ycombinator.com/item?id=35091917"
+    ],
+    [
+      "Adventures in REPL Implementation",
+      "https://tonsky.me/blog/clojure-sublimed-3/"
     ]
   ],
   [
