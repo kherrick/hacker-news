@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-03-10, 21:00:35",
+      "https://news.ycombinator.com/item?id=35100971"
+    ],
+    [
+      "Charge Robotics (YC S21) is hiring meches to build robots that build solar farms",
+      "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer"
+    ]
+  ],
+  [
+    [
+      "2023-03-10, 20:45:52",
+      "https://news.ycombinator.com/item?id=35100771"
+    ],
+    [
+      "Growing crops under solar panels",
+      "https://www.fastcompany.com/90861486/agrivoltaics-crops-under-solar-panels-good-for-panels"
+    ]
+  ],
+  [
+    [
       "2023-03-10, 20:43:57",
       "https://news.ycombinator.com/item?id=35100743"
     ],
     [
       "30% of YC companies exposed through SVB can’t make payroll in the next 30 days",
       "https://twitter.com/garrytan/status/1634286688922132481"
+    ]
+  ],
+  [
+    [
+      "2023-03-10, 20:43:30",
+      "https://news.ycombinator.com/item?id=35100734"
+    ],
+    [
+      "How did Google go so wrong so quickly?",
+      "https://news.ycombinator.com/item?id=35100734"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "The Demise of Silicon Valley Bank",
       "https://www.netinterest.co/p/the-demise-of-silicon-valley-bank"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 17:01:14",
-      "https://news.ycombinator.com/item?id=35097181"
-    ],
-    [
-      "Motion (YC W20) Is Hiring a Senior SRE and Software Engineers",
-      "https://jobs.ashbyhq.com/motion?utm_source=hn"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-03-10, 06:09:14",
-      "https://news.ycombinator.com/item?id=35090989"
-    ],
-    [
-      "Steel Threads are a powerful but obscure software design approach",
-      "https://www.rubick.com/steel-threads/"
-    ]
-  ],
-  [
-    [
       "2023-03-10, 03:29:38",
       "https://news.ycombinator.com/item?id=35090049"
     ],
@@ -287,16 +297,6 @@
     [
       "The CoreDNS Cache Poisoning Conjecture",
       "http://sbudella.altervista.org/blog/20230308-coredns-conjecture.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-09, 12:57:21",
-      "https://news.ycombinator.com/item?id=35080707"
-    ],
-    [
-      "How to Get Started with Dbt",
-      "https://www.blef.fr/get-started-dbt/"
     ]
   ]
 ]
