@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-03-10, 11:11:12",
-      "https://news.ycombinator.com/item?id=35092969"
+      "2023-03-10, 11:04:11",
+      "https://news.ycombinator.com/item?id=35092935"
     ],
     [
-      "More than $70B wiped off crypto market in 24 hours as BTC drops 8% below $20K",
-      "https://www.cnbc.com/2023/03/10/bitcoin-falls-below-20000-63-billion-wiped-off-cryptocurrency-market.html"
+      "Common Mac OS X Cursors",
+      "https://tobiasahlin.com/blog/common-mac-os-x-lion-cursors/"
     ]
   ],
   [
@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-03-10, 08:24:49",
+      "https://news.ycombinator.com/item?id=35091917"
+    ],
+    [
+      "Adventures in REPL Implementation",
+      "https://tonsky.me/blog/clojure-sublimed-3/"
+    ]
+  ],
+  [
+    [
       "2023-03-10, 08:04:36",
       "https://news.ycombinator.com/item?id=35091768"
     ],
@@ -77,16 +87,6 @@
     [
       "GM offers buyouts to ‘majority’ of U.S. salaried workers",
       "https://www.cnbc.com/2023/03/09/gm-buyouts-us-salaried-workers.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 07:28:46",
-      "https://news.ycombinator.com/item?id=35091505"
-    ],
-    [
-      "Sell-off in US bank stocks due to concerns over solvency of Silicon Valley Bank",
-      "https://www.afr.com/markets/equity-markets/asx-tumbles-2-3pc-major-banks-shares-fall-20230310-p5cr3f"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Nearly 40% of software engineers will only work remotely",
       "https://www.techtarget.com/searchhrsoftware/news/365531979/Nearly-40-of-software-engineers-will-only-work-remotely"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 04:27:41",
-      "https://news.ycombinator.com/item?id=35090388"
-    ],
-    [
-      "HP outrages printer users with firmware update suddenly bricking third-party ink",
-      "https://arstechnica.com/gadgets/2023/03/customers-fume-as-hp-blocks-third-party-ink-from-more-of-its-printers/"
     ]
   ],
   [
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=35088230"
     ],
     [
-      "Getting LUKS, Btrfs, Hibernation and Swap file working in tandem",
+      "Arch Linux Btrfs with hibernation in a swapfile",
       "https://nwb.sh/btrfs_swapfile_hibernation/"
     ]
   ],
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=35086866"
     ],
     [
-      "Cobble_stone (The Texture of Your Childhood) (2021)",
+      "Cobble_stone – The texture of your childhood (2021)",
       "https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "The Quest for Netflix on Asahi Linux",
       "https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-09, 10:35:59",
+      "https://news.ycombinator.com/item?id=35079971"
+    ],
+    [
+      "JavaScript and TypeScript features of the last 3 years",
+      "https://medium.com/@LinusSchlumberger/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42"
     ]
   ],
   [
