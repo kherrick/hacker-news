@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-10, 20:13:46",
+      "https://news.ycombinator.com/item?id=35100251"
+    ],
+    [
+      "Blind: Meta&#x27;s layoff will happen March 14-16, cut ~1200 D1-D2-M1, M2 and most M0",
+      "https://www.teamblind.com/post/Meta-Layoff-Dates-KQp8AABt"
+    ]
+  ],
+  [
+    [
+      "2023-03-10, 20:09:15",
+      "https://news.ycombinator.com/item?id=35100176"
+    ],
+    [
+      "Twitter’s $42,000-per-Month API Prices Out Nearly Everyone",
+      "https://www.wired.com/story/twitter-data-api-prices-out-nearly-everyone/"
+    ]
+  ],
+  [
+    [
       "2023-03-10, 19:34:57",
       "https://news.ycombinator.com/item?id=35099656"
     ],
@@ -27,16 +47,6 @@
     [
       "GPT 4 coming next week",
       "https://www.theinsaneapp.com/2023/03/microsoft-to-launch-gpt4-next-week.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 19:01:27",
-      "https://news.ycombinator.com/item?id=35099267"
-    ],
-    [
-      "Google, Meta hired talent to do &#x27;fake work&#x27;",
-      "https://fortune.com/2023/03/10/google-over-hired-talent-do-nothing-fake-work-stop-working-rivals-former-paypal-boss-keith-rabois/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-03-10, 08:24:49",
-      "https://news.ycombinator.com/item?id=35091917"
-    ],
-    [
-      "Adventures in REPL Implementation",
-      "https://tonsky.me/blog/clojure-sublimed-3/"
-    ]
-  ],
-  [
-    [
       "2023-03-10, 08:04:36",
       "https://news.ycombinator.com/item?id=35091768"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-03-09, 22:52:29",
-      "https://news.ycombinator.com/item?id=35087973"
-    ],
-    [
-      "Understanding Social Media Recommendation Algorithms",
-      "https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms"
-    ]
-  ],
-  [
-    [
       "2023-03-09, 16:28:22",
       "https://news.ycombinator.com/item?id=35083054"
     ],
     [
       "The Big City; Aftermath of 40 Hours in an Elevator (1999)",
       "https://www.nytimes.com/1999/10/28/nyregion/the-big-city-aftermath-of-40-hours-in-an-elevator.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-09, 12:57:21",
+      "https://news.ycombinator.com/item?id=35080707"
+    ],
+    [
+      "How to Get Started with Dbt",
+      "https://www.blef.fr/get-started-dbt/"
     ]
   ]
 ]
