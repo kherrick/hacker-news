@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-03-10, 01:15:30",
+      "https://news.ycombinator.com/item?id=35089240"
+    ],
+    [
+      "Rspack: A fast Rust-based web bundler",
+      "https://github.com/web-infra-dev/rspack"
+    ]
+  ],
+  [
+    [
       "2023-03-10, 01:04:03",
       "https://news.ycombinator.com/item?id=35089169"
     ],
@@ -227,16 +237,6 @@
     [
       "Bank run on Silicon Valley Bank?",
       "https://techcrunch.com/2023/03/09/silicon-valley-banks-shares-are-tanking-as-a-mess-unfolds/"
-    ]
-  ],
-  [
-    [
-      "2023-03-09, 18:34:24",
-      "https://news.ycombinator.com/item?id=35084841"
-    ],
-    [
-      "Taichi lang: High-performance parallel programming in Python",
-      "https://www.taichi-lang.org/"
     ]
   ],
   [
