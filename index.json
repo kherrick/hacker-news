@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-11, 14:42:55",
+      "https://news.ycombinator.com/item?id=35108635"
+    ],
+    [
+      "Startups that use Silicon Valley Bank are freaking out over payroll",
+      "https://www.businessinsider.com/startups-silicon-valley-bank-worried-wont-pay-employees-next-week-2023-3"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 14:19:27",
+      "https://news.ycombinator.com/item?id=35108453"
+    ],
+    [
+      "Silicon Valley Bank is the second-largest US bank failure in history",
+      "https://qz.com/silicon-valley-bank-is-the-second-largest-us-bank-failu-1850214350"
+    ]
+  ],
+  [
+    [
       "2023-03-11, 14:06:23",
       "https://news.ycombinator.com/item?id=35108364"
     ],
@@ -67,16 +87,6 @@
     [
       "Box64 – Linux Userspace x86_64 Emulator Targeted at ARM64 Linux Devices",
       "https://github.com/ptitSeb/box64"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 10:49:03",
-      "https://news.ycombinator.com/item?id=35107174"
-    ],
-    [
-      "South Korea proposes a 69-hour workweek, up from an already long 52",
-      "https://www.washingtonpost.com/world/2023/03/11/south-korea-work-week/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Version SAT (2016)",
       "https://research.swtch.com/version-sat?ref=the-feedback-loop"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 20:16:57",
-      "https://news.ycombinator.com/item?id=35100297"
-    ],
-    [
-      "Disambiguating Arm, Arm ARM, ARMv9, ARM9, ARM64, AArch64, A64, A78, ...",
-      "https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/"
     ]
   ],
   [
