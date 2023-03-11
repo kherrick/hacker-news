@@ -21,22 +21,12 @@
   ],
   [
     [
-      "2023-03-11, 11:24:03",
-      "https://news.ycombinator.com/item?id=35107357"
+      "2023-03-11, 10:59:46",
+      "https://news.ycombinator.com/item?id=35107238"
     ],
     [
-      "SVBUK Taken in to Involvency",
-      "https://www.bankofengland.co.uk/news/2023/march/boe-statement-silicon-valley-bank-uk"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 11:17:32",
-      "https://news.ycombinator.com/item?id=35107324"
-    ],
-    [
-      "HP laptop can&#x27;t connect to WiFi with letter &#x27;p&#x27; in the password",
-      "https://h30434.www3.hp.com/t5/Notebook-Software-and-How-To-Questions/P-button-in-WiFi-password-not-working-Win10/m-p/6722692#M246918"
+      "Silicon Valley Bank Fails, How Bad Will the Fallout Be?",
+      "https://www.nakedcapitalism.com/2023/03/silicon-valley-bank-fails-with-deposits-of-many-venture-backed-companies-frozen-how-bad-will-the-fallout-be.html"
     ]
   ],
   [
@@ -67,6 +57,16 @@
     [
       "Running LLaMA 7B on a 64GB M2 MacBook Pro with Llama.cpp",
       "https://til.simonwillison.net/llms/llama-7b-m2"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 04:24:54",
+      "https://news.ycombinator.com/item?id=35105324"
+    ],
+    [
+      "Arnold Schwarzenegger’s Last Act",
+      "https://www.theatlantic.com/magazine/archive/2023/04/arnold-schwarzenegger-ukraine-covid-speech/673089/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-03-10, 20:16:57",
+      "https://news.ycombinator.com/item?id=35100297"
+    ],
+    [
+      "Disambiguating Arm, Arm ARM, ARMv9, ARM9, ARM64, AArch64, A64, A78, ...",
+      "https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/"
+    ]
+  ],
+  [
+    [
       "2023-03-10, 20:01:54",
       "https://news.ycombinator.com/item?id=35100086"
     ],
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=35092049"
     ],
     [
-      "What Is Systems Programming, Really?",
+      "What Is Systems Programming, Really? (2018)",
       "https://willcrichton.net/notes/systems-programming/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "The Internet’s Richest Fitness Resource Is a Site from 1999",
       "https://www.newyorker.com/culture/rabbit-holes/the-internets-richest-fitness-resource-is-a-site-from-1999"
-    ]
-  ],
-  [
-    [
-      "2023-03-09, 13:07:24",
-      "https://news.ycombinator.com/item?id=35080786"
-    ],
-    [
-      "The Basics of Arm64 Assembly",
-      "https://www.deusinmachina.net/p/the-basics-of-arm64-assembly"
     ]
   ],
   [
