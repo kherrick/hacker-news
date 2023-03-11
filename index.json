@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-11, 12:00:15",
+      "https://news.ycombinator.com/item?id=35107579"
+    ],
+    [
+      "Paperspace (YC W15) is hiring to help developers build and run LLMs",
+      "https://www.paperspace.com/careers/positions?gh_src=652ffa365us"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 11:27:02",
+      "https://news.ycombinator.com/item?id=35107369"
+    ],
+    [
+      "Box64 – Linux Userspace x86_64 Emulator Targeted at ARM64 Linux Devices",
+      "https://github.com/ptitSeb/box64"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 11:24:03",
+      "https://news.ycombinator.com/item?id=35107357"
+    ],
+    [
+      "SVBUK Taken in to Involvency",
+      "https://www.bankofengland.co.uk/news/2023/march/boe-statement-silicon-valley-bank-uk"
+    ]
+  ],
+  [
+    [
       "2023-03-11, 11:17:32",
       "https://news.ycombinator.com/item?id=35107324"
     ],
@@ -37,16 +67,6 @@
     [
       "Running LLaMA 7B on a 64GB M2 MacBook Pro with Llama.cpp",
       "https://til.simonwillison.net/llms/llama-7b-m2"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 04:24:54",
-      "https://news.ycombinator.com/item?id=35105324"
-    ],
-    [
-      "Arnold Schwarzenegger’s Last Act",
-      "https://www.theatlantic.com/magazine/archive/2023/04/arnold-schwarzenegger-ukraine-covid-speech/673089/"
     ]
   ],
   [
@@ -151,36 +171,6 @@
   ],
   [
     [
-      "2023-03-10, 21:00:35",
-      "https://news.ycombinator.com/item?id=35100971"
-    ],
-    [
-      "Charge Robotics (YC S21) is hiring meches to build robots that build solar farms",
-      "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 20:45:52",
-      "https://news.ycombinator.com/item?id=35100771"
-    ],
-    [
-      "Growing crops under solar panels",
-      "https://www.fastcompany.com/90861486/agrivoltaics-crops-under-solar-panels-good-for-panels"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 20:16:57",
-      "https://news.ycombinator.com/item?id=35100297"
-    ],
-    [
-      "Disambiguating Arm, Arm ARM, ARMv9, ARM9, ARM64, AArch64, A64, A78, ...",
-      "https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/"
-    ]
-  ],
-  [
-    [
       "2023-03-10, 20:01:54",
       "https://news.ycombinator.com/item?id=35100086"
     ],
@@ -277,6 +267,16 @@
     [
       "The CoreDNS Cache Poisoning Conjecture",
       "http://sbudella.altervista.org/blog/20230308-coredns-conjecture.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-09, 13:14:59",
+      "https://news.ycombinator.com/item?id=35080836"
+    ],
+    [
+      "The Internet’s Richest Fitness Resource Is a Site from 1999",
+      "https://www.newyorker.com/culture/rabbit-holes/the-internets-richest-fitness-resource-is-a-site-from-1999"
     ]
   ],
   [
