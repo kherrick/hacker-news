@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-03-11, 03:47:22",
+      "https://news.ycombinator.com/item?id=35105039"
+    ],
+    [
+      "Coinbase suspending USDC:USD conversions over the weekend",
+      "https://twitter.com/coinbase/status/1634399032767307776"
+    ]
+  ],
+  [
+    [
       "2023-03-11, 03:20:51",
       "https://news.ycombinator.com/item?id=35104866"
     ],
     [
-      "Circle has $3.3B of USDC’s $40B reserves still at SVB",
+      "$3.3B of the ~$40 billion of USDC reserves remain at SVB",
       "https://twitter.com/circle/status/1634391505988206592"
     ]
   ],
@@ -21,21 +31,11 @@
   ],
   [
     [
-      "2023-03-11, 02:43:36",
-      "https://news.ycombinator.com/item?id=35104590"
-    ],
-    [
-      "Silicon Valley Bank&#x27;s Chief Risk Officer Joined 2 Months Ago",
-      "https://www.svb.com/news/company-news/svb-hires-kim-olson-as-chief-risk-officer"
-    ]
-  ],
-  [
-    [
       "2023-03-11, 02:12:19",
       "https://news.ycombinator.com/item?id=35104396"
     ],
     [
-      "SVB Depositors, Investors Tried to Pull $42B Thursday",
+      "SVB depositors, investors tried to pull $42B Thursday",
       "https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday"
     ]
   ],
@@ -47,16 +47,6 @@
     [
       "First Republic Bank files 8-K – Tech only 4% of total deposits; no sector &gt;9%",
       "https://ir.firstrepublic.com/static-files/295faa27-f208-4936-81ff-6c8bfa0fb6b5"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 00:36:25",
-      "https://news.ycombinator.com/item?id=35103526"
-    ],
-    [
-      "Python Basics Onepager",
-      "https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/onepager_python_basics.md"
     ]
   ],
   [
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2023-03-10, 22:26:02",
-      "https://news.ycombinator.com/item?id=35102089"
-    ],
-    [
-      "Report from the California Department of Financial Protection on SVB [pdf]",
-      "https://dfpi.ca.gov/wp-content/uploads/sites/337/2023/03/DFPI-Orders-Silicon-Valley-Bank-03102023.pdf"
-    ]
-  ],
-  [
-    [
       "2023-03-10, 21:31:44",
       "https://news.ycombinator.com/item?id=35101378"
     ],
@@ -135,7 +115,7 @@
       "https://news.ycombinator.com/item?id=35101102"
     ],
     [
-      "The Collapse of SVB Exposes the Largest Crack in the Economy",
+      "The collapse of SVB exposes the largest crack in the economy",
       "http://www.brooock.com/a/svb-collapse-exposes-cracks-in-economy"
     ]
   ],
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2023-03-10, 11:15:19",
+      "https://news.ycombinator.com/item?id=35092998"
+    ],
+    [
+      "What a good debugger can do",
+      "https://werat.dev/blog/what-a-good-debugger-can-do/"
+    ]
+  ],
+  [
+    [
       "2023-03-10, 10:23:27",
       "https://news.ycombinator.com/item?id=35092665"
     ],
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=35085409"
     ],
     [
-      "Greenland’s Misunderstood Winter Delicacy",
+      "Kiviaq – Greenland’s misunderstood winter delicacy",
       "https://www.atlasobscura.com/articles/what-is-kiviaq"
+    ]
+  ],
+  [
+    [
+      "2023-03-09, 17:17:14",
+      "https://news.ycombinator.com/item?id=35083689"
+    ],
+    [
+      "Debconf&#x27;s questions, or whiptail, doesn&#x27;t always work in xterms",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/DebconfWhiptailVsXterm"
     ]
   ],
   [
