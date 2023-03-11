@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-03-11, 19:09:24",
+      "https://news.ycombinator.com/item?id=35111517"
+    ],
+    [
+      "Not just SVB. There have been 562 bank failures since 2000",
+      "https://yarn.pranshum.com/banks"
+    ]
+  ],
+  [
+    [
       "2023-03-11, 18:56:05",
       "https://news.ycombinator.com/item?id=35111371"
     ],
     [
       "See the First Complete Map of an Insect’s Brain",
       "https://www.smithsonianmag.com/smart-news/see-the-first-complete-map-of-an-insects-brain-180981778/"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 18:45:41",
+      "https://news.ycombinator.com/item?id=35111265"
+    ],
+    [
+      "Wild macaques challenge the origin of intentional tool production",
+      "https://www.science.org/doi/10.1126/sciadv.ade8159"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-03-11, 16:06:21",
-      "https://news.ycombinator.com/item?id=35109477"
-    ],
-    [
-      "Why I Use Old Hardware",
-      "https://drewdevault.com/2019/01/23/Why-I-use-old-hardware.html"
-    ]
-  ],
-  [
-    [
       "2023-03-11, 16:00:59",
       "https://news.ycombinator.com/item?id=35109420"
     ],
@@ -161,22 +171,22 @@
   ],
   [
     [
-      "2023-03-11, 15:08:52",
-      "https://news.ycombinator.com/item?id=35108822"
-    ],
-    [
-      "Write Posix Shell",
-      "https://j3s.sh/thought/write-posix-shell.html"
-    ]
-  ],
-  [
-    [
       "2023-03-11, 14:51:45",
       "https://news.ycombinator.com/item?id=35108692"
     ],
     [
       "An East African Kingdom Changed T Roosevelt and the Course of American Democracy",
       "https://www.politico.com/news/magazine/2023/03/10/east-african-kingdom-theodore-roosevelt-00085962"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 14:45:48",
+      "https://news.ycombinator.com/item?id=35108652"
+    ],
+    [
+      "Isaac Asimov’s laws of robotics (1965) [video]",
+      "https://www.youtube.com/watch?v=P9b4tg640ys"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Patterns is building a platform to abstract away data science busywork",
       "https://techcrunch.com/2023/03/09/y-combinator-backed-patterns-is-building-a-platform-to-abstract-away-data-science-busywork/"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 12:37:38",
-      "https://news.ycombinator.com/item?id=35107810"
-    ],
-    [
-      "IHP open source 130 nm BiCMOS PDK with 500 GHz fmax transistors",
-      "https://github.com/IHP-GmbH/IHP-Open-PDK"
     ]
   ],
   [
