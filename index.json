@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=35111517"
     ],
     [
-      "Not just SVB. There have been 562 bank failures since 2000",
+      "There have been 562 bank failures since 2000",
       "https://yarn.pranshum.com/banks"
     ]
   ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=35109234"
     ],
     [
-      "A Suspiciously Criminal Portfolio Website",
+      "A suspiciously criminal portfolio website",
       "http://blueshirt.com/"
     ]
   ],
@@ -217,6 +217,16 @@
     [
       "Living the writing life means living with failure",
       "https://www.washingtonpost.com/books/2023/03/06/living-writing-life-means-living-with-failure/"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 14:48:55",
+      "https://news.ycombinator.com/item?id=35108672"
+    ],
+    [
+      "Common Beginner Mistakes with React",
+      "https://www.joshwcomeau.com/react/common-beginner-mistakes/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Llama.cpp: Port of Facebook&#x27;s LLaMA model in C&#x2F;C++, with Apple Silicon support",
       "https://github.com/ggerganov/llama.cpp"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 16:46:06",
-      "https://news.ycombinator.com/item?id=35096877"
-    ],
-    [
-      "FDIC Takes over Silicon Valley Bank",
-      "https://www.fdic.gov/news/press-releases/2023/pr23016.html"
     ]
   ],
   [
