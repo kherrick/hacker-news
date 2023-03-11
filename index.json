@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-03-10, 22:58:35",
-      "https://news.ycombinator.com/item?id=35102454"
+      "2023-03-10, 23:29:43",
+      "https://news.ycombinator.com/item?id=35102795"
     ],
     [
-      "SF payroll firm Rippling unable to pay out after Silicon Valley Bank collapse",
-      "https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php"
+      "What does Silicon Valley Bank’s collapse mean for the financial system?",
+      "https://www.economist.com/finance-and-economics/2023/03/10/what-does-silicon-valley-banks-collapse-mean-for-the-financial-system"
     ]
   ],
   [
     [
-      "2023-03-10, 22:49:46",
-      "https://news.ycombinator.com/item?id=35102369"
+      "2023-03-10, 22:58:35",
+      "https://news.ycombinator.com/item?id=35102454"
     ],
     [
-      "Roku says 26% of its cash reserves are stuck in Silicon Valley Bank",
-      "https://www.cnbc.com/2023/03/10/roku-says-26percent-cash-reserves-stuck-in-silicon-valley-bank.html"
+      "SF payroll firm Rippling has to delay payouts after Silicon Valley Bank collapse",
+      "https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php"
     ]
   ],
   [
@@ -25,18 +25,18 @@
       "https://news.ycombinator.com/item?id=35102339"
     ],
     [
-      "$Roku filed a Form 8-K revealing that $487M stuck at SVB (25% of cash)",
+      "Roku filed an 8-K saying that of its $1.9B of cash, $487M is stuck at SVB",
       "https://vikashruhil.medium.com/roku-filed-an-8-k-saying-that-of-its-1-9-dc03147d4d58"
     ]
   ],
   [
     [
-      "2023-03-10, 22:44:32",
-      "https://news.ycombinator.com/item?id=35102306"
+      "2023-03-10, 22:45:18",
+      "https://news.ycombinator.com/item?id=35102318"
     ],
     [
-      "SVB CEO Greg Becker cashed out $2M just before the collapse",
-      "https://www.marketwatch.com/story/silicon-valley-bank-ceo-greg-becker-cashed-out-2-million-just-before-the-collapse-e45c6b53"
+      "Saving 4M books from landfill",
+      "http://blog.archive.org/2023/03/08/saving-4-million-books-from-landfill/"
     ]
   ],
   [
@@ -45,18 +45,18 @@
       "https://news.ycombinator.com/item?id=35102196"
     ],
     [
-      "Emergency credit line for SVB customers",
+      "Emergency bridge loan for SVB customers",
       "https://www.brex.com/svb-emergency-line"
     ]
   ],
   [
     [
-      "2023-03-10, 22:31:48",
-      "https://news.ycombinator.com/item?id=35102160"
+      "2023-03-10, 22:26:02",
+      "https://news.ycombinator.com/item?id=35102089"
     ],
     [
-      "Facebook Parent Plans New Job Cuts That Could Match Last Year’s Tally",
-      "https://www.wsj.com/articles/facebook-parent-plans-new-job-cuts-that-could-match-last-years-tally-2d5b256c"
+      "Report from the California Department of Financial Protection on SVB [pdf]",
+      "https://dfpi.ca.gov/wp-content/uploads/sites/337/2023/03/DFPI-Orders-Silicon-Valley-Bank-03102023.pdf"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=35101378"
     ],
     [
-      "Mistakes I Made as an Engineer, but Had to Become a Manager to See",
+      "Mistakes I made as an engineer, but had to become a manager to see",
       "https://www.developing.dev/p/3-mistakes-i-made-as-an-engineer"
     ]
   ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=35100086"
     ],
     [
-      "LLaMA-7B in Pure C++ with full Apple Silicon support",
+      "Llama.cpp: Port of Facebook&#x27;s LLaMA model in C&#x2F;C++, with Apple Silicon support",
       "https://github.com/ggerganov/llama.cpp"
     ]
   ],
@@ -221,11 +221,21 @@
   ],
   [
     [
+      "2023-03-10, 11:54:44",
+      "https://news.ycombinator.com/item?id=35093273"
+    ],
+    [
+      "Why Write?",
+      "https://fs.blog/why-write/"
+    ]
+  ],
+  [
+    [
       "2023-03-10, 11:30:03",
       "https://news.ycombinator.com/item?id=35093100"
     ],
     [
-      "Who Reads Your Email?",
+      "Who reads your email?",
       "https://www.netmeister.org/blog/mx-diversity.html"
     ]
   ],
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2023-03-10, 09:57:15",
-      "https://news.ycombinator.com/item?id=35092521"
+      "2023-03-10, 08:04:36",
+      "https://news.ycombinator.com/item?id=35091768"
     ],
     [
-      "How to start a rocket engine",
-      "https://everydayastronaut.com/how-to-start-a-rocket-engine/"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 09:29:29",
-      "https://news.ycombinator.com/item?id=35092351"
-    ],
-    [
-      "Allegations of Scientific Misconduct Mount as Physicist Makes His Biggest Claim",
-      "https://physics.aps.org/articles/v16/40"
+      "How to Yubikey",
+      "https://debugging.works/blog/yubikey-cheatsheet/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-03-09, 16:28:22",
-      "https://news.ycombinator.com/item?id=35083054"
+      "2023-03-09, 17:17:14",
+      "https://news.ycombinator.com/item?id=35083689"
     ],
     [
-      "The Big City; Aftermath of 40 Hours in an Elevator (1999)",
-      "https://www.nytimes.com/1999/10/28/nyregion/the-big-city-aftermath-of-40-hours-in-an-elevator.html"
+      "Debconf&#x27;s questions, or whiptail, doesn&#x27;t always work in xterms",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/DebconfWhiptailVsXterm"
     ]
   ],
   [
