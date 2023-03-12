@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-03-12, 04:34:18",
+      "https://news.ycombinator.com/item?id=35116705"
+    ],
+    [
+      "Show HN: Hacker News LCD Badge",
+      "https://github.com/jareklupinski/hackernews-badge"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 04:08:06",
       "https://news.ycombinator.com/item?id=35116560"
     ],
     [
       "The rise and fall of Birchbox, the startup valued at nearly $500M has vanished",
       "https://www.businessinsider.com/birchbox-rise-fall-company-history-2023-3"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 03:14:26",
+      "https://news.ycombinator.com/item?id=35116107"
+    ],
+    [
+      "An open-source database of companies affected (or not) by the collapse of SVB",
+      "https://affectedbysvbornot.com/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Large language models are having their Stable Diffusion moment",
       "https://simonwillison.net/2023/Mar/11/llama/"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 18:56:53",
-      "https://news.ycombinator.com/item?id=35111379"
-    ],
-    [
-      "Mozilla&#x2F;Sops: Simple and flexible tool for managing secrets",
-      "https://github.com/mozilla/sops"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The threat on your desk: Building an evil USB-C dock",
       "https://research.aurainfosec.io/pentest/threat-on-your-desk-evil-usbc-dock/"
-    ]
-  ],
-  [
-    [
-      "2023-03-09, 12:19:27",
-      "https://news.ycombinator.com/item?id=35080485"
-    ],
-    [
-      "What Is Synthetic Data? The Good, the Bad, and the Ugly",
-      "https://www.benthamsgaze.org/2023/03/01/what-is-synthetic-data-the-good-the-bad-and-the-ugly/"
     ]
   ]
 ]
