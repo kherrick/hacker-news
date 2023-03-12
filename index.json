@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-12, 16:00:00",
+      "https://news.ycombinator.com/item?id=35121697"
+    ],
+    [
+      "20hrs on a Qantas plane: the future of aviation or a fresh hell in economy?",
+      "https://www.theguardian.com/world/2023/mar/12/twenty-hours-on-a-qantas-plane-is-this-the-future-of-aviation-or-a-fresh-hell-in-economy"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 15:30:32",
       "https://news.ycombinator.com/item?id=35121228"
     ],
@@ -17,6 +27,16 @@
     [
       "Ask HN: Do you think ML model weights are copyrightable?",
       "https://news.ycombinator.com/item?id=35121093"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 15:15:18",
+      "https://news.ycombinator.com/item?id=35121012"
+    ],
+    [
+      "Ask HN: Why is the hunger for RAM never satisfied?",
+      "https://news.ycombinator.com/item?id=35121012"
     ]
   ],
   [
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2023-03-12, 15:01:27",
-      "https://news.ycombinator.com/item?id=35120801"
-    ],
-    [
-      "All travelers to the UK will need pre-authorization by 2025",
-      "https://www.cnbc.com/2023/03/09/all-travelers-to-the-uk-will-need-digital-pre-authorization-from-2024.html"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 14:59:03",
       "https://news.ycombinator.com/item?id=35120773"
     ],
     [
       "Peter Thiel&#x27;s Founders Fund pulled cash from SVB before collapse: Report",
       "https://www.businessinsider.com/peter-thiel-founders-fund-pulled-cash-svb-before-collapse-report-2023-3"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 14:38:29",
-      "https://news.ycombinator.com/item?id=35120538"
-    ],
-    [
-      "Microsoft is going to use Reflect to spot student with inadequate feelings",
-      "https://unlocked.microsoft.com/reflect-feelings-monster/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Show HN: Terminal Based Wikipedia",
       "https://github.com/yashsinghcodes/wik"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 12:31:34",
-      "https://news.ycombinator.com/item?id=35119317"
-    ],
-    [
-      "PeopleDAO “exploited” by Google Docs edit",
-      "https://twitter.com/The_PeopleDAO/status/1634518915668668416"
     ]
   ],
   [
@@ -201,22 +191,22 @@
   ],
   [
     [
+      "2023-03-12, 03:38:25",
+      "https://news.ycombinator.com/item?id=35116319"
+    ],
+    [
+      "The DeLorean Alpha",
+      "https://delorean.com/alpha5/"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 02:20:52",
       "https://news.ycombinator.com/item?id=35115703"
     ],
     [
       "Secret colours of the Commodore 64 (2017)",
       "https://www.aaronbell.com/secret-colours-of-the-commodore-64/"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 01:06:11",
-      "https://news.ycombinator.com/item?id=35115069"
-    ],
-    [
-      "Mechanical aircraft weight and balance computer using whippletrees",
-      "https://www.airwaysmuseum.com/Librascope.htm"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "The water technology behind Avatar: The Way of Water",
       "https://blog.unity.com/industry/technology-behind-avatar-the-way-of-water"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 10:56:41",
+      "https://news.ycombinator.com/item?id=35107221"
+    ],
+    [
+      "Torch.fx.Transformer – symbolically modify PyTorch modules",
+      "https://pytorch.org/docs/stable/fx.html"
     ]
   ],
   [
