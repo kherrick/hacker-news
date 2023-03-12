@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-03-11, 18:58:56",
-      "https://news.ycombinator.com/item?id=35111397"
-    ],
-    [
-      "Tabby is an infinitely customizable cross-platform terminal app",
-      "https://tabby.sh/"
-    ]
-  ],
-  [
-    [
       "2023-03-11, 13:38:25",
       "https://news.ycombinator.com/item?id=35108162"
     ],
@@ -277,6 +267,16 @@
     [
       "Emacs Is Not Just an Editor",
       "https://karl-voit.at/2015/10/23/Emacs-is-not-just-an-editor/"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 10:56:41",
+      "https://news.ycombinator.com/item?id=35107221"
+    ],
+    [
+      "Torch.fx.Transformer – symbolically modify PyTorch modules",
+      "https://pytorch.org/docs/stable/fx.html"
     ]
   ],
   [
