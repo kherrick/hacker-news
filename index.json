@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-03-12, 04:58:10",
-      "https://news.ycombinator.com/item?id=35116836"
-    ],
-    [
-      "Google over-hired talent to do ‘fake work’, claims Keith Rabois",
-      "https://finance.yahoo.com/news/google-over-hired-talent-fake-114331193.html"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 04:34:18",
       "https://news.ycombinator.com/item?id=35116705"
     ],
@@ -47,6 +37,16 @@
     [
       "The rise and fall of Birchbox, the startup valued at nearly $500M has vanished",
       "https://www.businessinsider.com/birchbox-rise-fall-company-history-2023-3"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 03:40:43",
+      "https://news.ycombinator.com/item?id=35116342"
+    ],
+    [
+      "What are the demographics of stars visible to the naked eye?",
+      "https://physics.stackexchange.com/questions/79954/what-are-the-demographics-of-stars-visible-to-the-naked-eye/105509#105509"
     ]
   ],
   [
@@ -141,22 +141,22 @@
   ],
   [
     [
-      "2023-03-11, 20:24:14",
-      "https://news.ycombinator.com/item?id=35112295"
-    ],
-    [
-      "A Bank of One&#x27;s Own",
-      "https://nayafia.substack.com/p/a-bank-of-ones-own"
-    ]
-  ],
-  [
-    [
       "2023-03-11, 19:19:19",
       "https://news.ycombinator.com/item?id=35111646"
     ],
     [
       "Large language models are having their Stable Diffusion moment",
       "https://simonwillison.net/2023/Mar/11/llama/"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 18:56:53",
+      "https://news.ycombinator.com/item?id=35111379"
+    ],
+    [
+      "Mozilla&#x2F;Sops: Simple and flexible tool for managing secrets",
+      "https://github.com/mozilla/sops"
     ]
   ],
   [
