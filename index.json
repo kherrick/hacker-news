@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-12, 19:03:28",
+      "https://news.ycombinator.com/item?id=35124645"
+    ],
+    [
+      "Credit Unions",
+      "https://en.wikipedia.org/wiki/Credit_union"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 18:49:08",
       "https://news.ycombinator.com/item?id=35124431"
     ],
@@ -17,6 +27,16 @@
     [
       "Nushell.sh ls | where size &gt; 10mb | sort-by modified",
       "https://www.nushell.sh/"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 18:24:29",
+      "https://news.ycombinator.com/item?id=35124055"
+    ],
+    [
+      "Reverse-engineering the register codes for the 8086 processor&#x27;s microcode",
+      "http://www.righto.com/2023/03/8086-register-codes.html"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2023-03-12, 17:07:08",
-      "https://news.ycombinator.com/item?id=35122780"
-    ],
-    [
-      "Ask HN: Small scripts, hacks and automations you&#x27;re proud of?",
-      "https://news.ycombinator.com/item?id=35122780"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 17:00:50",
       "https://news.ycombinator.com/item?id=35122689"
     ],
@@ -107,16 +117,6 @@
     [
       "FDIC auction for SVB said to be underway, final bids due Sunday",
       "https://www.bloomberg.com/news/articles/2023-03-12/fdic-auction-for-svb-said-to-be-underway-final-bids-due-sunday"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 16:13:14",
-      "https://news.ycombinator.com/item?id=35121904"
-    ],
-    [
-      "“Healthy obesity” doesn’t exist. It is unequivocally bad for you",
-      "https://bigthink.com/health/healthy-obesity-myth/"
     ]
   ],
   [
