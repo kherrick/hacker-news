@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2023-03-12, 01:51:05",
+      "https://news.ycombinator.com/item?id=35115465"
+    ],
+    [
+      "Embed a Tailscale Funnel in your Go app",
+      "https://tailscale.dev/blog/embedded-funnel"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 01:06:11",
       "https://news.ycombinator.com/item?id=35115069"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-03-11, 20:27:22",
-      "https://news.ycombinator.com/item?id=35112336"
-    ],
-    [
-      "An Update on USDC and Silicon Valley Bank",
-      "https://www.circle.com/blog/an-update-on-usdc-and-silicon-valley-bank"
-    ]
-  ],
-  [
-    [
       "2023-03-11, 19:19:19",
       "https://news.ycombinator.com/item?id=35111646"
     ],
@@ -217,6 +217,16 @@
     [
       "The water technology behind Avatar: The Way of Water",
       "https://blog.unity.com/industry/technology-behind-avatar-the-way-of-water"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 14:48:55",
+      "https://news.ycombinator.com/item?id=35108672"
+    ],
+    [
+      "Common Beginner Mistakes with React",
+      "https://www.joshwcomeau.com/react/common-beginner-mistakes/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The threat on your desk: Building an evil USB-C dock",
       "https://research.aurainfosec.io/pentest/threat-on-your-desk-evil-usbc-dock/"
-    ]
-  ],
-  [
-    [
-      "2023-03-09, 12:19:27",
-      "https://news.ycombinator.com/item?id=35080485"
-    ],
-    [
-      "What Is Synthetic Data? The Good, the Bad, and the Ugly",
-      "https://www.benthamsgaze.org/2023/03/01/what-is-synthetic-data-the-good-the-bad-and-the-ugly/"
     ]
   ]
 ]
