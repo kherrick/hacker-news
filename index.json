@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-03-12, 04:08:06",
-      "https://news.ycombinator.com/item?id=35116560"
-    ],
-    [
-      "The rise and fall of Birchbox, the startup valued at nearly $500M has&#x27;vanished&#x27;",
-      "https://www.businessinsider.com/birchbox-rise-fall-company-history-2023-3"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 03:01:34",
       "https://news.ycombinator.com/item?id=35116003"
     ],
@@ -127,6 +117,16 @@
     [
       "Large language models are having their Stable Diffusion moment",
       "https://simonwillison.net/2023/Mar/11/llama/"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 18:56:53",
+      "https://news.ycombinator.com/item?id=35111379"
+    ],
+    [
+      "Mozilla&#x2F;Sops: Simple and flexible tool for managing secrets",
+      "https://github.com/mozilla/sops"
     ]
   ],
   [
