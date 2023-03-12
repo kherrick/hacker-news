@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-12, 17:51:25",
+      "https://news.ycombinator.com/item?id=35123520"
+    ],
+    [
+      "Bill Ackman: I expect there will be bank runs beginning Monday at non-SIB banks",
+      "https://twitter.com/BillAckman/status/1634662286844411904"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 17:50:16",
+      "https://news.ycombinator.com/item?id=35123496"
+    ],
+    [
+      "If the government bails out SVB, expect an “Occupy Silicon Valley” movement",
+      "https://twitter.com/VivekGRamaswamy/status/1634750011568271361"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 17:43:23",
       "https://news.ycombinator.com/item?id=35123389"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2023-03-12, 16:45:36",
-      "https://news.ycombinator.com/item?id=35122439"
-    ],
-    [
-      "Spotify&#x27;s redesign isn&#x27;t going down well",
-      "https://news.sky.com/story/spotifys-refresh-isnt-going-down-well-why-are-so-many-apps-going-for-the-same-look-12830360"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 16:38:24",
       "https://news.ycombinator.com/item?id=35122313"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=35121967"
     ],
     [
-      "FDIC Auction for SVB Said to Be Underway, Final Bids Due Sunday",
+      "FDIC auction for SVB said to be underway, final bids due Sunday",
       "https://www.bloomberg.com/news/articles/2023-03-12/fdic-auction-for-svb-said-to-be-underway-final-bids-due-sunday"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "Brex Devalues Rewards",
       "https://awardwallet.com/blog/brex-rewards-point-devaluation-airline-transfers/"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 15:10:29",
-      "https://news.ycombinator.com/item?id=35120928"
-    ],
-    [
-      "PLD Space keeps building Miura 1. The first Spanish private rocket",
-      "https://www.pldspace.com/en/miura-1"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-03-12, 10:53:10",
+      "https://news.ycombinator.com/item?id=35118636"
+    ],
+    [
+      "TypeScript Magic",
+      "https://artsy.github.io/blog/2023/03/01/typescript-magic/"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 09:49:28",
       "https://news.ycombinator.com/item?id=35118338"
     ],
@@ -227,16 +237,6 @@
     [
       "Michigan Terminal System",
       "https://en.wikipedia.org/wiki/Michigan_Terminal_System"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 19:19:19",
-      "https://news.ycombinator.com/item?id=35111646"
-    ],
-    [
-      "Large language models are having their Stable Diffusion moment",
-      "https://simonwillison.net/2023/Mar/11/llama/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-03-10, 20:01:54",
-      "https://news.ycombinator.com/item?id=35100086"
+      "2023-03-11, 07:45:11",
+      "https://news.ycombinator.com/item?id=35106340"
     ],
     [
-      "Llama.cpp: Port of Facebook&#x27;s LLaMA model in C&#x2F;C++, with Apple Silicon support",
-      "https://github.com/ggerganov/llama.cpp"
+      "The semantics of a simple functional language",
+      "https://lawrencecpaulson.github.io/2023/03/08/Fun_Semantics.html"
     ]
   ],
   [
