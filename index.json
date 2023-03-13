@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-13, 11:09:27",
+      "https://news.ycombinator.com/item?id=35134033"
+    ],
+    [
+      "Rare, pristine first edition of Copernicus’ De Revolutionibus up for sale",
+      "https://arstechnica.com/science/2023/03/rare-pristine-first-edition-of-copernicus-de-revolutionibus-up-for-sale/"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 10:48:25",
       "https://news.ycombinator.com/item?id=35133862"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2023-03-13, 10:30:48",
+      "https://news.ycombinator.com/item?id=35133708"
+    ],
+    [
+      "Tiny-C Compiler",
+      "http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 10:26:26",
       "https://news.ycombinator.com/item?id=35133665"
     ],
     [
       "Online tests suggest IQ scores in US dropped for first time in nearly a century",
       "https://phys.org/news/2023-03-online-iq-scores-century.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 10:17:19",
-      "https://news.ycombinator.com/item?id=35133613"
-    ],
-    [
-      "Greece adopts new rules on Router Freedom",
-      "https://fsfe.org/news/2023/news-20230313-01.en.html"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Don&#x27;t Share Java FileChannels",
       "https://pkolaczk.github.io/dont-share-file-channels/"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 20:29:20",
-      "https://news.ycombinator.com/item?id=35125828"
-    ],
-    [
-      "John&#x27;s Lambda Calculus and Combinatory Logic Playground",
-      "https://tromp.github.io/cl/cl.html"
     ]
   ],
   [
