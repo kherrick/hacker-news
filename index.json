@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-13, 01:11:17",
+      "https://news.ycombinator.com/item?id=35129255"
+    ],
+    [
+      "Believe it or not, the Amish are loving electric bikes",
+      "https://electrek.co/2023/03/12/believe-it-or-not-the-amish-are-loving-electric-bikes/"
+    ]
+  ],
+  [
+    [
+      "2023-03-13, 00:27:28",
+      "https://news.ycombinator.com/item?id=35128827"
+    ],
+    [
+      "The tech industry moved fast and broke its most prestigious bank",
+      "https://www.theverge.com/23635692/silicon-valley-bank-svb-collapse-explainer-startups-venture-capital"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 00:26:33",
       "https://news.ycombinator.com/item?id=35128812"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2023-03-12, 23:05:05",
-      "https://news.ycombinator.com/item?id=35127745"
-    ],
-    [
-      "PR to Change the LLaMA Models&#x27; Licence to Apache 2.0",
-      "https://github.com/facebookresearch/llama/pull/184"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 22:41:22",
       "https://news.ycombinator.com/item?id=35127313"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=35127063"
     ],
     [
-      "Joint Statement by the Department of the Treasury, Federal Reserve, and FDIC",
+      "Joint statement by the Department of the Treasury, Federal Reserve, and FDIC",
       "https://home.treasury.gov/news/press-releases/jy1337"
     ]
   ],
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2023-03-12, 17:07:08",
+      "https://news.ycombinator.com/item?id=35122780"
+    ],
+    [
+      "Ask HN: Small scripts, hacks and automations you&#x27;re proud of?",
+      "https://news.ycombinator.com/item?id=35122780"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 17:00:50",
       "https://news.ycombinator.com/item?id=35122689"
     ],
@@ -181,21 +201,11 @@
   ],
   [
     [
-      "2023-03-12, 15:23:26",
-      "https://news.ycombinator.com/item?id=35121124"
-    ],
-    [
-      "Brex Devalues Rewards",
-      "https://awardwallet.com/blog/brex-rewards-point-devaluation-airline-transfers/"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 13:58:00",
       "https://news.ycombinator.com/item?id=35120084"
     ],
     [
-      "TypeScripting the Technical Interview",
+      "TypeScripting the technical interview",
       "https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html"
     ]
   ],
@@ -221,12 +231,22 @@
   ],
   [
     [
-      "2023-03-12, 09:49:28",
-      "https://news.ycombinator.com/item?id=35118338"
+      "2023-03-11, 22:11:56",
+      "https://news.ycombinator.com/item?id=35113316"
     ],
     [
-      "Punctuation Matters: How to use the en dash, em dash and hyphen",
-      "https://www.punctuationmatters.com/en-dash-em-dash-hyphen/"
+      "How Not to Tell the History of Science",
+      "https://www.bostonreview.net/articles/how-not-to-tell-the-history-of-science/"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 18:58:56",
+      "https://news.ycombinator.com/item?id=35111397"
+    ],
+    [
+      "Tabby is a customizable cross-platform terminal app",
+      "https://tabby.sh/"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2023-03-11, 12:52:00",
-      "https://news.ycombinator.com/item?id=35107896"
-    ],
-    [
-      "PulseQueue: Create music with web-based virtual analog synthesizers",
-      "https://github.com/Valent-in/pulseq"
-    ]
-  ],
-  [
-    [
       "2023-03-11, 12:37:03",
       "https://news.ycombinator.com/item?id=35107806"
     ],
     [
-      "Emacs Is Not Just an Editor",
+      "Emacs is not just an editor (2015)",
       "https://karl-voit.at/2015/10/23/Emacs-is-not-just-an-editor/"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 09:51:10",
-      "https://news.ycombinator.com/item?id=35106933"
-    ],
-    [
-      "The oldest privesc: injecting careless administrators’ terminals using TTY push",
-      "https://www.errno.fr/TTYPushback.html"
     ]
   ],
   [
