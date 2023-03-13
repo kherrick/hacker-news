@@ -1,42 +1,32 @@
 [
   [
     [
-      "2023-03-13, 19:14:33",
-      "https://news.ycombinator.com/item?id=35140933"
+      "2023-03-13, 19:54:37",
+      "https://news.ycombinator.com/item?id=35141531"
     ],
     [
-      "Covid Killed the Raspberry Pi",
-      "https://businessof.technology/covid-killed-the-raspberry-pi/"
+      "Stanford Alpaca, and the acceleration of on-device LLM development",
+      "https://simonwillison.net/2023/Mar/13/alpaca/"
     ]
   ],
   [
     [
-      "2023-03-13, 18:54:23",
-      "https://news.ycombinator.com/item?id=35140619"
+      "2023-03-13, 19:46:23",
+      "https://news.ycombinator.com/item?id=35141389"
     ],
     [
-      "Show HN: Django Developers – Reverse Job Board for Django Developers",
-      "https://builtwithdjango.com/developers/"
+      "RFC: Organizations for Sourcehut",
+      "https://lists.sr.ht/~sircmpwn/sr.ht-discuss/%3CCR5CFKD4Y5CT.3RLWZWX54YMRW%40taiga%3E"
     ]
   ],
   [
     [
-      "2023-03-13, 18:44:02",
-      "https://news.ycombinator.com/item?id=35140450"
+      "2023-03-13, 18:37:29",
+      "https://news.ycombinator.com/item?id=35140347"
     ],
     [
-      "Apple’s new challenge: a wave of key executives leaving the company",
-      "https://economictimes.indiatimes.com/tech/technology/apples-new-challenge-a-wave-of-key-executives-leaving-the-company/articleshow/98586618.cms"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 18:34:50",
-      "https://news.ycombinator.com/item?id=35140309"
-    ],
-    [
-      "Swedish pension giant loses $1.1 billion from US banks’ collapse",
-      "https://www.thelocal.se/20230313/swedish-pension-giant-loses-12-billion-kronor-from-us-banks-collapse"
+      "SpaceX is getting ready to test its Starlink satellite-to-cell phone service",
+      "https://www.engadget.com/spacex-is-getting-ready-to-test-its-starlink-satellite-to-cell-phone-service-181810564.html"
     ]
   ],
   [
@@ -51,31 +41,11 @@
   ],
   [
     [
-      "2023-03-13, 17:44:27",
-      "https://news.ycombinator.com/item?id=35139450"
-    ],
-    [
-      "Alpaca: An Instruct Tuned Llama 7B – Responses on par with txt-DaVinci-3",
-      "https://crfm.stanford.edu/alpaca/"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 17:29:21",
-      "https://news.ycombinator.com/item?id=35139168"
-    ],
-    [
-      "Stanford Alpaca: An Instruction-following LLaMA model",
-      "https://github.com/tatsu-lab/stanford_alpaca"
-    ]
-  ],
-  [
-    [
       "2023-03-13, 17:00:17",
       "https://news.ycombinator.com/item?id=35138629"
     ],
     [
-      "Firezone is hiring a back end engineer to build open source remote access (Rust)",
+      "Firezone (YC W22) is hiring a Rust engineer to build open-source remote access",
       "https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer"
     ]
   ],
@@ -131,11 +101,21 @@
   ],
   [
     [
+      "2023-03-13, 15:01:23",
+      "https://news.ycombinator.com/item?id=35136624"
+    ],
+    [
+      "Alpaca: A strong open-source instruction-following model",
+      "https://crfm.stanford.edu/2023/03/13/alpaca.html"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 14:11:33",
       "https://news.ycombinator.com/item?id=35135937"
     ],
     [
-      "Medicare Advantage plans use algorithms to cut off care for seniors in need",
+      "Medicare Advantage plans use algorithms to cut off care",
       "https://www.statnews.com/2023/03/13/medicare-advantage-plans-denial-artificial-intelligence/"
     ]
   ],
@@ -167,6 +147,26 @@
     [
       "Samuel Morse Locust Grove Estate and Nature Preserve",
       "https://worldsensorium.com/locust-grove-estate-and-nature-preserve/"
+    ]
+  ],
+  [
+    [
+      "2023-03-13, 12:30:23",
+      "https://news.ycombinator.com/item?id=35134805"
+    ],
+    [
+      "Ask HN: Any solo game developers here?",
+      "https://news.ycombinator.com/item?id=35134805"
+    ]
+  ],
+  [
+    [
+      "2023-03-13, 12:25:40",
+      "https://news.ycombinator.com/item?id=35134751"
+    ],
+    [
+      "Facebook Confirms It Will Drop News Sharing in Canada Under Bill C-18",
+      "https://www.michaelgeist.ca/2023/03/the-consequence-of-mandated-payments-for-links-facebook-confirms-it-will-drop-news-sharing-in-canada-under-bill-c-18/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-03-12, 22:17:40",
+      "https://news.ycombinator.com/item?id=35127020"
+    ],
+    [
+      "Dalai: Automatically install, run, and play with LLaMA on your computer",
+      "https://cocktailpeanut.github.io/dalai/"
+    ]
+  ],
+  [
+    [
       "2023-03-11, 20:31:11",
       "https://news.ycombinator.com/item?id=35112384"
     ],
@@ -267,16 +277,6 @@
     [
       "Knots smaller than human hair make materials unusually tough",
       "https://www.caltech.edu/about/news/knots-smaller-than-human-hair-make-materials-unusually-tough"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 09:28:19",
-      "https://news.ycombinator.com/item?id=35106821"
-    ],
-    [
-      "Philips and the death of Europe&#x27;s last electronics giant [video]",
-      "https://www.youtube.com/watch?v=WE58YisgFeQ"
     ]
   ],
   [
