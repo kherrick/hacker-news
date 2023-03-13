@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-13, 10:26:26",
+      "https://news.ycombinator.com/item?id=35133665"
+    ],
+    [
+      "Online tests suggest IQ scores in US dropped for first time in nearly a century",
+      "https://phys.org/news/2023-03-online-iq-scores-century.html"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 10:12:13",
       "https://news.ycombinator.com/item?id=35133567"
     ],
@@ -147,16 +157,6 @@
     [
       "cat mario.nes | nc play-nes.org 4444",
       "https://github.com/henrikpersson/potatis"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 21:06:42",
-      "https://news.ycombinator.com/item?id=35126303"
-    ],
-    [
-      "Show HN: Codon: A Compiler for High-Performance Pythonic Applications and DSLs [pdf]",
-      "https://regmedia.co.uk/2023/03/11/mit_codon_paper.pdf"
     ]
   ],
   [
