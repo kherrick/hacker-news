@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-13, 12:12:50",
+      "https://news.ycombinator.com/item?id=35134608"
+    ],
+    [
+      "The End of Silicon Valley (Bank)",
+      "https://stratechery.com/2023/the-death-of-silicon-valley-bank/"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 12:01:00",
       "https://news.ycombinator.com/item?id=35134478"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2023-03-13, 10:54:28",
-      "https://news.ycombinator.com/item?id=35133911"
+      "2023-03-13, 10:44:00",
+      "https://news.ycombinator.com/item?id=35133831"
     ],
     [
-      "HSBC Purchased Silicon Valley Bank UK (SVB UK) for $1.21 (£1)",
-      "https://www.hsbc.com/news-and-media/media-releases"
+      "Show HN: I Scraped Hacker News for TLD Popularity",
+      "https://www.v01.io/posts/2023-hackernews-tld-analysis/"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Tiny-C Compiler (2001)",
       "http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 10:26:26",
-      "https://news.ycombinator.com/item?id=35133665"
-    ],
-    [
-      "Online tests suggest IQ scores in US dropped for first time in nearly a century",
-      "https://phys.org/news/2023-03-online-iq-scores-century.html"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=35105657"
     ],
     [
-      "AstroNvim&#x2F;AstroNvim: AstroNvim is an aesthetic and feature-rich Neovim config",
+      "AstroNvim is an aesthetic and feature-rich Neovim config",
       "https://github.com/AstroNvim/AstroNvim"
     ]
   ],
