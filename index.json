@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-13, 07:10:09",
+      "https://news.ycombinator.com/item?id=35132181"
+    ],
+    [
+      "HSBC to Buy UK Arm of Silicon Valley Bank",
+      "https://www.bbc.co.uk/news/business-64937251"
+    ]
+  ],
+  [
+    [
+      "2023-03-13, 07:08:05",
+      "https://news.ycombinator.com/item?id=35132163"
+    ],
+    [
+      "HSBC takes over Silicon Valley Bank’s UK unit in rescue deal",
+      "https://www.ft.com/content/216b193d-62b3-4e5e-8f67-e8eb3d96ebf1"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 05:15:49",
       "https://news.ycombinator.com/item?id=35131396"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35131112"
     ],
     [
-      "What Is Temperature in NLP?",
+      "What is Temperature in NLP?",
       "https://lukesalamone.github.io/posts/what-is-temperature/"
     ]
   ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-03-12, 21:06:42",
-      "https://news.ycombinator.com/item?id=35126303"
-    ],
-    [
-      "Show HN: Codon: A Compiler for High-Performance Pythonic Applications and DSLs [pdf]",
-      "https://regmedia.co.uk/2023/03/11/mit_codon_paper.pdf"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 20:39:38",
       "https://news.ycombinator.com/item?id=35125962"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-03-12, 13:58:00",
-      "https://news.ycombinator.com/item?id=35120084"
-    ],
-    [
-      "TypeScripting the technical interview",
-      "https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html"
-    ]
-  ],
-  [
-    [
       "2023-03-11, 22:11:56",
       "https://news.ycombinator.com/item?id=35113316"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=35107077"
     ],
     [
-      "GameTales: Cray 6400",
+      "GameTales: Cray 6400 (2015)",
       "https://rome.ro/news/2015/12/13/gametales-cray-ymp"
     ]
   ],
@@ -257,16 +257,6 @@
     [
       "Infinite Games",
       "https://www.youngmoney.co/p/infinite-games"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 07:45:11",
-      "https://news.ycombinator.com/item?id=35106340"
-    ],
-    [
-      "The semantics of a simple functional language",
-      "https://lawrencecpaulson.github.io/2023/03/08/Fun_Semantics.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Story of Sosumi and the Mac Startup Sound",
       "https://reekes.net/sosumi-story-mac-startup-sound/"
+    ]
+  ],
+  [
+    [
+      "2023-03-10, 05:56:56",
+      "https://news.ycombinator.com/item?id=35090915"
+    ],
+    [
+      "Emptying the dishwasher with systems theory",
+      "https://two-wrongs.com/emptying-the-dishwasher-with-systems-theory.html"
     ]
   ]
 ]
