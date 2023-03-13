@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-13, 20:42:55",
+      "https://news.ycombinator.com/item?id=35142245"
+    ],
+    [
+      "Changes at YC",
+      "https://www.ycombinator.com/blog/changes-at-yc/"
+    ]
+  ],
+  [
+    [
+      "2023-03-13, 20:10:17",
+      "https://news.ycombinator.com/item?id=35141775"
+    ],
+    [
+      "SVB collapse: Peter Thiel’s role scrutinized as spark of bank run",
+      "https://www.washingtonexaminer.com/news/business/svb-collapse-peter-thiel-silicon-valley-"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 19:54:37",
       "https://news.ycombinator.com/item?id=35141531"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-03-13, 11:11:56",
-      "https://news.ycombinator.com/item?id=35134063"
-    ],
-    [
-      "\\Device\\Afd, or, the Deal with the Devil that makes async Rust work on Windows",
-      "https://notgull.github.io/device-afd/"
-    ]
-  ],
-  [
-    [
       "2023-03-13, 10:30:48",
       "https://news.ycombinator.com/item?id=35133708"
     ],
@@ -287,16 +297,6 @@
     [
       "Trimming spaces from strings faster with SVE on an Amazon Graviton 3 processor",
       "https://lemire.me/blog/2023/03/10/trimming-spaces-from-strings-faster-with-sve-on-an-amazon-graviton-3-processor/"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 20:10:22",
-      "https://news.ycombinator.com/item?id=35100194"
-    ],
-    [
-      "Show HN: SchemafreeSQL – Data, Fluid as Code",
-      "https://schemafreesql.com"
     ]
   ]
 ]
