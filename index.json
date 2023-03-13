@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-13, 12:01:00",
+      "https://news.ycombinator.com/item?id=35134478"
+    ],
+    [
+      "QuestDB (YC S20) Is Hiring a Python Engineer",
+      "https://questdb.io/careers/senior-backend-engineer-python/"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 11:16:15",
       "https://news.ycombinator.com/item?id=35134098"
     ],
@@ -27,16 +37,6 @@
     [
       "HSBC Purchased Silicon Valley Bank UK (SVB UK) for $1.21 (£1)",
       "https://www.hsbc.com/news-and-media/media-releases"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 10:54:01",
-      "https://news.ycombinator.com/item?id=35133904"
-    ],
-    [
-      "How Ukraine tamed Russian missile barrages and kept the lights on",
-      "https://www.economist.com/europe/2023/03/12/how-ukraine-tamed-russian-missile-barrages-and-kept-the-lights-on"
     ]
   ],
   [
@@ -81,12 +81,12 @@
   ],
   [
     [
-      "2023-03-13, 09:48:12",
-      "https://news.ycombinator.com/item?id=35133385"
+      "2023-03-13, 09:42:16",
+      "https://news.ycombinator.com/item?id=35133336"
     ],
     [
-      "Twitter has an internal root CA problem",
-      "https://izzodlaw.com/@IzzoD/110001516908481048"
+      "Framework 12th gen laptop review",
+      "https://anarc.at/hardware/laptop/framework-12th-gen/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-03-11, 06:47:59",
-      "https://news.ycombinator.com/item?id=35106111"
+      "2023-03-11, 09:04:47",
+      "https://news.ycombinator.com/item?id=35106725"
     ],
     [
-      "The Mathematics of Crowds: How Pedestrians Inadvertently Self-Organize",
-      "https://scitechdaily.com/the-hidden-mathematics-of-crowds-how-pedestrians-inadvertently-self-organize/"
+      "Trimming spaces from strings faster with SVE on an Amazon Graviton 3 processor",
+      "https://lemire.me/blog/2023/03/10/trimming-spaces-from-strings-faster-with-sve-on-an-amazon-graviton-3-processor/"
     ]
   ],
   [
