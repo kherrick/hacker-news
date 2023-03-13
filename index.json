@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-03-13, 12:30:23",
-      "https://news.ycombinator.com/item?id=35134805"
-    ],
-    [
-      "Ask HN: Any solo game developers here?",
-      "https://news.ycombinator.com/item?id=35134805"
-    ]
-  ],
-  [
-    [
       "2023-03-13, 12:25:40",
       "https://news.ycombinator.com/item?id=35134751"
     ],
@@ -187,6 +177,16 @@
     [
       "An end to typographic widows on the web",
       "https://clagnut.com/blog/2424"
+    ]
+  ],
+  [
+    [
+      "2023-03-13, 11:11:56",
+      "https://news.ycombinator.com/item?id=35134063"
+    ],
+    [
+      "\\Device\\Afd, or, the Deal with the Devil that makes async Rust work on Windows",
+      "https://notgull.github.io/device-afd/"
     ]
   ],
   [
