@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-13, 18:34:50",
+      "https://news.ycombinator.com/item?id=35140309"
+    ],
+    [
+      "Swedish pension giant loses $1.1 billion from US banks’ collapse",
+      "https://www.thelocal.se/20230313/swedish-pension-giant-loses-12-billion-kronor-from-us-banks-collapse"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 17:46:01",
       "https://news.ycombinator.com/item?id=35139480"
     ],
@@ -277,16 +287,6 @@
     [
       "Trimming spaces from strings faster with SVE on an Amazon Graviton 3 processor",
       "https://lemire.me/blog/2023/03/10/trimming-spaces-from-strings-faster-with-sve-on-an-amazon-graviton-3-processor/"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 05:19:53",
-      "https://news.ycombinator.com/item?id=35105657"
-    ],
-    [
-      "AstroNvim is an aesthetic and feature-rich Neovim config",
-      "https://github.com/AstroNvim/AstroNvim"
     ]
   ],
   [
