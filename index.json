@@ -21,11 +21,21 @@
   ],
   [
     [
+      "2023-03-13, 10:54:28",
+      "https://news.ycombinator.com/item?id=35133911"
+    ],
+    [
+      "HSBC Purchased Silicon Valley Bank UK (SVB UK) for $1.21 (£1)",
+      "https://www.hsbc.com/news-and-media/media-releases"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 10:54:01",
       "https://news.ycombinator.com/item?id=35133904"
     ],
     [
-      "Ukraine tamed Russian missile barrages and kept the lights on",
+      "How Ukraine tamed Russian missile barrages and kept the lights on",
       "https://www.economist.com/europe/2023/03/12/how-ukraine-tamed-russian-missile-barrages-and-kept-the-lights-on"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35133708"
     ],
     [
-      "Tiny-C Compiler",
+      "Tiny-C Compiler (2001)",
       "http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35133385"
     ],
     [
-      "Twitter has and internal root CA problem",
+      "Twitter has an internal root CA problem",
       "https://izzodlaw.com/@IzzoD/110001516908481048"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=35132586"
     ],
     [
-      "Overhead of Returning Optional Values in Java and Rust",
+      "Overhead of Returning Optional Values in Java and Rust (2021)",
       "https://pkolaczk.github.io/overhead-of-optional/"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "GameTales: Cray 6400 (2015)",
       "https://rome.ro/news/2015/12/13/gametales-cray-ymp"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 10:13:43",
-      "https://news.ycombinator.com/item?id=35107034"
-    ],
-    [
-      "Infinite Games",
-      "https://www.youngmoney.co/p/infinite-games"
     ]
   ],
   [
