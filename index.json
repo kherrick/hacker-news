@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-03-13, 00:26:33",
+      "https://news.ycombinator.com/item?id=35128812"
+    ],
+    [
+      "America Has Replaced Capitalism with Cronyism",
+      "https://nymag.com/intelligencer/_pages/ck8xtn5bu00qawly6zpbbvn3a.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-13, 00:12:39",
+      "https://news.ycombinator.com/item?id=35128646"
+    ],
+    [
+      "FDIC Establishes Signature Bridge Bank, N.A., As Successor to Signature Bank",
+      "https://www.fdic.gov/news/press-releases/2023/pr23018.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 23:56:18",
+      "https://news.ycombinator.com/item?id=35128440"
+    ],
+    [
+      "Why did 250k Britons die sooner than expected?",
+      "https://www.economist.com/interactive/britain/2023/03/09/why-did-250000-britons-die-sooner-than-expected"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 23:05:05",
+      "https://news.ycombinator.com/item?id=35127745"
+    ],
+    [
+      "PR to Change the LLaMA Models&#x27; Licence to Apache 2.0",
+      "https://github.com/facebookresearch/llama/pull/184"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 22:41:22",
       "https://news.ycombinator.com/item?id=35127313"
     ],
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2023-03-12, 17:43:23",
-      "https://news.ycombinator.com/item?id=35123389"
-    ],
-    [
-      "Update to the “Samsung space zoom moon shots are fake”",
-      "https://old.reddit.com/r/Android/comments/11p7rqy/update_to_the_samsung_space_zoom_moon_shots_are/"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 17:43:04",
       "https://news.ycombinator.com/item?id=35123383"
     ],
@@ -137,26 +167,6 @@
     [
       "Using LLaMA with M1 Mac and Python 3.11",
       "https://dev.l1x.be/posts/2023/12/08/using-llama-with-m1-mac/"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 16:38:24",
-      "https://news.ycombinator.com/item?id=35122313"
-    ],
-    [
-      "SVB Used Former McCarthy Staffers to Weaken Regulations, Lobby FDIC",
-      "https://theintercept.com/2023/03/11/silicon-valley-bank-used-former-mccarthy-staffers-to-weaken-regulations-lobby-fdic/"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 16:16:50",
-      "https://news.ycombinator.com/item?id=35121967"
-    ],
-    [
-      "FDIC auction for SVB said to be underway, final bids due Sunday",
-      "https://www.bloomberg.com/news/articles/2023-03-12/fdic-auction-for-svb-said-to-be-underway-final-bids-due-sunday"
     ]
   ],
   [
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2023-03-12, 13:30:07",
-      "https://news.ycombinator.com/item?id=35119825"
-    ],
-    [
-      "Yellen says government will help SVB depositors but rules out bailout",
-      "https://www.ft.com/content/6a77d81b-7376-4ccf-80a2-3336af04d04b?shareType=nongift"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 13:13:48",
-      "https://news.ycombinator.com/item?id=35119681"
-    ],
-    [
-      "Show HN: Terminal Based Wikipedia",
-      "https://github.com/yashsinghcodes/wik"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 12:23:19",
       "https://news.ycombinator.com/item?id=35119261"
     ],
@@ -237,16 +227,6 @@
     [
       "Punctuation Matters: How to use the en dash, em dash and hyphen",
       "https://www.punctuationmatters.com/en-dash-em-dash-hyphen/"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 19:53:38",
-      "https://news.ycombinator.com/item?id=35111988"
-    ],
-    [
-      "Michigan Terminal System",
-      "https://en.wikipedia.org/wiki/Michigan_Terminal_System"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2023-03-11, 09:51:10",
+      "https://news.ycombinator.com/item?id=35106933"
+    ],
+    [
+      "The oldest privesc: injecting careless administrators’ terminals using TTY push",
+      "https://www.errno.fr/TTYPushback.html"
+    ]
+  ],
+  [
+    [
       "2023-03-11, 07:45:11",
       "https://news.ycombinator.com/item?id=35106340"
     ],
@@ -297,6 +287,16 @@
     [
       "Story of Sosumi and the Mac Startup Sound",
       "https://reekes.net/sosumi-story-mac-startup-sound/"
+    ]
+  ],
+  [
+    [
+      "2023-03-10, 05:56:56",
+      "https://news.ycombinator.com/item?id=35090915"
+    ],
+    [
+      "Emptying the Dishwasher with Systems Theory",
+      "https://two-wrongs.com/emptying-the-dishwasher-with-systems-theory.html"
     ]
   ]
 ]
