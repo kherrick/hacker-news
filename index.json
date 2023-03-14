@@ -1,6 +1,66 @@
 [
   [
     [
+      "2023-03-14, 13:14:35",
+      "https://news.ycombinator.com/item?id=35150909"
+    ],
+    [
+      "Meta to Layoff 10k Employees",
+      "https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 13:05:59",
+      "https://news.ycombinator.com/item?id=35150816"
+    ],
+    [
+      "The next generation of AI for developers and Google Workspace",
+      "https://blog.google/technology/ai/ai-developers-google-cloud-workspace/"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 12:54:26",
+      "https://news.ycombinator.com/item?id=35150691"
+    ],
+    [
+      "Why Sony says it can’t trust Microsoft’s Call of Duty offer? Answer: Bethesda",
+      "https://arstechnica.com/gaming/2023/03/sony-cites-bethesda-exclusives-in-doubting-microsofts-call-of-duty-promises/"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 12:47:41",
+      "https://news.ycombinator.com/item?id=35150608"
+    ],
+    [
+      "Chickens, cows, threatened in Ransomware on Canadian farms",
+      "https://financialpost.com/cybersecurity/growing-cyberattacks-canada-food-system-threaten-disaster"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 12:46:37",
+      "https://news.ycombinator.com/item?id=35150594"
+    ],
+    [
+      "Show HN: I made a self-hosted ChatGPT UI",
+      "https://github.com/cogentapps/chat-with-gpt"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 12:36:19",
+      "https://news.ycombinator.com/item?id=35150481"
+    ],
+    [
+      "Why it does and doesn’t matter if Google, Microsoft or Zoom certify your webcam",
+      "https://arstechnica.com/gadgets/2023/03/why-it-does-and-doesnt-matter-if-google-microsoft-or-zoom-certify-your-webcam/"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 12:17:41",
       "https://news.ycombinator.com/item?id=35150270"
     ],
@@ -17,36 +77,6 @@
     [
       "Hotglue (YC S21) Is Hiring",
       "https://www.ycombinator.com/companies/hotglue/jobs/aSSnalB-senior-integrations-engineer"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 11:46:48",
-      "https://news.ycombinator.com/item?id=35150004"
-    ],
-    [
-      "60 Days to Find a Job or Leave the Country",
-      "https://restofworld.org/2023/techs-bad-year-h1b-visa-layoffs/"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 09:34:59",
-      "https://news.ycombinator.com/item?id=35149105"
-    ],
-    [
-      "Mediterranean diet may lower dementia risk by a quarter, study suggests",
-      "https://www.theguardian.com/society/2023/mar/14/mediterranean-diet-may-lower-dementia-risk-by-a-quarter-study-suggests"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 08:51:46",
-      "https://news.ycombinator.com/item?id=35148834"
-    ],
-    [
-      "Analysis of distances between London&#x27;s bus stops",
-      "https://www.michalpaszkiewicz.co.uk/blog/busdistributions/index.html"
     ]
   ],
   [
@@ -137,36 +167,6 @@
     [
       "Instagram Is Disabling Its NFT Features",
       "https://nftnow.com/news/breaking-instagram-is-sunsetting-digital-collectibles-nfts/"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 22:01:07",
-      "https://news.ycombinator.com/item?id=35143573"
-    ],
-    [
-      "Switching from C++ to Rust",
-      "https://laplab.me/posts/switching-from-cpp-to-rust/"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 21:29:21",
-      "https://news.ycombinator.com/item?id=35143052"
-    ],
-    [
-      "Show HN: Counter – Simple and free web analytics",
-      "https://counter.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 21:25:44",
-      "https://news.ycombinator.com/item?id=35142991"
-    ],
-    [
-      "LNER Peppercorn Class A1 60163 Tornado",
-      "https://en.wikipedia.org/wiki/LNER_Peppercorn_Class_A1_60163_Tornado"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-03-11, 14:57:36",
-      "https://news.ycombinator.com/item?id=35108726"
+      "2023-03-10, 20:10:22",
+      "https://news.ycombinator.com/item?id=35100194"
     ],
     [
-      "The uncanny failures of A.I.-generated hands",
-      "https://www.newyorker.com/culture/rabbit-holes/the-uncanny-failures-of-ai-generated-hands"
+      "Show HN: SchemafreeSQL – Data, Fluid as Code",
+      "https://schemafreesql.com"
     ]
   ]
 ]
