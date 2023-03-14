@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-14, 16:24:57",
+      "https://news.ycombinator.com/item?id=35154025"
+    ],
+    [
+      "Docker is sunsetting Free Team organizations [pdf]",
+      "https://web.docker.com/rs/790-SSB-375/images/privatereposfaq.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 16:24:09",
+      "https://news.ycombinator.com/item?id=35154015"
+    ],
+    [
+      "Concerns Mount over San Francisco-Based First Republic Bank",
+      "https://www.nbcbayarea.com/news/local/concerns-first-republic-bank/3179536/"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 15:57:39",
+      "https://news.ycombinator.com/item?id=35153607"
+    ],
+    [
+      "Cheerp 3.0: The most advanced C++ compiler for the Web now permissively licensed",
+      "https://leaningtech.com/cheerp-3-0-the-most-advanced-c-compiler-for-the-web-now-permissively-licensed/"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 15:42:48",
       "https://news.ycombinator.com/item?id=35153344"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-03-14, 12:50:23",
-      "https://news.ycombinator.com/item?id=35150640"
-    ],
-    [
-      "Eliezer Yudkowsky on large language model economics",
-      "https://twitter.com/ESYudkowsky/status/1635577836525469697"
-    ]
-  ],
-  [
-    [
       "2023-03-14, 12:47:41",
       "https://news.ycombinator.com/item?id=35150608"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-03-14, 07:01:26",
-      "https://news.ycombinator.com/item?id=35148221"
-    ],
-    [
-      "Ring LLC home security company ransomed by ALPHV ransomware",
-      "https://web.archive.org/web/20230314015249/https://twitter.com/vxunderground/status/1635427567271329792"
-    ]
-  ],
-  [
-    [
       "2023-03-14, 06:31:17",
       "https://news.ycombinator.com/item?id=35148068"
     ],
     [
       "An experiment in elastically scaling a thread pool using a PID controller",
       "https://github.com/stevana/elastically-scalable-thread-pools"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 04:15:35",
-      "https://news.ycombinator.com/item?id=35147384"
-    ],
-    [
-      "US court rules Uber and Lyft workers are contractors",
-      "https://www.bbc.com/news/business-64947695"
     ]
   ],
   [
