@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-14, 17:15:53",
+      "https://news.ycombinator.com/item?id=35154870"
+    ],
+    [
+      "Duolingo Max, a learning experience powered by GPT-4",
+      "https://blog.duolingo.com/duolingo-max/"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 17:07:28",
       "https://news.ycombinator.com/item?id=35154716"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=35154275"
     ],
     [
-      "You shouldn&#x27;t list certifications on LinkedIn",
+      "Certifications create wrong incentives for engineers and recruiters",
       "https://interviewing.io/blog/why-you-shouldnt-list-certifications-on-linkedIn"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=35153607"
     ],
     [
-      "Cheerp 3.0: The most advanced C++ compiler for the Web now permissively licensed",
+      "Cheerp 3.0: C++ compiler for the Web, now permissively licensed",
       "https://leaningtech.com/cheerp-3-0-the-most-advanced-c-compiler-for-the-web-now-permissively-licensed/"
     ]
   ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2023-03-14, 13:41:10",
+      "https://news.ycombinator.com/item?id=35151340"
+    ],
+    [
+      "Live-caption glasses let deaf people read conversations using augmented reality",
+      "https://www.youtube.com/watch?v=LauvOTnZMZg"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 13:39:21",
       "https://news.ycombinator.com/item?id=35151298"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-03-14, 06:31:17",
-      "https://news.ycombinator.com/item?id=35148068"
-    ],
-    [
-      "An experiment in elastically scaling a thread pool using a PID controller",
-      "https://github.com/stevana/elastically-scalable-thread-pools"
-    ]
-  ],
-  [
-    [
       "2023-03-14, 00:03:41",
       "https://news.ycombinator.com/item?id=35145189"
     ],
@@ -287,16 +297,6 @@
     [
       "From Books to Knowledge Graphs",
       "https://arxiv.org/abs/2204.10766"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 14:08:01",
-      "https://news.ycombinator.com/item?id=35135896"
-    ],
-    [
-      "Review: The Best Minds, by Jonathan Rosen",
-      "https://freddiedeboer.substack.com/p/review-the-best-minds-by-jonathan"
     ]
   ]
 ]
