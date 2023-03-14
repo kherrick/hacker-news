@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-14, 04:15:35",
+      "https://news.ycombinator.com/item?id=35147384"
+    ],
+    [
+      "US court rules Uber and Lyft workers are contractors",
+      "https://www.bbc.com/news/business-64947695"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 03:52:46",
       "https://news.ycombinator.com/item?id=35147233"
     ],
@@ -91,26 +101,6 @@
   ],
   [
     [
-      "2023-03-13, 21:14:31",
-      "https://news.ycombinator.com/item?id=35142777"
-    ],
-    [
-      "Gitlab loses one-third of its value after company issues weak forecast",
-      "https://www.cnbc.com/2023/03/13/gitlab-gtlb-earnings-q4-2023.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 21:05:34",
-      "https://news.ycombinator.com/item?id=35142628"
-    ],
-    [
-      "SVB insider says employees are angry with CEO",
-      "https://www.cnn.com/2023/03/13/business/svb-employees-angry-at-ceo/index.html"
-    ]
-  ],
-  [
-    [
       "2023-03-13, 21:03:41",
       "https://news.ycombinator.com/item?id=35142588"
     ],
@@ -147,6 +137,16 @@
     [
       "Stanford Alpaca, and the acceleration of on-device LLM development",
       "https://simonwillison.net/2023/Mar/13/alpaca/"
+    ]
+  ],
+  [
+    [
+      "2023-03-13, 19:29:37",
+      "https://news.ycombinator.com/item?id=35141155"
+    ],
+    [
+      "PostgreSQL 14 Internals (2023, PDF)",
+      "https://postgrespro.com/blog/pgsql/5969985"
     ]
   ],
   [
