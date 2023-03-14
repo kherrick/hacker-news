@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-14, 17:39:47",
+      "https://news.ycombinator.com/item?id=35155313"
+    ],
+    [
+      "Russian aircraft collides into US unmanned system in international waters",
+      "https://www.eucom.mil/pressrelease/42314/russian-aircraft-collides-into-us-unmanned-system-in-international-waters"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 17:33:32",
+      "https://news.ycombinator.com/item?id=35155198"
+    ],
+    [
+      "The new Bing runs on OpenAI’s GPT-4",
+      "https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 17:15:53",
       "https://news.ycombinator.com/item?id=35154870"
     ],
@@ -11,21 +31,11 @@
   ],
   [
     [
-      "2023-03-14, 17:07:28",
-      "https://news.ycombinator.com/item?id=35154716"
-    ],
-    [
-      "Announcing GPT-4, a large multimodal model",
-      "https://openai.com/product/gpt-4"
-    ]
-  ],
-  [
-    [
       "2023-03-14, 17:01:21",
       "https://news.ycombinator.com/item?id=35154614"
     ],
     [
-      "OpenAI: Evals",
+      "Evals: a framework for evaluating OpenAI models and a registry of benchmarks",
       "https://github.com/openai/evals"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "Docker is sunsetting Free Team organizations [pdf]",
       "https://web.docker.com/rs/790-SSB-375/images/privatereposfaq.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 16:24:09",
-      "https://news.ycombinator.com/item?id=35154015"
-    ],
-    [
-      "Concerns Mount over San Francisco-Based First Republic Bank",
-      "https://www.nbcbayarea.com/news/local/concerns-first-republic-bank/3179536/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=35149923"
     ],
     [
-      "Rutgers Scientists Identify Substance That May Have Sparked Life on Earth",
+      "Scientists identify substance that may have sparked life on earth",
       "https://www.rutgers.edu/news/rutgers-scientists-identify-substance-may-have-sparked-life-earth"
     ]
   ],
