@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-14, 14:19:42",
+      "https://news.ycombinator.com/item?id=35151940"
+    ],
+    [
+      "OpenSSL 3.1 Released",
+      "https://www.openssl.org/blog/blog/2023/03/07/OpenSSL3.1Release/"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 14:03:12",
       "https://news.ycombinator.com/item?id=35151690"
     ],
@@ -37,6 +47,16 @@
     [
       "Scrcpy 2.0 mirrors Android devices with audio forwarding",
       "https://github.com/Genymobile/scrcpy/releases/tag/v2.0"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 13:21:09",
+      "https://news.ycombinator.com/item?id=35151009"
+    ],
+    [
+      "The fall of SVB and how I tried to save as many straps as I could",
+      "https://startupdreams.substack.com/p/the-fall-of-svb-and-the-story-of"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "The Great Illyrian Revolt",
       "https://en.wikipedia.org/wiki/Bellum_Batonianum"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 04:41:17",
-      "https://news.ycombinator.com/item?id=35131164"
-    ],
-    [
-      "Augmenting Human Intellect: A Conceptual Framework (1962) [pdf]",
-      "https://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 15:33:33",
-      "https://news.ycombinator.com/item?id=35121271"
-    ],
-    [
-      "Can Pachinko be Skill-based? Taking a look at Hanemono",
-      "https://nicole.express/2023/whats-hanemono-precious.html"
     ]
   ]
 ]
