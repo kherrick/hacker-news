@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-03-14, 06:31:17",
+      "https://news.ycombinator.com/item?id=35148068"
+    ],
+    [
+      "An experiment in elastically scaling a thread pool using a PID controller",
+      "https://github.com/stevana/elastically-scalable-thread-pools"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 04:15:35",
       "https://news.ycombinator.com/item?id=35147384"
     ],
@@ -207,16 +217,6 @@
     [
       "Alpaca: A strong open-source instruction-following model",
       "https://crfm.stanford.edu/2023/03/13/alpaca.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 12:16:20",
-      "https://news.ycombinator.com/item?id=35134648"
-    ],
-    [
-      "Peppercorn (law)",
-      "https://en.wikipedia.org/wiki/Peppercorn_(law)"
     ]
   ],
   [
