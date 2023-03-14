@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-14, 15:02:55",
+      "https://news.ycombinator.com/item?id=35152613"
+    ],
+    [
+      "Silicon Valley, once the underdog, is now too big to fail",
+      "https://www.washingtonpost.com/technology/2023/03/14/tech-startups-bailout-silicon-valley-bank/"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 14:47:22",
       "https://news.ycombinator.com/item?id=35152357"
     ],
@@ -11,11 +21,31 @@
   ],
   [
     [
+      "2023-03-14, 14:46:12",
+      "https://news.ycombinator.com/item?id=35152341"
+    ],
+    [
+      "The Door Close Button",
+      "https://computer.rip/2023-03-13-the-door-close-button.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 14:41:33",
+      "https://news.ycombinator.com/item?id=35152278"
+    ],
+    [
+      "NordVPN library and client code open-sourced",
+      "https://github.com/NordSecurity"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 14:19:42",
       "https://news.ycombinator.com/item?id=35151940"
     ],
     [
-      "OpenSSL 3.1 Released",
+      "OpenSSL 3.1",
       "https://www.openssl.org/blog/blog/2023/03/07/OpenSSL3.1Release/"
     ]
   ],
@@ -85,7 +115,7 @@
       "https://news.ycombinator.com/item?id=35150909"
     ],
     [
-      "Meta to Layoff 10k Employees",
+      "Meta plans to lay off 10k employees",
       "https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/"
     ]
   ],
@@ -95,7 +125,7 @@
       "https://news.ycombinator.com/item?id=35150816"
     ],
     [
-      "The next generation of AI for developers and Google Workspace",
+      "AI for developers and Google Workspace",
       "https://blog.google/technology/ai/ai-developers-google-cloud-workspace/"
     ]
   ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-03-14, 12:17:41",
-      "https://news.ycombinator.com/item?id=35150270"
-    ],
-    [
-      "Trees Across the U.S. Are Sprouting Leaves Earlier Than Usual This Year",
-      "https://www.wsj.com/articles/cherry-blossom-trees-record-early-spring-7484812c"
-    ]
-  ],
-  [
-    [
       "2023-03-14, 12:00:15",
       "https://news.ycombinator.com/item?id=35150117"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2023-03-14, 06:43:59",
-      "https://news.ycombinator.com/item?id=35148131"
-    ],
-    [
-      "Russian Assets Reportedly Seized at Baikonur Cosmodrome by Kazakh Authorities",
-      "https://tlpnetwork.com/news/2023/03/russian-assets-seized-at-the-baikonur-cosmodrome"
-    ]
-  ],
-  [
-    [
       "2023-03-14, 06:31:17",
       "https://news.ycombinator.com/item?id=35148068"
     ],
     [
       "An experiment in elastically scaling a thread pool using a PID controller",
       "https://github.com/stevana/elastically-scalable-thread-pools"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 04:15:35",
-      "https://news.ycombinator.com/item?id=35147384"
-    ],
-    [
-      "US court rules Uber and Lyft workers are contractors",
-      "https://www.bbc.com/news/business-64947695"
     ]
   ],
   [
