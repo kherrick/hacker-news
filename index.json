@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-14, 15:16:16",
+      "https://news.ycombinator.com/item?id=35152851"
+    ],
+    [
+      "Launch HN: CodeComplete (YC W23) – Copilot for Enterprise",
+      "https://news.ycombinator.com/item?id=35152851"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 15:14:18",
+      "https://news.ycombinator.com/item?id=35152815"
+    ],
+    [
+      "No More N+1. Period",
+      "https://evgeniydemin.medium.com/automatic-preloading-in-rails-the-dream-that-came-true-80ed4982ce2d"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 15:02:55",
       "https://news.ycombinator.com/item?id=35152613"
     ],
@@ -47,16 +67,6 @@
     [
       "OpenSSL 3.1",
       "https://www.openssl.org/blog/blog/2023/03/07/OpenSSL3.1Release/"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 14:16:21",
-      "https://news.ycombinator.com/item?id=35151881"
-    ],
-    [
-      "Show HN: Using GPT-3 and Whisper to save 40% of doctors’ time",
-      "https://news.ycombinator.com/item?id=35151881"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "AI for developers and Google Workspace",
       "https://blog.google/technology/ai/ai-developers-google-cloud-workspace/"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 12:54:26",
-      "https://news.ycombinator.com/item?id=35150691"
-    ],
-    [
-      "Why Sony says it can’t trust Microsoft’s Call of Duty offer? Answer: Bethesda",
-      "https://arstechnica.com/gaming/2023/03/sony-cites-bethesda-exclusives-in-doubting-microsofts-call-of-duty-promises/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-03-14, 04:15:35",
+      "https://news.ycombinator.com/item?id=35147384"
+    ],
+    [
+      "US court rules Uber and Lyft workers are contractors",
+      "https://www.bbc.com/news/business-64947695"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 00:03:41",
       "https://news.ycombinator.com/item?id=35145189"
     ],
@@ -287,16 +297,6 @@
     [
       "Ultrathin Metasurface Displays Take Aim at the LCD",
       "https://spectrum.ieee.org/metasurface-displays"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 08:51:58",
-      "https://news.ycombinator.com/item?id=35132905"
-    ],
-    [
-      "The Great Illyrian Revolt",
-      "https://en.wikipedia.org/wiki/Bellum_Batonianum"
     ]
   ]
 ]
