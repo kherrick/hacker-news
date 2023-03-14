@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-14, 17:07:28",
+      "https://news.ycombinator.com/item?id=35154716"
+    ],
+    [
+      "Announcing GPT-4, a large multimodal model",
+      "https://openai.com/product/gpt-4"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 17:01:21",
       "https://news.ycombinator.com/item?id=35154614"
     ],
@@ -251,32 +261,22 @@
   ],
   [
     [
+      "2023-03-14, 06:31:17",
+      "https://news.ycombinator.com/item?id=35148068"
+    ],
+    [
+      "An experiment in elastically scaling a thread pool using a PID controller",
+      "https://github.com/stevana/elastically-scalable-thread-pools"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 00:03:41",
       "https://news.ycombinator.com/item?id=35145189"
     ],
     [
       "Microsoft lays off one of its responsible AI teams",
       "https://www.platformer.news/p/microsoft-just-laid-off-one-of-its"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 16:45:07",
-      "https://news.ycombinator.com/item?id=35138319"
-    ],
-    [
-      "Launch HN: Electric Air (YC W23) – Heat pump sold directly to homeowners",
-      "https://news.ycombinator.com/item?id=35138319"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 15:14:02",
-      "https://news.ycombinator.com/item?id=35136827"
-    ],
-    [
-      "Launch HN: Pynecone (YC W23) – Web Apps in Pure Python",
-      "https://news.ycombinator.com/item?id=35136827"
     ]
   ],
   [
