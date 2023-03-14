@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-03-14, 17:39:47",
-      "https://news.ycombinator.com/item?id=35155313"
+      "2023-03-14, 18:12:30",
+      "https://news.ycombinator.com/item?id=35155944"
     ],
     [
-      "Russian aircraft collides into US unmanned system in international waters",
-      "https://www.eucom.mil/pressrelease/42314/russian-aircraft-collides-into-us-unmanned-system-in-international-waters"
+      "Mountpoint – file client for S3 written in Rust, from AWS",
+      "https://github.com/awslabs/mountpoint-s3"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 18:00:27",
+      "https://news.ycombinator.com/item?id=35155684"
+    ],
+    [
+      "Khan Academy integrates GPT-4 as every student’s customized tutor",
+      "https://openai.com/customer-stories/khan-academy"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "GPT-4",
       "https://openai.com/research/gpt-4"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 16:49:30",
+      "https://news.ycombinator.com/item?id=35154435"
+    ],
+    [
+      "Cheering Silicon Valley Bank Bailout, Gavin Newsom Doesn’t Mention He’s a Client",
+      "https://theintercept.com/2023/03/14/cheering-silicon-valley-bank-bailout-gavin-newsom-doesnt-mention-hes-a-client/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2023-03-14, 12:46:37",
-      "https://news.ycombinator.com/item?id=35150594"
-    ],
-    [
-      "Show HN: I made a self-hosted ChatGPT UI",
-      "https://github.com/cogentapps/chat-with-gpt"
-    ]
-  ],
-  [
-    [
       "2023-03-14, 11:37:43",
       "https://news.ycombinator.com/item?id=35149923"
     ],
     [
       "Scientists identify substance that may have sparked life on earth",
       "https://www.rutgers.edu/news/rutgers-scientists-identify-substance-may-have-sparked-life-earth"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 00:03:41",
-      "https://news.ycombinator.com/item?id=35145189"
-    ],
-    [
-      "Microsoft lays off one of its responsible AI teams",
-      "https://www.platformer.news/p/microsoft-just-laid-off-one-of-its"
     ]
   ],
   [
