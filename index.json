@@ -75,8 +75,18 @@
       "https://news.ycombinator.com/item?id=35174612"
     ],
     [
-      "PyTorch 2.0 Release",
+      "PyTorch 2.0",
       "https://pytorch.org/blog/pytorch-2.0-release/"
+    ]
+  ],
+  [
+    [
+      "2023-03-15, 20:54:36",
+      "https://news.ycombinator.com/item?id=35174574"
+    ],
+    [
+      "Fly.io outage, recently deployed apps down, deployments disabled",
+      "https://status.flyio.net/incidents/sq7fsdlrg92f"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Docker is deleting Open Source organisations - what you need to know",
       "https://blog.alexellis.io/docker-is-deleting-open-source-images/"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 09:41:16",
-      "https://news.ycombinator.com/item?id=35165798"
-    ],
-    [
-      "Using a Raspberry Pi to add a second HDMI port to a laptop",
-      "https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html"
     ]
   ],
   [
