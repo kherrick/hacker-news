@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-03-15, 12:17:40",
-      "https://news.ycombinator.com/item?id=35167101"
-    ],
-    [
-      "Pyroscope and Grafana Phlare join together",
-      "https://grafana.com/blog/2023/03/15/pyroscope-grafana-phlare-join-for-oss-continuous-profiling/"
-    ]
-  ],
-  [
-    [
       "2023-03-15, 11:59:10",
       "https://news.ycombinator.com/item?id=35166892"
     ],
@@ -267,6 +257,16 @@
     [
       "Python-based compiler achieves orders-of-magnitude speedups",
       "https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314"
+    ]
+  ],
+  [
+    [
+      "2023-03-15, 07:25:43",
+      "https://news.ycombinator.com/item?id=35164997"
+    ],
+    [
+      "Designing Good Interfaces",
+      "https://pboyd.io/posts/good-interfaces/"
     ]
   ],
   [
