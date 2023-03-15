@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-15, 17:00:10",
+      "https://news.ycombinator.com/item?id=35171262"
+    ],
+    [
+      "Laudspeaker (YC W21) hiring engineer to build open source customer journey SaaS",
+      "https://github.com/laudspeaker/laudspeaker/blob/Hiring/README.md"
+    ]
+  ],
+  [
+    [
       "2023-03-15, 16:50:34",
       "https://news.ycombinator.com/item?id=35171116"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=35170955"
     ],
     [
-      "Launch HN: Propify (YC W23) – Real Estate API Aggregator",
+      "Launch HN: Propify (YC W23) – Property Management System API Aggregator",
       "https://news.ycombinator.com/item?id=35170955"
     ]
   ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2023-03-15, 16:37:20",
-      "https://news.ycombinator.com/item?id=35170897"
+      "2023-03-15, 16:38:49",
+      "https://news.ycombinator.com/item?id=35170928"
     ],
     [
-      "The American Diet Has a Sandwich Problem",
-      "https://www.wsj.com/articles/sandwich-american-diet-unhealthy-489a1d59"
+      "DreamWorks releases OpenMoonRay source code",
+      "https://github.com/dreamworksanimation/openmoonray"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Reverse-engineering the multiplication algorithm in the Intel 8086 processor",
       "https://www.righto.com/2023/03/8086-multiplication-microcode.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 15:49:14",
-      "https://news.ycombinator.com/item?id=35170148"
-    ],
-    [
-      "How Siri, Alexa and Google Assistant Lost the A.I. Race",
-      "https://www.nytimes.com/2023/03/15/technology/siri-alexa-google-assistant-artificial-intelligence.html"
     ]
   ],
   [
@@ -75,8 +75,18 @@
       "https://news.ycombinator.com/item?id=35169914"
     ],
     [
-      "What Happens When Your Phone Is Spying on You",
+      "This is What Happens When Your Phone is Spying on You",
       "https://today.ucsd.edu/story/spywarestudy2023"
+    ]
+  ],
+  [
+    [
+      "2023-03-15, 15:32:30",
+      "https://news.ycombinator.com/item?id=35169869"
+    ],
+    [
+      "Vesuvius Challenge",
+      "https://scrollprize.org/"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-03-15, 12:01:08",
-      "https://news.ycombinator.com/item?id=35166916"
-    ],
-    [
-      "Slauth.io (YC S22) Is Hiring another technical co-founder",
-      "https://auspicious-domain-086.notion.site/Technical-co-founder-cacf096e2f6d41ed90d9373e7ee532cb"
-    ]
-  ],
-  [
-    [
       "2023-03-15, 11:52:38",
       "https://news.ycombinator.com/item?id=35166815"
     ],
@@ -227,16 +227,6 @@
     [
       "Using a Raspberry Pi to add a second HDMI port to a laptop",
       "https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 09:05:09",
-      "https://news.ycombinator.com/item?id=35165640"
-    ],
-    [
-      "Firefox 111.0 enabled Origin private file system access",
-      "https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Least Resistance: How Desire Paths Can Lead to Better Design (2016)",
       "https://99percentinvisible.org/article/least-resistance-desire-paths-can-lead-better-design/"
+    ]
+  ],
+  [
+    [
+      "2023-03-13, 07:59:31",
+      "https://news.ycombinator.com/item?id=35132505"
+    ],
+    [
+      "DigiKam 7.10.0",
+      "https://www.digikam.org/news/2023-03-13-7.10.0_release_announcement/"
     ]
   ]
 ]
