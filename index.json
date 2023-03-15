@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-15, 12:18:26",
+      "https://news.ycombinator.com/item?id=35167110"
+    ],
+    [
+      "PEP 704 – Require virtual environments by default for package installers",
+      "https://peps.python.org/pep-0704/"
+    ]
+  ],
+  [
+    [
+      "2023-03-15, 12:17:40",
+      "https://news.ycombinator.com/item?id=35167101"
+    ],
+    [
+      "Pyroscope and Grafana Phlare join together",
+      "https://grafana.com/blog/2023/03/15/pyroscope-grafana-phlare-join-for-oss-continuous-profiling/"
+    ]
+  ],
+  [
+    [
       "2023-03-15, 12:01:08",
       "https://news.ycombinator.com/item?id=35166916"
     ],
@@ -17,6 +37,16 @@
     [
       "Credit Suisse sheds nearly 25%, key backer says no more money",
       "https://www.reuters.com/business/finance/credit-suisse-shares-drop-fresh-record-low-cds-widen-2023-03-15/"
+    ]
+  ],
+  [
+    [
+      "2023-03-15, 11:52:38",
+      "https://news.ycombinator.com/item?id=35166815"
+    ],
+    [
+      "Banking in Uncertain Times",
+      "https://www.bitsaboutmoney.com/archive/banking-in-very-uncertain-times/"
     ]
   ],
   [
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2023-03-15, 10:48:50",
-      "https://news.ycombinator.com/item?id=35166250"
-    ],
-    [
-      "2024 GMC Hummer EV SUV Uses Enormous Battery to Charge Other Electric Cars",
-      "https://www.thedrive.com/news/2024-gmc-hummer-ev-suv-uses-enormous-battery-to-charge-other-electric-cars"
-    ]
-  ],
-  [
-    [
       "2023-03-15, 10:43:31",
       "https://news.ycombinator.com/item?id=35166207"
     ],
@@ -77,6 +97,16 @@
     [
       "Smalltalk: An Entrepreneur’s Secret Weapon? (2020)",
       "https://richardeng.medium.com/smalltalk-an-entrepreneurs-secret-weapon-a36b01b68b29"
+    ]
+  ],
+  [
+    [
+      "2023-03-15, 09:41:16",
+      "https://news.ycombinator.com/item?id=35165798"
+    ],
+    [
+      "Using a Raspberry Pi to add a second HDMI port to a laptop",
+      "https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html"
     ]
   ],
   [
@@ -127,16 +157,6 @@
     [
       "Hetzner launches three new dedicated servers",
       "https://www.hetzner.com/_ray/pow"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 03:54:57",
-      "https://news.ycombinator.com/item?id=35163640"
-    ],
-    [
-      "The Internet Archive&#x27;s battle for libraries",
-      "https://www.battleforlibraries.com/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-03-14, 20:25:41",
-      "https://news.ycombinator.com/item?id=35157910"
-    ],
-    [
-      "Vanilla Handbook",
-      "https://handbook.vanillaos.org/"
-    ]
-  ],
-  [
-    [
       "2023-03-14, 19:00:35",
       "https://news.ycombinator.com/item?id=35156764"
     ],
@@ -287,16 +297,6 @@
     [
       "The Year of the Vulkan Book",
       "https://jorenjoestar.github.io/post/year_of_the_vulkan_book/"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 12:36:19",
-      "https://news.ycombinator.com/item?id=35150482"
-    ],
-    [
-      "Online multiplayer on the Game Boy (2021) [video]",
-      "https://www.youtube.com/watch?v=KtHu693wE9o"
     ]
   ]
 ]
