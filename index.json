@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-03-15, 21:01:14",
+      "https://news.ycombinator.com/item?id=35174655"
+    ],
+    [
+      "OpenAI, Scaling Kubernetes to 7,500 nodes",
+      "https://openai.com/research/scaling-kubernetes-to-7500-nodes"
+    ]
+  ],
+  [
+    [
       "2023-03-15, 20:57:23",
       "https://news.ycombinator.com/item?id=35174612"
     ],
@@ -247,16 +257,6 @@
     [
       "Using a Raspberry Pi to add a second HDMI port to a laptop",
       "https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 07:59:44",
-      "https://news.ycombinator.com/item?id=35165218"
-    ],
-    [
-      "Python-based compiler achieves orders-of-magnitude speedups",
-      "https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314"
     ]
   ],
   [
