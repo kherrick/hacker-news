@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-15, 00:30:35",
+      "https://news.ycombinator.com/item?id=35161866"
+    ],
+    [
+      "40% of the code GitHub Copilot users check-in is AI generated and unmodified",
+      "https://www.microsoft.com/en-us/Investor/events/FY-2023/Morgan-Stanley-TMT-Conference"
+    ]
+  ],
+  [
+    [
+      "2023-03-15, 00:26:41",
+      "https://news.ycombinator.com/item?id=35161824"
+    ],
+    [
+      "Was there a tech-hiring bubble? Job postings data suggest so",
+      "https://fredblog.stlouisfed.org/2023/03/was-there-a-tech-hiring-bubble/"
+    ]
+  ],
+  [
+    [
+      "2023-03-15, 00:00:25",
+      "https://news.ycombinator.com/item?id=35161476"
+    ],
+    [
+      "MIT 24-Hour Challenge",
+      "https://mit24hourchallenge.mightycause.com/story/Mit-Open-Learning"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 23:31:27",
       "https://news.ycombinator.com/item?id=35161067"
     ],
@@ -11,52 +41,12 @@
   ],
   [
     [
-      "2023-03-14, 23:16:10",
-      "https://news.ycombinator.com/item?id=35160810"
+      "2023-03-14, 21:53:48",
+      "https://news.ycombinator.com/item?id=35159447"
     ],
     [
-      "Do New Housing Units in Your Backyard Raise Your Rents?",
-      "https://academic.oup.com/joeg/article-abstract/22/6/1309/6362685"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 22:56:09",
-      "https://news.ycombinator.com/item?id=35160421"
-    ],
-    [
-      "GPT-4 is phenomenal at Code",
-      "https://github.com/anysphere/gpt-4-for-code"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 21:53:55",
-      "https://news.ycombinator.com/item?id=35159449"
-    ],
-    [
-      "Georgia’s big new nuclear reactors could be the last built in the US",
-      "https://www.canarymedia.com/articles/nuclear/georgias-big-new-nuclear-reactors-could-be-the-last-built-in-the-us"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 21:48:41",
-      "https://news.ycombinator.com/item?id=35159378"
-    ],
-    [
-      "Reddit is currently down",
-      "https://mashable.com/article/reddit-is-down-major-outage"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 21:05:26",
-      "https://news.ycombinator.com/item?id=35158601"
-    ],
-    [
-      "Oxide pays all employees $191,227 (Bay Area startup)",
-      "https://oxide.computer/blog/compensation-as-a-reflection-of-values"
+      "We can&#x27;t all use AI. Someone has to generate the training data",
+      "https://twitter.com/paulg/status/1635672262903750662"
     ]
   ],
   [
@@ -87,16 +77,6 @@
     [
       "Vanilla Handbook",
       "https://handbook.vanillaos.org/"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 19:51:46",
-      "https://news.ycombinator.com/item?id=35157363"
-    ],
-    [
-      "Apple Expands Hiring Freeze, Delays Bonuses for Some Employees",
-      "https://www.macrumors.com/2023/03/14/apple-cutting-costs-hiring-freeze-bonus-delay/"
     ]
   ],
   [
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2023-03-14, 17:53:24",
+      "https://news.ycombinator.com/item?id=35155546"
+    ],
+    [
+      "Apple delays bonuses for some divisions as it scrutinizes costs",
+      "https://www.bloomberg.com/news/articles/2023-03-14/apple-delays-bonuses-for-some-divisions-as-it-scrutinizes-costs-aapl"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 17:33:32",
       "https://news.ycombinator.com/item?id=35155198"
     ],
@@ -157,16 +147,6 @@
     [
       "Duolingo Max, a learning experience powered by GPT-4",
       "https://blog.duolingo.com/duolingo-max/"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 17:01:21",
-      "https://news.ycombinator.com/item?id=35154614"
-    ],
-    [
-      "Evals: a framework for evaluating OpenAI models and a registry of benchmarks",
-      "https://github.com/openai/evals"
     ]
   ],
   [
@@ -225,7 +205,7 @@
       "https://news.ycombinator.com/item?id=35151340"
     ],
     [
-      "Live-caption glasses let deaf people read conversations using augmented reality",
+      "Live-caption glasses let deaf people read conversations [video]",
       "https://www.youtube.com/watch?v=LauvOTnZMZg"
     ]
   ],
@@ -247,6 +227,16 @@
     [
       "Shadows in the Big Bang Afterglow Reveal Invisible Cosmic Structures",
       "https://www.quantamagazine.org/shadows-in-the-big-bang-afterglow-reveal-invisible-cosmic-structures-20230313/"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 12:36:19",
+      "https://news.ycombinator.com/item?id=35150482"
+    ],
+    [
+      "Online Multiplayer on the Game Boy [video]",
+      "https://www.youtube.com/watch?v=KtHu693wE9o"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Revisiting Vernor Vinge’s “predictions” for 2025",
       "https://lemire.me/blog/2015/09/04/revisiting-vernor-vinges-predictions-for-2025/"
+    ]
+  ],
+  [
+    [
+      "2023-03-13, 22:57:02",
+      "https://news.ycombinator.com/item?id=35144325"
+    ],
+    [
+      "A Philosopher on Drugs",
+      "https://www.wired.com/story/this-is-a-philosopher-on-drugs/"
     ]
   ],
   [
