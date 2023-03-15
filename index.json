@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-15, 18:24:23",
+      "https://news.ycombinator.com/item?id=35172540"
+    ],
+    [
+      "New York City Prices Make $100k Salary Feel Like $36,000",
+      "https://www.bloomberg.com/news/articles/2023-03-15/new-york-city-prices-make-100-000-salary-feel-like-35-000"
+    ]
+  ],
+  [
+    [
       "2023-03-15, 18:11:16",
       "https://news.ycombinator.com/item?id=35172415"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2023-03-15, 17:36:42",
-      "https://news.ycombinator.com/item?id=35171901"
+      "2023-03-15, 18:07:33",
+      "https://news.ycombinator.com/item?id=35172362"
     ],
     [
-      "Samsung&#x27;s Response on &#x27;Moonshot&#x27; Controversy",
-      "https://www.samsungmobilepress.com/feature-stories/how-samsung-galaxy-cameras-combine-super-resolution-technologies-with-ai-technology-to-produce-high-quality-images-of-the-moon/"
+      "GPT4 and the Multi-Modal, Multi-Model, Multi-Everything Future of AGI",
+      "https://lspace.swyx.io/p/multimodal-gpt4"
     ]
   ],
   [
     [
-      "2023-03-15, 17:23:17",
-      "https://news.ycombinator.com/item?id=35171689"
+      "2023-03-15, 17:36:42",
+      "https://news.ycombinator.com/item?id=35171901"
     ],
     [
-      "Zed, the new code editor from Atom developers, has entered open beta",
-      "https://zed.dev"
+      "Samsung&#x27;s response on &#x27;moonshot&#x27; controversy",
+      "https://www.samsungmobilepress.com/feature-stories/how-samsung-galaxy-cameras-combine-super-resolution-technologies-with-ai-technology-to-produce-high-quality-images-of-the-moon/"
     ]
   ],
   [
@@ -65,18 +75,8 @@
       "https://news.ycombinator.com/item?id=35171239"
     ],
     [
-      "OpenAI Sold its Soul for $1B (2021)",
+      "OpenAI sold its soul for $1B (2021)",
       "https://onezero.medium.com/openai-sold-its-soul-for-1-billion-cf35ff9e8cd4"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 16:53:38",
-      "https://news.ycombinator.com/item?id=35171157"
-    ],
-    [
-      "NASA unveils new moon suit",
-      "https://www.forth.news/threads/6411f18136caf147315df13d"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-03-15, 13:48:43",
-      "https://news.ycombinator.com/item?id=35168285"
-    ],
-    [
-      "Americans lost a record $10.3B to online scammers last year, FBI says",
-      "https://www.wsj.com/articles/americans-lost-a-record-10-3-billion-to-online-scammers-last-year-fbi-says-274d6139"
-    ]
-  ],
-  [
-    [
       "2023-03-15, 12:17:40",
       "https://news.ycombinator.com/item?id=35167101"
     ],
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=35166815"
     ],
     [
-      "Banking in very uncertain times",
+      "Banking in uncertain times",
       "https://www.bitsaboutmoney.com/archive/banking-in-very-uncertain-times/"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Python-based compiler achieves orders-of-magnitude speedups",
       "https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314"
+    ]
+  ],
+  [
+    [
+      "2023-03-15, 06:13:16",
+      "https://news.ycombinator.com/item?id=35164554"
+    ],
+    [
+      "An Uber-like CDN",
+      "https://medium.com/@anton.lakhtikov/uber-like-model-to-disrupt-the-cdn-industry-8d870362f0f6"
     ]
   ],
   [
