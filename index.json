@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=35165801"
     ],
     [
-      "Smalltalk: An Entrepreneur’s Secret Weapon",
+      "Smalltalk: An Entrepreneur’s Secret Weapon (2020)",
       "https://richardeng.medium.com/smalltalk-an-entrepreneurs-secret-weapon-a36b01b68b29"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=35164722"
     ],
     [
-      "Hetzner Launches Three New Dedicated Servers",
+      "Hetzner launches three new dedicated servers",
       "https://www.hetzner.com/_ray/pow"
     ]
   ],
@@ -191,26 +191,6 @@
   ],
   [
     [
-      "2023-03-14, 18:36:24",
-      "https://news.ycombinator.com/item?id=35156380"
-    ],
-    [
-      "MQTT vs. Kafka: An IoT Advocate&#x27;s Perspective",
-      "https://www.influxdata.com/blog/mqtt-vs-kafka-iot-advocates-perspective-part-1/"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 18:12:30",
-      "https://news.ycombinator.com/item?id=35155944"
-    ],
-    [
-      "Mountpoint – file client for S3 written in Rust, from AWS",
-      "https://github.com/awslabs/mountpoint-s3"
-    ]
-  ],
-  [
-    [
       "2023-03-14, 16:55:34",
       "https://news.ycombinator.com/item?id=35154527"
     ],
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2023-03-14, 13:25:19",
+      "https://news.ycombinator.com/item?id=35151088"
+    ],
+    [
+      "Repeat yourself, do more than one thing, and rewrite everything (2018)",
+      "https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 12:36:48",
       "https://news.ycombinator.com/item?id=35150487"
     ],
@@ -287,6 +277,16 @@
     [
       "Approximating Pi Using a Cake?",
       "https://ntietz.com/blog/happy-pi-day-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 11:00:06",
+      "https://news.ycombinator.com/item?id=35149631"
+    ],
+    [
+      "Revisiting Vernor Vinge’s “predictions” for 2025",
+      "https://lemire.me/blog/2015/09/04/revisiting-vernor-vinges-predictions-for-2025/"
     ]
   ],
   [
