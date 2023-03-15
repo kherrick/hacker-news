@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-15, 01:29:05",
+      "https://news.ycombinator.com/item?id=35162458"
+    ],
+    [
+      "Two U.S. Men Charged in 2022 Hacking of DEA Portal",
+      "https://krebsonsecurity.com/2023/03/two-us-men-charged-in-2022-hacking-of-dea-portal/"
+    ]
+  ],
+  [
+    [
+      "2023-03-15, 00:33:51",
+      "https://news.ycombinator.com/item?id=35161916"
+    ],
+    [
+      "Show HN: Whatdoesthiscodedo.com – AI explanations for other people’s code",
+      "https://whatdoesthiscodedo.com/"
+    ]
+  ],
+  [
+    [
       "2023-03-15, 00:30:35",
       "https://news.ycombinator.com/item?id=35161866"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-03-14, 19:29:06",
-      "https://news.ycombinator.com/item?id=35157093"
-    ],
-    [
-      "The emotional toll of caring for research animals",
-      "https://www.science.org/content/article/suffering-silence-caring-research-animals-can-take-severe-mental-toll"
-    ]
-  ],
-  [
-    [
       "2023-03-14, 19:00:35",
       "https://news.ycombinator.com/item?id=35156764"
     ],
@@ -137,16 +147,6 @@
     [
       "The new Bing runs on OpenAI’s GPT-4",
       "https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 17:15:53",
-      "https://news.ycombinator.com/item?id=35154870"
-    ],
-    [
-      "Duolingo Max, a learning experience powered by GPT-4",
-      "https://blog.duolingo.com/duolingo-max/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-03-13, 22:57:02",
-      "https://news.ycombinator.com/item?id=35144325"
+      "2023-03-14, 10:58:23",
+      "https://news.ycombinator.com/item?id=35149618"
     ],
     [
-      "A Philosopher on Drugs",
-      "https://www.wired.com/story/this-is-a-philosopher-on-drugs/"
+      "Blender: Automatic Whole-Program Fuzzing",
+      "https://github.com/dvyukov/centipede/blob/dvyukov-blender/blender/README.md"
     ]
   ],
   [
