@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-15, 18:11:16",
+      "https://news.ycombinator.com/item?id=35172415"
+    ],
+    [
+      "The Social Radars: Conversations with Startup Founders",
+      "https://www.thesocialradars.com"
+    ]
+  ],
+  [
+    [
       "2023-03-15, 17:36:42",
       "https://news.ycombinator.com/item?id=35171901"
     ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35169914"
     ],
     [
-      "This is What Happens When Your Phone is Spying on You",
+      "What happens when your phone is spying on you",
       "https://today.ucsd.edu/story/spywarestudy2023"
     ]
   ],
@@ -167,26 +177,6 @@
     [
       "Launch HN: BuildFlow (YC W23) – The FastAPI of data pipelines",
       "https://news.ycombinator.com/item?id=35169256"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 14:51:07",
-      "https://news.ycombinator.com/item?id=35169184"
-    ],
-    [
-      "Credit Suisse warns of ‘material weaknesses’ in financial reporting",
-      "https://www.theguardian.com/business/2023/mar/14/credit-suisse-financial-reporting-swiss-bank-shares-bonds"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 14:16:42",
-      "https://news.ycombinator.com/item?id=35168652"
-    ],
-    [
-      "Modern Font Stacks",
-      "https://modernfontstacks.com/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Pyroscope and Grafana Phlare join together",
       "https://grafana.com/blog/2023/03/15/pyroscope-grafana-phlare-join-for-oss-continuous-profiling/"
+    ]
+  ],
+  [
+    [
+      "2023-03-15, 11:59:10",
+      "https://news.ycombinator.com/item?id=35166892"
+    ],
+    [
+      "Credit Suisse sheds nearly 25%, key backer says no more money",
+      "https://www.reuters.com/business/finance/credit-suisse-shares-drop-fresh-record-low-cds-widen-2023-03-15/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-03-13, 10:27:33",
-      "https://news.ycombinator.com/item?id=35133676"
+      "2023-03-14, 16:55:34",
+      "https://news.ycombinator.com/item?id=35154527"
     ],
     [
-      "Least Resistance: How Desire Paths Can Lead to Better Design (2016)",
-      "https://99percentinvisible.org/article/least-resistance-desire-paths-can-lead-better-design/"
+      "GPT-4",
+      "https://openai.com/research/gpt-4"
     ]
   ],
   [
     [
-      "2023-03-13, 07:59:31",
-      "https://news.ycombinator.com/item?id=35132505"
+      "2023-03-14, 12:24:48",
+      "https://news.ycombinator.com/item?id=35150345"
     ],
     [
-      "DigiKam 7.10.0",
-      "https://www.digikam.org/news/2023-03-13-7.10.0_release_announcement/"
+      "Show HN: Modern Font Stacks – New system font stack CSS for modern OSs",
+      "https://modernfontstacks.com/"
     ]
   ]
 ]
