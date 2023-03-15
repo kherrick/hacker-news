@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-03-15, 16:59:08",
-      "https://news.ycombinator.com/item?id=35171239"
-    ],
-    [
-      "OpenAI sold its soul for $1B (2021)",
-      "https://onezero.medium.com/openai-sold-its-soul-for-1-billion-cf35ff9e8cd4"
-    ]
-  ],
-  [
-    [
       "2023-03-15, 16:50:34",
       "https://news.ycombinator.com/item?id=35171116"
     ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2023-03-15, 14:28:44",
+      "https://news.ycombinator.com/item?id=35168808"
+    ],
+    [
+      "How Silicon Valley Bank Avoided Oversight",
+      "https://www.wsj.com/articles/how-silicon-valley-bank-avoided-oversight-fdic-systemic-risk-midsize-greg-becker-dodd-frank-reporting-lobbying-5b3ff837"
+    ]
+  ],
+  [
+    [
       "2023-03-15, 14:16:23",
       "https://news.ycombinator.com/item?id=35168647"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-03-15, 06:41:41",
-      "https://news.ycombinator.com/item?id=35164722"
-    ],
-    [
-      "Hetzner launches three new dedicated servers",
-      "https://www.hetzner.com/_ray/pow"
-    ]
-  ],
-  [
-    [
       "2023-03-15, 06:13:16",
       "https://news.ycombinator.com/item?id=35164554"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: Modern Font Stacks – New system font stack CSS for modern OSs",
       "https://modernfontstacks.com/"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 05:32:23",
+      "https://news.ycombinator.com/item?id=35147765"
+    ],
+    [
+      "Emitting Safer Rust with C2Rust",
+      "https://immunant.com/blog/2023/03/lifting/"
     ]
   ]
 ]
