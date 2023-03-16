@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-03-16, 08:40:35",
-      "https://news.ycombinator.com/item?id=35179600"
-    ],
-    [
-      "Stop Using Custom Web Fonts",
-      "https://bt.ht/webfonts/"
-    ]
-  ],
-  [
-    [
       "2023-03-16, 08:12:23",
       "https://news.ycombinator.com/item?id=35179427"
     ],
@@ -41,22 +31,22 @@
   ],
   [
     [
-      "2023-03-16, 06:50:17",
-      "https://news.ycombinator.com/item?id=35178947"
-    ],
-    [
-      "Last night I read for the first time the company’s 8k announcing my resignation",
-      "https://www.linkedin.com/posts/xiaodihou_last-night-i-read-for-the-first-time-the-activity-7041526468257992705-4BFy"
-    ]
-  ],
-  [
-    [
       "2023-03-16, 03:03:06",
       "https://news.ycombinator.com/item?id=35177641"
     ],
     [
       "Shoshikantetsu",
       "https://asnewman.github.io/shoshikantetsu"
+    ]
+  ],
+  [
+    [
+      "2023-03-16, 02:41:58",
+      "https://news.ycombinator.com/item?id=35177526"
+    ],
+    [
+      "Why Barney Frank went to work for Signature Bank",
+      "https://www.newyorker.com/news/q-and-a/why-barney-frank-went-to-work-for-signature-bank"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Vulnerabilities in the TPM 2.0 reference implementation code",
       "https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 12:24:48",
+      "https://news.ycombinator.com/item?id=35150345"
+    ],
+    [
+      "Show HN: Modern Font Stacks – New system font stack CSS for modern OSs",
+      "https://modernfontstacks.com/"
     ]
   ],
   [
