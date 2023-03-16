@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-16, 19:11:08",
+      "https://news.ycombinator.com/item?id=35186812"
+    ],
+    [
+      "Introducing react.dev",
+      "https://react.dev/blog/2023/03/16/introducing-react-dev"
+    ]
+  ],
+  [
+    [
+      "2023-03-16, 18:56:58",
+      "https://news.ycombinator.com/item?id=35186621"
+    ],
+    [
+      "FCC orders phone companies to block scam text messages",
+      "https://arstechnica.com/tech-policy/2023/03/fcc-orders-phone-companies-to-block-scam-text-messages/"
+    ]
+  ],
+  [
+    [
+      "2023-03-16, 18:43:14",
+      "https://news.ycombinator.com/item?id=35186416"
+    ],
+    [
+      "Flatburn: An open-source, low-cost, mobile pollution detector by MIT",
+      "https://senseable.mit.edu/flatburn/"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 18:42:31",
       "https://news.ycombinator.com/item?id=35186406"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2023-03-16, 17:53:40",
-      "https://news.ycombinator.com/item?id=35185567"
+      "2023-03-16, 18:09:12",
+      "https://news.ycombinator.com/item?id=35185851"
     ],
     [
-      "Dead Internet Theory",
-      "https://en.wikipedia.org/wiki/Dead_Internet_theory"
+      "Project Orion",
+      "https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "Where did FTX customer money go? Firm says Bankman-Fried took $2.2B",
       "https://arstechnica.com/tech-policy/2023/03/sam-bankman-fried-took-2-2-billion-in-payments-and-loans-ftx-tells-court/"
+    ]
+  ],
+  [
+    [
+      "2023-03-16, 17:32:34",
+      "https://news.ycombinator.com/item?id=35185227"
+    ],
+    [
+      "Three Logicians Walk into a Bar",
+      "https://twitter.com/dmvaldman/status/1636180222759563264"
     ]
   ],
   [
@@ -107,6 +147,16 @@
     [
       "Launch HN: Sidekick (YC W23) – AI support bot for developers",
       "https://news.ycombinator.com/item?id=35184120"
+    ]
+  ],
+  [
+    [
+      "2023-03-16, 16:15:59",
+      "https://news.ycombinator.com/item?id=35184011"
+    ],
+    [
+      "Twitch CEO Emmett Shear is resigning",
+      "https://www.theverge.com/2023/3/16/23643223/twitch-ceo-emmett-shear-resigning-dan-clancy"
     ]
   ],
   [
@@ -205,7 +255,7 @@
       "https://news.ycombinator.com/item?id=35179871"
     ],
     [
-      "Can you beat my dad at Scrabble?",
+      "Show HN: Can you beat my dad at Scrabble?",
       "https://dadagrams.com"
     ]
   ],
@@ -221,32 +271,12 @@
   ],
   [
     [
-      "2023-03-16, 03:03:06",
-      "https://news.ycombinator.com/item?id=35177641"
+      "2023-03-16, 05:24:34",
+      "https://news.ycombinator.com/item?id=35178426"
     ],
     [
-      "Shoshikantetsu",
-      "https://asnewman.github.io/shoshikantetsu"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 01:39:37",
-      "https://news.ycombinator.com/item?id=35177110"
-    ],
-    [
-      "How did Dennis Ritchie produce his PhD thesis? A typographical mystery (2022) [pdf]",
-      "https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 10:57:11",
-      "https://news.ycombinator.com/item?id=35166317"
-    ],
-    [
-      "Docker is deleting Open Source organisations - what you need to know",
-      "https://blog.alexellis.io/docker-is-deleting-open-source-images/"
+      "The Worlds of Italo Calvino",
+      "https://www.newyorker.com/magazine/2023/03/06/the-worlds-of-italo-calvino"
     ]
   ],
   [
@@ -257,36 +287,6 @@
     [
       "The case of the missing 4th Commodore BASIC variable (and the 5th byte)",
       "https://www.masswerk.at/nowgobang/2023/the-case-of-the-4th"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 07:44:03",
-      "https://news.ycombinator.com/item?id=35165106"
-    ],
-    [
-      "Orbita – A MIDI Turntable Sequencer",
-      "https://orbita.playtronica.com/"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 06:19:57",
-      "https://news.ycombinator.com/item?id=35164590"
-    ],
-    [
-      "Just Write",
-      "https://robert.bearblog.dev/just-write/"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 06:11:08",
-      "https://news.ycombinator.com/item?id=35164541"
-    ],
-    [
-      "Math and Motion: A Look at Chebyshev’s Works on Linkages",
-      "https://bhavana.org.in/math-and-motion-a-look-at-chebyshevs-works-on-linkages/"
     ]
   ],
   [
