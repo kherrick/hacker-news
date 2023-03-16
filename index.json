@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-16, 12:46:21",
+      "https://news.ycombinator.com/item?id=35181139"
+    ],
+    [
+      "Not by AI",
+      "https://notbyai.fyi/"
+    ]
+  ],
+  [
+    [
+      "2023-03-16, 12:43:26",
+      "https://news.ycombinator.com/item?id=35181108"
+    ],
+    [
+      "When was Oppenheimer&#x27;s “Now, I am become Death ” recorded?",
+      "https://news.ycombinator.com/item?id=35181108"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 12:02:25",
       "https://news.ycombinator.com/item?id=35180832"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
+      "2023-03-16, 11:34:08",
+      "https://news.ycombinator.com/item?id=35180648"
+    ],
+    [
+      "Show HN: Chainloop, A Software Supply Chain Attestation solution devs won&#x27;t hate",
+      "https://github.com/chainloop-dev/chainloop"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 11:26:23",
       "https://news.ycombinator.com/item?id=35180591"
     ],
     [
       "OpenSSH 9.3&#x2F;9.3p1 Released",
       "https://www.openssh.com/txt/release-9.3"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 11:00:50",
-      "https://news.ycombinator.com/item?id=35180392"
-    ],
-    [
-      "Anyone else witnessing a panic inside NLP orgs of big tech companies?",
-      "https://old.reddit.com/r/MachineLearning/comments/11rizyb/d_anyone_else_witnessing_a_panic_inside_nlp_orgs/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Google discontinues Google Glass for enterprise",
       "https://www.google.com/glass/start/"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 03:48:15",
-      "https://news.ycombinator.com/item?id=35177923"
-    ],
-    [
-      "Court of Versailles vs. the Wild West",
-      "https://www.asleepthinking.com/blog/court-of-versailles-vs-the-wild-west"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Functional Geometry with Gambit Scheme and Raylib",
       "https://github.com/georgjz/functional-geometry-gambit-scheme"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 06:04:24",
-      "https://news.ycombinator.com/item?id=35147937"
-    ],
-    [
-      "Guide to Java Virtual Threads",
-      "https://blog.rockthejvm.com/ultimate-guide-to-java-virtual-threads/"
     ]
   ]
 ]
