@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-16, 14:12:51",
+      "https://news.ycombinator.com/item?id=35182240"
+    ],
+    [
+      "Citymapper Joins Via",
+      "https://content.citymapper.com/news/2582/citymapper-joins-via"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 13:58:28",
       "https://news.ycombinator.com/item?id=35182034"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=35181954"
     ],
     [
-      "Lego violates GPL by keep Blender-based BrickLink Studio source closed",
+      "Lego violates GPL by keep Blender-based BrickLink Studio source closed (2021)",
       "https://devtalk.blender.org/t/on-what-version-of-cycles-is-bricklink-stud-ios-eyesight-renderer-based/17566"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35180832"
     ],
     [
-      "Amazon Photos just ate 240,364 of my photos",
+      "Is something wrong with Amazon Photos? I lost 240k photos",
       "https://www.amazonforum.com/s/question/0D56Q0000BAmuYXSQZ/is-something-wrong-with-amazon-photos-i-lost-240364-photos"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=35180591"
     ],
     [
-      "OpenSSH 9.3&#x2F;9.3p1 Released",
+      "OpenSSH 9.3&#x2F;9.3p1",
       "https://www.openssh.com/txt/release-9.3"
     ]
   ],
@@ -167,16 +177,6 @@
     [
       "How did Dennis Ritchie produce his PhD thesis? A typographical mystery (2022) [pdf]",
       "https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 23:08:07",
-      "https://news.ycombinator.com/item?id=35175926"
-    ],
-    [
-      "&#x27;Financial Times&#x27; Issues 103-Year-Old Correction (2017)",
-      "https://www.npr.org/sections/thetwo-way/2017/08/08/542238978/-financial-times-issues-103-year-old-correction"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=35148306"
     ],
     [
-      "ShreyaR&#x2F;guardrails: Adding guardrails to large language models",
+      "Adding guardrails to large language models",
       "https://github.com/ShreyaR/guardrails"
     ]
   ],
