@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-03-16, 13:10:31",
+      "https://news.ycombinator.com/item?id=35181433"
+    ],
+    [
+      "Midjourney v5 can do hands",
+      "https://twitter.com/tristwolff/status/1636188634012438530"
+    ]
+  ],
+  [
+    [
+      "2023-03-16, 12:59:54",
+      "https://news.ycombinator.com/item?id=35181301"
+    ],
+    [
+      "A brief guide to Kubernetes networking",
+      "https://ergomake.dev/blog/kubernetes-networking-guide/"
+    ]
+  ],
+  [
+    [
+      "2023-03-16, 12:53:09",
+      "https://news.ycombinator.com/item?id=35181218"
+    ],
+    [
+      "Studies Link Marijuana Legalization to Positive Public Health Outcomes",
+      "https://www.goodnewsnetwork.org/studies-link-marijuana-legalization-to-all-sorts-of-positive-public-health-outcomes/"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 12:46:21",
       "https://news.ycombinator.com/item?id=35181139"
     ],
     [
       "Not by AI",
       "https://notbyai.fyi/"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 12:43:26",
-      "https://news.ycombinator.com/item?id=35181108"
-    ],
-    [
-      "When was Oppenheimer&#x27;s “Now, I am become Death ” recorded?",
-      "https://news.ycombinator.com/item?id=35181108"
     ]
   ],
   [
@@ -151,26 +171,6 @@
   ],
   [
     [
-      "2023-03-15, 21:36:41",
-      "https://news.ycombinator.com/item?id=35175063"
-    ],
-    [
-      "Stripe announces new round of funding and plan to provide employee liquidity",
-      "https://stripe.com/newsroom/news/stripe-series-i-employee-liquidity"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 20:57:23",
-      "https://news.ycombinator.com/item?id=35174612"
-    ],
-    [
-      "PyTorch 2.0",
-      "https://pytorch.org/blog/pytorch-2.0-release/"
-    ]
-  ],
-  [
-    [
       "2023-03-15, 16:40:25",
       "https://news.ycombinator.com/item?id=35170955"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-03-15, 07:25:43",
-      "https://news.ycombinator.com/item?id=35164997"
-    ],
-    [
-      "Designing Good Interfaces",
-      "https://pboyd.io/posts/good-interfaces/"
-    ]
-  ],
-  [
-    [
       "2023-03-15, 06:19:57",
       "https://news.ycombinator.com/item?id=35164590"
     ],
@@ -277,6 +267,16 @@
     [
       "Vulnerabilities in the TPM 2.0 reference implementation code",
       "https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 12:24:48",
+      "https://news.ycombinator.com/item?id=35150345"
+    ],
+    [
+      "Show HN: Modern Font Stacks – New system font stack CSS for modern OSs",
+      "https://modernfontstacks.com/"
     ]
   ],
   [
