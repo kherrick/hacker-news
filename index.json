@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-16, 08:27:48",
+      "https://news.ycombinator.com/item?id=35179539"
+    ],
+    [
+      "Chat GPT4: Is the world prepared for the coming AI storm?",
+      "https://www.bbc.co.uk/news/world-us-canada-64967627"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 07:25:34",
       "https://news.ycombinator.com/item?id=35179170"
     ],
@@ -287,16 +297,6 @@
     [
       "Guide to Java Virtual Threads",
       "https://blog.rockthejvm.com/ultimate-guide-to-java-virtual-threads/"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 05:32:23",
-      "https://news.ycombinator.com/item?id=35147765"
-    ],
-    [
-      "Emitting Safer Rust with C2Rust",
-      "https://immunant.com/blog/2023/03/lifting/"
     ]
   ]
 ]
