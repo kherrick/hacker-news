@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-03-17, 11:23:14",
+      "https://news.ycombinator.com/item?id=35195554"
+    ],
+    [
+      "Big Banks Agree to Historic $30B Deposit Injection in First Republic",
+      "https://www.citigroup.com/global/news/press-release/2023/bank-of-america-citigroup-jpmorgan-chase-wells-fargo-goldman-sachs-morgan-stanley-bny-mellon-pnc-bank-state-street-truist-and-u-s-bank-to-make-uninsured-deposits-totaling-30-billion-into-first-republic-bank"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 10:48:09",
       "https://news.ycombinator.com/item?id=35195348"
     ],
     [
       "The friendship between Haskell and C",
       "https://typeclasses.substack.com/p/the-friendship-between-haskell-and"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 10:19:15",
+      "https://news.ycombinator.com/item?id=35195179"
+    ],
+    [
+      "Why do older grad students become bitter?",
+      "https://musings.lambdaloop.com/bitter-grads/"
     ]
   ],
   [
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2023-03-17, 04:39:19",
+      "https://news.ycombinator.com/item?id=35193188"
+    ],
+    [
+      "Can GPT-4 *Actually* Write Code?",
+      "https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 03:59:39",
       "https://news.ycombinator.com/item?id=35192913"
     ],
@@ -77,16 +107,6 @@
     [
       "Amazon shuts newspaper and magazine subscriptions for Kindle and print",
       "https://www.niemanlab.org/2023/03/goodbye-newspapers-on-kindle-amazon-stops-selling-newspaper-and-magazine-subscriptions/"
-    ]
-  ],
-  [
-    [
-      "2023-03-17, 01:46:06",
-      "https://news.ycombinator.com/item?id=35191787"
-    ],
-    [
-      "The Misalignment Museum",
-      "https://www.misalignmentmuseum.com/"
     ]
   ],
   [
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2023-03-16, 18:56:58",
-      "https://news.ycombinator.com/item?id=35186621"
-    ],
-    [
-      "FCC orders phone companies to block scam text messages",
-      "https://arstechnica.com/tech-policy/2023/03/fcc-orders-phone-companies-to-block-scam-text-messages/"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 18:46:26",
-      "https://news.ycombinator.com/item?id=35186462"
-    ],
-    [
-      "Docopt.sh – Command-Line Argument Parser for Bash 3.2, 4, and 5",
-      "https://github.com/andsens/docopt.sh"
-    ]
-  ],
-  [
-    [
       "2023-03-16, 17:23:17",
       "https://news.ycombinator.com/item?id=35185122"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=35183182"
     ],
     [
-      "EyesCream II Visual Field Test (Windows)",
+      "EyesCream – Eye Test Program as Computer Game",
       "http://www.eyesage.org/?lang=us"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=35165832"
     ],
     [
-      "The Si Units of Simile",
+      "SI Units of Simile",
       "http://blog.karliner.net/posts/units-of-simile/"
     ]
   ]
