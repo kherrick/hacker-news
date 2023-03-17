@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-17, 16:40:39",
+      "https://news.ycombinator.com/item?id=35199440"
+    ],
+    [
+      "Linux Intel WiFi driver broken with 5&amp;6GHz bands for longer than three years",
+      "https://bugzilla.kernel.org/show_bug.cgi?id=206469"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 16:35:07",
+      "https://news.ycombinator.com/item?id=35199359"
+    ],
+    [
+      "ChatGPT is laying you off",
+      "https://albertcory50.substack.com/p/chatgpt-is-laying-you-off"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 16:10:32",
       "https://news.ycombinator.com/item?id=35198998"
     ],
@@ -61,32 +81,12 @@
   ],
   [
     [
-      "2023-03-17, 14:05:39",
-      "https://news.ycombinator.com/item?id=35197227"
-    ],
-    [
-      "A Growing Number of Scientists Are Convinced the Future Influences the Past",
-      "https://www.vice.com/en/article/epvgjm/a-growing-number-of-scientists-are-convinced-the-future-influences-the-past"
-    ]
-  ],
-  [
-    [
       "2023-03-17, 13:20:42",
       "https://news.ycombinator.com/item?id=35196721"
     ],
     [
       "JDK 20 G1&#x2F;Parallel&#x2F;Serial GC Changes",
       "https://tschatzl.github.io/2023/03/14/jdk20-g1-parallel-gc-changes.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-17, 12:52:08",
-      "https://news.ycombinator.com/item?id=35196442"
-    ],
-    [
-      "Still Have a Use for Adobe Flash? Ruffle Is Working to Safely Emulate It in Rust",
-      "https://www.phoronix.com/news/Ruffle-Adobe-Flash-Rust"
     ]
   ],
   [
