@@ -1,12 +1,62 @@
 [
   [
     [
-      "2023-03-16, 23:24:43",
-      "https://news.ycombinator.com/item?id=35190383"
+      "2023-03-17, 00:59:54",
+      "https://news.ycombinator.com/item?id=35191303"
     ],
     [
-      "Prompt engineers have already jailbroken GPT-4 in just two days",
-      "https://twitter.com/alexalbert__/status/1636488551817965568"
+      "Show HN: GPT Repo Loader – load entire code repos into GPT prompts",
+      "https://github.com/mpoon/gpt-repository-loader"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 00:49:39",
+      "https://news.ycombinator.com/item?id=35191206"
+    ],
+    [
+      "U.S. Copyright Office Issues Statement on Works Containing AI-Generated Material",
+      "https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 00:46:55",
+      "https://news.ycombinator.com/item?id=35191183"
+    ],
+    [
+      "Template – A Simple Framework for Webapps",
+      "https://github.com/retrohacker/template"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 00:11:35",
+      "https://news.ycombinator.com/item?id=35190830"
+    ],
+    [
+      "My Thoughts on “Bad Code”",
+      "https://twitter.com/tsoding/status/1632038724044201985"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 00:09:51",
+      "https://news.ycombinator.com/item?id=35190811"
+    ],
+    [
+      "Google: Turn off VoLTE, Wi-Fi calling: severe Exynos modem vulnerabilities",
+      "https://9to5google.com/2023/03/16/google-exynos-modem-vulnerabilities/"
+    ]
+  ],
+  [
+    [
+      "2023-03-16, 23:49:42",
+      "https://news.ycombinator.com/item?id=35190631"
+    ],
+    [
+      "Starlink V2 Satellites in Trouble",
+      "https://twitter.com/TMFAssociates/status/1636436007837941770"
     ]
   ],
   [
@@ -35,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35189854"
     ],
     [
-      "ChatGPT can talk to your AWS infrastructure footprint",
+      "We built an exceedingly polite AI dog that answers questions about your APIs",
       "https://www.akitasoftware.com/blog-posts/we-built-an-exceedingly-polite-ai-dog-that-answers-questions-about-your-apis"
     ]
   ],
@@ -47,16 +97,6 @@
     [
       "Transformers.js",
       "https://xenova.github.io/transformers.js/"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 22:05:19",
-      "https://news.ycombinator.com/item?id=35189441"
-    ],
-    [
-      "Heroku Status – Dashboard&#x2F;API Offline",
-      "https://status.heroku.com/incidents/2524"
     ]
   ],
   [
@@ -191,32 +231,12 @@
   ],
   [
     [
-      "2023-03-16, 16:46:34",
-      "https://news.ycombinator.com/item?id=35184546"
-    ],
-    [
-      "Triplebyte acquired by Karat",
-      "https://karat.com/blog/post/karat-acquires-leading-adaptive-assessment-technology-from-triplebyte/"
-    ]
-  ],
-  [
-    [
       "2023-03-16, 16:21:21",
       "https://news.ycombinator.com/item?id=35184120"
     ],
     [
       "Launch HN: Sidekick (YC W23) – AI support bot for developers",
       "https://news.ycombinator.com/item?id=35184120"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 15:39:17",
-      "https://news.ycombinator.com/item?id=35183352"
-    ],
-    [
-      "A battle royal is brewing over copyright and AI",
-      "https://www.economist.com/business/2023/03/15/a-battle-royal-is-brewing-over-copyright-and-ai"
     ]
   ],
   [
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2023-03-16, 12:46:21",
-      "https://news.ycombinator.com/item?id=35181139"
+      "2023-03-16, 15:00:20",
+      "https://news.ycombinator.com/item?id=35182824"
     ],
     [
-      "Not by AI",
-      "https://notbyai.fyi/"
+      "Ok, it’s time to freak out about AI",
+      "https://nonzero.substack.com/p/ok-its-time-to-freak-out-about-ai"
     ]
   ],
   [
@@ -251,26 +271,6 @@
   ],
   [
     [
-      "2023-03-16, 09:34:29",
-      "https://news.ycombinator.com/item?id=35179871"
-    ],
-    [
-      "Show HN: Can you beat my dad at Scrabble?",
-      "https://dadagrams.com"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 09:21:54",
-      "https://news.ycombinator.com/item?id=35179799"
-    ],
-    [
-      "Miller: Like Awk, sed, cut, join, and sort for CSV, TSV, and tabular JSON",
-      "https://github.com/johnkerl/miller"
-    ]
-  ],
-  [
-    [
       "2023-03-16, 05:24:34",
       "https://news.ycombinator.com/item?id=35178426"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-03-15, 07:55:20",
-      "https://news.ycombinator.com/item?id=35165189"
-    ],
-    [
-      "A city map of bus and train stations",
-      "https://www.cricetuscricetus.co.uk/post/a-city-map-of-bus-and-train-stations"
-    ]
-  ],
-  [
-    [
       "2023-03-15, 06:21:54",
       "https://news.ycombinator.com/item?id=35164602"
     ],
     [
       "On Taking Photographs",
       "https://oldtowneast.openpluto.com/on-taking-photographs/"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 15:39:02",
+      "https://news.ycombinator.com/item?id=35153276"
+    ],
+    [
+      "What I like using Grafana Loki for (and where I avoid it)",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiWhatILikeItFor"
     ]
   ]
 ]
