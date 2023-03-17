@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-17, 13:20:42",
+      "https://news.ycombinator.com/item?id=35196721"
+    ],
+    [
+      "JDK 20 G1&#x2F;Parallel&#x2F;Serial GC Changes",
+      "https://tschatzl.github.io/2023/03/14/jdk20-g1-parallel-gc-changes.html"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 12:55:54",
       "https://news.ycombinator.com/item?id=35196475"
     ],
@@ -17,6 +27,16 @@
     [
       "GPT-4 System Card [pdf]",
       "https://cdn.openai.com/papers/gpt-4-system-card.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 12:27:32",
+      "https://news.ycombinator.com/item?id=35196173"
+    ],
+    [
+      "Google says hackers could silently own your phone until Samsung fixes its modems",
+      "https://www.theverge.com/2023/3/16/23644013/samsung-exynos-modem-security-issue-project-zero"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-03-16, 10:25:55",
-      "https://news.ycombinator.com/item?id=35180146"
-    ],
-    [
-      "The digestive systems of carnivorous plants",
-      "https://academic.oup.com/plphys/article/190/1/44/6590657"
-    ]
-  ],
-  [
-    [
       "2023-03-16, 08:08:12",
       "https://news.ycombinator.com/item?id=35179407"
     ],
@@ -277,16 +287,6 @@
     [
       "Learning Structural Descriptions from Examples (1970) [pdf]",
       "https://dspace.mit.edu/bitstream/handle/1721.1/6884/AITR-231.pdf?sequence=2&isAllowed=y"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 09:57:22",
-      "https://news.ycombinator.com/item?id=35165899"
-    ],
-    [
-      "At Long Last, a Donkey Family Tree",
-      "https://www.nytimes.com/2023/03/14/science/donkeys-genetics-archaeology.html"
     ]
   ],
   [
