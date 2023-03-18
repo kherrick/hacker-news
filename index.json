@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-18, 08:04:43",
+      "https://news.ycombinator.com/item?id=35207157"
+    ],
+    [
+      "Klint: Compile-Time Detection of Atomic Context Violations for Kernel Rust Code",
+      "https://www.memorysafety.org/blog/gary-guo-klint-rust-tools/"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 06:40:25",
       "https://news.ycombinator.com/item?id=35206734"
     ],
@@ -187,16 +197,6 @@
     [
       "Prostate cancer could be treated by destroying tumors with electric currents",
       "https://www.telegraph.co.uk/news/2022/01/02/one-hour-operation-could-cure-prostate-cancer-destroying-tumours/"
-    ]
-  ],
-  [
-    [
-      "2023-03-17, 04:39:19",
-      "https://news.ycombinator.com/item?id=35193188"
-    ],
-    [
-      "Testing GPT 4&#x27;s code-writing capabilities with some real world problems",
-      "https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code"
     ]
   ],
   [
