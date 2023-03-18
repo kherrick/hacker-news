@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-18, 21:18:57](https://news.ycombinator.com/item?id=35213213) - [Twitter will open source all code used to recommend tweets on March 31](https://nitter.bird.froth.zone/elonmusk/status/1636835209587949570#m)
 * [2023-03-18, 21:02:56](https://news.ycombinator.com/item?id=35213078) - [We&#x27;re Drowning in Subscriptions](https://www.bloomberg.com/opinion/articles/2023-03-17/we-re-drowning-in-subscriptions-as-retailers-join-too)
 * [2023-03-18, 20:11:01](https://news.ycombinator.com/item?id=35212660) - [Build Your Own Redis with C&#x2F;C++](https://build-your-own.org/redis/)
 * [2023-03-18, 19:56:15](https://news.ycombinator.com/item?id=35212522) - [JPEG-XL vs. AVIF and Others: 27 Images Compared](https://giannirosato.com/blog/post/image-comparison/)
@@ -26,7 +27,6 @@
 * [2023-03-18, 03:46:56](https://news.ycombinator.com/item?id=35205859) - [Listening to the Creatures of the World](https://www.noemamag.com/a-parliament-of-earthlings/)
 * [2023-03-17, 01:08:19](https://news.ycombinator.com/item?id=35191372) - [Pico_1140: A PDP11&#x2F;40 emulator that will run Unix v5&#x2F;v6 on a Raspberry Pi RP2040](https://github.com/Isysxp/Pico_1140)
 * [2023-03-17, 00:25:55](https://news.ycombinator.com/item?id=35190971) - [The early 90s tech scene that created L0pht, the legendary hackerspace](https://cyberscoop.com/boston-l0pht-hackers-tech-scene/)
-* [2023-03-16, 11:23:01](https://news.ycombinator.com/item?id=35180559) - [Technical dimensions of programming systems](https://tomasp.net/techdims/)
 * [2023-03-16, 06:44:56](https://news.ycombinator.com/item?id=35178917) - [Limitations and websites](https://daverupert.com/2023/03/limitations-and-websites/)
 * [2023-03-16, 06:10:14](https://news.ycombinator.com/item?id=35178719) - [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/00_about/)
 * [2023-03-16, 05:36:32](https://news.ycombinator.com/item?id=35178506) - [What was the impact of Julius Caesar’s murder?](https://www.historytoday.com/archive/head-head/what-was-impact-julius-caesars-murder)
