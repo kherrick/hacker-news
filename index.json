@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=35209248"
     ],
     [
-      "Simulations and Games in Economics Education",
+      "Simulations and games in economics education",
       "https://en.wikipedia.org/wiki/Simulations_and_games_in_economics_education"
     ]
   ],
@@ -137,6 +137,16 @@
     [
       "Laptop Brands with GNU&#x2F;Linux Preinstalled",
       "https://floss.social/@ademalsasa/109597861116785251"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 12:58:23",
+      "https://news.ycombinator.com/item?id=35208721"
+    ],
+    [
+      "Exploiting ACropalypse: Recovering Truncated PNGs",
+      "https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html"
     ]
   ],
   [
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=35207689"
     ],
     [
-      "Inside a journal’s quest to upend science publishing",
+      "Strife at eLife: inside a journal’s quest to upend science publishing",
       "https://www.nature.com/articles/d41586-023-00831-6"
     ]
   ],
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=35207157"
     ],
     [
-      "Klint: Compile-Time Detection of Atomic Context Violations for Kernel Rust Code",
+      "Klint: Compile-time detection of atomic context violations for kernel Rust code",
       "https://www.memorysafety.org/blog/gary-guo-klint-rust-tools/"
     ]
   ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2023-03-18, 00:49:58",
-      "https://news.ycombinator.com/item?id=35204860"
-    ],
-    [
-      "SETI@home is in hibernation",
-      "https://setiathome.berkeley.edu/"
-    ]
-  ],
-  [
-    [
       "2023-03-17, 23:41:27",
       "https://news.ycombinator.com/item?id=35204398"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2023-03-16, 20:35:24",
-      "https://news.ycombinator.com/item?id=35188134"
+      "2023-03-17, 01:08:19",
+      "https://news.ycombinator.com/item?id=35191372"
     ],
     [
-      "Simple Shellcode Detection",
-      "https://isc.sans.edu/diary.html?storyid=0"
+      "Pico_1140: A PDP11&#x2F;40 emulator that will run Unix v5&#x2F;v6 on a Raspberry Pi RP2040",
+      "https://github.com/Isysxp/Pico_1140"
     ]
   ],
   [
     [
-      "2023-03-16, 11:23:01",
-      "https://news.ycombinator.com/item?id=35180559"
+      "2023-03-16, 20:35:24",
+      "https://news.ycombinator.com/item?id=35188134"
     ],
     [
-      "Technical Dimensions of Programming Systems",
-      "https://tomasp.net/techdims/"
+      "Old backdoor, new obfuscation",
+      "https://isc.sans.edu/diary.html?storyid=0"
     ]
   ],
   [
