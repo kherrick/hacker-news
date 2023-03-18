@@ -2,7 +2,7 @@
 
 * [2023-03-18, 22:27:29](https://news.ycombinator.com/item?id=35213776) - [Design notes on the 2023 Wikipedia redesign](https://alexhollender.com/wikipedia-2023-redesign)
 * [2023-03-18, 21:45:24](https://news.ycombinator.com/item?id=35213400) - [Arbitrary code execution during compilation – rust](https://github.com/eleijonmarck/do-not-compile-this-code)
-* [2023-03-18, 21:18:57](https://news.ycombinator.com/item?id=35213213) - [Twitter will open source all code used to recommend tweets on March 31](https://nitter.bird.froth.zone/elonmusk/status/1636835209587949570#m)
+* [2023-03-18, 21:02:56](https://news.ycombinator.com/item?id=35213078) - [We&#x27;re Drowning in Subscriptions](https://www.bloomberg.com/opinion/articles/2023-03-17/we-re-drowning-in-subscriptions-as-retailers-join-too)
 * [2023-03-18, 20:11:01](https://news.ycombinator.com/item?id=35212660) - [Build Your Own Redis with C&#x2F;C++](https://build-your-own.org/redis/)
 * [2023-03-18, 19:56:15](https://news.ycombinator.com/item?id=35212522) - [JPEG-XL vs. AVIF and Others: 27 Images Compared](https://giannirosato.com/blog/post/image-comparison/)
 * [2023-03-18, 19:47:27](https://news.ycombinator.com/item?id=35212450) - [Desiderata: Original Text](https://www.desiderata.com/desiderata.html)
