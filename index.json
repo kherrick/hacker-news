@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-03-18, 04:18:18",
-      "https://news.ycombinator.com/item?id=35206040"
-    ],
-    [
-      "Google nixes paying maternity and medical leave for laid off workers",
-      "https://www.cnbc.com/2023/03/17/google-nixes-paying-out-rest-of-medical-leave-for-laid-off-employees.html"
-    ]
-  ],
-  [
-    [
       "2023-03-18, 03:48:10",
       "https://news.ycombinator.com/item?id=35205864"
     ],
@@ -67,6 +57,16 @@
     [
       "Are you ok?",
       "https://memex.marginalia.nu/log/72-are-you-ok.gmi"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 02:43:32",
+      "https://news.ycombinator.com/item?id=35205538"
+    ],
+    [
+      "Study tracks how we decide which groups to join",
+      "https://www.ox.ac.uk/news/2016-03-23-study-tracks-how-we-decide-which-groups-join"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "PostgreSQL Logical Replication Explained",
       "https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql"
-    ]
-  ],
-  [
-    [
-      "2023-03-17, 19:41:40",
-      "https://news.ycombinator.com/item?id=35201848"
-    ],
-    [
-      "New React docs pretend SPAs don&#x27;t exist anymore",
-      "https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Prostate cancer could be treated by destroying tumors with electric currents",
       "https://www.telegraph.co.uk/news/2022/01/02/one-hour-operation-could-cure-prostate-cancer-destroying-tumours/"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 04:39:19",
+      "https://news.ycombinator.com/item?id=35193188"
+    ],
+    [
+      "Testing GPT 4&#x27;s code-writing capabilities with some real world problems",
+      "https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code"
     ]
   ],
   [
