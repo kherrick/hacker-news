@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-18, 16:53:03",
+      "https://news.ycombinator.com/item?id=35210730"
+    ],
+    [
+      "a[low:high:max] in Golang – A Rare Slice Trick",
+      "https://build-your-own.org/blog/20230316_go_full_slice/"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 16:47:08",
+      "https://news.ycombinator.com/item?id=35210652"
+    ],
+    [
+      "Google won’t honor medical leave during its layoffs",
+      "https://arstechnica.com/gadgets/2023/03/employees-say-google-is-botching-those-12000-layoffs/"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 16:27:57",
       "https://news.ycombinator.com/item?id=35210421"
     ],
@@ -37,16 +57,6 @@
     [
       "A short history of the VW Mark 1 Rabbit&#x2F;Golf (2021)",
       "https://haynes.com/en-us/tips-tutorials/short-history-vw-mark-1-rabbitgolf"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 15:34:15",
-      "https://news.ycombinator.com/item?id=35209911"
-    ],
-    [
-      "Nuclear power plant leaked 1.5M litres of radioactive water in Minnesota",
-      "https://globalnews.ca/news/9559326/nuclear-power-plant-leak-radioactive-water-minnesota/"
     ]
   ],
   [
@@ -111,12 +121,12 @@
   ],
   [
     [
-      "2023-03-18, 13:36:53",
-      "https://news.ycombinator.com/item?id=35209038"
+      "2023-03-18, 13:28:23",
+      "https://news.ycombinator.com/item?id=35208966"
     ],
     [
-      "Laptop Brands with GNU&#x2F;Linux Preinstalled",
-      "https://floss.social/@ademalsasa/109597861116785251"
+      "‘He passed the bee baton on to me’: people who inherit hobbies",
+      "https://www.theguardian.com/lifeandstyle/2023/mar/08/he-passed-the-bee-baton-on-to-me-people-who-inherit-hobbies"
     ]
   ],
   [
@@ -125,18 +135,8 @@
       "https://news.ycombinator.com/item?id=35208721"
     ],
     [
-      "Exploiting ACropalypse: Recovering Truncated PNGs",
+      "Exploiting aCropalypse: Recovering truncated PNGs",
       "https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 12:09:59",
-      "https://news.ycombinator.com/item?id=35208402"
-    ],
-    [
-      "20 years of Nix",
-      "https://20th.nixos.org/"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2023-03-18, 06:21:18",
+      "https://news.ycombinator.com/item?id=35206642"
+    ],
+    [
+      "Genode&#x27;s Browser Odyssey (2022)",
+      "https://genodians.org/nfeske/2022-01-27-browser-odyssey"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 03:43:29",
       "https://news.ycombinator.com/item?id=35205838"
     ],
     [
       "How to own your own Docker Registry address",
       "https://httptoolkit.com/blog/docker-image-registry-facade/"
-    ]
-  ],
-  [
-    [
-      "2023-03-17, 23:41:27",
-      "https://news.ycombinator.com/item?id=35204398"
-    ],
-    [
-      "Rippling raises $500M in emergency funds after SVB fails",
-      "https://www.bloomberg.com/news/articles/2023-03-17/rippling-raises-500-million-in-emergency-funds-after-svb-fails"
     ]
   ],
   [
