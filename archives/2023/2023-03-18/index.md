@@ -33,6 +33,7 @@
 * [2023-03-18, 13:48:05](https://news.ycombinator.com/item?id=35209102) - [The Oberon+ Programming Language](https://oberon-lang.github.io/)
 * [2023-03-18, 13:36:53](https://news.ycombinator.com/item?id=35209038) - [Laptop Brands with GNU&#x2F;Linux Preinstalled](https://floss.social/@ademalsasa/109597861116785251)
 * [2023-03-18, 13:28:23](https://news.ycombinator.com/item?id=35208966) - [‘He passed the bee baton on to me’: people who inherit hobbies](https://www.theguardian.com/lifeandstyle/2023/mar/08/he-passed-the-bee-baton-on-to-me-people-who-inherit-hobbies)
+* [2023-03-18, 13:21:15](https://news.ycombinator.com/item?id=35208902) - [Linux&#x2F;Unix Nbench](https://www.math.utah.edu/~mayer/linux/bmark.html)
 * [2023-03-18, 13:06:18](https://news.ycombinator.com/item?id=35208775) - [Career Choices, a Short Story](http://blog.geekpress.com/2023/03/career-choices-short-story.html)
 * [2023-03-18, 12:58:23](https://news.ycombinator.com/item?id=35208721) - [Exploiting ACropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
 * [2023-03-18, 12:47:58](https://news.ycombinator.com/item?id=35208654) - [10 Reasons Why Current Music Sucks So Hard](https://www.benjamingroff.com/blog/10-reasons-why-music-sucks-so-hard-right-now)
