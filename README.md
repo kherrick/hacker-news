@@ -6,6 +6,7 @@
 * [2023-03-18, 19:56:15](https://news.ycombinator.com/item?id=35212522) - [JPEG-XL vs. AVIF and Others: 27 Images Compared](https://giannirosato.com/blog/post/image-comparison/)
 * [2023-03-18, 19:47:27](https://news.ycombinator.com/item?id=35212450) - [Desiderata: Original Text](https://www.desiderata.com/desiderata.html)
 * [2023-03-18, 18:04:14](https://news.ycombinator.com/item?id=35211530) - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
+* [2023-03-18, 18:03:57](https://news.ycombinator.com/item?id=35211524) - [Show HN: Easy-to-use licensing library for .NET apps](https://github.com/SNBSLibs/Licensing.ActivationKeys)
 * [2023-03-18, 18:01:48](https://news.ycombinator.com/item?id=35211499) - [Zero one infinity rule](https://en.wikipedia.org/wiki/Zero_one_infinity_rule)
 * [2023-03-18, 17:29:44](https://news.ycombinator.com/item?id=35211171) - [Real-Time Video Processing with WebCodecs and Streams](https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/)
 * [2023-03-18, 16:53:03](https://news.ycombinator.com/item?id=35210730) - [a[low:high:max] in Golang – A Rare Slice Trick](https://build-your-own.org/blog/20230316_go_full_slice/)
@@ -27,7 +28,6 @@
 * [2023-03-18, 03:46:56](https://news.ycombinator.com/item?id=35205859) - [Listening to the Creatures of the World](https://www.noemamag.com/a-parliament-of-earthlings/)
 * [2023-03-17, 01:08:19](https://news.ycombinator.com/item?id=35191372) - [Pico_1140: A PDP11&#x2F;40 emulator that will run Unix v5&#x2F;v6 on a Raspberry Pi RP2040](https://github.com/Isysxp/Pico_1140)
 * [2023-03-17, 00:25:55](https://news.ycombinator.com/item?id=35190971) - [The early 90s tech scene that created L0pht, the legendary hackerspace](https://cyberscoop.com/boston-l0pht-hackers-tech-scene/)
-* [2023-03-16, 06:44:56](https://news.ycombinator.com/item?id=35178917) - [Limitations and websites](https://daverupert.com/2023/03/limitations-and-websites/)
 * [2023-03-16, 06:10:14](https://news.ycombinator.com/item?id=35178719) - [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/00_about/)
 * [2023-03-16, 05:36:32](https://news.ycombinator.com/item?id=35178506) - [What was the impact of Julius Caesar’s murder?](https://www.historytoday.com/archive/head-head/what-was-impact-julius-caesars-murder)
 

@@ -11,6 +11,7 @@
 * [2023-03-18, 19:47:27](https://news.ycombinator.com/item?id=35212450) - [Desiderata: Original Text](https://www.desiderata.com/desiderata.html)
 * [2023-03-18, 18:52:28](https://news.ycombinator.com/item?id=35211975) - [Prices at the supermarket keep rising. So do corporate profits](https://www.vox.com/money/23641875/food-grocery-inflation-prices-billionaires)
 * [2023-03-18, 18:04:14](https://news.ycombinator.com/item?id=35211530) - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
+* [2023-03-18, 18:03:57](https://news.ycombinator.com/item?id=35211524) - [Show HN: Easy-to-use licensing library for .NET apps](https://github.com/SNBSLibs/Licensing.ActivationKeys)
 * [2023-03-18, 18:01:48](https://news.ycombinator.com/item?id=35211499) - [Zero one infinity rule](https://en.wikipedia.org/wiki/Zero_one_infinity_rule)
 * [2023-03-18, 17:29:44](https://news.ycombinator.com/item?id=35211171) - [Real-Time Video Processing with WebCodecs and Streams](https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/)
 * [2023-03-18, 17:26:08](https://news.ycombinator.com/item?id=35211126) - [The Fed smothers capitalism in an attempt to save it](https://www.economist.com/finance-and-economics/2023/03/16/the-fed-smothers-capitalism-in-an-attempt-to-save-it)
