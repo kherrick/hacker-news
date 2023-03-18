@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-03-18, 15:44:25",
+      "https://news.ycombinator.com/item?id=35210015"
+    ],
+    [
+      "AI fooled voice recognition to verify identity used by Australian tax office",
+      "https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 15:41:06",
+      "https://news.ycombinator.com/item?id=35209982"
+    ],
+    [
+      "Analyzing multi-gigabyte JSON files locally",
+      "https://thenybble.de/posts/json-analysis/"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 15:39:05",
+      "https://news.ycombinator.com/item?id=35209964"
+    ],
+    [
+      "A Short History of the VW Mark 1 Rabbit&#x2F;Golf",
+      "https://haynes.com/en-us/tips-tutorials/short-history-vw-mark-1-rabbitgolf"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 15:34:15",
+      "https://news.ycombinator.com/item?id=35209911"
+    ],
+    [
+      "Nuclear power plant leaked 1.5M litres of radioactive water in Minnesota",
+      "https://globalnews.ca/news/9559326/nuclear-power-plant-leak-radioactive-water-minnesota/"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 15:19:54",
+      "https://news.ycombinator.com/item?id=35209775"
+    ],
+    [
+      "Anki-Fy Your Life",
+      "https://abouttolearn.substack.com/p/anki-fy-your-life"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 15:03:53",
       "https://news.ycombinator.com/item?id=35209657"
     ],
@@ -41,6 +91,26 @@
   ],
   [
     [
+      "2023-03-18, 14:32:22",
+      "https://news.ycombinator.com/item?id=35209424"
+    ],
+    [
+      "Why Japanese Web Design Is So Different",
+      "http://designmadeinjapan.com/magazine/web-design/why-japanese-web-design-is-so-different/"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 14:08:40",
+      "https://news.ycombinator.com/item?id=35209248"
+    ],
+    [
+      "Simulations and Games in Economics Education",
+      "https://en.wikipedia.org/wiki/Simulations_and_games_in_economics_education"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 13:48:05",
       "https://news.ycombinator.com/item?id=35209102"
     ],
@@ -57,16 +127,6 @@
     [
       "Laptop Brands with GNU&#x2F;Linux Preinstalled",
       "https://floss.social/@ademalsasa/109597861116785251"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 13:28:23",
-      "https://news.ycombinator.com/item?id=35208966"
-    ],
-    [
-      "‘He passed the bee baton on to me’: people who inherit hobbies",
-      "https://www.theguardian.com/lifeandstyle/2023/mar/08/he-passed-the-bee-baton-on-to-me-people-who-inherit-hobbies"
     ]
   ],
   [
@@ -91,32 +151,12 @@
   ],
   [
     [
-      "2023-03-18, 11:51:20",
-      "https://news.ycombinator.com/item?id=35208276"
-    ],
-    [
-      "Sleep habits may have long-term benefits",
-      "https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/35/Getting-Good-Sleep-Could-Add-Years-to-Your-Life"
-    ]
-  ],
-  [
-    [
       "2023-03-18, 11:24:49",
       "https://news.ycombinator.com/item?id=35208113"
     ],
     [
       "Query Google Sheets as virtual tables with SQLite extension – libgsqlite",
       "https://github.com/0x6b/libgsqlite"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 10:49:04",
-      "https://news.ycombinator.com/item?id=35207932"
-    ],
-    [
-      "Study hints at the promise of non-hallucinogenic LSD for treating mood disorders",
-      "https://medicalxpress.com/news/2023-03-hints-non-hallucinogenic-lsd-mood-disorders.html"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2023-03-18, 08:28:11",
-      "https://news.ycombinator.com/item?id=35207305"
-    ],
-    [
-      "How Async&#x2F;Await Works in C#",
-      "https://devblogs.microsoft.com/dotnet/how-async-await-really-works/"
-    ]
-  ],
-  [
-    [
       "2023-03-18, 08:04:43",
       "https://news.ycombinator.com/item?id=35207157"
     ],
@@ -177,16 +207,6 @@
     [
       "Tracking the Fake GitHub Star Black Market",
       "https://dagster.io/blog/fake-stars"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 03:48:10",
-      "https://news.ycombinator.com/item?id=35205864"
-    ],
-    [
-      "Clothing designed to confuse facial recognition software",
-      "https://www.capable.design"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-03-17, 18:35:44",
-      "https://news.ycombinator.com/item?id=35201036"
+      "2023-03-16, 20:35:24",
+      "https://news.ycombinator.com/item?id=35188134"
     ],
     [
-      "Launch HN: Codeparrot (YC W23) – Automated API testing using production traffic",
-      "https://news.ycombinator.com/item?id=35201036"
-    ]
-  ],
-  [
-    [
-      "2023-03-17, 14:29:37",
-      "https://news.ycombinator.com/item?id=35197587"
-    ],
-    [
-      "Negativity drives online news consumption",
-      "https://www.nature.com/articles/s41562-023-01538-4"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 13:04:45",
-      "https://news.ycombinator.com/item?id=35181362"
-    ],
-    [
-      "The Prospective Student’s Guide to Medieval Universities",
-      "https://www.laphamsquarterly.org/education/charts-graphs/prospective-students-guide-medieval-universities"
+      "Simple Shellcode Detection",
+      "https://isc.sans.edu/diary.html?storyid=0"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2023-03-16, 06:10:14",
+      "https://news.ycombinator.com/item?id=35178719"
+    ],
+    [
+      "Category Theory Illustrated",
+      "https://abuseofnotation.github.io/category-theory-illustrated/00_about/"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 05:36:32",
       "https://news.ycombinator.com/item?id=35178506"
     ],
     [
       "What Was the Impact of Julius Caesar’s Murder?",
       "https://www.historytoday.com/archive/head-head/what-was-impact-julius-caesars-murder"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 00:24:32",
-      "https://news.ycombinator.com/item?id=35176560"
-    ],
-    [
-      "Ocean Farming: Seaweed is having its moment in the sun",
-      "https://www.nytimes.com/interactive/2023/03/15/climate/seaweed-plastic-climate-change.html"
     ]
   ],
   [
