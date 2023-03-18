@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-03-18, 06:40:25",
+      "https://news.ycombinator.com/item?id=35206734"
+    ],
+    [
+      "Why is building a UI in Rust so hard?",
+      "https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 06:21:18",
       "https://news.ycombinator.com/item?id=35206642"
     ],
     [
       "Genode&#x27;s Browser Odyssey (2022)",
       "https://genodians.org/nfeske/2022-01-27-browser-odyssey"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 04:50:18",
-      "https://news.ycombinator.com/item?id=35206207"
-    ],
-    [
-      "Meta employees grill Mark Zuckerberg at all-hands meeting following layoffs",
-      "https://www.washingtonpost.com/technology/2023/03/16/zuckerberg-meta-townhall/"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-03-18, 02:43:32",
-      "https://news.ycombinator.com/item?id=35205538"
-    ],
-    [
-      "Study tracks how we decide which groups to join",
-      "https://www.ox.ac.uk/news/2016-03-23-study-tracks-how-we-decide-which-groups-join"
-    ]
-  ],
-  [
-    [
       "2023-03-18, 01:57:50",
       "https://news.ycombinator.com/item?id=35205302"
     ],
@@ -117,6 +107,16 @@
     [
       "PostgreSQL Logical Replication Explained",
       "https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 19:41:40",
+      "https://news.ycombinator.com/item?id=35201848"
+    ],
+    [
+      "New React docs pretend SPAs don&#x27;t exist anymore",
+      "https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist"
     ]
   ],
   [
