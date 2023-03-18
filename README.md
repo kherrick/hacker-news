@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-18, 21:45:24](https://news.ycombinator.com/item?id=35213400) - [Arbitrary code execution during compilation – rust](https://github.com/eleijonmarck/do-not-compile-this-code)
 * [2023-03-18, 21:18:57](https://news.ycombinator.com/item?id=35213213) - [Twitter will open source all code used to recommend tweets on March 31](https://nitter.bird.froth.zone/elonmusk/status/1636835209587949570#m)
 * [2023-03-18, 21:02:56](https://news.ycombinator.com/item?id=35213078) - [We&#x27;re Drowning in Subscriptions](https://www.bloomberg.com/opinion/articles/2023-03-17/we-re-drowning-in-subscriptions-as-retailers-join-too)
 * [2023-03-18, 20:11:01](https://news.ycombinator.com/item?id=35212660) - [Build Your Own Redis with C&#x2F;C++](https://build-your-own.org/redis/)
@@ -13,7 +14,6 @@
 * [2023-03-18, 16:27:57](https://news.ycombinator.com/item?id=35210421) - [More students are turning away from college and toward apprenticeships](https://www.wsj.com/articles/more-students-are-turning-away-from-college-and-toward-apprenticeships-15f3a05d)
 * [2023-03-18, 15:44:25](https://news.ycombinator.com/item?id=35210015) - [AI fooled voice recognition to verify identity used by Australian tax office](https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai)
 * [2023-03-18, 15:41:06](https://news.ycombinator.com/item?id=35209982) - [Analyzing multi-gigabyte JSON files locally](https://thenybble.de/posts/json-analysis/)
-* [2023-03-18, 15:39:05](https://news.ycombinator.com/item?id=35209964) - [A short history of the VW Mark 1 Rabbit&#x2F;Golf (2021)](https://haynes.com/en-us/tips-tutorials/short-history-vw-mark-1-rabbitgolf)
 * [2023-03-18, 15:19:54](https://news.ycombinator.com/item?id=35209775) - [Anki-fy your life](https://abouttolearn.substack.com/p/anki-fy-your-life)
 * [2023-03-18, 14:32:43](https://news.ycombinator.com/item?id=35209428) - [Kenji López-Alt spent 5 months studying Chicago thin-crust pizza](https://www.nytimes.com/2023/03/17/dining/tavern-thin-crust-pizza-chicago.html)
 * [2023-03-18, 14:08:40](https://news.ycombinator.com/item?id=35209248) - [Simulations and games in economics education](https://en.wikipedia.org/wiki/Simulations_and_games_in_economics_education)
