@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-18, 21:02:56](https://news.ycombinator.com/item?id=35213078) - [We&#x27;re Drowning in Subscriptions](https://www.bloomberg.com/opinion/articles/2023-03-17/we-re-drowning-in-subscriptions-as-retailers-join-too)
 * [2023-03-18, 20:11:01](https://news.ycombinator.com/item?id=35212660) - [Build Your Own Redis with C&#x2F;C++](https://build-your-own.org/redis/)
 * [2023-03-18, 19:56:15](https://news.ycombinator.com/item?id=35212522) - [JPEG-XL vs. AVIF and Others: 27 Images Compared](https://giannirosato.com/blog/post/image-comparison/)
 * [2023-03-18, 19:47:27](https://news.ycombinator.com/item?id=35212450) - [Desiderata: Original Text](https://www.desiderata.com/desiderata.html)
@@ -23,7 +24,6 @@
 * [2023-03-18, 08:46:46](https://news.ycombinator.com/item?id=35207390) - [How to participate in Monday’s oral arguments re: Internet Archive](http://blog.archive.org/2023/03/17/heres-how-to-participate-in-mondays-oral-arguments/)
 * [2023-03-18, 06:21:18](https://news.ycombinator.com/item?id=35206642) - [Genode&#x27;s Browser Odyssey (2022)](https://genodians.org/nfeske/2022-01-27-browser-odyssey)
 * [2023-03-18, 03:46:56](https://news.ycombinator.com/item?id=35205859) - [Listening to the Creatures of the World](https://www.noemamag.com/a-parliament-of-earthlings/)
-* [2023-03-17, 23:41:27](https://news.ycombinator.com/item?id=35204398) - [Rippling raises $500M in emergency funds after SVB fails](https://www.bloomberg.com/news/articles/2023-03-17/rippling-raises-500-million-in-emergency-funds-after-svb-fails)
 * [2023-03-17, 01:08:19](https://news.ycombinator.com/item?id=35191372) - [Pico_1140: A PDP11&#x2F;40 emulator that will run Unix v5&#x2F;v6 on a Raspberry Pi RP2040](https://github.com/Isysxp/Pico_1140)
 * [2023-03-17, 00:25:55](https://news.ycombinator.com/item?id=35190971) - [The early 90s tech scene that created L0pht, the legendary hackerspace](https://cyberscoop.com/boston-l0pht-hackers-tech-scene/)
 * [2023-03-16, 11:23:01](https://news.ycombinator.com/item?id=35180559) - [Technical dimensions of programming systems](https://tomasp.net/techdims/)
