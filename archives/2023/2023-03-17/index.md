@@ -71,6 +71,7 @@
 * [2023-03-17, 02:47:49](https://news.ycombinator.com/item?id=35192303) - [How Do I Identify?](https://codewalkers.net/2023/03/04/how-do-i-identify/)
 * [2023-03-17, 02:01:39](https://news.ycombinator.com/item?id=35191927) - [SVB Hall of Shame](https://svbhallofshame.wordpress.com/)
 * [2023-03-17, 01:46:06](https://news.ycombinator.com/item?id=35191787) - [The Misalignment Museum](https://www.misalignmentmuseum.com/)
+* [2023-03-17, 01:38:20](https://news.ycombinator.com/item?id=35191706) - [Understanding CD-R and CD-RW (2003) [pdf]](http://www.osta.org/technology/pdf/cdr_cdrw.pdf)
 * [2023-03-17, 01:37:13](https://news.ycombinator.com/item?id=35191687) - [Web Stable Diffusion](https://github.com/mlc-ai/web-stable-diffusion)
 * [2023-03-17, 01:08:19](https://news.ycombinator.com/item?id=35191372) - [Pico_1140: A PDP11&#x2F;40 emulator that will run Unix v5&#x2F;v6 on a Raspberry Pi RP2040](https://github.com/Isysxp/Pico_1140)
 * [2023-03-17, 00:59:54](https://news.ycombinator.com/item?id=35191303) - [Show HN: GPT Repo Loader – load entire code repos into GPT prompts](https://github.com/mpoon/gpt-repository-loader)

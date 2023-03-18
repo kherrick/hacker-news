@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-18](index.md)
 
+* [2023-03-18, 22:27:29](https://news.ycombinator.com/item?id=35213776) - [Design notes on the 2023 Wikipedia redesign](https://alexhollender.com/wikipedia-2023-redesign)
 * [2023-03-18, 22:23:20](https://news.ycombinator.com/item?id=35213724) - [Stanford Students Demand Journalist Remove Their Names from Stories](https://jonathanturley.org/2023/03/18/stanford-law-students-reportedly-demand-journalist-remove-their-names-from-stories-after-targeting-other-students-by-name/)
 * [2023-03-18, 21:45:24](https://news.ycombinator.com/item?id=35213400) - [Arbitrary code execution during compilation – rust](https://github.com/eleijonmarck/do-not-compile-this-code)
 * [2023-03-18, 21:18:57](https://news.ycombinator.com/item?id=35213213) - [Twitter will open source all code used to recommend tweets on March 31](https://nitter.bird.froth.zone/elonmusk/status/1636835209587949570#m)
