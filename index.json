@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-03-18, 04:10:15",
-      "https://news.ycombinator.com/item?id=35205984"
-    ],
-    [
-      "TSA confirms plans to mandate mug shots for domestic air travel",
-      "https://papersplease.org/wp/2023/03/15/tsa-confirms-plans-to-mandate-mug-shots-for-domestic-air-travel/"
-    ]
-  ],
-  [
-    [
       "2023-03-18, 03:43:29",
       "https://news.ycombinator.com/item?id=35205838"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35205575"
     ],
     [
-      "Are You Ok?",
+      "Are you ok?",
       "https://memex.marginalia.nu/log/72-are-you-ok.gmi"
     ]
   ],
@@ -57,16 +47,6 @@
     [
       "Costs of the U.S.-Led War in Iraq Since 2003",
       "https://watson.brown.edu/costsofwar/2022/IraqWarCosts"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 01:06:32",
-      "https://news.ycombinator.com/item?id=35204966"
-    ],
-    [
-      "RIP Frank Drake - pioneered SETI experiments detecting radio signals from stars",
-      "https://setiathome.berkeley.edu/forum_thread.php?id=85927"
     ]
   ],
   [
@@ -121,12 +101,12 @@
   ],
   [
     [
-      "2023-03-17, 19:24:35",
-      "https://news.ycombinator.com/item?id=35201667"
+      "2023-03-17, 21:38:25",
+      "https://news.ycombinator.com/item?id=35203260"
     ],
     [
-      "Vid2Seq: A pretrained visual language model for describing multi-event videos",
-      "https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html"
+      "Minimum Viable Finance: The Guide for Seed&#x2F;Series A Startups",
+      "https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies"
     ]
   ],
   [
@@ -151,12 +131,12 @@
   ],
   [
     [
-      "2023-03-17, 17:18:57",
-      "https://news.ycombinator.com/item?id=35200017"
+      "2023-03-17, 17:51:09",
+      "https://news.ycombinator.com/item?id=35200410"
     ],
     [
-      "How to Ask Questions the Smart Way (2014)",
-      "http://www.catb.org/~esr/faqs/smart-questions.html"
+      "Show HN: &#x27;Hello, World &#x27; in x86 assembly, but make it gibberish",
+      "https://github.com/phoreverpheebs/gibberish"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2023-03-17, 14:11:01",
+      "https://news.ycombinator.com/item?id=35197308"
+    ],
+    [
+      "Spelunking Apple’s Open Source",
+      "https://bitsplitting.org/2023/03/17/spelunking-apples-open-source/"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 14:05:39",
       "https://news.ycombinator.com/item?id=35197227"
     ],
@@ -211,12 +201,22 @@
   ],
   [
     [
-      "2023-03-17, 13:20:42",
-      "https://news.ycombinator.com/item?id=35196721"
+      "2023-03-17, 05:06:48",
+      "https://news.ycombinator.com/item?id=35193367"
     ],
     [
-      "JDK 20 G1&#x2F;Parallel&#x2F;Serial GC Changes",
-      "https://tschatzl.github.io/2023/03/14/jdk20-g1-parallel-gc-changes.html"
+      "Prostate cancer could be treated by destroying tumors with electric currents",
+      "https://www.telegraph.co.uk/news/2022/01/02/one-hour-operation-could-cure-prostate-cancer-destroying-tumours/"
+    ]
+  ],
+  [
+    [
+      "2023-03-16, 17:09:41",
+      "https://news.ycombinator.com/item?id=35184917"
+    ],
+    [
+      "Upgrading my Chumby 8 kernel part 4: reboot&#x2F;poweroff",
+      "https://www.downtowndougbrown.com/2023/03/upgrading-my-chumby-8-kernel-part-4-reboot-poweroff/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=35176560"
     ],
     [
-      "Ocean Farming: Seaweed Is Having Its Moment in the Sun",
+      "Ocean Farming: Seaweed is having its moment in the sun",
       "https://www.nytimes.com/interactive/2023/03/15/climate/seaweed-plastic-climate-change.html"
     ]
   ],
