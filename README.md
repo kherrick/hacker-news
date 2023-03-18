@@ -2,7 +2,6 @@
 
 * [2023-03-18, 22:27:29](https://news.ycombinator.com/item?id=35213776) - [Design notes on the 2023 Wikipedia redesign](https://alexhollender.com/wikipedia-2023-redesign)
 * [2023-03-18, 21:45:24](https://news.ycombinator.com/item?id=35213400) - [Arbitrary code execution during compilation – rust](https://github.com/eleijonmarck/do-not-compile-this-code)
-* [2023-03-18, 21:02:56](https://news.ycombinator.com/item?id=35213078) - [We&#x27;re Drowning in Subscriptions](https://www.bloomberg.com/opinion/articles/2023-03-17/we-re-drowning-in-subscriptions-as-retailers-join-too)
 * [2023-03-18, 20:11:01](https://news.ycombinator.com/item?id=35212660) - [Build Your Own Redis with C&#x2F;C++](https://build-your-own.org/redis/)
 * [2023-03-18, 19:56:15](https://news.ycombinator.com/item?id=35212522) - [JPEG-XL vs. AVIF and Others: 27 Images Compared](https://giannirosato.com/blog/post/image-comparison/)
 * [2023-03-18, 19:47:27](https://news.ycombinator.com/item?id=35212450) - [Desiderata: Original Text](https://www.desiderata.com/desiderata.html)
@@ -12,6 +11,7 @@
 * [2023-03-18, 17:29:44](https://news.ycombinator.com/item?id=35211171) - [Real-Time Video Processing with WebCodecs and Streams](https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/)
 * [2023-03-18, 16:53:03](https://news.ycombinator.com/item?id=35210730) - [a[low:high:max] in Golang – A Rare Slice Trick](https://build-your-own.org/blog/20230316_go_full_slice/)
 * [2023-03-18, 16:27:57](https://news.ycombinator.com/item?id=35210421) - [More students are turning away from college and toward apprenticeships](https://www.wsj.com/articles/more-students-are-turning-away-from-college-and-toward-apprenticeships-15f3a05d)
+* [2023-03-18, 15:44:25](https://news.ycombinator.com/item?id=35210015) - [AI fooled voice recognition to verify identity used by Australian tax office](https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai)
 * [2023-03-18, 15:41:06](https://news.ycombinator.com/item?id=35209982) - [Analyzing multi-gigabyte JSON files locally](https://thenybble.de/posts/json-analysis/)
 * [2023-03-18, 15:19:54](https://news.ycombinator.com/item?id=35209775) - [Anki-fy your life](https://abouttolearn.substack.com/p/anki-fy-your-life)
 * [2023-03-18, 14:32:43](https://news.ycombinator.com/item?id=35209428) - [Kenji López-Alt spent 5 months studying Chicago thin-crust pizza](https://www.nytimes.com/2023/03/17/dining/tavern-thin-crust-pizza-chicago.html)
