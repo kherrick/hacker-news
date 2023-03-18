@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-03-18, 13:21:15",
-      "https://news.ycombinator.com/item?id=35208902"
-    ],
-    [
-      "Linux&#x2F;Unix Nbench",
-      "https://www.math.utah.edu/~mayer/linux/bmark.html"
-    ]
-  ],
-  [
-    [
       "2023-03-18, 12:58:23",
       "https://news.ycombinator.com/item?id=35208721"
     ],
@@ -207,6 +197,16 @@
     [
       "Libgsqlite: A SQLite extension which loads a Google Sheet as a virtual table",
       "https://github.com/0x6b/libgsqlite"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 10:26:48",
+      "https://news.ycombinator.com/item?id=35207830"
+    ],
+    [
+      "The dark defaults of Microsoft Edge",
+      "https://thomask.sdf.org/blog/2023/03/18/the-dark-defaults-of-microsoft-edge.html"
     ]
   ],
   [
