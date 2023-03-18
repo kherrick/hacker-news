@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-03-18, 08:04:43",
+      "https://news.ycombinator.com/item?id=35207157"
+    ],
+    [
+      "Klint: Compile-time detection of atomic context violations for kernel Rust code",
+      "https://www.memorysafety.org/blog/gary-guo-klint-rust-tools/"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 07:42:34",
       "https://news.ycombinator.com/item?id=35207020"
     ],
@@ -257,16 +267,6 @@
     [
       "The early 90s tech scene that created L0pht, the legendary hackerspace",
       "https://cyberscoop.com/boston-l0pht-hackers-tech-scene/"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 20:35:24",
-      "https://news.ycombinator.com/item?id=35188134"
-    ],
-    [
-      "Old backdoor, new obfuscation",
-      "https://isc.sans.edu/diary.html?storyid=0"
     ]
   ],
   [
