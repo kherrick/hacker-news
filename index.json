@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-18, 21:45:24",
+      "https://news.ycombinator.com/item?id=35213400"
+    ],
+    [
+      "Arbitrary code execution during compilation – rust",
+      "https://github.com/eleijonmarck/do-not-compile-this-code"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 21:18:57",
       "https://news.ycombinator.com/item?id=35213213"
     ],
@@ -127,16 +137,6 @@
     [
       "Analyzing multi-gigabyte JSON files locally",
       "https://thenybble.de/posts/json-analysis/"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 15:39:05",
-      "https://news.ycombinator.com/item?id=35209964"
-    ],
-    [
-      "A short history of the VW Mark 1 Rabbit&#x2F;Golf (2021)",
-      "https://haynes.com/en-us/tips-tutorials/short-history-vw-mark-1-rabbitgolf"
     ]
   ],
   [
