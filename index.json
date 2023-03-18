@@ -1,42 +1,12 @@
 [
   [
     [
-      "2023-03-18, 12:47:58",
-      "https://news.ycombinator.com/item?id=35208654"
-    ],
-    [
-      "10 Reasons Why Current Music Sucks So Hard",
-      "https://www.benjamingroff.com/blog/10-reasons-why-music-sucks-so-hard-right-now"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 12:35:15",
-      "https://news.ycombinator.com/item?id=35208572"
-    ],
-    [
-      "How Silicon Valley learnt to love the government",
-      "https://www.ft.com/content/49f848f7-187f-422f-a4b6-eaa02b46734b"
-    ]
-  ],
-  [
-    [
       "2023-03-18, 12:22:59",
       "https://news.ycombinator.com/item?id=35208498"
     ],
     [
       "Tungsten Gold Plated Bar",
       "http://www.tungsten-alloy.com/gold-plated-tungsten-alloy-bar.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 12:11:03",
-      "https://news.ycombinator.com/item?id=35208411"
-    ],
-    [
-      "B.C. man shocked to discover health file described him as a &#x27;redneck hick&#x27;",
-      "https://www.cbc.ca/news/canada/british-columbia/health-authority-investigating-bc-man-derogatory-comments-in-health-file-merritt-kamloops-1.6781506"
     ]
   ],
   [
@@ -67,6 +37,16 @@
     [
       "Query Google Sheets as virtual tables with SQLite extension – libgsqlite",
       "https://github.com/0x6b/libgsqlite"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 10:49:04",
+      "https://news.ycombinator.com/item?id=35207932"
+    ],
+    [
+      "Study hints at the promise of non-hallucinogenic LSD for treating mood disorders",
+      "https://medicalxpress.com/news/2023-03-hints-non-hallucinogenic-lsd-mood-disorders.html"
     ]
   ],
   [
@@ -131,12 +111,32 @@
   ],
   [
     [
+      "2023-03-18, 08:28:11",
+      "https://news.ycombinator.com/item?id=35207305"
+    ],
+    [
+      "How Async&#x2F;Await Works in C#",
+      "https://devblogs.microsoft.com/dotnet/how-async-await-really-works/"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 08:04:43",
       "https://news.ycombinator.com/item?id=35207157"
     ],
     [
       "Klint: Compile-Time Detection of Atomic Context Violations for Kernel Rust Code",
       "https://www.memorysafety.org/blog/gary-guo-klint-rust-tools/"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 07:49:06",
+      "https://news.ycombinator.com/item?id=35207053"
+    ],
+    [
+      "PHP 8.2.4",
+      "https://www.php.net/index.php"
     ]
   ],
   [
@@ -191,32 +191,12 @@
   ],
   [
     [
-      "2023-03-17, 22:10:20",
-      "https://news.ycombinator.com/item?id=35203571"
-    ],
-    [
-      "PostgreSQL Logical Replication Explained",
-      "https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql"
-    ]
-  ],
-  [
-    [
       "2023-03-17, 18:35:44",
       "https://news.ycombinator.com/item?id=35201036"
     ],
     [
       "Launch HN: Codeparrot (YC W23) – Automated API testing using production traffic",
       "https://news.ycombinator.com/item?id=35201036"
-    ]
-  ],
-  [
-    [
-      "2023-03-17, 17:57:02",
-      "https://news.ycombinator.com/item?id=35200498"
-    ],
-    [
-      "DIY Nitrogen TEA Laser (2020)",
-      "https://physicsopenlab.org/2020/07/16/diy-nitrogen-tea-laser/"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2023-03-16, 05:08:11",
+      "https://news.ycombinator.com/item?id=35178314"
+    ],
+    [
+      "The Little-Known World of Caterpillars",
+      "https://www.newyorker.com/magazine/2023/03/20/the-little-known-world-of-caterpillars"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 00:24:32",
       "https://news.ycombinator.com/item?id=35176560"
     ],
@@ -287,6 +277,16 @@
     [
       "An Introduction to Forest Carbon",
       "https://northernwoodlands.org/articles/article/introduction-forest-carbon"
+    ]
+  ],
+  [
+    [
+      "2023-03-15, 21:21:51",
+      "https://news.ycombinator.com/item?id=35174898"
+    ],
+    [
+      "Posed Riddles: Seeing Through Empathy with Diane Arbus",
+      "https://www.thedriftmag.com/posed-riddles/"
     ]
   ],
   [
