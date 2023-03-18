@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2023-03-18, 00:45:19",
+      "https://news.ycombinator.com/item?id=35204830"
+    ],
+    [
+      "The Time I Hacked Google’s Manual Actions Database",
+      "https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 00:11:26",
       "https://news.ycombinator.com/item?id=35204604"
     ],
     [
       "The U.S. military is missing six nuclear weapons (2021)",
       "https://nationalinterest.org/blog/reboot/us-military-missing-six-nuclear-weapons-180032"
-    ]
-  ],
-  [
-    [
-      "2023-03-17, 23:47:29",
-      "https://news.ycombinator.com/item?id=35204445"
-    ],
-    [
-      "Vanishing phone customer support is driving us all insane",
-      "https://www.washingtonpost.com/opinions/2023/03/07/phone-customer-support-disappearing/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "PostgreSQL Logical Replication Explained",
       "https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql"
-    ]
-  ],
-  [
-    [
-      "2023-03-17, 21:38:31",
-      "https://news.ycombinator.com/item?id=35203262"
-    ],
-    [
-      "The LLM Problem",
-      "https://www.tbray.org/ongoing/When/202x/2023/03/14/Binging"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "DIY Nitrogen TEA Laser",
       "https://physicsopenlab.org/2020/07/16/diy-nitrogen-tea-laser/"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 17:51:09",
+      "https://news.ycombinator.com/item?id=35200410"
+    ],
+    [
+      "Show HN: &#x27;Hello, World &#x27; in x86 assembly, but make it gibberish",
+      "https://github.com/phoreverpheebs/gibberish"
     ]
   ],
   [
