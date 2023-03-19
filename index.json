@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-19, 10:31:03",
+      "https://news.ycombinator.com/item?id=35217666"
+    ],
+    [
+      "Twitter Blue breaks EU consumer law by showing prices without tax",
+      "https://www.businessinsider.com/elon-musk-twitter-blue-breaking-rules-unfair-business-practices-eu-2023-3"
+    ]
+  ],
+  [
+    [
+      "2023-03-19, 09:24:36",
+      "https://news.ycombinator.com/item?id=35217361"
+    ],
+    [
+      "Plans to repopulate Hawaii’s forests with its crows have been upended",
+      "https://www.washingtonpost.com/climate-environment/2023/03/17/hawaiian-crow-alala-hawk-io/"
+    ]
+  ],
+  [
+    [
+      "2023-03-19, 08:58:23",
+      "https://news.ycombinator.com/item?id=35217226"
+    ],
+    [
+      "Tell HN: Instagram&#x27;s API has broken, support tickets ignored, status page green",
+      "https://news.ycombinator.com/item?id=35217226"
+    ]
+  ],
+  [
+    [
       "2023-03-19, 08:41:34",
       "https://news.ycombinator.com/item?id=35217139"
     ],
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2023-03-18, 18:04:14",
-      "https://news.ycombinator.com/item?id=35211530"
-    ],
-    [
-      "LLVM 16.0.0 Release",
-      "https://discourse.llvm.org/t/llvm-16-0-0-release/69326"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 17:29:44",
-      "https://news.ycombinator.com/item?id=35211171"
-    ],
-    [
-      "Real-Time Video Processing with WebCodecs and Streams",
-      "https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/"
-    ]
-  ],
-  [
-    [
       "2023-03-18, 16:27:57",
       "https://news.ycombinator.com/item?id=35210421"
     ],
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2023-03-18, 15:41:06",
-      "https://news.ycombinator.com/item?id=35209982"
-    ],
-    [
-      "Analyzing multi-gigabyte JSON files locally",
-      "https://thenybble.de/posts/json-analysis/"
-    ]
-  ],
-  [
-    [
       "2023-03-18, 15:31:11",
       "https://news.ycombinator.com/item?id=35209878"
     ],
     [
       "A different approach to fuzzy finding",
       "https://nathancraddock.com/blog/2023/a-different-approach-to-fuzzy-finding/"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 15:19:54",
-      "https://news.ycombinator.com/item?id=35209775"
-    ],
-    [
-      "Anki-fy your life",
-      "https://abouttolearn.substack.com/p/anki-fy-your-life"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "The early 90s tech scene that created L0pht, the legendary hackerspace",
       "https://cyberscoop.com/boston-l0pht-hackers-tech-scene/"
+    ]
+  ],
+  [
+    [
+      "2023-03-16, 20:35:24",
+      "https://news.ycombinator.com/item?id=35188134"
+    ],
+    [
+      "Old backdoor, new obfuscation",
+      "https://isc.sans.edu/diary.html?storyid=0"
     ]
   ],
   [
