@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 16:06:08](https://news.ycombinator.com/item?id=35220345) - [Learning the ropes: why Germany is building risk into its playgrounds (2021)](https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds)
 * [2023-03-19, 15:16:59](https://news.ycombinator.com/item?id=35219812) - [People Had to Be Convinced of the Usefulness of Electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
 * [2023-03-19, 14:39:03](https://news.ycombinator.com/item?id=35219363) - [Switzerland Weighs Full or Partial Credit Suisse Nationalization](https://www.bloomberg.com/news/articles/2023-03-19/switzerland-weighs-full-or-partial-credit-suisse-nationalization)
 * [2023-03-19, 14:29:52](https://news.ycombinator.com/item?id=35219281) - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
@@ -9,7 +10,6 @@
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Unix legend Ken Thompson announces he&#x27;s switching From macOS To Raspbian Linux](https://www.youtube.com/watch?v=kaandEt_pKw)
 * [2023-03-19, 12:51:12](https://news.ycombinator.com/item?id=35218448) - [Alternative facts: How the media failed Julian Assange](https://harpers.org/archive/2023/03/alternative-facts-how-the-media-failed-julian-assange/)
 * [2023-03-19, 12:35:38](https://news.ycombinator.com/item?id=35218339) - [Tearing Down Apple&#x27;s Display Opener](https://www.youtube.com/watch?v=govETQLZGWA)
-* [2023-03-19, 12:30:09](https://news.ycombinator.com/item?id=35218302) - [ChatGPT can in fact ask you questions](https://twitter.com/bitecode_dev/status/1637420579278954501)
 * [2023-03-19, 12:29:38](https://news.ycombinator.com/item?id=35218296) - [UBS offers to buy Credit Suisse for up to $1B](https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd)
 * [2023-03-19, 11:38:51](https://news.ycombinator.com/item?id=35218019) - [Show HN: Side-Project: FlowChartGPT – Turn Text into FlowCharts](https://fastflowchart.com/)
 * [2023-03-19, 11:13:41](https://news.ycombinator.com/item?id=35217860) - [Show HN: Yaksha Programming Language](https://yakshalang.github.io/)
