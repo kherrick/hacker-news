@@ -2,7 +2,6 @@
 
 * [2023-03-19, 10:31:03](https://news.ycombinator.com/item?id=35217666) - [Twitter Blue breaks EU consumer law by showing prices without tax](https://www.businessinsider.com/elon-musk-twitter-blue-breaking-rules-unfair-business-practices-eu-2023-3)
 * [2023-03-19, 09:24:36](https://news.ycombinator.com/item?id=35217361) - [Plans to repopulate Hawaii’s forests with its crows have been upended](https://www.washingtonpost.com/climate-environment/2023/03/17/hawaiian-crow-alala-hawk-io/)
-* [2023-03-19, 08:58:23](https://news.ycombinator.com/item?id=35217226) - [Tell HN: Instagram&#x27;s API has broken, support tickets ignored, status page green](https://news.ycombinator.com/item?id=35217226)
 * [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Greening the desert: the architect regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
 * [2023-03-19, 08:20:09](https://news.ycombinator.com/item?id=35217040) - [To ensure vaccines work properly, men should get a good night’s sleep](https://www.economist.com/science-and-technology/2023/03/15/to-ensure-vaccines-work-properly-men-should-get-a-good-nights-sleep)
 * [2023-03-19, 08:02:37](https://news.ycombinator.com/item?id=35216973) - [Do I Need to Avoid Dark Chocolate Now?](https://www.nytimes.com/2023/02/09/well/eat/dark-chocolate-metal-lead.html)
@@ -19,6 +18,7 @@
 * [2023-03-19, 00:18:36](https://news.ycombinator.com/item?id=35214608) - [Master Emacs in one year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org)
 * [2023-03-18, 20:58:32](https://news.ycombinator.com/item?id=35213039) - [How to run a shadow library: operations at Anna’s Archive](https://annas-blog.org/how-to-run-a-shadow-library.html)
 * [2023-03-18, 16:27:57](https://news.ycombinator.com/item?id=35210421) - [More students are turning away from college and toward apprenticeships](https://www.wsj.com/articles/more-students-are-turning-away-from-college-and-toward-apprenticeships-15f3a05d)
+* [2023-03-18, 15:41:06](https://news.ycombinator.com/item?id=35209982) - [Analyzing multi-gigabyte JSON files locally](https://thenybble.de/posts/json-analysis/)
 * [2023-03-18, 15:31:11](https://news.ycombinator.com/item?id=35209878) - [A different approach to fuzzy finding](https://nathancraddock.com/blog/2023/a-different-approach-to-fuzzy-finding/)
 * [2023-03-18, 11:52:28](https://news.ycombinator.com/item?id=35208286) - [PLATO: An educational computer system from the 60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2023-03-18, 06:37:39](https://news.ycombinator.com/item?id=35206726) - [Radio Man, Autograph King](https://www.nytimes.com/2023/03/17/nyregion/radio-man-autograph-hunters.html)
