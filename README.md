@@ -2,7 +2,6 @@
 
 * [2023-03-19, 22:04:46](https://news.ycombinator.com/item?id=35224167) - [Google CEO Sundar Pichai deletes chats in violation of retention obligations](http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html)
 * [2023-03-19, 21:40:01](https://news.ycombinator.com/item?id=35223950) - [My new hobby: finding public domain images that Getty sells for $500](https://twitter.com/doctorow/status/1637443442921066497)
-* [2023-03-19, 21:35:55](https://news.ycombinator.com/item?id=35223918) - [When did Chamath short Credit Suisse?](https://abhvio.us/posts/credsui/)
 * [2023-03-19, 21:31:17](https://news.ycombinator.com/item?id=35223871) - [Credit Suisse’s $17B of Risky Bonds Are Now Worthless](https://www.bloomberg.com/news/articles/2023-03-19/credit-suisse-s-17-billion-of-risky-bonds-are-now-worthless)
 * [2023-03-19, 21:10:58](https://news.ycombinator.com/item?id=35223690) - [Data from Atlassian dumped online after apparent hack](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
 * [2023-03-19, 20:32:18](https://news.ycombinator.com/item?id=35223240) - [Qualcomm has open sourced its aptX and aptX HD encoders](https://old.reddit.com/r/Android/comments/11t16lk/qualcomm_has_open_sourced_its_aptx_and_aptx_hd/)
@@ -29,7 +28,8 @@
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Ken Thompson&#x27;s keynote talk about a jukebox he built [video]](https://www.youtube.com/watch?v=kaandEt_pKw)
 * [2023-03-19, 11:13:41](https://news.ycombinator.com/item?id=35217860) - [Show HN: Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
-* [2023-03-19, 00:50:24](https://news.ycombinator.com/item?id=35214805) - [The untapped potential of human programming (2022)](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming)
+* [2023-03-19, 07:42:24](https://news.ycombinator.com/item?id=35216894) - [Build full “product skills” and you&#x27;ll probably be fine](https://twitter.com/ID_AA_Carmack/status/1637087219591659520)
+* [2023-03-19, 06:51:46](https://news.ycombinator.com/item?id=35216668) - [Tool for Thought (2005)](https://stevenberlinjohnson.com/tool-for-thought-b12c170fcc24?gi=c706b45f888b)
 
 ## [Archives](archives/index.md)
 
