@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
+* [2023-03-19, 19:36:52](https://news.ycombinator.com/item?id=35222691) - [AI could upend the world even more than electricity or the internet](https://techxplore.com/news/2023-03-ai-upend-world-electricity-internet.html)
+* [2023-03-19, 19:24:22](https://news.ycombinator.com/item?id=35222537) - [New Horizons’ Top Pluto Pics (2016)](https://www.nasa.gov/feature/new-horizons-top-10-pluto-pics/)
 * [2023-03-19, 18:50:19](https://news.ycombinator.com/item?id=35222192) - [Mark Zuckerberg: “Please Resign” [2010]](https://www.techemails.com/p/mark-zuckerberg-please-resign)
 * [2023-03-19, 18:44:24](https://news.ycombinator.com/item?id=35222141) - [Credit Suisse Controversies](https://en.wikipedia.org/wiki/Credit_Suisse)
 * [2023-03-19, 18:32:56](https://news.ycombinator.com/item?id=35222029) - [The Origin Story Behind the 2022 Nobel Prize in Physics](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
