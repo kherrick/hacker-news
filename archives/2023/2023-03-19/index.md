@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
+* [2023-03-19, 13:43:32](https://news.ycombinator.com/item?id=35218823) - [Meta staffers reportedly spar with Mark Zuckerberg after mass layoffs](https://www.sfgate.com/tech/article/meta-mark-zuckerberg-town-hall-17846283.php)
+* [2023-03-19, 13:38:11](https://news.ycombinator.com/item?id=35218780) - [Rolls-Royce gets funding to develop miniature nuclear reactor for moon base](https://www.space.com/rolls-royce-funding-microreactor-moon-base)
 * [2023-03-19, 13:13:31](https://news.ycombinator.com/item?id=35218602) - [Sam Altman &#x27;A Little Bit Scared&#x27; of ChatGPT, Will Eliminate &#x27;Many&#x27; Jobs](https://www.businessinsider.com/sam-altman-little-bit-scared-chatgpt-will-eliminate-many-jobs-2023-3)
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Unix legend Ken Thompson announces he&#x27;s switching From macOS To Raspberry Linux](https://www.youtube.com/watch?v=kaandEt_pKw)
 * [2023-03-19, 12:52:25](https://news.ycombinator.com/item?id=35218456) - [Microsoft is testing a built-in cryptocurrency wallet for the Edge web browser](https://arstechnica.com/gadgets/2023/03/microsoft-is-testing-a-built-in-cryptocurrency-wallet-for-the-edge-browser/)
@@ -12,6 +14,7 @@
 * [2023-03-19, 12:29:38](https://news.ycombinator.com/item?id=35218296) - [UBS offers to buy Credit Suisse for up to $1B](https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd)
 * [2023-03-19, 12:12:37](https://news.ycombinator.com/item?id=35218203) - [This Drone Will Change Everything](https://www.youtube.com/watch?v=DOWDNBu9DkU)
 * [2023-03-19, 11:44:06](https://news.ycombinator.com/item?id=35218047) - [A Brief History of Time is ‘wrong’, Stephen Hawking told collaborator](https://www.theguardian.com/science/2023/mar/19/stephen-hawking-told-me-ive-changed-my-mind-my-book-is-wrong)
+* [2023-03-19, 11:13:41](https://news.ycombinator.com/item?id=35217860) - [Show HN: Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-03-19, 10:31:03](https://news.ycombinator.com/item?id=35217666) - [Twitter Blue breaks EU consumer law by showing prices without tax](https://www.businessinsider.com/elon-musk-twitter-blue-breaking-rules-unfair-business-practices-eu-2023-3)
 * [2023-03-19, 09:24:36](https://news.ycombinator.com/item?id=35217361) - [Plans to repopulate Hawaii’s forests with its crows have been upended](https://www.washingtonpost.com/climate-environment/2023/03/17/hawaiian-crow-alala-hawk-io/)
 * [2023-03-19, 08:58:23](https://news.ycombinator.com/item?id=35217226) - [Tell HN: Instagram&#x27;s API has broken, support tickets ignored, status page green](https://news.ycombinator.com/item?id=35217226)
