@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 22:28:18](https://news.ycombinator.com/item?id=35224356) - [Mastodon Hit 10M Users](https://mastodon.social/@mastodonusercount/110051957865629817)
 * [2023-03-19, 22:04:46](https://news.ycombinator.com/item?id=35224167) - [Google CEO Sundar Pichai deletes chats in violation of retention obligations](http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html)
 * [2023-03-19, 21:40:01](https://news.ycombinator.com/item?id=35223950) - [My new hobby: finding public domain images that Getty sells for $500](https://twitter.com/doctorow/status/1637443442921066497)
 * [2023-03-19, 21:31:17](https://news.ycombinator.com/item?id=35223871) - [Credit Suisse’s $17B of Risky Bonds Are Now Worthless](https://www.bloomberg.com/news/articles/2023-03-19/credit-suisse-s-17-billion-of-risky-bonds-are-now-worthless)
+* [2023-03-19, 21:14:07](https://news.ycombinator.com/item?id=35223723) - [Coordinated central bank action to enhance the provision of US dollar liquidity](https://www.federalreserve.gov/newsevents/pressreleases/monetary20230319a.htm)
 * [2023-03-19, 21:10:58](https://news.ycombinator.com/item?id=35223690) - [Data from Atlassian dumped online after apparent hack](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
 * [2023-03-19, 20:58:58](https://news.ycombinator.com/item?id=35223549) - [Ask HN: OpenAI and Profitability?](https://news.ycombinator.com/item?id=35223549)
 * [2023-03-19, 20:32:18](https://news.ycombinator.com/item?id=35223240) - [Qualcomm has open sourced its aptX and aptX HD encoders](https://old.reddit.com/r/Android/comments/11t16lk/qualcomm_has_open_sourced_its_aptx_and_aptx_hd/)
@@ -12,7 +14,6 @@
 * [2023-03-19, 19:50:33](https://news.ycombinator.com/item?id=35222843) - [Fake Samsung 980 Pro SSDs are spreading around](https://www.tomshardware.com/news/fake-samsung-980-pro)
 * [2023-03-19, 19:38:21](https://news.ycombinator.com/item?id=35222715) - [UBS agrees to buy Credit Suisse in Swiss-assisted bid to calm markets](https://www.reuters.com/business/finance/ubs-take-over-credit-suisse-central-bank-2023-03-19/)
 * [2023-03-19, 19:33:41](https://news.ycombinator.com/item?id=35222649) - [Jaccard Index](https://en.wikipedia.org/wiki/Jaccard_index)
-* [2023-03-19, 18:50:19](https://news.ycombinator.com/item?id=35222192) - [Mark Zuckerberg: “Please Resign” (2010)](https://www.techemails.com/p/mark-zuckerberg-please-resign)
 * [2023-03-19, 18:32:56](https://news.ycombinator.com/item?id=35222029) - [The little-known story behind the 2022 Nobel Prize in physics](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
 * [2023-03-19, 18:02:26](https://news.ycombinator.com/item?id=35221742) - [Leaving China](https://www.persuasion.community/p/leaving-china)
 * [2023-03-19, 17:48:51](https://news.ycombinator.com/item?id=35221609) - [Meditations on Moloch (2014)](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
@@ -29,7 +30,6 @@
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Ken Thompson&#x27;s keynote talk about a jukebox he built [video]](https://www.youtube.com/watch?v=kaandEt_pKw)
 * [2023-03-19, 11:13:41](https://news.ycombinator.com/item?id=35217860) - [Show HN: Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
-* [2023-03-19, 07:42:24](https://news.ycombinator.com/item?id=35216894) - [Build full “product skills” and you&#x27;ll probably be fine](https://twitter.com/ID_AA_Carmack/status/1637087219591659520)
 
 ## [Archives](archives/index.md)
 

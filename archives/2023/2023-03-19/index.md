@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
+* [2023-03-19, 22:28:18](https://news.ycombinator.com/item?id=35224356) - [Mastodon Hit 10M Users](https://mastodon.social/@mastodonusercount/110051957865629817)
 * [2023-03-19, 22:04:46](https://news.ycombinator.com/item?id=35224167) - [Google CEO Sundar Pichai deletes chats in violation of retention obligations](http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html)
 * [2023-03-19, 21:40:01](https://news.ycombinator.com/item?id=35223950) - [My new hobby: finding public domain images that Getty sells for $500](https://twitter.com/doctorow/status/1637443442921066497)
 * [2023-03-19, 21:35:55](https://news.ycombinator.com/item?id=35223918) - [When did Chamath short Credit Suisse?](https://abhvio.us/posts/credsui/)
 * [2023-03-19, 21:31:17](https://news.ycombinator.com/item?id=35223871) - [Credit Suisse’s $17B of Risky Bonds Are Now Worthless](https://www.bloomberg.com/news/articles/2023-03-19/credit-suisse-s-17-billion-of-risky-bonds-are-now-worthless)
+* [2023-03-19, 21:14:07](https://news.ycombinator.com/item?id=35223723) - [Coordinated central bank action to enhance the provision of US dollar liquidity](https://www.federalreserve.gov/newsevents/pressreleases/monetary20230319a.htm)
 * [2023-03-19, 21:10:58](https://news.ycombinator.com/item?id=35223690) - [After apparent hack, data from Australian tech giant Atlassian dumped online](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
 * [2023-03-19, 20:58:58](https://news.ycombinator.com/item?id=35223549) - [Ask HN: OpenAI and Profitability?](https://news.ycombinator.com/item?id=35223549)
 * [2023-03-19, 20:32:18](https://news.ycombinator.com/item?id=35223240) - [Qualcomm has open sourced its aptX and aptX HD encoders](https://old.reddit.com/r/Android/comments/11t16lk/qualcomm_has_open_sourced_its_aptx_and_aptx_hd/)
