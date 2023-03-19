@@ -8,6 +8,7 @@
 * [2023-03-19, 18:44:24](https://news.ycombinator.com/item?id=35222141) - [Credit Suisse Controversies](https://en.wikipedia.org/wiki/Credit_Suisse)
 * [2023-03-19, 18:32:56](https://news.ycombinator.com/item?id=35222029) - [The Origin Story Behind the 2022 Nobel Prize in Physics](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
 * [2023-03-19, 18:15:35](https://news.ycombinator.com/item?id=35221862) - [UBS agrees to buy Credit Suisse for over $2B](https://www.dw.com/en/ubs-agrees-to-buy-credit-suisse-for-over-2-billion-report/a-65041855)
+* [2023-03-19, 18:02:26](https://news.ycombinator.com/item?id=35221742) - [Leaving China](https://www.persuasion.community/p/leaving-china)
 * [2023-03-19, 17:48:51](https://news.ycombinator.com/item?id=35221609) - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 * [2023-03-19, 17:44:25](https://news.ycombinator.com/item?id=35221562) - [‘Catch Me If You Can’ conman Frank Abagnale Jr. lied about his lifetime of lies](https://nypost.com/2023/03/13/catch-me-if-you-can-conman-frank-abagnale-lied-about-his-lies/)
 * [2023-03-19, 17:38:03](https://news.ycombinator.com/item?id=35221488) - [Ask HN: Which tech podcasts would you recommend to a friend?](https://news.ycombinator.com/item?id=35221488)
