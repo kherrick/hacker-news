@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 07:01:24](https://news.ycombinator.com/item?id=35216716) - [GQ.fyi is hiring Rails engineers to build the AI for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
 * [2023-03-19, 04:34:31](https://news.ycombinator.com/item?id=35216075) - [The curious case of a memory leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 03:46:15](https://news.ycombinator.com/item?id=35215835) - [Analyzing a failed drill bit with an electron microscope [video]](https://www.youtube.com/watch?v=887Q-LWBW48)
 * [2023-03-19, 03:34:32](https://news.ycombinator.com/item?id=35215770) - [American colleges in crisis with enrollment decline largest on record](https://fortune.com/2023/03/09/american-skipping-college-huge-numbers-pandemic-turned-them-off-education/)
@@ -7,10 +8,9 @@
 * [2023-03-19, 02:37:51](https://news.ycombinator.com/item?id=35215437) - [Learning BASIC Like It&#x27;s 1983 (2018)](https://twobithistory.org/2018/09/02/learning-basic.html)
 * [2023-03-19, 02:10:09](https://news.ycombinator.com/item?id=35215290) - [‘Forever chemicals’ deserve more EPA scrutiny](https://www.bloomberg.com/opinion/articles/2023-03-18/pfas-are-everywhere-the-epa-must-be-more-aggressive)
 * [2023-03-19, 01:39:07](https://news.ycombinator.com/item?id=35215107) - [I played chess against ChatGPT-4 and lost](https://villekuosmanen.medium.com/i-played-chess-against-chatgpt-4-and-lost-c5798a9049ca)
+* [2023-03-19, 01:16:39](https://news.ycombinator.com/item?id=35214966) - [Students of BloomTech, FKA Lambda School, file class-action lawsuit](https://www.businessinsider.com/lambda-school-bloomtech-class-action-lawsuit-2023-3)
 * [2023-03-19, 00:18:36](https://news.ycombinator.com/item?id=35214608) - [Master Emacs in one year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org)
-* [2023-03-18, 20:58:32](https://news.ycombinator.com/item?id=35213039) - [How to run a shadow library: operations at Anna’s Archive](https://annas-blog.org/how-to-run-a-shadow-library.html)
 * [2023-03-18, 20:11:01](https://news.ycombinator.com/item?id=35212660) - [Build Your Own Redis with C&#x2F;C++](https://build-your-own.org/redis/)
-* [2023-03-18, 19:56:15](https://news.ycombinator.com/item?id=35212522) - [JPEG-XL vs. AVIF and Others: 27 Images Compared](https://giannirosato.com/blog/post/image-comparison/)
 * [2023-03-18, 18:04:14](https://news.ycombinator.com/item?id=35211530) - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
 * [2023-03-18, 18:03:57](https://news.ycombinator.com/item?id=35211524) - [Show HN: Easy-to-use licensing library for .NET apps](https://github.com/SNBSLibs/Licensing.ActivationKeys)
 * [2023-03-18, 18:01:48](https://news.ycombinator.com/item?id=35211499) - [Zero one infinity rule](https://en.wikipedia.org/wiki/Zero_one_infinity_rule)
