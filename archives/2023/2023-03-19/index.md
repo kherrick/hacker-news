@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
+* [2023-03-19, 21:40:01](https://news.ycombinator.com/item?id=35223950) - [My new hobby: finding public domain images that Getty sells for $500](https://twitter.com/doctorow/status/1637443442921066497)
 * [2023-03-19, 21:10:58](https://news.ycombinator.com/item?id=35223690) - [After apparent hack, data from Australian tech giant Atlassian dumped online](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
 * [2023-03-19, 20:11:35](https://news.ycombinator.com/item?id=35223040) - [A Devastating Toxin Is Bubbling Up from the Permafrost](https://hakaimagazine.com/news/the-toxic-threat-in-thawing-permafrost/)
 * [2023-03-19, 20:07:20](https://news.ycombinator.com/item?id=35222999) - [Nations reach accord to protect marine life on high seas](https://apnews.com/article/un-oceans-biodiversity-treaty-0b024fa07e8c1947236d8b8491ebf92c)
@@ -36,6 +37,7 @@
 * [2023-03-19, 16:08:55](https://news.ycombinator.com/item?id=35220380) - [Week 3 of LLaMA](https://replicate.com/blog/llama-roundup)
 * [2023-03-19, 16:06:08](https://news.ycombinator.com/item?id=35220345) - [Learning the ropes: why Germany is building risk into its playgrounds (2021)](https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds)
 * [2023-03-19, 15:16:59](https://news.ycombinator.com/item?id=35219812) - [People Had to Be Convinced of the Usefulness of Electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
+* [2023-03-19, 15:10:01](https://news.ycombinator.com/item?id=35219751) - [For long-term health and happiness, marriage still matters](https://www.wsj.com/articles/for-long-term-health-and-happiness-marriage-still-matters-86114ced)
 * [2023-03-19, 14:39:03](https://news.ycombinator.com/item?id=35219363) - [Switzerland Weighs Full or Partial Credit Suisse Nationalization](https://www.bloomberg.com/news/articles/2023-03-19/switzerland-weighs-full-or-partial-credit-suisse-nationalization)
 * [2023-03-19, 14:29:52](https://news.ycombinator.com/item?id=35219281) - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
 * [2023-03-19, 14:00:56](https://news.ycombinator.com/item?id=35218981) - [Cocaine production reaches record levels as new trafficking hubs emerge](https://www.bbc.com/news/world-64974346)
