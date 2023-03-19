@@ -13,7 +13,6 @@
 * [2023-03-19, 18:02:26](https://news.ycombinator.com/item?id=35221742) - [Leaving China](https://www.persuasion.community/p/leaving-china)
 * [2023-03-19, 17:48:51](https://news.ycombinator.com/item?id=35221609) - [Meditations on Moloch (2014)](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 * [2023-03-19, 17:44:25](https://news.ycombinator.com/item?id=35221562) - [‘Catch Me If You Can’ conman lied about his lifetime of lies](https://nypost.com/2023/03/13/catch-me-if-you-can-conman-frank-abagnale-lied-about-his-lies/)
-* [2023-03-19, 17:26:26](https://news.ycombinator.com/item?id=35221350) - [Affordable device will let anyone connect their brain to a computer](https://www.vice.com/en/article/88x99k/this-affordable-device-will-let-anyone-connect-their-brain-to-a-computer)
 * [2023-03-19, 17:11:16](https://news.ycombinator.com/item?id=35221157) - [UBS agrees to buy Credit Suisse](https://www.bloomberg.com/news/articles/2023-03-19/ubs-agrees-to-buy-credit-suisse-in-historic-deal-to-end-crisis)
 * [2023-03-19, 16:57:25](https://news.ycombinator.com/item?id=35220991) - [Plane Lands&#x2F;Takes Off in Only 20 Feet (2013)](https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet)
 * [2023-03-19, 16:39:00](https://news.ycombinator.com/item?id=35220758) - [The Baumol effect](https://en.wikipedia.org/wiki/Baumol_effect)
@@ -29,6 +28,7 @@
 * [2023-03-19, 04:34:31](https://news.ycombinator.com/item?id=35216075) - [The curious case of a memory leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 03:46:15](https://news.ycombinator.com/item?id=35215835) - [Analyzing a failed drill bit with an electron microscope [video]](https://www.youtube.com/watch?v=887Q-LWBW48)
 * [2023-03-19, 00:50:24](https://news.ycombinator.com/item?id=35214805) - [The untapped potential of human programming (2022)](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming)
+* [2023-03-18, 11:52:28](https://news.ycombinator.com/item?id=35208286) - [PLATO: An educational computer system from the 60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2023-03-18, 06:37:39](https://news.ycombinator.com/item?id=35206726) - [Radio Man, Autograph King](https://www.nytimes.com/2023/03/17/nyregion/radio-man-autograph-hunters.html)
 
 ## [Archives](archives/index.md)
