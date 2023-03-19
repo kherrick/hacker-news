@@ -42,6 +42,7 @@
 * [2023-03-16, 17:30:05](https://news.ycombinator.com/item?id=35185195) - [Microsoft Releases 365 Copilot for Word, Excel, PowerPoint, Outlook, Teams](https://news.microsoft.com/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 * [2023-03-16, 17:23:17](https://news.ycombinator.com/item?id=35185122) - [Launch HN: Outerbase (YC W23) – A new UI and editor for your database](https://news.ycombinator.com/item?id=35185122)
 * [2023-03-16, 17:19:42](https://news.ycombinator.com/item?id=35185069) - [TypeScript 5.0](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
+* [2023-03-16, 17:16:04](https://news.ycombinator.com/item?id=35185000) - [Self-Admitted Technical Debt](https://neverworkintheory.org/2023/03/16/self-admitted-technical-debt.html)
 * [2023-03-16, 17:14:51](https://news.ycombinator.com/item?id=35184985) - [Show HN: Alpaca.cpp – Run an Instruction-Tuned Chat-Style LLM on a MacBook](https://github.com/antimatter15/alpaca.cpp)
 * [2023-03-16, 17:10:33](https://news.ycombinator.com/item?id=35184927) - [How to send a photo around the world in 1926 (2013)](https://gizmodo.com/how-to-send-a-photo-around-the-world-in-1926-533206646)
 * [2023-03-16, 17:09:41](https://news.ycombinator.com/item?id=35184917) - [Upgrading my Chumby 8 kernel part 4: reboot&#x2F;poweroff](https://www.downtowndougbrown.com/2023/03/upgrading-my-chumby-8-kernel-part-4-reboot-poweroff/)
