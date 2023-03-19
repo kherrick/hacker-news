@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 18:32:56](https://news.ycombinator.com/item?id=35222029) - [The Origin Story Behind the 2022 Nobel Prize in Physics](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
 * [2023-03-19, 17:48:51](https://news.ycombinator.com/item?id=35221609) - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 * [2023-03-19, 17:44:25](https://news.ycombinator.com/item?id=35221562) - [‘Catch Me If You Can’ conman Frank Abagnale Jr. lied about his lifetime of lies](https://nypost.com/2023/03/13/catch-me-if-you-can-conman-frank-abagnale-lied-about-his-lies/)
 * [2023-03-19, 17:38:03](https://news.ycombinator.com/item?id=35221488) - [Ask HN: Which tech podcasts would you recommend to a friend?](https://news.ycombinator.com/item?id=35221488)
@@ -27,7 +28,6 @@
 * [2023-03-19, 04:34:31](https://news.ycombinator.com/item?id=35216075) - [The curious case of a memory leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 03:46:15](https://news.ycombinator.com/item?id=35215835) - [Analyzing a failed drill bit with an electron microscope [video]](https://www.youtube.com/watch?v=887Q-LWBW48)
 * [2023-03-19, 03:44:21](https://news.ycombinator.com/item?id=35215826) - [What&#x27;s new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
-* [2023-03-19, 02:49:10](https://news.ycombinator.com/item?id=35215494) - [Design of GNU Parallel (2015)](https://www.gnu.org/software/parallel/parallel_design.html)
 * [2023-03-19, 00:50:24](https://news.ycombinator.com/item?id=35214805) - [The untapped potential of human programming (2022)](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming)
 * [2023-03-18, 11:52:28](https://news.ycombinator.com/item?id=35208286) - [PLATO: An educational computer system from the 60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 
