@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 21:10:58](https://news.ycombinator.com/item?id=35223690) - [After apparent hack, data from Australian tech giant Atlassian dumped online](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
+* [2023-03-19, 20:11:35](https://news.ycombinator.com/item?id=35223040) - [A Devastating Toxin Is Bubbling Up from the Permafrost](https://hakaimagazine.com/news/the-toxic-threat-in-thawing-permafrost/)
 * [2023-03-19, 20:07:20](https://news.ycombinator.com/item?id=35222999) - [Nations reach accord to protect marine life on high seas](https://apnews.com/article/un-oceans-biodiversity-treaty-0b024fa07e8c1947236d8b8491ebf92c)
 * [2023-03-19, 20:06:42](https://news.ycombinator.com/item?id=35222990) - [Bracketed Paste Mode](https://cirw.in/blog/bracketed-paste)
 * [2023-03-19, 19:50:33](https://news.ycombinator.com/item?id=35222843) - [Fake Samsung 980 Pro SSDs Are Spreading Around](https://www.tomshardware.com/news/fake-samsung-980-pro)
@@ -26,8 +28,6 @@
 * [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
 * [2023-03-19, 07:42:24](https://news.ycombinator.com/item?id=35216894) - [Build full “product skills” and you&#x27;ll probably be fine](https://twitter.com/ID_AA_Carmack/status/1637087219591659520)
 * [2023-03-19, 06:51:46](https://news.ycombinator.com/item?id=35216668) - [Tool for Thought (2005)](https://stevenberlinjohnson.com/tool-for-thought-b12c170fcc24?gi=c706b45f888b)
-* [2023-03-19, 04:34:31](https://news.ycombinator.com/item?id=35216075) - [The curious case of a memory leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
-* [2023-03-19, 03:46:15](https://news.ycombinator.com/item?id=35215835) - [Analyzing a failed drill bit with an electron microscope [video]](https://www.youtube.com/watch?v=887Q-LWBW48)
 * [2023-03-19, 00:50:24](https://news.ycombinator.com/item?id=35214805) - [The untapped potential of human programming (2022)](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming)
 * [2023-03-18, 06:37:39](https://news.ycombinator.com/item?id=35206726) - [Radio Man, Autograph King](https://www.nytimes.com/2023/03/17/nyregion/radio-man-autograph-hunters.html)
 

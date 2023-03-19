@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
+* [2023-03-19, 21:10:58](https://news.ycombinator.com/item?id=35223690) - [After apparent hack, data from Australian tech giant Atlassian dumped online](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
+* [2023-03-19, 20:11:35](https://news.ycombinator.com/item?id=35223040) - [A Devastating Toxin Is Bubbling Up from the Permafrost](https://hakaimagazine.com/news/the-toxic-threat-in-thawing-permafrost/)
 * [2023-03-19, 20:07:20](https://news.ycombinator.com/item?id=35222999) - [Nations reach accord to protect marine life on high seas](https://apnews.com/article/un-oceans-biodiversity-treaty-0b024fa07e8c1947236d8b8491ebf92c)
 * [2023-03-19, 20:06:42](https://news.ycombinator.com/item?id=35222990) - [Bracketed Paste Mode](https://cirw.in/blog/bracketed-paste)
 * [2023-03-19, 19:53:22](https://news.ycombinator.com/item?id=35222865) - [Show HN: Ranking of banks by their likelihood to collapse](https://banksonthebrink.com/)
