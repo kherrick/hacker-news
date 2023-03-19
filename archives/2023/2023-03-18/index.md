@@ -68,6 +68,7 @@
 * [2023-03-18, 07:49:06](https://news.ycombinator.com/item?id=35207053) - [PHP 8.2.4 Released](https://www.php.net/index.php)
 * [2023-03-18, 07:42:34](https://news.ycombinator.com/item?id=35207020) - [Tracking the Fake GitHub Star Black Market](https://dagster.io/blog/fake-stars)
 * [2023-03-18, 06:40:25](https://news.ycombinator.com/item?id=35206734) - [Why is building a UI in Rust so hard?](https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard)
+* [2023-03-18, 06:37:39](https://news.ycombinator.com/item?id=35206726) - [Radio Man, Autograph King](https://www.nytimes.com/2023/03/17/nyregion/radio-man-autograph-hunters.html)
 * [2023-03-18, 06:21:18](https://news.ycombinator.com/item?id=35206642) - [Genode&#x27;s Browser Odyssey (2022)](https://genodians.org/nfeske/2022-01-27-browser-odyssey)
 * [2023-03-18, 04:50:18](https://news.ycombinator.com/item?id=35206207) - [Meta employees grill Mark Zuckerberg at all-hands meeting following layoffs](https://www.washingtonpost.com/technology/2023/03/16/zuckerberg-meta-townhall/)
 * [2023-03-18, 04:18:34](https://news.ycombinator.com/item?id=35206041) - [YouTube millionaires are not your friends](https://www.vox.com/culture/23640192/sebastian-ghiorghiu-youtube-hustle-gurus-passive-income-dropshipping)
