@@ -9,7 +9,7 @@
 * [2023-03-19, 02:10:09](https://news.ycombinator.com/item?id=35215290) - [‘Forever chemicals’ deserve far more EPA scrutiny](https://www.bloomberg.com/opinion/articles/2023-03-18/pfas-are-everywhere-the-epa-must-be-more-aggressive)
 * [2023-03-19, 01:46:02](https://news.ycombinator.com/item?id=35215149) - [We Ditched REST and Went with GraphQL: Here’s Why](https://medium.com/meteum/we-ditched-rest-and-went-with-graphql-heres-why-57b5bc533fe0)
 * [2023-03-19, 01:39:07](https://news.ycombinator.com/item?id=35215107) - [I played chess against ChatGPT-4 and lost](https://villekuosmanen.medium.com/i-played-chess-against-chatgpt-4-and-lost-c5798a9049ca)
-* [2023-03-19, 00:31:59](https://news.ycombinator.com/item?id=35214688) - [Show HN: I want to change how people buy health supplements](https://www.backoflabel.com/)
+* [2023-03-19, 00:18:36](https://news.ycombinator.com/item?id=35214608) - [Master Emacs in One Year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org)
 * [2023-03-18, 20:11:01](https://news.ycombinator.com/item?id=35212660) - [Build Your Own Redis with C&#x2F;C++](https://build-your-own.org/redis/)
 * [2023-03-18, 18:04:14](https://news.ycombinator.com/item?id=35211530) - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
 * [2023-03-18, 18:03:57](https://news.ycombinator.com/item?id=35211524) - [Show HN: Easy-to-use licensing library for .NET apps](https://github.com/SNBSLibs/Licensing.ActivationKeys)
