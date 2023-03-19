@@ -5,6 +5,7 @@
 * [2023-03-19, 02:10:09](https://news.ycombinator.com/item?id=35215290) - [‘Forever Chemicals’ Deserve Far More EPA Scrutiny](https://www.bloomberg.com/opinion/articles/2023-03-18/pfas-are-everywhere-the-epa-must-be-more-aggressive)
 * [2023-03-19, 01:46:02](https://news.ycombinator.com/item?id=35215149) - [We Ditched REST and Went with GraphQL: Here’s Why](https://medium.com/meteum/we-ditched-rest-and-went-with-graphql-heres-why-57b5bc533fe0)
 * [2023-03-19, 01:16:39](https://news.ycombinator.com/item?id=35214966) - [Students of BloomTech, FKA Lambda School, file class-action lawsuit](https://www.businessinsider.com/lambda-school-bloomtech-class-action-lawsuit-2023-3)
+* [2023-03-19, 00:31:59](https://news.ycombinator.com/item?id=35214688) - [Show HN: I want to change how people buy health supplements](https://www.backoflabel.com/)
 * [2023-03-19, 00:02:30](https://news.ycombinator.com/item?id=35214491) - [UK backs Rolls-Royce project to build a nuclear reactor on the moon](https://www.cnbc.com/2023/03/17/uk-backs-rolls-royce-project-to-build-a-nuclear-reactor-on-the-moon.html)
 * [2023-03-18, 23:46:38](https://news.ycombinator.com/item?id=35214400) - [Firefox 66 to block automatically playing audible video and audio (2019)](https://hacks.mozilla.org/2019/02/firefox-66-to-block-automatically-playing-audible-video-and-audio/)
 * [2023-03-18, 20:11:01](https://news.ycombinator.com/item?id=35212660) - [Build Your Own Redis with C&#x2F;C++](https://build-your-own.org/redis/)
@@ -29,7 +30,6 @@
 * [2023-03-17, 00:25:55](https://news.ycombinator.com/item?id=35190971) - [The early 90s tech scene that created L0pht, the legendary hackerspace](https://cyberscoop.com/boston-l0pht-hackers-tech-scene/)
 * [2023-03-16, 16:29:10](https://news.ycombinator.com/item?id=35184251) - [St Scholastica Day Riot](https://en.wikipedia.org/wiki/St_Scholastica_Day_riot)
 * [2023-03-16, 06:10:14](https://news.ycombinator.com/item?id=35178719) - [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/00_about/)
-* [2023-03-16, 05:36:32](https://news.ycombinator.com/item?id=35178506) - [What was the impact of Julius Caesar’s murder?](https://www.historytoday.com/archive/head-head/what-was-impact-julius-caesars-murder)
 
 ## [Archives](archives/index.md)
 
