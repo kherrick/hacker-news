@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-03-18, 14:32:43",
-      "https://news.ycombinator.com/item?id=35209428"
-    ],
-    [
-      "Kenji López-Alt spent 5 months studying Chicago thin-crust pizza",
-      "https://www.nytimes.com/2023/03/17/dining/tavern-thin-crust-pizza-chicago.html"
-    ]
-  ],
-  [
-    [
       "2023-03-18, 11:52:28",
       "https://news.ycombinator.com/item?id=35208286"
     ],
@@ -227,6 +217,16 @@
     [
       "Libgsqlite: A SQLite extension which loads a Google Sheet as a virtual table",
       "https://github.com/0x6b/libgsqlite"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 06:21:18",
+      "https://news.ycombinator.com/item?id=35206642"
+    ],
+    [
+      "Genode&#x27;s Browser Odyssey (2022)",
+      "https://genodians.org/nfeske/2022-01-27-browser-odyssey"
     ]
   ],
   [
