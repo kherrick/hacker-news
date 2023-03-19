@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 23:37:44](https://news.ycombinator.com/item?id=35224999) - [Banshees of Inisherin: The Game](https://bansheesthegame.com/)
 * [2023-03-19, 23:02:20](https://news.ycombinator.com/item?id=35224666) - [Anti-recruiter prompt injection attack in LinkedIn profile](https://twitter.com/brdskggs/status/1637114268876144640)
 * [2023-03-19, 22:28:18](https://news.ycombinator.com/item?id=35224356) - [Mastodon Hit 10M Users](https://mastodon.social/@mastodonusercount/110051957865629817)
 * [2023-03-19, 22:04:46](https://news.ycombinator.com/item?id=35224167) - [Epic Games, others accuse Sundar Pichai of violating retention obligations](http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html)
@@ -29,7 +30,6 @@
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Ken Thompson&#x27;s keynote talk about a jukebox he built [video]](https://www.youtube.com/watch?v=kaandEt_pKw)
 * [2023-03-19, 11:13:41](https://news.ycombinator.com/item?id=35217860) - [Show HN: Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
-* [2023-03-18, 11:52:28](https://news.ycombinator.com/item?id=35208286) - [PLATO: An educational computer system from the 60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 
 ## [Archives](archives/index.md)
 
