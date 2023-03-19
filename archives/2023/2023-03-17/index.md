@@ -63,6 +63,7 @@
 * [2023-03-17, 06:44:36](https://news.ycombinator.com/item?id=35194002) - [Google Summer of code 2023 is coming](https://summerofcode.withgoogle.com/programs/2023/organizations)
 * [2023-03-17, 06:13:16](https://news.ycombinator.com/item?id=35193789) - [A recent biography of Jacob Taubes is haunted by his first wife’s novel](https://thebaffler.com/latest/the-ghost-at-the-feast-pafe)
 * [2023-03-17, 05:06:48](https://news.ycombinator.com/item?id=35193367) - [Prostate cancer could be treated by destroying tumors with electricity](https://www.telegraph.co.uk/news/2022/01/02/one-hour-operation-could-cure-prostate-cancer-destroying-tumours/)
+* [2023-03-17, 04:47:07](https://news.ycombinator.com/item?id=35193253) - [Abecedarium](https://en.wikipedia.org/wiki/Abecedarium)
 * [2023-03-17, 04:39:19](https://news.ycombinator.com/item?id=35193188) - [Testing GPT 4&#x27;s code-writing capabilities with some real world problems](https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code)
 * [2023-03-17, 03:59:39](https://news.ycombinator.com/item?id=35192913) - [Something Pretty Right: The History and Legacy of Visual Basic](https://retool.com/visual-basic/)
 * [2023-03-17, 03:59:00](https://news.ycombinator.com/item?id=35192906) - [Amazon shuts newspaper and magazine subscriptions for Kindle and print](https://www.niemanlab.org/2023/03/goodbye-newspapers-on-kindle-amazon-stops-selling-newspaper-and-magazine-subscriptions/)

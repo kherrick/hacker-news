@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
+* [2023-03-19, 04:34:31](https://news.ycombinator.com/item?id=35216075) - [The Curious Case of a Memory Leak in a Zig Program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 03:48:54](https://news.ycombinator.com/item?id=35215853) - [How America Manufactures Poverty](https://www.newyorker.com/magazine/2023/03/20/matthew-desmond-poverty-by-america-book-review)
 * [2023-03-19, 03:46:15](https://news.ycombinator.com/item?id=35215835) - [Analyzing a failed drill bit with an electron microscope [video]](https://www.youtube.com/watch?v=887Q-LWBW48)
 * [2023-03-19, 03:34:32](https://news.ycombinator.com/item?id=35215770) - [American colleges in crisis with enrollment decline largest on record](https://fortune.com/2023/03/09/american-skipping-college-huge-numbers-pandemic-turned-them-off-education/)
