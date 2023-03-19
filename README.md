@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-19, 16:57:25](https://news.ycombinator.com/item?id=35220991) - [Plane Lands&#x2F;Takes Off in Only 20 Feet](https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet)
-* [2023-03-19, 16:53:40](https://news.ycombinator.com/item?id=35220950) - [SVB employees blame remote work for bank failure](https://www.axios.com/2023/03/17/svb-employees-blame-remote-work-for-bank-failure)
 * [2023-03-19, 16:39:00](https://news.ycombinator.com/item?id=35220758) - [The Baumol Effect](https://en.wikipedia.org/wiki/Baumol_effect)
 * [2023-03-19, 16:23:50](https://news.ycombinator.com/item?id=35220567) - [An Appeal to AI Superintelligence: Reasons to Preserve Humanity](https://www.lesswrong.com/posts/azRwPDbZfpadoL7WW/an-appeal-to-ai-superintelligence-reasons-to-preserve)
 * [2023-03-19, 16:06:08](https://news.ycombinator.com/item?id=35220345) - [Learning the ropes: why Germany is building risk into its playgrounds (2021)](https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds)
@@ -30,6 +29,7 @@
 * [2023-03-18, 06:37:39](https://news.ycombinator.com/item?id=35206726) - [Radio Man, Autograph King](https://www.nytimes.com/2023/03/17/nyregion/radio-man-autograph-hunters.html)
 * [2023-03-17, 04:47:07](https://news.ycombinator.com/item?id=35193253) - [Abecedarium](https://en.wikipedia.org/wiki/Abecedarium)
 * [2023-03-17, 00:25:55](https://news.ycombinator.com/item?id=35190971) - [The early 90s tech scene that created L0pht, the legendary hackerspace](https://cyberscoop.com/boston-l0pht-hackers-tech-scene/)
+* [2023-03-16, 00:58:13](https://news.ycombinator.com/item?id=35176824) - [E-Paper Wall Paper](https://hackaday.com/2023/03/15/e-paper-wall-paper/)
 
 ## [Archives](archives/index.md)
 
