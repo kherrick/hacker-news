@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
+* [2023-03-19, 18:50:19](https://news.ycombinator.com/item?id=35222192) - [Mark Zuckerberg: “Please Resign” [2010]](https://www.techemails.com/p/mark-zuckerberg-please-resign)
+* [2023-03-19, 18:44:24](https://news.ycombinator.com/item?id=35222141) - [Credit Suisse Controversies](https://en.wikipedia.org/wiki/Credit_Suisse)
 * [2023-03-19, 18:32:56](https://news.ycombinator.com/item?id=35222029) - [The Origin Story Behind the 2022 Nobel Prize in Physics](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
 * [2023-03-19, 17:48:51](https://news.ycombinator.com/item?id=35221609) - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 * [2023-03-19, 17:44:25](https://news.ycombinator.com/item?id=35221562) - [‘Catch Me If You Can’ conman Frank Abagnale Jr. lied about his lifetime of lies](https://nypost.com/2023/03/13/catch-me-if-you-can-conman-frank-abagnale-lied-about-his-lies/)
 * [2023-03-19, 17:38:03](https://news.ycombinator.com/item?id=35221488) - [Ask HN: Which tech podcasts would you recommend to a friend?](https://news.ycombinator.com/item?id=35221488)
 * [2023-03-19, 17:26:26](https://news.ycombinator.com/item?id=35221350) - [Affordable Device Will Let Anyone Connect Their Brain to a Computer](https://www.vice.com/en/article/88x99k/this-affordable-device-will-let-anyone-connect-their-brain-to-a-computer)
+* [2023-03-19, 17:25:03](https://news.ycombinator.com/item?id=35221328) - [U.S. lawmakers to examine merits of higher FDIC bank deposit insurance cap](https://www.cnbc.com/2023/03/19/us-lawmakers-to-examine-merits-of-higher-fdic-bank-deposit-insurance-cap.html)
 * [2023-03-19, 17:22:00](https://news.ycombinator.com/item?id=35221288) - [The Philosopher: A Conversation with Grady Booch](https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html)
 * [2023-03-19, 17:11:16](https://news.ycombinator.com/item?id=35221157) - [UBS Agrees to Buy Credit Suisse in Historic Deal to End Crisis](https://www.bloomberg.com/news/articles/2023-03-19/ubs-agrees-to-buy-credit-suisse-in-historic-deal-to-end-crisis)
 * [2023-03-19, 16:57:27](https://news.ycombinator.com/item?id=35220992) - [GPT-4 Was Able to Hire and Deceive a Human Worker into Completing a Task](https://www.pcmag.com/news/gpt-4-was-able-to-hire-and-deceive-a-human-worker-into-completing-a-task)
