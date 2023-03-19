@@ -49,6 +49,7 @@
 * [2023-03-16, 16:46:34](https://news.ycombinator.com/item?id=35184546) - [Triplebyte Acquired by Karat](https://karat.com/blog/post/karat-acquires-leading-adaptive-assessment-technology-from-triplebyte/)
 * [2023-03-16, 16:44:25](https://news.ycombinator.com/item?id=35184515) - [How deep is the rot in America’s banking industry?](https://finance.yahoo.com/news/deep-rot-america-banking-industry-104028781.html)
 * [2023-03-16, 16:44:06](https://news.ycombinator.com/item?id=35184510) - [California Court Affirms Right to Treat Drivers as Contractors](https://www.wsj.com/articles/uber-lyft-score-victory-as-california-court-affirms-right-to-treat-drivers-as-contractors-642bdd67)
+* [2023-03-16, 16:29:10](https://news.ycombinator.com/item?id=35184251) - [St Scholastica Day Riot (1355)](https://en.wikipedia.org/wiki/St_Scholastica_Day_riot)
 * [2023-03-16, 16:21:45](https://news.ycombinator.com/item?id=35184125) - [Pressurised natural caves could offer a home from home on the Moon](https://www.economist.com/science-and-technology/2023/03/15/pressurised-natural-caves-could-offer-a-home-from-home-on-the-moon)
 * [2023-03-16, 16:21:21](https://news.ycombinator.com/item?id=35184120) - [Launch HN: Sidekick (YC W23) – AI support bot for developers](https://news.ycombinator.com/item?id=35184120)
 * [2023-03-16, 16:15:59](https://news.ycombinator.com/item?id=35184011) - [Twitch CEO Emmett Shear is resigning](https://www.theverge.com/2023/3/16/23643223/twitch-ceo-emmett-shear-resigning-dan-clancy)

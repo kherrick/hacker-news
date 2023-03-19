@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-18](index.md)
 
+* [2023-03-18, 23:46:38](https://news.ycombinator.com/item?id=35214400) - [Firefox 66 to block automatically playing audible video and audio (2019)](https://hacks.mozilla.org/2019/02/firefox-66-to-block-automatically-playing-audible-video-and-audio/)
+* [2023-03-18, 23:20:00](https://news.ycombinator.com/item?id=35214218) - [On the left is GPT-3.5. On the right is GPT-4](https://twitter.com/d_feldman/status/1636955260680847361)
 * [2023-03-18, 22:27:29](https://news.ycombinator.com/item?id=35213776) - [Design notes on the 2023 Wikipedia redesign](https://alexhollender.com/wikipedia-2023-redesign)
 * [2023-03-18, 22:23:20](https://news.ycombinator.com/item?id=35213724) - [Stanford Students Demand Journalist Remove Their Names from Stories](https://jonathanturley.org/2023/03/18/stanford-law-students-reportedly-demand-journalist-remove-their-names-from-stories-after-targeting-other-students-by-name/)
 * [2023-03-18, 21:45:24](https://news.ycombinator.com/item?id=35213400) - [Arbitrary code execution during compilation – rust](https://github.com/eleijonmarck/do-not-compile-this-code)
@@ -84,3 +86,4 @@
 * [2023-03-18, 00:45:19](https://news.ycombinator.com/item?id=35204830) - [The Time I Hacked Google’s Manual Actions Database](https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/)
 * [2023-03-18, 00:33:22](https://news.ycombinator.com/item?id=35204749) - [Yes, you should still learn to code](https://mostlypython.substack.com/p/yes-you-should-still-learn-to-code)
 * [2023-03-18, 00:11:26](https://news.ycombinator.com/item?id=35204604) - [The U.S. military is missing six nuclear weapons](https://nationalinterest.org/blog/reboot/us-military-missing-six-nuclear-weapons-180032)
+* [2023-03-18, 00:04:29](https://news.ycombinator.com/item?id=35204554) - [Identifying organic compounds with visible light](https://phys.org/news/2023-03-compounds-visible.html)
