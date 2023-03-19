@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 14:39:03](https://news.ycombinator.com/item?id=35219363) - [Switzerland Weighs Full or Partial Credit Suisse Nationalization](https://www.bloomberg.com/news/articles/2023-03-19/switzerland-weighs-full-or-partial-credit-suisse-nationalization)
 * [2023-03-19, 13:49:09](https://news.ycombinator.com/item?id=35218868) - [Libreboot 20230319 Released](https://libreboot.org/news/libreboot20230319.html)
 * [2023-03-19, 13:38:11](https://news.ycombinator.com/item?id=35218780) - [Rolls-Royce gets funding to develop miniature nuclear reactor for moon base](https://www.space.com/rolls-royce-funding-microreactor-moon-base)
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Unix legend Ken Thompson announces he&#x27;s switching From macOS To Raspbian Linux](https://www.youtube.com/watch?v=kaandEt_pKw)
@@ -26,7 +27,6 @@
 * [2023-03-18, 11:52:28](https://news.ycombinator.com/item?id=35208286) - [PLATO: An educational computer system from the 60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2023-03-18, 06:37:39](https://news.ycombinator.com/item?id=35206726) - [Radio Man, Autograph King](https://www.nytimes.com/2023/03/17/nyregion/radio-man-autograph-hunters.html)
 * [2023-03-18, 03:37:35](https://news.ycombinator.com/item?id=35205801) - [The James Webb Space Telescope will ripple through our moral universe](https://aeon.co/essays/jwsts-cosmic-revelations-will-change-our-interior-lives-too)
-* [2023-03-17, 17:04:18](https://news.ycombinator.com/item?id=35199826) - [Using Super Glue](https://www.zdnet.com/home-and-office/youre-using-superglue-all-wrong/)
 * [2023-03-17, 04:47:07](https://news.ycombinator.com/item?id=35193253) - [Abecedarium](https://en.wikipedia.org/wiki/Abecedarium)
 * [2023-03-16, 17:16:04](https://news.ycombinator.com/item?id=35185000) - [Self-Admitted Technical Debt](https://neverworkintheory.org/2023/03/16/self-admitted-technical-debt.html)
 * [2023-03-16, 00:58:13](https://news.ycombinator.com/item?id=35176824) - [E-Paper Wall Paper](https://hackaday.com/2023/03/15/e-paper-wall-paper/)
