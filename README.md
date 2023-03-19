@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 13:13:31](https://news.ycombinator.com/item?id=35218602) - [Sam Altman &#x27;A Little Bit Scared&#x27; of ChatGPT, Will Eliminate &#x27;Many&#x27; Jobs](https://www.businessinsider.com/sam-altman-little-bit-scared-chatgpt-will-eliminate-many-jobs-2023-3)
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Unix legend Ken Thompson announces he&#x27;s switching From macOS To Raspberry Linux](https://www.youtube.com/watch?v=kaandEt_pKw)
 * [2023-03-19, 12:29:38](https://news.ycombinator.com/item?id=35218296) - [UBS offers to buy Credit Suisse for up to $1B](https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd)
 * [2023-03-19, 11:44:06](https://news.ycombinator.com/item?id=35218047) - [A Brief History of Time is ‘wrong’, Stephen Hawking told collaborator](https://www.theguardian.com/science/2023/mar/19/stephen-hawking-told-me-ive-changed-my-mind-my-book-is-wrong)
@@ -14,7 +15,6 @@
 * [2023-03-19, 03:44:21](https://news.ycombinator.com/item?id=35215826) - [What&#x27;s new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
 * [2023-03-19, 02:49:10](https://news.ycombinator.com/item?id=35215494) - [Design of GNU Parallel (2015)](https://www.gnu.org/software/parallel/parallel_design.html)
 * [2023-03-19, 02:37:51](https://news.ycombinator.com/item?id=35215437) - [Learning BASIC Like It&#x27;s 1983 (2018)](https://twobithistory.org/2018/09/02/learning-basic.html)
-* [2023-03-19, 01:39:07](https://news.ycombinator.com/item?id=35215107) - [I played chess against ChatGPT-4 and lost](https://villekuosmanen.medium.com/i-played-chess-against-chatgpt-4-and-lost-c5798a9049ca)
 * [2023-03-19, 00:50:24](https://news.ycombinator.com/item?id=35214805) - [The untapped potential of human programming (2022)](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming)
 * [2023-03-19, 00:18:36](https://news.ycombinator.com/item?id=35214608) - [Master Emacs in one year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org)
 * [2023-03-18, 16:27:57](https://news.ycombinator.com/item?id=35210421) - [More students are turning away from college and toward apprenticeships](https://www.wsj.com/articles/more-students-are-turning-away-from-college-and-toward-apprenticeships-15f3a05d)

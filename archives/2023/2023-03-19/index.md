@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
+* [2023-03-19, 13:13:31](https://news.ycombinator.com/item?id=35218602) - [Sam Altman &#x27;A Little Bit Scared&#x27; of ChatGPT, Will Eliminate &#x27;Many&#x27; Jobs](https://www.businessinsider.com/sam-altman-little-bit-scared-chatgpt-will-eliminate-many-jobs-2023-3)
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Unix legend Ken Thompson announces he&#x27;s switching From macOS To Raspberry Linux](https://www.youtube.com/watch?v=kaandEt_pKw)
 * [2023-03-19, 12:29:38](https://news.ycombinator.com/item?id=35218296) - [UBS offers to buy Credit Suisse for up to $1B](https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd)
 * [2023-03-19, 12:12:37](https://news.ycombinator.com/item?id=35218203) - [This Drone Will Change Everything](https://www.youtube.com/watch?v=DOWDNBu9DkU)
