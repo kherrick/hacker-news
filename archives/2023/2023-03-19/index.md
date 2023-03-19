@@ -6,6 +6,8 @@
 
 * [2023-03-19, 13:13:31](https://news.ycombinator.com/item?id=35218602) - [Sam Altman &#x27;A Little Bit Scared&#x27; of ChatGPT, Will Eliminate &#x27;Many&#x27; Jobs](https://www.businessinsider.com/sam-altman-little-bit-scared-chatgpt-will-eliminate-many-jobs-2023-3)
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Unix legend Ken Thompson announces he&#x27;s switching From macOS To Raspberry Linux](https://www.youtube.com/watch?v=kaandEt_pKw)
+* [2023-03-19, 12:52:25](https://news.ycombinator.com/item?id=35218456) - [Microsoft is testing a built-in cryptocurrency wallet for the Edge web browser](https://arstechnica.com/gadgets/2023/03/microsoft-is-testing-a-built-in-cryptocurrency-wallet-for-the-edge-browser/)
+* [2023-03-19, 12:51:12](https://news.ycombinator.com/item?id=35218448) - [Alternative facts: How the media failed Julian Assange](https://harpers.org/archive/2023/03/alternative-facts-how-the-media-failed-julian-assange/)
 * [2023-03-19, 12:29:38](https://news.ycombinator.com/item?id=35218296) - [UBS offers to buy Credit Suisse for up to $1B](https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd)
 * [2023-03-19, 12:12:37](https://news.ycombinator.com/item?id=35218203) - [This Drone Will Change Everything](https://www.youtube.com/watch?v=DOWDNBu9DkU)
 * [2023-03-19, 11:44:06](https://news.ycombinator.com/item?id=35218047) - [A Brief History of Time is ‘wrong’, Stephen Hawking told collaborator](https://www.theguardian.com/science/2023/mar/19/stephen-hawking-told-me-ive-changed-my-mind-my-book-is-wrong)

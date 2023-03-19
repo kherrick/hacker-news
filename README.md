@@ -2,6 +2,8 @@
 
 * [2023-03-19, 13:13:31](https://news.ycombinator.com/item?id=35218602) - [Sam Altman &#x27;A Little Bit Scared&#x27; of ChatGPT, Will Eliminate &#x27;Many&#x27; Jobs](https://www.businessinsider.com/sam-altman-little-bit-scared-chatgpt-will-eliminate-many-jobs-2023-3)
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Unix legend Ken Thompson announces he&#x27;s switching From macOS To Raspberry Linux](https://www.youtube.com/watch?v=kaandEt_pKw)
+* [2023-03-19, 12:52:25](https://news.ycombinator.com/item?id=35218456) - [Microsoft is testing a built-in cryptocurrency wallet for the Edge web browser](https://arstechnica.com/gadgets/2023/03/microsoft-is-testing-a-built-in-cryptocurrency-wallet-for-the-edge-browser/)
+* [2023-03-19, 12:51:12](https://news.ycombinator.com/item?id=35218448) - [Alternative facts: How the media failed Julian Assange](https://harpers.org/archive/2023/03/alternative-facts-how-the-media-failed-julian-assange/)
 * [2023-03-19, 12:29:38](https://news.ycombinator.com/item?id=35218296) - [UBS offers to buy Credit Suisse for up to $1B](https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd)
 * [2023-03-19, 11:44:06](https://news.ycombinator.com/item?id=35218047) - [A Brief History of Time is ‘wrong’, Stephen Hawking told collaborator](https://www.theguardian.com/science/2023/mar/19/stephen-hawking-told-me-ive-changed-my-mind-my-book-is-wrong)
 * [2023-03-19, 09:24:36](https://news.ycombinator.com/item?id=35217361) - [Plans to repopulate Hawaii’s forests with its crows have been upended](https://www.washingtonpost.com/climate-environment/2023/03/17/hawaiian-crow-alala-hawk-io/)
@@ -25,10 +27,8 @@
 * [2023-03-18, 00:04:29](https://news.ycombinator.com/item?id=35204554) - [Identifying organic compounds with visible light](https://phys.org/news/2023-03-compounds-visible.html)
 * [2023-03-17, 17:04:18](https://news.ycombinator.com/item?id=35199826) - [Using Super Glue](https://www.zdnet.com/home-and-office/youre-using-superglue-all-wrong/)
 * [2023-03-17, 04:47:07](https://news.ycombinator.com/item?id=35193253) - [Abecedarium](https://en.wikipedia.org/wiki/Abecedarium)
-* [2023-03-17, 01:38:20](https://news.ycombinator.com/item?id=35191706) - [Understanding CD-R and CD-RW (2003) [pdf]](http://www.osta.org/technology/pdf/cdr_cdrw.pdf)
 * [2023-03-17, 00:25:55](https://news.ycombinator.com/item?id=35190971) - [The early 90s tech scene that created L0pht, the legendary hackerspace](https://cyberscoop.com/boston-l0pht-hackers-tech-scene/)
 * [2023-03-16, 17:16:04](https://news.ycombinator.com/item?id=35185000) - [Self-Admitted Technical Debt](https://neverworkintheory.org/2023/03/16/self-admitted-technical-debt.html)
-* [2023-03-16, 16:29:10](https://news.ycombinator.com/item?id=35184251) - [St Scholastica Day Riot](https://en.wikipedia.org/wiki/St_Scholastica_Day_riot)
 * [2023-03-16, 00:58:13](https://news.ycombinator.com/item?id=35176824) - [E-Paper Wall Paper](https://hackaday.com/2023/03/15/e-paper-wall-paper/)
 
 ## [Archives](archives/index.md)
