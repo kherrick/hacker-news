@@ -31,6 +31,7 @@
 * [2023-03-19, 16:49:47](https://news.ycombinator.com/item?id=35220897) - [The 1967 Experiment That Proved Anyone Can Design a Nuclear Weapon](https://www.amusingplanet.com/2023/03/the-1967-experiment-that-proved-anyone.html)
 * [2023-03-19, 16:39:00](https://news.ycombinator.com/item?id=35220758) - [The Baumol Effect](https://en.wikipedia.org/wiki/Baumol_effect)
 * [2023-03-19, 16:23:50](https://news.ycombinator.com/item?id=35220567) - [An Appeal to AI Superintelligence: Reasons to Preserve Humanity](https://www.lesswrong.com/posts/azRwPDbZfpadoL7WW/an-appeal-to-ai-superintelligence-reasons-to-preserve)
+* [2023-03-19, 16:08:55](https://news.ycombinator.com/item?id=35220380) - [Week 3 of LLaMA](https://replicate.com/blog/llama-roundup)
 * [2023-03-19, 16:06:08](https://news.ycombinator.com/item?id=35220345) - [Learning the ropes: why Germany is building risk into its playgrounds (2021)](https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds)
 * [2023-03-19, 15:16:59](https://news.ycombinator.com/item?id=35219812) - [People Had to Be Convinced of the Usefulness of Electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
 * [2023-03-19, 14:39:03](https://news.ycombinator.com/item?id=35219363) - [Switzerland Weighs Full or Partial Credit Suisse Nationalization](https://www.bloomberg.com/news/articles/2023-03-19/switzerland-weighs-full-or-partial-credit-suisse-nationalization)

@@ -15,6 +15,7 @@
 * [2023-03-19, 16:57:25](https://news.ycombinator.com/item?id=35220991) - [Plane Lands&#x2F;Takes Off in Only 20 Feet (2013)](https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet)
 * [2023-03-19, 16:49:47](https://news.ycombinator.com/item?id=35220897) - [The 1967 Experiment That Proved Anyone Can Design a Nuclear Weapon](https://www.amusingplanet.com/2023/03/the-1967-experiment-that-proved-anyone.html)
 * [2023-03-19, 16:39:00](https://news.ycombinator.com/item?id=35220758) - [The Baumol effect](https://en.wikipedia.org/wiki/Baumol_effect)
+* [2023-03-19, 16:08:55](https://news.ycombinator.com/item?id=35220380) - [Week 3 of LLaMA](https://replicate.com/blog/llama-roundup)
 * [2023-03-19, 16:06:08](https://news.ycombinator.com/item?id=35220345) - [Learning the ropes: why Germany is building risk into its playgrounds (2021)](https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds)
 * [2023-03-19, 15:16:59](https://news.ycombinator.com/item?id=35219812) - [People had to be convinced of the usefulness of electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
 * [2023-03-19, 14:29:52](https://news.ycombinator.com/item?id=35219281) - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
@@ -28,7 +29,6 @@
 * [2023-03-19, 04:34:31](https://news.ycombinator.com/item?id=35216075) - [The curious case of a memory leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 03:46:15](https://news.ycombinator.com/item?id=35215835) - [Analyzing a failed drill bit with an electron microscope [video]](https://www.youtube.com/watch?v=887Q-LWBW48)
 * [2023-03-19, 00:50:24](https://news.ycombinator.com/item?id=35214805) - [The untapped potential of human programming (2022)](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming)
-* [2023-03-18, 11:52:28](https://news.ycombinator.com/item?id=35208286) - [PLATO: An educational computer system from the 60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2023-03-18, 06:37:39](https://news.ycombinator.com/item?id=35206726) - [Radio Man, Autograph King](https://www.nytimes.com/2023/03/17/nyregion/radio-man-autograph-hunters.html)
 
 ## [Archives](archives/index.md)
