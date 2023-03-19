@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
 * [2023-03-19, 14:39:03](https://news.ycombinator.com/item?id=35219363) - [Switzerland Weighs Full or Partial Credit Suisse Nationalization](https://www.bloomberg.com/news/articles/2023-03-19/switzerland-weighs-full-or-partial-credit-suisse-nationalization)
+* [2023-03-19, 14:29:52](https://news.ycombinator.com/item?id=35219281) - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
 * [2023-03-19, 13:49:09](https://news.ycombinator.com/item?id=35218868) - [Libreboot 20230319 Released](https://libreboot.org/news/libreboot20230319.html)
 * [2023-03-19, 13:43:32](https://news.ycombinator.com/item?id=35218823) - [Meta staffers reportedly spar with Mark Zuckerberg after mass layoffs](https://www.sfgate.com/tech/article/meta-mark-zuckerberg-town-hall-17846283.php)
 * [2023-03-19, 13:38:11](https://news.ycombinator.com/item?id=35218780) - [Rolls-Royce gets funding to develop miniature nuclear reactor for moon base](https://www.space.com/rolls-royce-funding-microreactor-moon-base)
