@@ -22,6 +22,7 @@
 * [2023-03-19, 01:46:02](https://news.ycombinator.com/item?id=35215149) - [We Ditched REST and Went with GraphQL: Here’s Why](https://medium.com/meteum/we-ditched-rest-and-went-with-graphql-heres-why-57b5bc533fe0)
 * [2023-03-19, 01:39:07](https://news.ycombinator.com/item?id=35215107) - [I played chess against ChatGPT-4 and lost](https://villekuosmanen.medium.com/i-played-chess-against-chatgpt-4-and-lost-c5798a9049ca)
 * [2023-03-19, 01:16:39](https://news.ycombinator.com/item?id=35214966) - [Students of BloomTech, FKA Lambda School, file class-action lawsuit](https://www.businessinsider.com/lambda-school-bloomtech-class-action-lawsuit-2023-3)
+* [2023-03-19, 00:50:24](https://news.ycombinator.com/item?id=35214805) - [The untapped potential of human programming (2022)](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming)
 * [2023-03-19, 00:31:59](https://news.ycombinator.com/item?id=35214688) - [Show HN: I want to change how people buy health supplements](https://www.backoflabel.com/)
 * [2023-03-19, 00:18:36](https://news.ycombinator.com/item?id=35214608) - [Master Emacs in One Year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org)
 * [2023-03-19, 00:02:30](https://news.ycombinator.com/item?id=35214491) - [UK backs Rolls-Royce project to build a nuclear reactor on the moon](https://www.cnbc.com/2023/03/17/uk-backs-rolls-royce-project-to-build-a-nuclear-reactor-on-the-moon.html)
