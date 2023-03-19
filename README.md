@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-19, 10:31:03](https://news.ycombinator.com/item?id=35217666) - [Twitter Blue breaks EU consumer law by showing prices without tax](https://www.businessinsider.com/elon-musk-twitter-blue-breaking-rules-unfair-business-practices-eu-2023-3)
 * [2023-03-19, 09:24:36](https://news.ycombinator.com/item?id=35217361) - [Plans to repopulate Hawaii’s forests with its crows have been upended](https://www.washingtonpost.com/climate-environment/2023/03/17/hawaiian-crow-alala-hawk-io/)
 * [2023-03-19, 08:58:23](https://news.ycombinator.com/item?id=35217226) - [Tell HN: Instagram&#x27;s API has broken, support tickets ignored, status page green](https://news.ycombinator.com/item?id=35217226)
 * [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Greening the desert: the architect regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
@@ -8,6 +7,7 @@
 * [2023-03-19, 08:02:37](https://news.ycombinator.com/item?id=35216973) - [Do I Need to Avoid Dark Chocolate Now?](https://www.nytimes.com/2023/02/09/well/eat/dark-chocolate-metal-lead.html)
 * [2023-03-19, 07:42:24](https://news.ycombinator.com/item?id=35216894) - [John Carmack: From a DM, just in case anyone else needs to hear this](https://twitter.com/ID_AA_Carmack/status/1637087219591659520)
 * [2023-03-19, 07:01:24](https://news.ycombinator.com/item?id=35216716) - [GQ.fyi is hiring Rails engineers to build the AI for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
+* [2023-03-19, 06:51:46](https://news.ycombinator.com/item?id=35216668) - [Tool for Thought (2005)](https://stevenberlinjohnson.com/tool-for-thought-b12c170fcc24?gi=c706b45f888b)
 * [2023-03-19, 04:34:31](https://news.ycombinator.com/item?id=35216075) - [The curious case of a memory leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 03:46:15](https://news.ycombinator.com/item?id=35215835) - [Analyzing a failed drill bit with an electron microscope [video]](https://www.youtube.com/watch?v=887Q-LWBW48)
 * [2023-03-19, 03:44:21](https://news.ycombinator.com/item?id=35215826) - [What&#x27;s new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
