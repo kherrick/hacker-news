@@ -10,6 +10,7 @@
 * [2023-03-19, 17:26:26](https://news.ycombinator.com/item?id=35221350) - [Affordable Device Will Let Anyone Connect Their Brain to a Computer](https://www.vice.com/en/article/88x99k/this-affordable-device-will-let-anyone-connect-their-brain-to-a-computer)
 * [2023-03-19, 17:22:00](https://news.ycombinator.com/item?id=35221288) - [The Philosopher: A Conversation with Grady Booch](https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html)
 * [2023-03-19, 17:11:16](https://news.ycombinator.com/item?id=35221157) - [UBS Agrees to Buy Credit Suisse in Historic Deal to End Crisis](https://www.bloomberg.com/news/articles/2023-03-19/ubs-agrees-to-buy-credit-suisse-in-historic-deal-to-end-crisis)
+* [2023-03-19, 16:57:27](https://news.ycombinator.com/item?id=35220992) - [GPT-4 Was Able to Hire and Deceive a Human Worker into Completing a Task](https://www.pcmag.com/news/gpt-4-was-able-to-hire-and-deceive-a-human-worker-into-completing-a-task)
 * [2023-03-19, 16:57:25](https://news.ycombinator.com/item?id=35220991) - [Plane Lands&#x2F;Takes Off in Only 20 Feet](https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet)
 * [2023-03-19, 16:53:40](https://news.ycombinator.com/item?id=35220950) - [SVB employees blame remote work for bank failure](https://www.axios.com/2023/03/17/svb-employees-blame-remote-work-for-bank-failure)
 * [2023-03-19, 16:39:00](https://news.ycombinator.com/item?id=35220758) - [The Baumol Effect](https://en.wikipedia.org/wiki/Baumol_effect)

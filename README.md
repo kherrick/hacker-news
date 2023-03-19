@@ -4,7 +4,9 @@
 * [2023-03-19, 17:44:25](https://news.ycombinator.com/item?id=35221562) - [‘Catch Me If You Can’ conman Frank Abagnale Jr. lied about his lifetime of lies](https://nypost.com/2023/03/13/catch-me-if-you-can-conman-frank-abagnale-lied-about-his-lies/)
 * [2023-03-19, 17:38:03](https://news.ycombinator.com/item?id=35221488) - [Ask HN: Which tech podcasts would you recommend to a friend?](https://news.ycombinator.com/item?id=35221488)
 * [2023-03-19, 17:26:26](https://news.ycombinator.com/item?id=35221350) - [Affordable Device Will Let Anyone Connect Their Brain to a Computer](https://www.vice.com/en/article/88x99k/this-affordable-device-will-let-anyone-connect-their-brain-to-a-computer)
+* [2023-03-19, 17:22:00](https://news.ycombinator.com/item?id=35221288) - [The Philosopher: A Conversation with Grady Booch](https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html)
 * [2023-03-19, 17:11:16](https://news.ycombinator.com/item?id=35221157) - [UBS Agrees to Buy Credit Suisse in Historic Deal to End Crisis](https://www.bloomberg.com/news/articles/2023-03-19/ubs-agrees-to-buy-credit-suisse-in-historic-deal-to-end-crisis)
+* [2023-03-19, 16:57:27](https://news.ycombinator.com/item?id=35220992) - [GPT-4 Was Able to Hire and Deceive a Human Worker into Completing a Task](https://www.pcmag.com/news/gpt-4-was-able-to-hire-and-deceive-a-human-worker-into-completing-a-task)
 * [2023-03-19, 16:57:25](https://news.ycombinator.com/item?id=35220991) - [Plane Lands&#x2F;Takes Off in Only 20 Feet (2013)](https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet)
 * [2023-03-19, 16:39:00](https://news.ycombinator.com/item?id=35220758) - [The Baumol Effect](https://en.wikipedia.org/wiki/Baumol_effect)
 * [2023-03-19, 16:06:08](https://news.ycombinator.com/item?id=35220345) - [Learning the ropes: why Germany is building risk into its playgrounds (2021)](https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds)
@@ -28,8 +30,6 @@
 * [2023-03-19, 02:49:10](https://news.ycombinator.com/item?id=35215494) - [Design of GNU Parallel (2015)](https://www.gnu.org/software/parallel/parallel_design.html)
 * [2023-03-19, 00:50:24](https://news.ycombinator.com/item?id=35214805) - [The untapped potential of human programming (2022)](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming)
 * [2023-03-18, 11:52:28](https://news.ycombinator.com/item?id=35208286) - [PLATO: An educational computer system from the 60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
-* [2023-03-17, 04:47:07](https://news.ycombinator.com/item?id=35193253) - [Abecedarium](https://en.wikipedia.org/wiki/Abecedarium)
-* [2023-03-17, 00:25:55](https://news.ycombinator.com/item?id=35190971) - [The early 90s tech scene that created L0pht, the legendary hackerspace](https://cyberscoop.com/boston-l0pht-hackers-tech-scene/)
 
 ## [Archives](archives/index.md)
 
