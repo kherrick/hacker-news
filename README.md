@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 10:31:03](https://news.ycombinator.com/item?id=35217666) - [Twitter Blue breaks EU consumer law by showing prices without tax](https://www.businessinsider.com/elon-musk-twitter-blue-breaking-rules-unfair-business-practices-eu-2023-3)
 * [2023-03-19, 09:24:36](https://news.ycombinator.com/item?id=35217361) - [Plans to repopulate Hawaii’s forests with its crows have been upended](https://www.washingtonpost.com/climate-environment/2023/03/17/hawaiian-crow-alala-hawk-io/)
 * [2023-03-19, 08:58:23](https://news.ycombinator.com/item?id=35217226) - [Tell HN: Instagram&#x27;s API has broken, support tickets ignored, status page green](https://news.ycombinator.com/item?id=35217226)
 * [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Greening the desert: the architect regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
@@ -26,7 +27,6 @@
 * [2023-03-17, 04:47:07](https://news.ycombinator.com/item?id=35193253) - [Abecedarium](https://en.wikipedia.org/wiki/Abecedarium)
 * [2023-03-17, 01:38:20](https://news.ycombinator.com/item?id=35191706) - [Understanding CD-R and CD-RW (2003) [pdf]](http://www.osta.org/technology/pdf/cdr_cdrw.pdf)
 * [2023-03-17, 00:25:55](https://news.ycombinator.com/item?id=35190971) - [The early 90s tech scene that created L0pht, the legendary hackerspace](https://cyberscoop.com/boston-l0pht-hackers-tech-scene/)
-* [2023-03-16, 20:35:24](https://news.ycombinator.com/item?id=35188134) - [Old backdoor, new obfuscation](https://isc.sans.edu/diary.html?storyid=0)
 * [2023-03-16, 17:16:04](https://news.ycombinator.com/item?id=35185000) - [Self-Admitted Technical Debt](https://neverworkintheory.org/2023/03/16/self-admitted-technical-debt.html)
 * [2023-03-16, 16:29:10](https://news.ycombinator.com/item?id=35184251) - [St Scholastica Day Riot](https://en.wikipedia.org/wiki/St_Scholastica_Day_riot)
 * [2023-03-16, 00:58:13](https://news.ycombinator.com/item?id=35176824) - [E-Paper Wall Paper](https://hackaday.com/2023/03/15/e-paper-wall-paper/)
