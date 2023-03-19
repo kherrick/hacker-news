@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 22:04:46](https://news.ycombinator.com/item?id=35224167) - [Google CEO Sundar Pichai deletes chats in violation of retention obligations](http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html)
 * [2023-03-19, 21:40:01](https://news.ycombinator.com/item?id=35223950) - [My new hobby: finding public domain images that Getty sells for $500](https://twitter.com/doctorow/status/1637443442921066497)
+* [2023-03-19, 21:35:55](https://news.ycombinator.com/item?id=35223918) - [When did Chamath short Credit Suisse?](https://abhvio.us/posts/credsui/)
+* [2023-03-19, 21:31:17](https://news.ycombinator.com/item?id=35223871) - [Credit Suisse’s $17B of Risky Bonds Are Now Worthless](https://www.bloomberg.com/news/articles/2023-03-19/credit-suisse-s-17-billion-of-risky-bonds-are-now-worthless)
 * [2023-03-19, 21:10:58](https://news.ycombinator.com/item?id=35223690) - [Data from Atlassian dumped online after apparent hack](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
 * [2023-03-19, 20:11:35](https://news.ycombinator.com/item?id=35223040) - [Methylmercury in thawing permafrost](https://hakaimagazine.com/news/the-toxic-threat-in-thawing-permafrost/)
 * [2023-03-19, 20:07:20](https://news.ycombinator.com/item?id=35222999) - [Nations reach accord to protect marine life on high seas](https://apnews.com/article/un-oceans-biodiversity-treaty-0b024fa07e8c1947236d8b8491ebf92c)
@@ -14,7 +17,6 @@
 * [2023-03-19, 17:48:51](https://news.ycombinator.com/item?id=35221609) - [Meditations on Moloch (2014)](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 * [2023-03-19, 17:44:25](https://news.ycombinator.com/item?id=35221562) - [‘Catch Me If You Can’ conman lied about his lifetime of lies](https://nypost.com/2023/03/13/catch-me-if-you-can-conman-frank-abagnale-lied-about-his-lies/)
 * [2023-03-19, 17:26:26](https://news.ycombinator.com/item?id=35221350) - [Affordable device will let anyone connect their brain to a computer](https://www.vice.com/en/article/88x99k/this-affordable-device-will-let-anyone-connect-their-brain-to-a-computer)
-* [2023-03-19, 17:11:16](https://news.ycombinator.com/item?id=35221157) - [UBS agrees to buy Credit Suisse](https://www.bloomberg.com/news/articles/2023-03-19/ubs-agrees-to-buy-credit-suisse-in-historic-deal-to-end-crisis)
 * [2023-03-19, 16:57:25](https://news.ycombinator.com/item?id=35220991) - [Plane Lands&#x2F;Takes Off in Only 20 Feet (2013)](https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet)
 * [2023-03-19, 16:49:47](https://news.ycombinator.com/item?id=35220897) - [A 1967 experiment that proved anyone can design a nuclear weapon](https://www.amusingplanet.com/2023/03/the-1967-experiment-that-proved-anyone.html)
 * [2023-03-19, 16:39:00](https://news.ycombinator.com/item?id=35220758) - [The Baumol effect](https://en.wikipedia.org/wiki/Baumol_effect)
@@ -27,9 +29,7 @@
 * [2023-03-19, 11:13:41](https://news.ycombinator.com/item?id=35217860) - [Show HN: Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
 * [2023-03-19, 07:42:24](https://news.ycombinator.com/item?id=35216894) - [Build full “product skills” and you&#x27;ll probably be fine](https://twitter.com/ID_AA_Carmack/status/1637087219591659520)
-* [2023-03-19, 06:51:46](https://news.ycombinator.com/item?id=35216668) - [Tool for Thought (2005)](https://stevenberlinjohnson.com/tool-for-thought-b12c170fcc24?gi=c706b45f888b)
 * [2023-03-19, 00:50:24](https://news.ycombinator.com/item?id=35214805) - [The untapped potential of human programming (2022)](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming)
-* [2023-03-18, 06:37:39](https://news.ycombinator.com/item?id=35206726) - [Radio Man, Autograph King](https://www.nytimes.com/2023/03/17/nyregion/radio-man-autograph-hunters.html)
 
 ## [Archives](archives/index.md)
 

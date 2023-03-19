@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
+* [2023-03-19, 22:04:46](https://news.ycombinator.com/item?id=35224167) - [Google CEO Sundar Pichai deletes chats in violation of retention obligations](http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html)
 * [2023-03-19, 21:40:01](https://news.ycombinator.com/item?id=35223950) - [My new hobby: finding public domain images that Getty sells for $500](https://twitter.com/doctorow/status/1637443442921066497)
+* [2023-03-19, 21:35:55](https://news.ycombinator.com/item?id=35223918) - [When did Chamath short Credit Suisse?](https://abhvio.us/posts/credsui/)
+* [2023-03-19, 21:31:17](https://news.ycombinator.com/item?id=35223871) - [Credit Suisse’s $17B of Risky Bonds Are Now Worthless](https://www.bloomberg.com/news/articles/2023-03-19/credit-suisse-s-17-billion-of-risky-bonds-are-now-worthless)
 * [2023-03-19, 21:10:58](https://news.ycombinator.com/item?id=35223690) - [After apparent hack, data from Australian tech giant Atlassian dumped online](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
 * [2023-03-19, 20:11:35](https://news.ycombinator.com/item?id=35223040) - [A Devastating Toxin Is Bubbling Up from the Permafrost](https://hakaimagazine.com/news/the-toxic-threat-in-thawing-permafrost/)
 * [2023-03-19, 20:07:20](https://news.ycombinator.com/item?id=35222999) - [Nations reach accord to protect marine life on high seas](https://apnews.com/article/un-oceans-biodiversity-treaty-0b024fa07e8c1947236d8b8491ebf92c)
