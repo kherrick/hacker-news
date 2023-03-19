@@ -31,6 +31,7 @@
 * [2023-03-17, 17:39:54](https://news.ycombinator.com/item?id=35200267) - [ChatGPT&#x27;s Chess Elo is 1400](https://dkb.blog/p/chatgpts-chess-elo-is-1400)
 * [2023-03-17, 17:18:57](https://news.ycombinator.com/item?id=35200017) - [How to Ask Questions the Smart Way (2014)](http://www.catb.org/~esr/faqs/smart-questions.html)
 * [2023-03-17, 17:11:31](https://news.ycombinator.com/item?id=35199906) - [Spycraft: The Great Game, Part 2](https://www.filfre.net/2023/03/spycraft-the-great-game-part-2/)
+* [2023-03-17, 17:04:18](https://news.ycombinator.com/item?id=35199826) - [Using Super Glue](https://www.zdnet.com/home-and-office/youre-using-superglue-all-wrong/)
 * [2023-03-17, 17:00:36](https://news.ycombinator.com/item?id=35199765) - [Prometheus (YC W19) Is Hiring](https://www.ycombinator.com/companies/prometheus/jobs/34u2Lo8-research-engineer-electrochemistry)
 * [2023-03-17, 16:48:29](https://news.ycombinator.com/item?id=35199567) - [Hypothalamic Menin regulates systemic aging and cognitive decline](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002033)
 * [2023-03-17, 16:40:39](https://news.ycombinator.com/item?id=35199440) - [Linux Intel WiFi driver broken with 5&amp;6GHz bands for longer than three years](https://bugzilla.kernel.org/show_bug.cgi?id=206469)

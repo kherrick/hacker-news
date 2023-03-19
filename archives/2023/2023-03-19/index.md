@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
+* [2023-03-19, 11:44:06](https://news.ycombinator.com/item?id=35218047) - [A Brief History of Time is ‘wrong’, Stephen Hawking told collaborator](https://www.theguardian.com/science/2023/mar/19/stephen-hawking-told-me-ive-changed-my-mind-my-book-is-wrong)
 * [2023-03-19, 10:31:03](https://news.ycombinator.com/item?id=35217666) - [Twitter Blue breaks EU consumer law by showing prices without tax](https://www.businessinsider.com/elon-musk-twitter-blue-breaking-rules-unfair-business-practices-eu-2023-3)
 * [2023-03-19, 09:24:36](https://news.ycombinator.com/item?id=35217361) - [Plans to repopulate Hawaii’s forests with its crows have been upended](https://www.washingtonpost.com/climate-environment/2023/03/17/hawaiian-crow-alala-hawk-io/)
 * [2023-03-19, 08:58:23](https://news.ycombinator.com/item?id=35217226) - [Tell HN: Instagram&#x27;s API has broken, support tickets ignored, status page green](https://news.ycombinator.com/item?id=35217226)
