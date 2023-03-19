@@ -77,6 +77,7 @@
 * [2023-03-18, 03:48:10](https://news.ycombinator.com/item?id=35205864) - [Clothing designed to confuse facial recognition software](https://www.capable.design)
 * [2023-03-18, 03:46:56](https://news.ycombinator.com/item?id=35205859) - [Listening to the Creatures of the World](https://www.noemamag.com/a-parliament-of-earthlings/)
 * [2023-03-18, 03:43:29](https://news.ycombinator.com/item?id=35205838) - [How to own your own Docker Registry address](https://httptoolkit.com/blog/docker-image-registry-facade/)
+* [2023-03-18, 03:37:35](https://news.ycombinator.com/item?id=35205801) - [The James Webb Space Telescope will ripple through our moral universe](https://aeon.co/essays/jwsts-cosmic-revelations-will-change-our-interior-lives-too)
 * [2023-03-18, 03:20:09](https://news.ycombinator.com/item?id=35205709) - [Chat GPT Haggadah Supplement](https://www.haggadot.com/haggadah/chat-gpt-haggadah)
 * [2023-03-18, 03:08:09](https://news.ycombinator.com/item?id=35205658) - [Flight attendants want to ban lap-babies](https://www.washingtonpost.com/travel/2023/03/16/lap-babies-flight-safety-turbulence/)
 * [2023-03-18, 02:49:44](https://news.ycombinator.com/item?id=35205575) - [Are You Ok?](https://memex.marginalia.nu/log/72-are-you-ok.gmi)

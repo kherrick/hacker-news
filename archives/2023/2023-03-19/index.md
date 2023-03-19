@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
+* [2023-03-19, 07:42:24](https://news.ycombinator.com/item?id=35216894) - [John Carmack: From a DM, just in case anyone else needs to hear this](https://twitter.com/ID_AA_Carmack/status/1637087219591659520)
 * [2023-03-19, 07:01:24](https://news.ycombinator.com/item?id=35216716) - [GQ.fyi is hiring Rails engineers to build the AI for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
 * [2023-03-19, 04:34:31](https://news.ycombinator.com/item?id=35216075) - [The Curious Case of a Memory Leak in a Zig Program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 03:48:54](https://news.ycombinator.com/item?id=35215853) - [How America Manufactures Poverty](https://www.newyorker.com/magazine/2023/03/20/matthew-desmond-poverty-by-america-book-review)
