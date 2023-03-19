@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-03-19, 03:48:54",
-      "https://news.ycombinator.com/item?id=35215853"
+      "2023-03-19, 04:34:31",
+      "https://news.ycombinator.com/item?id=35216075"
     ],
     [
-      "How America Manufactures Poverty",
-      "https://www.newyorker.com/magazine/2023/03/20/matthew-desmond-poverty-by-america-book-review"
+      "The Curious Case of a Memory Leak in a Zig Program",
+      "https://iamkroot.github.io/blog/zig-memleak"
     ]
   ],
   [
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2023-03-18, 19:56:15",
+      "https://news.ycombinator.com/item?id=35212522"
+    ],
+    [
+      "JPEG-XL vs. AVIF and Others: 27 Images Compared",
+      "https://giannirosato.com/blog/post/image-comparison/"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 18:04:14",
       "https://news.ycombinator.com/item?id=35211530"
     ],
@@ -211,32 +221,22 @@
   ],
   [
     [
-      "2023-03-18, 11:24:49",
-      "https://news.ycombinator.com/item?id=35208113"
-    ],
-    [
-      "Libgsqlite: A SQLite extension which loads a Google Sheet as a virtual table",
-      "https://github.com/0x6b/libgsqlite"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 06:21:18",
-      "https://news.ycombinator.com/item?id=35206642"
-    ],
-    [
-      "Genode&#x27;s Browser Odyssey (2022)",
-      "https://genodians.org/nfeske/2022-01-27-browser-odyssey"
-    ]
-  ],
-  [
-    [
       "2023-03-18, 00:04:29",
       "https://news.ycombinator.com/item?id=35204554"
     ],
     [
       "Identifying organic compounds with visible light",
       "https://phys.org/news/2023-03-compounds-visible.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 04:47:07",
+      "https://news.ycombinator.com/item?id=35193253"
+    ],
+    [
+      "Abecedarium",
+      "https://en.wikipedia.org/wiki/Abecedarium"
     ]
   ],
   [
