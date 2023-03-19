@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-19, 13:43:32](https://news.ycombinator.com/item?id=35218823) - [Meta staffers reportedly spar with Mark Zuckerberg after mass layoffs](https://www.sfgate.com/tech/article/meta-mark-zuckerberg-town-hall-17846283.php)
+* [2023-03-19, 13:49:09](https://news.ycombinator.com/item?id=35218868) - [Libreboot 20230319 Released](https://libreboot.org/news/libreboot20230319.html)
 * [2023-03-19, 13:38:11](https://news.ycombinator.com/item?id=35218780) - [Rolls-Royce gets funding to develop miniature nuclear reactor for moon base](https://www.space.com/rolls-royce-funding-microreactor-moon-base)
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Unix legend Ken Thompson announces he&#x27;s switching From macOS To Raspbian Linux](https://www.youtube.com/watch?v=kaandEt_pKw)
 * [2023-03-19, 12:52:25](https://news.ycombinator.com/item?id=35218456) - [Microsoft is testing a built-in cryptocurrency wallet for the Edge web browser](https://arstechnica.com/gadgets/2023/03/microsoft-is-testing-a-built-in-cryptocurrency-wallet-for-the-edge-browser/)
@@ -8,6 +8,7 @@
 * [2023-03-19, 12:35:38](https://news.ycombinator.com/item?id=35218339) - [Tearing Down Apple&#x27;s Display Opener](https://www.youtube.com/watch?v=govETQLZGWA)
 * [2023-03-19, 12:30:09](https://news.ycombinator.com/item?id=35218302) - [ChatGPT can in fact ask you questions](https://twitter.com/bitecode_dev/status/1637420579278954501)
 * [2023-03-19, 12:29:38](https://news.ycombinator.com/item?id=35218296) - [UBS offers to buy Credit Suisse for up to $1B](https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd)
+* [2023-03-19, 11:38:51](https://news.ycombinator.com/item?id=35218019) - [Show HN: Side-Project: FlowChartGPT – Turn Text into FlowCharts](https://fastflowchart.com/)
 * [2023-03-19, 11:13:41](https://news.ycombinator.com/item?id=35217860) - [Show HN: Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-03-19, 08:58:23](https://news.ycombinator.com/item?id=35217226) - [Tell HN: Instagram&#x27;s API has broken, support tickets ignored, status page green](https://news.ycombinator.com/item?id=35217226)
 * [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Greening the desert: the architect regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
@@ -27,7 +28,6 @@
 * [2023-03-18, 03:37:35](https://news.ycombinator.com/item?id=35205801) - [The James Webb Space Telescope will ripple through our moral universe](https://aeon.co/essays/jwsts-cosmic-revelations-will-change-our-interior-lives-too)
 * [2023-03-17, 17:04:18](https://news.ycombinator.com/item?id=35199826) - [Using Super Glue](https://www.zdnet.com/home-and-office/youre-using-superglue-all-wrong/)
 * [2023-03-17, 04:47:07](https://news.ycombinator.com/item?id=35193253) - [Abecedarium](https://en.wikipedia.org/wiki/Abecedarium)
-* [2023-03-17, 00:25:55](https://news.ycombinator.com/item?id=35190971) - [The early 90s tech scene that created L0pht, the legendary hackerspace](https://cyberscoop.com/boston-l0pht-hackers-tech-scene/)
 * [2023-03-16, 17:16:04](https://news.ycombinator.com/item?id=35185000) - [Self-Admitted Technical Debt](https://neverworkintheory.org/2023/03/16/self-admitted-technical-debt.html)
 * [2023-03-16, 00:58:13](https://news.ycombinator.com/item?id=35176824) - [E-Paper Wall Paper](https://hackaday.com/2023/03/15/e-paper-wall-paper/)
 
