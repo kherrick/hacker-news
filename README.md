@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 15:16:59](https://news.ycombinator.com/item?id=35219812) - [People Had to Be Convinced of the Usefulness of Electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
 * [2023-03-19, 14:39:03](https://news.ycombinator.com/item?id=35219363) - [Switzerland Weighs Full or Partial Credit Suisse Nationalization](https://www.bloomberg.com/news/articles/2023-03-19/switzerland-weighs-full-or-partial-credit-suisse-nationalization)
 * [2023-03-19, 14:29:52](https://news.ycombinator.com/item?id=35219281) - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
 * [2023-03-19, 13:49:09](https://news.ycombinator.com/item?id=35218868) - [Libreboot 20230319 Released](https://libreboot.org/news/libreboot20230319.html)
@@ -28,7 +29,6 @@
 * [2023-03-18, 06:37:39](https://news.ycombinator.com/item?id=35206726) - [Radio Man, Autograph King](https://www.nytimes.com/2023/03/17/nyregion/radio-man-autograph-hunters.html)
 * [2023-03-18, 03:37:35](https://news.ycombinator.com/item?id=35205801) - [The James Webb Space Telescope will ripple through our moral universe](https://aeon.co/essays/jwsts-cosmic-revelations-will-change-our-interior-lives-too)
 * [2023-03-17, 04:47:07](https://news.ycombinator.com/item?id=35193253) - [Abecedarium](https://en.wikipedia.org/wiki/Abecedarium)
-* [2023-03-17, 00:25:55](https://news.ycombinator.com/item?id=35190971) - [The early 90s tech scene that created L0pht, the legendary hackerspace](https://cyberscoop.com/boston-l0pht-hackers-tech-scene/)
 * [2023-03-16, 00:58:13](https://news.ycombinator.com/item?id=35176824) - [E-Paper Wall Paper](https://hackaday.com/2023/03/15/e-paper-wall-paper/)
 
 ## [Archives](archives/index.md)
