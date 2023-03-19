@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 17:48:51](https://news.ycombinator.com/item?id=35221609) - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+* [2023-03-19, 17:38:03](https://news.ycombinator.com/item?id=35221488) - [Ask HN: Which tech podcasts would you recommend to a friend?](https://news.ycombinator.com/item?id=35221488)
 * [2023-03-19, 17:26:26](https://news.ycombinator.com/item?id=35221350) - [Affordable Device Will Let Anyone Connect Their Brain to a Computer](https://www.vice.com/en/article/88x99k/this-affordable-device-will-let-anyone-connect-their-brain-to-a-computer)
+* [2023-03-19, 17:22:00](https://news.ycombinator.com/item?id=35221288) - [The Philosopher: A Conversation with Grady Booch](https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html)
 * [2023-03-19, 17:11:16](https://news.ycombinator.com/item?id=35221157) - [UBS Agrees to Buy Credit Suisse in Historic Deal to End Crisis](https://www.bloomberg.com/news/articles/2023-03-19/ubs-agrees-to-buy-credit-suisse-in-historic-deal-to-end-crisis)
 * [2023-03-19, 16:57:25](https://news.ycombinator.com/item?id=35220991) - [Plane Lands&#x2F;Takes Off in Only 20 Feet (2013)](https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet)
 * [2023-03-19, 16:39:00](https://news.ycombinator.com/item?id=35220758) - [The Baumol Effect](https://en.wikipedia.org/wiki/Baumol_effect)
@@ -12,7 +15,6 @@
 * [2023-03-19, 13:49:09](https://news.ycombinator.com/item?id=35218868) - [Libreboot 20230319 Released](https://libreboot.org/news/libreboot20230319.html)
 * [2023-03-19, 13:38:11](https://news.ycombinator.com/item?id=35218780) - [Rolls-Royce gets funding to develop miniature nuclear reactor for moon base](https://www.space.com/rolls-royce-funding-microreactor-moon-base)
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Unix legend Ken Thompson announces he&#x27;s switching From macOS To Raspbian Linux](https://www.youtube.com/watch?v=kaandEt_pKw)
-* [2023-03-19, 12:35:38](https://news.ycombinator.com/item?id=35218339) - [Tearing Down Apple&#x27;s Display Opener](https://www.youtube.com/watch?v=govETQLZGWA)
 * [2023-03-19, 12:29:38](https://news.ycombinator.com/item?id=35218296) - [UBS offers to buy Credit Suisse for up to $1B](https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd)
 * [2023-03-19, 11:13:41](https://news.ycombinator.com/item?id=35217860) - [Show HN: Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-03-19, 10:02:08](https://news.ycombinator.com/item?id=35217536) - [Make your own ChatGPT UI](https://github.com/enricoros/nextjs-chatgpt-app)
@@ -27,9 +29,7 @@
 * [2023-03-19, 02:49:10](https://news.ycombinator.com/item?id=35215494) - [Design of GNU Parallel (2015)](https://www.gnu.org/software/parallel/parallel_design.html)
 * [2023-03-19, 00:50:24](https://news.ycombinator.com/item?id=35214805) - [The untapped potential of human programming (2022)](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming)
 * [2023-03-18, 11:52:28](https://news.ycombinator.com/item?id=35208286) - [PLATO: An educational computer system from the 60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
-* [2023-03-18, 06:37:39](https://news.ycombinator.com/item?id=35206726) - [Radio Man, Autograph King](https://www.nytimes.com/2023/03/17/nyregion/radio-man-autograph-hunters.html)
 * [2023-03-17, 04:47:07](https://news.ycombinator.com/item?id=35193253) - [Abecedarium](https://en.wikipedia.org/wiki/Abecedarium)
-* [2023-03-17, 00:25:55](https://news.ycombinator.com/item?id=35190971) - [The early 90s tech scene that created L0pht, the legendary hackerspace](https://cyberscoop.com/boston-l0pht-hackers-tech-scene/)
 
 ## [Archives](archives/index.md)
 
