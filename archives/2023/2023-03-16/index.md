@@ -123,6 +123,7 @@
 * [2023-03-16, 01:49:12](https://news.ycombinator.com/item?id=35177167) - [Best D&amp;D map makers for dungeons, cities and worlds](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/best-games/best-dnd-map-makers)
 * [2023-03-16, 01:39:37](https://news.ycombinator.com/item?id=35177110) - [How Did Dennis Ritchie Produce His PhD Thesis? [pdf]](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
 * [2023-03-16, 01:11:21](https://news.ycombinator.com/item?id=35176916) - [&#x27;We conclude&#x27; or &#x27;I believe&#x27;? Rationality declined decades ago](https://www.eurekalert.org/news-releases/940009)
+* [2023-03-16, 00:58:13](https://news.ycombinator.com/item?id=35176824) - [E-Paper Wall Paper](https://hackaday.com/2023/03/15/e-paper-wall-paper/)
 * [2023-03-16, 00:57:54](https://news.ycombinator.com/item?id=35176819) - [&#x27;The People&#x27;s Hospital&#x27; treats uninsured and undocumented](https://www.npr.org/sections/health-shots/2023/03/15/1162588784/the-peoples-hospital-ricardo-nuila-treats-mostly-uninsured-undocumented)
 * [2023-03-16, 00:57:50](https://news.ycombinator.com/item?id=35176818) - [Do People Hate the Tech Industry Now?](https://www.kapwing.com/blog/why-does-the-public-hate-the-tech-industry-now/)
 * [2023-03-16, 00:24:32](https://news.ycombinator.com/item?id=35176560) - [Ocean Farming: Seaweed Is Having Its Moment in the Sun](https://www.nytimes.com/interactive/2023/03/15/climate/seaweed-plastic-climate-change.html)
