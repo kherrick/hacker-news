@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 02:40:16](https://news.ycombinator.com/item?id=35215450) - [10 days fasting and calcium&#x2F;vit d supplements increases bone mineral density](https://www.sciencedirect.com/science/article/abs/pii/S875632822100380X)
+* [2023-03-19, 02:10:09](https://news.ycombinator.com/item?id=35215290) - [‘Forever Chemicals’ Deserve Far More EPA Scrutiny](https://www.bloomberg.com/opinion/articles/2023-03-18/pfas-are-everywhere-the-epa-must-be-more-aggressive)
 * [2023-03-19, 01:16:39](https://news.ycombinator.com/item?id=35214966) - [Students of BloomTech, FKA Lambda School, file class-action lawsuit](https://www.businessinsider.com/lambda-school-bloomtech-class-action-lawsuit-2023-3)
 * [2023-03-19, 00:31:59](https://news.ycombinator.com/item?id=35214688) - [Show HN: I want to change how people buy health supplements](https://www.backoflabel.com/)
 * [2023-03-19, 00:02:30](https://news.ycombinator.com/item?id=35214491) - [UK backs Rolls-Royce project to build a nuclear reactor on the moon](https://www.cnbc.com/2023/03/17/uk-backs-rolls-royce-project-to-build-a-nuclear-reactor-on-the-moon.html)
@@ -12,7 +14,6 @@
 * [2023-03-18, 17:29:44](https://news.ycombinator.com/item?id=35211171) - [Real-Time Video Processing with WebCodecs and Streams](https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/)
 * [2023-03-18, 16:53:03](https://news.ycombinator.com/item?id=35210730) - [a[low:high:max] in Golang – A Rare Slice Trick](https://build-your-own.org/blog/20230316_go_full_slice/)
 * [2023-03-18, 16:27:57](https://news.ycombinator.com/item?id=35210421) - [More students are turning away from college and toward apprenticeships](https://www.wsj.com/articles/more-students-are-turning-away-from-college-and-toward-apprenticeships-15f3a05d)
-* [2023-03-18, 15:44:25](https://news.ycombinator.com/item?id=35210015) - [AI fooled voice recognition to verify identity used by Australian tax office](https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai)
 * [2023-03-18, 15:41:06](https://news.ycombinator.com/item?id=35209982) - [Analyzing multi-gigabyte JSON files locally](https://thenybble.de/posts/json-analysis/)
 * [2023-03-18, 15:31:11](https://news.ycombinator.com/item?id=35209878) - [A different approach to fuzzy finding](https://nathancraddock.com/blog/2023/a-different-approach-to-fuzzy-finding/)
 * [2023-03-18, 15:19:54](https://news.ycombinator.com/item?id=35209775) - [Anki-fy your life](https://abouttolearn.substack.com/p/anki-fy-your-life)
@@ -23,7 +24,6 @@
 * [2023-03-18, 11:24:49](https://news.ycombinator.com/item?id=35208113) - [Libgsqlite: A SQLite extension which loads a Google Sheet as a virtual table](https://github.com/0x6b/libgsqlite)
 * [2023-03-18, 06:21:18](https://news.ycombinator.com/item?id=35206642) - [Genode&#x27;s Browser Odyssey (2022)](https://genodians.org/nfeske/2022-01-27-browser-odyssey)
 * [2023-03-18, 00:04:29](https://news.ycombinator.com/item?id=35204554) - [Identifying organic compounds with visible light](https://phys.org/news/2023-03-compounds-visible.html)
-* [2023-03-17, 23:41:27](https://news.ycombinator.com/item?id=35204398) - [Rippling raises $500M in emergency funds after SVB fails](https://www.bloomberg.com/news/articles/2023-03-17/rippling-raises-500-million-in-emergency-funds-after-svb-fails)
 * [2023-03-17, 01:38:20](https://news.ycombinator.com/item?id=35191706) - [Understanding CD-R and CD-RW (2003) [pdf]](http://www.osta.org/technology/pdf/cdr_cdrw.pdf)
 * [2023-03-17, 01:08:19](https://news.ycombinator.com/item?id=35191372) - [Pico_1140: A PDP11&#x2F;40 emulator that will run Unix v5&#x2F;v6 on a Raspberry Pi RP2040](https://github.com/Isysxp/Pico_1140)
 * [2023-03-17, 00:25:55](https://news.ycombinator.com/item?id=35190971) - [The early 90s tech scene that created L0pht, the legendary hackerspace](https://cyberscoop.com/boston-l0pht-hackers-tech-scene/)
