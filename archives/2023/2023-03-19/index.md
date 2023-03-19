@@ -6,8 +6,10 @@
 
 * [2023-03-19, 20:07:20](https://news.ycombinator.com/item?id=35222999) - [Nations reach accord to protect marine life on high seas](https://apnews.com/article/un-oceans-biodiversity-treaty-0b024fa07e8c1947236d8b8491ebf92c)
 * [2023-03-19, 20:06:42](https://news.ycombinator.com/item?id=35222990) - [Bracketed Paste Mode](https://cirw.in/blog/bracketed-paste)
+* [2023-03-19, 19:53:22](https://news.ycombinator.com/item?id=35222865) - [Show HN: Ranking of banks by their likelihood to collapse](https://banksonthebrink.com/)
 * [2023-03-19, 19:50:33](https://news.ycombinator.com/item?id=35222843) - [Fake Samsung 980 Pro SSDs Are Spreading Around](https://www.tomshardware.com/news/fake-samsung-980-pro)
 * [2023-03-19, 19:47:02](https://news.ycombinator.com/item?id=35222801) - [Section 230 Won’t Protect ChatGPT](https://www.lawfareblog.com/section-230-wont-protect-chatgpt)
+* [2023-03-19, 19:38:21](https://news.ycombinator.com/item?id=35222715) - [UBS agrees to buy Credit Suisse in Swiss-assisted bid to calm markets](https://www.reuters.com/business/finance/ubs-take-over-credit-suisse-central-bank-2023-03-19/)
 * [2023-03-19, 19:36:52](https://news.ycombinator.com/item?id=35222691) - [AI could upend the world even more than electricity or the internet](https://techxplore.com/news/2023-03-ai-upend-world-electricity-internet.html)
 * [2023-03-19, 19:33:41](https://news.ycombinator.com/item?id=35222649) - [Jaccard Index](https://en.wikipedia.org/wiki/Jaccard_index)
 * [2023-03-19, 19:24:22](https://news.ycombinator.com/item?id=35222537) - [New Horizons’ Top Pluto Pics (2016)](https://www.nasa.gov/feature/new-horizons-top-10-pluto-pics/)
