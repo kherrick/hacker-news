@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=35216075"
     ],
     [
-      "The Curious Case of a Memory Leak in a Zig Program",
+      "The curious case of a memory leak in a Zig program",
       "https://iamkroot.github.io/blog/zig-memleak"
     ]
   ],
@@ -71,32 +71,22 @@
   ],
   [
     [
-      "2023-03-19, 01:46:02",
-      "https://news.ycombinator.com/item?id=35215149"
-    ],
-    [
-      "We Ditched REST and Went with GraphQL: Here’s Why",
-      "https://medium.com/meteum/we-ditched-rest-and-went-with-graphql-heres-why-57b5bc533fe0"
-    ]
-  ],
-  [
-    [
-      "2023-03-19, 01:39:07",
-      "https://news.ycombinator.com/item?id=35215107"
-    ],
-    [
-      "I played chess against ChatGPT-4 and lost",
-      "https://villekuosmanen.medium.com/i-played-chess-against-chatgpt-4-and-lost-c5798a9049ca"
-    ]
-  ],
-  [
-    [
       "2023-03-19, 00:18:36",
       "https://news.ycombinator.com/item?id=35214608"
     ],
     [
       "Master Emacs in One Year",
       "https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 20:58:32",
+      "https://news.ycombinator.com/item?id=35213039"
+    ],
+    [
+      "How to run a shadow library: operations at Anna’s Archive",
+      "https://annas-blog.org/how-to-run-a-shadow-library.html"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "PLATO: An educational computer system from the 60s shaped the future",
       "https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 11:24:49",
+      "https://news.ycombinator.com/item?id=35208113"
+    ],
+    [
+      "Libgsqlite: A SQLite extension which loads a Google Sheet as a virtual table",
+      "https://github.com/0x6b/libgsqlite"
     ]
   ],
   [
