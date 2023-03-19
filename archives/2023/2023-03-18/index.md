@@ -27,6 +27,7 @@
 * [2023-03-18, 15:41:06](https://news.ycombinator.com/item?id=35209982) - [Analyzing multi-gigabyte JSON files locally](https://thenybble.de/posts/json-analysis/)
 * [2023-03-18, 15:39:05](https://news.ycombinator.com/item?id=35209964) - [A Short History of the VW Mark 1 Rabbit&#x2F;Golf](https://haynes.com/en-us/tips-tutorials/short-history-vw-mark-1-rabbitgolf)
 * [2023-03-18, 15:34:15](https://news.ycombinator.com/item?id=35209911) - [Nuclear power plant leaked 1.5M litres of radioactive water in Minnesota](https://globalnews.ca/news/9559326/nuclear-power-plant-leak-radioactive-water-minnesota/)
+* [2023-03-18, 15:31:11](https://news.ycombinator.com/item?id=35209878) - [A different approach to fuzzy finding](https://nathancraddock.com/blog/2023/a-different-approach-to-fuzzy-finding/)
 * [2023-03-18, 15:19:54](https://news.ycombinator.com/item?id=35209775) - [Anki-Fy Your Life](https://abouttolearn.substack.com/p/anki-fy-your-life)
 * [2023-03-18, 15:03:53](https://news.ycombinator.com/item?id=35209657) - [More than 75 percent decline over 27 years in total flying insect biomass (2017)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809)
 * [2023-03-18, 14:58:14](https://news.ycombinator.com/item?id=35209602) - [Who’s afraid of reverse mereological essentialism?](https://link.springer.com/article/10.1007/s11098-023-01935-5)
