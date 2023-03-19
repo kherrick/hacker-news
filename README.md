@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Greening the desert: the architect regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
+* [2023-03-19, 08:02:37](https://news.ycombinator.com/item?id=35216973) - [Do I Need to Avoid Dark Chocolate Now?](https://www.nytimes.com/2023/02/09/well/eat/dark-chocolate-metal-lead.html)
 * [2023-03-19, 07:42:24](https://news.ycombinator.com/item?id=35216894) - [John Carmack: From a DM, just in case anyone else needs to hear this](https://twitter.com/ID_AA_Carmack/status/1637087219591659520)
 * [2023-03-19, 07:01:24](https://news.ycombinator.com/item?id=35216716) - [GQ.fyi is hiring Rails engineers to build the AI for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
 * [2023-03-19, 04:34:31](https://news.ycombinator.com/item?id=35216075) - [The curious case of a memory leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
@@ -8,10 +10,8 @@
 * [2023-03-19, 02:49:10](https://news.ycombinator.com/item?id=35215494) - [Design of GNU Parallel (2015)](https://www.gnu.org/software/parallel/parallel_design.html)
 * [2023-03-19, 02:37:51](https://news.ycombinator.com/item?id=35215437) - [Learning BASIC Like It&#x27;s 1983 (2018)](https://twobithistory.org/2018/09/02/learning-basic.html)
 * [2023-03-19, 01:39:07](https://news.ycombinator.com/item?id=35215107) - [I played chess against ChatGPT-4 and lost](https://villekuosmanen.medium.com/i-played-chess-against-chatgpt-4-and-lost-c5798a9049ca)
-* [2023-03-19, 01:16:39](https://news.ycombinator.com/item?id=35214966) - [Students of BloomTech, FKA Lambda School, file class-action lawsuit](https://www.businessinsider.com/lambda-school-bloomtech-class-action-lawsuit-2023-3)
 * [2023-03-19, 00:18:36](https://news.ycombinator.com/item?id=35214608) - [Master Emacs in one year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org)
 * [2023-03-18, 20:58:32](https://news.ycombinator.com/item?id=35213039) - [How to run a shadow library: operations at Anna’s Archive](https://annas-blog.org/how-to-run-a-shadow-library.html)
-* [2023-03-18, 20:11:01](https://news.ycombinator.com/item?id=35212660) - [Build Your Own Redis with C&#x2F;C++](https://build-your-own.org/redis/)
 * [2023-03-18, 18:04:14](https://news.ycombinator.com/item?id=35211530) - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
 * [2023-03-18, 18:03:57](https://news.ycombinator.com/item?id=35211524) - [Show HN: Easy-to-use licensing library for .NET apps](https://github.com/SNBSLibs/Licensing.ActivationKeys)
 * [2023-03-18, 17:29:44](https://news.ycombinator.com/item?id=35211171) - [Real-Time Video Processing with WebCodecs and Streams](https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/)
