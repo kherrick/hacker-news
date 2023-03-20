@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 15:57:45](https://news.ycombinator.com/item?id=35233500) - [Supreme Court Asked to Strike Down Immunity for Police Who Brutally Beat Student](https://ij.org/press-release/supreme-court-asked-to-strike-down-immunity-for-police-task-force-officers-who-brutally-beat-innocent-college-student/)
+* [2023-03-20, 15:56:39](https://news.ycombinator.com/item?id=35233484) - [JEP 442: Foreign Function and Memory API (Third Preview)](https://github.com/minborg/articles/tree/jep442/2023/March/22-jep442-FFM-Third-Preview)
+* [2023-03-20, 15:53:02](https://news.ycombinator.com/item?id=35233429) - [TypeScript cannot emit valid ES modules due to file extension issue (2020)](https://github.com/microsoft/TypeScript/issues/42151)
+* [2023-03-20, 15:28:11](https://news.ycombinator.com/item?id=35232975) - [Nearly Half of Firms Are Drafting Policies on ChatGPT Use](https://www.bloomberg.com/news/articles/2023-03-20/using-chatgpt-at-work-nearly-half-of-firms-are-drafting-policies-on-its-use)
 * [2023-03-20, 14:40:59](https://news.ycombinator.com/item?id=35232178) - [Amazon Cutting Another 9k Jobs](https://slashdot.org/story/23/03/20/1440238/amazon-cutting-another-9000-jobs)
 * [2023-03-20, 14:40:35](https://news.ycombinator.com/item?id=35232171) - [Launch HN: Lume (YC W23) – Generate custom data integrations with AI](https://news.ycombinator.com/item?id=35232171)
 * [2023-03-20, 14:39:22](https://news.ycombinator.com/item?id=35232158) - [Acer (yes, the computer company) is building a fancy electric bike with AI](https://electrek.co/2023/03/20/acer-ebii-electric-bike-ai/)
 * [2023-03-20, 14:39:08](https://news.ycombinator.com/item?id=35232150) - [Amazon to lay off 9,000 more workers after earlier cuts](https://www.cnbc.com/2023/03/20/amazon-layoffs-company-to-cut-off-9000-more-workers.html)
+* [2023-03-20, 14:39:05](https://news.ycombinator.com/item?id=35232148) - [Amazon to eliminate 9,000 more positions in the next few weeks](https://www.aboutamazon.com/news/company-news/update-from-ceo-andy-jassy-on-amazons-operating-plan-and-additional-role-eliminations)
 * [2023-03-20, 14:33:04](https://news.ycombinator.com/item?id=35232047) - [That Plum Job Listing May Just Be a Ghost](https://www.wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794)
 * [2023-03-20, 14:28:20](https://news.ycombinator.com/item?id=35231980) - [Gitea 1.19](https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/)
 * [2023-03-20, 14:21:31](https://news.ycombinator.com/item?id=35231885) - [Office kitchen wars are back.](https://slate.com/human-interest/2023/03/office-drama-workplace-advice-kitchen-food-cleaning-fridge.html)
