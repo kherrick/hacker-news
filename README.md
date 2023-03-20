@@ -15,7 +15,6 @@
 * [2023-03-19, 23:02:20](https://news.ycombinator.com/item?id=35224666) - [Anti-recruiter prompt injection attack in LinkedIn profile](https://twitter.com/brdskggs/status/1637114268876144640)
 * [2023-03-19, 22:37:43](https://news.ycombinator.com/item?id=35224439) - [BNF Was Here: What Have We Done About the Unnecessary Notation Diversity (2011) [pdf]](https://www.grammarware.net/text/2012/bnf-was-here.pdf)
 * [2023-03-19, 22:12:27](https://news.ycombinator.com/item?id=35224219) - [Glaze (Poisoning AI Artists)](https://glaze.cs.uchicago.edu/)
-* [2023-03-19, 22:04:46](https://news.ycombinator.com/item?id=35224167) - [Epic Games, others accuse Sundar Pichai of violating retention obligations](http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html)
 * [2023-03-19, 21:18:49](https://news.ycombinator.com/item?id=35223759) - [Show HN: Chatblade – A CLI Swiss Army Knife for ChatGPT](https://github.com/npiv/chatblade)
 * [2023-03-19, 21:10:58](https://news.ycombinator.com/item?id=35223690) - [Data from Atlassian dumped online after apparent hack](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
 * [2023-03-19, 20:32:18](https://news.ycombinator.com/item?id=35223240) - [Qualcomm has open sourced its aptX and aptX HD encoders](https://old.reddit.com/r/Android/comments/11t16lk/qualcomm_has_open_sourced_its_aptx_and_aptx_hd/)
@@ -30,6 +29,7 @@
 * [2023-03-19, 16:06:08](https://news.ycombinator.com/item?id=35220345) - [Learning the ropes: why Germany is building risk into its playgrounds (2021)](https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds)
 * [2023-03-19, 15:16:59](https://news.ycombinator.com/item?id=35219812) - [People had to be convinced of the usefulness of electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
 * [2023-03-19, 14:29:52](https://news.ycombinator.com/item?id=35219281) - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
+* [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
 
 ## [Archives](archives/index.md)
 
