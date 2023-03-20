@@ -9,12 +9,12 @@
 * [2023-03-20, 01:13:26](https://news.ycombinator.com/item?id=35225946) - [Twenty-five years of curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
 * [2023-03-20, 00:11:26](https://news.ycombinator.com/item?id=35225319) - [Oakland&#x27;s non-profit video game museum is back, and thriving](https://sfstandard.com/arts-culture/fly-spaceships-battle-aliens-and-drive-a-crazy-taxi-at-this-oakland-museum/)
 * [2023-03-19, 23:56:13](https://news.ycombinator.com/item?id=35225181) - [Pentagon study reveals higher cancer rates for military pilots, ground crews](https://www.axios.com/2023/03/19/pentagon-study-higher-cancer-rates-military-pilots-ground-crews)
-* [2023-03-19, 23:52:48](https://news.ycombinator.com/item?id=35225146) - [Federal Reserve lent $300B in emergency funds to banks in the past week](https://www.pbs.org/newshour/economy/federal-reserve-lent-300-billion-in-emergency-funds-to-banks-in-the-past-week)
 * [2023-03-19, 23:46:50](https://news.ycombinator.com/item?id=35225097) - [Gallery of Minimal Design Websites](https://minimal.gallery/)
 * [2023-03-19, 23:37:44](https://news.ycombinator.com/item?id=35224999) - [Banshees of Inisherin: The Game](https://bansheesthegame.com/)
 * [2023-03-19, 23:11:58](https://news.ycombinator.com/item?id=35224772) - [Black widows are losing to brown widows in the fight for attics and garages](https://www.nytimes.com/2023/03/13/science/brown-widows-black-widows.html)
 * [2023-03-19, 23:02:20](https://news.ycombinator.com/item?id=35224666) - [Anti-recruiter prompt injection attack in LinkedIn profile](https://twitter.com/brdskggs/status/1637114268876144640)
 * [2023-03-19, 22:37:43](https://news.ycombinator.com/item?id=35224439) - [BNF was here: What have we done about unnecessary notation diversity (2011) [pdf]](https://www.grammarware.net/text/2012/bnf-was-here.pdf)
+* [2023-03-19, 22:28:18](https://news.ycombinator.com/item?id=35224356) - [Mastodon hit 10M users](https://mastodon.social/@mastodonusercount/110051957865629817)
 * [2023-03-19, 22:12:27](https://news.ycombinator.com/item?id=35224219) - [Glaze: Protecting artists from style mimicry](https://glaze.cs.uchicago.edu/)
 * [2023-03-19, 21:18:49](https://news.ycombinator.com/item?id=35223759) - [Show HN: Chatblade – A CLI Swiss Army Knife for ChatGPT](https://github.com/npiv/chatblade)
 * [2023-03-19, 21:10:58](https://news.ycombinator.com/item?id=35223690) - [Data from Atlassian dumped online after apparent hack](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
@@ -29,7 +29,7 @@
 * [2023-03-19, 16:06:08](https://news.ycombinator.com/item?id=35220345) - [Learning the ropes: why Germany is building risk into its playgrounds (2021)](https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds)
 * [2023-03-19, 15:16:59](https://news.ycombinator.com/item?id=35219812) - [People had to be convinced of the usefulness of electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
 * [2023-03-19, 14:29:52](https://news.ycombinator.com/item?id=35219281) - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
-* [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
+* [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Ken Thompson&#x27;s 75 year project: A century of popular music in a jukebox [video]](https://www.youtube.com/watch?v=kaandEt_pKw)
 
 ## [Archives](archives/index.md)
 
