@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
 * [2023-03-20, 22:55:40](https://news.ycombinator.com/item?id=35240029) - [In-Flight Entertainment Challenge](https://blog.mand3l.com/post/712193955168731136/the-inflight-entertainment-challenge)
+* [2023-03-20, 22:52:11](https://news.ycombinator.com/item?id=35239993) - [How An Electrical Engineer Solved Australia’s Most Famous Cold Case](https://spectrum.ieee.org/somerton-man)
 * [2023-03-20, 22:51:52](https://news.ycombinator.com/item?id=35239990) - [It Turns Out That JPMorgan Bought the Nickel That Turned Out to Be Stones](https://www.wsj.com/livecoverage/stock-market-news-today-03-20-2023/card/it-turns-out-that-jpmorgan-bought-the-nickel-that-turned-out-to-be-stones-whWn9TqZaksdTPcGyyAi)
 * [2023-03-20, 22:50:03](https://news.ycombinator.com/item?id=35239972) - [Run 100B+ language models at home, BitTorrent‑style](https://petals.ml/)
 * [2023-03-20, 22:45:28](https://news.ycombinator.com/item?id=35239920) - [Pimoroni introduces Inky Frame with seven-color 4-inch E Ink display](https://goodereader.com/blog/technology/pimoroni-introduces-inky-frame-with-seven-color-4-inch-e-ink-display-for-71)
