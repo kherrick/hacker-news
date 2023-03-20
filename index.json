@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-03-20, 21:12:42",
+      "https://news.ycombinator.com/item?id=35238822"
+    ],
+    [
+      "Building ClickHouse Cloud from Scratch in a Year",
+      "https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year"
+    ]
+  ],
+  [
+    [
       "2023-03-20, 21:00:05",
       "https://news.ycombinator.com/item?id=35238616"
     ],
@@ -287,16 +297,6 @@
     [
       "Ask HN: Where can I find a primer on how computers boot?",
       "https://news.ycombinator.com/item?id=35229045"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 05:27:07",
-      "https://news.ycombinator.com/item?id=35227635"
-    ],
-    [
-      "TinyVG – an alternative binary encoded vector graphics format",
-      "https://tinyvg.tech/"
     ]
   ]
 ]
