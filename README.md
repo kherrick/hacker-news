@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-20, 22:55:40](https://news.ycombinator.com/item?id=35240029) - [In-Flight Entertainment Challenge](https://blog.mand3l.com/post/712193955168731136/the-inflight-entertainment-challenge)
 * [2023-03-20, 22:51:52](https://news.ycombinator.com/item?id=35239990) - [It Turns Out That JPMorgan Bought the Nickel That Turned Out to Be Stones](https://www.wsj.com/livecoverage/stock-market-news-today-03-20-2023/card/it-turns-out-that-jpmorgan-bought-the-nickel-that-turned-out-to-be-stones-whWn9TqZaksdTPcGyyAi)
 * [2023-03-20, 22:50:03](https://news.ycombinator.com/item?id=35239972) - [Run 100B+ language models at home, BitTorrent‑style](https://petals.ml/)
+* [2023-03-20, 22:45:28](https://news.ycombinator.com/item?id=35239920) - [Pimoroni introduces Inky Frame with seven-color 4-inch E Ink display](https://goodereader.com/blog/technology/pimoroni-introduces-inky-frame-with-seven-color-4-inch-e-ink-display-for-71)
 * [2023-03-20, 22:29:50](https://news.ycombinator.com/item?id=35239746) - [Credit Suisse’s takeover causes turmoil in a $275B bond market](https://www.economist.com/finance-and-economics/2023/03/20/credit-suisses-takeover-causes-turmoil-in-a-275bn-bond-market)
 * [2023-03-20, 22:22:51](https://news.ycombinator.com/item?id=35239655) - [Baidu Ernie writes poems, says it has insufficient information on Xi, tests show](https://www.reuters.com/technology/baidus-ernie-writes-poems-says-it-has-insufficient-information-xi-tests-show-2023-03-20/)
 * [2023-03-20, 22:18:48](https://news.ycombinator.com/item?id=35239607) - [Twitch.tv Lays of 400 Employees](https://blog.twitch.tv/en/2023/03/20/an-update-about-our-workforce/)
@@ -27,9 +29,7 @@
 * [2023-03-20, 14:31:44](https://news.ycombinator.com/item?id=35232029) - [Show HN: Open-source cypress for back end testing](https://github.com/traceloop/jest-opentelemetry)
 * [2023-03-20, 13:35:21](https://news.ycombinator.com/item?id=35231276) - [When can two TCP sockets share a local address?](https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/)
 * [2023-03-20, 13:22:50](https://news.ycombinator.com/item?id=35231111) - [Cyclists now outnumber motorists in City of London](https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/)
-* [2023-03-20, 12:53:22](https://news.ycombinator.com/item?id=35230766) - [Argbash – Bash Argument Parsing Code Generator](https://argbash.dev)
 * [2023-03-20, 09:54:17](https://news.ycombinator.com/item?id=35229331) - [Cesium-137 missing and found in junk yard in Thailand](https://www.nationthailand.com/thailand/general/40025846)
-* [2023-03-20, 09:15:18](https://news.ycombinator.com/item?id=35229045) - [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)
 
 ## [Archives](archives/index.md)
 
