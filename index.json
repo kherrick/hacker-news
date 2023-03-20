@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-03-20, 21:32:28",
+      "https://news.ycombinator.com/item?id=35239080"
+    ],
+    [
+      "The Crime of Email at Bowling Green State University",
+      "https://academeblog.org/2023/03/20/the-crime-of-email-at-bowling-green-state-university/"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 21:31:54",
+      "https://news.ycombinator.com/item?id=35239070"
+    ],
+    [
+      "Ars: “Book publishers with surging profits struggle to prove IA hurt sales”",
+      "https://arstechnica.com/tech-policy/2023/03/book-publishers-with-surging-profits-struggle-to-prove-internet-archive-hurt-sales/"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 21:20:19",
+      "https://news.ycombinator.com/item?id=35238937"
+    ],
+    [
+      "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "https://react-lm.github.io"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 21:16:57",
+      "https://news.ycombinator.com/item?id=35238888"
+    ],
+    [
+      "MIT’s Barry Duncan demonstrates the power of writing in reverse",
+      "https://news.mit.edu/2023/barry-duncan-palindromes-writing-reverse-0320"
+    ]
+  ],
+  [
+    [
       "2023-03-20, 21:16:13",
       "https://news.ycombinator.com/item?id=35238878"
     ],
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2023-03-20, 18:38:40",
-      "https://news.ycombinator.com/item?id=35236467"
-    ],
-    [
-      "ChatGPT is down",
-      "https://status.openai.com/incidents/jq9232rcmktd"
-    ]
-  ],
-  [
-    [
       "2023-03-20, 18:27:32",
       "https://news.ycombinator.com/item?id=35236275"
     ],
@@ -137,16 +167,6 @@
     [
       "Tell HN: MailChimp blacklists your IP if you open the browser&#x27;s dev tools",
       "https://news.ycombinator.com/item?id=35235732"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 17:50:32",
-      "https://news.ycombinator.com/item?id=35235616"
-    ],
-    [
-      "Garmi, a robot nurse and companion for Germany’s elderly population",
-      "https://www.popsci.com/technology/garmi-germany-elderly-robot/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-03-20, 08:52:46",
-      "https://news.ycombinator.com/item?id=35228884"
-    ],
-    [
-      "Command Line One-Liners",
-      "https://www.commandlinefu.com/commands/browse"
-    ]
-  ],
-  [
-    [
       "2023-03-20, 05:27:07",
       "https://news.ycombinator.com/item?id=35227635"
     ],
     [
       "TinyVG – an alternative binary encoded vector graphics format",
       "https://tinyvg.tech/"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 05:21:04",
-      "https://news.ycombinator.com/item?id=35227600"
-    ],
-    [
-      "Previous: A NeXT Computer Emulator",
-      "https://previous.unixdude.net/"
     ]
   ]
 ]
