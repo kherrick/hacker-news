@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-20, 13:35:21",
+      "https://news.ycombinator.com/item?id=35231276"
+    ],
+    [
+      "The quantum state of a TCP port",
+      "https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/"
+    ]
+  ],
+  [
+    [
       "2023-03-20, 13:22:50",
       "https://news.ycombinator.com/item?id=35231111"
     ],
@@ -37,6 +47,16 @@
     [
       "BuildZoom (YC W13) is hiring a growth associate",
       "https://jobs.lever.co/buildzoom"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 10:35:33",
+      "https://news.ycombinator.com/item?id=35229631"
+    ],
+    [
+      "Windows Critical ICMP Remote Code Execution Vulnerability",
+      "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23415"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-03-20, 07:09:13",
-      "https://news.ycombinator.com/item?id=35228219"
-    ],
-    [
-      "Reassessing relative temporal lobe size in anthropoids and modern humans",
-      "https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24712"
-    ]
-  ],
-  [
-    [
       "2023-03-20, 05:27:07",
       "https://news.ycombinator.com/item?id=35227635"
     ],
@@ -107,6 +117,16 @@
     [
       "Previous: A NeXT Computer Emulator",
       "https://previous.unixdude.net/"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 05:15:20",
+      "https://news.ycombinator.com/item?id=35227564"
+    ],
+    [
+      "Pacific Pinball Museum in Alameda, CA",
+      "https://www.pacificpinball.org"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-03-19, 22:28:18",
-      "https://news.ycombinator.com/item?id=35224356"
-    ],
-    [
-      "Mastodon hit 10M users",
-      "https://mastodon.social/@mastodonusercount/110051957865629817"
-    ]
-  ],
-  [
-    [
       "2023-03-19, 21:18:49",
       "https://news.ycombinator.com/item?id=35223759"
     ],
@@ -287,16 +297,6 @@
     [
       "Ken Thompson&#x27;s 75 year project: A century of popular music in a jukebox [video]",
       "https://www.youtube.com/watch?v=kaandEt_pKw"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 11:52:28",
-      "https://news.ycombinator.com/item?id=35208286"
-    ],
-    [
-      "PLATO: An educational computer system from the 60s shaped the future",
-      "https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/"
     ]
   ]
 ]
