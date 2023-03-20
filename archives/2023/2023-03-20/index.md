@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
 * [2023-03-20, 17:00:39](https://news.ycombinator.com/item?id=35234708) - [Ivy (YC W23) is hiring engineers to unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+* [2023-03-20, 16:49:00](https://news.ycombinator.com/item?id=35234475) - [In which Balaji gives away at least a million dollars](https://noahpinion.substack.com/p/in-which-balaji-gives-away-at-least)
 * [2023-03-20, 16:33:10](https://news.ycombinator.com/item?id=35234152) - [Amazon to layoff 9k more employees, including from AWS](https://www.bloomberg.com/news/articles/2023-03-20/amazon-is-laying-off-an-additional-9-000-employees)
 * [2023-03-20, 16:10:33](https://news.ycombinator.com/item?id=35233725) - [Lessons from a Pessimist: Make Your Pessimism Productive](https://lucumr.pocoo.org/2023/3/20/lessons-from-a-pessimist/)
 * [2023-03-20, 16:06:19](https://news.ycombinator.com/item?id=35233650) - [OpenAI CEO warns that GPT-4 could be misused for nefarious purposes](https://www.theregister.com/2023/03/20/openai_warns_that_gpt4_could/)
