@@ -6,7 +6,6 @@
 * [2023-03-20, 07:54:49](https://news.ycombinator.com/item?id=35228516) - [Curl 8.0.0](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
 * [2023-03-20, 07:09:13](https://news.ycombinator.com/item?id=35228219) - [Newer data once again shows: the human brain is just a scaled up primate brain](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24712)
 * [2023-03-20, 06:24:02](https://news.ycombinator.com/item?id=35227962) - [Dietary sweetener sucralose is a negative modulator of T cell-mediated responses](https://www.nature.com/articles/s41586-023-05801-6)
-* [2023-03-20, 06:03:47](https://news.ycombinator.com/item?id=35227834) - [Rust Support Is Being Built into the GNU GCC Compiler](https://thenewstack.io/rust-support-is-being-built-into-the-gnu-gcc-compiler/)
 * [2023-03-20, 05:27:07](https://news.ycombinator.com/item?id=35227635) - [TinyVG – an alternative binary encoded vector graphics format](https://tinyvg.tech/)
 * [2023-03-20, 05:21:04](https://news.ycombinator.com/item?id=35227600) - [Previous: A NeXT Computer Emulator](https://previous.unixdude.net/)
 * [2023-03-20, 03:24:59](https://news.ycombinator.com/item?id=35226887) - [Ask HN: Why do many CS graduates lack foundational knowledge?](https://news.ycombinator.com/item?id=35226887)
@@ -30,6 +29,7 @@
 * [2023-03-19, 16:57:25](https://news.ycombinator.com/item?id=35220991) - [Plane Lands&#x2F;Takes Off in Only 20 Feet (2013)](https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet)
 * [2023-03-19, 14:29:52](https://news.ycombinator.com/item?id=35219281) - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Ken Thompson&#x27;s 75 year project: A century of popular music in a jukebox [video]](https://www.youtube.com/watch?v=kaandEt_pKw)
+* [2023-03-18, 11:52:28](https://news.ycombinator.com/item?id=35208286) - [PLATO: An educational computer system from the 60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 
 ## [Archives](archives/index.md)
 
