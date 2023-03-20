@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 20:04:31](https://news.ycombinator.com/item?id=35237787) - [Doors I touched today (1999)](https://fluxus.org/FluxusMidwest/doorknobs/)
+* [2023-03-20, 19:51:54](https://news.ycombinator.com/item?id=35237609) - [The Move to Memory-Safe Programming](https://spectrum.ieee.org/memory-safe-programming-languages)
 * [2023-03-20, 19:32:57](https://news.ycombinator.com/item?id=35237332) - [Men paying to have their jaws broken in the name of ‘manliness’](https://www.gq-magazine.co.uk/lifestyle/article/jaw-surgery-men)
+* [2023-03-20, 19:28:23](https://news.ycombinator.com/item?id=35237269) - [Spack – scientific software package manager for supercomputers, Linux, and macOS](https://spack.io/)
+* [2023-03-20, 19:27:04](https://news.ycombinator.com/item?id=35237253) - [Show HN: Great Books Homeschool beta program](https://www.greatbookshomeschool.com)
 * [2023-03-20, 18:38:40](https://news.ycombinator.com/item?id=35236467) - [ChatGPT Is Down](https://status.openai.com/incidents/jq9232rcmktd)
 * [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
 * [2023-03-20, 18:27:22](https://news.ycombinator.com/item?id=35236272) - [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
