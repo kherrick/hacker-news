@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-20, 22:18:48](https://news.ycombinator.com/item?id=35239607) - [Twitch.tv Lays of 400 Employees](https://blog.twitch.tv/en/2023/03/20/an-update-about-our-workforce/)
 * [2023-03-20, 22:01:42](https://news.ycombinator.com/item?id=35239397) - [South Korea has the lowest fertility rate, with lessons for us all](https://www.npr.org/2023/03/19/1163341684/south-korea-fertility-rate)
 * [2023-03-20, 21:31:54](https://news.ycombinator.com/item?id=35239070) - [Ars: “Book publishers with surging profits struggle to prove IA hurt sales”](https://arstechnica.com/tech-policy/2023/03/book-publishers-with-surging-profits-struggle-to-prove-internet-archive-hurt-sales/)
 * [2023-03-20, 21:20:19](https://news.ycombinator.com/item?id=35238937) - [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io)
@@ -29,7 +30,6 @@
 * [2023-03-20, 11:17:24](https://news.ycombinator.com/item?id=35229945) - [The British computer magazine cover tape](https://commodoreformatarchive.com/games-of-the-90s-the-covertapes/)
 * [2023-03-20, 09:54:17](https://news.ycombinator.com/item?id=35229331) - [Cesium-137 missing and found in junk yard in Thailand](https://www.nationthailand.com/thailand/general/40025846)
 * [2023-03-20, 09:15:18](https://news.ycombinator.com/item?id=35229045) - [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)
-* [2023-03-20, 05:27:07](https://news.ycombinator.com/item?id=35227635) - [TinyVG – an alternative binary encoded vector graphics format](https://tinyvg.tech/)
 
 ## [Archives](archives/index.md)
 
