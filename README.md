@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-20, 23:36:30](https://news.ycombinator.com/item?id=35240437) - [Days since last JavaScript framework](https://dayssincelastjavascriptframework.com/)
 * [2023-03-20, 22:55:40](https://news.ycombinator.com/item?id=35240029) - [In-Flight Entertainment Challenge](https://blog.mand3l.com/post/712193955168731136/the-inflight-entertainment-challenge)
 * [2023-03-20, 22:52:11](https://news.ycombinator.com/item?id=35239993) - [How An Electrical Engineer Solved Australia’s Most Famous Cold Case](https://spectrum.ieee.org/somerton-man)
 * [2023-03-20, 22:51:52](https://news.ycombinator.com/item?id=35239990) - [It Turns Out That JPMorgan Bought the Nickel That Turned Out to Be Stones](https://www.wsj.com/livecoverage/stock-market-news-today-03-20-2023/card/it-turns-out-that-jpmorgan-bought-the-nickel-that-turned-out-to-be-stones-whWn9TqZaksdTPcGyyAi)
@@ -12,7 +13,6 @@
 * [2023-03-20, 21:20:19](https://news.ycombinator.com/item?id=35238937) - [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io)
 * [2023-03-20, 21:18:17](https://news.ycombinator.com/item?id=35238906) - [macOS Cursors](https://mac-cursors.netlify.app)
 * [2023-03-20, 21:16:57](https://news.ycombinator.com/item?id=35238888) - [MIT’s Barry Duncan demonstrates the power of writing in reverse](https://news.mit.edu/2023/barry-duncan-palindromes-writing-reverse-0320)
-* [2023-03-20, 21:16:13](https://news.ycombinator.com/item?id=35238878) - [Why northern Europe is so indebted (2021)](https://theloop.ecpr.eu/why-northern-europe-is-so-indebted/)
 * [2023-03-20, 21:12:42](https://news.ycombinator.com/item?id=35238822) - [Building ClickHouse Cloud from scratch in a year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year)
 * [2023-03-20, 21:00:05](https://news.ycombinator.com/item?id=35238616) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-03-20, 20:05:08](https://news.ycombinator.com/item?id=35237799) - [Chronology Clock](https://chronologyclock.com/)
