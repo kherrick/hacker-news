@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-20, 09:39:46](https://news.ycombinator.com/item?id=35229222) - [Flow-Based Programming, a way for AI and humans to develop together](https://bergie.iki.fi/blog/fbp-ai-human-collaboration/)
-* [2023-03-20, 09:20:47](https://news.ycombinator.com/item?id=35229080) - [ChatGPT is Down](https://status.openai.com/incidents/y6cdztrnth60)
+* [2023-03-20, 09:15:18](https://news.ycombinator.com/item?id=35229045) - [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)
 * [2023-03-20, 07:54:49](https://news.ycombinator.com/item?id=35228516) - [Curl 8.0.0](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
 * [2023-03-20, 07:09:13](https://news.ycombinator.com/item?id=35228219) - [Newer data once again shows: the human brain is just a scaled up primate brain](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24712)
 * [2023-03-20, 06:24:02](https://news.ycombinator.com/item?id=35227962) - [Dietary sweetener sucralose is a negative modulator of T cell-mediated responses](https://www.nature.com/articles/s41586-023-05801-6)
