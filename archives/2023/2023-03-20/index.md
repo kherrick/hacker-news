@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 22:22:51](https://news.ycombinator.com/item?id=35239655) - [Baidu Ernie writes poems, says it has insufficient information on Xi, tests show](https://www.reuters.com/technology/baidus-ernie-writes-poems-says-it-has-insufficient-information-xi-tests-show-2023-03-20/)
 * [2023-03-20, 22:18:48](https://news.ycombinator.com/item?id=35239607) - [Twitch.tv Lays of 400 Employees](https://blog.twitch.tv/en/2023/03/20/an-update-about-our-workforce/)
 * [2023-03-20, 22:01:42](https://news.ycombinator.com/item?id=35239397) - [South Korea has the lowest fertility rate, with lessons for us all](https://www.npr.org/2023/03/19/1163341684/south-korea-fertility-rate)
 * [2023-03-20, 21:32:28](https://news.ycombinator.com/item?id=35239080) - [The Crime of Email at Bowling Green State University](https://academeblog.org/2023/03/20/the-crime-of-email-at-bowling-green-state-university/)
@@ -61,6 +62,7 @@
 * [2023-03-20, 14:39:08](https://news.ycombinator.com/item?id=35232150) - [Amazon to lay off 9,000 more workers after earlier cuts](https://www.cnbc.com/2023/03/20/amazon-layoffs-company-to-cut-off-9000-more-workers.html)
 * [2023-03-20, 14:39:05](https://news.ycombinator.com/item?id=35232148) - [Amazon to eliminate 9,000 more positions in the next few weeks](https://www.aboutamazon.com/news/company-news/update-from-ceo-andy-jassy-on-amazons-operating-plan-and-additional-role-eliminations)
 * [2023-03-20, 14:33:04](https://news.ycombinator.com/item?id=35232047) - [That Plum Job Listing May Just Be a Ghost](https://www.wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794)
+* [2023-03-20, 14:31:44](https://news.ycombinator.com/item?id=35232029) - [Show HN: Open-source cypress for back end testing](https://github.com/traceloop/jest-opentelemetry)
 * [2023-03-20, 14:28:20](https://news.ycombinator.com/item?id=35231980) - [Gitea 1.19](https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/)
 * [2023-03-20, 14:21:31](https://news.ycombinator.com/item?id=35231885) - [Office kitchen wars are back.](https://slate.com/human-interest/2023/03/office-drama-workplace-advice-kitchen-food-cleaning-fridge.html)
 * [2023-03-20, 14:19:09](https://news.ycombinator.com/item?id=35231849) - [GCHQ cracks Frank Sidebottom&#x27;s codes (2019)](https://www.bbc.co.uk/news/entertainment-arts-47907370)
