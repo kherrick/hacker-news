@@ -11,6 +11,7 @@
 * [2023-03-20, 14:33:04](https://news.ycombinator.com/item?id=35232047) - [That Plum Job Listing May Just Be a Ghost](https://www.wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794)
 * [2023-03-20, 14:28:20](https://news.ycombinator.com/item?id=35231980) - [Gitea 1.19](https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/)
 * [2023-03-20, 14:21:31](https://news.ycombinator.com/item?id=35231885) - [Office kitchen wars are back.](https://slate.com/human-interest/2023/03/office-drama-workplace-advice-kitchen-food-cleaning-fridge.html)
+* [2023-03-20, 14:19:09](https://news.ycombinator.com/item?id=35231849) - [GCHQ cracks Frank Sidebottom&#x27;s codes (2019)](https://www.bbc.co.uk/news/entertainment-arts-47907370)
 * [2023-03-20, 13:58:12](https://news.ycombinator.com/item?id=35231561) - [LLaMA 7B (Alpaca) running on Google Pixel 7 Pro](https://twitter.com/rupeshsreeraman/status/1637124688290742276)
 * [2023-03-20, 13:35:21](https://news.ycombinator.com/item?id=35231276) - [The quantum state of a TCP port](https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/)
 * [2023-03-20, 13:25:52](https://news.ycombinator.com/item?id=35231159) - [Who is still inside the metaverse?](https://nymag.com/intelligencer/article/mark-zuckerberg-metaverse-meta-horizon-worlds.html)
