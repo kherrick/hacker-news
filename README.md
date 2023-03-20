@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-20, 01:13:26](https://news.ycombinator.com/item?id=35225946) - [Twenty-Five Years of Curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
+* [2023-03-20, 00:23:34](https://news.ycombinator.com/item?id=35225429) - [Bitcoin hits $28k as uncertainty surrounds banks](https://cointelegraph.com/news/bitcoin-hits-28k-as-uncertainty-surrounds-banks)
 * [2023-03-20, 00:11:26](https://news.ycombinator.com/item?id=35225319) - [Oakland&#x27;s Non-Profit Video Game Museum Is Back, and Thriving](https://sfstandard.com/arts-culture/fly-spaceships-battle-aliens-and-drive-a-crazy-taxi-at-this-oakland-museum/)
 * [2023-03-20, 00:01:12](https://news.ycombinator.com/item?id=35225227) - [Blockbuster Video&#x27;s Website Is Suddenly Active Again](https://comicbook.com/movies/news/blockbuster-videos-website-is-suddenly-active-again/)
 * [2023-03-19, 23:56:13](https://news.ycombinator.com/item?id=35225181) - [Pentagon study reveals higher cancer rates for military pilots, ground crews](https://www.axios.com/2023/03/19/pentagon-study-higher-cancer-rates-military-pilots-ground-crews)
@@ -29,7 +30,6 @@
 * [2023-03-19, 15:16:59](https://news.ycombinator.com/item?id=35219812) - [People had to be convinced of the usefulness of electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
 * [2023-03-19, 14:29:52](https://news.ycombinator.com/item?id=35219281) - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Ken Thompson&#x27;s keynote talk about a jukebox he built [video]](https://www.youtube.com/watch?v=kaandEt_pKw)
-* [2023-03-19, 11:13:41](https://news.ycombinator.com/item?id=35217860) - [Show HN: Yaksha Programming Language](https://yakshalang.github.io/)
 
 ## [Archives](archives/index.md)
 
