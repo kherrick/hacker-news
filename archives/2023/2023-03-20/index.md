@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 16:33:10](https://news.ycombinator.com/item?id=35234152) - [Amazon to layoff 9k more employees, including from AWS](https://www.bloomberg.com/news/articles/2023-03-20/amazon-is-laying-off-an-additional-9-000-employees)
 * [2023-03-20, 16:10:33](https://news.ycombinator.com/item?id=35233725) - [Lessons from a Pessimist: Make Your Pessimism Productive](https://lucumr.pocoo.org/2023/3/20/lessons-from-a-pessimist/)
 * [2023-03-20, 16:06:19](https://news.ycombinator.com/item?id=35233650) - [OpenAI CEO warns that GPT-4 could be misused for nefarious purposes](https://www.theregister.com/2023/03/20/openai_warns_that_gpt4_could/)
+* [2023-03-20, 15:59:59](https://news.ycombinator.com/item?id=35233534) - [ChatGPT is rendering other people&#x27;s chat history in the sidebar](https://old.reddit.com/r/ChatGPT/comments/11wkw5z/has_chatgpt_or_me_been_hacked_ive_never_had_these/)
 * [2023-03-20, 15:59:59](https://news.ycombinator.com/item?id=35233534) - [ChatGPT is rendering other people&#x27;s chat history in the sidebar](https://old.reddit.com/r/ChatGPT/)
 * [2023-03-20, 15:59:09](https://news.ycombinator.com/item?id=35233524) - [The hard problem of onboarding horizontal products](https://robhaisfield.com/notes/the-hard-problem-of-onboarding-horizontal-products)
 * [2023-03-20, 15:58:57](https://news.ycombinator.com/item?id=35233523) - [Could UFOs be alien probes? A new 2023 Harvard study explores it [pdf]](https://lweb.cfa.harvard.edu/~loeb/LK1.pdf)
