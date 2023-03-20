@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 20:38:47](https://news.ycombinator.com/item?id=35238338) - [The genie escapes: Stanford copies the ChatGPT AI for less than $600](https://newatlas.com/technology/stanford-alpaca-cheap-gpt/)
 * [2023-03-20, 20:06:58](https://news.ycombinator.com/item?id=35237830) - [Why use Rust on the back end?](https://blog.adamchalmers.com/why-rust-on-backend/)
 * [2023-03-20, 20:05:08](https://news.ycombinator.com/item?id=35237799) - [Chronology Clock](https://chronologyclock.com/)
 * [2023-03-20, 20:04:31](https://news.ycombinator.com/item?id=35237787) - [Doors I touched today (1999)](https://fluxus.org/FluxusMidwest/doorknobs/)

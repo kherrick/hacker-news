@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-20, 20:38:47](https://news.ycombinator.com/item?id=35238338) - [The genie escapes: Stanford copies the ChatGPT AI for less than $600](https://newatlas.com/technology/stanford-alpaca-cheap-gpt/)
 * [2023-03-20, 20:06:58](https://news.ycombinator.com/item?id=35237830) - [Why use Rust on the back end?](https://blog.adamchalmers.com/why-rust-on-backend/)
 * [2023-03-20, 20:05:08](https://news.ycombinator.com/item?id=35237799) - [Chronology Clock](https://chronologyclock.com/)
 * [2023-03-20, 20:04:31](https://news.ycombinator.com/item?id=35237787) - [Doors I touched today (1999)](https://fluxus.org/FluxusMidwest/doorknobs/)
@@ -21,7 +22,6 @@
 * [2023-03-20, 14:39:08](https://news.ycombinator.com/item?id=35232150) - [Amazon to lay off 9,000 more workers after earlier cuts](https://www.cnbc.com/2023/03/20/amazon-layoffs-company-to-cut-off-9000-more-workers.html)
 * [2023-03-20, 13:35:21](https://news.ycombinator.com/item?id=35231276) - [When can two TCP sockets share a local address?](https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/)
 * [2023-03-20, 13:22:50](https://news.ycombinator.com/item?id=35231111) - [Cyclists now outnumber motorists in City of London](https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/)
-* [2023-03-20, 13:14:40](https://news.ycombinator.com/item?id=35231012) - [IPCC climate crisis report delivers ‘final warning on 1.5C’](https://www.theguardian.com/environment/2023/mar/20/ipcc-climate-crisis-report-delivers-final-warning-on-15c)
 * [2023-03-20, 12:53:22](https://news.ycombinator.com/item?id=35230766) - [Argbash – Bash Argument Parsing Code Generator](https://argbash.dev)
 * [2023-03-20, 11:17:24](https://news.ycombinator.com/item?id=35229945) - [The British computer magazine cover tape](https://commodoreformatarchive.com/games-of-the-90s-the-covertapes/)
 * [2023-03-20, 09:54:17](https://news.ycombinator.com/item?id=35229331) - [Cesium-137 missing and found in junk yard in Thailand](https://www.nationthailand.com/thailand/general/40025846)
