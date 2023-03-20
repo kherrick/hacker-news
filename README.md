@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-20, 13:22:50](https://news.ycombinator.com/item?id=35231111) - [Cyclists Now Outnumber Motorists in City of London](https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/)
+* [2023-03-20, 13:14:40](https://news.ycombinator.com/item?id=35231012) - [IPCC climate crisis report delivers ‘final warning on 1.5C’](https://www.theguardian.com/environment/2023/mar/20/ipcc-climate-crisis-report-delivers-final-warning-on-15c)
 * [2023-03-20, 12:50:08](https://news.ycombinator.com/item?id=35230740) - [Zippyshare Quits After 17 Years, 45M Visits per Month Makes No Money](https://torrentfreak.com/zippyshare-file-hosting-veteran-calls-it-quits-2006-2023-230320/)
 * [2023-03-20, 12:10:28](https://news.ycombinator.com/item?id=35230370) - [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
 * [2023-03-20, 09:39:46](https://news.ycombinator.com/item?id=35229222) - [Flow-Based Programming, a way for AI and humans to develop together](https://bergie.iki.fi/blog/fbp-ai-human-collaboration/)
@@ -14,7 +15,6 @@
 * [2023-03-20, 03:24:59](https://news.ycombinator.com/item?id=35226887) - [Ask HN: Why do many CS graduates lack foundational knowledge?](https://news.ycombinator.com/item?id=35226887)
 * [2023-03-20, 02:35:13](https://news.ycombinator.com/item?id=35226586) - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/)
 * [2023-03-20, 02:12:22](https://news.ycombinator.com/item?id=35226420) - [Who becomes an entrepreneur? Insights from research studies](https://www.generalist.com/briefing/who-becomes-an-entrepreneur)
-* [2023-03-20, 02:04:37](https://news.ycombinator.com/item?id=35226364) - [GPTs Are GPTs: An Early Look at the Labor Market Impact Potential of LLMs](https://arxiv.org/abs/2303.10130)
 * [2023-03-20, 01:41:37](https://news.ycombinator.com/item?id=35226197) - [Altstore: Home for apps that push the boundaries of iOS](https://altstore.io/)
 * [2023-03-20, 01:13:26](https://news.ycombinator.com/item?id=35225946) - [Twenty-five years of curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
 * [2023-03-20, 00:11:26](https://news.ycombinator.com/item?id=35225319) - [Oakland&#x27;s non-profit video game museum is back, and thriving](https://sfstandard.com/arts-culture/fly-spaceships-battle-aliens-and-drive-a-crazy-taxi-at-this-oakland-museum/)
