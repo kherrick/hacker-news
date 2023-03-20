@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 17:25:12](https://news.ycombinator.com/item?id=35235149) - [IPCC: Climate Change 2023](https://www.ipcc.ch/report/ar6/syr/)
 * [2023-03-20, 17:00:39](https://news.ycombinator.com/item?id=35234708) - [Ivy (YC W23) is hiring engineers to unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-03-20, 16:49:00](https://news.ycombinator.com/item?id=35234475) - [In which Balaji gives away at least a million dollars](https://noahpinion.substack.com/p/in-which-balaji-gives-away-at-least)
 * [2023-03-20, 16:33:10](https://news.ycombinator.com/item?id=35234152) - [Amazon to layoff 9k more employees, including from AWS](https://www.bloomberg.com/news/articles/2023-03-20/amazon-is-laying-off-an-additional-9-000-employees)
