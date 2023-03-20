@@ -8,6 +8,7 @@
 * [2023-03-20, 21:32:28](https://news.ycombinator.com/item?id=35239080) - [The Crime of Email at Bowling Green State University](https://academeblog.org/2023/03/20/the-crime-of-email-at-bowling-green-state-university/)
 * [2023-03-20, 21:31:54](https://news.ycombinator.com/item?id=35239070) - [Ars: “Book publishers with surging profits struggle to prove IA hurt sales”](https://arstechnica.com/tech-policy/2023/03/book-publishers-with-surging-profits-struggle-to-prove-internet-archive-hurt-sales/)
 * [2023-03-20, 21:20:19](https://news.ycombinator.com/item?id=35238937) - [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io)
+* [2023-03-20, 21:18:17](https://news.ycombinator.com/item?id=35238906) - [macOS Cursors](https://mac-cursors.netlify.app)
 * [2023-03-20, 21:16:57](https://news.ycombinator.com/item?id=35238888) - [MIT’s Barry Duncan demonstrates the power of writing in reverse](https://news.mit.edu/2023/barry-duncan-palindromes-writing-reverse-0320)
 * [2023-03-20, 21:16:13](https://news.ycombinator.com/item?id=35238878) - [Why northern Europe is so indebted](https://theloop.ecpr.eu/why-northern-europe-is-so-indebted/)
 * [2023-03-20, 21:12:42](https://news.ycombinator.com/item?id=35238822) - [Building ClickHouse Cloud from Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year)
