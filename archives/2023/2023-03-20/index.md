@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 19:32:57](https://news.ycombinator.com/item?id=35237332) - [Men paying to have their jaws broken in the name of ‘manliness’](https://www.gq-magazine.co.uk/lifestyle/article/jaw-surgery-men)
 * [2023-03-20, 18:38:40](https://news.ycombinator.com/item?id=35236467) - [ChatGPT Is Down](https://status.openai.com/incidents/jq9232rcmktd)
 * [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
 * [2023-03-20, 18:27:22](https://news.ycombinator.com/item?id=35236272) - [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
@@ -20,6 +21,7 @@
 * [2023-03-20, 17:09:09](https://news.ycombinator.com/item?id=35234848) - [Fed Guy: SVB was particularly poorly run](https://fedguy.com/hidden-to-market/#more-6013)
 * [2023-03-20, 17:00:39](https://news.ycombinator.com/item?id=35234708) - [Ivy (YC W23) is hiring engineers to unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-03-20, 16:49:00](https://news.ycombinator.com/item?id=35234475) - [In which Balaji gives away at least a million dollars](https://noahpinion.substack.com/p/in-which-balaji-gives-away-at-least)
+* [2023-03-20, 16:38:55](https://news.ycombinator.com/item?id=35234276) - [Show HN: Recursive LLM Prompts](https://github.com/andyk/recursive_llm)
 * [2023-03-20, 16:33:10](https://news.ycombinator.com/item?id=35234152) - [Amazon to layoff 9k more employees, including from AWS](https://www.bloomberg.com/news/articles/2023-03-20/amazon-is-laying-off-an-additional-9-000-employees)
 * [2023-03-20, 16:10:33](https://news.ycombinator.com/item?id=35233725) - [Lessons from a Pessimist: Make Your Pessimism Productive](https://lucumr.pocoo.org/2023/3/20/lessons-from-a-pessimist/)
 * [2023-03-20, 16:06:19](https://news.ycombinator.com/item?id=35233650) - [OpenAI CEO warns that GPT-4 could be misused for nefarious purposes](https://www.theregister.com/2023/03/20/openai_warns_that_gpt4_could/)
