@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 13:35:21](https://news.ycombinator.com/item?id=35231276) - [The quantum state of a TCP port](https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/)
 * [2023-03-20, 13:22:50](https://news.ycombinator.com/item?id=35231111) - [Cyclists Now Outnumber Motorists in City of London](https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/)
 * [2023-03-20, 13:14:40](https://news.ycombinator.com/item?id=35231012) - [IPCC climate crisis report delivers ‘final warning on 1.5C’](https://www.theguardian.com/environment/2023/mar/20/ipcc-climate-crisis-report-delivers-final-warning-on-15c)
 * [2023-03-20, 12:50:08](https://news.ycombinator.com/item?id=35230740) - [Zippyshare Quits After 17 Years, 45M Visits per Month Makes No Money](https://torrentfreak.com/zippyshare-file-hosting-veteran-calls-it-quits-2006-2023-230320/)
 * [2023-03-20, 12:10:28](https://news.ycombinator.com/item?id=35230370) - [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
 * [2023-03-20, 11:39:54](https://news.ycombinator.com/item?id=35230118) - [Ask HN: Has anyone here left the big city in pursue of a simpler life?](https://news.ycombinator.com/item?id=35230118)
 * [2023-03-20, 11:20:28](https://news.ycombinator.com/item?id=35229970) - [Close to 190 banks could face Silicon Valley Bank&#x27;s fate, according to new study](https://www.usatoday.com/story/money/personalfinance/real-estate/2023/03/19/svb-collapse-new-banks-could-fail/11504269002/)
+* [2023-03-20, 10:35:33](https://news.ycombinator.com/item?id=35229631) - [Windows Critical ICMP Remote Code Execution Vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23415)
 * [2023-03-20, 10:33:26](https://news.ycombinator.com/item?id=35229615) - [Reddit to vacate current headquarters and relocate](https://www.sfgate.com/tech/article/reddit-moves-san-francisco-headquarters-17848389.php)
 * [2023-03-20, 10:29:21](https://news.ycombinator.com/item?id=35229588) - [I Could Rewrite Curl (2021)](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
 * [2023-03-20, 09:39:46](https://news.ycombinator.com/item?id=35229222) - [Flow-Based Programming, a way for AI and humans to develop together](https://bergie.iki.fi/blog/fbp-ai-human-collaboration/)
@@ -24,6 +26,7 @@
 * [2023-03-20, 06:03:47](https://news.ycombinator.com/item?id=35227834) - [Rust Support Is Being Built into the GNU GCC Compiler](https://thenewstack.io/rust-support-is-being-built-into-the-gnu-gcc-compiler/)
 * [2023-03-20, 05:27:07](https://news.ycombinator.com/item?id=35227635) - [TinyVG – an alternative binary encoded vector graphics format](https://tinyvg.tech/)
 * [2023-03-20, 05:21:04](https://news.ycombinator.com/item?id=35227600) - [Previous: A NeXT Computer Emulator](https://previous.unixdude.net/)
+* [2023-03-20, 05:15:20](https://news.ycombinator.com/item?id=35227564) - [Pacific Pinball Museum in Alameda, CA](https://www.pacificpinball.org)
 * [2023-03-20, 04:41:01](https://news.ycombinator.com/item?id=35227369) - [SVB employees blame remote work for bank failure](https://www.axios.com/2023/03/17/svb-employees-blame-remote-work-for-bank-failure)
 * [2023-03-20, 04:39:12](https://news.ycombinator.com/item?id=35227358) - [Prompt Engineering: Steer a large pretrained language model to do what you want](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 * [2023-03-20, 04:15:04](https://news.ycombinator.com/item?id=35227209) - [Meta Layoffs](https://brandur.org/fragments/meta-layoffs)
