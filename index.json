@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-03-20, 15:57:45",
+      "https://news.ycombinator.com/item?id=35233500"
+    ],
+    [
+      "Supreme Court Asked to Strike Down Immunity for Police Who Brutally Beat Student",
+      "https://ij.org/press-release/supreme-court-asked-to-strike-down-immunity-for-police-task-force-officers-who-brutally-beat-innocent-college-student/"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 15:56:39",
+      "https://news.ycombinator.com/item?id=35233484"
+    ],
+    [
+      "JEP 442: Foreign Function and Memory API (Third Preview)",
+      "https://github.com/minborg/articles/tree/jep442/2023/March/22-jep442-FFM-Third-Preview"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 15:53:02",
+      "https://news.ycombinator.com/item?id=35233429"
+    ],
+    [
+      "TypeScript cannot emit valid ES modules due to file extension issue (2020)",
+      "https://github.com/microsoft/TypeScript/issues/42151"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 15:28:11",
+      "https://news.ycombinator.com/item?id=35232975"
+    ],
+    [
+      "Nearly Half of Firms Are Drafting Policies on ChatGPT Use",
+      "https://www.bloomberg.com/news/articles/2023-03-20/using-chatgpt-at-work-nearly-half-of-firms-are-drafting-policies-on-its-use"
+    ]
+  ],
+  [
+    [
       "2023-03-20, 14:40:35",
       "https://news.ycombinator.com/item?id=35232171"
     ],
@@ -31,6 +71,16 @@
   ],
   [
     [
+      "2023-03-20, 14:39:05",
+      "https://news.ycombinator.com/item?id=35232148"
+    ],
+    [
+      "Amazon to eliminate 9,000 more positions in the next few weeks",
+      "https://www.aboutamazon.com/news/company-news/update-from-ceo-andy-jassy-on-amazons-operating-plan-and-additional-role-eliminations"
+    ]
+  ],
+  [
+    [
       "2023-03-20, 14:33:04",
       "https://news.ycombinator.com/item?id=35232047"
     ],
@@ -51,22 +101,22 @@
   ],
   [
     [
-      "2023-03-20, 14:19:09",
-      "https://news.ycombinator.com/item?id=35231849"
-    ],
-    [
-      "GCHQ cracks Frank Sidebottom&#x27;s codes (2019)",
-      "https://www.bbc.co.uk/news/entertainment-arts-47907370"
-    ]
-  ],
-  [
-    [
       "2023-03-20, 13:35:21",
       "https://news.ycombinator.com/item?id=35231276"
     ],
     [
       "When can two TCP sockets share a local address?",
       "https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 13:25:52",
+      "https://news.ycombinator.com/item?id=35231159"
+    ],
+    [
+      "Who is still inside the metaverse?",
+      "https://nymag.com/intelligencer/article/mark-zuckerberg-metaverse-meta-horizon-worlds.html"
     ]
   ],
   [
@@ -127,16 +177,6 @@
     [
       "The British computer magazine cover tape",
       "https://commodoreformatarchive.com/games-of-the-90s-the-covertapes/"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 10:35:33",
-      "https://news.ycombinator.com/item?id=35229631"
-    ],
-    [
-      "Windows Critical ICMP Remote Code Execution Vulnerability",
-      "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23415"
     ]
   ],
   [
@@ -231,16 +271,6 @@
   ],
   [
     [
-      "2023-03-20, 02:12:22",
-      "https://news.ycombinator.com/item?id=35226420"
-    ],
-    [
-      "Who becomes an entrepreneur? Insights from research studies",
-      "https://www.generalist.com/briefing/who-becomes-an-entrepreneur"
-    ]
-  ],
-  [
-    [
       "2023-03-20, 01:41:37",
       "https://news.ycombinator.com/item?id=35226197"
     ],
@@ -267,36 +297,6 @@
     [
       "Show HN: Chatblade – A CLI Swiss Army Knife for ChatGPT",
       "https://github.com/npiv/chatblade"
-    ]
-  ],
-  [
-    [
-      "2023-03-19, 19:33:41",
-      "https://news.ycombinator.com/item?id=35222649"
-    ],
-    [
-      "Jaccard Index",
-      "https://en.wikipedia.org/wiki/Jaccard_index"
-    ]
-  ],
-  [
-    [
-      "2023-03-19, 18:32:56",
-      "https://news.ycombinator.com/item?id=35222029"
-    ],
-    [
-      "The little-known story behind the 2022 Nobel Prize in physics",
-      "https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/"
-    ]
-  ],
-  [
-    [
-      "2023-03-19, 12:54:06",
-      "https://news.ycombinator.com/item?id=35218463"
-    ],
-    [
-      "Ken Thompson&#x27;s 75 year project: A century of popular music in a jukebox [video]",
-      "https://www.youtube.com/watch?v=kaandEt_pKw"
     ]
   ]
 ]
