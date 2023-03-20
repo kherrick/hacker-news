@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-20, 21:16:13](https://news.ycombinator.com/item?id=35238878) - [Why northern Europe is so indebted](https://theloop.ecpr.eu/why-northern-europe-is-so-indebted/)
 * [2023-03-20, 21:00:05](https://news.ycombinator.com/item?id=35238616) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-03-20, 20:38:47](https://news.ycombinator.com/item?id=35238338) - [The genie escapes: Stanford copies the ChatGPT AI for less than $600](https://newatlas.com/technology/stanford-alpaca-cheap-gpt/)
 * [2023-03-20, 20:06:58](https://news.ycombinator.com/item?id=35237830) - [Why use Rust on the back end?](https://blog.adamchalmers.com/why-rust-on-backend/)
@@ -7,7 +8,6 @@
 * [2023-03-20, 20:04:31](https://news.ycombinator.com/item?id=35237787) - [Doors I touched today (1999)](https://fluxus.org/FluxusMidwest/doorknobs/)
 * [2023-03-20, 19:54:19](https://news.ycombinator.com/item?id=35237646) - [CoLT5: Faster Long-Range Transformers With Conditional Computation](https://arxiv.org/abs/2303.09752)
 * [2023-03-20, 19:28:23](https://news.ycombinator.com/item?id=35237269) - [Spack – scientific software package manager for supercomputers, Linux, and macOS](https://spack.io/)
-* [2023-03-20, 19:27:04](https://news.ycombinator.com/item?id=35237253) - [Show HN: Great Books Homeschool beta program](https://www.greatbookshomeschool.com)
 * [2023-03-20, 18:38:40](https://news.ycombinator.com/item?id=35236467) - [ChatGPT is down](https://status.openai.com/incidents/jq9232rcmktd)
 * [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
 * [2023-03-20, 18:27:22](https://news.ycombinator.com/item?id=35236272) - [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
