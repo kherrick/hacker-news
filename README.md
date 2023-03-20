@@ -26,10 +26,10 @@
 * [2023-03-19, 18:32:56](https://news.ycombinator.com/item?id=35222029) - [The little-known story behind the 2022 Nobel Prize in physics](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
 * [2023-03-19, 18:02:26](https://news.ycombinator.com/item?id=35221742) - [Leaving China](https://www.persuasion.community/p/leaving-china)
 * [2023-03-19, 16:57:25](https://news.ycombinator.com/item?id=35220991) - [Plane Lands&#x2F;Takes Off in Only 20 Feet (2013)](https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet)
-* [2023-03-19, 16:06:08](https://news.ycombinator.com/item?id=35220345) - [Learning the ropes: why Germany is building risk into its playgrounds (2021)](https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds)
 * [2023-03-19, 14:29:52](https://news.ycombinator.com/item?id=35219281) - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Ken Thompson&#x27;s 75 year project: A century of popular music in a jukebox [video]](https://www.youtube.com/watch?v=kaandEt_pKw)
 * [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
+* [2023-03-18, 11:52:28](https://news.ycombinator.com/item?id=35208286) - [PLATO: An educational computer system from the 60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 
 ## [Archives](archives/index.md)
 
