@@ -9,7 +9,6 @@
 * [2023-03-20, 01:29:56](https://news.ycombinator.com/item?id=35226097) - [We gave GPT-3.5 tools to run, write, commit, and deploy code](https://old.reddit.com/r/MachineLearning/comments/11vfbo9/p_we_gave_gpt35_tools_that_developers_use_and_let/)
 * [2023-03-20, 01:13:26](https://news.ycombinator.com/item?id=35225946) - [Twenty-five years of curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
 * [2023-03-20, 00:11:26](https://news.ycombinator.com/item?id=35225319) - [Oakland&#x27;s non-profit video game museum is back, and thriving](https://sfstandard.com/arts-culture/fly-spaceships-battle-aliens-and-drive-a-crazy-taxi-at-this-oakland-museum/)
-* [2023-03-19, 23:56:13](https://news.ycombinator.com/item?id=35225181) - [Pentagon study reveals higher cancer rates for military pilots, ground crews](https://www.axios.com/2023/03/19/pentagon-study-higher-cancer-rates-military-pilots-ground-crews)
 * [2023-03-19, 23:46:50](https://news.ycombinator.com/item?id=35225097) - [Gallery of Minimal Design Websites](https://minimal.gallery/)
 * [2023-03-19, 23:37:44](https://news.ycombinator.com/item?id=35224999) - [Banshees of Inisherin: The Game](https://bansheesthegame.com/)
 * [2023-03-19, 23:11:58](https://news.ycombinator.com/item?id=35224772) - [Black widows are losing to brown widows in the fight for attics and garages](https://www.nytimes.com/2023/03/13/science/brown-widows-black-widows.html)
@@ -30,6 +29,7 @@
 * [2023-03-19, 15:16:59](https://news.ycombinator.com/item?id=35219812) - [People had to be convinced of the usefulness of electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
 * [2023-03-19, 14:29:52](https://news.ycombinator.com/item?id=35219281) - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Ken Thompson&#x27;s 75 year project: A century of popular music in a jukebox [video]](https://www.youtube.com/watch?v=kaandEt_pKw)
+* [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
 
 ## [Archives](archives/index.md)
 
