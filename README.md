@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-20, 13:22:50](https://news.ycombinator.com/item?id=35231111) - [Cyclists Now Outnumber Motorists in City of London](https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/)
+* [2023-03-20, 12:50:08](https://news.ycombinator.com/item?id=35230740) - [Zippyshare Quits After 17 Years, 45M Visits per Month Makes No Money](https://torrentfreak.com/zippyshare-file-hosting-veteran-calls-it-quits-2006-2023-230320/)
 * [2023-03-20, 12:10:28](https://news.ycombinator.com/item?id=35230370) - [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
-* [2023-03-20, 11:20:28](https://news.ycombinator.com/item?id=35229970) - [Close to 190 banks could face Silicon Valley Bank&#x27;s fate, according to new study](https://www.usatoday.com/story/money/personalfinance/real-estate/2023/03/19/svb-collapse-new-banks-could-fail/11504269002/)
 * [2023-03-20, 09:39:46](https://news.ycombinator.com/item?id=35229222) - [Flow-Based Programming, a way for AI and humans to develop together](https://bergie.iki.fi/blog/fbp-ai-human-collaboration/)
 * [2023-03-20, 09:15:18](https://news.ycombinator.com/item?id=35229045) - [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)
 * [2023-03-20, 08:52:46](https://news.ycombinator.com/item?id=35228884) - [Command Line One-Liners](https://www.commandlinefu.com/commands/browse)
