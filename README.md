@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-20, 07:54:49](https://news.ycombinator.com/item?id=35228516) - [Curl 8.0.0](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
 * [2023-03-20, 07:09:13](https://news.ycombinator.com/item?id=35228219) - [Newer data once again shows: the human brain is just a scaled up primate brain](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24712)
 * [2023-03-20, 06:24:02](https://news.ycombinator.com/item?id=35227962) - [Dietary sweetener sucralose is a negative modulator of T cell-mediated responses](https://www.nature.com/articles/s41586-023-05801-6)
 * [2023-03-20, 05:27:07](https://news.ycombinator.com/item?id=35227635) - [TinyVG – an alternative binary encoded vector graphics format](https://tinyvg.tech/)
@@ -13,7 +14,6 @@
 * [2023-03-20, 01:13:26](https://news.ycombinator.com/item?id=35225946) - [Twenty-five years of curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
 * [2023-03-20, 00:11:26](https://news.ycombinator.com/item?id=35225319) - [Oakland&#x27;s non-profit video game museum is back, and thriving](https://sfstandard.com/arts-culture/fly-spaceships-battle-aliens-and-drive-a-crazy-taxi-at-this-oakland-museum/)
 * [2023-03-19, 23:46:50](https://news.ycombinator.com/item?id=35225097) - [Gallery of Minimal Design Websites](https://minimal.gallery/)
-* [2023-03-19, 23:37:44](https://news.ycombinator.com/item?id=35224999) - [Banshees of Inisherin: The Game](https://bansheesthegame.com/)
 * [2023-03-19, 23:11:58](https://news.ycombinator.com/item?id=35224772) - [Black widows are losing to brown widows in the fight for attics and garages](https://www.nytimes.com/2023/03/13/science/brown-widows-black-widows.html)
 * [2023-03-19, 23:02:20](https://news.ycombinator.com/item?id=35224666) - [Anti-recruiter prompt injection attack in LinkedIn profile](https://twitter.com/brdskggs/status/1637114268876144640)
 * [2023-03-19, 22:37:43](https://news.ycombinator.com/item?id=35224439) - [BNF was here: What have we done about unnecessary notation diversity (2011) [pdf]](https://www.grammarware.net/text/2012/bnf-was-here.pdf)
