@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 22:51:52](https://news.ycombinator.com/item?id=35239990) - [It Turns Out That JPMorgan Bought the Nickel That Turned Out to Be Stones](https://www.wsj.com/livecoverage/stock-market-news-today-03-20-2023/card/it-turns-out-that-jpmorgan-bought-the-nickel-that-turned-out-to-be-stones-whWn9TqZaksdTPcGyyAi)
 * [2023-03-20, 22:50:03](https://news.ycombinator.com/item?id=35239972) - [Run 100B+ language models at home, BitTorrent‑style](https://petals.ml/)
+* [2023-03-20, 22:29:50](https://news.ycombinator.com/item?id=35239746) - [Credit Suisse’s takeover causes turmoil in a $275B bond market](https://www.economist.com/finance-and-economics/2023/03/20/credit-suisses-takeover-causes-turmoil-in-a-275bn-bond-market)
 * [2023-03-20, 22:22:51](https://news.ycombinator.com/item?id=35239655) - [Baidu Ernie writes poems, says it has insufficient information on Xi, tests show](https://www.reuters.com/technology/baidus-ernie-writes-poems-says-it-has-insufficient-information-xi-tests-show-2023-03-20/)
 * [2023-03-20, 22:18:48](https://news.ycombinator.com/item?id=35239607) - [Twitch.tv Lays of 400 Employees](https://blog.twitch.tv/en/2023/03/20/an-update-about-our-workforce/)
 * [2023-03-20, 22:01:42](https://news.ycombinator.com/item?id=35239397) - [South Korea has the lowest fertility rate, with lessons for us all](https://www.npr.org/2023/03/19/1163341684/south-korea-fertility-rate)
