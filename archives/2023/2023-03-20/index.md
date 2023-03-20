@@ -16,6 +16,7 @@
 * [2023-03-20, 05:27:07](https://news.ycombinator.com/item?id=35227635) - [TinyVG – an alternative binary encoded vector graphics format](https://tinyvg.tech/)
 * [2023-03-20, 05:21:04](https://news.ycombinator.com/item?id=35227600) - [Previous: A NeXT Computer Emulator](https://previous.unixdude.net/)
 * [2023-03-20, 04:41:01](https://news.ycombinator.com/item?id=35227369) - [SVB employees blame remote work for bank failure](https://www.axios.com/2023/03/17/svb-employees-blame-remote-work-for-bank-failure)
+* [2023-03-20, 04:39:12](https://news.ycombinator.com/item?id=35227358) - [Prompt Engineering: Steer a large pretrained language model to do what you want](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 * [2023-03-20, 04:15:04](https://news.ycombinator.com/item?id=35227209) - [Meta Layoffs](https://brandur.org/fragments/meta-layoffs)
 * [2023-03-20, 03:24:59](https://news.ycombinator.com/item?id=35226887) - [Ask HN: Why do many CS graduates lack foundational knowledge?](https://news.ycombinator.com/item?id=35226887)
 * [2023-03-20, 02:35:13](https://news.ycombinator.com/item?id=35226586) - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/)
