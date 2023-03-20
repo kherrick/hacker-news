@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 02:12:22](https://news.ycombinator.com/item?id=35226420) - [Who becomes an entrepreneur? Insights from 7 research studies](https://www.generalist.com/briefing/who-becomes-an-entrepreneur)
+* [2023-03-20, 01:41:37](https://news.ycombinator.com/item?id=35226197) - [Altstore: Home for apps that push the boundaries of iOS. No jailbreak required](https://altstore.io/)
 * [2023-03-20, 01:13:26](https://news.ycombinator.com/item?id=35225946) - [Twenty-Five Years of Curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
 * [2023-03-20, 00:23:34](https://news.ycombinator.com/item?id=35225429) - [Bitcoin hits $28k as uncertainty surrounds banks](https://cointelegraph.com/news/bitcoin-hits-28k-as-uncertainty-surrounds-banks)
 * [2023-03-20, 00:11:26](https://news.ycombinator.com/item?id=35225319) - [Oakland&#x27;s Non-Profit Video Game Museum Is Back, and Thriving](https://sfstandard.com/arts-culture/fly-spaceships-battle-aliens-and-drive-a-crazy-taxi-at-this-oakland-museum/)
