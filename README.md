@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-20, 03:24:59](https://news.ycombinator.com/item?id=35226887) - [Ask HN: Why do many CS graduates lack foundational knowledge?](https://news.ycombinator.com/item?id=35226887)
+* [2023-03-20, 02:35:13](https://news.ycombinator.com/item?id=35226586) - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/)
 * [2023-03-20, 02:12:22](https://news.ycombinator.com/item?id=35226420) - [Who becomes an entrepreneur? Insights from 7 research studies](https://www.generalist.com/briefing/who-becomes-an-entrepreneur)
 * [2023-03-20, 01:41:37](https://news.ycombinator.com/item?id=35226197) - [Altstore: Home for apps that push the boundaries of iOS. No jailbreak required](https://altstore.io/)
 * [2023-03-20, 01:29:56](https://news.ycombinator.com/item?id=35226097) - [We gave GPT-3.5 tools to run, write, commit, and deploy code](https://old.reddit.com/r/MachineLearning/comments/11vfbo9/p_we_gave_gpt35_tools_that_developers_use_and_let/)
@@ -15,7 +16,6 @@
 * [2023-03-19, 23:02:20](https://news.ycombinator.com/item?id=35224666) - [Anti-recruiter prompt injection attack in LinkedIn profile](https://twitter.com/brdskggs/status/1637114268876144640)
 * [2023-03-19, 22:37:43](https://news.ycombinator.com/item?id=35224439) - [BNF Was Here: What Have We Done About the Unnecessary Notation Diversity (2011) [pdf]](https://www.grammarware.net/text/2012/bnf-was-here.pdf)
 * [2023-03-19, 22:12:27](https://news.ycombinator.com/item?id=35224219) - [Glaze (Poisoning AI Artists)](https://glaze.cs.uchicago.edu/)
-* [2023-03-19, 22:04:46](https://news.ycombinator.com/item?id=35224167) - [Epic Games, others accuse Sundar Pichai of violating retention obligations](http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html)
 * [2023-03-19, 21:18:49](https://news.ycombinator.com/item?id=35223759) - [Show HN: Chatblade – A CLI Swiss Army Knife for ChatGPT](https://github.com/npiv/chatblade)
 * [2023-03-19, 21:10:58](https://news.ycombinator.com/item?id=35223690) - [Data from Atlassian dumped online after apparent hack](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
 * [2023-03-19, 20:32:18](https://news.ycombinator.com/item?id=35223240) - [Qualcomm has open sourced its aptX and aptX HD encoders](https://old.reddit.com/r/Android/comments/11t16lk/qualcomm_has_open_sourced_its_aptx_and_aptx_hd/)
