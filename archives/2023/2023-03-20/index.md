@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 14:33:04](https://news.ycombinator.com/item?id=35232047) - [That Plum Job Listing May Just Be a Ghost](https://www.wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794)
 * [2023-03-20, 14:21:31](https://news.ycombinator.com/item?id=35231885) - [Office kitchen wars are back.](https://slate.com/human-interest/2023/03/office-drama-workplace-advice-kitchen-food-cleaning-fridge.html)
 * [2023-03-20, 13:35:21](https://news.ycombinator.com/item?id=35231276) - [The quantum state of a TCP port](https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/)
+* [2023-03-20, 13:25:52](https://news.ycombinator.com/item?id=35231159) - [Who is still inside the metaverse?](https://nymag.com/intelligencer/article/mark-zuckerberg-metaverse-meta-horizon-worlds.html)
 * [2023-03-20, 13:22:50](https://news.ycombinator.com/item?id=35231111) - [Cyclists Now Outnumber Motorists in City of London](https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/)
 * [2023-03-20, 13:14:40](https://news.ycombinator.com/item?id=35231012) - [IPCC climate crisis report delivers ‘final warning on 1.5C’](https://www.theguardian.com/environment/2023/mar/20/ipcc-climate-crisis-report-delivers-final-warning-on-15c)
 * [2023-03-20, 12:50:08](https://news.ycombinator.com/item?id=35230740) - [Zippyshare Quits After 17 Years, 45M Visits per Month Makes No Money](https://torrentfreak.com/zippyshare-file-hosting-veteran-calls-it-quits-2006-2023-230320/)
 * [2023-03-20, 12:10:28](https://news.ycombinator.com/item?id=35230370) - [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
 * [2023-03-20, 11:39:54](https://news.ycombinator.com/item?id=35230118) - [Ask HN: Has anyone here left the big city in pursue of a simpler life?](https://news.ycombinator.com/item?id=35230118)
 * [2023-03-20, 11:20:28](https://news.ycombinator.com/item?id=35229970) - [Close to 190 banks could face Silicon Valley Bank&#x27;s fate, according to new study](https://www.usatoday.com/story/money/personalfinance/real-estate/2023/03/19/svb-collapse-new-banks-could-fail/11504269002/)
+* [2023-03-20, 11:17:24](https://news.ycombinator.com/item?id=35229945) - [The British computer magazine cover tape](https://commodoreformatarchive.com/games-of-the-90s-the-covertapes/)
 * [2023-03-20, 10:35:33](https://news.ycombinator.com/item?id=35229631) - [Windows Critical ICMP Remote Code Execution Vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23415)
 * [2023-03-20, 10:33:26](https://news.ycombinator.com/item?id=35229615) - [Reddit to vacate current headquarters and relocate](https://www.sfgate.com/tech/article/reddit-moves-san-francisco-headquarters-17848389.php)
 * [2023-03-20, 10:29:21](https://news.ycombinator.com/item?id=35229588) - [I Could Rewrite Curl (2021)](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
