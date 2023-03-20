@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 20:06:58](https://news.ycombinator.com/item?id=35237830) - [Why use Rust on the back end?](https://blog.adamchalmers.com/why-rust-on-backend/)
+* [2023-03-20, 20:05:08](https://news.ycombinator.com/item?id=35237799) - [Chronology Clock](https://chronologyclock.com/)
 * [2023-03-20, 20:04:31](https://news.ycombinator.com/item?id=35237787) - [Doors I touched today (1999)](https://fluxus.org/FluxusMidwest/doorknobs/)
 * [2023-03-20, 19:51:54](https://news.ycombinator.com/item?id=35237609) - [The Move to Memory-Safe Programming](https://spectrum.ieee.org/memory-safe-programming-languages)
 * [2023-03-20, 19:32:57](https://news.ycombinator.com/item?id=35237332) - [Men paying to have their jaws broken in the name of ‘manliness’](https://www.gq-magazine.co.uk/lifestyle/article/jaw-surgery-men)
