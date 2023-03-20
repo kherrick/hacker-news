@@ -3,6 +3,7 @@
 * [2023-03-20, 05:27:07](https://news.ycombinator.com/item?id=35227635) - [TinyVG – an alternative binary encoded vector graphics format](https://tinyvg.tech/)
 * [2023-03-20, 05:21:04](https://news.ycombinator.com/item?id=35227600) - [Previous: A NeXT Computer Emulator](https://previous.unixdude.net/)
 * [2023-03-20, 04:15:04](https://news.ycombinator.com/item?id=35227209) - [Meta Layoffs](https://brandur.org/fragments/meta-layoffs)
+* [2023-03-20, 03:24:59](https://news.ycombinator.com/item?id=35226887) - [Ask HN: Why do many CS graduates lack foundational knowledge?](https://news.ycombinator.com/item?id=35226887)
 * [2023-03-20, 02:35:13](https://news.ycombinator.com/item?id=35226586) - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/)
 * [2023-03-20, 02:12:22](https://news.ycombinator.com/item?id=35226420) - [Who becomes an entrepreneur? Insights from research studies](https://www.generalist.com/briefing/who-becomes-an-entrepreneur)
 * [2023-03-20, 02:04:37](https://news.ycombinator.com/item?id=35226364) - [GPTs Are GPTs: An Early Look at the Labor Market Impact Potential of LLMs](https://arxiv.org/abs/2303.10130)
@@ -29,7 +30,6 @@
 * [2023-03-19, 15:16:59](https://news.ycombinator.com/item?id=35219812) - [People had to be convinced of the usefulness of electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
 * [2023-03-19, 14:29:52](https://news.ycombinator.com/item?id=35219281) - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Ken Thompson&#x27;s 75 year project: A century of popular music in a jukebox [video]](https://www.youtube.com/watch?v=kaandEt_pKw)
-* [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
 
 ## [Archives](archives/index.md)
 
