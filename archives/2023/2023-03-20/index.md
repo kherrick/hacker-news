@@ -6,6 +6,7 @@
 
 * [2023-03-20, 18:38:40](https://news.ycombinator.com/item?id=35236467) - [ChatGPT Is Down](https://status.openai.com/incidents/jq9232rcmktd)
 * [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
+* [2023-03-20, 18:27:22](https://news.ycombinator.com/item?id=35236272) - [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-03-20, 18:14:07](https://news.ycombinator.com/item?id=35236043) - [UBS Got Credit Suisse for Almost Nothing](https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing)
 * [2023-03-20, 17:59:41](https://news.ycombinator.com/item?id=35235775) - [The cloud backlash has begun: Why big data is pulling compute back on premises](https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/)
 * [2023-03-20, 17:59:12](https://news.ycombinator.com/item?id=35235764) - [Docker’s Bad Week](https://www.infoworld.com/article/3691292/dockers-bad-week.html)
