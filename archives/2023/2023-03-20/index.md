@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 18:38:40](https://news.ycombinator.com/item?id=35236467) - [ChatGPT Is Down](https://status.openai.com/incidents/jq9232rcmktd)
 * [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
 * [2023-03-20, 18:14:07](https://news.ycombinator.com/item?id=35236043) - [UBS Got Credit Suisse for Almost Nothing](https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing)
 * [2023-03-20, 17:59:41](https://news.ycombinator.com/item?id=35235775) - [The cloud backlash has begun: Why big data is pulling compute back on premises](https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/)
@@ -12,6 +13,7 @@
 * [2023-03-20, 17:56:21](https://news.ycombinator.com/item?id=35235721) - [JPMorgan advising First Republic on alternatives, including a capital raise](https://www.cnbc.com/2023/03/20/jpmorgan-advising-first-republic-on-strategic-alternatives-including-a-capital-raise-sources-say.html)
 * [2023-03-20, 17:50:32](https://news.ycombinator.com/item?id=35235616) - [Garmi, a robot nurse and companion for Germany’s elderly population](https://www.popsci.com/technology/garmi-germany-elderly-robot/)
 * [2023-03-20, 17:48:18](https://news.ycombinator.com/item?id=35235579) - [Twitch says it will lay off 400 employees](https://techcrunch.com/2023/03/20/twitch-says-it-will-lay-off-400-employees/)
+* [2023-03-20, 17:42:37](https://news.ycombinator.com/item?id=35235474) - [Ask HN: Should I sign a pay cut agreement?](https://news.ycombinator.com/item?id=35235474)
 * [2023-03-20, 17:25:12](https://news.ycombinator.com/item?id=35235149) - [IPCC: Climate Change 2023](https://www.ipcc.ch/report/ar6/syr/)
 * [2023-03-20, 17:24:48](https://news.ycombinator.com/item?id=35235141) - [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
 * [2023-03-20, 17:09:09](https://news.ycombinator.com/item?id=35234848) - [Fed Guy: SVB was particularly poorly run](https://fedguy.com/hidden-to-market/#more-6013)

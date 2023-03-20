@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-20, 18:38:40](https://news.ycombinator.com/item?id=35236467) - [ChatGPT Is Down](https://status.openai.com/incidents/jq9232rcmktd)
 * [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
 * [2023-03-20, 18:14:07](https://news.ycombinator.com/item?id=35236043) - [UBS Got Credit Suisse for Almost Nothing](https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing)
 * [2023-03-20, 17:59:41](https://news.ycombinator.com/item?id=35235775) - [The cloud backlash has begun: Why big data is pulling compute back on premises](https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/)
@@ -7,7 +8,7 @@
 * [2023-03-20, 17:56:59](https://news.ycombinator.com/item?id=35235732) - [MailChimp blacklists your IP if you open the browser&#x27;s dev tools](https://news.ycombinator.com/item?id=35235732)
 * [2023-03-20, 17:56:21](https://news.ycombinator.com/item?id=35235721) - [JPMorgan advising First Republic on alternatives, including a capital raise](https://www.cnbc.com/2023/03/20/jpmorgan-advising-first-republic-on-strategic-alternatives-including-a-capital-raise-sources-say.html)
 * [2023-03-20, 17:50:32](https://news.ycombinator.com/item?id=35235616) - [Garmi, a robot nurse and companion for Germany’s elderly population](https://www.popsci.com/technology/garmi-germany-elderly-robot/)
-* [2023-03-20, 17:48:18](https://news.ycombinator.com/item?id=35235579) - [Twitch says it will lay off 400 employees](https://techcrunch.com/2023/03/20/twitch-says-it-will-lay-off-400-employees/)
+* [2023-03-20, 17:42:37](https://news.ycombinator.com/item?id=35235474) - [Ask HN: Should I sign a pay cut agreement?](https://news.ycombinator.com/item?id=35235474)
 * [2023-03-20, 17:09:09](https://news.ycombinator.com/item?id=35234848) - [SVB was particularly poorly run](https://fedguy.com/hidden-to-market/#more-6013)
 * [2023-03-20, 17:00:39](https://news.ycombinator.com/item?id=35234708) - [Ivy (YC W23) is hiring engineers to unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-03-20, 16:10:33](https://news.ycombinator.com/item?id=35233725) - [Lessons from a Pessimist: Make Your Pessimism Productive](https://lucumr.pocoo.org/2023/3/20/lessons-from-a-pessimist/)
@@ -26,7 +27,6 @@
 * [2023-03-20, 09:54:17](https://news.ycombinator.com/item?id=35229331) - [Cesium-137 missing and found in junk yard in Thailand](https://www.nationthailand.com/thailand/general/40025846)
 * [2023-03-20, 09:15:18](https://news.ycombinator.com/item?id=35229045) - [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)
 * [2023-03-20, 08:52:46](https://news.ycombinator.com/item?id=35228884) - [Command Line One-Liners](https://www.commandlinefu.com/commands/browse)
-* [2023-03-20, 08:29:35](https://news.ycombinator.com/item?id=35228716) - [RPC vs. TCP (Redux)](https://systemsapproach.substack.com/p/rpc-vs-tcp-redux)
 * [2023-03-20, 05:27:07](https://news.ycombinator.com/item?id=35227635) - [TinyVG – an alternative binary encoded vector graphics format](https://tinyvg.tech/)
 * [2023-03-20, 05:21:04](https://news.ycombinator.com/item?id=35227600) - [Previous: A NeXT Computer Emulator](https://previous.unixdude.net/)
 * [2023-03-20, 05:15:20](https://news.ycombinator.com/item?id=35227564) - [Pacific Pinball Museum](https://www.pacificpinball.org)
