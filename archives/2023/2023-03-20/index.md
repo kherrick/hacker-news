@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 05:27:07](https://news.ycombinator.com/item?id=35227635) - [TinyVG – an alternative binary encoded vector graphics format](https://tinyvg.tech/)
+* [2023-03-20, 05:21:04](https://news.ycombinator.com/item?id=35227600) - [Previous: A NeXT Computer Emulator](https://previous.unixdude.net/)
 * [2023-03-20, 04:41:01](https://news.ycombinator.com/item?id=35227369) - [SVB employees blame remote work for bank failure](https://www.axios.com/2023/03/17/svb-employees-blame-remote-work-for-bank-failure)
 * [2023-03-20, 04:15:04](https://news.ycombinator.com/item?id=35227209) - [Meta Layoffs](https://brandur.org/fragments/meta-layoffs)
 * [2023-03-20, 03:24:59](https://news.ycombinator.com/item?id=35226887) - [Ask HN: Why do many CS graduates lack foundational knowledge?](https://news.ycombinator.com/item?id=35226887)
 * [2023-03-20, 02:35:13](https://news.ycombinator.com/item?id=35226586) - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/)
 * [2023-03-20, 02:12:22](https://news.ycombinator.com/item?id=35226420) - [Who becomes an entrepreneur? Insights from 7 research studies](https://www.generalist.com/briefing/who-becomes-an-entrepreneur)
+* [2023-03-20, 02:04:37](https://news.ycombinator.com/item?id=35226364) - [GPTs Are GPTs: An Early Look at the Labor Market Impact Potential of LLMs](https://arxiv.org/abs/2303.10130)
 * [2023-03-20, 01:41:37](https://news.ycombinator.com/item?id=35226197) - [Altstore: Home for apps that push the boundaries of iOS. No jailbreak required](https://altstore.io/)
 * [2023-03-20, 01:29:56](https://news.ycombinator.com/item?id=35226097) - [We gave GPT-3.5 tools to run, write, commit, and deploy code](https://old.reddit.com/r/MachineLearning/comments/11vfbo9/p_we_gave_gpt35_tools_that_developers_use_and_let/)
 * [2023-03-20, 01:13:26](https://news.ycombinator.com/item?id=35225946) - [Twenty-Five Years of Curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
