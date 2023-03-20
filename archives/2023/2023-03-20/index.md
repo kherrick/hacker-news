@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 08:05:18](https://news.ycombinator.com/item?id=35228566) - [Stop spamming the em dash everywhere](https://mikolajbiernat.com/blog/stop-spamming-the-em-dash-everywhere)
 * [2023-03-20, 07:54:49](https://news.ycombinator.com/item?id=35228516) - [Curl 8.0.0](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
 * [2023-03-20, 07:09:13](https://news.ycombinator.com/item?id=35228219) - [Newer data once again shows: the human brain is just a scaled up primate brain](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24712)
 * [2023-03-20, 06:24:02](https://news.ycombinator.com/item?id=35227962) - [Dietary sweetener sucralose is a negative modulator of T cell-mediated responses](https://www.nature.com/articles/s41586-023-05801-6)
