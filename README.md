@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-20, 21:00:05](https://news.ycombinator.com/item?id=35238616) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-03-20, 20:38:47](https://news.ycombinator.com/item?id=35238338) - [The genie escapes: Stanford copies the ChatGPT AI for less than $600](https://newatlas.com/technology/stanford-alpaca-cheap-gpt/)
 * [2023-03-20, 20:06:58](https://news.ycombinator.com/item?id=35237830) - [Why use Rust on the back end?](https://blog.adamchalmers.com/why-rust-on-backend/)
 * [2023-03-20, 20:05:08](https://news.ycombinator.com/item?id=35237799) - [Chronology Clock](https://chronologyclock.com/)
@@ -10,9 +11,9 @@
 * [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
 * [2023-03-20, 18:27:22](https://news.ycombinator.com/item?id=35236272) - [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-03-20, 18:14:07](https://news.ycombinator.com/item?id=35236043) - [UBS got Credit Suisse for almost nothing](https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing)
+* [2023-03-20, 18:09:29](https://news.ycombinator.com/item?id=35235952) - [SVG Backgrounds](https://www.svgbackgrounds.com/)
 * [2023-03-20, 17:56:59](https://news.ycombinator.com/item?id=35235732) - [Tell HN: MailChimp blacklists your IP if you open the browser&#x27;s dev tools](https://news.ycombinator.com/item?id=35235732)
 * [2023-03-20, 17:50:32](https://news.ycombinator.com/item?id=35235616) - [Garmi, a robot nurse and companion for Germany’s elderly population](https://www.popsci.com/technology/garmi-germany-elderly-robot/)
-* [2023-03-20, 17:00:39](https://news.ycombinator.com/item?id=35234708) - [Ivy (YC W23) is hiring engineers to unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-03-20, 16:38:55](https://news.ycombinator.com/item?id=35234276) - [Show HN: Recursive LLM Prompts](https://github.com/andyk/recursive_llm)
 * [2023-03-20, 16:10:33](https://news.ycombinator.com/item?id=35233725) - [Lessons from a Pessimist: Make Your Pessimism Productive](https://lucumr.pocoo.org/2023/3/20/lessons-from-a-pessimist/)
 * [2023-03-20, 15:56:39](https://news.ycombinator.com/item?id=35233484) - [JEP 442: Foreign Function and Memory API (Third Preview)](https://github.com/minborg/articles/tree/jep442/2023/March/22-jep442-FFM-Third-Preview)
@@ -29,7 +30,6 @@
 * [2023-03-20, 08:52:46](https://news.ycombinator.com/item?id=35228884) - [Command Line One-Liners](https://www.commandlinefu.com/commands/browse)
 * [2023-03-20, 05:27:07](https://news.ycombinator.com/item?id=35227635) - [TinyVG – an alternative binary encoded vector graphics format](https://tinyvg.tech/)
 * [2023-03-20, 05:21:04](https://news.ycombinator.com/item?id=35227600) - [Previous: A NeXT Computer Emulator](https://previous.unixdude.net/)
-* [2023-03-20, 05:15:20](https://news.ycombinator.com/item?id=35227564) - [Pacific Pinball Museum](https://www.pacificpinball.org)
 
 ## [Archives](archives/index.md)
 
