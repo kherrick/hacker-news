@@ -9,6 +9,7 @@
 * [2023-03-20, 21:20:19](https://news.ycombinator.com/item?id=35238937) - [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io)
 * [2023-03-20, 21:16:57](https://news.ycombinator.com/item?id=35238888) - [MIT’s Barry Duncan demonstrates the power of writing in reverse](https://news.mit.edu/2023/barry-duncan-palindromes-writing-reverse-0320)
 * [2023-03-20, 21:16:13](https://news.ycombinator.com/item?id=35238878) - [Why northern Europe is so indebted](https://theloop.ecpr.eu/why-northern-europe-is-so-indebted/)
+* [2023-03-20, 21:12:42](https://news.ycombinator.com/item?id=35238822) - [Building ClickHouse Cloud from Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year)
 * [2023-03-20, 21:00:05](https://news.ycombinator.com/item?id=35238616) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-03-20, 20:38:47](https://news.ycombinator.com/item?id=35238338) - [The genie escapes: Stanford copies the ChatGPT AI for less than $600](https://newatlas.com/technology/stanford-alpaca-cheap-gpt/)
 * [2023-03-20, 20:06:58](https://news.ycombinator.com/item?id=35237830) - [Why use Rust on the back end?](https://blog.adamchalmers.com/why-rust-on-backend/)
