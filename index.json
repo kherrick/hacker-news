@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-03-20, 14:40:59",
-      "https://news.ycombinator.com/item?id=35232178"
-    ],
-    [
-      "Amazon Cutting Another 9k Jobs",
-      "https://slashdot.org/story/23/03/20/1440238/amazon-cutting-another-9000-jobs"
-    ]
-  ],
-  [
-    [
       "2023-03-20, 14:40:35",
       "https://news.ycombinator.com/item?id=35232171"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=35232158"
     ],
     [
-      "Acer (yes, the computer company) is building a fancy electric bike with AI",
+      "Acer is building a fancy electric bike with AI",
       "https://electrek.co/2023/03/20/acer-ebii-electric-bike-ai/"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35232047"
     ],
     [
-      "That Plum Job Listing May Just Be a Ghost",
+      "That plum job listing may just be a ghost",
       "https://www.wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794"
     ]
   ],
@@ -61,12 +51,12 @@
   ],
   [
     [
-      "2023-03-20, 14:21:31",
-      "https://news.ycombinator.com/item?id=35231885"
+      "2023-03-20, 14:19:09",
+      "https://news.ycombinator.com/item?id=35231849"
     ],
     [
-      "Office kitchen wars are back.",
-      "https://slate.com/human-interest/2023/03/office-drama-workplace-advice-kitchen-food-cleaning-fridge.html"
+      "GCHQ cracks Frank Sidebottom&#x27;s codes (2019)",
+      "https://www.bbc.co.uk/news/entertainment-arts-47907370"
     ]
   ],
   [
@@ -75,18 +65,8 @@
       "https://news.ycombinator.com/item?id=35231276"
     ],
     [
-      "The quantum state of a TCP port",
+      "When can two TCP sockets share a local address?",
       "https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 13:25:52",
-      "https://news.ycombinator.com/item?id=35231159"
-    ],
-    [
-      "Who is still inside the metaverse?",
-      "https://nymag.com/intelligencer/article/mark-zuckerberg-metaverse-meta-horizon-worlds.html"
     ]
   ],
   [
@@ -105,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35230837"
     ],
     [
-      "We Added Package.json Support to Deno",
+      "Why we added package.json support to Deno",
       "https://deno.com/blog/package-json-support"
     ]
   ],
@@ -125,7 +105,7 @@
       "https://news.ycombinator.com/item?id=35230740"
     ],
     [
-      "Zippyshare Quits After 17 Years, 45M Visits per Month Makes No Money",
+      "Zippyshare quits after 17 years, 45M visits per month makes no money",
       "https://torrentfreak.com/zippyshare-file-hosting-veteran-calls-it-quits-2006-2023-230320/"
     ]
   ],
@@ -147,6 +127,16 @@
     [
       "The British computer magazine cover tape",
       "https://commodoreformatarchive.com/games-of-the-90s-the-covertapes/"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 10:35:33",
+      "https://news.ycombinator.com/item?id=35229631"
+    ],
+    [
+      "Windows Critical ICMP Remote Code Execution Vulnerability",
+      "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23415"
     ]
   ],
   [
@@ -215,7 +205,7 @@
       "https://news.ycombinator.com/item?id=35227564"
     ],
     [
-      "Pacific Pinball Museum in Alameda, CA",
+      "Pacific Pinball Museum",
       "https://www.pacificpinball.org"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Jaccard Index",
       "https://en.wikipedia.org/wiki/Jaccard_index"
+    ]
+  ],
+  [
+    [
+      "2023-03-19, 18:32:56",
+      "https://news.ycombinator.com/item?id=35222029"
+    ],
+    [
+      "The little-known story behind the 2022 Nobel Prize in physics",
+      "https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/"
     ]
   ],
   [
