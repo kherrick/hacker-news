@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-20, 08:05:18](https://news.ycombinator.com/item?id=35228566) - [Stop spamming the em dash everywhere](https://mikolajbiernat.com/blog/stop-spamming-the-em-dash-everywhere)
 * [2023-03-20, 07:54:49](https://news.ycombinator.com/item?id=35228516) - [Curl 8.0.0](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
 * [2023-03-20, 07:09:13](https://news.ycombinator.com/item?id=35228219) - [Newer data once again shows: the human brain is just a scaled up primate brain](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24712)
 * [2023-03-20, 06:24:02](https://news.ycombinator.com/item?id=35227962) - [Dietary sweetener sucralose is a negative modulator of T cell-mediated responses](https://www.nature.com/articles/s41586-023-05801-6)
@@ -8,6 +7,7 @@
 * [2023-03-20, 05:21:04](https://news.ycombinator.com/item?id=35227600) - [Previous: A NeXT Computer Emulator](https://previous.unixdude.net/)
 * [2023-03-20, 04:15:04](https://news.ycombinator.com/item?id=35227209) - [Meta Layoffs](https://brandur.org/fragments/meta-layoffs)
 * [2023-03-20, 03:24:59](https://news.ycombinator.com/item?id=35226887) - [Ask HN: Why do many CS graduates lack foundational knowledge?](https://news.ycombinator.com/item?id=35226887)
+* [2023-03-20, 02:35:13](https://news.ycombinator.com/item?id=35226586) - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/)
 * [2023-03-20, 02:12:22](https://news.ycombinator.com/item?id=35226420) - [Who becomes an entrepreneur? Insights from research studies](https://www.generalist.com/briefing/who-becomes-an-entrepreneur)
 * [2023-03-20, 02:04:37](https://news.ycombinator.com/item?id=35226364) - [GPTs Are GPTs: An Early Look at the Labor Market Impact Potential of LLMs](https://arxiv.org/abs/2303.10130)
 * [2023-03-20, 01:41:37](https://news.ycombinator.com/item?id=35226197) - [Altstore: Home for apps that push the boundaries of iOS](https://altstore.io/)
