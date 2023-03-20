@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-20, 20:06:58",
+      "https://news.ycombinator.com/item?id=35237830"
+    ],
+    [
+      "Why use Rust on the back end?",
+      "https://blog.adamchalmers.com/why-rust-on-backend/"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 20:05:08",
+      "https://news.ycombinator.com/item?id=35237799"
+    ],
+    [
+      "Chronology Clock",
+      "https://chronologyclock.com/"
+    ]
+  ],
+  [
+    [
       "2023-03-20, 20:04:31",
       "https://news.ycombinator.com/item?id=35237787"
     ],
@@ -77,16 +97,6 @@
     [
       "Tell HN: MailChimp blacklists your IP if you open the browser&#x27;s dev tools",
       "https://news.ycombinator.com/item?id=35235732"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 17:56:21",
-      "https://news.ycombinator.com/item?id=35235721"
-    ],
-    [
-      "JPMorgan advising First Republic on alternatives, including a capital raise",
-      "https://www.cnbc.com/2023/03/20/jpmorgan-advising-first-republic-on-strategic-alternatives-including-a-capital-raise-sources-say.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Command Line One-Liners",
       "https://www.commandlinefu.com/commands/browse"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 08:29:35",
-      "https://news.ycombinator.com/item?id=35228716"
-    ],
-    [
-      "RPC vs. TCP (Redux)",
-      "https://systemsapproach.substack.com/p/rpc-vs-tcp-redux"
     ]
   ],
   [
