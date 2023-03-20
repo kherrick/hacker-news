@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-20, 19:32:57](https://news.ycombinator.com/item?id=35237332) - [Men paying to have their jaws broken in the name of ‘manliness’](https://www.gq-magazine.co.uk/lifestyle/article/jaw-surgery-men)
 * [2023-03-20, 18:38:40](https://news.ycombinator.com/item?id=35236467) - [ChatGPT is down](https://status.openai.com/incidents/jq9232rcmktd)
 * [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
 * [2023-03-20, 18:27:22](https://news.ycombinator.com/item?id=35236272) - [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
@@ -19,6 +18,7 @@
 * [2023-03-20, 14:40:35](https://news.ycombinator.com/item?id=35232171) - [Launch HN: Lume (YC W23) – Generate custom data integrations with AI](https://news.ycombinator.com/item?id=35232171)
 * [2023-03-20, 14:39:08](https://news.ycombinator.com/item?id=35232150) - [Amazon to lay off 9,000 more workers after earlier cuts](https://www.cnbc.com/2023/03/20/amazon-layoffs-company-to-cut-off-9000-more-workers.html)
 * [2023-03-20, 13:35:21](https://news.ycombinator.com/item?id=35231276) - [When can two TCP sockets share a local address?](https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/)
+* [2023-03-20, 13:25:52](https://news.ycombinator.com/item?id=35231159) - [Who is still inside the metaverse?](https://nymag.com/intelligencer/article/mark-zuckerberg-metaverse-meta-horizon-worlds.html)
 * [2023-03-20, 13:22:50](https://news.ycombinator.com/item?id=35231111) - [Cyclists now outnumber motorists in City of London](https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/)
 * [2023-03-20, 13:14:40](https://news.ycombinator.com/item?id=35231012) - [IPCC climate crisis report delivers ‘final warning on 1.5C’](https://www.theguardian.com/environment/2023/mar/20/ipcc-climate-crisis-report-delivers-final-warning-on-15c)
 * [2023-03-20, 12:53:22](https://news.ycombinator.com/item?id=35230766) - [Argbash – Bash Argument Parsing Code Generator](https://argbash.dev)
