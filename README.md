@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-20, 04:41:01](https://news.ycombinator.com/item?id=35227369) - [SVB employees blame remote work for bank failure](https://www.axios.com/2023/03/17/svb-employees-blame-remote-work-for-bank-failure)
 * [2023-03-20, 04:15:04](https://news.ycombinator.com/item?id=35227209) - [Meta Layoffs](https://brandur.org/fragments/meta-layoffs)
 * [2023-03-20, 03:24:59](https://news.ycombinator.com/item?id=35226887) - [Ask HN: Why do many CS graduates lack foundational knowledge?](https://news.ycombinator.com/item?id=35226887)
 * [2023-03-20, 02:35:13](https://news.ycombinator.com/item?id=35226586) - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/)
@@ -25,7 +26,6 @@
 * [2023-03-19, 18:32:56](https://news.ycombinator.com/item?id=35222029) - [The little-known story behind the 2022 Nobel Prize in physics](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
 * [2023-03-19, 18:02:26](https://news.ycombinator.com/item?id=35221742) - [Leaving China](https://www.persuasion.community/p/leaving-china)
 * [2023-03-19, 16:57:25](https://news.ycombinator.com/item?id=35220991) - [Plane Lands&#x2F;Takes Off in Only 20 Feet (2013)](https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet)
-* [2023-03-19, 16:39:00](https://news.ycombinator.com/item?id=35220758) - [The Baumol effect](https://en.wikipedia.org/wiki/Baumol_effect)
 * [2023-03-19, 16:06:08](https://news.ycombinator.com/item?id=35220345) - [Learning the ropes: why Germany is building risk into its playgrounds (2021)](https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds)
 * [2023-03-19, 15:16:59](https://news.ycombinator.com/item?id=35219812) - [People had to be convinced of the usefulness of electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
 * [2023-03-19, 14:29:52](https://news.ycombinator.com/item?id=35219281) - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
