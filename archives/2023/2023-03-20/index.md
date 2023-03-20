@@ -4,10 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 16:10:33](https://news.ycombinator.com/item?id=35233725) - [Lessons from a Pessimist: Make Your Pessimism Productive](https://lucumr.pocoo.org/2023/3/20/lessons-from-a-pessimist/)
+* [2023-03-20, 16:06:19](https://news.ycombinator.com/item?id=35233650) - [OpenAI CEO warns that GPT-4 could be misused for nefarious purposes](https://www.theregister.com/2023/03/20/openai_warns_that_gpt4_could/)
+* [2023-03-20, 15:59:59](https://news.ycombinator.com/item?id=35233534) - [ChatGPT is rendering other people&#x27;s chat history in the sidebar](https://old.reddit.com/r/ChatGPT/)
+* [2023-03-20, 15:59:09](https://news.ycombinator.com/item?id=35233524) - [The hard problem of onboarding horizontal products](https://robhaisfield.com/notes/the-hard-problem-of-onboarding-horizontal-products)
+* [2023-03-20, 15:58:57](https://news.ycombinator.com/item?id=35233523) - [Could UFOs be alien probes? A new 2023 Harvard study explores it [pdf]](https://lweb.cfa.harvard.edu/~loeb/LK1.pdf)
 * [2023-03-20, 15:57:45](https://news.ycombinator.com/item?id=35233500) - [Supreme Court Asked to Strike Down Immunity for Police Who Brutally Beat Student](https://ij.org/press-release/supreme-court-asked-to-strike-down-immunity-for-police-task-force-officers-who-brutally-beat-innocent-college-student/)
 * [2023-03-20, 15:56:39](https://news.ycombinator.com/item?id=35233484) - [JEP 442: Foreign Function and Memory API (Third Preview)](https://github.com/minborg/articles/tree/jep442/2023/March/22-jep442-FFM-Third-Preview)
+* [2023-03-20, 15:56:12](https://news.ycombinator.com/item?id=35233479) - [Paving the Road to Vulkan on Asahi Linux](https://asahilinux.org/2023/03/road-to-vulkan/)
 * [2023-03-20, 15:53:02](https://news.ycombinator.com/item?id=35233429) - [TypeScript cannot emit valid ES modules due to file extension issue (2020)](https://github.com/microsoft/TypeScript/issues/42151)
 * [2023-03-20, 15:28:11](https://news.ycombinator.com/item?id=35232975) - [Nearly Half of Firms Are Drafting Policies on ChatGPT Use](https://www.bloomberg.com/news/articles/2023-03-20/using-chatgpt-at-work-nearly-half-of-firms-are-drafting-policies-on-its-use)
+* [2023-03-20, 14:50:04](https://news.ycombinator.com/item?id=35232326) - [Tinker V: The first RISC-V single-board computer](https://tinker-board.asus.com/product/tinker-v.html?s=09)
 * [2023-03-20, 14:40:59](https://news.ycombinator.com/item?id=35232178) - [Amazon Cutting Another 9k Jobs](https://slashdot.org/story/23/03/20/1440238/amazon-cutting-another-9000-jobs)
 * [2023-03-20, 14:40:35](https://news.ycombinator.com/item?id=35232171) - [Launch HN: Lume (YC W23) – Generate custom data integrations with AI](https://news.ycombinator.com/item?id=35232171)
 * [2023-03-20, 14:39:22](https://news.ycombinator.com/item?id=35232158) - [Acer (yes, the computer company) is building a fancy electric bike with AI](https://electrek.co/2023/03/20/acer-ebii-electric-bike-ai/)
