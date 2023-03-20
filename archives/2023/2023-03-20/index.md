@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 14:40:59](https://news.ycombinator.com/item?id=35232178) - [Amazon Cutting Another 9k Jobs](https://slashdot.org/story/23/03/20/1440238/amazon-cutting-another-9000-jobs)
+* [2023-03-20, 14:39:08](https://news.ycombinator.com/item?id=35232150) - [Amazon to lay off 9,000 more workers after earlier cuts](https://www.cnbc.com/2023/03/20/amazon-layoffs-company-to-cut-off-9000-more-workers.html)
 * [2023-03-20, 14:33:04](https://news.ycombinator.com/item?id=35232047) - [That Plum Job Listing May Just Be a Ghost](https://www.wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794)
 * [2023-03-20, 14:21:31](https://news.ycombinator.com/item?id=35231885) - [Office kitchen wars are back.](https://slate.com/human-interest/2023/03/office-drama-workplace-advice-kitchen-food-cleaning-fridge.html)
+* [2023-03-20, 13:58:12](https://news.ycombinator.com/item?id=35231561) - [LLaMA 7B (Alpaca) running on Google Pixel 7 Pro](https://twitter.com/rupeshsreeraman/status/1637124688290742276)
 * [2023-03-20, 13:35:21](https://news.ycombinator.com/item?id=35231276) - [The quantum state of a TCP port](https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/)
 * [2023-03-20, 13:25:52](https://news.ycombinator.com/item?id=35231159) - [Who is still inside the metaverse?](https://nymag.com/intelligencer/article/mark-zuckerberg-metaverse-meta-horizon-worlds.html)
 * [2023-03-20, 13:22:50](https://news.ycombinator.com/item?id=35231111) - [Cyclists Now Outnumber Motorists in City of London](https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/)
 * [2023-03-20, 13:14:40](https://news.ycombinator.com/item?id=35231012) - [IPCC climate crisis report delivers ‘final warning on 1.5C’](https://www.theguardian.com/environment/2023/mar/20/ipcc-climate-crisis-report-delivers-final-warning-on-15c)
+* [2023-03-20, 12:53:22](https://news.ycombinator.com/item?id=35230766) - [Argbash – Bash Argument Parsing Code Generator](https://argbash.dev)
 * [2023-03-20, 12:50:08](https://news.ycombinator.com/item?id=35230740) - [Zippyshare Quits After 17 Years, 45M Visits per Month Makes No Money](https://torrentfreak.com/zippyshare-file-hosting-veteran-calls-it-quits-2006-2023-230320/)
 * [2023-03-20, 12:10:28](https://news.ycombinator.com/item?id=35230370) - [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
 * [2023-03-20, 11:39:54](https://news.ycombinator.com/item?id=35230118) - [Ask HN: Has anyone here left the big city in pursue of a simpler life?](https://news.ycombinator.com/item?id=35230118)
