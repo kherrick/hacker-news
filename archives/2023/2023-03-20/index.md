@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 13:22:50](https://news.ycombinator.com/item?id=35231111) - [Cyclists Now Outnumber Motorists in City of London](https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/)
 * [2023-03-20, 12:10:28](https://news.ycombinator.com/item?id=35230370) - [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
 * [2023-03-20, 11:39:54](https://news.ycombinator.com/item?id=35230118) - [Ask HN: Has anyone here left the big city in pursue of a simpler life?](https://news.ycombinator.com/item?id=35230118)
 * [2023-03-20, 11:20:28](https://news.ycombinator.com/item?id=35229970) - [Close to 190 banks could face Silicon Valley Bank&#x27;s fate, according to new study](https://www.usatoday.com/story/money/personalfinance/real-estate/2023/03/19/svb-collapse-new-banks-could-fail/11504269002/)
