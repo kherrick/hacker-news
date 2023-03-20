@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-20, 14:21:31](https://news.ycombinator.com/item?id=35231885) - [Office kitchen wars are back.](https://slate.com/human-interest/2023/03/office-drama-workplace-advice-kitchen-food-cleaning-fridge.html)
 * [2023-03-20, 13:35:21](https://news.ycombinator.com/item?id=35231276) - [The quantum state of a TCP port](https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/)
 * [2023-03-20, 13:22:50](https://news.ycombinator.com/item?id=35231111) - [Cyclists Now Outnumber Motorists in City of London](https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/)
 * [2023-03-20, 13:14:40](https://news.ycombinator.com/item?id=35231012) - [IPCC climate crisis report delivers ‘final warning on 1.5C’](https://www.theguardian.com/environment/2023/mar/20/ipcc-climate-crisis-report-delivers-final-warning-on-15c)
@@ -23,7 +24,6 @@
 * [2023-03-19, 23:46:50](https://news.ycombinator.com/item?id=35225097) - [Gallery of Minimal Design Websites](https://minimal.gallery/)
 * [2023-03-19, 23:11:58](https://news.ycombinator.com/item?id=35224772) - [Black widows are losing to brown widows in the fight for attics and garages](https://www.nytimes.com/2023/03/13/science/brown-widows-black-widows.html)
 * [2023-03-19, 23:02:20](https://news.ycombinator.com/item?id=35224666) - [Anti-recruiter prompt injection attack in LinkedIn profile](https://twitter.com/brdskggs/status/1637114268876144640)
-* [2023-03-19, 22:37:43](https://news.ycombinator.com/item?id=35224439) - [BNF was here: What have we done about unnecessary notation diversity (2011) [pdf]](https://www.grammarware.net/text/2012/bnf-was-here.pdf)
 * [2023-03-19, 21:18:49](https://news.ycombinator.com/item?id=35223759) - [Show HN: Chatblade – A CLI Swiss Army Knife for ChatGPT](https://github.com/npiv/chatblade)
 * [2023-03-19, 19:33:41](https://news.ycombinator.com/item?id=35222649) - [Jaccard Index](https://en.wikipedia.org/wiki/Jaccard_index)
 * [2023-03-19, 18:32:56](https://news.ycombinator.com/item?id=35222029) - [The little-known story behind the 2022 Nobel Prize in physics](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
