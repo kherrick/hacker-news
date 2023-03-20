@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 17:59:41](https://news.ycombinator.com/item?id=35235775) - [The cloud backlash has begun: Why big data is pulling compute back on premises](https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/)
+* [2023-03-20, 17:59:12](https://news.ycombinator.com/item?id=35235764) - [Docker’s Bad Week](https://www.infoworld.com/article/3691292/dockers-bad-week.html)
+* [2023-03-20, 17:56:59](https://news.ycombinator.com/item?id=35235732) - [MailChimp blacklists your IP if you open the browser&#x27;s dev tools](https://news.ycombinator.com/item?id=35235732)
 * [2023-03-20, 17:25:12](https://news.ycombinator.com/item?id=35235149) - [IPCC: Climate Change 2023](https://www.ipcc.ch/report/ar6/syr/)
 * [2023-03-20, 17:24:48](https://news.ycombinator.com/item?id=35235141) - [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
 * [2023-03-20, 17:09:09](https://news.ycombinator.com/item?id=35234848) - [Fed Guy: SVB was particularly poorly run](https://fedguy.com/hidden-to-market/#more-6013)
