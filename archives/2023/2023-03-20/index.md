@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 10:29:21](https://news.ycombinator.com/item?id=35229588) - [I Could Rewrite Curl (2021)](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
 * [2023-03-20, 09:39:46](https://news.ycombinator.com/item?id=35229222) - [Flow-Based Programming, a way for AI and humans to develop together](https://bergie.iki.fi/blog/fbp-ai-human-collaboration/)
 * [2023-03-20, 09:20:47](https://news.ycombinator.com/item?id=35229080) - [ChatGPT is Down](https://status.openai.com/incidents/y6cdztrnth60)
 * [2023-03-20, 09:15:18](https://news.ycombinator.com/item?id=35229045) - [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-20, 10:29:21](https://news.ycombinator.com/item?id=35229588) - [I Could Rewrite Curl (2021)](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
 * [2023-03-20, 09:39:46](https://news.ycombinator.com/item?id=35229222) - [Flow-Based Programming, a way for AI and humans to develop together](https://bergie.iki.fi/blog/fbp-ai-human-collaboration/)
 * [2023-03-20, 09:15:18](https://news.ycombinator.com/item?id=35229045) - [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)
 * [2023-03-20, 07:54:49](https://news.ycombinator.com/item?id=35228516) - [Curl 8.0.0](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
@@ -19,7 +20,6 @@
 * [2023-03-19, 23:02:20](https://news.ycombinator.com/item?id=35224666) - [Anti-recruiter prompt injection attack in LinkedIn profile](https://twitter.com/brdskggs/status/1637114268876144640)
 * [2023-03-19, 22:37:43](https://news.ycombinator.com/item?id=35224439) - [BNF was here: What have we done about unnecessary notation diversity (2011) [pdf]](https://www.grammarware.net/text/2012/bnf-was-here.pdf)
 * [2023-03-19, 22:28:18](https://news.ycombinator.com/item?id=35224356) - [Mastodon hit 10M users](https://mastodon.social/@mastodonusercount/110051957865629817)
-* [2023-03-19, 22:12:27](https://news.ycombinator.com/item?id=35224219) - [Glaze: Protecting artists from style mimicry](https://glaze.cs.uchicago.edu/)
 * [2023-03-19, 21:18:49](https://news.ycombinator.com/item?id=35223759) - [Show HN: Chatblade – A CLI Swiss Army Knife for ChatGPT](https://github.com/npiv/chatblade)
 * [2023-03-19, 21:10:58](https://news.ycombinator.com/item?id=35223690) - [Data from Atlassian dumped online after apparent hack](https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/)
 * [2023-03-19, 20:32:18](https://news.ycombinator.com/item?id=35223240) - [Qualcomm has open sourced its aptX and aptX HD encoders](https://old.reddit.com/r/Android/comments/11t16lk/qualcomm_has_open_sourced_its_aptx_and_aptx_hd/)
