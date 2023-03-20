@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-20, 21:32:28](https://news.ycombinator.com/item?id=35239080) - [The Crime of Email at Bowling Green State University](https://academeblog.org/2023/03/20/the-crime-of-email-at-bowling-green-state-university/)
+* [2023-03-20, 22:01:42](https://news.ycombinator.com/item?id=35239397) - [South Korea has the lowest fertility rate, with lessons for us all](https://www.npr.org/2023/03/19/1163341684/south-korea-fertility-rate)
 * [2023-03-20, 21:31:54](https://news.ycombinator.com/item?id=35239070) - [Ars: “Book publishers with surging profits struggle to prove IA hurt sales”](https://arstechnica.com/tech-policy/2023/03/book-publishers-with-surging-profits-struggle-to-prove-internet-archive-hurt-sales/)
 * [2023-03-20, 21:20:19](https://news.ycombinator.com/item?id=35238937) - [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io)
 * [2023-03-20, 21:16:57](https://news.ycombinator.com/item?id=35238888) - [MIT’s Barry Duncan demonstrates the power of writing in reverse](https://news.mit.edu/2023/barry-duncan-palindromes-writing-reverse-0320)
