@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
 * [2023-03-20, 12:10:28](https://news.ycombinator.com/item?id=35230370) - [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
+* [2023-03-20, 11:39:54](https://news.ycombinator.com/item?id=35230118) - [Ask HN: Has anyone here left the big city in pursue of a simpler life?](https://news.ycombinator.com/item?id=35230118)
+* [2023-03-20, 11:20:28](https://news.ycombinator.com/item?id=35229970) - [Close to 190 banks could face Silicon Valley Bank&#x27;s fate, according to new study](https://www.usatoday.com/story/money/personalfinance/real-estate/2023/03/19/svb-collapse-new-banks-could-fail/11504269002/)
 * [2023-03-20, 10:33:26](https://news.ycombinator.com/item?id=35229615) - [Reddit to vacate current headquarters and relocate](https://www.sfgate.com/tech/article/reddit-moves-san-francisco-headquarters-17848389.php)
 * [2023-03-20, 10:29:21](https://news.ycombinator.com/item?id=35229588) - [I Could Rewrite Curl (2021)](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
 * [2023-03-20, 09:39:46](https://news.ycombinator.com/item?id=35229222) - [Flow-Based Programming, a way for AI and humans to develop together](https://bergie.iki.fi/blog/fbp-ai-human-collaboration/)
