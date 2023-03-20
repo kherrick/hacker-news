@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 17:00:39](https://news.ycombinator.com/item?id=35234708) - [Ivy (YC W23) is hiring engineers to unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-03-20, 16:33:10](https://news.ycombinator.com/item?id=35234152) - [Amazon to layoff 9k more employees, including from AWS](https://www.bloomberg.com/news/articles/2023-03-20/amazon-is-laying-off-an-additional-9-000-employees)
 * [2023-03-20, 16:10:33](https://news.ycombinator.com/item?id=35233725) - [Lessons from a Pessimist: Make Your Pessimism Productive](https://lucumr.pocoo.org/2023/3/20/lessons-from-a-pessimist/)
 * [2023-03-20, 16:06:19](https://news.ycombinator.com/item?id=35233650) - [OpenAI CEO warns that GPT-4 could be misused for nefarious purposes](https://www.theregister.com/2023/03/20/openai_warns_that_gpt4_could/)
@@ -15,6 +16,7 @@
 * [2023-03-20, 15:56:39](https://news.ycombinator.com/item?id=35233484) - [JEP 442: Foreign Function and Memory API (Third Preview)](https://github.com/minborg/articles/tree/jep442/2023/March/22-jep442-FFM-Third-Preview)
 * [2023-03-20, 15:56:12](https://news.ycombinator.com/item?id=35233479) - [Paving the Road to Vulkan on Asahi Linux](https://asahilinux.org/2023/03/road-to-vulkan/)
 * [2023-03-20, 15:53:02](https://news.ycombinator.com/item?id=35233429) - [TypeScript cannot emit valid ES modules due to file extension issue (2020)](https://github.com/microsoft/TypeScript/issues/42151)
+* [2023-03-20, 15:30:05](https://news.ycombinator.com/item?id=35233008) - [South Korea has the lowest fertility rate, which has lessons for us all](https://text.npr.org/1163341684)
 * [2023-03-20, 15:28:11](https://news.ycombinator.com/item?id=35232975) - [Nearly Half of Firms Are Drafting Policies on ChatGPT Use](https://www.bloomberg.com/news/articles/2023-03-20/using-chatgpt-at-work-nearly-half-of-firms-are-drafting-policies-on-its-use)
 * [2023-03-20, 14:50:04](https://news.ycombinator.com/item?id=35232326) - [Tinker V: The first RISC-V single-board computer](https://tinker-board.asus.com/product/tinker-v.html?s=09)
 * [2023-03-20, 14:40:59](https://news.ycombinator.com/item?id=35232178) - [Amazon Cutting Another 9k Jobs](https://slashdot.org/story/23/03/20/1440238/amazon-cutting-another-9000-jobs)
