@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-21, 07:18:28](https://news.ycombinator.com/item?id=35243355) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
+* [2023-03-21, 07:12:13](https://news.ycombinator.com/item?id=35243310) - [Psychedelic brew ayahuasca’s profound impact revealed in brain scans](https://www.theguardian.com/science/2023/mar/20/psychedelic-brew-ayahuasca-profound-impact-brain-scans-dmt)
+* [2023-03-21, 06:16:08](https://news.ycombinator.com/item?id=35243037) - [Curl 8.0.1 because I jinxed it](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-1-because-i-jinxed-it/)
 * [2023-03-21, 05:51:43](https://news.ycombinator.com/item?id=35242931) - [The Yamaha NS10 Story (2008)](https://www.soundonsound.com/reviews/yamaha-ns10-story)
 * [2023-03-21, 04:44:28](https://news.ycombinator.com/item?id=35242662) - [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu/)
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
 * [2023-03-21, 03:21:01](https://news.ycombinator.com/item?id=35242174) - [Show HN: Professional headshots for remote team with AI](https://www.headshotpro.com/)
 * [2023-03-21, 03:03:13](https://news.ycombinator.com/item?id=35242069) - [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
-* [2023-03-21, 00:41:40](https://news.ycombinator.com/item?id=35240999) - [Can GPT-4 and GPT-3.5 play Wordle?](https://twitter.com/biz84/status/1637793452879405064)
 * [2023-03-21, 00:37:08](https://news.ycombinator.com/item?id=35240962) - [Clifford Stoll beat the Russians, then made useless, wondrous objects (2016)](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/)
 * [2023-03-21, 00:36:02](https://news.ycombinator.com/item?id=35240951) - [Bank Failures Come in Waves](https://yarn.pranshum.com/banks2)
 * [2023-03-20, 22:56:42](https://news.ycombinator.com/item?id=35240039) - [Vallejo CA police shared data in violation of state law, watchdog says](https://www.vallejosun.com/vallejo-police-shared-data-in-violation-of-state-law-watchdog-alleges/)
@@ -27,7 +28,6 @@
 * [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
 * [2023-03-20, 18:27:22](https://news.ycombinator.com/item?id=35236272) - [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-03-20, 18:09:29](https://news.ycombinator.com/item?id=35235952) - [SVG Backgrounds](https://www.svgbackgrounds.com/)
-* [2023-03-20, 16:38:55](https://news.ycombinator.com/item?id=35234276) - [Show HN: Recursive LLM Prompts](https://github.com/andyk/recursive_llm)
 * [2023-03-20, 15:56:12](https://news.ycombinator.com/item?id=35233479) - [Paving the Road to Vulkan on Asahi Linux](https://asahilinux.org/2023/03/road-to-vulkan/)
 * [2023-03-20, 14:40:35](https://news.ycombinator.com/item?id=35232171) - [Launch HN: Lume (YC W23) – Generate custom data integrations with AI](https://news.ycombinator.com/item?id=35232171)
 
