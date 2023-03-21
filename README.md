@@ -7,7 +7,7 @@
 * [2023-03-21, 07:12:13](https://news.ycombinator.com/item?id=35243310) - [Psychedelic brew ayahuasca’s profound impact revealed in brain scans](https://www.theguardian.com/science/2023/mar/20/psychedelic-brew-ayahuasca-profound-impact-brain-scans-dmt)
 * [2023-03-21, 06:16:08](https://news.ycombinator.com/item?id=35243037) - [Curl 8.0.1 because I jinxed it](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-1-because-i-jinxed-it/)
 * [2023-03-21, 05:51:43](https://news.ycombinator.com/item?id=35242931) - [The Yamaha NS10 Story (2008)](https://www.soundonsound.com/reviews/yamaha-ns10-story)
-* [2023-03-21, 04:44:28](https://news.ycombinator.com/item?id=35242662) - [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu/)
+* [2023-03-21, 04:44:28](https://news.ycombinator.com/item?id=35242662) - [An Introduction to Computer Networks (2020)](https://intronetworks.cs.luc.edu/)
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
 * [2023-03-21, 03:03:13](https://news.ycombinator.com/item?id=35242069) - [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
