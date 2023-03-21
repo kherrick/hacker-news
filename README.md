@@ -18,7 +18,6 @@
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
 * [2023-03-21, 03:03:13](https://news.ycombinator.com/item?id=35242069) - [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
-* [2023-03-21, 01:03:49](https://news.ycombinator.com/item?id=35241212) - [Show HN: Get a Professional Headshot in Minutes with AI](https://virtualface.app)
 * [2023-03-21, 00:37:08](https://news.ycombinator.com/item?id=35240962) - [Clifford Stoll beat the Russians, then made useless, wondrous objects (2016)](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/)
 * [2023-03-21, 00:36:02](https://news.ycombinator.com/item?id=35240951) - [Bank failures come in waves](https://yarn.pranshum.com/banks2)
 * [2023-03-20, 22:50:03](https://news.ycombinator.com/item?id=35239972) - [Run 100B+ language models at home, BitTorrent‑style](https://petals.ml/)
@@ -30,6 +29,7 @@
 * [2023-03-19, 11:27:46](https://news.ycombinator.com/item?id=35217945) - [A Whale-Oiled Machine](https://99percentinvisible.org/episode/a-whale-oiled-machine/)
 * [2023-03-19, 07:20:44](https://news.ycombinator.com/item?id=35216787) - [Perturbation Theory](https://en.wikipedia.org/wiki/Perturbation_theory)
 * [2023-03-19, 04:59:00](https://news.ycombinator.com/item?id=35216186) - [“Takumi No Waza” – Japan&#x27;s famous Green Bell Nail Clippers](https://one-from-nippon.ghost.io/green-bell-nail-clippers/)
+* [2023-03-18, 10:50:51](https://news.ycombinator.com/item?id=35207941) - [Thoughts on Video Editing (2022)](https://brickexperimentchannel.wordpress.com/2022/10/24/thoughts-on-video-editing/)
 
 ## [Archives](archives/index.md)
 
