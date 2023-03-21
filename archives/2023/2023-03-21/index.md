@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 16:14:58](https://news.ycombinator.com/item?id=35248296) - [Dpreview.com is coming to an end](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
+* [2023-03-21, 16:08:53](https://news.ycombinator.com/item?id=35248213) - [Consider Phlebas Published by the Folio Society](https://www.foliosociety.com/row/consider-phlebas.html)
+* [2023-03-21, 16:07:00](https://news.ycombinator.com/item?id=35248188) - [“Off Switch” Makes Explosives Safer](https://physics.aps.org/articles/v16/44)
+* [2023-03-21, 16:01:34](https://news.ycombinator.com/item?id=35248098) - [So you&#x27;ve installed `fzf`. Now what?](https://andrew-quinn.me/fzf/)
 * [2023-03-21, 15:39:19](https://news.ycombinator.com/item?id=35247759) - [Java Was Strongly Influenced by Objective-C](https://cs.gmu.edu/~sean/stuff/java-objc.html)
 * [2023-03-21, 15:24:51](https://news.ycombinator.com/item?id=35247557) - [Why Construction Projects Always Go over Budget](https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget)
+* [2023-03-21, 15:11:28](https://news.ycombinator.com/item?id=35247346) - [CanceledGPT: Finds and revises your old offensive tweets before you get canceled](https://canceledgpt.com/)
 * [2023-03-21, 15:08:22](https://news.ycombinator.com/item?id=35247299) - [Avoiding Errors in Demo Day Fundraising](https://blog.aaronkharris.com/avoiding-errors-in-demo-day-fundraising)
 * [2023-03-21, 15:05:11](https://news.ycombinator.com/item?id=35247242) - [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
 * [2023-03-21, 15:00:08](https://news.ycombinator.com/item?id=35247174) - [Image Creator in Bing](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/)
