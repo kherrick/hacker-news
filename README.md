@@ -5,7 +5,6 @@
 * [2023-03-21, 21:11:59](https://news.ycombinator.com/item?id=35252637) - [Polio cases in Africa linked to new oral vaccine](https://www.science.org/content/article/first-polio-cases-linked-new-oral-vaccine-detected-africa)
 * [2023-03-21, 21:10:47](https://news.ycombinator.com/item?id=35252618) - [Grace Hopper on Late Night with David Letterman (1986)](https://www.youtube.com/watch?v=oE2uls6iIEU)
 * [2023-03-21, 21:01:16](https://news.ycombinator.com/item?id=35252498) - [Etleap (YC W13) is hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
-* [2023-03-21, 20:59:09](https://news.ycombinator.com/item?id=35252473) - [The USA Inflation Rate by Truflation Is 4.21%](https://truflation.com/)
 * [2023-03-21, 20:57:07](https://news.ycombinator.com/item?id=35252440) - [Oliver Stone Releases Trailer for His Pro-Nuclear Energy Movie](https://www.hollywoodreporter.com/movies/movie-news/oliver-stone-nuclear-now-trailer-1235357522/)
 * [2023-03-21, 20:55:37](https://news.ycombinator.com/item?id=35252416) - [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
 * [2023-03-21, 20:28:48](https://news.ycombinator.com/item?id=35252056) - [Intel graphics chief Raja Koduri leaves after five years battling Nvidia and AMD](https://www.theverge.com/2023/3/21/23650611/intel-raja-koduri-gpus-amd-nvidia-apple-leave-ai-startup)
@@ -30,6 +29,7 @@
 * [2023-03-21, 14:02:34](https://news.ycombinator.com/item?id=35246228) - [Strong Consistency with Raft and SQLite](https://blog.sqlitecloud.io/strong-consistency-with-raft-and-sqlite)
 * [2023-03-21, 13:55:58](https://news.ycombinator.com/item?id=35246139) - [Adobe Firefly: AI Art Generator](https://www.adobe.com/sensei/generative-ai/firefly.html)
 * [2023-03-19, 11:27:46](https://news.ycombinator.com/item?id=35217945) - [A Whale-Oiled Machine](https://99percentinvisible.org/episode/a-whale-oiled-machine/)
+* [2023-03-19, 09:54:36](https://news.ycombinator.com/item?id=35217505) - [Intel Thunder Bay Is Officially Canceled, Linux Driver Code to Be Removed](https://www.phoronix.com/news/Intel-Thunder-Bay-Cancelled)
 
 ## [Archives](archives/index.md)
 

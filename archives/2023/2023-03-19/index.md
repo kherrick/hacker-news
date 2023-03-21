@@ -77,6 +77,7 @@
 * [2023-03-19, 10:44:59](https://news.ycombinator.com/item?id=35217733) - [This Time It&#x27;s Different](https://www.justus.pw/posts/2023-03-19-this-time-its-different.html)
 * [2023-03-19, 10:31:03](https://news.ycombinator.com/item?id=35217666) - [Twitter Blue breaks EU consumer law by showing prices without tax](https://www.businessinsider.com/elon-musk-twitter-blue-breaking-rules-unfair-business-practices-eu-2023-3)
 * [2023-03-19, 10:02:08](https://news.ycombinator.com/item?id=35217536) - [Make your own ChatGPT UI](https://github.com/enricoros/nextjs-chatgpt-app)
+* [2023-03-19, 09:54:36](https://news.ycombinator.com/item?id=35217505) - [Intel Thunder Bay Is Officially Canceled, Linux Driver Code to Be Removed](https://www.phoronix.com/news/Intel-Thunder-Bay-Cancelled)
 * [2023-03-19, 09:24:36](https://news.ycombinator.com/item?id=35217361) - [Plans to repopulate Hawaii’s forests with its crows have been upended](https://www.washingtonpost.com/climate-environment/2023/03/17/hawaiian-crow-alala-hawk-io/)
 * [2023-03-19, 08:58:23](https://news.ycombinator.com/item?id=35217226) - [Tell HN: Instagram&#x27;s API has broken, support tickets ignored, status page green](https://news.ycombinator.com/item?id=35217226)
 * [2023-03-19, 08:41:34](https://news.ycombinator.com/item?id=35217139) - [Greening the desert: the architect regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
