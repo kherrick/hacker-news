@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-21, 18:18:00](https://news.ycombinator.com/item?id=35250210) - [Typst, a modern alternative to LaTeX, is now open source](https://github.com/typst/typst)
+* [2023-03-21, 18:03:09](https://news.ycombinator.com/item?id=35249971) - [Windows Snipping Tool is vulnerable to Acropalypse too](https://twitter.com/David3141593/status/1638222624084951040)
 * [2023-03-21, 17:41:12](https://news.ycombinator.com/item?id=35249654) - [I Returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
 * [2023-03-21, 17:26:52](https://news.ycombinator.com/item?id=35249438) - [How TikTok Broke the Ad Business](https://www.economist.com/business/2023/03/21/how-tiktok-broke-the-ad-business)
 * [2023-03-21, 17:10:42](https://news.ycombinator.com/item?id=35249210) - [Rolling Stone left out the reason why FBI raided journalist&#x27;s home](https://www.npr.org/2023/03/21/1164360143/rolling-stone-fbi-raid-journalist-james-gordon-meek)
@@ -22,8 +24,6 @@
 * [2023-03-21, 14:02:34](https://news.ycombinator.com/item?id=35246228) - [Strong Consistency with Raft and SQLite](https://blog.sqlitecloud.io/strong-consistency-with-raft-and-sqlite)
 * [2023-03-21, 13:55:58](https://news.ycombinator.com/item?id=35246139) - [Adobe Firefly: AI Art Generator](https://www.adobe.com/sensei/generative-ai/firefly.html)
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
-* [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
-* [2023-03-19, 19:48:31](https://news.ycombinator.com/item?id=35222817) - [Show HN: Harmonized Data Platform](https://news.ycombinator.com/item?id=35222817)
 * [2023-03-19, 11:27:46](https://news.ycombinator.com/item?id=35217945) - [A Whale-Oiled Machine](https://99percentinvisible.org/episode/a-whale-oiled-machine/)
 * [2023-03-19, 07:20:44](https://news.ycombinator.com/item?id=35216787) - [Perturbation Theory](https://en.wikipedia.org/wiki/Perturbation_theory)
 * [2023-03-19, 03:51:12](https://news.ycombinator.com/item?id=35215870) - [A Rant on Terra (2019)](https://erikmcclure.com/blog/a-rant-on-terra/)

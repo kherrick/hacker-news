@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 18:18:00](https://news.ycombinator.com/item?id=35250210) - [Typst, a modern alternative to LaTeX, is now open source](https://github.com/typst/typst)
+* [2023-03-21, 18:03:09](https://news.ycombinator.com/item?id=35249971) - [Windows Snipping Tool is vulnerable to Acropalypse too](https://twitter.com/David3141593/status/1638222624084951040)
 * [2023-03-21, 17:41:12](https://news.ycombinator.com/item?id=35249654) - [I Returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
 * [2023-03-21, 17:26:52](https://news.ycombinator.com/item?id=35249438) - [How TikTok Broke the Ad Business](https://www.economist.com/business/2023/03/21/how-tiktok-broke-the-ad-business)
 * [2023-03-21, 17:10:42](https://news.ycombinator.com/item?id=35249210) - [Rolling Stone left out the reason why FBI raided journalist&#x27;s home](https://www.npr.org/2023/03/21/1164360143/rolling-stone-fbi-raid-journalist-james-gordon-meek)
