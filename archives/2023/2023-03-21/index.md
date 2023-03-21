@@ -9,6 +9,7 @@
 * [2023-03-21, 07:18:28](https://news.ycombinator.com/item?id=35243355) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 * [2023-03-21, 07:16:53](https://news.ycombinator.com/item?id=35243342) - [Ask HN: Tips for a new team lead who is hiring](https://news.ycombinator.com/item?id=35243342)
 * [2023-03-21, 07:12:13](https://news.ycombinator.com/item?id=35243310) - [Psychedelic brew ayahuasca’s profound impact revealed in brain scans](https://www.theguardian.com/science/2023/mar/20/psychedelic-brew-ayahuasca-profound-impact-brain-scans-dmt)
+* [2023-03-21, 06:40:47](https://news.ycombinator.com/item?id=35243154) - [Show HN: Vore](https://vore.website/)
 * [2023-03-21, 06:16:08](https://news.ycombinator.com/item?id=35243037) - [Curl 8.0.1 because I jinxed it](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-1-because-i-jinxed-it/)
 * [2023-03-21, 05:51:43](https://news.ycombinator.com/item?id=35242931) - [The Yamaha NS10 Story (2008)](https://www.soundonsound.com/reviews/yamaha-ns10-story)
 * [2023-03-21, 05:36:13](https://news.ycombinator.com/item?id=35242868) - [Amazon layoffs: Another 9k employees being let go](https://www.semafor.com/article/03/20/2023/amazon-layoffs-another-9000-employees-being-let-go)
