@@ -14,7 +14,7 @@
 * [2023-03-20, 22:52:11](https://news.ycombinator.com/item?id=35239993) - [DNA, AI facial reconstruction, and grit identified Somerton Man 75 years later](https://spectrum.ieee.org/somerton-man)
 * [2023-03-20, 22:50:03](https://news.ycombinator.com/item?id=35239972) - [Run 100B+ language models at home, BitTorrent‑style](https://petals.ml/)
 * [2023-03-20, 22:29:50](https://news.ycombinator.com/item?id=35239746) - [Credit Suisse’s takeover causes turmoil in a $275B bond market](https://www.economist.com/finance-and-economics/2023/03/20/credit-suisses-takeover-causes-turmoil-in-a-275bn-bond-market)
-* [2023-03-20, 22:18:48](https://news.ycombinator.com/item?id=35239607) - [Twitch.tv Lays of 400 Employees](https://blog.twitch.tv/en/2023/03/20/an-update-about-our-workforce/)
+* [2023-03-20, 21:31:54](https://news.ycombinator.com/item?id=35239070) - [Ars: “Book publishers with surging profits struggle to prove IA hurt sales”](https://arstechnica.com/tech-policy/2023/03/book-publishers-with-surging-profits-struggle-to-prove-internet-archive-hurt-sales/)
 * [2023-03-20, 21:20:19](https://news.ycombinator.com/item?id=35238937) - [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io)
 * [2023-03-20, 21:18:17](https://news.ycombinator.com/item?id=35238906) - [macOS Cursors](https://mac-cursors.netlify.app)
 * [2023-03-20, 21:16:57](https://news.ycombinator.com/item?id=35238888) - [MIT’s Barry Duncan demonstrates the power of writing in reverse](https://news.mit.edu/2023/barry-duncan-palindromes-writing-reverse-0320)
