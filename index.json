@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-21, 21:10:47",
+      "https://news.ycombinator.com/item?id=35252618"
+    ],
+    [
+      "Grace Hopper on Late Night with David Letterman (1986)",
+      "https://www.youtube.com/watch?v=oE2uls6iIEU"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 21:01:16",
       "https://news.ycombinator.com/item?id=35252498"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35252206"
     ],
     [
-      "Create an IAM Role and Ass a User",
+      "Create an IAM group and ass a user",
       "https://docs.aws.amazon.com/IAM/latest/UserGuide/example_iam_Scenario_GroupBasics_section.html"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Adobe Firefly: AI Art Generator",
       "https://www.adobe.com/sensei/generative-ai/firefly.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 03:24:12",
-      "https://news.ycombinator.com/item?id=35242193"
-    ],
-    [
-      "Zero-1-to-3: Zero-shot One Image to 3D Object",
-      "https://zero123.cs.columbia.edu/"
     ]
   ],
   [
