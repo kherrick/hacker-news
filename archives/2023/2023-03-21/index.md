@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 19:58:31](https://news.ycombinator.com/item?id=35251677) - [Grover&#x27;s Algorithm Offers No Quantum Advantage](https://arxiv.org/abs/2303.11317)
+* [2023-03-21, 19:45:28](https://news.ycombinator.com/item?id=35251505) - [Top highest-earning Substack newsletters generate over $22M a year](https://pressgazette.co.uk/newsletters/highest-earning-substacks/)
 * [2023-03-21, 19:00:20](https://news.ycombinator.com/item?id=35250873) - [PDF&#x2F;A-3, PDF for Long-Term Preservation, Use of ISO 32000-1... (2020)](https://www.loc.gov/preservation/digital/formats/fdd/fdd000360.shtml)
 * [2023-03-21, 18:40:39](https://news.ycombinator.com/item?id=35250564) - [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
 * [2023-03-21, 18:18:00](https://news.ycombinator.com/item?id=35250210) - [Typst, a modern alternative to LaTeX, is now open source](https://github.com/typst/typst)
