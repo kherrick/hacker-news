@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 14:10:29](https://news.ycombinator.com/item?id=35246337) - [Hundreds of Thousands of Iraqis Were Killed in the War. One Was My Brother](https://www.thefp.com/p/hundreds-of-thousands-of-iraqis-were)
+* [2023-03-21, 14:08:50](https://news.ycombinator.com/item?id=35246310) - [Google Launches Bard AI Chatbot to Counter ChatGPT](https://www.wsj.com/articles/google-launches-bard-ai-chatbot-to-counter-chatgpt-2200c357)
 * [2023-03-21, 14:08:03](https://news.ycombinator.com/item?id=35246303) - [Try Google&#x27;s Bard](https://blog.google/technology/ai/try-bard/)
 * [2023-03-21, 14:06:58](https://news.ycombinator.com/item?id=35246292) - [Launch HN: Frigade (YC W23) – Faster, better product onboarding](https://news.ycombinator.com/item?id=35246292)
+* [2023-03-21, 14:04:40](https://news.ycombinator.com/item?id=35246260) - [Google Bard enters open beta](https://bard.google.com/)
 * [2023-03-21, 14:04:17](https://news.ycombinator.com/item?id=35246253) - [Google Releases Bard, Its Competitor in the Race to Create A.I. Chatbots](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
+* [2023-03-21, 13:55:58](https://news.ycombinator.com/item?id=35246139) - [Adobe Firefly: AI Art Generator](https://www.adobe.com/sensei/generative-ai/firefly.html)
 * [2023-03-21, 13:26:24](https://news.ycombinator.com/item?id=35245784) - [Exploding Whale 50th Anniversary, Remastered [video]](https://www.youtube.com/watch?v=V6CLumsir34)
 * [2023-03-21, 13:22:38](https://news.ycombinator.com/item?id=35245748) - [Spermaceti](https://en.wikipedia.org/wiki/Spermaceti)
 * [2023-03-21, 13:18:02](https://news.ycombinator.com/item?id=35245692) - [Anxiety Strikes $8T Mortgage-Debt Market After SVB Collapse](https://www.wsj.com/articles/anxiety-strikes-8-trillion-mortgage-debt-market-after-svb-collapse-15ef0207)
