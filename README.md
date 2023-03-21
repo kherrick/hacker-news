@@ -3,7 +3,6 @@
 * [2023-03-21, 19:58:31](https://news.ycombinator.com/item?id=35251677) - [Grover&#x27;s Algorithm Offers No Quantum Advantage](https://arxiv.org/abs/2303.11317)
 * [2023-03-21, 19:45:28](https://news.ycombinator.com/item?id=35251505) - [Top highest-earning Substack newsletters generate over $22M a year](https://pressgazette.co.uk/newsletters/highest-earning-substacks/)
 * [2023-03-21, 19:00:20](https://news.ycombinator.com/item?id=35250873) - [PDF&#x2F;A-3, PDF for Long-Term Preservation, Use of ISO 32000-1... (2020)](https://www.loc.gov/preservation/digital/formats/fdd/fdd000360.shtml)
-* [2023-03-21, 18:40:39](https://news.ycombinator.com/item?id=35250564) - [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
 * [2023-03-21, 18:18:00](https://news.ycombinator.com/item?id=35250210) - [Typst, a new markup-based typesetting system, is now open source](https://github.com/typst/typst)
 * [2023-03-21, 18:07:01](https://news.ycombinator.com/item?id=35250045) - [Switzerland bans deferred bonuses for Credit Suisse staff](https://www.ft.com/content/cb213446-332d-4689-8911-e0371c2eb287)
 * [2023-03-21, 18:03:09](https://news.ycombinator.com/item?id=35249971) - [Windows Snipping Tool is vulnerable to Acropalypse too](https://twitter.com/David3141593/status/1638222624084951040)
@@ -29,6 +28,7 @@
 * [2023-03-21, 13:55:58](https://news.ycombinator.com/item?id=35246139) - [Adobe Firefly: AI Art Generator](https://www.adobe.com/sensei/generative-ai/firefly.html)
 * [2023-03-21, 11:56:19](https://news.ycombinator.com/item?id=35245008) - [Portable Game Notation Specification and Implementation Guide](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
+* [2023-03-20, 22:50:03](https://news.ycombinator.com/item?id=35239972) - [Run 100B+ language models at home, BitTorrent‑style](https://petals.ml/)
 * [2023-03-19, 11:27:46](https://news.ycombinator.com/item?id=35217945) - [A Whale-Oiled Machine](https://99percentinvisible.org/episode/a-whale-oiled-machine/)
 
 ## [Archives](archives/index.md)
