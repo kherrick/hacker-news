@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 22:46:40](https://news.ycombinator.com/item?id=35253785) - [Ask HN: Year old CS student. Should I continue?](https://news.ycombinator.com/item?id=35253785)
 * [2023-03-21, 21:52:01](https://news.ycombinator.com/item?id=35253098) - [The collapse of companies like SVB is triggering demand for corporate merch](https://www.modernretail.co/marketing/the-collapse-of-companies-like-svb-is-triggering-demand-for-limited-edition-corporate-merch/)
 * [2023-03-21, 21:51:31](https://news.ycombinator.com/item?id=35253088) - [Can AI-Generated Text Be Reliably Detected?](https://arxiv.org/abs/2303.11156)
 * [2023-03-21, 21:29:17](https://news.ycombinator.com/item?id=35252837) - [Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-21, 22:46:40](https://news.ycombinator.com/item?id=35253785) - [Ask HN: Year old CS student. Should I continue?](https://news.ycombinator.com/item?id=35253785)
 * [2023-03-21, 21:52:01](https://news.ycombinator.com/item?id=35253098) - [The collapse of companies like SVB is triggering demand for corporate merch](https://www.modernretail.co/marketing/the-collapse-of-companies-like-svb-is-triggering-demand-for-limited-edition-corporate-merch/)
 * [2023-03-21, 21:51:31](https://news.ycombinator.com/item?id=35253088) - [Can AI-Generated Text Be Reliably Detected?](https://arxiv.org/abs/2303.11156)
 * [2023-03-21, 21:29:17](https://news.ycombinator.com/item?id=35252837) - [Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
@@ -15,7 +16,6 @@
 * [2023-03-21, 18:18:00](https://news.ycombinator.com/item?id=35250210) - [Typst, a new markup-based typesetting system, is now open source](https://github.com/typst/typst)
 * [2023-03-21, 18:03:09](https://news.ycombinator.com/item?id=35249971) - [Windows Snipping Tool is vulnerable to Acropalypse too](https://twitter.com/David3141593/status/1638222624084951040)
 * [2023-03-21, 17:17:55](https://news.ycombinator.com/item?id=35249317) - [PeerTube 5.1](https://joinpeertube.org/news/release-5.1)
-* [2023-03-21, 16:55:25](https://news.ycombinator.com/item?id=35248975) - [Nvidia Announces H100 NVL – Max Memory Server Card for Large Language Models](https://www.anandtech.com/show/18780/nvidia-announces-h100-nvl-max-memory-server-card-for-large-language-models)
 * [2023-03-21, 16:50:58](https://news.ycombinator.com/item?id=35248912) - [Show HN: Public transportation signage based on bloom filters (rough mockup)](https://github.com/jsvan/BusStopBloomfilter)
 * [2023-03-21, 16:28:01](https://news.ycombinator.com/item?id=35248517) - [uBlock Origin 1.48 adds readiness status, code viewer, and other fixes](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
 * [2023-03-21, 16:14:58](https://news.ycombinator.com/item?id=35248296) - [DPReview.com to close](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
