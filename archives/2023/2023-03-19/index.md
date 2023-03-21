@@ -86,6 +86,7 @@
 * [2023-03-19, 07:20:44](https://news.ycombinator.com/item?id=35216787) - [Perturbation Theory](https://en.wikipedia.org/wiki/Perturbation_theory)
 * [2023-03-19, 07:01:24](https://news.ycombinator.com/item?id=35216716) - [GQ.fyi is hiring Rails engineers to build the AI for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
 * [2023-03-19, 06:51:46](https://news.ycombinator.com/item?id=35216668) - [Tool for Thought (2005)](https://stevenberlinjohnson.com/tool-for-thought-b12c170fcc24?gi=c706b45f888b)
+* [2023-03-19, 05:25:15](https://news.ycombinator.com/item?id=35216299) - [What Is a Good Test Case? [pdf]](https://kaner.com/pdfs/GoodTest.pdf)
 * [2023-03-19, 04:59:00](https://news.ycombinator.com/item?id=35216186) - [“Takumi No Waza” – Japan&#x27;s famous Green Bell Nail Clippers](https://one-from-nippon.ghost.io/green-bell-nail-clippers/)
 * [2023-03-19, 04:34:31](https://news.ycombinator.com/item?id=35216075) - [The Curious Case of a Memory Leak in a Zig Program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 03:51:12](https://news.ycombinator.com/item?id=35215870) - [A Rant on Terra (2019)](https://erikmcclure.com/blog/a-rant-on-terra/)
