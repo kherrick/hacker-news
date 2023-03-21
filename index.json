@@ -1,11 +1,51 @@
 [
   [
     [
+      "2023-03-21, 21:01:16",
+      "https://news.ycombinator.com/item?id=35252498"
+    ],
+    [
+      "Etleap (YC W13) is hiring back end developers in London – 50% remote",
+      "https://etleap.com/careers/software-engineer/"
+    ]
+  ],
+  [
+    [
+      "2023-03-21, 20:55:37",
+      "https://news.ycombinator.com/item?id=35252416"
+    ],
+    [
+      "Mostly adequate guide to FP (in JavaScript)",
+      "https://mostly-adequate.gitbook.io/mostly-adequate-guide/"
+    ]
+  ],
+  [
+    [
+      "2023-03-21, 20:40:58",
+      "https://news.ycombinator.com/item?id=35252206"
+    ],
+    [
+      "Create an IAM Role and Ass a User",
+      "https://docs.aws.amazon.com/IAM/latest/UserGuide/example_iam_Scenario_GroupBasics_section.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-21, 20:28:48",
+      "https://news.ycombinator.com/item?id=35252056"
+    ],
+    [
+      "Intel graphics chief Raja Koduri leaves after five years battling Nvidia and AMD",
+      "https://www.theverge.com/2023/3/21/23650611/intel-raja-koduri-gpus-amd-nvidia-apple-leave-ai-startup"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 19:58:31",
       "https://news.ycombinator.com/item?id=35251677"
     ],
     [
-      "Grover&#x27;s Algorithm Offers No Quantum Advantage",
+      "Grover&#x27;s algorithm offers no quantum advantage",
       "https://arxiv.org/abs/2303.11317"
     ]
   ],
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=35251505"
     ],
     [
-      "Top highest-earning Substack newsletters generate over $22M a year",
+      "Top 27 highest-earning substacks generate over $22M a year",
       "https://pressgazette.co.uk/newsletters/highest-earning-substacks/"
     ]
   ],
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2023-03-21, 18:07:01",
-      "https://news.ycombinator.com/item?id=35250045"
-    ],
-    [
-      "Switzerland bans deferred bonuses for Credit Suisse staff",
-      "https://www.ft.com/content/cb213446-332d-4689-8911-e0371c2eb287"
-    ]
-  ],
-  [
-    [
       "2023-03-21, 18:03:09",
       "https://news.ycombinator.com/item?id=35249971"
     ],
@@ -65,28 +95,8 @@
       "https://news.ycombinator.com/item?id=35249317"
     ],
     [
-      "PeerTube 5.1 Is Out",
+      "PeerTube 5.1",
       "https://joinpeertube.org/news/release-5.1"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 17:10:42",
-      "https://news.ycombinator.com/item?id=35249210"
-    ],
-    [
-      "Rolling Stone left out the reason why FBI raided journalist&#x27;s home",
-      "https://www.npr.org/2023/03/21/1164360143/rolling-stone-fbi-raid-journalist-james-gordon-meek"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 17:00:30",
-      "https://news.ycombinator.com/item?id=35249064"
-    ],
-    [
-      "Skio (Subscriptions for Shopify, ReCharge migrations) is hiring",
-      "https://skio.com/careers/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "DPReview.com to close",
       "https://www.dpreview.com/news/5901145460/dpreview-com-to-close"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 16:08:53",
-      "https://news.ycombinator.com/item?id=35248213"
-    ],
-    [
-      "Consider Phlebas Published by the Folio Society",
-      "https://www.foliosociety.com/row/consider-phlebas.html"
     ]
   ],
   [
