@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 21:10:47](https://news.ycombinator.com/item?id=35252618) - [Grace Hopper on Late Night with David Letterman (1986)](https://www.youtube.com/watch?v=oE2uls6iIEU)
 * [2023-03-21, 21:01:16](https://news.ycombinator.com/item?id=35252498) - [Etleap (YC W13) is hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
 * [2023-03-21, 20:57:07](https://news.ycombinator.com/item?id=35252440) - [Oliver Stone Releases Trailer for His Pro-Nuclear Energy Movie](https://www.hollywoodreporter.com/movies/movie-news/oliver-stone-nuclear-now-trailer-1235357522/)
 * [2023-03-21, 20:55:37](https://news.ycombinator.com/item?id=35252416) - [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)

@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-21, 21:10:47](https://news.ycombinator.com/item?id=35252618) - [Grace Hopper on Late Night with David Letterman (1986)](https://www.youtube.com/watch?v=oE2uls6iIEU)
 * [2023-03-21, 21:01:16](https://news.ycombinator.com/item?id=35252498) - [Etleap (YC W13) is hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
 * [2023-03-21, 20:57:07](https://news.ycombinator.com/item?id=35252440) - [Oliver Stone Releases Trailer for His Pro-Nuclear Energy Movie](https://www.hollywoodreporter.com/movies/movie-news/oliver-stone-nuclear-now-trailer-1235357522/)
 * [2023-03-21, 20:55:37](https://news.ycombinator.com/item?id=35252416) - [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
-* [2023-03-21, 20:40:58](https://news.ycombinator.com/item?id=35252206) - [Create an IAM Role and Ass a User](https://docs.aws.amazon.com/IAM/latest/UserGuide/example_iam_Scenario_GroupBasics_section.html)
+* [2023-03-21, 20:40:58](https://news.ycombinator.com/item?id=35252206) - [Create an IAM group and ass a user](https://docs.aws.amazon.com/IAM/latest/UserGuide/example_iam_Scenario_GroupBasics_section.html)
 * [2023-03-21, 20:28:48](https://news.ycombinator.com/item?id=35252056) - [Intel graphics chief Raja Koduri leaves after five years battling Nvidia and AMD](https://www.theverge.com/2023/3/21/23650611/intel-raja-koduri-gpus-amd-nvidia-apple-leave-ai-startup)
 * [2023-03-21, 19:58:31](https://news.ycombinator.com/item?id=35251677) - [Grover&#x27;s algorithm offers no quantum advantage](https://arxiv.org/abs/2303.11317)
 * [2023-03-21, 19:45:28](https://news.ycombinator.com/item?id=35251505) - [Top 27 highest-earning substacks generate over $22M a year](https://pressgazette.co.uk/newsletters/highest-earning-substacks/)
@@ -28,7 +29,6 @@
 * [2023-03-21, 14:04:17](https://news.ycombinator.com/item?id=35246253) - [Google releases Bard to a limited number of users in the US and UK](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
 * [2023-03-21, 14:02:34](https://news.ycombinator.com/item?id=35246228) - [Strong Consistency with Raft and SQLite](https://blog.sqlitecloud.io/strong-consistency-with-raft-and-sqlite)
 * [2023-03-21, 13:55:58](https://news.ycombinator.com/item?id=35246139) - [Adobe Firefly: AI Art Generator](https://www.adobe.com/sensei/generative-ai/firefly.html)
-* [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
 * [2023-03-19, 11:27:46](https://news.ycombinator.com/item?id=35217945) - [A Whale-Oiled Machine](https://99percentinvisible.org/episode/a-whale-oiled-machine/)
 
 ## [Archives](archives/index.md)
