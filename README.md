@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-21, 14:23:54](https://news.ycombinator.com/item?id=35246573) - [Surprise Computer Science Proof Stuns Mathematicians](https://www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/)
 * [2023-03-21, 14:10:29](https://news.ycombinator.com/item?id=35246337) - [Hundreds of Thousands of Iraqis Were Killed in the War. One Was My Brother](https://www.thefp.com/p/hundreds-of-thousands-of-iraqis-were)
 * [2023-03-21, 14:08:50](https://news.ycombinator.com/item?id=35246310) - [Google Launches Bard AI Chatbot to Counter ChatGPT](https://www.wsj.com/articles/google-launches-bard-ai-chatbot-to-counter-chatgpt-2200c357)
 * [2023-03-21, 14:06:58](https://news.ycombinator.com/item?id=35246292) - [Launch HN: Frigade (YC W23) – Faster, better product onboarding](https://news.ycombinator.com/item?id=35246292)
@@ -20,7 +21,6 @@
 * [2023-03-21, 04:11:05](https://news.ycombinator.com/item?id=35242458) - [An Aperiodic Monotile](https://arxiv.org/abs/2303.10798)
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
-* [2023-03-21, 03:03:13](https://news.ycombinator.com/item?id=35242069) - [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
 * [2023-03-21, 00:37:08](https://news.ycombinator.com/item?id=35240962) - [Clifford Stoll beat the Russians, then made useless, wondrous objects (2016)](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/)
 * [2023-03-21, 00:36:02](https://news.ycombinator.com/item?id=35240951) - [Bank failures come in waves](https://yarn.pranshum.com/banks2)
 * [2023-03-20, 22:50:03](https://news.ycombinator.com/item?id=35239972) - [Run 100B+ language models at home, BitTorrent‑style](https://petals.ml/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 14:23:54](https://news.ycombinator.com/item?id=35246573) - [Surprise Computer Science Proof Stuns Mathematicians](https://www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/)
 * [2023-03-21, 14:10:29](https://news.ycombinator.com/item?id=35246337) - [Hundreds of Thousands of Iraqis Were Killed in the War. One Was My Brother](https://www.thefp.com/p/hundreds-of-thousands-of-iraqis-were)
 * [2023-03-21, 14:08:50](https://news.ycombinator.com/item?id=35246310) - [Google Launches Bard AI Chatbot to Counter ChatGPT](https://www.wsj.com/articles/google-launches-bard-ai-chatbot-to-counter-chatgpt-2200c357)
 * [2023-03-21, 14:08:03](https://news.ycombinator.com/item?id=35246303) - [Try Google&#x27;s Bard](https://blog.google/technology/ai/try-bard/)
