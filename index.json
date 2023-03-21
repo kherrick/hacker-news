@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=35250210"
     ],
     [
-      "Typst, a modern alternative to LaTeX, is now open source",
+      "Typst, a new markup-based typesetting system, is now open source",
       "https://github.com/typst/typst"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "Windows Snipping Tool is vulnerable to Acropalypse too",
       "https://twitter.com/David3141593/status/1638222624084951040"
+    ]
+  ],
+  [
+    [
+      "2023-03-21, 17:17:55",
+      "https://news.ycombinator.com/item?id=35249317"
+    ],
+    [
+      "PeerTube 5.1 Is Out",
+      "https://joinpeertube.org/news/release-5.1"
     ]
   ],
   [
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=35248517"
     ],
     [
-      "uBlock 1.48.0 Adds Readiness Status, Code Viewer, and Other Fixes",
+      "uBlock Origin 1.48 adds readiness status, code viewer, and other fixes",
       "https://github.com/gorhill/uBlock/releases/tag/1.48.0"
     ]
   ],
@@ -117,6 +127,16 @@
     [
       "Dpreview.com is coming to an end",
       "https://www.dpreview.com/news/5901145460/dpreview-com-to-close"
+    ]
+  ],
+  [
+    [
+      "2023-03-21, 16:08:53",
+      "https://news.ycombinator.com/item?id=35248213"
+    ],
+    [
+      "Consider Phlebas Published by the Folio Society",
+      "https://www.foliosociety.com/row/consider-phlebas.html"
     ]
   ],
   [
@@ -135,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35248098"
     ],
     [
-      "So you&#x27;ve installed `fzf`. Now what?",
+      "So you&#x27;ve installed `fzf` – now what?",
       "https://andrew-quinn.me/fzf/"
     ]
   ],
@@ -231,72 +251,52 @@
   ],
   [
     [
-      "2023-03-19, 07:20:44",
-      "https://news.ycombinator.com/item?id=35216787"
+      "2023-03-21, 11:56:19",
+      "https://news.ycombinator.com/item?id=35245008"
     ],
     [
-      "Perturbation Theory",
-      "https://en.wikipedia.org/wiki/Perturbation_theory"
+      "Portable Game Notation Specification and Implementation Guide",
+      "http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm"
     ]
   ],
   [
     [
-      "2023-03-19, 05:25:15",
-      "https://news.ycombinator.com/item?id=35216299"
+      "2023-03-21, 03:24:12",
+      "https://news.ycombinator.com/item?id=35242193"
     ],
     [
-      "What Is a Good Test Case? [pdf]",
-      "https://kaner.com/pdfs/GoodTest.pdf"
+      "Zero-1-to-3: Zero-shot One Image to 3D Object",
+      "https://zero123.cs.columbia.edu/"
     ]
   ],
   [
     [
-      "2023-03-19, 03:51:12",
-      "https://news.ycombinator.com/item?id=35215870"
+      "2023-03-20, 22:50:03",
+      "https://news.ycombinator.com/item?id=35239972"
     ],
     [
-      "A Rant on Terra (2019)",
-      "https://erikmcclure.com/blog/a-rant-on-terra/"
+      "Run 100B+ language models at home, BitTorrent‑style",
+      "https://petals.ml/"
     ]
   ],
   [
     [
-      "2023-03-18, 11:31:33",
-      "https://news.ycombinator.com/item?id=35208166"
+      "2023-03-20, 18:27:32",
+      "https://news.ycombinator.com/item?id=35236275"
     ],
     [
-      "CIEL is a ready-to-use collection of Lisp libraries",
-      "http://ciel-lang.org/#/?id=ciel"
+      "Launch HN: Bloop (YC S21) – Code Search with GPT-4",
+      "https://news.ycombinator.com/item?id=35236275"
     ]
   ],
   [
     [
-      "2023-03-18, 10:50:51",
-      "https://news.ycombinator.com/item?id=35207941"
+      "2023-03-19, 11:27:46",
+      "https://news.ycombinator.com/item?id=35217945"
     ],
     [
-      "Thoughts on Video Editing (2022)",
-      "https://brickexperimentchannel.wordpress.com/2022/10/24/thoughts-on-video-editing/"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 08:06:39",
-      "https://news.ycombinator.com/item?id=35207171"
-    ],
-    [
-      "The Io Language",
-      "https://iolanguage.org"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 04:38:05",
-      "https://news.ycombinator.com/item?id=35206141"
-    ],
-    [
-      "Something weird happens to companies when they hit 150 people (2017)",
-      "https://qz.com/846530/something-weird-happens-to-companies-when-they-hit-150-people"
+      "A Whale-Oiled Machine",
+      "https://99percentinvisible.org/episode/a-whale-oiled-machine/"
     ]
   ]
 ]
