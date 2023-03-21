@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 13:22:38](https://news.ycombinator.com/item?id=35245748) - [Spermaceti](https://en.wikipedia.org/wiki/Spermaceti)
+* [2023-03-21, 13:18:02](https://news.ycombinator.com/item?id=35245692) - [Anxiety Strikes $8T Mortgage-Debt Market After SVB Collapse](https://www.wsj.com/articles/anxiety-strikes-8-trillion-mortgage-debt-market-after-svb-collapse-15ef0207)
 * [2023-03-21, 13:12:08](https://news.ycombinator.com/item?id=35245626) - [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
 * [2023-03-21, 12:12:00](https://news.ycombinator.com/item?id=35245130) - [Unchecked corporate pricing power is a factor in US inflation](https://www.ft.com/content/151cb429-d024-4d5c-9edf-5b4a2b104a66)
 * [2023-03-21, 12:05:22](https://news.ycombinator.com/item?id=35245072) - [OpenAI Research Says 80% of U.S. Workers&#x27; Jobs Will Be Impacted by GPT](https://www.vice.com/en/article/g5ypy4/openai-research-says-80-of-us-workers-will-have-jobs-impacted-by-gpt)

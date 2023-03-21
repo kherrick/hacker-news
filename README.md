@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-21, 13:22:38](https://news.ycombinator.com/item?id=35245748) - [Spermaceti](https://en.wikipedia.org/wiki/Spermaceti)
+* [2023-03-21, 13:18:02](https://news.ycombinator.com/item?id=35245692) - [Anxiety Strikes $8T Mortgage-Debt Market After SVB Collapse](https://www.wsj.com/articles/anxiety-strikes-8-trillion-mortgage-debt-market-after-svb-collapse-15ef0207)
 * [2023-03-21, 13:12:08](https://news.ycombinator.com/item?id=35245626) - [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
 * [2023-03-21, 12:12:00](https://news.ycombinator.com/item?id=35245130) - [Unchecked corporate pricing power is a factor in US inflation](https://www.ft.com/content/151cb429-d024-4d5c-9edf-5b4a2b104a66)
 * [2023-03-21, 12:05:22](https://news.ycombinator.com/item?id=35245072) - [OpenAI Research Says 80% of U.S. Workers&#x27; Jobs Will Be Impacted by GPT](https://www.vice.com/en/article/g5ypy4/openai-research-says-80-of-us-workers-will-have-jobs-impacted-by-gpt)
@@ -14,7 +16,6 @@
 * [2023-03-21, 04:11:05](https://news.ycombinator.com/item?id=35242458) - [An Aperiodic Monotile](https://arxiv.org/abs/2303.10798)
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
-* [2023-03-21, 03:21:01](https://news.ycombinator.com/item?id=35242174) - [Show HN: Professional headshots for remote team with AI](https://www.headshotpro.com/)
 * [2023-03-21, 03:03:13](https://news.ycombinator.com/item?id=35242069) - [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
 * [2023-03-21, 01:03:49](https://news.ycombinator.com/item?id=35241212) - [Show HN: Get a Professional Headshot in Minutes with AI](https://virtualface.app)
 * [2023-03-21, 00:37:08](https://news.ycombinator.com/item?id=35240962) - [Clifford Stoll beat the Russians, then made useless, wondrous objects (2016)](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/)
@@ -24,12 +25,11 @@
 * [2023-03-20, 22:50:03](https://news.ycombinator.com/item?id=35239972) - [Run 100B+ language models at home, BitTorrent‑style](https://petals.ml/)
 * [2023-03-20, 20:04:31](https://news.ycombinator.com/item?id=35237787) - [Doors I touched today (1999)](https://fluxus.org/FluxusMidwest/doorknobs/)
 * [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
-* [2023-03-20, 18:27:22](https://news.ycombinator.com/item?id=35236272) - [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
-* [2023-03-20, 18:09:29](https://news.ycombinator.com/item?id=35235952) - [SVG Backgrounds](https://www.svgbackgrounds.com/)
 * [2023-03-20, 15:56:12](https://news.ycombinator.com/item?id=35233479) - [Paving the Road to Vulkan on Asahi Linux](https://asahilinux.org/2023/03/road-to-vulkan/)
 * [2023-03-20, 14:40:35](https://news.ycombinator.com/item?id=35232171) - [Launch HN: Lume (YC W23) – Generate custom data integrations with AI](https://news.ycombinator.com/item?id=35232171)
 * [2023-03-19, 11:27:46](https://news.ycombinator.com/item?id=35217945) - [A Whale-Oiled Machine](https://99percentinvisible.org/episode/a-whale-oiled-machine/)
 * [2023-03-19, 07:20:44](https://news.ycombinator.com/item?id=35216787) - [Perturbation Theory](https://en.wikipedia.org/wiki/Perturbation_theory)
+* [2023-03-19, 04:59:00](https://news.ycombinator.com/item?id=35216186) - [“Takumi No Waza” – Japan&#x27;s famous Green Bell Nail Clippers](https://one-from-nippon.ghost.io/green-bell-nail-clippers/)
 
 ## [Archives](archives/index.md)
 
