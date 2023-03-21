@@ -2,6 +2,7 @@
 
 * [2023-03-21, 05:51:43](https://news.ycombinator.com/item?id=35242931) - [The Yamaha NS10 Story (2008)](https://www.soundonsound.com/reviews/yamaha-ns10-story)
 * [2023-03-21, 05:36:13](https://news.ycombinator.com/item?id=35242868) - [Amazon layoffs: Another 9k employees being let go](https://www.semafor.com/article/03/20/2023/amazon-layoffs-another-9000-employees-being-let-go)
+* [2023-03-21, 04:44:28](https://news.ycombinator.com/item?id=35242662) - [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu/)
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
 * [2023-03-21, 03:21:01](https://news.ycombinator.com/item?id=35242174) - [Show HN: Professional headshots for remote team with AI](https://www.headshotpro.com/)
@@ -9,7 +10,6 @@
 * [2023-03-21, 03:03:13](https://news.ycombinator.com/item?id=35242069) - [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
 * [2023-03-21, 02:21:56](https://news.ycombinator.com/item?id=35241787) - [Stanford’s Alpaca shows that OpenAI may have a problem](https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/)
 * [2023-03-21, 01:08:37](https://news.ycombinator.com/item?id=35241253) - [Google urges Android phone users to switch off Wi-Fi calling](https://scrippsnews.com/stories/how-to-turn-off-wi-fi-calling-on-android-to-combat-hackers/)
-* [2023-03-21, 00:37:08](https://news.ycombinator.com/item?id=35240962) - [How a Berkeley Eccentric Beat the Russians – Then Made Useless, Wondrous Objects](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/)
 * [2023-03-21, 00:36:02](https://news.ycombinator.com/item?id=35240951) - [Bank Failures Come in Waves](https://yarn.pranshum.com/banks2)
 * [2023-03-20, 22:56:42](https://news.ycombinator.com/item?id=35240039) - [Vallejo CA police shared data in violation of state law, watchdog says](https://www.vallejosun.com/vallejo-police-shared-data-in-violation-of-state-law-watchdog-alleges/)
 * [2023-03-20, 22:55:40](https://news.ycombinator.com/item?id=35240029) - [In-Flight Entertainment Challenge](https://blog.mand3l.com/post/712193955168731136/the-inflight-entertainment-challenge)
