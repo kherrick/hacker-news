@@ -11,6 +11,7 @@
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
 * [2023-03-21, 03:03:13](https://news.ycombinator.com/item?id=35242069) - [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
+* [2023-03-21, 02:09:22](https://news.ycombinator.com/item?id=35241695) - [Download, copy and paste free AWS icons in SVG and PNG format for your projects](https://aws-icons.com)
 * [2023-03-21, 00:37:08](https://news.ycombinator.com/item?id=35240962) - [Clifford Stoll beat the Russians, then made useless, wondrous objects (2016)](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/)
 * [2023-03-21, 00:36:02](https://news.ycombinator.com/item?id=35240951) - [Bank Failures Come in Waves](https://yarn.pranshum.com/banks2)
 * [2023-03-20, 22:55:40](https://news.ycombinator.com/item?id=35240029) - [In-Flight Entertainment Challenge](https://blog.mand3l.com/post/712193955168731136/the-inflight-entertainment-challenge)
@@ -27,7 +28,6 @@
 * [2023-03-20, 19:28:23](https://news.ycombinator.com/item?id=35237269) - [Spack – scientific software package manager for supercomputers, Linux, and macOS](https://spack.io/)
 * [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
 * [2023-03-20, 18:27:22](https://news.ycombinator.com/item?id=35236272) - [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
-* [2023-03-20, 18:09:29](https://news.ycombinator.com/item?id=35235952) - [SVG Backgrounds](https://www.svgbackgrounds.com/)
 * [2023-03-20, 15:56:12](https://news.ycombinator.com/item?id=35233479) - [Paving the Road to Vulkan on Asahi Linux](https://asahilinux.org/2023/03/road-to-vulkan/)
 * [2023-03-20, 14:40:35](https://news.ycombinator.com/item?id=35232171) - [Launch HN: Lume (YC W23) – Generate custom data integrations with AI](https://news.ycombinator.com/item?id=35232171)
 
