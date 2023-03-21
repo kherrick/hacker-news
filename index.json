@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-21, 07:18:28",
+      "https://news.ycombinator.com/item?id=35243355"
+    ],
+    [
+      "Web fingerprinting is worse than I thought",
+      "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 05:51:43",
       "https://news.ycombinator.com/item?id=35242931"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2023-03-21, 03:18:37",
-      "https://news.ycombinator.com/item?id=35242160"
-    ],
-    [
-      "Richard Stallman&#x27;s Ted talk in Steve Jobs&#x27; style&#x2F;voice (elevenlabs.io&#x2F;ChatGPT)",
-      "https://old.reddit.com/r/linuxmemes/comments/11w56v1/richard_stallmans_ted_talk_in_the_style_and_voice/"
-    ]
-  ],
-  [
-    [
       "2023-03-21, 03:03:13",
       "https://news.ycombinator.com/item?id=35242069"
     ],
@@ -81,22 +81,12 @@
   ],
   [
     [
-      "2023-03-21, 02:21:56",
-      "https://news.ycombinator.com/item?id=35241787"
+      "2023-03-21, 00:37:08",
+      "https://news.ycombinator.com/item?id=35240962"
     ],
     [
-      "Stanford’s Alpaca shows that OpenAI may have a problem",
-      "https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 01:08:37",
-      "https://news.ycombinator.com/item?id=35241253"
-    ],
-    [
-      "Google urges Android phone users to switch off Wi-Fi calling",
-      "https://scrippsnews.com/stories/how-to-turn-off-wi-fi-calling-on-android-to-combat-hackers/"
+      "Clifford Stoll beat the Russians, then made useless, wondrous objects (2016)",
+      "https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/"
     ]
   ],
   [
@@ -151,12 +141,12 @@
   ],
   [
     [
-      "2023-03-20, 22:29:50",
-      "https://news.ycombinator.com/item?id=35239746"
+      "2023-03-20, 21:20:19",
+      "https://news.ycombinator.com/item?id=35238937"
     ],
     [
-      "Credit Suisse’s takeover causes turmoil in a $275B bond market",
-      "https://www.economist.com/finance-and-economics/2023/03/20/credit-suisses-takeover-causes-turmoil-in-a-275bn-bond-market"
+      "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "https://react-lm.github.io"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "MIT’s Barry Duncan demonstrates the power of writing in reverse",
       "https://news.mit.edu/2023/barry-duncan-palindromes-writing-reverse-0320"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 21:15:58",
+      "https://news.ycombinator.com/item?id=35238876"
+    ],
+    [
+      "Notes on Fast Fourier Transforms for Implementers",
+      "https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-implementers/"
     ]
   ],
   [
