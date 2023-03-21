@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-21, 05:51:43](https://news.ycombinator.com/item?id=35242931) - [The Yamaha NS10 Story (2008)](https://www.soundonsound.com/reviews/yamaha-ns10-story)
 * [2023-03-21, 05:36:13](https://news.ycombinator.com/item?id=35242868) - [Amazon layoffs: Another 9k employees being let go](https://www.semafor.com/article/03/20/2023/amazon-layoffs-another-9000-employees-being-let-go)
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
@@ -15,7 +16,6 @@
 * [2023-03-20, 22:52:11](https://news.ycombinator.com/item?id=35239993) - [DNA, AI facial reconstruction, and grit identified Somerton Man 75 years later](https://spectrum.ieee.org/somerton-man)
 * [2023-03-20, 22:50:03](https://news.ycombinator.com/item?id=35239972) - [Run 100B+ language models at home, BitTorrent‑style](https://petals.ml/)
 * [2023-03-20, 22:29:50](https://news.ycombinator.com/item?id=35239746) - [Credit Suisse’s takeover causes turmoil in a $275B bond market](https://www.economist.com/finance-and-economics/2023/03/20/credit-suisses-takeover-causes-turmoil-in-a-275bn-bond-market)
-* [2023-03-20, 21:20:19](https://news.ycombinator.com/item?id=35238937) - [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io)
 * [2023-03-20, 21:18:17](https://news.ycombinator.com/item?id=35238906) - [macOS Cursors](https://mac-cursors.netlify.app)
 * [2023-03-20, 21:16:57](https://news.ycombinator.com/item?id=35238888) - [MIT’s Barry Duncan demonstrates the power of writing in reverse](https://news.mit.edu/2023/barry-duncan-palindromes-writing-reverse-0320)
 * [2023-03-20, 21:12:42](https://news.ycombinator.com/item?id=35238822) - [Building ClickHouse Cloud from scratch in a year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year)
