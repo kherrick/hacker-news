@@ -82,6 +82,7 @@
 * [2023-03-19, 08:20:09](https://news.ycombinator.com/item?id=35217040) - [To ensure vaccines work properly, men should get a good night’s sleep](https://www.economist.com/science-and-technology/2023/03/15/to-ensure-vaccines-work-properly-men-should-get-a-good-nights-sleep)
 * [2023-03-19, 08:02:37](https://news.ycombinator.com/item?id=35216973) - [Do I Need to Avoid Dark Chocolate Now?](https://www.nytimes.com/2023/02/09/well/eat/dark-chocolate-metal-lead.html)
 * [2023-03-19, 07:42:24](https://news.ycombinator.com/item?id=35216894) - [John Carmack: From a DM, just in case anyone else needs to hear this](https://twitter.com/ID_AA_Carmack/status/1637087219591659520)
+* [2023-03-19, 07:20:44](https://news.ycombinator.com/item?id=35216787) - [Perturbation Theory](https://en.wikipedia.org/wiki/Perturbation_theory)
 * [2023-03-19, 07:01:24](https://news.ycombinator.com/item?id=35216716) - [GQ.fyi is hiring Rails engineers to build the AI for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
 * [2023-03-19, 06:51:46](https://news.ycombinator.com/item?id=35216668) - [Tool for Thought (2005)](https://stevenberlinjohnson.com/tool-for-thought-b12c170fcc24?gi=c706b45f888b)
 * [2023-03-19, 04:34:31](https://news.ycombinator.com/item?id=35216075) - [The Curious Case of a Memory Leak in a Zig Program](https://iamkroot.github.io/blog/zig-memleak)

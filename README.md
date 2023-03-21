@@ -23,13 +23,13 @@
 * [2023-03-20, 21:15:58](https://news.ycombinator.com/item?id=35238876) - [Notes on Fast Fourier Transforms for Implementers](https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-implementers/)
 * [2023-03-20, 21:12:42](https://news.ycombinator.com/item?id=35238822) - [Building ClickHouse Cloud from scratch in a year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year)
 * [2023-03-20, 20:04:31](https://news.ycombinator.com/item?id=35237787) - [Doors I touched today (1999)](https://fluxus.org/FluxusMidwest/doorknobs/)
-* [2023-03-20, 19:28:23](https://news.ycombinator.com/item?id=35237269) - [Spack – scientific software package manager for supercomputers, Linux, and macOS](https://spack.io/)
 * [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
 * [2023-03-20, 18:27:22](https://news.ycombinator.com/item?id=35236272) - [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-03-20, 18:09:29](https://news.ycombinator.com/item?id=35235952) - [SVG Backgrounds](https://www.svgbackgrounds.com/)
 * [2023-03-20, 15:56:12](https://news.ycombinator.com/item?id=35233479) - [Paving the Road to Vulkan on Asahi Linux](https://asahilinux.org/2023/03/road-to-vulkan/)
 * [2023-03-20, 14:40:35](https://news.ycombinator.com/item?id=35232171) - [Launch HN: Lume (YC W23) – Generate custom data integrations with AI](https://news.ycombinator.com/item?id=35232171)
 * [2023-03-19, 11:27:46](https://news.ycombinator.com/item?id=35217945) - [A Whale-Oiled Machine](https://99percentinvisible.org/episode/a-whale-oiled-machine/)
+* [2023-03-19, 07:20:44](https://news.ycombinator.com/item?id=35216787) - [Perturbation Theory](https://en.wikipedia.org/wiki/Perturbation_theory)
 
 ## [Archives](archives/index.md)
 
