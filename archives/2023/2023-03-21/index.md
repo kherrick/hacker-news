@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 17:00:30](https://news.ycombinator.com/item?id=35249064) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2023-03-21, 16:28:01](https://news.ycombinator.com/item?id=35248517) - [uBlock 1.48.0 Adds Readiness Status, Code Viewer, and Other Fixes](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
 * [2023-03-21, 16:14:58](https://news.ycombinator.com/item?id=35248296) - [Dpreview.com is coming to an end](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
 * [2023-03-21, 16:08:53](https://news.ycombinator.com/item?id=35248213) - [Consider Phlebas Published by the Folio Society](https://www.foliosociety.com/row/consider-phlebas.html)

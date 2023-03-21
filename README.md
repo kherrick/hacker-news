@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-21, 17:00:30](https://news.ycombinator.com/item?id=35249064) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2023-03-21, 16:28:01](https://news.ycombinator.com/item?id=35248517) - [uBlock 1.48.0 Adds Readiness Status, Code Viewer, and Other Fixes](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
 * [2023-03-21, 16:14:58](https://news.ycombinator.com/item?id=35248296) - [Dpreview.com is coming to an end](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
 * [2023-03-21, 16:08:53](https://news.ycombinator.com/item?id=35248213) - [Consider Phlebas Published by the Folio Society](https://www.foliosociety.com/row/consider-phlebas.html)
@@ -20,7 +21,6 @@
 * [2023-03-21, 14:02:34](https://news.ycombinator.com/item?id=35246228) - [Strong Consistency with Raft and SQLite](https://blog.sqlitecloud.io/strong-consistency-with-raft-and-sqlite)
 * [2023-03-21, 13:55:58](https://news.ycombinator.com/item?id=35246139) - [Adobe Firefly: AI Art Generator](https://www.adobe.com/sensei/generative-ai/firefly.html)
 * [2023-03-21, 13:12:08](https://news.ycombinator.com/item?id=35245626) - [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
-* [2023-03-21, 12:00:10](https://news.ycombinator.com/item?id=35245035) - [Reclaim Protocol Is Hiring a Cryptography&#x2F;Security Researcher](https://www.ycombinator.com/companies/questbook/jobs/2cAGsSp-cryptography-security-researcher)
 * [2023-03-21, 11:56:19](https://news.ycombinator.com/item?id=35245008) - [Portable Game Notation Specification and Implementation Guide](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm)
 * [2023-03-21, 04:44:28](https://news.ycombinator.com/item?id=35242662) - [An Introduction to Computer Networks (2020)](https://intronetworks.cs.luc.edu/)
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
