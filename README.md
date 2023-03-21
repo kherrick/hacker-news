@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-20, 23:36:30](https://news.ycombinator.com/item?id=35240437) - [Days since last JavaScript framework](https://dayssincelastjavascriptframework.com/)
+* [2023-03-21, 00:41:40](https://news.ycombinator.com/item?id=35240999) - [Can GPT-4 and GPT-3.5 play Wordle?](https://twitter.com/biz84/status/1637793452879405064)
+* [2023-03-21, 00:03:15](https://news.ycombinator.com/item?id=35240695) - [Six Recent Studies Show an Unexpected Increase in Classical Music Listening](https://tedgioia.substack.com/p/six-recent-studies-show-an-unexpected)
+* [2023-03-20, 22:56:42](https://news.ycombinator.com/item?id=35240039) - [Vallejo CA police shared data in violation of state law, watchdog says](https://www.vallejosun.com/vallejo-police-shared-data-in-violation-of-state-law-watchdog-alleges/)
 * [2023-03-20, 22:55:40](https://news.ycombinator.com/item?id=35240029) - [In-Flight Entertainment Challenge](https://blog.mand3l.com/post/712193955168731136/the-inflight-entertainment-challenge)
-* [2023-03-20, 22:52:11](https://news.ycombinator.com/item?id=35239993) - [How An Electrical Engineer Solved Australia’s Most Famous Cold Case](https://spectrum.ieee.org/somerton-man)
-* [2023-03-20, 22:51:52](https://news.ycombinator.com/item?id=35239990) - [It Turns Out That JPMorgan Bought the Nickel That Turned Out to Be Stones](https://www.wsj.com/livecoverage/stock-market-news-today-03-20-2023/card/it-turns-out-that-jpmorgan-bought-the-nickel-that-turned-out-to-be-stones-whWn9TqZaksdTPcGyyAi)
+* [2023-03-20, 22:52:11](https://news.ycombinator.com/item?id=35239993) - [DNA, AI facial reconstruction, and grit identified Somerton Man 75 years later](https://spectrum.ieee.org/somerton-man)
+* [2023-03-20, 22:51:52](https://news.ycombinator.com/item?id=35239990) - [JPMorgan bought the nickel that turned out to be stones](https://www.wsj.com/livecoverage/stock-market-news-today-03-20-2023/card/it-turns-out-that-jpmorgan-bought-the-nickel-that-turned-out-to-be-stones-whWn9TqZaksdTPcGyyAi)
 * [2023-03-20, 22:50:03](https://news.ycombinator.com/item?id=35239972) - [Run 100B+ language models at home, BitTorrent‑style](https://petals.ml/)
 * [2023-03-20, 22:45:28](https://news.ycombinator.com/item?id=35239920) - [Pimoroni introduces Inky Frame with seven-color 4-inch E Ink display](https://goodereader.com/blog/technology/pimoroni-introduces-inky-frame-with-seven-color-4-inch-e-ink-display-for-71)
 * [2023-03-20, 22:29:50](https://news.ycombinator.com/item?id=35239746) - [Credit Suisse’s takeover causes turmoil in a $275B bond market](https://www.economist.com/finance-and-economics/2023/03/20/credit-suisses-takeover-causes-turmoil-in-a-275bn-bond-market)
@@ -28,8 +30,6 @@
 * [2023-03-20, 14:31:44](https://news.ycombinator.com/item?id=35232029) - [Show HN: Open-source cypress for back end testing](https://github.com/traceloop/jest-opentelemetry)
 * [2023-03-20, 13:35:21](https://news.ycombinator.com/item?id=35231276) - [When can two TCP sockets share a local address?](https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/)
 * [2023-03-20, 13:22:50](https://news.ycombinator.com/item?id=35231111) - [Cyclists now outnumber motorists in City of London](https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/)
-* [2023-03-20, 09:54:17](https://news.ycombinator.com/item?id=35229331) - [Cesium-137 missing and found in junk yard in Thailand](https://www.nationthailand.com/thailand/general/40025846)
-* [2023-03-20, 09:15:18](https://news.ycombinator.com/item?id=35229045) - [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)
 
 ## [Archives](archives/index.md)
 
