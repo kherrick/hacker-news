@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-21, 21:11:59](https://news.ycombinator.com/item?id=35252637) - [Polio cases in Africa linked to new oral vaccine](https://www.science.org/content/article/first-polio-cases-linked-new-oral-vaccine-detected-africa)
 * [2023-03-21, 21:10:47](https://news.ycombinator.com/item?id=35252618) - [Grace Hopper on Late Night with David Letterman (1986)](https://www.youtube.com/watch?v=oE2uls6iIEU)
 * [2023-03-21, 21:01:16](https://news.ycombinator.com/item?id=35252498) - [Etleap (YC W13) is hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
 * [2023-03-21, 20:57:07](https://news.ycombinator.com/item?id=35252440) - [Oliver Stone Releases Trailer for His Pro-Nuclear Energy Movie](https://www.hollywoodreporter.com/movies/movie-news/oliver-stone-nuclear-now-trailer-1235357522/)
@@ -14,7 +15,6 @@
 * [2023-03-21, 17:17:55](https://news.ycombinator.com/item?id=35249317) - [PeerTube 5.1](https://joinpeertube.org/news/release-5.1)
 * [2023-03-21, 16:55:25](https://news.ycombinator.com/item?id=35248975) - [Nvidia Announces H100 NVL – Max Memory Server Card for Large Language Models](https://www.anandtech.com/show/18780/nvidia-announces-h100-nvl-max-memory-server-card-for-large-language-models)
 * [2023-03-21, 16:50:58](https://news.ycombinator.com/item?id=35248912) - [Show HN: Public transportation signage based on bloom filters (rough mockup)](https://github.com/jsvan/BusStopBloomfilter)
-* [2023-03-21, 16:39:26](https://news.ycombinator.com/item?id=35248704) - [Show HN: Watermelon – GPT-powered code contextualizer](https://www.watermelontools.com/)
 * [2023-03-21, 16:28:01](https://news.ycombinator.com/item?id=35248517) - [uBlock Origin 1.48 adds readiness status, code viewer, and other fixes](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
 * [2023-03-21, 16:14:58](https://news.ycombinator.com/item?id=35248296) - [DPReview.com to close](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
 * [2023-03-21, 16:07:00](https://news.ycombinator.com/item?id=35248188) - [“Off switch” makes explosives safer](https://physics.aps.org/articles/v16/44)
