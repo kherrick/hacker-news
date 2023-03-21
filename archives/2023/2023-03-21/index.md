@@ -14,6 +14,7 @@
 * [2023-03-21, 20:59:09](https://news.ycombinator.com/item?id=35252473) - [The USA Inflation Rate by Truflation Is 4.21%](https://truflation.com/)
 * [2023-03-21, 20:57:07](https://news.ycombinator.com/item?id=35252440) - [Oliver Stone Releases Trailer for His Pro-Nuclear Energy Movie](https://www.hollywoodreporter.com/movies/movie-news/oliver-stone-nuclear-now-trailer-1235357522/)
 * [2023-03-21, 20:55:37](https://news.ycombinator.com/item?id=35252416) - [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+* [2023-03-21, 20:42:12](https://news.ycombinator.com/item?id=35252223) - [Your website&#x27;s content -&gt; Q&amp;A bot &#x2F; chatbot](https://github.com/mpaepper/content-chatbot)
 * [2023-03-21, 20:40:58](https://news.ycombinator.com/item?id=35252206) - [Create an IAM Role and Ass a User](https://docs.aws.amazon.com/IAM/latest/UserGuide/example_iam_Scenario_GroupBasics_section.html)
 * [2023-03-21, 20:36:01](https://news.ycombinator.com/item?id=35252148) - [Printing headline news on the Commodore 64 with The Newsroom&#x27;s Wire Service](http://oldvcr.blogspot.com/2023/03/printing-real-headline-news-on.html)
 * [2023-03-21, 20:28:48](https://news.ycombinator.com/item?id=35252056) - [Intel graphics chief Raja Koduri leaves after five years battling Nvidia and AMD](https://www.theverge.com/2023/3/21/23650611/intel-raja-koduri-gpus-amd-nvidia-apple-leave-ai-startup)
