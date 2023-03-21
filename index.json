@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-03-20, 22:56:42",
-      "https://news.ycombinator.com/item?id=35240039"
-    ],
-    [
-      "Vallejo CA police shared data in violation of state law, watchdog says",
-      "https://www.vallejosun.com/vallejo-police-shared-data-in-violation-of-state-law-watchdog-alleges/"
-    ]
-  ],
-  [
-    [
       "2023-03-20, 22:55:40",
       "https://news.ycombinator.com/item?id=35240029"
     ],
@@ -157,16 +147,6 @@
     [
       "Run 100B+ language models at home, BitTorrent‑style",
       "https://petals.ml/"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 21:20:19",
-      "https://news.ycombinator.com/item?id=35238937"
-    ],
-    [
-      "ReAct: Synergizing Reasoning and Acting in Language Models",
-      "https://react-lm.github.io"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2023-03-20, 20:06:58",
+      "https://news.ycombinator.com/item?id=35237830"
+    ],
+    [
+      "Why use Rust on the back end?",
+      "https://blog.adamchalmers.com/why-rust-on-backend/"
+    ]
+  ],
+  [
+    [
       "2023-03-20, 20:05:08",
       "https://news.ycombinator.com/item?id=35237799"
     ],
@@ -247,6 +237,16 @@
     [
       "CoLT5: Faster Long-Range Transformers With Conditional Computation",
       "https://arxiv.org/abs/2303.09752"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 19:28:23",
+      "https://news.ycombinator.com/item?id=35237269"
+    ],
+    [
+      "Spack – scientific software package manager for supercomputers, Linux, and macOS",
+      "https://spack.io/"
     ]
   ],
   [
