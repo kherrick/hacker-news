@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 13:12:08](https://news.ycombinator.com/item?id=35245626) - [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
 * [2023-03-21, 12:12:00](https://news.ycombinator.com/item?id=35245130) - [Unchecked corporate pricing power is a factor in US inflation](https://www.ft.com/content/151cb429-d024-4d5c-9edf-5b4a2b104a66)
+* [2023-03-21, 12:05:22](https://news.ycombinator.com/item?id=35245072) - [OpenAI Research Says 80% of U.S. Workers&#x27; Jobs Will Be Impacted by GPT](https://www.vice.com/en/article/g5ypy4/openai-research-says-80-of-us-workers-will-have-jobs-impacted-by-gpt)
 * [2023-03-21, 12:00:10](https://news.ycombinator.com/item?id=35245035) - [Reclaim Protocol Is Hiring a Cryptography&#x2F;Security Researcher](https://www.ycombinator.com/companies/questbook/jobs/2cAGsSp-cryptography-security-researcher)
 * [2023-03-21, 11:56:19](https://news.ycombinator.com/item?id=35245008) - [Portable Game Notation Specification and Implementation Guide](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm)
 * [2023-03-21, 08:31:05](https://news.ycombinator.com/item?id=35243752) - [Louis Rossmann could sue John Deere for GPL violation](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
