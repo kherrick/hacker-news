@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
 * [2023-03-21, 21:52:01](https://news.ycombinator.com/item?id=35253098) - [The collapse of companies like SVB is triggering demand for corporate merch](https://www.modernretail.co/marketing/the-collapse-of-companies-like-svb-is-triggering-demand-for-limited-edition-corporate-merch/)
+* [2023-03-21, 21:51:31](https://news.ycombinator.com/item?id=35253088) - [Can AI-Generated Text Be Reliably Detected?](https://arxiv.org/abs/2303.11156)
 * [2023-03-21, 21:29:17](https://news.ycombinator.com/item?id=35252837) - [Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
+* [2023-03-21, 21:22:48](https://news.ycombinator.com/item?id=35252755) - [Reasons Not to Use Google](https://stallman.org/google.html)
 * [2023-03-21, 21:11:59](https://news.ycombinator.com/item?id=35252637) - [Polio cases in Africa linked to new oral vaccine](https://www.science.org/content/article/first-polio-cases-linked-new-oral-vaccine-detected-africa)
 * [2023-03-21, 21:10:47](https://news.ycombinator.com/item?id=35252618) - [Grace Hopper on Late Night with David Letterman (1986)](https://www.youtube.com/watch?v=oE2uls6iIEU)
 * [2023-03-21, 21:01:16](https://news.ycombinator.com/item?id=35252498) - [Etleap (YC W13) is hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
@@ -13,6 +15,7 @@
 * [2023-03-21, 20:57:07](https://news.ycombinator.com/item?id=35252440) - [Oliver Stone Releases Trailer for His Pro-Nuclear Energy Movie](https://www.hollywoodreporter.com/movies/movie-news/oliver-stone-nuclear-now-trailer-1235357522/)
 * [2023-03-21, 20:55:37](https://news.ycombinator.com/item?id=35252416) - [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
 * [2023-03-21, 20:40:58](https://news.ycombinator.com/item?id=35252206) - [Create an IAM Role and Ass a User](https://docs.aws.amazon.com/IAM/latest/UserGuide/example_iam_Scenario_GroupBasics_section.html)
+* [2023-03-21, 20:36:01](https://news.ycombinator.com/item?id=35252148) - [Printing headline news on the Commodore 64 with The Newsroom&#x27;s Wire Service](http://oldvcr.blogspot.com/2023/03/printing-real-headline-news-on.html)
 * [2023-03-21, 20:28:48](https://news.ycombinator.com/item?id=35252056) - [Intel graphics chief Raja Koduri leaves after five years battling Nvidia and AMD](https://www.theverge.com/2023/3/21/23650611/intel-raja-koduri-gpus-amd-nvidia-apple-leave-ai-startup)
 * [2023-03-21, 19:58:31](https://news.ycombinator.com/item?id=35251677) - [Grover&#x27;s Algorithm Offers No Quantum Advantage](https://arxiv.org/abs/2303.11317)
 * [2023-03-21, 19:45:28](https://news.ycombinator.com/item?id=35251505) - [Top highest-earning Substack newsletters generate over $22M a year](https://pressgazette.co.uk/newsletters/highest-earning-substacks/)
