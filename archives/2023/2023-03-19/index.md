@@ -71,6 +71,7 @@
 * [2023-03-19, 12:12:37](https://news.ycombinator.com/item?id=35218203) - [This Drone Will Change Everything](https://www.youtube.com/watch?v=DOWDNBu9DkU)
 * [2023-03-19, 11:44:06](https://news.ycombinator.com/item?id=35218047) - [A Brief History of Time is ‘wrong’, Stephen Hawking told collaborator](https://www.theguardian.com/science/2023/mar/19/stephen-hawking-told-me-ive-changed-my-mind-my-book-is-wrong)
 * [2023-03-19, 11:38:51](https://news.ycombinator.com/item?id=35218019) - [Show HN: Side-Project: FlowChartGPT – Turn Text into FlowCharts](https://fastflowchart.com/)
+* [2023-03-19, 11:27:46](https://news.ycombinator.com/item?id=35217945) - [A Whale-Oiled Machine](https://99percentinvisible.org/episode/a-whale-oiled-machine/)
 * [2023-03-19, 11:13:41](https://news.ycombinator.com/item?id=35217860) - [Show HN: Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-03-19, 10:44:59](https://news.ycombinator.com/item?id=35217733) - [This Time It&#x27;s Different](https://www.justus.pw/posts/2023-03-19-this-time-its-different.html)
 * [2023-03-19, 10:31:03](https://news.ycombinator.com/item?id=35217666) - [Twitter Blue breaks EU consumer law by showing prices without tax](https://www.businessinsider.com/elon-musk-twitter-blue-breaking-rules-unfair-business-practices-eu-2023-3)
