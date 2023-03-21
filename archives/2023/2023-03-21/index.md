@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 19:00:20](https://news.ycombinator.com/item?id=35250873) - [PDF&#x2F;A-3, PDF for Long-Term Preservation, Use of ISO 32000-1... (2020)](https://www.loc.gov/preservation/digital/formats/fdd/fdd000360.shtml)
 * [2023-03-21, 18:18:00](https://news.ycombinator.com/item?id=35250210) - [Typst, a modern alternative to LaTeX, is now open source](https://github.com/typst/typst)
 * [2023-03-21, 18:07:01](https://news.ycombinator.com/item?id=35250045) - [Switzerland bans deferred bonuses for Credit Suisse staff](https://www.ft.com/content/cb213446-332d-4689-8911-e0371c2eb287)
 * [2023-03-21, 18:03:09](https://news.ycombinator.com/item?id=35249971) - [Windows Snipping Tool is vulnerable to Acropalypse too](https://twitter.com/David3141593/status/1638222624084951040)
