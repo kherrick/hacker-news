@@ -24,7 +24,7 @@
 * [2023-03-21, 14:30:58](https://news.ycombinator.com/item?id=35246710) - [Java 20 &#x2F; JDK 20: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html)
 * [2023-03-21, 14:23:54](https://news.ycombinator.com/item?id=35246573) - [Surprise computer science proof in combinatorics](https://www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/)
 * [2023-03-21, 14:06:58](https://news.ycombinator.com/item?id=35246292) - [Launch HN: Frigade (YC W23) – Faster, better product onboarding](https://news.ycombinator.com/item?id=35246292)
-* [2023-03-21, 14:04:17](https://news.ycombinator.com/item?id=35246253) - [Google Releases Bard, Its Competitor in the Race to Create A.I. Chatbots](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
+* [2023-03-21, 14:04:17](https://news.ycombinator.com/item?id=35246253) - [Google releases Bard to a limited number of users in the US and UK](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
 * [2023-03-21, 14:02:34](https://news.ycombinator.com/item?id=35246228) - [Strong Consistency with Raft and SQLite](https://blog.sqlitecloud.io/strong-consistency-with-raft-and-sqlite)
 * [2023-03-21, 13:55:58](https://news.ycombinator.com/item?id=35246139) - [Adobe Firefly: AI Art Generator](https://www.adobe.com/sensei/generative-ai/firefly.html)
 * [2023-03-21, 11:56:19](https://news.ycombinator.com/item?id=35245008) - [Portable Game Notation Specification and Implementation Guide](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm)
