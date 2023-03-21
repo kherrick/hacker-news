@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 13:26:24](https://news.ycombinator.com/item?id=35245784) - [Exploding Whale 50th Anniversary, Remastered [video]](https://www.youtube.com/watch?v=V6CLumsir34)
 * [2023-03-21, 13:22:38](https://news.ycombinator.com/item?id=35245748) - [Spermaceti](https://en.wikipedia.org/wiki/Spermaceti)
 * [2023-03-21, 13:18:02](https://news.ycombinator.com/item?id=35245692) - [Anxiety Strikes $8T Mortgage-Debt Market After SVB Collapse](https://www.wsj.com/articles/anxiety-strikes-8-trillion-mortgage-debt-market-after-svb-collapse-15ef0207)
 * [2023-03-21, 13:12:08](https://news.ycombinator.com/item?id=35245626) - [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)

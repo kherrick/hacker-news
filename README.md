@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-21, 13:26:24](https://news.ycombinator.com/item?id=35245784) - [Exploding Whale 50th Anniversary, Remastered [video]](https://www.youtube.com/watch?v=V6CLumsir34)
 * [2023-03-21, 13:22:38](https://news.ycombinator.com/item?id=35245748) - [Spermaceti](https://en.wikipedia.org/wiki/Spermaceti)
 * [2023-03-21, 13:18:02](https://news.ycombinator.com/item?id=35245692) - [Anxiety Strikes $8T Mortgage-Debt Market After SVB Collapse](https://www.wsj.com/articles/anxiety-strikes-8-trillion-mortgage-debt-market-after-svb-collapse-15ef0207)
 * [2023-03-21, 13:12:08](https://news.ycombinator.com/item?id=35245626) - [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
@@ -17,7 +18,6 @@
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
 * [2023-03-21, 03:03:13](https://news.ycombinator.com/item?id=35242069) - [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
-* [2023-03-21, 01:03:49](https://news.ycombinator.com/item?id=35241212) - [Show HN: Get a Professional Headshot in Minutes with AI](https://virtualface.app)
 * [2023-03-21, 00:37:08](https://news.ycombinator.com/item?id=35240962) - [Clifford Stoll beat the Russians, then made useless, wondrous objects (2016)](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/)
 * [2023-03-21, 00:36:02](https://news.ycombinator.com/item?id=35240951) - [Bank failures come in waves](https://yarn.pranshum.com/banks2)
 * [2023-03-20, 22:55:40](https://news.ycombinator.com/item?id=35240029) - [In-Flight Entertainment Challenge](https://blog.mand3l.com/post/712193955168731136/the-inflight-entertainment-challenge)
