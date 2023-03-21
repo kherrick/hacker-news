@@ -65,6 +65,7 @@
 * [2023-03-18, 09:22:45](https://news.ycombinator.com/item?id=35207532) - [This week in KDE: “More Wayland fixes”](https://pointieststick.com/2023/03/17/this-week-in-kde-more-wayland-fixes/)
 * [2023-03-18, 08:46:46](https://news.ycombinator.com/item?id=35207390) - [How to participate in Monday’s oral arguments re: Internet Archive](http://blog.archive.org/2023/03/17/heres-how-to-participate-in-mondays-oral-arguments/)
 * [2023-03-18, 08:28:11](https://news.ycombinator.com/item?id=35207305) - [How Async&#x2F;Await Works in C#](https://devblogs.microsoft.com/dotnet/how-async-await-really-works/)
+* [2023-03-18, 08:06:39](https://news.ycombinator.com/item?id=35207171) - [The Io Language](https://iolanguage.org)
 * [2023-03-18, 08:04:43](https://news.ycombinator.com/item?id=35207157) - [Klint: Compile-Time Detection of Atomic Context Violations for Kernel Rust Code](https://www.memorysafety.org/blog/gary-guo-klint-rust-tools/)
 * [2023-03-18, 07:49:06](https://news.ycombinator.com/item?id=35207053) - [PHP 8.2.4 Released](https://www.php.net/index.php)
 * [2023-03-18, 07:42:34](https://news.ycombinator.com/item?id=35207020) - [Tracking the Fake GitHub Star Black Market](https://dagster.io/blog/fake-stars)

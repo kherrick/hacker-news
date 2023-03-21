@@ -16,7 +16,6 @@
 * [2023-03-21, 12:00:10](https://news.ycombinator.com/item?id=35245035) - [Reclaim Protocol Is Hiring a Cryptography&#x2F;Security Researcher](https://www.ycombinator.com/companies/questbook/jobs/2cAGsSp-cryptography-security-researcher)
 * [2023-03-21, 11:56:19](https://news.ycombinator.com/item?id=35245008) - [Portable Game Notation Specification and Implementation Guide](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm)
 * [2023-03-21, 08:31:05](https://news.ycombinator.com/item?id=35243752) - [Louis Rossmann could sue John Deere for GPL violation [video]](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
-* [2023-03-21, 07:35:23](https://news.ycombinator.com/item?id=35243435) - [Awesome-totally-open-ChatGPT: A list of open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 * [2023-03-21, 07:18:28](https://news.ycombinator.com/item?id=35243355) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 * [2023-03-21, 04:44:28](https://news.ycombinator.com/item?id=35242662) - [An Introduction to Computer Networks (2020)](https://intronetworks.cs.luc.edu/)
 * [2023-03-21, 04:11:05](https://news.ycombinator.com/item?id=35242458) - [An Aperiodic Monotile](https://arxiv.org/abs/2303.10798)
@@ -30,6 +29,7 @@
 * [2023-03-19, 11:27:46](https://news.ycombinator.com/item?id=35217945) - [A Whale-Oiled Machine](https://99percentinvisible.org/episode/a-whale-oiled-machine/)
 * [2023-03-19, 07:20:44](https://news.ycombinator.com/item?id=35216787) - [Perturbation Theory](https://en.wikipedia.org/wiki/Perturbation_theory)
 * [2023-03-18, 10:50:51](https://news.ycombinator.com/item?id=35207941) - [Thoughts on Video Editing (2022)](https://brickexperimentchannel.wordpress.com/2022/10/24/thoughts-on-video-editing/)
+* [2023-03-18, 08:06:39](https://news.ycombinator.com/item?id=35207171) - [The Io Language](https://iolanguage.org)
 
 ## [Archives](archives/index.md)
 
