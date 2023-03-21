@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-21, 05:36:13](https://news.ycombinator.com/item?id=35242868) - [Amazon layoffs: Another 9k employees being let go](https://www.semafor.com/article/03/20/2023/amazon-layoffs-another-9000-employees-being-let-go)
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
 * [2023-03-21, 03:21:01](https://news.ycombinator.com/item?id=35242174) - [Show HN: Professional headshots for remote team with AI](https://www.headshotpro.com/)
 * [2023-03-21, 03:03:13](https://news.ycombinator.com/item?id=35242069) - [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
 * [2023-03-21, 02:21:56](https://news.ycombinator.com/item?id=35241787) - [Stanford’s Alpaca shows that OpenAI may have a problem](https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/)
-* [2023-03-21, 02:09:22](https://news.ycombinator.com/item?id=35241695) - [Download, copy and paste free AWS icons in SVG and PNG format for your projects](https://aws-icons.com)
 * [2023-03-21, 01:08:37](https://news.ycombinator.com/item?id=35241253) - [Google urges Android phone users to switch off Wi-Fi calling](https://scrippsnews.com/stories/how-to-turn-off-wi-fi-calling-on-android-to-combat-hackers/)
 * [2023-03-21, 00:41:40](https://news.ycombinator.com/item?id=35240999) - [Can GPT-4 and GPT-3.5 play Wordle?](https://twitter.com/biz84/status/1637793452879405064)
 * [2023-03-21, 00:37:08](https://news.ycombinator.com/item?id=35240962) - [How a Berkeley Eccentric Beat the Russians – Then Made Useless, Wondrous Objects](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/)

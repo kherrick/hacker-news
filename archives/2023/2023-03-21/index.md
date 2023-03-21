@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 05:36:13](https://news.ycombinator.com/item?id=35242868) - [Amazon layoffs: Another 9k employees being let go](https://www.semafor.com/article/03/20/2023/amazon-layoffs-another-9000-employees-being-let-go)
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
 * [2023-03-21, 03:21:01](https://news.ycombinator.com/item?id=35242174) - [Show HN: Professional headshots for remote team with AI](https://www.headshotpro.com/)
