@@ -52,6 +52,7 @@
 * [2023-03-18, 11:52:28](https://news.ycombinator.com/item?id=35208286) - [PLATO: An educational computer system from the 60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2023-03-18, 11:51:20](https://news.ycombinator.com/item?id=35208276) - [Sleep habits may have long-term benefits](https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/35/Getting-Good-Sleep-Could-Add-Years-to-Your-Life)
 * [2023-03-18, 11:38:25](https://news.ycombinator.com/item?id=35208210) - [ChapGPT Hallucinates](https://thejeshgn.com/2023/03/18/chapgpt-hallucinates/)
+* [2023-03-18, 11:31:33](https://news.ycombinator.com/item?id=35208166) - [CIEL is a ready-to-use collection of Lisp libraries](http://ciel-lang.org/#/?id=ciel)
 * [2023-03-18, 11:24:49](https://news.ycombinator.com/item?id=35208113) - [Query Google Sheets as virtual tables with SQLite extension – libgsqlite](https://github.com/0x6b/libgsqlite)
 * [2023-03-18, 11:13:38](https://news.ycombinator.com/item?id=35208047) - [Dumping 1M gallons of radioactive water in Hudson is ‘best option,’](https://gothamist.com/news/dumping-radioactive-water-hudson-river-best-option-indian-point-nuclear-plant-owner-holtec)
 * [2023-03-18, 10:50:51](https://news.ycombinator.com/item?id=35207941) - [Thoughts on Video Editing (2022)](https://brickexperimentchannel.wordpress.com/2022/10/24/thoughts-on-video-editing/)
