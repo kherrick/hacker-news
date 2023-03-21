@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 08:31:05](https://news.ycombinator.com/item?id=35243752) - [Louis Rossmann could sue John Deere for GPL violation](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
 * [2023-03-21, 07:35:23](https://news.ycombinator.com/item?id=35243435) - [Awesome-totally-open-ChatGPT: A list of open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 * [2023-03-21, 07:18:28](https://news.ycombinator.com/item?id=35243355) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 * [2023-03-21, 07:16:53](https://news.ycombinator.com/item?id=35243342) - [Ask HN: Tips for a new team lead who is hiring](https://news.ycombinator.com/item?id=35243342)
