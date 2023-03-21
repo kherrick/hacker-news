@@ -87,6 +87,7 @@
 * [2023-03-19, 06:51:46](https://news.ycombinator.com/item?id=35216668) - [Tool for Thought (2005)](https://stevenberlinjohnson.com/tool-for-thought-b12c170fcc24?gi=c706b45f888b)
 * [2023-03-19, 04:59:00](https://news.ycombinator.com/item?id=35216186) - [“Takumi No Waza” – Japan&#x27;s famous Green Bell Nail Clippers](https://one-from-nippon.ghost.io/green-bell-nail-clippers/)
 * [2023-03-19, 04:34:31](https://news.ycombinator.com/item?id=35216075) - [The Curious Case of a Memory Leak in a Zig Program](https://iamkroot.github.io/blog/zig-memleak)
+* [2023-03-19, 03:51:12](https://news.ycombinator.com/item?id=35215870) - [A Rant on Terra (2019)](https://erikmcclure.com/blog/a-rant-on-terra/)
 * [2023-03-19, 03:48:54](https://news.ycombinator.com/item?id=35215853) - [How America Manufactures Poverty](https://www.newyorker.com/magazine/2023/03/20/matthew-desmond-poverty-by-america-book-review)
 * [2023-03-19, 03:46:15](https://news.ycombinator.com/item?id=35215835) - [Analyzing a failed drill bit with an electron microscope [video]](https://www.youtube.com/watch?v=887Q-LWBW48)
 * [2023-03-19, 03:44:21](https://news.ycombinator.com/item?id=35215826) - [What&#x27;s new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
