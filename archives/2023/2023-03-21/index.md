@@ -9,6 +9,7 @@
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
 * [2023-03-21, 03:21:01](https://news.ycombinator.com/item?id=35242174) - [Show HN: Professional headshots for remote team with AI](https://www.headshotpro.com/)
+* [2023-03-21, 03:18:37](https://news.ycombinator.com/item?id=35242160) - [Richard Stallman&#x27;s Ted talk in Steve Jobs&#x27; style&#x2F;voice (elevenlabs.io&#x2F;ChatGPT)](https://old.reddit.com/r/linuxmemes/comments/11w56v1/richard_stallmans_ted_talk_in_the_style_and_voice/)
 * [2023-03-21, 03:03:13](https://news.ycombinator.com/item?id=35242069) - [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
 * [2023-03-21, 02:21:56](https://news.ycombinator.com/item?id=35241787) - [Stanford’s Alpaca shows that OpenAI may have a problem](https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/)
 * [2023-03-21, 02:09:22](https://news.ycombinator.com/item?id=35241695) - [Download, copy and paste free AWS icons in SVG and PNG format for your projects](https://aws-icons.com)
