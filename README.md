@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-21, 14:08:03](https://news.ycombinator.com/item?id=35246303) - [Try Google&#x27;s Bard](https://blog.google/technology/ai/try-bard/)
 * [2023-03-21, 14:04:17](https://news.ycombinator.com/item?id=35246253) - [Google Releases Bard, Its Competitor in the Race to Create A.I. Chatbots](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
 * [2023-03-21, 13:26:24](https://news.ycombinator.com/item?id=35245784) - [Exploding Whale 50th Anniversary, Remastered [video]](https://www.youtube.com/watch?v=V6CLumsir34)
 * [2023-03-21, 13:22:38](https://news.ycombinator.com/item?id=35245748) - [Spermaceti](https://en.wikipedia.org/wiki/Spermaceti)
 * [2023-03-21, 13:18:02](https://news.ycombinator.com/item?id=35245692) - [Anxiety Strikes $8T Mortgage-Debt Market After SVB Collapse](https://www.wsj.com/articles/anxiety-strikes-8-trillion-mortgage-debt-market-after-svb-collapse-15ef0207)
 * [2023-03-21, 13:12:08](https://news.ycombinator.com/item?id=35245626) - [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
 * [2023-03-21, 12:12:00](https://news.ycombinator.com/item?id=35245130) - [Unchecked corporate pricing power is a factor in US inflation](https://www.ft.com/content/151cb429-d024-4d5c-9edf-5b4a2b104a66)
-* [2023-03-21, 12:05:22](https://news.ycombinator.com/item?id=35245072) - [OpenAI Research Says 80% of U.S. Workers&#x27; Jobs Will Be Impacted by GPT](https://www.vice.com/en/article/g5ypy4/openai-research-says-80-of-us-workers-will-have-jobs-impacted-by-gpt)
 * [2023-03-21, 12:00:10](https://news.ycombinator.com/item?id=35245035) - [Reclaim Protocol Is Hiring a Cryptography&#x2F;Security Researcher](https://www.ycombinator.com/companies/questbook/jobs/2cAGsSp-cryptography-security-researcher)
 * [2023-03-21, 11:56:19](https://news.ycombinator.com/item?id=35245008) - [Portable Game Notation Specification and Implementation Guide](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm)
 * [2023-03-21, 08:31:05](https://news.ycombinator.com/item?id=35243752) - [Louis Rossmann could sue John Deere for GPL violation [video]](https://www.youtube.com/watch?v=XP7Qx1FF1hA)

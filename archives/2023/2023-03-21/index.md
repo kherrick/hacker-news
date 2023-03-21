@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 14:08:03](https://news.ycombinator.com/item?id=35246303) - [Try Google&#x27;s Bard](https://blog.google/technology/ai/try-bard/)
 * [2023-03-21, 14:04:17](https://news.ycombinator.com/item?id=35246253) - [Google Releases Bard, Its Competitor in the Race to Create A.I. Chatbots](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
 * [2023-03-21, 13:26:24](https://news.ycombinator.com/item?id=35245784) - [Exploding Whale 50th Anniversary, Remastered [video]](https://www.youtube.com/watch?v=V6CLumsir34)
 * [2023-03-21, 13:22:38](https://news.ycombinator.com/item?id=35245748) - [Spermaceti](https://en.wikipedia.org/wiki/Spermaceti)
