@@ -9,6 +9,7 @@
 * [2023-03-21, 16:08:53](https://news.ycombinator.com/item?id=35248213) - [Consider Phlebas Published by the Folio Society](https://www.foliosociety.com/row/consider-phlebas.html)
 * [2023-03-21, 16:07:00](https://news.ycombinator.com/item?id=35248188) - [“Off Switch” Makes Explosives Safer](https://physics.aps.org/articles/v16/44)
 * [2023-03-21, 16:01:34](https://news.ycombinator.com/item?id=35248098) - [So you&#x27;ve installed `fzf`. Now what?](https://andrew-quinn.me/fzf/)
+* [2023-03-21, 15:55:34](https://news.ycombinator.com/item?id=35248003) - [Study: Scotland’s minimum pricing linked to 13% drop in alcohol-related deaths](https://www.theguardian.com/society/2023/mar/21/scotlands-minimum-pricing-linked-to-13-drop-in-alcohol-related-deaths-study-finds)
 * [2023-03-21, 15:39:19](https://news.ycombinator.com/item?id=35247759) - [Java Was Strongly Influenced by Objective-C](https://cs.gmu.edu/~sean/stuff/java-objc.html)
 * [2023-03-21, 15:24:51](https://news.ycombinator.com/item?id=35247557) - [Why Construction Projects Always Go over Budget](https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget)
 * [2023-03-21, 15:11:28](https://news.ycombinator.com/item?id=35247346) - [CanceledGPT: Finds and revises your old offensive tweets before you get canceled](https://canceledgpt.com/)
