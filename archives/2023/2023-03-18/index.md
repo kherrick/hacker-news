@@ -74,6 +74,7 @@
 * [2023-03-18, 06:37:39](https://news.ycombinator.com/item?id=35206726) - [Radio Man, Autograph King](https://www.nytimes.com/2023/03/17/nyregion/radio-man-autograph-hunters.html)
 * [2023-03-18, 06:21:18](https://news.ycombinator.com/item?id=35206642) - [Genode&#x27;s Browser Odyssey (2022)](https://genodians.org/nfeske/2022-01-27-browser-odyssey)
 * [2023-03-18, 04:50:18](https://news.ycombinator.com/item?id=35206207) - [Meta employees grill Mark Zuckerberg at all-hands meeting following layoffs](https://www.washingtonpost.com/technology/2023/03/16/zuckerberg-meta-townhall/)
+* [2023-03-18, 04:38:05](https://news.ycombinator.com/item?id=35206141) - [Something weird happens to companies when they hit 150 people (2017)](https://qz.com/846530/something-weird-happens-to-companies-when-they-hit-150-people)
 * [2023-03-18, 04:18:34](https://news.ycombinator.com/item?id=35206041) - [YouTube millionaires are not your friends](https://www.vox.com/culture/23640192/sebastian-ghiorghiu-youtube-hustle-gurus-passive-income-dropshipping)
 * [2023-03-18, 04:18:18](https://news.ycombinator.com/item?id=35206040) - [Google nixes paying maternity and medical leave for laid off workers](https://www.cnbc.com/2023/03/17/google-nixes-paying-out-rest-of-medical-leave-for-laid-off-employees.html)
 * [2023-03-18, 04:16:59](https://news.ycombinator.com/item?id=35206034) - [Community’s 25yrs without a newborn shows scale of Japan’s population crisis](https://www.cnn.com/2023/03/17/asia/japan-population-crisis-countryside-cities-intl-hnk-dst/index.html)

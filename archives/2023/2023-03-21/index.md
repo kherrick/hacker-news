@@ -12,6 +12,7 @@
 * [2023-03-21, 17:08:51](https://news.ycombinator.com/item?id=35249182) - [Google was beloved as an employer for years. Then it laid off thousands by email](https://www.cnn.com/2023/03/20/tech/google-layoffs-employee-culture/index.html)
 * [2023-03-21, 17:00:30](https://news.ycombinator.com/item?id=35249064) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2023-03-21, 16:55:25](https://news.ycombinator.com/item?id=35248975) - [Nvidia Announces H100 NVL – Max Memory Server Card for Large Language Models](https://www.anandtech.com/show/18780/nvidia-announces-h100-nvl-max-memory-server-card-for-large-language-models)
+* [2023-03-21, 16:50:58](https://news.ycombinator.com/item?id=35248912) - [Show HN: Public transportation signage based on bloom filters (rough mockup)](https://github.com/jsvan/BusStopBloomfilter)
 * [2023-03-21, 16:28:01](https://news.ycombinator.com/item?id=35248517) - [uBlock 1.48.0 Adds Readiness Status, Code Viewer, and Other Fixes](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
 * [2023-03-21, 16:14:58](https://news.ycombinator.com/item?id=35248296) - [Dpreview.com is coming to an end](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
 * [2023-03-21, 16:08:53](https://news.ycombinator.com/item?id=35248213) - [Consider Phlebas Published by the Folio Society](https://www.foliosociety.com/row/consider-phlebas.html)

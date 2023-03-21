@@ -3,14 +3,13 @@
 * [2023-03-21, 18:18:00](https://news.ycombinator.com/item?id=35250210) - [Typst, a modern alternative to LaTeX, is now open source](https://github.com/typst/typst)
 * [2023-03-21, 18:03:09](https://news.ycombinator.com/item?id=35249971) - [Windows Snipping Tool is vulnerable to Acropalypse too](https://twitter.com/David3141593/status/1638222624084951040)
 * [2023-03-21, 17:41:12](https://news.ycombinator.com/item?id=35249654) - [I Returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
-* [2023-03-21, 17:26:52](https://news.ycombinator.com/item?id=35249438) - [How TikTok Broke the Ad Business](https://www.economist.com/business/2023/03/21/how-tiktok-broke-the-ad-business)
 * [2023-03-21, 17:10:42](https://news.ycombinator.com/item?id=35249210) - [Rolling Stone left out the reason why FBI raided journalist&#x27;s home](https://www.npr.org/2023/03/21/1164360143/rolling-stone-fbi-raid-journalist-james-gordon-meek)
 * [2023-03-21, 17:08:51](https://news.ycombinator.com/item?id=35249182) - [Google was beloved as an employer for years. Then it laid off thousands by email](https://www.cnn.com/2023/03/20/tech/google-layoffs-employee-culture/index.html)
 * [2023-03-21, 17:00:30](https://news.ycombinator.com/item?id=35249064) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2023-03-21, 16:55:25](https://news.ycombinator.com/item?id=35248975) - [Nvidia Announces H100 NVL – Max Memory Server Card for Large Language Models](https://www.anandtech.com/show/18780/nvidia-announces-h100-nvl-max-memory-server-card-for-large-language-models)
+* [2023-03-21, 16:50:58](https://news.ycombinator.com/item?id=35248912) - [Show HN: Public transportation signage based on bloom filters (rough mockup)](https://github.com/jsvan/BusStopBloomfilter)
 * [2023-03-21, 16:28:01](https://news.ycombinator.com/item?id=35248517) - [uBlock 1.48.0 Adds Readiness Status, Code Viewer, and Other Fixes](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
 * [2023-03-21, 16:14:58](https://news.ycombinator.com/item?id=35248296) - [Dpreview.com is coming to an end](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
-* [2023-03-21, 16:08:53](https://news.ycombinator.com/item?id=35248213) - [Consider Phlebas Published by the Folio Society](https://www.foliosociety.com/row/consider-phlebas.html)
 * [2023-03-21, 16:07:00](https://news.ycombinator.com/item?id=35248188) - [“Off Switch” Makes Explosives Safer](https://physics.aps.org/articles/v16/44)
 * [2023-03-21, 16:01:34](https://news.ycombinator.com/item?id=35248098) - [So you&#x27;ve installed `fzf`. Now what?](https://andrew-quinn.me/fzf/)
 * [2023-03-21, 15:24:51](https://news.ycombinator.com/item?id=35247557) - [Why Construction Projects Always Go over Budget](https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget)
@@ -30,6 +29,7 @@
 * [2023-03-18, 11:31:33](https://news.ycombinator.com/item?id=35208166) - [CIEL is a ready-to-use collection of Lisp libraries](http://ciel-lang.org/#/?id=ciel)
 * [2023-03-18, 10:50:51](https://news.ycombinator.com/item?id=35207941) - [Thoughts on Video Editing (2022)](https://brickexperimentchannel.wordpress.com/2022/10/24/thoughts-on-video-editing/)
 * [2023-03-18, 08:06:39](https://news.ycombinator.com/item?id=35207171) - [The Io Language](https://iolanguage.org)
+* [2023-03-18, 04:38:05](https://news.ycombinator.com/item?id=35206141) - [Something weird happens to companies when they hit 150 people (2017)](https://qz.com/846530/something-weird-happens-to-companies-when-they-hit-150-people)
 
 ## [Archives](archives/index.md)
 
