@@ -1,6 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-22, 15:02:53](https://news.ycombinator.com/item?id=35262131) - [The Poor, Misunderstood InnerText](http://perfectionkills.com/the-poor-misunderstood-innerText/)
+* [2023-03-22, 14:59:23](https://news.ycombinator.com/item?id=35262073) - [Home Prices Fell in February for First Time in 11 Years](https://www.wsj.com/articles/home-prices-fell-in-february-for-first-time-in-11-years-73df0107)
+* [2023-03-22, 14:51:55](https://news.ycombinator.com/item?id=35261946) - [Ask HN: How much of inflation is caused by supply rather than demand issues?](https://news.ycombinator.com/item?id=35261946)
 * [2023-03-22, 14:27:51](https://news.ycombinator.com/item?id=35261555) - [Fungus Candida auris infections spreading across US, CDC warns](https://www.usatoday.com/story/news/health/2023/03/21/fungus-candida-auris-infections-spreading-cdc-warning/11513263002/)
+* [2023-03-22, 14:17:04](https://news.ycombinator.com/item?id=35261363) - [A Mirror That Reverses How Light Travels in Time](https://spectrum.ieee.org/time-reversal-interface)
+* [2023-03-22, 14:12:43](https://news.ycombinator.com/item?id=35261277) - [Year from Quitting My Full-Time PM Job. What Do I Miss the Most?](https://www.harshal-patil.com/post/1-year-from-quitting-my-full-time-pm-job-what-do-i-miss-the-most)
 * [2023-03-22, 13:59:07](https://news.ycombinator.com/item?id=35261065) - [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 * [2023-03-22, 13:57:49](https://news.ycombinator.com/item?id=35261043) - [Yandex open-sources its exabyte-scale big data platform](https://medium.com/yandex/ytsaurus-exabyte-scale-storage-and-processing-system-is-now-open-source-42e7f5fa5fc6)
 * [2023-03-22, 13:48:02](https://news.ycombinator.com/item?id=35260931) - [Rollstack (YC W23) Is Hiring a Full Stack Engineer in EU, Brazil, Argentina](https://www.ycombinator.com/companies/rollstack-2/jobs/IV2FOtP-full-stack-engineer-react-nodejs-typescript-in-eu-argentina-brazil)
@@ -23,13 +28,8 @@
 * [2023-03-22, 03:03:46](https://news.ycombinator.com/item?id=35256288) - [Every possible Wordle solution visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
 * [2023-03-22, 02:49:30](https://news.ycombinator.com/item?id=35256178) - [Extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
 * [2023-03-22, 00:41:56](https://news.ycombinator.com/item?id=35255052) - [Show HN: Generate styled web pages with just Python](https://www.pyvibe.com/)
-* [2023-03-21, 23:35:31](https://news.ycombinator.com/item?id=35254389) - [A ChatGPT Emacs Shell](https://xenodium.com/a-chatgpt-emacs-shell/)
 * [2023-03-21, 16:57:22](https://news.ycombinator.com/item?id=35249005) - [The New Super Commute](https://www.wsj.com/articles/the-math-behind-the-new-super-commute-8ca57419)
-* [2023-03-21, 16:01:34](https://news.ycombinator.com/item?id=35248098) - [So you&#x27;ve installed `fzf` – now what?](https://andrew-quinn.me/fzf/)
 * [2023-03-20, 18:34:49](https://news.ycombinator.com/item?id=35236414) - [Think Screens Stole Our Attention? Medieval Monks Were Distracted Too](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html)
-* [2023-03-19, 22:11:40](https://news.ycombinator.com/item?id=35224209) - [A Simulation of a Simulation: Algorithms for Quantum Computing Experiments [pdf]](https://rioweil.github.io/assets/pdf/papers/bach_thesis.pdf)
-* [2023-03-19, 20:11:39](https://news.ycombinator.com/item?id=35223041) - [Club-Wielding Ancestors: Myth or Reality?](https://www.sapiens.org/archaeology/ancient-wooden-clubs-myth/)
-* [2023-03-19, 19:48:31](https://news.ycombinator.com/item?id=35222817) - [Show HN: Harmonized Data Platform](https://news.ycombinator.com/item?id=35222817)
 
 ## [Archives](archives/index.md)
 
