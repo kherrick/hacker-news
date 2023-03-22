@@ -7,7 +7,7 @@
 * [2023-03-22, 16:52:55](https://news.ycombinator.com/item?id=35263838) - [Counter-Strike 2 – Limited Test begins for free upgrade to CSGO](https://counter-strike.net/cs2)
 * [2023-03-22, 16:50:20](https://news.ycombinator.com/item?id=35263803) - [Counter-Strike 2 Is Announced](https://twitter.com/CSGO/status/1638580074126659584)
 * [2023-03-22, 16:50:12](https://news.ycombinator.com/item?id=35263799) - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/)
-* [2023-03-22, 16:37:48](https://news.ycombinator.com/item?id=35263635) - [The Archive Team is archiving DPReview](https://old.reddit.com/r/photography/comments/11ya4fa/dpreview_is_being_archived_by_the_archive_team/)
+* [2023-03-22, 16:37:48](https://news.ycombinator.com/item?id=35263635) - [DPReview is being archived by the Archive Team](https://old.reddit.com/r/photography/comments/11ya4fa/dpreview_is_being_archived_by_the_archive_team/)
 * [2023-03-22, 16:32:06](https://news.ycombinator.com/item?id=35263542) - [Show HN: Zapier&#x27;s first API](https://news.ycombinator.com/item?id=35263542)
 * [2023-03-22, 16:01:15](https://news.ycombinator.com/item?id=35263115) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2023-03-22, 15:02:53](https://news.ycombinator.com/item?id=35262131) - [The Poor, Misunderstood InnerText (2015)](http://perfectionkills.com/the-poor-misunderstood-innerText/)
