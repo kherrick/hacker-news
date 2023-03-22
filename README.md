@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-22, 17:49:05](https://news.ycombinator.com/item?id=35264601) - [Are spreadsheets a true programming language?](https://about.subset.so/blog/are-spreadsheets-a-true-programming-language)
 * [2023-03-22, 17:09:31](https://news.ycombinator.com/item?id=35264055) - [D&amp;D monster manual wants to help save real-life animals from extinction](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/book-of-extinction-kickstarter-dnd-5e)
 * [2023-03-22, 16:52:55](https://news.ycombinator.com/item?id=35263838) - [Counter-Strike 2 – Limited Test begins for free upgrade to CSGO](https://counter-strike.net/cs2)
 * [2023-03-22, 16:50:20](https://news.ycombinator.com/item?id=35263803) - [Counter-Strike 2 Is Announced](https://twitter.com/CSGO/status/1638580074126659584)
 * [2023-03-22, 16:50:12](https://news.ycombinator.com/item?id=35263799) - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/)
 * [2023-03-22, 16:37:48](https://news.ycombinator.com/item?id=35263635) - [Archive Team is archiving DPReview](https://old.reddit.com/r/photography/comments/11ya4fa/dpreview_is_being_archived_by_the_archive_team/)
+* [2023-03-22, 16:32:06](https://news.ycombinator.com/item?id=35263542) - [Show HN: Zapier universal API (using natural language)](https://news.ycombinator.com/item?id=35263542)
 * [2023-03-22, 16:01:15](https://news.ycombinator.com/item?id=35263115) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2023-03-22, 15:02:53](https://news.ycombinator.com/item?id=35262131) - [The Poor, Misunderstood InnerText (2015)](http://perfectionkills.com/the-poor-misunderstood-innerText/)
 * [2023-03-22, 14:17:04](https://news.ycombinator.com/item?id=35261363) - [A Mirror That Reverses How Light Travels in Time](https://spectrum.ieee.org/time-reversal-interface)
@@ -26,9 +28,7 @@
 * [2023-03-22, 05:18:27](https://news.ycombinator.com/item?id=35257113) - [The Disappearing Doomsday](https://harpers.org/archive/2023/04/the-incredible-disappearing-doomsday-climate-catastrophists-new-york-times-climate-change-coverage/)
 * [2023-03-22, 04:15:29](https://news.ycombinator.com/item?id=35256769) - [Show HN: Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
 * [2023-03-22, 03:03:46](https://news.ycombinator.com/item?id=35256288) - [Every possible Wordle solution visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
-* [2023-03-22, 02:49:30](https://news.ycombinator.com/item?id=35256178) - [Extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
 * [2023-03-20, 18:34:49](https://news.ycombinator.com/item?id=35236414) - [Think Screens Stole Our Attention? Medieval Monks Were Distracted Too](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html)
-* [2023-03-20, 05:25:09](https://news.ycombinator.com/item?id=35227621) - [The Duke in His Domain: Marlon Brando, on Location (1957)](https://www.newyorker.com/magazine/1957/11/09/the-duke-in-his-domain)
 * [2023-03-19, 12:38:25](https://news.ycombinator.com/item?id=35218355) - [Win-Draw-Loss evaluation (2020)](https://lczero.org/blog/2020/04/wdl-head/)
 
 ## [Archives](archives/index.md)
