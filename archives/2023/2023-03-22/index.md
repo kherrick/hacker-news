@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 19:00:50](https://news.ycombinator.com/item?id=35265665) - [Raytracing on AMD’s RDNA 2&#x2F;3, and Nvidia’s Turing and Pascal](https://chipsandcheese.com/2023/03/22/raytracing-on-amds-rdna-2-3-and-nvidias-turing-and-pascal/)
 * [2023-03-22, 18:01:02](https://news.ycombinator.com/item?id=35264787) - [Fed hikes rates by 0.25 point despite recent turmoil in the banking sector](https://www.cnbc.com/2023/03/22/fed-rate-hike-decision-march-2023.html)
 * [2023-03-22, 17:56:42](https://news.ycombinator.com/item?id=35264725) - [FauxPilot – an open-source GitHub Copilot server](https://github.com/fauxpilot/fauxpilot)
 * [2023-03-22, 17:49:05](https://news.ycombinator.com/item?id=35264601) - [Are spreadsheets a true programming language?](https://about.subset.so/blog/are-spreadsheets-a-true-programming-language)
+* [2023-03-22, 17:22:56](https://news.ycombinator.com/item?id=35264229) - [The Diff Challenge](https://github.com/ggerganov/diff-challenge)
 * [2023-03-22, 17:09:31](https://news.ycombinator.com/item?id=35264055) - [D&amp;D monster manual wants to help save real-life animals from extinction](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/book-of-extinction-kickstarter-dnd-5e)
 * [2023-03-22, 16:56:58](https://news.ycombinator.com/item?id=35263886) - [MRSK vs. Fly.io](https://fly.io/ruby-dispatch/mrsk-vs-flyio/)
 * [2023-03-22, 16:52:55](https://news.ycombinator.com/item?id=35263838) - [Counter-Strike 2 – Limited Test begins for free upgrade to CSGO](https://counter-strike.net/cs2)
 * [2023-03-22, 16:50:20](https://news.ycombinator.com/item?id=35263803) - [CS:GO 2 Is Announced](https://twitter.com/CSGO/status/1638580074126659584)
 * [2023-03-22, 16:50:12](https://news.ycombinator.com/item?id=35263799) - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/)
+* [2023-03-22, 16:45:22](https://news.ycombinator.com/item?id=35263740) - [Robots Have Been About to Take All the Jobs for 100 Years](https://newsletter.pessimistsarchive.org/p/robots-have-been-about-to-take-all)
 * [2023-03-22, 16:37:48](https://news.ycombinator.com/item?id=35263635) - [The Internet Archive Is Archiving Dpreview.com](https://old.reddit.com/r/photography/comments/11ya4fa/dpreview_is_being_archived_by_the_archive_team/)
 * [2023-03-22, 16:32:06](https://news.ycombinator.com/item?id=35263542) - [Show HN: Zapier universal API (using natural language)](https://news.ycombinator.com/item?id=35263542)
 * [2023-03-22, 16:01:15](https://news.ycombinator.com/item?id=35263115) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
