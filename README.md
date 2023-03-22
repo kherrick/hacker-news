@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-22, 09:59:04](https://news.ycombinator.com/item?id=35258877) - [2023 Turing Award Given to Bob Metcalfe for Invention of Ethernet](https://amturing.acm.org/?2023)
 * [2023-03-22, 09:07:28](https://news.ycombinator.com/item?id=35258553) - [Show HN: ChatLLaMA – A ChatGPT style chatbot for Facebook&#x27;s LLaMA](https://chatllama.baseten.co/)
 * [2023-03-22, 08:32:50](https://news.ycombinator.com/item?id=35258323) - [Pg_jsonschema – JSON Schema Support for Postgres](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation)
 * [2023-03-22, 07:58:48](https://news.ycombinator.com/item?id=35258099) - [Swiss Are on the Hook for $13,500 Each on Credit Suisse Bailout](https://www.bloomberg.com/news/articles/2023-03-21/swiss-brace-for-credit-suisse-bailout-costing-them-13-500-each)
@@ -23,7 +24,6 @@
 * [2023-03-21, 20:42:12](https://news.ycombinator.com/item?id=35252223) - [Your website&#x27;s content -&gt; Q&amp;A bot &#x2F; chatbot](https://github.com/mpaepper/content-chatbot)
 * [2023-03-21, 16:01:34](https://news.ycombinator.com/item?id=35248098) - [So you&#x27;ve installed `fzf` – now what?](https://andrew-quinn.me/fzf/)
 * [2023-03-21, 15:24:51](https://news.ycombinator.com/item?id=35247557) - [Why construction projects always go over budget](https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget)
-* [2023-03-21, 14:30:58](https://news.ycombinator.com/item?id=35246710) - [Java 20 &#x2F; JDK 20: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html)
 * [2023-03-21, 14:06:58](https://news.ycombinator.com/item?id=35246292) - [Launch HN: Frigade (YC W23) – Faster, better product onboarding](https://news.ycombinator.com/item?id=35246292)
 * [2023-03-21, 14:04:17](https://news.ycombinator.com/item?id=35246253) - [Google releases Bard to a limited number of users in the US and UK](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
 * [2023-03-21, 13:55:58](https://news.ycombinator.com/item?id=35246139) - [Adobe Firefly: AI Art Generator](https://www.adobe.com/sensei/generative-ai/firefly.html)

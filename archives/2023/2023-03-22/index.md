@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 09:59:04](https://news.ycombinator.com/item?id=35258877) - [2023 Turing Award Given to Bob Metcalfe for Invention of Ethernet](https://amturing.acm.org/?2023)
 * [2023-03-22, 09:07:28](https://news.ycombinator.com/item?id=35258553) - [Show HN: ChatLLaMA – A ChatGPT style chatbot for Facebook&#x27;s LLaMA](https://chatllama.baseten.co/)
 * [2023-03-22, 08:32:50](https://news.ycombinator.com/item?id=35258323) - [Pg_jsonschema – JSON Schema Support for Postgres](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation)
 * [2023-03-22, 07:58:48](https://news.ycombinator.com/item?id=35258099) - [Swiss Are on the Hook for $13,500 Each on Credit Suisse Bailout](https://www.bloomberg.com/news/articles/2023-03-21/swiss-brace-for-credit-suisse-bailout-costing-them-13-500-each)
