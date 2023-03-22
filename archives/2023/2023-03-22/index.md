@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 05:25:51](https://news.ycombinator.com/item?id=35257169) - [Welcome to the PyPI Blog](https://blog.pypi.org/posts/2023-03-21-welcome-to-the-pypi-blog/)
+* [2023-03-22, 05:21:26](https://news.ycombinator.com/item?id=35257132) - [Kids Are Not Okay](https://thezvi.wordpress.com/2023/03/08/the-kids-are-not-okay/)
 * [2023-03-22, 04:33:14](https://news.ycombinator.com/item?id=35256867) - [Bard is dreadful at solving rhyming word puzzles](https://twofergoofer.com/blog/bard)
 * [2023-03-22, 04:15:29](https://news.ycombinator.com/item?id=35256769) - [Show HN: Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
 * [2023-03-22, 03:53:14](https://news.ycombinator.com/item?id=35256607) - [JPMorgan says the U.S. is probably headed for a recession](https://fortune.com/2023/03/21/recession-banking-crisis-federal-reserve-minsky-moment-jpmorgan-us-economy/)

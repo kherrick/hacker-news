@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-22, 05:25:51](https://news.ycombinator.com/item?id=35257169) - [Welcome to the PyPI Blog](https://blog.pypi.org/posts/2023-03-21-welcome-to-the-pypi-blog/)
+* [2023-03-22, 05:21:26](https://news.ycombinator.com/item?id=35257132) - [Kids Are Not Okay](https://thezvi.wordpress.com/2023/03/08/the-kids-are-not-okay/)
 * [2023-03-22, 04:33:14](https://news.ycombinator.com/item?id=35256867) - [Bard is much worse at puzzle solving than ChatGPT](https://twofergoofer.com/blog/bard)
 * [2023-03-22, 04:15:29](https://news.ycombinator.com/item?id=35256769) - [Show HN: Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
 * [2023-03-22, 03:03:46](https://news.ycombinator.com/item?id=35256288) - [Every possible Wordle solution visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
@@ -24,12 +26,10 @@
 * [2023-03-21, 15:24:51](https://news.ycombinator.com/item?id=35247557) - [Why construction projects always go over budget](https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget)
 * [2023-03-21, 15:05:11](https://news.ycombinator.com/item?id=35247242) - [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
 * [2023-03-21, 14:06:58](https://news.ycombinator.com/item?id=35246292) - [Launch HN: Frigade (YC W23) – Faster, better product onboarding](https://news.ycombinator.com/item?id=35246292)
-* [2023-03-21, 14:04:17](https://news.ycombinator.com/item?id=35246253) - [Google releases Bard to a limited number of users in the US and UK](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
 * [2023-03-21, 13:55:58](https://news.ycombinator.com/item?id=35246139) - [Adobe Firefly: AI Art Generator](https://www.adobe.com/sensei/generative-ai/firefly.html)
 * [2023-03-21, 04:34:55](https://news.ycombinator.com/item?id=35242608) - [Gloria Dea, Las Vegas magician who vanished into obscurity, has died](https://www.washingtonpost.com/obituaries/2023/03/20/gloria-dea-first-las-vegas-magician-dies-at-100/)
 * [2023-03-20, 04:56:05](https://news.ycombinator.com/item?id=35227454) - [An off-kilter visionary: Henry Green had a strange and distinctive talent](https://thecritic.co.uk/issues/march-2023/an-off-kilter-visionary/)
 * [2023-03-20, 04:47:40](https://news.ycombinator.com/item?id=35227410) - [&quot;The Earth Transformed&quot; Review - why humans have always been under the weather](https://www.theguardian.com/books/2023/mar/05/the-earth-transformed-by-peter-frankopan-review-why-humans-have-always-been-under-the-weather)
-* [2023-03-19, 22:16:22](https://news.ycombinator.com/item?id=35224262) - [Interview with Sten “ZTN” Uusvali](https://www.quakehaus.com/news/9628/interview-with-sten-ztn-uusvali/)
 
 ## [Archives](archives/index.md)
 
