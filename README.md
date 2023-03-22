@@ -14,7 +14,6 @@
 * [2023-03-22, 13:07:12](https://news.ycombinator.com/item?id=35260401) - [The Simplicity of Single-File Golang Deployments](https://www.amazingcto.com/simplicity-of-golang-systemd-deployments/)
 * [2023-03-22, 13:06:33](https://news.ycombinator.com/item?id=35260392) - [Conversational Software Development (2020)](https://oli.me.uk/conversational-software-development/)
 * [2023-03-22, 13:00:59](https://news.ycombinator.com/item?id=35260322) - [Unpopular Opinion: Don’t Use a Raspberry Pi for That](https://set-inform.com/2021/08/24/unpopular-opinion-dont-use-a-raspberry-pi-for-that/)
-* [2023-03-22, 12:50:52](https://news.ycombinator.com/item?id=35260210) - [Banks as Collateral Damage in a Class War](https://annpettifor.substack.com/p/banks-as-collateral-damage-in-a-class)
 * [2023-03-22, 12:06:57](https://news.ycombinator.com/item?id=35259817) - [Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
 * [2023-03-22, 11:45:31](https://news.ycombinator.com/item?id=35259595) - [RNA compound and vitamin B3 found in samples from near-Earth asteroid](https://www.cnn.com/2023/03/21/world/ryugu-asteroid-organic-molecules-scn/index.html)
 * [2023-03-22, 11:44:35](https://news.ycombinator.com/item?id=35259588) - [A Cyberpunk Bathroom in the Middle of Nowhere](https://taylor.town/cyberpunk-bathroom)
@@ -28,6 +27,7 @@
 * [2023-03-22, 04:15:29](https://news.ycombinator.com/item?id=35256769) - [Show HN: Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
 * [2023-03-22, 03:03:46](https://news.ycombinator.com/item?id=35256288) - [Every possible Wordle solution visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
 * [2023-03-22, 02:49:30](https://news.ycombinator.com/item?id=35256178) - [Extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
+* [2023-03-22, 00:41:56](https://news.ycombinator.com/item?id=35255052) - [Show HN: Generate styled web pages with just Python](https://www.pyvibe.com/)
 * [2023-03-21, 16:57:22](https://news.ycombinator.com/item?id=35249005) - [The New Super Commute](https://www.wsj.com/articles/the-math-behind-the-new-super-commute-8ca57419)
 * [2023-03-20, 18:34:49](https://news.ycombinator.com/item?id=35236414) - [Think Screens Stole Our Attention? Medieval Monks Were Distracted Too](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html)
 
