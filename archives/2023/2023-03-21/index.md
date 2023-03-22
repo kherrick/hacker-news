@@ -43,6 +43,7 @@
 * [2023-03-21, 17:10:42](https://news.ycombinator.com/item?id=35249210) - [Rolling Stone left out the reason why FBI raided journalist&#x27;s home](https://www.npr.org/2023/03/21/1164360143/rolling-stone-fbi-raid-journalist-james-gordon-meek)
 * [2023-03-21, 17:08:51](https://news.ycombinator.com/item?id=35249182) - [Google was beloved as an employer for years. Then it laid off thousands by email](https://www.cnn.com/2023/03/20/tech/google-layoffs-employee-culture/index.html)
 * [2023-03-21, 17:00:30](https://news.ycombinator.com/item?id=35249064) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
+* [2023-03-21, 16:57:22](https://news.ycombinator.com/item?id=35249005) - [The New Super Commute](https://www.wsj.com/articles/the-math-behind-the-new-super-commute-8ca57419)
 * [2023-03-21, 16:55:25](https://news.ycombinator.com/item?id=35248975) - [Nvidia Announces H100 NVL – Max Memory Server Card for Large Language Models](https://www.anandtech.com/show/18780/nvidia-announces-h100-nvl-max-memory-server-card-for-large-language-models)
 * [2023-03-21, 16:50:58](https://news.ycombinator.com/item?id=35248912) - [Show HN: Public transportation signage based on bloom filters (rough mockup)](https://github.com/jsvan/BusStopBloomfilter)
 * [2023-03-21, 16:39:26](https://news.ycombinator.com/item?id=35248704) - [Show HN: Watermelon – GPT-powered code contextualizer](https://www.watermelontools.com/)
