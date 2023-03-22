@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-22, 06:09:18](https://news.ycombinator.com/item?id=35257416) - [SheepShaver: macOS run-time environment for BeOS and Linux](http://sheepshaver.cebix.net/)
 * [2023-03-22, 05:25:51](https://news.ycombinator.com/item?id=35257169) - [Welcome to the PyPI Blog](https://blog.pypi.org/posts/2023-03-21-welcome-to-the-pypi-blog/)
 * [2023-03-22, 05:21:26](https://news.ycombinator.com/item?id=35257132) - [Kids Are Not Okay](https://thezvi.wordpress.com/2023/03/08/the-kids-are-not-okay/)
-* [2023-03-22, 04:33:14](https://news.ycombinator.com/item?id=35256867) - [Bard is much worse at puzzle solving than ChatGPT](https://twofergoofer.com/blog/bard)
 * [2023-03-22, 04:15:29](https://news.ycombinator.com/item?id=35256769) - [Show HN: Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
 * [2023-03-22, 03:03:46](https://news.ycombinator.com/item?id=35256288) - [Every possible Wordle solution visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
 * [2023-03-22, 02:56:39](https://news.ycombinator.com/item?id=35256237) - [Pytest Tips and Tricks](https://pythontest.com/pytest-tips-tricks/)

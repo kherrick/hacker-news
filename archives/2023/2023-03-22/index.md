@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 06:09:18](https://news.ycombinator.com/item?id=35257416) - [SheepShaver: macOS run-time environment for BeOS and Linux](http://sheepshaver.cebix.net/)
 * [2023-03-22, 05:25:51](https://news.ycombinator.com/item?id=35257169) - [Welcome to the PyPI Blog](https://blog.pypi.org/posts/2023-03-21-welcome-to-the-pypi-blog/)
 * [2023-03-22, 05:21:26](https://news.ycombinator.com/item?id=35257132) - [Kids Are Not Okay](https://thezvi.wordpress.com/2023/03/08/the-kids-are-not-okay/)
 * [2023-03-22, 04:33:14](https://news.ycombinator.com/item?id=35256867) - [Bard is dreadful at solving rhyming word puzzles](https://twofergoofer.com/blog/bard)
