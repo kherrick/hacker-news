@@ -13,6 +13,7 @@
 * [2023-03-21, 22:39:29](https://news.ycombinator.com/item?id=35253710) - [America’s banks are missing hundreds of billions of dollars](https://www.economist.com/finance-and-economics/2023/03/21/americas-banks-are-missing-hundreds-of-billions-of-dollars)
 * [2023-03-21, 22:38:10](https://news.ycombinator.com/item?id=35253694) - [DistroHopper: Quickly download, create and run VM of any operating system](https://osowoso.github.io/DistroHopper/)
 * [2023-03-21, 22:11:16](https://news.ycombinator.com/item?id=35253362) - [Room Generation Using Constraint Satisfaction](https://pvigier.github.io/2022/11/05/room-generation-using-constraint-satisfaction.html)
+* [2023-03-21, 22:03:18](https://news.ycombinator.com/item?id=35253255) - [TikTok is a threat. So is the rest of Big Tech](https://techoversight.org/2023/03/20/memo-tiktok-is-a-threat-so-is-the-rest-of-big-tech/)
 * [2023-03-21, 21:52:01](https://news.ycombinator.com/item?id=35253098) - [The collapse of companies like SVB is triggering demand for corporate merch](https://www.modernretail.co/marketing/the-collapse-of-companies-like-svb-is-triggering-demand-for-limited-edition-corporate-merch/)
 * [2023-03-21, 21:51:31](https://news.ycombinator.com/item?id=35253088) - [Can AI-Generated Text Be Reliably Detected?](https://arxiv.org/abs/2303.11156)
 * [2023-03-21, 21:29:17](https://news.ycombinator.com/item?id=35252837) - [Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
