@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 19:14:58](https://news.ycombinator.com/item?id=35265833) - [The Well-Being Gap Between Liberals and Conservatives](https://americanaffairsjournal.org/2023/03/how-to-understand-the-well-being-gap-between-liberals-and-conservatives/)
 * [2023-03-22, 19:08:39](https://news.ycombinator.com/item?id=35265752) - [A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
 * [2023-03-22, 19:00:50](https://news.ycombinator.com/item?id=35265665) - [Raytracing on AMD’s RDNA 2&#x2F;3, and Nvidia’s Turing and Pascal](https://chipsandcheese.com/2023/03/22/raytracing-on-amds-rdna-2-3-and-nvidias-turing-and-pascal/)
 * [2023-03-22, 18:41:44](https://news.ycombinator.com/item?id=35265376) - [Journalist plugs in unknown USB drive mailed to him–it exploded in his face](https://arstechnica.com/gadgets/2023/03/journalist-plugs-in-unknown-usb-drive-mailed-to-him-it-exploded-in-his-face/)
