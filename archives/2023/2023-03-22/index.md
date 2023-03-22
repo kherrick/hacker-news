@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 14:27:51](https://news.ycombinator.com/item?id=35261555) - [Fungus Candida auris infections spreading across US, CDC warns](https://www.usatoday.com/story/news/health/2023/03/21/fungus-candida-auris-infections-spreading-cdc-warning/11513263002/)
 * [2023-03-22, 13:59:07](https://news.ycombinator.com/item?id=35261065) - [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 * [2023-03-22, 13:57:49](https://news.ycombinator.com/item?id=35261043) - [Yandex open-sources its exabyte-scale big data platform](https://medium.com/yandex/ytsaurus-exabyte-scale-storage-and-processing-system-is-now-open-source-42e7f5fa5fc6)
 * [2023-03-22, 13:48:02](https://news.ycombinator.com/item?id=35260931) - [Rollstack (YC W23) Is Hiring a Full Stack Engineer in EU, Brazil, Argentina](https://www.ycombinator.com/companies/rollstack-2/jobs/IV2FOtP-full-stack-engineer-react-nodejs-typescript-in-eu-argentina-brazil)
