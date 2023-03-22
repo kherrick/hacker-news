@@ -24,10 +24,10 @@
 * [2023-03-22, 09:07:28](https://news.ycombinator.com/item?id=35258553) - [Show HN: ChatLLaMA – A ChatGPT style chatbot for Facebook&#x27;s LLaMA](https://chatllama.baseten.co/)
 * [2023-03-22, 08:32:50](https://news.ycombinator.com/item?id=35258323) - [Pg_jsonschema – JSON Schema Support for Postgres](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation)
 * [2023-03-22, 06:09:18](https://news.ycombinator.com/item?id=35257416) - [SheepShaver: macOS run-time environment for BeOS and Linux](http://sheepshaver.cebix.net/)
+* [2023-03-22, 05:18:27](https://news.ycombinator.com/item?id=35257113) - [The Disappearing Doomsday](https://harpers.org/archive/2023/04/the-incredible-disappearing-doomsday-climate-catastrophists-new-york-times-climate-change-coverage/)
 * [2023-03-22, 04:15:29](https://news.ycombinator.com/item?id=35256769) - [Show HN: Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
 * [2023-03-22, 03:03:46](https://news.ycombinator.com/item?id=35256288) - [Every possible Wordle solution visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
 * [2023-03-22, 02:49:30](https://news.ycombinator.com/item?id=35256178) - [Extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
-* [2023-03-21, 16:57:22](https://news.ycombinator.com/item?id=35249005) - [The New Super Commute](https://www.wsj.com/articles/the-math-behind-the-new-super-commute-8ca57419)
 * [2023-03-20, 18:34:49](https://news.ycombinator.com/item?id=35236414) - [Think Screens Stole Our Attention? Medieval Monks Were Distracted Too](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html)
 * [2023-03-20, 05:25:09](https://news.ycombinator.com/item?id=35227621) - [The Duke in His Domain: Marlon Brando, on Location (1957)](https://www.newyorker.com/magazine/1957/11/09/the-duke-in-his-domain)
 
