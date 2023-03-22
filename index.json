@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-03-22, 19:52:24",
-      "https://news.ycombinator.com/item?id=35266271"
+      "2023-03-22, 19:57:13",
+      "https://news.ycombinator.com/item?id=35266322"
     ],
     [
-      "Why buying furniture is so miserable",
-      "https://www.theassemblync.com/business/high-point-furniture/"
+      "SEC charges crypto entrepreneur Justin Sun and his companies for fraud",
+      "https://www.sec.gov/news/press-release/2023-59"
+    ]
+  ],
+  [
+    [
+      "2023-03-22, 19:55:44",
+      "https://news.ycombinator.com/item?id=35266304"
+    ],
+    [
+      "Remote work is starting to hit office rents",
+      "https://www.axios.com/2023/03/22/remote-work-wf-office-rents-decline"
     ]
   ],
   [
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2023-03-22, 16:45:22",
-      "https://news.ycombinator.com/item?id=35263740"
-    ],
-    [
-      "Robots have been about to take all the jobs for 100 years",
-      "https://newsletter.pessimistsarchive.org/p/robots-have-been-about-to-take-all"
-    ]
-  ],
-  [
-    [
       "2023-03-22, 16:37:48",
       "https://news.ycombinator.com/item?id=35263635"
     ],
@@ -107,6 +107,16 @@
     [
       "Show HN: Zapier&#x27;s first API",
       "https://news.ycombinator.com/item?id=35263542"
+    ]
+  ],
+  [
+    [
+      "2023-03-22, 16:12:13",
+      "https://news.ycombinator.com/item?id=35263285"
+    ],
+    [
+      "De-cloud and de-k8s – bringing our apps back home",
+      "https://dev.37signals.com/bringing-our-apps-back-home/"
     ]
   ],
   [
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2023-03-22, 14:18:28",
+      "https://news.ycombinator.com/item?id=35261386"
+    ],
+    [
+      "Show HN: Moonshine – open-source, pretrained ML models for satellite",
+      "https://moonshineai.readthedocs.io/en/latest/index.html"
+    ]
+  ],
+  [
+    [
       "2023-03-22, 14:17:04",
       "https://news.ycombinator.com/item?id=35261363"
     ],
@@ -147,16 +167,6 @@
     [
       "GitHub Copilot X – Sign up for technical preview",
       "https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 13:57:49",
-      "https://news.ycombinator.com/item?id=35261043"
-    ],
-    [
-      "Yandex open-sources its exabyte-scale big data platform",
-      "https://medium.com/yandex/ytsaurus-exabyte-scale-storage-and-processing-system-is-now-open-source-42e7f5fa5fc6"
     ]
   ],
   [
@@ -181,12 +191,22 @@
   ],
   [
     [
-      "2023-03-22, 12:06:57",
-      "https://news.ycombinator.com/item?id=35259817"
+      "2023-03-22, 13:07:12",
+      "https://news.ycombinator.com/item?id=35260401"
     ],
     [
-      "Mozilla.ai: Investing in Trustworthy AI",
-      "https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/"
+      "The simplicity of single-file Golang deployments",
+      "https://www.amazingcto.com/simplicity-of-golang-systemd-deployments/"
+    ]
+  ],
+  [
+    [
+      "2023-03-22, 13:06:33",
+      "https://news.ycombinator.com/item?id=35260392"
+    ],
+    [
+      "Conversational software development (2020)",
+      "https://oli.me.uk/conversational-software-development/"
     ]
   ],
   [
@@ -197,6 +217,16 @@
     [
       "A cyberpunk bathroom in the middle of nowhere",
       "https://taylor.town/cyberpunk-bathroom"
+    ]
+  ],
+  [
+    [
+      "2023-03-22, 11:36:41",
+      "https://news.ycombinator.com/item?id=35259527"
+    ],
+    [
+      "How the last-ditch effort to save Silicon Valley Bank failed",
+      "https://www.wsj.com/articles/how-the-last-ditch-effort-to-save-silicon-valley-bank-failed-89619cb2"
     ]
   ],
   [
@@ -217,36 +247,6 @@
     [
       "Bob Metcalfe wins Turing Award",
       "https://amturing.acm.org/?2023"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 09:07:28",
-      "https://news.ycombinator.com/item?id=35258553"
-    ],
-    [
-      "Show HN: ChatLLaMA – A ChatGPT style chatbot for Facebook&#x27;s LLaMA",
-      "https://chatllama.baseten.co/"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 08:32:50",
-      "https://news.ycombinator.com/item?id=35258323"
-    ],
-    [
-      "Pg_jsonschema – JSON Schema Support for Postgres",
-      "https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 06:09:18",
-      "https://news.ycombinator.com/item?id=35257416"
-    ],
-    [
-      "SheepShaver: macOS run-time environment for BeOS and Linux",
-      "http://sheepshaver.cebix.net/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-03-19, 12:38:25",
-      "https://news.ycombinator.com/item?id=35218355"
+      "2023-03-20, 05:25:09",
+      "https://news.ycombinator.com/item?id=35227621"
     ],
     [
-      "Win-Draw-Loss evaluation (2020)",
-      "https://lczero.org/blog/2020/04/wdl-head/"
+      "The Duke in His Domain: Marlon Brando, on Location (1957)",
+      "https://www.newyorker.com/magazine/1957/11/09/the-duke-in-his-domain"
     ]
   ]
 ]
