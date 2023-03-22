@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-22, 11:45:31](https://news.ycombinator.com/item?id=35259595) - [RNA compound and vitamin B3 found in samples from near-Earth asteroid](https://www.cnn.com/2023/03/21/world/ryugu-asteroid-organic-molecules-scn/index.html)
+* [2023-03-22, 11:29:40](https://news.ycombinator.com/item?id=35259476) - [Bob Metcalfe, Ethernet Pioneer, Wins Turing Award](https://www.quantamagazine.org/bob-metcalfe-ethernet-pioneer-wins-turing-award-20230322/)
 * [2023-03-22, 11:03:54](https://news.ycombinator.com/item?id=35259315) - [The developer job market is insane](https://old.reddit.com/r/ExperiencedDevs/comments/11xq5cz/the_developer_job_market_is_insane_right_now/)
 * [2023-03-22, 10:47:38](https://news.ycombinator.com/item?id=35259214) - [Research shows we can only accurately identify AI writers about 50% of the time](https://hai.stanford.edu/news/was-written-human-or-ai-tsu)
 * [2023-03-22, 10:10:40](https://news.ycombinator.com/item?id=35258950) - [Ask HN: What audio&#x2F;sound-related OSS projects can I contribute to?](https://news.ycombinator.com/item?id=35258950)
@@ -11,7 +13,6 @@
 * [2023-03-22, 03:03:46](https://news.ycombinator.com/item?id=35256288) - [Every possible Wordle solution visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
 * [2023-03-22, 02:56:39](https://news.ycombinator.com/item?id=35256237) - [Pytest Tips and Tricks](https://pythontest.com/pytest-tips-tricks/)
 * [2023-03-22, 02:49:30](https://news.ycombinator.com/item?id=35256178) - [Extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
-* [2023-03-22, 02:11:26](https://news.ycombinator.com/item?id=35255864) - [Bard uses a Hacker News comment as source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
 * [2023-03-22, 00:41:56](https://news.ycombinator.com/item?id=35255052) - [Show HN: Generate styled web pages with just Python](https://www.pyvibe.com/)
 * [2023-03-21, 23:53:28](https://news.ycombinator.com/item?id=35254576) - [Shields Up](https://seths.blog/2023/03/shields-up-2/)
 * [2023-03-21, 23:35:31](https://news.ycombinator.com/item?id=35254389) - [A ChatGPT Emacs Shell](https://xenodium.com/a-chatgpt-emacs-shell/)
@@ -27,7 +28,6 @@
 * [2023-03-21, 13:55:58](https://news.ycombinator.com/item?id=35246139) - [Adobe Firefly: AI Art Generator](https://www.adobe.com/sensei/generative-ai/firefly.html)
 * [2023-03-21, 04:34:55](https://news.ycombinator.com/item?id=35242608) - [Gloria Dea, Las Vegas magician who vanished into obscurity, has died](https://www.washingtonpost.com/obituaries/2023/03/20/gloria-dea-first-las-vegas-magician-dies-at-100/)
 * [2023-03-20, 04:56:05](https://news.ycombinator.com/item?id=35227454) - [An off-kilter visionary: Henry Green had a strange and distinctive talent](https://thecritic.co.uk/issues/march-2023/an-off-kilter-visionary/)
-* [2023-03-20, 04:47:40](https://news.ycombinator.com/item?id=35227410) - [&quot;The Earth Transformed&quot; Review - why humans have always been under the weather](https://www.theguardian.com/books/2023/mar/05/the-earth-transformed-by-peter-frankopan-review-why-humans-have-always-been-under-the-weather)
 * [2023-03-19, 22:11:40](https://news.ycombinator.com/item?id=35224209) - [A Simulation of a Simulation: Algorithms for Quantum Computing Experiments [pdf]](https://rioweil.github.io/assets/pdf/papers/bach_thesis.pdf)
 * [2023-03-19, 20:11:39](https://news.ycombinator.com/item?id=35223041) - [Club-Wielding Ancestors: Myth or Reality?](https://www.sapiens.org/archaeology/ancient-wooden-clubs-myth/)
 

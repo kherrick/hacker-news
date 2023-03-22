@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 11:45:31](https://news.ycombinator.com/item?id=35259595) - [RNA compound and vitamin B3 found in samples from near-Earth asteroid](https://www.cnn.com/2023/03/21/world/ryugu-asteroid-organic-molecules-scn/index.html)
+* [2023-03-22, 11:29:40](https://news.ycombinator.com/item?id=35259476) - [Bob Metcalfe, Ethernet Pioneer, Wins Turing Award](https://www.quantamagazine.org/bob-metcalfe-ethernet-pioneer-wins-turing-award-20230322/)
 * [2023-03-22, 11:03:54](https://news.ycombinator.com/item?id=35259315) - [The developer job market is insane](https://old.reddit.com/r/ExperiencedDevs/comments/11xq5cz/the_developer_job_market_is_insane_right_now/)
 * [2023-03-22, 10:47:38](https://news.ycombinator.com/item?id=35259214) - [Research shows we can only accurately identify AI writers about 50% of the time](https://hai.stanford.edu/news/was-written-human-or-ai-tsu)
 * [2023-03-22, 10:10:40](https://news.ycombinator.com/item?id=35258950) - [Ask HN: What audio&#x2F;sound-related OSS projects can I contribute to?](https://news.ycombinator.com/item?id=35258950)
