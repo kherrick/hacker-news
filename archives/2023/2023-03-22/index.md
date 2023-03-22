@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 19:08:39](https://news.ycombinator.com/item?id=35265752) - [A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
 * [2023-03-22, 19:00:50](https://news.ycombinator.com/item?id=35265665) - [Raytracing on AMD’s RDNA 2&#x2F;3, and Nvidia’s Turing and Pascal](https://chipsandcheese.com/2023/03/22/raytracing-on-amds-rdna-2-3-and-nvidias-turing-and-pascal/)
 * [2023-03-22, 18:01:02](https://news.ycombinator.com/item?id=35264787) - [Fed hikes rates by 0.25 point despite recent turmoil in the banking sector](https://www.cnbc.com/2023/03/22/fed-rate-hike-decision-march-2023.html)
 * [2023-03-22, 17:56:42](https://news.ycombinator.com/item?id=35264725) - [FauxPilot – an open-source GitHub Copilot server](https://github.com/fauxpilot/fauxpilot)
 * [2023-03-22, 17:49:05](https://news.ycombinator.com/item?id=35264601) - [Are spreadsheets a true programming language?](https://about.subset.so/blog/are-spreadsheets-a-true-programming-language)
+* [2023-03-22, 17:41:05](https://news.ycombinator.com/item?id=35264487) - [The Unix process API is unreliable and unsafe](http://catern.com/process.html)
 * [2023-03-22, 17:22:56](https://news.ycombinator.com/item?id=35264229) - [The Diff Challenge](https://github.com/ggerganov/diff-challenge)
 * [2023-03-22, 17:09:31](https://news.ycombinator.com/item?id=35264055) - [D&amp;D monster manual wants to help save real-life animals from extinction](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/book-of-extinction-kickstarter-dnd-5e)
 * [2023-03-22, 16:56:58](https://news.ycombinator.com/item?id=35263886) - [MRSK vs. Fly.io](https://fly.io/ruby-dispatch/mrsk-vs-flyio/)
