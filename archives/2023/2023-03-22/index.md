@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 13:48:02](https://news.ycombinator.com/item?id=35260931) - [Rollstack (YC W23) Is Hiring a Full Stack Engineer in EU, Brazil, Argentina](https://www.ycombinator.com/companies/rollstack-2/jobs/IV2FOtP-full-stack-engineer-react-nodejs-typescript-in-eu-argentina-brazil)
+* [2023-03-22, 13:41:48](https://news.ycombinator.com/item?id=35260865) - [Women are less likely to buy electric vehicles than men. Here&#x27;s why](https://19thnews.org/2023/03/electric-vehicles-gender-gap/)
 * [2023-03-22, 13:38:17](https://news.ycombinator.com/item?id=35260815) - [Launch HN: Flower (YC W23) – Train AI models on distributed or sensitive data](https://news.ycombinator.com/item?id=35260815)
 * [2023-03-22, 13:07:12](https://news.ycombinator.com/item?id=35260401) - [The Simplicity of Single-File Golang Deployments](https://www.amazingcto.com/simplicity-of-golang-systemd-deployments/)
 * [2023-03-22, 13:00:59](https://news.ycombinator.com/item?id=35260322) - [Unpopular Opinion: Don’t Use a Raspberry Pi for That](https://set-inform.com/2021/08/24/unpopular-opinion-dont-use-a-raspberry-pi-for-that/)
