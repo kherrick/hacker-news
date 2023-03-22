@@ -26,8 +26,8 @@
 * [2023-03-21, 23:35:31](https://news.ycombinator.com/item?id=35254389) - [A ChatGPT Emacs Shell](https://xenodium.com/a-chatgpt-emacs-shell/)
 * [2023-03-21, 16:57:22](https://news.ycombinator.com/item?id=35249005) - [The New Super Commute](https://www.wsj.com/articles/the-math-behind-the-new-super-commute-8ca57419)
 * [2023-03-21, 16:01:34](https://news.ycombinator.com/item?id=35248098) - [So you&#x27;ve installed `fzf` – now what?](https://andrew-quinn.me/fzf/)
-* [2023-03-21, 14:06:58](https://news.ycombinator.com/item?id=35246292) - [Launch HN: Frigade (YC W23) – Faster, better product onboarding](https://news.ycombinator.com/item?id=35246292)
 * [2023-03-20, 18:34:49](https://news.ycombinator.com/item?id=35236414) - [Think Screens Stole Our Attention? Medieval Monks Were Distracted Too](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html)
+* [2023-03-19, 22:11:40](https://news.ycombinator.com/item?id=35224209) - [A Simulation of a Simulation: Algorithms for Quantum Computing Experiments [pdf]](https://rioweil.github.io/assets/pdf/papers/bach_thesis.pdf)
 * [2023-03-19, 20:11:39](https://news.ycombinator.com/item?id=35223041) - [Club-Wielding Ancestors: Myth or Reality?](https://www.sapiens.org/archaeology/ancient-wooden-clubs-myth/)
 * [2023-03-19, 19:48:31](https://news.ycombinator.com/item?id=35222817) - [Show HN: Harmonized Data Platform](https://news.ycombinator.com/item?id=35222817)
 
