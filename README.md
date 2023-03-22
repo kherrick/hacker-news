@@ -16,6 +16,7 @@
 * [2023-03-21, 23:00:32](https://news.ycombinator.com/item?id=35253962) - [Thomas Midgley Jr. invented leaded gasoline and chlorofluorocarbons](https://www.nytimes.com/2023/03/15/magazine/cfcs-inventor.html)
 * [2023-03-21, 22:43:25](https://news.ycombinator.com/item?id=35253753) - [Hyundai promises to keep buttons in cars](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
 * [2023-03-21, 22:39:29](https://news.ycombinator.com/item?id=35253710) - [America’s banks are missing hundreds of billions of dollars](https://www.economist.com/finance-and-economics/2023/03/21/americas-banks-are-missing-hundreds-of-billions-of-dollars)
+* [2023-03-21, 22:11:16](https://news.ycombinator.com/item?id=35253362) - [Room Generation Using Constraint Satisfaction](https://pvigier.github.io/2022/11/05/room-generation-using-constraint-satisfaction.html)
 * [2023-03-21, 21:10:47](https://news.ycombinator.com/item?id=35252618) - [Grace Hopper on Late Night with David Letterman (1986) [video]](https://www.youtube.com/watch?v=oE2uls6iIEU)
 * [2023-03-21, 21:01:16](https://news.ycombinator.com/item?id=35252498) - [Etleap (YC W13) is hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
 * [2023-03-21, 20:42:12](https://news.ycombinator.com/item?id=35252223) - [Your website&#x27;s content -&gt; Q&amp;A bot &#x2F; chatbot](https://github.com/mpaepper/content-chatbot)
@@ -27,7 +28,6 @@
 * [2023-03-21, 14:04:17](https://news.ycombinator.com/item?id=35246253) - [Google releases Bard to a limited number of users in the US and UK](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
 * [2023-03-21, 13:55:58](https://news.ycombinator.com/item?id=35246139) - [Adobe Firefly: AI Art Generator](https://www.adobe.com/sensei/generative-ai/firefly.html)
 * [2023-03-21, 04:34:55](https://news.ycombinator.com/item?id=35242608) - [Gloria Dea, Las Vegas magician who vanished into obscurity, has died](https://www.washingtonpost.com/obituaries/2023/03/20/gloria-dea-first-las-vegas-magician-dies-at-100/)
-* [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
 * [2023-03-20, 04:56:05](https://news.ycombinator.com/item?id=35227454) - [An off-kilter visionary: Henry Green had a strange and distinctive talent](https://thecritic.co.uk/issues/march-2023/an-off-kilter-visionary/)
 * [2023-03-20, 04:47:40](https://news.ycombinator.com/item?id=35227410) - [&quot;The Earth Transformed&quot; Review - why humans have always been under the weather](https://www.theguardian.com/books/2023/mar/05/the-earth-transformed-by-peter-frankopan-review-why-humans-have-always-been-under-the-weather)
 
