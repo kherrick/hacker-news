@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 09:07:28](https://news.ycombinator.com/item?id=35258553) - [Show HN: ChatLLaMA – A ChatGPT style chatbot for Facebook&#x27;s LLaMA](https://chatllama.baseten.co/)
 * [2023-03-22, 07:33:52](https://news.ycombinator.com/item?id=35257937) - [Monero founder outed as Interpol informant](https://twitter.com/librehash/status/1637907642638008325)
 * [2023-03-22, 07:13:43](https://news.ycombinator.com/item?id=35257809) - [India: Delhi – 4 arrested just for the poster “Remove Modi, Save Country”](https://twitter.com/search)
 * [2023-03-22, 06:09:18](https://news.ycombinator.com/item?id=35257416) - [SheepShaver: macOS run-time environment for BeOS and Linux](http://sheepshaver.cebix.net/)
