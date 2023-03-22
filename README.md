@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-22, 16:37:48](https://news.ycombinator.com/item?id=35263635) - [The Internet Archive Is Archiving Dpreview.com](https://old.reddit.com/r/photography/comments/11ya4fa/dpreview_is_being_archived_by_the_archive_team/)
+* [2023-03-22, 16:50:20](https://news.ycombinator.com/item?id=35263803) - [CS:GO 2 Is Announced](https://twitter.com/CSGO/status/1638580074126659584)
+* [2023-03-22, 16:37:48](https://news.ycombinator.com/item?id=35263635) - [Archive Team is archiving DPReview](https://old.reddit.com/r/photography/comments/11ya4fa/dpreview_is_being_archived_by_the_archive_team/)
 * [2023-03-22, 16:01:15](https://news.ycombinator.com/item?id=35263115) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2023-03-22, 15:02:53](https://news.ycombinator.com/item?id=35262131) - [The Poor, Misunderstood InnerText](http://perfectionkills.com/the-poor-misunderstood-innerText/)
 * [2023-03-22, 14:59:23](https://news.ycombinator.com/item?id=35262073) - [Home Prices Fell in February for First Time in 11 Years](https://www.wsj.com/articles/home-prices-fell-in-february-for-first-time-in-11-years-73df0107)
@@ -12,7 +13,6 @@
 * [2023-03-22, 13:48:02](https://news.ycombinator.com/item?id=35260931) - [Rollstack (YC W23) Is Hiring a Full Stack Engineer in EU, Brazil, Argentina](https://www.ycombinator.com/companies/rollstack-2/jobs/IV2FOtP-full-stack-engineer-react-nodejs-typescript-in-eu-argentina-brazil)
 * [2023-03-22, 13:38:17](https://news.ycombinator.com/item?id=35260815) - [Launch HN: Flower (YC W23) – Train AI models on distributed or sensitive data](https://news.ycombinator.com/item?id=35260815)
 * [2023-03-22, 13:07:12](https://news.ycombinator.com/item?id=35260401) - [The Simplicity of Single-File Golang Deployments](https://www.amazingcto.com/simplicity-of-golang-systemd-deployments/)
-* [2023-03-22, 13:06:33](https://news.ycombinator.com/item?id=35260392) - [Conversational Software Development (2020)](https://oli.me.uk/conversational-software-development/)
 * [2023-03-22, 13:00:59](https://news.ycombinator.com/item?id=35260322) - [Unpopular Opinion: Don’t Use a Raspberry Pi for That](https://set-inform.com/2021/08/24/unpopular-opinion-dont-use-a-raspberry-pi-for-that/)
 * [2023-03-22, 12:06:57](https://news.ycombinator.com/item?id=35259817) - [Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
 * [2023-03-22, 11:45:31](https://news.ycombinator.com/item?id=35259595) - [RNA compound and vitamin B3 found in samples from near-Earth asteroid](https://www.cnn.com/2023/03/21/world/ryugu-asteroid-organic-molecules-scn/index.html)

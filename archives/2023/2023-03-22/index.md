@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 16:50:20](https://news.ycombinator.com/item?id=35263803) - [CS:GO 2 Is Announced](https://twitter.com/CSGO/status/1638580074126659584)
 * [2023-03-22, 16:37:48](https://news.ycombinator.com/item?id=35263635) - [The Internet Archive Is Archiving Dpreview.com](https://old.reddit.com/r/photography/comments/11ya4fa/dpreview_is_being_archived_by_the_archive_team/)
 * [2023-03-22, 16:01:15](https://news.ycombinator.com/item?id=35263115) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2023-03-22, 15:45:19](https://news.ycombinator.com/item?id=35262866) - [Microsoft Loop Preview](https://loop.microsoft.com/learn)
