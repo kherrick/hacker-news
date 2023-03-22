@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 23:53:28](https://news.ycombinator.com/item?id=35254576) - [Shields Up](https://seths.blog/2023/03/shields-up-2/)
 * [2023-03-21, 23:34:06](https://news.ycombinator.com/item?id=35254373) - [AI is most important tech advance in decades](https://www.bbc.co.uk/news/technology-65032848)
+* [2023-03-21, 23:00:32](https://news.ycombinator.com/item?id=35253962) - [The Brilliant Inventor Who Made Two of History’s Biggest Mistakes](https://www.nytimes.com/2023/03/15/magazine/cfcs-inventor.html)
 * [2023-03-21, 22:46:40](https://news.ycombinator.com/item?id=35253785) - [Ask HN: Year old CS student. Should I continue?](https://news.ycombinator.com/item?id=35253785)
 * [2023-03-21, 22:43:25](https://news.ycombinator.com/item?id=35253753) - [Hyundai Promises to Keep Buttons in Cars](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
+* [2023-03-21, 22:39:29](https://news.ycombinator.com/item?id=35253710) - [America’s banks are missing hundreds of billions of dollars](https://www.economist.com/finance-and-economics/2023/03/21/americas-banks-are-missing-hundreds-of-billions-of-dollars)
 * [2023-03-21, 22:38:10](https://news.ycombinator.com/item?id=35253694) - [DistroHopper: Quickly download, create and run VM of any operating system](https://osowoso.github.io/DistroHopper/)
 * [2023-03-21, 21:52:01](https://news.ycombinator.com/item?id=35253098) - [The collapse of companies like SVB is triggering demand for corporate merch](https://www.modernretail.co/marketing/the-collapse-of-companies-like-svb-is-triggering-demand-for-limited-edition-corporate-merch/)
 * [2023-03-21, 21:51:31](https://news.ycombinator.com/item?id=35253088) - [Can AI-Generated Text Be Reliably Detected?](https://arxiv.org/abs/2303.11156)
@@ -20,6 +23,7 @@
 * [2023-03-21, 20:55:37](https://news.ycombinator.com/item?id=35252416) - [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
 * [2023-03-21, 20:42:12](https://news.ycombinator.com/item?id=35252223) - [Your website&#x27;s content -&gt; Q&amp;A bot &#x2F; chatbot](https://github.com/mpaepper/content-chatbot)
 * [2023-03-21, 20:40:58](https://news.ycombinator.com/item?id=35252206) - [Create an IAM Role and Ass a User](https://docs.aws.amazon.com/IAM/latest/UserGuide/example_iam_Scenario_GroupBasics_section.html)
+* [2023-03-21, 20:36:32](https://news.ycombinator.com/item?id=35252156) - [GOOD Meat gets green light from FDA for cultivated meat](https://agfundernews.com/good-meat-gets-green-light-from-fda-for-cultivated-meat)
 * [2023-03-21, 20:36:01](https://news.ycombinator.com/item?id=35252148) - [Printing headline news on the Commodore 64 with The Newsroom&#x27;s Wire Service](http://oldvcr.blogspot.com/2023/03/printing-real-headline-news-on.html)
 * [2023-03-21, 20:35:34](https://news.ycombinator.com/item?id=35252144) - [JEP 443: Unnamed Patterns and Variables (Preview)](https://openjdk.org/jeps/443)
 * [2023-03-21, 20:28:48](https://news.ycombinator.com/item?id=35252056) - [Intel graphics chief Raja Koduri leaves after five years battling Nvidia and AMD](https://www.theverge.com/2023/3/21/23650611/intel-raja-koduri-gpus-amd-nvidia-apple-leave-ai-startup)
