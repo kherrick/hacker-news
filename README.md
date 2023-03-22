@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-22, 04:33:14](https://news.ycombinator.com/item?id=35256867) - [Bard is dreadful at solving rhyming word puzzles](https://twofergoofer.com/blog/bard)
 * [2023-03-22, 03:53:14](https://news.ycombinator.com/item?id=35256607) - [JPMorgan says the U.S. is probably headed for a recession](https://fortune.com/2023/03/21/recession-banking-crisis-federal-reserve-minsky-moment-jpmorgan-us-economy/)
 * [2023-03-22, 03:03:46](https://news.ycombinator.com/item?id=35256288) - [Every possible Wordle solution visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
 * [2023-03-22, 02:56:43](https://news.ycombinator.com/item?id=35256238) - [Postgres for Developers](https://postgrespro.com/community/courses)
@@ -11,11 +12,9 @@
 * [2023-03-21, 23:35:31](https://news.ycombinator.com/item?id=35254389) - [A ChatGPT Emacs Shell](https://xenodium.com/a-chatgpt-emacs-shell/)
 * [2023-03-21, 23:00:32](https://news.ycombinator.com/item?id=35253962) - [Thomas Midgley Jr. invented leaded gasoline and chlorofluorocarbons](https://www.nytimes.com/2023/03/15/magazine/cfcs-inventor.html)
 * [2023-03-21, 22:43:25](https://news.ycombinator.com/item?id=35253753) - [Hyundai promises to keep buttons in cars](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
-* [2023-03-21, 21:29:17](https://news.ycombinator.com/item?id=35252837) - [Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
 * [2023-03-21, 21:10:47](https://news.ycombinator.com/item?id=35252618) - [Grace Hopper on Late Night with David Letterman (1986) [video]](https://www.youtube.com/watch?v=oE2uls6iIEU)
 * [2023-03-21, 21:01:16](https://news.ycombinator.com/item?id=35252498) - [Etleap (YC W13) is hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
 * [2023-03-21, 20:36:32](https://news.ycombinator.com/item?id=35252156) - [GOOD Meat gets green light from FDA for cultivated meat](https://agfundernews.com/good-meat-gets-green-light-from-fda-for-cultivated-meat)
-* [2023-03-21, 20:35:34](https://news.ycombinator.com/item?id=35252144) - [JEP 443: Unnamed Patterns and Variables (Preview)](https://openjdk.org/jeps/443)
 * [2023-03-21, 18:03:09](https://news.ycombinator.com/item?id=35249971) - [Windows Snipping Tool is vulnerable to Acropalypse too](https://twitter.com/David3141593/status/1638222624084951040)
 * [2023-03-21, 16:50:58](https://news.ycombinator.com/item?id=35248912) - [Show HN: Public transportation signage based on bloom filters (rough mockup)](https://github.com/jsvan/BusStopBloomfilter)
 * [2023-03-21, 16:14:58](https://news.ycombinator.com/item?id=35248296) - [DPReview.com to close](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
@@ -30,6 +29,7 @@
 * [2023-03-21, 04:34:55](https://news.ycombinator.com/item?id=35242608) - [Gloria Dea, Las Vegas magician who vanished into obscurity, has died](https://www.washingtonpost.com/obituaries/2023/03/20/gloria-dea-first-las-vegas-magician-dies-at-100/)
 * [2023-03-20, 04:56:05](https://news.ycombinator.com/item?id=35227454) - [An off-kilter visionary: Henry Green had a strange and distinctive talent](https://thecritic.co.uk/issues/march-2023/an-off-kilter-visionary/)
 * [2023-03-20, 04:47:40](https://news.ycombinator.com/item?id=35227410) - [&quot;The Earth Transformed&quot; Review - why humans have always been under the weather](https://www.theguardian.com/books/2023/mar/05/the-earth-transformed-by-peter-frankopan-review-why-humans-have-always-been-under-the-weather)
+* [2023-03-19, 22:16:22](https://news.ycombinator.com/item?id=35224262) - [Interview with Sten “ZTN” Uusvali](https://www.quakehaus.com/news/9628/interview-with-sten-ztn-uusvali/)
 
 ## [Archives](archives/index.md)
 

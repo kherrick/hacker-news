@@ -13,6 +13,7 @@
 * [2023-03-19, 23:02:20](https://news.ycombinator.com/item?id=35224666) - [Anti-recruiter prompt injection attack in LinkedIn profile](https://twitter.com/brdskggs/status/1637114268876144640)
 * [2023-03-19, 22:37:43](https://news.ycombinator.com/item?id=35224439) - [BNF Was Here: What Have We Done About the Unnecessary Notation Diversity (2011) [pdf]](https://www.grammarware.net/text/2012/bnf-was-here.pdf)
 * [2023-03-19, 22:28:18](https://news.ycombinator.com/item?id=35224356) - [Mastodon Hit 10M Users](https://mastodon.social/@mastodonusercount/110051957865629817)
+* [2023-03-19, 22:16:22](https://news.ycombinator.com/item?id=35224262) - [Interview with Sten “ZTN” Uusvali](https://www.quakehaus.com/news/9628/interview-with-sten-ztn-uusvali/)
 * [2023-03-19, 22:12:27](https://news.ycombinator.com/item?id=35224219) - [Glaze (Poisoning AI Artists)](https://glaze.cs.uchicago.edu/)
 * [2023-03-19, 22:04:46](https://news.ycombinator.com/item?id=35224167) - [Google CEO Sundar Pichai deletes chats in violation of retention obligations](http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html)
 * [2023-03-19, 21:40:01](https://news.ycombinator.com/item?id=35223950) - [My new hobby: finding public domain images that Getty sells for $500](https://twitter.com/doctorow/status/1637443442921066497)

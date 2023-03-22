@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 04:33:14](https://news.ycombinator.com/item?id=35256867) - [Bard is dreadful at solving rhyming word puzzles](https://twofergoofer.com/blog/bard)
 * [2023-03-22, 03:53:14](https://news.ycombinator.com/item?id=35256607) - [JPMorgan says the U.S. is probably headed for a recession](https://fortune.com/2023/03/21/recession-banking-crisis-federal-reserve-minsky-moment-jpmorgan-us-economy/)
 * [2023-03-22, 03:03:46](https://news.ycombinator.com/item?id=35256288) - [Every Possible Wordle Solution Visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
 * [2023-03-22, 02:56:43](https://news.ycombinator.com/item?id=35256238) - [Postgres for Developers](https://postgrespro.com/community/courses)
