@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 23:34:06](https://news.ycombinator.com/item?id=35254373) - [AI is most important tech advance in decades](https://www.bbc.co.uk/news/technology-65032848)
 * [2023-03-21, 22:46:40](https://news.ycombinator.com/item?id=35253785) - [Ask HN: Year old CS student. Should I continue?](https://news.ycombinator.com/item?id=35253785)
 * [2023-03-21, 22:43:25](https://news.ycombinator.com/item?id=35253753) - [Hyundai Promises to Keep Buttons in Cars](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
 * [2023-03-21, 22:38:10](https://news.ycombinator.com/item?id=35253694) - [DistroHopper: Quickly download, create and run VM of any operating system](https://osowoso.github.io/DistroHopper/)
@@ -20,6 +21,7 @@
 * [2023-03-21, 20:42:12](https://news.ycombinator.com/item?id=35252223) - [Your website&#x27;s content -&gt; Q&amp;A bot &#x2F; chatbot](https://github.com/mpaepper/content-chatbot)
 * [2023-03-21, 20:40:58](https://news.ycombinator.com/item?id=35252206) - [Create an IAM Role and Ass a User](https://docs.aws.amazon.com/IAM/latest/UserGuide/example_iam_Scenario_GroupBasics_section.html)
 * [2023-03-21, 20:36:01](https://news.ycombinator.com/item?id=35252148) - [Printing headline news on the Commodore 64 with The Newsroom&#x27;s Wire Service](http://oldvcr.blogspot.com/2023/03/printing-real-headline-news-on.html)
+* [2023-03-21, 20:35:34](https://news.ycombinator.com/item?id=35252144) - [JEP 443: Unnamed Patterns and Variables (Preview)](https://openjdk.org/jeps/443)
 * [2023-03-21, 20:28:48](https://news.ycombinator.com/item?id=35252056) - [Intel graphics chief Raja Koduri leaves after five years battling Nvidia and AMD](https://www.theverge.com/2023/3/21/23650611/intel-raja-koduri-gpus-amd-nvidia-apple-leave-ai-startup)
 * [2023-03-21, 19:58:31](https://news.ycombinator.com/item?id=35251677) - [Grover&#x27;s Algorithm Offers No Quantum Advantage](https://arxiv.org/abs/2303.11317)
 * [2023-03-21, 19:45:28](https://news.ycombinator.com/item?id=35251505) - [Top highest-earning Substack newsletters generate over $22M a year](https://pressgazette.co.uk/newsletters/highest-earning-substacks/)
