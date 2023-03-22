@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 03:03:46](https://news.ycombinator.com/item?id=35256288) - [Every Possible Wordle Solution Visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
 * [2023-03-22, 02:56:43](https://news.ycombinator.com/item?id=35256238) - [Postgres for Developers](https://postgrespro.com/community/courses)
 * [2023-03-22, 02:56:39](https://news.ycombinator.com/item?id=35256237) - [Pytest Tips and Tricks](https://pythontest.com/pytest-tips-tricks/)
 * [2023-03-22, 02:11:26](https://news.ycombinator.com/item?id=35255864) - [Bard uses a Hacker News comment as single source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)

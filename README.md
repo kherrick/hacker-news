@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-22, 03:03:46](https://news.ycombinator.com/item?id=35256288) - [Every Possible Wordle Solution Visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
 * [2023-03-22, 02:56:43](https://news.ycombinator.com/item?id=35256238) - [Postgres for Developers](https://postgrespro.com/community/courses)
 * [2023-03-22, 02:56:39](https://news.ycombinator.com/item?id=35256237) - [Pytest Tips and Tricks](https://pythontest.com/pytest-tips-tricks/)
 * [2023-03-22, 02:11:26](https://news.ycombinator.com/item?id=35255864) - [Bard uses a Hacker News comment as source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
@@ -29,7 +30,6 @@
 * [2023-03-21, 04:34:55](https://news.ycombinator.com/item?id=35242608) - [Gloria Dea, Las Vegas magician who vanished into obscurity, has died](https://www.washingtonpost.com/obituaries/2023/03/20/gloria-dea-first-las-vegas-magician-dies-at-100/)
 * [2023-03-20, 04:56:05](https://news.ycombinator.com/item?id=35227454) - [An off-kilter visionary: Henry Green had a strange and distinctive talent](https://thecritic.co.uk/issues/march-2023/an-off-kilter-visionary/)
 * [2023-03-20, 04:47:40](https://news.ycombinator.com/item?id=35227410) - [&quot;The Earth Transformed&quot; Review - why humans have always been under the weather](https://www.theguardian.com/books/2023/mar/05/the-earth-transformed-by-peter-frankopan-review-why-humans-have-always-been-under-the-weather)
-* [2023-03-19, 09:54:36](https://news.ycombinator.com/item?id=35217505) - [Intel Thunder Bay is officially canceled, Linux driver code to be removed](https://www.phoronix.com/news/Intel-Thunder-Bay-Cancelled)
 
 ## [Archives](archives/index.md)
 
