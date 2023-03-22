@@ -60,6 +60,7 @@
 * [2023-03-21, 15:05:11](https://news.ycombinator.com/item?id=35247242) - [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
 * [2023-03-21, 15:00:08](https://news.ycombinator.com/item?id=35247174) - [Image Creator in Bing](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/)
 * [2023-03-21, 14:55:02](https://news.ycombinator.com/item?id=35247083) - [Dragonfly Is Production Ready (and we raised $21M)](https://dragonflydb.io/blog/dragonfly-production-ready)
+* [2023-03-21, 14:49:42](https://news.ycombinator.com/item?id=35246995) - [How I came to write “Tidy First?” tl;dr it took 18 years](https://tidyfirst.substack.com/p/how-i-came-to-write-tidy-first)
 * [2023-03-21, 14:48:42](https://news.ycombinator.com/item?id=35246985) - [Java 20 Is Out!](https://openjdk.org/projects/jdk/20/)
 * [2023-03-21, 14:30:58](https://news.ycombinator.com/item?id=35246710) - [Java 20 &#x2F; JDK 20: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html)
 * [2023-03-21, 14:23:54](https://news.ycombinator.com/item?id=35246573) - [Surprise Computer Science Proof Stuns Mathematicians](https://www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/)
