@@ -80,6 +80,7 @@
 * [2023-03-21, 12:05:22](https://news.ycombinator.com/item?id=35245072) - [OpenAI Research Says 80% of U.S. Workers&#x27; Jobs Will Be Impacted by GPT](https://www.vice.com/en/article/g5ypy4/openai-research-says-80-of-us-workers-will-have-jobs-impacted-by-gpt)
 * [2023-03-21, 12:00:10](https://news.ycombinator.com/item?id=35245035) - [Reclaim Protocol Is Hiring a Cryptography&#x2F;Security Researcher](https://www.ycombinator.com/companies/questbook/jobs/2cAGsSp-cryptography-security-researcher)
 * [2023-03-21, 11:56:19](https://news.ycombinator.com/item?id=35245008) - [Portable Game Notation Specification and Implementation Guide](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm)
+* [2023-03-21, 09:05:03](https://news.ycombinator.com/item?id=35243981) - [CSS Paged Media Module Level 3](https://bugzilla.mozilla.org/show_bug.cgi?id=286443)
 * [2023-03-21, 08:31:05](https://news.ycombinator.com/item?id=35243752) - [Louis Rossmann could sue John Deere for GPL violation](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
 * [2023-03-21, 07:35:23](https://news.ycombinator.com/item?id=35243435) - [Awesome-totally-open-ChatGPT: A list of open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 * [2023-03-21, 07:18:28](https://news.ycombinator.com/item?id=35243355) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)

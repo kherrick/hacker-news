@@ -20,7 +20,6 @@
 * [2023-03-22, 13:38:17](https://news.ycombinator.com/item?id=35260815) - [Launch HN: Flower (YC W23) – Train AI models on distributed or sensitive data](https://news.ycombinator.com/item?id=35260815)
 * [2023-03-22, 12:06:57](https://news.ycombinator.com/item?id=35259817) - [Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
 * [2023-03-22, 11:44:35](https://news.ycombinator.com/item?id=35259588) - [A cyberpunk bathroom in the middle of nowhere](https://taylor.town/cyberpunk-bathroom)
-* [2023-03-22, 11:21:21](https://news.ycombinator.com/item?id=35259428) - [2023 Abel Prize: Luis A. Caffarelli](https://abelprize.no/abel-prize-laureates/2023)
 * [2023-03-22, 10:47:38](https://news.ycombinator.com/item?id=35259214) - [Research shows we can only accurately identify AI writers about 50% of the time](https://hai.stanford.edu/news/was-written-human-or-ai-tsu)
 * [2023-03-22, 09:59:04](https://news.ycombinator.com/item?id=35258877) - [Bob Metcalfe wins Turing Award](https://amturing.acm.org/?2023)
 * [2023-03-22, 09:07:28](https://news.ycombinator.com/item?id=35258553) - [Show HN: ChatLLaMA – A ChatGPT style chatbot for Facebook&#x27;s LLaMA](https://chatllama.baseten.co/)
@@ -29,6 +28,7 @@
 * [2023-03-22, 05:18:27](https://news.ycombinator.com/item?id=35257113) - [The Disappearing Doomsday](https://harpers.org/archive/2023/04/the-incredible-disappearing-doomsday-climate-catastrophists-new-york-times-climate-change-coverage/)
 * [2023-03-22, 02:30:05](https://news.ycombinator.com/item?id=35256014) - [Codes and Crowns](https://www.historytoday.com/archive/history-matters/codes-and-crowns)
 * [2023-03-21, 14:49:42](https://news.ycombinator.com/item?id=35246995) - [How I came to write “Tidy First?” tl;dr it took 18 years](https://tidyfirst.substack.com/p/how-i-came-to-write-tidy-first)
+* [2023-03-21, 09:05:03](https://news.ycombinator.com/item?id=35243981) - [CSS Paged Media Module Level 3](https://bugzilla.mozilla.org/show_bug.cgi?id=286443)
 * [2023-03-20, 18:34:49](https://news.ycombinator.com/item?id=35236414) - [Medieval monks were distracted too](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html)
 
 ## [Archives](archives/index.md)
