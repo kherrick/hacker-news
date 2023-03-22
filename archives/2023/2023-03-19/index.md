@@ -69,6 +69,7 @@
 * [2023-03-19, 12:54:06](https://news.ycombinator.com/item?id=35218463) - [Unix legend Ken Thompson announces he&#x27;s switching From macOS To Raspberry Linux](https://www.youtube.com/watch?v=kaandEt_pKw)
 * [2023-03-19, 12:52:25](https://news.ycombinator.com/item?id=35218456) - [Microsoft is testing a built-in cryptocurrency wallet for the Edge web browser](https://arstechnica.com/gadgets/2023/03/microsoft-is-testing-a-built-in-cryptocurrency-wallet-for-the-edge-browser/)
 * [2023-03-19, 12:51:12](https://news.ycombinator.com/item?id=35218448) - [Alternative facts: How the media failed Julian Assange](https://harpers.org/archive/2023/03/alternative-facts-how-the-media-failed-julian-assange/)
+* [2023-03-19, 12:38:25](https://news.ycombinator.com/item?id=35218355) - [Win-Draw-Loss evaluation (2020)](https://lczero.org/blog/2020/04/wdl-head/)
 * [2023-03-19, 12:35:38](https://news.ycombinator.com/item?id=35218339) - [Tearing Down Apple&#x27;s Display Opener](https://www.youtube.com/watch?v=govETQLZGWA)
 * [2023-03-19, 12:30:09](https://news.ycombinator.com/item?id=35218302) - [ChatGPT can in fact ask you questions](https://twitter.com/bitecode_dev/status/1637420579278954501)
 * [2023-03-19, 12:29:38](https://news.ycombinator.com/item?id=35218296) - [UBS offers to buy Credit Suisse for up to $1B](https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd)
