@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-22, 19:00:50",
+      "https://news.ycombinator.com/item?id=35265665"
+    ],
+    [
+      "Raytracing on AMD’s RDNA 2&#x2F;3, and Nvidia’s Turing and Pascal",
+      "https://chipsandcheese.com/2023/03/22/raytracing-on-amds-rdna-2-3-and-nvidias-turing-and-pascal/"
+    ]
+  ],
+  [
+    [
       "2023-03-22, 18:01:02",
       "https://news.ycombinator.com/item?id=35264787"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-03-22, 17:49:05",
-      "https://news.ycombinator.com/item?id=35264601"
+      "2023-03-22, 17:22:56",
+      "https://news.ycombinator.com/item?id=35264229"
     ],
     [
-      "Are spreadsheets a true programming language?",
-      "https://about.subset.so/blog/are-spreadsheets-a-true-programming-language"
+      "The Diff Challenge",
+      "https://github.com/ggerganov/diff-challenge"
     ]
   ],
   [
@@ -45,18 +55,8 @@
       "https://news.ycombinator.com/item?id=35263838"
     ],
     [
-      "Counter-Strike 2 – Limited Test begins for free upgrade to CSGO",
+      "Counter-Strike 2 – Limited Test for select CS:GO players",
       "https://counter-strike.net/cs2"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 16:50:20",
-      "https://news.ycombinator.com/item?id=35263803"
-    ],
-    [
-      "Counter-Strike 2 Is Announced",
-      "https://twitter.com/CSGO/status/1638580074126659584"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models",
       "https://lukashoel.github.io/text-to-room/"
+    ]
+  ],
+  [
+    [
+      "2023-03-22, 16:45:22",
+      "https://news.ycombinator.com/item?id=35263740"
+    ],
+    [
+      "Robots Have Been About to Take All the Jobs for 100 Years",
+      "https://newsletter.pessimistsarchive.org/p/robots-have-been-about-to-take-all"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=35263115"
     ],
     [
-      "A Eulogy for Dark Sky, a Data Visualization Masterpiece",
+      "A eulogy for Dark Sky, a data visualization masterpiece",
       "https://nightingaledvs.com/dark-sky-weather-data-viz/"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=35261065"
     ],
     [
-      "GitHub Copilot X: The AI-powered developer experience",
+      "GitHub Copilot X",
       "https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Show HN: Finetune LLaMA-7B on commodity GPUs using your own text",
       "https://github.com/lxe/simple-llama-finetuner"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 03:03:46",
-      "https://news.ycombinator.com/item?id=35256288"
-    ],
-    [
-      "Every possible Wordle solution visualized",
-      "https://www.perthirtysix.com/essay/wordle-solutions-visualized"
     ]
   ],
   [
