@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-22, 07:33:52](https://news.ycombinator.com/item?id=35257937) - [Monero founder outed as Interpol informant](https://twitter.com/librehash/status/1637907642638008325)
 * [2023-03-22, 06:09:18](https://news.ycombinator.com/item?id=35257416) - [SheepShaver: macOS run-time environment for BeOS and Linux](http://sheepshaver.cebix.net/)
 * [2023-03-22, 05:46:42](https://news.ycombinator.com/item?id=35257278) - [The Federal Reserve is expected to increase interest rates by a quarter point](https://www.cnbc.com/2023/03/21/fed-likely-to-raise-rates-by-a-quarter-point-but-it-must-also-reassure-markets-on-banking-system.html)
 * [2023-03-22, 04:33:14](https://news.ycombinator.com/item?id=35256867) - [Bard is much worse at puzzle solving than ChatGPT](https://twofergoofer.com/blog/bard)
@@ -23,6 +22,7 @@
 * [2023-03-21, 16:50:58](https://news.ycombinator.com/item?id=35248912) - [Show HN: Public transportation signage based on bloom filters (rough mockup)](https://github.com/jsvan/BusStopBloomfilter)
 * [2023-03-21, 16:01:34](https://news.ycombinator.com/item?id=35248098) - [So you&#x27;ve installed `fzf` – now what?](https://andrew-quinn.me/fzf/)
 * [2023-03-21, 15:24:51](https://news.ycombinator.com/item?id=35247557) - [Why construction projects always go over budget](https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget)
+* [2023-03-21, 15:05:11](https://news.ycombinator.com/item?id=35247242) - [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
 * [2023-03-21, 14:30:58](https://news.ycombinator.com/item?id=35246710) - [Java 20 &#x2F; JDK 20: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html)
 * [2023-03-21, 14:06:58](https://news.ycombinator.com/item?id=35246292) - [Launch HN: Frigade (YC W23) – Faster, better product onboarding](https://news.ycombinator.com/item?id=35246292)
 * [2023-03-21, 14:04:17](https://news.ycombinator.com/item?id=35246253) - [Google releases Bard to a limited number of users in the US and UK](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
