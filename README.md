@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-22, 15:45:19](https://news.ycombinator.com/item?id=35262866) - [Microsoft Loop Preview](https://loop.microsoft.com/learn)
 * [2023-03-22, 15:02:53](https://news.ycombinator.com/item?id=35262131) - [The Poor, Misunderstood InnerText](http://perfectionkills.com/the-poor-misunderstood-innerText/)
 * [2023-03-22, 14:59:23](https://news.ycombinator.com/item?id=35262073) - [Home Prices Fell in February for First Time in 11 Years](https://www.wsj.com/articles/home-prices-fell-in-february-for-first-time-in-11-years-73df0107)
-* [2023-03-22, 14:51:55](https://news.ycombinator.com/item?id=35261946) - [Ask HN: How much of inflation is caused by supply rather than demand issues?](https://news.ycombinator.com/item?id=35261946)
-* [2023-03-22, 14:27:51](https://news.ycombinator.com/item?id=35261555) - [Fungus Candida auris infections spreading across US, CDC warns](https://www.usatoday.com/story/news/health/2023/03/21/fungus-candida-auris-infections-spreading-cdc-warning/11513263002/)
 * [2023-03-22, 14:18:28](https://news.ycombinator.com/item?id=35261386) - [Show HN: Moonshine – open-source, pretrained ML models for satellite](https://moonshineai.readthedocs.io/en/latest/index.html)
 * [2023-03-22, 14:17:04](https://news.ycombinator.com/item?id=35261363) - [A Mirror That Reverses How Light Travels in Time](https://spectrum.ieee.org/time-reversal-interface)
 * [2023-03-22, 14:12:43](https://news.ycombinator.com/item?id=35261277) - [Year from Quitting My Full-Time PM Job. What Do I Miss the Most?](https://www.harshal-patil.com/post/1-year-from-quitting-my-full-time-pm-job-what-do-i-miss-the-most)
@@ -30,6 +29,7 @@
 * [2023-03-22, 00:41:56](https://news.ycombinator.com/item?id=35255052) - [Show HN: Generate styled web pages with just Python](https://www.pyvibe.com/)
 * [2023-03-21, 16:57:22](https://news.ycombinator.com/item?id=35249005) - [The New Super Commute](https://www.wsj.com/articles/the-math-behind-the-new-super-commute-8ca57419)
 * [2023-03-20, 18:34:49](https://news.ycombinator.com/item?id=35236414) - [Think Screens Stole Our Attention? Medieval Monks Were Distracted Too](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html)
+* [2023-03-20, 05:25:09](https://news.ycombinator.com/item?id=35227621) - [The Duke in His Domain: Marlon Brando, on Location (1957)](https://www.newyorker.com/magazine/1957/11/09/the-duke-in-his-domain)
 
 ## [Archives](archives/index.md)
 

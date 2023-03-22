@@ -103,6 +103,7 @@
 * [2023-03-20, 06:24:02](https://news.ycombinator.com/item?id=35227962) - [Dietary sweetener sucralose is a negative modulator of T cell-mediated responses](https://www.nature.com/articles/s41586-023-05801-6)
 * [2023-03-20, 06:03:47](https://news.ycombinator.com/item?id=35227834) - [Rust Support Is Being Built into the GNU GCC Compiler](https://thenewstack.io/rust-support-is-being-built-into-the-gnu-gcc-compiler/)
 * [2023-03-20, 05:27:07](https://news.ycombinator.com/item?id=35227635) - [TinyVG – an alternative binary encoded vector graphics format](https://tinyvg.tech/)
+* [2023-03-20, 05:25:09](https://news.ycombinator.com/item?id=35227621) - [The Duke in His Domain: Marlon Brando, on Location (1957)](https://www.newyorker.com/magazine/1957/11/09/the-duke-in-his-domain)
 * [2023-03-20, 05:21:04](https://news.ycombinator.com/item?id=35227600) - [Previous: A NeXT Computer Emulator](https://previous.unixdude.net/)
 * [2023-03-20, 05:15:20](https://news.ycombinator.com/item?id=35227564) - [Pacific Pinball Museum in Alameda, CA](https://www.pacificpinball.org)
 * [2023-03-20, 04:56:05](https://news.ycombinator.com/item?id=35227454) - [An off-kilter visionary: Henry Green had a strange and distinctive talent](https://thecritic.co.uk/issues/march-2023/an-off-kilter-visionary/)
