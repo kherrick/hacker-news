@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 19:57:13](https://news.ycombinator.com/item?id=35266322) - [SEC charges crypto entrepreneur Justin Sun and his companies for fraud](https://www.sec.gov/news/press-release/2023-59)
+* [2023-03-22, 19:55:44](https://news.ycombinator.com/item?id=35266304) - [Remote work is starting to hit office rents](https://www.axios.com/2023/03/22/remote-work-wf-office-rents-decline)
 * [2023-03-22, 19:52:24](https://news.ycombinator.com/item?id=35266271) - [The Uncomfortable Truth About Why Buying Furniture Is So Miserable](https://www.theassemblync.com/business/high-point-furniture/)
 * [2023-03-22, 19:14:58](https://news.ycombinator.com/item?id=35265833) - [The Well-Being Gap Between Liberals and Conservatives](https://americanaffairsjournal.org/2023/03/how-to-understand-the-well-being-gap-between-liberals-and-conservatives/)
 * [2023-03-22, 19:08:39](https://news.ycombinator.com/item?id=35265752) - [A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
@@ -22,6 +24,7 @@
 * [2023-03-22, 16:45:22](https://news.ycombinator.com/item?id=35263740) - [Robots Have Been About to Take All the Jobs for 100 Years](https://newsletter.pessimistsarchive.org/p/robots-have-been-about-to-take-all)
 * [2023-03-22, 16:37:48](https://news.ycombinator.com/item?id=35263635) - [The Internet Archive Is Archiving Dpreview.com](https://old.reddit.com/r/photography/comments/11ya4fa/dpreview_is_being_archived_by_the_archive_team/)
 * [2023-03-22, 16:32:06](https://news.ycombinator.com/item?id=35263542) - [Show HN: Zapier universal API (using natural language)](https://news.ycombinator.com/item?id=35263542)
+* [2023-03-22, 16:12:13](https://news.ycombinator.com/item?id=35263285) - [De-cloud and de-k8s – bringing our apps back home](https://dev.37signals.com/bringing-our-apps-back-home/)
 * [2023-03-22, 16:01:15](https://news.ycombinator.com/item?id=35263115) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2023-03-22, 15:45:19](https://news.ycombinator.com/item?id=35262866) - [Microsoft Loop Preview](https://loop.microsoft.com/learn)
 * [2023-03-22, 15:02:53](https://news.ycombinator.com/item?id=35262131) - [The Poor, Misunderstood InnerText](http://perfectionkills.com/the-poor-misunderstood-innerText/)
@@ -47,6 +50,7 @@
 * [2023-03-22, 12:06:57](https://news.ycombinator.com/item?id=35259817) - [Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
 * [2023-03-22, 11:45:31](https://news.ycombinator.com/item?id=35259595) - [RNA compound and vitamin B3 found in samples from near-Earth asteroid](https://www.cnn.com/2023/03/21/world/ryugu-asteroid-organic-molecules-scn/index.html)
 * [2023-03-22, 11:44:35](https://news.ycombinator.com/item?id=35259588) - [A Cyberpunk Bathroom in the Middle of Nowhere](https://taylor.town/cyberpunk-bathroom)
+* [2023-03-22, 11:36:41](https://news.ycombinator.com/item?id=35259527) - [How the last-ditch effort to save Silicon Valley Bank failed](https://www.wsj.com/articles/how-the-last-ditch-effort-to-save-silicon-valley-bank-failed-89619cb2)
 * [2023-03-22, 11:29:40](https://news.ycombinator.com/item?id=35259476) - [Bob Metcalfe, Ethernet Pioneer, Wins Turing Award](https://www.quantamagazine.org/bob-metcalfe-ethernet-pioneer-wins-turing-award-20230322/)
 * [2023-03-22, 11:21:21](https://news.ycombinator.com/item?id=35259428) - [2023 Abel Prize: Luis A. Caffarelli](https://abelprize.no/abel-prize-laureates/2023)
 * [2023-03-22, 11:03:54](https://news.ycombinator.com/item?id=35259315) - [The developer job market is insane](https://old.reddit.com/r/ExperiencedDevs/comments/11xq5cz/the_developer_job_market_is_insane_right_now/)
