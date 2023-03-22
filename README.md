@@ -13,7 +13,7 @@
 * [2023-03-22, 16:01:15](https://news.ycombinator.com/item?id=35263115) - [A eulogy for Dark Sky, a data visualization masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2023-03-22, 15:02:53](https://news.ycombinator.com/item?id=35262131) - [The Poor, Misunderstood InnerText (2015)](http://perfectionkills.com/the-poor-misunderstood-innerText/)
 * [2023-03-22, 14:17:04](https://news.ycombinator.com/item?id=35261363) - [A Mirror That Reverses How Light Travels in Time](https://spectrum.ieee.org/time-reversal-interface)
-* [2023-03-22, 13:59:07](https://news.ycombinator.com/item?id=35261065) - [GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+* [2023-03-22, 13:59:07](https://news.ycombinator.com/item?id=35261065) - [GitHub Copilot X – Sign up for technical preview](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 * [2023-03-22, 13:57:49](https://news.ycombinator.com/item?id=35261043) - [Yandex open-sources its exabyte-scale big data platform](https://medium.com/yandex/ytsaurus-exabyte-scale-storage-and-processing-system-is-now-open-source-42e7f5fa5fc6)
 * [2023-03-22, 13:48:02](https://news.ycombinator.com/item?id=35260931) - [Rollstack (YC W23) Is Hiring a Full Stack Engineer in EU, Brazil, Argentina](https://www.ycombinator.com/companies/rollstack-2/jobs/IV2FOtP-full-stack-engineer-react-nodejs-typescript-in-eu-argentina-brazil)
 * [2023-03-22, 13:38:17](https://news.ycombinator.com/item?id=35260815) - [Launch HN: Flower (YC W23) – Train AI models on distributed or sensitive data](https://news.ycombinator.com/item?id=35260815)
