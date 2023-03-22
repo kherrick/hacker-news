@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-22, 22:32:20](https://news.ycombinator.com/item?id=35267944) - [Helix: A Sleek Open-Source Portfolio Website](https://merylldindin.com)
 * [2023-03-22, 22:05:02](https://news.ycombinator.com/item?id=35267707) - [Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html)
 * [2023-03-22, 22:04:01](https://news.ycombinator.com/item?id=35267692) - [Coinbase issued Wells notice by SEC](https://www.reuters.com/legal/coinbase-issued-wells-notice-by-sec-2023-03-22/)
 * [2023-03-22, 20:18:56](https://news.ycombinator.com/item?id=35266553) - [Show HN: Dungeon Map Doodler Beta - Free online map drawing tool](https://dungeonmapdoodler.com/beta/)
@@ -16,7 +17,6 @@
 * [2023-03-22, 16:32:06](https://news.ycombinator.com/item?id=35263542) - [Show HN: Zapier&#x27;s first API](https://news.ycombinator.com/item?id=35263542)
 * [2023-03-22, 16:12:13](https://news.ycombinator.com/item?id=35263285) - [De-cloud and de-k8s – bringing our apps back home](https://dev.37signals.com/bringing-our-apps-back-home/)
 * [2023-03-22, 16:01:15](https://news.ycombinator.com/item?id=35263115) - [A eulogy for Dark Sky, a data visualization masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
-* [2023-03-22, 15:02:53](https://news.ycombinator.com/item?id=35262131) - [The poor, misunderstood innerText (2015)](http://perfectionkills.com/the-poor-misunderstood-innerText/)
 * [2023-03-22, 14:18:28](https://news.ycombinator.com/item?id=35261386) - [Show HN: Moonshine – open-source, pretrained ML models for satellite](https://moonshineai.readthedocs.io/en/latest/index.html)
 * [2023-03-22, 14:17:04](https://news.ycombinator.com/item?id=35261363) - [A mirror that reverses how light travels in time](https://spectrum.ieee.org/time-reversal-interface)
 * [2023-03-22, 13:59:07](https://news.ycombinator.com/item?id=35261065) - [GitHub Copilot X – Sign up for technical preview](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
