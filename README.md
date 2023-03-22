@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-22, 04:33:14](https://news.ycombinator.com/item?id=35256867) - [Bard is dreadful at solving rhyming word puzzles](https://twofergoofer.com/blog/bard)
+* [2023-03-22, 04:33:14](https://news.ycombinator.com/item?id=35256867) - [Bard is much worse at puzzle solving than ChatGPT](https://twofergoofer.com/blog/bard)
 * [2023-03-22, 04:15:29](https://news.ycombinator.com/item?id=35256769) - [Show HN: Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
-* [2023-03-22, 03:53:14](https://news.ycombinator.com/item?id=35256607) - [JPMorgan says the U.S. is probably headed for a recession](https://fortune.com/2023/03/21/recession-banking-crisis-federal-reserve-minsky-moment-jpmorgan-us-economy/)
 * [2023-03-22, 03:03:46](https://news.ycombinator.com/item?id=35256288) - [Every possible Wordle solution visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
 * [2023-03-22, 02:56:43](https://news.ycombinator.com/item?id=35256238) - [Postgres for Developers](https://postgrespro.com/community/courses)
 * [2023-03-22, 02:56:39](https://news.ycombinator.com/item?id=35256237) - [Pytest Tips and Tricks](https://pythontest.com/pytest-tips-tricks/)
@@ -18,6 +17,7 @@
 * [2023-03-21, 20:36:32](https://news.ycombinator.com/item?id=35252156) - [GOOD Meat gets green light from FDA for cultivated meat](https://agfundernews.com/good-meat-gets-green-light-from-fda-for-cultivated-meat)
 * [2023-03-21, 18:03:09](https://news.ycombinator.com/item?id=35249971) - [Windows Snipping Tool is vulnerable to Acropalypse too](https://twitter.com/David3141593/status/1638222624084951040)
 * [2023-03-21, 16:50:58](https://news.ycombinator.com/item?id=35248912) - [Show HN: Public transportation signage based on bloom filters (rough mockup)](https://github.com/jsvan/BusStopBloomfilter)
+* [2023-03-21, 16:14:58](https://news.ycombinator.com/item?id=35248296) - [DPReview.com to close](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
 * [2023-03-21, 16:01:34](https://news.ycombinator.com/item?id=35248098) - [So you&#x27;ve installed `fzf` – now what?](https://andrew-quinn.me/fzf/)
 * [2023-03-21, 15:24:51](https://news.ycombinator.com/item?id=35247557) - [Why construction projects always go over budget](https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget)
 * [2023-03-21, 15:05:11](https://news.ycombinator.com/item?id=35247242) - [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
