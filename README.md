@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-22, 20:18:56](https://news.ycombinator.com/item?id=35266553) - [Show HN: Dungeon Map Doodler Beta - Free online map drawing tool](https://dungeonmapdoodler.com/beta/)
+* [2023-03-22, 22:05:02](https://news.ycombinator.com/item?id=35267707) - [Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html)
 * [2023-03-22, 19:57:13](https://news.ycombinator.com/item?id=35266322) - [SEC charges crypto entrepreneur Justin Sun and his companies for fraud](https://www.sec.gov/news/press-release/2023-59)
 * [2023-03-22, 19:55:44](https://news.ycombinator.com/item?id=35266304) - [Remote work is starting to hit office rents](https://www.axios.com/2023/03/22/remote-work-wf-office-rents-decline)
 * [2023-03-22, 19:43:44](https://news.ycombinator.com/item?id=35266170) - [Transitioning Away from Google Services](https://oppositeinvictus.com/transitioning-away-from-google)
@@ -29,7 +29,7 @@
 * [2023-03-22, 02:30:05](https://news.ycombinator.com/item?id=35256014) - [Codes and Crowns](https://www.historytoday.com/archive/history-matters/codes-and-crowns)
 * [2023-03-21, 14:49:42](https://news.ycombinator.com/item?id=35246995) - [How I came to write “Tidy First?” tl;dr it took 18 years](https://tidyfirst.substack.com/p/how-i-came-to-write-tidy-first)
 * [2023-03-21, 09:05:03](https://news.ycombinator.com/item?id=35243981) - [CSS Paged Media Module Level 3](https://bugzilla.mozilla.org/show_bug.cgi?id=286443)
-* [2023-03-20, 05:25:09](https://news.ycombinator.com/item?id=35227621) - [The Duke in His Domain: Marlon Brando, on Location (1957)](https://www.newyorker.com/magazine/1957/11/09/the-duke-in-his-domain)
+* [2023-03-20, 18:34:49](https://news.ycombinator.com/item?id=35236414) - [Medieval monks were distracted too](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html)
 
 ## [Archives](archives/index.md)
 
