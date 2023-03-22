@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-22, 16:01:15](https://news.ycombinator.com/item?id=35263115) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2023-03-22, 15:45:19](https://news.ycombinator.com/item?id=35262866) - [Microsoft Loop Preview](https://loop.microsoft.com/learn)
 * [2023-03-22, 15:02:53](https://news.ycombinator.com/item?id=35262131) - [The Poor, Misunderstood InnerText](http://perfectionkills.com/the-poor-misunderstood-innerText/)
 * [2023-03-22, 14:59:23](https://news.ycombinator.com/item?id=35262073) - [Home Prices Fell in February for First Time in 11 Years](https://www.wsj.com/articles/home-prices-fell-in-february-for-first-time-in-11-years-73df0107)
-* [2023-03-22, 14:27:51](https://news.ycombinator.com/item?id=35261555) - [Fungus Candida auris infections spreading across US, CDC warns](https://www.usatoday.com/story/news/health/2023/03/21/fungus-candida-auris-infections-spreading-cdc-warning/11513263002/)
 * [2023-03-22, 14:18:28](https://news.ycombinator.com/item?id=35261386) - [Show HN: Moonshine – open-source, pretrained ML models for satellite](https://moonshineai.readthedocs.io/en/latest/index.html)
 * [2023-03-22, 14:17:04](https://news.ycombinator.com/item?id=35261363) - [A Mirror That Reverses How Light Travels in Time](https://spectrum.ieee.org/time-reversal-interface)
 * [2023-03-22, 14:12:43](https://news.ycombinator.com/item?id=35261277) - [Year from Quitting My Full-Time PM Job. What Do I Miss the Most?](https://www.harshal-patil.com/post/1-year-from-quitting-my-full-time-pm-job-what-do-i-miss-the-most)
