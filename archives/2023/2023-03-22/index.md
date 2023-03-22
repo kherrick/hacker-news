@@ -10,6 +10,7 @@
 * [2023-03-22, 13:41:48](https://news.ycombinator.com/item?id=35260865) - [Women are less likely to buy electric vehicles than men. Here&#x27;s why](https://19thnews.org/2023/03/electric-vehicles-gender-gap/)
 * [2023-03-22, 13:38:17](https://news.ycombinator.com/item?id=35260815) - [Launch HN: Flower (YC W23) – Train AI models on distributed or sensitive data](https://news.ycombinator.com/item?id=35260815)
 * [2023-03-22, 13:07:12](https://news.ycombinator.com/item?id=35260401) - [The Simplicity of Single-File Golang Deployments](https://www.amazingcto.com/simplicity-of-golang-systemd-deployments/)
+* [2023-03-22, 13:06:33](https://news.ycombinator.com/item?id=35260392) - [Conversational Software Development (2020)](https://oli.me.uk/conversational-software-development/)
 * [2023-03-22, 13:00:59](https://news.ycombinator.com/item?id=35260322) - [Unpopular Opinion: Don’t Use a Raspberry Pi for That](https://set-inform.com/2021/08/24/unpopular-opinion-dont-use-a-raspberry-pi-for-that/)
 * [2023-03-22, 12:50:52](https://news.ycombinator.com/item?id=35260210) - [Banks as Collateral Damage in a Class War](https://annpettifor.substack.com/p/banks-as-collateral-damage-in-a-class)
 * [2023-03-22, 12:43:11](https://news.ycombinator.com/item?id=35260141) - [Can any Hetzner user, please explain your workflow on Hetzner?](https://news.ycombinator.com/item?id=35260141)
