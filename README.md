@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-22, 02:11:26](https://news.ycombinator.com/item?id=35255864) - [Bard uses a Hacker News comment as single source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
+* [2023-03-22, 02:56:39](https://news.ycombinator.com/item?id=35256237) - [Pytest Tips and Tricks](https://pythontest.com/pytest-tips-tricks/)
+* [2023-03-22, 02:11:26](https://news.ycombinator.com/item?id=35255864) - [Bard uses a Hacker News comment as source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
 * [2023-03-22, 00:41:56](https://news.ycombinator.com/item?id=35255052) - [Show HN: Generate styled web pages with just Python](https://www.pyvibe.com/)
 * [2023-03-21, 23:53:28](https://news.ycombinator.com/item?id=35254576) - [Shields Up](https://seths.blog/2023/03/shields-up-2/)
 * [2023-03-21, 23:00:32](https://news.ycombinator.com/item?id=35253962) - [The Brilliant Inventor Who Made Two of History’s Biggest Mistakes](https://www.nytimes.com/2023/03/15/magazine/cfcs-inventor.html)
-* [2023-03-21, 22:43:25](https://news.ycombinator.com/item?id=35253753) - [Hyundai Promises to Keep Buttons in Cars](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
+* [2023-03-21, 22:43:25](https://news.ycombinator.com/item?id=35253753) - [Hyundai promises to keep buttons in cars](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
 * [2023-03-21, 21:29:17](https://news.ycombinator.com/item?id=35252837) - [Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
 * [2023-03-21, 21:22:48](https://news.ycombinator.com/item?id=35252755) - [Reasons Not to Use Google](https://stallman.org/google.html)
 * [2023-03-21, 21:11:59](https://news.ycombinator.com/item?id=35252637) - [Polio cases in Africa linked to new oral vaccine](https://www.science.org/content/article/first-polio-cases-linked-new-oral-vaccine-detected-africa)
@@ -28,7 +29,6 @@
 * [2023-03-21, 14:02:34](https://news.ycombinator.com/item?id=35246228) - [Strong Consistency with Raft and SQLite](https://blog.sqlitecloud.io/strong-consistency-with-raft-and-sqlite)
 * [2023-03-21, 13:55:58](https://news.ycombinator.com/item?id=35246139) - [Adobe Firefly: AI Art Generator](https://www.adobe.com/sensei/generative-ai/firefly.html)
 * [2023-03-21, 04:34:55](https://news.ycombinator.com/item?id=35242608) - [Gloria Dea, Las Vegas magician who vanished into obscurity, has died](https://www.washingtonpost.com/obituaries/2023/03/20/gloria-dea-first-las-vegas-magician-dies-at-100/)
-* [2023-03-20, 04:56:05](https://news.ycombinator.com/item?id=35227454) - [An off-kilter visionary: Henry Green had a strange and distinctive talent](https://thecritic.co.uk/issues/march-2023/an-off-kilter-visionary/)
 * [2023-03-19, 09:54:36](https://news.ycombinator.com/item?id=35217505) - [Intel Thunder Bay Is Officially Canceled, Linux Driver Code to Be Removed](https://www.phoronix.com/news/Intel-Thunder-Bay-Cancelled)
 
 ## [Archives](archives/index.md)

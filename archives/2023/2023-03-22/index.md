@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 02:56:39](https://news.ycombinator.com/item?id=35256237) - [Pytest Tips and Tricks](https://pythontest.com/pytest-tips-tricks/)
 * [2023-03-22, 02:11:26](https://news.ycombinator.com/item?id=35255864) - [Bard uses a Hacker News comment as single source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
 * [2023-03-22, 02:00:17](https://news.ycombinator.com/item?id=35255762) - [No, Bitcoin isn’t pumping because it’s a “safe haven” from banks](https://newsletter.mollywhite.net/p/no-bitcoin-isnt-pumping-because-its)
 * [2023-03-22, 00:41:56](https://news.ycombinator.com/item?id=35255052) - [Show HN: Generate styled web pages with just Python](https://www.pyvibe.com/)
