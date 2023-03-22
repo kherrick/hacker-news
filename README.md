@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-22, 19:52:24](https://news.ycombinator.com/item?id=35266271) - [The Uncomfortable Truth About Why Buying Furniture Is So Miserable](https://www.theassemblync.com/business/high-point-furniture/)
+* [2023-03-22, 19:52:24](https://news.ycombinator.com/item?id=35266271) - [Why buying furniture is so miserable](https://www.theassemblync.com/business/high-point-furniture/)
 * [2023-03-22, 19:08:39](https://news.ycombinator.com/item?id=35265752) - [ThumbHash: A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
 * [2023-03-22, 19:00:50](https://news.ycombinator.com/item?id=35265665) - [Raytracing on AMD’s RDNA 2&#x2F;3, and Nvidia’s Turing and Pascal](https://chipsandcheese.com/2023/03/22/raytracing-on-amds-rdna-2-3-and-nvidias-turing-and-pascal/)
 * [2023-03-22, 18:41:44](https://news.ycombinator.com/item?id=35265376) - [Explosives replace malware as the scariest thing a USB stick may hide](https://arstechnica.com/gadgets/2023/03/journalist-plugs-in-unknown-usb-drive-mailed-to-him-it-exploded-in-his-face/)
@@ -25,11 +25,11 @@
 * [2023-03-22, 09:07:28](https://news.ycombinator.com/item?id=35258553) - [Show HN: ChatLLaMA – A ChatGPT style chatbot for Facebook&#x27;s LLaMA](https://chatllama.baseten.co/)
 * [2023-03-22, 08:32:50](https://news.ycombinator.com/item?id=35258323) - [Pg_jsonschema – JSON Schema Support for Postgres](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation)
 * [2023-03-22, 06:09:18](https://news.ycombinator.com/item?id=35257416) - [SheepShaver: macOS run-time environment for BeOS and Linux](http://sheepshaver.cebix.net/)
-* [2023-03-22, 05:18:27](https://news.ycombinator.com/item?id=35257113) - [The Disappearing Doomsday](https://harpers.org/archive/2023/04/the-incredible-disappearing-doomsday-climate-catastrophists-new-york-times-climate-change-coverage/)
 * [2023-03-22, 02:30:05](https://news.ycombinator.com/item?id=35256014) - [Codes and Crowns](https://www.historytoday.com/archive/history-matters/codes-and-crowns)
 * [2023-03-21, 14:49:42](https://news.ycombinator.com/item?id=35246995) - [How I came to write “Tidy First?” tl;dr it took 18 years](https://tidyfirst.substack.com/p/how-i-came-to-write-tidy-first)
 * [2023-03-21, 09:05:03](https://news.ycombinator.com/item?id=35243981) - [CSS Paged Media Module Level 3](https://bugzilla.mozilla.org/show_bug.cgi?id=286443)
 * [2023-03-20, 18:34:49](https://news.ycombinator.com/item?id=35236414) - [Medieval monks were distracted too](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html)
+* [2023-03-19, 12:38:25](https://news.ycombinator.com/item?id=35218355) - [Win-Draw-Loss evaluation (2020)](https://lczero.org/blog/2020/04/wdl-head/)
 
 ## [Archives](archives/index.md)
 
