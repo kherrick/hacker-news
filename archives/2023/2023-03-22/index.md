@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 18:01:02](https://news.ycombinator.com/item?id=35264787) - [Fed hikes rates by 0.25 point despite recent turmoil in the banking sector](https://www.cnbc.com/2023/03/22/fed-rate-hike-decision-march-2023.html)
 * [2023-03-22, 17:49:05](https://news.ycombinator.com/item?id=35264601) - [Are spreadsheets a true programming language?](https://about.subset.so/blog/are-spreadsheets-a-true-programming-language)
 * [2023-03-22, 17:09:31](https://news.ycombinator.com/item?id=35264055) - [D&amp;D monster manual wants to help save real-life animals from extinction](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/news/book-of-extinction-kickstarter-dnd-5e)
 * [2023-03-22, 16:52:55](https://news.ycombinator.com/item?id=35263838) - [Counter-Strike 2 – Limited Test begins for free upgrade to CSGO](https://counter-strike.net/cs2)
