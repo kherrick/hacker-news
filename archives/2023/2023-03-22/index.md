@@ -6,6 +6,7 @@
 
 * [2023-03-22, 19:08:39](https://news.ycombinator.com/item?id=35265752) - [A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
 * [2023-03-22, 19:00:50](https://news.ycombinator.com/item?id=35265665) - [Raytracing on AMD’s RDNA 2&#x2F;3, and Nvidia’s Turing and Pascal](https://chipsandcheese.com/2023/03/22/raytracing-on-amds-rdna-2-3-and-nvidias-turing-and-pascal/)
+* [2023-03-22, 18:41:44](https://news.ycombinator.com/item?id=35265376) - [Journalist plugs in unknown USB drive mailed to him–it exploded in his face](https://arstechnica.com/gadgets/2023/03/journalist-plugs-in-unknown-usb-drive-mailed-to-him-it-exploded-in-his-face/)
 * [2023-03-22, 18:01:02](https://news.ycombinator.com/item?id=35264787) - [Fed hikes rates by 0.25 point despite recent turmoil in the banking sector](https://www.cnbc.com/2023/03/22/fed-rate-hike-decision-march-2023.html)
 * [2023-03-22, 17:56:42](https://news.ycombinator.com/item?id=35264725) - [FauxPilot – an open-source GitHub Copilot server](https://github.com/fauxpilot/fauxpilot)
 * [2023-03-22, 17:49:05](https://news.ycombinator.com/item?id=35264601) - [Are spreadsheets a true programming language?](https://about.subset.so/blog/are-spreadsheets-a-true-programming-language)
@@ -70,6 +71,7 @@
 * [2023-03-22, 02:56:39](https://news.ycombinator.com/item?id=35256237) - [Pytest Tips and Tricks](https://pythontest.com/pytest-tips-tricks/)
 * [2023-03-22, 02:49:30](https://news.ycombinator.com/item?id=35256178) - [Extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
 * [2023-03-22, 02:45:40](https://news.ycombinator.com/item?id=35256144) - [Google Bard Waitlist Parody](https://google-waitlist.vercel.app)
+* [2023-03-22, 02:30:05](https://news.ycombinator.com/item?id=35256014) - [Codes and Crowns](https://www.historytoday.com/archive/history-matters/codes-and-crowns)
 * [2023-03-22, 02:11:26](https://news.ycombinator.com/item?id=35255864) - [Bard uses a Hacker News comment as single source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
 * [2023-03-22, 02:00:17](https://news.ycombinator.com/item?id=35255762) - [No, Bitcoin isn’t pumping because it’s a “safe haven” from banks](https://newsletter.mollywhite.net/p/no-bitcoin-isnt-pumping-because-its)
 * [2023-03-22, 01:31:05](https://news.ycombinator.com/item?id=35255519) - [Errors and Zig](https://notes.eatonphil.com/errors-and-zig.html)
