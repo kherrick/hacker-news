@@ -2,6 +2,7 @@
 
 * [2023-03-22, 19:57:13](https://news.ycombinator.com/item?id=35266322) - [SEC charges crypto entrepreneur Justin Sun and his companies for fraud](https://www.sec.gov/news/press-release/2023-59)
 * [2023-03-22, 19:55:44](https://news.ycombinator.com/item?id=35266304) - [Remote work is starting to hit office rents](https://www.axios.com/2023/03/22/remote-work-wf-office-rents-decline)
+* [2023-03-22, 19:43:44](https://news.ycombinator.com/item?id=35266170) - [Transitioning Away from Google Services](https://oppositeinvictus.com/transitioning-away-from-google)
 * [2023-03-22, 19:08:39](https://news.ycombinator.com/item?id=35265752) - [ThumbHash: A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
 * [2023-03-22, 19:00:50](https://news.ycombinator.com/item?id=35265665) - [Raytracing on AMD’s RDNA 2&#x2F;3, and Nvidia’s Turing and Pascal](https://chipsandcheese.com/2023/03/22/raytracing-on-amds-rdna-2-3-and-nvidias-turing-and-pascal/)
 * [2023-03-22, 17:56:42](https://news.ycombinator.com/item?id=35264725) - [FauxPilot – an open-source GitHub Copilot server](https://github.com/fauxpilot/fauxpilot)
@@ -24,7 +25,6 @@
 * [2023-03-22, 11:36:41](https://news.ycombinator.com/item?id=35259527) - [How the last-ditch effort to save Silicon Valley Bank failed](https://www.wsj.com/articles/how-the-last-ditch-effort-to-save-silicon-valley-bank-failed-89619cb2)
 * [2023-03-22, 10:47:38](https://news.ycombinator.com/item?id=35259214) - [Research shows we can only accurately identify AI writers about 50% of the time](https://hai.stanford.edu/news/was-written-human-or-ai-tsu)
 * [2023-03-22, 09:59:04](https://news.ycombinator.com/item?id=35258877) - [Bob Metcalfe wins Turing Award](https://amturing.acm.org/?2023)
-* [2023-03-22, 09:07:28](https://news.ycombinator.com/item?id=35258553) - [Show HN: ChatLLaMA – A ChatGPT style chatbot for Facebook&#x27;s LLaMA](https://chatllama.baseten.co/)
 * [2023-03-22, 02:30:05](https://news.ycombinator.com/item?id=35256014) - [Codes and Crowns](https://www.historytoday.com/archive/history-matters/codes-and-crowns)
 * [2023-03-21, 14:49:42](https://news.ycombinator.com/item?id=35246995) - [How I came to write “Tidy First?” tl;dr it took 18 years](https://tidyfirst.substack.com/p/how-i-came-to-write-tidy-first)
 * [2023-03-21, 09:05:03](https://news.ycombinator.com/item?id=35243981) - [CSS Paged Media Module Level 3](https://bugzilla.mozilla.org/show_bug.cgi?id=286443)

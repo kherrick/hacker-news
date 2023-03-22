@@ -7,6 +7,7 @@
 * [2023-03-22, 19:57:13](https://news.ycombinator.com/item?id=35266322) - [SEC charges crypto entrepreneur Justin Sun and his companies for fraud](https://www.sec.gov/news/press-release/2023-59)
 * [2023-03-22, 19:55:44](https://news.ycombinator.com/item?id=35266304) - [Remote work is starting to hit office rents](https://www.axios.com/2023/03/22/remote-work-wf-office-rents-decline)
 * [2023-03-22, 19:52:24](https://news.ycombinator.com/item?id=35266271) - [The Uncomfortable Truth About Why Buying Furniture Is So Miserable](https://www.theassemblync.com/business/high-point-furniture/)
+* [2023-03-22, 19:43:44](https://news.ycombinator.com/item?id=35266170) - [Transitioning Away from Google Services](https://oppositeinvictus.com/transitioning-away-from-google)
 * [2023-03-22, 19:14:58](https://news.ycombinator.com/item?id=35265833) - [The Well-Being Gap Between Liberals and Conservatives](https://americanaffairsjournal.org/2023/03/how-to-understand-the-well-being-gap-between-liberals-and-conservatives/)
 * [2023-03-22, 19:08:39](https://news.ycombinator.com/item?id=35265752) - [A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
 * [2023-03-22, 19:00:50](https://news.ycombinator.com/item?id=35265665) - [Raytracing on AMD’s RDNA 2&#x2F;3, and Nvidia’s Turing and Pascal](https://chipsandcheese.com/2023/03/22/raytracing-on-amds-rdna-2-3-and-nvidias-turing-and-pascal/)
