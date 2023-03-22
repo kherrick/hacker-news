@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
 * [2023-03-21, 23:53:28](https://news.ycombinator.com/item?id=35254576) - [Shields Up](https://seths.blog/2023/03/shields-up-2/)
+* [2023-03-21, 23:35:31](https://news.ycombinator.com/item?id=35254389) - [A ChatGPT Emacs Shell](https://xenodium.com/a-chatgpt-emacs-shell/)
 * [2023-03-21, 23:34:06](https://news.ycombinator.com/item?id=35254373) - [AI is most important tech advance in decades](https://www.bbc.co.uk/news/technology-65032848)
 * [2023-03-21, 23:00:32](https://news.ycombinator.com/item?id=35253962) - [The Brilliant Inventor Who Made Two of History’s Biggest Mistakes](https://www.nytimes.com/2023/03/15/magazine/cfcs-inventor.html)
 * [2023-03-21, 22:46:40](https://news.ycombinator.com/item?id=35253785) - [Ask HN: Year old CS student. Should I continue?](https://news.ycombinator.com/item?id=35253785)
