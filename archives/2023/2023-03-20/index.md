@@ -34,6 +34,7 @@
 * [2023-03-20, 19:28:23](https://news.ycombinator.com/item?id=35237269) - [Spack – scientific software package manager for supercomputers, Linux, and macOS](https://spack.io/)
 * [2023-03-20, 19:27:04](https://news.ycombinator.com/item?id=35237253) - [Show HN: Great Books Homeschool beta program](https://www.greatbookshomeschool.com)
 * [2023-03-20, 18:38:40](https://news.ycombinator.com/item?id=35236467) - [ChatGPT Is Down](https://status.openai.com/incidents/jq9232rcmktd)
+* [2023-03-20, 18:34:49](https://news.ycombinator.com/item?id=35236414) - [Think Screens Stole Our Attention? Medieval Monks Were Distracted Too](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html)
 * [2023-03-20, 18:27:32](https://news.ycombinator.com/item?id=35236275) - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
 * [2023-03-20, 18:27:22](https://news.ycombinator.com/item?id=35236272) - [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-03-20, 18:14:07](https://news.ycombinator.com/item?id=35236043) - [UBS Got Credit Suisse for Almost Nothing](https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing)

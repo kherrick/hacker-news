@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 12:33:14](https://news.ycombinator.com/item?id=35260049) - [Ask HN: How would you build a budget CPU compute cluster in 2023?](https://news.ycombinator.com/item?id=35260049)
+* [2023-03-22, 12:19:05](https://news.ycombinator.com/item?id=35259932) - [Yellen earned millions in speaking fees from Wall St, tech firms](https://www.aljazeera.com/economy/2021/1/1/yellen-earned-millions-in-speaking-fees-from-wall-st-tech-firms)
+* [2023-03-22, 12:06:57](https://news.ycombinator.com/item?id=35259817) - [Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
 * [2023-03-22, 11:45:31](https://news.ycombinator.com/item?id=35259595) - [RNA compound and vitamin B3 found in samples from near-Earth asteroid](https://www.cnn.com/2023/03/21/world/ryugu-asteroid-organic-molecules-scn/index.html)
 * [2023-03-22, 11:29:40](https://news.ycombinator.com/item?id=35259476) - [Bob Metcalfe, Ethernet Pioneer, Wins Turing Award](https://www.quantamagazine.org/bob-metcalfe-ethernet-pioneer-wins-turing-award-20230322/)
 * [2023-03-22, 11:03:54](https://news.ycombinator.com/item?id=35259315) - [The developer job market is insane](https://old.reddit.com/r/ExperiencedDevs/comments/11xq5cz/the_developer_job_market_is_insane_right_now/)
