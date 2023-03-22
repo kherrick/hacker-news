@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 13:59:07](https://news.ycombinator.com/item?id=35261065) - [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+* [2023-03-22, 13:57:49](https://news.ycombinator.com/item?id=35261043) - [Yandex open-sources its exabyte-scale big data platform](https://medium.com/yandex/ytsaurus-exabyte-scale-storage-and-processing-system-is-now-open-source-42e7f5fa5fc6)
 * [2023-03-22, 13:48:02](https://news.ycombinator.com/item?id=35260931) - [Rollstack (YC W23) Is Hiring a Full Stack Engineer in EU, Brazil, Argentina](https://www.ycombinator.com/companies/rollstack-2/jobs/IV2FOtP-full-stack-engineer-react-nodejs-typescript-in-eu-argentina-brazil)
 * [2023-03-22, 13:41:48](https://news.ycombinator.com/item?id=35260865) - [Women are less likely to buy electric vehicles than men. Here&#x27;s why](https://19thnews.org/2023/03/electric-vehicles-gender-gap/)
 * [2023-03-22, 13:38:17](https://news.ycombinator.com/item?id=35260815) - [Launch HN: Flower (YC W23) – Train AI models on distributed or sensitive data](https://news.ycombinator.com/item?id=35260815)
@@ -16,6 +18,7 @@
 * [2023-03-22, 12:15:39](https://news.ycombinator.com/item?id=35259897) - [Show HN: A structured list of jobs from “Who is hiring?”, parsed with GPT](https://www.hacker-jobs.com)
 * [2023-03-22, 12:06:57](https://news.ycombinator.com/item?id=35259817) - [Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
 * [2023-03-22, 11:45:31](https://news.ycombinator.com/item?id=35259595) - [RNA compound and vitamin B3 found in samples from near-Earth asteroid](https://www.cnn.com/2023/03/21/world/ryugu-asteroid-organic-molecules-scn/index.html)
+* [2023-03-22, 11:44:35](https://news.ycombinator.com/item?id=35259588) - [A Cyberpunk Bathroom in the Middle of Nowhere](https://taylor.town/cyberpunk-bathroom)
 * [2023-03-22, 11:29:40](https://news.ycombinator.com/item?id=35259476) - [Bob Metcalfe, Ethernet Pioneer, Wins Turing Award](https://www.quantamagazine.org/bob-metcalfe-ethernet-pioneer-wins-turing-award-20230322/)
 * [2023-03-22, 11:21:21](https://news.ycombinator.com/item?id=35259428) - [2023 Abel Prize: Luis A. Caffarelli](https://abelprize.no/abel-prize-laureates/2023)
 * [2023-03-22, 11:03:54](https://news.ycombinator.com/item?id=35259315) - [The developer job market is insane](https://old.reddit.com/r/ExperiencedDevs/comments/11xq5cz/the_developer_job_market_is_insane_right_now/)
