@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 11:03:54](https://news.ycombinator.com/item?id=35259315) - [The developer job market is insane](https://old.reddit.com/r/ExperiencedDevs/comments/11xq5cz/the_developer_job_market_is_insane_right_now/)
+* [2023-03-22, 10:47:38](https://news.ycombinator.com/item?id=35259214) - [Research shows we can only accurately identify AI writers about 50% of the time](https://hai.stanford.edu/news/was-written-human-or-ai-tsu)
 * [2023-03-22, 09:59:04](https://news.ycombinator.com/item?id=35258877) - [2023 Turing Award Given to Bob Metcalfe for Invention of Ethernet](https://amturing.acm.org/?2023)
 * [2023-03-22, 09:07:28](https://news.ycombinator.com/item?id=35258553) - [Show HN: ChatLLaMA – A ChatGPT style chatbot for Facebook&#x27;s LLaMA](https://chatllama.baseten.co/)
 * [2023-03-22, 08:32:50](https://news.ycombinator.com/item?id=35258323) - [Pg_jsonschema – JSON Schema Support for Postgres](https://supabase.com/blog/pg-jsonschema-a-postgres-extension-for-json-validation)
