@@ -105,6 +105,7 @@
 * [2023-03-20, 05:21:04](https://news.ycombinator.com/item?id=35227600) - [Previous: A NeXT Computer Emulator](https://previous.unixdude.net/)
 * [2023-03-20, 05:15:20](https://news.ycombinator.com/item?id=35227564) - [Pacific Pinball Museum in Alameda, CA](https://www.pacificpinball.org)
 * [2023-03-20, 04:56:05](https://news.ycombinator.com/item?id=35227454) - [An off-kilter visionary: Henry Green had a strange and distinctive talent](https://thecritic.co.uk/issues/march-2023/an-off-kilter-visionary/)
+* [2023-03-20, 04:47:40](https://news.ycombinator.com/item?id=35227410) - [&quot;The Earth Transformed&quot; Review - why humans have always been under the weather](https://www.theguardian.com/books/2023/mar/05/the-earth-transformed-by-peter-frankopan-review-why-humans-have-always-been-under-the-weather)
 * [2023-03-20, 04:41:01](https://news.ycombinator.com/item?id=35227369) - [SVB employees blame remote work for bank failure](https://www.axios.com/2023/03/17/svb-employees-blame-remote-work-for-bank-failure)
 * [2023-03-20, 04:39:12](https://news.ycombinator.com/item?id=35227358) - [Prompt Engineering: Steer a large pretrained language model to do what you want](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 * [2023-03-20, 04:15:04](https://news.ycombinator.com/item?id=35227209) - [Meta Layoffs](https://brandur.org/fragments/meta-layoffs)
