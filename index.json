@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-03-23, 14:38:59",
-      "https://news.ycombinator.com/item?id=35275524"
-    ],
-    [
-      "Ask HN: TikTok CCP data collection software?",
-      "https://news.ycombinator.com/item?id=35275524"
-    ]
-  ],
-  [
-    [
       "2023-03-23, 14:24:46",
       "https://news.ycombinator.com/item?id=35275301"
     ],
@@ -37,6 +27,16 @@
     [
       "New ATLAS result weighs in on the W boson",
       "https://atlas.cern/Updates/Briefing/2023-W-Mass-Measurement"
+    ]
+  ],
+  [
+    [
+      "2023-03-23, 13:22:33",
+      "https://news.ycombinator.com/item?id=35274362"
+    ],
+    [
+      "A quick and sobering guide to cloning yourself",
+      "https://oneusefulthing.substack.com/p/a-quick-and-sobering-guide-to-cloning"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35272900"
     ],
     [
-      "The danger isn’t that AI destroys us. It’s that it drives us insane",
+      "The danger isn’t that AI destroys us, it’s that it drives us insane",
       "https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane"
     ]
   ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=35271962"
     ],
     [
-      "Sex Worker-Led Payment Platform Shuts Down After Being Cut Off by Processor",
+      "Sex worker-led payment platform shuts down after being cut off by processor",
       "https://www.vice.com/en/article/88x9mb/spankpay-sex-work-payment-platform-shuts-down"
     ]
   ],
@@ -227,6 +227,16 @@
     [
       "You might not need an effect",
       "https://react.dev/learn/you-might-not-need-an-effect"
+    ]
+  ],
+  [
+    [
+      "2023-03-23, 05:25:55",
+      "https://news.ycombinator.com/item?id=35270806"
+    ],
+    [
+      "The Cornell University Witchcraft Collection",
+      "https://rmc.library.cornell.edu/witchcraftcoll/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "ThumbHash: A better compact image placeholder hash",
       "https://evanw.github.io/thumbhash/"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 17:56:42",
-      "https://news.ycombinator.com/item?id=35264725"
-    ],
-    [
-      "FauxPilot – an open-source GitHub Copilot server",
-      "https://github.com/fauxpilot/fauxpilot"
     ]
   ],
   [
