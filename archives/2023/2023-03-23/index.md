@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
 * [2023-03-23, 18:38:14](https://news.ycombinator.com/item?id=35279349) - [The heaviest bicycle in the world is an impressive 4800 lb](https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/)
+* [2023-03-23, 18:25:45](https://news.ycombinator.com/item?id=35279155) - [Launch HN: Helicone.ai (YC W23) – Open-Source Logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
 * [2023-03-23, 18:18:08](https://news.ycombinator.com/item?id=35279044) - [SushiDAO Head Chef Served with Subpoena by SEC](https://forum.sushi.com/t/establish-sushi-legal-defense-fund/11813)
 * [2023-03-23, 18:04:51](https://news.ycombinator.com/item?id=35278840) - [Stanford Law dean discusses recent protest, outlines next steps](https://news.stanford.edu/report/2023/03/23/law-school-dean-discusses-recent-protest-outlines-next-steps/)
+* [2023-03-23, 17:51:01](https://news.ycombinator.com/item?id=35278597) - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 * [2023-03-23, 17:34:45](https://news.ycombinator.com/item?id=35278316) - [Block&#x27;s Response to Inaccurate Short Seller Report](https://investors.block.xyz/news/news-details/2023/Blocks-Response-to-Inaccurate-Short-Seller-Report/default.aspx)
 * [2023-03-23, 17:12:43](https://news.ycombinator.com/item?id=35277925) - [ChatGPT Gets Its “Wolfram Superpowers”](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
 * [2023-03-23, 17:00:35](https://news.ycombinator.com/item?id=35277721) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35277721)
