@@ -2,6 +2,7 @@
 
 * [2023-03-23, 22:31:47](https://news.ycombinator.com/item?id=35282325) - [Apple: Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
 * [2023-03-23, 22:29:35](https://news.ycombinator.com/item?id=35282294) - [Seen on Blind: “Chat with a googler was horrifying”](https://www.teamblind.com/post/Chat-with-a-googler-was-horrifying-ZcfiVAzm)
+* [2023-03-23, 22:29:34](https://news.ycombinator.com/item?id=35282293) - [You can&#x27;t tell people anything](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 * [2023-03-23, 21:35:06](https://news.ycombinator.com/item?id=35281617) - [I Bought Back My Acquihired Startup](https://steveridout.com/2023/03/23/buy-back.html)
 * [2023-03-23, 21:26:28](https://news.ycombinator.com/item?id=35281527) - [Microsoft&#x27;s paper on OpenAI&#x27;s GPT-4 had hidden information](https://twitter.com/DV2559106965076/status/1638769434763608064)
 * [2023-03-23, 21:00:51](https://news.ycombinator.com/item?id=35281194) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=35281194)
@@ -28,7 +29,6 @@
 * [2023-03-23, 03:16:33](https://news.ycombinator.com/item?id=35270131) - [The risks of cleaning with bleach and other disinfectants](https://www.nytimes.com/2023/03/21/well/live/cleaning-disinfectant-bleach-risks.html)
 * [2023-03-22, 18:10:20](https://news.ycombinator.com/item?id=35264919) - [Miller test](https://en.wikipedia.org/wiki/Miller_test)
 * [2023-03-22, 15:43:50](https://news.ycombinator.com/item?id=35262841) - [Stuck with the Soul](https://aeon.co/essays/why-are-most-of-us-stuck-with-a-belief-in-the-soul)
-* [2023-03-22, 15:31:09](https://news.ycombinator.com/item?id=35262594) - [Official Home Page for the PCMCIA Trade Association (2008)](https://web.archive.org/web/20081225064415/http://pcmcia.org/)
 * [2023-03-22, 15:02:43](https://news.ycombinator.com/item?id=35262129) - [Choose what to dream tonight](https://www.wsj.com/articles/these-techniques-might-help-you-direct-your-dreams-6812735e)
 
 ## [Archives](archives/index.md)
