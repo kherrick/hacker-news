@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-23, 05:15:35](https://news.ycombinator.com/item?id=35270768) - [Anti-porn bills could force device makers to censor sexual material](https://www.nbcnews.com/tech/security/porn-filter-laws-bills-anti-default-florida-texas-rcna73626)
 * [2023-03-23, 02:34:54](https://news.ycombinator.com/item?id=35269811) - [Kelly ‘Aloria’ Lum has died](https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/)
 * [2023-03-23, 02:10:20](https://news.ycombinator.com/item?id=35269659) - [We asked the SEC for reasonable crypto rules for Americans](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
 * [2023-03-23, 01:56:34](https://news.ycombinator.com/item?id=35269573) - [Solar industry feeling the heat over disposal of 80M panels](https://techxplore.com/news/2023-03-solar-industry-disposal-million-panels.html)
@@ -25,7 +26,6 @@
 * [2023-03-22, 16:12:13](https://news.ycombinator.com/item?id=35263285) - [De-cloud and de-k8s – bringing our apps back home](https://dev.37signals.com/bringing-our-apps-back-home/)
 * [2023-03-22, 15:02:53](https://news.ycombinator.com/item?id=35262131) - [The poor, misunderstood innerText (2015)](http://perfectionkills.com/the-poor-misunderstood-innerText/)
 * [2023-03-22, 14:18:28](https://news.ycombinator.com/item?id=35261386) - [Show HN: Moonshine – open-source, pretrained ML models for satellite](https://moonshineai.readthedocs.io/en/latest/index.html)
-* [2023-03-22, 14:17:04](https://news.ycombinator.com/item?id=35261363) - [A mirror that reverses how light travels in time](https://spectrum.ieee.org/time-reversal-interface)
 * [2023-03-22, 13:38:17](https://news.ycombinator.com/item?id=35260815) - [Launch HN: Flower (YC W23) – Train AI models on distributed or sensitive data](https://news.ycombinator.com/item?id=35260815)
 * [2023-03-22, 11:36:41](https://news.ycombinator.com/item?id=35259527) - [How the last-ditch effort to save Silicon Valley Bank failed](https://www.wsj.com/articles/how-the-last-ditch-effort-to-save-silicon-valley-bank-failed-89619cb2)
 * [2023-03-22, 09:59:04](https://news.ycombinator.com/item?id=35258877) - [Bob Metcalfe wins Turing Award](https://amturing.acm.org/?2023)

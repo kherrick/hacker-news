@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 05:15:35](https://news.ycombinator.com/item?id=35270768) - [Anti-porn bills could force device makers to censor sexual material](https://www.nbcnews.com/tech/security/porn-filter-laws-bills-anti-default-florida-texas-rcna73626)
 * [2023-03-23, 03:23:16](https://news.ycombinator.com/item?id=35270175) - [FTC: Chatbots, deepfakes, and voice clones: AI deception for sale](https://www.ftc.gov/business-guidance/blog/2023/03/chatbots-deepfakes-voice-clones-ai-deception-sale)
 * [2023-03-23, 02:34:54](https://news.ycombinator.com/item?id=35269811) - [Beloved hacking veteran Kelly ‘Aloria’ Lum passes away at 41](https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/)
 * [2023-03-23, 02:10:20](https://news.ycombinator.com/item?id=35269659) - [We asked the SEC for reasonable crypto rules. We got legal threats instead](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
