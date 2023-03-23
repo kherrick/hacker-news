@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-23, 16:13:09](https://news.ycombinator.com/item?id=35277022) - [Is a Covid Personality Disorder Caused by Viral Damage to the Prefrontal Cortex?](https://www.infectioncontroltoday.com/view/covid-19-traffic-accidents-covid-19-personality-disorder-caused-viral-damage-prefrontal-cortex-)
 * [2023-03-23, 15:57:49](https://news.ycombinator.com/item?id=35276765) - [Poetry from dirty OCR](https://github.com/bibliotechy/dirty-poetry)
 * [2023-03-23, 15:44:38](https://news.ycombinator.com/item?id=35276577) - [Clarkesworld AI Submissions Update](http://neil-clarke.com/submissions-update/)
 * [2023-03-23, 15:09:19](https://news.ycombinator.com/item?id=35276032) - [How to Polis, 101, Part IIa: Politeia in the Polis](https://acoup.blog/2023/03/17/collections-how-to-polis-part-iia-politeia-in-the-polis/)
@@ -21,6 +20,7 @@
 * [2023-03-23, 10:49:34](https://news.ycombinator.com/item?id=35272708) - [Book Publishers Won&#x27;t Stop Until Libraries Are Dead](https://www.techdirt.com/2023/03/22/book-publishers-wont-stop-until-libraries-are-dead/)
 * [2023-03-23, 10:01:17](https://news.ycombinator.com/item?id=35272350) - [Moviemaking and Gamemaking Are Converging](https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging)
 * [2023-03-23, 09:40:21](https://news.ycombinator.com/item?id=35272227) - [The drama in trying to convert election PDFs to Spreadsheets](https://markessien.com/posts/drama_of_transcription/)
+* [2023-03-23, 08:51:53](https://news.ycombinator.com/item?id=35271962) - [Sex worker-led payment platform shuts down after being cut off by processor](https://www.vice.com/en/article/88x9mb/spankpay-sex-work-payment-platform-shuts-down)
 * [2023-03-23, 08:20:21](https://news.ycombinator.com/item?id=35271779) - [A CPU Is a Compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)
 * [2023-03-23, 07:43:57](https://news.ycombinator.com/item?id=35271587) - [What Will Transformers Transform?](https://rodneybrooks.com/what-will-transformers-transform/)
 * [2023-03-23, 05:42:24](https://news.ycombinator.com/item?id=35270877) - [You might not need an effect](https://react.dev/learn/you-might-not-need-an-effect)
