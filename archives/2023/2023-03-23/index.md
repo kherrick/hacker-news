@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 17:00:35](https://news.ycombinator.com/item?id=35277721) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35277721)
+* [2023-03-23, 16:57:28](https://news.ycombinator.com/item?id=35277677) - [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
+* [2023-03-23, 16:56:30](https://news.ycombinator.com/item?id=35277660) - [Framework announces AMD, new Intel gen, 16“ laptop and more](https://frame.work/)
+* [2023-03-23, 16:41:47](https://news.ycombinator.com/item?id=35277433) - [California bill would ban sales of Skittles, other ‘toxic’ snacks](https://www.latimes.com/california/story/2023-03-23/california-law-would-ban-skittles-other-snacks-chemicals)
 * [2023-03-23, 16:13:09](https://news.ycombinator.com/item?id=35277022) - [Is a Covid Personality Disorder Caused by Viral Damage to the Prefrontal Cortex?](https://www.infectioncontroltoday.com/view/covid-19-traffic-accidents-covid-19-personality-disorder-caused-viral-damage-prefrontal-cortex-)
 * [2023-03-23, 16:07:01](https://news.ycombinator.com/item?id=35276938) - [Change Your Life in 6 Months (My Deep Work Routine)](https://thedankoe.com/change-your-life-in-6-months-my-deep-work-routine/)
 * [2023-03-23, 16:01:16](https://news.ycombinator.com/item?id=35276829) - [Show HN: Hypertune – Visual, functional, statically-typed configuration language](https://www.hypertune.com/)
