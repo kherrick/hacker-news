@@ -74,6 +74,7 @@
 * [2023-03-23, 05:05:22](https://news.ycombinator.com/item?id=35270726) - [Microsoft Research: GPT-4 exhibits “sparks of general intelligence”](https://www.haihai.ai/sparks/)
 * [2023-03-23, 05:02:55](https://news.ycombinator.com/item?id=35270720) - [Epic’s Verse Programming Language](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
 * [2023-03-23, 04:49:03](https://news.ycombinator.com/item?id=35270658) - [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/)
+* [2023-03-23, 04:45:44](https://news.ycombinator.com/item?id=35270637) - [On Trust in Software Development](https://blog.ploeh.dk/2023/03/20/on-trust-in-software-development/)
 * [2023-03-23, 03:38:26](https://news.ycombinator.com/item?id=35270257) - [A Debugger Barrier](http://msinilo.pl/blog2/post/debugger-barrier/)
 * [2023-03-23, 03:23:16](https://news.ycombinator.com/item?id=35270175) - [FTC: Chatbots, deepfakes, and voice clones: AI deception for sale](https://www.ftc.gov/business-guidance/blog/2023/03/chatbots-deepfakes-voice-clones-ai-deception-sale)
 * [2023-03-23, 03:16:33](https://news.ycombinator.com/item?id=35270131) - [The risks of cleaning with bleach and other disinfectants](https://www.nytimes.com/2023/03/21/well/live/cleaning-disinfectant-bleach-risks.html)
