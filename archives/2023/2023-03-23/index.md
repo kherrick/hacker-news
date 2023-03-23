@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 18:59:33](https://news.ycombinator.com/item?id=35279656) - [How to use Alpaca-LoRA to fine-tune a model like ChatGPT](https://replicate.com/blog/fine-tune-alpaca-with-lora)
 * [2023-03-23, 18:38:14](https://news.ycombinator.com/item?id=35279349) - [The heaviest bicycle in the world is an impressive 4800 lb](https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/)
 * [2023-03-23, 18:34:03](https://news.ycombinator.com/item?id=35279274) - [AI’s compute fragmentation: what matrix multiplication teaches us](https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us)
 * [2023-03-23, 18:25:45](https://news.ycombinator.com/item?id=35279155) - [Launch HN: Helicone.ai (YC W23) – Open-Source Logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
@@ -41,6 +42,7 @@
 * [2023-03-23, 12:33:31](https://news.ycombinator.com/item?id=35273712) - [Starbucks CEO will work a shift at the company’s cafes once a month](https://www.cnbc.com/2023/03/23/new-starbucks-ceo-says-hell-work-a-shift-at-its-cafes-once-a-month.html)
 * [2023-03-23, 12:33:13](https://news.ycombinator.com/item?id=35273707) - [Mathematicians discover shape that can tile a wall and never repeat](https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/)
 * [2023-03-23, 12:27:23](https://news.ycombinator.com/item?id=35273641) - [F-150 Lightning Recall Due to SK Cells](https://finance.yahoo.com/news/ford-f-150-lightning-recall-reveals-cause-of-battery-fire-173034051.html)
+* [2023-03-23, 12:23:11](https://news.ycombinator.com/item?id=35273586) - [Everything I, an Italian, thought I knew about Italian food is wrong](https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c)
 * [2023-03-23, 12:09:57](https://news.ycombinator.com/item?id=35273449) - [Nvidia Tackles Chipmaking Process, Claims 40X Speed Up with CuLitho](https://www.tomshardware.com/news/nvidia-tackles-chipmaking-process-claims-40x-speed-up-with-culitho)
 * [2023-03-23, 12:06:14](https://news.ycombinator.com/item?id=35273406) - [Cheating Is All You Need](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
 * [2023-03-23, 12:04:10](https://news.ycombinator.com/item?id=35273398) - [Accenture would cut 19,000 jobs](https://www.reuters.com/technology/accenture-forecasts-third-quarter-revenue-below-estimates-2023-03-23/)
