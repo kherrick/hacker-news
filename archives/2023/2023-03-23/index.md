@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 15:43:35](https://news.ycombinator.com/item?id=35276560) - [California bill would require high schools to hand out free condoms](https://www.latimes.com/california/story/2023-03-22/california-bill-public-high-schools-free-condoms-legislature)
 * [2023-03-23, 15:09:19](https://news.ycombinator.com/item?id=35276032) - [How to Polis, 101, Part IIa: Politeia in the Polis](https://acoup.blog/2023/03/17/collections-how-to-polis-part-iia-politeia-in-the-polis/)
 * [2023-03-23, 14:48:11](https://news.ycombinator.com/item?id=35275658) - [Do Kwon reportedly arrested in Montenegro](https://www.coindesk.com/business/2023/03/23/do-kwon-arrested-in-montenegro-interior-minister/)
 * [2023-03-23, 14:38:59](https://news.ycombinator.com/item?id=35275524) - [Ask HN: TikTok CCP data collection software?](https://news.ycombinator.com/item?id=35275524)
