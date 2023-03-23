@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 21:35:06](https://news.ycombinator.com/item?id=35281617) - [I Bought Back My Acquihired Startup](https://steveridout.com/2023/03/23/buy-back.html)
+* [2023-03-23, 21:29:30](https://news.ycombinator.com/item?id=35281561) - [Protobuffers Are Wrong (2018)](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
 * [2023-03-23, 21:26:28](https://news.ycombinator.com/item?id=35281527) - [Microsoft&#x27;s paper on OpenAI&#x27;s GPT-4 had hidden information](https://twitter.com/DV2559106965076/status/1638769434763608064)
+* [2023-03-23, 21:12:04](https://news.ycombinator.com/item?id=35281342) - [I unschool my 5 kids. This is how much it costs](https://rosiesherry.medium.com/i-unschool-my-5-kids-this-is-what-we-spend-our-money-on-8abd67c5f9c)
+* [2023-03-23, 21:05:19](https://news.ycombinator.com/item?id=35281258) - [US Police raids home; sues homeowner over CCTV footage of raid](https://www.fox19.com/2023/03/22/afroman-sued-by-law-enforcment-officers-who-raided-his-home/)
 * [2023-03-23, 21:00:51](https://news.ycombinator.com/item?id=35281194) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=35281194)
 * [2023-03-23, 20:45:35](https://news.ycombinator.com/item?id=35281026) - [RWKV RNN: Better than ChatGPT?](https://github.com/BlinkDL/RWKV-LM)
 * [2023-03-23, 19:57:23](https://news.ycombinator.com/item?id=35280454) - [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
