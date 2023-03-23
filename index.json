@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-03-23, 12:04:10",
+      "https://news.ycombinator.com/item?id=35273398"
+    ],
+    [
+      "Accenture would cut 19,000 jobs",
+      "https://www.reuters.com/technology/accenture-forecasts-third-quarter-revenue-below-estimates-2023-03-23/"
+    ]
+  ],
+  [
+    [
+      "2023-03-23, 12:00:16",
+      "https://news.ycombinator.com/item?id=35273366"
+    ],
+    [
+      "Memfault (YC W19) Is Hiring Their First Product Designer in Berlin",
+      "https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34"
+    ]
+  ],
+  [
+    [
+      "2023-03-23, 11:54:31",
+      "https://news.ycombinator.com/item?id=35273305"
+    ],
+    [
+      "Acropalypse: Windows Save File API is defective by design",
+      "https://twitter.com/sjmurdoch/status/1638623990817103888"
+    ]
+  ],
+  [
+    [
+      "2023-03-23, 11:49:03",
+      "https://news.ycombinator.com/item?id=35273250"
+    ],
+    [
+      "Google just launched Bard, its answer to ChatGPT",
+      "https://www.technologyreview.com/2023/03/21/1070111/google-bard-chatgpt-openai-microsoft-bing-search/"
+    ]
+  ],
+  [
+    [
+      "2023-03-23, 11:28:34",
+      "https://news.ycombinator.com/item?id=35273064"
+    ],
+    [
+      "MSCHF’s &#x27;Tax Heaven 3000&#x27; Is a Dating Simulator That Also Files Your Taxes",
+      "https://www.yahoo.com/lifestyle/mschfs-tax-heaven-3000-dating-095632728.html"
+    ]
+  ],
+  [
+    [
       "2023-03-23, 11:10:55",
       "https://news.ycombinator.com/item?id=35272900"
     ],
@@ -81,26 +131,6 @@
   ],
   [
     [
-      "2023-03-23, 07:01:12",
-      "https://news.ycombinator.com/item?id=35271343"
-    ],
-    [
-      "Supabase (YC S20) is looking for a dev to run our socials and community",
-      "https://boards.greenhouse.io/supabase/jobs/4777008004"
-    ]
-  ],
-  [
-    [
-      "2023-03-23, 06:24:20",
-      "https://news.ycombinator.com/item?id=35271076"
-    ],
-    [
-      "Wikimedia Foundation: Copyright Analysis of ChatGPT",
-      "https://meta.wikimedia.org/wiki/Wikilegal/Copyright_Analysis_of_ChatGPT"
-    ]
-  ],
-  [
-    [
       "2023-03-23, 05:42:24",
       "https://news.ycombinator.com/item?id=35270877"
     ],
@@ -137,16 +167,6 @@
     [
       "Kelly ‘Aloria’ Lum has died",
       "https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/"
-    ]
-  ],
-  [
-    [
-      "2023-03-23, 01:15:11",
-      "https://news.ycombinator.com/item?id=35269347"
-    ],
-    [
-      "Chinese app included malware to gain competitive advantage",
-      "https://krebsonsecurity.com/2023/03/google-suspends-chinese-e-commerce-app-pinduoduo-over-malware/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-03-22, 19:57:13",
-      "https://news.ycombinator.com/item?id=35266322"
-    ],
-    [
-      "SEC charges crypto entrepreneur Justin Sun and his companies for fraud",
-      "https://www.sec.gov/news/press-release/2023-59"
-    ]
-  ],
-  [
-    [
       "2023-03-22, 19:08:39",
       "https://news.ycombinator.com/item?id=35265752"
     ],
@@ -257,16 +267,6 @@
     [
       "MRSK vs. Fly.io",
       "https://fly.io/ruby-dispatch/mrsk-vs-flyio/"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 16:50:12",
-      "https://news.ycombinator.com/item?id=35263799"
-    ],
-    [
-      "Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models",
-      "https://lukashoel.github.io/text-to-room/"
     ]
   ],
   [
