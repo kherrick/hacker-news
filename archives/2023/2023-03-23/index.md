@@ -10,6 +10,7 @@
 * [2023-03-23, 09:38:53](https://news.ycombinator.com/item?id=35272215) - [GNOME 44](https://foundation.gnome.org/2023/03/22/introducing-gnome-44/)
 * [2023-03-23, 08:51:53](https://news.ycombinator.com/item?id=35271962) - [Sex Worker-Led Payment Platform Shuts Down After Being Cut Off by Processor](https://www.vice.com/en/article/88x9mb/spankpay-sex-work-payment-platform-shuts-down)
 * [2023-03-23, 08:20:21](https://news.ycombinator.com/item?id=35271779) - [A CPU Is a Compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)
+* [2023-03-23, 07:43:57](https://news.ycombinator.com/item?id=35271587) - [What Will Transformers Transform?](https://rodneybrooks.com/what-will-transformers-transform/)
 * [2023-03-23, 07:01:12](https://news.ycombinator.com/item?id=35271343) - [Supabase (YC S20) Is Looking for a Dev to Run Our Socials and Community](https://boards.greenhouse.io/supabase/jobs/4777008004)
 * [2023-03-23, 06:24:20](https://news.ycombinator.com/item?id=35271076) - [Wikimedia Foundation: Copyright Analysis of ChatGPT](https://meta.wikimedia.org/wiki/Wikilegal/Copyright_Analysis_of_ChatGPT)
 * [2023-03-23, 05:42:24](https://news.ycombinator.com/item?id=35270877) - [React: You Might Not Need an Effect](https://react.dev/learn/you-might-not-need-an-effect)
