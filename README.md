@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-23, 21:26:28](https://news.ycombinator.com/item?id=35281527) - [Microsoft&#x27;s paper on OpenAI&#x27;s GPT-4 had hidden information](https://twitter.com/DV2559106965076/status/1638769434763608064)
 * [2023-03-23, 21:00:51](https://news.ycombinator.com/item?id=35281194) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=35281194)
 * [2023-03-23, 20:45:35](https://news.ycombinator.com/item?id=35281026) - [RWKV RNN: Better than ChatGPT?](https://github.com/BlinkDL/RWKV-LM)
 * [2023-03-23, 19:57:23](https://news.ycombinator.com/item?id=35280454) - [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
@@ -13,7 +14,6 @@
 * [2023-03-23, 16:56:30](https://news.ycombinator.com/item?id=35277660) - [Framework announces AMD, new Intel gen, 16“ laptop and more](https://frame.work/)
 * [2023-03-23, 16:28:25](https://news.ycombinator.com/item?id=35277245) - [Relativity Space launches first 3D-printed rocket on historic test flight](https://www.space.com/relativity-space-terran-1-test-launch-failure)
 * [2023-03-23, 15:57:49](https://news.ycombinator.com/item?id=35276765) - [Poetry from dirty OCR](https://github.com/bibliotechy/dirty-poetry)
-* [2023-03-23, 15:09:19](https://news.ycombinator.com/item?id=35276032) - [How to Polis, 101, Part IIa: Politeia in the Polis](https://acoup.blog/2023/03/17/collections-how-to-polis-part-iia-politeia-in-the-polis/)
 * [2023-03-23, 14:48:11](https://news.ycombinator.com/item?id=35275658) - [Do Kwon arrested in Montenegro: Interior Minister](https://www.coindesk.com/business/2023/03/23/do-kwon-arrested-in-montenegro-interior-minister/)
 * [2023-03-23, 14:24:46](https://news.ycombinator.com/item?id=35275301) - [Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler)
 * [2023-03-23, 13:33:10](https://news.ycombinator.com/item?id=35274519) - [The FTC wants to ban those tough-to-cancel gym and cable subscriptions](https://www.theverge.com/2023/3/23/23652373/ftc-click-to-cancel-subscription-service-dark-patterns-ban)
@@ -22,14 +22,14 @@
 * [2023-03-23, 12:33:13](https://news.ycombinator.com/item?id=35273707) - [Mathematicians discover shape that can tile a wall and never repeat](https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/)
 * [2023-03-23, 12:06:14](https://news.ycombinator.com/item?id=35273406) - [Cheating is All You Need](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
 * [2023-03-23, 11:10:55](https://news.ycombinator.com/item?id=35272900) - [Jaron Lanier on the danger of AI](https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane)
+* [2023-03-23, 10:01:17](https://news.ycombinator.com/item?id=35272350) - [Moviemaking and gamemaking are converging](https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging)
 * [2023-03-23, 09:40:21](https://news.ycombinator.com/item?id=35272227) - [The drama in trying to convert election PDFs to Spreadsheets](https://markessien.com/posts/drama_of_transcription/)
 * [2023-03-23, 05:25:55](https://news.ycombinator.com/item?id=35270806) - [The Cornell University Witchcraft Collection](https://rmc.library.cornell.edu/witchcraftcoll/)
-* [2023-03-23, 03:38:26](https://news.ycombinator.com/item?id=35270257) - [A Debugger Barrier](http://msinilo.pl/blog2/post/debugger-barrier/)
+* [2023-03-23, 03:38:26](https://news.ycombinator.com/item?id=35270257) - [A debugger barrier](http://msinilo.pl/blog2/post/debugger-barrier/)
 * [2023-03-23, 03:16:33](https://news.ycombinator.com/item?id=35270131) - [The risks of cleaning with bleach and other disinfectants](https://www.nytimes.com/2023/03/21/well/live/cleaning-disinfectant-bleach-risks.html)
 * [2023-03-22, 18:10:20](https://news.ycombinator.com/item?id=35264919) - [Miller test](https://en.wikipedia.org/wiki/Miller_test)
-* [2023-03-22, 15:31:09](https://news.ycombinator.com/item?id=35262594) - [The Official Pcmcia Association Website (2008)](https://web.archive.org/web/20081225064415/http://pcmcia.org/)
+* [2023-03-22, 15:31:09](https://news.ycombinator.com/item?id=35262594) - [Official Home Page for the PCMCIA Trade Association (2008)](https://web.archive.org/web/20081225064415/http://pcmcia.org/)
 * [2023-03-22, 15:02:43](https://news.ycombinator.com/item?id=35262129) - [Choose what to dream tonight](https://www.wsj.com/articles/these-techniques-might-help-you-direct-your-dreams-6812735e)
-* [2023-03-22, 02:30:05](https://news.ycombinator.com/item?id=35256014) - [Codes and Crowns](https://www.historytoday.com/archive/history-matters/codes-and-crowns)
 
 ## [Archives](archives/index.md)
 
