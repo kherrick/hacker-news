@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-03-23, 13:01:29",
-      "https://news.ycombinator.com/item?id=35274050"
-    ],
-    [
-      "Show HN: Remove “GPT” from your HN feed",
-      "https://gist.github.com/surprisetalk/462789361723211fcda71e13fa08bbc0"
-    ]
-  ],
-  [
-    [
       "2023-03-23, 12:47:18",
       "https://news.ycombinator.com/item?id=35273884"
     ],
@@ -27,16 +17,6 @@
     [
       "Hindenburg Research Outs Block Inc as Fraud",
       "https://hindenburgresearch.com/block/"
-    ]
-  ],
-  [
-    [
-      "2023-03-23, 12:33:31",
-      "https://news.ycombinator.com/item?id=35273712"
-    ],
-    [
-      "Starbucks CEO will work a shift at the company’s cafes once a month",
-      "https://www.cnbc.com/2023/03/23/new-starbucks-ceo-says-hell-work-a-shift-at-its-cafes-once-a-month.html"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2023-03-23, 05:42:24",
+      "https://news.ycombinator.com/item?id=35270877"
+    ],
+    [
+      "You might not need an effect",
+      "https://react.dev/learn/you-might-not-need-an-effect"
+    ]
+  ],
+  [
+    [
       "2023-03-23, 04:49:03",
       "https://news.ycombinator.com/item?id=35270658"
     ],
@@ -277,6 +267,16 @@
     [
       "FauxPilot – an open-source GitHub Copilot server",
       "https://github.com/fauxpilot/fauxpilot"
+    ]
+  ],
+  [
+    [
+      "2023-03-22, 16:12:13",
+      "https://news.ycombinator.com/item?id=35263285"
+    ],
+    [
+      "De-cloud and de-k8s – bringing our apps back home",
+      "https://dev.37signals.com/bringing-our-apps-back-home/"
     ]
   ],
   [
