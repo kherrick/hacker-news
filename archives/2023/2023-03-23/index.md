@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
 * [2023-03-23, 10:01:17](https://news.ycombinator.com/item?id=35272350) - [Moviemaking and Gamemaking Are Converging](https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging)
+* [2023-03-23, 09:40:21](https://news.ycombinator.com/item?id=35272227) - [The drama in trying to convert election PDFs to Spreadsheets](https://markessien.com/posts/drama_of_transcription/)
+* [2023-03-23, 09:38:53](https://news.ycombinator.com/item?id=35272215) - [GNOME 44](https://foundation.gnome.org/2023/03/22/introducing-gnome-44/)
 * [2023-03-23, 08:51:53](https://news.ycombinator.com/item?id=35271962) - [Sex Worker-Led Payment Platform Shuts Down After Being Cut Off by Processor](https://www.vice.com/en/article/88x9mb/spankpay-sex-work-payment-platform-shuts-down)
 * [2023-03-23, 07:01:12](https://news.ycombinator.com/item?id=35271343) - [Supabase (YC S20) Is Looking for a Dev to Run Our Socials and Community](https://boards.greenhouse.io/supabase/jobs/4777008004)
 * [2023-03-23, 06:24:20](https://news.ycombinator.com/item?id=35271076) - [Wikimedia Foundation: Copyright Analysis of ChatGPT](https://meta.wikimedia.org/wiki/Wikilegal/Copyright_Analysis_of_ChatGPT)

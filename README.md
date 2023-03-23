@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-23, 10:01:17](https://news.ycombinator.com/item?id=35272350) - [Moviemaking and Gamemaking Are Converging](https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging)
+* [2023-03-23, 09:40:21](https://news.ycombinator.com/item?id=35272227) - [The drama in trying to convert election PDFs to Spreadsheets](https://markessien.com/posts/drama_of_transcription/)
+* [2023-03-23, 09:38:53](https://news.ycombinator.com/item?id=35272215) - [GNOME 44](https://foundation.gnome.org/2023/03/22/introducing-gnome-44/)
 * [2023-03-23, 08:51:53](https://news.ycombinator.com/item?id=35271962) - [Sex Worker-Led Payment Platform Shuts Down After Being Cut Off by Processor](https://www.vice.com/en/article/88x9mb/spankpay-sex-work-payment-platform-shuts-down)
 * [2023-03-23, 07:01:12](https://news.ycombinator.com/item?id=35271343) - [Supabase (YC S20) is looking for a dev to run our socials and community](https://boards.greenhouse.io/supabase/jobs/4777008004)
 * [2023-03-23, 06:24:20](https://news.ycombinator.com/item?id=35271076) - [Wikimedia Foundation: Copyright Analysis of ChatGPT](https://meta.wikimedia.org/wiki/Wikilegal/Copyright_Analysis_of_ChatGPT)
@@ -15,7 +17,6 @@
 * [2023-03-22, 22:28:50](https://news.ycombinator.com/item?id=35267901) - [Adding an ISA Slot to a Modern Motherboard [video]](https://www.youtube.com/watch?v=IXr-VEpQ1lg)
 * [2023-03-22, 22:05:02](https://news.ycombinator.com/item?id=35267707) - [Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html)
 * [2023-03-22, 22:04:01](https://news.ycombinator.com/item?id=35267692) - [Coinbase issued Wells notice by SEC](https://www.reuters.com/legal/coinbase-issued-wells-notice-by-sec-2023-03-22/)
-* [2023-03-22, 21:57:54](https://news.ycombinator.com/item?id=35267627) - [My sign up form was abused to send spam. Is yours safe?](https://mzrn.sh/2023/03/03/never-include-user-input-text-in-welcome-emails/)
 * [2023-03-22, 20:18:56](https://news.ycombinator.com/item?id=35266553) - [Show HN: Dungeon Map Doodler Beta - Free online map drawing tool](https://dungeonmapdoodler.com/beta/)
 * [2023-03-22, 19:57:13](https://news.ycombinator.com/item?id=35266322) - [SEC charges crypto entrepreneur Justin Sun and his companies for fraud](https://www.sec.gov/news/press-release/2023-59)
 * [2023-03-22, 19:55:44](https://news.ycombinator.com/item?id=35266304) - [Remote work is starting to hit office rents](https://www.axios.com/2023/03/22/remote-work-wf-office-rents-decline)
@@ -29,7 +30,6 @@
 * [2023-03-22, 13:38:17](https://news.ycombinator.com/item?id=35260815) - [Launch HN: Flower (YC W23) – Train AI models on distributed or sensitive data](https://news.ycombinator.com/item?id=35260815)
 * [2023-03-22, 11:36:41](https://news.ycombinator.com/item?id=35259527) - [How the last-ditch effort to save Silicon Valley Bank failed](https://www.wsj.com/articles/how-the-last-ditch-effort-to-save-silicon-valley-bank-failed-89619cb2)
 * [2023-03-22, 09:59:04](https://news.ycombinator.com/item?id=35258877) - [Bob Metcalfe wins Turing Award](https://amturing.acm.org/?2023)
-* [2023-03-21, 14:49:42](https://news.ycombinator.com/item?id=35246995) - [How I came to write “Tidy First?” tl;dr it took 18 years](https://tidyfirst.substack.com/p/how-i-came-to-write-tidy-first)
 
 ## [Archives](archives/index.md)
 
