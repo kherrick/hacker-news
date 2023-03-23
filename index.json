@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=35279349"
     ],
     [
-      "The heaviest bicycle in the world is an impressive 4800 lb",
+      "The heaviest bicycle in the world is 4800 lb",
       "https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=35279155"
     ],
     [
-      "Launch HN: Helicone.ai (YC W23) – Open-Source Logging for OpenAI",
+      "Launch HN: Helicone.ai (YC W23) – Open-source logging for OpenAI",
       "https://news.ycombinator.com/item?id=35279155"
     ]
   ],
@@ -27,26 +27,6 @@
     [
       "SushiDAO served with subpoena by SEC",
       "https://forum.sushi.com/t/establish-sushi-legal-defense-fund/11813"
-    ]
-  ],
-  [
-    [
-      "2023-03-23, 18:04:51",
-      "https://news.ycombinator.com/item?id=35278840"
-    ],
-    [
-      "Law school dean discusses recent protest, outlines next steps",
-      "https://news.stanford.edu/report/2023/03/23/law-school-dean-discusses-recent-protest-outlines-next-steps/"
-    ]
-  ],
-  [
-    [
-      "2023-03-23, 17:51:01",
-      "https://news.ycombinator.com/item?id=35278597"
-    ],
-    [
-      "ChatGPT Retrieval Plugin",
-      "https://github.com/openai/chatgpt-retrieval-plugin"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2023-03-23, 12:06:14",
+      "https://news.ycombinator.com/item?id=35273406"
+    ],
+    [
+      "Cheating is all you need",
+      "https://about.sourcegraph.com/blog/cheating-is-all-you-need"
+    ]
+  ],
+  [
+    [
       "2023-03-23, 09:40:21",
       "https://news.ycombinator.com/item?id=35272227"
     ],
@@ -215,8 +205,18 @@
       "https://news.ycombinator.com/item?id=35271779"
     ],
     [
-      "A CPU Is a Compiler",
+      "A CPU is a compiler",
       "https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-23, 07:43:57",
+      "https://news.ycombinator.com/item?id=35271587"
+    ],
+    [
+      "What Will Transformers Transform?",
+      "https://rodneybrooks.com/what-will-transformers-transform/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=35264919"
     ],
     [
-      "Miller Test",
+      "Miller test",
       "https://en.wikipedia.org/wiki/Miller_test"
     ]
   ],
