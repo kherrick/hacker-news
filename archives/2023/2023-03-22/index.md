@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 23:50:47](https://news.ycombinator.com/item?id=35268697) - [The Vintage Technology Digital Archive](http://vtda.org/)
 * [2023-03-22, 22:56:00](https://news.ycombinator.com/item?id=35268197) - [Everything ChatGPT – under the hood of the ChatGPT web app](https://github.com/terminalcommandnewsletter/everything-chatgpt)
 * [2023-03-22, 22:42:37](https://news.ycombinator.com/item?id=35268050) - [When did New York start building slowly?](https://constructionphysics.substack.com/p/when-did-new-york-start-building)
 * [2023-03-22, 22:32:20](https://news.ycombinator.com/item?id=35267944) - [Helix: A Sleek Open-Source Portfolio Website](https://merylldindin.com)
+* [2023-03-22, 22:28:50](https://news.ycombinator.com/item?id=35267901) - [DISAppointment: Adding an ISA Slot to a Modern Motherboard](https://www.youtube.com/watch?v=IXr-VEpQ1lg)
 * [2023-03-22, 22:05:02](https://news.ycombinator.com/item?id=35267707) - [Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html)
 * [2023-03-22, 22:04:01](https://news.ycombinator.com/item?id=35267692) - [Coinbase issued Wells notice by SEC](https://www.reuters.com/legal/coinbase-issued-wells-notice-by-sec-2023-03-22/)
 * [2023-03-22, 20:18:56](https://news.ycombinator.com/item?id=35266553) - [Show HN: Dungeon Map Doodler Beta - Free online map drawing tool](https://dungeonmapdoodler.com/beta/)
@@ -14,6 +16,7 @@
 * [2023-03-22, 19:55:44](https://news.ycombinator.com/item?id=35266304) - [Remote work is starting to hit office rents](https://www.axios.com/2023/03/22/remote-work-wf-office-rents-decline)
 * [2023-03-22, 19:52:24](https://news.ycombinator.com/item?id=35266271) - [The Uncomfortable Truth About Why Buying Furniture Is So Miserable](https://www.theassemblync.com/business/high-point-furniture/)
 * [2023-03-22, 19:43:44](https://news.ycombinator.com/item?id=35266170) - [Transitioning Away from Google Services](https://oppositeinvictus.com/transitioning-away-from-google)
+* [2023-03-22, 19:34:08](https://news.ycombinator.com/item?id=35266054) - [Companies to publish salary ranges in job adverts under new EU rules](https://www.businesspost.ie/politics/companies-will-have-to-publish-salary-ranges-in-job-adverts-under-new-eu-transparency-rules/)
 * [2023-03-22, 19:14:58](https://news.ycombinator.com/item?id=35265833) - [The Well-Being Gap Between Liberals and Conservatives](https://americanaffairsjournal.org/2023/03/how-to-understand-the-well-being-gap-between-liberals-and-conservatives/)
 * [2023-03-22, 19:08:39](https://news.ycombinator.com/item?id=35265752) - [A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
 * [2023-03-22, 19:00:50](https://news.ycombinator.com/item?id=35265665) - [Raytracing on AMD’s RDNA 2&#x2F;3, and Nvidia’s Turing and Pascal](https://chipsandcheese.com/2023/03/22/raytracing-on-amds-rdna-2-3-and-nvidias-turing-and-pascal/)
