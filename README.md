@@ -2,7 +2,7 @@
 
 * [2023-03-23, 07:01:12](https://news.ycombinator.com/item?id=35271343) - [Supabase (YC S20) is looking for a dev to run our socials and community](https://boards.greenhouse.io/supabase/jobs/4777008004)
 * [2023-03-23, 05:42:24](https://news.ycombinator.com/item?id=35270877) - [You might not need an effect](https://react.dev/learn/you-might-not-need-an-effect)
-* [2023-03-23, 05:02:55](https://news.ycombinator.com/item?id=35270720) - [Epic’s Verse Programming Language](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
+* [2023-03-23, 04:49:03](https://news.ycombinator.com/item?id=35270658) - [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/)
 * [2023-03-23, 02:34:54](https://news.ycombinator.com/item?id=35269811) - [Kelly ‘Aloria’ Lum has died](https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/)
 * [2023-03-23, 01:15:11](https://news.ycombinator.com/item?id=35269347) - [Chinese app included malware to gain competitive advantage](https://krebsonsecurity.com/2023/03/google-suspends-chinese-e-commerce-app-pinduoduo-over-malware/)
 * [2023-03-23, 01:07:54](https://news.ycombinator.com/item?id=35269304) - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
