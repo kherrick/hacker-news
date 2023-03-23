@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-23, 05:42:24",
+      "https://news.ycombinator.com/item?id=35270877"
+    ],
+    [
+      "React: You Might Not Need an Effect",
+      "https://react.dev/learn/you-might-not-need-an-effect"
+    ]
+  ],
+  [
+    [
       "2023-03-23, 05:15:35",
       "https://news.ycombinator.com/item?id=35270768"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2023-03-23, 01:56:34",
-      "https://news.ycombinator.com/item?id=35269573"
-    ],
-    [
-      "Solar industry feeling the heat over disposal of 80M panels",
-      "https://techxplore.com/news/2023-03-solar-industry-disposal-million-panels.html"
-    ]
-  ],
-  [
-    [
       "2023-03-23, 01:15:11",
       "https://news.ycombinator.com/item?id=35269347"
     ],
@@ -57,16 +57,6 @@
     [
       "OpenAI’s policies hinder reproducible research on language models",
       "https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 23:50:47",
-      "https://news.ycombinator.com/item?id=35268697"
-    ],
-    [
-      "The Vintage Technology Digital Archive",
-      "http://vtda.org/"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "ThumbHash: A better compact image placeholder hash",
       "https://evanw.github.io/thumbhash/"
+    ]
+  ],
+  [
+    [
+      "2023-03-22, 18:13:59",
+      "https://news.ycombinator.com/item?id=35264965"
+    ],
+    [
+      "An Aperiodic Monotile Exists!",
+      "https://aperiodical.com/2023/03/an-aperiodic-monotile-exists/"
     ]
   ],
   [
