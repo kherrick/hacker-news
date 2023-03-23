@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 08:51:53](https://news.ycombinator.com/item?id=35271962) - [Sex Worker-Led Payment Platform Shuts Down After Being Cut Off by Processor](https://www.vice.com/en/article/88x9mb/spankpay-sex-work-payment-platform-shuts-down)
 * [2023-03-23, 07:01:12](https://news.ycombinator.com/item?id=35271343) - [Supabase (YC S20) Is Looking for a Dev to Run Our Socials and Community](https://boards.greenhouse.io/supabase/jobs/4777008004)
 * [2023-03-23, 05:42:24](https://news.ycombinator.com/item?id=35270877) - [React: You Might Not Need an Effect](https://react.dev/learn/you-might-not-need-an-effect)
 * [2023-03-23, 05:15:35](https://news.ycombinator.com/item?id=35270768) - [Anti-porn bills could force device makers to censor sexual material](https://www.nbcnews.com/tech/security/porn-filter-laws-bills-anti-default-florida-texas-rcna73626)

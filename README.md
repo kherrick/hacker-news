@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-23, 08:51:53](https://news.ycombinator.com/item?id=35271962) - [Sex Worker-Led Payment Platform Shuts Down After Being Cut Off by Processor](https://www.vice.com/en/article/88x9mb/spankpay-sex-work-payment-platform-shuts-down)
 * [2023-03-23, 07:01:12](https://news.ycombinator.com/item?id=35271343) - [Supabase (YC S20) is looking for a dev to run our socials and community](https://boards.greenhouse.io/supabase/jobs/4777008004)
 * [2023-03-23, 05:42:24](https://news.ycombinator.com/item?id=35270877) - [You might not need an effect](https://react.dev/learn/you-might-not-need-an-effect)
 * [2023-03-23, 04:49:03](https://news.ycombinator.com/item?id=35270658) - [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/)
@@ -14,7 +15,6 @@
 * [2023-03-22, 21:57:54](https://news.ycombinator.com/item?id=35267627) - [My sign up form was abused to send spam. Is yours safe?](https://mzrn.sh/2023/03/03/never-include-user-input-text-in-welcome-emails/)
 * [2023-03-22, 20:18:56](https://news.ycombinator.com/item?id=35266553) - [Show HN: Dungeon Map Doodler Beta - Free online map drawing tool](https://dungeonmapdoodler.com/beta/)
 * [2023-03-22, 19:57:13](https://news.ycombinator.com/item?id=35266322) - [SEC charges crypto entrepreneur Justin Sun and his companies for fraud](https://www.sec.gov/news/press-release/2023-59)
-* [2023-03-22, 19:55:44](https://news.ycombinator.com/item?id=35266304) - [Remote work is starting to hit office rents](https://www.axios.com/2023/03/22/remote-work-wf-office-rents-decline)
 * [2023-03-22, 19:34:08](https://news.ycombinator.com/item?id=35266054) - [Companies to publish salary ranges in job adverts under new EU rules](https://www.businesspost.ie/politics/companies-will-have-to-publish-salary-ranges-in-job-adverts-under-new-eu-transparency-rules/)
 * [2023-03-22, 19:08:39](https://news.ycombinator.com/item?id=35265752) - [ThumbHash: A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
 * [2023-03-22, 18:13:59](https://news.ycombinator.com/item?id=35264965) - [An Aperiodic Monotile Exists!](https://aperiodical.com/2023/03/an-aperiodic-monotile-exists/)
