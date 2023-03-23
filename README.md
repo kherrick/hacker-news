@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-23, 07:01:12](https://news.ycombinator.com/item?id=35271343) - [Supabase (YC S20) Is Looking for a Dev to Run Our Socials and Community](https://boards.greenhouse.io/supabase/jobs/4777008004)
 * [2023-03-23, 05:42:24](https://news.ycombinator.com/item?id=35270877) - [React: You Might Not Need an Effect](https://react.dev/learn/you-might-not-need-an-effect)
-* [2023-03-23, 05:15:35](https://news.ycombinator.com/item?id=35270768) - [Anti-porn bills could force device makers to censor sexual material](https://www.nbcnews.com/tech/security/porn-filter-laws-bills-anti-default-florida-texas-rcna73626)
-* [2023-03-23, 05:05:22](https://news.ycombinator.com/item?id=35270726) - [Microsoft Research: GPT-4 exhibits “sparks of general intelligence”](https://www.haihai.ai/sparks/)
 * [2023-03-23, 02:34:54](https://news.ycombinator.com/item?id=35269811) - [Kelly ‘Aloria’ Lum has died](https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/)
 * [2023-03-23, 01:15:11](https://news.ycombinator.com/item?id=35269347) - [Chinese app included malware to gain competitive advantage](https://krebsonsecurity.com/2023/03/google-suspends-chinese-e-commerce-app-pinduoduo-over-malware/)
 * [2023-03-23, 01:07:54](https://news.ycombinator.com/item?id=35269304) - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
@@ -25,6 +24,7 @@
 * [2023-03-22, 16:37:48](https://news.ycombinator.com/item?id=35263635) - [DPReview is being archived by the Archive Team](https://old.reddit.com/r/photography/comments/11ya4fa/dpreview_is_being_archived_by_the_archive_team/)
 * [2023-03-22, 16:32:06](https://news.ycombinator.com/item?id=35263542) - [Show HN: Zapier&#x27;s first API](https://news.ycombinator.com/item?id=35263542)
 * [2023-03-22, 16:12:13](https://news.ycombinator.com/item?id=35263285) - [De-cloud and de-k8s – bringing our apps back home](https://dev.37signals.com/bringing-our-apps-back-home/)
+* [2023-03-22, 16:01:15](https://news.ycombinator.com/item?id=35263115) - [A eulogy for Dark Sky, a data visualization masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2023-03-22, 14:18:28](https://news.ycombinator.com/item?id=35261386) - [Show HN: Moonshine – open-source, pretrained ML models for satellite](https://moonshineai.readthedocs.io/en/latest/index.html)
 * [2023-03-22, 13:38:17](https://news.ycombinator.com/item?id=35260815) - [Launch HN: Flower (YC W23) – Train AI models on distributed or sensitive data](https://news.ycombinator.com/item?id=35260815)
 * [2023-03-22, 11:36:41](https://news.ycombinator.com/item?id=35259527) - [How the last-ditch effort to save Silicon Valley Bank failed](https://www.wsj.com/articles/how-the-last-ditch-effort-to-save-silicon-valley-bank-failed-89619cb2)
