@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 16:13:09](https://news.ycombinator.com/item?id=35277022) - [Is a Covid Personality Disorder Caused by Viral Damage to the Prefrontal Cortex?](https://www.infectioncontroltoday.com/view/covid-19-traffic-accidents-covid-19-personality-disorder-caused-viral-damage-prefrontal-cortex-)
 * [2023-03-23, 16:07:01](https://news.ycombinator.com/item?id=35276938) - [Change Your Life in 6 Months (My Deep Work Routine)](https://thedankoe.com/change-your-life-in-6-months-my-deep-work-routine/)
 * [2023-03-23, 16:01:16](https://news.ycombinator.com/item?id=35276829) - [Show HN: Hypertune – Visual, functional, statically-typed configuration language](https://www.hypertune.com/)
 * [2023-03-23, 15:57:49](https://news.ycombinator.com/item?id=35276765) - [Bibliotechy&#x2F;dirty-poetry: poetry from dirty OCR](https://github.com/bibliotechy/dirty-poetry)
