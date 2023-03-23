@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-23, 03:23:16](https://news.ycombinator.com/item?id=35270175) - [FTC: Chatbots, deepfakes, and voice clones: AI deception for sale](https://www.ftc.gov/business-guidance/blog/2023/03/chatbots-deepfakes-voice-clones-ai-deception-sale)
+* [2023-03-23, 02:34:54](https://news.ycombinator.com/item?id=35269811) - [Beloved hacking veteran Kelly ‘Aloria’ Lum passes away at 41](https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/)
 * [2023-03-23, 02:10:20](https://news.ycombinator.com/item?id=35269659) - [We asked the SEC for reasonable crypto rules for Americans](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
 * [2023-03-23, 01:15:11](https://news.ycombinator.com/item?id=35269347) - [Chinese app included malware to gain competitive advantage](https://krebsonsecurity.com/2023/03/google-suspends-chinese-e-commerce-app-pinduoduo-over-malware/)
 * [2023-03-23, 01:07:54](https://news.ycombinator.com/item?id=35269304) - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
@@ -26,7 +27,6 @@
 * [2023-03-22, 14:17:04](https://news.ycombinator.com/item?id=35261363) - [A mirror that reverses how light travels in time](https://spectrum.ieee.org/time-reversal-interface)
 * [2023-03-22, 13:59:07](https://news.ycombinator.com/item?id=35261065) - [GitHub Copilot X – Sign up for technical preview](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 * [2023-03-22, 13:38:17](https://news.ycombinator.com/item?id=35260815) - [Launch HN: Flower (YC W23) – Train AI models on distributed or sensitive data](https://news.ycombinator.com/item?id=35260815)
-* [2023-03-22, 13:07:12](https://news.ycombinator.com/item?id=35260401) - [The simplicity of single-file Golang deployments](https://www.amazingcto.com/simplicity-of-golang-systemd-deployments/)
 * [2023-03-22, 11:36:41](https://news.ycombinator.com/item?id=35259527) - [How the last-ditch effort to save Silicon Valley Bank failed](https://www.wsj.com/articles/how-the-last-ditch-effort-to-save-silicon-valley-bank-failed-89619cb2)
 * [2023-03-22, 09:59:04](https://news.ycombinator.com/item?id=35258877) - [Bob Metcalfe wins Turing Award](https://amturing.acm.org/?2023)
 * [2023-03-21, 14:49:42](https://news.ycombinator.com/item?id=35246995) - [How I came to write “Tidy First?” tl;dr it took 18 years](https://tidyfirst.substack.com/p/how-i-came-to-write-tidy-first)
