@@ -6,6 +6,7 @@
 
 * [2023-03-23, 21:00:51](https://news.ycombinator.com/item?id=35281194) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=35281194)
 * [2023-03-23, 20:45:35](https://news.ycombinator.com/item?id=35281026) - [RWKV RNN: Better than ChatGPT?](https://github.com/BlinkDL/RWKV-LM)
+* [2023-03-23, 19:57:23](https://news.ycombinator.com/item?id=35280454) - [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
 * [2023-03-23, 19:24:05](https://news.ycombinator.com/item?id=35280006) - [Stanford’s war against its own students](https://www.thefp.com/p/stanfords-war-against-its-own-students)
 * [2023-03-23, 18:59:33](https://news.ycombinator.com/item?id=35279656) - [How to use Alpaca-LoRA to fine-tune a model like ChatGPT](https://replicate.com/blog/fine-tune-alpaca-with-lora)
 * [2023-03-23, 18:38:14](https://news.ycombinator.com/item?id=35279349) - [The heaviest bicycle in the world is an impressive 4800 lb](https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/)

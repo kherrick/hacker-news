@@ -2,6 +2,7 @@
 
 * [2023-03-23, 21:00:51](https://news.ycombinator.com/item?id=35281194) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=35281194)
 * [2023-03-23, 20:45:35](https://news.ycombinator.com/item?id=35281026) - [RWKV RNN: Better than ChatGPT?](https://github.com/BlinkDL/RWKV-LM)
+* [2023-03-23, 19:57:23](https://news.ycombinator.com/item?id=35280454) - [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
 * [2023-03-23, 19:24:05](https://news.ycombinator.com/item?id=35280006) - [Stanford’s war against its own students](https://www.thefp.com/p/stanfords-war-against-its-own-students)
 * [2023-03-23, 18:59:33](https://news.ycombinator.com/item?id=35279656) - [How to use Alpaca-LoRA to fine-tune a model like ChatGPT](https://replicate.com/blog/fine-tune-alpaca-with-lora)
 * [2023-03-23, 18:34:03](https://news.ycombinator.com/item?id=35279274) - [AI’s compute fragmentation: what matrix multiplication teaches us](https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us)
@@ -22,7 +23,6 @@
 * [2023-03-23, 12:06:14](https://news.ycombinator.com/item?id=35273406) - [Cheating is All You Need](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
 * [2023-03-23, 11:10:55](https://news.ycombinator.com/item?id=35272900) - [Jaron Lanier on the danger of AI](https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane)
 * [2023-03-23, 09:40:21](https://news.ycombinator.com/item?id=35272227) - [The drama in trying to convert election PDFs to Spreadsheets](https://markessien.com/posts/drama_of_transcription/)
-* [2023-03-23, 08:20:21](https://news.ycombinator.com/item?id=35271779) - [A CPU is a compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)
 * [2023-03-23, 05:25:55](https://news.ycombinator.com/item?id=35270806) - [The Cornell University Witchcraft Collection](https://rmc.library.cornell.edu/witchcraftcoll/)
 * [2023-03-23, 03:38:26](https://news.ycombinator.com/item?id=35270257) - [A Debugger Barrier](http://msinilo.pl/blog2/post/debugger-barrier/)
 * [2023-03-23, 03:16:33](https://news.ycombinator.com/item?id=35270131) - [The risks of cleaning with bleach and other disinfectants](https://www.nytimes.com/2023/03/21/well/live/cleaning-disinfectant-bleach-risks.html)
