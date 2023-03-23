@@ -9,7 +9,6 @@
 * [2023-03-23, 13:22:33](https://news.ycombinator.com/item?id=35274362) - [A quick and sobering guide to cloning yourself](https://oneusefulthing.substack.com/p/a-quick-and-sobering-guide-to-cloning)
 * [2023-03-23, 13:14:43](https://news.ycombinator.com/item?id=35274242) - [Associations between infant screen use, EEG markers, and cognitive outcomes](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2800776)
 * [2023-03-23, 12:47:18](https://news.ycombinator.com/item?id=35273884) - [Epic’s new motion-capture animation tech has to be seen to be believed](https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/)
-* [2023-03-23, 12:39:10](https://news.ycombinator.com/item?id=35273782) - [Block: Inflated user metrics and “frictionless” fraud facilitation](https://hindenburgresearch.com/block/)
 * [2023-03-23, 12:33:31](https://news.ycombinator.com/item?id=35273712) - [Starbucks CEO will work a shift at the company’s cafes once a month](https://www.cnbc.com/2023/03/23/new-starbucks-ceo-says-hell-work-a-shift-at-its-cafes-once-a-month.html)
 * [2023-03-23, 12:33:13](https://news.ycombinator.com/item?id=35273707) - [Mathematicians discover shape that can tile a wall and never repeat](https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/)
 * [2023-03-23, 12:27:23](https://news.ycombinator.com/item?id=35273641) - [F-150 Lightning Recall Due to SK Cells](https://finance.yahoo.com/news/ford-f-150-lightning-recall-reveals-cause-of-battery-fire-173034051.html)
@@ -28,6 +27,7 @@
 * [2023-03-23, 05:25:55](https://news.ycombinator.com/item?id=35270806) - [The Cornell University Witchcraft Collection](https://rmc.library.cornell.edu/witchcraftcoll/)
 * [2023-03-23, 04:49:03](https://news.ycombinator.com/item?id=35270658) - [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/)
 * [2023-03-23, 01:07:54](https://news.ycombinator.com/item?id=35269304) - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
+* [2023-03-22, 22:05:02](https://news.ycombinator.com/item?id=35267707) - [Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html)
 * [2023-03-22, 02:30:05](https://news.ycombinator.com/item?id=35256014) - [Codes and Crowns](https://www.historytoday.com/archive/history-matters/codes-and-crowns)
 * [2023-03-21, 03:27:09](https://news.ycombinator.com/item?id=35242211) - [The ALU of the armv1 – the first ARM microprocessor (2015)](http://daveshacks.blogspot.com/2015/12/inside-alu-of-armv1-first-arm.html)
 
