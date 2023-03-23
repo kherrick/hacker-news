@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-23, 19:24:05](https://news.ycombinator.com/item?id=35280006) - [Stanford’s war against its own students](https://www.thefp.com/p/stanfords-war-against-its-own-students)
 * [2023-03-23, 18:59:33](https://news.ycombinator.com/item?id=35279656) - [How to use Alpaca-LoRA to fine-tune a model like ChatGPT](https://replicate.com/blog/fine-tune-alpaca-with-lora)
 * [2023-03-23, 18:38:14](https://news.ycombinator.com/item?id=35279349) - [The heaviest bicycle in the world is 4800 lb](https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/)
 * [2023-03-23, 18:34:03](https://news.ycombinator.com/item?id=35279274) - [AI’s compute fragmentation: what matrix multiplication teaches us](https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us)
@@ -15,7 +16,6 @@
 * [2023-03-23, 14:24:46](https://news.ycombinator.com/item?id=35275301) - [Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler)
 * [2023-03-23, 13:33:10](https://news.ycombinator.com/item?id=35274519) - [The FTC wants to ban those tough-to-cancel gym and cable subscriptions](https://www.theverge.com/2023/3/23/23652373/ftc-click-to-cancel-subscription-service-dark-patterns-ban)
 * [2023-03-23, 13:22:33](https://news.ycombinator.com/item?id=35274362) - [A quick and sobering guide to cloning yourself](https://oneusefulthing.substack.com/p/a-quick-and-sobering-guide-to-cloning)
-* [2023-03-23, 12:47:18](https://news.ycombinator.com/item?id=35273884) - [Epic’s new motion-capture animation tech](https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/)
 * [2023-03-23, 12:33:31](https://news.ycombinator.com/item?id=35273712) - [Starbucks CEO will work a shift at the company’s cafes once a month](https://www.cnbc.com/2023/03/23/new-starbucks-ceo-says-hell-work-a-shift-at-its-cafes-once-a-month.html)
 * [2023-03-23, 12:33:13](https://news.ycombinator.com/item?id=35273707) - [Mathematicians discover shape that can tile a wall and never repeat](https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/)
 * [2023-03-23, 12:23:11](https://news.ycombinator.com/item?id=35273586) - [Everything I, an Italian, thought I knew about Italian food is wrong](https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c)
