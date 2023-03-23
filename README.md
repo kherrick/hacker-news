@@ -2,7 +2,6 @@
 
 * [2023-03-23, 05:15:35](https://news.ycombinator.com/item?id=35270768) - [Anti-porn bills could force device makers to censor sexual material](https://www.nbcnews.com/tech/security/porn-filter-laws-bills-anti-default-florida-texas-rcna73626)
 * [2023-03-23, 02:34:54](https://news.ycombinator.com/item?id=35269811) - [Kelly ‘Aloria’ Lum has died](https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/)
-* [2023-03-23, 02:10:20](https://news.ycombinator.com/item?id=35269659) - [We asked the SEC for reasonable crypto rules for Americans](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
 * [2023-03-23, 01:56:34](https://news.ycombinator.com/item?id=35269573) - [Solar industry feeling the heat over disposal of 80M panels](https://techxplore.com/news/2023-03-solar-industry-disposal-million-panels.html)
 * [2023-03-23, 01:15:11](https://news.ycombinator.com/item?id=35269347) - [Chinese app included malware to gain competitive advantage](https://krebsonsecurity.com/2023/03/google-suspends-chinese-e-commerce-app-pinduoduo-over-malware/)
 * [2023-03-23, 01:07:54](https://news.ycombinator.com/item?id=35269304) - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
@@ -16,6 +15,7 @@
 * [2023-03-22, 20:18:56](https://news.ycombinator.com/item?id=35266553) - [Show HN: Dungeon Map Doodler Beta - Free online map drawing tool](https://dungeonmapdoodler.com/beta/)
 * [2023-03-22, 19:57:13](https://news.ycombinator.com/item?id=35266322) - [SEC charges crypto entrepreneur Justin Sun and his companies for fraud](https://www.sec.gov/news/press-release/2023-59)
 * [2023-03-22, 19:55:44](https://news.ycombinator.com/item?id=35266304) - [Remote work is starting to hit office rents](https://www.axios.com/2023/03/22/remote-work-wf-office-rents-decline)
+* [2023-03-22, 19:34:08](https://news.ycombinator.com/item?id=35266054) - [Companies to publish salary ranges in job adverts under new EU rules](https://www.businesspost.ie/politics/companies-will-have-to-publish-salary-ranges-in-job-adverts-under-new-eu-transparency-rules/)
 * [2023-03-22, 19:08:39](https://news.ycombinator.com/item?id=35265752) - [ThumbHash: A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
 * [2023-03-22, 17:56:42](https://news.ycombinator.com/item?id=35264725) - [FauxPilot – an open-source GitHub Copilot server](https://github.com/fauxpilot/fauxpilot)
 * [2023-03-22, 17:41:05](https://news.ycombinator.com/item?id=35264487) - [The Unix process API is unreliable and unsafe (2021)](http://catern.com/process.html)
