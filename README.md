@@ -2,7 +2,6 @@
 
 * [2023-03-23, 03:23:16](https://news.ycombinator.com/item?id=35270175) - [FTC: Chatbots, deepfakes, and voice clones: AI deception for sale](https://www.ftc.gov/business-guidance/blog/2023/03/chatbots-deepfakes-voice-clones-ai-deception-sale)
 * [2023-03-23, 02:10:20](https://news.ycombinator.com/item?id=35269659) - [We asked the SEC for reasonable crypto rules for Americans](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
-* [2023-03-23, 01:58:49](https://news.ycombinator.com/item?id=35269590) - [Sparks of Artificial General Intelligence: Early Experiments with GPT-4](https://arxiv.org/abs/2303.12712)
 * [2023-03-23, 01:15:11](https://news.ycombinator.com/item?id=35269347) - [Chinese app included malware to gain competitive advantage](https://krebsonsecurity.com/2023/03/google-suspends-chinese-e-commerce-app-pinduoduo-over-malware/)
 * [2023-03-23, 01:07:54](https://news.ycombinator.com/item?id=35269304) - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
 * [2023-03-22, 23:50:47](https://news.ycombinator.com/item?id=35268697) - [The Vintage Technology Digital Archive](http://vtda.org/)
@@ -22,6 +21,7 @@
 * [2023-03-22, 16:37:48](https://news.ycombinator.com/item?id=35263635) - [DPReview is being archived by the Archive Team](https://old.reddit.com/r/photography/comments/11ya4fa/dpreview_is_being_archived_by_the_archive_team/)
 * [2023-03-22, 16:32:06](https://news.ycombinator.com/item?id=35263542) - [Show HN: Zapier&#x27;s first API](https://news.ycombinator.com/item?id=35263542)
 * [2023-03-22, 16:12:13](https://news.ycombinator.com/item?id=35263285) - [De-cloud and de-k8s – bringing our apps back home](https://dev.37signals.com/bringing-our-apps-back-home/)
+* [2023-03-22, 15:02:53](https://news.ycombinator.com/item?id=35262131) - [The poor, misunderstood innerText (2015)](http://perfectionkills.com/the-poor-misunderstood-innerText/)
 * [2023-03-22, 14:18:28](https://news.ycombinator.com/item?id=35261386) - [Show HN: Moonshine – open-source, pretrained ML models for satellite](https://moonshineai.readthedocs.io/en/latest/index.html)
 * [2023-03-22, 14:17:04](https://news.ycombinator.com/item?id=35261363) - [A mirror that reverses how light travels in time](https://spectrum.ieee.org/time-reversal-interface)
 * [2023-03-22, 13:59:07](https://news.ycombinator.com/item?id=35261065) - [GitHub Copilot X – Sign up for technical preview](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
