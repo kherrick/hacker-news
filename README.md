@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-23, 11:10:55](https://news.ycombinator.com/item?id=35272900) - [The danger isn’t that AI destroys us. It’s that it drives us insane](https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane)
+* [2023-03-23, 10:49:34](https://news.ycombinator.com/item?id=35272708) - [Book Publishers Won&#x27;t Stop Until Libraries Are Dead](https://www.techdirt.com/2023/03/22/book-publishers-wont-stop-until-libraries-are-dead/)
 * [2023-03-23, 10:01:17](https://news.ycombinator.com/item?id=35272350) - [Moviemaking and Gamemaking Are Converging](https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging)
 * [2023-03-23, 09:40:21](https://news.ycombinator.com/item?id=35272227) - [The drama in trying to convert election PDFs to Spreadsheets](https://markessien.com/posts/drama_of_transcription/)
 * [2023-03-23, 09:38:53](https://news.ycombinator.com/item?id=35272215) - [GNOME 44](https://foundation.gnome.org/2023/03/22/introducing-gnome-44/)
@@ -22,9 +24,7 @@
 * [2023-03-22, 20:18:56](https://news.ycombinator.com/item?id=35266553) - [Show HN: Dungeon Map Doodler Beta - Free online map drawing tool](https://dungeonmapdoodler.com/beta/)
 * [2023-03-22, 19:57:13](https://news.ycombinator.com/item?id=35266322) - [SEC charges crypto entrepreneur Justin Sun and his companies for fraud](https://www.sec.gov/news/press-release/2023-59)
 * [2023-03-22, 19:08:39](https://news.ycombinator.com/item?id=35265752) - [ThumbHash: A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
-* [2023-03-22, 18:13:59](https://news.ycombinator.com/item?id=35264965) - [An Aperiodic Monotile Exists!](https://aperiodical.com/2023/03/an-aperiodic-monotile-exists/)
 * [2023-03-22, 17:56:42](https://news.ycombinator.com/item?id=35264725) - [FauxPilot – an open-source GitHub Copilot server](https://github.com/fauxpilot/fauxpilot)
-* [2023-03-22, 17:41:05](https://news.ycombinator.com/item?id=35264487) - [The Unix process API is unreliable and unsafe (2021)](http://catern.com/process.html)
 * [2023-03-22, 16:56:58](https://news.ycombinator.com/item?id=35263886) - [MRSK vs. Fly.io](https://fly.io/ruby-dispatch/mrsk-vs-flyio/)
 * [2023-03-22, 16:50:12](https://news.ycombinator.com/item?id=35263799) - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/)
 * [2023-03-22, 16:12:13](https://news.ycombinator.com/item?id=35263285) - [De-cloud and de-k8s – bringing our apps back home](https://dev.37signals.com/bringing-our-apps-back-home/)
