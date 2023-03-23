@@ -40,6 +40,7 @@
 * [2023-03-22, 16:12:13](https://news.ycombinator.com/item?id=35263285) - [De-cloud and de-k8s – bringing our apps back home](https://dev.37signals.com/bringing-our-apps-back-home/)
 * [2023-03-22, 16:01:15](https://news.ycombinator.com/item?id=35263115) - [A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 * [2023-03-22, 15:45:19](https://news.ycombinator.com/item?id=35262866) - [Microsoft Loop Preview](https://loop.microsoft.com/learn)
+* [2023-03-22, 15:31:09](https://news.ycombinator.com/item?id=35262594) - [The Official Pcmcia Association Website (2008)](https://web.archive.org/web/20081225064415/http://pcmcia.org/)
 * [2023-03-22, 15:02:53](https://news.ycombinator.com/item?id=35262131) - [The Poor, Misunderstood InnerText](http://perfectionkills.com/the-poor-misunderstood-innerText/)
 * [2023-03-22, 15:02:43](https://news.ycombinator.com/item?id=35262129) - [Choose what to dream tonight](https://www.wsj.com/articles/these-techniques-might-help-you-direct-your-dreams-6812735e)
 * [2023-03-22, 14:59:23](https://news.ycombinator.com/item?id=35262073) - [Home Prices Fell in February for First Time in 11 Years](https://www.wsj.com/articles/home-prices-fell-in-february-for-first-time-in-11-years-73df0107)

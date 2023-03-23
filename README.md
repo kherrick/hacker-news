@@ -2,7 +2,6 @@
 
 * [2023-03-23, 19:24:05](https://news.ycombinator.com/item?id=35280006) - [Stanford’s war against its own students](https://www.thefp.com/p/stanfords-war-against-its-own-students)
 * [2023-03-23, 18:59:33](https://news.ycombinator.com/item?id=35279656) - [How to use Alpaca-LoRA to fine-tune a model like ChatGPT](https://replicate.com/blog/fine-tune-alpaca-with-lora)
-* [2023-03-23, 18:38:14](https://news.ycombinator.com/item?id=35279349) - [The heaviest bicycle in the world is 4800 lb](https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/)
 * [2023-03-23, 18:34:03](https://news.ycombinator.com/item?id=35279274) - [AI’s compute fragmentation: what matrix multiplication teaches us](https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us)
 * [2023-03-23, 18:25:45](https://news.ycombinator.com/item?id=35279155) - [Launch HN: Helicone.ai (YC W23) – Open-source logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
 * [2023-03-23, 17:12:43](https://news.ycombinator.com/item?id=35277925) - [ChatGPT can now call Wolfram Alpha](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
@@ -26,6 +25,7 @@
 * [2023-03-23, 05:25:55](https://news.ycombinator.com/item?id=35270806) - [The Cornell University Witchcraft Collection](https://rmc.library.cornell.edu/witchcraftcoll/)
 * [2023-03-23, 03:16:33](https://news.ycombinator.com/item?id=35270131) - [The risks of cleaning with bleach and other disinfectants](https://www.nytimes.com/2023/03/21/well/live/cleaning-disinfectant-bleach-risks.html)
 * [2023-03-22, 18:10:20](https://news.ycombinator.com/item?id=35264919) - [Miller test](https://en.wikipedia.org/wiki/Miller_test)
+* [2023-03-22, 15:31:09](https://news.ycombinator.com/item?id=35262594) - [The Official Pcmcia Association Website (2008)](https://web.archive.org/web/20081225064415/http://pcmcia.org/)
 * [2023-03-22, 15:02:43](https://news.ycombinator.com/item?id=35262129) - [Choose what to dream tonight](https://www.wsj.com/articles/these-techniques-might-help-you-direct-your-dreams-6812735e)
 * [2023-03-22, 02:30:05](https://news.ycombinator.com/item?id=35256014) - [Codes and Crowns](https://www.historytoday.com/archive/history-matters/codes-and-crowns)
 * [2023-03-21, 03:27:09](https://news.ycombinator.com/item?id=35242211) - [The ALU of the armv1 – the first ARM microprocessor (2015)](http://daveshacks.blogspot.com/2015/12/inside-alu-of-armv1-first-arm.html)
