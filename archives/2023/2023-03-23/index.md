@@ -23,6 +23,7 @@
 * [2023-03-23, 14:33:41](https://news.ycombinator.com/item?id=35275451) - [OpenAI CEO admits a bug allowed ChatGPT users to see others’ conversation titles](https://www.cnbc.com/2023/03/23/openai-ceo-says-a-bug-allowed-some-chatgpt-to-see-others-chat-titles.html)
 * [2023-03-23, 14:24:46](https://news.ycombinator.com/item?id=35275301) - [Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler)
 * [2023-03-23, 14:10:29](https://news.ycombinator.com/item?id=35275085) - [The world’s central banks have chosen ‘class war over financial stability’](https://fortune.com/2023/03/21/economist-ann-pettifor-central-banks-class-war-financial-stability/)
+* [2023-03-23, 13:50:53](https://news.ycombinator.com/item?id=35274788) - [Show HN: Datapane – A new way to build reports, dashboards, and apps in Python](https://news.ycombinator.com/item?id=35274788)
 * [2023-03-23, 13:33:10](https://news.ycombinator.com/item?id=35274519) - [The FTC wants to ban those tough-to-cancel gym and cable subscriptions](https://www.theverge.com/2023/3/23/23652373/ftc-click-to-cancel-subscription-service-dark-patterns-ban)
 * [2023-03-23, 13:31:01](https://news.ycombinator.com/item?id=35274486) - [New ATLAS result weighs in on the W boson](https://atlas.cern/Updates/Briefing/2023-W-Mass-Measurement)
 * [2023-03-23, 13:22:33](https://news.ycombinator.com/item?id=35274362) - [A quick and sobering guide to cloning yourself](https://oneusefulthing.substack.com/p/a-quick-and-sobering-guide-to-cloning)
