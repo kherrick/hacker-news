@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 14:24:46](https://news.ycombinator.com/item?id=35275301) - [Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler)
 * [2023-03-23, 14:10:29](https://news.ycombinator.com/item?id=35275085) - [The world’s central banks have chosen ‘class war over financial stability’](https://fortune.com/2023/03/21/economist-ann-pettifor-central-banks-class-war-financial-stability/)
 * [2023-03-23, 13:31:01](https://news.ycombinator.com/item?id=35274486) - [New ATLAS result weighs in on the W boson](https://atlas.cern/Updates/Briefing/2023-W-Mass-Measurement)
+* [2023-03-23, 13:14:43](https://news.ycombinator.com/item?id=35274242) - [Study: Early exposure to screens leads to weakened cognitive function (2023)](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2800776)
 * [2023-03-23, 13:01:29](https://news.ycombinator.com/item?id=35274050) - [Show HN: Remove “GPT” from your HN feed](https://gist.github.com/surprisetalk/462789361723211fcda71e13fa08bbc0)
 * [2023-03-23, 12:47:18](https://news.ycombinator.com/item?id=35273884) - [Epic’s new motion-capture animation tech has to be seen to be believed](https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/)
 * [2023-03-23, 12:39:10](https://news.ycombinator.com/item?id=35273782) - [Hindenburg Research Outs Block Inc as Fraud](https://hindenburgresearch.com/block/)
