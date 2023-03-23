@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-23, 14:34:25",
+      "https://news.ycombinator.com/item?id=35275460"
+    ],
+    [
+      "LTT YouTube channel has been compromised, account suspended",
+      "https://www.theverge.com/2023/3/23/23653115/linus-tech-tips-youtube-hack-crypto-scam"
+    ]
+  ],
+  [
+    [
+      "2023-03-23, 14:33:41",
+      "https://news.ycombinator.com/item?id=35275451"
+    ],
+    [
+      "OpenAI CEO admits a bug allowed ChatGPT users to see others’ conversation titles",
+      "https://www.cnbc.com/2023/03/23/openai-ceo-says-a-bug-allowed-some-chatgpt-to-see-others-chat-titles.html"
+    ]
+  ],
+  [
+    [
       "2023-03-23, 14:24:46",
       "https://news.ycombinator.com/item?id=35275301"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=35273782"
     ],
     [
-      "Hindenburg Research Outs Block Inc as Fraud",
+      "Block: Inflated user metrics and “frictionless” fraud facilitation",
       "https://hindenburgresearch.com/block/"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=35273406"
     ],
     [
-      "Cheating is All You Need",
+      "Cheating is all you need",
       "https://about.sourcegraph.com/blog/cheating-is-all-you-need"
     ]
   ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-03-23, 05:42:24",
-      "https://news.ycombinator.com/item?id=35270877"
-    ],
-    [
-      "You might not need an effect",
-      "https://react.dev/learn/you-might-not-need-an-effect"
-    ]
-  ],
-  [
-    [
       "2023-03-23, 04:49:03",
       "https://news.ycombinator.com/item?id=35270658"
     ],
@@ -227,16 +237,6 @@
     [
       "OpenAI’s policies hinder reproducible research on language models",
       "https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 22:28:50",
-      "https://news.ycombinator.com/item?id=35267901"
-    ],
-    [
-      "Adding an ISA Slot to a Modern Motherboard [video]",
-      "https://www.youtube.com/watch?v=IXr-VEpQ1lg"
     ]
   ],
   [
