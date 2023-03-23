@@ -129,159 +129,39 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="35276938">
+        <section id="35277022">
           <h3>
             <a
               class="item"
-              href="https://thedankoe.com/change-your-life-in-6-months-my-deep-work-routine/"
-              >Change Your Life in 6 Months (My Deep Work Routine)</a
+              href="https://www.infectioncontroltoday.com/view/covid-19-traffic-accidents-covid-19-personality-disorder-caused-viral-damage-prefrontal-cortex-"
+              >Is a Covid Personality Disorder Caused by Viral Damage to the
+              Prefrontal Cortex?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2023-03-23 @ 16:07:01</span
+              <span>2023-03-23 @ 16:13:09</span
               ><span class="points-container"
                 >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35276938"
+                ><a href="https://news.ycombinator.com/item?id=35277022"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="35276829">
-          <h3>
-            <a class="item" href="https://www.hypertune.com/"
-              >Show HN: Hypertune – Visual, functional, statically-typed
-              configuration language</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-03-23 @ 16:01:16</span
-              ><span class="points-container"
-                >Points: <span class="points">32</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35276829"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                It's like a CMS but instead of just letting you set static
-                content, you can insert arbitrary logic from the UI, including
-                A/B tests and ML.
-              </p>
-              <p>
-                I previously built a landing page optimization tool that let
-                marketers define variations of their headline, CTA, cover image,
-                etc, then used a genetic algorithm to find the best combination
-                of them. They used my Chrome extension to define changes on DOM
-                elements based on their unique CSS selector. But this broke when
-                the underlying page changed and didn't work with sites that used
-                CSS modules. Developers hated it.
-              </p>
-              <p>I took a step back.</p>
-              <p>
-                The problem I was trying to solve was making the page
-                configurable by marketers in a way that developers liked. I
-                decided to solve it from first principles and this led to
-                Hypertune.
-              </p>
-              <p>
-                Here's how it works: You define a strongly typed configuration
-                schema in GraphQL, e.g.
-              </p>
-              <p></p>
-              <pre><code>  type Query {
-    page(language: Language!): Page!
-  }
-
-  type Page {
-    headline: String!
-    imageUrl: String!
-    benefits: [String!]!
-  }
-
-  enum Language { English, French, Spanish }
-</code></pre>
-              Then marketers can configure these fields from the UI using our
-              visual, functional, statically-typed language. The language UI is
-              <i>type-directed</i> so we only show expression options that
-              satisfy the required type of the hole in the logic tree. So for
-              the "headline" field, you can insert a String expression or an If
-              / Else expression that returns a String. If you insert the latter,
-              more holes appear. This means marketers don't need to know any
-              syntax and can't get into any invalid states. They can use
-              arguments you define in the schema like "language" and
-              "isReturnVisitor", and drop A/B tests and contextual multi-armed
-              bandits anywhere in their logic.
-              <p>
-                The language is <i>total</i> rather than Turing-complete so
-                programs provably terminate. And we overlay live counts on the
-                logic tree UI so you can see how often different branches are
-                evaluated in real time.
-              </p>
-              <p>
-                You get your config with low latency from our Fastly edge
-                server, which evaluates your logic given a GraphQL query. Or via
-                the SDK which fetches your logic once on initialization (and
-                listens for updates), then evaluates it locally — so you can use
-                it on your backend to get content for different users
-                immediately, without adding latency to every request. Both
-                GraphQL and the SDK give you auto-generated code for end-to-end
-                type-safety based on your schema.
-              </p>
-              <p>
-                The SDK supports "build-time config" too, where we store a
-                snapshot of your configuration logic in your app bundle for
-                instant initialization. This works nicely on static Jamstack
-                sites built with Next.JS, Gatsby, etc, as we can run A/B tests
-                and personalization logic instantly on page load without any
-                extra network latency.
-              </p>
-              <p>
-                I started building this for landing pages but realized it could
-                be used for feature flags, in-app content, translations,
-                onboarding flows, error messages, business rules, pricing plans,
-                permissions, etc, as it's all just "code configuration".
-              </p>
-              <p>
-                Today, this configuration is hardcoded or sprawled across
-                json/yaml files or in separate platforms for feature flags,
-                content, etc. So if a PM wants to A/B test new onboarding
-                content, they need to bother a developer to stitch their testing
-                platform with their CMS, then wait for a code deployment. And is
-                it even worth it at that point?
-              </p>
-              <p>
-                Our customers save time and money by buying, integrating and
-                learning a single flexible platform rather than many separate
-                ones.
-              </p>
-              <p>
-                We're still figuring out the best use cases and would love your
-                help. What would you find Hypertune most useful for? Type-safe
-                feature flags, content management with A/B testing, pricing
-                plans, rules or something else? Please comment with any thoughts
-                / questions!
-              </p>
-            </div>
           </section>
         </section>
         <section id="35276765">
           <h3>
             <a class="item" href="https://github.com/bibliotechy/dirty-poetry"
-              >Bibliotechy/dirty-poetry: poetry from dirty OCR</a
+              >Poetry from dirty OCR</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-03-23 @ 15:57:49</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35276765"
                   >Comments</a
@@ -300,11 +180,11 @@
             <h4>
               <span>2023-03-23 @ 15:44:38</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35276577"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -342,11 +222,11 @@
             <h4>
               <span>2023-03-23 @ 14:48:11</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35275658"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 93</span></span
               >
             </h4>
           </section>
@@ -363,7 +243,7 @@
             <h4>
               <span>2023-03-23 @ 14:24:46</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35275301"
                   >Comments</a
@@ -385,11 +265,11 @@
             <h4>
               <span>2023-03-23 @ 13:33:10</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">216</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35274519"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -406,11 +286,11 @@
             <h4>
               <span>2023-03-23 @ 13:31:01</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35274486"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -427,7 +307,7 @@
             <h4>
               <span>2023-03-23 @ 13:22:33</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35274362"
                   >Comments</a
@@ -449,11 +329,11 @@
             <h4>
               <span>2023-03-23 @ 13:14:43</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35274242"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -471,11 +351,11 @@
             <h4>
               <span>2023-03-23 @ 12:47:18</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35273884"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -493,11 +373,11 @@
             <h4>
               <span>2023-03-23 @ 12:33:31</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35273712"
                   >Comments</a
-                ><span class="descendants">: 135</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -515,11 +395,11 @@
             <h4>
               <span>2023-03-23 @ 12:33:13</span
               ><span class="points-container"
-                >Points: <span class="points">279</span></span
+                >Points: <span class="points">288</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35273707"
                   >Comments</a
-                ><span class="descendants">: 100</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -536,11 +416,11 @@
             <h4>
               <span>2023-03-23 @ 12:06:14</span
               ><span class="points-container"
-                >Points: <span class="points">199</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35273406"
                   >Comments</a
-                ><span class="descendants">: 176</span></span
+                ><span class="descendants">: 180</span></span
               >
             </h4>
           </section>
@@ -559,6 +439,27 @@
               <span>2023-03-23 @ 12:00:16</span
               ><span class="points-container"
                 >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="35273305">
+          <h3>
+            <a
+              class="item"
+              href="https://twitter.com/sjmurdoch/status/1638623990817103888"
+              >Acropalypse: Windows Save File API is defective by design</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-03-23 @ 11:54:31</span
+              ><span class="points-container"
+                >Points: <span class="points">109</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35273305"
+                  >Comments</a
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -598,11 +499,11 @@
             <h4>
               <span>2023-03-23 @ 11:10:55</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35272900"
                   >Comments</a
-                ><span class="descendants">: 242</span></span
+                ><span class="descendants">: 250</span></span
               >
             </h4>
           </section>
@@ -619,11 +520,11 @@
             <h4>
               <span>2023-03-23 @ 10:49:34</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">202</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35272708"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 128</span></span
               >
             </h4>
           </section>
@@ -640,7 +541,7 @@
             <h4>
               <span>2023-03-23 @ 10:01:17</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35272350"
                   >Comments</a
@@ -661,11 +562,11 @@
             <h4>
               <span>2023-03-23 @ 09:40:21</span
               ><span class="points-container"
-                >Points: <span class="points">480</span></span
+                >Points: <span class="points">487</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35272227"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -682,7 +583,7 @@
             <h4>
               <span>2023-03-23 @ 08:20:21</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35271779"
                   >Comments</a
@@ -703,11 +604,11 @@
             <h4>
               <span>2023-03-23 @ 07:43:57</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35271587"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -724,11 +625,11 @@
             <h4>
               <span>2023-03-23 @ 05:42:24</span
               ><span class="points-container"
-                >Points: <span class="points">179</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35270877"
                   >Comments</a
-                ><span class="descendants">: 164</span></span
+                ><span class="descendants">: 165</span></span
               >
             </h4>
           </section>
@@ -745,11 +646,11 @@
             <h4>
               <span>2023-03-23 @ 05:25:55</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35270806"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -764,7 +665,7 @@
             <h4>
               <span>2023-03-23 @ 04:49:03</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35270658"
                   >Comments</a
@@ -778,19 +679,18 @@
             <a
               class="item"
               href="https://phys.org/news/2023-03-scientists-disturbing-remote-island-plastic.html"
-              >Scientists make 'disturbing' find on remote island: plastic
-              rocks</a
+              >Scientists find ‘plastic rocks’ on remote island</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-03-23 @ 01:54:58</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35269562"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -808,11 +708,11 @@
             <h4>
               <span>2023-03-23 @ 01:07:54</span
               ><span class="points-container"
-                >Points: <span class="points">518</span></span
+                >Points: <span class="points">525</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35269304"
                   >Comments</a
-                ><span class="descendants">: 307</span></span
+                ><span class="descendants">: 312</span></span
               >
             </h4>
           </section>
@@ -829,7 +729,7 @@
             <h4>
               <span>2023-03-22 @ 02:30:05</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35256014"
                   >Comments</a
@@ -850,7 +750,7 @@
             <h4>
               <span>2023-03-21 @ 03:27:09</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35242211"
                   >Comments</a
