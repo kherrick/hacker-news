@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 16:07:01](https://news.ycombinator.com/item?id=35276938) - [Change Your Life in 6 Months (My Deep Work Routine)](https://thedankoe.com/change-your-life-in-6-months-my-deep-work-routine/)
+* [2023-03-23, 16:01:16](https://news.ycombinator.com/item?id=35276829) - [Show HN: Hypertune – Visual, functional, statically-typed configuration language](https://www.hypertune.com/)
+* [2023-03-23, 15:57:49](https://news.ycombinator.com/item?id=35276765) - [Bibliotechy&#x2F;dirty-poetry: poetry from dirty OCR](https://github.com/bibliotechy/dirty-poetry)
+* [2023-03-23, 15:44:38](https://news.ycombinator.com/item?id=35276577) - [Clarkesworld AI Submissions Update](http://neil-clarke.com/submissions-update/)
 * [2023-03-23, 15:43:35](https://news.ycombinator.com/item?id=35276560) - [California bill would require high schools to hand out free condoms](https://www.latimes.com/california/story/2023-03-22/california-bill-public-high-schools-free-condoms-legislature)
 * [2023-03-23, 15:09:19](https://news.ycombinator.com/item?id=35276032) - [How to Polis, 101, Part IIa: Politeia in the Polis](https://acoup.blog/2023/03/17/collections-how-to-polis-part-iia-politeia-in-the-polis/)
 * [2023-03-23, 14:48:11](https://news.ycombinator.com/item?id=35275658) - [Do Kwon reportedly arrested in Montenegro](https://www.coindesk.com/business/2023/03/23/do-kwon-arrested-in-montenegro-interior-minister/)
@@ -52,5 +56,6 @@
 * [2023-03-23, 02:10:20](https://news.ycombinator.com/item?id=35269659) - [We asked the SEC for reasonable crypto rules. We got legal threats instead](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
 * [2023-03-23, 01:58:49](https://news.ycombinator.com/item?id=35269590) - [Sparks of Artificial General Intelligence: Early Experiments with GPT-4](https://arxiv.org/abs/2303.12712)
 * [2023-03-23, 01:56:34](https://news.ycombinator.com/item?id=35269573) - [Solar industry feeling the heat over disposal of 80M panels](https://techxplore.com/news/2023-03-solar-industry-disposal-million-panels.html)
+* [2023-03-23, 01:54:58](https://news.ycombinator.com/item?id=35269562) - [Scientists make &#x27;disturbing&#x27; find on remote island: plastic rocks](https://phys.org/news/2023-03-scientists-disturbing-remote-island-plastic.html)
 * [2023-03-23, 01:15:11](https://news.ycombinator.com/item?id=35269347) - [Chinese app included malware to gain competitive advantage](https://krebsonsecurity.com/2023/03/google-suspends-chinese-e-commerce-app-pinduoduo-over-malware/)
 * [2023-03-23, 01:07:54](https://news.ycombinator.com/item?id=35269304) - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
