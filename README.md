@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-23, 18:04:51](https://news.ycombinator.com/item?id=35278840) - [Stanford Law dean discusses recent protest, outlines next steps](https://news.stanford.edu/report/2023/03/23/law-school-dean-discusses-recent-protest-outlines-next-steps/)
-* [2023-03-23, 17:34:45](https://news.ycombinator.com/item?id=35278316) - [Block&#x27;s Response to Inaccurate Short Seller Report](https://investors.block.xyz/news/news-details/2023/Blocks-Response-to-Inaccurate-Short-Seller-Report/default.aspx)
+* [2023-03-23, 18:18:08](https://news.ycombinator.com/item?id=35279044) - [SushiDAO Head Chef Served with Subpoena by SEC](https://forum.sushi.com/t/establish-sushi-legal-defense-fund/11813)
+* [2023-03-23, 18:04:51](https://news.ycombinator.com/item?id=35278840) - [Law school dean discusses recent protest, outlines next steps](https://news.stanford.edu/report/2023/03/23/law-school-dean-discusses-recent-protest-outlines-next-steps/)
 * [2023-03-23, 17:12:43](https://news.ycombinator.com/item?id=35277925) - [ChatGPT can now call Wolfram Alpha](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
 * [2023-03-23, 17:00:35](https://news.ycombinator.com/item?id=35277721) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35277721)
 * [2023-03-23, 16:57:28](https://news.ycombinator.com/item?id=35277677) - [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
@@ -15,7 +15,7 @@
 * [2023-03-23, 13:33:10](https://news.ycombinator.com/item?id=35274519) - [The FTC wants to ban those tough-to-cancel gym and cable subscriptions](https://www.theverge.com/2023/3/23/23652373/ftc-click-to-cancel-subscription-service-dark-patterns-ban)
 * [2023-03-23, 13:31:01](https://news.ycombinator.com/item?id=35274486) - [New ATLAS result weighs in on the W boson](https://atlas.cern/Updates/Briefing/2023-W-Mass-Measurement)
 * [2023-03-23, 13:22:33](https://news.ycombinator.com/item?id=35274362) - [A quick and sobering guide to cloning yourself](https://oneusefulthing.substack.com/p/a-quick-and-sobering-guide-to-cloning)
-* [2023-03-23, 12:47:18](https://news.ycombinator.com/item?id=35273884) - [Epic’s new motion-capture animation tech has to be seen to be believed](https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/)
+* [2023-03-23, 12:47:18](https://news.ycombinator.com/item?id=35273884) - [Epic’s new motion-capture animation tech](https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/)
 * [2023-03-23, 12:33:31](https://news.ycombinator.com/item?id=35273712) - [Starbucks CEO will work a shift at the company’s cafes once a month](https://www.cnbc.com/2023/03/23/new-starbucks-ceo-says-hell-work-a-shift-at-its-cafes-once-a-month.html)
 * [2023-03-23, 12:33:13](https://news.ycombinator.com/item?id=35273707) - [Mathematicians discover shape that can tile a wall and never repeat](https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/)
 * [2023-03-23, 12:06:14](https://news.ycombinator.com/item?id=35273406) - [Cheating is all you need](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
@@ -29,7 +29,7 @@
 * [2023-03-22, 15:02:43](https://news.ycombinator.com/item?id=35262129) - [Choose what to dream tonight](https://www.wsj.com/articles/these-techniques-might-help-you-direct-your-dreams-6812735e)
 * [2023-03-22, 02:30:05](https://news.ycombinator.com/item?id=35256014) - [Codes and Crowns](https://www.historytoday.com/archive/history-matters/codes-and-crowns)
 * [2023-03-21, 03:27:09](https://news.ycombinator.com/item?id=35242211) - [The ALU of the armv1 – the first ARM microprocessor (2015)](http://daveshacks.blogspot.com/2015/12/inside-alu-of-armv1-first-arm.html)
-* [2023-03-21, 00:20:56](https://news.ycombinator.com/item?id=35240820) - [Umage obtained by scientists with high-speed camera shows lightning rods at work](https://phys.org/news/2023-03-unique-image-scientists-high-speed-camera.html)
+* [2023-03-21, 00:20:56](https://news.ycombinator.com/item?id=35240820) - [Image obtained with high-speed camera shows how lightning rods work](https://phys.org/news/2023-03-unique-image-scientists-high-speed-camera.html)
 
 ## [Archives](archives/index.md)
 
