@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-23, 01:07:54](https://news.ycombinator.com/item?id=35269304) - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
 * [2023-03-22, 23:50:47](https://news.ycombinator.com/item?id=35268697) - [The Vintage Technology Digital Archive](http://vtda.org/)
 * [2023-03-22, 22:56:00](https://news.ycombinator.com/item?id=35268197) - [Everything ChatGPT – under the hood of the ChatGPT web app](https://github.com/terminalcommandnewsletter/everything-chatgpt)
 * [2023-03-22, 22:42:37](https://news.ycombinator.com/item?id=35268050) - [When did New York start building slowly?](https://constructionphysics.substack.com/p/when-did-new-york-start-building)
@@ -29,7 +30,6 @@
 * [2023-03-22, 10:47:38](https://news.ycombinator.com/item?id=35259214) - [Research shows we can only accurately identify AI writers about 50% of the time](https://hai.stanford.edu/news/was-written-human-or-ai-tsu)
 * [2023-03-22, 09:59:04](https://news.ycombinator.com/item?id=35258877) - [Bob Metcalfe wins Turing Award](https://amturing.acm.org/?2023)
 * [2023-03-21, 14:49:42](https://news.ycombinator.com/item?id=35246995) - [How I came to write “Tidy First?” tl;dr it took 18 years](https://tidyfirst.substack.com/p/how-i-came-to-write-tidy-first)
-* [2023-03-21, 09:05:03](https://news.ycombinator.com/item?id=35243981) - [CSS Paged Media Module Level 3](https://bugzilla.mozilla.org/show_bug.cgi?id=286443)
 
 ## [Archives](archives/index.md)
 
