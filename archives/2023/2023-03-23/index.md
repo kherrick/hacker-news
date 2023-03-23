@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 14:34:25](https://news.ycombinator.com/item?id=35275460) - [LTT YouTube channel has been compromised, account suspended](https://www.theverge.com/2023/3/23/23653115/linus-tech-tips-youtube-hack-crypto-scam)
+* [2023-03-23, 14:33:41](https://news.ycombinator.com/item?id=35275451) - [OpenAI CEO admits a bug allowed ChatGPT users to see others’ conversation titles](https://www.cnbc.com/2023/03/23/openai-ceo-says-a-bug-allowed-some-chatgpt-to-see-others-chat-titles.html)
 * [2023-03-23, 14:24:46](https://news.ycombinator.com/item?id=35275301) - [Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler)
 * [2023-03-23, 14:10:29](https://news.ycombinator.com/item?id=35275085) - [The world’s central banks have chosen ‘class war over financial stability’](https://fortune.com/2023/03/21/economist-ann-pettifor-central-banks-class-war-financial-stability/)
 * [2023-03-23, 13:31:01](https://news.ycombinator.com/item?id=35274486) - [New ATLAS result weighs in on the W boson](https://atlas.cern/Updates/Briefing/2023-W-Mass-Measurement)
