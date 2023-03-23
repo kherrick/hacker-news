@@ -94,6 +94,7 @@
 * [2023-03-21, 04:34:55](https://news.ycombinator.com/item?id=35242608) - [Gloria Dea, Las Vegas magician who vanished into obscurity, has died](https://www.washingtonpost.com/obituaries/2023/03/20/gloria-dea-first-las-vegas-magician-dies-at-100/)
 * [2023-03-21, 04:11:05](https://news.ycombinator.com/item?id=35242458) - [An Aperiodic Monotile](https://arxiv.org/abs/2303.10798)
 * [2023-03-21, 03:40:51](https://news.ycombinator.com/item?id=35242299) - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
+* [2023-03-21, 03:27:09](https://news.ycombinator.com/item?id=35242211) - [The ALU of the armv1 – the first ARM microprocessor (2015)](http://daveshacks.blogspot.com/2015/12/inside-alu-of-armv1-first-arm.html)
 * [2023-03-21, 03:24:12](https://news.ycombinator.com/item?id=35242193) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
 * [2023-03-21, 03:21:01](https://news.ycombinator.com/item?id=35242174) - [Show HN: Professional headshots for remote team with AI](https://www.headshotpro.com/)
 * [2023-03-21, 03:18:37](https://news.ycombinator.com/item?id=35242160) - [Richard Stallman&#x27;s Ted talk in Steve Jobs&#x27; style&#x2F;voice (elevenlabs.io&#x2F;ChatGPT)](https://old.reddit.com/r/linuxmemes/comments/11w56v1/richard_stallmans_ted_talk_in_the_style_and_voice/)

@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 15:09:19](https://news.ycombinator.com/item?id=35276032) - [How to Polis, 101, Part IIa: Politeia in the Polis](https://acoup.blog/2023/03/17/collections-how-to-polis-part-iia-politeia-in-the-polis/)
 * [2023-03-23, 14:48:11](https://news.ycombinator.com/item?id=35275658) - [Do Kwon reportedly arrested in Montenegro](https://www.coindesk.com/business/2023/03/23/do-kwon-arrested-in-montenegro-interior-minister/)
 * [2023-03-23, 14:38:59](https://news.ycombinator.com/item?id=35275524) - [Ask HN: TikTok CCP data collection software?](https://news.ycombinator.com/item?id=35275524)
 * [2023-03-23, 14:34:25](https://news.ycombinator.com/item?id=35275460) - [LTT YouTube channel has been compromised, account suspended](https://www.theverge.com/2023/3/23/23653115/linus-tech-tips-youtube-hack-crypto-scam)
 * [2023-03-23, 14:33:41](https://news.ycombinator.com/item?id=35275451) - [OpenAI CEO admits a bug allowed ChatGPT users to see others’ conversation titles](https://www.cnbc.com/2023/03/23/openai-ceo-says-a-bug-allowed-some-chatgpt-to-see-others-chat-titles.html)
 * [2023-03-23, 14:24:46](https://news.ycombinator.com/item?id=35275301) - [Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler)
 * [2023-03-23, 14:10:29](https://news.ycombinator.com/item?id=35275085) - [The world’s central banks have chosen ‘class war over financial stability’](https://fortune.com/2023/03/21/economist-ann-pettifor-central-banks-class-war-financial-stability/)
+* [2023-03-23, 13:33:10](https://news.ycombinator.com/item?id=35274519) - [The FTC wants to ban those tough-to-cancel gym and cable subscriptions](https://www.theverge.com/2023/3/23/23652373/ftc-click-to-cancel-subscription-service-dark-patterns-ban)
 * [2023-03-23, 13:31:01](https://news.ycombinator.com/item?id=35274486) - [New ATLAS result weighs in on the W boson](https://atlas.cern/Updates/Briefing/2023-W-Mass-Measurement)
 * [2023-03-23, 13:22:33](https://news.ycombinator.com/item?id=35274362) - [A quick and sobering guide to cloning yourself](https://oneusefulthing.substack.com/p/a-quick-and-sobering-guide-to-cloning)
 * [2023-03-23, 13:14:43](https://news.ycombinator.com/item?id=35274242) - [Study: Early exposure to screens leads to weakened cognitive function (2023)](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2800776)
