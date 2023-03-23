@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 17:34:45](https://news.ycombinator.com/item?id=35278316) - [Block&#x27;s Response to Inaccurate Short Seller Report](https://investors.block.xyz/news/news-details/2023/Blocks-Response-to-Inaccurate-Short-Seller-Report/default.aspx)
 * [2023-03-23, 17:12:43](https://news.ycombinator.com/item?id=35277925) - [ChatGPT Gets Its “Wolfram Superpowers”](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
 * [2023-03-23, 17:00:35](https://news.ycombinator.com/item?id=35277721) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35277721)
 * [2023-03-23, 16:57:28](https://news.ycombinator.com/item?id=35277677) - [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
