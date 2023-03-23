@@ -4,6 +4,7 @@
 * [2023-03-23, 18:34:03](https://news.ycombinator.com/item?id=35279274) - [AI’s compute fragmentation: what matrix multiplication teaches us](https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us)
 * [2023-03-23, 18:25:45](https://news.ycombinator.com/item?id=35279155) - [Launch HN: Helicone.ai (YC W23) – Open-source logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
 * [2023-03-23, 17:12:43](https://news.ycombinator.com/item?id=35277925) - [ChatGPT can now call Wolfram Alpha](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
+* [2023-03-23, 17:08:50](https://news.ycombinator.com/item?id=35277858) - [Google Cloud now lets you suspend and resume VMs](https://cloud.google.com/blog/products/compute/save-by-suspending-vms-on-google-compute-engine)
 * [2023-03-23, 17:00:35](https://news.ycombinator.com/item?id=35277721) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35277721)
 * [2023-03-23, 16:57:28](https://news.ycombinator.com/item?id=35277677) - [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
 * [2023-03-23, 16:56:30](https://news.ycombinator.com/item?id=35277660) - [Framework announces AMD, new Intel gen, 16“ laptop and more](https://frame.work/)
@@ -23,13 +24,12 @@
 * [2023-03-23, 09:40:21](https://news.ycombinator.com/item?id=35272227) - [The drama in trying to convert election PDFs to Spreadsheets](https://markessien.com/posts/drama_of_transcription/)
 * [2023-03-23, 05:42:24](https://news.ycombinator.com/item?id=35270877) - [You might not need an effect](https://react.dev/learn/you-might-not-need-an-effect)
 * [2023-03-23, 05:25:55](https://news.ycombinator.com/item?id=35270806) - [The Cornell University Witchcraft Collection](https://rmc.library.cornell.edu/witchcraftcoll/)
+* [2023-03-23, 03:38:26](https://news.ycombinator.com/item?id=35270257) - [A Debugger Barrier](http://msinilo.pl/blog2/post/debugger-barrier/)
 * [2023-03-23, 03:16:33](https://news.ycombinator.com/item?id=35270131) - [The risks of cleaning with bleach and other disinfectants](https://www.nytimes.com/2023/03/21/well/live/cleaning-disinfectant-bleach-risks.html)
 * [2023-03-22, 18:10:20](https://news.ycombinator.com/item?id=35264919) - [Miller test](https://en.wikipedia.org/wiki/Miller_test)
 * [2023-03-22, 15:31:09](https://news.ycombinator.com/item?id=35262594) - [The Official Pcmcia Association Website (2008)](https://web.archive.org/web/20081225064415/http://pcmcia.org/)
 * [2023-03-22, 15:02:43](https://news.ycombinator.com/item?id=35262129) - [Choose what to dream tonight](https://www.wsj.com/articles/these-techniques-might-help-you-direct-your-dreams-6812735e)
 * [2023-03-22, 02:30:05](https://news.ycombinator.com/item?id=35256014) - [Codes and Crowns](https://www.historytoday.com/archive/history-matters/codes-and-crowns)
-* [2023-03-21, 03:27:09](https://news.ycombinator.com/item?id=35242211) - [The ALU of the armv1 – the first ARM microprocessor (2015)](http://daveshacks.blogspot.com/2015/12/inside-alu-of-armv1-first-arm.html)
-* [2023-03-21, 00:20:56](https://news.ycombinator.com/item?id=35240820) - [Image obtained with high-speed camera shows how lightning rods work](https://phys.org/news/2023-03-unique-image-scientists-high-speed-camera.html)
 
 ## [Archives](archives/index.md)
 
