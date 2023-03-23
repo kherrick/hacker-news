@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-23, 02:10:20](https://news.ycombinator.com/item?id=35269659) - [We asked the SEC for reasonable crypto rules. We got legal threats instead](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
+* [2023-03-23, 01:58:49](https://news.ycombinator.com/item?id=35269590) - [Sparks of Artificial General Intelligence: Early Experiments with GPT-4](https://arxiv.org/abs/2303.12712)
 * [2023-03-23, 01:07:54](https://news.ycombinator.com/item?id=35269304) - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
 * [2023-03-22, 23:50:47](https://news.ycombinator.com/item?id=35268697) - [The Vintage Technology Digital Archive](http://vtda.org/)
 * [2023-03-22, 22:56:00](https://news.ycombinator.com/item?id=35268197) - [Everything ChatGPT – under the hood of the ChatGPT web app](https://github.com/terminalcommandnewsletter/everything-chatgpt)
@@ -19,7 +21,6 @@
 * [2023-03-22, 16:37:48](https://news.ycombinator.com/item?id=35263635) - [DPReview is being archived by the Archive Team](https://old.reddit.com/r/photography/comments/11ya4fa/dpreview_is_being_archived_by_the_archive_team/)
 * [2023-03-22, 16:32:06](https://news.ycombinator.com/item?id=35263542) - [Show HN: Zapier&#x27;s first API](https://news.ycombinator.com/item?id=35263542)
 * [2023-03-22, 16:12:13](https://news.ycombinator.com/item?id=35263285) - [De-cloud and de-k8s – bringing our apps back home](https://dev.37signals.com/bringing-our-apps-back-home/)
-* [2023-03-22, 14:18:28](https://news.ycombinator.com/item?id=35261386) - [Show HN: Moonshine – open-source, pretrained ML models for satellite](https://moonshineai.readthedocs.io/en/latest/index.html)
 * [2023-03-22, 14:17:04](https://news.ycombinator.com/item?id=35261363) - [A mirror that reverses how light travels in time](https://spectrum.ieee.org/time-reversal-interface)
 * [2023-03-22, 13:59:07](https://news.ycombinator.com/item?id=35261065) - [GitHub Copilot X – Sign up for technical preview](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 * [2023-03-22, 13:48:02](https://news.ycombinator.com/item?id=35260931) - [Rollstack (YC W23) is hiring a full stack engineer in EU, Brazil, Argentina](https://www.ycombinator.com/companies/rollstack-2/jobs/IV2FOtP-full-stack-engineer-react-nodejs-typescript-in-eu-argentina-brazil)
@@ -27,7 +28,6 @@
 * [2023-03-22, 13:07:12](https://news.ycombinator.com/item?id=35260401) - [The simplicity of single-file Golang deployments](https://www.amazingcto.com/simplicity-of-golang-systemd-deployments/)
 * [2023-03-22, 11:44:35](https://news.ycombinator.com/item?id=35259588) - [A cyberpunk bathroom in the middle of nowhere](https://taylor.town/cyberpunk-bathroom)
 * [2023-03-22, 11:36:41](https://news.ycombinator.com/item?id=35259527) - [How the last-ditch effort to save Silicon Valley Bank failed](https://www.wsj.com/articles/how-the-last-ditch-effort-to-save-silicon-valley-bank-failed-89619cb2)
-* [2023-03-22, 10:47:38](https://news.ycombinator.com/item?id=35259214) - [Research shows we can only accurately identify AI writers about 50% of the time](https://hai.stanford.edu/news/was-written-human-or-ai-tsu)
 * [2023-03-22, 09:59:04](https://news.ycombinator.com/item?id=35258877) - [Bob Metcalfe wins Turing Award](https://amturing.acm.org/?2023)
 * [2023-03-21, 14:49:42](https://news.ycombinator.com/item?id=35246995) - [How I came to write “Tidy First?” tl;dr it took 18 years](https://tidyfirst.substack.com/p/how-i-came-to-write-tidy-first)
 
