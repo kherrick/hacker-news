@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 22:31:47](https://news.ycombinator.com/item?id=35282325) - [Apple: Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
 * [2023-03-23, 21:35:06](https://news.ycombinator.com/item?id=35281617) - [I Bought Back My Acquihired Startup](https://steveridout.com/2023/03/23/buy-back.html)
 * [2023-03-23, 21:29:30](https://news.ycombinator.com/item?id=35281561) - [Protobuffers Are Wrong (2018)](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
 * [2023-03-23, 21:26:28](https://news.ycombinator.com/item?id=35281527) - [Microsoft&#x27;s paper on OpenAI&#x27;s GPT-4 had hidden information](https://twitter.com/DV2559106965076/status/1638769434763608064)
