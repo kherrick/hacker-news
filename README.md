@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-23, 23:19:53](https://news.ycombinator.com/item?id=35282893) - [Utah parent says Bible contains porn and should be removed from school libraries](https://www.sltrib.com/news/education/2023/03/22/utah-parent-says-bible-contains/)
 * [2023-03-23, 22:31:47](https://news.ycombinator.com/item?id=35282325) - [Apple: Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
 * [2023-03-23, 22:29:34](https://news.ycombinator.com/item?id=35282293) - [You can&#x27;t tell people anything](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 * [2023-03-23, 21:35:06](https://news.ycombinator.com/item?id=35281617) - [I Bought Back My Acquihired Startup](https://steveridout.com/2023/03/23/buy-back.html)
@@ -29,7 +30,6 @@
 * [2023-03-23, 03:16:33](https://news.ycombinator.com/item?id=35270131) - [The risks of cleaning with bleach and other disinfectants](https://www.nytimes.com/2023/03/21/well/live/cleaning-disinfectant-bleach-risks.html)
 * [2023-03-22, 18:10:20](https://news.ycombinator.com/item?id=35264919) - [Miller test](https://en.wikipedia.org/wiki/Miller_test)
 * [2023-03-22, 15:43:50](https://news.ycombinator.com/item?id=35262841) - [Stuck with the Soul](https://aeon.co/essays/why-are-most-of-us-stuck-with-a-belief-in-the-soul)
-* [2023-03-22, 15:31:09](https://news.ycombinator.com/item?id=35262594) - [Official Home Page for the PCMCIA Trade Association (2008)](https://web.archive.org/web/20081225064415/http://pcmcia.org/)
 
 ## [Archives](archives/index.md)
 

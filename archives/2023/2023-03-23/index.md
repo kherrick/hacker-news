@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 23:19:53](https://news.ycombinator.com/item?id=35282893) - [Utah parent says Bible contains porn and should be removed from school libraries](https://www.sltrib.com/news/education/2023/03/22/utah-parent-says-bible-contains/)
 * [2023-03-23, 22:31:47](https://news.ycombinator.com/item?id=35282325) - [Apple: Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
 * [2023-03-23, 22:29:35](https://news.ycombinator.com/item?id=35282294) - [Seen on Blind: “Chat with a googler was horrifying”](https://www.teamblind.com/post/Chat-with-a-googler-was-horrifying-ZcfiVAzm)
 * [2023-03-23, 22:29:34](https://news.ycombinator.com/item?id=35282293) - [You can&#x27;t tell people anything](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
