@@ -2,6 +2,7 @@
 
 * [2023-03-23, 18:18:08](https://news.ycombinator.com/item?id=35279044) - [SushiDAO Head Chef Served with Subpoena by SEC](https://forum.sushi.com/t/establish-sushi-legal-defense-fund/11813)
 * [2023-03-23, 18:04:51](https://news.ycombinator.com/item?id=35278840) - [Law school dean discusses recent protest, outlines next steps](https://news.stanford.edu/report/2023/03/23/law-school-dean-discusses-recent-protest-outlines-next-steps/)
+* [2023-03-23, 17:34:45](https://news.ycombinator.com/item?id=35278316) - [Block&#x27;s Response to Inaccurate Short Seller Report](https://investors.block.xyz/news/news-details/2023/Blocks-Response-to-Inaccurate-Short-Seller-Report/default.aspx)
 * [2023-03-23, 17:12:43](https://news.ycombinator.com/item?id=35277925) - [ChatGPT can now call Wolfram Alpha](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
 * [2023-03-23, 17:00:35](https://news.ycombinator.com/item?id=35277721) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35277721)
 * [2023-03-23, 16:57:28](https://news.ycombinator.com/item?id=35277677) - [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
@@ -22,7 +23,6 @@
 * [2023-03-23, 11:10:55](https://news.ycombinator.com/item?id=35272900) - [The danger isn’t that AI destroys us, it’s that it drives us insane](https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane)
 * [2023-03-23, 09:40:21](https://news.ycombinator.com/item?id=35272227) - [The drama in trying to convert election PDFs to Spreadsheets](https://markessien.com/posts/drama_of_transcription/)
 * [2023-03-23, 08:20:21](https://news.ycombinator.com/item?id=35271779) - [A CPU Is a Compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)
-* [2023-03-23, 07:43:57](https://news.ycombinator.com/item?id=35271587) - [What Will Transformers Transform?](https://rodneybrooks.com/what-will-transformers-transform/)
 * [2023-03-23, 05:42:24](https://news.ycombinator.com/item?id=35270877) - [You might not need an effect](https://react.dev/learn/you-might-not-need-an-effect)
 * [2023-03-23, 05:25:55](https://news.ycombinator.com/item?id=35270806) - [The Cornell University Witchcraft Collection](https://rmc.library.cornell.edu/witchcraftcoll/)
 * [2023-03-23, 03:16:33](https://news.ycombinator.com/item?id=35270131) - [The risks of cleaning with bleach and other disinfectants](https://www.nytimes.com/2023/03/21/well/live/cleaning-disinfectant-bleach-risks.html)
