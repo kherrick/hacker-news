@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-23, 14:24:46",
+      "https://news.ycombinator.com/item?id=35275301"
+    ],
+    [
+      "Butler Virtual Operating System",
+      "https://tristancacqueray.github.io/blog/introducing-butler"
+    ]
+  ],
+  [
+    [
       "2023-03-23, 14:10:29",
       "https://news.ycombinator.com/item?id=35275085"
     ],
@@ -17,6 +27,16 @@
     [
       "New ATLAS result weighs in on the W boson",
       "https://atlas.cern/Updates/Briefing/2023-W-Mass-Measurement"
+    ]
+  ],
+  [
+    [
+      "2023-03-23, 13:14:43",
+      "https://news.ycombinator.com/item?id=35274242"
+    ],
+    [
+      "Study: Early exposure to screens leads to weakened cognitive function (2023)",
+      "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2800776"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "MSCHF’s &#x27;Tax Heaven 3000&#x27; Is a Dating Simulator That Also Files Your Taxes",
       "https://www.yahoo.com/lifestyle/mschfs-tax-heaven-3000-dating-095632728.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-23, 11:10:55",
-      "https://news.ycombinator.com/item?id=35272900"
-    ],
-    [
-      "The danger isn’t that AI destroys us. It’s that it drives us insane",
-      "https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "FauxPilot – an open-source GitHub Copilot server",
       "https://github.com/fauxpilot/fauxpilot"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 16:12:13",
-      "https://news.ycombinator.com/item?id=35263285"
-    ],
-    [
-      "De-cloud and de-k8s – bringing our apps back home",
-      "https://dev.37signals.com/bringing-our-apps-back-home/"
     ]
   ],
   [
