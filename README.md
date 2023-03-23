@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-23, 18:38:14](https://news.ycombinator.com/item?id=35279349) - [The heaviest bicycle in the world is 4800 lb](https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/)
+* [2023-03-23, 18:34:03](https://news.ycombinator.com/item?id=35279274) - [AI’s compute fragmentation: what matrix multiplication teaches us](https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us)
 * [2023-03-23, 18:25:45](https://news.ycombinator.com/item?id=35279155) - [Launch HN: Helicone.ai (YC W23) – Open-source logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
-* [2023-03-23, 18:18:08](https://news.ycombinator.com/item?id=35279044) - [SushiDAO served with subpoena by SEC](https://forum.sushi.com/t/establish-sushi-legal-defense-fund/11813)
 * [2023-03-23, 17:12:43](https://news.ycombinator.com/item?id=35277925) - [ChatGPT can now call Wolfram Alpha](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
 * [2023-03-23, 17:00:35](https://news.ycombinator.com/item?id=35277721) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35277721)
 * [2023-03-23, 16:57:28](https://news.ycombinator.com/item?id=35277677) - [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)

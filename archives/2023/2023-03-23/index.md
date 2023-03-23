@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
 * [2023-03-23, 18:38:14](https://news.ycombinator.com/item?id=35279349) - [The heaviest bicycle in the world is an impressive 4800 lb](https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/)
+* [2023-03-23, 18:34:03](https://news.ycombinator.com/item?id=35279274) - [AI’s compute fragmentation: what matrix multiplication teaches us](https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us)
 * [2023-03-23, 18:25:45](https://news.ycombinator.com/item?id=35279155) - [Launch HN: Helicone.ai (YC W23) – Open-Source Logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
 * [2023-03-23, 18:18:08](https://news.ycombinator.com/item?id=35279044) - [SushiDAO Head Chef Served with Subpoena by SEC](https://forum.sushi.com/t/establish-sushi-legal-defense-fund/11813)
 * [2023-03-23, 18:04:51](https://news.ycombinator.com/item?id=35278840) - [Stanford Law dean discusses recent protest, outlines next steps](https://news.stanford.edu/report/2023/03/23/law-school-dean-discusses-recent-protest-outlines-next-steps/)
