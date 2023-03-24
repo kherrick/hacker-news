@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-24, 16:12:49](https://news.ycombinator.com/item?id=35291192) - [The Dwarf Planet on Our Doorstep](https://nautil.us/the-dwarf-planet-on-our-doorstep-289479/)
+* [2023-03-24, 16:10:43](https://news.ycombinator.com/item?id=35291157) - [ChatGPT and Wolfram Is Insane](https://old.reddit.com/r/ChatGPT/comments/1205omc/chatgpt_wolfram_is_insane/)
 * [2023-03-24, 16:08:37](https://news.ycombinator.com/item?id=35291112) - [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
 * [2023-03-24, 15:40:48](https://news.ycombinator.com/item?id=35290553) - [Nintendo&#x27;s Wii U and 3DS stores closing means game over for digital archives](https://www.npr.org/2023/03/24/1165711510/nintendo-wiiu-3ds-eshops-closing-digital-archives)
 * [2023-03-24, 15:35:36](https://news.ycombinator.com/item?id=35290460) - [UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years](https://www.grocerygazette.co.uk/2023/03/22/food-inflation-highest-rate/)
@@ -10,7 +11,6 @@
 * [2023-03-24, 14:00:04](https://news.ycombinator.com/item?id=35289166) - [CSS System Colors (2021)](https://blog.jim-nielsen.com/2021/css-system-colors/)
 * [2023-03-24, 13:52:05](https://news.ycombinator.com/item?id=35289085) - [Hacker found over 80 secret unapproved ChatGPT Plugins](https://twitter.com/rez0__/status/1639259413553750021)
 * [2023-03-24, 13:35:41](https://news.ycombinator.com/item?id=35288860) - [Kobold, a new web UI crate with zero-cost static DOM](https://maciej.codes/2023-03-23-kobold.html)
-* [2023-03-24, 13:14:52](https://news.ycombinator.com/item?id=35288606) - [Tell HN: We need to push the notion that only open-source LLMs can be “safe”](https://news.ycombinator.com/item?id=35288606)
 * [2023-03-24, 12:34:50](https://news.ycombinator.com/item?id=35288190) - [Post-GPT Computing](https://grady.io/post-gpt-computing/)
 * [2023-03-24, 12:21:20](https://news.ycombinator.com/item?id=35288063) - [Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
 * [2023-03-24, 12:21:02](https://news.ycombinator.com/item?id=35288059) - [The Tug-of-War over Server-Side WebAssembly](https://digest.browsertech.com/archive/browsertech-digest-the-webassembly-rift/)
