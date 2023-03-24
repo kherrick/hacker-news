@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 02:24:46](https://news.ycombinator.com/item?id=35284296) - [Letter from Stanford Law School Dean to the Campus Community](https://www.thefire.org/research-learn/letter-stanford-law-school-dean-jenny-martinez-campus-community-march-22-2023)
 * [2023-03-24, 02:11:06](https://news.ycombinator.com/item?id=35284187) - [Police sue rapper Afroman for using footage of home raid in his music videos](https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman)
 * [2023-03-24, 02:04:02](https://news.ycombinator.com/item?id=35284143) - [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://danacohen95.github.io/Set-the-Scene/)
 * [2023-03-24, 01:37:08](https://news.ycombinator.com/item?id=35283967) - [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)

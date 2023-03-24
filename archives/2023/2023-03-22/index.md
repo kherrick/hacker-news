@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
 * [2023-03-22, 23:50:47](https://news.ycombinator.com/item?id=35268697) - [The Vintage Technology Digital Archive](http://vtda.org/)
+* [2023-03-22, 23:39:16](https://news.ycombinator.com/item?id=35268594) - [Dungeons and Developers](https://allenpike.com/2022/dungeons-devs-simulation-roleplaying)
 * [2023-03-22, 22:56:00](https://news.ycombinator.com/item?id=35268197) - [Everything ChatGPT – under the hood of the ChatGPT web app](https://github.com/terminalcommandnewsletter/everything-chatgpt)
 * [2023-03-22, 22:42:37](https://news.ycombinator.com/item?id=35268050) - [When did New York start building slowly?](https://constructionphysics.substack.com/p/when-did-new-york-start-building)
 * [2023-03-22, 22:32:20](https://news.ycombinator.com/item?id=35267944) - [Helix: A Sleek Open-Source Portfolio Website](https://merylldindin.com)
