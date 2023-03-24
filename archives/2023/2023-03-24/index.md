@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 16:12:49](https://news.ycombinator.com/item?id=35291192) - [The Dwarf Planet on Our Doorstep](https://nautil.us/the-dwarf-planet-on-our-doorstep-289479/)
 * [2023-03-24, 15:40:48](https://news.ycombinator.com/item?id=35290553) - [Nintendo&#x27;s Wii U and 3DS stores closing means game over for digital archives](https://www.npr.org/2023/03/24/1165711510/nintendo-wiiu-3ds-eshops-closing-digital-archives)
 * [2023-03-24, 15:35:36](https://news.ycombinator.com/item?id=35290460) - [UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years](https://www.grocerygazette.co.uk/2023/03/22/food-inflation-highest-rate/)
 * [2023-03-24, 14:56:47](https://news.ycombinator.com/item?id=35289875) - [Barbados 4–2 Grenada](https://en.wikipedia.org/wiki/Barbados_4%E2%80%932_Grenada)

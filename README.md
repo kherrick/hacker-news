@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-24, 16:12:49](https://news.ycombinator.com/item?id=35291192) - [The Dwarf Planet on Our Doorstep](https://nautil.us/the-dwarf-planet-on-our-doorstep-289479/)
 * [2023-03-24, 15:40:48](https://news.ycombinator.com/item?id=35290553) - [Nintendo&#x27;s Wii U and 3DS stores closing means game over for digital archives](https://www.npr.org/2023/03/24/1165711510/nintendo-wiiu-3ds-eshops-closing-digital-archives)
 * [2023-03-24, 15:35:36](https://news.ycombinator.com/item?id=35290460) - [UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years](https://www.grocerygazette.co.uk/2023/03/22/food-inflation-highest-rate/)
 * [2023-03-24, 14:56:47](https://news.ycombinator.com/item?id=35289875) - [Barbados 4–2 Grenada](https://en.wikipedia.org/wiki/Barbados_4%E2%80%932_Grenada)
 * [2023-03-24, 14:31:17](https://news.ycombinator.com/item?id=35289537) - [Google discloses CentOS Linux kernel vulnerabilities citing failure to fix](https://www.neowin.net/news/google-discloses-centos-linux-kernel-vulnerabilities-following-failure-to-issue-timely-fixes/)
 * [2023-03-24, 14:00:04](https://news.ycombinator.com/item?id=35289166) - [CSS System Colors (2021)](https://blog.jim-nielsen.com/2021/css-system-colors/)
 * [2023-03-24, 13:52:05](https://news.ycombinator.com/item?id=35289085) - [Hacker found over 80 secret unapproved ChatGPT Plugins](https://twitter.com/rez0__/status/1639259413553750021)
-* [2023-03-24, 13:48:56](https://news.ycombinator.com/item?id=35289044) - [Sam Altman didn’t take any equity in OpenAI, report says](https://www.cnbc.com/2023/03/24/openai-ceo-sam-altman-didnt-take-any-equity-in-the-company-semafor.html)
 * [2023-03-24, 13:35:41](https://news.ycombinator.com/item?id=35288860) - [Kobold, a new web UI crate with zero-cost static DOM](https://maciej.codes/2023-03-23-kobold.html)
 * [2023-03-24, 13:14:52](https://news.ycombinator.com/item?id=35288606) - [Tell HN: We need to push the notion that only open-source LLMs can be “safe”](https://news.ycombinator.com/item?id=35288606)
 * [2023-03-24, 12:34:50](https://news.ycombinator.com/item?id=35288190) - [Post-GPT Computing](https://grady.io/post-gpt-computing/)
