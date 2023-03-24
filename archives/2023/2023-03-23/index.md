@@ -77,6 +77,7 @@
 * [2023-03-23, 09:38:53](https://news.ycombinator.com/item?id=35272215) - [GNOME 44](https://foundation.gnome.org/2023/03/22/introducing-gnome-44/)
 * [2023-03-23, 08:51:53](https://news.ycombinator.com/item?id=35271962) - [Sex Worker-Led Payment Platform Shuts Down After Being Cut Off by Processor](https://www.vice.com/en/article/88x9mb/spankpay-sex-work-payment-platform-shuts-down)
 * [2023-03-23, 08:31:35](https://news.ycombinator.com/item?id=35271835) - [Poor Human Olfaction Is a Nineteenth Century Myth](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5512720/)
+* [2023-03-23, 08:30:36](https://news.ycombinator.com/item?id=35271831) - [Ben Denzer, 2011–Present](https://2011-present.bendenzer.com/)
 * [2023-03-23, 08:20:21](https://news.ycombinator.com/item?id=35271779) - [A CPU Is a Compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)
 * [2023-03-23, 07:43:57](https://news.ycombinator.com/item?id=35271587) - [What Will Transformers Transform?](https://rodneybrooks.com/what-will-transformers-transform/)
 * [2023-03-23, 07:27:11](https://news.ycombinator.com/item?id=35271498) - [Practical Libc-free threading on Linux](https://nullprogram.com/blog/2023/03/23/)
