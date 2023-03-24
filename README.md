@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-24, 02:27:55](https://news.ycombinator.com/item?id=35284314) - [Watch the Watchers: LAPD officer database](https://watchthewatchers.net/)
-* [2023-03-24, 02:24:46](https://news.ycombinator.com/item?id=35284296) - [Letter from Stanford Law School Dean to the Campus Community](https://www.thefire.org/research-learn/letter-stanford-law-school-dean-jenny-martinez-campus-community-march-22-2023)
 * [2023-03-24, 02:11:06](https://news.ycombinator.com/item?id=35284187) - [Police sue rapper Afroman for using footage of home raid in his music videos](https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman)
 * [2023-03-24, 02:04:02](https://news.ycombinator.com/item?id=35284143) - [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://danacohen95.github.io/Set-the-Scene/)
 * [2023-03-24, 01:37:08](https://news.ycombinator.com/item?id=35283967) - [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
@@ -25,6 +24,7 @@
 * [2023-03-23, 13:33:10](https://news.ycombinator.com/item?id=35274519) - [The FTC wants to ban tough-to-cancel subscriptions](https://www.theverge.com/2023/3/23/23652373/ftc-click-to-cancel-subscription-service-dark-patterns-ban)
 * [2023-03-23, 08:31:35](https://news.ycombinator.com/item?id=35271835) - [Poor Human Olfaction Is a Nineteenth Century Myth](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5512720/)
 * [2023-03-23, 07:27:11](https://news.ycombinator.com/item?id=35271498) - [Practical Libc-free threading on Linux](https://nullprogram.com/blog/2023/03/23/)
+* [2023-03-23, 05:25:55](https://news.ycombinator.com/item?id=35270806) - [The Cornell University Witchcraft Collection](https://rmc.library.cornell.edu/witchcraftcoll/)
 * [2023-03-23, 04:45:44](https://news.ycombinator.com/item?id=35270637) - [On Trust in Software Development](https://blog.ploeh.dk/2023/03/20/on-trust-in-software-development/)
 * [2023-03-23, 03:16:33](https://news.ycombinator.com/item?id=35270131) - [The risks of cleaning with bleach and other disinfectants](https://www.nytimes.com/2023/03/21/well/live/cleaning-disinfectant-bleach-risks.html)
 * [2023-03-22, 23:39:16](https://news.ycombinator.com/item?id=35268594) - [Dungeons and Developers](https://allenpike.com/2022/dungeons-devs-simulation-roleplaying)
