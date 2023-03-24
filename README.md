@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-24, 18:35:21](https://news.ycombinator.com/item?id=35293561) - [Arm wants to charge dramatically more for chip licenses](https://arstechnica.com/gadgets/2023/03/risc-y-business-arm-wants-to-charge-dramatically-more-for-chip-licenses/)
 * [2023-03-24, 18:01:26](https://news.ycombinator.com/item?id=35293101) - [Bing sees 15.8% boost in visits following GPT-4 push, as Google sees a decline](https://www.reuters.com/technology/openai-tech-gives-microsofts-bing-boost-search-battle-with-google-2023-03-22/)
-* [2023-03-24, 17:50:57](https://news.ycombinator.com/item?id=35292933) - [Natural Language APIs Are Coming](https://the1993.substack.com/p/3-natural-language-apis-are-coming)
 * [2023-03-24, 17:43:00](https://news.ycombinator.com/item?id=35292798) - [France: Mass surveillance at Olympics undermines EU efforts to regulate AI](https://www.amnesty.org/en/latest/news/2023/03/france-allowing-mass-surveillance-at-olympics-undermines-eu-efforts-to-regulate-ai/)
 * [2023-03-24, 17:23:01](https://news.ycombinator.com/item?id=35292422) - [Why Engineers Need to Write](https://www.developing.dev/p/why-engineers-need-to-write)
 * [2023-03-24, 16:54:38](https://news.ycombinator.com/item?id=35291936) - [Let&#x27;s Encrypt: Reliability via Automated Renewal Information](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
@@ -10,7 +10,7 @@
 * [2023-03-24, 16:08:37](https://news.ycombinator.com/item?id=35291112) - [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
 * [2023-03-24, 15:40:48](https://news.ycombinator.com/item?id=35290553) - [Nintendo&#x27;s Wii U and 3DS stores closing means game over for digital archives](https://www.npr.org/2023/03/24/1165711510/nintendo-wiiu-3ds-eshops-closing-digital-archives)
 * [2023-03-24, 15:35:36](https://news.ycombinator.com/item?id=35290460) - [UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years](https://www.grocerygazette.co.uk/2023/03/22/food-inflation-highest-rate/)
-* [2023-03-24, 15:04:47](https://news.ycombinator.com/item?id=35289979) - [America’s online privacy problems are much bigger than TikTok](https://www.washingtonpost.com/technology/2023/03/24/tiktok-online-privacy-laws/)
+* [2023-03-24, 14:56:47](https://news.ycombinator.com/item?id=35289875) - [Barbados 4–2 Grenada](https://en.wikipedia.org/wiki/Barbados_4%E2%80%932_Grenada)
 * [2023-03-24, 14:31:17](https://news.ycombinator.com/item?id=35289537) - [Google discloses CentOS Linux kernel vulnerabilities citing failure to fix](https://www.neowin.net/news/google-discloses-centos-linux-kernel-vulnerabilities-following-failure-to-issue-timely-fixes/)
 * [2023-03-24, 14:00:04](https://news.ycombinator.com/item?id=35289166) - [CSS System Colors (2021)](https://blog.jim-nielsen.com/2021/css-system-colors/)
 * [2023-03-24, 13:52:05](https://news.ycombinator.com/item?id=35289085) - [Hacker found over 80 secret unapproved ChatGPT Plugins](https://twitter.com/rez0__/status/1639259413553750021)

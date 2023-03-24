@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 18:35:21](https://news.ycombinator.com/item?id=35293561) - [Arm wants to charge dramatically more for chip licenses](https://arstechnica.com/gadgets/2023/03/risc-y-business-arm-wants-to-charge-dramatically-more-for-chip-licenses/)
 * [2023-03-24, 18:01:26](https://news.ycombinator.com/item?id=35293101) - [Bing sees 15.8% boost in visits following GPT-4 push, as Google sees a decline](https://www.reuters.com/technology/openai-tech-gives-microsofts-bing-boost-search-battle-with-google-2023-03-22/)
 * [2023-03-24, 17:50:57](https://news.ycombinator.com/item?id=35292933) - [Natural Language APIs Are Coming](https://the1993.substack.com/p/3-natural-language-apis-are-coming)
 * [2023-03-24, 17:45:08](https://news.ycombinator.com/item?id=35292839) - [Dell is reflashing the bios automatically on reboot now?](https://news.ycombinator.com/item?id=35292839)
