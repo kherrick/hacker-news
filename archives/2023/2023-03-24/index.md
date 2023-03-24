@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 14:00:04](https://news.ycombinator.com/item?id=35289166) - [CSS System Colors](https://blog.jim-nielsen.com/2021/css-system-colors/)
+* [2023-03-24, 13:52:05](https://news.ycombinator.com/item?id=35289085) - [Hacker found over 80 secret unapproved ChatGPT Plugins](https://twitter.com/rez0__/status/1639259413553750021)
 * [2023-03-24, 13:21:40](https://news.ycombinator.com/item?id=35288683) - [Accenture slashes 19,000 jobs worldwide](https://www.cnn.com/2023/03/23/business/accenture-job-cuts-19000/index.html)
 * [2023-03-24, 12:34:50](https://news.ycombinator.com/item?id=35288190) - [Post-GPT Computing](https://grady.io/post-gpt-computing/)
 * [2023-03-24, 12:30:58](https://news.ycombinator.com/item?id=35288151) - [Ask HN: Trauma has broken me. Nothing has worked. Alternatives to suicide?](https://news.ycombinator.com/item?id=35288151)
 * [2023-03-24, 12:21:36](https://news.ycombinator.com/item?id=35288071) - [Louis Rossmann – [RANT] The lower rungs on the economic ladder are gone](https://www.youtube.com/watch?v=RUYUzlRgt_Q)
 * [2023-03-24, 12:15:25](https://news.ycombinator.com/item?id=35288015) - [LoRA: Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
 * [2023-03-24, 12:01:00](https://news.ycombinator.com/item?id=35287892) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35287892)
+* [2023-03-24, 11:58:35](https://news.ycombinator.com/item?id=35287868) - [Deutsche Bank Shares Plunge in Renewed Bout of Stress](https://www.bloomberg.com/news/articles/2023-03-24/europe-s-banks-erase-weekly-gains-as-us-probe-adds-to-concerns)
 * [2023-03-24, 11:41:14](https://news.ycombinator.com/item?id=35287740) - [Alpaca-LoRA with Docker](https://github.com/chris-alexiuk/alpaca-lora)
 * [2023-03-24, 11:40:09](https://news.ycombinator.com/item?id=35287733) - [Facebook is aggressively going after LLaMA repos with DMCA&#x27;s](https://twitter.com/theshawwn/status/1638925249709240322)
 * [2023-03-24, 10:59:55](https://news.ycombinator.com/item?id=35287436) - [Show HN: Use ChatGPT, Bing and Bard in one app](https://github.com/chathub-dev/chathub)
