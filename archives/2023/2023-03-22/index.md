@@ -46,6 +46,7 @@
 * [2023-03-22, 15:31:09](https://news.ycombinator.com/item?id=35262594) - [The Official Pcmcia Association Website (2008)](https://web.archive.org/web/20081225064415/http://pcmcia.org/)
 * [2023-03-22, 15:02:53](https://news.ycombinator.com/item?id=35262131) - [The Poor, Misunderstood InnerText](http://perfectionkills.com/the-poor-misunderstood-innerText/)
 * [2023-03-22, 15:02:43](https://news.ycombinator.com/item?id=35262129) - [Choose what to dream tonight](https://www.wsj.com/articles/these-techniques-might-help-you-direct-your-dreams-6812735e)
+* [2023-03-22, 15:00:51](https://news.ycombinator.com/item?id=35262098) - [Mona Lisa vs. ‘the monstrous’: the grotesque, shocking side of Leonardo da Vinci](https://www.theguardian.com/artanddesign/2023/mar/15/mona-lisa-monstrous-grotesque-leonardo-da-vinci-national-gallery-ugly-duchess)
 * [2023-03-22, 14:59:23](https://news.ycombinator.com/item?id=35262073) - [Home Prices Fell in February for First Time in 11 Years](https://www.wsj.com/articles/home-prices-fell-in-february-for-first-time-in-11-years-73df0107)
 * [2023-03-22, 14:51:55](https://news.ycombinator.com/item?id=35261946) - [Ask HN: How much of inflation is caused by supply rather than demand issues?](https://news.ycombinator.com/item?id=35261946)
 * [2023-03-22, 14:27:51](https://news.ycombinator.com/item?id=35261555) - [Fungus Candida auris infections spreading across US, CDC warns](https://www.usatoday.com/story/news/health/2023/03/21/fungus-candida-auris-infections-spreading-cdc-warning/11513263002/)
