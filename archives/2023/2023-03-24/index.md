@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 23:27:22](https://news.ycombinator.com/item?id=35297074) - [We Ran a Phone Check at a Y Combinator Event in SF. Here’s How It Went](https://blog.getclearspace.com/we-ran-a-phone-check-at-a-ycombinator-event-in-san-francisco-heres-how-it-went-fb920a54c755)
 * [2023-03-24, 23:00:13](https://news.ycombinator.com/item?id=35296823) - [Former governor of the Bank of England:Needless money-printing fuelled inflation](https://www.spectator.co.uk/article/mervyn-king-needless-money-printing-fuelled-inflation/)
 * [2023-03-24, 21:51:06](https://news.ycombinator.com/item?id=35296131) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
 * [2023-03-24, 21:47:38](https://news.ycombinator.com/item?id=35296092) - [Levi’s to use AI-generated models to “Increase Diversity”](https://petapixel.com/2023/03/24/levis-to-use-ai-generated-models-to-increase-diversity/)
