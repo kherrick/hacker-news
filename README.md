@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-24, 17:15:32](https://news.ycombinator.com/item?id=35292274) - [Missouri lawmakers move to strip library funding, retaliate for book ban lawsuit](https://www.kansascity.com/news/politics-government/article273516090.html)
 * [2023-03-24, 16:12:49](https://news.ycombinator.com/item?id=35291192) - [The Dwarf Planet on Our Doorstep](https://nautil.us/the-dwarf-planet-on-our-doorstep-289479/)
 * [2023-03-24, 16:10:43](https://news.ycombinator.com/item?id=35291157) - [ChatGPT and Wolfram Is Insane](https://old.reddit.com/r/ChatGPT/comments/1205omc/chatgpt_wolfram_is_insane/)
 * [2023-03-24, 16:08:37](https://news.ycombinator.com/item?id=35291112) - [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
@@ -21,14 +22,13 @@
 * [2023-03-24, 08:40:09](https://news.ycombinator.com/item?id=35286544) - [Framework Laptop 16](https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 * [2023-03-24, 03:49:13](https://news.ycombinator.com/item?id=35284885) - [NASA ICER image compression algorithm as a C library](https://github.com/TheRealOrange/icer_compression)
+* [2023-03-24, 02:41:57](https://news.ycombinator.com/item?id=35284402) - [Subterranean Treasures: Cormac McCarthy’s late style](https://www.thenation.com/article/culture/cormac-mccarthy-late-style/)
 * [2023-03-23, 22:31:47](https://news.ycombinator.com/item?id=35282325) - [Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
-* [2023-03-23, 19:57:23](https://news.ycombinator.com/item?id=35280454) - [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
 * [2023-03-23, 16:28:25](https://news.ycombinator.com/item?id=35277245) - [Relativity Space launches first 3D-printed rocket on historic test flight](https://www.space.com/relativity-space-terran-1-test-launch-failure)
 * [2023-03-23, 12:17:39](https://news.ycombinator.com/item?id=35273533) - [What do you mean by “Memory Management”?](https://www.deusinmachina.net/p/what-is-memory-management)
 * [2023-03-23, 11:51:02](https://news.ycombinator.com/item?id=35273273) - [Fascination of Awk](https://maximullaris.com/awk.html)
 * [2023-03-23, 11:40:11](https://news.ycombinator.com/item?id=35273166) - [True 3D is much tougher than 2.5D](https://semiengineering.com/true-3d-is-much-tougher-than-2-5d/)
 * [2023-03-23, 11:36:57](https://news.ycombinator.com/item?id=35273139) - [Juice](https://garden.bradwoods.io/notes/design/juice)
-* [2023-03-23, 04:49:11](https://news.ycombinator.com/item?id=35270660) - [Scaling Rust Builds with Bazel](https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html)
 * [2023-03-22, 15:00:51](https://news.ycombinator.com/item?id=35262098) - [Mona Lisa vs. ‘the monstrous’: the grotesque, shocking side of Leonardo da Vinci](https://www.theguardian.com/artanddesign/2023/mar/15/mona-lisa-monstrous-grotesque-leonardo-da-vinci-national-gallery-ugly-duchess)
 
 ## [Archives](archives/index.md)

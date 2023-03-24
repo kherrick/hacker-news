@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 17:15:32](https://news.ycombinator.com/item?id=35292274) - [Missouri lawmakers move to strip library funding, retaliate for book ban lawsuit](https://www.kansascity.com/news/politics-government/article273516090.html)
 * [2023-03-24, 16:12:49](https://news.ycombinator.com/item?id=35291192) - [The Dwarf Planet on Our Doorstep](https://nautil.us/the-dwarf-planet-on-our-doorstep-289479/)
 * [2023-03-24, 16:10:43](https://news.ycombinator.com/item?id=35291157) - [ChatGPT and Wolfram Is Insane](https://old.reddit.com/r/ChatGPT/comments/1205omc/chatgpt_wolfram_is_insane/)
 * [2023-03-24, 16:08:37](https://news.ycombinator.com/item?id=35291112) - [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
@@ -46,6 +47,7 @@
 * [2023-03-24, 05:01:41](https://news.ycombinator.com/item?id=35285263) - [‘Most are unaware’: film highlights Germany’s genocidal past in Namibia](https://www.theguardian.com/world/2023/mar/22/most-are-unaware-film-highlights-germanys-genocidal-past-in-namibia)
 * [2023-03-24, 04:03:50](https://news.ycombinator.com/item?id=35284957) - [RP2040 Runs Linux Through RISC-V Emulation](https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation/)
 * [2023-03-24, 03:49:13](https://news.ycombinator.com/item?id=35284885) - [NASA ICER image compression algorithm as a C library](https://github.com/TheRealOrange/icer_compression)
+* [2023-03-24, 02:41:57](https://news.ycombinator.com/item?id=35284402) - [Subterranean Treasures: Cormac McCarthy’s late style](https://www.thenation.com/article/culture/cormac-mccarthy-late-style/)
 * [2023-03-24, 02:27:55](https://news.ycombinator.com/item?id=35284314) - [Watch the Watchers: LAPD officer database](https://watchthewatchers.net/)
 * [2023-03-24, 02:24:46](https://news.ycombinator.com/item?id=35284296) - [Letter from Stanford Law School Dean to the Campus Community](https://www.thefire.org/research-learn/letter-stanford-law-school-dean-jenny-martinez-campus-community-march-22-2023)
 * [2023-03-24, 02:11:06](https://news.ycombinator.com/item?id=35284187) - [Police sue rapper Afroman for using footage of home raid in his music videos](https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman)
