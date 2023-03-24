@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-03-24, 12:15:25",
+      "https://news.ycombinator.com/item?id=35288015"
+    ],
+    [
+      "LoRA: Low-Rank Adaptation of Large Language Models",
+      "https://github.com/microsoft/LoRA"
+    ]
+  ],
+  [
+    [
       "2023-03-24, 12:01:00",
       "https://news.ycombinator.com/item?id=35287892"
     ],
     [
       "Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing",
       "https://news.ycombinator.com/item?id=35287892"
+    ]
+  ],
+  [
+    [
+      "2023-03-24, 11:41:14",
+      "https://news.ycombinator.com/item?id=35287740"
+    ],
+    [
+      "Alpaca-LoRA with Docker",
+      "https://github.com/chris-alexiuk/alpaca-lora"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2023-03-24, 10:48:17",
-      "https://news.ycombinator.com/item?id=35287365"
+      "2023-03-24, 10:59:55",
+      "https://news.ycombinator.com/item?id=35287436"
     ],
     [
-      "Show HN: Hacker News Summarizer (Chrome Extension)",
-      "https://chrome.google.com/webstore/detail/hacker-news-summarizer/ajodkpllepafdcjcgklhnamlnninjbmd"
+      "Show HN: Use ChatGPT, Bing and Bard in one app",
+      "https://github.com/chathub-dev/chathub"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "The Framework Laptop 16",
       "https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16"
-    ]
-  ],
-  [
-    [
-      "2023-03-24, 05:39:19",
-      "https://news.ycombinator.com/item?id=35285454"
-    ],
-    [
-      "The venture capitalist&#x27;s dilemma",
-      "https://newsletter.mollywhite.net/p/the-venture-capitalists-dilemma"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Introduction to P vs. NP",
       "https://wesammikhail.com/2023/03/22/the-complexity-series-p1-p-vs-np/"
-    ]
-  ],
-  [
-    [
-      "2023-03-23, 22:56:39",
-      "https://news.ycombinator.com/item?id=35282638"
-    ],
-    [
-      "Surprising Scalability of Multitenancy",
-      "https://brooker.co.za/blog/2023/03/23/economics.html"
     ]
   ],
   [
