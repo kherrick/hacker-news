@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
+* [2023-03-24, 05:01:41](https://news.ycombinator.com/item?id=35285263) - [‘Most are unaware’: film highlights Germany’s genocidal past in Namibia](https://www.theguardian.com/world/2023/mar/22/most-are-unaware-film-highlights-germanys-genocidal-past-in-namibia)
 * [2023-03-24, 04:03:50](https://news.ycombinator.com/item?id=35284957) - [RP2040 Runs Linux Through RISC-V Emulation](https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation/)
 * [2023-03-24, 03:49:13](https://news.ycombinator.com/item?id=35284885) - [NASA ICER image compression algorithm as a C library](https://github.com/TheRealOrange/icer_compression)
 * [2023-03-24, 02:27:55](https://news.ycombinator.com/item?id=35284314) - [Watch the Watchers: LAPD officer database](https://watchthewatchers.net/)
 * [2023-03-24, 02:11:06](https://news.ycombinator.com/item?id=35284187) - [Police sue rapper Afroman for using footage of home raid in his music videos](https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman)
 * [2023-03-24, 01:37:08](https://news.ycombinator.com/item?id=35283967) - [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
-* [2023-03-24, 01:03:47](https://news.ycombinator.com/item?id=35283721) - [We built semantic search for ArXiv](https://sigmoidprime.com/post/searchthearxiv/)
 * [2023-03-23, 23:19:52](https://news.ycombinator.com/item?id=35282892) - [Introduction to P vs. NP](https://wesammikhail.com/2023/03/22/the-complexity-series-p1-p-vs-np/)
 * [2023-03-23, 23:12:08](https://news.ycombinator.com/item?id=35282815) - [How to read Hacker News threads with most recent comments first](https://til.simonwillison.net/hacker-news/recent-comments)
 * [2023-03-23, 22:56:39](https://news.ycombinator.com/item?id=35282638) - [Surprising Scalability of Multitenancy – Marc&#x27;s Blog](https://brooker.co.za/blog/2023/03/23/economics.html)
