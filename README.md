@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-24, 23:00:13](https://news.ycombinator.com/item?id=35296823) - [Former governor of the Bank of England:Needless money-printing fuelled inflation](https://www.spectator.co.uk/article/mervyn-king-needless-money-printing-fuelled-inflation/)
 * [2023-03-24, 21:51:06](https://news.ycombinator.com/item?id=35296131) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
 * [2023-03-24, 21:47:38](https://news.ycombinator.com/item?id=35296092) - [Levi’s to use AI-generated models to “Increase Diversity”](https://petapixel.com/2023/03/24/levis-to-use-ai-generated-models-to-increase-diversity/)
 * [2023-03-24, 21:26:52](https://news.ycombinator.com/item?id=35295807) - [We’re No Longer Sunsetting the Free Team Plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
@@ -10,7 +11,6 @@
 * [2023-03-24, 16:54:38](https://news.ycombinator.com/item?id=35291936) - [Reliability via Automated Renewal Information](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
 * [2023-03-24, 16:12:49](https://news.ycombinator.com/item?id=35291192) - [The series of fortunate astrophysical events that gave us Ceres](https://nautil.us/the-dwarf-planet-on-our-doorstep-289479/)
 * [2023-03-24, 16:08:37](https://news.ycombinator.com/item?id=35291112) - [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
-* [2023-03-24, 15:35:36](https://news.ycombinator.com/item?id=35290460) - [UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years](https://www.grocerygazette.co.uk/2023/03/22/food-inflation-highest-rate/)
 * [2023-03-24, 14:56:47](https://news.ycombinator.com/item?id=35289875) - [Barbados 4–2 Grenada](https://en.wikipedia.org/wiki/Barbados_4%E2%80%932_Grenada)
 * [2023-03-24, 13:48:56](https://news.ycombinator.com/item?id=35289044) - [Sam Altman didn’t take any equity in OpenAI, report says](https://www.cnbc.com/2023/03/24/openai-ceo-sam-altman-didnt-take-any-equity-in-the-company-semafor.html)
 * [2023-03-24, 13:35:41](https://news.ycombinator.com/item?id=35288860) - [Kobold, a new web UI crate with zero-cost static DOM](https://maciej.codes/2023-03-23-kobold.html)
