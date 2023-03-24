@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-24, 15:40:48](https://news.ycombinator.com/item?id=35290553) - [Nintendo&#x27;s Wii U and 3DS stores closing means game over for digital archives](https://www.npr.org/2023/03/24/1165711510/nintendo-wiiu-3ds-eshops-closing-digital-archives)
 * [2023-03-24, 15:35:36](https://news.ycombinator.com/item?id=35290460) - [UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years](https://www.grocerygazette.co.uk/2023/03/22/food-inflation-highest-rate/)
 * [2023-03-24, 14:56:47](https://news.ycombinator.com/item?id=35289875) - [Barbados 4–2 Grenada](https://en.wikipedia.org/wiki/Barbados_4%E2%80%932_Grenada)
 * [2023-03-24, 14:31:17](https://news.ycombinator.com/item?id=35289537) - [Google discloses CentOS Linux kernel vulnerabilities citing failure to fix](https://www.neowin.net/news/google-discloses-centos-linux-kernel-vulnerabilities-following-failure-to-issue-timely-fixes/)
@@ -28,7 +29,6 @@
 * [2023-03-23, 11:36:57](https://news.ycombinator.com/item?id=35273139) - [Juice](https://garden.bradwoods.io/notes/design/juice)
 * [2023-03-23, 10:26:43](https://news.ycombinator.com/item?id=35272536) - [Ask HN: Tools to learn music theory?](https://news.ycombinator.com/item?id=35272536)
 * [2023-03-23, 04:49:11](https://news.ycombinator.com/item?id=35270660) - [Scaling Rust Builds with Bazel](https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html)
-* [2023-03-22, 23:39:16](https://news.ycombinator.com/item?id=35268594) - [Dungeons &amp; Developers](https://allenpike.com/2022/dungeons-devs-simulation-roleplaying)
 * [2023-03-22, 15:00:51](https://news.ycombinator.com/item?id=35262098) - [Mona Lisa vs. ‘the monstrous’: the grotesque, shocking side of Leonardo da Vinci](https://www.theguardian.com/artanddesign/2023/mar/15/mona-lisa-monstrous-grotesque-leonardo-da-vinci-national-gallery-ugly-duchess)
 
 ## [Archives](archives/index.md)
