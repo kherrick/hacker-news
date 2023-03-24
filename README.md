@@ -2,6 +2,7 @@
 
 * [2023-03-24, 13:21:40](https://news.ycombinator.com/item?id=35288683) - [Accenture slashes 19,000 jobs worldwide](https://www.cnn.com/2023/03/23/business/accenture-job-cuts-19000/index.html)
 * [2023-03-24, 12:34:50](https://news.ycombinator.com/item?id=35288190) - [Post-GPT Computing](https://grady.io/post-gpt-computing/)
+* [2023-03-24, 12:21:36](https://news.ycombinator.com/item?id=35288071) - [Louis Rossmann – [RANT] The lower rungs on the economic ladder are gone](https://www.youtube.com/watch?v=RUYUzlRgt_Q)
 * [2023-03-24, 12:15:25](https://news.ycombinator.com/item?id=35288015) - [LoRA: Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
 * [2023-03-24, 12:01:00](https://news.ycombinator.com/item?id=35287892) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35287892)
 * [2023-03-24, 11:41:14](https://news.ycombinator.com/item?id=35287740) - [Alpaca-LoRA with Docker](https://github.com/chris-alexiuk/alpaca-lora)
@@ -15,7 +16,6 @@
 * [2023-03-24, 02:11:06](https://news.ycombinator.com/item?id=35284187) - [Police sue rapper Afroman for using footage of home raid in his music videos](https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman)
 * [2023-03-24, 01:37:08](https://news.ycombinator.com/item?id=35283967) - [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
 * [2023-03-23, 23:19:52](https://news.ycombinator.com/item?id=35282892) - [Introduction to P vs. NP](https://wesammikhail.com/2023/03/22/the-complexity-series-p1-p-vs-np/)
-* [2023-03-23, 22:56:39](https://news.ycombinator.com/item?id=35282638) - [Surprising Scalability of Multitenancy](https://brooker.co.za/blog/2023/03/23/economics.html)
 * [2023-03-23, 22:31:47](https://news.ycombinator.com/item?id=35282325) - [Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
 * [2023-03-23, 22:29:34](https://news.ycombinator.com/item?id=35282293) - [You can&#x27;t tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 * [2023-03-23, 18:25:45](https://news.ycombinator.com/item?id=35279155) - [Launch HN: Helicone.ai (YC W23) – Open-source logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
