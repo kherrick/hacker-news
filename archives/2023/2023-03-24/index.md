@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 23:31:57](https://news.ycombinator.com/item?id=35297117) - [Judge Decides Against Internet Archive](https://file770.com/judge-decides-against-internet-archive/)
 * [2023-03-24, 23:27:22](https://news.ycombinator.com/item?id=35297074) - [We Ran a Phone Check at a Y Combinator Event in SF. Here’s How It Went](https://blog.getclearspace.com/we-ran-a-phone-check-at-a-ycombinator-event-in-san-francisco-heres-how-it-went-fb920a54c755)
 * [2023-03-24, 23:00:13](https://news.ycombinator.com/item?id=35296823) - [Former governor of the Bank of England:Needless money-printing fuelled inflation](https://www.spectator.co.uk/article/mervyn-king-needless-money-printing-fuelled-inflation/)
+* [2023-03-24, 22:10:55](https://news.ycombinator.com/item?id=35296352) - [We need a new economics of water as a common good](https://www.nature.com/articles/d41586-023-00800-z)
 * [2023-03-24, 21:51:06](https://news.ycombinator.com/item?id=35296131) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
 * [2023-03-24, 21:47:38](https://news.ycombinator.com/item?id=35296092) - [Levi’s to use AI-generated models to “Increase Diversity”](https://petapixel.com/2023/03/24/levis-to-use-ai-generated-models-to-increase-diversity/)
 * [2023-03-24, 21:29:00](https://news.ycombinator.com/item?id=35295837) - [Docker no longer sunsetting Free Teams](https://www.docker.com/developers/free-team-faq/)
@@ -59,6 +61,7 @@
 * [2023-03-24, 11:41:14](https://news.ycombinator.com/item?id=35287740) - [Alpaca-LoRA with Docker](https://github.com/chris-alexiuk/alpaca-lora)
 * [2023-03-24, 11:40:09](https://news.ycombinator.com/item?id=35287733) - [Facebook is aggressively going after LLaMA repos with DMCA&#x27;s](https://twitter.com/theshawwn/status/1638925249709240322)
 * [2023-03-24, 10:59:55](https://news.ycombinator.com/item?id=35287436) - [Show HN: Use ChatGPT, Bing and Bard in one app](https://github.com/chathub-dev/chathub)
+* [2023-03-24, 10:57:15](https://news.ycombinator.com/item?id=35287420) - [Sfbook.com: Providing book reviews of speculative fiction since 1999](https://sfbook.com/our-story.htm)
 * [2023-03-24, 10:48:17](https://news.ycombinator.com/item?id=35287365) - [Show HN: Hacker News Summarizer (Chrome Extension)](https://chrome.google.com/webstore/detail/hacker-news-summarizer/ajodkpllepafdcjcgklhnamlnninjbmd)
 * [2023-03-24, 10:34:06](https://news.ycombinator.com/item?id=35287263) - [Art sleuths reunited a family after centuries apart](https://www.npr.org/2023/03/22/1165011263/painting-history-cornelis-de-vos-mystery-rkd-netherlands)
 * [2023-03-24, 10:24:13](https://news.ycombinator.com/item?id=35287202) - [Rocket-powered space planes get approval to operate out of NZ airports](https://www.stuff.co.nz/business/131599726/rocketpowered-space-planes-get-approval-to-operate-out-of-nz-airports)
