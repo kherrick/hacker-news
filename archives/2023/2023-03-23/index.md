@@ -73,6 +73,7 @@
 * [2023-03-23, 11:10:55](https://news.ycombinator.com/item?id=35272900) - [The danger isn’t that AI destroys us. It’s that it drives us insane](https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane)
 * [2023-03-23, 10:51:19](https://news.ycombinator.com/item?id=35272729) - [Ask HN: Would a global catastrophe unite or divide nations?](https://news.ycombinator.com/item?id=35272729)
 * [2023-03-23, 10:49:34](https://news.ycombinator.com/item?id=35272708) - [Book Publishers Won&#x27;t Stop Until Libraries Are Dead](https://www.techdirt.com/2023/03/22/book-publishers-wont-stop-until-libraries-are-dead/)
+* [2023-03-23, 10:28:23](https://news.ycombinator.com/item?id=35272546) - [German monks create first powdered beer](https://newatlas.com/lifestyle/powdered-beer/)
 * [2023-03-23, 10:26:43](https://news.ycombinator.com/item?id=35272536) - [Ask HN: Tools to learn music theory?](https://news.ycombinator.com/item?id=35272536)
 * [2023-03-23, 10:01:17](https://news.ycombinator.com/item?id=35272350) - [Moviemaking and Gamemaking Are Converging](https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging)
 * [2023-03-23, 09:40:21](https://news.ycombinator.com/item?id=35272227) - [The drama in trying to convert election PDFs to Spreadsheets](https://markessien.com/posts/drama_of_transcription/)
