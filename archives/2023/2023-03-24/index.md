@@ -9,6 +9,7 @@
 * [2023-03-24, 17:45:08](https://news.ycombinator.com/item?id=35292839) - [Dell is reflashing the bios automatically on reboot now?](https://news.ycombinator.com/item?id=35292839)
 * [2023-03-24, 17:43:00](https://news.ycombinator.com/item?id=35292798) - [France: Mass surveillance at Olympics undermines EU efforts to regulate AI](https://www.amnesty.org/en/latest/news/2023/03/france-allowing-mass-surveillance-at-olympics-undermines-eu-efforts-to-regulate-ai/)
 * [2023-03-24, 17:36:17](https://news.ycombinator.com/item?id=35292671) - [Utah parent says the Bible contains porn and should be removed from schools](https://www.sltrib.com/news/education/2023/03/22/utah-parent-says-bible-contains/)
+* [2023-03-24, 17:23:01](https://news.ycombinator.com/item?id=35292422) - [Why Engineers Need to Write](https://www.developing.dev/p/why-engineers-need-to-write)
 * [2023-03-24, 17:15:32](https://news.ycombinator.com/item?id=35292274) - [Missouri lawmakers move to strip library funding, retaliate for book ban lawsuit](https://www.kansascity.com/news/politics-government/article273516090.html)
 * [2023-03-24, 16:54:38](https://news.ycombinator.com/item?id=35291936) - [Let&#x27;s Encrypt: Reliability via Automated Renewal Information](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
 * [2023-03-24, 16:12:49](https://news.ycombinator.com/item?id=35291192) - [The Dwarf Planet on Our Doorstep](https://nautil.us/the-dwarf-planet-on-our-doorstep-289479/)
