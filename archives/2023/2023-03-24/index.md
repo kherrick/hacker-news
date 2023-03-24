@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
 * [2023-03-24, 17:15:32](https://news.ycombinator.com/item?id=35292274) - [Missouri lawmakers move to strip library funding, retaliate for book ban lawsuit](https://www.kansascity.com/news/politics-government/article273516090.html)
+* [2023-03-24, 16:54:38](https://news.ycombinator.com/item?id=35291936) - [Let&#x27;s Encrypt: Reliability via Automated Renewal Information](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
 * [2023-03-24, 16:12:49](https://news.ycombinator.com/item?id=35291192) - [The Dwarf Planet on Our Doorstep](https://nautil.us/the-dwarf-planet-on-our-doorstep-289479/)
 * [2023-03-24, 16:10:43](https://news.ycombinator.com/item?id=35291157) - [ChatGPT and Wolfram Is Insane](https://old.reddit.com/r/ChatGPT/comments/1205omc/chatgpt_wolfram_is_insane/)
 * [2023-03-24, 16:08:37](https://news.ycombinator.com/item?id=35291112) - [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
