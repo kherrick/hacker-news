@@ -27,8 +27,8 @@
 * [2023-03-23, 08:31:35](https://news.ycombinator.com/item?id=35271835) - [Poor human olfaction is a nineteenth century myth](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5512720/)
 * [2023-03-23, 08:30:36](https://news.ycombinator.com/item?id=35271831) - [Ben Denzer, 2011–Present](https://2011-present.bendenzer.com/)
 * [2023-03-23, 07:27:11](https://news.ycombinator.com/item?id=35271498) - [Practical Libc-free threading on Linux](https://nullprogram.com/blog/2023/03/23/)
+* [2023-03-23, 04:49:11](https://news.ycombinator.com/item?id=35270660) - [Scaling Rust Builds with Bazel](https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html)
 * [2023-03-22, 23:39:16](https://news.ycombinator.com/item?id=35268594) - [Dungeons &amp; Developers](https://allenpike.com/2022/dungeons-devs-simulation-roleplaying)
-* [2023-03-22, 21:37:54](https://news.ycombinator.com/item?id=35267405) - [A More Delicious Region: Following Alexis de Tocqueville to Italy](https://www.laphamsquarterly.org/roundtable/more-delicious-region)
 * [2023-03-22, 14:02:16](https://news.ycombinator.com/item?id=35261115) - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/open-airgradient/blog/co2-sensors-photo-acoustic-vs-ndir/)
 
 ## [Archives](archives/index.md)

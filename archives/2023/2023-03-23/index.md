@@ -89,6 +89,7 @@
 * [2023-03-23, 05:15:35](https://news.ycombinator.com/item?id=35270768) - [Anti-porn bills could force device makers to censor sexual material](https://www.nbcnews.com/tech/security/porn-filter-laws-bills-anti-default-florida-texas-rcna73626)
 * [2023-03-23, 05:05:22](https://news.ycombinator.com/item?id=35270726) - [Microsoft Research: GPT-4 exhibits “sparks of general intelligence”](https://www.haihai.ai/sparks/)
 * [2023-03-23, 05:02:55](https://news.ycombinator.com/item?id=35270720) - [Epic’s Verse Programming Language](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
+* [2023-03-23, 04:49:11](https://news.ycombinator.com/item?id=35270660) - [Scaling Rust Builds with Bazel](https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html)
 * [2023-03-23, 04:49:03](https://news.ycombinator.com/item?id=35270658) - [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/)
 * [2023-03-23, 04:45:44](https://news.ycombinator.com/item?id=35270637) - [On Trust in Software Development](https://blog.ploeh.dk/2023/03/20/on-trust-in-software-development/)
 * [2023-03-23, 03:38:26](https://news.ycombinator.com/item?id=35270257) - [A Debugger Barrier](http://msinilo.pl/blog2/post/debugger-barrier/)
