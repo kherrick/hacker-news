@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 06:37:55](https://news.ycombinator.com/item?id=35285757) - [Jack Dorsey’s Block loses 20% of value as Hindenburg Research alleges fraud](https://finance.yahoo.com/news/jack-dorsey-block-loses-20-164948270.html)
 * [2023-03-24, 05:51:51](https://news.ycombinator.com/item?id=35285513) - [Boolean Logic, missing brackets and the 2023 Nigeria Presidential Election](https://markessien.com/posts/boolean_logic_and_the_tribunal/)
 * [2023-03-24, 05:39:19](https://news.ycombinator.com/item?id=35285454) - [The Venture Capitalist&#x27;s Dilemma](https://newsletter.mollywhite.net/p/the-venture-capitalists-dilemma)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)

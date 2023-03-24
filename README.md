@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-24, 06:37:55](https://news.ycombinator.com/item?id=35285757) - [Jack Dorsey’s Block loses 20% of value as Hindenburg Research alleges fraud](https://finance.yahoo.com/news/jack-dorsey-block-loses-20-164948270.html)
 * [2023-03-24, 05:51:51](https://news.ycombinator.com/item?id=35285513) - [Boolean Logic, missing brackets and the 2023 Nigeria Presidential Election](https://markessien.com/posts/boolean_logic_and_the_tribunal/)
 * [2023-03-24, 05:39:19](https://news.ycombinator.com/item?id=35285454) - [The Venture Capitalist&#x27;s Dilemma](https://newsletter.mollywhite.net/p/the-venture-capitalists-dilemma)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
-* [2023-03-24, 05:01:41](https://news.ycombinator.com/item?id=35285263) - [‘Most are unaware’: film highlights Germany’s genocidal past in Namibia](https://www.theguardian.com/world/2023/mar/22/most-are-unaware-film-highlights-germanys-genocidal-past-in-namibia)
 * [2023-03-24, 04:03:50](https://news.ycombinator.com/item?id=35284957) - [RP2040 Runs Linux Through RISC-V Emulation](https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation/)
 * [2023-03-24, 03:49:13](https://news.ycombinator.com/item?id=35284885) - [NASA ICER image compression algorithm as a C library](https://github.com/TheRealOrange/icer_compression)
 * [2023-03-24, 02:27:55](https://news.ycombinator.com/item?id=35284314) - [Watch the Watchers: LAPD officer database](https://watchthewatchers.net/)
