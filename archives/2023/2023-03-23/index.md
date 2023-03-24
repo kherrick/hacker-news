@@ -69,6 +69,7 @@
 * [2023-03-23, 11:54:31](https://news.ycombinator.com/item?id=35273305) - [Acropalypse: Windows Save File API is defective by design](https://twitter.com/sjmurdoch/status/1638623990817103888)
 * [2023-03-23, 11:51:02](https://news.ycombinator.com/item?id=35273273) - [Fascination of Awk](https://maximullaris.com/awk.html)
 * [2023-03-23, 11:49:03](https://news.ycombinator.com/item?id=35273250) - [Google just launched Bard, its answer to ChatGPT](https://www.technologyreview.com/2023/03/21/1070111/google-bard-chatgpt-openai-microsoft-bing-search/)
+* [2023-03-23, 11:40:11](https://news.ycombinator.com/item?id=35273166) - [True 3D is much tougher than 2.5D](https://semiengineering.com/true-3d-is-much-tougher-than-2-5d/)
 * [2023-03-23, 11:36:57](https://news.ycombinator.com/item?id=35273139) - [Juice](https://garden.bradwoods.io/notes/design/juice)
 * [2023-03-23, 11:28:34](https://news.ycombinator.com/item?id=35273064) - [MSCHF’s &#x27;Tax Heaven 3000&#x27; Is a Dating Simulator That Also Files Your Taxes](https://www.yahoo.com/lifestyle/mschfs-tax-heaven-3000-dating-095632728.html)
 * [2023-03-23, 11:10:55](https://news.ycombinator.com/item?id=35272900) - [The danger isn’t that AI destroys us. It’s that it drives us insane](https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane)
