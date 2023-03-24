@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 23:37:21](https://news.ycombinator.com/item?id=35283067) - [The Origin of the Word Daemon (2002)](https://ei.cs.vt.edu/~history/Daemon.html)
 * [2023-03-23, 23:19:53](https://news.ycombinator.com/item?id=35282893) - [Utah parent says Bible contains porn and should be removed from school libraries](https://www.sltrib.com/news/education/2023/03/22/utah-parent-says-bible-contains/)
+* [2023-03-23, 23:12:08](https://news.ycombinator.com/item?id=35282815) - [How to read Hacker News threads with most recent comments first](https://til.simonwillison.net/hacker-news/recent-comments)
+* [2023-03-23, 22:56:39](https://news.ycombinator.com/item?id=35282638) - [Surprising Scalability of Multitenancy – Marc&#x27;s Blog](https://brooker.co.za/blog/2023/03/23/economics.html)
 * [2023-03-23, 22:31:47](https://news.ycombinator.com/item?id=35282325) - [Apple: Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
 * [2023-03-23, 22:29:35](https://news.ycombinator.com/item?id=35282294) - [Seen on Blind: “Chat with a googler was horrifying”](https://www.teamblind.com/post/Chat-with-a-googler-was-horrifying-ZcfiVAzm)
 * [2023-03-23, 22:29:34](https://news.ycombinator.com/item?id=35282293) - [You can&#x27;t tell people anything](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
