@@ -2,7 +2,6 @@
 
 * [2023-03-24, 09:01:39](https://news.ycombinator.com/item?id=35286681) - [Anime dating sim that also does your taxes](https://taxheaven3000.com/)
 * [2023-03-24, 08:40:09](https://news.ycombinator.com/item?id=35286544) - [The Framework Laptop 16](https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16)
-* [2023-03-24, 06:37:55](https://news.ycombinator.com/item?id=35285757) - [Jack Dorsey’s Block loses 20% of value as Hindenburg Research alleges fraud](https://finance.yahoo.com/news/jack-dorsey-block-loses-20-164948270.html)
 * [2023-03-24, 05:51:51](https://news.ycombinator.com/item?id=35285513) - [Boolean Logic, missing brackets and the 2023 Nigeria Presidential Election](https://markessien.com/posts/boolean_logic_and_the_tribunal/)
 * [2023-03-24, 05:39:19](https://news.ycombinator.com/item?id=35285454) - [The venture capitalist&#x27;s dilemma](https://newsletter.mollywhite.net/p/the-venture-capitalists-dilemma)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
@@ -17,7 +16,8 @@
 * [2023-03-23, 22:31:47](https://news.ycombinator.com/item?id=35282325) - [Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
 * [2023-03-23, 22:29:34](https://news.ycombinator.com/item?id=35282293) - [You can&#x27;t tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 * [2023-03-23, 21:35:06](https://news.ycombinator.com/item?id=35281617) - [I bought back my acquihired startup](https://steveridout.com/2023/03/23/buy-back.html)
-* [2023-03-23, 21:00:51](https://news.ycombinator.com/item?id=35281194) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=35281194)
+* [2023-03-23, 21:26:28](https://news.ycombinator.com/item?id=35281527) - [Microsoft&#x27;s paper on OpenAI&#x27;s GPT-4 had hidden information](https://twitter.com/DV2559106965076/status/1638769434763608064)
+* [2023-03-23, 20:45:35](https://news.ycombinator.com/item?id=35281026) - [RWKV RNN: Better than ChatGPT?](https://github.com/BlinkDL/RWKV-LM)
 * [2023-03-23, 18:25:45](https://news.ycombinator.com/item?id=35279155) - [Launch HN: Helicone.ai (YC W23) – Open-source logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
 * [2023-03-23, 16:57:28](https://news.ycombinator.com/item?id=35277677) - [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
 * [2023-03-23, 16:28:25](https://news.ycombinator.com/item?id=35277245) - [Relativity Space launches first 3D-printed rocket on historic test flight](https://www.space.com/relativity-space-terran-1-test-launch-failure)
