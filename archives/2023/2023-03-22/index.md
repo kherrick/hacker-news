@@ -10,6 +10,7 @@
 * [2023-03-22, 22:42:37](https://news.ycombinator.com/item?id=35268050) - [When did New York start building slowly?](https://constructionphysics.substack.com/p/when-did-new-york-start-building)
 * [2023-03-22, 22:32:20](https://news.ycombinator.com/item?id=35267944) - [Helix: A Sleek Open-Source Portfolio Website](https://merylldindin.com)
 * [2023-03-22, 22:28:50](https://news.ycombinator.com/item?id=35267901) - [DISAppointment: Adding an ISA Slot to a Modern Motherboard](https://www.youtube.com/watch?v=IXr-VEpQ1lg)
+* [2023-03-22, 22:21:22](https://news.ycombinator.com/item?id=35267829) - [Trial Run of Chefs Plate](https://blog.bmannconsulting.com/2022/12/17/trial-run-of.html)
 * [2023-03-22, 22:05:02](https://news.ycombinator.com/item?id=35267707) - [Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html)
 * [2023-03-22, 22:04:01](https://news.ycombinator.com/item?id=35267692) - [Coinbase issued Wells notice by SEC](https://www.reuters.com/legal/coinbase-issued-wells-notice-by-sec-2023-03-22/)
 * [2023-03-22, 21:57:54](https://news.ycombinator.com/item?id=35267627) - [My sign up form was abused to send spam. Is yours safe?](https://mzrn.sh/2023/03/03/never-include-user-input-text-in-welcome-emails/)

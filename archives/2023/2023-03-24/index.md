@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 12:01:00](https://news.ycombinator.com/item?id=35287892) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35287892)
+* [2023-03-24, 11:40:09](https://news.ycombinator.com/item?id=35287733) - [Facebook is aggressively going after LLaMA repos with DMCA&#x27;s](https://twitter.com/theshawwn/status/1638925249709240322)
 * [2023-03-24, 10:48:17](https://news.ycombinator.com/item?id=35287365) - [Show HN: Hacker News Summarizer (Chrome Extension)](https://chrome.google.com/webstore/detail/hacker-news-summarizer/ajodkpllepafdcjcgklhnamlnninjbmd)
 * [2023-03-24, 10:34:06](https://news.ycombinator.com/item?id=35287263) - [Art sleuths reunited a family after centuries apart](https://www.npr.org/2023/03/22/1165011263/painting-history-cornelis-de-vos-mystery-rkd-netherlands)
 * [2023-03-24, 10:24:13](https://news.ycombinator.com/item?id=35287202) - [Rocket-powered space planes get approval to operate out of NZ airports](https://www.stuff.co.nz/business/131599726/rocketpowered-space-planes-get-approval-to-operate-out-of-nz-airports)
