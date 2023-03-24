@@ -25,7 +25,7 @@
 * [2023-03-23, 08:31:35](https://news.ycombinator.com/item?id=35271835) - [Poor Human Olfaction Is a Nineteenth Century Myth](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5512720/)
 * [2023-03-23, 08:30:36](https://news.ycombinator.com/item?id=35271831) - [Ben Denzer, 2011–Present](https://2011-present.bendenzer.com/)
 * [2023-03-23, 07:27:11](https://news.ycombinator.com/item?id=35271498) - [Practical Libc-free threading on Linux](https://nullprogram.com/blog/2023/03/23/)
-* [2023-03-23, 03:38:26](https://news.ycombinator.com/item?id=35270257) - [A debugger barrier](http://msinilo.pl/blog2/post/debugger-barrier/)
+* [2023-03-23, 04:45:44](https://news.ycombinator.com/item?id=35270637) - [On Trust in Software Development](https://blog.ploeh.dk/2023/03/20/on-trust-in-software-development/)
 * [2023-03-23, 03:16:33](https://news.ycombinator.com/item?id=35270131) - [The risks of cleaning with bleach and other disinfectants](https://www.nytimes.com/2023/03/21/well/live/cleaning-disinfectant-bleach-risks.html)
 * [2023-03-22, 23:39:16](https://news.ycombinator.com/item?id=35268594) - [Dungeons and Developers](https://allenpike.com/2022/dungeons-devs-simulation-roleplaying)
 * [2023-03-22, 21:37:54](https://news.ycombinator.com/item?id=35267405) - [A More Delicious Region: Following Alexis de Tocqueville to Italy](https://www.laphamsquarterly.org/roundtable/more-delicious-region)
