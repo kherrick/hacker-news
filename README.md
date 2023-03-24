@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-24, 02:11:06](https://news.ycombinator.com/item?id=35284187) - [Police sue rapper Afroman for using footage of home raid in his music videos](https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman)
 * [2023-03-24, 02:04:02](https://news.ycombinator.com/item?id=35284143) - [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://danacohen95.github.io/Set-the-Scene/)
 * [2023-03-24, 01:37:08](https://news.ycombinator.com/item?id=35283967) - [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
 * [2023-03-24, 01:03:47](https://news.ycombinator.com/item?id=35283721) - [We built semantic search for ArXiv](https://sigmoidprime.com/post/searchthearxiv/)
@@ -27,7 +28,6 @@
 * [2023-03-23, 03:38:26](https://news.ycombinator.com/item?id=35270257) - [A debugger barrier](http://msinilo.pl/blog2/post/debugger-barrier/)
 * [2023-03-23, 03:16:33](https://news.ycombinator.com/item?id=35270131) - [The risks of cleaning with bleach and other disinfectants](https://www.nytimes.com/2023/03/21/well/live/cleaning-disinfectant-bleach-risks.html)
 * [2023-03-22, 21:37:54](https://news.ycombinator.com/item?id=35267405) - [A More Delicious Region: Following Alexis de Tocqueville to Italy](https://www.laphamsquarterly.org/roundtable/more-delicious-region)
-* [2023-03-22, 18:10:20](https://news.ycombinator.com/item?id=35264919) - [Miller test](https://en.wikipedia.org/wiki/Miller_test)
 * [2023-03-22, 15:43:50](https://news.ycombinator.com/item?id=35262841) - [Stuck with the Soul](https://aeon.co/essays/why-are-most-of-us-stuck-with-a-belief-in-the-soul)
 * [2023-03-22, 14:02:16](https://news.ycombinator.com/item?id=35261115) - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/open-airgradient/blog/co2-sensors-photo-acoustic-vs-ndir/)
 
