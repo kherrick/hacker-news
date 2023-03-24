@@ -2,7 +2,6 @@
 
 * [2023-03-24, 21:29:00](https://news.ycombinator.com/item?id=35295837) - [Docker no longer sunsetting Free Teams](https://www.docker.com/developers/free-team-faq/)
 * [2023-03-24, 21:26:52](https://news.ycombinator.com/item?id=35295807) - [Docker: We’re No Longer Sunsetting the Free Team Plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
-* [2023-03-24, 21:05:00](https://news.ycombinator.com/item?id=35295495) - [Omnipedia](https://omnipedia.app/)
 * [2023-03-24, 20:46:31](https://news.ycombinator.com/item?id=35295216) - [GitHub&#x27;s User Content certificate has expired](https://github.com/)
 * [2023-03-24, 20:44:47](https://news.ycombinator.com/item?id=35295191) - [Expired SSL Certificate at GitHub](https://objects.githubusercontent.com/)
 * [2023-03-24, 20:14:52](https://news.ycombinator.com/item?id=35294818) - [Show HN: The Shark Programming Language Realease 1.0.0](https://github.com/shogundevel/shark)
@@ -22,6 +21,7 @@
 * [2023-03-24, 12:15:25](https://news.ycombinator.com/item?id=35288015) - [LoRA: Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
 * [2023-03-24, 12:01:00](https://news.ycombinator.com/item?id=35287892) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35287892)
 * [2023-03-24, 11:41:14](https://news.ycombinator.com/item?id=35287740) - [Alpaca-LoRA with Docker](https://github.com/chris-alexiuk/alpaca-lora)
+* [2023-03-24, 08:40:09](https://news.ycombinator.com/item?id=35286544) - [Framework Laptop 16](https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 * [2023-03-24, 03:40:37](https://news.ycombinator.com/item?id=35284823) - [Cadillac Ranch](https://en.wikipedia.org/wiki/Cadillac_Ranch)
 * [2023-03-24, 02:41:57](https://news.ycombinator.com/item?id=35284402) - [Subterranean Treasures: Cormac McCarthy’s late style](https://www.thenation.com/article/culture/cormac-mccarthy-late-style/)
