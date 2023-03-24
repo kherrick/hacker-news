@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
 * [2023-03-24, 21:51:06](https://news.ycombinator.com/item?id=35296131) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
+* [2023-03-24, 21:47:38](https://news.ycombinator.com/item?id=35296092) - [Levi’s to use AI-generated models to “Increase Diversity”](https://petapixel.com/2023/03/24/levis-to-use-ai-generated-models-to-increase-diversity/)
 * [2023-03-24, 21:29:00](https://news.ycombinator.com/item?id=35295837) - [Docker no longer sunsetting Free Teams](https://www.docker.com/developers/free-team-faq/)
 * [2023-03-24, 21:26:52](https://news.ycombinator.com/item?id=35295807) - [Docker: We’re No Longer Sunsetting the Free Team Plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 * [2023-03-24, 21:05:00](https://news.ycombinator.com/item?id=35295495) - [Omnipedia](https://omnipedia.app/)
