@@ -2,6 +2,7 @@
 
 * [2023-03-24, 19:52:14](https://news.ycombinator.com/item?id=35294530) - [Which city builds skyscrapers the fastest?](https://constructionphysics.substack.com/p/which-city-builds-skyscrapers-the)
 * [2023-03-24, 19:18:04](https://news.ycombinator.com/item?id=35294111) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
+* [2023-03-24, 19:15:18](https://news.ycombinator.com/item?id=35294082) - [OpenAI CEO &#x27;feels awful&#x27; about ChatGPT leaking conversations](https://www.theregister.com/2023/03/23/openai_ceo_leak/)
 * [2023-03-24, 18:35:21](https://news.ycombinator.com/item?id=35293561) - [Arm wants to charge dramatically more for chip licenses](https://arstechnica.com/gadgets/2023/03/risc-y-business-arm-wants-to-charge-dramatically-more-for-chip-licenses/)
 * [2023-03-24, 18:01:26](https://news.ycombinator.com/item?id=35293101) - [Bing sees 15.8% boost in visits following GPT-4 push, as Google sees a decline](https://www.reuters.com/technology/openai-tech-gives-microsofts-bing-boost-search-battle-with-google-2023-03-22/)
 * [2023-03-24, 17:43:00](https://news.ycombinator.com/item?id=35292798) - [France: Mass surveillance at Olympics undermines EU efforts to regulate AI](https://www.amnesty.org/en/latest/news/2023/03/france-allowing-mass-surveillance-at-olympics-undermines-eu-efforts-to-regulate-ai/)
@@ -14,7 +15,6 @@
 * [2023-03-24, 15:35:36](https://news.ycombinator.com/item?id=35290460) - [UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years](https://www.grocerygazette.co.uk/2023/03/22/food-inflation-highest-rate/)
 * [2023-03-24, 14:31:17](https://news.ycombinator.com/item?id=35289537) - [Google discloses CentOS Linux kernel vulnerabilities citing failure to fix](https://www.neowin.net/news/google-discloses-centos-linux-kernel-vulnerabilities-following-failure-to-issue-timely-fixes/)
 * [2023-03-24, 14:00:04](https://news.ycombinator.com/item?id=35289166) - [CSS System Colors (2021)](https://blog.jim-nielsen.com/2021/css-system-colors/)
-* [2023-03-24, 13:52:05](https://news.ycombinator.com/item?id=35289085) - [Hacker found over 80 secret unapproved ChatGPT Plugins](https://twitter.com/rez0__/status/1639259413553750021)
 * [2023-03-24, 13:35:41](https://news.ycombinator.com/item?id=35288860) - [Kobold, a new web UI crate with zero-cost static DOM](https://maciej.codes/2023-03-23-kobold.html)
 * [2023-03-24, 12:34:50](https://news.ycombinator.com/item?id=35288190) - [Post-GPT Computing](https://grady.io/post-gpt-computing/)
 * [2023-03-24, 12:21:20](https://news.ycombinator.com/item?id=35288063) - [Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
