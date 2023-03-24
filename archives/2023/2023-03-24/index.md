@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
 * [2023-03-24, 10:34:06](https://news.ycombinator.com/item?id=35287263) - [Art sleuths reunited a family after centuries apart](https://www.npr.org/2023/03/22/1165011263/painting-history-cornelis-de-vos-mystery-rkd-netherlands)
+* [2023-03-24, 10:24:13](https://news.ycombinator.com/item?id=35287202) - [Rocket-powered space planes get approval to operate out of NZ airports](https://www.stuff.co.nz/business/131599726/rocketpowered-space-planes-get-approval-to-operate-out-of-nz-airports)
 * [2023-03-24, 09:01:39](https://news.ycombinator.com/item?id=35286681) - [Anime dating sim that also does your taxes](https://taxheaven3000.com/)
 * [2023-03-24, 08:42:22](https://news.ycombinator.com/item?id=35286561) - [Humans have reclaimed ‘land size of Luxembourg’ since 2000](https://www.theguardian.com/science/2023/mar/22/humans-have-reclaimed-land-size-of-luxembourg-since-2000)
 * [2023-03-24, 08:40:09](https://news.ycombinator.com/item?id=35286544) - [The Framework Laptop 16](https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16)
