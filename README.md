@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-24, 14:56:47](https://news.ycombinator.com/item?id=35289875) - [Barbados 4–2 Grenada](https://en.wikipedia.org/wiki/Barbados_4%E2%80%932_Grenada)
 * [2023-03-24, 14:40:22](https://news.ycombinator.com/item?id=35289644) - [More Americans are using ‘buy now, pay later’ services to pay for groceries](https://www.marketwatch.com/story/more-americans-are-using-buy-now-pay-later-services-to-pay-for-groceries-2f583d1c)
 * [2023-03-24, 14:31:17](https://news.ycombinator.com/item?id=35289537) - [Google discloses CentOS Linux kernel vulnerabilities citing failure to fix](https://www.neowin.net/news/google-discloses-centos-linux-kernel-vulnerabilities-following-failure-to-issue-timely-fixes/)
 * [2023-03-24, 14:00:04](https://news.ycombinator.com/item?id=35289166) - [CSS System Colors (2021)](https://blog.jim-nielsen.com/2021/css-system-colors/)
@@ -21,7 +22,6 @@
 * [2023-03-23, 22:31:47](https://news.ycombinator.com/item?id=35282325) - [Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
 * [2023-03-23, 22:29:34](https://news.ycombinator.com/item?id=35282293) - [You can&#x27;t tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 * [2023-03-23, 19:57:23](https://news.ycombinator.com/item?id=35280454) - [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
-* [2023-03-23, 18:25:45](https://news.ycombinator.com/item?id=35279155) - [Launch HN: Helicone.ai (YC W23) – Open-source logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
 * [2023-03-23, 16:28:25](https://news.ycombinator.com/item?id=35277245) - [Relativity Space launches first 3D-printed rocket on historic test flight](https://www.space.com/relativity-space-terran-1-test-launch-failure)
 * [2023-03-23, 11:51:02](https://news.ycombinator.com/item?id=35273273) - [Fascination of Awk](https://maximullaris.com/awk.html)
 * [2023-03-23, 11:40:11](https://news.ycombinator.com/item?id=35273166) - [True 3D is much tougher than 2.5D](https://semiengineering.com/true-3d-is-much-tougher-than-2-5d/)
