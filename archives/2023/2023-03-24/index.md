@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 19:31:24](https://news.ycombinator.com/item?id=35294286) - [Florida parents upset by Michelangelo’s ‘David’ force out principal](https://www.washingtonpost.com/education/2023/03/24/florida-principal-michelangelo-david-parents/)
 * [2023-03-24, 19:18:04](https://news.ycombinator.com/item?id=35294111) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
 * [2023-03-24, 19:15:18](https://news.ycombinator.com/item?id=35294082) - [OpenAI CEO &#x27;feels awful&#x27; about ChatGPT leaking conversations](https://www.theregister.com/2023/03/23/openai_ceo_leak/)
 * [2023-03-24, 18:35:21](https://news.ycombinator.com/item?id=35293561) - [Arm wants to charge dramatically more for chip licenses](https://arstechnica.com/gadgets/2023/03/risc-y-business-arm-wants-to-charge-dramatically-more-for-chip-licenses/)

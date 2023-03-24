@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-24, 19:31:24](https://news.ycombinator.com/item?id=35294286) - [Florida parents upset by Michelangelo’s ‘David’ force out principal](https://www.washingtonpost.com/education/2023/03/24/florida-principal-michelangelo-david-parents/)
 * [2023-03-24, 19:18:04](https://news.ycombinator.com/item?id=35294111) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
 * [2023-03-24, 19:15:18](https://news.ycombinator.com/item?id=35294082) - [OpenAI CEO &#x27;feels awful&#x27; about ChatGPT leaking conversations](https://www.theregister.com/2023/03/23/openai_ceo_leak/)
 * [2023-03-24, 18:35:21](https://news.ycombinator.com/item?id=35293561) - [Arm wants to charge dramatically more for chip licenses](https://arstechnica.com/gadgets/2023/03/risc-y-business-arm-wants-to-charge-dramatically-more-for-chip-licenses/)
@@ -22,7 +23,6 @@
 * [2023-03-24, 12:15:25](https://news.ycombinator.com/item?id=35288015) - [LoRA: Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
 * [2023-03-24, 12:01:00](https://news.ycombinator.com/item?id=35287892) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35287892)
 * [2023-03-24, 11:41:14](https://news.ycombinator.com/item?id=35287740) - [Alpaca-LoRA with Docker](https://github.com/chris-alexiuk/alpaca-lora)
-* [2023-03-24, 11:40:09](https://news.ycombinator.com/item?id=35287733) - [Facebook is going after LLaMA repos with DMCA&#x27;s](https://twitter.com/theshawwn/status/1638925249709240322)
 * [2023-03-24, 08:40:09](https://news.ycombinator.com/item?id=35286544) - [Framework Laptop 16](https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 * [2023-03-24, 02:41:57](https://news.ycombinator.com/item?id=35284402) - [Subterranean Treasures: Cormac McCarthy’s late style](https://www.thenation.com/article/culture/cormac-mccarthy-late-style/)
