@@ -21,7 +21,7 @@
 * [2023-03-23, 16:57:28](https://news.ycombinator.com/item?id=35277677) - [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
 * [2023-03-23, 16:56:30](https://news.ycombinator.com/item?id=35277660) - [Framework announces AMD, new Intel gen, 16“ laptop and more](https://frame.work/)
 * [2023-03-23, 16:28:25](https://news.ycombinator.com/item?id=35277245) - [Relativity Space launches first 3D-printed rocket on historic test flight](https://www.space.com/relativity-space-terran-1-test-launch-failure)
-* [2023-03-23, 09:40:21](https://news.ycombinator.com/item?id=35272227) - [The drama in trying to convert election PDFs to Spreadsheets](https://markessien.com/posts/drama_of_transcription/)
+* [2023-03-23, 10:26:43](https://news.ycombinator.com/item?id=35272536) - [Ask HN: Tools to learn music theory?](https://news.ycombinator.com/item?id=35272536)
 * [2023-03-23, 08:31:35](https://news.ycombinator.com/item?id=35271835) - [Poor Human Olfaction Is a Nineteenth Century Myth](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5512720/)
 * [2023-03-23, 08:30:36](https://news.ycombinator.com/item?id=35271831) - [Ben Denzer, 2011–Present](https://2011-present.bendenzer.com/)
 * [2023-03-23, 07:27:11](https://news.ycombinator.com/item?id=35271498) - [Practical Libc-free threading on Linux](https://nullprogram.com/blog/2023/03/23/)
