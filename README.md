@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-24, 05:51:51](https://news.ycombinator.com/item?id=35285513) - [Boolean Logic, missing brackets and the 2023 Nigeria Presidential Election](https://markessien.com/posts/boolean_logic_and_the_tribunal/)
+* [2023-03-24, 05:39:19](https://news.ycombinator.com/item?id=35285454) - [The Venture Capitalist&#x27;s Dilemma](https://newsletter.mollywhite.net/p/the-venture-capitalists-dilemma)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 * [2023-03-24, 05:01:41](https://news.ycombinator.com/item?id=35285263) - [‘Most are unaware’: film highlights Germany’s genocidal past in Namibia](https://www.theguardian.com/world/2023/mar/22/most-are-unaware-film-highlights-germanys-genocidal-past-in-namibia)
 * [2023-03-24, 04:03:50](https://news.ycombinator.com/item?id=35284957) - [RP2040 Runs Linux Through RISC-V Emulation](https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation/)
@@ -25,8 +27,6 @@
 * [2023-03-23, 08:31:35](https://news.ycombinator.com/item?id=35271835) - [Poor Human Olfaction Is a Nineteenth Century Myth](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5512720/)
 * [2023-03-23, 08:30:36](https://news.ycombinator.com/item?id=35271831) - [Ben Denzer, 2011–Present](https://2011-present.bendenzer.com/)
 * [2023-03-23, 07:27:11](https://news.ycombinator.com/item?id=35271498) - [Practical Libc-free threading on Linux](https://nullprogram.com/blog/2023/03/23/)
-* [2023-03-23, 04:45:44](https://news.ycombinator.com/item?id=35270637) - [On Trust in Software Development](https://blog.ploeh.dk/2023/03/20/on-trust-in-software-development/)
-* [2023-03-23, 03:16:33](https://news.ycombinator.com/item?id=35270131) - [The risks of cleaning with bleach and other disinfectants](https://www.nytimes.com/2023/03/21/well/live/cleaning-disinfectant-bleach-risks.html)
 * [2023-03-22, 23:39:16](https://news.ycombinator.com/item?id=35268594) - [Dungeons and Developers](https://allenpike.com/2022/dungeons-devs-simulation-roleplaying)
 * [2023-03-22, 21:37:54](https://news.ycombinator.com/item?id=35267405) - [A More Delicious Region: Following Alexis de Tocqueville to Italy](https://www.laphamsquarterly.org/roundtable/more-delicious-region)
 * [2023-03-22, 14:02:16](https://news.ycombinator.com/item?id=35261115) - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/open-airgradient/blog/co2-sensors-photo-acoustic-vs-ndir/)
