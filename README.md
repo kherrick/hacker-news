@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-24, 17:36:17](https://news.ycombinator.com/item?id=35292671) - [Utah parent says the Bible contains porn and should be removed from schools](https://www.sltrib.com/news/education/2023/03/22/utah-parent-says-bible-contains/)
 * [2023-03-24, 17:15:32](https://news.ycombinator.com/item?id=35292274) - [Missouri lawmakers move to strip library funding, retaliate for book ban lawsuit](https://www.kansascity.com/news/politics-government/article273516090.html)
 * [2023-03-24, 16:54:38](https://news.ycombinator.com/item?id=35291936) - [Let&#x27;s Encrypt: Reliability via Automated Renewal Information](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
 * [2023-03-24, 16:12:49](https://news.ycombinator.com/item?id=35291192) - [The Dwarf Planet on Our Doorstep](https://nautil.us/the-dwarf-planet-on-our-doorstep-289479/)
@@ -22,7 +23,6 @@
 * [2023-03-24, 11:40:09](https://news.ycombinator.com/item?id=35287733) - [Facebook is going after LLaMA repos with DMCA&#x27;s](https://twitter.com/theshawwn/status/1638925249709240322)
 * [2023-03-24, 08:40:09](https://news.ycombinator.com/item?id=35286544) - [Framework Laptop 16](https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
-* [2023-03-24, 03:49:13](https://news.ycombinator.com/item?id=35284885) - [NASA ICER image compression algorithm as a C library](https://github.com/TheRealOrange/icer_compression)
 * [2023-03-24, 02:41:57](https://news.ycombinator.com/item?id=35284402) - [Subterranean Treasures: Cormac McCarthy’s late style](https://www.thenation.com/article/culture/cormac-mccarthy-late-style/)
 * [2023-03-23, 22:31:47](https://news.ycombinator.com/item?id=35282325) - [Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
 * [2023-03-23, 16:28:25](https://news.ycombinator.com/item?id=35277245) - [Relativity Space launches first 3D-printed rocket on historic test flight](https://www.space.com/relativity-space-terran-1-test-launch-failure)
