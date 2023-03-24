@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 21:05:00](https://news.ycombinator.com/item?id=35295495) - [Omnipedia](https://omnipedia.app/)
 * [2023-03-24, 20:46:31](https://news.ycombinator.com/item?id=35295216) - [GitHub&#x27;s User Content certificate has expired](https://github.com/)
 * [2023-03-24, 20:44:47](https://news.ycombinator.com/item?id=35295191) - [Expired SSL Certificate at GitHub](https://objects.githubusercontent.com/)
 * [2023-03-24, 20:27:44](https://news.ycombinator.com/item?id=35294972) - [NPR cancels 4 podcasts amid major layoffs](https://www.npr.org/2023/03/23/1165559810/npr-layoffs-cancels-podcasts-invisibilia-rough-translation)

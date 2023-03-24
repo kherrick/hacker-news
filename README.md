@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-24, 21:05:00](https://news.ycombinator.com/item?id=35295495) - [Omnipedia](https://omnipedia.app/)
 * [2023-03-24, 20:46:31](https://news.ycombinator.com/item?id=35295216) - [GitHub&#x27;s User Content certificate has expired](https://github.com/)
 * [2023-03-24, 20:44:47](https://news.ycombinator.com/item?id=35295191) - [Expired SSL Certificate at GitHub](https://objects.githubusercontent.com/)
-* [2023-03-24, 20:27:44](https://news.ycombinator.com/item?id=35294972) - [NPR cancels 4 podcasts amid major layoffs](https://www.npr.org/2023/03/23/1165559810/npr-layoffs-cancels-podcasts-invisibilia-rough-translation)
 * [2023-03-24, 20:14:52](https://news.ycombinator.com/item?id=35294818) - [Show HN: The Shark Programming Language Realease 1.0.0](https://github.com/shogundevel/shark)
 * [2023-03-24, 20:13:30](https://news.ycombinator.com/item?id=35294802) - [Reasons the banking crisis isn’t a repeat of 2008](https://www.chase.com/personal/investments/learning-and-insights/article/tmt-march-twenty-four-twenty-three)
 * [2023-03-24, 19:18:04](https://news.ycombinator.com/item?id=35294111) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
