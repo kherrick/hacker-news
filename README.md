@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-24, 12:34:50](https://news.ycombinator.com/item?id=35288190) - [Post-GPT Computing](https://grady.io/post-gpt-computing/)
+* [2023-03-24, 12:30:58](https://news.ycombinator.com/item?id=35288151) - [Ask HN: Trauma has broken me. Nothing has worked. Alternatives to suicide?](https://news.ycombinator.com/item?id=35288151)
 * [2023-03-24, 12:15:25](https://news.ycombinator.com/item?id=35288015) - [LoRA: Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
 * [2023-03-24, 12:01:00](https://news.ycombinator.com/item?id=35287892) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35287892)
 * [2023-03-24, 11:41:14](https://news.ycombinator.com/item?id=35287740) - [Alpaca-LoRA with Docker](https://github.com/chris-alexiuk/alpaca-lora)
@@ -10,7 +12,6 @@
 * [2023-03-24, 08:40:09](https://news.ycombinator.com/item?id=35286544) - [The Framework Laptop 16](https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 * [2023-03-24, 03:49:13](https://news.ycombinator.com/item?id=35284885) - [NASA ICER image compression algorithm as a C library](https://github.com/TheRealOrange/icer_compression)
-* [2023-03-24, 02:27:55](https://news.ycombinator.com/item?id=35284314) - [Watch the Watchers: LAPD officer database](https://watchthewatchers.net/)
 * [2023-03-24, 02:11:06](https://news.ycombinator.com/item?id=35284187) - [Police sue rapper Afroman for using footage of home raid in his music videos](https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman)
 * [2023-03-24, 01:37:08](https://news.ycombinator.com/item?id=35283967) - [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
 * [2023-03-23, 23:19:52](https://news.ycombinator.com/item?id=35282892) - [Introduction to P vs. NP](https://wesammikhail.com/2023/03/22/the-complexity-series-p1-p-vs-np/)
@@ -23,7 +24,6 @@
 * [2023-03-23, 11:51:02](https://news.ycombinator.com/item?id=35273273) - [Fascination of Awk](https://maximullaris.com/awk.html)
 * [2023-03-23, 11:36:57](https://news.ycombinator.com/item?id=35273139) - [Juice](https://garden.bradwoods.io/notes/design/juice)
 * [2023-03-23, 10:26:43](https://news.ycombinator.com/item?id=35272536) - [Ask HN: Tools to learn music theory?](https://news.ycombinator.com/item?id=35272536)
-* [2023-03-23, 08:30:36](https://news.ycombinator.com/item?id=35271831) - [Ben Denzer, 2011–Present](https://2011-present.bendenzer.com/)
 * [2023-03-23, 07:27:11](https://news.ycombinator.com/item?id=35271498) - [Practical Libc-free threading on Linux](https://nullprogram.com/blog/2023/03/23/)
 * [2023-03-23, 04:49:11](https://news.ycombinator.com/item?id=35270660) - [Scaling Rust Builds with Bazel](https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html)
 * [2023-03-22, 23:39:16](https://news.ycombinator.com/item?id=35268594) - [Dungeons &amp; Developers](https://allenpike.com/2022/dungeons-devs-simulation-roleplaying)

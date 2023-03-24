@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 12:34:50](https://news.ycombinator.com/item?id=35288190) - [Post-GPT Computing](https://grady.io/post-gpt-computing/)
+* [2023-03-24, 12:30:58](https://news.ycombinator.com/item?id=35288151) - [Ask HN: Trauma has broken me. Nothing has worked. Alternatives to suicide?](https://news.ycombinator.com/item?id=35288151)
 * [2023-03-24, 12:15:25](https://news.ycombinator.com/item?id=35288015) - [LoRA: Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
 * [2023-03-24, 12:01:00](https://news.ycombinator.com/item?id=35287892) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35287892)
 * [2023-03-24, 11:41:14](https://news.ycombinator.com/item?id=35287740) - [Alpaca-LoRA with Docker](https://github.com/chris-alexiuk/alpaca-lora)
