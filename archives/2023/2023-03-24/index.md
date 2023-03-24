@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 15:35:36](https://news.ycombinator.com/item?id=35290460) - [UK: Food inflation rises to 18.2% as it hits highest rate in over 45 years](https://www.grocerygazette.co.uk/2023/03/22/food-inflation-highest-rate/)
 * [2023-03-24, 14:56:47](https://news.ycombinator.com/item?id=35289875) - [Barbados 4–2 Grenada](https://en.wikipedia.org/wiki/Barbados_4%E2%80%932_Grenada)
 * [2023-03-24, 14:40:22](https://news.ycombinator.com/item?id=35289644) - [More Americans are using ‘buy now, pay later’ services to pay for groceries](https://www.marketwatch.com/story/more-americans-are-using-buy-now-pay-later-services-to-pay-for-groceries-2f583d1c)
 * [2023-03-24, 14:31:17](https://news.ycombinator.com/item?id=35289537) - [Google discloses CentOS Linux kernel vulnerabilities citing failure to fix](https://www.neowin.net/news/google-discloses-centos-linux-kernel-vulnerabilities-following-failure-to-issue-timely-fixes/)
@@ -13,6 +14,7 @@
 * [2023-03-24, 13:48:56](https://news.ycombinator.com/item?id=35289044) - [Sam Altman didn’t take any equity in OpenAI, report says](https://www.cnbc.com/2023/03/24/openai-ceo-sam-altman-didnt-take-any-equity-in-the-company-semafor.html)
 * [2023-03-24, 13:35:41](https://news.ycombinator.com/item?id=35288860) - [Kobold, a new web UI crate with zero-cost static DOM](https://maciej.codes/2023-03-23-kobold.html)
 * [2023-03-24, 13:21:40](https://news.ycombinator.com/item?id=35288683) - [Accenture slashes 19,000 jobs worldwide](https://www.cnn.com/2023/03/23/business/accenture-job-cuts-19000/index.html)
+* [2023-03-24, 12:47:32](https://news.ycombinator.com/item?id=35288324) - [Employee claims she can&#x27;t use Microsoft Windows for “Religious Reasons”](https://www.linux.org/threads/employee-claims-she-cant-use-microsoft-windows-for-religious-reasons.44220/)
 * [2023-03-24, 12:34:50](https://news.ycombinator.com/item?id=35288190) - [Post-GPT Computing](https://grady.io/post-gpt-computing/)
 * [2023-03-24, 12:30:58](https://news.ycombinator.com/item?id=35288151) - [Ask HN: Trauma has broken me. Nothing has worked. Alternatives to suicide?](https://news.ycombinator.com/item?id=35288151)
 * [2023-03-24, 12:21:36](https://news.ycombinator.com/item?id=35288071) - [Louis Rossmann – [RANT] The lower rungs on the economic ladder are gone](https://www.youtube.com/watch?v=RUYUzlRgt_Q)
