@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-24, 19:31:24](https://news.ycombinator.com/item?id=35294286) - [Florida parents upset by Michelangelo’s ‘David’ force out principal](https://www.washingtonpost.com/education/2023/03/24/florida-principal-michelangelo-david-parents/)
+* [2023-03-24, 19:52:14](https://news.ycombinator.com/item?id=35294530) - [Which city builds skyscrapers the fastest?](https://constructionphysics.substack.com/p/which-city-builds-skyscrapers-the)
 * [2023-03-24, 19:18:04](https://news.ycombinator.com/item?id=35294111) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
-* [2023-03-24, 19:15:18](https://news.ycombinator.com/item?id=35294082) - [OpenAI CEO &#x27;feels awful&#x27; about ChatGPT leaking conversations](https://www.theregister.com/2023/03/23/openai_ceo_leak/)
 * [2023-03-24, 18:35:21](https://news.ycombinator.com/item?id=35293561) - [Arm wants to charge dramatically more for chip licenses](https://arstechnica.com/gadgets/2023/03/risc-y-business-arm-wants-to-charge-dramatically-more-for-chip-licenses/)
 * [2023-03-24, 18:01:26](https://news.ycombinator.com/item?id=35293101) - [Bing sees 15.8% boost in visits following GPT-4 push, as Google sees a decline](https://www.reuters.com/technology/openai-tech-gives-microsofts-bing-boost-search-battle-with-google-2023-03-22/)
 * [2023-03-24, 17:43:00](https://news.ycombinator.com/item?id=35292798) - [France: Mass surveillance at Olympics undermines EU efforts to regulate AI](https://www.amnesty.org/en/latest/news/2023/03/france-allowing-mass-surveillance-at-olympics-undermines-eu-efforts-to-regulate-ai/)
@@ -26,6 +25,7 @@
 * [2023-03-24, 08:40:09](https://news.ycombinator.com/item?id=35286544) - [Framework Laptop 16](https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 * [2023-03-24, 02:41:57](https://news.ycombinator.com/item?id=35284402) - [Subterranean Treasures: Cormac McCarthy’s late style](https://www.thenation.com/article/culture/cormac-mccarthy-late-style/)
+* [2023-03-24, 00:24:39](https://news.ycombinator.com/item?id=35283452) - [Loess Regression](https://en.wikipedia.org/wiki/Local_regression)
 * [2023-03-23, 22:41:06](https://news.ycombinator.com/item?id=35282434) - [The Pocahontas Exception](https://www.lrb.co.uk/the-paper/v45/n07/thomas-laqueur/the-pocahontas-exception)
 * [2023-03-23, 11:51:02](https://news.ycombinator.com/item?id=35273273) - [Fascination of Awk](https://maximullaris.com/awk.html)
 * [2023-03-23, 11:40:11](https://news.ycombinator.com/item?id=35273166) - [True 3D is much tougher than 2.5D](https://semiengineering.com/true-3d-is-much-tougher-than-2-5d/)
