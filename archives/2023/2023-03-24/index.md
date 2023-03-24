@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 21:29:00](https://news.ycombinator.com/item?id=35295837) - [Docker no longer sunsetting Free Teams](https://www.docker.com/developers/free-team-faq/)
+* [2023-03-24, 21:26:52](https://news.ycombinator.com/item?id=35295807) - [Docker: We’re No Longer Sunsetting the Free Team Plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 * [2023-03-24, 21:05:00](https://news.ycombinator.com/item?id=35295495) - [Omnipedia](https://omnipedia.app/)
 * [2023-03-24, 20:46:31](https://news.ycombinator.com/item?id=35295216) - [GitHub&#x27;s User Content certificate has expired](https://github.com/)
 * [2023-03-24, 20:44:47](https://news.ycombinator.com/item?id=35295191) - [Expired SSL Certificate at GitHub](https://objects.githubusercontent.com/)
