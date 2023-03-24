@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-24, 04:03:50",
+      "https://news.ycombinator.com/item?id=35284957"
+    ],
+    [
+      "RP2040 Runs Linux Through RISC-V Emulation",
+      "https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation/"
+    ]
+  ],
+  [
+    [
+      "2023-03-24, 03:49:13",
+      "https://news.ycombinator.com/item?id=35284885"
+    ],
+    [
+      "NASA ICER image compression algorithm as a C library",
+      "https://github.com/TheRealOrange/icer_compression"
+    ]
+  ],
+  [
+    [
       "2023-03-24, 02:27:55",
       "https://news.ycombinator.com/item?id=35284314"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2023-03-24, 02:04:02",
-      "https://news.ycombinator.com/item?id=35284143"
-    ],
-    [
-      "Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes",
-      "https://danacohen95.github.io/Set-the-Scene/"
-    ]
-  ],
-  [
-    [
       "2023-03-24, 01:37:08",
       "https://news.ycombinator.com/item?id=35283967"
     ],
@@ -47,16 +57,6 @@
     [
       "We built semantic search for ArXiv",
       "https://sigmoidprime.com/post/searchthearxiv/"
-    ]
-  ],
-  [
-    [
-      "2023-03-23, 23:37:21",
-      "https://news.ycombinator.com/item?id=35283067"
-    ],
-    [
-      "The Origin of the Word Daemon (2002)",
-      "https://ei.cs.vt.edu/~history/Daemon.html"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2023-03-23, 13:33:10",
-      "https://news.ycombinator.com/item?id=35274519"
+      "2023-03-23, 09:40:21",
+      "https://news.ycombinator.com/item?id=35272227"
     ],
     [
-      "The FTC wants to ban tough-to-cancel subscriptions",
-      "https://www.theverge.com/2023/3/23/23652373/ftc-click-to-cancel-subscription-service-dark-patterns-ban"
+      "The drama in trying to convert election PDFs to Spreadsheets",
+      "https://markessien.com/posts/drama_of_transcription/"
     ]
   ],
   [
