@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-24, 23:00:13](https://news.ycombinator.com/item?id=35296823) - [Former governor of the Bank of England:Needless money-printing fuelled inflation](https://www.spectator.co.uk/article/mervyn-king-needless-money-printing-fuelled-inflation/)
 * [2023-03-24, 21:51:06](https://news.ycombinator.com/item?id=35296131) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
-* [2023-03-24, 21:47:38](https://news.ycombinator.com/item?id=35296092) - [Levi’s to use AI-generated models to “Increase Diversity”](https://petapixel.com/2023/03/24/levis-to-use-ai-generated-models-to-increase-diversity/)
-* [2023-03-24, 21:26:52](https://news.ycombinator.com/item?id=35295807) - [We’re No Longer Sunsetting the Free Team Plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
+* [2023-03-24, 21:26:52](https://news.ycombinator.com/item?id=35295807) - [We’re no longer sunsetting the free team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
+* [2023-03-24, 20:35:59](https://news.ycombinator.com/item?id=35295071) - [There&#x27;s a &#x27;subterranean Galapagos&#x27; deep inside the Earth](https://www.vice.com/en/article/mbyxw4/theres-a-subterranean-galapagos-deep-inside-the-earth)
+* [2023-03-24, 20:14:52](https://news.ycombinator.com/item?id=35294818) - [Show HN: The Shark Programming Language](https://github.com/shogundevel/shark)
 * [2023-03-24, 19:18:04](https://news.ycombinator.com/item?id=35294111) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
 * [2023-03-24, 18:01:26](https://news.ycombinator.com/item?id=35293101) - [OpenAI tech gives Microsoft&#x27;s Bing a boost in search battle with Google](https://www.reuters.com/technology/openai-tech-gives-microsofts-bing-boost-search-battle-with-google-2023-03-22/)
 * [2023-03-24, 17:43:00](https://news.ycombinator.com/item?id=35292798) - [Allowing mass surveillance at Olympics undermines EU efforts to regulate AI](https://www.amnesty.org/en/latest/news/2023/03/france-allowing-mass-surveillance-at-olympics-undermines-eu-efforts-to-regulate-ai/)
