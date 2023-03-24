@@ -15,6 +15,7 @@
 * [2023-03-24, 13:48:56](https://news.ycombinator.com/item?id=35289044) - [Sam Altman didn’t take any equity in OpenAI, report says](https://www.cnbc.com/2023/03/24/openai-ceo-sam-altman-didnt-take-any-equity-in-the-company-semafor.html)
 * [2023-03-24, 13:35:41](https://news.ycombinator.com/item?id=35288860) - [Kobold, a new web UI crate with zero-cost static DOM](https://maciej.codes/2023-03-23-kobold.html)
 * [2023-03-24, 13:21:40](https://news.ycombinator.com/item?id=35288683) - [Accenture slashes 19,000 jobs worldwide](https://www.cnn.com/2023/03/23/business/accenture-job-cuts-19000/index.html)
+* [2023-03-24, 13:14:52](https://news.ycombinator.com/item?id=35288606) - [Tell HN: We need to push the notion that only open-source LLMs can be “safe”](https://news.ycombinator.com/item?id=35288606)
 * [2023-03-24, 12:47:32](https://news.ycombinator.com/item?id=35288324) - [Employee claims she can&#x27;t use Microsoft Windows for “Religious Reasons”](https://www.linux.org/threads/employee-claims-she-cant-use-microsoft-windows-for-religious-reasons.44220/)
 * [2023-03-24, 12:34:50](https://news.ycombinator.com/item?id=35288190) - [Post-GPT Computing](https://grady.io/post-gpt-computing/)
 * [2023-03-24, 12:30:58](https://news.ycombinator.com/item?id=35288151) - [Ask HN: Trauma has broken me. Nothing has worked. Alternatives to suicide?](https://news.ycombinator.com/item?id=35288151)

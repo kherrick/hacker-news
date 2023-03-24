@@ -61,6 +61,7 @@
 * [2023-03-23, 12:33:13](https://news.ycombinator.com/item?id=35273707) - [Mathematicians discover shape that can tile a wall and never repeat](https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/)
 * [2023-03-23, 12:27:23](https://news.ycombinator.com/item?id=35273641) - [F-150 Lightning Recall Due to SK Cells](https://finance.yahoo.com/news/ford-f-150-lightning-recall-reveals-cause-of-battery-fire-173034051.html)
 * [2023-03-23, 12:23:11](https://news.ycombinator.com/item?id=35273586) - [Everything I, an Italian, thought I knew about Italian food is wrong](https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c)
+* [2023-03-23, 12:17:39](https://news.ycombinator.com/item?id=35273533) - [What do you mean by “Memory Management”?](https://www.deusinmachina.net/p/what-is-memory-management)
 * [2023-03-23, 12:09:57](https://news.ycombinator.com/item?id=35273449) - [Nvidia Tackles Chipmaking Process, Claims 40X Speed Up with CuLitho](https://www.tomshardware.com/news/nvidia-tackles-chipmaking-process-claims-40x-speed-up-with-culitho)
 * [2023-03-23, 12:06:14](https://news.ycombinator.com/item?id=35273406) - [Cheating Is All You Need](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
 * [2023-03-23, 12:04:10](https://news.ycombinator.com/item?id=35273398) - [Accenture would cut 19,000 jobs](https://www.reuters.com/technology/accenture-forecasts-third-quarter-revenue-below-estimates-2023-03-23/)
