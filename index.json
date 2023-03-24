@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-24, 13:21:40",
+      "https://news.ycombinator.com/item?id=35288683"
+    ],
+    [
+      "Accenture slashes 19,000 jobs worldwide",
+      "https://www.cnn.com/2023/03/23/business/accenture-job-cuts-19000/index.html"
+    ]
+  ],
+  [
+    [
       "2023-03-24, 12:34:50",
       "https://news.ycombinator.com/item?id=35288190"
     ],
@@ -247,16 +257,6 @@
     [
       "Practical Libc-free threading on Linux",
       "https://nullprogram.com/blog/2023/03/23/"
-    ]
-  ],
-  [
-    [
-      "2023-03-23, 04:49:11",
-      "https://news.ycombinator.com/item?id=35270660"
-    ],
-    [
-      "Scaling Rust Builds with Bazel",
-      "https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html"
     ]
   ],
   [
