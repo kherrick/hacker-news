@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-25, 19:51:29](https://news.ycombinator.com/item?id=35306506) - [An Eevdf CPU Scheduler for Linux](https://lwn.net/Articles/925371/)
+* [2023-03-25, 19:51:29](https://news.ycombinator.com/item?id=35306506) - [An EEVDF CPU Scheduler for Linux](https://lwn.net/Articles/925371/)
+* [2023-03-25, 19:36:30](https://news.ycombinator.com/item?id=35306312) - [Proposed dam to protect NL, DE, DK, SE from rising sea levels](https://haaksezeedijk.com/dhz/dijkenbekkens/)
 * [2023-03-25, 19:15:17](https://news.ycombinator.com/item?id=35306042) - [Management structures at various large companies [image]](https://goomics.net/62/)
 * [2023-03-25, 18:40:14](https://news.ycombinator.com/item?id=35305655) - [Experimental library for scraping websites using OpenAI&#x27;s GPT API](https://jamesturk.github.io/scrapeghost/)
 * [2023-03-25, 17:59:17](https://news.ycombinator.com/item?id=35305224) - [Any type of hormonal contraceptive may increase risk of breast cancer](https://www.ox.ac.uk/news/2023-03-22-any-type-hormonal-contraceptive-may-increase-risk-breast-cancer-0)
@@ -27,7 +28,6 @@
 * [2023-03-25, 00:07:49](https://news.ycombinator.com/item?id=35297420) - [Gordon Moore has died](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
 * [2023-03-24, 21:37:36](https://news.ycombinator.com/item?id=35295943) - [Mr. Electrico, a sideshow magician who inspired Ray Bradbury, then vanished](https://www.smithsonianmag.com/history/the-sideshow-magician-who-inspired-ray-bradburythen-vanished-180981764/)
 * [2023-03-24, 08:14:42](https://news.ycombinator.com/item?id=35286389) - [Determined: Deep Learning Training Platform](https://github.com/determined-ai/determined)
-* [2023-03-24, 07:49:55](https://news.ycombinator.com/item?id=35286221) - [How big should a programming language be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 * [2023-03-24, 06:40:05](https://news.ycombinator.com/item?id=35285769) - [Comparing Hobby PCB Vendors](https://lcamtuf.substack.com/p/comparing-hobby-pcb-vendors)
 * [2023-03-24, 05:52:24](https://news.ycombinator.com/item?id=35285518) - [Why Take a Compiler Course?](https://blog.regehr.org/archives/169)
 
