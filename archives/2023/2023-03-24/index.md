@@ -71,6 +71,7 @@
 * [2023-03-24, 10:24:13](https://news.ycombinator.com/item?id=35287202) - [Rocket-powered space planes get approval to operate out of NZ airports](https://www.stuff.co.nz/business/131599726/rocketpowered-space-planes-get-approval-to-operate-out-of-nz-airports)
 * [2023-03-24, 10:13:02](https://news.ycombinator.com/item?id=35287128) - [Define Wokeness Or how you shall know a word by the company it keeps](https://davidrozado.substack.com/p/wo)
 * [2023-03-24, 09:01:39](https://news.ycombinator.com/item?id=35286681) - [Anime dating sim that also does your taxes](https://taxheaven3000.com/)
+* [2023-03-24, 08:42:35](https://news.ycombinator.com/item?id=35286563) - [WGA Would Allow Artificial Intelligence in Scriptwriting](https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/)
 * [2023-03-24, 08:42:22](https://news.ycombinator.com/item?id=35286561) - [Humans have reclaimed ‘land size of Luxembourg’ since 2000](https://www.theguardian.com/science/2023/mar/22/humans-have-reclaimed-land-size-of-luxembourg-since-2000)
 * [2023-03-24, 08:40:09](https://news.ycombinator.com/item?id=35286544) - [The Framework Laptop 16](https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16)
 * [2023-03-24, 06:58:03](https://news.ycombinator.com/item?id=35285886) - [I saw the face of God in a semiconductor factory](https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/)
