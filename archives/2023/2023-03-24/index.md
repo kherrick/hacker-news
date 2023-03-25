@@ -82,6 +82,7 @@
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 * [2023-03-24, 05:01:41](https://news.ycombinator.com/item?id=35285263) - [‘Most are unaware’: film highlights Germany’s genocidal past in Namibia](https://www.theguardian.com/world/2023/mar/22/most-are-unaware-film-highlights-germanys-genocidal-past-in-namibia)
 * [2023-03-24, 04:59:14](https://news.ycombinator.com/item?id=35285251) - [The Paja Formation: An ecosystem of monsters](https://arstechnica.com/science/2023/03/the-paja-formation-an-ecosystem-of-monsters/)
+* [2023-03-24, 04:41:30](https://news.ycombinator.com/item?id=35285161) - [I’m Not Dead Yet (2016)](https://www.theparisreview.org/blog/2016/01/06/im-not-dead-yet/)
 * [2023-03-24, 04:03:50](https://news.ycombinator.com/item?id=35284957) - [RP2040 Runs Linux Through RISC-V Emulation](https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation/)
 * [2023-03-24, 03:49:13](https://news.ycombinator.com/item?id=35284885) - [NASA ICER image compression algorithm as a C library](https://github.com/TheRealOrange/icer_compression)
 * [2023-03-24, 03:40:37](https://news.ycombinator.com/item?id=35284823) - [Cadillac Ranch](https://en.wikipedia.org/wiki/Cadillac_Ranch)
