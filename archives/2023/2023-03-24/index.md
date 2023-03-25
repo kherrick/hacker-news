@@ -60,6 +60,7 @@
 * [2023-03-24, 12:21:20](https://news.ycombinator.com/item?id=35288063) - [Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
 * [2023-03-24, 12:21:02](https://news.ycombinator.com/item?id=35288059) - [The Tug-of-War over Server-Side WebAssembly](https://digest.browsertech.com/archive/browsertech-digest-the-webassembly-rift/)
 * [2023-03-24, 12:15:25](https://news.ycombinator.com/item?id=35288015) - [LoRA: Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
+* [2023-03-24, 12:02:19](https://news.ycombinator.com/item?id=35287901) - [Show HN: Naja-Verilog – Structural Verilog Parser](https://github.com/xtofalex/naja-verilog)
 * [2023-03-24, 12:01:00](https://news.ycombinator.com/item?id=35287892) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35287892)
 * [2023-03-24, 11:58:35](https://news.ycombinator.com/item?id=35287868) - [Deutsche Bank Shares Plunge in Renewed Bout of Stress](https://www.bloomberg.com/news/articles/2023-03-24/europe-s-banks-erase-weekly-gains-as-us-probe-adds-to-concerns)
 * [2023-03-24, 11:41:14](https://news.ycombinator.com/item?id=35287740) - [Alpaca-LoRA with Docker](https://github.com/chris-alexiuk/alpaca-lora)
