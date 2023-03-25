@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-25, 11:04:28](https://news.ycombinator.com/item?id=35301447) - [Everything we know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
+* [2023-03-25, 10:00:45](https://news.ycombinator.com/item?id=35301138) - [Common Lisp Quick Reference](http://clqr.boundp.org)
 * [2023-03-25, 09:28:38](https://news.ycombinator.com/item?id=35300977) - [Principal resigns after Florida students shown Michelangelo statue](https://www.bbc.co.uk/news/world-us-canada-65071989)
 * [2023-03-25, 07:58:11](https://news.ycombinator.com/item?id=35300482) - [Yunohost: Get Off of My Cloud](https://yunohost.org)
 * [2023-03-25, 07:50:54](https://news.ycombinator.com/item?id=35300437) - [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
@@ -23,13 +25,11 @@
 * [2023-03-24, 17:23:01](https://news.ycombinator.com/item?id=35292422) - [Engineers Need to Write](https://www.developing.dev/p/why-engineers-need-to-write)
 * [2023-03-24, 12:02:19](https://news.ycombinator.com/item?id=35287901) - [Show HN: Naja-Verilog – Structural Verilog Parser](https://github.com/xtofalex/naja-verilog)
 * [2023-03-24, 10:57:15](https://news.ycombinator.com/item?id=35287420) - [Sfbook.com: Providing book reviews of speculative fiction since 1999](https://sfbook.com/our-story.htm)
-* [2023-03-24, 10:34:06](https://news.ycombinator.com/item?id=35287263) - [Art sleuths reunited a family after centuries apart](https://www.npr.org/2023/03/22/1165011263/painting-history-cornelis-de-vos-mystery-rkd-netherlands)
 * [2023-03-24, 10:32:29](https://news.ycombinator.com/item?id=35287253) - [Page Builders Might Not Be a Good Idea](https://www.silvestar.codes/articles/page-builders-might-not-be-a-good-idea/)
 * [2023-03-24, 08:42:35](https://news.ycombinator.com/item?id=35286563) - [WGA Would Allow Artificial Intelligence in Scriptwriting](https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/)
 * [2023-03-24, 07:23:50](https://news.ycombinator.com/item?id=35286068) - [Large-scale iterated singing experiments reveal music evolution](https://www.cell.com/current-biology/fulltext/S0960-9822%2823%2900243-9)
 * [2023-03-24, 05:53:18](https://news.ycombinator.com/item?id=35285521) - [Understanding Glibc Malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
-* [2023-03-24, 04:41:30](https://news.ycombinator.com/item?id=35285161) - [I’m Not Dead Yet (2016)](https://www.theparisreview.org/blog/2016/01/06/im-not-dead-yet/)
 
 ## [Archives](archives/index.md)
 
