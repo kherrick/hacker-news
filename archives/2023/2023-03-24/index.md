@@ -66,6 +66,7 @@
 * [2023-03-24, 11:58:35](https://news.ycombinator.com/item?id=35287868) - [Deutsche Bank Shares Plunge in Renewed Bout of Stress](https://www.bloomberg.com/news/articles/2023-03-24/europe-s-banks-erase-weekly-gains-as-us-probe-adds-to-concerns)
 * [2023-03-24, 11:41:14](https://news.ycombinator.com/item?id=35287740) - [Alpaca-LoRA with Docker](https://github.com/chris-alexiuk/alpaca-lora)
 * [2023-03-24, 11:40:09](https://news.ycombinator.com/item?id=35287733) - [Facebook is aggressively going after LLaMA repos with DMCA&#x27;s](https://twitter.com/theshawwn/status/1638925249709240322)
+* [2023-03-24, 11:19:25](https://news.ycombinator.com/item?id=35287561) - [Wittgenstein&#x27;s Ladder](https://en.wikipedia.org/wiki/Wittgenstein%27s_ladder)
 * [2023-03-24, 10:59:55](https://news.ycombinator.com/item?id=35287436) - [Show HN: Use ChatGPT, Bing and Bard in one app](https://github.com/chathub-dev/chathub)
 * [2023-03-24, 10:57:15](https://news.ycombinator.com/item?id=35287420) - [Sfbook.com: Providing book reviews of speculative fiction since 1999](https://sfbook.com/our-story.htm)
 * [2023-03-24, 10:48:17](https://news.ycombinator.com/item?id=35287365) - [Show HN: Hacker News Summarizer (Chrome Extension)](https://chrome.google.com/webstore/detail/hacker-news-summarizer/ajodkpllepafdcjcgklhnamlnninjbmd)
