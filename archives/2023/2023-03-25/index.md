@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
 * [2023-03-25, 03:39:38](https://news.ycombinator.com/item?id=35299071) - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
+* [2023-03-25, 02:28:31](https://news.ycombinator.com/item?id=35298588) - [Stripe – Prohibited and Restricted Businesses](https://stripe.com/legal/restricted-businesses)
 * [2023-03-25, 01:55:54](https://news.ycombinator.com/item?id=35298339) - [Orange Pi 5 Is a Great and Fast Alternative to the Raspberry Pi 4](https://www.phoronix.com/review/orange-pi-5)
 * [2023-03-25, 00:52:37](https://news.ycombinator.com/item?id=35297839) - [Cramming More Components onto Integrated Circuits (Gordon Moore, 1965) [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
 * [2023-03-25, 00:44:52](https://news.ycombinator.com/item?id=35297766) - [Automatically document an entire codebase using LLMs](https://github.com/context-labs/autodoc)
