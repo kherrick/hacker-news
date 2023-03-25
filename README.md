@@ -29,7 +29,7 @@
 * [2023-03-24, 04:59:14](https://news.ycombinator.com/item?id=35285251) - [The Paja Formation: An ecosystem of monsters](https://arstechnica.com/science/2023/03/the-paja-formation-an-ecosystem-of-monsters/)
 * [2023-03-24, 04:41:30](https://news.ycombinator.com/item?id=35285161) - [I’m Not Dead Yet (2016)](https://www.theparisreview.org/blog/2016/01/06/im-not-dead-yet/)
 * [2023-03-24, 03:40:37](https://news.ycombinator.com/item?id=35284823) - [Cadillac Ranch](https://en.wikipedia.org/wiki/Cadillac_Ranch)
-* [2023-03-23, 11:45:34](https://news.ycombinator.com/item?id=35273220) - [Simple Shellcode Dissection](https://isc.sans.edu/diary/rss/29642)
+* [2023-03-23, 11:36:57](https://news.ycombinator.com/item?id=35273139) - [Juice](https://garden.bradwoods.io/notes/design/juice)
 
 ## [Archives](archives/index.md)
 
