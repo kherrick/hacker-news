@@ -7,6 +7,7 @@
 * [2023-03-25, 12:20:03](https://news.ycombinator.com/item?id=35301930) - [Ask HN: Is Google Slowly Dying?](https://news.ycombinator.com/item?id=35301930)
 * [2023-03-25, 12:08:05](https://news.ycombinator.com/item?id=35301846) - [Civilization II](https://www.abortretry.fail/p/civilization-ii)
 * [2023-03-25, 12:00:45](https://news.ycombinator.com/item?id=35301795) - [Paperspace (YC W15) is hiring a fullstack engineer to simplify deploying AI apps](https://www.paperspace.com/careers/positions?gh_jid=4180983005&gh_src=652ffa365us)
+* [2023-03-25, 11:44:53](https://news.ycombinator.com/item?id=35301695) - [Errors Made by the CDC During Covid-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
 * [2023-03-25, 11:04:28](https://news.ycombinator.com/item?id=35301447) - [Everything we know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
 * [2023-03-25, 10:00:45](https://news.ycombinator.com/item?id=35301138) - [Common Lisp Quick Reference](http://clqr.boundp.org)
 * [2023-03-25, 09:59:33](https://news.ycombinator.com/item?id=35301129) - [“Can we ban iPhone in retaliation?” Chinese internet reacts to TikTok hearing](https://thechinaproject.com/2023/03/24/can-we-ban-iphone-in-retaliation-chinese-internet-reacts-to-tiktok-hearing-in-the-u-s/)
