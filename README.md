@@ -2,7 +2,6 @@
 
 * [2023-03-25, 07:58:11](https://news.ycombinator.com/item?id=35300482) - [Yunohost: Get Off of My Cloud](https://yunohost.org)
 * [2023-03-25, 07:50:54](https://news.ycombinator.com/item?id=35300437) - [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
-* [2023-03-25, 07:26:19](https://news.ycombinator.com/item?id=35300331) - [Agile Is a Glass Cannon](https://www.tomdalling.com/blog/software-processes/agile-is-a-glass-cannon/)
 * [2023-03-25, 06:59:28](https://news.ycombinator.com/item?id=35300200) - [Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
 * [2023-03-25, 03:39:38](https://news.ycombinator.com/item?id=35299071) - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
 * [2023-03-25, 00:52:37](https://news.ycombinator.com/item?id=35297839) - [Cramming More Components onto Integrated Circuits (1965) [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
@@ -28,6 +27,7 @@
 * [2023-03-24, 08:42:35](https://news.ycombinator.com/item?id=35286563) - [WGA Would Allow Artificial Intelligence in Scriptwriting](https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/)
 * [2023-03-24, 05:53:18](https://news.ycombinator.com/item?id=35285521) - [Understanding Glibc Malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
+* [2023-03-24, 04:59:14](https://news.ycombinator.com/item?id=35285251) - [The Paja Formation: An ecosystem of monsters](https://arstechnica.com/science/2023/03/the-paja-formation-an-ecosystem-of-monsters/)
 * [2023-03-24, 04:41:30](https://news.ycombinator.com/item?id=35285161) - [I’m Not Dead Yet (2016)](https://www.theparisreview.org/blog/2016/01/06/im-not-dead-yet/)
 * [2023-03-24, 03:40:37](https://news.ycombinator.com/item?id=35284823) - [Cadillac Ranch](https://en.wikipedia.org/wiki/Cadillac_Ranch)
 
