@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 15:43:46](https://news.ycombinator.com/item?id=35303799) - [Microsoft Researchers Claim GPT-4 Is Showing “Sparks” of AGI](https://futurism.com/gpt-4-sparks-of-agi)
+* [2023-03-25, 15:33:50](https://news.ycombinator.com/item?id=35303670) - [Think Better with Reflect](https://reflect.app/)
 * [2023-03-25, 15:16:55](https://news.ycombinator.com/item?id=35303486) - [India Shut Down Cell Service for 27M During a Manhunt](https://www.wired.com/story/india-activist-manhunt-sikh-activist/)
+* [2023-03-25, 15:11:24](https://news.ycombinator.com/item?id=35303423) - [Call yourself titles](https://josem.co/call-yourself-titles/)
 * [2023-03-25, 15:08:25](https://news.ycombinator.com/item?id=35303391) - [Major shake-up coming for Fermilab, the troubled U.S. particle physics center](https://www.science.org/content/article/major-shake-coming-fermilab-troubled-u-s-particle-physics-center)
 * [2023-03-25, 14:53:45](https://news.ycombinator.com/item?id=35303210) - [YouTube’s Chaotic Rise to World Domination](https://english.elpais.com/society/2023-03-25/youtubes-chaotic-rise-to-world-domination-not-long-ago-virtually-no-one-took-it-seriously.html)
 * [2023-03-25, 14:42:08](https://news.ycombinator.com/item?id=35303095) - [Sweet Dreams Cereal – Post&#x27;s new product category of “bedtime cereal”](https://www.postconsumerbrands.com/sweet-dreams/)
