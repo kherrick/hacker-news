@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-25, 17:06:05](https://news.ycombinator.com/item?id=35304662) - [Crypto Faces Legal Reckoning as SEC Prepares Action Against Coinbase](https://www.wsj.com/articles/crypto-faces-legal-reckoning-as-sec-prepares-action-against-coinbase-e4c95bf3)
 * [2023-03-25, 17:01:13](https://news.ycombinator.com/item?id=35304593) - [SafeButler (YC S17) Is Hiring software engineer intern](https://www.safebutler.com/careers)
 * [2023-03-25, 16:30:02](https://news.ycombinator.com/item?id=35304241) - [50 years of silence: It&#x27;s time to end the speed limit in US airspace](https://www.elidourado.com/p/50-years-supersonic-ban)
 * [2023-03-25, 16:11:50](https://news.ycombinator.com/item?id=35304078) - [Show HN: Aquarium – AI Controlled Containers](https://github.com/fafrd/aquarium)
@@ -28,7 +29,6 @@
 * [2023-03-24, 08:14:42](https://news.ycombinator.com/item?id=35286389) - [Determined: Deep Learning Training Platform](https://github.com/determined-ai/determined)
 * [2023-03-24, 07:49:55](https://news.ycombinator.com/item?id=35286221) - [How big should a programming language be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 * [2023-03-24, 06:40:05](https://news.ycombinator.com/item?id=35285769) - [Comparing Hobby PCB Vendors](https://lcamtuf.substack.com/p/comparing-hobby-pcb-vendors)
-* [2023-03-24, 05:53:18](https://news.ycombinator.com/item?id=35285521) - [Understanding Glibc Malloc (2015)](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 * [2023-03-23, 08:54:16](https://news.ycombinator.com/item?id=35271977) - [The Malham Dig (2016)](http://www.mudinmyhair.co.uk/Malham%20Dig.html)
 
 ## [Archives](archives/index.md)
