@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 09:28:38](https://news.ycombinator.com/item?id=35300977) - [Principal resigns after Florida students shown Michelangelo statue](https://www.bbc.co.uk/news/world-us-canada-65071989)
 * [2023-03-25, 07:58:11](https://news.ycombinator.com/item?id=35300482) - [Yunohost: Get Off of My Cloud](https://yunohost.org)
 * [2023-03-25, 07:50:54](https://news.ycombinator.com/item?id=35300437) - [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
 * [2023-03-25, 07:26:19](https://news.ycombinator.com/item?id=35300331) - [Agile Is a Glass Cannon](https://www.tomdalling.com/blog/software-processes/agile-is-a-glass-cannon/)

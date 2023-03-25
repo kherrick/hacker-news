@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-25, 09:28:38](https://news.ycombinator.com/item?id=35300977) - [Principal resigns after Florida students shown Michelangelo statue](https://www.bbc.co.uk/news/world-us-canada-65071989)
 * [2023-03-25, 07:58:11](https://news.ycombinator.com/item?id=35300482) - [Yunohost: Get Off of My Cloud](https://yunohost.org)
 * [2023-03-25, 07:50:54](https://news.ycombinator.com/item?id=35300437) - [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
 * [2023-03-25, 06:59:28](https://news.ycombinator.com/item?id=35300200) - [Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
@@ -12,6 +13,7 @@
 * [2023-03-24, 23:27:22](https://news.ycombinator.com/item?id=35297074) - [We ran a phone check at a Y Combinator event in SF](https://blog.getclearspace.com/we-ran-a-phone-check-at-a-ycombinator-event-in-san-francisco-heres-how-it-went-fb920a54c755)
 * [2023-03-24, 23:26:52](https://news.ycombinator.com/item?id=35297067) - [GPT-4 performs significantly worse on coding problems not in its training data](https://twitter.com/cHHillee/status/1635790330854526981)
 * [2023-03-24, 21:51:06](https://news.ycombinator.com/item?id=35296131) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
+* [2023-03-24, 21:37:36](https://news.ycombinator.com/item?id=35295943) - [The Sideshow Magician Who Inspired Ray Bradbury–Then Vanished](https://www.smithsonianmag.com/history/the-sideshow-magician-who-inspired-ray-bradburythen-vanished-180981764/)
 * [2023-03-24, 21:35:04](https://news.ycombinator.com/item?id=35295910) - [Reviving Chromebooks with Ubuntu](https://anarchosolarpunk.substack.com/p/chromebook-revive)
 * [2023-03-24, 20:35:59](https://news.ycombinator.com/item?id=35295071) - [A &#x27;subterranean Galapagos&#x27; inside the Earth](https://www.vice.com/en/article/mbyxw4/theres-a-subterranean-galapagos-deep-inside-the-earth)
 * [2023-03-24, 20:14:52](https://news.ycombinator.com/item?id=35294818) - [Show HN: The Shark Programming Language](https://github.com/shogundevel/shark)
@@ -19,7 +21,6 @@
 * [2023-03-24, 19:18:04](https://news.ycombinator.com/item?id=35294111) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
 * [2023-03-24, 17:23:05](https://news.ycombinator.com/item?id=35292424) - [Women Aquanauts of the 1970s](https://www.atlasobscura.com/articles/women-aquanauts-tektite-ii)
 * [2023-03-24, 17:23:01](https://news.ycombinator.com/item?id=35292422) - [Engineers Need to Write](https://www.developing.dev/p/why-engineers-need-to-write)
-* [2023-03-24, 16:54:38](https://news.ycombinator.com/item?id=35291936) - [Reliability via Automated Renewal Information](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
 * [2023-03-24, 12:02:19](https://news.ycombinator.com/item?id=35287901) - [Show HN: Naja-Verilog – Structural Verilog Parser](https://github.com/xtofalex/naja-verilog)
 * [2023-03-24, 10:57:15](https://news.ycombinator.com/item?id=35287420) - [Sfbook.com: Providing book reviews of speculative fiction since 1999](https://sfbook.com/our-story.htm)
 * [2023-03-24, 10:34:06](https://news.ycombinator.com/item?id=35287263) - [Art sleuths reunited a family after centuries apart](https://www.npr.org/2023/03/22/1165011263/painting-history-cornelis-de-vos-mystery-rkd-netherlands)
@@ -29,7 +30,6 @@
 * [2023-03-24, 05:53:18](https://news.ycombinator.com/item?id=35285521) - [Understanding Glibc Malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 * [2023-03-24, 04:41:30](https://news.ycombinator.com/item?id=35285161) - [I’m Not Dead Yet (2016)](https://www.theparisreview.org/blog/2016/01/06/im-not-dead-yet/)
-* [2023-03-24, 03:40:37](https://news.ycombinator.com/item?id=35284823) - [Cadillac Ranch](https://en.wikipedia.org/wiki/Cadillac_Ranch)
 
 ## [Archives](archives/index.md)
 
