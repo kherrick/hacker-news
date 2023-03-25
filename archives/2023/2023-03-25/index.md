@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 23:43:25](https://news.ycombinator.com/item?id=35308796) - [Proxmox doesn&#x27;t handle daylight savings time, hangs systemd and breaks systems](https://forum.proxmox.com/threads/systemd-100-cpu-hang.124767/)
 * [2023-03-25, 22:37:53](https://news.ycombinator.com/item?id=35308246) - [My experience crafting an interpreter with Rust (2021)](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
 * [2023-03-25, 22:36:16](https://news.ycombinator.com/item?id=35308229) - [Vibrator maker ordered to pay out C$4M for tracking users&#x27; sexual activity](https://www.theguardian.com/technology/2017/mar/14/we-vibe-vibrator-tracking-users-sexual-habits)
 * [2023-03-25, 22:16:57](https://news.ycombinator.com/item?id=35308047) - [A video game has revolutionised the way farmers are buying tractors](https://www.theguardian.com/games/2023/mar/25/flight-simulator-for-tractors-how-a-video-game-is-enticing-farmers-on-to-xbox)
