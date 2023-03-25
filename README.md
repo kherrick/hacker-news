@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-25, 00:52:37](https://news.ycombinator.com/item?id=35297839) - [Cramming More Components onto Integrated Circuits (Gordon Moore, 1965) [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
+* [2023-03-25, 00:44:52](https://news.ycombinator.com/item?id=35297766) - [Automatically document an entire codebase using LLMs](https://github.com/context-labs/autodoc)
 * [2023-03-25, 00:15:11](https://news.ycombinator.com/item?id=35297491) - [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
 * [2023-03-25, 00:15:05](https://news.ycombinator.com/item?id=35297487) - [In Memoriam: Gordon Moore, 1929 – 2023](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
-* [2023-03-25, 00:07:49](https://news.ycombinator.com/item?id=35297420) - [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intc.com/news-events/press-releases/detail/1611/gordon-moore-intel-co-founder-dies-at-94)
+* [2023-03-25, 00:07:49](https://news.ycombinator.com/item?id=35297420) - [Gordon Moore has died](https://www.intc.com/news-events/press-releases/detail/1611/gordon-moore-intel-co-founder-dies-at-94)
 * [2023-03-25, 00:04:27](https://news.ycombinator.com/item?id=35297389) - [Goodbye to Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 * [2023-03-24, 23:31:57](https://news.ycombinator.com/item?id=35297117) - [Judge Decides Against Internet Archive](https://file770.com/judge-decides-against-internet-archive/)
 * [2023-03-24, 23:27:22](https://news.ycombinator.com/item?id=35297074) - [We Ran a Phone Check at a Y Combinator Event in SF. Here’s How It Went](https://blog.getclearspace.com/we-ran-a-phone-check-at-a-ycombinator-event-in-san-francisco-heres-how-it-went-fb920a54c755)
@@ -29,7 +30,6 @@
 * [2023-03-24, 04:59:14](https://news.ycombinator.com/item?id=35285251) - [The Paja Formation: An ecosystem of monsters](https://arstechnica.com/science/2023/03/the-paja-formation-an-ecosystem-of-monsters/)
 * [2023-03-24, 03:40:37](https://news.ycombinator.com/item?id=35284823) - [Cadillac Ranch](https://en.wikipedia.org/wiki/Cadillac_Ranch)
 * [2023-03-23, 11:45:34](https://news.ycombinator.com/item?id=35273220) - [Simple Shellcode Dissection](https://isc.sans.edu/diary/rss/29642)
-* [2023-03-22, 15:00:51](https://news.ycombinator.com/item?id=35262098) - [The grotesque side of Leonardo da Vinci](https://www.theguardian.com/artanddesign/2023/mar/15/mona-lisa-monstrous-grotesque-leonardo-da-vinci-national-gallery-ugly-duchess)
 
 ## [Archives](archives/index.md)
 
