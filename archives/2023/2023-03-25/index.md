@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 14:53:45](https://news.ycombinator.com/item?id=35303210) - [YouTube’s Chaotic Rise to World Domination](https://english.elpais.com/society/2023-03-25/youtubes-chaotic-rise-to-world-domination-not-long-ago-virtually-no-one-took-it-seriously.html)
+* [2023-03-25, 14:17:41](https://news.ycombinator.com/item?id=35302858) - [CodeAlpaca – Instruction following code generation model](https://github.com/sahil280114/codealpaca)
 * [2023-03-25, 14:09:22](https://news.ycombinator.com/item?id=35302767) - [Theo de Raadt: Synthetic Memory Protections (CanSecWest 2023) [OpenBSD] [pdf]](https://www.openbsd.org/papers/csw2023.pdf)
 * [2023-03-25, 14:04:28](https://news.ycombinator.com/item?id=35302735) - [Freedom Clock](https://domsson.github.io/freedom-clock/)
 * [2023-03-25, 13:58:21](https://news.ycombinator.com/item?id=35302682) - [Nothing is stopping feral pigs in Canada](https://www.fieldandstream.com/conservation/canada-super-pig-population-graphics/)
@@ -29,6 +31,7 @@
 * [2023-03-25, 07:11:02](https://news.ycombinator.com/item?id=35300259) - [Public Domain Operating System](http://www.pdos.org/)
 * [2023-03-25, 06:59:28](https://news.ycombinator.com/item?id=35300200) - [Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
 * [2023-03-25, 06:57:17](https://news.ycombinator.com/item?id=35300185) - [Building Snowman Using Transaction Isolation Levels](https://www.bitesizedengineering.com/p/database-isolation-levels-explained)
+* [2023-03-25, 05:54:06](https://news.ycombinator.com/item?id=35299885) - [Immune System Cells in the Gut Linked to Stress-Induced Depression](https://www.hopkinsmedicine.org/news/newsroom/news-releases/new-evidence-immune-system-cells-in-the-gut-linked-to-stress-induced-depression)
 * [2023-03-25, 03:39:38](https://news.ycombinator.com/item?id=35299071) - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
 * [2023-03-25, 02:28:31](https://news.ycombinator.com/item?id=35298588) - [Stripe – Prohibited and Restricted Businesses](https://stripe.com/legal/restricted-businesses)
 * [2023-03-25, 01:55:54](https://news.ycombinator.com/item?id=35298339) - [Orange Pi 5 Is a Great and Fast Alternative to the Raspberry Pi 4](https://www.phoronix.com/review/orange-pi-5)
