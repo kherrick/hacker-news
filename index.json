@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-25, 22:37:53",
+      "https://news.ycombinator.com/item?id=35308246"
+    ],
+    [
+      "My experience crafting an interpreter with Rust (2021)",
+      "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
+    ]
+  ],
+  [
+    [
+      "2023-03-25, 22:36:16",
+      "https://news.ycombinator.com/item?id=35308229"
+    ],
+    [
+      "Vibrator maker ordered to pay out C$4M for tracking users&#x27; sexual activity",
+      "https://www.theguardian.com/technology/2017/mar/14/we-vibe-vibrator-tracking-users-sexual-habits"
+    ]
+  ],
+  [
+    [
       "2023-03-25, 22:15:44",
       "https://news.ycombinator.com/item?id=35308033"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-03-25, 17:14:41",
-      "https://news.ycombinator.com/item?id=35304766"
-    ],
-    [
-      "The secret joke at the heart of the Harvard affirmative-action case",
-      "https://www.newyorker.com/news/our-columnists/the-secret-joke-at-the-heart-of-the-harvard-affirmative-action-case"
-    ]
-  ],
-  [
-    [
       "2023-03-25, 17:01:13",
       "https://news.ycombinator.com/item?id=35304593"
     ],
@@ -147,16 +157,6 @@
     [
       "Time to end the speed limit in US airspace?",
       "https://www.elidourado.com/p/50-years-supersonic-ban"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 15:54:46",
-      "https://news.ycombinator.com/item?id=35303902"
-    ],
-    [
-      "Eugénie Brazier: The legendary &#x27;mother of French cuisine&#x27;",
-      "https://www.bbc.com/travel/article/20230320-eugnie-brazier-the-legendary-mother-of-french-cuisine"
     ]
   ],
   [
@@ -187,16 +187,6 @@
     [
       "Major shake-up coming for Fermilab, the troubled U.S. particle physics center",
       "https://www.science.org/content/article/major-shake-coming-fermilab-troubled-u-s-particle-physics-center"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 14:17:41",
-      "https://news.ycombinator.com/item?id=35302858"
-    ],
-    [
-      "CodeAlpaca – Instruction following code generation model",
-      "https://github.com/sahil280114/codealpaca"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Low-Level C Programming – CSE 325 Lecture Videos",
       "https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia"
+    ]
+  ],
+  [
+    [
+      "2023-03-24, 08:14:42",
+      "https://news.ycombinator.com/item?id=35286389"
+    ],
+    [
+      "Determined: Deep Learning Training Platform",
+      "https://github.com/determined-ai/determined"
     ]
   ],
   [
