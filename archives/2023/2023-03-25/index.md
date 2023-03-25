@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 14:09:22](https://news.ycombinator.com/item?id=35302767) - [Theo de Raadt: Synthetic Memory Protections (CanSecWest 2023) [OpenBSD] [pdf]](https://www.openbsd.org/papers/csw2023.pdf)
+* [2023-03-25, 14:04:28](https://news.ycombinator.com/item?id=35302735) - [Freedom Clock](https://domsson.github.io/freedom-clock/)
 * [2023-03-25, 13:58:21](https://news.ycombinator.com/item?id=35302682) - [Nothing is stopping feral pigs in Canada](https://www.fieldandstream.com/conservation/canada-super-pig-population-graphics/)
+* [2023-03-25, 13:52:12](https://news.ycombinator.com/item?id=35302627) - [Tesla owners will now be charged for driving their cars at night](https://twitter.com/williamlegate/status/1639412933397745665)
 * [2023-03-25, 13:48:55](https://news.ycombinator.com/item?id=35302597) - [Fundamentally Understanding and Solving RowHammer](https://arxiv.org/abs/2211.07613)
 * [2023-03-25, 13:38:28](https://news.ycombinator.com/item?id=35302502) - [Peters and Hawley Introduce Bipartisan Bill to Help Secure Open Source Software](https://www.hsgac.senate.gov/media/majority-media/peters-and-hawley-introduce-bipartisan-bill-to-help-secure-open-source-software/)
 * [2023-03-25, 13:23:11](https://news.ycombinator.com/item?id=35302395) - [Concrete Diagramming, a Lightweight Alternative to C4](https://www.ilograph.com/blog/posts/concrete-diagramming-models/)
@@ -23,6 +26,7 @@
 * [2023-03-25, 07:57:24](https://news.ycombinator.com/item?id=35300477) - [Body shape&#x2F;mass distribution in birds and their dinosaurian ancestors](https://www.nature.com/articles/s41467-023-37317-y)
 * [2023-03-25, 07:50:54](https://news.ycombinator.com/item?id=35300437) - [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
 * [2023-03-25, 07:26:19](https://news.ycombinator.com/item?id=35300331) - [Agile Is a Glass Cannon](https://www.tomdalling.com/blog/software-processes/agile-is-a-glass-cannon/)
+* [2023-03-25, 07:11:02](https://news.ycombinator.com/item?id=35300259) - [Public Domain Operating System](http://www.pdos.org/)
 * [2023-03-25, 06:59:28](https://news.ycombinator.com/item?id=35300200) - [Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
 * [2023-03-25, 06:57:17](https://news.ycombinator.com/item?id=35300185) - [Building Snowman Using Transaction Isolation Levels](https://www.bitesizedengineering.com/p/database-isolation-levels-explained)
 * [2023-03-25, 03:39:38](https://news.ycombinator.com/item?id=35299071) - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
