@@ -6,6 +6,7 @@
 
 * [2023-03-25, 22:37:53](https://news.ycombinator.com/item?id=35308246) - [My experience crafting an interpreter with Rust (2021)](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
 * [2023-03-25, 22:36:16](https://news.ycombinator.com/item?id=35308229) - [Vibrator maker ordered to pay out C$4M for tracking users&#x27; sexual activity](https://www.theguardian.com/technology/2017/mar/14/we-vibe-vibrator-tracking-users-sexual-habits)
+* [2023-03-25, 22:16:57](https://news.ycombinator.com/item?id=35308047) - [A video game has revolutionised the way farmers are buying tractors](https://www.theguardian.com/games/2023/mar/25/flight-simulator-for-tractors-how-a-video-game-is-enticing-farmers-on-to-xbox)
 * [2023-03-25, 22:15:44](https://news.ycombinator.com/item?id=35308033) - [A nasal spray protects against coronavirus including immune-evasive variants](https://www.helsinki.fi/en/news/pandemics/nasal-spray-protects-against-coronavirus-infection-effective-also-against-recent-immune-evasive-variants)
 * [2023-03-25, 21:34:19](https://news.ycombinator.com/item?id=35307656) - [Show HN: Lunette – A word processor designed around writing, not formatting](https://lunette.app/)
 * [2023-03-25, 20:55:37](https://news.ycombinator.com/item?id=35307250) - [Open-Source GPT-4 Platform for Markdown](https://markprompt.com/)
