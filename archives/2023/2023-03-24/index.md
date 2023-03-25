@@ -68,6 +68,7 @@
 * [2023-03-24, 10:57:15](https://news.ycombinator.com/item?id=35287420) - [Sfbook.com: Providing book reviews of speculative fiction since 1999](https://sfbook.com/our-story.htm)
 * [2023-03-24, 10:48:17](https://news.ycombinator.com/item?id=35287365) - [Show HN: Hacker News Summarizer (Chrome Extension)](https://chrome.google.com/webstore/detail/hacker-news-summarizer/ajodkpllepafdcjcgklhnamlnninjbmd)
 * [2023-03-24, 10:34:06](https://news.ycombinator.com/item?id=35287263) - [Art sleuths reunited a family after centuries apart](https://www.npr.org/2023/03/22/1165011263/painting-history-cornelis-de-vos-mystery-rkd-netherlands)
+* [2023-03-24, 10:32:29](https://news.ycombinator.com/item?id=35287253) - [Page Builders Might Not Be a Good Idea](https://www.silvestar.codes/articles/page-builders-might-not-be-a-good-idea/)
 * [2023-03-24, 10:24:13](https://news.ycombinator.com/item?id=35287202) - [Rocket-powered space planes get approval to operate out of NZ airports](https://www.stuff.co.nz/business/131599726/rocketpowered-space-planes-get-approval-to-operate-out-of-nz-airports)
 * [2023-03-24, 10:13:02](https://news.ycombinator.com/item?id=35287128) - [Define Wokeness Or how you shall know a word by the company it keeps](https://davidrozado.substack.com/p/wo)
 * [2023-03-24, 09:01:39](https://news.ycombinator.com/item?id=35286681) - [Anime dating sim that also does your taxes](https://taxheaven3000.com/)

@@ -22,6 +22,7 @@
 * [2023-03-24, 16:54:38](https://news.ycombinator.com/item?id=35291936) - [Reliability via Automated Renewal Information](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
 * [2023-03-24, 16:08:37](https://news.ycombinator.com/item?id=35291112) - [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
 * [2023-03-24, 10:57:15](https://news.ycombinator.com/item?id=35287420) - [Sfbook.com: Providing book reviews of speculative fiction since 1999](https://sfbook.com/our-story.htm)
+* [2023-03-24, 10:32:29](https://news.ycombinator.com/item?id=35287253) - [Page Builders Might Not Be a Good Idea](https://www.silvestar.codes/articles/page-builders-might-not-be-a-good-idea/)
 * [2023-03-24, 08:42:35](https://news.ycombinator.com/item?id=35286563) - [WGA Would Allow Artificial Intelligence in Scriptwriting](https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/)
 * [2023-03-24, 05:53:18](https://news.ycombinator.com/item?id=35285521) - [Understanding Glibc Malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
@@ -29,7 +30,6 @@
 * [2023-03-24, 04:41:30](https://news.ycombinator.com/item?id=35285161) - [I’m Not Dead Yet (2016)](https://www.theparisreview.org/blog/2016/01/06/im-not-dead-yet/)
 * [2023-03-24, 03:40:37](https://news.ycombinator.com/item?id=35284823) - [Cadillac Ranch](https://en.wikipedia.org/wiki/Cadillac_Ranch)
 * [2023-03-23, 11:45:34](https://news.ycombinator.com/item?id=35273220) - [Simple Shellcode Dissection](https://isc.sans.edu/diary/rss/29642)
-* [2023-03-23, 11:36:57](https://news.ycombinator.com/item?id=35273139) - [Juice](https://garden.bradwoods.io/notes/design/juice)
 
 ## [Archives](archives/index.md)
 
