@@ -70,6 +70,7 @@
 * [2023-03-24, 09:01:39](https://news.ycombinator.com/item?id=35286681) - [Anime dating sim that also does your taxes](https://taxheaven3000.com/)
 * [2023-03-24, 08:42:22](https://news.ycombinator.com/item?id=35286561) - [Humans have reclaimed ‘land size of Luxembourg’ since 2000](https://www.theguardian.com/science/2023/mar/22/humans-have-reclaimed-land-size-of-luxembourg-since-2000)
 * [2023-03-24, 08:40:09](https://news.ycombinator.com/item?id=35286544) - [The Framework Laptop 16](https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16)
+* [2023-03-24, 06:58:03](https://news.ycombinator.com/item?id=35285886) - [I saw the face of God in a semiconductor factory](https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/)
 * [2023-03-24, 06:37:55](https://news.ycombinator.com/item?id=35285757) - [Jack Dorsey’s Block loses 20% of value as Hindenburg Research alleges fraud](https://finance.yahoo.com/news/jack-dorsey-block-loses-20-164948270.html)
 * [2023-03-24, 06:11:06](https://news.ycombinator.com/item?id=35285615) - [Introduction to VSS Library](https://blog.adacore.com/introduction-to-vss-library)
 * [2023-03-24, 05:51:51](https://news.ycombinator.com/item?id=35285513) - [Boolean Logic, missing brackets and the 2023 Nigeria Presidential Election](https://markessien.com/posts/boolean_logic_and_the_tribunal/)
