@@ -10,6 +10,7 @@
 * [2023-03-24, 22:10:55](https://news.ycombinator.com/item?id=35296352) - [We need a new economics of water as a common good](https://www.nature.com/articles/d41586-023-00800-z)
 * [2023-03-24, 21:53:57](https://news.ycombinator.com/item?id=35296165) - [Podman Desktop: Same functionality as Docker Desktop but open source](https://podman-desktop.io/downloads)
 * [2023-03-24, 21:51:06](https://news.ycombinator.com/item?id=35296131) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
+* [2023-03-24, 21:35:04](https://news.ycombinator.com/item?id=35295910) - [Reviving Chromebooks with Ubuntu](https://anarchosolarpunk.substack.com/p/chromebook-revive)
 * [2023-03-24, 21:26:52](https://news.ycombinator.com/item?id=35295807) - [We’re no longer sunsetting the free team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 * [2023-03-24, 20:35:59](https://news.ycombinator.com/item?id=35295071) - [A &#x27;subterranean Galapagos&#x27; inside the Earth](https://www.vice.com/en/article/mbyxw4/theres-a-subterranean-galapagos-deep-inside-the-earth)
 * [2023-03-24, 20:27:44](https://news.ycombinator.com/item?id=35294972) - [NPR cancels 4 podcasts amid major layoffs](https://www.npr.org/2023/03/23/1165559810/npr-layoffs-cancels-podcasts-invisibilia-rough-translation)
@@ -22,14 +23,13 @@
 * [2023-03-24, 16:08:37](https://news.ycombinator.com/item?id=35291112) - [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
 * [2023-03-24, 15:04:47](https://news.ycombinator.com/item?id=35289979) - [America’s online privacy problems are much bigger than TikTok](https://www.washingtonpost.com/technology/2023/03/24/tiktok-online-privacy-laws/)
 * [2023-03-24, 12:15:25](https://news.ycombinator.com/item?id=35288015) - [LoRA: Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
-* [2023-03-24, 11:41:14](https://news.ycombinator.com/item?id=35287740) - [Alpaca-LoRA with Docker](https://github.com/chris-alexiuk/alpaca-lora)
 * [2023-03-24, 10:57:15](https://news.ycombinator.com/item?id=35287420) - [Sfbook.com: Providing book reviews of speculative fiction since 1999](https://sfbook.com/our-story.htm)
-* [2023-03-24, 06:58:03](https://news.ycombinator.com/item?id=35285886) - [I saw the face of God in a semiconductor factory](https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/)
 * [2023-03-24, 06:11:06](https://news.ycombinator.com/item?id=35285615) - [Introduction to VSS Library](https://blog.adacore.com/introduction-to-vss-library)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 * [2023-03-24, 04:59:14](https://news.ycombinator.com/item?id=35285251) - [The Paja Formation: An ecosystem of monsters](https://arstechnica.com/science/2023/03/the-paja-formation-an-ecosystem-of-monsters/)
 * [2023-03-24, 03:40:37](https://news.ycombinator.com/item?id=35284823) - [Cadillac Ranch](https://en.wikipedia.org/wiki/Cadillac_Ranch)
 * [2023-03-23, 11:45:34](https://news.ycombinator.com/item?id=35273220) - [Simple Shellcode Dissection](https://isc.sans.edu/diary/rss/29642)
+* [2023-03-23, 11:36:57](https://news.ycombinator.com/item?id=35273139) - [Juice](https://garden.bradwoods.io/notes/design/juice)
 
 ## [Archives](archives/index.md)
 
