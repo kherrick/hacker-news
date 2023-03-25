@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 07:58:11](https://news.ycombinator.com/item?id=35300482) - [Yunohost: Get Off of My Cloud](https://yunohost.org)
+* [2023-03-25, 07:50:54](https://news.ycombinator.com/item?id=35300437) - [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
 * [2023-03-25, 07:26:19](https://news.ycombinator.com/item?id=35300331) - [Agile Is a Glass Cannon](https://www.tomdalling.com/blog/software-processes/agile-is-a-glass-cannon/)
 * [2023-03-25, 06:59:28](https://news.ycombinator.com/item?id=35300200) - [Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
 * [2023-03-25, 03:39:38](https://news.ycombinator.com/item?id=35299071) - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)

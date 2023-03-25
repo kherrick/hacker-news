@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-25, 07:58:11](https://news.ycombinator.com/item?id=35300482) - [Yunohost: Get Off of My Cloud](https://yunohost.org)
+* [2023-03-25, 07:50:54](https://news.ycombinator.com/item?id=35300437) - [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
 * [2023-03-25, 07:26:19](https://news.ycombinator.com/item?id=35300331) - [Agile Is a Glass Cannon](https://www.tomdalling.com/blog/software-processes/agile-is-a-glass-cannon/)
 * [2023-03-25, 06:59:28](https://news.ycombinator.com/item?id=35300200) - [Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
 * [2023-03-25, 03:39:38](https://news.ycombinator.com/item?id=35299071) - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
@@ -11,7 +13,6 @@
 * [2023-03-24, 23:31:57](https://news.ycombinator.com/item?id=35297117) - [Judge decides against Internet Archive](https://file770.com/judge-decides-against-internet-archive/)
 * [2023-03-24, 23:27:22](https://news.ycombinator.com/item?id=35297074) - [We ran a phone check at a Y Combinator event in SF](https://blog.getclearspace.com/we-ran-a-phone-check-at-a-ycombinator-event-in-san-francisco-heres-how-it-went-fb920a54c755)
 * [2023-03-24, 23:26:52](https://news.ycombinator.com/item?id=35297067) - [GPT-4 performs significantly worse on coding problems not in its training data](https://twitter.com/cHHillee/status/1635790330854526981)
-* [2023-03-24, 22:10:55](https://news.ycombinator.com/item?id=35296352) - [We need a new economics of water as a common good](https://www.nature.com/articles/d41586-023-00800-z)
 * [2023-03-24, 21:51:06](https://news.ycombinator.com/item?id=35296131) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
 * [2023-03-24, 21:35:04](https://news.ycombinator.com/item?id=35295910) - [Reviving Chromebooks with Ubuntu](https://anarchosolarpunk.substack.com/p/chromebook-revive)
 * [2023-03-24, 20:35:59](https://news.ycombinator.com/item?id=35295071) - [A &#x27;subterranean Galapagos&#x27; inside the Earth](https://www.vice.com/en/article/mbyxw4/theres-a-subterranean-galapagos-deep-inside-the-earth)
@@ -22,7 +23,6 @@
 * [2023-03-24, 17:23:01](https://news.ycombinator.com/item?id=35292422) - [Engineers Need to Write](https://www.developing.dev/p/why-engineers-need-to-write)
 * [2023-03-24, 16:54:38](https://news.ycombinator.com/item?id=35291936) - [Reliability via Automated Renewal Information](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
 * [2023-03-24, 10:57:15](https://news.ycombinator.com/item?id=35287420) - [Sfbook.com: Providing book reviews of speculative fiction since 1999](https://sfbook.com/our-story.htm)
-* [2023-03-24, 10:34:06](https://news.ycombinator.com/item?id=35287263) - [Art sleuths reunited a family after centuries apart](https://www.npr.org/2023/03/22/1165011263/painting-history-cornelis-de-vos-mystery-rkd-netherlands)
 * [2023-03-24, 10:32:29](https://news.ycombinator.com/item?id=35287253) - [Page Builders Might Not Be a Good Idea](https://www.silvestar.codes/articles/page-builders-might-not-be-a-good-idea/)
 * [2023-03-24, 08:42:35](https://news.ycombinator.com/item?id=35286563) - [WGA Would Allow Artificial Intelligence in Scriptwriting](https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/)
 * [2023-03-24, 05:53:18](https://news.ycombinator.com/item?id=35285521) - [Understanding Glibc Malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
