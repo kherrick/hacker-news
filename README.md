@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-25, 03:39:38](https://news.ycombinator.com/item?id=35299071) - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
 * [2023-03-25, 02:28:31](https://news.ycombinator.com/item?id=35298588) - [Stripe – Prohibited and Restricted Businesses](https://stripe.com/legal/restricted-businesses)
 * [2023-03-25, 01:55:54](https://news.ycombinator.com/item?id=35298339) - [Orange Pi 5 Is a Great and Fast Alternative to the Raspberry Pi 4](https://www.phoronix.com/review/orange-pi-5)
 * [2023-03-25, 00:52:37](https://news.ycombinator.com/item?id=35297839) - [Cramming More Components onto Integrated Circuits (1965) [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
@@ -13,7 +14,6 @@
 * [2023-03-24, 21:51:06](https://news.ycombinator.com/item?id=35296131) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
 * [2023-03-24, 21:35:04](https://news.ycombinator.com/item?id=35295910) - [Reviving Chromebooks with Ubuntu](https://anarchosolarpunk.substack.com/p/chromebook-revive)
 * [2023-03-24, 20:35:59](https://news.ycombinator.com/item?id=35295071) - [A &#x27;subterranean Galapagos&#x27; inside the Earth](https://www.vice.com/en/article/mbyxw4/theres-a-subterranean-galapagos-deep-inside-the-earth)
-* [2023-03-24, 20:27:44](https://news.ycombinator.com/item?id=35294972) - [NPR cancels 4 podcasts amid major layoffs](https://www.npr.org/2023/03/23/1165559810/npr-layoffs-cancels-podcasts-invisibilia-rough-translation)
 * [2023-03-24, 20:14:52](https://news.ycombinator.com/item?id=35294818) - [Show HN: The Shark Programming Language](https://github.com/shogundevel/shark)
 * [2023-03-24, 20:13:30](https://news.ycombinator.com/item?id=35294802) - [Reasons the banking crisis isn’t a repeat of 2008](https://www.chase.com/personal/investments/learning-and-insights/article/tmt-march-twenty-four-twenty-three)
 * [2023-03-24, 19:18:04](https://news.ycombinator.com/item?id=35294111) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
