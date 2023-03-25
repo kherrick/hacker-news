@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-25, 21:34:19](https://news.ycombinator.com/item?id=35307656) - [Show HN: Lunette – A word processor designed around writing, not formatting](https://lunette.app/)
 * [2023-03-25, 20:55:37](https://news.ycombinator.com/item?id=35307250) - [Open-Source GPT-4 Platform for Markdown](https://markprompt.com/)
 * [2023-03-25, 20:46:04](https://news.ycombinator.com/item?id=35307150) - [Managers exploit loyal workers over less committed colleagues](https://today.duke.edu/2023/03/managers-exploit-loyal-workers-over-less-committed-colleagues)
 * [2023-03-25, 20:23:35](https://news.ycombinator.com/item?id=35306909) - [Lex Fridman Podcast #367 – Sam Altman](https://lexfridman.com/sam-altman/)
@@ -21,13 +22,12 @@
 * [2023-03-25, 14:17:41](https://news.ycombinator.com/item?id=35302858) - [CodeAlpaca – Instruction following code generation model](https://github.com/sahil280114/codealpaca)
 * [2023-03-25, 14:09:22](https://news.ycombinator.com/item?id=35302767) - [Synthetic Memory Protections: An update on ROP mitigations [pdf]](https://www.openbsd.org/papers/csw2023.pdf)
 * [2023-03-25, 13:23:11](https://news.ycombinator.com/item?id=35302395) - [Concrete Diagramming, a Lightweight Alternative to C4](https://www.ilograph.com/blog/posts/concrete-diagramming-models/)
+* [2023-03-25, 11:39:08](https://news.ycombinator.com/item?id=35301657) - [Show HN: ChatGPT Plugins are a security nightmare](https://github.com/greshake/llm-security)
 * [2023-03-25, 11:04:28](https://news.ycombinator.com/item?id=35301447) - [What we know about the Apple Neural Engine](https://github.com/hollance/neural-engine)
 * [2023-03-25, 10:00:45](https://news.ycombinator.com/item?id=35301138) - [Common Lisp Quick Reference (2018)](http://clqr.boundp.org)
-* [2023-03-25, 09:03:11](https://news.ycombinator.com/item?id=35300822) - [Show HN: ESER-32&#x2F;Zuse Elektra emulator](https://github.com/setun-90/ESER-32)
 * [2023-03-25, 08:47:34](https://news.ycombinator.com/item?id=35300755) - [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
 * [2023-03-25, 07:58:11](https://news.ycombinator.com/item?id=35300482) - [YunoHost – Operating system aiming to simplify server administration](https://yunohost.org)
 * [2023-03-25, 06:06:45](https://news.ycombinator.com/item?id=35299951) - [Low-Level C Programming – CSE 325 Lecture Videos](https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia)
-* [2023-03-24, 08:14:42](https://news.ycombinator.com/item?id=35286389) - [Determined: Deep Learning Training Platform](https://github.com/determined-ai/determined)
 * [2023-03-24, 06:40:05](https://news.ycombinator.com/item?id=35285769) - [Comparing Hobby PCB Vendors](https://lcamtuf.substack.com/p/comparing-hobby-pcb-vendors)
 * [2023-03-24, 05:52:24](https://news.ycombinator.com/item?id=35285518) - [Why take a compiler course? (2010)](https://blog.regehr.org/archives/169)
 
