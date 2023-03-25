@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 17:01:13](https://news.ycombinator.com/item?id=35304593) - [SafeButler (YC S17) Is Hiring software engineer intern](https://www.safebutler.com/careers)
 * [2023-03-25, 16:30:02](https://news.ycombinator.com/item?id=35304241) - [50 years of silence: It&#x27;s time to end the speed limit in US airspace](https://www.elidourado.com/p/50-years-supersonic-ban)
 * [2023-03-25, 16:11:50](https://news.ycombinator.com/item?id=35304078) - [Show HN: Aquarium – AI Controlled Containers](https://github.com/fafrd/aquarium)
 * [2023-03-25, 15:43:46](https://news.ycombinator.com/item?id=35303799) - [Microsoft Researchers Claim GPT-4 Is Showing “Sparks” of AGI](https://futurism.com/gpt-4-sparks-of-agi)
@@ -39,6 +40,7 @@
 * [2023-03-25, 07:11:02](https://news.ycombinator.com/item?id=35300259) - [Public Domain Operating System](http://www.pdos.org/)
 * [2023-03-25, 06:59:28](https://news.ycombinator.com/item?id=35300200) - [Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
 * [2023-03-25, 06:57:17](https://news.ycombinator.com/item?id=35300185) - [Building Snowman Using Transaction Isolation Levels](https://www.bitesizedengineering.com/p/database-isolation-levels-explained)
+* [2023-03-25, 06:06:45](https://news.ycombinator.com/item?id=35299951) - [Low-Level C Programming – CSE 325 Lecture Videos](https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia)
 * [2023-03-25, 05:54:06](https://news.ycombinator.com/item?id=35299885) - [Immune System Cells in the Gut Linked to Stress-Induced Depression](https://www.hopkinsmedicine.org/news/newsroom/news-releases/new-evidence-immune-system-cells-in-the-gut-linked-to-stress-induced-depression)
 * [2023-03-25, 05:12:29](https://news.ycombinator.com/item?id=35299665) - [Weka Violates MinIO&#x27;s Open Source Licenses](https://blog.min.io/weka-violates-minios-open-source-licenses/)
 * [2023-03-25, 03:39:38](https://news.ycombinator.com/item?id=35299071) - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
