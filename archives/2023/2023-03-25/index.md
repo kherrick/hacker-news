@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
 * [2023-03-25, 20:55:37](https://news.ycombinator.com/item?id=35307250) - [Open-Source GPT-4 Platform for Markdown](https://markprompt.com/)
+* [2023-03-25, 20:46:04](https://news.ycombinator.com/item?id=35307150) - [Managers exploit loyal workers over less committed colleagues](https://today.duke.edu/2023/03/managers-exploit-loyal-workers-over-less-committed-colleagues)
 * [2023-03-25, 19:56:43](https://news.ycombinator.com/item?id=35306601) - [OpenAI&#x27;s ChatGPT plugins may revolutionise the traditional customer journey](https://tevfik.xyz/posts/chatgpt-plugins/)
 * [2023-03-25, 19:51:29](https://news.ycombinator.com/item?id=35306506) - [An Eevdf CPU Scheduler for Linux](https://lwn.net/Articles/925371/)
 * [2023-03-25, 19:38:28](https://news.ycombinator.com/item?id=35306346) - [Half of Black High School Students in the Bay Area Can Barely Read](https://darrellowens.substack.com/p/half-of-black-students-can-hardly)
@@ -56,6 +57,7 @@
 * [2023-03-25, 09:59:33](https://news.ycombinator.com/item?id=35301129) - [“Can we ban iPhone in retaliation?” Chinese internet reacts to TikTok hearing](https://thechinaproject.com/2023/03/24/can-we-ban-iphone-in-retaliation-chinese-internet-reacts-to-tiktok-hearing-in-the-u-s/)
 * [2023-03-25, 09:28:38](https://news.ycombinator.com/item?id=35300977) - [Principal resigns after Florida students shown Michelangelo statue](https://www.bbc.co.uk/news/world-us-canada-65071989)
 * [2023-03-25, 09:03:11](https://news.ycombinator.com/item?id=35300822) - [Show HN: ESER-32&#x2F;Zuse Elektra emulator](https://github.com/setun-90/ESER-32)
+* [2023-03-25, 08:47:34](https://news.ycombinator.com/item?id=35300755) - [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
 * [2023-03-25, 07:58:11](https://news.ycombinator.com/item?id=35300482) - [Yunohost: Get Off of My Cloud](https://yunohost.org)
 * [2023-03-25, 07:57:24](https://news.ycombinator.com/item?id=35300477) - [Body shape&#x2F;mass distribution in birds and their dinosaurian ancestors](https://www.nature.com/articles/s41467-023-37317-y)
 * [2023-03-25, 07:50:54](https://news.ycombinator.com/item?id=35300437) - [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
