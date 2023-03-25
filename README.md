@@ -27,9 +27,9 @@
 * [2023-03-24, 10:32:29](https://news.ycombinator.com/item?id=35287253) - [Page Builders Might Not Be a Good Idea](https://www.silvestar.codes/articles/page-builders-might-not-be-a-good-idea/)
 * [2023-03-24, 08:42:35](https://news.ycombinator.com/item?id=35286563) - [WGA Would Allow Artificial Intelligence in Scriptwriting](https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/)
 * [2023-03-24, 07:49:55](https://news.ycombinator.com/item?id=35286221) - [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
-* [2023-03-24, 07:23:50](https://news.ycombinator.com/item?id=35286068) - [Large-scale iterated singing experiments reveal music evolution](https://www.cell.com/current-biology/fulltext/S0960-9822%2823%2900243-9)
 * [2023-03-24, 05:53:18](https://news.ycombinator.com/item?id=35285521) - [Understanding Glibc Malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
+* [2023-03-23, 08:54:16](https://news.ycombinator.com/item?id=35271977) - [The Malham Dig](http://www.mudinmyhair.co.uk/Malham%20Dig.html)
 
 ## [Archives](archives/index.md)
 
