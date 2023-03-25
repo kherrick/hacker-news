@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-25, 17:14:41](https://news.ycombinator.com/item?id=35304766) - [The Secret Joke at the Heart of the Harvard Affirmative-Action Case](https://www.newyorker.com/news/our-columnists/the-secret-joke-at-the-heart-of-the-harvard-affirmative-action-case)
+* [2023-03-25, 17:13:29](https://news.ycombinator.com/item?id=35304757) - [Please comment if your company can sign this open letter supporting UN](https://docs.google.com/document/d/1rogfPiHPC_vt48VpaOdXMycJhRN7BnXMOndAi-tZV3E/edit)
 * [2023-03-25, 17:06:05](https://news.ycombinator.com/item?id=35304662) - [Crypto Faces Legal Reckoning as SEC Prepares Action Against Coinbase](https://www.wsj.com/articles/crypto-faces-legal-reckoning-as-sec-prepares-action-against-coinbase-e4c95bf3)
 * [2023-03-25, 17:01:13](https://news.ycombinator.com/item?id=35304593) - [SafeButler (YC S17) Is Hiring software engineer intern](https://www.safebutler.com/careers)
 * [2023-03-25, 16:30:02](https://news.ycombinator.com/item?id=35304241) - [50 years of silence: It&#x27;s time to end the speed limit in US airspace](https://www.elidourado.com/p/50-years-supersonic-ban)
@@ -24,12 +26,10 @@
 * [2023-03-25, 05:54:06](https://news.ycombinator.com/item?id=35299885) - [Immune system cells in the gut linked to stress-induced depression](https://www.hopkinsmedicine.org/news/newsroom/news-releases/new-evidence-immune-system-cells-in-the-gut-linked-to-stress-induced-depression)
 * [2023-03-25, 00:07:49](https://news.ycombinator.com/item?id=35297420) - [Gordon Moore has died](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
 * [2023-03-24, 23:31:57](https://news.ycombinator.com/item?id=35297117) - [Judge decides against Internet Archive](https://file770.com/judge-decides-against-internet-archive/)
-* [2023-03-24, 22:10:55](https://news.ycombinator.com/item?id=35296352) - [We need a new economics of water as a common good](https://www.nature.com/articles/d41586-023-00800-z)
 * [2023-03-24, 21:37:36](https://news.ycombinator.com/item?id=35295943) - [Mr. Electrico, a sideshow magician who inspired Ray Bradbury, then vanished](https://www.smithsonianmag.com/history/the-sideshow-magician-who-inspired-ray-bradburythen-vanished-180981764/)
 * [2023-03-24, 08:14:42](https://news.ycombinator.com/item?id=35286389) - [Determined: Deep Learning Training Platform](https://github.com/determined-ai/determined)
 * [2023-03-24, 07:49:55](https://news.ycombinator.com/item?id=35286221) - [How big should a programming language be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 * [2023-03-24, 06:40:05](https://news.ycombinator.com/item?id=35285769) - [Comparing Hobby PCB Vendors](https://lcamtuf.substack.com/p/comparing-hobby-pcb-vendors)
-* [2023-03-23, 08:54:16](https://news.ycombinator.com/item?id=35271977) - [The Malham Dig (2016)](http://www.mudinmyhair.co.uk/Malham%20Dig.html)
 
 ## [Archives](archives/index.md)
 

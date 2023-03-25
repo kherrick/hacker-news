@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 17:14:41](https://news.ycombinator.com/item?id=35304766) - [The Secret Joke at the Heart of the Harvard Affirmative-Action Case](https://www.newyorker.com/news/our-columnists/the-secret-joke-at-the-heart-of-the-harvard-affirmative-action-case)
+* [2023-03-25, 17:13:29](https://news.ycombinator.com/item?id=35304757) - [Please comment if your company can sign this open letter supporting UN](https://docs.google.com/document/d/1rogfPiHPC_vt48VpaOdXMycJhRN7BnXMOndAi-tZV3E/edit)
 * [2023-03-25, 17:06:05](https://news.ycombinator.com/item?id=35304662) - [Crypto Faces Legal Reckoning as SEC Prepares Action Against Coinbase](https://www.wsj.com/articles/crypto-faces-legal-reckoning-as-sec-prepares-action-against-coinbase-e4c95bf3)
 * [2023-03-25, 17:01:13](https://news.ycombinator.com/item?id=35304593) - [SafeButler (YC S17) Is Hiring software engineer intern](https://www.safebutler.com/careers)
 * [2023-03-25, 16:30:02](https://news.ycombinator.com/item?id=35304241) - [50 years of silence: It&#x27;s time to end the speed limit in US airspace](https://www.elidourado.com/p/50-years-supersonic-ban)
