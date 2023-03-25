@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-25, 15:16:55",
+      "https://news.ycombinator.com/item?id=35303486"
+    ],
+    [
+      "India Shut Down Cell Service for 27M During a Manhunt",
+      "https://www.wired.com/story/india-activist-manhunt-sikh-activist/"
+    ]
+  ],
+  [
+    [
       "2023-03-25, 15:08:25",
       "https://news.ycombinator.com/item?id=35303391"
     ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=35303210"
     ],
     [
-      "YouTube’s Chaotic Rise to World Domination",
+      "YouTube’s chaotic rise to world domination",
       "https://english.elpais.com/society/2023-03-25/youtubes-chaotic-rise-to-world-domination-not-long-ago-virtually-no-one-took-it-seriously.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-25, 14:42:08",
+      "https://news.ycombinator.com/item?id=35303095"
+    ],
+    [
+      "Sweet Dreams Cereal – Post&#x27;s new product category of “bedtime cereal”",
+      "https://www.postconsumerbrands.com/sweet-dreams/"
     ]
   ],
   [
@@ -41,22 +61,22 @@
   ],
   [
     [
+      "2023-03-25, 13:58:21",
+      "https://news.ycombinator.com/item?id=35302682"
+    ],
+    [
+      "Researchers are trying to mitigate the spread of wild pigs in Canada",
+      "https://www.fieldandstream.com/conservation/canada-super-pig-population-graphics/"
+    ]
+  ],
+  [
+    [
       "2023-03-25, 13:48:55",
       "https://news.ycombinator.com/item?id=35302597"
     ],
     [
       "Fundamentally Understanding and Solving RowHammer",
       "https://arxiv.org/abs/2211.07613"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 13:38:28",
-      "https://news.ycombinator.com/item?id=35302502"
-    ],
-    [
-      "Peters and Hawley Introduce Bipartisan Bill to Help Secure Open Source Software",
-      "https://www.hsgac.senate.gov/media/majority-media/peters-and-hawley-introduce-bipartisan-bill-to-help-secure-open-source-software/"
     ]
   ],
   [
@@ -135,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35300259"
     ],
     [
-      "Public Domain Operating System",
+      "PDOS: Public Domain Operating System",
       "http://www.pdos.org/"
     ]
   ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=35300200"
     ],
     [
-      "Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway",
+      "Cloudflare disables access to ‘pirated’ content on its IPFS gateway",
       "https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/"
     ]
   ],
@@ -165,28 +185,8 @@
       "https://news.ycombinator.com/item?id=35299885"
     ],
     [
-      "Immune System Cells in the Gut Linked to Stress-Induced Depression",
+      "Immune system cells in the gut linked to stress-induced depression",
       "https://www.hopkinsmedicine.org/news/newsroom/news-releases/new-evidence-immune-system-cells-in-the-gut-linked-to-stress-induced-depression"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 05:12:29",
-      "https://news.ycombinator.com/item?id=35299665"
-    ],
-    [
-      "Weka Violates MinIO&#x27;s Open Source Licenses",
-      "https://blog.min.io/weka-violates-minios-open-source-licenses/"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 03:39:38",
-      "https://news.ycombinator.com/item?id=35299071"
-    ],
-    [
-      "Ask HN: How are you using GPT to be productive?",
-      "https://news.ycombinator.com/item?id=35299071"
     ]
   ],
   [
@@ -245,18 +245,18 @@
       "https://news.ycombinator.com/item?id=35295943"
     ],
     [
-      "The Sideshow Magician Who Inspired Ray Bradbury–Then Vanished",
+      "Mr. Electrico, a sideshow magician who inspired Ray Bradbury, then vanished",
       "https://www.smithsonianmag.com/history/the-sideshow-magician-who-inspired-ray-bradburythen-vanished-180981764/"
     ]
   ],
   [
     [
-      "2023-03-24, 08:42:35",
-      "https://news.ycombinator.com/item?id=35286563"
+      "2023-03-24, 10:34:06",
+      "https://news.ycombinator.com/item?id=35287263"
     ],
     [
-      "WGA Would Allow Artificial Intelligence in Scriptwriting",
-      "https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/"
+      "Art sleuths reunited a family after centuries apart",
+      "https://www.npr.org/2023/03/22/1165011263/painting-history-cornelis-de-vos-mystery-rkd-netherlands"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2023-03-24, 07:49:55",
+      "https://news.ycombinator.com/item?id=35286221"
+    ],
+    [
+      "How big should a programming language be?",
+      "https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html"
+    ]
+  ],
+  [
+    [
       "2023-03-24, 05:53:18",
       "https://news.ycombinator.com/item?id=35285521"
     ],
     [
       "Understanding Glibc Malloc (2015)",
       "https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/"
-    ]
-  ],
-  [
-    [
-      "2023-03-24, 05:28:58",
-      "https://news.ycombinator.com/item?id=35285390"
-    ],
-    [
-      "We updated our RSA SSH host key",
-      "https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/"
     ]
   ],
   [
