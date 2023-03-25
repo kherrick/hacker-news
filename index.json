@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-03-25, 14:09:22",
+      "https://news.ycombinator.com/item?id=35302767"
+    ],
+    [
+      "Theo de Raadt: Synthetic Memory Protections (CanSecWest 2023) [OpenBSD] [pdf]",
+      "https://www.openbsd.org/papers/csw2023.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-25, 14:04:28",
+      "https://news.ycombinator.com/item?id=35302735"
+    ],
+    [
+      "Freedom Clock",
+      "https://domsson.github.io/freedom-clock/"
+    ]
+  ],
+  [
+    [
       "2023-03-25, 13:58:21",
       "https://news.ycombinator.com/item?id=35302682"
     ],
     [
       "Nothing is stopping feral pigs in Canada",
       "https://www.fieldandstream.com/conservation/canada-super-pig-population-graphics/"
+    ]
+  ],
+  [
+    [
+      "2023-03-25, 13:52:12",
+      "https://news.ycombinator.com/item?id=35302627"
+    ],
+    [
+      "Tesla owners will now be charged for driving their cars at night",
+      "https://twitter.com/williamlegate/status/1639412933397745665"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2023-03-25, 09:03:11",
-      "https://news.ycombinator.com/item?id=35300822"
-    ],
-    [
-      "Show HN: ESER-32&#x2F;Zuse Elektra emulator",
-      "https://github.com/setun-90/ESER-32"
-    ]
-  ],
-  [
-    [
       "2023-03-25, 07:58:11",
       "https://news.ycombinator.com/item?id=35300482"
     ],
@@ -121,6 +141,16 @@
   ],
   [
     [
+      "2023-03-25, 07:11:02",
+      "https://news.ycombinator.com/item?id=35300259"
+    ],
+    [
+      "Public Domain Operating System",
+      "http://www.pdos.org/"
+    ]
+  ],
+  [
+    [
       "2023-03-25, 06:59:28",
       "https://news.ycombinator.com/item?id=35300200"
     ],
@@ -137,16 +167,6 @@
     [
       "Building Snowman Using Transaction Isolation Levels",
       "https://www.bitesizedengineering.com/p/database-isolation-levels-explained"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 03:39:38",
-      "https://news.ycombinator.com/item?id=35299071"
-    ],
-    [
-      "Ask HN: How are you using GPT to be productive?",
-      "https://news.ycombinator.com/item?id=35299071"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-03-24, 12:02:19",
-      "https://news.ycombinator.com/item?id=35287901"
-    ],
-    [
-      "Show HN: Naja-Verilog – Structural Verilog Parser",
-      "https://github.com/xtofalex/naja-verilog"
-    ]
-  ],
-  [
-    [
       "2023-03-24, 10:32:29",
       "https://news.ycombinator.com/item?id=35287253"
     ],
@@ -261,21 +271,11 @@
   ],
   [
     [
-      "2023-03-24, 07:23:50",
-      "https://news.ycombinator.com/item?id=35286068"
-    ],
-    [
-      "Large-scale iterated singing experiments reveal music evolution",
-      "https://www.cell.com/current-biology/fulltext/S0960-9822%2823%2900243-9"
-    ]
-  ],
-  [
-    [
       "2023-03-24, 05:53:18",
       "https://news.ycombinator.com/item?id=35285521"
     ],
     [
-      "Understanding Glibc Malloc",
+      "Understanding Glibc Malloc (2015)",
       "https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/"
     ]
   ],
