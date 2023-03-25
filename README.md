@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-25, 17:59:17](https://news.ycombinator.com/item?id=35305224) - [Any type of hormonal contraceptive may increase risk of breast cancer](https://www.ox.ac.uk/news/2023-03-22-any-type-hormonal-contraceptive-may-increase-risk-breast-cancer-0)
 * [2023-03-25, 17:45:14](https://news.ycombinator.com/item?id=35305079) - [Hospitals Are Reporting New Mothers for Neglect from Poppyseed False Positives](https://reason.com/2023/03/23/hospitals-are-still-reporting-new-mothers-for-neglect-based-on-drug-tests-triggered-by-poppy-seeds/)
 * [2023-03-25, 17:42:52](https://news.ycombinator.com/item?id=35305050) - [The Myth of the Alpha Wolf](https://www.newyorker.com/science/elements/the-myth-of-the-alpha-wolf)
 * [2023-03-25, 17:20:38](https://news.ycombinator.com/item?id=35304839) - [Barebones project to get an Inkplate 10 using WiFi, HTTPS using the Arduino IDE](https://blog.jgc.org/2023/03/barebones-project-showing-how-to-get.html)
@@ -21,7 +22,6 @@
 * [2023-03-25, 07:57:24](https://news.ycombinator.com/item?id=35300477) - [Body shape&#x2F;mass distribution in birds and their dinosaurian ancestors](https://www.nature.com/articles/s41467-023-37317-y)
 * [2023-03-25, 07:50:54](https://news.ycombinator.com/item?id=35300437) - [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
 * [2023-03-25, 06:59:28](https://news.ycombinator.com/item?id=35300200) - [Cloudflare disables access to ‘pirated’ content on its IPFS gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
-* [2023-03-25, 06:57:17](https://news.ycombinator.com/item?id=35300185) - [Building Snowman Using Transaction Isolation Levels](https://www.bitesizedengineering.com/p/database-isolation-levels-explained)
 * [2023-03-25, 06:06:45](https://news.ycombinator.com/item?id=35299951) - [Low-Level C Programming – CSE 325 Lecture Videos](https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia)
 * [2023-03-25, 05:54:06](https://news.ycombinator.com/item?id=35299885) - [Immune system cells in the gut linked to stress-induced depression](https://www.hopkinsmedicine.org/news/newsroom/news-releases/new-evidence-immune-system-cells-in-the-gut-linked-to-stress-induced-depression)
 * [2023-03-25, 00:07:49](https://news.ycombinator.com/item?id=35297420) - [Gordon Moore has died](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
