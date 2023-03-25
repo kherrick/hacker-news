@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 17:45:14](https://news.ycombinator.com/item?id=35305079) - [Hospitals Are Reporting New Mothers for Neglect from Poppyseed False Positives](https://reason.com/2023/03/23/hospitals-are-still-reporting-new-mothers-for-neglect-based-on-drug-tests-triggered-by-poppy-seeds/)
 * [2023-03-25, 17:42:52](https://news.ycombinator.com/item?id=35305050) - [The Myth of the Alpha Wolf](https://www.newyorker.com/science/elements/the-myth-of-the-alpha-wolf)
 * [2023-03-25, 17:20:38](https://news.ycombinator.com/item?id=35304839) - [Barebones project to get an Inkplate 10 using WiFi, HTTPS using the Arduino IDE](https://blog.jgc.org/2023/03/barebones-project-showing-how-to-get.html)
 * [2023-03-25, 17:14:41](https://news.ycombinator.com/item?id=35304766) - [The Secret Joke at the Heart of the Harvard Affirmative-Action Case](https://www.newyorker.com/news/our-columnists/the-secret-joke-at-the-heart-of-the-harvard-affirmative-action-case)
@@ -15,6 +16,7 @@
 * [2023-03-25, 16:06:40](https://news.ycombinator.com/item?id=35304017) - [Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them](https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims)
 * [2023-03-25, 15:43:46](https://news.ycombinator.com/item?id=35303799) - [Microsoft Researchers Claim GPT-4 Is Showing “Sparks” of AGI](https://futurism.com/gpt-4-sparks-of-agi)
 * [2023-03-25, 15:33:50](https://news.ycombinator.com/item?id=35303670) - [Think Better with Reflect](https://reflect.app/)
+* [2023-03-25, 15:26:28](https://news.ycombinator.com/item?id=35303574) - [An Interview with Nvidia CEO Jensen Huang About AI’s iPhone Moment](https://stratechery.com/2023/an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-moment/)
 * [2023-03-25, 15:16:55](https://news.ycombinator.com/item?id=35303486) - [India Shut Down Cell Service for 27M During a Manhunt](https://www.wired.com/story/india-activist-manhunt-sikh-activist/)
 * [2023-03-25, 15:11:24](https://news.ycombinator.com/item?id=35303423) - [Call yourself titles](https://josem.co/call-yourself-titles/)
 * [2023-03-25, 15:08:25](https://news.ycombinator.com/item?id=35303391) - [Major shake-up coming for Fermilab, the troubled U.S. particle physics center](https://www.science.org/content/article/major-shake-coming-fermilab-troubled-u-s-particle-physics-center)
