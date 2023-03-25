@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 01:55:54](https://news.ycombinator.com/item?id=35298339) - [Orange Pi 5 Is a Great and Fast Alternative to the Raspberry Pi 4](https://www.phoronix.com/review/orange-pi-5)
 * [2023-03-25, 00:52:37](https://news.ycombinator.com/item?id=35297839) - [Cramming More Components onto Integrated Circuits (Gordon Moore, 1965) [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
 * [2023-03-25, 00:44:52](https://news.ycombinator.com/item?id=35297766) - [Automatically document an entire codebase using LLMs](https://github.com/context-labs/autodoc)
 * [2023-03-25, 00:15:11](https://news.ycombinator.com/item?id=35297491) - [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)

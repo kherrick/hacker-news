@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-25, 01:55:54](https://news.ycombinator.com/item?id=35298339) - [Orange Pi 5 Is a Great and Fast Alternative to the Raspberry Pi 4](https://www.phoronix.com/review/orange-pi-5)
 * [2023-03-25, 00:52:37](https://news.ycombinator.com/item?id=35297839) - [Cramming More Components onto Integrated Circuits (1965) [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
 * [2023-03-25, 00:44:52](https://news.ycombinator.com/item?id=35297766) - [Autodoc: Toolkit for auto-generating codebase documentation using LLMs](https://github.com/context-labs/autodoc)
 * [2023-03-25, 00:07:49](https://news.ycombinator.com/item?id=35297420) - [Gordon Moore has died](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
@@ -29,7 +30,6 @@
 * [2023-03-24, 04:59:14](https://news.ycombinator.com/item?id=35285251) - [The Paja Formation: An ecosystem of monsters](https://arstechnica.com/science/2023/03/the-paja-formation-an-ecosystem-of-monsters/)
 * [2023-03-24, 03:40:37](https://news.ycombinator.com/item?id=35284823) - [Cadillac Ranch](https://en.wikipedia.org/wiki/Cadillac_Ranch)
 * [2023-03-23, 11:45:34](https://news.ycombinator.com/item?id=35273220) - [Simple Shellcode Dissection](https://isc.sans.edu/diary/rss/29642)
-* [2023-03-23, 11:36:57](https://news.ycombinator.com/item?id=35273139) - [Juice](https://garden.bradwoods.io/notes/design/juice)
 
 ## [Archives](archives/index.md)
 
