@@ -2,6 +2,7 @@
 
 * [2023-03-25, 11:04:28](https://news.ycombinator.com/item?id=35301447) - [Everything we know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
 * [2023-03-25, 10:00:45](https://news.ycombinator.com/item?id=35301138) - [Common Lisp Quick Reference](http://clqr.boundp.org)
+* [2023-03-25, 09:59:33](https://news.ycombinator.com/item?id=35301129) - [“Can we ban iPhone in retaliation?” Chinese internet reacts to TikTok hearing](https://thechinaproject.com/2023/03/24/can-we-ban-iphone-in-retaliation-chinese-internet-reacts-to-tiktok-hearing-in-the-u-s/)
 * [2023-03-25, 07:58:11](https://news.ycombinator.com/item?id=35300482) - [Yunohost: Get Off of My Cloud](https://yunohost.org)
 * [2023-03-25, 07:50:54](https://news.ycombinator.com/item?id=35300437) - [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
 * [2023-03-25, 06:59:28](https://news.ycombinator.com/item?id=35300200) - [Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
@@ -20,7 +21,6 @@
 * [2023-03-24, 20:14:52](https://news.ycombinator.com/item?id=35294818) - [Show HN: The Shark Programming Language](https://github.com/shogundevel/shark)
 * [2023-03-24, 20:13:30](https://news.ycombinator.com/item?id=35294802) - [Reasons the banking crisis isn’t a repeat of 2008](https://www.chase.com/personal/investments/learning-and-insights/article/tmt-march-twenty-four-twenty-three)
 * [2023-03-24, 19:18:04](https://news.ycombinator.com/item?id=35294111) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
-* [2023-03-24, 17:23:05](https://news.ycombinator.com/item?id=35292424) - [Women Aquanauts of the 1970s](https://www.atlasobscura.com/articles/women-aquanauts-tektite-ii)
 * [2023-03-24, 17:23:01](https://news.ycombinator.com/item?id=35292422) - [Engineers Need to Write](https://www.developing.dev/p/why-engineers-need-to-write)
 * [2023-03-24, 12:02:19](https://news.ycombinator.com/item?id=35287901) - [Show HN: Naja-Verilog – Structural Verilog Parser](https://github.com/xtofalex/naja-verilog)
 * [2023-03-24, 10:57:15](https://news.ycombinator.com/item?id=35287420) - [Sfbook.com: Providing book reviews of speculative fiction since 1999](https://sfbook.com/our-story.htm)
