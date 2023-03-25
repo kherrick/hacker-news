@@ -2,11 +2,11 @@
 
 * [2023-03-25, 18:29:02](https://news.ycombinator.com/item?id=35305541) - [GPT-4 identifies SVB’s biggest risk &amp; gives good advice using 2021 balance sheet](https://blog.matteskridge.com/business/gpt4-and-silicon-valley-bank/2023/03/19/)
 * [2023-03-25, 17:59:17](https://news.ycombinator.com/item?id=35305224) - [Any type of hormonal contraceptive may increase risk of breast cancer](https://www.ox.ac.uk/news/2023-03-22-any-type-hormonal-contraceptive-may-increase-risk-breast-cancer-0)
+* [2023-03-25, 17:57:16](https://news.ycombinator.com/item?id=35305193) - [A Bad Trip to Infinity](https://billwadge.com/2023/03/25/a-bad-trip-to-infinity/)
 * [2023-03-25, 17:45:14](https://news.ycombinator.com/item?id=35305079) - [Hospitals Are Reporting New Mothers for Neglect from Poppyseed False Positives](https://reason.com/2023/03/23/hospitals-are-still-reporting-new-mothers-for-neglect-based-on-drug-tests-triggered-by-poppy-seeds/)
 * [2023-03-25, 17:42:52](https://news.ycombinator.com/item?id=35305050) - [The Myth of the Alpha Wolf](https://www.newyorker.com/science/elements/the-myth-of-the-alpha-wolf)
 * [2023-03-25, 17:20:38](https://news.ycombinator.com/item?id=35304839) - [Barebones project to get an Inkplate 10 using WiFi, HTTPS using the Arduino IDE](https://blog.jgc.org/2023/03/barebones-project-showing-how-to-get.html)
 * [2023-03-25, 17:14:41](https://news.ycombinator.com/item?id=35304766) - [The Secret Joke at the Heart of the Harvard Affirmative-Action Case](https://www.newyorker.com/news/our-columnists/the-secret-joke-at-the-heart-of-the-harvard-affirmative-action-case)
-* [2023-03-25, 17:06:05](https://news.ycombinator.com/item?id=35304662) - [Crypto Faces Legal Reckoning as SEC Prepares Action Against Coinbase](https://www.wsj.com/articles/crypto-faces-legal-reckoning-as-sec-prepares-action-against-coinbase-e4c95bf3)
 * [2023-03-25, 17:01:13](https://news.ycombinator.com/item?id=35304593) - [SafeButler (YC S17) Is Hiring software engineer intern](https://www.safebutler.com/careers)
 * [2023-03-25, 16:11:50](https://news.ycombinator.com/item?id=35304078) - [Show HN: Aquarium – AI Controlled Containers](https://github.com/fafrd/aquarium)
 * [2023-03-25, 16:06:40](https://news.ycombinator.com/item?id=35304017) - [Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them](https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims)
