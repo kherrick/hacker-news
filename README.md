@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-25, 22:15:44](https://news.ycombinator.com/item?id=35308033) - [A nasal spray protects against coronavirus including immune-evasive variants](https://www.helsinki.fi/en/news/pandemics/nasal-spray-protects-against-coronavirus-infection-effective-also-against-recent-immune-evasive-variants)
 * [2023-03-25, 21:34:19](https://news.ycombinator.com/item?id=35307656) - [Show HN: Lunette – A word processor designed around writing, not formatting](https://lunette.app/)
 * [2023-03-25, 20:55:37](https://news.ycombinator.com/item?id=35307250) - [Open-Source GPT-4 Platform for Markdown](https://markprompt.com/)
 * [2023-03-25, 20:46:04](https://news.ycombinator.com/item?id=35307150) - [Managers exploit loyal workers over less committed colleagues](https://today.duke.edu/2023/03/managers-exploit-loyal-workers-over-less-committed-colleagues)
@@ -27,7 +28,6 @@
 * [2023-03-25, 08:47:34](https://news.ycombinator.com/item?id=35300755) - [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
 * [2023-03-25, 07:58:11](https://news.ycombinator.com/item?id=35300482) - [YunoHost – Operating system aiming to simplify server administration](https://yunohost.org)
 * [2023-03-25, 06:06:45](https://news.ycombinator.com/item?id=35299951) - [Low-Level C Programming – CSE 325 Lecture Videos](https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia)
-* [2023-03-24, 08:14:42](https://news.ycombinator.com/item?id=35286389) - [Determined: Deep Learning Training Platform](https://github.com/determined-ai/determined)
 * [2023-03-24, 06:40:05](https://news.ycombinator.com/item?id=35285769) - [Comparing Hobby PCB Vendors](https://lcamtuf.substack.com/p/comparing-hobby-pcb-vendors)
 * [2023-03-24, 05:52:24](https://news.ycombinator.com/item?id=35285518) - [Why take a compiler course? (2010)](https://blog.regehr.org/archives/169)
 

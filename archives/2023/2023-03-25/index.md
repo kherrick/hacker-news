@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 22:15:44](https://news.ycombinator.com/item?id=35308033) - [A nasal spray protects against coronavirus including immune-evasive variants](https://www.helsinki.fi/en/news/pandemics/nasal-spray-protects-against-coronavirus-infection-effective-also-against-recent-immune-evasive-variants)
 * [2023-03-25, 21:34:19](https://news.ycombinator.com/item?id=35307656) - [Show HN: Lunette – A word processor designed around writing, not formatting](https://lunette.app/)
 * [2023-03-25, 20:55:37](https://news.ycombinator.com/item?id=35307250) - [Open-Source GPT-4 Platform for Markdown](https://markprompt.com/)
 * [2023-03-25, 20:48:23](https://news.ycombinator.com/item?id=35307178) - [Rising seas will cut off many properties before they’re flooded](https://arstechnica.com/science/2023/03/rising-seas-will-cut-off-many-properties-before-theyre-flooded/)
