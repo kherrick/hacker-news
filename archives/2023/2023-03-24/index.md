@@ -6,6 +6,7 @@
 
 * [2023-03-24, 23:31:57](https://news.ycombinator.com/item?id=35297117) - [Judge Decides Against Internet Archive](https://file770.com/judge-decides-against-internet-archive/)
 * [2023-03-24, 23:27:22](https://news.ycombinator.com/item?id=35297074) - [We Ran a Phone Check at a Y Combinator Event in SF. Here’s How It Went](https://blog.getclearspace.com/we-ran-a-phone-check-at-a-ycombinator-event-in-san-francisco-heres-how-it-went-fb920a54c755)
+* [2023-03-24, 23:26:52](https://news.ycombinator.com/item?id=35297067) - [GPT-4 performs significantly worse on coding problems not in its training data](https://twitter.com/cHHillee/status/1635790330854526981)
 * [2023-03-24, 23:00:13](https://news.ycombinator.com/item?id=35296823) - [Former governor of the Bank of England:Needless money-printing fuelled inflation](https://www.spectator.co.uk/article/mervyn-king-needless-money-printing-fuelled-inflation/)
 * [2023-03-24, 22:10:55](https://news.ycombinator.com/item?id=35296352) - [We need a new economics of water as a common good](https://www.nature.com/articles/d41586-023-00800-z)
 * [2023-03-24, 21:51:06](https://news.ycombinator.com/item?id=35296131) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
@@ -70,6 +71,7 @@
 * [2023-03-24, 08:42:22](https://news.ycombinator.com/item?id=35286561) - [Humans have reclaimed ‘land size of Luxembourg’ since 2000](https://www.theguardian.com/science/2023/mar/22/humans-have-reclaimed-land-size-of-luxembourg-since-2000)
 * [2023-03-24, 08:40:09](https://news.ycombinator.com/item?id=35286544) - [The Framework Laptop 16](https://frame.work/fr/fr/blog/introducing-the-framework-laptop-16)
 * [2023-03-24, 06:37:55](https://news.ycombinator.com/item?id=35285757) - [Jack Dorsey’s Block loses 20% of value as Hindenburg Research alleges fraud](https://finance.yahoo.com/news/jack-dorsey-block-loses-20-164948270.html)
+* [2023-03-24, 06:11:06](https://news.ycombinator.com/item?id=35285615) - [Introduction to VSS Library](https://blog.adacore.com/introduction-to-vss-library)
 * [2023-03-24, 05:51:51](https://news.ycombinator.com/item?id=35285513) - [Boolean Logic, missing brackets and the 2023 Nigeria Presidential Election](https://markessien.com/posts/boolean_logic_and_the_tribunal/)
 * [2023-03-24, 05:39:19](https://news.ycombinator.com/item?id=35285454) - [The Venture Capitalist&#x27;s Dilemma](https://newsletter.mollywhite.net/p/the-venture-capitalists-dilemma)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
