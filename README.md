@@ -25,7 +25,7 @@
 * [2023-03-24, 16:08:37](https://news.ycombinator.com/item?id=35291112) - [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
 * [2023-03-24, 15:04:47](https://news.ycombinator.com/item?id=35289979) - [America’s online privacy problems are much bigger than TikTok](https://www.washingtonpost.com/technology/2023/03/24/tiktok-online-privacy-laws/)
 * [2023-03-24, 10:57:15](https://news.ycombinator.com/item?id=35287420) - [Sfbook.com: Providing book reviews of speculative fiction since 1999](https://sfbook.com/our-story.htm)
-* [2023-03-24, 06:11:06](https://news.ycombinator.com/item?id=35285615) - [Introduction to VSS Library](https://blog.adacore.com/introduction-to-vss-library)
+* [2023-03-24, 05:53:18](https://news.ycombinator.com/item?id=35285521) - [Understanding Glibc Malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 * [2023-03-24, 04:59:14](https://news.ycombinator.com/item?id=35285251) - [The Paja Formation: An ecosystem of monsters](https://arstechnica.com/science/2023/03/the-paja-formation-an-ecosystem-of-monsters/)
 * [2023-03-24, 03:40:37](https://news.ycombinator.com/item?id=35284823) - [Cadillac Ranch](https://en.wikipedia.org/wiki/Cadillac_Ranch)
