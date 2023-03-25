@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 17:42:52](https://news.ycombinator.com/item?id=35305050) - [The Myth of the Alpha Wolf](https://www.newyorker.com/science/elements/the-myth-of-the-alpha-wolf)
+* [2023-03-25, 17:20:38](https://news.ycombinator.com/item?id=35304839) - [Barebones project to get an Inkplate 10 using WiFi, HTTPS using the Arduino IDE](https://blog.jgc.org/2023/03/barebones-project-showing-how-to-get.html)
 * [2023-03-25, 17:14:41](https://news.ycombinator.com/item?id=35304766) - [The Secret Joke at the Heart of the Harvard Affirmative-Action Case](https://www.newyorker.com/news/our-columnists/the-secret-joke-at-the-heart-of-the-harvard-affirmative-action-case)
 * [2023-03-25, 17:13:29](https://news.ycombinator.com/item?id=35304757) - [Please comment if your company can sign this open letter supporting UN](https://docs.google.com/document/d/1rogfPiHPC_vt48VpaOdXMycJhRN7BnXMOndAi-tZV3E/edit)
 * [2023-03-25, 17:06:05](https://news.ycombinator.com/item?id=35304662) - [Crypto Faces Legal Reckoning as SEC Prepares Action Against Coinbase](https://www.wsj.com/articles/crypto-faces-legal-reckoning-as-sec-prepares-action-against-coinbase-e4c95bf3)
