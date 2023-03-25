@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 15:16:55](https://news.ycombinator.com/item?id=35303486) - [India Shut Down Cell Service for 27M During a Manhunt](https://www.wired.com/story/india-activist-manhunt-sikh-activist/)
 * [2023-03-25, 15:08:25](https://news.ycombinator.com/item?id=35303391) - [Major shake-up coming for Fermilab, the troubled U.S. particle physics center](https://www.science.org/content/article/major-shake-coming-fermilab-troubled-u-s-particle-physics-center)
 * [2023-03-25, 14:53:45](https://news.ycombinator.com/item?id=35303210) - [YouTube’s Chaotic Rise to World Domination](https://english.elpais.com/society/2023-03-25/youtubes-chaotic-rise-to-world-domination-not-long-ago-virtually-no-one-took-it-seriously.html)
+* [2023-03-25, 14:42:08](https://news.ycombinator.com/item?id=35303095) - [Sweet Dreams Cereal – Post&#x27;s new product category of “bedtime cereal”](https://www.postconsumerbrands.com/sweet-dreams/)
 * [2023-03-25, 14:17:41](https://news.ycombinator.com/item?id=35302858) - [CodeAlpaca – Instruction following code generation model](https://github.com/sahil280114/codealpaca)
 * [2023-03-25, 14:09:22](https://news.ycombinator.com/item?id=35302767) - [Theo de Raadt: Synthetic Memory Protections (CanSecWest 2023) [OpenBSD] [pdf]](https://www.openbsd.org/papers/csw2023.pdf)
 * [2023-03-25, 14:04:28](https://news.ycombinator.com/item?id=35302735) - [Freedom Clock](https://domsson.github.io/freedom-clock/)
