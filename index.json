@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-25, 21:34:19",
+      "https://news.ycombinator.com/item?id=35307656"
+    ],
+    [
+      "Show HN: Lunette – A word processor designed around writing, not formatting",
+      "https://lunette.app/"
+    ]
+  ],
+  [
+    [
       "2023-03-25, 20:55:37",
       "https://news.ycombinator.com/item?id=35307250"
     ],
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2023-03-25, 11:39:08",
+      "https://news.ycombinator.com/item?id=35301657"
+    ],
+    [
+      "Show HN: ChatGPT Plugins are a security nightmare",
+      "https://github.com/greshake/llm-security"
+    ]
+  ],
+  [
+    [
       "2023-03-25, 11:04:28",
       "https://news.ycombinator.com/item?id=35301447"
     ],
@@ -227,16 +247,6 @@
     [
       "Common Lisp Quick Reference (2018)",
       "http://clqr.boundp.org"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 09:03:11",
-      "https://news.ycombinator.com/item?id=35300822"
-    ],
-    [
-      "Show HN: ESER-32&#x2F;Zuse Elektra emulator",
-      "https://github.com/setun-90/ESER-32"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Low-Level C Programming – CSE 325 Lecture Videos",
       "https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia"
-    ]
-  ],
-  [
-    [
-      "2023-03-24, 08:14:42",
-      "https://news.ycombinator.com/item?id=35286389"
-    ],
-    [
-      "Determined: Deep Learning Training Platform",
-      "https://github.com/determined-ai/determined"
     ]
   ],
   [
