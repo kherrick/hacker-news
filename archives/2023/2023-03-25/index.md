@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 12:08:05](https://news.ycombinator.com/item?id=35301846) - [Civilization II](https://www.abortretry.fail/p/civilization-ii)
+* [2023-03-25, 12:00:45](https://news.ycombinator.com/item?id=35301795) - [Paperspace (YC W15) is hiring a fullstack engineer to simplify deploying AI apps](https://www.paperspace.com/careers/positions?gh_jid=4180983005&gh_src=652ffa365us)
 * [2023-03-25, 11:04:28](https://news.ycombinator.com/item?id=35301447) - [Everything we know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
 * [2023-03-25, 10:00:45](https://news.ycombinator.com/item?id=35301138) - [Common Lisp Quick Reference](http://clqr.boundp.org)
 * [2023-03-25, 09:59:33](https://news.ycombinator.com/item?id=35301129) - [“Can we ban iPhone in retaliation?” Chinese internet reacts to TikTok hearing](https://thechinaproject.com/2023/03/24/can-we-ban-iphone-in-retaliation-chinese-internet-reacts-to-tiktok-hearing-in-the-u-s/)
 * [2023-03-25, 09:28:38](https://news.ycombinator.com/item?id=35300977) - [Principal resigns after Florida students shown Michelangelo statue](https://www.bbc.co.uk/news/world-us-canada-65071989)
 * [2023-03-25, 09:03:11](https://news.ycombinator.com/item?id=35300822) - [Show HN: ESER-32&#x2F;Zuse Elektra emulator](https://github.com/setun-90/ESER-32)
 * [2023-03-25, 07:58:11](https://news.ycombinator.com/item?id=35300482) - [Yunohost: Get Off of My Cloud](https://yunohost.org)
+* [2023-03-25, 07:57:24](https://news.ycombinator.com/item?id=35300477) - [Body shape&#x2F;mass distribution in birds and their dinosaurian ancestors](https://www.nature.com/articles/s41467-023-37317-y)
 * [2023-03-25, 07:50:54](https://news.ycombinator.com/item?id=35300437) - [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
 * [2023-03-25, 07:26:19](https://news.ycombinator.com/item?id=35300331) - [Agile Is a Glass Cannon](https://www.tomdalling.com/blog/software-processes/agile-is-a-glass-cannon/)
 * [2023-03-25, 06:59:28](https://news.ycombinator.com/item?id=35300200) - [Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
