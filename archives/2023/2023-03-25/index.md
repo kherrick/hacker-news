@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 18:59:26](https://news.ycombinator.com/item?id=35305887) - [ChatGPT will revolutionize the economy. We need to decide what that looks like](https://www.technologyreview.com/2023/03/25/1070275/chatgpt-revolutionize-economy-decide-what-looks-like/)
 * [2023-03-25, 18:40:14](https://news.ycombinator.com/item?id=35305655) - [Experimental library for scraping websites using OpenAI&#x27;s GPT API](https://jamesturk.github.io/scrapeghost/)
 * [2023-03-25, 18:31:04](https://news.ycombinator.com/item?id=35305561) - [OpenAI CEO Sam Altman on Lex Fridman Podcast](https://www.youtube.com/watch?v=L_Guz73e6fw)
 * [2023-03-25, 18:29:02](https://news.ycombinator.com/item?id=35305541) - [GPT-4 identifies SVB’s biggest risk &amp; gives good advice using 2021 balance sheet](https://blog.matteskridge.com/business/gpt4-and-silicon-valley-bank/2023/03/19/)
@@ -19,6 +20,7 @@
 * [2023-03-25, 16:30:02](https://news.ycombinator.com/item?id=35304241) - [50 years of silence: It&#x27;s time to end the speed limit in US airspace](https://www.elidourado.com/p/50-years-supersonic-ban)
 * [2023-03-25, 16:11:50](https://news.ycombinator.com/item?id=35304078) - [Show HN: Aquarium – AI Controlled Containers](https://github.com/fafrd/aquarium)
 * [2023-03-25, 16:06:40](https://news.ycombinator.com/item?id=35304017) - [Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them](https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims)
+* [2023-03-25, 15:54:13](https://news.ycombinator.com/item?id=35303895) - [Mathematicians Discovered a New 13-Sided Aperiodic Monotile](https://www.popularmechanics.com/science/math/a43402074/mathematicians-discover-new-13-sided-shape/)
 * [2023-03-25, 15:43:46](https://news.ycombinator.com/item?id=35303799) - [Microsoft Researchers Claim GPT-4 Is Showing “Sparks” of AGI](https://futurism.com/gpt-4-sparks-of-agi)
 * [2023-03-25, 15:33:50](https://news.ycombinator.com/item?id=35303670) - [Think Better with Reflect](https://reflect.app/)
 * [2023-03-25, 15:26:28](https://news.ycombinator.com/item?id=35303574) - [An Interview with Nvidia CEO Jensen Huang About AI’s iPhone Moment](https://stratechery.com/2023/an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-moment/)
