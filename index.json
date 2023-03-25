@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=35297839"
     ],
     [
-      "Cramming More Components onto Integrated Circuits (Gordon Moore, 1965) [pdf]",
+      "Cramming More Components onto Integrated Circuits (1965) [pdf]",
       "https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf"
     ]
   ],
@@ -15,28 +15,8 @@
       "https://news.ycombinator.com/item?id=35297766"
     ],
     [
-      "Automatically document an entire codebase using LLMs",
+      "Autodoc: Toolkit for auto-generating codebase documentation using LLMs",
       "https://github.com/context-labs/autodoc"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 00:15:11",
-      "https://news.ycombinator.com/item?id=35297491"
-    ],
-    [
-      "Gordon Moore, Intel Co-Founder, Dies at 94",
-      "https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 00:15:05",
-      "https://news.ycombinator.com/item?id=35297487"
-    ],
-    [
-      "In Memoriam: Gordon Moore, 1929 – 2023",
-      "https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023"
     ]
   ],
   [
@@ -46,7 +26,7 @@
     ],
     [
       "Gordon Moore has died",
-      "https://www.intc.com/news-events/press-releases/detail/1611/gordon-moore-intel-co-founder-dies-at-94"
+      "https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023"
     ]
   ],
   [
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35297117"
     ],
     [
-      "Judge Decides Against Internet Archive",
+      "Judge decides against Internet Archive",
       "https://file770.com/judge-decides-against-internet-archive/"
     ]
   ],
@@ -75,7 +55,7 @@
       "https://news.ycombinator.com/item?id=35297074"
     ],
     [
-      "We Ran a Phone Check at a Y Combinator Event in SF. Here’s How It Went",
+      "We ran a phone check at a Y Combinator event in SF",
       "https://blog.getclearspace.com/we-ran-a-phone-check-at-a-ycombinator-event-in-san-francisco-heres-how-it-went-fb920a54c755"
     ]
   ],
@@ -101,12 +81,32 @@
   ],
   [
     [
+      "2023-03-24, 21:53:57",
+      "https://news.ycombinator.com/item?id=35296165"
+    ],
+    [
+      "Podman Desktop: Same functionality as Docker Desktop but open source",
+      "https://podman-desktop.io/downloads"
+    ]
+  ],
+  [
+    [
       "2023-03-24, 21:51:06",
       "https://news.ycombinator.com/item?id=35296131"
     ],
     [
       "Internet of Skull",
       "https://mle-online.com/projects/internet_skull/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-24, 21:35:04",
+      "https://news.ycombinator.com/item?id=35295910"
+    ],
+    [
+      "Reviving Chromebooks with Ubuntu",
+      "https://anarchosolarpunk.substack.com/p/chromebook-revive"
     ]
   ],
   [
