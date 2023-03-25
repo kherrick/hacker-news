@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-25, 17:14:41](https://news.ycombinator.com/item?id=35304766) - [The Secret Joke at the Heart of the Harvard Affirmative-Action Case](https://www.newyorker.com/news/our-columnists/the-secret-joke-at-the-heart-of-the-harvard-affirmative-action-case)
-* [2023-03-25, 17:13:29](https://news.ycombinator.com/item?id=35304757) - [Please comment if your company can sign this open letter supporting UN](https://docs.google.com/document/d/1rogfPiHPC_vt48VpaOdXMycJhRN7BnXMOndAi-tZV3E/edit)
 * [2023-03-25, 17:06:05](https://news.ycombinator.com/item?id=35304662) - [Crypto Faces Legal Reckoning as SEC Prepares Action Against Coinbase](https://www.wsj.com/articles/crypto-faces-legal-reckoning-as-sec-prepares-action-against-coinbase-e4c95bf3)
 * [2023-03-25, 17:01:13](https://news.ycombinator.com/item?id=35304593) - [SafeButler (YC S17) Is Hiring software engineer intern](https://www.safebutler.com/careers)
-* [2023-03-25, 16:30:02](https://news.ycombinator.com/item?id=35304241) - [50 years of silence: It&#x27;s time to end the speed limit in US airspace](https://www.elidourado.com/p/50-years-supersonic-ban)
 * [2023-03-25, 16:11:50](https://news.ycombinator.com/item?id=35304078) - [Show HN: Aquarium – AI Controlled Containers](https://github.com/fafrd/aquarium)
+* [2023-03-25, 16:06:40](https://news.ycombinator.com/item?id=35304017) - [Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them](https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims)
 * [2023-03-25, 15:33:50](https://news.ycombinator.com/item?id=35303670) - [Think Better with Reflect](https://reflect.app/)
 * [2023-03-25, 15:16:55](https://news.ycombinator.com/item?id=35303486) - [India Shut Down Cell Service for 27M During a Manhunt](https://www.wired.com/story/india-activist-manhunt-sikh-activist/)
 * [2023-03-25, 15:11:24](https://news.ycombinator.com/item?id=35303423) - [Call yourself titles](https://josem.co/call-yourself-titles/)
@@ -13,7 +12,6 @@
 * [2023-03-25, 14:17:41](https://news.ycombinator.com/item?id=35302858) - [CodeAlpaca – Instruction following code generation model](https://github.com/sahil280114/codealpaca)
 * [2023-03-25, 14:09:22](https://news.ycombinator.com/item?id=35302767) - [Synthetic Memory Protections: An update on ROP mitigations [pdf]](https://www.openbsd.org/papers/csw2023.pdf)
 * [2023-03-25, 13:58:21](https://news.ycombinator.com/item?id=35302682) - [Researchers are trying to mitigate the spread of wild pigs in Canada](https://www.fieldandstream.com/conservation/canada-super-pig-population-graphics/)
-* [2023-03-25, 13:48:55](https://news.ycombinator.com/item?id=35302597) - [Fundamentally Understanding and Solving RowHammer](https://arxiv.org/abs/2211.07613)
 * [2023-03-25, 13:23:11](https://news.ycombinator.com/item?id=35302395) - [Concrete Diagramming, a Lightweight Alternative to C4](https://www.ilograph.com/blog/posts/concrete-diagramming-models/)
 * [2023-03-25, 11:04:28](https://news.ycombinator.com/item?id=35301447) - [What we know about the Apple Neural Engine](https://github.com/hollance/neural-engine)
 * [2023-03-25, 10:00:45](https://news.ycombinator.com/item?id=35301138) - [Common Lisp Quick Reference (2018)](http://clqr.boundp.org)
@@ -26,10 +24,12 @@
 * [2023-03-25, 05:54:06](https://news.ycombinator.com/item?id=35299885) - [Immune system cells in the gut linked to stress-induced depression](https://www.hopkinsmedicine.org/news/newsroom/news-releases/new-evidence-immune-system-cells-in-the-gut-linked-to-stress-induced-depression)
 * [2023-03-25, 00:07:49](https://news.ycombinator.com/item?id=35297420) - [Gordon Moore has died](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
 * [2023-03-24, 23:31:57](https://news.ycombinator.com/item?id=35297117) - [Judge decides against Internet Archive](https://file770.com/judge-decides-against-internet-archive/)
+* [2023-03-24, 22:10:55](https://news.ycombinator.com/item?id=35296352) - [We need a new economics of water as a common good](https://www.nature.com/articles/d41586-023-00800-z)
 * [2023-03-24, 21:37:36](https://news.ycombinator.com/item?id=35295943) - [Mr. Electrico, a sideshow magician who inspired Ray Bradbury, then vanished](https://www.smithsonianmag.com/history/the-sideshow-magician-who-inspired-ray-bradburythen-vanished-180981764/)
 * [2023-03-24, 08:14:42](https://news.ycombinator.com/item?id=35286389) - [Determined: Deep Learning Training Platform](https://github.com/determined-ai/determined)
 * [2023-03-24, 07:49:55](https://news.ycombinator.com/item?id=35286221) - [How big should a programming language be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 * [2023-03-24, 06:40:05](https://news.ycombinator.com/item?id=35285769) - [Comparing Hobby PCB Vendors](https://lcamtuf.substack.com/p/comparing-hobby-pcb-vendors)
+* [2023-03-23, 08:54:16](https://news.ycombinator.com/item?id=35271977) - [The Malham Dig (2016)](http://www.mudinmyhair.co.uk/Malham%20Dig.html)
 
 ## [Archives](archives/index.md)
 

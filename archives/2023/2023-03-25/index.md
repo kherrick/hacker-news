@@ -10,6 +10,7 @@
 * [2023-03-25, 17:01:13](https://news.ycombinator.com/item?id=35304593) - [SafeButler (YC S17) Is Hiring software engineer intern](https://www.safebutler.com/careers)
 * [2023-03-25, 16:30:02](https://news.ycombinator.com/item?id=35304241) - [50 years of silence: It&#x27;s time to end the speed limit in US airspace](https://www.elidourado.com/p/50-years-supersonic-ban)
 * [2023-03-25, 16:11:50](https://news.ycombinator.com/item?id=35304078) - [Show HN: Aquarium – AI Controlled Containers](https://github.com/fafrd/aquarium)
+* [2023-03-25, 16:06:40](https://news.ycombinator.com/item?id=35304017) - [Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them](https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims)
 * [2023-03-25, 15:43:46](https://news.ycombinator.com/item?id=35303799) - [Microsoft Researchers Claim GPT-4 Is Showing “Sparks” of AGI](https://futurism.com/gpt-4-sparks-of-agi)
 * [2023-03-25, 15:33:50](https://news.ycombinator.com/item?id=35303670) - [Think Better with Reflect](https://reflect.app/)
 * [2023-03-25, 15:16:55](https://news.ycombinator.com/item?id=35303486) - [India Shut Down Cell Service for 27M During a Manhunt](https://www.wired.com/story/india-activist-manhunt-sikh-activist/)
