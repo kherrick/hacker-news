@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 18:40:14](https://news.ycombinator.com/item?id=35305655) - [Experimental library for scraping websites using OpenAI&#x27;s GPT API](https://jamesturk.github.io/scrapeghost/)
+* [2023-03-25, 18:31:04](https://news.ycombinator.com/item?id=35305561) - [OpenAI CEO Sam Altman on Lex Fridman Podcast](https://www.youtube.com/watch?v=L_Guz73e6fw)
 * [2023-03-25, 18:29:02](https://news.ycombinator.com/item?id=35305541) - [GPT-4 identifies SVB’s biggest risk &amp; gives good advice using 2021 balance sheet](https://blog.matteskridge.com/business/gpt4-and-silicon-valley-bank/2023/03/19/)
 * [2023-03-25, 17:59:17](https://news.ycombinator.com/item?id=35305224) - [Any type of hormonal contraceptive may increase risk of breast cancer](https://www.ox.ac.uk/news/2023-03-22-any-type-hormonal-contraceptive-may-increase-risk-breast-cancer-0)
 * [2023-03-25, 17:57:16](https://news.ycombinator.com/item?id=35305193) - [A Bad Trip to Infinity](https://billwadge.com/2023/03/25/a-bad-trip-to-infinity/)
