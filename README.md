@@ -4,7 +4,7 @@
 * [2023-03-25, 12:00:45](https://news.ycombinator.com/item?id=35301795) - [Paperspace (YC W15) is hiring a fullstack engineer to simplify deploying AI apps](https://www.paperspace.com/careers/positions?gh_jid=4180983005&gh_src=652ffa365us)
 * [2023-03-25, 11:44:53](https://news.ycombinator.com/item?id=35301695) - [Errors Made by the CDC During Covid-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
 * [2023-03-25, 11:04:28](https://news.ycombinator.com/item?id=35301447) - [Everything we know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
-* [2023-03-25, 10:00:45](https://news.ycombinator.com/item?id=35301138) - [Common Lisp Quick Reference](http://clqr.boundp.org)
+* [2023-03-25, 10:00:45](https://news.ycombinator.com/item?id=35301138) - [Common Lisp Quick Reference (2018)](http://clqr.boundp.org)
 * [2023-03-25, 07:58:11](https://news.ycombinator.com/item?id=35300482) - [YunoHost – Operating system aiming to simplify server administration](https://yunohost.org)
 * [2023-03-25, 07:57:24](https://news.ycombinator.com/item?id=35300477) - [Body shape&#x2F;mass distribution in birds and their dinosaurian ancestors](https://www.nature.com/articles/s41467-023-37317-y)
 * [2023-03-25, 07:50:54](https://news.ycombinator.com/item?id=35300437) - [Making Steel with Electricity](https://industrydecarbonization.com/news/making-steel-with-electricity.html)
@@ -19,7 +19,7 @@
 * [2023-03-24, 23:26:52](https://news.ycombinator.com/item?id=35297067) - [GPT-4 performs significantly worse on coding problems not in its training data](https://twitter.com/cHHillee/status/1635790330854526981)
 * [2023-03-24, 21:51:06](https://news.ycombinator.com/item?id=35296131) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
 * [2023-03-24, 21:37:36](https://news.ycombinator.com/item?id=35295943) - [The Sideshow Magician Who Inspired Ray Bradbury–Then Vanished](https://www.smithsonianmag.com/history/the-sideshow-magician-who-inspired-ray-bradburythen-vanished-180981764/)
-* [2023-03-24, 20:35:59](https://news.ycombinator.com/item?id=35295071) - [A &#x27;subterranean Galapagos&#x27; inside the Earth](https://www.vice.com/en/article/mbyxw4/theres-a-subterranean-galapagos-deep-inside-the-earth)
+* [2023-03-24, 20:35:59](https://news.ycombinator.com/item?id=35295071) - [A &#x27;subterranean Galapagos&#x27; inside the Earth (2018)](https://www.vice.com/en/article/mbyxw4/theres-a-subterranean-galapagos-deep-inside-the-earth)
 * [2023-03-24, 20:13:30](https://news.ycombinator.com/item?id=35294802) - [Reasons the banking crisis isn’t a repeat of 2008](https://www.chase.com/personal/investments/learning-and-insights/article/tmt-march-twenty-four-twenty-three)
 * [2023-03-24, 19:18:04](https://news.ycombinator.com/item?id=35294111) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
 * [2023-03-24, 12:02:19](https://news.ycombinator.com/item?id=35287901) - [Show HN: Naja-Verilog – Structural Verilog Parser](https://github.com/xtofalex/naja-verilog)
@@ -29,7 +29,7 @@
 * [2023-03-24, 07:23:50](https://news.ycombinator.com/item?id=35286068) - [Large-scale iterated singing experiments reveal music evolution](https://www.cell.com/current-biology/fulltext/S0960-9822%2823%2900243-9)
 * [2023-03-24, 05:53:18](https://news.ycombinator.com/item?id=35285521) - [Understanding Glibc Malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 * [2023-03-24, 05:28:58](https://news.ycombinator.com/item?id=35285390) - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
-* [2023-03-23, 08:54:16](https://news.ycombinator.com/item?id=35271977) - [The Malham Dig](http://www.mudinmyhair.co.uk/Malham%20Dig.html)
+* [2023-03-23, 08:54:16](https://news.ycombinator.com/item?id=35271977) - [The Malham Dig (2016)](http://www.mudinmyhair.co.uk/Malham%20Dig.html)
 
 ## [Archives](archives/index.md)
 
