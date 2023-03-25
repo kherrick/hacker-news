@@ -2,7 +2,6 @@
 
 * [2023-03-25, 12:08:05](https://news.ycombinator.com/item?id=35301846) - [Civilization II](https://www.abortretry.fail/p/civilization-ii)
 * [2023-03-25, 12:00:45](https://news.ycombinator.com/item?id=35301795) - [Paperspace (YC W15) is hiring a fullstack engineer to simplify deploying AI apps](https://www.paperspace.com/careers/positions?gh_jid=4180983005&gh_src=652ffa365us)
-* [2023-03-25, 11:44:53](https://news.ycombinator.com/item?id=35301695) - [Errors Made by the CDC During Covid-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
 * [2023-03-25, 11:04:28](https://news.ycombinator.com/item?id=35301447) - [Everything we know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
 * [2023-03-25, 10:00:45](https://news.ycombinator.com/item?id=35301138) - [Common Lisp Quick Reference (2018)](http://clqr.boundp.org)
 * [2023-03-25, 07:58:11](https://news.ycombinator.com/item?id=35300482) - [YunoHost – Operating system aiming to simplify server administration](https://yunohost.org)
@@ -17,6 +16,7 @@
 * [2023-03-24, 23:31:57](https://news.ycombinator.com/item?id=35297117) - [Judge decides against Internet Archive](https://file770.com/judge-decides-against-internet-archive/)
 * [2023-03-24, 23:27:22](https://news.ycombinator.com/item?id=35297074) - [We ran a phone check at a Y Combinator event in SF](https://blog.getclearspace.com/we-ran-a-phone-check-at-a-ycombinator-event-in-san-francisco-heres-how-it-went-fb920a54c755)
 * [2023-03-24, 23:26:52](https://news.ycombinator.com/item?id=35297067) - [GPT-4 performs significantly worse on coding problems not in its training data](https://twitter.com/cHHillee/status/1635790330854526981)
+* [2023-03-24, 22:10:55](https://news.ycombinator.com/item?id=35296352) - [We need a new economics of water as a common good](https://www.nature.com/articles/d41586-023-00800-z)
 * [2023-03-24, 21:51:06](https://news.ycombinator.com/item?id=35296131) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
 * [2023-03-24, 21:37:36](https://news.ycombinator.com/item?id=35295943) - [The Sideshow Magician Who Inspired Ray Bradbury–Then Vanished](https://www.smithsonianmag.com/history/the-sideshow-magician-who-inspired-ray-bradburythen-vanished-180981764/)
 * [2023-03-24, 20:35:59](https://news.ycombinator.com/item?id=35295071) - [A &#x27;subterranean Galapagos&#x27; inside the Earth (2018)](https://www.vice.com/en/article/mbyxw4/theres-a-subterranean-galapagos-deep-inside-the-earth)
