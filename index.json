@@ -35,18 +35,8 @@
       "https://news.ycombinator.com/item?id=35302767"
     ],
     [
-      "Theo de Raadt: Synthetic Memory Protections (CanSecWest 2023) [OpenBSD] [pdf]",
+      "Synthetic Memory Protections: An update on ROP mitigations [pdf]",
       "https://www.openbsd.org/papers/csw2023.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 14:04:28",
-      "https://news.ycombinator.com/item?id=35302735"
-    ],
-    [
-      "Freedom Clock",
-      "https://domsson.github.io/freedom-clock/"
     ]
   ],
   [
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35301447"
     ],
     [
-      "Everything we know about the Apple Neural Engine (ANE)",
+      "What we know about the Apple Neural Engine",
       "https://github.com/hollance/neural-engine"
     ]
   ],
@@ -177,6 +167,16 @@
     [
       "Immune System Cells in the Gut Linked to Stress-Induced Depression",
       "https://www.hopkinsmedicine.org/news/newsroom/news-releases/new-evidence-immune-system-cells-in-the-gut-linked-to-stress-induced-depression"
+    ]
+  ],
+  [
+    [
+      "2023-03-25, 05:12:29",
+      "https://news.ycombinator.com/item?id=35299665"
+    ],
+    [
+      "Weka Violates MinIO&#x27;s Open Source Licenses",
+      "https://blog.min.io/weka-violates-minios-open-source-licenses/"
     ]
   ],
   [
