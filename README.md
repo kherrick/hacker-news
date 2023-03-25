@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-25, 19:51:29](https://news.ycombinator.com/item?id=35306506) - [An Eevdf CPU Scheduler for Linux](https://lwn.net/Articles/925371/)
-* [2023-03-25, 18:47:24](https://news.ycombinator.com/item?id=35305748) - [You Do Not Have a Shoe Size](https://writing.kemitchell.com/2023/03/25/No-Shoe-Size)
+* [2023-03-25, 19:15:17](https://news.ycombinator.com/item?id=35306042) - [Management structures at various large companies [image]](https://goomics.net/62/)
 * [2023-03-25, 18:40:14](https://news.ycombinator.com/item?id=35305655) - [Experimental library for scraping websites using OpenAI&#x27;s GPT API](https://jamesturk.github.io/scrapeghost/)
 * [2023-03-25, 17:59:17](https://news.ycombinator.com/item?id=35305224) - [Any type of hormonal contraceptive may increase risk of breast cancer](https://www.ox.ac.uk/news/2023-03-22-any-type-hormonal-contraceptive-may-increase-risk-breast-cancer-0)
 * [2023-03-25, 17:57:16](https://news.ycombinator.com/item?id=35305193) - [A Bad Trip to Infinity](https://billwadge.com/2023/03/25/a-bad-trip-to-infinity/)
