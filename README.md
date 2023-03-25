@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-25, 19:35:51](https://news.ycombinator.com/item?id=35306307) - [Tell HN: My WD Blue SA510 SSD died after 5 months](https://news.ycombinator.com/item?id=35306307)
 * [2023-03-25, 18:59:26](https://news.ycombinator.com/item?id=35305887) - [ChatGPT will revolutionize the economy. We need to decide what that looks like](https://www.technologyreview.com/2023/03/25/1070275/chatgpt-revolutionize-economy-decide-what-looks-like/)
 * [2023-03-25, 18:40:14](https://news.ycombinator.com/item?id=35305655) - [Experimental library for scraping websites using OpenAI&#x27;s GPT API](https://jamesturk.github.io/scrapeghost/)
 * [2023-03-25, 18:31:04](https://news.ycombinator.com/item?id=35305561) - [OpenAI CEO Sam Altman on Lex Fridman Podcast](https://www.youtube.com/watch?v=L_Guz73e6fw)
@@ -27,7 +28,6 @@
 * [2023-03-25, 00:07:49](https://news.ycombinator.com/item?id=35297420) - [Gordon Moore has died](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
 * [2023-03-24, 21:37:36](https://news.ycombinator.com/item?id=35295943) - [Mr. Electrico, a sideshow magician who inspired Ray Bradbury, then vanished](https://www.smithsonianmag.com/history/the-sideshow-magician-who-inspired-ray-bradburythen-vanished-180981764/)
 * [2023-03-24, 08:14:42](https://news.ycombinator.com/item?id=35286389) - [Determined: Deep Learning Training Platform](https://github.com/determined-ai/determined)
-* [2023-03-24, 07:49:55](https://news.ycombinator.com/item?id=35286221) - [How big should a programming language be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 * [2023-03-24, 06:40:05](https://news.ycombinator.com/item?id=35285769) - [Comparing Hobby PCB Vendors](https://lcamtuf.substack.com/p/comparing-hobby-pcb-vendors)
 * [2023-03-24, 05:52:24](https://news.ycombinator.com/item?id=35285518) - [Why Take a Compiler Course?](https://blog.regehr.org/archives/169)
 
