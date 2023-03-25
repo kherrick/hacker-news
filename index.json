@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-03-25, 00:44:52",
+      "https://news.ycombinator.com/item?id=35297766"
+    ],
+    [
+      "Automatically document an entire codebase using LLMs",
+      "https://github.com/context-labs/autodoc"
+    ]
+  ],
+  [
+    [
       "2023-03-25, 00:15:11",
       "https://news.ycombinator.com/item?id=35297491"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35297420"
     ],
     [
-      "Gordon Moore, Intel Co-Founder, Dies at 94",
+      "Gordon Moore has died",
       "https://www.intc.com/news-events/press-releases/detail/1611/gordon-moore-intel-co-founder-dies-at-94"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Simple Shellcode Dissection",
       "https://isc.sans.edu/diary/rss/29642"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 15:00:51",
-      "https://news.ycombinator.com/item?id=35262098"
-    ],
-    [
-      "The grotesque side of Leonardo da Vinci",
-      "https://www.theguardian.com/artanddesign/2023/mar/15/mona-lisa-monstrous-grotesque-leonardo-da-vinci-national-gallery-ugly-duchess"
     ]
   ]
 ]
