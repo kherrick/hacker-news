@@ -7,6 +7,7 @@
 * [2023-03-25, 20:55:37](https://news.ycombinator.com/item?id=35307250) - [Open-Source GPT-4 Platform for Markdown](https://markprompt.com/)
 * [2023-03-25, 20:48:23](https://news.ycombinator.com/item?id=35307178) - [Rising seas will cut off many properties before they’re flooded](https://arstechnica.com/science/2023/03/rising-seas-will-cut-off-many-properties-before-theyre-flooded/)
 * [2023-03-25, 20:46:04](https://news.ycombinator.com/item?id=35307150) - [Managers exploit loyal workers over less committed colleagues](https://today.duke.edu/2023/03/managers-exploit-loyal-workers-over-less-committed-colleagues)
+* [2023-03-25, 20:23:35](https://news.ycombinator.com/item?id=35306909) - [Lex Fridman Podcast #367 – Sam Altman](https://lexfridman.com/sam-altman/)
 * [2023-03-25, 20:15:07](https://news.ycombinator.com/item?id=35306805) - [Generate a Cover Letter by Pasting the Job Post and Your Resume](https://www.careered.ai/tool/cover-letter)
 * [2023-03-25, 19:56:43](https://news.ycombinator.com/item?id=35306601) - [OpenAI&#x27;s ChatGPT plugins may revolutionise the traditional customer journey](https://tevfik.xyz/posts/chatgpt-plugins/)
 * [2023-03-25, 19:51:29](https://news.ycombinator.com/item?id=35306506) - [An Eevdf CPU Scheduler for Linux](https://lwn.net/Articles/925371/)
