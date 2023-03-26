@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 11:31:57](https://news.ycombinator.com/item?id=35313326) - [140 Megapixel Picture of the Sun](https://old.reddit.com/r/space/comments/122475u/i_teamed_up_with_a_fellow_redditor_to_try_and/)
+* [2023-03-26, 11:20:28](https://news.ycombinator.com/item?id=35313232) - [Text Only News Websites](https://blog.wturrell.co.uk/text-only-news-websites/)
+* [2023-03-26, 11:11:34](https://news.ycombinator.com/item?id=35313171) - [Show HN: GPT-4 Reverse Turing Test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c)
+* [2023-03-26, 10:44:19](https://news.ycombinator.com/item?id=35313030) - [The F-15 Eagle: Origins and Development, 1964-1972 [pdf]](https://media.defense.gov/2012/May/16/2001330012/-1/-1/0/AFD-120516-036.pdf)
 * [2023-03-26, 10:32:47](https://news.ycombinator.com/item?id=35312960) - [Open-source high-performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
 * [2023-03-26, 09:40:46](https://news.ycombinator.com/item?id=35312694) - [Superhuman: What can AI do in 30 minutes?](https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes)
 * [2023-03-26, 09:28:50](https://news.ycombinator.com/item?id=35312632) - [On the Design, Implementation, and Use of Laziness in R (2019)](https://arxiv.org/abs/1909.08958)
