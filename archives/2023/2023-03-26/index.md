@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 18:16:30](https://news.ycombinator.com/item?id=35317589) - [Linux is Making Apple Great Again](https://jasoneckert.github.io/myblog/linux-is-making-apple-great-again/)
 * [2023-03-26, 18:04:24](https://news.ycombinator.com/item?id=35317464) - [Cryptocurrencies add nothing useful to society, says chip-maker Nvidia](https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining)
 * [2023-03-26, 18:03:19](https://news.ycombinator.com/item?id=35317452) - [Nearly 20% Adults May Have Misophonia – Significant Negative Responses to Sounds](https://neurosciencenews.com/misophonia-neuroscience-22851/)
 * [2023-03-26, 18:00:26](https://news.ycombinator.com/item?id=35317419) - [Craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
@@ -15,6 +16,7 @@
 * [2023-03-26, 17:10:09](https://news.ycombinator.com/item?id=35316822) - [SVB collapse could mean a $500B venture capital ‘haircut’](https://www.bloomberg.com/news/articles/2023-03-24/svb-debacle-could-mean-a-500-billion-venture-capital-haircut)
 * [2023-03-26, 17:09:03](https://news.ycombinator.com/item?id=35316808) - [Why are developers expected to estimate tasks at all?](https://pm.stackexchange.com/questions/34768/why-are-developers-expected-to-estimate-tasks-at-all)
 * [2023-03-26, 17:00:00](https://news.ycombinator.com/item?id=35316682) - [Motion (YC W20) Is Hiring a Senior SRE and Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
+* [2023-03-26, 16:59:36](https://news.ycombinator.com/item?id=35316679) - [Show HN: Apple Notes Liberator – Extract Notes.app Data and Save It as JSON](https://github.com/HamburgChimps/apple-notes-liberator)
 * [2023-03-26, 16:40:12](https://news.ycombinator.com/item?id=35316449) - [Money market funds swell by over $273B as investors pull deposits from banks](https://www.ft.com/content/032523bc-3b92-4b94-b6b8-ebbe1d606b2c)
 * [2023-03-26, 16:31:32](https://news.ycombinator.com/item?id=35316329) - [Blockchain in 19 Lines of Python (2021)](https://gregorygundersen.com/blog/2021/09/19/blockchain/)
 * [2023-03-26, 15:50:18](https://news.ycombinator.com/item?id=35315780) - [2600? How Phreaking Really Worked [Connections Museum]](https://www.youtube.com/watch?v=8PmkUPBhL4U)
@@ -35,6 +37,7 @@
 * [2023-03-26, 12:57:03](https://news.ycombinator.com/item?id=35313943) - [When root on ZFS breaks on Arch Linux](https://blog.mnus.de/2023/03/archlinux-zfs/)
 * [2023-03-26, 12:52:37](https://news.ycombinator.com/item?id=35313903) - [OpenSUSE Linux Gains Momentum: A Look at Its Growing Popularity](https://linuxiac.com/opensuse-grows-in-popularity/)
 * [2023-03-26, 12:00:50](https://news.ycombinator.com/item?id=35313542) - [Float Health (YC W22) Is Hiring Senior Software Engineer](https://news.ycombinator.com/item?id=35313542)
+* [2023-03-26, 11:53:53](https://news.ycombinator.com/item?id=35313496) - [Are you ready for 13.3 or 9.1?](https://eclecticlight.co/2023/03/26/last-week-on-my-mac-are-you-ready-for-13-3-or-9-1/)
 * [2023-03-26, 11:31:57](https://news.ycombinator.com/item?id=35313326) - [140 Megapixel Picture of the Sun](https://old.reddit.com/r/space/comments/122475u/i_teamed_up_with_a_fellow_redditor_to_try_and/)
 * [2023-03-26, 11:30:13](https://news.ycombinator.com/item?id=35313308) - [Making of “The wet bird” (POV-Ray, 2000)](http://www.oyonale.com/image.php?code=464&mode=info&section=2000&lang=en&)
 * [2023-03-26, 11:20:28](https://news.ycombinator.com/item?id=35313232) - [Text Only News Websites](https://blog.wturrell.co.uk/text-only-news-websites/)
