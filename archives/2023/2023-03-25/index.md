@@ -34,6 +34,7 @@
 * [2023-03-25, 18:36:39](https://news.ycombinator.com/item?id=35305613) - [Italy rated one of the hardest countries for foreigners to settle in](https://www.thelocal.it/20230321/italy-rated-one-of-the-worst-countries-for-foreigners-to-get-started)
 * [2023-03-25, 18:34:20](https://news.ycombinator.com/item?id=35305591) - [Odd Caliber](https://www.trulyadventure.us/odd-caliber)
 * [2023-03-25, 18:31:04](https://news.ycombinator.com/item?id=35305561) - [OpenAI CEO Sam Altman on Lex Fridman Podcast](https://www.youtube.com/watch?v=L_Guz73e6fw)
+* [2023-03-25, 18:30:38](https://news.ycombinator.com/item?id=35305554) - [My Goku file to generate the Karabiner-Elements configuration](https://github.com/tIsGoud/goku)
 * [2023-03-25, 18:30:10](https://news.ycombinator.com/item?id=35305546) - [An Apologia of Lazy Evaluation](https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html)
 * [2023-03-25, 18:29:02](https://news.ycombinator.com/item?id=35305541) - [GPT-4 identifies SVB’s biggest risk &amp; gives good advice using 2021 balance sheet](https://blog.matteskridge.com/business/gpt4-and-silicon-valley-bank/2023/03/19/)
 * [2023-03-25, 17:59:17](https://news.ycombinator.com/item?id=35305224) - [Any type of hormonal contraceptive may increase risk of breast cancer](https://www.ox.ac.uk/news/2023-03-22-any-type-hormonal-contraceptive-may-increase-risk-breast-cancer-0)
