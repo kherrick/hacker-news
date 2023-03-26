@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-26, 22:02:14](https://news.ycombinator.com/item?id=35320097) - [When Will AI Take Your Job?](https://unchartedterritories.tomaspueyo.com/p/when-will-ai-take-your-job)
-* [2023-03-26, 21:37:14](https://news.ycombinator.com/item?id=35319901) - [Thousands Take to Streets After Netanyahu Fires Defense Minister](https://www.haaretz.com/israel-news/2023-03-26/ty-article-live/senior-likud-members-hint-at-opposing-judicial-overhaul/00000187-1c81-d4ca-afff-1d89ee5b0000)
 * [2023-03-26, 21:26:56](https://news.ycombinator.com/item?id=35319807) - [Robot Learns to See in 30 Minutes](https://antonilo.github.io/vision_locomotion/)
 * [2023-03-26, 21:23:02](https://news.ycombinator.com/item?id=35319778) - [Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)
 * [2023-03-26, 19:51:02](https://news.ycombinator.com/item?id=35318797) - [Let ChatGPT run free on random webpages and do what it likes](https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098)
@@ -10,7 +9,8 @@
 * [2023-03-26, 18:40:36](https://news.ycombinator.com/item?id=35317882) - [The Graphical User Interface Gallery](http://toastytech.com/guis/index.html)
 * [2023-03-26, 18:16:30](https://news.ycombinator.com/item?id=35317590) - [The layoffs will continue until (investor) morale improves](https://techcrunch.com/2023/03/26/tech-company-layoffs-2023-morale/)
 * [2023-03-26, 18:00:26](https://news.ycombinator.com/item?id=35317419) - [Craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
-* [2023-03-26, 17:11:18](https://news.ycombinator.com/item?id=35316836) - [Jacob Ziv has died (the Z in LZ compression)](https://twitter.com/erlichya/status/1639973591214182400)
+* [2023-03-26, 17:53:33](https://news.ycombinator.com/item?id=35317329) - [Greenland Is Now on Permanent Daylight Savings](https://sermitsiaq.ag/kl/node/243401)
+* [2023-03-26, 17:11:18](https://news.ycombinator.com/item?id=35316836) - [Jacob Ziv has died](https://twitter.com/erlichya/status/1639973591214182400)
 * [2023-03-26, 17:10:09](https://news.ycombinator.com/item?id=35316822) - [SVB collapse could mean a $500B venture capital ‘haircut’](https://www.bloomberg.com/news/articles/2023-03-24/svb-debacle-could-mean-a-500-billion-venture-capital-haircut)
 * [2023-03-26, 17:00:00](https://news.ycombinator.com/item?id=35316682) - [Motion (YC W20) Is Hiring a Senior SRE and Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2023-03-26, 16:59:36](https://news.ycombinator.com/item?id=35316679) - [Show HN: Apple Notes Liberator – Extract Notes.app Data and Save It as JSON](https://github.com/HamburgChimps/apple-notes-liberator)
