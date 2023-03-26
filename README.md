@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-26, 06:30:16](https://news.ycombinator.com/item?id=35311667) - [ChatGPT 4 saved my dog’s life](https://twitter.com/peakcooper/status/1639716822680236032)
 * [2023-03-26, 05:25:30](https://news.ycombinator.com/item?id=35311300) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
 * [2023-03-26, 05:25:02](https://news.ycombinator.com/item?id=35311293) - [GNUstep compatibility with macOS Catalina almost complete](https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.html)
 * [2023-03-26, 02:59:53](https://news.ycombinator.com/item?id=35310336) - [Ruffle – Flash Emulator – Progress Report](https://ruffle.rs/blog/2023/03/12/progress-report.html)
@@ -10,7 +11,6 @@
 * [2023-03-25, 23:11:42](https://news.ycombinator.com/item?id=35308551) - [Vector database built for scalable similarity search](https://milvus.io/)
 * [2023-03-25, 23:05:28](https://news.ycombinator.com/item?id=35308498) - [I lost everything that made me love my job through Midjourney overnight](https://reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/)
 * [2023-03-25, 22:37:53](https://news.ycombinator.com/item?id=35308246) - [My experience crafting an interpreter with Rust (2021)](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
-* [2023-03-25, 22:15:44](https://news.ycombinator.com/item?id=35308033) - [A nasal spray protects against coronavirus including immune-evasive variants](https://www.helsinki.fi/en/news/pandemics/nasal-spray-protects-against-coronavirus-infection-effective-also-against-recent-immune-evasive-variants)
 * [2023-03-25, 21:34:19](https://news.ycombinator.com/item?id=35307656) - [Show HN: Lunette – A word processor designed around writing, not formatting](https://lunette.app/)
 * [2023-03-25, 21:33:36](https://news.ycombinator.com/item?id=35307647) - [Utah is first US state to limit teen social media access](https://www.bbc.com/news/world-us-canada-65060733)
 * [2023-03-25, 21:33:05](https://news.ycombinator.com/item?id=35307640) - [Docker](https://computer.rip/2023-03-24-docker.html)
