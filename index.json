@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-03-26, 15:32:49",
+      "https://news.ycombinator.com/item?id=35315542"
+    ],
+    [
+      "Using ChatGPT Plugins with LLaMA",
+      "https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14"
+    ]
+  ],
+  [
+    [
       "2023-03-26, 15:25:02",
       "https://news.ycombinator.com/item?id=35315441"
     ],
     [
       "Colorectal cancer is rising among younger adults",
       "https://www.cnn.com/2023/03/24/health/colorectal-cancer-young-age-mystery/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-26, 15:23:44",
+      "https://news.ycombinator.com/item?id=35315424"
+    ],
+    [
+      "Arduino Uno R4",
+      "https://blog.arduino.cc/2023/03/25/arduino-uno-r4/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Richard Stallman&#x27;s thoughts on ChatGPT, AI and their impact on humanity",
       "https://www.reddit.com/r/linux/comments/122gmm9/richard_stallmans_thoughts_on_chatgpt_artificial/"
-    ]
-  ],
-  [
-    [
-      "2023-03-26, 12:57:03",
-      "https://news.ycombinator.com/item?id=35313943"
-    ],
-    [
-      "When root on ZFS breaks on Arch Linux",
-      "https://blog.mnus.de/2023/03/archlinux-zfs/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Understanding ChatGPT",
       "https://www.atmosera.com/ai/understanding-chatgpt/"
-    ]
-  ],
-  [
-    [
-      "2023-03-26, 08:46:41",
-      "https://news.ycombinator.com/item?id=35312418"
-    ],
-    [
-      "Understanding Immutable OSes",
-      "https://kairos.io/blog/2023/03/22/understanding-immutable-linux-os-benefits-architecture-and-challenges/"
     ]
   ],
   [
