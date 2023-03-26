@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-26, 02:01:39](https://news.ycombinator.com/item?id=35309904) - [FDA: Acetaminophen one of the most dangerous drugs on the market](https://www.clickorlando.com/health/2012/02/14/fda-acetaminophen-one-of-the-most-dangerous-drugs-on-the-market/)
 * [2023-03-26, 01:27:37](https://news.ycombinator.com/item?id=35309653) - [Cargo theft, led by food and beverage, is surging across the U.S.](https://www.cnbc.com/2023/03/25/cargo-theft-led-by-food-and-beverage-is-surging-across-the-us.html)
 * [2023-03-26, 00:21:21](https://news.ycombinator.com/item?id=35309116) - [Show HN: 13Sheep – a JavaScript game largely authored by ChatGPT](https://13sheep.netlify.app/)
 * [2023-03-25, 23:43:25](https://news.ycombinator.com/item?id=35308796) - [systemd 100% cpu hang? – Proxmox Support Forum](https://forum.proxmox.com/threads/systemd-100-cpu-hang.124767/)
@@ -24,7 +25,6 @@
 * [2023-03-25, 15:11:24](https://news.ycombinator.com/item?id=35303423) - [Call yourself titles](https://josem.co/call-yourself-titles/)
 * [2023-03-25, 15:08:25](https://news.ycombinator.com/item?id=35303391) - [Major shake-up coming for Fermilab, the troubled U.S. particle physics center](https://www.science.org/content/article/major-shake-coming-fermilab-troubled-u-s-particle-physics-center)
 * [2023-03-25, 14:54:39](https://news.ycombinator.com/item?id=35303220) - [British PCs of the 1980s](https://arstechnica.com/gadgets/2023/03/egad-7-key-british-pcs-of-the-1980s-americans-might-have-missed/)
-* [2023-03-25, 11:39:08](https://news.ycombinator.com/item?id=35301657) - [Show HN: ChatGPT Plugins are a security nightmare](https://github.com/greshake/llm-security)
 * [2023-03-25, 08:47:34](https://news.ycombinator.com/item?id=35300755) - [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
 * [2023-03-25, 06:06:45](https://news.ycombinator.com/item?id=35299951) - [Low-Level C Programming – CSE 325 Lecture Videos](https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia)
 * [2023-03-24, 11:19:25](https://news.ycombinator.com/item?id=35287561) - [Wittgenstein&#x27;s Ladder](https://en.wikipedia.org/wiki/Wittgenstein%27s_ladder)
