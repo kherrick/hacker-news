@@ -32,6 +32,7 @@
 * [2023-03-25, 18:47:24](https://news.ycombinator.com/item?id=35305748) - [You Do Not Have a Shoe Size](https://writing.kemitchell.com/2023/03/25/No-Shoe-Size)
 * [2023-03-25, 18:40:14](https://news.ycombinator.com/item?id=35305655) - [Experimental library for scraping websites using OpenAI&#x27;s GPT API](https://jamesturk.github.io/scrapeghost/)
 * [2023-03-25, 18:36:39](https://news.ycombinator.com/item?id=35305613) - [Italy rated one of the hardest countries for foreigners to settle in](https://www.thelocal.it/20230321/italy-rated-one-of-the-worst-countries-for-foreigners-to-get-started)
+* [2023-03-25, 18:34:20](https://news.ycombinator.com/item?id=35305591) - [Odd Caliber](https://www.trulyadventure.us/odd-caliber)
 * [2023-03-25, 18:31:04](https://news.ycombinator.com/item?id=35305561) - [OpenAI CEO Sam Altman on Lex Fridman Podcast](https://www.youtube.com/watch?v=L_Guz73e6fw)
 * [2023-03-25, 18:30:10](https://news.ycombinator.com/item?id=35305546) - [An Apologia of Lazy Evaluation](https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html)
 * [2023-03-25, 18:29:02](https://news.ycombinator.com/item?id=35305541) - [GPT-4 identifies SVB’s biggest risk &amp; gives good advice using 2021 balance sheet](https://blog.matteskridge.com/business/gpt4-and-silicon-valley-bank/2023/03/19/)
