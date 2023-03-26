@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 14:11:08](https://news.ycombinator.com/item?id=35314640) - [The Problem with AI Is the Problem with Capitalism](https://jacobin.com/2023/03/ai-artificial-intelligence-art-chatgpt-jobs-capitalism)
 * [2023-03-26, 13:01:39](https://news.ycombinator.com/item?id=35313982) - [Richard Stallman&#x27;s thoughts on ChatGPT, AI and their impact on humanity](https://www.reddit.com/r/linux/comments/122gmm9/richard_stallmans_thoughts_on_chatgpt_artificial/)
 * [2023-03-26, 12:57:03](https://news.ycombinator.com/item?id=35313943) - [When root on ZFS breaks on Arch Linux](https://blog.mnus.de/2023/03/archlinux-zfs/)
 * [2023-03-26, 12:52:37](https://news.ycombinator.com/item?id=35313903) - [OpenSUSE Linux Gains Momentum: A Look at Its Growing Popularity](https://linuxiac.com/opensuse-grows-in-popularity/)

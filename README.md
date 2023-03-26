@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-26, 14:11:08](https://news.ycombinator.com/item?id=35314640) - [The Problem with AI Is the Problem with Capitalism](https://jacobin.com/2023/03/ai-artificial-intelligence-art-chatgpt-jobs-capitalism)
 * [2023-03-26, 13:01:39](https://news.ycombinator.com/item?id=35313982) - [Richard Stallman&#x27;s thoughts on ChatGPT, AI and their impact on humanity](https://www.reddit.com/r/linux/comments/122gmm9/richard_stallmans_thoughts_on_chatgpt_artificial/)
 * [2023-03-26, 12:57:03](https://news.ycombinator.com/item?id=35313943) - [When root on ZFS breaks on Arch Linux](https://blog.mnus.de/2023/03/archlinux-zfs/)
 * [2023-03-26, 12:52:37](https://news.ycombinator.com/item?id=35313903) - [OpenSUSE Linux Gains Momentum: A Look at Its Growing Popularity](https://linuxiac.com/opensuse-grows-in-popularity/)
@@ -24,7 +25,6 @@
 * [2023-03-26, 00:17:45](https://news.ycombinator.com/item?id=35309081) - [Nvidia Speeds Key Chipmaking Computation by 40x](https://spectrum.ieee.org/inverse-lithography)
 * [2023-03-25, 23:26:09](https://news.ycombinator.com/item?id=35308672) - [Dismantling a Crappy Malware Operation](https://mrbruh.com/dismantling_malware_operation/)
 * [2023-03-25, 23:11:42](https://news.ycombinator.com/item?id=35308551) - [Vector database built for scalable similarity search](https://milvus.io/)
-* [2023-03-25, 23:05:28](https://news.ycombinator.com/item?id=35308498) - [I lost everything that made me love my job through Midjourney](https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/)
 * [2023-03-25, 21:33:36](https://news.ycombinator.com/item?id=35307647) - [Utah is first US state to limit teen social media access](https://www.bbc.com/news/world-us-canada-65060733)
 * [2023-03-25, 18:34:20](https://news.ycombinator.com/item?id=35305591) - [Odd Caliber](https://www.trulyadventure.us/odd-caliber)
 * [2023-03-25, 16:14:24](https://news.ycombinator.com/item?id=35304102) - [Can a ‘fingerprint’ of your brain help predict disorders?](https://www.smithsonianmag.com/science-nature/can-a-fingerprint-of-your-brain-help-predict-mental-health-conditions-180981869/)
