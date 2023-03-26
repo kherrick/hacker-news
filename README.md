@@ -3,7 +3,7 @@
 * [2023-03-26, 05:25:30](https://news.ycombinator.com/item?id=35311300) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
 * [2023-03-26, 02:59:53](https://news.ycombinator.com/item?id=35310336) - [Ruffle – Flash Emulator – Progress Report](https://ruffle.rs/blog/2023/03/12/progress-report.html)
 * [2023-03-26, 02:13:45](https://news.ycombinator.com/item?id=35309988) - [U.S. Home Prices Are the Most Unaffordable They&#x27;ve Been in Nearly 100 Years](https://www.longtermtrends.net/home-price-median-annual-income-ratio/)
-* [2023-03-26, 00:21:21](https://news.ycombinator.com/item?id=35309116) - [Show HN: 13Sheep – a JavaScript game largely authored by ChatGPT](https://13sheep.netlify.app/)
+* [2023-03-26, 00:17:45](https://news.ycombinator.com/item?id=35309081) - [Nvidia Speeds Key Chipmaking Computation by 40x](https://spectrum.ieee.org/inverse-lithography)
 * [2023-03-25, 23:43:25](https://news.ycombinator.com/item?id=35308796) - [systemd 100% cpu hang? – Proxmox Support Forum](https://forum.proxmox.com/threads/systemd-100-cpu-hang.124767/)
 * [2023-03-25, 23:26:09](https://news.ycombinator.com/item?id=35308672) - [Dismantling a Crappy Malware Operation](https://mrbruh.com/dismantling_malware_operation/)
 * [2023-03-25, 23:11:42](https://news.ycombinator.com/item?id=35308551) - [Vector database built for scalable similarity search](https://milvus.io/)
