@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 15:50:18](https://news.ycombinator.com/item?id=35315780) - [2600? How Phreaking Really Worked [Connections Museum]](https://www.youtube.com/watch?v=8PmkUPBhL4U)
 * [2023-03-26, 15:32:49](https://news.ycombinator.com/item?id=35315542) - [Using ChatGPT Plugins with LLaMA](https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14)
 * [2023-03-26, 15:25:02](https://news.ycombinator.com/item?id=35315441) - [Colorectal cancer is rising among younger adults](https://www.cnn.com/2023/03/24/health/colorectal-cancer-young-age-mystery/index.html)
 * [2023-03-26, 15:23:44](https://news.ycombinator.com/item?id=35315424) - [Arduino Uno R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/)
@@ -15,6 +16,7 @@
 * [2023-03-26, 14:29:08](https://news.ycombinator.com/item?id=35314794) - [Bitcoin is a solution looking for a problem](https://www.reuters.com/breakingviews/bitcoin-is-solution-looking-problem-2023-03-24/)
 * [2023-03-26, 14:27:34](https://news.ycombinator.com/item?id=35314777) - [EU was set to ban internal combustion engine cars. Then Germany changed its mind](https://www.cnn.com/2023/03/24/cars/eu-combustion-engine-debate-climate-intl/index.html)
 * [2023-03-26, 14:24:55](https://news.ycombinator.com/item?id=35314755) - [Apple’s 100 highest-ranking executives saw the VR headset last week](https://www.bloomberg.com/news/newsletters/2023-03-26/apple-reality-headset-details-pro-features-top-100-meeting-watch-like-start-lfpgdgdb)
+* [2023-03-26, 14:23:09](https://news.ycombinator.com/item?id=35314740) - [I Started a Shitstorm or Contemporary Journalism Is Embarrassing](https://filthydreams.org/2023/03/25/i-started-a-shitstorm-or-contemporary-journalism-is-embarrassing/)
 * [2023-03-26, 14:11:08](https://news.ycombinator.com/item?id=35314640) - [The Problem with AI Is the Problem with Capitalism](https://jacobin.com/2023/03/ai-artificial-intelligence-art-chatgpt-jobs-capitalism)
 * [2023-03-26, 13:01:39](https://news.ycombinator.com/item?id=35313982) - [Richard Stallman&#x27;s thoughts on ChatGPT, AI and their impact on humanity](https://www.reddit.com/r/linux/comments/122gmm9/richard_stallmans_thoughts_on_chatgpt_artificial/)
 * [2023-03-26, 12:57:03](https://news.ycombinator.com/item?id=35313943) - [When root on ZFS breaks on Arch Linux](https://blog.mnus.de/2023/03/archlinux-zfs/)
