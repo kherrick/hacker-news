@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
 * [2023-03-26, 09:40:46](https://news.ycombinator.com/item?id=35312694) - [Superhuman: What can AI do in 30 minutes?](https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes)
+* [2023-03-26, 09:05:21](https://news.ycombinator.com/item?id=35312508) - [And yet It Understands](https://borretti.me/article/and-yet-it-understands)
 * [2023-03-26, 08:56:44](https://news.ycombinator.com/item?id=35312468) - [Understanding ChatGPT](https://www.atmosera.com/ai/understanding-chatgpt/)
 * [2023-03-26, 08:35:45](https://news.ycombinator.com/item?id=35312376) - [React is hostile to the outside world](https://sharno.substack.com/p/react-is-hostile-to-the-outside-world)
 * [2023-03-26, 08:31:30](https://news.ycombinator.com/item?id=35312352) - [The Undeniable Street View](https://theundeniablestreetview.com/)

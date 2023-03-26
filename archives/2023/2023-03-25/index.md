@@ -49,6 +49,7 @@
 * [2023-03-25, 16:30:02](https://news.ycombinator.com/item?id=35304241) - [50 years of silence: It&#x27;s time to end the speed limit in US airspace](https://www.elidourado.com/p/50-years-supersonic-ban)
 * [2023-03-25, 16:28:54](https://news.ycombinator.com/item?id=35304228) - [Things I’ve Learned from Charlie Munger about Moats (2015)](https://25iq.com/2015/10/10/a-dozen-things-ive-learned-from-charlie-munger-about-moats/)
 * [2023-03-25, 16:26:01](https://news.ycombinator.com/item?id=35304196) - [The effectiveness of different drip edge designs for rainwater control (2015)](https://www.constructioncanada.net/the-effectiveness-of-different-drip-edge-designs/)
+* [2023-03-25, 16:14:24](https://news.ycombinator.com/item?id=35304102) - [Can a ‘fingerprint’ of your brain help predict disorders?](https://www.smithsonianmag.com/science-nature/can-a-fingerprint-of-your-brain-help-predict-mental-health-conditions-180981869/)
 * [2023-03-25, 16:13:52](https://news.ycombinator.com/item?id=35304097) - [CERN researchers have observed and generated high-energy neutrino radiation](https://bigthink.com/hard-science/high-energy-neutrinos-rare-cosmic-events/)
 * [2023-03-25, 16:11:50](https://news.ycombinator.com/item?id=35304078) - [Show HN: Aquarium – AI Controlled Containers](https://github.com/fafrd/aquarium)
 * [2023-03-25, 16:09:17](https://news.ycombinator.com/item?id=35304046) - [Society&#x27;s Technical Debt and Software&#x27;s Gutenberg Moment](https://skventures.substack.com/p/societys-technical-debt-and-softwares)
