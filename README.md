@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-26, 17:00:00](https://news.ycombinator.com/item?id=35316682) - [Motion (YC W20) Is Hiring a Senior SRE and Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
+* [2023-03-26, 16:40:12](https://news.ycombinator.com/item?id=35316449) - [Money market funds swell by over $273B as investors pull deposits from banks](https://www.ft.com/content/032523bc-3b92-4b94-b6b8-ebbe1d606b2c)
 * [2023-03-26, 15:50:18](https://news.ycombinator.com/item?id=35315780) - [2600? How Phreaking Really Worked [Connections Museum]](https://www.youtube.com/watch?v=8PmkUPBhL4U)
 * [2023-03-26, 15:32:49](https://news.ycombinator.com/item?id=35315542) - [Using ChatGPT Plugins with LLaMA](https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14)
 * [2023-03-26, 15:23:44](https://news.ycombinator.com/item?id=35315424) - [Arduino Uno R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/)
@@ -8,7 +10,6 @@
 * [2023-03-26, 14:24:55](https://news.ycombinator.com/item?id=35314755) - [Apple’s Best Hope for New Headset: a Smartwatch-Like Trajectory](https://www.bloomberg.com/news/newsletters/2023-03-26/apple-reality-headset-details-pro-features-top-100-meeting-watch-like-start-lfpgdgdb)
 * [2023-03-26, 12:57:03](https://news.ycombinator.com/item?id=35313943) - [When root on ZFS breaks on Arch Linux](https://blog.mnus.de/2023/03/archlinux-zfs/)
 * [2023-03-26, 12:52:37](https://news.ycombinator.com/item?id=35313903) - [OpenSUSE Linux gains momentum](https://linuxiac.com/opensuse-grows-in-popularity/)
-* [2023-03-26, 12:00:50](https://news.ycombinator.com/item?id=35313542) - [Float Health (YC W22) Is Hiring Senior Software Engineer](https://news.ycombinator.com/item?id=35313542)
 * [2023-03-26, 11:31:57](https://news.ycombinator.com/item?id=35313326) - [140 Megapixel Picture of the Sun](https://old.reddit.com/r/space/comments/122475u/i_teamed_up_with_a_fellow_redditor_to_try_and/)
 * [2023-03-26, 11:30:13](https://news.ycombinator.com/item?id=35313308) - [The wet bird](http://www.oyonale.com/image.php?code=464&mode=info&section=2000&lang=en&)
 * [2023-03-26, 11:20:28](https://news.ycombinator.com/item?id=35313232) - [Text only news websites](https://blog.wturrell.co.uk/text-only-news-websites/)
@@ -16,7 +17,6 @@
 * [2023-03-26, 10:44:19](https://news.ycombinator.com/item?id=35313030) - [The F-15 Eagle: Origins and Development, 1964-1972 [pdf]](https://media.defense.gov/2012/May/16/2001330012/-1/-1/0/AFD-120516-036.pdf)
 * [2023-03-26, 10:32:47](https://news.ycombinator.com/item?id=35312960) - [Open-source high-performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
 * [2023-03-26, 09:40:46](https://news.ycombinator.com/item?id=35312694) - [Superhuman: What can AI do in 30 minutes?](https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes)
-* [2023-03-26, 09:28:50](https://news.ycombinator.com/item?id=35312632) - [On the Design, Implementation, and Use of Laziness in R (2019)](https://arxiv.org/abs/1909.08958)
 * [2023-03-26, 09:25:15](https://news.ycombinator.com/item?id=35312609) - [ChatGPT and Code Interpreter = Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/)
 * [2023-03-26, 09:15:28](https://news.ycombinator.com/item?id=35312563) - [The Anti-Productivity Manifesto](https://invertedpassion.com/the-anti-productivity-manifesto/)
 * [2023-03-26, 09:05:21](https://news.ycombinator.com/item?id=35312508) - [And yet It Understands](https://borretti.me/article/and-yet-it-understands)
