@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-03-26, 09:28:50",
+      "https://news.ycombinator.com/item?id=35312632"
+    ],
+    [
+      "On the Design, Implementation, and Use of Laziness in R (2019)",
+      "https://arxiv.org/abs/1909.08958"
+    ]
+  ],
+  [
+    [
       "2023-03-26, 09:25:15",
       "https://news.ycombinator.com/item?id=35312609"
     ],
@@ -47,6 +57,16 @@
     [
       "Understanding ChatGPT",
       "https://www.atmosera.com/ai/understanding-chatgpt/"
+    ]
+  ],
+  [
+    [
+      "2023-03-26, 08:46:41",
+      "https://news.ycombinator.com/item?id=35312418"
+    ],
+    [
+      "Understanding Immutable OSes",
+      "https://kairos.io/blog/2023/03/22/understanding-immutable-linux-os-benefits-architecture-and-challenges/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "GNUstep compatibility with macOS Catalina almost complete",
       "https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-26, 02:59:53",
-      "https://news.ycombinator.com/item?id=35310336"
-    ],
-    [
-      "Ruffle – Flash Emulator – Progress Report",
-      "https://ruffle.rs/blog/2023/03/12/progress-report.html"
     ]
   ],
   [
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2023-03-25, 21:22:22",
-      "https://news.ycombinator.com/item?id=35307538"
-    ],
-    [
-      "The fastest rm command and one of the fastest cp commands",
-      "https://alexsaveau.dev/blog/projects/performance/files/fuc/fast-unix-commands"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 19:51:29",
-      "https://news.ycombinator.com/item?id=35306506"
-    ],
-    [
-      "An EEVDF CPU Scheduler for Linux",
-      "https://lwn.net/Articles/925371/"
-    ]
-  ],
-  [
-    [
       "2023-03-25, 18:40:14",
       "https://news.ycombinator.com/item?id=35305655"
     ],
@@ -217,6 +207,16 @@
     [
       "Odd Caliber",
       "https://www.trulyadventure.us/odd-caliber"
+    ]
+  ],
+  [
+    [
+      "2023-03-25, 18:30:38",
+      "https://news.ycombinator.com/item?id=35305554"
+    ],
+    [
+      "My Goku file to generate the Karabiner-Elements configuration",
+      "https://github.com/tIsGoud/goku"
     ]
   ],
   [
