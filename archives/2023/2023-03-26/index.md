@@ -9,6 +9,7 @@
 * [2023-03-26, 18:03:19](https://news.ycombinator.com/item?id=35317452) - [Nearly 20% Adults May Have Misophonia – Significant Negative Responses to Sounds](https://neurosciencenews.com/misophonia-neuroscience-22851/)
 * [2023-03-26, 18:00:26](https://news.ycombinator.com/item?id=35317419) - [Craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
 * [2023-03-26, 17:48:21](https://news.ycombinator.com/item?id=35317262) - [Close-Up of the First Mechanical Gear Ever Found in Nature](https://canyouactually.com/first-mechanical-gear-ever-found-in-nature/)
+* [2023-03-26, 17:46:25](https://news.ycombinator.com/item?id=35317230) - [Py-template: one-click Python environment v0.2.0 update](https://github.com/inovintell/py-template)
 * [2023-03-26, 17:39:15](https://news.ycombinator.com/item?id=35317154) - [Could &#x27;Terminator Zones&#x27; on Far Off Planets Harbor Life?](https://www.futurity.org/exoplanets-terminator-zone-alien-life-water-2892302/)
 * [2023-03-26, 17:35:10](https://news.ycombinator.com/item?id=35317110) - [An Anxious Asia Arms for a War It Hopes to Prevent](https://www.nytimes.com/2023/03/25/world/asia/asia-china-military-war.html)
 * [2023-03-26, 17:28:45](https://news.ycombinator.com/item?id=35317040) - [Clever Hans (Intelligence Misatributon)](https://en.wikipedia.org/wiki/Clever_Hans)
