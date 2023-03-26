@@ -4,7 +4,7 @@
 * [2023-03-26, 18:04:24](https://news.ycombinator.com/item?id=35317464) - [Cryptocurrencies add nothing useful to society, says chip-maker Nvidia](https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining)
 * [2023-03-26, 18:03:19](https://news.ycombinator.com/item?id=35317452) - [Nearly 20% Adults May Have Misophonia – Significant Negative Responses to Sounds](https://neurosciencenews.com/misophonia-neuroscience-22851/)
 * [2023-03-26, 18:00:26](https://news.ycombinator.com/item?id=35317419) - [Craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
-* [2023-03-26, 17:48:21](https://news.ycombinator.com/item?id=35317262) - [Close-Up of the First Mechanical Gear Ever Found in Nature](https://canyouactually.com/first-mechanical-gear-ever-found-in-nature/)
+* [2023-03-26, 17:48:21](https://news.ycombinator.com/item?id=35317262) - [Close-Up of the First Mechanical Gear Ever Found in Nature (2013)](https://canyouactually.com/first-mechanical-gear-ever-found-in-nature/)
 * [2023-03-26, 17:46:25](https://news.ycombinator.com/item?id=35317230) - [Py-template: one-click Python environment v0.2.0 update](https://github.com/inovintell/py-template)
 * [2023-03-26, 17:35:10](https://news.ycombinator.com/item?id=35317110) - [An Anxious Asia Arms for a War It Hopes to Prevent](https://www.nytimes.com/2023/03/25/world/asia/asia-china-military-war.html)
 * [2023-03-26, 17:28:45](https://news.ycombinator.com/item?id=35317040) - [Clever Hans (Intelligence Misattributon)](https://en.wikipedia.org/wiki/Clever_Hans)
