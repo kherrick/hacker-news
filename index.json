@@ -1,11 +1,31 @@
 [
   [
     [
+      "2023-03-26, 01:27:37",
+      "https://news.ycombinator.com/item?id=35309653"
+    ],
+    [
+      "Cargo theft, led by food and beverage, is surging across the U.S.",
+      "https://www.cnbc.com/2023/03/25/cargo-theft-led-by-food-and-beverage-is-surging-across-the-us.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-26, 00:21:21",
+      "https://news.ycombinator.com/item?id=35309116"
+    ],
+    [
+      "Show HN: 13Sheep – a JavaScript game largely authored by ChatGPT",
+      "https://13sheep.netlify.app/"
+    ]
+  ],
+  [
+    [
       "2023-03-25, 23:43:25",
       "https://news.ycombinator.com/item?id=35308796"
     ],
     [
-      "Proxmox doesn&#x27;t handle daylight savings time, hangs systemd and breaks systems",
+      "systemd 100% cpu hang? – Proxmox Support Forum",
       "https://forum.proxmox.com/threads/systemd-100-cpu-hang.124767/"
     ]
   ],
@@ -36,7 +56,7 @@
     ],
     [
       "I lost everything that made me love my job through Midjourney overnight",
-      "https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/"
+      "https://reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/"
     ]
   ],
   [
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2023-03-25, 20:15:07",
-      "https://news.ycombinator.com/item?id=35306805"
-    ],
-    [
-      "Generate a Cover Letter by Pasting the Job Post and Your Resume",
-      "https://www.careered.ai/tool/cover-letter"
-    ]
-  ],
-  [
-    [
       "2023-03-25, 19:51:29",
       "https://news.ycombinator.com/item?id=35306506"
     ],
     [
       "An EEVDF CPU Scheduler for Linux",
       "https://lwn.net/Articles/925371/"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 19:15:17",
-      "https://news.ycombinator.com/item?id=35306042"
-    ],
-    [
-      "Management structures at various large companies [image]",
-      "https://goomics.net/62/"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-03-25, 17:20:38",
-      "https://news.ycombinator.com/item?id=35304839"
-    ],
-    [
-      "Barebones project to get an Inkplate 10 using WiFi, HTTPS using the Arduino IDE",
-      "https://blog.jgc.org/2023/03/barebones-project-showing-how-to-get.html"
-    ]
-  ],
-  [
-    [
       "2023-03-25, 17:01:13",
       "https://news.ycombinator.com/item?id=35304593"
     ],
@@ -177,6 +167,36 @@
     [
       "Time to end the speed limit in US airspace?",
       "https://www.elidourado.com/p/50-years-supersonic-ban"
+    ]
+  ],
+  [
+    [
+      "2023-03-25, 16:28:54",
+      "https://news.ycombinator.com/item?id=35304228"
+    ],
+    [
+      "Things I’ve Learned from Charlie Munger about Moats (2015)",
+      "https://25iq.com/2015/10/10/a-dozen-things-ive-learned-from-charlie-munger-about-moats/"
+    ]
+  ],
+  [
+    [
+      "2023-03-25, 16:09:17",
+      "https://news.ycombinator.com/item?id=35304046"
+    ],
+    [
+      "Society&#x27;s Technical Debt and Software&#x27;s Gutenberg Moment",
+      "https://skventures.substack.com/p/societys-technical-debt-and-softwares"
+    ]
+  ],
+  [
+    [
+      "2023-03-25, 15:33:50",
+      "https://news.ycombinator.com/item?id=35303670"
+    ],
+    [
+      "Reflect – App for recording and connecting notes, ideas and contacts",
+      "https://reflect.app/"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-03-25, 14:09:22",
-      "https://news.ycombinator.com/item?id=35302767"
-    ],
-    [
-      "Synthetic Memory Protections: An update on ROP mitigations [pdf]",
-      "https://www.openbsd.org/papers/csw2023.pdf"
-    ]
-  ],
-  [
-    [
       "2023-03-25, 11:39:08",
       "https://news.ycombinator.com/item?id=35301657"
     ],
     [
       "Show HN: ChatGPT Plugins are a security nightmare",
       "https://github.com/greshake/llm-security"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 11:04:28",
-      "https://news.ycombinator.com/item?id=35301447"
-    ],
-    [
-      "What we know about the Apple Neural Engine",
-      "https://github.com/hollance/neural-engine"
     ]
   ],
   [
