@@ -2,6 +2,7 @@
 
 * [2023-03-26, 09:40:46](https://news.ycombinator.com/item?id=35312694) - [Superhuman: What can AI do in 30 minutes?](https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes)
 * [2023-03-26, 08:56:44](https://news.ycombinator.com/item?id=35312468) - [Understanding ChatGPT](https://www.atmosera.com/ai/understanding-chatgpt/)
+* [2023-03-26, 08:35:45](https://news.ycombinator.com/item?id=35312376) - [React is hostile to the outside world](https://sharno.substack.com/p/react-is-hostile-to-the-outside-world)
 * [2023-03-26, 08:31:30](https://news.ycombinator.com/item?id=35312352) - [The Undeniable Street View](https://theundeniablestreetview.com/)
 * [2023-03-26, 08:09:10](https://news.ycombinator.com/item?id=35312238) - [Evaluation of Location Encoding Systems](https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems)
 * [2023-03-26, 05:25:30](https://news.ycombinator.com/item?id=35311300) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
@@ -26,7 +27,6 @@
 * [2023-03-25, 16:13:52](https://news.ycombinator.com/item?id=35304097) - [CERN researchers have observed and generated high-energy neutrino radiation](https://bigthink.com/hard-science/high-energy-neutrinos-rare-cosmic-events/)
 * [2023-03-25, 15:57:51](https://news.ycombinator.com/item?id=35303934) - [Ultimate Doom on an 80s Compact Mac?](https://www.youtube.com/watch?v=63WcU7LBKFg)
 * [2023-03-25, 15:33:50](https://news.ycombinator.com/item?id=35303670) - [Reflect – App for recording and connecting notes, ideas and contacts](https://reflect.app/)
-* [2023-03-25, 15:08:25](https://news.ycombinator.com/item?id=35303391) - [Major shake-up coming for Fermilab, the troubled U.S. particle physics center](https://www.science.org/content/article/major-shake-coming-fermilab-troubled-u-s-particle-physics-center)
 * [2023-03-25, 08:47:34](https://news.ycombinator.com/item?id=35300755) - [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
 * [2023-03-24, 11:19:25](https://news.ycombinator.com/item?id=35287561) - [Wittgenstein&#x27;s Ladder](https://en.wikipedia.org/wiki/Wittgenstein%27s_ladder)
 * [2023-03-24, 05:52:24](https://news.ycombinator.com/item?id=35285518) - [Why take a compiler course? (2010)](https://blog.regehr.org/archives/169)
