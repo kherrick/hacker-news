@@ -27,6 +27,7 @@
 * [2023-03-25, 19:38:28](https://news.ycombinator.com/item?id=35306346) - [Half of Black High School Students in the Bay Area Can Barely Read](https://darrellowens.substack.com/p/half-of-black-students-can-hardly)
 * [2023-03-25, 19:36:30](https://news.ycombinator.com/item?id=35306312) - [Proposed dam to protect NL, DE, DK, SE from rising sea levels](https://haaksezeedijk.com/dhz/dijkenbekkens/)
 * [2023-03-25, 19:35:51](https://news.ycombinator.com/item?id=35306307) - [Tell HN: My WD Blue SA510 SSD died after 5 months](https://news.ycombinator.com/item?id=35306307)
+* [2023-03-25, 19:30:34](https://news.ycombinator.com/item?id=35306234) - [Microcorruption Writeup](http://msinilo.pl/blog2/post/microcorruption-writeup/)
 * [2023-03-25, 19:15:17](https://news.ycombinator.com/item?id=35306042) - [Management structures at various large companies [image]](https://goomics.net/62/)
 * [2023-03-25, 18:59:26](https://news.ycombinator.com/item?id=35305887) - [ChatGPT will revolutionize the economy. We need to decide what that looks like](https://www.technologyreview.com/2023/03/25/1070275/chatgpt-revolutionize-economy-decide-what-looks-like/)
 * [2023-03-25, 18:47:24](https://news.ycombinator.com/item?id=35305748) - [You Do Not Have a Shoe Size](https://writing.kemitchell.com/2023/03/25/No-Shoe-Size)

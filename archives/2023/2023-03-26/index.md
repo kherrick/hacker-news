@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 23:02:55](https://news.ycombinator.com/item?id=35320656) - [The RIAA vs. Steve Jobs](https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/)
 * [2023-03-26, 22:54:47](https://news.ycombinator.com/item?id=35320571) - [BlenderGPT: Use commands in English to control Blender with OpenAI&#x27;s GPT-4](https://github.com/gd3kr/BlenderGPT)
 * [2023-03-26, 22:53:35](https://news.ycombinator.com/item?id=35320565) - [An interview with Steve Wozniak by Jessica Livingston cured my AI anxiety](https://blog.vslira.net/2023/03/an-interview-with-steve-wozniak-by.html)
 * [2023-03-26, 22:02:14](https://news.ycombinator.com/item?id=35320097) - [When Will AI Take Your Job?](https://unchartedterritories.tomaspueyo.com/p/when-will-ai-take-your-job)
