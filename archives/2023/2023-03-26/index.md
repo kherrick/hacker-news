@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
 * [2023-03-26, 14:48:18](https://news.ycombinator.com/item?id=35315019) - [Customers face a different tipping culture compared to a few years ago](https://www.cnn.com/2023/03/25/business/tipping-trends/index.html)
+* [2023-03-26, 14:35:34](https://news.ycombinator.com/item?id=35314857) - [At Apple, Rare Dissent over a New Product: Interactive Goggles](https://www.nytimes.com/2023/03/26/technology/apple-augmented-reality-dissent.html)
 * [2023-03-26, 14:29:08](https://news.ycombinator.com/item?id=35314794) - [Bitcoin is a solution looking for a problem](https://www.reuters.com/breakingviews/bitcoin-is-solution-looking-problem-2023-03-24/)
 * [2023-03-26, 14:27:34](https://news.ycombinator.com/item?id=35314777) - [EU was set to ban internal combustion engine cars. Then Germany changed its mind](https://www.cnn.com/2023/03/24/cars/eu-combustion-engine-debate-climate-intl/index.html)
 * [2023-03-26, 14:24:55](https://news.ycombinator.com/item?id=35314755) - [Apple’s 100 highest-ranking executives saw the VR headset last week](https://www.bloomberg.com/news/newsletters/2023-03-26/apple-reality-headset-details-pro-features-top-100-meeting-watch-like-start-lfpgdgdb)

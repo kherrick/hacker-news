@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-26, 14:48:18](https://news.ycombinator.com/item?id=35315019) - [Customers face a different tipping culture compared to a few years ago](https://www.cnn.com/2023/03/25/business/tipping-trends/index.html)
+* [2023-03-26, 14:35:34](https://news.ycombinator.com/item?id=35314857) - [At Apple, Rare Dissent over a New Product: Interactive Goggles](https://www.nytimes.com/2023/03/26/technology/apple-augmented-reality-dissent.html)
 * [2023-03-26, 14:27:34](https://news.ycombinator.com/item?id=35314777) - [EU was set to ban internal combustion engine cars, then Germany changed its mind](https://www.cnn.com/2023/03/24/cars/eu-combustion-engine-debate-climate-intl/index.html)
 * [2023-03-26, 14:24:55](https://news.ycombinator.com/item?id=35314755) - [Apple’s 100 highest-ranking executives saw the VR headset last week](https://www.bloomberg.com/news/newsletters/2023-03-26/apple-reality-headset-details-pro-features-top-100-meeting-watch-like-start-lfpgdgdb)
 * [2023-03-26, 13:01:39](https://news.ycombinator.com/item?id=35313982) - [Richard Stallman&#x27;s thoughts on ChatGPT, AI and their impact on humanity](https://www.reddit.com/r/linux/comments/122gmm9/richard_stallmans_thoughts_on_chatgpt_artificial/)
@@ -19,7 +20,6 @@
 * [2023-03-26, 09:15:28](https://news.ycombinator.com/item?id=35312563) - [The Anti-Productivity Manifesto](https://invertedpassion.com/the-anti-productivity-manifesto/)
 * [2023-03-26, 08:56:44](https://news.ycombinator.com/item?id=35312468) - [Understanding ChatGPT](https://www.atmosera.com/ai/understanding-chatgpt/)
 * [2023-03-26, 08:31:30](https://news.ycombinator.com/item?id=35312352) - [The Undeniable Street View](https://theundeniablestreetview.com/)
-* [2023-03-26, 08:09:10](https://news.ycombinator.com/item?id=35312238) - [Evaluation of Location Encoding Systems (2021)](https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems)
 * [2023-03-26, 05:25:30](https://news.ycombinator.com/item?id=35311300) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
 * [2023-03-26, 05:25:02](https://news.ycombinator.com/item?id=35311293) - [GNUstep compatibility with macOS Catalina almost complete](https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.html)
 * [2023-03-26, 01:27:37](https://news.ycombinator.com/item?id=35309653) - [Cargo theft, led by food and beverage, is surging across the U.S.](https://www.cnbc.com/2023/03/25/cargo-theft-led-by-food-and-beverage-is-surging-across-the-us.html)
