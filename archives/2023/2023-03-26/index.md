@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
 * [2023-03-26, 17:11:18](https://news.ycombinator.com/item?id=35316836) - [Jacob Ziv has died (the Z in LZ compression)](https://twitter.com/erlichya/status/1639973591214182400)
+* [2023-03-26, 17:10:09](https://news.ycombinator.com/item?id=35316822) - [SVB collapse could mean a $500B venture capital ‘haircut’](https://www.bloomberg.com/news/articles/2023-03-24/svb-debacle-could-mean-a-500-billion-venture-capital-haircut)
 * [2023-03-26, 17:00:00](https://news.ycombinator.com/item?id=35316682) - [Motion (YC W20) Is Hiring a Senior SRE and Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2023-03-26, 16:40:12](https://news.ycombinator.com/item?id=35316449) - [Money market funds swell by over $273B as investors pull deposits from banks](https://www.ft.com/content/032523bc-3b92-4b94-b6b8-ebbe1d606b2c)
 * [2023-03-26, 16:31:32](https://news.ycombinator.com/item?id=35316329) - [Blockchain in 19 Lines of Python (2021)](https://gregorygundersen.com/blog/2021/09/19/blockchain/)
@@ -30,6 +31,7 @@
 * [2023-03-26, 11:30:13](https://news.ycombinator.com/item?id=35313308) - [Making of “The wet bird” (POV-Ray, 2000)](http://www.oyonale.com/image.php?code=464&mode=info&section=2000&lang=en&)
 * [2023-03-26, 11:20:28](https://news.ycombinator.com/item?id=35313232) - [Text Only News Websites](https://blog.wturrell.co.uk/text-only-news-websites/)
 * [2023-03-26, 11:11:34](https://news.ycombinator.com/item?id=35313171) - [Show HN: GPT-4 Reverse Turing Test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c)
+* [2023-03-26, 10:55:29](https://news.ycombinator.com/item?id=35313088) - [Frequency Format Hypothesis](https://en.wikipedia.org/wiki/Frequency_format_hypothesis)
 * [2023-03-26, 10:44:19](https://news.ycombinator.com/item?id=35313030) - [The F-15 Eagle: Origins and Development, 1964-1972 [pdf]](https://media.defense.gov/2012/May/16/2001330012/-1/-1/0/AFD-120516-036.pdf)
 * [2023-03-26, 10:32:47](https://news.ycombinator.com/item?id=35312960) - [Open-source high-performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
 * [2023-03-26, 09:40:46](https://news.ycombinator.com/item?id=35312694) - [Superhuman: What can AI do in 30 minutes?](https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes)
