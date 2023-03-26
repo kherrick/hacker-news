@@ -82,6 +82,7 @@
 * [2023-03-25, 12:20:03](https://news.ycombinator.com/item?id=35301930) - [Ask HN: Is Google Slowly Dying?](https://news.ycombinator.com/item?id=35301930)
 * [2023-03-25, 12:08:05](https://news.ycombinator.com/item?id=35301846) - [Civilization II](https://www.abortretry.fail/p/civilization-ii)
 * [2023-03-25, 12:00:45](https://news.ycombinator.com/item?id=35301795) - [Paperspace (YC W15) is hiring a fullstack engineer to simplify deploying AI apps](https://www.paperspace.com/careers/positions?gh_jid=4180983005&gh_src=652ffa365us)
+* [2023-03-25, 11:49:18](https://news.ycombinator.com/item?id=35301727) - [The Death of a Technical Skill (2020) [pdf]](https://john-joseph-horton.com/papers/schumpeter.pdf)
 * [2023-03-25, 11:44:53](https://news.ycombinator.com/item?id=35301695) - [Errors Made by the CDC During Covid-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
 * [2023-03-25, 11:39:08](https://news.ycombinator.com/item?id=35301657) - [Show HN: ChatGPT Plugins are a security nightmare](https://github.com/greshake/llm-security)
 * [2023-03-25, 11:04:28](https://news.ycombinator.com/item?id=35301447) - [Everything we know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)

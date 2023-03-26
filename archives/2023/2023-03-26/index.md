@@ -37,6 +37,7 @@
 * [2023-03-26, 15:25:02](https://news.ycombinator.com/item?id=35315441) - [Colorectal cancer is rising among younger adults](https://www.cnn.com/2023/03/24/health/colorectal-cancer-young-age-mystery/index.html)
 * [2023-03-26, 15:23:44](https://news.ycombinator.com/item?id=35315424) - [Arduino Uno R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/)
 * [2023-03-26, 15:16:13](https://news.ycombinator.com/item?id=35315310) - [Ghoti](https://english.stackexchange.com/questions/396553/what-is-this-famous-example-of-the-absurdity-of-english-spelling)
+* [2023-03-26, 15:11:02](https://news.ycombinator.com/item?id=35315248) - [Show HN: Jailbreaking GPT3.5 Using GPT4](https://github.com/traghav/auto-redteam)
 * [2023-03-26, 15:07:11](https://news.ycombinator.com/item?id=35315214) - [Pentagon Woos Silicon Valley to Join Ranks of Arms Makers](https://www.wsj.com/articles/pentagon-woos-silicon-valley-to-join-ranks-of-arms-makers-38b1d4c0)
 * [2023-03-26, 15:03:09](https://news.ycombinator.com/item?id=35315170) - [Agatha Christie novels reworked to remove potentially offensive language](https://www.theguardian.com/books/2023/mar/26/agatha-christie-novels-reworked-to-remove-potentially-offensive-language)
 * [2023-03-26, 14:48:18](https://news.ycombinator.com/item?id=35315019) - [Customers face a different tipping culture compared to a few years ago](https://www.cnn.com/2023/03/25/business/tipping-trends/index.html)
