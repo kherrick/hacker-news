@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 12:00:50](https://news.ycombinator.com/item?id=35313542) - [Float Health (YC W22) Is Hiring Senior Software Engineer](https://news.ycombinator.com/item?id=35313542)
 * [2023-03-26, 11:31:57](https://news.ycombinator.com/item?id=35313326) - [140 Megapixel Picture of the Sun](https://old.reddit.com/r/space/comments/122475u/i_teamed_up_with_a_fellow_redditor_to_try_and/)
 * [2023-03-26, 11:20:28](https://news.ycombinator.com/item?id=35313232) - [Text Only News Websites](https://blog.wturrell.co.uk/text-only-news-websites/)
 * [2023-03-26, 11:11:34](https://news.ycombinator.com/item?id=35313171) - [Show HN: GPT-4 Reverse Turing Test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c)
