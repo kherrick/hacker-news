@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 17:39:15](https://news.ycombinator.com/item?id=35317154) - [Could &#x27;Terminator Zones&#x27; on Far Off Planets Harbor Life?](https://www.futurity.org/exoplanets-terminator-zone-alien-life-water-2892302/)
+* [2023-03-26, 17:28:45](https://news.ycombinator.com/item?id=35317040) - [Clever Hans (Intelligence Misatributon)](https://en.wikipedia.org/wiki/Clever_Hans)
 * [2023-03-26, 17:11:18](https://news.ycombinator.com/item?id=35316836) - [Jacob Ziv has died (the Z in LZ compression)](https://twitter.com/erlichya/status/1639973591214182400)
 * [2023-03-26, 17:10:09](https://news.ycombinator.com/item?id=35316822) - [SVB collapse could mean a $500B venture capital ‘haircut’](https://www.bloomberg.com/news/articles/2023-03-24/svb-debacle-could-mean-a-500-billion-venture-capital-haircut)
+* [2023-03-26, 17:09:03](https://news.ycombinator.com/item?id=35316808) - [Why are developers expected to estimate tasks at all?](https://pm.stackexchange.com/questions/34768/why-are-developers-expected-to-estimate-tasks-at-all)
 * [2023-03-26, 17:00:00](https://news.ycombinator.com/item?id=35316682) - [Motion (YC W20) Is Hiring a Senior SRE and Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2023-03-26, 16:40:12](https://news.ycombinator.com/item?id=35316449) - [Money market funds swell by over $273B as investors pull deposits from banks](https://www.ft.com/content/032523bc-3b92-4b94-b6b8-ebbe1d606b2c)
 * [2023-03-26, 16:31:32](https://news.ycombinator.com/item?id=35316329) - [Blockchain in 19 Lines of Python (2021)](https://gregorygundersen.com/blog/2021/09/19/blockchain/)
