@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 21:23:02](https://news.ycombinator.com/item?id=35319778) - [Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)
 * [2023-03-26, 19:51:02](https://news.ycombinator.com/item?id=35318797) - [Let ChatGPT run free on random webpages and do what it likes](https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098)
 * [2023-03-26, 19:48:42](https://news.ycombinator.com/item?id=35318768) - [The Lesser-Known History of African-American Cowboys](https://www.smithsonianmag.com/history/lesser-known-history-african-american-cowboys-180962144/)
 * [2023-03-26, 19:07:31](https://news.ycombinator.com/item?id=35318258) - [Why Architecture Oriented Programming Matters (2019)](https://blog.metaobject.com/2019/02/why-architecture-oriented-programming.html)
