@@ -17,6 +17,7 @@
 * [2023-03-26, 09:40:46](https://news.ycombinator.com/item?id=35312694) - [Superhuman: What can AI do in 30 minutes?](https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes)
 * [2023-03-26, 09:28:50](https://news.ycombinator.com/item?id=35312632) - [On the Design, Implementation, and Use of Laziness in R (2019)](https://arxiv.org/abs/1909.08958)
 * [2023-03-26, 09:25:15](https://news.ycombinator.com/item?id=35312609) - [ChatGPT and Code Interpreter = Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/)
+* [2023-03-26, 09:15:28](https://news.ycombinator.com/item?id=35312563) - [The Anti-Productivity Manifesto](https://invertedpassion.com/the-anti-productivity-manifesto/)
 * [2023-03-26, 09:05:21](https://news.ycombinator.com/item?id=35312508) - [And yet It Understands](https://borretti.me/article/and-yet-it-understands)
 * [2023-03-26, 08:56:44](https://news.ycombinator.com/item?id=35312468) - [Understanding ChatGPT](https://www.atmosera.com/ai/understanding-chatgpt/)
 * [2023-03-26, 08:46:41](https://news.ycombinator.com/item?id=35312418) - [Understanding Immutable OSes](https://kairos.io/blog/2023/03/22/understanding-immutable-linux-os-benefits-architecture-and-challenges/)
