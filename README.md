@@ -2,6 +2,7 @@
 
 * [2023-03-26, 12:00:50](https://news.ycombinator.com/item?id=35313542) - [Float Health (YC W22) Is Hiring Senior Software Engineer](https://news.ycombinator.com/item?id=35313542)
 * [2023-03-26, 11:31:57](https://news.ycombinator.com/item?id=35313326) - [140 Megapixel Picture of the Sun](https://old.reddit.com/r/space/comments/122475u/i_teamed_up_with_a_fellow_redditor_to_try_and/)
+* [2023-03-26, 11:30:13](https://news.ycombinator.com/item?id=35313308) - [Making of “The wet bird” (POV-Ray, 2000)](http://www.oyonale.com/image.php?code=464&mode=info&section=2000&lang=en&)
 * [2023-03-26, 11:20:28](https://news.ycombinator.com/item?id=35313232) - [Text Only News Websites](https://blog.wturrell.co.uk/text-only-news-websites/)
 * [2023-03-26, 11:11:34](https://news.ycombinator.com/item?id=35313171) - [Show HN: GPT-4 Reverse Turing Test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c)
 * [2023-03-26, 10:44:19](https://news.ycombinator.com/item?id=35313030) - [The F-15 Eagle: Origins and Development, 1964-1972 [pdf]](https://media.defense.gov/2012/May/16/2001330012/-1/-1/0/AFD-120516-036.pdf)
@@ -10,6 +11,7 @@
 * [2023-03-26, 09:28:50](https://news.ycombinator.com/item?id=35312632) - [On the Design, Implementation, and Use of Laziness in R (2019)](https://arxiv.org/abs/1909.08958)
 * [2023-03-26, 09:25:15](https://news.ycombinator.com/item?id=35312609) - [ChatGPT and Code Interpreter = Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/)
 * [2023-03-26, 08:56:44](https://news.ycombinator.com/item?id=35312468) - [Understanding ChatGPT](https://www.atmosera.com/ai/understanding-chatgpt/)
+* [2023-03-26, 08:46:41](https://news.ycombinator.com/item?id=35312418) - [Understanding Immutable OSes](https://kairos.io/blog/2023/03/22/understanding-immutable-linux-os-benefits-architecture-and-challenges/)
 * [2023-03-26, 08:31:30](https://news.ycombinator.com/item?id=35312352) - [The Undeniable Street View](https://theundeniablestreetview.com/)
 * [2023-03-26, 08:09:10](https://news.ycombinator.com/item?id=35312238) - [Evaluation of Location Encoding Systems (2021)](https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems)
 * [2023-03-26, 05:25:30](https://news.ycombinator.com/item?id=35311300) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
@@ -23,13 +25,11 @@
 * [2023-03-25, 21:33:36](https://news.ycombinator.com/item?id=35307647) - [Utah is first US state to limit teen social media access](https://www.bbc.com/news/world-us-canada-65060733)
 * [2023-03-25, 21:33:05](https://news.ycombinator.com/item?id=35307640) - [Docker](https://computer.rip/2023-03-24-docker.html)
 * [2023-03-25, 18:34:20](https://news.ycombinator.com/item?id=35305591) - [Odd Caliber](https://www.trulyadventure.us/odd-caliber)
-* [2023-03-25, 18:30:38](https://news.ycombinator.com/item?id=35305554) - [My Goku file to generate the Karabiner-Elements configuration](https://github.com/tIsGoud/goku)
 * [2023-03-25, 18:30:10](https://news.ycombinator.com/item?id=35305546) - [An apologia of lazy evaluation](https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html)
 * [2023-03-25, 16:28:54](https://news.ycombinator.com/item?id=35304228) - [Things I’ve Learned from Charlie Munger about Moats (2015)](https://25iq.com/2015/10/10/a-dozen-things-ive-learned-from-charlie-munger-about-moats/)
 * [2023-03-25, 16:14:24](https://news.ycombinator.com/item?id=35304102) - [Can a ‘fingerprint’ of your brain help predict disorders?](https://www.smithsonianmag.com/science-nature/can-a-fingerprint-of-your-brain-help-predict-mental-health-conditions-180981869/)
 * [2023-03-25, 16:13:52](https://news.ycombinator.com/item?id=35304097) - [CERN researchers have observed and generated high-energy neutrino radiation](https://bigthink.com/hard-science/high-energy-neutrinos-rare-cosmic-events/)
-* [2023-03-25, 08:47:34](https://news.ycombinator.com/item?id=35300755) - [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
-* [2023-03-24, 05:52:24](https://news.ycombinator.com/item?id=35285518) - [Why take a compiler course? (2010)](https://blog.regehr.org/archives/169)
+* [2023-03-25, 16:12:47](https://news.ycombinator.com/item?id=35304088) - [A global approach for natural history museum collections](https://www.science.org/doi/10.1126/science.adf6434)
 
 ## [Archives](archives/index.md)
 

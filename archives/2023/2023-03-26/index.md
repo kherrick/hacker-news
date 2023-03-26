@@ -6,6 +6,7 @@
 
 * [2023-03-26, 12:00:50](https://news.ycombinator.com/item?id=35313542) - [Float Health (YC W22) Is Hiring Senior Software Engineer](https://news.ycombinator.com/item?id=35313542)
 * [2023-03-26, 11:31:57](https://news.ycombinator.com/item?id=35313326) - [140 Megapixel Picture of the Sun](https://old.reddit.com/r/space/comments/122475u/i_teamed_up_with_a_fellow_redditor_to_try_and/)
+* [2023-03-26, 11:30:13](https://news.ycombinator.com/item?id=35313308) - [Making of “The wet bird” (POV-Ray, 2000)](http://www.oyonale.com/image.php?code=464&mode=info&section=2000&lang=en&)
 * [2023-03-26, 11:20:28](https://news.ycombinator.com/item?id=35313232) - [Text Only News Websites](https://blog.wturrell.co.uk/text-only-news-websites/)
 * [2023-03-26, 11:11:34](https://news.ycombinator.com/item?id=35313171) - [Show HN: GPT-4 Reverse Turing Test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c)
 * [2023-03-26, 10:44:19](https://news.ycombinator.com/item?id=35313030) - [The F-15 Eagle: Origins and Development, 1964-1972 [pdf]](https://media.defense.gov/2012/May/16/2001330012/-1/-1/0/AFD-120516-036.pdf)
