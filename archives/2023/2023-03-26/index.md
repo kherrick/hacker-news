@@ -6,6 +6,7 @@
 
 * [2023-03-26, 13:01:39](https://news.ycombinator.com/item?id=35313982) - [Richard Stallman&#x27;s thoughts on ChatGPT, AI and their impact on humanity](https://www.reddit.com/r/linux/comments/122gmm9/richard_stallmans_thoughts_on_chatgpt_artificial/)
 * [2023-03-26, 12:57:03](https://news.ycombinator.com/item?id=35313943) - [When root on ZFS breaks on Arch Linux](https://blog.mnus.de/2023/03/archlinux-zfs/)
+* [2023-03-26, 12:52:37](https://news.ycombinator.com/item?id=35313903) - [OpenSUSE Linux Gains Momentum: A Look at Its Growing Popularity](https://linuxiac.com/opensuse-grows-in-popularity/)
 * [2023-03-26, 12:00:50](https://news.ycombinator.com/item?id=35313542) - [Float Health (YC W22) Is Hiring Senior Software Engineer](https://news.ycombinator.com/item?id=35313542)
 * [2023-03-26, 11:31:57](https://news.ycombinator.com/item?id=35313326) - [140 Megapixel Picture of the Sun](https://old.reddit.com/r/space/comments/122475u/i_teamed_up_with_a_fellow_redditor_to_try_and/)
 * [2023-03-26, 11:30:13](https://news.ycombinator.com/item?id=35313308) - [Making of “The wet bird” (POV-Ray, 2000)](http://www.oyonale.com/image.php?code=464&mode=info&section=2000&lang=en&)
