@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 15:25:02](https://news.ycombinator.com/item?id=35315441) - [Colorectal cancer is rising among younger adults](https://www.cnn.com/2023/03/24/health/colorectal-cancer-young-age-mystery/index.html)
 * [2023-03-26, 14:48:18](https://news.ycombinator.com/item?id=35315019) - [Customers face a different tipping culture compared to a few years ago](https://www.cnn.com/2023/03/25/business/tipping-trends/index.html)
 * [2023-03-26, 14:35:34](https://news.ycombinator.com/item?id=35314857) - [At Apple, Rare Dissent over a New Product: Interactive Goggles](https://www.nytimes.com/2023/03/26/technology/apple-augmented-reality-dissent.html)
 * [2023-03-26, 14:29:08](https://news.ycombinator.com/item?id=35314794) - [Bitcoin is a solution looking for a problem](https://www.reuters.com/breakingviews/bitcoin-is-solution-looking-problem-2023-03-24/)

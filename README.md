@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-26, 15:25:02](https://news.ycombinator.com/item?id=35315441) - [Colorectal cancer is rising among younger adults](https://www.cnn.com/2023/03/24/health/colorectal-cancer-young-age-mystery/index.html)
 * [2023-03-26, 14:48:18](https://news.ycombinator.com/item?id=35315019) - [Customers face a different tipping culture compared to a few years ago](https://www.cnn.com/2023/03/25/business/tipping-trends/index.html)
 * [2023-03-26, 14:35:34](https://news.ycombinator.com/item?id=35314857) - [At Apple, Rare Dissent over a New Product: Interactive Goggles](https://www.nytimes.com/2023/03/26/technology/apple-augmented-reality-dissent.html)
 * [2023-03-26, 14:27:34](https://news.ycombinator.com/item?id=35314777) - [EU was set to ban internal combustion engine cars, then Germany changed its mind](https://www.cnn.com/2023/03/24/cars/eu-combustion-engine-debate-climate-intl/index.html)
@@ -27,7 +28,6 @@
 * [2023-03-25, 23:11:42](https://news.ycombinator.com/item?id=35308551) - [Vector database built for scalable similarity search](https://milvus.io/)
 * [2023-03-25, 21:33:36](https://news.ycombinator.com/item?id=35307647) - [Utah is first US state to limit teen social media access](https://www.bbc.com/news/world-us-canada-65060733)
 * [2023-03-25, 18:34:20](https://news.ycombinator.com/item?id=35305591) - [Odd Caliber](https://www.trulyadventure.us/odd-caliber)
-* [2023-03-25, 16:14:24](https://news.ycombinator.com/item?id=35304102) - [Can a ‘fingerprint’ of your brain help predict disorders?](https://www.smithsonianmag.com/science-nature/can-a-fingerprint-of-your-brain-help-predict-mental-health-conditions-180981869/)
 * [2023-03-25, 16:13:52](https://news.ycombinator.com/item?id=35304097) - [CERN researchers have observed and generated high-energy neutrino radiation](https://bigthink.com/hard-science/high-energy-neutrinos-rare-cosmic-events/)
 * [2023-03-25, 16:12:47](https://news.ycombinator.com/item?id=35304088) - [A global approach for natural history museum collections](https://www.science.org/doi/10.1126/science.adf6434)
 
