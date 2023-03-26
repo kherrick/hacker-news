@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-26, 06:54:57](https://news.ycombinator.com/item?id=35311805) - [Computer Chips Could Become a New Commodity on Futures Markets (1989)](https://www.latimes.com/archives/la-xpm-1989-07-02-fi-4884-story.html)
 * [2023-03-26, 06:30:16](https://news.ycombinator.com/item?id=35311667) - [ChatGPT 4 saved my dog’s life](https://twitter.com/peakcooper/status/1639716822680236032)
 * [2023-03-26, 05:25:30](https://news.ycombinator.com/item?id=35311300) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
 * [2023-03-26, 05:25:02](https://news.ycombinator.com/item?id=35311293) - [GNUstep compatibility with macOS Catalina almost complete](https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.html)
@@ -11,7 +12,6 @@
 * [2023-03-25, 23:11:42](https://news.ycombinator.com/item?id=35308551) - [Vector database built for scalable similarity search](https://milvus.io/)
 * [2023-03-25, 23:05:28](https://news.ycombinator.com/item?id=35308498) - [I lost everything that made me love my job through Midjourney overnight](https://reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/)
 * [2023-03-25, 22:37:53](https://news.ycombinator.com/item?id=35308246) - [My experience crafting an interpreter with Rust (2021)](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
-* [2023-03-25, 22:15:44](https://news.ycombinator.com/item?id=35308033) - [A nasal spray protects against coronavirus including immune-evasive variants](https://www.helsinki.fi/en/news/pandemics/nasal-spray-protects-against-coronavirus-infection-effective-also-against-recent-immune-evasive-variants)
 * [2023-03-25, 21:34:19](https://news.ycombinator.com/item?id=35307656) - [Show HN: Lunette – A word processor designed around writing, not formatting](https://lunette.app/)
 * [2023-03-25, 21:33:36](https://news.ycombinator.com/item?id=35307647) - [Utah is first US state to limit teen social media access](https://www.bbc.com/news/world-us-canada-65060733)
 * [2023-03-25, 21:33:05](https://news.ycombinator.com/item?id=35307640) - [Docker](https://computer.rip/2023-03-24-docker.html)
@@ -20,7 +20,7 @@
 * [2023-03-25, 18:40:14](https://news.ycombinator.com/item?id=35305655) - [Experimental library for scraping websites using OpenAI&#x27;s GPT API](https://jamesturk.github.io/scrapeghost/)
 * [2023-03-25, 18:36:39](https://news.ycombinator.com/item?id=35305613) - [Italy rated one of the hardest countries for foreigners to settle in](https://www.thelocal.it/20230321/italy-rated-one-of-the-worst-countries-for-foreigners-to-get-started)
 * [2023-03-25, 18:30:10](https://news.ycombinator.com/item?id=35305546) - [An Apologia of Lazy Evaluation](https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html)
-* [2023-03-25, 17:57:16](https://news.ycombinator.com/item?id=35305193) - [A Bad Trip to Infinity](https://billwadge.com/2023/03/25/a-bad-trip-to-infinity/)
+* [2023-03-25, 17:01:13](https://news.ycombinator.com/item?id=35304593) - [SafeButler (YC S17) Is Hiring software engineer intern](https://www.safebutler.com/careers)
 * [2023-03-25, 16:30:02](https://news.ycombinator.com/item?id=35304241) - [Time to end the speed limit in US airspace?](https://www.elidourado.com/p/50-years-supersonic-ban)
 * [2023-03-25, 16:28:54](https://news.ycombinator.com/item?id=35304228) - [Things I’ve Learned from Charlie Munger about Moats (2015)](https://25iq.com/2015/10/10/a-dozen-things-ive-learned-from-charlie-munger-about-moats/)
 * [2023-03-25, 16:08:52](https://news.ycombinator.com/item?id=35304039) - [I Saw the Face of God in a Semiconductor Factory](https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/)

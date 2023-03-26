@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 06:54:57](https://news.ycombinator.com/item?id=35311805) - [Computer Chips Could Become a New Commodity on Futures Markets (1989)](https://www.latimes.com/archives/la-xpm-1989-07-02-fi-4884-story.html)
 * [2023-03-26, 06:30:16](https://news.ycombinator.com/item?id=35311667) - [ChatGPT 4 saved my dog’s life](https://twitter.com/peakcooper/status/1639716822680236032)
 * [2023-03-26, 05:25:30](https://news.ycombinator.com/item?id=35311300) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
 * [2023-03-26, 05:25:02](https://news.ycombinator.com/item?id=35311293) - [GNUstep compatibility with macOS Catalina almost complete](https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.html)
