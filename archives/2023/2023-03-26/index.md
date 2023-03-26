@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
 * [2023-03-26, 05:25:30](https://news.ycombinator.com/item?id=35311300) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
+* [2023-03-26, 05:25:02](https://news.ycombinator.com/item?id=35311293) - [GNUstep compatibility with macOS Catalina almost complete](https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.html)
 * [2023-03-26, 02:59:53](https://news.ycombinator.com/item?id=35310336) - [Ruffle – Flash Emulator – Progress Report](https://ruffle.rs/blog/2023/03/12/progress-report.html)
 * [2023-03-26, 02:13:45](https://news.ycombinator.com/item?id=35309988) - [U.S. Home Prices Are the Most Unaffordable They&#x27;ve Been in Nearly 100 Years](https://www.longtermtrends.net/home-price-median-annual-income-ratio/)
 * [2023-03-26, 02:01:39](https://news.ycombinator.com/item?id=35309904) - [FDA: Acetaminophen one of the most dangerous drugs on the market](https://www.clickorlando.com/health/2012/02/14/fda-acetaminophen-one-of-the-most-dangerous-drugs-on-the-market/)
