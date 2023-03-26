@@ -6,6 +6,7 @@
 
 * [2023-03-26, 10:32:47](https://news.ycombinator.com/item?id=35312960) - [Open-source high-performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
 * [2023-03-26, 09:40:46](https://news.ycombinator.com/item?id=35312694) - [Superhuman: What can AI do in 30 minutes?](https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes)
+* [2023-03-26, 09:25:15](https://news.ycombinator.com/item?id=35312609) - [ChatGPT and Code Interpreter = Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/)
 * [2023-03-26, 09:05:21](https://news.ycombinator.com/item?id=35312508) - [And yet It Understands](https://borretti.me/article/and-yet-it-understands)
 * [2023-03-26, 08:56:44](https://news.ycombinator.com/item?id=35312468) - [Understanding ChatGPT](https://www.atmosera.com/ai/understanding-chatgpt/)
 * [2023-03-26, 08:35:45](https://news.ycombinator.com/item?id=35312376) - [React is hostile to the outside world](https://sharno.substack.com/p/react-is-hostile-to-the-outside-world)
