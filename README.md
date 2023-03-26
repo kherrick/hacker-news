@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-26, 10:32:47](https://news.ycombinator.com/item?id=35312960) - [Open-source high-performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
 * [2023-03-26, 09:40:46](https://news.ycombinator.com/item?id=35312694) - [Superhuman: What can AI do in 30 minutes?](https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes)
 * [2023-03-26, 09:05:21](https://news.ycombinator.com/item?id=35312508) - [And yet It Understands](https://borretti.me/article/and-yet-it-understands)
 * [2023-03-26, 08:56:44](https://news.ycombinator.com/item?id=35312468) - [Understanding ChatGPT](https://www.atmosera.com/ai/understanding-chatgpt/)
@@ -28,7 +29,6 @@
 * [2023-03-25, 15:57:51](https://news.ycombinator.com/item?id=35303934) - [Ultimate Doom on an 80s Compact Mac?](https://www.youtube.com/watch?v=63WcU7LBKFg)
 * [2023-03-25, 15:33:50](https://news.ycombinator.com/item?id=35303670) - [Reflect – App for recording and connecting notes, ideas and contacts](https://reflect.app/)
 * [2023-03-25, 08:47:34](https://news.ycombinator.com/item?id=35300755) - [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
-* [2023-03-24, 11:19:25](https://news.ycombinator.com/item?id=35287561) - [Wittgenstein&#x27;s Ladder](https://en.wikipedia.org/wiki/Wittgenstein%27s_ladder)
 * [2023-03-24, 05:52:24](https://news.ycombinator.com/item?id=35285518) - [Why take a compiler course? (2010)](https://blog.regehr.org/archives/169)
 
 ## [Archives](archives/index.md)
