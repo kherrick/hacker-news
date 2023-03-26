@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 22:02:14](https://news.ycombinator.com/item?id=35320097) - [When Will AI Take Your Job?](https://unchartedterritories.tomaspueyo.com/p/when-will-ai-take-your-job)
+* [2023-03-26, 21:37:14](https://news.ycombinator.com/item?id=35319901) - [Thousands Take to Streets After Netanyahu Fires Defense Minister](https://www.haaretz.com/israel-news/2023-03-26/ty-article-live/senior-likud-members-hint-at-opposing-judicial-overhaul/00000187-1c81-d4ca-afff-1d89ee5b0000)
+* [2023-03-26, 21:26:56](https://news.ycombinator.com/item?id=35319807) - [Robot Learns to See in 30 Minutes](https://antonilo.github.io/vision_locomotion/)
 * [2023-03-26, 21:23:02](https://news.ycombinator.com/item?id=35319778) - [Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)
 * [2023-03-26, 19:51:02](https://news.ycombinator.com/item?id=35318797) - [Let ChatGPT run free on random webpages and do what it likes](https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098)
 * [2023-03-26, 19:48:42](https://news.ycombinator.com/item?id=35318768) - [The Lesser-Known History of African-American Cowboys](https://www.smithsonianmag.com/history/lesser-known-history-african-american-cowboys-180962144/)
