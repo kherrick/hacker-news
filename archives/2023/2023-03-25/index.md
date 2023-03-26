@@ -87,6 +87,7 @@
 * [2023-03-25, 11:04:28](https://news.ycombinator.com/item?id=35301447) - [Everything we know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
 * [2023-03-25, 10:00:45](https://news.ycombinator.com/item?id=35301138) - [Common Lisp Quick Reference](http://clqr.boundp.org)
 * [2023-03-25, 09:59:33](https://news.ycombinator.com/item?id=35301129) - [“Can we ban iPhone in retaliation?” Chinese internet reacts to TikTok hearing](https://thechinaproject.com/2023/03/24/can-we-ban-iphone-in-retaliation-chinese-internet-reacts-to-tiktok-hearing-in-the-u-s/)
+* [2023-03-25, 09:40:59](https://news.ycombinator.com/item?id=35301033) - [The symmetry that makes solving math equations easy](https://www.quantamagazine.org/the-symmetry-that-makes-solving-math-equations-easy-20230324/)
 * [2023-03-25, 09:28:38](https://news.ycombinator.com/item?id=35300977) - [Principal resigns after Florida students shown Michelangelo statue](https://www.bbc.co.uk/news/world-us-canada-65071989)
 * [2023-03-25, 09:03:11](https://news.ycombinator.com/item?id=35300822) - [Show HN: ESER-32&#x2F;Zuse Elektra emulator](https://github.com/setun-90/ESER-32)
 * [2023-03-25, 08:47:34](https://news.ycombinator.com/item?id=35300755) - [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
