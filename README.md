@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-26, 05:25:30](https://news.ycombinator.com/item?id=35311300) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
 * [2023-03-26, 02:59:53](https://news.ycombinator.com/item?id=35310336) - [Ruffle – Flash Emulator – Progress Report](https://ruffle.rs/blog/2023/03/12/progress-report.html)
 * [2023-03-26, 02:13:45](https://news.ycombinator.com/item?id=35309988) - [U.S. Home Prices Are the Most Unaffordable They&#x27;ve Been in Nearly 100 Years](https://www.longtermtrends.net/home-price-median-annual-income-ratio/)
 * [2023-03-26, 00:21:21](https://news.ycombinator.com/item?id=35309116) - [Show HN: 13Sheep – a JavaScript game largely authored by ChatGPT](https://13sheep.netlify.app/)
@@ -26,7 +27,6 @@
 * [2023-03-25, 15:08:25](https://news.ycombinator.com/item?id=35303391) - [Major shake-up coming for Fermilab, the troubled U.S. particle physics center](https://www.science.org/content/article/major-shake-coming-fermilab-troubled-u-s-particle-physics-center)
 * [2023-03-25, 14:54:39](https://news.ycombinator.com/item?id=35303220) - [British PCs of the 1980s](https://arstechnica.com/gadgets/2023/03/egad-7-key-british-pcs-of-the-1980s-americans-might-have-missed/)
 * [2023-03-25, 08:47:34](https://news.ycombinator.com/item?id=35300755) - [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
-* [2023-03-25, 06:06:45](https://news.ycombinator.com/item?id=35299951) - [Low-Level C Programming – CSE 325 Lecture Videos](https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia)
 * [2023-03-24, 11:19:25](https://news.ycombinator.com/item?id=35287561) - [Wittgenstein&#x27;s Ladder](https://en.wikipedia.org/wiki/Wittgenstein%27s_ladder)
 * [2023-03-24, 06:40:05](https://news.ycombinator.com/item?id=35285769) - [Comparing Hobby PCB Vendors](https://lcamtuf.substack.com/p/comparing-hobby-pcb-vendors)
 * [2023-03-24, 05:52:24](https://news.ycombinator.com/item?id=35285518) - [Why take a compiler course? (2010)](https://blog.regehr.org/archives/169)
