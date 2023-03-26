@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 09:40:46](https://news.ycombinator.com/item?id=35312694) - [Superhuman: What can AI do in 30 minutes?](https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes)
 * [2023-03-26, 08:56:44](https://news.ycombinator.com/item?id=35312468) - [Understanding ChatGPT](https://www.atmosera.com/ai/understanding-chatgpt/)
 * [2023-03-26, 08:31:30](https://news.ycombinator.com/item?id=35312352) - [The Undeniable Street View](https://theundeniablestreetview.com/)
 * [2023-03-26, 08:09:10](https://news.ycombinator.com/item?id=35312238) - [Evaluation of Location Encoding Systems](https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems)

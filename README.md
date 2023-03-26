@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-26, 09:40:46](https://news.ycombinator.com/item?id=35312694) - [Superhuman: What can AI do in 30 minutes?](https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes)
 * [2023-03-26, 08:56:44](https://news.ycombinator.com/item?id=35312468) - [Understanding ChatGPT](https://www.atmosera.com/ai/understanding-chatgpt/)
 * [2023-03-26, 08:31:30](https://news.ycombinator.com/item?id=35312352) - [The Undeniable Street View](https://theundeniablestreetview.com/)
 * [2023-03-26, 08:09:10](https://news.ycombinator.com/item?id=35312238) - [Evaluation of Location Encoding Systems](https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems)
@@ -11,7 +12,6 @@
 * [2023-03-25, 23:26:09](https://news.ycombinator.com/item?id=35308672) - [Dismantling a Crappy Malware Operation](https://mrbruh.com/dismantling_malware_operation/)
 * [2023-03-25, 23:11:42](https://news.ycombinator.com/item?id=35308551) - [Vector database built for scalable similarity search](https://milvus.io/)
 * [2023-03-25, 23:05:28](https://news.ycombinator.com/item?id=35308498) - [I lost everything that made me love my job through Midjourney](https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/)
-* [2023-03-25, 22:37:53](https://news.ycombinator.com/item?id=35308246) - [My experience crafting an interpreter with Rust (2021)](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
 * [2023-03-25, 21:34:19](https://news.ycombinator.com/item?id=35307656) - [Show HN: Lunette – A word processor designed around writing, not formatting](https://lunette.app/)
 * [2023-03-25, 21:33:36](https://news.ycombinator.com/item?id=35307647) - [Utah is first US state to limit teen social media access](https://www.bbc.com/news/world-us-canada-65060733)
 * [2023-03-25, 21:33:05](https://news.ycombinator.com/item?id=35307640) - [Docker](https://computer.rip/2023-03-24-docker.html)
