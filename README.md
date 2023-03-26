@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-26, 18:57:20](https://news.ycombinator.com/item?id=35318114) - [GPT-2 as step toward general intelligence (2019)](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/)
+* [2023-03-26, 18:40:36](https://news.ycombinator.com/item?id=35317882) - [The Graphical User Interface Gallery](http://toastytech.com/guis/index.html)
 * [2023-03-26, 18:16:30](https://news.ycombinator.com/item?id=35317589) - [Linux is Making Apple Great Again](https://jasoneckert.github.io/myblog/linux-is-making-apple-great-again/)
 * [2023-03-26, 18:04:24](https://news.ycombinator.com/item?id=35317464) - [Cryptocurrencies add nothing useful to society, says chip-maker Nvidia](https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining)
 * [2023-03-26, 18:00:26](https://news.ycombinator.com/item?id=35317419) - [Craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
 * [2023-03-26, 17:48:21](https://news.ycombinator.com/item?id=35317262) - [Close-Up of the First Mechanical Gear Ever Found in Nature (2013)](https://canyouactually.com/first-mechanical-gear-ever-found-in-nature/)
-* [2023-03-26, 17:46:25](https://news.ycombinator.com/item?id=35317230) - [Py-template: one-click Python environment v0.2.0 update](https://github.com/inovintell/py-template)
 * [2023-03-26, 17:35:10](https://news.ycombinator.com/item?id=35317110) - [An Anxious Asia Arms for a War It Hopes to Prevent](https://www.nytimes.com/2023/03/25/world/asia/asia-china-military-war.html)
 * [2023-03-26, 17:28:45](https://news.ycombinator.com/item?id=35317040) - [Clever Hans (Intelligence Misattributon)](https://en.wikipedia.org/wiki/Clever_Hans)
 * [2023-03-26, 17:11:18](https://news.ycombinator.com/item?id=35316836) - [Jacob Ziv has died (the Z in LZ compression)](https://twitter.com/erlichya/status/1639973591214182400)

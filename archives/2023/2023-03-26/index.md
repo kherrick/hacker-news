@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
 * [2023-03-26, 18:57:20](https://news.ycombinator.com/item?id=35318114) - [GPT-2 as step toward general intelligence (2019)](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/)
+* [2023-03-26, 18:40:36](https://news.ycombinator.com/item?id=35317882) - [The Graphical User Interface Gallery](http://toastytech.com/guis/index.html)
 * [2023-03-26, 18:16:30](https://news.ycombinator.com/item?id=35317589) - [Linux is Making Apple Great Again](https://jasoneckert.github.io/myblog/linux-is-making-apple-great-again/)
 * [2023-03-26, 18:04:24](https://news.ycombinator.com/item?id=35317464) - [Cryptocurrencies add nothing useful to society, says chip-maker Nvidia](https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining)
 * [2023-03-26, 18:03:19](https://news.ycombinator.com/item?id=35317452) - [Nearly 20% Adults May Have Misophonia – Significant Negative Responses to Sounds](https://neurosciencenews.com/misophonia-neuroscience-22851/)
