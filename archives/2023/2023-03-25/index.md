@@ -85,6 +85,7 @@
 * [2023-03-25, 11:44:53](https://news.ycombinator.com/item?id=35301695) - [Errors Made by the CDC During Covid-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
 * [2023-03-25, 11:39:08](https://news.ycombinator.com/item?id=35301657) - [Show HN: ChatGPT Plugins are a security nightmare](https://github.com/greshake/llm-security)
 * [2023-03-25, 11:04:28](https://news.ycombinator.com/item?id=35301447) - [Everything we know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
+* [2023-03-25, 10:15:32](https://news.ycombinator.com/item?id=35301207) - [Nvidia Unveils CuLitho: A “Breakthrough in Computational Lithography”](https://www.allaboutcircuits.com/news/nvidia-unveils-culitho-breakthrough-in-computational-lithography/)
 * [2023-03-25, 10:00:45](https://news.ycombinator.com/item?id=35301138) - [Common Lisp Quick Reference](http://clqr.boundp.org)
 * [2023-03-25, 09:59:33](https://news.ycombinator.com/item?id=35301129) - [“Can we ban iPhone in retaliation?” Chinese internet reacts to TikTok hearing](https://thechinaproject.com/2023/03/24/can-we-ban-iphone-in-retaliation-chinese-internet-reacts-to-tiktok-hearing-in-the-u-s/)
 * [2023-03-25, 09:40:59](https://news.ycombinator.com/item?id=35301033) - [The symmetry that makes solving math equations easy](https://www.quantamagazine.org/the-symmetry-that-makes-solving-math-equations-easy-20230324/)

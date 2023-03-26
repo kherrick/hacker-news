@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
 * [2023-03-26, 19:51:02](https://news.ycombinator.com/item?id=35318797) - [Let ChatGPT run free on random webpages and do what it likes](https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098)
+* [2023-03-26, 19:48:42](https://news.ycombinator.com/item?id=35318768) - [The Lesser-Known History of African-American Cowboys](https://www.smithsonianmag.com/history/lesser-known-history-african-american-cowboys-180962144/)
 * [2023-03-26, 19:07:31](https://news.ycombinator.com/item?id=35318258) - [Why Architecture Oriented Programming Matters (2019)](https://blog.metaobject.com/2019/02/why-architecture-oriented-programming.html)
 * [2023-03-26, 19:04:43](https://news.ycombinator.com/item?id=35318224) - [An Ethical AI Never Says “I”](https://livepaola.substack.com/p/an-ethical-ai-never-says-i)
 * [2023-03-26, 18:57:20](https://news.ycombinator.com/item?id=35318114) - [GPT-2 as step toward general intelligence (2019)](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/)
