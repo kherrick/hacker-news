@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 18:00:26](https://news.ycombinator.com/item?id=35317419) - [Craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
+* [2023-03-26, 17:48:21](https://news.ycombinator.com/item?id=35317262) - [Close-Up of the First Mechanical Gear Ever Found in Nature](https://canyouactually.com/first-mechanical-gear-ever-found-in-nature/)
 * [2023-03-26, 17:39:15](https://news.ycombinator.com/item?id=35317154) - [Could &#x27;Terminator Zones&#x27; on Far Off Planets Harbor Life?](https://www.futurity.org/exoplanets-terminator-zone-alien-life-water-2892302/)
+* [2023-03-26, 17:35:10](https://news.ycombinator.com/item?id=35317110) - [An Anxious Asia Arms for a War It Hopes to Prevent](https://www.nytimes.com/2023/03/25/world/asia/asia-china-military-war.html)
 * [2023-03-26, 17:28:45](https://news.ycombinator.com/item?id=35317040) - [Clever Hans (Intelligence Misatributon)](https://en.wikipedia.org/wiki/Clever_Hans)
 * [2023-03-26, 17:11:18](https://news.ycombinator.com/item?id=35316836) - [Jacob Ziv has died (the Z in LZ compression)](https://twitter.com/erlichya/status/1639973591214182400)
 * [2023-03-26, 17:10:09](https://news.ycombinator.com/item?id=35316822) - [SVB collapse could mean a $500B venture capital ‘haircut’](https://www.bloomberg.com/news/articles/2023-03-24/svb-debacle-could-mean-a-500-billion-venture-capital-haircut)
