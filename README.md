@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-26, 08:56:44](https://news.ycombinator.com/item?id=35312468) - [Understanding ChatGPT](https://www.atmosera.com/ai/understanding-chatgpt/)
 * [2023-03-26, 08:31:30](https://news.ycombinator.com/item?id=35312352) - [The Undeniable Street View](https://theundeniablestreetview.com/)
 * [2023-03-26, 08:09:10](https://news.ycombinator.com/item?id=35312238) - [Evaluation of Location Encoding Systems](https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems)
 * [2023-03-26, 05:25:30](https://news.ycombinator.com/item?id=35311300) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
@@ -17,7 +18,6 @@
 * [2023-03-25, 21:22:22](https://news.ycombinator.com/item?id=35307538) - [The fastest rm command and one of the fastest cp commands](https://alexsaveau.dev/blog/projects/performance/files/fuc/fast-unix-commands)
 * [2023-03-25, 19:51:29](https://news.ycombinator.com/item?id=35306506) - [An EEVDF CPU Scheduler for Linux](https://lwn.net/Articles/925371/)
 * [2023-03-25, 18:40:14](https://news.ycombinator.com/item?id=35305655) - [Experimental library for scraping websites using OpenAI&#x27;s GPT API](https://jamesturk.github.io/scrapeghost/)
-* [2023-03-25, 18:36:39](https://news.ycombinator.com/item?id=35305613) - [Italy rated one of the hardest countries for foreigners to settle in](https://www.thelocal.it/20230321/italy-rated-one-of-the-worst-countries-for-foreigners-to-get-started)
 * [2023-03-25, 18:34:20](https://news.ycombinator.com/item?id=35305591) - [Odd Caliber](https://www.trulyadventure.us/odd-caliber)
 * [2023-03-25, 18:30:10](https://news.ycombinator.com/item?id=35305546) - [An apologia of lazy evaluation](https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html)
 * [2023-03-25, 17:51:19](https://news.ycombinator.com/item?id=35305141) - [Rise and Fall of Rethink Robotics (2019)](https://www.asme.org/topics-resources/content/rise-fall-of-rethink-robotics)
