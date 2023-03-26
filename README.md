@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-26, 19:51:02](https://news.ycombinator.com/item?id=35318797) - [Let ChatGPT run free on random webpages and do what it likes](https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098)
+* [2023-03-26, 19:07:31](https://news.ycombinator.com/item?id=35318258) - [Why Architecture Oriented Programming Matters (2019)](https://blog.metaobject.com/2019/02/why-architecture-oriented-programming.html)
 * [2023-03-26, 19:04:43](https://news.ycombinator.com/item?id=35318224) - [An Ethical AI Never Says “I”](https://livepaola.substack.com/p/an-ethical-ai-never-says-i)
 * [2023-03-26, 18:57:20](https://news.ycombinator.com/item?id=35318114) - [GPT-2 as step toward general intelligence (2019)](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/)
 * [2023-03-26, 18:40:36](https://news.ycombinator.com/item?id=35317882) - [The Graphical User Interface Gallery](http://toastytech.com/guis/index.html)
@@ -27,7 +28,6 @@
 * [2023-03-26, 09:15:28](https://news.ycombinator.com/item?id=35312563) - [The Anti-Productivity Manifesto](https://invertedpassion.com/the-anti-productivity-manifesto/)
 * [2023-03-26, 07:27:37](https://news.ycombinator.com/item?id=35311976) - [Your Reading Should Be Messy](https://www.robinrendle.com/notes/your-reading-should-be-messy/)
 * [2023-03-26, 05:31:19](https://news.ycombinator.com/item?id=35311332) - [FlexGen: Running large language models on a single GPU](https://github.com/FMInference/FlexGen)
-* [2023-03-26, 05:25:30](https://news.ycombinator.com/item?id=35311300) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
 * [2023-03-25, 16:13:52](https://news.ycombinator.com/item?id=35304097) - [CERN researchers have observed and generated high-energy neutrino radiation](https://bigthink.com/hard-science/high-energy-neutrinos-rare-cosmic-events/)
 * [2023-03-25, 09:40:59](https://news.ycombinator.com/item?id=35301033) - [The symmetry that makes solving math equations easy](https://www.quantamagazine.org/the-symmetry-that-makes-solving-math-equations-easy-20230324/)
 
