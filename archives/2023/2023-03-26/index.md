@@ -79,6 +79,7 @@
 * [2023-03-26, 08:46:41](https://news.ycombinator.com/item?id=35312418) - [Understanding Immutable OSes](https://kairos.io/blog/2023/03/22/understanding-immutable-linux-os-benefits-architecture-and-challenges/)
 * [2023-03-26, 08:35:45](https://news.ycombinator.com/item?id=35312376) - [React is hostile to the outside world](https://sharno.substack.com/p/react-is-hostile-to-the-outside-world)
 * [2023-03-26, 08:31:30](https://news.ycombinator.com/item?id=35312352) - [The Undeniable Street View](https://theundeniablestreetview.com/)
+* [2023-03-26, 08:31:14](https://news.ycombinator.com/item?id=35312351) - [What Is MmWave Radar?: Everything You Need to Know About FMCW (2022)](https://www.seeedstudio.com/blog/2022/01/03/mmwave-radar-sensing-fmcw-radar/)
 * [2023-03-26, 08:09:10](https://news.ycombinator.com/item?id=35312238) - [Evaluation of Location Encoding Systems](https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems)
 * [2023-03-26, 07:27:37](https://news.ycombinator.com/item?id=35311976) - [Your Reading Should Be Messy](https://www.robinrendle.com/notes/your-reading-should-be-messy/)
 * [2023-03-26, 06:54:57](https://news.ycombinator.com/item?id=35311805) - [Computer Chips Could Become a New Commodity on Futures Markets (1989)](https://www.latimes.com/archives/la-xpm-1989-07-02-fi-4884-story.html)
