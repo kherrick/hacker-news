@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-27, 06:55:11",
+      "https://news.ycombinator.com/item?id=35323645"
+    ],
+    [
+      "Zig Quirks",
+      "https://www.openmymind.net/Zig-Quirks/"
+    ]
+  ],
+  [
+    [
       "2023-03-27, 05:20:06",
       "https://news.ycombinator.com/item?id=35323121"
     ],
@@ -35,8 +45,8 @@
       "https://news.ycombinator.com/item?id=35322478"
     ],
     [
-      "Scientists Finally Figure Out Why the Water Bear Is Nearly Indestructible (2017)",
-      "https://www.veterinarydaily.com/2023/03/scientists-finally-figure-out-why-water.html"
+      "Scientists finally figure out why the water bear is nearly indestructible (2017)",
+      "https://bigthink.com/surprising-science/scientists-finally-figure-out-why-the-water-bear-is-nearly-unstoppable/"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Where Did Writing Come From?",
       "https://www.getty.edu/news/where-did-writing-come-from/"
-    ]
-  ],
-  [
-    [
-      "2023-03-27, 02:35:14",
-      "https://news.ycombinator.com/item?id=35322249"
-    ],
-    [
-      "Salve Lucrum: The Existential Threat of Greed in US Health Care",
-      "https://jamanetwork.com/journals/jama/fullarticle/2801097"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Argonaut (YC S21) Is Hiring a FullStack Engineer in India (Remote)",
       "https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer"
-    ]
-  ],
-  [
-    [
-      "2023-03-27, 01:00:11",
-      "https://news.ycombinator.com/item?id=35321606"
-    ],
-    [
-      "Video Rendering with Node.js and FFmpeg",
-      "https://creatomate.com/blog/video-rendering-with-nodejs-and-ffmpeg"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Show HN: Apple Notes Liberator – Extract Notes.app Data and Save It as JSON",
       "https://github.com/HamburgChimps/apple-notes-liberator"
+    ]
+  ],
+  [
+    [
+      "2023-03-26, 12:03:37",
+      "https://news.ycombinator.com/item?id=35313565"
+    ],
+    [
+      "Ban 1+N in Django",
+      "https://suor.github.io/blog/2023/03/26/ban-1-plus-n-in-django/"
     ]
   ],
   [
