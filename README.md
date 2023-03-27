@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-27, 03:15:47](https://news.ycombinator.com/item?id=35322478) - [Scientists Finally Figure Out Why the Water Bear Is Nearly Indestructible](https://www.veterinarydaily.com/2023/03/scientists-finally-figure-out-why-water.html)
+* [2023-03-27, 03:15:47](https://news.ycombinator.com/item?id=35322478) - [Scientists Finally Figure Out Why the Water Bear Is Nearly Indestructible (2017)](https://www.veterinarydaily.com/2023/03/scientists-finally-figure-out-why-water.html)
 * [2023-03-27, 03:14:55](https://news.ycombinator.com/item?id=35322473) - [The rise and rise of e-sports](https://www.economist.com/special-report/2023/03/20/the-rise-and-rise-of-e-sports)
+* [2023-03-27, 02:50:47](https://news.ycombinator.com/item?id=35322330) - [Where Did Writing Come From?](https://www.getty.edu/news/where-did-writing-come-from/)
 * [2023-03-27, 02:35:14](https://news.ycombinator.com/item?id=35322249) - [Salve Lucrum: The Existential Threat of Greed in US Health Care](https://jamanetwork.com/journals/jama/fullarticle/2801097)
 * [2023-03-27, 01:56:34](https://news.ycombinator.com/item?id=35321994) - [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
 * [2023-03-27, 01:00:16](https://news.ycombinator.com/item?id=35321609) - [Argonaut (YC S21) Is Hiring a FullStack Engineer in India (Remote)](https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer)
@@ -17,7 +18,6 @@
 * [2023-03-26, 18:00:26](https://news.ycombinator.com/item?id=35317419) - [Craziest thing I ever used SQLite for: partial file deduplication (2022)](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
 * [2023-03-26, 17:11:18](https://news.ycombinator.com/item?id=35316836) - [Jacob Ziv has died](https://twitter.com/erlichya/status/1639973591214182400)
 * [2023-03-26, 16:59:36](https://news.ycombinator.com/item?id=35316679) - [Show HN: Apple Notes Liberator – Extract Notes.app Data and Save It as JSON](https://github.com/HamburgChimps/apple-notes-liberator)
-* [2023-03-26, 15:32:49](https://news.ycombinator.com/item?id=35315542) - [Using ChatGPT Plugins with LLaMA](https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14)
 * [2023-03-26, 15:16:13](https://news.ycombinator.com/item?id=35315310) - [Ghoti](https://english.stackexchange.com/questions/396553/what-is-this-famous-example-of-the-absurdity-of-english-spelling)
 * [2023-03-26, 15:11:02](https://news.ycombinator.com/item?id=35315248) - [Show HN: Jailbreaking GPT3.5 Using GPT4](https://github.com/traghav/auto-redteam)
 * [2023-03-26, 12:03:37](https://news.ycombinator.com/item?id=35313565) - [Ban 1+N in Django](https://suor.github.io/blog/2023/03/26/ban-1-plus-n-in-django/)
