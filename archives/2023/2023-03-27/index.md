@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 19:25:49](https://news.ycombinator.com/item?id=35331154) - [Disney Layoffs 7000 People](https://www.cnn.com/2023/03/27/media/disney-layoffs/index.html)
 * [2023-03-27, 18:34:31](https://news.ycombinator.com/item?id=35330465) - [Greenland ice sheet is close to a melting point of no return](https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/)
 * [2023-03-27, 18:32:37](https://news.ycombinator.com/item?id=35330438) - [Employees Are Feeding Sensitive Biz Data to ChatGPT, Raising Security Fears](https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears)
 * [2023-03-27, 18:05:29](https://news.ycombinator.com/item?id=35330078) - [Online daters are less open-minded than their filters suggest](https://www.economist.com/graphic-detail/2023/03/22/online-daters-are-less-open-minded-than-their-filters-suggest)

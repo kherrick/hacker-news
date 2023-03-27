@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-27, 19:25:49](https://news.ycombinator.com/item?id=35331154) - [Disney Layoffs 7000 People](https://www.cnn.com/2023/03/27/media/disney-layoffs/index.html)
 * [2023-03-27, 18:34:31](https://news.ycombinator.com/item?id=35330465) - [Greenland ice sheet is close to a melting point of no return](https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/)
 * [2023-03-27, 18:32:37](https://news.ycombinator.com/item?id=35330438) - [Employees Are Feeding Sensitive Biz Data to ChatGPT, Raising Security Fears](https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears)
 * [2023-03-27, 17:56:03](https://news.ycombinator.com/item?id=35329961) - [WebKit Features in Safari 16.4](https://webkit.org/blog/13966/webkit-features-in-safari-16-4/)
@@ -20,7 +21,6 @@
 * [2023-03-27, 14:08:07](https://news.ycombinator.com/item?id=35326846) - [Playing video games can help to reduce stress and anxiety, and improve mood](https://cscaz.cansurround.com/articles/45)
 * [2023-03-27, 13:00:54](https://news.ycombinator.com/item?id=35326131) - [A Short 100-Question Diligence Checklist](https://www.thediff.co/archive/100-due-diligence-questions-checklist/)
 * [2023-03-27, 11:52:51](https://news.ycombinator.com/item?id=35325488) - [Jsonnet – The Data Templating Language](https://jsonnet.org/)
-* [2023-03-27, 08:56:56](https://news.ycombinator.com/item?id=35324430) - [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
 * [2023-03-27, 07:28:37](https://news.ycombinator.com/item?id=35323872) - [Morse Code Chat](https://morse.halb.it/)
 * [2023-03-27, 06:55:11](https://news.ycombinator.com/item?id=35323645) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
 * [2023-03-27, 05:20:06](https://news.ycombinator.com/item?id=35323121) - [Windows needs to stop showing tabloid news](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news)
