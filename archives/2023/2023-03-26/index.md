@@ -43,6 +43,7 @@
 * [2023-03-26, 16:40:12](https://news.ycombinator.com/item?id=35316449) - [Money market funds swell by over $273B as investors pull deposits from banks](https://www.ft.com/content/032523bc-3b92-4b94-b6b8-ebbe1d606b2c)
 * [2023-03-26, 16:31:32](https://news.ycombinator.com/item?id=35316329) - [Blockchain in 19 Lines of Python (2021)](https://gregorygundersen.com/blog/2021/09/19/blockchain/)
 * [2023-03-26, 16:09:42](https://news.ycombinator.com/item?id=35316056) - [RGB Modding the SG-1000 II Is it worth it?](https://nicole.express/2023/sg-1000-is-a-stupid-name-why-is-there-no-sg-500.html)
+* [2023-03-26, 16:09:12](https://news.ycombinator.com/item?id=35316051) - [Glamorize Your Problem Domain](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
 * [2023-03-26, 15:50:18](https://news.ycombinator.com/item?id=35315780) - [2600? How Phreaking Really Worked [Connections Museum]](https://www.youtube.com/watch?v=8PmkUPBhL4U)
 * [2023-03-26, 15:32:49](https://news.ycombinator.com/item?id=35315542) - [Using ChatGPT Plugins with LLaMA](https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14)
 * [2023-03-26, 15:25:02](https://news.ycombinator.com/item?id=35315441) - [Colorectal cancer is rising among younger adults](https://www.cnn.com/2023/03/24/health/colorectal-cancer-young-age-mystery/index.html)

@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 13:00:54](https://news.ycombinator.com/item?id=35326131) - [A Short 100-Question Diligence Checklist](https://www.thediff.co/archive/100-due-diligence-questions-checklist/)
+* [2023-03-27, 12:38:12](https://news.ycombinator.com/item?id=35325883) - [Benchmarking Cheap SSDs for Fun, No Profit (Be Warned)](https://louwrentius.com/benchmarking-cheap-ssds-for-fun-no-profit-be-warned.html)
+* [2023-03-27, 12:35:15](https://news.ycombinator.com/item?id=35325859) - [Why a European mobile operating system can’t challenge Android and iOS](https://gael-duval.medium.com/why-a-european-mobile-operating-system-cant-challenge-android-and-ios-86104e97b89e)
+* [2023-03-27, 12:19:30](https://news.ycombinator.com/item?id=35325709) - [GitHub&#x27;s Down](https://news.ycombinator.com/item?id=35325709)
 * [2023-03-27, 11:13:46](https://news.ycombinator.com/item?id=35325208) - [Top Reddit communities for Devs and ITs: from beginners to advanced](https://pvs-studio.com/en/blog/posts/1040/)
+* [2023-03-27, 11:11:34](https://news.ycombinator.com/item?id=35325193) - [OBS Studio Lands AV1 and HEVC RTMP Streaming Support](https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP)
+* [2023-03-27, 10:31:10](https://news.ycombinator.com/item?id=35324938) - [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://blog.orhun.dev/alpine-packaging-setup/)
 * [2023-03-27, 08:56:56](https://news.ycombinator.com/item?id=35324430) - [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
 * [2023-03-27, 07:42:02](https://news.ycombinator.com/item?id=35323960) - [Show HN: SlickGPT](https://slickgpt.vercel.app/)
 * [2023-03-27, 07:09:16](https://news.ycombinator.com/item?id=35323732) - [Journey Planner Challenge – You need to visit 5 tube stations](https://edjefferson.com/journeyplannerchallenge/)
