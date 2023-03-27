@@ -141,32 +141,12 @@
   ],
   [
     [
-      "2023-03-27, 15:50:15",
-      "https://news.ycombinator.com/item?id=35328220"
-    ],
-    [
-      "Automate your Python project with Makefile (2021)",
-      "https://antonz.org/makefile-automation/"
-    ]
-  ],
-  [
-    [
       "2023-03-27, 15:31:18",
       "https://news.ycombinator.com/item?id=35327996"
     ],
     [
       "CFTC sues Binance and CEO Changpeng Zhao [pdf]",
       "https://www.docdroid.net/60YAbCz/cftc-binance-pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-27, 15:12:52",
-      "https://news.ycombinator.com/item?id=35327743"
-    ],
-    [
-      "Docker-compose.yml as a universal infrastructure interface",
-      "https://ergomake.dev/blog/docker-compose-as-a-universal-interface/"
     ]
   ],
   [
@@ -207,6 +187,16 @@
     [
       "Jsonnet – The Data Templating Language",
       "https://jsonnet.org/"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 08:56:56",
+      "https://news.ycombinator.com/item?id=35324430"
+    ],
+    [
+      "Thoughts on Svelte",
+      "https://tyhopp.com/notes/thoughts-on-svelte"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "How Should Compilers Explain Problems to Developers? (2018) [pdf]",
       "https://static.barik.net/barik/publications/fse2018/barik_fse18.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-26, 16:09:12",
+      "https://news.ycombinator.com/item?id=35316051"
+    ],
+    [
+      "Glamorize your problem domain (2022)",
+      "https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html"
     ]
   ],
   [
