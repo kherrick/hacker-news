@@ -1,12 +1,62 @@
 [
   [
     [
+      "2023-03-27, 01:00:16",
+      "https://news.ycombinator.com/item?id=35321609"
+    ],
+    [
+      "Argonaut (YC S21) Is Hiring a FullStack Engineer",
+      "https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 00:38:18",
+      "https://news.ycombinator.com/item?id=35321418"
+    ],
+    [
+      "We need better support for SSH host certificates",
+      "https://mjg59.dreamwidth.org/65874.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-26, 23:55:18",
+      "https://news.ycombinator.com/item?id=35321054"
+    ],
+    [
+      "Do large language models need sensory grounding for meaning and understanding?",
+      "https://drive.google.com/file/d/1BU5bV3X5w65DwSMapKcsr0ZvrMRU_Nbi/view"
+    ]
+  ],
+  [
+    [
+      "2023-03-26, 23:27:13",
+      "https://news.ycombinator.com/item?id=35320856"
+    ],
+    [
+      "Fide Women’s Grand Prix Collapses into “Chaos” as Players Withdraw",
+      "https://lichess.org/blog/ZCBr7hYAAP86If6m/fide-womens-grand-prix-collapses-into-chaos-as-players-withdraw"
+    ]
+  ],
+  [
+    [
       "2023-03-26, 23:02:55",
       "https://news.ycombinator.com/item?id=35320656"
     ],
     [
       "The RIAA vs. Steve Jobs",
       "https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/"
+    ]
+  ],
+  [
+    [
+      "2023-03-26, 23:01:04",
+      "https://news.ycombinator.com/item?id=35320638"
+    ],
+    [
+      "Ask HN: Math for Programmers?",
+      "https://news.ycombinator.com/item?id=35320638"
     ]
   ],
   [
@@ -35,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35319807"
     ],
     [
-      "Robot Learns to See in 30 Minutes",
+      "Robot Learns to See in 30 Minutes (2022)",
       "https://antonilo.github.io/vision_locomotion/"
     ]
   ],
@@ -47,16 +97,6 @@
     [
       "Capabilities of GPT-4 on Medical Challenge Problems",
       "https://arxiv.org/abs/2303.13375"
-    ]
-  ],
-  [
-    [
-      "2023-03-26, 21:10:23",
-      "https://news.ycombinator.com/item?id=35319670"
-    ],
-    [
-      "Scientists developed simple way to cook rice that cut calories absorbed by half",
-      "https://www.acs.org/pressroom/newsreleases/2015/march/new-low-calorie-rice-could-help-cut-rising-obesity-rates.html"
     ]
   ],
   [
@@ -105,7 +145,7 @@
       "https://news.ycombinator.com/item?id=35317419"
     ],
     [
-      "Craziest thing I ever used SQLite for: partial file deduplication",
+      "Craziest thing I ever used SQLite for: partial file deduplication (2022)",
       "https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw"
     ]
   ],
@@ -127,16 +167,6 @@
     [
       "SVB collapse could mean a $500B venture capital ‘haircut’",
       "https://www.bloomberg.com/news/articles/2023-03-24/svb-debacle-could-mean-a-500-billion-venture-capital-haircut"
-    ]
-  ],
-  [
-    [
-      "2023-03-26, 17:00:00",
-      "https://news.ycombinator.com/item?id=35316682"
-    ],
-    [
-      "Motion (YC W20) Is Hiring a Senior SRE and Software Engineers",
-      "https://jobs.ashbyhq.com/motion?utm_source=hn"
     ]
   ],
   [
@@ -201,52 +231,12 @@
   ],
   [
     [
-      "2023-03-26, 11:53:53",
-      "https://news.ycombinator.com/item?id=35313496"
-    ],
-    [
-      "Are you ready for 13.3 or 9.1?",
-      "https://eclecticlight.co/2023/03/26/last-week-on-my-mac-are-you-ready-for-13-3-or-9-1/"
-    ]
-  ],
-  [
-    [
-      "2023-03-26, 11:30:13",
-      "https://news.ycombinator.com/item?id=35313308"
-    ],
-    [
-      "The wet bird (2000)",
-      "http://www.oyonale.com/image.php?code=464&mode=info&section=2000&lang=en&"
-    ]
-  ],
-  [
-    [
-      "2023-03-26, 10:44:19",
-      "https://news.ycombinator.com/item?id=35313030"
-    ],
-    [
-      "The F-15 Eagle: Origins and Development, 1964-1972 [pdf]",
-      "https://media.defense.gov/2012/May/16/2001330012/-1/-1/0/AFD-120516-036.pdf"
-    ]
-  ],
-  [
-    [
       "2023-03-26, 10:32:47",
       "https://news.ycombinator.com/item?id=35312960"
     ],
     [
       "Open-source high-performance RISC-V processor",
       "https://github.com/OpenXiangShan/XiangShan"
-    ]
-  ],
-  [
-    [
-      "2023-03-26, 07:27:37",
-      "https://news.ycombinator.com/item?id=35311976"
-    ],
-    [
-      "Your reading should be messy",
-      "https://www.robinrendle.com/notes/your-reading-should-be-messy/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "The Death of a Technical Skill (2020) [pdf]",
       "https://john-joseph-horton.com/papers/schumpeter.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-25, 10:15:46",
+      "https://news.ycombinator.com/item?id=35301209"
+    ],
+    [
+      "Snails Cross Vast Oceans",
+      "https://nautil.us/how-snails-cross-vast-oceans-288802/"
     ]
   ],
   [
