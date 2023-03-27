@@ -30,6 +30,7 @@
 * [2023-03-26, 17:56:35](https://news.ycombinator.com/item?id=35317366) - [CNBC just deleted 5 pages showing CD5 data for banks including JPM and BAC](https://news.ycombinator.com/item?id=35317366)
 * [2023-03-26, 17:53:33](https://news.ycombinator.com/item?id=35317329) - [Greenland Is Now on Permanent Daylight Savings](https://sermitsiaq.ag/kl/node/243401)
 * [2023-03-26, 17:48:21](https://news.ycombinator.com/item?id=35317262) - [Close-Up of the First Mechanical Gear Ever Found in Nature](https://canyouactually.com/first-mechanical-gear-ever-found-in-nature/)
+* [2023-03-26, 17:48:21](https://news.ycombinator.com/item?id=35317262) - [An insect that has the only mechanical gears ever found in nature (2013)](https://www.smithsonianmag.com/science-nature/this-insect-has-the-only-mechanical-gears-ever-found-in-nature-6480908/)
 * [2023-03-26, 17:46:25](https://news.ycombinator.com/item?id=35317230) - [Py-template: one-click Python environment v0.2.0 update](https://github.com/inovintell/py-template)
 * [2023-03-26, 17:39:15](https://news.ycombinator.com/item?id=35317154) - [Could &#x27;Terminator Zones&#x27; on Far Off Planets Harbor Life?](https://www.futurity.org/exoplanets-terminator-zone-alien-life-water-2892302/)
 * [2023-03-26, 17:35:10](https://news.ycombinator.com/item?id=35317110) - [An Anxious Asia Arms for a War It Hopes to Prevent](https://www.nytimes.com/2023/03/25/world/asia/asia-china-military-war.html)

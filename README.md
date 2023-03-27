@@ -17,6 +17,7 @@
 * [2023-03-26, 20:44:31](https://news.ycombinator.com/item?id=35319383) - [AWS Announces Open Source Mountpoint for Amazon S3](https://www.infoq.com/news/2023/03/mountpoint-amazon-s3/)
 * [2023-03-26, 18:40:36](https://news.ycombinator.com/item?id=35317882) - [The Graphical User Interface Gallery](http://toastytech.com/guis/index.html)
 * [2023-03-26, 18:00:26](https://news.ycombinator.com/item?id=35317419) - [Craziest thing I ever used SQLite for: partial file deduplication (2022)](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
+* [2023-03-26, 17:48:21](https://news.ycombinator.com/item?id=35317262) - [An insect that has the only mechanical gears ever found in nature (2013)](https://www.smithsonianmag.com/science-nature/this-insect-has-the-only-mechanical-gears-ever-found-in-nature-6480908/)
 * [2023-03-26, 17:11:18](https://news.ycombinator.com/item?id=35316836) - [Jacob Ziv has died](https://twitter.com/erlichya/status/1639973591214182400)
 * [2023-03-26, 16:59:36](https://news.ycombinator.com/item?id=35316679) - [Show HN: Apple Notes Liberator – Extract Notes.app Data and Save It as JSON](https://github.com/HamburgChimps/apple-notes-liberator)
 * [2023-03-26, 15:11:23](https://news.ycombinator.com/item?id=35315251) - [Bell System Vehicle Graphics Manual (1973)](https://archive.org/details/bell-system-vehicle-graphics-manual-1970-03)
@@ -29,7 +30,6 @@
 * [2023-03-25, 10:15:46](https://news.ycombinator.com/item?id=35301209) - [Snails Cross Vast Oceans](https://nautil.us/how-snails-cross-vast-oceans-288802/)
 * [2023-03-25, 10:15:32](https://news.ycombinator.com/item?id=35301207) - [Nvidia Unveils CuLitho: A “Breakthrough in Computational Lithography”](https://www.allaboutcircuits.com/news/nvidia-unveils-culitho-breakthrough-in-computational-lithography/)
 * [2023-03-25, 10:10:20](https://news.ycombinator.com/item?id=35301184) - [The Diderot Effect](https://en.wikipedia.org/wiki/Diderot_effect)
-* [2023-03-25, 09:40:59](https://news.ycombinator.com/item?id=35301033) - [The symmetry that makes solving math equations easy](https://www.quantamagazine.org/the-symmetry-that-makes-solving-math-equations-easy-20230324/)
 
 ## [Archives](archives/index.md)
 
