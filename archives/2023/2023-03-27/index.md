@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 21:00:39](https://news.ycombinator.com/item?id=35332537) - [The Prospect of an AI Winter](https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/)
+* [2023-03-27, 21:00:09](https://news.ycombinator.com/item?id=35332518) - [Sieve (YC W22) is hiring hackers to build AI infrastructure for video](https://sievedata.com/about)
+* [2023-03-27, 20:31:44](https://news.ycombinator.com/item?id=35332073) - [Big tech and the pursuit of AI dominance](https://www.economist.com/business/2023/03/26/big-tech-and-the-pursuit-of-ai-dominance)
+* [2023-03-27, 20:19:52](https://news.ycombinator.com/item?id=35331887) - [Kubernetes Is Hard](https://rcwz.pl/2023-03-26-kubernetes-is-hard/)
 * [2023-03-27, 19:34:20](https://news.ycombinator.com/item?id=35331237) - [The FBI’s Contract to Buy Mass Internet Data](https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract)
 * [2023-03-27, 19:34:08](https://news.ycombinator.com/item?id=35331233) - [Show HN: Time-tracker that helps me with context switches and documentation](https://github.com/tech-branch/tsr)
 * [2023-03-27, 19:25:49](https://news.ycombinator.com/item?id=35331154) - [Disney Layoffs 7000 People](https://www.cnn.com/2023/03/27/media/disney-layoffs/index.html)
