@@ -11,6 +11,7 @@
 * [2023-03-26, 23:01:04](https://news.ycombinator.com/item?id=35320638) - [Ask HN: Math for Programmers?](https://news.ycombinator.com/item?id=35320638)
 * [2023-03-26, 22:54:47](https://news.ycombinator.com/item?id=35320571) - [BlenderGPT: Use commands in English to control Blender with OpenAI&#x27;s GPT-4](https://github.com/gd3kr/BlenderGPT)
 * [2023-03-26, 22:53:35](https://news.ycombinator.com/item?id=35320565) - [An interview with Steve Wozniak by Jessica Livingston cured my AI anxiety](https://blog.vslira.net/2023/03/an-interview-with-steve-wozniak-by.html)
+* [2023-03-26, 22:13:55](https://news.ycombinator.com/item?id=35320204) - [The Ancient Indian Buddhist Monk Buried in Athens](https://greekreporter.com/2023/03/20/ancient-indian-buddhist-monk-athens/)
 * [2023-03-26, 22:02:14](https://news.ycombinator.com/item?id=35320097) - [When Will AI Take Your Job?](https://unchartedterritories.tomaspueyo.com/p/when-will-ai-take-your-job)
 * [2023-03-26, 21:37:14](https://news.ycombinator.com/item?id=35319901) - [Thousands Take to Streets After Netanyahu Fires Defense Minister](https://www.haaretz.com/israel-news/2023-03-26/ty-article-live/senior-likud-members-hint-at-opposing-judicial-overhaul/00000187-1c81-d4ca-afff-1d89ee5b0000)
 * [2023-03-26, 21:28:24](https://news.ycombinator.com/item?id=35319824) - [How Should Compilers Explain Problems to Developers? (2018) [pdf]](https://static.barik.net/barik/publications/fse2018/barik_fse18.pdf)
