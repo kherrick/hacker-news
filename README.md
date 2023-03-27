@@ -20,6 +20,7 @@
 * [2023-03-27, 13:00:54](https://news.ycombinator.com/item?id=35326131) - [A Short 100-Question Diligence Checklist](https://www.thediff.co/archive/100-due-diligence-questions-checklist/)
 * [2023-03-27, 12:02:07](https://news.ycombinator.com/item?id=35325556) - [Zig and Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
 * [2023-03-27, 11:52:51](https://news.ycombinator.com/item?id=35325488) - [Jsonnet – The Data Templating Language](https://jsonnet.org/)
+* [2023-03-27, 10:31:10](https://news.ycombinator.com/item?id=35324938) - [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://blog.orhun.dev/alpine-packaging-setup/)
 * [2023-03-27, 08:56:56](https://news.ycombinator.com/item?id=35324430) - [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
 * [2023-03-27, 07:28:37](https://news.ycombinator.com/item?id=35323872) - [Morse Code Chat](https://morse.halb.it/)
 * [2023-03-27, 06:55:11](https://news.ycombinator.com/item?id=35323645) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
@@ -27,7 +28,6 @@
 * [2023-03-26, 23:12:34](https://news.ycombinator.com/item?id=35320729) - [An Open-Source Espresso](https://hackaday.com/2023/03/24/enjoy-an-open-source-espresso/)
 * [2023-03-26, 21:28:24](https://news.ycombinator.com/item?id=35319824) - [How Should Compilers Explain Problems to Developers? (2018) [pdf]](https://static.barik.net/barik/publications/fse2018/barik_fse18.pdf)
 * [2023-03-26, 16:09:12](https://news.ycombinator.com/item?id=35316051) - [Glamorize your problem domain (2022)](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
-* [2023-03-26, 06:49:14](https://news.ycombinator.com/item?id=35311767) - [The Odd Story of Factory-Downgraded 486s (2020)](https://x86.fr/the-odd-story-of-factory-downgraded-486s/)
 * [2023-03-25, 14:00:24](https://news.ycombinator.com/item?id=35302700) - [DVDStyler is a cross-platform free DVD authoring application (2021)](https://www.dvdstyler.org/en/)
 * [2023-03-25, 12:21:39](https://news.ycombinator.com/item?id=35301943) - [Retrieval in LangChain](https://blog.langchain.dev/retrieval/)
 
