@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 18:05:29](https://news.ycombinator.com/item?id=35330078) - [Online daters are less open-minded than their filters suggest](https://www.economist.com/graphic-detail/2023/03/22/online-daters-are-less-open-minded-than-their-filters-suggest)
+* [2023-03-27, 17:55:10](https://news.ycombinator.com/item?id=35329950) - [Apple Passwords Deserve an App](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/)
 * [2023-03-27, 17:01:04](https://news.ycombinator.com/item?id=35329153) - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 * [2023-03-27, 16:59:35](https://news.ycombinator.com/item?id=35329135) - [5M item limit for Google Drive: File unable to generate or upload due to 403](https://issuetracker.google.com/issues/268606830?pli=1)
 * [2023-03-27, 16:54:14](https://news.ycombinator.com/item?id=35329054) - [Ask HN: What is a specific use of GPT-4 that you think is remarkable?](https://news.ycombinator.com/item?id=35329054)
