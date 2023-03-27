@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
 * [2023-03-27, 18:34:31](https://news.ycombinator.com/item?id=35330465) - [Greenland ice sheet is close to a melting point of no return](https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/)
+* [2023-03-27, 18:32:37](https://news.ycombinator.com/item?id=35330438) - [Employees Are Feeding Sensitive Biz Data to ChatGPT, Raising Security Fears](https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears)
 * [2023-03-27, 18:05:29](https://news.ycombinator.com/item?id=35330078) - [Online daters are less open-minded than their filters suggest](https://www.economist.com/graphic-detail/2023/03/22/online-daters-are-less-open-minded-than-their-filters-suggest)
+* [2023-03-27, 17:56:03](https://news.ycombinator.com/item?id=35329961) - [WebKit Features in Safari 16.4](https://webkit.org/blog/13966/webkit-features-in-safari-16-4/)
 * [2023-03-27, 17:55:10](https://news.ycombinator.com/item?id=35329950) - [Apple Passwords Deserve an App](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/)
 * [2023-03-27, 17:38:20](https://news.ycombinator.com/item?id=35329724) - [Smalltalk Type](https://moritzfuerst.net/projects/smalltalk-type)
 * [2023-03-27, 17:01:04](https://news.ycombinator.com/item?id=35329153) - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
