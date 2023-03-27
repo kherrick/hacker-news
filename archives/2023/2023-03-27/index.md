@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
 * [2023-03-27, 15:06:24](https://news.ycombinator.com/item?id=35327647) - [Binance Sued by US Watchdog for Alleged Derivatives Rule Lapses](https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses)
+* [2023-03-27, 14:29:55](https://news.ycombinator.com/item?id=35327112) - [Show HN: Open AI is not Open – A browser extension](https://github.com/zaporter/OpenAI-is-not-Open)
 * [2023-03-27, 14:08:07](https://news.ycombinator.com/item?id=35326846) - [Instead of Freaking Out, Try Geeking Out](https://cscaz.cansurround.com/articles/45)
 * [2023-03-27, 14:02:29](https://news.ycombinator.com/item?id=35326783) - [Apple Music Classical is out](https://apps.apple.com/us/app/apple-music-classical/id1598433714)
 * [2023-03-27, 13:49:41](https://news.ycombinator.com/item?id=35326648) - [Random Numbers in Bash](https://gist.github.com/rbitr/9c68379d3e0b79c9f06eb3f867624576)
