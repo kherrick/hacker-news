@@ -19,6 +19,7 @@
 * [2023-03-26, 21:26:56](https://news.ycombinator.com/item?id=35319807) - [Robot Learns to See in 30 Minutes (2022)](https://antonilo.github.io/vision_locomotion/)
 * [2023-03-26, 20:44:31](https://news.ycombinator.com/item?id=35319383) - [AWS Announces Open Source Mountpoint for Amazon S3](https://www.infoq.com/news/2023/03/mountpoint-amazon-s3/)
 * [2023-03-26, 18:00:26](https://news.ycombinator.com/item?id=35317419) - [Craziest thing I ever used SQLite for: partial file deduplication (2022)](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
+* [2023-03-26, 17:11:18](https://news.ycombinator.com/item?id=35316836) - [Jacob Ziv has died](https://twitter.com/erlichya/status/1639973591214182400)
 * [2023-03-26, 16:59:36](https://news.ycombinator.com/item?id=35316679) - [Show HN: Apple Notes Liberator – Extract Notes.app Data and Save It as JSON](https://github.com/HamburgChimps/apple-notes-liberator)
 * [2023-03-26, 16:09:42](https://news.ycombinator.com/item?id=35316056) - [RGB Modding the SG-1000 II Is it worth it?](https://nicole.express/2023/sg-1000-is-a-stupid-name-why-is-there-no-sg-500.html)
 * [2023-03-26, 15:11:23](https://news.ycombinator.com/item?id=35315251) - [Bell System Vehicle Graphics Manual (1973)](https://archive.org/details/bell-system-vehicle-graphics-manual-1970-03)
@@ -28,7 +29,6 @@
 * [2023-03-25, 12:21:03](https://news.ycombinator.com/item?id=35301939) - [File Expiration Using BPF](https://hondu.co/blog/file-expiration-using-bpf)
 * [2023-03-25, 10:27:06](https://news.ycombinator.com/item?id=35301264) - [On-Sets: A Vintage Set Theory Game](https://www.tandfonline.com/doi/full/10.1080/10724117.2023.2168404)
 * [2023-03-25, 10:15:46](https://news.ycombinator.com/item?id=35301209) - [Snails Cross Vast Oceans](https://nautil.us/how-snails-cross-vast-oceans-288802/)
-* [2023-03-25, 10:15:32](https://news.ycombinator.com/item?id=35301207) - [Nvidia Unveils CuLitho: A “Breakthrough in Computational Lithography”](https://www.allaboutcircuits.com/news/nvidia-unveils-culitho-breakthrough-in-computational-lithography/)
 * [2023-03-25, 10:10:20](https://news.ycombinator.com/item?id=35301184) - [The Diderot Effect](https://en.wikipedia.org/wiki/Diderot_effect)
 
 ## [Archives](archives/index.md)
