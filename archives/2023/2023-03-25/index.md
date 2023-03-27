@@ -80,6 +80,7 @@
 * [2023-03-25, 13:23:11](https://news.ycombinator.com/item?id=35302395) - [Concrete Diagramming, a Lightweight Alternative to C4](https://www.ilograph.com/blog/posts/concrete-diagramming-models/)
 * [2023-03-25, 12:48:25](https://news.ycombinator.com/item?id=35302139) - [Charged in Fraudulent Nursing Diploma Scheme (Jan 2023)](https://www.justice.gov/usao-sdfl/pr/fraudulent-nursing-diploma-scheme-leads-federal-charges-against-25-defendants)
 * [2023-03-25, 12:31:38](https://news.ycombinator.com/item?id=35302019) - [Ask HN: How do you deal with entrepreneurial obsession?](https://news.ycombinator.com/item?id=35302019)
+* [2023-03-25, 12:21:39](https://news.ycombinator.com/item?id=35301943) - [Retrieval in LangChain](https://blog.langchain.dev/retrieval/)
 * [2023-03-25, 12:21:03](https://news.ycombinator.com/item?id=35301939) - [File Expiration Using BPF](https://hondu.co/blog/file-expiration-using-bpf)
 * [2023-03-25, 12:20:03](https://news.ycombinator.com/item?id=35301930) - [Ask HN: Is Google Slowly Dying?](https://news.ycombinator.com/item?id=35301930)
 * [2023-03-25, 12:08:05](https://news.ycombinator.com/item?id=35301846) - [Civilization II](https://www.abortretry.fail/p/civilization-ii)
