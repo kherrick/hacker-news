@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
 * [2023-03-27, 21:00:39](https://news.ycombinator.com/item?id=35332537) - [The Prospect of an AI Winter](https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/)
+* [2023-03-27, 21:00:25](https://news.ycombinator.com/item?id=35332531) - [Apple Detection of Flashing Lights](https://github.com/apple/VideoFlashingReduction)
 * [2023-03-27, 21:00:09](https://news.ycombinator.com/item?id=35332518) - [Sieve (YC W22) is hiring hackers to build AI infrastructure for video](https://sievedata.com/about)
 * [2023-03-27, 20:31:44](https://news.ycombinator.com/item?id=35332073) - [Big tech and the pursuit of AI dominance](https://www.economist.com/business/2023/03/26/big-tech-and-the-pursuit-of-ai-dominance)
 * [2023-03-27, 20:19:52](https://news.ycombinator.com/item?id=35331887) - [Kubernetes Is Hard](https://rcwz.pl/2023-03-26-kubernetes-is-hard/)

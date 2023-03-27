@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-27, 21:00:39](https://news.ycombinator.com/item?id=35332537) - [The Prospect of an AI Winter](https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/)
+* [2023-03-27, 21:00:25](https://news.ycombinator.com/item?id=35332531) - [Apple Detection of Flashing Lights](https://github.com/apple/VideoFlashingReduction)
 * [2023-03-27, 21:00:09](https://news.ycombinator.com/item?id=35332518) - [Sieve (YC W22) is hiring hackers to build AI infrastructure for video](https://sievedata.com/about)
 * [2023-03-27, 20:31:44](https://news.ycombinator.com/item?id=35332073) - [Big tech and the pursuit of AI dominance](https://www.economist.com/business/2023/03/26/big-tech-and-the-pursuit-of-ai-dominance)
 * [2023-03-27, 20:19:52](https://news.ycombinator.com/item?id=35331887) - [Kubernetes Is Hard](https://rcwz.pl/2023-03-26-kubernetes-is-hard/)
@@ -20,7 +21,6 @@
 * [2023-03-27, 15:31:18](https://news.ycombinator.com/item?id=35327996) - [CFTC sues Binance and CEO Changpeng Zhao [pdf]](https://www.docdroid.net/60YAbCz/cftc-binance-pdf)
 * [2023-03-27, 14:48:20](https://news.ycombinator.com/item?id=35327382) - [Dirty Secrets of a Smear Campaign](https://www.newyorker.com/magazine/2023/04/03/the-dirty-secrets-of-a-smear-campaign)
 * [2023-03-27, 14:08:07](https://news.ycombinator.com/item?id=35326846) - [Playing video games can help to reduce stress and anxiety, and improve mood](https://cscaz.cansurround.com/articles/45)
-* [2023-03-27, 08:56:56](https://news.ycombinator.com/item?id=35324430) - [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
 * [2023-03-27, 07:28:37](https://news.ycombinator.com/item?id=35323872) - [Morse Code Chat](https://morse.halb.it/)
 * [2023-03-27, 06:55:11](https://news.ycombinator.com/item?id=35323645) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
 * [2023-03-27, 03:46:05](https://news.ycombinator.com/item?id=35322644) - [Jewelry made from beetles may have been a status symbol 2k years ago](https://www.atlasobscura.com/articles/beetle-jewelry-status-symbol)
