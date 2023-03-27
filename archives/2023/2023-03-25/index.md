@@ -87,6 +87,7 @@
 * [2023-03-25, 11:44:53](https://news.ycombinator.com/item?id=35301695) - [Errors Made by the CDC During Covid-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
 * [2023-03-25, 11:39:08](https://news.ycombinator.com/item?id=35301657) - [Show HN: ChatGPT Plugins are a security nightmare](https://github.com/greshake/llm-security)
 * [2023-03-25, 11:04:28](https://news.ycombinator.com/item?id=35301447) - [Everything we know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
+* [2023-03-25, 10:27:06](https://news.ycombinator.com/item?id=35301264) - [On-Sets: A Vintage Set Theory Game](https://www.tandfonline.com/doi/full/10.1080/10724117.2023.2168404)
 * [2023-03-25, 10:15:46](https://news.ycombinator.com/item?id=35301209) - [Snails Cross Vast Oceans](https://nautil.us/how-snails-cross-vast-oceans-288802/)
 * [2023-03-25, 10:15:32](https://news.ycombinator.com/item?id=35301207) - [Nvidia Unveils CuLitho: A “Breakthrough in Computational Lithography”](https://www.allaboutcircuits.com/news/nvidia-unveils-culitho-breakthrough-in-computational-lithography/)
 * [2023-03-25, 10:10:20](https://news.ycombinator.com/item?id=35301184) - [The Diderot Effect](https://en.wikipedia.org/wiki/Diderot_effect)
