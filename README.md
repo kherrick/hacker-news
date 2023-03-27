@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-27, 08:56:56](https://news.ycombinator.com/item?id=35324430) - [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
 * [2023-03-27, 07:42:02](https://news.ycombinator.com/item?id=35323960) - [Show HN: SlickGPT](https://slickgpt.vercel.app/)
 * [2023-03-27, 07:09:16](https://news.ycombinator.com/item?id=35323732) - [Journey Planner Challenge – You need to visit 5 tube stations](https://edjefferson.com/journeyplannerchallenge/)
 * [2023-03-27, 06:55:11](https://news.ycombinator.com/item?id=35323645) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
@@ -12,7 +13,6 @@
 * [2023-03-27, 01:00:16](https://news.ycombinator.com/item?id=35321609) - [Argonaut (YC S21) Is Hiring a FullStack Engineer in India (Remote)](https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer)
 * [2023-03-27, 00:46:22](https://news.ycombinator.com/item?id=35321493) - [JSON for Linking Data](https://json-ld.org)
 * [2023-03-27, 00:38:18](https://news.ycombinator.com/item?id=35321418) - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
-* [2023-03-26, 23:55:18](https://news.ycombinator.com/item?id=35321054) - [Do large language models need sensory grounding for meaning and understanding?](https://drive.google.com/file/d/1BU5bV3X5w65DwSMapKcsr0ZvrMRU_Nbi/view)
 * [2023-03-26, 23:02:55](https://news.ycombinator.com/item?id=35320656) - [The RIAA vs. Steve Jobs](https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/)
 * [2023-03-26, 22:54:47](https://news.ycombinator.com/item?id=35320571) - [BlenderGPT: Use commands in English to control Blender with OpenAI&#x27;s GPT-4](https://github.com/gd3kr/BlenderGPT)
 * [2023-03-26, 21:26:56](https://news.ycombinator.com/item?id=35319807) - [Robot Learns to See in 30 Minutes (2022)](https://antonilo.github.io/vision_locomotion/)
