@@ -2,7 +2,6 @@
 
 * [2023-03-27, 18:34:31](https://news.ycombinator.com/item?id=35330465) - [Greenland ice sheet is close to a melting point of no return](https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/)
 * [2023-03-27, 18:32:37](https://news.ycombinator.com/item?id=35330438) - [Employees Are Feeding Sensitive Biz Data to ChatGPT, Raising Security Fears](https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears)
-* [2023-03-27, 18:05:29](https://news.ycombinator.com/item?id=35330078) - [Online daters are less open-minded than their filters suggest](https://www.economist.com/graphic-detail/2023/03/22/online-daters-are-less-open-minded-than-their-filters-suggest)
 * [2023-03-27, 17:56:03](https://news.ycombinator.com/item?id=35329961) - [WebKit Features in Safari 16.4](https://webkit.org/blog/13966/webkit-features-in-safari-16-4/)
 * [2023-03-27, 17:55:10](https://news.ycombinator.com/item?id=35329950) - [Apple Passwords Deserve an App](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/)
 * [2023-03-27, 17:38:20](https://news.ycombinator.com/item?id=35329724) - [Smalltalk Type](https://moritzfuerst.net/projects/smalltalk-type)
@@ -24,6 +23,7 @@
 * [2023-03-27, 07:28:37](https://news.ycombinator.com/item?id=35323872) - [Morse Code Chat](https://morse.halb.it/)
 * [2023-03-27, 06:55:11](https://news.ycombinator.com/item?id=35323645) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
 * [2023-03-27, 05:20:06](https://news.ycombinator.com/item?id=35323121) - [Windows needs to stop showing tabloid news](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news)
+* [2023-03-27, 03:39:04](https://news.ycombinator.com/item?id=35322599) - [The Diversity of Arabic Scripts](https://blogs.bl.uk/asian-and-african/2023/03/the-diversity-of-arabic-scripts.html)
 * [2023-03-26, 23:12:34](https://news.ycombinator.com/item?id=35320729) - [An Open-Source Espresso](https://hackaday.com/2023/03/24/enjoy-an-open-source-espresso/)
 * [2023-03-26, 22:13:55](https://news.ycombinator.com/item?id=35320204) - [The Ancient Indian Buddhist Monk Buried in Athens](https://greekreporter.com/2023/03/20/ancient-indian-buddhist-monk-athens/)
 * [2023-03-26, 21:28:24](https://news.ycombinator.com/item?id=35319824) - [How Should Compilers Explain Problems to Developers? (2018) [pdf]](https://static.barik.net/barik/publications/fse2018/barik_fse18.pdf)
