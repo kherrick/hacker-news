@@ -73,6 +73,7 @@
 * [2023-03-25, 14:17:41](https://news.ycombinator.com/item?id=35302858) - [CodeAlpaca – Instruction following code generation model](https://github.com/sahil280114/codealpaca)
 * [2023-03-25, 14:09:22](https://news.ycombinator.com/item?id=35302767) - [Theo de Raadt: Synthetic Memory Protections (CanSecWest 2023) [OpenBSD] [pdf]](https://www.openbsd.org/papers/csw2023.pdf)
 * [2023-03-25, 14:04:28](https://news.ycombinator.com/item?id=35302735) - [Freedom Clock](https://domsson.github.io/freedom-clock/)
+* [2023-03-25, 14:00:24](https://news.ycombinator.com/item?id=35302700) - [DVDStyler is a cross-platform free DVD authoring application](https://www.dvdstyler.org/en/)
 * [2023-03-25, 13:58:21](https://news.ycombinator.com/item?id=35302682) - [Nothing is stopping feral pigs in Canada](https://www.fieldandstream.com/conservation/canada-super-pig-population-graphics/)
 * [2023-03-25, 13:52:12](https://news.ycombinator.com/item?id=35302627) - [Tesla owners will now be charged for driving their cars at night](https://twitter.com/williamlegate/status/1639412933397745665)
 * [2023-03-25, 13:48:55](https://news.ycombinator.com/item?id=35302597) - [Fundamentally Understanding and Solving RowHammer](https://arxiv.org/abs/2211.07613)
