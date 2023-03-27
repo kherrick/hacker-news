@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-27, 05:13:58](https://news.ycombinator.com/item?id=35323083) - [FDIC: First–Citizens Bank to Assume All Deposits and Loans of SV Bridge Bank](https://www.fdic.gov/news/press-releases/2023/pr23023.html)
 * [2023-03-27, 03:15:47](https://news.ycombinator.com/item?id=35322478) - [Scientists Finally Figure Out Why the Water Bear Is Nearly Indestructible (2017)](https://www.veterinarydaily.com/2023/03/scientists-finally-figure-out-why-water.html)
 * [2023-03-27, 03:14:55](https://news.ycombinator.com/item?id=35322473) - [The rise and rise of e-sports](https://www.economist.com/special-report/2023/03/20/the-rise-and-rise-of-e-sports)
 * [2023-03-27, 02:50:47](https://news.ycombinator.com/item?id=35322330) - [Where Did Writing Come From?](https://www.getty.edu/news/where-did-writing-come-from/)
@@ -24,7 +25,6 @@
 * [2023-03-26, 12:03:37](https://news.ycombinator.com/item?id=35313565) - [Ban 1+N in Django](https://suor.github.io/blog/2023/03/26/ban-1-plus-n-in-django/)
 * [2023-03-26, 08:31:14](https://news.ycombinator.com/item?id=35312351) - [What Is MmWave Radar?: Everything You Need to Know About FMCW (2022)](https://www.seeedstudio.com/blog/2022/01/03/mmwave-radar-sensing-fmcw-radar/)
 * [2023-03-26, 06:49:14](https://news.ycombinator.com/item?id=35311767) - [The Odd Story of Factory-Downgraded 486s (2020)](https://x86.fr/the-odd-story-of-factory-downgraded-486s/)
-* [2023-03-26, 05:31:19](https://news.ycombinator.com/item?id=35311332) - [FlexGen: Running large language models on a single GPU](https://github.com/FMInference/FlexGen)
 * [2023-03-25, 10:27:06](https://news.ycombinator.com/item?id=35301264) - [On-Sets: A Vintage Set Theory Game](https://www.tandfonline.com/doi/full/10.1080/10724117.2023.2168404)
 * [2023-03-25, 10:15:46](https://news.ycombinator.com/item?id=35301209) - [Snails Cross Vast Oceans](https://nautil.us/how-snails-cross-vast-oceans-288802/)
 * [2023-03-25, 10:15:32](https://news.ycombinator.com/item?id=35301207) - [Nvidia Unveils CuLitho: A “Breakthrough in Computational Lithography”](https://www.allaboutcircuits.com/news/nvidia-unveils-culitho-breakthrough-in-computational-lithography/)
