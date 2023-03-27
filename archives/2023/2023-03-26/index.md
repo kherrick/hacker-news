@@ -70,6 +70,7 @@
 * [2023-03-26, 10:55:29](https://news.ycombinator.com/item?id=35313088) - [Frequency Format Hypothesis](https://en.wikipedia.org/wiki/Frequency_format_hypothesis)
 * [2023-03-26, 10:44:19](https://news.ycombinator.com/item?id=35313030) - [The F-15 Eagle: Origins and Development, 1964-1972 [pdf]](https://media.defense.gov/2012/May/16/2001330012/-1/-1/0/AFD-120516-036.pdf)
 * [2023-03-26, 10:32:47](https://news.ycombinator.com/item?id=35312960) - [Open-source high-performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
+* [2023-03-26, 10:09:04](https://news.ycombinator.com/item?id=35312833) - [A Retrospective on Paradigms of AI Programming (2002)](http://norvig.com/Lisp-retro.html)
 * [2023-03-26, 09:40:46](https://news.ycombinator.com/item?id=35312694) - [Superhuman: What can AI do in 30 minutes?](https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes)
 * [2023-03-26, 09:28:50](https://news.ycombinator.com/item?id=35312632) - [On the Design, Implementation, and Use of Laziness in R (2019)](https://arxiv.org/abs/1909.08958)
 * [2023-03-26, 09:25:15](https://news.ycombinator.com/item?id=35312609) - [ChatGPT and Code Interpreter = Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/)
