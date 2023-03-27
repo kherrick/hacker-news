@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2023-03-27, 12:38:12",
-      "https://news.ycombinator.com/item?id=35325883"
+      "2023-03-27, 12:58:15",
+      "https://news.ycombinator.com/item?id=35326105"
     ],
     [
-      "Benchmarking Cheap SSDs for Fun, No Profit (Be Warned)",
-      "https://louwrentius.com/benchmarking-cheap-ssds-for-fun-no-profit-be-warned.html"
+      "My Best Friend Died from Loneliness",
+      "https://www.thefp.com/p/my-best-friend-died-from-loneliness"
     ]
   ],
   [
     [
-      "2023-03-27, 12:35:15",
-      "https://news.ycombinator.com/item?id=35325859"
+      "2023-03-27, 12:38:12",
+      "https://news.ycombinator.com/item?id=35325883"
     ],
     [
-      "Why a European mobile operating system can’t challenge Android and iOS",
-      "https://gael-duval.medium.com/why-a-european-mobile-operating-system-cant-challenge-android-and-ios-86104e97b89e"
+      "Benchmarking Cheap SSDs for Fun, No Profit",
+      "https://louwrentius.com/benchmarking-cheap-ssds-for-fun-no-profit-be-warned.html"
     ]
   ],
   [
@@ -35,8 +35,28 @@
       "https://news.ycombinator.com/item?id=35325709"
     ],
     [
-      "GitHub&#x27;s Down",
-      "https://news.ycombinator.com/item?id=35325709"
+      "GitHub issue - resolved",
+      "https://www.githubstatus.com/incidents/52z0j6phhnjs"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 12:02:07",
+      "https://news.ycombinator.com/item?id=35325556"
+    ],
+    [
+      "Zig and Rust",
+      "https://matklad.github.io/2023/03/26/zig-and-rust.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 11:52:51",
+      "https://news.ycombinator.com/item?id=35325488"
+    ],
+    [
+      "Jsonnet – The Data Templating Language",
+      "https://jsonnet.org/"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2023-03-27, 06:23:26",
-      "https://news.ycombinator.com/item?id=35323484"
-    ],
-    [
-      "Deployments Not Releases – Get Good at Delivering Software",
-      "https://blog.mangoteque.com//blog/2023/03/13/deployments-not-releases/"
-    ]
-  ],
-  [
-    [
       "2023-03-27, 05:20:06",
       "https://news.ycombinator.com/item?id=35323121"
     ],
@@ -137,16 +147,6 @@
     [
       "The Vesuvius Challenge",
       "https://scrollprize.org/overview"
-    ]
-  ],
-  [
-    [
-      "2023-03-27, 03:15:47",
-      "https://news.ycombinator.com/item?id=35322478"
-    ],
-    [
-      "Scientists finally figure out why the water bear is nearly indestructible (2017)",
-      "https://bigthink.com/surprising-science/scientists-finally-figure-out-why-the-water-bear-is-nearly-unstoppable/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-03-25, 12:21:03",
-      "https://news.ycombinator.com/item?id=35301939"
+      "2023-03-25, 12:21:39",
+      "https://news.ycombinator.com/item?id=35301943"
     ],
     [
-      "File Expiration Using BPF",
-      "https://hondu.co/blog/file-expiration-using-bpf"
+      "Retrieval in LangChain",
+      "https://blog.langchain.dev/retrieval/"
     ]
   ],
   [
