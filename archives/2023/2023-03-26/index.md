@@ -13,6 +13,7 @@
 * [2023-03-26, 22:53:35](https://news.ycombinator.com/item?id=35320565) - [An interview with Steve Wozniak by Jessica Livingston cured my AI anxiety](https://blog.vslira.net/2023/03/an-interview-with-steve-wozniak-by.html)
 * [2023-03-26, 22:02:14](https://news.ycombinator.com/item?id=35320097) - [When Will AI Take Your Job?](https://unchartedterritories.tomaspueyo.com/p/when-will-ai-take-your-job)
 * [2023-03-26, 21:37:14](https://news.ycombinator.com/item?id=35319901) - [Thousands Take to Streets After Netanyahu Fires Defense Minister](https://www.haaretz.com/israel-news/2023-03-26/ty-article-live/senior-likud-members-hint-at-opposing-judicial-overhaul/00000187-1c81-d4ca-afff-1d89ee5b0000)
+* [2023-03-26, 21:28:24](https://news.ycombinator.com/item?id=35319824) - [How Should Compilers Explain Problems to Developers? (2018) [pdf]](https://static.barik.net/barik/publications/fse2018/barik_fse18.pdf)
 * [2023-03-26, 21:26:56](https://news.ycombinator.com/item?id=35319807) - [Robot Learns to See in 30 Minutes](https://antonilo.github.io/vision_locomotion/)
 * [2023-03-26, 21:23:02](https://news.ycombinator.com/item?id=35319778) - [Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)
 * [2023-03-26, 21:10:23](https://news.ycombinator.com/item?id=35319670) - [Scientists developed simple way to cook rice that cut calories absorbed by half](https://www.acs.org/pressroom/newsreleases/2015/march/new-low-calorie-rice-could-help-cut-rising-obesity-rates.html)

@@ -25,7 +25,7 @@
 * [2023-03-27, 05:20:06](https://news.ycombinator.com/item?id=35323121) - [Windows needs to stop showing tabloid news](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news)
 * [2023-03-27, 04:20:05](https://news.ycombinator.com/item?id=35322809) - [The Vesuvius Challenge](https://scrollprize.org/overview)
 * [2023-03-26, 23:12:34](https://news.ycombinator.com/item?id=35320729) - [An Open-Source Espresso](https://hackaday.com/2023/03/24/enjoy-an-open-source-espresso/)
-* [2023-03-26, 16:09:42](https://news.ycombinator.com/item?id=35316056) - [RGB Modding the SG-1000 II Is it worth it?](https://nicole.express/2023/sg-1000-is-a-stupid-name-why-is-there-no-sg-500.html)
+* [2023-03-26, 21:28:24](https://news.ycombinator.com/item?id=35319824) - [How Should Compilers Explain Problems to Developers? (2018) [pdf]](https://static.barik.net/barik/publications/fse2018/barik_fse18.pdf)
 * [2023-03-26, 16:09:12](https://news.ycombinator.com/item?id=35316051) - [Glamorize your problem domain (2022)](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
 * [2023-03-26, 06:49:14](https://news.ycombinator.com/item?id=35311767) - [The Odd Story of Factory-Downgraded 486s (2020)](https://x86.fr/the-odd-story-of-factory-downgraded-486s/)
 * [2023-03-25, 14:00:24](https://news.ycombinator.com/item?id=35302700) - [DVDStyler is a cross-platform free DVD authoring application (2021)](https://www.dvdstyler.org/en/)
