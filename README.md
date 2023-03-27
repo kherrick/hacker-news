@@ -6,7 +6,7 @@
 * [2023-03-27, 21:00:09](https://news.ycombinator.com/item?id=35332518) - [Sieve (YC W22) is hiring hackers to build AI infrastructure for video](https://sievedata.com/about)
 * [2023-03-27, 20:47:19](https://news.ycombinator.com/item?id=35332314) - [Defaulting on Single Page Applications](https://www.zachleat.com/web/single-page-applications/)
 * [2023-03-27, 20:31:44](https://news.ycombinator.com/item?id=35332073) - [Big tech and the pursuit of AI dominance](https://www.economist.com/business/2023/03/26/big-tech-and-the-pursuit-of-ai-dominance)
-* [2023-03-27, 20:19:52](https://news.ycombinator.com/item?id=35331887) - [Kubernetes Is Hard](https://rcwz.pl/2023-03-26-kubernetes-is-hard/)
+* [2023-03-27, 20:19:52](https://news.ycombinator.com/item?id=35331887) - [Kubernetes is hard](https://rcwz.pl/2023-03-26-kubernetes-is-hard/)
 * [2023-03-27, 19:43:45](https://news.ycombinator.com/item?id=35331372) - [Artificial Intelligence Searches for Extraterrestrial Intelligence](https://www.supercluster.com/editorial/artificial-intelligence-searches-for-extraterrestrial-intelligence/)
 * [2023-03-27, 19:34:20](https://news.ycombinator.com/item?id=35331237) - [The FBI’s Contract to Buy Mass Internet Data](https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract)
 * [2023-03-27, 19:34:08](https://news.ycombinator.com/item?id=35331233) - [Show HN: Time-tracker that helps me with context switches and documentation](https://github.com/tech-branch/tsr)
