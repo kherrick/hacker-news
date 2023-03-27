@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-27, 14:08:07](https://news.ycombinator.com/item?id=35326846) - [Instead of Freaking Out, Try Geeking Out](https://cscaz.cansurround.com/articles/45)
-* [2023-03-27, 14:02:29](https://news.ycombinator.com/item?id=35326783) - [Apple Music Classical is out](https://apps.apple.com/us/app/apple-music-classical/id1598433714)
 * [2023-03-27, 13:49:41](https://news.ycombinator.com/item?id=35326648) - [Random Numbers in Bash](https://gist.github.com/rbitr/9c68379d3e0b79c9f06eb3f867624576)
 * [2023-03-27, 13:00:54](https://news.ycombinator.com/item?id=35326131) - [A Short 100-Question Diligence Checklist](https://www.thediff.co/archive/100-due-diligence-questions-checklist/)
 * [2023-03-27, 12:38:12](https://news.ycombinator.com/item?id=35325883) - [Benchmarking Cheap SSDs for Fun, No Profit](https://louwrentius.com/benchmarking-cheap-ssds-for-fun-no-profit-be-warned.html)
@@ -17,6 +16,7 @@
 * [2023-03-27, 05:13:58](https://news.ycombinator.com/item?id=35323083) - [First-Citizens Bank to assume deposits and loans of Silicon Valley Bridge Bank](https://www.fdic.gov/news/press-releases/2023/pr23023.html)
 * [2023-03-27, 04:20:05](https://news.ycombinator.com/item?id=35322809) - [The Vesuvius Challenge](https://scrollprize.org/overview)
 * [2023-03-27, 03:15:47](https://news.ycombinator.com/item?id=35322478) - [Scientists finally figure out why the water bear is nearly indestructible (2017)](https://bigthink.com/surprising-science/scientists-finally-figure-out-why-the-water-bear-is-nearly-unstoppable/)
+* [2023-03-27, 02:50:47](https://news.ycombinator.com/item?id=35322330) - [Where Did Writing Come From?](https://www.getty.edu/news/where-did-writing-come-from/)
 * [2023-03-27, 01:56:34](https://news.ycombinator.com/item?id=35321994) - [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
 * [2023-03-27, 01:00:16](https://news.ycombinator.com/item?id=35321609) - [Argonaut (YC S21) Is Hiring a FullStack Engineer in India (Remote)](https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer)
 * [2023-03-27, 00:46:22](https://news.ycombinator.com/item?id=35321493) - [JSON for Linking Data](https://json-ld.org)
