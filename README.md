@@ -2,8 +2,8 @@
 
 * [2023-03-27, 05:20:06](https://news.ycombinator.com/item?id=35323121) - [Get Off My Desktop Windows Needs to Stop Showing Tabloid News](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news)
 * [2023-03-27, 05:13:58](https://news.ycombinator.com/item?id=35323083) - [FDIC: First–Citizens Bank to Assume All Deposits and Loans of SV Bridge Bank](https://www.fdic.gov/news/press-releases/2023/pr23023.html)
+* [2023-03-27, 04:20:05](https://news.ycombinator.com/item?id=35322809) - [The Vesuvius Challenge](https://scrollprize.org/overview)
 * [2023-03-27, 03:15:47](https://news.ycombinator.com/item?id=35322478) - [Scientists Finally Figure Out Why the Water Bear Is Nearly Indestructible (2017)](https://www.veterinarydaily.com/2023/03/scientists-finally-figure-out-why-water.html)
-* [2023-03-27, 02:50:47](https://news.ycombinator.com/item?id=35322330) - [Where Did Writing Come From?](https://www.getty.edu/news/where-did-writing-come-from/)
 * [2023-03-27, 02:35:14](https://news.ycombinator.com/item?id=35322249) - [Salve Lucrum: The Existential Threat of Greed in US Health Care](https://jamanetwork.com/journals/jama/fullarticle/2801097)
 * [2023-03-27, 02:29:31](https://news.ycombinator.com/item?id=35322214) - [Uber Eats&#x27; Swapped Order Problem](https://blog.fahhem.com/2023/03/free-solution-uber-eats-swapped-orders/)
 * [2023-03-27, 01:56:34](https://news.ycombinator.com/item?id=35321994) - [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
