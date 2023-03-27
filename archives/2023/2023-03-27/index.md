@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 21:43:01](https://news.ycombinator.com/item?id=35333088) - [Ask HN: Successful one-person online businesses?](https://news.ycombinator.com/item?id=35333088)
 * [2023-03-27, 21:03:07](https://news.ycombinator.com/item?id=35332585) - [I Would Love to Have Enough Time and Money to Go to an Office to Work All Day](https://slate.com/business/2023/03/steven-rattner-new-york-times-remote-work-commute-child-care.html)
 * [2023-03-27, 21:00:39](https://news.ycombinator.com/item?id=35332537) - [The Prospect of an AI Winter](https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/)
 * [2023-03-27, 21:00:25](https://news.ycombinator.com/item?id=35332531) - [Apple Detection of Flashing Lights](https://github.com/apple/VideoFlashingReduction)
@@ -63,6 +64,7 @@
 * [2023-03-27, 06:23:26](https://news.ycombinator.com/item?id=35323484) - [Deployments Not Releases – Get Good at Delivering Software](https://blog.mangoteque.com//blog/2023/03/13/deployments-not-releases/)
 * [2023-03-27, 05:20:06](https://news.ycombinator.com/item?id=35323121) - [Get Off My Desktop Windows Needs to Stop Showing Tabloid News](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news)
 * [2023-03-27, 05:13:58](https://news.ycombinator.com/item?id=35323083) - [FDIC: First–Citizens Bank to Assume All Deposits and Loans of SV Bridge Bank](https://www.fdic.gov/news/press-releases/2023/pr23023.html)
+* [2023-03-27, 04:23:05](https://news.ycombinator.com/item?id=35322823) - [Science Museums Take Stock of 1.1B Objects from Around the World](https://www.nytimes.com/2023/03/23/science/science-museums-online-collections.html)
 * [2023-03-27, 04:20:05](https://news.ycombinator.com/item?id=35322809) - [The Vesuvius Challenge](https://scrollprize.org/overview)
 * [2023-03-27, 03:46:05](https://news.ycombinator.com/item?id=35322644) - [Jewelry made from beetles may have been a status symbol 2k years ago](https://www.atlasobscura.com/articles/beetle-jewelry-status-symbol)
 * [2023-03-27, 03:39:04](https://news.ycombinator.com/item?id=35322599) - [The Diversity of Arabic Scripts](https://blogs.bl.uk/asian-and-african/2023/03/the-diversity-of-arabic-scripts.html)
