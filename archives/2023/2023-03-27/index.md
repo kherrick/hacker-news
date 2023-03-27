@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 16:27:20](https://news.ycombinator.com/item?id=35328698) - [Launch HN: Play.ht (YC W23) – Generate and clone voices from 20 seconds of audio](https://news.ycombinator.com/item?id=35328698)
+* [2023-03-27, 16:09:12](https://news.ycombinator.com/item?id=35328449) - [CFTC Charges Binance Founder with Willful Evasion of Federal Law and More](https://www.cftc.gov/PressRoom/PressReleases/8680-23)
 * [2023-03-27, 16:02:38](https://news.ycombinator.com/item?id=35328368) - [John Glenn’s $40 Camera Forced NASA to Rethink Space Missions](https://petapixel.com/2023/03/23/how-john-glenns-40-camera-forced-nasa-to-rethink-space-missions/)
 * [2023-03-27, 15:36:35](https://news.ycombinator.com/item?id=35328057) - [Microsoft rebuilt Teams from the ground up, promises 2x faster performance](https://techcrunch.com/2023/03/27/microsoft-rebuilds-teams-promises-2x-faster-performance/)
 * [2023-03-27, 15:31:18](https://news.ycombinator.com/item?id=35327996) - [US CFTC Sues Binance and CEO Changpeng Zhao](https://web3isgoinggreat.com/?id=cftc-sues-binance-and-ceo-changpeng-zhao)
+* [2023-03-27, 15:12:52](https://news.ycombinator.com/item?id=35327743) - [Docker-compose.yml as a universal infrastructure interface](https://ergomake.dev/blog/docker-compose-as-a-universal-interface/)
 * [2023-03-27, 15:06:24](https://news.ycombinator.com/item?id=35327647) - [Binance Sued by US Watchdog for Alleged Derivatives Rule Lapses](https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses)
 * [2023-03-27, 14:48:20](https://news.ycombinator.com/item?id=35327382) - [The Dirty Secrets of a Smear Campaign](https://www.newyorker.com/magazine/2023/04/03/the-dirty-secrets-of-a-smear-campaign)
 * [2023-03-27, 14:29:55](https://news.ycombinator.com/item?id=35327112) - [Show HN: Open AI is not Open – A browser extension](https://github.com/zaporter/OpenAI-is-not-Open)
