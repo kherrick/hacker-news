@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-27, 11:13:46](https://news.ycombinator.com/item?id=35325208) - [Top Reddit communities for Devs and ITs: from beginners to advanced](https://pvs-studio.com/en/blog/posts/1040/)
 * [2023-03-27, 08:56:56](https://news.ycombinator.com/item?id=35324430) - [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
 * [2023-03-27, 07:42:02](https://news.ycombinator.com/item?id=35323960) - [Show HN: SlickGPT](https://slickgpt.vercel.app/)
 * [2023-03-27, 07:09:16](https://news.ycombinator.com/item?id=35323732) - [Journey Planner Challenge – You need to visit 5 tube stations](https://edjefferson.com/journeyplannerchallenge/)
@@ -18,7 +19,6 @@
 * [2023-03-26, 21:26:56](https://news.ycombinator.com/item?id=35319807) - [Robot Learns to See in 30 Minutes (2022)](https://antonilo.github.io/vision_locomotion/)
 * [2023-03-26, 20:44:31](https://news.ycombinator.com/item?id=35319383) - [AWS Announces Open Source Mountpoint for Amazon S3](https://www.infoq.com/news/2023/03/mountpoint-amazon-s3/)
 * [2023-03-26, 18:00:26](https://news.ycombinator.com/item?id=35317419) - [Craziest thing I ever used SQLite for: partial file deduplication (2022)](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
-* [2023-03-26, 17:11:18](https://news.ycombinator.com/item?id=35316836) - [Jacob Ziv has died](https://twitter.com/erlichya/status/1639973591214182400)
 * [2023-03-26, 16:59:36](https://news.ycombinator.com/item?id=35316679) - [Show HN: Apple Notes Liberator – Extract Notes.app Data and Save It as JSON](https://github.com/HamburgChimps/apple-notes-liberator)
 * [2023-03-26, 16:09:42](https://news.ycombinator.com/item?id=35316056) - [RGB Modding the SG-1000 II Is it worth it?](https://nicole.express/2023/sg-1000-is-a-stupid-name-why-is-there-no-sg-500.html)
 * [2023-03-26, 15:11:23](https://news.ycombinator.com/item?id=35315251) - [Bell System Vehicle Graphics Manual (1973)](https://archive.org/details/bell-system-vehicle-graphics-manual-1970-03)

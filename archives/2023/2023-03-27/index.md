@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 11:13:46](https://news.ycombinator.com/item?id=35325208) - [Top Reddit communities for Devs and ITs: from beginners to advanced](https://pvs-studio.com/en/blog/posts/1040/)
 * [2023-03-27, 08:56:56](https://news.ycombinator.com/item?id=35324430) - [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
 * [2023-03-27, 07:42:02](https://news.ycombinator.com/item?id=35323960) - [Show HN: SlickGPT](https://slickgpt.vercel.app/)
 * [2023-03-27, 07:09:16](https://news.ycombinator.com/item?id=35323732) - [Journey Planner Challenge – You need to visit 5 tube stations](https://edjefferson.com/journeyplannerchallenge/)
