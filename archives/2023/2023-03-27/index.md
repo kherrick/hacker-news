@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 06:55:11](https://news.ycombinator.com/item?id=35323645) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
 * [2023-03-27, 05:20:06](https://news.ycombinator.com/item?id=35323121) - [Get Off My Desktop Windows Needs to Stop Showing Tabloid News](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news)
 * [2023-03-27, 05:13:58](https://news.ycombinator.com/item?id=35323083) - [FDIC: First–Citizens Bank to Assume All Deposits and Loans of SV Bridge Bank](https://www.fdic.gov/news/press-releases/2023/pr23023.html)
 * [2023-03-27, 04:20:05](https://news.ycombinator.com/item?id=35322809) - [The Vesuvius Challenge](https://scrollprize.org/overview)
+* [2023-03-27, 03:15:47](https://news.ycombinator.com/item?id=35322478) - [Scientists finally figure out why the water bear is nearly indestructible (2017)](https://bigthink.com/surprising-science/scientists-finally-figure-out-why-the-water-bear-is-nearly-unstoppable/)
 * [2023-03-27, 03:15:47](https://news.ycombinator.com/item?id=35322478) - [Scientists Finally Figure Out Why the Water Bear Is Nearly Indestructible](https://www.veterinarydaily.com/2023/03/scientists-finally-figure-out-why-water.html)
 * [2023-03-27, 03:14:55](https://news.ycombinator.com/item?id=35322473) - [The rise and rise of e-sports](https://www.economist.com/special-report/2023/03/20/the-rise-and-rise-of-e-sports)
 * [2023-03-27, 02:50:47](https://news.ycombinator.com/item?id=35322330) - [Where Did Writing Come From?](https://www.getty.edu/news/where-did-writing-come-from/)
