@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-27, 16:02:38",
+      "https://news.ycombinator.com/item?id=35328368"
+    ],
+    [
+      "John Glenn’s $40 Camera Forced NASA to Rethink Space Missions",
+      "https://petapixel.com/2023/03/23/how-john-glenns-40-camera-forced-nasa-to-rethink-space-missions/"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 15:36:35",
+      "https://news.ycombinator.com/item?id=35328057"
+    ],
+    [
+      "Microsoft rebuilt Teams from the ground up, promises 2x faster performance",
+      "https://techcrunch.com/2023/03/27/microsoft-rebuilds-teams-promises-2x-faster-performance/"
+    ]
+  ],
+  [
+    [
       "2023-03-27, 15:31:18",
       "https://news.ycombinator.com/item?id=35327996"
     ],
@@ -17,6 +37,16 @@
     [
       "Binance Sued by US Watchdog for Alleged Derivatives Rule Lapses",
       "https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 14:48:20",
+      "https://news.ycombinator.com/item?id=35327382"
+    ],
+    [
+      "The Dirty Secrets of a Smear Campaign",
+      "https://www.newyorker.com/magazine/2023/04/03/the-dirty-secrets-of-a-smear-campaign"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "A Short 100-Question Diligence Checklist",
       "https://www.thediff.co/archive/100-due-diligence-questions-checklist/"
-    ]
-  ],
-  [
-    [
-      "2023-03-27, 12:48:50",
-      "https://news.ycombinator.com/item?id=35325987"
-    ],
-    [
-      "Nancy Hopkins and her tape measure revealed the extent of sexism in science",
-      "https://www.nature.com/articles/d41586-023-00887-4"
     ]
   ],
   [
@@ -201,12 +221,12 @@
   ],
   [
     [
-      "2023-03-27, 00:46:22",
-      "https://news.ycombinator.com/item?id=35321493"
+      "2023-03-27, 01:00:16",
+      "https://news.ycombinator.com/item?id=35321609"
     ],
     [
-      "JSON for Linking Data",
-      "https://json-ld.org"
+      "Argonaut (YC S21) Is Hiring a FullStack Engineer in India (Remote)",
+      "https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer"
     ]
   ],
   [
@@ -217,16 +237,6 @@
     [
       "We need better support for SSH host certificates",
       "https://mjg59.dreamwidth.org/65874.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-26, 16:59:36",
-      "https://news.ycombinator.com/item?id=35316679"
-    ],
-    [
-      "Show HN: Apple Notes Liberator – Extract Notes.app Data and Save It as JSON",
-      "https://github.com/HamburgChimps/apple-notes-liberator"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Retrieval in LangChain",
       "https://blog.langchain.dev/retrieval/"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 10:27:06",
-      "https://news.ycombinator.com/item?id=35301264"
-    ],
-    [
-      "On-Sets: A Vintage Set Theory Game",
-      "https://www.tandfonline.com/doi/full/10.1080/10724117.2023.2168404"
     ]
   ]
 ]
