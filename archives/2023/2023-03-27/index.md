@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 17:01:04](https://news.ycombinator.com/item?id=35329153) - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
+* [2023-03-27, 16:52:45](https://news.ycombinator.com/item?id=35329038) - [Rust&#x27;s Golden Rule](https://steveklabnik.com/writing/rusts-golden-rule)
 * [2023-03-27, 16:27:20](https://news.ycombinator.com/item?id=35328698) - [Launch HN: Play.ht (YC W23) – Generate and clone voices from 20 seconds of audio](https://news.ycombinator.com/item?id=35328698)
 * [2023-03-27, 16:09:12](https://news.ycombinator.com/item?id=35328449) - [CFTC Charges Binance Founder with Willful Evasion of Federal Law and More](https://www.cftc.gov/PressRoom/PressReleases/8680-23)
 * [2023-03-27, 16:02:38](https://news.ycombinator.com/item?id=35328368) - [John Glenn’s $40 Camera Forced NASA to Rethink Space Missions](https://petapixel.com/2023/03/23/how-john-glenns-40-camera-forced-nasa-to-rethink-space-missions/)

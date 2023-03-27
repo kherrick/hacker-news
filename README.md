@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-27, 17:01:04](https://news.ycombinator.com/item?id=35329153) - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
+* [2023-03-27, 16:52:45](https://news.ycombinator.com/item?id=35329038) - [Rust&#x27;s Golden Rule](https://steveklabnik.com/writing/rusts-golden-rule)
 * [2023-03-27, 16:27:20](https://news.ycombinator.com/item?id=35328698) - [Launch HN: Play.ht (YC W23) – Generate and clone voices from 20 seconds of audio](https://news.ycombinator.com/item?id=35328698)
 * [2023-03-27, 16:09:12](https://news.ycombinator.com/item?id=35328449) - [CFTC Charges Binance Founder with Willful Evasion of Federal Law and More](https://www.cftc.gov/PressRoom/PressReleases/8680-23)
 * [2023-03-27, 16:02:38](https://news.ycombinator.com/item?id=35328368) - [John Glenn’s $40 Camera Forced NASA to Rethink Space Missions](https://petapixel.com/2023/03/23/how-john-glenns-40-camera-forced-nasa-to-rethink-space-missions/)
@@ -20,10 +22,8 @@
 * [2023-03-27, 07:28:37](https://news.ycombinator.com/item?id=35323872) - [Morse Code Chat](https://morse.halb.it/)
 * [2023-03-27, 06:55:11](https://news.ycombinator.com/item?id=35323645) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
 * [2023-03-27, 05:20:06](https://news.ycombinator.com/item?id=35323121) - [Windows needs to stop showing tabloid news](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news)
-* [2023-03-27, 05:13:58](https://news.ycombinator.com/item?id=35323083) - [First-Citizens Bank to assume deposits and loans of Silicon Valley Bridge Bank](https://www.fdic.gov/news/press-releases/2023/pr23023.html)
 * [2023-03-27, 04:20:05](https://news.ycombinator.com/item?id=35322809) - [The Vesuvius Challenge](https://scrollprize.org/overview)
 * [2023-03-27, 01:56:34](https://news.ycombinator.com/item?id=35321994) - [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
-* [2023-03-27, 00:38:18](https://news.ycombinator.com/item?id=35321418) - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
 * [2023-03-26, 16:09:42](https://news.ycombinator.com/item?id=35316056) - [RGB Modding the SG-1000 II Is it worth it?](https://nicole.express/2023/sg-1000-is-a-stupid-name-why-is-there-no-sg-500.html)
 * [2023-03-26, 16:09:12](https://news.ycombinator.com/item?id=35316051) - [Glamorize Your Problem Domain](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
 * [2023-03-26, 15:11:23](https://news.ycombinator.com/item?id=35315251) - [Bell System Vehicle Graphics Manual (1973)](https://archive.org/details/bell-system-vehicle-graphics-manual-1970-03)
