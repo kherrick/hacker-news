@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 16:02:38](https://news.ycombinator.com/item?id=35328368) - [John Glenn’s $40 Camera Forced NASA to Rethink Space Missions](https://petapixel.com/2023/03/23/how-john-glenns-40-camera-forced-nasa-to-rethink-space-missions/)
+* [2023-03-27, 15:36:35](https://news.ycombinator.com/item?id=35328057) - [Microsoft rebuilt Teams from the ground up, promises 2x faster performance](https://techcrunch.com/2023/03/27/microsoft-rebuilds-teams-promises-2x-faster-performance/)
 * [2023-03-27, 15:31:18](https://news.ycombinator.com/item?id=35327996) - [US CFTC Sues Binance and CEO Changpeng Zhao](https://web3isgoinggreat.com/?id=cftc-sues-binance-and-ceo-changpeng-zhao)
 * [2023-03-27, 15:06:24](https://news.ycombinator.com/item?id=35327647) - [Binance Sued by US Watchdog for Alleged Derivatives Rule Lapses](https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses)
+* [2023-03-27, 14:48:20](https://news.ycombinator.com/item?id=35327382) - [The Dirty Secrets of a Smear Campaign](https://www.newyorker.com/magazine/2023/04/03/the-dirty-secrets-of-a-smear-campaign)
 * [2023-03-27, 14:29:55](https://news.ycombinator.com/item?id=35327112) - [Show HN: Open AI is not Open – A browser extension](https://github.com/zaporter/OpenAI-is-not-Open)
 * [2023-03-27, 14:08:07](https://news.ycombinator.com/item?id=35326846) - [Instead of Freaking Out, Try Geeking Out](https://cscaz.cansurround.com/articles/45)
 * [2023-03-27, 14:02:29](https://news.ycombinator.com/item?id=35326783) - [Apple Music Classical is out](https://apps.apple.com/us/app/apple-music-classical/id1598433714)
