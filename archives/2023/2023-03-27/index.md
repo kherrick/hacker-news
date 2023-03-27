@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 01:25:16](https://news.ycombinator.com/item?id=35321800) - [Study finds higher cancer rates among U.S. military airmen and ground crews](https://www.pbs.org/newshour/show/study-finds-higher-cancer-rates-among-u-s-military-airmen-and-ground-crews)
 * [2023-03-27, 01:00:16](https://news.ycombinator.com/item?id=35321609) - [Argonaut (YC S21) Is Hiring a FullStack Engineer](https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer)
 * [2023-03-27, 01:00:11](https://news.ycombinator.com/item?id=35321606) - [Video Rendering with Node.js and FFmpeg](https://creatomate.com/blog/video-rendering-with-nodejs-and-ffmpeg)
 * [2023-03-27, 00:46:22](https://news.ycombinator.com/item?id=35321493) - [JSON for Linking Data](https://json-ld.org)

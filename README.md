@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-27, 01:25:16](https://news.ycombinator.com/item?id=35321800) - [Study finds higher cancer rates among U.S. military airmen and ground crews](https://www.pbs.org/newshour/show/study-finds-higher-cancer-rates-among-u-s-military-airmen-and-ground-crews)
 * [2023-03-27, 01:00:16](https://news.ycombinator.com/item?id=35321609) - [Argonaut (YC S21) Is Hiring a FullStack Engineer in India (Remote)](https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer)
 * [2023-03-27, 01:00:11](https://news.ycombinator.com/item?id=35321606) - [Video Rendering with Node.js and FFmpeg](https://creatomate.com/blog/video-rendering-with-nodejs-and-ffmpeg)
 * [2023-03-27, 00:46:22](https://news.ycombinator.com/item?id=35321493) - [JSON for Linking Data](https://json-ld.org)
@@ -13,7 +14,6 @@
 * [2023-03-26, 20:44:31](https://news.ycombinator.com/item?id=35319383) - [AWS Announces Open Source Mountpoint for Amazon S3](https://www.infoq.com/news/2023/03/mountpoint-amazon-s3/)
 * [2023-03-26, 19:07:31](https://news.ycombinator.com/item?id=35318258) - [Why Architecture Oriented Programming Matters (2019)](https://blog.metaobject.com/2019/02/why-architecture-oriented-programming.html)
 * [2023-03-26, 18:40:36](https://news.ycombinator.com/item?id=35317882) - [The Graphical User Interface Gallery](http://toastytech.com/guis/index.html)
-* [2023-03-26, 18:16:30](https://news.ycombinator.com/item?id=35317590) - [The layoffs will continue until (investor) morale improves](https://techcrunch.com/2023/03/26/tech-company-layoffs-2023-morale/)
 * [2023-03-26, 18:00:26](https://news.ycombinator.com/item?id=35317419) - [Craziest thing I ever used SQLite for: partial file deduplication (2022)](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
 * [2023-03-26, 17:11:18](https://news.ycombinator.com/item?id=35316836) - [Jacob Ziv has died](https://twitter.com/erlichya/status/1639973591214182400)
 * [2023-03-26, 16:59:36](https://news.ycombinator.com/item?id=35316679) - [Show HN: Apple Notes Liberator – Extract Notes.app Data and Save It as JSON](https://github.com/HamburgChimps/apple-notes-liberator)
