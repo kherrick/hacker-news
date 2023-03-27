@@ -89,6 +89,7 @@
 * [2023-03-25, 11:04:28](https://news.ycombinator.com/item?id=35301447) - [Everything we know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
 * [2023-03-25, 10:15:46](https://news.ycombinator.com/item?id=35301209) - [Snails Cross Vast Oceans](https://nautil.us/how-snails-cross-vast-oceans-288802/)
 * [2023-03-25, 10:15:32](https://news.ycombinator.com/item?id=35301207) - [Nvidia Unveils CuLitho: A “Breakthrough in Computational Lithography”](https://www.allaboutcircuits.com/news/nvidia-unveils-culitho-breakthrough-in-computational-lithography/)
+* [2023-03-25, 10:10:20](https://news.ycombinator.com/item?id=35301184) - [The Diderot Effect](https://en.wikipedia.org/wiki/Diderot_effect)
 * [2023-03-25, 10:00:45](https://news.ycombinator.com/item?id=35301138) - [Common Lisp Quick Reference](http://clqr.boundp.org)
 * [2023-03-25, 09:59:33](https://news.ycombinator.com/item?id=35301129) - [“Can we ban iPhone in retaliation?” Chinese internet reacts to TikTok hearing](https://thechinaproject.com/2023/03/24/can-we-ban-iphone-in-retaliation-chinese-internet-reacts-to-tiktok-hearing-in-the-u-s/)
 * [2023-03-25, 09:40:59](https://news.ycombinator.com/item?id=35301033) - [The symmetry that makes solving math equations easy](https://www.quantamagazine.org/the-symmetry-that-makes-solving-math-equations-easy-20230324/)

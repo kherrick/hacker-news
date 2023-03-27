@@ -59,6 +59,7 @@
 * [2023-03-26, 13:01:39](https://news.ycombinator.com/item?id=35313982) - [Richard Stallman&#x27;s thoughts on ChatGPT, AI and their impact on humanity](https://www.reddit.com/r/linux/comments/122gmm9/richard_stallmans_thoughts_on_chatgpt_artificial/)
 * [2023-03-26, 12:57:03](https://news.ycombinator.com/item?id=35313943) - [When root on ZFS breaks on Arch Linux](https://blog.mnus.de/2023/03/archlinux-zfs/)
 * [2023-03-26, 12:52:37](https://news.ycombinator.com/item?id=35313903) - [OpenSUSE Linux Gains Momentum: A Look at Its Growing Popularity](https://linuxiac.com/opensuse-grows-in-popularity/)
+* [2023-03-26, 12:04:38](https://news.ycombinator.com/item?id=35313578) - [When programming is gone, will we like what’s left?](https://newsletter.goodtechthings.com/p/when-programming-is-gone-will-we)
 * [2023-03-26, 12:03:37](https://news.ycombinator.com/item?id=35313565) - [Ban 1+N in Django](https://suor.github.io/blog/2023/03/26/ban-1-plus-n-in-django/)
 * [2023-03-26, 12:00:50](https://news.ycombinator.com/item?id=35313542) - [Float Health (YC W22) Is Hiring Senior Software Engineer](https://news.ycombinator.com/item?id=35313542)
 * [2023-03-26, 11:53:53](https://news.ycombinator.com/item?id=35313496) - [Are you ready for 13.3 or 9.1?](https://eclecticlight.co/2023/03/26/last-week-on-my-mac-are-you-ready-for-13-3-or-9-1/)
