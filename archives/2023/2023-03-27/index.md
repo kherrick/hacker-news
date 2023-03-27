@@ -13,6 +13,7 @@
 * [2023-03-27, 16:09:12](https://news.ycombinator.com/item?id=35328449) - [CFTC Charges Binance Founder with Willful Evasion of Federal Law and More](https://www.cftc.gov/PressRoom/PressReleases/8680-23)
 * [2023-03-27, 16:02:38](https://news.ycombinator.com/item?id=35328368) - [John Glenn’s $40 Camera Forced NASA to Rethink Space Missions](https://petapixel.com/2023/03/23/how-john-glenns-40-camera-forced-nasa-to-rethink-space-missions/)
 * [2023-03-27, 15:57:32](https://news.ycombinator.com/item?id=35328316) - [WEKA Responds to Unfounded Allegations Made by MinIO Regarding OSS Licensing](https://www.weka.io/blog/file-system/weka-responds-to-unfounded-allegations-made-by-minio-regarding-open-source-licensing/)
+* [2023-03-27, 15:50:15](https://news.ycombinator.com/item?id=35328220) - [Automate your Python project with Makefile (2021)](https://antonz.org/makefile-automation/)
 * [2023-03-27, 15:36:35](https://news.ycombinator.com/item?id=35328057) - [Microsoft rebuilt Teams from the ground up, promises 2x faster performance](https://techcrunch.com/2023/03/27/microsoft-rebuilds-teams-promises-2x-faster-performance/)
 * [2023-03-27, 15:31:18](https://news.ycombinator.com/item?id=35327996) - [US CFTC Sues Binance and CEO Changpeng Zhao](https://web3isgoinggreat.com/?id=cftc-sues-binance-and-ceo-changpeng-zhao)
 * [2023-03-27, 15:31:18](https://news.ycombinator.com/item?id=35327996) - [CFTC sues Binance and CEO Changpeng Zhao [pdf]](https://www.docdroid.net/60YAbCz/cftc-binance-pdf)

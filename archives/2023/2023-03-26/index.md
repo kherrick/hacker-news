@@ -6,6 +6,7 @@
 
 * [2023-03-26, 23:55:18](https://news.ycombinator.com/item?id=35321054) - [Do large language models need sensory grounding for meaning and understanding?](https://drive.google.com/file/d/1BU5bV3X5w65DwSMapKcsr0ZvrMRU_Nbi/view)
 * [2023-03-26, 23:27:13](https://news.ycombinator.com/item?id=35320856) - [Fide Women’s Grand Prix Collapses into “Chaos” as Players Withdraw](https://lichess.org/blog/ZCBr7hYAAP86If6m/fide-womens-grand-prix-collapses-into-chaos-as-players-withdraw)
+* [2023-03-26, 23:12:34](https://news.ycombinator.com/item?id=35320729) - [An Open-Source Espresso](https://hackaday.com/2023/03/24/enjoy-an-open-source-espresso/)
 * [2023-03-26, 23:02:55](https://news.ycombinator.com/item?id=35320656) - [The RIAA vs. Steve Jobs](https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/)
 * [2023-03-26, 23:01:04](https://news.ycombinator.com/item?id=35320638) - [Ask HN: Math for Programmers?](https://news.ycombinator.com/item?id=35320638)
 * [2023-03-26, 22:54:47](https://news.ycombinator.com/item?id=35320571) - [BlenderGPT: Use commands in English to control Blender with OpenAI&#x27;s GPT-4](https://github.com/gd3kr/BlenderGPT)
