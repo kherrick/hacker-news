@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 14:08:07](https://news.ycombinator.com/item?id=35326846) - [Instead of Freaking Out, Try Geeking Out](https://cscaz.cansurround.com/articles/45)
+* [2023-03-27, 14:02:29](https://news.ycombinator.com/item?id=35326783) - [Apple Music Classical is out](https://apps.apple.com/us/app/apple-music-classical/id1598433714)
+* [2023-03-27, 13:49:41](https://news.ycombinator.com/item?id=35326648) - [Random Numbers in Bash](https://gist.github.com/rbitr/9c68379d3e0b79c9f06eb3f867624576)
 * [2023-03-27, 13:00:54](https://news.ycombinator.com/item?id=35326131) - [A Short 100-Question Diligence Checklist](https://www.thediff.co/archive/100-due-diligence-questions-checklist/)
 * [2023-03-27, 12:58:15](https://news.ycombinator.com/item?id=35326105) - [My Best Friend Died from Loneliness](https://www.thefp.com/p/my-best-friend-died-from-loneliness)
 * [2023-03-27, 12:38:12](https://news.ycombinator.com/item?id=35325883) - [Benchmarking Cheap SSDs for Fun, No Profit (Be Warned)](https://louwrentius.com/benchmarking-cheap-ssds-for-fun-no-profit-be-warned.html)
