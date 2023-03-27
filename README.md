@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-27, 15:06:24](https://news.ycombinator.com/item?id=35327647) - [Binance Sued by US Watchdog for Alleged Derivatives Rule Lapses](https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses)
 * [2023-03-27, 14:08:07](https://news.ycombinator.com/item?id=35326846) - [Instead of Freaking Out, Try Geeking Out](https://cscaz.cansurround.com/articles/45)
 * [2023-03-27, 13:49:41](https://news.ycombinator.com/item?id=35326648) - [Random Numbers in Bash](https://gist.github.com/rbitr/9c68379d3e0b79c9f06eb3f867624576)
 * [2023-03-27, 13:00:54](https://news.ycombinator.com/item?id=35326131) - [A Short 100-Question Diligence Checklist](https://www.thediff.co/archive/100-due-diligence-questions-checklist/)
@@ -17,7 +18,6 @@
 * [2023-03-27, 03:15:47](https://news.ycombinator.com/item?id=35322478) - [Scientists finally figure out why the water bear is nearly indestructible (2017)](https://bigthink.com/surprising-science/scientists-finally-figure-out-why-the-water-bear-is-nearly-unstoppable/)
 * [2023-03-27, 02:50:47](https://news.ycombinator.com/item?id=35322330) - [Where Did Writing Come From?](https://www.getty.edu/news/where-did-writing-come-from/)
 * [2023-03-27, 01:56:34](https://news.ycombinator.com/item?id=35321994) - [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
-* [2023-03-27, 01:00:16](https://news.ycombinator.com/item?id=35321609) - [Argonaut (YC S21) Is Hiring a FullStack Engineer in India (Remote)](https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer)
 * [2023-03-27, 00:46:22](https://news.ycombinator.com/item?id=35321493) - [JSON for Linking Data](https://json-ld.org)
 * [2023-03-27, 00:38:18](https://news.ycombinator.com/item?id=35321418) - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
 * [2023-03-26, 23:02:55](https://news.ycombinator.com/item?id=35320656) - [The RIAA vs. Steve Jobs](https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/)
@@ -26,7 +26,7 @@
 * [2023-03-26, 16:09:12](https://news.ycombinator.com/item?id=35316051) - [Glamorize Your Problem Domain](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
 * [2023-03-26, 15:11:23](https://news.ycombinator.com/item?id=35315251) - [Bell System Vehicle Graphics Manual (1973)](https://archive.org/details/bell-system-vehicle-graphics-manual-1970-03)
 * [2023-03-26, 06:49:14](https://news.ycombinator.com/item?id=35311767) - [The Odd Story of Factory-Downgraded 486s (2020)](https://x86.fr/the-odd-story-of-factory-downgraded-486s/)
-* [2023-03-25, 14:00:24](https://news.ycombinator.com/item?id=35302700) - [DVDStyler is a cross-platform free DVD authoring application](https://www.dvdstyler.org/en/)
+* [2023-03-25, 14:00:24](https://news.ycombinator.com/item?id=35302700) - [DVDStyler is a cross-platform free DVD authoring application (2021)](https://www.dvdstyler.org/en/)
 * [2023-03-25, 12:21:39](https://news.ycombinator.com/item?id=35301943) - [Retrieval in LangChain](https://blog.langchain.dev/retrieval/)
 * [2023-03-25, 10:27:06](https://news.ycombinator.com/item?id=35301264) - [On-Sets: A Vintage Set Theory Game](https://www.tandfonline.com/doi/full/10.1080/10724117.2023.2168404)
 * [2023-03-25, 10:10:20](https://news.ycombinator.com/item?id=35301184) - [The Diderot Effect](https://en.wikipedia.org/wiki/Diderot_effect)
