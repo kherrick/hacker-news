@@ -69,6 +69,7 @@
 * [2023-03-27, 05:57:56](https://news.ycombinator.com/item?id=35323349) - [A student&#x27;s guide to startups (2006)](http://www.paulgraham.com/mit.html)
 * [2023-03-27, 05:46:41](https://news.ycombinator.com/item?id=35323279) - [Fugue: A unified interface for distributed computing](https://github.com/fugue-project/fugue)
 * [2023-03-27, 05:20:06](https://news.ycombinator.com/item?id=35323121) - [Get Off My Desktop Windows Needs to Stop Showing Tabloid News](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news)
+* [2023-03-27, 05:18:29](https://news.ycombinator.com/item?id=35323107) - [Medieval Arabic surgeon Ibn al Quff&#x27;s account on surgical pain relief](https://journals.lww.com/anar/fulltext/2010/04010/historical_essay__an_arabic_surgeon,_ibn_al_quff_s.3.aspx)
 * [2023-03-27, 05:13:58](https://news.ycombinator.com/item?id=35323083) - [FDIC: First–Citizens Bank to Assume All Deposits and Loans of SV Bridge Bank](https://www.fdic.gov/news/press-releases/2023/pr23023.html)
 * [2023-03-27, 04:23:05](https://news.ycombinator.com/item?id=35322823) - [Science Museums Take Stock of 1.1B Objects from Around the World](https://www.nytimes.com/2023/03/23/science/science-museums-online-collections.html)
 * [2023-03-27, 04:20:05](https://news.ycombinator.com/item?id=35322809) - [The Vesuvius Challenge](https://scrollprize.org/overview)

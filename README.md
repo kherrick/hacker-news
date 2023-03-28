@@ -2,9 +2,9 @@
 
 * [2023-03-28, 19:16:19](https://news.ycombinator.com/item?id=35346352) - [&#x27;Tylenol Lite&#x27; – Will a Safer New Useless Painkiller Replace a Dangerous Old One](https://www.acsh.org/news/2022/08/22/tylenol-lite-will-safer-new-useless-painkiller-replace-dangerous-old-one-16500)
 * [2023-03-28, 19:00:44](https://news.ycombinator.com/item?id=35346137) - [Windows 11 KB5023778 update adds promotions to the Start menu](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5023778-update-adds-promotions-to-the-start-menu/)
-* [2023-03-28, 18:25:13](https://news.ycombinator.com/item?id=35345612) - [EU Commission Doesn&#x27;t Understand What&#x27;s Written in Its Own Chat Control Bill](https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/)
+* [2023-03-28, 18:25:13](https://news.ycombinator.com/item?id=35345612) - [EU Commission doesn&#x27;t understand what&#x27;s written in its own chat control bill](https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/)
 * [2023-03-28, 17:53:51](https://news.ycombinator.com/item?id=35345117) - [Infinite Mac: Infinitemac.org](https://blog.persistent.info/2023/03/infinitemac-dot-org.html)
-* [2023-03-28, 17:36:02](https://news.ycombinator.com/item?id=35344831) - [UK Sets Up Fake Booter Sites to Muddy DDoS Market](https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/)
+* [2023-03-28, 17:36:02](https://news.ycombinator.com/item?id=35344831) - [UK sets up fake booter sites to muddy DDoS market](https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/)
 * [2023-03-28, 17:33:08](https://news.ycombinator.com/item?id=35344787) - [Show HN: A fully open-source (Apache 2.0)implementation of llama](https://github.com/Lightning-AI/lit-llama)
 * [2023-03-28, 17:17:56](https://news.ycombinator.com/item?id=35344514) - [Interaction Nets, Combinators, and Calculus – HVM](https://zicklag.github.io/blog/interaction-nets-combinators-calculus/)
 * [2023-03-28, 17:07:56](https://news.ycombinator.com/item?id=35344354) - [TaxyAI: Open-source browser automation with GPT-4](https://github.com/TaxyAI/browser-extension)
@@ -24,12 +24,12 @@
 * [2023-03-28, 12:11:08](https://news.ycombinator.com/item?id=35339521) - [Random Fuzzy Thoughts](https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/)
 * [2023-03-28, 11:33:03](https://news.ycombinator.com/item?id=35339010) - [Open Sourcing Cody – Sourcegraph&#x27;s AI-enabled editor assistant](https://about.sourcegraph.com/blog/open-sourcing-cody)
 * [2023-03-28, 08:03:45](https://news.ycombinator.com/item?id=35337296) - [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
-* [2023-03-28, 07:48:38](https://news.ycombinator.com/item?id=35337210) - [PayPal has restricted our account after we invoiced a key containing “ALEP”](https://twitter.com/littlesnitch/status/1640436716895870985)
 * [2023-03-28, 06:15:00](https://news.ycombinator.com/item?id=35336632) - [Your &quot;simulation&quot; might not need state](https://www.onsclom.net/posts/simulator-state)
 * [2023-03-28, 05:51:30](https://news.ycombinator.com/item?id=35336465) - [The Shaman’s Secrets](https://www.archaeology.org/issues/501-2303/features/11195-germany-mesolithic-shaman-burial)
 * [2023-03-27, 12:10:09](https://news.ycombinator.com/item?id=35325634) - [Tectonic – A modern, complete, self-contained Tex engine with Unicode support](https://tectonic-typesetting.github.io/en-US/)
 * [2023-03-27, 10:48:04](https://news.ycombinator.com/item?id=35325038) - [Intel 80386 CPU Information](https://www.pcjs.org/documents/manuals/intel/80386/)
 * [2023-03-27, 05:46:41](https://news.ycombinator.com/item?id=35323279) - [Fugue: A unified interface for distributed computing](https://github.com/fugue-project/fugue)
+* [2023-03-27, 05:18:29](https://news.ycombinator.com/item?id=35323107) - [Medieval Arabic surgeon Ibn al Quff&#x27;s account on surgical pain relief](https://journals.lww.com/anar/fulltext/2010/04010/historical_essay__an_arabic_surgeon,_ibn_al_quff_s.3.aspx)
 
 ## [Archives](archives/index.md)
 
