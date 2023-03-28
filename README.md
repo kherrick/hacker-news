@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-28, 19:16:19](https://news.ycombinator.com/item?id=35346352) - [&#x27;Tylenol Lite&#x27; – Will a Safer New Useless Painkiller Replace a Dangerous Old One](https://www.acsh.org/news/2022/08/22/tylenol-lite-will-safer-new-useless-painkiller-replace-dangerous-old-one-16500)
+* [2023-03-28, 19:00:44](https://news.ycombinator.com/item?id=35346137) - [Windows 11 KB5023778 update adds promotions to the Start menu](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5023778-update-adds-promotions-to-the-start-menu/)
 * [2023-03-28, 18:25:13](https://news.ycombinator.com/item?id=35345612) - [EU Commission Doesn&#x27;t Understand What&#x27;s Written in Its Own Chat Control Bill](https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/)
 * [2023-03-28, 17:53:51](https://news.ycombinator.com/item?id=35345117) - [Infinite Mac: Infinitemac.org](https://blog.persistent.info/2023/03/infinitemac-dot-org.html)
 * [2023-03-28, 17:36:02](https://news.ycombinator.com/item?id=35344831) - [UK Sets Up Fake Booter Sites to Muddy DDoS Market](https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/)
@@ -19,7 +21,6 @@
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
 * [2023-03-28, 14:16:24](https://news.ycombinator.com/item?id=35341471) - [How to Polis, 101, Part IIb: Archons](https://acoup.blog/2023/03/24/collections-how-to-polis-101-part-iib-archons/)
 * [2023-03-28, 12:54:03](https://news.ycombinator.com/item?id=35340171) - [Android app from China executed 0-day exploit on millions of devices](https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/)
-* [2023-03-28, 12:54:01](https://news.ycombinator.com/item?id=35340169) - [Show HN: I built developer tooling for the Airtable API that I needed](https://airwalker.io)
 * [2023-03-28, 12:11:08](https://news.ycombinator.com/item?id=35339521) - [Random Fuzzy Thoughts](https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/)
 * [2023-03-28, 11:33:03](https://news.ycombinator.com/item?id=35339010) - [Open Sourcing Cody – Sourcegraph&#x27;s AI-enabled editor assistant](https://about.sourcegraph.com/blog/open-sourcing-cody)
 * [2023-03-28, 08:03:45](https://news.ycombinator.com/item?id=35337296) - [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
@@ -28,7 +29,6 @@
 * [2023-03-28, 05:51:30](https://news.ycombinator.com/item?id=35336465) - [The Shaman’s Secrets](https://www.archaeology.org/issues/501-2303/features/11195-germany-mesolithic-shaman-burial)
 * [2023-03-27, 12:10:09](https://news.ycombinator.com/item?id=35325634) - [Tectonic – A modern, complete, self-contained Tex engine with Unicode support](https://tectonic-typesetting.github.io/en-US/)
 * [2023-03-27, 10:48:04](https://news.ycombinator.com/item?id=35325038) - [Intel 80386 CPU Information](https://www.pcjs.org/documents/manuals/intel/80386/)
-* [2023-03-27, 09:03:36](https://news.ycombinator.com/item?id=35324476) - [An early 3D viewer (1986)](https://www.fano.co.uk/meccano/view3d.html)
 * [2023-03-27, 05:46:41](https://news.ycombinator.com/item?id=35323279) - [Fugue: A unified interface for distributed computing](https://github.com/fugue-project/fugue)
 
 ## [Archives](archives/index.md)
