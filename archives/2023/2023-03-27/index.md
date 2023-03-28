@@ -59,6 +59,7 @@
 * [2023-03-27, 11:11:34](https://news.ycombinator.com/item?id=35325193) - [OBS Studio Lands AV1 and HEVC RTMP Streaming Support](https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP)
 * [2023-03-27, 10:48:04](https://news.ycombinator.com/item?id=35325038) - [Intel 80386 CPU Information](https://www.pcjs.org/documents/manuals/intel/80386/)
 * [2023-03-27, 10:31:10](https://news.ycombinator.com/item?id=35324938) - [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://blog.orhun.dev/alpine-packaging-setup/)
+* [2023-03-27, 10:21:17](https://news.ycombinator.com/item?id=35324881) - [Ask HN: How do I move forward after being laid off?](https://news.ycombinator.com/item?id=35324881)
 * [2023-03-27, 09:03:36](https://news.ycombinator.com/item?id=35324476) - [An early 3D viewer (1986)](https://www.fano.co.uk/meccano/view3d.html)
 * [2023-03-27, 08:56:56](https://news.ycombinator.com/item?id=35324430) - [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
 * [2023-03-27, 07:42:02](https://news.ycombinator.com/item?id=35323960) - [Show HN: SlickGPT](https://slickgpt.vercel.app/)

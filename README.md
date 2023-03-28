@@ -25,9 +25,9 @@
 * [2023-03-28, 12:54:03](https://news.ycombinator.com/item?id=35340171) - [Android app from China executed 0-day exploit on millions of devices](https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/)
 * [2023-03-28, 11:33:03](https://news.ycombinator.com/item?id=35339010) - [Open Sourcing Cody – Sourcegraph&#x27;s AI-enabled editor assistant](https://about.sourcegraph.com/blog/open-sourcing-cody)
 * [2023-03-28, 08:03:45](https://news.ycombinator.com/item?id=35337296) - [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
-* [2023-03-28, 05:51:30](https://news.ycombinator.com/item?id=35336465) - [The Shaman’s Secrets](https://www.archaeology.org/issues/501-2303/features/11195-germany-mesolithic-shaman-burial)
 * [2023-03-27, 12:10:09](https://news.ycombinator.com/item?id=35325634) - [Tectonic – A modern, complete, self-contained Tex engine with Unicode support](https://tectonic-typesetting.github.io/en-US/)
 * [2023-03-27, 10:48:04](https://news.ycombinator.com/item?id=35325038) - [Intel 80386 CPU Information](https://www.pcjs.org/documents/manuals/intel/80386/)
+* [2023-03-27, 10:21:17](https://news.ycombinator.com/item?id=35324881) - [Ask HN: How do I move forward after being laid off?](https://news.ycombinator.com/item?id=35324881)
 * [2023-03-27, 05:46:41](https://news.ycombinator.com/item?id=35323279) - [Fugue: A unified interface for distributed computing](https://github.com/fugue-project/fugue)
 * [2023-03-27, 05:18:29](https://news.ycombinator.com/item?id=35323107) - [Medieval Arabic surgeon Ibn al Quff&#x27;s account on surgical pain relief](https://journals.lww.com/anar/fulltext/2010/04010/historical_essay__an_arabic_surgeon,_ibn_al_quff_s.3.aspx)
 
