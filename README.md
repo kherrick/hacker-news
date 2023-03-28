@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-28, 19:16:19](https://news.ycombinator.com/item?id=35346352) - [&#x27;Tylenol Lite&#x27; – Will a Safer New Useless Painkiller Replace a Dangerous Old One](https://www.acsh.org/news/2022/08/22/tylenol-lite-will-safer-new-useless-painkiller-replace-dangerous-old-one-16500)
+* [2023-03-28, 20:47:28](https://news.ycombinator.com/item?id=35347588) - [Open Flamingo – open framework to train multimodal LLMs](https://laion.ai/blog/open-flamingo/)
+* [2023-03-28, 20:09:48](https://news.ycombinator.com/item?id=35347092) - [Ivy League Prices Are Pushing $90k a Year](https://www.msn.com/en-us/money/careersandeducation/ivy-league-prices-are-pushing-90-000-a-year/ar-AA19bXsb)
 * [2023-03-28, 19:00:44](https://news.ycombinator.com/item?id=35346137) - [Windows 11 KB5023778 update adds promotions to the Start menu](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5023778-update-adds-promotions-to-the-start-menu/)
 * [2023-03-28, 18:25:13](https://news.ycombinator.com/item?id=35345612) - [EU Commission doesn&#x27;t understand what&#x27;s written in its own chat control bill](https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/)
 * [2023-03-28, 17:53:51](https://news.ycombinator.com/item?id=35345117) - [Infinite Mac: Infinitemac.org](https://blog.persistent.info/2023/03/infinitemac-dot-org.html)
@@ -24,7 +25,6 @@
 * [2023-03-28, 12:11:08](https://news.ycombinator.com/item?id=35339521) - [Random Fuzzy Thoughts](https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/)
 * [2023-03-28, 11:33:03](https://news.ycombinator.com/item?id=35339010) - [Open Sourcing Cody – Sourcegraph&#x27;s AI-enabled editor assistant](https://about.sourcegraph.com/blog/open-sourcing-cody)
 * [2023-03-28, 08:03:45](https://news.ycombinator.com/item?id=35337296) - [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
-* [2023-03-28, 06:15:00](https://news.ycombinator.com/item?id=35336632) - [Your &quot;simulation&quot; might not need state](https://www.onsclom.net/posts/simulator-state)
 * [2023-03-28, 05:51:30](https://news.ycombinator.com/item?id=35336465) - [The Shaman’s Secrets](https://www.archaeology.org/issues/501-2303/features/11195-germany-mesolithic-shaman-burial)
 * [2023-03-27, 12:10:09](https://news.ycombinator.com/item?id=35325634) - [Tectonic – A modern, complete, self-contained Tex engine with Unicode support](https://tectonic-typesetting.github.io/en-US/)
 * [2023-03-27, 10:48:04](https://news.ycombinator.com/item?id=35325038) - [Intel 80386 CPU Information](https://www.pcjs.org/documents/manuals/intel/80386/)

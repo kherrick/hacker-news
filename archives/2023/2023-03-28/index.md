@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 20:47:28](https://news.ycombinator.com/item?id=35347588) - [Open Flamingo – open framework to train multimodal LLMs](https://laion.ai/blog/open-flamingo/)
+* [2023-03-28, 20:09:48](https://news.ycombinator.com/item?id=35347092) - [Ivy League Prices Are Pushing $90k a Year](https://www.msn.com/en-us/money/careersandeducation/ivy-league-prices-are-pushing-90-000-a-year/ar-AA19bXsb)
 * [2023-03-28, 19:16:19](https://news.ycombinator.com/item?id=35346352) - [&#x27;Tylenol Lite&#x27; – Will a Safer New Useless Painkiller Replace a Dangerous Old One](https://www.acsh.org/news/2022/08/22/tylenol-lite-will-safer-new-useless-painkiller-replace-dangerous-old-one-16500)
 * [2023-03-28, 19:00:44](https://news.ycombinator.com/item?id=35346137) - [Windows 11 KB5023778 update adds promotions to the Start menu](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5023778-update-adds-promotions-to-the-start-menu/)
 * [2023-03-28, 18:25:13](https://news.ycombinator.com/item?id=35345612) - [EU Commission Doesn&#x27;t Understand What&#x27;s Written in Its Own Chat Control Bill](https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/)
