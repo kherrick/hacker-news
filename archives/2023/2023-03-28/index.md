@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 09:54:03](https://news.ycombinator.com/item?id=35338138) - [Swipe (YC S21) Is Hiring](https://www.ycombinator.com/companies/swipe-2/jobs/VA7o3OW-android-intern)
+* [2023-03-28, 09:47:30](https://news.ycombinator.com/item?id=35338085) - [Agatha Christie classics latest to be rewritten for “modern sensitivities”](https://www.telegraph.co.uk/news/2023/03/25/agatha-christie-classics-latest-rewritten-modern-sensitivities/)
 * [2023-03-28, 09:12:34](https://news.ycombinator.com/item?id=35337798) - [Push notifications are now supported cross-browser](https://web.dev/push-notifications-in-all-modern-browsers/)
 * [2023-03-28, 08:56:57](https://news.ycombinator.com/item?id=35337676) - [Taking Magnesium tablet everyday changes my life](https://news.ycombinator.com/item?id=35337676)
 * [2023-03-28, 08:03:45](https://news.ycombinator.com/item?id=35337296) - [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
