@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-28, 14:51:35](https://news.ycombinator.com/item?id=35342056) - [Amazon starts flagging frequently returned products that you maybe shouldn’t buy](https://www.theverge.com/2023/3/28/23659868/amazon-returns-warning-product-reviews-tag-feature)
-* [2023-03-28, 14:28:22](https://news.ycombinator.com/item?id=35341680) - [Starbucks Illegally Withheld Raises and Tips from Union Workers, NLRB Says](https://perfectunion.us/starbucks-nlrb-credit-card-tip-complaint/)
+* [2023-03-28, 14:28:22](https://news.ycombinator.com/item?id=35341680) - [Starbucks illegally withheld raises and tips from union workers, NLRB says](https://perfectunion.us/starbucks-nlrb-credit-card-tip-complaint/)
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
-* [2023-03-28, 14:09:04](https://news.ycombinator.com/item?id=35341354) - [Alibaba to Split into Six Units](https://www.reuters.com/technology/alibaba-split-into-six-units-2023-03-28/)
 * [2023-03-28, 13:53:25](https://news.ycombinator.com/item?id=35341101) - [Banksy ship saving migrants at sea detained in Italy for &#x27;breaking rules&#x27;](https://www.express.co.uk/news/world/1751594/banksy-ship-migrants-italy-detained)
+* [2023-03-28, 13:51:29](https://news.ycombinator.com/item?id=35341065) - [Amazon just opened up its Sidewalk network](https://www.theverge.com/2023/3/28/23659191/amazon-sidewalk-network-coverage)
 * [2023-03-28, 12:54:01](https://news.ycombinator.com/item?id=35340169) - [Show HN: I built developer tooling for the Airtable API that I needed](https://airwalker.io)
 * [2023-03-28, 12:42:03](https://news.ycombinator.com/item?id=35339968) - [Show HN: An all-in-one app designed for deep work and to build atomic habits](https://www.floutwork.com)
 * [2023-03-28, 12:22:50](https://news.ycombinator.com/item?id=35339668) - [Alibaba to split into six separate groups in biggest shake-up](https://www.wsj.com/articles/alibaba-to-split-into-six-separate-groups-in-biggest-shake-up-9ce2201f)

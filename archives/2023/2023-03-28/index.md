@@ -9,6 +9,7 @@
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
 * [2023-03-28, 14:09:04](https://news.ycombinator.com/item?id=35341354) - [Alibaba to Split into Six Units](https://www.reuters.com/technology/alibaba-split-into-six-units-2023-03-28/)
 * [2023-03-28, 13:53:25](https://news.ycombinator.com/item?id=35341101) - [Banksy ship saving migrants at sea detained in Italy for &#x27;breaking rules&#x27;](https://www.express.co.uk/news/world/1751594/banksy-ship-migrants-italy-detained)
+* [2023-03-28, 13:51:29](https://news.ycombinator.com/item?id=35341065) - [Amazon just opened up its Sidewalk network](https://www.theverge.com/2023/3/28/23659191/amazon-sidewalk-network-coverage)
 * [2023-03-28, 13:28:25](https://news.ycombinator.com/item?id=35340721) - [Current Causes of Death in Children and Adolescents in the United States](https://www.nejm.org/doi/full/10.1056/nejmc2201761)
 * [2023-03-28, 13:22:27](https://news.ycombinator.com/item?id=35340627) - [Ex-Meta recruiter was paid $190K ‘to do nothing’ ahead of mass layoffs](https://nypost.com/2023/03/22/ex-meta-recruiter-says-she-was-paid-190k-to-do-nothing/)
 * [2023-03-28, 12:54:03](https://news.ycombinator.com/item?id=35340171) - [Android app from China executed 0-day exploit on millions of devices](https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/)
