@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 05:21:58](https://news.ycombinator.com/item?id=35336253) - [My steam account was deleted after admitting that a relative gave me the account](https://old.reddit.com/r/gaming/comments/1247hyh/my_steam_account_was_deleted_after_admitting_that/)
 * [2023-03-28, 03:14:47](https://news.ycombinator.com/item?id=35335442) - [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
 * [2023-03-28, 02:55:45](https://news.ycombinator.com/item?id=35335302) - [OpenAI Usage Policies](https://openai.com/policies/usage-policies)
 * [2023-03-28, 02:48:21](https://news.ycombinator.com/item?id=35335240) - [Can you buy the same flight for less if you use a VPN?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)
