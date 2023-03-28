@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 21:12:13](https://news.ycombinator.com/item?id=35347925) - [Senate Bill to Ban TikTok](https://www.congress.gov/bill/118th-congress/senate-bill/686/text?s=1&r=15)
 * [2023-03-28, 21:00:12](https://news.ycombinator.com/item?id=35347760) - [SafeBeat (YC S21) Is Hiring](https://www.ycombinator.com/companies/safebeat/jobs/jeOKzr2-product-manager-advisor)
 * [2023-03-28, 20:51:51](https://news.ycombinator.com/item?id=35347647) - [New health insurance “transparency data” looks suspiciously wrong](https://www.dolthub.com/blog/2023-03-23-illusion-of-transparency/)
 * [2023-03-28, 20:47:28](https://news.ycombinator.com/item?id=35347588) - [Open Flamingo – open framework to train multimodal LLMs](https://laion.ai/blog/open-flamingo/)
@@ -24,6 +25,7 @@
 * [2023-03-28, 17:00:10](https://news.ycombinator.com/item?id=35344225) - [Snippyly (YC W22) Is Hiring Front end SWEs to make the web multiplayer](https://www.ycombinator.com/companies/snippyly/jobs)
 * [2023-03-28, 16:54:03](https://news.ycombinator.com/item?id=35344108) - [Three dead after dog falls 13 floors (1899)](https://trove.nla.gov.au/newspaper/article/102017012)
 * [2023-03-28, 16:37:30](https://news.ycombinator.com/item?id=35343825) - [Belgian man dies by suicide following exchanges with ChatGPT](https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt)
+* [2023-03-28, 16:36:23](https://news.ycombinator.com/item?id=35343791) - [LLMs and GPT: Some of my favorite learning materials](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d)
 * [2023-03-28, 16:34:15](https://news.ycombinator.com/item?id=35343763) - [Cerebras-GPT: A Family of Open, Compute-Efficient, Large Language Models](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
 * [2023-03-28, 16:33:19](https://news.ycombinator.com/item?id=35343748) - [Tell HN: Reddit Has Disabled i.reddit.com](https://news.ycombinator.com/item?id=35343748)
 * [2023-03-28, 16:24:12](https://news.ycombinator.com/item?id=35343590) - [Geothermal Power, Cheap and Clean, Could Help Run Japan. So Why Doesn’t It?](https://www.nytimes.com/2023/03/22/climate/japan-hot-springs-geothermal-energy.html)
