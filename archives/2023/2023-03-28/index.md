@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 12:22:50](https://news.ycombinator.com/item?id=35339668) - [Alibaba to Split into Six Separate Groups in Biggest Shake-Up](https://www.wsj.com/articles/alibaba-to-split-into-six-separate-groups-in-biggest-shake-up-9ce2201f)
+* [2023-03-28, 12:11:08](https://news.ycombinator.com/item?id=35339521) - [Random Fuzzy Thoughts](https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/)
+* [2023-03-28, 12:01:06](https://news.ycombinator.com/item?id=35339377) - [Toko (YC W22) Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35339377)
+* [2023-03-28, 11:59:15](https://news.ycombinator.com/item?id=35339347) - [EU countries approve 2035 phaseout of CO2-emitting cars](https://www.reuters.com/business/autos-transportation/eu-countries-poised-approve-2035-phaseout-co2-emitting-cars-2023-03-28/)
 * [2023-03-28, 11:13:21](https://news.ycombinator.com/item?id=35338823) - [You&#x27;re making me buy a new phone](https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone?pk_campaign=rss)
 * [2023-03-28, 11:05:10](https://news.ycombinator.com/item?id=35338757) - [Smart urinals stuck on boot at a gas station in Germany](https://old.reddit.com/r/PBSOD/comments/1244p9k/smart_urinals_stuck_on_boot_at_a_gas_station_in/)
 * [2023-03-28, 10:48:12](https://news.ycombinator.com/item?id=35338622) - [Stopped caring about personal development in tech after seeing gpt4 in action](https://news.ycombinator.com/item?id=35338622)
