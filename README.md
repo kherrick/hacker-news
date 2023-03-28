@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-28, 06:58:24](https://news.ycombinator.com/item?id=35336895) - [A One-Take Thriller Shot on an FPV Drone](https://laughingsquid.com/one-shot-thriller-shot-on-fpv-drone/)
 * [2023-03-28, 05:43:08](https://news.ycombinator.com/item?id=35336402) - [Trigonometric Functions in CSS](https://web.dev/css-trig-functions/)
 * [2023-03-28, 03:14:47](https://news.ycombinator.com/item?id=35335442) - [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
 * [2023-03-28, 02:48:21](https://news.ycombinator.com/item?id=35335240) - [Can you buy the same ticket at a lower price if you buy it from another country?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)
@@ -29,7 +30,6 @@
 * [2023-03-27, 04:01:44](https://news.ycombinator.com/item?id=35322725) - [Banking on the Seaweed Rush](https://hakaimagazine.com/features/banking-on-the-seaweed-rush/)
 * [2023-03-27, 03:39:04](https://news.ycombinator.com/item?id=35322599) - [The Diversity of Arabic Scripts](https://blogs.bl.uk/asian-and-african/2023/03/the-diversity-of-arabic-scripts.html)
 * [2023-03-26, 22:13:55](https://news.ycombinator.com/item?id=35320204) - [An ancient Indian Buddhist monk buried in Athens](https://greekreporter.com/2023/03/20/ancient-indian-buddhist-monk-athens/)
-* [2023-03-26, 21:28:24](https://news.ycombinator.com/item?id=35319824) - [How Should Compilers Explain Problems to Developers? (2018) [pdf]](https://static.barik.net/barik/publications/fse2018/barik_fse18.pdf)
 
 ## [Archives](archives/index.md)
 
