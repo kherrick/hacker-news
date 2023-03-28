@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 16:37:30](https://news.ycombinator.com/item?id=35343825) - [Belgian man dies by suicide following exchanges with ChatGPT](https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt)
 * [2023-03-28, 16:34:15](https://news.ycombinator.com/item?id=35343763) - [Cerebras-GPT: A Family of Open, Compute-Efficient, Large Language Models](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
+* [2023-03-28, 16:24:12](https://news.ycombinator.com/item?id=35343590) - [Geothermal Power, Cheap and Clean, Could Help Run Japan. So Why Doesn’t It?](https://www.nytimes.com/2023/03/22/climate/japan-hot-springs-geothermal-energy.html)
 * [2023-03-28, 16:19:48](https://news.ycombinator.com/item?id=35343495) - [Bicycle](https://ciechanow.ski/bicycle/)
 * [2023-03-28, 15:34:42](https://news.ycombinator.com/item?id=35342749) - [McKinsey Starts Eliminating 1,400 Roles This Week in a Rare Round of Job Cuts](https://www.bloomberg.com/news/articles/2023-03-28/mckinsey-starts-cutting-1-400-jobs-this-week-in-restructuring)
 * [2023-03-28, 15:32:35](https://news.ycombinator.com/item?id=35342708) - [Iceland long term visa for remote workers](https://island.is/en/get-long-term-visa-for-remote-workers)
