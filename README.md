@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-28, 21:00:12](https://news.ycombinator.com/item?id=35347760) - [SafeBeat (YC S21) Is Hiring](https://www.ycombinator.com/companies/safebeat/jobs/jeOKzr2-product-manager-advisor)
+* [2023-03-28, 20:51:51](https://news.ycombinator.com/item?id=35347647) - [New health insurance “transparency data” looks suspiciously wrong](https://www.dolthub.com/blog/2023-03-23-illusion-of-transparency/)
 * [2023-03-28, 20:47:28](https://news.ycombinator.com/item?id=35347588) - [Open Flamingo – open framework to train multimodal LLMs](https://laion.ai/blog/open-flamingo/)
 * [2023-03-28, 20:45:00](https://news.ycombinator.com/item?id=35347557) - [China reports human case of H3N8 bird flu](https://bnonews.com/index.php/2023/03/china-reports-human-case-of-h3n8-bird-flu/)
 * [2023-03-28, 20:43:18](https://news.ycombinator.com/item?id=35347540) - [Microsoft&#x27;s Software Is Malware](https://www.gnu.org/proprietary/malware-microsoft.en.html)
-* [2023-03-28, 20:09:48](https://news.ycombinator.com/item?id=35347092) - [Ivy League Prices Are Pushing $90k a Year](https://www.msn.com/en-us/money/careersandeducation/ivy-league-prices-are-pushing-90-000-a-year/ar-AA19bXsb)
 * [2023-03-28, 19:00:44](https://news.ycombinator.com/item?id=35346137) - [Windows 11 KB5023778 update adds promotions to the Start menu](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5023778-update-adds-promotions-to-the-start-menu/)
 * [2023-03-28, 18:25:13](https://news.ycombinator.com/item?id=35345612) - [EU Commission doesn&#x27;t understand what&#x27;s written in its own chat control bill](https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/)
 * [2023-03-28, 17:53:51](https://news.ycombinator.com/item?id=35345117) - [Infinite Mac: Infinitemac.org](https://blog.persistent.info/2023/03/infinitemac-dot-org.html)
