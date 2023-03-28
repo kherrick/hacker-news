@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 23:20:46](https://news.ycombinator.com/item?id=35349500) - [Rust Is a Scalable Language](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
 * [2023-03-28, 22:48:51](https://news.ycombinator.com/item?id=35349168) - [HuggingFace and Open Source AI Meetup in SFO Mar 31st](https://twitter.com/BrigitteTousi/status/1640771873985142786)
 * [2023-03-28, 21:51:10](https://news.ycombinator.com/item?id=35348452) - [The EV Transition Is Harder Than Anyone Thinks](https://spectrum.ieee.org/the-ev-transition-explained-2659602311)
 * [2023-03-28, 21:43:33](https://news.ycombinator.com/item?id=35348353) - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
