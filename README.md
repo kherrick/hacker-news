@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-28, 17:41:50](https://news.ycombinator.com/item?id=35344923) - [AI vs. AGI vs. Consciousness vs. Super-Intelligence vs. Agency](https://secondbreakfast.co/ai-vs-agi-vs-consciousness-vs-super-intelligence-vs-agency)
 * [2023-03-28, 17:17:56](https://news.ycombinator.com/item?id=35344514) - [Interaction Nets, Combinators, and Calculus – HVM](https://zicklag.github.io/blog/interaction-nets-combinators-calculus/)
 * [2023-03-28, 17:00:11](https://news.ycombinator.com/item?id=35344227) - [My4TH – A minimalistic FORTH computer with discrete CPU](http://mynor.org/my4th)
 * [2023-03-28, 17:00:10](https://news.ycombinator.com/item?id=35344225) - [Snippyly (YC W22) Is Hiring Front end SWEs to make the web multiplayer](https://www.ycombinator.com/companies/snippyly/jobs)
@@ -23,7 +24,6 @@
 * [2023-03-28, 11:33:03](https://news.ycombinator.com/item?id=35339010) - [Open Sourcing Cody – Sourcegraph&#x27;s AI-enabled editor assistant](https://about.sourcegraph.com/blog/open-sourcing-cody)
 * [2023-03-28, 08:03:45](https://news.ycombinator.com/item?id=35337296) - [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
 * [2023-03-28, 07:48:38](https://news.ycombinator.com/item?id=35337210) - [PayPal has restricted our account after we invoiced a key containing “ALEP”](https://twitter.com/littlesnitch/status/1640436716895870985)
-* [2023-03-28, 06:32:48](https://news.ycombinator.com/item?id=35336748) - [The TikTok ban is a betrayal of the open internet](https://www.theverge.com/23653141/tiktok-ban-bytedance-congress-hearing-first-amendment-open-internet)
 * [2023-03-28, 06:15:00](https://news.ycombinator.com/item?id=35336632) - [Your &quot;simulation&quot; might not need state](https://www.onsclom.net/posts/simulator-state)
 * [2023-03-28, 05:51:30](https://news.ycombinator.com/item?id=35336465) - [The Shaman’s Secrets](https://www.archaeology.org/issues/501-2303/features/11195-germany-mesolithic-shaman-burial)
 * [2023-03-28, 02:48:21](https://news.ycombinator.com/item?id=35335240) - [Can you buy the same ticket at a lower price if you buy it from another country?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)
