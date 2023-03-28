@@ -16,7 +16,7 @@
 * [2023-03-28, 01:55:44](https://news.ycombinator.com/item?id=35334848) - [Show HN: Regex.ai – AI-powered regular expression generator](https://regex.ai/)
 * [2023-03-28, 01:26:06](https://news.ycombinator.com/item?id=35334613) - [Wavelength](https://daringfireball.net/2023/03/wavelength)
 * [2023-03-28, 00:48:33](https://news.ycombinator.com/item?id=35334299) - [The perils of polishing old Fortran libraries](https://fortran-lang.discourse.group/t/the-perils-of-polishing-long/5444)
-* [2023-03-28, 00:23:20](https://news.ycombinator.com/item?id=35334124) - [Parsing the .DS_Store File Format](https://0day.work/parsing-the-ds_store-file-format/)
+* [2023-03-28, 00:23:20](https://news.ycombinator.com/item?id=35334124) - [Parsing the .DS_Store File Format (2018)](https://0day.work/parsing-the-ds_store-file-format/)
 * [2023-03-27, 21:00:25](https://news.ycombinator.com/item?id=35332531) - [Apple Detection of Flashing Lights](https://github.com/apple/VideoFlashingReduction)
 * [2023-03-27, 21:00:09](https://news.ycombinator.com/item?id=35332518) - [Sieve (YC W22) is hiring hackers to build AI infrastructure for video](https://sievedata.com/about)
 * [2023-03-27, 19:43:45](https://news.ycombinator.com/item?id=35331372) - [Artificial Intelligence Searches for Extraterrestrial Intelligence](https://www.supercluster.com/editorial/artificial-intelligence-searches-for-extraterrestrial-intelligence/)
