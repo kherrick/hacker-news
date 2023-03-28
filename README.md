@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-28, 17:53:51](https://news.ycombinator.com/item?id=35345117) - [Infinite Mac: Infinitemac.org](https://blog.persistent.info/2023/03/infinitemac-dot-org.html)
-* [2023-03-28, 17:41:50](https://news.ycombinator.com/item?id=35344923) - [AI vs. AGI vs. Consciousness vs. Super-Intelligence vs. Agency](https://secondbreakfast.co/ai-vs-agi-vs-consciousness-vs-super-intelligence-vs-agency)
 * [2023-03-28, 17:36:02](https://news.ycombinator.com/item?id=35344831) - [UK Sets Up Fake Booter Sites to Muddy DDoS Market](https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/)
 * [2023-03-28, 17:35:47](https://news.ycombinator.com/item?id=35344825) - [Keeping up with the overwhelming pace of AI innovation](https://ryanshannon.substack.com/p/keeping-up-with-the-overwhelming)
 * [2023-03-28, 17:33:08](https://news.ycombinator.com/item?id=35344787) - [Show HN: A fully open-source (Apache 2.0)implementation of llama](https://github.com/Lightning-AI/lit-llama)
@@ -27,6 +26,7 @@
 * [2023-03-28, 11:33:03](https://news.ycombinator.com/item?id=35339010) - [Open Sourcing Cody – Sourcegraph&#x27;s AI-enabled editor assistant](https://about.sourcegraph.com/blog/open-sourcing-cody)
 * [2023-03-28, 08:03:45](https://news.ycombinator.com/item?id=35337296) - [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
 * [2023-03-28, 07:48:38](https://news.ycombinator.com/item?id=35337210) - [PayPal has restricted our account after we invoiced a key containing “ALEP”](https://twitter.com/littlesnitch/status/1640436716895870985)
+* [2023-03-28, 06:15:00](https://news.ycombinator.com/item?id=35336632) - [Your &quot;simulation&quot; might not need state](https://www.onsclom.net/posts/simulator-state)
 * [2023-03-28, 05:51:30](https://news.ycombinator.com/item?id=35336465) - [The Shaman’s Secrets](https://www.archaeology.org/issues/501-2303/features/11195-germany-mesolithic-shaman-burial)
 * [2023-03-27, 12:10:09](https://news.ycombinator.com/item?id=35325634) - [Tectonic – A modern, complete, self-contained Tex engine with Unicode support](https://tectonic-typesetting.github.io/en-US/)
 * [2023-03-27, 05:46:41](https://news.ycombinator.com/item?id=35323279) - [Fugue: A unified interface for distributed computing](https://github.com/fugue-project/fugue)
