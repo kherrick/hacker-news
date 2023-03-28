@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-28, 09:12:34](https://news.ycombinator.com/item?id=35337798) - [Push notifications are now supported cross-browser](https://web.dev/push-notifications-in-all-modern-browsers/)
+* [2023-03-28, 08:56:57](https://news.ycombinator.com/item?id=35337676) - [Taking Magnesium tablet everyday changes my life](https://news.ycombinator.com/item?id=35337676)
 * [2023-03-28, 08:03:45](https://news.ycombinator.com/item?id=35337296) - [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
 * [2023-03-28, 07:48:38](https://news.ycombinator.com/item?id=35337210) - [Little Snitch: PayPal has restricted our business account, threatens to close](https://twitter.com/littlesnitch/status/1640436716895870985)
 * [2023-03-28, 07:38:48](https://news.ycombinator.com/item?id=35337146) - [Red Hat is 30 years old](https://www.redhat.com/en/blog/red-hat-30th-anniversary-celebrating-red-hat-day-north-carolina)
@@ -7,7 +9,6 @@
 * [2023-03-28, 06:15:00](https://news.ycombinator.com/item?id=35336632) - [Your Code Might Not Need State](https://www.onsclom.net/posts/simulator-state)
 * [2023-03-28, 06:11:11](https://news.ycombinator.com/item?id=35336610) - [OpenPGP master key on Nitrokey Start](https://blog.josefsson.org/2023/03/27/openpgp-master-key-on-nitrokey-start/)
 * [2023-03-28, 05:43:08](https://news.ycombinator.com/item?id=35336402) - [Trigonometric Functions in CSS](https://web.dev/css-trig-functions/)
-* [2023-03-28, 03:14:47](https://news.ycombinator.com/item?id=35335442) - [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
 * [2023-03-28, 02:48:21](https://news.ycombinator.com/item?id=35335240) - [Can you buy the same ticket at a lower price if you buy it from another country?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)
 * [2023-03-28, 02:39:32](https://news.ycombinator.com/item?id=35335165) - [A brief history of APFS (Apple file system) in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
 * [2023-03-28, 02:31:07](https://news.ycombinator.com/item?id=35335097) - [For the first time, the Fed is losing money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
@@ -15,7 +16,6 @@
 * [2023-03-28, 01:55:44](https://news.ycombinator.com/item?id=35334848) - [Show HN: Regex.ai – AI-powered regular expression generator](https://regex.ai/)
 * [2023-03-28, 01:26:06](https://news.ycombinator.com/item?id=35334613) - [Wavelength](https://daringfireball.net/2023/03/wavelength)
 * [2023-03-28, 00:48:33](https://news.ycombinator.com/item?id=35334299) - [The perils of polishing old Fortran libraries](https://fortran-lang.discourse.group/t/the-perils-of-polishing-long/5444)
-* [2023-03-28, 00:25:31](https://news.ycombinator.com/item?id=35334135) - [Clearview AI used nearly 1M times by US police, it tells the BBC](https://www.bbc.com/news/technology-65057011)
 * [2023-03-28, 00:23:20](https://news.ycombinator.com/item?id=35334124) - [Parsing the .DS_Store File Format](https://0day.work/parsing-the-ds_store-file-format/)
 * [2023-03-27, 21:00:25](https://news.ycombinator.com/item?id=35332531) - [Apple Detection of Flashing Lights](https://github.com/apple/VideoFlashingReduction)
 * [2023-03-27, 21:00:09](https://news.ycombinator.com/item?id=35332518) - [Sieve (YC W22) is hiring hackers to build AI infrastructure for video](https://sievedata.com/about)

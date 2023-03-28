@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 09:12:34](https://news.ycombinator.com/item?id=35337798) - [Push notifications are now supported cross-browser](https://web.dev/push-notifications-in-all-modern-browsers/)
+* [2023-03-28, 08:56:57](https://news.ycombinator.com/item?id=35337676) - [Taking Magnesium tablet everyday changes my life](https://news.ycombinator.com/item?id=35337676)
 * [2023-03-28, 08:03:45](https://news.ycombinator.com/item?id=35337296) - [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
 * [2023-03-28, 07:48:38](https://news.ycombinator.com/item?id=35337210) - [Little Snitch: PayPal has restricted our business account, threatens to close](https://twitter.com/littlesnitch/status/1640436716895870985)
 * [2023-03-28, 07:38:48](https://news.ycombinator.com/item?id=35337146) - [Red Hat is 30 years old](https://www.redhat.com/en/blog/red-hat-30th-anniversary-celebrating-red-hat-day-north-carolina)
