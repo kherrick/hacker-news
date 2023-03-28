@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 11:13:21](https://news.ycombinator.com/item?id=35338823) - [You&#x27;re making me buy a new phone](https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone?pk_campaign=rss)
 * [2023-03-28, 11:05:10](https://news.ycombinator.com/item?id=35338757) - [Smart urinals stuck on boot at a gas station in Germany](https://old.reddit.com/r/PBSOD/comments/1244p9k/smart_urinals_stuck_on_boot_at_a_gas_station_in/)
+* [2023-03-28, 10:48:12](https://news.ycombinator.com/item?id=35338622) - [Stopped caring about personal development in tech after seeing gpt4 in action](https://news.ycombinator.com/item?id=35338622)
 * [2023-03-28, 09:55:14](https://news.ycombinator.com/item?id=35338151) - [Initialization in Modern C++ (295 pages)](https://old.reddit.com/r/cpp/comments/1242djf/295_pages_on_initialization_in_modern_c/)
 * [2023-03-28, 09:54:03](https://news.ycombinator.com/item?id=35338138) - [Swipe (YC S21) Is Hiring](https://www.ycombinator.com/companies/swipe-2/jobs/VA7o3OW-android-intern)
 * [2023-03-28, 09:47:30](https://news.ycombinator.com/item?id=35338085) - [Agatha Christie classics latest to be rewritten for “modern sensitivities”](https://www.telegraph.co.uk/news/2023/03/25/agatha-christie-classics-latest-rewritten-modern-sensitivities/)
