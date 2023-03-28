@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-03-28, 15:01:43",
+      "https://news.ycombinator.com/item?id=35342195"
+    ],
+    [
+      "Nuenv: An experimental Nushell builder for Nix packages",
+      "https://determinate.systems/posts/nuenv"
+    ]
+  ],
+  [
+    [
       "2023-03-28, 14:51:35",
       "https://news.ycombinator.com/item?id=35342056"
     ],
     [
       "Amazon starts flagging frequently returned products that you maybe shouldn’t buy",
       "https://www.theverge.com/2023/3/28/23659868/amazon-returns-warning-product-reviews-tag-feature"
+    ]
+  ],
+  [
+    [
+      "2023-03-28, 14:43:47",
+      "https://news.ycombinator.com/item?id=35341943"
+    ],
+    [
+      "I made $3k in 16 attempts to launch my SaaS",
+      "https://www.indiehackers.com/post/i-made-3-000-in-16-attempts-to-launch-my-saas-06ab0a9f2a"
     ]
   ],
   [
@@ -27,26 +47,6 @@
     [
       "Launch HN: Metal (YC W23) – Embeddings as a Service",
       "https://news.ycombinator.com/item?id=35341514"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 13:53:25",
-      "https://news.ycombinator.com/item?id=35341101"
-    ],
-    [
-      "Banksy ship saving migrants at sea detained in Italy for &#x27;breaking rules&#x27;",
-      "https://www.express.co.uk/news/world/1751594/banksy-ship-migrants-italy-detained"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 13:51:29",
-      "https://news.ycombinator.com/item?id=35341065"
-    ],
-    [
-      "Amazon just opened up its Sidewalk network",
-      "https://www.theverge.com/2023/3/28/23659191/amazon-sidewalk-network-coverage"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "Toko (YC W22) Is Hiring a Founding Engineer to Teach English with AI",
       "https://news.ycombinator.com/item?id=35339377"
+    ]
+  ],
+  [
+    [
+      "2023-03-28, 11:33:03",
+      "https://news.ycombinator.com/item?id=35339010"
+    ],
+    [
+      "Open Sourcing Cody – Sourcegraph&#x27;s AI-enabled editor assistant",
+      "https://about.sourcegraph.com/blog/open-sourcing-cody"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-03-28, 02:48:21",
-      "https://news.ycombinator.com/item?id=35335240"
-    ],
-    [
-      "Can you buy the same ticket at a lower price if you buy it from another country?",
-      "https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr"
-    ]
-  ],
-  [
-    [
       "2023-03-28, 02:39:32",
       "https://news.ycombinator.com/item?id=35335165"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-03-28, 00:23:20",
-      "https://news.ycombinator.com/item?id=35334124"
-    ],
-    [
-      "Parsing the .DS_Store File Format (2018)",
-      "https://0day.work/parsing-the-ds_store-file-format/"
-    ]
-  ],
-  [
-    [
       "2023-03-27, 17:55:10",
       "https://news.ycombinator.com/item?id=35329950"
     ],
@@ -297,6 +287,16 @@
     [
       "A student&#x27;s guide to startups (2006)",
       "http://www.paulgraham.com/mit.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 05:46:41",
+      "https://news.ycombinator.com/item?id=35323279"
+    ],
+    [
+      "Fugue: A unified interface for distributed computing",
+      "https://github.com/fugue-project/fugue"
     ]
   ]
 ]
