@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 17:00:11](https://news.ycombinator.com/item?id=35344227) - [My4TH – A minimalistic FORTH computer with discrete CPU](http://mynor.org/my4th)
+* [2023-03-28, 17:00:10](https://news.ycombinator.com/item?id=35344225) - [Snippyly (YC W22) Is Hiring Front end SWEs to make the web multiplayer](https://www.ycombinator.com/companies/snippyly/jobs)
+* [2023-03-28, 16:54:03](https://news.ycombinator.com/item?id=35344108) - [Three dead after dog falls 13 floors (1899)](https://trove.nla.gov.au/newspaper/article/102017012)
 * [2023-03-28, 16:37:30](https://news.ycombinator.com/item?id=35343825) - [Belgian man dies by suicide following exchanges with ChatGPT](https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt)
 * [2023-03-28, 16:34:15](https://news.ycombinator.com/item?id=35343763) - [Cerebras-GPT: A Family of Open, Compute-Efficient, Large Language Models](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
+* [2023-03-28, 16:33:19](https://news.ycombinator.com/item?id=35343748) - [Tell HN: Reddit Has Disabled i.reddit.com](https://news.ycombinator.com/item?id=35343748)
 * [2023-03-28, 16:24:12](https://news.ycombinator.com/item?id=35343590) - [Geothermal Power, Cheap and Clean, Could Help Run Japan. So Why Doesn’t It?](https://www.nytimes.com/2023/03/22/climate/japan-hot-springs-geothermal-energy.html)
 * [2023-03-28, 16:19:48](https://news.ycombinator.com/item?id=35343495) - [Bicycle](https://ciechanow.ski/bicycle/)
+* [2023-03-28, 15:40:16](https://news.ycombinator.com/item?id=35342838) - [JWST gets best view yet of planet in hotly pursued star system](https://www.nature.com/articles/d41586-023-00876-7)
 * [2023-03-28, 15:34:42](https://news.ycombinator.com/item?id=35342749) - [McKinsey Starts Eliminating 1,400 Roles This Week in a Rare Round of Job Cuts](https://www.bloomberg.com/news/articles/2023-03-28/mckinsey-starts-cutting-1-400-jobs-this-week-in-restructuring)
 * [2023-03-28, 15:32:35](https://news.ycombinator.com/item?id=35342708) - [Iceland long term visa for remote workers](https://island.is/en/get-long-term-visa-for-remote-workers)
 * [2023-03-28, 15:31:21](https://news.ycombinator.com/item?id=35342691) - [Apple introduces Apple Pay Later](https://www.apple.com/newsroom/2023/03/apple-introduces-apple-pay-later/)
