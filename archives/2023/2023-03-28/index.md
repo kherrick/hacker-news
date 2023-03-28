@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 07:48:38](https://news.ycombinator.com/item?id=35337210) - [Little Snitch: PayPal has restricted our business account, threatens to close](https://twitter.com/littlesnitch/status/1640436716895870985)
 * [2023-03-28, 06:58:24](https://news.ycombinator.com/item?id=35336895) - [A One-Take Thriller Shot on an FPV Drone](https://laughingsquid.com/one-shot-thriller-shot-on-fpv-drone/)
+* [2023-03-28, 06:52:22](https://news.ycombinator.com/item?id=35336870) - [GitHub slashes engineering team in India](https://techcrunch.com/2023/03/27/github-slashes-engineering-team-in-india/)
+* [2023-03-28, 06:15:00](https://news.ycombinator.com/item?id=35336632) - [Your Code Might Not Need State](https://www.onsclom.net/posts/simulator-state)
 * [2023-03-28, 05:43:08](https://news.ycombinator.com/item?id=35336402) - [Trigonometric Functions in CSS](https://web.dev/css-trig-functions/)
 * [2023-03-28, 05:21:58](https://news.ycombinator.com/item?id=35336253) - [My steam account was deleted after admitting that a relative gave me the account](https://old.reddit.com/r/gaming/comments/1247hyh/my_steam_account_was_deleted_after_admitting_that/)
 * [2023-03-28, 03:14:47](https://news.ycombinator.com/item?id=35335442) - [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
