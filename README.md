@@ -24,12 +24,12 @@
 * [2023-03-28, 01:55:44](https://news.ycombinator.com/item?id=35334848) - [Show HN: Regex.ai – AI-powered regular expression generator](https://regex.ai/)
 * [2023-03-28, 01:47:20](https://news.ycombinator.com/item?id=35334792) - [Show HN: Document Q&amp;A with GPT: web, .pdf, .docx, etc.](https://klavier.ai/)
 * [2023-03-28, 01:39:02](https://news.ycombinator.com/item?id=35334719) - [ChatGPT outperforms crowd-workers for text-annotation tasks](https://arxiv.org/abs/2303.15056)
-* [2023-03-28, 01:26:06](https://news.ycombinator.com/item?id=35334613) - [Wavelength](https://daringfireball.net/2023/03/wavelength)
 * [2023-03-28, 00:48:33](https://news.ycombinator.com/item?id=35334299) - [The perils of polishing old Fortran libraries](https://fortran-lang.discourse.group/t/the-perils-of-polishing-long/5444)
-* [2023-03-28, 00:25:31](https://news.ycombinator.com/item?id=35334135) - [Clearview AI used nearly 1M times by US police, it tells the BBC](https://www.bbc.com/news/technology-65057011)
 * [2023-03-28, 00:23:20](https://news.ycombinator.com/item?id=35334124) - [Parsing the .DS_Store File Format (2018)](https://0day.work/parsing-the-ds_store-file-format/)
 * [2023-03-27, 17:55:10](https://news.ycombinator.com/item?id=35329950) - [Apple passwords deserve an app](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/)
 * [2023-03-27, 16:27:20](https://news.ycombinator.com/item?id=35328698) - [Launch HN: Play.ht (YC W23) – Generate and clone voices from 20 seconds of audio](https://news.ycombinator.com/item?id=35328698)
+* [2023-03-27, 12:17:40](https://news.ycombinator.com/item?id=35325693) - [Pirate Weather](http://pirateweather.net/en/latest/)
+* [2023-03-27, 05:57:56](https://news.ycombinator.com/item?id=35323349) - [A student&#x27;s guide to startups (2006)](http://www.paulgraham.com/mit.html)
 
 ## [Archives](archives/index.md)
 
