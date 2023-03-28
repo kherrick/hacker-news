@@ -16,12 +16,12 @@
 * [2023-03-28, 01:55:44](https://news.ycombinator.com/item?id=35334848) - [Show HN: Regex.ai – AI-powered regular expression generator](https://regex.ai/)
 * [2023-03-28, 01:26:06](https://news.ycombinator.com/item?id=35334613) - [Wavelength](https://daringfireball.net/2023/03/wavelength)
 * [2023-03-28, 00:48:33](https://news.ycombinator.com/item?id=35334299) - [The perils of polishing old Fortran libraries](https://fortran-lang.discourse.group/t/the-perils-of-polishing-long/5444)
+* [2023-03-28, 00:25:31](https://news.ycombinator.com/item?id=35334135) - [Clearview AI used nearly 1M times by US police, it tells the BBC](https://www.bbc.com/news/technology-65057011)
 * [2023-03-28, 00:23:20](https://news.ycombinator.com/item?id=35334124) - [Parsing the .DS_Store File Format (2018)](https://0day.work/parsing-the-ds_store-file-format/)
 * [2023-03-27, 21:00:25](https://news.ycombinator.com/item?id=35332531) - [Apple Detection of Flashing Lights](https://github.com/apple/VideoFlashingReduction)
 * [2023-03-27, 21:00:09](https://news.ycombinator.com/item?id=35332518) - [Sieve (YC W22) is hiring hackers to build AI infrastructure for video](https://sievedata.com/about)
 * [2023-03-27, 19:43:45](https://news.ycombinator.com/item?id=35331372) - [Artificial Intelligence Searches for Extraterrestrial Intelligence](https://www.supercluster.com/editorial/artificial-intelligence-searches-for-extraterrestrial-intelligence/)
 * [2023-03-27, 19:34:08](https://news.ycombinator.com/item?id=35331233) - [Show HN: Time-tracker that helps me with context switches and documentation](https://github.com/tech-branch/tsr)
-* [2023-03-27, 18:32:37](https://news.ycombinator.com/item?id=35330438) - [Employees are feeding sensitive data to ChatGPT, raising security fears](https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears)
 * [2023-03-27, 17:56:03](https://news.ycombinator.com/item?id=35329961) - [WebKit Features in Safari 16.4](https://webkit.org/blog/13966/webkit-features-in-safari-16-4/)
 * [2023-03-27, 17:55:10](https://news.ycombinator.com/item?id=35329950) - [Apple passwords deserve an app](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/)
 * [2023-03-27, 16:27:20](https://news.ycombinator.com/item?id=35328698) - [Launch HN: Play.ht (YC W23) – Generate and clone voices from 20 seconds of audio](https://news.ycombinator.com/item?id=35328698)
@@ -29,7 +29,7 @@
 * [2023-03-27, 14:31:54](https://news.ycombinator.com/item?id=35327136) - [After a decade, South Dakota&#x27;s Amish are moving on](https://www.mitchellrepublic.com/news/south-dakota/after-a-decade-south-dakotas-amish-are-moving-on)
 * [2023-03-27, 04:23:05](https://news.ycombinator.com/item?id=35322823) - [Science Museums Take Stock of 1.1B Objects from Around the World](https://www.nytimes.com/2023/03/23/science/science-museums-online-collections.html)
 * [2023-03-27, 04:01:44](https://news.ycombinator.com/item?id=35322725) - [Banking on the Seaweed Rush](https://hakaimagazine.com/features/banking-on-the-seaweed-rush/)
-* [2023-03-27, 03:39:04](https://news.ycombinator.com/item?id=35322599) - [The Diversity of Arabic Scripts](https://blogs.bl.uk/asian-and-african/2023/03/the-diversity-of-arabic-scripts.html)
+* [2023-03-26, 22:13:55](https://news.ycombinator.com/item?id=35320204) - [An ancient Indian Buddhist monk buried in Athens](https://greekreporter.com/2023/03/20/ancient-indian-buddhist-monk-athens/)
 
 ## [Archives](archives/index.md)
 
