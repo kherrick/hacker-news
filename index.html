@@ -129,6 +129,118 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="35341514">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=35341514"
+              >Launch HN: Metal (YC W23) – Embeddings as a Service</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-03-28 @ 14:18:40</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35341514"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.getmetal.io/">https://www.getmetal.io/</a>).
+              You can think of Metal as embeddings as a service. We help
+              developers use embeddings without needing to build out
+              infrastructure, storage, or tooling. Here’s a 2-minute overview:
+              <a
+                href="https://www.loom.com/share/39fb6df7fd73469eaf20b37248ceed0f"
+                >https://www.loom.com/share/39fb6df7fd73469eaf20b37248ceed0f</a
+              >
+              <p>
+                If you’re unfamiliar with embeddings, they are representations
+                of real world data expressed as a vector, where the position of
+                the vector can be compared to other vectors – thereby deriving
+                <i>meaning</i> from the data. They can be used to create things
+                like semantic search, recommender systems, clustering analysis,
+                classification, and more.
+              </p>
+              <p>
+                Working at companies like Datadog, Meta, and Spotify, we found
+                it frustrating to build ML apps. Lack of tooling,
+                infrastructure, and proper abstraction made working with ML
+                tedious and slow. To get features out the door we’ve had to
+                build data ingestion pipelines from scratch, manually maintain
+                live customer datasets, build observability to measure drift,
+                manage no-downtime deployments, and the list goes on. It took
+                months to get simple features in front of users and the
+                developer experience was terrible.
+              </p>
+              <p>
+                OpenAI, Hugging Face and others have brought models to the
+                masses, but the developer experience still needs to be improved.
+                To actually use embeddings, hitting APIs like OpenAI is just one
+                piece of the puzzle. You also need to figure out storage, create
+                indexes, maintain data quality through fine-tuning, manage
+                versions, code operations on top of your data, and create APIs
+                to consume it. All of this friction makes it a pain to ship live
+                applications.
+              </p>
+              <p>
+                Metal solves these problems by providing an end-to-end platform
+                for embeddings. Here’s how it works:
+              </p>
+              <p>
+                <i>Data In:</i> You send data to our system via our SDK or API.
+                Data can be text, images, PDFs, or raw embeddings. When data
+                hits our pipeline we preprocess by extracting the text from
+                documents and chunking when necessary. We then generate
+                embeddings using the selected model. If the index has
+                fine-tuning transformation, we transform the embedding into the
+                new vector space so it matches the target data. We then store
+                the embeddings in cold storage for any needed async jobs.
+              </p>
+              <p>
+                From there we index the embeddings for querying. We use HSNW
+                right now, but are planning to support FLAT indexes as well. We
+                currently index in Redis, but plan to make this configurable and
+                provide more options for datastores.
+              </p>
+              <p>
+                <i>Data Out:</i> We provide querying endpoints to hit the
+                indexes, finding the ANN. For fine-tuned indexes, we generate
+                embeddings from the base model used and then transform the
+                embedding into the new vector space during the pre-query phase.
+              </p>
+              <p>
+                Additionally, we provide methods to run clustering jobs on the
+                stored embeddings and visualizations in the UI. We are
+                experimenting with zero-shot classification, by embedding the
+                classes and matching to each embedding in the closest class,
+                allowing us to provide a “classify” method in our SDK. We would
+                love feedback on what other async job types would be useful!
+              </p>
+              <p>
+                Examples of what users have built so far include embedding
+                product catalogs for improved similarity search, personalized
+                in-app messaging with user behavior clusters, and similarity
+                search on images for content creators.
+              </p>
+              <p>
+                Metal has a free tier that anyone can use, a developer tier for
+                $20/month, and an enterprise tier with custom pricing. We’re
+                currently building an open source product that will be released
+                soon.
+              </p>
+              <p>
+                Most importantly, we’re sharing Metal with the HN community
+                because we want to build the best developer experience possible,
+                and the only metric we care about is live apps on prod. We’d
+                love to hear your feedback, experiences with embeddings, and
+                your ideas for how we can improve the product. Looking forward
+                to your comments, thank you!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="35340721">
           <h3>
             <a
@@ -142,33 +254,11 @@
             <h4>
               <span>2023-03-28 @ 13:28:25</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35340721"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35340171">
-          <h3>
-            <a
-              class="item"
-              href="https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/"
-              >Android app from China executed 0-day exploit on millions of
-              devices</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-03-28 @ 12:54:03</span
-              ><span class="points-container"
-                >Points: <span class="points">37</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35340171"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -184,11 +274,11 @@
             <h4>
               <span>2023-03-28 @ 12:54:01</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35340169"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -227,11 +317,11 @@
             <h4>
               <span>2023-03-28 @ 12:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35339968"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -248,11 +338,11 @@
             <h4>
               <span>2023-03-28 @ 12:22:50</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35339668"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 131</span></span
               >
             </h4>
           </section>
@@ -269,7 +359,7 @@
             <h4>
               <span>2023-03-28 @ 12:11:08</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35339521"
                   >Comments</a
@@ -331,11 +421,11 @@
             <h4>
               <span>2023-03-28 @ 09:55:14</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35338151"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -352,11 +442,11 @@
             <h4>
               <span>2023-03-28 @ 09:12:34</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35337798"
                   >Comments</a
-                ><span class="descendants">: 167</span></span
+                ><span class="descendants">: 176</span></span
               >
             </h4>
           </section>
@@ -373,11 +463,11 @@
             <h4>
               <span>2023-03-28 @ 08:03:45</span
               ><span class="points-container"
-                >Points: <span class="points">257</span></span
+                >Points: <span class="points">266</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35337296"
                   >Comments</a
-                ><span class="descendants">: 220</span></span
+                ><span class="descendants">: 227</span></span
               >
             </h4>
           </section>
@@ -395,11 +485,11 @@
             <h4>
               <span>2023-03-28 @ 07:48:38</span
               ><span class="points-container"
-                >Points: <span class="points">392</span></span
+                >Points: <span class="points">406</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35337210"
                   >Comments</a
-                ><span class="descendants">: 315</span></span
+                ><span class="descendants">: 332</span></span
               >
             </h4>
           </section>
@@ -416,11 +506,11 @@
             <h4>
               <span>2023-03-28 @ 07:38:48</span
               ><span class="points-container"
-                >Points: <span class="points">179</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35337146"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -437,11 +527,11 @@
             <h4>
               <span>2023-03-28 @ 06:52:22</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35336870"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -456,7 +546,7 @@
             <h4>
               <span>2023-03-28 @ 06:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35336632"
                   >Comments</a
@@ -477,11 +567,11 @@
             <h4>
               <span>2023-03-28 @ 06:11:11</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35336610"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -496,7 +586,7 @@
             <h4>
               <span>2023-03-28 @ 05:43:08</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35336402"
                   >Comments</a
@@ -515,11 +605,11 @@
             <h4>
               <span>2023-03-28 @ 04:57:58</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35336113"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -537,11 +627,11 @@
             <h4>
               <span>2023-03-28 @ 02:48:21</span
               ><span class="points-container"
-                >Points: <span class="points">222</span></span
+                >Points: <span class="points">225</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35335240"
                   >Comments</a
-                ><span class="descendants">: 266</span></span
+                ><span class="descendants">: 267</span></span
               >
             </h4>
           </section>
@@ -558,11 +648,11 @@
             <h4>
               <span>2023-03-28 @ 02:39:32</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35335165"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -579,11 +669,11 @@
             <h4>
               <span>2023-03-28 @ 02:31:07</span
               ><span class="points-container"
-                >Points: <span class="points">234</span></span
+                >Points: <span class="points">237</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35335097"
                   >Comments</a
-                ><span class="descendants">: 267</span></span
+                ><span class="descendants">: 270</span></span
               >
             </h4>
           </section>
@@ -600,7 +690,7 @@
             <h4>
               <span>2023-03-28 @ 02:22:19</span
               ><span class="points-container"
-                >Points: <span class="points">196</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35335037"
                   >Comments</a
@@ -619,11 +709,11 @@
             <h4>
               <span>2023-03-28 @ 01:55:44</span
               ><span class="points-container"
-                >Points: <span class="points">237</span></span
+                >Points: <span class="points">238</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35334848"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
             <div class="text">
@@ -647,7 +737,7 @@
             <h4>
               <span>2023-03-28 @ 01:47:20</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35334792"
                   >Comments</a
@@ -677,11 +767,11 @@
             <h4>
               <span>2023-03-28 @ 01:39:02</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35334719"
                   >Comments</a
-                ><span class="descendants">: 148</span></span
+                ><span class="descendants">: 150</span></span
               >
             </h4>
           </section>
@@ -698,7 +788,7 @@
             <h4>
               <span>2023-03-28 @ 00:48:33</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35334299"
                   >Comments</a
@@ -740,7 +830,7 @@
             <h4>
               <span>2023-03-27 @ 17:55:10</span
               ><span class="points-container"
-                >Points: <span class="points">1150</span></span
+                >Points: <span class="points">1152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35329950"
                   >Comments</a
@@ -760,11 +850,11 @@
             <h4>
               <span>2023-03-27 @ 16:27:20</span
               ><span class="points-container"
-                >Points: <span class="points">417</span></span
+                >Points: <span class="points">419</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35328698"
                   >Comments</a
-                ><span class="descendants">: 414</span></span
+                ><span class="descendants">: 415</span></span
               >
             </h4>
             <div class="text">
@@ -878,11 +968,11 @@
             <h4>
               <span>2023-03-27 @ 12:17:40</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35325693"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -897,7 +987,7 @@
             <h4>
               <span>2023-03-27 @ 05:57:56</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35323349"
                   >Comments</a
