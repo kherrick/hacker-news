@@ -28,7 +28,7 @@
 * [2023-03-28, 08:03:45](https://news.ycombinator.com/item?id=35337296) - [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
 * [2023-03-28, 07:48:38](https://news.ycombinator.com/item?id=35337210) - [PayPal has restricted our account after we invoiced a key containing “ALEP”](https://twitter.com/littlesnitch/status/1640436716895870985)
 * [2023-03-28, 05:51:30](https://news.ycombinator.com/item?id=35336465) - [The Shaman’s Secrets](https://www.archaeology.org/issues/501-2303/features/11195-germany-mesolithic-shaman-burial)
-* [2023-03-27, 09:03:36](https://news.ycombinator.com/item?id=35324476) - [An early 3D viewer (1986)](https://www.fano.co.uk/meccano/view3d.html)
+* [2023-03-27, 12:10:09](https://news.ycombinator.com/item?id=35325634) - [Tectonic – A modern, complete, self-contained Tex engine with Unicode support](https://tectonic-typesetting.github.io/en-US/)
 * [2023-03-27, 05:46:41](https://news.ycombinator.com/item?id=35323279) - [Fugue: A unified interface for distributed computing](https://github.com/fugue-project/fugue)
 
 ## [Archives](archives/index.md)

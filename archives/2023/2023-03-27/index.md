@@ -52,6 +52,7 @@
 * [2023-03-27, 12:19:30](https://news.ycombinator.com/item?id=35325709) - [GitHub&#x27;s Down](https://news.ycombinator.com/item?id=35325709)
 * [2023-03-27, 12:19:30](https://news.ycombinator.com/item?id=35325709) - [GitHub issue - resolved](https://www.githubstatus.com/incidents/52z0j6phhnjs)
 * [2023-03-27, 12:17:40](https://news.ycombinator.com/item?id=35325693) - [Pirate Weather](http://pirateweather.net/en/latest/)
+* [2023-03-27, 12:10:09](https://news.ycombinator.com/item?id=35325634) - [Tectonic – A modern, complete, self-contained Tex engine with Unicode support](https://tectonic-typesetting.github.io/en-US/)
 * [2023-03-27, 12:02:07](https://news.ycombinator.com/item?id=35325556) - [Zig and Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
 * [2023-03-27, 11:52:51](https://news.ycombinator.com/item?id=35325488) - [Jsonnet – The Data Templating Language](https://jsonnet.org/)
 * [2023-03-27, 11:13:46](https://news.ycombinator.com/item?id=35325208) - [Top Reddit communities for Devs and ITs: from beginners to advanced](https://pvs-studio.com/en/blog/posts/1040/)
