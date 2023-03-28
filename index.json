@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-03-28, 02:39:32",
+      "https://news.ycombinator.com/item?id=35335165"
+    ],
+    [
+      "A brief history of APFS (Apple File System) in honour of its fifth birthday",
+      "https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/"
+    ]
+  ],
+  [
+    [
       "2023-03-28, 02:31:07",
       "https://news.ycombinator.com/item?id=35335097"
     ],
     [
       "For the First Time, the Fed Is Losing Money",
       "https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f"
+    ]
+  ],
+  [
+    [
+      "2023-03-28, 02:22:19",
+      "https://news.ycombinator.com/item?id=35335037"
+    ],
+    [
+      "Procedural 3D mesh generation in a 64kB intro",
+      "https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro/"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2023-03-28, 01:37:42",
-      "https://news.ycombinator.com/item?id=35334705"
-    ],
-    [
-      "Another Round of GitHub Layoffs",
-      "https://twitter.com/allthedoll/status/1640437927535869952"
-    ]
-  ],
-  [
-    [
       "2023-03-28, 01:26:06",
       "https://news.ycombinator.com/item?id=35334613"
     ],
@@ -97,16 +107,6 @@
     [
       "Parsing the .DS_Store File Format",
       "https://0day.work/parsing-the-ds_store-file-format/"
-    ]
-  ],
-  [
-    [
-      "2023-03-27, 21:00:25",
-      "https://news.ycombinator.com/item?id=35332531"
-    ],
-    [
-      "Apple Detection of Flashing Lights",
-      "https://github.com/apple/VideoFlashingReduction"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-03-27, 07:28:37",
+      "https://news.ycombinator.com/item?id=35323872"
+    ],
+    [
+      "Morse Code Chat",
+      "https://morse.halb.it/"
+    ]
+  ],
+  [
+    [
       "2023-03-27, 04:23:05",
       "https://news.ycombinator.com/item?id=35322823"
     ],
@@ -287,16 +297,6 @@
     [
       "DVDStyler is a cross-platform free DVD authoring application (2021)",
       "https://www.dvdstyler.org/en/"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 12:21:39",
-      "https://news.ycombinator.com/item?id=35301943"
-    ],
-    [
-      "Retrieval in LangChain",
-      "https://blog.langchain.dev/retrieval/"
     ]
   ]
 ]
