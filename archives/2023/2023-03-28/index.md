@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 15:17:25](https://news.ycombinator.com/item?id=35342464) - [Quicker Serverless Postgres Connections](https://neon.tech/blog/quicker-serverless-postgres)
 * [2023-03-28, 15:01:43](https://news.ycombinator.com/item?id=35342195) - [Nuenv: An experimental Nushell builder for Nix packages](https://determinate.systems/posts/nuenv)
 * [2023-03-28, 14:51:35](https://news.ycombinator.com/item?id=35342056) - [Amazon starts flagging frequently returned products that you maybe shouldn’t buy](https://www.theverge.com/2023/3/28/23659868/amazon-returns-warning-product-reviews-tag-feature)
 * [2023-03-28, 14:43:47](https://news.ycombinator.com/item?id=35341943) - [I made $3k in 16 attempts to launch my SaaS](https://www.indiehackers.com/post/i-made-3-000-in-16-attempts-to-launch-my-saas-06ab0a9f2a)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-28, 15:17:25](https://news.ycombinator.com/item?id=35342464) - [Quicker Serverless Postgres Connections](https://neon.tech/blog/quicker-serverless-postgres)
 * [2023-03-28, 15:01:43](https://news.ycombinator.com/item?id=35342195) - [Nuenv: An experimental Nushell builder for Nix packages](https://determinate.systems/posts/nuenv)
 * [2023-03-28, 14:51:35](https://news.ycombinator.com/item?id=35342056) - [Amazon starts flagging frequently returned products that you maybe shouldn’t buy](https://www.theverge.com/2023/3/28/23659868/amazon-returns-warning-product-reviews-tag-feature)
 * [2023-03-28, 14:43:47](https://news.ycombinator.com/item?id=35341943) - [I made $3k in 16 attempts to launch my SaaS](https://www.indiehackers.com/post/i-made-3-000-in-16-attempts-to-launch-my-saas-06ab0a9f2a)
@@ -7,7 +8,6 @@
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
 * [2023-03-28, 12:54:01](https://news.ycombinator.com/item?id=35340169) - [Show HN: I built developer tooling for the Airtable API that I needed](https://airwalker.io)
 * [2023-03-28, 12:42:03](https://news.ycombinator.com/item?id=35339968) - [Show HN: An all-in-one app designed for deep work and to build atomic habits](https://www.floutwork.com)
-* [2023-03-28, 12:22:50](https://news.ycombinator.com/item?id=35339668) - [Alibaba to split into six separate groups in biggest shake-up](https://www.wsj.com/articles/alibaba-to-split-into-six-separate-groups-in-biggest-shake-up-9ce2201f)
 * [2023-03-28, 12:11:08](https://news.ycombinator.com/item?id=35339521) - [Random Fuzzy Thoughts](https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/)
 * [2023-03-28, 12:01:06](https://news.ycombinator.com/item?id=35339377) - [Toko (YC W22) Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35339377)
 * [2023-03-28, 11:33:03](https://news.ycombinator.com/item?id=35339010) - [Open Sourcing Cody – Sourcegraph&#x27;s AI-enabled editor assistant](https://about.sourcegraph.com/blog/open-sourcing-cody)
