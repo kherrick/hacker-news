@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
 * [2023-03-28, 13:28:25](https://news.ycombinator.com/item?id=35340721) - [Current causes of death in children and adolescents in the United States (2022)](https://www.nejm.org/doi/full/10.1056/nejmc2201761)
-* [2023-03-28, 12:54:03](https://news.ycombinator.com/item?id=35340171) - [Android app from China executed 0-day exploit on millions of devices](https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/)
 * [2023-03-28, 12:54:01](https://news.ycombinator.com/item?id=35340169) - [Show HN: I built developer tooling for the Airtable API that I needed](https://airwalker.io)
 * [2023-03-28, 12:42:03](https://news.ycombinator.com/item?id=35339968) - [Show HN: An all-in-one app designed for deep work and to build atomic habits](https://www.floutwork.com)
 * [2023-03-28, 12:22:50](https://news.ycombinator.com/item?id=35339668) - [Alibaba to split into six separate groups in biggest shake-up](https://www.wsj.com/articles/alibaba-to-split-into-six-separate-groups-in-biggest-shake-up-9ce2201f)

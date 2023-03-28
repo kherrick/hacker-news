@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
 * [2023-03-28, 13:28:25](https://news.ycombinator.com/item?id=35340721) - [Current Causes of Death in Children and Adolescents in the United States](https://www.nejm.org/doi/full/10.1056/nejmc2201761)
 * [2023-03-28, 13:22:27](https://news.ycombinator.com/item?id=35340627) - [Ex-Meta recruiter was paid $190K ‘to do nothing’ ahead of mass layoffs](https://nypost.com/2023/03/22/ex-meta-recruiter-says-she-was-paid-190k-to-do-nothing/)
 * [2023-03-28, 12:54:03](https://news.ycombinator.com/item?id=35340171) - [Android app from China executed 0-day exploit on millions of devices](https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/)
