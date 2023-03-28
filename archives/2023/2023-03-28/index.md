@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 09:55:14](https://news.ycombinator.com/item?id=35338151) - [Initialization in Modern C++ (295 pages)](https://old.reddit.com/r/cpp/comments/1242djf/295_pages_on_initialization_in_modern_c/)
 * [2023-03-28, 09:54:03](https://news.ycombinator.com/item?id=35338138) - [Swipe (YC S21) Is Hiring](https://www.ycombinator.com/companies/swipe-2/jobs/VA7o3OW-android-intern)
 * [2023-03-28, 09:47:30](https://news.ycombinator.com/item?id=35338085) - [Agatha Christie classics latest to be rewritten for “modern sensitivities”](https://www.telegraph.co.uk/news/2023/03/25/agatha-christie-classics-latest-rewritten-modern-sensitivities/)
 * [2023-03-28, 09:12:34](https://news.ycombinator.com/item?id=35337798) - [Push notifications are now supported cross-browser](https://web.dev/push-notifications-in-all-modern-browsers/)
@@ -13,6 +14,7 @@
 * [2023-03-28, 07:38:48](https://news.ycombinator.com/item?id=35337146) - [Red Hat is 30 years old](https://www.redhat.com/en/blog/red-hat-30th-anniversary-celebrating-red-hat-day-north-carolina)
 * [2023-03-28, 06:58:24](https://news.ycombinator.com/item?id=35336895) - [A One-Take Thriller Shot on an FPV Drone](https://laughingsquid.com/one-shot-thriller-shot-on-fpv-drone/)
 * [2023-03-28, 06:52:22](https://news.ycombinator.com/item?id=35336870) - [GitHub slashes engineering team in India](https://techcrunch.com/2023/03/27/github-slashes-engineering-team-in-india/)
+* [2023-03-28, 06:32:48](https://news.ycombinator.com/item?id=35336748) - [The TikTok ban is a betrayal of the open internet](https://www.theverge.com/23653141/tiktok-ban-bytedance-congress-hearing-first-amendment-open-internet)
 * [2023-03-28, 06:15:00](https://news.ycombinator.com/item?id=35336632) - [Your Code Might Not Need State](https://www.onsclom.net/posts/simulator-state)
 * [2023-03-28, 06:11:11](https://news.ycombinator.com/item?id=35336610) - [OpenPGP master key on Nitrokey Start](https://blog.josefsson.org/2023/03/27/openpgp-master-key-on-nitrokey-start/)
 * [2023-03-28, 05:43:08](https://news.ycombinator.com/item?id=35336402) - [Trigonometric Functions in CSS](https://web.dev/css-trig-functions/)
