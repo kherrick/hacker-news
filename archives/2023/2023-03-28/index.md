@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 13:28:25](https://news.ycombinator.com/item?id=35340721) - [Current Causes of Death in Children and Adolescents in the United States](https://www.nejm.org/doi/full/10.1056/nejmc2201761)
+* [2023-03-28, 13:22:27](https://news.ycombinator.com/item?id=35340627) - [Ex-Meta recruiter was paid $190K ‘to do nothing’ ahead of mass layoffs](https://nypost.com/2023/03/22/ex-meta-recruiter-says-she-was-paid-190k-to-do-nothing/)
 * [2023-03-28, 12:54:01](https://news.ycombinator.com/item?id=35340169) - [Show HN: I built developer tooling for the Airtable API that I needed](https://airwalker.io)
 * [2023-03-28, 12:22:50](https://news.ycombinator.com/item?id=35339668) - [Alibaba to Split into Six Separate Groups in Biggest Shake-Up](https://www.wsj.com/articles/alibaba-to-split-into-six-separate-groups-in-biggest-shake-up-9ce2201f)
 * [2023-03-28, 12:11:08](https://news.ycombinator.com/item?id=35339521) - [Random Fuzzy Thoughts](https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/)
