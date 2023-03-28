@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 11:05:10](https://news.ycombinator.com/item?id=35338757) - [Smart urinals stuck on boot at a gas station in Germany](https://old.reddit.com/r/PBSOD/comments/1244p9k/smart_urinals_stuck_on_boot_at_a_gas_station_in/)
 * [2023-03-28, 09:55:14](https://news.ycombinator.com/item?id=35338151) - [Initialization in Modern C++ (295 pages)](https://old.reddit.com/r/cpp/comments/1242djf/295_pages_on_initialization_in_modern_c/)
 * [2023-03-28, 09:54:03](https://news.ycombinator.com/item?id=35338138) - [Swipe (YC S21) Is Hiring](https://www.ycombinator.com/companies/swipe-2/jobs/VA7o3OW-android-intern)
 * [2023-03-28, 09:47:30](https://news.ycombinator.com/item?id=35338085) - [Agatha Christie classics latest to be rewritten for “modern sensitivities”](https://www.telegraph.co.uk/news/2023/03/25/agatha-christie-classics-latest-rewritten-modern-sensitivities/)
@@ -19,6 +20,7 @@
 * [2023-03-28, 06:11:11](https://news.ycombinator.com/item?id=35336610) - [OpenPGP master key on Nitrokey Start](https://blog.josefsson.org/2023/03/27/openpgp-master-key-on-nitrokey-start/)
 * [2023-03-28, 05:43:08](https://news.ycombinator.com/item?id=35336402) - [Trigonometric Functions in CSS](https://web.dev/css-trig-functions/)
 * [2023-03-28, 05:21:58](https://news.ycombinator.com/item?id=35336253) - [My steam account was deleted after admitting that a relative gave me the account](https://old.reddit.com/r/gaming/comments/1247hyh/my_steam_account_was_deleted_after_admitting_that/)
+* [2023-03-28, 04:57:58](https://news.ycombinator.com/item?id=35336113) - [Higher-Order Virtual Machine (HVM)](https://github.com/HigherOrderCO/HVM)
 * [2023-03-28, 03:14:47](https://news.ycombinator.com/item?id=35335442) - [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
 * [2023-03-28, 02:55:45](https://news.ycombinator.com/item?id=35335302) - [OpenAI Usage Policies](https://openai.com/policies/usage-policies)
 * [2023-03-28, 02:48:21](https://news.ycombinator.com/item?id=35335240) - [Can you buy the same flight for less if you use a VPN?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)

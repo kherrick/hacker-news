@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-28, 11:05:10](https://news.ycombinator.com/item?id=35338757) - [Smart urinals stuck on boot at a gas station in Germany](https://old.reddit.com/r/PBSOD/comments/1244p9k/smart_urinals_stuck_on_boot_at_a_gas_station_in/)
 * [2023-03-28, 09:55:14](https://news.ycombinator.com/item?id=35338151) - [Initialization in Modern C++ (295 pages)](https://old.reddit.com/r/cpp/comments/1242djf/295_pages_on_initialization_in_modern_c/)
 * [2023-03-28, 09:54:03](https://news.ycombinator.com/item?id=35338138) - [Swipe (YC S21) Is Hiring](https://www.ycombinator.com/companies/swipe-2/jobs/VA7o3OW-android-intern)
 * [2023-03-28, 09:12:34](https://news.ycombinator.com/item?id=35337798) - [Push notifications are now supported cross-browser](https://web.dev/push-notifications-in-all-modern-browsers/)
@@ -11,6 +12,7 @@
 * [2023-03-28, 06:15:00](https://news.ycombinator.com/item?id=35336632) - [Your Code Might Not Need State](https://www.onsclom.net/posts/simulator-state)
 * [2023-03-28, 06:11:11](https://news.ycombinator.com/item?id=35336610) - [OpenPGP master key on Nitrokey Start](https://blog.josefsson.org/2023/03/27/openpgp-master-key-on-nitrokey-start/)
 * [2023-03-28, 05:43:08](https://news.ycombinator.com/item?id=35336402) - [Trigonometric Functions in CSS](https://web.dev/css-trig-functions/)
+* [2023-03-28, 04:57:58](https://news.ycombinator.com/item?id=35336113) - [Higher-Order Virtual Machine (HVM)](https://github.com/HigherOrderCO/HVM)
 * [2023-03-28, 02:48:21](https://news.ycombinator.com/item?id=35335240) - [Can you buy the same ticket at a lower price if you buy it from another country?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)
 * [2023-03-28, 02:39:32](https://news.ycombinator.com/item?id=35335165) - [A brief history of APFS (Apple file system) in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
 * [2023-03-28, 02:31:07](https://news.ycombinator.com/item?id=35335097) - [For the first time, the Fed is losing money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
@@ -21,8 +23,6 @@
 * [2023-03-28, 00:25:31](https://news.ycombinator.com/item?id=35334135) - [Clearview AI used nearly 1M times by US police, it tells the BBC](https://www.bbc.com/news/technology-65057011)
 * [2023-03-28, 00:23:20](https://news.ycombinator.com/item?id=35334124) - [Parsing the .DS_Store File Format (2018)](https://0day.work/parsing-the-ds_store-file-format/)
 * [2023-03-27, 21:00:25](https://news.ycombinator.com/item?id=35332531) - [Apple Detection of Flashing Lights](https://github.com/apple/VideoFlashingReduction)
-* [2023-03-27, 19:34:20](https://news.ycombinator.com/item?id=35331237) - [The FBI’s Contract to Buy Mass Internet Data](https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract)
-* [2023-03-27, 17:56:03](https://news.ycombinator.com/item?id=35329961) - [WebKit Features in Safari 16.4](https://webkit.org/blog/13966/webkit-features-in-safari-16-4/)
 * [2023-03-27, 17:55:10](https://news.ycombinator.com/item?id=35329950) - [Apple passwords deserve an app](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/)
 * [2023-03-27, 16:27:20](https://news.ycombinator.com/item?id=35328698) - [Launch HN: Play.ht (YC W23) – Generate and clone voices from 20 seconds of audio](https://news.ycombinator.com/item?id=35328698)
 * [2023-03-27, 15:31:18](https://news.ycombinator.com/item?id=35327996) - [CFTC sues Binance and CEO Changpeng Zhao [pdf]](https://www.docdroid.net/60YAbCz/cftc-binance-pdf)
