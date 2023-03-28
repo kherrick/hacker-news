@@ -25,11 +25,11 @@
 * [2023-03-27, 17:56:03](https://news.ycombinator.com/item?id=35329961) - [WebKit Features in Safari 16.4](https://webkit.org/blog/13966/webkit-features-in-safari-16-4/)
 * [2023-03-27, 17:55:10](https://news.ycombinator.com/item?id=35329950) - [Apple passwords deserve an app](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/)
 * [2023-03-27, 16:27:20](https://news.ycombinator.com/item?id=35328698) - [Launch HN: Play.ht (YC W23) – Generate and clone voices from 20 seconds of audio](https://news.ycombinator.com/item?id=35328698)
+* [2023-03-27, 15:31:18](https://news.ycombinator.com/item?id=35327996) - [CFTC sues Binance and CEO Changpeng Zhao [pdf]](https://www.docdroid.net/60YAbCz/cftc-binance-pdf)
 * [2023-03-27, 14:31:54](https://news.ycombinator.com/item?id=35327136) - [After a decade, South Dakota&#x27;s Amish are moving on](https://www.mitchellrepublic.com/news/south-dakota/after-a-decade-south-dakotas-amish-are-moving-on)
 * [2023-03-27, 04:23:05](https://news.ycombinator.com/item?id=35322823) - [Science Museums Take Stock of 1.1B Objects from Around the World](https://www.nytimes.com/2023/03/23/science/science-museums-online-collections.html)
 * [2023-03-27, 04:01:44](https://news.ycombinator.com/item?id=35322725) - [Banking on the Seaweed Rush](https://hakaimagazine.com/features/banking-on-the-seaweed-rush/)
 * [2023-03-27, 03:39:04](https://news.ycombinator.com/item?id=35322599) - [The Diversity of Arabic Scripts](https://blogs.bl.uk/asian-and-african/2023/03/the-diversity-of-arabic-scripts.html)
-* [2023-03-26, 22:13:55](https://news.ycombinator.com/item?id=35320204) - [An ancient Indian Buddhist monk buried in Athens](https://greekreporter.com/2023/03/20/ancient-indian-buddhist-monk-athens/)
 
 ## [Archives](archives/index.md)
 
