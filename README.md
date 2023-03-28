@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-28, 05:43:08](https://news.ycombinator.com/item?id=35336402) - [Trigonometric Functions in CSS](https://web.dev/css-trig-functions/)
 * [2023-03-28, 03:14:47](https://news.ycombinator.com/item?id=35335442) - [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
 * [2023-03-28, 02:48:21](https://news.ycombinator.com/item?id=35335240) - [Can you buy the same ticket at a lower price if you buy it from another country?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)
 * [2023-03-28, 02:39:32](https://news.ycombinator.com/item?id=35335165) - [A brief history of APFS (Apple file system) in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
@@ -22,7 +23,6 @@
 * [2023-03-27, 16:48:57](https://news.ycombinator.com/item?id=35328995) - [Xstate: State machines and statecharts for the modern web](https://github.com/statelyai/xstate)
 * [2023-03-27, 16:41:41](https://news.ycombinator.com/item?id=35328885) - [Soft-serve: A tasty, self-hostable Git server for the command line](https://github.com/charmbracelet/soft-serve)
 * [2023-03-27, 16:27:20](https://news.ycombinator.com/item?id=35328698) - [Launch HN: Play.ht (YC W23) – Generate and clone voices from 20 seconds of audio](https://news.ycombinator.com/item?id=35328698)
-* [2023-03-27, 16:02:38](https://news.ycombinator.com/item?id=35328368) - [John Glenn’s $40 Camera Forced NASA to Rethink Space Missions](https://petapixel.com/2023/03/23/how-john-glenns-40-camera-forced-nasa-to-rethink-space-missions/)
 * [2023-03-27, 15:31:18](https://news.ycombinator.com/item?id=35327996) - [CFTC sues Binance and CEO Changpeng Zhao [pdf]](https://www.docdroid.net/60YAbCz/cftc-binance-pdf)
 * [2023-03-27, 14:31:54](https://news.ycombinator.com/item?id=35327136) - [After a decade, South Dakota&#x27;s Amish are moving on](https://www.mitchellrepublic.com/news/south-dakota/after-a-decade-south-dakotas-amish-are-moving-on)
 * [2023-03-27, 04:23:05](https://news.ycombinator.com/item?id=35322823) - [Science Museums Take Stock of 1.1B Objects from Around the World](https://www.nytimes.com/2023/03/23/science/science-museums-online-collections.html)
