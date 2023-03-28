@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 02:31:07](https://news.ycombinator.com/item?id=35335097) - [For the First Time, the Fed Is Losing Money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
 * [2023-03-28, 01:55:53](https://news.ycombinator.com/item?id=35334851) - [Patriot Act on steroids: anti-TikTok Trojan horse for censorship, surveillance](https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty)
 * [2023-03-28, 01:55:44](https://news.ycombinator.com/item?id=35334848) - [Show HN: Regex.ai – AI-powered regular expression generator](https://regex.ai/)
 * [2023-03-28, 01:47:20](https://news.ycombinator.com/item?id=35334792) - [Show HN: Document Q&amp;A with GPT: web, .pdf, .docx, etc.](https://klavier.ai/)

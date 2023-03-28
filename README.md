@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-28, 02:31:07](https://news.ycombinator.com/item?id=35335097) - [For the First Time, the Fed Is Losing Money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
 * [2023-03-28, 01:55:53](https://news.ycombinator.com/item?id=35334851) - [Patriot Act on steroids: anti-TikTok Trojan horse for censorship, surveillance](https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty)
 * [2023-03-28, 01:55:44](https://news.ycombinator.com/item?id=35334848) - [Show HN: Regex.ai – AI-powered regular expression generator](https://regex.ai/)
 * [2023-03-28, 01:47:20](https://news.ycombinator.com/item?id=35334792) - [Show HN: Document Q&amp;A with GPT: web, .pdf, .docx, etc.](https://klavier.ai/)
@@ -22,7 +23,6 @@
 * [2023-03-27, 16:27:20](https://news.ycombinator.com/item?id=35328698) - [Launch HN: Play.ht (YC W23) – Generate and clone voices from 20 seconds of audio](https://news.ycombinator.com/item?id=35328698)
 * [2023-03-27, 15:31:18](https://news.ycombinator.com/item?id=35327996) - [CFTC sues Binance and CEO Changpeng Zhao [pdf]](https://www.docdroid.net/60YAbCz/cftc-binance-pdf)
 * [2023-03-27, 14:31:54](https://news.ycombinator.com/item?id=35327136) - [After a decade, South Dakota&#x27;s Amish are moving on](https://www.mitchellrepublic.com/news/south-dakota/after-a-decade-south-dakotas-amish-are-moving-on)
-* [2023-03-27, 07:28:37](https://news.ycombinator.com/item?id=35323872) - [Morse Code Chat](https://morse.halb.it/)
 * [2023-03-27, 04:23:05](https://news.ycombinator.com/item?id=35322823) - [Science Museums Take Stock of 1.1B Objects from Around the World](https://www.nytimes.com/2023/03/23/science/science-museums-online-collections.html)
 * [2023-03-27, 04:01:44](https://news.ycombinator.com/item?id=35322725) - [Banking on the Seaweed Rush](https://hakaimagazine.com/features/banking-on-the-seaweed-rush/)
 * [2023-03-27, 03:39:04](https://news.ycombinator.com/item?id=35322599) - [The Diversity of Arabic Scripts](https://blogs.bl.uk/asian-and-african/2023/03/the-diversity-of-arabic-scripts.html)
