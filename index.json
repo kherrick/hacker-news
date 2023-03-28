@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-03-28, 23:31:09",
+      "https://news.ycombinator.com/item?id=35349608"
+    ],
+    [
+      "Gpt4all: A chatbot trained on ~800k GPT-3.5-Turbo Generations based on LLaMa",
+      "https://github.com/nomic-ai/gpt4all"
+    ]
+  ],
+  [
+    [
       "2023-03-28, 23:20:46",
       "https://news.ycombinator.com/item?id=35349500"
     ],
     [
       "Rust Is a Scalable Language",
       "https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 22:48:51",
-      "https://news.ycombinator.com/item?id=35349168"
-    ],
-    [
-      "HuggingFace and Open Source AI Meetup in SFO Mar 31st",
-      "https://twitter.com/BrigitteTousi/status/1640771873985142786"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-03-28, 20:43:52",
-      "https://news.ycombinator.com/item?id=35347547"
-    ],
-    [
-      "GitHub India&#x27;s entire Engineering team is fired",
-      "https://twitter.com/GergelyOrosz/status/1640585325192912898"
-    ]
-  ],
-  [
-    [
       "2023-03-28, 20:43:18",
       "https://news.ycombinator.com/item?id=35347540"
     ],
@@ -127,6 +117,16 @@
     [
       "Show HN: A fully open-source (Apache 2.0)implementation of llama",
       "https://github.com/Lightning-AI/lit-llama"
+    ]
+  ],
+  [
+    [
+      "2023-03-28, 17:28:04",
+      "https://news.ycombinator.com/item?id=35344703"
+    ],
+    [
+      "Incompetent but Nice",
+      "https://jacobian.org/2023/mar/28/incompetent-but-nice/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-03-28, 11:33:03",
-      "https://news.ycombinator.com/item?id=35339010"
-    ],
-    [
-      "Open Sourcing Cody – Sourcegraph&#x27;s AI-enabled editor assistant",
-      "https://about.sourcegraph.com/blog/open-sourcing-cody"
-    ]
-  ],
-  [
-    [
       "2023-03-28, 05:51:30",
       "https://news.ycombinator.com/item?id=35336465"
     ],
@@ -277,6 +267,16 @@
     [
       "Intel 80386 CPU Information",
       "https://www.pcjs.org/documents/manuals/intel/80386/"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 08:23:53",
+      "https://news.ycombinator.com/item?id=35324232"
+    ],
+    [
+      "The true power of regular expressions (2012)",
+      "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html"
     ]
   ],
   [
