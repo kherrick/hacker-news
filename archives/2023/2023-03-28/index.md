@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 17:17:56](https://news.ycombinator.com/item?id=35344514) - [Interaction Nets, Combinators, and Calculus – HVM](https://zicklag.github.io/blog/interaction-nets-combinators-calculus/)
 * [2023-03-28, 17:00:11](https://news.ycombinator.com/item?id=35344227) - [My4TH – A minimalistic FORTH computer with discrete CPU](http://mynor.org/my4th)
 * [2023-03-28, 17:00:10](https://news.ycombinator.com/item?id=35344225) - [Snippyly (YC W22) Is Hiring Front end SWEs to make the web multiplayer](https://www.ycombinator.com/companies/snippyly/jobs)
 * [2023-03-28, 16:54:03](https://news.ycombinator.com/item?id=35344108) - [Three dead after dog falls 13 floors (1899)](https://trove.nla.gov.au/newspaper/article/102017012)
