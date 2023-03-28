@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 02:48:21](https://news.ycombinator.com/item?id=35335240) - [Can you buy the same flight for less if you use a VPN?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)
 * [2023-03-28, 02:39:32](https://news.ycombinator.com/item?id=35335165) - [A brief history of APFS (Apple File System) in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
 * [2023-03-28, 02:31:07](https://news.ycombinator.com/item?id=35335097) - [For the First Time, the Fed Is Losing Money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
 * [2023-03-28, 02:22:19](https://news.ycombinator.com/item?id=35335037) - [Procedural 3D mesh generation in a 64kB intro](https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro/)
