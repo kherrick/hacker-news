@@ -58,6 +58,7 @@
 * [2023-03-28, 06:32:48](https://news.ycombinator.com/item?id=35336748) - [The TikTok ban is a betrayal of the open internet](https://www.theverge.com/23653141/tiktok-ban-bytedance-congress-hearing-first-amendment-open-internet)
 * [2023-03-28, 06:15:00](https://news.ycombinator.com/item?id=35336632) - [Your Code Might Not Need State](https://www.onsclom.net/posts/simulator-state)
 * [2023-03-28, 06:11:11](https://news.ycombinator.com/item?id=35336610) - [OpenPGP master key on Nitrokey Start](https://blog.josefsson.org/2023/03/27/openpgp-master-key-on-nitrokey-start/)
+* [2023-03-28, 05:51:30](https://news.ycombinator.com/item?id=35336465) - [The Shaman’s Secrets](https://www.archaeology.org/issues/501-2303/features/11195-germany-mesolithic-shaman-burial)
 * [2023-03-28, 05:43:08](https://news.ycombinator.com/item?id=35336402) - [Trigonometric Functions in CSS](https://web.dev/css-trig-functions/)
 * [2023-03-28, 05:21:58](https://news.ycombinator.com/item?id=35336253) - [My steam account was deleted after admitting that a relative gave me the account](https://old.reddit.com/r/gaming/comments/1247hyh/my_steam_account_was_deleted_after_admitting_that/)
 * [2023-03-28, 04:57:58](https://news.ycombinator.com/item?id=35336113) - [Higher-Order Virtual Machine (HVM)](https://github.com/HigherOrderCO/HVM)
