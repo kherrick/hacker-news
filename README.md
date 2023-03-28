@@ -24,11 +24,11 @@
 * [2023-03-28, 15:17:04](https://news.ycombinator.com/item?id=35342457) - [A non-federated decentralized social protocol based on Git](https://github.com/social4git/social4git)
 * [2023-03-28, 15:01:43](https://news.ycombinator.com/item?id=35342195) - [Nuenv: An experimental Nushell builder for Nix packages](https://determinate.systems/posts/nuenv)
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
-* [2023-03-28, 14:16:24](https://news.ycombinator.com/item?id=35341471) - [How to Polis, 101, Part IIb: Archons](https://acoup.blog/2023/03/24/collections-how-to-polis-101-part-iib-archons/)
 * [2023-03-28, 12:54:03](https://news.ycombinator.com/item?id=35340171) - [Android app from China executed 0-day exploit on millions of devices](https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/)
 * [2023-03-28, 08:03:45](https://news.ycombinator.com/item?id=35337296) - [Apple Music Classical](https://learn.applemusic.apple/apple-music-classical)
 * [2023-03-27, 12:10:09](https://news.ycombinator.com/item?id=35325634) - [Tectonic – A modern, complete, self-contained Tex engine with Unicode support](https://tectonic-typesetting.github.io/en-US/)
 * [2023-03-27, 10:48:04](https://news.ycombinator.com/item?id=35325038) - [Intel 80386 CPU Information](https://www.pcjs.org/documents/manuals/intel/80386/)
+* [2023-03-27, 07:24:51](https://news.ycombinator.com/item?id=35323838) - [From Laptop to Lambda: Outsourcing Jobs to Thousands of Functional Containers [pdf]](https://www.usenix.org/system/files/atc19-fouladi.pdf)
 * [2023-03-27, 05:18:29](https://news.ycombinator.com/item?id=35323107) - [Medieval Arabic surgeon Ibn al Quff&#x27;s account on surgical pain relief](https://journals.lww.com/anar/fulltext/2010/04010/historical_essay__an_arabic_surgeon,_ibn_al_quff_s.3.aspx)
 
 ## [Archives](archives/index.md)

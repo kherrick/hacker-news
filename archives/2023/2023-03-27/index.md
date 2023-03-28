@@ -64,6 +64,7 @@
 * [2023-03-27, 08:56:56](https://news.ycombinator.com/item?id=35324430) - [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
 * [2023-03-27, 07:42:02](https://news.ycombinator.com/item?id=35323960) - [Show HN: SlickGPT](https://slickgpt.vercel.app/)
 * [2023-03-27, 07:28:37](https://news.ycombinator.com/item?id=35323872) - [Morse Code Chat](https://morse.halb.it/)
+* [2023-03-27, 07:24:51](https://news.ycombinator.com/item?id=35323838) - [From Laptop to Lambda: Outsourcing Jobs to Thousands of Functional Containers [pdf]](https://www.usenix.org/system/files/atc19-fouladi.pdf)
 * [2023-03-27, 07:09:16](https://news.ycombinator.com/item?id=35323732) - [Journey Planner Challenge – You need to visit 5 tube stations](https://edjefferson.com/journeyplannerchallenge/)
 * [2023-03-27, 06:55:11](https://news.ycombinator.com/item?id=35323645) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
 * [2023-03-27, 06:23:26](https://news.ycombinator.com/item?id=35323484) - [Deployments Not Releases – Get Good at Delivering Software](https://blog.mangoteque.com//blog/2023/03/13/deployments-not-releases/)
