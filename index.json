@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-03-28, 08:03:45",
+      "https://news.ycombinator.com/item?id=35337296"
+    ],
+    [
+      "Apple Music Classical",
+      "https://learn.applemusic.apple/apple-music-classical"
+    ]
+  ],
+  [
+    [
       "2023-03-28, 07:48:38",
       "https://news.ycombinator.com/item?id=35337210"
     ],
     [
       "Little Snitch: PayPal has restricted our business account, threatens to close",
       "https://twitter.com/littlesnitch/status/1640436716895870985"
+    ]
+  ],
+  [
+    [
+      "2023-03-28, 07:38:48",
+      "https://news.ycombinator.com/item?id=35337146"
+    ],
+    [
+      "Red Hat is 30 years old",
+      "https://www.redhat.com/en/blog/red-hat-30th-anniversary-celebrating-red-hat-day-north-carolina"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Your Code Might Not Need State",
       "https://www.onsclom.net/posts/simulator-state"
+    ]
+  ],
+  [
+    [
+      "2023-03-28, 06:11:11",
+      "https://news.ycombinator.com/item?id=35336610"
+    ],
+    [
+      "OpenPGP master key on Nitrokey Start",
+      "https://blog.josefsson.org/2023/03/27/openpgp-master-key-on-nitrokey-start/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Show HN: Regex.ai – AI-powered regular expression generator",
       "https://regex.ai/"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 01:39:02",
-      "https://news.ycombinator.com/item?id=35334719"
-    ],
-    [
-      "ChatGPT outperforms crowd-workers for text-annotation tasks",
-      "https://arxiv.org/abs/2303.15056"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-03-27, 17:38:20",
-      "https://news.ycombinator.com/item?id=35329724"
-    ],
-    [
-      "Smalltalk Type",
-      "https://moritzfuerst.net/projects/smalltalk-type"
-    ]
-  ],
-  [
-    [
       "2023-03-27, 16:27:20",
       "https://news.ycombinator.com/item?id=35328698"
     ],
     [
       "Launch HN: Play.ht (YC W23) – Generate and clone voices from 20 seconds of audio",
       "https://news.ycombinator.com/item?id=35328698"
-    ]
-  ],
-  [
-    [
-      "2023-03-27, 15:31:18",
-      "https://news.ycombinator.com/item?id=35327996"
-    ],
-    [
-      "CFTC sues Binance and CEO Changpeng Zhao [pdf]",
-      "https://www.docdroid.net/60YAbCz/cftc-binance-pdf"
     ]
   ],
   [
