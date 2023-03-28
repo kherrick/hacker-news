@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-28, 05:21:58](https://news.ycombinator.com/item?id=35336253) - [My steam account was deleted after admitting that a relative gave me the account](https://old.reddit.com/r/gaming/comments/1247hyh/my_steam_account_was_deleted_after_admitting_that/)
 * [2023-03-28, 03:14:47](https://news.ycombinator.com/item?id=35335442) - [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
 * [2023-03-28, 02:48:21](https://news.ycombinator.com/item?id=35335240) - [Can you buy the same ticket at a lower price if you buy it from another country?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)
 * [2023-03-28, 02:39:32](https://news.ycombinator.com/item?id=35335165) - [A brief history of APFS (Apple file system) in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
@@ -20,6 +19,7 @@
 * [2023-03-27, 17:56:03](https://news.ycombinator.com/item?id=35329961) - [WebKit Features in Safari 16.4](https://webkit.org/blog/13966/webkit-features-in-safari-16-4/)
 * [2023-03-27, 17:55:10](https://news.ycombinator.com/item?id=35329950) - [Apple passwords deserve an app](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/)
 * [2023-03-27, 17:38:20](https://news.ycombinator.com/item?id=35329724) - [Smalltalk Type](https://moritzfuerst.net/projects/smalltalk-type)
+* [2023-03-27, 16:48:57](https://news.ycombinator.com/item?id=35328995) - [Xstate: State machines and statecharts for the modern web](https://github.com/statelyai/xstate)
 * [2023-03-27, 16:41:41](https://news.ycombinator.com/item?id=35328885) - [Soft-serve: A tasty, self-hostable Git server for the command line](https://github.com/charmbracelet/soft-serve)
 * [2023-03-27, 16:27:20](https://news.ycombinator.com/item?id=35328698) - [Launch HN: Play.ht (YC W23) – Generate and clone voices from 20 seconds of audio](https://news.ycombinator.com/item?id=35328698)
 * [2023-03-27, 16:02:38](https://news.ycombinator.com/item?id=35328368) - [John Glenn’s $40 Camera Forced NASA to Rethink Space Missions](https://petapixel.com/2023/03/23/how-john-glenns-40-camera-forced-nasa-to-rethink-space-missions/)
