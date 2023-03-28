@@ -4,6 +4,7 @@
 * [2023-03-28, 02:39:32](https://news.ycombinator.com/item?id=35335165) - [A brief history of APFS (Apple File System) in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
 * [2023-03-28, 02:31:07](https://news.ycombinator.com/item?id=35335097) - [For the First Time, the Fed Is Losing Money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
 * [2023-03-28, 02:22:19](https://news.ycombinator.com/item?id=35335037) - [Procedural 3D mesh generation in a 64kB intro](https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro/)
+* [2023-03-28, 02:05:11](https://news.ycombinator.com/item?id=35334911) - [Ask HN: Was tech always so scammy?](https://news.ycombinator.com/item?id=35334911)
 * [2023-03-28, 01:55:53](https://news.ycombinator.com/item?id=35334851) - [Patriot Act on steroids: anti-TikTok Trojan horse for censorship, surveillance](https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty)
 * [2023-03-28, 01:55:44](https://news.ycombinator.com/item?id=35334848) - [Show HN: Regex.ai – AI-powered regular expression generator](https://regex.ai/)
 * [2023-03-28, 01:39:02](https://news.ycombinator.com/item?id=35334719) - [ChatGPT outperforms crowd-workers for text-annotation tasks](https://arxiv.org/abs/2303.15056)
@@ -29,7 +30,6 @@
 * [2023-03-27, 04:01:44](https://news.ycombinator.com/item?id=35322725) - [Banking on the Seaweed Rush](https://hakaimagazine.com/features/banking-on-the-seaweed-rush/)
 * [2023-03-27, 03:39:04](https://news.ycombinator.com/item?id=35322599) - [The Diversity of Arabic Scripts](https://blogs.bl.uk/asian-and-african/2023/03/the-diversity-of-arabic-scripts.html)
 * [2023-03-26, 22:13:55](https://news.ycombinator.com/item?id=35320204) - [An ancient Indian Buddhist monk buried in Athens](https://greekreporter.com/2023/03/20/ancient-indian-buddhist-monk-athens/)
-* [2023-03-25, 14:00:24](https://news.ycombinator.com/item?id=35302700) - [DVDStyler is a cross-platform free DVD authoring application (2021)](https://www.dvdstyler.org/en/)
 
 ## [Archives](archives/index.md)
 
