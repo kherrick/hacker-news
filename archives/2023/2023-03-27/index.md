@@ -66,6 +66,7 @@
 * [2023-03-27, 05:13:58](https://news.ycombinator.com/item?id=35323083) - [FDIC: First–Citizens Bank to Assume All Deposits and Loans of SV Bridge Bank](https://www.fdic.gov/news/press-releases/2023/pr23023.html)
 * [2023-03-27, 04:23:05](https://news.ycombinator.com/item?id=35322823) - [Science Museums Take Stock of 1.1B Objects from Around the World](https://www.nytimes.com/2023/03/23/science/science-museums-online-collections.html)
 * [2023-03-27, 04:20:05](https://news.ycombinator.com/item?id=35322809) - [The Vesuvius Challenge](https://scrollprize.org/overview)
+* [2023-03-27, 04:01:44](https://news.ycombinator.com/item?id=35322725) - [Banking on the Seaweed Rush](https://hakaimagazine.com/features/banking-on-the-seaweed-rush/)
 * [2023-03-27, 03:46:05](https://news.ycombinator.com/item?id=35322644) - [Jewelry made from beetles may have been a status symbol 2k years ago](https://www.atlasobscura.com/articles/beetle-jewelry-status-symbol)
 * [2023-03-27, 03:39:04](https://news.ycombinator.com/item?id=35322599) - [The Diversity of Arabic Scripts](https://blogs.bl.uk/asian-and-african/2023/03/the-diversity-of-arabic-scripts.html)
 * [2023-03-27, 03:15:47](https://news.ycombinator.com/item?id=35322478) - [Scientists finally figure out why the water bear is nearly indestructible (2017)](https://bigthink.com/surprising-science/scientists-finally-figure-out-why-the-water-bear-is-nearly-unstoppable/)

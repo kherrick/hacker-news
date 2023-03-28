@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-03-28](index.md)
+
+* [2023-03-28, 00:25:31](https://news.ycombinator.com/item?id=35334135) - [Clearview AI used nearly 1M times by US police, it tells the BBC](https://www.bbc.com/news/technology-65057011)
