@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 21:43:33](https://news.ycombinator.com/item?id=35348353) - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 * [2023-03-28, 21:12:13](https://news.ycombinator.com/item?id=35347925) - [Senate Bill to Ban TikTok](https://www.congress.gov/bill/118th-congress/senate-bill/686/text?s=1&r=15)
 * [2023-03-28, 21:00:12](https://news.ycombinator.com/item?id=35347760) - [SafeBeat (YC S21) Is Hiring](https://www.ycombinator.com/companies/safebeat/jobs/jeOKzr2-product-manager-advisor)
 * [2023-03-28, 20:52:08](https://news.ycombinator.com/item?id=35347648) - [Is Babylon 5 secretly the most influential TV show of the past 25 years? (2021)](https://www.techradar.com/news/is-babylon-5-secretly-the-most-influential-tv-show-of-the-past-25-years)
