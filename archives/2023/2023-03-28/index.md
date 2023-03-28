@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-28](index.md)
 
+* [2023-03-28, 15:01:43](https://news.ycombinator.com/item?id=35342195) - [Nuenv: An experimental Nushell builder for Nix packages](https://determinate.systems/posts/nuenv)
 * [2023-03-28, 14:51:35](https://news.ycombinator.com/item?id=35342056) - [Amazon starts flagging frequently returned products that you maybe shouldn’t buy](https://www.theverge.com/2023/3/28/23659868/amazon-returns-warning-product-reviews-tag-feature)
+* [2023-03-28, 14:43:47](https://news.ycombinator.com/item?id=35341943) - [I made $3k in 16 attempts to launch my SaaS](https://www.indiehackers.com/post/i-made-3-000-in-16-attempts-to-launch-my-saas-06ab0a9f2a)
 * [2023-03-28, 14:28:22](https://news.ycombinator.com/item?id=35341680) - [Starbucks Illegally Withheld Raises and Tips from Union Workers, NLRB Says](https://perfectunion.us/starbucks-nlrb-credit-card-tip-complaint/)
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
 * [2023-03-28, 14:09:04](https://news.ycombinator.com/item?id=35341354) - [Alibaba to Split into Six Units](https://www.reuters.com/technology/alibaba-split-into-six-units-2023-03-28/)
@@ -19,6 +21,7 @@
 * [2023-03-28, 12:11:08](https://news.ycombinator.com/item?id=35339521) - [Random Fuzzy Thoughts](https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/)
 * [2023-03-28, 12:01:06](https://news.ycombinator.com/item?id=35339377) - [Toko (YC W22) Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35339377)
 * [2023-03-28, 11:59:15](https://news.ycombinator.com/item?id=35339347) - [EU countries approve 2035 phaseout of CO2-emitting cars](https://www.reuters.com/business/autos-transportation/eu-countries-poised-approve-2035-phaseout-co2-emitting-cars-2023-03-28/)
+* [2023-03-28, 11:33:03](https://news.ycombinator.com/item?id=35339010) - [Open Sourcing Cody – Sourcegraph&#x27;s AI-enabled editor assistant](https://about.sourcegraph.com/blog/open-sourcing-cody)
 * [2023-03-28, 11:30:49](https://news.ycombinator.com/item?id=35338984) - [Why the Myers-Briggs test is meaningless](https://www.vox.com/2014/7/15/5881947/myers-briggs-personality-test-meaningless)
 * [2023-03-28, 11:13:21](https://news.ycombinator.com/item?id=35338823) - [You&#x27;re making me buy a new phone](https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone?pk_campaign=rss)
 * [2023-03-28, 11:05:10](https://news.ycombinator.com/item?id=35338757) - [Smart urinals stuck on boot at a gas station in Germany](https://old.reddit.com/r/PBSOD/comments/1244p9k/smart_urinals_stuck_on_boot_at_a_gas_station_in/)
