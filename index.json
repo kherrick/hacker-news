@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-03-29, 00:08:26",
-      "https://news.ycombinator.com/item?id=35350032"
-    ],
-    [
-      "U.S. FDIC tells Signature crypto clients to close accounts by April 5",
-      "https://www.reuters.com/markets/us/us-fdic-tells-signature-banks-crypto-clients-close-accounts-by-april-5-2023-03-28/"
-    ]
-  ],
-  [
-    [
       "2023-03-28, 23:31:09",
       "https://news.ycombinator.com/item?id=35349608"
     ],
@@ -131,11 +121,21 @@
   ],
   [
     [
+      "2023-03-28, 23:20:46",
+      "https://news.ycombinator.com/item?id=35349500"
+    ],
+    [
+      "Rust Is a Scalable Language",
+      "https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html"
+    ]
+  ],
+  [
+    [
       "2023-03-28, 21:54:29",
       "https://news.ycombinator.com/item?id=35348506"
     ],
     [
-      "Always use Zoom in a browser. Avoid the app",
+      "Always use Zoom in a browser. Avoid the app (2020)",
       "https://www.forbes.com/sites/kateoflahertyuk/2020/04/29/zoom-security-tip-avoid-the-app-and-do-this-instead-heres-why/"
     ]
   ],
@@ -181,22 +181,22 @@
   ],
   [
     [
-      "2023-03-28, 18:25:13",
-      "https://news.ycombinator.com/item?id=35345612"
-    ],
-    [
-      "EU Commission doesn&#x27;t understand what&#x27;s written in its own chat control bill",
-      "https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/"
-    ]
-  ],
-  [
-    [
       "2023-03-28, 17:53:51",
       "https://news.ycombinator.com/item?id=35345117"
     ],
     [
       "Infinite Mac: Infinitemac.org",
       "https://blog.persistent.info/2023/03/infinitemac-dot-org.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-28, 17:17:56",
+      "https://news.ycombinator.com/item?id=35344514"
+    ],
+    [
+      "Interaction Nets, Combinators, and Calculus – HVM",
+      "https://zicklag.github.io/blog/interaction-nets-combinators-calculus/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2023-03-28, 16:34:15",
-      "https://news.ycombinator.com/item?id=35343763"
-    ],
-    [
-      "Cerebras-GPT: A Family of Open, Compute-Efficient, Large Language Models",
-      "https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/"
-    ]
-  ],
-  [
-    [
       "2023-03-28, 16:19:48",
       "https://news.ycombinator.com/item?id=35343495"
     ],
@@ -267,6 +257,16 @@
     [
       "Launch HN: Metal (YC W23) – Embeddings as a Service",
       "https://news.ycombinator.com/item?id=35341514"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 20:40:14",
+      "https://news.ycombinator.com/item?id=35332202"
+    ],
+    [
+      "Martin Frobenius Ledermüller’s Microscopic Delights (1759–63)",
+      "https://publicdomainreview.org/collection/microscopic-delights"
     ]
   ],
   [
