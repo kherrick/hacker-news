@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-03-29, 03:49:44",
-      "https://news.ycombinator.com/item?id=35352194"
-    ],
-    [
-      "AI startup Pinecone valued at $700M",
-      "https://www.businessinsider.com/chroma-weaviate-pinecone-raise-funding-a16z-index-vector-database-ai-2023-3"
-    ]
-  ],
-  [
-    [
       "2023-03-29, 03:39:51",
       "https://news.ycombinator.com/item?id=35352094"
     ],
@@ -47,36 +37,6 @@
     [
       "Binance sees $2B in outflows as troubles compound",
       "https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 03:02:42",
-      "https://news.ycombinator.com/item?id=35351760"
-    ],
-    [
-      "Modern software performance is firmly in its “beyond parody” stage",
-      "https://twitter.com/cmuratori/status/1640827575437250561"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 02:40:04",
-      "https://news.ycombinator.com/item?id=35351578"
-    ],
-    [
-      "Idaho hospital to stop delivering babies as doctors flee over abortion ban",
-      "https://www.theguardian.com/us-news/2023/mar/20/idaho-bonner-hospital-baby-delivery-abortion-ban"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 02:35:10",
-      "https://news.ycombinator.com/item?id=35351533"
-    ],
-    [
-      "William Wulf, computer pioneer who opened way for internet, dies at 83",
-      "https://www.washingtonpost.com/obituaries/2023/03/28/william-wulf-internet-computers-dies/"
     ]
   ],
   [
@@ -121,26 +81,6 @@
   ],
   [
     [
-      "2023-03-28, 23:20:46",
-      "https://news.ycombinator.com/item?id=35349500"
-    ],
-    [
-      "Rust Is a Scalable Language",
-      "https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 21:54:29",
-      "https://news.ycombinator.com/item?id=35348506"
-    ],
-    [
-      "Always use Zoom in a browser. Avoid the app (2020)",
-      "https://www.forbes.com/sites/kateoflahertyuk/2020/04/29/zoom-security-tip-avoid-the-app-and-do-this-instead-heres-why/"
-    ]
-  ],
-  [
-    [
       "2023-03-28, 21:51:10",
       "https://news.ycombinator.com/item?id=35348452"
     ],
@@ -151,12 +91,12 @@
   ],
   [
     [
-      "2023-03-28, 20:52:08",
-      "https://news.ycombinator.com/item?id=35347648"
+      "2023-03-28, 21:00:12",
+      "https://news.ycombinator.com/item?id=35347760"
     ],
     [
-      "Is Babylon 5 secretly the most influential TV show of the past 25 years? (2021)",
-      "https://www.techradar.com/news/is-babylon-5-secretly-the-most-influential-tv-show-of-the-past-25-years"
+      "SafeBeat (YC S21) Is Hiring",
+      "https://www.ycombinator.com/companies/safebeat/jobs/jeOKzr2-product-manager-advisor"
     ]
   ],
   [
@@ -181,12 +121,32 @@
   ],
   [
     [
+      "2023-03-28, 18:25:13",
+      "https://news.ycombinator.com/item?id=35345612"
+    ],
+    [
+      "EU Commission doesn&#x27;t understand what&#x27;s written in its own chat control bill",
+      "https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/"
+    ]
+  ],
+  [
+    [
       "2023-03-28, 17:53:51",
       "https://news.ycombinator.com/item?id=35345117"
     ],
     [
       "Infinite Mac: Infinitemac.org",
       "https://blog.persistent.info/2023/03/infinitemac-dot-org.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-28, 17:36:02",
+      "https://news.ycombinator.com/item?id=35344831"
+    ],
+    [
+      "UK sets up fake booter sites to muddy DDoS market",
+      "https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/"
     ]
   ],
   [
@@ -231,22 +191,22 @@
   ],
   [
     [
+      "2023-03-28, 16:34:15",
+      "https://news.ycombinator.com/item?id=35343763"
+    ],
+    [
+      "Cerebras-GPT: A Family of Open, Compute-Efficient, Large Language Models",
+      "https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/"
+    ]
+  ],
+  [
+    [
       "2023-03-28, 16:19:48",
       "https://news.ycombinator.com/item?id=35343495"
     ],
     [
       "Bicycle",
       "https://ciechanow.ski/bicycle/"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 15:32:35",
-      "https://news.ycombinator.com/item?id=35342708"
-    ],
-    [
-      "Iceland long term visa for remote workers",
-      "https://island.is/en/get-long-term-visa-for-remote-workers"
     ]
   ],
   [
@@ -281,6 +241,26 @@
   ],
   [
     [
+      "2023-03-27, 12:10:09",
+      "https://news.ycombinator.com/item?id=35325634"
+    ],
+    [
+      "Tectonic – A modern, complete, self-contained Tex engine with Unicode support",
+      "https://tectonic-typesetting.github.io/en-US/"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 10:48:04",
+      "https://news.ycombinator.com/item?id=35325038"
+    ],
+    [
+      "Intel 80386 CPU Information",
+      "https://www.pcjs.org/documents/manuals/intel/80386/"
+    ]
+  ],
+  [
+    [
       "2023-03-27, 09:09:11",
       "https://news.ycombinator.com/item?id=35324509"
     ],
@@ -297,6 +277,26 @@
     [
       "NSA Ghidra software reverse engineering framework",
       "https://github.com/NationalSecurityAgency/ghidra"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 06:53:52",
+      "https://news.ycombinator.com/item?id=35323640"
+    ],
+    [
+      "Writing a Profiler in 240 lines of pure Java",
+      "https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 05:18:29",
+      "https://news.ycombinator.com/item?id=35323107"
+    ],
+    [
+      "Medieval Arabic surgeon Ibn al Quff&#x27;s account on surgical pain relief",
+      "https://journals.lww.com/anar/fulltext/2010/04010/historical_essay__an_arabic_surgeon,_ibn_al_quff_s.3.aspx"
     ]
   ]
 ]
