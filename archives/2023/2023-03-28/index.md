@@ -54,6 +54,7 @@
 * [2023-03-28, 14:51:35](https://news.ycombinator.com/item?id=35342056) - [Amazon starts flagging frequently returned products that you maybe shouldn’t buy](https://www.theverge.com/2023/3/28/23659868/amazon-returns-warning-product-reviews-tag-feature)
 * [2023-03-28, 14:43:47](https://news.ycombinator.com/item?id=35341943) - [I made $3k in 16 attempts to launch my SaaS](https://www.indiehackers.com/post/i-made-3-000-in-16-attempts-to-launch-my-saas-06ab0a9f2a)
 * [2023-03-28, 14:28:22](https://news.ycombinator.com/item?id=35341680) - [Starbucks Illegally Withheld Raises and Tips from Union Workers, NLRB Says](https://perfectunion.us/starbucks-nlrb-credit-card-tip-complaint/)
+* [2023-03-28, 14:21:15](https://news.ycombinator.com/item?id=35341560) - [What Killed Penmanship?](https://www.nytimes.com/2023/03/24/style/messy-handwriting.html)
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
 * [2023-03-28, 14:16:24](https://news.ycombinator.com/item?id=35341471) - [How to Polis, 101, Part IIb: Archons](https://acoup.blog/2023/03/24/collections-how-to-polis-101-part-iib-archons/)
 * [2023-03-28, 14:09:04](https://news.ycombinator.com/item?id=35341354) - [Alibaba to Split into Six Units](https://www.reuters.com/technology/alibaba-split-into-six-units-2023-03-28/)
