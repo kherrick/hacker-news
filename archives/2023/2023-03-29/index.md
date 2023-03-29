@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 21:47:11](https://news.ycombinator.com/item?id=35364224) - [Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807)
 * [2023-03-29, 21:27:49](https://news.ycombinator.com/item?id=35363967) - [Video and Transcript: Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
 * [2023-03-29, 21:00:26](https://news.ycombinator.com/item?id=35363547) - [OneSignal (YC S11) is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
 * [2023-03-29, 20:55:43](https://news.ycombinator.com/item?id=35363469) - [A Community in Crisis: ChatGPT Token Theft Epidemic in Unity1Week Games](https://cohost.org/renkotsuban/post/1249183-cw-chatgpt-bullshit)
@@ -47,6 +48,7 @@
 * [2023-03-29, 11:59:43](https://news.ycombinator.com/item?id=35355880) - [Rice fuels diabetes and climate crises](https://www.economist.com/asia/2023/03/28/there-is-a-global-rice-crisis)
 * [2023-03-29, 11:42:35](https://news.ycombinator.com/item?id=35355729) - [Italy moves to ban lab-grown meat to protect food heritage](https://www.bbc.co.uk/news/world-europe-65110744)
 * [2023-03-29, 11:39:28](https://news.ycombinator.com/item?id=35355703) - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
+* [2023-03-29, 11:19:37](https://news.ycombinator.com/item?id=35355527) - [The Science of Scale (2022)](https://www.gregegan.net/SCALE/01/ScienceOfScale.html)
 * [2023-03-29, 11:13:04](https://news.ycombinator.com/item?id=35355469) - [Terence Tao makes progress on the Collatz conjecture (2019)](https://www.quantamagazine.org/mathematician-proves-huge-result-on-dangerous-problem-20191211)
 * [2023-03-29, 11:08:45](https://news.ycombinator.com/item?id=35355437) - [Mamihlapinatapai, Most Succinct Word](https://en.wikipedia.org/wiki/Mamihlapinatapai)
 * [2023-03-29, 11:00:15](https://news.ycombinator.com/item?id=35355372) - [Carl Braun on Communicating Like a Grown-Up (2016)](https://fs.blog/carl-braun-communicating/)
