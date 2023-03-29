@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 12:25:45](https://news.ycombinator.com/item?id=35356201) - [H26Forge: Exploiting Vulnerabilities in the H.264 Decoders of iOS, Firefox, VLC [pdf]](https://wrv.github.io/h26forge.pdf)
+* [2023-03-29, 12:20:34](https://news.ycombinator.com/item?id=35356149) - [Google finds more Android, iOS zero-days used to install spyware](https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/)
+* [2023-03-29, 12:13:52](https://news.ycombinator.com/item?id=35356054) - [Become a 1000x engineer or die tryin](https://kadekillary.work/posts/1000x-eng/)
 * [2023-03-29, 12:00:46](https://news.ycombinator.com/item?id=35355891) - [Bitmovin (YC S15) Is Hiring Engineers, Architects and CX for Video](https://bitmovin.com/careers/)
 * [2023-03-29, 11:59:43](https://news.ycombinator.com/item?id=35355880) - [Rice fuels diabetes and climate crises](https://www.economist.com/asia/2023/03/28/there-is-a-global-rice-crisis)
 * [2023-03-29, 11:42:35](https://news.ycombinator.com/item?id=35355729) - [Italy moves to ban lab-grown meat to protect food heritage](https://www.bbc.co.uk/news/world-europe-65110744)
