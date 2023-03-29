@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
 * [2023-03-29, 21:47:11](https://news.ycombinator.com/item?id=35364224) - [Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807)
+* [2023-03-29, 21:29:37](https://news.ycombinator.com/item?id=35363993) - [Type system of Fortnite&#x27;s Verse language](https://brianmckenna.org/blog/verse_types)
 * [2023-03-29, 21:27:49](https://news.ycombinator.com/item?id=35363967) - [Video and Transcript: Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
 * [2023-03-29, 21:00:26](https://news.ycombinator.com/item?id=35363547) - [OneSignal (YC S11) is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
 * [2023-03-29, 20:55:43](https://news.ycombinator.com/item?id=35363469) - [A Community in Crisis: ChatGPT Token Theft Epidemic in Unity1Week Games](https://cohost.org/renkotsuban/post/1249183-cw-chatgpt-bullshit)

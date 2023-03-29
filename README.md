@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-29, 21:47:11](https://news.ycombinator.com/item?id=35364224) - [Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807)
+* [2023-03-29, 21:29:37](https://news.ycombinator.com/item?id=35363993) - [Type system of Fortnite&#x27;s Verse language](https://brianmckenna.org/blog/verse_types)
 * [2023-03-29, 21:27:49](https://news.ycombinator.com/item?id=35363967) - [Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
 * [2023-03-29, 21:00:26](https://news.ycombinator.com/item?id=35363547) - [OneSignal (YC S11) is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
 * [2023-03-29, 20:32:46](https://news.ycombinator.com/item?id=35363095) - [Judge finds Google destroyed evidence and repeatedly lied to the court [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.373179/gov.uscourts.cand.373179.469.0.pdf)
@@ -29,7 +30,6 @@
 * [2023-03-28, 17:28:04](https://news.ycombinator.com/item?id=35344703) - [Incompetent but Nice](https://jacobian.org/2023/mar/28/incompetent-but-nice/)
 * [2023-03-28, 12:50:32](https://news.ycombinator.com/item?id=35340083) - [Treat your to-read pile like a river, not a bucket](https://www.oliverburkeman.com/river)
 * [2023-03-28, 12:41:03](https://news.ycombinator.com/item?id=35339955) - [Awk Technical Notes](https://maximullaris.com/awk_tech_notes.html)
-* [2023-03-27, 20:40:14](https://news.ycombinator.com/item?id=35332202) - [Martin Frobenius Ledermüller’s Microscopic Delights (1759–63)](https://publicdomainreview.org/collection/microscopic-delights)
 
 ## [Archives](archives/index.md)
 
