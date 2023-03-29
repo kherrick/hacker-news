@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-29, 11:42:35](https://news.ycombinator.com/item?id=35355729) - [Italy moves to ban lab-grown meat to protect food heritage](https://www.bbc.co.uk/news/world-europe-65110744)
 * [2023-03-29, 11:08:45](https://news.ycombinator.com/item?id=35355437) - [Mamihlapinatapai, Most Succinct Word](https://en.wikipedia.org/wiki/Mamihlapinatapai)
-* [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/Articles/927262/)
-* [2023-03-29, 07:38:43](https://news.ycombinator.com/item?id=35353871) - [Show HN: Atmos – Everything you need to create color palettes](https://atmos.style)
+* [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/SubscriberLink/927262/6adb2350e2b0d2ce/)
 * [2023-03-29, 06:08:29](https://news.ycombinator.com/item?id=35353264) - [WiFi protocol flaw allows attackers to hijack network traffic](https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/)
 * [2023-03-29, 05:55:41](https://news.ycombinator.com/item?id=35353182) - [Tailwind CSS v3.3](https://tailwindcss.com/blog/tailwindcss-v3-3)
 * [2023-03-29, 05:22:51](https://news.ycombinator.com/item?id=35352989) - [Establishing a UART Root Connection to a TP-Link Wireless Router](https://staging.rickconsole.com/posts/hardware-hacking-tp-link/)

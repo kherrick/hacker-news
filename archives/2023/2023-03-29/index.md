@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 11:42:35](https://news.ycombinator.com/item?id=35355729) - [Italy moves to ban lab-grown meat to protect food heritage](https://www.bbc.co.uk/news/world-europe-65110744)
 * [2023-03-29, 11:08:45](https://news.ycombinator.com/item?id=35355437) - [Mamihlapinatapai, Most Succinct Word](https://en.wikipedia.org/wiki/Mamihlapinatapai)
+* [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/SubscriberLink/927262/6adb2350e2b0d2ce/)
 * [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/Articles/927262/)
 * [2023-03-29, 08:30:27](https://news.ycombinator.com/item?id=35354229) - [Ask HN: How many hours do you work on a daily basis?](https://news.ycombinator.com/item?id=35354229)
 * [2023-03-29, 07:38:43](https://news.ycombinator.com/item?id=35353871) - [Show HN: Atmos – Everything you need to create color palettes](https://atmos.style)
