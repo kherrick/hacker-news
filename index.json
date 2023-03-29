@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-29, 04:15:08",
+      "https://news.ycombinator.com/item?id=35352452"
+    ],
+    [
+      "Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)",
+      "https://github.com/Picsart-AI-Research/Text2Video-Zero"
+    ]
+  ],
+  [
+    [
       "2023-03-29, 03:39:51",
       "https://news.ycombinator.com/item?id=35352094"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35351805"
     ],
     [
-      "Binance Sees $2B in Outflows as Troubles Compound",
+      "Binance sees $2B in outflows as troubles compound",
       "https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "Modern software performance is firmly in its “beyond parody” stage",
       "https://twitter.com/cmuratori/status/1640827575437250561"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 02:52:08",
-      "https://news.ycombinator.com/item?id=35351677"
-    ],
-    [
-      "The bill to ban TikTok is absolutely terrifying",
-      "https://twitter.com/greg_price11/status/1640722365809147905"
     ]
   ],
   [
@@ -121,22 +121,22 @@
   ],
   [
     [
-      "2023-03-28, 22:30:37",
-      "https://news.ycombinator.com/item?id=35348928"
-    ],
-    [
-      "Locally run a ChatGPT-style LLM Trained from 800k GPT-3.5-Turbo Generations",
-      "https://twitter.com/andriy_mulyar/status/1640836003194630144"
-    ]
-  ],
-  [
-    [
       "2023-03-28, 21:51:10",
       "https://news.ycombinator.com/item?id=35348452"
     ],
     [
       "The EV Transition Is Harder Than Anyone Thinks",
       "https://spectrum.ieee.org/the-ev-transition-explained-2659602311"
+    ]
+  ],
+  [
+    [
+      "2023-03-28, 21:43:33",
+      "https://news.ycombinator.com/item?id=35348353"
+    ],
+    [
+      "Pause Giant AI Experiments: An Open Letter",
+      "https://futureoflife.org/open-letter/pause-giant-ai-experiments/"
     ]
   ],
   [
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2023-03-28, 20:24:18",
-      "https://news.ycombinator.com/item?id=35347291"
+      "2023-03-28, 20:43:18",
+      "https://news.ycombinator.com/item?id=35347540"
     ],
     [
-      "How to create a private ChatGPT with your own data",
-      "https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1"
+      "Microsoft&#x27;s Software Is Malware",
+      "https://www.gnu.org/proprietary/malware-microsoft.en.html"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-03-28, 17:00:11",
+      "https://news.ycombinator.com/item?id=35344227"
+    ],
+    [
+      "My4TH – A minimalistic FORTH computer with discrete CPU",
+      "http://mynor.org/my4th"
+    ]
+  ],
+  [
+    [
       "2023-03-28, 16:36:23",
       "https://news.ycombinator.com/item?id=35343791"
     ],
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2023-03-28, 12:11:08",
-      "https://news.ycombinator.com/item?id=35339521"
+      "2023-03-28, 14:18:40",
+      "https://news.ycombinator.com/item?id=35341514"
     ],
     [
-      "Random Fuzzy Thoughts",
-      "https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 10:49:11",
-      "https://news.ycombinator.com/item?id=35338629"
-    ],
-    [
-      "WSL2 Freeze Issue",
-      "https://github.com/microsoft/WSL/issues/8696"
+      "Launch HN: Metal (YC W23) – Embeddings as a Service",
+      "https://news.ycombinator.com/item?id=35341514"
     ]
   ],
   [
