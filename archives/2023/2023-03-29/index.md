@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 21:27:49](https://news.ycombinator.com/item?id=35363967) - [Video and Transcript: Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
 * [2023-03-29, 21:00:26](https://news.ycombinator.com/item?id=35363547) - [OneSignal (YC S11) is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
+* [2023-03-29, 20:55:43](https://news.ycombinator.com/item?id=35363469) - [A Community in Crisis: ChatGPT Token Theft Epidemic in Unity1Week Games](https://cohost.org/renkotsuban/post/1249183-cw-chatgpt-bullshit)
 * [2023-03-29, 20:32:46](https://news.ycombinator.com/item?id=35363095) - [Judge Finds Google Destroyed Evidence and Repeatedly Lied to the Court [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.373179/gov.uscourts.cand.373179.469.0.pdf)
 * [2023-03-29, 19:27:30](https://news.ycombinator.com/item?id=35362063) - [I built an iMessage bot using Beeper](https://www.getclearspace.com/beeper)
 * [2023-03-29, 19:26:17](https://news.ycombinator.com/item?id=35362048) - [Cerebras-GPT vs. LLaMA AI Model Performance Comparison](https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/)

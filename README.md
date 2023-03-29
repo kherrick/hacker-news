@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-29, 21:27:49](https://news.ycombinator.com/item?id=35363967) - [Video and Transcript: Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
 * [2023-03-29, 21:00:26](https://news.ycombinator.com/item?id=35363547) - [OneSignal (YC S11) is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
+* [2023-03-29, 20:55:43](https://news.ycombinator.com/item?id=35363469) - [A Community in Crisis: ChatGPT Token Theft Epidemic in Unity1Week Games](https://cohost.org/renkotsuban/post/1249183-cw-chatgpt-bullshit)
 * [2023-03-29, 20:32:46](https://news.ycombinator.com/item?id=35363095) - [Judge finds Google destroyed evidence and repeatedly lied to the court [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.373179/gov.uscourts.cand.373179.469.0.pdf)
 * [2023-03-29, 19:27:30](https://news.ycombinator.com/item?id=35362063) - [I built an iMessage bot using Beeper](https://www.getclearspace.com/beeper)
 * [2023-03-29, 19:26:17](https://news.ycombinator.com/item?id=35362048) - [Cerebras-GPT vs. LLaMA AI Model Performance Comparison](https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/)
@@ -20,7 +22,6 @@
 * [2023-03-29, 12:25:45](https://news.ycombinator.com/item?id=35356201) - [Finding and exploiting vulnerabilities in H.264 decoders [pdf]](https://wrv.github.io/h26forge.pdf)
 * [2023-03-29, 12:20:34](https://news.ycombinator.com/item?id=35356149) - [Spyware vendors use 0-days and n-days against Android, iOS and Chrome](https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/)
 * [2023-03-29, 11:39:28](https://news.ycombinator.com/item?id=35355703) - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
-* [2023-03-29, 11:13:04](https://news.ycombinator.com/item?id=35355469) - [Terence Tao makes progress on the Collatz conjecture (2019)](https://www.quantamagazine.org/mathematician-proves-huge-result-on-dangerous-problem-20191211)
 * [2023-03-29, 11:00:15](https://news.ycombinator.com/item?id=35355372) - [Carl Braun on communicating like a grown-up (2016)](https://fs.blog/carl-braun-communicating/)
 * [2023-03-29, 00:08:20](https://news.ycombinator.com/item?id=35350030) - [What we still don’t know about how A.I. is trained](https://www.newyorker.com/news/daily-comment/what-we-still-dont-know-about-how-ai-is-trained)
 * [2023-03-28, 21:43:33](https://news.ycombinator.com/item?id=35348353) - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
@@ -28,7 +29,6 @@
 * [2023-03-28, 17:28:04](https://news.ycombinator.com/item?id=35344703) - [Incompetent but Nice](https://jacobian.org/2023/mar/28/incompetent-but-nice/)
 * [2023-03-28, 12:50:32](https://news.ycombinator.com/item?id=35340083) - [Treat your to-read pile like a river, not a bucket](https://www.oliverburkeman.com/river)
 * [2023-03-28, 12:41:03](https://news.ycombinator.com/item?id=35339955) - [Awk Technical Notes](https://maximullaris.com/awk_tech_notes.html)
-* [2023-03-28, 09:32:30](https://news.ycombinator.com/item?id=35337956) - [BASIC is anything but dead](https://www.theregister.com/2023/03/28/nostalgic_for_basic/)
 * [2023-03-27, 20:40:14](https://news.ycombinator.com/item?id=35332202) - [Martin Frobenius Ledermüller’s Microscopic Delights (1759–63)](https://publicdomainreview.org/collection/microscopic-delights)
 
 ## [Archives](archives/index.md)
