@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-03-29, 12:25:45",
+      "https://news.ycombinator.com/item?id=35356201"
+    ],
+    [
+      "H26Forge: Exploiting Vulnerabilities in the H.264 Decoders of iOS, Firefox, VLC [pdf]",
+      "https://wrv.github.io/h26forge.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 12:20:34",
+      "https://news.ycombinator.com/item?id=35356149"
+    ],
+    [
+      "Google finds more Android, iOS zero-days used to install spyware",
+      "https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 12:13:52",
+      "https://news.ycombinator.com/item?id=35356054"
+    ],
+    [
+      "Become a 1000x engineer or die tryin",
+      "https://kadekillary.work/posts/1000x-eng/"
+    ]
+  ],
+  [
+    [
       "2023-03-29, 12:00:46",
       "https://news.ycombinator.com/item?id=35355891"
     ],
     [
       "Bitmovin (YC S15) Is Hiring Engineers, Architects and CX for Video",
       "https://bitmovin.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 11:59:43",
-      "https://news.ycombinator.com/item?id=35355880"
-    ],
-    [
-      "Rice fuels diabetes and climate crises",
-      "https://www.economist.com/asia/2023/03/28/there-is-a-global-rice-crisis"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2023-03-29, 06:57:46",
-      "https://news.ycombinator.com/item?id=35353606"
-    ],
-    [
-      "DARC: Start a company on blockchain, write your own laws",
-      "https://github.com/Project-DARC/DARC"
-    ]
-  ],
-  [
-    [
       "2023-03-29, 05:55:41",
       "https://news.ycombinator.com/item?id=35353182"
     ],
@@ -117,16 +127,6 @@
     [
       "Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)",
       "https://github.com/Picsart-AI-Research/Text2Video-Zero"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 03:55:42",
-      "https://news.ycombinator.com/item?id=35352247"
-    ],
-    [
-      "Show HN: GPT Calculator – Calculate the token count and cost of your GPT Prompt",
-      "https://www.gptcalculator.xyz/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-03-28, 20:47:28",
-      "https://news.ycombinator.com/item?id=35347588"
-    ],
-    [
-      "Open Flamingo – open framework to train multimodal LLMs",
-      "https://laion.ai/blog/open-flamingo/"
-    ]
-  ],
-  [
-    [
       "2023-03-28, 16:19:48",
       "https://news.ycombinator.com/item?id=35343495"
     ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2023-03-28, 12:18:32",
+      "https://news.ycombinator.com/item?id=35339613"
+    ],
+    [
+      "Winged messengers: how first-class pigeons help police keep Indians safe",
+      "https://www.theguardian.com/global-development/2023/mar/28/winged-messengers-how-first-class-pigeons-help-police-keep-indians-safe"
+    ]
+  ],
+  [
+    [
       "2023-03-28, 05:45:48",
       "https://news.ycombinator.com/item?id=35336417"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2023-03-27, 12:49:30",
-      "https://news.ycombinator.com/item?id=35325995"
+      "2023-03-27, 20:40:14",
+      "https://news.ycombinator.com/item?id=35332202"
     ],
     [
-      "Linguistics and Programming Languages (2006)",
-      "https://250bpm.com/blog:95/"
+      "Martin Frobenius Ledermüller’s Microscopic Delights (1759–63)",
+      "https://publicdomainreview.org/collection/microscopic-delights"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-03-27, 08:49:21",
-      "https://news.ycombinator.com/item?id=35324380"
+      "2023-03-27, 10:35:50",
+      "https://news.ycombinator.com/item?id=35324961"
     ],
     [
-      "NSA Ghidra software reverse engineering framework",
-      "https://github.com/NationalSecurityAgency/ghidra"
+      "The ThinkPad X1 Carbon Gen 10 as a Linux Laptop",
+      "https://www.theregister.com/2023/03/10/thinkpad_x1c_g10_linux/"
     ]
   ],
   [
