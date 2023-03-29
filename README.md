@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-29, 19:21:51](https://news.ycombinator.com/item?id=35361979) - [In the Age of AI, Don&#x27;t Let Your Skills Atrophy](https://www.cyberdemon.org/2023/03/29/age-of-ai-skill-atrophy.html)
 * [2023-03-29, 19:16:58](https://news.ycombinator.com/item?id=35361907) - [What is really going on at Amazon Fresh?](https://emaggiori.com/amazon-fresh/)
 * [2023-03-29, 19:04:30](https://news.ycombinator.com/item?id=35361721) - [Dumb phones are on the rise in the U.S. as Gen Z looks to limit screen time](https://www.cnbc.com/2023/03/29/dumb-phones-are-on-the-rise-in-the-us-as-gen-z-limits-screen-time.html)
 * [2023-03-29, 18:58:32](https://news.ycombinator.com/item?id=35361628) - [CSS is hard no matter how good you are at it](https://www.aha.io/engineering/articles/css-is-hard-no-matter-how-good-you-are-at-it)
@@ -20,7 +21,6 @@
 * [2023-03-29, 12:25:45](https://news.ycombinator.com/item?id=35356201) - [Finding and exploiting vulnerabilities in H.264 decoders [pdf]](https://wrv.github.io/h26forge.pdf)
 * [2023-03-29, 12:20:34](https://news.ycombinator.com/item?id=35356149) - [Spyware vendors use 0-days and n-days against Android, iOS and Chrome](https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/)
 * [2023-03-29, 11:39:28](https://news.ycombinator.com/item?id=35355703) - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
-* [2023-03-29, 08:37:13](https://news.ycombinator.com/item?id=35354271) - [A Theory of Vibe (2017)](https://www.glass-bead.org/article/a-theory-of-vibe/)
 * [2023-03-29, 00:08:20](https://news.ycombinator.com/item?id=35350030) - [What we still don’t know about how A.I. is trained](https://www.newyorker.com/news/daily-comment/what-we-still-dont-know-about-how-ai-is-trained)
 * [2023-03-28, 21:43:33](https://news.ycombinator.com/item?id=35348353) - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 * [2023-03-28, 21:12:13](https://news.ycombinator.com/item?id=35347925) - [Senate Bill to Ban TikTok](https://www.congress.gov/bill/118th-congress/senate-bill/686/text?s=1&r=15)
