@@ -13,7 +13,6 @@
 * [2023-03-29, 18:25:15](https://news.ycombinator.com/item?id=35361192) - [Gambas Almost Means BASIC](https://gambas.sourceforge.net/en/main.html)
 * [2023-03-29, 17:15:57](https://news.ycombinator.com/item?id=35360219) - [Original Prusa MK4](https://www.prusa3d.com/product/original-prusa-mk4-2/)
 * [2023-03-29, 16:23:21](https://news.ycombinator.com/item?id=35359473) - [Show HN: go-nbd – A Pure Go NBD Server and Client](https://github.com/pojntfx/go-nbd)
-* [2023-03-29, 16:12:42](https://news.ycombinator.com/item?id=35359295) - [Clues to the lives of North America’s first inhabitants are hidden underwater](https://www.smithsonianmag.com/history/biggest-clues-lives-early-americans-hidden-underwater-submerged-prehistory-180981891/)
 * [2023-03-29, 15:43:36](https://news.ycombinator.com/item?id=35358873) - [Launch HN: Vocode (YC W23) – Library for voice conversation with LLMs](https://news.ycombinator.com/item?id=35358873)
 * [2023-03-29, 15:19:24](https://news.ycombinator.com/item?id=35358535) - [Show HN: Mirrorful – A developer-first way to implement designs faster](https://github.com/Mirrorful/mirrorful)
 * [2023-03-29, 12:30:28](https://news.ycombinator.com/item?id=35356256) - [Rotten meat may have been a staple of Stone Age diets](https://www.sciencenews.org/article/meat-rotten-putrid-paleo-diet-fire-neanderthal)
@@ -30,6 +29,7 @@
 * [2023-03-28, 17:28:04](https://news.ycombinator.com/item?id=35344703) - [Incompetent but Nice](https://jacobian.org/2023/mar/28/incompetent-but-nice/)
 * [2023-03-28, 12:50:32](https://news.ycombinator.com/item?id=35340083) - [Treat your to-read pile like a river, not a bucket](https://www.oliverburkeman.com/river)
 * [2023-03-28, 12:41:03](https://news.ycombinator.com/item?id=35339955) - [Awk Technical Notes](https://maximullaris.com/awk_tech_notes.html)
+* [2023-03-27, 20:40:14](https://news.ycombinator.com/item?id=35332202) - [Martin Frobenius Ledermüller’s Microscopic Delights (1759–63)](https://publicdomainreview.org/collection/microscopic-delights)
 
 ## [Archives](archives/index.md)
 
