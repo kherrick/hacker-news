@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-03-29, 06:08:29",
+      "https://news.ycombinator.com/item?id=35353264"
+    ],
+    [
+      "WiFi protocol flaw allows attackers to hijack network traffic",
+      "https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/"
+    ]
+  ],
+  [
+    [
       "2023-03-29, 05:55:41",
       "https://news.ycombinator.com/item?id=35353182"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2023-03-29, 00:42:57",
+      "https://news.ycombinator.com/item?id=35350407"
+    ],
+    [
+      "Introduction to Autoencoders",
+      "https://www.pinecone.io/learn/autoencoders/"
+    ]
+  ],
+  [
+    [
       "2023-03-29, 00:33:06",
       "https://news.ycombinator.com/item?id=35350288"
     ],
@@ -151,6 +171,16 @@
   ],
   [
     [
+      "2023-03-28, 20:51:51",
+      "https://news.ycombinator.com/item?id=35347647"
+    ],
+    [
+      "New health insurance “transparency data” looks suspiciously wrong",
+      "https://www.dolthub.com/blog/2023-03-23-illusion-of-transparency/"
+    ]
+  ],
+  [
+    [
       "2023-03-28, 20:47:28",
       "https://news.ycombinator.com/item?id=35347588"
     ],
@@ -167,46 +197,6 @@
     [
       "Infinite Mac: Infinitemac.org",
       "https://blog.persistent.info/2023/03/infinitemac-dot-org.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 17:36:02",
-      "https://news.ycombinator.com/item?id=35344831"
-    ],
-    [
-      "UK sets up fake booter sites to muddy DDoS market",
-      "https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 17:17:56",
-      "https://news.ycombinator.com/item?id=35344514"
-    ],
-    [
-      "Interaction Nets, Combinators, and Calculus – HVM",
-      "https://zicklag.github.io/blog/interaction-nets-combinators-calculus/"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 17:07:56",
-      "https://news.ycombinator.com/item?id=35344354"
-    ],
-    [
-      "TaxyAI: Open-source browser automation with GPT-4",
-      "https://github.com/TaxyAI/browser-extension"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 17:00:11",
-      "https://news.ycombinator.com/item?id=35344227"
-    ],
-    [
-      "My4TH – A minimalistic FORTH computer with discrete CPU",
-      "http://mynor.org/my4th"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "The ThinkPad X1 Carbon Gen 10 as a Linux Laptop",
       "https://www.theregister.com/2023/03/10/thinkpad_x1c_g10_linux/"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 08:49:21",
+      "https://news.ycombinator.com/item?id=35324380"
+    ],
+    [
+      "NSA Ghidra software reverse engineering framework",
+      "https://github.com/NationalSecurityAgency/ghidra"
     ]
   ],
   [
