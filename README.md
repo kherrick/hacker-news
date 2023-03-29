@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-29, 12:30:28](https://news.ycombinator.com/item?id=35356256) - [A surprising food may have been a staple of the real Paleo diet: rotten meat](https://www.sciencenews.org/article/meat-rotten-putrid-paleo-diet-fire-neanderthal)
 * [2023-03-29, 12:25:45](https://news.ycombinator.com/item?id=35356201) - [H26Forge: Exploiting Vulnerabilities in the H.264 Decoders of iOS, Firefox, VLC [pdf]](https://wrv.github.io/h26forge.pdf)
 * [2023-03-29, 12:20:34](https://news.ycombinator.com/item?id=35356149) - [Google finds more Android, iOS zero-days used to install spyware](https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/)
 * [2023-03-29, 12:13:52](https://news.ycombinator.com/item?id=35356054) - [Become a 1000x engineer or die tryin](https://kadekillary.work/posts/1000x-eng/)
@@ -20,7 +21,6 @@
 * [2023-03-29, 00:42:57](https://news.ycombinator.com/item?id=35350407) - [Introduction to Autoencoders](https://www.pinecone.io/learn/autoencoders/)
 * [2023-03-29, 00:33:06](https://news.ycombinator.com/item?id=35350288) - [$39 Cooler Master case turns your old Framework Laptop parts into a tiny PC](https://www.theverge.com/2023/3/23/23652939/framework-cooler-master-sff-pc-case)
 * [2023-03-28, 23:31:09](https://news.ycombinator.com/item?id=35349608) - [Gpt4all: A chatbot trained on ~800k GPT-3.5-Turbo Generations based on LLaMa](https://github.com/nomic-ai/gpt4all)
-* [2023-03-28, 21:51:10](https://news.ycombinator.com/item?id=35348452) - [The EV Transition Is Harder Than Anyone Thinks](https://spectrum.ieee.org/the-ev-transition-explained-2659602311)
 * [2023-03-28, 16:19:48](https://news.ycombinator.com/item?id=35343495) - [Bicycle](https://ciechanow.ski/bicycle/)
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
 * [2023-03-28, 12:18:32](https://news.ycombinator.com/item?id=35339613) - [Winged messengers: how first-class pigeons help police keep Indians safe](https://www.theguardian.com/global-development/2023/mar/28/winged-messengers-how-first-class-pigeons-help-police-keep-indians-safe)
