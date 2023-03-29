@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-29, 06:08:29](https://news.ycombinator.com/item?id=35353264) - [WiFi protocol flaw allows attackers to hijack network traffic](https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/)
 * [2023-03-29, 05:22:51](https://news.ycombinator.com/item?id=35352989) - [Establishing a UART Root Connection to a TP-Link Wireless Router](https://staging.rickconsole.com/posts/hardware-hacking-tp-link/)
 * [2023-03-29, 04:51:42](https://news.ycombinator.com/item?id=35352771) - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
 * [2023-03-29, 04:15:08](https://news.ycombinator.com/item?id=35352452) - [Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
@@ -26,7 +27,6 @@
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
 * [2023-03-27, 12:49:30](https://news.ycombinator.com/item?id=35325995) - [Linguistics and Programming Languages (2006)](https://250bpm.com/blog:95/)
 * [2023-03-27, 11:06:01](https://news.ycombinator.com/item?id=35325165) - [NXP LA9310: A new platform for SDR and the 10-year-old AD9361 RF Transceiver](https://rfnm.io)
-* [2023-03-27, 09:09:11](https://news.ycombinator.com/item?id=35324509) - [On Writing Better Error Messages](https://onlineornot.com/write-better-error-messages)
 * [2023-03-27, 08:49:21](https://news.ycombinator.com/item?id=35324380) - [NSA Ghidra software reverse engineering framework](https://github.com/NationalSecurityAgency/ghidra)
 * [2023-03-27, 06:53:52](https://news.ycombinator.com/item?id=35323640) - [Writing a Profiler in 240 lines of pure Java](https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/)
 * [2023-03-27, 05:18:29](https://news.ycombinator.com/item?id=35323107) - [Medieval Arabic surgeon Ibn al Quff&#x27;s account on surgical pain relief](https://journals.lww.com/anar/fulltext/2010/04010/historical_essay__an_arabic_surgeon,_ibn_al_quff_s.3.aspx)
