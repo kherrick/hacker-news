@@ -62,6 +62,7 @@
 * [2023-03-27, 10:21:17](https://news.ycombinator.com/item?id=35324881) - [Ask HN: How do I move forward after being laid off?](https://news.ycombinator.com/item?id=35324881)
 * [2023-03-27, 09:03:36](https://news.ycombinator.com/item?id=35324476) - [An early 3D viewer (1986)](https://www.fano.co.uk/meccano/view3d.html)
 * [2023-03-27, 08:56:56](https://news.ycombinator.com/item?id=35324430) - [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
+* [2023-03-27, 08:49:21](https://news.ycombinator.com/item?id=35324380) - [NSA Ghidra software reverse engineering framework](https://github.com/NationalSecurityAgency/ghidra)
 * [2023-03-27, 08:23:53](https://news.ycombinator.com/item?id=35324232) - [The true power of regular expressions (2012)](https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html)
 * [2023-03-27, 07:42:02](https://news.ycombinator.com/item?id=35323960) - [Show HN: SlickGPT](https://slickgpt.vercel.app/)
 * [2023-03-27, 07:28:37](https://news.ycombinator.com/item?id=35323872) - [Morse Code Chat](https://morse.halb.it/)
