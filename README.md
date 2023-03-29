@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-29, 03:09:24](https://news.ycombinator.com/item?id=35351805) - [Binance Sees $2B in Outflows as Troubles Compound](https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21)
 * [2023-03-29, 01:40:54](https://news.ycombinator.com/item?id=35350952) - [Disney Eliminates Its Metaverse Division](https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650)
 * [2023-03-29, 01:33:58](https://news.ycombinator.com/item?id=35350901) - [VPN Users Risk 20-Year Jail Sentences in the US Under New Restrict Act](https://beincrypto.com/vpn-users-risk-20-year-jail-sentences-us-restrict-act/)
 * [2023-03-29, 01:26:48](https://news.ycombinator.com/item?id=35350822) - [You Are You. We Live Here. This Is Now](https://freddiedeboer.substack.com/p/you-are-you-we-live-here-this-is)
@@ -15,8 +16,6 @@
 * [2023-03-28, 20:52:08](https://news.ycombinator.com/item?id=35347648) - [Is Babylon 5 secretly the most influential TV show of the past 25 years? (2021)](https://www.techradar.com/news/is-babylon-5-secretly-the-most-influential-tv-show-of-the-past-25-years)
 * [2023-03-28, 20:51:51](https://news.ycombinator.com/item?id=35347647) - [New health insurance “transparency data” looks suspiciously wrong](https://www.dolthub.com/blog/2023-03-23-illusion-of-transparency/)
 * [2023-03-28, 20:47:28](https://news.ycombinator.com/item?id=35347588) - [Open Flamingo – open framework to train multimodal LLMs](https://laion.ai/blog/open-flamingo/)
-* [2023-03-28, 20:24:18](https://news.ycombinator.com/item?id=35347291) - [How to create a private ChatGPT with your own data](https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1)
-* [2023-03-28, 19:00:44](https://news.ycombinator.com/item?id=35346137) - [Windows 11 KB5023778 update adds promotions to the Start menu](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5023778-update-adds-promotions-to-the-start-menu/)
 * [2023-03-28, 18:25:13](https://news.ycombinator.com/item?id=35345612) - [EU Commission doesn&#x27;t understand what&#x27;s written in its own chat control bill](https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/)
 * [2023-03-28, 17:53:51](https://news.ycombinator.com/item?id=35345117) - [Infinite Mac: Infinitemac.org](https://blog.persistent.info/2023/03/infinitemac-dot-org.html)
 * [2023-03-28, 17:33:08](https://news.ycombinator.com/item?id=35344787) - [Show HN: A fully open-source (Apache 2.0)implementation of llama](https://github.com/Lightning-AI/lit-llama)
@@ -24,6 +23,7 @@
 * [2023-03-28, 16:36:23](https://news.ycombinator.com/item?id=35343791) - [LLMs and GPT: Some of my favorite learning materials](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d)
 * [2023-03-28, 16:34:15](https://news.ycombinator.com/item?id=35343763) - [Cerebras-GPT: A Family of Open, Compute-Efficient, Large Language Models](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
 * [2023-03-28, 16:19:48](https://news.ycombinator.com/item?id=35343495) - [Bicycle](https://ciechanow.ski/bicycle/)
+* [2023-03-28, 15:32:35](https://news.ycombinator.com/item?id=35342708) - [Iceland long term visa for remote workers](https://island.is/en/get-long-term-visa-for-remote-workers)
 * [2023-03-28, 15:17:04](https://news.ycombinator.com/item?id=35342457) - [A non-federated decentralized social protocol based on Git](https://github.com/social4git/social4git)
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
 * [2023-03-28, 12:54:03](https://news.ycombinator.com/item?id=35340171) - [Android app from China executed 0-day exploit on millions of devices](https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/)
