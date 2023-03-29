@@ -1,12 +1,142 @@
 [
   [
     [
+      "2023-03-29, 17:00:24",
+      "https://news.ycombinator.com/item?id=35360019"
+    ],
+    [
+      "Patterns (YC S21) Is Hiring AI Engineers",
+      "http://patterns.app/"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 16:43:24",
+      "https://news.ycombinator.com/item?id=35359784"
+    ],
+    [
+      "Blender 3.5",
+      "https://www.blender.org/download/releases/3-5/"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 16:23:21",
+      "https://news.ycombinator.com/item?id=35359473"
+    ],
+    [
+      "Show HN: go-nbd – A Pure Go NBD Server and Client",
+      "https://github.com/pojntfx/go-nbd"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 16:15:34",
+      "https://news.ycombinator.com/item?id=35359338"
+    ],
+    [
+      "Bing Chat now has Ads",
+      "https://twitter.com/debarghya_das/status/1640892791923572737"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 16:12:42",
+      "https://news.ycombinator.com/item?id=35359295"
+    ],
+    [
+      "Clues to the Lives of North America’s First Inhabitants Are Hidden Underwater",
+      "https://www.smithsonianmag.com/history/biggest-clues-lives-early-americans-hidden-underwater-submerged-prehistory-180981891/"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 16:11:04",
+      "https://news.ycombinator.com/item?id=35359271"
+    ],
+    [
+      "The Teen Mental Illness Epidemic Is International, Part 1: The Anglosphere",
+      "https://jonathanhaidt.substack.com/p/international-mental-illness-part-one"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 15:46:24",
+      "https://news.ycombinator.com/item?id=35358926"
+    ],
+    [
+      "Disney Lays Off Ike Perlmutter, Chairman of Marvel Entertainment",
+      "https://www.nytimes.com/2023/03/29/business/media/disney-marvel-ike-perlmutter.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 15:43:36",
+      "https://news.ycombinator.com/item?id=35358873"
+    ],
+    [
+      "Launch HN: Vocode (YC W23) – Library for realtime voice conversation with LLMs",
+      "https://news.ycombinator.com/item?id=35358873"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 15:31:21",
+      "https://news.ycombinator.com/item?id=35358698"
+    ],
+    [
+      "SBF’s Legal Defense Is Being Funded with Alameda Money He Gifted His Father",
+      "https://www.forbes.com/sites/sarahemerson/2023/03/29/sam-bankman-fried-legal-fees-funded-by-alameda-money-gifted-to-father-joe-bankman/"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 15:08:03",
+      "https://news.ycombinator.com/item?id=35358360"
+    ],
+    [
+      "F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories",
+      "https://totoro97.github.io/projects/f2-nerf/"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 15:06:31",
+      "https://news.ycombinator.com/item?id=35358336"
+    ],
+    [
+      "Effing-mad, an effect library for Rust",
+      "https://github.com/rosefromthedead/effing-mad"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 14:32:02",
+      "https://news.ycombinator.com/item?id=35357851"
+    ],
+    [
+      "GitHub Actions Incident 29.3",
+      "https://www.githubstatus.com/incidents/z3c6q056q332"
+    ]
+  ],
+  [
+    [
       "2023-03-29, 13:49:16",
       "https://news.ycombinator.com/item?id=35357252"
     ],
     [
       "AlloyDB Omni – run AlloyDB anywhere",
       "https://cloud.google.com/blog/products/databases/run-alloydb-anywhere"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 13:25:30",
+      "https://news.ycombinator.com/item?id=35356947"
+    ],
+    [
+      "Marvel&#x27;s Loki is secretly about org design",
+      "https://idealgas.substack.com/p/fixing-the-tva-a-loki-perspective"
     ]
   ],
   [
@@ -21,32 +151,12 @@
   ],
   [
     [
-      "2023-03-29, 12:30:28",
-      "https://news.ycombinator.com/item?id=35356256"
-    ],
-    [
-      "A surprising food may have been a staple of the real Paleo diet: rotten meat",
-      "https://www.sciencenews.org/article/meat-rotten-putrid-paleo-diet-fire-neanderthal"
-    ]
-  ],
-  [
-    [
       "2023-03-29, 12:25:45",
       "https://news.ycombinator.com/item?id=35356201"
     ],
     [
       "H26Forge: Exploiting Vulnerabilities in the H.264 Decoders of iOS, Firefox, VLC [pdf]",
       "https://wrv.github.io/h26forge.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 12:20:34",
-      "https://news.ycombinator.com/item?id=35356149"
-    ],
-    [
-      "Google finds more Android, iOS zero-days used to install spyware",
-      "https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/"
     ]
   ],
   [
@@ -61,26 +171,6 @@
   ],
   [
     [
-      "2023-03-29, 12:00:46",
-      "https://news.ycombinator.com/item?id=35355891"
-    ],
-    [
-      "Bitmovin (YC S15) Is Hiring Engineers, Architects and CX for Video",
-      "https://bitmovin.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 11:42:35",
-      "https://news.ycombinator.com/item?id=35355729"
-    ],
-    [
-      "Italy moves to ban lab-grown meat to protect food heritage",
-      "https://www.bbc.co.uk/news/world-europe-65110744"
-    ]
-  ],
-  [
-    [
       "2023-03-29, 11:39:28",
       "https://news.ycombinator.com/item?id=35355703"
     ],
@@ -91,42 +181,12 @@
   ],
   [
     [
-      "2023-03-29, 11:08:45",
-      "https://news.ycombinator.com/item?id=35355437"
-    ],
-    [
-      "Mamihlapinatapai, Most Succinct Word",
-      "https://en.wikipedia.org/wiki/Mamihlapinatapai"
-    ]
-  ],
-  [
-    [
       "2023-03-29, 09:37:38",
       "https://news.ycombinator.com/item?id=35354729"
     ],
     [
       "Ubuntu stops shipping Flatpak by default",
       "https://lwn.net/SubscriberLink/927262/6adb2350e2b0d2ce/"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 05:55:41",
-      "https://news.ycombinator.com/item?id=35353182"
-    ],
-    [
-      "Tailwind CSS v3.3",
-      "https://tailwindcss.com/blog/tailwindcss-v3-3"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 05:22:51",
-      "https://news.ycombinator.com/item?id=35352989"
-    ],
-    [
-      "Establishing a UART Root Connection to a TP-Link Wireless Router",
-      "https://staging.rickconsole.com/posts/hardware-hacking-tp-link/"
     ]
   ],
   [
@@ -161,62 +221,12 @@
   ],
   [
     [
-      "2023-03-29, 03:09:24",
-      "https://news.ycombinator.com/item?id=35351805"
-    ],
-    [
-      "Binance sees $2B in outflows as troubles compound",
-      "https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 01:11:18",
-      "https://news.ycombinator.com/item?id=35350662"
-    ],
-    [
-      "Show HN: Customizable, embeddable Chat GPT based on your own documents",
-      "https://libraria.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 00:42:57",
-      "https://news.ycombinator.com/item?id=35350407"
-    ],
-    [
-      "Introduction to Autoencoders",
-      "https://www.pinecone.io/learn/autoencoders/"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 23:31:09",
-      "https://news.ycombinator.com/item?id=35349608"
-    ],
-    [
-      "Gpt4all: A chatbot trained on ~800k GPT-3.5-Turbo Generations based on LLaMa",
-      "https://github.com/nomic-ai/gpt4all"
-    ]
-  ],
-  [
-    [
       "2023-03-28, 16:19:48",
       "https://news.ycombinator.com/item?id=35343495"
     ],
     [
       "Bicycle",
       "https://ciechanow.ski/bicycle/"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 14:18:40",
-      "https://news.ycombinator.com/item?id=35341514"
-    ],
-    [
-      "Launch HN: Metal (YC W23) – Embeddings as a Service",
-      "https://news.ycombinator.com/item?id=35341514"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2023-03-28, 09:46:25",
+      "https://news.ycombinator.com/item?id=35338074"
+    ],
+    [
+      "Beej&#x27;s Guide to C Programming",
+      "https://beej.us/guide/bgc/"
+    ]
+  ],
+  [
+    [
       "2023-03-28, 09:32:30",
       "https://news.ycombinator.com/item?id=35337956"
     ],
@@ -251,22 +271,12 @@
   ],
   [
     [
-      "2023-03-28, 05:45:48",
-      "https://news.ycombinator.com/item?id=35336417"
+      "2023-03-28, 06:57:18",
+      "https://news.ycombinator.com/item?id=35336890"
     ],
     [
-      "A Simple Parametric Model of Plain-Knit Yarns [pdf]",
-      "http://www.cs.cmu.edu/~kmcrane/Projects/Other/YarnCurve.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-27, 20:40:14",
-      "https://news.ycombinator.com/item?id=35332202"
-    ],
-    [
-      "Martin Frobenius Ledermüller’s Microscopic Delights (1759–63)",
-      "https://publicdomainreview.org/collection/microscopic-delights"
+      "The Ambiguous Zone",
+      "https://www.bennorthrop.com/Essays/2023/the-ambiguous-zone.php"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The ThinkPad X1 Carbon Gen 10 as a Linux Laptop",
       "https://www.theregister.com/2023/03/10/thinkpad_x1c_g10_linux/"
-    ]
-  ],
-  [
-    [
-      "2023-03-27, 06:53:52",
-      "https://news.ycombinator.com/item?id=35323640"
-    ],
-    [
-      "Writing a Profiler in 240 lines of pure Java",
-      "https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/"
     ]
   ]
 ]
