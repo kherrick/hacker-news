@@ -25,7 +25,7 @@
 * [2023-03-28, 16:19:48](https://news.ycombinator.com/item?id=35343495) - [Bicycle](https://ciechanow.ski/bicycle/)
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
 * [2023-03-27, 12:49:30](https://news.ycombinator.com/item?id=35325995) - [Linguistics and Programming Languages (2006)](https://250bpm.com/blog:95/)
-* [2023-03-27, 10:48:04](https://news.ycombinator.com/item?id=35325038) - [Intel 80386 CPU Information](https://www.pcjs.org/documents/manuals/intel/80386/)
+* [2023-03-27, 11:06:01](https://news.ycombinator.com/item?id=35325165) - [NXP LA9310: A new platform for SDR and the 10-year-old AD9361 RF Transceiver](https://rfnm.io)
 * [2023-03-27, 09:09:11](https://news.ycombinator.com/item?id=35324509) - [On Writing Better Error Messages](https://onlineornot.com/write-better-error-messages)
 * [2023-03-27, 08:49:21](https://news.ycombinator.com/item?id=35324380) - [NSA Ghidra software reverse engineering framework](https://github.com/NationalSecurityAgency/ghidra)
 * [2023-03-27, 06:53:52](https://news.ycombinator.com/item?id=35323640) - [Writing a Profiler in 240 lines of pure Java](https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/)
