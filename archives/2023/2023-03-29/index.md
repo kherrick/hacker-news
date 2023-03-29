@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 19:16:58](https://news.ycombinator.com/item?id=35361907) - [Amazon’s cashierless stores: artificial intelligence or major deception?](https://emaggiori.com/amazon-fresh/)
+* [2023-03-29, 18:41:10](https://news.ycombinator.com/item?id=35361403) - [A VC Bought the Flatiron Building and Didn’t Pay for It](https://hellgatenyc.com/some-guy-bought-the-flatiron-building-and-didnt-pay-for-it)
 * [2023-03-29, 18:25:15](https://news.ycombinator.com/item?id=35361192) - [Gambas – open-source Basic for Linux inspired by VB](https://gambas.sourceforge.net/en/main.html)
 * [2023-03-29, 18:22:45](https://news.ycombinator.com/item?id=35361163) - [Qt Creator 10 Released](https://www.qt.io/blog/qt-creator-10-released)
 * [2023-03-29, 18:15:19](https://news.ycombinator.com/item?id=35361067) - [Rustls 0.21.0 Released with New Features](https://www.memorysafety.org/blog/rustls-new-features/)
@@ -28,6 +30,7 @@
 * [2023-03-29, 13:24:00](https://news.ycombinator.com/item?id=35356928) - [Emergent Mind: AI News, Curated and Explained by AI](https://www.emergentmind.com/)
 * [2023-03-29, 12:30:28](https://news.ycombinator.com/item?id=35356256) - [A surprising food may have been a staple of the real Paleo diet: rotten meat](https://www.sciencenews.org/article/meat-rotten-putrid-paleo-diet-fire-neanderthal)
 * [2023-03-29, 12:25:45](https://news.ycombinator.com/item?id=35356201) - [H26Forge: Exploiting Vulnerabilities in the H.264 Decoders of iOS, Firefox, VLC [pdf]](https://wrv.github.io/h26forge.pdf)
+* [2023-03-29, 12:20:34](https://news.ycombinator.com/item?id=35356149) - [Spyware vendors use 0-days and n-days against Android, iOS and Chrome](https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/)
 * [2023-03-29, 12:20:34](https://news.ycombinator.com/item?id=35356149) - [Google finds more Android, iOS zero-days used to install spyware](https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/)
 * [2023-03-29, 12:13:52](https://news.ycombinator.com/item?id=35356054) - [Become a 1000x engineer or die tryin](https://kadekillary.work/posts/1000x-eng/)
 * [2023-03-29, 12:00:46](https://news.ycombinator.com/item?id=35355891) - [Bitmovin (YC S15) Is Hiring Engineers, Architects and CX for Video](https://bitmovin.com/careers/)
@@ -37,6 +40,7 @@
 * [2023-03-29, 11:08:45](https://news.ycombinator.com/item?id=35355437) - [Mamihlapinatapai, Most Succinct Word](https://en.wikipedia.org/wiki/Mamihlapinatapai)
 * [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/SubscriberLink/927262/6adb2350e2b0d2ce/)
 * [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/Articles/927262/)
+* [2023-03-29, 08:37:13](https://news.ycombinator.com/item?id=35354271) - [A Theory of Vibe (2017)](https://www.glass-bead.org/article/a-theory-of-vibe/)
 * [2023-03-29, 08:30:27](https://news.ycombinator.com/item?id=35354229) - [Ask HN: How many hours do you work on a daily basis?](https://news.ycombinator.com/item?id=35354229)
 * [2023-03-29, 07:51:08](https://news.ycombinator.com/item?id=35353946) - [Mathematicians Find New 13-Sided Shape Called &#x27;The Hat&#x27;](https://gizmodo.com/new-13-sided-shape-the-hat-tiles-aperiodic-monotile-1850268575)
 * [2023-03-29, 07:38:43](https://news.ycombinator.com/item?id=35353871) - [Show HN: Atmos – Everything you need to create color palettes](https://atmos.style)
