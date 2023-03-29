@@ -57,6 +57,7 @@
 * [2023-03-27, 12:10:09](https://news.ycombinator.com/item?id=35325634) - [Tectonic – A modern, complete, self-contained Tex engine with Unicode support](https://tectonic-typesetting.github.io/en-US/)
 * [2023-03-27, 12:02:07](https://news.ycombinator.com/item?id=35325556) - [Zig and Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
 * [2023-03-27, 11:52:51](https://news.ycombinator.com/item?id=35325488) - [Jsonnet – The Data Templating Language](https://jsonnet.org/)
+* [2023-03-27, 11:40:43](https://news.ycombinator.com/item?id=35325387) - [River Ranking by Water Flow Rate](https://en.wikipedia.org/wiki/List_of_rivers_by_discharge)
 * [2023-03-27, 11:31:46](https://news.ycombinator.com/item?id=35325319) - [X86.fr – Doc TB&#x27;s R&amp;D Lab](https://x86.fr/)
 * [2023-03-27, 11:13:46](https://news.ycombinator.com/item?id=35325208) - [Top Reddit communities for Devs and ITs: from beginners to advanced](https://pvs-studio.com/en/blog/posts/1040/)
 * [2023-03-27, 11:11:34](https://news.ycombinator.com/item?id=35325193) - [OBS Studio Lands AV1 and HEVC RTMP Streaming Support](https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP)
