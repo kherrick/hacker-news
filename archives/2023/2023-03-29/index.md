@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 03:39:51](https://news.ycombinator.com/item?id=35352094) - [Scientists discover why aspirin works so well](https://www.eurekalert.org/news-releases/983050?)
+* [2023-03-29, 03:23:29](https://news.ycombinator.com/item?id=35351933) - [Generative AI is good at cooperating with people and bad at full automation](https://skybrian.substack.com/p/generative-ai-is-good-at-cooperating)
 * [2023-03-29, 03:09:24](https://news.ycombinator.com/item?id=35351805) - [Binance Sees $2B in Outflows as Troubles Compound](https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21)
 * [2023-03-29, 03:02:42](https://news.ycombinator.com/item?id=35351760) - [Modern software performance is firmly in its “beyond parody” stage](https://twitter.com/cmuratori/status/1640827575437250561)
 * [2023-03-29, 02:52:08](https://news.ycombinator.com/item?id=35351677) - [The bill to ban TikTok is absolutely terrifying](https://twitter.com/greg_price11/status/1640722365809147905)
+* [2023-03-29, 02:40:04](https://news.ycombinator.com/item?id=35351578) - [Idaho hospital to stop delivering babies as doctors flee over abortion ban](https://www.theguardian.com/us-news/2023/mar/20/idaho-bonner-hospital-baby-delivery-abortion-ban)
 * [2023-03-29, 01:40:54](https://news.ycombinator.com/item?id=35350952) - [Disney Eliminates Its Metaverse Division](https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650)
 * [2023-03-29, 01:33:58](https://news.ycombinator.com/item?id=35350901) - [VPN Users Risk 20-Year Jail Sentences in the US Under New Restrict Act](https://beincrypto.com/vpn-users-risk-20-year-jail-sentences-us-restrict-act/)
 * [2023-03-29, 01:26:48](https://news.ycombinator.com/item?id=35350822) - [You Are You. We Live Here. This Is Now](https://freddiedeboer.substack.com/p/you-are-you-we-live-here-this-is)
