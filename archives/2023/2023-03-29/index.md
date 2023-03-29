@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
 * [2023-03-29, 03:09:24](https://news.ycombinator.com/item?id=35351805) - [Binance Sees $2B in Outflows as Troubles Compound](https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21)
+* [2023-03-29, 03:02:42](https://news.ycombinator.com/item?id=35351760) - [Modern software performance is firmly in its “beyond parody” stage](https://twitter.com/cmuratori/status/1640827575437250561)
 * [2023-03-29, 01:40:54](https://news.ycombinator.com/item?id=35350952) - [Disney Eliminates Its Metaverse Division](https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650)
 * [2023-03-29, 01:33:58](https://news.ycombinator.com/item?id=35350901) - [VPN Users Risk 20-Year Jail Sentences in the US Under New Restrict Act](https://beincrypto.com/vpn-users-risk-20-year-jail-sentences-us-restrict-act/)
 * [2023-03-29, 01:26:48](https://news.ycombinator.com/item?id=35350822) - [You Are You. We Live Here. This Is Now](https://freddiedeboer.substack.com/p/you-are-you-we-live-here-this-is)
