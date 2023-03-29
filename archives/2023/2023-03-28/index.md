@@ -65,6 +65,7 @@
 * [2023-03-28, 13:22:27](https://news.ycombinator.com/item?id=35340627) - [Ex-Meta recruiter was paid $190K ‘to do nothing’ ahead of mass layoffs](https://nypost.com/2023/03/22/ex-meta-recruiter-says-she-was-paid-190k-to-do-nothing/)
 * [2023-03-28, 12:54:03](https://news.ycombinator.com/item?id=35340171) - [Android app from China executed 0-day exploit on millions of devices](https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/)
 * [2023-03-28, 12:54:01](https://news.ycombinator.com/item?id=35340169) - [Show HN: I built developer tooling for the Airtable API that I needed](https://airwalker.io)
+* [2023-03-28, 12:50:32](https://news.ycombinator.com/item?id=35340083) - [Treat your to-read pile like a river, not a bucket](https://www.oliverburkeman.com/river)
 * [2023-03-28, 12:42:03](https://news.ycombinator.com/item?id=35339968) - [Show HN: An all-in-one app designed for deep work and to build atomic habits](https://www.floutwork.com)
 * [2023-03-28, 12:22:50](https://news.ycombinator.com/item?id=35339668) - [Alibaba to Split into Six Separate Groups in Biggest Shake-Up](https://www.wsj.com/articles/alibaba-to-split-into-six-separate-groups-in-biggest-shake-up-9ce2201f)
 * [2023-03-28, 12:18:32](https://news.ycombinator.com/item?id=35339613) - [Winged messengers: how first-class pigeons help police keep Indians safe](https://www.theguardian.com/global-development/2023/mar/28/winged-messengers-how-first-class-pigeons-help-police-keep-indians-safe)
