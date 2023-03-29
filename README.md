@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/Articles/927262/)
-* [2023-03-29, 06:57:46](https://news.ycombinator.com/item?id=35353606) - [DARC: Start a company on blockchain, write your own laws](https://github.com/Project-DARC/DARC)
 * [2023-03-29, 06:08:29](https://news.ycombinator.com/item?id=35353264) - [WiFi protocol flaw allows attackers to hijack network traffic](https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/)
 * [2023-03-29, 05:55:41](https://news.ycombinator.com/item?id=35353182) - [Tailwind CSS v3.3](https://tailwindcss.com/blog/tailwindcss-v3-3)
 * [2023-03-29, 05:22:51](https://news.ycombinator.com/item?id=35352989) - [Establishing a UART Root Connection to a TP-Link Wireless Router](https://staging.rickconsole.com/posts/hardware-hacking-tp-link/)
@@ -19,6 +18,7 @@
 * [2023-03-28, 21:00:12](https://news.ycombinator.com/item?id=35347760) - [SafeBeat (YC S21) Is Hiring](https://www.ycombinator.com/companies/safebeat/jobs/jeOKzr2-product-manager-advisor)
 * [2023-03-28, 20:51:51](https://news.ycombinator.com/item?id=35347647) - [New health insurance “transparency data” looks suspiciously wrong](https://www.dolthub.com/blog/2023-03-23-illusion-of-transparency/)
 * [2023-03-28, 20:47:28](https://news.ycombinator.com/item?id=35347588) - [Open Flamingo – open framework to train multimodal LLMs](https://laion.ai/blog/open-flamingo/)
+* [2023-03-28, 17:53:51](https://news.ycombinator.com/item?id=35345117) - [Infinite Mac: Infinitemac.org](https://blog.persistent.info/2023/03/infinitemac-dot-org.html)
 * [2023-03-28, 16:19:48](https://news.ycombinator.com/item?id=35343495) - [Bicycle](https://ciechanow.ski/bicycle/)
 * [2023-03-28, 14:21:15](https://news.ycombinator.com/item?id=35341560) - [What Killed Penmanship?](https://www.nytimes.com/2023/03/24/style/messy-handwriting.html)
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
