@@ -73,6 +73,7 @@
 * [2023-03-27, 07:24:51](https://news.ycombinator.com/item?id=35323838) - [From Laptop to Lambda: Outsourcing Jobs to Thousands of Functional Containers [pdf]](https://www.usenix.org/system/files/atc19-fouladi.pdf)
 * [2023-03-27, 07:09:16](https://news.ycombinator.com/item?id=35323732) - [Journey Planner Challenge – You need to visit 5 tube stations](https://edjefferson.com/journeyplannerchallenge/)
 * [2023-03-27, 06:55:11](https://news.ycombinator.com/item?id=35323645) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
+* [2023-03-27, 06:53:52](https://news.ycombinator.com/item?id=35323640) - [Writing a Profiler in 240 lines of pure Java](https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/)
 * [2023-03-27, 06:23:26](https://news.ycombinator.com/item?id=35323484) - [Deployments Not Releases – Get Good at Delivering Software](https://blog.mangoteque.com//blog/2023/03/13/deployments-not-releases/)
 * [2023-03-27, 05:57:56](https://news.ycombinator.com/item?id=35323349) - [A student&#x27;s guide to startups (2006)](http://www.paulgraham.com/mit.html)
 * [2023-03-27, 05:46:41](https://news.ycombinator.com/item?id=35323279) - [Fugue: A unified interface for distributed computing](https://github.com/fugue-project/fugue)
