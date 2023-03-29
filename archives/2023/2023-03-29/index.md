@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 20:32:46](https://news.ycombinator.com/item?id=35363095) - [Judge Finds Google Destroyed Evidence and Repeatedly Lied to the Court [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.373179/gov.uscourts.cand.373179.469.0.pdf)
 * [2023-03-29, 19:27:30](https://news.ycombinator.com/item?id=35362063) - [I built an iMessage bot using Beeper](https://www.getclearspace.com/beeper)
+* [2023-03-29, 19:26:17](https://news.ycombinator.com/item?id=35362048) - [Cerebras-GPT vs. LLaMA AI Model Performance Comparison](https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/)
 * [2023-03-29, 19:21:51](https://news.ycombinator.com/item?id=35361979) - [In the Age of AI, Don&#x27;t Let Your Skills Atrophy](https://www.cyberdemon.org/2023/03/29/age-of-ai-skill-atrophy.html)
 * [2023-03-29, 19:16:58](https://news.ycombinator.com/item?id=35361907) - [Amazon’s cashierless stores: artificial intelligence or major deception?](https://emaggiori.com/amazon-fresh/)
 * [2023-03-29, 19:04:30](https://news.ycombinator.com/item?id=35361721) - [Dumb phones are on the rise in the U.S. as Gen Z looks to limit screen time](https://www.cnbc.com/2023/03/29/dumb-phones-are-on-the-rise-in-the-us-as-gen-z-limits-screen-time.html)
 * [2023-03-29, 18:58:32](https://news.ycombinator.com/item?id=35361628) - [CSS is hard no matter how good you are at it](https://www.aha.io/engineering/articles/css-is-hard-no-matter-how-good-you-are-at-it)
+* [2023-03-29, 18:46:18](https://news.ycombinator.com/item?id=35361473) - [I wanted a beautiful computer and couldn&#x27;t find one, so I made my own](https://www.mythic.computer/essays/origins)
 * [2023-03-29, 18:41:10](https://news.ycombinator.com/item?id=35361403) - [A VC Bought the Flatiron Building and Didn’t Pay for It](https://hellgatenyc.com/some-guy-bought-the-flatiron-building-and-didnt-pay-for-it)
 * [2023-03-29, 18:25:15](https://news.ycombinator.com/item?id=35361192) - [Gambas – open-source Basic for Linux inspired by VB](https://gambas.sourceforge.net/en/main.html)
 * [2023-03-29, 18:22:45](https://news.ycombinator.com/item?id=35361163) - [Qt Creator 10 Released](https://www.qt.io/blog/qt-creator-10-released)
