@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/Articles/927262/)
 * [2023-03-29, 08:30:27](https://news.ycombinator.com/item?id=35354229) - [Ask HN: How many hours do you work on a daily basis?](https://news.ycombinator.com/item?id=35354229)
 * [2023-03-29, 07:34:29](https://news.ycombinator.com/item?id=35353843) - [Now ChatGPT is being (mis)used to do PeerReview](https://mstdn.science/@ukrio/110100752908161183)
 * [2023-03-29, 06:57:46](https://news.ycombinator.com/item?id=35353606) - [DARC: Start a company on blockchain, write your own laws](https://github.com/Project-DARC/DARC)
