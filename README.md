@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-29, 08:30:27](https://news.ycombinator.com/item?id=35354229) - [Ask HN: How many hours do you work on a daily basis?](https://news.ycombinator.com/item?id=35354229)
-* [2023-03-29, 07:34:29](https://news.ycombinator.com/item?id=35353843) - [Now ChatGPT is being (mis)used to do PeerReview](https://mstdn.science/@ukrio/110100752908161183)
+* [2023-03-29, 06:57:46](https://news.ycombinator.com/item?id=35353606) - [DARC: Start a company on blockchain, write your own laws](https://github.com/Project-DARC/DARC)
+* [2023-03-29, 05:55:41](https://news.ycombinator.com/item?id=35353182) - [Tailwind CSS v3.3](https://tailwindcss.com/blog/tailwindcss-v3-3)
 * [2023-03-29, 05:22:51](https://news.ycombinator.com/item?id=35352989) - [Establishing a UART Root Connection to a TP-Link Wireless Router](https://staging.rickconsole.com/posts/hardware-hacking-tp-link/)
 * [2023-03-29, 04:51:42](https://news.ycombinator.com/item?id=35352771) - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
 * [2023-03-29, 04:15:08](https://news.ycombinator.com/item?id=35352452) - [Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
@@ -10,7 +11,6 @@
 * [2023-03-29, 03:09:24](https://news.ycombinator.com/item?id=35351805) - [Binance sees $2B in outflows as troubles compound](https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21)
 * [2023-03-29, 01:40:54](https://news.ycombinator.com/item?id=35350952) - [Disney Eliminates Its Metaverse Division](https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650)
 * [2023-03-29, 01:11:18](https://news.ycombinator.com/item?id=35350662) - [Show HN: Customizable, embeddable Chat GPT based on your own documents](https://libraria.dev/)
-* [2023-03-29, 00:42:57](https://news.ycombinator.com/item?id=35350407) - [Introduction to Autoencoders](https://www.pinecone.io/learn/autoencoders/)
 * [2023-03-29, 00:33:06](https://news.ycombinator.com/item?id=35350288) - [$39 Cooler Master case turns your old Framework Laptop parts into a tiny PC](https://www.theverge.com/2023/3/23/23652939/framework-cooler-master-sff-pc-case)
 * [2023-03-28, 23:31:09](https://news.ycombinator.com/item?id=35349608) - [Gpt4all: A chatbot trained on ~800k GPT-3.5-Turbo Generations based on LLaMa](https://github.com/nomic-ai/gpt4all)
 * [2023-03-28, 21:51:10](https://news.ycombinator.com/item?id=35348452) - [The EV Transition Is Harder Than Anyone Thinks](https://spectrum.ieee.org/the-ev-transition-explained-2659602311)
@@ -27,7 +27,7 @@
 * [2023-03-27, 12:49:30](https://news.ycombinator.com/item?id=35325995) - [Linguistics and Programming Languages (2006)](https://250bpm.com/blog:95/)
 * [2023-03-27, 11:40:43](https://news.ycombinator.com/item?id=35325387) - [River Ranking by Water Flow Rate](https://en.wikipedia.org/wiki/List_of_rivers_by_discharge)
 * [2023-03-27, 11:06:01](https://news.ycombinator.com/item?id=35325165) - [NXP LA9310: A new platform for SDR and the 10-year-old AD9361 RF Transceiver](https://rfnm.io)
-* [2023-03-27, 08:49:21](https://news.ycombinator.com/item?id=35324380) - [NSA Ghidra software reverse engineering framework](https://github.com/NationalSecurityAgency/ghidra)
+* [2023-03-27, 10:35:50](https://news.ycombinator.com/item?id=35324961) - [The ThinkPad X1 Carbon Gen 10 as a Linux Laptop](https://www.theregister.com/2023/03/10/thinkpad_x1c_g10_linux/)
 * [2023-03-27, 06:53:52](https://news.ycombinator.com/item?id=35323640) - [Writing a Profiler in 240 lines of pure Java](https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/)
 * [2023-03-27, 05:18:29](https://news.ycombinator.com/item?id=35323107) - [Medieval Arabic surgeon Ibn al Quff&#x27;s account on surgical pain relief](https://journals.lww.com/anar/fulltext/2010/04010/historical_essay__an_arabic_surgeon,_ibn_al_quff_s.3.aspx)
 

@@ -63,6 +63,7 @@
 * [2023-03-27, 11:11:34](https://news.ycombinator.com/item?id=35325193) - [OBS Studio Lands AV1 and HEVC RTMP Streaming Support](https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP)
 * [2023-03-27, 11:06:01](https://news.ycombinator.com/item?id=35325165) - [NXP LA9310: A new platform for SDR and the 10-year-old AD9361 RF Transceiver](https://rfnm.io)
 * [2023-03-27, 10:48:04](https://news.ycombinator.com/item?id=35325038) - [Intel 80386 CPU Information](https://www.pcjs.org/documents/manuals/intel/80386/)
+* [2023-03-27, 10:35:50](https://news.ycombinator.com/item?id=35324961) - [The ThinkPad X1 Carbon Gen 10 as a Linux Laptop](https://www.theregister.com/2023/03/10/thinkpad_x1c_g10_linux/)
 * [2023-03-27, 10:31:10](https://news.ycombinator.com/item?id=35324938) - [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://blog.orhun.dev/alpine-packaging-setup/)
 * [2023-03-27, 10:21:17](https://news.ycombinator.com/item?id=35324881) - [Ask HN: How do I move forward after being laid off?](https://news.ycombinator.com/item?id=35324881)
 * [2023-03-27, 09:09:11](https://news.ycombinator.com/item?id=35324509) - [On Writing Better Error Messages](https://onlineornot.com/write-better-error-messages)

@@ -6,7 +6,9 @@
 
 * [2023-03-29, 08:30:27](https://news.ycombinator.com/item?id=35354229) - [Ask HN: How many hours do you work on a daily basis?](https://news.ycombinator.com/item?id=35354229)
 * [2023-03-29, 07:34:29](https://news.ycombinator.com/item?id=35353843) - [Now ChatGPT is being (mis)used to do PeerReview](https://mstdn.science/@ukrio/110100752908161183)
+* [2023-03-29, 06:57:46](https://news.ycombinator.com/item?id=35353606) - [DARC: Start a company on blockchain, write your own laws](https://github.com/Project-DARC/DARC)
 * [2023-03-29, 06:08:29](https://news.ycombinator.com/item?id=35353264) - [WiFi protocol flaw allows attackers to hijack network traffic](https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/)
+* [2023-03-29, 05:55:41](https://news.ycombinator.com/item?id=35353182) - [Tailwind CSS v3.3](https://tailwindcss.com/blog/tailwindcss-v3-3)
 * [2023-03-29, 05:22:51](https://news.ycombinator.com/item?id=35352989) - [Establishing a UART Root Connection to a TP-Link Wireless Router](https://staging.rickconsole.com/posts/hardware-hacking-tp-link/)
 * [2023-03-29, 04:51:42](https://news.ycombinator.com/item?id=35352771) - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
 * [2023-03-29, 04:15:08](https://news.ycombinator.com/item?id=35352452) - [Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
