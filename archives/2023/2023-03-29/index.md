@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 04:51:42](https://news.ycombinator.com/item?id=35352771) - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
 * [2023-03-29, 04:15:08](https://news.ycombinator.com/item?id=35352452) - [Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
 * [2023-03-29, 03:49:44](https://news.ycombinator.com/item?id=35352194) - [AI startup Pinecone valued at $700M](https://www.businessinsider.com/chroma-weaviate-pinecone-raise-funding-a16z-index-vector-database-ai-2023-3)
 * [2023-03-29, 03:39:51](https://news.ycombinator.com/item?id=35352094) - [Scientists discover why aspirin works so well](https://www.eurekalert.org/news-releases/983050?)

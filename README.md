@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-29, 04:51:42](https://news.ycombinator.com/item?id=35352771) - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
 * [2023-03-29, 04:15:08](https://news.ycombinator.com/item?id=35352452) - [Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
 * [2023-03-29, 03:39:51](https://news.ycombinator.com/item?id=35352094) - [Scientists discover why aspirin works so well](https://www.eurekalert.org/news-releases/983050?)
 * [2023-03-29, 03:23:29](https://news.ycombinator.com/item?id=35351933) - [Generative AI is good at cooperating with people and bad at full automation](https://skybrian.substack.com/p/generative-ai-is-good-at-cooperating)
@@ -25,7 +26,6 @@
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
 * [2023-03-27, 12:49:30](https://news.ycombinator.com/item?id=35325995) - [Linguistics and Programming Languages (2006)](https://250bpm.com/blog:95/)
 * [2023-03-27, 12:10:09](https://news.ycombinator.com/item?id=35325634) - [Tectonic – A modern, complete, self-contained Tex engine with Unicode support](https://tectonic-typesetting.github.io/en-US/)
-* [2023-03-27, 10:48:04](https://news.ycombinator.com/item?id=35325038) - [Intel 80386 CPU Information](https://www.pcjs.org/documents/manuals/intel/80386/)
 * [2023-03-27, 09:09:11](https://news.ycombinator.com/item?id=35324509) - [On Writing Better Error Messages](https://onlineornot.com/write-better-error-messages)
 * [2023-03-27, 08:49:21](https://news.ycombinator.com/item?id=35324380) - [NSA Ghidra software reverse engineering framework](https://github.com/NationalSecurityAgency/ghidra)
 * [2023-03-27, 06:53:52](https://news.ycombinator.com/item?id=35323640) - [Writing a Profiler in 240 lines of pure Java](https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/)
