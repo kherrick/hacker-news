@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-29, 05:22:51](https://news.ycombinator.com/item?id=35352989) - [Establishing a UART Root Connection to a TP-Link Wireless Router](https://staging.rickconsole.com/posts/hardware-hacking-tp-link/)
 * [2023-03-29, 04:51:42](https://news.ycombinator.com/item?id=35352771) - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
 * [2023-03-29, 04:15:08](https://news.ycombinator.com/item?id=35352452) - [Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
 * [2023-03-29, 03:55:42](https://news.ycombinator.com/item?id=35352247) - [Show HN: GPT Calculator – Calculate the token count and cost of your GPT Prompt](https://www.gptcalculator.xyz/)
@@ -14,7 +15,6 @@
 * [2023-03-28, 21:00:12](https://news.ycombinator.com/item?id=35347760) - [SafeBeat (YC S21) Is Hiring](https://www.ycombinator.com/companies/safebeat/jobs/jeOKzr2-product-manager-advisor)
 * [2023-03-28, 20:51:51](https://news.ycombinator.com/item?id=35347647) - [New health insurance “transparency data” looks suspiciously wrong](https://www.dolthub.com/blog/2023-03-23-illusion-of-transparency/)
 * [2023-03-28, 20:47:28](https://news.ycombinator.com/item?id=35347588) - [Open Flamingo – open framework to train multimodal LLMs](https://laion.ai/blog/open-flamingo/)
-* [2023-03-28, 18:25:13](https://news.ycombinator.com/item?id=35345612) - [EU Commission doesn&#x27;t understand what&#x27;s written in its own chat control bill](https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/)
 * [2023-03-28, 17:53:51](https://news.ycombinator.com/item?id=35345117) - [Infinite Mac: Infinitemac.org](https://blog.persistent.info/2023/03/infinitemac-dot-org.html)
 * [2023-03-28, 17:36:02](https://news.ycombinator.com/item?id=35344831) - [UK sets up fake booter sites to muddy DDoS market](https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/)
 * [2023-03-28, 17:17:56](https://news.ycombinator.com/item?id=35344514) - [Interaction Nets, Combinators, and Calculus – HVM](https://zicklag.github.io/blog/interaction-nets-combinators-calculus/)

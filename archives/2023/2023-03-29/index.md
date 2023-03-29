@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 05:22:51](https://news.ycombinator.com/item?id=35352989) - [Establishing a UART Root Connection to a TP-Link Wireless Router](https://staging.rickconsole.com/posts/hardware-hacking-tp-link/)
 * [2023-03-29, 04:51:42](https://news.ycombinator.com/item?id=35352771) - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
 * [2023-03-29, 04:15:08](https://news.ycombinator.com/item?id=35352452) - [Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
 * [2023-03-29, 03:55:42](https://news.ycombinator.com/item?id=35352247) - [Show HN: GPT Calculator – Calculate the token count and cost of your GPT Prompt](https://www.gptcalculator.xyz/)
