@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-29, 11:08:45](https://news.ycombinator.com/item?id=35355437) - [Mamihlapinatapai, Most Succinct Word](https://en.wikipedia.org/wiki/Mamihlapinatapai)
 * [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/Articles/927262/)
 * [2023-03-29, 07:38:43](https://news.ycombinator.com/item?id=35353871) - [Show HN: Atmos – Everything you need to create color palettes](https://atmos.style)
 * [2023-03-29, 06:08:29](https://news.ycombinator.com/item?id=35353264) - [WiFi protocol flaw allows attackers to hijack network traffic](https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/)
@@ -27,7 +28,6 @@
 * [2023-03-27, 12:49:30](https://news.ycombinator.com/item?id=35325995) - [Linguistics and Programming Languages (2006)](https://250bpm.com/blog:95/)
 * [2023-03-27, 11:40:43](https://news.ycombinator.com/item?id=35325387) - [Rivers ranked by water flow rate](https://en.wikipedia.org/wiki/List_of_rivers_by_discharge)
 * [2023-03-27, 11:06:01](https://news.ycombinator.com/item?id=35325165) - [NXP LA9310: A new platform for SDR and the 10-year-old AD9361 RF Transceiver](https://rfnm.io)
-* [2023-03-27, 10:35:50](https://news.ycombinator.com/item?id=35324961) - [The ThinkPad X1 Carbon Gen 10 as a Linux Laptop](https://www.theregister.com/2023/03/10/thinkpad_x1c_g10_linux/)
 * [2023-03-27, 08:49:21](https://news.ycombinator.com/item?id=35324380) - [NSA Ghidra software reverse engineering framework](https://github.com/NationalSecurityAgency/ghidra)
 * [2023-03-27, 06:53:52](https://news.ycombinator.com/item?id=35323640) - [Writing a Profiler in 240 lines of pure Java](https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/)
 
