@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 13:49:16](https://news.ycombinator.com/item?id=35357252) - [AlloyDB Omni – run AlloyDB anywhere](https://cloud.google.com/blog/products/databases/run-alloydb-anywhere)
 * [2023-03-29, 13:24:00](https://news.ycombinator.com/item?id=35356928) - [Emergent Mind: AI News, Curated and Explained by AI](https://www.emergentmind.com/)
 * [2023-03-29, 12:30:28](https://news.ycombinator.com/item?id=35356256) - [A surprising food may have been a staple of the real Paleo diet: rotten meat](https://www.sciencenews.org/article/meat-rotten-putrid-paleo-diet-fire-neanderthal)
 * [2023-03-29, 12:25:45](https://news.ycombinator.com/item?id=35356201) - [H26Forge: Exploiting Vulnerabilities in the H.264 Decoders of iOS, Firefox, VLC [pdf]](https://wrv.github.io/h26forge.pdf)

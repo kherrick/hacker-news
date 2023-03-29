@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-29, 13:49:16](https://news.ycombinator.com/item?id=35357252) - [AlloyDB Omni – run AlloyDB anywhere](https://cloud.google.com/blog/products/databases/run-alloydb-anywhere)
 * [2023-03-29, 13:24:00](https://news.ycombinator.com/item?id=35356928) - [Emergent Mind: AI News, Curated and Explained by AI](https://www.emergentmind.com/)
 * [2023-03-29, 12:30:28](https://news.ycombinator.com/item?id=35356256) - [A surprising food may have been a staple of the real Paleo diet: rotten meat](https://www.sciencenews.org/article/meat-rotten-putrid-paleo-diet-fire-neanderthal)
 * [2023-03-29, 12:25:45](https://news.ycombinator.com/item?id=35356201) - [H26Forge: Exploiting Vulnerabilities in the H.264 Decoders of iOS, Firefox, VLC [pdf]](https://wrv.github.io/h26forge.pdf)
@@ -16,7 +17,6 @@
 * [2023-03-29, 04:15:08](https://news.ycombinator.com/item?id=35352452) - [Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
 * [2023-03-29, 03:39:51](https://news.ycombinator.com/item?id=35352094) - [New insights into why aspirin works so well](https://www.eurekalert.org/news-releases/983050?)
 * [2023-03-29, 03:09:24](https://news.ycombinator.com/item?id=35351805) - [Binance sees $2B in outflows as troubles compound](https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21)
-* [2023-03-29, 01:40:54](https://news.ycombinator.com/item?id=35350952) - [Disney Eliminates Its Metaverse Division](https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650)
 * [2023-03-29, 01:11:18](https://news.ycombinator.com/item?id=35350662) - [Show HN: Customizable, embeddable Chat GPT based on your own documents](https://libraria.dev/)
 * [2023-03-29, 00:42:57](https://news.ycombinator.com/item?id=35350407) - [Introduction to Autoencoders](https://www.pinecone.io/learn/autoencoders/)
 * [2023-03-28, 23:31:09](https://news.ycombinator.com/item?id=35349608) - [Gpt4all: A chatbot trained on ~800k GPT-3.5-Turbo Generations based on LLaMa](https://github.com/nomic-ai/gpt4all)
@@ -24,10 +24,10 @@
 * [2023-03-28, 14:18:40](https://news.ycombinator.com/item?id=35341514) - [Launch HN: Metal (YC W23) – Embeddings as a Service](https://news.ycombinator.com/item?id=35341514)
 * [2023-03-28, 12:50:32](https://news.ycombinator.com/item?id=35340083) - [Treat your to-read pile like a river, not a bucket](https://www.oliverburkeman.com/river)
 * [2023-03-28, 12:18:32](https://news.ycombinator.com/item?id=35339613) - [Winged messengers: how first-class pigeons help police keep Indians safe](https://www.theguardian.com/global-development/2023/mar/28/winged-messengers-how-first-class-pigeons-help-police-keep-indians-safe)
+* [2023-03-28, 09:32:30](https://news.ycombinator.com/item?id=35337956) - [Nostalgic for VB? BASIC is anything but dead](https://www.theregister.com/2023/03/28/nostalgic_for_basic/)
 * [2023-03-28, 05:45:48](https://news.ycombinator.com/item?id=35336417) - [A Simple Parametric Model of Plain-Knit Yarns [pdf]](http://www.cs.cmu.edu/~kmcrane/Projects/Other/YarnCurve.pdf)
 * [2023-03-27, 20:40:14](https://news.ycombinator.com/item?id=35332202) - [Martin Frobenius Ledermüller’s Microscopic Delights (1759–63)](https://publicdomainreview.org/collection/microscopic-delights)
 * [2023-03-27, 11:40:43](https://news.ycombinator.com/item?id=35325387) - [Rivers ranked by water flow rate](https://en.wikipedia.org/wiki/List_of_rivers_by_discharge)
-* [2023-03-27, 11:06:01](https://news.ycombinator.com/item?id=35325165) - [NXP LA9310: A new platform for SDR and the 10-year-old AD9361 RF Transceiver](https://rfnm.io)
 * [2023-03-27, 10:35:50](https://news.ycombinator.com/item?id=35324961) - [The ThinkPad X1 Carbon Gen 10 as a Linux Laptop](https://www.theregister.com/2023/03/10/thinkpad_x1c_g10_linux/)
 * [2023-03-27, 06:53:52](https://news.ycombinator.com/item?id=35323640) - [Writing a Profiler in 240 lines of pure Java](https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/)
 
