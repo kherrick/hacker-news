@@ -62,6 +62,7 @@
 * [2023-03-27, 10:48:04](https://news.ycombinator.com/item?id=35325038) - [Intel 80386 CPU Information](https://www.pcjs.org/documents/manuals/intel/80386/)
 * [2023-03-27, 10:31:10](https://news.ycombinator.com/item?id=35324938) - [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://blog.orhun.dev/alpine-packaging-setup/)
 * [2023-03-27, 10:21:17](https://news.ycombinator.com/item?id=35324881) - [Ask HN: How do I move forward after being laid off?](https://news.ycombinator.com/item?id=35324881)
+* [2023-03-27, 09:09:11](https://news.ycombinator.com/item?id=35324509) - [On Writing Better Error Messages](https://onlineornot.com/write-better-error-messages)
 * [2023-03-27, 09:03:36](https://news.ycombinator.com/item?id=35324476) - [An early 3D viewer (1986)](https://www.fano.co.uk/meccano/view3d.html)
 * [2023-03-27, 08:56:56](https://news.ycombinator.com/item?id=35324430) - [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
 * [2023-03-27, 08:49:21](https://news.ycombinator.com/item?id=35324380) - [NSA Ghidra software reverse engineering framework](https://github.com/NationalSecurityAgency/ghidra)
