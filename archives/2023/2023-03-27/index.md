@@ -46,6 +46,7 @@
 * [2023-03-27, 13:49:41](https://news.ycombinator.com/item?id=35326648) - [Random Numbers in Bash](https://gist.github.com/rbitr/9c68379d3e0b79c9f06eb3f867624576)
 * [2023-03-27, 13:00:54](https://news.ycombinator.com/item?id=35326131) - [A Short 100-Question Diligence Checklist](https://www.thediff.co/archive/100-due-diligence-questions-checklist/)
 * [2023-03-27, 12:58:15](https://news.ycombinator.com/item?id=35326105) - [My Best Friend Died from Loneliness](https://www.thefp.com/p/my-best-friend-died-from-loneliness)
+* [2023-03-27, 12:49:30](https://news.ycombinator.com/item?id=35325995) - [Linguistics and Programming Languages (2006)](https://250bpm.com/blog:95/)
 * [2023-03-27, 12:48:50](https://news.ycombinator.com/item?id=35325987) - [Nancy Hopkins and her tape measure revealed the extent of sexism in science](https://www.nature.com/articles/d41586-023-00887-4)
 * [2023-03-27, 12:38:12](https://news.ycombinator.com/item?id=35325883) - [Benchmarking Cheap SSDs for Fun, No Profit (Be Warned)](https://louwrentius.com/benchmarking-cheap-ssds-for-fun-no-profit-be-warned.html)
 * [2023-03-27, 12:35:15](https://news.ycombinator.com/item?id=35325859) - [Why a European mobile operating system can’t challenge Android and iOS](https://gael-duval.medium.com/why-a-european-mobile-operating-system-cant-challenge-android-and-ios-86104e97b89e)

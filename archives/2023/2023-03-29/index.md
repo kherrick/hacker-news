@@ -6,6 +6,7 @@
 
 * [2023-03-29, 01:40:54](https://news.ycombinator.com/item?id=35350952) - [Disney Eliminates Its Metaverse Division](https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650)
 * [2023-03-29, 01:33:58](https://news.ycombinator.com/item?id=35350901) - [VPN Users Risk 20-Year Jail Sentences in the US Under New Restrict Act](https://beincrypto.com/vpn-users-risk-20-year-jail-sentences-us-restrict-act/)
+* [2023-03-29, 01:26:48](https://news.ycombinator.com/item?id=35350822) - [You Are You. We Live Here. This Is Now](https://freddiedeboer.substack.com/p/you-are-you-we-live-here-this-is)
 * [2023-03-29, 01:11:18](https://news.ycombinator.com/item?id=35350662) - [Show HN: Customizable, embeddable Chat GPT based on your own documents](https://libraria.dev/)
 * [2023-03-29, 00:34:58](https://news.ycombinator.com/item?id=35350307) - [React.gg](https://react.gg/)
 * [2023-03-29, 00:33:06](https://news.ycombinator.com/item?id=35350288) - [$39 Cooler Master case turns your old Framework Laptop parts into a tiny PC](https://www.theverge.com/2023/3/23/23652939/framework-cooler-master-sff-pc-case)
