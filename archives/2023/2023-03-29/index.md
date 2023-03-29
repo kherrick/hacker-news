@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 19:27:30](https://news.ycombinator.com/item?id=35362063) - [I built an iMessage bot using Beeper](https://www.getclearspace.com/beeper)
 * [2023-03-29, 19:21:51](https://news.ycombinator.com/item?id=35361979) - [In the Age of AI, Don&#x27;t Let Your Skills Atrophy](https://www.cyberdemon.org/2023/03/29/age-of-ai-skill-atrophy.html)
 * [2023-03-29, 19:16:58](https://news.ycombinator.com/item?id=35361907) - [Amazon’s cashierless stores: artificial intelligence or major deception?](https://emaggiori.com/amazon-fresh/)
 * [2023-03-29, 19:04:30](https://news.ycombinator.com/item?id=35361721) - [Dumb phones are on the rise in the U.S. as Gen Z looks to limit screen time](https://www.cnbc.com/2023/03/29/dumb-phones-are-on-the-rise-in-the-us-as-gen-z-limits-screen-time.html)
@@ -41,6 +42,7 @@
 * [2023-03-29, 11:42:35](https://news.ycombinator.com/item?id=35355729) - [Italy moves to ban lab-grown meat to protect food heritage](https://www.bbc.co.uk/news/world-europe-65110744)
 * [2023-03-29, 11:39:28](https://news.ycombinator.com/item?id=35355703) - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 * [2023-03-29, 11:08:45](https://news.ycombinator.com/item?id=35355437) - [Mamihlapinatapai, Most Succinct Word](https://en.wikipedia.org/wiki/Mamihlapinatapai)
+* [2023-03-29, 11:00:15](https://news.ycombinator.com/item?id=35355372) - [Carl Braun on Communicating Like a Grown-Up (2016)](https://fs.blog/carl-braun-communicating/)
 * [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/SubscriberLink/927262/6adb2350e2b0d2ce/)
 * [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/Articles/927262/)
 * [2023-03-29, 08:37:13](https://news.ycombinator.com/item?id=35354271) - [A Theory of Vibe (2017)](https://www.glass-bead.org/article/a-theory-of-vibe/)
