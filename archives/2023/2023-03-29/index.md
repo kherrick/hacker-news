@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 17:15:57](https://news.ycombinator.com/item?id=35360219) - [Original Prusa MK4](https://www.prusa3d.com/product/original-prusa-mk4-2/)
+* [2023-03-29, 17:05:07](https://news.ycombinator.com/item?id=35360081) - [&#x27;Ultramassive&#x27; black hole discovered – bigger than the majority of galaxies](https://www.bbc.com/news/uk-england-tyne-65109663)
 * [2023-03-29, 17:00:24](https://news.ycombinator.com/item?id=35360019) - [Patterns (YC S21) Is Hiring AI Engineers](http://patterns.app/)
 * [2023-03-29, 16:43:24](https://news.ycombinator.com/item?id=35359784) - [Blender 3.5](https://www.blender.org/download/releases/3-5/)
 * [2023-03-29, 16:23:21](https://news.ycombinator.com/item?id=35359473) - [Show HN: go-nbd – A Pure Go NBD Server and Client](https://github.com/pojntfx/go-nbd)
@@ -13,6 +15,7 @@
 * [2023-03-29, 15:46:24](https://news.ycombinator.com/item?id=35358926) - [Disney Lays Off Ike Perlmutter, Chairman of Marvel Entertainment](https://www.nytimes.com/2023/03/29/business/media/disney-marvel-ike-perlmutter.html)
 * [2023-03-29, 15:43:36](https://news.ycombinator.com/item?id=35358873) - [Launch HN: Vocode (YC W23) – Library for realtime voice conversation with LLMs](https://news.ycombinator.com/item?id=35358873)
 * [2023-03-29, 15:31:21](https://news.ycombinator.com/item?id=35358698) - [SBF’s Legal Defense Is Being Funded with Alameda Money He Gifted His Father](https://www.forbes.com/sites/sarahemerson/2023/03/29/sam-bankman-fried-legal-fees-funded-by-alameda-money-gifted-to-father-joe-bankman/)
+* [2023-03-29, 15:19:24](https://news.ycombinator.com/item?id=35358535) - [Show HN: Mirrorful – A developer-first way to implement designs faster](https://github.com/Mirrorful/mirrorful)
 * [2023-03-29, 15:08:03](https://news.ycombinator.com/item?id=35358360) - [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/)
 * [2023-03-29, 15:06:31](https://news.ycombinator.com/item?id=35358336) - [Effing-mad, an effect library for Rust](https://github.com/rosefromthedead/effing-mad)
 * [2023-03-29, 14:32:02](https://news.ycombinator.com/item?id=35357851) - [GitHub Actions Incident 29.3](https://www.githubstatus.com/incidents/z3c6q056q332)

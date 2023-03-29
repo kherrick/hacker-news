@@ -67,6 +67,7 @@
 * [2023-03-28, 12:54:01](https://news.ycombinator.com/item?id=35340169) - [Show HN: I built developer tooling for the Airtable API that I needed](https://airwalker.io)
 * [2023-03-28, 12:50:32](https://news.ycombinator.com/item?id=35340083) - [Treat your to-read pile like a river, not a bucket](https://www.oliverburkeman.com/river)
 * [2023-03-28, 12:42:03](https://news.ycombinator.com/item?id=35339968) - [Show HN: An all-in-one app designed for deep work and to build atomic habits](https://www.floutwork.com)
+* [2023-03-28, 12:41:03](https://news.ycombinator.com/item?id=35339955) - [Awk Technical Notes](https://maximullaris.com/awk_tech_notes.html)
 * [2023-03-28, 12:22:50](https://news.ycombinator.com/item?id=35339668) - [Alibaba to Split into Six Separate Groups in Biggest Shake-Up](https://www.wsj.com/articles/alibaba-to-split-into-six-separate-groups-in-biggest-shake-up-9ce2201f)
 * [2023-03-28, 12:18:32](https://news.ycombinator.com/item?id=35339613) - [Winged messengers: how first-class pigeons help police keep Indians safe](https://www.theguardian.com/global-development/2023/mar/28/winged-messengers-how-first-class-pigeons-help-police-keep-indians-safe)
 * [2023-03-28, 12:11:08](https://news.ycombinator.com/item?id=35339521) - [Random Fuzzy Thoughts](https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/)
