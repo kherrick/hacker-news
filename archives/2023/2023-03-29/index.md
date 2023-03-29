@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 21:00:26](https://news.ycombinator.com/item?id=35363547) - [OneSignal (YC S11) is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
 * [2023-03-29, 20:32:46](https://news.ycombinator.com/item?id=35363095) - [Judge Finds Google Destroyed Evidence and Repeatedly Lied to the Court [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.373179/gov.uscourts.cand.373179.469.0.pdf)
 * [2023-03-29, 19:27:30](https://news.ycombinator.com/item?id=35362063) - [I built an iMessage bot using Beeper](https://www.getclearspace.com/beeper)
 * [2023-03-29, 19:26:17](https://news.ycombinator.com/item?id=35362048) - [Cerebras-GPT vs. LLaMA AI Model Performance Comparison](https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/)
@@ -44,6 +45,7 @@
 * [2023-03-29, 11:59:43](https://news.ycombinator.com/item?id=35355880) - [Rice fuels diabetes and climate crises](https://www.economist.com/asia/2023/03/28/there-is-a-global-rice-crisis)
 * [2023-03-29, 11:42:35](https://news.ycombinator.com/item?id=35355729) - [Italy moves to ban lab-grown meat to protect food heritage](https://www.bbc.co.uk/news/world-europe-65110744)
 * [2023-03-29, 11:39:28](https://news.ycombinator.com/item?id=35355703) - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
+* [2023-03-29, 11:13:04](https://news.ycombinator.com/item?id=35355469) - [Terence Tao makes progress on the Collatz conjecture (2019)](https://www.quantamagazine.org/mathematician-proves-huge-result-on-dangerous-problem-20191211)
 * [2023-03-29, 11:08:45](https://news.ycombinator.com/item?id=35355437) - [Mamihlapinatapai, Most Succinct Word](https://en.wikipedia.org/wiki/Mamihlapinatapai)
 * [2023-03-29, 11:00:15](https://news.ycombinator.com/item?id=35355372) - [Carl Braun on Communicating Like a Grown-Up (2016)](https://fs.blog/carl-braun-communicating/)
 * [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/SubscriberLink/927262/6adb2350e2b0d2ce/)
