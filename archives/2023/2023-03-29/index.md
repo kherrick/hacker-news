@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-29](index.md)
 
+* [2023-03-29, 18:25:15](https://news.ycombinator.com/item?id=35361192) - [Gambas – open-source Basic for Linux inspired by VB](https://gambas.sourceforge.net/en/main.html)
+* [2023-03-29, 18:22:45](https://news.ycombinator.com/item?id=35361163) - [Qt Creator 10 Released](https://www.qt.io/blog/qt-creator-10-released)
+* [2023-03-29, 18:15:19](https://news.ycombinator.com/item?id=35361067) - [Rustls 0.21.0 Released with New Features](https://www.memorysafety.org/blog/rustls-new-features/)
+* [2023-03-29, 18:00:31](https://news.ycombinator.com/item?id=35360878) - [Open Source HTTP Reverse Proxy Built in Rust for Immutable Infrastructures](https://www.sozu.io/)
 * [2023-03-29, 17:15:57](https://news.ycombinator.com/item?id=35360219) - [Original Prusa MK4](https://www.prusa3d.com/product/original-prusa-mk4-2/)
 * [2023-03-29, 17:05:07](https://news.ycombinator.com/item?id=35360081) - [&#x27;Ultramassive&#x27; black hole discovered – bigger than the majority of galaxies](https://www.bbc.com/news/uk-england-tyne-65109663)
 * [2023-03-29, 17:00:24](https://news.ycombinator.com/item?id=35360019) - [Patterns (YC S21) Is Hiring AI Engineers](http://patterns.app/)
