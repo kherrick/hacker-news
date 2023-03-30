@@ -8,7 +8,6 @@
 * [2023-03-30, 12:00:46](https://news.ycombinator.com/item?id=35371293) - [Laudspeaker hiring Product Eng for open source customer journey automation](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-03-30, 11:57:08](https://news.ycombinator.com/item?id=35371261) - [Roku to cut 200 jobs in second round of layoffs](https://www.reuters.com/technology/streaming-device-maker-roku-cut-200-jobs-second-round-layoffs-2023-03-30/)
 * [2023-03-30, 11:48:31](https://news.ycombinator.com/item?id=35371182) - [Mach 3.5 Over Libya in an SR-71 Blackbird](https://www.thesr71blackbird.com/Aircraft/Stories/mach-35-over-libya-in-an-sr-71-blackbird)
-* [2023-03-30, 11:21:25](https://news.ycombinator.com/item?id=35370963) - [High egg prices send profits at largest US producer soaring more than 700%](https://www.cnn.com/2023/03/29/business/egg-profits-cal-maine/index.html)
 * [2023-03-30, 10:53:05](https://news.ycombinator.com/item?id=35370731) - [Germany opposes client-side scanning planned by EU](https://tutanota.com/blog/posts/eu-client-side-scanning)
 * [2023-03-30, 10:52:52](https://news.ycombinator.com/item?id=35370728) - [50% of new NPM packages are spam](https://blog.sandworm.dev/one-in-two-new-npm-packages-is-seo-spam-right-now)
 * [2023-03-30, 10:03:47](https://news.ycombinator.com/item?id=35370357) - [The RWKV language model: An RNN with the advantages of a transformer](https://johanwind.github.io/2023/03/23/rwkv_overview.html)
@@ -30,6 +29,7 @@
 * [2023-03-29, 10:30:26](https://news.ycombinator.com/item?id=35355136) - [Zion Climbing in the 1930s](https://www.bigwallgear.com/p/zion-climbing-in-the-1930s)
 * [2023-03-29, 08:02:04](https://news.ycombinator.com/item?id=35354032) - [Open source espresso machine is one delicious rabbit hole inside another](https://arstechnica.com/gadgets/2023/03/great-espresso-isnt-hard-enough-so-heres-a-diy-open-source-machine-for-it/)
 * [2023-03-28, 21:43:33](https://news.ycombinator.com/item?id=35348353) - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
+* [2023-03-28, 16:19:48](https://news.ycombinator.com/item?id=35343495) - [Bicycle](https://ciechanow.ski/bicycle/)
 
 ## [Archives](archives/index.md)
 
