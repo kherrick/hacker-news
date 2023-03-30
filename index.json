@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-03-30, 13:10:40",
-      "https://news.ycombinator.com/item?id=35372111"
+      "2023-03-30, 13:09:12",
+      "https://news.ycombinator.com/item?id=35372091"
     ],
     [
-      "Show HN: Data Ingestion &#x2F; Transformation SaaS",
-      "https://hexcloud.co/docs"
+      "OpenAI faces complaint to FTC that seeks suspension of ChatGPT releases",
+      "https://www.cnbc.com/2023/03/30/openai-faces-complaint-to-ftc-that-seeks-suspension-of-chatgpt-updates.html"
     ]
   ],
   [
@@ -65,8 +65,18 @@
       "https://news.ycombinator.com/item?id=35371261"
     ],
     [
-      "Streaming company Roku to lay off 6% workforce",
+      "Roku to cut 200 jobs in second round of layoffs",
       "https://www.reuters.com/technology/streaming-device-maker-roku-cut-200-jobs-second-round-layoffs-2023-03-30/"
+    ]
+  ],
+  [
+    [
+      "2023-03-30, 11:48:31",
+      "https://news.ycombinator.com/item?id=35371182"
+    ],
+    [
+      "Mach 3.5 Over Libya in an SR-71 Blackbird",
+      "https://www.thesr71blackbird.com/Aircraft/Stories/mach-35-over-libya-in-an-sr-71-blackbird"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "A Response to Jacob Kaplan-Moss’s “Incompetent but Nice”",
       "https://blog.glyph.im/2023/03/incompetent-but-nice-response.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-30, 04:39:27",
-      "https://news.ycombinator.com/item?id=35368053"
-    ],
-    [
-      "Finetuning LLMs on a Single GPU Using Gradient Accumulation",
-      "https://lightning.ai/pages/blog/gradient-accumulation/"
     ]
   ],
   [
