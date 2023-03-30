@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-30, 20:52:49",
+      "https://news.ycombinator.com/item?id=35378683"
+    ],
+    [
+      "GPT-4 Says an Open-Source Chatbot Vicuna Reaches 90% ChatGPT Quality",
+      "https://vicuna.lmsys.org/"
+    ]
+  ],
+  [
+    [
+      "2023-03-30, 20:37:56",
+      "https://news.ycombinator.com/item?id=35378521"
+    ],
+    [
+      "Faiss: A library for efficient similarity search",
+      "https://github.com/facebookresearch/faiss"
+    ]
+  ],
+  [
+    [
       "2023-03-30, 19:49:28",
       "https://news.ycombinator.com/item?id=35377935"
     ],
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2023-03-30, 19:34:50",
-      "https://news.ycombinator.com/item?id=35377794"
-    ],
-    [
-      "The Anatomy of Your Salary",
-      "https://philipjoubert.com/why-are-you-paid/"
-    ]
-  ],
-  [
-    [
       "2023-03-30, 19:21:34",
       "https://news.ycombinator.com/item?id=35377665"
     ],
     [
       "Get Instant Feedback and Help for LeetCode&#x2F;HackerRank with ChatGPT",
       "https://github.com/Liopun/leet-chatgpt-extension"
-    ]
-  ],
-  [
-    [
-      "2023-03-30, 19:13:42",
-      "https://news.ycombinator.com/item?id=35377584"
-    ],
-    [
-      "Switching to Fedora from Ubuntu",
-      "https://evertpot.com/switching-to-fedora/"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=35376138"
     ],
     [
-      "RoboPianist, a piano playing robot simulation in the browser",
+      "Show HN: RoboPianist, a piano playing robot simulation in the browser",
       "https://kevinzakka.github.io/robopianist-demo/"
     ]
   ],
