@@ -54,6 +54,7 @@
 * [2023-03-29, 12:20:34](https://news.ycombinator.com/item?id=35356149) - [Spyware vendors use 0-days and n-days against Android, iOS and Chrome](https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/)
 * [2023-03-29, 12:20:34](https://news.ycombinator.com/item?id=35356149) - [Google finds more Android, iOS zero-days used to install spyware](https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/)
 * [2023-03-29, 12:13:52](https://news.ycombinator.com/item?id=35356054) - [Become a 1000x engineer or die tryin](https://kadekillary.work/posts/1000x-eng/)
+* [2023-03-29, 12:13:40](https://news.ycombinator.com/item?id=35356052) - [Chalk-manship: how to draw dotted lines on chalkboards, MIT style](https://mitadmissions.org/blogs/entry/how-to-draw-dotted-lines-on-chalkboards-mit-style/)
 * [2023-03-29, 12:00:46](https://news.ycombinator.com/item?id=35355891) - [Bitmovin (YC S15) Is Hiring Engineers, Architects and CX for Video](https://bitmovin.com/careers/)
 * [2023-03-29, 11:59:43](https://news.ycombinator.com/item?id=35355880) - [Rice fuels diabetes and climate crises](https://www.economist.com/asia/2023/03/28/there-is-a-global-rice-crisis)
 * [2023-03-29, 11:42:35](https://news.ycombinator.com/item?id=35355729) - [Italy moves to ban lab-grown meat to protect food heritage](https://www.bbc.co.uk/news/world-europe-65110744)
