@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 22:38:07](https://news.ycombinator.com/item?id=35379811) - [Optimized Rust is Still Slower Than Python+NumPy](https://github.com/hirasawakinko/Numpy-Done-Right/blob/main/Numpy%20Done%20Right.ipynb)
 * [2023-03-30, 22:07:41](https://news.ycombinator.com/item?id=35379453) - [Show HN: Walkie-Talkie for Badass Developers](https://www.flowy.live/)
 * [2023-03-30, 21:38:08](https://news.ycombinator.com/item?id=35379136) - [My kids and I just played D&amp;D with ChatGPT4 as the DM](https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6)
 * [2023-03-30, 21:25:42](https://news.ycombinator.com/item?id=35379008) - [Why not tell people to “simply” use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
@@ -42,6 +43,7 @@
 * [2023-03-30, 13:48:02](https://news.ycombinator.com/item?id=35372653) - [This is a Chord](https://tumblr.austinkleon.com/post/152691534221)
 * [2023-03-30, 13:10:40](https://news.ycombinator.com/item?id=35372111) - [Show HN: Data Ingestion &#x2F; Transformation SaaS](https://hexcloud.co/docs)
 * [2023-03-30, 13:09:12](https://news.ycombinator.com/item?id=35372091) - [OpenAI faces complaint to FTC that seeks suspension of ChatGPT releases](https://www.cnbc.com/2023/03/30/openai-faces-complaint-to-ftc-that-seeks-suspension-of-chatgpt-updates.html)
+* [2023-03-30, 12:47:08](https://news.ycombinator.com/item?id=35371796) - [A History of Army Information Operations](https://tnsr.org/2023/01/the-organizational-determinants-of-military-doctrine-a-history-of-army-information-operations/)
 * [2023-03-30, 12:42:21](https://news.ycombinator.com/item?id=35371750) - [There&#x27;s something off about LED bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html)
 * [2023-03-30, 12:25:12](https://news.ycombinator.com/item?id=35371541) - [The Fascinating World of HTTP Strict-Transport-Security](https://ergomake.dev/blog/hsts-introduction/)
 * [2023-03-30, 12:18:56](https://news.ycombinator.com/item?id=35371469) - [Show HN: Gut – An easy-to-use CLI for Git](https://gut-cli.dev)
