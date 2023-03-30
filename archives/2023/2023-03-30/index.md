@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
 * [2023-03-30, 13:10:40](https://news.ycombinator.com/item?id=35372111) - [Show HN: Data Ingestion &#x2F; Transformation SaaS](https://hexcloud.co/docs)
+* [2023-03-30, 13:09:12](https://news.ycombinator.com/item?id=35372091) - [OpenAI faces complaint to FTC that seeks suspension of ChatGPT releases](https://www.cnbc.com/2023/03/30/openai-faces-complaint-to-ftc-that-seeks-suspension-of-chatgpt-updates.html)
 * [2023-03-30, 12:42:21](https://news.ycombinator.com/item?id=35371750) - [There&#x27;s something off about LED bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html)
 * [2023-03-30, 12:25:12](https://news.ycombinator.com/item?id=35371541) - [The Fascinating World of HTTP Strict-Transport-Security](https://ergomake.dev/blog/hsts-introduction/)
 * [2023-03-30, 12:18:56](https://news.ycombinator.com/item?id=35371469) - [Show HN: Gut – An easy-to-use CLI for Git](https://gut-cli.dev)
@@ -13,6 +14,7 @@
 * [2023-03-30, 12:01:18](https://news.ycombinator.com/item?id=35371296) - [Bloomberg sponsors curl with 10K USD](https://mastodon.social/@bagder/110102954036946925)
 * [2023-03-30, 12:00:46](https://news.ycombinator.com/item?id=35371293) - [Laudspeaker hiring Product Eng for open source customer journey automation](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-03-30, 11:57:08](https://news.ycombinator.com/item?id=35371261) - [Streaming company Roku to lay off 6% workforce](https://www.reuters.com/technology/streaming-device-maker-roku-cut-200-jobs-second-round-layoffs-2023-03-30/)
+* [2023-03-30, 11:48:31](https://news.ycombinator.com/item?id=35371182) - [Mach 3.5 Over Libya in an SR-71 Blackbird](https://www.thesr71blackbird.com/Aircraft/Stories/mach-35-over-libya-in-an-sr-71-blackbird)
 * [2023-03-30, 11:21:25](https://news.ycombinator.com/item?id=35370963) - [High egg prices send profits at largest US producer soaring more than 700%](https://www.cnn.com/2023/03/29/business/egg-profits-cal-maine/index.html)
 * [2023-03-30, 11:16:02](https://news.ycombinator.com/item?id=35370915) - [Google trained Bard on ChatGPT chats from ShareGPT](https://twitter.com/steventey/status/1641267979399704576)
 * [2023-03-30, 10:53:05](https://news.ycombinator.com/item?id=35370731) - [Germany opposes client-side scanning planned by EU](https://tutanota.com/blog/posts/eu-client-side-scanning)
