@@ -19,6 +19,7 @@
 * [2023-03-29, 18:25:15](https://news.ycombinator.com/item?id=35361192) - [Gambas Almost Means BASIC](https://gambas.sourceforge.net/en/main.html)
 * [2023-03-29, 17:15:57](https://news.ycombinator.com/item?id=35360219) - [Original Prusa MK4](https://www.prusa3d.com/product/original-prusa-mk4-2/)
 * [2023-03-29, 16:23:21](https://news.ycombinator.com/item?id=35359473) - [Show HN: go-nbd – A Pure Go NBD Server and Client](https://github.com/pojntfx/go-nbd)
+* [2023-03-29, 15:43:49](https://news.ycombinator.com/item?id=35358879) - [Our Shift to Usage-Based Pricing](https://www.appsmith.com/blog/usage-based-pricing)
 * [2023-03-29, 15:43:36](https://news.ycombinator.com/item?id=35358873) - [Launch HN: Vocode (YC W23) – Library for voice conversation with LLMs](https://news.ycombinator.com/item?id=35358873)
 * [2023-03-29, 15:19:24](https://news.ycombinator.com/item?id=35358535) - [Show HN: Mirrorful – A developer-first way to implement designs faster](https://github.com/Mirrorful/mirrorful)
 * [2023-03-29, 12:13:40](https://news.ycombinator.com/item?id=35356052) - [How to draw dotted lines on chalkboards, MIT style (2021)](https://mitadmissions.org/blogs/entry/how-to-draw-dotted-lines-on-chalkboards-mit-style/)
@@ -27,7 +28,6 @@
 * [2023-03-29, 08:29:53](https://news.ycombinator.com/item?id=35354226) - [Messaging layer security: Secure and usable end-to-end encryption](https://www.ietf.org/blog/mls-secure-and-usable-end-to-end-encryption/)
 * [2023-03-29, 01:57:41](https://news.ycombinator.com/item?id=35351122) - [Cantu a tenore](https://en.wikipedia.org/wiki/Cantu_a_tenore)
 * [2023-03-28, 21:43:33](https://news.ycombinator.com/item?id=35348353) - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
-* [2023-03-28, 17:28:04](https://news.ycombinator.com/item?id=35344703) - [Incompetent but Nice](https://jacobian.org/2023/mar/28/incompetent-but-nice/)
 * [2023-03-28, 16:19:48](https://news.ycombinator.com/item?id=35343495) - [Bicycle](https://ciechanow.ski/bicycle/)
 * [2023-03-28, 12:41:03](https://news.ycombinator.com/item?id=35339955) - [Awk Technical Notes](https://maximullaris.com/awk_tech_notes.html)
 
