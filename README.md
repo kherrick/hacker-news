@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-30, 19:49:28](https://news.ycombinator.com/item?id=35377935) - [You probably shouldn&#x27;t use OpenAI&#x27;s embeddings](https://iamnotarobot.substack.com/p/should-you-use-openais-embeddings)
+* [2023-03-30, 19:48:52](https://news.ycombinator.com/item?id=35377926) - [RFdiffusion: Diffusion model generates protein backbones](https://github.com/RosettaCommons/RFdiffusion)
 * [2023-03-30, 19:38:30](https://news.ycombinator.com/item?id=35377826) - [Developer Tools 2.0](https://www.sequoiacap.com/article/ai-powered-developer-tools/)
 * [2023-03-30, 19:34:50](https://news.ycombinator.com/item?id=35377794) - [The Anatomy of Your Salary](https://philipjoubert.com/why-are-you-paid/)
 * [2023-03-30, 19:21:34](https://news.ycombinator.com/item?id=35377665) - [Get Instant Feedback and Help for LeetCode&#x2F;HackerRank with ChatGPT](https://github.com/Liopun/leet-chatgpt-extension)
@@ -22,7 +23,6 @@
 * [2023-03-30, 14:14:36](https://news.ycombinator.com/item?id=35373019) - [Is Y Combinator worth the money? Brutally honest review of W22 batch experience](https://acecreamu.substack.com/p/is-y-combinator-worth-the-money)
 * [2023-03-30, 12:42:21](https://news.ycombinator.com/item?id=35371750) - [There&#x27;s something off about LED bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html)
 * [2023-03-30, 12:18:56](https://news.ycombinator.com/item?id=35371469) - [Show HN: Gut – An easy-to-use CLI for Git](https://gut-cli.dev)
-* [2023-03-30, 11:48:31](https://news.ycombinator.com/item?id=35371182) - [Mach 3.5 Over Libya in an SR-71 Blackbird](https://www.thesr71blackbird.com/Aircraft/Stories/mach-35-over-libya-in-an-sr-71-blackbird)
 * [2023-03-30, 11:22:14](https://news.ycombinator.com/item?id=35370972) - [How to Read MySQL EXPLAINs](https://planetscale.com/blog/how-read-mysql-explains)
 * [2023-03-30, 11:16:02](https://news.ycombinator.com/item?id=35370915) - [Google trained Bard on ChatGPT chats from ShareGPT](https://twitter.com/steventey/status/1641267979399704576)
 * [2023-03-30, 10:03:47](https://news.ycombinator.com/item?id=35370357) - [The RWKV language model: An RNN with the advantages of a transformer](https://johanwind.github.io/2023/03/23/rwkv_overview.html)

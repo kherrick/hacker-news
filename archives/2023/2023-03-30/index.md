@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
 * [2023-03-30, 19:49:28](https://news.ycombinator.com/item?id=35377935) - [You probably shouldn&#x27;t use OpenAI&#x27;s embeddings](https://iamnotarobot.substack.com/p/should-you-use-openais-embeddings)
+* [2023-03-30, 19:48:52](https://news.ycombinator.com/item?id=35377926) - [RFdiffusion: Diffusion model generates protein backbones](https://github.com/RosettaCommons/RFdiffusion)
 * [2023-03-30, 19:38:30](https://news.ycombinator.com/item?id=35377826) - [Developer Tools 2.0](https://www.sequoiacap.com/article/ai-powered-developer-tools/)
 * [2023-03-30, 19:34:50](https://news.ycombinator.com/item?id=35377794) - [The Anatomy of Your Salary](https://philipjoubert.com/why-are-you-paid/)
 * [2023-03-30, 19:21:34](https://news.ycombinator.com/item?id=35377665) - [Get Instant Feedback and Help for LeetCode&#x2F;HackerRank with ChatGPT](https://github.com/Liopun/leet-chatgpt-extension)
