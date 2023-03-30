@@ -26,10 +26,10 @@
 * [2023-03-29, 11:18:39](https://news.ycombinator.com/item?id=35355521) - [“Terrascope”: The possibility of using the Earth as an atmospheric lens (2019)](https://arxiv.org/abs/1908.00490)
 * [2023-03-29, 11:00:15](https://news.ycombinator.com/item?id=35355372) - [Carl Braun on communicating like a grown-up (2016)](https://fs.blog/carl-braun-communicating/)
 * [2023-03-29, 08:29:53](https://news.ycombinator.com/item?id=35354226) - [Messaging layer security: Secure and usable end-to-end encryption](https://www.ietf.org/blog/mls-secure-and-usable-end-to-end-encryption/)
+* [2023-03-29, 08:02:04](https://news.ycombinator.com/item?id=35354032) - [Open source espresso machine is one delicious rabbit hole inside another](https://arstechnica.com/gadgets/2023/03/great-espresso-isnt-hard-enough-so-heres-a-diy-open-source-machine-for-it/)
 * [2023-03-29, 01:57:41](https://news.ycombinator.com/item?id=35351122) - [Cantu a tenore](https://en.wikipedia.org/wiki/Cantu_a_tenore)
 * [2023-03-28, 21:43:33](https://news.ycombinator.com/item?id=35348353) - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 * [2023-03-28, 16:19:48](https://news.ycombinator.com/item?id=35343495) - [Bicycle](https://ciechanow.ski/bicycle/)
-* [2023-03-28, 12:41:03](https://news.ycombinator.com/item?id=35339955) - [Awk Technical Notes](https://maximullaris.com/awk_tech_notes.html)
 
 ## [Archives](archives/index.md)
 
