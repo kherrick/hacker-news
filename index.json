@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-30, 10:03:47",
+      "https://news.ycombinator.com/item?id=35370357"
+    ],
+    [
+      "The RWKV language model: An RNN with the advantages of a transformer",
+      "https://johanwind.github.io/2023/03/23/rwkv_overview.html"
+    ]
+  ],
+  [
+    [
       "2023-03-30, 09:55:25",
       "https://news.ycombinator.com/item?id=35370284"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-03-30, 08:12:40",
-      "https://news.ycombinator.com/item?id=35369567"
+      "2023-03-30, 09:35:36",
+      "https://news.ycombinator.com/item?id=35370152"
     ],
     [
-      "Legacy auto faces unsellable car disaster in China as pollution crunch looms",
-      "https://thedriven.io/2023/03/30/legacy-auto-faces-disaster-in-china-with-unsellable-cars-as-pollution-crunch-looms/"
+      "The Twitter API is now effectively unmaintained",
+      "https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "New York City is building a wall of oysters to fend off floods (2021)",
       "https://www.bloomberg.com/news/features/2021-11-19/to-fight-floods-new-york-city-rebuilds-a-wall-of-oysters"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 15:43:49",
-      "https://news.ycombinator.com/item?id=35358879"
-    ],
-    [
-      "Our Shift to Usage-Based Pricing",
-      "https://www.appsmith.com/blog/usage-based-pricing"
     ]
   ],
   [
