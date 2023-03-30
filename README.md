@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-30, 22:07:41](https://news.ycombinator.com/item?id=35379453) - [Show HN: Walkie-Talkie for Badass Developers](https://www.flowy.live/)
 * [2023-03-30, 21:38:08](https://news.ycombinator.com/item?id=35379136) - [My kids and I just played D&amp;D with ChatGPT4 as the DM](https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6)
 * [2023-03-30, 21:25:42](https://news.ycombinator.com/item?id=35379008) - [Why not tell people to “simply” use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
 * [2023-03-30, 21:24:49](https://news.ycombinator.com/item?id=35378997) - [E3 Has Been Canceled](https://www.ign.com/articles/e3-has-been-canceled)
@@ -18,7 +19,6 @@
 * [2023-03-30, 15:32:48](https://news.ycombinator.com/item?id=35374332) - [A DNA ‘parasite’ may have fragmented our genes](https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/)
 * [2023-03-30, 14:17:06](https://news.ycombinator.com/item?id=35373052) - [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
 * [2023-03-30, 14:14:36](https://news.ycombinator.com/item?id=35373019) - [Is Y Combinator worth the money? Brutally honest review of W22 batch experience](https://acecreamu.substack.com/p/is-y-combinator-worth-the-money)
-* [2023-03-30, 14:05:38](https://news.ycombinator.com/item?id=35372894) - [Had enough of Android? First &#x27;Focal&#x27; based Ubuntu Touch is out](https://www.theregister.com/2023/03/29/first_focal_based_ubuntu_touch/)
 * [2023-03-30, 13:48:02](https://news.ycombinator.com/item?id=35372653) - [This is a Chord (2016)](https://tumblr.austinkleon.com/post/152691534221)
 * [2023-03-30, 12:42:21](https://news.ycombinator.com/item?id=35371750) - [There&#x27;s something off about LED bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html)
 * [2023-03-30, 12:18:56](https://news.ycombinator.com/item?id=35371469) - [Show HN: Gut – An easy-to-use CLI for Git](https://gut-cli.dev)
