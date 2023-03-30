@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-30, 04:30:19](https://news.ycombinator.com/item?id=35367995) - [Judge finds Google destroyed evidence and repeatedly gave false info to court](https://arstechnica.com/tech-policy/2023/03/judge-finds-google-destroyed-evidence-and-repeatedly-gave-false-info-to-court/)
 * [2023-03-30, 03:25:52](https://news.ycombinator.com/item?id=35367520) - [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
 * [2023-03-30, 02:17:23](https://news.ycombinator.com/item?id=35366955) - [TikTok Ban Bill Is Patriot Act 2.0 Trojan Horse [video]](https://www.youtube.com/watch?v=FWQGA_n5Z4M)
 * [2023-03-29, 23:50:54](https://news.ycombinator.com/item?id=35365672) - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
@@ -15,7 +16,6 @@
 * [2023-03-29, 19:37:45](https://news.ycombinator.com/item?id=35362203) - [Declassified Records Show Bush&#x27;s Oil Business Was Probably a CIA Front (2018)](https://www.deepstateblog.org/2018/12/04/declassified-records-show-bushs-oil-business-was-probably-a-cia-front/)
 * [2023-03-29, 19:27:30](https://news.ycombinator.com/item?id=35362063) - [I built an iMessage bot using Beeper](https://www.getclearspace.com/beeper)
 * [2023-03-29, 19:26:17](https://news.ycombinator.com/item?id=35362048) - [Cerebras-GPT vs. LLaMA AI Model Performance Comparison](https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/)
-* [2023-03-29, 18:41:10](https://news.ycombinator.com/item?id=35361403) - [A VC bought the Flatiron Building and didn’t pay for it](https://hellgatenyc.com/some-guy-bought-the-flatiron-building-and-didnt-pay-for-it)
 * [2023-03-29, 18:25:15](https://news.ycombinator.com/item?id=35361192) - [Gambas Almost Means BASIC](https://gambas.sourceforge.net/en/main.html)
 * [2023-03-29, 17:15:57](https://news.ycombinator.com/item?id=35360219) - [Original Prusa MK4](https://www.prusa3d.com/product/original-prusa-mk4-2/)
 * [2023-03-29, 16:23:21](https://news.ycombinator.com/item?id=35359473) - [Show HN: go-nbd – A Pure Go NBD Server and Client](https://github.com/pojntfx/go-nbd)
