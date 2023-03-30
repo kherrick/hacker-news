@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-30, 17:56:46](https://news.ycombinator.com/item?id=35376645) - [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
 * [2023-03-30, 17:53:07](https://news.ycombinator.com/item?id=35376598) - [Folia – Multithreading Coming to your Minecraft server](https://paper-chan.moe/folia/)
 * [2023-03-30, 17:44:36](https://news.ycombinator.com/item?id=35376488) - [San Jose police union executive director charged with smuggling fentanyl into US](https://www.washingtonexaminer.com/news/crime/san-jose-police-union-director-smuggle-fentanyl-charge)
 * [2023-03-30, 17:22:24](https://news.ycombinator.com/item?id=35376138) - [RoboPianist, a piano playing robot simulation in the browser](https://kevinzakka.github.io/robopianist-demo/)
 * [2023-03-30, 17:16:30](https://news.ycombinator.com/item?id=35376059) - [The Cambrian Period of AI](https://lachlangray.blot.im/the-cambrian-period-of-ai)
 * [2023-03-30, 17:01:06](https://news.ycombinator.com/item?id=35375807) - [Kraftful (YC S19) Hiring Founding Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
 * [2023-03-30, 16:56:38](https://news.ycombinator.com/item?id=35375727) - [Launch HN: Baseplate (YC W23) – Back end-as-a-service for LLM apps](https://news.ycombinator.com/item?id=35375727)
-* [2023-03-30, 16:44:39](https://news.ycombinator.com/item?id=35375540) - [Show HN: Open-source ETL framework to sync data from SaaS tools to vector stores](https://github.com/ai-sidekick/sidekick)
 * [2023-03-30, 15:50:42](https://news.ycombinator.com/item?id=35374639) - [Launch HN: Noya (YC W23) – a product design tool for non-designers](https://news.ycombinator.com/item?id=35374639)
 * [2023-03-30, 15:47:26](https://news.ycombinator.com/item?id=35374593) - [Show HN: YakGPT – A locally running, hands-free ChatGPT UI](https://yakgpt.vercel.app/)
 * [2023-03-30, 15:32:48](https://news.ycombinator.com/item?id=35374332) - [A DNA ‘Parasite’ May Have Fragmented Our Genes](https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/)
