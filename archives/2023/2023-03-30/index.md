@@ -8,6 +8,7 @@
 * [2023-03-30, 17:16:30](https://news.ycombinator.com/item?id=35376059) - [The Cambrian Period of AI](https://lachlangray.blot.im/the-cambrian-period-of-ai)
 * [2023-03-30, 17:01:06](https://news.ycombinator.com/item?id=35375807) - [Kraftful (YC S19) Hiring Founding Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
 * [2023-03-30, 16:56:38](https://news.ycombinator.com/item?id=35375727) - [Launch HN: Baseplate (YC W23) – Back end-as-a-service for LLM apps](https://news.ycombinator.com/item?id=35375727)
+* [2023-03-30, 16:44:39](https://news.ycombinator.com/item?id=35375540) - [Show HN: Open-source ETL framework to sync data from SaaS tools to vector stores](https://github.com/ai-sidekick/sidekick)
 * [2023-03-30, 16:19:21](https://news.ycombinator.com/item?id=35375131) - [Show HN: Meteosource Weather API: current, forecast and historical data using ML](https://www.meteosource.com)
 * [2023-03-30, 15:50:42](https://news.ycombinator.com/item?id=35374639) - [Launch HN: Noya (YC W23) – a product design tool for non-designers](https://news.ycombinator.com/item?id=35374639)
 * [2023-03-30, 15:47:26](https://news.ycombinator.com/item?id=35374593) - [Show HN: YakGPT – A locally running, hands-free ChatGPT UI](https://yakgpt.vercel.app/)
