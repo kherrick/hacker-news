@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-30, 00:52:13](https://news.ycombinator.com/item?id=35366209) - [Republican Rand Paul blocks TikTok ban](https://www.wionews.com/world/republican-rand-paul-blocks-tiktok-ban-asks-if-us-is-going-to-be-just-like-china-and-block-free-speech-577130)
 * [2023-03-29, 23:50:54](https://news.ycombinator.com/item?id=35365672) - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
 * [2023-03-29, 23:37:56](https://news.ycombinator.com/item?id=35365510) - [Samsung&#x27;s AI photo feature adds creepy teeth to baby photos](https://boingboing.net/2023/03/28/samsungs-ai-photo-feature-adds-creepy-teeth-to-baby-photos.html)
 * [2023-03-29, 23:31:09](https://news.ycombinator.com/item?id=35365440) - [Teen-age fentanyl deaths in a Texas county](https://www.newyorker.com/news/letter-from-the-southwest/the-horrifying-epidemic-of-teen-age-fentanyl-deaths-in-a-texas-county)
@@ -10,6 +9,7 @@
 * [2023-03-29, 21:27:49](https://news.ycombinator.com/item?id=35363967) - [Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
 * [2023-03-29, 21:00:26](https://news.ycombinator.com/item?id=35363547) - [OneSignal (YC S11) is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
 * [2023-03-29, 20:29:53](https://news.ycombinator.com/item?id=35363044) - [Wat [video] (2012)](https://www.destroyallsoftware.com/talks/wat)
+* [2023-03-29, 19:37:45](https://news.ycombinator.com/item?id=35362203) - [Declassified Records Show Bush&#x27;s Oil Business Was Probably a CIA Front (2018)](https://www.deepstateblog.org/2018/12/04/declassified-records-show-bushs-oil-business-was-probably-a-cia-front/)
 * [2023-03-29, 19:27:30](https://news.ycombinator.com/item?id=35362063) - [I built an iMessage bot using Beeper](https://www.getclearspace.com/beeper)
 * [2023-03-29, 19:26:17](https://news.ycombinator.com/item?id=35362048) - [Cerebras-GPT vs. LLaMA AI Model Performance Comparison](https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/)
 * [2023-03-29, 18:41:10](https://news.ycombinator.com/item?id=35361403) - [A VC bought the Flatiron Building and didn’t pay for it](https://hellgatenyc.com/some-guy-bought-the-flatiron-building-and-didnt-pay-for-it)
@@ -28,8 +28,8 @@
 * [2023-03-28, 21:43:33](https://news.ycombinator.com/item?id=35348353) - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 * [2023-03-28, 19:01:56](https://news.ycombinator.com/item?id=35346159) - [“This Fairground Farce of Light”: Vladimir Nabokov’s “The Cinema” (1928)](https://lareviewofbooks.org/short-takes/this-fairground-farce-of-light-vladimir-nabokovs-the-cinema-1928/)
 * [2023-03-28, 17:28:04](https://news.ycombinator.com/item?id=35344703) - [Incompetent but Nice](https://jacobian.org/2023/mar/28/incompetent-but-nice/)
-* [2023-03-28, 13:30:16](https://news.ycombinator.com/item?id=35340754) - [It&#x27;s difficult to read an audiophile guide as an analogue engineer](https://hackaday.com/2023/03/28/its-difficult-to-read-an-audiophile-guide-as-an-analogue-engineer/)
 * [2023-03-28, 12:50:32](https://news.ycombinator.com/item?id=35340083) - [Treat your to-read pile like a river, not a bucket](https://www.oliverburkeman.com/river)
+* [2023-03-28, 12:41:03](https://news.ycombinator.com/item?id=35339955) - [Awk Technical Notes](https://maximullaris.com/awk_tech_notes.html)
 
 ## [Archives](archives/index.md)
 
