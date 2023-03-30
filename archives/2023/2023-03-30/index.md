@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
 * [2023-03-30, 15:50:42](https://news.ycombinator.com/item?id=35374639) - [Launch HN: Noya (YC W23) – a product design tool for non-designers](https://news.ycombinator.com/item?id=35374639)
+* [2023-03-30, 15:47:26](https://news.ycombinator.com/item?id=35374593) - [Show HN: YakGPT – A locally running, hands-free ChatGPT UI](https://yakgpt.vercel.app/)
 * [2023-03-30, 15:32:48](https://news.ycombinator.com/item?id=35374332) - [A DNA ‘Parasite’ May Have Fragmented Our Genes](https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/)
 * [2023-03-30, 15:31:48](https://news.ycombinator.com/item?id=35374302) - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
 * [2023-03-30, 15:23:40](https://news.ycombinator.com/item?id=35374117) - [Exploring Neural Graphics Primitives](https://thenumb.at/Neural-Graphics/)
@@ -14,6 +15,7 @@
 * [2023-03-30, 14:16:10](https://news.ycombinator.com/item?id=35373042) - [A misleading open letter about sci-fi AI dangers ignores the real risks](https://aisnakeoil.substack.com/p/a-misleading-open-letter-about-sci)
 * [2023-03-30, 14:14:36](https://news.ycombinator.com/item?id=35373019) - [Is Y Combinator worth the money? Brutally honest review of W22 batch experience](https://acecreamu.substack.com/p/is-y-combinator-worth-the-money)
 * [2023-03-30, 14:05:38](https://news.ycombinator.com/item?id=35372894) - [Had enough of Android? First &#x27;Focal&#x27; based Ubuntu Touch is out](https://www.theregister.com/2023/03/29/first_focal_based_ubuntu_touch/)
+* [2023-03-30, 13:48:02](https://news.ycombinator.com/item?id=35372653) - [This is a Chord](https://tumblr.austinkleon.com/post/152691534221)
 * [2023-03-30, 13:10:40](https://news.ycombinator.com/item?id=35372111) - [Show HN: Data Ingestion &#x2F; Transformation SaaS](https://hexcloud.co/docs)
 * [2023-03-30, 13:09:12](https://news.ycombinator.com/item?id=35372091) - [OpenAI faces complaint to FTC that seeks suspension of ChatGPT releases](https://www.cnbc.com/2023/03/30/openai-faces-complaint-to-ftc-that-seeks-suspension-of-chatgpt-updates.html)
 * [2023-03-30, 12:42:21](https://news.ycombinator.com/item?id=35371750) - [There&#x27;s something off about LED bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html)
