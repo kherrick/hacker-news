@@ -59,6 +59,7 @@
 * [2023-03-29, 11:42:35](https://news.ycombinator.com/item?id=35355729) - [Italy moves to ban lab-grown meat to protect food heritage](https://www.bbc.co.uk/news/world-europe-65110744)
 * [2023-03-29, 11:39:28](https://news.ycombinator.com/item?id=35355703) - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 * [2023-03-29, 11:19:37](https://news.ycombinator.com/item?id=35355527) - [The Science of Scale (2022)](https://www.gregegan.net/SCALE/01/ScienceOfScale.html)
+* [2023-03-29, 11:18:39](https://news.ycombinator.com/item?id=35355521) - [The “Terrascope”: On the Possibility of Using the Earth as an Atmospheric Lens](https://arxiv.org/abs/1908.00490)
 * [2023-03-29, 11:13:04](https://news.ycombinator.com/item?id=35355469) - [Terence Tao makes progress on the Collatz conjecture (2019)](https://www.quantamagazine.org/mathematician-proves-huge-result-on-dangerous-problem-20191211)
 * [2023-03-29, 11:08:45](https://news.ycombinator.com/item?id=35355437) - [Mamihlapinatapai, Most Succinct Word](https://en.wikipedia.org/wiki/Mamihlapinatapai)
 * [2023-03-29, 11:00:15](https://news.ycombinator.com/item?id=35355372) - [Carl Braun on Communicating Like a Grown-Up (2016)](https://fs.blog/carl-braun-communicating/)
