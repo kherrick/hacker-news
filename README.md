@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-30, 08:12:40](https://news.ycombinator.com/item?id=35369567) - [Legacy auto faces unsellable car disaster in China as pollution crunch looms](https://thedriven.io/2023/03/30/legacy-auto-faces-disaster-in-china-with-unsellable-cars-as-pollution-crunch-looms/)
 * [2023-03-30, 08:04:19](https://news.ycombinator.com/item?id=35369529) - [Rever (YC S22) Is Hiring in Barcelona](https://news.ycombinator.com/item?id=35369529)
 * [2023-03-30, 06:59:50](https://news.ycombinator.com/item?id=35369075) - [The &#x27;Insanely Broad&#x27; Restrict Act Could Ban Much More Than Just TikTok](https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns)
 * [2023-03-30, 04:39:27](https://news.ycombinator.com/item?id=35368053) - [Finetuning LLMs on a Single GPU Using Gradient Accumulation](https://lightning.ai/pages/blog/gradient-accumulation/)
 * [2023-03-30, 03:25:52](https://news.ycombinator.com/item?id=35367520) - [Making Python faster with Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
 * [2023-03-30, 02:17:23](https://news.ycombinator.com/item?id=35366955) - [TikTok Ban Bill Is Patriot Act 2.0 Trojan Horse [video]](https://www.youtube.com/watch?v=FWQGA_n5Z4M)
 * [2023-03-30, 02:04:39](https://news.ycombinator.com/item?id=35366838) - [Show HN: Marvin – build AI functions that use an LLM as a runtime](https://github.com/PrefectHQ/marvin)
-* [2023-03-29, 23:50:54](https://news.ycombinator.com/item?id=35365672) - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
 * [2023-03-29, 23:31:09](https://news.ycombinator.com/item?id=35365440) - [Teen-age fentanyl deaths in a Texas county](https://www.newyorker.com/news/letter-from-the-southwest/the-horrifying-epidemic-of-teen-age-fentanyl-deaths-in-a-texas-county)
 * [2023-03-29, 23:27:32](https://news.ycombinator.com/item?id=35365399) - [Universal Speech Model](https://sites.research.google/usm/)
 * [2023-03-29, 22:50:02](https://news.ycombinator.com/item?id=35364985) - [Early Remote Work Impacts on Family Formation](https://eig.org/remote-work-family-formation/)

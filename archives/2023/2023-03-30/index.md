@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 08:12:40](https://news.ycombinator.com/item?id=35369567) - [Legacy auto faces unsellable car disaster in China as pollution crunch looms](https://thedriven.io/2023/03/30/legacy-auto-faces-disaster-in-china-with-unsellable-cars-as-pollution-crunch-looms/)
 * [2023-03-30, 08:04:19](https://news.ycombinator.com/item?id=35369529) - [Rever (YC S22) Is Hiring in Barcelona](https://news.ycombinator.com/item?id=35369529)
 * [2023-03-30, 06:59:50](https://news.ycombinator.com/item?id=35369075) - [The &#x27;Insanely Broad&#x27; Restrict Act Could Ban Much More Than Just TikTok](https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns)
 * [2023-03-30, 04:39:27](https://news.ycombinator.com/item?id=35368053) - [Finetuning LLMs on a Single GPU Using Gradient Accumulation](https://lightning.ai/pages/blog/gradient-accumulation/)
