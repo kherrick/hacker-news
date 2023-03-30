@@ -39,6 +39,7 @@
 * [2023-03-29, 16:12:42](https://news.ycombinator.com/item?id=35359295) - [Clues to the Lives of North America’s First Inhabitants Are Hidden Underwater](https://www.smithsonianmag.com/history/biggest-clues-lives-early-americans-hidden-underwater-submerged-prehistory-180981891/)
 * [2023-03-29, 16:11:04](https://news.ycombinator.com/item?id=35359271) - [The Teen Mental Illness Epidemic Is International, Part 1: The Anglosphere](https://jonathanhaidt.substack.com/p/international-mental-illness-part-one)
 * [2023-03-29, 15:46:24](https://news.ycombinator.com/item?id=35358926) - [Disney Lays Off Ike Perlmutter, Chairman of Marvel Entertainment](https://www.nytimes.com/2023/03/29/business/media/disney-marvel-ike-perlmutter.html)
+* [2023-03-29, 15:43:49](https://news.ycombinator.com/item?id=35358879) - [Our Shift to Usage-Based Pricing](https://www.appsmith.com/blog/usage-based-pricing)
 * [2023-03-29, 15:43:36](https://news.ycombinator.com/item?id=35358873) - [Launch HN: Vocode (YC W23) – Library for realtime voice conversation with LLMs](https://news.ycombinator.com/item?id=35358873)
 * [2023-03-29, 15:31:21](https://news.ycombinator.com/item?id=35358698) - [SBF’s Legal Defense Is Being Funded with Alameda Money He Gifted His Father](https://www.forbes.com/sites/sarahemerson/2023/03/29/sam-bankman-fried-legal-fees-funded-by-alameda-money-gifted-to-father-joe-bankman/)
 * [2023-03-29, 15:19:24](https://news.ycombinator.com/item?id=35358535) - [Show HN: Mirrorful – A developer-first way to implement designs faster](https://github.com/Mirrorful/mirrorful)
