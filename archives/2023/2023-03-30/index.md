@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 04:39:27](https://news.ycombinator.com/item?id=35368053) - [Finetuning LLMs on a Single GPU Using Gradient Accumulation](https://lightning.ai/pages/blog/gradient-accumulation/)
 * [2023-03-30, 04:30:19](https://news.ycombinator.com/item?id=35367995) - [Judge finds Google destroyed evidence and repeatedly gave false info to court](https://arstechnica.com/tech-policy/2023/03/judge-finds-google-destroyed-evidence-and-repeatedly-gave-false-info-to-court/)
 * [2023-03-30, 04:23:14](https://news.ycombinator.com/item?id=35367946) - [ChatGPT made me cry and other adventures in AI land](https://kottke.org/23/03/chatgpt-made-me-cry)
 * [2023-03-30, 03:25:52](https://news.ycombinator.com/item?id=35367520) - [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)

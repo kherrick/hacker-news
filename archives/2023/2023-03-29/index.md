@@ -53,6 +53,7 @@
 * [2023-03-29, 13:24:00](https://news.ycombinator.com/item?id=35356928) - [Emergent Mind: AI News, Curated and Explained by AI](https://www.emergentmind.com/)
 * [2023-03-29, 12:30:28](https://news.ycombinator.com/item?id=35356256) - [A surprising food may have been a staple of the real Paleo diet: rotten meat](https://www.sciencenews.org/article/meat-rotten-putrid-paleo-diet-fire-neanderthal)
 * [2023-03-29, 12:25:45](https://news.ycombinator.com/item?id=35356201) - [H26Forge: Exploiting Vulnerabilities in the H.264 Decoders of iOS, Firefox, VLC [pdf]](https://wrv.github.io/h26forge.pdf)
+* [2023-03-29, 12:24:36](https://news.ycombinator.com/item?id=35356189) - [The Wild World of Music](https://www.newyorker.com/magazine/2023/04/03/david-sulzer-profile-neuroscience-music)
 * [2023-03-29, 12:20:34](https://news.ycombinator.com/item?id=35356149) - [Spyware vendors use 0-days and n-days against Android, iOS and Chrome](https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/)
 * [2023-03-29, 12:20:34](https://news.ycombinator.com/item?id=35356149) - [Google finds more Android, iOS zero-days used to install spyware](https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/)
 * [2023-03-29, 12:13:52](https://news.ycombinator.com/item?id=35356054) - [Become a 1000x engineer or die tryin](https://kadekillary.work/posts/1000x-eng/)
