@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-30, 11:16:02",
+      "https://news.ycombinator.com/item?id=35370915"
+    ],
+    [
+      "Google trained Bard on ChatGPT chats from ShareGPT",
+      "https://twitter.com/steventey/status/1641267979399704576"
+    ]
+  ],
+  [
+    [
       "2023-03-30, 10:52:52",
       "https://news.ycombinator.com/item?id=35370728"
     ],
@@ -27,16 +37,6 @@
     [
       "Show HN: Yesterday I open sourced StratusGFX, a realtime 3D rendering engine",
       "https://github.com/KTStephano/StratusGFX"
-    ]
-  ],
-  [
-    [
-      "2023-03-30, 09:35:36",
-      "https://news.ycombinator.com/item?id=35370152"
-    ],
-    [
-      "The Twitter API is now effectively unmaintained",
-      "https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained"
     ]
   ],
   [
@@ -191,26 +191,6 @@
   ],
   [
     [
-      "2023-03-29, 19:27:30",
-      "https://news.ycombinator.com/item?id=35362063"
-    ],
-    [
-      "I built an iMessage bot using Beeper",
-      "https://www.getclearspace.com/beeper"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 19:26:17",
-      "https://news.ycombinator.com/item?id=35362048"
-    ],
-    [
-      "Cerebras-GPT vs. LLaMA AI Model Performance Comparison",
-      "https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/"
-    ]
-  ],
-  [
-    [
       "2023-03-29, 19:22:37",
       "https://news.ycombinator.com/item?id=35361991"
     ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2023-03-29, 08:29:53",
+      "https://news.ycombinator.com/item?id=35354226"
+    ],
+    [
+      "Messaging layer security: Secure and usable end-to-end encryption",
+      "https://www.ietf.org/blog/mls-secure-and-usable-end-to-end-encryption/"
+    ]
+  ],
+  [
+    [
       "2023-03-29, 08:02:04",
       "https://news.ycombinator.com/item?id=35354032"
     ],
@@ -297,6 +287,16 @@
     [
       "Pause Giant AI Experiments: An Open Letter",
       "https://futureoflife.org/open-letter/pause-giant-ai-experiments/"
+    ]
+  ],
+  [
+    [
+      "2023-03-28, 16:19:48",
+      "https://news.ycombinator.com/item?id=35343495"
+    ],
+    [
+      "Bicycle",
+      "https://ciechanow.ski/bicycle/"
     ]
   ]
 ]
