@@ -16,7 +16,6 @@
 * [2023-03-30, 15:47:26](https://news.ycombinator.com/item?id=35374593) - [Show HN: YakGPT – A locally running, hands-free ChatGPT UI](https://yakgpt.vercel.app/)
 * [2023-03-30, 15:32:48](https://news.ycombinator.com/item?id=35374332) - [A DNA ‘parasite’ may have fragmented our genes](https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/)
 * [2023-03-30, 15:31:48](https://news.ycombinator.com/item?id=35374302) - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
-* [2023-03-30, 15:23:40](https://news.ycombinator.com/item?id=35374117) - [Exploring Neural Graphics Primitives](https://thenumb.at/Neural-Graphics/)
 * [2023-03-30, 14:17:06](https://news.ycombinator.com/item?id=35373052) - [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
 * [2023-03-30, 14:14:36](https://news.ycombinator.com/item?id=35373019) - [Is Y Combinator worth the money? Brutally honest review of W22 batch experience](https://acecreamu.substack.com/p/is-y-combinator-worth-the-money)
 * [2023-03-30, 14:05:38](https://news.ycombinator.com/item?id=35372894) - [Had enough of Android? First &#x27;Focal&#x27; based Ubuntu Touch is out](https://www.theregister.com/2023/03/29/first_focal_based_ubuntu_touch/)
@@ -29,6 +28,7 @@
 * [2023-03-30, 09:35:36](https://news.ycombinator.com/item?id=35370152) - [The Twitter API is now effectively unmaintained](https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained)
 * [2023-03-30, 07:41:51](https://news.ycombinator.com/item?id=35369378) - [Computational mail for computer-supported cooperative work (1992)](https://www.guppylake.com/~nsb/CSCW-ATOMICMAIL.txt)
 * [2023-03-30, 07:26:39](https://news.ycombinator.com/item?id=35369279) - [Retool Database](https://retool.com/blog/rdb/)
+* [2023-03-30, 00:15:24](https://news.ycombinator.com/item?id=35365894) - [Light-bending gravity reveals one of the biggest black holes ever found](https://phys.org/news/2023-03-light-bending-gravity-reveals-biggest-black.html)
 * [2023-03-29, 20:55:40](https://news.ycombinator.com/item?id=35363467) - [An Unstandardized, Decentralized Carnival Fire: How Rare Books Are Cataloged](https://lithub.com/an-unstandardized-decentralized-carnival-fire-how-rare-books-are-cataloged/)
 
 ## [Archives](archives/index.md)
