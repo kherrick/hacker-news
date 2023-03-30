@@ -27,7 +27,7 @@
 * [2023-03-29, 08:29:53](https://news.ycombinator.com/item?id=35354226) - [Messaging layer security: Secure and usable end-to-end encryption](https://www.ietf.org/blog/mls-secure-and-usable-end-to-end-encryption/)
 * [2023-03-29, 01:57:41](https://news.ycombinator.com/item?id=35351122) - [Cantu a tenore](https://en.wikipedia.org/wiki/Cantu_a_tenore)
 * [2023-03-28, 21:43:33](https://news.ycombinator.com/item?id=35348353) - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
-* [2023-03-28, 21:12:13](https://news.ycombinator.com/item?id=35347925) - [Senate Bill to Ban TikTok](https://www.congress.gov/bill/118th-congress/senate-bill/686/text?s=1&r=15)
+* [2023-03-28, 19:01:56](https://news.ycombinator.com/item?id=35346159) - [“This Fairground Farce of Light”: Vladimir Nabokov’s “The Cinema” (1928)](https://lareviewofbooks.org/short-takes/this-fairground-farce-of-light-vladimir-nabokovs-the-cinema-1928/)
 * [2023-03-28, 17:28:04](https://news.ycombinator.com/item?id=35344703) - [Incompetent but Nice](https://jacobian.org/2023/mar/28/incompetent-but-nice/)
 * [2023-03-28, 12:41:03](https://news.ycombinator.com/item?id=35339955) - [Awk Technical Notes](https://maximullaris.com/awk_tech_notes.html)
 
