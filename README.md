@@ -28,8 +28,8 @@
 * [2023-03-30, 10:03:47](https://news.ycombinator.com/item?id=35370357) - [The RWKV language model: An RNN with the advantages of a transformer](https://johanwind.github.io/2023/03/23/rwkv_overview.html)
 * [2023-03-30, 09:55:25](https://news.ycombinator.com/item?id=35370284) - [Show HN: Yesterday I open sourced StratusGFX, a realtime 3D rendering engine](https://github.com/KTStephano/StratusGFX)
 * [2023-03-30, 09:35:36](https://news.ycombinator.com/item?id=35370152) - [The Twitter API is now effectively unmaintained](https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained)
-* [2023-03-30, 07:41:51](https://news.ycombinator.com/item?id=35369378) - [Computational Mail for Computer-Supported Cooperative Work (1992)](https://www.guppylake.com/~nsb/CSCW-ATOMICMAIL.txt)
 * [2023-03-30, 07:26:39](https://news.ycombinator.com/item?id=35369279) - [Retool Database](https://retool.com/blog/rdb/)
+* [2023-03-29, 20:55:40](https://news.ycombinator.com/item?id=35363467) - [An Unstandardized, Decentralized Carnival Fire: How Rare Books Are Cataloged](https://lithub.com/an-unstandardized-decentralized-carnival-fire-how-rare-books-are-cataloged/)
 
 ## [Archives](archives/index.md)
 

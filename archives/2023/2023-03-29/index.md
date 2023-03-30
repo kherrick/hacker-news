@@ -17,6 +17,7 @@
 * [2023-03-29, 21:27:49](https://news.ycombinator.com/item?id=35363967) - [Video and Transcript: Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
 * [2023-03-29, 21:00:26](https://news.ycombinator.com/item?id=35363547) - [OneSignal (YC S11) is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
 * [2023-03-29, 20:55:43](https://news.ycombinator.com/item?id=35363469) - [A Community in Crisis: ChatGPT Token Theft Epidemic in Unity1Week Games](https://cohost.org/renkotsuban/post/1249183-cw-chatgpt-bullshit)
+* [2023-03-29, 20:55:40](https://news.ycombinator.com/item?id=35363467) - [An Unstandardized, Decentralized Carnival Fire: How Rare Books Are Cataloged](https://lithub.com/an-unstandardized-decentralized-carnival-fire-how-rare-books-are-cataloged/)
 * [2023-03-29, 20:32:46](https://news.ycombinator.com/item?id=35363095) - [Judge Finds Google Destroyed Evidence and Repeatedly Lied to the Court [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.373179/gov.uscourts.cand.373179.469.0.pdf)
 * [2023-03-29, 20:29:53](https://news.ycombinator.com/item?id=35363044) - [Wat [video] (2012)](https://www.destroyallsoftware.com/talks/wat)
 * [2023-03-29, 19:47:38](https://news.ycombinator.com/item?id=35362353) - [Sex and the Citizenship Process: Why people keep sending nudes to immigration](https://lux-magazine.com/article/sex-and-the-citizenship-process/)
