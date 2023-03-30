@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-30, 17:27:30](https://news.ycombinator.com/item?id=35376221) - [“Churn” isn&#x27;t a metric, it&#x27;s people rejecting you–grow from it](https://churnkey.co/blog/churn-is-customer-rejection/)
+* [2023-03-30, 17:53:07](https://news.ycombinator.com/item?id=35376598) - [Folia – Multithreading Coming to your Minecraft server](https://paper-chan.moe/folia/)
+* [2023-03-30, 17:44:36](https://news.ycombinator.com/item?id=35376488) - [San Jose police union executive director charged with smuggling fentanyl into US](https://www.washingtonexaminer.com/news/crime/san-jose-police-union-director-smuggle-fentanyl-charge)
+* [2023-03-30, 17:22:24](https://news.ycombinator.com/item?id=35376138) - [RoboPianist, a piano playing robot simulation in the browser](https://kevinzakka.github.io/robopianist-demo/)
 * [2023-03-30, 17:16:30](https://news.ycombinator.com/item?id=35376059) - [The Cambrian Period of AI](https://lachlangray.blot.im/the-cambrian-period-of-ai)
 * [2023-03-30, 17:01:06](https://news.ycombinator.com/item?id=35375807) - [Kraftful (YC S19) Hiring Founding Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
 * [2023-03-30, 16:56:38](https://news.ycombinator.com/item?id=35375727) - [Launch HN: Baseplate (YC W23) – Back end-as-a-service for LLM apps](https://news.ycombinator.com/item?id=35375727)
@@ -25,10 +27,8 @@
 * [2023-03-30, 10:03:47](https://news.ycombinator.com/item?id=35370357) - [The RWKV language model: An RNN with the advantages of a transformer](https://johanwind.github.io/2023/03/23/rwkv_overview.html)
 * [2023-03-30, 09:55:25](https://news.ycombinator.com/item?id=35370284) - [Show HN: Yesterday I open sourced StratusGFX, a realtime 3D rendering engine](https://github.com/KTStephano/StratusGFX)
 * [2023-03-30, 09:35:36](https://news.ycombinator.com/item?id=35370152) - [The Twitter API is now effectively unmaintained](https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained)
-* [2023-03-30, 07:00:35](https://news.ycombinator.com/item?id=35369084) - [APL: An Array Oriented Programming Language (2018)](https://medium.com/@kaleberg7/apl-an-array-oriented-programming-language-b03fb39401c1)
 * [2023-03-29, 22:50:02](https://news.ycombinator.com/item?id=35364985) - [Early Remote Work Impacts on Family Formation](https://eig.org/remote-work-family-formation/)
 * [2023-03-29, 21:58:41](https://news.ycombinator.com/item?id=35364383) - [AAD misconfiguration led to Bing.com results manipulation, account takeover](https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration)
-* [2023-03-29, 19:22:37](https://news.ycombinator.com/item?id=35361991) - [New York City is building a wall of oysters to fend off floods (2021)](https://www.bloomberg.com/news/features/2021-11-19/to-fight-floods-new-york-city-rebuilds-a-wall-of-oysters)
 * [2023-03-29, 08:02:04](https://news.ycombinator.com/item?id=35354032) - [Open source espresso machine is one delicious rabbit hole inside another](https://arstechnica.com/gadgets/2023/03/great-espresso-isnt-hard-enough-so-heres-a-diy-open-source-machine-for-it/)
 
 ## [Archives](archives/index.md)
