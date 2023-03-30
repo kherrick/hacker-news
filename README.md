@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-30, 08:04:19](https://news.ycombinator.com/item?id=35369529) - [Rever (YC S22) Is Hiring in Barcelona](https://news.ycombinator.com/item?id=35369529)
 * [2023-03-30, 06:59:50](https://news.ycombinator.com/item?id=35369075) - [The &#x27;Insanely Broad&#x27; Restrict Act Could Ban Much More Than Just TikTok](https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns)
 * [2023-03-30, 04:39:27](https://news.ycombinator.com/item?id=35368053) - [Finetuning LLMs on a Single GPU Using Gradient Accumulation](https://lightning.ai/pages/blog/gradient-accumulation/)
 * [2023-03-30, 03:25:52](https://news.ycombinator.com/item?id=35367520) - [Making Python faster with Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
@@ -12,7 +13,6 @@
 * [2023-03-29, 21:47:11](https://news.ycombinator.com/item?id=35364224) - [Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807)
 * [2023-03-29, 21:42:30](https://news.ycombinator.com/item?id=35364166) - [Fuel from discarded plastics comes with a high cancer risk](https://www.theguardian.com/environment/2023/feb/23/climate-friendly-us-program-plastics-fuel-cancer)
 * [2023-03-29, 21:29:37](https://news.ycombinator.com/item?id=35363993) - [Type system of Fortnite&#x27;s Verse language](https://brianmckenna.org/blog/verse_types)
-* [2023-03-29, 21:00:26](https://news.ycombinator.com/item?id=35363547) - [OneSignal (YC S11) is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
 * [2023-03-29, 20:29:53](https://news.ycombinator.com/item?id=35363044) - [Wat [video] (2012)](https://www.destroyallsoftware.com/talks/wat)
 * [2023-03-29, 19:27:30](https://news.ycombinator.com/item?id=35362063) - [I built an iMessage bot using Beeper](https://www.getclearspace.com/beeper)
 * [2023-03-29, 19:26:17](https://news.ycombinator.com/item?id=35362048) - [Cerebras-GPT vs. LLaMA AI Model Performance Comparison](https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/)
