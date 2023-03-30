@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 15:32:48](https://news.ycombinator.com/item?id=35374332) - [A DNA ‘Parasite’ May Have Fragmented Our Genes](https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/)
+* [2023-03-30, 15:31:48](https://news.ycombinator.com/item?id=35374302) - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
 * [2023-03-30, 14:50:50](https://news.ycombinator.com/item?id=35373512) - [I spent $35,000 on a “typo domain” 8 months ago. Is it a good investment?](https://testimonial.to/resources/typo-domain)
 * [2023-03-30, 14:39:55](https://news.ycombinator.com/item?id=35373366) - [Is it time to open source SublimeText?](https://ruky.me/2023/03/30/is-it-time-to-open-source-sublimetext/)
 * [2023-03-30, 14:17:06](https://news.ycombinator.com/item?id=35373052) - [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)

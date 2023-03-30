@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-30, 14:50:50](https://news.ycombinator.com/item?id=35373512) - [I spent $35,000 on a “typo domain” 8 months ago. Is it a good investment?](https://testimonial.to/resources/typo-domain)
+* [2023-03-30, 15:32:48](https://news.ycombinator.com/item?id=35374332) - [A DNA ‘Parasite’ May Have Fragmented Our Genes](https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/)
+* [2023-03-30, 15:31:48](https://news.ycombinator.com/item?id=35374302) - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
 * [2023-03-30, 14:17:06](https://news.ycombinator.com/item?id=35373052) - [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
 * [2023-03-30, 14:16:10](https://news.ycombinator.com/item?id=35373042) - [A misleading open letter about sci-fi AI dangers ignores the real risks](https://aisnakeoil.substack.com/p/a-misleading-open-letter-about-sci)
 * [2023-03-30, 14:14:36](https://news.ycombinator.com/item?id=35373019) - [Is Y Combinator worth the money? Brutally honest review of W22 batch experience](https://acecreamu.substack.com/p/is-y-combinator-worth-the-money)
@@ -20,7 +21,6 @@
 * [2023-03-30, 07:00:35](https://news.ycombinator.com/item?id=35369084) - [APL: An Array Oriented Programming Language (2018)](https://medium.com/@kaleberg7/apl-an-array-oriented-programming-language-b03fb39401c1)
 * [2023-03-30, 06:59:50](https://news.ycombinator.com/item?id=35369075) - [The &#x27;Insanely Broad&#x27; Restrict Act Could Ban Much More Than Just TikTok](https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns)
 * [2023-03-30, 06:24:48](https://news.ycombinator.com/item?id=35368813) - [A Response to Jacob Kaplan-Moss’s “Incompetent but Nice”](https://blog.glyph.im/2023/03/incompetent-but-nice-response.html)
-* [2023-03-30, 02:04:39](https://news.ycombinator.com/item?id=35366838) - [Show HN: Marvin – build AI functions that use an LLM as a runtime](https://github.com/PrefectHQ/marvin)
 * [2023-03-29, 23:27:32](https://news.ycombinator.com/item?id=35365399) - [Universal Speech Model](https://sites.research.google/usm/)
 * [2023-03-29, 22:50:02](https://news.ycombinator.com/item?id=35364985) - [Early Remote Work Impacts on Family Formation](https://eig.org/remote-work-family-formation/)
 * [2023-03-29, 21:58:41](https://news.ycombinator.com/item?id=35364383) - [AAD misconfiguration led to Bing.com results manipulation, account takeover](https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration)
