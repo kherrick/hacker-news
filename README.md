@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-30, 17:27:30](https://news.ycombinator.com/item?id=35376221) - [“Churn” isn&#x27;t a metric, it&#x27;s people rejecting you–grow from it](https://churnkey.co/blog/churn-is-customer-rejection/)
+* [2023-03-30, 17:16:30](https://news.ycombinator.com/item?id=35376059) - [The Cambrian Period of AI](https://lachlangray.blot.im/the-cambrian-period-of-ai)
 * [2023-03-30, 17:01:06](https://news.ycombinator.com/item?id=35375807) - [Kraftful (YC S19) Hiring Founding Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
 * [2023-03-30, 16:56:38](https://news.ycombinator.com/item?id=35375727) - [Launch HN: Baseplate (YC W23) – Back end-as-a-service for LLM apps](https://news.ycombinator.com/item?id=35375727)
 * [2023-03-30, 16:19:21](https://news.ycombinator.com/item?id=35375131) - [Show HN: Meteosource Weather API: current, forecast and historical data using ML](https://www.meteosource.com)
@@ -11,7 +13,6 @@
 * [2023-03-30, 14:17:06](https://news.ycombinator.com/item?id=35373052) - [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
 * [2023-03-30, 14:16:10](https://news.ycombinator.com/item?id=35373042) - [A misleading open letter about sci-fi AI dangers ignores the real risks](https://aisnakeoil.substack.com/p/a-misleading-open-letter-about-sci)
 * [2023-03-30, 14:14:36](https://news.ycombinator.com/item?id=35373019) - [Is Y Combinator worth the money? Brutally honest review of W22 batch experience](https://acecreamu.substack.com/p/is-y-combinator-worth-the-money)
-* [2023-03-30, 14:05:38](https://news.ycombinator.com/item?id=35372894) - [Had enough of Android? First &#x27;Focal&#x27; based Ubuntu Touch is out](https://www.theregister.com/2023/03/29/first_focal_based_ubuntu_touch/)
 * [2023-03-30, 13:48:02](https://news.ycombinator.com/item?id=35372653) - [This is a Chord](https://tumblr.austinkleon.com/post/152691534221)
 * [2023-03-30, 12:42:21](https://news.ycombinator.com/item?id=35371750) - [There&#x27;s something off about LED bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html)
 * [2023-03-30, 12:25:12](https://news.ycombinator.com/item?id=35371541) - [The Fascinating World of HTTP Strict-Transport-Security](https://ergomake.dev/blog/hsts-introduction/)
@@ -28,7 +29,6 @@
 * [2023-03-29, 22:50:02](https://news.ycombinator.com/item?id=35364985) - [Early Remote Work Impacts on Family Formation](https://eig.org/remote-work-family-formation/)
 * [2023-03-29, 21:58:41](https://news.ycombinator.com/item?id=35364383) - [AAD misconfiguration led to Bing.com results manipulation, account takeover](https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration)
 * [2023-03-29, 19:22:37](https://news.ycombinator.com/item?id=35361991) - [New York City is building a wall of oysters to fend off floods (2021)](https://www.bloomberg.com/news/features/2021-11-19/to-fight-floods-new-york-city-rebuilds-a-wall-of-oysters)
-* [2023-03-29, 12:13:40](https://news.ycombinator.com/item?id=35356052) - [How to draw dotted lines on chalkboards, MIT style (2021)](https://mitadmissions.org/blogs/entry/how-to-draw-dotted-lines-on-chalkboards-mit-style/)
 * [2023-03-29, 08:02:04](https://news.ycombinator.com/item?id=35354032) - [Open source espresso machine is one delicious rabbit hole inside another](https://arstechnica.com/gadgets/2023/03/great-espresso-isnt-hard-enough-so-heres-a-diy-open-source-machine-for-it/)
 
 ## [Archives](archives/index.md)

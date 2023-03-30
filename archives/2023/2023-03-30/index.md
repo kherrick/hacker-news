@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 17:27:30](https://news.ycombinator.com/item?id=35376221) - [“Churn” isn&#x27;t a metric, it&#x27;s people rejecting you–grow from it](https://churnkey.co/blog/churn-is-customer-rejection/)
+* [2023-03-30, 17:16:30](https://news.ycombinator.com/item?id=35376059) - [The Cambrian Period of AI](https://lachlangray.blot.im/the-cambrian-period-of-ai)
 * [2023-03-30, 17:01:06](https://news.ycombinator.com/item?id=35375807) - [Kraftful (YC S19) Hiring Founding Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
 * [2023-03-30, 16:56:38](https://news.ycombinator.com/item?id=35375727) - [Launch HN: Baseplate (YC W23) – Back end-as-a-service for LLM apps](https://news.ycombinator.com/item?id=35375727)
 * [2023-03-30, 16:19:21](https://news.ycombinator.com/item?id=35375131) - [Show HN: Meteosource Weather API: current, forecast and historical data using ML](https://www.meteosource.com)
