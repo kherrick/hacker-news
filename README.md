@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-30, 21:25:42](https://news.ycombinator.com/item?id=35379008) - [Why not tell people to “simply” use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
+* [2023-03-30, 20:59:29](https://news.ycombinator.com/item?id=35378758) - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
 * [2023-03-30, 20:52:49](https://news.ycombinator.com/item?id=35378683) - [Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality](https://vicuna.lmsys.org/)
 * [2023-03-30, 20:37:56](https://news.ycombinator.com/item?id=35378521) - [Faiss: A library for efficient similarity search](https://github.com/facebookresearch/faiss)
-* [2023-03-30, 19:49:28](https://news.ycombinator.com/item?id=35377935) - [You probably shouldn&#x27;t use OpenAI&#x27;s embeddings](https://iamnotarobot.substack.com/p/should-you-use-openais-embeddings)
 * [2023-03-30, 19:48:52](https://news.ycombinator.com/item?id=35377926) - [RFdiffusion: Diffusion model generates protein backbones](https://github.com/RosettaCommons/RFdiffusion)
 * [2023-03-30, 18:34:00](https://news.ycombinator.com/item?id=35377105) - [Can we hide the orange dot without disabling SIP?](https://notes.alinpanaitiu.com/Can%20we%20hide%20the%20orange%20dot%20without%20disabling%20SIP)
 * [2023-03-30, 17:56:46](https://news.ycombinator.com/item?id=35376645) - [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
@@ -21,7 +22,6 @@
 * [2023-03-30, 14:05:38](https://news.ycombinator.com/item?id=35372894) - [Had enough of Android? First &#x27;Focal&#x27; based Ubuntu Touch is out](https://www.theregister.com/2023/03/29/first_focal_based_ubuntu_touch/)
 * [2023-03-30, 13:48:02](https://news.ycombinator.com/item?id=35372653) - [This is a Chord (2016)](https://tumblr.austinkleon.com/post/152691534221)
 * [2023-03-30, 12:42:21](https://news.ycombinator.com/item?id=35371750) - [There&#x27;s something off about LED bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html)
-* [2023-03-30, 12:25:12](https://news.ycombinator.com/item?id=35371541) - [The fascinating world of HTTP Strict-Transport-Security](https://ergomake.dev/blog/hsts-introduction/)
 * [2023-03-30, 12:18:56](https://news.ycombinator.com/item?id=35371469) - [Show HN: Gut – An easy-to-use CLI for Git](https://gut-cli.dev)
 * [2023-03-30, 11:22:14](https://news.ycombinator.com/item?id=35370972) - [How to Read MySQL EXPLAINs](https://planetscale.com/blog/how-read-mysql-explains)
 * [2023-03-30, 11:16:02](https://news.ycombinator.com/item?id=35370915) - [Google denies training Bard on ChatGPT chats from ShareGPT](https://twitter.com/steventey/status/1641267979399704576)

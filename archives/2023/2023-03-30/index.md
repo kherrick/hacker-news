@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 21:25:42](https://news.ycombinator.com/item?id=35379008) - [Why not tell people to “simply” use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
+* [2023-03-30, 20:59:29](https://news.ycombinator.com/item?id=35378758) - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
 * [2023-03-30, 20:52:49](https://news.ycombinator.com/item?id=35378683) - [GPT-4 Says an Open-Source Chatbot Vicuna Reaches 90% ChatGPT Quality](https://vicuna.lmsys.org/)
 * [2023-03-30, 20:37:56](https://news.ycombinator.com/item?id=35378521) - [Faiss: A library for efficient similarity search](https://github.com/facebookresearch/faiss)
 * [2023-03-30, 19:49:28](https://news.ycombinator.com/item?id=35377935) - [You probably shouldn&#x27;t use OpenAI&#x27;s embeddings](https://iamnotarobot.substack.com/p/should-you-use-openais-embeddings)
