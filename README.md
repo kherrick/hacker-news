@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-30, 22:38:07](https://news.ycombinator.com/item?id=35379811) - [Optimized Rust is Still Slower Than Python+NumPy](https://github.com/hirasawakinko/Numpy-Done-Right/blob/main/Numpy%20Done%20Right.ipynb)
+* [2023-03-30, 22:21:05](https://news.ycombinator.com/item?id=35379603) - [A GPT 3.5 powered tool for generating regex](https://fuckregex.dev/)
 * [2023-03-30, 22:07:41](https://news.ycombinator.com/item?id=35379453) - [Show HN: Walkie-Talkie for Badass Developers](https://www.flowy.live/)
 * [2023-03-30, 21:38:08](https://news.ycombinator.com/item?id=35379136) - [My kids and I just played D&amp;D with ChatGPT4 as the DM](https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6)
-* [2023-03-30, 21:25:42](https://news.ycombinator.com/item?id=35379008) - [Why not tell people to “simply” use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
 * [2023-03-30, 21:24:49](https://news.ycombinator.com/item?id=35378997) - [E3 Has Been Canceled](https://www.ign.com/articles/e3-has-been-canceled)
 * [2023-03-30, 20:59:29](https://news.ycombinator.com/item?id=35378758) - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
 * [2023-03-30, 20:52:49](https://news.ycombinator.com/item?id=35378683) - [Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality](https://vicuna.lmsys.org/)
