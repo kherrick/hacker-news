@@ -69,6 +69,7 @@
 * [2023-03-29, 11:13:04](https://news.ycombinator.com/item?id=35355469) - [Terence Tao makes progress on the Collatz conjecture (2019)](https://www.quantamagazine.org/mathematician-proves-huge-result-on-dangerous-problem-20191211)
 * [2023-03-29, 11:08:45](https://news.ycombinator.com/item?id=35355437) - [Mamihlapinatapai, Most Succinct Word](https://en.wikipedia.org/wiki/Mamihlapinatapai)
 * [2023-03-29, 11:00:15](https://news.ycombinator.com/item?id=35355372) - [Carl Braun on Communicating Like a Grown-Up (2016)](https://fs.blog/carl-braun-communicating/)
+* [2023-03-29, 10:30:26](https://news.ycombinator.com/item?id=35355136) - [Zion Climbing in the 1930s](https://www.bigwallgear.com/p/zion-climbing-in-the-1930s)
 * [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/SubscriberLink/927262/6adb2350e2b0d2ce/)
 * [2023-03-29, 09:37:38](https://news.ycombinator.com/item?id=35354729) - [Ubuntu stops shipping Flatpak by default](https://lwn.net/Articles/927262/)
 * [2023-03-29, 08:37:13](https://news.ycombinator.com/item?id=35354271) - [A Theory of Vibe (2017)](https://www.glass-bead.org/article/a-theory-of-vibe/)
