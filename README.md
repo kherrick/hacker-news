@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-30, 22:38:07](https://news.ycombinator.com/item?id=35379811) - [Optimized Rust is Still Slower Than Python+NumPy](https://github.com/hirasawakinko/Numpy-Done-Right/blob/main/Numpy%20Done%20Right.ipynb)
+* [2023-03-30, 22:43:04](https://news.ycombinator.com/item?id=35379863) - [ETH Zürich&#x27;s position on AI in education and ChatGPT](https://ethz.ch/en/the-eth-zurich/education/educational-development/ai-in-education/chatgpt.html)
 * [2023-03-30, 22:21:05](https://news.ycombinator.com/item?id=35379603) - [A GPT 3.5 powered tool for generating regex](https://fuckregex.dev/)
 * [2023-03-30, 22:07:41](https://news.ycombinator.com/item?id=35379453) - [Show HN: Walkie-Talkie for Badass Developers](https://www.flowy.live/)
 * [2023-03-30, 21:38:08](https://news.ycombinator.com/item?id=35379136) - [My kids and I just played D&amp;D with ChatGPT4 as the DM](https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6)
@@ -11,6 +11,7 @@
 * [2023-03-30, 19:48:52](https://news.ycombinator.com/item?id=35377926) - [RFdiffusion: Diffusion model generates protein backbones](https://github.com/RosettaCommons/RFdiffusion)
 * [2023-03-30, 18:34:00](https://news.ycombinator.com/item?id=35377105) - [Can we hide the orange dot without disabling SIP?](https://notes.alinpanaitiu.com/Can%20we%20hide%20the%20orange%20dot%20without%20disabling%20SIP)
 * [2023-03-30, 17:56:46](https://news.ycombinator.com/item?id=35376645) - [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
+* [2023-03-30, 17:44:36](https://news.ycombinator.com/item?id=35376488) - [San Jose police union executive director charged with smuggling fentanyl into US](https://www.washingtonexaminer.com/news/crime/san-jose-police-union-director-smuggle-fentanyl-charge)
 * [2023-03-30, 17:22:24](https://news.ycombinator.com/item?id=35376138) - [Show HN: RoboPianist, a piano playing robot simulation in the browser](https://kevinzakka.github.io/robopianist-demo/)
 * [2023-03-30, 17:01:06](https://news.ycombinator.com/item?id=35375807) - [Kraftful (YC S19) Hiring Founding Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
 * [2023-03-30, 16:56:38](https://news.ycombinator.com/item?id=35375727) - [Launch HN: Baseplate (YC W23) – Back end-as-a-service for LLM apps](https://news.ycombinator.com/item?id=35375727)
@@ -28,7 +29,6 @@
 * [2023-03-30, 09:55:25](https://news.ycombinator.com/item?id=35370284) - [Show HN: StratusGFX, my open-source real-time 3D rendering engine](https://github.com/KTStephano/StratusGFX)
 * [2023-03-30, 09:35:36](https://news.ycombinator.com/item?id=35370152) - [The Twitter API is now effectively unmaintained](https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained)
 * [2023-03-30, 07:26:39](https://news.ycombinator.com/item?id=35369279) - [Retool Database](https://retool.com/blog/rdb/)
-* [2023-03-30, 00:15:24](https://news.ycombinator.com/item?id=35365894) - [Light-bending gravity reveals one of the biggest black holes ever found](https://phys.org/news/2023-03-light-bending-gravity-reveals-biggest-black.html)
 * [2023-03-29, 20:55:40](https://news.ycombinator.com/item?id=35363467) - [An Unstandardized, Decentralized Carnival Fire: How Rare Books Are Cataloged](https://lithub.com/an-unstandardized-decentralized-carnival-fire-how-rare-books-are-cataloged/)
 
 ## [Archives](archives/index.md)

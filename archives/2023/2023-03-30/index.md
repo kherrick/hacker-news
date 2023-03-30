@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 22:43:04](https://news.ycombinator.com/item?id=35379863) - [ETH Zürich&#x27;s position on AI in education and ChatGPT](https://ethz.ch/en/the-eth-zurich/education/educational-development/ai-in-education/chatgpt.html)
 * [2023-03-30, 22:38:07](https://news.ycombinator.com/item?id=35379811) - [Optimized Rust is Still Slower Than Python+NumPy](https://github.com/hirasawakinko/Numpy-Done-Right/blob/main/Numpy%20Done%20Right.ipynb)
 * [2023-03-30, 22:21:05](https://news.ycombinator.com/item?id=35379603) - [A GPT 3.5 powered tool for generating regex](https://fuckregex.dev/)
 * [2023-03-30, 22:07:41](https://news.ycombinator.com/item?id=35379453) - [Show HN: Walkie-Talkie for Badass Developers](https://www.flowy.live/)
