@@ -12,6 +12,7 @@
 * [2023-03-30, 19:34:50](https://news.ycombinator.com/item?id=35377794) - [The Anatomy of Your Salary](https://philipjoubert.com/why-are-you-paid/)
 * [2023-03-30, 19:21:34](https://news.ycombinator.com/item?id=35377665) - [Get Instant Feedback and Help for LeetCode&#x2F;HackerRank with ChatGPT](https://github.com/Liopun/leet-chatgpt-extension)
 * [2023-03-30, 19:13:42](https://news.ycombinator.com/item?id=35377584) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
+* [2023-03-30, 18:34:00](https://news.ycombinator.com/item?id=35377105) - [Can we hide the orange dot without disabling SIP?](https://notes.alinpanaitiu.com/Can%20we%20hide%20the%20orange%20dot%20without%20disabling%20SIP)
 * [2023-03-30, 17:56:46](https://news.ycombinator.com/item?id=35376645) - [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
 * [2023-03-30, 17:53:07](https://news.ycombinator.com/item?id=35376598) - [Folia – Multithreading Coming to your Minecraft server](https://paper-chan.moe/folia/)
 * [2023-03-30, 17:44:36](https://news.ycombinator.com/item?id=35376488) - [San Jose police union executive director charged with smuggling fentanyl into US](https://www.washingtonexaminer.com/news/crime/san-jose-police-union-director-smuggle-fentanyl-charge)
