@@ -8,6 +8,7 @@
 * [2023-03-29, 23:37:56](https://news.ycombinator.com/item?id=35365510) - [Samsung&#x27;s AI photo feature adds creepy teeth to baby photos](https://boingboing.net/2023/03/28/samsungs-ai-photo-feature-adds-creepy-teeth-to-baby-photos.html)
 * [2023-03-29, 23:31:09](https://news.ycombinator.com/item?id=35365440) - [The Horrifying Epidemic of Teen-Age Fentanyl Deaths in a Texas County](https://www.newyorker.com/news/letter-from-the-southwest/the-horrifying-epidemic-of-teen-age-fentanyl-deaths-in-a-texas-county)
 * [2023-03-29, 23:27:32](https://news.ycombinator.com/item?id=35365399) - [Universal Speech Model](https://sites.research.google/usm/)
+* [2023-03-29, 22:50:02](https://news.ycombinator.com/item?id=35364985) - [Early Remote Work Impacts on Family Formation](https://eig.org/remote-work-family-formation/)
 * [2023-03-29, 21:58:41](https://news.ycombinator.com/item?id=35364383) - [AAD misconfiguration led to Bing.com results manipulation, account takeover](https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration)
 * [2023-03-29, 21:55:18](https://news.ycombinator.com/item?id=35364338) - [Rural children now grow slightly taller than city children in wealthy countries](https://www.scientificamerican.com/article/rural-children-now-grow-slightly-taller-than-city-children-in-wealthy-countries/)
 * [2023-03-29, 21:47:11](https://news.ycombinator.com/item?id=35364224) - [Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807)
