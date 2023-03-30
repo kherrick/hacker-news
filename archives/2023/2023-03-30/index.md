@@ -30,6 +30,7 @@
 * [2023-03-30, 12:00:46](https://news.ycombinator.com/item?id=35371293) - [Laudspeaker hiring Product Eng for open source customer journey automation](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-03-30, 11:57:08](https://news.ycombinator.com/item?id=35371261) - [Streaming company Roku to lay off 6% workforce](https://www.reuters.com/technology/streaming-device-maker-roku-cut-200-jobs-second-round-layoffs-2023-03-30/)
 * [2023-03-30, 11:48:31](https://news.ycombinator.com/item?id=35371182) - [Mach 3.5 Over Libya in an SR-71 Blackbird](https://www.thesr71blackbird.com/Aircraft/Stories/mach-35-over-libya-in-an-sr-71-blackbird)
+* [2023-03-30, 11:22:14](https://news.ycombinator.com/item?id=35370972) - [How to Read MySQL EXPLAINs](https://planetscale.com/blog/how-read-mysql-explains)
 * [2023-03-30, 11:21:25](https://news.ycombinator.com/item?id=35370963) - [High egg prices send profits at largest US producer soaring more than 700%](https://www.cnn.com/2023/03/29/business/egg-profits-cal-maine/index.html)
 * [2023-03-30, 11:16:02](https://news.ycombinator.com/item?id=35370915) - [Google trained Bard on ChatGPT chats from ShareGPT](https://twitter.com/steventey/status/1641267979399704576)
 * [2023-03-30, 10:53:05](https://news.ycombinator.com/item?id=35370731) - [Germany opposes client-side scanning planned by EU](https://tutanota.com/blog/posts/eu-client-side-scanning)
