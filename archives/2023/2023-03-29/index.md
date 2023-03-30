@@ -30,6 +30,7 @@
 * [2023-03-29, 18:58:32](https://news.ycombinator.com/item?id=35361628) - [CSS is hard no matter how good you are at it](https://www.aha.io/engineering/articles/css-is-hard-no-matter-how-good-you-are-at-it)
 * [2023-03-29, 18:46:18](https://news.ycombinator.com/item?id=35361473) - [I wanted a beautiful computer and couldn&#x27;t find one, so I made my own](https://www.mythic.computer/essays/origins)
 * [2023-03-29, 18:41:10](https://news.ycombinator.com/item?id=35361403) - [A VC Bought the Flatiron Building and Didn’t Pay for It](https://hellgatenyc.com/some-guy-bought-the-flatiron-building-and-didnt-pay-for-it)
+* [2023-03-29, 18:29:41](https://news.ycombinator.com/item?id=35361252) - [XML Appliance](https://en.wikipedia.org/wiki/XML_appliance)
 * [2023-03-29, 18:25:15](https://news.ycombinator.com/item?id=35361192) - [Gambas – open-source Basic for Linux inspired by VB](https://gambas.sourceforge.net/en/main.html)
 * [2023-03-29, 18:22:45](https://news.ycombinator.com/item?id=35361163) - [Qt Creator 10 Released](https://www.qt.io/blog/qt-creator-10-released)
 * [2023-03-29, 18:15:19](https://news.ycombinator.com/item?id=35361067) - [Rustls 0.21.0 Released with New Features](https://www.memorysafety.org/blog/rustls-new-features/)

@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 12:18:56](https://news.ycombinator.com/item?id=35371469) - [Show HN: Gut – An easy-to-use CLI for Git](https://gut-cli.dev)
+* [2023-03-30, 12:09:46](https://news.ycombinator.com/item?id=35371379) - [Transit Is Great – But It’s Not a Public Good](https://www.bloomberg.com/news/articles/2023-03-30/no-transit-is-not-a-public-good-here-s-why)
+* [2023-03-30, 12:02:56](https://news.ycombinator.com/item?id=35371315) - [Is hand coding becoming obsolete?](https://www.deusinmachina.net/p/how-we-code-is-changing)
+* [2023-03-30, 12:01:18](https://news.ycombinator.com/item?id=35371296) - [Bloomberg sponsors curl with 10K USD](https://mastodon.social/@bagder/110102954036946925)
 * [2023-03-30, 12:00:46](https://news.ycombinator.com/item?id=35371293) - [Laudspeaker hiring Product Eng for open source customer journey automation](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
+* [2023-03-30, 11:57:08](https://news.ycombinator.com/item?id=35371261) - [Streaming company Roku to lay off 6% workforce](https://www.reuters.com/technology/streaming-device-maker-roku-cut-200-jobs-second-round-layoffs-2023-03-30/)
 * [2023-03-30, 11:16:02](https://news.ycombinator.com/item?id=35370915) - [Google trained Bard on ChatGPT chats from ShareGPT](https://twitter.com/steventey/status/1641267979399704576)
+* [2023-03-30, 10:53:05](https://news.ycombinator.com/item?id=35370731) - [Germany opposes client-side scanning planned by EU](https://tutanota.com/blog/posts/eu-client-side-scanning)
 * [2023-03-30, 10:52:52](https://news.ycombinator.com/item?id=35370728) - [50% of new NPM packages are spam](https://blog.sandworm.dev/one-in-two-new-npm-packages-is-seo-spam-right-now)
 * [2023-03-30, 10:12:44](https://news.ycombinator.com/item?id=35370418) - [Is It Blocked in Russia?](https://isitblockedinrussia.com/?host=ycombinator.com)
 * [2023-03-30, 10:03:47](https://news.ycombinator.com/item?id=35370357) - [The RWKV language model: An RNN with the advantages of a transformer](https://johanwind.github.io/2023/03/23/rwkv_overview.html)
