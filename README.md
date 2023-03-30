@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-30, 04:23:14](https://news.ycombinator.com/item?id=35367946) - [ChatGPT made me cry and other adventures in AI land](https://kottke.org/23/03/chatgpt-made-me-cry)
 * [2023-03-30, 03:25:52](https://news.ycombinator.com/item?id=35367520) - [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
 * [2023-03-30, 02:17:23](https://news.ycombinator.com/item?id=35366955) - [TikTok Ban Bill Is Patriot Act 2.0 Trojan Horse [video]](https://www.youtube.com/watch?v=FWQGA_n5Z4M)
 * [2023-03-29, 23:50:54](https://news.ycombinator.com/item?id=35365672) - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
@@ -19,9 +20,8 @@
 * [2023-03-29, 17:15:57](https://news.ycombinator.com/item?id=35360219) - [Original Prusa MK4](https://www.prusa3d.com/product/original-prusa-mk4-2/)
 * [2023-03-29, 16:23:21](https://news.ycombinator.com/item?id=35359473) - [Show HN: go-nbd – A Pure Go NBD Server and Client](https://github.com/pojntfx/go-nbd)
 * [2023-03-29, 15:43:36](https://news.ycombinator.com/item?id=35358873) - [Launch HN: Vocode (YC W23) – Library for voice conversation with LLMs](https://news.ycombinator.com/item?id=35358873)
-* [2023-03-29, 15:19:24](https://news.ycombinator.com/item?id=35358535) - [Show HN: Mirrorful – A developer-first way to implement designs faster](https://github.com/Mirrorful/mirrorful)
-* [2023-03-29, 12:13:40](https://news.ycombinator.com/item?id=35356052) - [Chalk-manship: how to draw dotted lines on chalkboards, MIT style](https://mitadmissions.org/blogs/entry/how-to-draw-dotted-lines-on-chalkboards-mit-style/)
-* [2023-03-29, 11:18:39](https://news.ycombinator.com/item?id=35355521) - [The “Terrascope”: On the Possibility of Using the Earth as an Atmospheric Lens](https://arxiv.org/abs/1908.00490)
+* [2023-03-29, 12:13:40](https://news.ycombinator.com/item?id=35356052) - [How to draw dotted lines on chalkboards, MIT style (2021)](https://mitadmissions.org/blogs/entry/how-to-draw-dotted-lines-on-chalkboards-mit-style/)
+* [2023-03-29, 11:18:39](https://news.ycombinator.com/item?id=35355521) - [“Terrascope”: The possibility of using the Earth as an atmospheric lens (2019)](https://arxiv.org/abs/1908.00490)
 * [2023-03-29, 11:13:04](https://news.ycombinator.com/item?id=35355469) - [Terence Tao makes progress on the Collatz conjecture (2019)](https://www.quantamagazine.org/mathematician-proves-huge-result-on-dangerous-problem-20191211)
 * [2023-03-29, 11:00:15](https://news.ycombinator.com/item?id=35355372) - [Carl Braun on communicating like a grown-up (2016)](https://fs.blog/carl-braun-communicating/)
 * [2023-03-29, 08:29:53](https://news.ycombinator.com/item?id=35354226) - [Messaging layer security: Secure and usable end-to-end encryption](https://www.ietf.org/blog/mls-secure-and-usable-end-to-end-encryption/)
