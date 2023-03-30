@@ -10,6 +10,7 @@
 * [2023-03-29, 23:27:32](https://news.ycombinator.com/item?id=35365399) - [Universal Speech Model](https://sites.research.google/usm/)
 * [2023-03-29, 21:55:18](https://news.ycombinator.com/item?id=35364338) - [Rural children now grow slightly taller than city children in wealthy countries](https://www.scientificamerican.com/article/rural-children-now-grow-slightly-taller-than-city-children-in-wealthy-countries/)
 * [2023-03-29, 21:47:11](https://news.ycombinator.com/item?id=35364224) - [Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807)
+* [2023-03-29, 21:42:30](https://news.ycombinator.com/item?id=35364166) - [Fuel from discarded plastics comes with a high cancer risk](https://www.theguardian.com/environment/2023/feb/23/climate-friendly-us-program-plastics-fuel-cancer)
 * [2023-03-29, 21:29:37](https://news.ycombinator.com/item?id=35363993) - [Type system of Fortnite&#x27;s Verse language](https://brianmckenna.org/blog/verse_types)
 * [2023-03-29, 21:27:49](https://news.ycombinator.com/item?id=35363967) - [Video and Transcript: Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
 * [2023-03-29, 21:00:26](https://news.ycombinator.com/item?id=35363547) - [OneSignal (YC S11) is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
