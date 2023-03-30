@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-30, 10:03:47](https://news.ycombinator.com/item?id=35370357) - [The RWKV language model: An RNN with the advantages of a transformer](https://johanwind.github.io/2023/03/23/rwkv_overview.html)
 * [2023-03-30, 09:55:25](https://news.ycombinator.com/item?id=35370284) - [Show HN: Yesterday I open sourced StratusGFX, a realtime 3D rendering engine](https://github.com/KTStephano/StratusGFX)
 * [2023-03-30, 09:42:24](https://news.ycombinator.com/item?id=35370189) - [EA is laying off 6 percent of its workers](https://www.ea.com/news/update-to-our-business-march-2023)
-* [2023-03-30, 08:12:40](https://news.ycombinator.com/item?id=35369567) - [Legacy auto faces unsellable car disaster in China as pollution crunch looms](https://thedriven.io/2023/03/30/legacy-auto-faces-disaster-in-china-with-unsellable-cars-as-pollution-crunch-looms/)
+* [2023-03-30, 09:35:36](https://news.ycombinator.com/item?id=35370152) - [The Twitter API is now effectively unmaintained](https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained)
 * [2023-03-30, 08:04:19](https://news.ycombinator.com/item?id=35369529) - [Rever (YC S22) Is Hiring in Barcelona](https://news.ycombinator.com/item?id=35369529)
 * [2023-03-30, 07:00:35](https://news.ycombinator.com/item?id=35369084) - [APL: An Array Oriented Programming Language (2018)](https://medium.com/@kaleberg7/apl-an-array-oriented-programming-language-b03fb39401c1)
 * [2023-03-30, 06:59:50](https://news.ycombinator.com/item?id=35369075) - [The &#x27;Insanely Broad&#x27; Restrict Act Could Ban Much More Than Just TikTok](https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns)
@@ -21,7 +22,6 @@
 * [2023-03-29, 19:27:30](https://news.ycombinator.com/item?id=35362063) - [I built an iMessage bot using Beeper](https://www.getclearspace.com/beeper)
 * [2023-03-29, 19:26:17](https://news.ycombinator.com/item?id=35362048) - [Cerebras-GPT vs. LLaMA AI Model Performance Comparison](https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/)
 * [2023-03-29, 19:22:37](https://news.ycombinator.com/item?id=35361991) - [New York City is building a wall of oysters to fend off floods (2021)](https://www.bloomberg.com/news/features/2021-11-19/to-fight-floods-new-york-city-rebuilds-a-wall-of-oysters)
-* [2023-03-29, 15:43:49](https://news.ycombinator.com/item?id=35358879) - [Our Shift to Usage-Based Pricing](https://www.appsmith.com/blog/usage-based-pricing)
 * [2023-03-29, 15:43:36](https://news.ycombinator.com/item?id=35358873) - [Launch HN: Vocode (YC W23) – Library for voice conversation with LLMs](https://news.ycombinator.com/item?id=35358873)
 * [2023-03-29, 15:19:24](https://news.ycombinator.com/item?id=35358535) - [Show HN: Mirrorful – A developer-first way to implement designs faster](https://github.com/Mirrorful/mirrorful)
 * [2023-03-29, 12:13:40](https://news.ycombinator.com/item?id=35356052) - [How to draw dotted lines on chalkboards, MIT style (2021)](https://mitadmissions.org/blogs/entry/how-to-draw-dotted-lines-on-chalkboards-mit-style/)
