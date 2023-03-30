@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-30, 03:25:52](https://news.ycombinator.com/item?id=35367520) - [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
 * [2023-03-30, 02:17:23](https://news.ycombinator.com/item?id=35366955) - [TikTok Ban Bill Is Patriot Act 2.0 Trojan Horse [video]](https://www.youtube.com/watch?v=FWQGA_n5Z4M)
 * [2023-03-29, 23:50:54](https://news.ycombinator.com/item?id=35365672) - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
 * [2023-03-29, 23:37:56](https://news.ycombinator.com/item?id=35365510) - [Samsung&#x27;s AI photo feature adds creepy teeth to baby photos](https://boingboing.net/2023/03/28/samsungs-ai-photo-feature-adds-creepy-teeth-to-baby-photos.html)
@@ -17,7 +18,6 @@
 * [2023-03-29, 18:25:15](https://news.ycombinator.com/item?id=35361192) - [Gambas Almost Means BASIC](https://gambas.sourceforge.net/en/main.html)
 * [2023-03-29, 17:15:57](https://news.ycombinator.com/item?id=35360219) - [Original Prusa MK4](https://www.prusa3d.com/product/original-prusa-mk4-2/)
 * [2023-03-29, 16:23:21](https://news.ycombinator.com/item?id=35359473) - [Show HN: go-nbd – A Pure Go NBD Server and Client](https://github.com/pojntfx/go-nbd)
-* [2023-03-29, 15:43:49](https://news.ycombinator.com/item?id=35358879) - [Our Shift to Usage-Based Pricing](https://www.appsmith.com/blog/usage-based-pricing)
 * [2023-03-29, 15:43:36](https://news.ycombinator.com/item?id=35358873) - [Launch HN: Vocode (YC W23) – Library for voice conversation with LLMs](https://news.ycombinator.com/item?id=35358873)
 * [2023-03-29, 15:19:24](https://news.ycombinator.com/item?id=35358535) - [Show HN: Mirrorful – A developer-first way to implement designs faster](https://github.com/Mirrorful/mirrorful)
 * [2023-03-29, 12:13:40](https://news.ycombinator.com/item?id=35356052) - [Chalk-manship: how to draw dotted lines on chalkboards, MIT style](https://mitadmissions.org/blogs/entry/how-to-draw-dotted-lines-on-chalkboards-mit-style/)
