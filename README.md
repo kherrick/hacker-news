@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-30, 19:34:50](https://news.ycombinator.com/item?id=35377794) - [The Anatomy of Your Salary](https://philipjoubert.com/why-are-you-paid/)
+* [2023-03-30, 19:21:34](https://news.ycombinator.com/item?id=35377665) - [Get Instant Feedback and Help for LeetCode&#x2F;HackerRank with ChatGPT](https://github.com/Liopun/leet-chatgpt-extension)
+* [2023-03-30, 19:13:42](https://news.ycombinator.com/item?id=35377584) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
 * [2023-03-30, 17:56:46](https://news.ycombinator.com/item?id=35376645) - [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
 * [2023-03-30, 17:53:07](https://news.ycombinator.com/item?id=35376598) - [Folia – Multithreading Coming to your Minecraft server](https://paper-chan.moe/folia/)
 * [2023-03-30, 17:44:36](https://news.ycombinator.com/item?id=35376488) - [San Jose police union executive director charged with smuggling fentanyl into US](https://www.washingtonexaminer.com/news/crime/san-jose-police-union-director-smuggle-fentanyl-charge)
@@ -22,14 +25,11 @@
 * [2023-03-30, 11:48:31](https://news.ycombinator.com/item?id=35371182) - [Mach 3.5 Over Libya in an SR-71 Blackbird](https://www.thesr71blackbird.com/Aircraft/Stories/mach-35-over-libya-in-an-sr-71-blackbird)
 * [2023-03-30, 11:22:14](https://news.ycombinator.com/item?id=35370972) - [How to Read MySQL EXPLAINs](https://planetscale.com/blog/how-read-mysql-explains)
 * [2023-03-30, 11:16:02](https://news.ycombinator.com/item?id=35370915) - [Google trained Bard on ChatGPT chats from ShareGPT](https://twitter.com/steventey/status/1641267979399704576)
-* [2023-03-30, 10:51:11](https://news.ycombinator.com/item?id=35370717) - [Extinction of Steam Locomotives Derails Assumptions about Biological Evolution](http://today.ku.edu/2023/03/21/study-extinction-steam-locomotives-might-spike-assumptions-about-biological-evolution)
 * [2023-03-30, 10:03:47](https://news.ycombinator.com/item?id=35370357) - [The RWKV language model: An RNN with the advantages of a transformer](https://johanwind.github.io/2023/03/23/rwkv_overview.html)
 * [2023-03-30, 09:55:25](https://news.ycombinator.com/item?id=35370284) - [Show HN: Yesterday I open sourced StratusGFX, a realtime 3D rendering engine](https://github.com/KTStephano/StratusGFX)
 * [2023-03-30, 09:35:36](https://news.ycombinator.com/item?id=35370152) - [The Twitter API is now effectively unmaintained](https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained)
 * [2023-03-30, 07:41:51](https://news.ycombinator.com/item?id=35369378) - [Computational Mail for Computer-Supported Cooperative Work (1992)](https://www.guppylake.com/~nsb/CSCW-ATOMICMAIL.txt)
-* [2023-03-29, 22:50:02](https://news.ycombinator.com/item?id=35364985) - [Early Remote Work Impacts on Family Formation](https://eig.org/remote-work-family-formation/)
-* [2023-03-29, 21:58:41](https://news.ycombinator.com/item?id=35364383) - [AAD misconfiguration led to Bing.com results manipulation, account takeover](https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration)
-* [2023-03-29, 08:02:04](https://news.ycombinator.com/item?id=35354032) - [Open source espresso machine is one delicious rabbit hole inside another](https://arstechnica.com/gadgets/2023/03/great-espresso-isnt-hard-enough-so-heres-a-diy-open-source-machine-for-it/)
+* [2023-03-30, 07:26:39](https://news.ycombinator.com/item?id=35369279) - [Retool Database](https://retool.com/blog/rdb/)
 
 ## [Archives](archives/index.md)
 

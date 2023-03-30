@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 19:34:50](https://news.ycombinator.com/item?id=35377794) - [The Anatomy of Your Salary](https://philipjoubert.com/why-are-you-paid/)
+* [2023-03-30, 19:21:34](https://news.ycombinator.com/item?id=35377665) - [Get Instant Feedback and Help for LeetCode&#x2F;HackerRank with ChatGPT](https://github.com/Liopun/leet-chatgpt-extension)
+* [2023-03-30, 19:13:42](https://news.ycombinator.com/item?id=35377584) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
 * [2023-03-30, 17:56:46](https://news.ycombinator.com/item?id=35376645) - [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
 * [2023-03-30, 17:53:07](https://news.ycombinator.com/item?id=35376598) - [Folia – Multithreading Coming to your Minecraft server](https://paper-chan.moe/folia/)
 * [2023-03-30, 17:44:36](https://news.ycombinator.com/item?id=35376488) - [San Jose police union executive director charged with smuggling fentanyl into US](https://www.washingtonexaminer.com/news/crime/san-jose-police-union-director-smuggle-fentanyl-charge)
@@ -51,6 +54,7 @@
 * [2023-03-30, 08:12:40](https://news.ycombinator.com/item?id=35369567) - [Legacy auto faces unsellable car disaster in China as pollution crunch looms](https://thedriven.io/2023/03/30/legacy-auto-faces-disaster-in-china-with-unsellable-cars-as-pollution-crunch-looms/)
 * [2023-03-30, 08:04:19](https://news.ycombinator.com/item?id=35369529) - [Rever (YC S22) Is Hiring in Barcelona](https://news.ycombinator.com/item?id=35369529)
 * [2023-03-30, 07:41:51](https://news.ycombinator.com/item?id=35369378) - [Computational Mail for Computer-Supported Cooperative Work (1992)](https://www.guppylake.com/~nsb/CSCW-ATOMICMAIL.txt)
+* [2023-03-30, 07:26:39](https://news.ycombinator.com/item?id=35369279) - [Retool Database](https://retool.com/blog/rdb/)
 * [2023-03-30, 07:00:35](https://news.ycombinator.com/item?id=35369084) - [APL: An Array Oriented Programming Language (2018)](https://medium.com/@kaleberg7/apl-an-array-oriented-programming-language-b03fb39401c1)
 * [2023-03-30, 06:59:50](https://news.ycombinator.com/item?id=35369075) - [The &#x27;Insanely Broad&#x27; Restrict Act Could Ban Much More Than Just TikTok](https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns)
 * [2023-03-30, 06:24:48](https://news.ycombinator.com/item?id=35368813) - [A Response to Jacob Kaplan-Moss’s “Incompetent but Nice”](https://blog.glyph.im/2023/03/incompetent-but-nice-response.html)
