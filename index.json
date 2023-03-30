@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=35378683"
     ],
     [
-      "GPT-4 Says an Open-Source Chatbot Vicuna Reaches 90% ChatGPT Quality",
+      "Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality",
       "https://vicuna.lmsys.org/"
     ]
   ],
@@ -41,42 +41,12 @@
   ],
   [
     [
-      "2023-03-30, 19:38:30",
-      "https://news.ycombinator.com/item?id=35377826"
-    ],
-    [
-      "Developer Tools 2.0",
-      "https://www.sequoiacap.com/article/ai-powered-developer-tools/"
-    ]
-  ],
-  [
-    [
-      "2023-03-30, 19:21:34",
-      "https://news.ycombinator.com/item?id=35377665"
-    ],
-    [
-      "Get Instant Feedback and Help for LeetCode&#x2F;HackerRank with ChatGPT",
-      "https://github.com/Liopun/leet-chatgpt-extension"
-    ]
-  ],
-  [
-    [
       "2023-03-30, 17:56:46",
       "https://news.ycombinator.com/item?id=35376645"
     ],
     [
       "Tiny Tapeout: From idea to chip design in minutes!",
       "https://tinytapeout.com/"
-    ]
-  ],
-  [
-    [
-      "2023-03-30, 17:53:07",
-      "https://news.ycombinator.com/item?id=35376598"
-    ],
-    [
-      "Folia – Multithreading Coming to your Minecraft server",
-      "https://paper-chan.moe/folia/"
     ]
   ],
   [
@@ -131,6 +101,16 @@
   ],
   [
     [
+      "2023-03-30, 16:44:39",
+      "https://news.ycombinator.com/item?id=35375540"
+    ],
+    [
+      "Show HN: Open-source ETL framework to sync data from SaaS tools to vector stores",
+      "https://github.com/ai-sidekick/sidekick"
+    ]
+  ],
+  [
+    [
       "2023-03-30, 15:50:42",
       "https://news.ycombinator.com/item?id=35374639"
     ],
@@ -155,7 +135,7 @@
       "https://news.ycombinator.com/item?id=35374332"
     ],
     [
-      "A DNA ‘Parasite’ May Have Fragmented Our Genes",
+      "A DNA ‘parasite’ may have fragmented our genes",
       "https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/"
     ]
   ],
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2023-03-30, 12:25:12",
+      "https://news.ycombinator.com/item?id=35371541"
+    ],
+    [
+      "The fascinating world of HTTP Strict-Transport-Security",
+      "https://ergomake.dev/blog/hsts-introduction/"
+    ]
+  ],
+  [
+    [
       "2023-03-30, 12:18:56",
       "https://news.ycombinator.com/item?id=35371469"
     ],
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=35370915"
     ],
     [
-      "Google trained Bard on ChatGPT chats from ShareGPT",
+      "Google denies training Bard on ChatGPT chats from ShareGPT",
       "https://twitter.com/steventey/status/1641267979399704576"
     ]
   ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=35370284"
     ],
     [
-      "Show HN: Yesterday I open sourced StratusGFX, a realtime 3D rendering engine",
+      "Show HN: StratusGFX, my open-source real-time 3D rendering engine",
       "https://github.com/KTStephano/StratusGFX"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "The Twitter API is now effectively unmaintained",
       "https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained"
+    ]
+  ],
+  [
+    [
+      "2023-03-30, 07:41:51",
+      "https://news.ycombinator.com/item?id=35369378"
+    ],
+    [
+      "Computational mail for computer-supported cooperative work (1992)",
+      "https://www.guppylake.com/~nsb/CSCW-ATOMICMAIL.txt"
     ]
   ],
   [
