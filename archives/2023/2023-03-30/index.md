@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 21:38:08](https://news.ycombinator.com/item?id=35379136) - [My kids and I just played D&amp;D with ChatGPT4 as the DM](https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6)
 * [2023-03-30, 21:25:42](https://news.ycombinator.com/item?id=35379008) - [Why not tell people to “simply” use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
+* [2023-03-30, 21:24:49](https://news.ycombinator.com/item?id=35378997) - [E3 Has Been Canceled](https://www.ign.com/articles/e3-has-been-canceled)
 * [2023-03-30, 20:59:29](https://news.ycombinator.com/item?id=35378758) - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
 * [2023-03-30, 20:52:49](https://news.ycombinator.com/item?id=35378683) - [GPT-4 Says an Open-Source Chatbot Vicuna Reaches 90% ChatGPT Quality](https://vicuna.lmsys.org/)
 * [2023-03-30, 20:37:56](https://news.ycombinator.com/item?id=35378521) - [Faiss: A library for efficient similarity search](https://github.com/facebookresearch/faiss)
