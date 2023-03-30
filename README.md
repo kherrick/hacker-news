@@ -3,6 +3,7 @@
 * [2023-03-30, 15:50:42](https://news.ycombinator.com/item?id=35374639) - [Launch HN: Noya (YC W23) – a product design tool for non-designers](https://news.ycombinator.com/item?id=35374639)
 * [2023-03-30, 15:32:48](https://news.ycombinator.com/item?id=35374332) - [A DNA ‘Parasite’ May Have Fragmented Our Genes](https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/)
 * [2023-03-30, 15:31:48](https://news.ycombinator.com/item?id=35374302) - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
+* [2023-03-30, 15:23:40](https://news.ycombinator.com/item?id=35374117) - [Exploring Neural Graphics Primitives](https://thenumb.at/Neural-Graphics/)
 * [2023-03-30, 14:17:06](https://news.ycombinator.com/item?id=35373052) - [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
 * [2023-03-30, 14:16:10](https://news.ycombinator.com/item?id=35373042) - [A misleading open letter about sci-fi AI dangers ignores the real risks](https://aisnakeoil.substack.com/p/a-misleading-open-letter-about-sci)
 * [2023-03-30, 14:14:36](https://news.ycombinator.com/item?id=35373019) - [Is Y Combinator worth the money? Brutally honest review of W22 batch experience](https://acecreamu.substack.com/p/is-y-combinator-worth-the-money)
@@ -29,7 +30,6 @@
 * [2023-03-29, 12:13:40](https://news.ycombinator.com/item?id=35356052) - [How to draw dotted lines on chalkboards, MIT style (2021)](https://mitadmissions.org/blogs/entry/how-to-draw-dotted-lines-on-chalkboards-mit-style/)
 * [2023-03-29, 10:30:26](https://news.ycombinator.com/item?id=35355136) - [Zion Climbing in the 1930s](https://www.bigwallgear.com/p/zion-climbing-in-the-1930s)
 * [2023-03-29, 08:02:04](https://news.ycombinator.com/item?id=35354032) - [Open source espresso machine is one delicious rabbit hole inside another](https://arstechnica.com/gadgets/2023/03/great-espresso-isnt-hard-enough-so-heres-a-diy-open-source-machine-for-it/)
-* [2023-03-28, 21:43:33](https://news.ycombinator.com/item?id=35348353) - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 
 ## [Archives](archives/index.md)
 
