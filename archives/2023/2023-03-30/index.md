@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 11:16:02](https://news.ycombinator.com/item?id=35370915) - [Google trained Bard on ChatGPT chats from ShareGPT](https://twitter.com/steventey/status/1641267979399704576)
 * [2023-03-30, 10:52:52](https://news.ycombinator.com/item?id=35370728) - [50% of new NPM packages are spam](https://blog.sandworm.dev/one-in-two-new-npm-packages-is-seo-spam-right-now)
 * [2023-03-30, 10:03:47](https://news.ycombinator.com/item?id=35370357) - [The RWKV language model: An RNN with the advantages of a transformer](https://johanwind.github.io/2023/03/23/rwkv_overview.html)
 * [2023-03-30, 09:55:25](https://news.ycombinator.com/item?id=35370284) - [Show HN: Yesterday I open sourced StratusGFX, a realtime 3D rendering engine](https://github.com/KTStephano/StratusGFX)
