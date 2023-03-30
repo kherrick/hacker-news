@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-30, 09:55:25](https://news.ycombinator.com/item?id=35370284) - [Show HN: Yesterday I open sourced StratusGFX, a realtime 3D rendering engine](https://github.com/KTStephano/StratusGFX)
 * [2023-03-30, 09:42:24](https://news.ycombinator.com/item?id=35370189) - [EA is laying off 6 percent of its workers](https://www.ea.com/news/update-to-our-business-march-2023)
 * [2023-03-30, 08:12:40](https://news.ycombinator.com/item?id=35369567) - [Legacy auto faces unsellable car disaster in China as pollution crunch looms](https://thedriven.io/2023/03/30/legacy-auto-faces-disaster-in-china-with-unsellable-cars-as-pollution-crunch-looms/)
 * [2023-03-30, 08:04:19](https://news.ycombinator.com/item?id=35369529) - [Rever (YC S22) Is Hiring in Barcelona](https://news.ycombinator.com/item?id=35369529)
@@ -19,17 +20,16 @@
 * [2023-03-29, 20:29:53](https://news.ycombinator.com/item?id=35363044) - [Wat [video] (2012)](https://www.destroyallsoftware.com/talks/wat)
 * [2023-03-29, 19:27:30](https://news.ycombinator.com/item?id=35362063) - [I built an iMessage bot using Beeper](https://www.getclearspace.com/beeper)
 * [2023-03-29, 19:26:17](https://news.ycombinator.com/item?id=35362048) - [Cerebras-GPT vs. LLaMA AI Model Performance Comparison](https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/)
+* [2023-03-29, 19:22:37](https://news.ycombinator.com/item?id=35361991) - [New York City is building a wall of oysters to fend off floods (2021)](https://www.bloomberg.com/news/features/2021-11-19/to-fight-floods-new-york-city-rebuilds-a-wall-of-oysters)
 * [2023-03-29, 15:43:49](https://news.ycombinator.com/item?id=35358879) - [Our Shift to Usage-Based Pricing](https://www.appsmith.com/blog/usage-based-pricing)
 * [2023-03-29, 15:43:36](https://news.ycombinator.com/item?id=35358873) - [Launch HN: Vocode (YC W23) – Library for voice conversation with LLMs](https://news.ycombinator.com/item?id=35358873)
 * [2023-03-29, 15:19:24](https://news.ycombinator.com/item?id=35358535) - [Show HN: Mirrorful – A developer-first way to implement designs faster](https://github.com/Mirrorful/mirrorful)
 * [2023-03-29, 12:13:40](https://news.ycombinator.com/item?id=35356052) - [How to draw dotted lines on chalkboards, MIT style (2021)](https://mitadmissions.org/blogs/entry/how-to-draw-dotted-lines-on-chalkboards-mit-style/)
 * [2023-03-29, 11:18:39](https://news.ycombinator.com/item?id=35355521) - [“Terrascope”: The possibility of using the Earth as an atmospheric lens (2019)](https://arxiv.org/abs/1908.00490)
-* [2023-03-29, 11:00:15](https://news.ycombinator.com/item?id=35355372) - [Carl Braun on communicating like a grown-up (2016)](https://fs.blog/carl-braun-communicating/)
 * [2023-03-29, 08:29:53](https://news.ycombinator.com/item?id=35354226) - [Messaging layer security: Secure and usable end-to-end encryption](https://www.ietf.org/blog/mls-secure-and-usable-end-to-end-encryption/)
 * [2023-03-29, 08:02:04](https://news.ycombinator.com/item?id=35354032) - [Open source espresso machine is one delicious rabbit hole inside another](https://arstechnica.com/gadgets/2023/03/great-espresso-isnt-hard-enough-so-heres-a-diy-open-source-machine-for-it/)
 * [2023-03-29, 01:57:41](https://news.ycombinator.com/item?id=35351122) - [Cantu a tenore](https://en.wikipedia.org/wiki/Cantu_a_tenore)
 * [2023-03-28, 21:43:33](https://news.ycombinator.com/item?id=35348353) - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
-* [2023-03-28, 16:19:48](https://news.ycombinator.com/item?id=35343495) - [Bicycle](https://ciechanow.ski/bicycle/)
 
 ## [Archives](archives/index.md)
 

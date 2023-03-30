@@ -23,6 +23,7 @@
 * [2023-03-29, 19:37:45](https://news.ycombinator.com/item?id=35362203) - [Declassified Records Show Bush&#x27;s Oil Business Was Probably a CIA Front (2018)](https://www.deepstateblog.org/2018/12/04/declassified-records-show-bushs-oil-business-was-probably-a-cia-front/)
 * [2023-03-29, 19:27:30](https://news.ycombinator.com/item?id=35362063) - [I built an iMessage bot using Beeper](https://www.getclearspace.com/beeper)
 * [2023-03-29, 19:26:17](https://news.ycombinator.com/item?id=35362048) - [Cerebras-GPT vs. LLaMA AI Model Performance Comparison](https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/)
+* [2023-03-29, 19:22:37](https://news.ycombinator.com/item?id=35361991) - [New York City is building a wall of oysters to fend off floods (2021)](https://www.bloomberg.com/news/features/2021-11-19/to-fight-floods-new-york-city-rebuilds-a-wall-of-oysters)
 * [2023-03-29, 19:21:51](https://news.ycombinator.com/item?id=35361979) - [In the Age of AI, Don&#x27;t Let Your Skills Atrophy](https://www.cyberdemon.org/2023/03/29/age-of-ai-skill-atrophy.html)
 * [2023-03-29, 19:16:58](https://news.ycombinator.com/item?id=35361907) - [Amazon’s cashierless stores: artificial intelligence or major deception?](https://emaggiori.com/amazon-fresh/)
 * [2023-03-29, 19:04:30](https://news.ycombinator.com/item?id=35361721) - [Dumb phones are on the rise in the U.S. as Gen Z looks to limit screen time](https://www.cnbc.com/2023/03/29/dumb-phones-are-on-the-rise-in-the-us-as-gen-z-limits-screen-time.html)
