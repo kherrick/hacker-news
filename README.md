@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-30, 04:30:19](https://news.ycombinator.com/item?id=35367995) - [Judge finds Google destroyed evidence and repeatedly gave false info to court](https://arstechnica.com/tech-policy/2023/03/judge-finds-google-destroyed-evidence-and-repeatedly-gave-false-info-to-court/)
 * [2023-03-30, 03:25:52](https://news.ycombinator.com/item?id=35367520) - [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
 * [2023-03-30, 02:17:23](https://news.ycombinator.com/item?id=35366955) - [TikTok Ban Bill Is Patriot Act 2.0 Trojan Horse [video]](https://www.youtube.com/watch?v=FWQGA_n5Z4M)
 * [2023-03-29, 23:50:54](https://news.ycombinator.com/item?id=35365672) - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
 * [2023-03-29, 23:37:56](https://news.ycombinator.com/item?id=35365510) - [Samsung&#x27;s AI photo feature adds creepy teeth to baby photos](https://boingboing.net/2023/03/28/samsungs-ai-photo-feature-adds-creepy-teeth-to-baby-photos.html)
 * [2023-03-29, 23:31:09](https://news.ycombinator.com/item?id=35365440) - [Teen-age fentanyl deaths in a Texas county](https://www.newyorker.com/news/letter-from-the-southwest/the-horrifying-epidemic-of-teen-age-fentanyl-deaths-in-a-texas-county)
 * [2023-03-29, 23:27:32](https://news.ycombinator.com/item?id=35365399) - [Universal Speech Model](https://sites.research.google/usm/)
+* [2023-03-29, 21:58:41](https://news.ycombinator.com/item?id=35364383) - [AAD misconfiguration led to Bing.com results manipulation, account takeover](https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration)
 * [2023-03-29, 21:47:11](https://news.ycombinator.com/item?id=35364224) - [Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807)
 * [2023-03-29, 21:42:30](https://news.ycombinator.com/item?id=35364166) - [Fuel from discarded plastics comes with a high cancer risk](https://www.theguardian.com/environment/2023/feb/23/climate-friendly-us-program-plastics-fuel-cancer)
 * [2023-03-29, 21:29:37](https://news.ycombinator.com/item?id=35363993) - [Type system of Fortnite&#x27;s Verse language](https://brianmckenna.org/blog/verse_types)
