@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-30, 19:34:50",
+      "https://news.ycombinator.com/item?id=35377794"
+    ],
+    [
+      "The Anatomy of Your Salary",
+      "https://philipjoubert.com/why-are-you-paid/"
+    ]
+  ],
+  [
+    [
+      "2023-03-30, 19:21:34",
+      "https://news.ycombinator.com/item?id=35377665"
+    ],
+    [
+      "Get Instant Feedback and Help for LeetCode&#x2F;HackerRank with ChatGPT",
+      "https://github.com/Liopun/leet-chatgpt-extension"
+    ]
+  ],
+  [
+    [
+      "2023-03-30, 19:13:42",
+      "https://news.ycombinator.com/item?id=35377584"
+    ],
+    [
+      "Switching to Fedora from Ubuntu",
+      "https://evertpot.com/switching-to-fedora/"
+    ]
+  ],
+  [
+    [
       "2023-03-30, 17:56:46",
       "https://news.ycombinator.com/item?id=35376645"
     ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2023-03-30, 10:51:11",
-      "https://news.ycombinator.com/item?id=35370717"
-    ],
-    [
-      "Extinction of Steam Locomotives Derails Assumptions about Biological Evolution",
-      "http://today.ku.edu/2023/03/21/study-extinction-steam-locomotives-might-spike-assumptions-about-biological-evolution"
-    ]
-  ],
-  [
-    [
       "2023-03-30, 10:03:47",
       "https://news.ycombinator.com/item?id=35370357"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-03-29, 22:50:02",
-      "https://news.ycombinator.com/item?id=35364985"
+      "2023-03-30, 07:26:39",
+      "https://news.ycombinator.com/item?id=35369279"
     ],
     [
-      "Early Remote Work Impacts on Family Formation",
-      "https://eig.org/remote-work-family-formation/"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 21:58:41",
-      "https://news.ycombinator.com/item?id=35364383"
-    ],
-    [
-      "AAD misconfiguration led to Bing.com results manipulation, account takeover",
-      "https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 08:02:04",
-      "https://news.ycombinator.com/item?id=35354032"
-    ],
-    [
-      "Open source espresso machine is one delicious rabbit hole inside another",
-      "https://arstechnica.com/gadgets/2023/03/great-espresso-isnt-hard-enough-so-heres-a-diy-open-source-machine-for-it/"
+      "Retool Database",
+      "https://retool.com/blog/rdb/"
     ]
   ]
 ]
