@@ -2,6 +2,7 @@
 
 * [2023-03-30, 08:12:40](https://news.ycombinator.com/item?id=35369567) - [Legacy auto faces unsellable car disaster in China as pollution crunch looms](https://thedriven.io/2023/03/30/legacy-auto-faces-disaster-in-china-with-unsellable-cars-as-pollution-crunch-looms/)
 * [2023-03-30, 08:04:19](https://news.ycombinator.com/item?id=35369529) - [Rever (YC S22) Is Hiring in Barcelona](https://news.ycombinator.com/item?id=35369529)
+* [2023-03-30, 07:00:35](https://news.ycombinator.com/item?id=35369084) - [APL: An Array Oriented Programming Language (2018)](https://medium.com/@kaleberg7/apl-an-array-oriented-programming-language-b03fb39401c1)
 * [2023-03-30, 06:59:50](https://news.ycombinator.com/item?id=35369075) - [The &#x27;Insanely Broad&#x27; Restrict Act Could Ban Much More Than Just TikTok](https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns)
 * [2023-03-30, 06:24:48](https://news.ycombinator.com/item?id=35368813) - [A Response to Jacob Kaplan-Moss’s “Incompetent but Nice”](https://blog.glyph.im/2023/03/incompetent-but-nice-response.html)
 * [2023-03-30, 04:39:27](https://news.ycombinator.com/item?id=35368053) - [Finetuning LLMs on a Single GPU Using Gradient Accumulation](https://lightning.ai/pages/blog/gradient-accumulation/)
@@ -21,7 +22,6 @@
 * [2023-03-29, 15:43:49](https://news.ycombinator.com/item?id=35358879) - [Our Shift to Usage-Based Pricing](https://www.appsmith.com/blog/usage-based-pricing)
 * [2023-03-29, 15:43:36](https://news.ycombinator.com/item?id=35358873) - [Launch HN: Vocode (YC W23) – Library for voice conversation with LLMs](https://news.ycombinator.com/item?id=35358873)
 * [2023-03-29, 15:19:24](https://news.ycombinator.com/item?id=35358535) - [Show HN: Mirrorful – A developer-first way to implement designs faster](https://github.com/Mirrorful/mirrorful)
-* [2023-03-29, 12:24:36](https://news.ycombinator.com/item?id=35356189) - [The Wild World of Music](https://www.newyorker.com/magazine/2023/04/03/david-sulzer-profile-neuroscience-music)
 * [2023-03-29, 12:13:40](https://news.ycombinator.com/item?id=35356052) - [How to draw dotted lines on chalkboards, MIT style (2021)](https://mitadmissions.org/blogs/entry/how-to-draw-dotted-lines-on-chalkboards-mit-style/)
 * [2023-03-29, 11:18:39](https://news.ycombinator.com/item?id=35355521) - [“Terrascope”: The possibility of using the Earth as an atmospheric lens (2019)](https://arxiv.org/abs/1908.00490)
 * [2023-03-29, 11:00:15](https://news.ycombinator.com/item?id=35355372) - [Carl Braun on communicating like a grown-up (2016)](https://fs.blog/carl-braun-communicating/)
