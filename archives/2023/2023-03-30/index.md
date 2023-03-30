@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 17:56:46](https://news.ycombinator.com/item?id=35376645) - [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
 * [2023-03-30, 17:53:07](https://news.ycombinator.com/item?id=35376598) - [Folia – Multithreading Coming to your Minecraft server](https://paper-chan.moe/folia/)
 * [2023-03-30, 17:44:36](https://news.ycombinator.com/item?id=35376488) - [San Jose police union executive director charged with smuggling fentanyl into US](https://www.washingtonexaminer.com/news/crime/san-jose-police-union-director-smuggle-fentanyl-charge)
 * [2023-03-30, 17:27:30](https://news.ycombinator.com/item?id=35376221) - [“Churn” isn&#x27;t a metric, it&#x27;s people rejecting you–grow from it](https://churnkey.co/blog/churn-is-customer-rejection/)
