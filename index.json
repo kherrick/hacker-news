@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-30, 04:39:27",
+      "https://news.ycombinator.com/item?id=35368053"
+    ],
+    [
+      "Finetuning LLMs on a Single GPU Using Gradient Accumulation",
+      "https://lightning.ai/pages/blog/gradient-accumulation/"
+    ]
+  ],
+  [
+    [
       "2023-03-30, 03:25:52",
       "https://news.ycombinator.com/item?id=35367520"
     ],
@@ -27,16 +37,6 @@
     [
       "The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet",
       "https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 23:37:56",
-      "https://news.ycombinator.com/item?id=35365510"
-    ],
-    [
-      "Samsung&#x27;s AI photo feature adds creepy teeth to baby photos",
-      "https://boingboing.net/2023/03/28/samsungs-ai-photo-feature-adds-creepy-teeth-to-baby-photos.html"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Type system of Fortnite&#x27;s Verse language",
       "https://brianmckenna.org/blog/verse_types"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 21:27:49",
-      "https://news.ycombinator.com/item?id=35363967"
-    ],
-    [
-      "Fireside Chat with Clem Delangue, CEO of Hugging Face",
-      "https://blog.eladgil.com/p/video-and-transcript-fireside-chat"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Show HN: Mirrorful – A developer-first way to implement designs faster",
       "https://github.com/Mirrorful/mirrorful"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 12:24:36",
+      "https://news.ycombinator.com/item?id=35356189"
+    ],
+    [
+      "The Wild World of Music",
+      "https://www.newyorker.com/magazine/2023/04/03/david-sulzer-profile-neuroscience-music"
     ]
   ],
   [
