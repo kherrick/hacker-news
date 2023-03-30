@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 14:50:50](https://news.ycombinator.com/item?id=35373512) - [I spent $35,000 on a “typo domain” 8 months ago. Is it a good investment?](https://testimonial.to/resources/typo-domain)
+* [2023-03-30, 14:39:55](https://news.ycombinator.com/item?id=35373366) - [Is it time to open source SublimeText?](https://ruky.me/2023/03/30/is-it-time-to-open-source-sublimetext/)
 * [2023-03-30, 14:17:06](https://news.ycombinator.com/item?id=35373052) - [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
+* [2023-03-30, 14:16:10](https://news.ycombinator.com/item?id=35373042) - [A misleading open letter about sci-fi AI dangers ignores the real risks](https://aisnakeoil.substack.com/p/a-misleading-open-letter-about-sci)
 * [2023-03-30, 14:05:38](https://news.ycombinator.com/item?id=35372894) - [Had enough of Android? First &#x27;Focal&#x27; based Ubuntu Touch is out](https://www.theregister.com/2023/03/29/first_focal_based_ubuntu_touch/)
 * [2023-03-30, 13:10:40](https://news.ycombinator.com/item?id=35372111) - [Show HN: Data Ingestion &#x2F; Transformation SaaS](https://hexcloud.co/docs)
 * [2023-03-30, 13:09:12](https://news.ycombinator.com/item?id=35372091) - [OpenAI faces complaint to FTC that seeks suspension of ChatGPT releases](https://www.cnbc.com/2023/03/30/openai-faces-complaint-to-ftc-that-seeks-suspension-of-chatgpt-updates.html)
