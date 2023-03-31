@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 12:01:31](https://news.ycombinator.com/item?id=35385732) - [PyCharm 2023.1](https://www.jetbrains.com/pycharm/whatsnew/)
 * [2023-03-31, 12:00:48](https://news.ycombinator.com/item?id=35385721) - [Finley (YC W21) is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
+* [2023-03-31, 11:31:23](https://news.ycombinator.com/item?id=35385452) - [If AI scaling is to be shut down, let it be for a coherent reason](https://scottaaronson.blog/?p=7174)
 * [2023-03-31, 11:25:19](https://news.ycombinator.com/item?id=35385384) - [The Machine That Bankrupted Mark Twain](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
 * [2023-03-31, 11:20:37](https://news.ycombinator.com/item?id=35385339) - [Italian Data Protection Authority Clamps Down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
 * [2023-03-31, 10:56:55](https://news.ycombinator.com/item?id=35385131) - [Nim 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 * [2023-03-31, 10:49:15](https://news.ycombinator.com/item?id=35385075) - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
 * [2023-03-31, 10:45:02](https://news.ycombinator.com/item?id=35385032) - [Ask HN: AI also read books, Human also. What&#x27;s the difference?](https://news.ycombinator.com/item?id=35385032)
+* [2023-03-31, 10:43:22](https://news.ycombinator.com/item?id=35385019) - [Pairing with GPT-4 · Fly](https://fly.io/ruby-dispatch/pairing-with-gpt-4/)
 * [2023-03-31, 09:53:57](https://news.ycombinator.com/item?id=35384691) - [Helix: Release 23.03 Highlights](https://helix-editor.com/news/release-23-03-highlights/)
 * [2023-03-31, 09:47:03](https://news.ycombinator.com/item?id=35384652) - [British government mocked for advertising head of cyber role with £57K salary](https://therecord.media/head-of-cyber-role-salary-uk-hm-treasury)
 * [2023-03-31, 09:45:04](https://news.ycombinator.com/item?id=35384646) - [Ask HN: How to you monetize a tech blog?](https://news.ycombinator.com/item?id=35384646)

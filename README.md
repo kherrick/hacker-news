@@ -1,10 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 12:01:31](https://news.ycombinator.com/item?id=35385732) - [PyCharm 2023.1](https://www.jetbrains.com/pycharm/whatsnew/)
 * [2023-03-31, 12:00:48](https://news.ycombinator.com/item?id=35385721) - [Finley (YC W21) is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
+* [2023-03-31, 11:31:23](https://news.ycombinator.com/item?id=35385452) - [If AI scaling is to be shut down, let it be for a coherent reason](https://scottaaronson.blog/?p=7174)
 * [2023-03-31, 11:25:19](https://news.ycombinator.com/item?id=35385384) - [The Machine That Bankrupted Mark Twain](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
 * [2023-03-31, 11:20:37](https://news.ycombinator.com/item?id=35385339) - [Italian Data Protection Authority Clamps Down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
 * [2023-03-31, 10:56:55](https://news.ycombinator.com/item?id=35385131) - [Nim 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 * [2023-03-31, 10:49:15](https://news.ycombinator.com/item?id=35385075) - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
+* [2023-03-31, 10:43:22](https://news.ycombinator.com/item?id=35385019) - [Pairing with GPT-4 · Fly](https://fly.io/ruby-dispatch/pairing-with-gpt-4/)
 * [2023-03-31, 09:53:57](https://news.ycombinator.com/item?id=35384691) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
 * [2023-03-31, 09:38:17](https://news.ycombinator.com/item?id=35384610) - [Automatically enable or disable end-to-end encryption](https://bugzilla.mozilla.org/show_bug.cgi?id=135636)
 * [2023-03-31, 09:38:03](https://news.ycombinator.com/item?id=35384608) - [Solid-State Battery Has 2x the Energy–and No Anode](https://spectrum.ieee.org/solid-state-battery-no-anode)
@@ -13,10 +16,8 @@
 * [2023-03-31, 04:45:55](https://news.ycombinator.com/item?id=35382698) - [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
 * [2023-03-31, 03:03:03](https://news.ycombinator.com/item?id=35381968) - [Cosine Implementation in C](https://github.com/ifduyue/musl/blob/master/src/math/__cos.c)
 * [2023-03-31, 02:35:38](https://news.ycombinator.com/item?id=35381755) - [When SVG almost got network support for raw sockets](https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/)
-* [2023-03-31, 01:03:50](https://news.ycombinator.com/item?id=35380993) - [Stellantis CEO: There may not be enough raw materials to electrify globe](https://www.detroitnews.com/story/business/autos/2023/03/29/stellantis-carlos-tavares-freedom-mobility-forum-raw-materials-electric-vehicles/70059274007/)
 * [2023-03-30, 21:34:39](https://news.ycombinator.com/item?id=35379099) - [Grand jury votes to indict Donald Trump](https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news)
 * [2023-03-30, 21:16:01](https://news.ycombinator.com/item?id=35378925) - [Open-Sourcing My YC Application (Athens Research, W21)](https://hardpivot.substack.com/p/open-sourcing-my-y-combinator-winter)
-* [2023-03-30, 20:59:29](https://news.ycombinator.com/item?id=35378758) - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
 * [2023-03-30, 20:37:56](https://news.ycombinator.com/item?id=35378521) - [Faiss: A library for efficient similarity search](https://github.com/facebookresearch/faiss)
 * [2023-03-30, 16:56:38](https://news.ycombinator.com/item?id=35375727) - [Launch HN: Baseplate (YC W23) – Back end-as-a-service for LLM apps](https://news.ycombinator.com/item?id=35375727)
 * [2023-03-30, 15:50:42](https://news.ycombinator.com/item?id=35374639) - [Launch HN: Noya (YC W23) – a new kind of design tool](https://news.ycombinator.com/item?id=35374639)
@@ -29,7 +30,6 @@
 * [2023-03-30, 05:57:31](https://news.ycombinator.com/item?id=35368636) - [Better World Books](https://www.betterworldbooks.com/)
 * [2023-03-29, 20:55:40](https://news.ycombinator.com/item?id=35363467) - [An Unstandardized, Decentralized Carnival Fire: How Rare Books Are Cataloged](https://lithub.com/an-unstandardized-decentralized-carnival-fire-how-rare-books-are-cataloged/)
 * [2023-03-29, 12:04:47](https://news.ycombinator.com/item?id=35355926) - [Data Structures for Text Sequences (1998)](https://www.cs.unm.edu/~crowley/papers/sds.pdf)
-* [2023-03-28, 21:43:33](https://news.ycombinator.com/item?id=35348353) - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 
 ## [Archives](archives/index.md)
 
