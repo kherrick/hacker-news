@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 08:44:26](https://news.ycombinator.com/item?id=35384313) - [How the EU CHIPS Act Could Build “Innovation Capacity” in Europe](https://spectrum.ieee.org/eu-chips-act-imec)
 * [2023-03-31, 07:43:09](https://news.ycombinator.com/item?id=35383925) - [Meta wants EU users to apply for permission to opt out of data collection](https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/)
 * [2023-03-31, 07:07:56](https://news.ycombinator.com/item?id=35383672) - [Immutable Linux Distributions for Those Looking to Embrace the Future](https://itsfoss.com/immutable-linux-distros/)
 * [2023-03-31, 07:06:53](https://news.ycombinator.com/item?id=35383662) - [Decreasing the Number of Memory Accesses 1&#x2F;2](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-1-2/)
@@ -8,7 +9,6 @@
 * [2023-03-31, 04:45:55](https://news.ycombinator.com/item?id=35382698) - [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
 * [2023-03-31, 03:03:03](https://news.ycombinator.com/item?id=35381968) - [Cosine Implementation in C](https://github.com/ifduyue/musl/blob/master/src/math/__cos.c)
 * [2023-03-31, 02:35:38](https://news.ycombinator.com/item?id=35381755) - [When SVG almost got network support for raw sockets](https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/)
-* [2023-03-31, 02:28:07](https://news.ycombinator.com/item?id=35381701) - [Lobbyists begin chipping away at Biden’s $80B IRS overhaul](https://www.nytimes.com/2023/03/30/us/politics/biden-irs-overhaul-taxes.html)
 * [2023-03-30, 21:34:39](https://news.ycombinator.com/item?id=35379099) - [Grand jury votes to indict Donald Trump](https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news)
 * [2023-03-30, 21:16:01](https://news.ycombinator.com/item?id=35378925) - [Open-Sourcing My YC Application (Athens Research, W21)](https://hardpivot.substack.com/p/open-sourcing-my-y-combinator-winter)
 * [2023-03-30, 20:59:29](https://news.ycombinator.com/item?id=35378758) - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
