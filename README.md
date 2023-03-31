@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 07:43:09](https://news.ycombinator.com/item?id=35383925) - [Meta wants EU users to apply for permission to opt out of data collection](https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/)
 * [2023-03-31, 07:07:56](https://news.ycombinator.com/item?id=35383672) - [Immutable Linux Distributions for Those Looking to Embrace the Future](https://itsfoss.com/immutable-linux-distros/)
 * [2023-03-31, 07:06:53](https://news.ycombinator.com/item?id=35383662) - [Decreasing the Number of Memory Accesses 1&#x2F;2](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-1-2/)
 * [2023-03-31, 04:57:03](https://news.ycombinator.com/item?id=35382769) - [Show HN: Random Aerial Airport Views](https://randomairport.onrender.com/)
@@ -11,7 +12,6 @@
 * [2023-03-30, 21:34:39](https://news.ycombinator.com/item?id=35379099) - [Grand jury votes to indict Donald Trump](https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news)
 * [2023-03-30, 21:16:01](https://news.ycombinator.com/item?id=35378925) - [Open-Sourcing My YC Application (Athens Research, W21)](https://hardpivot.substack.com/p/open-sourcing-my-y-combinator-winter)
 * [2023-03-30, 20:59:29](https://news.ycombinator.com/item?id=35378758) - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
-* [2023-03-30, 20:52:49](https://news.ycombinator.com/item?id=35378683) - [Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality](https://vicuna.lmsys.org/)
 * [2023-03-30, 20:37:56](https://news.ycombinator.com/item?id=35378521) - [Faiss: A library for efficient similarity search](https://github.com/facebookresearch/faiss)
 * [2023-03-30, 19:48:52](https://news.ycombinator.com/item?id=35377926) - [RFdiffusion: Diffusion model generates protein backbones](https://github.com/RosettaCommons/RFdiffusion)
 * [2023-03-30, 17:56:46](https://news.ycombinator.com/item?id=35376645) - [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
