@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 11:20:37](https://news.ycombinator.com/item?id=35385339) - [Italian Data Protection Authority Clamps Down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
 * [2023-03-31, 10:45:02](https://news.ycombinator.com/item?id=35385032) - [Ask HN: AI also read books, Human also. What&#x27;s the difference?](https://news.ycombinator.com/item?id=35385032)
 * [2023-03-31, 09:53:57](https://news.ycombinator.com/item?id=35384691) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
 * [2023-03-31, 09:47:03](https://news.ycombinator.com/item?id=35384652) - [British government mocked for advertising head of cyber role with £57K salary](https://therecord.media/head-of-cyber-role-salary-uk-hm-treasury)
@@ -16,7 +17,6 @@
 * [2023-03-31, 01:03:50](https://news.ycombinator.com/item?id=35380993) - [Stellantis CEO: There may not be enough raw materials to electrify globe](https://www.detroitnews.com/story/business/autos/2023/03/29/stellantis-carlos-tavares-freedom-mobility-forum-raw-materials-electric-vehicles/70059274007/)
 * [2023-03-30, 21:34:39](https://news.ycombinator.com/item?id=35379099) - [Grand jury votes to indict Donald Trump](https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news)
 * [2023-03-30, 21:16:01](https://news.ycombinator.com/item?id=35378925) - [Open-Sourcing My YC Application (Athens Research, W21)](https://hardpivot.substack.com/p/open-sourcing-my-y-combinator-winter)
-* [2023-03-30, 20:59:29](https://news.ycombinator.com/item?id=35378758) - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
 * [2023-03-30, 20:37:56](https://news.ycombinator.com/item?id=35378521) - [Faiss: A library for efficient similarity search](https://github.com/facebookresearch/faiss)
 * [2023-03-30, 19:48:52](https://news.ycombinator.com/item?id=35377926) - [RFdiffusion: Diffusion model generates protein backbones](https://github.com/RosettaCommons/RFdiffusion)
 * [2023-03-30, 16:56:38](https://news.ycombinator.com/item?id=35375727) - [Launch HN: Baseplate (YC W23) – Back end-as-a-service for LLM apps](https://news.ycombinator.com/item?id=35375727)
