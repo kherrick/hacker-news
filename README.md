@@ -2,12 +2,11 @@
 
 * [2023-03-31, 23:08:32](https://news.ycombinator.com/item?id=35395001) - [Please delete 2M files to continue using your Google Drive account](https://old.reddit.com/r/google/comments/123fjx8/google_has_applied_a_5_million_items_limit_for/)
 * [2023-03-31, 22:42:57](https://news.ycombinator.com/item?id=35394758) - [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
-* [2023-03-31, 22:26:17](https://news.ycombinator.com/item?id=35394573) - [Google AI researcher resigns after learning Bard uses data from ChatGPT](https://www.marketwatch.com/story/google-ai-researcher-resigns-after-learning-bard-uses-data-from-chatgpt-report-65ca79aa)
 * [2023-03-31, 21:00:03](https://news.ycombinator.com/item?id=35393579) - [Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer](https://www.tesorio.com/careers#job-openings)
 * [2023-03-31, 20:50:39](https://news.ycombinator.com/item?id=35393458) - [CDC team studying East Palestine train derailment fell ill during investigation](https://www.cbsnews.com/pittsburgh/news/cdc-team-sick-east-palestine-ohio-train-derailment/)
 * [2023-03-31, 20:37:50](https://news.ycombinator.com/item?id=35393284) - [Llama.cpp 30B runs with only 6GB of RAM now](https://github.com/ggerganov/llama.cpp/pull/613)
 * [2023-03-31, 20:21:16](https://news.ycombinator.com/item?id=35393040) - [The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
-* [2023-03-31, 19:17:26](https://news.ycombinator.com/item?id=35392010) - [Bittrex to Cease Operations in the US](https://bittrex.com/discover/important-message-for-bittrex-u-s-customers)
+* [2023-03-31, 19:08:39](https://news.ycombinator.com/item?id=35391868) - [The average American has the same life expectancy as the worst part of England](https://twitter.com/jburnmurdoch/status/1641799698058035200)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 18:37:44](https://news.ycombinator.com/item?id=35391370) - [German police raid DDoS-friendly host FlyHosting](https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/)
 * [2023-03-31, 18:35:03](https://news.ycombinator.com/item?id=35391327) - [Show HN: Cadseer. a parametric solid modeling CAD desktop application](https://gitlab.com/blobfish/cadseer/-/releases)
@@ -30,6 +29,7 @@
 * [2023-03-30, 20:01:15](https://news.ycombinator.com/item?id=35378109) - [The undocumented Android change that led to aCropalypse was reported during beta](https://iliana.fyi/blog/acropalypse-now/)
 * [2023-03-30, 18:13:43](https://news.ycombinator.com/item?id=35376863) - [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
 * [2023-03-30, 07:30:51](https://news.ycombinator.com/item?id=35369312) - [How the inventor of the troll doll missed out on a fortune](https://thehustle.co/how-the-inventor-of-the-troll-doll-missed-out-on-a-fortune/)
+* [2023-03-30, 00:22:52](https://news.ycombinator.com/item?id=35365955) - [The audiences and authors of midwifery manuals](https://www.laphamsquarterly.org/roundtable/learning-better-house-or-land)
 
 ## [Archives](archives/index.md)
 
