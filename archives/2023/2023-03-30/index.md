@@ -6,6 +6,7 @@
 
 * [2023-03-30, 22:43:04](https://news.ycombinator.com/item?id=35379863) - [ETH Zürich&#x27;s position on AI in education and ChatGPT](https://ethz.ch/en/the-eth-zurich/education/educational-development/ai-in-education/chatgpt.html)
 * [2023-03-30, 22:38:07](https://news.ycombinator.com/item?id=35379811) - [Optimized Rust is Still Slower Than Python+NumPy](https://github.com/hirasawakinko/Numpy-Done-Right/blob/main/Numpy%20Done%20Right.ipynb)
+* [2023-03-30, 22:37:55](https://news.ycombinator.com/item?id=35379809) - [SFUSD&#x27;s delay of algebra 1 has created a nightmare of workarounds](https://www.sfexaminer.com/forum/put-algebra-1-back-in-eighth-grade/article_01ca608e-be01-11ed-9d12-5fb4111a4db8.html)
 * [2023-03-30, 22:21:05](https://news.ycombinator.com/item?id=35379603) - [A GPT 3.5 powered tool for generating regex](https://fuckregex.dev/)
 * [2023-03-30, 22:07:41](https://news.ycombinator.com/item?id=35379453) - [Show HN: Walkie-Talkie for Badass Developers](https://www.flowy.live/)
 * [2023-03-30, 21:38:08](https://news.ycombinator.com/item?id=35379136) - [My kids and I just played D&amp;D with ChatGPT4 as the DM](https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6)

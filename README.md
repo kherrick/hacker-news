@@ -2,8 +2,9 @@
 
 * [2023-03-31, 03:03:03](https://news.ycombinator.com/item?id=35381968) - [Cosine Implementation in C](https://github.com/ifduyue/musl/blob/master/src/math/__cos.c)
 * [2023-03-31, 02:35:38](https://news.ycombinator.com/item?id=35381755) - [When SVG almost got network support for raw sockets](https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/)
-* [2023-03-31, 02:28:07](https://news.ycombinator.com/item?id=35381701) - [Tax preparation industry alarmed over plan for IRS free tax-filing system](https://www.nytimes.com/2023/03/30/us/politics/biden-irs-overhaul-taxes.html)
+* [2023-03-31, 02:28:07](https://news.ycombinator.com/item?id=35381701) - [Lobbyists begin chipping away at Biden’s $80B IRS overhaul](https://www.nytimes.com/2023/03/30/us/politics/biden-irs-overhaul-taxes.html)
 * [2023-03-31, 01:09:06](https://news.ycombinator.com/item?id=35381036) - [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
+* [2023-03-30, 22:37:55](https://news.ycombinator.com/item?id=35379809) - [SFUSD&#x27;s delay of algebra 1 has created a nightmare of workarounds](https://www.sfexaminer.com/forum/put-algebra-1-back-in-eighth-grade/article_01ca608e-be01-11ed-9d12-5fb4111a4db8.html)
 * [2023-03-30, 21:38:08](https://news.ycombinator.com/item?id=35379136) - [My kids and I just played D&amp;D with ChatGPT4 as the DM](https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6)
 * [2023-03-30, 21:34:39](https://news.ycombinator.com/item?id=35379099) - [Grand jury votes to indict Donald Trump](https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news)
 * [2023-03-30, 21:16:01](https://news.ycombinator.com/item?id=35378925) - [Open-Sourcing My YC Application (Athens Research, W21)](https://hardpivot.substack.com/p/open-sourcing-my-y-combinator-winter)
@@ -21,7 +22,6 @@
 * [2023-03-30, 15:32:48](https://news.ycombinator.com/item?id=35374332) - [A DNA ‘parasite’ may have fragmented our genes](https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/)
 * [2023-03-30, 15:14:33](https://news.ycombinator.com/item?id=35373930) - [The Zombie Comeback of Analog Computing](https://www.wired.com/story/unbelievable-zombie-comeback-analog-computing/)
 * [2023-03-30, 14:17:06](https://news.ycombinator.com/item?id=35373052) - [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
-* [2023-03-30, 14:14:36](https://news.ycombinator.com/item?id=35373019) - [Is Y Combinator worth the money? Brutally honest review of W22 batch experience](https://acecreamu.substack.com/p/is-y-combinator-worth-the-money)
 * [2023-03-30, 12:47:08](https://news.ycombinator.com/item?id=35371796) - [A History of Army Information Operations](https://tnsr.org/2023/01/the-organizational-determinants-of-military-doctrine-a-history-of-army-information-operations/)
 * [2023-03-30, 11:38:38](https://news.ycombinator.com/item?id=35371122) - [One man’s quest to revive the great American vacuum tube](https://www.wired.com/story/one-mans-quest-to-revive-the-great-american-vacuum-tube/)
 * [2023-03-30, 11:22:14](https://news.ycombinator.com/item?id=35370972) - [How to Read MySQL EXPLAINs](https://planetscale.com/blog/how-read-mysql-explains)
