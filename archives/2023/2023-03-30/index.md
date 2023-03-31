@@ -51,6 +51,7 @@
 * [2023-03-30, 13:09:12](https://news.ycombinator.com/item?id=35372091) - [OpenAI faces complaint to FTC that seeks suspension of ChatGPT releases](https://www.cnbc.com/2023/03/30/openai-faces-complaint-to-ftc-that-seeks-suspension-of-chatgpt-updates.html)
 * [2023-03-30, 12:47:08](https://news.ycombinator.com/item?id=35371796) - [A History of Army Information Operations](https://tnsr.org/2023/01/the-organizational-determinants-of-military-doctrine-a-history-of-army-information-operations/)
 * [2023-03-30, 12:42:21](https://news.ycombinator.com/item?id=35371750) - [There&#x27;s something off about LED bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html)
+* [2023-03-30, 12:39:59](https://news.ycombinator.com/item?id=35371722) - [How the Graphic Designer Milton Glaser Made America Cool Again](https://www.newyorker.com/magazine/2023/03/27/how-the-graphic-designer-milton-glaser-made-america-cool-again)
 * [2023-03-30, 12:25:12](https://news.ycombinator.com/item?id=35371541) - [The Fascinating World of HTTP Strict-Transport-Security](https://ergomake.dev/blog/hsts-introduction/)
 * [2023-03-30, 12:18:56](https://news.ycombinator.com/item?id=35371469) - [Show HN: Gut – An easy-to-use CLI for Git](https://gut-cli.dev)
 * [2023-03-30, 12:09:46](https://news.ycombinator.com/item?id=35371379) - [Transit Is Great – But It’s Not a Public Good](https://www.bloomberg.com/news/articles/2023-03-30/no-transit-is-not-a-public-good-here-s-why)
