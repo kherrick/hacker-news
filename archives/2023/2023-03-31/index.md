@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 17:35:31](https://news.ycombinator.com/item?id=35390348) - [Game Over: Steam won’t Run on Windows 7 and 8 after January 2024](https://arstechnica.com/gadgets/2023/03/steam-will-end-support-for-windows-7-and-8-in-january-of-2024/)
 * [2023-03-31, 17:22:19](https://news.ycombinator.com/item?id=35390153) - [HuggingGPT: Solving AI Tasks with ChatGPT and Its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 * [2023-03-31, 17:01:09](https://news.ycombinator.com/item?id=35389959) - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
 * [2023-03-31, 16:57:53](https://news.ycombinator.com/item?id=35389915) - [US Banks Have $620B of Unrealized Losses on Their Books](https://www.bloomberg.com/graphics/2023-svb-exposed-risks-banks/)
 * [2023-03-31, 16:50:51](https://news.ycombinator.com/item?id=35389797) - [Groupon, which has lost 99.4% of its value since its IPO, names a new CEO](https://techcrunch.com/2023/03/31/groupon-which-has-lost-99-4-of-its-value-since-its-ipo-names-a-new-ceo-based-in-czech-republic/)
 * [2023-03-31, 16:14:44](https://news.ycombinator.com/item?id=35389306) - [Shiba Inu cloud credentials leaked on a public repository](https://blog.pingsafe.com/shiba-inu-cloud-credentials-leaked-in-a-major-security-breach-394ad54382c1)
 * [2023-03-31, 16:02:50](https://news.ycombinator.com/item?id=35389110) - [Launch HN: Inri (YC W23) – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
+* [2023-03-31, 15:57:11](https://news.ycombinator.com/item?id=35389021) - [GM plans to phase out Apple CarPlay in EVs, with Google&#x27;s help](https://finance.yahoo.com/news/gm-plans-phase-apple-carplay-140319747.html)
 * [2023-03-31, 15:57:11](https://news.ycombinator.com/item?id=35389021) - [GM is ditching CarPlay in all future EVs and teaming up with Google instead](https://9to5mac.com/2023/03/31/gm-carplay-support-ev/)
 * [2023-03-31, 15:43:00](https://news.ycombinator.com/item?id=35388818) - [A Quarter Century of Mozilla](https://blog.mozilla.org/en/mozilla/mitchell-baker-mozilla-25-anniversary/)
 * [2023-03-31, 15:10:48](https://news.ycombinator.com/item?id=35388281) - [Show HN: Actio, a (young) Node.js framework that makes microservices invisible](https://github.com/crufters/actio)
