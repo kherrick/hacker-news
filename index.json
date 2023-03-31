@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=35389959"
     ],
     [
-      "Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)",
+      "Svix (YC W21), enterprise-ready webhook service, is hiring (remote)",
       "https://www.svix.com/careers/"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=35389915"
     ],
     [
-      "US Banks Have $620B of Unrealized Losses on Their Books",
+      "US banks have $620B of unrealized losses on their books",
       "https://www.bloomberg.com/graphics/2023-svb-exposed-risks-banks/"
     ]
   ],
@@ -51,12 +51,22 @@
   ],
   [
     [
-      "2023-03-31, 15:43:00",
-      "https://news.ycombinator.com/item?id=35388818"
+      "2023-03-31, 15:10:48",
+      "https://news.ycombinator.com/item?id=35388281"
     ],
     [
-      "A Quarter Century of Mozilla",
-      "https://blog.mozilla.org/en/mozilla/mitchell-baker-mozilla-25-anniversary/"
+      "Show HN: Actio, a (young) Node.js framework that makes microservices invisible",
+      "https://github.com/crufters/actio"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 14:47:56",
+      "https://news.ycombinator.com/item?id=35387954"
+    ],
+    [
+      "Reflections on 10k Hours of DevOps",
+      "https://matt-rickard.com/reflections-on-10-000-hours-of-devops"
     ]
   ],
   [
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=35387160"
     ],
     [
-      "Show HN: Multi-Display Screen Sharing with CoScreen by Datadog",
+      "Show HN: Multi-display screen sharing with CoScreen by Datadog",
       "https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=35386948"
     ],
     [
-      "Postgres: The Graph Database You Didn&#x27;t Know You Had",
+      "Postgres as a graph database",
       "https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/"
     ]
   ],
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2023-03-31, 10:56:55",
-      "https://news.ycombinator.com/item?id=35385131"
-    ],
-    [
-      "Nim 2.0.0 RC2",
-      "https://nim-lang.org//blog/2023/03/31/version-20-rc2.html"
-    ]
-  ],
-  [
-    [
       "2023-03-31, 10:43:22",
       "https://news.ycombinator.com/item?id=35385019"
     ],
     [
       "Pairing With GPT-4",
       "https://fly.io/ruby-dispatch/pairing-with-gpt-4/"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 09:53:57",
-      "https://news.ycombinator.com/item?id=35384691"
-    ],
-    [
-      "Helix 23.03",
-      "https://helix-editor.com/news/release-23-03-highlights/"
     ]
   ],
   [
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=35371722"
     ],
     [
-      "How the Graphic Designer Milton Glaser Made America Cool Again",
+      "Milton Glaser made America cool again",
       "https://www.newyorker.com/magazine/2023/03/27/how-the-graphic-designer-milton-glaser-made-america-cool-again"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Brains speed up perception by guessing what&#x27;s next (2019)",
       "https://www.quantamagazine.org/brains-speed-up-perception-by-guessing-whats-next-20190502/"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 19:13:02",
+      "https://news.ycombinator.com/item?id=35361849"
+    ],
+    [
+      "Our Man in Ajmer",
+      "https://literaryreview.co.uk/our-man-in-ajmer"
     ]
   ]
 ]
