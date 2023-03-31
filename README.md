@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 03:03:03](https://news.ycombinator.com/item?id=35381968) - [Cosine Implementation in C](https://github.com/ifduyue/musl/blob/master/src/math/__cos.c)
 * [2023-03-31, 02:35:38](https://news.ycombinator.com/item?id=35381755) - [When SVG almost got network support for raw sockets](https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/)
 * [2023-03-31, 01:48:45](https://news.ycombinator.com/item?id=35381365) - [San Francisco schools banned kids from taking algebra in 8th grade](https://twitter.com/Noahpinion/status/1641395730735849473)
 * [2023-03-31, 01:09:06](https://news.ycombinator.com/item?id=35381036) - [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
@@ -29,7 +30,6 @@
 * [2023-03-30, 07:26:39](https://news.ycombinator.com/item?id=35369279) - [Retool Database](https://retool.com/blog/rdb/)
 * [2023-03-30, 05:57:31](https://news.ycombinator.com/item?id=35368636) - [Better World Books](https://www.betterworldbooks.com/)
 * [2023-03-29, 20:55:40](https://news.ycombinator.com/item?id=35363467) - [An Unstandardized, Decentralized Carnival Fire: How Rare Books Are Cataloged](https://lithub.com/an-unstandardized-decentralized-carnival-fire-how-rare-books-are-cataloged/)
-* [2023-03-29, 12:04:47](https://news.ycombinator.com/item?id=35355926) - [Data Structures for Text Sequences (1998)](https://www.cs.unm.edu/~crowley/papers/sds.pdf)
 
 ## [Archives](archives/index.md)
 
