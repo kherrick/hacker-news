@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 22:24:27](https://news.ycombinator.com/item?id=35394553) - [Show HN: Simply explain 20k concepts using GPT](https://platoeducation.ai/#/notes/)
 * [2023-03-31, 21:58:24](https://news.ycombinator.com/item?id=35394217) - [NYPD blues: Cops ignored 93 percent of surveillance law rules](https://www.theregister.com/2023/03/31/nypd_surveillance_rules/)
+* [2023-03-31, 21:23:21](https://news.ycombinator.com/item?id=35393860) - [Americans die earlier than the English across the income distribution](https://twitter.com/heimbergecon/status/1641880649341587467)
 * [2023-03-31, 21:00:03](https://news.ycombinator.com/item?id=35393579) - [Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer](https://www.tesorio.com/careers#job-openings)
 * [2023-03-31, 20:50:39](https://news.ycombinator.com/item?id=35393458) - [CDC team studying East Palestine train derailment fell ill during investigation](https://www.cbsnews.com/pittsburgh/news/cdc-team-sick-east-palestine-ohio-train-derailment/)
 * [2023-03-31, 20:37:50](https://news.ycombinator.com/item?id=35393284) - [Llama.cpp 30B runs with only 6GB of RAM now](https://github.com/ggerganov/llama.cpp/pull/613)
@@ -23,13 +25,11 @@
 * [2023-03-31, 12:55:19](https://news.ycombinator.com/item?id=35386405) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 11:25:19](https://news.ycombinator.com/item?id=35385384) - [A machine that bankrupted Mark Twain](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
 * [2023-03-31, 10:49:15](https://news.ycombinator.com/item?id=35385075) - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
-* [2023-03-31, 09:14:02](https://news.ycombinator.com/item?id=35384462) - [Where have all the laid-off tech workers gone?](https://www.economist.com/business/2023/03/27/where-have-all-the-laid-off-tech-workers-gone)
 * [2023-03-31, 03:42:20](https://news.ycombinator.com/item?id=35382252) - [SSD as Long Term Storage Testing](https://htwingnut.com/2022/09/11/ssd-as-long-term-storage-testing/)
 * [2023-03-30, 23:48:20](https://news.ycombinator.com/item?id=35380459) - [K: We need to talk about group](https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a)
 * [2023-03-30, 20:01:15](https://news.ycombinator.com/item?id=35378109) - [The undocumented Android change that led to aCropalypse was reported during beta](https://iliana.fyi/blog/acropalypse-now/)
 * [2023-03-30, 18:13:43](https://news.ycombinator.com/item?id=35376863) - [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
 * [2023-03-30, 07:30:51](https://news.ycombinator.com/item?id=35369312) - [How the inventor of the troll doll missed out on a fortune](https://thehustle.co/how-the-inventor-of-the-troll-doll-missed-out-on-a-fortune/)
-* [2023-03-30, 00:22:52](https://news.ycombinator.com/item?id=35365955) - [On the audiences and authors of midwifery manuals](https://www.laphamsquarterly.org/roundtable/learning-better-house-or-land)
 
 ## [Archives](archives/index.md)
 
