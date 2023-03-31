@@ -6,6 +6,7 @@
 
 * [2023-03-31, 23:08:32](https://news.ycombinator.com/item?id=35395001) - [Please delete 2M files to continue using your Google Drive account](https://old.reddit.com/r/google/comments/123fjx8/google_has_applied_a_5_million_items_limit_for/)
 * [2023-03-31, 22:42:57](https://news.ycombinator.com/item?id=35394758) - [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
+* [2023-03-31, 22:26:17](https://news.ycombinator.com/item?id=35394573) - [Google AI researcher resigns after learning Bard uses data from ChatGPT](https://www.marketwatch.com/story/google-ai-researcher-resigns-after-learning-bard-uses-data-from-chatgpt-report-65ca79aa)
 * [2023-03-31, 22:24:27](https://news.ycombinator.com/item?id=35394553) - [Show HN: Simply explain 20k concepts using GPT](https://platoeducation.ai/#/notes/)
 * [2023-03-31, 21:58:24](https://news.ycombinator.com/item?id=35394217) - [NYPD blues: Cops ignored 93 percent of surveillance law rules](https://www.theregister.com/2023/03/31/nypd_surveillance_rules/)
 * [2023-03-31, 21:37:33](https://news.ycombinator.com/item?id=35394007) - [Remove the code in the algorithm that boosts the tweets of Elon](https://github.com/twitter/the-algorithm/pull/160)
