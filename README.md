@@ -7,7 +7,7 @@
 * [2023-03-31, 11:20:37](https://news.ycombinator.com/item?id=35385339) - [Italian data protection authority clamps down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
 * [2023-03-31, 10:56:55](https://news.ycombinator.com/item?id=35385131) - [Nim 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 * [2023-03-31, 10:49:15](https://news.ycombinator.com/item?id=35385075) - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
-* [2023-03-31, 10:43:22](https://news.ycombinator.com/item?id=35385019) - [Pairing with GPT-4 · Fly](https://fly.io/ruby-dispatch/pairing-with-gpt-4/)
+* [2023-03-31, 10:43:22](https://news.ycombinator.com/item?id=35385019) - [Pairing With GPT-4](https://fly.io/ruby-dispatch/pairing-with-gpt-4/)
 * [2023-03-31, 09:53:57](https://news.ycombinator.com/item?id=35384691) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
 * [2023-03-31, 09:38:17](https://news.ycombinator.com/item?id=35384610) - [Automatically enable or disable end-to-end encryption](https://bugzilla.mozilla.org/show_bug.cgi?id=135636)
 * [2023-03-31, 09:38:03](https://news.ycombinator.com/item?id=35384608) - [Solid-State Battery Has 2x the Energy–and No Anode](https://spectrum.ieee.org/solid-state-battery-no-anode)
@@ -29,7 +29,7 @@
 * [2023-03-30, 09:02:29](https://news.ycombinator.com/item?id=35369917) - [Mini-Consortia Forming Around Chiplets](https://semiengineering.com/mini-consortia-forming-around-chiplets/)
 * [2023-03-30, 08:42:56](https://news.ycombinator.com/item?id=35369773) - [Brains speed up perception by guessing what&#x27;s next (2019)](https://www.quantamagazine.org/brains-speed-up-perception-by-guessing-whats-next-20190502/)
 * [2023-03-30, 05:57:31](https://news.ycombinator.com/item?id=35368636) - [Better World Books](https://www.betterworldbooks.com/)
-* [2023-03-29, 12:04:47](https://news.ycombinator.com/item?id=35355926) - [Data Structures for Text Sequences (1998)](https://www.cs.unm.edu/~crowley/papers/sds.pdf)
+* [2023-03-29, 12:04:47](https://news.ycombinator.com/item?id=35355926) - [Data Structures for Text Sequences (1998) [pdf]](https://www.cs.unm.edu/~crowley/papers/sds.pdf)
 
 ## [Archives](archives/index.md)
 
