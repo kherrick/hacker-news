@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 13:54:06](https://news.ycombinator.com/item?id=35387191) - [75% of the Most Played Games on Steam Are Playable on the Steam Deck](https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/)
 * [2023-03-31, 13:39:46](https://news.ycombinator.com/item?id=35387000) - [NYPD is refusing to comply with NYC’s new surveillance tech laws](https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/)
 * [2023-03-31, 12:55:19](https://news.ycombinator.com/item?id=35386405) - [Janet for Mortals](https://janet.guide/)
-* [2023-03-31, 12:01:31](https://news.ycombinator.com/item?id=35385732) - [PyCharm 2023.1](https://www.jetbrains.com/pycharm/whatsnew/)
 * [2023-03-31, 12:00:48](https://news.ycombinator.com/item?id=35385721) - [Finley (YC W21) is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
 * [2023-03-31, 11:31:23](https://news.ycombinator.com/item?id=35385452) - [If AI scaling is to be shut down, let it be for a coherent reason](https://scottaaronson.blog/?p=7174)
 * [2023-03-31, 11:25:19](https://news.ycombinator.com/item?id=35385384) - [The Machine That Bankrupted Mark Twain](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
@@ -29,7 +29,7 @@
 * [2023-03-30, 11:38:38](https://news.ycombinator.com/item?id=35371122) - [One man’s quest to revive the great American vacuum tube](https://www.wired.com/story/one-mans-quest-to-revive-the-great-american-vacuum-tube/)
 * [2023-03-30, 09:02:29](https://news.ycombinator.com/item?id=35369917) - [Mini-Consortia Forming Around Chiplets](https://semiengineering.com/mini-consortia-forming-around-chiplets/)
 * [2023-03-30, 08:42:56](https://news.ycombinator.com/item?id=35369773) - [Brains speed up perception by guessing what&#x27;s next (2019)](https://www.quantamagazine.org/brains-speed-up-perception-by-guessing-whats-next-20190502/)
-* [2023-03-29, 12:04:47](https://news.ycombinator.com/item?id=35355926) - [Data Structures for Text Sequences (1998) [pdf]](https://www.cs.unm.edu/~crowley/papers/sds.pdf)
+* [2023-03-29, 19:13:02](https://news.ycombinator.com/item?id=35361849) - [Our Man in Ajmer](https://literaryreview.co.uk/our-man-in-ajmer)
 
 ## [Archives](archives/index.md)
 
