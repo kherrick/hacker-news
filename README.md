@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 22:42:57](https://news.ycombinator.com/item?id=35394758) - [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
 * [2023-03-31, 22:24:27](https://news.ycombinator.com/item?id=35394553) - [Show HN: Simply explain 20k concepts using GPT](https://platoeducation.ai/#/notes/)
 * [2023-03-31, 21:58:24](https://news.ycombinator.com/item?id=35394217) - [NYPD blues: Cops ignored 93 percent of surveillance law rules](https://www.theregister.com/2023/03/31/nypd_surveillance_rules/)
 * [2023-03-31, 21:23:21](https://news.ycombinator.com/item?id=35393860) - [Americans die earlier than the English across the income distribution](https://twitter.com/heimbergecon/status/1641880649341587467)
@@ -10,7 +11,6 @@
 * [2023-03-31, 19:17:26](https://news.ycombinator.com/item?id=35392010) - [Bittrex to Cease Operations in the US](https://bittrex.com/discover/important-message-for-bittrex-u-s-customers)
 * [2023-03-31, 19:08:39](https://news.ycombinator.com/item?id=35391868) - [The average American has the same life expectancy as the worst part of England](https://twitter.com/jburnmurdoch/status/1641799698058035200)
 * [2023-03-31, 18:44:15](https://news.ycombinator.com/item?id=35391465) - [A new era of transparency for Twitter](https://blog.twitter.com/en_us/topics/company/2023/a-new-era-of-transparency-for-twitter)
-* [2023-03-31, 18:42:22](https://news.ycombinator.com/item?id=35391436) - [ChatGPT – The Revolutionary Bullshit Parrot](https://www.reasonfieldlab.com/post/chatgpt-the-revolutionary-bullshit-parrot?)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 18:37:44](https://news.ycombinator.com/item?id=35391370) - [German Police Raid DDoS-Friendly Host ‘FlyHosting’](https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/)
 * [2023-03-31, 18:35:03](https://news.ycombinator.com/item?id=35391327) - [Show HN: Cadseer. a parametric solid modeling CAD desktop application](https://gitlab.com/blobfish/cadseer/-/releases)
