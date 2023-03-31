@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 23:48:20](https://news.ycombinator.com/item?id=35380459) - [K: We need to talk about group](https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a)
 * [2023-03-30, 22:43:04](https://news.ycombinator.com/item?id=35379863) - [ETH Zürich&#x27;s position on AI in education and ChatGPT](https://ethz.ch/en/the-eth-zurich/education/educational-development/ai-in-education/chatgpt.html)
 * [2023-03-30, 22:38:07](https://news.ycombinator.com/item?id=35379811) - [Optimized Rust is Still Slower Than Python+NumPy](https://github.com/hirasawakinko/Numpy-Done-Right/blob/main/Numpy%20Done%20Right.ipynb)
 * [2023-03-30, 22:37:55](https://news.ycombinator.com/item?id=35379809) - [SFUSD&#x27;s delay of algebra 1 has created a nightmare of workarounds](https://www.sfexaminer.com/forum/put-algebra-1-back-in-eighth-grade/article_01ca608e-be01-11ed-9d12-5fb4111a4db8.html)

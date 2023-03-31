@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
 * [2023-03-31, 17:35:31](https://news.ycombinator.com/item?id=35390348) - [Game Over: Steam won’t Run on Windows 7 and 8 after January 2024](https://arstechnica.com/gadgets/2023/03/steam-will-end-support-for-windows-7-and-8-in-january-of-2024/)
+* [2023-03-31, 17:27:40](https://news.ycombinator.com/item?id=35390229) - [Virgin Orbit to lay off 85 percent of staff, freeze operations](https://www.washingtonpost.com/technology/2023/03/31/virgin-orbit-layoffs/)
 * [2023-03-31, 17:22:19](https://news.ycombinator.com/item?id=35390153) - [HuggingGPT: Solving AI Tasks with ChatGPT and Its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 * [2023-03-31, 17:01:09](https://news.ycombinator.com/item?id=35389959) - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
 * [2023-03-31, 16:57:53](https://news.ycombinator.com/item?id=35389915) - [US Banks Have $620B of Unrealized Losses on Their Books](https://www.bloomberg.com/graphics/2023-svb-exposed-risks-banks/)
