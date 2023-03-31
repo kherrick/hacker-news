@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 10:45:02](https://news.ycombinator.com/item?id=35385032) - [Ask HN: AI also read books, Human also. What&#x27;s the difference?](https://news.ycombinator.com/item?id=35385032)
 * [2023-03-31, 09:53:57](https://news.ycombinator.com/item?id=35384691) - [Helix: Release 23.03 Highlights](https://helix-editor.com/news/release-23-03-highlights/)
+* [2023-03-31, 09:47:03](https://news.ycombinator.com/item?id=35384652) - [British government mocked for advertising head of cyber role with £57K salary](https://therecord.media/head-of-cyber-role-salary-uk-hm-treasury)
 * [2023-03-31, 09:45:04](https://news.ycombinator.com/item?id=35384646) - [Ask HN: How to you monetize a tech blog?](https://news.ycombinator.com/item?id=35384646)
 * [2023-03-31, 09:38:17](https://news.ycombinator.com/item?id=35384610) - [Thunderbird to add automatic encryption after 21 years](https://bugzilla.mozilla.org/show_bug.cgi?id=135636)
 * [2023-03-31, 09:38:03](https://news.ycombinator.com/item?id=35384608) - [Solid-State Battery Has 2x the Energy–and No Anode](https://spectrum.ieee.org/solid-state-battery-no-anode)
@@ -22,5 +24,6 @@
 * [2023-03-31, 02:28:07](https://news.ycombinator.com/item?id=35381701) - [Tax preparation industry alarmed over plan for IRS free tax-filing system](https://www.nytimes.com/2023/03/30/us/politics/biden-irs-overhaul-taxes.html)
 * [2023-03-31, 01:48:45](https://news.ycombinator.com/item?id=35381365) - [San Francisco schools banned kids from taking algebra in 8th grade](https://twitter.com/Noahpinion/status/1641395730735849473)
 * [2023-03-31, 01:09:06](https://news.ycombinator.com/item?id=35381036) - [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
+* [2023-03-31, 01:03:50](https://news.ycombinator.com/item?id=35380993) - [Stellantis CEO: There may not be enough raw materials to electrify globe](https://www.detroitnews.com/story/business/autos/2023/03/29/stellantis-carlos-tavares-freedom-mobility-forum-raw-materials-electric-vehicles/70059274007/)
 * [2023-03-31, 00:55:22](https://news.ycombinator.com/item?id=35380939) - [I have never been treated this bad in an interview process in 20 years](https://startupdreams.substack.com/p/i-just-had-the-worst-interview-process)
 * [2023-03-31, 00:37:41](https://news.ycombinator.com/item?id=35380823) - [Gmail is killing independent email](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
