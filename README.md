@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-31, 16:02:50](https://news.ycombinator.com/item?id=35389110) - [Launch HN: Inri (YC W23) – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
+* [2023-03-31, 15:57:11](https://news.ycombinator.com/item?id=35389021) - [GM is ditching CarPlay in all future EVs and teaming up with Google instead](https://9to5mac.com/2023/03/31/gm-carplay-support-ev/)
 * [2023-03-31, 15:43:00](https://news.ycombinator.com/item?id=35388818) - [A Quarter Century of Mozilla](https://blog.mozilla.org/en/mozilla/mitchell-baker-mozilla-25-anniversary/)
 * [2023-03-31, 14:47:56](https://news.ycombinator.com/item?id=35387954) - [Reflections on 10k Hours of DevOps](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
 * [2023-03-31, 14:38:27](https://news.ycombinator.com/item?id=35387822) - [BigQuery prices increasing by more than 100% for many users](https://cloud.google.com/blog/products/data-analytics/introducing-new-bigquery-pricing-editions)
@@ -19,7 +20,6 @@
 * [2023-03-31, 09:38:03](https://news.ycombinator.com/item?id=35384608) - [Solid-State Battery Has 2x the Energy–and No Anode](https://spectrum.ieee.org/solid-state-battery-no-anode)
 * [2023-03-31, 07:43:09](https://news.ycombinator.com/item?id=35383925) - [Meta wants EU users to apply for permission to opt out of data collection](https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/)
 * [2023-03-31, 07:07:56](https://news.ycombinator.com/item?id=35383672) - [Immutable Linux distributions](https://itsfoss.com/immutable-linux-distros/)
-* [2023-03-31, 07:06:53](https://news.ycombinator.com/item?id=35383662) - [Decreasing the Number of Memory Accesses 1&#x2F;2](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-1-2/)
 * [2023-03-31, 04:57:03](https://news.ycombinator.com/item?id=35382769) - [Show HN: Random Aerial Airport Views](https://randomairport.onrender.com/)
 * [2023-03-31, 04:45:55](https://news.ycombinator.com/item?id=35382698) - [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
 * [2023-03-31, 03:03:03](https://news.ycombinator.com/item?id=35381968) - [Cosine Implementation in C](https://github.com/ifduyue/musl/blob/master/src/math/__cos.c)
