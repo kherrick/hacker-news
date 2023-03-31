@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-03-31, 12:01:31",
+      "https://news.ycombinator.com/item?id=35385732"
+    ],
+    [
+      "PyCharm 2023.1",
+      "https://www.jetbrains.com/pycharm/whatsnew/"
+    ]
+  ],
+  [
+    [
       "2023-03-31, 12:00:48",
       "https://news.ycombinator.com/item?id=35385721"
     ],
     [
       "Finley (YC W21) is hiring for credit and fintech experts across all teams",
       "https://news.ycombinator.com/item?id=35385721"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 11:31:23",
+      "https://news.ycombinator.com/item?id=35385452"
+    ],
+    [
+      "If AI scaling is to be shut down, let it be for a coherent reason",
+      "https://scottaaronson.blog/?p=7174"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Italian privacy regulator bans ChatGPT",
       "https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 10:43:22",
+      "https://news.ycombinator.com/item?id=35385019"
+    ],
+    [
+      "Pairing with GPT-4 · Fly",
+      "https://fly.io/ruby-dispatch/pairing-with-gpt-4/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-03-31, 01:03:50",
-      "https://news.ycombinator.com/item?id=35380993"
-    ],
-    [
-      "Stellantis CEO: There may not be enough raw materials to electrify globe",
-      "https://www.detroitnews.com/story/business/autos/2023/03/29/stellantis-carlos-tavares-freedom-mobility-forum-raw-materials-electric-vehicles/70059274007/"
-    ]
-  ],
-  [
-    [
       "2023-03-30, 21:34:39",
       "https://news.ycombinator.com/item?id=35379099"
     ],
@@ -157,16 +177,6 @@
     [
       "Open-Sourcing My YC Application (Athens Research, W21)",
       "https://hardpivot.substack.com/p/open-sourcing-my-y-combinator-winter"
-    ]
-  ],
-  [
-    [
-      "2023-03-30, 20:59:29",
-      "https://news.ycombinator.com/item?id=35378758"
-    ],
-    [
-      "When Google paid websites to promote Firefox",
-      "https://leonidasv.com/til-google-paid-websites-for-referring-firefox/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Data Structures for Text Sequences (1998)",
       "https://www.cs.unm.edu/~crowley/papers/sds.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 21:43:33",
-      "https://news.ycombinator.com/item?id=35348353"
-    ],
-    [
-      "Pause Giant AI Experiments: An Open Letter",
-      "https://futureoflife.org/open-letter/pause-giant-ai-experiments/"
     ]
   ]
 ]
