@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-31, 20:38:01",
+      "https://news.ycombinator.com/item?id=35393292"
+    ],
+    [
+      "The PlanetScale GitHub Actions",
+      "https://planetscale.com/blog/announcing-the-planetscale-github-actions"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 20:37:50",
+      "https://news.ycombinator.com/item?id=35393284"
+    ],
+    [
+      "Llama.cpp 30B runs with only 6GB of RAM now",
+      "https://github.com/ggerganov/llama.cpp/pull/613"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 20:21:16",
+      "https://news.ycombinator.com/item?id=35393040"
+    ],
+    [
+      "The Wonders of Postgres Logical Decoding Messages",
+      "https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/"
+    ]
+  ],
+  [
+    [
       "2023-03-31, 19:51:45",
       "https://news.ycombinator.com/item?id=35392563"
     ],
@@ -15,18 +45,8 @@
       "https://news.ycombinator.com/item?id=35392010"
     ],
     [
-      "Bittrex to Cease Operations",
+      "Bittrex to Cease Operations in the US",
       "https://bittrex.com/discover/important-message-for-bittrex-u-s-customers"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 18:45:14",
-      "https://news.ycombinator.com/item?id=35391484"
-    ],
-    [
-      "The Twitter Algorithm",
-      "https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm"
     ]
   ],
   [
@@ -56,7 +76,7 @@
     ],
     [
       "Twitter open sourced the recommendation engine",
-      "https://github.com/twitter/the-algorithm-ml"
+      "https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=35391115"
     ],
     [
-      "Could you train a ChatGPT-beating model for $85,000 and run it in a browser?",
+      "Could you train a ChatGPT-beating model for $85k and run it in a browser?",
       "https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Responsible AI Challenge",
       "https://future.mozilla.org/builders-challenge/"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 17:27:40",
-      "https://news.ycombinator.com/item?id=35390229"
-    ],
-    [
-      "Virgin Orbit to lay off 85 percent of staff, freeze operations",
-      "https://www.washingtonpost.com/technology/2023/03/31/virgin-orbit-layoffs/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Immutable Linux distributions",
       "https://itsfoss.com/immutable-linux-distros/"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 04:45:55",
-      "https://news.ycombinator.com/item?id=35382698"
-    ],
-    [
-      "AI-enhanced development makes me more ambitious with my projects",
-      "https://simonwillison.net/2023/Mar/27/ai-enhanced-development/"
     ]
   ],
   [
