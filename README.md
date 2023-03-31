@@ -27,9 +27,9 @@
 * [2023-03-30, 09:11:39](https://news.ycombinator.com/item?id=35369983) - [Show HN: Open-Source Webhooks Gateway for Platform Engineers](https://github.com/frain-dev/convoy)
 * [2023-03-30, 09:02:29](https://news.ycombinator.com/item?id=35369917) - [Mini-Consortia Forming Around Chiplets](https://semiengineering.com/mini-consortia-forming-around-chiplets/)
 * [2023-03-30, 07:26:39](https://news.ycombinator.com/item?id=35369279) - [Retool Database](https://retool.com/blog/rdb/)
-* [2023-03-30, 06:21:14](https://news.ycombinator.com/item?id=35368795) - [Exploring Power Distribution Networks](https://jmw.name/projects/exploring-pdns/)
 * [2023-03-30, 05:57:31](https://news.ycombinator.com/item?id=35368636) - [Better World Books](https://www.betterworldbooks.com/)
 * [2023-03-29, 20:55:40](https://news.ycombinator.com/item?id=35363467) - [An Unstandardized, Decentralized Carnival Fire: How Rare Books Are Cataloged](https://lithub.com/an-unstandardized-decentralized-carnival-fire-how-rare-books-are-cataloged/)
+* [2023-03-29, 12:04:47](https://news.ycombinator.com/item?id=35355926) - [Data Structures for Text Sequences (1998)](https://www.cs.unm.edu/~crowley/papers/sds.pdf)
 
 ## [Archives](archives/index.md)
 
