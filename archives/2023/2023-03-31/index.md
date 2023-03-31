@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 17:22:19](https://news.ycombinator.com/item?id=35390153) - [HuggingGPT: Solving AI Tasks with ChatGPT and Its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 * [2023-03-31, 17:01:09](https://news.ycombinator.com/item?id=35389959) - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
 * [2023-03-31, 16:57:53](https://news.ycombinator.com/item?id=35389915) - [US Banks Have $620B of Unrealized Losses on Their Books](https://www.bloomberg.com/graphics/2023-svb-exposed-risks-banks/)
 * [2023-03-31, 16:50:51](https://news.ycombinator.com/item?id=35389797) - [Groupon, which has lost 99.4% of its value since its IPO, names a new CEO](https://techcrunch.com/2023/03/31/groupon-which-has-lost-99-4-of-its-value-since-its-ipo-names-a-new-ceo-based-in-czech-republic/)
