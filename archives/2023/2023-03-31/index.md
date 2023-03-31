@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
 * [2023-03-31, 13:54:06](https://news.ycombinator.com/item?id=35387191) - [75% of the Most Played Games on Steam Are Playable on the Steam Deck](https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/)
+* [2023-03-31, 13:51:33](https://news.ycombinator.com/item?id=35387160) - [Show HN: Multi-Display Screen Sharing with CoScreen by Datadog](https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/)
 * [2023-03-31, 13:39:46](https://news.ycombinator.com/item?id=35387000) - [NYPD is refusing to comply with NYC’s new surveillance tech laws](https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/)
+* [2023-03-31, 13:35:36](https://news.ycombinator.com/item?id=35386948) - [Postgres: The Graph Database You Didn&#x27;t Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/)
 * [2023-03-31, 12:55:19](https://news.ycombinator.com/item?id=35386405) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 12:01:31](https://news.ycombinator.com/item?id=35385732) - [PyCharm 2023.1](https://www.jetbrains.com/pycharm/whatsnew/)
 * [2023-03-31, 12:00:48](https://news.ycombinator.com/item?id=35385721) - [Finley (YC W21) is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
