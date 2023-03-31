@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 18:45:14](https://news.ycombinator.com/item?id=35391484) - [The Twitter Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
+* [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter open sourced the recommendation engine](https://github.com/twitter/the-algorithm-ml)
 * [2023-03-31, 18:21:07](https://news.ycombinator.com/item?id=35391115) - [Could you train a ChatGPT-beating model for $85,000 and run it in a browser?](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/)
+* [2023-03-31, 18:07:04](https://news.ycombinator.com/item?id=35390853) - [Heat pump sales outpaced gas furnace sales in the US in 2022](https://electrek.co/2023/03/31/heat-pump-sales-2022/)
 * [2023-03-31, 17:35:31](https://news.ycombinator.com/item?id=35390348) - [Game Over: Steam won’t Run on Windows 7 and 8 after January 2024](https://arstechnica.com/gadgets/2023/03/steam-will-end-support-for-windows-7-and-8-in-january-of-2024/)
 * [2023-03-31, 17:30:23](https://news.ycombinator.com/item?id=35390271) - [Responsible AI Challenge](https://future.mozilla.org/builders-challenge/)
 * [2023-03-31, 17:27:40](https://news.ycombinator.com/item?id=35390229) - [Virgin Orbit to lay off 85 percent of staff, freeze operations](https://www.washingtonpost.com/technology/2023/03/31/virgin-orbit-layoffs/)
