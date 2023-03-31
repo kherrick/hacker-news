@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 21:37:33](https://news.ycombinator.com/item?id=35394007) - [Remove the code in the algorithm that boosts the tweets of Elon](https://github.com/twitter/the-algorithm/pull/160)
+* [2023-03-31, 21:34:07](https://news.ycombinator.com/item?id=35393967) - [Linux vs. Mac](https://news.ycombinator.com/item?id=35393967)
 * [2023-03-31, 21:00:03](https://news.ycombinator.com/item?id=35393579) - [Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer](https://www.tesorio.com/careers#job-openings)
 * [2023-03-31, 20:50:39](https://news.ycombinator.com/item?id=35393458) - [CDC team studying East Palestine train derailment fell ill during investigation](https://www.cbsnews.com/pittsburgh/news/cdc-team-sick-east-palestine-ohio-train-derailment/)
 * [2023-03-31, 20:37:50](https://news.ycombinator.com/item?id=35393284) - [Llama.cpp 30B runs with only 6GB of RAM now](https://github.com/ggerganov/llama.cpp/pull/613)
@@ -10,7 +12,6 @@
 * [2023-03-31, 18:42:22](https://news.ycombinator.com/item?id=35391436) - [ChatGPT – The Revolutionary Bullshit Parrot](https://www.reasonfieldlab.com/post/chatgpt-the-revolutionary-bullshit-parrot?)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 18:37:44](https://news.ycombinator.com/item?id=35391370) - [German Police Raid DDoS-Friendly Host ‘FlyHosting’](https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/)
-* [2023-03-31, 18:35:03](https://news.ycombinator.com/item?id=35391327) - [Show HN: Cadseer. a parametric solid modeling CAD desktop application](https://gitlab.com/blobfish/cadseer/-/releases)
 * [2023-03-31, 18:21:07](https://news.ycombinator.com/item?id=35391115) - [Could you train a ChatGPT-beating model for $85k and run it in a browser?](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/)
 * [2023-03-31, 18:07:04](https://news.ycombinator.com/item?id=35390853) - [Heat pump sales outpaced gas furnace sales in the US in 2022](https://electrek.co/2023/03/31/heat-pump-sales-2022/)
 * [2023-03-31, 17:30:23](https://news.ycombinator.com/item?id=35390271) - [Responsible AI Challenge](https://future.mozilla.org/builders-challenge/)
@@ -23,7 +24,6 @@
 * [2023-03-31, 11:25:19](https://news.ycombinator.com/item?id=35385384) - [A machine that bankrupted Mark Twain](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
 * [2023-03-31, 10:49:15](https://news.ycombinator.com/item?id=35385075) - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
 * [2023-03-31, 09:14:02](https://news.ycombinator.com/item?id=35384462) - [Where have all the laid-off tech workers gone?](https://www.economist.com/business/2023/03/27/where-have-all-the-laid-off-tech-workers-gone)
-* [2023-03-31, 07:07:56](https://news.ycombinator.com/item?id=35383672) - [Immutable Linux distributions](https://itsfoss.com/immutable-linux-distros/)
 * [2023-03-31, 03:42:20](https://news.ycombinator.com/item?id=35382252) - [SSD as Long Term Storage Testing](https://htwingnut.com/2022/09/11/ssd-as-long-term-storage-testing/)
 * [2023-03-30, 23:48:20](https://news.ycombinator.com/item?id=35380459) - [K: We need to talk about group](https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a)
 * [2023-03-30, 22:11:26](https://news.ycombinator.com/item?id=35379498) - [A little-known French archaeologist, finally in the limelight](https://www.washingtonpost.com/books/2023/02/16/empress-of-the-nile-book/)

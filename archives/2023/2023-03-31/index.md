@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 21:37:33](https://news.ycombinator.com/item?id=35394007) - [Remove the code in the algorithm that boosts the tweets of Elon](https://github.com/twitter/the-algorithm/pull/160)
+* [2023-03-31, 21:34:07](https://news.ycombinator.com/item?id=35393967) - [Linux vs. Mac](https://news.ycombinator.com/item?id=35393967)
 * [2023-03-31, 21:00:03](https://news.ycombinator.com/item?id=35393579) - [Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer](https://www.tesorio.com/careers#job-openings)
 * [2023-03-31, 20:50:39](https://news.ycombinator.com/item?id=35393458) - [CDC team studying East Palestine train derailment fell ill during investigation](https://www.cbsnews.com/pittsburgh/news/cdc-team-sick-east-palestine-ohio-train-derailment/)
 * [2023-03-31, 20:38:01](https://news.ycombinator.com/item?id=35393292) - [The PlanetScale GitHub Actions](https://planetscale.com/blog/announcing-the-planetscale-github-actions)
