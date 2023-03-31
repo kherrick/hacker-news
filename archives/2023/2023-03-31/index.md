@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 07:07:56](https://news.ycombinator.com/item?id=35383672) - [Immutable Linux Distributions for Those Looking to Embrace the Future](https://itsfoss.com/immutable-linux-distros/)
 * [2023-03-31, 07:06:53](https://news.ycombinator.com/item?id=35383662) - [Decreasing the Number of Memory Accesses 1&#x2F;2](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-1-2/)
 * [2023-03-31, 05:02:22](https://news.ycombinator.com/item?id=35382789) - [Nuclear Power Is Too Safe](https://jackdevanney.substack.com/p/nuclear-power-is-too-safe)
 * [2023-03-31, 04:57:03](https://news.ycombinator.com/item?id=35382769) - [Show HN: Random Aerial Airport Views](https://randomairport.onrender.com/)
