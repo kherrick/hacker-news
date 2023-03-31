@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
 * [2023-03-31, 11:20:37](https://news.ycombinator.com/item?id=35385339) - [Italian Data Protection Authority Clamps Down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
+* [2023-03-31, 10:56:55](https://news.ycombinator.com/item?id=35385131) - [Nim 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
+* [2023-03-31, 10:49:15](https://news.ycombinator.com/item?id=35385075) - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
 * [2023-03-31, 10:45:02](https://news.ycombinator.com/item?id=35385032) - [Ask HN: AI also read books, Human also. What&#x27;s the difference?](https://news.ycombinator.com/item?id=35385032)
 * [2023-03-31, 09:53:57](https://news.ycombinator.com/item?id=35384691) - [Helix: Release 23.03 Highlights](https://helix-editor.com/news/release-23-03-highlights/)
 * [2023-03-31, 09:47:03](https://news.ycombinator.com/item?id=35384652) - [British government mocked for advertising head of cyber role with £57K salary](https://therecord.media/head-of-cyber-role-salary-uk-hm-treasury)
