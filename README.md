@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 14:47:56](https://news.ycombinator.com/item?id=35387954) - [Reflections on 10k Hours of DevOps](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
 * [2023-03-31, 14:38:27](https://news.ycombinator.com/item?id=35387822) - [BigQuery prices increasing by more than 100% for many users](https://cloud.google.com/blog/products/data-analytics/introducing-new-bigquery-pricing-editions)
 * [2023-03-31, 14:22:28](https://news.ycombinator.com/item?id=35387584) - [Video shows ‘ghost co-driver’ added to trucker’s ELD to skirt HOS rules](https://www.freightwaves.com/news/video-shows-ghost-co-driver-added-to-truckers-eld-to-skirt-hos-rules)
 * [2023-03-31, 13:54:06](https://news.ycombinator.com/item?id=35387191) - [75% of the Most Played Games on Steam Are Playable on the Steam Deck](https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/)
@@ -26,7 +27,6 @@
 * [2023-03-30, 15:50:42](https://news.ycombinator.com/item?id=35374639) - [Launch HN: Noya (YC W23) – a new kind of design tool](https://news.ycombinator.com/item?id=35374639)
 * [2023-03-30, 12:39:59](https://news.ycombinator.com/item?id=35371722) - [How the Graphic Designer Milton Glaser Made America Cool Again](https://www.newyorker.com/magazine/2023/03/27/how-the-graphic-designer-milton-glaser-made-america-cool-again)
 * [2023-03-30, 12:00:33](https://news.ycombinator.com/item?id=35371291) - [Self-Service SBOMs](https://github.blog/2023-03-28-introducing-self-service-sboms/)
-* [2023-03-30, 09:02:29](https://news.ycombinator.com/item?id=35369917) - [Mini-Consortia Forming Around Chiplets](https://semiengineering.com/mini-consortia-forming-around-chiplets/)
 * [2023-03-30, 08:42:56](https://news.ycombinator.com/item?id=35369773) - [Brains speed up perception by guessing what&#x27;s next (2019)](https://www.quantamagazine.org/brains-speed-up-perception-by-guessing-whats-next-20190502/)
 * [2023-03-29, 19:13:02](https://news.ycombinator.com/item?id=35361849) - [Our Man in Ajmer](https://literaryreview.co.uk/our-man-in-ajmer)
 * [2023-03-29, 12:04:47](https://news.ycombinator.com/item?id=35355926) - [Data Structures for Text Sequences (1998) [pdf]](https://www.cs.unm.edu/~crowley/papers/sds.pdf)
