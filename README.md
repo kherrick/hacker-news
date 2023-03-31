@@ -23,11 +23,11 @@
 * [2023-03-30, 14:17:06](https://news.ycombinator.com/item?id=35373052) - [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
 * [2023-03-30, 14:14:36](https://news.ycombinator.com/item?id=35373019) - [Is Y Combinator worth the money? Brutally honest review of W22 batch experience](https://acecreamu.substack.com/p/is-y-combinator-worth-the-money)
 * [2023-03-30, 12:47:08](https://news.ycombinator.com/item?id=35371796) - [A History of Army Information Operations](https://tnsr.org/2023/01/the-organizational-determinants-of-military-doctrine-a-history-of-army-information-operations/)
-* [2023-03-30, 12:42:21](https://news.ycombinator.com/item?id=35371750) - [There&#x27;s something off about LED bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html)
 * [2023-03-30, 11:38:38](https://news.ycombinator.com/item?id=35371122) - [One man’s quest to revive the great American vacuum tube](https://www.wired.com/story/one-mans-quest-to-revive-the-great-american-vacuum-tube/)
 * [2023-03-30, 11:22:14](https://news.ycombinator.com/item?id=35370972) - [How to Read MySQL EXPLAINs](https://planetscale.com/blog/how-read-mysql-explains)
 * [2023-03-30, 09:11:39](https://news.ycombinator.com/item?id=35369983) - [Show HN: Open-Source Webhooks Gateway for Platform Engineers](https://github.com/frain-dev/convoy)
 * [2023-03-30, 09:02:29](https://news.ycombinator.com/item?id=35369917) - [Mini-Consortia Forming Around Chiplets](https://semiengineering.com/mini-consortia-forming-around-chiplets/)
+* [2023-03-30, 07:26:39](https://news.ycombinator.com/item?id=35369279) - [Retool Database](https://retool.com/blog/rdb/)
 * [2023-03-30, 05:57:31](https://news.ycombinator.com/item?id=35368636) - [Better World Books](https://www.betterworldbooks.com/)
 * [2023-03-29, 20:55:40](https://news.ycombinator.com/item?id=35363467) - [An Unstandardized, Decentralized Carnival Fire: How Rare Books Are Cataloged](https://lithub.com/an-unstandardized-decentralized-carnival-fire-how-rare-books-are-cataloged/)
 
