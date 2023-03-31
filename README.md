@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 16:14:44](https://news.ycombinator.com/item?id=35389306) - [Shiba Inu cloud credentials leaked on a public repository](https://blog.pingsafe.com/shiba-inu-cloud-credentials-leaked-in-a-major-security-breach-394ad54382c1)
 * [2023-03-31, 16:02:50](https://news.ycombinator.com/item?id=35389110) - [Launch HN: Inri (YC W23) – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
 * [2023-03-31, 15:57:11](https://news.ycombinator.com/item?id=35389021) - [GM is ditching CarPlay in all future EVs and teaming up with Google instead](https://9to5mac.com/2023/03/31/gm-carplay-support-ev/)
 * [2023-03-31, 15:43:00](https://news.ycombinator.com/item?id=35388818) - [A Quarter Century of Mozilla](https://blog.mozilla.org/en/mozilla/mitchell-baker-mozilla-25-anniversary/)
@@ -28,7 +29,6 @@
 * [2023-03-30, 12:39:59](https://news.ycombinator.com/item?id=35371722) - [How the Graphic Designer Milton Glaser Made America Cool Again](https://www.newyorker.com/magazine/2023/03/27/how-the-graphic-designer-milton-glaser-made-america-cool-again)
 * [2023-03-30, 12:00:33](https://news.ycombinator.com/item?id=35371291) - [Self-Service SBOMs](https://github.blog/2023-03-28-introducing-self-service-sboms/)
 * [2023-03-30, 08:42:56](https://news.ycombinator.com/item?id=35369773) - [Brains speed up perception by guessing what&#x27;s next (2019)](https://www.quantamagazine.org/brains-speed-up-perception-by-guessing-whats-next-20190502/)
-* [2023-03-29, 19:13:02](https://news.ycombinator.com/item?id=35361849) - [Our Man in Ajmer](https://literaryreview.co.uk/our-man-in-ajmer)
 * [2023-03-29, 08:01:46](https://news.ycombinator.com/item?id=35354030) - [BananaHackers Wiki – KaiOS modding community](https://wiki.bananahackers.net/)
 
 ## [Archives](archives/index.md)

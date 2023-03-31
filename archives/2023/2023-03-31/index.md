@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 16:14:44](https://news.ycombinator.com/item?id=35389306) - [Shiba Inu cloud credentials leaked on a public repository](https://blog.pingsafe.com/shiba-inu-cloud-credentials-leaked-in-a-major-security-breach-394ad54382c1)
 * [2023-03-31, 16:02:50](https://news.ycombinator.com/item?id=35389110) - [Launch HN: Inri (YC W23) – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
 * [2023-03-31, 15:57:11](https://news.ycombinator.com/item?id=35389021) - [GM is ditching CarPlay in all future EVs and teaming up with Google instead](https://9to5mac.com/2023/03/31/gm-carplay-support-ev/)
 * [2023-03-31, 15:43:00](https://news.ycombinator.com/item?id=35388818) - [A Quarter Century of Mozilla](https://blog.mozilla.org/en/mozilla/mitchell-baker-mozilla-25-anniversary/)
