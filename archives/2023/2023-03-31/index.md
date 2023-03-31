@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 13:39:46](https://news.ycombinator.com/item?id=35387000) - [NYPD is refusing to comply with NYC’s new surveillance tech laws](https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/)
 * [2023-03-31, 12:55:19](https://news.ycombinator.com/item?id=35386405) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 12:01:31](https://news.ycombinator.com/item?id=35385732) - [PyCharm 2023.1](https://www.jetbrains.com/pycharm/whatsnew/)
 * [2023-03-31, 12:00:48](https://news.ycombinator.com/item?id=35385721) - [Finley (YC W21) is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
