@@ -6,6 +6,7 @@
 
 * [2023-03-31, 18:45:14](https://news.ycombinator.com/item?id=35391484) - [The Twitter Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 18:44:15](https://news.ycombinator.com/item?id=35391465) - [A new era of transparency for Twitter](https://blog.twitter.com/en_us/topics/company/2023/a-new-era-of-transparency-for-twitter)
+* [2023-03-31, 18:42:22](https://news.ycombinator.com/item?id=35391436) - [ChatGPT – The Revolutionary Bullshit Parrot](https://www.reasonfieldlab.com/post/chatgpt-the-revolutionary-bullshit-parrot?)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter open sourced the recommendation engine](https://github.com/twitter/the-algorithm-ml)
 * [2023-03-31, 18:21:07](https://news.ycombinator.com/item?id=35391115) - [Could you train a ChatGPT-beating model for $85,000 and run it in a browser?](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/)
 * [2023-03-31, 18:07:04](https://news.ycombinator.com/item?id=35390853) - [Heat pump sales outpaced gas furnace sales in the US in 2022](https://electrek.co/2023/03/31/heat-pump-sales-2022/)
@@ -21,6 +22,7 @@
 * [2023-03-31, 16:02:50](https://news.ycombinator.com/item?id=35389110) - [Launch HN: Inri (YC W23) – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
 * [2023-03-31, 15:57:11](https://news.ycombinator.com/item?id=35389021) - [GM plans to phase out Apple CarPlay in EVs, with Google&#x27;s help](https://finance.yahoo.com/news/gm-plans-phase-apple-carplay-140319747.html)
 * [2023-03-31, 15:57:11](https://news.ycombinator.com/item?id=35389021) - [GM is ditching CarPlay in all future EVs and teaming up with Google instead](https://9to5mac.com/2023/03/31/gm-carplay-support-ev/)
+* [2023-03-31, 15:48:46](https://news.ycombinator.com/item?id=35388905) - [Tax Season: Why I loathe paying taxes since moving to CA from the UK](https://angelfish.app/articles/why-we-shouldnt-pay-more-taxes)
 * [2023-03-31, 15:43:00](https://news.ycombinator.com/item?id=35388818) - [A Quarter Century of Mozilla](https://blog.mozilla.org/en/mozilla/mitchell-baker-mozilla-25-anniversary/)
 * [2023-03-31, 15:10:48](https://news.ycombinator.com/item?id=35388281) - [Show HN: Actio, a (young) Node.js framework that makes microservices invisible](https://github.com/crufters/actio)
 * [2023-03-31, 14:47:56](https://news.ycombinator.com/item?id=35387954) - [Reflections on 10k Hours of DevOps](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
