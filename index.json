@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-31, 17:22:19",
+      "https://news.ycombinator.com/item?id=35390153"
+    ],
+    [
+      "HuggingGPT: Solving AI Tasks with ChatGPT and Its Friends in HuggingFace",
+      "https://arxiv.org/abs/2303.17580"
+    ]
+  ],
+  [
+    [
       "2023-03-31, 17:01:09",
       "https://news.ycombinator.com/item?id=35389959"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2023-03-31, 15:10:48",
-      "https://news.ycombinator.com/item?id=35388281"
+      "2023-03-31, 15:57:11",
+      "https://news.ycombinator.com/item?id=35389021"
     ],
     [
-      "Show HN: Actio, a (young) Node.js framework that makes microservices invisible",
-      "https://github.com/crufters/actio"
+      "GM is ditching CarPlay in all future EVs and teaming up with Google instead",
+      "https://9to5mac.com/2023/03/31/gm-carplay-support-ev/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Cosine Implementation in C",
       "https://github.com/ifduyue/musl/blob/master/src/math/__cos.c"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 02:35:38",
-      "https://news.ycombinator.com/item?id=35381755"
-    ],
-    [
-      "When SVG almost got network support for raw sockets",
-      "https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/"
     ]
   ],
   [
