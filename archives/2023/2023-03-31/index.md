@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 12:55:19](https://news.ycombinator.com/item?id=35386405) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 12:01:31](https://news.ycombinator.com/item?id=35385732) - [PyCharm 2023.1](https://www.jetbrains.com/pycharm/whatsnew/)
 * [2023-03-31, 12:00:48](https://news.ycombinator.com/item?id=35385721) - [Finley (YC W21) is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
 * [2023-03-31, 11:31:23](https://news.ycombinator.com/item?id=35385452) - [If AI scaling is to be shut down, let it be for a coherent reason](https://scottaaronson.blog/?p=7174)
 * [2023-03-31, 11:25:19](https://news.ycombinator.com/item?id=35385384) - [The Machine That Bankrupted Mark Twain](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
+* [2023-03-31, 11:20:37](https://news.ycombinator.com/item?id=35385339) - [Italian data protection authority clamps down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847#english)
 * [2023-03-31, 11:20:37](https://news.ycombinator.com/item?id=35385339) - [Italian Data Protection Authority Clamps Down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
 * [2023-03-31, 10:56:55](https://news.ycombinator.com/item?id=35385131) - [Nim 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 * [2023-03-31, 10:49:15](https://news.ycombinator.com/item?id=35385075) - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
