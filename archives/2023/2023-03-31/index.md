@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 16:02:50](https://news.ycombinator.com/item?id=35389110) - [Launch HN: Inri (YC W23) – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
+* [2023-03-31, 15:43:00](https://news.ycombinator.com/item?id=35388818) - [A Quarter Century of Mozilla](https://blog.mozilla.org/en/mozilla/mitchell-baker-mozilla-25-anniversary/)
 * [2023-03-31, 14:47:56](https://news.ycombinator.com/item?id=35387954) - [Reflections on 10k Hours of DevOps](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
 * [2023-03-31, 14:38:27](https://news.ycombinator.com/item?id=35387822) - [BigQuery prices increasing by more than 100% for many users](https://cloud.google.com/blog/products/data-analytics/introducing-new-bigquery-pricing-editions)
 * [2023-03-31, 14:22:28](https://news.ycombinator.com/item?id=35387584) - [Video shows ‘ghost co-driver’ added to trucker’s ELD to skirt HOS rules](https://www.freightwaves.com/news/video-shows-ghost-co-driver-added-to-truckers-eld-to-skirt-hos-rules)
+* [2023-03-31, 14:21:09](https://news.ycombinator.com/item?id=35387563) - [Custom Styles in GitHub Readme Files (2020)](https://css-tricks.com/custom-styles-in-github-readmes/)
 * [2023-03-31, 13:55:33](https://news.ycombinator.com/item?id=35387220) - [ChatGPT banned in Italy over privacy concerns](https://www.bbc.com/news/technology-65139406)
 * [2023-03-31, 13:54:06](https://news.ycombinator.com/item?id=35387191) - [75% of the Most Played Games on Steam Are Playable on the Steam Deck](https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/)
 * [2023-03-31, 13:51:33](https://news.ycombinator.com/item?id=35387160) - [Show HN: Multi-Display Screen Sharing with CoScreen by Datadog](https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/)

@@ -80,6 +80,7 @@
 * [2023-03-29, 08:30:27](https://news.ycombinator.com/item?id=35354229) - [Ask HN: How many hours do you work on a daily basis?](https://news.ycombinator.com/item?id=35354229)
 * [2023-03-29, 08:29:53](https://news.ycombinator.com/item?id=35354226) - [IETF – Messaging Layer Security: Secure and Usable End-to-End Encryption](https://www.ietf.org/blog/mls-secure-and-usable-end-to-end-encryption/)
 * [2023-03-29, 08:02:04](https://news.ycombinator.com/item?id=35354032) - [Open source espresso machine is one delicious rabbit hole inside another](https://arstechnica.com/gadgets/2023/03/great-espresso-isnt-hard-enough-so-heres-a-diy-open-source-machine-for-it/)
+* [2023-03-29, 08:01:46](https://news.ycombinator.com/item?id=35354030) - [BananaHackers Wiki – KaiOS modding community](https://wiki.bananahackers.net/)
 * [2023-03-29, 07:51:08](https://news.ycombinator.com/item?id=35353946) - [Mathematicians Find New 13-Sided Shape Called &#x27;The Hat&#x27;](https://gizmodo.com/new-13-sided-shape-the-hat-tiles-aperiodic-monotile-1850268575)
 * [2023-03-29, 07:38:43](https://news.ycombinator.com/item?id=35353871) - [Show HN: Atmos – Everything you need to create color palettes](https://atmos.style)
 * [2023-03-29, 07:34:29](https://news.ycombinator.com/item?id=35353843) - [Now ChatGPT is being (mis)used to do PeerReview](https://mstdn.science/@ukrio/110100752908161183)
