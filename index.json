@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-03-31, 05:02:22",
+      "https://news.ycombinator.com/item?id=35382789"
+    ],
+    [
+      "Nuclear Power Is Too Safe",
+      "https://jackdevanney.substack.com/p/nuclear-power-is-too-safe"
+    ]
+  ],
+  [
+    [
       "2023-03-31, 04:57:03",
       "https://news.ycombinator.com/item?id=35382769"
     ],
     [
       "Show HN: Random Aerial Airport Views",
       "https://randomairport.onrender.com/"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 04:45:55",
+      "https://news.ycombinator.com/item?id=35382698"
+    ],
+    [
+      "AI-enhanced development makes me more ambitious with my projects",
+      "https://simonwillison.net/2023/Mar/27/ai-enhanced-development/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-03-30, 17:01:06",
-      "https://news.ycombinator.com/item?id=35375807"
-    ],
-    [
-      "Kraftful (YC S19) Hiring Founding Eng to Build an AI Co-Pilot for Product Folks",
-      "https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer"
-    ]
-  ],
-  [
-    [
       "2023-03-30, 16:56:38",
       "https://news.ycombinator.com/item?id=35375727"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-03-30, 11:22:14",
-      "https://news.ycombinator.com/item?id=35370972"
-    ],
-    [
-      "How to Read MySQL EXPLAINs",
-      "https://planetscale.com/blog/how-read-mysql-explains"
-    ]
-  ],
-  [
-    [
       "2023-03-30, 09:11:39",
       "https://news.ycombinator.com/item?id=35369983"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2023-03-30, 07:26:39",
-      "https://news.ycombinator.com/item?id=35369279"
-    ],
-    [
-      "Retool Database",
-      "https://retool.com/blog/rdb/"
-    ]
-  ],
-  [
-    [
       "2023-03-30, 05:57:31",
       "https://news.ycombinator.com/item?id=35368636"
     ],
@@ -297,6 +287,16 @@
     [
       "An Unstandardized, Decentralized Carnival Fire: How Rare Books Are Cataloged",
       "https://lithub.com/an-unstandardized-decentralized-carnival-fire-how-rare-books-are-cataloged/"
+    ]
+  ],
+  [
+    [
+      "2023-03-29, 12:04:47",
+      "https://news.ycombinator.com/item?id=35355926"
+    ],
+    [
+      "Data Structures for Text Sequences (1998)",
+      "https://www.cs.unm.edu/~crowley/papers/sds.pdf"
     ]
   ]
 ]
