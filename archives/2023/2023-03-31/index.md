@@ -9,6 +9,7 @@
 * [2023-03-31, 18:44:15](https://news.ycombinator.com/item?id=35391465) - [A new era of transparency for Twitter](https://blog.twitter.com/en_us/topics/company/2023/a-new-era-of-transparency-for-twitter)
 * [2023-03-31, 18:42:22](https://news.ycombinator.com/item?id=35391436) - [ChatGPT – The Revolutionary Bullshit Parrot](https://www.reasonfieldlab.com/post/chatgpt-the-revolutionary-bullshit-parrot?)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter open sourced the recommendation engine](https://github.com/twitter/the-algorithm-ml)
+* [2023-03-31, 18:37:44](https://news.ycombinator.com/item?id=35391370) - [German Police Raid DDoS-Friendly Host ‘FlyHosting’](https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/)
 * [2023-03-31, 18:21:07](https://news.ycombinator.com/item?id=35391115) - [Could you train a ChatGPT-beating model for $85,000 and run it in a browser?](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/)
 * [2023-03-31, 18:07:04](https://news.ycombinator.com/item?id=35390853) - [Heat pump sales outpaced gas furnace sales in the US in 2022](https://electrek.co/2023/03/31/heat-pump-sales-2022/)
 * [2023-03-31, 17:35:31](https://news.ycombinator.com/item?id=35390348) - [Game Over: Steam won’t Run on Windows 7 and 8 after January 2024](https://arstechnica.com/gadgets/2023/03/steam-will-end-support-for-windows-7-and-8-in-january-of-2024/)

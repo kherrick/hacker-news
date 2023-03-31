@@ -20,6 +20,7 @@
 * [2023-03-30, 20:59:29](https://news.ycombinator.com/item?id=35378758) - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
 * [2023-03-30, 20:52:49](https://news.ycombinator.com/item?id=35378683) - [GPT-4 Says an Open-Source Chatbot Vicuna Reaches 90% ChatGPT Quality](https://vicuna.lmsys.org/)
 * [2023-03-30, 20:37:56](https://news.ycombinator.com/item?id=35378521) - [Faiss: A library for efficient similarity search](https://github.com/facebookresearch/faiss)
+* [2023-03-30, 20:01:15](https://news.ycombinator.com/item?id=35378109) - [The undocumented Android change that led to aCropalypse was reported during beta](https://iliana.fyi/blog/acropalypse-now/)
 * [2023-03-30, 19:49:28](https://news.ycombinator.com/item?id=35377935) - [You probably shouldn&#x27;t use OpenAI&#x27;s embeddings](https://iamnotarobot.substack.com/p/should-you-use-openais-embeddings)
 * [2023-03-30, 19:48:52](https://news.ycombinator.com/item?id=35377926) - [RFdiffusion: Diffusion model generates protein backbones](https://github.com/RosettaCommons/RFdiffusion)
 * [2023-03-30, 19:38:30](https://news.ycombinator.com/item?id=35377826) - [Developer Tools 2.0](https://www.sequoiacap.com/article/ai-powered-developer-tools/)
