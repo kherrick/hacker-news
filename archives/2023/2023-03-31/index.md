@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 23:08:32](https://news.ycombinator.com/item?id=35395001) - [Please delete 2M files to continue using your Google Drive account](https://old.reddit.com/r/google/comments/123fjx8/google_has_applied_a_5_million_items_limit_for/)
 * [2023-03-31, 22:42:57](https://news.ycombinator.com/item?id=35394758) - [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
 * [2023-03-31, 22:24:27](https://news.ycombinator.com/item?id=35394553) - [Show HN: Simply explain 20k concepts using GPT](https://platoeducation.ai/#/notes/)
 * [2023-03-31, 21:58:24](https://news.ycombinator.com/item?id=35394217) - [NYPD blues: Cops ignored 93 percent of surveillance law rules](https://www.theregister.com/2023/03/31/nypd_surveillance_rules/)
@@ -74,6 +75,7 @@
 * [2023-03-31, 07:07:56](https://news.ycombinator.com/item?id=35383672) - [Immutable Linux Distributions for Those Looking to Embrace the Future](https://itsfoss.com/immutable-linux-distros/)
 * [2023-03-31, 07:06:53](https://news.ycombinator.com/item?id=35383662) - [Decreasing the Number of Memory Accesses 1&#x2F;2](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-1-2/)
 * [2023-03-31, 06:39:05](https://news.ycombinator.com/item?id=35383488) - [Virgin Orbit: Sir Richard Branson&#x27;s rocket company lays off 85% of staff](https://www.bbc.co.uk/news/business-65133099)
+* [2023-03-31, 06:00:56](https://news.ycombinator.com/item?id=35383195) - [Entwined African and Asian genetic roots of medieval people of the Swahili coast](https://www.nature.com/articles/s41586-023-05754-w)
 * [2023-03-31, 05:02:22](https://news.ycombinator.com/item?id=35382789) - [Nuclear Power Is Too Safe](https://jackdevanney.substack.com/p/nuclear-power-is-too-safe)
 * [2023-03-31, 04:57:03](https://news.ycombinator.com/item?id=35382769) - [Show HN: Random Aerial Airport Views](https://randomairport.onrender.com/)
 * [2023-03-31, 04:45:55](https://news.ycombinator.com/item?id=35382698) - [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
