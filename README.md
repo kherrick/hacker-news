@@ -24,12 +24,12 @@
 * [2023-03-31, 02:35:38](https://news.ycombinator.com/item?id=35381755) - [When SVG almost got network support for raw sockets](https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/)
 * [2023-03-30, 16:56:38](https://news.ycombinator.com/item?id=35375727) - [Launch HN: Baseplate (YC W23) – Back end-as-a-service for LLM apps](https://news.ycombinator.com/item?id=35375727)
 * [2023-03-30, 15:50:42](https://news.ycombinator.com/item?id=35374639) - [Launch HN: Noya (YC W23) – a new kind of design tool](https://news.ycombinator.com/item?id=35374639)
+* [2023-03-30, 14:17:06](https://news.ycombinator.com/item?id=35373052) - [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
 * [2023-03-30, 12:39:59](https://news.ycombinator.com/item?id=35371722) - [How the Graphic Designer Milton Glaser Made America Cool Again](https://www.newyorker.com/magazine/2023/03/27/how-the-graphic-designer-milton-glaser-made-america-cool-again)
 * [2023-03-30, 12:00:33](https://news.ycombinator.com/item?id=35371291) - [Self-Service SBOMs](https://github.blog/2023-03-28-introducing-self-service-sboms/)
 * [2023-03-30, 09:02:29](https://news.ycombinator.com/item?id=35369917) - [Mini-Consortia Forming Around Chiplets](https://semiengineering.com/mini-consortia-forming-around-chiplets/)
 * [2023-03-30, 08:42:56](https://news.ycombinator.com/item?id=35369773) - [Brains speed up perception by guessing what&#x27;s next (2019)](https://www.quantamagazine.org/brains-speed-up-perception-by-guessing-whats-next-20190502/)
 * [2023-03-29, 19:13:02](https://news.ycombinator.com/item?id=35361849) - [Our Man in Ajmer](https://literaryreview.co.uk/our-man-in-ajmer)
-* [2023-03-29, 12:04:47](https://news.ycombinator.com/item?id=35355926) - [Data Structures for Text Sequences (1998) [pdf]](https://www.cs.unm.edu/~crowley/papers/sds.pdf)
 
 ## [Archives](archives/index.md)
 
