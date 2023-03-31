@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 14:38:27](https://news.ycombinator.com/item?id=35387822) - [BigQuery prices increasing by more than 100% for many users](https://cloud.google.com/blog/products/data-analytics/introducing-new-bigquery-pricing-editions)
+* [2023-03-31, 14:22:28](https://news.ycombinator.com/item?id=35387584) - [Video shows ‘ghost co-driver’ added to trucker’s ELD to skirt HOS rules](https://www.freightwaves.com/news/video-shows-ghost-co-driver-added-to-truckers-eld-to-skirt-hos-rules)
 * [2023-03-31, 13:54:06](https://news.ycombinator.com/item?id=35387191) - [75% of the Most Played Games on Steam Are Playable on the Steam Deck](https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/)
 * [2023-03-31, 13:51:33](https://news.ycombinator.com/item?id=35387160) - [Show HN: Multi-Display Screen Sharing with CoScreen by Datadog](https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/)
 * [2023-03-31, 13:39:46](https://news.ycombinator.com/item?id=35387000) - [NYPD is refusing to comply with NYC’s new surveillance tech laws](https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/)
@@ -7,8 +9,6 @@
 * [2023-03-31, 12:55:19](https://news.ycombinator.com/item?id=35386405) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 12:00:48](https://news.ycombinator.com/item?id=35385721) - [Finley (YC W21) is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
 * [2023-03-31, 11:31:23](https://news.ycombinator.com/item?id=35385452) - [If AI scaling is to be shut down, let it be for a coherent reason](https://scottaaronson.blog/?p=7174)
-* [2023-03-31, 11:25:19](https://news.ycombinator.com/item?id=35385384) - [The Machine That Bankrupted Mark Twain](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
-* [2023-03-31, 11:20:37](https://news.ycombinator.com/item?id=35385339) - [Italian data protection authority clamps down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847#english)
 * [2023-03-31, 10:56:55](https://news.ycombinator.com/item?id=35385131) - [Nim 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 * [2023-03-31, 10:49:15](https://news.ycombinator.com/item?id=35385075) - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
 * [2023-03-31, 10:43:22](https://news.ycombinator.com/item?id=35385019) - [Pairing With GPT-4](https://fly.io/ruby-dispatch/pairing-with-gpt-4/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 14:38:27](https://news.ycombinator.com/item?id=35387822) - [BigQuery prices increasing by more than 100% for many users](https://cloud.google.com/blog/products/data-analytics/introducing-new-bigquery-pricing-editions)
+* [2023-03-31, 14:22:28](https://news.ycombinator.com/item?id=35387584) - [Video shows ‘ghost co-driver’ added to trucker’s ELD to skirt HOS rules](https://www.freightwaves.com/news/video-shows-ghost-co-driver-added-to-truckers-eld-to-skirt-hos-rules)
 * [2023-03-31, 13:54:06](https://news.ycombinator.com/item?id=35387191) - [75% of the Most Played Games on Steam Are Playable on the Steam Deck](https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/)
 * [2023-03-31, 13:51:33](https://news.ycombinator.com/item?id=35387160) - [Show HN: Multi-Display Screen Sharing with CoScreen by Datadog](https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/)
 * [2023-03-31, 13:39:46](https://news.ycombinator.com/item?id=35387000) - [NYPD is refusing to comply with NYC’s new surveillance tech laws](https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/)
