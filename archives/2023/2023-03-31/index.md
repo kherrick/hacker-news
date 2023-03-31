@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 20:38:01](https://news.ycombinator.com/item?id=35393292) - [The PlanetScale GitHub Actions](https://planetscale.com/blog/announcing-the-planetscale-github-actions)
+* [2023-03-31, 20:37:50](https://news.ycombinator.com/item?id=35393284) - [Llama.cpp 30B runs with only 6GB of RAM now](https://github.com/ggerganov/llama.cpp/pull/613)
+* [2023-03-31, 20:21:16](https://news.ycombinator.com/item?id=35393040) - [The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
 * [2023-03-31, 19:51:45](https://news.ycombinator.com/item?id=35392563) - [Twitter&#x27;s Open Source Algorithm – Unveiling the code, but not the secrets](https://www.shaped.ai/blog/twitters-open-source-algorithm-unveiling-the-code-but-not-the-secrets)
 * [2023-03-31, 19:17:26](https://news.ycombinator.com/item?id=35392010) - [Bittrex to Cease Operations](https://bittrex.com/discover/important-message-for-bittrex-u-s-customers)
 * [2023-03-31, 18:45:14](https://news.ycombinator.com/item?id=35391484) - [The Twitter Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 18:44:15](https://news.ycombinator.com/item?id=35391465) - [A new era of transparency for Twitter](https://blog.twitter.com/en_us/topics/company/2023/a-new-era-of-transparency-for-twitter)
 * [2023-03-31, 18:42:22](https://news.ycombinator.com/item?id=35391436) - [ChatGPT – The Revolutionary Bullshit Parrot](https://www.reasonfieldlab.com/post/chatgpt-the-revolutionary-bullshit-parrot?)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter open sourced the recommendation engine](https://github.com/twitter/the-algorithm-ml)
+* [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter open sourced the recommendation engine](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 18:37:44](https://news.ycombinator.com/item?id=35391370) - [German Police Raid DDoS-Friendly Host ‘FlyHosting’](https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/)
 * [2023-03-31, 18:21:07](https://news.ycombinator.com/item?id=35391115) - [Could you train a ChatGPT-beating model for $85,000 and run it in a browser?](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/)
 * [2023-03-31, 18:07:04](https://news.ycombinator.com/item?id=35390853) - [Heat pump sales outpaced gas furnace sales in the US in 2022](https://electrek.co/2023/03/31/heat-pump-sales-2022/)
