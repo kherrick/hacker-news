@@ -57,6 +57,7 @@
 * [2023-03-30, 12:02:56](https://news.ycombinator.com/item?id=35371315) - [Is hand coding becoming obsolete?](https://www.deusinmachina.net/p/how-we-code-is-changing)
 * [2023-03-30, 12:01:18](https://news.ycombinator.com/item?id=35371296) - [Bloomberg sponsors curl with 10K USD](https://mastodon.social/@bagder/110102954036946925)
 * [2023-03-30, 12:00:46](https://news.ycombinator.com/item?id=35371293) - [Laudspeaker hiring Product Eng for open source customer journey automation](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
+* [2023-03-30, 12:00:33](https://news.ycombinator.com/item?id=35371291) - [Self-Service SBOMs](https://github.blog/2023-03-28-introducing-self-service-sboms/)
 * [2023-03-30, 11:57:08](https://news.ycombinator.com/item?id=35371261) - [Streaming company Roku to lay off 6% workforce](https://www.reuters.com/technology/streaming-device-maker-roku-cut-200-jobs-second-round-layoffs-2023-03-30/)
 * [2023-03-30, 11:48:31](https://news.ycombinator.com/item?id=35371182) - [Mach 3.5 Over Libya in an SR-71 Blackbird](https://www.thesr71blackbird.com/Aircraft/Stories/mach-35-over-libya-in-an-sr-71-blackbird)
 * [2023-03-30, 11:38:38](https://news.ycombinator.com/item?id=35371122) - [One Man’s Quest to Revive the Great American Vacuum Tube](https://www.wired.com/story/one-mans-quest-to-revive-the-great-american-vacuum-tube/)
