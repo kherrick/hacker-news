@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 19:17:26](https://news.ycombinator.com/item?id=35392010) - [Bittrex to Cease Operations](https://bittrex.com/discover/important-message-for-bittrex-u-s-customers)
 * [2023-03-31, 18:45:14](https://news.ycombinator.com/item?id=35391484) - [The Twitter Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 18:44:15](https://news.ycombinator.com/item?id=35391465) - [A new era of transparency for Twitter](https://blog.twitter.com/en_us/topics/company/2023/a-new-era-of-transparency-for-twitter)
 * [2023-03-31, 18:42:22](https://news.ycombinator.com/item?id=35391436) - [ChatGPT – The Revolutionary Bullshit Parrot](https://www.reasonfieldlab.com/post/chatgpt-the-revolutionary-bullshit-parrot?)
@@ -29,7 +30,6 @@
 * [2023-03-30, 18:13:43](https://news.ycombinator.com/item?id=35376863) - [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
 * [2023-03-30, 12:39:59](https://news.ycombinator.com/item?id=35371722) - [Milton Glaser made America cool again](https://www.newyorker.com/magazine/2023/03/27/how-the-graphic-designer-milton-glaser-made-america-cool-again)
 * [2023-03-30, 00:22:52](https://news.ycombinator.com/item?id=35365955) - [On the audiences and authors of midwifery manuals](https://www.laphamsquarterly.org/roundtable/learning-better-house-or-land)
-* [2023-03-29, 19:13:02](https://news.ycombinator.com/item?id=35361849) - [Our Man in Ajmer](https://literaryreview.co.uk/our-man-in-ajmer)
 
 ## [Archives](archives/index.md)
 
