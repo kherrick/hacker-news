@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-03-31, 11:20:37](https://news.ycombinator.com/item?id=35385339) - [Italian Data Protection Authority Clamps Down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
-* [2023-03-31, 10:45:02](https://news.ycombinator.com/item?id=35385032) - [Ask HN: AI also read books, Human also. What&#x27;s the difference?](https://news.ycombinator.com/item?id=35385032)
+* [2023-03-31, 10:45:02](https://news.ycombinator.com/item?id=35385032) - [Ask HN: AI read books, Human also. What&#x27;s the difference?](https://news.ycombinator.com/item?id=35385032)
 * [2023-03-31, 09:53:57](https://news.ycombinator.com/item?id=35384691) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
 * [2023-03-31, 09:47:03](https://news.ycombinator.com/item?id=35384652) - [British government mocked for advertising head of cyber role with £57K salary](https://therecord.media/head-of-cyber-role-salary-uk-hm-treasury)
 * [2023-03-31, 09:45:04](https://news.ycombinator.com/item?id=35384646) - [Ask HN: How to you monetize a tech blog?](https://news.ycombinator.com/item?id=35384646)
