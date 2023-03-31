@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-03-31, 19:51:45](https://news.ycombinator.com/item?id=35392563) - [Twitter&#x27;s Open Source Algorithm – Unveiling the code, but not the secrets](https://www.shaped.ai/blog/twitters-open-source-algorithm-unveiling-the-code-but-not-the-secrets)
 * [2023-03-31, 19:17:26](https://news.ycombinator.com/item?id=35392010) - [Bittrex to Cease Operations](https://bittrex.com/discover/important-message-for-bittrex-u-s-customers)
 * [2023-03-31, 18:45:14](https://news.ycombinator.com/item?id=35391484) - [The Twitter Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 18:44:15](https://news.ycombinator.com/item?id=35391465) - [A new era of transparency for Twitter](https://blog.twitter.com/en_us/topics/company/2023/a-new-era-of-transparency-for-twitter)
@@ -28,7 +29,6 @@
 * [2023-03-30, 22:11:26](https://news.ycombinator.com/item?id=35379498) - [A little-known French archaeologist, finally in the limelight](https://www.washingtonpost.com/books/2023/02/16/empress-of-the-nile-book/)
 * [2023-03-30, 20:01:15](https://news.ycombinator.com/item?id=35378109) - [The undocumented Android change that led to aCropalypse was reported during beta](https://iliana.fyi/blog/acropalypse-now/)
 * [2023-03-30, 18:13:43](https://news.ycombinator.com/item?id=35376863) - [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
-* [2023-03-30, 12:39:59](https://news.ycombinator.com/item?id=35371722) - [Milton Glaser made America cool again](https://www.newyorker.com/magazine/2023/03/27/how-the-graphic-designer-milton-glaser-made-america-cool-again)
 * [2023-03-30, 00:22:52](https://news.ycombinator.com/item?id=35365955) - [On the audiences and authors of midwifery manuals](https://www.laphamsquarterly.org/roundtable/learning-better-house-or-land)
 
 ## [Archives](archives/index.md)
