@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 21:58:24](https://news.ycombinator.com/item?id=35394217) - [NYPD blues: Cops ignored 93 percent of surveillance law rules](https://www.theregister.com/2023/03/31/nypd_surveillance_rules/)
 * [2023-03-31, 21:37:33](https://news.ycombinator.com/item?id=35394007) - [Remove the code in the algorithm that boosts the tweets of Elon](https://github.com/twitter/the-algorithm/pull/160)
 * [2023-03-31, 21:34:07](https://news.ycombinator.com/item?id=35393967) - [Linux vs. Mac](https://news.ycombinator.com/item?id=35393967)
 * [2023-03-31, 21:00:03](https://news.ycombinator.com/item?id=35393579) - [Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer](https://www.tesorio.com/careers#job-openings)
