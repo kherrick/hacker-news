@@ -96,5 +96,6 @@
 * [2023-03-30, 02:09:44](https://news.ycombinator.com/item?id=35366894) - [Exploring C# Optimization Techniques from Entry-Level to Seasoned Veteran](https://initechsolutions.blogspot.com/2022/08/exploring-c-optimization-techniques.html)
 * [2023-03-30, 02:04:39](https://news.ycombinator.com/item?id=35366838) - [Show HN: Marvin – build AI functions that use an LLM as a runtime](https://github.com/PrefectHQ/marvin)
 * [2023-03-30, 00:52:13](https://news.ycombinator.com/item?id=35366209) - [Republican Rand Paul blocks TikTok ban](https://www.wionews.com/world/republican-rand-paul-blocks-tiktok-ban-asks-if-us-is-going-to-be-just-like-china-and-block-free-speech-577130)
+* [2023-03-30, 00:22:52](https://news.ycombinator.com/item?id=35365955) - [On the audiences and authors of midwifery manuals](https://www.laphamsquarterly.org/roundtable/learning-better-house-or-land)
 * [2023-03-30, 00:15:24](https://news.ycombinator.com/item?id=35365894) - [Light-bending gravity reveals one of the biggest black holes ever found](https://phys.org/news/2023-03-light-bending-gravity-reveals-biggest-black.html)
 * [2023-03-30, 00:07:19](https://news.ycombinator.com/item?id=35365816) - [The world can only end once](https://ravisparikh.substack.com/p/this-time-it-really-is-different)
