@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-03-31, 09:53:57](https://news.ycombinator.com/item?id=35384691) - [Helix: Release 23.03 Highlights](https://helix-editor.com/news/release-23-03-highlights/)
+* [2023-03-31, 09:53:57](https://news.ycombinator.com/item?id=35384691) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
 * [2023-03-31, 09:45:04](https://news.ycombinator.com/item?id=35384646) - [Ask HN: How to you monetize a tech blog?](https://news.ycombinator.com/item?id=35384646)
-* [2023-03-31, 09:38:17](https://news.ycombinator.com/item?id=35384610) - [Thunderbird to add automatic encryption after 21 years](https://bugzilla.mozilla.org/show_bug.cgi?id=135636)
+* [2023-03-31, 09:38:17](https://news.ycombinator.com/item?id=35384610) - [Automatically enable or disable end-to-end encryption](https://bugzilla.mozilla.org/show_bug.cgi?id=135636)
 * [2023-03-31, 09:38:03](https://news.ycombinator.com/item?id=35384608) - [Solid-State Battery Has 2x the Energy–and No Anode](https://spectrum.ieee.org/solid-state-battery-no-anode)
 * [2023-03-31, 09:14:02](https://news.ycombinator.com/item?id=35384462) - [Where have all the laid-off tech workers gone?](https://www.economist.com/business/2023/03/27/where-have-all-the-laid-off-tech-workers-gone)
 * [2023-03-31, 08:44:26](https://news.ycombinator.com/item?id=35384313) - [How the EU CHIPS Act Could Build “Innovation Capacity” in Europe](https://spectrum.ieee.org/eu-chips-act-imec)
