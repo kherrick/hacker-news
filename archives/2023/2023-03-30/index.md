@@ -73,6 +73,7 @@
 * [2023-03-30, 09:35:36](https://news.ycombinator.com/item?id=35370152) - [The Twitter API is now effectively unmaintained](https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained)
 * [2023-03-30, 09:11:39](https://news.ycombinator.com/item?id=35369983) - [Show HN: Open-Source Webhooks Gateway for Platform Engineers](https://github.com/frain-dev/convoy)
 * [2023-03-30, 09:02:29](https://news.ycombinator.com/item?id=35369917) - [Mini-Consortia Forming Around Chiplets](https://semiengineering.com/mini-consortia-forming-around-chiplets/)
+* [2023-03-30, 08:42:56](https://news.ycombinator.com/item?id=35369773) - [Brains speed up perception by guessing what&#x27;s next (2019)](https://www.quantamagazine.org/brains-speed-up-perception-by-guessing-whats-next-20190502/)
 * [2023-03-30, 08:12:40](https://news.ycombinator.com/item?id=35369567) - [Legacy auto faces unsellable car disaster in China as pollution crunch looms](https://thedriven.io/2023/03/30/legacy-auto-faces-disaster-in-china-with-unsellable-cars-as-pollution-crunch-looms/)
 * [2023-03-30, 08:04:19](https://news.ycombinator.com/item?id=35369529) - [Rever (YC S22) Is Hiring in Barcelona](https://news.ycombinator.com/item?id=35369529)
 * [2023-03-30, 07:41:51](https://news.ycombinator.com/item?id=35369378) - [Computational Mail for Computer-Supported Cooperative Work (1992)](https://www.guppylake.com/~nsb/CSCW-ATOMICMAIL.txt)
