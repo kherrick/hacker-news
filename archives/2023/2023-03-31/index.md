@@ -93,3 +93,4 @@
 * [2023-03-31, 01:03:50](https://news.ycombinator.com/item?id=35380993) - [Stellantis CEO: There may not be enough raw materials to electrify globe](https://www.detroitnews.com/story/business/autos/2023/03/29/stellantis-carlos-tavares-freedom-mobility-forum-raw-materials-electric-vehicles/70059274007/)
 * [2023-03-31, 00:55:22](https://news.ycombinator.com/item?id=35380939) - [I have never been treated this bad in an interview process in 20 years](https://startupdreams.substack.com/p/i-just-had-the-worst-interview-process)
 * [2023-03-31, 00:37:41](https://news.ycombinator.com/item?id=35380823) - [Gmail is killing independent email](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
+* [2023-03-31, 00:26:27](https://news.ycombinator.com/item?id=35380742) - [Programming Isn’t Coding](https://occasionallycogent.com/programming_isnt_coding/index.html)
