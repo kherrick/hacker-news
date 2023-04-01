@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-01, 16:16:31](https://news.ycombinator.com/item?id=35401436) - [San Francisco could be on the verge of collapse. What should California do?](https://www.sfchronicle.com/opinion/editorials/article/downtown-san-francisco-17852552.php)
-* [2023-04-01, 15:33:36](https://news.ycombinator.com/item?id=35401073) - [The Contradictions of Sam Altman](https://www.wsj.com/articles/chatgpt-sam-altman-artificial-intelligence-openai-b0e1c8c9)
 * [2023-04-01, 14:19:29](https://news.ycombinator.com/item?id=35400511) - [Salesforce is shuttering Slack’s remote work research group Future Forum](https://finance.yahoo.com/news/salesforce-shuttering-slack-remote-research-004925901.html)
 * [2023-04-01, 14:03:29](https://news.ycombinator.com/item?id=35400397) - [Every Day Is April Fool’s Day Now](https://www.vice.com/en/article/5d9p3q/april-fools-day-deepfakes-pope-trump-arrest-gpt)
 * [2023-04-01, 13:44:02](https://news.ycombinator.com/item?id=35400253) - [The surprising roots of Japan&#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
@@ -15,11 +14,11 @@
 * [2023-04-01, 08:03:33](https://news.ycombinator.com/item?id=35398252) - [AMD’s HD 6950 vs. RX 6900 XT: What Does Adding 50 Do?](https://chipsandcheese.com/2023/04/01/amds-hd-6950-vs-rx-6900-xt-what-does-adding-50-do/)
 * [2023-04-01, 08:00:43](https://news.ycombinator.com/item?id=35398235) - [My4TH – A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
 * [2023-04-01, 05:31:06](https://news.ycombinator.com/item?id=35397427) - [PC keyboard hides an interesting secret](https://linuxjedi.co.uk/2023/03/31/this-pc-keyboard-hides-an-interesting-secret/)
+* [2023-04-01, 05:27:52](https://news.ycombinator.com/item?id=35397418) - [Humanness in the Age of AI](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
 * [2023-04-01, 04:26:01](https://news.ycombinator.com/item?id=35397135) - [The xine hacker&#x27;s guide (2003)](http://web.mit.edu/outland/share/doc/xine/hackersguide/hackersguide.html)
 * [2023-04-01, 04:16:46](https://news.ycombinator.com/item?id=35397071) - [Google Drive does a surprise rollout of file limits, locking out some users](https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/)
 * [2023-04-01, 04:14:02](https://news.ycombinator.com/item?id=35397051) - [France&#x27;s Long Distance Trail](https://en.hexatrek.com)
 * [2023-04-01, 03:10:56](https://news.ycombinator.com/item?id=35396696) - [APLcart – Find your way in APL](https://aplcart.info/)
-* [2023-04-01, 01:40:41](https://news.ycombinator.com/item?id=35396165) - [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
 * [2023-03-31, 20:37:50](https://news.ycombinator.com/item?id=35393284) - [Llama.cpp 30B runs with only 6GB of RAM now](https://github.com/ggerganov/llama.cpp/pull/613)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 16:02:50](https://news.ycombinator.com/item?id=35389110) - [Launch HN: Inri (YC W23) – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
@@ -29,6 +28,7 @@
 * [2023-03-31, 10:32:37](https://news.ycombinator.com/item?id=35384947) - [The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
 * [2023-03-31, 10:08:14](https://news.ycombinator.com/item?id=35384789) - [Visual Programming with Elixir: Learning to Write Binary Parsers (2019)](https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17)
 * [2023-03-31, 06:44:56](https://news.ycombinator.com/item?id=35383527) - [A New Beginning for LifeHacker](https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940)
+* [2023-03-30, 23:48:20](https://news.ycombinator.com/item?id=35380459) - [K: We need to talk about group](https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a)
 * [2023-03-30, 20:01:15](https://news.ycombinator.com/item?id=35378109) - [The undocumented Android change that led to aCropalypse was reported during beta](https://iliana.fyi/blog/acropalypse-now/)
 
 ## [Archives](archives/index.md)
