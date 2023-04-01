@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-04-01, 22:58:23",
+      "https://news.ycombinator.com/item?id=35405030"
+    ],
+    [
+      "SpaceX moves Starship to launch site, and liftoff could be just days away",
+      "https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/"
+    ]
+  ],
+  [
+    [
+      "2023-04-01, 22:51:13",
+      "https://news.ycombinator.com/item?id=35404980"
+    ],
+    [
+      "30B model now needs only 5.8GB of RAM? How?",
+      "https://github.com/ggerganov/llama.cpp/discussions/638"
+    ]
+  ],
+  [
+    [
+      "2023-04-01, 22:36:15",
+      "https://news.ycombinator.com/item?id=35404852"
+    ],
+    [
+      "Show HN: SiteGPT – Create ChatGPT-like chatbots trained on your website content",
+      "https://sitegpt.ai"
+    ]
+  ],
+  [
+    [
       "2023-04-01, 22:32:57",
       "https://news.ycombinator.com/item?id=35404823"
     ],
     [
       "SpaceX alums are branching out and shaping the startup economy",
       "https://interactive.satellitetoday.com/via/april-2023/how-spacex-alums-are-branching-out-and-shaping-the-startup-economy/"
+    ]
+  ],
+  [
+    [
+      "2023-04-01, 21:40:44",
+      "https://news.ycombinator.com/item?id=35404374"
+    ],
+    [
+      "Another Reply to Josef PRůša",
+      "https://www.haerdin.se/blog/2023/04/01/another-reply-to-josef-prusa/"
     ]
   ],
   [
@@ -21,12 +61,12 @@
   ],
   [
     [
-      "2023-04-01, 20:50:57",
-      "https://news.ycombinator.com/item?id=35403940"
+      "2023-04-01, 21:30:26",
+      "https://news.ycombinator.com/item?id=35404275"
     ],
     [
-      "Porsche’s e-fuel burns just like the real thing",
-      "https://www.wired.com/story/porsche-e-fuel-emissions-neutral-synthetic-gas/"
+      "The Joy of Computer History Books",
+      "https://fabiensanglard.net/joy/index.html"
     ]
   ],
   [
@@ -97,26 +137,6 @@
     [
       "Deepest fish ever caught on camera off Japan",
       "https://www.bbc.co.uk/news/science-environment-65148876"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 14:19:29",
-      "https://news.ycombinator.com/item?id=35400511"
-    ],
-    [
-      "Salesforce is shuttering Slack’s remote work research group Future Forum",
-      "https://finance.yahoo.com/news/salesforce-shuttering-slack-remote-research-004925901.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 12:50:43",
-      "https://news.ycombinator.com/item?id=35399897"
-    ],
-    [
-      "Using Tailscale without using Tailscale",
-      "https://tailscale.dev/blog/headscale-funnel"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-04-01, 01:39:31",
-      "https://news.ycombinator.com/item?id=35396156"
-    ],
-    [
-      "Sounds emitted by plants under stress are airborne and informative",
-      "https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3"
-    ]
-  ],
-  [
-    [
       "2023-03-31, 20:21:16",
       "https://news.ycombinator.com/item?id=35393040"
     ],
@@ -287,16 +297,6 @@
     [
       "Visual programming with Elixir: Learning to write binary parsers (2019)",
       "https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 04:35:06",
-      "https://news.ycombinator.com/item?id=35382614"
-    ],
-    [
-      "Bouguer’s Halo",
-      "https://atoptics.co.uk/fz694.htm"
     ]
   ]
 ]
