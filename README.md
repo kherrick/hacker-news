@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-01, 05:43:13](https://news.ycombinator.com/item?id=35397495) - [Copper is the missing ingredient of the energy transition](https://www.economist.com/business/2023/03/30/copper-is-the-missing-ingredient-of-the-energy-transition)
 * [2023-04-01, 05:41:59](https://news.ycombinator.com/item?id=35397491) - [Canonical to abandon Snap, remove in Ubuntu 24.04 LTS](https://news.itsfoss.com/ubuntu-ditch-snap/)
 * [2023-04-01, 05:27:52](https://news.ycombinator.com/item?id=35397418) - [Humanness in the Age of AI](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
 * [2023-04-01, 04:55:30](https://news.ycombinator.com/item?id=35397271) - [He who submits a resume has already lost](https://www.residentcontrarian.com/p/he-who-submits-a-resume-has-already)
@@ -13,7 +14,6 @@
 * [2023-03-31, 21:00:03](https://news.ycombinator.com/item?id=35393579) - [Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer](https://www.tesorio.com/careers#job-openings)
 * [2023-03-31, 20:50:39](https://news.ycombinator.com/item?id=35393458) - [CDC team studying East Palestine train derailment fell ill during investigation](https://www.cbsnews.com/pittsburgh/news/cdc-team-sick-east-palestine-ohio-train-derailment/)
 * [2023-03-31, 20:37:50](https://news.ycombinator.com/item?id=35393284) - [Llama.cpp 30B runs with only 6GB of RAM now](https://github.com/ggerganov/llama.cpp/pull/613)
-* [2023-03-31, 19:08:39](https://news.ycombinator.com/item?id=35391868) - [The average American has the same life expectancy as the worst part of England](https://twitter.com/jburnmurdoch/status/1641799698058035200)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 18:37:44](https://news.ycombinator.com/item?id=35391370) - [German police raid DDoS-friendly host FlyHosting](https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/)
 * [2023-03-31, 18:21:07](https://news.ycombinator.com/item?id=35391115) - [Could you train a ChatGPT-beating model for $85k and run it in a browser?](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/)
