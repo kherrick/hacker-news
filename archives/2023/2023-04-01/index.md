@@ -26,6 +26,7 @@
 * [2023-04-01, 13:50:48](https://news.ycombinator.com/item?id=35400294) - [Refurb weekend: DEC AlphaPC 164LX](http://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
 * [2023-04-01, 13:44:02](https://news.ycombinator.com/item?id=35400253) - [The surprising roots of Japan&#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
 * [2023-04-01, 13:12:30](https://news.ycombinator.com/item?id=35400047) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
+* [2023-04-01, 12:50:43](https://news.ycombinator.com/item?id=35399897) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
 * [2023-04-01, 12:43:31](https://news.ycombinator.com/item?id=35399852) - [F**k Teams](https://www.youtube.com/watch?v=7ERH4LAAKjw)
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [“Alexa, what is my WiFi password?”](https://dragon863.github.io/blog/alexa.html)
