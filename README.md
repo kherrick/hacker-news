@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-01, 22:19:47](https://news.ycombinator.com/item?id=35404708) - [The letter against AI is a power grab by the centralized elites](https://daotimes.com/the-letter-against-ai-is-a-power-grab-by-the-centralized-elites/)
 * [2023-04-01, 21:58:25](https://news.ycombinator.com/item?id=35404527) - [US Congress Moves to Ban Chinese Crane Software](https://gcaptain.com/us-congress-moves-to-ban-chinese-crane-software/)
 * [2023-04-01, 21:39:39](https://news.ycombinator.com/item?id=35404361) - [Tax Evasion at the Top of the Income Distribution: Theory and Evidence [pdf]](https://www.nber.org/system/files/working_papers/w28542/w28542.pdf)
 * [2023-04-01, 20:50:57](https://news.ycombinator.com/item?id=35403940) - [Porsche’s E-Fuel Burns Just Like the Real Thing](https://www.wired.com/story/porsche-e-fuel-emissions-neutral-synthetic-gas/)
@@ -19,6 +18,7 @@
 * [2023-04-01, 10:16:55](https://news.ycombinator.com/item?id=35398999) - [Cities on the Bay: The Ancient Roman Predecessor of Naples (2015)](https://web.archive.org/web/20150516094013/http://www.the-tls.co.uk/tls/public/article1555487.ece)
 * [2023-04-01, 09:58:13](https://news.ycombinator.com/item?id=35398901) - [Why Not Document.write()?](https://csswizardry.com/2023/01/why-not-document-write/)
 * [2023-04-01, 08:38:51](https://news.ycombinator.com/item?id=35398480) - [Show HN: Coursemate – connect with other self learners](https://www.coursem8.com/)
+* [2023-04-01, 08:03:33](https://news.ycombinator.com/item?id=35398252) - [AMD’s HD 6950 vs. RX 6900 XT: What Does Adding 50 Do?](https://chipsandcheese.com/2023/04/01/amds-hd-6950-vs-rx-6900-xt-what-does-adding-50-do/)
 * [2023-04-01, 04:26:01](https://news.ycombinator.com/item?id=35397135) - [The xine hacker&#x27;s guide (2003)](http://web.mit.edu/outland/share/doc/xine/hackersguide/hackersguide.html)
 * [2023-04-01, 04:14:02](https://news.ycombinator.com/item?id=35397051) - [Hexatrek: The long distance thru hike in France](https://en.hexatrek.com)
 * [2023-04-01, 01:39:31](https://news.ycombinator.com/item?id=35396156) - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
