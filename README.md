@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-01, 14:17:36](https://news.ycombinator.com/item?id=35400497) - [Twitter scrubbing Elon, Republican, Democrat code references on GitHub](https://github.com/twitter/the-algorithm/blob/7f90d0ca342b928b479b512ec51ac2c3821f5922/home-mixer/server/src/main/scala/com/twitter/home_mixer/functional_component/feature_hydrator/RequestQueryFeatureHydrator.scala)
+* [2023-04-01, 14:34:57](https://news.ycombinator.com/item?id=35400598) - [Generative AI set to affect 300M jobs across major economies](https://www.ft.com/content/7dec4483-ad34-4007-bb3a-7ac925643999)
 * [2023-04-01, 13:50:48](https://news.ycombinator.com/item?id=35400294) - [Refurb weekend: DEC AlphaPC 164LX](http://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
 * [2023-04-01, 13:44:02](https://news.ycombinator.com/item?id=35400253) - [The surprising roots of Japan&#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
 * [2023-04-01, 13:12:30](https://news.ycombinator.com/item?id=35400047) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
+* [2023-04-01, 12:43:31](https://news.ycombinator.com/item?id=35399852) - [F**k Teams](https://www.youtube.com/watch?v=7ERH4LAAKjw)
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [“Alexa, what is my WiFi password?”](https://dragon863.github.io/blog/alexa.html)
 * [2023-04-01, 11:48:19](https://news.ycombinator.com/item?id=35399480) - [Commander X16 2023 update [video]](https://www.youtube.com/watch?v=nyByDNQuMMI)
@@ -17,6 +18,7 @@
 * [2023-04-01, 03:10:56](https://news.ycombinator.com/item?id=35396696) - [APLcart – Find your way in APL](https://aplcart.info/)
 * [2023-04-01, 01:40:41](https://news.ycombinator.com/item?id=35396165) - [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
 * [2023-04-01, 01:39:31](https://news.ycombinator.com/item?id=35396156) - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
+* [2023-03-31, 21:00:03](https://news.ycombinator.com/item?id=35393579) - [Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer](https://www.tesorio.com/careers#job-openings)
 * [2023-03-31, 20:37:50](https://news.ycombinator.com/item?id=35393284) - [Llama.cpp 30B runs with only 6GB of RAM now](https://github.com/ggerganov/llama.cpp/pull/613)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 16:02:50](https://news.ycombinator.com/item?id=35389110) - [Launch HN: Inri (YC W23) – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
@@ -28,8 +30,6 @@
 * [2023-03-31, 08:01:57](https://news.ycombinator.com/item?id=35384053) - [Former Hiroshima Branch of the Bank of Japan](https://peace-tourism.com/en/story/bankofjapanhiroshimabranch.html)
 * [2023-03-31, 07:32:51](https://news.ycombinator.com/item?id=35383852) - [DNND 2: Tensors and Convolution](https://maxliani.wordpress.com/2023/03/24/dnnd-2-tensors-and-convolution/)
 * [2023-03-31, 06:44:56](https://news.ycombinator.com/item?id=35383527) - [A New Beginning for LifeHacker](https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940)
-* [2023-03-30, 23:48:20](https://news.ycombinator.com/item?id=35380459) - [K: We need to talk about group](https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a)
-* [2023-03-30, 20:01:15](https://news.ycombinator.com/item?id=35378109) - [The undocumented Android change that led to aCropalypse was reported during beta](https://iliana.fyi/blog/acropalypse-now/)
 
 ## [Archives](archives/index.md)
 
