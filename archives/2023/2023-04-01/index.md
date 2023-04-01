@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 22:58:23](https://news.ycombinator.com/item?id=35405030) - [SpaceX moves Starship to launch site, and liftoff could be just days away](https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/)
+* [2023-04-01, 22:51:13](https://news.ycombinator.com/item?id=35404980) - [30B model now needs only 5.8GB of RAM? How?](https://github.com/ggerganov/llama.cpp/discussions/638)
+* [2023-04-01, 22:36:15](https://news.ycombinator.com/item?id=35404852) - [Show HN: SiteGPT – Create ChatGPT-like chatbots trained on your website content](https://sitegpt.ai)
 * [2023-04-01, 22:32:57](https://news.ycombinator.com/item?id=35404823) - [SpaceX alums are branching out and shaping the startup economy](https://interactive.satellitetoday.com/via/april-2023/how-spacex-alums-are-branching-out-and-shaping-the-startup-economy/)
 * [2023-04-01, 22:19:47](https://news.ycombinator.com/item?id=35404708) - [The letter against AI is a power grab by the centralized elites](https://daotimes.com/the-letter-against-ai-is-a-power-grab-by-the-centralized-elites/)
 * [2023-04-01, 21:58:25](https://news.ycombinator.com/item?id=35404527) - [US Congress Moves to Ban Chinese Crane Software](https://gcaptain.com/us-congress-moves-to-ban-chinese-crane-software/)
+* [2023-04-01, 21:40:44](https://news.ycombinator.com/item?id=35404374) - [Another Reply to Josef PRůša](https://www.haerdin.se/blog/2023/04/01/another-reply-to-josef-prusa/)
 * [2023-04-01, 21:39:39](https://news.ycombinator.com/item?id=35404361) - [Tax Evasion at the Top of the Income Distribution: Theory and Evidence [pdf]](https://www.nber.org/system/files/working_papers/w28542/w28542.pdf)
+* [2023-04-01, 21:30:26](https://news.ycombinator.com/item?id=35404275) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
 * [2023-04-01, 21:08:16](https://news.ycombinator.com/item?id=35404080) - [Ringwoodite](https://en.wikipedia.org/wiki/Ringwoodite)
 * [2023-04-01, 20:50:57](https://news.ycombinator.com/item?id=35403940) - [Porsche’s E-Fuel Burns Just Like the Real Thing](https://www.wired.com/story/porsche-e-fuel-emissions-neutral-synthetic-gas/)
 * [2023-04-01, 20:28:56](https://news.ycombinator.com/item?id=35403776) - [Less Than Half of US Workers Use All Their Vacation Days](https://www.bloomberg.com/news/articles/2023-03-30/less-than-half-of-us-workers-use-all-their-vacation-days)
