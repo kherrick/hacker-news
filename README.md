@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-01, 16:16:31](https://news.ycombinator.com/item?id=35401436) - [San Francisco could be on the verge of collapse. What should California do?](https://www.sfchronicle.com/opinion/editorials/article/downtown-san-francisco-17852552.php)
+* [2023-04-01, 17:05:51](https://news.ycombinator.com/item?id=35401923) - [“AI doomism is becoming indistinguishable from a religion”](https://twitter.com/ylecun/status/1642205736678637572)
 * [2023-04-01, 14:19:29](https://news.ycombinator.com/item?id=35400511) - [Salesforce is shuttering Slack’s remote work research group Future Forum](https://finance.yahoo.com/news/salesforce-shuttering-slack-remote-research-004925901.html)
 * [2023-04-01, 14:03:29](https://news.ycombinator.com/item?id=35400397) - [Every Day Is April Fool’s Day Now](https://www.vice.com/en/article/5d9p3q/april-fools-day-deepfakes-pope-trump-arrest-gpt)
 * [2023-04-01, 13:44:02](https://news.ycombinator.com/item?id=35400253) - [The surprising roots of Japan&#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
@@ -25,10 +25,10 @@
 * [2023-03-31, 14:33:50](https://news.ycombinator.com/item?id=35387754) - [Pizza rolls and the meaning of midcentury food](https://www.snackstack.net/p/pizza-rolls-and-the-meaning-of-midcentury)
 * [2023-03-31, 13:35:36](https://news.ycombinator.com/item?id=35386948) - [Postgres as a graph database](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/)
 * [2023-03-31, 12:19:00](https://news.ycombinator.com/item?id=35385952) - [Erlang&#x2F;OTP: Garbage Collector](https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87)
+* [2023-03-31, 12:12:18](https://news.ycombinator.com/item?id=35385868) - [Dungeons and Dragons Embarks on an Epic Quest to Finally Make Money](https://www.bloomberg.com/news/features/2023-03-30/dungeons-and-dragons-movie-gives-hasbro-a-golden-opportunity)
 * [2023-03-31, 10:32:37](https://news.ycombinator.com/item?id=35384947) - [The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
 * [2023-03-31, 10:08:14](https://news.ycombinator.com/item?id=35384789) - [Visual Programming with Elixir: Learning to Write Binary Parsers (2019)](https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17)
 * [2023-03-31, 06:44:56](https://news.ycombinator.com/item?id=35383527) - [A New Beginning for LifeHacker](https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940)
-* [2023-03-30, 23:48:20](https://news.ycombinator.com/item?id=35380459) - [K: We need to talk about group](https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a)
 * [2023-03-30, 20:01:15](https://news.ycombinator.com/item?id=35378109) - [The undocumented Android change that led to aCropalypse was reported during beta](https://iliana.fyi/blog/acropalypse-now/)
 
 ## [Archives](archives/index.md)

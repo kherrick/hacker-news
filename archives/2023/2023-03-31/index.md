@@ -61,6 +61,7 @@
 * [2023-03-31, 13:35:36](https://news.ycombinator.com/item?id=35386948) - [Postgres: The Graph Database You Didn&#x27;t Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/)
 * [2023-03-31, 12:55:19](https://news.ycombinator.com/item?id=35386405) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 12:19:00](https://news.ycombinator.com/item?id=35385952) - [Erlang&#x2F;OTP: Garbage Collector](https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87)
+* [2023-03-31, 12:12:18](https://news.ycombinator.com/item?id=35385868) - [Dungeons and Dragons Embarks on an Epic Quest to Finally Make Money](https://www.bloomberg.com/news/features/2023-03-30/dungeons-and-dragons-movie-gives-hasbro-a-golden-opportunity)
 * [2023-03-31, 12:01:31](https://news.ycombinator.com/item?id=35385732) - [PyCharm 2023.1](https://www.jetbrains.com/pycharm/whatsnew/)
 * [2023-03-31, 12:00:48](https://news.ycombinator.com/item?id=35385721) - [Finley (YC W21) is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
 * [2023-03-31, 11:31:23](https://news.ycombinator.com/item?id=35385452) - [If AI scaling is to be shut down, let it be for a coherent reason](https://scottaaronson.blog/?p=7174)
