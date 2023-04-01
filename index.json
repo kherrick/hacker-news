@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-01, 18:29:08",
+      "https://news.ycombinator.com/item?id=35402698"
+    ],
+    [
+      "Manifest V2 Chrome Extension Phaseout Delayed Until 2024",
+      "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/zQ77HkGmK9E/m/HjaaCIG-BQAJ"
+    ]
+  ],
+  [
+    [
       "2023-04-01, 18:12:30",
       "https://news.ycombinator.com/item?id=35402539"
     ],
@@ -47,16 +57,6 @@
     [
       "The surprising roots of Japan&#x27;s Indian curry",
       "https://one-from-nippon.ghost.io/indo-curry/"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 13:12:30",
-      "https://news.ycombinator.com/item?id=35400047"
-    ],
-    [
-      "Moving from Rust to C++",
-      "https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2023-03-31, 13:32:45",
+      "https://news.ycombinator.com/item?id=35386907"
+    ],
+    [
+      "Calibration Display for NASA (2019)",
+      "https://www.daliborfarny.com/project/calibration-display-for-nasa/"
+    ]
+  ],
+  [
+    [
       "2023-03-31, 12:19:00",
       "https://news.ycombinator.com/item?id=35385952"
     ],
@@ -287,16 +297,6 @@
     [
       "A New Beginning for LifeHacker",
       "https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940"
-    ]
-  ],
-  [
-    [
-      "2023-03-30, 20:01:15",
-      "https://news.ycombinator.com/item?id=35378109"
-    ],
-    [
-      "The undocumented Android change that led to aCropalypse was reported during beta",
-      "https://iliana.fyi/blog/acropalypse-now/"
     ]
   ]
 ]
