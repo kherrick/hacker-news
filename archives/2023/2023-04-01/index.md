@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 17:10:40](https://news.ycombinator.com/item?id=35401968) - [Deepest fish ever caught on camera off Japan](https://www.bbc.co.uk/news/science-environment-65148876)
 * [2023-04-01, 17:05:51](https://news.ycombinator.com/item?id=35401923) - [“AI doomism is becoming indistinguishable from a religion”](https://twitter.com/ylecun/status/1642205736678637572)
 * [2023-04-01, 16:16:31](https://news.ycombinator.com/item?id=35401436) - [San Francisco could be on the verge of collapse. What should California do?](https://www.sfchronicle.com/opinion/editorials/article/downtown-san-francisco-17852552.php)
 * [2023-04-01, 15:33:36](https://news.ycombinator.com/item?id=35401073) - [The Contradictions of Sam Altman](https://www.wsj.com/articles/chatgpt-sam-altman-artificial-intelligence-openai-b0e1c8c9)

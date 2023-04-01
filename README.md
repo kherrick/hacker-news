@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-01, 17:05:51](https://news.ycombinator.com/item?id=35401923) - [“AI doomism is becoming indistinguishable from a religion”](https://twitter.com/ylecun/status/1642205736678637572)
+* [2023-04-01, 17:10:40](https://news.ycombinator.com/item?id=35401968) - [Deepest fish ever caught on camera off Japan](https://www.bbc.co.uk/news/science-environment-65148876)
 * [2023-04-01, 14:19:29](https://news.ycombinator.com/item?id=35400511) - [Salesforce is shuttering Slack’s remote work research group Future Forum](https://finance.yahoo.com/news/salesforce-shuttering-slack-remote-research-004925901.html)
-* [2023-04-01, 14:03:29](https://news.ycombinator.com/item?id=35400397) - [Every Day Is April Fool’s Day Now](https://www.vice.com/en/article/5d9p3q/april-fools-day-deepfakes-pope-trump-arrest-gpt)
 * [2023-04-01, 13:44:02](https://news.ycombinator.com/item?id=35400253) - [The surprising roots of Japan&#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
 * [2023-04-01, 13:12:30](https://news.ycombinator.com/item?id=35400047) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
@@ -29,6 +28,7 @@
 * [2023-03-31, 10:32:37](https://news.ycombinator.com/item?id=35384947) - [The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
 * [2023-03-31, 10:08:14](https://news.ycombinator.com/item?id=35384789) - [Visual Programming with Elixir: Learning to Write Binary Parsers (2019)](https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17)
 * [2023-03-31, 06:44:56](https://news.ycombinator.com/item?id=35383527) - [A New Beginning for LifeHacker](https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940)
+* [2023-03-30, 23:48:20](https://news.ycombinator.com/item?id=35380459) - [K: We need to talk about group](https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a)
 * [2023-03-30, 20:01:15](https://news.ycombinator.com/item?id=35378109) - [The undocumented Android change that led to aCropalypse was reported during beta](https://iliana.fyi/blog/acropalypse-now/)
 
 ## [Archives](archives/index.md)
