@@ -23,6 +23,7 @@
 * [2023-03-31, 20:21:16](https://news.ycombinator.com/item?id=35393040) - [The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
 * [2023-03-31, 20:11:34](https://news.ycombinator.com/item?id=35392877) - [A Black DEI Director Canceled by DEI](https://compactmag.com/article/a-black-dei-director-canceled-by-dei)
 * [2023-03-31, 19:51:45](https://news.ycombinator.com/item?id=35392563) - [Twitter&#x27;s Open Source Algorithm – Unveiling the code, but not the secrets](https://www.shaped.ai/blog/twitters-open-source-algorithm-unveiling-the-code-but-not-the-secrets)
+* [2023-03-31, 19:34:22](https://news.ycombinator.com/item?id=35392288) - [The Contradictions of Sam Altman](https://www.wsj.com/articles/chatgpt-sam-altman-artificial-intelligence-openai-b0e1c8c9)
 * [2023-03-31, 19:17:26](https://news.ycombinator.com/item?id=35392010) - [Bittrex to Cease Operations](https://bittrex.com/discover/important-message-for-bittrex-u-s-customers)
 * [2023-03-31, 19:08:39](https://news.ycombinator.com/item?id=35391868) - [The average American has the same life expectancy as the worst part of England](https://twitter.com/jburnmurdoch/status/1641799698058035200)
 * [2023-03-31, 18:45:14](https://news.ycombinator.com/item?id=35391484) - [The Twitter Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
