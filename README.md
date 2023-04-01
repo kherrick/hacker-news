@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-01, 00:33:51](https://news.ycombinator.com/item?id=35395714) - [I&#x27;m done being an underpaid and mistreated wage slave. I am going out on my own](https://startupdreams.substack.com/p/im-done-being-an-underpaid-and-mistreated)
+* [2023-04-01, 01:40:41](https://news.ycombinator.com/item?id=35396165) - [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
 * [2023-03-31, 23:18:18](https://news.ycombinator.com/item?id=35395085) - [Book review: Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
 * [2023-03-31, 23:15:25](https://news.ycombinator.com/item?id=35395060) - [Maps show how parking lots “eat” U.S. cities](https://bigthink.com/strange-maps/parking-lots-eat-american-cities/)
 * [2023-03-31, 22:42:57](https://news.ycombinator.com/item?id=35394758) - [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
@@ -21,9 +21,9 @@
 * [2023-03-31, 13:51:33](https://news.ycombinator.com/item?id=35387160) - [Show HN: Multi-display screen sharing with CoScreen](https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/)
 * [2023-03-31, 13:35:36](https://news.ycombinator.com/item?id=35386948) - [Postgres as a graph database](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/)
 * [2023-03-31, 12:55:19](https://news.ycombinator.com/item?id=35386405) - [Janet for Mortals](https://janet.guide/)
+* [2023-03-31, 11:25:19](https://news.ycombinator.com/item?id=35385384) - [A machine that bankrupted Mark Twain](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
 * [2023-03-31, 10:49:15](https://news.ycombinator.com/item?id=35385075) - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
 * [2023-03-31, 06:00:56](https://news.ycombinator.com/item?id=35383195) - [Entwined African and Asian genetic roots of medieval people of the Swahili coast](https://www.nature.com/articles/s41586-023-05754-w)
-* [2023-03-31, 05:56:38](https://news.ycombinator.com/item?id=35383160) - [Paradigms Gone Wild](https://www.lrb.co.uk/the-paper/v45/n07/steven-shapin/paradigms-gone-wild)
 * [2023-03-31, 03:42:20](https://news.ycombinator.com/item?id=35382252) - [SSD as Long Term Storage Testing](https://htwingnut.com/2022/09/11/ssd-as-long-term-storage-testing/)
 * [2023-03-30, 23:48:20](https://news.ycombinator.com/item?id=35380459) - [K: We need to talk about group](https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a)
 * [2023-03-30, 20:01:15](https://news.ycombinator.com/item?id=35378109) - [The undocumented Android change that led to aCropalypse was reported during beta](https://iliana.fyi/blog/acropalypse-now/)
