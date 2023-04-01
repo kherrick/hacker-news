@@ -14,6 +14,7 @@
 * [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [Alexa, what is my wifi password?](https://dragon863.github.io/blog/alexa.html)
 * [2023-04-01, 11:03:10](https://news.ycombinator.com/item?id=35399218) - [Show HN: Use cookies from Chrome (CDP) in cURL without copy pasting](https://github.com/fipso/ccurl.sh)
 * [2023-04-01, 10:16:55](https://news.ycombinator.com/item?id=35398999) - [Cities on the Bay: The Ancient Roman Predecessor of Naples (2015)](https://web.archive.org/web/20150516094013/http://www.the-tls.co.uk/tls/public/article1555487.ece)
+* [2023-04-01, 09:58:13](https://news.ycombinator.com/item?id=35398901) - [Why Not Document.write()?](https://csswizardry.com/2023/01/why-not-document-write/)
 * [2023-04-01, 08:38:51](https://news.ycombinator.com/item?id=35398480) - [Show HN: Coursemate – connect with other self learners](https://www.coursem8.com/)
 * [2023-04-01, 08:03:33](https://news.ycombinator.com/item?id=35398252) - [AMD’s HD 6950 vs. RX 6900 XT: What Does Adding 50 Do?](https://chipsandcheese.com/2023/04/01/amds-hd-6950-vs-rx-6900-xt-what-does-adding-50-do/)
 * [2023-04-01, 04:26:01](https://news.ycombinator.com/item?id=35397135) - [The xine hacker&#x27;s guide (2003)](http://web.mit.edu/outland/share/doc/xine/hackersguide/hackersguide.html)
@@ -29,7 +30,6 @@
 * [2023-03-31, 12:19:00](https://news.ycombinator.com/item?id=35385952) - [Erlang&#x2F;OTP: Garbage Collector](https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87)
 * [2023-03-31, 10:08:14](https://news.ycombinator.com/item?id=35384789) - [Visual programming with Elixir: Learning to write binary parsers (2019)](https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17)
 * [2023-03-31, 04:35:06](https://news.ycombinator.com/item?id=35382614) - [Bouguer’s Halo](https://atoptics.co.uk/fz694.htm)
-* [2023-03-31, 00:26:27](https://news.ycombinator.com/item?id=35380742) - [Programming isn’t coding (2020)](https://occasionallycogent.com/programming_isnt_coding/index.html)
 
 ## [Archives](archives/index.md)
 
