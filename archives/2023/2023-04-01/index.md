@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 22:32:57](https://news.ycombinator.com/item?id=35404823) - [SpaceX alums are branching out and shaping the startup economy](https://interactive.satellitetoday.com/via/april-2023/how-spacex-alums-are-branching-out-and-shaping-the-startup-economy/)
 * [2023-04-01, 22:19:47](https://news.ycombinator.com/item?id=35404708) - [The letter against AI is a power grab by the centralized elites](https://daotimes.com/the-letter-against-ai-is-a-power-grab-by-the-centralized-elites/)
 * [2023-04-01, 21:58:25](https://news.ycombinator.com/item?id=35404527) - [US Congress Moves to Ban Chinese Crane Software](https://gcaptain.com/us-congress-moves-to-ban-chinese-crane-software/)
 * [2023-04-01, 21:39:39](https://news.ycombinator.com/item?id=35404361) - [Tax Evasion at the Top of the Income Distribution: Theory and Evidence [pdf]](https://www.nber.org/system/files/working_papers/w28542/w28542.pdf)
