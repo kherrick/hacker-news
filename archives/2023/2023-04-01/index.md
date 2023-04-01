@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [“Alexa, what is my WiFi password?”](https://dragon863.github.io/blog/alexa.html)
+* [2023-04-01, 11:20:48](https://news.ycombinator.com/item?id=35399315) - [Ask HN: What&#x27;s the name of this concept related to surveillance](https://news.ycombinator.com/item?id=35399315)
+* [2023-04-01, 11:03:10](https://news.ycombinator.com/item?id=35399218) - [Show HN: Use cookies from Chrome (CDP) in cURL without copy pasting](https://github.com/fipso/ccurl.sh)
 * [2023-04-01, 09:16:31](https://news.ycombinator.com/item?id=35398643) - [Wine 8.5](https://www.winehq.org/announce/8.5)
 * [2023-04-01, 08:38:51](https://news.ycombinator.com/item?id=35398480) - [Show HN: Coursemate, connect with other self learners](https://www.coursem8.com/)
 * [2023-04-01, 08:08:55](https://news.ycombinator.com/item?id=35398294) - [Ameliorated: Windows 10 and 11 minus the spyware](https://ameliorated.io/)
