@@ -20,6 +20,7 @@
 * [2023-04-01, 09:16:31](https://news.ycombinator.com/item?id=35398643) - [Wine 8.5](https://www.winehq.org/announce/8.5)
 * [2023-04-01, 08:38:51](https://news.ycombinator.com/item?id=35398480) - [Show HN: Coursemate, connect with other self learners](https://www.coursem8.com/)
 * [2023-04-01, 08:08:55](https://news.ycombinator.com/item?id=35398294) - [Ameliorated: Windows 10 and 11 minus the spyware](https://ameliorated.io/)
+* [2023-04-01, 08:03:33](https://news.ycombinator.com/item?id=35398252) - [AMD’s HD 6950 vs. RX 6900 XT: What Does Adding 50 Do?](https://chipsandcheese.com/2023/04/01/amds-hd-6950-vs-rx-6900-xt-what-does-adding-50-do/)
 * [2023-04-01, 08:00:43](https://news.ycombinator.com/item?id=35398235) - [My4TH – A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
 * [2023-04-01, 05:43:13](https://news.ycombinator.com/item?id=35397495) - [Copper is the missing ingredient of the energy transition](https://www.economist.com/business/2023/03/30/copper-is-the-missing-ingredient-of-the-energy-transition)
 * [2023-04-01, 05:41:59](https://news.ycombinator.com/item?id=35397491) - [Canonical to abandon Snap, remove in Ubuntu 24.04 LTS](https://news.itsfoss.com/ubuntu-ditch-snap/)
