@@ -58,6 +58,7 @@
 * [2023-03-31, 13:55:33](https://news.ycombinator.com/item?id=35387220) - [ChatGPT banned in Italy over privacy concerns](https://www.bbc.com/news/technology-65139406)
 * [2023-03-31, 13:54:06](https://news.ycombinator.com/item?id=35387191) - [75% of the Most Played Games on Steam Are Playable on the Steam Deck](https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/)
 * [2023-03-31, 13:51:33](https://news.ycombinator.com/item?id=35387160) - [Show HN: Multi-Display Screen Sharing with CoScreen by Datadog](https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/)
+* [2023-03-31, 13:48:51](https://news.ycombinator.com/item?id=35387120) - [S3 as an Eternal Service](https://www.lastweekinaws.com/blog/s3-as-an-eternal-service/)
 * [2023-03-31, 13:39:46](https://news.ycombinator.com/item?id=35387000) - [NYPD is refusing to comply with NYC’s new surveillance tech laws](https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/)
 * [2023-03-31, 13:35:36](https://news.ycombinator.com/item?id=35386948) - [Postgres: The Graph Database You Didn&#x27;t Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/)
 * [2023-03-31, 13:32:45](https://news.ycombinator.com/item?id=35386907) - [Calibration Display for NASA (2019)](https://www.daliborfarny.com/project/calibration-display-for-nasa/)

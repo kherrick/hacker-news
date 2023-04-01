@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 20:22:19](https://news.ycombinator.com/item?id=35403726) - [What Broke Sweden? Real Estate Bust Exposes Big Divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
 * [2023-04-01, 19:57:00](https://news.ycombinator.com/item?id=35403535) - [The effects of wealth on (Swedish) marriage and fertility](https://www.nber.org/papers/w31039#fromrss)
 * [2023-04-01, 19:57:00](https://news.ycombinator.com/item?id=35403535) - [The Effects of Wealth on (Swedish) Marriage and Fertility](https://marginalrevolution.com/marginalrevolution/2023/04/the-effects-of-wealth-on-swedish-marriage-and-fertility.html)
 * [2023-04-01, 19:32:53](https://news.ycombinator.com/item?id=35403327) - [U.S. Government Sold $216M of Seized Silk Road Bitcoin This Month](https://www.coindesk.com/business/2023/03/31/us-government-sold-216m-of-seized-silk-road-bitcoin-this-month/)
