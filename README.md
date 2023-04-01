@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-01, 19:32:53](https://news.ycombinator.com/item?id=35403327) - [U.S. Government Sold $216M of Seized Silk Road Bitcoin This Month](https://www.coindesk.com/business/2023/03/31/us-government-sold-216m-of-seized-silk-road-bitcoin-this-month/)
 * [2023-04-01, 18:57:55](https://news.ycombinator.com/item?id=35402979) - [Show HN: A Google Reader-inspired RSS reader](https://boredreading.com/?1)
 * [2023-04-01, 18:35:03](https://news.ycombinator.com/item?id=35402775) - [NASA validates revolutionary propulsion design for deep space missions](https://www.nasa.gov/centers/marshall/feature/nasa-validates-revolutionary-propulsion-design-for-deep-space-missions/)
 * [2023-04-01, 18:29:08](https://news.ycombinator.com/item?id=35402698) - [Pausing Manifest V2 phase-out changes](https://groups.google.com/a/chromium.org/g/chromium-extensions/c/zQ77HkGmK9E/m/HjaaCIG-BQAJ)
@@ -23,7 +24,6 @@
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 16:02:50](https://news.ycombinator.com/item?id=35389110) - [Launch HN: Inri (YC W23) – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
 * [2023-03-31, 14:33:50](https://news.ycombinator.com/item?id=35387754) - [Pizza rolls and the meaning of midcentury food](https://www.snackstack.net/p/pizza-rolls-and-the-meaning-of-midcentury)
-* [2023-03-31, 13:35:36](https://news.ycombinator.com/item?id=35386948) - [Postgres as a graph database](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/)
 * [2023-03-31, 13:32:45](https://news.ycombinator.com/item?id=35386907) - [Calibration Display for NASA (2019)](https://www.daliborfarny.com/project/calibration-display-for-nasa/)
 * [2023-03-31, 12:19:00](https://news.ycombinator.com/item?id=35385952) - [Erlang&#x2F;OTP: Garbage Collector](https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87)
 * [2023-03-31, 10:08:14](https://news.ycombinator.com/item?id=35384789) - [Visual programming with Elixir: Learning to write binary parsers (2019)](https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17)
