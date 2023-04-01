@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-01, 20:28:56](https://news.ycombinator.com/item?id=35403776) - [Less Than Half of US Workers Use All Their Vacation Days](https://www.bloomberg.com/news/articles/2023-03-30/less-than-half-of-us-workers-use-all-their-vacation-days)
 * [2023-04-01, 20:22:19](https://news.ycombinator.com/item?id=35403726) - [What Broke Sweden? Real Estate Bust Exposes Big Divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
 * [2023-04-01, 19:57:00](https://news.ycombinator.com/item?id=35403535) - [The effects of wealth on (Swedish) marriage and fertility](https://www.nber.org/papers/w31039#fromrss)
 * [2023-04-01, 19:32:53](https://news.ycombinator.com/item?id=35403327) - [U.S. Government Sold $216M of Seized Silk Road Bitcoin This Month](https://www.coindesk.com/business/2023/03/31/us-government-sold-216m-of-seized-silk-road-bitcoin-this-month/)
@@ -27,7 +28,6 @@
 * [2023-03-31, 13:32:45](https://news.ycombinator.com/item?id=35386907) - [Calibration Display for NASA (2019)](https://www.daliborfarny.com/project/calibration-display-for-nasa/)
 * [2023-03-31, 12:19:00](https://news.ycombinator.com/item?id=35385952) - [Erlang&#x2F;OTP: Garbage Collector](https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87)
 * [2023-03-31, 10:08:14](https://news.ycombinator.com/item?id=35384789) - [Visual programming with Elixir: Learning to write binary parsers (2019)](https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17)
-* [2023-03-31, 07:32:51](https://news.ycombinator.com/item?id=35383852) - [DNND 2: Tensors and Convolution](https://maxliani.wordpress.com/2023/03/24/dnnd-2-tensors-and-convolution/)
 * [2023-03-31, 04:35:06](https://news.ycombinator.com/item?id=35382614) - [Bouguer’s Halo](https://atoptics.co.uk/fz694.htm)
 * [2023-03-31, 00:26:27](https://news.ycombinator.com/item?id=35380742) - [Programming isn’t coding (2020)](https://occasionallycogent.com/programming_isnt_coding/index.html)
 
