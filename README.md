@@ -3,7 +3,6 @@
 * [2023-04-01, 14:34:57](https://news.ycombinator.com/item?id=35400598) - [Generative AI set to affect 300M jobs across major economies](https://www.ft.com/content/7dec4483-ad34-4007-bb3a-7ac925643999)
 * [2023-04-01, 14:19:29](https://news.ycombinator.com/item?id=35400511) - [Salesforce is shuttering Slack’s remote work research group Future Forum](https://finance.yahoo.com/news/salesforce-shuttering-slack-remote-research-004925901.html)
 * [2023-04-01, 14:03:29](https://news.ycombinator.com/item?id=35400397) - [Every Day Is April Fool’s Day Now](https://www.vice.com/en/article/5d9p3q/april-fools-day-deepfakes-pope-trump-arrest-gpt)
-* [2023-04-01, 13:50:48](https://news.ycombinator.com/item?id=35400294) - [Refurb weekend: DEC AlphaPC 164LX](http://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
 * [2023-04-01, 13:44:02](https://news.ycombinator.com/item?id=35400253) - [The surprising roots of Japan&#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
 * [2023-04-01, 13:12:30](https://news.ycombinator.com/item?id=35400047) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
@@ -30,6 +29,7 @@
 * [2023-03-31, 10:08:14](https://news.ycombinator.com/item?id=35384789) - [Visual Programming with Elixir: Learning to Write Binary Parsers (2019)](https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17)
 * [2023-03-31, 07:32:51](https://news.ycombinator.com/item?id=35383852) - [DNND 2: Tensors and Convolution](https://maxliani.wordpress.com/2023/03/24/dnnd-2-tensors-and-convolution/)
 * [2023-03-31, 06:44:56](https://news.ycombinator.com/item?id=35383527) - [A New Beginning for LifeHacker](https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940)
+* [2023-03-30, 20:01:15](https://news.ycombinator.com/item?id=35378109) - [The undocumented Android change that led to aCropalypse was reported during beta](https://iliana.fyi/blog/acropalypse-now/)
 
 ## [Archives](archives/index.md)
 
