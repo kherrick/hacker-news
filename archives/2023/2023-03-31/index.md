@@ -6,6 +6,7 @@
 
 * [2023-03-31, 23:18:18](https://news.ycombinator.com/item?id=35395085) - [Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
 * [2023-03-31, 23:15:25](https://news.ycombinator.com/item?id=35395060) - [Maps show how parking lots “eat” U.S. cities](https://bigthink.com/strange-maps/parking-lots-eat-american-cities/)
+* [2023-03-31, 23:10:08](https://news.ycombinator.com/item?id=35395010) - [Activision threatened, spied on workers amid union drive, U.S. agency says](https://www.reuters.com/technology/activision-threatened-spied-workers-amid-union-drive-us-agency-says-2023-03-31/)
 * [2023-03-31, 23:08:32](https://news.ycombinator.com/item?id=35395001) - [Please delete 2M files to continue using your Google Drive account](https://old.reddit.com/r/google/comments/123fjx8/google_has_applied_a_5_million_items_limit_for/)
 * [2023-03-31, 22:42:57](https://news.ycombinator.com/item?id=35394758) - [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
 * [2023-03-31, 22:26:17](https://news.ycombinator.com/item?id=35394573) - [Google AI researcher resigns after learning Bard uses data from ChatGPT](https://www.marketwatch.com/story/google-ai-researcher-resigns-after-learning-bard-uses-data-from-chatgpt-report-65ca79aa)
