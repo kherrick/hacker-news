@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-01, 14:17:36",
+      "https://news.ycombinator.com/item?id=35400497"
+    ],
+    [
+      "Twitter scrubbing Elon, Republican, Democrat code references on GitHub",
+      "https://github.com/twitter/the-algorithm/blob/7f90d0ca342b928b479b512ec51ac2c3821f5922/home-mixer/server/src/main/scala/com/twitter/home_mixer/functional_component/feature_hydrator/RequestQueryFeatureHydrator.scala"
+    ]
+  ],
+  [
+    [
+      "2023-04-01, 13:50:48",
+      "https://news.ycombinator.com/item?id=35400294"
+    ],
+    [
+      "Refurb weekend: DEC AlphaPC 164LX",
+      "http://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html"
+    ]
+  ],
+  [
+    [
       "2023-04-01, 13:44:02",
       "https://news.ycombinator.com/item?id=35400253"
     ],
@@ -151,26 +171,6 @@
   ],
   [
     [
-      "2023-03-31, 23:18:18",
-      "https://news.ycombinator.com/item?id=35395085"
-    ],
-    [
-      "Book review: Barriers to Bioweapons",
-      "https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 21:00:03",
-      "https://news.ycombinator.com/item?id=35393579"
-    ],
-    [
-      "Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer",
-      "https://www.tesorio.com/careers#job-openings"
-    ]
-  ],
-  [
-    [
       "2023-03-31, 20:37:50",
       "https://news.ycombinator.com/item?id=35393284"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-03-30, 21:01:12",
-      "https://news.ycombinator.com/item?id=35378771"
+      "2023-03-30, 23:48:20",
+      "https://news.ycombinator.com/item?id=35380459"
     ],
     [
-      "Saying Goodbye to Open Source Bridge (2018)",
-      "https://lifeofaudrey.com/2018/07/03/osbridge.html"
+      "K: We need to talk about group",
+      "https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a"
     ]
   ],
   [
