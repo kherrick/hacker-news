@@ -7,7 +7,7 @@
 * [2023-04-01, 21:39:39](https://news.ycombinator.com/item?id=35404361) - [Tax Evasion at the Top of the Income Distribution: Theory and Evidence (2021) [pdf]](https://www.nber.org/system/files/working_papers/w28542/w28542.pdf)
 * [2023-04-01, 21:30:26](https://news.ycombinator.com/item?id=35404275) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
 * [2023-04-01, 21:01:59](https://news.ycombinator.com/item?id=35404025) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
-* [2023-04-01, 20:28:56](https://news.ycombinator.com/item?id=35403776) - [Less than half of us workers use all their vacation days](https://www.bloomberg.com/news/articles/2023-03-30/less-than-half-of-us-workers-use-all-their-vacation-days)
+* [2023-04-01, 20:28:56](https://news.ycombinator.com/item?id=35403776) - [Less than half of U.S. workers use all their vacation days](https://www.bloomberg.com/news/articles/2023-03-30/less-than-half-of-us-workers-use-all-their-vacation-days)
 * [2023-04-01, 20:22:19](https://news.ycombinator.com/item?id=35403726) - [What broke Sweden? Real estate bust exposes big divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
 * [2023-04-01, 19:57:00](https://news.ycombinator.com/item?id=35403535) - [The effects of wealth on (Swedish) marriage and fertility](https://www.nber.org/papers/w31039#fromrss)
 * [2023-04-01, 18:35:03](https://news.ycombinator.com/item?id=35402775) - [NASA validates revolutionary propulsion design for deep space missions](https://www.nasa.gov/centers/marshall/feature/nasa-validates-revolutionary-propulsion-design-for-deep-space-missions/)
