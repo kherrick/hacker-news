@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 04:55:30](https://news.ycombinator.com/item?id=35397271) - [He who submits a resume has already lost](https://www.residentcontrarian.com/p/he-who-submits-a-resume-has-already)
 * [2023-04-01, 04:17:22](https://news.ycombinator.com/item?id=35397076) - [Why Americans Care About Work So Much](https://www.theatlantic.com/ideas/archive/2023/03/work-revolution-ai-wfh-new-book/673572/)
 * [2023-04-01, 04:16:46](https://news.ycombinator.com/item?id=35397071) - [Google Drive does a surprise rollout of file limits, locking out some users](https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/)
 * [2023-04-01, 03:54:39](https://news.ycombinator.com/item?id=35396945) - [Today’s management-speak has a lot in common with 1930s Soviet propaganda](https://fortune.com/2023/03/30/corporate-workplace-culture-soviet-union-1930s-increased-production-performance/)
