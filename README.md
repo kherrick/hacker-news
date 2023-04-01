@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-01, 04:16:46](https://news.ycombinator.com/item?id=35397071) - [Google Drive does a surprise rollout of file limits, locking out some users](https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/)
 * [2023-04-01, 03:54:39](https://news.ycombinator.com/item?id=35396945) - [Today’s management-speak has a lot in common with 1930s Soviet propaganda](https://fortune.com/2023/03/30/corporate-workplace-culture-soviet-union-1930s-increased-production-performance/)
 * [2023-04-01, 03:10:56](https://news.ycombinator.com/item?id=35396696) - [APLcart – Find your way in APL](https://aplcart.info/)
 * [2023-04-01, 01:40:41](https://news.ycombinator.com/item?id=35396165) - [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
 * [2023-04-01, 01:23:08](https://news.ycombinator.com/item?id=35396032) - [The same Italian regulator who banned ChatGPT has a non GDPR-compliant website](https://2gdpr.com/587054254)
 * [2023-03-31, 23:18:18](https://news.ycombinator.com/item?id=35395085) - [Book review: Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
-* [2023-03-31, 23:15:25](https://news.ycombinator.com/item?id=35395060) - [Maps show how parking lots “eat” U.S. cities](https://bigthink.com/strange-maps/parking-lots-eat-american-cities/)
 * [2023-03-31, 22:42:57](https://news.ycombinator.com/item?id=35394758) - [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
 * [2023-03-31, 22:04:37](https://news.ycombinator.com/item?id=35394297) - [Asahi Linux M1 GPU drivers can now run Windows games via Steam Proton](https://www.youtube.com/watch?v=dgd88zE3O38)
 * [2023-03-31, 21:00:03](https://news.ycombinator.com/item?id=35393579) - [Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer](https://www.tesorio.com/careers#job-openings)
