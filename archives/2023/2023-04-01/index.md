@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 18:12:30](https://news.ycombinator.com/item?id=35402539) - [AI chatbot &#x27;encouraged&#x27; man to sacrifice himself to stop climate change](https://www.euronews.com/next/2023/03/31/man-ends-his-life-after-an-ai-chatbot-encouraged-him-to-sacrifice-himself-to-stop-climate-)
+* [2023-04-01, 17:40:34](https://news.ycombinator.com/item?id=35402225) - [Pine64 March Update: Tablet Bonanza](https://www.pine64.org/2023/04/01/march-update-tablet-bonanza/)
 * [2023-04-01, 17:10:40](https://news.ycombinator.com/item?id=35401968) - [Deepest fish ever caught on camera off Japan](https://www.bbc.co.uk/news/science-environment-65148876)
 * [2023-04-01, 17:05:51](https://news.ycombinator.com/item?id=35401923) - [“AI doomism is becoming indistinguishable from a religion”](https://twitter.com/ylecun/status/1642205736678637572)
 * [2023-04-01, 16:16:31](https://news.ycombinator.com/item?id=35401436) - [San Francisco could be on the verge of collapse. What should California do?](https://www.sfchronicle.com/opinion/editorials/article/downtown-san-francisco-17852552.php)
