@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 08:38:51](https://news.ycombinator.com/item?id=35398480) - [Show HN: Coursemate, connect with other self learners](https://www.coursem8.com/)
 * [2023-04-01, 05:43:13](https://news.ycombinator.com/item?id=35397495) - [Copper is the missing ingredient of the energy transition](https://www.economist.com/business/2023/03/30/copper-is-the-missing-ingredient-of-the-energy-transition)
 * [2023-04-01, 05:41:59](https://news.ycombinator.com/item?id=35397491) - [Canonical to abandon Snap, remove in Ubuntu 24.04 LTS](https://news.itsfoss.com/ubuntu-ditch-snap/)
 * [2023-04-01, 05:27:52](https://news.ycombinator.com/item?id=35397418) - [Humanness in the Age of AI](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
