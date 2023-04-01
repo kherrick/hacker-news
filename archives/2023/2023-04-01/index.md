@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 16:16:31](https://news.ycombinator.com/item?id=35401436) - [San Francisco could be on the verge of collapse. What should California do?](https://www.sfchronicle.com/opinion/editorials/article/downtown-san-francisco-17852552.php)
+* [2023-04-01, 15:33:36](https://news.ycombinator.com/item?id=35401073) - [The Contradictions of Sam Altman](https://www.wsj.com/articles/chatgpt-sam-altman-artificial-intelligence-openai-b0e1c8c9)
 * [2023-04-01, 14:34:57](https://news.ycombinator.com/item?id=35400598) - [Generative AI set to affect 300M jobs across major economies](https://www.ft.com/content/7dec4483-ad34-4007-bb3a-7ac925643999)
 * [2023-04-01, 14:19:29](https://news.ycombinator.com/item?id=35400511) - [Salesforce is shuttering Slack’s remote work research group Future Forum](https://finance.yahoo.com/news/salesforce-shuttering-slack-remote-research-004925901.html)
 * [2023-04-01, 14:17:36](https://news.ycombinator.com/item?id=35400497) - [Twitter scrubbing Elon, Republican, Democrat code references on GitHub](https://github.com/twitter/the-algorithm/blob/7f90d0ca342b928b479b512ec51ac2c3821f5922/home-mixer/server/src/main/scala/com/twitter/home_mixer/functional_component/feature_hydrator/RequestQueryFeatureHydrator.scala)
@@ -28,6 +30,7 @@
 * [2023-04-01, 05:31:06](https://news.ycombinator.com/item?id=35397427) - [PC keyboard hides an interesting secret](https://linuxjedi.co.uk/2023/03/31/this-pc-keyboard-hides-an-interesting-secret/)
 * [2023-04-01, 05:27:52](https://news.ycombinator.com/item?id=35397418) - [Humanness in the Age of AI](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
 * [2023-04-01, 04:55:30](https://news.ycombinator.com/item?id=35397271) - [He who submits a resume has already lost](https://www.residentcontrarian.com/p/he-who-submits-a-resume-has-already)
+* [2023-04-01, 04:26:01](https://news.ycombinator.com/item?id=35397135) - [The xine hacker&#x27;s guide (2003)](http://web.mit.edu/outland/share/doc/xine/hackersguide/hackersguide.html)
 * [2023-04-01, 04:17:22](https://news.ycombinator.com/item?id=35397076) - [Why Americans Care About Work So Much](https://www.theatlantic.com/ideas/archive/2023/03/work-revolution-ai-wfh-new-book/673572/)
 * [2023-04-01, 04:16:46](https://news.ycombinator.com/item?id=35397071) - [Google Drive does a surprise rollout of file limits, locking out some users](https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/)
 * [2023-04-01, 04:14:02](https://news.ycombinator.com/item?id=35397051) - [France&#x27;s Long Distance Trail](https://en.hexatrek.com)
