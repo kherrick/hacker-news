@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
 * [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [“Alexa, what is my WiFi password?”](https://dragon863.github.io/blog/alexa.html)
+* [2023-04-01, 11:48:19](https://news.ycombinator.com/item?id=35399480) - [Commander X16 2023 update [video]](https://www.youtube.com/watch?v=nyByDNQuMMI)
 * [2023-04-01, 11:20:48](https://news.ycombinator.com/item?id=35399315) - [Ask HN: What&#x27;s the name of this concept related to surveillance](https://news.ycombinator.com/item?id=35399315)
 * [2023-04-01, 11:03:10](https://news.ycombinator.com/item?id=35399218) - [Show HN: Use cookies from Chrome (CDP) in cURL without copy pasting](https://github.com/fipso/ccurl.sh)
 * [2023-04-01, 09:16:31](https://news.ycombinator.com/item?id=35398643) - [Wine 8.5](https://www.winehq.org/announce/8.5)
@@ -21,5 +22,6 @@
 * [2023-04-01, 03:54:39](https://news.ycombinator.com/item?id=35396945) - [Today’s management-speak has a lot in common with 1930s Soviet propaganda](https://fortune.com/2023/03/30/corporate-workplace-culture-soviet-union-1930s-increased-production-performance/)
 * [2023-04-01, 03:10:56](https://news.ycombinator.com/item?id=35396696) - [APLcart – Find your way in APL](https://aplcart.info/)
 * [2023-04-01, 01:40:41](https://news.ycombinator.com/item?id=35396165) - [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
+* [2023-04-01, 01:39:31](https://news.ycombinator.com/item?id=35396156) - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
 * [2023-04-01, 01:23:08](https://news.ycombinator.com/item?id=35396032) - [The same Italian regulator who banned ChatGPT has a non GDPR-compliant website](https://2gdpr.com/587054254)
 * [2023-04-01, 00:33:51](https://news.ycombinator.com/item?id=35395714) - [I&#x27;m done being an underpaid and mistreated wage slave. I am going out on my own](https://startupdreams.substack.com/p/im-done-being-an-underpaid-and-mistreated)
