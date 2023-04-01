@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-04-01, 18:57:55",
+      "https://news.ycombinator.com/item?id=35402979"
+    ],
+    [
+      "Google Reader Inspired RSS Reader",
+      "https://boredreading.com/?1"
+    ]
+  ],
+  [
+    [
       "2023-04-01, 18:35:03",
       "https://news.ycombinator.com/item?id=35402775"
     ],
     [
-      "NASA Validates Revolutionary Propulsion Design for Deep Space Missions",
+      "NASA validates revolutionary propulsion design for deep space missions",
       "https://www.nasa.gov/centers/marshall/feature/nasa-validates-revolutionary-propulsion-design-for-deep-space-missions/"
     ]
   ],
@@ -17,16 +27,6 @@
     [
       "Pausing Manifest V2 phase-out changes",
       "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/zQ77HkGmK9E/m/HjaaCIG-BQAJ"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 18:12:30",
-      "https://news.ycombinator.com/item?id=35402539"
-    ],
-    [
-      "AI chatbot &#x27;encouraged&#x27; man to sacrifice himself to stop climate change",
-      "https://www.euronews.com/next/2023/03/31/man-ends-his-life-after-an-ai-chatbot-encouraged-him-to-sacrifice-himself-to-stop-climate-"
     ]
   ],
   [
@@ -65,8 +65,18 @@
       "https://news.ycombinator.com/item?id=35400253"
     ],
     [
-      "The surprising roots of Japan&#x27;s Indian curry",
+      "The roots of Japan&#x27;s Indian curry",
       "https://one-from-nippon.ghost.io/indo-curry/"
+    ]
+  ],
+  [
+    [
+      "2023-04-01, 13:12:30",
+      "https://news.ycombinator.com/item?id=35400047"
+    ],
+    [
+      "Moving from Rust to C++",
+      "https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-04-01, 09:16:31",
-      "https://news.ycombinator.com/item?id=35398643"
-    ],
-    [
-      "Wine 8.5",
-      "https://www.winehq.org/announce/8.5"
-    ]
-  ],
-  [
-    [
       "2023-04-01, 08:38:51",
       "https://news.ycombinator.com/item?id=35398480"
     ],
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-04-01, 04:16:46",
-      "https://news.ycombinator.com/item?id=35397071"
-    ],
-    [
-      "Google Drive does a surprise rollout of file limits, locking out some users",
-      "https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/"
-    ]
-  ],
-  [
-    [
       "2023-04-01, 04:14:02",
       "https://news.ycombinator.com/item?id=35397051"
     ],
@@ -181,22 +171,22 @@
   ],
   [
     [
-      "2023-03-31, 21:00:03",
-      "https://news.ycombinator.com/item?id=35393579"
-    ],
-    [
-      "Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer",
-      "https://www.tesorio.com/careers#job-openings"
-    ]
-  ],
-  [
-    [
       "2023-03-31, 20:37:50",
       "https://news.ycombinator.com/item?id=35393284"
     ],
     [
       "Llama.cpp 30B runs with only 6GB of RAM now",
       "https://github.com/ggerganov/llama.cpp/pull/613"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 20:21:16",
+      "https://news.ycombinator.com/item?id=35393040"
+    ],
+    [
+      "The Wonders of Postgres Logical Decoding Messages",
+      "https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Launch HN: Inri (YC W23) – Wealthfront for Investing in India",
       "https://news.ycombinator.com/item?id=35389110"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 14:33:50",
+      "https://news.ycombinator.com/item?id=35387754"
+    ],
+    [
+      "Pizza rolls and the meaning of midcentury food",
+      "https://www.snackstack.net/p/pizza-rolls-and-the-meaning-of-midcentury"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-03-31, 06:44:56",
-      "https://news.ycombinator.com/item?id=35383527"
+      "2023-03-30, 23:48:20",
+      "https://news.ycombinator.com/item?id=35380459"
     ],
     [
-      "A New Beginning for LifeHacker",
-      "https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940"
+      "K: We need to talk about group",
+      "https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a"
     ]
   ],
   [
