@@ -6,6 +6,7 @@
 * [2023-04-01, 21:40:44](https://news.ycombinator.com/item?id=35404374) - [Another Reply to Josef PRůša](https://www.haerdin.se/blog/2023/04/01/another-reply-to-josef-prusa/)
 * [2023-04-01, 21:39:39](https://news.ycombinator.com/item?id=35404361) - [Tax Evasion at the Top of the Income Distribution: Theory and Evidence (2021) [pdf]](https://www.nber.org/system/files/working_papers/w28542/w28542.pdf)
 * [2023-04-01, 21:30:26](https://news.ycombinator.com/item?id=35404275) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
+* [2023-04-01, 21:01:59](https://news.ycombinator.com/item?id=35404025) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
 * [2023-04-01, 20:28:56](https://news.ycombinator.com/item?id=35403776) - [Less than half of us workers use all their vacation days](https://www.bloomberg.com/news/articles/2023-03-30/less-than-half-of-us-workers-use-all-their-vacation-days)
 * [2023-04-01, 20:22:19](https://news.ycombinator.com/item?id=35403726) - [What broke Sweden? Real estate bust exposes big divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
 * [2023-04-01, 19:57:00](https://news.ycombinator.com/item?id=35403535) - [The effects of wealth on (Swedish) marriage and fertility](https://www.nber.org/papers/w31039#fromrss)
@@ -29,7 +30,6 @@
 * [2023-03-31, 13:20:52](https://news.ycombinator.com/item?id=35386747) - [Newest Linux Gaming Predictions for 2023](https://boilingsteam.com/epic-linux-gaming-predictions-for-2023/)
 * [2023-03-31, 12:19:00](https://news.ycombinator.com/item?id=35385952) - [Erlang&#x2F;OTP: Garbage Collector](https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87)
 * [2023-03-31, 10:08:14](https://news.ycombinator.com/item?id=35384789) - [Visual programming with Elixir: Learning to write binary parsers (2019)](https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17)
-* [2023-03-31, 04:35:06](https://news.ycombinator.com/item?id=35382614) - [Bouguer’s Halo](https://atoptics.co.uk/fz694.htm)
 
 ## [Archives](archives/index.md)
 
