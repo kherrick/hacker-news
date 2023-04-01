@@ -91,6 +91,7 @@
 * [2023-03-31, 02:35:38](https://news.ycombinator.com/item?id=35381755) - [When SVG almost got network support for raw sockets](https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/)
 * [2023-03-31, 02:28:07](https://news.ycombinator.com/item?id=35381701) - [Tax preparation industry alarmed over plan for IRS free tax-filing system](https://www.nytimes.com/2023/03/30/us/politics/biden-irs-overhaul-taxes.html)
 * [2023-03-31, 01:48:45](https://news.ycombinator.com/item?id=35381365) - [San Francisco schools banned kids from taking algebra in 8th grade](https://twitter.com/Noahpinion/status/1641395730735849473)
+* [2023-03-31, 01:34:24](https://news.ycombinator.com/item?id=35381260) - [“Advice to Bride and Groom” by Plutarch (C. 100 CE)](https://www.laphamsquarterly.org/roundtable/forever-hold-your-peace)
 * [2023-03-31, 01:09:06](https://news.ycombinator.com/item?id=35381036) - [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
 * [2023-03-31, 01:03:50](https://news.ycombinator.com/item?id=35380993) - [Stellantis CEO: There may not be enough raw materials to electrify globe](https://www.detroitnews.com/story/business/autos/2023/03/29/stellantis-carlos-tavares-freedom-mobility-forum-raw-materials-electric-vehicles/70059274007/)
 * [2023-03-31, 00:55:22](https://news.ycombinator.com/item?id=35380939) - [I have never been treated this bad in an interview process in 20 years](https://startupdreams.substack.com/p/i-just-had-the-worst-interview-process)
