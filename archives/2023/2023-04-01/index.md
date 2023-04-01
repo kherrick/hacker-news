@@ -13,6 +13,7 @@
 * [2023-04-01, 08:00:43](https://news.ycombinator.com/item?id=35398235) - [My4TH – A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
 * [2023-04-01, 05:43:13](https://news.ycombinator.com/item?id=35397495) - [Copper is the missing ingredient of the energy transition](https://www.economist.com/business/2023/03/30/copper-is-the-missing-ingredient-of-the-energy-transition)
 * [2023-04-01, 05:41:59](https://news.ycombinator.com/item?id=35397491) - [Canonical to abandon Snap, remove in Ubuntu 24.04 LTS](https://news.itsfoss.com/ubuntu-ditch-snap/)
+* [2023-04-01, 05:31:06](https://news.ycombinator.com/item?id=35397427) - [PC keyboard hides an interesting secret](https://linuxjedi.co.uk/2023/03/31/this-pc-keyboard-hides-an-interesting-secret/)
 * [2023-04-01, 05:27:52](https://news.ycombinator.com/item?id=35397418) - [Humanness in the Age of AI](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
 * [2023-04-01, 04:55:30](https://news.ycombinator.com/item?id=35397271) - [He who submits a resume has already lost](https://www.residentcontrarian.com/p/he-who-submits-a-resume-has-already)
 * [2023-04-01, 04:17:22](https://news.ycombinator.com/item?id=35397076) - [Why Americans Care About Work So Much](https://www.theatlantic.com/ideas/archive/2023/03/work-revolution-ai-wfh-new-book/673572/)
