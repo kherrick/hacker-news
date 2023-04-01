@@ -77,6 +77,7 @@
 * [2023-03-31, 09:38:03](https://news.ycombinator.com/item?id=35384608) - [Solid-State Battery Has 2x the Energy–and No Anode](https://spectrum.ieee.org/solid-state-battery-no-anode)
 * [2023-03-31, 09:14:02](https://news.ycombinator.com/item?id=35384462) - [Where have all the laid-off tech workers gone?](https://www.economist.com/business/2023/03/27/where-have-all-the-laid-off-tech-workers-gone)
 * [2023-03-31, 08:44:26](https://news.ycombinator.com/item?id=35384313) - [How the EU CHIPS Act Could Build “Innovation Capacity” in Europe](https://spectrum.ieee.org/eu-chips-act-imec)
+* [2023-03-31, 08:01:57](https://news.ycombinator.com/item?id=35384053) - [Former Hiroshima Branch of the Bank of Japan](https://peace-tourism.com/en/story/bankofjapanhiroshimabranch.html)
 * [2023-03-31, 07:43:09](https://news.ycombinator.com/item?id=35383925) - [Meta wants EU users to apply for permission to opt out of data collection](https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/)
 * [2023-03-31, 07:32:51](https://news.ycombinator.com/item?id=35383852) - [DNND 2: Tensors and Convolution](https://maxliani.wordpress.com/2023/03/24/dnnd-2-tensors-and-convolution/)
 * [2023-03-31, 07:07:56](https://news.ycombinator.com/item?id=35383672) - [Immutable Linux Distributions for Those Looking to Embrace the Future](https://itsfoss.com/immutable-linux-distros/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 09:16:31](https://news.ycombinator.com/item?id=35398643) - [Wine 8.5](https://www.winehq.org/announce/8.5)
 * [2023-04-01, 08:38:51](https://news.ycombinator.com/item?id=35398480) - [Show HN: Coursemate, connect with other self learners](https://www.coursem8.com/)
 * [2023-04-01, 08:08:55](https://news.ycombinator.com/item?id=35398294) - [Ameliorated: Windows 10 and 11 minus the spyware](https://ameliorated.io/)
 * [2023-04-01, 08:00:43](https://news.ycombinator.com/item?id=35398235) - [My4TH – A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
