@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-01, 18:35:03",
+      "https://news.ycombinator.com/item?id=35402775"
+    ],
+    [
+      "NASA Validates Revolutionary Propulsion Design for Deep Space Missions",
+      "https://www.nasa.gov/centers/marshall/feature/nasa-validates-revolutionary-propulsion-design-for-deep-space-missions/"
+    ]
+  ],
+  [
+    [
       "2023-04-01, 18:29:08",
       "https://news.ycombinator.com/item?id=35402698"
     ],
@@ -37,16 +47,6 @@
     [
       "Deepest fish ever caught on camera off Japan",
       "https://www.bbc.co.uk/news/science-environment-65148876"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 15:33:36",
-      "https://news.ycombinator.com/item?id=35401073"
-    ],
-    [
-      "The Contradictions of Sam Altman",
-      "https://www.wsj.com/articles/chatgpt-sam-altman-artificial-intelligence-openai-b0e1c8c9"
     ]
   ],
   [
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=35398480"
     ],
     [
-      "Show HN: Coursemate, connect with other self learners",
+      "Show HN: Coursemate – connect with other self learners",
       "https://www.coursem8.com/"
     ]
   ],
@@ -137,16 +137,6 @@
     [
       "AMD’s HD 6950 vs. RX 6900 XT: What Does Adding 50 Do?",
       "https://chipsandcheese.com/2023/04/01/amds-hd-6950-vs-rx-6900-xt-what-does-adding-50-do/"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 08:00:43",
-      "https://news.ycombinator.com/item?id=35398235"
-    ],
-    [
-      "My4TH – A minimalistic Forth computer with discrete CPU",
-      "http://mynor.org/my4th.htm"
     ]
   ],
   [
@@ -185,8 +175,18 @@
       "https://news.ycombinator.com/item?id=35397051"
     ],
     [
-      "France&#x27;s Long Distance Trail",
+      "Hexatrek: The long distance thru hike in France",
       "https://en.hexatrek.com"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 21:00:03",
+      "https://news.ycombinator.com/item?id=35393579"
+    ],
+    [
+      "Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer",
+      "https://www.tesorio.com/careers#job-openings"
     ]
   ],
   [
@@ -197,6 +197,16 @@
     [
       "Llama.cpp 30B runs with only 6GB of RAM now",
       "https://github.com/ggerganov/llama.cpp/pull/613"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 19:34:22",
+      "https://news.ycombinator.com/item?id=35392288"
+    ],
+    [
+      "The Contradictions of Sam Altman",
+      "https://www.wsj.com/articles/chatgpt-sam-altman-artificial-intelligence-openai-b0e1c8c9"
     ]
   ],
   [
@@ -255,18 +265,8 @@
       "https://news.ycombinator.com/item?id=35385868"
     ],
     [
-      "Dungeons and Dragons Embarks on an Epic Quest to Finally Make Money",
+      "Dungeons and Dragons embarks on an epic quest to finally make money",
       "https://www.bloomberg.com/news/features/2023-03-30/dungeons-and-dragons-movie-gives-hasbro-a-golden-opportunity"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 10:32:37",
-      "https://news.ycombinator.com/item?id=35384947"
-    ],
-    [
-      "The Wonders of Postgres Logical Decoding Messages",
-      "https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=35384789"
     ],
     [
-      "Visual Programming with Elixir: Learning to Write Binary Parsers (2019)",
+      "Visual programming with Elixir: Learning to write binary parsers (2019)",
       "https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17"
     ]
   ],
