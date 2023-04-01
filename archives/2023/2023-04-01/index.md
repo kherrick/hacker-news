@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 21:08:16](https://news.ycombinator.com/item?id=35404080) - [Ringwoodite](https://en.wikipedia.org/wiki/Ringwoodite)
 * [2023-04-01, 20:28:56](https://news.ycombinator.com/item?id=35403776) - [Less Than Half of US Workers Use All Their Vacation Days](https://www.bloomberg.com/news/articles/2023-03-30/less-than-half-of-us-workers-use-all-their-vacation-days)
 * [2023-04-01, 20:22:19](https://news.ycombinator.com/item?id=35403726) - [What Broke Sweden? Real Estate Bust Exposes Big Divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
 * [2023-04-01, 19:57:00](https://news.ycombinator.com/item?id=35403535) - [The effects of wealth on (Swedish) marriage and fertility](https://www.nber.org/papers/w31039#fromrss)

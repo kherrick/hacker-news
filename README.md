@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-01, 21:08:16](https://news.ycombinator.com/item?id=35404080) - [Ringwoodite](https://en.wikipedia.org/wiki/Ringwoodite)
 * [2023-04-01, 20:28:56](https://news.ycombinator.com/item?id=35403776) - [Less Than Half of US Workers Use All Their Vacation Days](https://www.bloomberg.com/news/articles/2023-03-30/less-than-half-of-us-workers-use-all-their-vacation-days)
 * [2023-04-01, 20:22:19](https://news.ycombinator.com/item?id=35403726) - [What Broke Sweden? Real Estate Bust Exposes Big Divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
 * [2023-04-01, 19:57:00](https://news.ycombinator.com/item?id=35403535) - [The effects of wealth on (Swedish) marriage and fertility](https://www.nber.org/papers/w31039#fromrss)
-* [2023-04-01, 19:32:53](https://news.ycombinator.com/item?id=35403327) - [U.S. Government Sold $216M of Seized Silk Road Bitcoin This Month](https://www.coindesk.com/business/2023/03/31/us-government-sold-216m-of-seized-silk-road-bitcoin-this-month/)
 * [2023-04-01, 18:57:55](https://news.ycombinator.com/item?id=35402979) - [Show HN: A Google Reader-inspired RSS reader](https://boredreading.com/?1)
 * [2023-04-01, 18:35:03](https://news.ycombinator.com/item?id=35402775) - [NASA validates revolutionary propulsion design for deep space missions](https://www.nasa.gov/centers/marshall/feature/nasa-validates-revolutionary-propulsion-design-for-deep-space-missions/)
 * [2023-04-01, 18:29:08](https://news.ycombinator.com/item?id=35402698) - [Pausing Manifest V2 phase-out changes](https://groups.google.com/a/chromium.org/g/chromium-extensions/c/zQ77HkGmK9E/m/HjaaCIG-BQAJ)
