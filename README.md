@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-01, 13:44:02](https://news.ycombinator.com/item?id=35400253) - [The surprising roots of Japan&#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
+* [2023-04-01, 13:12:30](https://news.ycombinator.com/item?id=35400047) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [“Alexa, what is my WiFi password?”](https://dragon863.github.io/blog/alexa.html)
 * [2023-04-01, 11:48:19](https://news.ycombinator.com/item?id=35399480) - [Commander X16 2023 update [video]](https://www.youtube.com/watch?v=nyByDNQuMMI)
@@ -22,7 +23,6 @@
 * [2023-03-31, 14:33:50](https://news.ycombinator.com/item?id=35387754) - [Pizza rolls and the meaning of midcentury food](https://www.snackstack.net/p/pizza-rolls-and-the-meaning-of-midcentury)
 * [2023-03-31, 13:35:36](https://news.ycombinator.com/item?id=35386948) - [Postgres as a graph database](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/)
 * [2023-03-31, 12:19:00](https://news.ycombinator.com/item?id=35385952) - [Erlang&#x2F;OTP: Garbage Collector](https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87)
-* [2023-03-31, 10:49:15](https://news.ycombinator.com/item?id=35385075) - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
 * [2023-03-31, 10:32:37](https://news.ycombinator.com/item?id=35384947) - [The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
 * [2023-03-31, 08:01:57](https://news.ycombinator.com/item?id=35384053) - [Former Hiroshima Branch of the Bank of Japan](https://peace-tourism.com/en/story/bankofjapanhiroshimabranch.html)
 * [2023-03-31, 07:32:51](https://news.ycombinator.com/item?id=35383852) - [DNND 2: Tensors and Convolution](https://maxliani.wordpress.com/2023/03/24/dnnd-2-tensors-and-convolution/)

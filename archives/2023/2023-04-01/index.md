@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
 * [2023-04-01, 13:44:02](https://news.ycombinator.com/item?id=35400253) - [The surprising roots of Japan&#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
+* [2023-04-01, 13:12:30](https://news.ycombinator.com/item?id=35400047) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [“Alexa, what is my WiFi password?”](https://dragon863.github.io/blog/alexa.html)
 * [2023-04-01, 11:48:19](https://news.ycombinator.com/item?id=35399480) - [Commander X16 2023 update [video]](https://www.youtube.com/watch?v=nyByDNQuMMI)
