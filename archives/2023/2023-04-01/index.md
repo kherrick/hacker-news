@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 05:41:59](https://news.ycombinator.com/item?id=35397491) - [Canonical to abandon Snap, remove in Ubuntu 24.04 LTS](https://news.itsfoss.com/ubuntu-ditch-snap/)
+* [2023-04-01, 05:27:52](https://news.ycombinator.com/item?id=35397418) - [Humanness in the Age of AI](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
 * [2023-04-01, 04:55:30](https://news.ycombinator.com/item?id=35397271) - [He who submits a resume has already lost](https://www.residentcontrarian.com/p/he-who-submits-a-resume-has-already)
 * [2023-04-01, 04:17:22](https://news.ycombinator.com/item?id=35397076) - [Why Americans Care About Work So Much](https://www.theatlantic.com/ideas/archive/2023/03/work-revolution-ai-wfh-new-book/673572/)
 * [2023-04-01, 04:16:46](https://news.ycombinator.com/item?id=35397071) - [Google Drive does a surprise rollout of file limits, locking out some users](https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/)

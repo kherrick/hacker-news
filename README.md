@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-01, 05:41:59](https://news.ycombinator.com/item?id=35397491) - [Canonical to abandon Snap, remove in Ubuntu 24.04 LTS](https://news.itsfoss.com/ubuntu-ditch-snap/)
+* [2023-04-01, 05:27:52](https://news.ycombinator.com/item?id=35397418) - [Humanness in the Age of AI](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
 * [2023-04-01, 04:55:30](https://news.ycombinator.com/item?id=35397271) - [He who submits a resume has already lost](https://www.residentcontrarian.com/p/he-who-submits-a-resume-has-already)
 * [2023-04-01, 04:17:22](https://news.ycombinator.com/item?id=35397076) - [Why Americans Care About Work So Much](https://www.theatlantic.com/ideas/archive/2023/03/work-revolution-ai-wfh-new-book/673572/)
 * [2023-04-01, 04:16:46](https://news.ycombinator.com/item?id=35397071) - [Google Drive does a surprise rollout of file limits, locking out some users](https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/)
@@ -24,12 +26,10 @@
 * [2023-03-31, 04:35:06](https://news.ycombinator.com/item?id=35382614) - [Bouguer’s Halo](https://atoptics.co.uk/fz694.htm)
 * [2023-03-31, 03:42:20](https://news.ycombinator.com/item?id=35382252) - [SSD as Long Term Storage Testing](https://htwingnut.com/2022/09/11/ssd-as-long-term-storage-testing/)
 * [2023-03-31, 01:34:24](https://news.ycombinator.com/item?id=35381260) - [“Advice to Bride and Groom” by Plutarch (C. 100 CE)](https://www.laphamsquarterly.org/roundtable/forever-hold-your-peace)
-* [2023-03-31, 00:26:27](https://news.ycombinator.com/item?id=35380742) - [Programming isn’t coding (2020)](https://occasionallycogent.com/programming_isnt_coding/index.html)
 * [2023-03-30, 21:01:12](https://news.ycombinator.com/item?id=35378771) - [Saying Goodbye to Open Source Bridge (2018)](https://lifeofaudrey.com/2018/07/03/osbridge.html)
 * [2023-03-30, 20:01:15](https://news.ycombinator.com/item?id=35378109) - [The undocumented Android change that led to aCropalypse was reported during beta](https://iliana.fyi/blog/acropalypse-now/)
 * [2023-03-30, 18:13:43](https://news.ycombinator.com/item?id=35376863) - [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
 * [2023-03-30, 07:30:51](https://news.ycombinator.com/item?id=35369312) - [The inventor of the troll doll only made a sliver of the proceeds](https://thehustle.co/how-the-inventor-of-the-troll-doll-missed-out-on-a-fortune/)
-* [2023-03-30, 00:22:52](https://news.ycombinator.com/item?id=35365955) - [The audiences and authors of midwifery manuals](https://www.laphamsquarterly.org/roundtable/learning-better-house-or-land)
 
 ## [Archives](archives/index.md)
 
