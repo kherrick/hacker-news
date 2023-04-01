@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-01, 21:08:16](https://news.ycombinator.com/item?id=35404080) - [Ringwoodite](https://en.wikipedia.org/wiki/Ringwoodite)
+* [2023-04-01, 21:39:39](https://news.ycombinator.com/item?id=35404361) - [Tax Evasion at the Top of the Income Distribution: Theory and Evidence [pdf]](https://www.nber.org/system/files/working_papers/w28542/w28542.pdf)
+* [2023-04-01, 20:50:57](https://news.ycombinator.com/item?id=35403940) - [Porsche’s E-Fuel Burns Just Like the Real Thing](https://www.wired.com/story/porsche-e-fuel-emissions-neutral-synthetic-gas/)
 * [2023-04-01, 20:28:56](https://news.ycombinator.com/item?id=35403776) - [Less Than Half of US Workers Use All Their Vacation Days](https://www.bloomberg.com/news/articles/2023-03-30/less-than-half-of-us-workers-use-all-their-vacation-days)
 * [2023-04-01, 20:22:19](https://news.ycombinator.com/item?id=35403726) - [What Broke Sweden? Real Estate Bust Exposes Big Divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
 * [2023-04-01, 19:57:00](https://news.ycombinator.com/item?id=35403535) - [The effects of wealth on (Swedish) marriage and fertility](https://www.nber.org/papers/w31039#fromrss)
@@ -25,7 +26,6 @@
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 16:02:50](https://news.ycombinator.com/item?id=35389110) - [Launch HN: Inri (YC W23) – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
 * [2023-03-31, 14:33:50](https://news.ycombinator.com/item?id=35387754) - [Pizza rolls and the meaning of midcentury food](https://www.snackstack.net/p/pizza-rolls-and-the-meaning-of-midcentury)
-* [2023-03-31, 13:48:51](https://news.ycombinator.com/item?id=35387120) - [S3 as an Eternal Service](https://www.lastweekinaws.com/blog/s3-as-an-eternal-service/)
 * [2023-03-31, 13:32:45](https://news.ycombinator.com/item?id=35386907) - [Calibration Display for NASA (2019)](https://www.daliborfarny.com/project/calibration-display-for-nasa/)
 * [2023-03-31, 12:19:00](https://news.ycombinator.com/item?id=35385952) - [Erlang&#x2F;OTP: Garbage Collector](https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87)
 * [2023-03-31, 10:08:14](https://news.ycombinator.com/item?id=35384789) - [Visual programming with Elixir: Learning to write binary parsers (2019)](https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17)
