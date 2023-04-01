@@ -24,10 +24,10 @@
 * [2023-03-31, 13:35:36](https://news.ycombinator.com/item?id=35386948) - [Postgres as a graph database](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/)
 * [2023-03-31, 12:19:00](https://news.ycombinator.com/item?id=35385952) - [Erlang&#x2F;OTP: Garbage Collector](https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87)
 * [2023-03-31, 10:32:37](https://news.ycombinator.com/item?id=35384947) - [The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
+* [2023-03-31, 10:08:14](https://news.ycombinator.com/item?id=35384789) - [Visual Programming with Elixir: Learning to Write Binary Parsers (2019)](https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17)
 * [2023-03-31, 08:01:57](https://news.ycombinator.com/item?id=35384053) - [Former Hiroshima Branch of the Bank of Japan](https://peace-tourism.com/en/story/bankofjapanhiroshimabranch.html)
 * [2023-03-31, 07:32:51](https://news.ycombinator.com/item?id=35383852) - [DNND 2: Tensors and Convolution](https://maxliani.wordpress.com/2023/03/24/dnnd-2-tensors-and-convolution/)
 * [2023-03-31, 06:44:56](https://news.ycombinator.com/item?id=35383527) - [A New Beginning for LifeHacker](https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940)
-* [2023-03-30, 23:48:20](https://news.ycombinator.com/item?id=35380459) - [K: We need to talk about group](https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a)
 * [2023-03-30, 21:01:12](https://news.ycombinator.com/item?id=35378771) - [Saying Goodbye to Open Source Bridge (2018)](https://lifeofaudrey.com/2018/07/03/osbridge.html)
 * [2023-03-30, 20:01:15](https://news.ycombinator.com/item?id=35378109) - [The undocumented Android change that led to aCropalypse was reported during beta](https://iliana.fyi/blog/acropalypse-now/)
 
