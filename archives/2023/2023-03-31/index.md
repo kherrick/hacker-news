@@ -79,6 +79,7 @@
 * [2023-03-31, 07:43:09](https://news.ycombinator.com/item?id=35383925) - [Meta wants EU users to apply for permission to opt out of data collection](https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/)
 * [2023-03-31, 07:07:56](https://news.ycombinator.com/item?id=35383672) - [Immutable Linux Distributions for Those Looking to Embrace the Future](https://itsfoss.com/immutable-linux-distros/)
 * [2023-03-31, 07:06:53](https://news.ycombinator.com/item?id=35383662) - [Decreasing the Number of Memory Accesses 1&#x2F;2](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-1-2/)
+* [2023-03-31, 06:44:56](https://news.ycombinator.com/item?id=35383527) - [A New Beginning for LifeHacker](https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940)
 * [2023-03-31, 06:39:05](https://news.ycombinator.com/item?id=35383488) - [Virgin Orbit: Sir Richard Branson&#x27;s rocket company lays off 85% of staff](https://www.bbc.co.uk/news/business-65133099)
 * [2023-03-31, 06:00:56](https://news.ycombinator.com/item?id=35383195) - [Entwined African and Asian genetic roots of medieval people of the Swahili coast](https://www.nature.com/articles/s41586-023-05754-w)
 * [2023-03-31, 05:56:38](https://news.ycombinator.com/item?id=35383160) - [Paradigms Gone Wild](https://www.lrb.co.uk/the-paper/v45/n07/steven-shapin/paradigms-gone-wild)
