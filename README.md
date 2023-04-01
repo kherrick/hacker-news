@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-01, 13:44:02](https://news.ycombinator.com/item?id=35400253) - [The surprising roots of Japan&#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [“Alexa, what is my WiFi password?”](https://dragon863.github.io/blog/alexa.html)
 * [2023-04-01, 11:48:19](https://news.ycombinator.com/item?id=35399480) - [Commander X16 2023 update [video]](https://www.youtube.com/watch?v=nyByDNQuMMI)
@@ -14,7 +15,6 @@
 * [2023-04-01, 01:40:41](https://news.ycombinator.com/item?id=35396165) - [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
 * [2023-04-01, 01:39:31](https://news.ycombinator.com/item?id=35396156) - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
 * [2023-03-31, 23:18:18](https://news.ycombinator.com/item?id=35395085) - [Book review: Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
-* [2023-03-31, 22:42:57](https://news.ycombinator.com/item?id=35394758) - [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
 * [2023-03-31, 21:00:03](https://news.ycombinator.com/item?id=35393579) - [Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer](https://www.tesorio.com/careers#job-openings)
 * [2023-03-31, 20:37:50](https://news.ycombinator.com/item?id=35393284) - [Llama.cpp 30B runs with only 6GB of RAM now](https://github.com/ggerganov/llama.cpp/pull/613)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
