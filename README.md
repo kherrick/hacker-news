@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-01, 03:10:56](https://news.ycombinator.com/item?id=35396696) - [APLcart – Find your way in APL](https://aplcart.info/)
 * [2023-04-01, 01:40:41](https://news.ycombinator.com/item?id=35396165) - [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
 * [2023-03-31, 23:18:18](https://news.ycombinator.com/item?id=35395085) - [Book review: Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
 * [2023-03-31, 23:15:25](https://news.ycombinator.com/item?id=35395060) - [Maps show how parking lots “eat” U.S. cities](https://bigthink.com/strange-maps/parking-lots-eat-american-cities/)
@@ -20,7 +21,6 @@
 * [2023-03-31, 13:51:33](https://news.ycombinator.com/item?id=35387160) - [Show HN: Multi-display screen sharing with CoScreen](https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/)
 * [2023-03-31, 13:35:36](https://news.ycombinator.com/item?id=35386948) - [Postgres as a graph database](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/)
 * [2023-03-31, 12:55:19](https://news.ycombinator.com/item?id=35386405) - [Janet for Mortals](https://janet.guide/)
-* [2023-03-31, 10:49:15](https://news.ycombinator.com/item?id=35385075) - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
 * [2023-03-31, 06:00:56](https://news.ycombinator.com/item?id=35383195) - [Entwined African and Asian genetic roots of medieval people of the Swahili coast](https://www.nature.com/articles/s41586-023-05754-w)
 * [2023-03-31, 03:42:20](https://news.ycombinator.com/item?id=35382252) - [SSD as Long Term Storage Testing](https://htwingnut.com/2022/09/11/ssd-as-long-term-storage-testing/)
 * [2023-03-31, 00:26:27](https://news.ycombinator.com/item?id=35380742) - [Programming Isn’t Coding](https://occasionallycogent.com/programming_isnt_coding/index.html)
