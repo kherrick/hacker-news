@@ -72,6 +72,7 @@
 * [2023-03-31, 10:49:15](https://news.ycombinator.com/item?id=35385075) - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
 * [2023-03-31, 10:45:02](https://news.ycombinator.com/item?id=35385032) - [Ask HN: AI also read books, Human also. What&#x27;s the difference?](https://news.ycombinator.com/item?id=35385032)
 * [2023-03-31, 10:43:22](https://news.ycombinator.com/item?id=35385019) - [Pairing with GPT-4 · Fly](https://fly.io/ruby-dispatch/pairing-with-gpt-4/)
+* [2023-03-31, 10:32:37](https://news.ycombinator.com/item?id=35384947) - [The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
 * [2023-03-31, 09:53:57](https://news.ycombinator.com/item?id=35384691) - [Helix: Release 23.03 Highlights](https://helix-editor.com/news/release-23-03-highlights/)
 * [2023-03-31, 09:47:03](https://news.ycombinator.com/item?id=35384652) - [British government mocked for advertising head of cyber role with £57K salary](https://therecord.media/head-of-cyber-role-salary-uk-hm-treasury)
 * [2023-03-31, 09:45:04](https://news.ycombinator.com/item?id=35384646) - [Ask HN: How to you monetize a tech blog?](https://news.ycombinator.com/item?id=35384646)
