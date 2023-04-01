@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-01, 09:16:31](https://news.ycombinator.com/item?id=35398643) - [Wine 8.5](https://www.winehq.org/announce/8.5)
 * [2023-04-01, 08:38:51](https://news.ycombinator.com/item?id=35398480) - [Show HN: Coursemate, connect with other self learners](https://www.coursem8.com/)
 * [2023-04-01, 08:08:55](https://news.ycombinator.com/item?id=35398294) - [Ameliorated: Windows 10 and 11 minus the spyware](https://ameliorated.io/)
 * [2023-04-01, 08:00:43](https://news.ycombinator.com/item?id=35398235) - [My4TH – A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
@@ -26,6 +25,7 @@
 * [2023-03-31, 06:44:56](https://news.ycombinator.com/item?id=35383527) - [A New Beginning for LifeHacker](https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940)
 * [2023-03-31, 06:00:56](https://news.ycombinator.com/item?id=35383195) - [Entwined African and Asian genetic roots of medieval people of the Swahili coast](https://www.nature.com/articles/s41586-023-05754-w)
 * [2023-03-31, 03:42:20](https://news.ycombinator.com/item?id=35382252) - [SSD as Long Term Storage Testing](https://htwingnut.com/2022/09/11/ssd-as-long-term-storage-testing/)
+* [2023-03-30, 23:48:20](https://news.ycombinator.com/item?id=35380459) - [K: We need to talk about group](https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a)
 * [2023-03-30, 21:01:12](https://news.ycombinator.com/item?id=35378771) - [Saying Goodbye to Open Source Bridge (2018)](https://lifeofaudrey.com/2018/07/03/osbridge.html)
 * [2023-03-30, 20:01:15](https://news.ycombinator.com/item?id=35378109) - [The undocumented Android change that led to aCropalypse was reported during beta](https://iliana.fyi/blog/acropalypse-now/)
 * [2023-03-30, 18:13:43](https://news.ycombinator.com/item?id=35376863) - [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
