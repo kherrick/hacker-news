@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
 * [2023-03-31, 23:18:18](https://news.ycombinator.com/item?id=35395085) - [Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
+* [2023-03-31, 23:15:25](https://news.ycombinator.com/item?id=35395060) - [Maps show how parking lots “eat” U.S. cities](https://bigthink.com/strange-maps/parking-lots-eat-american-cities/)
 * [2023-03-31, 23:08:32](https://news.ycombinator.com/item?id=35395001) - [Please delete 2M files to continue using your Google Drive account](https://old.reddit.com/r/google/comments/123fjx8/google_has_applied_a_5_million_items_limit_for/)
 * [2023-03-31, 22:42:57](https://news.ycombinator.com/item?id=35394758) - [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
 * [2023-03-31, 22:26:17](https://news.ycombinator.com/item?id=35394573) - [Google AI researcher resigns after learning Bard uses data from ChatGPT](https://www.marketwatch.com/story/google-ai-researcher-resigns-after-learning-bard-uses-data-from-chatgpt-report-65ca79aa)
@@ -79,6 +80,7 @@
 * [2023-03-31, 07:06:53](https://news.ycombinator.com/item?id=35383662) - [Decreasing the Number of Memory Accesses 1&#x2F;2](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-1-2/)
 * [2023-03-31, 06:39:05](https://news.ycombinator.com/item?id=35383488) - [Virgin Orbit: Sir Richard Branson&#x27;s rocket company lays off 85% of staff](https://www.bbc.co.uk/news/business-65133099)
 * [2023-03-31, 06:00:56](https://news.ycombinator.com/item?id=35383195) - [Entwined African and Asian genetic roots of medieval people of the Swahili coast](https://www.nature.com/articles/s41586-023-05754-w)
+* [2023-03-31, 05:56:38](https://news.ycombinator.com/item?id=35383160) - [Paradigms Gone Wild](https://www.lrb.co.uk/the-paper/v45/n07/steven-shapin/paradigms-gone-wild)
 * [2023-03-31, 05:02:22](https://news.ycombinator.com/item?id=35382789) - [Nuclear Power Is Too Safe](https://jackdevanney.substack.com/p/nuclear-power-is-too-safe)
 * [2023-03-31, 04:57:03](https://news.ycombinator.com/item?id=35382769) - [Show HN: Random Aerial Airport Views](https://randomairport.onrender.com/)
 * [2023-03-31, 04:45:55](https://news.ycombinator.com/item?id=35382698) - [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
