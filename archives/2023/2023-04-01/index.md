@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 14:17:36](https://news.ycombinator.com/item?id=35400497) - [Twitter scrubbing Elon, Republican, Democrat code references on GitHub](https://github.com/twitter/the-algorithm/blob/7f90d0ca342b928b479b512ec51ac2c3821f5922/home-mixer/server/src/main/scala/com/twitter/home_mixer/functional_component/feature_hydrator/RequestQueryFeatureHydrator.scala)
+* [2023-04-01, 13:50:48](https://news.ycombinator.com/item?id=35400294) - [Refurb weekend: DEC AlphaPC 164LX](http://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
 * [2023-04-01, 13:44:02](https://news.ycombinator.com/item?id=35400253) - [The surprising roots of Japan&#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
 * [2023-04-01, 13:12:30](https://news.ycombinator.com/item?id=35400047) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
