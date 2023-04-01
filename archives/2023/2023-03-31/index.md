@@ -53,6 +53,7 @@
 * [2023-03-31, 14:47:56](https://news.ycombinator.com/item?id=35387954) - [Reflections on 10k Hours of DevOps](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
 * [2023-03-31, 14:38:27](https://news.ycombinator.com/item?id=35387822) - [BigQuery prices increasing by more than 100% for many users](https://cloud.google.com/blog/products/data-analytics/introducing-new-bigquery-pricing-editions)
 * [2023-03-31, 14:33:50](https://news.ycombinator.com/item?id=35387754) - [Pizza rolls and the meaning of midcentury food](https://www.snackstack.net/p/pizza-rolls-and-the-meaning-of-midcentury)
+* [2023-03-31, 14:32:58](https://news.ycombinator.com/item?id=35387733) - [Evil Floppy Drives: Floppy Music Duo: Imperial March (2011)](http://silent.org.pl/home/2011/09/29/evil-floppy-drives-english-translation/)
 * [2023-03-31, 14:22:28](https://news.ycombinator.com/item?id=35387584) - [Video shows ‘ghost co-driver’ added to trucker’s ELD to skirt HOS rules](https://www.freightwaves.com/news/video-shows-ghost-co-driver-added-to-truckers-eld-to-skirt-hos-rules)
 * [2023-03-31, 14:21:09](https://news.ycombinator.com/item?id=35387563) - [Custom Styles in GitHub Readme Files (2020)](https://css-tricks.com/custom-styles-in-github-readmes/)
 * [2023-03-31, 13:55:33](https://news.ycombinator.com/item?id=35387220) - [ChatGPT banned in Italy over privacy concerns](https://www.bbc.com/news/technology-65139406)
