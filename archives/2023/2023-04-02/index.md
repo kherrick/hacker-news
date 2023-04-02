@@ -11,6 +11,7 @@
 * [2023-04-02, 10:26:06](https://news.ycombinator.com/item?id=35409076) - [Ask HN: Is the “open” in OpenAI just “open-washing”?](https://news.ycombinator.com/item?id=35409076)
 * [2023-04-02, 10:26:01](https://news.ycombinator.com/item?id=35409075) - [UBS May Cut Workforce by 20-30% After Credit Suisse Takeover](https://www.bloomberg.com/news/articles/2023-04-02/ubs-will-cut-workforce-by-20-30-after-cs-takeover-soz-says)
 * [2023-04-02, 09:50:05](https://news.ycombinator.com/item?id=35408874) - [Thinking hard makes the brain tired](https://www.economist.com/science-and-technology/2022/08/11/how-thinking-hard-makes-the-brain-tired)
+* [2023-04-02, 09:49:53](https://news.ycombinator.com/item?id=35408870) - [“True” Randomness vs. “Pseudo” Randomness](https://www.pcg-random.org/rng-basics.html)
 * [2023-04-02, 09:46:01](https://news.ycombinator.com/item?id=35408837) - [My experience being blocked by Google Safe Browsing](https://brennan.io/2022/11/12/snake.club-blocked/)
 * [2023-04-02, 09:16:27](https://news.ycombinator.com/item?id=35408652) - [UK Treasury trying to find a Head of Cyber Security for £55k](https://infosec.exchange/@tazwake/110108960041803779)
 * [2023-04-02, 08:50:43](https://news.ycombinator.com/item?id=35408507) - [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)
