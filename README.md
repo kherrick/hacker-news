@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-02, 19:37:05](https://news.ycombinator.com/item?id=35414262) - [Scientists Found a &#x27;Leak&#x27; in Photosynthesis That Could Be Tapped into Energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
-* [2023-04-02, 19:30:25](https://news.ycombinator.com/item?id=35414198) - [Extinct Species Glyptodon Pups Born to Armadillo Mother](https://nationalzoo.si.edu/animals/news/glyptodon-pups-born-smithsonians-national-zoo)
 * [2023-04-02, 19:00:18](https://news.ycombinator.com/item?id=35413920) - [OPEC+ announces surprise oil output cuts](https://www.reuters.com/business/energy/sarabia-other-opec-producers-announce-voluntary-oil-output-cuts-2023-04-02/)
 * [2023-04-02, 18:43:16](https://news.ycombinator.com/item?id=35413770) - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
 * [2023-04-02, 18:27:37](https://news.ycombinator.com/item?id=35413594) - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
 * [2023-04-02, 18:27:20](https://news.ycombinator.com/item?id=35413590) - [Cayman Islands offshore finance: Anglo-America, Japan, and hedge funds (2016)](https://www.tandfonline.com/doi/full/10.1080/09692290.2016.1243143)
 * [2023-04-02, 18:25:31](https://news.ycombinator.com/item?id=35413572) - [A Reply to Josef PRůša](https://blog.thea.codes/a-reply-to-josef-prusa/)
+* [2023-04-02, 18:20:37](https://news.ycombinator.com/item?id=35413515) - [Walking 8k Steps Twice a Week Could Prolong Your Life, Study Finds](https://www.prevention.com/health/a43453914/8000-steps-walking-for-health-study/)
 * [2023-04-02, 18:08:23](https://news.ycombinator.com/item?id=35413385) - [International Orange](https://en.wikipedia.org/wiki/International_orange)
 * [2023-04-02, 17:39:36](https://news.ycombinator.com/item?id=35413054) - [Auto-GPT: An Autonomous GPT-4 Experiment](https://github.com/Torantulino/Auto-GPT)
 * [2023-04-02, 17:19:54](https://news.ycombinator.com/item?id=35412836) - [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
