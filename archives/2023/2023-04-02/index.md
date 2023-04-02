@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 18:43:16](https://news.ycombinator.com/item?id=35413770) - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
 * [2023-04-02, 18:27:37](https://news.ycombinator.com/item?id=35413594) - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
 * [2023-04-02, 18:08:23](https://news.ycombinator.com/item?id=35413385) - [International Orange](https://en.wikipedia.org/wiki/International_orange)
 * [2023-04-02, 18:01:07](https://news.ycombinator.com/item?id=35413307) - [YouTuber Tricks ChatGPT into Generating Windows 95 Keys](https://www.tomshardware.com/news/windows_95_chatgpt_keys)
 * [2023-04-02, 17:19:54](https://news.ycombinator.com/item?id=35412836) - [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
 * [2023-04-02, 17:16:40](https://news.ycombinator.com/item?id=35412788) - [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 * [2023-04-02, 16:33:44](https://news.ycombinator.com/item?id=35412342) - [iAPX432: Gordon Moore, Risk and Intel’s Super-CISC Failure](https://thechipletter.substack.com/p/iapx432-gordon-moore-risk-and-intels)
+* [2023-04-02, 16:23:56](https://news.ycombinator.com/item?id=35412226) - [Show HN: Algora – Paid open-source contributions](https://console.algora.io)
 * [2023-04-02, 16:12:11](https://news.ycombinator.com/item?id=35412096) - [Ask HN: Are there 3D twisty puzzles that can only be simulated on a computer?](https://news.ycombinator.com/item?id=35412096)
 * [2023-04-02, 15:58:26](https://news.ycombinator.com/item?id=35411919) - [Compostable fast-food packaging can emit volatile PFAS](https://cen.acs.org/environment/persistent-pollutants/Fast-food-packaging-emit-volatile/101/i11)
 * [2023-04-02, 15:57:39](https://news.ycombinator.com/item?id=35411909) - [Revert for jart’s llama.cpp MMAP miracles](https://github.com/ggerganov/llama.cpp/pull/711)
