@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-02, 14:51:22](https://news.ycombinator.com/item?id=35411080) - [Screen time and the young brain – a contemporary moral panic? [pdf]](https://www.diva-portal.org/smash/get/diva2:1509482/FULLTEXT02.pdf)
 * [2023-04-02, 14:34:51](https://news.ycombinator.com/item?id=35410886) - [Work-from-home is the new normal in Canada](https://nationalpost.com/opinion/work-from-home-new-normal-in-canada)
 * [2023-04-02, 14:30:00](https://news.ycombinator.com/item?id=35410841) - [Analysis of Twitter algorithm reveals Twitter down-ranks tweets about Ukraine](https://english.nv.ua/nation/analysis-of-code-for-twitter-algorithm-reveals-social-medium-down-ranks-tweets-about-ukraine-50314963.html)
 * [2023-04-02, 14:24:29](https://news.ycombinator.com/item?id=35410778) - [‘America does so much more to subsidise affluence than alleviate poverty’](https://www.ft.com/content/6218aa73-ae25-46fc-9503-f2f45b8db47f)
@@ -21,7 +22,6 @@
 * [2023-04-01, 22:32:57](https://news.ycombinator.com/item?id=35404823) - [SpaceX alums are branching out and shaping the startup economy](https://interactive.satellitetoday.com/via/april-2023/how-spacex-alums-are-branching-out-and-shaping-the-startup-economy/)
 * [2023-04-01, 21:01:59](https://news.ycombinator.com/item?id=35404025) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
 * [2023-04-01, 12:01:07](https://news.ycombinator.com/item?id=35399551) - [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)
-* [2023-04-01, 11:32:44](https://news.ycombinator.com/item?id=35399406) - [All Sliders to the Right](https://queue.acm.org/detail.cfm?id=3580505)
 * [2023-04-01, 08:50:26](https://news.ycombinator.com/item?id=35398545) - [Dogme 95](https://en.wikipedia.org/wiki/Dogme_95)
 * [2023-04-01, 07:16:34](https://news.ycombinator.com/item?id=35397994) - [Comprehensive Keyboard Handling in Terminals](https://sw.kovidgoyal.net/kitty/keyboard-protocol/)
 * [2023-04-01, 01:39:31](https://news.ycombinator.com/item?id=35396156) - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
