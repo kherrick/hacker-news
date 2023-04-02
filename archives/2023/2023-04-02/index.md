@@ -24,6 +24,7 @@
 * [2023-04-02, 17:19:54](https://news.ycombinator.com/item?id=35412836) - [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
 * [2023-04-02, 17:16:40](https://news.ycombinator.com/item?id=35412788) - [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 * [2023-04-02, 16:49:35](https://news.ycombinator.com/item?id=35412505) - [Key takeaways from the quest design of Cyberpunk 2077 and The Witcher 3](https://www.gamedeveloper.com/gdc2023/10-key-takeaways-from-the-quest-design-of-cyberpunk-2077-and-the-witcher-3)
+* [2023-04-02, 16:40:23](https://news.ycombinator.com/item?id=35412416) - [Show HN: Shhhbb, an SSH BBS](https://donuts-are-good.github.io/shhhbb/)
 * [2023-04-02, 16:33:44](https://news.ycombinator.com/item?id=35412342) - [iAPX432: Gordon Moore, Risk and Intel’s Super-CISC Failure](https://thechipletter.substack.com/p/iapx432-gordon-moore-risk-and-intels)
 * [2023-04-02, 16:29:21](https://news.ycombinator.com/item?id=35412296) - [ChatGPT as a Calculator for Words](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
 * [2023-04-02, 16:23:56](https://news.ycombinator.com/item?id=35412226) - [Show HN: Algora – Paid open-source contributions](https://console.algora.io)
