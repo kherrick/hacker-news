@@ -18,6 +18,7 @@
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems (2022)](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [Alexa, what is my wifi password?](https://dragon863.github.io/blog/alexa.html)
 * [2023-04-01, 11:32:44](https://news.ycombinator.com/item?id=35399406) - [All Sliders to the Right](https://queue.acm.org/detail.cfm?id=3580505)
+* [2023-04-01, 11:03:10](https://news.ycombinator.com/item?id=35399218) - [Show HN: Use cookies from Chrome (CDP) in cURL without copy pasting](https://github.com/fipso/ccurl.sh)
 * [2023-04-01, 09:58:13](https://news.ycombinator.com/item?id=35398901) - [Why Not document.write()?](https://csswizardry.com/2023/01/why-not-document-write/)
 * [2023-04-01, 08:50:26](https://news.ycombinator.com/item?id=35398545) - [Dogme 95](https://en.wikipedia.org/wiki/Dogme_95)
 * [2023-04-01, 07:16:34](https://news.ycombinator.com/item?id=35397994) - [Comprehensive Keyboard Handling in Terminals](https://sw.kovidgoyal.net/kitty/keyboard-protocol/)
@@ -27,7 +28,6 @@
 * [2023-03-31, 19:15:21](https://news.ycombinator.com/item?id=35391984) - [A solar wind-derived water reservoir on the Moon hosted by impact glass beads](https://www.nature.com/articles/s41561-023-01159-6)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 16:02:50](https://news.ycombinator.com/item?id=35389110) - [Launch HN: Inri (YC W23) – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
-* [2023-03-31, 13:32:45](https://news.ycombinator.com/item?id=35386907) - [Calibration Display for NASA (2019)](https://www.daliborfarny.com/project/calibration-display-for-nasa/)
 * [2023-03-31, 09:37:53](https://news.ycombinator.com/item?id=35384605) - [How and when the chip shortage will end](https://spectrum.ieee.org/chip-shortage)
 * [2023-03-31, 00:32:09](https://news.ycombinator.com/item?id=35380775) - [The state of open-source in 3D printing in 2023](https://blog.prusa3d.com/the-state-of-open-source-in-3d-printing-in-2023_76659/)
 
