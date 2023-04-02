@@ -12,6 +12,7 @@
 * [2023-04-02, 14:24:29](https://news.ycombinator.com/item?id=35410778) - [‘America does so much more to subsidise affluence than alleviate poverty’](https://www.ft.com/content/6218aa73-ae25-46fc-9503-f2f45b8db47f)
 * [2023-04-02, 14:10:38](https://news.ycombinator.com/item?id=35410672) - [31% of American adults are online almost constantly](https://www.pewresearch.org/fact-tank/2021/03/26/about-three-in-ten-u-s-adults-say-they-are-almost-constantly-online/)
 * [2023-04-02, 14:09:50](https://news.ycombinator.com/item?id=35410662) - [The Problem with Music (1993)](https://thebaffler.com/salvos/the-problem-with-music)
+* [2023-04-02, 14:00:07](https://news.ycombinator.com/item?id=35410576) - [Own your work](https://josem.co/own-your-work/)
 * [2023-04-02, 13:36:55](https://news.ycombinator.com/item?id=35410357) - [The Agony of Putting Your Life on Hold to Care for Your Parents](https://www.nytimes.com/2023/03/28/magazine/elder-child-care-millennials.html)
 * [2023-04-02, 13:16:24](https://news.ycombinator.com/item?id=35410182) - [Ryuichi Sakamoto has died](https://www.clashmusic.com/news/ryuichi-sakamoto-has-died-cause-of-death/)
 * [2023-04-02, 13:14:30](https://news.ycombinator.com/item?id=35410163) - [‘Preparing to die has a lot to do with having had a good life’](https://english.elpais.com/science-tech/2023-04-01/henry-marsh-preparing-to-die-has-a-lot-to-do-with-having-had-a-good-life.html)
