@@ -55,6 +55,7 @@
 * [2023-04-01, 11:20:48](https://news.ycombinator.com/item?id=35399315) - [Ask HN: What&#x27;s the name of this concept related to surveillance](https://news.ycombinator.com/item?id=35399315)
 * [2023-04-01, 11:03:10](https://news.ycombinator.com/item?id=35399218) - [Show HN: Use cookies from Chrome (CDP) in cURL without copy pasting](https://github.com/fipso/ccurl.sh)
 * [2023-04-01, 10:40:29](https://news.ycombinator.com/item?id=35399108) - [The Priest in the Arena](https://studio.ribbonfarm.com/p/the-priest-in-the-arena)
+* [2023-04-01, 10:33:29](https://news.ycombinator.com/item?id=35399081) - [International Pascal Congress](https://www.pascalcongress.com/index.html)
 * [2023-04-01, 10:16:55](https://news.ycombinator.com/item?id=35398999) - [Cities on the Bay: The Ancient Roman Predecessor of Naples (2015)](https://web.archive.org/web/20150516094013/http://www.the-tls.co.uk/tls/public/article1555487.ece)
 * [2023-04-01, 09:58:13](https://news.ycombinator.com/item?id=35398901) - [Why Not Document.write()?](https://csswizardry.com/2023/01/why-not-document-write/)
 * [2023-04-01, 09:16:31](https://news.ycombinator.com/item?id=35398643) - [Wine 8.5](https://www.winehq.org/announce/8.5)

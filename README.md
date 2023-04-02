@@ -21,7 +21,6 @@
 * [2023-04-02, 13:16:24](https://news.ycombinator.com/item?id=35410182) - [Ryuichi Sakamoto has died](https://www.clashmusic.com/news/ryuichi-sakamoto-has-died-cause-of-death/)
 * [2023-04-02, 12:19:19](https://news.ycombinator.com/item?id=35409791) - [Rhind Mathematical Papyrus](https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus)
 * [2023-04-02, 12:00:58](https://news.ycombinator.com/item?id=35409657) - [Agave (YC W22) Hiring a Founding Eng – 1-4 Yrs Exp. – Full-Time – On-Site (SF)](https://news.ycombinator.com/item?id=35409657)
-* [2023-04-02, 10:05:34](https://news.ycombinator.com/item?id=35408955) - [UgBASIC – An isomorphic BASIC language compiler for retrocomputers](https://ugbasic.iwashere.eu/)
 * [2023-04-02, 09:50:05](https://news.ycombinator.com/item?id=35408874) - [Thinking hard makes the brain tired](https://www.economist.com/science-and-technology/2022/08/11/how-thinking-hard-makes-the-brain-tired)
 * [2023-04-02, 02:02:27](https://news.ycombinator.com/item?id=35406369) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-01, 14:53:30](https://news.ycombinator.com/item?id=35400760) - [Managers, stop distracting employees](https://hbr.org/2023/01/managers-stop-distracting-your-employees)
@@ -30,6 +29,7 @@
 * [2023-04-01, 12:51:38](https://news.ycombinator.com/item?id=35399905) - [15k inserts&#x2F;s with Rust and SQLite (2021)](https://kerkour.com/high-performance-rust-with-sqlite)
 * [2023-04-01, 12:40:43](https://news.ycombinator.com/item?id=35399818) - [The Secret Life of Fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
 * [2023-04-01, 10:40:29](https://news.ycombinator.com/item?id=35399108) - [The Priest in the Arena](https://studio.ribbonfarm.com/p/the-priest-in-the-arena)
+* [2023-04-01, 10:33:29](https://news.ycombinator.com/item?id=35399081) - [International Pascal Congress](https://www.pascalcongress.com/index.html)
 
 ## [Archives](archives/index.md)
 
