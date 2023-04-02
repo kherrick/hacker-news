@@ -65,6 +65,7 @@
 * [2023-03-31, 13:39:46](https://news.ycombinator.com/item?id=35387000) - [NYPD is refusing to comply with NYC’s new surveillance tech laws](https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/)
 * [2023-03-31, 13:35:36](https://news.ycombinator.com/item?id=35386948) - [Postgres: The Graph Database You Didn&#x27;t Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/)
 * [2023-03-31, 13:32:45](https://news.ycombinator.com/item?id=35386907) - [Calibration Display for NASA (2019)](https://www.daliborfarny.com/project/calibration-display-for-nasa/)
+* [2023-03-31, 13:26:10](https://news.ycombinator.com/item?id=35386815) - [Do Necessary Tools Exist for RISC-V Verification?](https://semiengineering.com/do-necessary-tools-exist-for-risc-v-verification/)
 * [2023-03-31, 13:20:52](https://news.ycombinator.com/item?id=35386747) - [Newest Linux Gaming Predictions for 2023](https://boilingsteam.com/epic-linux-gaming-predictions-for-2023/)
 * [2023-03-31, 12:55:19](https://news.ycombinator.com/item?id=35386405) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 12:36:33](https://news.ycombinator.com/item?id=35386156) - [Research Vessel Heraclitus](https://ecotechnics.edu/projects/research-vessel-heraclitus/)
