@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 10:37:36](https://news.ycombinator.com/item?id=35409130) - [Andreessen Horowitz is now openly courting capital from Saudi Arabia](https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/)
 * [2023-04-02, 09:46:01](https://news.ycombinator.com/item?id=35408837) - [My experience being blocked by Google Safe Browsing](https://brennan.io/2022/11/12/snake.club-blocked/)
 * [2023-04-02, 09:16:27](https://news.ycombinator.com/item?id=35408652) - [UK Treasury trying to find a Head of Cyber Security for £55k](https://infosec.exchange/@tazwake/110108960041803779)
 * [2023-04-02, 08:50:43](https://news.ycombinator.com/item?id=35408507) - [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)

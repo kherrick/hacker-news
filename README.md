@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-02, 10:37:36](https://news.ycombinator.com/item?id=35409130) - [Andreessen Horowitz is now openly courting capital from Saudi Arabia](https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/)
 * [2023-04-02, 09:46:01](https://news.ycombinator.com/item?id=35408837) - [My experience being blocked by Google Safe Browsing](https://brennan.io/2022/11/12/snake.club-blocked/)
 * [2023-04-02, 09:16:27](https://news.ycombinator.com/item?id=35408652) - [UK Treasury trying to find a Head of Cyber Security for £55k](https://infosec.exchange/@tazwake/110108960041803779)
 * [2023-04-02, 07:57:17](https://news.ycombinator.com/item?id=35408249) - [For the first time, renewable energy generation beat out coal in the US](https://www.popsci.com/environment/renewable-energy-generation-coal-2022/)
@@ -14,7 +15,6 @@
 * [2023-04-01, 22:58:23](https://news.ycombinator.com/item?id=35405030) - [SpaceX moves Starship to launch site, and liftoff could be just days away](https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/)
 * [2023-04-01, 22:32:57](https://news.ycombinator.com/item?id=35404823) - [SpaceX alums are branching out and shaping the startup economy](https://interactive.satellitetoday.com/via/april-2023/how-spacex-alums-are-branching-out-and-shaping-the-startup-economy/)
 * [2023-04-01, 21:30:26](https://news.ycombinator.com/item?id=35404275) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
-* [2023-04-01, 21:01:59](https://news.ycombinator.com/item?id=35404025) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
 * [2023-04-01, 20:22:19](https://news.ycombinator.com/item?id=35403726) - [What broke Sweden? Real estate bust exposes big divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems (2022)](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [Alexa, what is my wifi password?](https://dragon863.github.io/blog/alexa.html)
