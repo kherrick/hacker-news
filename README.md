@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-02, 04:26:55](https://news.ycombinator.com/item?id=35407163) - [West Virginia&#x27;s 70s Automated Personal Rapid Transit](https://www.youtube.com/watch?v=iaSaWfw07Sw)
 * [2023-04-02, 03:04:20](https://news.ycombinator.com/item?id=35406740) - [These Angry Dutch Farmers Really Hate Microsoft](https://www.wired.com/story/microsoft-netherlands-hyperscale-data-centers/)
 * [2023-04-02, 02:02:27](https://news.ycombinator.com/item?id=35406369) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-02, 01:01:00](https://news.ycombinator.com/item?id=35405946) - [Peoplebox (YC S22) Is Hiring](https://www.ycombinator.com/companies/peoplebox/jobs/P225TqI-account-executive-saas-sales-india-apac)
@@ -22,7 +23,6 @@
 * [2023-04-01, 04:26:01](https://news.ycombinator.com/item?id=35397135) - [The xine hacker&#x27;s guide (2003)](http://web.mit.edu/outland/share/doc/xine/hackersguide/hackersguide.html)
 * [2023-04-01, 04:14:02](https://news.ycombinator.com/item?id=35397051) - [Hexatrek: The long distance thru hike in France](https://en.hexatrek.com)
 * [2023-04-01, 01:39:31](https://news.ycombinator.com/item?id=35396156) - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
-* [2023-03-31, 20:21:16](https://news.ycombinator.com/item?id=35393040) - [The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
 * [2023-03-31, 19:34:22](https://news.ycombinator.com/item?id=35392288) - [The Contradictions of Sam Altman](https://www.wsj.com/articles/chatgpt-sam-altman-artificial-intelligence-openai-b0e1c8c9)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 16:02:50](https://news.ycombinator.com/item?id=35389110) - [Launch HN: Inri (YC W23) – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
