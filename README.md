@@ -27,8 +27,8 @@
 * [2023-04-01, 13:40:26](https://news.ycombinator.com/item?id=35400236) - [If Philip Glass Were a Film](https://www.youtube.com/watch?v=gPtd6gVgKo8)
 * [2023-04-01, 12:01:07](https://news.ycombinator.com/item?id=35399551) - [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)
 * [2023-04-01, 07:16:34](https://news.ycombinator.com/item?id=35397994) - [Comprehensive Keyboard Handling in Terminals](https://sw.kovidgoyal.net/kitty/keyboard-protocol/)
+* [2023-04-01, 04:14:02](https://news.ycombinator.com/item?id=35397051) - [Hexatrek: The long distance thru hike in France](https://en.hexatrek.com)
 * [2023-04-01, 01:39:31](https://news.ycombinator.com/item?id=35396156) - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
-* [2023-03-31, 19:15:21](https://news.ycombinator.com/item?id=35391984) - [A solar wind-derived water reservoir on the Moon hosted by impact glass beads](https://www.nature.com/articles/s41561-023-01159-6)
 * [2023-03-31, 13:26:10](https://news.ycombinator.com/item?id=35386815) - [Do Necessary Tools Exist for RISC-V Verification?](https://semiengineering.com/do-necessary-tools-exist-for-risc-v-verification/)
 
 ## [Archives](archives/index.md)
