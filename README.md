@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-02, 04:53:30](https://news.ycombinator.com/item?id=35407295) - [How to change the region on an HP OfficeJet printer in 57 easy steps](https://www.theverge.com/23648726/hp-officejet-printer-region-how-to-change-why)
 * [2023-04-02, 03:04:20](https://news.ycombinator.com/item?id=35406740) - [These Angry Dutch Farmers Really Hate Microsoft](https://www.wired.com/story/microsoft-netherlands-hyperscale-data-centers/)
 * [2023-04-02, 02:02:27](https://news.ycombinator.com/item?id=35406369) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-02, 01:01:00](https://news.ycombinator.com/item?id=35405946) - [Peoplebox (YC S22) Is Hiring](https://www.ycombinator.com/companies/peoplebox/jobs/P225TqI-account-executive-saas-sales-india-apac)
@@ -12,7 +13,6 @@
 * [2023-04-01, 20:22:19](https://news.ycombinator.com/item?id=35403726) - [What broke Sweden? Real estate bust exposes big divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
 * [2023-04-01, 19:57:00](https://news.ycombinator.com/item?id=35403535) - [The effects of wealth on (Swedish) marriage and fertility](https://www.nber.org/papers/w31039#fromrss)
 * [2023-04-01, 18:35:03](https://news.ycombinator.com/item?id=35402775) - [NASA validates revolutionary propulsion design for deep space missions](https://www.nasa.gov/centers/marshall/feature/nasa-validates-revolutionary-propulsion-design-for-deep-space-missions/)
-* [2023-04-01, 18:29:08](https://news.ycombinator.com/item?id=35402698) - [Pausing Manifest V2 phase-out changes](https://groups.google.com/a/chromium.org/g/chromium-extensions/c/zQ77HkGmK9E/m/HjaaCIG-BQAJ)
 * [2023-04-01, 17:10:40](https://news.ycombinator.com/item?id=35401968) - [Deepest fish ever caught on camera off Japan](https://www.bbc.co.uk/news/science-environment-65148876)
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems (2022)](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [Alexa, what is my wifi password?](https://dragon863.github.io/blog/alexa.html)
