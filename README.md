@@ -2,10 +2,10 @@
 
 * [2023-04-02, 02:02:27](https://news.ycombinator.com/item?id=35406369) - [XUL Layout has been removed from Firefox](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-02, 01:01:00](https://news.ycombinator.com/item?id=35405946) - [Peoplebox (YC S22) Is Hiring](https://www.ycombinator.com/companies/peoplebox/jobs/P225TqI-account-executive-saas-sales-india-apac)
-* [2023-04-01, 23:38:38](https://news.ycombinator.com/item?id=35405372) - [Show HN: Jarvis AI – your dedicated concierge for anything](https://usejarvis.ai/)
 * [2023-04-01, 23:35:41](https://news.ycombinator.com/item?id=35405338) - [MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention](https://www.youtube.com/watch?v=ySEx_Bqxvvo)
 * [2023-04-01, 22:58:23](https://news.ycombinator.com/item?id=35405030) - [SpaceX moves Starship to launch site, and liftoff could be just days away](https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/)
 * [2023-04-01, 22:32:57](https://news.ycombinator.com/item?id=35404823) - [SpaceX alums are branching out and shaping the startup economy](https://interactive.satellitetoday.com/via/april-2023/how-spacex-alums-are-branching-out-and-shaping-the-startup-economy/)
+* [2023-04-01, 21:39:39](https://news.ycombinator.com/item?id=35404361) - [Tax Evasion at the Top of the Income Distribution: Theory and Evidence (2021) [pdf]](https://www.nber.org/system/files/working_papers/w28542/w28542.pdf)
 * [2023-04-01, 21:30:26](https://news.ycombinator.com/item?id=35404275) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
 * [2023-04-01, 21:01:59](https://news.ycombinator.com/item?id=35404025) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
 * [2023-04-01, 20:22:19](https://news.ycombinator.com/item?id=35403726) - [What broke Sweden? Real estate bust exposes big divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
