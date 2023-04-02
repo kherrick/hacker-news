@@ -2,6 +2,7 @@
 
 * [2023-04-02, 02:47:04](https://news.ycombinator.com/item?id=35406646) - [Americans are returning to cities after remote-work exodus, data shows](https://www.washingtonpost.com/dc-md-va/2023/03/30/census-population-immigration-dc-new-york/)
 * [2023-04-02, 02:39:34](https://news.ycombinator.com/item?id=35406590) - [Stocks rally to cap a winning month, quarter for Wall Street](https://www.seattletimes.com/business/asian-stocks-follow-wall-st-up-ahead-of-us-inflation-update/)
+* [2023-04-02, 02:30:24](https://news.ycombinator.com/item?id=35406546) - [Tesla Semi Recalled Already, Parking Brake May Fail](https://www.thedrive.com/news/tesla-semi-recalled-already-parking-brake-may-fail)
 * [2023-04-02, 02:02:27](https://news.ycombinator.com/item?id=35406369) - [XUL Layout has been removed from Firefox](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-02, 01:01:00](https://news.ycombinator.com/item?id=35405946) - [Peoplebox (YC S22) Is Hiring](https://www.ycombinator.com/companies/peoplebox/jobs/P225TqI-account-executive-saas-sales-india-apac)
 * [2023-04-02, 00:33:40](https://news.ycombinator.com/item?id=35405760) - [Show HN: PizzaGPT – ChatGPT clone accessible from Italy](https://www.pizzagpt.it/)
@@ -26,7 +27,6 @@
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 14:20:08](https://news.ycombinator.com/item?id=35387547) - [The Beatles and the Glory of Creative Risk](https://hedgehogreview.com/web-features/thr/posts/the-beatles-and-the-glory-of-creative-risk)
 * [2023-03-31, 13:32:45](https://news.ycombinator.com/item?id=35386907) - [Calibration Display for NASA (2019)](https://www.daliborfarny.com/project/calibration-display-for-nasa/)
-* [2023-03-31, 13:20:52](https://news.ycombinator.com/item?id=35386747) - [Newest Linux Gaming Predictions for 2023](https://boilingsteam.com/epic-linux-gaming-predictions-for-2023/)
 * [2023-03-31, 12:36:33](https://news.ycombinator.com/item?id=35386156) - [Research Vessel Heraclitus](https://ecotechnics.edu/projects/research-vessel-heraclitus/)
 * [2023-03-31, 09:37:53](https://news.ycombinator.com/item?id=35384605) - [How and When the Chip Shortage Will End, in 4 Charts](https://spectrum.ieee.org/chip-shortage)
 * [2023-03-31, 00:32:09](https://news.ycombinator.com/item?id=35380775) - [The state of open-source in 3D printing in 2023](https://blog.prusa3d.com/the-state-of-open-source-in-3d-printing-in-2023_76659/)
