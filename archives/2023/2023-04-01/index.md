@@ -51,6 +51,7 @@
 * [2023-04-01, 10:16:55](https://news.ycombinator.com/item?id=35398999) - [Cities on the Bay: The Ancient Roman Predecessor of Naples (2015)](https://web.archive.org/web/20150516094013/http://www.the-tls.co.uk/tls/public/article1555487.ece)
 * [2023-04-01, 09:58:13](https://news.ycombinator.com/item?id=35398901) - [Why Not Document.write()?](https://csswizardry.com/2023/01/why-not-document-write/)
 * [2023-04-01, 09:16:31](https://news.ycombinator.com/item?id=35398643) - [Wine 8.5](https://www.winehq.org/announce/8.5)
+* [2023-04-01, 08:50:26](https://news.ycombinator.com/item?id=35398545) - [Dogme 95](https://en.wikipedia.org/wiki/Dogme_95)
 * [2023-04-01, 08:38:51](https://news.ycombinator.com/item?id=35398480) - [Show HN: Coursemate, connect with other self learners](https://www.coursem8.com/)
 * [2023-04-01, 08:08:55](https://news.ycombinator.com/item?id=35398294) - [Ameliorated: Windows 10 and 11 minus the spyware](https://ameliorated.io/)
 * [2023-04-01, 08:03:33](https://news.ycombinator.com/item?id=35398252) - [AMD’s HD 6950 vs. RX 6900 XT: What Does Adding 50 Do?](https://chipsandcheese.com/2023/04/01/amds-hd-6950-vs-rx-6900-xt-what-does-adding-50-do/)
