@@ -4,6 +4,7 @@
 * [2023-04-02, 18:27:37](https://news.ycombinator.com/item?id=35413594) - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
 * [2023-04-02, 18:27:20](https://news.ycombinator.com/item?id=35413590) - [Cayman Islands offshore finance: Anglo-America, Japan, and hedge funds (2016)](https://www.tandfonline.com/doi/full/10.1080/09692290.2016.1243143)
 * [2023-04-02, 18:25:31](https://news.ycombinator.com/item?id=35413572) - [A Reply to Josef PRůša](https://blog.thea.codes/a-reply-to-josef-prusa/)
+* [2023-04-02, 18:20:37](https://news.ycombinator.com/item?id=35413515) - [Walking 8k Steps Twice a Week Could Prolong Your Life, Study Finds](https://www.prevention.com/health/a43453914/8000-steps-walking-for-health-study/)
 * [2023-04-02, 18:08:23](https://news.ycombinator.com/item?id=35413385) - [International Orange](https://en.wikipedia.org/wiki/International_orange)
 * [2023-04-02, 17:39:36](https://news.ycombinator.com/item?id=35413054) - [Auto-GPT: An Autonomous GPT-4 Experiment](https://github.com/Torantulino/Auto-GPT)
 * [2023-04-02, 17:19:54](https://news.ycombinator.com/item?id=35412836) - [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
@@ -29,7 +30,6 @@
 * [2023-04-01, 14:51:15](https://news.ycombinator.com/item?id=35400742) - [Vectorized port of Klong array language](https://github.com/briangu/klongpy)
 * [2023-04-01, 13:40:26](https://news.ycombinator.com/item?id=35400236) - [If Philip Glass Were a Film](https://www.youtube.com/watch?v=gPtd6gVgKo8)
 * [2023-04-01, 12:01:07](https://news.ycombinator.com/item?id=35399551) - [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)
-* [2023-03-31, 13:26:10](https://news.ycombinator.com/item?id=35386815) - [Do Necessary Tools Exist for RISC-V Verification?](https://semiengineering.com/do-necessary-tools-exist-for-risc-v-verification/)
 
 ## [Archives](archives/index.md)
 
