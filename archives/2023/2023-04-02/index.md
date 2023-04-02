@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 13:12:49](https://news.ycombinator.com/item?id=35410150) - [No dates, no sex, no weddings, no kids](https://english.elpais.com/international/2023-04-01/no-dates-no-sex-no-weddings-no-kids-korean-women-are-standing-up-to-asian-machismo.html)
 * [2023-04-02, 12:00:58](https://news.ycombinator.com/item?id=35409657) - [Agave (YC W22) – Founding Eng – 1-4 Yrs Exp. – Full-Time – On-Site (SF)](https://news.ycombinator.com/item?id=35409657)
 * [2023-04-02, 10:37:36](https://news.ycombinator.com/item?id=35409130) - [Andreessen Horowitz is now openly courting capital from Saudi Arabia](https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/)
 * [2023-04-02, 10:26:06](https://news.ycombinator.com/item?id=35409076) - [Ask HN: Is the “open” in OpenAI just “open-washing”?](https://news.ycombinator.com/item?id=35409076)
+* [2023-04-02, 10:26:01](https://news.ycombinator.com/item?id=35409075) - [UBS May Cut Workforce by 20-30% After Credit Suisse Takeover](https://www.bloomberg.com/news/articles/2023-04-02/ubs-will-cut-workforce-by-20-30-after-cs-takeover-soz-says)
 * [2023-04-02, 09:50:05](https://news.ycombinator.com/item?id=35408874) - [Thinking hard makes the brain tired](https://www.economist.com/science-and-technology/2022/08/11/how-thinking-hard-makes-the-brain-tired)
 * [2023-04-02, 09:46:01](https://news.ycombinator.com/item?id=35408837) - [My experience being blocked by Google Safe Browsing](https://brennan.io/2022/11/12/snake.club-blocked/)
 * [2023-04-02, 09:16:27](https://news.ycombinator.com/item?id=35408652) - [UK Treasury trying to find a Head of Cyber Security for £55k](https://infosec.exchange/@tazwake/110108960041803779)
