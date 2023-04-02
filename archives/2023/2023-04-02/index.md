@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
 * [2023-04-02, 03:21:34](https://news.ycombinator.com/item?id=35406833) - [Study: 77% of young Americans too fat, mentally ill, on drugs to join military](https://americanmilitarynews.com/2023/03/77-of-young-americans-too-fat-mentally-ill-on-drugs-and-more-to-join-military-pentagon-study-finds/)
+* [2023-04-02, 03:04:20](https://news.ycombinator.com/item?id=35406740) - [These Angry Dutch Farmers Really Hate Microsoft](https://www.wired.com/story/microsoft-netherlands-hyperscale-data-centers/)
 * [2023-04-02, 02:47:04](https://news.ycombinator.com/item?id=35406646) - [Americans are returning to cities after remote-work exodus, data shows](https://www.washingtonpost.com/dc-md-va/2023/03/30/census-population-immigration-dc-new-york/)
 * [2023-04-02, 02:39:34](https://news.ycombinator.com/item?id=35406590) - [Stocks rally to cap a winning month, quarter for Wall Street](https://www.seattletimes.com/business/asian-stocks-follow-wall-st-up-ahead-of-us-inflation-update/)
 * [2023-04-02, 02:30:24](https://news.ycombinator.com/item?id=35406546) - [Tesla Semi Recalled Already, Parking Brake May Fail](https://www.thedrive.com/news/tesla-semi-recalled-already-parking-brake-may-fail)
