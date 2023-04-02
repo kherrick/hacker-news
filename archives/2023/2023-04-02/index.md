@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 22:05:23](https://news.ycombinator.com/item?id=35415758) - [The Day Windows Died](https://thomasbandt.com/the-day-windows-died)
 * [2023-04-02, 21:25:52](https://news.ycombinator.com/item?id=35415403) - [Developers hilariously competed for who could create worst volume control (2017)](https://twitter.com/0xDesigner/status/1642554817590566915)
 * [2023-04-02, 21:15:15](https://news.ycombinator.com/item?id=35415305) - [Paris Votes to Ban Rental E-Scooters](https://www.france24.com/en/live-news/20230402-paris-votes-on-ban-for-rental-e-scooters)
 * [2023-04-02, 20:41:08](https://news.ycombinator.com/item?id=35414957) - [Kramatorsk Radiological Accident](https://en.wikipedia.org/wiki/Kramatorsk_radiological_accident)
