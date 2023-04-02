@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 16:33:44](https://news.ycombinator.com/item?id=35412342) - [iAPX432: Gordon Moore, Risk and Intel’s Super-CISC Failure](https://thechipletter.substack.com/p/iapx432-gordon-moore-risk-and-intels)
 * [2023-04-02, 15:58:26](https://news.ycombinator.com/item?id=35411919) - [Compostable fast-food packaging can emit volatile PFAS](https://cen.acs.org/environment/persistent-pollutants/Fast-food-packaging-emit-volatile/101/i11)
 * [2023-04-02, 15:57:39](https://news.ycombinator.com/item?id=35411909) - [Revert for jart’s llama.cpp MMAP miracles](https://github.com/ggerganov/llama.cpp/pull/711)
 * [2023-04-02, 14:51:22](https://news.ycombinator.com/item?id=35411080) - [Screen time and the young brain – a contemporary moral panic? [pdf]](https://www.diva-portal.org/smash/get/diva2:1509482/FULLTEXT02.pdf)
@@ -29,6 +30,7 @@
 * [2023-04-02, 09:50:05](https://news.ycombinator.com/item?id=35408874) - [Thinking hard makes the brain tired](https://www.economist.com/science-and-technology/2022/08/11/how-thinking-hard-makes-the-brain-tired)
 * [2023-04-02, 09:49:53](https://news.ycombinator.com/item?id=35408870) - [“True” Randomness vs. “Pseudo” Randomness](https://www.pcg-random.org/rng-basics.html)
 * [2023-04-02, 09:46:01](https://news.ycombinator.com/item?id=35408837) - [My experience being blocked by Google Safe Browsing](https://brennan.io/2022/11/12/snake.club-blocked/)
+* [2023-04-02, 09:45:51](https://news.ycombinator.com/item?id=35408835) - [Privilegium Maius](https://en.wikipedia.org/wiki/Privilegium_Maius)
 * [2023-04-02, 09:16:27](https://news.ycombinator.com/item?id=35408652) - [UK Treasury trying to find a Head of Cyber Security for £55k](https://infosec.exchange/@tazwake/110108960041803779)
 * [2023-04-02, 08:50:43](https://news.ycombinator.com/item?id=35408507) - [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)
 * [2023-04-02, 07:57:17](https://news.ycombinator.com/item?id=35408249) - [For the first time, renewable energy generation beat out coal in the US](https://www.popsci.com/environment/renewable-energy-generation-coal-2022/)
