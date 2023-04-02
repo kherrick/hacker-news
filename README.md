@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-02, 09:16:27](https://news.ycombinator.com/item?id=35408652) - [UK Treasury trying to find a Head of Cyber Security for £55k](https://infosec.exchange/@tazwake/110108960041803779)
 * [2023-04-02, 07:57:17](https://news.ycombinator.com/item?id=35408249) - [For the first time, renewable energy generation beat out coal in the US](https://www.popsci.com/environment/renewable-energy-generation-coal-2022/)
 * [2023-04-02, 06:04:27](https://news.ycombinator.com/item?id=35407658) - [ISRO successfully lands a Reusable Launch Vehicle  from a 4.5 km altitude.](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-landing-experiment-of-the-reusable-launch-vehicle/article66690655.ece)
 * [2023-04-02, 04:53:30](https://news.ycombinator.com/item?id=35407295) - [How to change the region on an HP OfficeJet printer in 57 easy steps](https://www.theverge.com/23648726/hp-officejet-printer-region-how-to-change-why)
@@ -14,7 +15,6 @@
 * [2023-04-01, 21:30:26](https://news.ycombinator.com/item?id=35404275) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
 * [2023-04-01, 21:01:59](https://news.ycombinator.com/item?id=35404025) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
 * [2023-04-01, 20:22:19](https://news.ycombinator.com/item?id=35403726) - [What broke Sweden? Real estate bust exposes big divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
-* [2023-04-01, 19:57:00](https://news.ycombinator.com/item?id=35403535) - [The effects of wealth on (Swedish) marriage and fertility](https://www.nber.org/papers/w31039#fromrss)
 * [2023-04-01, 18:35:03](https://news.ycombinator.com/item?id=35402775) - [NASA validates revolutionary propulsion design for deep space missions](https://www.nasa.gov/centers/marshall/feature/nasa-validates-revolutionary-propulsion-design-for-deep-space-missions/)
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems (2022)](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [Alexa, what is my wifi password?](https://dragon863.github.io/blog/alexa.html)
