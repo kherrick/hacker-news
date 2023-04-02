@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 20:41:08](https://news.ycombinator.com/item?id=35414957) - [Kramatorsk Radiological Accident](https://en.wikipedia.org/wiki/Kramatorsk_radiological_accident)
 * [2023-04-02, 19:37:05](https://news.ycombinator.com/item?id=35414262) - [Scientists Found a &#x27;Leak&#x27; in Photosynthesis That Could Be Tapped into Energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
 * [2023-04-02, 19:30:25](https://news.ycombinator.com/item?id=35414198) - [Extinct Species Glyptodon Pups Born to Armadillo Mother](https://nationalzoo.si.edu/animals/news/glyptodon-pups-born-smithsonians-national-zoo)
 * [2023-04-02, 19:00:18](https://news.ycombinator.com/item?id=35413920) - [OPEC+ announces surprise oil output cuts](https://www.reuters.com/business/energy/sarabia-other-opec-producers-announce-voluntary-oil-output-cuts-2023-04-02/)
