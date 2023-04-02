@@ -11,6 +11,7 @@
 * [2023-04-02, 18:20:37](https://news.ycombinator.com/item?id=35413515) - [Walking 8k Steps Twice a Week Could Prolong Your Life, Study Finds](https://www.prevention.com/health/a43453914/8000-steps-walking-for-health-study/)
 * [2023-04-02, 18:08:23](https://news.ycombinator.com/item?id=35413385) - [International Orange](https://en.wikipedia.org/wiki/International_orange)
 * [2023-04-02, 18:01:07](https://news.ycombinator.com/item?id=35413307) - [YouTuber Tricks ChatGPT into Generating Windows 95 Keys](https://www.tomshardware.com/news/windows_95_chatgpt_keys)
+* [2023-04-02, 17:39:36](https://news.ycombinator.com/item?id=35413054) - [Auto-GPT: An Autonomous GPT-4 Experiment](https://github.com/Torantulino/Auto-GPT)
 * [2023-04-02, 17:19:54](https://news.ycombinator.com/item?id=35412836) - [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
 * [2023-04-02, 17:16:40](https://news.ycombinator.com/item?id=35412788) - [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 * [2023-04-02, 16:33:44](https://news.ycombinator.com/item?id=35412342) - [iAPX432: Gordon Moore, Risk and Intel’s Super-CISC Failure](https://thechipletter.substack.com/p/iapx432-gordon-moore-risk-and-intels)
