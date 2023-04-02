@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 14:34:51](https://news.ycombinator.com/item?id=35410886) - [Work-from-home is the new normal in Canada](https://nationalpost.com/opinion/work-from-home-new-normal-in-canada)
 * [2023-04-02, 14:30:00](https://news.ycombinator.com/item?id=35410841) - [Analysis of Twitter algorithm reveals Twitter down-ranks tweets about Ukraine](https://english.nv.ua/nation/analysis-of-code-for-twitter-algorithm-reveals-social-medium-down-ranks-tweets-about-ukraine-50314963.html)
 * [2023-04-02, 14:24:29](https://news.ycombinator.com/item?id=35410778) - [‘America does so much more to subsidise affluence than alleviate poverty’](https://www.ft.com/content/6218aa73-ae25-46fc-9503-f2f45b8db47f)
 * [2023-04-02, 14:10:38](https://news.ycombinator.com/item?id=35410672) - [31% of American adults are online almost constantly](https://www.pewresearch.org/fact-tank/2021/03/26/about-three-in-ten-u-s-adults-say-they-are-almost-constantly-online/)
