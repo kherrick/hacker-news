@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 13:36:55](https://news.ycombinator.com/item?id=35410357) - [The Agony of Putting Your Life on Hold to Care for Your Parents](https://www.nytimes.com/2023/03/28/magazine/elder-child-care-millennials.html)
 * [2023-04-02, 13:12:49](https://news.ycombinator.com/item?id=35410150) - [No dates, no sex, no weddings, no kids](https://english.elpais.com/international/2023-04-01/no-dates-no-sex-no-weddings-no-kids-korean-women-are-standing-up-to-asian-machismo.html)
 * [2023-04-02, 12:00:58](https://news.ycombinator.com/item?id=35409657) - [Agave (YC W22) – Founding Eng – 1-4 Yrs Exp. – Full-Time – On-Site (SF)](https://news.ycombinator.com/item?id=35409657)
 * [2023-04-02, 10:37:36](https://news.ycombinator.com/item?id=35409130) - [Andreessen Horowitz is now openly courting capital from Saudi Arabia](https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/)
