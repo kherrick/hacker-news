@@ -9,6 +9,7 @@
 * [2023-04-02, 20:41:08](https://news.ycombinator.com/item?id=35414957) - [Kramatorsk Radiological Accident](https://en.wikipedia.org/wiki/Kramatorsk_radiological_accident)
 * [2023-04-02, 19:37:05](https://news.ycombinator.com/item?id=35414262) - [Scientists Found a &#x27;Leak&#x27; in Photosynthesis That Could Be Tapped into Energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
 * [2023-04-02, 19:30:25](https://news.ycombinator.com/item?id=35414198) - [Extinct Species Glyptodon Pups Born to Armadillo Mother](https://nationalzoo.si.edu/animals/news/glyptodon-pups-born-smithsonians-national-zoo)
+* [2023-04-02, 19:08:57](https://news.ycombinator.com/item?id=35414002) - [Ask HN: Was programming more interesting when memory usage was a concern?](https://news.ycombinator.com/item?id=35414002)
 * [2023-04-02, 19:00:18](https://news.ycombinator.com/item?id=35413920) - [OPEC+ announces surprise oil output cuts](https://www.reuters.com/business/energy/sarabia-other-opec-producers-announce-voluntary-oil-output-cuts-2023-04-02/)
 * [2023-04-02, 18:43:16](https://news.ycombinator.com/item?id=35413770) - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
 * [2023-04-02, 18:27:37](https://news.ycombinator.com/item?id=35413594) - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
