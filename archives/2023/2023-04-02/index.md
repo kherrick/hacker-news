@@ -6,6 +6,9 @@
 
 * [2023-04-02, 18:43:16](https://news.ycombinator.com/item?id=35413770) - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
 * [2023-04-02, 18:27:37](https://news.ycombinator.com/item?id=35413594) - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
+* [2023-04-02, 18:27:20](https://news.ycombinator.com/item?id=35413590) - [Cayman Islands offshore finance: Anglo-America, Japan, and hedge funds (2016)](https://www.tandfonline.com/doi/full/10.1080/09692290.2016.1243143)
+* [2023-04-02, 18:25:31](https://news.ycombinator.com/item?id=35413572) - [A Reply to Josef PRůša](https://blog.thea.codes/a-reply-to-josef-prusa/)
+* [2023-04-02, 18:20:37](https://news.ycombinator.com/item?id=35413515) - [Walking 8k Steps Twice a Week Could Prolong Your Life, Study Finds](https://www.prevention.com/health/a43453914/8000-steps-walking-for-health-study/)
 * [2023-04-02, 18:08:23](https://news.ycombinator.com/item?id=35413385) - [International Orange](https://en.wikipedia.org/wiki/International_orange)
 * [2023-04-02, 18:01:07](https://news.ycombinator.com/item?id=35413307) - [YouTuber Tricks ChatGPT into Generating Windows 95 Keys](https://www.tomshardware.com/news/windows_95_chatgpt_keys)
 * [2023-04-02, 17:19:54](https://news.ycombinator.com/item?id=35412836) - [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
@@ -15,6 +18,7 @@
 * [2023-04-02, 16:12:11](https://news.ycombinator.com/item?id=35412096) - [Ask HN: Are there 3D twisty puzzles that can only be simulated on a computer?](https://news.ycombinator.com/item?id=35412096)
 * [2023-04-02, 15:58:26](https://news.ycombinator.com/item?id=35411919) - [Compostable fast-food packaging can emit volatile PFAS](https://cen.acs.org/environment/persistent-pollutants/Fast-food-packaging-emit-volatile/101/i11)
 * [2023-04-02, 15:57:39](https://news.ycombinator.com/item?id=35411909) - [Revert for jart’s llama.cpp MMAP miracles](https://github.com/ggerganov/llama.cpp/pull/711)
+* [2023-04-02, 15:32:02](https://news.ycombinator.com/item?id=35411601) - [‘Godfather of Genetic Engineering’ Paul Berg Dies at 96](https://www.the-scientist.com/news-opinion/godfather-of-genetic-engineering-paul-berg-dies-at-96-71036)
 * [2023-04-02, 14:51:22](https://news.ycombinator.com/item?id=35411080) - [Screen time and the young brain – a contemporary moral panic? [pdf]](https://www.diva-portal.org/smash/get/diva2:1509482/FULLTEXT02.pdf)
 * [2023-04-02, 14:34:51](https://news.ycombinator.com/item?id=35410886) - [Work-from-home is the new normal in Canada](https://nationalpost.com/opinion/work-from-home-new-normal-in-canada)
 * [2023-04-02, 14:30:00](https://news.ycombinator.com/item?id=35410841) - [Analysis of Twitter algorithm reveals Twitter down-ranks tweets about Ukraine](https://english.nv.ua/nation/analysis-of-code-for-twitter-algorithm-reveals-social-medium-down-ranks-tweets-about-ukraine-50314963.html)
