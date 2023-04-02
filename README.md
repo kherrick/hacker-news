@@ -8,6 +8,7 @@
 * [2023-04-02, 14:09:50](https://news.ycombinator.com/item?id=35410662) - [The Problem with Music (1993)](https://thebaffler.com/salvos/the-problem-with-music)
 * [2023-04-02, 13:16:24](https://news.ycombinator.com/item?id=35410182) - [Ryuichi Sakamoto has died](https://www.clashmusic.com/news/ryuichi-sakamoto-has-died-cause-of-death/)
 * [2023-04-02, 13:14:30](https://news.ycombinator.com/item?id=35410163) - [‘Preparing to die has a lot to do with having had a good life’](https://english.elpais.com/science-tech/2023-04-01/henry-marsh-preparing-to-die-has-a-lot-to-do-with-having-had-a-good-life.html)
+* [2023-04-02, 12:19:19](https://news.ycombinator.com/item?id=35409791) - [Rhind Mathematical Papyrus](https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus)
 * [2023-04-02, 12:00:58](https://news.ycombinator.com/item?id=35409657) - [Agave (YC W22) – Founding Eng – 1-4 Yrs Exp. – Full-Time – On-Site (SF)](https://news.ycombinator.com/item?id=35409657)
 * [2023-04-02, 09:50:05](https://news.ycombinator.com/item?id=35408874) - [Thinking hard makes the brain tired](https://www.economist.com/science-and-technology/2022/08/11/how-thinking-hard-makes-the-brain-tired)
 * [2023-04-02, 09:49:53](https://news.ycombinator.com/item?id=35408870) - [“True” Randomness vs. “Pseudo” Randomness](https://www.pcg-random.org/rng-basics.html)
@@ -28,7 +29,6 @@
 * [2023-03-31, 19:15:21](https://news.ycombinator.com/item?id=35391984) - [A solar wind-derived water reservoir on the Moon hosted by impact glass beads](https://www.nature.com/articles/s41561-023-01159-6)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 13:26:10](https://news.ycombinator.com/item?id=35386815) - [Do Necessary Tools Exist for RISC-V Verification?](https://semiengineering.com/do-necessary-tools-exist-for-risc-v-verification/)
-* [2023-03-31, 09:37:53](https://news.ycombinator.com/item?id=35384605) - [How and when the chip shortage will end](https://spectrum.ieee.org/chip-shortage)
 * [2023-03-31, 00:32:09](https://news.ycombinator.com/item?id=35380775) - [The state of open-source in 3D printing in 2023](https://blog.prusa3d.com/the-state-of-open-source-in-3d-printing-in-2023_76659/)
 
 ## [Archives](archives/index.md)

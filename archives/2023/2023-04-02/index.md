@@ -16,6 +16,7 @@
 * [2023-04-02, 13:12:49](https://news.ycombinator.com/item?id=35410150) - [No dates, no sex, no weddings, no kids](https://english.elpais.com/international/2023-04-01/no-dates-no-sex-no-weddings-no-kids-korean-women-are-standing-up-to-asian-machismo.html)
 * [2023-04-02, 13:05:43](https://news.ycombinator.com/item?id=35410099) - [Amazon’s Cloud Crisis: How AWS Will Lose the Future of Computing](https://www.semianalysis.com/p/amazons-cloud-crisis-how-aws-will)
 * [2023-04-02, 12:22:45](https://news.ycombinator.com/item?id=35409814) - [Chat with Open Large Language Models](https://chat.lmsys.org/)
+* [2023-04-02, 12:19:19](https://news.ycombinator.com/item?id=35409791) - [Rhind Mathematical Papyrus](https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus)
 * [2023-04-02, 12:00:58](https://news.ycombinator.com/item?id=35409657) - [Agave (YC W22) – Founding Eng – 1-4 Yrs Exp. – Full-Time – On-Site (SF)](https://news.ycombinator.com/item?id=35409657)
 * [2023-04-02, 10:37:36](https://news.ycombinator.com/item?id=35409130) - [Andreessen Horowitz is now openly courting capital from Saudi Arabia](https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/)
 * [2023-04-02, 10:26:06](https://news.ycombinator.com/item?id=35409076) - [Ask HN: Is the “open” in OpenAI just “open-washing”?](https://news.ycombinator.com/item?id=35409076)
