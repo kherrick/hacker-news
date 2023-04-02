@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-02, 18:01:07](https://news.ycombinator.com/item?id=35413307) - [YouTuber Tricks ChatGPT into Generating Windows 95 Keys](https://www.tomshardware.com/news/windows_95_chatgpt_keys)
 * [2023-04-02, 17:19:54](https://news.ycombinator.com/item?id=35412836) - [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
 * [2023-04-02, 17:16:40](https://news.ycombinator.com/item?id=35412788) - [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 * [2023-04-02, 16:33:44](https://news.ycombinator.com/item?id=35412342) - [iAPX432: Gordon Moore, Risk and Intel’s Super-CISC Failure](https://thechipletter.substack.com/p/iapx432-gordon-moore-risk-and-intels)
@@ -15,7 +16,6 @@
 * [2023-04-02, 10:05:34](https://news.ycombinator.com/item?id=35408955) - [UgBASIC – An isomorphic BASIC language compiler for retrocomputers](https://ugbasic.iwashere.eu/)
 * [2023-04-02, 09:50:05](https://news.ycombinator.com/item?id=35408874) - [Thinking hard makes the brain tired](https://www.economist.com/science-and-technology/2022/08/11/how-thinking-hard-makes-the-brain-tired)
 * [2023-04-02, 09:49:53](https://news.ycombinator.com/item?id=35408870) - [“True” Randomness vs. “Pseudo” Randomness](https://www.pcg-random.org/rng-basics.html)
-* [2023-04-02, 09:45:51](https://news.ycombinator.com/item?id=35408835) - [Privilegium Maius](https://en.wikipedia.org/wiki/Privilegium_Maius)
 * [2023-04-02, 07:57:17](https://news.ycombinator.com/item?id=35408249) - [For the first time, renewable energy generation beat out coal in the US](https://www.popsci.com/environment/renewable-energy-generation-coal-2022/)
 * [2023-04-02, 06:04:27](https://news.ycombinator.com/item?id=35407658) - [ISRO successfully conducts landing experiment of the Reusable Launch Vehicle](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-landing-experiment-of-the-reusable-launch-vehicle/article66690655.ece)
 * [2023-04-02, 05:27:35](https://news.ycombinator.com/item?id=35407474) - [The outside investigation of SoftRAM 95 (2021)](https://devblogs.microsoft.com/oldnewthing/20211111-00/?p=105897)
