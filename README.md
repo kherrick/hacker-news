@@ -2,12 +2,12 @@
 
 * [2023-04-02, 06:04:27](https://news.ycombinator.com/item?id=35407658) - [ISRO successfully lands a Reusable Launch Vehicle  from a 4.5 km altitude.](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-landing-experiment-of-the-reusable-launch-vehicle/article66690655.ece)
 * [2023-04-02, 04:53:30](https://news.ycombinator.com/item?id=35407295) - [How to change the region on an HP OfficeJet printer in 57 easy steps](https://www.theverge.com/23648726/hp-officejet-printer-region-how-to-change-why)
-* [2023-04-02, 03:04:20](https://news.ycombinator.com/item?id=35406740) - [These Angry Dutch Farmers Really Hate Microsoft](https://www.wired.com/story/microsoft-netherlands-hyperscale-data-centers/)
 * [2023-04-02, 02:02:27](https://news.ycombinator.com/item?id=35406369) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-02, 01:01:00](https://news.ycombinator.com/item?id=35405946) - [Peoplebox (YC S22) Is Hiring](https://www.ycombinator.com/companies/peoplebox/jobs/P225TqI-account-executive-saas-sales-india-apac)
 * [2023-04-02, 00:33:40](https://news.ycombinator.com/item?id=35405760) - [Show HN: PizzaGPT – ChatGPT clone accessible from Italy](https://www.pizzagpt.it/)
 * [2023-04-01, 23:35:41](https://news.ycombinator.com/item?id=35405338) - [MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention](https://www.youtube.com/watch?v=ySEx_Bqxvvo)
 * [2023-04-01, 22:58:23](https://news.ycombinator.com/item?id=35405030) - [SpaceX moves Starship to launch site, and liftoff could be just days away](https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/)
+* [2023-04-01, 22:36:15](https://news.ycombinator.com/item?id=35404852) - [Show HN: SiteGPT – Create ChatGPT-like chatbots trained on your website content](https://sitegpt.ai)
 * [2023-04-01, 22:32:57](https://news.ycombinator.com/item?id=35404823) - [SpaceX alums are branching out and shaping the startup economy](https://interactive.satellitetoday.com/via/april-2023/how-spacex-alums-are-branching-out-and-shaping-the-startup-economy/)
 * [2023-04-01, 21:30:26](https://news.ycombinator.com/item?id=35404275) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
 * [2023-04-01, 21:01:59](https://news.ycombinator.com/item?id=35404025) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
