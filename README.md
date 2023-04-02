@@ -2,7 +2,6 @@
 
 * [2023-04-02, 14:51:22](https://news.ycombinator.com/item?id=35411080) - [Screen time and the young brain – a contemporary moral panic? [pdf]](https://www.diva-portal.org/smash/get/diva2:1509482/FULLTEXT02.pdf)
 * [2023-04-02, 14:34:51](https://news.ycombinator.com/item?id=35410886) - [Work-from-home is the new normal in Canada](https://nationalpost.com/opinion/work-from-home-new-normal-in-canada)
-* [2023-04-02, 14:30:00](https://news.ycombinator.com/item?id=35410841) - [Analysis of Twitter algorithm reveals Twitter down-ranks tweets about Ukraine](https://english.nv.ua/nation/analysis-of-code-for-twitter-algorithm-reveals-social-medium-down-ranks-tweets-about-ukraine-50314963.html)
 * [2023-04-02, 14:24:29](https://news.ycombinator.com/item?id=35410778) - [‘America does so much more to subsidise affluence than alleviate poverty’](https://www.ft.com/content/6218aa73-ae25-46fc-9503-f2f45b8db47f)
 * [2023-04-02, 14:10:38](https://news.ycombinator.com/item?id=35410672) - [About three-in-ten U.S. adults say they are ‘almost constantly’ online (2021)](https://www.pewresearch.org/fact-tank/2021/03/26/about-three-in-ten-u-s-adults-say-they-are-almost-constantly-online/)
 * [2023-04-02, 14:09:50](https://news.ycombinator.com/item?id=35410662) - [The Problem with Music (1993)](https://thebaffler.com/salvos/the-problem-with-music)
@@ -10,6 +9,7 @@
 * [2023-04-02, 13:14:30](https://news.ycombinator.com/item?id=35410163) - [‘Preparing to die has a lot to do with having had a good life’](https://english.elpais.com/science-tech/2023-04-01/henry-marsh-preparing-to-die-has-a-lot-to-do-with-having-had-a-good-life.html)
 * [2023-04-02, 12:19:19](https://news.ycombinator.com/item?id=35409791) - [Rhind Mathematical Papyrus](https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus)
 * [2023-04-02, 12:00:58](https://news.ycombinator.com/item?id=35409657) - [Agave (YC W22) – Founding Eng – 1-4 Yrs Exp. – Full-Time – On-Site (SF)](https://news.ycombinator.com/item?id=35409657)
+* [2023-04-02, 10:05:34](https://news.ycombinator.com/item?id=35408955) - [UgBASIC – An isomorphic BASIC language compiler for retrocomputers](https://ugbasic.iwashere.eu/)
 * [2023-04-02, 09:50:05](https://news.ycombinator.com/item?id=35408874) - [Thinking hard makes the brain tired](https://www.economist.com/science-and-technology/2022/08/11/how-thinking-hard-makes-the-brain-tired)
 * [2023-04-02, 09:49:53](https://news.ycombinator.com/item?id=35408870) - [“True” Randomness vs. “Pseudo” Randomness](https://www.pcg-random.org/rng-basics.html)
 * [2023-04-02, 07:57:17](https://news.ycombinator.com/item?id=35408249) - [For the first time, renewable energy generation beat out coal in the US](https://www.popsci.com/environment/renewable-energy-generation-coal-2022/)
@@ -23,13 +23,13 @@
 * [2023-04-01, 22:32:57](https://news.ycombinator.com/item?id=35404823) - [SpaceX alums are branching out and shaping the startup economy](https://interactive.satellitetoday.com/via/april-2023/how-spacex-alums-are-branching-out-and-shaping-the-startup-economy/)
 * [2023-04-01, 21:01:59](https://news.ycombinator.com/item?id=35404025) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
 * [2023-04-01, 12:01:07](https://news.ycombinator.com/item?id=35399551) - [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)
+* [2023-04-01, 11:32:44](https://news.ycombinator.com/item?id=35399406) - [All Sliders to the Right](https://queue.acm.org/detail.cfm?id=3580505)
 * [2023-04-01, 08:50:26](https://news.ycombinator.com/item?id=35398545) - [Dogme 95](https://en.wikipedia.org/wiki/Dogme_95)
 * [2023-04-01, 07:16:34](https://news.ycombinator.com/item?id=35397994) - [Comprehensive Keyboard Handling in Terminals](https://sw.kovidgoyal.net/kitty/keyboard-protocol/)
+* [2023-04-01, 04:14:02](https://news.ycombinator.com/item?id=35397051) - [Hexatrek: The long distance thru hike in France](https://en.hexatrek.com)
 * [2023-04-01, 01:39:31](https://news.ycombinator.com/item?id=35396156) - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
 * [2023-03-31, 19:15:21](https://news.ycombinator.com/item?id=35391984) - [A solar wind-derived water reservoir on the Moon hosted by impact glass beads](https://www.nature.com/articles/s41561-023-01159-6)
-* [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 * [2023-03-31, 13:26:10](https://news.ycombinator.com/item?id=35386815) - [Do Necessary Tools Exist for RISC-V Verification?](https://semiengineering.com/do-necessary-tools-exist-for-risc-v-verification/)
-* [2023-03-31, 00:32:09](https://news.ycombinator.com/item?id=35380775) - [The state of open-source in 3D printing in 2023](https://blog.prusa3d.com/the-state-of-open-source-in-3d-printing-in-2023_76659/)
 
 ## [Archives](archives/index.md)
 
