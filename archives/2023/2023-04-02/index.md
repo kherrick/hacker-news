@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 14:24:29](https://news.ycombinator.com/item?id=35410778) - [‘America does so much more to subsidise affluence than alleviate poverty’](https://www.ft.com/content/6218aa73-ae25-46fc-9503-f2f45b8db47f)
+* [2023-04-02, 14:10:38](https://news.ycombinator.com/item?id=35410672) - [31% of American adults are online almost constantly](https://www.pewresearch.org/fact-tank/2021/03/26/about-three-in-ten-u-s-adults-say-they-are-almost-constantly-online/)
 * [2023-04-02, 13:36:55](https://news.ycombinator.com/item?id=35410357) - [The Agony of Putting Your Life on Hold to Care for Your Parents](https://www.nytimes.com/2023/03/28/magazine/elder-child-care-millennials.html)
+* [2023-04-02, 13:14:30](https://news.ycombinator.com/item?id=35410163) - [‘Preparing to die has a lot to do with having had a good life’](https://english.elpais.com/science-tech/2023-04-01/henry-marsh-preparing-to-die-has-a-lot-to-do-with-having-had-a-good-life.html)
 * [2023-04-02, 13:12:49](https://news.ycombinator.com/item?id=35410150) - [No dates, no sex, no weddings, no kids](https://english.elpais.com/international/2023-04-01/no-dates-no-sex-no-weddings-no-kids-korean-women-are-standing-up-to-asian-machismo.html)
 * [2023-04-02, 12:00:58](https://news.ycombinator.com/item?id=35409657) - [Agave (YC W22) – Founding Eng – 1-4 Yrs Exp. – Full-Time – On-Site (SF)](https://news.ycombinator.com/item?id=35409657)
 * [2023-04-02, 10:37:36](https://news.ycombinator.com/item?id=35409130) - [Andreessen Horowitz is now openly courting capital from Saudi Arabia](https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/)
