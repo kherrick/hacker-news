@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 06:04:27](https://news.ycombinator.com/item?id=35407658) - [ISRO successfully lands a Reusable Launch Vehicle  from a 4.5 km altitude.](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-landing-experiment-of-the-reusable-launch-vehicle/article66690655.ece)
 * [2023-04-02, 04:53:30](https://news.ycombinator.com/item?id=35407295) - [How to change the region on an HP OfficeJet printer in 57 easy steps](https://www.theverge.com/23648726/hp-officejet-printer-region-how-to-change-why)
 * [2023-04-02, 04:26:55](https://news.ycombinator.com/item?id=35407163) - [West Virginia&#x27;s 70s Automated Personal Rapid Transit](https://www.youtube.com/watch?v=iaSaWfw07Sw)
 * [2023-04-02, 03:21:34](https://news.ycombinator.com/item?id=35406833) - [Study: 77% of young Americans too fat, mentally ill, on drugs to join military](https://americanmilitarynews.com/2023/03/77-of-young-americans-too-fat-mentally-ill-on-drugs-and-more-to-join-military-pentagon-study-finds/)
