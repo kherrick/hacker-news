@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-02, 21:25:52](https://news.ycombinator.com/item?id=35415403) - [Developers hilariously competed for who could create worst volume control (2017)](https://twitter.com/0xDesigner/status/1642554817590566915)
 * [2023-04-02, 21:15:15](https://news.ycombinator.com/item?id=35415305) - [Paris Votes to Ban Rental E-Scooters](https://www.france24.com/en/live-news/20230402-paris-votes-on-ban-for-rental-e-scooters)
 * [2023-04-02, 20:41:08](https://news.ycombinator.com/item?id=35414957) - [Kramatorsk Radiological Accident](https://en.wikipedia.org/wiki/Kramatorsk_radiological_accident)
 * [2023-04-02, 19:37:05](https://news.ycombinator.com/item?id=35414262) - [Scientists Found a &#x27;Leak&#x27; in Photosynthesis That Could Be Tapped into Energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
@@ -29,7 +30,6 @@
 * [2023-04-01, 13:40:26](https://news.ycombinator.com/item?id=35400236) - [If Philip Glass Were a Film](https://www.youtube.com/watch?v=gPtd6gVgKo8)
 * [2023-04-01, 12:51:38](https://news.ycombinator.com/item?id=35399905) - [15k inserts&#x2F;s with Rust and SQLite (2021)](https://kerkour.com/high-performance-rust-with-sqlite)
 * [2023-04-01, 12:40:43](https://news.ycombinator.com/item?id=35399818) - [The Secret Life of Fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
-* [2023-04-01, 12:01:07](https://news.ycombinator.com/item?id=35399551) - [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)
 
 ## [Archives](archives/index.md)
 
