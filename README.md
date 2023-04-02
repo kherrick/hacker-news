@@ -2,10 +2,10 @@
 
 * [2023-04-02, 02:02:27](https://news.ycombinator.com/item?id=35406369) - [XUL Layout has been removed from Firefox](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-02, 01:01:00](https://news.ycombinator.com/item?id=35405946) - [Peoplebox (YC S22) Is Hiring](https://www.ycombinator.com/companies/peoplebox/jobs/P225TqI-account-executive-saas-sales-india-apac)
+* [2023-04-02, 00:33:40](https://news.ycombinator.com/item?id=35405760) - [Show HN: PizzaGPT – ChatGPT clone accessible from Italy](https://www.pizzagpt.it/)
 * [2023-04-01, 23:35:41](https://news.ycombinator.com/item?id=35405338) - [MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention](https://www.youtube.com/watch?v=ySEx_Bqxvvo)
 * [2023-04-01, 22:58:23](https://news.ycombinator.com/item?id=35405030) - [SpaceX moves Starship to launch site, and liftoff could be just days away](https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/)
 * [2023-04-01, 22:32:57](https://news.ycombinator.com/item?id=35404823) - [SpaceX alums are branching out and shaping the startup economy](https://interactive.satellitetoday.com/via/april-2023/how-spacex-alums-are-branching-out-and-shaping-the-startup-economy/)
-* [2023-04-01, 21:39:39](https://news.ycombinator.com/item?id=35404361) - [Tax Evasion at the Top of the Income Distribution: Theory and Evidence (2021) [pdf]](https://www.nber.org/system/files/working_papers/w28542/w28542.pdf)
 * [2023-04-01, 21:30:26](https://news.ycombinator.com/item?id=35404275) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
 * [2023-04-01, 21:01:59](https://news.ycombinator.com/item?id=35404025) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
 * [2023-04-01, 20:22:19](https://news.ycombinator.com/item?id=35403726) - [What broke Sweden? Real estate bust exposes big divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
@@ -16,7 +16,6 @@
 * [2023-04-01, 12:50:43](https://news.ycombinator.com/item?id=35399897) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems (2022)](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [Alexa, what is my wifi password?](https://dragon863.github.io/blog/alexa.html)
-* [2023-04-01, 10:16:55](https://news.ycombinator.com/item?id=35398999) - [Cities on the Bay: The Ancient Roman Predecessor of Naples (2015)](https://web.archive.org/web/20150516094013/http://www.the-tls.co.uk/tls/public/article1555487.ece)
 * [2023-04-01, 09:58:13](https://news.ycombinator.com/item?id=35398901) - [Why Not document.write()?](https://csswizardry.com/2023/01/why-not-document-write/)
 * [2023-04-01, 04:26:01](https://news.ycombinator.com/item?id=35397135) - [The xine hacker&#x27;s guide (2003)](http://web.mit.edu/outland/share/doc/xine/hackersguide/hackersguide.html)
 * [2023-04-01, 04:14:02](https://news.ycombinator.com/item?id=35397051) - [Hexatrek: The long distance thru hike in France](https://en.hexatrek.com)
@@ -29,6 +28,7 @@
 * [2023-03-31, 13:20:52](https://news.ycombinator.com/item?id=35386747) - [Newest Linux Gaming Predictions for 2023](https://boilingsteam.com/epic-linux-gaming-predictions-for-2023/)
 * [2023-03-31, 12:36:33](https://news.ycombinator.com/item?id=35386156) - [Research Vessel Heraclitus](https://ecotechnics.edu/projects/research-vessel-heraclitus/)
 * [2023-03-31, 10:08:14](https://news.ycombinator.com/item?id=35384789) - [Visual programming with Elixir: Learning to write binary parsers (2019)](https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17)
+* [2023-03-31, 09:37:53](https://news.ycombinator.com/item?id=35384605) - [How and When the Chip Shortage Will End, in 4 Charts](https://spectrum.ieee.org/chip-shortage)
 * [2023-03-31, 00:32:09](https://news.ycombinator.com/item?id=35380775) - [The state of open-source in 3D printing in 2023](https://blog.prusa3d.com/the-state-of-open-source-in-3d-printing-in-2023_76659/)
 
 ## [Archives](archives/index.md)
