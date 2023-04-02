@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-02, 01:01:00",
+      "https://news.ycombinator.com/item?id=35405946"
+    ],
+    [
+      "Peoplebox (YC S22) Is Hiring",
+      "https://www.ycombinator.com/companies/peoplebox/jobs/P225TqI-account-executive-saas-sales-india-apac"
+    ]
+  ],
+  [
+    [
+      "2023-04-01, 23:35:41",
+      "https://news.ycombinator.com/item?id=35405338"
+    ],
+    [
+      "MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention",
+      "https://www.youtube.com/watch?v=ySEx_Bqxvvo"
+    ]
+  ],
+  [
+    [
       "2023-04-01, 22:58:23",
       "https://news.ycombinator.com/item?id=35405030"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2023-04-01, 21:40:44",
-      "https://news.ycombinator.com/item?id=35404374"
-    ],
-    [
-      "Another Reply to Josef PRůša",
-      "https://www.haerdin.se/blog/2023/04/01/another-reply-to-josef-prusa/"
-    ]
-  ],
-  [
-    [
       "2023-04-01, 21:39:39",
       "https://news.ycombinator.com/item?id=35404361"
     ],
@@ -67,16 +77,6 @@
     [
       "Catch-23: The New C Standard Sets the World on Fire",
       "https://queue.acm.org/detail.cfm?id=3588242"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 20:28:56",
-      "https://news.ycombinator.com/item?id=35403776"
-    ],
-    [
-      "Less than half of U.S. workers use all their vacation days",
-      "https://www.bloomberg.com/news/articles/2023-03-30/less-than-half-of-us-workers-use-all-their-vacation-days"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2023-03-31, 14:33:50",
-      "https://news.ycombinator.com/item?id=35387754"
-    ],
-    [
-      "Pizza rolls and the meaning of midcentury food",
-      "https://www.snackstack.net/p/pizza-rolls-and-the-meaning-of-midcentury"
-    ]
-  ],
-  [
-    [
       "2023-03-31, 14:32:58",
       "https://news.ycombinator.com/item?id=35387733"
     ],
     [
       "Evil Floppy Drives: Floppy Music Duo: Imperial March (2011)",
       "http://silent.org.pl/home/2011/09/29/evil-floppy-drives-english-translation/"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 14:20:08",
+      "https://news.ycombinator.com/item?id=35387547"
+    ],
+    [
+      "The Beatles and the Glory of Creative Risk",
+      "https://hedgehogreview.com/web-features/thr/posts/the-beatles-and-the-glory-of-creative-risk"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-03-31, 12:19:00",
-      "https://news.ycombinator.com/item?id=35385952"
-    ],
-    [
-      "Erlang&#x2F;OTP: Garbage Collector",
-      "https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87"
-    ]
-  ],
-  [
-    [
       "2023-03-31, 10:08:14",
       "https://news.ycombinator.com/item?id=35384789"
     ],
     [
       "Visual programming with Elixir: Learning to write binary parsers (2019)",
       "https://hansonkd.medium.com/building-beautiful-binary-parsers-in-elixir-1bd7f865bf17"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 00:32:09",
+      "https://news.ycombinator.com/item?id=35380775"
+    ],
+    [
+      "The state of open-source in 3D printing in 2023",
+      "https://blog.prusa3d.com/the-state-of-open-source-in-3d-printing-in-2023_76659/"
     ]
   ]
 ]
