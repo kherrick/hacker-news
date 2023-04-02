@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-02, 12:00:58](https://news.ycombinator.com/item?id=35409657) - [Agave (YC W22) – Founding Eng – 1-4 Yrs Exp. – Full-Time – On-Site (SF)](https://news.ycombinator.com/item?id=35409657)
+* [2023-04-02, 10:37:36](https://news.ycombinator.com/item?id=35409130) - [Andreessen Horowitz is now openly courting capital from Saudi Arabia](https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/)
 * [2023-04-02, 09:50:05](https://news.ycombinator.com/item?id=35408874) - [Thinking hard makes the brain tired](https://www.economist.com/science-and-technology/2022/08/11/how-thinking-hard-makes-the-brain-tired)
 * [2023-04-02, 09:46:01](https://news.ycombinator.com/item?id=35408837) - [My experience being blocked by Google Safe Browsing (2022)](https://brennan.io/2022/11/12/snake.club-blocked/)
 * [2023-04-02, 08:50:43](https://news.ycombinator.com/item?id=35408507) - [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)
@@ -26,7 +27,6 @@
 * [2023-04-01, 01:39:31](https://news.ycombinator.com/item?id=35396156) - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
 * [2023-03-31, 19:15:21](https://news.ycombinator.com/item?id=35391984) - [A solar wind-derived water reservoir on the Moon hosted by impact glass beads](https://www.nature.com/articles/s41561-023-01159-6)
 * [2023-03-31, 18:42:16](https://news.ycombinator.com/item?id=35391433) - [Twitter&#x27;s Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
-* [2023-03-31, 16:02:50](https://news.ycombinator.com/item?id=35389110) - [Launch HN: Inri (YC W23) – Wealthfront for Investing in India](https://news.ycombinator.com/item?id=35389110)
 * [2023-03-31, 13:26:10](https://news.ycombinator.com/item?id=35386815) - [Do Necessary Tools Exist for RISC-V Verification?](https://semiengineering.com/do-necessary-tools-exist-for-risc-v-verification/)
 * [2023-03-31, 09:37:53](https://news.ycombinator.com/item?id=35384605) - [How and when the chip shortage will end](https://spectrum.ieee.org/chip-shortage)
 * [2023-03-31, 00:32:09](https://news.ycombinator.com/item?id=35380775) - [The state of open-source in 3D printing in 2023](https://blog.prusa3d.com/the-state-of-open-source-in-3d-printing-in-2023_76659/)
