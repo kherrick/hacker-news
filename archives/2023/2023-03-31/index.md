@@ -56,6 +56,7 @@
 * [2023-03-31, 14:32:58](https://news.ycombinator.com/item?id=35387733) - [Evil Floppy Drives: Floppy Music Duo: Imperial March (2011)](http://silent.org.pl/home/2011/09/29/evil-floppy-drives-english-translation/)
 * [2023-03-31, 14:22:28](https://news.ycombinator.com/item?id=35387584) - [Video shows ‘ghost co-driver’ added to trucker’s ELD to skirt HOS rules](https://www.freightwaves.com/news/video-shows-ghost-co-driver-added-to-truckers-eld-to-skirt-hos-rules)
 * [2023-03-31, 14:21:09](https://news.ycombinator.com/item?id=35387563) - [Custom Styles in GitHub Readme Files (2020)](https://css-tricks.com/custom-styles-in-github-readmes/)
+* [2023-03-31, 14:20:08](https://news.ycombinator.com/item?id=35387547) - [The Beatles and the Glory of Creative Risk](https://hedgehogreview.com/web-features/thr/posts/the-beatles-and-the-glory-of-creative-risk)
 * [2023-03-31, 13:55:33](https://news.ycombinator.com/item?id=35387220) - [ChatGPT banned in Italy over privacy concerns](https://www.bbc.com/news/technology-65139406)
 * [2023-03-31, 13:54:06](https://news.ycombinator.com/item?id=35387191) - [75% of the Most Played Games on Steam Are Playable on the Steam Deck](https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/)
 * [2023-03-31, 13:51:33](https://news.ycombinator.com/item?id=35387160) - [Show HN: Multi-Display Screen Sharing with CoScreen by Datadog](https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/)
@@ -110,4 +111,5 @@
 * [2023-03-31, 01:03:50](https://news.ycombinator.com/item?id=35380993) - [Stellantis CEO: There may not be enough raw materials to electrify globe](https://www.detroitnews.com/story/business/autos/2023/03/29/stellantis-carlos-tavares-freedom-mobility-forum-raw-materials-electric-vehicles/70059274007/)
 * [2023-03-31, 00:55:22](https://news.ycombinator.com/item?id=35380939) - [I have never been treated this bad in an interview process in 20 years](https://startupdreams.substack.com/p/i-just-had-the-worst-interview-process)
 * [2023-03-31, 00:37:41](https://news.ycombinator.com/item?id=35380823) - [Gmail is killing independent email](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
+* [2023-03-31, 00:32:09](https://news.ycombinator.com/item?id=35380775) - [The state of open-source in 3D printing in 2023](https://blog.prusa3d.com/the-state-of-open-source-in-3d-printing-in-2023_76659/)
 * [2023-03-31, 00:26:27](https://news.ycombinator.com/item?id=35380742) - [Programming Isn’t Coding](https://occasionallycogent.com/programming_isnt_coding/index.html)
