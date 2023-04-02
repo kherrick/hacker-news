@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 09:46:01](https://news.ycombinator.com/item?id=35408837) - [My experience being blocked by Google Safe Browsing](https://brennan.io/2022/11/12/snake.club-blocked/)
 * [2023-04-02, 09:16:27](https://news.ycombinator.com/item?id=35408652) - [UK Treasury trying to find a Head of Cyber Security for £55k](https://infosec.exchange/@tazwake/110108960041803779)
 * [2023-04-02, 08:50:43](https://news.ycombinator.com/item?id=35408507) - [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)
 * [2023-04-02, 07:57:17](https://news.ycombinator.com/item?id=35408249) - [For the first time, renewable energy generation beat out coal in the US](https://www.popsci.com/environment/renewable-energy-generation-coal-2022/)
 * [2023-04-02, 06:04:27](https://news.ycombinator.com/item?id=35407658) - [ISRO successfully lands a Reusable Launch Vehicle  from a 4.5 km altitude.](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-landing-experiment-of-the-reusable-launch-vehicle/article66690655.ece)
+* [2023-04-02, 05:27:35](https://news.ycombinator.com/item?id=35407474) - [The outside investigation of SoftRAM 95 (2021)](https://devblogs.microsoft.com/oldnewthing/20211111-00/?p=105897)
 * [2023-04-02, 05:18:00](https://news.ycombinator.com/item?id=35407420) - [Avoiding HTTP&#x2F;3 (for a while) as a pragmatic default](https://utcc.utoronto.ca/~cks/space/blog/web/AvoidingHTTP3ForNow)
 * [2023-04-02, 04:53:30](https://news.ycombinator.com/item?id=35407295) - [How to change the region on an HP OfficeJet printer in 57 easy steps](https://www.theverge.com/23648726/hp-officejet-printer-region-how-to-change-why)
 * [2023-04-02, 04:26:55](https://news.ycombinator.com/item?id=35407163) - [West Virginia&#x27;s 70s Automated Personal Rapid Transit](https://www.youtube.com/watch?v=iaSaWfw07Sw)
