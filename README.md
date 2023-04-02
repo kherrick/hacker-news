@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-02, 23:00:05](https://news.ycombinator.com/item?id=35416224) - [Starlink internet is going from rural savior to unreliable luxury](https://www.xda-developers.com/starlink-internet-rural-savior-unreliable-luxury/)
 * [2023-04-02, 22:29:30](https://news.ycombinator.com/item?id=35415947) - [A Guide to Understanding the Hoax of the Century](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation)
 * [2023-04-02, 22:05:23](https://news.ycombinator.com/item?id=35415758) - [The Day Windows Died](https://thomasbandt.com/the-day-windows-died)
-* [2023-04-02, 21:25:52](https://news.ycombinator.com/item?id=35415403) - [In 2017, developers competed for who could create worst volume control interface](https://twitter.com/0xDesigner/status/1642554817590566915)
 * [2023-04-02, 19:37:05](https://news.ycombinator.com/item?id=35414262) - [Scientists Found a &#x27;Leak&#x27; in Photosynthesis That Could Be Tapped into Energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
 * [2023-04-02, 18:43:16](https://news.ycombinator.com/item?id=35413770) - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
 * [2023-04-02, 18:27:37](https://news.ycombinator.com/item?id=35413594) - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
