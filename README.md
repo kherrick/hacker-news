@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-02, 18:08:23](https://news.ycombinator.com/item?id=35413385) - [International Orange](https://en.wikipedia.org/wiki/International_orange)
 * [2023-04-02, 18:01:07](https://news.ycombinator.com/item?id=35413307) - [YouTuber Tricks ChatGPT into Generating Windows 95 Keys](https://www.tomshardware.com/news/windows_95_chatgpt_keys)
-* [2023-04-02, 17:19:54](https://news.ycombinator.com/item?id=35412836) - [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
 * [2023-04-02, 17:16:40](https://news.ycombinator.com/item?id=35412788) - [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 * [2023-04-02, 16:33:44](https://news.ycombinator.com/item?id=35412342) - [iAPX432: Gordon Moore, Risk and Intel’s Super-CISC Failure](https://thechipletter.substack.com/p/iapx432-gordon-moore-risk-and-intels)
+* [2023-04-02, 16:12:11](https://news.ycombinator.com/item?id=35412096) - [Ask HN: Are there 3D twisty puzzles that can only be simulated on a computer?](https://news.ycombinator.com/item?id=35412096)
 * [2023-04-02, 15:58:26](https://news.ycombinator.com/item?id=35411919) - [Compostable fast-food packaging can emit volatile PFAS](https://cen.acs.org/environment/persistent-pollutants/Fast-food-packaging-emit-volatile/101/i11)
-* [2023-04-02, 14:34:51](https://news.ycombinator.com/item?id=35410886) - [Work-from-home is the new normal in Canada](https://nationalpost.com/opinion/work-from-home-new-normal-in-canada)
 * [2023-04-02, 14:24:29](https://news.ycombinator.com/item?id=35410778) - [‘America does so much more to subsidise affluence than alleviate poverty’](https://www.ft.com/content/6218aa73-ae25-46fc-9503-f2f45b8db47f)
 * [2023-04-02, 14:09:50](https://news.ycombinator.com/item?id=35410662) - [The Problem with Music (1993)](https://thebaffler.com/salvos/the-problem-with-music)
 * [2023-04-02, 14:00:07](https://news.ycombinator.com/item?id=35410576) - [Own your work](https://josem.co/own-your-work/)
