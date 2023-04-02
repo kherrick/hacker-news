@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 17:19:54](https://news.ycombinator.com/item?id=35412836) - [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
+* [2023-04-02, 17:16:40](https://news.ycombinator.com/item?id=35412788) - [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 * [2023-04-02, 16:33:44](https://news.ycombinator.com/item?id=35412342) - [iAPX432: Gordon Moore, Risk and Intel’s Super-CISC Failure](https://thechipletter.substack.com/p/iapx432-gordon-moore-risk-and-intels)
 * [2023-04-02, 15:58:26](https://news.ycombinator.com/item?id=35411919) - [Compostable fast-food packaging can emit volatile PFAS](https://cen.acs.org/environment/persistent-pollutants/Fast-food-packaging-emit-volatile/101/i11)
 * [2023-04-02, 15:57:39](https://news.ycombinator.com/item?id=35411909) - [Revert for jart’s llama.cpp MMAP miracles](https://github.com/ggerganov/llama.cpp/pull/711)
