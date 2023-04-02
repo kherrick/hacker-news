@@ -66,6 +66,7 @@
 * [2023-03-31, 13:32:45](https://news.ycombinator.com/item?id=35386907) - [Calibration Display for NASA (2019)](https://www.daliborfarny.com/project/calibration-display-for-nasa/)
 * [2023-03-31, 13:20:52](https://news.ycombinator.com/item?id=35386747) - [Newest Linux Gaming Predictions for 2023](https://boilingsteam.com/epic-linux-gaming-predictions-for-2023/)
 * [2023-03-31, 12:55:19](https://news.ycombinator.com/item?id=35386405) - [Janet for Mortals](https://janet.guide/)
+* [2023-03-31, 12:36:33](https://news.ycombinator.com/item?id=35386156) - [Research Vessel Heraclitus](https://ecotechnics.edu/projects/research-vessel-heraclitus/)
 * [2023-03-31, 12:19:00](https://news.ycombinator.com/item?id=35385952) - [Erlang&#x2F;OTP: Garbage Collector](https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87)
 * [2023-03-31, 12:12:18](https://news.ycombinator.com/item?id=35385868) - [Dungeons and Dragons Embarks on an Epic Quest to Finally Make Money](https://www.bloomberg.com/news/features/2023-03-30/dungeons-and-dragons-movie-gives-hasbro-a-golden-opportunity)
 * [2023-03-31, 12:01:31](https://news.ycombinator.com/item?id=35385732) - [PyCharm 2023.1](https://www.jetbrains.com/pycharm/whatsnew/)
