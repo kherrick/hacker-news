@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 15:58:26](https://news.ycombinator.com/item?id=35411919) - [Compostable fast-food packaging can emit volatile PFAS](https://cen.acs.org/environment/persistent-pollutants/Fast-food-packaging-emit-volatile/101/i11)
+* [2023-04-02, 15:57:39](https://news.ycombinator.com/item?id=35411909) - [Revert for jart’s llama.cpp MMAP miracles](https://github.com/ggerganov/llama.cpp/pull/711)
 * [2023-04-02, 14:51:22](https://news.ycombinator.com/item?id=35411080) - [Screen time and the young brain – a contemporary moral panic? [pdf]](https://www.diva-portal.org/smash/get/diva2:1509482/FULLTEXT02.pdf)
 * [2023-04-02, 14:34:51](https://news.ycombinator.com/item?id=35410886) - [Work-from-home is the new normal in Canada](https://nationalpost.com/opinion/work-from-home-new-normal-in-canada)
 * [2023-04-02, 14:30:00](https://news.ycombinator.com/item?id=35410841) - [Analysis of Twitter algorithm reveals Twitter down-ranks tweets about Ukraine](https://english.nv.ua/nation/analysis-of-code-for-twitter-algorithm-reveals-social-medium-down-ranks-tweets-about-ukraine-50314963.html)
@@ -13,6 +15,7 @@
 * [2023-04-02, 13:36:55](https://news.ycombinator.com/item?id=35410357) - [The Agony of Putting Your Life on Hold to Care for Your Parents](https://www.nytimes.com/2023/03/28/magazine/elder-child-care-millennials.html)
 * [2023-04-02, 13:16:24](https://news.ycombinator.com/item?id=35410182) - [Ryuichi Sakamoto has died](https://www.clashmusic.com/news/ryuichi-sakamoto-has-died-cause-of-death/)
 * [2023-04-02, 13:14:30](https://news.ycombinator.com/item?id=35410163) - [‘Preparing to die has a lot to do with having had a good life’](https://english.elpais.com/science-tech/2023-04-01/henry-marsh-preparing-to-die-has-a-lot-to-do-with-having-had-a-good-life.html)
+* [2023-04-02, 13:14:28](https://news.ycombinator.com/item?id=35410162) - [Ask HN: How do I keep my elderly father safe on the internet?](https://news.ycombinator.com/item?id=35410162)
 * [2023-04-02, 13:12:49](https://news.ycombinator.com/item?id=35410150) - [No dates, no sex, no weddings, no kids](https://english.elpais.com/international/2023-04-01/no-dates-no-sex-no-weddings-no-kids-korean-women-are-standing-up-to-asian-machismo.html)
 * [2023-04-02, 13:05:43](https://news.ycombinator.com/item?id=35410099) - [Amazon’s Cloud Crisis: How AWS Will Lose the Future of Computing](https://www.semianalysis.com/p/amazons-cloud-crisis-how-aws-will)
 * [2023-04-02, 12:22:45](https://news.ycombinator.com/item?id=35409814) - [Chat with Open Large Language Models](https://chat.lmsys.org/)
