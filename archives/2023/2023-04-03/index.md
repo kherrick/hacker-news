@@ -76,6 +76,7 @@
 * [2023-04-03, 05:46:16](https://news.ycombinator.com/item?id=35418999) - [Midjourney CEO Silencing Satire About Xi Jinping](https://www.techdirt.com/2023/03/31/midjourney-ceo-says-political-satire-in-china-is-pretty-not-okay-but-apparently-silencing-satire-about-xi-jinping-is-pretty-okay/)
 * [2023-04-03, 05:04:25](https://news.ycombinator.com/item?id=35418760) - [Saying Goodbye to GitHub – Ersei &#x27;N Stuff](https://ersei.net/en/blog/bye-bye-github)
 * [2023-04-03, 04:52:10](https://news.ycombinator.com/item?id=35418690) - [Neuralink’s FDA troubles are just the beginning](https://spectrum.ieee.org/neuralink-seeks-fda-approval)
+* [2023-04-03, 03:48:24](https://news.ycombinator.com/item?id=35418336) - [NAND Flash Data Recovery Cookbook (2013) [pdf]](http://web.archive.org/web/20180516153837/http://www.adreca.net/NAND-Flash-Data-Recovery-Cookbook.pdf)
 * [2023-04-03, 03:42:33](https://news.ycombinator.com/item?id=35418303) - [An Essay on Diseases Incidental to Literary and Sedentary Persons (1768)](https://publicdomainreview.org/collection/blights-of-the-bookish)
 * [2023-04-03, 02:59:10](https://news.ycombinator.com/item?id=35418017) - [The Nine Billion Names Of God – short film [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
 * [2023-04-03, 02:17:34](https://news.ycombinator.com/item?id=35417764) - [Destreza](https://en.wikipedia.org/wiki/Destreza)
