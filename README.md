@@ -25,11 +25,11 @@
 * [2023-04-01, 14:51:15](https://news.ycombinator.com/item?id=35400742) - [Vectorized port of Klong array language](https://github.com/briangu/klongpy)
 * [2023-04-01, 14:29:45](https://news.ycombinator.com/item?id=35400562) - [The Status Trap](https://every.to/no-small-plans/the-status-trap)
 * [2023-04-01, 13:40:26](https://news.ycombinator.com/item?id=35400236) - [If Philip Glass Were a Film](https://www.youtube.com/watch?v=gPtd6gVgKo8)
+* [2023-04-01, 13:04:38](https://news.ycombinator.com/item?id=35400006) - [The Data Delusion](https://www.newyorker.com/magazine/2023/04/03/the-data-delusion)
 * [2023-04-01, 12:40:43](https://news.ycombinator.com/item?id=35399818) - [The secret life of fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
 * [2023-04-01, 12:32:51](https://news.ycombinator.com/item?id=35399754) - [Is It Imperative to Be Declarative?](https://blog.container-solutions.com/is-it-imperative-to-be-declarative)
 * [2023-04-01, 10:40:29](https://news.ycombinator.com/item?id=35399108) - [The Priest in the Arena](https://studio.ribbonfarm.com/p/the-priest-in-the-arena)
 * [2023-04-01, 10:33:29](https://news.ycombinator.com/item?id=35399081) - [International Pascal Congress](https://www.pascalcongress.com/index.html)
-* [2023-04-01, 01:39:31](https://news.ycombinator.com/item?id=35396156) - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
 
 ## [Archives](archives/index.md)
 

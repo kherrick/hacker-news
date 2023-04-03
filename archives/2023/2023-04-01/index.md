@@ -45,6 +45,7 @@
 * [2023-04-01, 13:44:02](https://news.ycombinator.com/item?id=35400253) - [The surprising roots of Japan&#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
 * [2023-04-01, 13:40:26](https://news.ycombinator.com/item?id=35400236) - [If Philip Glass Were a Film](https://www.youtube.com/watch?v=gPtd6gVgKo8)
 * [2023-04-01, 13:12:30](https://news.ycombinator.com/item?id=35400047) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
+* [2023-04-01, 13:04:38](https://news.ycombinator.com/item?id=35400006) - [The Data Delusion](https://www.newyorker.com/magazine/2023/04/03/the-data-delusion)
 * [2023-04-01, 12:51:38](https://news.ycombinator.com/item?id=35399905) - [15k inserts&#x2F;s with Rust and SQLite (2021)](https://kerkour.com/high-performance-rust-with-sqlite)
 * [2023-04-01, 12:50:43](https://news.ycombinator.com/item?id=35399897) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
 * [2023-04-01, 12:43:31](https://news.ycombinator.com/item?id=35399852) - [F**k Teams](https://www.youtube.com/watch?v=7ERH4LAAKjw)
