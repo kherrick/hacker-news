@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 23:41:21](https://news.ycombinator.com/item?id=35416627) - [Ford to drop AM radio in new models, except commercial vehicles](https://www.freep.com/story/money/cars/2023/04/01/ford-am-radio-commercial/70062845007/)
 * [2023-04-02, 23:32:42](https://news.ycombinator.com/item?id=35416556) - [How the U.S. Came to Use Spyware It Was Trying to Kill](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
 * [2023-04-02, 23:00:05](https://news.ycombinator.com/item?id=35416224) - [Starlink internet is going from rural savior to unreliable luxury](https://www.xda-developers.com/starlink-internet-rural-savior-unreliable-luxury/)
 * [2023-04-02, 22:54:21](https://news.ycombinator.com/item?id=35416158) - [Global warming is killing Indians and Pakistanis](https://www.economist.com/asia/2023/04/02/global-warming-is-killing-indians-and-pakistanis)
