@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-03, 18:47:42](https://news.ycombinator.com/item?id=35429269) - [Turn Notion into a UI for Postgres](https://news.ycombinator.com/item?id=35429269)
 * [2023-04-03, 18:42:57](https://news.ycombinator.com/item?id=35429198) - [Was There a U.S. Nuclear Weapons Accident at a Dutch Air Base?](https://fas.org/blogs/security/2023/04/volkel-nuclear-weapon-accident/)
 * [2023-04-03, 18:20:44](https://news.ycombinator.com/item?id=35428847) - [Pop_OS has a complicated name but it makes using Linux so easy](https://www.zdnet.com/article/pop-os-has-a-complicated-name-but-it-makes-using-linux-so-easy/)
 * [2023-04-03, 18:05:43](https://news.ycombinator.com/item?id=35428568) - [Why paid masterminds are mental masturbation](https://jimclair.com/why-paid-masterminds-are-mental/)
@@ -25,6 +24,7 @@
 * [2023-04-03, 09:58:44](https://news.ycombinator.com/item?id=35420946) - [Apple halted M2 chip production in January amid &#x27;plummeting&#x27; Mac sales](https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/)
 * [2023-04-03, 09:09:24](https://news.ycombinator.com/item?id=35420553) - [Near-lossless image formats using ultra-fast LZ codecs](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
 * [2023-04-03, 07:28:01](https://news.ycombinator.com/item?id=35419771) - [Show HN: Unknown Pleasures, a tiny web experiment with WebGL](https://pouria.dev/unknown-pleasures)
+* [2023-04-03, 03:42:33](https://news.ycombinator.com/item?id=35418303) - [An Essay on Diseases Incidental to Literary and Sedentary Persons (1768)](https://publicdomainreview.org/collection/blights-of-the-bookish)
 * [2023-04-02, 05:47:46](https://news.ycombinator.com/item?id=35407578) - [Transcribing bird sound as human speech](https://daily.jstor.org/what-it-sounds-like-when-doves-cry/)
 * [2023-04-01, 21:56:16](https://news.ycombinator.com/item?id=35404505) - [Deer don&#x27;t regrow antlers the way lower animals regrow limbs](https://www.scmp.com/news/china/science/article/3214761/chinese-scientists-find-clue-bone-regrowth-deer-antler-study)
 * [2023-04-01, 17:03:02](https://news.ycombinator.com/item?id=35401895) - [His software sang the words of God. Then it went silent](https://www.inverse.com/input/features/tropetrainer-thomas-buchler-torah-software)
