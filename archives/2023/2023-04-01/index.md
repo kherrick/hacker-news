@@ -18,6 +18,7 @@
 * [2023-04-01, 21:30:26](https://news.ycombinator.com/item?id=35404275) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
 * [2023-04-01, 21:08:16](https://news.ycombinator.com/item?id=35404080) - [Ringwoodite](https://en.wikipedia.org/wiki/Ringwoodite)
 * [2023-04-01, 21:01:59](https://news.ycombinator.com/item?id=35404025) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
+* [2023-04-01, 20:55:36](https://news.ycombinator.com/item?id=35403975) - [Remembering Benares](https://yalereview.org/article/pankaj-mishra-remembering-benares-india-romantics-novel)
 * [2023-04-01, 20:50:57](https://news.ycombinator.com/item?id=35403940) - [Porsche’s E-Fuel Burns Just Like the Real Thing](https://www.wired.com/story/porsche-e-fuel-emissions-neutral-synthetic-gas/)
 * [2023-04-01, 20:28:56](https://news.ycombinator.com/item?id=35403776) - [Less Than Half of US Workers Use All Their Vacation Days](https://www.bloomberg.com/news/articles/2023-03-30/less-than-half-of-us-workers-use-all-their-vacation-days)
 * [2023-04-01, 20:22:19](https://news.ycombinator.com/item?id=35403726) - [What Broke Sweden? Real Estate Bust Exposes Big Divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)

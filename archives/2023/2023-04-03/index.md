@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 22:20:02](https://news.ycombinator.com/item?id=35432115) - [What if ChatGPT was trained on decades of financial news and data?](https://www.niemanlab.org/2023/04/what-if-chatgpt-was-trained-on-decades-of-financial-news-and-data-bloomberggpt-aims-to-be-a-domain-specific-ai-for-business-news/)
 * [2023-04-03, 21:58:01](https://news.ycombinator.com/item?id=35431877) - [The influencers getting rich by teaching you how to get rich](https://www.vox.com/culture/2023/3/30/23661712/influencer-online-course-class-miss-excel)
 * [2023-04-03, 21:22:13](https://news.ycombinator.com/item?id=35431466) - [If Parrots Can Talk, Why Can’t Monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
 * [2023-04-03, 21:00:54](https://news.ycombinator.com/item?id=35431216) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
