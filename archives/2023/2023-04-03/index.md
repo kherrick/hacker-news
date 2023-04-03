@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 17:24:23](https://news.ycombinator.com/item?id=35427769) - [Tesla removes parking sensors, the results are predictably terrible](https://www.carexpert.com.au/car-news/tesla-removes-parking-sensors-to-save-money-the-results-are-predictably-terrible)
+* [2023-04-03, 17:04:29](https://news.ycombinator.com/item?id=35427410) - [Algorithmic Entities (2017)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2954173)
 * [2023-04-03, 17:00:42](https://news.ycombinator.com/item?id=35427343) - [Show HN: Hocus – self-hosted alternative to GitHub Codespaces using Firecracker](https://github.com/hocus-dev/hocus)
 * [2023-04-03, 17:00:31](https://news.ycombinator.com/item?id=35427338) - [Font Awesome (YC S15) Is Hiring a Remote, US-Based Product Designer](https://blog.fontawesome.com/hiring-a-product-designer/)
 * [2023-04-03, 16:32:08](https://news.ycombinator.com/item?id=35426781) - [Was MPLS Traffic Engineering Worthwhile?](https://systemsapproach.substack.com/p/was-mpls-traffic-engineering-worthwhile)
