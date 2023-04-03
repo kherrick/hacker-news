@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-03, 22:32:46",
+      "https://news.ycombinator.com/item?id=35432243"
+    ],
+    [
+      "Hacking the Samsung NX300 &#x27;Smart&#x27; Camera",
+      "https://op-co.de/blog/posts/hacking_the_nx300/"
+    ]
+  ],
+  [
+    [
       "2023-04-03, 22:20:02",
       "https://news.ycombinator.com/item?id=35432115"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2023-04-03, 20:40:23",
-      "https://news.ycombinator.com/item?id=35430957"
-    ],
-    [
-      "Xanax and Adderall Access Is Being Blocked by Secret Drug Limits",
-      "https://www.bloomberg.com/news/articles/2023-04-03/adderall-shortages-are-made-worse-by-the-opioid-crisis"
-    ]
-  ],
-  [
-    [
       "2023-04-03, 20:02:51",
       "https://news.ycombinator.com/item?id=35430432"
     ],
@@ -137,16 +137,6 @@
     [
       "Show HN: Hocus – self-hosted alternative to GitHub Codespaces using Firecracker",
       "https://github.com/hocus-dev/hocus"
-    ]
-  ],
-  [
-    [
-      "2023-04-03, 16:32:08",
-      "https://news.ycombinator.com/item?id=35426781"
-    ],
-    [
-      "Was MPLS Traffic Engineering Worthwhile?",
-      "https://systemsapproach.substack.com/p/was-mpls-traffic-engineering-worthwhile"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Near-lossless image formats using ultra-fast LZ codecs",
       "http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 05:34:38",
+      "https://news.ycombinator.com/item?id=35418933"
+    ],
+    [
+      "Parquet: More than just “Turbo CSV”",
+      "https://csvbase.com/blog/3"
     ]
   ],
   [
