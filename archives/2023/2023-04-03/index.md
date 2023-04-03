@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 11:49:16](https://news.ycombinator.com/item?id=35421899) - [Framework’s computers aren’t perfect, but they are exciting](https://www.theverge.com/23664746/framework-laptop-excitement-vpr-matrix-history-nostalgia)
+* [2023-04-03, 11:10:09](https://news.ycombinator.com/item?id=35421554) - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
+* [2023-04-03, 11:09:09](https://news.ycombinator.com/item?id=35421545) - [WWE Agrees to Merge with UFC](https://www.cnbc.com/2023/04/03/wwe-ufc-merger-endeavor.html)
 * [2023-04-03, 10:27:44](https://news.ycombinator.com/item?id=35421156) - [Mullvad VPN and the Tor Project Team Up to Release the Mullvad Browser](https://mullvad.net/en/blog/2023/4/3/mullvad-vpn-and-the-tor-project-team-up-to-release-the-mullvad-browser/)
 * [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 09:58:44](https://news.ycombinator.com/item?id=35420946) - [Apple Halted M2 Chip Production in January Amid &#x27;Plummeting&#x27; Mac Sales](https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/)
