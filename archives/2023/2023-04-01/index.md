@@ -36,6 +36,7 @@
 * [2023-04-01, 14:53:30](https://news.ycombinator.com/item?id=35400760) - [Managers, Stop Distracting Your Employees](https://hbr.org/2023/01/managers-stop-distracting-your-employees)
 * [2023-04-01, 14:51:15](https://news.ycombinator.com/item?id=35400742) - [Vectorized port of Klong array language](https://github.com/briangu/klongpy)
 * [2023-04-01, 14:34:57](https://news.ycombinator.com/item?id=35400598) - [Generative AI set to affect 300M jobs across major economies](https://www.ft.com/content/7dec4483-ad34-4007-bb3a-7ac925643999)
+* [2023-04-01, 14:29:45](https://news.ycombinator.com/item?id=35400562) - [The Status Trap](https://every.to/no-small-plans/the-status-trap)
 * [2023-04-01, 14:19:29](https://news.ycombinator.com/item?id=35400511) - [Salesforce is shuttering Slack’s remote work research group Future Forum](https://finance.yahoo.com/news/salesforce-shuttering-slack-remote-research-004925901.html)
 * [2023-04-01, 14:17:36](https://news.ycombinator.com/item?id=35400497) - [Twitter scrubbing Elon, Republican, Democrat code references on GitHub](https://github.com/twitter/the-algorithm/blob/7f90d0ca342b928b479b512ec51ac2c3821f5922/home-mixer/server/src/main/scala/com/twitter/home_mixer/functional_component/feature_hydrator/RequestQueryFeatureHydrator.scala)
 * [2023-04-01, 14:03:29](https://news.ycombinator.com/item?id=35400397) - [Every Day Is April Fool’s Day Now](https://www.vice.com/en/article/5d9p3q/april-fools-day-deepfakes-pope-trump-arrest-gpt)
