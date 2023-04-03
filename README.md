@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-03, 18:05:43](https://news.ycombinator.com/item?id=35428568) - [Why paid masterminds are mental masturbation](https://jimclair.com/why-paid-masterminds-are-mental/)
+* [2023-04-03, 17:54:24](https://news.ycombinator.com/item?id=35428379) - [$70 RISC-V Computer from Pine64 Goes on Sale April 4 – OMG Linux](https://www.omglinux.com/star64-is-a-risc-v-single-board-pc/)
 * [2023-04-03, 17:24:23](https://news.ycombinator.com/item?id=35427769) - [Tesla removes parking sensors, the results are predictably terrible](https://www.carexpert.com.au/car-news/tesla-removes-parking-sensors-to-save-money-the-results-are-predictably-terrible)
 * [2023-04-03, 17:04:29](https://news.ycombinator.com/item?id=35427410) - [Algorithmic Entities (2017)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2954173)
 * [2023-04-03, 17:00:42](https://news.ycombinator.com/item?id=35427343) - [Show HN: Hocus – self-hosted alternative to GitHub Codespaces using Firecracker](https://github.com/hocus-dev/hocus)
@@ -28,7 +29,6 @@
 * [2023-04-01, 17:03:02](https://news.ycombinator.com/item?id=35401895) - [His software sang the words of God. Then it went silent](https://www.inverse.com/input/features/tropetrainer-thomas-buchler-torah-software)
 * [2023-04-01, 15:40:00](https://news.ycombinator.com/item?id=35401126) - [Can water solve a maze? [video]](https://www.youtube.com/watch?v=81ebWToAnvA)
 * [2023-04-01, 14:43:36](https://news.ycombinator.com/item?id=35400671) - [Solaris movie review and film summary (1976)](https://www.rogerebert.com/reviews/solaris-1976)
-* [2023-04-01, 11:14:14](https://news.ycombinator.com/item?id=35399272) - [Commodore Amiga – The Settlers &#x2F; Serf City: Life Is Feudal (1993)](https://www.youtube.com/watch?v=yh7Fhzn5L44)
 * [2023-04-01, 11:03:54](https://news.ycombinator.com/item?id=35399221) - [3Dfx Voodoo Memory Upgrade – 6MB Mod [video]](https://www.youtube.com/watch?v=pwGdw0eZVCQ)
 
 ## [Archives](archives/index.md)
