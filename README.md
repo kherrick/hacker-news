@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-03, 07:28:01](https://news.ycombinator.com/item?id=35419771) - [Show HN: Unknown Pleasures, a tiny web experiment with WebGL](https://pouria.dev/unknown-pleasures)
+* [2023-04-03, 06:59:40](https://news.ycombinator.com/item?id=35419549) - [Parisians vote to ban e-scooters from French capital](https://www.reuters.com/world/europe/parisians-vote-ban-e-scooters-french-capital-2023-04-02/)
 * [2023-04-03, 05:46:16](https://news.ycombinator.com/item?id=35418999) - [Midjourney CEO Silencing Satire About Xi Jinping](https://www.techdirt.com/2023/03/31/midjourney-ceo-says-political-satire-in-china-is-pretty-not-okay-but-apparently-silencing-satire-about-xi-jinping-is-pretty-okay/)
 * [2023-04-03, 05:04:25](https://news.ycombinator.com/item?id=35418760) - [Saying Goodbye to GitHub](https://ersei.net/en/blog/bye-bye-github)
 * [2023-04-03, 02:59:10](https://news.ycombinator.com/item?id=35418017) - [The Nine Billion Names Of God (2021) [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
-* [2023-04-02, 23:41:21](https://news.ycombinator.com/item?id=35416627) - [Ford to drop AM radio in new models, except commercial vehicles](https://www.freep.com/story/money/cars/2023/04/01/ford-am-radio-commercial/70062845007/)
 * [2023-04-02, 23:00:05](https://news.ycombinator.com/item?id=35416224) - [Starlink internet is going from rural savior to unreliable luxury](https://www.xda-developers.com/starlink-internet-rural-savior-unreliable-luxury/)
 * [2023-04-02, 22:05:23](https://news.ycombinator.com/item?id=35415758) - [The day Windows died](https://thomasbandt.com/the-day-windows-died)
 * [2023-04-02, 21:58:16](https://news.ycombinator.com/item?id=35415697) - [How Software Companies Die (1995)](https://gist.github.com/eliot-akira/6eaecda619d0fafd1d74)
@@ -13,7 +13,6 @@
 * [2023-04-02, 18:27:37](https://news.ycombinator.com/item?id=35413594) - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
 * [2023-04-02, 18:27:20](https://news.ycombinator.com/item?id=35413590) - [The anatomy of the Cayman Islands offshore financial center (2016)](https://www.tandfonline.com/doi/full/10.1080/09692290.2016.1243143)
 * [2023-04-02, 18:25:31](https://news.ycombinator.com/item?id=35413572) - [A Reply to Josef Průša](https://blog.thea.codes/a-reply-to-josef-prusa/)
-* [2023-04-02, 18:08:23](https://news.ycombinator.com/item?id=35413385) - [International Orange](https://en.wikipedia.org/wiki/International_orange)
 * [2023-04-02, 17:19:54](https://news.ycombinator.com/item?id=35412836) - [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
 * [2023-04-02, 17:16:40](https://news.ycombinator.com/item?id=35412788) - [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 * [2023-04-02, 16:40:23](https://news.ycombinator.com/item?id=35412416) - [Show HN: Shhhbb, an SSH BBS](https://donuts-are-good.github.io/shhhbb/)
@@ -30,6 +29,7 @@
 * [2023-04-01, 12:32:51](https://news.ycombinator.com/item?id=35399754) - [Is It Imperative to Be Declarative?](https://blog.container-solutions.com/is-it-imperative-to-be-declarative)
 * [2023-04-01, 10:40:29](https://news.ycombinator.com/item?id=35399108) - [The Priest in the Arena](https://studio.ribbonfarm.com/p/the-priest-in-the-arena)
 * [2023-04-01, 10:33:29](https://news.ycombinator.com/item?id=35399081) - [International Pascal Congress](https://www.pascalcongress.com/index.html)
+* [2023-04-01, 01:39:31](https://news.ycombinator.com/item?id=35396156) - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
 
 ## [Archives](archives/index.md)
 
