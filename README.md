@@ -13,7 +13,7 @@
 * [2023-04-02, 18:43:16](https://news.ycombinator.com/item?id=35413770) - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
 * [2023-04-02, 18:27:37](https://news.ycombinator.com/item?id=35413594) - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
 * [2023-04-02, 18:27:20](https://news.ycombinator.com/item?id=35413590) - [The anatomy of the Cayman Islands offshore financial center (2016)](https://www.tandfonline.com/doi/full/10.1080/09692290.2016.1243143)
-* [2023-04-02, 17:19:54](https://news.ycombinator.com/item?id=35412836) - [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
+* [2023-04-02, 18:25:31](https://news.ycombinator.com/item?id=35413572) - [A Reply to Josef Průša](https://blog.thea.codes/a-reply-to-josef-prusa/)
 * [2023-04-02, 17:16:40](https://news.ycombinator.com/item?id=35412788) - [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 * [2023-04-02, 16:40:23](https://news.ycombinator.com/item?id=35412416) - [Show HN: Shhhbb, an SSH BBS](https://donuts-are-good.github.io/shhhbb/)
 * [2023-04-02, 16:33:44](https://news.ycombinator.com/item?id=35412342) - [iAPX432: Gordon Moore, Risk and Intel’s Super-CISC Failure](https://thechipletter.substack.com/p/iapx432-gordon-moore-risk-and-intels)
