@@ -8,6 +8,7 @@
 * [2023-04-03, 14:56:22](https://news.ycombinator.com/item?id=35424678) - [Alibaba breaks itself up in six](https://www.economist.com/business/2023/03/30/alibaba-breaks-itself-up-in-six)
 * [2023-04-03, 14:52:27](https://news.ycombinator.com/item?id=35424609) - [Experts warn yearly checkups carry risks and do not reduce mortality](https://english.elpais.com/science-tech/2023-04-01/do-you-need-a-yearly-checkup-experts-warn-that-they-carry-risks-and-do-not-reduce-mortality.html)
 * [2023-04-03, 14:44:20](https://news.ycombinator.com/item?id=35424459) - [Birds with neurotoxin-laden feathers discovered in New Guinea](https://phys.org/news/2023-03-birds-neurotoxin-laden-feathers-guinea.html)
+* [2023-04-03, 14:42:25](https://news.ycombinator.com/item?id=35424428) - [‘Hot Ones’ Was a Slow Burn All Along](https://www.nytimes.com/2023/04/03/arts/television/hot-ones-youtube-show.html)
 * [2023-04-03, 14:12:30](https://news.ycombinator.com/item?id=35423883) - [McDonald’s Shuts Corporate Offices Ahead of Layoffs](https://www.bloomberg.com/news/articles/2023-04-03/mcdonald-s-shuts-corporate-offices-ahead-of-layoffs-wsj-reports)
 * [2023-04-03, 14:02:15](https://news.ycombinator.com/item?id=35423711) - [Parisians overwhelmingly vote to expel e-scooters from their streets](https://www.npr.org/2023/04/03/1167679291/parisians-overwhelmingly-vote-to-expel-e-scooters-from-their-streets)
 * [2023-04-03, 13:53:28](https://news.ycombinator.com/item?id=35423569) - [Pandas v2.0 Released](https://github.com/pandas-dev/pandas/releases/tag/v2.0.0)
