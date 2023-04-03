@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 12:58:29](https://news.ycombinator.com/item?id=35422739) - [Valve Shows a Drop in Linux Gamers for March, but the Numbers Are Questionable](https://www.phoronix.com/news/Steam-Linux-March-2023)
+* [2023-04-03, 12:45:44](https://news.ycombinator.com/item?id=35422570) - [Animated Unknown Pleasures in 3 lines of K](http://johnearnest.github.io/ok/ike/ike.html?gist=f78af1a96ec206dc3b07ike.html?key=c9argHWP)
+* [2023-04-03, 12:41:01](https://news.ycombinator.com/item?id=35422494) - [Stable Diffusion copyright lawsuits could be a legal earthquake for AI](https://arstechnica.com/tech-policy/2023/04/stable-diffusion-copyright-lawsuits-could-be-a-legal-earthquake-for-ai/)
+* [2023-04-03, 12:24:00](https://news.ycombinator.com/item?id=35422323) - [AI porn will never be sexy](https://www.newstatesman.com/science-tech/2023/02/ai-porn-will-never-be-sexy)
 * [2023-04-03, 12:11:43](https://news.ycombinator.com/item?id=35422154) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 * [2023-04-03, 12:09:19](https://news.ycombinator.com/item?id=35422127) - [Japan Breaks with U.S. Allies, Buys Russian Oil at Prices Above Cap](https://www.wsj.com/articles/japan-breaks-with-u-s-allies-buys-russian-oil-at-prices-above-cap-1395accb)
 * [2023-04-03, 12:01:53](https://news.ycombinator.com/item?id=35422044) - [Finland Becomes a Member of NATO on Tuesday 4 April](https://www.presidentti.fi/en/press-release/finland-becomes-a-member-of-nato-on-tuesday-4-april/)

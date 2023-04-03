@@ -39,6 +39,7 @@
 * [2023-04-01, 15:23:44](https://news.ycombinator.com/item?id=35400994) - [The Problems That Attract the Smartest People](https://medium.com/sort-of-like-a-tech-diary/the-problems-that-attract-the-smartest-people-a384d2f8af)
 * [2023-04-01, 14:53:30](https://news.ycombinator.com/item?id=35400760) - [Managers, Stop Distracting Your Employees](https://hbr.org/2023/01/managers-stop-distracting-your-employees)
 * [2023-04-01, 14:51:15](https://news.ycombinator.com/item?id=35400742) - [Vectorized port of Klong array language](https://github.com/briangu/klongpy)
+* [2023-04-01, 14:43:36](https://news.ycombinator.com/item?id=35400671) - [Solaris movie review and film summary (1976)](https://www.rogerebert.com/reviews/solaris-1976)
 * [2023-04-01, 14:34:57](https://news.ycombinator.com/item?id=35400598) - [Generative AI set to affect 300M jobs across major economies](https://www.ft.com/content/7dec4483-ad34-4007-bb3a-7ac925643999)
 * [2023-04-01, 14:29:45](https://news.ycombinator.com/item?id=35400562) - [The Status Trap](https://every.to/no-small-plans/the-status-trap)
 * [2023-04-01, 14:19:29](https://news.ycombinator.com/item?id=35400511) - [Salesforce is shuttering Slack’s remote work research group Future Forum](https://finance.yahoo.com/news/salesforce-shuttering-slack-remote-research-004925901.html)
