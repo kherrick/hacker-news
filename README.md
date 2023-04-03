@@ -2,6 +2,7 @@
 
 * [2023-04-03, 22:20:02](https://news.ycombinator.com/item?id=35432115) - [What if ChatGPT was trained on decades of financial news and data?](https://www.niemanlab.org/2023/04/what-if-chatgpt-was-trained-on-decades-of-financial-news-and-data-bloomberggpt-aims-to-be-a-domain-specific-ai-for-business-news/)
 * [2023-04-03, 21:58:01](https://news.ycombinator.com/item?id=35431877) - [The influencers getting rich by teaching you how to get rich](https://www.vox.com/culture/2023/3/30/23661712/influencer-online-course-class-miss-excel)
+* [2023-04-03, 21:47:32](https://news.ycombinator.com/item?id=35431758) - [Cloudflare DNS Must Block Pirate Sites, Italian Court Confirms](https://torrentfreak.com/cloudflare-dns-has-to-block-pirate-sites-italian-court-confirms-230403/)
 * [2023-04-03, 21:22:13](https://news.ycombinator.com/item?id=35431466) - [If parrots can talk, why can’t monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
 * [2023-04-03, 21:00:54](https://news.ycombinator.com/item?id=35431216) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-04-03, 20:52:56](https://news.ycombinator.com/item?id=35431119) - [System76 Open Firmware](https://github.com/system76/firmware-open)
@@ -10,10 +11,10 @@
 * [2023-04-03, 20:02:51](https://news.ycombinator.com/item?id=35430432) - [State-of-the-art open-source chatbot, Vicuna-13B, just released model weights](https://twitter.com/lmsysorg/status/1642968294998306816)
 * [2023-04-03, 20:01:22](https://news.ycombinator.com/item?id=35430409) - [PDF ChatBot – Upload, chat and interact with any PDF document](https://askyourpdf.com/)
 * [2023-04-03, 19:47:26](https://news.ycombinator.com/item?id=35430188) - [Introducing Agents in Haystack: Make LLMs resolve complex tasks](https://haystack.deepset.ai/blog/introducing-haystack-agents)
-* [2023-04-03, 19:20:27](https://news.ycombinator.com/item?id=35429777) - [Tennis Balls Serve as Decent Bicycle Tires That Don’t Easily Puncture](https://hackaday.com/2023/04/03/tennis-balls-serve-as-decent-bicycle-tires-that-dont-easily-puncture/)
 * [2023-04-03, 18:42:57](https://news.ycombinator.com/item?id=35429198) - [Was there a U.S. nuclear weapons accident at a Dutch air base?](https://fas.org/blogs/security/2023/04/volkel-nuclear-weapon-accident/)
 * [2023-04-03, 18:08:55](https://news.ycombinator.com/item?id=35428625) - [Stop-Motion Movies Are Animated at Aardman [video]](https://www.youtube.com/watch?v=jZvQzkFcKEM)
 * [2023-04-03, 17:00:42](https://news.ycombinator.com/item?id=35427343) - [Show HN: Hocus – self-hosted alternative to GitHub Codespaces using Firecracker](https://github.com/hocus-dev/hocus)
+* [2023-04-03, 16:32:08](https://news.ycombinator.com/item?id=35426781) - [Was MPLS Traffic Engineering Worthwhile?](https://systemsapproach.substack.com/p/was-mpls-traffic-engineering-worthwhile)
 * [2023-04-03, 16:18:48](https://news.ycombinator.com/item?id=35426482) - [Launch HN: OutSail (YC W23) – Wingsails to reduce cargo ship fuel consumption](https://news.ycombinator.com/item?id=35426482)
 * [2023-04-03, 15:52:47](https://news.ycombinator.com/item?id=35425897) - [How to do hard things](https://every.to/no-small-plans/how-to-do-hard-things)
 * [2023-04-03, 15:02:02](https://news.ycombinator.com/item?id=35424807) - [Ask HN: Who is hiring? (April 2023)](https://news.ycombinator.com/item?id=35424807)
@@ -27,7 +28,6 @@
 * [2023-04-03, 03:48:24](https://news.ycombinator.com/item?id=35418336) - [NAND Flash Data Recovery Cookbook (2013) [pdf]](http://web.archive.org/web/20180516153837/http://www.adreca.net/NAND-Flash-Data-Recovery-Cookbook.pdf)
 * [2023-04-03, 03:42:33](https://news.ycombinator.com/item?id=35418303) - [An Essay on Diseases Incidental to Literary and Sedentary Persons (1768)](https://publicdomainreview.org/collection/blights-of-the-bookish)
 * [2023-04-03, 02:17:34](https://news.ycombinator.com/item?id=35417764) - [Destreza](https://en.wikipedia.org/wiki/Destreza)
-* [2023-04-01, 21:56:16](https://news.ycombinator.com/item?id=35404505) - [Deer don&#x27;t regrow antlers the way lower animals regrow limbs](https://www.scmp.com/news/china/science/article/3214761/chinese-scientists-find-clue-bone-regrowth-deer-antler-study)
 * [2023-04-01, 20:55:36](https://news.ycombinator.com/item?id=35403975) - [Remembering Benares](https://yalereview.org/article/pankaj-mishra-remembering-benares-india-romantics-novel)
 * [2023-04-01, 17:03:02](https://news.ycombinator.com/item?id=35401895) - [His software sang the words of God. Then it went silent](https://www.inverse.com/input/features/tropetrainer-thomas-buchler-torah-software)
 
