@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-04-03, 18:47:42",
-      "https://news.ycombinator.com/item?id=35429269"
+      "2023-04-03, 18:50:04",
+      "https://news.ycombinator.com/item?id=35429306"
     ],
     [
-      "Turn Notion into a UI for Postgres",
-      "https://news.ycombinator.com/item?id=35429269"
+      "C++17 creates a practical use of the backward array index operator",
+      "https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Pop_OS has a complicated name but it makes using Linux so easy",
       "https://www.zdnet.com/article/pop-os-has-a-complicated-name-but-it-makes-using-linux-so-easy/"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 18:10:51",
+      "https://news.ycombinator.com/item?id=35428660"
+    ],
+    [
+      "Show HN: Pubnix.pink, a public-access Void Linux system",
+      "https://pubnix.pink"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2023-04-03, 17:24:23",
-      "https://news.ycombinator.com/item?id=35427769"
-    ],
-    [
-      "Tesla removes parking sensors, the results are predictably terrible",
-      "https://www.carexpert.com.au/car-news/tesla-removes-parking-sensors-to-save-money-the-results-are-predictably-terrible"
-    ]
-  ],
-  [
-    [
       "2023-04-03, 17:04:29",
       "https://news.ycombinator.com/item?id=35427410"
     ],
@@ -117,6 +117,16 @@
     [
       "Was MPLS Traffic Engineering Worthwhile?",
       "https://systemsapproach.substack.com/p/was-mpls-traffic-engineering-worthwhile"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 16:27:09",
+      "https://news.ycombinator.com/item?id=35426679"
+    ],
+    [
+      "Why MMAP in llama.cpp hides true memory usage",
+      "https://twitter.com/jeremyphoward/status/1642726595436883969"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "The Mullvad Browser",
       "https://mullvad.net/en/browser"
-    ]
-  ],
-  [
-    [
-      "2023-04-03, 09:58:44",
-      "https://news.ycombinator.com/item?id=35420946"
-    ],
-    [
-      "Apple halted M2 chip production in January amid &#x27;plummeting&#x27; Mac sales",
-      "https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/"
     ]
   ],
   [
