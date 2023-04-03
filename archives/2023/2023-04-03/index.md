@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
 * [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
+* [2023-04-03, 09:58:44](https://news.ycombinator.com/item?id=35420946) - [Apple Halted M2 Chip Production in January Amid &#x27;Plummeting&#x27; Mac Sales](https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/)
 * [2023-04-03, 09:51:43](https://news.ycombinator.com/item?id=35420895) - [Sam Altman wants to convince billions to scan eyes to prove they aren’t bots](https://finance.yahoo.com/news/openai-ceo-sam-altman-wants-110000591.html)
 * [2023-04-03, 09:48:03](https://news.ycombinator.com/item?id=35420863) - [Wronger Than Wrong](https://en.wikipedia.org/wiki/Wronger_than_wrong)
 * [2023-04-03, 09:09:24](https://news.ycombinator.com/item?id=35420553) - [The Near-Lossless Image Formats Using Ultra-Fast LZ Codecs](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
