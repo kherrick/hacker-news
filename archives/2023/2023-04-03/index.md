@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 05:46:16](https://news.ycombinator.com/item?id=35418999) - [Midjourney CEO Silencing Satire About Xi Jinping](https://www.techdirt.com/2023/03/31/midjourney-ceo-says-political-satire-in-china-is-pretty-not-okay-but-apparently-silencing-satire-about-xi-jinping-is-pretty-okay/)
+* [2023-04-03, 05:04:25](https://news.ycombinator.com/item?id=35418760) - [Saying Goodbye to GitHub – Ersei &#x27;N Stuff](https://ersei.net/en/blog/bye-bye-github)
 * [2023-04-03, 04:52:10](https://news.ycombinator.com/item?id=35418690) - [Neuralink’s FDA troubles are just the beginning](https://spectrum.ieee.org/neuralink-seeks-fda-approval)
 * [2023-04-03, 02:59:10](https://news.ycombinator.com/item?id=35418017) - [The Nine Billion Names Of God – short film [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
 * [2023-04-03, 02:07:03](https://news.ycombinator.com/item?id=35417692) - [Never in 20 years of working in tech have I been treated so unprofessionally](https://startupdreams.substack.com/p/never-in-my-20-years-of-working-in)
