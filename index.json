@@ -1,22 +1,42 @@
 [
   [
     [
-      "2023-04-03, 14:12:30",
-      "https://news.ycombinator.com/item?id=35423883"
+      "2023-04-03, 15:02:58",
+      "https://news.ycombinator.com/item?id=35424835"
     ],
     [
-      "McDonald’s Shuts Corporate Offices Ahead of Layoffs",
-      "https://www.bloomberg.com/news/articles/2023-04-03/mcdonald-s-shuts-corporate-offices-ahead-of-layoffs-wsj-reports"
+      "SudoLang: A Powerful Pseudocode Programming Language for LLMs",
+      "https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b"
     ]
   ],
   [
     [
-      "2023-04-03, 14:02:15",
-      "https://news.ycombinator.com/item?id=35423711"
+      "2023-04-03, 14:56:22",
+      "https://news.ycombinator.com/item?id=35424678"
     ],
     [
-      "Parisians overwhelmingly vote to expel e-scooters from their streets",
-      "https://www.npr.org/2023/04/03/1167679291/parisians-overwhelmingly-vote-to-expel-e-scooters-from-their-streets"
+      "Alibaba breaks itself up in six",
+      "https://www.economist.com/business/2023/03/30/alibaba-breaks-itself-up-in-six"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 14:52:27",
+      "https://news.ycombinator.com/item?id=35424609"
+    ],
+    [
+      "Experts warn yearly checkups carry risks and do not reduce mortality",
+      "https://english.elpais.com/science-tech/2023-04-01/do-you-need-a-yearly-checkup-experts-warn-that-they-carry-risks-and-do-not-reduce-mortality.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 14:44:20",
+      "https://news.ycombinator.com/item?id=35424459"
+    ],
+    [
+      "Birds with neurotoxin-laden feathers discovered in New Guinea",
+      "https://phys.org/news/2023-03-birds-neurotoxin-laden-feathers-guinea.html"
     ]
   ],
   [
@@ -25,8 +45,18 @@
       "https://news.ycombinator.com/item?id=35423569"
     ],
     [
-      "Pandas v2.0 Released",
+      "Pandas 2.0",
       "https://github.com/pandas-dev/pandas/releases/tag/v2.0.0"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 13:33:53",
+      "https://news.ycombinator.com/item?id=35423290"
+    ],
+    [
+      "Chemist Rafael Luque suspended without pay for thirteen years",
+      "https://english.elpais.com/science-tech/2023-04-02/one-of-the-worlds-most-cited-scientists-rafael-luque-suspended-without-pay-for-13-years.html"
     ]
   ],
   [
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2023-04-03, 12:41:01",
-      "https://news.ycombinator.com/item?id=35422494"
+      "2023-04-03, 12:39:14",
+      "https://news.ycombinator.com/item?id=35422482"
     ],
     [
-      "Stable Diffusion copyright lawsuits could be a legal earthquake for AI",
-      "https://arstechnica.com/tech-policy/2023/04/stable-diffusion-copyright-lawsuits-could-be-a-legal-earthquake-for-ai/"
+      "GPT-4 Is a Reasoning Engine",
+      "https://every.to/chain-of-thought/gpt-4-is-a-reasoning-engine"
     ]
   ],
   [
@@ -81,22 +111,22 @@
   ],
   [
     [
+      "2023-04-03, 11:56:01",
+      "https://news.ycombinator.com/item?id=35421962"
+    ],
+    [
+      "We&#x27;re Knot Friends",
+      "https://jeremykun.com/2023/04/01/were-knot-friends/"
+    ]
+  ],
+  [
+    [
       "2023-04-03, 11:53:09",
       "https://news.ycombinator.com/item?id=35421935"
     ],
     [
       "Nextcloud Desktop 3.8: End-to-End Encryption levels up with sharing",
       "https://nextcloud.com/blog/desktop-3-8-end-to-end-encryption-levels-up-with-sharing-and-file-drop/"
-    ]
-  ],
-  [
-    [
-      "2023-04-03, 11:49:16",
-      "https://news.ycombinator.com/item?id=35421899"
-    ],
-    [
-      "Framework’s computers aren’t perfect, but they are exciting",
-      "https://www.theverge.com/23664746/framework-laptop-excitement-vpr-matrix-history-nostalgia"
     ]
   ],
   [
@@ -111,22 +141,22 @@
   ],
   [
     [
-      "2023-04-03, 11:09:09",
-      "https://news.ycombinator.com/item?id=35421545"
-    ],
-    [
-      "WWE Agrees to Merge with UFC",
-      "https://www.cnbc.com/2023/04/03/wwe-ufc-merger-endeavor.html"
-    ]
-  ],
-  [
-    [
       "2023-04-03, 11:00:23",
       "https://news.ycombinator.com/item?id=35421474"
     ],
     [
       "Ask HN: Best way to “donate” dev hours to charity?",
       "https://news.ycombinator.com/item?id=35421474"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 10:28:44",
+      "https://news.ycombinator.com/item?id=35421162"
+    ],
+    [
+      "Control EMI, Don’t Dump AM Receivers",
+      "https://www.radioworld.com/columns-and-views/guest-commentaries/control-emi-dont-dump-am-receivers"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2023-04-03, 05:04:25",
-      "https://news.ycombinator.com/item?id=35418760"
-    ],
-    [
-      "Saying Goodbye to GitHub",
-      "https://ersei.net/en/blog/bye-bye-github"
-    ]
-  ],
-  [
-    [
       "2023-04-02, 09:45:51",
       "https://news.ycombinator.com/item?id=35408835"
     ],
     [
       "Privilegium Maius",
       "https://en.wikipedia.org/wiki/Privilegium_Maius"
-    ]
-  ],
-  [
-    [
-      "2023-04-02, 05:55:53",
-      "https://news.ycombinator.com/item?id=35407617"
-    ],
-    [
-      "Juan de Pareja: from Diego Velázquez’s slave to distinguished artist",
-      "https://www.theartnewspaper.com/2023/03/29/juan-de-pareja-from-slave-to-old-master"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Solaris movie review and film summary (1976)",
       "https://www.rogerebert.com/reviews/solaris-1976"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 13:04:38",
-      "https://news.ycombinator.com/item?id=35400006"
-    ],
-    [
-      "The Data Delusion",
-      "https://www.newyorker.com/magazine/2023/04/03/the-data-delusion"
     ]
   ],
   [
