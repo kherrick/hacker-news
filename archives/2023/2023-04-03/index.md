@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
 * [2023-04-03, 19:53:43](https://news.ycombinator.com/item?id=35430301) - [NASA Names Astronauts to Next Moon Mission](https://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis/)
+* [2023-04-03, 19:20:27](https://news.ycombinator.com/item?id=35429777) - [Tennis Balls Serve as Decent Bicycle Tires That Don’t Easily Puncture](https://hackaday.com/2023/04/03/tennis-balls-serve-as-decent-bicycle-tires-that-dont-easily-puncture/)
 * [2023-04-03, 18:50:04](https://news.ycombinator.com/item?id=35429306) - [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
 * [2023-04-03, 18:47:42](https://news.ycombinator.com/item?id=35429269) - [Turn Notion into a UI for Postgres](https://news.ycombinator.com/item?id=35429269)
 * [2023-04-03, 18:42:57](https://news.ycombinator.com/item?id=35429198) - [Was There a U.S. Nuclear Weapons Accident at a Dutch Air Base?](https://fas.org/blogs/security/2023/04/volkel-nuclear-weapon-accident/)

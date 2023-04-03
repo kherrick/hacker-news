@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-03, 19:53:43](https://news.ycombinator.com/item?id=35430301) - [NASA Names Astronauts to Next Moon Mission](https://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis/)
+* [2023-04-03, 19:20:27](https://news.ycombinator.com/item?id=35429777) - [Tennis Balls Serve as Decent Bicycle Tires That Don’t Easily Puncture](https://hackaday.com/2023/04/03/tennis-balls-serve-as-decent-bicycle-tires-that-dont-easily-puncture/)
 * [2023-04-03, 18:50:04](https://news.ycombinator.com/item?id=35429306) - [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
 * [2023-04-03, 18:42:57](https://news.ycombinator.com/item?id=35429198) - [Was there a U.S. nuclear weapons accident at a Dutch air base?](https://fas.org/blogs/security/2023/04/volkel-nuclear-weapon-accident/)
 * [2023-04-03, 18:20:44](https://news.ycombinator.com/item?id=35428847) - [Pop_OS has a complicated name but it makes using Linux so easy](https://www.zdnet.com/article/pop-os-has-a-complicated-name-but-it-makes-using-linux-so-easy/)
+* [2023-04-03, 18:10:51](https://news.ycombinator.com/item?id=35428660) - [Show HN: Pubnix.pink, a public-access Void Linux system](https://pubnix.pink)
 * [2023-04-03, 18:08:55](https://news.ycombinator.com/item?id=35428625) - [Stop-Motion Movies Are Animated at Aardman [video]](https://www.youtube.com/watch?v=jZvQzkFcKEM)
 * [2023-04-03, 18:05:43](https://news.ycombinator.com/item?id=35428568) - [Why paid masterminds are mental masturbation](https://jimclair.com/why-paid-masterminds-are-mental/)
 * [2023-04-03, 18:01:32](https://news.ycombinator.com/item?id=35428504) - [Ask HN: Co-Founder? Seeking Co-Founder?](https://news.ycombinator.com/item?id=35428504)
@@ -18,7 +20,6 @@
 * [2023-04-03, 15:02:02](https://news.ycombinator.com/item?id=35424807) - [Ask HN: Who is hiring? (April 2023)](https://news.ycombinator.com/item?id=35424807)
 * [2023-04-03, 15:02:01](https://news.ycombinator.com/item?id=35424805) - [Ask HN: Who wants to be hired? (April 2023)](https://news.ycombinator.com/item?id=35424805)
 * [2023-04-03, 14:56:22](https://news.ycombinator.com/item?id=35424678) - [Alibaba breaks itself up in six](https://www.economist.com/business/2023/03/30/alibaba-breaks-itself-up-in-six)
-* [2023-04-03, 13:53:28](https://news.ycombinator.com/item?id=35423569) - [Pandas 2.0](https://github.com/pandas-dev/pandas/releases/tag/v2.0.0)
 * [2023-04-03, 11:56:01](https://news.ycombinator.com/item?id=35421962) - [We&#x27;re Knot Friends](https://jeremykun.com/2023/04/01/were-knot-friends/)
 * [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 09:09:24](https://news.ycombinator.com/item?id=35420553) - [Near-lossless image formats using ultra-fast LZ codecs](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
@@ -29,7 +30,6 @@
 * [2023-04-02, 05:47:46](https://news.ycombinator.com/item?id=35407578) - [Transcribing bird sound as human speech](https://daily.jstor.org/what-it-sounds-like-when-doves-cry/)
 * [2023-04-01, 21:56:16](https://news.ycombinator.com/item?id=35404505) - [Deer don&#x27;t regrow antlers the way lower animals regrow limbs](https://www.scmp.com/news/china/science/article/3214761/chinese-scientists-find-clue-bone-regrowth-deer-antler-study)
 * [2023-04-01, 17:03:02](https://news.ycombinator.com/item?id=35401895) - [His software sang the words of God. Then it went silent](https://www.inverse.com/input/features/tropetrainer-thomas-buchler-torah-software)
-* [2023-04-01, 11:03:54](https://news.ycombinator.com/item?id=35399221) - [3Dfx Voodoo Memory Upgrade – 6MB Mod [video]](https://www.youtube.com/watch?v=pwGdw0eZVCQ)
 
 ## [Archives](archives/index.md)
 
