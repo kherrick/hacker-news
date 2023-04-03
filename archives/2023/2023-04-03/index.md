@@ -7,6 +7,7 @@
 * [2023-04-03, 16:27:09](https://news.ycombinator.com/item?id=35426679) - [Why MMAP in llama.cpp hides true memory usage](https://twitter.com/jeremyphoward/status/1642726595436883969)
 * [2023-04-03, 16:18:48](https://news.ycombinator.com/item?id=35426482) - [Launch HN: OutSail (YC W23) – Wingsails to reduce cargo ship fuel consumption](https://news.ycombinator.com/item?id=35426482)
 * [2023-04-03, 16:03:33](https://news.ycombinator.com/item?id=35426156) - [NASA Names Astronauts for Artemis Moon Mission](https://www.bbc.com/news/science-environment-65165845)
+* [2023-04-03, 15:52:47](https://news.ycombinator.com/item?id=35425897) - [How to Do Hard Things](https://every.to/no-small-plans/how-to-do-hard-things)
 * [2023-04-03, 15:51:24](https://news.ycombinator.com/item?id=35425863) - [Apple&#x27;s Tim Cook says AR and VR headsets are for connection and communication](https://www.theverge.com/23667912/tim-cook-apple-ar-vr-interview-gq)
 * [2023-04-03, 15:42:30](https://news.ycombinator.com/item?id=35425689) - [Meta stops offering remote work in new job postings](https://www.businessinsider.com/meta-stops-offering-remote-work-new-job-postings-zuckerberg-2023-3)
 * [2023-04-03, 15:35:32](https://news.ycombinator.com/item?id=35425537) - [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film))

@@ -2,6 +2,7 @@
 
 * [2023-04-03, 16:27:09](https://news.ycombinator.com/item?id=35426679) - [Why MMAP in llama.cpp hides true memory usage](https://twitter.com/jeremyphoward/status/1642726595436883969)
 * [2023-04-03, 16:18:48](https://news.ycombinator.com/item?id=35426482) - [Launch HN: OutSail (YC W23) – Wingsails to reduce cargo ship fuel consumption](https://news.ycombinator.com/item?id=35426482)
+* [2023-04-03, 15:52:47](https://news.ycombinator.com/item?id=35425897) - [How to Do Hard Things](https://every.to/no-small-plans/how-to-do-hard-things)
 * [2023-04-03, 15:51:24](https://news.ycombinator.com/item?id=35425863) - [Apple&#x27;s Tim Cook says AR and VR headsets are for connection and communication](https://www.theverge.com/23667912/tim-cook-apple-ar-vr-interview-gq)
 * [2023-04-03, 15:35:32](https://news.ycombinator.com/item?id=35425537) - [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film))
 * [2023-04-03, 15:02:58](https://news.ycombinator.com/item?id=35424835) - [SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
@@ -19,7 +20,6 @@
 * [2023-04-03, 11:56:01](https://news.ycombinator.com/item?id=35421962) - [We&#x27;re Knot Friends](https://jeremykun.com/2023/04/01/were-knot-friends/)
 * [2023-04-03, 11:53:09](https://news.ycombinator.com/item?id=35421935) - [Desktop 3.8: End-to-End Encryption levels up with sharing and file-drop](https://nextcloud.com/blog/desktop-3-8-end-to-end-encryption-levels-up-with-sharing-and-file-drop/)
 * [2023-04-03, 11:10:09](https://news.ycombinator.com/item?id=35421554) - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
-* [2023-04-03, 10:28:44](https://news.ycombinator.com/item?id=35421162) - [Control EMI, Don’t Dump AM Receivers](https://www.radioworld.com/columns-and-views/guest-commentaries/control-emi-dont-dump-am-receivers)
 * [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 09:58:44](https://news.ycombinator.com/item?id=35420946) - [Apple halted M2 chip production in January amid &#x27;plummeting&#x27; Mac sales](https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/)
 * [2023-04-03, 09:09:24](https://news.ycombinator.com/item?id=35420553) - [Near-lossless image formats using ultra-fast LZ codecs](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
