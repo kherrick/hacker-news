@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 14:12:30](https://news.ycombinator.com/item?id=35423883) - [McDonald’s Shuts Corporate Offices Ahead of Layoffs](https://www.bloomberg.com/news/articles/2023-04-03/mcdonald-s-shuts-corporate-offices-ahead-of-layoffs-wsj-reports)
+* [2023-04-03, 14:02:15](https://news.ycombinator.com/item?id=35423711) - [Parisians overwhelmingly vote to expel e-scooters from their streets](https://www.npr.org/2023/04/03/1167679291/parisians-overwhelmingly-vote-to-expel-e-scooters-from-their-streets)
 * [2023-04-03, 13:33:53](https://news.ycombinator.com/item?id=35423290) - [Scientist Rafael Luque suspended without pay for 13 years](https://english.elpais.com/science-tech/2023-04-02/one-of-the-worlds-most-cited-scientists-rafael-luque-suspended-without-pay-for-13-years.html)
 * [2023-04-03, 13:32:07](https://news.ycombinator.com/item?id=35423252) - [In the battle between Microsoft and Google, LLM is the weapon too deadly to use](https://www.theregister.com/2023/04/03/opinion_column/)
 * [2023-04-03, 13:06:02](https://news.ycombinator.com/item?id=35422842) - [AI won&#x27;t steal your job, people leveraging AI will](https://cmte.ieee.org/futuredirections/2023/04/03/ai-wont-steal-your-job-people-leveraging-ai-will/)
