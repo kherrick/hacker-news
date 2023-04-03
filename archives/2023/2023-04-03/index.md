@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 18:50:04](https://news.ycombinator.com/item?id=35429306) - [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
 * [2023-04-03, 18:47:42](https://news.ycombinator.com/item?id=35429269) - [Turn Notion into a UI for Postgres](https://news.ycombinator.com/item?id=35429269)
 * [2023-04-03, 18:42:57](https://news.ycombinator.com/item?id=35429198) - [Was There a U.S. Nuclear Weapons Accident at a Dutch Air Base?](https://fas.org/blogs/security/2023/04/volkel-nuclear-weapon-accident/)
 * [2023-04-03, 18:20:44](https://news.ycombinator.com/item?id=35428847) - [Pop_OS has a complicated name but it makes using Linux so easy](https://www.zdnet.com/article/pop-os-has-a-complicated-name-but-it-makes-using-linux-so-easy/)
+* [2023-04-03, 18:10:51](https://news.ycombinator.com/item?id=35428660) - [Show HN: Pubnix.pink, a public-access Void Linux system](https://pubnix.pink)
 * [2023-04-03, 18:08:55](https://news.ycombinator.com/item?id=35428625) - [Stop-Motion Movies Are Animated at Aardman [video]](https://www.youtube.com/watch?v=jZvQzkFcKEM)
 * [2023-04-03, 18:05:43](https://news.ycombinator.com/item?id=35428568) - [Why paid masterminds are mental masturbation](https://jimclair.com/why-paid-masterminds-are-mental/)
 * [2023-04-03, 17:54:24](https://news.ycombinator.com/item?id=35428379) - [$70 RISC-V Computer from Pine64 Goes on Sale April 4 – OMG Linux](https://www.omglinux.com/star64-is-a-risc-v-single-board-pc/)
