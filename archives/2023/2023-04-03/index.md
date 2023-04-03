@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 16:03:33](https://news.ycombinator.com/item?id=35426156) - [NASA Names Astronauts for Artemis Moon Mission](https://www.bbc.com/news/science-environment-65165845)
+* [2023-04-03, 15:51:24](https://news.ycombinator.com/item?id=35425863) - [Apple&#x27;s Tim Cook says AR and VR headsets are for connection and communication](https://www.theverge.com/23667912/tim-cook-apple-ar-vr-interview-gq)
+* [2023-04-03, 15:42:30](https://news.ycombinator.com/item?id=35425689) - [Meta stops offering remote work in new job postings](https://www.businessinsider.com/meta-stops-offering-remote-work-new-job-postings-zuckerberg-2023-3)
+* [2023-04-03, 15:35:32](https://news.ycombinator.com/item?id=35425537) - [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film))
 * [2023-04-03, 15:02:58](https://news.ycombinator.com/item?id=35424835) - [SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
 * [2023-04-03, 15:02:02](https://news.ycombinator.com/item?id=35424807) - [Ask HN: Who is hiring? (April 2023)](https://news.ycombinator.com/item?id=35424807)
+* [2023-04-03, 15:02:01](https://news.ycombinator.com/item?id=35424806) - [Ask HN: Freelancer? Seeking freelancer? (April 2023)](https://news.ycombinator.com/item?id=35424806)
+* [2023-04-03, 15:02:01](https://news.ycombinator.com/item?id=35424805) - [Ask HN: Who wants to be hired? (April 2023)](https://news.ycombinator.com/item?id=35424805)
 * [2023-04-03, 14:56:22](https://news.ycombinator.com/item?id=35424678) - [Alibaba breaks itself up in six](https://www.economist.com/business/2023/03/30/alibaba-breaks-itself-up-in-six)
 * [2023-04-03, 14:52:27](https://news.ycombinator.com/item?id=35424609) - [Experts warn yearly checkups carry risks and do not reduce mortality](https://english.elpais.com/science-tech/2023-04-01/do-you-need-a-yearly-checkup-experts-warn-that-they-carry-risks-and-do-not-reduce-mortality.html)
 * [2023-04-03, 14:44:20](https://news.ycombinator.com/item?id=35424459) - [Birds with neurotoxin-laden feathers discovered in New Guinea](https://phys.org/news/2023-03-birds-neurotoxin-laden-feathers-guinea.html)

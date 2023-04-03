@@ -28,6 +28,7 @@
 * [2023-04-01, 18:35:03](https://news.ycombinator.com/item?id=35402775) - [NASA Validates Revolutionary Propulsion Design for Deep Space Missions](https://www.nasa.gov/centers/marshall/feature/nasa-validates-revolutionary-propulsion-design-for-deep-space-missions/)
 * [2023-04-01, 18:29:08](https://news.ycombinator.com/item?id=35402698) - [Manifest V2 Chrome Extension Phaseout Delayed Until 2024](https://groups.google.com/a/chromium.org/g/chromium-extensions/c/zQ77HkGmK9E/m/HjaaCIG-BQAJ)
 * [2023-04-01, 18:12:30](https://news.ycombinator.com/item?id=35402539) - [AI chatbot &#x27;encouraged&#x27; man to sacrifice himself to stop climate change](https://www.euronews.com/next/2023/03/31/man-ends-his-life-after-an-ai-chatbot-encouraged-him-to-sacrifice-himself-to-stop-climate-)
+* [2023-04-01, 17:43:48](https://news.ycombinator.com/item?id=35402259) - [Small Project Build Systems (2021)](http://neilmitchell.blogspot.com/2021/09/small-project-build-systems.html)
 * [2023-04-01, 17:40:34](https://news.ycombinator.com/item?id=35402225) - [Pine64 March Update: Tablet Bonanza](https://www.pine64.org/2023/04/01/march-update-tablet-bonanza/)
 * [2023-04-01, 17:10:40](https://news.ycombinator.com/item?id=35401968) - [Deepest fish ever caught on camera off Japan](https://www.bbc.co.uk/news/science-environment-65148876)
 * [2023-04-01, 17:05:51](https://news.ycombinator.com/item?id=35401923) - [“AI doomism is becoming indistinguishable from a religion”](https://twitter.com/ylecun/status/1642205736678637572)
