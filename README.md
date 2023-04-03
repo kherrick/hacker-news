@@ -2,6 +2,7 @@
 
 * [2023-04-03, 14:12:30](https://news.ycombinator.com/item?id=35423883) - [McDonald’s Shuts Corporate Offices Ahead of Layoffs](https://www.bloomberg.com/news/articles/2023-04-03/mcdonald-s-shuts-corporate-offices-ahead-of-layoffs-wsj-reports)
 * [2023-04-03, 14:02:15](https://news.ycombinator.com/item?id=35423711) - [Parisians overwhelmingly vote to expel e-scooters from their streets](https://www.npr.org/2023/04/03/1167679291/parisians-overwhelmingly-vote-to-expel-e-scooters-from-their-streets)
+* [2023-04-03, 13:53:28](https://news.ycombinator.com/item?id=35423569) - [Pandas v2.0 Released](https://github.com/pandas-dev/pandas/releases/tag/v2.0.0)
 * [2023-04-03, 13:33:53](https://news.ycombinator.com/item?id=35423290) - [Chemist Rafael Luque suspended without pay for thirteen years](https://english.elpais.com/science-tech/2023-04-02/one-of-the-worlds-most-cited-scientists-rafael-luque-suspended-without-pay-for-13-years.html)
 * [2023-04-03, 13:32:07](https://news.ycombinator.com/item?id=35423252) - [In the battle between Microsoft and Google, LLM is the weapon too deadly to use](https://www.theregister.com/2023/04/03/opinion_column/)
 * [2023-04-03, 13:06:02](https://news.ycombinator.com/item?id=35422842) - [AI won&#x27;t steal your job, people leveraging AI will](https://cmte.ieee.org/futuredirections/2023/04/03/ai-wont-steal-your-job-people-leveraging-ai-will/)
@@ -27,7 +28,6 @@
 * [2023-04-01, 15:38:28](https://news.ycombinator.com/item?id=35401114) - [MacUser 1996: How to Rig Up the Fastest Photoshop Machine](https://archive.org/details/MacUser9606June1996)
 * [2023-04-01, 15:23:44](https://news.ycombinator.com/item?id=35400994) - [The Problems That Attract the Smartest People](https://medium.com/sort-of-like-a-tech-diary/the-problems-that-attract-the-smartest-people-a384d2f8af)
 * [2023-04-01, 14:43:36](https://news.ycombinator.com/item?id=35400671) - [Solaris movie review and film summary (1976)](https://www.rogerebert.com/reviews/solaris-1976)
-* [2023-04-01, 13:04:38](https://news.ycombinator.com/item?id=35400006) - [The Data Delusion](https://www.newyorker.com/magazine/2023/04/03/the-data-delusion)
 * [2023-04-01, 11:14:14](https://news.ycombinator.com/item?id=35399272) - [Commodore Amiga – The Settlers &#x2F; Serf City: Life Is Feudal (1993)](https://www.youtube.com/watch?v=yh7Fhzn5L44)
 * [2023-04-01, 11:03:54](https://news.ycombinator.com/item?id=35399221) - [3Dfx Voodoo Memory Upgrade – 6MB Mod [video]](https://www.youtube.com/watch?v=pwGdw0eZVCQ)
 
