@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
 * [2023-04-03, 15:02:58](https://news.ycombinator.com/item?id=35424835) - [SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
+* [2023-04-03, 15:02:02](https://news.ycombinator.com/item?id=35424807) - [Ask HN: Who is hiring? (April 2023)](https://news.ycombinator.com/item?id=35424807)
 * [2023-04-03, 14:56:22](https://news.ycombinator.com/item?id=35424678) - [Alibaba breaks itself up in six](https://www.economist.com/business/2023/03/30/alibaba-breaks-itself-up-in-six)
 * [2023-04-03, 14:52:27](https://news.ycombinator.com/item?id=35424609) - [Experts warn yearly checkups carry risks and do not reduce mortality](https://english.elpais.com/science-tech/2023-04-01/do-you-need-a-yearly-checkup-experts-warn-that-they-carry-risks-and-do-not-reduce-mortality.html)
 * [2023-04-03, 14:44:20](https://news.ycombinator.com/item?id=35424459) - [Birds with neurotoxin-laden feathers discovered in New Guinea](https://phys.org/news/2023-03-birds-neurotoxin-laden-feathers-guinea.html)

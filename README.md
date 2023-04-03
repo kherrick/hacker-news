@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-03, 15:02:58](https://news.ycombinator.com/item?id=35424835) - [SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
+* [2023-04-03, 15:02:02](https://news.ycombinator.com/item?id=35424807) - [Ask HN: Who is hiring? (April 2023)](https://news.ycombinator.com/item?id=35424807)
 * [2023-04-03, 14:56:22](https://news.ycombinator.com/item?id=35424678) - [Alibaba breaks itself up in six](https://www.economist.com/business/2023/03/30/alibaba-breaks-itself-up-in-six)
 * [2023-04-03, 14:44:20](https://news.ycombinator.com/item?id=35424459) - [Birds with neurotoxin-laden feathers discovered in New Guinea](https://phys.org/news/2023-03-birds-neurotoxin-laden-feathers-guinea.html)
 * [2023-04-03, 14:42:25](https://news.ycombinator.com/item?id=35424428) - [‘Hot Ones’ Was a Slow Burn All Along](https://www.nytimes.com/2023/04/03/arts/television/hot-ones-youtube-show.html)
@@ -22,7 +23,6 @@
 * [2023-04-03, 09:48:03](https://news.ycombinator.com/item?id=35420863) - [Wronger Than Wrong](https://en.wikipedia.org/wiki/Wronger_than_wrong)
 * [2023-04-03, 09:09:24](https://news.ycombinator.com/item?id=35420553) - [The Near-Lossless Image Formats Using Ultra-Fast LZ Codecs](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
 * [2023-04-03, 07:28:01](https://news.ycombinator.com/item?id=35419771) - [Show HN: Unknown Pleasures, a tiny web experiment with WebGL](https://pouria.dev/unknown-pleasures)
-* [2023-04-02, 09:45:51](https://news.ycombinator.com/item?id=35408835) - [Privilegium Maius](https://en.wikipedia.org/wiki/Privilegium_Maius)
 * [2023-04-02, 05:47:46](https://news.ycombinator.com/item?id=35407578) - [What it Sounds Like When Doves Cry: transcribing bird sound as human speech](https://daily.jstor.org/what-it-sounds-like-when-doves-cry/)
 * [2023-04-01, 15:47:31](https://news.ycombinator.com/item?id=35401185) - [The Origin of Joy Division’s Unknown Pleasures Album Cover Art (2015)](https://kottke.org/15/02/the-origin-of-the-joy-divisions-unknown-pleasures-album-cover-art)
 * [2023-04-01, 15:40:00](https://news.ycombinator.com/item?id=35401126) - [Can water solve a maze? [video]](https://www.youtube.com/watch?v=81ebWToAnvA)
