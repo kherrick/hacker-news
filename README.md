@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-03, 07:28:01](https://news.ycombinator.com/item?id=35419771) - [Show HN: Unknown Pleasures, a tiny web experiment with WebGL](https://pouria.dev/unknown-pleasures)
-* [2023-04-03, 06:59:40](https://news.ycombinator.com/item?id=35419549) - [Parisians vote to ban e-scooters from French capital](https://www.reuters.com/world/europe/parisians-vote-ban-e-scooters-french-capital-2023-04-02/)
 * [2023-04-03, 06:40:59](https://news.ycombinator.com/item?id=35419407) - [Ask HN: WWYD? Built a company valued at $1B and may walk away with nothing](https://news.ycombinator.com/item?id=35419407)
 * [2023-04-03, 05:46:16](https://news.ycombinator.com/item?id=35418999) - [Midjourney CEO Silencing Satire About Xi Jinping](https://www.techdirt.com/2023/03/31/midjourney-ceo-says-political-satire-in-china-is-pretty-not-okay-but-apparently-silencing-satire-about-xi-jinping-is-pretty-okay/)
 * [2023-04-03, 05:04:25](https://news.ycombinator.com/item?id=35418760) - [Saying Goodbye to GitHub](https://ersei.net/en/blog/bye-bye-github)
@@ -18,6 +17,7 @@
 * [2023-04-02, 16:40:23](https://news.ycombinator.com/item?id=35412416) - [Show HN: Shhhbb, an SSH BBS](https://donuts-are-good.github.io/shhhbb/)
 * [2023-04-02, 16:33:44](https://news.ycombinator.com/item?id=35412342) - [iAPX432: Gordon Moore, Risk and Intel’s Super-CISC Failure](https://thechipletter.substack.com/p/iapx432-gordon-moore-risk-and-intels)
 * [2023-04-02, 13:16:24](https://news.ycombinator.com/item?id=35410182) - [Ryuichi Sakamoto has died](https://www.clashmusic.com/news/ryuichi-sakamoto-has-died-cause-of-death/)
+* [2023-04-02, 05:55:53](https://news.ycombinator.com/item?id=35407617) - [Juan de Pareja: from Diego Velázquez’s slave to distinguished artist](https://www.theartnewspaper.com/2023/03/29/juan-de-pareja-from-slave-to-old-master)
 * [2023-04-02, 02:02:27](https://news.ycombinator.com/item?id=35406369) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-01, 15:47:31](https://news.ycombinator.com/item?id=35401185) - [The Origin of Joy Division’s Unknown Pleasures Album Cover Art (2015)](https://kottke.org/15/02/the-origin-of-the-joy-divisions-unknown-pleasures-album-cover-art)
 * [2023-04-01, 15:40:00](https://news.ycombinator.com/item?id=35401126) - [Can water solve a maze? [video]](https://www.youtube.com/watch?v=81ebWToAnvA)

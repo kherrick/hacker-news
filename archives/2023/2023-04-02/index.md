@@ -66,6 +66,7 @@
 * [2023-04-02, 08:50:43](https://news.ycombinator.com/item?id=35408507) - [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)
 * [2023-04-02, 07:57:17](https://news.ycombinator.com/item?id=35408249) - [For the first time, renewable energy generation beat out coal in the US](https://www.popsci.com/environment/renewable-energy-generation-coal-2022/)
 * [2023-04-02, 06:04:27](https://news.ycombinator.com/item?id=35407658) - [ISRO successfully lands a Reusable Launch Vehicle  from a 4.5 km altitude.](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-landing-experiment-of-the-reusable-launch-vehicle/article66690655.ece)
+* [2023-04-02, 05:55:53](https://news.ycombinator.com/item?id=35407617) - [Juan de Pareja: from Diego Velázquez’s slave to distinguished artist](https://www.theartnewspaper.com/2023/03/29/juan-de-pareja-from-slave-to-old-master)
 * [2023-04-02, 05:33:14](https://news.ycombinator.com/item?id=35407505) - [Tell: Google search is getting worse](https://news.ycombinator.com/item?id=35407505)
 * [2023-04-02, 05:27:35](https://news.ycombinator.com/item?id=35407474) - [The outside investigation of SoftRAM 95 (2021)](https://devblogs.microsoft.com/oldnewthing/20211111-00/?p=105897)
 * [2023-04-02, 05:18:00](https://news.ycombinator.com/item?id=35407420) - [Avoiding HTTP&#x2F;3 (for a while) as a pragmatic default](https://utcc.utoronto.ca/~cks/space/blog/web/AvoidingHTTP3ForNow)
