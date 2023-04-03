@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-03, 16:32:08](https://news.ycombinator.com/item?id=35426781) - [Was MPLS Traffic Engineering Worthwhile?](https://systemsapproach.substack.com/p/was-mpls-traffic-engineering-worthwhile)
 * [2023-04-03, 16:27:09](https://news.ycombinator.com/item?id=35426679) - [Why MMAP in llama.cpp hides true memory usage](https://twitter.com/jeremyphoward/status/1642726595436883969)
 * [2023-04-03, 16:18:48](https://news.ycombinator.com/item?id=35426482) - [Launch HN: OutSail (YC W23) – Wingsails to reduce cargo ship fuel consumption](https://news.ycombinator.com/item?id=35426482)
 * [2023-04-03, 15:52:47](https://news.ycombinator.com/item?id=35425897) - [How to Do Hard Things](https://every.to/no-small-plans/how-to-do-hard-things)
@@ -15,7 +16,6 @@
 * [2023-04-03, 14:19:28](https://news.ycombinator.com/item?id=35424005) - [Show HN: Unriddle – Create your own GPT-4 on top of any document](https://www.unriddle.ai/)
 * [2023-04-03, 13:53:28](https://news.ycombinator.com/item?id=35423569) - [Pandas 2.0](https://github.com/pandas-dev/pandas/releases/tag/v2.0.0)
 * [2023-04-03, 13:33:53](https://news.ycombinator.com/item?id=35423290) - [Chemist Rafael Luque suspended without pay for thirteen years](https://english.elpais.com/science-tech/2023-04-02/one-of-the-worlds-most-cited-scientists-rafael-luque-suspended-without-pay-for-13-years.html)
-* [2023-04-03, 13:06:26](https://news.ycombinator.com/item?id=35422848) - [Japan Says 1.5M Living as Recluses After Pandemic](https://www.theguardian.com/world/2023/apr/03/japan-says-15-million-people-living-as-recluses-after-covid)
 * [2023-04-03, 12:11:43](https://news.ycombinator.com/item?id=35422154) - [BuildZoom (YC W13) is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 * [2023-04-03, 11:56:01](https://news.ycombinator.com/item?id=35421962) - [We&#x27;re Knot Friends](https://jeremykun.com/2023/04/01/were-knot-friends/)
 * [2023-04-03, 11:53:09](https://news.ycombinator.com/item?id=35421935) - [Desktop 3.8: End-to-End Encryption levels up with sharing and file-drop](https://nextcloud.com/blog/desktop-3-8-end-to-end-encryption-levels-up-with-sharing-and-file-drop/)
