@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 20:02:51](https://news.ycombinator.com/item?id=35430432) - [State-of-the-art open-source chatbot, Vicuna-13B, just released model weights](https://twitter.com/lmsysorg/status/1642968294998306816)
 * [2023-04-03, 19:53:43](https://news.ycombinator.com/item?id=35430301) - [NASA Names Astronauts to Next Moon Mission](https://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis/)
 * [2023-04-03, 19:20:27](https://news.ycombinator.com/item?id=35429777) - [Tennis Balls Serve as Decent Bicycle Tires That Don’t Easily Puncture](https://hackaday.com/2023/04/03/tennis-balls-serve-as-decent-bicycle-tires-that-dont-easily-puncture/)
 * [2023-04-03, 18:50:04](https://news.ycombinator.com/item?id=35429306) - [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
@@ -25,6 +26,7 @@
 * [2023-04-03, 16:27:09](https://news.ycombinator.com/item?id=35426679) - [Why MMAP in llama.cpp hides true memory usage](https://twitter.com/jeremyphoward/status/1642726595436883969)
 * [2023-04-03, 16:23:21](https://news.ycombinator.com/item?id=35426586) - [Adobe Firefly vs. MidJourney AI image generation](https://twitter.com/DrJimFan/status/1642921475849203712)
 * [2023-04-03, 16:18:48](https://news.ycombinator.com/item?id=35426482) - [Launch HN: OutSail (YC W23) – Wingsails to reduce cargo ship fuel consumption](https://news.ycombinator.com/item?id=35426482)
+* [2023-04-03, 16:11:22](https://news.ycombinator.com/item?id=35426331) - [Gitlab foundation established to increase people’s lifetime earnings](https://www.gitlabfoundation.org)
 * [2023-04-03, 16:03:33](https://news.ycombinator.com/item?id=35426156) - [NASA Names Astronauts for Artemis Moon Mission](https://www.bbc.com/news/science-environment-65165845)
 * [2023-04-03, 15:52:47](https://news.ycombinator.com/item?id=35425897) - [How to Do Hard Things](https://every.to/no-small-plans/how-to-do-hard-things)
 * [2023-04-03, 15:51:24](https://news.ycombinator.com/item?id=35425863) - [Apple&#x27;s Tim Cook says AR and VR headsets are for connection and communication](https://www.theverge.com/23667912/tim-cook-apple-ar-vr-interview-gq)
