@@ -18,6 +18,7 @@
 * [2023-04-03, 12:11:43](https://news.ycombinator.com/item?id=35422154) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 * [2023-04-03, 12:09:19](https://news.ycombinator.com/item?id=35422127) - [Japan Breaks with U.S. Allies, Buys Russian Oil at Prices Above Cap](https://www.wsj.com/articles/japan-breaks-with-u-s-allies-buys-russian-oil-at-prices-above-cap-1395accb)
 * [2023-04-03, 12:01:53](https://news.ycombinator.com/item?id=35422044) - [Finland Becomes a Member of NATO on Tuesday 4 April](https://www.presidentti.fi/en/press-release/finland-becomes-a-member-of-nato-on-tuesday-4-april/)
+* [2023-04-03, 11:53:09](https://news.ycombinator.com/item?id=35421935) - [Nextcloud Desktop 3.8: End-to-End Encryption levels up with sharing](https://nextcloud.com/blog/desktop-3-8-end-to-end-encryption-levels-up-with-sharing-and-file-drop/)
 * [2023-04-03, 11:49:16](https://news.ycombinator.com/item?id=35421899) - [Framework’s computers aren’t perfect, but they are exciting](https://www.theverge.com/23664746/framework-laptop-excitement-vpr-matrix-history-nostalgia)
 * [2023-04-03, 11:10:09](https://news.ycombinator.com/item?id=35421554) - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
 * [2023-04-03, 11:09:09](https://news.ycombinator.com/item?id=35421545) - [WWE Agrees to Merge with UFC](https://www.cnbc.com/2023/04/03/wwe-ufc-merger-endeavor.html)
