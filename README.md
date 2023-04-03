@@ -22,6 +22,7 @@
 * [2023-04-01, 15:47:31](https://news.ycombinator.com/item?id=35401185) - [The Origin of Joy Division’s Unknown Pleasures Album Cover Art (2015)](https://kottke.org/15/02/the-origin-of-the-joy-divisions-unknown-pleasures-album-cover-art)
 * [2023-04-01, 15:40:00](https://news.ycombinator.com/item?id=35401126) - [Can water solve a maze? [video]](https://www.youtube.com/watch?v=81ebWToAnvA)
 * [2023-04-01, 15:38:28](https://news.ycombinator.com/item?id=35401114) - [MacUser 1996: How to Rig Up the Fastest Photoshop Machine](https://archive.org/details/MacUser9606June1996)
+* [2023-04-01, 15:23:44](https://news.ycombinator.com/item?id=35400994) - [The Problems That Attract the Smartest People](https://medium.com/sort-of-like-a-tech-diary/the-problems-that-attract-the-smartest-people-a384d2f8af)
 * [2023-04-01, 14:29:45](https://news.ycombinator.com/item?id=35400562) - [Pursuing status will never bring true happiness](https://every.to/no-small-plans/the-status-trap)
 * [2023-04-01, 13:04:38](https://news.ycombinator.com/item?id=35400006) - [The Data Delusion](https://www.newyorker.com/magazine/2023/04/03/the-data-delusion)
 * [2023-04-01, 12:43:23](https://news.ycombinator.com/item?id=35399848) - [What Is an MCR or Multiplexer Combined Ranks DIMM](https://www.servethehome.com/what-is-a-mcr-dimm-or-multiplexer-combined-ranks-dimm-sk-hynix-micron-samsung-intel-amd-nvidia/)
@@ -29,7 +30,6 @@
 * [2023-04-01, 12:32:51](https://news.ycombinator.com/item?id=35399754) - [Is It Imperative to Be Declarative?](https://blog.container-solutions.com/is-it-imperative-to-be-declarative)
 * [2023-04-01, 10:40:29](https://news.ycombinator.com/item?id=35399108) - [The Priest in the Arena](https://studio.ribbonfarm.com/p/the-priest-in-the-arena)
 * [2023-04-01, 10:33:29](https://news.ycombinator.com/item?id=35399081) - [International Pascal Congress](https://www.pascalcongress.com/index.html)
-* [2023-04-01, 01:39:31](https://news.ycombinator.com/item?id=35396156) - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
 
 ## [Archives](archives/index.md)
 
