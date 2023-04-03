@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
 * [2023-04-03, 13:33:53](https://news.ycombinator.com/item?id=35423290) - [Scientist Rafael Luque suspended without pay for 13 years](https://english.elpais.com/science-tech/2023-04-02/one-of-the-worlds-most-cited-scientists-rafael-luque-suspended-without-pay-for-13-years.html)
+* [2023-04-03, 13:32:07](https://news.ycombinator.com/item?id=35423252) - [In the battle between Microsoft and Google, LLM is the weapon too deadly to use](https://www.theregister.com/2023/04/03/opinion_column/)
+* [2023-04-03, 13:06:02](https://news.ycombinator.com/item?id=35422842) - [AI won&#x27;t steal your job, people leveraging AI will](https://cmte.ieee.org/futuredirections/2023/04/03/ai-wont-steal-your-job-people-leveraging-ai-will/)
 * [2023-04-03, 12:58:29](https://news.ycombinator.com/item?id=35422739) - [Valve Shows a Drop in Linux Gamers for March, but the Numbers Are Questionable](https://www.phoronix.com/news/Steam-Linux-March-2023)
 * [2023-04-03, 12:45:44](https://news.ycombinator.com/item?id=35422570) - [Animated Unknown Pleasures in 3 lines of K](http://johnearnest.github.io/ok/ike/ike.html?gist=f78af1a96ec206dc3b07ike.html?key=c9argHWP)
+* [2023-04-03, 12:42:02](https://news.ycombinator.com/item?id=35422507) - [The BEAM needs an APL-y language (2018)](https://medium.com/@gordonguthrie/the-beam-needs-an-apl-y-language-6c5c998ba6d)
 * [2023-04-03, 12:41:01](https://news.ycombinator.com/item?id=35422494) - [Stable Diffusion copyright lawsuits could be a legal earthquake for AI](https://arstechnica.com/tech-policy/2023/04/stable-diffusion-copyright-lawsuits-could-be-a-legal-earthquake-for-ai/)
 * [2023-04-03, 12:24:00](https://news.ycombinator.com/item?id=35422323) - [AI porn will never be sexy](https://www.newstatesman.com/science-tech/2023/02/ai-porn-will-never-be-sexy)
 * [2023-04-03, 12:11:43](https://news.ycombinator.com/item?id=35422154) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)

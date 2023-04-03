@@ -62,6 +62,7 @@
 * [2023-04-01, 11:48:19](https://news.ycombinator.com/item?id=35399480) - [Commander X16 2023 update [video]](https://www.youtube.com/watch?v=nyByDNQuMMI)
 * [2023-04-01, 11:32:44](https://news.ycombinator.com/item?id=35399406) - [All Sliders to the Right](https://queue.acm.org/detail.cfm?id=3580505)
 * [2023-04-01, 11:20:48](https://news.ycombinator.com/item?id=35399315) - [Ask HN: What&#x27;s the name of this concept related to surveillance](https://news.ycombinator.com/item?id=35399315)
+* [2023-04-01, 11:14:14](https://news.ycombinator.com/item?id=35399272) - [Commodore Amiga – The Settlers &#x2F; Serf City: Life Is Feudal (1993)](https://www.youtube.com/watch?v=yh7Fhzn5L44)
 * [2023-04-01, 11:03:54](https://news.ycombinator.com/item?id=35399221) - [3Dfx Voodoo Memory Upgrade – 6MB Mod](https://www.youtube.com/watch?v=pwGdw0eZVCQ)
 * [2023-04-01, 11:03:10](https://news.ycombinator.com/item?id=35399218) - [Show HN: Use cookies from Chrome (CDP) in cURL without copy pasting](https://github.com/fipso/ccurl.sh)
 * [2023-04-01, 10:40:29](https://news.ycombinator.com/item?id=35399108) - [The Priest in the Arena](https://studio.ribbonfarm.com/p/the-priest-in-the-arena)
