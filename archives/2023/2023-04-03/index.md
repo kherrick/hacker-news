@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 10:27:44](https://news.ycombinator.com/item?id=35421156) - [Mullvad VPN and the Tor Project Team Up to Release the Mullvad Browser](https://mullvad.net/en/blog/2023/4/3/mullvad-vpn-and-the-tor-project-team-up-to-release-the-mullvad-browser/)
 * [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 09:58:44](https://news.ycombinator.com/item?id=35420946) - [Apple Halted M2 Chip Production in January Amid &#x27;Plummeting&#x27; Mac Sales](https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/)
 * [2023-04-03, 09:51:43](https://news.ycombinator.com/item?id=35420895) - [Sam Altman wants to convince billions to scan eyes to prove they aren’t bots](https://finance.yahoo.com/news/openai-ceo-sam-altman-wants-110000591.html)

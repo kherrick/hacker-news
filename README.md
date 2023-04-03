@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-03, 10:27:44](https://news.ycombinator.com/item?id=35421156) - [Mullvad VPN and the Tor Project Team Up to Release the Mullvad Browser](https://mullvad.net/en/blog/2023/4/3/mullvad-vpn-and-the-tor-project-team-up-to-release-the-mullvad-browser/)
 * [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 09:58:44](https://news.ycombinator.com/item?id=35420946) - [Apple Halted M2 Chip Production in January Amid &#x27;Plummeting&#x27; Mac Sales](https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/)
 * [2023-04-03, 09:48:03](https://news.ycombinator.com/item?id=35420863) - [Wronger Than Wrong](https://en.wikipedia.org/wiki/Wronger_than_wrong)
@@ -27,7 +28,6 @@
 * [2023-04-01, 14:29:45](https://news.ycombinator.com/item?id=35400562) - [Pursuing status will never bring true happiness](https://every.to/no-small-plans/the-status-trap)
 * [2023-04-01, 13:04:38](https://news.ycombinator.com/item?id=35400006) - [The Data Delusion](https://www.newyorker.com/magazine/2023/04/03/the-data-delusion)
 * [2023-04-01, 12:43:23](https://news.ycombinator.com/item?id=35399848) - [What Is an MCR or Multiplexer Combined Ranks DIMM](https://www.servethehome.com/what-is-a-mcr-dimm-or-multiplexer-combined-ranks-dimm-sk-hynix-micron-samsung-intel-amd-nvidia/)
-* [2023-04-01, 12:40:43](https://news.ycombinator.com/item?id=35399818) - [The secret life of fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
 * [2023-04-01, 10:40:29](https://news.ycombinator.com/item?id=35399108) - [The Priest in the Arena](https://studio.ribbonfarm.com/p/the-priest-in-the-arena)
 * [2023-04-01, 10:33:29](https://news.ycombinator.com/item?id=35399081) - [International Pascal Congress](https://www.pascalcongress.com/index.html)
 
