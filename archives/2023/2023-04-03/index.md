@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 18:20:44](https://news.ycombinator.com/item?id=35428847) - [Pop_OS has a complicated name but it makes using Linux so easy](https://www.zdnet.com/article/pop-os-has-a-complicated-name-but-it-makes-using-linux-so-easy/)
 * [2023-04-03, 18:05:43](https://news.ycombinator.com/item?id=35428568) - [Why paid masterminds are mental masturbation](https://jimclair.com/why-paid-masterminds-are-mental/)
 * [2023-04-03, 17:54:24](https://news.ycombinator.com/item?id=35428379) - [$70 RISC-V Computer from Pine64 Goes on Sale April 4 – OMG Linux](https://www.omglinux.com/star64-is-a-risc-v-single-board-pc/)
 * [2023-04-03, 17:24:23](https://news.ycombinator.com/item?id=35427769) - [Tesla removes parking sensors, the results are predictably terrible](https://www.carexpert.com.au/car-news/tesla-removes-parking-sensors-to-save-money-the-results-are-predictably-terrible)

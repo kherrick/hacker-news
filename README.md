@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-03, 18:20:44](https://news.ycombinator.com/item?id=35428847) - [Pop_OS has a complicated name but it makes using Linux so easy](https://www.zdnet.com/article/pop-os-has-a-complicated-name-but-it-makes-using-linux-so-easy/)
 * [2023-04-03, 18:05:43](https://news.ycombinator.com/item?id=35428568) - [Why paid masterminds are mental masturbation](https://jimclair.com/why-paid-masterminds-are-mental/)
 * [2023-04-03, 17:54:24](https://news.ycombinator.com/item?id=35428379) - [$70 RISC-V Computer from Pine64 Goes on Sale April 4 – OMG Linux](https://www.omglinux.com/star64-is-a-risc-v-single-board-pc/)
 * [2023-04-03, 17:24:23](https://news.ycombinator.com/item?id=35427769) - [Tesla removes parking sensors, the results are predictably terrible](https://www.carexpert.com.au/car-news/tesla-removes-parking-sensors-to-save-money-the-results-are-predictably-terrible)
@@ -11,7 +12,6 @@
 * [2023-04-03, 16:23:21](https://news.ycombinator.com/item?id=35426586) - [Adobe Firefly vs. MidJourney AI image generation](https://twitter.com/DrJimFan/status/1642921475849203712)
 * [2023-04-03, 16:18:48](https://news.ycombinator.com/item?id=35426482) - [Launch HN: OutSail (YC W23) – Wingsails to reduce cargo ship fuel consumption](https://news.ycombinator.com/item?id=35426482)
 * [2023-04-03, 15:52:47](https://news.ycombinator.com/item?id=35425897) - [How to Do Hard Things](https://every.to/no-small-plans/how-to-do-hard-things)
-* [2023-04-03, 15:02:58](https://news.ycombinator.com/item?id=35424835) - [SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
 * [2023-04-03, 15:02:02](https://news.ycombinator.com/item?id=35424807) - [Ask HN: Who is hiring? (April 2023)](https://news.ycombinator.com/item?id=35424807)
 * [2023-04-03, 15:02:01](https://news.ycombinator.com/item?id=35424805) - [Ask HN: Who wants to be hired? (April 2023)](https://news.ycombinator.com/item?id=35424805)
 * [2023-04-03, 14:56:22](https://news.ycombinator.com/item?id=35424678) - [Alibaba breaks itself up in six](https://www.economist.com/business/2023/03/30/alibaba-breaks-itself-up-in-six)
