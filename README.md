@@ -14,9 +14,9 @@
 * [2023-04-03, 09:48:03](https://news.ycombinator.com/item?id=35420863) - [Wronger Than Wrong](https://en.wikipedia.org/wiki/Wronger_than_wrong)
 * [2023-04-03, 09:09:24](https://news.ycombinator.com/item?id=35420553) - [The Near-Lossless Image Formats Using Ultra-Fast LZ Codecs](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
 * [2023-04-03, 07:28:01](https://news.ycombinator.com/item?id=35419771) - [Show HN: Unknown Pleasures, a tiny web experiment with WebGL](https://pouria.dev/unknown-pleasures)
-* [2023-04-03, 05:46:16](https://news.ycombinator.com/item?id=35418999) - [Midjourney CEO Silencing Satire About Xi Jinping](https://www.techdirt.com/2023/03/31/midjourney-ceo-says-political-satire-in-china-is-pretty-not-okay-but-apparently-silencing-satire-about-xi-jinping-is-pretty-okay/)
 * [2023-04-03, 05:04:25](https://news.ycombinator.com/item?id=35418760) - [Saying Goodbye to GitHub](https://ersei.net/en/blog/bye-bye-github)
 * [2023-04-02, 23:00:05](https://news.ycombinator.com/item?id=35416224) - [Starlink internet is going from rural savior to unreliable luxury](https://www.xda-developers.com/starlink-internet-rural-savior-unreliable-luxury/)
+* [2023-04-02, 22:05:23](https://news.ycombinator.com/item?id=35415758) - [The day Windows died](https://thomasbandt.com/the-day-windows-died)
 * [2023-04-02, 18:43:16](https://news.ycombinator.com/item?id=35413770) - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
 * [2023-04-02, 09:45:51](https://news.ycombinator.com/item?id=35408835) - [Privilegium Maius](https://en.wikipedia.org/wiki/Privilegium_Maius)
 * [2023-04-02, 05:55:53](https://news.ycombinator.com/item?id=35407617) - [Juan de Pareja: from Diego Velázquez’s slave to distinguished artist](https://www.theartnewspaper.com/2023/03/29/juan-de-pareja-from-slave-to-old-master)
@@ -29,7 +29,7 @@
 * [2023-04-01, 14:29:45](https://news.ycombinator.com/item?id=35400562) - [Pursuing status will never bring true happiness](https://every.to/no-small-plans/the-status-trap)
 * [2023-04-01, 13:04:38](https://news.ycombinator.com/item?id=35400006) - [The Data Delusion](https://www.newyorker.com/magazine/2023/04/03/the-data-delusion)
 * [2023-04-01, 12:43:23](https://news.ycombinator.com/item?id=35399848) - [What Is an MCR or Multiplexer Combined Ranks DIMM](https://www.servethehome.com/what-is-a-mcr-dimm-or-multiplexer-combined-ranks-dimm-sk-hynix-micron-samsung-intel-amd-nvidia/)
-* [2023-04-01, 11:03:54](https://news.ycombinator.com/item?id=35399221) - [3Dfx Voodoo Memory Upgrade – 6MB Mod](https://www.youtube.com/watch?v=pwGdw0eZVCQ)
+* [2023-04-01, 11:03:54](https://news.ycombinator.com/item?id=35399221) - [3Dfx Voodoo Memory Upgrade – 6MB Mod [video]](https://www.youtube.com/watch?v=pwGdw0eZVCQ)
 
 ## [Archives](archives/index.md)
 
