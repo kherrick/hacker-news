@@ -15,7 +15,6 @@
 * [2023-04-03, 15:02:01](https://news.ycombinator.com/item?id=35424805) - [Ask HN: Who wants to be hired? (April 2023)](https://news.ycombinator.com/item?id=35424805)
 * [2023-04-03, 14:56:22](https://news.ycombinator.com/item?id=35424678) - [Alibaba breaks itself up in six](https://www.economist.com/business/2023/03/30/alibaba-breaks-itself-up-in-six)
 * [2023-04-03, 14:48:52](https://news.ycombinator.com/item?id=35424551) - [Comparing K3s with Kubernetes How K3s Is Often the Better Choice](https://www.hoelzel.it/kubernetes/2023/04/01/k3s-is-Often-the-Better-Choice.html)
-* [2023-04-03, 14:44:20](https://news.ycombinator.com/item?id=35424459) - [Birds with neurotoxin-laden feathers discovered in New Guinea](https://phys.org/news/2023-03-birds-neurotoxin-laden-feathers-guinea.html)
 * [2023-04-03, 13:53:28](https://news.ycombinator.com/item?id=35423569) - [Pandas 2.0](https://github.com/pandas-dev/pandas/releases/tag/v2.0.0)
 * [2023-04-03, 13:33:53](https://news.ycombinator.com/item?id=35423290) - [Chemist Rafael Luque suspended without pay for thirteen years](https://english.elpais.com/science-tech/2023-04-02/one-of-the-worlds-most-cited-scientists-rafael-luque-suspended-without-pay-for-13-years.html)
 * [2023-04-03, 11:56:01](https://news.ycombinator.com/item?id=35421962) - [We&#x27;re Knot Friends](https://jeremykun.com/2023/04/01/were-knot-friends/)
@@ -29,6 +28,7 @@
 * [2023-04-01, 17:03:02](https://news.ycombinator.com/item?id=35401895) - [His software sang the words of God. Then it went silent](https://www.inverse.com/input/features/tropetrainer-thomas-buchler-torah-software)
 * [2023-04-01, 15:40:00](https://news.ycombinator.com/item?id=35401126) - [Can water solve a maze? [video]](https://www.youtube.com/watch?v=81ebWToAnvA)
 * [2023-04-01, 14:43:36](https://news.ycombinator.com/item?id=35400671) - [Solaris movie review and film summary (1976)](https://www.rogerebert.com/reviews/solaris-1976)
+* [2023-04-01, 11:14:14](https://news.ycombinator.com/item?id=35399272) - [Commodore Amiga – The Settlers &#x2F; Serf City: Life Is Feudal (1993)](https://www.youtube.com/watch?v=yh7Fhzn5L44)
 * [2023-04-01, 11:03:54](https://news.ycombinator.com/item?id=35399221) - [3Dfx Voodoo Memory Upgrade – 6MB Mod [video]](https://www.youtube.com/watch?v=pwGdw0eZVCQ)
 
 ## [Archives](archives/index.md)
