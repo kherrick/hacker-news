@@ -4,7 +4,6 @@
 * [2023-04-03, 09:58:44](https://news.ycombinator.com/item?id=35420946) - [Apple Halted M2 Chip Production in January Amid &#x27;Plummeting&#x27; Mac Sales](https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/)
 * [2023-04-03, 09:48:03](https://news.ycombinator.com/item?id=35420863) - [Wronger Than Wrong](https://en.wikipedia.org/wiki/Wronger_than_wrong)
 * [2023-04-03, 09:09:24](https://news.ycombinator.com/item?id=35420553) - [The Near-Lossless Image Formats Using Ultra-Fast LZ Codecs](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
-* [2023-04-03, 08:14:05](https://news.ycombinator.com/item?id=35420180) - [Russia confiscates passports of senior officials to stop defections](https://www.ft.com/content/c41be6b0-f625-46f2-91e4-d03eb4b6372b)
 * [2023-04-03, 07:28:01](https://news.ycombinator.com/item?id=35419771) - [Show HN: Unknown Pleasures, a tiny web experiment with WebGL](https://pouria.dev/unknown-pleasures)
 * [2023-04-03, 05:46:16](https://news.ycombinator.com/item?id=35418999) - [Midjourney CEO Silencing Satire About Xi Jinping](https://www.techdirt.com/2023/03/31/midjourney-ceo-says-political-satire-in-china-is-pretty-not-okay-but-apparently-silencing-satire-about-xi-jinping-is-pretty-okay/)
 * [2023-04-03, 05:04:25](https://news.ycombinator.com/item?id=35418760) - [Saying Goodbye to GitHub](https://ersei.net/en/blog/bye-bye-github)
@@ -28,6 +27,7 @@
 * [2023-04-01, 14:29:45](https://news.ycombinator.com/item?id=35400562) - [Pursuing status will never bring true happiness](https://every.to/no-small-plans/the-status-trap)
 * [2023-04-01, 13:04:38](https://news.ycombinator.com/item?id=35400006) - [The Data Delusion](https://www.newyorker.com/magazine/2023/04/03/the-data-delusion)
 * [2023-04-01, 12:43:23](https://news.ycombinator.com/item?id=35399848) - [What Is an MCR or Multiplexer Combined Ranks DIMM](https://www.servethehome.com/what-is-a-mcr-dimm-or-multiplexer-combined-ranks-dimm-sk-hynix-micron-samsung-intel-amd-nvidia/)
+* [2023-04-01, 12:40:43](https://news.ycombinator.com/item?id=35399818) - [The secret life of fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
 * [2023-04-01, 10:40:29](https://news.ycombinator.com/item?id=35399108) - [The Priest in the Arena](https://studio.ribbonfarm.com/p/the-priest-in-the-arena)
 * [2023-04-01, 10:33:29](https://news.ycombinator.com/item?id=35399081) - [International Pascal Congress](https://www.pascalcongress.com/index.html)
 
