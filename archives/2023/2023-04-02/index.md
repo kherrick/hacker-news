@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 23:32:42](https://news.ycombinator.com/item?id=35416556) - [How the U.S. Came to Use Spyware It Was Trying to Kill](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
 * [2023-04-02, 23:00:05](https://news.ycombinator.com/item?id=35416224) - [Starlink internet is going from rural savior to unreliable luxury](https://www.xda-developers.com/starlink-internet-rural-savior-unreliable-luxury/)
 * [2023-04-02, 22:29:30](https://news.ycombinator.com/item?id=35415947) - [A Guide to Understanding the Hoax of the Century](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation)
 * [2023-04-02, 22:05:23](https://news.ycombinator.com/item?id=35415758) - [The Day Windows Died](https://thomasbandt.com/the-day-windows-died)

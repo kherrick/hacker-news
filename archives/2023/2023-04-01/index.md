@@ -47,6 +47,7 @@
 * [2023-04-01, 12:50:43](https://news.ycombinator.com/item?id=35399897) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
 * [2023-04-01, 12:43:31](https://news.ycombinator.com/item?id=35399852) - [F**k Teams](https://www.youtube.com/watch?v=7ERH4LAAKjw)
 * [2023-04-01, 12:40:43](https://news.ycombinator.com/item?id=35399818) - [The Secret Life of Fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
+* [2023-04-01, 12:32:51](https://news.ycombinator.com/item?id=35399754) - [Is It Imperative to Be Declarative?](https://blog.container-solutions.com/is-it-imperative-to-be-declarative)
 * [2023-04-01, 12:11:13](https://news.ycombinator.com/item?id=35399603) - [Clocks and Causality – Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-01, 12:08:35](https://news.ycombinator.com/item?id=35399590) - [“Alexa, what is my WiFi password?”](https://dragon863.github.io/blog/alexa.html)
 * [2023-04-01, 12:01:07](https://news.ycombinator.com/item?id=35399551) - [Magnon-based computation could signal computing paradigm shift](https://phys.org/news/2023-03-magnon-based-paradigm-shift.html)

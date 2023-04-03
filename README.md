@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-02, 23:00:05](https://news.ycombinator.com/item?id=35416224) - [Starlink internet is going from rural savior to unreliable luxury](https://www.xda-developers.com/starlink-internet-rural-savior-unreliable-luxury/)
-* [2023-04-02, 22:29:30](https://news.ycombinator.com/item?id=35415947) - [A Guide to Understanding the Hoax of the Century](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation)
+* [2023-04-03, 00:06:12](https://news.ycombinator.com/item?id=35416816) - [Oil Rockets 8% After OPEC+ Jolts Market with Surprise Output Cut](https://www.bloomberg.com/news/articles/2023-04-02/oil-surges-after-opec-makes-unexpected-crude-production-cut)
+* [2023-04-02, 23:32:42](https://news.ycombinator.com/item?id=35416556) - [How the U.S. Came to Use Spyware It Was Trying to Kill](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
 * [2023-04-02, 22:05:23](https://news.ycombinator.com/item?id=35415758) - [The Day Windows Died](https://thomasbandt.com/the-day-windows-died)
 * [2023-04-02, 19:37:05](https://news.ycombinator.com/item?id=35414262) - [Scientists Found a &#x27;Leak&#x27; in Photosynthesis That Could Be Tapped into Energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
 * [2023-04-02, 18:43:16](https://news.ycombinator.com/item?id=35413770) - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
@@ -25,9 +25,9 @@
 * [2023-04-02, 02:02:27](https://news.ycombinator.com/item?id=35406369) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-01, 14:53:30](https://news.ycombinator.com/item?id=35400760) - [Managers, stop distracting employees](https://hbr.org/2023/01/managers-stop-distracting-your-employees)
 * [2023-04-01, 14:51:15](https://news.ycombinator.com/item?id=35400742) - [Vectorized port of Klong array language](https://github.com/briangu/klongpy)
-* [2023-04-01, 13:40:26](https://news.ycombinator.com/item?id=35400236) - [If Philip Glass Were a Film](https://www.youtube.com/watch?v=gPtd6gVgKo8)
 * [2023-04-01, 12:51:38](https://news.ycombinator.com/item?id=35399905) - [15k inserts&#x2F;s with Rust and SQLite (2021)](https://kerkour.com/high-performance-rust-with-sqlite)
 * [2023-04-01, 12:40:43](https://news.ycombinator.com/item?id=35399818) - [The secret life of fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
+* [2023-04-01, 12:32:51](https://news.ycombinator.com/item?id=35399754) - [Is It Imperative to Be Declarative?](https://blog.container-solutions.com/is-it-imperative-to-be-declarative)
 * [2023-04-01, 10:40:29](https://news.ycombinator.com/item?id=35399108) - [The Priest in the Arena](https://studio.ribbonfarm.com/p/the-priest-in-the-arena)
 * [2023-04-01, 10:33:29](https://news.ycombinator.com/item?id=35399081) - [International Pascal Congress](https://www.pascalcongress.com/index.html)
 
