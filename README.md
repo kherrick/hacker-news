@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-03, 01:32:04](https://news.ycombinator.com/item?id=35417463) - [Life expectancy in the U.S. varies greatly by region](https://twitter.com/nickmmark/status/1642548933795909632)
+* [2023-04-03, 02:07:03](https://news.ycombinator.com/item?id=35417692) - [Never in 20 years of working in tech have I been treated so unprofessionally](https://startupdreams.substack.com/p/never-in-my-20-years-of-working-in)
 * [2023-04-03, 01:01:31](https://news.ycombinator.com/item?id=35417250) - [Giving kids no autonomy at all has become a parenting norm](https://www.salon.com/2021/01/17/giving-kids-no-autonomy-at-all-has-become-a-parenting-norm--and-the-pandemic-is-worsening-the-trend/)
 * [2023-04-02, 23:32:42](https://news.ycombinator.com/item?id=35416556) - [How the U.S. Came to Use Spyware It Was Trying to Kill](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
 * [2023-04-02, 22:54:21](https://news.ycombinator.com/item?id=35416158) - [Global warming is killing Indians and Pakistanis](https://www.economist.com/asia/2023/04/02/global-warming-is-killing-indians-and-pakistanis)

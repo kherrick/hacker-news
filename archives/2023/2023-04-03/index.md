@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 02:07:03](https://news.ycombinator.com/item?id=35417692) - [Never in 20 years of working in tech have I been treated so unprofessionally](https://startupdreams.substack.com/p/never-in-my-20-years-of-working-in)
 * [2023-04-03, 01:58:05](https://news.ycombinator.com/item?id=35417631) - [Paris Votes to Ban E-Scooters](https://www.wsj.com/articles/paris-votes-to-ban-e-scooter-rental-companies-3ac621c7)
 * [2023-04-03, 01:51:49](https://news.ycombinator.com/item?id=35417596) - [Many wealthy people are considering leaving China](https://www.economist.com/china/2023/03/30/many-wealthy-people-are-considering-leaving-china)
 * [2023-04-03, 01:32:04](https://news.ycombinator.com/item?id=35417463) - [Life expectancy in the U.S. varies greatly by region](https://twitter.com/nickmmark/status/1642548933795909632)
