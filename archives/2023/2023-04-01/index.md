@@ -33,6 +33,7 @@
 * [2023-04-01, 17:40:34](https://news.ycombinator.com/item?id=35402225) - [Pine64 March Update: Tablet Bonanza](https://www.pine64.org/2023/04/01/march-update-tablet-bonanza/)
 * [2023-04-01, 17:10:40](https://news.ycombinator.com/item?id=35401968) - [Deepest fish ever caught on camera off Japan](https://www.bbc.co.uk/news/science-environment-65148876)
 * [2023-04-01, 17:05:51](https://news.ycombinator.com/item?id=35401923) - [“AI doomism is becoming indistinguishable from a religion”](https://twitter.com/ylecun/status/1642205736678637572)
+* [2023-04-01, 17:03:02](https://news.ycombinator.com/item?id=35401895) - [His software sang the words of God. Then it went silent](https://www.inverse.com/input/features/tropetrainer-thomas-buchler-torah-software)
 * [2023-04-01, 16:16:31](https://news.ycombinator.com/item?id=35401436) - [San Francisco could be on the verge of collapse. What should California do?](https://www.sfchronicle.com/opinion/editorials/article/downtown-san-francisco-17852552.php)
 * [2023-04-01, 15:47:31](https://news.ycombinator.com/item?id=35401185) - [The Origin of Joy Division’s Unknown Pleasures Album Cover Art (2015)](https://kottke.org/15/02/the-origin-of-the-joy-divisions-unknown-pleasures-album-cover-art)
 * [2023-04-01, 15:40:00](https://news.ycombinator.com/item?id=35401126) - [Can water solve a maze? [video]](https://www.youtube.com/watch?v=81ebWToAnvA)
