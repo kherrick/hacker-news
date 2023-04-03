@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 09:09:24](https://news.ycombinator.com/item?id=35420553) - [The Near-Lossless Image Formats Using Ultra-Fast LZ Codecs](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
 * [2023-04-03, 08:14:05](https://news.ycombinator.com/item?id=35420180) - [Russia confiscates passports of senior officials to stop defections](https://www.ft.com/content/c41be6b0-f625-46f2-91e4-d03eb4b6372b)
 * [2023-04-03, 07:28:01](https://news.ycombinator.com/item?id=35419771) - [Show HN: Unknown Pleasures, a tiny web experiment with WebGL](https://pouria.dev/unknown-pleasures)
 * [2023-04-03, 06:59:40](https://news.ycombinator.com/item?id=35419549) - [Parisians vote to ban e-scooters from French capital](https://www.reuters.com/world/europe/parisians-vote-ban-e-scooters-french-capital-2023-04-02/)

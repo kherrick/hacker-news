@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-03, 09:09:24](https://news.ycombinator.com/item?id=35420553) - [The Near-Lossless Image Formats Using Ultra-Fast LZ Codecs](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
 * [2023-04-03, 08:14:05](https://news.ycombinator.com/item?id=35420180) - [Russia confiscates passports of senior officials to stop defections](https://www.ft.com/content/c41be6b0-f625-46f2-91e4-d03eb4b6372b)
 * [2023-04-03, 07:28:01](https://news.ycombinator.com/item?id=35419771) - [Show HN: Unknown Pleasures, a tiny web experiment with WebGL](https://pouria.dev/unknown-pleasures)
 * [2023-04-03, 06:40:59](https://news.ycombinator.com/item?id=35419407) - [Ask HN: WWYD? Built a company valued at $1B and may walk away with nothing](https://news.ycombinator.com/item?id=35419407)
@@ -16,7 +17,6 @@
 * [2023-04-02, 17:16:40](https://news.ycombinator.com/item?id=35412788) - [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 * [2023-04-02, 16:40:23](https://news.ycombinator.com/item?id=35412416) - [Show HN: Shhhbb, an SSH BBS](https://donuts-are-good.github.io/shhhbb/)
 * [2023-04-02, 16:33:44](https://news.ycombinator.com/item?id=35412342) - [iAPX432: Gordon Moore, Risk and Intel’s Super-CISC Failure](https://thechipletter.substack.com/p/iapx432-gordon-moore-risk-and-intels)
-* [2023-04-02, 13:16:24](https://news.ycombinator.com/item?id=35410182) - [Ryuichi Sakamoto has died](https://www.clashmusic.com/news/ryuichi-sakamoto-has-died-cause-of-death/)
 * [2023-04-02, 05:55:53](https://news.ycombinator.com/item?id=35407617) - [Juan de Pareja: from Diego Velázquez’s slave to distinguished artist](https://www.theartnewspaper.com/2023/03/29/juan-de-pareja-from-slave-to-old-master)
 * [2023-04-02, 02:02:27](https://news.ycombinator.com/item?id=35406369) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-01, 15:47:31](https://news.ycombinator.com/item?id=35401185) - [The Origin of Joy Division’s Unknown Pleasures Album Cover Art (2015)](https://kottke.org/15/02/the-origin-of-the-joy-divisions-unknown-pleasures-album-cover-art)
