@@ -7,6 +7,7 @@
 * [2023-04-03, 18:47:42](https://news.ycombinator.com/item?id=35429269) - [Turn Notion into a UI for Postgres](https://news.ycombinator.com/item?id=35429269)
 * [2023-04-03, 18:42:57](https://news.ycombinator.com/item?id=35429198) - [Was There a U.S. Nuclear Weapons Accident at a Dutch Air Base?](https://fas.org/blogs/security/2023/04/volkel-nuclear-weapon-accident/)
 * [2023-04-03, 18:20:44](https://news.ycombinator.com/item?id=35428847) - [Pop_OS has a complicated name but it makes using Linux so easy](https://www.zdnet.com/article/pop-os-has-a-complicated-name-but-it-makes-using-linux-so-easy/)
+* [2023-04-03, 18:08:55](https://news.ycombinator.com/item?id=35428625) - [Stop-Motion Movies Are Animated at Aardman [video]](https://www.youtube.com/watch?v=jZvQzkFcKEM)
 * [2023-04-03, 18:05:43](https://news.ycombinator.com/item?id=35428568) - [Why paid masterminds are mental masturbation](https://jimclair.com/why-paid-masterminds-are-mental/)
 * [2023-04-03, 17:54:24](https://news.ycombinator.com/item?id=35428379) - [$70 RISC-V Computer from Pine64 Goes on Sale April 4 – OMG Linux](https://www.omglinux.com/star64-is-a-risc-v-single-board-pc/)
 * [2023-04-03, 17:47:45](https://news.ycombinator.com/item?id=35428225) - [Django 4.2 Released](https://www.djangoproject.com/weblog/2023/apr/03/django-42-released/)

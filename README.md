@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-03, 18:47:42](https://news.ycombinator.com/item?id=35429269) - [Turn Notion into a UI for Postgres](https://news.ycombinator.com/item?id=35429269)
 * [2023-04-03, 18:42:57](https://news.ycombinator.com/item?id=35429198) - [Was There a U.S. Nuclear Weapons Accident at a Dutch Air Base?](https://fas.org/blogs/security/2023/04/volkel-nuclear-weapon-accident/)
 * [2023-04-03, 18:20:44](https://news.ycombinator.com/item?id=35428847) - [Pop_OS has a complicated name but it makes using Linux so easy](https://www.zdnet.com/article/pop-os-has-a-complicated-name-but-it-makes-using-linux-so-easy/)
+* [2023-04-03, 18:08:55](https://news.ycombinator.com/item?id=35428625) - [Stop-Motion Movies Are Animated at Aardman [video]](https://www.youtube.com/watch?v=jZvQzkFcKEM)
 * [2023-04-03, 18:05:43](https://news.ycombinator.com/item?id=35428568) - [Why paid masterminds are mental masturbation](https://jimclair.com/why-paid-masterminds-are-mental/)
 * [2023-04-03, 17:54:24](https://news.ycombinator.com/item?id=35428379) - [$70 RISC-V Computer from Pine64 Goes on Sale April 4 – OMG Linux](https://www.omglinux.com/star64-is-a-risc-v-single-board-pc/)
 * [2023-04-03, 17:47:45](https://news.ycombinator.com/item?id=35428225) - [Django 4.2 Released](https://www.djangoproject.com/weblog/2023/apr/03/django-42-released/)
@@ -10,7 +12,6 @@
 * [2023-04-03, 17:00:42](https://news.ycombinator.com/item?id=35427343) - [Show HN: Hocus – self-hosted alternative to GitHub Codespaces using Firecracker](https://github.com/hocus-dev/hocus)
 * [2023-04-03, 17:00:31](https://news.ycombinator.com/item?id=35427338) - [Font Awesome (YC S15) Is Hiring a Remote, US-Based Product Designer](https://blog.fontawesome.com/hiring-a-product-designer/)
 * [2023-04-03, 16:32:08](https://news.ycombinator.com/item?id=35426781) - [Was MPLS Traffic Engineering Worthwhile?](https://systemsapproach.substack.com/p/was-mpls-traffic-engineering-worthwhile)
-* [2023-04-03, 16:27:09](https://news.ycombinator.com/item?id=35426679) - [Why MMAP in llama.cpp hides true memory usage](https://twitter.com/jeremyphoward/status/1642726595436883969)
 * [2023-04-03, 16:23:21](https://news.ycombinator.com/item?id=35426586) - [Adobe Firefly vs. MidJourney AI image generation](https://twitter.com/DrJimFan/status/1642921475849203712)
 * [2023-04-03, 16:18:48](https://news.ycombinator.com/item?id=35426482) - [Launch HN: OutSail (YC W23) – Wingsails to reduce cargo ship fuel consumption](https://news.ycombinator.com/item?id=35426482)
 * [2023-04-03, 15:52:47](https://news.ycombinator.com/item?id=35425897) - [How to Do Hard Things](https://every.to/no-small-plans/how-to-do-hard-things)
@@ -28,7 +29,6 @@
 * [2023-04-02, 05:47:46](https://news.ycombinator.com/item?id=35407578) - [Transcribing bird sound as human speech](https://daily.jstor.org/what-it-sounds-like-when-doves-cry/)
 * [2023-04-01, 21:56:16](https://news.ycombinator.com/item?id=35404505) - [Deer don&#x27;t regrow antlers the way lower animals regrow limbs](https://www.scmp.com/news/china/science/article/3214761/chinese-scientists-find-clue-bone-regrowth-deer-antler-study)
 * [2023-04-01, 17:03:02](https://news.ycombinator.com/item?id=35401895) - [His software sang the words of God. Then it went silent](https://www.inverse.com/input/features/tropetrainer-thomas-buchler-torah-software)
-* [2023-04-01, 14:43:36](https://news.ycombinator.com/item?id=35400671) - [Solaris movie review and film summary (1976)](https://www.rogerebert.com/reviews/solaris-1976)
 * [2023-04-01, 11:03:54](https://news.ycombinator.com/item?id=35399221) - [3Dfx Voodoo Memory Upgrade – 6MB Mod [video]](https://www.youtube.com/watch?v=pwGdw0eZVCQ)
 
 ## [Archives](archives/index.md)
