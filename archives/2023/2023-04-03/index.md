@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 21:00:54](https://news.ycombinator.com/item?id=35431216) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-04-03, 20:52:56](https://news.ycombinator.com/item?id=35431119) - [System76 Open Firmware](https://github.com/system76/firmware-open)
 * [2023-04-03, 20:02:51](https://news.ycombinator.com/item?id=35430432) - [State-of-the-art open-source chatbot, Vicuna-13B, just released model weights](https://twitter.com/lmsysorg/status/1642968294998306816)
 * [2023-04-03, 19:53:43](https://news.ycombinator.com/item?id=35430301) - [NASA Names Astronauts to Next Moon Mission](https://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis/)
 * [2023-04-03, 19:20:27](https://news.ycombinator.com/item?id=35429777) - [Tennis Balls Serve as Decent Bicycle Tires That Don’t Easily Puncture](https://hackaday.com/2023/04/03/tennis-balls-serve-as-decent-bicycle-tires-that-dont-easily-puncture/)
