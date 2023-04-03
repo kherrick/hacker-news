@@ -33,6 +33,7 @@
 * [2023-04-01, 17:05:51](https://news.ycombinator.com/item?id=35401923) - [“AI doomism is becoming indistinguishable from a religion”](https://twitter.com/ylecun/status/1642205736678637572)
 * [2023-04-01, 16:16:31](https://news.ycombinator.com/item?id=35401436) - [San Francisco could be on the verge of collapse. What should California do?](https://www.sfchronicle.com/opinion/editorials/article/downtown-san-francisco-17852552.php)
 * [2023-04-01, 15:47:31](https://news.ycombinator.com/item?id=35401185) - [The Origin of Joy Division’s Unknown Pleasures Album Cover Art (2015)](https://kottke.org/15/02/the-origin-of-the-joy-divisions-unknown-pleasures-album-cover-art)
+* [2023-04-01, 15:40:00](https://news.ycombinator.com/item?id=35401126) - [Can water solve a maze? [video]](https://www.youtube.com/watch?v=81ebWToAnvA)
 * [2023-04-01, 15:38:28](https://news.ycombinator.com/item?id=35401114) - [MacUser 1996: How to Rig Up the Fastest Photoshop Machine](https://archive.org/details/MacUser9606June1996)
 * [2023-04-01, 15:33:36](https://news.ycombinator.com/item?id=35401073) - [The Contradictions of Sam Altman](https://www.wsj.com/articles/chatgpt-sam-altman-artificial-intelligence-openai-b0e1c8c9)
 * [2023-04-01, 14:53:30](https://news.ycombinator.com/item?id=35400760) - [Managers, Stop Distracting Your Employees](https://hbr.org/2023/01/managers-stop-distracting-your-employees)

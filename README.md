@@ -2,7 +2,6 @@
 
 * [2023-04-03, 05:46:16](https://news.ycombinator.com/item?id=35418999) - [Midjourney CEO Silencing Satire About Xi Jinping](https://www.techdirt.com/2023/03/31/midjourney-ceo-says-political-satire-in-china-is-pretty-not-okay-but-apparently-silencing-satire-about-xi-jinping-is-pretty-okay/)
 * [2023-04-03, 05:04:25](https://news.ycombinator.com/item?id=35418760) - [Saying Goodbye to GitHub](https://ersei.net/en/blog/bye-bye-github)
-* [2023-04-03, 04:52:10](https://news.ycombinator.com/item?id=35418690) - [Neuralink’s FDA troubles are just the beginning](https://spectrum.ieee.org/neuralink-seeks-fda-approval)
 * [2023-04-03, 02:59:10](https://news.ycombinator.com/item?id=35418017) - [The Nine Billion Names Of God (2021) [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
 * [2023-04-02, 23:00:05](https://news.ycombinator.com/item?id=35416224) - [Starlink internet is going from rural savior to unreliable luxury](https://www.xda-developers.com/starlink-internet-rural-savior-unreliable-luxury/)
 * [2023-04-02, 22:05:23](https://news.ycombinator.com/item?id=35415758) - [The day Windows died](https://thomasbandt.com/the-day-windows-died)
@@ -21,6 +20,7 @@
 * [2023-04-02, 13:16:24](https://news.ycombinator.com/item?id=35410182) - [Ryuichi Sakamoto has died](https://www.clashmusic.com/news/ryuichi-sakamoto-has-died-cause-of-death/)
 * [2023-04-02, 02:02:27](https://news.ycombinator.com/item?id=35406369) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-01, 15:47:31](https://news.ycombinator.com/item?id=35401185) - [The Origin of Joy Division’s Unknown Pleasures Album Cover Art (2015)](https://kottke.org/15/02/the-origin-of-the-joy-divisions-unknown-pleasures-album-cover-art)
+* [2023-04-01, 15:40:00](https://news.ycombinator.com/item?id=35401126) - [Can water solve a maze? [video]](https://www.youtube.com/watch?v=81ebWToAnvA)
 * [2023-04-01, 15:38:28](https://news.ycombinator.com/item?id=35401114) - [MacUser 1996: How to Rig Up the Fastest Photoshop Machine](https://archive.org/details/MacUser9606June1996)
 * [2023-04-01, 14:53:30](https://news.ycombinator.com/item?id=35400760) - [Managers, stop distracting employees](https://hbr.org/2023/01/managers-stop-distracting-your-employees)
 * [2023-04-01, 14:29:45](https://news.ycombinator.com/item?id=35400562) - [Pursuing status will never bring true happiness](https://every.to/no-small-plans/the-status-trap)
