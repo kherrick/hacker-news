@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 17:00:42](https://news.ycombinator.com/item?id=35427343) - [Show HN: Hocus – self-hosted alternative to GitHub Codespaces using Firecracker](https://github.com/hocus-dev/hocus)
+* [2023-04-03, 17:00:31](https://news.ycombinator.com/item?id=35427338) - [Font Awesome (YC S15) Is Hiring a Remote, US-Based Product Designer](https://blog.fontawesome.com/hiring-a-product-designer/)
 * [2023-04-03, 16:32:08](https://news.ycombinator.com/item?id=35426781) - [Was MPLS Traffic Engineering Worthwhile?](https://systemsapproach.substack.com/p/was-mpls-traffic-engineering-worthwhile)
 * [2023-04-03, 16:27:09](https://news.ycombinator.com/item?id=35426679) - [Why MMAP in llama.cpp hides true memory usage](https://twitter.com/jeremyphoward/status/1642726595436883969)
 * [2023-04-03, 16:18:48](https://news.ycombinator.com/item?id=35426482) - [Launch HN: OutSail (YC W23) – Wingsails to reduce cargo ship fuel consumption](https://news.ycombinator.com/item?id=35426482)
@@ -18,6 +20,7 @@
 * [2023-04-03, 15:02:01](https://news.ycombinator.com/item?id=35424805) - [Ask HN: Who wants to be hired? (April 2023)](https://news.ycombinator.com/item?id=35424805)
 * [2023-04-03, 14:56:22](https://news.ycombinator.com/item?id=35424678) - [Alibaba breaks itself up in six](https://www.economist.com/business/2023/03/30/alibaba-breaks-itself-up-in-six)
 * [2023-04-03, 14:52:27](https://news.ycombinator.com/item?id=35424609) - [Experts warn yearly checkups carry risks and do not reduce mortality](https://english.elpais.com/science-tech/2023-04-01/do-you-need-a-yearly-checkup-experts-warn-that-they-carry-risks-and-do-not-reduce-mortality.html)
+* [2023-04-03, 14:48:52](https://news.ycombinator.com/item?id=35424551) - [Comparing K3s with Kubernetes How K3s Is Often the Better Choice](https://www.hoelzel.it/kubernetes/2023/04/01/k3s-is-Often-the-Better-Choice.html)
 * [2023-04-03, 14:44:20](https://news.ycombinator.com/item?id=35424459) - [Birds with neurotoxin-laden feathers discovered in New Guinea](https://phys.org/news/2023-03-birds-neurotoxin-laden-feathers-guinea.html)
 * [2023-04-03, 14:42:25](https://news.ycombinator.com/item?id=35424428) - [‘Hot Ones’ Was a Slow Burn All Along](https://www.nytimes.com/2023/04/03/arts/television/hot-ones-youtube-show.html)
 * [2023-04-03, 14:19:28](https://news.ycombinator.com/item?id=35424005) - [Show HN: Unriddle – Create your own GPT-4 on top of any document](https://www.unriddle.ai/)
