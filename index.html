@@ -129,25 +129,170 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="35426156">
+        <section id="35426679">
           <h3>
             <a
               class="item"
-              href="https://www.bbc.com/news/science-environment-65165845"
-              >NASA Names Astronauts for Artemis Moon Mission</a
+              href="https://twitter.com/jeremyphoward/status/1642726595436883969"
+              >Why MMAP in llama.cpp hides true memory usage</a
             >
           </h3>
           <section>
             <h4>
-              <span>2023-04-03 @ 16:03:33</span
+              <span>2023-04-03 @ 16:27:09</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35426156"
+                ><a href="https://news.ycombinator.com/item?id=35426679"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="35426482">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=35426482"
+              >Launch HN: OutSail (YC W23) – Wingsails to reduce cargo ship fuel
+              consumption</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-04-03 @ 16:18:48</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35426482"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://outsailshipping.com/"
+                >https://outsailshipping.com/</a
+              >). We’re building a sail the size of a 747 that rolls up into a
+              shipping container. When deployed, it will generate thrust from
+              the wind to reduce the fuel consumption of a cargo ship. An array
+              of these devices will reduce fuel consumption on ships by up to
+              20%. These sails are easily stowed and removed to cause no
+              interference with cargo operations. Here’s a short video showing
+              our prototype:
+              <a href="https://www.youtube.com/watch?v=VUpVqzpym54"
+                >https://www.youtube.com/watch?v=VUpVqzpym54</a
+              >.
+              <p>
+                Sails powered ships for millennia; but then the convenience of
+                energy-dense fuels displaced sails. As ship speeds eventually
+                exceeded wind speeds, the consensus became that sails had no
+                place in shipping and were relegated to hobbyists and sport.
+                Fast forward a century and a half, and maritime shipping, like
+                all other industries, is facing a reckoning to mitigate the
+                greenhouse gasses produced by their activities.
+              </p>
+              <p>
+                The International Maritime Organization (IMO) has introduced new
+                regulations which use a vessel’s Carbon Intensity Indicator
+                (CII) to grade ships. This grading scale becomes more aggressive
+                over time, and any ship with a poor grade must take corrective
+                action. The corrective actions can be as non-invasive as
+                reducing speed (aka: slow steaming) or as extreme as a retrofit
+                to use a different, cleaner fuel source. This costs millions and
+                takes a ship out of commission for months, and it’s difficult to
+                ensure your (now more expensive) fuel is available at every port
+                of call. Ship owners are hedging their bets that slow steaming
+                will dominate their future, with ship order books full to
+                reflect the increased capacity needed when containers take 20%
+                longer to cross the ocean.
+              </p>
+              <p>
+                Or option three. There is sufficient wind on the ocean to power
+                the entire shipping industry, if you’re willing to grab it. Wind
+                Assisted Ship Propulsion (WASP) devices can be used as a
+                corrective action to improve a vessel’s CII rating, without
+                reducing ship speed or changing the route. In other words, a
+                return of sails.
+              </p>
+              <p>
+                We are hardware engineers with over two decades of experience
+                between us, working at Tesla, SpaceX, JPL, Relativity, and some
+                startups. The idea for OutSail came from Arpan and Joseph
+                getting coffee after work one day. When we asked each other
+                “What would you do if you weren’t building satellites?” maritime
+                cargo came up from both sides; Arpan from having studied the
+                industry for opportunities to reduce emissions, and Joseph from
+                a love of hydrodynamics and maybe too many sea-shanties. Bailey
+                and Arpan, meanwhile, had been looking at working on bicycling
+                infrastructure. What brought the three of us together was
+                actually a Dungeons &amp; Dragons game where we realized we made
+                a good team! We settled on OutSail as a good fit for our
+                hardware hacking mentality, trading in our druids staffs for
+                spanners.
+              </p>
+              <p>
+                Aerodynamically, sails are simply vertical wings. Wind blowing
+                across the vessel causes the sail to generate lift and drag, and
+                the resultant vector has some forward component to pull the ship
+                through the water. However, if the wind comes from an angle too
+                close to the direction of travel, there is no thrust. As an
+                added complication, the sail only sees the <i>relative</i> wind.
+                If the ship travels faster, the wind will appear to come from
+                closer and closer to the direction of travel, even if the true
+                wind is coming from perpendicular to your course! Despite this,
+                standard sails can still produce forward thrust as long as the
+                wind is at least 20 degrees off from directly in front of the
+                vessel. This is how our sails can still save power, even on a
+                fast moving vessel.
+              </p>
+              <p>
+                There are many sail technologies out there. A common question we
+                get asked is “Are you going to use flettner rotors/suction
+                airfoils?”. Both of these technologies use power supplied by the
+                ship to increase the lift produced by a surface; rotor-sails
+                spin, and suction airfoils…suck? Each of these have a place,
+                especially at low vessel speeds. But our customers ask us for a
+                solution that works for container ships cruising at the
+                relatively high speed of 22kt. At these speeds, the relative
+                wind is almost always ahead of you, so lift/drag becomes more
+                important. Powered sails suffer from poor lift/drag, both from
+                the high induced drag from very high lift coefficients, and
+                system losses from drawing on ship’s power. So no we are not
+                going with flettner rotors/suction airfoils. While they are the
+                new exciting technology on the block, if you factor in their
+                power usage and high drag ratio, they are just not as practical
+                as a simple sail.
+              </p>
+              <p>
+                So now that we’ve given a general summary of sailing, it’s time
+                to explain how a 747 wing will ever fit inside a 9ft tall cargo
+                container. It’s simple really: imagine a tape measure. In a tape
+                measure a thin, flexible strip of metal is wound into a spiral.
+                Then, when the metal is uncoiled, it naturally returns to its
+                original shape. That’s exactly how we plan to make our sails.
+                The skin of our sail or the inner spars (we haven’t finalized
+                our design) will be made of tape measure like material (2mm
+                thick steel) and the wing will be able to extend out of the
+                cargo container. The video in the first paragraph explains this
+                in a bit more detail.
+              </p>
+              <p>
+                By fitting our sail into a cargo container we allow for our
+                device to be installed on any cargo ship right at port. Remember
+                how we mentioned that some shippers are ordering a lot more
+                ships and some ships are getting retrofitted with new fuel?
+                Well, shipyards are backed up for the next 5 years. By making a
+                device that requires no shipyard to install, not only will we
+                drastically outcompete other retrofit WASP companies in terms of
+                deployment cost, but we will be the only company with a product
+                shippers can put on their ship without a multiple year wait
+                time.
+              </p>
+              <p>
+                Do you have any interesting stories around sailing or wind tech?
+                We would love to hear your ideas, experiences, and feedback on
+                any and all of the above!
+              </p>
+            </div>
           </section>
         </section>
         <section id="35425863">
@@ -163,32 +308,11 @@
             <h4>
               <span>2023-04-03 @ 15:51:24</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35425863"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35425689">
-          <h3>
-            <a
-              class="item"
-              href="https://www.businessinsider.com/meta-stops-offering-remote-work-new-job-postings-zuckerberg-2023-3"
-              >Meta stops offering remote work in new job postings</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-04-03 @ 15:42:30</span
-              ><span class="points-container"
-                >Points: <span class="points">44</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35425689"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -205,11 +329,11 @@
             <h4>
               <span>2023-04-03 @ 15:35:32</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35425537"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -226,11 +350,11 @@
             <h4>
               <span>2023-04-03 @ 15:02:58</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35424835"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -245,11 +369,11 @@
             <h4>
               <span>2023-04-03 @ 15:02:02</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35424807"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
             <div class="text">
@@ -306,11 +430,11 @@
             <h4>
               <span>2023-04-03 @ 15:02:01</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35424806"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
             <div class="text">
@@ -329,11 +453,11 @@
             <h4>
               <span>2023-04-03 @ 15:02:01</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35424805"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
             <div class="text">
@@ -362,11 +486,11 @@
             <h4>
               <span>2023-04-03 @ 14:56:22</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35424678"
                   >Comments</a
-                ><span class="descendants">: 135</span></span
+                ><span class="descendants">: 142</span></span
               >
             </h4>
           </section>
@@ -383,7 +507,7 @@
             <h4>
               <span>2023-04-03 @ 14:44:20</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35424459"
                   >Comments</a
@@ -404,11 +528,31 @@
             <h4>
               <span>2023-04-03 @ 14:42:25</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35424428"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 27</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="35424005">
+          <h3>
+            <a class="item" href="https://www.unriddle.ai/"
+              >Show HN: Unriddle – Create your own GPT-4 on top of any
+              document</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-04-03 @ 14:19:28</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35424005"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -425,11 +569,11 @@
             <h4>
               <span>2023-04-03 @ 13:53:28</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35423569"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -446,33 +590,11 @@
             <h4>
               <span>2023-04-03 @ 13:33:53</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35423290"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35423252">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theregister.com/2023/04/03/opinion_column/"
-              >In the battle between Microsoft and Google, LLM is the weapon too
-              deadly to use</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-04-03 @ 13:32:07</span
-              ><span class="points-container"
-                >Points: <span class="points">47</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35423252"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -489,11 +611,11 @@
             <h4>
               <span>2023-04-03 @ 13:06:26</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35422848"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -525,7 +647,7 @@
             <h4>
               <span>2023-04-03 @ 11:56:01</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35421962"
                   >Comments</a
@@ -547,11 +669,11 @@
             <h4>
               <span>2023-04-03 @ 11:53:09</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35421935"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -568,11 +690,11 @@
             <h4>
               <span>2023-04-03 @ 11:10:09</span
               ><span class="points-container"
-                >Points: <span class="points">217</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35421554"
                   >Comments</a
-                ><span class="descendants">: 191</span></span
+                ><span class="descendants">: 194</span></span
               >
             </h4>
           </section>
@@ -589,11 +711,11 @@
             <h4>
               <span>2023-04-03 @ 10:28:44</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35421162"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -608,11 +730,11 @@
             <h4>
               <span>2023-04-03 @ 10:11:50</span
               ><span class="points-container"
-                >Points: <span class="points">688</span></span
+                >Points: <span class="points">703</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35421034"
                   >Comments</a
-                ><span class="descendants">: 242</span></span
+                ><span class="descendants">: 245</span></span
               >
             </h4>
           </section>
@@ -630,11 +752,11 @@
             <h4>
               <span>2023-04-03 @ 09:58:44</span
               ><span class="points-container"
-                >Points: <span class="points">258</span></span
+                >Points: <span class="points">268</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35420946"
                   >Comments</a
-                ><span class="descendants">: 572</span></span
+                ><span class="descendants">: 602</span></span
               >
             </h4>
           </section>
@@ -651,11 +773,11 @@
             <h4>
               <span>2023-04-03 @ 09:09:24</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35420553"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -670,7 +792,7 @@
             <h4>
               <span>2023-04-03 @ 07:28:01</span
               ><span class="points-container"
-                >Points: <span class="points">520</span></span
+                >Points: <span class="points">524</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35419771"
                   >Comments</a
@@ -695,7 +817,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35407578"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -712,11 +834,11 @@
             <h4>
               <span>2023-04-01 @ 17:43:48</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35402259"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -731,11 +853,11 @@
             <h4>
               <span>2023-04-01 @ 15:40:00</span
               ><span class="points-container"
-                >Points: <span class="points">268</span></span
+                >Points: <span class="points">276</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35401126"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -752,11 +874,11 @@
             <h4>
               <span>2023-04-01 @ 14:43:36</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35400671"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -772,11 +894,11 @@
             <h4>
               <span>2023-04-01 @ 11:14:14</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35399272"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -791,11 +913,11 @@
             <h4>
               <span>2023-04-01 @ 11:03:54</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35399221"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
