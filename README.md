@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 09:51:43](https://news.ycombinator.com/item?id=35420895) - [Sam Altman wants to convince billions to scan eyes to prove they aren’t bots](https://finance.yahoo.com/news/openai-ceo-sam-altman-wants-110000591.html)
 * [2023-04-03, 09:48:03](https://news.ycombinator.com/item?id=35420863) - [Wronger Than Wrong](https://en.wikipedia.org/wiki/Wronger_than_wrong)
 * [2023-04-03, 09:09:24](https://news.ycombinator.com/item?id=35420553) - [The Near-Lossless Image Formats Using Ultra-Fast LZ Codecs](http://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
@@ -13,7 +14,6 @@
 * [2023-04-02, 21:58:16](https://news.ycombinator.com/item?id=35415697) - [How Software Companies Die (1995)](https://gist.github.com/eliot-akira/6eaecda619d0fafd1d74)
 * [2023-04-02, 21:15:15](https://news.ycombinator.com/item?id=35415305) - [Paris votes to ban rental e-scooters](https://www.france24.com/en/live-news/20230402-paris-votes-on-ban-for-rental-e-scooters)
 * [2023-04-02, 18:43:16](https://news.ycombinator.com/item?id=35413770) - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
-* [2023-04-02, 18:27:37](https://news.ycombinator.com/item?id=35413594) - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
 * [2023-04-02, 17:16:40](https://news.ycombinator.com/item?id=35412788) - [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 * [2023-04-02, 16:40:23](https://news.ycombinator.com/item?id=35412416) - [Show HN: Shhhbb, an SSH BBS](https://donuts-are-good.github.io/shhhbb/)
 * [2023-04-02, 05:55:53](https://news.ycombinator.com/item?id=35407617) - [Juan de Pareja: from Diego Velázquez’s slave to distinguished artist](https://www.theartnewspaper.com/2023/03/29/juan-de-pareja-from-slave-to-old-master)
