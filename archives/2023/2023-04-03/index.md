@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 13:33:53](https://news.ycombinator.com/item?id=35423290) - [Scientist Rafael Luque suspended without pay for 13 years](https://english.elpais.com/science-tech/2023-04-02/one-of-the-worlds-most-cited-scientists-rafael-luque-suspended-without-pay-for-13-years.html)
 * [2023-04-03, 12:58:29](https://news.ycombinator.com/item?id=35422739) - [Valve Shows a Drop in Linux Gamers for March, but the Numbers Are Questionable](https://www.phoronix.com/news/Steam-Linux-March-2023)
 * [2023-04-03, 12:45:44](https://news.ycombinator.com/item?id=35422570) - [Animated Unknown Pleasures in 3 lines of K](http://johnearnest.github.io/ok/ike/ike.html?gist=f78af1a96ec206dc3b07ike.html?key=c9argHWP)
 * [2023-04-03, 12:41:01](https://news.ycombinator.com/item?id=35422494) - [Stable Diffusion copyright lawsuits could be a legal earthquake for AI](https://arstechnica.com/tech-policy/2023/04/stable-diffusion-copyright-lawsuits-could-be-a-legal-earthquake-for-ai/)
