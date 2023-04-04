@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 17:28:59](https://news.ycombinator.com/item?id=35443084) - [Do Kwon Faces 100 Years in Prison in the US and 40 Years in South Korea](https://news.coincu.com/178458-do-kwon-100-years-40-years-in-south-korea/)
 * [2023-04-04, 17:20:14](https://news.ycombinator.com/item?id=35442947) - [Ask HN: Are you still doing Intermittent Fasting?](https://news.ycombinator.com/item?id=35442947)
 * [2023-04-04, 17:15:53](https://news.ycombinator.com/item?id=35442890) - [Show HN: Gat – cat alternative written in Go](https://github.com/koki-develop/gat)
 * [2023-04-04, 17:01:15](https://news.ycombinator.com/item?id=35442681) - [Skio (YC S20) Is Hiring](https://skio.com/careers/)
@@ -19,7 +20,6 @@
 * [2023-04-04, 14:38:06](https://news.ycombinator.com/item?id=35440348) - [Tell HN: The ratio of wants-to-be-hired to is-hiring is at a record high 0.94](https://news.ycombinator.com/item?id=35440348)
 * [2023-04-04, 13:55:35](https://news.ycombinator.com/item?id=35439673) - [Amazon to close Book Depository online shop](https://www.theguardian.com/books/2023/apr/04/amazon-to-close-book-depository-online-shop)
 * [2023-04-04, 13:34:29](https://news.ycombinator.com/item?id=35439326) - [Why TinyML is still so hard to get excited about](https://staceyoniot.com/why-tinyml-is-still-so-hard-to-get-excited-about/)
-* [2023-04-04, 11:58:09](https://news.ycombinator.com/item?id=35438192) - [MLOps is mostly data engineering](https://www.cpard.xyz/posts/mlops_is_mostly_data_engineering/)
 * [2023-04-04, 11:42:33](https://news.ycombinator.com/item?id=35438068) - [How to be a -10x Engineer](https://taylor.town/-10x)
 * [2023-04-04, 09:52:57](https://news.ycombinator.com/item?id=35437254) - [We need a more sophisticated debate about AI](https://www.ft.com/content/87108d74-b4fe-4271-bdfb-7828ba2ea351)
 * [2023-04-04, 09:35:16](https://news.ycombinator.com/item?id=35437136) - [Sugihara&#x27;s Dog](https://twitter.com/AkiyoshiKitaoka/status/1642871991932944385)

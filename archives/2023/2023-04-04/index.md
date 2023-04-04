@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 17:28:59](https://news.ycombinator.com/item?id=35443084) - [Do Kwon Faces 100 Years in Prison in the US and 40 Years in South Korea](https://news.coincu.com/178458-do-kwon-100-years-40-years-in-south-korea/)
 * [2023-04-04, 17:20:14](https://news.ycombinator.com/item?id=35442947) - [Ask HN: Are you still doing Intermittent Fasting?](https://news.ycombinator.com/item?id=35442947)
 * [2023-04-04, 17:15:53](https://news.ycombinator.com/item?id=35442890) - [Show HN: Gat – cat alternative written in Go](https://github.com/koki-develop/gat)
 * [2023-04-04, 17:01:15](https://news.ycombinator.com/item?id=35442681) - [Skio (YC S20) Is Hiring](https://skio.com/careers/)
