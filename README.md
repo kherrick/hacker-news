@@ -29,7 +29,7 @@
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [Even if you can&#x27;t write assembly, you can read disassembly](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
 * [2023-04-04, 03:43:47](https://news.ycombinator.com/item?id=35434768) - [How to pack a stereo signal in one record groove](https://www.vinylrecorder.com/stereo.html)
 * [2023-04-03, 23:33:03](https://news.ycombinator.com/item?id=35432918) - [Proton’s mass radius is apparently shorter than its charge radius](https://arstechnica.com/science/2023/04/protons-mass-radius-is-apparently-shorter-than-its-charge-radius/)
-* [2023-04-03, 22:29:20](https://news.ycombinator.com/item?id=35432206) - [Photographer Captures Ultra-Rare Red Ring of Light Over Italy](https://petapixel.com/2023/04/03/photographer-captures-ultra-rare-red-ring-of-light-over-italy/)
+* [2023-04-03, 22:29:20](https://news.ycombinator.com/item?id=35432206) - [Photographer captures ultra-rare red ring of light over Italy](https://petapixel.com/2023/04/03/photographer-captures-ultra-rare-red-ring-of-light-over-italy/)
 
 ## [Archives](archives/index.md)
 
