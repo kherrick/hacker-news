@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 15:27:33](https://news.ycombinator.com/item?id=35441211) - [Frank founder allegedly defrauded JPMorgan out of $175M hit with federal charges](https://www.businessinsider.com/charlie-javice-frank-criminal-charges-financial-fraud-jpmorgan-chase-2023-1)
 * [2023-04-04, 15:17:34](https://news.ycombinator.com/item?id=35441047) - [Arizona Fight over Half-Cent Sales Tax Threatens Semiconductor Expansion](https://www.wsj.com/articles/arizona-fight-over-half-cent-sales-tax-threatens-semiconductor-expansion-1cd5c552)
 * [2023-04-04, 15:02:16](https://news.ycombinator.com/item?id=35440789) - [Researchers create new classification of chess openings](https://techxplore.com/news/2023-04-classification-chess.html)
 * [2023-04-04, 14:58:40](https://news.ycombinator.com/item?id=35440719) - [China&#x27;s tech weapon: Delay mergers for leverage, aid rivals](https://www.wsj.com/articles/chinas-new-tech-weapon-dragging-its-feet-on-global-merger-approvals-d653ca4a)
@@ -11,8 +12,6 @@
 * [2023-04-04, 13:55:35](https://news.ycombinator.com/item?id=35439673) - [Amazon to close Book Depository online shop](https://www.theguardian.com/books/2023/apr/04/amazon-to-close-book-depository-online-shop)
 * [2023-04-04, 13:39:20](https://news.ycombinator.com/item?id=35439393) - [Double-anonymous peer review reduces reviewer bias, finds three-year trial](https://www.britishecologicalsociety.org/double-anonymous-peer-review-reduces-reviewer-bias-find-three-year-trial/)
 * [2023-04-04, 13:34:29](https://news.ycombinator.com/item?id=35439326) - [Why TinyML is still so hard to get excited about](https://staceyoniot.com/why-tinyml-is-still-so-hard-to-get-excited-about/)
-* [2023-04-04, 13:27:49](https://news.ycombinator.com/item?id=35439232) - [The End of Matter (1906)](https://en.wikisource.org/wiki/Translation:The_End_of_Matter)
-* [2023-04-04, 12:18:48](https://news.ycombinator.com/item?id=35438400) - [Show HN: Promptr, let GPT operate on your codebase and other useful goodies](https://github.com/ferrislucas/promptr)
 * [2023-04-04, 12:00:52](https://news.ycombinator.com/item?id=35438223) - [Reclaim Protocol (YC W21) Is Hiring Mechanism Design&#x2F;Game Theory Researchers](https://www.ycombinator.com/companies/questbook/jobs/BqXBrUU-game-theory-mechanism-design-researcher)
 * [2023-04-04, 11:58:09](https://news.ycombinator.com/item?id=35438192) - [MLOps is mostly data engineering](https://www.cpard.xyz/posts/mlops_is_mostly_data_engineering/)
 * [2023-04-04, 11:42:33](https://news.ycombinator.com/item?id=35438068) - [How to be a -10x Engineer](https://taylor.town/-10x)
@@ -24,6 +23,7 @@
 * [2023-04-04, 09:21:01](https://news.ycombinator.com/item?id=35437065) - [Circuit.js – Electronic circuit simulator on the web](http://lushprojects.com/circuitjs/circuitjs.html)
 * [2023-04-04, 08:17:17](https://news.ycombinator.com/item?id=35436605) - [Emacs in Odd Places (2020)](https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places)
 * [2023-04-04, 08:16:23](https://news.ycombinator.com/item?id=35436600) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
+* [2023-04-04, 07:10:48](https://news.ycombinator.com/item?id=35436154) - [Totem construction system with cuttable parts](https://totemmaker.net/)
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [Even if you can&#x27;t write assembly, you can read disassembly](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
 * [2023-04-04, 03:43:47](https://news.ycombinator.com/item?id=35434768) - [How to pack a stereo signal in one record groove](https://www.vinylrecorder.com/stereo.html)
 * [2023-04-04, 02:50:53](https://news.ycombinator.com/item?id=35434374) - [Flecs – A fast entity component system for C and C++](https://www.flecs.dev/flecs/)
