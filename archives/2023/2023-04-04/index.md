@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 17:01:15](https://news.ycombinator.com/item?id=35442681) - [Skio (YC S20) Is Hiring](https://skio.com/careers/)
+* [2023-04-04, 16:24:22](https://news.ycombinator.com/item?id=35442116) - [New tool from curl creator – trurl – for URL parsing and manipulation](https://github.com/curl/trurl)
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
 * [2023-04-04, 16:17:09](https://news.ycombinator.com/item?id=35442001) - [‘This shouldn’t be happening’: levels of banned CFCs rising](https://www.nature.com/articles/d41586-023-00940-2)
 * [2023-04-04, 16:16:54](https://news.ycombinator.com/item?id=35441997) - [Supercentenarian records show patterns indicative of errors and pension fraud](https://www.biorxiv.org/content/10.1101/704080v2)
