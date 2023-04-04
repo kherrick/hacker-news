@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 04:55:11](https://news.ycombinator.com/item?id=35435253) - [Ask HN: Fastest way to turn a Jupyter notebook into a website these days?](https://news.ycombinator.com/item?id=35435253)
 * [2023-04-04, 04:45:35](https://news.ycombinator.com/item?id=35435186) - [How SerenityOS Declares Ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
 * [2023-04-04, 04:34:58](https://news.ycombinator.com/item?id=35435126) - [Calling all open source maintainers – The GitHub Blog](https://github.blog/2023-04-03-calling-all-open-source-maintainers/)
 * [2023-04-04, 03:46:29](https://news.ycombinator.com/item?id=35434790) - [An LLM playground you can run on your laptop](https://github.com/nat/openplayground)
@@ -28,7 +29,6 @@
 * [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 05:34:38](https://news.ycombinator.com/item?id=35418933) - [Parquet: More than just “Turbo CSV”](https://csvbase.com/blog/3)
 * [2023-04-03, 03:46:08](https://news.ycombinator.com/item?id=35418320) - [Rational Dress Society](https://en.wikipedia.org/wiki/Rational_Dress_Society)
-* [2023-04-03, 03:42:33](https://news.ycombinator.com/item?id=35418303) - [An Essay on Diseases Incidental to Literary and Sedentary Persons (1768)](https://publicdomainreview.org/collection/blights-of-the-bookish)
 * [2023-04-01, 17:03:02](https://news.ycombinator.com/item?id=35401895) - [His software sang the words of God. Then it went silent](https://www.inverse.com/input/features/tropetrainer-thomas-buchler-torah-software)
 
 ## [Archives](archives/index.md)
