@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-04, 07:52:30](https://news.ycombinator.com/item?id=35436435) - [Physicists Create &#x27;Slits in Time&#x27; and Discover Unexpected Physics in Experiment](https://www.vice.com/en/article/dy38xk/physicists-created-slits-in-time-and-discovered-unexpected-physics-in-experiment)
 * [2023-04-04, 07:00:32](https://news.ycombinator.com/item?id=35436068) - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 400GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [If you can&#x27;t write assembly like a poet, you can read disassembly like a hunter](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
 * [2023-04-04, 05:42:54](https://news.ycombinator.com/item?id=35435563) - [The Electric Vehicles We Need Now Are E-Bikes (2022)](https://www.bloomberg.com/news/articles/2022-03-15/the-electric-vehicles-we-need-now-are-e-bikes)
@@ -25,6 +24,7 @@
 * [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 05:34:38](https://news.ycombinator.com/item?id=35418933) - [Parquet: An efficient, binary file format for table data](https://csvbase.com/blog/3)
 * [2023-04-03, 04:57:30](https://news.ycombinator.com/item?id=35418718) - [Five non-fiction graphic books on lives in dangerous locations](https://www.economist.com/the-economist-reads/2023/03/31/five-non-fiction-graphic-books-on-lives-in-dangerous-locations)
+* [2023-04-03, 04:42:54](https://news.ycombinator.com/item?id=35418642) - [Ancient soldiers used sound to frighten and confuse their enemies (2022)](https://theconversation.com/from-whistling-arrows-and-trumpeting-elephants-to-battle-cries-and-eerie-horns-ancient-soldiers-used-sound-to-frighten-and-confuse-their-enemies-182116)
 * [2023-04-03, 03:48:24](https://news.ycombinator.com/item?id=35418336) - [NAND Flash Data Recovery Cookbook (2013) [pdf]](http://web.archive.org/web/20180516153837/http://www.adreca.net/NAND-Flash-Data-Recovery-Cookbook.pdf)
 * [2023-04-03, 03:46:08](https://news.ycombinator.com/item?id=35418320) - [Rational Dress Society](https://en.wikipedia.org/wiki/Rational_Dress_Society)
 * [2023-04-03, 03:42:33](https://news.ycombinator.com/item?id=35418303) - [An Essay on Diseases Incidental to Literary and Sedentary Persons (1768)](https://publicdomainreview.org/collection/blights-of-the-bookish)
