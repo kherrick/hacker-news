@@ -69,6 +69,7 @@
 * [2023-04-04, 08:43:29](https://news.ycombinator.com/item?id=35436822) - [We are hurtling toward a glitchy, spammy, scammy, AI-powered internet](https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powe)
 * [2023-04-04, 08:17:17](https://news.ycombinator.com/item?id=35436605) - [Emacs in Odd Places (2020)](https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places)
 * [2023-04-04, 08:16:23](https://news.ycombinator.com/item?id=35436600) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
+* [2023-04-04, 08:09:53](https://news.ycombinator.com/item?id=35436561) - [Technical Solutions versus Processes](https://lucaskostka.com/posts/technical-vs-processes-solutions)
 * [2023-04-04, 07:52:30](https://news.ycombinator.com/item?id=35436435) - [Physicists Create &#x27;Slits in Time&#x27; and Discover Unexpected Physics in Experiment](https://www.vice.com/en/article/dy38xk/physicists-created-slits-in-time-and-discovered-unexpected-physics-in-experiment)
 * [2023-04-04, 07:19:36](https://news.ycombinator.com/item?id=35436224) - [Orthogonal Time-Frequency Space Modulation: A Promising Next-Generation Waveform](https://ieeexplore.ieee.org/abstract/document/9508932)
 * [2023-04-04, 07:19:36](https://news.ycombinator.com/item?id=35436224) - [Orthogonal Time-Frequency Space Modulation: A Promising Next-Generation Waveform (2021)](https://arxiv.org/abs/2010.03344)
