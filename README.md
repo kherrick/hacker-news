@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-04, 03:34:09](https://news.ycombinator.com/item?id=35434704) - [OpenAI has temporarily stopped selling the Plus plan](https://old.reddit.com/r/OpenAI/comments/12b57q4/openai_has_temporarily_stopped_selling_the_plus/)
 * [2023-04-04, 03:31:03](https://news.ycombinator.com/item?id=35434679) - [Eight Things to Know About Large Language Models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
 * [2023-04-04, 03:21:43](https://news.ycombinator.com/item?id=35434587) - [The Future of Applications](https://mikecann.co.uk/posts/the-future-of-applications)
 * [2023-04-04, 03:15:08](https://news.ycombinator.com/item?id=35434530) - [Twitter has inexplicably turned off access to sign in with Twitter SSO](https://flipboard.social/@mike/110137461654913391)
@@ -26,6 +25,7 @@
 * [2023-04-03, 11:56:01](https://news.ycombinator.com/item?id=35421962) - [We&#x27;re Knot Friends](https://jeremykun.com/2023/04/01/were-knot-friends/)
 * [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 05:34:38](https://news.ycombinator.com/item?id=35418933) - [Parquet: More than just “Turbo CSV”](https://csvbase.com/blog/3)
+* [2023-04-03, 04:42:54](https://news.ycombinator.com/item?id=35418642) - [Ancient soldiers used sound to frighten and confuse their enemies (2022)](https://theconversation.com/from-whistling-arrows-and-trumpeting-elephants-to-battle-cries-and-eerie-horns-ancient-soldiers-used-sound-to-frighten-and-confuse-their-enemies-182116)
 * [2023-04-03, 03:46:08](https://news.ycombinator.com/item?id=35418320) - [Rational Dress Society](https://en.wikipedia.org/wiki/Rational_Dress_Society)
 * [2023-04-03, 03:42:33](https://news.ycombinator.com/item?id=35418303) - [An Essay on Diseases Incidental to Literary and Sedentary Persons (1768)](https://publicdomainreview.org/collection/blights-of-the-bookish)
 * [2023-04-01, 20:55:36](https://news.ycombinator.com/item?id=35403975) - [Remembering Benares](https://yalereview.org/article/pankaj-mishra-remembering-benares-india-romantics-novel)
