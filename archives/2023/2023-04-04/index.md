@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 18:52:21](https://news.ycombinator.com/item?id=35444300) - [Show HN: A readable macroassembler that no one asked for](https://github.com/akalenuk/milasm)
 * [2023-04-04, 18:31:04](https://news.ycombinator.com/item?id=35444018) - [Maybe we can have a specific tab for submitted contents about GPT and AI](https://news.ycombinator.com/item?id=35444018)
 * [2023-04-04, 18:27:48](https://news.ycombinator.com/item?id=35443976) - [Creator of Catan, Klaus Teuber, has passed away at the age of 70](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
 * [2023-04-04, 18:21:55](https://news.ycombinator.com/item?id=35443899) - [Airbnb Account Suspension ft. GPT-4](https://gist.github.com/itayplav/a6c98c3f9c0436d517bbbdc78b024f4f)
@@ -28,6 +29,7 @@
 * [2023-04-04, 15:17:34](https://news.ycombinator.com/item?id=35441047) - [Arizona Fight over Half-Cent Sales Tax Threatens Semiconductor Expansion](https://www.wsj.com/articles/arizona-fight-over-half-cent-sales-tax-threatens-semiconductor-expansion-1cd5c552)
 * [2023-04-04, 15:03:52](https://news.ycombinator.com/item?id=35440815) - [Playing with Fire – ChatGPT](https://steveblank.com/2023/04/04/playing-with-fire-chatgpt/)
 * [2023-04-04, 15:02:16](https://news.ycombinator.com/item?id=35440789) - [Researchers create new classification of chess openings](https://techxplore.com/news/2023-04-classification-chess.html)
+* [2023-04-04, 14:59:36](https://news.ycombinator.com/item?id=35440736) - [Show HN: Datree (YC W20) – End-to-End Policy Management for Kubernetes](https://news.ycombinator.com/item?id=35440736)
 * [2023-04-04, 14:58:40](https://news.ycombinator.com/item?id=35440719) - [China&#x27;s tech weapon: Delay mergers for leverage, aid rivals](https://www.wsj.com/articles/chinas-new-tech-weapon-dragging-its-feet-on-global-merger-approvals-d653ca4a)
 * [2023-04-04, 14:53:48](https://news.ycombinator.com/item?id=35440608) - [Tiny, cheap smart speakers unlocked the rise of digital payments in India](https://restofworld.org/2023/india-sound-boxes-paytm-phonepe/)
 * [2023-04-04, 14:52:33](https://news.ycombinator.com/item?id=35440590) - [Achilles Heels for AGI&#x2F;ASI via Decision Theoretic Adversaries](https://arxiv.org/abs/2010.05418)
