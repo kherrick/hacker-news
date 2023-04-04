@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 12:32:28](https://news.ycombinator.com/item?id=35438569) - [Google workers in London stage walkout over job cuts](https://www.reuters.com/technology/google-workers-london-stage-walkout-over-job-cuts-2023-04-04/)
+* [2023-04-04, 12:18:48](https://news.ycombinator.com/item?id=35438400) - [Show HN: Promptr, let GPT operate on your codebase and other useful goodies](https://github.com/ferrislucas/promptr)
 * [2023-04-04, 12:00:52](https://news.ycombinator.com/item?id=35438223) - [Reclaim Protocol (YC W21) Is Hiring Mechanism Design&#x2F;Game Theory Researchers](https://www.ycombinator.com/companies/questbook/jobs/BqXBrUU-game-theory-mechanism-design-researcher)
 * [2023-04-04, 11:58:09](https://news.ycombinator.com/item?id=35438192) - [The Great MLOps Hoax: Is It Just Data Engineering in Disguise?](https://www.cpard.xyz/posts/mlops_is_mostly_data_engineering/)
 * [2023-04-04, 11:42:33](https://news.ycombinator.com/item?id=35438068) - [How to be a -10x Engineer](https://taylor.town/-10x)
@@ -13,9 +15,11 @@
 * [2023-04-04, 10:37:05](https://news.ycombinator.com/item?id=35437533) - [Entrepreneurs who regret starting businesses](https://www.bbc.com/worklife/article/20230402-the-entrepreneurs-who-regret-starting-businesses)
 * [2023-04-04, 10:25:36](https://news.ycombinator.com/item?id=35437449) - [TikTok fined £12.7M for UK data protection law breaches – TikTok](https://www.theguardian.com/technology/2023/apr/04/tiktok-fined-uk-data-protection-law-breaches)
 * [2023-04-04, 10:24:40](https://news.ycombinator.com/item?id=35437443) - [A passenger aircraft that flies around the world at Mach 9? Sure, why not](https://arstechnica.com/science/2023/04/a-passenger-aircraft-that-flies-around-the-world-at-mach-9-sure-why-not/)
+* [2023-04-04, 10:17:22](https://news.ycombinator.com/item?id=35437401) - [In Defense of Prompt Engineering](https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/)
 * [2023-04-04, 09:52:57](https://news.ycombinator.com/item?id=35437254) - [We need a much more sophisticated debate about AI](https://www.ft.com/content/87108d74-b4fe-4271-bdfb-7828ba2ea351)
 * [2023-04-04, 09:39:04](https://news.ycombinator.com/item?id=35437165) - [A Generalized Ray Formulation for Wave-Optics Rendering](https://ssteinberg.xyz/2023/03/27/rtplt/)
 * [2023-04-04, 09:35:16](https://news.ycombinator.com/item?id=35437136) - [Sugihara&#x27;s Dog](https://twitter.com/AkiyoshiKitaoka/status/1642871991932944385)
+* [2023-04-04, 09:21:01](https://news.ycombinator.com/item?id=35437065) - [Circuit.js – electronic circuit simulator on the web](http://lushprojects.com/circuitjs/circuitjs.html)
 * [2023-04-04, 08:43:29](https://news.ycombinator.com/item?id=35436822) - [We are hurtling toward a glitchy, spammy, scammy, AI-powered internet](https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powe)
 * [2023-04-04, 08:17:17](https://news.ycombinator.com/item?id=35436605) - [Emacs in Odd Places (2020)](https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places)
 * [2023-04-04, 08:16:23](https://news.ycombinator.com/item?id=35436600) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
