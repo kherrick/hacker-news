@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 20:50:27](https://news.ycombinator.com/item?id=35445696) - [Monster Energy Goes After Indie Dev for Using the Word &#x27;Monster&#x27;](https://www.thegamer.com/monster-energy-goes-after-glowstick-entertainment-for-using-the-word-monster/)
 * [2023-04-04, 20:04:34](https://news.ycombinator.com/item?id=35445179) - [Starlabs⸻Byte Mini PC Powered by AMD](https://starlabs.systems/pages/byte)
 * [2023-04-04, 19:56:25](https://news.ycombinator.com/item?id=35445097) - [Launch HN: GradientJ (YC W23) – Build NLP Applications Faster with LLMs](https://news.ycombinator.com/item?id=35445097)
 * [2023-04-04, 18:52:21](https://news.ycombinator.com/item?id=35444300) - [Show HN: A readable macroassembler that no one asked for](https://github.com/akalenuk/milasm)

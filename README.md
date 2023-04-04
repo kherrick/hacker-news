@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 20:50:27](https://news.ycombinator.com/item?id=35445696) - [Monster Energy Goes After Indie Dev for Using the Word &#x27;Monster&#x27;](https://www.thegamer.com/monster-energy-goes-after-glowstick-entertainment-for-using-the-word-monster/)
 * [2023-04-04, 20:04:34](https://news.ycombinator.com/item?id=35445179) - [Byte Mini PC Powered by AMD – Get notified when available](https://starlabs.systems/pages/byte)
 * [2023-04-04, 19:56:25](https://news.ycombinator.com/item?id=35445097) - [Launch HN: GradientJ (YC W23) – Build NLP Applications Faster with LLMs](https://news.ycombinator.com/item?id=35445097)
 * [2023-04-04, 18:52:21](https://news.ycombinator.com/item?id=35444300) - [Show HN: A readable macroassembler that no one asked for](https://github.com/akalenuk/milasm)
@@ -24,7 +25,6 @@
 * [2023-04-04, 08:09:53](https://news.ycombinator.com/item?id=35436561) - [Technical Solutions versus Processes](https://lucaskostka.com/posts/technical-vs-processes-solutions)
 * [2023-04-04, 07:10:48](https://news.ycombinator.com/item?id=35436154) - [Totem construction system with cuttable parts](https://totemmaker.net/)
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [Even if you can&#x27;t write assembly, you can read disassembly](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
-* [2023-04-04, 05:42:54](https://news.ycombinator.com/item?id=35435563) - [The electric vehicles we need now are e-bikes (2022)](https://www.bloomberg.com/news/articles/2022-03-15/the-electric-vehicles-we-need-now-are-e-bikes)
 * [2023-04-04, 03:43:47](https://news.ycombinator.com/item?id=35434768) - [How to pack a stereo signal in one record groove](https://www.vinylrecorder.com/stereo.html)
 * [2023-04-04, 01:47:05](https://news.ycombinator.com/item?id=35433924) - [Aesthetics of Indeterminacy: The Architecture of Conglomerates](https://journal.eahn.org/article/id/8305/)
 * [2023-04-03, 23:33:03](https://news.ycombinator.com/item?id=35432918) - [Proton’s mass radius is apparently shorter than its charge radius](https://arstechnica.com/science/2023/04/protons-mass-radius-is-apparently-shorter-than-its-charge-radius/)
