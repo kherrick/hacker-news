@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 05:42:54](https://news.ycombinator.com/item?id=35435563) - [The Electric Vehicles We Need Now Are E-Bikes](https://www.bloomberg.com/news/articles/2022-03-15/the-electric-vehicles-we-need-now-are-e-bikes)
 * [2023-04-04, 05:13:07](https://news.ycombinator.com/item?id=35435373) - [Airport scraps 100ml liquid rule with new scanners](https://www.bbc.co.uk/news/business-65163418)
-* [2023-04-04, 04:55:11](https://news.ycombinator.com/item?id=35435253) - [Ask HN: Fastest way to turn a Jupyter notebook into a website these days?](https://news.ycombinator.com/item?id=35435253)
-* [2023-04-04, 04:45:35](https://news.ycombinator.com/item?id=35435186) - [How SerenityOS Declares Ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
+* [2023-04-04, 04:45:35](https://news.ycombinator.com/item?id=35435186) - [How SerenityOS Declares ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
 * [2023-04-04, 03:46:29](https://news.ycombinator.com/item?id=35434790) - [An LLM playground you can run on your laptop](https://github.com/nat/openplayground)
 * [2023-04-04, 03:31:03](https://news.ycombinator.com/item?id=35434679) - [Eight things to know about large language models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
 * [2023-04-04, 03:21:43](https://news.ycombinator.com/item?id=35434587) - [The Future of Applications](https://mikecann.co.uk/posts/the-future-of-applications)
