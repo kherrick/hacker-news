@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-04, 22:43:49",
+      "https://news.ycombinator.com/item?id=35446847"
+    ],
+    [
+      "ZSTD 1.5.5 is released with a corruption fix found at Google",
+      "https://github.com/facebook/zstd/releases/tag/v1.5.5"
+    ]
+  ],
+  [
+    [
       "2023-04-04, 21:37:16",
       "https://news.ycombinator.com/item?id=35446175"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-04-04, 16:51:39",
-      "https://news.ycombinator.com/item?id=35442539"
-    ],
-    [
-      "Growth of AI Through a Cloud Lens",
-      "https://mitchellh.com/writing/ai-through-a-cloud-lens"
-    ]
-  ],
-  [
-    [
       "2023-04-04, 16:48:00",
       "https://news.ycombinator.com/item?id=35442483"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-04-04, 09:39:04",
-      "https://news.ycombinator.com/item?id=35437165"
-    ],
-    [
-      "A Generalized Ray Formulation for Wave-Optics Rendering",
-      "https://ssteinberg.xyz/2023/03/27/rtplt/"
-    ]
-  ],
-  [
-    [
       "2023-04-04, 09:35:16",
       "https://news.ycombinator.com/item?id=35437136"
     ],
@@ -237,6 +227,16 @@
     [
       "Circuit.js – Electronic circuit simulator on the web",
       "http://lushprojects.com/circuitjs/circuitjs.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-04, 08:51:35",
+      "https://news.ycombinator.com/item?id=35436886"
+    ],
+    [
+      "The Future of the Transistor",
+      "https://www.semianalysis.com/p/the-future-of-the-transistor"
     ]
   ],
   [
