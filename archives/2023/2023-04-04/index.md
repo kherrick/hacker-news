@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 13:34:29](https://news.ycombinator.com/item?id=35439326) - [Why TinyML is still so hard to get excited about](https://staceyoniot.com/why-tinyml-is-still-so-hard-to-get-excited-about/)
+* [2023-04-04, 13:27:49](https://news.ycombinator.com/item?id=35439232) - [The End of Matter (1906) by Henri Poincaré](https://en.wikisource.org/wiki/Translation:The_End_of_Matter)
+* [2023-04-04, 13:18:53](https://news.ycombinator.com/item?id=35439130) - [GPT-4 is barely 3 weeks old. things created with GPT-4](https://twitter.com/samuelwoods_/status/1642889718336479233)
 * [2023-04-04, 13:06:50](https://news.ycombinator.com/item?id=35439002) - [Intel Blocks Undervolting: The Whole Story](https://old.reddit.com/r/intel/comments/10slejm/intel_blocks_undervolting_the_whole_story/)
+* [2023-04-04, 12:51:51](https://news.ycombinator.com/item?id=35438804) - [Finland Has Joined NATO](https://www.bbc.com/news/world-europe-65173043)
 * [2023-04-04, 12:32:28](https://news.ycombinator.com/item?id=35438569) - [Google workers in London stage walkout over job cuts](https://www.reuters.com/technology/google-workers-london-stage-walkout-over-job-cuts-2023-04-04/)
 * [2023-04-04, 12:29:32](https://news.ycombinator.com/item?id=35438524) - [Finland becomes the 31st member of NATO](https://www.nato.int/cps/en/natohq/events_67375.htm)
 * [2023-04-04, 12:18:48](https://news.ycombinator.com/item?id=35438400) - [Show HN: Promptr, let GPT operate on your codebase and other useful goodies](https://github.com/ferrislucas/promptr)
