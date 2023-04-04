@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 03:34:09](https://news.ycombinator.com/item?id=35434704) - [OpenAI has temporarily stopped selling the Plus plan](https://old.reddit.com/r/OpenAI/comments/12b57q4/openai_has_temporarily_stopped_selling_the_plus/)
 * [2023-04-04, 03:31:03](https://news.ycombinator.com/item?id=35434679) - [Eight Things to Know About Large Language Models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
+* [2023-04-04, 03:21:43](https://news.ycombinator.com/item?id=35434587) - [The Future of Applications](https://mikecann.co.uk/posts/the-future-of-applications)
 * [2023-04-04, 03:15:08](https://news.ycombinator.com/item?id=35434530) - [Twitter has inexplicably turned off access to sign in with Twitter SSO](https://flipboard.social/@mike/110137461654913391)
 * [2023-04-04, 02:43:05](https://news.ycombinator.com/item?id=35434314) - [Google reverses 5M file limit in Google Drive](https://twitter.com/googledrive/status/1643049029251776515)
 * [2023-04-04, 02:08:48](https://news.ycombinator.com/item?id=35434066) - [FAA DNS is under attack](https://faa.gov)
