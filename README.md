@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 10:41:48](https://news.ycombinator.com/item?id=35437556) - [TikTok fined £12.7M for misusing children&#x27;s data](https://www.bbc.co.uk/news/uk-65175902)
+* [2023-04-04, 10:25:36](https://news.ycombinator.com/item?id=35437449) - [TikTok fined £12.7M for UK data protection law breaches – TikTok](https://www.theguardian.com/technology/2023/apr/04/tiktok-fined-uk-data-protection-law-breaches)
 * [2023-04-04, 07:00:32](https://news.ycombinator.com/item?id=35436068) - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 400GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [If you can&#x27;t write assembly like a poet, you can read disassembly like a hunter](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
 * [2023-04-04, 04:55:11](https://news.ycombinator.com/item?id=35435253) - [Ask HN: Fastest way to turn a Jupyter notebook into a website these days?](https://news.ycombinator.com/item?id=35435253)
@@ -14,7 +16,6 @@
 * [2023-04-03, 21:40:47](https://news.ycombinator.com/item?id=35431678) - [How HyperCard got its color back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
 * [2023-04-03, 21:22:13](https://news.ycombinator.com/item?id=35431466) - [If parrots can talk, why can’t monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
 * [2023-04-03, 20:52:56](https://news.ycombinator.com/item?id=35431119) - [System76 Open Firmware](https://github.com/system76/firmware-open)
-* [2023-04-03, 20:48:10](https://news.ycombinator.com/item?id=35431057) - [Measuring Trends in Artificial Intelligence](https://aiindex.stanford.edu/report/)
 * [2023-04-03, 20:42:59](https://news.ycombinator.com/item?id=35430993) - [$60&#x2F;MWh for advanced nuclear electricity is achievable: GE Hitachi Executive](https://www.utilitydive.com/news/advanced-nuclear-ge-hitachi-mwh-nuscale-smr-small-modular-reactor/630154/)
 * [2023-04-03, 20:02:51](https://news.ycombinator.com/item?id=35430432) - [State-of-the-art open-source chatbot, Vicuna-13B, just released model weights](https://twitter.com/lmsysorg/status/1642968294998306816)
 * [2023-04-03, 19:21:34](https://news.ycombinator.com/item?id=35429801) - [Ask HN: What lesser-known accessories do you use with your computer?](https://news.ycombinator.com/item?id=35429801)
@@ -25,7 +26,6 @@
 * [2023-04-03, 14:56:22](https://news.ycombinator.com/item?id=35424678) - [Alibaba breaks itself up in six](https://www.economist.com/business/2023/03/30/alibaba-breaks-itself-up-in-six)
 * [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 05:34:38](https://news.ycombinator.com/item?id=35418933) - [Parquet: An efficient, binary file format for table data](https://csvbase.com/blog/3)
-* [2023-04-03, 04:57:30](https://news.ycombinator.com/item?id=35418718) - [Five non-fiction graphic books on lives in dangerous locations](https://www.economist.com/the-economist-reads/2023/03/31/five-non-fiction-graphic-books-on-lives-in-dangerous-locations)
 * [2023-04-03, 04:42:54](https://news.ycombinator.com/item?id=35418642) - [Ancient soldiers used sound to frighten and confuse their enemies (2022)](https://theconversation.com/from-whistling-arrows-and-trumpeting-elephants-to-battle-cries-and-eerie-horns-ancient-soldiers-used-sound-to-frighten-and-confuse-their-enemies-182116)
 * [2023-04-03, 03:46:08](https://news.ycombinator.com/item?id=35418320) - [Rational Dress Society](https://en.wikipedia.org/wiki/Rational_Dress_Society)
 * [2023-04-01, 20:55:36](https://news.ycombinator.com/item?id=35403975) - [Remembering Benares](https://yalereview.org/article/pankaj-mishra-remembering-benares-india-romantics-novel)
