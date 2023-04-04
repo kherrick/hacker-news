@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 23:36:13](https://news.ycombinator.com/item?id=35432958) - [Engineering with Enclaves](https://www.onefootprint.com/blog/inside-the-enclave-part-2)
 * [2023-04-03, 22:32:46](https://news.ycombinator.com/item?id=35432243) - [Hacking the Samsung NX300 &#x27;Smart&#x27; Camera](https://op-co.de/blog/posts/hacking_the_nx300/)
 * [2023-04-03, 22:20:02](https://news.ycombinator.com/item?id=35432115) - [What if ChatGPT was trained on decades of financial news and data?](https://www.niemanlab.org/2023/04/what-if-chatgpt-was-trained-on-decades-of-financial-news-and-data-bloomberggpt-aims-to-be-a-domain-specific-ai-for-business-news/)
 * [2023-04-03, 22:19:17](https://news.ycombinator.com/item?id=35432108) - [Postman Flows: the next generation of software development](https://blog.postman.com/postman-flows-the-next-generation-of-software-development/)
+* [2023-04-03, 22:09:50](https://news.ycombinator.com/item?id=35432008) - [SpaceX based 4G&#x2F;5G coverage coming to New Zealand](https://one.nz/why-choose-us/spacex/)
 * [2023-04-03, 21:58:01](https://news.ycombinator.com/item?id=35431877) - [The influencers getting rich by teaching you how to get rich](https://www.vox.com/culture/2023/3/30/23661712/influencer-online-course-class-miss-excel)
 * [2023-04-03, 21:47:32](https://news.ycombinator.com/item?id=35431758) - [Cloudflare DNS Must Block Pirate Sites, Italian Court Confirms](https://torrentfreak.com/cloudflare-dns-has-to-block-pirate-sites-italian-court-confirms-230403/)
 * [2023-04-03, 21:40:47](https://news.ycombinator.com/item?id=35431678) - [Hypercard got its Color Back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
@@ -19,6 +21,7 @@
 * [2023-04-03, 20:01:22](https://news.ycombinator.com/item?id=35430409) - [PDF ChatBot – Upload, chat and interact with any PDF document](https://askyourpdf.com/)
 * [2023-04-03, 19:53:43](https://news.ycombinator.com/item?id=35430301) - [NASA Names Astronauts to Next Moon Mission](https://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis/)
 * [2023-04-03, 19:47:26](https://news.ycombinator.com/item?id=35430188) - [Introducing Agents in Haystack: Make LLMs resolve complex tasks](https://haystack.deepset.ai/blog/introducing-haystack-agents)
+* [2023-04-03, 19:21:34](https://news.ycombinator.com/item?id=35429801) - [Ask HN: What lesser-known accessories do you use with your computer?](https://news.ycombinator.com/item?id=35429801)
 * [2023-04-03, 19:20:27](https://news.ycombinator.com/item?id=35429777) - [Tennis Balls Serve as Decent Bicycle Tires That Don’t Easily Puncture](https://hackaday.com/2023/04/03/tennis-balls-serve-as-decent-bicycle-tires-that-dont-easily-puncture/)
 * [2023-04-03, 18:50:04](https://news.ycombinator.com/item?id=35429306) - [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
 * [2023-04-03, 18:47:42](https://news.ycombinator.com/item?id=35429269) - [Turn Notion into a UI for Postgres](https://news.ycombinator.com/item?id=35429269)
@@ -96,6 +99,7 @@
 * [2023-04-03, 04:52:10](https://news.ycombinator.com/item?id=35418690) - [Neuralink’s FDA troubles are just the beginning](https://spectrum.ieee.org/neuralink-seeks-fda-approval)
 * [2023-04-03, 04:42:54](https://news.ycombinator.com/item?id=35418642) - [Ancient soldiers used sound to frighten and confuse their enemies (2022)](https://theconversation.com/from-whistling-arrows-and-trumpeting-elephants-to-battle-cries-and-eerie-horns-ancient-soldiers-used-sound-to-frighten-and-confuse-their-enemies-182116)
 * [2023-04-03, 03:48:24](https://news.ycombinator.com/item?id=35418336) - [NAND Flash Data Recovery Cookbook (2013) [pdf]](http://web.archive.org/web/20180516153837/http://www.adreca.net/NAND-Flash-Data-Recovery-Cookbook.pdf)
+* [2023-04-03, 03:46:08](https://news.ycombinator.com/item?id=35418320) - [Rational Dress Society](https://en.wikipedia.org/wiki/Rational_Dress_Society)
 * [2023-04-03, 03:42:33](https://news.ycombinator.com/item?id=35418303) - [An Essay on Diseases Incidental to Literary and Sedentary Persons (1768)](https://publicdomainreview.org/collection/blights-of-the-bookish)
 * [2023-04-03, 02:59:10](https://news.ycombinator.com/item?id=35418017) - [The Nine Billion Names Of God – short film [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
 * [2023-04-03, 02:17:34](https://news.ycombinator.com/item?id=35417764) - [Destreza](https://en.wikipedia.org/wiki/Destreza)
