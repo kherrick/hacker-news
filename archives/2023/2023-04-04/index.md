@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 14:32:38](https://news.ycombinator.com/item?id=35440265) - [A guy made ChatGPT4 CEO of his company](https://johnfsantos.substack.com/p/week-2-morpheus-hes-beginning-to)
+* [2023-04-04, 14:27:11](https://news.ycombinator.com/item?id=35440194) - [Liu Yiqian](https://en.wikipedia.org/wiki/Liu_Yiqian)
 * [2023-04-04, 14:08:15](https://news.ycombinator.com/item?id=35439868) - [European Commission ask Nintendo to repair controllers](https://social.network.europa.eu/@EU_Commission/110140022257601348)
 * [2023-04-04, 13:55:35](https://news.ycombinator.com/item?id=35439673) - [Amazon to close Book Depository online shop](https://www.theguardian.com/books/2023/apr/04/amazon-to-close-book-depository-online-shop)
 * [2023-04-04, 13:39:20](https://news.ycombinator.com/item?id=35439393) - [Double-anonymous peer review reduces reviewer bias, finds three-year trial](https://www.britishecologicalsociety.org/double-anonymous-peer-review-reduces-reviewer-bias-find-three-year-trial/)
 * [2023-04-04, 13:34:29](https://news.ycombinator.com/item?id=35439326) - [Why TinyML is still so hard to get excited about](https://staceyoniot.com/why-tinyml-is-still-so-hard-to-get-excited-about/)
 * [2023-04-04, 13:27:49](https://news.ycombinator.com/item?id=35439232) - [The End of Matter (1906) by Henri Poincaré](https://en.wikisource.org/wiki/Translation:The_End_of_Matter)
 * [2023-04-04, 13:18:53](https://news.ycombinator.com/item?id=35439130) - [GPT-4 is barely 3 weeks old. things created with GPT-4](https://twitter.com/samuelwoods_/status/1642889718336479233)
+* [2023-04-04, 13:17:22](https://news.ycombinator.com/item?id=35439114) - [IRS-authorized eFile.com tax return software caught serving JavaScript malware](https://www.bleepingcomputer.com/news/security/irs-authorized-efilecom-tax-return-software-caught-serving-js-malware/)
 * [2023-04-04, 13:06:50](https://news.ycombinator.com/item?id=35439002) - [Intel Blocks Undervolting: The Whole Story](https://old.reddit.com/r/intel/comments/10slejm/intel_blocks_undervolting_the_whole_story/)
 * [2023-04-04, 12:51:51](https://news.ycombinator.com/item?id=35438804) - [Finland Has Joined NATO](https://www.bbc.com/news/world-europe-65173043)
 * [2023-04-04, 12:32:28](https://news.ycombinator.com/item?id=35438569) - [Google workers in London stage walkout over job cuts](https://www.reuters.com/technology/google-workers-london-stage-walkout-over-job-cuts-2023-04-04/)
