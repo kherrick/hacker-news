@@ -129,6 +129,145 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="35445179">
+          <h3>
+            <a class="item" href="https://starlabs.systems/pages/byte"
+              >Starlabs⸻Byte Mini PC Powered by AMD</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-04-04 @ 20:04:34</span
+              ><span class="points-container"
+                >Points: <span class="points">31</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35445179"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="35445097">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=35445097"
+              >Launch HN: GradientJ (YC W23) – Build NLP Applications Faster
+              with LLMs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-04-04 @ 19:56:25</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35445097"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://gradientj.com">https://gradientj.com</a>), a web
+              application that helps teams develop, test, and monitor natural
+              language processing (NLP) applications using large language models
+              (LLMs).
+              <p>
+                Before GradientJ, we’d been building NLP applications for 4
+                years, using transformer models like BERT. With the advent of
+                LLMs and their zero-shot/few-shot capabilities, we saw the NLP
+                dev cycle get flipped on its head. Rather than having to hire an
+                army of data labelers and data scientists to fine-tune a BERT
+                model for your use case, engineers can now use LLMs, like GPT-4,
+                to build NLP endpoints in minutes.
+              </p>
+              <p>
+                As powerful as this is, the problem becomes that without
+                appropriate tools for version control, regression testing, and
+                ongoing maintenance like monitoring and A/B testing, managing
+                these models is a pain. Because the data being evaluated is
+                often fuzzy, developers either have to build complex text
+                processing regex pipelines or manually evaluate each output
+                before a new release. Moreover, if your prompts are only
+                maintained in a notion doc or google sheet, completely separate
+                from these tests, it’s difficult to identify what the changes
+                were that led to underperformance. The workflow often devolves
+                into manual and subjective human data labeling just to decide if
+                new versions of your model are “good enough” to deploy.
+              </p>
+              <p>
+                GradientJ is a web application and API to address that. We let
+                you iterate on prompts, automatically regression test them along
+                multiple dimensions, and finally manage them once deployed.
+              </p>
+              <p>
+                You’d think these are pretty straightforward things to build,
+                but we’ve noticed most versions of “LLM management apps” focus
+                on organizing the workflow for these components without
+                dramatically improving on automating them. At the end of the
+                day, you still have to pass your side-by-side prompt comparison
+                through the “eye-ball test” which creates processes that are
+                bottlenecked by human time. We think by using the very same
+                technology, NLP, you can dramatically reduce the developer labor
+                required for each of these steps.
+              </p>
+              <p>Here’s how we do it:</p>
+              <p>
+                For prompt iteration, rather than just a text-editor
+                “playground” with some special syntax to delineate variables,
+                we’re trying to use large language models to create a
+                Copilot-like experience for prompt engineering. This means
+                aggregating all the tricks of prompt engineering behind a smart
+                LLM assistant who can suggest ways to restructure your prompt
+                for better output. For example, when someone just wants their
+                output in JSON form, we know where to inject the appropriate
+                text to nudge the model towards generating JSON. When combined
+                with our regression testing API, those prompt suggestions will
+                actually be based on the specific dimensions of prompt
+                underperformance. The idea is that the changes required to make
+                a prompt’s output follow a certain structure are different from
+                the ones you’d make to have the output follow a certain tone.
+              </p>
+              <p>
+                When it comes to testing, even before LLMs, configuring high
+                quality tests for expressive NLP models has historically been
+                hard. To compare anything more complicated than classification
+                labels, most people resort to raw fuzzy string comparisons, or
+                token distribution differences between the output. We’re trying
+                to make automated NLP testing more objective by using LLMs to
+                actually power our regression testing API. We use NLP models to
+                provide comparisons between text outputs along custom dimensions
+                like “structure”, “semantics”, and “tone”. This means before you
+                deploy the latest version of your email generation model, you
+                know where it stands along each of the discrete dimensions you
+                care about. Additionally, this helps prevent your prompt
+                engineering from becoming a game of “whack-a-mole”:overfitting
+                your prompt on the handful of examples you can copy and paste
+                while developing.
+              </p>
+              <p>
+                For deployment, we provide a stable API that always goes to the
+                latest iteration of a prompt you’ve chosen to deploy. This means
+                you can push updates over-the-air without having to change the
+                API code. At the same time, we’re tracking the versions used for
+                inference under the hood. This lets you use that data to further
+                improve your regression tests, experiment with fine-tuning
+                across other providers or open source models, or set up alerts
+                around prompt performance.
+              </p>
+              <p>
+                Each of these pieces of our product can be used in isolation or
+                all together, depending on what the rest of your NLP
+                infrastructure looks like.
+              </p>
+              <p>
+                If you use LLMs and are looking for ways to improve your
+                workflow, or if you need to build NLP applications fast and want
+                to bypass the traditional slow data labeling process, we’d love
+                your feedback!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="35444300">
           <h3>
             <a class="item" href="https://github.com/akalenuk/milasm"
@@ -139,7 +278,7 @@
             <h4>
               <span>2023-04-04 @ 18:52:21</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35444300"
                   >Comments</a
@@ -161,11 +300,11 @@
             <h4>
               <span>2023-04-04 @ 18:27:48</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35443976"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -183,11 +322,11 @@
             <h4>
               <span>2023-04-04 @ 17:59:47</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35443585"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -205,30 +344,11 @@
             <h4>
               <span>2023-04-04 @ 17:45:19</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35443361"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35442890">
-          <h3>
-            <a class="item" href="https://github.com/koki-develop/gat"
-              >Show HN: Gat – cat alternative written in Go</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-04-04 @ 17:15:53</span
-              ><span class="points-container"
-                >Points: <span class="points">28</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35442890"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -261,11 +381,32 @@
             <h4>
               <span>2023-04-04 @ 16:58:21</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35442642"
                   >Comments</a
                 ><span class="descendants">: 39</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="35442539">
+          <h3>
+            <a
+              class="item"
+              href="https://mitchellh.com/writing/ai-through-a-cloud-lens"
+              >Growth of AI Through a Cloud Lens</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-04-04 @ 16:51:39</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35442539"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -282,31 +423,11 @@
             <h4>
               <span>2023-04-04 @ 16:48:00</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35442483"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35442116">
-          <h3>
-            <a class="item" href="https://github.com/curl/trurl"
-              >New tool from curl creator – trurl – for URL parsing and
-              manipulation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-04-04 @ 16:24:22</span
-              ><span class="points-container"
-                >Points: <span class="points">103</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35442116"
-                  >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -321,11 +442,11 @@
             <h4>
               <span>2023-04-04 @ 16:23:52</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35442103"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 124</span></span
               >
             </h4>
             <div class="text">
@@ -418,11 +539,11 @@
             <h4>
               <span>2023-04-04 @ 16:17:09</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35442001"
                   >Comments</a
-                ><span class="descendants">: 121</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -440,11 +561,11 @@
             <h4>
               <span>2023-04-04 @ 16:16:54</span
               ><span class="points-container"
-                >Points: <span class="points">247</span></span
+                >Points: <span class="points">257</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35441997"
                   >Comments</a
-                ><span class="descendants">: 148</span></span
+                ><span class="descendants">: 153</span></span
               >
             </h4>
           </section>
@@ -460,7 +581,7 @@
             <h4>
               <span>2023-04-04 @ 15:25:36</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35441180"
                   >Comments</a
@@ -471,99 +592,6 @@
               <p>
                 I am studying robotics and exoskeletons as a hobby. Can HN
                 please recommend high quality resources for self study?
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="35440736">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=35440736"
-              >Show HN: Datree (YC W20) – End-to-End Policy Management for
-              Kubernetes</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-04-04 @ 14:59:36</span
-              ><span class="points-container"
-                >Points: <span class="points">38</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35440736"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Our website is at https://datree.io and our GitHub is here:
-                https://github.com/datreeio/datree
-              </p>
-              <p>
-                This is not the first time I have shown Datree to the HN
-                community: A little over a year ago, I posted here an earlier
-                version of Datree
-                (https://news.ycombinator.com/item?id=28918850). At that time,
-                Datree consisted of a CLI tool to detect Kubernetes
-                misconfigurations during the development process (locally or in
-                the CI/CD), unlike the version I present today in which the
-                enforcement happens in production.
-              </p>
-              <p>
-                We built the CLI tool because we detected a big problem among
-                Kubernetes operators: Misconfigurations. Kubernetes is extremely
-                complex and flexible, which makes it very easy to poorly
-                configure it in ways that are not secure. And indeed, we talked
-                to dozens of Kubernetes operators who suffered from various
-                problems, starting with failed audits, all the way to downtime
-                in production, all because of misconfigurations.
-              </p>
-              <p>
-                Our solution was simple: Give the developers the means to
-                shift-left security testing during the development process with
-                a CLI tool that can be integrated into the CI/CD. We thought
-                this was the best way to approach the problem: It is easiest to
-                fix misconfigurations in the development process before they are
-                deployed to production, it prevents context-switching and
-                relieves resources from the DevOps team.
-              </p>
-              <p>
-                While the CLI tool was very popular among the open-source
-                community (it got over 6000 stars on GitHub), we soon realized
-                that CI/CD enforcement is not enough. As we talked with Datree’s
-                users, we realized we had made a fundamental mistake: We thought
-                of misconfiguration prevention in technical terms rather than
-                organizational terms.
-              </p>
-              <p>
-                Indeed, from a technical point of view, it makes sense to
-                shift-left Kubernetes security. But when considering the
-                organizational structure in which it takes place, it simply
-                isn’t enough. DevOps engineers told us that they love the
-                shift-left concept, but they simply cannot rely on the goodwill
-                of the engineers to run a CLI tool locally or to monitor all the
-                pipelines leading to production. They need governance, something
-                to help them stay in control of the state of their clusters.
-              </p>
-              <p>
-                Moreover, we realized that many companies who use Kubernetes are
-                heavily regulated, and cannot take any chances with their
-                security. Sure, these companies want the engineers to fix
-                misconfigurations during development, but they also want
-                something to make sure that no matter what, their clusters
-                remain misconfiguration-free.
-              </p>
-              <p>
-                Based on this understanding, we developed a new version of
-                Datree that sits on the cluster itself (rather than in the
-                CI/CD) and protects the production environment by blocking
-                misconfigured resources with an admission webhook. It has a
-                centralized policy management solution to enable governance, and
-                native monitoring to get real-time insights into the state of
-                your Kubernetes.
-              </p>
-              <p>
-                I look forward to hearing your feedback and answering any
-                questions you may have.
               </p>
             </div>
           </section>
@@ -581,11 +609,11 @@
             <h4>
               <span>2023-04-04 @ 14:53:48</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35440608"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -600,11 +628,11 @@
             <h4>
               <span>2023-04-04 @ 14:50:33</span
               ><span class="points-container"
-                >Points: <span class="points">238</span></span
+                >Points: <span class="points">242</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35440552"
                   >Comments</a
-                ><span class="descendants">: 116</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -621,7 +649,7 @@
             <h4>
               <span>2023-04-04 @ 13:34:29</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35439326"
                   >Comments</a
@@ -640,11 +668,11 @@
             <h4>
               <span>2023-04-04 @ 11:42:33</span
               ><span class="points-container"
-                >Points: <span class="points">571</span></span
+                >Points: <span class="points">583</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35438068"
                   >Comments</a
-                ><span class="descendants">: 379</span></span
+                ><span class="descendants">: 382</span></span
               >
             </h4>
           </section>
@@ -661,11 +689,11 @@
             <h4>
               <span>2023-04-04 @ 09:52:57</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35437254"
                   >Comments</a
-                ><span class="descendants">: 343</span></span
+                ><span class="descendants">: 357</span></span
               >
             </h4>
           </section>
@@ -701,11 +729,11 @@
             <h4>
               <span>2023-04-04 @ 09:35:16</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35437136"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -722,11 +750,11 @@
             <h4>
               <span>2023-04-04 @ 09:21:01</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35437065"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -741,11 +769,11 @@
             <h4>
               <span>2023-04-04 @ 07:10:48</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35436154"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -762,7 +790,7 @@
             <h4>
               <span>2023-04-04 @ 06:24:06</span
               ><span class="points-container"
-                >Points: <span class="points">229</span></span
+                >Points: <span class="points">234</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35435811"
                   >Comments</a
@@ -783,11 +811,11 @@
             <h4>
               <span>2023-04-04 @ 05:42:54</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35435563"
                   >Comments</a
-                ><span class="descendants">: 177</span></span
+                ><span class="descendants">: 184</span></span
               >
             </h4>
           </section>
@@ -802,11 +830,11 @@
             <h4>
               <span>2023-04-04 @ 03:43:47</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35434768"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -864,11 +892,11 @@
             <h4>
               <span>2023-04-03 @ 23:20:00</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35432759"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -885,11 +913,11 @@
             <h4>
               <span>2023-04-03 @ 22:29:20</span
               ><span class="points-container"
-                >Points: <span class="points">282</span></span
+                >Points: <span class="points">285</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35432206"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
