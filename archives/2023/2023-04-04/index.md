@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 15:02:16](https://news.ycombinator.com/item?id=35440789) - [Researchers create new classification of chess openings](https://techxplore.com/news/2023-04-classification-chess.html)
+* [2023-04-04, 14:58:40](https://news.ycombinator.com/item?id=35440719) - [China&#x27;s tech weapon: Delay mergers for leverage, aid rivals](https://www.wsj.com/articles/chinas-new-tech-weapon-dragging-its-feet-on-global-merger-approvals-d653ca4a)
+* [2023-04-04, 14:53:48](https://news.ycombinator.com/item?id=35440608) - [Tiny, cheap smart speakers unlocked the rise of digital payments in India](https://restofworld.org/2023/india-sound-boxes-paytm-phonepe/)
+* [2023-04-04, 14:50:33](https://news.ycombinator.com/item?id=35440552) - [Show HN: We are building open-source IDE powered by AI agents that work for you](https://github.com/e2b-dev/e2b)
+* [2023-04-04, 14:50:18](https://news.ycombinator.com/item?id=35440548) - [Walmart’s redesigned website looks better than Amazon](https://www.theverge.com/2023/4/4/23669383/walmart-website-redesign-amazon)
 * [2023-04-04, 14:38:06](https://news.ycombinator.com/item?id=35440348) - [Tell HN: The ratio of wants-to-be-hired to is-hiring is at a record high 0.94](https://news.ycombinator.com/item?id=35440348)
 * [2023-04-04, 14:32:38](https://news.ycombinator.com/item?id=35440265) - [A guy made ChatGPT4 CEO of his company](https://johnfsantos.substack.com/p/week-2-morpheus-hes-beginning-to)
 * [2023-04-04, 14:27:11](https://news.ycombinator.com/item?id=35440194) - [Liu Yiqian](https://en.wikipedia.org/wiki/Liu_Yiqian)
