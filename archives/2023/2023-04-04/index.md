@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
+* [2023-04-04, 16:17:09](https://news.ycombinator.com/item?id=35442001) - [‘This shouldn’t be happening’: levels of banned CFCs rising](https://www.nature.com/articles/d41586-023-00940-2)
 * [2023-04-04, 16:16:54](https://news.ycombinator.com/item?id=35441997) - [Supercentenarian records show patterns indicative of errors and pension fraud](https://www.biorxiv.org/content/10.1101/704080v2)
+* [2023-04-04, 16:13:17](https://news.ycombinator.com/item?id=35441941) - [Show HN: ChatIDE – DIY Github Copilot X](https://github.com/yagil/ChatIDE)
 * [2023-04-04, 16:10:02](https://news.ycombinator.com/item?id=35441886) - [Ask HN: If Unix is written in C, how did they run C before Unix?](https://news.ycombinator.com/item?id=35441886)
 * [2023-04-04, 16:07:44](https://news.ycombinator.com/item?id=35441844) - [Goldman Sachs Predicts 300M Jobs Will Be Lost or Degraded by AI](https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/)
 * [2023-04-04, 15:27:33](https://news.ycombinator.com/item?id=35441211) - [Frank founder allegedly defrauded JPMorgan out of $175M hit with federal charges](https://www.businessinsider.com/charlie-javice-frank-criminal-charges-financial-fraud-jpmorgan-chase-2023-1)
@@ -51,6 +53,7 @@
 * [2023-04-04, 08:17:17](https://news.ycombinator.com/item?id=35436605) - [Emacs in Odd Places (2020)](https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places)
 * [2023-04-04, 08:16:23](https://news.ycombinator.com/item?id=35436600) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
 * [2023-04-04, 07:52:30](https://news.ycombinator.com/item?id=35436435) - [Physicists Create &#x27;Slits in Time&#x27; and Discover Unexpected Physics in Experiment](https://www.vice.com/en/article/dy38xk/physicists-created-slits-in-time-and-discovered-unexpected-physics-in-experiment)
+* [2023-04-04, 07:19:36](https://news.ycombinator.com/item?id=35436224) - [Orthogonal Time-Frequency Space Modulation: A Promising Next-Generation Waveform](https://ieeexplore.ieee.org/abstract/document/9508932)
 * [2023-04-04, 07:10:48](https://news.ycombinator.com/item?id=35436154) - [Totem construction system with cuttable parts](https://totemmaker.net/)
 * [2023-04-04, 07:00:32](https://news.ycombinator.com/item?id=35436068) - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 400GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [If you can&#x27;t write assembly like a poet, you can read disassembly like a hunter](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
