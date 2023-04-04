@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
+* [2023-04-04, 16:16:54](https://news.ycombinator.com/item?id=35441997) - [Supercentenarian records show patterns indicative of errors and pension fraud](https://www.biorxiv.org/content/10.1101/704080v2)
+* [2023-04-04, 16:10:02](https://news.ycombinator.com/item?id=35441886) - [Ask HN: If Unix is written in C, how did they run C before Unix?](https://news.ycombinator.com/item?id=35441886)
 * [2023-04-04, 16:07:44](https://news.ycombinator.com/item?id=35441844) - [Goldman Sachs Predicts 300M Jobs Will Be Lost or Degraded by AI](https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/)
 * [2023-04-04, 15:27:33](https://news.ycombinator.com/item?id=35441211) - [Frank founder allegedly defrauded JPMorgan out of $175M hit with federal charges](https://www.businessinsider.com/charlie-javice-frank-criminal-charges-financial-fraud-jpmorgan-chase-2023-1)
 * [2023-04-04, 15:25:36](https://news.ycombinator.com/item?id=35441180) - [Ask HN: Courses&#x2F;textbook recommendations for studying robotics?](https://news.ycombinator.com/item?id=35441180)
@@ -16,9 +18,7 @@
 * [2023-04-04, 13:34:29](https://news.ycombinator.com/item?id=35439326) - [Why TinyML is still so hard to get excited about](https://staceyoniot.com/why-tinyml-is-still-so-hard-to-get-excited-about/)
 * [2023-04-04, 12:00:52](https://news.ycombinator.com/item?id=35438223) - [Reclaim Protocol (YC W21) Is Hiring Mechanism Design&#x2F;Game Theory Researchers](https://www.ycombinator.com/companies/questbook/jobs/BqXBrUU-game-theory-mechanism-design-researcher)
 * [2023-04-04, 11:58:09](https://news.ycombinator.com/item?id=35438192) - [MLOps is mostly data engineering](https://www.cpard.xyz/posts/mlops_is_mostly_data_engineering/)
-* [2023-04-04, 11:42:33](https://news.ycombinator.com/item?id=35438068) - [How to be a -10x Engineer](https://taylor.town/-10x)
 * [2023-04-04, 11:02:44](https://news.ycombinator.com/item?id=35437726) - [Stanford just released a 386-page report on the state of AI](https://twitter.com/nonmayorpete/status/1643012248720523264)
-* [2023-04-04, 10:37:05](https://news.ycombinator.com/item?id=35437533) - [Entrepreneurs who regret starting businesses](https://www.bbc.com/worklife/article/20230402-the-entrepreneurs-who-regret-starting-businesses)
 * [2023-04-04, 09:52:57](https://news.ycombinator.com/item?id=35437254) - [We need a much more sophisticated debate about AI](https://www.ft.com/content/87108d74-b4fe-4271-bdfb-7828ba2ea351)
 * [2023-04-04, 09:39:04](https://news.ycombinator.com/item?id=35437165) - [A Generalized Ray Formulation for Wave-Optics Rendering](https://ssteinberg.xyz/2023/03/27/rtplt/)
 * [2023-04-04, 09:35:16](https://news.ycombinator.com/item?id=35437136) - [Sugihara&#x27;s Dog](https://twitter.com/AkiyoshiKitaoka/status/1642871991932944385)
