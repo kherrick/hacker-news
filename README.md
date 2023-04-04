@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 11:02:44](https://news.ycombinator.com/item?id=35437726) - [Stanford just released a 386-page report on the state of AI](https://twitter.com/nonmayorpete/status/1643012248720523264)
 * [2023-04-04, 10:41:48](https://news.ycombinator.com/item?id=35437556) - [TikTok fined £12.7M for misusing children&#x27;s data](https://www.bbc.co.uk/news/uk-65175902)
 * [2023-04-04, 08:43:29](https://news.ycombinator.com/item?id=35436822) - [We are hurtling toward a glitchy, spammy, scammy, AI-powered internet](https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powe)
 * [2023-04-04, 07:00:32](https://news.ycombinator.com/item?id=35436068) - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 400GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
@@ -17,7 +18,6 @@
 * [2023-04-03, 20:52:56](https://news.ycombinator.com/item?id=35431119) - [System76 Open Firmware](https://github.com/system76/firmware-open)
 * [2023-04-03, 20:48:10](https://news.ycombinator.com/item?id=35431057) - [Measuring Trends in Artificial Intelligence](https://aiindex.stanford.edu/report/)
 * [2023-04-03, 20:42:59](https://news.ycombinator.com/item?id=35430993) - [$60&#x2F;MWh for advanced nuclear electricity is achievable: GE Hitachi Executive](https://www.utilitydive.com/news/advanced-nuclear-ge-hitachi-mwh-nuscale-smr-small-modular-reactor/630154/)
-* [2023-04-03, 20:02:51](https://news.ycombinator.com/item?id=35430432) - [State-of-the-art open-source chatbot, Vicuna-13B, just released model weights](https://twitter.com/lmsysorg/status/1642968294998306816)
 * [2023-04-03, 19:21:34](https://news.ycombinator.com/item?id=35429801) - [Ask HN: What lesser-known accessories do you use with your computer?](https://news.ycombinator.com/item?id=35429801)
 * [2023-04-03, 17:00:42](https://news.ycombinator.com/item?id=35427343) - [Show HN: Hocus – self-hosted alternative to GitHub Codespaces using Firecracker](https://github.com/hocus-dev/hocus)
 * [2023-04-03, 16:18:48](https://news.ycombinator.com/item?id=35426482) - [Launch HN: OutSail (YC W23) – Wingsails to reduce cargo ship fuel consumption](https://news.ycombinator.com/item?id=35426482)
