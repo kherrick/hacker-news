@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
 * [2023-04-04, 11:02:44](https://news.ycombinator.com/item?id=35437726) - [Stanford just released a 386-page report on the state of AI](https://twitter.com/nonmayorpete/status/1643012248720523264)
+* [2023-04-04, 10:58:55](https://news.ycombinator.com/item?id=35437705) - [Germany’s Federal Office of Justice initiates fine proceedings against Twitter](https://twitter.com/doener_tech/status/1643206286140375042)
 * [2023-04-04, 10:41:48](https://news.ycombinator.com/item?id=35437556) - [TikTok fined £12.7M for misusing children&#x27;s data](https://www.bbc.co.uk/news/uk-65175902)
 * [2023-04-04, 10:25:36](https://news.ycombinator.com/item?id=35437449) - [TikTok fined £12.7M for UK data protection law breaches – TikTok](https://www.theguardian.com/technology/2023/apr/04/tiktok-fined-uk-data-protection-law-breaches)
 * [2023-04-04, 08:43:29](https://news.ycombinator.com/item?id=35436822) - [We are hurtling toward a glitchy, spammy, scammy, AI-powered internet](https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powe)
