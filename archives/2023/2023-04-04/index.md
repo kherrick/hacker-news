@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-04-04](index.md)
+
+* [2023-04-04, 00:13:52](https://news.ycombinator.com/item?id=35433285) - [Feedly Launches Strikebreaking as a Service](https://newsletter.mollywhite.net/p/feedly-launches-strikebreaking-as)
