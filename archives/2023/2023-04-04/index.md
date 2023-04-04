@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 14:08:15](https://news.ycombinator.com/item?id=35439868) - [European Commission ask Nintendo to repair controllers](https://social.network.europa.eu/@EU_Commission/110140022257601348)
 * [2023-04-04, 13:55:35](https://news.ycombinator.com/item?id=35439673) - [Amazon to close Book Depository online shop](https://www.theguardian.com/books/2023/apr/04/amazon-to-close-book-depository-online-shop)
+* [2023-04-04, 13:39:20](https://news.ycombinator.com/item?id=35439393) - [Double-anonymous peer review reduces reviewer bias, finds three-year trial](https://www.britishecologicalsociety.org/double-anonymous-peer-review-reduces-reviewer-bias-find-three-year-trial/)
 * [2023-04-04, 13:34:29](https://news.ycombinator.com/item?id=35439326) - [Why TinyML is still so hard to get excited about](https://staceyoniot.com/why-tinyml-is-still-so-hard-to-get-excited-about/)
 * [2023-04-04, 13:27:49](https://news.ycombinator.com/item?id=35439232) - [The End of Matter (1906) by Henri Poincaré](https://en.wikisource.org/wiki/Translation:The_End_of_Matter)
 * [2023-04-04, 13:18:53](https://news.ycombinator.com/item?id=35439130) - [GPT-4 is barely 3 weeks old. things created with GPT-4](https://twitter.com/samuelwoods_/status/1642889718336479233)
