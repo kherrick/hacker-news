@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
+* [2023-04-04, 16:07:44](https://news.ycombinator.com/item?id=35441844) - [Goldman Sachs Predicts 300M Jobs Will Be Lost or Degraded by AI](https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/)
 * [2023-04-04, 15:27:33](https://news.ycombinator.com/item?id=35441211) - [Frank founder allegedly defrauded JPMorgan out of $175M hit with federal charges](https://www.businessinsider.com/charlie-javice-frank-criminal-charges-financial-fraud-jpmorgan-chase-2023-1)
 * [2023-04-04, 15:25:36](https://news.ycombinator.com/item?id=35441180) - [Ask HN: Courses&#x2F;textbook recommendations for studying robotics?](https://news.ycombinator.com/item?id=35441180)
 * [2023-04-04, 15:17:34](https://news.ycombinator.com/item?id=35441047) - [Arizona Fight over Half-Cent Sales Tax Threatens Semiconductor Expansion](https://www.wsj.com/articles/arizona-fight-over-half-cent-sales-tax-threatens-semiconductor-expansion-1cd5c552)
-* [2023-04-04, 15:02:16](https://news.ycombinator.com/item?id=35440789) - [Researchers create new classification of chess openings](https://techxplore.com/news/2023-04-classification-chess.html)
 * [2023-04-04, 14:58:40](https://news.ycombinator.com/item?id=35440719) - [China&#x27;s tech weapon: Delay mergers for leverage, aid rivals](https://www.wsj.com/articles/chinas-new-tech-weapon-dragging-its-feet-on-global-merger-approvals-d653ca4a)
 * [2023-04-04, 14:53:48](https://news.ycombinator.com/item?id=35440608) - [Tiny, cheap smart speakers unlocked the rise of digital payments in India](https://restofworld.org/2023/india-sound-boxes-paytm-phonepe/)
 * [2023-04-04, 14:52:33](https://news.ycombinator.com/item?id=35440590) - [Achilles Heels for AGI&#x2F;ASI via Decision Theoretic Adversaries](https://arxiv.org/abs/2010.05418)
@@ -27,7 +28,6 @@
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [Even if you can&#x27;t write assembly, you can read disassembly](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
 * [2023-04-04, 03:43:47](https://news.ycombinator.com/item?id=35434768) - [How to pack a stereo signal in one record groove](https://www.vinylrecorder.com/stereo.html)
 * [2023-04-04, 02:50:53](https://news.ycombinator.com/item?id=35434374) - [Flecs – A fast entity component system for C and C++](https://www.flecs.dev/flecs/)
-* [2023-04-04, 01:56:23](https://news.ycombinator.com/item?id=35433982) - [Double-slit time diffraction at optical frequencies](https://www.nature.com/articles/s41567-023-01993-w)
 * [2023-04-03, 23:33:03](https://news.ycombinator.com/item?id=35432918) - [Proton’s mass radius is apparently shorter than its charge radius](https://arstechnica.com/science/2023/04/protons-mass-radius-is-apparently-shorter-than-its-charge-radius/)
 * [2023-04-03, 22:29:20](https://news.ycombinator.com/item?id=35432206) - [Photographer Captures Ultra-Rare Red Ring of Light Over Italy](https://petapixel.com/2023/04/03/photographer-captures-ultra-rare-red-ring-of-light-over-italy/)
 
