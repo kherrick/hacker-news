@@ -6,6 +6,7 @@
 
 * [2023-04-03, 23:36:13](https://news.ycombinator.com/item?id=35432958) - [Engineering with Enclaves](https://www.onefootprint.com/blog/inside-the-enclave-part-2)
 * [2023-04-03, 23:33:03](https://news.ycombinator.com/item?id=35432918) - [Proton’s mass radius is apparently shorter than its charge radius](https://arstechnica.com/science/2023/04/protons-mass-radius-is-apparently-shorter-than-its-charge-radius/)
+* [2023-04-03, 23:17:16](https://news.ycombinator.com/item?id=35432725) - [The ghost of Ancient Rome haunts America](https://unherd.com/2023/03/the-ghost-of-ancient-rome-haunts-america/)
 * [2023-04-03, 22:32:46](https://news.ycombinator.com/item?id=35432243) - [Hacking the Samsung NX300 &#x27;Smart&#x27; Camera](https://op-co.de/blog/posts/hacking_the_nx300/)
 * [2023-04-03, 22:29:20](https://news.ycombinator.com/item?id=35432206) - [Photographer Captures Ultra-Rare Red Ring of Light Over Italy](https://petapixel.com/2023/04/03/photographer-captures-ultra-rare-red-ring-of-light-over-italy/)
 * [2023-04-03, 22:20:02](https://news.ycombinator.com/item?id=35432115) - [What if ChatGPT was trained on decades of financial news and data?](https://www.niemanlab.org/2023/04/what-if-chatgpt-was-trained-on-decades-of-financial-news-and-data-bloomberggpt-aims-to-be-a-domain-specific-ai-for-business-news/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 17:45:19](https://news.ycombinator.com/item?id=35443361) - [Microsoft tests Windows account menu error badge when Microsoft Account not used](https://twitter.com/thebookisclosed/status/1638607997952987137)
 * [2023-04-04, 17:15:53](https://news.ycombinator.com/item?id=35442890) - [Show HN: Gat – cat alternative written in Go](https://github.com/koki-develop/gat)
 * [2023-04-04, 17:01:15](https://news.ycombinator.com/item?id=35442681) - [Skio (YC S20) Is Hiring](https://skio.com/careers/)
 * [2023-04-04, 16:58:21](https://news.ycombinator.com/item?id=35442642) - [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
@@ -8,7 +9,6 @@
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
 * [2023-04-04, 16:17:09](https://news.ycombinator.com/item?id=35442001) - [Levels of banned CFCs rising](https://www.nature.com/articles/d41586-023-00940-2)
 * [2023-04-04, 16:16:54](https://news.ycombinator.com/item?id=35441997) - [Supercentenarian records show patterns indicative of errors and pension fraud](https://www.biorxiv.org/content/10.1101/704080v2)
-* [2023-04-04, 15:27:33](https://news.ycombinator.com/item?id=35441211) - [Frank founder allegedly defrauded JPMorgan out of $175M hit with federal charges](https://www.businessinsider.com/charlie-javice-frank-criminal-charges-financial-fraud-jpmorgan-chase-2023-1)
 * [2023-04-04, 15:25:36](https://news.ycombinator.com/item?id=35441180) - [Ask HN: Courses&#x2F;textbook recommendations for studying robotics?](https://news.ycombinator.com/item?id=35441180)
 * [2023-04-04, 14:53:48](https://news.ycombinator.com/item?id=35440608) - [Tiny, cheap smart speakers unlocked the rise of digital payments in India](https://restofworld.org/2023/india-sound-boxes-paytm-phonepe/)
 * [2023-04-04, 14:52:33](https://news.ycombinator.com/item?id=35440590) - [Achilles Heels for AGI&#x2F;ASI via Decision Theoretic Adversaries](https://arxiv.org/abs/2010.05418)
@@ -21,7 +21,6 @@
 * [2023-04-04, 09:39:04](https://news.ycombinator.com/item?id=35437165) - [A Generalized Ray Formulation for Wave-Optics Rendering](https://ssteinberg.xyz/2023/03/27/rtplt/)
 * [2023-04-04, 09:35:16](https://news.ycombinator.com/item?id=35437136) - [Sugihara&#x27;s Dog](https://twitter.com/AkiyoshiKitaoka/status/1642871991932944385)
 * [2023-04-04, 09:21:01](https://news.ycombinator.com/item?id=35437065) - [Circuit.js – Electronic circuit simulator on the web](http://lushprojects.com/circuitjs/circuitjs.html)
-* [2023-04-04, 08:17:17](https://news.ycombinator.com/item?id=35436605) - [Emacs in Odd Places (2020)](https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places)
 * [2023-04-04, 07:19:36](https://news.ycombinator.com/item?id=35436224) - [Orthogonal Time-Frequency Space Modulation: A Promising Next-Generation Waveform (2021)](https://arxiv.org/abs/2010.03344)
 * [2023-04-04, 07:10:48](https://news.ycombinator.com/item?id=35436154) - [Totem construction system with cuttable parts](https://totemmaker.net/)
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [Even if you can&#x27;t write assembly, you can read disassembly](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
@@ -29,6 +28,7 @@
 * [2023-04-04, 03:43:47](https://news.ycombinator.com/item?id=35434768) - [How to pack a stereo signal in one record groove](https://www.vinylrecorder.com/stereo.html)
 * [2023-04-04, 01:47:05](https://news.ycombinator.com/item?id=35433924) - [Aesthetics of Indeterminacy: The Architecture of Conglomerates](https://journal.eahn.org/article/id/8305/)
 * [2023-04-03, 23:33:03](https://news.ycombinator.com/item?id=35432918) - [Proton’s mass radius is apparently shorter than its charge radius](https://arstechnica.com/science/2023/04/protons-mass-radius-is-apparently-shorter-than-its-charge-radius/)
+* [2023-04-03, 23:17:16](https://news.ycombinator.com/item?id=35432725) - [The ghost of Ancient Rome haunts America](https://unherd.com/2023/03/the-ghost-of-ancient-rome-haunts-america/)
 * [2023-04-03, 22:29:20](https://news.ycombinator.com/item?id=35432206) - [Photographer captures ultra-rare red ring of light over Italy](https://petapixel.com/2023/04/03/photographer-captures-ultra-rare-red-ring-of-light-over-italy/)
 
 ## [Archives](archives/index.md)
