@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 18:21:55](https://news.ycombinator.com/item?id=35443899) - [Airbnb Account Suspension ft. GPT-4](https://gist.github.com/itayplav/a6c98c3f9c0436d517bbbdc78b024f4f)
 * [2023-04-04, 17:45:19](https://news.ycombinator.com/item?id=35443361) - [Microsoft tests Windows account menu error badge when Microsoft Account not used](https://twitter.com/thebookisclosed/status/1638607997952987137)
 * [2023-04-04, 17:28:59](https://news.ycombinator.com/item?id=35443084) - [Do Kwon Faces 100 Years in Prison in the US and 40 Years in South Korea](https://news.coincu.com/178458-do-kwon-100-years-40-years-in-south-korea/)
 * [2023-04-04, 17:20:14](https://news.ycombinator.com/item?id=35442947) - [Ask HN: Are you still doing Intermittent Fasting?](https://news.ycombinator.com/item?id=35442947)
