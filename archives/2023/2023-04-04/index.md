@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 18:31:04](https://news.ycombinator.com/item?id=35444018) - [Maybe we can have a specific tab for submitted contents about GPT and AI](https://news.ycombinator.com/item?id=35444018)
+* [2023-04-04, 18:27:48](https://news.ycombinator.com/item?id=35443976) - [Creator of Catan, Klaus Teuber, has passed away at the age of 70](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
 * [2023-04-04, 18:21:55](https://news.ycombinator.com/item?id=35443899) - [Airbnb Account Suspension ft. GPT-4](https://gist.github.com/itayplav/a6c98c3f9c0436d517bbbdc78b024f4f)
 * [2023-04-04, 17:45:19](https://news.ycombinator.com/item?id=35443361) - [Microsoft tests Windows account menu error badge when Microsoft Account not used](https://twitter.com/thebookisclosed/status/1638607997952987137)
 * [2023-04-04, 17:28:59](https://news.ycombinator.com/item?id=35443084) - [Do Kwon Faces 100 Years in Prison in the US and 40 Years in South Korea](https://news.coincu.com/178458-do-kwon-100-years-40-years-in-south-korea/)
@@ -11,6 +13,7 @@
 * [2023-04-04, 17:15:53](https://news.ycombinator.com/item?id=35442890) - [Show HN: Gat – cat alternative written in Go](https://github.com/koki-develop/gat)
 * [2023-04-04, 17:01:15](https://news.ycombinator.com/item?id=35442681) - [Skio (YC S20) Is Hiring](https://skio.com/careers/)
 * [2023-04-04, 16:58:21](https://news.ycombinator.com/item?id=35442642) - [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
+* [2023-04-04, 16:51:39](https://news.ycombinator.com/item?id=35442539) - [Growth of AI Through a Cloud Lens](https://mitchellh.com/writing/ai-through-a-cloud-lens)
 * [2023-04-04, 16:48:00](https://news.ycombinator.com/item?id=35442483) - [LangChain Announces 10M Seed Round](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/)
 * [2023-04-04, 16:24:22](https://news.ycombinator.com/item?id=35442116) - [New tool from curl creator – trurl – for URL parsing and manipulation](https://github.com/curl/trurl)
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
