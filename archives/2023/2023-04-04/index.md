@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 13:06:50](https://news.ycombinator.com/item?id=35439002) - [Intel Blocks Undervolting: The Whole Story](https://old.reddit.com/r/intel/comments/10slejm/intel_blocks_undervolting_the_whole_story/)
 * [2023-04-04, 12:32:28](https://news.ycombinator.com/item?id=35438569) - [Google workers in London stage walkout over job cuts](https://www.reuters.com/technology/google-workers-london-stage-walkout-over-job-cuts-2023-04-04/)
+* [2023-04-04, 12:29:32](https://news.ycombinator.com/item?id=35438524) - [Finland becomes the 31st member of NATO](https://www.nato.int/cps/en/natohq/events_67375.htm)
 * [2023-04-04, 12:18:48](https://news.ycombinator.com/item?id=35438400) - [Show HN: Promptr, let GPT operate on your codebase and other useful goodies](https://github.com/ferrislucas/promptr)
 * [2023-04-04, 12:00:52](https://news.ycombinator.com/item?id=35438223) - [Reclaim Protocol (YC W21) Is Hiring Mechanism Design&#x2F;Game Theory Researchers](https://www.ycombinator.com/companies/questbook/jobs/BqXBrUU-game-theory-mechanism-design-researcher)
 * [2023-04-04, 11:58:09](https://news.ycombinator.com/item?id=35438192) - [The Great MLOps Hoax: Is It Just Data Engineering in Disguise?](https://www.cpard.xyz/posts/mlops_is_mostly_data_engineering/)
