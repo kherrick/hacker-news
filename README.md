@@ -2,6 +2,7 @@
 
 * [2023-04-04, 18:31:04](https://news.ycombinator.com/item?id=35444018) - [Maybe we can have a specific tab for submitted contents about GPT and AI](https://news.ycombinator.com/item?id=35444018)
 * [2023-04-04, 18:27:48](https://news.ycombinator.com/item?id=35443976) - [Creator of Catan, Klaus Teuber, has passed away at the age of 70](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
+* [2023-04-04, 17:59:47](https://news.ycombinator.com/item?id=35443585) - [The time Bell Labs brought the Statue of Liberty under its roof (Literally)](https://nickvsnetworking.com/the-time-bell-labs-brought-the-statue-of-liberty-under-its-roof-literally/)
 * [2023-04-04, 17:45:19](https://news.ycombinator.com/item?id=35443361) - [Microsoft tests Windows account menu error badge when Microsoft Account not used](https://twitter.com/thebookisclosed/status/1638607997952987137)
 * [2023-04-04, 17:15:53](https://news.ycombinator.com/item?id=35442890) - [Show HN: Gat – cat alternative written in Go](https://github.com/koki-develop/gat)
 * [2023-04-04, 17:01:15](https://news.ycombinator.com/item?id=35442681) - [Skio (YC S20) Is Hiring](https://skio.com/careers/)
@@ -13,7 +14,6 @@
 * [2023-04-04, 16:16:54](https://news.ycombinator.com/item?id=35441997) - [Supercentenarian records show patterns indicative of errors and pension fraud](https://www.biorxiv.org/content/10.1101/704080v2)
 * [2023-04-04, 15:25:36](https://news.ycombinator.com/item?id=35441180) - [Ask HN: Courses&#x2F;textbook recommendations for studying robotics?](https://news.ycombinator.com/item?id=35441180)
 * [2023-04-04, 14:53:48](https://news.ycombinator.com/item?id=35440608) - [Tiny, cheap smart speakers unlocked the rise of digital payments in India](https://restofworld.org/2023/india-sound-boxes-paytm-phonepe/)
-* [2023-04-04, 14:52:33](https://news.ycombinator.com/item?id=35440590) - [Achilles Heels for AGI&#x2F;ASI via Decision Theoretic Adversaries](https://arxiv.org/abs/2010.05418)
 * [2023-04-04, 14:50:33](https://news.ycombinator.com/item?id=35440552) - [Show HN: We are building an open-source IDE powered by AI](https://github.com/e2b-dev/e2b)
 * [2023-04-04, 13:34:29](https://news.ycombinator.com/item?id=35439326) - [Why TinyML is still so hard to get excited about](https://staceyoniot.com/why-tinyml-is-still-so-hard-to-get-excited-about/)
 * [2023-04-04, 11:42:33](https://news.ycombinator.com/item?id=35438068) - [How to be a -10x Engineer](https://taylor.town/-10x)
