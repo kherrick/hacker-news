@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 12:00:52](https://news.ycombinator.com/item?id=35438223) - [Reclaim Protocol (YC W21) Is Hiring Mechanism Design&#x2F;Game Theory Researchers](https://www.ycombinator.com/companies/questbook/jobs/BqXBrUU-game-theory-mechanism-design-researcher)
 * [2023-04-04, 11:02:44](https://news.ycombinator.com/item?id=35437726) - [Stanford just released a 386-page report on the state of AI](https://twitter.com/nonmayorpete/status/1643012248720523264)
 * [2023-04-04, 10:58:55](https://news.ycombinator.com/item?id=35437705) - [Germany’s Federal Office of Justice initiates fine proceedings against Twitter](https://twitter.com/doener_tech/status/1643206286140375042)
 * [2023-04-04, 10:41:48](https://news.ycombinator.com/item?id=35437556) - [TikTok fined £12.7M for misusing children&#x27;s data](https://www.bbc.co.uk/news/uk-65175902)
@@ -14,6 +15,8 @@
 * [2023-04-04, 09:39:04](https://news.ycombinator.com/item?id=35437165) - [A Generalized Ray Formulation for Wave-Optics Rendering](https://ssteinberg.xyz/2023/03/27/rtplt/)
 * [2023-04-04, 09:35:16](https://news.ycombinator.com/item?id=35437136) - [Sugihara&#x27;s Dog](https://twitter.com/AkiyoshiKitaoka/status/1642871991932944385)
 * [2023-04-04, 08:43:29](https://news.ycombinator.com/item?id=35436822) - [We are hurtling toward a glitchy, spammy, scammy, AI-powered internet](https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powe)
+* [2023-04-04, 08:17:17](https://news.ycombinator.com/item?id=35436605) - [Emacs in Odd Places (2020)](https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places)
+* [2023-04-04, 08:16:23](https://news.ycombinator.com/item?id=35436600) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
 * [2023-04-04, 07:52:30](https://news.ycombinator.com/item?id=35436435) - [Physicists Create &#x27;Slits in Time&#x27; and Discover Unexpected Physics in Experiment](https://www.vice.com/en/article/dy38xk/physicists-created-slits-in-time-and-discovered-unexpected-physics-in-experiment)
 * [2023-04-04, 07:00:32](https://news.ycombinator.com/item?id=35436068) - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 400GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [If you can&#x27;t write assembly like a poet, you can read disassembly like a hunter](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
