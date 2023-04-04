@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-04, 02:08:48](https://news.ycombinator.com/item?id=35434066) - [FAA DNS is under attack](https://faa.gov)
 * [2023-04-04, 01:56:23](https://news.ycombinator.com/item?id=35433982) - [Double-slit time diffraction at optical frequencies](https://www.nature.com/articles/s41567-023-01993-w)
 * [2023-04-04, 01:45:48](https://news.ycombinator.com/item?id=35433918) - [Tesla ordered to pay more than $3M to former worker in racism suit](https://www.cnn.com/2023/04/03/business/tesla-racial-discrimination-case/index.html)
 * [2023-04-03, 23:36:13](https://news.ycombinator.com/item?id=35432958) - [Engineering with Enclaves](https://www.onefootprint.com/blog/inside-the-enclave-part-2)
@@ -10,6 +9,7 @@
 * [2023-04-03, 21:22:13](https://news.ycombinator.com/item?id=35431466) - [If parrots can talk, why can’t monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
 * [2023-04-03, 21:00:54](https://news.ycombinator.com/item?id=35431216) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-04-03, 20:52:56](https://news.ycombinator.com/item?id=35431119) - [System76 Open Firmware](https://github.com/system76/firmware-open)
+* [2023-04-03, 20:02:51](https://news.ycombinator.com/item?id=35430432) - [State-of-the-art open-source chatbot, Vicuna-13B, just released model weights](https://twitter.com/lmsysorg/status/1642968294998306816)
 * [2023-04-03, 19:47:26](https://news.ycombinator.com/item?id=35430188) - [Introducing Agents in Haystack: Make LLMs resolve complex tasks](https://haystack.deepset.ai/blog/introducing-haystack-agents)
 * [2023-04-03, 19:21:34](https://news.ycombinator.com/item?id=35429801) - [Ask HN: What lesser-known accessories do you use with your computer?](https://news.ycombinator.com/item?id=35429801)
 * [2023-04-03, 18:42:57](https://news.ycombinator.com/item?id=35429198) - [Was there a U.S. nuclear weapons accident at a Dutch air base?](https://fas.org/blogs/security/2023/04/volkel-nuclear-weapon-accident/)
