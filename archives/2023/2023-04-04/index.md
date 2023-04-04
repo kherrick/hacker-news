@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
 * [2023-04-04, 07:00:32](https://news.ycombinator.com/item?id=35436068) - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 400GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+* [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [If you can&#x27;t write assembly like a poet, you can read disassembly like a hunter](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
 * [2023-04-04, 05:42:54](https://news.ycombinator.com/item?id=35435563) - [The Electric Vehicles We Need Now Are E-Bikes](https://www.bloomberg.com/news/articles/2022-03-15/the-electric-vehicles-we-need-now-are-e-bikes)
 * [2023-04-04, 05:13:07](https://news.ycombinator.com/item?id=35435373) - [Airport scraps 100ml liquid rule with new scanners](https://www.bbc.co.uk/news/business-65163418)
 * [2023-04-04, 04:55:11](https://news.ycombinator.com/item?id=35435253) - [Ask HN: Fastest way to turn a Jupyter notebook into a website these days?](https://news.ycombinator.com/item?id=35435253)
