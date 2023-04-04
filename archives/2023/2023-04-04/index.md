@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 15:17:34](https://news.ycombinator.com/item?id=35441047) - [Arizona Fight over Half-Cent Sales Tax Threatens Semiconductor Expansion](https://www.wsj.com/articles/arizona-fight-over-half-cent-sales-tax-threatens-semiconductor-expansion-1cd5c552)
 * [2023-04-04, 15:03:52](https://news.ycombinator.com/item?id=35440815) - [Playing with Fire – ChatGPT](https://steveblank.com/2023/04/04/playing-with-fire-chatgpt/)
 * [2023-04-04, 15:02:16](https://news.ycombinator.com/item?id=35440789) - [Researchers create new classification of chess openings](https://techxplore.com/news/2023-04-classification-chess.html)
 * [2023-04-04, 14:58:40](https://news.ycombinator.com/item?id=35440719) - [China&#x27;s tech weapon: Delay mergers for leverage, aid rivals](https://www.wsj.com/articles/chinas-new-tech-weapon-dragging-its-feet-on-global-merger-approvals-d653ca4a)
