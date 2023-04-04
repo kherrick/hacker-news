@@ -34,6 +34,7 @@
 * [2023-04-04, 04:45:35](https://news.ycombinator.com/item?id=35435186) - [How SerenityOS Declares Ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
 * [2023-04-04, 04:34:58](https://news.ycombinator.com/item?id=35435126) - [Calling all open source maintainers – The GitHub Blog](https://github.blog/2023-04-03-calling-all-open-source-maintainers/)
 * [2023-04-04, 03:46:29](https://news.ycombinator.com/item?id=35434790) - [An LLM playground you can run on your laptop](https://github.com/nat/openplayground)
+* [2023-04-04, 03:43:47](https://news.ycombinator.com/item?id=35434768) - [How to pack a stereo signal in one record groove](https://www.vinylrecorder.com/stereo.html)
 * [2023-04-04, 03:34:09](https://news.ycombinator.com/item?id=35434704) - [OpenAI has temporarily stopped selling the Plus plan](https://old.reddit.com/r/OpenAI/comments/12b57q4/openai_has_temporarily_stopped_selling_the_plus/)
 * [2023-04-04, 03:31:03](https://news.ycombinator.com/item?id=35434679) - [Eight Things to Know About Large Language Models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
 * [2023-04-04, 03:21:43](https://news.ycombinator.com/item?id=35434587) - [The Future of Applications](https://mikecann.co.uk/posts/the-future-of-applications)
