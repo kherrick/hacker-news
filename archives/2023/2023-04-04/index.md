@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 23:04:08](https://news.ycombinator.com/item?id=35447025) - [“My long goodbye to Windows XP” (2022)](https://woodfromeden.substack.com/p/my-long-goodbye-to-windows-xp)
 * [2023-04-04, 22:43:49](https://news.ycombinator.com/item?id=35446847) - [ZSTD 1.5.5 is released with a corruption fix found at Google](https://github.com/facebook/zstd/releases/tag/v1.5.5)
 * [2023-04-04, 21:37:16](https://news.ycombinator.com/item?id=35446175) - [Mario Is Moving Away from Mobile Games, Reveals Nintendo’s Shigeru Miyamoto](https://variety.com/2023/digital/news/shigeru-miyamoto-new-mario-games-mobile-apps-nintendo-1235562472/)
 * [2023-04-04, 21:37:01](https://news.ycombinator.com/item?id=35446171) - [Build your own agents which are controlled by LLMs](https://github.com/mpaepper/llm_agents)

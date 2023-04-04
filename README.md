@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 23:04:08](https://news.ycombinator.com/item?id=35447025) - [“My long goodbye to Windows XP” (2022)](https://woodfromeden.substack.com/p/my-long-goodbye-to-windows-xp)
 * [2023-04-04, 22:43:49](https://news.ycombinator.com/item?id=35446847) - [ZSTD 1.5.5 is released with a corruption fix found at Google](https://github.com/facebook/zstd/releases/tag/v1.5.5)
 * [2023-04-04, 21:37:16](https://news.ycombinator.com/item?id=35446175) - [Mario Is Moving Away from Mobile Games, Reveals Nintendo’s Shigeru Miyamoto](https://variety.com/2023/digital/news/shigeru-miyamoto-new-mario-games-mobile-apps-nintendo-1235562472/)
 * [2023-04-04, 21:37:01](https://news.ycombinator.com/item?id=35446171) - [Build your own agents which are controlled by LLMs](https://github.com/mpaepper/llm_agents)
@@ -15,7 +16,6 @@
 * [2023-04-04, 16:48:00](https://news.ycombinator.com/item?id=35442483) - [LangChain Announces 10M Seed Round](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/)
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
 * [2023-04-04, 16:16:54](https://news.ycombinator.com/item?id=35441997) - [Supercentenarian records show patterns indicative of errors and pension fraud](https://www.biorxiv.org/content/10.1101/704080v2)
-* [2023-04-04, 15:25:36](https://news.ycombinator.com/item?id=35441180) - [Ask HN: Courses&#x2F;textbook recommendations for studying robotics?](https://news.ycombinator.com/item?id=35441180)
 * [2023-04-04, 14:53:48](https://news.ycombinator.com/item?id=35440608) - [Tiny, cheap smart speakers unlocked the rise of digital payments in India](https://restofworld.org/2023/india-sound-boxes-paytm-phonepe/)
 * [2023-04-04, 14:50:33](https://news.ycombinator.com/item?id=35440552) - [Show HN: We are building an open-source IDE powered by AI](https://github.com/e2b-dev/e2b)
 * [2023-04-04, 11:42:33](https://news.ycombinator.com/item?id=35438068) - [How to be a -10x Engineer](https://taylor.town/-10x)
