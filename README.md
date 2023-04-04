@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 13:55:35](https://news.ycombinator.com/item?id=35439673) - [Amazon to close Book Depository online shop](https://www.theguardian.com/books/2023/apr/04/amazon-to-close-book-depository-online-shop)
 * [2023-04-04, 13:34:29](https://news.ycombinator.com/item?id=35439326) - [Why TinyML is still so hard to get excited about](https://staceyoniot.com/why-tinyml-is-still-so-hard-to-get-excited-about/)
 * [2023-04-04, 13:27:49](https://news.ycombinator.com/item?id=35439232) - [The End of Matter (1906) by Henri Poincaré](https://en.wikisource.org/wiki/Translation:The_End_of_Matter)
 * [2023-04-04, 13:18:53](https://news.ycombinator.com/item?id=35439130) - [GPT-4 is barely 3 weeks old. things created with GPT-4](https://twitter.com/samuelwoods_/status/1642889718336479233)
@@ -26,7 +27,6 @@
 * [2023-04-04, 02:43:05](https://news.ycombinator.com/item?id=35434314) - [Google reverses 5M file limit in Google Drive](https://twitter.com/googledrive/status/1643049029251776515)
 * [2023-04-03, 23:33:03](https://news.ycombinator.com/item?id=35432918) - [Proton’s mass radius is apparently shorter than its charge radius](https://arstechnica.com/science/2023/04/protons-mass-radius-is-apparently-shorter-than-its-charge-radius/)
 * [2023-04-03, 16:18:48](https://news.ycombinator.com/item?id=35426482) - [Launch HN: OutSail (YC W23) – Wingsails to reduce cargo ship fuel consumption](https://news.ycombinator.com/item?id=35426482)
-* [2023-04-03, 15:02:02](https://news.ycombinator.com/item?id=35424807) - [Ask HN: Who is hiring? (April 2023)](https://news.ycombinator.com/item?id=35424807)
 * [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 03:46:08](https://news.ycombinator.com/item?id=35418320) - [Rational Dress Society](https://en.wikipedia.org/wiki/Rational_Dress_Society)
 * [2023-04-01, 17:03:02](https://news.ycombinator.com/item?id=35401895) - [His software sang the words of God. Then it went silent](https://www.inverse.com/input/features/tropetrainer-thomas-buchler-torah-software)
