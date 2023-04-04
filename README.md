@@ -2,7 +2,6 @@
 
 * [2023-04-04, 18:27:48](https://news.ycombinator.com/item?id=35443976) - [Creator of Catan, Klaus Teuber, has passed away at the age of 70](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
 * [2023-04-04, 17:59:47](https://news.ycombinator.com/item?id=35443585) - [The time Bell Labs brought the Statue of Liberty under its roof (Literally)](https://nickvsnetworking.com/the-time-bell-labs-brought-the-statue-of-liberty-under-its-roof-literally/)
-* [2023-04-04, 17:45:19](https://news.ycombinator.com/item?id=35443361) - [Microsoft tests Windows account menu error badge when Microsoft Account not used](https://twitter.com/thebookisclosed/status/1638607997952987137)
 * [2023-04-04, 17:15:53](https://news.ycombinator.com/item?id=35442890) - [Show HN: Gat – cat alternative written in Go](https://github.com/koki-develop/gat)
 * [2023-04-04, 17:01:15](https://news.ycombinator.com/item?id=35442681) - [Skio (YC S20) Is Hiring](https://skio.com/careers/)
 * [2023-04-04, 16:58:21](https://news.ycombinator.com/item?id=35442642) - [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
@@ -28,6 +27,7 @@
 * [2023-04-04, 03:43:47](https://news.ycombinator.com/item?id=35434768) - [How to pack a stereo signal in one record groove](https://www.vinylrecorder.com/stereo.html)
 * [2023-04-04, 01:47:05](https://news.ycombinator.com/item?id=35433924) - [Aesthetics of Indeterminacy: The Architecture of Conglomerates](https://journal.eahn.org/article/id/8305/)
 * [2023-04-03, 23:33:03](https://news.ycombinator.com/item?id=35432918) - [Proton’s mass radius is apparently shorter than its charge radius](https://arstechnica.com/science/2023/04/protons-mass-radius-is-apparently-shorter-than-its-charge-radius/)
+* [2023-04-03, 23:20:00](https://news.ycombinator.com/item?id=35432759) - [Kioxia Researchers Demo Hepta-Level Cell NAND Flash](https://www.tomshardware.com/news/kioxia-helpta-level-cell-nand-nearly-2x-capacity-vs-qlc)
 * [2023-04-03, 23:17:16](https://news.ycombinator.com/item?id=35432725) - [The ghost of Ancient Rome haunts America](https://unherd.com/2023/03/the-ghost-of-ancient-rome-haunts-america/)
 * [2023-04-03, 22:29:20](https://news.ycombinator.com/item?id=35432206) - [Photographer captures ultra-rare red ring of light over Italy](https://petapixel.com/2023/04/03/photographer-captures-ultra-rare-red-ring-of-light-over-italy/)
 
