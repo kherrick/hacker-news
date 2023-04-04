@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 07:52:30](https://news.ycombinator.com/item?id=35436435) - [Physicists Create &#x27;Slits in Time&#x27; and Discover Unexpected Physics in Experiment](https://www.vice.com/en/article/dy38xk/physicists-created-slits-in-time-and-discovered-unexpected-physics-in-experiment)
 * [2023-04-04, 07:00:32](https://news.ycombinator.com/item?id=35436068) - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 400GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [If you can&#x27;t write assembly like a poet, you can read disassembly like a hunter](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
 * [2023-04-04, 05:42:54](https://news.ycombinator.com/item?id=35435563) - [The Electric Vehicles We Need Now Are E-Bikes (2022)](https://www.bloomberg.com/news/articles/2022-03-15/the-electric-vehicles-we-need-now-are-e-bikes)
@@ -15,7 +16,6 @@
 * [2023-04-03, 21:40:47](https://news.ycombinator.com/item?id=35431678) - [How HyperCard got its color back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
 * [2023-04-03, 21:22:13](https://news.ycombinator.com/item?id=35431466) - [If parrots can talk, why can’t monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
 * [2023-04-03, 20:52:56](https://news.ycombinator.com/item?id=35431119) - [System76 Open Firmware](https://github.com/system76/firmware-open)
-* [2023-04-03, 20:02:51](https://news.ycombinator.com/item?id=35430432) - [State-of-the-art open-source chatbot, Vicuna-13B, just released model weights](https://twitter.com/lmsysorg/status/1642968294998306816)
 * [2023-04-03, 19:47:26](https://news.ycombinator.com/item?id=35430188) - [Introducing Agents in Haystack: Make LLMs resolve complex tasks](https://haystack.deepset.ai/blog/introducing-haystack-agents)
 * [2023-04-03, 19:21:34](https://news.ycombinator.com/item?id=35429801) - [Ask HN: What lesser-known accessories do you use with your computer?](https://news.ycombinator.com/item?id=35429801)
 * [2023-04-03, 18:08:55](https://news.ycombinator.com/item?id=35428625) - [Stop-Motion Movies Are Animated at Aardman [video]](https://www.youtube.com/watch?v=jZvQzkFcKEM)
