@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-04, 17:20:14",
+      "https://news.ycombinator.com/item?id=35442947"
+    ],
+    [
+      "Ask HN: Are you still doing Intermittent Fasting?",
+      "https://news.ycombinator.com/item?id=35442947"
+    ]
+  ],
+  [
+    [
+      "2023-04-04, 17:15:53",
+      "https://news.ycombinator.com/item?id=35442890"
+    ],
+    [
+      "Show HN: Gat – cat alternative written in Go",
+      "https://github.com/koki-develop/gat"
+    ]
+  ],
+  [
+    [
       "2023-04-04, 17:01:15",
       "https://news.ycombinator.com/item?id=35442681"
     ],
@@ -135,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35440552"
     ],
     [
-      "Show HN: We are building open-source IDE powered by AI agents that work for you",
+      "Show HN: We are building an open-source IDE powered by AI",
       "https://github.com/e2b-dev/e2b"
     ]
   ],
@@ -181,22 +201,22 @@
   ],
   [
     [
-      "2023-04-04, 09:52:57",
-      "https://news.ycombinator.com/item?id=35437254"
+      "2023-04-04, 11:42:33",
+      "https://news.ycombinator.com/item?id=35438068"
     ],
     [
-      "We need a much more sophisticated debate about AI",
-      "https://www.ft.com/content/87108d74-b4fe-4271-bdfb-7828ba2ea351"
+      "How to be a -10x Engineer",
+      "https://taylor.town/-10x"
     ]
   ],
   [
     [
-      "2023-04-04, 09:39:04",
-      "https://news.ycombinator.com/item?id=35437165"
+      "2023-04-04, 09:52:57",
+      "https://news.ycombinator.com/item?id=35437254"
     ],
     [
-      "A Generalized Ray Formulation for Wave-Optics Rendering",
-      "https://ssteinberg.xyz/2023/03/27/rtplt/"
+      "We need a more sophisticated debate about AI",
+      "https://www.ft.com/content/87108d74-b4fe-4271-bdfb-7828ba2ea351"
     ]
   ],
   [
@@ -217,16 +237,6 @@
     [
       "Circuit.js – Electronic circuit simulator on the web",
       "http://lushprojects.com/circuitjs/circuitjs.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 08:17:17",
-      "https://news.ycombinator.com/item?id=35436605"
-    ],
-    [
-      "Emacs in Odd Places (2020)",
-      "https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "How to pack a stereo signal in one record groove",
       "https://www.vinylrecorder.com/stereo.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 02:50:53",
-      "https://news.ycombinator.com/item?id=35434374"
-    ],
-    [
-      "Flecs – A fast entity component system for C and C++",
-      "https://www.flecs.dev/flecs/"
     ]
   ],
   [
