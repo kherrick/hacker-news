@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-04, 18:21:55](https://news.ycombinator.com/item?id=35443899) - [Airbnb Account Suspension ft. GPT-4](https://gist.github.com/itayplav/a6c98c3f9c0436d517bbbdc78b024f4f)
 * [2023-04-04, 17:15:53](https://news.ycombinator.com/item?id=35442890) - [Show HN: Gat – cat alternative written in Go](https://github.com/koki-develop/gat)
 * [2023-04-04, 17:01:15](https://news.ycombinator.com/item?id=35442681) - [Skio (YC S20) Is Hiring](https://skio.com/careers/)
 * [2023-04-04, 16:58:21](https://news.ycombinator.com/item?id=35442642) - [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
@@ -22,6 +21,7 @@
 * [2023-04-04, 09:39:04](https://news.ycombinator.com/item?id=35437165) - [A Generalized Ray Formulation for Wave-Optics Rendering](https://ssteinberg.xyz/2023/03/27/rtplt/)
 * [2023-04-04, 09:35:16](https://news.ycombinator.com/item?id=35437136) - [Sugihara&#x27;s Dog](https://twitter.com/AkiyoshiKitaoka/status/1642871991932944385)
 * [2023-04-04, 09:21:01](https://news.ycombinator.com/item?id=35437065) - [Circuit.js – Electronic circuit simulator on the web](http://lushprojects.com/circuitjs/circuitjs.html)
+* [2023-04-04, 08:17:17](https://news.ycombinator.com/item?id=35436605) - [Emacs in Odd Places (2020)](https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places)
 * [2023-04-04, 07:19:36](https://news.ycombinator.com/item?id=35436224) - [Orthogonal Time-Frequency Space Modulation: A Promising Next-Generation Waveform (2021)](https://arxiv.org/abs/2010.03344)
 * [2023-04-04, 07:10:48](https://news.ycombinator.com/item?id=35436154) - [Totem construction system with cuttable parts](https://totemmaker.net/)
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [Even if you can&#x27;t write assembly, you can read disassembly](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
