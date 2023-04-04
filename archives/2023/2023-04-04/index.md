@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 21:37:16](https://news.ycombinator.com/item?id=35446175) - [Mario Is Moving Away from Mobile Games, Reveals Nintendo’s Shigeru Miyamoto](https://variety.com/2023/digital/news/shigeru-miyamoto-new-mario-games-mobile-apps-nintendo-1235562472/)
 * [2023-04-04, 21:21:03](https://news.ycombinator.com/item?id=35445992) - [Ask HN: People with direct knowledge of YouTube Algorithm-why the repeats?](https://news.ycombinator.com/item?id=35445992)
 * [2023-04-04, 21:08:44](https://news.ycombinator.com/item?id=35445882) - [ICE Is Grabbing Data from Schools and Abortion Clinics](https://www.wired.com/story/ice-1509-custom-summons/)
 * [2023-04-04, 21:06:59](https://news.ycombinator.com/item?id=35445867) - [FBI Seizes Bot Shop ‘Genesis Market’ Amid Arrests Targeting Operators, Suppliers](https://krebsonsecurity.com/2023/04/fbi-seizes-bot-shop-genesis-market-amid-arrests-targeting-operators-suppliers/)
@@ -69,6 +70,7 @@
 * [2023-04-04, 09:52:57](https://news.ycombinator.com/item?id=35437254) - [We need a much more sophisticated debate about AI](https://www.ft.com/content/87108d74-b4fe-4271-bdfb-7828ba2ea351)
 * [2023-04-04, 09:39:04](https://news.ycombinator.com/item?id=35437165) - [A Generalized Ray Formulation for Wave-Optics Rendering](https://ssteinberg.xyz/2023/03/27/rtplt/)
 * [2023-04-04, 09:35:16](https://news.ycombinator.com/item?id=35437136) - [Sugihara&#x27;s Dog](https://twitter.com/AkiyoshiKitaoka/status/1642871991932944385)
+* [2023-04-04, 09:35:16](https://news.ycombinator.com/item?id=35437135) - [Dumb bugs: the PCI device that wasn&#x27;t](https://sthbrx.github.io/blog/2023/04/04/dumb-bugs-the-pci-device-that-wasnt/)
 * [2023-04-04, 09:21:01](https://news.ycombinator.com/item?id=35437065) - [Circuit.js – electronic circuit simulator on the web](http://lushprojects.com/circuitjs/circuitjs.html)
 * [2023-04-04, 08:43:29](https://news.ycombinator.com/item?id=35436822) - [We are hurtling toward a glitchy, spammy, scammy, AI-powered internet](https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powe)
 * [2023-04-04, 08:17:17](https://news.ycombinator.com/item?id=35436605) - [Emacs in Odd Places (2020)](https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places)
