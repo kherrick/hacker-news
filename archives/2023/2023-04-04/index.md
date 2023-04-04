@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
 * [2023-04-04, 17:01:15](https://news.ycombinator.com/item?id=35442681) - [Skio (YC S20) Is Hiring](https://skio.com/careers/)
+* [2023-04-04, 16:58:21](https://news.ycombinator.com/item?id=35442642) - [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
+* [2023-04-04, 16:48:00](https://news.ycombinator.com/item?id=35442483) - [LangChain Announces 10M Seed Round](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/)
 * [2023-04-04, 16:24:22](https://news.ycombinator.com/item?id=35442116) - [New tool from curl creator – trurl – for URL parsing and manipulation](https://github.com/curl/trurl)
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
 * [2023-04-04, 16:17:09](https://news.ycombinator.com/item?id=35442001) - [‘This shouldn’t be happening’: levels of banned CFCs rising](https://www.nature.com/articles/d41586-023-00940-2)
@@ -56,6 +58,7 @@
 * [2023-04-04, 08:16:23](https://news.ycombinator.com/item?id=35436600) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
 * [2023-04-04, 07:52:30](https://news.ycombinator.com/item?id=35436435) - [Physicists Create &#x27;Slits in Time&#x27; and Discover Unexpected Physics in Experiment](https://www.vice.com/en/article/dy38xk/physicists-created-slits-in-time-and-discovered-unexpected-physics-in-experiment)
 * [2023-04-04, 07:19:36](https://news.ycombinator.com/item?id=35436224) - [Orthogonal Time-Frequency Space Modulation: A Promising Next-Generation Waveform](https://ieeexplore.ieee.org/abstract/document/9508932)
+* [2023-04-04, 07:19:36](https://news.ycombinator.com/item?id=35436224) - [Orthogonal Time-Frequency Space Modulation: A Promising Next-Generation Waveform (2021)](https://arxiv.org/abs/2010.03344)
 * [2023-04-04, 07:10:48](https://news.ycombinator.com/item?id=35436154) - [Totem construction system with cuttable parts](https://totemmaker.net/)
 * [2023-04-04, 07:00:32](https://news.ycombinator.com/item?id=35436068) - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 400GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [If you can&#x27;t write assembly like a poet, you can read disassembly like a hunter](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
