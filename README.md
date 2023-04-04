@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 21:08:44](https://news.ycombinator.com/item?id=35445882) - [ICE Is Grabbing Data from Schools and Abortion Clinics](https://www.wired.com/story/ice-1509-custom-summons/)
+* [2023-04-04, 21:06:59](https://news.ycombinator.com/item?id=35445867) - [FBI Seizes Bot Shop ‘Genesis Market’ Amid Arrests Targeting Operators, Suppliers](https://krebsonsecurity.com/2023/04/fbi-seizes-bot-shop-genesis-market-amid-arrests-targeting-operators-suppliers/)
 * [2023-04-04, 20:50:27](https://news.ycombinator.com/item?id=35445696) - [Monster Energy Goes After Indie Dev for Using the Word &#x27;Monster&#x27;](https://www.thegamer.com/monster-energy-goes-after-glowstick-entertainment-for-using-the-word-monster/)
-* [2023-04-04, 20:04:34](https://news.ycombinator.com/item?id=35445179) - [Byte Mini PC Powered by AMD – Get notified when available](https://starlabs.systems/pages/byte)
 * [2023-04-04, 19:56:25](https://news.ycombinator.com/item?id=35445097) - [Launch HN: GradientJ (YC W23) – Build NLP Applications Faster with LLMs](https://news.ycombinator.com/item?id=35445097)
 * [2023-04-04, 18:52:21](https://news.ycombinator.com/item?id=35444300) - [Show HN: A readable macroassembler that no one asked for](https://github.com/akalenuk/milasm)
 * [2023-04-04, 18:27:48](https://news.ycombinator.com/item?id=35443976) - [Creator of Catan, Klaus Teuber, has died](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
@@ -16,7 +17,6 @@
 * [2023-04-04, 15:25:36](https://news.ycombinator.com/item?id=35441180) - [Ask HN: Courses&#x2F;textbook recommendations for studying robotics?](https://news.ycombinator.com/item?id=35441180)
 * [2023-04-04, 14:53:48](https://news.ycombinator.com/item?id=35440608) - [Tiny, cheap smart speakers unlocked the rise of digital payments in India](https://restofworld.org/2023/india-sound-boxes-paytm-phonepe/)
 * [2023-04-04, 14:50:33](https://news.ycombinator.com/item?id=35440552) - [Show HN: We are building an open-source IDE powered by AI](https://github.com/e2b-dev/e2b)
-* [2023-04-04, 13:34:29](https://news.ycombinator.com/item?id=35439326) - [Why TinyML is still so hard to get excited about](https://staceyoniot.com/why-tinyml-is-still-so-hard-to-get-excited-about/)
 * [2023-04-04, 11:42:33](https://news.ycombinator.com/item?id=35438068) - [How to be a -10x Engineer](https://taylor.town/-10x)
 * [2023-04-04, 09:52:57](https://news.ycombinator.com/item?id=35437254) - [We need a more sophisticated debate about AI](https://www.ft.com/content/87108d74-b4fe-4271-bdfb-7828ba2ea351)
 * [2023-04-04, 09:39:04](https://news.ycombinator.com/item?id=35437165) - [A Generalized Ray Formulation for Wave-Optics Rendering](https://ssteinberg.xyz/2023/03/27/rtplt/)
