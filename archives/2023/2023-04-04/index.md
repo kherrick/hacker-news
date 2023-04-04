@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 03:31:03](https://news.ycombinator.com/item?id=35434679) - [Eight Things to Know About Large Language Models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
+* [2023-04-04, 03:15:08](https://news.ycombinator.com/item?id=35434530) - [Twitter has inexplicably turned off access to sign in with Twitter SSO](https://flipboard.social/@mike/110137461654913391)
+* [2023-04-04, 02:43:05](https://news.ycombinator.com/item?id=35434314) - [Google reverses 5M file limit in Google Drive](https://twitter.com/googledrive/status/1643049029251776515)
 * [2023-04-04, 02:08:48](https://news.ycombinator.com/item?id=35434066) - [FAA DNS is under attack](https://faa.gov)
 * [2023-04-04, 01:56:23](https://news.ycombinator.com/item?id=35433982) - [Double-slit time diffraction at optical frequencies](https://www.nature.com/articles/s41567-023-01993-w)
 * [2023-04-04, 01:45:48](https://news.ycombinator.com/item?id=35433918) - [Tesla ordered to pay more than $3M to former worker in racism suit](https://www.cnn.com/2023/04/03/business/tesla-racial-discrimination-case/index.html)
