@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-04, 05:13:07](https://news.ycombinator.com/item?id=35435373) - [Airport scraps 100ml liquid rule with new scanners](https://www.bbc.co.uk/news/business-65163418)
+* [2023-04-04, 04:55:11](https://news.ycombinator.com/item?id=35435253) - [Ask HN: Fastest way to turn a Jupyter notebook into a website these days?](https://news.ycombinator.com/item?id=35435253)
 * [2023-04-04, 04:45:35](https://news.ycombinator.com/item?id=35435186) - [How SerenityOS Declares Ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
 * [2023-04-04, 03:46:29](https://news.ycombinator.com/item?id=35434790) - [An LLM playground you can run on your laptop](https://github.com/nat/openplayground)
 * [2023-04-04, 03:31:03](https://news.ycombinator.com/item?id=35434679) - [Eight things to know about large language models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
@@ -21,8 +23,6 @@
 * [2023-04-03, 16:18:48](https://news.ycombinator.com/item?id=35426482) - [Launch HN: OutSail (YC W23) – Wingsails to reduce cargo ship fuel consumption](https://news.ycombinator.com/item?id=35426482)
 * [2023-04-03, 15:52:47](https://news.ycombinator.com/item?id=35425897) - [How to do hard things](https://every.to/no-small-plans/how-to-do-hard-things)
 * [2023-04-03, 15:02:02](https://news.ycombinator.com/item?id=35424807) - [Ask HN: Who is hiring? (April 2023)](https://news.ycombinator.com/item?id=35424807)
-* [2023-04-03, 15:02:01](https://news.ycombinator.com/item?id=35424805) - [Ask HN: Who wants to be hired? (April 2023)](https://news.ycombinator.com/item?id=35424805)
-* [2023-04-03, 14:56:22](https://news.ycombinator.com/item?id=35424678) - [Alibaba breaks itself up in six](https://www.economist.com/business/2023/03/30/alibaba-breaks-itself-up-in-six)
 * [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 05:34:38](https://news.ycombinator.com/item?id=35418933) - [Parquet: An efficient, binary file format for table data](https://csvbase.com/blog/3)
 * [2023-04-03, 03:48:24](https://news.ycombinator.com/item?id=35418336) - [NAND Flash Data Recovery Cookbook (2013) [pdf]](http://web.archive.org/web/20180516153837/http://www.adreca.net/NAND-Flash-Data-Recovery-Cookbook.pdf)
