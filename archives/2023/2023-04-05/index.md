@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 17:11:56](https://news.ycombinator.com/item?id=35457341) - [Remembering Bob Lee](https://news.ycombinator.com/item?id=35457341)
+* [2023-04-05, 17:03:18](https://news.ycombinator.com/item?id=35457225) - [Run LLaMA and Alpaca on your computer](https://github.com/cocktailpeanut/dalai)
+* [2023-04-05, 16:47:10](https://news.ycombinator.com/item?id=35456984) - [Zero Knowledge Machine Learning](https://worldcoin.org/blog/engineering/intro-to-zkml)
 * [2023-04-05, 16:36:09](https://news.ycombinator.com/item?id=35456829) - [Genesis Market Data Is Now Searchable in Have I Been Pwned](https://www.troyhunt.com/seized-genesis-market-data-is-now-searchable-in-have-i-been-pwned-courtesy-of-the-fbi-and-operation-cookie-monster/)
 * [2023-04-05, 16:28:48](https://news.ycombinator.com/item?id=35456721) - [China Plans to Ban Exports of Rare Earth Magnet Tech](https://japannews.yomiuri.co.jp/world/asia-pacific/20230405-101753/)
 * [2023-04-05, 15:52:36](https://news.ycombinator.com/item?id=35456192) - [Read “Gravity’s Rainbow” fifty years later](https://aurelien2022.substack.com/p/in-praise-of-the-preterite)
