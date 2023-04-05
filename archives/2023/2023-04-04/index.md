@@ -101,6 +101,7 @@
 * [2023-04-04, 07:10:48](https://news.ycombinator.com/item?id=35436154) - [Totem construction system with cuttable parts](https://totemmaker.net/)
 * [2023-04-04, 07:10:42](https://news.ycombinator.com/item?id=35436152) - [Randomness Improves Algorithms](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2023-04-04, 07:00:32](https://news.ycombinator.com/item?id=35436068) - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 400GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+* [2023-04-04, 06:48:21](https://news.ycombinator.com/item?id=35435979) - [Reading thermometer temperatures over time from a video](https://til.simonwillison.net/googlecloud/video-frame-ocr)
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [If you can&#x27;t write assembly like a poet, you can read disassembly like a hunter](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
 * [2023-04-04, 05:42:54](https://news.ycombinator.com/item?id=35435563) - [The Electric Vehicles We Need Now Are E-Bikes](https://www.bloomberg.com/news/articles/2022-03-15/the-electric-vehicles-we-need-now-are-e-bikes)
 * [2023-04-04, 05:20:28](https://news.ycombinator.com/item?id=35435412) - [Physical 3x3x3x3 hypercube and other physical 4d twisty puzzles](https://www.youtube.com/watch?v=geFPbJAfLF4)

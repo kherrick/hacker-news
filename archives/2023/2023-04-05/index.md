@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 22:03:38](https://news.ycombinator.com/item?id=35461011) - [The Bitcoin whitepaper is hidden in every copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
 * [2023-04-05, 20:52:31](https://news.ycombinator.com/item?id=35460219) - [TPU v4 provides exaFLOPS-scale ML with industry-leading efficiency](https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains)
 * [2023-04-05, 19:48:34](https://news.ycombinator.com/item?id=35459488) - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
 * [2023-04-05, 19:37:11](https://news.ycombinator.com/item?id=35459333) - [Programmer interrupted: The cost of interruption and context switching (2022)](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
