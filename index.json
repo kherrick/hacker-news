@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-04-05, 17:17:53",
-      "https://news.ycombinator.com/item?id=35457440"
-    ],
-    [
-      "Cisco Systems pulled out of Russia: destroyed $23.42M worth of equipment",
-      "https://gagadget.com/en/232400-cisco-systems-pulled-out-of-russia-and-destroyed-2342m-worth-of-equipment/"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 17:14:34",
       "https://news.ycombinator.com/item?id=35457384"
     ],
@@ -61,22 +51,22 @@
   ],
   [
     [
-      "2023-04-05, 16:42:27",
-      "https://news.ycombinator.com/item?id=35456926"
-    ],
-    [
-      "The real “must have” tools for programming",
-      "https://jamesdunne.dev/posts/must-have-programming-tools/"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 16:36:09",
       "https://news.ycombinator.com/item?id=35456829"
     ],
     [
       "Seized Genesis Market data is now searchable in Have I Been Pwned",
       "https://www.troyhunt.com/seized-genesis-market-data-is-now-searchable-in-have-i-been-pwned-courtesy-of-the-fbi-and-operation-cookie-monster/"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 15:52:36",
+      "https://news.ycombinator.com/item?id=35456192"
+    ],
+    [
+      "Read “Gravity’s Rainbow” fifty years later",
+      "https://aurelien2022.substack.com/p/in-praise-of-the-preterite"
     ]
   ],
   [
@@ -95,18 +85,8 @@
       "https://news.ycombinator.com/item?id=35456059"
     ],
     [
-      "A Trick to Reaching Flow",
+      "A trick to reaching flow: Leave your work broken",
       "https://census.dev/blog/an-on-ramp-to-flow"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 15:38:07",
-      "https://news.ycombinator.com/item?id=35455965"
-    ],
-    [
-      "Dark Patterns in Substack",
-      "https://hermitian.substack.com/p/dark-patterns-in-substack"
     ]
   ],
   [
@@ -165,7 +145,7 @@
       "https://news.ycombinator.com/item?id=35455566"
     ],
     [
-      "Segment Anything Demo by Meta AI",
+      "Segment Anything Model (SAM) can &quot;cut out&quot; any object in an image",
       "https://segment-anything.com/"
     ]
   ],
@@ -185,7 +165,7 @@
       "https://news.ycombinator.com/item?id=35452963"
     ],
     [
-      "Can Injection: keyless car theft",
+      "CAN Injection: Keyless car theft",
       "https://kentindell.github.io/2023/04/03/can-injection/"
     ]
   ],
@@ -205,7 +185,7 @@
       "https://news.ycombinator.com/item?id=35452258"
     ],
     [
-      "Aaron: AI Art Generator from 1973",
+      "AARON: AI Art Generator from 1973",
       "https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art"
     ]
   ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2023-04-04, 20:16:33",
+      "https://news.ycombinator.com/item?id=35445312"
+    ],
+    [
+      "Show HN: Want something better than k-means? Try BanditPAM",
+      "https://github.com/motiwari/BanditPAM"
+    ]
+  ],
+  [
+    [
       "2023-04-04, 15:34:54",
       "https://news.ycombinator.com/item?id=35441337"
     ],
@@ -261,22 +251,22 @@
   ],
   [
     [
-      "2023-04-04, 09:22:23",
-      "https://news.ycombinator.com/item?id=35437070"
-    ],
-    [
-      "Liberating the MacBook Air 2013 with Linux",
-      "https://boilingsteam.com/liberating-the-macbook-air-2013-with-linux-complete-guide/"
-    ]
-  ],
-  [
-    [
       "2023-04-04, 03:00:30",
       "https://news.ycombinator.com/item?id=35434435"
     ],
     [
       "Mapping hospital accessibility with OpenStreetMap",
       "https://wcedmisten.fyi/post/visualizing-hospital-accessibility/"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 14:42:04",
+      "https://news.ycombinator.com/item?id=35424420"
+    ],
+    [
+      "From inspired to inspiring: Damian Earley",
+      "https://www.uspto.gov/learning-and-resources/journeys-innovation/field-stories/inspired-inspiring-damian-earley"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Think Python 2e",
       "https://greenteapress.com/wp/think-python-2e/"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 02:26:49",
+      "https://news.ycombinator.com/item?id=35417820"
+    ],
+    [
+      "Pleiades is a community-built gazetteer and graph of ancient places",
+      "https://pleiades.stoa.org"
     ]
   ]
 ]
