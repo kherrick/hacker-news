@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 01:28:25](https://news.ycombinator.com/item?id=35448090) - [US Government published guide to sabotage organizational productivity (1944)](https://gist.github.com/kennwhite/467529962c184258d08f16daec83d5da)
 * [2023-04-05, 00:58:54](https://news.ycombinator.com/item?id=35447885) - [China: A genetic experiment that inserted tardigrade genes into human stem cells](https://tiempoheadlines.com/china-a-genetic-experiment-that-inserted-tardigrade-genes-into-human-stem-cells-could-lead-to-radiation-resistant-super-soldiers/)
+* [2023-04-05, 00:50:40](https://news.ycombinator.com/item?id=35447827) - [If you’re so smart, why aren’t you rich? Turns out it’s just chance](https://www.technologyreview.com/2018/03/01/144958/if-youre-so-smart-why-arent-you-rich-turns-out-its-just-chance/)
 * [2023-04-05, 00:19:24](https://news.ycombinator.com/item?id=35447588) - [The case for banning children from social media](https://www.newyorker.com/news/our-columnists/the-case-for-banning-children-from-social-media)
 * [2023-04-05, 00:18:08](https://news.ycombinator.com/item?id=35447580) - [Tabloid – The Clickbait Headline Programming Language](https://tabloid-thesephist.vercel.app/)
 * [2023-04-05, 00:05:45](https://news.ycombinator.com/item?id=35447486) - [iOS lets carriers add WiFi networks that you can’t remove or stop from joining](https://news.ycombinator.com/item?id=35447486)
@@ -25,11 +27,9 @@
 * [2023-04-04, 09:37:23](https://news.ycombinator.com/item?id=35437151) - [Mesh Shaders and Meshlet Culling in Metal 3](https://metalbyexample.com/mesh-shaders/)
 * [2023-04-04, 09:35:16](https://news.ycombinator.com/item?id=35437135) - [Dumb bugs: the PCI device that wasn&#x27;t](https://sthbrx.github.io/blog/2023/04/04/dumb-bugs-the-pci-device-that-wasnt/)
 * [2023-04-04, 08:51:35](https://news.ycombinator.com/item?id=35436886) - [The Future of the Transistor](https://www.semianalysis.com/p/the-future-of-the-transistor)
-* [2023-04-04, 08:09:53](https://news.ycombinator.com/item?id=35436561) - [Technical Solutions versus Processes](https://lucaskostka.com/posts/technical-vs-processes-solutions)
 * [2023-04-04, 07:10:42](https://news.ycombinator.com/item?id=35436152) - [Randomness Improves Algorithms](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
+* [2023-04-04, 05:20:28](https://news.ycombinator.com/item?id=35435412) - [Physical 3x3x3x3 hypercube and other physical 4d twisty puzzles](https://www.youtube.com/watch?v=geFPbJAfLF4)
 * [2023-04-04, 03:43:47](https://news.ycombinator.com/item?id=35434768) - [How to pack a stereo signal in one record groove](https://www.vinylrecorder.com/stereo.html)
-* [2023-04-03, 23:33:03](https://news.ycombinator.com/item?id=35432918) - [Proton’s mass radius is apparently shorter than its charge radius](https://arstechnica.com/science/2023/04/protons-mass-radius-is-apparently-shorter-than-its-charge-radius/)
-* [2023-04-03, 22:29:20](https://news.ycombinator.com/item?id=35432206) - [Photographer captures ultra-rare red ring of light over Italy](https://petapixel.com/2023/04/03/photographer-captures-ultra-rare-red-ring-of-light-over-italy/)
 
 ## [Archives](archives/index.md)
 
