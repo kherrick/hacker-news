@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 16:28:48](https://news.ycombinator.com/item?id=35456721) - [China Plans to Ban Exports of Rare Earth Magnet Tech](https://japannews.yomiuri.co.jp/world/asia-pacific/20230405-101753/)
 * [2023-04-05, 15:52:36](https://news.ycombinator.com/item?id=35456192) - [Read “Gravity’s Rainbow” fifty years later](https://aurelien2022.substack.com/p/in-praise-of-the-preterite)
 * [2023-04-05, 15:45:59](https://news.ycombinator.com/item?id=35456083) - [A SvelteKit template for building CMS-free editable websites](https://editable.website)
 * [2023-04-05, 15:44:12](https://news.ycombinator.com/item?id=35456059) - [A Trick to Reaching Flow](https://census.dev/blog/an-on-ramp-to-flow)
@@ -14,6 +15,7 @@
 * [2023-04-05, 15:26:45](https://news.ycombinator.com/item?id=35455797) - [DPReview’s Founder Blasts Amazon’s CEO: ‘What a Waste’](https://petapixel.com/2023/04/04/dpreviews-founder-blasts-amazons-ceo-what-a-waste/)
 * [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World by Alexander Miller](https://alex.miller.garden/grid-world/)
 * [2023-04-05, 15:12:59](https://news.ycombinator.com/item?id=35455582) - [Cash App founder Bob Lee reportedly killed in San Francisco stabbing](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-killed-san-francisco-stabbing-sources-say-rcna78265)
+* [2023-04-05, 15:11:50](https://news.ycombinator.com/item?id=35455566) - [Segment Anything Demo by Meta AI](https://segment-anything.com/)
 * [2023-04-05, 14:55:35](https://news.ycombinator.com/item?id=35455286) - [“Inside-out Wankel” rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)
 * [2023-04-05, 13:32:46](https://news.ycombinator.com/item?id=35453857) - [Johnson and Johnson Reaches Deal for $8.9B Talc Settlement](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
 * [2023-04-05, 13:20:42](https://news.ycombinator.com/item?id=35453689) - [So I only ate potatoes for 2 weeks](https://www.petercai.com/so-i-only-ate-potatoes-for-2-weeks/)
