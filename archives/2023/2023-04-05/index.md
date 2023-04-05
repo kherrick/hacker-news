@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 03:50:27](https://news.ycombinator.com/item?id=35449054) - [PWAs in App Stores](https://web.dev/pwas-in-app-stores/)
+* [2023-04-05, 03:48:56](https://news.ycombinator.com/item?id=35449046) - [Tesla Light Show XLights](https://github.com/teslamotors/light-show)
 * [2023-04-05, 03:24:41](https://news.ycombinator.com/item?id=35448899) - [Bob Lee, Former CTO Square, Creator of CashApp, Stabbed to Death in SF](https://www.sfgate.com/bayarea/article/mill-valley-man-killed-sf-stabbing-17878809.php)
 * [2023-04-05, 02:43:45](https://news.ycombinator.com/item?id=35448642) - [Paxlovid: Drug Development at a Full Sprint](https://www.science.org/content/blog-post/paxlovid-drug-development-full-sprint)
 * [2023-04-05, 02:36:43](https://news.ycombinator.com/item?id=35448598) - [Apple joins Amazon, Google, and Microsoft in tech industry layoffs](https://arstechnica.com/gadgets/2023/04/apple-joins-amazon-google-and-microsoft-in-tech-industry-layoffs/)
