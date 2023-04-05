@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 08:23:35](https://news.ycombinator.com/item?id=35451010) - [ChatGPT Plus upgrades paused due to high demand](https://openai.com/)
 * [2023-04-05, 08:18:20](https://news.ycombinator.com/item?id=35450978) - [Gaia&#x27;s first black hole discovery: GAIA-BH1 (2022)](https://www.cosmos.esa.int/web/gaia/iow_20221104)
 * [2023-04-05, 06:54:05](https://news.ycombinator.com/item?id=35450315) - [GPT4 simulating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
 * [2023-04-05, 06:34:24](https://news.ycombinator.com/item?id=35450175) - [BRL-CAD](https://brlcad.org/)
@@ -18,7 +19,6 @@
 * [2023-04-05, 00:05:45](https://news.ycombinator.com/item?id=35447486) - [Tell HN: iOS lets carriers add WiFi networks that you can’t stop from joining](https://news.ycombinator.com/item?id=35447486)
 * [2023-04-04, 23:36:07](https://news.ycombinator.com/item?id=35447288) - [Show HN: Live coaching app for remote SWE interviews, uses Whisper and GPT-4](https://github.com/leetcode-mafia/cheetah)
 * [2023-04-04, 23:04:08](https://news.ycombinator.com/item?id=35447025) - [My long goodbye to Windows XP (2022)](https://woodfromeden.substack.com/p/my-long-goodbye-to-windows-xp)
-* [2023-04-04, 22:43:49](https://news.ycombinator.com/item?id=35446847) - [ZSTD 1.5.5 is released with a corruption fix found at Google](https://github.com/facebook/zstd/releases/tag/v1.5.5)
 * [2023-04-04, 21:06:59](https://news.ycombinator.com/item?id=35445867) - [FBI seizes bot shop ‘Genesis Market’ amid arrests targeting operators, suppliers](https://krebsonsecurity.com/2023/04/fbi-seizes-bot-shop-genesis-market-amid-arrests-targeting-operators-suppliers/)
 * [2023-04-04, 18:27:48](https://news.ycombinator.com/item?id=35443976) - [Creator of Catan, Klaus Teuber, has died](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
