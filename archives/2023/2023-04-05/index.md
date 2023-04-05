@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 03:24:41](https://news.ycombinator.com/item?id=35448899) - [Bob Lee, Former CTO Square, Creator of CashApp, Stabbed to Death in SF](https://www.sfgate.com/bayarea/article/mill-valley-man-killed-sf-stabbing-17878809.php)
 * [2023-04-05, 02:43:45](https://news.ycombinator.com/item?id=35448642) - [Paxlovid: Drug Development at a Full Sprint](https://www.science.org/content/blog-post/paxlovid-drug-development-full-sprint)
 * [2023-04-05, 02:36:43](https://news.ycombinator.com/item?id=35448598) - [Apple joins Amazon, Google, and Microsoft in tech industry layoffs](https://arstechnica.com/gadgets/2023/04/apple-joins-amazon-google-and-microsoft-in-tech-industry-layoffs/)
 * [2023-04-05, 02:24:07](https://news.ycombinator.com/item?id=35448514) - [System76 Teases Their “Virgo” In-House Manufactured Laptop](https://www.phoronix.com/news/System76-Virgo-Tease)
