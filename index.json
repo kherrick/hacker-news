@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-04-05, 11:18:00",
-      "https://news.ycombinator.com/item?id=35452258"
-    ],
-    [
-      "AARON: AI Art Generator from 1973",
-      "https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 10:22:51",
       "https://news.ycombinator.com/item?id=35451863"
     ],
@@ -297,6 +287,16 @@
     [
       "Who will amplify this and why? (2021)",
       "https://sparktoro.com/blog/who-will-amplify-this-and-why/"
+    ]
+  ],
+  [
+    [
+      "2023-04-04, 11:55:20",
+      "https://news.ycombinator.com/item?id=35438171"
+    ],
+    [
+      "Introduction to Sentry Symbolicator",
+      "https://getsentry.github.io/symbolicator/"
     ]
   ]
 ]
