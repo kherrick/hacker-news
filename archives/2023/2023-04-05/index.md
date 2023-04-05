@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 13:20:42](https://news.ycombinator.com/item?id=35453689) - [So I only ate potatoes for 2 weeks](https://www.petercai.com/so-i-only-ate-potatoes-for-2-weeks/)
 * [2023-04-05, 13:01:58](https://news.ycombinator.com/item?id=35453421) - [Apple and global suppliers expand renewable energy to 13.7 gigawatts](https://www.apple.com/newsroom/2023/04/apple-and-global-suppliers-expand-renewable-energy-to-13-point-7-gigawatts/)
+* [2023-04-05, 12:57:09](https://news.ycombinator.com/item?id=35453358) - [The richest man on Earth and the richest woman on Earth are both French](https://www.lemonde.fr/economie/article/2023/04/05/l-homme-et-de-la-femme-les-plus-riches-du-monde-sont-pour-la-premiere-fois-dans-l-histoire-tous-les-deux-francais_6168342_3234.html)
+* [2023-04-05, 12:28:49](https://news.ycombinator.com/item?id=35452963) - [Can Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2023-04-05, 12:02:48](https://news.ycombinator.com/item?id=35452644) - [Russia is persecuting dissenters by taking away their children](https://www.economist.com/europe/2023/03/31/russia-is-persecuting-dissenters-by-taking-away-their-children)
 * [2023-04-05, 12:00:22](https://news.ycombinator.com/item?id=35452614) - [Circle Medical (YC S15) Is Hiring Ruby&#x2F;Rails Engineers](https://jobs.lever.co/circlemedical/1b3fcca6-6246-40d9-b7c9-096f8dc1871f)
 * [2023-04-05, 11:53:36](https://news.ycombinator.com/item?id=35452543) - [Show HN: To help 3D devs build reliable websites, I built Web3DSurvey.com](https://web3dsurvey.com/webgl2)
