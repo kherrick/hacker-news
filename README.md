@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-05, 07:02:11](https://news.ycombinator.com/item?id=35450386) - [Book Depository will be closing on 26 April 2023](https://www.bookdepository.com/closure)
-* [2023-04-05, 06:54:05](https://news.ycombinator.com/item?id=35450315) - [GPT4 impersonating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
+* [2023-04-05, 06:54:05](https://news.ycombinator.com/item?id=35450315) - [GPT4 simulating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
 * [2023-04-05, 06:34:24](https://news.ycombinator.com/item?id=35450175) - [BRL-CAD](https://brlcad.org/)
 * [2023-04-05, 06:15:52](https://news.ycombinator.com/item?id=35450043) - [Ofcom proposes to refer UK cloud market for investigation](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation)
 * [2023-04-05, 06:11:32](https://news.ycombinator.com/item?id=35450007) - [Packet, where are you? – eBPF-based Linux kernel networking debugger](https://github.com/cilium/pwru)
@@ -24,8 +24,8 @@
 * [2023-04-04, 16:58:21](https://news.ycombinator.com/item?id=35442642) - [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
 * [2023-04-04, 16:16:54](https://news.ycombinator.com/item?id=35441997) - [Supercentenarian records show patterns indicative of errors and pension fraud](https://www.biorxiv.org/content/10.1101/704080v2)
+* [2023-04-04, 14:11:35](https://news.ycombinator.com/item?id=35439916) - [Mindset shifts for functional programming (with Clojure)](https://blog.janetacarr.com/mindset-shifts-for-functional-programming-with-clojure/)
 * [2023-04-04, 10:16:56](https://news.ycombinator.com/item?id=35437397) - [Using ultrasound attack to disarm a smart-home system](https://www.theregister.com/2023/04/04/siri_alexa_cortana_google_nuit/)
-* [2023-04-04, 09:37:23](https://news.ycombinator.com/item?id=35437151) - [Mesh Shaders and Meshlet Culling in Metal 3](https://metalbyexample.com/mesh-shaders/)
 * [2023-04-04, 09:22:23](https://news.ycombinator.com/item?id=35437070) - [Liberating the MacBook Air 2013 with Linux](https://boilingsteam.com/liberating-the-macbook-air-2013-with-linux-complete-guide/)
 * [2023-04-04, 07:10:42](https://news.ycombinator.com/item?id=35436152) - [How randomness can improve algorithms](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2023-04-03, 21:34:06](https://news.ycombinator.com/item?id=35431602) - [How to Game the App Store (2018)](https://davidbarnard.com/post/180568817995/how-to-game-the-app-store)
