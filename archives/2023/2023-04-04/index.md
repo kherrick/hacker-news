@@ -109,6 +109,7 @@
 * [2023-04-04, 03:31:03](https://news.ycombinator.com/item?id=35434679) - [Eight Things to Know About Large Language Models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
 * [2023-04-04, 03:21:43](https://news.ycombinator.com/item?id=35434587) - [The Future of Applications](https://mikecann.co.uk/posts/the-future-of-applications)
 * [2023-04-04, 03:15:08](https://news.ycombinator.com/item?id=35434530) - [Twitter has inexplicably turned off access to sign in with Twitter SSO](https://flipboard.social/@mike/110137461654913391)
+* [2023-04-04, 03:00:30](https://news.ycombinator.com/item?id=35434435) - [Mapping hospital accessibility with OpenStreetMap](https://wcedmisten.fyi/post/visualizing-hospital-accessibility/)
 * [2023-04-04, 02:50:53](https://news.ycombinator.com/item?id=35434374) - [Flecs – A fast entity component system for C and C++](https://www.flecs.dev/flecs/)
 * [2023-04-04, 02:43:05](https://news.ycombinator.com/item?id=35434314) - [Google reverses 5M file limit in Google Drive](https://twitter.com/googledrive/status/1643049029251776515)
 * [2023-04-04, 02:08:48](https://news.ycombinator.com/item?id=35434066) - [FAA DNS is under attack](https://faa.gov)

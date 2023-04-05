@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-05, 10:22:51](https://news.ycombinator.com/item?id=35451863) - [Is RAM wiped before use in another LXC container?](https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-another-lxc-container)
-* [2023-04-05, 09:44:43](https://news.ycombinator.com/item?id=35451591) - [Mission Impossible: IT Career Switch](https://valics.medium.com/mission-impossible-it-career-switch-76e2eafcb8fd)
 * [2023-04-05, 08:18:20](https://news.ycombinator.com/item?id=35450978) - [Gaia&#x27;s first black hole discovery: GAIA-BH1 (2022)](https://www.cosmos.esa.int/web/gaia/iow_20221104)
 * [2023-04-05, 06:54:05](https://news.ycombinator.com/item?id=35450315) - [GPT4 simulating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
 * [2023-04-05, 06:34:24](https://news.ycombinator.com/item?id=35450175) - [BRL-CAD](https://brlcad.org/)
@@ -29,6 +28,7 @@
 * [2023-04-04, 10:16:56](https://news.ycombinator.com/item?id=35437397) - [Using ultrasound attack to disarm a smart-home system](https://www.theregister.com/2023/04/04/siri_alexa_cortana_google_nuit/)
 * [2023-04-04, 09:22:23](https://news.ycombinator.com/item?id=35437070) - [Liberating the MacBook Air 2013 with Linux](https://boilingsteam.com/liberating-the-macbook-air-2013-with-linux-complete-guide/)
 * [2023-04-04, 07:10:42](https://news.ycombinator.com/item?id=35436152) - [How randomness can improve algorithms](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
+* [2023-04-04, 03:00:30](https://news.ycombinator.com/item?id=35434435) - [Mapping hospital accessibility with OpenStreetMap](https://wcedmisten.fyi/post/visualizing-hospital-accessibility/)
 * [2023-04-03, 21:09:28](https://news.ycombinator.com/item?id=35431328) - [Building an interactive clickable map for my blog](https://tomcritchlow.com/2023/04/03/blog-maps/)
 
 ## [Archives](archives/index.md)
