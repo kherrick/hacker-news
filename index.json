@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-04-05, 16:52:30",
-      "https://news.ycombinator.com/item?id=35457058"
-    ],
-    [
-      "Most Technologies Aren&#x27;t Races",
-      "https://astralcodexten.substack.com/p/most-technologies-arent-races"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 16:47:10",
       "https://news.ycombinator.com/item?id=35456984"
     ],
@@ -71,11 +61,21 @@
   ],
   [
     [
+      "2023-04-05, 16:42:27",
+      "https://news.ycombinator.com/item?id=35456926"
+    ],
+    [
+      "The real “must have” tools for programming",
+      "https://jamesdunne.dev/posts/must-have-programming-tools/"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 16:36:09",
       "https://news.ycombinator.com/item?id=35456829"
     ],
     [
-      "Genesis Market Data Is Now Searchable in Have I Been Pwned",
+      "Seized Genesis Market data is now searchable in Have I Been Pwned",
       "https://www.troyhunt.com/seized-genesis-market-data-is-now-searchable-in-have-i-been-pwned-courtesy-of-the-fbi-and-operation-cookie-monster/"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=35455850"
     ],
     [
-      "Perspective 2.0, Open Source WebAssembly-Powered BI",
+      "Perspective: Open Source WebAssembly-Powered BI",
       "https://perspective.finos.org/"
     ]
   ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35455770"
     ],
     [
-      "Grid World by Alexander Miller",
+      "Grid World",
       "https://alex.miller.garden/grid-world/"
     ]
   ],
