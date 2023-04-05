@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-04-05, 02:05:50",
+      "https://news.ycombinator.com/item?id=35448360"
+    ],
+    [
+      "Unpredictable Black Boxes Are Terrible Interfaces",
+      "https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 02:05:20",
+      "https://news.ycombinator.com/item?id=35448357"
+    ],
+    [
+      "Lossless Image Compression in O(n) Time (2021)",
+      "https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 01:28:25",
       "https://news.ycombinator.com/item?id=35448090"
     ],
     [
       "US Government published guide to sabotage organizational productivity (1944)",
       "https://gist.github.com/kennwhite/467529962c184258d08f16daec83d5da"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 01:26:46",
+      "https://news.ycombinator.com/item?id=35448074"
+    ],
+    [
+      "The Russian Federal Guard Service officer who worked with Putin and fled Russia",
+      "https://dossier.center/fso-en/"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "If you’re so smart, why aren’t you rich? Turns out it’s just chance",
       "https://www.technologyreview.com/2018/03/01/144958/if-youre-so-smart-why-arent-you-rich-turns-out-its-just-chance/"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 00:19:24",
-      "https://news.ycombinator.com/item?id=35447588"
-    ],
-    [
-      "The case for banning children from social media",
-      "https://www.newyorker.com/news/our-columnists/the-case-for-banning-children-from-social-media"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Show HN: Live coaching app for remote SWE interviews, uses Whisper and GPT-4",
       "https://github.com/leetcode-mafia/cheetah"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 23:12:01",
-      "https://news.ycombinator.com/item?id=35447094"
-    ],
-    [
-      "Using Wake on LAN (WOL) Across the Internet (2010)",
-      "http://ptere.com/wol/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Launch HN: GradientJ (YC W23) – Build NLP Applications Faster with LLMs",
       "https://news.ycombinator.com/item?id=35445097"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 18:52:21",
-      "https://news.ycombinator.com/item?id=35444300"
-    ],
-    [
-      "Show HN: A readable macroassembler that no one asked for",
-      "https://github.com/akalenuk/milasm"
     ]
   ],
   [
