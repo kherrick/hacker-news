@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 19:37:11](https://news.ycombinator.com/item?id=35459333) - [Programmer interrupted: The cost of interruption and context switching (2022)](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
+* [2023-04-05, 19:12:09](https://news.ycombinator.com/item?id=35459031) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 * [2023-04-05, 19:07:27](https://news.ycombinator.com/item?id=35458974) - [Telemetry in Front-End Tools](https://telemetry.timseverien.com/)
 * [2023-04-05, 18:48:25](https://news.ycombinator.com/item?id=35458746) - [Firefox engineers discover a Windows Defender bug that causes high CPU usage](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c82)
 * [2023-04-05, 18:39:52](https://news.ycombinator.com/item?id=35458644) - [Jitx (YC S18) Is Hiring: Hardware, Software, Mathematician, Technical Writer](https://jobs.lever.co/jitxinc)
@@ -17,9 +19,7 @@
 * [2023-04-05, 15:45:59](https://news.ycombinator.com/item?id=35456083) - [A SvelteKit template for building CMS-free editable websites](https://editable.website)
 * [2023-04-05, 15:44:12](https://news.ycombinator.com/item?id=35456059) - [A trick to reaching flow: Leave your work broken](https://census.dev/blog/an-on-ramp-to-flow)
 * [2023-04-05, 15:37:15](https://news.ycombinator.com/item?id=35455948) - [The Rise of the Chiplet](https://semiwiki.com/chiplet/326537-the-rise-of-the-chiplet/)
-* [2023-04-05, 15:36:02](https://news.ycombinator.com/item?id=35455930) - [Using mmap to make LLaMA load faster](https://justine.lol/mmap/)
 * [2023-04-05, 15:30:37](https://news.ycombinator.com/item?id=35455850) - [Perspective: Open Source WebAssembly-Powered BI](https://perspective.finos.org/)
-* [2023-04-05, 15:26:45](https://news.ycombinator.com/item?id=35455797) - [DPReview’s Founder Blasts Amazon’s CEO: ‘What a Waste’](https://petapixel.com/2023/04/04/dpreviews-founder-blasts-amazons-ceo-what-a-waste/)
 * [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World](https://alex.miller.garden/grid-world/)
 * [2023-04-05, 15:11:50](https://news.ycombinator.com/item?id=35455566) - [Segment Anything Model (SAM) can &quot;cut out&quot; any object in an image](https://segment-anything.com/)
 * [2023-04-05, 14:55:35](https://news.ycombinator.com/item?id=35455286) - [“Inside-out Wankel” rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)

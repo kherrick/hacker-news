@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 19:37:11](https://news.ycombinator.com/item?id=35459333) - [Programmer interrupted: The cost of interruption and context switching (2022)](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
+* [2023-04-05, 19:12:09](https://news.ycombinator.com/item?id=35459031) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 * [2023-04-05, 19:07:27](https://news.ycombinator.com/item?id=35458974) - [Telemetry in Front-End Tools](https://telemetry.timseverien.com/)
 * [2023-04-05, 18:48:25](https://news.ycombinator.com/item?id=35458746) - [Firefox engineers discover a Windows Defender bug that causes high CPU usage](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c82)
 * [2023-04-05, 18:39:52](https://news.ycombinator.com/item?id=35458644) - [Jitx (YC S18) Is Hiring: Hardware, Software, Mathematician, Technical Writer](https://jobs.lever.co/jitxinc)
