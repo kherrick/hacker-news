@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 08:18:20](https://news.ycombinator.com/item?id=35450978) - [The closest black hole to the Earth – now only 1560 lya](https://www.cosmos.esa.int/web/gaia/iow_20221104)
 * [2023-04-05, 07:02:11](https://news.ycombinator.com/item?id=35450386) - [Book Depository will be closing on 26 April 2023](https://www.bookdepository.com/closure)
 * [2023-04-05, 06:54:05](https://news.ycombinator.com/item?id=35450315) - [GPT4 hallucinating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
 * [2023-04-05, 06:34:24](https://news.ycombinator.com/item?id=35450175) - [BRL-CAD](https://brlcad.org/)

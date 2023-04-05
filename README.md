@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 08:18:20](https://news.ycombinator.com/item?id=35450978) - [The closest black hole to the Earth – now only 1560 lya](https://www.cosmos.esa.int/web/gaia/iow_20221104)
 * [2023-04-05, 07:02:11](https://news.ycombinator.com/item?id=35450386) - [Book Depository will be closing on 26 April 2023](https://www.bookdepository.com/closure)
 * [2023-04-05, 06:54:05](https://news.ycombinator.com/item?id=35450315) - [GPT4 simulating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
 * [2023-04-05, 06:34:24](https://news.ycombinator.com/item?id=35450175) - [BRL-CAD](https://brlcad.org/)
@@ -28,7 +29,6 @@
 * [2023-04-04, 14:11:35](https://news.ycombinator.com/item?id=35439916) - [Mindset shifts for functional programming (with Clojure)](https://blog.janetacarr.com/mindset-shifts-for-functional-programming-with-clojure/)
 * [2023-04-04, 10:16:56](https://news.ycombinator.com/item?id=35437397) - [Using ultrasound attack to disarm a smart-home system](https://www.theregister.com/2023/04/04/siri_alexa_cortana_google_nuit/)
 * [2023-04-04, 09:22:23](https://news.ycombinator.com/item?id=35437070) - [Liberating the MacBook Air 2013 with Linux](https://boilingsteam.com/liberating-the-macbook-air-2013-with-linux-complete-guide/)
-* [2023-04-04, 07:10:42](https://news.ycombinator.com/item?id=35436152) - [How randomness can improve algorithms](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2023-04-03, 21:09:28](https://news.ycombinator.com/item?id=35431328) - [Building an interactive clickable map for my blog](https://tomcritchlow.com/2023/04/03/blog-maps/)
 
 ## [Archives](archives/index.md)
