@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-05, 06:54:05",
+      "https://news.ycombinator.com/item?id=35450315"
+    ],
+    [
+      "GPT4 hallucinating a FTP server at ftp.disney.com",
+      "https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 06:34:24",
+      "https://news.ycombinator.com/item?id=35450175"
+    ],
+    [
+      "BRL-CAD",
+      "https://brlcad.org/"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 06:15:52",
       "https://news.ycombinator.com/item?id=35450043"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2023-04-05, 05:10:55",
-      "https://news.ycombinator.com/item?id=35449559"
+      "2023-04-05, 05:34:16",
+      "https://news.ycombinator.com/item?id=35449710"
     ],
     [
-      "Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling",
-      "https://arxiv.org/abs/2304.01373"
+      "Bob &#x27;crazybob&#x27; Lee Was Killed",
+      "https://twitter.com/jakeshieldsajj/status/1643470001566015488"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2023-04-05, 02:24:07",
-      "https://news.ycombinator.com/item?id=35448514"
-    ],
-    [
-      "System76 Teases Their “Virgo” In-House Manufactured Laptop",
-      "https://www.phoronix.com/news/System76-Virgo-Tease"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 02:05:50",
       "https://news.ycombinator.com/item?id=35448360"
     ],
@@ -77,6 +87,16 @@
     [
       "Lossless Image Compression in O(n) Time (2021)",
       "https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 01:50:16",
+      "https://news.ycombinator.com/item?id=35448239"
+    ],
+    [
+      "On the experience of being dirt-poorish, for people who want to be",
+      "https://woodfromeden.substack.com/p/on-the-experience-of-being-dirt-poorish"
     ]
   ],
   [
@@ -151,42 +171,12 @@
   ],
   [
     [
-      "2023-04-04, 22:43:49",
-      "https://news.ycombinator.com/item?id=35446847"
-    ],
-    [
-      "ZSTD 1.5.5 is released with a corruption fix found at Google",
-      "https://github.com/facebook/zstd/releases/tag/v1.5.5"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 21:10:17",
-      "https://news.ycombinator.com/item?id=35445900"
-    ],
-    [
-      "Brave launches self-serve ads program",
-      "https://brave.com/self-serve-ads/"
-    ]
-  ],
-  [
-    [
       "2023-04-04, 21:06:59",
       "https://news.ycombinator.com/item?id=35445867"
     ],
     [
       "FBI seizes bot shop ‘Genesis Market’ amid arrests targeting operators, suppliers",
       "https://krebsonsecurity.com/2023/04/fbi-seizes-bot-shop-genesis-market-amid-arrests-targeting-operators-suppliers/"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 19:56:25",
-      "https://news.ycombinator.com/item?id=35445097"
-    ],
-    [
-      "Launch HN: GradientJ (YC W23) – Build NLP Applications Faster with LLMs",
-      "https://news.ycombinator.com/item?id=35445097"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How to Game the App Store (2018)",
       "https://davidbarnard.com/post/180568817995/how-to-game-the-app-store"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 21:09:28",
+      "https://news.ycombinator.com/item?id=35431328"
+    ],
+    [
+      "Building an interactive clickable map for my blog",
+      "https://tomcritchlow.com/2023/04/03/blog-maps/"
     ]
   ]
 ]
