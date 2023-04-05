@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-05, 08:23:35](https://news.ycombinator.com/item?id=35451010) - [ChatGPT Plus upgrades paused due to high demand](https://openai.com/)
 * [2023-04-05, 08:18:20](https://news.ycombinator.com/item?id=35450978) - [Gaia&#x27;s first black hole discovery: GAIA-BH1 (2022)](https://www.cosmos.esa.int/web/gaia/iow_20221104)
 * [2023-04-05, 06:54:05](https://news.ycombinator.com/item?id=35450315) - [GPT4 simulating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
 * [2023-04-05, 06:34:24](https://news.ycombinator.com/item?id=35450175) - [BRL-CAD](https://brlcad.org/)
@@ -24,6 +23,7 @@
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
 * [2023-04-04, 16:16:54](https://news.ycombinator.com/item?id=35441997) - [Supercentenarian records show patterns indicative of errors and pension fraud](https://www.biorxiv.org/content/10.1101/704080v2)
 * [2023-04-04, 15:34:54](https://news.ycombinator.com/item?id=35441337) - [Show HN: Ermine.ai – Record and transcribe speech, 100% client-side (WASM)](https://www.ermine.ai/)
+* [2023-04-04, 14:14:11](https://news.ycombinator.com/item?id=35439958) - [Make your CLI demos a breeze with zero stress and zero mistakes](https://martinheinz.dev/blog/94)
 * [2023-04-04, 14:11:35](https://news.ycombinator.com/item?id=35439916) - [Mindset shifts for functional programming (with Clojure)](https://blog.janetacarr.com/mindset-shifts-for-functional-programming-with-clojure/)
 * [2023-04-04, 10:16:56](https://news.ycombinator.com/item?id=35437397) - [Using ultrasound attack to disarm a smart-home system](https://www.theregister.com/2023/04/04/siri_alexa_cortana_google_nuit/)
 * [2023-04-04, 09:37:23](https://news.ycombinator.com/item?id=35437151) - [Mesh Shaders and Meshlet Culling in Metal 3](https://metalbyexample.com/mesh-shaders/)

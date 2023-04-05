@@ -53,6 +53,7 @@
 * [2023-04-04, 14:38:06](https://news.ycombinator.com/item?id=35440348) - [Tell HN: The ratio of wants-to-be-hired to is-hiring is at a record high 0.94](https://news.ycombinator.com/item?id=35440348)
 * [2023-04-04, 14:32:38](https://news.ycombinator.com/item?id=35440265) - [A guy made ChatGPT4 CEO of his company](https://johnfsantos.substack.com/p/week-2-morpheus-hes-beginning-to)
 * [2023-04-04, 14:27:11](https://news.ycombinator.com/item?id=35440194) - [Liu Yiqian](https://en.wikipedia.org/wiki/Liu_Yiqian)
+* [2023-04-04, 14:14:11](https://news.ycombinator.com/item?id=35439958) - [Make your CLI demos a breeze with zero stress and zero mistakes](https://martinheinz.dev/blog/94)
 * [2023-04-04, 14:11:35](https://news.ycombinator.com/item?id=35439916) - [Mindset shifts for functional programming (with Clojure)](https://blog.janetacarr.com/mindset-shifts-for-functional-programming-with-clojure/)
 * [2023-04-04, 14:08:15](https://news.ycombinator.com/item?id=35439868) - [European Commission ask Nintendo to repair controllers](https://social.network.europa.eu/@EU_Commission/110140022257601348)
 * [2023-04-04, 13:55:35](https://news.ycombinator.com/item?id=35439673) - [Amazon to close Book Depository online shop](https://www.theguardian.com/books/2023/apr/04/amazon-to-close-book-depository-online-shop)
