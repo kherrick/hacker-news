@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-05, 15:30:37](https://news.ycombinator.com/item?id=35455850) - [Perspective 2.0, Open Source WebAssembly-Powered BI](https://perspective.finos.org/)
+* [2023-04-05, 15:26:45](https://news.ycombinator.com/item?id=35455797) - [DPReview’s Founder Blasts Amazon’s CEO: ‘What a Waste’](https://petapixel.com/2023/04/04/dpreviews-founder-blasts-amazons-ceo-what-a-waste/)
 * [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World by Alexander Miller](https://alex.miller.garden/grid-world/)
 * [2023-04-05, 14:55:35](https://news.ycombinator.com/item?id=35455286) - [“Inside-out Wankel” rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)
 * [2023-04-05, 13:32:46](https://news.ycombinator.com/item?id=35453857) - [Johnson and Johnson Reaches Deal for $8.9B Talc Settlement](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
@@ -10,7 +11,6 @@
 * [2023-04-05, 11:18:00](https://news.ycombinator.com/item?id=35452258) - [Aaron: AI Art Generator from 1973](https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art)
 * [2023-04-05, 10:22:51](https://news.ycombinator.com/item?id=35451863) - [Is RAM wiped before use in another LXC container?](https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-another-lxc-container)
 * [2023-04-05, 08:29:27](https://news.ycombinator.com/item?id=35451046) - [Vim-like “jump” cursor for Mac OS Window Management](https://www.homerow.app)
-* [2023-04-05, 08:18:20](https://news.ycombinator.com/item?id=35450978) - [Gaia&#x27;s first black hole discovery: GAIA-BH1 (2022)](https://www.cosmos.esa.int/web/gaia/iow_20221104)
 * [2023-04-05, 06:34:24](https://news.ycombinator.com/item?id=35450175) - [BRL-CAD](https://brlcad.org/)
 * [2023-04-05, 06:11:32](https://news.ycombinator.com/item?id=35450007) - [Packet, where are you? – eBPF-based Linux kernel networking debugger](https://github.com/cilium/pwru)
 * [2023-04-05, 05:47:31](https://news.ycombinator.com/item?id=35449831) - [Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html)
