@@ -6,6 +6,7 @@
 
 * [2023-04-05, 13:20:42](https://news.ycombinator.com/item?id=35453689) - [So I only ate potatoes for 2 weeks](https://www.petercai.com/so-i-only-ate-potatoes-for-2-weeks/)
 * [2023-04-05, 13:01:58](https://news.ycombinator.com/item?id=35453421) - [Apple and global suppliers expand renewable energy to 13.7 gigawatts](https://www.apple.com/newsroom/2023/04/apple-and-global-suppliers-expand-renewable-energy-to-13-point-7-gigawatts/)
+* [2023-04-05, 13:00:19](https://news.ycombinator.com/item?id=35453400) - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
 * [2023-04-05, 12:57:09](https://news.ycombinator.com/item?id=35453358) - [The richest man on Earth and the richest woman on Earth are both French](https://www.lemonde.fr/economie/article/2023/04/05/l-homme-et-de-la-femme-les-plus-riches-du-monde-sont-pour-la-premiere-fois-dans-l-histoire-tous-les-deux-francais_6168342_3234.html)
 * [2023-04-05, 12:28:49](https://news.ycombinator.com/item?id=35452963) - [Can Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2023-04-05, 12:02:48](https://news.ycombinator.com/item?id=35452644) - [Russia is persecuting dissenters by taking away their children](https://www.economist.com/europe/2023/03/31/russia-is-persecuting-dissenters-by-taking-away-their-children)
