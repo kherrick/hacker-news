@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 12:00:22](https://news.ycombinator.com/item?id=35452614) - [Circle Medical (YC S15) Is Hiring Ruby&#x2F;Rails Engineers](https://jobs.lever.co/circlemedical/1b3fcca6-6246-40d9-b7c9-096f8dc1871f)
+* [2023-04-05, 11:53:36](https://news.ycombinator.com/item?id=35452543) - [Show HN: To help 3D devs build reliable websites, I built Web3DSurvey.com](https://web3dsurvey.com/webgl2)
+* [2023-04-05, 11:41:41](https://news.ycombinator.com/item?id=35452426) - [Former Square CTO Bob Lee Stabbed to Death in Downtown San Francisco](https://sfstandard.com/criminal-justice/san-francisco-stabbing-victim-bob-lee-former-cto-square-mobilecoin/)
+* [2023-04-05, 11:18:00](https://news.ycombinator.com/item?id=35452258) - [Aaron: AI Art Generator from 1973](https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art)
+* [2023-04-05, 10:54:48](https://news.ycombinator.com/item?id=35452056) - [The salary you need to live comfortably in 15 major U.S. cities](https://www.cnbc.com/2023/04/04/the-salary-you-need-to-live-comfortably-in-15-major-us-cities.html)
 * [2023-04-05, 10:22:51](https://news.ycombinator.com/item?id=35451863) - [Is RAM wiped before use in another LXC container?](https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-another-lxc-container)
 * [2023-04-05, 09:44:43](https://news.ycombinator.com/item?id=35451591) - [Mission Impossible: IT Career Switch](https://valics.medium.com/mission-impossible-it-career-switch-76e2eafcb8fd)
 * [2023-04-05, 08:23:35](https://news.ycombinator.com/item?id=35451010) - [ChatGPT Plus upgrades paused due to high demand](https://openai.com/)
