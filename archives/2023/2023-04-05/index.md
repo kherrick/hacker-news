@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 16:36:09](https://news.ycombinator.com/item?id=35456829) - [Genesis Market Data Is Now Searchable in Have I Been Pwned](https://www.troyhunt.com/seized-genesis-market-data-is-now-searchable-in-have-i-been-pwned-courtesy-of-the-fbi-and-operation-cookie-monster/)
 * [2023-04-05, 16:28:48](https://news.ycombinator.com/item?id=35456721) - [China Plans to Ban Exports of Rare Earth Magnet Tech](https://japannews.yomiuri.co.jp/world/asia-pacific/20230405-101753/)
 * [2023-04-05, 15:52:36](https://news.ycombinator.com/item?id=35456192) - [Read “Gravity’s Rainbow” fifty years later](https://aurelien2022.substack.com/p/in-praise-of-the-preterite)
 * [2023-04-05, 15:45:59](https://news.ycombinator.com/item?id=35456083) - [A SvelteKit template for building CMS-free editable websites](https://editable.website)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 16:36:09](https://news.ycombinator.com/item?id=35456829) - [Genesis Market Data Is Now Searchable in Have I Been Pwned](https://www.troyhunt.com/seized-genesis-market-data-is-now-searchable-in-have-i-been-pwned-courtesy-of-the-fbi-and-operation-cookie-monster/)
 * [2023-04-05, 16:28:48](https://news.ycombinator.com/item?id=35456721) - [China Plans to Ban Exports of Rare Earth Magnet Tech](https://japannews.yomiuri.co.jp/world/asia-pacific/20230405-101753/)
 * [2023-04-05, 15:52:36](https://news.ycombinator.com/item?id=35456192) - [Read “Gravity’s Rainbow” fifty years later](https://aurelien2022.substack.com/p/in-praise-of-the-preterite)
 * [2023-04-05, 15:45:59](https://news.ycombinator.com/item?id=35456083) - [A SvelteKit template for building CMS-free editable websites](https://editable.website)
@@ -25,7 +26,6 @@
 * [2023-04-04, 14:14:11](https://news.ycombinator.com/item?id=35439958) - [Make your CLI demos a breeze with zero stress and zero mistakes](https://martinheinz.dev/blog/94)
 * [2023-04-04, 14:11:35](https://news.ycombinator.com/item?id=35439916) - [Mindset shifts for functional programming (with Clojure)](https://blog.janetacarr.com/mindset-shifts-for-functional-programming-with-clojure/)
 * [2023-04-04, 12:11:53](https://news.ycombinator.com/item?id=35438326) - [Who Will Amplify This? and Why? (2021)](https://sparktoro.com/blog/who-will-amplify-this-and-why/)
-* [2023-04-04, 10:16:56](https://news.ycombinator.com/item?id=35437397) - [Using ultrasound attack to disarm a smart-home system](https://www.theregister.com/2023/04/04/siri_alexa_cortana_google_nuit/)
 * [2023-04-04, 09:22:23](https://news.ycombinator.com/item?id=35437070) - [Liberating the MacBook Air 2013 with Linux](https://boilingsteam.com/liberating-the-macbook-air-2013-with-linux-complete-guide/)
 * [2023-04-04, 03:00:30](https://news.ycombinator.com/item?id=35434435) - [Mapping hospital accessibility with OpenStreetMap](https://wcedmisten.fyi/post/visualizing-hospital-accessibility/)
 * [2023-04-03, 14:42:04](https://news.ycombinator.com/item?id=35424420) - [From inspired to inspiring: Damian Earley](https://www.uspto.gov/learning-and-resources/journeys-innovation/field-stories/inspired-inspiring-damian-earley)
