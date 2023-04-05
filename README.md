@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 20:52:31](https://news.ycombinator.com/item?id=35460219) - [TPU v4 provides exaFLOPS-scale ML with industry-leading efficiency](https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains)
 * [2023-04-05, 19:48:34](https://news.ycombinator.com/item?id=35459488) - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
 * [2023-04-05, 19:37:11](https://news.ycombinator.com/item?id=35459333) - [Programmer interrupted: The cost of interruption and context switching (2022)](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
 * [2023-04-05, 19:12:09](https://news.ycombinator.com/item?id=35459031) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
@@ -10,7 +11,6 @@
 * [2023-04-05, 17:11:56](https://news.ycombinator.com/item?id=35457341) - [Remembering Bob Lee](https://news.ycombinator.com/item?id=35457341)
 * [2023-04-05, 17:03:18](https://news.ycombinator.com/item?id=35457225) - [Run LLaMA and Alpaca on your computer](https://github.com/cocktailpeanut/dalai)
 * [2023-04-05, 16:47:10](https://news.ycombinator.com/item?id=35456984) - [An introduction to zero-knowledge machine learning](https://worldcoin.org/blog/engineering/intro-to-zkml)
-* [2023-04-05, 16:36:09](https://news.ycombinator.com/item?id=35456829) - [Seized Genesis Market data is now searchable in Have I Been Pwned](https://www.troyhunt.com/seized-genesis-market-data-is-now-searchable-in-have-i-been-pwned-courtesy-of-the-fbi-and-operation-cookie-monster/)
 * [2023-04-05, 16:28:48](https://news.ycombinator.com/item?id=35456721) - [China plans to ban exports of rare earth magnet tech](https://japannews.yomiuri.co.jp/world/asia-pacific/20230405-101753/)
 * [2023-04-05, 16:13:59](https://news.ycombinator.com/item?id=35456509) - [Show HN: Quadratic – Open-Source Spreadsheet with Python, AI (WASM and WebGL)](https://www.quadratichq.com/)
 * [2023-04-05, 15:52:36](https://news.ycombinator.com/item?id=35456192) - [Read “Gravity’s Rainbow” fifty years later](https://aurelien2022.substack.com/p/in-praise-of-the-preterite)
