@@ -6,6 +6,7 @@
 
 * [2023-04-05, 22:07:53](https://news.ycombinator.com/item?id=35461062) - [I’m an doctor: Here’s what I found when I asked ChatGPT to diagnose my patients](https://inflecthealth.medium.com/im-an-er-doctor-here-s-what-i-found-when-i-asked-chatgpt-to-diagnose-my-patients-7829c375a9da)
 * [2023-04-05, 22:03:38](https://news.ycombinator.com/item?id=35461011) - [The Bitcoin whitepaper is hidden in every copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
+* [2023-04-05, 21:38:55](https://news.ycombinator.com/item?id=35460732) - [Dang is going to have 65,535 karma points soon](https://news.ycombinator.com/user?id=dang)
 * [2023-04-05, 21:05:51](https://news.ycombinator.com/item?id=35460375) - [Indie Hackers is indie again](https://www.indiehackers.com/product/indie-hackers/indie-hackers-is-indie-again--NSIAlb7LggSjzTavQZb)
 * [2023-04-05, 20:52:31](https://news.ycombinator.com/item?id=35460219) - [TPU v4 provides exaFLOPS-scale ML with industry-leading efficiency](https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains)
 * [2023-04-05, 19:48:34](https://news.ycombinator.com/item?id=35459488) - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
