@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 05:47:31](https://news.ycombinator.com/item?id=35449831) - [From Deep Learning Foundations to Stable Diffusion (Part 2)](https://course.fast.ai/Lessons/part2.html)
 * [2023-04-05, 05:01:07](https://news.ycombinator.com/item?id=35449494) - [Calling Purgatory from Heaven: Binding to Rust in Haskell](https://well-typed.com/blog/2023/03/purgatory/)
 * [2023-04-05, 03:50:27](https://news.ycombinator.com/item?id=35449054) - [PWAs in App Stores](https://web.dev/pwas-in-app-stores/)
 * [2023-04-05, 03:48:56](https://news.ycombinator.com/item?id=35449046) - [Tesla Light Show XLights](https://github.com/teslamotors/light-show)
