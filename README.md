@@ -6,7 +6,7 @@
 * [2023-04-05, 01:54:49](https://news.ycombinator.com/item?id=35448269) - [America Has Too Much Parking](https://www.wsj.com/articles/parking-problem-too-much-cities-e94dcecf)
 * [2023-04-05, 01:44:17](https://news.ycombinator.com/item?id=35448187) - [Microsoft’s new Surface Dock tosses the proprietary port, uses Thunderbolt 4](https://arstechnica.com/gadgets/2023/04/microsofts-new-surface-dock-tosses-the-proprietary-port-uses-thunderbolt-4/)
 * [2023-04-05, 01:28:25](https://news.ycombinator.com/item?id=35448090) - [US Government published guide to sabotage organizational productivity (1944)](https://gist.github.com/kennwhite/467529962c184258d08f16daec83d5da)
-* [2023-04-05, 01:26:46](https://news.ycombinator.com/item?id=35448074) - [The Russian Federal Guard Service officer who worked with Putin and fled Russia](https://dossier.center/fso-en/)
+* [2023-04-05, 01:03:34](https://news.ycombinator.com/item?id=35447914) - [TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning](https://arxiv.org/abs/2304.01433)
 * [2023-04-05, 00:18:08](https://news.ycombinator.com/item?id=35447580) - [Tabloid – The Clickbait Headline Programming Language](https://tabloid-thesephist.vercel.app/)
 * [2023-04-05, 00:05:45](https://news.ycombinator.com/item?id=35447486) - [iOS lets carriers add WiFi networks that you can’t remove or stop from joining](https://news.ycombinator.com/item?id=35447486)
 * [2023-04-04, 23:36:07](https://news.ycombinator.com/item?id=35447288) - [Show HN: Live coaching app for remote SWE interviews, uses Whisper and GPT-4](https://github.com/leetcode-mafia/cheetah)
