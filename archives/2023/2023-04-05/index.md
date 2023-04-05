@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 17:17:53](https://news.ycombinator.com/item?id=35457440) - [Cisco Systems pulled out of Russia: destroyed $23.42M worth of equipment](https://gagadget.com/en/232400-cisco-systems-pulled-out-of-russia-and-destroyed-2342m-worth-of-equipment/)
+* [2023-04-05, 17:14:34](https://news.ycombinator.com/item?id=35457384) - [Deposit Insurance Maximization as a Service](https://www.bitsaboutmoney.com/archive/deposit-insurance-maximization-as-a-service/)
 * [2023-04-05, 17:12:16](https://news.ycombinator.com/item?id=35457344) - [Deviation Game: Draw in a way that humans can guess, but AI can&#x27;t](https://deviationgame.com/)
 * [2023-04-05, 17:11:56](https://news.ycombinator.com/item?id=35457341) - [Remembering Bob Lee](https://news.ycombinator.com/item?id=35457341)
 * [2023-04-05, 17:03:18](https://news.ycombinator.com/item?id=35457225) - [Run LLaMA and Alpaca on your computer](https://github.com/cocktailpeanut/dalai)
