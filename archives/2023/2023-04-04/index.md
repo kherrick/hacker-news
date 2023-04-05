@@ -72,6 +72,7 @@
 * [2023-04-04, 12:11:53](https://news.ycombinator.com/item?id=35438326) - [Who Will Amplify This? and Why? (2021)](https://sparktoro.com/blog/who-will-amplify-this-and-why/)
 * [2023-04-04, 12:00:52](https://news.ycombinator.com/item?id=35438223) - [Reclaim Protocol (YC W21) Is Hiring Mechanism Design&#x2F;Game Theory Researchers](https://www.ycombinator.com/companies/questbook/jobs/BqXBrUU-game-theory-mechanism-design-researcher)
 * [2023-04-04, 11:58:09](https://news.ycombinator.com/item?id=35438192) - [The Great MLOps Hoax: Is It Just Data Engineering in Disguise?](https://www.cpard.xyz/posts/mlops_is_mostly_data_engineering/)
+* [2023-04-04, 11:55:20](https://news.ycombinator.com/item?id=35438171) - [Introduction to Sentry Symbolicator](https://getsentry.github.io/symbolicator/)
 * [2023-04-04, 11:42:33](https://news.ycombinator.com/item?id=35438068) - [How to be a -10x Engineer](https://taylor.town/-10x)
 * [2023-04-04, 11:02:44](https://news.ycombinator.com/item?id=35437726) - [Stanford just released a 386-page report on the state of AI](https://twitter.com/nonmayorpete/status/1643012248720523264)
 * [2023-04-04, 10:58:55](https://news.ycombinator.com/item?id=35437705) - [Germany’s Federal Office of Justice initiates fine proceedings against Twitter](https://twitter.com/doener_tech/status/1643206286140375042)

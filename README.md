@@ -26,10 +26,10 @@
 * [2023-04-05, 14:55:35](https://news.ycombinator.com/item?id=35455286) - [“Inside-out Wankel” rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)
 * [2023-04-05, 13:00:19](https://news.ycombinator.com/item?id=35453400) - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
 * [2023-04-05, 12:28:49](https://news.ycombinator.com/item?id=35452963) - [CAN Injection: Keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
-* [2023-04-05, 11:18:00](https://news.ycombinator.com/item?id=35452258) - [AARON: AI Art Generator from 1973](https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art)
 * [2023-04-05, 10:22:51](https://news.ycombinator.com/item?id=35451863) - [Is RAM wiped before use in another LXC container?](https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-another-lxc-container)
 * [2023-04-04, 20:16:33](https://news.ycombinator.com/item?id=35445312) - [Show HN: Want something better than k-means? Try BanditPAM](https://github.com/motiwari/BanditPAM)
 * [2023-04-04, 12:11:53](https://news.ycombinator.com/item?id=35438326) - [Who will amplify this and why? (2021)](https://sparktoro.com/blog/who-will-amplify-this-and-why/)
+* [2023-04-04, 11:55:20](https://news.ycombinator.com/item?id=35438171) - [Introduction to Sentry Symbolicator](https://getsentry.github.io/symbolicator/)
 
 ## [Archives](archives/index.md)
 
