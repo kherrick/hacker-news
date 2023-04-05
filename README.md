@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-05, 02:43:45](https://news.ycombinator.com/item?id=35448642) - [Paxlovid: Drug Development at a Full Sprint](https://www.science.org/content/blog-post/paxlovid-drug-development-full-sprint)
 * [2023-04-05, 02:24:07](https://news.ycombinator.com/item?id=35448514) - [System76 Teases Their “Virgo” In-House Manufactured Laptop](https://www.phoronix.com/news/System76-Virgo-Tease)
 * [2023-04-05, 02:05:50](https://news.ycombinator.com/item?id=35448360) - [Unpredictable Black Boxes Are Terrible Interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
 * [2023-04-05, 02:05:20](https://news.ycombinator.com/item?id=35448357) - [Lossless Image Compression in O(n) Time (2021)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
+* [2023-04-05, 01:54:49](https://news.ycombinator.com/item?id=35448269) - [America Has Too Much Parking](https://www.wsj.com/articles/parking-problem-too-much-cities-e94dcecf)
 * [2023-04-05, 01:44:17](https://news.ycombinator.com/item?id=35448187) - [Microsoft’s new Surface Dock tosses the proprietary port, uses Thunderbolt 4](https://arstechnica.com/gadgets/2023/04/microsofts-new-surface-dock-tosses-the-proprietary-port-uses-thunderbolt-4/)
 * [2023-04-05, 01:28:25](https://news.ycombinator.com/item?id=35448090) - [US Government published guide to sabotage organizational productivity (1944)](https://gist.github.com/kennwhite/467529962c184258d08f16daec83d5da)
+* [2023-04-05, 01:26:46](https://news.ycombinator.com/item?id=35448074) - [The Russian Federal Guard Service officer who worked with Putin and fled Russia](https://dossier.center/fso-en/)
 * [2023-04-05, 00:18:08](https://news.ycombinator.com/item?id=35447580) - [Tabloid – The Clickbait Headline Programming Language](https://tabloid-thesephist.vercel.app/)
 * [2023-04-05, 00:05:45](https://news.ycombinator.com/item?id=35447486) - [iOS lets carriers add WiFi networks that you can’t remove or stop from joining](https://news.ycombinator.com/item?id=35447486)
 * [2023-04-04, 23:36:07](https://news.ycombinator.com/item?id=35447288) - [Show HN: Live coaching app for remote SWE interviews, uses Whisper and GPT-4](https://github.com/leetcode-mafia/cheetah)
@@ -28,7 +29,6 @@
 * [2023-04-04, 09:35:16](https://news.ycombinator.com/item?id=35437135) - [Dumb bugs: the PCI device that wasn&#x27;t](https://sthbrx.github.io/blog/2023/04/04/dumb-bugs-the-pci-device-that-wasnt/)
 * [2023-04-04, 09:22:23](https://news.ycombinator.com/item?id=35437070) - [Liberating the MacBook Air 2013 with Linux](https://boilingsteam.com/liberating-the-macbook-air-2013-with-linux-complete-guide/)
 * [2023-04-04, 08:51:35](https://news.ycombinator.com/item?id=35436886) - [The Future of the Transistor](https://www.semianalysis.com/p/the-future-of-the-transistor)
-* [2023-04-04, 07:10:42](https://news.ycombinator.com/item?id=35436152) - [Randomness Improves Algorithms](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2023-04-04, 05:20:28](https://news.ycombinator.com/item?id=35435412) - [Physical 3x3x3x3 hypercube and other physical 4d twisty puzzles](https://www.youtube.com/watch?v=geFPbJAfLF4)
 
 ## [Archives](archives/index.md)
