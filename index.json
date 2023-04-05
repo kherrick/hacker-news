@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-05, 19:37:11",
+      "https://news.ycombinator.com/item?id=35459333"
+    ],
+    [
+      "Programmer interrupted: The cost of interruption and context switching (2022)",
+      "https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 19:12:09",
+      "https://news.ycombinator.com/item?id=35459031"
+    ],
+    [
+      "Neural Networks: Zero to Hero",
+      "https://karpathy.ai/zero-to-hero.html"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 19:07:27",
       "https://news.ycombinator.com/item?id=35458974"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2023-04-05, 15:36:02",
-      "https://news.ycombinator.com/item?id=35455930"
-    ],
-    [
-      "Using mmap to make LLaMA load faster",
-      "https://justine.lol/mmap/"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 15:30:37",
       "https://news.ycombinator.com/item?id=35455850"
     ],
     [
       "Perspective: Open Source WebAssembly-Powered BI",
       "https://perspective.finos.org/"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 15:26:45",
-      "https://news.ycombinator.com/item?id=35455797"
-    ],
-    [
-      "DPReview’s Founder Blasts Amazon’s CEO: ‘What a Waste’",
-      "https://petapixel.com/2023/04/04/dpreviews-founder-blasts-amazons-ceo-what-a-waste/"
     ]
   ],
   [
