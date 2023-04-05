@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 14:55:35](https://news.ycombinator.com/item?id=35455286) - [“Inside-out Wankel” rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)
 * [2023-04-05, 13:32:46](https://news.ycombinator.com/item?id=35453857) - [Johnson and Johnson Reaches Deal for $8.9B Talc Settlement](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
-* [2023-04-05, 13:01:58](https://news.ycombinator.com/item?id=35453421) - [Apple and global suppliers expand renewable energy to 13.7 gigawatts](https://www.apple.com/newsroom/2023/04/apple-and-global-suppliers-expand-renewable-energy-to-13-point-7-gigawatts/)
 * [2023-04-05, 13:00:19](https://news.ycombinator.com/item?id=35453400) - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
 * [2023-04-05, 12:28:49](https://news.ycombinator.com/item?id=35452963) - [Can Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2023-04-05, 12:00:22](https://news.ycombinator.com/item?id=35452614) - [Circle Medical (YC S15) Is Hiring Ruby&#x2F;Rails Engineers](https://jobs.lever.co/circlemedical/1b3fcca6-6246-40d9-b7c9-096f8dc1871f)
