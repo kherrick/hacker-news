@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-05, 08:18:20](https://news.ycombinator.com/item?id=35450978) - [The closest black hole to the Earth – now only 1560 lya](https://www.cosmos.esa.int/web/gaia/iow_20221104)
+* [2023-04-05, 08:18:20](https://news.ycombinator.com/item?id=35450978) - [Gaia&#x27;s first black hole discovery: GAIA-BH1 (2022)](https://www.cosmos.esa.int/web/gaia/iow_20221104)
 * [2023-04-05, 06:54:05](https://news.ycombinator.com/item?id=35450315) - [GPT4 simulating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
 * [2023-04-05, 06:34:24](https://news.ycombinator.com/item?id=35450175) - [BRL-CAD](https://brlcad.org/)
 * [2023-04-05, 06:15:52](https://news.ycombinator.com/item?id=35450043) - [Ofcom proposes to refer UK cloud market for investigation](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation)
