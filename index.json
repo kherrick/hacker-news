@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-04-05, 17:11:56",
+      "https://news.ycombinator.com/item?id=35457341"
+    ],
+    [
+      "Remembering Bob Lee",
+      "https://news.ycombinator.com/item?id=35457341"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 17:03:18",
+      "https://news.ycombinator.com/item?id=35457225"
+    ],
+    [
+      "Run LLaMA and Alpaca on your computer",
+      "https://github.com/cocktailpeanut/dalai"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 16:47:10",
+      "https://news.ycombinator.com/item?id=35456984"
+    ],
+    [
+      "Zero Knowledge Machine Learning",
+      "https://worldcoin.org/blog/engineering/intro-to-zkml"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 16:36:09",
       "https://news.ycombinator.com/item?id=35456829"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2023-04-05, 06:11:32",
-      "https://news.ycombinator.com/item?id=35450007"
-    ],
-    [
-      "Packet, where are you? – eBPF-based Linux kernel networking debugger",
-      "https://github.com/cilium/pwru"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 05:47:31",
       "https://news.ycombinator.com/item?id=35449831"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2023-04-04, 14:14:11",
-      "https://news.ycombinator.com/item?id=35439958"
-    ],
-    [
-      "Make your CLI demos a breeze with zero stress and zero mistakes",
-      "https://martinheinz.dev/blog/94"
-    ]
-  ],
-  [
-    [
       "2023-04-04, 14:11:35",
       "https://news.ycombinator.com/item?id=35439916"
     ],
     [
       "Mindset shifts for functional programming (with Clojure)",
       "https://blog.janetacarr.com/mindset-shifts-for-functional-programming-with-clojure/"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 12:11:53",
-      "https://news.ycombinator.com/item?id=35438326"
-    ],
-    [
-      "Who Will Amplify This? and Why? (2021)",
-      "https://sparktoro.com/blog/who-will-amplify-this-and-why/"
     ]
   ],
   [
