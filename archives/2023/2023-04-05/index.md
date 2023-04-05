@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 22:54:18](https://news.ycombinator.com/item?id=35461596) - [I don&#x27;t want streaming music, I just want to stream my music](https://coryd.dev/posts/2023/i-dont-want-streaming-music/)
 * [2023-04-05, 22:07:53](https://news.ycombinator.com/item?id=35461062) - [I’m an doctor: Here’s what I found when I asked ChatGPT to diagnose my patients](https://inflecthealth.medium.com/im-an-er-doctor-here-s-what-i-found-when-i-asked-chatgpt-to-diagnose-my-patients-7829c375a9da)
 * [2023-04-05, 22:03:38](https://news.ycombinator.com/item?id=35461011) - [The Bitcoin whitepaper is hidden in every copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
 * [2023-04-05, 21:38:55](https://news.ycombinator.com/item?id=35460732) - [Dang is going to have 65,535 karma points soon](https://news.ycombinator.com/user?id=dang)
