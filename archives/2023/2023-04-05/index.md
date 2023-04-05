@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 17:12:16](https://news.ycombinator.com/item?id=35457344) - [Deviation Game: Draw in a way that humans can guess, but AI can&#x27;t](https://deviationgame.com/)
 * [2023-04-05, 17:11:56](https://news.ycombinator.com/item?id=35457341) - [Remembering Bob Lee](https://news.ycombinator.com/item?id=35457341)
 * [2023-04-05, 17:03:18](https://news.ycombinator.com/item?id=35457225) - [Run LLaMA and Alpaca on your computer](https://github.com/cocktailpeanut/dalai)
+* [2023-04-05, 16:52:30](https://news.ycombinator.com/item?id=35457058) - [Most Technologies Aren&#x27;t Races](https://astralcodexten.substack.com/p/most-technologies-arent-races)
 * [2023-04-05, 16:47:10](https://news.ycombinator.com/item?id=35456984) - [Zero Knowledge Machine Learning](https://worldcoin.org/blog/engineering/intro-to-zkml)
 * [2023-04-05, 16:36:09](https://news.ycombinator.com/item?id=35456829) - [Genesis Market Data Is Now Searchable in Have I Been Pwned](https://www.troyhunt.com/seized-genesis-market-data-is-now-searchable-in-have-i-been-pwned-courtesy-of-the-fbi-and-operation-cookie-monster/)
 * [2023-04-05, 16:28:48](https://news.ycombinator.com/item?id=35456721) - [China Plans to Ban Exports of Rare Earth Magnet Tech](https://japannews.yomiuri.co.jp/world/asia-pacific/20230405-101753/)

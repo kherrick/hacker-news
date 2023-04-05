@@ -91,6 +91,7 @@
 * [2023-04-03, 11:00:23](https://news.ycombinator.com/item?id=35421474) - [Ask HN: Best way to “donate” dev hours to charity?](https://news.ycombinator.com/item?id=35421474)
 * [2023-04-03, 10:28:44](https://news.ycombinator.com/item?id=35421162) - [Control EMI, Don’t Dump AM Receivers](https://www.radioworld.com/columns-and-views/guest-commentaries/control-emi-dont-dump-am-receivers)
 * [2023-04-03, 10:27:44](https://news.ycombinator.com/item?id=35421156) - [Mullvad VPN and the Tor Project Team Up to Release the Mullvad Browser](https://mullvad.net/en/blog/2023/4/3/mullvad-vpn-and-the-tor-project-team-up-to-release-the-mullvad-browser/)
+* [2023-04-03, 10:24:24](https://news.ycombinator.com/item?id=35421120) - [Make your work available (2007)](https://terrytao.wordpress.com/career-advice/make-your-work-available/)
 * [2023-04-03, 10:19:38](https://news.ycombinator.com/item?id=35421096) - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
 * [2023-04-03, 10:11:50](https://news.ycombinator.com/item?id=35421034) - [The Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 09:58:44](https://news.ycombinator.com/item?id=35420946) - [Apple Halted M2 Chip Production in January Amid &#x27;Plummeting&#x27; Mac Sales](https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/)
