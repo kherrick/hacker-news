@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-04-05, 01:50:16",
-      "https://news.ycombinator.com/item?id=35448239"
-    ],
-    [
-      "On the experience of being dirt-poorish, for people who want to be",
-      "https://woodfromeden.substack.com/p/on-the-experience-of-being-dirt-poorish"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 01:28:25",
       "https://news.ycombinator.com/item?id=35448090"
     ],
@@ -157,16 +147,6 @@
     [
       "The case for banning children from social media",
       "https://www.newyorker.com/news/our-columnists/the-case-for-banning-children-from-social-media"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 00:18:08",
-      "https://news.ycombinator.com/item?id=35447580"
-    ],
-    [
-      "Tabloid – The Clickbait Headline Programming Language",
-      "https://tabloid-thesephist.vercel.app/"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2023-04-04, 22:43:49",
+      "https://news.ycombinator.com/item?id=35446847"
+    ],
+    [
+      "ZSTD 1.5.5 is released with a corruption fix found at Google",
+      "https://github.com/facebook/zstd/releases/tag/v1.5.5"
+    ]
+  ],
+  [
+    [
       "2023-04-04, 21:06:59",
       "https://news.ycombinator.com/item?id=35445867"
     ],
@@ -211,22 +201,12 @@
   ],
   [
     [
-      "2023-04-04, 17:59:47",
-      "https://news.ycombinator.com/item?id=35443585"
+      "2023-04-04, 18:27:48",
+      "https://news.ycombinator.com/item?id=35443976"
     ],
     [
-      "Bell Labs gave up its roof to patch the Statue of Liberty",
-      "https://nickvsnetworking.com/the-time-bell-labs-brought-the-statue-of-liberty-under-its-roof-literally/"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 16:58:21",
-      "https://news.ycombinator.com/item?id=35442642"
-    ],
-    [
-      "The microcode and hardware in the 8086 processor that perform string operations",
-      "https://www.righto.com/2023/04/8086-microcode-string-operations.html"
+      "Creator of Catan, Klaus Teuber, has died",
+      "https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2023-04-04, 09:37:23",
+      "https://news.ycombinator.com/item?id=35437151"
+    ],
+    [
+      "Mesh Shaders and Meshlet Culling in Metal 3",
+      "https://metalbyexample.com/mesh-shaders/"
+    ]
+  ],
+  [
+    [
       "2023-04-04, 09:22:23",
       "https://news.ycombinator.com/item?id=35437070"
     ],
     [
       "Liberating the MacBook Air 2013 with Linux",
       "https://boilingsteam.com/liberating-the-macbook-air-2013-with-linux-complete-guide/"
+    ]
+  ],
+  [
+    [
+      "2023-04-04, 07:10:42",
+      "https://news.ycombinator.com/item?id=35436152"
+    ],
+    [
+      "How randomness can improve algorithms",
+      "https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/"
     ]
   ],
   [
