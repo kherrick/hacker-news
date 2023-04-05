@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 05:01:07](https://news.ycombinator.com/item?id=35449494) - [Calling Purgatory from Heaven: Binding to Rust in Haskell](https://well-typed.com/blog/2023/03/purgatory/)
 * [2023-04-05, 03:50:27](https://news.ycombinator.com/item?id=35449054) - [PWAs in App Stores](https://web.dev/pwas-in-app-stores/)
 * [2023-04-05, 02:24:07](https://news.ycombinator.com/item?id=35448514) - [System76 Teases Their “Virgo” In-House Manufactured Laptop](https://www.phoronix.com/news/System76-Virgo-Tease)
 * [2023-04-05, 02:05:50](https://news.ycombinator.com/item?id=35448360) - [Unpredictable black boxes are terrible interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
@@ -19,7 +20,6 @@
 * [2023-04-04, 19:56:25](https://news.ycombinator.com/item?id=35445097) - [Launch HN: GradientJ (YC W23) – Build NLP Applications Faster with LLMs](https://news.ycombinator.com/item?id=35445097)
 * [2023-04-04, 18:27:48](https://news.ycombinator.com/item?id=35443976) - [Creator of Catan, Klaus Teuber, has died](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
 * [2023-04-04, 17:59:47](https://news.ycombinator.com/item?id=35443585) - [Bell Labs gave up its roof to patch the Statue of Liberty](https://nickvsnetworking.com/the-time-bell-labs-brought-the-statue-of-liberty-under-its-roof-literally/)
-* [2023-04-04, 17:01:15](https://news.ycombinator.com/item?id=35442681) - [Skio (YC S20) Is Hiring](https://skio.com/careers/)
 * [2023-04-04, 16:58:21](https://news.ycombinator.com/item?id=35442642) - [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
 * [2023-04-04, 16:16:54](https://news.ycombinator.com/item?id=35441997) - [Supercentenarian records show patterns indicative of errors and pension fraud](https://www.biorxiv.org/content/10.1101/704080v2)

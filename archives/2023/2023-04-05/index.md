@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 05:01:07](https://news.ycombinator.com/item?id=35449494) - [Calling Purgatory from Heaven: Binding to Rust in Haskell](https://well-typed.com/blog/2023/03/purgatory/)
 * [2023-04-05, 03:50:27](https://news.ycombinator.com/item?id=35449054) - [PWAs in App Stores](https://web.dev/pwas-in-app-stores/)
 * [2023-04-05, 03:48:56](https://news.ycombinator.com/item?id=35449046) - [Tesla Light Show XLights](https://github.com/teslamotors/light-show)
 * [2023-04-05, 03:24:41](https://news.ycombinator.com/item?id=35448899) - [Bob Lee, Former CTO Square, Creator of CashApp, Stabbed to Death in SF](https://www.sfgate.com/bayarea/article/mill-valley-man-killed-sf-stabbing-17878809.php)
