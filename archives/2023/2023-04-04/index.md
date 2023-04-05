@@ -68,6 +68,7 @@
 * [2023-04-04, 12:32:28](https://news.ycombinator.com/item?id=35438569) - [Google workers in London stage walkout over job cuts](https://www.reuters.com/technology/google-workers-london-stage-walkout-over-job-cuts-2023-04-04/)
 * [2023-04-04, 12:29:32](https://news.ycombinator.com/item?id=35438524) - [Finland becomes the 31st member of NATO](https://www.nato.int/cps/en/natohq/events_67375.htm)
 * [2023-04-04, 12:18:48](https://news.ycombinator.com/item?id=35438400) - [Show HN: Promptr, let GPT operate on your codebase and other useful goodies](https://github.com/ferrislucas/promptr)
+* [2023-04-04, 12:11:53](https://news.ycombinator.com/item?id=35438326) - [Who Will Amplify This? and Why? (2021)](https://sparktoro.com/blog/who-will-amplify-this-and-why/)
 * [2023-04-04, 12:00:52](https://news.ycombinator.com/item?id=35438223) - [Reclaim Protocol (YC W21) Is Hiring Mechanism Design&#x2F;Game Theory Researchers](https://www.ycombinator.com/companies/questbook/jobs/BqXBrUU-game-theory-mechanism-design-researcher)
 * [2023-04-04, 11:58:09](https://news.ycombinator.com/item?id=35438192) - [The Great MLOps Hoax: Is It Just Data Engineering in Disguise?](https://www.cpard.xyz/posts/mlops_is_mostly_data_engineering/)
 * [2023-04-04, 11:42:33](https://news.ycombinator.com/item?id=35438068) - [How to be a -10x Engineer](https://taylor.town/-10x)
