@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-05, 22:03:38",
+      "https://news.ycombinator.com/item?id=35461011"
+    ],
+    [
+      "The Bitcoin whitepaper is hidden in every copy of macOS",
+      "https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 20:52:31",
       "https://news.ycombinator.com/item?id=35460219"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2023-04-05, 13:32:46",
-      "https://news.ycombinator.com/item?id=35453857"
-    ],
-    [
-      "Johnson and Johnson reaches deal for $8.9B talc settlement",
-      "https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 13:00:19",
       "https://news.ycombinator.com/item?id=35453400"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2023-04-04, 12:11:53",
-      "https://news.ycombinator.com/item?id=35438326"
-    ],
-    [
-      "Who will amplify this and why? (2021)",
-      "https://sparktoro.com/blog/who-will-amplify-this-and-why/"
-    ]
-  ],
-  [
-    [
       "2023-04-04, 11:55:20",
       "https://news.ycombinator.com/item?id=35438171"
     ],
@@ -297,6 +287,16 @@
     [
       "Acoustic Shadow in the Civil War",
       "http://www.nellaware.com/blog/acoustic-shadow-in-the-civil-war.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-04, 06:48:21",
+      "https://news.ycombinator.com/item?id=35435979"
+    ],
+    [
+      "Reading thermometer temperatures over time from a video",
+      "https://til.simonwillison.net/googlecloud/video-frame-ocr"
     ]
   ]
 ]
