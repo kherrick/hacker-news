@@ -38,6 +38,7 @@
 * [2023-04-04, 16:13:17](https://news.ycombinator.com/item?id=35441941) - [Show HN: ChatIDE – DIY Github Copilot X](https://github.com/yagil/ChatIDE)
 * [2023-04-04, 16:10:02](https://news.ycombinator.com/item?id=35441886) - [Ask HN: If Unix is written in C, how did they run C before Unix?](https://news.ycombinator.com/item?id=35441886)
 * [2023-04-04, 16:07:44](https://news.ycombinator.com/item?id=35441844) - [Goldman Sachs Predicts 300M Jobs Will Be Lost or Degraded by AI](https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/)
+* [2023-04-04, 16:02:38](https://news.ycombinator.com/item?id=35441759) - [Ending an Ugly Chapter in Chip Design](https://spectrum.ieee.org/chip-design-controversy)
 * [2023-04-04, 15:34:54](https://news.ycombinator.com/item?id=35441337) - [Show HN: Ermine.ai – Record and transcribe speech, 100% client-side (WASM)](https://www.ermine.ai/)
 * [2023-04-04, 15:27:33](https://news.ycombinator.com/item?id=35441211) - [Frank founder allegedly defrauded JPMorgan out of $175M hit with federal charges](https://www.businessinsider.com/charlie-javice-frank-criminal-charges-financial-fraud-jpmorgan-chase-2023-1)
 * [2023-04-04, 15:25:36](https://news.ycombinator.com/item?id=35441180) - [Ask HN: Courses&#x2F;textbook recommendations for studying robotics?](https://news.ycombinator.com/item?id=35441180)
