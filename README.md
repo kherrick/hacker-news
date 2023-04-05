@@ -21,7 +21,7 @@
 * [2023-04-04, 23:04:08](https://news.ycombinator.com/item?id=35447025) - [My long goodbye to Windows XP (2022)](https://woodfromeden.substack.com/p/my-long-goodbye-to-windows-xp)
 * [2023-04-04, 21:06:59](https://news.ycombinator.com/item?id=35445867) - [FBI seizes bot shop ‘Genesis Market’ amid arrests targeting operators, suppliers](https://krebsonsecurity.com/2023/04/fbi-seizes-bot-shop-genesis-market-amid-arrests-targeting-operators-suppliers/)
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
-* [2023-04-04, 16:16:54](https://news.ycombinator.com/item?id=35441997) - [Supercentenarian records show patterns indicative of errors and pension fraud](https://www.biorxiv.org/content/10.1101/704080v2)
+* [2023-04-04, 16:16:54](https://news.ycombinator.com/item?id=35441997) - [Supercentenarian records show patterns indicative of errors and pension fraud (2020)](https://www.biorxiv.org/content/10.1101/704080v2)
 * [2023-04-04, 15:34:54](https://news.ycombinator.com/item?id=35441337) - [Show HN: Ermine.ai – Record and transcribe speech, 100% client-side (WASM)](https://www.ermine.ai/)
 * [2023-04-04, 14:14:11](https://news.ycombinator.com/item?id=35439958) - [Make your CLI demos a breeze with zero stress and zero mistakes](https://martinheinz.dev/blog/94)
 * [2023-04-04, 14:11:35](https://news.ycombinator.com/item?id=35439916) - [Mindset shifts for functional programming (with Clojure)](https://blog.janetacarr.com/mindset-shifts-for-functional-programming-with-clojure/)
