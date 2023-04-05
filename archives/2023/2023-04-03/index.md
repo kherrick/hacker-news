@@ -64,6 +64,7 @@
 * [2023-04-03, 14:48:52](https://news.ycombinator.com/item?id=35424551) - [Comparing K3s with Kubernetes How K3s Is Often the Better Choice](https://www.hoelzel.it/kubernetes/2023/04/01/k3s-is-Often-the-Better-Choice.html)
 * [2023-04-03, 14:44:20](https://news.ycombinator.com/item?id=35424459) - [Birds with neurotoxin-laden feathers discovered in New Guinea](https://phys.org/news/2023-03-birds-neurotoxin-laden-feathers-guinea.html)
 * [2023-04-03, 14:42:25](https://news.ycombinator.com/item?id=35424428) - [‘Hot Ones’ Was a Slow Burn All Along](https://www.nytimes.com/2023/04/03/arts/television/hot-ones-youtube-show.html)
+* [2023-04-03, 14:42:04](https://news.ycombinator.com/item?id=35424420) - [From inspired to inspiring: Damian Earley](https://www.uspto.gov/learning-and-resources/journeys-innovation/field-stories/inspired-inspiring-damian-earley)
 * [2023-04-03, 14:19:28](https://news.ycombinator.com/item?id=35424005) - [Show HN: Unriddle – Create your own GPT-4 on top of any document](https://www.unriddle.ai/)
 * [2023-04-03, 14:12:30](https://news.ycombinator.com/item?id=35423883) - [McDonald’s Shuts Corporate Offices Ahead of Layoffs](https://www.bloomberg.com/news/articles/2023-04-03/mcdonald-s-shuts-corporate-offices-ahead-of-layoffs-wsj-reports)
 * [2023-04-03, 14:03:17](https://news.ycombinator.com/item?id=35423733) - [2023 Hyundai Ioniq 6 First Drive: Effortlessly Good, Near-Slam Dunk on Tesla](https://www.thedrive.com/car-reviews/hyundai-ioniq-6-first-drive-review-specs-price-options-impressions)

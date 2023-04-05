@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 15:52:36](https://news.ycombinator.com/item?id=35456192) - [Read “Gravity’s Rainbow” fifty years later](https://aurelien2022.substack.com/p/in-praise-of-the-preterite)
+* [2023-04-05, 15:45:59](https://news.ycombinator.com/item?id=35456083) - [A SvelteKit template for building CMS-free editable websites](https://editable.website)
+* [2023-04-05, 15:44:12](https://news.ycombinator.com/item?id=35456059) - [A Trick to Reaching Flow](https://census.dev/blog/an-on-ramp-to-flow)
+* [2023-04-05, 15:38:07](https://news.ycombinator.com/item?id=35455965) - [Dark Patterns in Substack](https://hermitian.substack.com/p/dark-patterns-in-substack)
+* [2023-04-05, 15:37:15](https://news.ycombinator.com/item?id=35455948) - [The Rise of the Chiplet](https://semiwiki.com/chiplet/326537-the-rise-of-the-chiplet/)
 * [2023-04-05, 15:36:02](https://news.ycombinator.com/item?id=35455930) - [Using mmap to make LLaMA load faster](https://justine.lol/mmap/)
 * [2023-04-05, 15:30:37](https://news.ycombinator.com/item?id=35455850) - [Perspective 2.0, Open Source WebAssembly-Powered BI](https://perspective.finos.org/)
 * [2023-04-05, 15:26:45](https://news.ycombinator.com/item?id=35455797) - [DPReview’s Founder Blasts Amazon’s CEO: ‘What a Waste’](https://petapixel.com/2023/04/04/dpreviews-founder-blasts-amazons-ceo-what-a-waste/)
