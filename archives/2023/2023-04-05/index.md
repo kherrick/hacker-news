@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
 * [2023-04-05, 10:22:51](https://news.ycombinator.com/item?id=35451863) - [Is RAM wiped before use in another LXC container?](https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-another-lxc-container)
+* [2023-04-05, 09:44:43](https://news.ycombinator.com/item?id=35451591) - [Mission Impossible: IT Career Switch](https://valics.medium.com/mission-impossible-it-career-switch-76e2eafcb8fd)
 * [2023-04-05, 08:23:35](https://news.ycombinator.com/item?id=35451010) - [ChatGPT Plus upgrades paused due to high demand](https://openai.com/)
 * [2023-04-05, 08:18:20](https://news.ycombinator.com/item?id=35450978) - [The closest black hole to the Earth – now only 1560 lya](https://www.cosmos.esa.int/web/gaia/iow_20221104)
 * [2023-04-05, 07:02:11](https://news.ycombinator.com/item?id=35450386) - [Book Depository will be closing on 26 April 2023](https://www.bookdepository.com/closure)
