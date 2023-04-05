@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 07:02:11](https://news.ycombinator.com/item?id=35450386) - [Book Depository will be closing on 26 April 2023](https://www.bookdepository.com/closure)
 * [2023-04-05, 06:54:05](https://news.ycombinator.com/item?id=35450315) - [GPT4 hallucinating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
 * [2023-04-05, 06:34:24](https://news.ycombinator.com/item?id=35450175) - [BRL-CAD](https://brlcad.org/)
 * [2023-04-05, 06:15:52](https://news.ycombinator.com/item?id=35450043) - [Ofcom proposes to refer UK cloud market for investigation](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation)
@@ -18,7 +19,6 @@
 * [2023-04-04, 23:36:07](https://news.ycombinator.com/item?id=35447288) - [Show HN: Live coaching app for remote SWE interviews, uses Whisper and GPT-4](https://github.com/leetcode-mafia/cheetah)
 * [2023-04-04, 23:04:08](https://news.ycombinator.com/item?id=35447025) - [My long goodbye to Windows XP (2022)](https://woodfromeden.substack.com/p/my-long-goodbye-to-windows-xp)
 * [2023-04-04, 21:06:59](https://news.ycombinator.com/item?id=35445867) - [FBI seizes bot shop ‘Genesis Market’ amid arrests targeting operators, suppliers](https://krebsonsecurity.com/2023/04/fbi-seizes-bot-shop-genesis-market-amid-arrests-targeting-operators-suppliers/)
-* [2023-04-04, 18:27:48](https://news.ycombinator.com/item?id=35443976) - [Creator of Catan, Klaus Teuber, has died](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
 * [2023-04-04, 17:59:47](https://news.ycombinator.com/item?id=35443585) - [Bell Labs gave up its roof to patch the Statue of Liberty](https://nickvsnetworking.com/the-time-bell-labs-brought-the-statue-of-liberty-under-its-roof-literally/)
 * [2023-04-04, 16:58:21](https://news.ycombinator.com/item?id=35442642) - [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
