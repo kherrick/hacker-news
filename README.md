@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 22:07:53](https://news.ycombinator.com/item?id=35461062) - [I’m an doctor: Here’s what I found when I asked ChatGPT to diagnose my patients](https://inflecthealth.medium.com/im-an-er-doctor-here-s-what-i-found-when-i-asked-chatgpt-to-diagnose-my-patients-7829c375a9da)
 * [2023-04-05, 22:03:38](https://news.ycombinator.com/item?id=35461011) - [The Bitcoin whitepaper is hidden in every copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
 * [2023-04-05, 21:05:51](https://news.ycombinator.com/item?id=35460375) - [Indie Hackers is indie again](https://www.indiehackers.com/product/indie-hackers/indie-hackers-is-indie-again--NSIAlb7LggSjzTavQZb)
 * [2023-04-05, 20:52:31](https://news.ycombinator.com/item?id=35460219) - [TPU v4 provides exaFLOPS-scale ML with efficiency gains](https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains)
@@ -28,7 +29,6 @@
 * [2023-04-05, 10:22:51](https://news.ycombinator.com/item?id=35451863) - [Is RAM wiped before use in another LXC container?](https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-another-lxc-container)
 * [2023-04-04, 20:16:33](https://news.ycombinator.com/item?id=35445312) - [Show HN: Want something better than k-means? Try BanditPAM](https://github.com/motiwari/BanditPAM)
 * [2023-04-04, 11:55:20](https://news.ycombinator.com/item?id=35438171) - [Introduction to Sentry Symbolicator](https://getsentry.github.io/symbolicator/)
-* [2023-04-04, 11:43:30](https://news.ycombinator.com/item?id=35438072) - [Acoustic Shadow in the Civil War](http://www.nellaware.com/blog/acoustic-shadow-in-the-civil-war.html)
 * [2023-04-04, 06:48:21](https://news.ycombinator.com/item?id=35435979) - [Reading thermometer temperatures over time from a video](https://til.simonwillison.net/googlecloud/video-frame-ocr)
 
 ## [Archives](archives/index.md)
