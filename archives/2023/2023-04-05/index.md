@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 13:01:58](https://news.ycombinator.com/item?id=35453421) - [Apple and global suppliers expand renewable energy to 13.7 gigawatts](https://www.apple.com/newsroom/2023/04/apple-and-global-suppliers-expand-renewable-energy-to-13-point-7-gigawatts/)
 * [2023-04-05, 12:02:48](https://news.ycombinator.com/item?id=35452644) - [Russia is persecuting dissenters by taking away their children](https://www.economist.com/europe/2023/03/31/russia-is-persecuting-dissenters-by-taking-away-their-children)
 * [2023-04-05, 12:00:22](https://news.ycombinator.com/item?id=35452614) - [Circle Medical (YC S15) Is Hiring Ruby&#x2F;Rails Engineers](https://jobs.lever.co/circlemedical/1b3fcca6-6246-40d9-b7c9-096f8dc1871f)
 * [2023-04-05, 11:53:36](https://news.ycombinator.com/item?id=35452543) - [Show HN: To help 3D devs build reliable websites, I built Web3DSurvey.com](https://web3dsurvey.com/webgl2)

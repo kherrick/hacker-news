@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 13:01:58](https://news.ycombinator.com/item?id=35453421) - [Apple and global suppliers expand renewable energy to 13.7 gigawatts](https://www.apple.com/newsroom/2023/04/apple-and-global-suppliers-expand-renewable-energy-to-13-point-7-gigawatts/)
 * [2023-04-05, 12:02:48](https://news.ycombinator.com/item?id=35452644) - [Russia is persecuting dissenters by taking away their children](https://www.economist.com/europe/2023/03/31/russia-is-persecuting-dissenters-by-taking-away-their-children)
 * [2023-04-05, 12:00:22](https://news.ycombinator.com/item?id=35452614) - [Circle Medical (YC S15) Is Hiring Ruby&#x2F;Rails Engineers](https://jobs.lever.co/circlemedical/1b3fcca6-6246-40d9-b7c9-096f8dc1871f)
 * [2023-04-05, 11:41:41](https://news.ycombinator.com/item?id=35452426) - [Former Square CTO Bob Lee Stabbed to Death in Downtown San Francisco](https://sfstandard.com/criminal-justice/san-francisco-stabbing-victim-bob-lee-former-cto-square-mobilecoin/)
@@ -20,7 +21,6 @@
 * [2023-04-05, 00:19:24](https://news.ycombinator.com/item?id=35447588) - [The case for banning children from social media](https://www.newyorker.com/news/our-columnists/the-case-for-banning-children-from-social-media)
 * [2023-04-04, 23:36:07](https://news.ycombinator.com/item?id=35447288) - [Show HN: Live coaching app for remote SWE interviews, uses Whisper and GPT-4](https://github.com/leetcode-mafia/cheetah)
 * [2023-04-04, 23:12:01](https://news.ycombinator.com/item?id=35447094) - [Using Wake on LAN (WOL) Across the Internet (2010)](http://ptere.com/wol/)
-* [2023-04-04, 23:04:08](https://news.ycombinator.com/item?id=35447025) - [My long goodbye to Windows XP (2022)](https://woodfromeden.substack.com/p/my-long-goodbye-to-windows-xp)
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
 * [2023-04-04, 16:02:38](https://news.ycombinator.com/item?id=35441759) - [Ending an Ugly Chapter in Chip Design](https://spectrum.ieee.org/chip-design-controversy)
 * [2023-04-04, 15:34:54](https://news.ycombinator.com/item?id=35441337) - [Show HN: Ermine.ai – Record and transcribe speech, 100% client-side (WASM)](https://www.ermine.ai/)
