@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-05, 15:30:37",
+      "https://news.ycombinator.com/item?id=35455850"
+    ],
+    [
+      "Perspective 2.0, Open Source WebAssembly-Powered BI",
+      "https://perspective.finos.org/"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 14:55:35",
       "https://news.ycombinator.com/item?id=35455286"
     ],
@@ -171,26 +181,6 @@
   ],
   [
     [
-      "2023-04-05, 00:19:24",
-      "https://news.ycombinator.com/item?id=35447588"
-    ],
-    [
-      "The case for banning children from social media",
-      "https://www.newyorker.com/news/our-columnists/the-case-for-banning-children-from-social-media"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 23:36:07",
-      "https://news.ycombinator.com/item?id=35447288"
-    ],
-    [
-      "Show HN: Live coaching app for remote SWE interviews, uses Whisper and GPT-4",
-      "https://github.com/leetcode-mafia/cheetah"
-    ]
-  ],
-  [
-    [
       "2023-04-04, 23:12:01",
       "https://news.ycombinator.com/item?id=35447094"
     ],
@@ -297,6 +287,16 @@
     [
       "Building an interactive clickable map for my blog",
       "https://tomcritchlow.com/2023/04/03/blog-maps/"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 10:19:38",
+      "https://news.ycombinator.com/item?id=35421096"
+    ],
+    [
+      "Think Python 2e",
+      "https://greenteapress.com/wp/think-python-2e/"
     ]
   ]
 ]
