@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-05, 15:36:02",
+      "https://news.ycombinator.com/item?id=35455930"
+    ],
+    [
+      "Using mmap to make LLaMA load faster",
+      "https://justine.lol/mmap/"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 15:30:37",
       "https://news.ycombinator.com/item?id=35455850"
     ],
@@ -27,6 +37,16 @@
     [
       "Grid World by Alexander Miller",
       "https://alex.miller.garden/grid-world/"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 15:12:59",
+      "https://news.ycombinator.com/item?id=35455582"
+    ],
+    [
+      "Cash App founder Bob Lee reportedly killed in San Francisco stabbing",
+      "https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-killed-san-francisco-stabbing-sources-say-rcna78265"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-04-05, 02:05:20",
-      "https://news.ycombinator.com/item?id=35448357"
-    ],
-    [
-      "Lossless Image Compression in O(n) Time (2021)",
-      "https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 01:03:34",
       "https://news.ycombinator.com/item?id=35447914"
     ],
@@ -277,16 +287,6 @@
     [
       "Mapping hospital accessibility with OpenStreetMap",
       "https://wcedmisten.fyi/post/visualizing-hospital-accessibility/"
-    ]
-  ],
-  [
-    [
-      "2023-04-03, 21:09:28",
-      "https://news.ycombinator.com/item?id=35431328"
-    ],
-    [
-      "Building an interactive clickable map for my blog",
-      "https://tomcritchlow.com/2023/04/03/blog-maps/"
     ]
   ],
   [
