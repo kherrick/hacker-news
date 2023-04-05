@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 00:05:45](https://news.ycombinator.com/item?id=35447486) - [iOS lets carriers add WiFi networks that you can’t remove or stop from joining](https://news.ycombinator.com/item?id=35447486)
+* [2023-04-04, 23:12:01](https://news.ycombinator.com/item?id=35447094) - [Using Wake on LAN (WOL) Across the Internet (2010)](http://ptere.com/wol/)
 * [2023-04-04, 23:04:08](https://news.ycombinator.com/item?id=35447025) - [“My long goodbye to Windows XP” (2022)](https://woodfromeden.substack.com/p/my-long-goodbye-to-windows-xp)
 * [2023-04-04, 22:43:49](https://news.ycombinator.com/item?id=35446847) - [ZSTD 1.5.5 is released with a corruption fix found at Google](https://github.com/facebook/zstd/releases/tag/v1.5.5)
-* [2023-04-04, 21:37:16](https://news.ycombinator.com/item?id=35446175) - [Mario Is Moving Away from Mobile Games, Reveals Nintendo’s Shigeru Miyamoto](https://variety.com/2023/digital/news/shigeru-miyamoto-new-mario-games-mobile-apps-nintendo-1235562472/)
 * [2023-04-04, 21:37:01](https://news.ycombinator.com/item?id=35446171) - [Build your own agents which are controlled by LLMs](https://github.com/mpaepper/llm_agents)
 * [2023-04-04, 21:10:17](https://news.ycombinator.com/item?id=35445900) - [Brave Launches Self-Serve Ads Program](https://brave.com/self-serve-ads/)
 * [2023-04-04, 21:06:59](https://news.ycombinator.com/item?id=35445867) - [FBI Seizes Bot Shop ‘Genesis Market’ Amid Arrests Targeting Operators, Suppliers](https://krebsonsecurity.com/2023/04/fbi-seizes-bot-shop-genesis-market-amid-arrests-targeting-operators-suppliers/)
@@ -16,7 +17,6 @@
 * [2023-04-04, 16:48:00](https://news.ycombinator.com/item?id=35442483) - [LangChain Announces 10M Seed Round](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/)
 * [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
 * [2023-04-04, 16:16:54](https://news.ycombinator.com/item?id=35441997) - [Supercentenarian records show patterns indicative of errors and pension fraud](https://www.biorxiv.org/content/10.1101/704080v2)
-* [2023-04-04, 14:53:48](https://news.ycombinator.com/item?id=35440608) - [Tiny, cheap smart speakers unlocked the rise of digital payments in India](https://restofworld.org/2023/india-sound-boxes-paytm-phonepe/)
 * [2023-04-04, 14:50:33](https://news.ycombinator.com/item?id=35440552) - [Show HN: We are building an open-source IDE powered by AI](https://github.com/e2b-dev/e2b)
 * [2023-04-04, 11:42:33](https://news.ycombinator.com/item?id=35438068) - [How to be a -10x Engineer](https://taylor.town/-10x)
 * [2023-04-04, 09:52:57](https://news.ycombinator.com/item?id=35437254) - [We need a more sophisticated debate about AI](https://www.ft.com/content/87108d74-b4fe-4271-bdfb-7828ba2ea351)
@@ -26,8 +26,8 @@
 * [2023-04-04, 08:51:35](https://news.ycombinator.com/item?id=35436886) - [The Future of the Transistor](https://www.semianalysis.com/p/the-future-of-the-transistor)
 * [2023-04-04, 08:09:53](https://news.ycombinator.com/item?id=35436561) - [Technical Solutions versus Processes](https://lucaskostka.com/posts/technical-vs-processes-solutions)
 * [2023-04-04, 07:10:48](https://news.ycombinator.com/item?id=35436154) - [Totem construction system with cuttable parts](https://totemmaker.net/)
+* [2023-04-04, 07:10:42](https://news.ycombinator.com/item?id=35436152) - [Randomness Improves Algorithms](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2023-04-04, 03:43:47](https://news.ycombinator.com/item?id=35434768) - [How to pack a stereo signal in one record groove](https://www.vinylrecorder.com/stereo.html)
-* [2023-04-04, 01:47:05](https://news.ycombinator.com/item?id=35433924) - [Aesthetics of Indeterminacy: The Architecture of Conglomerates](https://journal.eahn.org/article/id/8305/)
 * [2023-04-03, 23:33:03](https://news.ycombinator.com/item?id=35432918) - [Proton’s mass radius is apparently shorter than its charge radius](https://arstechnica.com/science/2023/04/protons-mass-radius-is-apparently-shorter-than-its-charge-radius/)
 * [2023-04-03, 22:29:20](https://news.ycombinator.com/item?id=35432206) - [Photographer captures ultra-rare red ring of light over Italy](https://petapixel.com/2023/04/03/photographer-captures-ultra-rare-red-ring-of-light-over-italy/)
 

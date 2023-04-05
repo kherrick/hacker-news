@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-04-05](index.md)
+
+* [2023-04-05, 00:05:45](https://news.ycombinator.com/item?id=35447486) - [iOS lets carriers add WiFi networks that you can’t remove or stop from joining](https://news.ycombinator.com/item?id=35447486)

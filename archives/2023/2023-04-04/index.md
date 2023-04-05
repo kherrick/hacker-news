@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 23:12:01](https://news.ycombinator.com/item?id=35447094) - [Using Wake on LAN (WOL) Across the Internet (2010)](http://ptere.com/wol/)
 * [2023-04-04, 23:04:08](https://news.ycombinator.com/item?id=35447025) - [“My long goodbye to Windows XP” (2022)](https://woodfromeden.substack.com/p/my-long-goodbye-to-windows-xp)
 * [2023-04-04, 22:43:49](https://news.ycombinator.com/item?id=35446847) - [ZSTD 1.5.5 is released with a corruption fix found at Google](https://github.com/facebook/zstd/releases/tag/v1.5.5)
 * [2023-04-04, 21:37:16](https://news.ycombinator.com/item?id=35446175) - [Mario Is Moving Away from Mobile Games, Reveals Nintendo’s Shigeru Miyamoto](https://variety.com/2023/digital/news/shigeru-miyamoto-new-mario-games-mobile-apps-nintendo-1235562472/)
@@ -86,6 +87,7 @@
 * [2023-04-04, 07:19:36](https://news.ycombinator.com/item?id=35436224) - [Orthogonal Time-Frequency Space Modulation: A Promising Next-Generation Waveform](https://ieeexplore.ieee.org/abstract/document/9508932)
 * [2023-04-04, 07:19:36](https://news.ycombinator.com/item?id=35436224) - [Orthogonal Time-Frequency Space Modulation: A Promising Next-Generation Waveform (2021)](https://arxiv.org/abs/2010.03344)
 * [2023-04-04, 07:10:48](https://news.ycombinator.com/item?id=35436154) - [Totem construction system with cuttable parts](https://totemmaker.net/)
+* [2023-04-04, 07:10:42](https://news.ycombinator.com/item?id=35436152) - [Randomness Improves Algorithms](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2023-04-04, 07:00:32](https://news.ycombinator.com/item?id=35436068) - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 400GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2023-04-04, 06:24:06](https://news.ycombinator.com/item?id=35435811) - [If you can&#x27;t write assembly like a poet, you can read disassembly like a hunter](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
 * [2023-04-04, 05:42:54](https://news.ycombinator.com/item?id=35435563) - [The Electric Vehicles We Need Now Are E-Bikes](https://www.bloomberg.com/news/articles/2022-03-15/the-electric-vehicles-we-need-now-are-e-bikes)
