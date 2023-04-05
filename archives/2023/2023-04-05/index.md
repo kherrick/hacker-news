@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
 * [2023-04-05, 15:30:37](https://news.ycombinator.com/item?id=35455850) - [Perspective 2.0, Open Source WebAssembly-Powered BI](https://perspective.finos.org/)
+* [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World by Alexander Miller](https://alex.miller.garden/grid-world/)
 * [2023-04-05, 14:55:35](https://news.ycombinator.com/item?id=35455286) - [“Inside-out Wankel” rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)
 * [2023-04-05, 13:32:46](https://news.ycombinator.com/item?id=35453857) - [Johnson and Johnson Reaches Deal for $8.9B Talc Settlement](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
 * [2023-04-05, 13:20:42](https://news.ycombinator.com/item?id=35453689) - [So I only ate potatoes for 2 weeks](https://www.petercai.com/so-i-only-ate-potatoes-for-2-weeks/)

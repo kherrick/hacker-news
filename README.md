@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-05, 15:30:37](https://news.ycombinator.com/item?id=35455850) - [Perspective 2.0, Open Source WebAssembly-Powered BI](https://perspective.finos.org/)
+* [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World by Alexander Miller](https://alex.miller.garden/grid-world/)
 * [2023-04-05, 14:55:35](https://news.ycombinator.com/item?id=35455286) - [“Inside-out Wankel” rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)
 * [2023-04-05, 13:32:46](https://news.ycombinator.com/item?id=35453857) - [Johnson and Johnson Reaches Deal for $8.9B Talc Settlement](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
 * [2023-04-05, 13:00:19](https://news.ycombinator.com/item?id=35453400) - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
@@ -19,7 +20,6 @@
 * [2023-04-05, 02:05:20](https://news.ycombinator.com/item?id=35448357) - [Lossless Image Compression in O(n) Time (2021)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 * [2023-04-05, 01:03:34](https://news.ycombinator.com/item?id=35447914) - [TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning](https://arxiv.org/abs/2304.01433)
 * [2023-04-04, 23:12:01](https://news.ycombinator.com/item?id=35447094) - [Using Wake on LAN (WOL) Across the Internet (2010)](http://ptere.com/wol/)
-* [2023-04-04, 16:23:52](https://news.ycombinator.com/item?id=35442103) - [Launch HN: Type (YC W23) – AI-powered document editor](https://news.ycombinator.com/item?id=35442103)
 * [2023-04-04, 16:02:38](https://news.ycombinator.com/item?id=35441759) - [Ending an Ugly Chapter in Chip Design](https://spectrum.ieee.org/chip-design-controversy)
 * [2023-04-04, 15:34:54](https://news.ycombinator.com/item?id=35441337) - [Show HN: Ermine.ai – Record and transcribe speech, 100% client-side (WASM)](https://www.ermine.ai/)
 * [2023-04-04, 14:14:11](https://news.ycombinator.com/item?id=35439958) - [Make your CLI demos a breeze with zero stress and zero mistakes](https://martinheinz.dev/blog/94)
