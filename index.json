@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-04-05, 00:58:54",
+      "https://news.ycombinator.com/item?id=35447885"
+    ],
+    [
+      "China: A genetic experiment that inserted tardigrade genes into human stem cells",
+      "https://tiempoheadlines.com/china-a-genetic-experiment-that-inserted-tardigrade-genes-into-human-stem-cells-could-lead-to-radiation-resistant-super-soldiers/"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 00:19:24",
+      "https://news.ycombinator.com/item?id=35447588"
+    ],
+    [
+      "The case for banning children from social media",
+      "https://www.newyorker.com/news/our-columnists/the-case-for-banning-children-from-social-media"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 00:18:08",
+      "https://news.ycombinator.com/item?id=35447580"
+    ],
+    [
+      "Tabloid – The Clickbait Headline Programming Language",
+      "https://tabloid-thesephist.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 00:05:45",
       "https://news.ycombinator.com/item?id=35447486"
     ],
     [
       "iOS lets carriers add WiFi networks that you can’t remove or stop from joining",
       "https://news.ycombinator.com/item?id=35447486"
+    ]
+  ],
+  [
+    [
+      "2023-04-04, 23:36:07",
+      "https://news.ycombinator.com/item?id=35447288"
+    ],
+    [
+      "Show HN: Live coaching app for remote SWE interviews, uses Whisper and GPT-4",
+      "https://github.com/leetcode-mafia/cheetah"
     ]
   ],
   [
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=35447025"
     ],
     [
-      "“My long goodbye to Windows XP” (2022)",
+      "My long goodbye to Windows XP (2022)",
       "https://woodfromeden.substack.com/p/my-long-goodbye-to-windows-xp"
     ]
   ],
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=35445900"
     ],
     [
-      "Brave Launches Self-Serve Ads Program",
+      "Brave launches self-serve ads program",
       "https://brave.com/self-serve-ads/"
     ]
   ],
@@ -65,7 +105,7 @@
       "https://news.ycombinator.com/item?id=35445867"
     ],
     [
-      "FBI Seizes Bot Shop ‘Genesis Market’ Amid Arrests Targeting Operators, Suppliers",
+      "FBI seizes bot shop ‘Genesis Market’ amid arrests targeting operators, suppliers",
       "https://krebsonsecurity.com/2023/04/fbi-seizes-bot-shop-genesis-market-amid-arrests-targeting-operators-suppliers/"
     ]
   ],
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2023-04-04, 16:48:00",
-      "https://news.ycombinator.com/item?id=35442483"
-    ],
-    [
-      "LangChain Announces 10M Seed Round",
-      "https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/"
-    ]
-  ],
-  [
-    [
       "2023-04-04, 16:23:52",
       "https://news.ycombinator.com/item?id=35442103"
     ],
@@ -191,22 +221,12 @@
   ],
   [
     [
-      "2023-04-04, 09:52:57",
-      "https://news.ycombinator.com/item?id=35437254"
+      "2023-04-04, 09:37:23",
+      "https://news.ycombinator.com/item?id=35437151"
     ],
     [
-      "We need a more sophisticated debate about AI",
-      "https://www.ft.com/content/87108d74-b4fe-4271-bdfb-7828ba2ea351"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 09:35:16",
-      "https://news.ycombinator.com/item?id=35437136"
-    ],
-    [
-      "Sugihara&#x27;s Dog",
-      "https://twitter.com/AkiyoshiKitaoka/status/1642871991932944385"
+      "Mesh Shaders and Meshlet Culling in Metal 3",
+      "https://metalbyexample.com/mesh-shaders/"
     ]
   ],
   [
@@ -217,16 +237,6 @@
     [
       "Dumb bugs: the PCI device that wasn&#x27;t",
       "https://sthbrx.github.io/blog/2023/04/04/dumb-bugs-the-pci-device-that-wasnt/"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 09:21:01",
-      "https://news.ycombinator.com/item?id=35437065"
-    ],
-    [
-      "Circuit.js – Electronic circuit simulator on the web",
-      "http://lushprojects.com/circuitjs/circuitjs.html"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Technical Solutions versus Processes",
       "https://lucaskostka.com/posts/technical-vs-processes-solutions"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 07:10:48",
-      "https://news.ycombinator.com/item?id=35436154"
-    ],
-    [
-      "Totem construction system with cuttable parts",
-      "https://totemmaker.net/"
     ]
   ],
   [
