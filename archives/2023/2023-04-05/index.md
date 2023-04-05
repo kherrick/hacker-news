@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 06:15:52](https://news.ycombinator.com/item?id=35450043) - [Ofcom proposes to refer UK cloud market for investigation](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation)
 * [2023-04-05, 05:47:31](https://news.ycombinator.com/item?id=35449831) - [From Deep Learning Foundations to Stable Diffusion (Part 2)](https://course.fast.ai/Lessons/part2.html)
+* [2023-04-05, 05:10:55](https://news.ycombinator.com/item?id=35449559) - [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373)
 * [2023-04-05, 05:01:07](https://news.ycombinator.com/item?id=35449494) - [Calling Purgatory from Heaven: Binding to Rust in Haskell](https://well-typed.com/blog/2023/03/purgatory/)
 * [2023-04-05, 03:50:27](https://news.ycombinator.com/item?id=35449054) - [PWAs in App Stores](https://web.dev/pwas-in-app-stores/)
 * [2023-04-05, 03:48:56](https://news.ycombinator.com/item?id=35449046) - [Tesla Light Show XLights](https://github.com/teslamotors/light-show)
