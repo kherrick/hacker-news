@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 06:54:05](https://news.ycombinator.com/item?id=35450315) - [GPT4 hallucinating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
+* [2023-04-05, 06:34:24](https://news.ycombinator.com/item?id=35450175) - [BRL-CAD](https://brlcad.org/)
 * [2023-04-05, 06:15:52](https://news.ycombinator.com/item?id=35450043) - [Ofcom proposes to refer UK cloud market for investigation](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation)
 * [2023-04-05, 05:47:31](https://news.ycombinator.com/item?id=35449831) - [From Deep Learning Foundations to Stable Diffusion (Part 2)](https://course.fast.ai/Lessons/part2.html)
+* [2023-04-05, 05:34:16](https://news.ycombinator.com/item?id=35449710) - [Bob &#x27;crazybob&#x27; Lee Was Killed](https://twitter.com/jakeshieldsajj/status/1643470001566015488)
 * [2023-04-05, 05:10:55](https://news.ycombinator.com/item?id=35449559) - [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373)
 * [2023-04-05, 05:01:07](https://news.ycombinator.com/item?id=35449494) - [Calling Purgatory from Heaven: Binding to Rust in Haskell](https://well-typed.com/blog/2023/03/purgatory/)
 * [2023-04-05, 03:50:27](https://news.ycombinator.com/item?id=35449054) - [PWAs in App Stores](https://web.dev/pwas-in-app-stores/)
@@ -18,6 +21,7 @@
 * [2023-04-05, 02:05:20](https://news.ycombinator.com/item?id=35448357) - [Lossless Image Compression in O(n) Time (2021)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 * [2023-04-05, 01:57:00](https://news.ycombinator.com/item?id=35448287) - [Show HN: I built a real life version of Her](https://www.banterai.app/)
 * [2023-04-05, 01:54:49](https://news.ycombinator.com/item?id=35448269) - [America Has Too Much Parking](https://www.wsj.com/articles/parking-problem-too-much-cities-e94dcecf)
+* [2023-04-05, 01:50:16](https://news.ycombinator.com/item?id=35448239) - [On the experience of being dirt-poorish, for people who want to be](https://woodfromeden.substack.com/p/on-the-experience-of-being-dirt-poorish)
 * [2023-04-05, 01:44:17](https://news.ycombinator.com/item?id=35448187) - [Microsoft’s new Surface Dock tosses the proprietary port, uses Thunderbolt 4](https://arstechnica.com/gadgets/2023/04/microsofts-new-surface-dock-tosses-the-proprietary-port-uses-thunderbolt-4/)
 * [2023-04-05, 01:28:25](https://news.ycombinator.com/item?id=35448090) - [US Government published guide to sabotage organizational productivity (1944)](https://gist.github.com/kennwhite/467529962c184258d08f16daec83d5da)
 * [2023-04-05, 01:26:46](https://news.ycombinator.com/item?id=35448074) - [The Russian Federal Guard Service officer who worked with Putin and fled Russia](https://dossier.center/fso-en/)

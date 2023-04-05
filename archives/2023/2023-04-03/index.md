@@ -18,6 +18,7 @@
 * [2023-04-03, 21:40:47](https://news.ycombinator.com/item?id=35431678) - [Hypercard got its Color Back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
 * [2023-04-03, 21:34:06](https://news.ycombinator.com/item?id=35431602) - [How to Game the App Store (2018)](https://davidbarnard.com/post/180568817995/how-to-game-the-app-store)
 * [2023-04-03, 21:22:13](https://news.ycombinator.com/item?id=35431466) - [If Parrots Can Talk, Why Can’t Monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
+* [2023-04-03, 21:09:28](https://news.ycombinator.com/item?id=35431328) - [Building an interactive clickable map for my blog](https://tomcritchlow.com/2023/04/03/blog-maps/)
 * [2023-04-03, 21:00:54](https://news.ycombinator.com/item?id=35431216) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-04-03, 20:52:56](https://news.ycombinator.com/item?id=35431119) - [System76 Open Firmware](https://github.com/system76/firmware-open)
 * [2023-04-03, 20:48:10](https://news.ycombinator.com/item?id=35431057) - [Measuring Trends in Artificial Intelligence](https://aiindex.stanford.edu/report/)
