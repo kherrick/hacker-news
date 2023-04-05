@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 02:36:43](https://news.ycombinator.com/item?id=35448598) - [Apple joins Amazon, Google, and Microsoft in tech industry layoffs](https://arstechnica.com/gadgets/2023/04/apple-joins-amazon-google-and-microsoft-in-tech-industry-layoffs/)
 * [2023-04-05, 02:05:50](https://news.ycombinator.com/item?id=35448360) - [Unpredictable Black Boxes Are Terrible Interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
 * [2023-04-05, 02:05:20](https://news.ycombinator.com/item?id=35448357) - [Lossless Image Compression in O(n) Time (2021)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 * [2023-04-05, 01:28:25](https://news.ycombinator.com/item?id=35448090) - [US Government published guide to sabotage organizational productivity (1944)](https://gist.github.com/kennwhite/467529962c184258d08f16daec83d5da)
