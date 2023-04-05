@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 19:48:34](https://news.ycombinator.com/item?id=35459488) - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
 * [2023-04-05, 19:37:11](https://news.ycombinator.com/item?id=35459333) - [Programmer interrupted: The cost of interruption and context switching (2022)](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
 * [2023-04-05, 19:12:09](https://news.ycombinator.com/item?id=35459031) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 * [2023-04-05, 19:07:27](https://news.ycombinator.com/item?id=35458974) - [Telemetry in Front-End Tools](https://telemetry.timseverien.com/)
@@ -23,7 +24,6 @@
 * [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World](https://alex.miller.garden/grid-world/)
 * [2023-04-05, 15:11:50](https://news.ycombinator.com/item?id=35455566) - [Segment Anything Model (SAM) can &quot;cut out&quot; any object in an image](https://segment-anything.com/)
 * [2023-04-05, 14:55:35](https://news.ycombinator.com/item?id=35455286) - [“Inside-out Wankel” rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)
-* [2023-04-05, 13:32:46](https://news.ycombinator.com/item?id=35453857) - [Johnson and Johnson reaches deal for $8.9B talc settlement](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
 * [2023-04-05, 13:00:19](https://news.ycombinator.com/item?id=35453400) - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
 * [2023-04-05, 12:28:49](https://news.ycombinator.com/item?id=35452963) - [CAN Injection: Keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2023-04-05, 11:18:00](https://news.ycombinator.com/item?id=35452258) - [AARON: AI Art Generator from 1973](https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art)

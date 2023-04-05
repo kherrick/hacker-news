@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 19:48:34](https://news.ycombinator.com/item?id=35459488) - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
 * [2023-04-05, 19:37:11](https://news.ycombinator.com/item?id=35459333) - [Programmer interrupted: The cost of interruption and context switching (2022)](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
 * [2023-04-05, 19:12:09](https://news.ycombinator.com/item?id=35459031) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 * [2023-04-05, 19:07:27](https://news.ycombinator.com/item?id=35458974) - [Telemetry in Front-End Tools](https://telemetry.timseverien.com/)
