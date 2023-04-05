@@ -9,7 +9,7 @@
 * [2023-04-05, 05:10:55](https://news.ycombinator.com/item?id=35449559) - [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373)
 * [2023-04-05, 05:01:07](https://news.ycombinator.com/item?id=35449494) - [Calling Purgatory from Heaven: Binding to Rust in Haskell](https://well-typed.com/blog/2023/03/purgatory/)
 * [2023-04-05, 03:50:27](https://news.ycombinator.com/item?id=35449054) - [PWAs in App Stores](https://web.dev/pwas-in-app-stores/)
-* [2023-04-05, 03:24:41](https://news.ycombinator.com/item?id=35448899) - [Bob Lee, Former CTO Square, Creator of CashApp, Stabbed to Death in SF](https://www.sfgate.com/bayarea/article/mill-valley-man-killed-sf-stabbing-17878809.php)
+* [2023-04-05, 03:24:41](https://news.ycombinator.com/item?id=35448899) - [Bob Lee, former CTO of Square, has died after being stabbed in San Francisco](https://www.sfgate.com/bayarea/article/mill-valley-man-killed-sf-stabbing-17878809.php)
 * [2023-04-05, 02:05:50](https://news.ycombinator.com/item?id=35448360) - [Unpredictable black boxes are terrible interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
 * [2023-04-05, 02:05:20](https://news.ycombinator.com/item?id=35448357) - [Lossless Image Compression in O(n) Time (2021)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 * [2023-04-05, 01:28:25](https://news.ycombinator.com/item?id=35448090) - [Simple Sabotage Field Manual (1944)](https://gist.github.com/kennwhite/467529962c184258d08f16daec83d5da)
