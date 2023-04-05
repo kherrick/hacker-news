@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-04-05, 12:02:48",
+      "https://news.ycombinator.com/item?id=35452644"
+    ],
+    [
+      "Russia is persecuting dissenters by taking away their children",
+      "https://www.economist.com/europe/2023/03/31/russia-is-persecuting-dissenters-by-taking-away-their-children"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 12:00:22",
       "https://news.ycombinator.com/item?id=35452614"
     ],
     [
       "Circle Medical (YC S15) Is Hiring Ruby&#x2F;Rails Engineers",
       "https://jobs.lever.co/circlemedical/1b3fcca6-6246-40d9-b7c9-096f8dc1871f"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 11:53:36",
-      "https://news.ycombinator.com/item?id=35452543"
-    ],
-    [
-      "Show HN: To help 3D devs build reliable websites, I built Web3DSurvey.com",
-      "https://web3dsurvey.com/webgl2"
     ]
   ],
   [
@@ -41,22 +41,22 @@
   ],
   [
     [
-      "2023-04-05, 10:54:48",
-      "https://news.ycombinator.com/item?id=35452056"
-    ],
-    [
-      "The salary you need to live comfortably in 15 major U.S. cities",
-      "https://www.cnbc.com/2023/04/04/the-salary-you-need-to-live-comfortably-in-15-major-us-cities.html"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 10:22:51",
       "https://news.ycombinator.com/item?id=35451863"
     ],
     [
       "Is RAM wiped before use in another LXC container?",
       "https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-another-lxc-container"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 08:29:27",
+      "https://news.ycombinator.com/item?id=35451046"
+    ],
+    [
+      "Vim-like “jump” cursor for Mac OS Window Management",
+      "https://www.homerow.app"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-04-05, 01:28:25",
-      "https://news.ycombinator.com/item?id=35448090"
-    ],
-    [
-      "Simple Sabotage Field Manual (1944)",
-      "https://gist.github.com/kennwhite/467529962c184258d08f16daec83d5da"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 01:03:34",
       "https://news.ycombinator.com/item?id=35447914"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2023-04-04, 16:16:54",
-      "https://news.ycombinator.com/item?id=35441997"
+      "2023-04-04, 16:02:38",
+      "https://news.ycombinator.com/item?id=35441759"
     ],
     [
-      "Supercentenarian records show patterns indicative of errors and pension fraud (2020)",
-      "https://www.biorxiv.org/content/10.1101/704080v2"
+      "Ending an Ugly Chapter in Chip Design",
+      "https://spectrum.ieee.org/chip-design-controversy"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Mapping hospital accessibility with OpenStreetMap",
       "https://wcedmisten.fyi/post/visualizing-hospital-accessibility/"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 21:09:28",
+      "https://news.ycombinator.com/item?id=35431328"
+    ],
+    [
+      "Building an interactive clickable map for my blog",
+      "https://tomcritchlow.com/2023/04/03/blog-maps/"
     ]
   ]
 ]
