@@ -11,6 +11,7 @@
 * [2023-04-05, 02:05:50](https://news.ycombinator.com/item?id=35448360) - [Unpredictable Black Boxes Are Terrible Interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
 * [2023-04-05, 02:05:20](https://news.ycombinator.com/item?id=35448357) - [Lossless Image Compression in O(n) Time (2021)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 * [2023-04-05, 01:57:00](https://news.ycombinator.com/item?id=35448287) - [Show HN: I built a real life version of Her](https://www.banterai.app/)
+* [2023-04-05, 01:44:17](https://news.ycombinator.com/item?id=35448187) - [Microsoft’s new Surface Dock tosses the proprietary port, uses Thunderbolt 4](https://arstechnica.com/gadgets/2023/04/microsofts-new-surface-dock-tosses-the-proprietary-port-uses-thunderbolt-4/)
 * [2023-04-05, 01:28:25](https://news.ycombinator.com/item?id=35448090) - [US Government published guide to sabotage organizational productivity (1944)](https://gist.github.com/kennwhite/467529962c184258d08f16daec83d5da)
 * [2023-04-05, 01:26:46](https://news.ycombinator.com/item?id=35448074) - [The Russian Federal Guard Service officer who worked with Putin and fled Russia](https://dossier.center/fso-en/)
 * [2023-04-05, 00:58:54](https://news.ycombinator.com/item?id=35447885) - [China: A genetic experiment that inserted tardigrade genes into human stem cells](https://tiempoheadlines.com/china-a-genetic-experiment-that-inserted-tardigrade-genes-into-human-stem-cells-could-lead-to-radiation-resistant-super-soldiers/)
