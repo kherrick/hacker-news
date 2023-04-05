@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 15:36:02](https://news.ycombinator.com/item?id=35455930) - [Using mmap to make LLaMA load faster](https://justine.lol/mmap/)
 * [2023-04-05, 15:30:37](https://news.ycombinator.com/item?id=35455850) - [Perspective 2.0, Open Source WebAssembly-Powered BI](https://perspective.finos.org/)
 * [2023-04-05, 15:26:45](https://news.ycombinator.com/item?id=35455797) - [DPReview’s Founder Blasts Amazon’s CEO: ‘What a Waste’](https://petapixel.com/2023/04/04/dpreviews-founder-blasts-amazons-ceo-what-a-waste/)
 * [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World by Alexander Miller](https://alex.miller.garden/grid-world/)
+* [2023-04-05, 15:12:59](https://news.ycombinator.com/item?id=35455582) - [Cash App founder Bob Lee reportedly killed in San Francisco stabbing](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-killed-san-francisco-stabbing-sources-say-rcna78265)
 * [2023-04-05, 14:55:35](https://news.ycombinator.com/item?id=35455286) - [“Inside-out Wankel” rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)
 * [2023-04-05, 13:32:46](https://news.ycombinator.com/item?id=35453857) - [Johnson and Johnson Reaches Deal for $8.9B Talc Settlement](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
 * [2023-04-05, 13:00:19](https://news.ycombinator.com/item?id=35453400) - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
@@ -17,7 +19,6 @@
 * [2023-04-05, 05:10:55](https://news.ycombinator.com/item?id=35449559) - [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373)
 * [2023-04-05, 05:01:07](https://news.ycombinator.com/item?id=35449494) - [Calling Purgatory from Heaven: Binding to Rust in Haskell](https://well-typed.com/blog/2023/03/purgatory/)
 * [2023-04-05, 03:24:41](https://news.ycombinator.com/item?id=35448899) - [Bob Lee, former CTO of Square, has died after being stabbed in San Francisco](https://www.sfgate.com/bayarea/article/mill-valley-man-killed-sf-stabbing-17878809.php)
-* [2023-04-05, 02:05:20](https://news.ycombinator.com/item?id=35448357) - [Lossless Image Compression in O(n) Time (2021)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 * [2023-04-05, 01:03:34](https://news.ycombinator.com/item?id=35447914) - [TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning](https://arxiv.org/abs/2304.01433)
 * [2023-04-04, 23:12:01](https://news.ycombinator.com/item?id=35447094) - [Using Wake on LAN (WOL) Across the Internet (2010)](http://ptere.com/wol/)
 * [2023-04-04, 16:02:38](https://news.ycombinator.com/item?id=35441759) - [Ending an Ugly Chapter in Chip Design](https://spectrum.ieee.org/chip-design-controversy)
@@ -28,7 +29,6 @@
 * [2023-04-04, 10:16:56](https://news.ycombinator.com/item?id=35437397) - [Using ultrasound attack to disarm a smart-home system](https://www.theregister.com/2023/04/04/siri_alexa_cortana_google_nuit/)
 * [2023-04-04, 09:22:23](https://news.ycombinator.com/item?id=35437070) - [Liberating the MacBook Air 2013 with Linux](https://boilingsteam.com/liberating-the-macbook-air-2013-with-linux-complete-guide/)
 * [2023-04-04, 03:00:30](https://news.ycombinator.com/item?id=35434435) - [Mapping hospital accessibility with OpenStreetMap](https://wcedmisten.fyi/post/visualizing-hospital-accessibility/)
-* [2023-04-03, 21:09:28](https://news.ycombinator.com/item?id=35431328) - [Building an interactive clickable map for my blog](https://tomcritchlow.com/2023/04/03/blog-maps/)
 * [2023-04-03, 10:19:38](https://news.ycombinator.com/item?id=35421096) - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
 
 ## [Archives](archives/index.md)
