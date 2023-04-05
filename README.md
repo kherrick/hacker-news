@@ -6,6 +6,7 @@
 * [2023-04-05, 06:15:52](https://news.ycombinator.com/item?id=35450043) - [Ofcom proposes to refer UK cloud market for investigation](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation)
 * [2023-04-05, 06:11:32](https://news.ycombinator.com/item?id=35450007) - [Packet, where are you? – eBPF-based Linux kernel networking debugger](https://github.com/cilium/pwru)
 * [2023-04-05, 05:47:31](https://news.ycombinator.com/item?id=35449831) - [From Deep Learning Foundations to Stable Diffusion (Part 2)](https://course.fast.ai/Lessons/part2.html)
+* [2023-04-05, 05:10:55](https://news.ycombinator.com/item?id=35449559) - [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373)
 * [2023-04-05, 05:01:07](https://news.ycombinator.com/item?id=35449494) - [Calling Purgatory from Heaven: Binding to Rust in Haskell](https://well-typed.com/blog/2023/03/purgatory/)
 * [2023-04-05, 03:50:27](https://news.ycombinator.com/item?id=35449054) - [PWAs in App Stores](https://web.dev/pwas-in-app-stores/)
 * [2023-04-05, 03:24:41](https://news.ycombinator.com/item?id=35448899) - [Bob Lee, Former CTO Square, Creator of CashApp, Stabbed to Death in SF](https://www.sfgate.com/bayarea/article/mill-valley-man-killed-sf-stabbing-17878809.php)
@@ -28,7 +29,6 @@
 * [2023-04-04, 10:16:56](https://news.ycombinator.com/item?id=35437397) - [Using ultrasound attack to disarm a smart-home system](https://www.theregister.com/2023/04/04/siri_alexa_cortana_google_nuit/)
 * [2023-04-04, 09:22:23](https://news.ycombinator.com/item?id=35437070) - [Liberating the MacBook Air 2013 with Linux](https://boilingsteam.com/liberating-the-macbook-air-2013-with-linux-complete-guide/)
 * [2023-04-04, 07:10:42](https://news.ycombinator.com/item?id=35436152) - [How randomness can improve algorithms](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
-* [2023-04-03, 21:34:06](https://news.ycombinator.com/item?id=35431602) - [How to Game the App Store (2018)](https://davidbarnard.com/post/180568817995/how-to-game-the-app-store)
 * [2023-04-03, 21:09:28](https://news.ycombinator.com/item?id=35431328) - [Building an interactive clickable map for my blog](https://tomcritchlow.com/2023/04/03/blog-maps/)
 
 ## [Archives](archives/index.md)
