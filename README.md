@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-05, 18:48:25](https://news.ycombinator.com/item?id=35458746) - [Firefox engineers discover a Windows Defender bug that causes high CPU usage](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c82)
 * [2023-04-05, 18:39:52](https://news.ycombinator.com/item?id=35458644) - [Jitx (YC S18) Is Hiring: Hardware, Software, Mathematician, Technical Writer](https://jobs.lever.co/jitxinc)
+* [2023-04-05, 18:37:01](https://news.ycombinator.com/item?id=35458596) - [APT Browse: A web browser for the contents of Debian (and Ubuntu) packages](https://www.apt-browse.org/)
 * [2023-04-05, 18:31:44](https://news.ycombinator.com/item?id=35458526) - [OpenAI: Our Approach to AI Safety](https://openai.com/blog/our-approach-to-ai-safety)
 * [2023-04-05, 17:14:34](https://news.ycombinator.com/item?id=35457384) - [Deposit insurance maximization as a service](https://www.bitsaboutmoney.com/archive/deposit-insurance-maximization-as-a-service/)
 * [2023-04-05, 17:12:16](https://news.ycombinator.com/item?id=35457344) - [Deviation Game: Draw in a way that humans can guess, but AI can&#x27;t](https://deviationgame.com/)
@@ -25,11 +27,9 @@
 * [2023-04-05, 12:28:49](https://news.ycombinator.com/item?id=35452963) - [CAN Injection: Keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2023-04-05, 11:18:00](https://news.ycombinator.com/item?id=35452258) - [AARON: AI Art Generator from 1973](https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art)
 * [2023-04-05, 10:22:51](https://news.ycombinator.com/item?id=35451863) - [Is RAM wiped before use in another LXC container?](https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-another-lxc-container)
+* [2023-04-05, 08:29:27](https://news.ycombinator.com/item?id=35451046) - [Vim-like “jump” cursor for Mac OS Window Management](https://www.homerow.app)
 * [2023-04-04, 20:16:33](https://news.ycombinator.com/item?id=35445312) - [Show HN: Want something better than k-means? Try BanditPAM](https://github.com/motiwari/BanditPAM)
 * [2023-04-04, 12:11:53](https://news.ycombinator.com/item?id=35438326) - [Who will amplify this and why? (2021)](https://sparktoro.com/blog/who-will-amplify-this-and-why/)
-* [2023-04-04, 03:00:30](https://news.ycombinator.com/item?id=35434435) - [Mapping hospital accessibility with OpenStreetMap](https://wcedmisten.fyi/post/visualizing-hospital-accessibility/)
-* [2023-04-03, 10:24:24](https://news.ycombinator.com/item?id=35421120) - [Make your work available (2007)](https://terrytao.wordpress.com/career-advice/make-your-work-available/)
-* [2023-04-03, 02:26:49](https://news.ycombinator.com/item?id=35417820) - [Pleiades is a community-built gazetteer and graph of ancient places](https://pleiades.stoa.org)
 
 ## [Archives](archives/index.md)
 

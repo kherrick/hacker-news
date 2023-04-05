@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 18:48:25](https://news.ycombinator.com/item?id=35458746) - [Firefox engineers discover a Windows Defender bug that causes high CPU usage](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c82)
 * [2023-04-05, 18:39:52](https://news.ycombinator.com/item?id=35458644) - [Jitx (YC S18) Is Hiring: Hardware, Software, Mathematician, Technical Writer](https://jobs.lever.co/jitxinc)
+* [2023-04-05, 18:37:01](https://news.ycombinator.com/item?id=35458596) - [APT Browse: A web browser for the contents of Debian (and Ubuntu) packages](https://www.apt-browse.org/)
 * [2023-04-05, 18:31:44](https://news.ycombinator.com/item?id=35458526) - [OpenAI: Our Approach to AI Safety](https://openai.com/blog/our-approach-to-ai-safety)
 * [2023-04-05, 17:17:53](https://news.ycombinator.com/item?id=35457440) - [Cisco Systems pulled out of Russia: destroyed $23.42M worth of equipment](https://gagadget.com/en/232400-cisco-systems-pulled-out-of-russia-and-destroyed-2342m-worth-of-equipment/)
 * [2023-04-05, 17:14:34](https://news.ycombinator.com/item?id=35457384) - [Deposit Insurance Maximization as a Service](https://www.bitsaboutmoney.com/archive/deposit-insurance-maximization-as-a-service/)
