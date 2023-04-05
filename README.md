@@ -16,6 +16,7 @@
 * [2023-04-04, 21:06:59](https://news.ycombinator.com/item?id=35445867) - [FBI seizes bot shop ‘Genesis Market’ amid arrests targeting operators, suppliers](https://krebsonsecurity.com/2023/04/fbi-seizes-bot-shop-genesis-market-amid-arrests-targeting-operators-suppliers/)
 * [2023-04-04, 20:50:27](https://news.ycombinator.com/item?id=35445696) - [Monster Energy Goes After Indie Dev for Using the Word &#x27;Monster&#x27;](https://www.thegamer.com/monster-energy-goes-after-glowstick-entertainment-for-using-the-word-monster/)
 * [2023-04-04, 19:56:25](https://news.ycombinator.com/item?id=35445097) - [Launch HN: GradientJ (YC W23) – Build NLP Applications Faster with LLMs](https://news.ycombinator.com/item?id=35445097)
+* [2023-04-04, 18:52:21](https://news.ycombinator.com/item?id=35444300) - [Show HN: A readable macroassembler that no one asked for](https://github.com/akalenuk/milasm)
 * [2023-04-04, 18:27:48](https://news.ycombinator.com/item?id=35443976) - [Creator of Catan, Klaus Teuber, has died](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
 * [2023-04-04, 17:59:47](https://news.ycombinator.com/item?id=35443585) - [Bell Labs gave up its roof to patch the Statue of Liberty](https://nickvsnetworking.com/the-time-bell-labs-brought-the-statue-of-liberty-under-its-roof-literally/)
 * [2023-04-04, 17:01:15](https://news.ycombinator.com/item?id=35442681) - [Skio (YC S20) Is Hiring](https://skio.com/careers/)
@@ -29,7 +30,6 @@
 * [2023-04-04, 08:51:35](https://news.ycombinator.com/item?id=35436886) - [The Future of the Transistor](https://www.semianalysis.com/p/the-future-of-the-transistor)
 * [2023-04-04, 07:10:42](https://news.ycombinator.com/item?id=35436152) - [Randomness Improves Algorithms](https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/)
 * [2023-04-04, 05:20:28](https://news.ycombinator.com/item?id=35435412) - [Physical 3x3x3x3 hypercube and other physical 4d twisty puzzles](https://www.youtube.com/watch?v=geFPbJAfLF4)
-* [2023-04-04, 03:43:47](https://news.ycombinator.com/item?id=35434768) - [How to pack a stereo signal in one record groove](https://www.vinylrecorder.com/stereo.html)
 
 ## [Archives](archives/index.md)
 
