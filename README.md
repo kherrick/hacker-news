@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-06, 05:02:32](https://news.ycombinator.com/item?id=35464330) - [I cannot wait for this deluge of AI products to be over](https://news.ycombinator.com/item?id=35464330)
 * [2023-04-06, 04:31:41](https://news.ycombinator.com/item?id=35464152) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
+* [2023-04-06, 03:05:02](https://news.ycombinator.com/item?id=35463622) - [The Last Temptation of Christ](https://web.archive.org/web/20180101160950/https://squid314.livejournal.com/324957.html)
 * [2023-04-06, 02:01:47](https://news.ycombinator.com/item?id=35463182) - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
 * [2023-04-06, 01:10:44](https://news.ycombinator.com/item?id=35462784) - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
 * [2023-04-06, 00:15:20](https://news.ycombinator.com/item?id=35462378) - [Master Plan Part 3](https://www.tesla.com/blog/master-plan-part-3)
@@ -27,8 +29,6 @@
 * [2023-04-05, 15:11:50](https://news.ycombinator.com/item?id=35455566) - [Segment Anything Model (SAM) can &quot;cut out&quot; any object in an image](https://segment-anything.com/)
 * [2023-04-04, 20:16:33](https://news.ycombinator.com/item?id=35445312) - [Show HN: Want something better than k-means? Try BanditPAM](https://github.com/motiwari/BanditPAM)
 * [2023-04-04, 11:43:30](https://news.ycombinator.com/item?id=35438072) - [Acoustic Shadow in the Civil War](http://www.nellaware.com/blog/acoustic-shadow-in-the-civil-war.html)
-* [2023-04-04, 05:23:32](https://news.ycombinator.com/item?id=35435431) - [Beetle Carapaces in Basohli Miniature Paintings (ca. 1660–1700)](https://publicdomainreview.org/collection/basohli-beetle-paintings)
-* [2023-04-03, 17:24:45](https://news.ycombinator.com/item?id=35427774) - [Army researchers detect broadest frequencies ever with quantum receiver (2021)](https://www.army.mil/article/242980/army_researchers_detect_broadest_frequencies_ever_with_novel_quantum_receiver)
 * [2023-04-03, 16:54:02](https://news.ycombinator.com/item?id=35427216) - [A Brief History of Semiconductor Packaging [video]](https://www.youtube.com/watch?v=nNpuiJitKwk)
 
 ## [Archives](archives/index.md)
