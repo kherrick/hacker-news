@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
 * [2023-04-06, 12:01:13](https://news.ycombinator.com/item?id=35467186) - [WorkRamp (YC S16) Is Hiring a Product Manager (Remote)](https://www.ycombinator.com/companies/workramp/jobs/WaMUlm2-product-manager)
+* [2023-04-06, 11:57:42](https://news.ycombinator.com/item?id=35467159) - [Show HN: Curiosity of the Day](https://www.curiosityoftheday.com/)
 * [2023-04-06, 11:21:06](https://news.ycombinator.com/item?id=35466864) - [Golf has a problem: people are hitting the ball too far](https://www.npr.org/2023/04/06/1167772714/golf-ball-change-rule-augusta-tiger-woods-pros-courses)
 * [2023-04-06, 11:03:20](https://news.ycombinator.com/item?id=35466718) - [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
+* [2023-04-06, 10:55:58](https://news.ycombinator.com/item?id=35466675) - [What happens when you leak AWS credentials and how AWS minimizes the damage](https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
+* [2023-04-06, 09:36:08](https://news.ycombinator.com/item?id=35466201) - [Simply explained: How does GPT work?](https://confusedbit.dev/posts/how_does_gpt_work/)
 * [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [Chrome Ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 * [2023-04-06, 07:42:40](https://news.ycombinator.com/item?id=35465476) - [Pink Floyd inspired research into medieval monks and volcanology](https://arstechnica.com/science/2023/04/how-pink-floyd-inspired-research-into-medieval-monks-and-volcanology/)
 * [2023-04-06, 07:33:43](https://news.ycombinator.com/item?id=35465401) - [Cisco Systems pulled out of Russia and destroyed $23.42M worth of equipment](https://gagadget.com/en/business/232400-cisco-systems-pulled-out-of-russia-and-destroyed-2342m-worth-of-equipment/)
@@ -21,5 +24,6 @@
 * [2023-04-06, 03:05:02](https://news.ycombinator.com/item?id=35463622) - [The Last Temptation of Christ](https://web.archive.org/web/20180101160950/https://squid314.livejournal.com/324957.html)
 * [2023-04-06, 02:23:26](https://news.ycombinator.com/item?id=35463339) - [RAM’s New Electric Pickup Truck Aims for Battery Range of 500 Miles](https://www.wsj.com/articles/rams-new-electric-pickup-aims-for-battery-range-of-500-miles-e590bb8b)
 * [2023-04-06, 02:01:47](https://news.ycombinator.com/item?id=35463182) - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
+* [2023-04-06, 01:26:50](https://news.ycombinator.com/item?id=35462910) - [Wi-Fi over Coaxial](https://wifiovercoax.mcleodnet.com/)
 * [2023-04-06, 01:10:44](https://news.ycombinator.com/item?id=35462784) - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
 * [2023-04-06, 00:15:20](https://news.ycombinator.com/item?id=35462378) - [Tesla Master Plan Part 3](https://www.tesla.com/blog/master-plan-part-3)
