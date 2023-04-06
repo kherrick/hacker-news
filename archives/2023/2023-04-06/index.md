@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 21:00:32](https://news.ycombinator.com/item?id=35474365) - [Flexport (YC W14) Is Hiring](https://flexport.com/careers)
 * [2023-04-06, 20:45:19](https://news.ycombinator.com/item?id=35474145) - [State-of-the-Art Chatbot, Vicuna-7B, now runs on MacBook with GPU acceleration](https://twitter.com/lmsysorg/status/1644060638472470528)
+* [2023-04-06, 20:31:54](https://news.ycombinator.com/item?id=35473989) - [Docker 101](https://pythonislove.com/docker-101)
 * [2023-04-06, 20:14:42](https://news.ycombinator.com/item?id=35473746) - [US IRS to hire 30k staff over two years as it deploys $80B in new funding](https://www.reuters.com/world/us/us-irs-hire-30000-staff-over-two-years-it-deploys-80-bln-new-funding-2023-04-06/)
 * [2023-04-06, 20:08:14](https://news.ycombinator.com/item?id=35473664) - [Benchmarking the accuracy of GPT3.5&#x27;s and GPT-4&#x27;s code generation abilities](https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md)
 * [2023-04-06, 19:47:06](https://news.ycombinator.com/item?id=35473422) - [Europe drastically cut its energy consumption this winter](https://www.economist.com/graphic-detail/2023/04/05/europe-drastically-cut-its-energy-consumption-this-winter)
