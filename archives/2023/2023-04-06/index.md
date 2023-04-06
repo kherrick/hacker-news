@@ -9,6 +9,7 @@
 * [2023-04-06, 13:20:53](https://news.ycombinator.com/item?id=35467981) - [Haiku Depot Server Technology Modernisation](https://www.haiku-os.org/blog/apl/2023-04-02_hds_modernisation/)
 * [2023-04-06, 13:17:53](https://news.ycombinator.com/item?id=35467948) - [Clarence Thomas and the Billionaire](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow)
 * [2023-04-06, 13:15:18](https://news.ycombinator.com/item?id=35467917) - [Show HN: Generate startup ideas based on HN comments](https://hn-ideas.tjcx.me/)
+* [2023-04-06, 13:12:48](https://news.ycombinator.com/item?id=35467892) - [Layoffs are up nearly fivefold – 270k so far in 2023](https://www.cnbc.com/2023/04/06/layoffs-are-up-nearly-fivefold-so-far-this-year-with-tech-companies-leading-the-way.html)
 * [2023-04-06, 12:55:10](https://news.ycombinator.com/item?id=35467711) - [JSON vs. XML with Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/#)
 * [2023-04-06, 12:22:10](https://news.ycombinator.com/item?id=35467367) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
 * [2023-04-06, 12:09:37](https://news.ycombinator.com/item?id=35467243) - [Mariadb.com is dead, long live MariaDB.org](https://medium.com/@imashadowphantom/mariadb-com-is-dead-long-live-mariadb-org-b8a0ca50a637)
