@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-06, 19:28:29](https://news.ycombinator.com/item?id=35473213) - [Tesla voyeur employees spy on customers – these creeps should lose their jobs](https://www.youtube.com/watch?v=3PnZ1szh6Dg)
 * [2023-04-06, 17:46:54](https://news.ycombinator.com/item?id=35471826) - [Tesla workers shared images from car cameras, including “scenes of intimacy”](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
 * [2023-04-06, 17:33:13](https://news.ycombinator.com/item?id=35471656) - [This Month with Nim: March 2023](https://nim-lang.org/blog/2023/04/01/this-month-with-nim.html)
 * [2023-04-06, 17:19:12](https://news.ycombinator.com/item?id=35471471) - [Show HN: StorySeed – AI Facilitated, immersive, creative learning experience](https://koodup.com/journey/storyseed/)
@@ -13,6 +12,7 @@
 * [2023-04-06, 16:39:40](https://news.ycombinator.com/item?id=35470905) - [System design and the cost of architectural complexity (2013)](https://dspace.mit.edu/handle/1721.1/79551)
 * [2023-04-06, 16:07:20](https://news.ycombinator.com/item?id=35470392) - [Linux 6.4 Bringing Apple M2 Additions for 2022 MacBook and Mac Mini](https://www.phoronix.com/news/Apple-M2-Device-Tree-Linux-6.4)
 * [2023-04-06, 16:05:51](https://news.ycombinator.com/item?id=35470371) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
+* [2023-04-06, 15:40:17](https://news.ycombinator.com/item?id=35469908) - [Behind the curtain: what it feels like to work in AI right now](https://robotic.substack.com/p/behind-the-curtain-ai)
 * [2023-04-06, 15:25:18](https://news.ycombinator.com/item?id=35469632) - [Spotting and Avoiding Heap Fragmentation in Rust Applications](https://www.svix.com/blog/heap-fragmentation-in-rust-applications/)
 * [2023-04-06, 15:03:41](https://news.ycombinator.com/item?id=35469276) - [Announcing WCGI: WebAssembly and CGI](https://wasmer.io/posts/announcing-wcgi)
 * [2023-04-06, 14:45:20](https://news.ycombinator.com/item?id=35468981) - [Show HN: Sym, define just-in-time access workflows in code](https://symops.com/)

@@ -23,6 +23,7 @@
 * [2023-04-06, 16:05:51](https://news.ycombinator.com/item?id=35470371) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 * [2023-04-06, 15:46:05](https://news.ycombinator.com/item?id=35470019) - [Ask HN: Where did all the ICOs go?](https://news.ycombinator.com/item?id=35470019)
 * [2023-04-06, 15:40:56](https://news.ycombinator.com/item?id=35469922) - [Protesters storm BlackRock’s Paris office](https://www.cnn.com/2023/04/06/business/blackrock-office-stormed-paris-protests/index.html)
+* [2023-04-06, 15:40:17](https://news.ycombinator.com/item?id=35469908) - [Behind the curtain: what it feels like to work in AI right now](https://robotic.substack.com/p/behind-the-curtain-ai)
 * [2023-04-06, 15:25:25](https://news.ycombinator.com/item?id=35469635) - [Do you get less food when you order online? That&#x27;s what the data shows](https://medium.com/@seangransee/heres-how-much-sweetgreen-shorts-you-when-you-order-online-with-data-c93fb5bc6e26)
 * [2023-04-06, 15:25:18](https://news.ycombinator.com/item?id=35469632) - [Spotting and Avoiding Heap Fragmentation in Rust Applications](https://www.svix.com/blog/heap-fragmentation-in-rust-applications/)
 * [2023-04-06, 15:06:26](https://news.ycombinator.com/item?id=35469319) - [Italy’s ChatGPT Ban Spreads to France, Germany and Ireland](https://stealthoptional.com/news/italys-chatgpt-ban-spreads-to-france-germany-and-ireland/)
