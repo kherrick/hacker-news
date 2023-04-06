@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-06, 08:22:20",
+      "https://news.ycombinator.com/item?id=35465729"
+    ],
+    [
+      "Chrome Ships WebGPU",
+      "https://developer.chrome.com/blog/webgpu-release/"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 07:42:40",
       "https://news.ycombinator.com/item?id=35465476"
     ],
@@ -227,16 +237,6 @@
     [
       "CAN Injection: Keyless car theft",
       "https://kentindell.github.io/2023/04/03/can-injection/"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 20:16:33",
-      "https://news.ycombinator.com/item?id=35445312"
-    ],
-    [
-      "Show HN: Want something better than k-means? Try BanditPAM",
-      "https://github.com/motiwari/BanditPAM"
     ]
   ],
   [
