@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-06, 03:27:08](https://news.ycombinator.com/item?id=35463790) - [Ask HN: Self hosted email, Cloud storage and dovecot](https://news.ycombinator.com/item?id=35463790)
 * [2023-04-06, 02:23:26](https://news.ycombinator.com/item?id=35463339) - [RAM’s New Electric Pickup Truck Aims for Battery Range of 500 Miles](https://www.wsj.com/articles/rams-new-electric-pickup-aims-for-battery-range-of-500-miles-e590bb8b)
 * [2023-04-06, 02:01:47](https://news.ycombinator.com/item?id=35463182) - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
 * [2023-04-06, 01:10:44](https://news.ycombinator.com/item?id=35462784) - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
@@ -15,7 +16,6 @@
 * [2023-04-05, 18:48:25](https://news.ycombinator.com/item?id=35458746) - [Firefox engineers discover a Windows Defender bug that causes high CPU usage](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c82)
 * [2023-04-05, 18:39:52](https://news.ycombinator.com/item?id=35458644) - [Jitx (YC S18) Is Hiring: Hardware, Software, Mathematician, Technical Writer](https://jobs.lever.co/jitxinc)
 * [2023-04-05, 18:37:01](https://news.ycombinator.com/item?id=35458596) - [APT Browse: A web browser for the contents of Debian (and Ubuntu) packages](https://www.apt-browse.org/)
-* [2023-04-05, 17:14:34](https://news.ycombinator.com/item?id=35457384) - [Deposit insurance maximization as a service](https://www.bitsaboutmoney.com/archive/deposit-insurance-maximization-as-a-service/)
 * [2023-04-05, 17:11:56](https://news.ycombinator.com/item?id=35457341) - [Remembering Bob Lee](https://news.ycombinator.com/item?id=35457341)
 * [2023-04-05, 16:47:10](https://news.ycombinator.com/item?id=35456984) - [An introduction to zero-knowledge machine learning](https://worldcoin.org/blog/engineering/intro-to-zkml)
 * [2023-04-05, 16:28:48](https://news.ycombinator.com/item?id=35456721) - [China plans to ban exports of rare earth magnet tech](https://japannews.yomiuri.co.jp/world/asia-pacific/20230405-101753/)
@@ -27,9 +27,9 @@
 * [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World](https://alex.miller.garden/grid-world/)
 * [2023-04-05, 15:11:50](https://news.ycombinator.com/item?id=35455566) - [Segment Anything Model (SAM) can &quot;cut out&quot; any object in an image](https://segment-anything.com/)
 * [2023-04-05, 13:00:19](https://news.ycombinator.com/item?id=35453400) - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
-* [2023-04-05, 12:28:49](https://news.ycombinator.com/item?id=35452963) - [CAN Injection: Keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2023-04-04, 20:16:33](https://news.ycombinator.com/item?id=35445312) - [Show HN: Want something better than k-means? Try BanditPAM](https://github.com/motiwari/BanditPAM)
 * [2023-04-03, 17:24:45](https://news.ycombinator.com/item?id=35427774) - [Army researchers detect broadest frequencies ever with quantum receiver (2021)](https://www.army.mil/article/242980/army_researchers_detect_broadest_frequencies_ever_with_novel_quantum_receiver)
+* [2023-04-03, 16:54:02](https://news.ycombinator.com/item?id=35427216) - [A Brief History of Semiconductor Packaging [video]](https://www.youtube.com/watch?v=nNpuiJitKwk)
 
 ## [Archives](archives/index.md)
 

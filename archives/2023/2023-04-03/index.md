@@ -46,6 +46,7 @@
 * [2023-04-03, 17:04:29](https://news.ycombinator.com/item?id=35427410) - [Algorithmic Entities (2017)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2954173)
 * [2023-04-03, 17:00:42](https://news.ycombinator.com/item?id=35427343) - [Show HN: Hocus – self-hosted alternative to GitHub Codespaces using Firecracker](https://github.com/hocus-dev/hocus)
 * [2023-04-03, 17:00:31](https://news.ycombinator.com/item?id=35427338) - [Font Awesome (YC S15) Is Hiring a Remote, US-Based Product Designer](https://blog.fontawesome.com/hiring-a-product-designer/)
+* [2023-04-03, 16:54:02](https://news.ycombinator.com/item?id=35427216) - [A Brief History of Semiconductor Packaging [video]](https://www.youtube.com/watch?v=nNpuiJitKwk)
 * [2023-04-03, 16:32:08](https://news.ycombinator.com/item?id=35426781) - [Was MPLS Traffic Engineering Worthwhile?](https://systemsapproach.substack.com/p/was-mpls-traffic-engineering-worthwhile)
 * [2023-04-03, 16:27:09](https://news.ycombinator.com/item?id=35426679) - [Why MMAP in llama.cpp hides true memory usage](https://twitter.com/jeremyphoward/status/1642726595436883969)
 * [2023-04-03, 16:23:21](https://news.ycombinator.com/item?id=35426586) - [Adobe Firefly vs. MidJourney AI image generation](https://twitter.com/DrJimFan/status/1642921475849203712)
