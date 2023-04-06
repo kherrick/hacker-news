@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-06, 18:34:58](https://news.ycombinator.com/item?id=35472475) - [Is the government lying to us about gas stoves?](https://philip.greenspun.com/blog/2023/04/06/is-the-government-lying-to-us-about-gas-stoves/)
 * [2023-04-06, 18:31:31](https://news.ycombinator.com/item?id=35472430) - [Book Review: The Arctic Hysterias](https://astralcodexten.substack.com/p/book-review-the-arctic-hysterias)
 * [2023-04-06, 17:46:54](https://news.ycombinator.com/item?id=35471826) - [Tesla workers shared images from car cameras, including “scenes of intimacy”](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
 * [2023-04-06, 17:19:12](https://news.ycombinator.com/item?id=35471471) - [Show HN: StorySeed – AI Facilitated, immersive, creative learning experience](https://koodup.com/journey/storyseed/)
@@ -25,7 +26,6 @@
 * [2023-04-06, 09:36:08](https://news.ycombinator.com/item?id=35466201) - [Simply explained: How does GPT work?](https://confusedbit.dev/posts/how_does_gpt_work/)
 * [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 * [2023-04-06, 06:16:59](https://news.ycombinator.com/item?id=35464816) - [A Degenerate Assemblage: Review of “Book Madness”](https://www.lrb.co.uk/the-paper/v45/n08/anthony-grafton/a-degenerate-assemblage)
-* [2023-04-05, 23:44:41](https://news.ycombinator.com/item?id=35462091) - [Purkinje Effect](https://en.wikipedia.org/wiki/Purkinje_effect)
 * [2023-04-05, 15:37:06](https://news.ycombinator.com/item?id=35455943) - [The City That Fell Off a Cliff](https://publicdomainreview.org/essay/the-city-that-fell-off-a-cliff)
 * [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World](https://alex.miller.garden/grid-world/)
 * [2023-04-04, 10:29:10](https://news.ycombinator.com/item?id=35437473) - [AMD and Jedec Are Collaborating on DDR5 MRDIMMs at 17,600 MT&#x2F;S](https://hothardware.com/news/ddr5-mrdimms-standardized-up-to-17600)
