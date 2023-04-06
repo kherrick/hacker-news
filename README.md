@@ -2,6 +2,7 @@
 
 * [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [Chrome Ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 * [2023-04-06, 07:42:40](https://news.ycombinator.com/item?id=35465476) - [Pink Floyd inspired research into medieval monks and volcanology](https://arstechnica.com/science/2023/04/how-pink-floyd-inspired-research-into-medieval-monks-and-volcanology/)
+* [2023-04-06, 07:33:43](https://news.ycombinator.com/item?id=35465401) - [Cisco Systems pulled out of Russia and destroyed $23.42M worth of equipment](https://gagadget.com/en/business/232400-cisco-systems-pulled-out-of-russia-and-destroyed-2342m-worth-of-equipment/)
 * [2023-04-06, 07:15:06](https://news.ycombinator.com/item?id=35465264) - [False memories can form within seconds, study finds](https://gizmodo.com/false-memories-can-form-within-seconds-study-finds-1850303900)
 * [2023-04-06, 04:06:19](https://news.ycombinator.com/item?id=35464000) - [Biscuit 3.0](https://www.biscuitsec.org/blog/biscuit-3-0/)
 * [2023-04-06, 02:01:47](https://news.ycombinator.com/item?id=35463182) - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
@@ -16,7 +17,6 @@
 * [2023-04-05, 19:12:09](https://news.ycombinator.com/item?id=35459031) - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 * [2023-04-05, 19:07:27](https://news.ycombinator.com/item?id=35458974) - [Telemetry in Front-End Tools](https://telemetry.timseverien.com/)
 * [2023-04-05, 18:48:25](https://news.ycombinator.com/item?id=35458746) - [Firefox engineers discover a Windows Defender bug that causes high CPU usage](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c82)
-* [2023-04-05, 18:39:52](https://news.ycombinator.com/item?id=35458644) - [Jitx (YC S18) Is Hiring: Hardware, Software, Mathematician, Technical Writer](https://jobs.lever.co/jitxinc)
 * [2023-04-05, 18:37:01](https://news.ycombinator.com/item?id=35458596) - [APT Browse: A web browser for the contents of Debian (and Ubuntu) packages](https://www.apt-browse.org/)
 * [2023-04-05, 17:11:56](https://news.ycombinator.com/item?id=35457341) - [Remembering Bob Lee](https://news.ycombinator.com/item?id=35457341)
 * [2023-04-05, 16:13:59](https://news.ycombinator.com/item?id=35456509) - [Show HN: Quadratic – Open-Source Spreadsheet with Python, AI (WASM and WebGL)](https://www.quadratichq.com/)

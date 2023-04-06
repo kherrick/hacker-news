@@ -6,6 +6,7 @@
 
 * [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [Chrome Ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 * [2023-04-06, 07:42:40](https://news.ycombinator.com/item?id=35465476) - [Pink Floyd inspired research into medieval monks and volcanology](https://arstechnica.com/science/2023/04/how-pink-floyd-inspired-research-into-medieval-monks-and-volcanology/)
+* [2023-04-06, 07:33:43](https://news.ycombinator.com/item?id=35465401) - [Cisco Systems pulled out of Russia and destroyed $23.42M worth of equipment](https://gagadget.com/en/business/232400-cisco-systems-pulled-out-of-russia-and-destroyed-2342m-worth-of-equipment/)
 * [2023-04-06, 07:15:06](https://news.ycombinator.com/item?id=35465264) - [False Memories Can Form Within Seconds, Study Finds](https://gizmodo.com/false-memories-can-form-within-seconds-study-finds-1850303900)
 * [2023-04-06, 06:33:01](https://news.ycombinator.com/item?id=35464933) - [Over 40% of the latest YC batch are AI&#x2F;ML startups](https://www.ignorance.ai/p/analyzing-over-100-ai-startups-from-yc)
 * [2023-04-06, 05:02:32](https://news.ycombinator.com/item?id=35464330) - [I cannot wait for this deluge of AI products to be over](https://news.ycombinator.com/item?id=35464330)
