@@ -15,6 +15,7 @@
 * [2023-04-05, 18:48:25](https://news.ycombinator.com/item?id=35458746) - [Firefox engineers discover a Windows Defender bug that causes high CPU usage](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c82)
 * [2023-04-05, 18:39:52](https://news.ycombinator.com/item?id=35458644) - [Jitx (YC S18) Is Hiring: Hardware, Software, Mathematician, Technical Writer](https://jobs.lever.co/jitxinc)
 * [2023-04-05, 18:37:01](https://news.ycombinator.com/item?id=35458596) - [APT Browse: A web browser for the contents of Debian (and Ubuntu) packages](https://www.apt-browse.org/)
+* [2023-04-05, 17:14:34](https://news.ycombinator.com/item?id=35457384) - [Deposit insurance maximization as a service](https://www.bitsaboutmoney.com/archive/deposit-insurance-maximization-as-a-service/)
 * [2023-04-05, 17:11:56](https://news.ycombinator.com/item?id=35457341) - [Remembering Bob Lee](https://news.ycombinator.com/item?id=35457341)
 * [2023-04-05, 16:47:10](https://news.ycombinator.com/item?id=35456984) - [An introduction to zero-knowledge machine learning](https://worldcoin.org/blog/engineering/intro-to-zkml)
 * [2023-04-05, 16:28:48](https://news.ycombinator.com/item?id=35456721) - [China plans to ban exports of rare earth magnet tech](https://japannews.yomiuri.co.jp/world/asia-pacific/20230405-101753/)
@@ -27,7 +28,6 @@
 * [2023-04-05, 15:11:50](https://news.ycombinator.com/item?id=35455566) - [Segment Anything Model (SAM) can &quot;cut out&quot; any object in an image](https://segment-anything.com/)
 * [2023-04-04, 20:16:33](https://news.ycombinator.com/item?id=35445312) - [Show HN: Want something better than k-means? Try BanditPAM](https://github.com/motiwari/BanditPAM)
 * [2023-04-04, 11:43:30](https://news.ycombinator.com/item?id=35438072) - [Acoustic Shadow in the Civil War](http://www.nellaware.com/blog/acoustic-shadow-in-the-civil-war.html)
-* [2023-04-04, 05:23:32](https://news.ycombinator.com/item?id=35435431) - [Beetle Carapaces in Basohli Miniature Paintings (ca. 1660–1700)](https://publicdomainreview.org/collection/basohli-beetle-paintings)
 * [2023-04-03, 17:24:45](https://news.ycombinator.com/item?id=35427774) - [Army researchers detect broadest frequencies ever with quantum receiver (2021)](https://www.army.mil/article/242980/army_researchers_detect_broadest_frequencies_ever_with_novel_quantum_receiver)
 * [2023-04-03, 16:54:02](https://news.ycombinator.com/item?id=35427216) - [A Brief History of Semiconductor Packaging [video]](https://www.youtube.com/watch?v=nNpuiJitKwk)
 
