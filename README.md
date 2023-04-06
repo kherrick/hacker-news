@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-06, 17:46:54](https://news.ycombinator.com/item?id=35471826) - [Tesla workers shared images from car cameras, including “scenes of intimacy”](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
 * [2023-04-06, 17:33:13](https://news.ycombinator.com/item?id=35471656) - [This Month with Nim: March 2023](https://nim-lang.org/blog/2023/04/01/this-month-with-nim.html)
 * [2023-04-06, 17:19:12](https://news.ycombinator.com/item?id=35471471) - [Show HN: StorySeed – AI Facilitated, immersive, creative learning experience](https://koodup.com/journey/storyseed/)
 * [2023-04-06, 17:15:45](https://news.ycombinator.com/item?id=35471429) - [Uranus (NIRCam Image)](https://webbtelescope.org/contents/media/images/2023/117/01GWQD6PSGTBK7VQBZST09YYKW?news=true)
@@ -8,6 +7,7 @@
 * [2023-04-06, 17:01:35](https://news.ycombinator.com/item?id=35471227) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35471227)
 * [2023-04-06, 17:00:41](https://news.ycombinator.com/item?id=35471211) - [ChatGPT: Mayor starts legal bid over false bribery claim](https://www.bbc.co.uk/news/technology-65202597)
 * [2023-04-06, 16:55:11](https://news.ycombinator.com/item?id=35471129) - [Show HN: ADHD-friendly pomodoro web app](https://brainpls.work/)
+* [2023-04-06, 16:52:04](https://news.ycombinator.com/item?id=35471091) - [Show HN: Machato — A native macOS client for ChatGPT](https://untimelyunicorn.gumroad.com/l/machato)
 * [2023-04-06, 16:40:17](https://news.ycombinator.com/item?id=35470915) - [Show HN: Tabby – A self-hosted GitHub Copilot](https://github.com/TabbyML/tabby)
 * [2023-04-06, 16:39:40](https://news.ycombinator.com/item?id=35470905) - [System design and the cost of architectural complexity (2013)](https://dspace.mit.edu/handle/1721.1/79551)
 * [2023-04-06, 16:07:20](https://news.ycombinator.com/item?id=35470392) - [Linux 6.4 Bringing Apple M2 Additions for 2022 MacBook and Mac Mini](https://www.phoronix.com/news/Apple-M2-Device-Tree-Linux-6.4)
