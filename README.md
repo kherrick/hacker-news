@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-06, 20:14:42](https://news.ycombinator.com/item?id=35473746) - [US IRS to hire 30k staff over two years as it deploys $80B in new funding](https://www.reuters.com/world/us/us-irs-hire-30000-staff-over-two-years-it-deploys-80-bln-new-funding-2023-04-06/)
 * [2023-04-06, 20:08:14](https://news.ycombinator.com/item?id=35473664) - [Benchmarking the accuracy of GPT3.5&#x27;s and GPT-4&#x27;s code generation abilities](https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md)
 * [2023-04-06, 19:47:06](https://news.ycombinator.com/item?id=35473422) - [Europe drastically cut its energy consumption this winter](https://www.economist.com/graphic-detail/2023/04/05/europe-drastically-cut-its-energy-consumption-this-winter)
+* [2023-04-06, 18:54:30](https://news.ycombinator.com/item?id=35472750) - [A radiation hard RISC-V microprocessor for high-energy physics applications](https://arxiv.org/abs/2304.02410)
 * [2023-04-06, 17:33:13](https://news.ycombinator.com/item?id=35471656) - [This Month with Nim: March 2023](https://nim-lang.org/blog/2023/04/01/this-month-with-nim.html)
-* [2023-04-06, 17:19:12](https://news.ycombinator.com/item?id=35471471) - [Show HN: StorySeed – AI Facilitated, immersive, creative learning experience](https://koodup.com/journey/storyseed/)
 * [2023-04-06, 17:15:45](https://news.ycombinator.com/item?id=35471429) - [Uranus (NIRCam Image)](https://webbtelescope.org/contents/media/images/2023/117/01GWQD6PSGTBK7VQBZST09YYKW?news=true)
 * [2023-04-06, 17:15:10](https://news.ycombinator.com/item?id=35471420) - [Gource – Animate your Git history](https://gource.io/)
 * [2023-04-06, 17:01:35](https://news.ycombinator.com/item?id=35471227) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35471227)
@@ -28,7 +29,6 @@
 * [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 * [2023-04-06, 06:16:59](https://news.ycombinator.com/item?id=35464816) - [A Degenerate Assemblage: Review of “Book Madness”](https://www.lrb.co.uk/the-paper/v45/n08/anthony-grafton/a-degenerate-assemblage)
 * [2023-04-05, 15:37:06](https://news.ycombinator.com/item?id=35455943) - [The City That Fell Off a Cliff](https://publicdomainreview.org/essay/the-city-that-fell-off-a-cliff)
-* [2023-04-04, 10:29:10](https://news.ycombinator.com/item?id=35437473) - [AMD and Jedec Are Collaborating on DDR5 MRDIMMs at 17,600 MT&#x2F;S](https://hothardware.com/news/ddr5-mrdimms-standardized-up-to-17600)
 * [2023-04-04, 09:20:13](https://news.ycombinator.com/item?id=35437062) - [Everything Is a Practice](https://luxagraf.net/essay/everything-is-a-practice)
 
 ## [Archives](archives/index.md)

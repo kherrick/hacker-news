@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 20:14:42](https://news.ycombinator.com/item?id=35473746) - [US IRS to hire 30k staff over two years as it deploys $80B in new funding](https://www.reuters.com/world/us/us-irs-hire-30000-staff-over-two-years-it-deploys-80-bln-new-funding-2023-04-06/)
 * [2023-04-06, 20:08:14](https://news.ycombinator.com/item?id=35473664) - [Benchmarking the accuracy of GPT3.5&#x27;s and GPT-4&#x27;s code generation abilities](https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md)
 * [2023-04-06, 19:47:06](https://news.ycombinator.com/item?id=35473422) - [Europe drastically cut its energy consumption this winter](https://www.economist.com/graphic-detail/2023/04/05/europe-drastically-cut-its-energy-consumption-this-winter)
 * [2023-04-06, 19:28:29](https://news.ycombinator.com/item?id=35473213) - [Tesla voyeur employees spy on customers – these creeps should lose their jobs](https://www.youtube.com/watch?v=3PnZ1szh6Dg)
+* [2023-04-06, 18:54:30](https://news.ycombinator.com/item?id=35472750) - [A radiation hard RISC-V microprocessor for high-energy physics applications](https://arxiv.org/abs/2304.02410)
 * [2023-04-06, 18:34:58](https://news.ycombinator.com/item?id=35472475) - [Is the government lying to us about gas stoves?](https://philip.greenspun.com/blog/2023/04/06/is-the-government-lying-to-us-about-gas-stoves/)
 * [2023-04-06, 18:31:31](https://news.ycombinator.com/item?id=35472430) - [Book Review: The Arctic Hysterias](https://astralcodexten.substack.com/p/book-review-the-arctic-hysterias)
 * [2023-04-06, 18:00:38](https://news.ycombinator.com/item?id=35471989) - [Twitter devalued its top status symbol and what it can do now](https://www.getflack.com/p/please-just-take-the-checkmark-away)
