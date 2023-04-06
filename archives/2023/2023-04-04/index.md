@@ -92,6 +92,7 @@
 * [2023-04-04, 09:35:16](https://news.ycombinator.com/item?id=35437135) - [Dumb bugs: the PCI device that wasn&#x27;t](https://sthbrx.github.io/blog/2023/04/04/dumb-bugs-the-pci-device-that-wasnt/)
 * [2023-04-04, 09:22:23](https://news.ycombinator.com/item?id=35437070) - [Liberating the MacBook Air 2013 with Linux](https://boilingsteam.com/liberating-the-macbook-air-2013-with-linux-complete-guide/)
 * [2023-04-04, 09:21:01](https://news.ycombinator.com/item?id=35437065) - [Circuit.js – electronic circuit simulator on the web](http://lushprojects.com/circuitjs/circuitjs.html)
+* [2023-04-04, 09:20:13](https://news.ycombinator.com/item?id=35437062) - [Everything Is a Practice](https://luxagraf.net/essay/everything-is-a-practice)
 * [2023-04-04, 08:51:35](https://news.ycombinator.com/item?id=35436886) - [The Future of the Transistor](https://www.semianalysis.com/p/the-future-of-the-transistor)
 * [2023-04-04, 08:43:29](https://news.ycombinator.com/item?id=35436822) - [We are hurtling toward a glitchy, spammy, scammy, AI-powered internet](https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powe)
 * [2023-04-04, 08:17:17](https://news.ycombinator.com/item?id=35436605) - [Emacs in Odd Places (2020)](https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places)

@@ -23,12 +23,12 @@
 * [2023-04-06, 04:31:41](https://news.ycombinator.com/item?id=35464152) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
 * [2023-04-06, 02:01:47](https://news.ycombinator.com/item?id=35463182) - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
 * [2023-04-05, 23:44:41](https://news.ycombinator.com/item?id=35462091) - [Purkinje Effect](https://en.wikipedia.org/wiki/Purkinje_effect)
-* [2023-04-05, 22:11:58](https://news.ycombinator.com/item?id=35461106) - [Family Matters: Everyday Life in the Neo-Assyrian Empire](https://www.laphamsquarterly.org/roundtable/family-matters)
 * [2023-04-05, 18:51:14](https://news.ycombinator.com/item?id=35458784) - [Epicurus for Our Time](https://lareviewofbooks.org/article/epicurus-for-our-time/)
 * [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World](https://alex.miller.garden/grid-world/)
 * [2023-04-05, 14:18:44](https://news.ycombinator.com/item?id=35454666) - [Carnac: Keystroke and Mouse Visualizer](https://github.com/bfritscher/carnac)
 * [2023-04-04, 10:29:10](https://news.ycombinator.com/item?id=35437473) - [AMD and Jedec Are Collaborating on DDR5 MRDIMMs at 17,600 MT&#x2F;S](https://hothardware.com/news/ddr5-mrdimms-standardized-up-to-17600)
 * [2023-04-04, 10:21:22](https://news.ycombinator.com/item?id=35437420) - [Campanology](https://en.wikipedia.org/wiki/Campanology)
+* [2023-04-04, 09:20:13](https://news.ycombinator.com/item?id=35437062) - [Everything Is a Practice](https://luxagraf.net/essay/everything-is-a-practice)
 * [2023-04-03, 16:54:02](https://news.ycombinator.com/item?id=35427216) - [A Brief History of Semiconductor Packaging [video]](https://www.youtube.com/watch?v=nNpuiJitKwk)
 
 ## [Archives](archives/index.md)
