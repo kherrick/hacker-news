@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 04:31:25](https://news.ycombinator.com/item?id=35464150) - [Zendesk created a fake band “Zendesk Alternative” that ranks first in SEO](http://zendeskalternative.com)
 * [2023-04-06, 03:27:08](https://news.ycombinator.com/item?id=35463790) - [Ask HN: Self hosted email, Cloud storage and dovecot](https://news.ycombinator.com/item?id=35463790)
 * [2023-04-06, 03:05:42](https://news.ycombinator.com/item?id=35463629) - [Club for websites weighting less than 1kb](https://1kb.club/)
 * [2023-04-06, 02:23:26](https://news.ycombinator.com/item?id=35463339) - [RAM’s New Electric Pickup Truck Aims for Battery Range of 500 Miles](https://www.wsj.com/articles/rams-new-electric-pickup-aims-for-battery-range-of-500-miles-e590bb8b)
