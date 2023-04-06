@@ -11,6 +11,7 @@
 * [2023-04-06, 20:31:54](https://news.ycombinator.com/item?id=35473989) - [Docker 101](https://pythonislove.com/docker-101)
 * [2023-04-06, 20:14:42](https://news.ycombinator.com/item?id=35473746) - [US IRS to hire 30k staff over two years as it deploys $80B in new funding](https://www.reuters.com/world/us/us-irs-hire-30000-staff-over-two-years-it-deploys-80-bln-new-funding-2023-04-06/)
 * [2023-04-06, 20:08:14](https://news.ycombinator.com/item?id=35473664) - [Benchmarking the accuracy of GPT3.5&#x27;s and GPT-4&#x27;s code generation abilities](https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md)
+* [2023-04-06, 20:02:32](https://news.ycombinator.com/item?id=35473596) - [Wikipedia’s “Supreme Court” to review Polish-Jewish history during WWII](https://slate.com/technology/2023/04/how-wikipedia-covers-the-history-of-the-holocaust-in-poland.html)
 * [2023-04-06, 19:47:06](https://news.ycombinator.com/item?id=35473422) - [Europe drastically cut its energy consumption this winter](https://www.economist.com/graphic-detail/2023/04/05/europe-drastically-cut-its-energy-consumption-this-winter)
 * [2023-04-06, 19:30:54](https://news.ycombinator.com/item?id=35473241) - [The Life Engine](https://thelifeengine.net/)
 * [2023-04-06, 19:28:29](https://news.ycombinator.com/item?id=35473213) - [Tesla voyeur employees spy on customers – these creeps should lose their jobs](https://www.youtube.com/watch?v=3PnZ1szh6Dg)
