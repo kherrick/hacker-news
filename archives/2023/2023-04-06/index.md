@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 22:39:28](https://news.ycombinator.com/item?id=35475482) - [Is it my fault if you can&#x27;t handle the truth?](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
 * [2023-04-06, 22:04:41](https://news.ycombinator.com/item?id=35475175) - [Transactions Aren&#x27;t Everything](https://www.michaelnygard.com/blog/2023/04/transactions-arent-everything/)
 * [2023-04-06, 21:46:22](https://news.ycombinator.com/item?id=35474968) - [4000x Speedup in Reinforcement Learning with Jax](https://chrislu.page/blog/meta-disco/)
 * [2023-04-06, 21:39:33](https://news.ycombinator.com/item?id=35474895) - [Illustrations of ‘Unseen’ Japanese Maintenance Trains That Only Work at Night](https://www.spoon-tamago.com/toei-project-unseen-maintenance-trains/)
