@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-04-06, 03:05:02",
-      "https://news.ycombinator.com/item?id=35463622"
-    ],
-    [
-      "The Last Temptation of Christ (2012)",
-      "https://web.archive.org/web/20180101160950/https://squid314.livejournal.com/324957.html"
-    ]
-  ],
-  [
-    [
       "2023-04-06, 02:01:47",
       "https://news.ycombinator.com/item?id=35463182"
     ],
@@ -47,6 +37,16 @@
     [
       "Try out Clojure libraries via rebel-readline",
       "https://github.com/eval/deps-try"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 23:11:59",
+      "https://news.ycombinator.com/item?id=35461777"
+    ],
+    [
+      "Galaxy Simulation",
+      "https://galaxym.ovh/"
     ]
   ],
   [
@@ -141,12 +141,32 @@
   ],
   [
     [
+      "2023-04-05, 18:39:52",
+      "https://news.ycombinator.com/item?id=35458644"
+    ],
+    [
+      "Jitx (YC S18) Is Hiring: Hardware, Software, Mathematician, Technical Writer",
+      "https://jobs.lever.co/jitxinc"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 18:37:01",
       "https://news.ycombinator.com/item?id=35458596"
     ],
     [
       "APT Browse: A web browser for the contents of Debian (and Ubuntu) packages",
       "https://www.apt-browse.org/"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 17:14:34",
+      "https://news.ycombinator.com/item?id=35457384"
+    ],
+    [
+      "Deposit insurance maximization as a service",
+      "https://www.bitsaboutmoney.com/archive/deposit-insurance-maximization-as-a-service/"
     ]
   ],
   [
@@ -191,42 +211,12 @@
   ],
   [
     [
-      "2023-04-05, 15:52:36",
-      "https://news.ycombinator.com/item?id=35456192"
-    ],
-    [
-      "Read “Gravity’s Rainbow” fifty years later",
-      "https://aurelien2022.substack.com/p/in-praise-of-the-preterite"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 15:45:59",
-      "https://news.ycombinator.com/item?id=35456083"
-    ],
-    [
-      "A SvelteKit template for building CMS-free editable websites",
-      "https://editable.website"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 15:44:12",
       "https://news.ycombinator.com/item?id=35456059"
     ],
     [
       "A trick to reaching flow: Leave your work broken",
       "https://census.dev/blog/an-on-ramp-to-flow"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 15:30:37",
-      "https://news.ycombinator.com/item?id=35455850"
-    ],
-    [
-      "Perspective: Open Source WebAssembly-Powered BI",
-      "https://perspective.finos.org/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Segment Anything Model (SAM) can &quot;cut out&quot; any object in an image",
       "https://segment-anything.com/"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 12:28:49",
+      "https://news.ycombinator.com/item?id=35452963"
+    ],
+    [
+      "CAN Injection: Keyless car theft",
+      "https://kentindell.github.io/2023/04/03/can-injection/"
     ]
   ],
   [
