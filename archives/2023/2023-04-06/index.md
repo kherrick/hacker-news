@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 04:31:41](https://news.ycombinator.com/item?id=35464152) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
 * [2023-04-06, 04:31:25](https://news.ycombinator.com/item?id=35464150) - [Zendesk created a fake band “Zendesk Alternative” that ranks first in SEO](http://zendeskalternative.com)
 * [2023-04-06, 03:27:08](https://news.ycombinator.com/item?id=35463790) - [Ask HN: Self hosted email, Cloud storage and dovecot](https://news.ycombinator.com/item?id=35463790)
 * [2023-04-06, 03:05:42](https://news.ycombinator.com/item?id=35463629) - [Club for websites weighting less than 1kb](https://1kb.club/)
