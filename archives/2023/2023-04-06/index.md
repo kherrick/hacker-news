@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
 * [2023-04-06, 16:08:26](https://news.ycombinator.com/item?id=35470422) - [Who Owns SpongeBob? AI Shakes Hollywood’s Creative Foundation](https://www.wsj.com/articles/ai-chatgpt-hollywood-intellectual-property-spongebob-81fd5d15)
+* [2023-04-06, 16:05:51](https://news.ycombinator.com/item?id=35470371) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 * [2023-04-06, 15:46:05](https://news.ycombinator.com/item?id=35470019) - [Ask HN: Where did all the ICOs go?](https://news.ycombinator.com/item?id=35470019)
 * [2023-04-06, 15:25:25](https://news.ycombinator.com/item?id=35469635) - [Do you get less food when you order online? That&#x27;s what the data shows](https://medium.com/@seangransee/heres-how-much-sweetgreen-shorts-you-when-you-order-online-with-data-c93fb5bc6e26)
 * [2023-04-06, 15:25:18](https://news.ycombinator.com/item?id=35469632) - [Spotting and Avoiding Heap Fragmentation in Rust Applications](https://www.svix.com/blog/heap-fragmentation-in-rust-applications/)
