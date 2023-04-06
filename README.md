@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-06, 06:33:01](https://news.ycombinator.com/item?id=35464933) - [Over 40% of the latest YC batch are AI&#x2F;ML startups](https://www.ignorance.ai/p/analyzing-over-100-ai-startups-from-yc)
 * [2023-04-06, 04:31:41](https://news.ycombinator.com/item?id=35464152) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
 * [2023-04-06, 03:05:02](https://news.ycombinator.com/item?id=35463622) - [The Last Temptation of Christ (2012)](https://web.archive.org/web/20180101160950/https://squid314.livejournal.com/324957.html)
 * [2023-04-06, 02:01:47](https://news.ycombinator.com/item?id=35463182) - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
 * [2023-04-06, 01:10:44](https://news.ycombinator.com/item?id=35462784) - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
 * [2023-04-05, 22:54:18](https://news.ycombinator.com/item?id=35461596) - [I don&#x27;t want streaming music, I just want to stream my music](https://coryd.dev/posts/2023/i-dont-want-streaming-music/)
 * [2023-04-05, 22:03:38](https://news.ycombinator.com/item?id=35461011) - [The Bitcoin whitepaper is hidden in every copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
-* [2023-04-05, 21:38:55](https://news.ycombinator.com/item?id=35460732) - [Dang is going to have 65,535 karma points soon](https://news.ycombinator.com/user?id=dang)
 * [2023-04-05, 21:10:35](https://news.ycombinator.com/item?id=35460432) - [No-cost access to the latest PDF standard: ISO 32000-2 (PDF 2.0)](https://www.pdfa.org/sponsored-standards/)
 * [2023-04-05, 21:05:51](https://news.ycombinator.com/item?id=35460375) - [Indie Hackers is indie again](https://www.indiehackers.com/product/indie-hackers/indie-hackers-is-indie-again--NSIAlb7LggSjzTavQZb)
 * [2023-04-05, 19:37:11](https://news.ycombinator.com/item?id=35459333) - [Programmer interrupted: The cost of interruption and context switching (2022)](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
