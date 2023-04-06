@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 14:12:05](https://news.ycombinator.com/item?id=35468540) - [Defamed by ChatGPT: Law professor libeled from whole cloth](https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/)
 * [2023-04-06, 13:53:48](https://news.ycombinator.com/item?id=35468323) - [Remembering the Legacy of Trailblazing Technologist Gordon Moore](https://spectrum.ieee.org/the-legacy-of-gordon-moore)
 * [2023-04-06, 13:51:44](https://news.ycombinator.com/item?id=35468304) - [Meta Releases New AI-Based Photo Segmentation Tool to Everybody](https://arstechnica.com/information-technology/2023/04/meta-introduces-ai-model-that-can-isolate-and-mask-objects-within-images/)
 * [2023-04-06, 13:43:23](https://news.ycombinator.com/item?id=35468202) - [Frank founder Charlie Javice arrested, charged with defrauding JPMorgan Chase](https://www.cbsnews.com/news/charlie-javice-criminal-charge-fraud-sec/)
+* [2023-04-06, 13:39:59](https://news.ycombinator.com/item?id=35468168) - [Rust&#x27;s Poor Composability](https://thedav.is/post/rusts-poor-composability/)
+* [2023-04-06, 13:33:45](https://news.ycombinator.com/item?id=35468103) - [Court Ruling Could Affect the Future Direction of DAOs](https://www.jdsupra.com/legalnews/court-ruling-could-affect-the-future-6662722/)
 * [2023-04-06, 13:28:17](https://news.ycombinator.com/item?id=35468043) - [H. G. Wells interviewing J. V. Stalin (1934)](https://redsails.org/stalin-and-wells/)
 * [2023-04-06, 13:20:53](https://news.ycombinator.com/item?id=35467981) - [Haiku Depot Server Technology Modernisation](https://www.haiku-os.org/blog/apl/2023-04-02_hds_modernisation/)
 * [2023-04-06, 13:17:53](https://news.ycombinator.com/item?id=35467948) - [Clarence Thomas and the Billionaire](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow)

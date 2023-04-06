@@ -1,8 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-06, 14:12:05](https://news.ycombinator.com/item?id=35468540) - [Defamed by ChatGPT: Law professor libeled from whole cloth](https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/)
 * [2023-04-06, 13:53:48](https://news.ycombinator.com/item?id=35468323) - [Remembering the Legacy of Trailblazing Technologist Gordon Moore](https://spectrum.ieee.org/the-legacy-of-gordon-moore)
 * [2023-04-06, 13:51:44](https://news.ycombinator.com/item?id=35468304) - [Meta Releases New AI-Based Photo Segmentation Tool to Everybody](https://arstechnica.com/information-technology/2023/04/meta-introduces-ai-model-that-can-isolate-and-mask-objects-within-images/)
 * [2023-04-06, 13:43:23](https://news.ycombinator.com/item?id=35468202) - [Frank founder Charlie Javice arrested, charged with defrauding JPMorgan Chase](https://www.cbsnews.com/news/charlie-javice-criminal-charge-fraud-sec/)
+* [2023-04-06, 13:39:59](https://news.ycombinator.com/item?id=35468168) - [Rust&#x27;s Poor Composability](https://thedav.is/post/rusts-poor-composability/)
+* [2023-04-06, 13:33:45](https://news.ycombinator.com/item?id=35468103) - [Court Ruling Could Affect the Future Direction of DAOs](https://www.jdsupra.com/legalnews/court-ruling-could-affect-the-future-6662722/)
 * [2023-04-06, 13:28:17](https://news.ycombinator.com/item?id=35468043) - [H. G. Wells interviewing J. V. Stalin (1934)](https://redsails.org/stalin-and-wells/)
 * [2023-04-06, 13:20:53](https://news.ycombinator.com/item?id=35467981) - [Haiku Depot Server Technology Modernisation](https://www.haiku-os.org/blog/apl/2023-04-02_hds_modernisation/)
 * [2023-04-06, 13:15:18](https://news.ycombinator.com/item?id=35467917) - [Show HN: Generate startup ideas based on HN comments](https://hn-ideas.tjcx.me/)
@@ -24,10 +27,7 @@
 * [2023-04-05, 19:37:11](https://news.ycombinator.com/item?id=35459333) - [Programmer interrupted: The cost of interruption and context switching (2022)](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
 * [2023-04-05, 18:51:14](https://news.ycombinator.com/item?id=35458784) - [Epicurus for Our Time](https://lareviewofbooks.org/article/epicurus-for-our-time/)
 * [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World](https://alex.miller.garden/grid-world/)
-* [2023-04-05, 15:11:50](https://news.ycombinator.com/item?id=35455566) - [Segment Anything Model (SAM) can &quot;cut out&quot; any object in an image](https://segment-anything.com/)
 * [2023-04-05, 14:18:44](https://news.ycombinator.com/item?id=35454666) - [Carnac: Keystroke and Mouse Visualizer](https://github.com/bfritscher/carnac)
-* [2023-04-04, 11:43:30](https://news.ycombinator.com/item?id=35438072) - [Acoustic Shadow in the Civil War](http://www.nellaware.com/blog/acoustic-shadow-in-the-civil-war.html)
-* [2023-04-04, 10:29:10](https://news.ycombinator.com/item?id=35437473) - [AMD and Jedec Are Collaborating on DDR5 MRDIMMs at 17,600 MT&#x2F;S](https://hothardware.com/news/ddr5-mrdimms-standardized-up-to-17600)
 * [2023-04-04, 10:21:22](https://news.ycombinator.com/item?id=35437420) - [Campanology](https://en.wikipedia.org/wiki/Campanology)
 * [2023-04-03, 16:54:02](https://news.ycombinator.com/item?id=35427216) - [A Brief History of Semiconductor Packaging [video]](https://www.youtube.com/watch?v=nNpuiJitKwk)
 
