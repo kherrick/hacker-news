@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-06, 12:22:10](https://news.ycombinator.com/item?id=35467367) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
 * [2023-04-06, 12:01:13](https://news.ycombinator.com/item?id=35467186) - [WorkRamp (YC S16) Is Hiring a Product Manager (Remote)](https://www.ycombinator.com/companies/workramp/jobs/WaMUlm2-product-manager)
-* [2023-04-06, 11:57:42](https://news.ycombinator.com/item?id=35467159) - [Show HN: Curiosity of the Day](https://www.curiosityoftheday.com/)
 * [2023-04-06, 11:03:20](https://news.ycombinator.com/item?id=35466718) - [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
 * [2023-04-06, 10:55:58](https://news.ycombinator.com/item?id=35466675) - [What happens when you leak AWS credentials and how AWS minimizes the damage](https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
 * [2023-04-06, 09:36:08](https://news.ycombinator.com/item?id=35466201) - [Simply explained: How does GPT work?](https://confusedbit.dev/posts/how_does_gpt_work/)
@@ -9,7 +9,7 @@
 * [2023-04-06, 04:31:41](https://news.ycombinator.com/item?id=35464152) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
 * [2023-04-06, 04:06:19](https://news.ycombinator.com/item?id=35464000) - [Biscuit 3.0](https://www.biscuitsec.org/blog/biscuit-3-0/)
 * [2023-04-06, 02:01:47](https://news.ycombinator.com/item?id=35463182) - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
-* [2023-04-06, 01:26:50](https://news.ycombinator.com/item?id=35462910) - [Wi-Fi over Coaxial](https://wifiovercoax.mcleodnet.com/)
+* [2023-04-06, 01:26:50](https://news.ycombinator.com/item?id=35462910) - [Wi-Fi over Coaxial (2006)](https://wifiovercoax.mcleodnet.com/)
 * [2023-04-06, 01:10:44](https://news.ycombinator.com/item?id=35462784) - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
 * [2023-04-06, 00:15:20](https://news.ycombinator.com/item?id=35462378) - [Master Plan Part 3](https://www.tesla.com/blog/master-plan-part-3)
 * [2023-04-05, 23:44:41](https://news.ycombinator.com/item?id=35462091) - [Purkinje Effect](https://en.wikipedia.org/wiki/Purkinje_effect)
