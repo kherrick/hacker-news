@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-06, 22:04:41](https://news.ycombinator.com/item?id=35475175) - [Transactions Aren&#x27;t Everything](https://www.michaelnygard.com/blog/2023/04/transactions-arent-everything/)
+* [2023-04-06, 21:46:22](https://news.ycombinator.com/item?id=35474968) - [4000x Speedup in Reinforcement Learning with Jax](https://chrislu.page/blog/meta-disco/)
 * [2023-04-06, 21:39:33](https://news.ycombinator.com/item?id=35474895) - [Illustrations of ‘Unseen’ Japanese Maintenance Trains That Only Work at Night](https://www.spoon-tamago.com/toei-project-unseen-maintenance-trains/)
 * [2023-04-06, 21:34:41](https://news.ycombinator.com/item?id=35474837) - [Be careful what you test or deploy to Vercel](https://twitter.com/shoeboxdnb/status/1643639130914451457)
 * [2023-04-06, 21:00:32](https://news.ycombinator.com/item?id=35474365) - [Flexport (YC W14) Is Hiring](https://flexport.com/careers)
@@ -21,7 +22,6 @@
 * [2023-04-06, 14:23:49](https://news.ycombinator.com/item?id=35468671) - [Shitty First Drafts (1995) [pdf]](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf)
 * [2023-04-06, 14:20:10](https://news.ycombinator.com/item?id=35468637) - [Website hosted on a 24 year old Linux server](http://raq.serialport.org/)
 * [2023-04-06, 14:12:05](https://news.ycombinator.com/item?id=35468540) - [Defamed by ChatGPT](https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/)
-* [2023-04-06, 13:20:53](https://news.ycombinator.com/item?id=35467981) - [Haiku Depot Server Technology Modernisation](https://www.haiku-os.org/blog/apl/2023-04-02_hds_modernisation/)
 * [2023-04-06, 12:22:10](https://news.ycombinator.com/item?id=35467367) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
 * [2023-04-06, 11:03:20](https://news.ycombinator.com/item?id=35466718) - [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
 * [2023-04-06, 10:55:58](https://news.ycombinator.com/item?id=35466675) - [What happens when you leak AWS credentials and how AWS minimizes the damage](https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
