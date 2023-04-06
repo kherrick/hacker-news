@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-06, 20:08:14",
+      "https://news.ycombinator.com/item?id=35473664"
+    ],
+    [
+      "Benchmarking the accuracy of GPT3.5&#x27;s and GPT-4&#x27;s code generation abilities",
+      "https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md"
+    ]
+  ],
+  [
+    [
+      "2023-04-06, 19:47:06",
+      "https://news.ycombinator.com/item?id=35473422"
+    ],
+    [
+      "Europe drastically cut its energy consumption this winter",
+      "https://www.economist.com/graphic-detail/2023/04/05/europe-drastically-cut-its-energy-consumption-this-winter"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 17:33:13",
       "https://news.ycombinator.com/item?id=35471656"
     ],
@@ -65,18 +85,8 @@
       "https://news.ycombinator.com/item?id=35471129"
     ],
     [
-      "Show HN: ADHD-friendly pomodoro web app",
+      "Show HN: ADHD-friendly Pomodoro web app",
       "https://brainpls.work/"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 16:52:04",
-      "https://news.ycombinator.com/item?id=35471091"
-    ],
-    [
-      "Show HN: Machato — A native macOS client for ChatGPT",
-      "https://untimelyunicorn.gumroad.com/l/machato"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-04-06, 16:05:51",
-      "https://news.ycombinator.com/item?id=35470371"
-    ],
-    [
-      "Build faster with Buck2: Our open source build system",
-      "https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/"
-    ]
-  ],
-  [
-    [
       "2023-04-06, 15:40:17",
       "https://news.ycombinator.com/item?id=35469908"
     ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=35469632"
     ],
     [
-      "Spotting and Avoiding Heap Fragmentation in Rust Applications",
+      "Spotting and avoiding heap fragmentation in Rust applications",
       "https://www.svix.com/blog/heap-fragmentation-in-rust-applications/"
     ]
   ],
@@ -161,22 +161,22 @@
   ],
   [
     [
+      "2023-04-06, 14:36:49",
+      "https://news.ycombinator.com/item?id=35468855"
+    ],
+    [
+      "Tesla workers shared sensitive images recorded by customer cars",
+      "https://www.reuters.com/technology/tesla-workers-shared-sensitive-images-recorded-by-customer-cars-2023-04-06/"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 14:30:10",
       "https://news.ycombinator.com/item?id=35468753"
     ],
     [
       "If we lose the Internet Archive, we’re screwed",
       "https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 13:51:44",
-      "https://news.ycombinator.com/item?id=35468304"
-    ],
-    [
-      "Meta Releases New AI-Based Photo Segmentation Tool to Everybody",
-      "https://arstechnica.com/information-technology/2023/04/meta-introduces-ai-model-that-can-isolate-and-mask-objects-within-images/"
     ]
   ],
   [
