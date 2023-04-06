@@ -82,6 +82,7 @@
 * [2023-04-04, 10:29:10](https://news.ycombinator.com/item?id=35437473) - [AMD and Jedec Are Collaborating on DDR5 MRDIMMs at a Blistering 17,600 MT&#x2F;S](https://hothardware.com/news/ddr5-mrdimms-standardized-up-to-17600)
 * [2023-04-04, 10:25:36](https://news.ycombinator.com/item?id=35437449) - [TikTok fined £12.7M for UK data protection law breaches – TikTok](https://www.theguardian.com/technology/2023/apr/04/tiktok-fined-uk-data-protection-law-breaches)
 * [2023-04-04, 10:24:40](https://news.ycombinator.com/item?id=35437443) - [A passenger aircraft that flies around the world at Mach 9? Sure, why not](https://arstechnica.com/science/2023/04/a-passenger-aircraft-that-flies-around-the-world-at-mach-9-sure-why-not/)
+* [2023-04-04, 10:21:22](https://news.ycombinator.com/item?id=35437420) - [Campanology](https://en.wikipedia.org/wiki/Campanology)
 * [2023-04-04, 10:17:22](https://news.ycombinator.com/item?id=35437401) - [In Defense of Prompt Engineering](https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/)
 * [2023-04-04, 10:16:56](https://news.ycombinator.com/item?id=35437397) - [Using ultrasound attack to disarm a smart-home system](https://www.theregister.com/2023/04/04/siri_alexa_cortana_google_nuit/)
 * [2023-04-04, 09:52:57](https://news.ycombinator.com/item?id=35437254) - [We need a much more sophisticated debate about AI](https://www.ft.com/content/87108d74-b4fe-4271-bdfb-7828ba2ea351)

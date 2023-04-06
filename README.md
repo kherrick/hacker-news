@@ -2,6 +2,7 @@
 
 * [2023-04-06, 06:33:01](https://news.ycombinator.com/item?id=35464933) - [Over 40% of the latest YC batch are AI&#x2F;ML startups](https://www.ignorance.ai/p/analyzing-over-100-ai-startups-from-yc)
 * [2023-04-06, 04:31:41](https://news.ycombinator.com/item?id=35464152) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
+* [2023-04-06, 04:06:19](https://news.ycombinator.com/item?id=35464000) - [Biscuit 3.0](https://www.biscuitsec.org/blog/biscuit-3-0/)
 * [2023-04-06, 02:01:47](https://news.ycombinator.com/item?id=35463182) - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
 * [2023-04-06, 01:10:44](https://news.ycombinator.com/item?id=35462784) - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
 * [2023-04-05, 23:11:59](https://news.ycombinator.com/item?id=35461777) - [Galaxy Simulation](https://galaxym.ovh/)
@@ -23,11 +24,10 @@
 * [2023-04-05, 15:44:12](https://news.ycombinator.com/item?id=35456059) - [A trick to reaching flow: Leave your work broken](https://census.dev/blog/an-on-ramp-to-flow)
 * [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World](https://alex.miller.garden/grid-world/)
 * [2023-04-05, 15:11:50](https://news.ycombinator.com/item?id=35455566) - [Segment Anything Model (SAM) can &quot;cut out&quot; any object in an image](https://segment-anything.com/)
-* [2023-04-05, 12:28:49](https://news.ycombinator.com/item?id=35452963) - [CAN Injection: Keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2023-04-04, 20:16:33](https://news.ycombinator.com/item?id=35445312) - [Show HN: Want something better than k-means? Try BanditPAM](https://github.com/motiwari/BanditPAM)
 * [2023-04-04, 11:43:30](https://news.ycombinator.com/item?id=35438072) - [Acoustic Shadow in the Civil War](http://www.nellaware.com/blog/acoustic-shadow-in-the-civil-war.html)
 * [2023-04-04, 10:29:10](https://news.ycombinator.com/item?id=35437473) - [AMD and Jedec Are Collaborating on DDR5 MRDIMMs at a Blistering 17,600 MT&#x2F;S](https://hothardware.com/news/ddr5-mrdimms-standardized-up-to-17600)
-* [2023-04-04, 05:23:32](https://news.ycombinator.com/item?id=35435431) - [Beetle Carapaces in Basohli Miniature Paintings (ca. 1660–1700)](https://publicdomainreview.org/collection/basohli-beetle-paintings)
+* [2023-04-04, 10:21:22](https://news.ycombinator.com/item?id=35437420) - [Campanology](https://en.wikipedia.org/wiki/Campanology)
 * [2023-04-03, 17:24:45](https://news.ycombinator.com/item?id=35427774) - [Army researchers detect broadest frequencies ever with quantum receiver (2021)](https://www.army.mil/article/242980/army_researchers_detect_broadest_frequencies_ever_with_novel_quantum_receiver)
 * [2023-04-03, 16:54:02](https://news.ycombinator.com/item?id=35427216) - [A Brief History of Semiconductor Packaging [video]](https://www.youtube.com/watch?v=nNpuiJitKwk)
 

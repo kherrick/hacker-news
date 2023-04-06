@@ -8,6 +8,7 @@
 * [2023-04-06, 05:02:32](https://news.ycombinator.com/item?id=35464330) - [I cannot wait for this deluge of AI products to be over](https://news.ycombinator.com/item?id=35464330)
 * [2023-04-06, 04:31:41](https://news.ycombinator.com/item?id=35464152) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
 * [2023-04-06, 04:31:25](https://news.ycombinator.com/item?id=35464150) - [Zendesk created a fake band “Zendesk Alternative” that ranks first in SEO](http://zendeskalternative.com)
+* [2023-04-06, 04:06:19](https://news.ycombinator.com/item?id=35464000) - [Biscuit 3.0](https://www.biscuitsec.org/blog/biscuit-3-0/)
 * [2023-04-06, 03:27:08](https://news.ycombinator.com/item?id=35463790) - [Ask HN: Self hosted email, Cloud storage and dovecot](https://news.ycombinator.com/item?id=35463790)
 * [2023-04-06, 03:05:42](https://news.ycombinator.com/item?id=35463629) - [Club for websites weighting less than 1kb](https://1kb.club/)
 * [2023-04-06, 03:05:02](https://news.ycombinator.com/item?id=35463622) - [The Last Temptation of Christ](https://web.archive.org/web/20180101160950/https://squid314.livejournal.com/324957.html)
