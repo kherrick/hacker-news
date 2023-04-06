@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-04-06, 13:12:48",
+      "https://news.ycombinator.com/item?id=35467892"
+    ],
+    [
+      "Layoffs are up nearly fivefold – 270k so far in 2023",
+      "https://www.cnbc.com/2023/04/06/layoffs-are-up-nearly-fivefold-so-far-this-year-with-tech-companies-leading-the-way.html"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 12:55:10",
       "https://news.ycombinator.com/item?id=35467711"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-04-05, 22:54:18",
-      "https://news.ycombinator.com/item?id=35461596"
-    ],
-    [
-      "I don&#x27;t want streaming music, I just want to stream my music",
-      "https://coryd.dev/posts/2023/i-dont-want-streaming-music/"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 22:11:58",
       "https://news.ycombinator.com/item?id=35461106"
     ],
@@ -217,16 +217,6 @@
     [
       "The Bitcoin whitepaper is hidden in every copy of macOS",
       "https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 21:10:35",
-      "https://news.ycombinator.com/item?id=35460432"
-    ],
-    [
-      "No-cost access to the latest PDF standard: ISO 32000-2 (PDF 2.0)",
-      "https://www.pdfa.org/sponsored-standards/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Segment Anything Model (SAM) can &quot;cut out&quot; any object in an image",
       "https://segment-anything.com/"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 14:18:44",
+      "https://news.ycombinator.com/item?id=35454666"
+    ],
+    [
+      "Carnac: Keystroke and Mouse Visualizer",
+      "https://github.com/bfritscher/carnac"
     ]
   ],
   [
