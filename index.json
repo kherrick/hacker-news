@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-04-06, 18:31:31",
-      "https://news.ycombinator.com/item?id=35472430"
+      "2023-04-06, 19:28:29",
+      "https://news.ycombinator.com/item?id=35473213"
     ],
     [
-      "Book Review: The Arctic Hysterias",
-      "https://astralcodexten.substack.com/p/book-review-the-arctic-hysterias"
+      "Tesla voyeur employees spy on customers – these creeps should lose their jobs",
+      "https://www.youtube.com/watch?v=3PnZ1szh6Dg"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=35470915"
     ],
     [
-      "Show HN: Tabby – A Self-Hosted GitHub Copilot",
+      "Show HN: Tabby – A self-hosted GitHub Copilot",
       "https://github.com/TabbyML/tabby"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=35470905"
     ],
     [
-      "System design and the cost of architectural complexity",
+      "System design and the cost of architectural complexity (2013)",
       "https://dspace.mit.edu/handle/1721.1/79551"
     ]
   ],
@@ -117,6 +117,16 @@
     [
       "Linux 6.4 Bringing Apple M2 Additions for 2022 MacBook and Mac Mini",
       "https://www.phoronix.com/news/Apple-M2-Device-Tree-Linux-6.4"
+    ]
+  ],
+  [
+    [
+      "2023-04-06, 16:05:51",
+      "https://news.ycombinator.com/item?id=35470371"
+    ],
+    [
+      "Build faster with Buck2: Our open source build system",
+      "https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/"
     ]
   ],
   [
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=35469276"
     ],
     [
-      "Announcing WCGI: WebAsseAmbly and CGI",
+      "Announcing WCGI: WebAssembly and CGI",
       "https://wasmer.io/posts/announcing-wcgi"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "The City That Fell Off a Cliff",
       "https://publicdomainreview.org/essay/the-city-that-fell-off-a-cliff"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 15:24:53",
-      "https://news.ycombinator.com/item?id=35455770"
-    ],
-    [
-      "Grid World",
-      "https://alex.miller.garden/grid-world/"
     ]
   ],
   [
