@@ -2,7 +2,6 @@
 
 * [2023-04-06, 12:01:13](https://news.ycombinator.com/item?id=35467186) - [WorkRamp (YC S16) Is Hiring a Product Manager (Remote)](https://www.ycombinator.com/companies/workramp/jobs/WaMUlm2-product-manager)
 * [2023-04-06, 11:57:42](https://news.ycombinator.com/item?id=35467159) - [Show HN: Curiosity of the Day](https://www.curiosityoftheday.com/)
-* [2023-04-06, 11:21:06](https://news.ycombinator.com/item?id=35466864) - [Golf has a problem: people are hitting the ball too far](https://www.npr.org/2023/04/06/1167772714/golf-ball-change-rule-augusta-tiger-woods-pros-courses)
 * [2023-04-06, 11:03:20](https://news.ycombinator.com/item?id=35466718) - [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
 * [2023-04-06, 10:55:58](https://news.ycombinator.com/item?id=35466675) - [What happens when you leak AWS credentials and how AWS minimizes the damage](https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
 * [2023-04-06, 09:36:08](https://news.ycombinator.com/item?id=35466201) - [Simply explained: How does GPT work?](https://confusedbit.dev/posts/how_does_gpt_work/)
@@ -16,6 +15,7 @@
 * [2023-04-05, 23:44:41](https://news.ycombinator.com/item?id=35462091) - [Purkinje Effect](https://en.wikipedia.org/wiki/Purkinje_effect)
 * [2023-04-05, 23:11:59](https://news.ycombinator.com/item?id=35461777) - [Galaxy Simulation](https://galaxym.ovh/)
 * [2023-04-05, 22:54:18](https://news.ycombinator.com/item?id=35461596) - [I don&#x27;t want streaming music, I just want to stream my music](https://coryd.dev/posts/2023/i-dont-want-streaming-music/)
+* [2023-04-05, 22:37:43](https://news.ycombinator.com/item?id=35461414) - [AI is coming for voice actors?](https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note/)
 * [2023-04-05, 22:11:58](https://news.ycombinator.com/item?id=35461106) - [Family Matters: Everyday Life in the Neo-Assyrian Empire](https://www.laphamsquarterly.org/roundtable/family-matters)
 * [2023-04-05, 22:03:38](https://news.ycombinator.com/item?id=35461011) - [The Bitcoin whitepaper is hidden in every copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
 * [2023-04-05, 21:10:35](https://news.ycombinator.com/item?id=35460432) - [No-cost access to the latest PDF standard: ISO 32000-2 (PDF 2.0)](https://www.pdfa.org/sponsored-standards/)
