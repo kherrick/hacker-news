@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-06, 07:42:40",
+      "https://news.ycombinator.com/item?id=35465476"
+    ],
+    [
+      "Pink Floyd inspired research into medieval monks and volcanology",
+      "https://arstechnica.com/science/2023/04/how-pink-floyd-inspired-research-into-medieval-monks-and-volcanology/"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 07:15:06",
       "https://news.ycombinator.com/item?id=35465264"
     ],
@@ -37,6 +47,16 @@
     [
       "Try out Clojure libraries via rebel-readline",
       "https://github.com/eval/deps-try"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 23:44:41",
+      "https://news.ycombinator.com/item?id=35462091"
+    ],
+    [
+      "Purkinje Effect",
+      "https://en.wikipedia.org/wiki/Purkinje_effect"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Indie Hackers is indie again",
       "https://www.indiehackers.com/product/indie-hackers/indie-hackers-is-indie-again--NSIAlb7LggSjzTavQZb"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 20:52:31",
-      "https://news.ycombinator.com/item?id=35460219"
-    ],
-    [
-      "TPU v4 provides exaFLOPS-scale ML with efficiency gains",
-      "https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "APT Browse: A web browser for the contents of Debian (and Ubuntu) packages",
       "https://www.apt-browse.org/"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 17:14:34",
-      "https://news.ycombinator.com/item?id=35457384"
-    ],
-    [
-      "Deposit insurance maximization as a service",
-      "https://www.bitsaboutmoney.com/archive/deposit-insurance-maximization-as-a-service/"
     ]
   ],
   [
