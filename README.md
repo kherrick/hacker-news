@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-06, 23:01:05](https://news.ycombinator.com/item?id=35475696) - [Apple Store Robbed of $500K in iPhones After Thieves Tunnel Through Coffee Shop](https://www.macrumors.com/2023/04/06/washington-apple-store-theft/)
 * [2023-04-06, 22:39:28](https://news.ycombinator.com/item?id=35475482) - [Is it my fault if you can&#x27;t handle the truth?](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
 * [2023-04-06, 22:17:27](https://news.ycombinator.com/item?id=35475286) - [The Artistic Partnership of Lady Frieda Harris and Aleister Crowley](https://www.laphamsquarterly.org/roundtable/analysis-does-cramp-painter)
 * [2023-04-06, 22:04:41](https://news.ycombinator.com/item?id=35475175) - [Transactions Aren&#x27;t Everything](https://www.michaelnygard.com/blog/2023/04/transactions-arent-everything/)
@@ -8,7 +9,6 @@
 * [2023-04-06, 21:34:41](https://news.ycombinator.com/item?id=35474837) - [Be careful what you test or deploy to Vercel](https://twitter.com/shoeboxdnb/status/1643639130914451457)
 * [2023-04-06, 21:00:32](https://news.ycombinator.com/item?id=35474365) - [Flexport (YC W14) Is Hiring](https://flexport.com/careers)
 * [2023-04-06, 20:47:28](https://news.ycombinator.com/item?id=35474172) - [Are your memory-bound benchmarking timings normally distributed?](https://lemire.me/blog/2023/04/06/are-your-memory-bound-benchmarking-timings-normally-distributed/)
-* [2023-04-06, 20:45:19](https://news.ycombinator.com/item?id=35474145) - [State-of-the-Art Chatbot, Vicuna-7B, now runs on MacBook with GPU acceleration](https://twitter.com/lmsysorg/status/1644060638472470528)
 * [2023-04-06, 19:30:54](https://news.ycombinator.com/item?id=35473241) - [The Life Engine](https://thelifeengine.net/)
 * [2023-04-06, 18:54:30](https://news.ycombinator.com/item?id=35472750) - [A radiation hard RISC-V microprocessor for high-energy physics applications](https://arxiv.org/abs/2304.02410)
 * [2023-04-06, 17:15:10](https://news.ycombinator.com/item?id=35471420) - [Gource – Animate your Git history](https://gource.io/)
