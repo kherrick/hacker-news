@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 17:01:35](https://news.ycombinator.com/item?id=35471227) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35471227)
+* [2023-04-06, 16:40:17](https://news.ycombinator.com/item?id=35470915) - [Show HN: Tabby – A Self-Hosted GitHub Copilot](https://github.com/TabbyML/tabby)
+* [2023-04-06, 16:39:40](https://news.ycombinator.com/item?id=35470905) - [System design and the cost of architectural complexity](https://dspace.mit.edu/handle/1721.1/79551)
 * [2023-04-06, 16:08:26](https://news.ycombinator.com/item?id=35470422) - [Who Owns SpongeBob? AI Shakes Hollywood’s Creative Foundation](https://www.wsj.com/articles/ai-chatgpt-hollywood-intellectual-property-spongebob-81fd5d15)
 * [2023-04-06, 16:07:20](https://news.ycombinator.com/item?id=35470392) - [Linux 6.4 Bringing Apple M2 Additions for 2022 MacBook and Mac Mini](https://www.phoronix.com/news/Apple-M2-Device-Tree-Linux-6.4)
 * [2023-04-06, 16:05:51](https://news.ycombinator.com/item?id=35470371) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
