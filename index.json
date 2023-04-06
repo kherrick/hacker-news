@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-04-06, 13:39:59",
-      "https://news.ycombinator.com/item?id=35468168"
-    ],
-    [
-      "Rust&#x27;s Poor Composability",
-      "https://thedav.is/post/rusts-poor-composability/"
-    ]
-  ],
-  [
-    [
       "2023-04-06, 13:33:45",
       "https://news.ycombinator.com/item?id=35468103"
     ],
@@ -147,16 +137,6 @@
     [
       "JSON vs. XML",
       "https://corecursive.com/json-vs-xml-douglas-crockford/#"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 12:22:10",
-      "https://news.ycombinator.com/item?id=35467367"
-    ],
-    [
-      "C Strings and my slow descent to madness",
-      "https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2023-04-05, 14:18:44",
+      "https://news.ycombinator.com/item?id=35454666"
+    ],
+    [
+      "Carnac: Keystroke and Mouse Visualizer",
+      "https://github.com/bfritscher/carnac"
+    ]
+  ],
+  [
+    [
       "2023-04-04, 10:29:10",
       "https://news.ycombinator.com/item?id=35437473"
     ],
@@ -297,6 +287,16 @@
     [
       "Everything Is a Practice",
       "https://luxagraf.net/essay/everything-is-a-practice"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 16:54:02",
+      "https://news.ycombinator.com/item?id=35427216"
+    ],
+    [
+      "A Brief History of Semiconductor Packaging [video]",
+      "https://www.youtube.com/watch?v=nNpuiJitKwk"
     ]
   ]
 ]
