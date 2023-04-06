@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 18:00:38](https://news.ycombinator.com/item?id=35471989) - [Twitter devalued its top status symbol and what it can do now](https://www.getflack.com/p/please-just-take-the-checkmark-away)
 * [2023-04-06, 17:46:54](https://news.ycombinator.com/item?id=35471826) - [Tesla workers shared images from car cameras, including “scenes of intimacy”](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
 * [2023-04-06, 17:15:10](https://news.ycombinator.com/item?id=35471420) - [Gource – Animate your Git history](https://gource.io/)
 * [2023-04-06, 17:01:35](https://news.ycombinator.com/item?id=35471227) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35471227)
@@ -21,6 +22,7 @@
 * [2023-04-06, 15:06:26](https://news.ycombinator.com/item?id=35469319) - [Italy’s ChatGPT Ban Spreads to France, Germany and Ireland](https://stealthoptional.com/news/italys-chatgpt-ban-spreads-to-france-germany-and-ireland/)
 * [2023-04-06, 15:03:41](https://news.ycombinator.com/item?id=35469276) - [Announcing WCGI: WebAsseAmbly and CGI](https://wasmer.io/posts/announcing-wcgi)
 * [2023-04-06, 14:48:24](https://news.ycombinator.com/item?id=35469033) - [The world moves slower than you think: a case for ChatGPT skepticism](https://old.reddit.com/r/ChatGPT/comments/12cr1gb/the_real_world_moves_slower_than_you_think_a_case/)
+* [2023-04-06, 14:45:20](https://news.ycombinator.com/item?id=35468981) - [Show HN: Sym, define just-in-time access workflows in code](https://symops.com/)
 * [2023-04-06, 14:36:49](https://news.ycombinator.com/item?id=35468855) - [Tesla workers shared sensitive images recorded by customer cars](https://www.reuters.com/technology/tesla-workers-shared-sensitive-images-recorded-by-customer-cars-2023-04-06/)
 * [2023-04-06, 14:32:29](https://news.ycombinator.com/item?id=35468786) - [Ubuntu Touch OTA-1 Focal brings Ubuntu 20.04 LTS to smartphones](https://liliputing.com/ubuntu-touch-ota-1-focal-brings-ubuntu-20-04-lts-to-smartphones/)
 * [2023-04-06, 14:30:10](https://news.ycombinator.com/item?id=35468753) - [If we lose the Internet Archive, we&#x27;re screwed – The Statesman](https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/)
