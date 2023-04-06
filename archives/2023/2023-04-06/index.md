@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 19:28:29](https://news.ycombinator.com/item?id=35473213) - [Tesla voyeur employees spy on customers – these creeps should lose their jobs](https://www.youtube.com/watch?v=3PnZ1szh6Dg)
 * [2023-04-06, 18:34:58](https://news.ycombinator.com/item?id=35472475) - [Is the government lying to us about gas stoves?](https://philip.greenspun.com/blog/2023/04/06/is-the-government-lying-to-us-about-gas-stoves/)
 * [2023-04-06, 18:31:31](https://news.ycombinator.com/item?id=35472430) - [Book Review: The Arctic Hysterias](https://astralcodexten.substack.com/p/book-review-the-arctic-hysterias)
 * [2023-04-06, 18:00:38](https://news.ycombinator.com/item?id=35471989) - [Twitter devalued its top status symbol and what it can do now](https://www.getflack.com/p/please-just-take-the-checkmark-away)
