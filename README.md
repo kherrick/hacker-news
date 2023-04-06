@@ -2,12 +2,10 @@
 
 * [2023-04-06, 15:25:25](https://news.ycombinator.com/item?id=35469635) - [Do you get less food when you order online? That&#x27;s what the data shows](https://medium.com/@seangransee/heres-how-much-sweetgreen-shorts-you-when-you-order-online-with-data-c93fb5bc6e26)
 * [2023-04-06, 15:25:18](https://news.ycombinator.com/item?id=35469632) - [Spotting and Avoiding Heap Fragmentation in Rust Applications](https://www.svix.com/blog/heap-fragmentation-in-rust-applications/)
-* [2023-04-06, 15:06:26](https://news.ycombinator.com/item?id=35469319) - [Italy’s ChatGPT Ban Spreads to France, Germany and Ireland](https://stealthoptional.com/news/italys-chatgpt-ban-spreads-to-france-germany-and-ireland/)
 * [2023-04-06, 15:03:41](https://news.ycombinator.com/item?id=35469276) - [Announcing WCGI: WebAsseAmbly and CGI](https://wasmer.io/posts/announcing-wcgi)
 * [2023-04-06, 14:48:24](https://news.ycombinator.com/item?id=35469033) - [The world moves slower than you think: a case for ChatGPT skepticism](https://old.reddit.com/r/ChatGPT/comments/12cr1gb/the_real_world_moves_slower_than_you_think_a_case/)
 * [2023-04-06, 14:32:29](https://news.ycombinator.com/item?id=35468786) - [Ubuntu Touch OTA-1 Focal brings Ubuntu 20.04 LTS to smartphones](https://liliputing.com/ubuntu-touch-ota-1-focal-brings-ubuntu-20-04-lts-to-smartphones/)
 * [2023-04-06, 14:30:10](https://news.ycombinator.com/item?id=35468753) - [If we lose the Internet Archive, we’re screwed](https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/)
-* [2023-04-06, 14:21:19](https://news.ycombinator.com/item?id=35468647) - [Low and moderate alcohol consumption not associated with increased mortality](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802963)
 * [2023-04-06, 14:20:10](https://news.ycombinator.com/item?id=35468637) - [Website hosted on a 24 year old Linux server](http://raq.serialport.org/)
 * [2023-04-06, 14:12:05](https://news.ycombinator.com/item?id=35468540) - [Defamed by ChatGPT: Law professor libeled from whole cloth](https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/)
 * [2023-04-06, 13:53:48](https://news.ycombinator.com/item?id=35468323) - [Remembering the Legacy of Trailblazing Technologist Gordon Moore](https://spectrum.ieee.org/the-legacy-of-gordon-moore)
@@ -26,10 +24,12 @@
 * [2023-04-06, 02:01:47](https://news.ycombinator.com/item?id=35463182) - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
 * [2023-04-05, 23:44:41](https://news.ycombinator.com/item?id=35462091) - [Purkinje Effect](https://en.wikipedia.org/wiki/Purkinje_effect)
 * [2023-04-05, 18:51:14](https://news.ycombinator.com/item?id=35458784) - [Epicurus for Our Time](https://lareviewofbooks.org/article/epicurus-for-our-time/)
+* [2023-04-05, 15:37:06](https://news.ycombinator.com/item?id=35455943) - [The City That Fell Off a Cliff](https://publicdomainreview.org/essay/the-city-that-fell-off-a-cliff)
 * [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World](https://alex.miller.garden/grid-world/)
 * [2023-04-04, 10:29:10](https://news.ycombinator.com/item?id=35437473) - [AMD and Jedec Are Collaborating on DDR5 MRDIMMs at 17,600 MT&#x2F;S](https://hothardware.com/news/ddr5-mrdimms-standardized-up-to-17600)
 * [2023-04-04, 10:21:22](https://news.ycombinator.com/item?id=35437420) - [Campanology](https://en.wikipedia.org/wiki/Campanology)
 * [2023-04-04, 09:20:13](https://news.ycombinator.com/item?id=35437062) - [Everything Is a Practice](https://luxagraf.net/essay/everything-is-a-practice)
+* [2023-04-03, 16:54:02](https://news.ycombinator.com/item?id=35427216) - [A Brief History of Semiconductor Packaging [video]](https://www.youtube.com/watch?v=nNpuiJitKwk)
 
 ## [Archives](archives/index.md)
 
