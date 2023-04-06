@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [WebGPU is available in Chrome Beta (113)](https://developer.chrome.com/blog/webgpu-release/)
+* [2023-04-06, 11:03:20](https://news.ycombinator.com/item?id=35466718) - [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
+* [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [WebGPU is available in Chrome 113](https://developer.chrome.com/blog/webgpu-release/)
 * [2023-04-06, 07:42:40](https://news.ycombinator.com/item?id=35465476) - [Pink Floyd inspired research into medieval monks and volcanology](https://arstechnica.com/science/2023/04/how-pink-floyd-inspired-research-into-medieval-monks-and-volcanology/)
-* [2023-04-06, 07:15:06](https://news.ycombinator.com/item?id=35465264) - [False memories can form within seconds, study finds](https://gizmodo.com/false-memories-can-form-within-seconds-study-finds-1850303900)
 * [2023-04-06, 04:31:41](https://news.ycombinator.com/item?id=35464152) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
 * [2023-04-06, 04:06:19](https://news.ycombinator.com/item?id=35464000) - [Biscuit 3.0](https://www.biscuitsec.org/blog/biscuit-3-0/)
 * [2023-04-06, 02:01:47](https://news.ycombinator.com/item?id=35463182) - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 11:03:20](https://news.ycombinator.com/item?id=35466718) - [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
 * [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [Chrome Ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 * [2023-04-06, 07:42:40](https://news.ycombinator.com/item?id=35465476) - [Pink Floyd inspired research into medieval monks and volcanology](https://arstechnica.com/science/2023/04/how-pink-floyd-inspired-research-into-medieval-monks-and-volcanology/)
 * [2023-04-06, 07:33:43](https://news.ycombinator.com/item?id=35465401) - [Cisco Systems pulled out of Russia and destroyed $23.42M worth of equipment](https://gagadget.com/en/business/232400-cisco-systems-pulled-out-of-russia-and-destroyed-2342m-worth-of-equipment/)
