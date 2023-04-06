@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-04-06, 21:00:32",
+      "https://news.ycombinator.com/item?id=35474365"
+    ],
+    [
+      "Flexport (YC W14) Is Hiring",
+      "https://flexport.com/careers"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 20:45:19",
       "https://news.ycombinator.com/item?id=35474145"
     ],
     [
       "State-of-the-Art Chatbot, Vicuna-7B, now runs on MacBook with GPU acceleration",
       "https://twitter.com/lmsysorg/status/1644060638472470528"
+    ]
+  ],
+  [
+    [
+      "2023-04-06, 20:31:54",
+      "https://news.ycombinator.com/item?id=35473989"
+    ],
+    [
+      "Docker 101",
+      "https://pythonislove.com/docker-101"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-04-06, 17:01:35",
-      "https://news.ycombinator.com/item?id=35471227"
-    ],
-    [
-      "Retool (YC W17) is hiring hackers to combine visual programming with AI",
-      "https://news.ycombinator.com/item?id=35471227"
-    ]
-  ],
-  [
-    [
       "2023-04-06, 16:55:11",
       "https://news.ycombinator.com/item?id=35471129"
     ],
@@ -131,12 +141,12 @@
   ],
   [
     [
-      "2023-04-06, 16:07:20",
-      "https://news.ycombinator.com/item?id=35470392"
+      "2023-04-06, 16:05:51",
+      "https://news.ycombinator.com/item?id=35470371"
     ],
     [
-      "Linux 6.4 Bringing Apple M2 Additions for 2022 MacBook and Mac Mini",
-      "https://www.phoronix.com/news/Apple-M2-Device-Tree-Linux-6.4"
+      "Buck2: Our open source build system",
+      "https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/"
     ]
   ],
   [
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35469908"
     ],
     [
-      "Behind the curtain: what it feels like to work in AI right now",
+      "What it feels like to work in AI right now",
       "https://robotic.substack.com/p/behind-the-curtain-ai"
     ]
   ],
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2023-04-06, 14:45:20",
-      "https://news.ycombinator.com/item?id=35468981"
+      "2023-04-06, 15:03:41",
+      "https://news.ycombinator.com/item?id=35469276"
     ],
     [
-      "Show HN: Sym, define just-in-time access workflows in code",
-      "https://symops.com/"
+      "Announcing WCGI: WebAssembly and CGI",
+      "https://wasmer.io/posts/announcing-wcgi"
     ]
   ],
   [
@@ -201,6 +211,26 @@
   ],
   [
     [
+      "2023-04-06, 14:20:10",
+      "https://news.ycombinator.com/item?id=35468637"
+    ],
+    [
+      "Website hosted on a 24 year old Linux server",
+      "http://raq.serialport.org/"
+    ]
+  ],
+  [
+    [
+      "2023-04-06, 14:12:05",
+      "https://news.ycombinator.com/item?id=35468540"
+    ],
+    [
+      "Defamed by ChatGPT",
+      "https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 13:33:45",
       "https://news.ycombinator.com/item?id=35468103"
     ],
@@ -217,16 +247,6 @@
     [
       "Haiku Depot Server Technology Modernisation",
       "https://www.haiku-os.org/blog/apl/2023-04-02_hds_modernisation/"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 12:22:10",
-      "https://news.ycombinator.com/item?id=35467367"
-    ],
-    [
-      "C Strings and my slow descent to madness",
-      "https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-04-06, 09:36:08",
-      "https://news.ycombinator.com/item?id=35466201"
-    ],
-    [
-      "Simply explained: How does GPT work?",
-      "https://confusedbit.dev/posts/how_does_gpt_work/"
-    ]
-  ],
-  [
-    [
       "2023-04-06, 08:22:20",
       "https://news.ycombinator.com/item?id=35465729"
     ],
     [
       "Chrome ships WebGPU",
       "https://developer.chrome.com/blog/webgpu-release/"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 06:16:59",
-      "https://news.ycombinator.com/item?id=35464816"
-    ],
-    [
-      "A Degenerate Assemblage: Review of “Book Madness”",
-      "https://www.lrb.co.uk/the-paper/v45/n08/anthony-grafton/a-degenerate-assemblage"
     ]
   ],
   [
