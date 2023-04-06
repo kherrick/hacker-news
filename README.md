@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-06, 03:27:08](https://news.ycombinator.com/item?id=35463790) - [Ask HN: Self hosted email, Cloud storage and dovecot](https://news.ycombinator.com/item?id=35463790)
 * [2023-04-06, 02:23:26](https://news.ycombinator.com/item?id=35463339) - [RAM’s New Electric Pickup Truck Aims for Battery Range of 500 Miles](https://www.wsj.com/articles/rams-new-electric-pickup-aims-for-battery-range-of-500-miles-e590bb8b)
 * [2023-04-06, 02:01:47](https://news.ycombinator.com/item?id=35463182) - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
 * [2023-04-06, 01:10:44](https://news.ycombinator.com/item?id=35462784) - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
@@ -23,6 +22,7 @@
 * [2023-04-05, 15:52:36](https://news.ycombinator.com/item?id=35456192) - [Read “Gravity’s Rainbow” fifty years later](https://aurelien2022.substack.com/p/in-praise-of-the-preterite)
 * [2023-04-05, 15:45:59](https://news.ycombinator.com/item?id=35456083) - [A SvelteKit template for building CMS-free editable websites](https://editable.website)
 * [2023-04-05, 15:44:12](https://news.ycombinator.com/item?id=35456059) - [A trick to reaching flow: Leave your work broken](https://census.dev/blog/an-on-ramp-to-flow)
+* [2023-04-05, 15:37:15](https://news.ycombinator.com/item?id=35455948) - [The Rise of the Chiplet](https://semiwiki.com/chiplet/326537-the-rise-of-the-chiplet/)
 * [2023-04-05, 15:30:37](https://news.ycombinator.com/item?id=35455850) - [Perspective: Open Source WebAssembly-Powered BI](https://perspective.finos.org/)
 * [2023-04-05, 15:24:53](https://news.ycombinator.com/item?id=35455770) - [Grid World](https://alex.miller.garden/grid-world/)
 * [2023-04-05, 15:11:50](https://news.ycombinator.com/item?id=35455566) - [Segment Anything Model (SAM) can &quot;cut out&quot; any object in an image](https://segment-anything.com/)
