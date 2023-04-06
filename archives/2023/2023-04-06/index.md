@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 12:55:10](https://news.ycombinator.com/item?id=35467711) - [JSON vs. XML with Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/#)
 * [2023-04-06, 12:22:10](https://news.ycombinator.com/item?id=35467367) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
+* [2023-04-06, 12:09:37](https://news.ycombinator.com/item?id=35467243) - [Mariadb.com is dead, long live MariaDB.org](https://medium.com/@imashadowphantom/mariadb-com-is-dead-long-live-mariadb-org-b8a0ca50a637)
 * [2023-04-06, 12:01:13](https://news.ycombinator.com/item?id=35467186) - [WorkRamp (YC S16) Is Hiring a Product Manager (Remote)](https://www.ycombinator.com/companies/workramp/jobs/WaMUlm2-product-manager)
 * [2023-04-06, 11:57:42](https://news.ycombinator.com/item?id=35467159) - [Show HN: Curiosity of the Day](https://www.curiosityoftheday.com/)
 * [2023-04-06, 11:21:06](https://news.ycombinator.com/item?id=35466864) - [Golf has a problem: people are hitting the ball too far](https://www.npr.org/2023/04/06/1167772714/golf-ball-change-rule-augusta-tiger-woods-pros-courses)
