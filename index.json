@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-04-06, 14:36:49",
-      "https://news.ycombinator.com/item?id=35468855"
-    ],
-    [
-      "Tesla workers shared sensitive images recorded by customer cars",
-      "https://www.reuters.com/technology/tesla-workers-shared-sensitive-images-recorded-by-customer-cars-2023-04-06/"
-    ]
-  ],
-  [
-    [
       "2023-04-06, 14:32:29",
       "https://news.ycombinator.com/item?id=35468786"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=35468753"
     ],
     [
-      "If we lose the Internet Archive, we&#x27;re screwed – The Statesman",
+      "If we lose the Internet Archive, we’re screwed",
       "https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/"
     ]
   ],
@@ -35,8 +25,18 @@
       "https://news.ycombinator.com/item?id=35468647"
     ],
     [
-      "Low and Moderate Alcohol Consumption Not Associated with Increased Mortality",
+      "Low and moderate alcohol consumption not associated with increased mortality",
       "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802963"
+    ]
+  ],
+  [
+    [
+      "2023-04-06, 14:20:10",
+      "https://news.ycombinator.com/item?id=35468637"
+    ],
+    [
+      "Website hosted on a 24 year old Linux server",
+      "http://raq.serialport.org/"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-04-06, 13:28:17",
-      "https://news.ycombinator.com/item?id=35468043"
-    ],
-    [
-      "H. G. Wells interviewing J. V. Stalin (1934)",
-      "https://redsails.org/stalin-and-wells/"
-    ]
-  ],
-  [
-    [
       "2023-04-06, 13:20:53",
       "https://news.ycombinator.com/item?id=35467981"
     ],
@@ -135,8 +125,18 @@
       "https://news.ycombinator.com/item?id=35467711"
     ],
     [
-      "JSON vs. XML with Douglas Crockford",
+      "JSON vs. XML",
       "https://corecursive.com/json-vs-xml-douglas-crockford/#"
+    ]
+  ],
+  [
+    [
+      "2023-04-06, 12:22:10",
+      "https://news.ycombinator.com/item?id=35467367"
+    ],
+    [
+      "C Strings and my slow descent to madness",
+      "https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to"
     ]
   ],
   [
@@ -157,6 +157,16 @@
     [
       "WorkRamp (YC S16) Is Hiring a Product Manager (Remote)",
       "https://www.ycombinator.com/companies/workramp/jobs/WaMUlm2-product-manager"
+    ]
+  ],
+  [
+    [
+      "2023-04-06, 11:03:20",
+      "https://news.ycombinator.com/item?id=35466718"
+    ],
+    [
+      "DevOps uses a capability model, not a maturity model",
+      "https://octopus.com/blog/devops-uses-capability-not-maturity"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2023-04-06, 01:26:50",
-      "https://news.ycombinator.com/item?id=35462910"
-    ],
-    [
-      "Wi-Fi over Coaxial (2006)",
-      "https://wifiovercoax.mcleodnet.com/"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 23:44:41",
       "https://news.ycombinator.com/item?id=35462091"
     ],
@@ -237,16 +237,6 @@
     [
       "Family Matters: Everyday Life in the Neo-Assyrian Empire",
       "https://www.laphamsquarterly.org/roundtable/family-matters"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 19:37:11",
-      "https://news.ycombinator.com/item?id=35459333"
-    ],
-    [
-      "Programmer interrupted: The cost of interruption and context switching (2022)",
-      "https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Carnac: Keystroke and Mouse Visualizer",
       "https://github.com/bfritscher/carnac"
+    ]
+  ],
+  [
+    [
+      "2023-04-04, 10:29:10",
+      "https://news.ycombinator.com/item?id=35437473"
+    ],
+    [
+      "AMD and Jedec Are Collaborating on DDR5 MRDIMMs at 17,600 MT&#x2F;S",
+      "https://hothardware.com/news/ddr5-mrdimms-standardized-up-to-17600"
     ]
   ],
   [
