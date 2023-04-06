@@ -40,6 +40,7 @@
 * [2023-04-03, 18:01:32](https://news.ycombinator.com/item?id=35428504) - [Ask HN: Co-Founder? Seeking Co-Founder?](https://news.ycombinator.com/item?id=35428504)
 * [2023-04-03, 17:54:24](https://news.ycombinator.com/item?id=35428379) - [$70 RISC-V Computer from Pine64 Goes on Sale April 4 – OMG Linux](https://www.omglinux.com/star64-is-a-risc-v-single-board-pc/)
 * [2023-04-03, 17:47:45](https://news.ycombinator.com/item?id=35428225) - [Django 4.2 Released](https://www.djangoproject.com/weblog/2023/apr/03/django-42-released/)
+* [2023-04-03, 17:24:45](https://news.ycombinator.com/item?id=35427774) - [Army researchers detect broadest frequencies ever with quantum receiver (2021)](https://www.army.mil/article/242980/army_researchers_detect_broadest_frequencies_ever_with_novel_quantum_receiver)
 * [2023-04-03, 17:24:23](https://news.ycombinator.com/item?id=35427769) - [Tesla removes parking sensors, the results are predictably terrible](https://www.carexpert.com.au/car-news/tesla-removes-parking-sensors-to-save-money-the-results-are-predictably-terrible)
 * [2023-04-03, 17:10:50](https://news.ycombinator.com/item?id=35427526) - [Google to cut down on employee laptops, services and staplers](https://www.cnbc.com/2023/04/03/google-to-cut-down-on-employee-laptops-services-and-staplers-to-save.html)
 * [2023-04-03, 17:04:29](https://news.ycombinator.com/item?id=35427410) - [Algorithmic Entities (2017)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2954173)
