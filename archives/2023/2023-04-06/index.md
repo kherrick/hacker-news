@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 21:04:28](https://news.ycombinator.com/item?id=35474424) - [Please don&#x27;t use GPT for Security Guidance](https://decodebytes.substack.com/p/please-dont-use-gpt-for-security)
 * [2023-04-06, 21:00:32](https://news.ycombinator.com/item?id=35474365) - [Flexport (YC W14) Is Hiring](https://flexport.com/careers)
+* [2023-04-06, 20:47:28](https://news.ycombinator.com/item?id=35474172) - [Are your memory-bound benchmarking timings normally distributed?](https://lemire.me/blog/2023/04/06/are-your-memory-bound-benchmarking-timings-normally-distributed/)
 * [2023-04-06, 20:45:19](https://news.ycombinator.com/item?id=35474145) - [State-of-the-Art Chatbot, Vicuna-7B, now runs on MacBook with GPU acceleration](https://twitter.com/lmsysorg/status/1644060638472470528)
 * [2023-04-06, 20:31:54](https://news.ycombinator.com/item?id=35473989) - [Docker 101](https://pythonislove.com/docker-101)
 * [2023-04-06, 20:14:42](https://news.ycombinator.com/item?id=35473746) - [US IRS to hire 30k staff over two years as it deploys $80B in new funding](https://www.reuters.com/world/us/us-irs-hire-30000-staff-over-two-years-it-deploys-80-bln-new-funding-2023-04-06/)
