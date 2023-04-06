@@ -14,6 +14,7 @@
 * [2023-04-05, 21:38:55](https://news.ycombinator.com/item?id=35460732) - [Dang is going to have 65,535 karma points soon](https://news.ycombinator.com/user?id=dang)
 * [2023-04-05, 21:10:35](https://news.ycombinator.com/item?id=35460432) - [No-cost access to the latest PDF standard: ISO 32000-2 (PDF 2.0)](https://www.pdfa.org/sponsored-standards/)
 * [2023-04-05, 21:05:51](https://news.ycombinator.com/item?id=35460375) - [Indie Hackers is indie again](https://www.indiehackers.com/product/indie-hackers/indie-hackers-is-indie-again--NSIAlb7LggSjzTavQZb)
+* [2023-04-05, 21:04:51](https://news.ycombinator.com/item?id=35460366) - [ChatGPT invented a sexual harassment scandal and named a real prof as accused](https://www.washingtonpost.com/technology/2023/04/05/chatgpt-lies/)
 * [2023-04-05, 20:52:31](https://news.ycombinator.com/item?id=35460219) - [TPU v4 provides exaFLOPS-scale ML with industry-leading efficiency](https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains)
 * [2023-04-05, 19:48:34](https://news.ycombinator.com/item?id=35459488) - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
 * [2023-04-05, 19:37:11](https://news.ycombinator.com/item?id=35459333) - [Programmer interrupted: The cost of interruption and context switching (2022)](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
