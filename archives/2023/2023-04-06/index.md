@@ -8,6 +8,7 @@
 * [2023-04-06, 14:32:29](https://news.ycombinator.com/item?id=35468786) - [Ubuntu Touch OTA-1 Focal brings Ubuntu 20.04 LTS to smartphones](https://liliputing.com/ubuntu-touch-ota-1-focal-brings-ubuntu-20-04-lts-to-smartphones/)
 * [2023-04-06, 14:30:10](https://news.ycombinator.com/item?id=35468753) - [If we lose the Internet Archive, we&#x27;re screwed – The Statesman](https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/)
 * [2023-04-06, 14:21:19](https://news.ycombinator.com/item?id=35468647) - [Low and Moderate Alcohol Consumption Not Associated with Increased Mortality](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802963)
+* [2023-04-06, 14:20:10](https://news.ycombinator.com/item?id=35468637) - [Website hosted on a 24 year old Linux server](http://raq.serialport.org/)
 * [2023-04-06, 14:12:05](https://news.ycombinator.com/item?id=35468540) - [Defamed by ChatGPT: Law professor libeled from whole cloth](https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/)
 * [2023-04-06, 13:53:48](https://news.ycombinator.com/item?id=35468323) - [Remembering the Legacy of Trailblazing Technologist Gordon Moore](https://spectrum.ieee.org/the-legacy-of-gordon-moore)
 * [2023-04-06, 13:51:44](https://news.ycombinator.com/item?id=35468304) - [Meta Releases New AI-Based Photo Segmentation Tool to Everybody](https://arstechnica.com/information-technology/2023/04/meta-introduces-ai-model-that-can-isolate-and-mask-objects-within-images/)
