@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 21:39:33](https://news.ycombinator.com/item?id=35474895) - [Illustrations of ‘Unseen’ Japanese Maintenance Trains That Only Work at Night](https://www.spoon-tamago.com/toei-project-unseen-maintenance-trains/)
+* [2023-04-06, 21:34:41](https://news.ycombinator.com/item?id=35474837) - [Be careful what you test or deploy to Vercel](https://twitter.com/shoeboxdnb/status/1643639130914451457)
 * [2023-04-06, 21:04:28](https://news.ycombinator.com/item?id=35474424) - [Please don&#x27;t use GPT for Security Guidance](https://decodebytes.substack.com/p/please-dont-use-gpt-for-security)
 * [2023-04-06, 21:00:32](https://news.ycombinator.com/item?id=35474365) - [Flexport (YC W14) Is Hiring](https://flexport.com/careers)
 * [2023-04-06, 20:47:28](https://news.ycombinator.com/item?id=35474172) - [Are your memory-bound benchmarking timings normally distributed?](https://lemire.me/blog/2023/04/06/are-your-memory-bound-benchmarking-timings-normally-distributed/)
