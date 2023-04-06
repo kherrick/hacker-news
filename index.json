@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-06, 18:00:38",
+      "https://news.ycombinator.com/item?id=35471989"
+    ],
+    [
+      "Twitter devalued its top status symbol and what it can do now",
+      "https://www.getflack.com/p/please-just-take-the-checkmark-away"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 17:46:54",
       "https://news.ycombinator.com/item?id=35471826"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2023-04-06, 14:45:20",
+      "https://news.ycombinator.com/item?id=35468981"
+    ],
+    [
+      "Show HN: Sym, define just-in-time access workflows in code",
+      "https://symops.com/"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 14:30:10",
       "https://news.ycombinator.com/item?id=35468753"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-04-06, 12:09:37",
-      "https://news.ycombinator.com/item?id=35467243"
-    ],
-    [
-      "Mariadb.com is dead, long live MariaDB.org",
-      "https://medium.com/@imashadowphantom/mariadb-com-is-dead-long-live-mariadb-org-b8a0ca50a637"
-    ]
-  ],
-  [
-    [
       "2023-04-06, 11:03:20",
       "https://news.ycombinator.com/item?id=35466718"
     ],
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=35465729"
     ],
     [
-      "WebGPU is available in Chrome 113",
+      "Chrome ships WebGPU",
       "https://developer.chrome.com/blog/webgpu-release/"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "A Degenerate Assemblage: Review of “Book Madness”",
       "https://www.lrb.co.uk/the-paper/v45/n08/anthony-grafton/a-degenerate-assemblage"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 04:31:41",
-      "https://news.ycombinator.com/item?id=35464152"
-    ],
-    [
-      "MutexProtected: A C++ Pattern for Easier Concurrency",
-      "https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/"
     ]
   ],
   [
