@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 07:15:06](https://news.ycombinator.com/item?id=35465264) - [False Memories Can Form Within Seconds, Study Finds](https://gizmodo.com/false-memories-can-form-within-seconds-study-finds-1850303900)
 * [2023-04-06, 06:33:01](https://news.ycombinator.com/item?id=35464933) - [Over 40% of the latest YC batch are AI&#x2F;ML startups](https://www.ignorance.ai/p/analyzing-over-100-ai-startups-from-yc)
 * [2023-04-06, 05:02:32](https://news.ycombinator.com/item?id=35464330) - [I cannot wait for this deluge of AI products to be over](https://news.ycombinator.com/item?id=35464330)
 * [2023-04-06, 04:31:41](https://news.ycombinator.com/item?id=35464152) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
