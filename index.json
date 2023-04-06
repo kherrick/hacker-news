@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-06, 04:31:41",
+      "https://news.ycombinator.com/item?id=35464152"
+    ],
+    [
+      "MutexProtected: A C++ Pattern for Easier Concurrency",
+      "https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 02:01:47",
       "https://news.ycombinator.com/item?id=35463182"
     ],
@@ -137,16 +147,6 @@
     [
       "APT Browse: A web browser for the contents of Debian (and Ubuntu) packages",
       "https://www.apt-browse.org/"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 17:14:34",
-      "https://news.ycombinator.com/item?id=35457384"
-    ],
-    [
-      "Deposit insurance maximization as a service",
-      "https://www.bitsaboutmoney.com/archive/deposit-insurance-maximization-as-a-service/"
     ]
   ],
   [
