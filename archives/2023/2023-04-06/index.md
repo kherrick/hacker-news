@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 13:53:48](https://news.ycombinator.com/item?id=35468323) - [Remembering the Legacy of Trailblazing Technologist Gordon Moore](https://spectrum.ieee.org/the-legacy-of-gordon-moore)
 * [2023-04-06, 13:51:44](https://news.ycombinator.com/item?id=35468304) - [Meta Releases New AI-Based Photo Segmentation Tool to Everybody](https://arstechnica.com/information-technology/2023/04/meta-introduces-ai-model-that-can-isolate-and-mask-objects-within-images/)
 * [2023-04-06, 13:43:23](https://news.ycombinator.com/item?id=35468202) - [Frank founder Charlie Javice arrested, charged with defrauding JPMorgan Chase](https://www.cbsnews.com/news/charlie-javice-criminal-charge-fraud-sec/)
+* [2023-04-06, 13:28:17](https://news.ycombinator.com/item?id=35468043) - [H. G. Wells interviewing J. V. Stalin (1934)](https://redsails.org/stalin-and-wells/)
 * [2023-04-06, 13:20:53](https://news.ycombinator.com/item?id=35467981) - [Haiku Depot Server Technology Modernisation](https://www.haiku-os.org/blog/apl/2023-04-02_hds_modernisation/)
 * [2023-04-06, 13:17:53](https://news.ycombinator.com/item?id=35467948) - [Clarence Thomas and the Billionaire](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow)
 * [2023-04-06, 13:15:18](https://news.ycombinator.com/item?id=35467917) - [Show HN: Generate startup ideas based on HN comments](https://hn-ideas.tjcx.me/)
