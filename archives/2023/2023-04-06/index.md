@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 23:15:18](https://news.ycombinator.com/item?id=35475822) - [Airbnb shares fall after probe into unpleasant customer experiences](https://www.reuters.com/business/airbnb-shares-fall-after-probe-into-unpleasant-customer-experiences-2023-04-06/)
 * [2023-04-06, 23:01:05](https://news.ycombinator.com/item?id=35475696) - [Apple Store Robbed of $500K in iPhones After Thieves Tunnel Through Coffee Shop](https://www.macrumors.com/2023/04/06/washington-apple-store-theft/)
 * [2023-04-06, 22:39:28](https://news.ycombinator.com/item?id=35475482) - [Is it my fault if you can&#x27;t handle the truth?](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
 * [2023-04-06, 22:17:27](https://news.ycombinator.com/item?id=35475286) - [The Artistic Partnership of Lady Frieda Harris and Aleister Crowley](https://www.laphamsquarterly.org/roundtable/analysis-does-cramp-painter)

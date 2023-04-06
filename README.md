@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-06, 23:15:18](https://news.ycombinator.com/item?id=35475822) - [Airbnb shares fall after probe into unpleasant customer experiences](https://www.reuters.com/business/airbnb-shares-fall-after-probe-into-unpleasant-customer-experiences-2023-04-06/)
 * [2023-04-06, 23:01:05](https://news.ycombinator.com/item?id=35475696) - [Apple Store Robbed of $500K in iPhones After Thieves Tunnel Through Coffee Shop](https://www.macrumors.com/2023/04/06/washington-apple-store-theft/)
 * [2023-04-06, 22:39:28](https://news.ycombinator.com/item?id=35475482) - [Is it my fault if you can&#x27;t handle the truth?](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
 * [2023-04-06, 22:17:27](https://news.ycombinator.com/item?id=35475286) - [The Artistic Partnership of Lady Frieda Harris and Aleister Crowley](https://www.laphamsquarterly.org/roundtable/analysis-does-cramp-painter)
@@ -13,7 +14,6 @@
 * [2023-04-06, 18:54:30](https://news.ycombinator.com/item?id=35472750) - [A radiation hard RISC-V microprocessor for high-energy physics applications](https://arxiv.org/abs/2304.02410)
 * [2023-04-06, 17:15:10](https://news.ycombinator.com/item?id=35471420) - [Gource – Animate your Git history](https://gource.io/)
 * [2023-04-06, 16:55:11](https://news.ycombinator.com/item?id=35471129) - [Show HN: ADHD-friendly Pomodoro web app](https://brainpls.work/)
-* [2023-04-06, 16:52:04](https://news.ycombinator.com/item?id=35471091) - [Show HN: Machato — A native macOS client for ChatGPT](https://untimelyunicorn.gumroad.com/l/machato)
 * [2023-04-06, 16:40:17](https://news.ycombinator.com/item?id=35470915) - [Show HN: Tabby – A self-hosted GitHub Copilot](https://github.com/TabbyML/tabby)
 * [2023-04-06, 16:39:40](https://news.ycombinator.com/item?id=35470905) - [System design and the cost of architectural complexity (2013)](https://dspace.mit.edu/handle/1721.1/79551)
 * [2023-04-06, 16:05:51](https://news.ycombinator.com/item?id=35470371) - [Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
