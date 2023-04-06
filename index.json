@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=35462378"
     ],
     [
-      "Tesla Master Plan Part 3",
+      "Master Plan Part 3",
       "https://www.tesla.com/blog/master-plan-part-3"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 23:11:59",
+      "https://news.ycombinator.com/item?id=35461777"
+    ],
+    [
+      "Galaxy Simulation",
+      "https://galaxym.ovh/"
     ]
   ],
   [
@@ -17,26 +27,6 @@
     [
       "I don&#x27;t want streaming music, I just want to stream my music",
       "https://coryd.dev/posts/2023/i-dont-want-streaming-music/"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 22:37:43",
-      "https://news.ycombinator.com/item?id=35461414"
-    ],
-    [
-      "AI Is Coming for Voice Actors. Artists Everywhere Should Take Note",
-      "https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note/"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 22:07:53",
-      "https://news.ycombinator.com/item?id=35461062"
-    ],
-    [
-      "I’m an doctor: Here’s what I found when I asked ChatGPT to diagnose my patients",
-      "https://inflecthealth.medium.com/im-an-er-doctor-here-s-what-i-found-when-i-asked-chatgpt-to-diagnose-my-patients-7829c375a9da"
     ]
   ],
   [
@@ -61,22 +51,22 @@
   ],
   [
     [
+      "2023-04-05, 21:10:35",
+      "https://news.ycombinator.com/item?id=35460432"
+    ],
+    [
+      "No-cost access to the latest PDF standard: ISO 32000-2 (PDF 2.0)",
+      "https://www.pdfa.org/sponsored-standards/"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 20:52:31",
       "https://news.ycombinator.com/item?id=35460219"
     ],
     [
       "TPU v4 provides exaFLOPS-scale ML with efficiency gains",
       "https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 19:48:34",
-      "https://news.ycombinator.com/item?id=35459488"
-    ],
-    [
-      "Domain-Specific Languages of Mathematics",
-      "https://github.com/DSLsofMath/DSLsofMath"
     ]
   ],
   [
@@ -137,6 +127,16 @@
     [
       "APT Browse: A web browser for the contents of Debian (and Ubuntu) packages",
       "https://www.apt-browse.org/"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 17:14:34",
+      "https://news.ycombinator.com/item?id=35457384"
+    ],
+    [
+      "Deposit insurance maximization as a service",
+      "https://www.bitsaboutmoney.com/archive/deposit-insurance-maximization-as-a-service/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-04-05, 15:37:15",
+      "https://news.ycombinator.com/item?id=35455948"
+    ],
+    [
+      "The Rise of the Chiplet",
+      "https://semiwiki.com/chiplet/326537-the-rise-of-the-chiplet/"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 15:30:37",
       "https://news.ycombinator.com/item?id=35455850"
     ],
@@ -257,16 +267,6 @@
     [
       "CAN Injection: Keyless car theft",
       "https://kentindell.github.io/2023/04/03/can-injection/"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 10:22:51",
-      "https://news.ycombinator.com/item?id=35451863"
-    ],
-    [
-      "Is RAM wiped before use in another LXC container?",
-      "https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-another-lxc-container"
     ]
   ],
   [
