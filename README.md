@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-06, 17:01:35](https://news.ycombinator.com/item?id=35471227) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35471227)
+* [2023-04-06, 17:00:41](https://news.ycombinator.com/item?id=35471211) - [ChatGPT: Mayor starts legal bid over false bribery claim](https://www.bbc.co.uk/news/technology-65202597)
 * [2023-04-06, 16:55:11](https://news.ycombinator.com/item?id=35471129) - [Show HN: ADHD-friendly pomodoro web app](https://brainpls.work/)
 * [2023-04-06, 16:40:17](https://news.ycombinator.com/item?id=35470915) - [Show HN: Tabby – A Self-Hosted GitHub Copilot](https://github.com/TabbyML/tabby)
 * [2023-04-06, 16:39:40](https://news.ycombinator.com/item?id=35470905) - [System design and the cost of architectural complexity](https://dspace.mit.edu/handle/1721.1/79551)
@@ -11,7 +12,6 @@
 * [2023-04-06, 15:03:41](https://news.ycombinator.com/item?id=35469276) - [Announcing WCGI: WebAsseAmbly and CGI](https://wasmer.io/posts/announcing-wcgi)
 * [2023-04-06, 14:32:29](https://news.ycombinator.com/item?id=35468786) - [Ubuntu Touch OTA-1 Focal brings Ubuntu 20.04 LTS to smartphones](https://liliputing.com/ubuntu-touch-ota-1-focal-brings-ubuntu-20-04-lts-to-smartphones/)
 * [2023-04-06, 14:30:10](https://news.ycombinator.com/item?id=35468753) - [If we lose the Internet Archive, we’re screwed](https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/)
-* [2023-04-06, 14:12:05](https://news.ycombinator.com/item?id=35468540) - [Defamed by ChatGPT: Law professor libeled from whole cloth](https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/)
 * [2023-04-06, 13:53:48](https://news.ycombinator.com/item?id=35468323) - [Remembering the Legacy of Trailblazing Technologist Gordon Moore](https://spectrum.ieee.org/the-legacy-of-gordon-moore)
 * [2023-04-06, 13:51:44](https://news.ycombinator.com/item?id=35468304) - [Meta Releases New AI-Based Photo Segmentation Tool to Everybody](https://arstechnica.com/information-technology/2023/04/meta-introduces-ai-model-that-can-isolate-and-mask-objects-within-images/)
 * [2023-04-06, 13:33:45](https://news.ycombinator.com/item?id=35468103) - [Court Ruling Could Affect the Future Direction of DAOs](https://www.jdsupra.com/legalnews/court-ruling-could-affect-the-future-6662722/)

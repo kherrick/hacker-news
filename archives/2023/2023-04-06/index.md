@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
 * [2023-04-06, 17:01:35](https://news.ycombinator.com/item?id=35471227) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35471227)
+* [2023-04-06, 17:00:41](https://news.ycombinator.com/item?id=35471211) - [ChatGPT: Mayor starts legal bid over false bribery claim](https://www.bbc.co.uk/news/technology-65202597)
 * [2023-04-06, 16:55:11](https://news.ycombinator.com/item?id=35471129) - [Show HN: ADHD-friendly pomodoro web app](https://brainpls.work/)
 * [2023-04-06, 16:40:17](https://news.ycombinator.com/item?id=35470915) - [Show HN: Tabby – A Self-Hosted GitHub Copilot](https://github.com/TabbyML/tabby)
 * [2023-04-06, 16:39:40](https://news.ycombinator.com/item?id=35470905) - [System design and the cost of architectural complexity](https://dspace.mit.edu/handle/1721.1/79551)
