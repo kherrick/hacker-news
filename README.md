@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-06, 01:10:44](https://news.ycombinator.com/item?id=35462784) - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
 * [2023-04-06, 00:15:20](https://news.ycombinator.com/item?id=35462378) - [Master Plan Part 3](https://www.tesla.com/blog/master-plan-part-3)
 * [2023-04-05, 23:11:59](https://news.ycombinator.com/item?id=35461777) - [Galaxy Simulation](https://galaxym.ovh/)
 * [2023-04-05, 22:54:18](https://news.ycombinator.com/item?id=35461596) - [I don&#x27;t want streaming music, I just want to stream my music](https://coryd.dev/posts/2023/i-dont-want-streaming-music/)
@@ -28,7 +29,6 @@
 * [2023-04-05, 13:00:19](https://news.ycombinator.com/item?id=35453400) - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
 * [2023-04-05, 12:28:49](https://news.ycombinator.com/item?id=35452963) - [CAN Injection: Keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2023-04-04, 20:16:33](https://news.ycombinator.com/item?id=35445312) - [Show HN: Want something better than k-means? Try BanditPAM](https://github.com/motiwari/BanditPAM)
-* [2023-04-04, 05:23:32](https://news.ycombinator.com/item?id=35435431) - [Beetle Carapaces in Basohli Miniature Paintings (ca. 1660–1700)](https://publicdomainreview.org/collection/basohli-beetle-paintings)
 * [2023-04-03, 17:24:45](https://news.ycombinator.com/item?id=35427774) - [Army researchers detect broadest frequencies ever with quantum receiver (2021)](https://www.army.mil/article/242980/army_researchers_detect_broadest_frequencies_ever_with_novel_quantum_receiver)
 
 ## [Archives](archives/index.md)
