@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 18:31:31](https://news.ycombinator.com/item?id=35472430) - [Book Review: The Arctic Hysterias](https://astralcodexten.substack.com/p/book-review-the-arctic-hysterias)
 * [2023-04-06, 18:00:38](https://news.ycombinator.com/item?id=35471989) - [Twitter devalued its top status symbol and what it can do now](https://www.getflack.com/p/please-just-take-the-checkmark-away)
 * [2023-04-06, 17:46:54](https://news.ycombinator.com/item?id=35471826) - [Tesla workers shared images from car cameras, including “scenes of intimacy”](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
 * [2023-04-06, 17:19:12](https://news.ycombinator.com/item?id=35471471) - [Show HN: StorySeed – AI Facilitated, immersive, creative learning experience](https://koodup.com/journey/storyseed/)
