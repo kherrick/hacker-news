@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-04-06, 02:23:26",
-      "https://news.ycombinator.com/item?id=35463339"
-    ],
-    [
-      "RAM’s New Electric Pickup Truck Aims for Battery Range of 500 Miles",
-      "https://www.wsj.com/articles/rams-new-electric-pickup-aims-for-battery-range-of-500-miles-e590bb8b"
-    ]
-  ],
-  [
-    [
       "2023-04-06, 02:01:47",
       "https://news.ycombinator.com/item?id=35463182"
     ],
@@ -87,6 +77,16 @@
     [
       "No-cost access to the latest PDF standard: ISO 32000-2 (PDF 2.0)",
       "https://www.pdfa.org/sponsored-standards/"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 20:52:31",
+      "https://news.ycombinator.com/item?id=35460219"
+    ],
+    [
+      "TPU v4 provides exaFLOPS-scale ML with efficiency gains",
+      "https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-04-05, 13:00:19",
-      "https://news.ycombinator.com/item?id=35453400"
+      "2023-04-05, 12:28:49",
+      "https://news.ycombinator.com/item?id=35452963"
     ],
     [
-      "OpenAI Tokenizer",
-      "https://platform.openai.com/tokenizer"
+      "CAN Injection: Keyless car theft",
+      "https://kentindell.github.io/2023/04/03/can-injection/"
     ]
   ],
   [
