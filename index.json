@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-04-06, 15:25:18",
+      "https://news.ycombinator.com/item?id=35469632"
+    ],
+    [
+      "Spotting and Avoiding Heap Fragmentation in Rust Applications",
+      "https://www.svix.com/blog/heap-fragmentation-in-rust-applications/"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 15:06:26",
       "https://news.ycombinator.com/item?id=35469319"
     ],
@@ -257,16 +267,6 @@
     [
       "Grid World",
       "https://alex.miller.garden/grid-world/"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 14:18:44",
-      "https://news.ycombinator.com/item?id=35454666"
-    ],
-    [
-      "Carnac: Keystroke and Mouse Visualizer",
-      "https://github.com/bfritscher/carnac"
     ]
   ],
   [
