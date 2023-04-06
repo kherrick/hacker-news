@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 15:25:25](https://news.ycombinator.com/item?id=35469635) - [Do you get less food when you order online? That&#x27;s what the data shows](https://medium.com/@seangransee/heres-how-much-sweetgreen-shorts-you-when-you-order-online-with-data-c93fb5bc6e26)
 * [2023-04-06, 15:06:26](https://news.ycombinator.com/item?id=35469319) - [Italy’s ChatGPT Ban Spreads to France, Germany and Ireland](https://stealthoptional.com/news/italys-chatgpt-ban-spreads-to-france-germany-and-ireland/)
 * [2023-04-06, 15:03:41](https://news.ycombinator.com/item?id=35469276) - [Announcing WCGI: WebAsseAmbly and CGI](https://wasmer.io/posts/announcing-wcgi)
 * [2023-04-06, 14:48:24](https://news.ycombinator.com/item?id=35469033) - [The world moves slower than you think: a case for ChatGPT skepticism](https://old.reddit.com/r/ChatGPT/comments/12cr1gb/the_real_world_moves_slower_than_you_think_a_case/)
