@@ -2,6 +2,7 @@
 
 * [2023-04-06, 18:00:38](https://news.ycombinator.com/item?id=35471989) - [Twitter devalued its top status symbol and what it can do now](https://www.getflack.com/p/please-just-take-the-checkmark-away)
 * [2023-04-06, 17:46:54](https://news.ycombinator.com/item?id=35471826) - [Tesla workers shared images from car cameras, including “scenes of intimacy”](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
+* [2023-04-06, 17:19:12](https://news.ycombinator.com/item?id=35471471) - [Show HN: StorySeed – AI Facilitated, immersive, creative learning experience](https://koodup.com/journey/storyseed/)
 * [2023-04-06, 17:15:10](https://news.ycombinator.com/item?id=35471420) - [Gource – Animate your Git history](https://gource.io/)
 * [2023-04-06, 17:01:35](https://news.ycombinator.com/item?id=35471227) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35471227)
 * [2023-04-06, 17:00:41](https://news.ycombinator.com/item?id=35471211) - [ChatGPT: Mayor starts legal bid over false bribery claim](https://www.bbc.co.uk/news/technology-65202597)
@@ -18,7 +19,6 @@
 * [2023-04-06, 13:33:45](https://news.ycombinator.com/item?id=35468103) - [Court Ruling Could Affect the Future Direction of DAOs](https://www.jdsupra.com/legalnews/court-ruling-could-affect-the-future-6662722/)
 * [2023-04-06, 13:20:53](https://news.ycombinator.com/item?id=35467981) - [Haiku Depot Server Technology Modernisation](https://www.haiku-os.org/blog/apl/2023-04-02_hds_modernisation/)
 * [2023-04-06, 13:15:18](https://news.ycombinator.com/item?id=35467917) - [Show HN: Generate startup ideas based on HN comments](https://hn-ideas.tjcx.me/)
-* [2023-04-06, 12:55:10](https://news.ycombinator.com/item?id=35467711) - [JSON vs. XML](https://corecursive.com/json-vs-xml-douglas-crockford/#)
 * [2023-04-06, 12:22:10](https://news.ycombinator.com/item?id=35467367) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
 * [2023-04-06, 11:03:20](https://news.ycombinator.com/item?id=35466718) - [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
 * [2023-04-06, 10:55:58](https://news.ycombinator.com/item?id=35466675) - [What happens when you leak AWS credentials and how AWS minimizes the damage](https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
