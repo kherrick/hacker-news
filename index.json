@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-04-06, 00:15:20",
+      "https://news.ycombinator.com/item?id=35462378"
+    ],
+    [
+      "Tesla Master Plan Part 3",
+      "https://www.tesla.com/blog/master-plan-part-3"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 22:54:18",
       "https://news.ycombinator.com/item?id=35461596"
     ],
     [
       "I don&#x27;t want streaming music, I just want to stream my music",
       "https://coryd.dev/posts/2023/i-dont-want-streaming-music/"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 22:37:43",
+      "https://news.ycombinator.com/item?id=35461414"
+    ],
+    [
+      "AI Is Coming for Voice Actors. Artists Everywhere Should Take Note",
+      "https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note/"
+    ]
+  ],
+  [
+    [
+      "2023-04-05, 22:07:53",
+      "https://news.ycombinator.com/item?id=35461062"
+    ],
+    [
+      "I’m an doctor: Here’s what I found when I asked ChatGPT to diagnose my patients",
+      "https://inflecthealth.medium.com/im-an-er-doctor-here-s-what-i-found-when-i-asked-chatgpt-to-diagnose-my-patients-7829c375a9da"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Dang is going to have 65,535 karma points soon",
       "https://news.ycombinator.com/user?id=dang"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 21:05:51",
-      "https://news.ycombinator.com/item?id=35460375"
-    ],
-    [
-      "Indie Hackers is indie again",
-      "https://www.indiehackers.com/product/indie-hackers/indie-hackers-is-indie-again--NSIAlb7LggSjzTavQZb"
     ]
   ],
   [
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2023-04-05, 17:14:34",
-      "https://news.ycombinator.com/item?id=35457384"
-    ],
-    [
-      "Deposit insurance maximization as a service",
-      "https://www.bitsaboutmoney.com/archive/deposit-insurance-maximization-as-a-service/"
-    ]
-  ],
-  [
-    [
       "2023-04-05, 17:11:56",
       "https://news.ycombinator.com/item?id=35457341"
     ],
     [
       "Remembering Bob Lee",
       "https://news.ycombinator.com/item?id=35457341"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 17:03:18",
-      "https://news.ycombinator.com/item?id=35457225"
-    ],
-    [
-      "Run LLaMA and Alpaca on your computer",
-      "https://github.com/cocktailpeanut/dalai"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "A trick to reaching flow: Leave your work broken",
       "https://census.dev/blog/an-on-ramp-to-flow"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 15:37:15",
-      "https://news.ycombinator.com/item?id=35455948"
-    ],
-    [
-      "The Rise of the Chiplet",
-      "https://semiwiki.com/chiplet/326537-the-rise-of-the-chiplet/"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2023-04-04, 06:48:21",
-      "https://news.ycombinator.com/item?id=35435979"
+      "2023-04-04, 05:23:32",
+      "https://news.ycombinator.com/item?id=35435431"
     ],
     [
-      "Reading thermometer temperatures over time from a video",
-      "https://til.simonwillison.net/googlecloud/video-frame-ocr"
+      "Beetle Carapaces in Basohli Miniature Paintings (ca. 1660–1700)",
+      "https://publicdomainreview.org/collection/basohli-beetle-paintings"
+    ]
+  ],
+  [
+    [
+      "2023-04-03, 17:24:45",
+      "https://news.ycombinator.com/item?id=35427774"
+    ],
+    [
+      "Army researchers detect broadest frequencies ever with quantum receiver (2021)",
+      "https://www.army.mil/article/242980/army_researchers_detect_broadest_frequencies_ever_with_novel_quantum_receiver"
     ]
   ]
 ]
