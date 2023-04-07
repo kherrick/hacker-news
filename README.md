@@ -23,7 +23,7 @@
 * [2023-04-07, 07:25:10](https://news.ycombinator.com/item?id=35479071) - [Why ChatGPT and Bing Chat are so good at making things up](https://arstechnica.com/information-technology/2023/04/why-ai-chatbots-are-the-ultimate-bs-machines-and-how-people-hope-to-fix-them/)
 * [2023-04-07, 06:51:55](https://news.ycombinator.com/item?id=35478884) - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
 * [2023-04-07, 05:16:49](https://news.ycombinator.com/item?id=35478296) - [Oscar Night in Hollywood (1948)](https://www.theatlantic.com/magazine/archive/1948/03/oscar-night-in-hollywood/305705/)
-* [2023-04-07, 05:07:16](https://news.ycombinator.com/item?id=35478240) - [NZ’s biggest data breach shows retention is the sleeping giant of data security](https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/)
+* [2023-04-07, 02:36:03](https://news.ycombinator.com/item?id=35477329) - [Deposit Outflows Shine Light on Fed Program That Pays Money-Market Funds](https://www.wsj.com/articles/deposit-outflows-shine-light-on-fed-program-that-pays-money-market-funds-6763e11c)
 * [2023-04-07, 02:07:50](https://news.ycombinator.com/item?id=35477160) - [Reverse Engineering the Facebook Messenger API](https://intuitiveexplanations.com/tech/messenger)
 * [2023-04-06, 19:06:20](https://news.ycombinator.com/item?id=35472930) - [StackLlama: A hands-on guide to train LlaMa with RLHF](https://huggingface.co/blog/stackllama)
 * [2023-04-06, 18:33:17](https://news.ycombinator.com/item?id=35472448) - [A Gambler Who Beat Roulette](https://www.bloomberg.com/features/2023-how-to-beat-roulette-gambler-figures-it-out/)

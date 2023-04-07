@@ -72,6 +72,7 @@
 * [2023-04-07, 03:25:10](https://news.ycombinator.com/item?id=35477671) - [With AI, Astronomers Dig Up the Stars That Birthed the Milky Way](https://www.quantamagazine.org/with-ai-astronomers-dig-up-the-stars-that-birthed-the-milky-way-20230328/)
 * [2023-04-07, 03:12:11](https://news.ycombinator.com/item?id=35477582) - [Elusive ‘einstein’ solves a longstanding math problem](https://www.nytimes.com/2023/03/28/science/mathematics-tiling-einstein.html)
 * [2023-04-07, 02:43:36](https://news.ycombinator.com/item?id=35477385) - [50% IRR with spray-and-pray angel investing](https://wannabeangels.com/p/outsized-irr-with-kirk-ouimet#details)
+* [2023-04-07, 02:36:03](https://news.ycombinator.com/item?id=35477329) - [Deposit Outflows Shine Light on Fed Program That Pays Money-Market Funds](https://www.wsj.com/articles/deposit-outflows-shine-light-on-fed-program-that-pays-money-market-funds-6763e11c)
 * [2023-04-07, 02:07:50](https://news.ycombinator.com/item?id=35477160) - [Reverse Engineering the Facebook Messenger API](https://intuitiveexplanations.com/tech/messenger)
 * [2023-04-07, 01:00:38](https://news.ycombinator.com/item?id=35476736) - [Etleap (YC W13) Is Hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
 * [2023-04-07, 00:56:04](https://news.ycombinator.com/item?id=35476709) - [60M Americans have taxes so simple the IRS could do them automatically](https://www.vox.com/23055489/irs-automatic-filing-prepopulated-returns)
