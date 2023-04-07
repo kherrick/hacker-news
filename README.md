@@ -2,6 +2,7 @@
 
 * [2023-04-07, 18:07:29](https://news.ycombinator.com/item?id=35484811) - [AGI Doom and the Drake Equation](https://iamnotarobot.substack.com/p/agi-doom-and-the-drake-equation)
 * [2023-04-07, 18:04:13](https://news.ycombinator.com/item?id=35484775) - [USA Cycling champion dies after being struck by car in San Francisco’s Presidio](https://www.sfchronicle.com/bayarea/article/usa-cycling-champion-dies-struck-driver-presidio-17883293.php)
+* [2023-04-07, 17:50:18](https://news.ycombinator.com/item?id=35484594) - [Ask Wirecutter: Can You Recommend a Not-Smart TV for Me?](https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/)
 * [2023-04-07, 17:11:42](https://news.ycombinator.com/item?id=35484110) - [Programming-language popularity by GitHub pull requests](https://lemire.me/blog/2023/04/07/programming-language-popularity-by-github-pull-requests/)
 * [2023-04-07, 17:10:28](https://news.ycombinator.com/item?id=35484093) - [Yann LeCun and Andrew Ng: Why the 6-Month AI Pause Is a Bad Idea [video]](https://www.youtube.com/watch?v=BY9KV8uCtj4)
 * [2023-04-07, 17:00:46](https://news.ycombinator.com/item?id=35483975) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
@@ -24,7 +25,6 @@
 * [2023-04-07, 05:07:16](https://news.ycombinator.com/item?id=35478240) - [NZ’s biggest data breach shows retention is the sleeping giant of data security](https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/)
 * [2023-04-07, 04:21:21](https://news.ycombinator.com/item?id=35478007) - [Western Digital cloud services down for 4 days](https://status.mycloud.com/os4)
 * [2023-04-07, 02:07:50](https://news.ycombinator.com/item?id=35477160) - [Reverse Engineering the Facebook Messenger API](https://intuitiveexplanations.com/tech/messenger)
-* [2023-04-06, 23:58:57](https://news.ycombinator.com/item?id=35476236) - [‘Alien calculus’ could save particle physics from infinities](https://www.quantamagazine.org/alien-calculus-could-save-particle-physics-from-infinities-20230406/)
 * [2023-04-06, 19:06:20](https://news.ycombinator.com/item?id=35472930) - [StackLlama: A hands-on guide to train LlaMa with RLHF](https://huggingface.co/blog/stackllama)
 * [2023-04-06, 18:33:17](https://news.ycombinator.com/item?id=35472448) - [A Gambler Who Beat Roulette](https://www.bloomberg.com/features/2023-how-to-beat-roulette-gambler-figures-it-out/)
 * [2023-04-06, 17:54:52](https://news.ycombinator.com/item?id=35471912) - [Powering a Serverless Web: Vercel Joins AWS Marketplace](https://vercel.com/blog/vercel-joins-aws-marketplace)
