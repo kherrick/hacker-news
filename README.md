@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-07, 22:04:51](https://news.ycombinator.com/item?id=35487603) - [Texas bill would criminalize websites that share abortion info](https://www.rollingstone.com/politics/politics-features/texas-abortion-rights-internet-access-pill-1234691494/)
 * [2023-04-07, 21:37:25](https://news.ycombinator.com/item?id=35487311) - [Beyond the PayPal Mafia: A Case Study on the Uber Alumni Network](https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study)
 * [2023-04-07, 21:36:36](https://news.ycombinator.com/item?id=35487303) - [‘AI Pause’ Open Letter Stokes Fear and Controversy](https://spectrum.ieee.org/ai-pause-letter-stokes-fear)
 * [2023-04-07, 21:36:32](https://news.ycombinator.com/item?id=35487302) - [I’m staying at Substack, and will be moving to Substack Notes next week](https://twitter.com/mtaibbi/status/1644431125463351298)
@@ -23,6 +22,7 @@
 * [2023-04-07, 13:34:09](https://news.ycombinator.com/item?id=35481409) - [Perennial rice: Plant once, harvest again and again](https://www.npr.org/2023/03/23/1165680024/perennial-rice-plant-once-harvest-again-and-again)
 * [2023-04-07, 13:22:16](https://news.ycombinator.com/item?id=35481309) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
 * [2023-04-07, 12:54:26](https://news.ycombinator.com/item?id=35481088) - [Exploring nine simultaneously occurring transients on April 12th 1950 (2021)](https://www.nature.com/articles/s41598-021-92162-7)
+* [2023-04-07, 10:32:02](https://news.ycombinator.com/item?id=35480136) - [James Niehues Ski Map Artist](https://jamesniehues.com/)
 * [2023-04-07, 10:18:15](https://news.ycombinator.com/item?id=35480056) - [Codeberg – Fast open source alternative to GitHub](https://codeberg.org/)
 * [2023-04-07, 08:36:20](https://news.ycombinator.com/item?id=35479553) - [Database “sharding” came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 02:36:03](https://news.ycombinator.com/item?id=35477329) - [Deposit Outflows Shine Light on Fed Program That Pays Money-Market Funds](https://www.wsj.com/articles/deposit-outflows-shine-light-on-fed-program-that-pays-money-market-funds-6763e11c)
