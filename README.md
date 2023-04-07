@@ -2,6 +2,7 @@
 
 * [2023-04-07, 21:17:51](https://news.ycombinator.com/item?id=35487093) - [How the Fuck Did We Get Here?](https://fagnerbrack.com/how-the-fuck-did-we-get-here-b9bac6ba7a0f)
 * [2023-04-07, 21:03:57](https://news.ycombinator.com/item?id=35486972) - [Estes Rockets Model Scale 1:100 Replica of SpaceX Falcon 9](https://estesrockets.com/spacex-falcon-9/)
+* [2023-04-07, 20:59:21](https://news.ycombinator.com/item?id=35486923) - [Direct evidence of the use of multiple drugs in Bronze Age from human hair test](https://www.nature.com/articles/s41598-023-31064-2)
 * [2023-04-07, 19:57:14](https://news.ycombinator.com/item?id=35486277) - [LOLDrivers – Living Off the Land Drivers](https://www.loldrivers.io/)
 * [2023-04-07, 18:57:53](https://news.ycombinator.com/item?id=35485552) - [Ask HN: Is it appropriate to ask a startup to let me see their cap table?](https://news.ycombinator.com/item?id=35485552)
 * [2023-04-07, 18:25:49](https://news.ycombinator.com/item?id=35485064) - [Carbon nanotube recognition by human Siglec-14 provokes inflammation](https://www.nature.com/articles/s41565-023-01363-w)
@@ -21,7 +22,6 @@
 * [2023-04-07, 09:24:13](https://news.ycombinator.com/item?id=35479800) - [Board game where tigers hunt goats while goats block their movements](https://github.com/sumn2u/baghchal)
 * [2023-04-07, 08:36:20](https://news.ycombinator.com/item?id=35479553) - [Database “sharding” came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 08:09:33](https://news.ycombinator.com/item?id=35479378) - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
-* [2023-04-07, 07:25:10](https://news.ycombinator.com/item?id=35479071) - [Why ChatGPT and Bing Chat are so good at making things up](https://arstechnica.com/information-technology/2023/04/why-ai-chatbots-are-the-ultimate-bs-machines-and-how-people-hope-to-fix-them/)
 * [2023-04-07, 06:51:55](https://news.ycombinator.com/item?id=35478884) - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
 * [2023-04-07, 05:16:49](https://news.ycombinator.com/item?id=35478296) - [Oscar Night in Hollywood (1948)](https://www.theatlantic.com/magazine/archive/1948/03/oscar-night-in-hollywood/305705/)
 * [2023-04-07, 02:36:03](https://news.ycombinator.com/item?id=35477329) - [Deposit Outflows Shine Light on Fed Program That Pays Money-Market Funds](https://www.wsj.com/articles/deposit-outflows-shine-light-on-fed-program-that-pays-money-market-funds-6763e11c)
