@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-07, 22:57:16](https://news.ycombinator.com/item?id=35488172) - [Abortion Pill Blocked Nationwide Under Order from US Judge](https://www.bloomberg.com/news/articles/2023-04-07/abortion-pill-blocked-nationwide-under-order-from-us-judge)
 * [2023-04-07, 22:26:38](https://news.ycombinator.com/item?id=35487846) - [ArXiv Paper for Cerebras-GPT: Open-Source Compute-Optimal Language Models](https://arxiv.org/abs/2304.03208)
 * [2023-04-07, 21:37:25](https://news.ycombinator.com/item?id=35487311) - [Beyond the PayPal Mafia: A Case Study on the Uber Alumni Network](https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study)
 * [2023-04-07, 21:36:32](https://news.ycombinator.com/item?id=35487302) - [I’m staying at Substack, and will be moving to Substack Notes next week](https://twitter.com/mtaibbi/status/1644431125463351298)
@@ -24,6 +23,7 @@
 * [2023-04-07, 10:32:02](https://news.ycombinator.com/item?id=35480136) - [James Niehues Ski Map Artist](https://jamesniehues.com/)
 * [2023-04-07, 10:18:15](https://news.ycombinator.com/item?id=35480056) - [Codeberg – Fast open source alternative to GitHub](https://codeberg.org/)
 * [2023-04-07, 08:36:20](https://news.ycombinator.com/item?id=35479553) - [Database “sharding” came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
+* [2023-04-07, 08:09:33](https://news.ycombinator.com/item?id=35479378) - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
 * [2023-04-07, 02:36:03](https://news.ycombinator.com/item?id=35477329) - [Deposit Outflows Shine Light on Fed Program That Pays Money-Market Funds](https://www.wsj.com/articles/deposit-outflows-shine-light-on-fed-program-that-pays-money-market-funds-6763e11c)
 * [2023-04-07, 02:07:50](https://news.ycombinator.com/item?id=35477160) - [Reverse Engineering the Facebook Messenger API](https://intuitiveexplanations.com/tech/messenger)
 * [2023-04-06, 19:06:20](https://news.ycombinator.com/item?id=35472930) - [StackLlama: A hands-on guide to train LlaMa with RLHF](https://huggingface.co/blog/stackllama)
