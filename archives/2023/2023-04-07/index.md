@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 16:30:36](https://news.ycombinator.com/item?id=35483539) - [The machines of polymath Tatjana van Vark](https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/)
 * [2023-04-07, 15:53:05](https://news.ycombinator.com/item?id=35482983) - [Wing Commander IV](https://www.filfre.net/2023/04/wing-commander-iv/)
 * [2023-04-07, 15:34:00](https://news.ycombinator.com/item?id=35482706) - [What Archaeology Is Telling Us About the Real Jesus](https://www.nationalgeographic.com/magazine/article/jesus-tomb-archaeology)
 * [2023-04-07, 15:32:35](https://news.ycombinator.com/item?id=35482681) - [Show HN: I built a website editor for TailwindCSS](https://www.webase.com/)

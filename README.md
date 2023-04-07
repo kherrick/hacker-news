@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 16:30:36](https://news.ycombinator.com/item?id=35483539) - [The machines of polymath Tatjana van Vark](https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/)
 * [2023-04-07, 15:53:05](https://news.ycombinator.com/item?id=35482983) - [Wing Commander IV](https://www.filfre.net/2023/04/wing-commander-iv/)
 * [2023-04-07, 15:34:00](https://news.ycombinator.com/item?id=35482706) - [What Archaeology Is Telling Us About the Real Jesus](https://www.nationalgeographic.com/magazine/article/jesus-tomb-archaeology)
 * [2023-04-07, 15:32:35](https://news.ycombinator.com/item?id=35482681) - [Show HN: I built a website editor for TailwindCSS](https://www.webase.com/)
@@ -20,14 +21,13 @@
 * [2023-04-07, 08:09:33](https://news.ycombinator.com/item?id=35479378) - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
 * [2023-04-07, 06:51:55](https://news.ycombinator.com/item?id=35478884) - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
 * [2023-04-07, 05:07:16](https://news.ycombinator.com/item?id=35478240) - [NZ’s biggest data breach shows retention is the sleeping giant of data security](https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/)
-* [2023-04-07, 05:01:32](https://news.ycombinator.com/item?id=35478201) - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt)
 * [2023-04-07, 04:21:21](https://news.ycombinator.com/item?id=35478007) - [Western Digital cloud services down for 4 days](https://status.mycloud.com/os4)
 * [2023-04-07, 02:07:50](https://news.ycombinator.com/item?id=35477160) - [Reverse Engineering the Facebook Messenger API](https://intuitiveexplanations.com/tech/messenger)
 * [2023-04-06, 23:58:57](https://news.ycombinator.com/item?id=35476236) - [‘Alien calculus’ could save particle physics from infinities](https://www.quantamagazine.org/alien-calculus-could-save-particle-physics-from-infinities-20230406/)
+* [2023-04-06, 19:06:20](https://news.ycombinator.com/item?id=35472930) - [StackLlama: A hands-on guide to train LlaMa with RLHF](https://huggingface.co/blog/stackllama)
 * [2023-04-06, 18:33:17](https://news.ycombinator.com/item?id=35472448) - [The Gambler Who Beat Roulette](https://www.bloomberg.com/features/2023-how-to-beat-roulette-gambler-figures-it-out/)
 * [2023-04-06, 17:54:52](https://news.ycombinator.com/item?id=35471912) - [Powering a Serverless Web: Vercel Joins AWS Marketplace](https://vercel.com/blog/vercel-joins-aws-marketplace)
 * [2023-04-06, 12:21:11](https://news.ycombinator.com/item?id=35467361) - [Why I Blog](https://www.dannyguo.com/blog/why-i-blog)
-* [2023-04-06, 12:17:55](https://news.ycombinator.com/item?id=35467327) - [A colorful problem that has long frustrated mathematicians](https://www.quantamagazine.org/only-computers-can-solve-this-map-coloring-problem-from-the-1800s-20230329/)
 * [2023-04-06, 11:43:09](https://news.ycombinator.com/item?id=35467043) - [Lerp](https://rachsmith.com/lerp/)
 * [2023-04-06, 10:29:26](https://news.ycombinator.com/item?id=35466507) - [Interactive: Ethiopian Music Scales](https://www.temesgen.com/learn/music-theory)
 
