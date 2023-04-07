@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 14:52:38](https://news.ycombinator.com/item?id=35482158) - [The Hindu Nationalist Campaign to Promote Yoga](https://www.thenation.com/article/culture/yogathon-hindu-nationalism/)
 * [2023-04-07, 14:33:25](https://news.ycombinator.com/item?id=35481970) - [For Lower-Income Students, Big Tech Internships Can Be Hard to Get](https://www.nytimes.com/2023/04/05/business/tech-internship-application-grind.html)
 * [2023-04-07, 14:13:41](https://news.ycombinator.com/item?id=35481775) - [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/)
 * [2023-04-07, 14:06:55](https://news.ycombinator.com/item?id=35481712) - [U.S. and China wage war beneath the waves – over internet cables](https://www.reuters.com/investigates/special-report/us-china-tech-cables/)
@@ -20,7 +21,6 @@
 * [2023-04-07, 05:07:16](https://news.ycombinator.com/item?id=35478240) - [NZ’s biggest data breach shows retention is the sleeping giant of data security](https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/)
 * [2023-04-07, 05:01:32](https://news.ycombinator.com/item?id=35478201) - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt)
 * [2023-04-07, 04:21:21](https://news.ycombinator.com/item?id=35478007) - [Western Digital cloud services down for 4 days](https://status.mycloud.com/os4)
-* [2023-04-07, 03:28:35](https://news.ycombinator.com/item?id=35477695) - [Administrative Scripting with Julia](https://github.com/ninjaaron/administrative-scripting-with-julia)
 * [2023-04-07, 02:07:50](https://news.ycombinator.com/item?id=35477160) - [Reverse Engineering the Facebook Messenger API](https://intuitiveexplanations.com/tech/messenger)
 * [2023-04-07, 00:32:08](https://news.ycombinator.com/item?id=35476518) - [How does database sharding work?](https://planetscale.com/blog/how-does-database-sharding-work)
 * [2023-04-07, 00:12:28](https://news.ycombinator.com/item?id=35476359) - [Hubble sees possible runaway black hole creating a trail of stars](https://hubblesite.org/contents/news-releases/2023/news-2023-010)

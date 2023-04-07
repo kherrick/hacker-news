@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 14:52:38](https://news.ycombinator.com/item?id=35482158) - [The Hindu Nationalist Campaign to Promote Yoga](https://www.thenation.com/article/culture/yogathon-hindu-nationalism/)
 * [2023-04-07, 14:33:25](https://news.ycombinator.com/item?id=35481970) - [For Lower-Income Students, Big Tech Internships Can Be Hard to Get](https://www.nytimes.com/2023/04/05/business/tech-internship-application-grind.html)
 * [2023-04-07, 14:13:41](https://news.ycombinator.com/item?id=35481775) - [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/)
 * [2023-04-07, 14:06:55](https://news.ycombinator.com/item?id=35481712) - [U.S. and China wage war beneath the waves – over internet cables](https://www.reuters.com/investigates/special-report/us-china-tech-cables/)
