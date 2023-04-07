@@ -3,7 +3,7 @@
 * [2023-04-07, 18:57:53](https://news.ycombinator.com/item?id=35485552) - [Ask HN: Is it appropriate to ask a startup to let me see their cap table?](https://news.ycombinator.com/item?id=35485552)
 * [2023-04-07, 18:25:49](https://news.ycombinator.com/item?id=35485064) - [Carbon nanotube recognition by human Siglec-14 provokes inflammation](https://www.nature.com/articles/s41565-023-01363-w)
 * [2023-04-07, 18:19:42](https://news.ycombinator.com/item?id=35484978) - [Why did Phreesia share my medical data after I opted out?](https://www.statnews.com/2023/04/07/medical-data-privacy-phreesia/)
-* [2023-04-07, 17:11:42](https://news.ycombinator.com/item?id=35484110) - [Programming-language popularity by GitHub pull requests](https://lemire.me/blog/2023/04/07/programming-language-popularity-by-github-pull-requests/)
+* [2023-04-07, 17:50:18](https://news.ycombinator.com/item?id=35484594) - [Ask Wirecutter: Can You Recommend a Not-Smart TV for Me?](https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/)
 * [2023-04-07, 17:10:28](https://news.ycombinator.com/item?id=35484093) - [Yann LeCun and Andrew Ng: Why the 6-Month AI Pause Is a Bad Idea [video]](https://www.youtube.com/watch?v=BY9KV8uCtj4)
 * [2023-04-07, 17:00:46](https://news.ycombinator.com/item?id=35483975) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
 * [2023-04-07, 16:30:36](https://news.ycombinator.com/item?id=35483539) - [The machines of Tatjana van Vark](https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/)
