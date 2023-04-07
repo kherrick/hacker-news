@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 08:36:20](https://news.ycombinator.com/item?id=35479553) - [Origin of the Term Database “Sharding”](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 07:00:01](https://news.ycombinator.com/item?id=35478929) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-04-07, 06:51:55](https://news.ycombinator.com/item?id=35478884) - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
 * [2023-04-07, 06:18:52](https://news.ycombinator.com/item?id=35478675) - [Under 30-year sentences: why so many of Forbes’ young heroes face jail](https://www.theguardian.com/business/2023/apr/06/forbes-30-under-30-tech-finance-prison)
