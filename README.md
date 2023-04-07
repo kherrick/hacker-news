@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 21:03:57](https://news.ycombinator.com/item?id=35486972) - [Estes Rockets Model Scale 1:100 Replica of SpaceX Falcon 9](https://estesrockets.com/spacex-falcon-9/)
 * [2023-04-07, 19:57:14](https://news.ycombinator.com/item?id=35486277) - [LOLDrivers – Living Off the Land Drivers](https://www.loldrivers.io/)
 * [2023-04-07, 18:57:53](https://news.ycombinator.com/item?id=35485552) - [Ask HN: Is it appropriate to ask a startup to let me see their cap table?](https://news.ycombinator.com/item?id=35485552)
 * [2023-04-07, 18:54:52](https://news.ycombinator.com/item?id=35485511) - [Frequency comb breathalyzer detects Covid with excellent accuracy](https://www.nist.gov/news-events/news/2023/04/jilas-frequency-comb-breathalyzer-detects-covid-19-excellent-accuracy)
@@ -26,7 +27,6 @@
 * [2023-04-07, 02:36:03](https://news.ycombinator.com/item?id=35477329) - [Deposit Outflows Shine Light on Fed Program That Pays Money-Market Funds](https://www.wsj.com/articles/deposit-outflows-shine-light-on-fed-program-that-pays-money-market-funds-6763e11c)
 * [2023-04-07, 02:07:50](https://news.ycombinator.com/item?id=35477160) - [Reverse Engineering the Facebook Messenger API](https://intuitiveexplanations.com/tech/messenger)
 * [2023-04-06, 19:06:20](https://news.ycombinator.com/item?id=35472930) - [StackLlama: A hands-on guide to train LlaMa with RLHF](https://huggingface.co/blog/stackllama)
-* [2023-04-06, 18:33:17](https://news.ycombinator.com/item?id=35472448) - [A Gambler Who Beat Roulette](https://www.bloomberg.com/features/2023-how-to-beat-roulette-gambler-figures-it-out/)
 * [2023-04-06, 18:13:23](https://news.ycombinator.com/item?id=35472175) - [Secure Computing with Zymbit&#x27;s D35](https://www.jeffgeerling.com/blog/2023/secure-computing-zymbits-d35)
 * [2023-04-06, 12:21:11](https://news.ycombinator.com/item?id=35467361) - [Why I Blog](https://www.dannyguo.com/blog/why-i-blog)
 * [2023-04-06, 11:43:09](https://news.ycombinator.com/item?id=35467043) - [Lerp](https://rachsmith.com/lerp/)
