@@ -28,6 +28,7 @@
 * [2023-04-07, 14:13:41](https://news.ycombinator.com/item?id=35481775) - [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/)
 * [2023-04-07, 14:06:55](https://news.ycombinator.com/item?id=35481712) - [U.S. and China wage war beneath the waves – over internet cables](https://www.reuters.com/investigates/special-report/us-china-tech-cables/)
 * [2023-04-07, 13:55:22](https://news.ycombinator.com/item?id=35481580) - [Flipper Zero banned by Amazon for being a ‘card skimming device’](https://www.bleepingcomputer.com/news/technology/flipper-zero-banned-by-amazon-for-being-a-card-skimming-device-/)
+* [2023-04-07, 13:40:23](https://news.ycombinator.com/item?id=35481456) - [NSA created online cybersecurity course with 100s of classes](https://clark.center/c/nccp)
 * [2023-04-07, 13:34:09](https://news.ycombinator.com/item?id=35481409) - [Perennial rice: Plant once, harvest again and again](https://www.npr.org/2023/03/23/1165680024/perennial-rice-plant-once-harvest-again-and-again)
 * [2023-04-07, 13:34:09](https://news.ycombinator.com/item?id=35481409) - [Perennial rice: Plant once, harvest again and again](https://text.npr.org/1165680024)
 * [2023-04-07, 13:30:05](https://news.ycombinator.com/item?id=35481380) - [The longest straight line in Great Britain (without crossing a public road)](http://www.statsmapsnpix.com/2023/04/the-longest-straight-line-in-great.html)
