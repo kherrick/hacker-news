@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-07, 18:25:49](https://news.ycombinator.com/item?id=35485064) - [Carbon nanotube recognition by human Siglec-14 provokes inflammation](https://www.nature.com/articles/s41565-023-01363-w)
+* [2023-04-07, 18:19:42](https://news.ycombinator.com/item?id=35484978) - [Why did Phreesia share my medical data after I opted out?](https://www.statnews.com/2023/04/07/medical-data-privacy-phreesia/)
 * [2023-04-07, 18:07:29](https://news.ycombinator.com/item?id=35484811) - [AGI Doom and the Drake Equation](https://iamnotarobot.substack.com/p/agi-doom-and-the-drake-equation)
 * [2023-04-07, 17:50:18](https://news.ycombinator.com/item?id=35484594) - [Ask Wirecutter: Can You Recommend a Not-Smart TV for Me?](https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/)
 * [2023-04-07, 17:11:42](https://news.ycombinator.com/item?id=35484110) - [Programming-language popularity by GitHub pull requests](https://lemire.me/blog/2023/04/07/programming-language-popularity-by-github-pull-requests/)
@@ -17,7 +18,6 @@
 * [2023-04-07, 13:22:16](https://news.ycombinator.com/item?id=35481309) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
 * [2023-04-07, 12:54:26](https://news.ycombinator.com/item?id=35481088) - [Exploring nine simultaneously occurring transients on April 12th 1950 (2021)](https://www.nature.com/articles/s41598-021-92162-7)
 * [2023-04-07, 10:18:15](https://news.ycombinator.com/item?id=35480056) - [Codeberg – Fast open source alternative to GitHub](https://codeberg.org/)
-* [2023-04-07, 09:24:13](https://news.ycombinator.com/item?id=35479800) - [Board game where tigers hunt goats while goats block their movements](https://github.com/sumn2u/baghchal)
 * [2023-04-07, 08:36:20](https://news.ycombinator.com/item?id=35479553) - [Database “Sharding” came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 08:09:33](https://news.ycombinator.com/item?id=35479378) - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
 * [2023-04-07, 06:51:55](https://news.ycombinator.com/item?id=35478884) - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)

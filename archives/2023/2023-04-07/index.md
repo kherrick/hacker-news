@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
 * [2023-04-07, 18:25:49](https://news.ycombinator.com/item?id=35485064) - [Carbon nanotube recognition by human Siglec-14 provokes inflammation](https://www.nature.com/articles/s41565-023-01363-w)
+* [2023-04-07, 18:19:42](https://news.ycombinator.com/item?id=35484978) - [Why did Phreesia share my medical data after I opted out?](https://www.statnews.com/2023/04/07/medical-data-privacy-phreesia/)
 * [2023-04-07, 18:07:29](https://news.ycombinator.com/item?id=35484811) - [AGI Doom and the Drake Equation](https://iamnotarobot.substack.com/p/agi-doom-and-the-drake-equation)
 * [2023-04-07, 18:04:13](https://news.ycombinator.com/item?id=35484775) - [USA Cycling champion dies after being struck by car in San Francisco’s Presidio](https://www.sfchronicle.com/bayarea/article/usa-cycling-champion-dies-struck-driver-presidio-17883293.php)
 * [2023-04-07, 17:50:18](https://news.ycombinator.com/item?id=35484594) - [Ask Wirecutter: Can You Recommend a Not-Smart TV for Me?](https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/)
