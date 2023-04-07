@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 18:25:49](https://news.ycombinator.com/item?id=35485064) - [Carbon nanotube recognition by human Siglec-14 provokes inflammation](https://www.nature.com/articles/s41565-023-01363-w)
 * [2023-04-07, 18:07:29](https://news.ycombinator.com/item?id=35484811) - [AGI Doom and the Drake Equation](https://iamnotarobot.substack.com/p/agi-doom-and-the-drake-equation)
 * [2023-04-07, 18:04:13](https://news.ycombinator.com/item?id=35484775) - [USA Cycling champion dies after being struck by car in San Francisco’s Presidio](https://www.sfchronicle.com/bayarea/article/usa-cycling-champion-dies-struck-driver-presidio-17883293.php)
 * [2023-04-07, 17:50:18](https://news.ycombinator.com/item?id=35484594) - [Ask Wirecutter: Can You Recommend a Not-Smart TV for Me?](https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/)
@@ -31,6 +32,7 @@
 * [2023-04-07, 13:30:05](https://news.ycombinator.com/item?id=35481380) - [The longest straight line in Great Britain (without crossing a public road)](http://www.statsmapsnpix.com/2023/04/the-longest-straight-line-in-great.html)
 * [2023-04-07, 13:28:07](https://news.ycombinator.com/item?id=35481363) - [Prediction: Semantic search(boring) ends up bigger than generative AI(cool)](https://news.ycombinator.com/item?id=35481363)
 * [2023-04-07, 13:22:16](https://news.ycombinator.com/item?id=35481309) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
+* [2023-04-07, 12:54:26](https://news.ycombinator.com/item?id=35481088) - [Exploring nine simultaneously occurring transients on April 12th 1950 (2021)](https://www.nature.com/articles/s41598-021-92162-7)
 * [2023-04-07, 12:03:58](https://news.ycombinator.com/item?id=35480711) - [Woman Explains What It Was Like to Fall into the Most Dangerous Plant](https://www.iflscience.com/woman-explains-what-it-was-like-to-fall-into-the-worlds-most-dangerous-plant-68176)
 * [2023-04-07, 12:00:25](https://news.ycombinator.com/item?id=35480687) - [Cerebrium (YC W22) Is Hiring – ML Engineer](https://www.ycombinator.com/companies/cerebrium/jobs/GFuLmiG-ml-engineer)
 * [2023-04-07, 11:50:56](https://news.ycombinator.com/item?id=35480629) - [Neovim 0.9 Released](https://github.com/neovim/neovim/commit/040f1459849ab05b04f6bb1e77b3def16b4c2f2b)
