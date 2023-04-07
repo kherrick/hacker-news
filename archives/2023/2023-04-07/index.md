@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 15:53:05](https://news.ycombinator.com/item?id=35482983) - [Wing Commander IV](https://www.filfre.net/2023/04/wing-commander-iv/)
+* [2023-04-07, 15:34:00](https://news.ycombinator.com/item?id=35482706) - [What Archaeology Is Telling Us About the Real Jesus](https://www.nationalgeographic.com/magazine/article/jesus-tomb-archaeology)
 * [2023-04-07, 15:32:35](https://news.ycombinator.com/item?id=35482681) - [Show HN: I built a website editor for TailwindCSS](https://www.webase.com/)
+* [2023-04-07, 15:29:04](https://news.ycombinator.com/item?id=35482636) - [Show HN: Building musical synthesizers with SQL queries](https://github.com/ClickHouse/NoiSQL)
 * [2023-04-07, 15:24:43](https://news.ycombinator.com/item?id=35482568) - [Age of Invention: How the Dutch Did It Better](https://antonhowes.substack.com/p/age-of-invention-how-the-dutch-did)
 * [2023-04-07, 14:58:09](https://news.ycombinator.com/item?id=35482222) - [Twitter won’t allow retweeting tweets linking to Substack](https://arstechnica.com/tech-policy/2023/04/the-dumb-reason-twitter-wont-allow-retweeting-tweets-linking-to-substack/)
 * [2023-04-07, 14:54:33](https://news.ycombinator.com/item?id=35482185) - [NPR won’t tweet from NPR until Twitter removes false “state-affiliated” label](https://www.niemanlab.org/2023/04/npr-says-it-wont-tweet-from-npr-until-twitter-removes-false-state-affiliated-label/)
