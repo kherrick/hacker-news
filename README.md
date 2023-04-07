@@ -2,7 +2,7 @@
 
 * [2023-04-07, 17:10:28](https://news.ycombinator.com/item?id=35484093) - [Yann LeCun and Andrew Ng: Why the 6-Month AI Pause Is a Bad Idea [video]](https://www.youtube.com/watch?v=BY9KV8uCtj4)
 * [2023-04-07, 17:00:46](https://news.ycombinator.com/item?id=35483975) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
-* [2023-04-07, 16:30:36](https://news.ycombinator.com/item?id=35483539) - [The machines of polymath Tatjana van Vark](https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/)
+* [2023-04-07, 16:30:36](https://news.ycombinator.com/item?id=35483539) - [The machines of Tatjana van Vark](https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/)
 * [2023-04-07, 15:53:05](https://news.ycombinator.com/item?id=35482983) - [Wing Commander IV](https://www.filfre.net/2023/04/wing-commander-iv/)
 * [2023-04-07, 15:32:35](https://news.ycombinator.com/item?id=35482681) - [Show HN: I built a website editor for TailwindCSS](https://www.webase.com/)
 * [2023-04-07, 15:29:04](https://news.ycombinator.com/item?id=35482636) - [Show HN: Building musical synthesizers with SQL queries](https://github.com/ClickHouse/NoiSQL)
