@@ -2,6 +2,7 @@
 
 * [2023-04-07, 07:00:01](https://news.ycombinator.com/item?id=35478929) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-04-07, 06:51:55](https://news.ycombinator.com/item?id=35478884) - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
+* [2023-04-07, 06:18:52](https://news.ycombinator.com/item?id=35478675) - [Under 30-year sentences: why so many of Forbes’ young heroes face jail](https://www.theguardian.com/business/2023/apr/06/forbes-30-under-30-tech-finance-prison)
 * [2023-04-07, 05:12:12](https://news.ycombinator.com/item?id=35478268) - [Crazy ants’ strange genomes are a biological first](https://www.nature.com/articles/d41586-023-01002-3)
 * [2023-04-07, 05:07:16](https://news.ycombinator.com/item?id=35478240) - [NZ’s biggest data breach shows retention is the sleeping giant of data security](https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/)
 * [2023-04-07, 05:01:32](https://news.ycombinator.com/item?id=35478201) - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt)
@@ -13,7 +14,6 @@
 * [2023-04-07, 00:12:28](https://news.ycombinator.com/item?id=35476359) - [Hubble sees possible runaway black hole creating a trail of stars](https://hubblesite.org/contents/news-releases/2023/news-2023-010)
 * [2023-04-07, 00:11:42](https://news.ycombinator.com/item?id=35476350) - [Replacing bad systems with bad systems](https://seths.blog/2023/04/replacing-bad-systems-with-bad-systems/)
 * [2023-04-06, 23:58:57](https://news.ycombinator.com/item?id=35476236) - [‘Alien calculus’ could save particle physics from infinities](https://www.quantamagazine.org/alien-calculus-could-save-particle-physics-from-infinities-20230406/)
-* [2023-04-06, 22:39:28](https://news.ycombinator.com/item?id=35475482) - [Is it my fault if you can&#x27;t handle the truth? (2019)](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
 * [2023-04-06, 22:17:27](https://news.ycombinator.com/item?id=35475286) - [The Artistic Partnership of Lady Frieda Harris and Aleister Crowley](https://www.laphamsquarterly.org/roundtable/analysis-does-cramp-painter)
 * [2023-04-06, 22:04:41](https://news.ycombinator.com/item?id=35475175) - [Transactions Aren&#x27;t Everything](https://www.michaelnygard.com/blog/2023/04/transactions-arent-everything/)
 * [2023-04-06, 21:39:33](https://news.ycombinator.com/item?id=35474895) - [Illustrations of ‘unseen’ Japanese maintenance trains that only work at night](https://www.spoon-tamago.com/toei-project-unseen-maintenance-trains/)

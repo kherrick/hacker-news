@@ -6,6 +6,7 @@
 
 * [2023-04-07, 07:00:01](https://news.ycombinator.com/item?id=35478929) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-04-07, 06:51:55](https://news.ycombinator.com/item?id=35478884) - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
+* [2023-04-07, 06:18:52](https://news.ycombinator.com/item?id=35478675) - [Under 30-year sentences: why so many of Forbes’ young heroes face jail](https://www.theguardian.com/business/2023/apr/06/forbes-30-under-30-tech-finance-prison)
 * [2023-04-07, 05:12:12](https://news.ycombinator.com/item?id=35478268) - [Crazy ants’ strange genomes are a biological first](https://www.nature.com/articles/d41586-023-01002-3)
 * [2023-04-07, 05:07:16](https://news.ycombinator.com/item?id=35478240) - [NZ’s biggest data breach shows retention is the sleeping giant of data security](https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/)
 * [2023-04-07, 05:01:32](https://news.ycombinator.com/item?id=35478201) - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt)
