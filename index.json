@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-04-07, 00:48:02",
-      "https://news.ycombinator.com/item?id=35476647"
-    ],
-    [
-      "Sex traffickers used family safety app to control victims",
-      "https://www.forbes.com/sites/thomasbrewster/2023/04/06/sex-traffickers-use-parenting-apps-like-life360-to-spy-on-victims/"
-    ]
-  ],
-  [
-    [
       "2023-04-07, 00:32:08",
       "https://news.ycombinator.com/item?id=35476518"
     ],
@@ -237,6 +227,16 @@
     [
       "Spotting and avoiding heap fragmentation in Rust applications",
       "https://www.svix.com/blog/heap-fragmentation-in-rust-applications/"
+    ]
+  ],
+  [
+    [
+      "2023-04-06, 15:03:41",
+      "https://news.ycombinator.com/item?id=35469276"
+    ],
+    [
+      "Announcing WCGI: WebAssembly and CGI",
+      "https://wasmer.io/posts/announcing-wcgi"
     ]
   ],
   [
