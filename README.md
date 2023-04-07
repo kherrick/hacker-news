@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-07, 01:00:38](https://news.ycombinator.com/item?id=35476736) - [Etleap (YC W13) Is Hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
+* [2023-04-07, 00:56:04](https://news.ycombinator.com/item?id=35476709) - [60M Americans have taxes so simple the IRS could do them automatically](https://www.vox.com/23055489/irs-automatic-filing-prepopulated-returns)
 * [2023-04-07, 00:48:02](https://news.ycombinator.com/item?id=35476647) - [Sex traffickers used family safety app to control victims](https://www.forbes.com/sites/thomasbrewster/2023/04/06/sex-traffickers-use-parenting-apps-like-life360-to-spy-on-victims/)
 * [2023-04-07, 00:32:08](https://news.ycombinator.com/item?id=35476518) - [How does database sharding work?](https://planetscale.com/blog/how-does-database-sharding-work)
 * [2023-04-07, 00:12:28](https://news.ycombinator.com/item?id=35476359) - [Hubble sees possible runaway black hole creating a trail of stars](https://hubblesite.org/contents/news-releases/2023/news-2023-010)
@@ -23,7 +24,6 @@
 * [2023-04-06, 15:47:56](https://news.ycombinator.com/item?id=35470057) - [WebAssembly Tail Calls](https://v8.dev/blog/wasm-tail-call)
 * [2023-04-06, 15:40:17](https://news.ycombinator.com/item?id=35469908) - [What it feels like to work in AI right now](https://robotic.substack.com/p/behind-the-curtain-ai)
 * [2023-04-06, 15:25:18](https://news.ycombinator.com/item?id=35469632) - [Spotting and avoiding heap fragmentation in Rust applications](https://www.svix.com/blog/heap-fragmentation-in-rust-applications/)
-* [2023-04-06, 15:03:41](https://news.ycombinator.com/item?id=35469276) - [Announcing WCGI: WebAssembly and CGI](https://wasmer.io/posts/announcing-wcgi)
 * [2023-04-06, 14:30:10](https://news.ycombinator.com/item?id=35468753) - [If we lose the Internet Archive, we’re screwed](https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/)
 * [2023-04-06, 14:23:49](https://news.ycombinator.com/item?id=35468671) - [Shitty First Drafts (1995) [pdf]](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf)
 * [2023-04-06, 14:12:05](https://news.ycombinator.com/item?id=35468540) - [Defamed by ChatGPT](https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/)
