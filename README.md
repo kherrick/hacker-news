@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 08:45:50](https://news.ycombinator.com/item?id=35479604) - [Bystander ignored dying Cash App founder Bob Lee as he begged for help](https://nypost.com/2023/04/06/bystander-ignored-dying-tech-guru-bob-lee-begging-for-help/)
 * [2023-04-07, 08:36:20](https://news.ycombinator.com/item?id=35479553) - [Database “Sharding” came from Ultimate Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
-* [2023-04-07, 07:09:17](https://news.ycombinator.com/item?id=35478976) - [Coolio Died of Fentanyl Overdose](https://www.bbc.co.uk/news/entertainment-arts-65209910)
 * [2023-04-07, 07:00:01](https://news.ycombinator.com/item?id=35478929) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-04-07, 06:51:55](https://news.ycombinator.com/item?id=35478884) - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
 * [2023-04-07, 05:12:12](https://news.ycombinator.com/item?id=35478268) - [Crazy ants’ strange genomes are a biological first](https://www.nature.com/articles/d41586-023-01002-3)
