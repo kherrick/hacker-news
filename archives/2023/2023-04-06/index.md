@@ -82,6 +82,7 @@
 * [2023-04-06, 10:55:58](https://news.ycombinator.com/item?id=35466675) - [What happens when you leak AWS credentials and how AWS minimizes the damage](https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
 * [2023-04-06, 09:56:52](https://news.ycombinator.com/item?id=35466332) - [Where Do “Shenanigans” Come From? (2013)](https://english.stackexchange.com/questions/142498/where-do-shenanigans-come-from)
 * [2023-04-06, 09:36:08](https://news.ycombinator.com/item?id=35466201) - [Simply explained: How does GPT work?](https://confusedbit.dev/posts/how_does_gpt_work/)
+* [2023-04-06, 09:05:23](https://news.ycombinator.com/item?id=35466008) - [A tale of proxy avoidance in 2007 (2022)](https://www.thran.uk/writ/yarn/2022/04/proxy-avoidance.html)
 * [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [Chrome Ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 * [2023-04-06, 07:42:40](https://news.ycombinator.com/item?id=35465476) - [Pink Floyd inspired research into medieval monks and volcanology](https://arstechnica.com/science/2023/04/how-pink-floyd-inspired-research-into-medieval-monks-and-volcanology/)
 * [2023-04-06, 07:33:43](https://news.ycombinator.com/item?id=35465401) - [Cisco Systems pulled out of Russia and destroyed $23.42M worth of equipment](https://gagadget.com/en/business/232400-cisco-systems-pulled-out-of-russia-and-destroyed-2342m-worth-of-equipment/)
