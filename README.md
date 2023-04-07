@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 19:57:14](https://news.ycombinator.com/item?id=35486277) - [LOLDrivers – Living Off the Land Drivers](https://www.loldrivers.io/)
 * [2023-04-07, 18:54:52](https://news.ycombinator.com/item?id=35485511) - [Frequency comb breathalyzer detects Covid with excellent accuracy](https://www.nist.gov/news-events/news/2023/04/jilas-frequency-comb-breathalyzer-detects-covid-19-excellent-accuracy)
 * [2023-04-07, 18:25:49](https://news.ycombinator.com/item?id=35485064) - [Carbon nanotube recognition by human Siglec-14 provokes inflammation](https://www.nature.com/articles/s41565-023-01363-w)
 * [2023-04-07, 18:19:42](https://news.ycombinator.com/item?id=35484978) - [Why did Phreesia share my medical data after I opted out?](https://www.statnews.com/2023/04/07/medical-data-privacy-phreesia/)
-* [2023-04-07, 17:50:18](https://news.ycombinator.com/item?id=35484594) - [Ask Wirecutter: Can You Recommend a Not-Smart TV for Me?](https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/)
 * [2023-04-07, 17:00:46](https://news.ycombinator.com/item?id=35483975) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
 * [2023-04-07, 16:56:35](https://news.ycombinator.com/item?id=35483933) - [Show HN: ChatGDB – GPT-Powered GDB Assistant](https://github.com/pgosar/ChatGDB)
+* [2023-04-07, 16:48:31](https://news.ycombinator.com/item?id=35483823) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
 * [2023-04-07, 16:30:36](https://news.ycombinator.com/item?id=35483539) - [The machines of Tatjana van Vark](https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/)
 * [2023-04-07, 15:29:04](https://news.ycombinator.com/item?id=35482636) - [Show HN: Building musical synthesizers with SQL queries](https://github.com/ClickHouse/NoiSQL)
 * [2023-04-07, 15:24:43](https://news.ycombinator.com/item?id=35482568) - [Age of Invention: How the Dutch Did It Better](https://antonhowes.substack.com/p/age-of-invention-how-the-dutch-did)
@@ -29,7 +30,6 @@
 * [2023-04-06, 17:54:52](https://news.ycombinator.com/item?id=35471912) - [Powering a Serverless Web: Vercel Joins AWS Marketplace](https://vercel.com/blog/vercel-joins-aws-marketplace)
 * [2023-04-06, 12:21:11](https://news.ycombinator.com/item?id=35467361) - [Why I Blog](https://www.dannyguo.com/blog/why-i-blog)
 * [2023-04-06, 11:43:09](https://news.ycombinator.com/item?id=35467043) - [Lerp](https://rachsmith.com/lerp/)
-* [2023-04-06, 10:29:26](https://news.ycombinator.com/item?id=35466507) - [Interactive: Ethiopian Music Scales](https://www.temesgen.com/learn/music-theory)
 
 ## [Archives](archives/index.md)
 

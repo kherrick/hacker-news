@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 19:57:14](https://news.ycombinator.com/item?id=35486277) - [LOLDrivers – Living Off the Land Drivers](https://www.loldrivers.io/)
 * [2023-04-07, 19:29:56](https://news.ycombinator.com/item?id=35485969) - [“No Way to Prevent This”, Says Only Nation Where This Regularly Happens](https://en.wikipedia.org/wiki/%22No_Way_to_Prevent_This%22,_Says_Only_Nation_Where_This_Regularly_Happens)
 * [2023-04-07, 19:19:51](https://news.ycombinator.com/item?id=35485854) - [LifeCard Folding Single-Shot .22 Pistol](https://trailblazerfirearms.com/lifecard-gun/)
 * [2023-04-07, 18:57:53](https://news.ycombinator.com/item?id=35485552) - [Ask HN: Is it appropriate to ask a startup to let me see their cap table?](https://news.ycombinator.com/item?id=35485552)
@@ -17,6 +18,7 @@
 * [2023-04-07, 17:10:28](https://news.ycombinator.com/item?id=35484093) - [Yann LeCun and Andrew Ng: Why the 6-Month AI Pause Is a Bad Idea [video]](https://www.youtube.com/watch?v=BY9KV8uCtj4)
 * [2023-04-07, 17:00:46](https://news.ycombinator.com/item?id=35483975) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
 * [2023-04-07, 16:56:35](https://news.ycombinator.com/item?id=35483933) - [Show HN: ChatGDB – GPT-Powered GDB Assistant](https://github.com/pgosar/ChatGDB)
+* [2023-04-07, 16:48:31](https://news.ycombinator.com/item?id=35483823) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
 * [2023-04-07, 16:39:19](https://news.ycombinator.com/item?id=35483669) - [Will another Forbes 30 under 30 member be arrested for fraud before 2025?](https://manifold.markets/LarsDoucet/will-another-forbes-30-under-30-mem)
 * [2023-04-07, 16:30:36](https://news.ycombinator.com/item?id=35483539) - [The machines of polymath Tatjana van Vark](https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/)
 * [2023-04-07, 15:53:05](https://news.ycombinator.com/item?id=35482983) - [Wing Commander IV](https://www.filfre.net/2023/04/wing-commander-iv/)
