@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 17:00:46](https://news.ycombinator.com/item?id=35483975) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
 * [2023-04-07, 16:39:19](https://news.ycombinator.com/item?id=35483669) - [Will another Forbes 30 under 30 member be arrested for fraud before 2025?](https://manifold.markets/LarsDoucet/will-another-forbes-30-under-30-mem)
 * [2023-04-07, 16:30:36](https://news.ycombinator.com/item?id=35483539) - [The machines of polymath Tatjana van Vark](https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/)
 * [2023-04-07, 15:53:05](https://news.ycombinator.com/item?id=35482983) - [Wing Commander IV](https://www.filfre.net/2023/04/wing-commander-iv/)
@@ -20,6 +21,7 @@
 * [2023-04-07, 14:13:41](https://news.ycombinator.com/item?id=35481775) - [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/)
 * [2023-04-07, 14:06:55](https://news.ycombinator.com/item?id=35481712) - [U.S. and China wage war beneath the waves – over internet cables](https://www.reuters.com/investigates/special-report/us-china-tech-cables/)
 * [2023-04-07, 13:55:22](https://news.ycombinator.com/item?id=35481580) - [Flipper Zero banned by Amazon for being a ‘card skimming device’](https://www.bleepingcomputer.com/news/technology/flipper-zero-banned-by-amazon-for-being-a-card-skimming-device-/)
+* [2023-04-07, 13:34:09](https://news.ycombinator.com/item?id=35481409) - [Perennial rice: Plant once, harvest again and again](https://www.npr.org/2023/03/23/1165680024/perennial-rice-plant-once-harvest-again-and-again)
 * [2023-04-07, 13:34:09](https://news.ycombinator.com/item?id=35481409) - [Perennial rice: Plant once, harvest again and again](https://text.npr.org/1165680024)
 * [2023-04-07, 13:30:05](https://news.ycombinator.com/item?id=35481380) - [The longest straight line in Great Britain (without crossing a public road)](http://www.statsmapsnpix.com/2023/04/the-longest-straight-line-in-great.html)
 * [2023-04-07, 13:28:07](https://news.ycombinator.com/item?id=35481363) - [Prediction: Semantic search(boring) ends up bigger than generative AI(cool)](https://news.ycombinator.com/item?id=35481363)
@@ -37,6 +39,7 @@
 * [2023-04-07, 08:45:50](https://news.ycombinator.com/item?id=35479604) - [Bystander ignored dying Cash App founder Bob Lee as he begged for help](https://nypost.com/2023/04/06/bystander-ignored-dying-tech-guru-bob-lee-begging-for-help/)
 * [2023-04-07, 08:36:20](https://news.ycombinator.com/item?id=35479553) - [Origin of the Term Database “Sharding”](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 08:09:33](https://news.ycombinator.com/item?id=35479378) - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
+* [2023-04-07, 07:25:10](https://news.ycombinator.com/item?id=35479071) - [Why ChatGPT and Bing Chat are so good at making things up](https://arstechnica.com/information-technology/2023/04/why-ai-chatbots-are-the-ultimate-bs-machines-and-how-people-hope-to-fix-them/)
 * [2023-04-07, 07:09:17](https://news.ycombinator.com/item?id=35478976) - [Coolio Died of Fentanyl Overdose](https://www.bbc.co.uk/news/entertainment-arts-65209910)
 * [2023-04-07, 07:00:01](https://news.ycombinator.com/item?id=35478929) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-04-07, 06:51:55](https://news.ycombinator.com/item?id=35478884) - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
