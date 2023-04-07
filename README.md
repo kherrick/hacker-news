@@ -27,8 +27,8 @@
 * [2023-04-06, 14:30:10](https://news.ycombinator.com/item?id=35468753) - [If we lose the Internet Archive, we’re screwed](https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/)
 * [2023-04-06, 14:23:49](https://news.ycombinator.com/item?id=35468671) - [Shitty First Drafts (1995) [pdf]](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf)
 * [2023-04-06, 14:12:05](https://news.ycombinator.com/item?id=35468540) - [Defamed by ChatGPT](https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/)
-* [2023-04-06, 12:22:10](https://news.ycombinator.com/item?id=35467367) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
 * [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
+* [2023-04-05, 15:37:06](https://news.ycombinator.com/item?id=35455943) - [The City That Fell Off a Cliff](https://publicdomainreview.org/essay/the-city-that-fell-off-a-cliff)
 * [2023-04-04, 09:20:13](https://news.ycombinator.com/item?id=35437062) - [Everything Is a Practice](https://luxagraf.net/essay/everything-is-a-practice)
 
 ## [Archives](archives/index.md)
