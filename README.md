@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-07, 09:39:27](https://news.ycombinator.com/item?id=35479867) - [Bosses Want Hard Workers–So They’re Hiring Older People](https://www.wsj.com/articles/do-older-workers-work-harder-some-bosses-think-so-c4088c7d)
+* [2023-04-07, 09:36:40](https://news.ycombinator.com/item?id=35479853) - [Ask HN: What&#x27;s your best resource for keeping up-to-date on AI developments?](https://news.ycombinator.com/item?id=35479853)
 * [2023-04-07, 08:36:20](https://news.ycombinator.com/item?id=35479553) - [Database “Sharding” came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 08:09:33](https://news.ycombinator.com/item?id=35479378) - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
 * [2023-04-07, 07:00:01](https://news.ycombinator.com/item?id=35478929) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
@@ -24,7 +25,6 @@
 * [2023-04-06, 16:40:17](https://news.ycombinator.com/item?id=35470915) - [Show HN: Tabby – A self-hosted GitHub Copilot](https://github.com/TabbyML/tabby)
 * [2023-04-06, 16:39:40](https://news.ycombinator.com/item?id=35470905) - [System design and the cost of architectural complexity (2013)](https://dspace.mit.edu/handle/1721.1/79551)
 * [2023-04-06, 15:47:56](https://news.ycombinator.com/item?id=35470057) - [WebAssembly Tail Calls](https://v8.dev/blog/wasm-tail-call)
-* [2023-04-06, 15:40:17](https://news.ycombinator.com/item?id=35469908) - [What it feels like to work in AI right now](https://robotic.substack.com/p/behind-the-curtain-ai)
 * [2023-04-06, 12:21:11](https://news.ycombinator.com/item?id=35467361) - [Why I Blog](https://www.dannyguo.com/blog/why-i-blog)
 * [2023-04-06, 10:29:26](https://news.ycombinator.com/item?id=35466507) - [Interactive: Ethiopian Music Scales](https://www.temesgen.com/learn/music-theory)
 * [2023-04-06, 10:25:20](https://news.ycombinator.com/item?id=35466482) - [3D Cellular Automata and GOL in the J programming language](http://archive.vector.org.uk/art10011650#ref4)
