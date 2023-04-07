@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 18:07:29](https://news.ycombinator.com/item?id=35484811) - [AGI Doom and the Drake Equation](https://iamnotarobot.substack.com/p/agi-doom-and-the-drake-equation)
 * [2023-04-07, 18:04:13](https://news.ycombinator.com/item?id=35484775) - [USA Cycling champion dies after being struck by car in San Francisco’s Presidio](https://www.sfchronicle.com/bayarea/article/usa-cycling-champion-dies-struck-driver-presidio-17883293.php)
 * [2023-04-07, 17:11:42](https://news.ycombinator.com/item?id=35484110) - [Programming-language popularity by GitHub pull requests](https://lemire.me/blog/2023/04/07/programming-language-popularity-by-github-pull-requests/)
 * [2023-04-07, 17:10:28](https://news.ycombinator.com/item?id=35484093) - [Yann LeCun and Andrew Ng: Why the 6-Month AI Pause Is a Bad Idea [video]](https://www.youtube.com/watch?v=BY9KV8uCtj4)
@@ -29,7 +30,6 @@
 * [2023-04-06, 17:54:52](https://news.ycombinator.com/item?id=35471912) - [Powering a Serverless Web: Vercel Joins AWS Marketplace](https://vercel.com/blog/vercel-joins-aws-marketplace)
 * [2023-04-06, 12:21:11](https://news.ycombinator.com/item?id=35467361) - [Why I Blog](https://www.dannyguo.com/blog/why-i-blog)
 * [2023-04-06, 11:43:09](https://news.ycombinator.com/item?id=35467043) - [Lerp](https://rachsmith.com/lerp/)
-* [2023-04-06, 10:29:26](https://news.ycombinator.com/item?id=35466507) - [Interactive: Ethiopian Music Scales](https://www.temesgen.com/learn/music-theory)
 
 ## [Archives](archives/index.md)
 
