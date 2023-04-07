@@ -25,7 +25,7 @@
 * [2023-04-06, 16:40:17](https://news.ycombinator.com/item?id=35470915) - [Show HN: Tabby – A self-hosted GitHub Copilot](https://github.com/TabbyML/tabby)
 * [2023-04-06, 16:39:40](https://news.ycombinator.com/item?id=35470905) - [System design and the cost of architectural complexity (2013)](https://dspace.mit.edu/handle/1721.1/79551)
 * [2023-04-06, 15:47:56](https://news.ycombinator.com/item?id=35470057) - [WebAssembly Tail Calls](https://v8.dev/blog/wasm-tail-call)
-* [2023-04-06, 15:40:17](https://news.ycombinator.com/item?id=35469908) - [What it feels like to work in AI right now](https://robotic.substack.com/p/behind-the-curtain-ai)
+* [2023-04-06, 12:21:11](https://news.ycombinator.com/item?id=35467361) - [Why I Blog](https://www.dannyguo.com/blog/why-i-blog)
 * [2023-04-06, 10:29:26](https://news.ycombinator.com/item?id=35466507) - [Interactive: Ethiopian Music Scales](https://www.temesgen.com/learn/music-theory)
 * [2023-04-06, 10:25:20](https://news.ycombinator.com/item?id=35466482) - [3D Cellular Automata and GOL in the J programming language](http://archive.vector.org.uk/art10011650#ref4)
 * [2023-04-06, 09:56:52](https://news.ycombinator.com/item?id=35466332) - [Where Do “Shenanigans” Come From? (2013)](https://english.stackexchange.com/questions/142498/where-do-shenanigans-come-from)
