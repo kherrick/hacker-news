@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 05:07:16](https://news.ycombinator.com/item?id=35478240) - [NZ’s biggest data breach shows retention is the sleeping giant of data security](https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/)
 * [2023-04-07, 05:01:32](https://news.ycombinator.com/item?id=35478201) - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt)
 * [2023-04-07, 04:44:14](https://news.ycombinator.com/item?id=35478120) - [I was bullied by a customer-focused, highest-market-value company](https://telegra.ph/How-I-Was-Bullied-by-a-Company-Claiming-to-Care-About-Customer-Satisfaction-and-Holding-the-Highest-Market-Value-04-07)
 * [2023-04-07, 04:21:21](https://news.ycombinator.com/item?id=35478007) - [Western Digital cloud services down for 4 days](https://status.mycloud.com/os4)
@@ -13,7 +14,6 @@
 * [2023-04-06, 22:39:28](https://news.ycombinator.com/item?id=35475482) - [Is it my fault if you can&#x27;t handle the truth? (2019)](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
 * [2023-04-06, 22:17:27](https://news.ycombinator.com/item?id=35475286) - [The Artistic Partnership of Lady Frieda Harris and Aleister Crowley](https://www.laphamsquarterly.org/roundtable/analysis-does-cramp-painter)
 * [2023-04-06, 22:04:41](https://news.ycombinator.com/item?id=35475175) - [Transactions Aren&#x27;t Everything](https://www.michaelnygard.com/blog/2023/04/transactions-arent-everything/)
-* [2023-04-06, 21:46:22](https://news.ycombinator.com/item?id=35474968) - [4000x Speedup in Reinforcement Learning with Jax](https://chrislu.page/blog/meta-disco/)
 * [2023-04-06, 21:39:33](https://news.ycombinator.com/item?id=35474895) - [Illustrations of ‘unseen’ Japanese maintenance trains that only work at night](https://www.spoon-tamago.com/toei-project-unseen-maintenance-trains/)
 * [2023-04-06, 21:30:05](https://news.ycombinator.com/item?id=35474770) - [India&#x27;s Forgotten Mansions](https://www.bbc.com/travel/article/20230404-indias-10000-forgotten-mansions)
 * [2023-04-06, 20:47:28](https://news.ycombinator.com/item?id=35474172) - [Are your memory-bound benchmarking timings normally distributed?](https://lemire.me/blog/2023/04/06/are-your-memory-bound-benchmarking-timings-normally-distributed/)
