@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-07, 21:17:51](https://news.ycombinator.com/item?id=35487093) - [How the Fuck Did We Get Here?](https://fagnerbrack.com/how-the-fuck-did-we-get-here-b9bac6ba7a0f)
+* [2023-04-07, 21:11:09](https://news.ycombinator.com/item?id=35487036) - [NYPD officers brag about milking overtime in accidental recording](https://gothamist.com/news/nypd-officers-brag-about-milking-overtime-call-detainees-names-in-accidental-recording)
 * [2023-04-07, 21:03:57](https://news.ycombinator.com/item?id=35486972) - [Estes Rockets Model Scale 1:100 Replica of SpaceX Falcon 9](https://estesrockets.com/spacex-falcon-9/)
 * [2023-04-07, 20:59:21](https://news.ycombinator.com/item?id=35486923) - [Direct evidence of the use of multiple drugs in Bronze Age from human hair test](https://www.nature.com/articles/s41598-023-31064-2)
 * [2023-04-07, 19:57:14](https://news.ycombinator.com/item?id=35486277) - [LOLDrivers – Living Off the Land Drivers](https://www.loldrivers.io/)
@@ -15,7 +15,6 @@
 * [2023-04-07, 15:24:43](https://news.ycombinator.com/item?id=35482568) - [Age of Invention: How the Dutch Did It Better](https://antonhowes.substack.com/p/age-of-invention-how-the-dutch-did)
 * [2023-04-07, 14:06:55](https://news.ycombinator.com/item?id=35481712) - [U.S. and China wage war beneath the waves over internet cables](https://www.reuters.com/investigates/special-report/us-china-tech-cables/)
 * [2023-04-07, 13:34:09](https://news.ycombinator.com/item?id=35481409) - [Perennial rice: Plant once, harvest again and again](https://www.npr.org/2023/03/23/1165680024/perennial-rice-plant-once-harvest-again-and-again)
-* [2023-04-07, 13:30:05](https://news.ycombinator.com/item?id=35481380) - [The longest straight line in Great Britain without crossing a public road](http://www.statsmapsnpix.com/2023/04/the-longest-straight-line-in-great.html)
 * [2023-04-07, 13:22:16](https://news.ycombinator.com/item?id=35481309) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
 * [2023-04-07, 12:54:26](https://news.ycombinator.com/item?id=35481088) - [Exploring nine simultaneously occurring transients on April 12th 1950 (2021)](https://www.nature.com/articles/s41598-021-92162-7)
 * [2023-04-07, 10:18:15](https://news.ycombinator.com/item?id=35480056) - [Codeberg – Fast open source alternative to GitHub](https://codeberg.org/)
@@ -28,6 +27,7 @@
 * [2023-04-07, 02:07:50](https://news.ycombinator.com/item?id=35477160) - [Reverse Engineering the Facebook Messenger API](https://intuitiveexplanations.com/tech/messenger)
 * [2023-04-06, 19:06:20](https://news.ycombinator.com/item?id=35472930) - [StackLlama: A hands-on guide to train LlaMa with RLHF](https://huggingface.co/blog/stackllama)
 * [2023-04-06, 18:13:23](https://news.ycombinator.com/item?id=35472175) - [Secure Computing with Zymbit&#x27;s D35](https://www.jeffgeerling.com/blog/2023/secure-computing-zymbits-d35)
+* [2023-04-06, 17:51:15](https://news.ycombinator.com/item?id=35471880) - [MNT Reform: DIY Portable Computer Goals (2017)](https://mntre.com/media/reform_md/reform-historic/reform-beta-1.html)
 * [2023-04-06, 12:21:11](https://news.ycombinator.com/item?id=35467361) - [Why I Blog](https://www.dannyguo.com/blog/why-i-blog)
 * [2023-04-06, 11:43:09](https://news.ycombinator.com/item?id=35467043) - [Lerp](https://rachsmith.com/lerp/)
 

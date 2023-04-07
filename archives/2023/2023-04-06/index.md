@@ -34,6 +34,7 @@
 * [2023-04-06, 18:13:23](https://news.ycombinator.com/item?id=35472175) - [Secure Computing with Zymbit&#x27;s D35](https://www.jeffgeerling.com/blog/2023/secure-computing-zymbits-d35)
 * [2023-04-06, 18:00:38](https://news.ycombinator.com/item?id=35471989) - [Twitter devalued its top status symbol and what it can do now](https://www.getflack.com/p/please-just-take-the-checkmark-away)
 * [2023-04-06, 17:54:52](https://news.ycombinator.com/item?id=35471912) - [Powering a Serverless Web: Vercel Joins AWS Marketplace](https://vercel.com/blog/vercel-joins-aws-marketplace)
+* [2023-04-06, 17:51:15](https://news.ycombinator.com/item?id=35471880) - [MNT Reform: DIY Portable Computer Goals (2017)](https://mntre.com/media/reform_md/reform-historic/reform-beta-1.html)
 * [2023-04-06, 17:46:54](https://news.ycombinator.com/item?id=35471826) - [Tesla workers shared images from car cameras, including “scenes of intimacy”](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
 * [2023-04-06, 17:33:13](https://news.ycombinator.com/item?id=35471656) - [This Month with Nim: March 2023](https://nim-lang.org/blog/2023/04/01/this-month-with-nim.html)
 * [2023-04-06, 17:19:12](https://news.ycombinator.com/item?id=35471471) - [Show HN: StorySeed – AI Facilitated, immersive, creative learning experience](https://koodup.com/journey/storyseed/)
