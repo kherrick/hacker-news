@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 18:04:13](https://news.ycombinator.com/item?id=35484775) - [USA Cycling champion dies after being struck by car in San Francisco’s Presidio](https://www.sfchronicle.com/bayarea/article/usa-cycling-champion-dies-struck-driver-presidio-17883293.php)
+* [2023-04-07, 17:11:42](https://news.ycombinator.com/item?id=35484110) - [Programming-language popularity by GitHub pull requests](https://lemire.me/blog/2023/04/07/programming-language-popularity-by-github-pull-requests/)
 * [2023-04-07, 17:10:28](https://news.ycombinator.com/item?id=35484093) - [Yann LeCun and Andrew Ng: Why the 6-Month AI Pause Is a Bad Idea [video]](https://www.youtube.com/watch?v=BY9KV8uCtj4)
 * [2023-04-07, 17:00:46](https://news.ycombinator.com/item?id=35483975) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
 * [2023-04-07, 16:30:36](https://news.ycombinator.com/item?id=35483539) - [The machines of Tatjana van Vark](https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/)
@@ -7,7 +9,6 @@
 * [2023-04-07, 15:32:35](https://news.ycombinator.com/item?id=35482681) - [Show HN: I built a website editor for TailwindCSS](https://www.webase.com/)
 * [2023-04-07, 15:29:04](https://news.ycombinator.com/item?id=35482636) - [Show HN: Building musical synthesizers with SQL queries](https://github.com/ClickHouse/NoiSQL)
 * [2023-04-07, 15:24:43](https://news.ycombinator.com/item?id=35482568) - [Age of Invention: How the Dutch Did It Better](https://antonhowes.substack.com/p/age-of-invention-how-the-dutch-did)
-* [2023-04-07, 14:58:09](https://news.ycombinator.com/item?id=35482222) - [Twitter won’t allow retweeting tweets linking to Substack](https://arstechnica.com/tech-policy/2023/04/the-dumb-reason-twitter-wont-allow-retweeting-tweets-linking-to-substack/)
 * [2023-04-07, 14:13:41](https://news.ycombinator.com/item?id=35481775) - [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/)
 * [2023-04-07, 14:06:55](https://news.ycombinator.com/item?id=35481712) - [U.S. and China wage war beneath the waves over internet cables](https://www.reuters.com/investigates/special-report/us-china-tech-cables/)
 * [2023-04-07, 13:34:09](https://news.ycombinator.com/item?id=35481409) - [Perennial rice: Plant once, harvest again and again](https://www.npr.org/2023/03/23/1165680024/perennial-rice-plant-once-harvest-again-and-again)
@@ -27,7 +28,6 @@
 * [2023-04-06, 18:33:17](https://news.ycombinator.com/item?id=35472448) - [A Gambler Who Beat Roulette](https://www.bloomberg.com/features/2023-how-to-beat-roulette-gambler-figures-it-out/)
 * [2023-04-06, 17:54:52](https://news.ycombinator.com/item?id=35471912) - [Powering a Serverless Web: Vercel Joins AWS Marketplace](https://vercel.com/blog/vercel-joins-aws-marketplace)
 * [2023-04-06, 12:21:11](https://news.ycombinator.com/item?id=35467361) - [Why I Blog](https://www.dannyguo.com/blog/why-i-blog)
-* [2023-04-06, 12:17:55](https://news.ycombinator.com/item?id=35467327) - [A colorful problem that has long frustrated mathematicians](https://www.quantamagazine.org/only-computers-can-solve-this-map-coloring-problem-from-the-1800s-20230329/)
 * [2023-04-06, 11:43:09](https://news.ycombinator.com/item?id=35467043) - [Lerp](https://rachsmith.com/lerp/)
 * [2023-04-06, 10:29:26](https://news.ycombinator.com/item?id=35466507) - [Interactive: Ethiopian Music Scales](https://www.temesgen.com/learn/music-theory)
 

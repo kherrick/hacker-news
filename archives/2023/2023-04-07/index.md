@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 18:04:13](https://news.ycombinator.com/item?id=35484775) - [USA Cycling champion dies after being struck by car in San Francisco’s Presidio](https://www.sfchronicle.com/bayarea/article/usa-cycling-champion-dies-struck-driver-presidio-17883293.php)
+* [2023-04-07, 17:11:42](https://news.ycombinator.com/item?id=35484110) - [Programming-language popularity by GitHub pull requests](https://lemire.me/blog/2023/04/07/programming-language-popularity-by-github-pull-requests/)
 * [2023-04-07, 17:10:28](https://news.ycombinator.com/item?id=35484093) - [Yann LeCun and Andrew Ng: Why the 6-Month AI Pause Is a Bad Idea [video]](https://www.youtube.com/watch?v=BY9KV8uCtj4)
 * [2023-04-07, 17:00:46](https://news.ycombinator.com/item?id=35483975) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
 * [2023-04-07, 16:39:19](https://news.ycombinator.com/item?id=35483669) - [Will another Forbes 30 under 30 member be arrested for fraud before 2025?](https://manifold.markets/LarsDoucet/will-another-forbes-30-under-30-mem)
