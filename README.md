@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-07, 14:54:33](https://news.ycombinator.com/item?id=35482185) - [NPR won’t tweet from NPR until Twitter removes false “state-affiliated” label](https://www.niemanlab.org/2023/04/npr-says-it-wont-tweet-from-npr-until-twitter-removes-false-state-affiliated-label/)
+* [2023-04-07, 14:58:09](https://news.ycombinator.com/item?id=35482222) - [Twitter won’t allow retweeting tweets linking to Substack](https://arstechnica.com/tech-policy/2023/04/the-dumb-reason-twitter-wont-allow-retweeting-tweets-linking-to-substack/)
 * [2023-04-07, 14:32:47](https://news.ycombinator.com/item?id=35481961) - [Show HN: Chrome extension to improve productivity with ChatGPT](https://www.teamsmart.ai/)
 * [2023-04-07, 14:13:41](https://news.ycombinator.com/item?id=35481775) - [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/)
 * [2023-04-07, 14:06:55](https://news.ycombinator.com/item?id=35481712) - [U.S. and China wage war beneath the waves – over internet cables](https://www.reuters.com/investigates/special-report/us-china-tech-cables/)
@@ -22,9 +22,9 @@
 * [2023-04-07, 04:21:21](https://news.ycombinator.com/item?id=35478007) - [Western Digital cloud services down for 4 days](https://status.mycloud.com/os4)
 * [2023-04-07, 03:28:35](https://news.ycombinator.com/item?id=35477695) - [Administrative Scripting with Julia](https://github.com/ninjaaron/administrative-scripting-with-julia)
 * [2023-04-07, 02:07:50](https://news.ycombinator.com/item?id=35477160) - [Reverse Engineering the Facebook Messenger API](https://intuitiveexplanations.com/tech/messenger)
-* [2023-04-07, 00:32:08](https://news.ycombinator.com/item?id=35476518) - [How does database sharding work?](https://planetscale.com/blog/how-does-database-sharding-work)
 * [2023-04-07, 00:12:28](https://news.ycombinator.com/item?id=35476359) - [Hubble sees possible runaway black hole creating a trail of stars](https://hubblesite.org/contents/news-releases/2023/news-2023-010)
 * [2023-04-06, 23:58:57](https://news.ycombinator.com/item?id=35476236) - [‘Alien calculus’ could save particle physics from infinities](https://www.quantamagazine.org/alien-calculus-could-save-particle-physics-from-infinities-20230406/)
+* [2023-04-06, 18:33:17](https://news.ycombinator.com/item?id=35472448) - [The Gambler Who Beat Roulette](https://www.bloomberg.com/features/2023-how-to-beat-roulette-gambler-figures-it-out/)
 * [2023-04-06, 17:54:52](https://news.ycombinator.com/item?id=35471912) - [Powering a Serverless Web: Vercel Joins AWS Marketplace](https://vercel.com/blog/vercel-joins-aws-marketplace)
 * [2023-04-06, 12:21:11](https://news.ycombinator.com/item?id=35467361) - [Why I Blog](https://www.dannyguo.com/blog/why-i-blog)
 * [2023-04-06, 12:17:55](https://news.ycombinator.com/item?id=35467327) - [A colorful problem that has long frustrated mathematicians](https://www.quantamagazine.org/only-computers-can-solve-this-map-coloring-problem-from-the-1800s-20230329/)

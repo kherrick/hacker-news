@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 14:58:09](https://news.ycombinator.com/item?id=35482222) - [Twitter won’t allow retweeting tweets linking to Substack](https://arstechnica.com/tech-policy/2023/04/the-dumb-reason-twitter-wont-allow-retweeting-tweets-linking-to-substack/)
 * [2023-04-07, 14:54:33](https://news.ycombinator.com/item?id=35482185) - [NPR won’t tweet from NPR until Twitter removes false “state-affiliated” label](https://www.niemanlab.org/2023/04/npr-says-it-wont-tweet-from-npr-until-twitter-removes-false-state-affiliated-label/)
 * [2023-04-07, 14:52:38](https://news.ycombinator.com/item?id=35482158) - [The Hindu Nationalist Campaign to Promote Yoga](https://www.thenation.com/article/culture/yogathon-hindu-nationalism/)
 * [2023-04-07, 14:33:25](https://news.ycombinator.com/item?id=35481970) - [For Lower-Income Students, Big Tech Internships Can Be Hard to Get](https://www.nytimes.com/2023/04/05/business/tech-internship-application-grind.html)
