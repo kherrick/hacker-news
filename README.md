@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 14:33:25](https://news.ycombinator.com/item?id=35481970) - [For Lower-Income Students, Big Tech Internships Can Be Hard to Get](https://www.nytimes.com/2023/04/05/business/tech-internship-application-grind.html)
 * [2023-04-07, 14:13:41](https://news.ycombinator.com/item?id=35481775) - [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/)
 * [2023-04-07, 14:06:55](https://news.ycombinator.com/item?id=35481712) - [U.S. and China wage war beneath the waves – over internet cables](https://www.reuters.com/investigates/special-report/us-china-tech-cables/)
 * [2023-04-07, 13:55:22](https://news.ycombinator.com/item?id=35481580) - [Flipper Zero banned by Amazon for being a ‘card skimming device’](https://www.bleepingcomputer.com/news/technology/flipper-zero-banned-by-amazon-for-being-a-card-skimming-device-/)
@@ -29,7 +30,6 @@
 * [2023-04-06, 12:17:55](https://news.ycombinator.com/item?id=35467327) - [A colorful problem that has long frustrated mathematicians](https://www.quantamagazine.org/only-computers-can-solve-this-map-coloring-problem-from-the-1800s-20230329/)
 * [2023-04-06, 11:43:09](https://news.ycombinator.com/item?id=35467043) - [Lerp](https://rachsmith.com/lerp/)
 * [2023-04-06, 10:29:26](https://news.ycombinator.com/item?id=35466507) - [Interactive: Ethiopian Music Scales](https://www.temesgen.com/learn/music-theory)
-* [2023-04-06, 10:25:20](https://news.ycombinator.com/item?id=35466482) - [3D Cellular Automata and GOL in the J programming language](http://archive.vector.org.uk/art10011650#ref4)
 
 ## [Archives](archives/index.md)
 
