@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-07, 09:39:27](https://news.ycombinator.com/item?id=35479867) - [Bosses Want Hard Workers–So They’re Hiring Older People](https://www.wsj.com/articles/do-older-workers-work-harder-some-bosses-think-so-c4088c7d)
+* [2023-04-07, 10:18:15](https://news.ycombinator.com/item?id=35480056) - [Codeberg – Fast Open Source Alternative to GitHub](https://codeberg.org/)
 * [2023-04-07, 09:36:40](https://news.ycombinator.com/item?id=35479853) - [Ask HN: What&#x27;s your best resource for keeping up-to-date on AI developments?](https://news.ycombinator.com/item?id=35479853)
 * [2023-04-07, 08:36:20](https://news.ycombinator.com/item?id=35479553) - [Database “Sharding” came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 08:09:33](https://news.ycombinator.com/item?id=35479378) - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
