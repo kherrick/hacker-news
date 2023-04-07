@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 13:28:07](https://news.ycombinator.com/item?id=35481363) - [Prediction: Semantic search(boring) ends up bigger than generative AI(cool)](https://news.ycombinator.com/item?id=35481363)
 * [2023-04-07, 13:22:16](https://news.ycombinator.com/item?id=35481309) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
 * [2023-04-07, 12:03:58](https://news.ycombinator.com/item?id=35480711) - [Woman Explains What It Was Like to Fall into the Most Dangerous Plant](https://www.iflscience.com/woman-explains-what-it-was-like-to-fall-into-the-worlds-most-dangerous-plant-68176)
 * [2023-04-07, 12:00:25](https://news.ycombinator.com/item?id=35480687) - [Cerebrium (YC W22) Is Hiring – ML Engineer](https://www.ycombinator.com/companies/cerebrium/jobs/GFuLmiG-ml-engineer)

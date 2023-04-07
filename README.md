@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 13:28:07](https://news.ycombinator.com/item?id=35481363) - [Prediction: Semantic search(boring) ends up bigger than generative AI(cool)](https://news.ycombinator.com/item?id=35481363)
 * [2023-04-07, 13:22:16](https://news.ycombinator.com/item?id=35481309) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
 * [2023-04-07, 12:03:58](https://news.ycombinator.com/item?id=35480711) - [What it’s like to fall into the deadly Australian plant, gympie-gympie](https://www.iflscience.com/woman-explains-what-it-was-like-to-fall-into-the-worlds-most-dangerous-plant-68176)
 * [2023-04-07, 12:00:25](https://news.ycombinator.com/item?id=35480687) - [Cerebrium (YC W22) Is Hiring – ML Engineer](https://www.ycombinator.com/companies/cerebrium/jobs/GFuLmiG-ml-engineer)
-* [2023-04-07, 11:50:56](https://news.ycombinator.com/item?id=35480629) - [Neovim 0.9](https://github.com/neovim/neovim/commit/040f1459849ab05b04f6bb1e77b3def16b4c2f2b)
 * [2023-04-07, 10:18:54](https://news.ycombinator.com/item?id=35480061) - [Even the Densest Metal Doesn&#x27;t Exceed USPS Shipping Weight Limit (2022)](https://nerdist.com/article/densest-metal-doesnt-exceed-the-usps-small-flat-rate-box-weight-limit/)
 * [2023-04-07, 10:18:15](https://news.ycombinator.com/item?id=35480056) - [Codeberg – Fast Open Source Alternative to GitHub](https://codeberg.org/)
 * [2023-04-07, 09:24:13](https://news.ycombinator.com/item?id=35479800) - [Board game where tigers hunt goats while goats block their movements](https://github.com/sumn2u/baghchal)
