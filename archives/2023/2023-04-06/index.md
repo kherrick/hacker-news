@@ -74,6 +74,7 @@
 * [2023-04-06, 12:55:10](https://news.ycombinator.com/item?id=35467711) - [JSON vs. XML with Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/#)
 * [2023-04-06, 12:22:10](https://news.ycombinator.com/item?id=35467367) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
 * [2023-04-06, 12:21:11](https://news.ycombinator.com/item?id=35467361) - [Why I Blog](https://www.dannyguo.com/blog/why-i-blog)
+* [2023-04-06, 12:17:55](https://news.ycombinator.com/item?id=35467327) - [A colorful problem that has long frustrated mathematicians](https://www.quantamagazine.org/only-computers-can-solve-this-map-coloring-problem-from-the-1800s-20230329/)
 * [2023-04-06, 12:10:34](https://news.ycombinator.com/item?id=35467248) - [Ask HN: When did multiple environments become standard practice?](https://news.ycombinator.com/item?id=35467248)
 * [2023-04-06, 12:09:37](https://news.ycombinator.com/item?id=35467243) - [Mariadb.com is dead, long live MariaDB.org](https://medium.com/@imashadowphantom/mariadb-com-is-dead-long-live-mariadb-org-b8a0ca50a637)
 * [2023-04-06, 12:01:13](https://news.ycombinator.com/item?id=35467186) - [WorkRamp (YC S16) Is Hiring a Product Manager (Remote)](https://www.ycombinator.com/companies/workramp/jobs/WaMUlm2-product-manager)
