@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 23:58:57](https://news.ycombinator.com/item?id=35476236) - [‘Alien calculus’ could save particle physics from infinities](https://www.quantamagazine.org/alien-calculus-could-save-particle-physics-from-infinities-20230406/)
 * [2023-04-06, 23:15:18](https://news.ycombinator.com/item?id=35475822) - [Airbnb shares fall after probe into unpleasant customer experiences](https://www.reuters.com/business/airbnb-shares-fall-after-probe-into-unpleasant-customer-experiences-2023-04-06/)
 * [2023-04-06, 23:01:05](https://news.ycombinator.com/item?id=35475696) - [Apple Store Robbed of $500K in iPhones After Thieves Tunnel Through Coffee Shop](https://www.macrumors.com/2023/04/06/washington-apple-store-theft/)
 * [2023-04-06, 22:39:28](https://news.ycombinator.com/item?id=35475482) - [Is it my fault if you can&#x27;t handle the truth?](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
@@ -85,6 +86,7 @@
 * [2023-04-06, 07:15:06](https://news.ycombinator.com/item?id=35465264) - [False Memories Can Form Within Seconds, Study Finds](https://gizmodo.com/false-memories-can-form-within-seconds-study-finds-1850303900)
 * [2023-04-06, 06:33:01](https://news.ycombinator.com/item?id=35464933) - [Over 40% of the latest YC batch are AI&#x2F;ML startups](https://www.ignorance.ai/p/analyzing-over-100-ai-startups-from-yc)
 * [2023-04-06, 06:16:59](https://news.ycombinator.com/item?id=35464816) - [A Degenerate Assemblage: Review of “Book Madness”](https://www.lrb.co.uk/the-paper/v45/n08/anthony-grafton/a-degenerate-assemblage)
+* [2023-04-06, 06:09:58](https://news.ycombinator.com/item?id=35464761) - [Future of Borges estate in limbo as widow doesn&#x27;t leave will](https://apnews.com/article/jorge-luis-borges-will-argentina-18551412a43cd8ae30b943fbffd1cc31)
 * [2023-04-06, 05:02:32](https://news.ycombinator.com/item?id=35464330) - [I cannot wait for this deluge of AI products to be over](https://news.ycombinator.com/item?id=35464330)
 * [2023-04-06, 04:31:41](https://news.ycombinator.com/item?id=35464152) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
 * [2023-04-06, 04:31:25](https://news.ycombinator.com/item?id=35464150) - [Zendesk created a fake band “Zendesk Alternative” that ranks first in SEO](http://zendeskalternative.com)
