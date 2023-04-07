@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 14:54:33](https://news.ycombinator.com/item?id=35482185) - [NPR won’t tweet from NPR until Twitter removes false “state-affiliated” label](https://www.niemanlab.org/2023/04/npr-says-it-wont-tweet-from-npr-until-twitter-removes-false-state-affiliated-label/)
 * [2023-04-07, 14:52:38](https://news.ycombinator.com/item?id=35482158) - [The Hindu Nationalist Campaign to Promote Yoga](https://www.thenation.com/article/culture/yogathon-hindu-nationalism/)
 * [2023-04-07, 14:33:25](https://news.ycombinator.com/item?id=35481970) - [For Lower-Income Students, Big Tech Internships Can Be Hard to Get](https://www.nytimes.com/2023/04/05/business/tech-internship-application-grind.html)
+* [2023-04-07, 14:32:47](https://news.ycombinator.com/item?id=35481961) - [Show HN: Chrome extension to improve productivity with ChatGPT](https://www.teamsmart.ai/)
 * [2023-04-07, 14:13:41](https://news.ycombinator.com/item?id=35481775) - [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/)
 * [2023-04-07, 14:06:55](https://news.ycombinator.com/item?id=35481712) - [U.S. and China wage war beneath the waves – over internet cables](https://www.reuters.com/investigates/special-report/us-china-tech-cables/)
 * [2023-04-07, 13:55:22](https://news.ycombinator.com/item?id=35481580) - [Flipper Zero banned by Amazon for being a ‘card skimming device’](https://www.bleepingcomputer.com/news/technology/flipper-zero-banned-by-amazon-for-being-a-card-skimming-device-/)
