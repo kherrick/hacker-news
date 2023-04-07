@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-07, 05:01:32](https://news.ycombinator.com/item?id=35478201) - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt)
+* [2023-04-07, 04:44:14](https://news.ycombinator.com/item?id=35478120) - [I was bullied by a customer-focused, highest-market-value company](https://telegra.ph/How-I-Was-Bullied-by-a-Company-Claiming-to-Care-About-Customer-Satisfaction-and-Holding-the-Highest-Market-Value-04-07)
 * [2023-04-07, 04:21:21](https://news.ycombinator.com/item?id=35478007) - [Western Digital cloud services down for 4 days](https://status.mycloud.com/os4)
 * [2023-04-07, 03:28:35](https://news.ycombinator.com/item?id=35477695) - [Administrative Scripting with Julia](https://github.com/ninjaaron/administrative-scripting-with-julia)
 * [2023-04-07, 03:12:11](https://news.ycombinator.com/item?id=35477582) - [Elusive ‘einstein’ solves a longstanding math problem](https://www.nytimes.com/2023/03/28/science/mathematics-tiling-einstein.html)
@@ -29,7 +30,6 @@
 * [2023-04-06, 15:25:18](https://news.ycombinator.com/item?id=35469632) - [Spotting and avoiding heap fragmentation in Rust applications](https://www.svix.com/blog/heap-fragmentation-in-rust-applications/)
 * [2023-04-06, 12:10:34](https://news.ycombinator.com/item?id=35467248) - [Ask HN: When did multiple environments become standard practice?](https://news.ycombinator.com/item?id=35467248)
 * [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
-* [2023-04-06, 06:09:58](https://news.ycombinator.com/item?id=35464761) - [Future of Borges estate in limbo as widow doesn&#x27;t leave will](https://apnews.com/article/jorge-luis-borges-will-argentina-18551412a43cd8ae30b943fbffd1cc31)
 
 ## [Archives](archives/index.md)
 
