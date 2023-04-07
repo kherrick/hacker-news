@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-04-06, 15:25:18",
-      "https://news.ycombinator.com/item?id=35469632"
-    ],
-    [
-      "Spotting and avoiding heap fragmentation in Rust applications",
-      "https://www.svix.com/blog/heap-fragmentation-in-rust-applications/"
-    ]
-  ],
-  [
-    [
       "2023-04-06, 14:30:10",
       "https://news.ycombinator.com/item?id=35468753"
     ],
@@ -277,6 +267,16 @@
     [
       "Defamed by ChatGPT",
       "https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/"
+    ]
+  ],
+  [
+    [
+      "2023-04-06, 12:10:34",
+      "https://news.ycombinator.com/item?id=35467248"
+    ],
+    [
+      "Ask HN: When did multiple environments become standard practice?",
+      "https://news.ycombinator.com/item?id=35467248"
     ]
   ],
   [
