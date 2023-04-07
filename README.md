@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 18:57:53](https://news.ycombinator.com/item?id=35485552) - [Ask HN: Is it appropriate to ask a startup to let me see their cap table?](https://news.ycombinator.com/item?id=35485552)
 * [2023-04-07, 18:25:49](https://news.ycombinator.com/item?id=35485064) - [Carbon nanotube recognition by human Siglec-14 provokes inflammation](https://www.nature.com/articles/s41565-023-01363-w)
 * [2023-04-07, 18:19:42](https://news.ycombinator.com/item?id=35484978) - [Why did Phreesia share my medical data after I opted out?](https://www.statnews.com/2023/04/07/medical-data-privacy-phreesia/)
 * [2023-04-07, 17:11:42](https://news.ycombinator.com/item?id=35484110) - [Programming-language popularity by GitHub pull requests](https://lemire.me/blog/2023/04/07/programming-language-popularity-by-github-pull-requests/)
@@ -9,7 +10,6 @@
 * [2023-04-07, 15:53:05](https://news.ycombinator.com/item?id=35482983) - [Wing Commander IV](https://www.filfre.net/2023/04/wing-commander-iv/)
 * [2023-04-07, 15:29:04](https://news.ycombinator.com/item?id=35482636) - [Show HN: Building musical synthesizers with SQL queries](https://github.com/ClickHouse/NoiSQL)
 * [2023-04-07, 15:24:43](https://news.ycombinator.com/item?id=35482568) - [Age of Invention: How the Dutch Did It Better](https://antonhowes.substack.com/p/age-of-invention-how-the-dutch-did)
-* [2023-04-07, 14:13:41](https://news.ycombinator.com/item?id=35481775) - [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/)
 * [2023-04-07, 14:06:55](https://news.ycombinator.com/item?id=35481712) - [U.S. and China wage war beneath the waves over internet cables](https://www.reuters.com/investigates/special-report/us-china-tech-cables/)
 * [2023-04-07, 13:40:23](https://news.ycombinator.com/item?id=35481456) - [NSA created online cybersecurity course with 100s of classes](https://clark.center/c/nccp)
 * [2023-04-07, 13:34:09](https://news.ycombinator.com/item?id=35481409) - [Perennial rice: Plant once, harvest again and again](https://www.npr.org/2023/03/23/1165680024/perennial-rice-plant-once-harvest-again-and-again)
