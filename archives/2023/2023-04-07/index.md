@@ -6,6 +6,7 @@
 
 * [2023-04-07, 21:37:25](https://news.ycombinator.com/item?id=35487311) - [Beyond the PayPal Mafia: A Case Study on the Uber Alumni Network](https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study)
 * [2023-04-07, 21:36:36](https://news.ycombinator.com/item?id=35487303) - [‘AI Pause’ Open Letter Stokes Fear and Controversy](https://spectrum.ieee.org/ai-pause-letter-stokes-fear)
+* [2023-04-07, 21:36:32](https://news.ycombinator.com/item?id=35487302) - [Matt Taibbi: I’m obviously staying at Substack](https://twitter.com/mtaibbi/status/1644431125463351298)
 * [2023-04-07, 21:29:05](https://news.ycombinator.com/item?id=35487200) - [John Carmack on the Similarity of Human Learning and LLMs Training](https://twitter.com/ID_AA_Carmack/status/1644400179620065284)
 * [2023-04-07, 21:17:51](https://news.ycombinator.com/item?id=35487093) - [How the Fuck Did We Get Here?](https://fagnerbrack.com/how-the-fuck-did-we-get-here-b9bac6ba7a0f)
 * [2023-04-07, 21:15:52](https://news.ycombinator.com/item?id=35487072) - [Tree Raves: A Case Study in Social Protocols](https://prigoose.substack.com/p/tree-raves-a-case-study-in-social)
