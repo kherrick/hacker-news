@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-04-07, 04:21:21",
+      "https://news.ycombinator.com/item?id=35478007"
+    ],
+    [
+      "Western Digital cloud services down for 4 days",
+      "https://status.mycloud.com/os4"
+    ]
+  ],
+  [
+    [
       "2023-04-07, 03:28:35",
       "https://news.ycombinator.com/item?id=35477695"
     ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2023-04-06, 14:30:10",
-      "https://news.ycombinator.com/item?id=35468753"
+      "2023-04-06, 15:25:18",
+      "https://news.ycombinator.com/item?id=35469632"
     ],
     [
-      "If we lose the Internet Archive, we’re screwed",
-      "https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 14:12:05",
-      "https://news.ycombinator.com/item?id=35468540"
-    ],
-    [
-      "Defamed by ChatGPT",
-      "https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/"
+      "Spotting and avoiding heap fragmentation in Rust applications",
+      "https://www.svix.com/blog/heap-fragmentation-in-rust-applications/"
     ]
   ],
   [
