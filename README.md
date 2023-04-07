@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 05:12:12](https://news.ycombinator.com/item?id=35478268) - [Crazy ants’ strange genomes are a biological first](https://www.nature.com/articles/d41586-023-01002-3)
 * [2023-04-07, 05:07:16](https://news.ycombinator.com/item?id=35478240) - [NZ’s biggest data breach shows retention is the sleeping giant of data security](https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/)
 * [2023-04-07, 05:01:32](https://news.ycombinator.com/item?id=35478201) - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt)
-* [2023-04-07, 04:44:14](https://news.ycombinator.com/item?id=35478120) - [I was bullied by a customer-focused, highest-market-value company](https://telegra.ph/How-I-Was-Bullied-by-a-Company-Claiming-to-Care-About-Customer-Satisfaction-and-Holding-the-Highest-Market-Value-04-07)
+* [2023-04-07, 04:48:21](https://news.ycombinator.com/item?id=35478136) - [Manufactured housing: the Ugly Duckling of affordable housing](https://www.niskanencenter.org/manufactured-housing-the-ugly-duckling-of-affordable-housing/)
 * [2023-04-07, 04:21:21](https://news.ycombinator.com/item?id=35478007) - [Western Digital cloud services down for 4 days](https://status.mycloud.com/os4)
 * [2023-04-07, 03:28:35](https://news.ycombinator.com/item?id=35477695) - [Administrative Scripting with Julia](https://github.com/ninjaaron/administrative-scripting-with-julia)
 * [2023-04-07, 03:12:11](https://news.ycombinator.com/item?id=35477582) - [Elusive ‘einstein’ solves a longstanding math problem](https://www.nytimes.com/2023/03/28/science/mathematics-tiling-einstein.html)
@@ -11,7 +12,6 @@
 * [2023-04-07, 00:12:28](https://news.ycombinator.com/item?id=35476359) - [Hubble sees possible runaway black hole creating a trail of stars](https://hubblesite.org/contents/news-releases/2023/news-2023-010)
 * [2023-04-07, 00:11:42](https://news.ycombinator.com/item?id=35476350) - [Replacing bad systems with bad systems](https://seths.blog/2023/04/replacing-bad-systems-with-bad-systems/)
 * [2023-04-06, 23:58:57](https://news.ycombinator.com/item?id=35476236) - [‘Alien calculus’ could save particle physics from infinities](https://www.quantamagazine.org/alien-calculus-could-save-particle-physics-from-infinities-20230406/)
-* [2023-04-06, 22:39:28](https://news.ycombinator.com/item?id=35475482) - [Is it my fault if you can&#x27;t handle the truth? (2019)](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
 * [2023-04-06, 22:17:27](https://news.ycombinator.com/item?id=35475286) - [The Artistic Partnership of Lady Frieda Harris and Aleister Crowley](https://www.laphamsquarterly.org/roundtable/analysis-does-cramp-painter)
 * [2023-04-06, 22:04:41](https://news.ycombinator.com/item?id=35475175) - [Transactions Aren&#x27;t Everything](https://www.michaelnygard.com/blog/2023/04/transactions-arent-everything/)
 * [2023-04-06, 21:39:33](https://news.ycombinator.com/item?id=35474895) - [Illustrations of ‘unseen’ Japanese maintenance trains that only work at night](https://www.spoon-tamago.com/toei-project-unseen-maintenance-trains/)
@@ -27,8 +27,8 @@
 * [2023-04-06, 16:05:51](https://news.ycombinator.com/item?id=35470371) - [Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 * [2023-04-06, 15:47:56](https://news.ycombinator.com/item?id=35470057) - [WebAssembly Tail Calls](https://v8.dev/blog/wasm-tail-call)
 * [2023-04-06, 15:40:17](https://news.ycombinator.com/item?id=35469908) - [What it feels like to work in AI right now](https://robotic.substack.com/p/behind-the-curtain-ai)
-* [2023-04-06, 15:25:18](https://news.ycombinator.com/item?id=35469632) - [Spotting and avoiding heap fragmentation in Rust applications](https://www.svix.com/blog/heap-fragmentation-in-rust-applications/)
 * [2023-04-06, 12:10:34](https://news.ycombinator.com/item?id=35467248) - [Ask HN: When did multiple environments become standard practice?](https://news.ycombinator.com/item?id=35467248)
+* [2023-04-06, 09:56:52](https://news.ycombinator.com/item?id=35466332) - [Where Do “Shenanigans” Come From? (2013)](https://english.stackexchange.com/questions/142498/where-do-shenanigans-come-from)
 * [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 
 ## [Archives](archives/index.md)

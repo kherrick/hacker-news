@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 05:12:12](https://news.ycombinator.com/item?id=35478268) - [Crazy ants’ strange genomes are a biological first](https://www.nature.com/articles/d41586-023-01002-3)
 * [2023-04-07, 05:07:16](https://news.ycombinator.com/item?id=35478240) - [NZ’s biggest data breach shows retention is the sleeping giant of data security](https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/)
 * [2023-04-07, 05:01:32](https://news.ycombinator.com/item?id=35478201) - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt)
+* [2023-04-07, 04:48:21](https://news.ycombinator.com/item?id=35478136) - [Manufactured housing: the Ugly Duckling of affordable housing](https://www.niskanencenter.org/manufactured-housing-the-ugly-duckling-of-affordable-housing/)
 * [2023-04-07, 04:44:14](https://news.ycombinator.com/item?id=35478120) - [I was bullied by a customer-focused, highest-market-value company](https://telegra.ph/How-I-Was-Bullied-by-a-Company-Claiming-to-Care-About-Customer-Satisfaction-and-Holding-the-Highest-Market-Value-04-07)
 * [2023-04-07, 04:21:21](https://news.ycombinator.com/item?id=35478007) - [Western Digital cloud services down for 4 days](https://status.mycloud.com/os4)
 * [2023-04-07, 03:36:11](https://news.ycombinator.com/item?id=35477742) - [Tesla Employees Have Been Sharing Videos Recorded Inside Customers Cars](https://jalopnik.com/tesla-employees-share-video-inside-customer-cars-1850307909)

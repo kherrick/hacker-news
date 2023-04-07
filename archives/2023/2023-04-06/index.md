@@ -80,6 +80,7 @@
 * [2023-04-06, 11:21:06](https://news.ycombinator.com/item?id=35466864) - [Golf has a problem: people are hitting the ball too far](https://www.npr.org/2023/04/06/1167772714/golf-ball-change-rule-augusta-tiger-woods-pros-courses)
 * [2023-04-06, 11:03:20](https://news.ycombinator.com/item?id=35466718) - [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
 * [2023-04-06, 10:55:58](https://news.ycombinator.com/item?id=35466675) - [What happens when you leak AWS credentials and how AWS minimizes the damage](https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
+* [2023-04-06, 09:56:52](https://news.ycombinator.com/item?id=35466332) - [Where Do “Shenanigans” Come From? (2013)](https://english.stackexchange.com/questions/142498/where-do-shenanigans-come-from)
 * [2023-04-06, 09:36:08](https://news.ycombinator.com/item?id=35466201) - [Simply explained: How does GPT work?](https://confusedbit.dev/posts/how_does_gpt_work/)
 * [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [Chrome Ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 * [2023-04-06, 07:42:40](https://news.ycombinator.com/item?id=35465476) - [Pink Floyd inspired research into medieval monks and volcanology](https://arstechnica.com/science/2023/04/how-pink-floyd-inspired-research-into-medieval-monks-and-volcanology/)
