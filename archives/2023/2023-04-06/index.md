@@ -73,6 +73,7 @@
 * [2023-04-06, 13:12:48](https://news.ycombinator.com/item?id=35467892) - [Layoffs are up nearly fivefold – 270k so far in 2023](https://www.cnbc.com/2023/04/06/layoffs-are-up-nearly-fivefold-so-far-this-year-with-tech-companies-leading-the-way.html)
 * [2023-04-06, 12:55:10](https://news.ycombinator.com/item?id=35467711) - [JSON vs. XML with Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/#)
 * [2023-04-06, 12:22:10](https://news.ycombinator.com/item?id=35467367) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
+* [2023-04-06, 12:10:34](https://news.ycombinator.com/item?id=35467248) - [Ask HN: When did multiple environments become standard practice?](https://news.ycombinator.com/item?id=35467248)
 * [2023-04-06, 12:09:37](https://news.ycombinator.com/item?id=35467243) - [Mariadb.com is dead, long live MariaDB.org](https://medium.com/@imashadowphantom/mariadb-com-is-dead-long-live-mariadb-org-b8a0ca50a637)
 * [2023-04-06, 12:01:13](https://news.ycombinator.com/item?id=35467186) - [WorkRamp (YC S16) Is Hiring a Product Manager (Remote)](https://www.ycombinator.com/companies/workramp/jobs/WaMUlm2-product-manager)
 * [2023-04-06, 11:57:42](https://news.ycombinator.com/item?id=35467159) - [Show HN: Curiosity of the Day](https://www.curiosityoftheday.com/)

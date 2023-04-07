@@ -25,9 +25,9 @@
 * [2023-04-06, 16:05:51](https://news.ycombinator.com/item?id=35470371) - [Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 * [2023-04-06, 15:47:56](https://news.ycombinator.com/item?id=35470057) - [WebAssembly Tail Calls](https://v8.dev/blog/wasm-tail-call)
 * [2023-04-06, 15:40:17](https://news.ycombinator.com/item?id=35469908) - [What it feels like to work in AI right now](https://robotic.substack.com/p/behind-the-curtain-ai)
-* [2023-04-06, 15:25:18](https://news.ycombinator.com/item?id=35469632) - [Spotting and avoiding heap fragmentation in Rust applications](https://www.svix.com/blog/heap-fragmentation-in-rust-applications/)
 * [2023-04-06, 14:30:10](https://news.ycombinator.com/item?id=35468753) - [If we lose the Internet Archive, we’re screwed](https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/)
 * [2023-04-06, 14:12:05](https://news.ycombinator.com/item?id=35468540) - [Defamed by ChatGPT](https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/)
+* [2023-04-06, 12:10:34](https://news.ycombinator.com/item?id=35467248) - [Ask HN: When did multiple environments become standard practice?](https://news.ycombinator.com/item?id=35467248)
 * [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 * [2023-04-06, 06:09:58](https://news.ycombinator.com/item?id=35464761) - [Future of Borges estate in limbo as widow doesn&#x27;t leave will](https://apnews.com/article/jorge-luis-borges-will-argentina-18551412a43cd8ae30b943fbffd1cc31)
 
