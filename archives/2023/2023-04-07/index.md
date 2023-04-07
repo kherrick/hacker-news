@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 22:04:51](https://news.ycombinator.com/item?id=35487603) - [Texas bill would criminalize websites that share abortion info](https://www.rollingstone.com/politics/politics-features/texas-abortion-rights-internet-access-pill-1234691494/)
 * [2023-04-07, 21:37:25](https://news.ycombinator.com/item?id=35487311) - [Beyond the PayPal Mafia: A Case Study on the Uber Alumni Network](https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study)
 * [2023-04-07, 21:36:36](https://news.ycombinator.com/item?id=35487303) - [‘AI Pause’ Open Letter Stokes Fear and Controversy](https://spectrum.ieee.org/ai-pause-letter-stokes-fear)
 * [2023-04-07, 21:36:32](https://news.ycombinator.com/item?id=35487302) - [Matt Taibbi: I’m obviously staying at Substack](https://twitter.com/mtaibbi/status/1644431125463351298)
