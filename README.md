@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-07, 13:28:07](https://news.ycombinator.com/item?id=35481363) - [Prediction: Semantic search(boring) ends up bigger than generative AI(cool)](https://news.ycombinator.com/item?id=35481363)
+* [2023-04-07, 14:13:41](https://news.ycombinator.com/item?id=35481775) - [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/)
+* [2023-04-07, 13:55:22](https://news.ycombinator.com/item?id=35481580) - [Flipper Zero banned by Amazon for being a ‘card skimming device’](https://www.bleepingcomputer.com/news/technology/flipper-zero-banned-by-amazon-for-being-a-card-skimming-device-/)
+* [2023-04-07, 13:30:05](https://news.ycombinator.com/item?id=35481380) - [The longest straight line in Great Britain (without crossing a public road)](http://www.statsmapsnpix.com/2023/04/the-longest-straight-line-in-great.html)
+* [2023-04-07, 13:28:07](https://news.ycombinator.com/item?id=35481363) - [Prediction: Semantic search (boring) ends up bigger than generative AI (cool)](https://news.ycombinator.com/item?id=35481363)
 * [2023-04-07, 13:22:16](https://news.ycombinator.com/item?id=35481309) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
 * [2023-04-07, 12:03:58](https://news.ycombinator.com/item?id=35480711) - [What it’s like to fall into the deadly Australian plant, gympie-gympie](https://www.iflscience.com/woman-explains-what-it-was-like-to-fall-into-the-worlds-most-dangerous-plant-68176)
 * [2023-04-07, 12:00:25](https://news.ycombinator.com/item?id=35480687) - [Cerebrium (YC W22) Is Hiring – ML Engineer](https://www.ycombinator.com/companies/cerebrium/jobs/GFuLmiG-ml-engineer)
@@ -22,14 +25,11 @@
 * [2023-04-07, 00:11:42](https://news.ycombinator.com/item?id=35476350) - [Replacing bad systems with bad systems](https://seths.blog/2023/04/replacing-bad-systems-with-bad-systems/)
 * [2023-04-06, 23:58:57](https://news.ycombinator.com/item?id=35476236) - [‘Alien calculus’ could save particle physics from infinities](https://www.quantamagazine.org/alien-calculus-could-save-particle-physics-from-infinities-20230406/)
 * [2023-04-06, 16:40:17](https://news.ycombinator.com/item?id=35470915) - [Show HN: Tabby – A self-hosted GitHub Copilot](https://github.com/TabbyML/tabby)
-* [2023-04-06, 16:39:40](https://news.ycombinator.com/item?id=35470905) - [System design and the cost of architectural complexity (2013)](https://dspace.mit.edu/handle/1721.1/79551)
-* [2023-04-06, 15:47:56](https://news.ycombinator.com/item?id=35470057) - [WebAssembly Tail Calls](https://v8.dev/blog/wasm-tail-call)
 * [2023-04-06, 12:21:11](https://news.ycombinator.com/item?id=35467361) - [Why I Blog](https://www.dannyguo.com/blog/why-i-blog)
 * [2023-04-06, 12:17:55](https://news.ycombinator.com/item?id=35467327) - [A colorful problem that has long frustrated mathematicians](https://www.quantamagazine.org/only-computers-can-solve-this-map-coloring-problem-from-the-1800s-20230329/)
 * [2023-04-06, 10:29:26](https://news.ycombinator.com/item?id=35466507) - [Interactive: Ethiopian Music Scales](https://www.temesgen.com/learn/music-theory)
 * [2023-04-06, 10:25:20](https://news.ycombinator.com/item?id=35466482) - [3D Cellular Automata and GOL in the J programming language](http://archive.vector.org.uk/art10011650#ref4)
 * [2023-04-06, 09:56:52](https://news.ycombinator.com/item?id=35466332) - [Where Do “Shenanigans” Come From? (2013)](https://english.stackexchange.com/questions/142498/where-do-shenanigans-come-from)
-* [2023-04-06, 08:22:20](https://news.ycombinator.com/item?id=35465729) - [Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 
 ## [Archives](archives/index.md)
 
