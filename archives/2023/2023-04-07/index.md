@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 20:21:46](https://news.ycombinator.com/item?id=35486496) - [Tesla Master Plan Part 3 [pdf]](https://www.tesla.com/ns_videos/Tesla-Master-Plan-Part-3.pdf)
 * [2023-04-07, 19:57:14](https://news.ycombinator.com/item?id=35486277) - [LOLDrivers – Living Off the Land Drivers](https://www.loldrivers.io/)
 * [2023-04-07, 19:29:56](https://news.ycombinator.com/item?id=35485969) - [“No Way to Prevent This”, Says Only Nation Where This Regularly Happens](https://en.wikipedia.org/wiki/%22No_Way_to_Prevent_This%22,_Says_Only_Nation_Where_This_Regularly_Happens)
 * [2023-04-07, 19:19:51](https://news.ycombinator.com/item?id=35485854) - [LifeCard Folding Single-Shot .22 Pistol](https://trailblazerfirearms.com/lifecard-gun/)

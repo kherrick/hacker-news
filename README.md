@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 20:21:46](https://news.ycombinator.com/item?id=35486496) - [Tesla Master Plan Part 3 [pdf]](https://www.tesla.com/ns_videos/Tesla-Master-Plan-Part-3.pdf)
 * [2023-04-07, 19:57:14](https://news.ycombinator.com/item?id=35486277) - [LOLDrivers – Living Off the Land Drivers](https://www.loldrivers.io/)
-* [2023-04-07, 18:54:52](https://news.ycombinator.com/item?id=35485511) - [Frequency comb breathalyzer detects Covid with excellent accuracy](https://www.nist.gov/news-events/news/2023/04/jilas-frequency-comb-breathalyzer-detects-covid-19-excellent-accuracy)
+* [2023-04-07, 18:57:53](https://news.ycombinator.com/item?id=35485552) - [Ask HN: Is it appropriate to ask a startup to let me see their cap table?](https://news.ycombinator.com/item?id=35485552)
 * [2023-04-07, 18:25:49](https://news.ycombinator.com/item?id=35485064) - [Carbon nanotube recognition by human Siglec-14 provokes inflammation](https://www.nature.com/articles/s41565-023-01363-w)
 * [2023-04-07, 18:19:42](https://news.ycombinator.com/item?id=35484978) - [Why did Phreesia share my medical data after I opted out?](https://www.statnews.com/2023/04/07/medical-data-privacy-phreesia/)
 * [2023-04-07, 17:50:18](https://news.ycombinator.com/item?id=35484594) - [Ask Wirecutter: Can you recommend a not-smart TV for me?](https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/)
@@ -20,7 +21,6 @@
 * [2023-04-07, 09:24:13](https://news.ycombinator.com/item?id=35479800) - [Board game where tigers hunt goats while goats block their movements](https://github.com/sumn2u/baghchal)
 * [2023-04-07, 08:36:20](https://news.ycombinator.com/item?id=35479553) - [Database “sharding” came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 08:09:33](https://news.ycombinator.com/item?id=35479378) - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
-* [2023-04-07, 07:25:10](https://news.ycombinator.com/item?id=35479071) - [Why ChatGPT and Bing Chat are so good at making things up](https://arstechnica.com/information-technology/2023/04/why-ai-chatbots-are-the-ultimate-bs-machines-and-how-people-hope-to-fix-them/)
 * [2023-04-07, 06:51:55](https://news.ycombinator.com/item?id=35478884) - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
 * [2023-04-07, 05:16:49](https://news.ycombinator.com/item?id=35478296) - [Oscar Night in Hollywood (1948)](https://www.theatlantic.com/magazine/archive/1948/03/oscar-night-in-hollywood/305705/)
 * [2023-04-07, 02:36:03](https://news.ycombinator.com/item?id=35477329) - [Deposit Outflows Shine Light on Fed Program That Pays Money-Market Funds](https://www.wsj.com/articles/deposit-outflows-shine-light-on-fed-program-that-pays-money-market-funds-6763e11c)
