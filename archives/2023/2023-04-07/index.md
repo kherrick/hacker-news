@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 09:39:27](https://news.ycombinator.com/item?id=35479867) - [Bosses Want Hard Workers–So They’re Hiring Older People](https://www.wsj.com/articles/do-older-workers-work-harder-some-bosses-think-so-c4088c7d)
 * [2023-04-07, 08:45:50](https://news.ycombinator.com/item?id=35479604) - [Bystander ignored dying Cash App founder Bob Lee as he begged for help](https://nypost.com/2023/04/06/bystander-ignored-dying-tech-guru-bob-lee-begging-for-help/)
 * [2023-04-07, 08:36:20](https://news.ycombinator.com/item?id=35479553) - [Origin of the Term Database “Sharding”](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 08:09:33](https://news.ycombinator.com/item?id=35479378) - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)

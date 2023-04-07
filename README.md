@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-07, 09:39:27](https://news.ycombinator.com/item?id=35479867) - [Bosses Want Hard Workers–So They’re Hiring Older People](https://www.wsj.com/articles/do-older-workers-work-harder-some-bosses-think-so-c4088c7d)
 * [2023-04-07, 08:36:20](https://news.ycombinator.com/item?id=35479553) - [Database “Sharding” came from Ultimate Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 08:09:33](https://news.ycombinator.com/item?id=35479378) - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
 * [2023-04-07, 07:00:01](https://news.ycombinator.com/item?id=35478929) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
@@ -21,7 +22,6 @@
 * [2023-04-06, 20:47:28](https://news.ycombinator.com/item?id=35474172) - [Are your memory-bound benchmarking timings normally distributed?](https://lemire.me/blog/2023/04/06/are-your-memory-bound-benchmarking-timings-normally-distributed/)
 * [2023-04-06, 19:47:06](https://news.ycombinator.com/item?id=35473422) - [Europe drastically cut its energy consumption this winter](https://www.economist.com/graphic-detail/2023/04/05/europe-drastically-cut-its-energy-consumption-this-winter)
 * [2023-04-06, 19:30:54](https://news.ycombinator.com/item?id=35473241) - [The Life Engine](https://thelifeengine.net/)
-* [2023-04-06, 18:54:30](https://news.ycombinator.com/item?id=35472750) - [A radiation hard RISC-V microprocessor for high-energy physics applications](https://arxiv.org/abs/2304.02410)
 * [2023-04-06, 16:40:17](https://news.ycombinator.com/item?id=35470915) - [Show HN: Tabby – A self-hosted GitHub Copilot](https://github.com/TabbyML/tabby)
 * [2023-04-06, 16:39:40](https://news.ycombinator.com/item?id=35470905) - [System design and the cost of architectural complexity (2013)](https://dspace.mit.edu/handle/1721.1/79551)
 * [2023-04-06, 15:47:56](https://news.ycombinator.com/item?id=35470057) - [WebAssembly Tail Calls](https://v8.dev/blog/wasm-tail-call)
