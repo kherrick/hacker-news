@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-07, 21:11:09](https://news.ycombinator.com/item?id=35487036) - [NYPD officers brag about milking overtime in accidental recording](https://gothamist.com/news/nypd-officers-brag-about-milking-overtime-call-detainees-names-in-accidental-recording)
+* [2023-04-07, 21:29:05](https://news.ycombinator.com/item?id=35487200) - [John Carmack on the Similarity of Human Learning and LLMs Training](https://twitter.com/ID_AA_Carmack/status/1644400179620065284)
+* [2023-04-07, 21:15:43](https://news.ycombinator.com/item?id=35487071) - [Skeptical optimists are the key to an abundant AI future](https://www.treycausey.com/blog/skeptical_optimists.html)
 * [2023-04-07, 21:03:57](https://news.ycombinator.com/item?id=35486972) - [Estes Rockets Model Scale 1:100 Replica of SpaceX Falcon 9](https://estesrockets.com/spacex-falcon-9/)
 * [2023-04-07, 20:59:21](https://news.ycombinator.com/item?id=35486923) - [Direct evidence of the use of multiple drugs in Bronze Age from human hair test](https://www.nature.com/articles/s41598-023-31064-2)
 * [2023-04-07, 19:57:14](https://news.ycombinator.com/item?id=35486277) - [LOLDrivers – Living Off the Land Drivers](https://www.loldrivers.io/)
@@ -18,7 +19,6 @@
 * [2023-04-07, 13:22:16](https://news.ycombinator.com/item?id=35481309) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
 * [2023-04-07, 12:54:26](https://news.ycombinator.com/item?id=35481088) - [Exploring nine simultaneously occurring transients on April 12th 1950 (2021)](https://www.nature.com/articles/s41598-021-92162-7)
 * [2023-04-07, 10:18:15](https://news.ycombinator.com/item?id=35480056) - [Codeberg – Fast open source alternative to GitHub](https://codeberg.org/)
-* [2023-04-07, 09:24:13](https://news.ycombinator.com/item?id=35479800) - [Board game where tigers hunt goats while goats block their movements](https://github.com/sumn2u/baghchal)
 * [2023-04-07, 08:36:20](https://news.ycombinator.com/item?id=35479553) - [Database “sharding” came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 08:09:33](https://news.ycombinator.com/item?id=35479378) - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
 * [2023-04-07, 06:51:55](https://news.ycombinator.com/item?id=35478884) - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)

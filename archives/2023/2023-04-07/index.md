@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 21:29:05](https://news.ycombinator.com/item?id=35487200) - [John Carmack on the Similarity of Human Learning and LLMs Training](https://twitter.com/ID_AA_Carmack/status/1644400179620065284)
 * [2023-04-07, 21:17:51](https://news.ycombinator.com/item?id=35487093) - [How the Fuck Did We Get Here?](https://fagnerbrack.com/how-the-fuck-did-we-get-here-b9bac6ba7a0f)
+* [2023-04-07, 21:15:43](https://news.ycombinator.com/item?id=35487071) - [Skeptical optimists are the key to an abundant AI future](https://www.treycausey.com/blog/skeptical_optimists.html)
 * [2023-04-07, 21:11:09](https://news.ycombinator.com/item?id=35487036) - [NYPD officers brag about milking overtime in accidental recording](https://gothamist.com/news/nypd-officers-brag-about-milking-overtime-call-detainees-names-in-accidental-recording)
 * [2023-04-07, 21:03:57](https://news.ycombinator.com/item?id=35486972) - [Estes Rockets Model Scale 1:100 Replica of SpaceX Falcon 9](https://estesrockets.com/spacex-falcon-9/)
 * [2023-04-07, 20:59:21](https://news.ycombinator.com/item?id=35486923) - [Direct evidence of the use of multiple drugs in Bronze Age from human hair test](https://www.nature.com/articles/s41598-023-31064-2)
