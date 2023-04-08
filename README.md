@@ -2,6 +2,7 @@
 
 * [2023-04-08, 09:36:38](https://news.ycombinator.com/item?id=35491859) - [Cruise Robotaxi vs. Bus Crash Caused by Confusion over Articulated Bus](https://www.forbes.com/sites/bradtempleton/2023/04/07/gms-cruise-robotaxi-vs-bus-crash-caused-by-confusion-over-articulated-bus-they-say-its-fixed/)
 * [2023-04-08, 08:43:54](https://news.ycombinator.com/item?id=35491662) - [MSI confirms cyberattack, warns against unofficial firmware](https://www.theregister.com/2023/04/07/msi_cyberattack_bios/)
+* [2023-04-08, 08:24:59](https://news.ycombinator.com/item?id=35491590) - [Knit: Making a Better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 * [2023-04-08, 08:08:08](https://news.ycombinator.com/item?id=35491520) - [0x0: Share Files from Terminal](https://0x0.st/)
 * [2023-04-08, 07:01:05](https://news.ycombinator.com/item?id=35491192) - [Nango (YC W23) Is Hiring a Founding Engineer (full-stack&#x2F;back end)](https://nango.dev/jobs)
 * [2023-04-08, 06:31:01](https://news.ycombinator.com/item?id=35491060) - [Do judges give out tougher sentences when hungry? A study too good to be true](https://inews.co.uk/news/do-judges-give-out-tougher-sentences-when-hungry-the-story-behind-a-study-too-good-to-be-true-2238347)
@@ -14,7 +15,6 @@
 * [2023-04-08, 00:41:48](https://news.ycombinator.com/item?id=35489113) - [Mac-se-video-converter: Compact Mac to VGA signal converter using rPi Pico](https://github.com/guruthree/mac-se-video-converter)
 * [2023-04-08, 00:30:04](https://news.ycombinator.com/item?id=35489029) - [Show HN: Learn Rust 101 – A guide to aid your journey of becoming a Rustacean](https://github.com/plabayo/learn-rust-101/blob/main/README.md)
 * [2023-04-08, 00:22:49](https://news.ycombinator.com/item?id=35488980) - [Go port of SQLite without CGo](https://gitlab.com/cznic/sqlite)
-* [2023-04-07, 22:03:37](https://news.ycombinator.com/item?id=35487588) - [Show HN: A toy bootloader written in C++](https://github.com/AgentD/hausboot)
 * [2023-04-07, 21:32:19](https://news.ycombinator.com/item?id=35487250) - [Show HN: A minimal job board for signal processing engineers](https://signalprocessingjobs.com/)
 * [2023-04-07, 21:03:57](https://news.ycombinator.com/item?id=35486972) - [Estes Rockets Model Scale 1:100 Replica of SpaceX Falcon 9](https://estesrockets.com/spacex-falcon-9/)
 * [2023-04-07, 18:52:45](https://news.ycombinator.com/item?id=35485483) - [Higher-order functions in Go](https://eli.thegreenplace.net/2023/higher-order-functions-in-go/)
