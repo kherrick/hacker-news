@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-08, 17:59:27](https://news.ycombinator.com/item?id=35495910) - [Why and How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
+* [2023-04-08, 17:56:54](https://news.ycombinator.com/item?id=35495886) - [Writing a Simple Garbage Collector in C (2020)](http://maplant.com/gc.html)
 * [2023-04-08, 17:54:50](https://news.ycombinator.com/item?id=35495865) - [Making an Alphorn from Scratch (2020)](https://www.argobuilder.com/making-an-alphorn.html)
 * [2023-04-08, 17:37:16](https://news.ycombinator.com/item?id=35495670) - [A Rubyist&#x27;s Walk Along the C-Side (Part 10): Benchmarking](https://blog.peterzhu.ca/ruby-c-ext-part-10/)
 * [2023-04-08, 17:29:29](https://news.ycombinator.com/item?id=35495579) - [Electricity Prices by Country](https://www.electricrate.com/data-center/electricity-prices-by-country/)
@@ -11,7 +12,6 @@
 * [2023-04-08, 15:39:10](https://news.ycombinator.com/item?id=35494342) - [To Supercharge Learning, Look to Play](https://nautil.us/to-supercharge-learning-look-to-play-292946/)
 * [2023-04-08, 15:32:27](https://news.ycombinator.com/item?id=35494266) - [When Slide Rules Ruled (2006) [pdf]](https://pdodds.w3.uvm.edu/files/papers/others/2006/stoll2006a.pdf)
 * [2023-04-08, 15:28:54](https://news.ycombinator.com/item?id=35494219) - [4 Ways to Put Lasers on Silicon](https://spectrum.ieee.org/lasers-on-silicon)
-* [2023-04-08, 14:22:16](https://news.ycombinator.com/item?id=35493399) - [Effects of Licorice on the Cardiovascular System (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6836258/)
 * [2023-04-08, 13:37:25](https://news.ycombinator.com/item?id=35492952) - [America is back in the factory business](https://www.wsj.com/articles/american-manufacturing-factory-jobs-comeback-3ce0c52c)
 * [2023-04-08, 12:43:54](https://news.ycombinator.com/item?id=35492672) - [Everything advertised on social media is overpriced junk](https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/#jeremys-razors)
 * [2023-04-08, 12:30:28](https://news.ycombinator.com/item?id=35492591) - [Why human societies developed so little during 300k years](https://woodfromeden.substack.com/p/violent-enough-to-stand-still)
