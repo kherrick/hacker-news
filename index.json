@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-04-08, 00:47:52",
-      "https://news.ycombinator.com/item?id=35489160"
-    ],
-    [
-      "Mark Zuckerberg interviewed about “The Facebook” (2005)",
-      "https://twitter.com/stevekrouse/status/1644364093917208580"
-    ]
-  ],
-  [
-    [
       "2023-04-08, 00:41:48",
       "https://news.ycombinator.com/item?id=35489113"
     ],
@@ -277,6 +267,16 @@
     [
       "The Planiverse: Computer Contact with a Two-Dimensional World",
       "https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/planiverse/overview.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-06, 19:06:20",
+      "https://news.ycombinator.com/item?id=35472930"
+    ],
+    [
+      "StackLlama: A hands-on guide to train LlaMa with RLHF",
+      "https://huggingface.co/blog/stackllama"
     ]
   ],
   [
