@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 17:59:27](https://news.ycombinator.com/item?id=35495910) - [Why and How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
 * [2023-04-08, 17:54:50](https://news.ycombinator.com/item?id=35495865) - [Making an Alphorn from Scratch (2020)](https://www.argobuilder.com/making-an-alphorn.html)
+* [2023-04-08, 17:37:16](https://news.ycombinator.com/item?id=35495670) - [A Rubyist&#x27;s Walk Along the C-Side (Part 10): Benchmarking](https://blog.peterzhu.ca/ruby-c-ext-part-10/)
 * [2023-04-08, 17:29:29](https://news.ycombinator.com/item?id=35495579) - [Electricity Prices by Country](https://www.electricrate.com/data-center/electricity-prices-by-country/)
 * [2023-04-08, 16:42:52](https://news.ycombinator.com/item?id=35495070) - [Deep learning library written in Futhark](https://github.com/HnimNart/deeplearning)
 * [2023-04-08, 16:32:00](https://news.ycombinator.com/item?id=35494941) - [Iran installs cameras in public places to identify, penalise unveiled women](https://www.reuters.com/world/middle-east/iran-installs-cameras-public-places-identify-penalise-unveiled-women-police-2023-04-08/)
