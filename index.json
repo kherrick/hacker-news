@@ -41,22 +41,22 @@
   ],
   [
     [
+      "2023-04-08, 00:41:48",
+      "https://news.ycombinator.com/item?id=35489113"
+    ],
+    [
+      "Mac-se-video-converter: Compact Mac to VGA signal converter using rPi Pico",
+      "https://github.com/guruthree/mac-se-video-converter"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 00:22:49",
       "https://news.ycombinator.com/item?id=35488980"
     ],
     [
       "Go port of SQLite without CGo",
       "https://gitlab.com/cznic/sqlite"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 23:09:43",
-      "https://news.ycombinator.com/item?id=35488291"
-    ],
-    [
-      "Show HN: Compress GPT-4 Prompts",
-      "https://www.promptreducer.com/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-04-07, 11:38:14",
+      "https://news.ycombinator.com/item?id=35480551"
+    ],
+    [
+      "Protecting high-performance superconducting magnets",
+      "https://phys.org/news/2023-04-high-performance-superconducting-magnets.html"
+    ]
+  ],
+  [
+    [
       "2023-04-07, 10:32:02",
       "https://news.ycombinator.com/item?id=35480136"
     ],
@@ -267,16 +277,6 @@
     [
       "The Planiverse: Computer Contact with a Two-Dimensional World",
       "https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/planiverse/overview.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 19:06:20",
-      "https://news.ycombinator.com/item?id=35472930"
-    ],
-    [
-      "StackLlama: A hands-on guide to train LlaMa with RLHF",
-      "https://huggingface.co/blog/stackllama"
     ]
   ],
   [
