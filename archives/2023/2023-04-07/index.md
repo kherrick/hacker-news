@@ -42,6 +42,7 @@
 * [2023-04-07, 17:00:46](https://news.ycombinator.com/item?id=35483975) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
 * [2023-04-07, 16:56:35](https://news.ycombinator.com/item?id=35483933) - [Show HN: ChatGDB – GPT-Powered GDB Assistant](https://github.com/pgosar/ChatGDB)
 * [2023-04-07, 16:48:31](https://news.ycombinator.com/item?id=35483823) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
+* [2023-04-07, 16:48:04](https://news.ycombinator.com/item?id=35483816) - [Vertical communities](https://noahpinion.substack.com/p/vertical-communities)
 * [2023-04-07, 16:39:19](https://news.ycombinator.com/item?id=35483669) - [Will another Forbes 30 under 30 member be arrested for fraud before 2025?](https://manifold.markets/LarsDoucet/will-another-forbes-30-under-30-mem)
 * [2023-04-07, 16:30:36](https://news.ycombinator.com/item?id=35483539) - [The machines of polymath Tatjana van Vark](https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/)
 * [2023-04-07, 15:53:05](https://news.ycombinator.com/item?id=35482983) - [Wing Commander IV](https://www.filfre.net/2023/04/wing-commander-iv/)
