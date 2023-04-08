@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-08, 05:13:17](https://news.ycombinator.com/item?id=35490740) - [Add Honest Achmed&#x27;s root certificate (2011)](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
 * [2023-04-08, 03:38:07](https://news.ycombinator.com/item?id=35490289) - [Show HN: BrowserBox – do stuff with browsers that you can&#x27;t normally](https://github.com/dosyago/BrowserBox)
 * [2023-04-08, 01:12:01](https://news.ycombinator.com/item?id=35489342) - [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning (2019)](https://arxiv.org/abs/1903.01003)
 * [2023-04-08, 00:48:58](https://news.ycombinator.com/item?id=35489168) - [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
@@ -8,7 +9,6 @@
 * [2023-04-07, 22:26:38](https://news.ycombinator.com/item?id=35487846) - [Cerebras-GPT: Open Compute-Optimal Language Models Trained on Cerebras Cluster](https://arxiv.org/abs/2304.03208)
 * [2023-04-07, 22:15:43](https://news.ycombinator.com/item?id=35487726) - [DPReview Will Remain Available as an Archive After It Closes](https://petapixel.com/2023/04/07/dpreview-will-remain-available-as-an-archive-after-it-closes/)
 * [2023-04-07, 22:03:37](https://news.ycombinator.com/item?id=35487588) - [Show HN: A toy bootloader written in C++](https://github.com/AgentD/hausboot)
-* [2023-04-07, 21:41:54](https://news.ycombinator.com/item?id=35487364) - [The company behind Stable Diffusion appears to be at risk of going under](https://futurism.com/the-byte/stable-diffusion-stability-ai-risk-going-under)
 * [2023-04-07, 21:32:19](https://news.ycombinator.com/item?id=35487250) - [Show HN: A minimal job board for signal processing engineers](https://signalprocessingjobs.com/)
 * [2023-04-07, 21:03:57](https://news.ycombinator.com/item?id=35486972) - [Estes Rockets Model Scale 1:100 Replica of SpaceX Falcon 9](https://estesrockets.com/spacex-falcon-9/)
 * [2023-04-07, 20:59:21](https://news.ycombinator.com/item?id=35486923) - [Direct evidence of the use of multiple drugs in Bronze Age from human hair test](https://www.nature.com/articles/s41598-023-31064-2)
