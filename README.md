@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-08, 20:45:56](https://news.ycombinator.com/item?id=35497433) - [Substack’s CEO says Musk’s claims are false](https://twitter.com/kenklippenstein/status/1644713355242881024)
 * [2023-04-08, 19:43:21](https://news.ycombinator.com/item?id=35496871) - [FCC Warns Portland Church to Shut Down Pirate FM Operating Under Its Steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
 * [2023-04-08, 19:26:55](https://news.ycombinator.com/item?id=35496712) - [A 1.5GB String](https://blog.backslasher.net/1.5GB-string.html)
 * [2023-04-08, 19:18:40](https://news.ycombinator.com/item?id=35496651) - [GNU+Linux laptops with Libreboot preinstalled, based on coreboot](https://minifree.org/)
@@ -19,6 +18,7 @@
 * [2023-04-08, 12:30:28](https://news.ycombinator.com/item?id=35492591) - [Why human societies developed so little during 300k years](https://woodfromeden.substack.com/p/violent-enough-to-stand-still)
 * [2023-04-08, 12:00:08](https://news.ycombinator.com/item?id=35492445) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35492445)
 * [2023-04-08, 11:28:20](https://news.ycombinator.com/item?id=35492307) - [The Garbage Collection Handbook, 2nd Edition](https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038)
+* [2023-04-08, 11:15:41](https://news.ycombinator.com/item?id=35492260) - [Legs and knobs for IKEA and other furniture](https://www.prettypegs.com/)
 * [2023-04-08, 10:29:14](https://news.ycombinator.com/item?id=35492067) - [Trashcan – web based service for indexing scientific papers, or other documents](https://gitlab.com/mildlyparallel/trashcan)
 * [2023-04-08, 09:53:35](https://news.ycombinator.com/item?id=35491936) - [Custom Allocators in Rust](https://nical.github.io/posts/rust-custom-allocators.html)
 * [2023-04-08, 09:30:08](https://news.ycombinator.com/item?id=35491834) - [Product Deconstruction and Review: Rexona Spray Can (2022)](https://dienamics.com.au/blog/product-deconstruction-review-rexona-spray-can/)
