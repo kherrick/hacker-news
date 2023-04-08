@@ -67,6 +67,7 @@
 * [2023-04-07, 12:54:26](https://news.ycombinator.com/item?id=35481088) - [Exploring nine simultaneously occurring transients on April 12th 1950 (2021)](https://www.nature.com/articles/s41598-021-92162-7)
 * [2023-04-07, 12:51:49](https://news.ycombinator.com/item?id=35481074) - [Quantum Computing 101](https://academy.meetiqm.com/curriculum/index.html)
 * [2023-04-07, 12:48:43](https://news.ycombinator.com/item?id=35481049) - [The Historical Radio Society of Australia](https://www.hrsa1.com/books.html)
+* [2023-04-07, 12:06:41](https://news.ycombinator.com/item?id=35480730) - [PatternFly: An open source design system](https://www.patternfly.org/)
 * [2023-04-07, 12:03:58](https://news.ycombinator.com/item?id=35480711) - [Woman Explains What It Was Like to Fall into the Most Dangerous Plant](https://www.iflscience.com/woman-explains-what-it-was-like-to-fall-into-the-worlds-most-dangerous-plant-68176)
 * [2023-04-07, 12:00:25](https://news.ycombinator.com/item?id=35480687) - [Cerebrium (YC W22) Is Hiring – ML Engineer](https://www.ycombinator.com/companies/cerebrium/jobs/GFuLmiG-ml-engineer)
 * [2023-04-07, 11:50:56](https://news.ycombinator.com/item?id=35480629) - [Neovim 0.9 Released](https://github.com/neovim/neovim/commit/040f1459849ab05b04f6bb1e77b3def16b4c2f2b)
