@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 16:42:52](https://news.ycombinator.com/item?id=35495070) - [Deep learning library written in Futhark](https://github.com/HnimNart/deeplearning)
 * [2023-04-08, 16:32:00](https://news.ycombinator.com/item?id=35494941) - [Iran installs cameras in public places to identify, penalise unveiled women](https://www.reuters.com/world/middle-east/iran-installs-cameras-public-places-identify-penalise-unveiled-women-police-2023-04-08/)
+* [2023-04-08, 15:57:59](https://news.ycombinator.com/item?id=35494532) - [Reverse-engineering the division microcode in the Intel 8086 processor](https://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)
 * [2023-04-08, 15:42:50](https://news.ycombinator.com/item?id=35494382) - [FAA K-12 Airport Design Challenge in Minecraft](https://www.faa.gov/airport-design-challenge)
 * [2023-04-08, 15:41:04](https://news.ycombinator.com/item?id=35494366) - [Google to Ban Financial Lending Apps from Accessing User Photos, Contacts](https://www.pcmag.com/news/google-to-ban-financial-lending-apps-from-accessing-user-photos-contacts)
 * [2023-04-08, 15:39:10](https://news.ycombinator.com/item?id=35494342) - [To Supercharge Learning, Look to Play](https://nautil.us/to-supercharge-learning-look-to-play-292946/)
