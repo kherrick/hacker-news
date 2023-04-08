@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-04-07, 23:39:32",
+      "https://news.ycombinator.com/item?id=35488599"
+    ],
+    [
+      "What crime stats don&#x27;t reveal about crime in San Francisco",
+      "https://startupdreams.substack.com/p/what-the-stats-about-crime-in-san"
+    ]
+  ],
+  [
+    [
+      "2023-04-07, 23:09:43",
+      "https://news.ycombinator.com/item?id=35488291"
+    ],
+    [
+      "Show HN: Compress GPT-4 Prompts",
+      "https://www.promptreducer.com/"
+    ]
+  ],
+  [
+    [
       "2023-04-07, 22:26:38",
       "https://news.ycombinator.com/item?id=35487846"
     ],
     [
       "ArXiv Paper for Cerebras-GPT: Open-Source Compute-Optimal Language Models",
       "https://arxiv.org/abs/2304.03208"
+    ]
+  ],
+  [
+    [
+      "2023-04-07, 22:15:43",
+      "https://news.ycombinator.com/item?id=35487726"
+    ],
+    [
+      "DPReview Will Remain Available as an Archive After It Closes",
+      "https://petapixel.com/2023/04/07/dpreview-will-remain-available-as-an-archive-after-it-closes/"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=35487311"
     ],
     [
-      "Beyond the PayPal Mafia: A Case Study on the Uber Alumni Network",
+      "A Case Study on the Uber Alumni Network",
       "https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study"
     ]
   ],
@@ -221,26 +251,6 @@
   ],
   [
     [
-      "2023-04-07, 09:24:13",
-      "https://news.ycombinator.com/item?id=35479800"
-    ],
-    [
-      "Board game where tigers hunt goats while goats block their movements",
-      "https://github.com/sumn2u/baghchal"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 08:36:20",
-      "https://news.ycombinator.com/item?id=35479553"
-    ],
-    [
-      "Database “sharding” came from Ultima Online?",
-      "https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/"
-    ]
-  ],
-  [
-    [
       "2023-04-07, 02:36:03",
       "https://news.ycombinator.com/item?id=35477329"
     ],
@@ -267,16 +277,6 @@
     [
       "StackLlama: A hands-on guide to train LlaMa with RLHF",
       "https://huggingface.co/blog/stackllama"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 18:13:23",
-      "https://news.ycombinator.com/item?id=35472175"
-    ],
-    [
-      "Secure Computing with Zymbit&#x27;s D35",
-      "https://www.jeffgeerling.com/blog/2023/secure-computing-zymbits-d35"
     ]
   ],
   [
