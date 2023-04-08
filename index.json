@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-04-08, 08:43:54",
+      "https://news.ycombinator.com/item?id=35491662"
+    ],
+    [
+      "MSI confirms cyberattack, warns against unofficial firmware",
+      "https://www.theregister.com/2023/04/07/msi_cyberattack_bios/"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 08:24:59",
       "https://news.ycombinator.com/item?id=35491590"
     ],
@@ -177,16 +187,6 @@
     [
       "Hacking Google ReCAPTCHA v3 Using Reinforcement Learning (2019)",
       "https://arxiv.org/abs/1903.01003"
-    ]
-  ],
-  [
-    [
-      "2023-04-08, 00:41:48",
-      "https://news.ycombinator.com/item?id=35489113"
-    ],
-    [
-      "Mac-se-video-converter: Compact Mac to VGA signal converter using rPi Pico",
-      "https://github.com/guruthree/mac-se-video-converter"
     ]
   ],
   [
