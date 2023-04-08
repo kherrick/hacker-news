@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 23:58:50](https://news.ycombinator.com/item?id=35488772) - [GPT-4 Takes a New Midterm and Gets an A](https://betonit.substack.com/p/gpt-4-takes-a-new-midterm-and-gets)
 * [2023-04-07, 23:39:32](https://news.ycombinator.com/item?id=35488599) - [What crime stats don&#x27;t reveal about crime in San Francisco](https://startupdreams.substack.com/p/what-the-stats-about-crime-in-san)
 * [2023-04-07, 23:09:43](https://news.ycombinator.com/item?id=35488291) - [Show HN: Compress GPT-4 Prompts](https://www.promptreducer.com/)
 * [2023-04-07, 22:57:16](https://news.ycombinator.com/item?id=35488172) - [Abortion Pill Blocked Nationwide Under Order from US Judge](https://www.bloomberg.com/news/articles/2023-04-07/abortion-pill-blocked-nationwide-under-order-from-us-judge)
@@ -62,6 +63,7 @@
 * [2023-04-07, 13:22:16](https://news.ycombinator.com/item?id=35481309) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
 * [2023-04-07, 13:04:29](https://news.ycombinator.com/item?id=35481162) - [These Tech Workers Say They Were Hired to Do Nothing](https://artifact.news/s/apeTrw-71ho=)
 * [2023-04-07, 12:54:26](https://news.ycombinator.com/item?id=35481088) - [Exploring nine simultaneously occurring transients on April 12th 1950 (2021)](https://www.nature.com/articles/s41598-021-92162-7)
+* [2023-04-07, 12:51:49](https://news.ycombinator.com/item?id=35481074) - [Quantum Computing 101](https://academy.meetiqm.com/curriculum/index.html)
 * [2023-04-07, 12:03:58](https://news.ycombinator.com/item?id=35480711) - [Woman Explains What It Was Like to Fall into the Most Dangerous Plant](https://www.iflscience.com/woman-explains-what-it-was-like-to-fall-into-the-worlds-most-dangerous-plant-68176)
 * [2023-04-07, 12:00:25](https://news.ycombinator.com/item?id=35480687) - [Cerebrium (YC W22) Is Hiring – ML Engineer](https://www.ycombinator.com/companies/cerebrium/jobs/GFuLmiG-ml-engineer)
 * [2023-04-07, 11:50:56](https://news.ycombinator.com/item?id=35480629) - [Neovim 0.9 Released](https://github.com/neovim/neovim/commit/040f1459849ab05b04f6bb1e77b3def16b4c2f2b)
