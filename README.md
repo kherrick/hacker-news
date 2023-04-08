@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-08, 13:03:32](https://news.ycombinator.com/item?id=35492745) - [Humans in Humans Out: GPT Converging Toward Common Sense in Both Success&#x2F;Failure](https://arxiv.org/abs/2303.17276)
+* [2023-04-08, 12:59:51](https://news.ycombinator.com/item?id=35492730) - [I wish GPT4 had never happened](https://chaudhry.notion.site/I-wish-GPT4-had-never-happened-9f0cbf2848a44ec9911c07fb34ff5de3)
 * [2023-04-08, 12:43:54](https://news.ycombinator.com/item?id=35492672) - [Everything advertised on social media is overpriced junk](https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/#jeremys-razors)
 * [2023-04-08, 12:30:28](https://news.ycombinator.com/item?id=35492591) - [Why human societies developed so little during 300k years](https://woodfromeden.substack.com/p/violent-enough-to-stand-still)
 * [2023-04-08, 12:00:08](https://news.ycombinator.com/item?id=35492445) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35492445)
@@ -9,7 +10,6 @@
 * [2023-04-08, 10:29:14](https://news.ycombinator.com/item?id=35492067) - [Trashcan – web based service for indexing scientific papers, or other documents](https://gitlab.com/mildlyparallel/trashcan)
 * [2023-04-08, 10:20:14](https://news.ycombinator.com/item?id=35492036) - [How to avoid correctness space leaks on a lazy setting in Haskell](https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html)
 * [2023-04-08, 09:53:35](https://news.ycombinator.com/item?id=35491936) - [Custom Allocators in Rust](https://nical.github.io/posts/rust-custom-allocators.html)
-* [2023-04-08, 08:43:54](https://news.ycombinator.com/item?id=35491662) - [MSI confirms cyberattack, warns against unofficial firmware](https://www.theregister.com/2023/04/07/msi_cyberattack_bios/)
 * [2023-04-08, 08:24:59](https://news.ycombinator.com/item?id=35491590) - [Knit: Making a Better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 * [2023-04-08, 08:08:08](https://news.ycombinator.com/item?id=35491520) - [0x0: Share Files from Terminal](https://0x0.st/)
 * [2023-04-08, 06:31:01](https://news.ycombinator.com/item?id=35491060) - [Do judges give out tougher sentences when hungry? A study too good to be true](https://inews.co.uk/news/do-judges-give-out-tougher-sentences-when-hungry-the-story-behind-a-study-too-good-to-be-true-2238347)
