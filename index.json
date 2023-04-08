@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-04-08, 09:36:38",
-      "https://news.ycombinator.com/item?id=35491859"
+      "2023-04-08, 10:46:42",
+      "https://news.ycombinator.com/item?id=35492137"
     ],
     [
-      "Cruise Robotaxi vs. Bus Crash Caused by Confusion over Articulated Bus",
-      "https://www.forbes.com/sites/bradtempleton/2023/04/07/gms-cruise-robotaxi-vs-bus-crash-caused-by-confusion-over-articulated-bus-they-say-its-fixed/"
+      "Show HN: Spotify streaming GDPR dump local analyzer",
+      "https://github.com/pldubouilh/spotify-gdpr-dump-analysis"
+    ]
+  ],
+  [
+    [
+      "2023-04-08, 10:20:14",
+      "https://news.ycombinator.com/item?id=35492036"
+    ],
+    [
+      "How to avoid correctness space leaks on a lazy setting in Haskell",
+      "https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "How to Design Programs 2nd Edition",
       "https://htdp.org/2023-3-6/Book/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 05:29:27",
-      "https://news.ycombinator.com/item?id=35478365"
-    ],
-    [
-      "The Planiverse: Computer Contact with a Two-Dimensional World",
-      "https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/planiverse/overview.html"
     ]
   ],
   [
