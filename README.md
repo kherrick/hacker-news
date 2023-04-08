@@ -3,7 +3,6 @@
 * [2023-04-08, 02:01:50](https://news.ycombinator.com/item?id=35489703) - [Jack Dorsey: “Elon is the singular solution I trust” (2022)](https://twitter.com/jack/status/1518772756069773313)
 * [2023-04-08, 01:12:01](https://news.ycombinator.com/item?id=35489342) - [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning](https://arxiv.org/abs/1903.01003)
 * [2023-04-08, 00:48:58](https://news.ycombinator.com/item?id=35489168) - [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
-* [2023-04-08, 00:47:52](https://news.ycombinator.com/item?id=35489160) - [Mark Zuckerberg interviewed about “The Facebook” (2005)](https://twitter.com/stevekrouse/status/1644364093917208580)
 * [2023-04-08, 00:41:48](https://news.ycombinator.com/item?id=35489113) - [Mac-se-video-converter: Compact Mac to VGA signal converter using rPi Pico](https://github.com/guruthree/mac-se-video-converter)
 * [2023-04-08, 00:22:49](https://news.ycombinator.com/item?id=35488980) - [Go port of SQLite without CGo](https://gitlab.com/cznic/sqlite)
 * [2023-04-07, 22:26:38](https://news.ycombinator.com/item?id=35487846) - [ArXiv Paper for Cerebras-GPT: Open-Source Compute-Optimal Language Models](https://arxiv.org/abs/2304.03208)
@@ -28,6 +27,7 @@
 * [2023-04-07, 11:38:14](https://news.ycombinator.com/item?id=35480551) - [Protecting high-performance superconducting magnets](https://phys.org/news/2023-04-high-performance-superconducting-magnets.html)
 * [2023-04-07, 10:32:02](https://news.ycombinator.com/item?id=35480136) - [James Niehues Ski Map Artist](https://jamesniehues.com/)
 * [2023-04-07, 05:29:27](https://news.ycombinator.com/item?id=35478365) - [The Planiverse: Computer Contact with a Two-Dimensional World](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/planiverse/overview.html)
+* [2023-04-06, 19:06:20](https://news.ycombinator.com/item?id=35472930) - [StackLlama: A hands-on guide to train LlaMa with RLHF](https://huggingface.co/blog/stackllama)
 * [2023-04-06, 17:51:15](https://news.ycombinator.com/item?id=35471880) - [MNT Reform: DIY Portable Computer Goals (2017)](https://mntre.com/media/reform_md/reform-historic/reform-beta-1.html)
 * [2023-04-06, 11:43:09](https://news.ycombinator.com/item?id=35467043) - [Lerp](https://rachsmith.com/lerp/)
 
