@@ -47,6 +47,7 @@
 * [2023-04-08, 11:28:20](https://news.ycombinator.com/item?id=35492307) - [The Garbage Collection Handbook, 2nd Edition](https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038)
 * [2023-04-08, 11:15:41](https://news.ycombinator.com/item?id=35492260) - [Legs and knobs for IKEA and other furniture](https://www.prettypegs.com/)
 * [2023-04-08, 10:46:42](https://news.ycombinator.com/item?id=35492137) - [Show HN: Spotify streaming GDPR dump local analyzer](https://github.com/pldubouilh/spotify-gdpr-dump-analysis)
+* [2023-04-08, 10:42:08](https://news.ycombinator.com/item?id=35492119) - [Why computer modeling should become a popular hobby](https://www.qrg.northwestern.edu/papers/files/simhobby-local.htm)
 * [2023-04-08, 10:29:14](https://news.ycombinator.com/item?id=35492067) - [Trashcan – web based service for indexing scientific papers, or other documents](https://gitlab.com/mildlyparallel/trashcan)
 * [2023-04-08, 10:20:14](https://news.ycombinator.com/item?id=35492036) - [How to avoid correctness space leaks on a lazy setting in Haskell](https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html)
 * [2023-04-08, 09:53:35](https://news.ycombinator.com/item?id=35491936) - [Custom Allocators in Rust](https://nical.github.io/posts/rust-custom-allocators.html)
