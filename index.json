@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-08, 12:43:54",
+      "https://news.ycombinator.com/item?id=35492672"
+    ],
+    [
+      "Everything advertised on social media is overpriced junk",
+      "https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/#jeremys-razors"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 12:00:08",
       "https://news.ycombinator.com/item?id=35492445"
     ],
@@ -107,16 +117,6 @@
     [
       "Go 1.21 will (likely) have a static toolchain on Linux",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain"
-    ]
-  ],
-  [
-    [
-      "2023-04-08, 05:09:41",
-      "https://news.ycombinator.com/item?id=35490730"
-    ],
-    [
-      "Profiling Go Programs (CLI Edition)",
-      "https://benchkram.de/blog/dev/profiling-go-programs"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2023-04-07, 10:32:02",
-      "https://news.ycombinator.com/item?id=35480136"
-    ],
-    [
-      "James Niehues Ski Map Artist",
-      "https://jamesniehues.com/"
-    ]
-  ],
-  [
-    [
       "2023-04-07, 07:53:00",
       "https://news.ycombinator.com/item?id=35479265"
     ],
     [
       "Ampere Altra Dev Kit has launched 32, 64, 80 core arm64 processor",
       "https://www.ipi.wiki/products/com-hpc-ampere-altra"
+    ]
+  ],
+  [
+    [
+      "2023-04-07, 07:18:37",
+      "https://news.ycombinator.com/item?id=35479029"
+    ],
+    [
+      "In 2019, Volkswagen decided to create a car OS–how’s that going?",
+      "https://arstechnica.com/cars/2023/04/whats-going-on-with-volkswagens-software-division/"
     ]
   ],
   [
