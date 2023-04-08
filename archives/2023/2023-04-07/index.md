@@ -6,6 +6,7 @@
 
 * [2023-04-07, 23:58:50](https://news.ycombinator.com/item?id=35488772) - [GPT-4 Takes a New Midterm and Gets an A](https://betonit.substack.com/p/gpt-4-takes-a-new-midterm-and-gets)
 * [2023-04-07, 23:39:32](https://news.ycombinator.com/item?id=35488599) - [What crime stats don&#x27;t reveal about crime in San Francisco](https://startupdreams.substack.com/p/what-the-stats-about-crime-in-san)
+* [2023-04-07, 23:18:51](https://news.ycombinator.com/item?id=35488367) - [Federal Housing Administration greenlights 40-year mortgages](https://www.wptv.com/money/real-estate-news/federal-housing-administration-greenlights-40-year-mortgages)
 * [2023-04-07, 23:09:43](https://news.ycombinator.com/item?id=35488291) - [Show HN: Compress GPT-4 Prompts](https://www.promptreducer.com/)
 * [2023-04-07, 22:57:16](https://news.ycombinator.com/item?id=35488172) - [Abortion Pill Blocked Nationwide Under Order from US Judge](https://www.bloomberg.com/news/articles/2023-04-07/abortion-pill-blocked-nationwide-under-order-from-us-judge)
 * [2023-04-07, 22:26:38](https://news.ycombinator.com/item?id=35487846) - [ArXiv Paper for Cerebras-GPT: Open-Source Compute-Optimal Language Models](https://arxiv.org/abs/2304.03208)
