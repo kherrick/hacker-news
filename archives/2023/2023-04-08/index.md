@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 17:54:50](https://news.ycombinator.com/item?id=35495865) - [Making an Alphorn from Scratch (2020)](https://www.argobuilder.com/making-an-alphorn.html)
 * [2023-04-08, 17:29:29](https://news.ycombinator.com/item?id=35495579) - [Electricity Prices by Country](https://www.electricrate.com/data-center/electricity-prices-by-country/)
 * [2023-04-08, 16:42:52](https://news.ycombinator.com/item?id=35495070) - [Deep learning library written in Futhark](https://github.com/HnimNart/deeplearning)
 * [2023-04-08, 16:32:00](https://news.ycombinator.com/item?id=35494941) - [Iran installs cameras in public places to identify, penalise unveiled women](https://www.reuters.com/world/middle-east/iran-installs-cameras-public-places-identify-penalise-unveiled-women-police-2023-04-08/)
@@ -33,6 +34,7 @@
 * [2023-04-08, 10:20:14](https://news.ycombinator.com/item?id=35492036) - [How to avoid correctness space leaks on a lazy setting in Haskell](https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html)
 * [2023-04-08, 09:53:35](https://news.ycombinator.com/item?id=35491936) - [Custom Allocators in Rust](https://nical.github.io/posts/rust-custom-allocators.html)
 * [2023-04-08, 09:36:38](https://news.ycombinator.com/item?id=35491859) - [Cruise Robotaxi vs. Bus Crash Caused by Confusion over Articulated Bus](https://www.forbes.com/sites/bradtempleton/2023/04/07/gms-cruise-robotaxi-vs-bus-crash-caused-by-confusion-over-articulated-bus-they-say-its-fixed/)
+* [2023-04-08, 09:30:08](https://news.ycombinator.com/item?id=35491834) - [Product Deconstruction and Review: Rexona Spray Can (2022)](https://dienamics.com.au/blog/product-deconstruction-review-rexona-spray-can/)
 * [2023-04-08, 08:43:54](https://news.ycombinator.com/item?id=35491662) - [MSI confirms cyberattack, warns against unofficial firmware](https://www.theregister.com/2023/04/07/msi_cyberattack_bios/)
 * [2023-04-08, 08:24:59](https://news.ycombinator.com/item?id=35491590) - [Knit: Making a Better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 * [2023-04-08, 08:11:49](https://news.ycombinator.com/item?id=35491535) - [There’s a new form of keyless car theft that works in under 2 minutes](https://arstechnica.com/information-technology/2023/04/crooks-are-stealing-cars-using-previously-unknown-keyless-can-injection-attacks/)
