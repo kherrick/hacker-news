@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-08, 21:19:21",
+      "https://news.ycombinator.com/item?id=35497740"
+    ],
+    [
+      "FunDSP 0.13 – Audio Processing and Synthesis Library for Rust",
+      "https://crates.io/crates/fundsp/0.13.0"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 21:17:25",
       "https://news.ycombinator.com/item?id=35497728"
     ],
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2023-04-08, 10:29:14",
-      "https://news.ycombinator.com/item?id=35492067"
-    ],
-    [
-      "Trashcan – web based service for indexing scientific papers, or other documents",
-      "https://gitlab.com/mildlyparallel/trashcan"
-    ]
-  ],
-  [
-    [
-      "2023-04-08, 09:53:35",
-      "https://news.ycombinator.com/item?id=35491936"
-    ],
-    [
-      "Custom Allocators in Rust",
-      "https://nical.github.io/posts/rust-custom-allocators.html"
-    ]
-  ],
-  [
-    [
       "2023-04-08, 09:30:08",
       "https://news.ycombinator.com/item?id=35491834"
     ],
@@ -257,6 +247,16 @@
     [
       "Weber–Fechner Law",
       "https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law"
+    ]
+  ],
+  [
+    [
+      "2023-04-08, 07:09:05",
+      "https://news.ycombinator.com/item?id=35491239"
+    ],
+    [
+      "Mainboards supported by coreboot",
+      "https://coreboot.org/status/board-status.html"
     ]
   ],
   [
