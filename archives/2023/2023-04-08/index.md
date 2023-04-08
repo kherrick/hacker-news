@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 20:45:56](https://news.ycombinator.com/item?id=35497433) - [Substack’s CEO says Musk’s claims are false](https://twitter.com/kenklippenstein/status/1644713355242881024)
 * [2023-04-08, 20:03:58](https://news.ycombinator.com/item?id=35497049) - [Amazon Bans Flipper Zero–Claims It Violates Policy Against Card Skimming Devices](https://gizmodo.com/amazon-bans-flipper-zero-card-skimming-on-tiktok-1850313284)
 * [2023-04-08, 19:43:21](https://news.ycombinator.com/item?id=35496871) - [FCC Warns Portland Church to Shut Down Pirate FM Operating Under Its Steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
 * [2023-04-08, 19:26:55](https://news.ycombinator.com/item?id=35496712) - [A 1.5GB String](https://blog.backslasher.net/1.5GB-string.html)

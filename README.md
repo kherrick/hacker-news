@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-08, 20:45:56](https://news.ycombinator.com/item?id=35497433) - [Substack’s CEO says Musk’s claims are false](https://twitter.com/kenklippenstein/status/1644713355242881024)
 * [2023-04-08, 19:43:21](https://news.ycombinator.com/item?id=35496871) - [FCC Warns Portland Church to Shut Down Pirate FM Operating Under Its Steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
 * [2023-04-08, 19:26:55](https://news.ycombinator.com/item?id=35496712) - [A 1.5GB String](https://blog.backslasher.net/1.5GB-string.html)
 * [2023-04-08, 19:18:40](https://news.ycombinator.com/item?id=35496651) - [GNU+Linux laptops with Libreboot preinstalled, based on coreboot](https://minifree.org/)
@@ -14,7 +15,6 @@
 * [2023-04-08, 15:42:50](https://news.ycombinator.com/item?id=35494382) - [FAA K-12 Airport Design Challenge in Minecraft](https://www.faa.gov/airport-design-challenge)
 * [2023-04-08, 15:41:04](https://news.ycombinator.com/item?id=35494366) - [Google to Ban Financial Lending Apps from Accessing User Photos, Contacts](https://www.pcmag.com/news/google-to-ban-financial-lending-apps-from-accessing-user-photos-contacts)
 * [2023-04-08, 15:39:10](https://news.ycombinator.com/item?id=35494342) - [To Supercharge Learning, Look to Play](https://nautil.us/to-supercharge-learning-look-to-play-292946/)
-* [2023-04-08, 15:32:27](https://news.ycombinator.com/item?id=35494266) - [When Slide Rules Ruled (2006) [pdf]](https://pdodds.w3.uvm.edu/files/papers/others/2006/stoll2006a.pdf)
 * [2023-04-08, 15:28:54](https://news.ycombinator.com/item?id=35494219) - [4 Ways to Put Lasers on Silicon](https://spectrum.ieee.org/lasers-on-silicon)
 * [2023-04-08, 12:30:28](https://news.ycombinator.com/item?id=35492591) - [Why human societies developed so little during 300k years](https://woodfromeden.substack.com/p/violent-enough-to-stand-still)
 * [2023-04-08, 12:00:08](https://news.ycombinator.com/item?id=35492445) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35492445)
