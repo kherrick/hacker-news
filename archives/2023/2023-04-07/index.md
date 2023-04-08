@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 23:39:32](https://news.ycombinator.com/item?id=35488599) - [What crime stats don&#x27;t reveal about crime in San Francisco](https://startupdreams.substack.com/p/what-the-stats-about-crime-in-san)
+* [2023-04-07, 23:09:43](https://news.ycombinator.com/item?id=35488291) - [Show HN: Compress GPT-4 Prompts](https://www.promptreducer.com/)
 * [2023-04-07, 22:57:16](https://news.ycombinator.com/item?id=35488172) - [Abortion Pill Blocked Nationwide Under Order from US Judge](https://www.bloomberg.com/news/articles/2023-04-07/abortion-pill-blocked-nationwide-under-order-from-us-judge)
 * [2023-04-07, 22:26:38](https://news.ycombinator.com/item?id=35487846) - [ArXiv Paper for Cerebras-GPT: Open-Source Compute-Optimal Language Models](https://arxiv.org/abs/2304.03208)
+* [2023-04-07, 22:15:43](https://news.ycombinator.com/item?id=35487726) - [DPReview Will Remain Available as an Archive After It Closes](https://petapixel.com/2023/04/07/dpreview-will-remain-available-as-an-archive-after-it-closes/)
 * [2023-04-07, 22:04:51](https://news.ycombinator.com/item?id=35487603) - [Texas bill would criminalize websites that share abortion info](https://www.rollingstone.com/politics/politics-features/texas-abortion-rights-internet-access-pill-1234691494/)
 * [2023-04-07, 21:41:54](https://news.ycombinator.com/item?id=35487364) - [The company behind Stable Diffusion appears to be at risk of going under](https://futurism.com/the-byte/stable-diffusion-stability-ai-risk-going-under)
 * [2023-04-07, 21:37:25](https://news.ycombinator.com/item?id=35487311) - [Beyond the PayPal Mafia: A Case Study on the Uber Alumni Network](https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study)
