@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-08, 03:16:40](https://news.ycombinator.com/item?id=35490158) - [Ask HN: Is it worth submitting a claim for FTX holdings?](https://news.ycombinator.com/item?id=35490158)
 * [2023-04-08, 01:12:01](https://news.ycombinator.com/item?id=35489342) - [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning](https://arxiv.org/abs/1903.01003)
 * [2023-04-08, 00:48:58](https://news.ycombinator.com/item?id=35489168) - [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
 * [2023-04-08, 00:41:48](https://news.ycombinator.com/item?id=35489113) - [Mac-se-video-converter: Compact Mac to VGA signal converter using rPi Pico](https://github.com/guruthree/mac-se-video-converter)
@@ -27,7 +28,6 @@
 * [2023-04-07, 11:38:14](https://news.ycombinator.com/item?id=35480551) - [Protecting high-performance superconducting magnets](https://phys.org/news/2023-04-high-performance-superconducting-magnets.html)
 * [2023-04-07, 10:32:02](https://news.ycombinator.com/item?id=35480136) - [James Niehues Ski Map Artist](https://jamesniehues.com/)
 * [2023-04-07, 05:29:27](https://news.ycombinator.com/item?id=35478365) - [The Planiverse: Computer Contact with a Two-Dimensional World](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/planiverse/overview.html)
-* [2023-04-06, 19:06:20](https://news.ycombinator.com/item?id=35472930) - [StackLlama: A hands-on guide to train LlaMa with RLHF](https://huggingface.co/blog/stackllama)
 * [2023-04-06, 17:51:15](https://news.ycombinator.com/item?id=35471880) - [MNT Reform: DIY Portable Computer Goals (2017)](https://mntre.com/media/reform_md/reform-historic/reform-beta-1.html)
 * [2023-04-06, 11:43:09](https://news.ycombinator.com/item?id=35467043) - [Lerp](https://rachsmith.com/lerp/)
 
