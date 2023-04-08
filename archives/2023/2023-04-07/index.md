@@ -96,6 +96,7 @@
 * [2023-04-07, 06:51:55](https://news.ycombinator.com/item?id=35478884) - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
 * [2023-04-07, 06:49:28](https://news.ycombinator.com/item?id=35478871) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/index.html)
 * [2023-04-07, 06:18:52](https://news.ycombinator.com/item?id=35478675) - [Under 30-year sentences: why so many of Forbes’ young heroes face jail](https://www.theguardian.com/business/2023/apr/06/forbes-30-under-30-tech-finance-prison)
+* [2023-04-07, 05:38:44](https://news.ycombinator.com/item?id=35478421) - [PostgreSQL Logical Replication Gotchas](https://pgdash.io/blog/postgres-replication-gotchas.html)
 * [2023-04-07, 05:29:27](https://news.ycombinator.com/item?id=35478365) - [The Planiverse: Computer Contact with a Two-Dimensional World](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/planiverse/overview.html)
 * [2023-04-07, 05:16:49](https://news.ycombinator.com/item?id=35478296) - [Oscar Night in Hollywood (1948)](https://www.theatlantic.com/magazine/archive/1948/03/oscar-night-in-hollywood/305705/)
 * [2023-04-07, 05:12:12](https://news.ycombinator.com/item?id=35478268) - [Crazy ants’ strange genomes are a biological first](https://www.nature.com/articles/d41586-023-01002-3)

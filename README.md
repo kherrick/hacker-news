@@ -2,7 +2,6 @@
 
 * [2023-04-08, 14:29:52](https://news.ycombinator.com/item?id=35493487) - [Tesla hit with class action lawsuit over alleged privacy intrusion](https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08/)
 * [2023-04-08, 14:25:46](https://news.ycombinator.com/item?id=35493444) - [This week in KDE: All about the apps](https://pointieststick.com/2023/04/08/this-week-in-kde-all-about-the-apps-2/)
-* [2023-04-08, 13:46:35](https://news.ycombinator.com/item?id=35493046) - [Paul Graham is an investor in the company trying to kill Twitter](https://twitter.com/paulg/status/1644635086715858944)
 * [2023-04-08, 13:03:32](https://news.ycombinator.com/item?id=35492745) - [Humans in Humans Out: GPT Converging Toward Common Sense in Both Success&#x2F;Failure](https://arxiv.org/abs/2303.17276)
 * [2023-04-08, 12:59:51](https://news.ycombinator.com/item?id=35492730) - [I wish GPT4 had never happened](https://chaudhry.notion.site/I-wish-GPT4-had-never-happened-9f0cbf2848a44ec9911c07fb34ff5de3)
 * [2023-04-08, 12:43:54](https://news.ycombinator.com/item?id=35492672) - [Everything advertised on social media is overpriced junk](https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/#jeremys-razors)
@@ -28,6 +27,7 @@
 * [2023-04-07, 07:53:00](https://news.ycombinator.com/item?id=35479265) - [Ampere Altra Dev Kit has launched 32, 64, 80 core arm64 processor](https://www.ipi.wiki/products/com-hpc-ampere-altra)
 * [2023-04-07, 07:18:37](https://news.ycombinator.com/item?id=35479029) - [In 2019, Volkswagen decided to create a car OS. How’s that going?](https://arstechnica.com/cars/2023/04/whats-going-on-with-volkswagens-software-division/)
 * [2023-04-07, 06:49:28](https://news.ycombinator.com/item?id=35478871) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/index.html)
+* [2023-04-07, 05:38:44](https://news.ycombinator.com/item?id=35478421) - [PostgreSQL Logical Replication Gotchas](https://pgdash.io/blog/postgres-replication-gotchas.html)
 * [2023-04-07, 00:18:36](https://news.ycombinator.com/item?id=35476404) - [HPC is dying, and MPI is killing it (2015)](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it)
 * [2023-04-06, 18:09:20](https://news.ycombinator.com/item?id=35472107) - [Design and manufacture of edible microfluidic logic gates](https://arxiv.org/abs/2304.02371)
 
