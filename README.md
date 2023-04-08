@@ -2,6 +2,7 @@
 
 * [2023-04-08, 14:29:52](https://news.ycombinator.com/item?id=35493487) - [Tesla hit with class action lawsuit over alleged privacy intrusion](https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08/)
 * [2023-04-08, 14:25:46](https://news.ycombinator.com/item?id=35493444) - [This week in KDE: All about the apps](https://pointieststick.com/2023/04/08/this-week-in-kde-all-about-the-apps-2/)
+* [2023-04-08, 14:22:16](https://news.ycombinator.com/item?id=35493399) - [Effects of Licorice on the Cardiovascular System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6836258/)
 * [2023-04-08, 13:03:32](https://news.ycombinator.com/item?id=35492745) - [Humans in Humans Out: GPT Converging Toward Common Sense in Both Success&#x2F;Failure](https://arxiv.org/abs/2303.17276)
 * [2023-04-08, 12:59:51](https://news.ycombinator.com/item?id=35492730) - [I wish GPT4 had never happened](https://chaudhry.notion.site/I-wish-GPT4-had-never-happened-9f0cbf2848a44ec9911c07fb34ff5de3)
 * [2023-04-08, 12:43:54](https://news.ycombinator.com/item?id=35492672) - [Everything advertised on social media is overpriced junk](https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/#jeremys-razors)
@@ -15,7 +16,6 @@
 * [2023-04-08, 08:24:59](https://news.ycombinator.com/item?id=35491590) - [Knit: Making a Better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 * [2023-04-08, 08:08:08](https://news.ycombinator.com/item?id=35491520) - [0x0: Share Files from Terminal](https://0x0.st/)
 * [2023-04-08, 06:31:01](https://news.ycombinator.com/item?id=35491060) - [Do judges give out tougher sentences when hungry? A study too good to be true](https://inews.co.uk/news/do-judges-give-out-tougher-sentences-when-hungry-the-story-behind-a-study-too-good-to-be-true-2238347)
-* [2023-04-08, 06:04:02](https://news.ycombinator.com/item?id=35490941) - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
 * [2023-04-08, 04:28:44](https://news.ycombinator.com/item?id=35490533) - [AI powered realtime fluid simulations are here](https://echoesofsomewhere.com/2023/04/06/ai-fluid-simulations/)
 * [2023-04-08, 04:09:22](https://news.ycombinator.com/item?id=35490449) - [Pydantic V2 rewritten in Rust is 5-50x faster than Pydantic V1](https://docs.pydantic.dev/blog/pydantic-v2-alpha/)
 * [2023-04-08, 03:38:07](https://news.ycombinator.com/item?id=35490289) - [Show HN: BrowserBox – do stuff with browsers that you can&#x27;t normally](https://github.com/dosyago/BrowserBox)
