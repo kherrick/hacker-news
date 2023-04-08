@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 18:21:19](https://news.ycombinator.com/item?id=35496107) - [Ask HN: Tell me about how you bombed a technical interview](https://news.ycombinator.com/item?id=35496107)
 * [2023-04-08, 17:59:27](https://news.ycombinator.com/item?id=35495910) - [Why and How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
 * [2023-04-08, 17:56:54](https://news.ycombinator.com/item?id=35495886) - [Writing a Simple Garbage Collector in C (2020)](http://maplant.com/gc.html)
 * [2023-04-08, 17:54:50](https://news.ycombinator.com/item?id=35495865) - [Making an Alphorn from Scratch (2020)](https://www.argobuilder.com/making-an-alphorn.html)
@@ -43,6 +44,7 @@
 * [2023-04-08, 08:11:49](https://news.ycombinator.com/item?id=35491535) - [There’s a new form of keyless car theft that works in under 2 minutes](https://arstechnica.com/information-technology/2023/04/crooks-are-stealing-cars-using-previously-unknown-keyless-can-injection-attacks/)
 * [2023-04-08, 08:08:08](https://news.ycombinator.com/item?id=35491520) - [0x0: Share Files from Terminal](https://0x0.st/)
 * [2023-04-08, 07:14:10](https://news.ycombinator.com/item?id=35491261) - [So you want to play with Wi-Fi? It’s dangerous to make frames alone. Take this](https://www.cybersecurity.blog.aisec.fraunhofer.de/en/so-you-want-to-play-with-wi-fi/)
+* [2023-04-08, 07:12:45](https://news.ycombinator.com/item?id=35491252) - [Weber–Fechner Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
 * [2023-04-08, 07:01:05](https://news.ycombinator.com/item?id=35491192) - [Nango (YC W23) Is Hiring a Founding Engineer (full-stack&#x2F;back end)](https://nango.dev/jobs)
 * [2023-04-08, 06:31:01](https://news.ycombinator.com/item?id=35491060) - [Do judges give out tougher sentences when hungry? A study too good to be true](https://inews.co.uk/news/do-judges-give-out-tougher-sentences-when-hungry-the-story-behind-a-study-too-good-to-be-true-2238347)
 * [2023-04-08, 06:04:02](https://news.ycombinator.com/item?id=35490941) - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-08, 18:21:19](https://news.ycombinator.com/item?id=35496107) - [Ask HN: Tell me about how you bombed a technical interview](https://news.ycombinator.com/item?id=35496107)
 * [2023-04-08, 17:59:27](https://news.ycombinator.com/item?id=35495910) - [Why and How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
 * [2023-04-08, 17:56:54](https://news.ycombinator.com/item?id=35495886) - [Writing a Simple Garbage Collector in C (2020)](http://maplant.com/gc.html)
 * [2023-04-08, 17:54:50](https://news.ycombinator.com/item?id=35495865) - [Making an Alphorn from Scratch (2020)](https://www.argobuilder.com/making-an-alphorn.html)
@@ -22,13 +23,12 @@
 * [2023-04-08, 09:53:35](https://news.ycombinator.com/item?id=35491936) - [Custom Allocators in Rust](https://nical.github.io/posts/rust-custom-allocators.html)
 * [2023-04-08, 09:30:08](https://news.ycombinator.com/item?id=35491834) - [Product Deconstruction and Review: Rexona Spray Can (2022)](https://dienamics.com.au/blog/product-deconstruction-review-rexona-spray-can/)
 * [2023-04-08, 08:08:08](https://news.ycombinator.com/item?id=35491520) - [0x0: Share Files from Terminal](https://0x0.st/)
+* [2023-04-08, 07:12:45](https://news.ycombinator.com/item?id=35491252) - [Weber–Fechner Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
 * [2023-04-08, 06:31:01](https://news.ycombinator.com/item?id=35491060) - [Do judges give out tougher sentences when hungry? A study too good to be true](https://inews.co.uk/news/do-judges-give-out-tougher-sentences-when-hungry-the-story-behind-a-study-too-good-to-be-true-2238347)
 * [2023-04-08, 02:17:03](https://news.ycombinator.com/item?id=35489798) - [QSL Card](https://en.wikipedia.org/wiki/QSL_card)
 * [2023-04-08, 00:44:47](https://news.ycombinator.com/item?id=35489131) - [Porting the Slint UI Toolkit to a Microcontroller with 264K RAM](https://slint-ui.com/blog/porting-slint-to-microcontrollers.html)
 * [2023-04-07, 12:06:05](https://news.ycombinator.com/item?id=35480725) - [How to be consistent](https://csprimer.com/articles/consistency/)
 * [2023-04-07, 07:53:00](https://news.ycombinator.com/item?id=35479265) - [Ampere Altra Dev Kit has launched 32, 64, 80 core arm64 processor](https://www.ipi.wiki/products/com-hpc-ampere-altra)
-* [2023-04-07, 06:49:28](https://news.ycombinator.com/item?id=35478871) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/index.html)
-* [2023-04-07, 05:38:44](https://news.ycombinator.com/item?id=35478421) - [PostgreSQL Logical Replication Gotchas](https://pgdash.io/blog/postgres-replication-gotchas.html)
 * [2023-04-07, 00:18:36](https://news.ycombinator.com/item?id=35476404) - [HPC is dying, and MPI is killing it (2015)](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it)
 
 ## [Archives](archives/index.md)
