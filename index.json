@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-04-08, 08:24:59",
+      "https://news.ycombinator.com/item?id=35491590"
+    ],
+    [
+      "Knit: Making a Better Make",
+      "https://zyedidia.github.io/blog/posts/3-knit-better-make/"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 08:08:08",
       "https://news.ycombinator.com/item?id=35491520"
     ],
@@ -137,16 +147,6 @@
     [
       "Go port of SQLite without CGo",
       "https://gitlab.com/cznic/sqlite"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 22:03:37",
-      "https://news.ycombinator.com/item?id=35487588"
-    ],
-    [
-      "Show HN: A toy bootloader written in C++",
-      "https://github.com/AgentD/hausboot"
     ]
   ],
   [
