@@ -19,4 +19,5 @@
 * [2023-04-08, 00:47:52](https://news.ycombinator.com/item?id=35489160) - [Mark Zuckerberg interviewed about “The Facebook” (2005)](https://twitter.com/stevekrouse/status/1644364093917208580)
 * [2023-04-08, 00:41:48](https://news.ycombinator.com/item?id=35489113) - [Mac-se-video-converter: Compact Mac to VGA signal converter using rPi Pico](https://github.com/guruthree/mac-se-video-converter)
 * [2023-04-08, 00:37:01](https://news.ycombinator.com/item?id=35489067) - [Ex-S.F. fire commissioner with fractured skull after metal pipe attack](https://www.sfchronicle.com/bayarea/article/marina-sf-crime-attack-fire-commissioner-17883532.php)
+* [2023-04-08, 00:30:04](https://news.ycombinator.com/item?id=35489029) - [Show HN: Learn Rust 101 – A guide to aid your journey of becoming a Rustacean](https://github.com/plabayo/learn-rust-101/blob/main/README.md)
 * [2023-04-08, 00:22:49](https://news.ycombinator.com/item?id=35488980) - [Go port of SQLite without CGo](https://gitlab.com/cznic/sqlite)
