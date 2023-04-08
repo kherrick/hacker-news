@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-08, 14:29:52](https://news.ycombinator.com/item?id=35493487) - [Tesla hit with class action lawsuit over alleged privacy intrusion](https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08/)
 * [2023-04-08, 14:25:46](https://news.ycombinator.com/item?id=35493444) - [This week in KDE: All about the apps](https://pointieststick.com/2023/04/08/this-week-in-kde-all-about-the-apps-2/)
-* [2023-04-08, 14:03:33](https://news.ycombinator.com/item?id=35493233) - [Gendered uniforms lead to high dropout rates of teenage girls in sport: research](https://www.scimex.org/newsfeed/girls-quit-sport-due-to-clothing-concerns-at-alarming-rates)
 * [2023-04-08, 13:46:35](https://news.ycombinator.com/item?id=35493046) - [Paul Graham is an investor in the company trying to kill Twitter](https://twitter.com/paulg/status/1644635086715858944)
 * [2023-04-08, 13:03:32](https://news.ycombinator.com/item?id=35492745) - [Humans in Humans Out: GPT Converging Toward Common Sense in Both Success&#x2F;Failure](https://arxiv.org/abs/2303.17276)
 * [2023-04-08, 12:59:51](https://news.ycombinator.com/item?id=35492730) - [I wish GPT4 had never happened](https://chaudhry.notion.site/I-wish-GPT4-had-never-happened-9f0cbf2848a44ec9911c07fb34ff5de3)
