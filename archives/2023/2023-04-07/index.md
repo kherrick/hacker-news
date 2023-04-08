@@ -67,6 +67,7 @@
 * [2023-04-07, 12:03:58](https://news.ycombinator.com/item?id=35480711) - [Woman Explains What It Was Like to Fall into the Most Dangerous Plant](https://www.iflscience.com/woman-explains-what-it-was-like-to-fall-into-the-worlds-most-dangerous-plant-68176)
 * [2023-04-07, 12:00:25](https://news.ycombinator.com/item?id=35480687) - [Cerebrium (YC W22) Is Hiring – ML Engineer](https://www.ycombinator.com/companies/cerebrium/jobs/GFuLmiG-ml-engineer)
 * [2023-04-07, 11:50:56](https://news.ycombinator.com/item?id=35480629) - [Neovim 0.9 Released](https://github.com/neovim/neovim/commit/040f1459849ab05b04f6bb1e77b3def16b4c2f2b)
+* [2023-04-07, 11:38:14](https://news.ycombinator.com/item?id=35480551) - [Protecting high-performance superconducting magnets](https://phys.org/news/2023-04-high-performance-superconducting-magnets.html)
 * [2023-04-07, 11:30:05](https://news.ycombinator.com/item?id=35480504) - [Video: San Francisco street turns into ‘Wild West’ at 2 a.m](https://www.kron4.com/news/focus-on-fentanyl/video-san-francisco-street-turns-into-wild-west-at-2-a-m/)
 * [2023-04-07, 10:32:02](https://news.ycombinator.com/item?id=35480136) - [James Niehues Ski Map Artist](https://jamesniehues.com/)
 * [2023-04-07, 10:18:54](https://news.ycombinator.com/item?id=35480061) - [Even the Densest Metal Doesn&#x27;t Exceed USPS Shipping Weight Limit](https://nerdist.com/article/densest-metal-doesnt-exceed-the-usps-small-flat-rate-box-weight-limit/)
