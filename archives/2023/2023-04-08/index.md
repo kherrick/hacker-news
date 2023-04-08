@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 06:04:02](https://news.ycombinator.com/item?id=35490941) - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
 * [2023-04-08, 05:47:59](https://news.ycombinator.com/item?id=35490899) - [Paul Graham on Twitter&#x27;s anti-Substack measures: “It&#x27;s a mistake.”](https://twitter.com/paulg/status/1644348267981930498)
 * [2023-04-08, 05:13:17](https://news.ycombinator.com/item?id=35490740) - [Add Honest Achmed&#x27;s root certificate (2011)](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
 * [2023-04-08, 03:38:07](https://news.ycombinator.com/item?id=35490289) - [Show HN: BrowserBox – do stuff with browsers that you can&#x27;t normally](https://github.com/dosyago/BrowserBox)

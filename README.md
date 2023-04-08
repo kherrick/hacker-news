@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-08, 06:04:02](https://news.ycombinator.com/item?id=35490941) - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
 * [2023-04-08, 05:47:59](https://news.ycombinator.com/item?id=35490899) - [Paul Graham on Twitter&#x27;s anti-Substack measures: “It&#x27;s a mistake.”](https://twitter.com/paulg/status/1644348267981930498)
 * [2023-04-08, 05:13:17](https://news.ycombinator.com/item?id=35490740) - [Add Honest Achmed&#x27;s root certificate (2011)](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
 * [2023-04-08, 03:38:07](https://news.ycombinator.com/item?id=35490289) - [Show HN: BrowserBox – do stuff with browsers that you can&#x27;t normally](https://github.com/dosyago/BrowserBox)
@@ -10,7 +11,6 @@
 * [2023-04-07, 22:26:38](https://news.ycombinator.com/item?id=35487846) - [Cerebras-GPT: Open Compute-Optimal Language Models Trained on Cerebras Cluster](https://arxiv.org/abs/2304.03208)
 * [2023-04-07, 21:32:19](https://news.ycombinator.com/item?id=35487250) - [Show HN: A minimal job board for signal processing engineers](https://signalprocessingjobs.com/)
 * [2023-04-07, 21:03:57](https://news.ycombinator.com/item?id=35486972) - [Estes Rockets Model Scale 1:100 Replica of SpaceX Falcon 9](https://estesrockets.com/spacex-falcon-9/)
-* [2023-04-07, 20:59:21](https://news.ycombinator.com/item?id=35486923) - [Direct evidence of the use of multiple drugs in Bronze Age from human hair test](https://www.nature.com/articles/s41598-023-31064-2)
 * [2023-04-07, 18:52:45](https://news.ycombinator.com/item?id=35485483) - [Higher-order functions in Go](https://eli.thegreenplace.net/2023/higher-order-functions-in-go/)
 * [2023-04-07, 17:50:18](https://news.ycombinator.com/item?id=35484594) - [Ask Wirecutter: Can you recommend a not-smart TV for me?](https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/)
 * [2023-04-07, 17:00:46](https://news.ycombinator.com/item?id=35483975) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
