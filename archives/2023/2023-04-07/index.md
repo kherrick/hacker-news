@@ -70,6 +70,7 @@
 * [2023-04-07, 12:51:49](https://news.ycombinator.com/item?id=35481074) - [Quantum Computing 101](https://academy.meetiqm.com/curriculum/index.html)
 * [2023-04-07, 12:48:43](https://news.ycombinator.com/item?id=35481049) - [The Historical Radio Society of Australia](https://www.hrsa1.com/books.html)
 * [2023-04-07, 12:06:41](https://news.ycombinator.com/item?id=35480730) - [PatternFly: An open source design system](https://www.patternfly.org/)
+* [2023-04-07, 12:06:05](https://news.ycombinator.com/item?id=35480725) - [How to be consistent](https://csprimer.com/articles/consistency/)
 * [2023-04-07, 12:03:58](https://news.ycombinator.com/item?id=35480711) - [Woman Explains What It Was Like to Fall into the Most Dangerous Plant](https://www.iflscience.com/woman-explains-what-it-was-like-to-fall-into-the-worlds-most-dangerous-plant-68176)
 * [2023-04-07, 12:00:25](https://news.ycombinator.com/item?id=35480687) - [Cerebrium (YC W22) Is Hiring – ML Engineer](https://www.ycombinator.com/companies/cerebrium/jobs/GFuLmiG-ml-engineer)
 * [2023-04-07, 11:56:53](https://news.ycombinator.com/item?id=35480661) - [My (never complete) Tube Tester Collection (2020)](http://www.jacmusic.com/Tube-testers/index-temporary-text.html)
