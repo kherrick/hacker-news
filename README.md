@@ -14,6 +14,7 @@
 * [2023-04-08, 00:41:48](https://news.ycombinator.com/item?id=35489113) - [Mac-se-video-converter: Compact Mac to VGA signal converter using rPi Pico](https://github.com/guruthree/mac-se-video-converter)
 * [2023-04-08, 00:30:04](https://news.ycombinator.com/item?id=35489029) - [Show HN: Learn Rust 101 – A guide to aid your journey of becoming a Rustacean](https://github.com/plabayo/learn-rust-101/blob/main/README.md)
 * [2023-04-08, 00:22:49](https://news.ycombinator.com/item?id=35488980) - [Go port of SQLite without CGo](https://gitlab.com/cznic/sqlite)
+* [2023-04-07, 22:03:37](https://news.ycombinator.com/item?id=35487588) - [Show HN: A toy bootloader written in C++](https://github.com/AgentD/hausboot)
 * [2023-04-07, 21:32:19](https://news.ycombinator.com/item?id=35487250) - [Show HN: A minimal job board for signal processing engineers](https://signalprocessingjobs.com/)
 * [2023-04-07, 21:03:57](https://news.ycombinator.com/item?id=35486972) - [Estes Rockets Model Scale 1:100 Replica of SpaceX Falcon 9](https://estesrockets.com/spacex-falcon-9/)
 * [2023-04-07, 18:52:45](https://news.ycombinator.com/item?id=35485483) - [Higher-order functions in Go](https://eli.thegreenplace.net/2023/higher-order-functions-in-go/)
@@ -29,7 +30,6 @@
 * [2023-04-07, 06:49:28](https://news.ycombinator.com/item?id=35478871) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/index.html)
 * [2023-04-07, 05:29:27](https://news.ycombinator.com/item?id=35478365) - [The Planiverse: Computer Contact with a Two-Dimensional World](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/planiverse/overview.html)
 * [2023-04-06, 18:09:20](https://news.ycombinator.com/item?id=35472107) - [Design and manufacture of edible microfluidic logic gates](https://arxiv.org/abs/2304.02371)
-* [2023-04-06, 17:51:15](https://news.ycombinator.com/item?id=35471880) - [MNT Reform: DIY Portable Computer Goals (2017)](https://mntre.com/media/reform_md/reform-historic/reform-beta-1.html)
 
 ## [Archives](archives/index.md)
 
