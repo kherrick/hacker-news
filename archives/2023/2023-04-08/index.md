@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 22:48:58](https://news.ycombinator.com/item?id=35498416) - [Pentagon, Justice Dept investigate as secret military documents appear online](https://text.npr.org/1168794847)
 * [2023-04-08, 21:58:55](https://news.ycombinator.com/item?id=35498067) - [I regret using Ionic for app development](https://mhamri.com/why-i-regret-using-ionic-for-app-development-c8b21b88d83a)
 * [2023-04-08, 21:31:41](https://news.ycombinator.com/item?id=35497834) - [Making IELM (Emacs Lisp REPL) More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
 * [2023-04-08, 21:19:21](https://news.ycombinator.com/item?id=35497740) - [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
