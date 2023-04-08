@@ -2,6 +2,7 @@
 
 * [2023-04-08, 03:38:07](https://news.ycombinator.com/item?id=35490289) - [Show HN: BrowserBox – do stuff with browsers that you can&#x27;t normally](https://github.com/dosyago/BrowserBox)
 * [2023-04-08, 03:16:40](https://news.ycombinator.com/item?id=35490158) - [Ask HN: Is it worth submitting a claim for FTX holdings?](https://news.ycombinator.com/item?id=35490158)
+* [2023-04-08, 02:53:47](https://news.ycombinator.com/item?id=35490030) - [“Free is not always so free”: Directus is deleting all Community Cloud Projects](https://directus.io/blog/cloud-update/)
 * [2023-04-08, 02:18:29](https://news.ycombinator.com/item?id=35489807) - [The Erosion of Free Will: Why Society&#x27;s Loss of Belief in Freedom Is Dangerous](https://read.lukeburgis.com/p/the-erosion-of-free-will-why-societys)
 * [2023-04-08, 01:12:01](https://news.ycombinator.com/item?id=35489342) - [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning](https://arxiv.org/abs/1903.01003)
 * [2023-04-08, 00:48:58](https://news.ycombinator.com/item?id=35489168) - [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
@@ -15,7 +16,6 @@
 * [2023-04-07, 17:50:18](https://news.ycombinator.com/item?id=35484594) - [Ask Wirecutter: Can you recommend a not-smart TV for me?](https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/)
 * [2023-04-07, 17:00:46](https://news.ycombinator.com/item?id=35483975) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
 * [2023-04-07, 16:56:35](https://news.ycombinator.com/item?id=35483933) - [Show HN: ChatGDB – GPT-Powered GDB Assistant](https://github.com/pgosar/ChatGDB)
-* [2023-04-07, 16:48:31](https://news.ycombinator.com/item?id=35483823) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
 * [2023-04-07, 16:30:36](https://news.ycombinator.com/item?id=35483539) - [The machines of Tatjana van Vark](https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/)
 * [2023-04-07, 15:29:04](https://news.ycombinator.com/item?id=35482636) - [Show HN: Building musical synthesizers with SQL queries](https://github.com/ClickHouse/NoiSQL)
 * [2023-04-07, 15:24:43](https://news.ycombinator.com/item?id=35482568) - [Age of Invention: How the Dutch Did It Better](https://antonhowes.substack.com/p/age-of-invention-how-the-dutch-did)

@@ -7,6 +7,7 @@
 * [2023-04-08, 03:38:07](https://news.ycombinator.com/item?id=35490289) - [Show HN: BrowserBox – do stuff with browsers that you can&#x27;t normally](https://github.com/dosyago/BrowserBox)
 * [2023-04-08, 03:17:37](https://news.ycombinator.com/item?id=35490168) - [Cash App founder Bob Lee had left San Francisco over crime](https://www.independent.co.uk/news/world/americas/crime/bob-lee-stabbing-san-francisco-b2315141.html)
 * [2023-04-08, 03:16:40](https://news.ycombinator.com/item?id=35490158) - [Ask HN: Is it worth submitting a claim for FTX holdings?](https://news.ycombinator.com/item?id=35490158)
+* [2023-04-08, 02:53:47](https://news.ycombinator.com/item?id=35490030) - [“Free is not always so free”: Directus is deleting all Community Cloud Projects](https://directus.io/blog/cloud-update/)
 * [2023-04-08, 02:18:29](https://news.ycombinator.com/item?id=35489807) - [The Erosion of Free Will: Why Society&#x27;s Loss of Belief in Freedom Is Dangerous](https://read.lukeburgis.com/p/the-erosion-of-free-will-why-societys)
 * [2023-04-08, 02:01:50](https://news.ycombinator.com/item?id=35489703) - [Jack Dorsey: “Elon is the singular solution I trust” (2022)](https://twitter.com/jack/status/1518772756069773313)
 * [2023-04-08, 01:12:01](https://news.ycombinator.com/item?id=35489342) - [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning](https://arxiv.org/abs/1903.01003)
