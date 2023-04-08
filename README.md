@@ -2,6 +2,7 @@
 
 * [2023-04-08, 21:31:41](https://news.ycombinator.com/item?id=35497834) - [Making IELM (Emacs Lisp REPL) More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
 * [2023-04-08, 21:19:21](https://news.ycombinator.com/item?id=35497740) - [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
+* [2023-04-08, 21:19:11](https://news.ycombinator.com/item?id=35497738) - [Lonely Individuals Process the World in Idiosyncratic Ways](https://journals.sagepub.com/doi/10.1177/09567976221145316)
 * [2023-04-08, 21:17:25](https://news.ycombinator.com/item?id=35497728) - [Dooble Web Browser](https://textbrowser.github.io/dooble/)
 * [2023-04-08, 21:13:39](https://news.ycombinator.com/item?id=35497696) - [New Orleans Teenagers Found a New Proof of the Pythagorean Theorem](https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d)
 * [2023-04-08, 19:43:21](https://news.ycombinator.com/item?id=35496871) - [FCC Warns Portland Church to Shut Down Pirate FM Operating Under Its Steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
@@ -22,7 +23,6 @@
 * [2023-04-08, 12:00:08](https://news.ycombinator.com/item?id=35492445) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35492445)
 * [2023-04-08, 11:28:20](https://news.ycombinator.com/item?id=35492307) - [The Garbage Collection Handbook, 2nd Edition](https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038)
 * [2023-04-08, 11:15:41](https://news.ycombinator.com/item?id=35492260) - [Legs and knobs for IKEA and other furniture](https://www.prettypegs.com/)
-* [2023-04-08, 09:30:08](https://news.ycombinator.com/item?id=35491834) - [Product Deconstruction and Review: Rexona Spray Can (2022)](https://dienamics.com.au/blog/product-deconstruction-review-rexona-spray-can/)
 * [2023-04-08, 08:08:08](https://news.ycombinator.com/item?id=35491520) - [0x0: Share Files from Terminal](https://0x0.st/)
 * [2023-04-08, 07:12:45](https://news.ycombinator.com/item?id=35491252) - [Weber–Fechner Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
 * [2023-04-08, 07:09:05](https://news.ycombinator.com/item?id=35491239) - [Mainboards supported by coreboot](https://coreboot.org/status/board-status.html)
