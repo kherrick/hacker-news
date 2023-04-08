@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 21:17:25](https://news.ycombinator.com/item?id=35497728) - [Dooble Web Browser](https://textbrowser.github.io/dooble/)
+* [2023-04-08, 21:13:39](https://news.ycombinator.com/item?id=35497696) - [New Orleans Teenagers Found a New Proof of the Pythagorean Theorem](https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d)
 * [2023-04-08, 20:45:56](https://news.ycombinator.com/item?id=35497433) - [Substack’s CEO says Musk’s claims are false](https://twitter.com/kenklippenstein/status/1644713355242881024)
 * [2023-04-08, 20:03:58](https://news.ycombinator.com/item?id=35497049) - [Amazon Bans Flipper Zero–Claims It Violates Policy Against Card Skimming Devices](https://gizmodo.com/amazon-bans-flipper-zero-card-skimming-on-tiktok-1850313284)
 * [2023-04-08, 19:43:21](https://news.ycombinator.com/item?id=35496871) - [FCC Warns Portland Church to Shut Down Pirate FM Operating Under Its Steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
