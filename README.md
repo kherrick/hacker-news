@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-08, 02:01:50](https://news.ycombinator.com/item?id=35489703) - [Jack Dorsey: “Elon is the singular solution I trust” (2022)](https://twitter.com/jack/status/1518772756069773313)
 * [2023-04-08, 01:12:01](https://news.ycombinator.com/item?id=35489342) - [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning](https://arxiv.org/abs/1903.01003)
 * [2023-04-08, 00:48:58](https://news.ycombinator.com/item?id=35489168) - [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
 * [2023-04-08, 00:41:48](https://news.ycombinator.com/item?id=35489113) - [Mac-se-video-converter: Compact Mac to VGA signal converter using rPi Pico](https://github.com/guruthree/mac-se-video-converter)
 * [2023-04-08, 00:22:49](https://news.ycombinator.com/item?id=35488980) - [Go port of SQLite without CGo](https://gitlab.com/cznic/sqlite)
 * [2023-04-07, 22:26:38](https://news.ycombinator.com/item?id=35487846) - [ArXiv Paper for Cerebras-GPT: Open-Source Compute-Optimal Language Models](https://arxiv.org/abs/2304.03208)
 * [2023-04-07, 22:15:43](https://news.ycombinator.com/item?id=35487726) - [DPReview Will Remain Available as an Archive After It Closes](https://petapixel.com/2023/04/07/dpreview-will-remain-available-as-an-archive-after-it-closes/)
+* [2023-04-07, 22:03:37](https://news.ycombinator.com/item?id=35487588) - [Show HN: A toy bootloader written in C++](https://github.com/AgentD/hausboot)
 * [2023-04-07, 21:41:54](https://news.ycombinator.com/item?id=35487364) - [The company behind Stable Diffusion appears to be at risk of going under](https://futurism.com/the-byte/stable-diffusion-stability-ai-risk-going-under)
 * [2023-04-07, 21:37:25](https://news.ycombinator.com/item?id=35487311) - [A Case Study on the Uber Alumni Network](https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study)
 * [2023-04-07, 21:32:19](https://news.ycombinator.com/item?id=35487250) - [Show HN: A minimal job board for signal processing engineers](https://signalprocessingjobs.com/)
