@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-04-08, 13:46:35",
-      "https://news.ycombinator.com/item?id=35493046"
-    ],
-    [
-      "Paul Graham is an investor in the company trying to kill Twitter",
-      "https://twitter.com/paulg/status/1644635086715858944"
-    ]
-  ],
-  [
-    [
       "2023-04-08, 13:03:32",
       "https://news.ycombinator.com/item?id=35492745"
     ],
@@ -277,6 +267,16 @@
     [
       "How to Design Programs 2nd Edition",
       "https://htdp.org/2023-3-6/Book/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-07, 05:38:44",
+      "https://news.ycombinator.com/item?id=35478421"
+    ],
+    [
+      "PostgreSQL Logical Replication Gotchas",
+      "https://pgdash.io/blog/postgres-replication-gotchas.html"
     ]
   ],
   [
