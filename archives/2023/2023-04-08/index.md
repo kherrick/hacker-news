@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 15:42:50](https://news.ycombinator.com/item?id=35494382) - [FAA K-12 Airport Design Challenge in Minecraft](https://www.faa.gov/airport-design-challenge)
+* [2023-04-08, 15:41:04](https://news.ycombinator.com/item?id=35494366) - [Google to Ban Financial Lending Apps from Accessing User Photos, Contacts](https://www.pcmag.com/news/google-to-ban-financial-lending-apps-from-accessing-user-photos-contacts)
+* [2023-04-08, 15:32:27](https://news.ycombinator.com/item?id=35494266) - [When Slide Rules Ruled (2006) [pdf]](https://pdodds.w3.uvm.edu/files/papers/others/2006/stoll2006a.pdf)
 * [2023-04-08, 15:16:58](https://news.ycombinator.com/item?id=35494046) - [Academic Author How Names Order to [pdf]](https://floriantramer.com/docs/papers/Author_Ordership.pdf)
 * [2023-04-08, 14:29:52](https://news.ycombinator.com/item?id=35493487) - [Tesla hit with class action lawsuit over alleged privacy intrusion](https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08/)
 * [2023-04-08, 14:25:46](https://news.ycombinator.com/item?id=35493444) - [This week in KDE: All about the apps](https://pointieststick.com/2023/04/08/this-week-in-kde-all-about-the-apps-2/)
