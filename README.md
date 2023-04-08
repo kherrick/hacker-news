@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-08, 18:49:36](https://news.ycombinator.com/item?id=35496365) - [Dad says glitch in ‘Find My iPhone’ app directs angry strangers to his home](https://nypost.com/2023/04/06/find-my-iphone-app-glitch-sends-strangers-to-mans-home/)
+* [2023-04-08, 19:43:21](https://news.ycombinator.com/item?id=35496871) - [FCC Warns Portland Church to Shut Down Pirate FM Operating Under Its Steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
+* [2023-04-08, 19:10:11](https://news.ycombinator.com/item?id=35496558) - [Show HN: A ChatGPT TUI with custom bots](https://www.askmarvin.ai/guide/concepts/tui/)
 * [2023-04-08, 18:21:19](https://news.ycombinator.com/item?id=35496107) - [Ask HN: Tell me about how you bombed a technical interview](https://news.ycombinator.com/item?id=35496107)
 * [2023-04-08, 17:59:27](https://news.ycombinator.com/item?id=35495910) - [Why and How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
 * [2023-04-08, 17:56:54](https://news.ycombinator.com/item?id=35495886) - [Writing a Simple Garbage Collector in C (2020)](http://maplant.com/gc.html)
@@ -15,7 +16,6 @@
 * [2023-04-08, 15:32:27](https://news.ycombinator.com/item?id=35494266) - [When Slide Rules Ruled (2006) [pdf]](https://pdodds.w3.uvm.edu/files/papers/others/2006/stoll2006a.pdf)
 * [2023-04-08, 15:28:54](https://news.ycombinator.com/item?id=35494219) - [4 Ways to Put Lasers on Silicon](https://spectrum.ieee.org/lasers-on-silicon)
 * [2023-04-08, 13:37:25](https://news.ycombinator.com/item?id=35492952) - [America is back in the factory business](https://www.wsj.com/articles/american-manufacturing-factory-jobs-comeback-3ce0c52c)
-* [2023-04-08, 12:43:54](https://news.ycombinator.com/item?id=35492672) - [Everything advertised on social media is overpriced junk](https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/#jeremys-razors)
 * [2023-04-08, 12:30:28](https://news.ycombinator.com/item?id=35492591) - [Why human societies developed so little during 300k years](https://woodfromeden.substack.com/p/violent-enough-to-stand-still)
 * [2023-04-08, 12:00:08](https://news.ycombinator.com/item?id=35492445) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35492445)
 * [2023-04-08, 11:28:20](https://news.ycombinator.com/item?id=35492307) - [The Garbage Collection Handbook, 2nd Edition](https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038)
