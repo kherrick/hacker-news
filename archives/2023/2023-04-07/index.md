@@ -57,6 +57,7 @@
 * [2023-04-07, 14:30:55](https://news.ycombinator.com/item?id=35481938) - [Stabbing of Cash App Creator Raises Alarm, and Claims of a Lawless San Francisco](https://www.nytimes.com/2023/04/07/us/bob-lee-san-francisco-crime.html)
 * [2023-04-07, 14:13:41](https://news.ycombinator.com/item?id=35481775) - [SpaceX closing in on first Starship Super Heavy launch](https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/)
 * [2023-04-07, 14:06:55](https://news.ycombinator.com/item?id=35481712) - [U.S. and China wage war beneath the waves – over internet cables](https://www.reuters.com/investigates/special-report/us-china-tech-cables/)
+* [2023-04-07, 13:59:49](https://news.ycombinator.com/item?id=35481625) - [New Support for Some Extinct Tasmanian Tiger Sightings](https://www.nytimes.com/2023/04/07/science/tasmanian-tiger-sightings.html)
 * [2023-04-07, 13:55:22](https://news.ycombinator.com/item?id=35481580) - [Flipper Zero banned by Amazon for being a ‘card skimming device’](https://www.bleepingcomputer.com/news/technology/flipper-zero-banned-by-amazon-for-being-a-card-skimming-device-/)
 * [2023-04-07, 13:43:34](https://news.ycombinator.com/item?id=35481487) - [How to Stop Ruminating](https://www.sudarkoff.blog/p/how-to-stop-ruminating)
 * [2023-04-07, 13:40:23](https://news.ycombinator.com/item?id=35481456) - [NSA created online cybersecurity course with 100s of classes](https://clark.center/c/nccp)
