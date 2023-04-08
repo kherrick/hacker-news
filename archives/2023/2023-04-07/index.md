@@ -90,6 +90,7 @@
 * [2023-04-07, 08:09:33](https://news.ycombinator.com/item?id=35479378) - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
 * [2023-04-07, 07:53:00](https://news.ycombinator.com/item?id=35479265) - [Ampere Altra Dev Kit has launched 32, 64, 80 core arm64 processor](https://www.ipi.wiki/products/com-hpc-ampere-altra)
 * [2023-04-07, 07:25:10](https://news.ycombinator.com/item?id=35479071) - [Why ChatGPT and Bing Chat are so good at making things up](https://arstechnica.com/information-technology/2023/04/why-ai-chatbots-are-the-ultimate-bs-machines-and-how-people-hope-to-fix-them/)
+* [2023-04-07, 07:18:37](https://news.ycombinator.com/item?id=35479029) - [In 2019, Volkswagen decided to create a car OS–how’s that going?](https://arstechnica.com/cars/2023/04/whats-going-on-with-volkswagens-software-division/)
 * [2023-04-07, 07:09:17](https://news.ycombinator.com/item?id=35478976) - [Coolio Died of Fentanyl Overdose](https://www.bbc.co.uk/news/entertainment-arts-65209910)
 * [2023-04-07, 07:00:01](https://news.ycombinator.com/item?id=35478929) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-04-07, 06:51:55](https://news.ycombinator.com/item?id=35478884) - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)

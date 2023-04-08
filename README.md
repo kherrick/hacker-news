@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-08, 12:43:54](https://news.ycombinator.com/item?id=35492672) - [Everything advertised on social media is overpriced junk](https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/#jeremys-razors)
 * [2023-04-08, 12:00:08](https://news.ycombinator.com/item?id=35492445) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35492445)
 * [2023-04-08, 11:28:20](https://news.ycombinator.com/item?id=35492307) - [The Garbage Collection Handbook, 2nd Edition](https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038)
 * [2023-04-08, 10:46:42](https://news.ycombinator.com/item?id=35492137) - [Show HN: Spotify streaming GDPR dump local analyzer](https://github.com/pldubouilh/spotify-gdpr-dump-analysis)
@@ -11,7 +12,6 @@
 * [2023-04-08, 08:08:08](https://news.ycombinator.com/item?id=35491520) - [0x0: Share Files from Terminal](https://0x0.st/)
 * [2023-04-08, 06:31:01](https://news.ycombinator.com/item?id=35491060) - [Do judges give out tougher sentences when hungry? A study too good to be true](https://inews.co.uk/news/do-judges-give-out-tougher-sentences-when-hungry-the-story-behind-a-study-too-good-to-be-true-2238347)
 * [2023-04-08, 06:04:02](https://news.ycombinator.com/item?id=35490941) - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
-* [2023-04-08, 05:09:41](https://news.ycombinator.com/item?id=35490730) - [Profiling Go Programs (CLI Edition)](https://benchkram.de/blog/dev/profiling-go-programs)
 * [2023-04-08, 04:28:44](https://news.ycombinator.com/item?id=35490533) - [AI powered realtime fluid simulations are here](https://echoesofsomewhere.com/2023/04/06/ai-fluid-simulations/)
 * [2023-04-08, 04:09:22](https://news.ycombinator.com/item?id=35490449) - [Pydantic V2 rewritten in Rust is 5-50x faster than Pydantic V1](https://docs.pydantic.dev/blog/pydantic-v2-alpha/)
 * [2023-04-08, 03:38:07](https://news.ycombinator.com/item?id=35490289) - [Show HN: BrowserBox – do stuff with browsers that you can&#x27;t normally](https://github.com/dosyago/BrowserBox)
@@ -26,8 +26,8 @@
 * [2023-04-07, 13:43:34](https://news.ycombinator.com/item?id=35481487) - [How to Stop Ruminating](https://www.sudarkoff.blog/p/how-to-stop-ruminating)
 * [2023-04-07, 12:51:49](https://news.ycombinator.com/item?id=35481074) - [Quantum Computing 101](https://academy.meetiqm.com/curriculum/index.html)
 * [2023-04-07, 12:06:05](https://news.ycombinator.com/item?id=35480725) - [How to be consistent](https://csprimer.com/articles/consistency/)
-* [2023-04-07, 10:32:02](https://news.ycombinator.com/item?id=35480136) - [James Niehues Ski Map Artist](https://jamesniehues.com/)
 * [2023-04-07, 07:53:00](https://news.ycombinator.com/item?id=35479265) - [Ampere Altra Dev Kit has launched 32, 64, 80 core arm64 processor](https://www.ipi.wiki/products/com-hpc-ampere-altra)
+* [2023-04-07, 07:18:37](https://news.ycombinator.com/item?id=35479029) - [In 2019, Volkswagen decided to create a car OS–how’s that going?](https://arstechnica.com/cars/2023/04/whats-going-on-with-volkswagens-software-division/)
 * [2023-04-07, 06:49:28](https://news.ycombinator.com/item?id=35478871) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/index.html)
 * [2023-04-06, 18:09:20](https://news.ycombinator.com/item?id=35472107) - [Design and manufacture of edible microfluidic logic gates](https://arxiv.org/abs/2304.02371)
 
