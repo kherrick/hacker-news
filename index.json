@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-04-08, 16:42:52",
+      "https://news.ycombinator.com/item?id=35495070"
+    ],
+    [
+      "Deep learning library written in Futhark",
+      "https://github.com/HnimNart/deeplearning"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 16:32:00",
       "https://news.ycombinator.com/item?id=35494941"
     ],
     [
       "Iran installs cameras in public places to identify, penalise unveiled women",
       "https://www.reuters.com/world/middle-east/iran-installs-cameras-public-places-identify-penalise-unveiled-women-police-2023-04-08/"
+    ]
+  ],
+  [
+    [
+      "2023-04-08, 15:57:59",
+      "https://news.ycombinator.com/item?id=35494532"
+    ],
+    [
+      "Reverse-engineering the division microcode in the Intel 8086 processor",
+      "https://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-04-08, 10:20:14",
-      "https://news.ycombinator.com/item?id=35492036"
-    ],
-    [
-      "How to avoid correctness space leaks on a lazy setting in Haskell",
-      "https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html"
-    ]
-  ],
-  [
-    [
       "2023-04-08, 09:53:35",
       "https://news.ycombinator.com/item?id=35491936"
     ],
@@ -217,16 +227,6 @@
     [
       "QSL Card",
       "https://en.wikipedia.org/wiki/QSL_card"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 17:50:18",
-      "https://news.ycombinator.com/item?id=35484594"
-    ],
-    [
-      "Ask Wirecutter: Can you recommend a not-smart TV for me?",
-      "https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/"
     ]
   ],
   [
