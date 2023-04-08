@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-08, 14:29:52](https://news.ycombinator.com/item?id=35493487) - [Tesla hit with class action lawsuit over alleged privacy intrusion](https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08/)
+* [2023-04-08, 14:25:46](https://news.ycombinator.com/item?id=35493444) - [This week in KDE: All about the apps](https://pointieststick.com/2023/04/08/this-week-in-kde-all-about-the-apps-2/)
 * [2023-04-08, 14:22:16](https://news.ycombinator.com/item?id=35493399) - [Effects of Licorice on the Cardiovascular System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6836258/)
 * [2023-04-08, 13:03:32](https://news.ycombinator.com/item?id=35492745) - [Humans in Humans Out: GPT Converging Toward Common Sense in Both Success&#x2F;Failure](https://arxiv.org/abs/2303.17276)
 * [2023-04-08, 12:59:51](https://news.ycombinator.com/item?id=35492730) - [I wish GPT4 had never happened](https://chaudhry.notion.site/I-wish-GPT4-had-never-happened-9f0cbf2848a44ec9911c07fb34ff5de3)
@@ -19,7 +20,6 @@
 * [2023-04-08, 04:09:22](https://news.ycombinator.com/item?id=35490449) - [Pydantic V2 rewritten in Rust is 5-50x faster than Pydantic V1](https://docs.pydantic.dev/blog/pydantic-v2-alpha/)
 * [2023-04-08, 03:38:07](https://news.ycombinator.com/item?id=35490289) - [Show HN: BrowserBox – do stuff with browsers that you can&#x27;t normally](https://github.com/dosyago/BrowserBox)
 * [2023-04-08, 01:12:01](https://news.ycombinator.com/item?id=35489342) - [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning (2019)](https://arxiv.org/abs/1903.01003)
-* [2023-04-08, 00:22:49](https://news.ycombinator.com/item?id=35488980) - [Go port of SQLite without CGo](https://gitlab.com/cznic/sqlite)
 * [2023-04-07, 17:50:18](https://news.ycombinator.com/item?id=35484594) - [Ask Wirecutter: Can you recommend a not-smart TV for me?](https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/)
 * [2023-04-07, 13:59:49](https://news.ycombinator.com/item?id=35481625) - [New Support for Some Extinct Tasmanian Tiger Sightings](https://www.nytimes.com/2023/04/07/science/tasmanian-tiger-sightings.html)
 * [2023-04-07, 13:43:34](https://news.ycombinator.com/item?id=35481487) - [How to Stop Ruminating](https://www.sudarkoff.blog/p/how-to-stop-ruminating)
