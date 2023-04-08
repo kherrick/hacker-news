@@ -8,6 +8,7 @@
 * [2023-04-08, 06:04:02](https://news.ycombinator.com/item?id=35490941) - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
 * [2023-04-08, 05:47:59](https://news.ycombinator.com/item?id=35490899) - [Paul Graham on Twitter&#x27;s anti-Substack measures: “It&#x27;s a mistake.”](https://twitter.com/paulg/status/1644348267981930498)
 * [2023-04-08, 05:13:17](https://news.ycombinator.com/item?id=35490740) - [Add Honest Achmed&#x27;s root certificate (2011)](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
+* [2023-04-08, 04:28:44](https://news.ycombinator.com/item?id=35490533) - [AI powered realtime fluid silulations are here](https://echoesofsomewhere.com/2023/04/06/ai-fluid-simulations/)
 * [2023-04-08, 03:38:07](https://news.ycombinator.com/item?id=35490289) - [Show HN: BrowserBox – do stuff with browsers that you can&#x27;t normally](https://github.com/dosyago/BrowserBox)
 * [2023-04-08, 03:17:37](https://news.ycombinator.com/item?id=35490168) - [Cash App founder Bob Lee had left San Francisco over crime](https://www.independent.co.uk/news/world/americas/crime/bob-lee-stabbing-san-francisco-b2315141.html)
 * [2023-04-08, 03:16:40](https://news.ycombinator.com/item?id=35490158) - [Ask HN: Is it worth submitting a claim for FTX holdings?](https://news.ycombinator.com/item?id=35490158)
