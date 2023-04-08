@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-08, 08:11:49",
+      "https://news.ycombinator.com/item?id=35491535"
+    ],
+    [
+      "There’s a new form of keyless car theft that works in under 2 minutes",
+      "https://arstechnica.com/information-technology/2023/04/crooks-are-stealing-cars-using-previously-unknown-keyless-can-injection-attacks/"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 07:01:05",
       "https://news.ycombinator.com/item?id=35491192"
     ],
@@ -87,16 +97,6 @@
     [
       "Go port of SQLite without CGo",
       "https://gitlab.com/cznic/sqlite"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 22:26:38",
-      "https://news.ycombinator.com/item?id=35487846"
-    ],
-    [
-      "Cerebras-GPT: Open Compute-Optimal Language Models Trained on Cerebras Cluster",
-      "https://arxiv.org/abs/2304.03208"
     ]
   ],
   [
