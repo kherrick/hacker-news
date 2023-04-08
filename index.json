@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-04-08, 09:53:35",
+      "https://news.ycombinator.com/item?id=35491936"
+    ],
+    [
+      "Custom Allocators in Rust",
+      "https://nical.github.io/posts/rust-custom-allocators.html"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 08:43:54",
       "https://news.ycombinator.com/item?id=35491662"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-04-07, 18:52:45",
-      "https://news.ycombinator.com/item?id=35485483"
-    ],
-    [
-      "Higher-order functions in Go",
-      "https://eli.thegreenplace.net/2023/higher-order-functions-in-go/"
-    ]
-  ],
-  [
-    [
       "2023-04-07, 17:50:18",
       "https://news.ycombinator.com/item?id=35484594"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2023-04-07, 13:34:09",
-      "https://news.ycombinator.com/item?id=35481409"
-    ],
-    [
-      "Perennial rice: Plant once, harvest again and again",
-      "https://www.npr.org/2023/03/23/1165680024/perennial-rice-plant-once-harvest-again-and-again"
-    ]
-  ],
-  [
-    [
       "2023-04-07, 12:51:49",
       "https://news.ycombinator.com/item?id=35481074"
     ],
     [
       "Quantum Computing 101",
       "https://academy.meetiqm.com/curriculum/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-07, 12:06:05",
+      "https://news.ycombinator.com/item?id=35480725"
+    ],
+    [
+      "How to be consistent",
+      "https://csprimer.com/articles/consistency/"
     ]
   ],
   [
