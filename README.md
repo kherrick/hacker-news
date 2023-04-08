@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-08, 17:29:29](https://news.ycombinator.com/item?id=35495579) - [Electricity Prices by Country](https://www.electricrate.com/data-center/electricity-prices-by-country/)
 * [2023-04-08, 16:42:52](https://news.ycombinator.com/item?id=35495070) - [Deep learning library written in Futhark](https://github.com/HnimNart/deeplearning)
 * [2023-04-08, 16:32:00](https://news.ycombinator.com/item?id=35494941) - [Iran installs cameras in public places to identify, penalise unveiled women](https://www.reuters.com/world/middle-east/iran-installs-cameras-public-places-identify-penalise-unveiled-women-police-2023-04-08/)
 * [2023-04-08, 15:57:59](https://news.ycombinator.com/item?id=35494532) - [Reverse-engineering the division microcode in the Intel 8086 processor](https://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)
@@ -26,7 +27,6 @@
 * [2023-04-07, 13:59:49](https://news.ycombinator.com/item?id=35481625) - [New Support for Some Extinct Tasmanian Tiger Sightings](https://www.nytimes.com/2023/04/07/science/tasmanian-tiger-sightings.html)
 * [2023-04-07, 12:06:05](https://news.ycombinator.com/item?id=35480725) - [How to be consistent](https://csprimer.com/articles/consistency/)
 * [2023-04-07, 07:53:00](https://news.ycombinator.com/item?id=35479265) - [Ampere Altra Dev Kit has launched 32, 64, 80 core arm64 processor](https://www.ipi.wiki/products/com-hpc-ampere-altra)
-* [2023-04-07, 07:18:37](https://news.ycombinator.com/item?id=35479029) - [In 2019, Volkswagen decided to create a car OS. How’s that going?](https://arstechnica.com/cars/2023/04/whats-going-on-with-volkswagens-software-division/)
 * [2023-04-07, 06:49:28](https://news.ycombinator.com/item?id=35478871) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/index.html)
 * [2023-04-07, 05:38:44](https://news.ycombinator.com/item?id=35478421) - [PostgreSQL Logical Replication Gotchas](https://pgdash.io/blog/postgres-replication-gotchas.html)
 * [2023-04-07, 00:18:36](https://news.ycombinator.com/item?id=35476404) - [HPC is dying, and MPI is killing it (2015)](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it)

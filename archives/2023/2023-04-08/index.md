@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 17:29:29](https://news.ycombinator.com/item?id=35495579) - [Electricity Prices by Country](https://www.electricrate.com/data-center/electricity-prices-by-country/)
 * [2023-04-08, 16:42:52](https://news.ycombinator.com/item?id=35495070) - [Deep learning library written in Futhark](https://github.com/HnimNart/deeplearning)
 * [2023-04-08, 16:32:00](https://news.ycombinator.com/item?id=35494941) - [Iran installs cameras in public places to identify, penalise unveiled women](https://www.reuters.com/world/middle-east/iran-installs-cameras-public-places-identify-penalise-unveiled-women-police-2023-04-08/)
 * [2023-04-08, 15:57:59](https://news.ycombinator.com/item?id=35494532) - [Reverse-engineering the division microcode in the Intel 8086 processor](https://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)
