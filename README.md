@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-08, 08:11:49](https://news.ycombinator.com/item?id=35491535) - [There’s a new form of keyless car theft that works in under 2 minutes](https://arstechnica.com/information-technology/2023/04/crooks-are-stealing-cars-using-previously-unknown-keyless-can-injection-attacks/)
 * [2023-04-08, 07:01:05](https://news.ycombinator.com/item?id=35491192) - [Nango (YC W23) Is Hiring a Founding Engineer (full-stack&#x2F;back end)](https://nango.dev/jobs)
 * [2023-04-08, 06:04:02](https://news.ycombinator.com/item?id=35490941) - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
 * [2023-04-08, 04:28:44](https://news.ycombinator.com/item?id=35490533) - [AI powered realtime fluid silulations are here](https://echoesofsomewhere.com/2023/04/06/ai-fluid-simulations/)
@@ -9,7 +10,6 @@
 * [2023-04-08, 00:41:48](https://news.ycombinator.com/item?id=35489113) - [Mac-se-video-converter: Compact Mac to VGA signal converter using rPi Pico](https://github.com/guruthree/mac-se-video-converter)
 * [2023-04-08, 00:30:04](https://news.ycombinator.com/item?id=35489029) - [Show HN: Learn Rust 101 – A guide to aid your journey of becoming a Rustacean](https://github.com/plabayo/learn-rust-101/blob/main/README.md)
 * [2023-04-08, 00:22:49](https://news.ycombinator.com/item?id=35488980) - [Go port of SQLite without CGo](https://gitlab.com/cznic/sqlite)
-* [2023-04-07, 22:26:38](https://news.ycombinator.com/item?id=35487846) - [Cerebras-GPT: Open Compute-Optimal Language Models Trained on Cerebras Cluster](https://arxiv.org/abs/2304.03208)
 * [2023-04-07, 22:03:37](https://news.ycombinator.com/item?id=35487588) - [Show HN: A toy bootloader written in C++](https://github.com/AgentD/hausboot)
 * [2023-04-07, 21:32:19](https://news.ycombinator.com/item?id=35487250) - [Show HN: A minimal job board for signal processing engineers](https://signalprocessingjobs.com/)
 * [2023-04-07, 21:03:57](https://news.ycombinator.com/item?id=35486972) - [Estes Rockets Model Scale 1:100 Replica of SpaceX Falcon 9](https://estesrockets.com/spacex-falcon-9/)
