@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 21:31:41](https://news.ycombinator.com/item?id=35497834) - [Making IELM (Emacs Lisp REPL) More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
 * [2023-04-08, 21:19:21](https://news.ycombinator.com/item?id=35497740) - [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
 * [2023-04-08, 21:17:25](https://news.ycombinator.com/item?id=35497728) - [Dooble Web Browser](https://textbrowser.github.io/dooble/)
 * [2023-04-08, 21:13:39](https://news.ycombinator.com/item?id=35497696) - [New Orleans Teenagers Found a New Proof of the Pythagorean Theorem](https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d)
