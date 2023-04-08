@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-08, 18:49:36](https://news.ycombinator.com/item?id=35496365) - [Dad says glitch in ‘Find My iPhone’ app directs angry strangers to his home](https://nypost.com/2023/04/06/find-my-iphone-app-glitch-sends-strangers-to-mans-home/)
 * [2023-04-08, 18:21:19](https://news.ycombinator.com/item?id=35496107) - [Ask HN: Tell me about how you bombed a technical interview](https://news.ycombinator.com/item?id=35496107)
 * [2023-04-08, 17:59:27](https://news.ycombinator.com/item?id=35495910) - [Why and How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
 * [2023-04-08, 17:56:54](https://news.ycombinator.com/item?id=35495886) - [Writing a Simple Garbage Collector in C (2020)](http://maplant.com/gc.html)
@@ -28,7 +29,6 @@
 * [2023-04-08, 02:17:03](https://news.ycombinator.com/item?id=35489798) - [QSL Card](https://en.wikipedia.org/wiki/QSL_card)
 * [2023-04-08, 00:44:47](https://news.ycombinator.com/item?id=35489131) - [Porting the Slint UI Toolkit to a Microcontroller with 264K RAM](https://slint-ui.com/blog/porting-slint-to-microcontrollers.html)
 * [2023-04-07, 12:06:05](https://news.ycombinator.com/item?id=35480725) - [How to be consistent](https://csprimer.com/articles/consistency/)
-* [2023-04-07, 07:53:00](https://news.ycombinator.com/item?id=35479265) - [Ampere Altra Dev Kit has launched 32, 64, 80 core arm64 processor](https://www.ipi.wiki/products/com-hpc-ampere-altra)
 * [2023-04-07, 00:18:36](https://news.ycombinator.com/item?id=35476404) - [HPC is dying, and MPI is killing it (2015)](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it)
 
 ## [Archives](archives/index.md)
