@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-08, 21:17:25",
+      "https://news.ycombinator.com/item?id=35497728"
+    ],
+    [
+      "Dooble Web Browser",
+      "https://textbrowser.github.io/dooble/"
+    ]
+  ],
+  [
+    [
+      "2023-04-08, 21:13:39",
+      "https://news.ycombinator.com/item?id=35497696"
+    ],
+    [
+      "New Orleans Teenagers Found a New Proof of the Pythagorean Theorem",
+      "https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 19:43:21",
       "https://news.ycombinator.com/item?id=35496871"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-04-08, 09:53:35",
-      "https://news.ycombinator.com/item?id=35491936"
-    ],
-    [
-      "Custom Allocators in Rust",
-      "https://nical.github.io/posts/rust-custom-allocators.html"
-    ]
-  ],
-  [
-    [
       "2023-04-08, 09:30:08",
       "https://news.ycombinator.com/item?id=35491834"
     ],
@@ -287,16 +297,6 @@
     [
       "How to be consistent",
       "https://csprimer.com/articles/consistency/"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 00:18:36",
-      "https://news.ycombinator.com/item?id=35476404"
-    ],
-    [
-      "HPC is dying, and MPI is killing it (2015)",
-      "https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it"
     ]
   ]
 ]
