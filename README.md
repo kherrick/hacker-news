@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-08, 09:36:38](https://news.ycombinator.com/item?id=35491859) - [Cruise Robotaxi vs. Bus Crash Caused by Confusion over Articulated Bus](https://www.forbes.com/sites/bradtempleton/2023/04/07/gms-cruise-robotaxi-vs-bus-crash-caused-by-confusion-over-articulated-bus-they-say-its-fixed/)
+* [2023-04-08, 10:46:42](https://news.ycombinator.com/item?id=35492137) - [Show HN: Spotify streaming GDPR dump local analyzer](https://github.com/pldubouilh/spotify-gdpr-dump-analysis)
+* [2023-04-08, 10:20:14](https://news.ycombinator.com/item?id=35492036) - [How to avoid correctness space leaks on a lazy setting in Haskell](https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html)
 * [2023-04-08, 08:43:54](https://news.ycombinator.com/item?id=35491662) - [MSI confirms cyberattack, warns against unofficial firmware](https://www.theregister.com/2023/04/07/msi_cyberattack_bios/)
 * [2023-04-08, 08:24:59](https://news.ycombinator.com/item?id=35491590) - [Knit: Making a Better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 * [2023-04-08, 08:08:08](https://news.ycombinator.com/item?id=35491520) - [0x0: Share Files from Terminal](https://0x0.st/)
@@ -28,7 +29,6 @@
 * [2023-04-07, 10:32:02](https://news.ycombinator.com/item?id=35480136) - [James Niehues Ski Map Artist](https://jamesniehues.com/)
 * [2023-04-07, 07:53:00](https://news.ycombinator.com/item?id=35479265) - [Ampere Altra Dev Kit has launched 32, 64, 80 core arm64 processor](https://www.ipi.wiki/products/com-hpc-ampere-altra)
 * [2023-04-07, 06:49:28](https://news.ycombinator.com/item?id=35478871) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/index.html)
-* [2023-04-07, 05:29:27](https://news.ycombinator.com/item?id=35478365) - [The Planiverse: Computer Contact with a Two-Dimensional World](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/planiverse/overview.html)
 * [2023-04-06, 18:09:20](https://news.ycombinator.com/item?id=35472107) - [Design and manufacture of edible microfluidic logic gates](https://arxiv.org/abs/2304.02371)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 10:46:42](https://news.ycombinator.com/item?id=35492137) - [Show HN: Spotify streaming GDPR dump local analyzer](https://github.com/pldubouilh/spotify-gdpr-dump-analysis)
+* [2023-04-08, 10:20:14](https://news.ycombinator.com/item?id=35492036) - [How to avoid correctness space leaks on a lazy setting in Haskell](https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html)
 * [2023-04-08, 09:36:38](https://news.ycombinator.com/item?id=35491859) - [Cruise Robotaxi vs. Bus Crash Caused by Confusion over Articulated Bus](https://www.forbes.com/sites/bradtempleton/2023/04/07/gms-cruise-robotaxi-vs-bus-crash-caused-by-confusion-over-articulated-bus-they-say-its-fixed/)
 * [2023-04-08, 08:43:54](https://news.ycombinator.com/item?id=35491662) - [MSI confirms cyberattack, warns against unofficial firmware](https://www.theregister.com/2023/04/07/msi_cyberattack_bios/)
 * [2023-04-08, 08:24:59](https://news.ycombinator.com/item?id=35491590) - [Knit: Making a Better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
