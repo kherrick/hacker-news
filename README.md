@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-09, 09:17:30](https://news.ycombinator.com/item?id=35501074) - [Digital collectibles &#x2F; NFTs on Instagram are winding down](https://help.instagram.com/1824155514623095)
 * [2023-04-09, 08:57:37](https://news.ycombinator.com/item?id=35500988) - [One of the world’s largest investment banks: ‘Greedflation’ has gone too far](https://fortune.com/2023/04/05/end-of-capitalism-inflation-greedflation-societe-generale-corporate-profits/)
 * [2023-04-09, 08:31:23](https://news.ycombinator.com/item?id=35500901) - [Multiple Passengers Skipped Customs on US-Bound International Flight](https://www.thestreet.com/travel/multiple-passengers-skipped-customs-on-us-bound-international-flight)
 * [2023-04-09, 08:13:53](https://news.ycombinator.com/item?id=35500849) - [Car exhaust filters fail to clean up ‘ultrafine’ air pollution](https://studyfinds.org/car-exhaust-filters-air-pollution/)
@@ -29,7 +30,6 @@
 * [2023-04-08, 10:42:08](https://news.ycombinator.com/item?id=35492119) - [Why computer modeling should become a popular hobby (1996)](https://www.qrg.northwestern.edu/papers/files/simhobby-local.htm)
 * [2023-04-08, 08:50:39](https://news.ycombinator.com/item?id=35491682) - [Building a Database in the 2020s (2022)](https://me.0xffff.me/build-database-in-2020s.html)
 * [2023-04-08, 07:41:54](https://news.ycombinator.com/item?id=35491403) - [The best kimchi is made in earthenware pots](https://www.washingtonpost.com/science/2023/04/07/kimchi-onggi/)
-* [2023-04-08, 02:17:03](https://news.ycombinator.com/item?id=35489798) - [QSL Card](https://en.wikipedia.org/wiki/QSL_card)
 
 ## [Archives](archives/index.md)
 
