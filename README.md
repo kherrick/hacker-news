@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-09, 18:49:48](https://news.ycombinator.com/item?id=35505342) - [Spherical Tokamak Achieves Crucial Plasma Temperatures](https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/)
 * [2023-04-09, 18:02:22](https://news.ycombinator.com/item?id=35504989) - [The One Thing I Can’t Stand About Teaching English in Japan (2019)](https://geekstravelinjapan.wordpress.com/2019/03/10/the-one-thing-i-cant-stand-about-teaching-english-in-japan/)
 * [2023-04-09, 17:12:04](https://news.ycombinator.com/item?id=35504558) - [C Rival &#x27;Zig&#x27; Cracks Tiobe Index Top](https://developers.slashdot.org/story/23/04/09/008243/c-rival-zig-cracks-tiobe-index-top-50-go-remains-in-top-10)
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
@@ -11,7 +12,6 @@
 * [2023-04-09, 15:57:24](https://news.ycombinator.com/item?id=35503928) - [Flatcar Container Linux](https://www.flatcar.org/)
 * [2023-04-09, 15:50:03](https://news.ycombinator.com/item?id=35503855) - [RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)
 * [2023-04-09, 15:43:01](https://news.ycombinator.com/item?id=35503784) - [Two Types of Software Engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
-* [2023-04-09, 15:38:16](https://news.ycombinator.com/item?id=35503743) - [Russia’s New Mystery Shortwave Station](https://hackaday.com/2023/04/08/russias-new-mystery-shortwave-station/)
 * [2023-04-09, 14:52:16](https://news.ycombinator.com/item?id=35503260) - [The first game ‘Easter eggs’ were an act of corporate rebellion](https://thehustle.co/the-first-easter-eggs-were-an-act-of-corporate-rebellion/)
 * [2023-04-09, 14:47:55](https://news.ycombinator.com/item?id=35503210) - [Apple Continues Efforts to Keep Retail Stores from Unionizing](https://www.bloomberg.com/news/newsletters/2023-04-09/apple-aapl-continues-efforts-to-keep-retail-stores-from-unionizing-lg9gjdx2)
 * [2023-04-09, 14:35:19](https://news.ycombinator.com/item?id=35503089) - [Irregular Expressions](https://tavianator.com/2023/irregex.html)
