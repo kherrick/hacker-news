@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-09, 12:51:20](https://news.ycombinator.com/item?id=35502252) - [Mark Zuckerberg abandons metaverse as shiny new toy appears](https://futurism.com/the-byte/mark-zuckerberg-abandons-metaverse)
 * [2023-04-09, 12:51:04](https://news.ycombinator.com/item?id=35502251) - [Chinese investment in Afghanistan’s lithium sector (2022)](https://www.brookings.edu/blog/up-front/2022/08/03/chinese-investment-in-afghanistans-lithium-sector-a-long-shot-in-the-short-term/)
+* [2023-04-09, 12:50:39](https://news.ycombinator.com/item?id=35502248) - [New Mexico Is Losing a Form of Spanish Spoken Nowhere Else on Earth](https://www.nytimes.com/2023/04/09/us/new-mexico-spanish.html)
 * [2023-04-09, 12:49:16](https://news.ycombinator.com/item?id=35502238) - [The Ruling That Threatens the Future of Libraries](https://www.theatlantic.com/ideas/archive/2023/04/internet-archive-libraries-federal-court-ruling/673615/)
 * [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From Deep to Long Learning](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * [2023-04-09, 12:36:17](https://news.ycombinator.com/item?id=35502151) - [Interview with Andrew Kelley (Zig Creator) (2021)](https://corecursive.com/067-zig-with-andrew-kelley/)
@@ -23,7 +23,7 @@
 * [2023-04-09, 03:33:58](https://news.ycombinator.com/item?id=35499855) - [IRB&#x27;s Built-In Measure (2021)](https://jemma.dev/blog/irb-measure)
 * [2023-04-09, 02:44:47](https://news.ycombinator.com/item?id=35499641) - [USPS facility in Utah does nothing but decipher handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
 * [2023-04-09, 00:40:39](https://news.ycombinator.com/item?id=35499065) - [Z-Library to let users share physical books](https://torrentfreak.com/z-library-plans-to-let-users-share-physical-books-through-z-points-230408/)
-* [2023-04-08, 21:31:41](https://news.ycombinator.com/item?id=35497834) - [Making IELM (Emacs Lisp REPL) More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
+* [2023-04-08, 21:26:55](https://news.ycombinator.com/item?id=35497799) - [Tables no longer needed for HTML email](https://fullystacked.net/posts/modern-html-email/)
 * [2023-04-08, 21:13:39](https://news.ycombinator.com/item?id=35497696) - [New Orleans teenagers found a new proof of the Pythagorean Theorem](https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d)
 * [2023-04-08, 19:26:55](https://news.ycombinator.com/item?id=35496712) - [A 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
 * [2023-04-08, 19:18:40](https://news.ycombinator.com/item?id=35496651) - [GNU+Linux laptops with Libreboot preinstalled, based on coreboot](https://minifree.org/)

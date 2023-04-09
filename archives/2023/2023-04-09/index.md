@@ -6,6 +6,7 @@
 
 * [2023-04-09, 12:51:20](https://news.ycombinator.com/item?id=35502252) - [Mark Zuckerberg abandons metaverse as shiny new toy appears](https://futurism.com/the-byte/mark-zuckerberg-abandons-metaverse)
 * [2023-04-09, 12:51:04](https://news.ycombinator.com/item?id=35502251) - [Chinese investment in Afghanistan’s lithium sector (2022)](https://www.brookings.edu/blog/up-front/2022/08/03/chinese-investment-in-afghanistans-lithium-sector-a-long-shot-in-the-short-term/)
+* [2023-04-09, 12:50:39](https://news.ycombinator.com/item?id=35502248) - [New Mexico Is Losing a Form of Spanish Spoken Nowhere Else on Earth](https://www.nytimes.com/2023/04/09/us/new-mexico-spanish.html)
 * [2023-04-09, 12:49:16](https://news.ycombinator.com/item?id=35502238) - [The Ruling That Threatens the Future of Libraries](https://www.theatlantic.com/ideas/archive/2023/04/internet-archive-libraries-federal-court-ruling/673615/)
 * [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From Deep to Long Learning](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * [2023-04-09, 12:36:17](https://news.ycombinator.com/item?id=35502151) - [Interview with Andrew Kelley (Zig Creator)](https://corecursive.com/067-zig-with-andrew-kelley/)
