@@ -1,22 +1,32 @@
 [
   [
     [
-      "2023-04-09, 18:49:48",
-      "https://news.ycombinator.com/item?id=35505342"
+      "2023-04-09, 19:28:34",
+      "https://news.ycombinator.com/item?id=35505647"
     ],
     [
-      "Spherical Tokamak Achieves Crucial Plasma Temperatures",
-      "https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/"
+      "Sailcargo",
+      "https://www.sailcargo.inc"
     ]
   ],
   [
     [
-      "2023-04-09, 17:37:56",
-      "https://news.ycombinator.com/item?id=35504786"
+      "2023-04-09, 19:22:07",
+      "https://news.ycombinator.com/item?id=35505591"
     ],
     [
-      "The Interoperable Europe Act Needs a “Free Software First” Approach",
-      "https://fsfe.org/news/2023/news-20230323-02.en.html"
+      "UnicodePlots",
+      "https://github.com/JuliaPlots/UnicodePlots.jl"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 18:49:48",
+      "https://news.ycombinator.com/item?id=35505342"
+    ],
+    [
+      "Spherical tokamak achieves crucial plasma temperatures",
+      "https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=35504402"
     ],
     [
-      "Closing a Stale SSH Connection",
+      "Closing a stale SSH connection",
       "https://davidisaksson.dev/posts/closing-stale-ssh-connections/"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=35504351"
     ],
     [
-      "Inline in Rust",
+      "Inline in Rust (2021)",
       "https://matklad.github.io/2021/07/09/inline-in-rust.html"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=35503784"
     ],
     [
-      "Two Types of Software Engineers",
+      "Two types of software engineers",
       "https://registerspill.thorstenball.com/p/two-types-of-software-engineers"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "The first game ‘Easter eggs’ were an act of corporate rebellion",
       "https://thehustle.co/the-first-easter-eggs-were-an-act-of-corporate-rebellion/"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 14:47:55",
-      "https://news.ycombinator.com/item?id=35503210"
-    ],
-    [
-      "Apple Continues Efforts to Keep Retail Stores from Unionizing",
-      "https://www.bloomberg.com/news/newsletters/2023-04-09/apple-aapl-continues-efforts-to-keep-retail-stores-from-unionizing-lg9gjdx2"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35503044"
     ],
     [
-      "When do you need Chain-of-Thought Prompting for ChatGPT?",
+      "When do you need chain-of-thought prompting for ChatGPT?",
       "https://arxiv.org/abs/2304.03262"
     ]
   ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=35502187"
     ],
     [
-      "From Deep to Long Learning",
+      "From deep to long learning?",
       "https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning"
     ]
   ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2023-04-08, 21:13:39",
-      "https://news.ycombinator.com/item?id=35497696"
-    ],
-    [
-      "New Orleans teenagers found a new proof of the Pythagorean Theorem",
-      "https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d"
-    ]
-  ],
-  [
-    [
       "2023-04-08, 06:40:53",
       "https://news.ycombinator.com/item?id=35491110"
     ],
     [
       "Tidyverse 2.0.0",
       "https://www.tidyverse.org/blog/2023/03/tidyverse-2-0-0/"
+    ]
+  ],
+  [
+    [
+      "2023-04-07, 18:56:05",
+      "https://news.ycombinator.com/item?id=35485524"
+    ],
+    [
+      "The Creative Squiggle",
+      "https://koliber.com/articles/the-creative-squiggle"
     ]
   ],
   [
