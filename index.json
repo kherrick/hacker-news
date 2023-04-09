@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-04-09, 20:43:47",
+      "https://news.ycombinator.com/item?id=35506304"
+    ],
+    [
+      "OpenVMS 9.2 for x86 is finally available for hobbyists",
+      "https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 20:35:33",
+      "https://news.ycombinator.com/item?id=35506236"
+    ],
+    [
+      "Who Invented Vector Clocks?",
+      "https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 20:17:10",
+      "https://news.ycombinator.com/item?id=35506069"
+    ],
+    [
+      "A Baby GPT",
+      "https://twitter.com/karpathy/status/1645115622517542913"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 20:10:49",
+      "https://news.ycombinator.com/item?id=35506009"
+    ],
+    [
+      "What does a research grant pay for?",
+      "https://austinhenley.com/blog/grantbudget.html"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 20:03:08",
       "https://news.ycombinator.com/item?id=35505953"
     ],
@@ -47,16 +87,6 @@
     [
       "Spherical tokamak achieves crucial plasma temperatures",
       "https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 17:37:56",
-      "https://news.ycombinator.com/item?id=35504786"
-    ],
-    [
-      "The Interoperable Europe Act Needs a “Free Software First” Approach",
-      "https://fsfe.org/news/2023/news-20230323-02.en.html"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-04-09, 14:30:13",
-      "https://news.ycombinator.com/item?id=35503044"
-    ],
-    [
-      "When do you need chain-of-thought prompting for ChatGPT?",
-      "https://arxiv.org/abs/2304.03262"
-    ]
-  ],
-  [
-    [
       "2023-04-09, 14:20:41",
       "https://news.ycombinator.com/item?id=35502956"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-04-09, 06:42:25",
-      "https://news.ycombinator.com/item?id=35500528"
-    ],
-    [
-      "Perseus – NextJS alternative in Rust",
-      "https://framesurge.sh/perseus/en-US/"
-    ]
-  ],
-  [
-    [
       "2023-04-09, 06:29:50",
       "https://news.ycombinator.com/item?id=35500472"
     ],
     [
       "Microsoft &#x2F; JARVIS: a system to connect LLMs with ML community",
       "https://github.com/microsoft/JARVIS"
-    ]
-  ],
-  [
-    [
-      "2023-04-08, 06:40:53",
-      "https://news.ycombinator.com/item?id=35491110"
-    ],
-    [
-      "Tidyverse 2.0.0",
-      "https://www.tidyverse.org/blog/2023/03/tidyverse-2-0-0/"
     ]
   ],
   [
