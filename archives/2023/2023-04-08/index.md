@@ -62,6 +62,7 @@
 * [2023-04-08, 08:24:59](https://news.ycombinator.com/item?id=35491590) - [Knit: Making a Better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 * [2023-04-08, 08:11:49](https://news.ycombinator.com/item?id=35491535) - [There’s a new form of keyless car theft that works in under 2 minutes](https://arstechnica.com/information-technology/2023/04/crooks-are-stealing-cars-using-previously-unknown-keyless-can-injection-attacks/)
 * [2023-04-08, 08:08:08](https://news.ycombinator.com/item?id=35491520) - [0x0: Share Files from Terminal](https://0x0.st/)
+* [2023-04-08, 07:41:54](https://news.ycombinator.com/item?id=35491403) - [The best kimchi is made in earthenware pots](https://www.washingtonpost.com/science/2023/04/07/kimchi-onggi/)
 * [2023-04-08, 07:14:10](https://news.ycombinator.com/item?id=35491261) - [So you want to play with Wi-Fi? It’s dangerous to make frames alone. Take this](https://www.cybersecurity.blog.aisec.fraunhofer.de/en/so-you-want-to-play-with-wi-fi/)
 * [2023-04-08, 07:12:45](https://news.ycombinator.com/item?id=35491252) - [Weber–Fechner Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
 * [2023-04-08, 07:09:05](https://news.ycombinator.com/item?id=35491239) - [Mainboards supported by coreboot](https://coreboot.org/status/board-status.html)
