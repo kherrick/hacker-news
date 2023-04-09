@@ -21,6 +21,7 @@
 * [2023-04-08, 15:57:59](https://news.ycombinator.com/item?id=35494532) - [Reverse-engineering the division microcode in the Intel 8086 processor](https://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)
 * [2023-04-08, 15:42:50](https://news.ycombinator.com/item?id=35494382) - [FAA K-12 Airport Design Challenge in Minecraft](https://www.faa.gov/airport-design-challenge)
 * [2023-04-08, 15:39:10](https://news.ycombinator.com/item?id=35494342) - [To Supercharge Learning, Look to Play](https://nautil.us/to-supercharge-learning-look-to-play-292946/)
+* [2023-04-08, 15:28:54](https://news.ycombinator.com/item?id=35494219) - [4 Ways to Put Lasers on Silicon](https://spectrum.ieee.org/lasers-on-silicon)
 * [2023-04-08, 11:28:20](https://news.ycombinator.com/item?id=35492307) - [The Garbage Collection Handbook, 2nd Edition](https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038)
 * [2023-04-08, 10:42:08](https://news.ycombinator.com/item?id=35492119) - [Why computer modeling should become a popular hobby (1996)](https://www.qrg.northwestern.edu/papers/files/simhobby-local.htm)
 * [2023-04-08, 08:50:39](https://news.ycombinator.com/item?id=35491682) - [Building a Database in the 2020s](https://me.0xffff.me/build-database-in-2020s.html)
@@ -29,7 +30,6 @@
 * [2023-04-08, 07:09:05](https://news.ycombinator.com/item?id=35491239) - [Mainboards supported by coreboot](https://coreboot.org/status/board-status.html)
 * [2023-04-08, 02:17:03](https://news.ycombinator.com/item?id=35489798) - [QSL Card](https://en.wikipedia.org/wiki/QSL_card)
 * [2023-04-08, 00:44:47](https://news.ycombinator.com/item?id=35489131) - [Porting the Slint UI Toolkit to a Microcontroller with 264K RAM](https://slint-ui.com/blog/porting-slint-to-microcontrollers.html)
-* [2023-04-07, 16:48:04](https://news.ycombinator.com/item?id=35483816) - [Vertical communities](https://noahpinion.substack.com/p/vertical-communities)
 
 ## [Archives](archives/index.md)
 
