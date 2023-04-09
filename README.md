@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-09, 12:51:20](https://news.ycombinator.com/item?id=35502252) - [Mark Zuckerberg abandons metaverse as shiny new toy appears](https://futurism.com/the-byte/mark-zuckerberg-abandons-metaverse)
 * [2023-04-09, 12:51:04](https://news.ycombinator.com/item?id=35502251) - [Chinese investment in Afghanistan’s lithium sector (2022)](https://www.brookings.edu/blog/up-front/2022/08/03/chinese-investment-in-afghanistans-lithium-sector-a-long-shot-in-the-short-term/)
 * [2023-04-09, 12:49:16](https://news.ycombinator.com/item?id=35502238) - [The Ruling That Threatens the Future of Libraries](https://www.theatlantic.com/ideas/archive/2023/04/internet-archive-libraries-federal-court-ruling/673615/)
 * [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From Deep to Long Learning](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
+* [2023-04-09, 12:36:17](https://news.ycombinator.com/item?id=35502151) - [Interview with Andrew Kelley (Zig Creator)](https://corecursive.com/067-zig-with-andrew-kelley/)
 * [2023-04-09, 12:09:31](https://news.ycombinator.com/item?id=35501969) - [Dutch journalist who writes critically on China targeted in intimidation scheme](https://nltimes.nl/2023/04/08/dutch-journalist-writes-critically-china-targeted-bizarre-intimidation-scheme)
 * [2023-04-09, 12:01:56](https://news.ycombinator.com/item?id=35501918) - [Float Health (YC W22) Is Hiring UI&#x2F;UX Designer](https://news.ycombinator.com/item?id=35501918)
 * [2023-04-09, 11:52:55](https://news.ycombinator.com/item?id=35501868) - [‘It’s called stealing’: new allegations of plagiarism against Roy Lichtenstein](https://www.theguardian.com/artanddesign/2023/apr/09/new-allegations-of-plagiarism-against-roy-lichtenstein)
@@ -26,10 +28,8 @@
 * [2023-04-08, 19:26:55](https://news.ycombinator.com/item?id=35496712) - [A 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
 * [2023-04-08, 19:18:40](https://news.ycombinator.com/item?id=35496651) - [GNU+Linux laptops with Libreboot preinstalled, based on coreboot](https://minifree.org/)
 * [2023-04-08, 15:32:27](https://news.ycombinator.com/item?id=35494266) - [When Slide Rules Ruled (2006) [pdf]](https://pdodds.w3.uvm.edu/files/papers/others/2006/stoll2006a.pdf)
-* [2023-04-08, 11:28:20](https://news.ycombinator.com/item?id=35492307) - [The Garbage Collection Handbook, 2nd Edition](https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038)
 * [2023-04-08, 08:50:39](https://news.ycombinator.com/item?id=35491682) - [Building a Database in the 2020s (2022)](https://me.0xffff.me/build-database-in-2020s.html)
 * [2023-04-08, 07:41:54](https://news.ycombinator.com/item?id=35491403) - [The best kimchi is made in earthenware pots](https://www.washingtonpost.com/science/2023/04/07/kimchi-onggi/)
-* [2023-04-07, 17:50:18](https://news.ycombinator.com/item?id=35484594) - [Ask Wirecutter: Can you recommend a not-smart TV for me?](https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/)
 
 ## [Archives](archives/index.md)
 

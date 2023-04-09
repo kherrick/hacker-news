@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 12:51:20](https://news.ycombinator.com/item?id=35502252) - [Mark Zuckerberg abandons metaverse as shiny new toy appears](https://futurism.com/the-byte/mark-zuckerberg-abandons-metaverse)
 * [2023-04-09, 12:51:04](https://news.ycombinator.com/item?id=35502251) - [Chinese investment in Afghanistan’s lithium sector (2022)](https://www.brookings.edu/blog/up-front/2022/08/03/chinese-investment-in-afghanistans-lithium-sector-a-long-shot-in-the-short-term/)
 * [2023-04-09, 12:49:16](https://news.ycombinator.com/item?id=35502238) - [The Ruling That Threatens the Future of Libraries](https://www.theatlantic.com/ideas/archive/2023/04/internet-archive-libraries-federal-court-ruling/673615/)
 * [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From Deep to Long Learning](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
+* [2023-04-09, 12:36:17](https://news.ycombinator.com/item?id=35502151) - [Interview with Andrew Kelley (Zig Creator)](https://corecursive.com/067-zig-with-andrew-kelley/)
 * [2023-04-09, 12:09:31](https://news.ycombinator.com/item?id=35501969) - [Dutch journalist who writes critically on China targeted in intimidation scheme](https://nltimes.nl/2023/04/08/dutch-journalist-writes-critically-china-targeted-bizarre-intimidation-scheme)
 * [2023-04-09, 12:01:56](https://news.ycombinator.com/item?id=35501918) - [Float Health (YC W22) Is Hiring UI&#x2F;UX Designer](https://news.ycombinator.com/item?id=35501918)
 * [2023-04-09, 11:52:55](https://news.ycombinator.com/item?id=35501868) - [‘It’s called stealing’: new allegations of plagiarism against Roy Lichtenstein](https://www.theguardian.com/artanddesign/2023/apr/09/new-allegations-of-plagiarism-against-roy-lichtenstein)
