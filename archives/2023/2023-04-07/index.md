@@ -31,6 +31,7 @@
 * [2023-04-07, 19:29:56](https://news.ycombinator.com/item?id=35485969) - [“No Way to Prevent This”, Says Only Nation Where This Regularly Happens](https://en.wikipedia.org/wiki/%22No_Way_to_Prevent_This%22,_Says_Only_Nation_Where_This_Regularly_Happens)
 * [2023-04-07, 19:19:51](https://news.ycombinator.com/item?id=35485854) - [LifeCard Folding Single-Shot .22 Pistol](https://trailblazerfirearms.com/lifecard-gun/)
 * [2023-04-07, 18:57:53](https://news.ycombinator.com/item?id=35485552) - [Ask HN: Is it appropriate to ask a startup to let me see their cap table?](https://news.ycombinator.com/item?id=35485552)
+* [2023-04-07, 18:56:05](https://news.ycombinator.com/item?id=35485524) - [The Creative Squiggle](https://koliber.com/articles/the-creative-squiggle)
 * [2023-04-07, 18:54:52](https://news.ycombinator.com/item?id=35485511) - [Frequency comb breathalyzer detects Covid with excellent accuracy](https://www.nist.gov/news-events/news/2023/04/jilas-frequency-comb-breathalyzer-detects-covid-19-excellent-accuracy)
 * [2023-04-07, 18:52:45](https://news.ycombinator.com/item?id=35485483) - [Higher-order functions in Go](https://eli.thegreenplace.net/2023/higher-order-functions-in-go/)
 * [2023-04-07, 18:25:49](https://news.ycombinator.com/item?id=35485064) - [Carbon nanotube recognition by human Siglec-14 provokes inflammation](https://www.nature.com/articles/s41565-023-01363-w)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 19:28:34](https://news.ycombinator.com/item?id=35505647) - [Sailcargo](https://www.sailcargo.inc)
+* [2023-04-09, 19:22:07](https://news.ycombinator.com/item?id=35505591) - [UnicodePlots](https://github.com/JuliaPlots/UnicodePlots.jl)
 * [2023-04-09, 18:49:48](https://news.ycombinator.com/item?id=35505342) - [Spherical Tokamak Achieves Crucial Plasma Temperatures](https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/)
 * [2023-04-09, 18:02:22](https://news.ycombinator.com/item?id=35504989) - [The One Thing I Can’t Stand About Teaching English in Japan (2019)](https://geekstravelinjapan.wordpress.com/2019/03/10/the-one-thing-i-cant-stand-about-teaching-english-in-japan/)
 * [2023-04-09, 17:37:56](https://news.ycombinator.com/item?id=35504786) - [The Interoperable Europe Act Needs a “Free Software First” Approach](https://fsfe.org/news/2023/news-20230323-02.en.html)
