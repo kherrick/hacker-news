@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 22:14:37](https://news.ycombinator.com/item?id=35506983) - [Fine-tuning with LoRA: create your own avatars and styles](https://www.kix.in/2023/04/07/sd-lora-finetuning/)
 * [2023-04-09, 21:08:55](https://news.ycombinator.com/item?id=35506485) - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 * [2023-04-09, 21:07:21](https://news.ycombinator.com/item?id=35506472) - [Large Language Models Are Human-Level Prompt Engineers](https://openreview.net/forum?id=92gvk82DE-)
 * [2023-04-09, 21:02:49](https://news.ycombinator.com/item?id=35506448) - [Sabine Hossenfelder: I think faster than light travel is possible. Here&#x27;s why](http://backreaction.blogspot.com/2023/04/i-think-faster-than-light-travel-is.html)
