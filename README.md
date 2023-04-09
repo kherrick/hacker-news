@@ -2,6 +2,7 @@
 
 * [2023-04-09, 07:00:17](https://news.ycombinator.com/item?id=35500585) - [June (YC W21) Is Hiring a Senior Engineer (#4)](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-senior-product-engineer-4)
 * [2023-04-09, 06:42:25](https://news.ycombinator.com/item?id=35500528) - [Perseus – NextJS alternative in Rust](https://framesurge.sh/perseus/en-US/)
+* [2023-04-09, 06:38:01](https://news.ycombinator.com/item?id=35500501) - [Computer History by Balenciaga](https://twitter.com/azlenelza/status/1644789222082244613)
 * [2023-04-09, 05:03:12](https://news.ycombinator.com/item?id=35500197) - [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/)
 * [2023-04-09, 04:32:18](https://news.ycombinator.com/item?id=35500082) - [Custom coreboot firmware and firmware utilities for your Chromebook&#x2F;Chromebox](https://mrchromebox.tech/)
 * [2023-04-09, 04:14:50](https://news.ycombinator.com/item?id=35499996) - [Do Kwon converted illicit funds from LUNA to Bitcoin](https://cointelegraph.com/news/do-kwon-converted-stolen-funds-from-luna-to-bitcoin-s-korean-prosecutors)
@@ -10,7 +11,6 @@
 * [2023-04-09, 00:40:39](https://news.ycombinator.com/item?id=35499065) - [Z-Library to let users share physical books](https://torrentfreak.com/z-library-plans-to-let-users-share-physical-books-through-z-points-230408/)
 * [2023-04-08, 21:31:41](https://news.ycombinator.com/item?id=35497834) - [Making IELM (Emacs Lisp REPL) More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
 * [2023-04-08, 21:26:55](https://news.ycombinator.com/item?id=35497799) - [Tables no longer needed for HTML email](https://fullystacked.net/posts/modern-html-email/)
-* [2023-04-08, 21:17:25](https://news.ycombinator.com/item?id=35497728) - [Dooble Web Browser](https://textbrowser.github.io/dooble/)
 * [2023-04-08, 21:13:39](https://news.ycombinator.com/item?id=35497696) - [New Orleans teenagers found a new proof of the Pythagorean Theorem](https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d)
 * [2023-04-08, 19:43:21](https://news.ycombinator.com/item?id=35496871) - [FCC warns Portland church to shut down pirate FM operating under its steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
 * [2023-04-08, 19:27:26](https://news.ycombinator.com/item?id=35496718) - [PyDPainter 1.0.5 – Amiga Deluxe Paint Clone Written in Python](https://www.pygame.org/project/5157/8204)
