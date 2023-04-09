@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-04-09, 22:14:37",
-      "https://news.ycombinator.com/item?id=35506983"
+      "2023-04-09, 22:29:38",
+      "https://news.ycombinator.com/item?id=35507099"
     ],
     [
-      "Fine-tuning with LoRA: create your own avatars and styles",
-      "https://www.kix.in/2023/04/07/sd-lora-finetuning/"
+      "At Stanford law school, the dean takes a stand for free speech. will it work?",
+      "https://www.nytimes.com/2023/04/09/us/stanford-law-school-free-speech.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 21:36:16",
+      "https://news.ycombinator.com/item?id=35506711"
+    ],
+    [
+      "Laid-off tech workers choose stability over status",
+      "https://www.wsj.com/articles/as-tech-jobs-disappear-silicon-valley-veterans-reset-their-careers-dbdb983"
     ]
   ],
   [
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-04-09, 21:02:49",
-      "https://news.ycombinator.com/item?id=35506448"
+      "2023-04-09, 20:56:42",
+      "https://news.ycombinator.com/item?id=35506401"
     ],
     [
-      "I think faster than light travel is possible",
-      "http://backreaction.blogspot.com/2023/04/i-think-faster-than-light-travel-is.html"
+      "Australia is quitting coal in record time thanks to Tesla",
+      "https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power"
     ]
   ],
   [
@@ -71,12 +81,12 @@
   ],
   [
     [
-      "2023-04-09, 19:28:34",
-      "https://news.ycombinator.com/item?id=35505647"
+      "2023-04-09, 19:34:45",
+      "https://news.ycombinator.com/item?id=35505693"
     ],
     [
-      "Sailcargo",
-      "https://www.sailcargo.inc"
+      "The four-horse race to decarbonise steel",
+      "https://www.energymonitor.ai/sectors/industry/the-four-horse-race-to-decarbonise-steel/"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=35505518"
     ],
     [
-      "Street Fighting Engineers vs Martial Arts Engineers",
+      "Street fighting engineers vs. martial arts engineers",
       "https://ravitejakanta.substack.com/p/the-2-breeds-of-10x-engineers"
     ]
   ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2023-04-09, 16:12:18",
-      "https://news.ycombinator.com/item?id=35504052"
-    ],
-    [
-      "Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows",
-      "https://arxiv.org/abs/2103.14030"
-    ]
-  ],
-  [
-    [
       "2023-04-09, 15:57:24",
       "https://news.ycombinator.com/item?id=35503928"
     ],
@@ -177,6 +177,16 @@
     [
       "RISC-V Bytes: Exploring a Custom ESP32 Bootloader",
       "https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 15:38:16",
+      "https://news.ycombinator.com/item?id=35503743"
+    ],
+    [
+      "Russia’s New Mystery Shortwave Station",
+      "https://hackaday.com/2023/04/08/russias-new-mystery-shortwave-station/"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2023-04-09, 14:09:19",
-      "https://news.ycombinator.com/item?id=35502874"
+      "2023-04-09, 13:09:29",
+      "https://news.ycombinator.com/item?id=35502389"
     ],
     [
-      "Modular Errors in Rust",
-      "https://sabrinajewson.org/blog/errors"
+      "Nam: Neural network emulator for guitar amplifiers",
+      "https://github.com/sdatkinson/neural-amp-modeler"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2023-04-09, 11:29:25",
+      "https://news.ycombinator.com/item?id=35501718"
+    ],
+    [
+      "Show HN: Supavisor – a Postgres connection pooler written in Elixir",
+      "https://github.com/supabase/supavisor"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 09:23:19",
       "https://news.ycombinator.com/item?id=35501109"
     ],
@@ -277,26 +297,6 @@
     [
       "Sunset at the South Pole",
       "https://brr.fyi/posts/sunset"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 18:56:05",
-      "https://news.ycombinator.com/item?id=35485524"
-    ],
-    [
-      "The Creative Squiggle",
-      "https://koliber.com/articles/the-creative-squiggle"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 17:29:52",
-      "https://news.ycombinator.com/item?id=35484322"
-    ],
-    [
-      "Haxe 4.3",
-      "https://haxe.org/download/"
     ]
   ]
 ]
