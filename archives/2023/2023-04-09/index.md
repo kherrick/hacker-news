@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 15:05:49](https://news.ycombinator.com/item?id=35503406) - [AWS S3 beginning to apply 2 security best practices all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-two-security-best-practices-buckets-default/)
 * [2023-04-09, 14:47:55](https://news.ycombinator.com/item?id=35503210) - [Apple Continues Efforts to Keep Retail Stores from Unionizing](https://www.bloomberg.com/news/newsletters/2023-04-09/apple-aapl-continues-efforts-to-keep-retail-stores-from-unionizing-lg9gjdx2)
 * [2023-04-09, 14:35:19](https://news.ycombinator.com/item?id=35503089) - [Irregular Expressions](https://tavianator.com/2023/irregex.html)
 * [2023-04-09, 14:21:21](https://news.ycombinator.com/item?id=35502965) - [5-Year-Old Pulled Down a 3-Year-Old&#x27;s Pants. The Preschool Workers Are on Trial](https://reason.com/2023/04/03/poncha-springs-schoolhouse-daycare-kids-preschool-trial/)
@@ -25,6 +26,7 @@
 * [2023-04-09, 11:39:24](https://news.ycombinator.com/item?id=35501780) - [68–95–99.7 Rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
 * [2023-04-09, 11:30:50](https://news.ycombinator.com/item?id=35501732) - [It sounds like science fiction but it’s not: AI can destroy your business](https://www.theguardian.com/business/2023/apr/09/it-sounds-like-science-fiction-but-its-not-ai-can-financially-destroy-your-business)
 * [2023-04-09, 11:14:18](https://news.ycombinator.com/item?id=35501633) - [Savor the Journey: A Seven-Course Menu for Personal Growth](https://alexanderhauervig.substack.com/p/savor-the-journey-a-seven-course)
+* [2023-04-09, 11:08:45](https://news.ycombinator.com/item?id=35501602) - [Re-examining the chip Shortage: Legacy node decommissions](https://trossbach.substack.com/p/closed-source-intellectual-property)
 * [2023-04-09, 11:02:50](https://news.ycombinator.com/item?id=35501561) - [Flexible membrane mirrors for large space-based telescopes](https://www.optica.org/en-us/about/newsroom/news_releases/2023/april/researchers_devise_new_membrane_mirrors_for_large/)
 * [2023-04-09, 10:22:35](https://news.ycombinator.com/item?id=35501373) - [Difference Between a Symbolic Link and a Hard Link](https://toolhub.tech/blog/Difference-between-Symbolic-Link-and-Hard-Link/)
 * [2023-04-09, 10:14:39](https://news.ycombinator.com/item?id=35501335) - [World’s last dedicated Meccano factory to close in France](https://www.theguardian.com/world/2023/feb/23/last-dedicated-meccano-factory-to-close-in-france)
