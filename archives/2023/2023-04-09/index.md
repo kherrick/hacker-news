@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 21:08:55](https://news.ycombinator.com/item?id=35506485) - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 * [2023-04-09, 21:07:21](https://news.ycombinator.com/item?id=35506472) - [Large Language Models Are Human-Level Prompt Engineers](https://openreview.net/forum?id=92gvk82DE-)
+* [2023-04-09, 21:02:49](https://news.ycombinator.com/item?id=35506448) - [Sabine Hossenfelder: I think faster than light travel is possible. Here&#x27;s why](http://backreaction.blogspot.com/2023/04/i-think-faster-than-light-travel-is.html)
 * [2023-04-09, 20:56:42](https://news.ycombinator.com/item?id=35506401) - [Australia Is Quitting Coal in Record Time Thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
 * [2023-04-09, 20:43:47](https://news.ycombinator.com/item?id=35506304) - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
 * [2023-04-09, 20:35:33](https://news.ycombinator.com/item?id=35506236) - [Who Invented Vector Clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
@@ -65,6 +67,7 @@
 * [2023-04-09, 10:22:35](https://news.ycombinator.com/item?id=35501373) - [Difference Between a Symbolic Link and a Hard Link](https://toolhub.tech/blog/Difference-between-Symbolic-Link-and-Hard-Link/)
 * [2023-04-09, 10:14:39](https://news.ycombinator.com/item?id=35501335) - [World’s last dedicated Meccano factory to close in France](https://www.theguardian.com/world/2023/feb/23/last-dedicated-meccano-factory-to-close-in-france)
 * [2023-04-09, 10:10:49](https://news.ycombinator.com/item?id=35501314) - [An In-Depth Guide to I, P, and B Frames in Video Compression](https://toolhub.tech/blog/I-P-and-B-Frames-in-Video-Compression/)
+* [2023-04-09, 09:54:33](https://news.ycombinator.com/item?id=35501263) - [Wanted, people to make $22,000 handbags](https://www.ft.com/content/fc6da6cd-9395-4ead-8ef5-03cdb18425a9)
 * [2023-04-09, 09:23:19](https://news.ycombinator.com/item?id=35501109) - [Show HN: Shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
 * [2023-04-09, 09:17:30](https://news.ycombinator.com/item?id=35501074) - [Digital collectibles &#x2F; NFTs on Instagram are winding down](https://help.instagram.com/1824155514623095)
 * [2023-04-09, 09:14:26](https://news.ycombinator.com/item?id=35501065) - [PL&#x2F;Rust 1.0: now a trusted language for Postgres](https://tcdi.github.io/plrust/plrust.html)
