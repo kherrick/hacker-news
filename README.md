@@ -22,12 +22,12 @@
 * [2023-04-09, 12:04:37](https://news.ycombinator.com/item?id=35501937) - [EY gets banned from new audit business in Germany](https://www.economist.com/business/2023/04/05/ey-gets-banned-from-new-audit-business-in-germany)
 * [2023-04-09, 12:01:56](https://news.ycombinator.com/item?id=35501918) - [Float Health (YC W22) Is Hiring UI&#x2F;UX Designer](https://news.ycombinator.com/item?id=35501918)
 * [2023-04-09, 11:50:11](https://news.ycombinator.com/item?id=35501845) - [A CERN for Open Source Large-Scale AI](https://www.openpetition.eu/petition/online/securing-our-digital-future-a-cern-for-open-source-large-scale-ai-research-and-its-safety)
+* [2023-04-09, 11:39:24](https://news.ycombinator.com/item?id=35501780) - [68–95–99.7 Rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
 * [2023-04-09, 11:02:50](https://news.ycombinator.com/item?id=35501561) - [Flexible membrane mirrors for large space-based telescopes](https://www.optica.org/en-us/about/newsroom/news_releases/2023/april/researchers_devise_new_membrane_mirrors_for_large/)
 * [2023-04-09, 09:14:26](https://news.ycombinator.com/item?id=35501065) - [PL&#x2F;Rust 1.0: now a trusted language for Postgres](https://tcdi.github.io/plrust/plrust.html)
 * [2023-04-09, 08:49:54](https://news.ycombinator.com/item?id=35500966) - [Sunset at the South Pole](https://brr.fyi/posts/sunset)
 * [2023-04-09, 06:42:25](https://news.ycombinator.com/item?id=35500528) - [Perseus – NextJS alternative in Rust](https://framesurge.sh/perseus/en-US/)
 * [2023-04-09, 06:29:50](https://news.ycombinator.com/item?id=35500472) - [Microsoft &#x2F; JARVIS: a system to connect LLMs with ML community](https://github.com/microsoft/JARVIS)
-* [2023-04-09, 02:44:47](https://news.ycombinator.com/item?id=35499641) - [USPS facility in Utah does nothing but decipher handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
 * [2023-04-08, 21:13:39](https://news.ycombinator.com/item?id=35497696) - [New Orleans teenagers found a new proof of the Pythagorean Theorem](https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d)
 * [2023-04-08, 06:40:53](https://news.ycombinator.com/item?id=35491110) - [Tidyverse 2.0.0](https://www.tidyverse.org/blog/2023/03/tidyverse-2-0-0/)
 
