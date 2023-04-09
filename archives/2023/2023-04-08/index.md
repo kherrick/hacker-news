@@ -7,6 +7,7 @@
 * [2023-04-08, 22:48:58](https://news.ycombinator.com/item?id=35498416) - [Pentagon, Justice Dept investigate as secret military documents appear online](https://text.npr.org/1168794847)
 * [2023-04-08, 21:58:55](https://news.ycombinator.com/item?id=35498067) - [I regret using Ionic for app development](https://mhamri.com/why-i-regret-using-ionic-for-app-development-c8b21b88d83a)
 * [2023-04-08, 21:31:41](https://news.ycombinator.com/item?id=35497834) - [Making IELM (Emacs Lisp REPL) More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
+* [2023-04-08, 21:26:55](https://news.ycombinator.com/item?id=35497799) - [Tables no longer needed for HTML email](https://fullystacked.net/posts/modern-html-email/)
 * [2023-04-08, 21:19:21](https://news.ycombinator.com/item?id=35497740) - [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
 * [2023-04-08, 21:19:11](https://news.ycombinator.com/item?id=35497738) - [Lonely Individuals Process the World in Idiosyncratic Ways](https://journals.sagepub.com/doi/10.1177/09567976221145316)
 * [2023-04-08, 21:17:25](https://news.ycombinator.com/item?id=35497728) - [Dooble Web Browser](https://textbrowser.github.io/dooble/)
