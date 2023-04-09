@@ -8,3 +8,4 @@
 * [2023-04-09, 03:33:58](https://news.ycombinator.com/item?id=35499855) - [IRB&#x27;s Built-In Measure](https://jemma.dev/blog/irb-measure)
 * [2023-04-09, 03:33:19](https://news.ycombinator.com/item?id=35499852) - [The Last Week in AI](https://old.reddit.com/r/ChatGPT/comments/12diapw/gpt4_week_3_chatbots_are_yesterdays_news_ai/)
 * [2023-04-09, 02:44:47](https://news.ycombinator.com/item?id=35499641) - [USPS facility in Utah does nothing but decipher bad handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
+* [2023-04-09, 00:40:39](https://news.ycombinator.com/item?id=35499065) - [Z-Library to let users share physical books](https://torrentfreak.com/z-library-plans-to-let-users-share-physical-books-through-z-points-230408/)
