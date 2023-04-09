@@ -7,11 +7,12 @@
 * [2023-04-09, 15:43:01](https://news.ycombinator.com/item?id=35503784) - [Two Types of Software Engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
 * [2023-04-09, 15:38:16](https://news.ycombinator.com/item?id=35503743) - [Russia’s New Mystery Shortwave Station](https://hackaday.com/2023/04/08/russias-new-mystery-shortwave-station/)
 * [2023-04-09, 15:05:49](https://news.ycombinator.com/item?id=35503406) - [AWS S3 beginning to apply 2 security best practices all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-two-security-best-practices-buckets-default/)
+* [2023-04-09, 14:52:16](https://news.ycombinator.com/item?id=35503260) - [The first game ‘Easter eggs’ were an act of corporate rebellion](https://thehustle.co/the-first-easter-eggs-were-an-act-of-corporate-rebellion/)
 * [2023-04-09, 14:47:55](https://news.ycombinator.com/item?id=35503210) - [Apple Continues Efforts to Keep Retail Stores from Unionizing](https://www.bloomberg.com/news/newsletters/2023-04-09/apple-aapl-continues-efforts-to-keep-retail-stores-from-unionizing-lg9gjdx2)
 * [2023-04-09, 14:35:19](https://news.ycombinator.com/item?id=35503089) - [Irregular Expressions](https://tavianator.com/2023/irregex.html)
 * [2023-04-09, 14:30:13](https://news.ycombinator.com/item?id=35503044) - [When do you need Chain-of-Thought Prompting for ChatGPT?](https://arxiv.org/abs/2304.03262)
 * [2023-04-09, 14:09:19](https://news.ycombinator.com/item?id=35502874) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
-* [2023-04-09, 13:28:33](https://news.ycombinator.com/item?id=35502518) - [15% Price Increase for Microsoft Cloud Starting April 1, 2023](https://www.uscloud.com/blog/15-price-increase-for-microsoft-cloud-starting-april-1-2023/)
+* [2023-04-09, 12:51:04](https://news.ycombinator.com/item?id=35502251) - [Chinese investment in Afghanistan’s lithium sector (2022)](https://www.brookings.edu/blog/up-front/2022/08/03/chinese-investment-in-afghanistans-lithium-sector-a-long-shot-in-the-short-term/)
 * [2023-04-09, 12:49:16](https://news.ycombinator.com/item?id=35502238) - [The Ruling That Threatens the Future of Libraries](https://www.theatlantic.com/ideas/archive/2023/04/internet-archive-libraries-federal-court-ruling/673615/)
 * [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From Deep to Long Learning](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * [2023-04-09, 12:36:17](https://news.ycombinator.com/item?id=35502151) - [Interview with Andrew Kelley (Zig Creator) (2021)](https://corecursive.com/067-zig-with-andrew-kelley/)
@@ -29,7 +30,6 @@
 * [2023-04-09, 02:44:47](https://news.ycombinator.com/item?id=35499641) - [USPS facility in Utah does nothing but decipher handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
 * [2023-04-08, 21:13:39](https://news.ycombinator.com/item?id=35497696) - [New Orleans teenagers found a new proof of the Pythagorean Theorem](https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d)
 * [2023-04-08, 06:40:53](https://news.ycombinator.com/item?id=35491110) - [Tidyverse 2.0.0](https://www.tidyverse.org/blog/2023/03/tidyverse-2-0-0/)
-* [2023-04-07, 19:41:42](https://news.ycombinator.com/item?id=35486093) - [Trash-talking Minecraft bots using GPT-4 and Steamship](https://medium.com/@RGAaron/creating-a-trash-talking-minecraft-bot-on-regression-games-using-steamship-and-gpt-4-7633e231ccf1)
 
 ## [Archives](archives/index.md)
 
