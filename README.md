@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-09, 21:07:21](https://news.ycombinator.com/item?id=35506472) - [Large Language Models Are Human-Level Prompt Engineers](https://openreview.net/forum?id=92gvk82DE-)
+* [2023-04-09, 20:56:42](https://news.ycombinator.com/item?id=35506401) - [Australia Is Quitting Coal in Record Time Thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
 * [2023-04-09, 20:43:47](https://news.ycombinator.com/item?id=35506304) - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
 * [2023-04-09, 20:35:33](https://news.ycombinator.com/item?id=35506236) - [Who Invented Vector Clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
 * [2023-04-09, 20:17:10](https://news.ycombinator.com/item?id=35506069) - [A Baby GPT](https://twitter.com/karpathy/status/1645115622517542913)
@@ -16,9 +18,7 @@
 * [2023-04-09, 16:12:18](https://news.ycombinator.com/item?id=35504052) - [Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows](https://arxiv.org/abs/2103.14030)
 * [2023-04-09, 15:57:24](https://news.ycombinator.com/item?id=35503928) - [Flatcar Container Linux](https://www.flatcar.org/)
 * [2023-04-09, 15:50:03](https://news.ycombinator.com/item?id=35503855) - [RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)
-* [2023-04-09, 15:43:01](https://news.ycombinator.com/item?id=35503784) - [Two types of software engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
 * [2023-04-09, 14:52:16](https://news.ycombinator.com/item?id=35503260) - [The first game ‘Easter eggs’ were an act of corporate rebellion](https://thehustle.co/the-first-easter-eggs-were-an-act-of-corporate-rebellion/)
-* [2023-04-09, 14:35:19](https://news.ycombinator.com/item?id=35503089) - [Irregular Expressions](https://tavianator.com/2023/irregex.html)
 * [2023-04-09, 14:20:41](https://news.ycombinator.com/item?id=35502956) - [TIWiFiModem: Take your TI-83 Plus online [video]](https://www.youtube.com/watch?v=eg_J6N9MSCY)
 * [2023-04-09, 14:09:19](https://news.ycombinator.com/item?id=35502874) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From deep to long learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
