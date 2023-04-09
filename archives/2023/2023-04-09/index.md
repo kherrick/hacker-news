@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 12:01:56](https://news.ycombinator.com/item?id=35501918) - [Float Health (YC W22) Is Hiring UI&#x2F;UX Designer](https://news.ycombinator.com/item?id=35501918)
+* [2023-04-09, 11:30:50](https://news.ycombinator.com/item?id=35501732) - [It sounds like science fiction but it’s not: AI can destroy your business](https://www.theguardian.com/business/2023/apr/09/it-sounds-like-science-fiction-but-its-not-ai-can-financially-destroy-your-business)
+* [2023-04-09, 11:14:18](https://news.ycombinator.com/item?id=35501633) - [Savor the Journey: A Seven-Course Menu for Personal Growth](https://alexanderhauervig.substack.com/p/savor-the-journey-a-seven-course)
 * [2023-04-09, 10:14:39](https://news.ycombinator.com/item?id=35501335) - [World’s last dedicated Meccano factory to close in France](https://www.theguardian.com/world/2023/feb/23/last-dedicated-meccano-factory-to-close-in-france)
 * [2023-04-09, 09:17:30](https://news.ycombinator.com/item?id=35501074) - [Digital collectibles &#x2F; NFTs on Instagram are winding down](https://help.instagram.com/1824155514623095)
 * [2023-04-09, 09:13:21](https://news.ycombinator.com/item?id=35501057) - [Women now dominate the book business. Why not other creative industries?](https://www.npr.org/sections/money/2023/04/04/1164109676/women-now-dominate-the-book-business-why-there-and-not-other-creative-industries)
