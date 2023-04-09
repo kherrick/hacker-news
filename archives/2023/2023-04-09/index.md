@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 14:35:19](https://news.ycombinator.com/item?id=35503089) - [Irregular Expressions](https://tavianator.com/2023/irregex.html)
+* [2023-04-09, 14:21:21](https://news.ycombinator.com/item?id=35502965) - [5-Year-Old Pulled Down a 3-Year-Old&#x27;s Pants. The Preschool Workers Are on Trial](https://reason.com/2023/04/03/poncha-springs-schoolhouse-daycare-kids-preschool-trial/)
 * [2023-04-09, 14:09:19](https://news.ycombinator.com/item?id=35502874) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [2023-04-09, 13:46:55](https://news.ycombinator.com/item?id=35502684) - [Twitter Is Blocking Likes and Retweets that Mention Substack](https://flipboard.social/@Flipboard/110161362001035875)
 * [2023-04-09, 13:25:53](https://news.ycombinator.com/item?id=35502503) - [Ask HN: What were the 2010s about?](https://news.ycombinator.com/item?id=35502503)
@@ -24,6 +26,7 @@
 * [2023-04-09, 11:02:50](https://news.ycombinator.com/item?id=35501561) - [Flexible membrane mirrors for large space-based telescopes](https://www.optica.org/en-us/about/newsroom/news_releases/2023/april/researchers_devise_new_membrane_mirrors_for_large/)
 * [2023-04-09, 10:22:35](https://news.ycombinator.com/item?id=35501373) - [Difference Between a Symbolic Link and a Hard Link](https://toolhub.tech/blog/Difference-between-Symbolic-Link-and-Hard-Link/)
 * [2023-04-09, 10:14:39](https://news.ycombinator.com/item?id=35501335) - [World’s last dedicated Meccano factory to close in France](https://www.theguardian.com/world/2023/feb/23/last-dedicated-meccano-factory-to-close-in-france)
+* [2023-04-09, 10:10:49](https://news.ycombinator.com/item?id=35501314) - [An In-Depth Guide to I, P, and B Frames in Video Compression](https://toolhub.tech/blog/I-P-and-B-Frames-in-Video-Compression/)
 * [2023-04-09, 09:17:30](https://news.ycombinator.com/item?id=35501074) - [Digital collectibles &#x2F; NFTs on Instagram are winding down](https://help.instagram.com/1824155514623095)
 * [2023-04-09, 09:14:26](https://news.ycombinator.com/item?id=35501065) - [PL&#x2F;Rust 1.0: now a trusted language for Postgres](https://tcdi.github.io/plrust/plrust.html)
 * [2023-04-09, 09:13:21](https://news.ycombinator.com/item?id=35501057) - [Women now dominate the book business. Why not other creative industries?](https://www.npr.org/sections/money/2023/04/04/1164109676/women-now-dominate-the-book-business-why-there-and-not-other-creative-industries)

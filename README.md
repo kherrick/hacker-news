@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-09, 14:35:19](https://news.ycombinator.com/item?id=35503089) - [Irregular Expressions](https://tavianator.com/2023/irregex.html)
+* [2023-04-09, 14:21:21](https://news.ycombinator.com/item?id=35502965) - [5-Year-Old Pulled Down a 3-Year-Old&#x27;s Pants. The Preschool Workers Are on Trial](https://reason.com/2023/04/03/poncha-springs-schoolhouse-daycare-kids-preschool-trial/)
 * [2023-04-09, 14:09:19](https://news.ycombinator.com/item?id=35502874) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
-* [2023-04-09, 13:46:55](https://news.ycombinator.com/item?id=35502684) - [Twitter Is Blocking Likes and Retweets that Mention Substack](https://flipboard.social/@Flipboard/110161362001035875)
 * [2023-04-09, 12:51:04](https://news.ycombinator.com/item?id=35502251) - [Chinese investment in Afghanistan’s lithium sector (2022)](https://www.brookings.edu/blog/up-front/2022/08/03/chinese-investment-in-afghanistans-lithium-sector-a-long-shot-in-the-short-term/)
 * [2023-04-09, 12:50:39](https://news.ycombinator.com/item?id=35502248) - [New Mexico Is Losing a Form of Spanish Spoken Nowhere Else on Earth](https://www.nytimes.com/2023/04/09/us/new-mexico-spanish.html)
 * [2023-04-09, 12:49:16](https://news.ycombinator.com/item?id=35502238) - [The Ruling That Threatens the Future of Libraries](https://www.theatlantic.com/ideas/archive/2023/04/internet-archive-libraries-federal-court-ruling/673615/)
@@ -15,7 +16,7 @@
 * [2023-04-09, 11:39:24](https://news.ycombinator.com/item?id=35501780) - [68–95–99.7 Rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
 * [2023-04-09, 11:02:50](https://news.ycombinator.com/item?id=35501561) - [Flexible membrane mirrors for large space-based telescopes](https://www.optica.org/en-us/about/newsroom/news_releases/2023/april/researchers_devise_new_membrane_mirrors_for_large/)
 * [2023-04-09, 10:22:35](https://news.ycombinator.com/item?id=35501373) - [Difference Between a Symbolic Link and a Hard Link](https://toolhub.tech/blog/Difference-between-Symbolic-Link-and-Hard-Link/)
-* [2023-04-09, 09:17:30](https://news.ycombinator.com/item?id=35501074) - [Digital collectibles on Instagram is winding down](https://help.instagram.com/1824155514623095)
+* [2023-04-09, 10:10:49](https://news.ycombinator.com/item?id=35501314) - [An In-Depth Guide to I, P, and B Frames in Video Compression](https://toolhub.tech/blog/I-P-and-B-Frames-in-Video-Compression/)
 * [2023-04-09, 09:14:26](https://news.ycombinator.com/item?id=35501065) - [PL&#x2F;Rust 1.0: now a trusted language for Postgres](https://tcdi.github.io/plrust/plrust.html)
 * [2023-04-09, 08:49:54](https://news.ycombinator.com/item?id=35500966) - [Sunset at the South Pole](https://brr.fyi/posts/sunset)
 * [2023-04-09, 08:13:53](https://news.ycombinator.com/item?id=35500849) - [Car exhaust filters fail to clean up ‘ultrafine’ air pollution](https://studyfinds.org/car-exhaust-filters-air-pollution/)
@@ -27,7 +28,6 @@
 * [2023-04-09, 02:44:47](https://news.ycombinator.com/item?id=35499641) - [USPS facility in Utah does nothing but decipher handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
 * [2023-04-09, 00:40:39](https://news.ycombinator.com/item?id=35499065) - [Z-Library to let users share physical books](https://torrentfreak.com/z-library-plans-to-let-users-share-physical-books-through-z-points-230408/)
 * [2023-04-08, 21:13:39](https://news.ycombinator.com/item?id=35497696) - [New Orleans teenagers found a new proof of the Pythagorean Theorem](https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d)
-* [2023-04-08, 19:18:40](https://news.ycombinator.com/item?id=35496651) - [GNU+Linux laptops with Libreboot preinstalled, based on coreboot](https://minifree.org/)
 * [2023-04-08, 07:41:54](https://news.ycombinator.com/item?id=35491403) - [The best kimchi is made in earthenware pots](https://www.washingtonpost.com/science/2023/04/07/kimchi-onggi/)
 * [2023-04-08, 06:40:53](https://news.ycombinator.com/item?id=35491110) - [Tidyverse 2.0.0](https://www.tidyverse.org/blog/2023/03/tidyverse-2-0-0/)
 
