@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-04-08, 22:48:58",
-      "https://news.ycombinator.com/item?id=35498416"
-    ],
-    [
-      "Pentagon, Justice Dept investigate as secret military documents appear online",
-      "https://text.npr.org/1168794847"
-    ]
-  ],
-  [
-    [
       "2023-04-08, 21:58:55",
       "https://news.ycombinator.com/item?id=35498067"
     ],
@@ -65,8 +55,18 @@
       "https://news.ycombinator.com/item?id=35497696"
     ],
     [
-      "New orleans teenagers found a new proof of the Pythagorean Theorem",
+      "New Orleans teenagers found a new proof of the Pythagorean Theorem",
       "https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d"
+    ]
+  ],
+  [
+    [
+      "2023-04-08, 20:48:26",
+      "https://news.ycombinator.com/item?id=35497463"
+    ],
+    [
+      "Andrew Huberman Has Supplements on the Brain",
+      "https://www.mcgill.ca/oss/article/critical-thinking-health-and-nutrition/andrew-huberman-has-bad-case-supplement-brain"
     ]
   ],
   [
@@ -137,6 +137,16 @@
     [
       "Writing a Simple Garbage Collector in C (2020)",
       "http://maplant.com/gc.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-08, 17:54:50",
+      "https://news.ycombinator.com/item?id=35495865"
+    ],
+    [
+      "Making an Alphorn from Scratch (2020)",
+      "https://www.argobuilder.com/making-an-alphorn.html"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=35492119"
     ],
     [
-      "Why computer modeling should become a popular hobby",
+      "Why computer modeling should become a popular hobby (1996)",
       "https://www.qrg.northwestern.edu/papers/files/simhobby-local.htm"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Vertical communities",
       "https://noahpinion.substack.com/p/vertical-communities"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 12:06:05",
-      "https://news.ycombinator.com/item?id=35480725"
-    ],
-    [
-      "How to be consistent",
-      "https://csprimer.com/articles/consistency/"
     ]
   ]
 ]
