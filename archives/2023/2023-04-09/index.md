@@ -39,6 +39,7 @@
 * [2023-04-09, 15:38:16](https://news.ycombinator.com/item?id=35503743) - [Russia’s New Mystery Shortwave Station](https://hackaday.com/2023/04/08/russias-new-mystery-shortwave-station/)
 * [2023-04-09, 15:05:49](https://news.ycombinator.com/item?id=35503406) - [AWS S3 beginning to apply 2 security best practices all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-two-security-best-practices-buckets-default/)
 * [2023-04-09, 14:52:16](https://news.ycombinator.com/item?id=35503260) - [The first game ‘Easter eggs’ were an act of corporate rebellion](https://thehustle.co/the-first-easter-eggs-were-an-act-of-corporate-rebellion/)
+* [2023-04-09, 14:50:16](https://news.ycombinator.com/item?id=35503236) - [Exploring the Gameboy Memory Bank Controller (2020)](https://b13rg.github.io/Gameboy-MBC-Analysis/)
 * [2023-04-09, 14:47:55](https://news.ycombinator.com/item?id=35503210) - [Apple Continues Efforts to Keep Retail Stores from Unionizing](https://www.bloomberg.com/news/newsletters/2023-04-09/apple-aapl-continues-efforts-to-keep-retail-stores-from-unionizing-lg9gjdx2)
 * [2023-04-09, 14:35:19](https://news.ycombinator.com/item?id=35503089) - [Irregular Expressions](https://tavianator.com/2023/irregex.html)
 * [2023-04-09, 14:30:13](https://news.ycombinator.com/item?id=35503044) - [When do you need Chain-of-Thought Prompting for ChatGPT?](https://arxiv.org/abs/2304.03262)
