@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 12:51:04](https://news.ycombinator.com/item?id=35502251) - [Chinese investment in Afghanistan’s lithium sector (2022)](https://www.brookings.edu/blog/up-front/2022/08/03/chinese-investment-in-afghanistans-lithium-sector-a-long-shot-in-the-short-term/)
+* [2023-04-09, 12:49:16](https://news.ycombinator.com/item?id=35502238) - [The Ruling That Threatens the Future of Libraries](https://www.theatlantic.com/ideas/archive/2023/04/internet-archive-libraries-federal-court-ruling/673615/)
+* [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From Deep to Long Learning](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * [2023-04-09, 12:09:31](https://news.ycombinator.com/item?id=35501969) - [Dutch journalist who writes critically on China targeted in intimidation scheme](https://nltimes.nl/2023/04/08/dutch-journalist-writes-critically-china-targeted-bizarre-intimidation-scheme)
 * [2023-04-09, 12:01:56](https://news.ycombinator.com/item?id=35501918) - [Float Health (YC W22) Is Hiring UI&#x2F;UX Designer](https://news.ycombinator.com/item?id=35501918)
 * [2023-04-09, 11:52:55](https://news.ycombinator.com/item?id=35501868) - [‘It’s called stealing’: new allegations of plagiarism against Roy Lichtenstein](https://www.theguardian.com/artanddesign/2023/apr/09/new-allegations-of-plagiarism-against-roy-lichtenstein)
+* [2023-04-09, 11:39:24](https://news.ycombinator.com/item?id=35501780) - [68–95–99.7 Rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
 * [2023-04-09, 11:30:50](https://news.ycombinator.com/item?id=35501732) - [It sounds like science fiction but it’s not: AI can destroy your business](https://www.theguardian.com/business/2023/apr/09/it-sounds-like-science-fiction-but-its-not-ai-can-financially-destroy-your-business)
 * [2023-04-09, 11:14:18](https://news.ycombinator.com/item?id=35501633) - [Savor the Journey: A Seven-Course Menu for Personal Growth](https://alexanderhauervig.substack.com/p/savor-the-journey-a-seven-course)
+* [2023-04-09, 11:02:50](https://news.ycombinator.com/item?id=35501561) - [Flexible membrane mirrors for large space-based telescopes](https://www.optica.org/en-us/about/newsroom/news_releases/2023/april/researchers_devise_new_membrane_mirrors_for_large/)
 * [2023-04-09, 10:14:39](https://news.ycombinator.com/item?id=35501335) - [World’s last dedicated Meccano factory to close in France](https://www.theguardian.com/world/2023/feb/23/last-dedicated-meccano-factory-to-close-in-france)
 * [2023-04-09, 09:17:30](https://news.ycombinator.com/item?id=35501074) - [Digital collectibles &#x2F; NFTs on Instagram are winding down](https://help.instagram.com/1824155514623095)
 * [2023-04-09, 09:13:21](https://news.ycombinator.com/item?id=35501057) - [Women now dominate the book business. Why not other creative industries?](https://www.npr.org/sections/money/2023/04/04/1164109676/women-now-dominate-the-book-business-why-there-and-not-other-creative-industries)
