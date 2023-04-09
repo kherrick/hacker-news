@@ -31,22 +31,12 @@
   ],
   [
     [
-      "2023-04-09, 17:15:23",
-      "https://news.ycombinator.com/item?id=35504590"
+      "2023-04-09, 17:37:56",
+      "https://news.ycombinator.com/item?id=35504786"
     ],
     [
-      "Of the top cloud companies, 48 have laid off staff",
-      "https://yarn.warntracker.com/cloud-100"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 17:12:04",
-      "https://news.ycombinator.com/item?id=35504558"
-    ],
-    [
-      "C Rival &#x27;Zig&#x27; Cracks Tiobe Index Top",
-      "https://developers.slashdot.org/story/23/04/09/008243/c-rival-zig-cracks-tiobe-index-top-50-go-remains-in-top-10"
+      "The Interoperable Europe Act Needs a “Free Software First” Approach",
+      "https://fsfe.org/news/2023/news-20230323-02.en.html"
     ]
   ],
   [
@@ -67,16 +57,6 @@
     [
       "Closing a stale SSH connection",
       "https://davidisaksson.dev/posts/closing-stale-ssh-connections/"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 16:48:15",
-      "https://news.ycombinator.com/item?id=35504351"
-    ],
-    [
-      "Inline in Rust (2021)",
-      "https://matklad.github.io/2021/07/09/inline-in-rust.html"
     ]
   ],
   [
@@ -107,6 +87,16 @@
     [
       "Flatcar Container Linux",
       "https://www.flatcar.org/"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 15:56:18",
+      "https://news.ycombinator.com/item?id=35503916"
+    ],
+    [
+      "When should a decision be fast, or slow?",
+      "https://longform.asmartbear.com/decisions-fast-slow/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Microsoft &#x2F; JARVIS: a system to connect LLMs with ML community",
       "https://github.com/microsoft/JARVIS"
+    ]
+  ],
+  [
+    [
+      "2023-04-08, 21:13:39",
+      "https://news.ycombinator.com/item?id=35497696"
+    ],
+    [
+      "New Orleans teenagers found a new proof of the Pythagorean Theorem",
+      "https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d"
     ]
   ],
   [
