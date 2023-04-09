@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 22:29:38](https://news.ycombinator.com/item?id=35507099) - [At Stanford law school, the dean takes a stand for free speech. will it work?](https://www.nytimes.com/2023/04/09/us/stanford-law-school-free-speech.html)
 * [2023-04-09, 22:14:37](https://news.ycombinator.com/item?id=35506983) - [Fine-tuning with LoRA: create your own avatars and styles](https://www.kix.in/2023/04/07/sd-lora-finetuning/)
+* [2023-04-09, 21:36:16](https://news.ycombinator.com/item?id=35506711) - [Laid-off tech workers choose stability over status](https://www.wsj.com/articles/as-tech-jobs-disappear-silicon-valley-veterans-reset-their-careers-dbdb983)
 * [2023-04-09, 21:08:55](https://news.ycombinator.com/item?id=35506485) - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 * [2023-04-09, 21:07:21](https://news.ycombinator.com/item?id=35506472) - [Large Language Models Are Human-Level Prompt Engineers](https://openreview.net/forum?id=92gvk82DE-)
 * [2023-04-09, 21:02:49](https://news.ycombinator.com/item?id=35506448) - [Sabine Hossenfelder: I think faster than light travel is possible. Here&#x27;s why](http://backreaction.blogspot.com/2023/04/i-think-faster-than-light-travel-is.html)
@@ -16,6 +18,7 @@
 * [2023-04-09, 20:03:08](https://news.ycombinator.com/item?id=35505953) - [Tesla Model 2 will have 53kWh LFP battery pack](https://www.arenaev.com/tesla_model_2_will_have_53_kwh_lfp_battery_pack-news-1648.php)
 * [2023-04-09, 19:44:12](https://news.ycombinator.com/item?id=35505778) - [Ambry: LinkedIn’s Scalable Geo-Distributed Object Store](https://www.micahlerner.com/2023/03/28/ambry-linkedins-scalable-geo-distributed-object-store.html)
 * [2023-04-09, 19:42:54](https://news.ycombinator.com/item?id=35505766) - [Godaddy does not allow logins from Firefox and Linux](https://imgur.com/a/8Hx39hy)
+* [2023-04-09, 19:34:45](https://news.ycombinator.com/item?id=35505693) - [The four-horse race to decarbonise steel](https://www.energymonitor.ai/sectors/industry/the-four-horse-race-to-decarbonise-steel/)
 * [2023-04-09, 19:28:34](https://news.ycombinator.com/item?id=35505647) - [Sailcargo](https://www.sailcargo.inc)
 * [2023-04-09, 19:22:07](https://news.ycombinator.com/item?id=35505591) - [UnicodePlots](https://github.com/JuliaPlots/UnicodePlots.jl)
 * [2023-04-09, 19:10:54](https://news.ycombinator.com/item?id=35505518) - [Street Fighting Engineers vs Martial Arts Engineers](https://ravitejakanta.substack.com/p/the-2-breeds-of-10x-engineers)
@@ -50,6 +53,7 @@
 * [2023-04-09, 13:46:55](https://news.ycombinator.com/item?id=35502684) - [Twitter Is Blocking Likes and Retweets that Mention Substack](https://flipboard.social/@Flipboard/110161362001035875)
 * [2023-04-09, 13:28:33](https://news.ycombinator.com/item?id=35502518) - [15% Price Increase for Microsoft Cloud Starting April 1, 2023](https://www.uscloud.com/blog/15-price-increase-for-microsoft-cloud-starting-april-1-2023/)
 * [2023-04-09, 13:25:53](https://news.ycombinator.com/item?id=35502503) - [Ask HN: What were the 2010s about?](https://news.ycombinator.com/item?id=35502503)
+* [2023-04-09, 13:09:29](https://news.ycombinator.com/item?id=35502389) - [Nam: Neural network emulator for guitar amplifiers](https://github.com/sdatkinson/neural-amp-modeler)
 * [2023-04-09, 12:51:20](https://news.ycombinator.com/item?id=35502252) - [Mark Zuckerberg abandons metaverse as shiny new toy appears](https://futurism.com/the-byte/mark-zuckerberg-abandons-metaverse)
 * [2023-04-09, 12:51:04](https://news.ycombinator.com/item?id=35502251) - [Chinese investment in Afghanistan’s lithium sector (2022)](https://www.brookings.edu/blog/up-front/2022/08/03/chinese-investment-in-afghanistans-lithium-sector-a-long-shot-in-the-short-term/)
 * [2023-04-09, 12:50:39](https://news.ycombinator.com/item?id=35502248) - [New Mexico Is Losing a Form of Spanish Spoken Nowhere Else on Earth](https://www.nytimes.com/2023/04/09/us/new-mexico-spanish.html)
@@ -64,6 +68,7 @@
 * [2023-04-09, 11:50:11](https://news.ycombinator.com/item?id=35501845) - [A CERN for Open Source Large-Scale AI](https://www.openpetition.eu/petition/online/securing-our-digital-future-a-cern-for-open-source-large-scale-ai-research-and-its-safety)
 * [2023-04-09, 11:39:24](https://news.ycombinator.com/item?id=35501780) - [68–95–99.7 Rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
 * [2023-04-09, 11:30:50](https://news.ycombinator.com/item?id=35501732) - [It sounds like science fiction but it’s not: AI can destroy your business](https://www.theguardian.com/business/2023/apr/09/it-sounds-like-science-fiction-but-its-not-ai-can-financially-destroy-your-business)
+* [2023-04-09, 11:29:25](https://news.ycombinator.com/item?id=35501718) - [Show HN: Supavisor – a Postgres connection pooler written in Elixir](https://github.com/supabase/supavisor)
 * [2023-04-09, 11:14:18](https://news.ycombinator.com/item?id=35501633) - [Savor the Journey: A Seven-Course Menu for Personal Growth](https://alexanderhauervig.substack.com/p/savor-the-journey-a-seven-course)
 * [2023-04-09, 11:08:45](https://news.ycombinator.com/item?id=35501602) - [Re-examining the chip Shortage: Legacy node decommissions](https://trossbach.substack.com/p/closed-source-intellectual-property)
 * [2023-04-09, 11:02:50](https://news.ycombinator.com/item?id=35501561) - [Flexible membrane mirrors for large space-based telescopes](https://www.optica.org/en-us/about/newsroom/news_releases/2023/april/researchers_devise_new_membrane_mirrors_for_large/)
