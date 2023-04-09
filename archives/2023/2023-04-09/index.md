@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 15:50:03](https://news.ycombinator.com/item?id=35503855) - [RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)
 * [2023-04-09, 15:43:01](https://news.ycombinator.com/item?id=35503784) - [Two Types of Software Engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
+* [2023-04-09, 15:38:16](https://news.ycombinator.com/item?id=35503743) - [Russia’s New Mystery Shortwave Station](https://hackaday.com/2023/04/08/russias-new-mystery-shortwave-station/)
 * [2023-04-09, 15:05:49](https://news.ycombinator.com/item?id=35503406) - [AWS S3 beginning to apply 2 security best practices all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-two-security-best-practices-buckets-default/)
 * [2023-04-09, 14:47:55](https://news.ycombinator.com/item?id=35503210) - [Apple Continues Efforts to Keep Retail Stores from Unionizing](https://www.bloomberg.com/news/newsletters/2023-04-09/apple-aapl-continues-efforts-to-keep-retail-stores-from-unionizing-lg9gjdx2)
 * [2023-04-09, 14:35:19](https://news.ycombinator.com/item?id=35503089) - [Irregular Expressions](https://tavianator.com/2023/irregex.html)
