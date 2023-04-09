@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-09, 18:49:48](https://news.ycombinator.com/item?id=35505342) - [Spherical Tokamak Achieves Crucial Plasma Temperatures](https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/)
+* [2023-04-09, 17:37:56](https://news.ycombinator.com/item?id=35504786) - [The Interoperable Europe Act Needs a “Free Software First” Approach](https://fsfe.org/news/2023/news-20230323-02.en.html)
 * [2023-04-09, 17:15:23](https://news.ycombinator.com/item?id=35504590) - [Of the top cloud companies, 48 have laid off staff](https://yarn.warntracker.com/cloud-100)
 * [2023-04-09, 17:12:04](https://news.ycombinator.com/item?id=35504558) - [C Rival &#x27;Zig&#x27; Cracks Tiobe Index Top](https://developers.slashdot.org/story/23/04/09/008243/c-rival-zig-cracks-tiobe-index-top-50-go-remains-in-top-10)
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
 * [2023-04-09, 16:54:04](https://news.ycombinator.com/item?id=35504402) - [Closing a Stale SSH Connection](https://davidisaksson.dev/posts/closing-stale-ssh-connections/)
 * [2023-04-09, 16:48:15](https://news.ycombinator.com/item?id=35504351) - [Inline in Rust](https://matklad.github.io/2021/07/09/inline-in-rust.html)
-* [2023-04-09, 16:34:57](https://news.ycombinator.com/item?id=35504249) - [Lawyers cough up $200k after health data stolen in Microsoft Exchange pillaging](https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/)
 * [2023-04-09, 16:12:19](https://news.ycombinator.com/item?id=35504053) - [Permafrost engine – An OpenGL RTS game engine written in C](https://github.com/eduard-permyakov/permafrost-engine)
 * [2023-04-09, 16:12:18](https://news.ycombinator.com/item?id=35504052) - [Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows](https://arxiv.org/abs/2103.14030)
 * [2023-04-09, 15:57:24](https://news.ycombinator.com/item?id=35503928) - [Flatcar Container Linux](https://www.flatcar.org/)

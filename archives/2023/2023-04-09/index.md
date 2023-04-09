@@ -6,6 +6,7 @@
 
 * [2023-04-09, 18:49:48](https://news.ycombinator.com/item?id=35505342) - [Spherical Tokamak Achieves Crucial Plasma Temperatures](https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/)
 * [2023-04-09, 18:02:22](https://news.ycombinator.com/item?id=35504989) - [The One Thing I Can’t Stand About Teaching English in Japan (2019)](https://geekstravelinjapan.wordpress.com/2019/03/10/the-one-thing-i-cant-stand-about-teaching-english-in-japan/)
+* [2023-04-09, 17:37:56](https://news.ycombinator.com/item?id=35504786) - [The Interoperable Europe Act Needs a “Free Software First” Approach](https://fsfe.org/news/2023/news-20230323-02.en.html)
 * [2023-04-09, 17:15:23](https://news.ycombinator.com/item?id=35504590) - [Of the top cloud companies, 48 have laid off staff](https://yarn.warntracker.com/cloud-100)
 * [2023-04-09, 17:12:04](https://news.ycombinator.com/item?id=35504558) - [C Rival &#x27;Zig&#x27; Cracks Tiobe Index Top](https://developers.slashdot.org/story/23/04/09/008243/c-rival-zig-cracks-tiobe-index-top-50-go-remains-in-top-10)
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
