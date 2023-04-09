@@ -68,6 +68,7 @@
 * [2023-04-08, 07:12:45](https://news.ycombinator.com/item?id=35491252) - [Weber–Fechner Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
 * [2023-04-08, 07:09:05](https://news.ycombinator.com/item?id=35491239) - [Mainboards supported by coreboot](https://coreboot.org/status/board-status.html)
 * [2023-04-08, 07:01:05](https://news.ycombinator.com/item?id=35491192) - [Nango (YC W23) Is Hiring a Founding Engineer (full-stack&#x2F;back end)](https://nango.dev/jobs)
+* [2023-04-08, 06:40:53](https://news.ycombinator.com/item?id=35491110) - [Tidyverse 2.0.0](https://www.tidyverse.org/blog/2023/03/tidyverse-2-0-0/)
 * [2023-04-08, 06:31:01](https://news.ycombinator.com/item?id=35491060) - [Do judges give out tougher sentences when hungry? A study too good to be true](https://inews.co.uk/news/do-judges-give-out-tougher-sentences-when-hungry-the-story-behind-a-study-too-good-to-be-true-2238347)
 * [2023-04-08, 06:04:02](https://news.ycombinator.com/item?id=35490941) - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
 * [2023-04-08, 05:47:59](https://news.ycombinator.com/item?id=35490899) - [Paul Graham on Twitter&#x27;s anti-Substack measures: “It&#x27;s a mistake.”](https://twitter.com/paulg/status/1644348267981930498)
