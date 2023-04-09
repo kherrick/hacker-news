@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-09, 20:03:08](https://news.ycombinator.com/item?id=35505953) - [Tesla Model 2 will have 53kWh LFP battery pack](https://www.arenaev.com/tesla_model_2_will_have_53_kwh_lfp_battery_pack-news-1648.php)
-* [2023-04-09, 19:42:54](https://news.ycombinator.com/item?id=35505766) - [Godaddy does not allow logins from Firefox and Linux](https://imgur.com/a/8Hx39hy)
 * [2023-04-09, 19:28:34](https://news.ycombinator.com/item?id=35505647) - [Sailcargo](https://www.sailcargo.inc)
 * [2023-04-09, 19:22:07](https://news.ycombinator.com/item?id=35505591) - [UnicodePlots](https://github.com/JuliaPlots/UnicodePlots.jl)
 * [2023-04-09, 19:10:54](https://news.ycombinator.com/item?id=35505518) - [Street Fighting Engineers vs Martial Arts Engineers](https://ravitejakanta.substack.com/p/the-2-breeds-of-10x-engineers)
@@ -16,6 +15,7 @@
 * [2023-04-09, 15:43:01](https://news.ycombinator.com/item?id=35503784) - [Two types of software engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
 * [2023-04-09, 14:52:16](https://news.ycombinator.com/item?id=35503260) - [The first game ‘Easter eggs’ were an act of corporate rebellion](https://thehustle.co/the-first-easter-eggs-were-an-act-of-corporate-rebellion/)
 * [2023-04-09, 14:35:19](https://news.ycombinator.com/item?id=35503089) - [Irregular Expressions](https://tavianator.com/2023/irregex.html)
+* [2023-04-09, 14:30:13](https://news.ycombinator.com/item?id=35503044) - [When do you need chain-of-thought prompting for ChatGPT?](https://arxiv.org/abs/2304.03262)
 * [2023-04-09, 14:20:41](https://news.ycombinator.com/item?id=35502956) - [TIWiFiModem: Take your TI-83 Plus online [video]](https://www.youtube.com/watch?v=eg_J6N9MSCY)
 * [2023-04-09, 14:09:19](https://news.ycombinator.com/item?id=35502874) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From deep to long learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
