@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 17:12:04](https://news.ycombinator.com/item?id=35504558) - [C Rival &#x27;Zig&#x27; Cracks Tiobe Index Top](https://developers.slashdot.org/story/23/04/09/008243/c-rival-zig-cracks-tiobe-index-top-50-go-remains-in-top-10)
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
 * [2023-04-09, 16:54:04](https://news.ycombinator.com/item?id=35504402) - [Closing a Stale SSH Connection](https://davidisaksson.dev/posts/closing-stale-ssh-connections/)
 * [2023-04-09, 16:48:15](https://news.ycombinator.com/item?id=35504351) - [Inline in Rust](https://matklad.github.io/2021/07/09/inline-in-rust.html)
