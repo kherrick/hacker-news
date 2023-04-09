@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-09, 08:04:51](https://news.ycombinator.com/item?id=35500818) - [Red Sea Dam](https://en.wikipedia.org/wiki/Red_Sea_Dam)
 * [2023-04-09, 07:00:17](https://news.ycombinator.com/item?id=35500585) - [June (YC W21) Is Hiring a Senior Engineer (#4)](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-senior-product-engineer-4)
 * [2023-04-09, 06:42:25](https://news.ycombinator.com/item?id=35500528) - [Perseus – NextJS alternative in Rust](https://framesurge.sh/perseus/en-US/)
 * [2023-04-09, 06:38:01](https://news.ycombinator.com/item?id=35500501) - [Computer History by Balenciaga](https://twitter.com/azlenelza/status/1644789222082244613)
@@ -19,7 +20,6 @@
 * [2023-04-08, 17:56:54](https://news.ycombinator.com/item?id=35495886) - [Writing a Simple Garbage Collector in C (2014)](http://maplant.com/gc.html)
 * [2023-04-08, 17:37:16](https://news.ycombinator.com/item?id=35495670) - [A Rubyist&#x27;s Walk Along the C-Side (Part 10): Benchmarking](https://blog.peterzhu.ca/ruby-c-ext-part-10/)
 * [2023-04-08, 17:29:29](https://news.ycombinator.com/item?id=35495579) - [Electricity Prices by Country](https://www.electricrate.com/data-center/electricity-prices-by-country/)
-* [2023-04-08, 16:42:52](https://news.ycombinator.com/item?id=35495070) - [Deep learning library written in Futhark](https://github.com/HnimNart/deeplearning)
 * [2023-04-08, 15:57:59](https://news.ycombinator.com/item?id=35494532) - [Reverse-engineering the division microcode in the Intel 8086 processor](https://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)
 * [2023-04-08, 15:42:50](https://news.ycombinator.com/item?id=35494382) - [FAA K-12 Airport Design Challenge in Minecraft](https://www.faa.gov/airport-design-challenge)
 * [2023-04-08, 15:39:10](https://news.ycombinator.com/item?id=35494342) - [To supercharge learning, look to play](https://nautil.us/to-supercharge-learning-look-to-play-292946/)
