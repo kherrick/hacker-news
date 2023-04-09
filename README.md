@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-09, 16:34:57](https://news.ycombinator.com/item?id=35504249) - [Lawyers cough up $200k after health data stolen in Microsoft Exchange pillaging](https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/)
 * [2023-04-09, 15:57:24](https://news.ycombinator.com/item?id=35503928) - [Flatcar Container Linux](https://www.flatcar.org/)
 * [2023-04-09, 15:56:18](https://news.ycombinator.com/item?id=35503916) - [When should a decision be fast, or slow?](https://longform.asmartbear.com/decisions-fast-slow/)
 * [2023-04-09, 15:50:03](https://news.ycombinator.com/item?id=35503855) - [RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)
@@ -11,7 +12,6 @@
 * [2023-04-09, 14:30:13](https://news.ycombinator.com/item?id=35503044) - [When do you need Chain-of-Thought Prompting for ChatGPT?](https://arxiv.org/abs/2304.03262)
 * [2023-04-09, 14:09:19](https://news.ycombinator.com/item?id=35502874) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [2023-04-09, 13:28:33](https://news.ycombinator.com/item?id=35502518) - [15% Price Increase for Microsoft Cloud Starting April 1, 2023](https://www.uscloud.com/blog/15-price-increase-for-microsoft-cloud-starting-april-1-2023/)
-* [2023-04-09, 12:51:04](https://news.ycombinator.com/item?id=35502251) - [Chinese investment in Afghanistan’s lithium sector (2022)](https://www.brookings.edu/blog/up-front/2022/08/03/chinese-investment-in-afghanistans-lithium-sector-a-long-shot-in-the-short-term/)
 * [2023-04-09, 12:49:16](https://news.ycombinator.com/item?id=35502238) - [The Ruling That Threatens the Future of Libraries](https://www.theatlantic.com/ideas/archive/2023/04/internet-archive-libraries-federal-court-ruling/673615/)
 * [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From Deep to Long Learning](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * [2023-04-09, 12:36:17](https://news.ycombinator.com/item?id=35502151) - [Interview with Andrew Kelley (Zig Creator) (2021)](https://corecursive.com/067-zig-with-andrew-kelley/)
