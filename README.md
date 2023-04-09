@@ -12,12 +12,12 @@
 * [2023-04-08, 19:26:55](https://news.ycombinator.com/item?id=35496712) - [A 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
 * [2023-04-08, 19:18:40](https://news.ycombinator.com/item?id=35496651) - [GNU+Linux laptops with Libreboot preinstalled, based on coreboot](https://minifree.org/)
 * [2023-04-08, 17:56:54](https://news.ycombinator.com/item?id=35495886) - [Writing a Simple Garbage Collector in C (2014)](http://maplant.com/gc.html)
+* [2023-04-08, 17:54:50](https://news.ycombinator.com/item?id=35495865) - [Making an Alphorn from Scratch (2020)](https://www.argobuilder.com/making-an-alphorn.html)
 * [2023-04-08, 17:37:16](https://news.ycombinator.com/item?id=35495670) - [A Rubyist&#x27;s Walk Along the C-Side (Part 10): Benchmarking](https://blog.peterzhu.ca/ruby-c-ext-part-10/)
 * [2023-04-08, 17:29:29](https://news.ycombinator.com/item?id=35495579) - [Electricity Prices by Country](https://www.electricrate.com/data-center/electricity-prices-by-country/)
 * [2023-04-08, 16:42:52](https://news.ycombinator.com/item?id=35495070) - [Deep learning library written in Futhark](https://github.com/HnimNart/deeplearning)
 * [2023-04-08, 15:57:59](https://news.ycombinator.com/item?id=35494532) - [Reverse-engineering the division microcode in the Intel 8086 processor](https://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)
 * [2023-04-08, 15:42:50](https://news.ycombinator.com/item?id=35494382) - [FAA K-12 Airport Design Challenge in Minecraft](https://www.faa.gov/airport-design-challenge)
-* [2023-04-08, 15:41:04](https://news.ycombinator.com/item?id=35494366) - [Google to ban financial lending apps from accessing user photos, contacts](https://www.pcmag.com/news/google-to-ban-financial-lending-apps-from-accessing-user-photos-contacts)
 * [2023-04-08, 15:39:10](https://news.ycombinator.com/item?id=35494342) - [To supercharge learning, look to play](https://nautil.us/to-supercharge-learning-look-to-play-292946/)
 * [2023-04-08, 15:32:27](https://news.ycombinator.com/item?id=35494266) - [When Slide Rules Ruled (2006) [pdf]](https://pdodds.w3.uvm.edu/files/papers/others/2006/stoll2006a.pdf)
 * [2023-04-08, 15:28:54](https://news.ycombinator.com/item?id=35494219) - [Ways to Put Lasers on Silicon](https://spectrum.ieee.org/lasers-on-silicon)
@@ -29,7 +29,7 @@
 * [2023-04-08, 07:41:54](https://news.ycombinator.com/item?id=35491403) - [The best kimchi is made in earthenware pots](https://www.washingtonpost.com/science/2023/04/07/kimchi-onggi/)
 * [2023-04-08, 07:12:45](https://news.ycombinator.com/item?id=35491252) - [Weber–Fechner Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
 * [2023-04-08, 02:17:03](https://news.ycombinator.com/item?id=35489798) - [QSL Card](https://en.wikipedia.org/wiki/QSL_card)
-* [2023-04-08, 00:44:47](https://news.ycombinator.com/item?id=35489131) - [Porting the Slint UI Toolkit to a Microcontroller with 264K RAM](https://slint-ui.com/blog/porting-slint-to-microcontrollers.html)
+* [2023-04-07, 16:48:04](https://news.ycombinator.com/item?id=35483816) - [Vertical communities](https://noahpinion.substack.com/p/vertical-communities)
 
 ## [Archives](archives/index.md)
 
