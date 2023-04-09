@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 08:57:37](https://news.ycombinator.com/item?id=35500988) - [One of the world’s largest investment banks: ‘Greedflation’ has gone too far](https://fortune.com/2023/04/05/end-of-capitalism-inflation-greedflation-societe-generale-corporate-profits/)
+* [2023-04-09, 08:31:23](https://news.ycombinator.com/item?id=35500901) - [Multiple Passengers Skipped Customs on US-Bound International Flight](https://www.thestreet.com/travel/multiple-passengers-skipped-customs-on-us-bound-international-flight)
 * [2023-04-09, 08:13:53](https://news.ycombinator.com/item?id=35500849) - [Car exhaust filters fail to clean up ‘ultrafine’ air pollution](https://studyfinds.org/car-exhaust-filters-air-pollution/)
 * [2023-04-09, 08:04:51](https://news.ycombinator.com/item?id=35500818) - [Red Sea Dam](https://en.wikipedia.org/wiki/Red_Sea_Dam)
 * [2023-04-09, 07:00:17](https://news.ycombinator.com/item?id=35500585) - [June (YC W21) Is Hiring a Senior Engineer (#4)](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-senior-product-engineer-4)
