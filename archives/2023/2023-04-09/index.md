@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 20:03:08](https://news.ycombinator.com/item?id=35505953) - [Tesla Model 2 will have 53kWh LFP battery pack](https://www.arenaev.com/tesla_model_2_will_have_53_kwh_lfp_battery_pack-news-1648.php)
 * [2023-04-09, 19:42:54](https://news.ycombinator.com/item?id=35505766) - [Godaddy does not allow logins from Firefox and Linux](https://imgur.com/a/8Hx39hy)
 * [2023-04-09, 19:28:34](https://news.ycombinator.com/item?id=35505647) - [Sailcargo](https://www.sailcargo.inc)
 * [2023-04-09, 19:22:07](https://news.ycombinator.com/item?id=35505591) - [UnicodePlots](https://github.com/JuliaPlots/UnicodePlots.jl)
@@ -57,6 +58,7 @@
 * [2023-04-09, 10:22:35](https://news.ycombinator.com/item?id=35501373) - [Difference Between a Symbolic Link and a Hard Link](https://toolhub.tech/blog/Difference-between-Symbolic-Link-and-Hard-Link/)
 * [2023-04-09, 10:14:39](https://news.ycombinator.com/item?id=35501335) - [World’s last dedicated Meccano factory to close in France](https://www.theguardian.com/world/2023/feb/23/last-dedicated-meccano-factory-to-close-in-france)
 * [2023-04-09, 10:10:49](https://news.ycombinator.com/item?id=35501314) - [An In-Depth Guide to I, P, and B Frames in Video Compression](https://toolhub.tech/blog/I-P-and-B-Frames-in-Video-Compression/)
+* [2023-04-09, 09:23:19](https://news.ycombinator.com/item?id=35501109) - [Show HN: Shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
 * [2023-04-09, 09:17:30](https://news.ycombinator.com/item?id=35501074) - [Digital collectibles &#x2F; NFTs on Instagram are winding down](https://help.instagram.com/1824155514623095)
 * [2023-04-09, 09:14:26](https://news.ycombinator.com/item?id=35501065) - [PL&#x2F;Rust 1.0: now a trusted language for Postgres](https://tcdi.github.io/plrust/plrust.html)
 * [2023-04-09, 09:13:21](https://news.ycombinator.com/item?id=35501057) - [Women now dominate the book business. Why not other creative industries?](https://www.npr.org/sections/money/2023/04/04/1164109676/women-now-dominate-the-book-business-why-there-and-not-other-creative-industries)
