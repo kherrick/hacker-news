@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-04-09, 19:44:12",
-      "https://news.ycombinator.com/item?id=35505778"
-    ],
-    [
-      "Ambry: LinkedIn’s Scalable Geo-Distributed Object Store",
-      "https://www.micahlerner.com/2023/03/28/ambry-linkedins-scalable-geo-distributed-object-store.html"
-    ]
-  ],
-  [
-    [
       "2023-04-09, 19:28:34",
       "https://news.ycombinator.com/item?id=35505647"
     ],
@@ -207,6 +197,16 @@
     [
       "Exploring the Gameboy Memory Bank Controller (2020)",
       "https://b13rg.github.io/Gameboy-MBC-Analysis/"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 14:09:19",
+      "https://news.ycombinator.com/item?id=35502874"
+    ],
+    [
+      "Modular Errors in Rust",
+      "https://sabrinajewson.org/blog/errors"
     ]
   ],
   [
