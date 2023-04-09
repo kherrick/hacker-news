@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-09, 07:00:17](https://news.ycombinator.com/item?id=35500585) - [June (YC W21) Is Hiring a Senior Engineer (#4)](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-senior-product-engineer-4)
 * [2023-04-09, 05:03:12](https://news.ycombinator.com/item?id=35500197) - [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/)
 * [2023-04-09, 04:14:50](https://news.ycombinator.com/item?id=35499996) - [Do Kwon converted illicit funds from LUNA to Bitcoin](https://cointelegraph.com/news/do-kwon-converted-stolen-funds-from-luna-to-bitcoin-s-korean-prosecutors)
 * [2023-04-09, 03:33:58](https://news.ycombinator.com/item?id=35499855) - [IRB&#x27;s Built-In Measure (2021)](https://jemma.dev/blog/irb-measure)
@@ -7,7 +8,6 @@
 * [2023-04-09, 00:40:39](https://news.ycombinator.com/item?id=35499065) - [Z-Library to let users share physical books](https://torrentfreak.com/z-library-plans-to-let-users-share-physical-books-through-z-points-230408/)
 * [2023-04-08, 21:31:41](https://news.ycombinator.com/item?id=35497834) - [Making IELM (Emacs Lisp REPL) More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
 * [2023-04-08, 21:26:55](https://news.ycombinator.com/item?id=35497799) - [Tables no longer needed for HTML email](https://fullystacked.net/posts/modern-html-email/)
-* [2023-04-08, 21:19:11](https://news.ycombinator.com/item?id=35497738) - [Lonely individuals process the world in idiosyncratic ways](https://journals.sagepub.com/doi/10.1177/09567976221145316)
 * [2023-04-08, 21:17:25](https://news.ycombinator.com/item?id=35497728) - [Dooble Web Browser](https://textbrowser.github.io/dooble/)
 * [2023-04-08, 21:13:39](https://news.ycombinator.com/item?id=35497696) - [New Orleans teenagers found a new proof of the Pythagorean Theorem](https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d)
 * [2023-04-08, 19:43:21](https://news.ycombinator.com/item?id=35496871) - [FCC warns Portland church to shut down pirate FM operating under its steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
