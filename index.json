@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-04-09, 04:29:12",
-      "https://news.ycombinator.com/item?id=35500065"
-    ],
-    [
-      "Clarence Thomas benefactor Harlan Crow collects Hitler memorabilia",
-      "https://www.washingtonian.com/2023/04/07/clarence-thomass-billionaire-benefactor-collects-hitler-artifacts/"
-    ]
-  ],
-  [
-    [
       "2023-04-09, 03:33:58",
       "https://news.ycombinator.com/item?id=35499855"
     ],
     [
       "IRB&#x27;s Built-In Measure (2021)",
       "https://jemma.dev/blog/irb-measure"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 03:33:19",
-      "https://news.ycombinator.com/item?id=35499852"
-    ],
-    [
-      "The Last Week in AI",
-      "https://old.reddit.com/r/ChatGPT/comments/12diapw/gpt4_week_3_chatbots_are_yesterdays_news_ai/"
     ]
   ],
   [
@@ -51,12 +31,12 @@
   ],
   [
     [
-      "2023-04-08, 21:19:21",
-      "https://news.ycombinator.com/item?id=35497740"
+      "2023-04-08, 21:26:55",
+      "https://news.ycombinator.com/item?id=35497799"
     ],
     [
-      "FunDSP 0.13 – Audio Processing and Synthesis Library for Rust",
-      "https://crates.io/crates/fundsp/0.13.0"
+      "Tables no longer needed for HTML email",
+      "https://fullystacked.net/posts/modern-html-email/"
     ]
   ],
   [
@@ -131,6 +111,16 @@
   ],
   [
     [
+      "2023-04-08, 17:59:27",
+      "https://news.ycombinator.com/item?id=35495910"
+    ],
+    [
+      "Why and How We Retired Elm at Culture Amp",
+      "https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 17:56:54",
       "https://news.ycombinator.com/item?id=35495886"
     ],
@@ -201,11 +191,21 @@
   ],
   [
     [
+      "2023-04-08, 15:41:04",
+      "https://news.ycombinator.com/item?id=35494366"
+    ],
+    [
+      "Google to Ban Financial Lending Apps from Accessing User Photos, Contacts",
+      "https://www.pcmag.com/news/google-to-ban-financial-lending-apps-from-accessing-user-photos-contacts"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 15:39:10",
       "https://news.ycombinator.com/item?id=35494342"
     ],
     [
-      "To Supercharge Learning, Look to Play",
+      "To supercharge learning, look to play",
       "https://nautil.us/to-supercharge-learning-look-to-play-292946/"
     ]
   ],
@@ -217,6 +217,16 @@
     [
       "4 Ways to Put Lasers on Silicon",
       "https://spectrum.ieee.org/lasers-on-silicon"
+    ]
+  ],
+  [
+    [
+      "2023-04-08, 12:30:28",
+      "https://news.ycombinator.com/item?id=35492591"
+    ],
+    [
+      "Why human societies developed so little during 300k years",
+      "https://woodfromeden.substack.com/p/violent-enough-to-stand-still"
     ]
   ],
   [
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=35491682"
     ],
     [
-      "Building a Database in the 2020s",
+      "Building a Database in the 2020s (2022)",
       "https://me.0xffff.me/build-database-in-2020s.html"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Weber–Fechner Law",
       "https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law"
-    ]
-  ],
-  [
-    [
-      "2023-04-08, 07:09:05",
-      "https://news.ycombinator.com/item?id=35491239"
-    ],
-    [
-      "Mainboards supported by coreboot",
-      "https://coreboot.org/status/board-status.html"
     ]
   ],
   [
