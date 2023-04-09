@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
+* [2023-04-09, 16:54:04](https://news.ycombinator.com/item?id=35504402) - [Closing a Stale SSH Connection](https://davidisaksson.dev/posts/closing-stale-ssh-connections/)
 * [2023-04-09, 16:48:15](https://news.ycombinator.com/item?id=35504351) - [Inline in Rust](https://matklad.github.io/2021/07/09/inline-in-rust.html)
 * [2023-04-09, 16:34:57](https://news.ycombinator.com/item?id=35504249) - [Lawyers cough up $200k after health data stolen in Microsoft Exchange pillaging](https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/)
 * [2023-04-09, 16:18:22](https://news.ycombinator.com/item?id=35504099) - [Human and AI co-author the sci-fi novel:“The Nexus Fallacy”](https://fernandoamaral.org/the-nexus-fallacy-chapter-2/)
@@ -37,6 +38,7 @@
 * [2023-04-09, 12:04:37](https://news.ycombinator.com/item?id=35501937) - [EY gets banned from new audit business in Germany](https://www.economist.com/business/2023/04/05/ey-gets-banned-from-new-audit-business-in-germany)
 * [2023-04-09, 12:01:56](https://news.ycombinator.com/item?id=35501918) - [Float Health (YC W22) Is Hiring UI&#x2F;UX Designer](https://news.ycombinator.com/item?id=35501918)
 * [2023-04-09, 11:52:55](https://news.ycombinator.com/item?id=35501868) - [‘It’s called stealing’: new allegations of plagiarism against Roy Lichtenstein](https://www.theguardian.com/artanddesign/2023/apr/09/new-allegations-of-plagiarism-against-roy-lichtenstein)
+* [2023-04-09, 11:50:11](https://news.ycombinator.com/item?id=35501845) - [A CERN for Open Source Large-Scale AI](https://www.openpetition.eu/petition/online/securing-our-digital-future-a-cern-for-open-source-large-scale-ai-research-and-its-safety)
 * [2023-04-09, 11:39:24](https://news.ycombinator.com/item?id=35501780) - [68–95–99.7 Rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
 * [2023-04-09, 11:30:50](https://news.ycombinator.com/item?id=35501732) - [It sounds like science fiction but it’s not: AI can destroy your business](https://www.theguardian.com/business/2023/apr/09/it-sounds-like-science-fiction-but-its-not-ai-can-financially-destroy-your-business)
 * [2023-04-09, 11:14:18](https://news.ycombinator.com/item?id=35501633) - [Savor the Journey: A Seven-Course Menu for Personal Growth](https://alexanderhauervig.substack.com/p/savor-the-journey-a-seven-course)
