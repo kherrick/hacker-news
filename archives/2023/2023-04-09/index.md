@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 08:13:53](https://news.ycombinator.com/item?id=35500849) - [Car exhaust filters fail to clean up ‘ultrafine’ air pollution](https://studyfinds.org/car-exhaust-filters-air-pollution/)
 * [2023-04-09, 08:04:51](https://news.ycombinator.com/item?id=35500818) - [Red Sea Dam](https://en.wikipedia.org/wiki/Red_Sea_Dam)
 * [2023-04-09, 07:00:17](https://news.ycombinator.com/item?id=35500585) - [June (YC W21) Is Hiring a Senior Engineer (#4)](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-senior-product-engineer-4)
 * [2023-04-09, 06:42:25](https://news.ycombinator.com/item?id=35500528) - [Perseus – NextJS alternative in Rust](https://framesurge.sh/perseus/en-US/)
