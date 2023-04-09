@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
+* [2023-04-09, 16:48:15](https://news.ycombinator.com/item?id=35504351) - [Inline in Rust](https://matklad.github.io/2021/07/09/inline-in-rust.html)
 * [2023-04-09, 16:34:57](https://news.ycombinator.com/item?id=35504249) - [Lawyers cough up $200k after health data stolen in Microsoft Exchange pillaging](https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/)
+* [2023-04-09, 16:18:22](https://news.ycombinator.com/item?id=35504099) - [Human and AI co-author the sci-fi novel:“The Nexus Fallacy”](https://fernandoamaral.org/the-nexus-fallacy-chapter-2/)
+* [2023-04-09, 16:12:19](https://news.ycombinator.com/item?id=35504053) - [Permafrost engine – An OpenGL RTS game engine written in C](https://github.com/eduard-permyakov/permafrost-engine)
+* [2023-04-09, 16:12:18](https://news.ycombinator.com/item?id=35504052) - [Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows](https://arxiv.org/abs/2103.14030)
 * [2023-04-09, 15:57:24](https://news.ycombinator.com/item?id=35503928) - [Flatcar Container Linux](https://www.flatcar.org/)
 * [2023-04-09, 15:56:18](https://news.ycombinator.com/item?id=35503916) - [When should a decision be fast, or slow?](https://longform.asmartbear.com/decisions-fast-slow/)
 * [2023-04-09, 15:50:03](https://news.ycombinator.com/item?id=35503855) - [RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)
