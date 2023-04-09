@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-09, 03:33:58](https://news.ycombinator.com/item?id=35499855) - [IRB&#x27;s Built-In Measure](https://jemma.dev/blog/irb-measure)
 * [2023-04-09, 02:44:47](https://news.ycombinator.com/item?id=35499641) - [USPS facility in Utah does nothing but decipher bad handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
 * [2023-04-08, 21:31:41](https://news.ycombinator.com/item?id=35497834) - [Making IELM (Emacs Lisp REPL) More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
 * [2023-04-08, 21:19:21](https://news.ycombinator.com/item?id=35497740) - [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
@@ -20,7 +21,6 @@
 * [2023-04-08, 15:57:59](https://news.ycombinator.com/item?id=35494532) - [Reverse-engineering the division microcode in the Intel 8086 processor](https://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)
 * [2023-04-08, 15:42:50](https://news.ycombinator.com/item?id=35494382) - [FAA K-12 Airport Design Challenge in Minecraft](https://www.faa.gov/airport-design-challenge)
 * [2023-04-08, 15:39:10](https://news.ycombinator.com/item?id=35494342) - [To Supercharge Learning, Look to Play](https://nautil.us/to-supercharge-learning-look-to-play-292946/)
-* [2023-04-08, 12:30:28](https://news.ycombinator.com/item?id=35492591) - [Why human societies developed so little during 300k years](https://woodfromeden.substack.com/p/violent-enough-to-stand-still)
 * [2023-04-08, 11:28:20](https://news.ycombinator.com/item?id=35492307) - [The Garbage Collection Handbook, 2nd Edition](https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038)
 * [2023-04-08, 10:42:08](https://news.ycombinator.com/item?id=35492119) - [Why computer modeling should become a popular hobby (1996)](https://www.qrg.northwestern.edu/papers/files/simhobby-local.htm)
 * [2023-04-08, 08:50:39](https://news.ycombinator.com/item?id=35491682) - [Building a Database in the 2020s](https://me.0xffff.me/build-database-in-2020s.html)
