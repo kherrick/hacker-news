@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-09, 18:02:22](https://news.ycombinator.com/item?id=35504989) - [The One Thing I Can’t Stand About Teaching English in Japan (2019)](https://geekstravelinjapan.wordpress.com/2019/03/10/the-one-thing-i-cant-stand-about-teaching-english-in-japan/)
 * [2023-04-09, 17:12:04](https://news.ycombinator.com/item?id=35504558) - [C Rival &#x27;Zig&#x27; Cracks Tiobe Index Top](https://developers.slashdot.org/story/23/04/09/008243/c-rival-zig-cracks-tiobe-index-top-50-go-remains-in-top-10)
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
 * [2023-04-09, 16:54:04](https://news.ycombinator.com/item?id=35504402) - [Closing a Stale SSH Connection](https://davidisaksson.dev/posts/closing-stale-ssh-connections/)
@@ -22,7 +23,6 @@
 * [2023-04-09, 12:04:37](https://news.ycombinator.com/item?id=35501937) - [EY gets banned from new audit business in Germany](https://www.economist.com/business/2023/04/05/ey-gets-banned-from-new-audit-business-in-germany)
 * [2023-04-09, 12:01:56](https://news.ycombinator.com/item?id=35501918) - [Float Health (YC W22) Is Hiring UI&#x2F;UX Designer](https://news.ycombinator.com/item?id=35501918)
 * [2023-04-09, 11:50:11](https://news.ycombinator.com/item?id=35501845) - [A CERN for Open Source Large-Scale AI](https://www.openpetition.eu/petition/online/securing-our-digital-future-a-cern-for-open-source-large-scale-ai-research-and-its-safety)
-* [2023-04-09, 11:39:24](https://news.ycombinator.com/item?id=35501780) - [68–95–99.7 Rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
 * [2023-04-09, 11:02:50](https://news.ycombinator.com/item?id=35501561) - [Flexible membrane mirrors for large space-based telescopes](https://www.optica.org/en-us/about/newsroom/news_releases/2023/april/researchers_devise_new_membrane_mirrors_for_large/)
 * [2023-04-09, 09:14:26](https://news.ycombinator.com/item?id=35501065) - [PL&#x2F;Rust 1.0: now a trusted language for Postgres](https://tcdi.github.io/plrust/plrust.html)
 * [2023-04-09, 08:49:54](https://news.ycombinator.com/item?id=35500966) - [Sunset at the South Pole](https://brr.fyi/posts/sunset)
