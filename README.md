@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-09, 19:42:54](https://news.ycombinator.com/item?id=35505766) - [Godaddy does not allow logins from Firefox and Linux](https://imgur.com/a/8Hx39hy)
 * [2023-04-09, 19:28:34](https://news.ycombinator.com/item?id=35505647) - [Sailcargo](https://www.sailcargo.inc)
 * [2023-04-09, 19:22:07](https://news.ycombinator.com/item?id=35505591) - [UnicodePlots](https://github.com/JuliaPlots/UnicodePlots.jl)
 * [2023-04-09, 18:49:48](https://news.ycombinator.com/item?id=35505342) - [Spherical tokamak achieves crucial plasma temperatures](https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/)
@@ -9,7 +10,6 @@
 * [2023-04-09, 16:12:19](https://news.ycombinator.com/item?id=35504053) - [Permafrost engine – An OpenGL RTS game engine written in C](https://github.com/eduard-permyakov/permafrost-engine)
 * [2023-04-09, 16:12:18](https://news.ycombinator.com/item?id=35504052) - [Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows](https://arxiv.org/abs/2103.14030)
 * [2023-04-09, 15:57:24](https://news.ycombinator.com/item?id=35503928) - [Flatcar Container Linux](https://www.flatcar.org/)
-* [2023-04-09, 15:56:18](https://news.ycombinator.com/item?id=35503916) - [When should a decision be fast, or slow?](https://longform.asmartbear.com/decisions-fast-slow/)
 * [2023-04-09, 15:50:03](https://news.ycombinator.com/item?id=35503855) - [RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)
 * [2023-04-09, 15:43:01](https://news.ycombinator.com/item?id=35503784) - [Two types of software engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
 * [2023-04-09, 14:52:16](https://news.ycombinator.com/item?id=35503260) - [The first game ‘Easter eggs’ were an act of corporate rebellion](https://thehustle.co/the-first-easter-eggs-were-an-act-of-corporate-rebellion/)

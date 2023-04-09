@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 19:42:54](https://news.ycombinator.com/item?id=35505766) - [Godaddy does not allow logins from Firefox and Linux](https://imgur.com/a/8Hx39hy)
 * [2023-04-09, 19:28:34](https://news.ycombinator.com/item?id=35505647) - [Sailcargo](https://www.sailcargo.inc)
 * [2023-04-09, 19:22:07](https://news.ycombinator.com/item?id=35505591) - [UnicodePlots](https://github.com/JuliaPlots/UnicodePlots.jl)
 * [2023-04-09, 18:49:48](https://news.ycombinator.com/item?id=35505342) - [Spherical Tokamak Achieves Crucial Plasma Temperatures](https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/)
