@@ -1,12 +1,62 @@
 [
   [
     [
+      "2023-04-09, 16:57:31",
+      "https://news.ycombinator.com/item?id=35504428"
+    ],
+    [
+      "The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT",
+      "https://thesequence.substack.com/p/the-llama-effect-how-an-accidental"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 16:48:15",
+      "https://news.ycombinator.com/item?id=35504351"
+    ],
+    [
+      "Inline in Rust",
+      "https://matklad.github.io/2021/07/09/inline-in-rust.html"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 16:34:57",
       "https://news.ycombinator.com/item?id=35504249"
     ],
     [
       "Lawyers cough up $200k after health data stolen in Microsoft Exchange pillaging",
       "https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 16:18:22",
+      "https://news.ycombinator.com/item?id=35504099"
+    ],
+    [
+      "Human and AI co-author the sci-fi novel:“The Nexus Fallacy”",
+      "https://fernandoamaral.org/the-nexus-fallacy-chapter-2/"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 16:12:19",
+      "https://news.ycombinator.com/item?id=35504053"
+    ],
+    [
+      "Permafrost engine – An OpenGL RTS game engine written in C",
+      "https://github.com/eduard-permyakov/permafrost-engine"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 16:12:18",
+      "https://news.ycombinator.com/item?id=35504052"
+    ],
+    [
+      "Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows",
+      "https://arxiv.org/abs/2103.14030"
     ]
   ],
   [
@@ -121,26 +171,6 @@
   ],
   [
     [
-      "2023-04-09, 12:51:04",
-      "https://news.ycombinator.com/item?id=35502251"
-    ],
-    [
-      "Chinese investment in Afghanistan’s lithium sector (2022)",
-      "https://www.brookings.edu/blog/up-front/2022/08/03/chinese-investment-in-afghanistans-lithium-sector-a-long-shot-in-the-short-term/"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 12:49:16",
-      "https://news.ycombinator.com/item?id=35502238"
-    ],
-    [
-      "The Ruling That Threatens the Future of Libraries",
-      "https://www.theatlantic.com/ideas/archive/2023/04/internet-archive-libraries-federal-court-ruling/673615/"
-    ]
-  ],
-  [
-    [
       "2023-04-09, 12:41:38",
       "https://news.ycombinator.com/item?id=35502187"
     ],
@@ -237,36 +267,6 @@
     [
       "Microsoft &#x2F; JARVIS: a system to connect LLMs with ML community",
       "https://github.com/microsoft/JARVIS"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 05:03:12",
-      "https://news.ycombinator.com/item?id=35500197"
-    ],
-    [
-      "Advanced Linux Programming (2001)",
-      "https://mentorembedded.github.io/advancedlinuxprogramming/"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 04:22:45",
-      "https://news.ycombinator.com/item?id=35500023"
-    ],
-    [
-      "Manhattan’s Last Arcadia: Estate Plans from the Index of American Design (1936)",
-      "https://publicdomainreview.org/collection/manhattans-last-arcadia"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 03:33:58",
-      "https://news.ycombinator.com/item?id=35499855"
-    ],
-    [
-      "IRB&#x27;s Built-In Measure (2021)",
-      "https://jemma.dev/blog/irb-measure"
     ]
   ],
   [
