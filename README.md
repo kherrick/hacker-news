@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-09, 07:00:17](https://news.ycombinator.com/item?id=35500585) - [June (YC W21) Is Hiring a Senior Engineer (#4)](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-senior-product-engineer-4)
+* [2023-04-09, 06:42:25](https://news.ycombinator.com/item?id=35500528) - [Perseus – NextJS alternative in Rust](https://framesurge.sh/perseus/en-US/)
 * [2023-04-09, 05:03:12](https://news.ycombinator.com/item?id=35500197) - [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/)
+* [2023-04-09, 04:32:18](https://news.ycombinator.com/item?id=35500082) - [Custom coreboot firmware and firmware utilities for your Chromebook&#x2F;Chromebox](https://mrchromebox.tech/)
 * [2023-04-09, 04:14:50](https://news.ycombinator.com/item?id=35499996) - [Do Kwon converted illicit funds from LUNA to Bitcoin](https://cointelegraph.com/news/do-kwon-converted-stolen-funds-from-luna-to-bitcoin-s-korean-prosecutors)
 * [2023-04-09, 03:33:58](https://news.ycombinator.com/item?id=35499855) - [IRB&#x27;s Built-In Measure (2021)](https://jemma.dev/blog/irb-measure)
 * [2023-04-09, 02:44:47](https://news.ycombinator.com/item?id=35499641) - [USPS facility in Utah does nothing but decipher handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
@@ -22,8 +24,6 @@
 * [2023-04-08, 15:42:50](https://news.ycombinator.com/item?id=35494382) - [FAA K-12 Airport Design Challenge in Minecraft](https://www.faa.gov/airport-design-challenge)
 * [2023-04-08, 15:39:10](https://news.ycombinator.com/item?id=35494342) - [To supercharge learning, look to play](https://nautil.us/to-supercharge-learning-look-to-play-292946/)
 * [2023-04-08, 15:32:27](https://news.ycombinator.com/item?id=35494266) - [When Slide Rules Ruled (2006) [pdf]](https://pdodds.w3.uvm.edu/files/papers/others/2006/stoll2006a.pdf)
-* [2023-04-08, 15:28:54](https://news.ycombinator.com/item?id=35494219) - [Ways to Put Lasers on Silicon](https://spectrum.ieee.org/lasers-on-silicon)
-* [2023-04-08, 11:28:20](https://news.ycombinator.com/item?id=35492307) - [The Garbage Collection Handbook, 2nd Edition](https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038)
 * [2023-04-08, 11:15:41](https://news.ycombinator.com/item?id=35492260) - [Legs and knobs for IKEA and other furniture](https://www.prettypegs.com/)
 * [2023-04-08, 10:42:08](https://news.ycombinator.com/item?id=35492119) - [Why computer modeling should become a popular hobby (1996)](https://www.qrg.northwestern.edu/papers/files/simhobby-local.htm)
 * [2023-04-08, 08:50:39](https://news.ycombinator.com/item?id=35491682) - [Building a Database in the 2020s (2022)](https://me.0xffff.me/build-database-in-2020s.html)
