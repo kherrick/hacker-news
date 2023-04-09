@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 20:43:47](https://news.ycombinator.com/item?id=35506304) - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
+* [2023-04-09, 20:35:33](https://news.ycombinator.com/item?id=35506236) - [Who Invented Vector Clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
+* [2023-04-09, 20:17:10](https://news.ycombinator.com/item?id=35506069) - [A Baby GPT](https://twitter.com/karpathy/status/1645115622517542913)
+* [2023-04-09, 20:10:49](https://news.ycombinator.com/item?id=35506009) - [What does a research grant pay for?](https://austinhenley.com/blog/grantbudget.html)
 * [2023-04-09, 20:03:08](https://news.ycombinator.com/item?id=35505953) - [Tesla Model 2 will have 53kWh LFP battery pack](https://www.arenaev.com/tesla_model_2_will_have_53_kwh_lfp_battery_pack-news-1648.php)
 * [2023-04-09, 19:42:54](https://news.ycombinator.com/item?id=35505766) - [Godaddy does not allow logins from Firefox and Linux](https://imgur.com/a/8Hx39hy)
 * [2023-04-09, 19:28:34](https://news.ycombinator.com/item?id=35505647) - [Sailcargo](https://www.sailcargo.inc)
