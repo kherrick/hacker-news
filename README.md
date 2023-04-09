@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-09, 20:56:42](https://news.ycombinator.com/item?id=35506401) - [Australia Is Quitting Coal in Record Time Thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
 * [2023-04-09, 20:43:47](https://news.ycombinator.com/item?id=35506304) - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
 * [2023-04-09, 20:35:33](https://news.ycombinator.com/item?id=35506236) - [Who Invented Vector Clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
 * [2023-04-09, 20:17:10](https://news.ycombinator.com/item?id=35506069) - [A Baby GPT](https://twitter.com/karpathy/status/1645115622517542913)
@@ -27,7 +28,6 @@
 * [2023-04-09, 09:23:19](https://news.ycombinator.com/item?id=35501109) - [Show HN: Shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
 * [2023-04-09, 09:14:26](https://news.ycombinator.com/item?id=35501065) - [PL&#x2F;Rust 1.0: now a trusted language for Postgres](https://tcdi.github.io/plrust/plrust.html)
 * [2023-04-09, 08:49:54](https://news.ycombinator.com/item?id=35500966) - [Sunset at the South Pole](https://brr.fyi/posts/sunset)
-* [2023-04-09, 06:29:50](https://news.ycombinator.com/item?id=35500472) - [Microsoft &#x2F; JARVIS: a system to connect LLMs with ML community](https://github.com/microsoft/JARVIS)
 * [2023-04-07, 18:56:05](https://news.ycombinator.com/item?id=35485524) - [The Creative Squiggle](https://koliber.com/articles/the-creative-squiggle)
 * [2023-04-07, 17:29:52](https://news.ycombinator.com/item?id=35484322) - [Haxe 4.3](https://haxe.org/download/)
 

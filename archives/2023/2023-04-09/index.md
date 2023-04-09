@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 20:56:42](https://news.ycombinator.com/item?id=35506401) - [Australia Is Quitting Coal in Record Time Thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
 * [2023-04-09, 20:43:47](https://news.ycombinator.com/item?id=35506304) - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
 * [2023-04-09, 20:35:33](https://news.ycombinator.com/item?id=35506236) - [Who Invented Vector Clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
 * [2023-04-09, 20:17:10](https://news.ycombinator.com/item?id=35506069) - [A Baby GPT](https://twitter.com/karpathy/status/1645115622517542913)
