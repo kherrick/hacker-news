@@ -29,7 +29,7 @@
 * [2023-04-08, 07:41:54](https://news.ycombinator.com/item?id=35491403) - [The best kimchi is made in earthenware pots](https://www.washingtonpost.com/science/2023/04/07/kimchi-onggi/)
 * [2023-04-08, 07:12:45](https://news.ycombinator.com/item?id=35491252) - [Weber–Fechner Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
 * [2023-04-08, 02:17:03](https://news.ycombinator.com/item?id=35489798) - [QSL Card](https://en.wikipedia.org/wiki/QSL_card)
-* [2023-04-07, 16:48:04](https://news.ycombinator.com/item?id=35483816) - [Vertical communities](https://noahpinion.substack.com/p/vertical-communities)
+* [2023-04-08, 00:44:47](https://news.ycombinator.com/item?id=35489131) - [Porting the Slint UI Toolkit to a Microcontroller with 264K RAM](https://slint-ui.com/blog/porting-slint-to-microcontrollers.html)
 
 ## [Archives](archives/index.md)
 
