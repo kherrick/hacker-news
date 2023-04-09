@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-04-09, 04:29:12",
+      "https://news.ycombinator.com/item?id=35500065"
+    ],
+    [
+      "Clarence Thomas benefactor Harlan Crow collects Hitler memorabilia",
+      "https://www.washingtonian.com/2023/04/07/clarence-thomass-billionaire-benefactor-collects-hitler-artifacts/"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 03:33:58",
       "https://news.ycombinator.com/item?id=35499855"
     ],
     [
-      "IRB&#x27;s Built-In Measure",
+      "IRB&#x27;s Built-In Measure (2021)",
       "https://jemma.dev/blog/irb-measure"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 03:33:19",
+      "https://news.ycombinator.com/item?id=35499852"
+    ],
+    [
+      "The Last Week in AI",
+      "https://old.reddit.com/r/ChatGPT/comments/12diapw/gpt4_week_3_chatbots_are_yesterdays_news_ai/"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35499641"
     ],
     [
-      "USPS facility in Utah does nothing but decipher bad handwriting",
+      "USPS facility in Utah does nothing but decipher handwriting",
       "https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=35497738"
     ],
     [
-      "Lonely Individuals Process the World in Idiosyncratic Ways",
+      "Lonely individuals process the world in idiosyncratic ways",
       "https://journals.sagepub.com/doi/10.1177/09567976221145316"
     ]
   ],
@@ -111,31 +131,11 @@
   ],
   [
     [
-      "2023-04-08, 19:10:11",
-      "https://news.ycombinator.com/item?id=35496558"
-    ],
-    [
-      "Show HN: A ChatGPT TUI with custom bots",
-      "https://www.askmarvin.ai/guide/concepts/tui/"
-    ]
-  ],
-  [
-    [
-      "2023-04-08, 17:59:27",
-      "https://news.ycombinator.com/item?id=35495910"
-    ],
-    [
-      "Why and How We Retired Elm at Culture Amp",
-      "https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/"
-    ]
-  ],
-  [
-    [
       "2023-04-08, 17:56:54",
       "https://news.ycombinator.com/item?id=35495886"
     ],
     [
-      "Writing a Simple Garbage Collector in C (2020)",
+      "Writing a Simple Garbage Collector in C (2014)",
       "http://maplant.com/gc.html"
     ]
   ],
