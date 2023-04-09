@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-09, 09:17:30](https://news.ycombinator.com/item?id=35501074) - [Digital collectibles &#x2F; NFTs on Instagram are winding down](https://help.instagram.com/1824155514623095)
+* [2023-04-09, 09:13:21](https://news.ycombinator.com/item?id=35501057) - [Women now dominate the book business. Why not other creative industries?](https://www.npr.org/sections/money/2023/04/04/1164109676/women-now-dominate-the-book-business-why-there-and-not-other-creative-industries)
 * [2023-04-09, 08:57:37](https://news.ycombinator.com/item?id=35500988) - [One of the world’s largest investment banks: ‘Greedflation’ has gone too far](https://fortune.com/2023/04/05/end-of-capitalism-inflation-greedflation-societe-generale-corporate-profits/)
 * [2023-04-09, 08:31:23](https://news.ycombinator.com/item?id=35500901) - [Multiple Passengers Skipped Customs on US-Bound International Flight](https://www.thestreet.com/travel/multiple-passengers-skipped-customs-on-us-bound-international-flight)
 * [2023-04-09, 08:13:53](https://news.ycombinator.com/item?id=35500849) - [Car exhaust filters fail to clean up ‘ultrafine’ air pollution](https://studyfinds.org/car-exhaust-filters-air-pollution/)
@@ -9,7 +10,6 @@
 * [2023-04-09, 06:42:25](https://news.ycombinator.com/item?id=35500528) - [Perseus – NextJS alternative in Rust](https://framesurge.sh/perseus/en-US/)
 * [2023-04-09, 05:03:12](https://news.ycombinator.com/item?id=35500197) - [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/)
 * [2023-04-09, 04:32:18](https://news.ycombinator.com/item?id=35500082) - [Custom coreboot firmware and firmware utilities for your Chromebook&#x2F;Chromebox](https://mrchromebox.tech/)
-* [2023-04-09, 04:14:50](https://news.ycombinator.com/item?id=35499996) - [Do Kwon converted illicit funds from LUNA to Bitcoin](https://cointelegraph.com/news/do-kwon-converted-stolen-funds-from-luna-to-bitcoin-s-korean-prosecutors)
 * [2023-04-09, 03:33:58](https://news.ycombinator.com/item?id=35499855) - [IRB&#x27;s Built-In Measure (2021)](https://jemma.dev/blog/irb-measure)
 * [2023-04-09, 02:44:47](https://news.ycombinator.com/item?id=35499641) - [USPS facility in Utah does nothing but decipher handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
 * [2023-04-09, 00:40:39](https://news.ycombinator.com/item?id=35499065) - [Z-Library to let users share physical books](https://torrentfreak.com/z-library-plans-to-let-users-share-physical-books-through-z-points-230408/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
 * [2023-04-09, 09:17:30](https://news.ycombinator.com/item?id=35501074) - [Digital collectibles &#x2F; NFTs on Instagram are winding down](https://help.instagram.com/1824155514623095)
+* [2023-04-09, 09:13:21](https://news.ycombinator.com/item?id=35501057) - [Women now dominate the book business. Why not other creative industries?](https://www.npr.org/sections/money/2023/04/04/1164109676/women-now-dominate-the-book-business-why-there-and-not-other-creative-industries)
 * [2023-04-09, 08:57:37](https://news.ycombinator.com/item?id=35500988) - [One of the world’s largest investment banks: ‘Greedflation’ has gone too far](https://fortune.com/2023/04/05/end-of-capitalism-inflation-greedflation-societe-generale-corporate-profits/)
 * [2023-04-09, 08:31:23](https://news.ycombinator.com/item?id=35500901) - [Multiple Passengers Skipped Customs on US-Bound International Flight](https://www.thestreet.com/travel/multiple-passengers-skipped-customs-on-us-bound-international-flight)
 * [2023-04-09, 08:13:53](https://news.ycombinator.com/item?id=35500849) - [Car exhaust filters fail to clean up ‘ultrafine’ air pollution](https://studyfinds.org/car-exhaust-filters-air-pollution/)
