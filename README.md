@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-09, 20:56:42](https://news.ycombinator.com/item?id=35506401) - [Australia Is Quitting Coal in Record Time Thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
 * [2023-04-09, 20:43:47](https://news.ycombinator.com/item?id=35506304) - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
 * [2023-04-09, 20:35:33](https://news.ycombinator.com/item?id=35506236) - [Who Invented Vector Clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
 * [2023-04-09, 20:17:10](https://news.ycombinator.com/item?id=35506069) - [A Baby GPT](https://twitter.com/karpathy/status/1645115622517542913)
 * [2023-04-09, 20:10:49](https://news.ycombinator.com/item?id=35506009) - [What does a research grant pay for?](https://austinhenley.com/blog/grantbudget.html)
 * [2023-04-09, 20:03:08](https://news.ycombinator.com/item?id=35505953) - [Tesla Model 2 will have 53kWh LFP battery pack](https://www.arenaev.com/tesla_model_2_will_have_53_kwh_lfp_battery_pack-news-1648.php)
+* [2023-04-09, 19:44:12](https://news.ycombinator.com/item?id=35505778) - [Ambry: LinkedIn’s Scalable Geo-Distributed Object Store](https://www.micahlerner.com/2023/03/28/ambry-linkedins-scalable-geo-distributed-object-store.html)
 * [2023-04-09, 19:28:34](https://news.ycombinator.com/item?id=35505647) - [Sailcargo](https://www.sailcargo.inc)
 * [2023-04-09, 19:22:07](https://news.ycombinator.com/item?id=35505591) - [UnicodePlots](https://github.com/JuliaPlots/UnicodePlots.jl)
 * [2023-04-09, 19:10:54](https://news.ycombinator.com/item?id=35505518) - [Street Fighting Engineers vs Martial Arts Engineers](https://ravitejakanta.substack.com/p/the-2-breeds-of-10x-engineers)
