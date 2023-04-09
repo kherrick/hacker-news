@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 14:47:55](https://news.ycombinator.com/item?id=35503210) - [Apple Continues Efforts to Keep Retail Stores from Unionizing](https://www.bloomberg.com/news/newsletters/2023-04-09/apple-aapl-continues-efforts-to-keep-retail-stores-from-unionizing-lg9gjdx2)
 * [2023-04-09, 14:35:19](https://news.ycombinator.com/item?id=35503089) - [Irregular Expressions](https://tavianator.com/2023/irregex.html)
 * [2023-04-09, 14:21:21](https://news.ycombinator.com/item?id=35502965) - [5-Year-Old Pulled Down a 3-Year-Old&#x27;s Pants. The Preschool Workers Are on Trial](https://reason.com/2023/04/03/poncha-springs-schoolhouse-daycare-kids-preschool-trial/)
+* [2023-04-09, 14:20:41](https://news.ycombinator.com/item?id=35502956) - [TIWiFiModem: Take your TI-83 Plus online [video]](https://www.youtube.com/watch?v=eg_J6N9MSCY)
 * [2023-04-09, 14:09:19](https://news.ycombinator.com/item?id=35502874) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [2023-04-09, 13:46:55](https://news.ycombinator.com/item?id=35502684) - [Twitter Is Blocking Likes and Retweets that Mention Substack](https://flipboard.social/@Flipboard/110161362001035875)
 * [2023-04-09, 13:25:53](https://news.ycombinator.com/item?id=35502503) - [Ask HN: What were the 2010s about?](https://news.ycombinator.com/item?id=35502503)
