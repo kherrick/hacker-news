@@ -29,7 +29,7 @@
 * [2023-04-08, 10:42:08](https://news.ycombinator.com/item?id=35492119) - [Why computer modeling should become a popular hobby (1996)](https://www.qrg.northwestern.edu/papers/files/simhobby-local.htm)
 * [2023-04-08, 08:50:39](https://news.ycombinator.com/item?id=35491682) - [Building a Database in the 2020s (2022)](https://me.0xffff.me/build-database-in-2020s.html)
 * [2023-04-08, 07:41:54](https://news.ycombinator.com/item?id=35491403) - [The best kimchi is made in earthenware pots](https://www.washingtonpost.com/science/2023/04/07/kimchi-onggi/)
-* [2023-04-08, 02:17:03](https://news.ycombinator.com/item?id=35489798) - [QSL Card](https://en.wikipedia.org/wiki/QSL_card)
+* [2023-04-08, 07:12:45](https://news.ycombinator.com/item?id=35491252) - [Weber–Fechner Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
 
 ## [Archives](archives/index.md)
 
