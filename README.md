@@ -5,7 +5,6 @@
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
 * [2023-04-09, 16:54:04](https://news.ycombinator.com/item?id=35504402) - [Closing a Stale SSH Connection](https://davidisaksson.dev/posts/closing-stale-ssh-connections/)
 * [2023-04-09, 16:48:15](https://news.ycombinator.com/item?id=35504351) - [Inline in Rust](https://matklad.github.io/2021/07/09/inline-in-rust.html)
-* [2023-04-09, 16:34:57](https://news.ycombinator.com/item?id=35504249) - [Lawyers cough up $200k after health data stolen in Microsoft Exchange pillaging](https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/)
 * [2023-04-09, 16:12:19](https://news.ycombinator.com/item?id=35504053) - [Permafrost engine – An OpenGL RTS game engine written in C](https://github.com/eduard-permyakov/permafrost-engine)
 * [2023-04-09, 16:12:18](https://news.ycombinator.com/item?id=35504052) - [Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows](https://arxiv.org/abs/2103.14030)
 * [2023-04-09, 15:57:24](https://news.ycombinator.com/item?id=35503928) - [Flatcar Container Linux](https://www.flatcar.org/)
@@ -28,6 +27,7 @@
 * [2023-04-09, 08:49:54](https://news.ycombinator.com/item?id=35500966) - [Sunset at the South Pole](https://brr.fyi/posts/sunset)
 * [2023-04-09, 06:42:25](https://news.ycombinator.com/item?id=35500528) - [Perseus – NextJS alternative in Rust](https://framesurge.sh/perseus/en-US/)
 * [2023-04-09, 06:29:50](https://news.ycombinator.com/item?id=35500472) - [Microsoft &#x2F; JARVIS: a system to connect LLMs with ML community](https://github.com/microsoft/JARVIS)
+* [2023-04-08, 21:13:39](https://news.ycombinator.com/item?id=35497696) - [New Orleans teenagers found a new proof of the Pythagorean Theorem](https://keith-mcnulty.medium.com/heres-how-two-new-orleans-teenagers-found-a-new-proof-of-the-pythagorean-theorem-b4f6e7e9ea2d)
 * [2023-04-08, 06:40:53](https://news.ycombinator.com/item?id=35491110) - [Tidyverse 2.0.0](https://www.tidyverse.org/blog/2023/03/tidyverse-2-0-0/)
 * [2023-04-07, 17:29:52](https://news.ycombinator.com/item?id=35484322) - [Haxe 4.3](https://haxe.org/download/)
 
