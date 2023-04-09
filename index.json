@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-09, 14:09:19",
+      "https://news.ycombinator.com/item?id=35502874"
+    ],
+    [
+      "Modular Errors in Rust",
+      "https://sabrinajewson.org/blog/errors"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 13:46:55",
       "https://news.ycombinator.com/item?id=35502684"
     ],
@@ -217,16 +227,6 @@
     [
       "Advanced Linux Programming (2001)",
       "https://mentorembedded.github.io/advancedlinuxprogramming/"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 04:32:18",
-      "https://news.ycombinator.com/item?id=35500082"
-    ],
-    [
-      "Custom coreboot firmware and firmware utilities for your Chromebook&#x2F;Chromebox",
-      "https://mrchromebox.tech/"
     ]
   ],
   [
