@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-09, 05:03:12](https://news.ycombinator.com/item?id=35500197) - [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/)
+* [2023-04-09, 04:14:50](https://news.ycombinator.com/item?id=35499996) - [Do Kwon converted illicit funds from LUNA to Bitcoin](https://cointelegraph.com/news/do-kwon-converted-stolen-funds-from-luna-to-bitcoin-s-korean-prosecutors)
 * [2023-04-09, 03:33:58](https://news.ycombinator.com/item?id=35499855) - [IRB&#x27;s Built-In Measure (2021)](https://jemma.dev/blog/irb-measure)
 * [2023-04-09, 02:44:47](https://news.ycombinator.com/item?id=35499641) - [USPS facility in Utah does nothing but decipher handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
 * [2023-04-09, 00:40:39](https://news.ycombinator.com/item?id=35499065) - [Z-Library to let users share physical books](https://torrentfreak.com/z-library-plans-to-let-users-share-physical-books-through-z-points-230408/)
@@ -12,7 +14,6 @@
 * [2023-04-08, 19:26:55](https://news.ycombinator.com/item?id=35496712) - [A 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
 * [2023-04-08, 19:18:40](https://news.ycombinator.com/item?id=35496651) - [GNU+Linux laptops with Libreboot preinstalled, based on coreboot](https://minifree.org/)
 * [2023-04-08, 17:56:54](https://news.ycombinator.com/item?id=35495886) - [Writing a Simple Garbage Collector in C (2014)](http://maplant.com/gc.html)
-* [2023-04-08, 17:54:50](https://news.ycombinator.com/item?id=35495865) - [Making an Alphorn from Scratch (2020)](https://www.argobuilder.com/making-an-alphorn.html)
 * [2023-04-08, 17:37:16](https://news.ycombinator.com/item?id=35495670) - [A Rubyist&#x27;s Walk Along the C-Side (Part 10): Benchmarking](https://blog.peterzhu.ca/ruby-c-ext-part-10/)
 * [2023-04-08, 17:29:29](https://news.ycombinator.com/item?id=35495579) - [Electricity Prices by Country](https://www.electricrate.com/data-center/electricity-prices-by-country/)
 * [2023-04-08, 16:42:52](https://news.ycombinator.com/item?id=35495070) - [Deep learning library written in Futhark](https://github.com/HnimNart/deeplearning)
@@ -29,7 +30,6 @@
 * [2023-04-08, 07:41:54](https://news.ycombinator.com/item?id=35491403) - [The best kimchi is made in earthenware pots](https://www.washingtonpost.com/science/2023/04/07/kimchi-onggi/)
 * [2023-04-08, 07:12:45](https://news.ycombinator.com/item?id=35491252) - [Weber–Fechner Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
 * [2023-04-08, 02:17:03](https://news.ycombinator.com/item?id=35489798) - [QSL Card](https://en.wikipedia.org/wiki/QSL_card)
-* [2023-04-08, 00:44:47](https://news.ycombinator.com/item?id=35489131) - [Porting the Slint UI Toolkit to a Microcontroller with 264K RAM](https://slint-ui.com/blog/porting-slint-to-microcontrollers.html)
 
 ## [Archives](archives/index.md)
 
