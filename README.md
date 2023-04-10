@@ -27,9 +27,9 @@
 * [2023-04-09, 14:15:36](https://news.ycombinator.com/item?id=35502925) - [Getting the ^D](https://owengage.com/writing/2023-04-08-getting-the-ctrl-d/)
 * [2023-04-09, 13:09:29](https://news.ycombinator.com/item?id=35502389) - [Nam: Neural network emulator for guitar amplifiers](https://github.com/sdatkinson/neural-amp-modeler)
 * [2023-04-09, 12:50:39](https://news.ycombinator.com/item?id=35502248) - [New Mexico is losing a form of Spanish spoken nowhere else](https://www.nytimes.com/2023/04/09/us/new-mexico-spanish.html)
+* [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From deep to long learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * [2023-04-09, 10:14:57](https://news.ycombinator.com/item?id=35501337) - [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/V01/SceneView/intro_c.html)
 * [2023-04-09, 08:01:26](https://news.ycombinator.com/item?id=35500804) - [Lessons Learned About One-Way, Dataflow Constraints in Garnet and Amulet (2001) [pdf]](https://www.isi.edu/~szekely/contents/papers/2001/lessons-learned-2002toplas.pdf)
-* [2023-04-09, 05:41:00](https://news.ycombinator.com/item?id=35500309) - [Chased by One’s Own Tail](https://gbracha.blogspot.com/2009/12/chased-by-ones-own-tail.html)
 
 ## [Archives](archives/index.md)
 
