@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-04-10, 13:00:44",
+      "https://news.ycombinator.com/item?id=35511744"
+    ],
+    [
+      "American IQ scores have rapidly dropped, proving the &#x27;Reverse Flynn effect&#x27;",
+      "https://www.popularmechanics.com/science/a43469569/american-iq-scores-decline-reverse-flynn-effect/"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 12:58:25",
       "https://news.ycombinator.com/item?id=35511717"
     ],
@@ -217,16 +227,6 @@
     [
       "What I&#x27;ve Learned About Formal Methods in Half a Year",
       "https://jakob.space/blog/what-ive-learned-about-formal-methods.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 11:29:07",
-      "https://news.ycombinator.com/item?id=35511139"
-    ],
-    [
-      "Zoomable, animated scatterplots in the browser that scales over a billion points",
-      "https://github.com/nomic-ai/deepscatter"
     ]
   ],
   [
