@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 13:29:24](https://news.ycombinator.com/item?id=35512035) - [My Controversial Diatribe Against “Skeptics”](https://johnhorgan.org/cross-check/my-controversial-diatribe-against-skeptics)
 * [2023-04-10, 13:28:08](https://news.ycombinator.com/item?id=35512025) - [Up (Film Series)](https://en.wikipedia.org/wiki/Up_(film_series))
 * [2023-04-10, 13:09:29](https://news.ycombinator.com/item?id=35511830) - [TSMC Sales Miss for Second Straight Quarter on Tepid Demand](https://www.bloomberg.com/news/articles/2023-04-10/tsmc-sales-miss-for-second-straight-quarter-on-tepid-tech-demand)
 * [2023-04-10, 12:58:25](https://news.ycombinator.com/item?id=35511717) - [How to Get Started in Soldering for Beginners](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)
@@ -26,7 +27,6 @@
 * [2023-04-10, 00:43:24](https://news.ycombinator.com/item?id=35507933) - [Using RP2040 PIO to drive a poorly-designed displa](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 * [2023-04-09, 23:38:53](https://news.ycombinator.com/item?id=35507558) - [ArmorPaint and ArmorLab: open-source alternative to Adobe Substance](https://armorpaint.org/)
 * [2023-04-09, 22:16:39](https://news.ycombinator.com/item?id=35507001) - [REBL](https://docs.datomic.com/cloud/other-tools/REBL.html)
-* [2023-04-09, 21:02:49](https://news.ycombinator.com/item?id=35506448) - [I think faster than light travel is possible [video]](http://backreaction.blogspot.com/2023/04/i-think-faster-than-light-travel-is.html)
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
 * [2023-04-09, 13:47:54](https://news.ycombinator.com/item?id=35502693) - [The Apple II Age: How the Computer Became Personal](http://www.lainenooney.com/the-apple-ii-age.html)
 * [2023-04-09, 13:09:29](https://news.ycombinator.com/item?id=35502389) - [Nam: Neural network emulator for guitar amplifiers](https://github.com/sdatkinson/neural-amp-modeler)
