@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-10, 14:32:22](https://news.ycombinator.com/item?id=35512798) - [U.S. bank lending slumps by most on record in final weeks of March](https://finance.yahoo.com/news/us-bank-lending-slumps-most-210839551.html)
 * [2023-04-10, 14:00:59](https://news.ycombinator.com/item?id=35512401) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 13:55:53](https://news.ycombinator.com/item?id=35512338) - [Ask HN: Open source LLM for commercial use?](https://news.ycombinator.com/item?id=35512338)
 * [2023-04-10, 13:29:24](https://news.ycombinator.com/item?id=35512035) - [My controversial diatribe against “skeptics” (2016)](https://johnhorgan.org/cross-check/my-controversial-diatribe-against-skeptics)
@@ -29,6 +28,7 @@
 * [2023-04-10, 03:30:53](https://news.ycombinator.com/item?id=35508903) - [Senior Frontend Engineer at Justpaid.io (YC W23)](https://www.ycombinator.com/companies/justpaid-io/jobs/p9N5Zog-senior-frontend-software-engineer-contract-to-hire)
 * [2023-04-10, 00:43:24](https://news.ycombinator.com/item?id=35507933) - [Using RP2040 PIO to drive a poorly-designed displa](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 * [2023-04-09, 22:16:39](https://news.ycombinator.com/item?id=35507001) - [REBL](https://docs.datomic.com/cloud/other-tools/REBL.html)
+* [2023-04-09, 21:02:49](https://news.ycombinator.com/item?id=35506448) - [I think faster than light travel is possible [video]](http://backreaction.blogspot.com/2023/04/i-think-faster-than-light-travel-is.html)
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
 
 ## [Archives](archives/index.md)
