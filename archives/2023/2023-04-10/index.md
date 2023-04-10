@@ -11,6 +11,7 @@
 * [2023-04-10, 09:20:22](https://news.ycombinator.com/item?id=35510524) - [Online 8086 Emulator](https://yjdoc2.github.io/8086-emulator-web/)
 * [2023-04-10, 09:19:13](https://news.ycombinator.com/item?id=35510516) - [Personal Concierge Using OpenAI&#x27;s ChatGPT via Telegram and Voice Messages](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
 * [2023-04-10, 09:15:14](https://news.ycombinator.com/item?id=35510503) - [Is Elden Ring an existential risk to humanity?](http://togelius.blogspot.com/2023/04/is-elden-ring-existential-risk-to.html)
+* [2023-04-10, 08:58:32](https://news.ycombinator.com/item?id=35510430) - [The carbon footprint of foods: differences explained by the impacts of methane?](https://ourworldindata.org/carbon-footprint-food-methane)
 * [2023-04-10, 08:55:22](https://news.ycombinator.com/item?id=35510413) - [Hacker News Ranking Algorithm](https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how)
 * [2023-04-10, 08:11:16](https://news.ycombinator.com/item?id=35510201) - [The Tyranny of Science over Mothers](https://thereader.mitpress.mit.edu/the-tyranny-of-science-over-mothers/)
 * [2023-04-10, 07:53:50](https://news.ycombinator.com/item?id=35510095) - [Machine Yearning](http://www.linusakesson.net/scene/machine-yearning/index.php)
