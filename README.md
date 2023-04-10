@@ -13,6 +13,7 @@
 * [2023-04-09, 22:16:39](https://news.ycombinator.com/item?id=35507001) - [REBL](https://docs.datomic.com/cloud/other-tools/REBL.html)
 * [2023-04-09, 21:43:02](https://news.ycombinator.com/item?id=35506753) - [Mobile home park residents form co-ops to save their homes](https://mynorthwest.com/3872036/mobile-home-park-residents-form-co-ops-to-save-their-homes/)
 * [2023-04-09, 20:56:42](https://news.ycombinator.com/item?id=35506401) - [Australia is quitting coal in record time thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
+* [2023-04-09, 20:43:47](https://news.ycombinator.com/item?id=35506304) - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
 * [2023-04-09, 20:35:33](https://news.ycombinator.com/item?id=35506236) - [Who invented vector clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
 * [2023-04-09, 20:17:10](https://news.ycombinator.com/item?id=35506069) - [A Baby GPT](https://twitter.com/karpathy/status/1645115622517542913)
 * [2023-04-09, 20:10:49](https://news.ycombinator.com/item?id=35506009) - [What does a research grant pay for?](https://austinhenley.com/blog/grantbudget.html)
@@ -28,7 +29,6 @@
 * [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From deep to long learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * [2023-04-09, 12:04:37](https://news.ycombinator.com/item?id=35501937) - [EY gets banned from new audit business in Germany](https://www.economist.com/business/2023/04/05/ey-gets-banned-from-new-audit-business-in-germany)
 * [2023-04-09, 10:14:57](https://news.ycombinator.com/item?id=35501337) - [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/V01/SceneView/intro_c.html)
-* [2023-04-09, 09:23:19](https://news.ycombinator.com/item?id=35501109) - [Show HN: Shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
 * [2023-04-09, 08:01:26](https://news.ycombinator.com/item?id=35500804) - [Lessons Learned About One-Way, Dataflow Constraints in Garnet and Amulet (2001) [pdf]](https://www.isi.edu/~szekely/contents/papers/2001/lessons-learned-2002toplas.pdf)
 
 ## [Archives](archives/index.md)
