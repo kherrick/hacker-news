@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 08:55:22](https://news.ycombinator.com/item?id=35510413) - [Hacker News Ranking Algorithm](https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 * [2023-04-10, 06:12:16](https://news.ycombinator.com/item?id=35509640) - [Japan eyes AI adoption as OpenAI CEO visits PM Kishida, talks up local expansion](https://www.reuters.com/technology/japan-eyes-government-ai-adoption-openai-ceo-mulls-opening-office-2023-04-10/)
 * [2023-04-10, 05:23:28](https://news.ycombinator.com/item?id=35509429) - [EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion](https://github.com/sail-sg/EditAnything)
@@ -13,7 +14,6 @@
 * [2023-04-09, 22:16:39](https://news.ycombinator.com/item?id=35507001) - [REBL](https://docs.datomic.com/cloud/other-tools/REBL.html)
 * [2023-04-09, 21:43:02](https://news.ycombinator.com/item?id=35506753) - [Mobile home park residents form co-ops to save their homes](https://mynorthwest.com/3872036/mobile-home-park-residents-form-co-ops-to-save-their-homes/)
 * [2023-04-09, 20:56:42](https://news.ycombinator.com/item?id=35506401) - [Australia is quitting coal in record time thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
-* [2023-04-09, 20:43:47](https://news.ycombinator.com/item?id=35506304) - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
 * [2023-04-09, 20:35:33](https://news.ycombinator.com/item?id=35506236) - [Who invented vector clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
 * [2023-04-09, 20:17:10](https://news.ycombinator.com/item?id=35506069) - [A Baby GPT](https://twitter.com/karpathy/status/1645115622517542913)
 * [2023-04-09, 20:10:49](https://news.ycombinator.com/item?id=35506009) - [What does a research grant pay for?](https://austinhenley.com/blog/grantbudget.html)
