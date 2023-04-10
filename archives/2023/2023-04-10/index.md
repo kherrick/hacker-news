@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 22:14:14](https://news.ycombinator.com/item?id=35518032) - [Shutting down nuclear power could increase air pollution: study](https://news.mit.edu/2023/study-shutting-down-nuclear-power-could-increase-air-pollution-0410)
 * [2023-04-10, 21:32:13](https://news.ycombinator.com/item?id=35517649) - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 * [2023-04-10, 21:30:09](https://news.ycombinator.com/item?id=35517629) - [Al Jaffee, King of the Mad Magazine Fold-In, Dies at 102](https://www.nytimes.com/2023/04/10/arts/al-jaffee-dead.html)
+* [2023-04-10, 21:28:01](https://news.ycombinator.com/item?id=35517609) - [Low Carb Intake Linked to Insulin Resistance](https://www.lifespan.io/news/low-carb-intake-linked-to-insulin-resistance/)
 * [2023-04-10, 21:01:08](https://news.ycombinator.com/item?id=35517364) - [Aviator (YC S21) is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-04-10, 19:09:07](https://news.ycombinator.com/item?id=35516100) - [Lawsuits Are the Hitman of the State](https://betonit.substack.com/p/lawsuits-are-the-deep-state)
 * [2023-04-10, 18:48:51](https://news.ycombinator.com/item?id=35515873) - [Keycloak with PostgreSQL on Kubernetes](https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/)

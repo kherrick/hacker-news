@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 22:14:14](https://news.ycombinator.com/item?id=35518032) - [Shutting down nuclear power could increase air pollution: study](https://news.mit.edu/2023/study-shutting-down-nuclear-power-could-increase-air-pollution-0410)
 * [2023-04-10, 21:32:13](https://news.ycombinator.com/item?id=35517649) - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 * [2023-04-10, 21:30:09](https://news.ycombinator.com/item?id=35517629) - [Al Jaffee, King of the Mad Magazine Fold-In, Dies at 102](https://www.nytimes.com/2023/04/10/arts/al-jaffee-dead.html)
+* [2023-04-10, 21:28:01](https://news.ycombinator.com/item?id=35517609) - [Low Carb Intake Linked to Insulin Resistance](https://www.lifespan.io/news/low-carb-intake-linked-to-insulin-resistance/)
 * [2023-04-10, 21:01:08](https://news.ycombinator.com/item?id=35517364) - [Aviator (YC S21) is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-04-10, 18:48:51](https://news.ycombinator.com/item?id=35515873) - [Keycloak with PostgreSQL on Kubernetes](https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/)
 * [2023-04-10, 17:59:22](https://news.ycombinator.com/item?id=35515230) - [Passing the Reins on Panfrost](https://rosenzweig.io/blog/passing-reins-panfrost.html)
@@ -21,7 +23,6 @@
 * [2023-04-10, 12:58:07](https://news.ycombinator.com/item?id=35511713) - [Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918)
 * [2023-04-10, 12:46:40](https://news.ycombinator.com/item?id=35511621) - [Rare corn can self-fertilise [video]](https://www.youtube.com/watch?v=CFyd-kC6IUw)
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
-* [2023-04-10, 11:47:01](https://news.ycombinator.com/item?id=35511240) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 * [2023-04-10, 11:31:07](https://news.ycombinator.com/item?id=35511152) - [What I&#x27;ve Learned About Formal Methods in Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
 * [2023-04-10, 11:22:27](https://news.ycombinator.com/item?id=35511106) - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-04-10, 11:11:29](https://news.ycombinator.com/item?id=35511052) - [Dashcam footage shows driverless cars clogging San Francisco](https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/)
@@ -29,7 +30,6 @@
 * [2023-04-10, 09:19:13](https://news.ycombinator.com/item?id=35510516) - [Personal Concierge Using OpenAI&#x27;s ChatGPT via Telegram and Voice Messages](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 * [2023-04-10, 07:46:51](https://news.ycombinator.com/item?id=35510055) - [Why don&#x27;t we define “imaginary” numbers for every “impossibility”? (2012)](https://math.stackexchange.com/questions/259584/why-dont-we-define-imaginary-numbers-for-every-impossibility)
-* [2023-04-09, 16:40:34](https://news.ycombinator.com/item?id=35504300) - [India’s Tigers Bounce Back](https://www.nytimes.com/2023/04/09/world/asia/india-tiger-conservation-success.html)
 
 ## [Archives](archives/index.md)
 
