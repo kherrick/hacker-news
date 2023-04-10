@@ -34,6 +34,7 @@
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
 * [2023-04-09, 16:54:04](https://news.ycombinator.com/item?id=35504402) - [Closing a Stale SSH Connection](https://davidisaksson.dev/posts/closing-stale-ssh-connections/)
 * [2023-04-09, 16:48:15](https://news.ycombinator.com/item?id=35504351) - [Inline in Rust](https://matklad.github.io/2021/07/09/inline-in-rust.html)
+* [2023-04-09, 16:40:34](https://news.ycombinator.com/item?id=35504300) - [Dangerously Scarce 50 Years Ago, India’s Tigers Bounce Back](https://www.nytimes.com/2023/04/09/world/asia/india-tiger-conservation-success.html)
 * [2023-04-09, 16:37:16](https://news.ycombinator.com/item?id=35504268) - [Tesla employees shared private footage from customers&#x27; cars, lawsuit says](https://www.washingtonpost.com/business/2023/04/08/tesla-sued-employees-sharing-footage/)
 * [2023-04-09, 16:34:57](https://news.ycombinator.com/item?id=35504249) - [Lawyers cough up $200k after health data stolen in Microsoft Exchange pillaging](https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/)
 * [2023-04-09, 16:18:22](https://news.ycombinator.com/item?id=35504099) - [Human and AI co-author the sci-fi novel:“The Nexus Fallacy”](https://fernandoamaral.org/the-nexus-fallacy-chapter-2/)

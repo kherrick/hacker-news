@@ -6,6 +6,8 @@
 
 * [2023-04-10, 15:41:20](https://news.ycombinator.com/item?id=35513643) - [Previously unknown isotope of uranium discovered](https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html)
 * [2023-04-10, 15:38:02](https://news.ycombinator.com/item?id=35513612) - [The biggest EV battery recycling plant in the US is open for business](https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business)
+* [2023-04-10, 15:36:52](https://news.ycombinator.com/item?id=35513595) - [Everybody is the main character](https://blog.sbensu.com/posts/everybody-is-the-main-character/)
+* [2023-04-10, 14:33:19](https://news.ycombinator.com/item?id=35512814) - [1k Photos of Dolphin Fins](https://www.beautifulpublicdata.com/1000-photos-of-dolphin-fins/)
 * [2023-04-10, 14:32:22](https://news.ycombinator.com/item?id=35512798) - [US Bank Lending Slumps by Most on Record in Final Weeks of March](https://finance.yahoo.com/news/us-bank-lending-slumps-most-210839551.html)
 * [2023-04-10, 14:01:28](https://news.ycombinator.com/item?id=35512412) - [OpenBSD 7.3 Released](https://undeadly.org/cgi?action=article;sid=20230410140049)
 * [2023-04-10, 14:00:59](https://news.ycombinator.com/item?id=35512401) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
