@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-10, 04:27:51",
+      "https://news.ycombinator.com/item?id=35509175"
+    ],
+    [
+      "Hell Never Ends on x86: The Hyperspace Story, Continued, Sort Of",
+      "https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 03:30:53",
       "https://news.ycombinator.com/item?id=35508903"
     ],
@@ -11,21 +21,11 @@
   ],
   [
     [
-      "2023-04-10, 03:21:59",
-      "https://news.ycombinator.com/item?id=35508857"
-    ],
-    [
-      "DoctorGPT brings GPT into production for error diagnosing",
-      "https://github.com/ingyamilmolinar/doctorgpt"
-    ]
-  ],
-  [
-    [
       "2023-04-10, 02:47:02",
       "https://news.ycombinator.com/item?id=35508677"
     ],
     [
-      "Deep in Florida, an ecological disaster has been reversed, wildlife is thriving",
+      "The Kissimmee River has been brought back to life, and wildlife is thriving",
       "https://www.nationalgeographic.com/environment/article/kissimmee-biggest-river-restoration-ever-completed"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=35507933"
     ],
     [
-      "Using RP2040 DMA+PIO to drive a poorly-designed but cheap display from waveshare",
+      "Using RP2040 PIO to drive a poorly-designed displa",
       "http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines"
     ]
   ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2023-04-09, 12:41:38",
-      "https://news.ycombinator.com/item?id=35502187"
-    ],
-    [
-      "From deep to long learning?",
-      "https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning"
-    ]
-  ],
-  [
-    [
       "2023-04-09, 10:14:57",
       "https://news.ycombinator.com/item?id=35501337"
     ],
@@ -297,6 +287,16 @@
     [
       "Lessons Learned About One-Way, Dataflow Constraints in Garnet and Amulet (2001) [pdf]",
       "https://www.isi.edu/~szekely/contents/papers/2001/lessons-learned-2002toplas.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 02:53:15",
+      "https://news.ycombinator.com/item?id=35499692"
+    ],
+    [
+      "Stock-market investors can no longer count on the ‘index effect’",
+      "https://www.wsj.com/articles/investors-cant-count-on-index-effect-ca57fd5f"
     ]
   ]
 ]
