@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 16:15:35](https://news.ycombinator.com/item?id=35514002) - [AWS Amplify Is a Grift](https://samthor.au/2023/aws-amplify-is-a-grift/)
 * [2023-04-10, 16:00:55](https://news.ycombinator.com/item?id=35513852) - [P &lt; 0.05 Considered Harmful](https://simplicityissota.substack.com/p/p-005-considered-harmful)
 * [2023-04-10, 15:41:20](https://news.ycombinator.com/item?id=35513643) - [Previously unknown isotope of uranium discovered](https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html)
 * [2023-04-10, 15:40:42](https://news.ycombinator.com/item?id=35513636) - [I Fixed a Parasitic Drain on My Car in 408 Days](https://davidmuller.github.io/posts/2023/04/10/how-i-fixed-a-parasitic-drain-in-408-days.html)
@@ -23,6 +24,7 @@
 * [2023-04-10, 13:15:17](https://news.ycombinator.com/item?id=35511879) - [Never Give Money to Charity](https://torturechambersmalltalk.substack.com/p/never-give-money-to-charity)
 * [2023-04-10, 13:09:29](https://news.ycombinator.com/item?id=35511830) - [TSMC Sales Miss for Second Straight Quarter on Tepid Demand](https://www.bloomberg.com/news/articles/2023-04-10/tsmc-sales-miss-for-second-straight-quarter-on-tepid-tech-demand)
 * [2023-04-10, 12:58:25](https://news.ycombinator.com/item?id=35511717) - [How to Get Started in Soldering for Beginners](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)
+* [2023-04-10, 12:58:07](https://news.ycombinator.com/item?id=35511713) - [Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918)
 * [2023-04-10, 12:51:13](https://news.ycombinator.com/item?id=35511653) - [Software Forge Performance Index](https://forgeperf.org/)
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 * [2023-04-10, 12:02:22](https://news.ycombinator.com/item?id=35511332) - [Heat pump disappointment for climate-minded Massachusetts state senator](https://willbrownsberger.com/heat-pump-disappointment/)

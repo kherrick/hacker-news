@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 16:15:35](https://news.ycombinator.com/item?id=35514002) - [AWS Amplify Is a Grift](https://samthor.au/2023/aws-amplify-is-a-grift/)
 * [2023-04-10, 16:00:55](https://news.ycombinator.com/item?id=35513852) - [P &lt; 0.05 Considered Harmful](https://simplicityissota.substack.com/p/p-005-considered-harmful)
 * [2023-04-10, 15:41:20](https://news.ycombinator.com/item?id=35513643) - [Previously unknown isotope of uranium discovered](https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html)
 * [2023-04-10, 15:40:42](https://news.ycombinator.com/item?id=35513636) - [I Fixed a Parasitic Drain on My Car in 408 Days](https://davidmuller.github.io/posts/2023/04/10/how-i-fixed-a-parasitic-drain-in-408-days.html)
@@ -12,7 +13,7 @@
 * [2023-04-10, 14:00:59](https://news.ycombinator.com/item?id=35512401) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 13:55:53](https://news.ycombinator.com/item?id=35512338) - [Ask HN: Open source LLM for commercial use?](https://news.ycombinator.com/item?id=35512338)
 * [2023-04-10, 12:58:25](https://news.ycombinator.com/item?id=35511717) - [How to Get Started in Soldering for Beginners](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)
-* [2023-04-10, 12:51:13](https://news.ycombinator.com/item?id=35511653) - [Software Forge Performance Index](https://forgeperf.org/)
+* [2023-04-10, 12:58:07](https://news.ycombinator.com/item?id=35511713) - [Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918)
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 * [2023-04-10, 11:47:01](https://news.ycombinator.com/item?id=35511240) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 * [2023-04-10, 11:31:07](https://news.ycombinator.com/item?id=35511152) - [What I&#x27;ve Learned About Formal Methods in Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
@@ -28,7 +29,6 @@
 * [2023-04-10, 05:23:28](https://news.ycombinator.com/item?id=35509429) - [EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion](https://github.com/sail-sg/EditAnything)
 * [2023-04-10, 04:27:51](https://news.ycombinator.com/item?id=35509175) - [Hell Never Ends on x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-10, 04:18:15](https://news.ycombinator.com/item?id=35509132) - [Dancing Plague of 1518](https://en.wikipedia.org/wiki/Dancing_plague_of_1518)
-* [2023-04-10, 03:30:53](https://news.ycombinator.com/item?id=35508903) - [Senior Frontend Engineer at Justpaid.io (YC W23)](https://www.ycombinator.com/companies/justpaid-io/jobs/p9N5Zog-senior-frontend-software-engineer-contract-to-hire)
 * [2023-04-09, 16:40:34](https://news.ycombinator.com/item?id=35504300) - [Dangerously Scarce 50 Years Ago, India’s Tigers Bounce Back](https://www.nytimes.com/2023/04/09/world/asia/india-tiger-conservation-success.html)
 
 ## [Archives](archives/index.md)
