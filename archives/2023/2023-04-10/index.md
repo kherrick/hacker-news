@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 21:32:13](https://news.ycombinator.com/item?id=35517649) - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 * [2023-04-10, 21:30:09](https://news.ycombinator.com/item?id=35517629) - [Al Jaffee, King of the Mad Magazine Fold-In, Dies at 102](https://www.nytimes.com/2023/04/10/arts/al-jaffee-dead.html)
 * [2023-04-10, 21:01:08](https://news.ycombinator.com/item?id=35517364) - [Aviator (YC S21) is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-04-10, 19:09:07](https://news.ycombinator.com/item?id=35516100) - [Lawsuits Are the Hitman of the State](https://betonit.substack.com/p/lawsuits-are-the-deep-state)
