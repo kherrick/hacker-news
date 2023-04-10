@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=35514002"
     ],
     [
-      "AWS Amplify Is a Grift",
+      "Problems with AWS Amplify and its use of DynamoDB",
       "https://samthor.au/2023/aws-amplify-is-a-grift/"
     ]
   ],
@@ -117,16 +117,6 @@
     [
       "New study sheds light on how amino acids “evolved”",
       "https://www.salon.com/2023/03/01/first-life-on-earth-amino-acid-study/"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 15:29:24",
-      "https://news.ycombinator.com/item?id=35513510"
-    ],
-    [
-      "On Efficient Training of Large-Scale Deep Learning Models: A Literature Review",
-      "https://arxiv.org/abs/2304.03589"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2023-04-10, 05:23:28",
-      "https://news.ycombinator.com/item?id=35509429"
+      "2023-04-10, 07:46:51",
+      "https://news.ycombinator.com/item?id=35510055"
     ],
     [
-      "EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion",
-      "https://github.com/sail-sg/EditAnything"
+      "Why don&#x27;t we define “imaginary” numbers for every “impossibility”? (2012)",
+      "https://math.stackexchange.com/questions/259584/why-dont-we-define-imaginary-numbers-for-every-impossibility"
+    ]
+  ],
+  [
+    [
+      "2023-04-10, 02:31:20",
+      "https://news.ycombinator.com/item?id=35508582"
+    ],
+    [
+      "With Sobering Science, Doctor Debunks 12-Step Recovery (2014)",
+      "https://www.npr.org/2014/03/23/291405829/with-sobering-science-doctor-debunks-12-step-recovery"
     ]
   ],
   [
