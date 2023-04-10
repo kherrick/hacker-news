@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 15:41:20](https://news.ycombinator.com/item?id=35513643) - [Previously unknown isotope of uranium discovered](https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html)
+* [2023-04-10, 15:38:02](https://news.ycombinator.com/item?id=35513612) - [The biggest EV battery recycling plant in the US is open for business](https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business)
 * [2023-04-10, 14:00:59](https://news.ycombinator.com/item?id=35512401) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 13:55:53](https://news.ycombinator.com/item?id=35512338) - [Ask HN: Open source LLM for commercial use?](https://news.ycombinator.com/item?id=35512338)
 * [2023-04-10, 13:29:24](https://news.ycombinator.com/item?id=35512035) - [My controversial diatribe against “skeptics” (2016)](https://johnhorgan.org/cross-check/my-controversial-diatribe-against-skeptics)
@@ -14,7 +16,6 @@
 * [2023-04-10, 11:22:27](https://news.ycombinator.com/item?id=35511106) - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-04-10, 11:10:32](https://news.ycombinator.com/item?id=35511047) - [Night of the living brain fog dead or how I hacked myself better via open source](https://decodebytes.substack.com/p/night-of-the-living-brain-fog-dead)
 * [2023-04-10, 10:44:01](https://news.ycombinator.com/item?id=35510899) - [static_assert is all you need (no leaks, no UB)](https://twitter.com/krisjusiak/status/1645360641538945025)
-* [2023-04-10, 10:24:31](https://news.ycombinator.com/item?id=35510800) - [Are We &lt;Thing&gt; Yet?](https://wiki.mozilla.org/Areweyet)
 * [2023-04-10, 09:40:08](https://news.ycombinator.com/item?id=35510612) - [Apple’s plunge in PC shipments is steepest among major computer makers](https://www.bloomberg.com/news/articles/2023-04-10/apple-s-40-plunge-leads-pc-shipments-down-as-tech-demand-sags)
 * [2023-04-10, 09:20:22](https://news.ycombinator.com/item?id=35510524) - [Online 8086 Emulator](https://yjdoc2.github.io/8086-emulator-web/)
 * [2023-04-10, 09:19:13](https://news.ycombinator.com/item?id=35510516) - [Personal Concierge Using OpenAI&#x27;s ChatGPT via Telegram and Voice Messages](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
@@ -28,7 +29,6 @@
 * [2023-04-10, 03:30:53](https://news.ycombinator.com/item?id=35508903) - [Senior Frontend Engineer at Justpaid.io (YC W23)](https://www.ycombinator.com/companies/justpaid-io/jobs/p9N5Zog-senior-frontend-software-engineer-contract-to-hire)
 * [2023-04-10, 00:43:24](https://news.ycombinator.com/item?id=35507933) - [Using RP2040 PIO to drive a poorly-designed displa](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 * [2023-04-09, 22:16:39](https://news.ycombinator.com/item?id=35507001) - [REBL](https://docs.datomic.com/cloud/other-tools/REBL.html)
-* [2023-04-09, 21:02:49](https://news.ycombinator.com/item?id=35506448) - [I think faster than light travel is possible [video]](http://backreaction.blogspot.com/2023/04/i-think-faster-than-light-travel-is.html)
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
 
 ## [Archives](archives/index.md)
