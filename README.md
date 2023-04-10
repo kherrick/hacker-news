@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-10, 19:09:07](https://news.ycombinator.com/item?id=35516100) - [Lawsuits Are the Hitman of the State](https://betonit.substack.com/p/lawsuits-are-the-deep-state)
 * [2023-04-10, 18:48:51](https://news.ycombinator.com/item?id=35515873) - [Keycloak with PostgreSQL on Kubernetes](https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/)
 * [2023-04-10, 18:34:13](https://news.ycombinator.com/item?id=35515676) - [AI Can&#x27;t Take over Everyone&#x27;s Jobs Soon (If Ever)](https://spectrum.ieee.org/ai-taking-over-jobs)
 * [2023-04-10, 17:58:07](https://news.ycombinator.com/item?id=35515208) - [Teaching ChatGPT to Speak My Son’s Invented Language](https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05)
@@ -10,6 +9,7 @@
 * [2023-04-10, 16:45:37](https://news.ycombinator.com/item?id=35514294) - [FTX stored private keys to crypto assets in plaintext, without access controls](https://twitter.com/molly0xFFF/status/1645217786698903559)
 * [2023-04-10, 16:38:20](https://news.ycombinator.com/item?id=35514228) - [DyLoRA: Parameter Efficient Tuning of Pre-Trained Models](https://arxiv.org/abs/2210.07558)
 * [2023-04-10, 16:15:35](https://news.ycombinator.com/item?id=35514002) - [Problems with AWS Amplify and its use of DynamoDB](https://samthor.au/2023/aws-amplify-is-a-grift/)
+* [2023-04-10, 16:00:55](https://news.ycombinator.com/item?id=35513852) - [P &lt; 0.05 Considered Harmful](https://simplicityissota.substack.com/p/p-005-considered-harmful)
 * [2023-04-10, 15:41:20](https://news.ycombinator.com/item?id=35513643) - [Previously unknown isotope of uranium discovered](https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html)
 * [2023-04-10, 15:40:42](https://news.ycombinator.com/item?id=35513636) - [I fixed a parasitic drain on my car in 408 days](https://davidmuller.github.io/posts/2023/04/10/how-i-fixed-a-parasitic-drain-in-408-days.html)
 * [2023-04-10, 15:38:02](https://news.ycombinator.com/item?id=35513612) - [The biggest EV battery recycling plant in the US is open for business](https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business)
@@ -21,6 +21,7 @@
 * [2023-04-10, 12:58:07](https://news.ycombinator.com/item?id=35511713) - [Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918)
 * [2023-04-10, 12:46:40](https://news.ycombinator.com/item?id=35511621) - [Rare corn can self-fertilise [video]](https://www.youtube.com/watch?v=CFyd-kC6IUw)
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
+* [2023-04-10, 11:47:01](https://news.ycombinator.com/item?id=35511240) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 * [2023-04-10, 11:31:07](https://news.ycombinator.com/item?id=35511152) - [What I&#x27;ve Learned About Formal Methods in Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
 * [2023-04-10, 11:22:27](https://news.ycombinator.com/item?id=35511106) - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-04-10, 11:11:29](https://news.ycombinator.com/item?id=35511052) - [Dashcam footage shows driverless cars clogging San Francisco](https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/)
@@ -28,7 +29,6 @@
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 * [2023-04-10, 07:46:51](https://news.ycombinator.com/item?id=35510055) - [Why don&#x27;t we define “imaginary” numbers for every “impossibility”? (2012)](https://math.stackexchange.com/questions/259584/why-dont-we-define-imaginary-numbers-for-every-impossibility)
 * [2023-04-10, 07:10:03](https://news.ycombinator.com/item?id=35509887) - [The Epic Story of Container Shipping (2009)](https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/)
-* [2023-04-10, 02:31:20](https://news.ycombinator.com/item?id=35508582) - [With Sobering Science, Doctor Debunks 12-Step Recovery (2014)](https://www.npr.org/2014/03/23/291405829/with-sobering-science-doctor-debunks-12-step-recovery)
 * [2023-04-09, 16:40:34](https://news.ycombinator.com/item?id=35504300) - [India’s Tigers Bounce Back](https://www.nytimes.com/2023/04/09/world/asia/india-tiger-conservation-success.html)
 
 ## [Archives](archives/index.md)
