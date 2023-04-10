@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 13:09:29](https://news.ycombinator.com/item?id=35511830) - [TSMC Sales Miss for Second Straight Quarter on Tepid Demand](https://www.bloomberg.com/news/articles/2023-04-10/tsmc-sales-miss-for-second-straight-quarter-on-tepid-tech-demand)
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 * [2023-04-10, 12:02:22](https://news.ycombinator.com/item?id=35511332) - [Heat pump disappointment for climate-minded Massachusetts state senator](https://willbrownsberger.com/heat-pump-disappointment/)
 * [2023-04-10, 11:47:01](https://news.ycombinator.com/item?id=35511240) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)

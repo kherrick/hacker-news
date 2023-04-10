@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 13:09:29](https://news.ycombinator.com/item?id=35511830) - [TSMC Sales Miss for Second Straight Quarter on Tepid Demand](https://www.bloomberg.com/news/articles/2023-04-10/tsmc-sales-miss-for-second-straight-quarter-on-tepid-tech-demand)
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 * [2023-04-10, 12:02:22](https://news.ycombinator.com/item?id=35511332) - [Heat pump disappointment for climate-minded Massachusetts state senator](https://willbrownsberger.com/heat-pump-disappointment/)
 * [2023-04-10, 11:47:01](https://news.ycombinator.com/item?id=35511240) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
@@ -17,7 +18,6 @@
 * [2023-04-10, 07:53:50](https://news.ycombinator.com/item?id=35510095) - [Machine Yearning](http://www.linusakesson.net/scene/machine-yearning/index.php)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 * [2023-04-10, 07:46:51](https://news.ycombinator.com/item?id=35510055) - [Why don&#x27;t we define “imaginary” numbers for every “impossibility”? (2012)](https://math.stackexchange.com/questions/259584/why-dont-we-define-imaginary-numbers-for-every-impossibility)
-* [2023-04-10, 07:46:15](https://news.ycombinator.com/item?id=35510052) - [Column-Oriented Row Reduction](http://bitmath.blogspot.com/2023/04/column-oriented-row-reduction.html)
 * [2023-04-10, 05:23:28](https://news.ycombinator.com/item?id=35509429) - [EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion](https://github.com/sail-sg/EditAnything)
 * [2023-04-10, 04:27:51](https://news.ycombinator.com/item?id=35509175) - [Hell Never Ends on x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-10, 04:18:15](https://news.ycombinator.com/item?id=35509132) - [Dancing Plague of 1518](https://en.wikipedia.org/wiki/Dancing_plague_of_1518)
