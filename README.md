@@ -2,9 +2,9 @@
 
 * [2023-04-10, 14:01:28](https://news.ycombinator.com/item?id=35512412) - [OpenBSD 7.3 Released](https://undeadly.org/cgi?action=article;sid=20230410140049)
 * [2023-04-10, 14:00:59](https://news.ycombinator.com/item?id=35512401) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
+* [2023-04-10, 13:55:53](https://news.ycombinator.com/item?id=35512338) - [Ask HN: Open source LLM for commercial use?](https://news.ycombinator.com/item?id=35512338)
 * [2023-04-10, 13:38:37](https://news.ycombinator.com/item?id=35512121) - [The Pornography Paradox](https://www.theatlantic.com/magazine/archive/2023/05/anti-pornography-wars-book/673492/)
 * [2023-04-10, 13:29:24](https://news.ycombinator.com/item?id=35512035) - [My controversial diatribe against “skeptics” (2016)](https://johnhorgan.org/cross-check/my-controversial-diatribe-against-skeptics)
-* [2023-04-10, 13:15:17](https://news.ycombinator.com/item?id=35511879) - [Never Give Money to Charity](https://torturechambersmalltalk.substack.com/p/never-give-money-to-charity)
 * [2023-04-10, 13:09:29](https://news.ycombinator.com/item?id=35511830) - [TSMC Sales Miss for Second Straight Quarter on Tepid Demand](https://www.bloomberg.com/news/articles/2023-04-10/tsmc-sales-miss-for-second-straight-quarter-on-tepid-tech-demand)
 * [2023-04-10, 12:58:25](https://news.ycombinator.com/item?id=35511717) - [How to Get Started in Soldering for Beginners](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)
 * [2023-04-10, 12:51:13](https://news.ycombinator.com/item?id=35511653) - [Software Forge Performance Index](https://forgeperf.org/)
