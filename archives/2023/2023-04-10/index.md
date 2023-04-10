@@ -30,6 +30,7 @@
 * [2023-04-10, 14:00:59](https://news.ycombinator.com/item?id=35512401) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 13:55:53](https://news.ycombinator.com/item?id=35512338) - [Ask HN: Open source LLM for commercial use?](https://news.ycombinator.com/item?id=35512338)
 * [2023-04-10, 13:38:37](https://news.ycombinator.com/item?id=35512121) - [The Pornography Paradox](https://www.theatlantic.com/magazine/archive/2023/05/anti-pornography-wars-book/673492/)
+* [2023-04-10, 13:34:59](https://news.ycombinator.com/item?id=35512081) - [If you’ve raised venture capital, you have to pay yourself](https://techcrunch.com/2023/04/09/f-you-pay-me/)
 * [2023-04-10, 13:29:24](https://news.ycombinator.com/item?id=35512035) - [My Controversial Diatribe Against “Skeptics”](https://johnhorgan.org/cross-check/my-controversial-diatribe-against-skeptics)
 * [2023-04-10, 13:28:08](https://news.ycombinator.com/item?id=35512025) - [Up (Film Series)](https://en.wikipedia.org/wiki/Up_(film_series))
 * [2023-04-10, 13:15:17](https://news.ycombinator.com/item?id=35511879) - [Never Give Money to Charity](https://torturechambersmalltalk.substack.com/p/never-give-money-to-charity)
