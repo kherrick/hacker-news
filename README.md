@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 03:30:53](https://news.ycombinator.com/item?id=35508903) - [Senior Frontend Engineer at Justpaid.io (YC W23)](https://www.ycombinator.com/companies/justpaid-io/jobs/p9N5Zog-senior-frontend-software-engineer-contract-to-hire)
 * [2023-04-10, 02:47:02](https://news.ycombinator.com/item?id=35508677) - [Deep in Florida, an ecological disaster has been reversed, wildlife is thriving](https://www.nationalgeographic.com/environment/article/kissimmee-biggest-river-restoration-ever-completed)
 * [2023-04-10, 01:37:17](https://news.ycombinator.com/item?id=35508281) - [Bivector.net: Geometric Algebra Resources](https://bivector.net/)
 * [2023-04-10, 01:04:08](https://news.ycombinator.com/item?id=35508071) - [Stanford benchmarks and compares numerous Large Language Models](https://crfm.stanford.edu/helm/latest/?group=core_scenarios)
@@ -28,7 +29,6 @@
 * [2023-04-09, 12:50:39](https://news.ycombinator.com/item?id=35502248) - [New Mexico is losing a form of Spanish spoken nowhere else](https://www.nytimes.com/2023/04/09/us/new-mexico-spanish.html)
 * [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From deep to long learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * [2023-04-09, 10:14:57](https://news.ycombinator.com/item?id=35501337) - [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/V01/SceneView/intro_c.html)
-* [2023-04-09, 09:23:19](https://news.ycombinator.com/item?id=35501109) - [Show HN: Shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
 * [2023-04-09, 05:41:00](https://news.ycombinator.com/item?id=35500309) - [Chased by One’s Own Tail](https://gbracha.blogspot.com/2009/12/chased-by-ones-own-tail.html)
 
 ## [Archives](archives/index.md)
