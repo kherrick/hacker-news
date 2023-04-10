@@ -4,6 +4,7 @@
 * [2023-04-10, 09:19:13](https://news.ycombinator.com/item?id=35510516) - [Personal Concierge Using OpenAI&#x27;s ChatGPT via Telegram and Voice Messages](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
 * [2023-04-10, 08:55:22](https://news.ycombinator.com/item?id=35510413) - [Hacker News Ranking Algorithm](https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
+* [2023-04-10, 06:44:58](https://news.ycombinator.com/item?id=35509765) - [How do so many talentless people end up getting funded and running startups?](https://news.ycombinator.com/item?id=35509765)
 * [2023-04-10, 05:23:28](https://news.ycombinator.com/item?id=35509429) - [EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion](https://github.com/sail-sg/EditAnything)
 * [2023-04-10, 04:27:51](https://news.ycombinator.com/item?id=35509175) - [Hell Never Ends on x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-10, 04:18:15](https://news.ycombinator.com/item?id=35509132) - [Dancing Plague of 1518](https://en.wikipedia.org/wiki/Dancing_plague_of_1518)
@@ -27,7 +28,6 @@
 * [2023-04-09, 13:47:54](https://news.ycombinator.com/item?id=35502693) - [The Apple II Age: How the Computer Became Personal](http://www.lainenooney.com/the-apple-ii-age.html)
 * [2023-04-09, 13:09:29](https://news.ycombinator.com/item?id=35502389) - [Nam: Neural network emulator for guitar amplifiers](https://github.com/sdatkinson/neural-amp-modeler)
 * [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From deep to long learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
-* [2023-04-09, 12:04:37](https://news.ycombinator.com/item?id=35501937) - [EY gets banned from new audit business in Germany](https://www.economist.com/business/2023/04/05/ey-gets-banned-from-new-audit-business-in-germany)
 * [2023-04-09, 10:14:57](https://news.ycombinator.com/item?id=35501337) - [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/V01/SceneView/intro_c.html)
 * [2023-04-09, 08:01:26](https://news.ycombinator.com/item?id=35500804) - [Lessons Learned About One-Way, Dataflow Constraints in Garnet and Amulet (2001) [pdf]](https://www.isi.edu/~szekely/contents/papers/2001/lessons-learned-2002toplas.pdf)
 

@@ -8,6 +8,7 @@
 * [2023-04-10, 09:19:13](https://news.ycombinator.com/item?id=35510516) - [Personal Concierge Using OpenAI&#x27;s ChatGPT via Telegram and Voice Messages](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
 * [2023-04-10, 08:55:22](https://news.ycombinator.com/item?id=35510413) - [Hacker News Ranking Algorithm](https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
+* [2023-04-10, 06:44:58](https://news.ycombinator.com/item?id=35509765) - [How do so many talentless people end up getting funded and running startups?](https://news.ycombinator.com/item?id=35509765)
 * [2023-04-10, 06:12:16](https://news.ycombinator.com/item?id=35509640) - [Japan eyes AI adoption as OpenAI CEO visits PM Kishida, talks up local expansion](https://www.reuters.com/technology/japan-eyes-government-ai-adoption-openai-ceo-mulls-opening-office-2023-04-10/)
 * [2023-04-10, 05:23:28](https://news.ycombinator.com/item?id=35509429) - [EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion](https://github.com/sail-sg/EditAnything)
 * [2023-04-10, 04:27:51](https://news.ycombinator.com/item?id=35509175) - [Hell Never Ends on x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
