@@ -2,7 +2,6 @@
 
 * [2023-04-10, 13:09:29](https://news.ycombinator.com/item?id=35511830) - [TSMC Sales Miss for Second Straight Quarter on Tepid Demand](https://www.bloomberg.com/news/articles/2023-04-10/tsmc-sales-miss-for-second-straight-quarter-on-tepid-tech-demand)
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
-* [2023-04-10, 12:02:22](https://news.ycombinator.com/item?id=35511332) - [Heat pump disappointment for climate-minded Massachusetts state senator](https://willbrownsberger.com/heat-pump-disappointment/)
 * [2023-04-10, 11:47:01](https://news.ycombinator.com/item?id=35511240) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 * [2023-04-10, 11:31:07](https://news.ycombinator.com/item?id=35511152) - [What I&#x27;ve Learned About Formal Methods in Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
 * [2023-04-10, 11:29:07](https://news.ycombinator.com/item?id=35511139) - [Zoomable, animated scatterplots in the browser that scales over a billion points](https://github.com/nomic-ai/deepscatter)
@@ -11,6 +10,7 @@
 * [2023-04-10, 11:10:32](https://news.ycombinator.com/item?id=35511047) - [Night of the living brain fog dead or how I hacked myself better via open source](https://decodebytes.substack.com/p/night-of-the-living-brain-fog-dead)
 * [2023-04-10, 10:44:01](https://news.ycombinator.com/item?id=35510899) - [static_assert is all you need (no leaks, no UB)](https://twitter.com/krisjusiak/status/1645360641538945025)
 * [2023-04-10, 10:24:31](https://news.ycombinator.com/item?id=35510800) - [Are We &lt;Thing&gt; Yet?](https://wiki.mozilla.org/Areweyet)
+* [2023-04-10, 10:07:36](https://news.ycombinator.com/item?id=35510724) - [The Real-World Costs of the Digital Race for Bitcoin](https://www.nytimes.com/2023/04/09/business/bitcoin-mining-electricity-pollution.html)
 * [2023-04-10, 09:20:22](https://news.ycombinator.com/item?id=35510524) - [Online 8086 Emulator](https://yjdoc2.github.io/8086-emulator-web/)
 * [2023-04-10, 09:19:13](https://news.ycombinator.com/item?id=35510516) - [Personal Concierge Using OpenAI&#x27;s ChatGPT via Telegram and Voice Messages](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
 * [2023-04-10, 08:58:32](https://news.ycombinator.com/item?id=35510430) - [The carbon footprint of foods: differences explained by the impacts of methane?](https://ourworldindata.org/carbon-footprint-food-methane)
