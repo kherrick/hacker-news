@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-10, 13:29:24](https://news.ycombinator.com/item?id=35512035) - [My Controversial Diatribe Against “Skeptics”](https://johnhorgan.org/cross-check/my-controversial-diatribe-against-skeptics)
-* [2023-04-10, 13:28:08](https://news.ycombinator.com/item?id=35512025) - [Up (Film Series)](https://en.wikipedia.org/wiki/Up_(film_series))
+* [2023-04-10, 13:38:37](https://news.ycombinator.com/item?id=35512121) - [The Pornography Paradox](https://www.theatlantic.com/magazine/archive/2023/05/anti-pornography-wars-book/673492/)
+* [2023-04-10, 13:29:24](https://news.ycombinator.com/item?id=35512035) - [My controversial diatribe against “skeptics” (2016)](https://johnhorgan.org/cross-check/my-controversial-diatribe-against-skeptics)
+* [2023-04-10, 13:15:17](https://news.ycombinator.com/item?id=35511879) - [Never Give Money to Charity](https://torturechambersmalltalk.substack.com/p/never-give-money-to-charity)
 * [2023-04-10, 13:09:29](https://news.ycombinator.com/item?id=35511830) - [TSMC Sales Miss for Second Straight Quarter on Tepid Demand](https://www.bloomberg.com/news/articles/2023-04-10/tsmc-sales-miss-for-second-straight-quarter-on-tepid-tech-demand)
 * [2023-04-10, 12:58:25](https://news.ycombinator.com/item?id=35511717) - [How to Get Started in Soldering for Beginners](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)
+* [2023-04-10, 12:51:13](https://news.ycombinator.com/item?id=35511653) - [Software Forge Performance Index](https://forgeperf.org/)
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 * [2023-04-10, 11:47:01](https://news.ycombinator.com/item?id=35511240) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 * [2023-04-10, 11:31:07](https://news.ycombinator.com/item?id=35511152) - [What I&#x27;ve Learned About Formal Methods in Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
@@ -28,8 +30,6 @@
 * [2023-04-09, 23:38:53](https://news.ycombinator.com/item?id=35507558) - [ArmorPaint and ArmorLab: open-source alternative to Adobe Substance](https://armorpaint.org/)
 * [2023-04-09, 22:16:39](https://news.ycombinator.com/item?id=35507001) - [REBL](https://docs.datomic.com/cloud/other-tools/REBL.html)
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
-* [2023-04-09, 13:47:54](https://news.ycombinator.com/item?id=35502693) - [The Apple II Age: How the Computer Became Personal](http://www.lainenooney.com/the-apple-ii-age.html)
-* [2023-04-09, 13:09:29](https://news.ycombinator.com/item?id=35502389) - [Nam: Neural network emulator for guitar amplifiers](https://github.com/sdatkinson/neural-amp-modeler)
 
 ## [Archives](archives/index.md)
 
