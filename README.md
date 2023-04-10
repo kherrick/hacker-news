@@ -6,6 +6,7 @@
 * [2023-04-10, 02:47:02](https://news.ycombinator.com/item?id=35508677) - [The Kissimmee River has been brought back to life, and wildlife is thriving](https://www.nationalgeographic.com/environment/article/kissimmee-biggest-river-restoration-ever-completed)
 * [2023-04-10, 01:04:08](https://news.ycombinator.com/item?id=35508071) - [Stanford benchmarks and compares numerous Large Language Models](https://crfm.stanford.edu/helm/latest/?group=core_scenarios)
 * [2023-04-10, 00:43:24](https://news.ycombinator.com/item?id=35507933) - [Using RP2040 PIO to drive a poorly-designed displa](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
+* [2023-04-10, 00:24:50](https://news.ycombinator.com/item?id=35507814) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 * [2023-04-10, 00:06:53](https://news.ycombinator.com/item?id=35507688) - [Xylazine, a dangerous new drug fuelling Canada’s opioid crisis](https://macleans.ca/society/what-is-xylazine-the-dangerous-new-drug-fuelling-canadas-opioid-crisis/)
 * [2023-04-09, 23:38:53](https://news.ycombinator.com/item?id=35507558) - [ArmorPaint and ArmorLab: open-source alternative to Adobe Substance](https://armorpaint.org/)
 * [2023-04-09, 21:43:02](https://news.ycombinator.com/item?id=35506753) - [Mobile home park residents form co-ops to save their homes](https://mynorthwest.com/3872036/mobile-home-park-residents-form-co-ops-to-save-their-homes/)
@@ -29,7 +30,6 @@
 * [2023-04-09, 12:50:39](https://news.ycombinator.com/item?id=35502248) - [New Mexico is losing a form of Spanish spoken nowhere else](https://www.nytimes.com/2023/04/09/us/new-mexico-spanish.html)
 * [2023-04-09, 10:14:57](https://news.ycombinator.com/item?id=35501337) - [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/V01/SceneView/intro_c.html)
 * [2023-04-09, 08:01:26](https://news.ycombinator.com/item?id=35500804) - [Lessons Learned About One-Way, Dataflow Constraints in Garnet and Amulet (2001) [pdf]](https://www.isi.edu/~szekely/contents/papers/2001/lessons-learned-2002toplas.pdf)
-* [2023-04-09, 02:53:15](https://news.ycombinator.com/item?id=35499692) - [Stock-market investors can no longer count on the ‘index effect’](https://www.wsj.com/articles/investors-cant-count-on-index-effect-ca57fd5f)
 
 ## [Archives](archives/index.md)
 
