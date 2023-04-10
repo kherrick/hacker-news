@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-04-09, 20:43:47",
+      "https://news.ycombinator.com/item?id=35506304"
+    ],
+    [
+      "OpenVMS 9.2 for x86 is finally available for hobbyists",
+      "https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 20:35:33",
       "https://news.ycombinator.com/item?id=35506236"
     ],
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2023-04-09, 16:12:19",
-      "https://news.ycombinator.com/item?id=35504053"
-    ],
-    [
-      "Permafrost engine – An OpenGL RTS game engine written in C",
-      "https://github.com/eduard-permyakov/permafrost-engine"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 15:57:24",
-      "https://news.ycombinator.com/item?id=35503928"
-    ],
-    [
-      "Flatcar Container Linux",
-      "https://www.flatcar.org/"
-    ]
-  ],
-  [
-    [
       "2023-04-09, 14:50:16",
       "https://news.ycombinator.com/item?id=35503236"
     ],
@@ -277,6 +267,16 @@
     [
       "Nam: Neural network emulator for guitar amplifiers",
       "https://github.com/sdatkinson/neural-amp-modeler"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 12:41:38",
+      "https://news.ycombinator.com/item?id=35502187"
+    ],
+    [
+      "From deep to long learning?",
+      "https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning"
     ]
   ],
   [
