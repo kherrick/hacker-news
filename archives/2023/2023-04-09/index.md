@@ -52,6 +52,7 @@
 * [2023-04-09, 14:20:41](https://news.ycombinator.com/item?id=35502956) - [TIWiFiModem: Take your TI-83 Plus online [video]](https://www.youtube.com/watch?v=eg_J6N9MSCY)
 * [2023-04-09, 14:15:36](https://news.ycombinator.com/item?id=35502925) - [Getting the ^D](https://owengage.com/writing/2023-04-08-getting-the-ctrl-d/)
 * [2023-04-09, 14:09:19](https://news.ycombinator.com/item?id=35502874) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
+* [2023-04-09, 13:47:54](https://news.ycombinator.com/item?id=35502693) - [The Apple II Age: How the Computer Became Personal](http://www.lainenooney.com/the-apple-ii-age.html)
 * [2023-04-09, 13:46:55](https://news.ycombinator.com/item?id=35502684) - [Twitter Is Blocking Likes and Retweets that Mention Substack](https://flipboard.social/@Flipboard/110161362001035875)
 * [2023-04-09, 13:28:33](https://news.ycombinator.com/item?id=35502518) - [15% Price Increase for Microsoft Cloud Starting April 1, 2023](https://www.uscloud.com/blog/15-price-increase-for-microsoft-cloud-starting-april-1-2023/)
 * [2023-04-09, 13:25:53](https://news.ycombinator.com/item?id=35502503) - [Ask HN: What were the 2010s about?](https://news.ycombinator.com/item?id=35502503)
