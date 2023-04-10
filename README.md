@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 * [2023-04-10, 06:12:16](https://news.ycombinator.com/item?id=35509640) - [Japan eyes AI adoption as OpenAI CEO visits PM Kishida, talks up local expansion](https://www.reuters.com/technology/japan-eyes-government-ai-adoption-openai-ceo-mulls-opening-office-2023-04-10/)
 * [2023-04-10, 05:23:28](https://news.ycombinator.com/item?id=35509429) - [EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion](https://github.com/sail-sg/EditAnything)
 * [2023-04-10, 04:27:51](https://news.ycombinator.com/item?id=35509175) - [Hell Never Ends on x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
@@ -20,7 +21,6 @@
 * [2023-04-09, 18:49:48](https://news.ycombinator.com/item?id=35505342) - [Spherical tokamak achieves crucial plasma temperatures](https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/)
 * [2023-04-09, 18:34:47](https://news.ycombinator.com/item?id=35505239) - [Ideas That Changed My Life](https://perell.com/essay/50-ideas-that-changed-my-life/)
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
-* [2023-04-09, 16:54:04](https://news.ycombinator.com/item?id=35504402) - [Closing a stale SSH connection](https://davidisaksson.dev/posts/closing-stale-ssh-connections/)
 * [2023-04-09, 14:50:16](https://news.ycombinator.com/item?id=35503236) - [Exploring the Gameboy Memory Bank Controller (2020)](https://b13rg.github.io/Gameboy-MBC-Analysis/)
 * [2023-04-09, 14:15:36](https://news.ycombinator.com/item?id=35502925) - [Getting the ^D](https://owengage.com/writing/2023-04-08-getting-the-ctrl-d/)
 * [2023-04-09, 13:47:54](https://news.ycombinator.com/item?id=35502693) - [The Apple II Age: How the Computer Became Personal](http://www.lainenooney.com/the-apple-ii-age.html)
