@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 17:58:07](https://news.ycombinator.com/item?id=35515208) - [Teaching ChatGPT to Speak My Son’s Invented Language](https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05)
 * [2023-04-10, 17:26:19](https://news.ycombinator.com/item?id=35514799) - [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
 * [2023-04-10, 17:12:51](https://news.ycombinator.com/item?id=35514623) - [Why is GPT-3 15.77x more expensive for certain languages?](https://denyslinkov.medium.com/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc)
 * [2023-04-10, 17:01:07](https://news.ycombinator.com/item?id=35514470) - [Motion (YC W20) Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
@@ -24,7 +25,6 @@
 * [2023-04-10, 11:22:27](https://news.ycombinator.com/item?id=35511106) - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-04-10, 11:11:29](https://news.ycombinator.com/item?id=35511052) - [Dashcam footage shows driverless cars clogging San Francisco](https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/)
 * [2023-04-10, 11:10:32](https://news.ycombinator.com/item?id=35511047) - [Night of the living brain fog dead or how I hacked myself better via open source](https://decodebytes.substack.com/p/night-of-the-living-brain-fog-dead)
-* [2023-04-10, 10:44:01](https://news.ycombinator.com/item?id=35510899) - [static_assert is all you need (no leaks, no UB)](https://twitter.com/krisjusiak/status/1645360641538945025)
 * [2023-04-10, 09:19:13](https://news.ycombinator.com/item?id=35510516) - [Personal Concierge Using OpenAI&#x27;s ChatGPT via Telegram and Voice Messages](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 * [2023-04-10, 07:46:51](https://news.ycombinator.com/item?id=35510055) - [Why don&#x27;t we define “imaginary” numbers for every “impossibility”? (2012)](https://math.stackexchange.com/questions/259584/why-dont-we-define-imaginary-numbers-for-every-impossibility)
