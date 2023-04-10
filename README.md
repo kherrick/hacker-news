@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 00:06:53](https://news.ycombinator.com/item?id=35507688) - [What is xylazine, the dangerous new drug fuelling Canada’s opioid crisis?](https://macleans.ca/society/what-is-xylazine-the-dangerous-new-drug-fuelling-canadas-opioid-crisis/)
 * [2023-04-09, 22:29:38](https://news.ycombinator.com/item?id=35507099) - [At Stanford law school, the dean takes a stand for free speech. will it work?](https://www.nytimes.com/2023/04/09/us/stanford-law-school-free-speech.html)
 * [2023-04-09, 21:36:16](https://news.ycombinator.com/item?id=35506711) - [Laid-off tech workers choose stability over status](https://www.wsj.com/articles/as-tech-jobs-disappear-silicon-valley-veterans-reset-their-careers-dbdb983)
 * [2023-04-09, 21:08:55](https://news.ycombinator.com/item?id=35506485) - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
@@ -10,7 +11,6 @@
 * [2023-04-09, 20:10:49](https://news.ycombinator.com/item?id=35506009) - [What does a research grant pay for?](https://austinhenley.com/blog/grantbudget.html)
 * [2023-04-09, 19:34:45](https://news.ycombinator.com/item?id=35505693) - [The four-horse race to decarbonise steel](https://www.energymonitor.ai/sectors/industry/the-four-horse-race-to-decarbonise-steel/)
 * [2023-04-09, 19:22:07](https://news.ycombinator.com/item?id=35505591) - [UnicodePlots](https://github.com/JuliaPlots/UnicodePlots.jl)
-* [2023-04-09, 19:10:54](https://news.ycombinator.com/item?id=35505518) - [Street fighting engineers vs. martial arts engineers](https://ravitejakanta.substack.com/p/the-2-breeds-of-10x-engineers)
 * [2023-04-09, 18:49:48](https://news.ycombinator.com/item?id=35505342) - [Spherical tokamak achieves crucial plasma temperatures](https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/)
 * [2023-04-09, 18:34:47](https://news.ycombinator.com/item?id=35505239) - [Ideas That Changed My Life](https://perell.com/essay/50-ideas-that-changed-my-life/)
 * [2023-04-09, 16:57:31](https://news.ycombinator.com/item?id=35504428) - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
@@ -28,8 +28,8 @@
 * [2023-04-09, 11:50:11](https://news.ycombinator.com/item?id=35501845) - [A CERN for Open Source Large-Scale AI](https://www.openpetition.eu/petition/online/securing-our-digital-future-a-cern-for-open-source-large-scale-ai-research-and-its-safety)
 * [2023-04-09, 11:29:25](https://news.ycombinator.com/item?id=35501718) - [Show HN: Supavisor – a Postgres connection pooler written in Elixir](https://github.com/supabase/supavisor)
 * [2023-04-09, 09:23:19](https://news.ycombinator.com/item?id=35501109) - [Show HN: Shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
-* [2023-04-09, 09:14:26](https://news.ycombinator.com/item?id=35501065) - [PL&#x2F;Rust 1.0: now a trusted language for Postgres](https://tcdi.github.io/plrust/plrust.html)
-* [2023-04-09, 08:49:54](https://news.ycombinator.com/item?id=35500966) - [Sunset at the South Pole](https://brr.fyi/posts/sunset)
+* [2023-04-07, 18:56:05](https://news.ycombinator.com/item?id=35485524) - [The Creative Squiggle](https://koliber.com/articles/the-creative-squiggle)
+* [2023-04-07, 17:29:52](https://news.ycombinator.com/item?id=35484322) - [Haxe 4.3](https://haxe.org/download/)
 
 ## [Archives](archives/index.md)
 
