@@ -7,6 +7,7 @@
 * [2023-04-09, 23:38:53](https://news.ycombinator.com/item?id=35507558) - [ArmorPaint and ArmorLab: open-source alternative to Adobe Substance](https://armorpaint.org/)
 * [2023-04-09, 22:29:38](https://news.ycombinator.com/item?id=35507099) - [At Stanford law school, the dean takes a stand for free speech. will it work?](https://www.nytimes.com/2023/04/09/us/stanford-law-school-free-speech.html)
 * [2023-04-09, 22:14:37](https://news.ycombinator.com/item?id=35506983) - [Fine-tuning with LoRA: create your own avatars and styles](https://www.kix.in/2023/04/07/sd-lora-finetuning/)
+* [2023-04-09, 21:43:02](https://news.ycombinator.com/item?id=35506753) - [Mobile home park residents form co-ops to save their homes](https://mynorthwest.com/3872036/mobile-home-park-residents-form-co-ops-to-save-their-homes/)
 * [2023-04-09, 21:36:16](https://news.ycombinator.com/item?id=35506711) - [Laid-off tech workers choose stability over status](https://www.wsj.com/articles/as-tech-jobs-disappear-silicon-valley-veterans-reset-their-careers-dbdb983)
 * [2023-04-09, 21:08:55](https://news.ycombinator.com/item?id=35506485) - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 * [2023-04-09, 21:07:21](https://news.ycombinator.com/item?id=35506472) - [Large Language Models Are Human-Level Prompt Engineers](https://openreview.net/forum?id=92gvk82DE-)
