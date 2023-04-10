@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2023-04-10, 07:46:15",
+      "https://news.ycombinator.com/item?id=35510052"
+    ],
+    [
+      "Column-Oriented Row Reduction",
+      "http://bitmath.blogspot.com/2023/04/column-oriented-row-reduction.html"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 05:23:28",
       "https://news.ycombinator.com/item?id=35509429"
     ],
@@ -221,42 +231,22 @@
   ],
   [
     [
-      "2023-04-09, 20:17:10",
-      "https://news.ycombinator.com/item?id=35506069"
-    ],
-    [
-      "A Baby GPT",
-      "https://twitter.com/karpathy/status/1645115622517542913"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 20:10:49",
-      "https://news.ycombinator.com/item?id=35506009"
-    ],
-    [
-      "What does a research grant pay for?",
-      "https://austinhenley.com/blog/grantbudget.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 19:34:45",
-      "https://news.ycombinator.com/item?id=35505693"
-    ],
-    [
-      "The four-horse race to decarbonise steel",
-      "https://www.energymonitor.ai/sectors/industry/the-four-horse-race-to-decarbonise-steel/"
-    ]
-  ],
-  [
-    [
       "2023-04-09, 16:57:31",
       "https://news.ycombinator.com/item?id=35504428"
     ],
     [
       "The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT",
       "https://thesequence.substack.com/p/the-llama-effect-how-an-accidental"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 14:50:16",
+      "https://news.ycombinator.com/item?id=35503236"
+    ],
+    [
+      "Exploring the Gameboy Memory Bank Controller (2020)",
+      "https://b13rg.github.io/Gameboy-MBC-Analysis/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Nam: Neural network emulator for guitar amplifiers",
       "https://github.com/sdatkinson/neural-amp-modeler"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 12:41:38",
+      "https://news.ycombinator.com/item?id=35502187"
+    ],
+    [
+      "From deep to long learning?",
+      "https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning"
     ]
   ],
   [
