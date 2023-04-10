@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-10, 17:58:07",
+      "https://news.ycombinator.com/item?id=35515208"
+    ],
+    [
+      "Teaching ChatGPT to Speak My Son’s Invented Language",
+      "https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 17:26:19",
       "https://news.ycombinator.com/item?id=35514799"
     ],
@@ -237,16 +247,6 @@
     [
       "Night of the living brain fog dead or how I hacked myself better via open source",
       "https://decodebytes.substack.com/p/night-of-the-living-brain-fog-dead"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 10:44:01",
-      "https://news.ycombinator.com/item?id=35510899"
-    ],
-    [
-      "static_assert is all you need (no leaks, no UB)",
-      "https://twitter.com/krisjusiak/status/1645360641538945025"
     ]
   ],
   [
