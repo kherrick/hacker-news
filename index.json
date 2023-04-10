@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-10, 05:23:28",
+      "https://news.ycombinator.com/item?id=35509429"
+    ],
+    [
+      "EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion",
+      "https://github.com/sail-sg/EditAnything"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 04:27:51",
       "https://news.ycombinator.com/item?id=35509175"
     ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2023-04-09, 19:34:45",
+      "https://news.ycombinator.com/item?id=35505693"
+    ],
+    [
+      "The four-horse race to decarbonise steel",
+      "https://www.energymonitor.ai/sectors/industry/the-four-horse-race-to-decarbonise-steel/"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 19:22:07",
       "https://news.ycombinator.com/item?id=35505591"
     ],
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2023-04-09, 15:50:03",
-      "https://news.ycombinator.com/item?id=35503855"
-    ],
-    [
-      "RISC-V Bytes: Exploring a Custom ESP32 Bootloader",
-      "https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 15:38:16",
-      "https://news.ycombinator.com/item?id=35503743"
-    ],
-    [
-      "Russia’s New Mystery Shortwave Station",
-      "https://hackaday.com/2023/04/08/russias-new-mystery-shortwave-station/"
-    ]
-  ],
-  [
-    [
       "2023-04-09, 14:50:16",
       "https://news.ycombinator.com/item?id=35503236"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-04-09, 12:50:39",
-      "https://news.ycombinator.com/item?id=35502248"
+      "2023-04-09, 12:41:38",
+      "https://news.ycombinator.com/item?id=35502187"
     ],
     [
-      "New Mexico is losing a form of Spanish spoken nowhere else",
-      "https://www.nytimes.com/2023/04/09/us/new-mexico-spanish.html"
+      "From deep to long learning?",
+      "https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning"
     ]
   ],
   [
