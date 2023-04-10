@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 14:32:22](https://news.ycombinator.com/item?id=35512798) - [US Bank Lending Slumps by Most on Record in Final Weeks of March](https://finance.yahoo.com/news/us-bank-lending-slumps-most-210839551.html)
 * [2023-04-10, 14:01:28](https://news.ycombinator.com/item?id=35512412) - [OpenBSD 7.3 Released](https://undeadly.org/cgi?action=article;sid=20230410140049)
 * [2023-04-10, 14:00:59](https://news.ycombinator.com/item?id=35512401) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 13:55:53](https://news.ycombinator.com/item?id=35512338) - [Ask HN: Open source LLM for commercial use?](https://news.ycombinator.com/item?id=35512338)
@@ -21,7 +22,6 @@
 * [2023-04-10, 08:55:22](https://news.ycombinator.com/item?id=35510413) - [Hacker News Ranking Algorithm](https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how)
 * [2023-04-10, 07:53:50](https://news.ycombinator.com/item?id=35510095) - [Machine Yearning](http://www.linusakesson.net/scene/machine-yearning/index.php)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
-* [2023-04-10, 07:46:51](https://news.ycombinator.com/item?id=35510055) - [Why don&#x27;t we define “imaginary” numbers for every “impossibility”? (2012)](https://math.stackexchange.com/questions/259584/why-dont-we-define-imaginary-numbers-for-every-impossibility)
 * [2023-04-10, 05:23:28](https://news.ycombinator.com/item?id=35509429) - [EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion](https://github.com/sail-sg/EditAnything)
 * [2023-04-10, 04:27:51](https://news.ycombinator.com/item?id=35509175) - [Hell Never Ends on x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-10, 04:18:15](https://news.ycombinator.com/item?id=35509132) - [Dancing Plague of 1518](https://en.wikipedia.org/wiki/Dancing_plague_of_1518)

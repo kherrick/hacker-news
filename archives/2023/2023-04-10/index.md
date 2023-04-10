@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 14:32:22](https://news.ycombinator.com/item?id=35512798) - [US Bank Lending Slumps by Most on Record in Final Weeks of March](https://finance.yahoo.com/news/us-bank-lending-slumps-most-210839551.html)
 * [2023-04-10, 14:01:28](https://news.ycombinator.com/item?id=35512412) - [OpenBSD 7.3 Released](https://undeadly.org/cgi?action=article;sid=20230410140049)
 * [2023-04-10, 14:00:59](https://news.ycombinator.com/item?id=35512401) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 13:55:53](https://news.ycombinator.com/item?id=35512338) - [Ask HN: Open source LLM for commercial use?](https://news.ycombinator.com/item?id=35512338)
