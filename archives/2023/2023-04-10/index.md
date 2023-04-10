@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 21:01:08](https://news.ycombinator.com/item?id=35517364) - [Aviator (YC S21) is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-04-10, 19:09:07](https://news.ycombinator.com/item?id=35516100) - [Lawsuits Are the Hitman of the State](https://betonit.substack.com/p/lawsuits-are-the-deep-state)
 * [2023-04-10, 18:48:51](https://news.ycombinator.com/item?id=35515873) - [Keycloak with PostgreSQL on Kubernetes](https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/)
 * [2023-04-10, 18:34:13](https://news.ycombinator.com/item?id=35515676) - [AI Can&#x27;t Take over Everyone&#x27;s Jobs Soon (If Ever)](https://spectrum.ieee.org/ai-taking-over-jobs)
@@ -34,6 +35,7 @@
 * [2023-04-10, 13:34:59](https://news.ycombinator.com/item?id=35512081) - [If you’ve raised venture capital, you have to pay yourself](https://techcrunch.com/2023/04/09/f-you-pay-me/)
 * [2023-04-10, 13:29:24](https://news.ycombinator.com/item?id=35512035) - [My Controversial Diatribe Against “Skeptics”](https://johnhorgan.org/cross-check/my-controversial-diatribe-against-skeptics)
 * [2023-04-10, 13:28:08](https://news.ycombinator.com/item?id=35512025) - [Up (Film Series)](https://en.wikipedia.org/wiki/Up_(film_series))
+* [2023-04-10, 13:23:25](https://news.ycombinator.com/item?id=35511964) - [Can PL theory make you a better software engineer?](https://www.typetheoryforall.com//2023/04/09/29-Jimmy-Koppel.html)
 * [2023-04-10, 13:15:17](https://news.ycombinator.com/item?id=35511879) - [Never Give Money to Charity](https://torturechambersmalltalk.substack.com/p/never-give-money-to-charity)
 * [2023-04-10, 13:09:29](https://news.ycombinator.com/item?id=35511830) - [TSMC Sales Miss for Second Straight Quarter on Tepid Demand](https://www.bloomberg.com/news/articles/2023-04-10/tsmc-sales-miss-for-second-straight-quarter-on-tepid-tech-demand)
 * [2023-04-10, 12:58:25](https://news.ycombinator.com/item?id=35511717) - [How to Get Started in Soldering for Beginners](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)
