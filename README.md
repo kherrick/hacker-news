@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 17:26:19](https://news.ycombinator.com/item?id=35514799) - [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
+* [2023-04-10, 17:12:51](https://news.ycombinator.com/item?id=35514623) - [Why is GPT-3 15.77x more expensive for certain languages?](https://denyslinkov.medium.com/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc)
 * [2023-04-10, 17:01:07](https://news.ycombinator.com/item?id=35514470) - [Motion (YC W20) Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-04-10, 16:45:37](https://news.ycombinator.com/item?id=35514294) - [FTX stored private keys to crypto assets in plaintext, without access controls](https://twitter.com/molly0xFFF/status/1645217786698903559)
 * [2023-04-10, 16:38:20](https://news.ycombinator.com/item?id=35514228) - [DyLoRA: Parameter Efficient Tuning of Pre-Trained Models](https://arxiv.org/abs/2210.07558)
@@ -13,7 +15,6 @@
 * [2023-04-10, 15:29:24](https://news.ycombinator.com/item?id=35513510) - [On Efficient Training of Large-Scale Deep Learning Models: A Literature Review](https://arxiv.org/abs/2304.03589)
 * [2023-04-10, 14:26:54](https://news.ycombinator.com/item?id=35512723) - [Hit Man: A Technical Manual for Independent Contractors](https://en.wikipedia.org/wiki/Hit_Man:_A_Technical_Manual_for_Independent_Contractors)
 * [2023-04-10, 14:00:59](https://news.ycombinator.com/item?id=35512401) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
-* [2023-04-10, 13:55:53](https://news.ycombinator.com/item?id=35512338) - [Ask HN: Open source LLM for commercial use?](https://news.ycombinator.com/item?id=35512338)
 * [2023-04-10, 12:58:25](https://news.ycombinator.com/item?id=35511717) - [How To Get Started In Soldering](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)
 * [2023-04-10, 12:58:07](https://news.ycombinator.com/item?id=35511713) - [Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918)
 * [2023-04-10, 12:46:40](https://news.ycombinator.com/item?id=35511621) - [Rare corn can self-fertilise [video]](https://www.youtube.com/watch?v=CFyd-kC6IUw)
@@ -28,7 +29,6 @@
 * [2023-04-10, 09:19:13](https://news.ycombinator.com/item?id=35510516) - [Personal Concierge Using OpenAI&#x27;s ChatGPT via Telegram and Voice Messages](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 * [2023-04-10, 05:23:28](https://news.ycombinator.com/item?id=35509429) - [EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion](https://github.com/sail-sg/EditAnything)
-* [2023-04-10, 04:27:51](https://news.ycombinator.com/item?id=35509175) - [Hell Never Ends on x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-09, 16:40:34](https://news.ycombinator.com/item?id=35504300) - [India’s Tigers Bounce Back](https://www.nytimes.com/2023/04/09/world/asia/india-tiger-conservation-success.html)
 
 ## [Archives](archives/index.md)

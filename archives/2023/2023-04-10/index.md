@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 17:26:19](https://news.ycombinator.com/item?id=35514799) - [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
+* [2023-04-10, 17:12:51](https://news.ycombinator.com/item?id=35514623) - [Why is GPT-3 15.77x more expensive for certain languages?](https://denyslinkov.medium.com/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc)
 * [2023-04-10, 17:01:07](https://news.ycombinator.com/item?id=35514470) - [Motion (YC W20) Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-04-10, 16:45:37](https://news.ycombinator.com/item?id=35514294) - [FTX stored private keys to crypto assets in plaintext, without access controls](https://twitter.com/molly0xFFF/status/1645217786698903559)
 * [2023-04-10, 16:38:20](https://news.ycombinator.com/item?id=35514228) - [DyLoRA: Parameter Efficient Tuning of Pre-Trained Models](https://arxiv.org/abs/2210.07558)
