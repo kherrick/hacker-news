@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-04-10, 13:28:08",
+      "https://news.ycombinator.com/item?id=35512025"
+    ],
+    [
+      "Up (Film Series)",
+      "https://en.wikipedia.org/wiki/Up_(film_series)"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 13:09:29",
       "https://news.ycombinator.com/item?id=35511830"
     ],
     [
       "TSMC Sales Miss for Second Straight Quarter on Tepid Demand",
       "https://www.bloomberg.com/news/articles/2023-04-10/tsmc-sales-miss-for-second-straight-quarter-on-tepid-tech-demand"
+    ]
+  ],
+  [
+    [
+      "2023-04-10, 12:58:25",
+      "https://news.ycombinator.com/item?id=35511717"
+    ],
+    [
+      "How to Get Started in Soldering for Beginners",
+      "https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2023-04-10, 11:11:29",
-      "https://news.ycombinator.com/item?id=35511052"
-    ],
-    [
-      "Dashcam Footage Shows Driverless Cars Clogging San Francisco",
-      "https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/"
-    ]
-  ],
-  [
-    [
       "2023-04-10, 11:10:32",
       "https://news.ycombinator.com/item?id=35511047"
     ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2023-04-10, 10:07:36",
-      "https://news.ycombinator.com/item?id=35510724"
+      "2023-04-10, 09:40:08",
+      "https://news.ycombinator.com/item?id=35510612"
     ],
     [
-      "The Real-World Costs of the Digital Race for Bitcoin",
-      "https://www.nytimes.com/2023/04/09/business/bitcoin-mining-electricity-pollution.html"
+      "Apple’s 40% Plunge in PC Shipments Is Steepest Among Major Computer Makers",
+      "https://www.bloomberg.com/news/articles/2023-04-10/apple-s-40-plunge-leads-pc-shipments-down-as-tech-demand-sags"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-04-10, 00:06:53",
-      "https://news.ycombinator.com/item?id=35507688"
-    ],
-    [
-      "Xylazine, a dangerous new drug fuelling Canada’s opioid crisis",
-      "https://macleans.ca/society/what-is-xylazine-the-dangerous-new-drug-fuelling-canadas-opioid-crisis/"
-    ]
-  ],
-  [
-    [
       "2023-04-09, 23:38:53",
       "https://news.ycombinator.com/item?id=35507558"
     ],
@@ -257,6 +257,16 @@
     [
       "REBL",
       "https://docs.datomic.com/cloud/other-tools/REBL.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 21:02:49",
+      "https://news.ycombinator.com/item?id=35506448"
+    ],
+    [
+      "I think faster than light travel is possible [video]",
+      "http://backreaction.blogspot.com/2023/04/i-think-faster-than-light-travel-is.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Nam: Neural network emulator for guitar amplifiers",
       "https://github.com/sdatkinson/neural-amp-modeler"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 10:14:57",
-      "https://news.ycombinator.com/item?id=35501337"
-    ],
-    [
-      "The Global CTX Mosaic of Mars",
-      "https://murray-lab.caltech.edu/CTX/V01/SceneView/intro_c.html"
     ]
   ]
 ]
