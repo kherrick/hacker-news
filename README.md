@@ -15,7 +15,6 @@
 * [2023-04-10, 15:38:02](https://news.ycombinator.com/item?id=35513612) - [The biggest EV battery recycling plant in the US is open for business](https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business)
 * [2023-04-10, 15:29:29](https://news.ycombinator.com/item?id=35513511) - [New study sheds light on how amino acids “evolved”](https://www.salon.com/2023/03/01/first-life-on-earth-amino-acid-study/)
 * [2023-04-10, 14:26:54](https://news.ycombinator.com/item?id=35512723) - [Hit Man: A Technical Manual for Independent Contractors](https://en.wikipedia.org/wiki/Hit_Man:_A_Technical_Manual_for_Independent_Contractors)
-* [2023-04-10, 13:34:59](https://news.ycombinator.com/item?id=35512081) - [If you’ve raised venture capital, you have to pay yourself](https://techcrunch.com/2023/04/09/f-you-pay-me/)
 * [2023-04-10, 13:23:25](https://news.ycombinator.com/item?id=35511964) - [Can PL theory make you a better software engineer?](https://www.typetheoryforall.com//2023/04/09/29-Jimmy-Koppel.html)
 * [2023-04-10, 13:00:44](https://news.ycombinator.com/item?id=35511744) - [American IQ scores have rapidly dropped, proving the &#x27;Reverse Flynn effect&#x27;](https://www.popularmechanics.com/science/a43469569/american-iq-scores-decline-reverse-flynn-effect/)
 * [2023-04-10, 12:58:25](https://news.ycombinator.com/item?id=35511717) - [How To Get Started In Soldering](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)
@@ -30,6 +29,7 @@
 * [2023-04-10, 09:19:13](https://news.ycombinator.com/item?id=35510516) - [Personal Concierge Using OpenAI&#x27;s ChatGPT via Telegram and Voice Messages](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 * [2023-04-10, 07:46:51](https://news.ycombinator.com/item?id=35510055) - [Why don&#x27;t we define “imaginary” numbers for every “impossibility”? (2012)](https://math.stackexchange.com/questions/259584/why-dont-we-define-imaginary-numbers-for-every-impossibility)
+* [2023-04-09, 16:40:34](https://news.ycombinator.com/item?id=35504300) - [India’s Tigers Bounce Back](https://www.nytimes.com/2023/04/09/world/asia/india-tiger-conservation-success.html)
 
 ## [Archives](archives/index.md)
 
