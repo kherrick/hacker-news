@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-10, 18:48:51](https://news.ycombinator.com/item?id=35515873) - [Keycloak with PostgreSQL on Kubernetes](https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/)
-* [2023-04-10, 18:34:13](https://news.ycombinator.com/item?id=35515676) - [AI Can&#x27;t Take over Everyone&#x27;s Jobs Soon (If Ever)](https://spectrum.ieee.org/ai-taking-over-jobs)
 * [2023-04-10, 17:58:07](https://news.ycombinator.com/item?id=35515208) - [Teaching ChatGPT to Speak My Son’s Invented Language](https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05)
 * [2023-04-10, 17:26:19](https://news.ycombinator.com/item?id=35514799) - [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
 * [2023-04-10, 17:12:51](https://news.ycombinator.com/item?id=35514623) - [Why is GPT-3 15.77x more expensive for certain languages?](https://denyslinkov.medium.com/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc)
@@ -23,12 +22,13 @@
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 * [2023-04-10, 11:47:01](https://news.ycombinator.com/item?id=35511240) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 * [2023-04-10, 11:31:07](https://news.ycombinator.com/item?id=35511152) - [What I&#x27;ve Learned About Formal Methods in Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
+* [2023-04-10, 11:29:07](https://news.ycombinator.com/item?id=35511139) - [Zoomable, animated scatterplots in the browser that scales over a billion points](https://github.com/nomic-ai/deepscatter)
 * [2023-04-10, 11:22:27](https://news.ycombinator.com/item?id=35511106) - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-04-10, 11:11:29](https://news.ycombinator.com/item?id=35511052) - [Dashcam footage shows driverless cars clogging San Francisco](https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/)
 * [2023-04-10, 11:10:32](https://news.ycombinator.com/item?id=35511047) - [Night of the living brain fog dead or how I hacked myself better via open source](https://decodebytes.substack.com/p/night-of-the-living-brain-fog-dead)
+* [2023-04-10, 09:19:13](https://news.ycombinator.com/item?id=35510516) - [Personal Concierge Using OpenAI&#x27;s ChatGPT via Telegram and Voice Messages](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 * [2023-04-10, 07:46:51](https://news.ycombinator.com/item?id=35510055) - [Why don&#x27;t we define “imaginary” numbers for every “impossibility”? (2012)](https://math.stackexchange.com/questions/259584/why-dont-we-define-imaginary-numbers-for-every-impossibility)
-* [2023-04-10, 07:10:03](https://news.ycombinator.com/item?id=35509887) - [The Epic Story of Container Shipping (2009)](https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/)
 * [2023-04-09, 16:40:34](https://news.ycombinator.com/item?id=35504300) - [India’s Tigers Bounce Back](https://www.nytimes.com/2023/04/09/world/asia/india-tiger-conservation-success.html)
 
 ## [Archives](archives/index.md)
