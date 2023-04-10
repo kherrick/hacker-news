@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-04-10, 17:01:07",
+      "https://news.ycombinator.com/item?id=35514470"
+    ],
+    [
+      "Motion (YC W20) Is Hiring Senior Software Engineers",
+      "https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn"
+    ]
+  ],
+  [
+    [
+      "2023-04-10, 16:45:37",
+      "https://news.ycombinator.com/item?id=35514294"
+    ],
+    [
+      "FTX stored private keys to crypto assets in plaintext, without access controls",
+      "https://twitter.com/molly0xFFF/status/1645217786698903559"
+    ]
+  ],
+  [
+    [
+      "2023-04-10, 16:38:20",
+      "https://news.ycombinator.com/item?id=35514228"
+    ],
+    [
+      "DyLoRA: Parameter Efficient Tuning of Pre-Trained Models",
+      "https://arxiv.org/abs/2210.07558"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 16:15:35",
       "https://news.ycombinator.com/item?id=35514002"
     ],
@@ -71,32 +101,12 @@
   ],
   [
     [
-      "2023-04-10, 14:33:19",
-      "https://news.ycombinator.com/item?id=35512814"
-    ],
-    [
-      "1k Photos of Dolphin Fins",
-      "https://www.beautifulpublicdata.com/1000-photos-of-dolphin-fins/"
-    ]
-  ],
-  [
-    [
       "2023-04-10, 14:26:54",
       "https://news.ycombinator.com/item?id=35512723"
     ],
     [
       "Hit Man: A Technical Manual for Independent Contractors",
       "https://en.wikipedia.org/wiki/Hit_Man:_A_Technical_Manual_for_Independent_Contractors"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 14:24:46",
-      "https://news.ycombinator.com/item?id=35512697"
-    ],
-    [
-      "Nobel Prize winner: The universe keeps dying and being reborn (2020)",
-      "https://bigthink.com/hard-science/black-holes-prove-the-universe-keeps-exploding-claims-physicist/"
     ]
   ],
   [
@@ -137,6 +147,16 @@
     [
       "Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%",
       "https://bugzilla.mozilla.org/show_bug.cgi?id=1441918"
+    ]
+  ],
+  [
+    [
+      "2023-04-10, 12:46:40",
+      "https://news.ycombinator.com/item?id=35511621"
+    ],
+    [
+      "Rare corn can self-fertilise [video]",
+      "https://www.youtube.com/watch?v=CFyd-kC6IUw"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2023-04-10, 09:20:22",
-      "https://news.ycombinator.com/item?id=35510524"
-    ],
-    [
-      "Online 8086 Emulator",
-      "https://yjdoc2.github.io/8086-emulator-web/"
-    ]
-  ],
-  [
-    [
       "2023-04-10, 09:19:13",
       "https://news.ycombinator.com/item?id=35510516"
     ],
     [
       "Personal Concierge Using OpenAI&#x27;s ChatGPT via Telegram and Voice Messages",
       "https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 08:55:22",
-      "https://news.ycombinator.com/item?id=35510413"
-    ],
-    [
-      "Hacker News Ranking Algorithm",
-      "https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how"
     ]
   ],
   [
