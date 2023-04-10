@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 21:30:09](https://news.ycombinator.com/item?id=35517629) - [Al Jaffee, King of the Mad Magazine Fold-In, Dies at 102](https://www.nytimes.com/2023/04/10/arts/al-jaffee-dead.html)
 * [2023-04-10, 21:01:08](https://news.ycombinator.com/item?id=35517364) - [Aviator (YC S21) is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-04-10, 18:48:51](https://news.ycombinator.com/item?id=35515873) - [Keycloak with PostgreSQL on Kubernetes](https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/)
 * [2023-04-10, 17:59:22](https://news.ycombinator.com/item?id=35515230) - [Passing the Reins on Panfrost](https://rosenzweig.io/blog/passing-reins-panfrost.html)
@@ -13,7 +14,6 @@
 * [2023-04-10, 15:38:02](https://news.ycombinator.com/item?id=35513612) - [The biggest EV battery recycling plant in the US is open for business](https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business)
 * [2023-04-10, 15:29:29](https://news.ycombinator.com/item?id=35513511) - [New study sheds light on how amino acids “evolved”](https://www.salon.com/2023/03/01/first-life-on-earth-amino-acid-study/)
 * [2023-04-10, 14:26:54](https://news.ycombinator.com/item?id=35512723) - [Hit Man: A Technical Manual for Independent Contractors](https://en.wikipedia.org/wiki/Hit_Man:_A_Technical_Manual_for_Independent_Contractors)
-* [2023-04-10, 14:00:59](https://news.ycombinator.com/item?id=35512401) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 13:34:59](https://news.ycombinator.com/item?id=35512081) - [If you’ve raised venture capital, you have to pay yourself](https://techcrunch.com/2023/04/09/f-you-pay-me/)
 * [2023-04-10, 13:23:25](https://news.ycombinator.com/item?id=35511964) - [Can PL theory make you a better software engineer?](https://www.typetheoryforall.com//2023/04/09/29-Jimmy-Koppel.html)
 * [2023-04-10, 13:00:44](https://news.ycombinator.com/item?id=35511744) - [American IQ scores have rapidly dropped, proving the &#x27;Reverse Flynn effect&#x27;](https://www.popularmechanics.com/science/a43469569/american-iq-scores-decline-reverse-flynn-effect/)
