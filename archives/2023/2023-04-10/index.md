@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 16:00:55](https://news.ycombinator.com/item?id=35513852) - [P &lt; 0.05 Considered Harmful](https://simplicityissota.substack.com/p/p-005-considered-harmful)
 * [2023-04-10, 15:41:20](https://news.ycombinator.com/item?id=35513643) - [Previously unknown isotope of uranium discovered](https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html)
+* [2023-04-10, 15:40:42](https://news.ycombinator.com/item?id=35513636) - [I Fixed a Parasitic Drain on My Car in 408 Days](https://davidmuller.github.io/posts/2023/04/10/how-i-fixed-a-parasitic-drain-in-408-days.html)
 * [2023-04-10, 15:38:02](https://news.ycombinator.com/item?id=35513612) - [The biggest EV battery recycling plant in the US is open for business](https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business)
 * [2023-04-10, 15:36:52](https://news.ycombinator.com/item?id=35513595) - [Everybody is the main character](https://blog.sbensu.com/posts/everybody-is-the-main-character/)
 * [2023-04-10, 15:29:29](https://news.ycombinator.com/item?id=35513511) - [New study sheds light on how amino acids “evolved”](https://www.salon.com/2023/03/01/first-life-on-earth-amino-acid-study/)

@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 16:00:55](https://news.ycombinator.com/item?id=35513852) - [P &lt; 0.05 Considered Harmful](https://simplicityissota.substack.com/p/p-005-considered-harmful)
 * [2023-04-10, 15:41:20](https://news.ycombinator.com/item?id=35513643) - [Previously unknown isotope of uranium discovered](https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html)
+* [2023-04-10, 15:40:42](https://news.ycombinator.com/item?id=35513636) - [I Fixed a Parasitic Drain on My Car in 408 Days](https://davidmuller.github.io/posts/2023/04/10/how-i-fixed-a-parasitic-drain-in-408-days.html)
 * [2023-04-10, 15:38:02](https://news.ycombinator.com/item?id=35513612) - [The biggest EV battery recycling plant in the US is open for business](https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business)
 * [2023-04-10, 15:36:52](https://news.ycombinator.com/item?id=35513595) - [Everybody is the main character](https://blog.sbensu.com/posts/everybody-is-the-main-character/)
 * [2023-04-10, 15:29:29](https://news.ycombinator.com/item?id=35513511) - [New study sheds light on how amino acids “evolved”](https://www.salon.com/2023/03/01/first-life-on-earth-amino-acid-study/)
@@ -9,7 +11,6 @@
 * [2023-04-10, 14:24:46](https://news.ycombinator.com/item?id=35512697) - [Nobel Prize winner: The universe keeps dying and being reborn (2020)](https://bigthink.com/hard-science/black-holes-prove-the-universe-keeps-exploding-claims-physicist/)
 * [2023-04-10, 14:00:59](https://news.ycombinator.com/item?id=35512401) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 13:55:53](https://news.ycombinator.com/item?id=35512338) - [Ask HN: Open source LLM for commercial use?](https://news.ycombinator.com/item?id=35512338)
-* [2023-04-10, 13:28:08](https://news.ycombinator.com/item?id=35512025) - [Up (Film Series)](https://en.wikipedia.org/wiki/Up_(film_series))
 * [2023-04-10, 12:58:25](https://news.ycombinator.com/item?id=35511717) - [How to Get Started in Soldering for Beginners](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)
 * [2023-04-10, 12:51:13](https://news.ycombinator.com/item?id=35511653) - [Software Forge Performance Index](https://forgeperf.org/)
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
@@ -28,7 +29,6 @@
 * [2023-04-10, 04:27:51](https://news.ycombinator.com/item?id=35509175) - [Hell Never Ends on x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-10, 04:18:15](https://news.ycombinator.com/item?id=35509132) - [Dancing Plague of 1518](https://en.wikipedia.org/wiki/Dancing_plague_of_1518)
 * [2023-04-10, 03:30:53](https://news.ycombinator.com/item?id=35508903) - [Senior Frontend Engineer at Justpaid.io (YC W23)](https://www.ycombinator.com/companies/justpaid-io/jobs/p9N5Zog-senior-frontend-software-engineer-contract-to-hire)
-* [2023-04-09, 22:16:39](https://news.ycombinator.com/item?id=35507001) - [REBL](https://docs.datomic.com/cloud/other-tools/REBL.html)
 * [2023-04-09, 16:40:34](https://news.ycombinator.com/item?id=35504300) - [Dangerously Scarce 50 Years Ago, India’s Tigers Bounce Back](https://www.nytimes.com/2023/04/09/world/asia/india-tiger-conservation-success.html)
 
 ## [Archives](archives/index.md)
