@@ -74,6 +74,7 @@
 * [2023-04-09, 11:08:45](https://news.ycombinator.com/item?id=35501602) - [Re-examining the chip Shortage: Legacy node decommissions](https://trossbach.substack.com/p/closed-source-intellectual-property)
 * [2023-04-09, 11:02:50](https://news.ycombinator.com/item?id=35501561) - [Flexible membrane mirrors for large space-based telescopes](https://www.optica.org/en-us/about/newsroom/news_releases/2023/april/researchers_devise_new_membrane_mirrors_for_large/)
 * [2023-04-09, 10:22:35](https://news.ycombinator.com/item?id=35501373) - [Difference Between a Symbolic Link and a Hard Link](https://toolhub.tech/blog/Difference-between-Symbolic-Link-and-Hard-Link/)
+* [2023-04-09, 10:14:57](https://news.ycombinator.com/item?id=35501337) - [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/V01/SceneView/intro_c.html)
 * [2023-04-09, 10:14:39](https://news.ycombinator.com/item?id=35501335) - [World’s last dedicated Meccano factory to close in France](https://www.theguardian.com/world/2023/feb/23/last-dedicated-meccano-factory-to-close-in-france)
 * [2023-04-09, 10:10:49](https://news.ycombinator.com/item?id=35501314) - [An In-Depth Guide to I, P, and B Frames in Video Compression](https://toolhub.tech/blog/I-P-and-B-Frames-in-Video-Compression/)
 * [2023-04-09, 09:54:33](https://news.ycombinator.com/item?id=35501263) - [Wanted, people to make $22,000 handbags](https://www.ft.com/content/fc6da6cd-9395-4ead-8ef5-03cdb18425a9)

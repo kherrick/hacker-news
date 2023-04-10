@@ -26,8 +26,8 @@
 * [2023-04-09, 12:50:39](https://news.ycombinator.com/item?id=35502248) - [New Mexico is losing a form of Spanish spoken nowhere else](https://www.nytimes.com/2023/04/09/us/new-mexico-spanish.html)
 * [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From deep to long learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * [2023-04-09, 12:04:37](https://news.ycombinator.com/item?id=35501937) - [EY gets banned from new audit business in Germany](https://www.economist.com/business/2023/04/05/ey-gets-banned-from-new-audit-business-in-germany)
-* [2023-04-09, 11:50:11](https://news.ycombinator.com/item?id=35501845) - [A CERN for Open Source Large-Scale AI](https://www.openpetition.eu/petition/online/securing-our-digital-future-a-cern-for-open-source-large-scale-ai-research-and-its-safety)
 * [2023-04-09, 11:29:25](https://news.ycombinator.com/item?id=35501718) - [Show HN: Supavisor – a Postgres connection pooler written in Elixir](https://github.com/supabase/supavisor)
+* [2023-04-09, 10:14:57](https://news.ycombinator.com/item?id=35501337) - [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/V01/SceneView/intro_c.html)
 * [2023-04-09, 09:23:19](https://news.ycombinator.com/item?id=35501109) - [Show HN: Shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
 * [2023-04-09, 05:41:00](https://news.ycombinator.com/item?id=35500309) - [Chased by One’s Own Tail](https://gbracha.blogspot.com/2009/12/chased-by-ones-own-tail.html)
 
