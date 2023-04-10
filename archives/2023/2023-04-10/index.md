@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 18:34:13](https://news.ycombinator.com/item?id=35515676) - [AI Can&#x27;t Take over Everyone&#x27;s Jobs Soon (If Ever)](https://spectrum.ieee.org/ai-taking-over-jobs)
 * [2023-04-10, 17:58:07](https://news.ycombinator.com/item?id=35515208) - [Teaching ChatGPT to Speak My Son’s Invented Language](https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05)
 * [2023-04-10, 17:26:19](https://news.ycombinator.com/item?id=35514799) - [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
 * [2023-04-10, 17:12:51](https://news.ycombinator.com/item?id=35514623) - [Why is GPT-3 15.77x more expensive for certain languages?](https://denyslinkov.medium.com/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc)
@@ -57,6 +58,7 @@
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 * [2023-04-10, 07:46:51](https://news.ycombinator.com/item?id=35510055) - [Why don&#x27;t we define “imaginary” numbers for every “impossibility”? (2012)](https://math.stackexchange.com/questions/259584/why-dont-we-define-imaginary-numbers-for-every-impossibility)
 * [2023-04-10, 07:46:15](https://news.ycombinator.com/item?id=35510052) - [Column-Oriented Row Reduction](http://bitmath.blogspot.com/2023/04/column-oriented-row-reduction.html)
+* [2023-04-10, 07:10:03](https://news.ycombinator.com/item?id=35509887) - [The Epic Story of Container Shipping (2009)](https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/)
 * [2023-04-10, 06:44:58](https://news.ycombinator.com/item?id=35509765) - [How do so many talentless people end up getting funded and running startups?](https://news.ycombinator.com/item?id=35509765)
 * [2023-04-10, 06:12:16](https://news.ycombinator.com/item?id=35509640) - [Japan eyes AI adoption as OpenAI CEO visits PM Kishida, talks up local expansion](https://www.reuters.com/technology/japan-eyes-government-ai-adoption-openai-ceo-mulls-opening-office-2023-04-10/)
 * [2023-04-10, 06:02:50](https://news.ycombinator.com/item?id=35509587) - [Mack McCormick’s Long, Tortured Quest to Find the Real Robert Johnson](https://www.texasmonthly.com/arts-entertainment/mack-mccormick-quest-to-find-real-robert-johnson/)
