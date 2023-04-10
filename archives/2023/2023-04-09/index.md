@@ -89,6 +89,7 @@
 * [2023-04-09, 08:31:23](https://news.ycombinator.com/item?id=35500901) - [Multiple Passengers Skipped Customs on US-Bound International Flight](https://www.thestreet.com/travel/multiple-passengers-skipped-customs-on-us-bound-international-flight)
 * [2023-04-09, 08:13:53](https://news.ycombinator.com/item?id=35500849) - [Car exhaust filters fail to clean up ‘ultrafine’ air pollution](https://studyfinds.org/car-exhaust-filters-air-pollution/)
 * [2023-04-09, 08:04:51](https://news.ycombinator.com/item?id=35500818) - [Red Sea Dam](https://en.wikipedia.org/wiki/Red_Sea_Dam)
+* [2023-04-09, 08:01:26](https://news.ycombinator.com/item?id=35500804) - [Lessons Learned About One-Way, Dataflow Constraints in Garnet and Amulet (2001) [pdf]](https://www.isi.edu/~szekely/contents/papers/2001/lessons-learned-2002toplas.pdf)
 * [2023-04-09, 07:00:17](https://news.ycombinator.com/item?id=35500585) - [June (YC W21) Is Hiring a Senior Engineer (#4)](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-senior-product-engineer-4)
 * [2023-04-09, 06:42:25](https://news.ycombinator.com/item?id=35500528) - [Perseus – NextJS alternative in Rust](https://framesurge.sh/perseus/en-US/)
 * [2023-04-09, 06:38:01](https://news.ycombinator.com/item?id=35500501) - [Computer History by Balenciaga](https://twitter.com/azlenelza/status/1644789222082244613)
