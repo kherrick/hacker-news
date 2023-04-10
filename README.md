@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-10, 02:47:02](https://news.ycombinator.com/item?id=35508677) - [Deep in Florida, an ecological disaster has been reversed, wildlife is thriving](https://www.nationalgeographic.com/environment/article/kissimmee-biggest-river-restoration-ever-completed)
+* [2023-04-10, 01:37:17](https://news.ycombinator.com/item?id=35508281) - [Bivector.net: Geometric Algebra Resources](https://bivector.net/)
 * [2023-04-10, 01:04:08](https://news.ycombinator.com/item?id=35508071) - [Stanford benchmarks and compares numerous Large Language Models](https://crfm.stanford.edu/helm/latest/?group=core_scenarios)
 * [2023-04-10, 00:43:24](https://news.ycombinator.com/item?id=35507933) - [Using RP2040 DMA+PIO to drive a poorly-designed but cheap display from waveshare](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 * [2023-04-10, 00:24:50](https://news.ycombinator.com/item?id=35507814) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 * [2023-04-09, 23:38:53](https://news.ycombinator.com/item?id=35507558) - [ArmorPaint and ArmorLab: open-source alternative to Adobe Substance](https://armorpaint.org/)
-* [2023-04-09, 21:36:16](https://news.ycombinator.com/item?id=35506711) - [Laid-off tech workers choose stability over status](https://www.wsj.com/articles/as-tech-jobs-disappear-silicon-valley-veterans-reset-their-careers-dbdb983)
 * [2023-04-09, 20:56:42](https://news.ycombinator.com/item?id=35506401) - [Australia is quitting coal in record time thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
 * [2023-04-09, 20:43:47](https://news.ycombinator.com/item?id=35506304) - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
 * [2023-04-09, 20:35:33](https://news.ycombinator.com/item?id=35506236) - [Who invented vector clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
@@ -28,7 +29,6 @@
 * [2023-04-09, 12:41:38](https://news.ycombinator.com/item?id=35502187) - [From deep to long learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * [2023-04-09, 12:04:37](https://news.ycombinator.com/item?id=35501937) - [EY gets banned from new audit business in Germany](https://www.economist.com/business/2023/04/05/ey-gets-banned-from-new-audit-business-in-germany)
 * [2023-04-09, 10:14:57](https://news.ycombinator.com/item?id=35501337) - [The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/V01/SceneView/intro_c.html)
-* [2023-04-09, 09:23:19](https://news.ycombinator.com/item?id=35501109) - [Show HN: Shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
 * [2023-04-09, 05:41:00](https://news.ycombinator.com/item?id=35500309) - [Chased by One’s Own Tail](https://gbracha.blogspot.com/2009/12/chased-by-ones-own-tail.html)
 
 ## [Archives](archives/index.md)
