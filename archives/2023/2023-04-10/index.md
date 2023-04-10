@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 * [2023-04-10, 11:29:07](https://news.ycombinator.com/item?id=35511139) - [Zoomable, animated scatterplots in the browser that scales over a billion points](https://github.com/nomic-ai/deepscatter)
 * [2023-04-10, 11:22:27](https://news.ycombinator.com/item?id=35511106) - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
+* [2023-04-10, 11:11:29](https://news.ycombinator.com/item?id=35511052) - [Dashcam Footage Shows Driverless Cars Clogging San Francisco](https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/)
 * [2023-04-10, 10:44:01](https://news.ycombinator.com/item?id=35510899) - [static_assert is all you need (no leaks, no UB)](https://twitter.com/krisjusiak/status/1645360641538945025)
 * [2023-04-10, 10:33:08](https://news.ycombinator.com/item?id=35510851) - [Spotify slapped fired employees with illegal gag order [Translated from Swedish]](https://news.ycombinator.com/item?id=35510851)
 * [2023-04-10, 10:24:31](https://news.ycombinator.com/item?id=35510800) - [Are We &lt;Thing&gt; Yet?](https://wiki.mozilla.org/Areweyet)
