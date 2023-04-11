@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 09:13:50](https://news.ycombinator.com/item?id=35522642) - [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim)
 * [2023-04-11, 08:54:28](https://news.ycombinator.com/item?id=35522545) - [Ellie – A Mastodon Client for Windows](https://ellie.software/)
 * [2023-04-11, 07:45:29](https://news.ycombinator.com/item?id=35522080) - [Maximizing the Potential of LLMs: A Guide to Prompt Engineering](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)
 * [2023-04-11, 07:45:07](https://news.ycombinator.com/item?id=35522076) - [Becoming Rustacean:Awesome Free Online Resources to Learn Rust Programming](https://www.nativebyx.dev/rust/becoming-rustacean/awesome-free-online-resources-to-earn-rust-programming-language.html)
