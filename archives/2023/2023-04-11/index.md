@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 06:50:02](https://news.ycombinator.com/item?id=35521704) - [We&#x27;re building a browser when it&#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 * [2023-04-11, 06:11:13](https://news.ycombinator.com/item?id=35521436) - [Stop Telling Everyone What You Do for a Living](https://www.wsj.com/articles/stop-telling-everyone-what-you-do-for-a-living-5daa8fc9)
 * [2023-04-11, 05:53:57](https://news.ycombinator.com/item?id=35521345) - [YouTube suspends a YouTuber&#x27;s Patreon-exclusive account for self-impersonation](https://twitter.com/craig1black/status/1645649300167495681)
 * [2023-04-11, 05:38:19](https://news.ycombinator.com/item?id=35521249) - [Bitcoin is the snake oil of our generation](https://ajit.dhiwal.com/bitcoin-is-the-snake-oil-of-our-generation-2544a1984ce9?gi=f32e7700b7e8)
 * [2023-04-11, 05:07:43](https://news.ycombinator.com/item?id=35521087) - [Dependently Typing R Vectors, Arrays, and Matrices](https://arxiv.org/abs/2304.04265)
 * [2023-04-11, 04:23:45](https://news.ycombinator.com/item?id=35520806) - [AlphaFold predicts impact of single mutations on protein stability and function](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282689)
 * [2023-04-11, 03:39:42](https://news.ycombinator.com/item?id=35520496) - [Three Sisters (Agriculture)](https://en.wikipedia.org/wiki/Three_Sisters_(agriculture))
+* [2023-04-11, 03:39:34](https://news.ycombinator.com/item?id=35520495) - [DPReview is being shut down by Amazon today](https://www.digitalcameraworld.com/news/dpreview-is-being-shut-down-by-amazon-today-what-a-waste-says-founder)
 * [2023-04-11, 03:20:26](https://news.ycombinator.com/item?id=35520361) - [Nolibc: A minimal C-library replacement shipped with the kernel](https://lwn.net/Articles/920158/)
 * [2023-04-11, 03:17:38](https://news.ycombinator.com/item?id=35520338) - [FTC fines supplement maker $600k for &#x27;review hijacking&#x27; Amazon listings](https://www.engadget.com/ftc-fines-supplement-maker-600000-for-review-hijacking-amazon-listings-210142185.html)
 * [2023-04-11, 03:03:00](https://news.ycombinator.com/item?id=35520236) - [Stanford&#x27;s Groundbreaking AI Study Simulates Authentic Human Behavior](https://www.artisana.ai/articles/generative-agents-stanfords-groundbreaking-ai-study-simulates-authentic)
