@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 19:57:53](https://news.ycombinator.com/item?id=35530635) - [Americans’ IQ scores are lower in some areas, higher in one](https://news.northwestern.edu/stories/2023/03/americans-iq-scores-are-lower-in-some-areas-higher-in-one/)
+* [2023-04-11, 19:49:21](https://news.ycombinator.com/item?id=35530513) - [Show HN: Semantic Search on AWS Docs](https://github.com/aws-samples/semantic-search-aws-docs)
 * [2023-04-11, 19:40:30](https://news.ycombinator.com/item?id=35530372) - [Word Grinder: Terminal Based Distraction Free Word Processor](https://github.com/davidgiven/wordgrinder)
 * [2023-04-11, 19:39:03](https://news.ycombinator.com/item?id=35530348) - [Affiliate Marketing Platform Reaches $600 MRR for 17-year-old Founder](https://www.founderclub.com/vic-pitic/)
 * [2023-04-11, 19:37:59](https://news.ycombinator.com/item?id=35530329) - [UK to be one of worst performing economies this year, predicts IMF](https://www.bbc.com/news/business-65240749)
@@ -86,3 +88,4 @@
 * [2023-04-11, 01:19:01](https://news.ycombinator.com/item?id=35519475) - [Dyson Hair Dryer Becomes Jet Engine](https://hackaday.com/2023/04/10/dyson-hair-dryer-becomes-jet-engine/)
 * [2023-04-11, 01:18:43](https://news.ycombinator.com/item?id=35519473) - [The dream of polio eradication might need a rethink](https://www.npr.org/sections/goatsandsoda/2023/04/10/1168141163/the-dream-of-wiping-out-polio-might-need-a-rethink)
 * [2023-04-11, 01:01:09](https://news.ycombinator.com/item?id=35519351) - [Seattle&#x27;s New $1B Airport Terminal Can’t Fit Planes It Was Designed to Handle](https://www.paddleyourownkanoo.com/2023/04/09/seattle-discovers-its-new-1-billion-airport-terminal-cant-fit-the-long-haul-planes-it-was-designed-to-handle/)
+* [2023-04-11, 00:39:38](https://news.ycombinator.com/item?id=35519224) - [Twitter showed us its algorithm. What does it tell us?](https://knightcolumbia.org/blog/twitter-showed-us-its-algorithm-what-does-it-tell-us)

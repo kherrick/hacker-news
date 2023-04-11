@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-11, 19:57:53](https://news.ycombinator.com/item?id=35530635) - [Americans’ IQ scores are lower in some areas, higher in one](https://news.northwestern.edu/stories/2023/03/americans-iq-scores-are-lower-in-some-areas-higher-in-one/)
+* [2023-04-11, 19:49:21](https://news.ycombinator.com/item?id=35530513) - [Show HN: Semantic Search on AWS Docs](https://github.com/aws-samples/semantic-search-aws-docs)
 * [2023-04-11, 19:40:30](https://news.ycombinator.com/item?id=35530372) - [Word Grinder: Terminal Based Distraction Free Word Processor](https://github.com/davidgiven/wordgrinder)
-* [2023-04-11, 19:39:03](https://news.ycombinator.com/item?id=35530348) - [Affiliate Marketing Platform Reaches $600 MRR for 17-year-old Founder](https://www.founderclub.com/vic-pitic/)
 * [2023-04-11, 19:37:59](https://news.ycombinator.com/item?id=35530329) - [UK to be one of worst performing economies this year, predicts IMF](https://www.bbc.com/news/business-65240749)
 * [2023-04-11, 19:37:27](https://news.ycombinator.com/item?id=35530318) - [Is your SRE monitoring like a car alarm or smoke alarm?](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
 * [2023-04-11, 19:31:52](https://news.ycombinator.com/item?id=35530228) - [Satellite &#x27;Great Observatory for Long Wavelengths&#x27; (Go-Low) Funded by NASA](https://www.haystack.mit.edu/news/go-low/)
@@ -25,10 +26,9 @@
 * [2023-04-11, 12:12:09](https://news.ycombinator.com/item?id=35524023) - [KDE Plasma Widget for external monitor brightness adjustment](https://github.com/davidhi7/ddcci-plasmoid)
 * [2023-04-11, 12:07:57](https://news.ycombinator.com/item?id=35523969) - [Nyquist Frequency](https://en.wikipedia.org/wiki/Nyquist_frequency)
 * [2023-04-11, 12:00:57](https://news.ycombinator.com/item?id=35523895) - [Sieve (YC W22) Is Hiring a Distributed Systems Engineer](https://www.ycombinator.com/companies/sieve/jobs/VnxRRuc-distributed-systems-engineer-backend)
-* [2023-04-11, 11:58:09](https://news.ycombinator.com/item?id=35523859) - [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/)
-* [2023-04-11, 10:35:50](https://news.ycombinator.com/item?id=35523184) - [I ported the Firefox Archive.today extension to Safari](https://apps.apple.com/us/app/archive-page-extension/id6446372766)
 * [2023-04-11, 07:24:27](https://news.ycombinator.com/item?id=35521925) - [Sega 3-D Glasses: How did they work?](https://nicole.express/2023/the-third-dimension-and-the-eight-bits.html)
 * [2023-04-11, 01:18:43](https://news.ycombinator.com/item?id=35519473) - [The dream of polio eradication might need a rethink](https://www.npr.org/sections/goatsandsoda/2023/04/10/1168141163/the-dream-of-wiping-out-polio-might-need-a-rethink)
+* [2023-04-11, 00:39:38](https://news.ycombinator.com/item?id=35519224) - [Twitter showed us its algorithm. What does it tell us?](https://knightcolumbia.org/blog/twitter-showed-us-its-algorithm-what-does-it-tell-us)
 * [2023-04-10, 15:26:43](https://news.ycombinator.com/item?id=35513475) - [Two algorithms for randomly generating aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/)
 
 ## [Archives](archives/index.md)
