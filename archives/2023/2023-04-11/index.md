@@ -12,6 +12,7 @@
 * [2023-04-11, 17:30:21](https://news.ycombinator.com/item?id=35528315) - [Now live for all: Substack Notes](https://on.substack.com/p/notes)
 * [2023-04-11, 17:27:50](https://news.ycombinator.com/item?id=35528281) - [Elizabeth Holmes loses bid to stay out of prison](https://www.cnbc.com/2023/04/11/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison.html)
 * [2023-04-11, 17:27:30](https://news.ycombinator.com/item?id=35528274) - [Smart App Banners can be used to de-anonymize Apple users](https://fingerprint.com/blog/apple-id-region-leak/)
+* [2023-04-11, 17:22:54](https://news.ycombinator.com/item?id=35528199) - [Ethics, Politics, and Society in the Age of Artificial Intelligence (2020)](https://www.bostonreview.net/articles/kenneth-taylor-robots-are-coming-ethics-politics-and-society-age/)
 * [2023-04-11, 17:17:12](https://news.ycombinator.com/item?id=35528129) - [OpenAI’s Bug Bounty Program](https://openai.com/blog/bug-bounty-program)
 * [2023-04-11, 17:00:07](https://news.ycombinator.com/item?id=35527907) - [PhaseLLM: Standardized Chat LLM API (Cohere, Claude, GPT) + Evaluation Framework](https://github.com/wgryc/phasellm)
 * [2023-04-11, 16:57:30](https://news.ycombinator.com/item?id=35527873) - [The Best Pens for 2023: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-42-Best-Pens-for-2023-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
