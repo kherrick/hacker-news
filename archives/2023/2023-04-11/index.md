@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 18:31:22](https://news.ycombinator.com/item?id=35529240) - [Rules for developers to design beautiful UIs without a designer](https://www.refactoringui.com/)
 * [2023-04-11, 17:53:06](https://news.ycombinator.com/item?id=35528651) - [HTTP Response Header Field: Carbon-Emissions-Scope-2](https://www.ietf.org/archive/id/draft-martin-http-carbon-emissions-scope-2-00.html)
 * [2023-04-11, 17:49:33](https://news.ycombinator.com/item?id=35528595) - [Ask HN: Is the job market brutal? or is it just me?](https://news.ycombinator.com/item?id=35528595)
 * [2023-04-11, 17:30:21](https://news.ycombinator.com/item?id=35528315) - [Now live for all: Substack Notes](https://on.substack.com/p/notes)
@@ -69,4 +70,5 @@
 * [2023-04-11, 01:48:56](https://news.ycombinator.com/item?id=35519706) - [Sponsor the open source projects you depend on](https://thanks.dev/home)
 * [2023-04-11, 01:47:33](https://news.ycombinator.com/item?id=35519697) - [Nvidia drivers are detecting and reporting LLaMa&#x2F;LLM users](https://imgur.com/a/xdFg6SO)
 * [2023-04-11, 01:19:01](https://news.ycombinator.com/item?id=35519475) - [Dyson Hair Dryer Becomes Jet Engine](https://hackaday.com/2023/04/10/dyson-hair-dryer-becomes-jet-engine/)
+* [2023-04-11, 01:18:43](https://news.ycombinator.com/item?id=35519473) - [The dream of polio eradication might need a rethink](https://www.npr.org/sections/goatsandsoda/2023/04/10/1168141163/the-dream-of-wiping-out-polio-might-need-a-rethink)
 * [2023-04-11, 01:01:09](https://news.ycombinator.com/item?id=35519351) - [Seattle&#x27;s New $1B Airport Terminal Can’t Fit Planes It Was Designed to Handle](https://www.paddleyourownkanoo.com/2023/04/09/seattle-discovers-its-new-1-billion-airport-terminal-cant-fit-the-long-haul-planes-it-was-designed-to-handle/)
