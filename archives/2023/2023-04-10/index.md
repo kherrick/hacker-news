@@ -83,6 +83,7 @@
 * [2023-04-10, 07:46:15](https://news.ycombinator.com/item?id=35510052) - [Column-Oriented Row Reduction](http://bitmath.blogspot.com/2023/04/column-oriented-row-reduction.html)
 * [2023-04-10, 07:10:03](https://news.ycombinator.com/item?id=35509887) - [The Epic Story of Container Shipping (2009)](https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/)
 * [2023-04-10, 06:44:58](https://news.ycombinator.com/item?id=35509765) - [How do so many talentless people end up getting funded and running startups?](https://news.ycombinator.com/item?id=35509765)
+* [2023-04-10, 06:26:05](https://news.ycombinator.com/item?id=35509696) - [Finding Photo Opportunities Near Home](https://phillipreeve.net/blog/finding-photo-opportunities-near-home-part-2/)
 * [2023-04-10, 06:12:16](https://news.ycombinator.com/item?id=35509640) - [Japan eyes AI adoption as OpenAI CEO visits PM Kishida, talks up local expansion](https://www.reuters.com/technology/japan-eyes-government-ai-adoption-openai-ceo-mulls-opening-office-2023-04-10/)
 * [2023-04-10, 06:02:50](https://news.ycombinator.com/item?id=35509587) - [Mack McCormick’s Long, Tortured Quest to Find the Real Robert Johnson](https://www.texasmonthly.com/arts-entertainment/mack-mccormick-quest-to-find-real-robert-johnson/)
 * [2023-04-10, 05:23:28](https://news.ycombinator.com/item?id=35509429) - [EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion](https://github.com/sail-sg/EditAnything)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 11:23:16](https://news.ycombinator.com/item?id=35523527) - [‘Claudia’ offers nude photos for pay. Experts say she’s an AI fake](https://www.washingtonpost.com/technology/2023/04/11/ai-imaging-porn-fakes/)
+* [2023-04-11, 11:21:13](https://news.ycombinator.com/item?id=35523513) - [Judge Denies Elizabeth Holmes&#x27; Request for Release on Bail](https://www.capith.com/2023/04/11/judge-denies-elizabeth-holmes-request-for-release-on-bail/)
+* [2023-04-11, 10:57:01](https://news.ycombinator.com/item?id=35523337) - [Is Nerd Culture Dying?](https://samkriss.substack.com/p/all-the-nerds-are-dead)
 * [2023-04-11, 09:13:50](https://news.ycombinator.com/item?id=35522642) - [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim)
 * [2023-04-11, 08:54:28](https://news.ycombinator.com/item?id=35522545) - [Ellie – A Mastodon Client for Windows](https://ellie.software/)
 * [2023-04-11, 07:45:29](https://news.ycombinator.com/item?id=35522080) - [Maximizing the Potential of LLMs: A Guide to Prompt Engineering](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)
