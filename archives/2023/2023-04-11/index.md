@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 13:30:58](https://news.ycombinator.com/item?id=35524881) - [American Madness: Our Dysfunctional System for Treating Mental Illness](https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/)
 * [2023-04-11, 13:17:27](https://news.ycombinator.com/item?id=35524702) - [Heavy EVs Could Collapse Old Parking Garages: Report](https://www.thedrive.com/news/heavy-evs-could-collapse-old-parking-garages-report)
 * [2023-04-11, 13:06:03](https://news.ycombinator.com/item?id=35524572) - [Not Forgotten: ChatGPT isn’t the only important trend in technology](https://www.oreilly.com/radar/not-forgotten/)
 * [2023-04-11, 12:45:49](https://news.ycombinator.com/item?id=35524387) - [An Open Source Book That Teaches JavaScript](https://github.com/sumn2u/learn-javascript)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-11, 13:30:58](https://news.ycombinator.com/item?id=35524881) - [American Madness: Our Dysfunctional System for Treating Mental Illness](https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/)
 * [2023-04-11, 13:17:27](https://news.ycombinator.com/item?id=35524702) - [Heavy EVs Could Collapse Old Parking Garages: Report](https://www.thedrive.com/news/heavy-evs-could-collapse-old-parking-garages-report)
 * [2023-04-11, 13:06:03](https://news.ycombinator.com/item?id=35524572) - [Not Forgotten: ChatGPT isn’t the only important trend in technology](https://www.oreilly.com/radar/not-forgotten/)
 * [2023-04-11, 12:45:49](https://news.ycombinator.com/item?id=35524387) - [An Open Source Book That Teaches JavaScript](https://github.com/sumn2u/learn-javascript)
@@ -8,7 +9,6 @@
 * [2023-04-11, 11:58:09](https://news.ycombinator.com/item?id=35523859) - [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/)
 * [2023-04-11, 10:35:50](https://news.ycombinator.com/item?id=35523184) - [I ported the Firefox Archive.today extension to Safari](https://apps.apple.com/us/app/archive-page-extension/id6446372766)
 * [2023-04-11, 09:13:50](https://news.ycombinator.com/item?id=35522642) - [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim)
-* [2023-04-11, 08:54:28](https://news.ycombinator.com/item?id=35522545) - [Ellie – A Mastodon Client for Windows](https://ellie.software/)
 * [2023-04-11, 08:47:54](https://news.ycombinator.com/item?id=35522509) - [Vestas hails breakthrough for recyclable wind turbines](https://www.energymonitor.ai/tech/renewables/vestas-hails-breakthrough-for-recycling-wind-turbine-blades/)
 * [2023-04-11, 07:45:29](https://news.ycombinator.com/item?id=35522080) - [Maximizing the Potential of LLMs: A Guide to Prompt Engineering](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)
 * [2023-04-11, 07:45:07](https://news.ycombinator.com/item?id=35522076) - [Becoming Rustacean: Resources to Learn Rust Programming](https://www.nativebyx.dev/rust/becoming-rustacean/awesome-free-online-resources-to-earn-rust-programming-language.html)
