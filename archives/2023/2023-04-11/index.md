@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 19:34:09](https://news.ycombinator.com/item?id=35530268) - [Tailscale Sucks](https://tailscale.dev/blog/tailscale-sucks)
+* [2023-04-11, 19:21:27](https://news.ycombinator.com/item?id=35530040) - [CRDT Papers](https://crdt.tech/papers.html)
+* [2023-04-11, 19:20:59](https://news.ycombinator.com/item?id=35530030) - [US Bank Lending Drops over $105B, Largest Decline Since 1973](https://www.morningtendies.co/p/bank-lending-drops-105-billion)
 * [2023-04-11, 19:01:27](https://news.ycombinator.com/item?id=35529779) - [California to lend 20% down payments with 0% interest for homebuyers](https://www.kpbs.org/news/2023/04/05/new-loan-program-expected-to-put-homeownership-within-reach-for-thousands-of-californians)
 * [2023-04-11, 18:31:22](https://news.ycombinator.com/item?id=35529240) - [Rules for developers to design beautiful UIs without a designer](https://www.refactoringui.com/)
 * [2023-04-11, 18:14:36](https://news.ycombinator.com/item?id=35528956) - [GPT-4 gets a B on my quantum computing final exam](https://scottaaronson.blog/?p=7209)

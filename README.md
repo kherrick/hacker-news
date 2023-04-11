@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-11, 19:34:09](https://news.ycombinator.com/item?id=35530268) - [Tailscale Sucks](https://tailscale.dev/blog/tailscale-sucks)
+* [2023-04-11, 19:21:27](https://news.ycombinator.com/item?id=35530040) - [CRDT Papers](https://crdt.tech/papers.html)
+* [2023-04-11, 19:20:59](https://news.ycombinator.com/item?id=35530030) - [US Bank Lending Drops over $105B, Largest Decline Since 1973](https://www.morningtendies.co/p/bank-lending-drops-105-billion)
 * [2023-04-11, 18:31:22](https://news.ycombinator.com/item?id=35529240) - [Rules for developers to design beautiful UIs without a designer](https://www.refactoringui.com/)
 * [2023-04-11, 18:14:36](https://news.ycombinator.com/item?id=35528956) - [GPT-4 gets a B on my quantum computing final exam](https://scottaaronson.blog/?p=7209)
 * [2023-04-11, 17:53:06](https://news.ycombinator.com/item?id=35528651) - [HTTP Response Header Field: Carbon-Emissions-Scope-2](https://www.ietf.org/archive/id/draft-martin-http-carbon-emissions-scope-2-00.html)
@@ -16,7 +19,6 @@
 * [2023-04-11, 13:57:45](https://news.ycombinator.com/item?id=35525222) - [Supabase Edge Runtime: Self-Hosted Deno Functions](https://supabase.com/blog/edge-runtime-self-hosted-deno-functions)
 * [2023-04-11, 13:10:06](https://news.ycombinator.com/item?id=35524611) - [Open source is fueling the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
 * [2023-04-11, 12:45:49](https://news.ycombinator.com/item?id=35524387) - [An Open Source Book That Teaches JavaScript](https://github.com/sumn2u/learn-javascript)
-* [2023-04-11, 12:45:10](https://news.ycombinator.com/item?id=35524375) - [Why is sea level rise worse in some places?](https://nautil.us/why-is-sea-level-rise-worse-in-some-places-294325/)
 * [2023-04-11, 12:40:49](https://news.ycombinator.com/item?id=35524328) - [Show HN: Skip the SSO Tax, access your user data with OSS](https://github.com/AccessOwl/open_owl)
 * [2023-04-11, 12:39:34](https://news.ycombinator.com/item?id=35524314) - [The Beauty of Pulse Arc Welding](https://www.hermansilver.com/pulse-arc-welding.htm)
 * [2023-04-11, 12:12:09](https://news.ycombinator.com/item?id=35524023) - [KDE Plasma Widget for external monitor brightness adjustment](https://github.com/davidhi7/ddcci-plasmoid)
@@ -26,9 +28,7 @@
 * [2023-04-11, 10:35:50](https://news.ycombinator.com/item?id=35523184) - [I ported the Firefox Archive.today extension to Safari](https://apps.apple.com/us/app/archive-page-extension/id6446372766)
 * [2023-04-11, 07:24:27](https://news.ycombinator.com/item?id=35521925) - [Sega 3-D Glasses: How did they work?](https://nicole.express/2023/the-third-dimension-and-the-eight-bits.html)
 * [2023-04-11, 01:18:43](https://news.ycombinator.com/item?id=35519473) - [The dream of polio eradication might need a rethink](https://www.npr.org/sections/goatsandsoda/2023/04/10/1168141163/the-dream-of-wiping-out-polio-might-need-a-rethink)
-* [2023-04-10, 15:29:54](https://news.ycombinator.com/item?id=35513517) - [We’re one step closer to reading an octopus’s mind](https://arstechnica.com/science/2023/04/in-a-first-researchers-track-brain-activity-in-a-free-moving-octopus/)
 * [2023-04-10, 15:26:43](https://news.ycombinator.com/item?id=35513475) - [Two algorithms for randomly generating aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/)
-* [2023-04-10, 08:40:44](https://news.ycombinator.com/item?id=35510337) - [In Praise of Top Down Programming](https://www.i-programmer.info/professional-programmer/i-programmer/3864-in-praise-of-top-down-.html)
 * [2023-04-09, 21:05:11](https://news.ycombinator.com/item?id=35506459) - [The Otherworldly Compositions of an Ethiopian Nun](https://www.newyorker.com/magazine/2023/04/17/jerusalem-emahoy-tsegue-maryam-guebrou-music-review)
 
 ## [Archives](archives/index.md)
