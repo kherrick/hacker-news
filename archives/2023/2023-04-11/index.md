@@ -6,7 +6,9 @@
 
 * [2023-04-11, 14:43:10](https://news.ycombinator.com/item?id=35525877) - [A life of splendid uselessness is a life well lived](https://psyche.co/ideas/a-life-of-splendid-uselessness-is-a-life-well-lived)
 * [2023-04-11, 14:42:53](https://news.ycombinator.com/item?id=35525871) - [They’re selling nudes of imaginary women on Reddit](https://www.rollingstone.com/culture/culture-features/ai-nudes-selling-reddit-1234708474/)
+* [2023-04-11, 14:30:21](https://news.ycombinator.com/item?id=35525683) - [Swarm](https://www.vitling.xyz/toys/swarm/)
 * [2023-04-11, 14:08:54](https://news.ycombinator.com/item?id=35525384) - [The EU Proposed CRA Law May Have Unintended Consequence for the Python Ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
+* [2023-04-11, 14:02:40](https://news.ycombinator.com/item?id=35525294) - [I worked at Google for -10 days](https://andgein.ru/blog/all/20-i-worked-at-google-for-10-days/)
 * [2023-04-11, 13:57:45](https://news.ycombinator.com/item?id=35525222) - [Supabase Edge Runtime: Self-Hosted Deno Functions](https://supabase.com/blog/edge-runtime-self-hosted-deno-functions)
 * [2023-04-11, 13:30:58](https://news.ycombinator.com/item?id=35524881) - [American Madness: Our Dysfunctional System for Treating Mental Illness](https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/)
 * [2023-04-11, 13:17:27](https://news.ycombinator.com/item?id=35524702) - [Heavy EVs Could Collapse Old Parking Garages: Report](https://www.thedrive.com/news/heavy-evs-could-collapse-old-parking-garages-report)
