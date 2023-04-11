@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 03:39:42](https://news.ycombinator.com/item?id=35520496) - [Three Sisters (Agriculture)](https://en.wikipedia.org/wiki/Three_Sisters_(agriculture))
 * [2023-04-11, 03:20:26](https://news.ycombinator.com/item?id=35520361) - [Nolibc: A minimal C-library replacement shipped with the kernel](https://lwn.net/Articles/920158/)
 * [2023-04-11, 03:17:38](https://news.ycombinator.com/item?id=35520338) - [FTC fines supplement maker $600k for &#x27;review hijacking&#x27; Amazon listings](https://www.engadget.com/ftc-fines-supplement-maker-600000-for-review-hijacking-amazon-listings-210142185.html)
 * [2023-04-11, 03:03:00](https://news.ycombinator.com/item?id=35520236) - [Stanford&#x27;s Groundbreaking AI Study Simulates Authentic Human Behavior](https://www.artisana.ai/articles/generative-agents-stanfords-groundbreaking-ai-study-simulates-authentic)
