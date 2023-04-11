@@ -32,6 +32,7 @@
 * [2023-04-10, 15:29:24](https://news.ycombinator.com/item?id=35513510) - [On Efficient Training of Large-Scale Deep Learning Models: A Literature Review](https://arxiv.org/abs/2304.03589)
 * [2023-04-10, 14:33:19](https://news.ycombinator.com/item?id=35512814) - [1k Photos of Dolphin Fins](https://www.beautifulpublicdata.com/1000-photos-of-dolphin-fins/)
 * [2023-04-10, 14:32:22](https://news.ycombinator.com/item?id=35512798) - [US Bank Lending Slumps by Most on Record in Final Weeks of March](https://finance.yahoo.com/news/us-bank-lending-slumps-most-210839551.html)
+* [2023-04-10, 14:27:37](https://news.ycombinator.com/item?id=35512735) - [George Harrison and the Struggle for Creative Freedom](https://soaringtwenties.substack.com/p/george-harrison-and-the-struggle)
 * [2023-04-10, 14:26:54](https://news.ycombinator.com/item?id=35512723) - [Hit Man: A Technical Manual for Independent Contractors](https://en.wikipedia.org/wiki/Hit_Man:_A_Technical_Manual_for_Independent_Contractors)
 * [2023-04-10, 14:24:46](https://news.ycombinator.com/item?id=35512697) - [Nobel Prize winner: The universe keeps dying and being reborn (2020)](https://bigthink.com/hard-science/black-holes-prove-the-universe-keeps-exploding-claims-physicist/)
 * [2023-04-10, 14:01:28](https://news.ycombinator.com/item?id=35512412) - [OpenBSD 7.3 Released](https://undeadly.org/cgi?action=article;sid=20230410140049)
