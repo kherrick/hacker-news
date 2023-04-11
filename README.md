@@ -2,7 +2,6 @@
 
 * [2023-04-11, 12:00:57](https://news.ycombinator.com/item?id=35523895) - [Sieve (YC W22) Is Hiring a Distributed Systems Engineer](https://www.ycombinator.com/companies/sieve/jobs/VnxRRuc-distributed-systems-engineer-backend)
 * [2023-04-11, 11:58:09](https://news.ycombinator.com/item?id=35523859) - [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/)
-* [2023-04-11, 11:23:16](https://news.ycombinator.com/item?id=35523527) - [‘Claudia’ offers nude photos for pay. Experts say she’s an AI fake](https://www.washingtonpost.com/technology/2023/04/11/ai-imaging-porn-fakes/)
 * [2023-04-11, 09:13:50](https://news.ycombinator.com/item?id=35522642) - [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim)
 * [2023-04-11, 08:54:28](https://news.ycombinator.com/item?id=35522545) - [Ellie – A Mastodon Client for Windows](https://ellie.software/)
 * [2023-04-11, 08:47:54](https://news.ycombinator.com/item?id=35522509) - [Vestas hails breakthrough for recyclable wind turbines](https://www.energymonitor.ai/tech/renewables/vestas-hails-breakthrough-for-recycling-wind-turbine-blades/)
@@ -29,6 +28,7 @@
 * [2023-04-10, 08:42:13](https://news.ycombinator.com/item?id=35510349) - [The emotional roller coaster of changing requirements](https://newsletter.abinoda.com/p/changing-requirements)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 * [2023-04-10, 06:26:05](https://news.ycombinator.com/item?id=35509696) - [Finding Photo Opportunities Near Home](https://phillipreeve.net/blog/finding-photo-opportunities-near-home-part-2/)
+* [2023-04-09, 21:05:11](https://news.ycombinator.com/item?id=35506459) - [The Otherworldly Compositions of an Ethiopian Nun](https://www.newyorker.com/magazine/2023/04/17/jerusalem-emahoy-tsegue-maryam-guebrou-music-review)
 * [2023-04-09, 20:03:12](https://news.ycombinator.com/item?id=35505954) - [Saving the Mystery Symbols Carved into Australia’s Boab Trees](https://www.atlasobscura.com/articles/boab-tree-carvings-australia)
 
 ## [Archives](archives/index.md)

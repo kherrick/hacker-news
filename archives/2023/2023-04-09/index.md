@@ -12,6 +12,7 @@
 * [2023-04-09, 21:36:16](https://news.ycombinator.com/item?id=35506711) - [Laid-off tech workers choose stability over status](https://www.wsj.com/articles/as-tech-jobs-disappear-silicon-valley-veterans-reset-their-careers-dbdb983)
 * [2023-04-09, 21:08:55](https://news.ycombinator.com/item?id=35506485) - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 * [2023-04-09, 21:07:21](https://news.ycombinator.com/item?id=35506472) - [Large Language Models Are Human-Level Prompt Engineers](https://openreview.net/forum?id=92gvk82DE-)
+* [2023-04-09, 21:05:11](https://news.ycombinator.com/item?id=35506459) - [The Otherworldly Compositions of an Ethiopian Nun](https://www.newyorker.com/magazine/2023/04/17/jerusalem-emahoy-tsegue-maryam-guebrou-music-review)
 * [2023-04-09, 21:02:49](https://news.ycombinator.com/item?id=35506448) - [Sabine Hossenfelder: I think faster than light travel is possible. Here&#x27;s why](http://backreaction.blogspot.com/2023/04/i-think-faster-than-light-travel-is.html)
 * [2023-04-09, 20:56:42](https://news.ycombinator.com/item?id=35506401) - [Australia Is Quitting Coal in Record Time Thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
 * [2023-04-09, 20:43:47](https://news.ycombinator.com/item?id=35506304) - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
