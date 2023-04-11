@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-11, 13:06:03](https://news.ycombinator.com/item?id=35524572) - [Not Forgotten: ChatGPT isn’t the only important trend in technology](https://www.oreilly.com/radar/not-forgotten/)
+* [2023-04-11, 12:45:49](https://news.ycombinator.com/item?id=35524387) - [An Open Source Book That Teaches JavaScript](https://github.com/sumn2u/learn-javascript)
 * [2023-04-11, 12:37:45](https://news.ycombinator.com/item?id=35524297) - [The Free Software Foundation is dying](https://drewdevault.com/2023/04/11/2023-04-11-The-FSF-is-dying.html)
 * [2023-04-11, 12:00:57](https://news.ycombinator.com/item?id=35523895) - [Sieve (YC W22) Is Hiring a Distributed Systems Engineer](https://www.ycombinator.com/companies/sieve/jobs/VnxRRuc-distributed-systems-engineer-backend)
 * [2023-04-11, 11:58:09](https://news.ycombinator.com/item?id=35523859) - [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/)
@@ -19,9 +21,7 @@
 * [2023-04-10, 23:39:43](https://news.ycombinator.com/item?id=35518786) - [Supabase Logs: open-source logging server](https://supabase.com/blog/supabase-logs-self-hosted)
 * [2023-04-10, 21:32:13](https://news.ycombinator.com/item?id=35517649) - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 * [2023-04-10, 21:30:09](https://news.ycombinator.com/item?id=35517629) - [Al Jaffee, king of the Mad Magazine fold-in, has died](https://www.nytimes.com/2023/04/10/arts/al-jaffee-dead.html)
-* [2023-04-10, 17:58:07](https://news.ycombinator.com/item?id=35515208) - [Teaching ChatGPT to speak my son’s invented language](https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05)
 * [2023-04-10, 15:38:02](https://news.ycombinator.com/item?id=35513612) - [The biggest EV battery recycling plant in the US is open for business](https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business)
-* [2023-04-10, 14:33:19](https://news.ycombinator.com/item?id=35512814) - [1k Photos of Dolphin Fins](https://www.beautifulpublicdata.com/1000-photos-of-dolphin-fins/)
 * [2023-04-10, 14:27:37](https://news.ycombinator.com/item?id=35512735) - [George Harrison and the Struggle for Creative Freedom](https://soaringtwenties.substack.com/p/george-harrison-and-the-struggle)
 * [2023-04-10, 13:37:50](https://news.ycombinator.com/item?id=35512109) - [Preserving the Sunset Editorial Sound Effects Library from the USC Archive](https://blog.freesound.org/?p=1515)
 * [2023-04-10, 13:07:56](https://news.ycombinator.com/item?id=35511817) - [Aura – Python source code auditing and static analysis on a large scale](https://github.com/SourceCode-AI/aura)
