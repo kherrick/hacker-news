@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-11, 14:08:54](https://news.ycombinator.com/item?id=35525384) - [The EU Proposed CRA Law May Have Unintended Consequence for the Python Ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
+* [2023-04-11, 14:08:54](https://news.ycombinator.com/item?id=35525384) - [The EU proposed CRA law may have unintended consequence for the Python ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
+* [2023-04-11, 13:57:45](https://news.ycombinator.com/item?id=35525222) - [Supabase Edge Runtime: Self-Hosted Deno Functions](https://supabase.com/blog/edge-runtime-self-hosted-deno-functions)
 * [2023-04-11, 13:30:58](https://news.ycombinator.com/item?id=35524881) - [People with severe mental illness have been failed by a dysfunctional system](https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/)
 * [2023-04-11, 13:17:27](https://news.ycombinator.com/item?id=35524702) - [Heavy EVs Could Collapse Old Parking Garages: Report](https://www.thedrive.com/news/heavy-evs-could-collapse-old-parking-garages-report)
 * [2023-04-11, 13:16:10](https://news.ycombinator.com/item?id=35524684) - [More than a third of community college students have vanished](https://www.seattletimes.com/education-lab/more-than-a-third-of-community-college-students-have-vanished/)
@@ -22,8 +23,7 @@
 * [2023-04-11, 06:34:54](https://news.ycombinator.com/item?id=35521598) - [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6)
 * [2023-04-11, 05:07:43](https://news.ycombinator.com/item?id=35521087) - [Dependently Typing R Vectors, Arrays, and Matrices](https://arxiv.org/abs/2304.04265)
 * [2023-04-11, 02:33:03](https://news.ycombinator.com/item?id=35520044) - [The end of a myth: Distributed transactions can scale](http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html)
-* [2023-04-10, 23:39:43](https://news.ycombinator.com/item?id=35518786) - [Supabase Logs: open-source logging server](https://supabase.com/blog/supabase-logs-self-hosted)
-* [2023-04-10, 14:53:30](https://news.ycombinator.com/item?id=35513052) - [A Modest Proposal for the Non-Existence of Exoplanets](https://arxiv.org/abs/2303.16915)
+* [2023-04-10, 15:26:43](https://news.ycombinator.com/item?id=35513475) - [Two algorithms for randomly generating aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/)
 * [2023-04-10, 14:27:37](https://news.ycombinator.com/item?id=35512735) - [George Harrison and the Struggle for Creative Freedom](https://soaringtwenties.substack.com/p/george-harrison-and-the-struggle)
 * [2023-04-10, 13:07:56](https://news.ycombinator.com/item?id=35511817) - [Aura – Python source code auditing and static analysis on a large scale](https://github.com/SourceCode-AI/aura)
 * [2023-04-10, 11:30:38](https://news.ycombinator.com/item?id=35511147) - [Notes from a Sun Tzu Skeptic (2019)](https://thestrategybridge.org/the-bridge/2019/9/24/notes-from-a-sun-tzu-skeptic)

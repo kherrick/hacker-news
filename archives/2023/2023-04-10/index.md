@@ -30,6 +30,7 @@
 * [2023-04-10, 15:36:52](https://news.ycombinator.com/item?id=35513595) - [Everybody is the main character](https://blog.sbensu.com/posts/everybody-is-the-main-character/)
 * [2023-04-10, 15:29:29](https://news.ycombinator.com/item?id=35513511) - [New study sheds light on how amino acids “evolved”](https://www.salon.com/2023/03/01/first-life-on-earth-amino-acid-study/)
 * [2023-04-10, 15:29:24](https://news.ycombinator.com/item?id=35513510) - [On Efficient Training of Large-Scale Deep Learning Models: A Literature Review](https://arxiv.org/abs/2304.03589)
+* [2023-04-10, 15:26:43](https://news.ycombinator.com/item?id=35513475) - [Two algorithms for randomly generating aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/)
 * [2023-04-10, 14:53:30](https://news.ycombinator.com/item?id=35513052) - [A Modest Proposal for the Non-Existence of Exoplanets](https://arxiv.org/abs/2303.16915)
 * [2023-04-10, 14:33:19](https://news.ycombinator.com/item?id=35512814) - [1k Photos of Dolphin Fins](https://www.beautifulpublicdata.com/1000-photos-of-dolphin-fins/)
 * [2023-04-10, 14:32:22](https://news.ycombinator.com/item?id=35512798) - [US Bank Lending Slumps by Most on Record in Final Weeks of March](https://finance.yahoo.com/news/us-bank-lending-slumps-most-210839551.html)
