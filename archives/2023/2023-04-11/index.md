@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 17:53:06](https://news.ycombinator.com/item?id=35528651) - [HTTP Response Header Field: Carbon-Emissions-Scope-2](https://www.ietf.org/archive/id/draft-martin-http-carbon-emissions-scope-2-00.html)
 * [2023-04-11, 17:49:33](https://news.ycombinator.com/item?id=35528595) - [Ask HN: Is the job market brutal? or is it just me?](https://news.ycombinator.com/item?id=35528595)
 * [2023-04-11, 17:30:21](https://news.ycombinator.com/item?id=35528315) - [Now live for all: Substack Notes](https://on.substack.com/p/notes)
 * [2023-04-11, 17:27:50](https://news.ycombinator.com/item?id=35528281) - [Elizabeth Holmes loses bid to stay out of prison](https://www.cnbc.com/2023/04/11/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison.html)

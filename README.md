@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-11, 17:53:06](https://news.ycombinator.com/item?id=35528651) - [HTTP Response Header Field: Carbon-Emissions-Scope-2](https://www.ietf.org/archive/id/draft-martin-http-carbon-emissions-scope-2-00.html)
 * [2023-04-11, 17:49:33](https://news.ycombinator.com/item?id=35528595) - [Ask HN: Is the job market brutal? or is it just me?](https://news.ycombinator.com/item?id=35528595)
 * [2023-04-11, 17:30:21](https://news.ycombinator.com/item?id=35528315) - [Now live for all: Substack Notes](https://on.substack.com/p/notes)
 * [2023-04-11, 17:27:50](https://news.ycombinator.com/item?id=35528281) - [Elizabeth Holmes loses bid to stay out of prison](https://www.cnbc.com/2023/04/11/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison.html)
@@ -10,7 +11,6 @@
 * [2023-04-11, 16:16:15](https://news.ycombinator.com/item?id=35527287) - [PrimateJS: Svelte and Htmx Quick Start](https://primatejs.com/svelte-htmx-esbuild-jump-start/)
 * [2023-04-11, 15:48:40](https://news.ycombinator.com/item?id=35526846) - [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-11, 15:37:34](https://news.ycombinator.com/item?id=35526648) - [Make Something Wonderful – Steve Jobs in his own words](https://stevejobsarchive.com/book)
-* [2023-04-11, 15:24:32](https://news.ycombinator.com/item?id=35526451) - [Ford to spend $1.3B to transform Canada factory into EV manufacturing hub](https://techcrunch.com/2023/04/11/ford-to-spend-1-3b-to-transform-canada-factory-into-ev-manufacturing-hub/)
 * [2023-04-11, 15:21:08](https://news.ycombinator.com/item?id=35526401) - [The Coming of Local LLMs](https://nickarner.com/notes/the-coming-of-local-llms-march-23-2023/)
 * [2023-04-11, 14:30:21](https://news.ycombinator.com/item?id=35525683) - [Swarm](https://www.vitling.xyz/toys/swarm/)
 * [2023-04-11, 14:29:03](https://news.ycombinator.com/item?id=35525661) - [Distributed² Machine Learning Notebooks with Elixir and Livebook](https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw)
