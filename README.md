@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-11, 13:30:58](https://news.ycombinator.com/item?id=35524881) - [American Madness: Our Dysfunctional System for Treating Mental Illness](https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/)
+* [2023-04-11, 14:08:54](https://news.ycombinator.com/item?id=35525384) - [The EU Proposed CRA Law May Have Unintended Consequence for the Python Ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
+* [2023-04-11, 13:30:58](https://news.ycombinator.com/item?id=35524881) - [People with severe mental illness have been failed by a dysfunctional system](https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/)
 * [2023-04-11, 13:17:27](https://news.ycombinator.com/item?id=35524702) - [Heavy EVs Could Collapse Old Parking Garages: Report](https://www.thedrive.com/news/heavy-evs-could-collapse-old-parking-garages-report)
 * [2023-04-11, 13:16:10](https://news.ycombinator.com/item?id=35524684) - [More than a third of community college students have vanished](https://www.seattletimes.com/education-lab/more-than-a-third-of-community-college-students-have-vanished/)
 * [2023-04-11, 13:10:06](https://news.ycombinator.com/item?id=35524611) - [Open source is fueling the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
@@ -16,7 +17,6 @@
 * [2023-04-11, 09:13:50](https://news.ycombinator.com/item?id=35522642) - [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim)
 * [2023-04-11, 08:47:54](https://news.ycombinator.com/item?id=35522509) - [Vestas hails breakthrough for recyclable wind turbines](https://www.energymonitor.ai/tech/renewables/vestas-hails-breakthrough-for-recycling-wind-turbine-blades/)
 * [2023-04-11, 07:45:29](https://news.ycombinator.com/item?id=35522080) - [Maximizing the Potential of LLMs: A Guide to Prompt Engineering](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)
-* [2023-04-11, 07:45:07](https://news.ycombinator.com/item?id=35522076) - [Becoming Rustacean: Resources to Learn Rust Programming](https://www.nativebyx.dev/rust/becoming-rustacean/awesome-free-online-resources-to-earn-rust-programming-language.html)
 * [2023-04-11, 07:13:15](https://news.ycombinator.com/item?id=35521846) - [FreeBSD 13.2](https://www.freebsd.org/releases/13.2R/relnotes/)
 * [2023-04-11, 06:50:02](https://news.ycombinator.com/item?id=35521704) - [We&#x27;re building a browser when it&#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 * [2023-04-11, 06:34:54](https://news.ycombinator.com/item?id=35521598) - [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6)
