@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-11, 20:22:00",
+      "https://news.ycombinator.com/item?id=35530991"
+    ],
+    [
+      "View Transitions API",
+      "https://htmx.org/essays/view-transitions/"
+    ]
+  ],
+  [
+    [
       "2023-04-11, 19:49:21",
       "https://news.ycombinator.com/item?id=35530513"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2023-04-11, 17:27:30",
-      "https://news.ycombinator.com/item?id=35528274"
-    ],
-    [
-      "Smart App Banners can be used to reveal Apple ID region",
-      "https://fingerprint.com/blog/apple-id-region-leak/"
-    ]
-  ],
-  [
-    [
       "2023-04-11, 17:22:54",
       "https://news.ycombinator.com/item?id=35528199"
     ],
@@ -97,6 +97,16 @@
     [
       "PhaseLLM: Standardized Chat LLM API (Cohere, Claude, GPT) + Evaluation Framework",
       "https://github.com/wgryc/phasellm"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 16:16:15",
+      "https://news.ycombinator.com/item?id=35527287"
+    ],
+    [
+      "PrimateJS: Svelte and Htmx Quick Start",
+      "https://primatejs.com/svelte-htmx-esbuild-jump-start/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Sega 3-D Glasses: How did they work?",
       "https://nicole.express/2023/the-third-dimension-and-the-eight-bits.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 01:18:43",
-      "https://news.ycombinator.com/item?id=35519473"
-    ],
-    [
-      "The dream of polio eradication might need a rethink",
-      "https://www.npr.org/sections/goatsandsoda/2023/04/10/1168141163/the-dream-of-wiping-out-polio-might-need-a-rethink"
     ]
   ],
   [
