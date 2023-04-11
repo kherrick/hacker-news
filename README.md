@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-11, 19:01:27](https://news.ycombinator.com/item?id=35529779) - [California to lend 20% down payments with 0% interest for homebuyers](https://www.kpbs.org/news/2023/04/05/new-loan-program-expected-to-put-homeownership-within-reach-for-thousands-of-californians)
 * [2023-04-11, 18:31:22](https://news.ycombinator.com/item?id=35529240) - [Rules for developers to design beautiful UIs without a designer](https://www.refactoringui.com/)
 * [2023-04-11, 18:14:36](https://news.ycombinator.com/item?id=35528956) - [GPT-4 gets a B on my quantum computing final exam](https://scottaaronson.blog/?p=7209)
 * [2023-04-11, 17:53:06](https://news.ycombinator.com/item?id=35528651) - [HTTP Response Header Field: Carbon-Emissions-Scope-2](https://www.ietf.org/archive/id/draft-martin-http-carbon-emissions-scope-2-00.html)
-* [2023-04-11, 17:27:30](https://news.ycombinator.com/item?id=35528274) - [Smart App Banners can be used to de-anonymize Apple users](https://fingerprint.com/blog/apple-id-region-leak/)
+* [2023-04-11, 17:27:30](https://news.ycombinator.com/item?id=35528274) - [Smart App Banners can be used to reveal Apple ID region](https://fingerprint.com/blog/apple-id-region-leak/)
+* [2023-04-11, 17:17:12](https://news.ycombinator.com/item?id=35528129) - [OpenAI’s Bug Bounty Program](https://openai.com/blog/bug-bounty-program)
 * [2023-04-11, 17:00:07](https://news.ycombinator.com/item?id=35527907) - [PhaseLLM: Standardized Chat LLM API (Cohere, Claude, GPT) + Evaluation Framework](https://github.com/wgryc/phasellm)
 * [2023-04-11, 16:16:15](https://news.ycombinator.com/item?id=35527287) - [PrimateJS: Svelte and Htmx Quick Start](https://primatejs.com/svelte-htmx-esbuild-jump-start/)
 * [2023-04-11, 15:48:40](https://news.ycombinator.com/item?id=35526846) - [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
