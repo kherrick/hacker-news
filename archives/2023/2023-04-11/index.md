@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 21:42:07](https://news.ycombinator.com/item?id=35531989) - [Deck.of.cards](https://deck.of.cards/old/)
 * [2023-04-11, 21:28:51](https://news.ycombinator.com/item?id=35531833) - [Whole Foods closes San Francisco flagship after one year, citing worker safety](https://www.cnn.com/2023/04/11/business/san-francisco-whole-foods-closure/index.html)
 * [2023-04-11, 21:00:49](https://news.ycombinator.com/item?id=35531494) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
 * [2023-04-11, 20:41:11](https://news.ycombinator.com/item?id=35531252) - [Elizabeth Holmes to begin 11-year prison sentence at end of month](https://www.theguardian.com/technology/2023/apr/11/elizabeth-holmes-begin-prison-sentence-end-of-month)
@@ -47,6 +48,7 @@
 * [2023-04-11, 14:08:54](https://news.ycombinator.com/item?id=35525384) - [The EU Proposed CRA Law May Have Unintended Consequence for the Python Ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
 * [2023-04-11, 14:02:40](https://news.ycombinator.com/item?id=35525294) - [I worked at Google for -10 days](https://andgein.ru/blog/all/20-i-worked-at-google-for-10-days/)
 * [2023-04-11, 13:57:45](https://news.ycombinator.com/item?id=35525222) - [Supabase Edge Runtime: Self-Hosted Deno Functions](https://supabase.com/blog/edge-runtime-self-hosted-deno-functions)
+* [2023-04-11, 13:45:23](https://news.ycombinator.com/item?id=35525047) - [Sparkle](https://troz.net/post/2023/sparkle/)
 * [2023-04-11, 13:30:58](https://news.ycombinator.com/item?id=35524881) - [American Madness: Our Dysfunctional System for Treating Mental Illness](https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/)
 * [2023-04-11, 13:17:27](https://news.ycombinator.com/item?id=35524702) - [Heavy EVs Could Collapse Old Parking Garages: Report](https://www.thedrive.com/news/heavy-evs-could-collapse-old-parking-garages-report)
 * [2023-04-11, 13:16:10](https://news.ycombinator.com/item?id=35524684) - [More than a third of community college students have vanished](https://www.seattletimes.com/education-lab/more-than-a-third-of-community-college-students-have-vanished/)
