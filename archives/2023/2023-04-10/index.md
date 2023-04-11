@@ -90,6 +90,7 @@
 * [2023-04-10, 04:18:15](https://news.ycombinator.com/item?id=35509132) - [Dancing Plague of 1518](https://en.wikipedia.org/wiki/Dancing_plague_of_1518)
 * [2023-04-10, 03:30:53](https://news.ycombinator.com/item?id=35508903) - [Senior Frontend Engineer at Justpaid.io (YC W23)](https://www.ycombinator.com/companies/justpaid-io/jobs/p9N5Zog-senior-frontend-software-engineer-contract-to-hire)
 * [2023-04-10, 03:21:59](https://news.ycombinator.com/item?id=35508857) - [DoctorGPT brings GPT into production for error diagnosing](https://github.com/ingyamilmolinar/doctorgpt)
+* [2023-04-10, 02:49:43](https://news.ycombinator.com/item?id=35508700) - [The Dissident&#x27;s Guide to Philanthropy](https://blog.joelonsdale.com/p/the-dissidents-guide-to-philanthropy)
 * [2023-04-10, 02:47:02](https://news.ycombinator.com/item?id=35508677) - [Deep in Florida, an ecological disaster has been reversed, wildlife is thriving](https://www.nationalgeographic.com/environment/article/kissimmee-biggest-river-restoration-ever-completed)
 * [2023-04-10, 02:31:20](https://news.ycombinator.com/item?id=35508582) - [With Sobering Science, Doctor Debunks 12-Step Recovery (2014)](https://www.npr.org/2014/03/23/291405829/with-sobering-science-doctor-debunks-12-step-recovery)
 * [2023-04-10, 01:37:17](https://news.ycombinator.com/item?id=35508281) - [Bivector.net: Geometric Algebra Resources](https://bivector.net/)
