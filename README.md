@@ -27,7 +27,7 @@
 * [2023-04-10, 13:07:56](https://news.ycombinator.com/item?id=35511817) - [Aura – Python source code auditing and static analysis on a large scale](https://github.com/SourceCode-AI/aura)
 * [2023-04-10, 11:30:38](https://news.ycombinator.com/item?id=35511147) - [Notes from a Sun Tzu Skeptic (2019)](https://thestrategybridge.org/the-bridge/2019/9/24/notes-from-a-sun-tzu-skeptic)
 * [2023-04-10, 08:42:13](https://news.ycombinator.com/item?id=35510349) - [The emotional roller coaster of changing requirements](https://newsletter.abinoda.com/p/changing-requirements)
-* [2023-04-10, 02:49:43](https://news.ycombinator.com/item?id=35508700) - [The Dissident&#x27;s Guide to Philanthropy](https://blog.joelonsdale.com/p/the-dissidents-guide-to-philanthropy)
+* [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 * [2023-04-09, 20:03:12](https://news.ycombinator.com/item?id=35505954) - [Saving the Mystery Symbols Carved into Australia’s Boab Trees](https://www.atlasobscura.com/articles/boab-tree-carvings-australia)
 * [2023-04-09, 20:00:39](https://news.ycombinator.com/item?id=35505931) - [Hyperspectral camouflage is needed to hide from new electronic sensors](https://www.economist.com/science-and-technology/2023/03/29/better-camouflage-is-needed-to-hide-from-new-electronic-sensors)
 
