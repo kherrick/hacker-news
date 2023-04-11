@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-11, 08:54:28](https://news.ycombinator.com/item?id=35522545) - [Ellie – A Mastodon Client for Windows](https://ellie.software/)
+* [2023-04-11, 07:45:29](https://news.ycombinator.com/item?id=35522080) - [Maximizing the Potential of LLMs: A Guide to Prompt Engineering](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)
 * [2023-04-11, 07:45:07](https://news.ycombinator.com/item?id=35522076) - [Becoming Rustacean:Awesome Free Online Resources to Learn Rust Programming](https://www.nativebyx.dev/rust/becoming-rustacean/awesome-free-online-resources-to-earn-rust-programming-language.html)
 * [2023-04-11, 07:13:15](https://news.ycombinator.com/item?id=35521846) - [FreeBSD 13.2-RELEASE Now Available](https://www.freebsd.org/releases/13.2R/relnotes/)
 * [2023-04-11, 06:50:02](https://news.ycombinator.com/item?id=35521704) - [We&#x27;re building a browser when it&#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
@@ -25,7 +26,6 @@
 * [2023-04-10, 13:07:56](https://news.ycombinator.com/item?id=35511817) - [Aura – Python source code auditing and static analysis on a large scale](https://github.com/SourceCode-AI/aura)
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 * [2023-04-10, 11:30:38](https://news.ycombinator.com/item?id=35511147) - [Notes from a Sun Tzu Skeptic (2019)](https://thestrategybridge.org/the-bridge/2019/9/24/notes-from-a-sun-tzu-skeptic)
-* [2023-04-10, 11:22:27](https://news.ycombinator.com/item?id=35511106) - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-04-10, 08:42:13](https://news.ycombinator.com/item?id=35510349) - [The emotional roller coaster of changing requirements](https://newsletter.abinoda.com/p/changing-requirements)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 * [2023-04-10, 02:49:43](https://news.ycombinator.com/item?id=35508700) - [The Dissident&#x27;s Guide to Philanthropy](https://blog.joelonsdale.com/p/the-dissidents-guide-to-philanthropy)
