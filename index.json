@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-11, 17:49:33",
+      "https://news.ycombinator.com/item?id=35528595"
+    ],
+    [
+      "Ask HN: Is the job market brutal? or is it just me?",
+      "https://news.ycombinator.com/item?id=35528595"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 17:30:21",
+      "https://news.ycombinator.com/item?id=35528315"
+    ],
+    [
+      "Now live for all: Substack Notes",
+      "https://on.substack.com/p/notes"
+    ]
+  ],
+  [
+    [
       "2023-04-11, 17:27:50",
       "https://news.ycombinator.com/item?id=35528281"
     ],
@@ -17,6 +37,16 @@
     [
       "Smart App Banners can be used to de-anonymize Apple users",
       "https://fingerprint.com/blog/apple-id-region-leak/"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 17:00:07",
+      "https://news.ycombinator.com/item?id=35527907"
+    ],
+    [
+      "PhaseLLM: Standardized Chat LLM API (Cohere, Claude, GPT) + Evaluation Framework",
+      "https://github.com/wgryc/phasellm"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue",
       "https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 15:43:42",
-      "https://news.ycombinator.com/item?id=35526768"
-    ],
-    [
-      "Substack Notes Launched",
-      "https://twitter.com/cjgbest/status/1645804524068818945"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Distributed² Machine Learning Notebooks with Elixir and Livebook",
       "https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 14:08:54",
-      "https://news.ycombinator.com/item?id=35525384"
-    ],
-    [
-      "The EU proposed CRA law may have unintended consequence for the Python ecosystem",
-      "https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "I ported the Firefox Archive.today extension to Safari",
       "https://apps.apple.com/us/app/archive-page-extension/id6446372766"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 06:50:02",
-      "https://news.ycombinator.com/item?id=35521704"
-    ],
-    [
-      "We&#x27;re building a browser when it&#x27;s supposed to be impossible",
-      "https://awesomekling.substack.com/p/how-were-building-a-browser-when"
     ]
   ],
   [
