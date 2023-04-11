@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-11, 07:13:15](https://news.ycombinator.com/item?id=35521846) - [FreeBSD 13.2-RELEASE Now Available](https://www.freebsd.org/releases/13.2R/relnotes/)
+* [2023-04-11, 07:05:19](https://news.ycombinator.com/item?id=35521797) - [FBI Warns Against Using Public USB Ports Due to Malware Risk](https://www.macrumors.com/2023/04/10/fbi-malware-public-usb-port-warning/)
 * [2023-04-11, 06:50:02](https://news.ycombinator.com/item?id=35521704) - [We&#x27;re building a browser when it&#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 * [2023-04-11, 06:34:54](https://news.ycombinator.com/item?id=35521598) - [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6)
 * [2023-04-11, 06:11:13](https://news.ycombinator.com/item?id=35521436) - [Stop Telling Everyone What You Do for a Living](https://www.wsj.com/articles/stop-telling-everyone-what-you-do-for-a-living-5daa8fc9)
@@ -15,7 +17,6 @@
 * [2023-04-10, 21:30:09](https://news.ycombinator.com/item?id=35517629) - [Al Jaffee, king of the Mad Magazine fold-in, has died](https://www.nytimes.com/2023/04/10/arts/al-jaffee-dead.html)
 * [2023-04-10, 21:01:08](https://news.ycombinator.com/item?id=35517364) - [Aviator (YC S21) is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-04-10, 18:48:51](https://news.ycombinator.com/item?id=35515873) - [Keycloak with PostgreSQL on Kubernetes](https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/)
-* [2023-04-10, 17:59:22](https://news.ycombinator.com/item?id=35515230) - [Passing the Reins on Panfrost](https://rosenzweig.io/blog/passing-reins-panfrost.html)
 * [2023-04-10, 17:58:07](https://news.ycombinator.com/item?id=35515208) - [Teaching ChatGPT to speak my son’s invented language](https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05)
 * [2023-04-10, 17:26:19](https://news.ycombinator.com/item?id=35514799) - [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
 * [2023-04-10, 16:38:20](https://news.ycombinator.com/item?id=35514228) - [DyLoRA: Parameter Efficient Tuning of Pre-Trained Models](https://arxiv.org/abs/2210.07558)
@@ -25,7 +26,6 @@
 * [2023-04-10, 14:33:19](https://news.ycombinator.com/item?id=35512814) - [1k Photos of Dolphin Fins](https://www.beautifulpublicdata.com/1000-photos-of-dolphin-fins/)
 * [2023-04-10, 14:27:37](https://news.ycombinator.com/item?id=35512735) - [George Harrison and the Struggle for Creative Freedom](https://soaringtwenties.substack.com/p/george-harrison-and-the-struggle)
 * [2023-04-10, 13:07:56](https://news.ycombinator.com/item?id=35511817) - [Aura – Python source code auditing and static analysis on a large scale](https://github.com/SourceCode-AI/aura)
-* [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 * [2023-04-10, 11:30:38](https://news.ycombinator.com/item?id=35511147) - [Notes from a Sun Tzu Skeptic (2019)](https://thestrategybridge.org/the-bridge/2019/9/24/notes-from-a-sun-tzu-skeptic)
 * [2023-04-10, 08:42:13](https://news.ycombinator.com/item?id=35510349) - [The emotional roller coaster of changing requirements](https://newsletter.abinoda.com/p/changing-requirements)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
