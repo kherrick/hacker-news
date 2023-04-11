@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 19:01:27](https://news.ycombinator.com/item?id=35529779) - [California to lend 20% down payments with 0% interest for homebuyers](https://www.kpbs.org/news/2023/04/05/new-loan-program-expected-to-put-homeownership-within-reach-for-thousands-of-californians)
 * [2023-04-11, 18:31:22](https://news.ycombinator.com/item?id=35529240) - [Rules for developers to design beautiful UIs without a designer](https://www.refactoringui.com/)
 * [2023-04-11, 18:14:36](https://news.ycombinator.com/item?id=35528956) - [GPT-4 gets a B on my quantum computing final exam](https://scottaaronson.blog/?p=7209)
 * [2023-04-11, 17:53:06](https://news.ycombinator.com/item?id=35528651) - [HTTP Response Header Field: Carbon-Emissions-Scope-2](https://www.ietf.org/archive/id/draft-martin-http-carbon-emissions-scope-2-00.html)
@@ -18,6 +19,7 @@
 * [2023-04-11, 16:16:15](https://news.ycombinator.com/item?id=35527287) - [PrimateJS: Svelte and Htmx Quick Start](https://primatejs.com/svelte-htmx-esbuild-jump-start/)
 * [2023-04-11, 15:48:40](https://news.ycombinator.com/item?id=35526846) - [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-11, 15:43:42](https://news.ycombinator.com/item?id=35526768) - [Substack Notes Launched](https://twitter.com/cjgbest/status/1645804524068818945)
+* [2023-04-11, 15:43:42](https://news.ycombinator.com/item?id=35526768) - [Substack Notes Launched](https://on.substack.com/p/notes)
 * [2023-04-11, 15:37:34](https://news.ycombinator.com/item?id=35526648) - [Make Something Wonderful – Steve Jobs in his own words](https://stevejobsarchive.com/book)
 * [2023-04-11, 15:24:32](https://news.ycombinator.com/item?id=35526451) - [Ford to spend $1.3B to transform Canada factory into EV manufacturing hub](https://techcrunch.com/2023/04/11/ford-to-spend-1-3b-to-transform-canada-factory-into-ev-manufacturing-hub/)
 * [2023-04-11, 15:21:08](https://news.ycombinator.com/item?id=35526401) - [The Coming of Local LLMs](https://nickarner.com/notes/the-coming-of-local-llms-march-23-2023/)
