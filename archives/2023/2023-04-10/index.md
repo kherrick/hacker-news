@@ -45,6 +45,7 @@
 * [2023-04-10, 13:23:25](https://news.ycombinator.com/item?id=35511964) - [Can PL theory make you a better software engineer?](https://www.typetheoryforall.com//2023/04/09/29-Jimmy-Koppel.html)
 * [2023-04-10, 13:15:17](https://news.ycombinator.com/item?id=35511879) - [Never Give Money to Charity](https://torturechambersmalltalk.substack.com/p/never-give-money-to-charity)
 * [2023-04-10, 13:09:29](https://news.ycombinator.com/item?id=35511830) - [TSMC Sales Miss for Second Straight Quarter on Tepid Demand](https://www.bloomberg.com/news/articles/2023-04-10/tsmc-sales-miss-for-second-straight-quarter-on-tepid-tech-demand)
+* [2023-04-10, 13:01:30](https://news.ycombinator.com/item?id=35511751) - [The Exhausting History of Fatigue](https://www.newyorker.com/magazine/2023/04/17/a-history-of-fatigue-georges-vigarello-book-review)
 * [2023-04-10, 13:00:44](https://news.ycombinator.com/item?id=35511744) - [American IQ scores have rapidly dropped, proving the &#x27;Reverse Flynn effect&#x27;](https://www.popularmechanics.com/science/a43469569/american-iq-scores-decline-reverse-flynn-effect/)
 * [2023-04-10, 12:58:25](https://news.ycombinator.com/item?id=35511717) - [How to Get Started in Soldering for Beginners](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)
 * [2023-04-10, 12:58:07](https://news.ycombinator.com/item?id=35511713) - [Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918)
