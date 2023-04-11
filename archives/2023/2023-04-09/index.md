@@ -18,6 +18,7 @@
 * [2023-04-09, 20:35:33](https://news.ycombinator.com/item?id=35506236) - [Who Invented Vector Clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
 * [2023-04-09, 20:17:10](https://news.ycombinator.com/item?id=35506069) - [A Baby GPT](https://twitter.com/karpathy/status/1645115622517542913)
 * [2023-04-09, 20:10:49](https://news.ycombinator.com/item?id=35506009) - [What does a research grant pay for?](https://austinhenley.com/blog/grantbudget.html)
+* [2023-04-09, 20:03:12](https://news.ycombinator.com/item?id=35505954) - [Saving the Mystery Symbols Carved into Australia’s Boab Trees](https://www.atlasobscura.com/articles/boab-tree-carvings-australia)
 * [2023-04-09, 20:03:08](https://news.ycombinator.com/item?id=35505953) - [Tesla Model 2 will have 53kWh LFP battery pack](https://www.arenaev.com/tesla_model_2_will_have_53_kwh_lfp_battery_pack-news-1648.php)
 * [2023-04-09, 20:00:39](https://news.ycombinator.com/item?id=35505931) - [Hyperspectral camouflage is needed to hide from new electronic sensors](https://www.economist.com/science-and-technology/2023/03/29/better-camouflage-is-needed-to-hide-from-new-electronic-sensors)
 * [2023-04-09, 19:44:12](https://news.ycombinator.com/item?id=35505778) - [Ambry: LinkedIn’s Scalable Geo-Distributed Object Store](https://www.micahlerner.com/2023/03/28/ambry-linkedins-scalable-geo-distributed-object-store.html)
