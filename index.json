@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-10, 23:34:58",
+      "https://news.ycombinator.com/item?id=35518746"
+    ],
+    [
+      "Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4",
+      "https://arxiv.org/abs/2304.03439"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 22:14:14",
       "https://news.ycombinator.com/item?id=35518032"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-04-10, 16:00:55",
-      "https://news.ycombinator.com/item?id=35513852"
-    ],
-    [
-      "P &lt; 0.05 Considered Harmful",
-      "https://simplicityissota.substack.com/p/p-005-considered-harmful"
-    ]
-  ],
-  [
-    [
       "2023-04-10, 15:41:20",
       "https://news.ycombinator.com/item?id=35513643"
     ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=35512723"
     ],
     [
-      "Hit Man: A Technical Manual for Independent Contractors",
+      "Hit Man: A technical manual for independent contractors",
       "https://en.wikipedia.org/wiki/Hit_Man:_A_Technical_Manual_for_Independent_Contractors"
     ]
   ],
@@ -187,16 +187,6 @@
     [
       "Feature flags and authorization abstract the same concept",
       "https://ntietz.com/blog/feature-flags-and-authorization/"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 13:23:25",
-      "https://news.ycombinator.com/item?id=35511964"
-    ],
-    [
-      "Can PL theory make you a better software engineer?",
-      "https://www.typetheoryforall.com//2023/04/09/29-Jimmy-Koppel.html"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2023-04-10, 11:52:09",
+      "https://news.ycombinator.com/item?id=35511269"
+    ],
+    [
+      "The SaaS Playbook",
+      "https://www.kickstarter.com/projects/robwalling/the-saas-playbook-by-rob-walling"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 11:31:07",
       "https://news.ycombinator.com/item?id=35511152"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-04-10, 09:19:13",
-      "https://news.ycombinator.com/item?id=35510516"
+      "2023-04-10, 10:53:07",
+      "https://news.ycombinator.com/item?id=35510949"
     ],
     [
-      "Personal Concierge Using OpenAI&#x27;s ChatGPT via Telegram and Voice Messages",
-      "https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot"
+      "Grep – New kind of search engine",
+      "https://grep.help/"
     ]
   ],
   [
