@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
 * [2023-04-11, 03:20:26](https://news.ycombinator.com/item?id=35520361) - [Nolibc: A minimal C-library replacement shipped with the kernel](https://lwn.net/Articles/920158/)
+* [2023-04-11, 03:17:38](https://news.ycombinator.com/item?id=35520338) - [FTC fines supplement maker $600k for &#x27;review hijacking&#x27; Amazon listings](https://www.engadget.com/ftc-fines-supplement-maker-600000-for-review-hijacking-amazon-listings-210142185.html)
 * [2023-04-11, 02:54:32](https://news.ycombinator.com/item?id=35520178) - [Downtown San Francisco Whole Foods Closing a Year After Opening](https://sfstandard.com/business/downtown-san-francisco-whole-foods-market-closing/)
 * [2023-04-11, 02:35:07](https://news.ycombinator.com/item?id=35520059) - [Relational Operators in Apache Calcite](https://www.querifylabs.com/blog/relational-operators-in-apache-calcite)
 * [2023-04-11, 02:33:03](https://news.ycombinator.com/item?id=35520044) - [The end of a myth: Distributed transactions can scale](http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html)
