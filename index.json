@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=35525384"
     ],
     [
-      "The EU Proposed CRA Law May Have Unintended Consequence for the Python Ecosystem",
+      "The EU proposed CRA law may have unintended consequence for the Python ecosystem",
       "https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 13:57:45",
+      "https://news.ycombinator.com/item?id=35525222"
+    ],
+    [
+      "Supabase Edge Runtime: Self-Hosted Deno Functions",
+      "https://supabase.com/blog/edge-runtime-self-hosted-deno-functions"
     ]
   ],
   [
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2023-04-10, 23:39:43",
-      "https://news.ycombinator.com/item?id=35518786"
+      "2023-04-10, 15:26:43",
+      "https://news.ycombinator.com/item?id=35513475"
     ],
     [
-      "Supabase Logs: open-source logging server",
-      "https://supabase.com/blog/supabase-logs-self-hosted"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 14:53:30",
-      "https://news.ycombinator.com/item?id=35513052"
-    ],
-    [
-      "A Modest Proposal for the Non-Existence of Exoplanets",
-      "https://arxiv.org/abs/2303.16915"
+      "Two algorithms for randomly generating aperiodic tilings",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/"
     ]
   ],
   [
