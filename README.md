@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-11, 22:25:45](https://news.ycombinator.com/item?id=35532479) - [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
-* [2023-04-11, 22:24:12](https://news.ycombinator.com/item?id=35532458) - [Bay Area couple shocked by $200K hospital bill for rabies shots](https://abc7news.com/rabies-shot-hospital-bill-vacaville-ca-couple-northbay-healthcare-vacavalley/12788545/)
 * [2023-04-11, 21:42:07](https://news.ycombinator.com/item?id=35531989) - [Deck.of.cards](https://deck.of.cards/old/)
 * [2023-04-11, 21:00:49](https://news.ycombinator.com/item?id=35531494) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
 * [2023-04-11, 19:49:21](https://news.ycombinator.com/item?id=35530513) - [Show HN: Semantic Search on AWS Docs](https://github.com/aws-samples/semantic-search-aws-docs)
@@ -11,6 +10,7 @@
 * [2023-04-11, 18:31:22](https://news.ycombinator.com/item?id=35529240) - [Rules for developers to design beautiful UIs without a designer](https://www.refactoringui.com/)
 * [2023-04-11, 17:22:54](https://news.ycombinator.com/item?id=35528199) - [Ethics, politics, and society in the age of artificial intelligence (2020)](https://www.bostonreview.net/articles/kenneth-taylor-robots-are-coming-ethics-politics-and-society-age/)
 * [2023-04-11, 17:00:07](https://news.ycombinator.com/item?id=35527907) - [PhaseLLM: Standardized Chat LLM API (Cohere, Claude, GPT) + Evaluation Framework](https://github.com/wgryc/phasellm)
+* [2023-04-11, 16:57:30](https://news.ycombinator.com/item?id=35527873) - [The Best Pens for 2023: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-42-Best-Pens-for-2023-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2023-04-11, 16:16:15](https://news.ycombinator.com/item?id=35527287) - [PrimateJS: Svelte and Htmx Quick Start](https://primatejs.com/svelte-htmx-esbuild-jump-start/)
 * [2023-04-11, 15:48:40](https://news.ycombinator.com/item?id=35526846) - [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-11, 15:43:42](https://news.ycombinator.com/item?id=35526768) - [Substack Notes Launched](https://on.substack.com/p/notes)
