@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-11, 01:19:01](https://news.ycombinator.com/item?id=35519475) - [Dyson Hair Dryer Becomes Jet Engine](https://hackaday.com/2023/04/10/dyson-hair-dryer-becomes-jet-engine/)
+* [2023-04-11, 01:19:01](https://news.ycombinator.com/item?id=35519475) - [Dyson hair dryer becomes jet engine](https://hackaday.com/2023/04/10/dyson-hair-dryer-becomes-jet-engine/)
 * [2023-04-11, 01:01:09](https://news.ycombinator.com/item?id=35519351) - [Seattle&#x27;s new airport terminal can’t fit planes it was designed to handle](https://www.paddleyourownkanoo.com/2023/04/09/seattle-discovers-its-new-1-billion-airport-terminal-cant-fit-the-long-haul-planes-it-was-designed-to-handle/)
 * [2023-04-10, 23:39:43](https://news.ycombinator.com/item?id=35518786) - [Supabase Logs: open-source logging server](https://supabase.com/blog/supabase-logs-self-hosted)
 * [2023-04-10, 23:34:58](https://news.ycombinator.com/item?id=35518746) - [Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4](https://arxiv.org/abs/2304.03439)
@@ -20,7 +20,6 @@
 * [2023-04-10, 14:33:19](https://news.ycombinator.com/item?id=35512814) - [1k Photos of Dolphin Fins](https://www.beautifulpublicdata.com/1000-photos-of-dolphin-fins/)
 * [2023-04-10, 14:26:54](https://news.ycombinator.com/item?id=35512723) - [Hit Man: A technical manual for independent contractors](https://en.wikipedia.org/wiki/Hit_Man:_A_Technical_Manual_for_Independent_Contractors)
 * [2023-04-10, 14:24:46](https://news.ycombinator.com/item?id=35512697) - [Roger Penrose claims our Universe has been through multiple Big Bangs](https://bigthink.com/hard-science/black-holes-prove-the-universe-keeps-exploding-claims-physicist/)
-* [2023-04-10, 13:55:03](https://news.ycombinator.com/item?id=35512323) - [Feature flags and authorization abstract the same concept](https://ntietz.com/blog/feature-flags-and-authorization/)
 * [2023-04-10, 13:00:44](https://news.ycombinator.com/item?id=35511744) - [American IQ scores have rapidly dropped, proving the &#x27;Reverse Flynn effect&#x27;](https://www.popularmechanics.com/science/a43469569/american-iq-scores-decline-reverse-flynn-effect/)
 * [2023-04-10, 12:58:25](https://news.ycombinator.com/item?id=35511717) - [How To Get Started In Soldering](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)
 * [2023-04-10, 12:58:07](https://news.ycombinator.com/item?id=35511713) - [Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918)
@@ -28,7 +27,8 @@
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 * [2023-04-10, 11:22:27](https://news.ycombinator.com/item?id=35511106) - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-04-10, 11:11:29](https://news.ycombinator.com/item?id=35511052) - [Dashcam footage shows driverless cars clogging San Francisco](https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/)
-* [2023-04-10, 10:53:07](https://news.ycombinator.com/item?id=35510949) - [Grep – New kind of search engine](https://grep.help/)
+* [2023-04-10, 10:53:07](https://news.ycombinator.com/item?id=35510949) - [A search engine for your personal network of high-quality websites](https://grep.help/)
+* [2023-04-10, 08:42:13](https://news.ycombinator.com/item?id=35510349) - [The Emotional Roller Coaster of Changing Requirements](https://newsletter.abinoda.com/p/changing-requirements)
 * [2023-04-10, 07:48:05](https://news.ycombinator.com/item?id=35510067) - [Ever-expanding animation of the life of the 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 
 ## [Archives](archives/index.md)
