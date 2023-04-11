@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 19:40:30](https://news.ycombinator.com/item?id=35530372) - [Word Grinder: Terminal Based Distraction Free Word Processor](https://github.com/davidgiven/wordgrinder)
+* [2023-04-11, 19:39:03](https://news.ycombinator.com/item?id=35530348) - [Affiliate Marketing Platform Reaches $600 MRR for 17-year-old Founder](https://www.founderclub.com/vic-pitic/)
+* [2023-04-11, 19:37:59](https://news.ycombinator.com/item?id=35530329) - [UK to be one of worst performing economies this year, predicts IMF](https://www.bbc.com/news/business-65240749)
+* [2023-04-11, 19:37:27](https://news.ycombinator.com/item?id=35530318) - [Is your SRE monitoring like a car alarm or smoke alarm?](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
 * [2023-04-11, 19:34:09](https://news.ycombinator.com/item?id=35530268) - [Tailscale Sucks](https://tailscale.dev/blog/tailscale-sucks)
+* [2023-04-11, 19:31:52](https://news.ycombinator.com/item?id=35530228) - [Satellite &#x27;Great Observatory for Long Wavelengths&#x27; (Go-Low) Funded by NASA](https://www.haystack.mit.edu/news/go-low/)
 * [2023-04-11, 19:21:27](https://news.ycombinator.com/item?id=35530040) - [CRDT Papers](https://crdt.tech/papers.html)
 * [2023-04-11, 19:20:59](https://news.ycombinator.com/item?id=35530030) - [US Bank Lending Drops over $105B, Largest Decline Since 1973](https://www.morningtendies.co/p/bank-lending-drops-105-billion)
 * [2023-04-11, 19:01:27](https://news.ycombinator.com/item?id=35529779) - [California to lend 20% down payments with 0% interest for homebuyers](https://www.kpbs.org/news/2023/04/05/new-loan-program-expected-to-put-homeownership-within-reach-for-thousands-of-californians)
