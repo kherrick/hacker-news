@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-04-11, 20:22:00",
-      "https://news.ycombinator.com/item?id=35530991"
+      "2023-04-11, 21:00:49",
+      "https://news.ycombinator.com/item?id=35531494"
     ],
     [
-      "View Transitions API",
-      "https://htmx.org/essays/view-transitions/"
+      "Aptible (YC S14) Is Hiring: Security Engineer and Head of Product",
+      "https://www.aptible.com/culture-hub/careers"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 20:41:11",
+      "https://news.ycombinator.com/item?id=35531252"
+    ],
+    [
+      "Elizabeth Holmes to begin 11-year prison sentence at end of month",
+      "https://www.theguardian.com/technology/2023/apr/11/elizabeth-holmes-begin-prison-sentence-end-of-month"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Rules for developers to design beautiful UIs without a designer",
       "https://www.refactoringui.com/"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 18:14:36",
-      "https://news.ycombinator.com/item?id=35528956"
-    ],
-    [
-      "GPT-4 gets a B on my quantum computing final exam",
-      "https://scottaaronson.blog/?p=7209"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-04-11, 12:00:57",
-      "https://news.ycombinator.com/item?id=35523895"
-    ],
-    [
-      "Sieve (YC W22) Is Hiring a Distributed Systems Engineer",
-      "https://www.ycombinator.com/companies/sieve/jobs/VnxRRuc-distributed-systems-engineer-backend"
-    ]
-  ],
-  [
-    [
       "2023-04-11, 11:58:09",
       "https://news.ycombinator.com/item?id=35523859"
     ],
@@ -265,8 +255,18 @@
       "https://news.ycombinator.com/item?id=35519224"
     ],
     [
-      "Twitter showed us its algorithm. What does it tell us?",
+      "Twitter showed us its algorithm – what does it tell us?",
       "https://knightcolumbia.org/blog/twitter-showed-us-its-algorithm-what-does-it-tell-us"
+    ]
+  ],
+  [
+    [
+      "2023-04-10, 19:20:41",
+      "https://news.ycombinator.com/item?id=35516231"
+    ],
+    [
+      "Garum Masala: trade between ancient Rome and India",
+      "https://www.nybooks.com/articles/2023/04/20/garum-masala-indian-ocean-trade-in-antiquity-cobb/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=35506459"
     ],
     [
-      "The Otherworldly Compositions of an Ethiopian Nun",
+      "The otherworldly compositions of an Ethiopian nun",
       "https://www.newyorker.com/magazine/2023/04/17/jerusalem-emahoy-tsegue-maryam-guebrou-music-review"
     ]
   ]
