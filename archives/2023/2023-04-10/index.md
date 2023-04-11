@@ -40,6 +40,7 @@
 * [2023-04-10, 13:55:53](https://news.ycombinator.com/item?id=35512338) - [Ask HN: Open source LLM for commercial use?](https://news.ycombinator.com/item?id=35512338)
 * [2023-04-10, 13:55:03](https://news.ycombinator.com/item?id=35512323) - [Feature flags and authorization abstract the same concept](https://ntietz.com/blog/feature-flags-and-authorization/)
 * [2023-04-10, 13:38:37](https://news.ycombinator.com/item?id=35512121) - [The Pornography Paradox](https://www.theatlantic.com/magazine/archive/2023/05/anti-pornography-wars-book/673492/)
+* [2023-04-10, 13:37:50](https://news.ycombinator.com/item?id=35512109) - [Preserving the Sunset Editorial Sound Effects Library from the USC Archive](https://blog.freesound.org/?p=1515)
 * [2023-04-10, 13:34:59](https://news.ycombinator.com/item?id=35512081) - [If you’ve raised venture capital, you have to pay yourself](https://techcrunch.com/2023/04/09/f-you-pay-me/)
 * [2023-04-10, 13:29:24](https://news.ycombinator.com/item?id=35512035) - [My Controversial Diatribe Against “Skeptics”](https://johnhorgan.org/cross-check/my-controversial-diatribe-against-skeptics)
 * [2023-04-10, 13:28:08](https://news.ycombinator.com/item?id=35512025) - [Up (Film Series)](https://en.wikipedia.org/wiki/Up_(film_series))
