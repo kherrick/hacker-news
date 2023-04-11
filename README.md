@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-11, 22:25:45](https://news.ycombinator.com/item?id=35532479) - [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
 * [2023-04-11, 22:24:12](https://news.ycombinator.com/item?id=35532458) - [Bay Area couple shocked by $200K hospital bill for rabies shots](https://abc7news.com/rabies-shot-hospital-bill-vacaville-ca-couple-northbay-healthcare-vacavalley/12788545/)
 * [2023-04-11, 21:42:07](https://news.ycombinator.com/item?id=35531989) - [Deck.of.cards](https://deck.of.cards/old/)
 * [2023-04-11, 21:00:49](https://news.ycombinator.com/item?id=35531494) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
@@ -7,7 +8,6 @@
 * [2023-04-11, 19:40:30](https://news.ycombinator.com/item?id=35530372) - [WordGrinder: Terminal-based distraction free word processor](https://github.com/davidgiven/wordgrinder)
 * [2023-04-11, 19:37:27](https://news.ycombinator.com/item?id=35530318) - [Car alarms and smoke alarms: the tradeoff between sensitivity and specificity](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
 * [2023-04-11, 19:35:44](https://news.ycombinator.com/item?id=35530289) - [Htmx 1.9.0 has been released](https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/)
-* [2023-04-11, 19:31:52](https://news.ycombinator.com/item?id=35530228) - [Great Observatory for Long Wavelengths (GO-LoW) funded by NASA NIAC program](https://www.haystack.mit.edu/news/go-low/)
 * [2023-04-11, 18:31:22](https://news.ycombinator.com/item?id=35529240) - [Rules for developers to design beautiful UIs without a designer](https://www.refactoringui.com/)
 * [2023-04-11, 17:22:54](https://news.ycombinator.com/item?id=35528199) - [Ethics, politics, and society in the age of artificial intelligence (2020)](https://www.bostonreview.net/articles/kenneth-taylor-robots-are-coming-ethics-politics-and-society-age/)
 * [2023-04-11, 17:00:07](https://news.ycombinator.com/item?id=35527907) - [PhaseLLM: Standardized Chat LLM API (Cohere, Claude, GPT) + Evaluation Framework](https://github.com/wgryc/phasellm)

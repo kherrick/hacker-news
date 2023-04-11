@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 22:25:45](https://news.ycombinator.com/item?id=35532479) - [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
 * [2023-04-11, 22:24:12](https://news.ycombinator.com/item?id=35532458) - [Bay Area couple shocked by $200K hospital bill for rabies shots](https://abc7news.com/rabies-shot-hospital-bill-vacaville-ca-couple-northbay-healthcare-vacavalley/12788545/)
 * [2023-04-11, 21:42:07](https://news.ycombinator.com/item?id=35531989) - [Deck.of.cards](https://deck.of.cards/old/)
 * [2023-04-11, 21:28:51](https://news.ycombinator.com/item?id=35531833) - [Whole Foods closes San Francisco flagship after one year, citing worker safety](https://www.cnn.com/2023/04/11/business/san-francisco-whole-foods-closure/index.html)
