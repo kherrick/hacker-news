@@ -2,6 +2,7 @@
 
 * [2023-04-11, 13:30:58](https://news.ycombinator.com/item?id=35524881) - [American Madness: Our Dysfunctional System for Treating Mental Illness](https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/)
 * [2023-04-11, 13:17:27](https://news.ycombinator.com/item?id=35524702) - [Heavy EVs Could Collapse Old Parking Garages: Report](https://www.thedrive.com/news/heavy-evs-could-collapse-old-parking-garages-report)
+* [2023-04-11, 13:16:10](https://news.ycombinator.com/item?id=35524684) - [More than a third of community college students have vanished](https://www.seattletimes.com/education-lab/more-than-a-third-of-community-college-students-have-vanished/)
 * [2023-04-11, 13:06:03](https://news.ycombinator.com/item?id=35524572) - [Not Forgotten: ChatGPT isn’t the only important trend in technology](https://www.oreilly.com/radar/not-forgotten/)
 * [2023-04-11, 12:45:49](https://news.ycombinator.com/item?id=35524387) - [An Open Source Book That Teaches JavaScript](https://github.com/sumn2u/learn-javascript)
 * [2023-04-11, 12:40:49](https://news.ycombinator.com/item?id=35524328) - [Show HN: Skip the SSO Tax, access your user data with OSS](https://github.com/AccessOwl/open_owl)
@@ -16,7 +17,6 @@
 * [2023-04-11, 06:50:02](https://news.ycombinator.com/item?id=35521704) - [We&#x27;re building a browser when it&#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 * [2023-04-11, 06:34:54](https://news.ycombinator.com/item?id=35521598) - [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6)
 * [2023-04-11, 05:07:43](https://news.ycombinator.com/item?id=35521087) - [Dependently Typing R Vectors, Arrays, and Matrices](https://arxiv.org/abs/2304.04265)
-* [2023-04-11, 02:35:07](https://news.ycombinator.com/item?id=35520059) - [Relational Operators in Apache Calcite (2021)](https://www.querifylabs.com/blog/relational-operators-in-apache-calcite)
 * [2023-04-11, 02:33:03](https://news.ycombinator.com/item?id=35520044) - [The end of a myth: Distributed transactions can scale](http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html)
 * [2023-04-11, 01:48:56](https://news.ycombinator.com/item?id=35519706) - [Sponsor the open source projects you depend on](https://thanks.dev/home)
 * [2023-04-10, 23:39:43](https://news.ycombinator.com/item?id=35518786) - [Supabase Logs: open-source logging server](https://supabase.com/blog/supabase-logs-self-hosted)
