@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 23:34:58](https://news.ycombinator.com/item?id=35518746) - [Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4](https://arxiv.org/abs/2304.03439)
 * [2023-04-10, 22:14:14](https://news.ycombinator.com/item?id=35518032) - [Shutting down nuclear power could increase air pollution: study](https://news.mit.edu/2023/study-shutting-down-nuclear-power-could-increase-air-pollution-0410)
 * [2023-04-10, 21:32:13](https://news.ycombinator.com/item?id=35517649) - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 * [2023-04-10, 21:30:09](https://news.ycombinator.com/item?id=35517629) - [Al Jaffee, King of the Mad Magazine Fold-In, Dies at 102](https://www.nytimes.com/2023/04/10/arts/al-jaffee-dead.html)
@@ -50,12 +51,14 @@
 * [2023-04-10, 12:46:40](https://news.ycombinator.com/item?id=35511621) - [Rare corn can self-fertilise [video]](https://www.youtube.com/watch?v=CFyd-kC6IUw)
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 * [2023-04-10, 12:02:22](https://news.ycombinator.com/item?id=35511332) - [Heat pump disappointment for climate-minded Massachusetts state senator](https://willbrownsberger.com/heat-pump-disappointment/)
+* [2023-04-10, 11:52:09](https://news.ycombinator.com/item?id=35511269) - [The SaaS Playbook](https://www.kickstarter.com/projects/robwalling/the-saas-playbook-by-rob-walling)
 * [2023-04-10, 11:47:01](https://news.ycombinator.com/item?id=35511240) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 * [2023-04-10, 11:31:07](https://news.ycombinator.com/item?id=35511152) - [What I&#x27;ve Learned About Formal Methods in Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
 * [2023-04-10, 11:29:07](https://news.ycombinator.com/item?id=35511139) - [Zoomable, animated scatterplots in the browser that scales over a billion points](https://github.com/nomic-ai/deepscatter)
 * [2023-04-10, 11:22:27](https://news.ycombinator.com/item?id=35511106) - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-04-10, 11:11:29](https://news.ycombinator.com/item?id=35511052) - [Dashcam Footage Shows Driverless Cars Clogging San Francisco](https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/)
 * [2023-04-10, 11:10:32](https://news.ycombinator.com/item?id=35511047) - [Night of the living brain fog dead or how I hacked myself better via open source](https://decodebytes.substack.com/p/night-of-the-living-brain-fog-dead)
+* [2023-04-10, 10:53:07](https://news.ycombinator.com/item?id=35510949) - [Grep – New kind of search engine](https://grep.help/)
 * [2023-04-10, 10:44:01](https://news.ycombinator.com/item?id=35510899) - [static_assert is all you need (no leaks, no UB)](https://twitter.com/krisjusiak/status/1645360641538945025)
 * [2023-04-10, 10:33:08](https://news.ycombinator.com/item?id=35510851) - [Spotify slapped fired employees with illegal gag order [Translated from Swedish]](https://news.ycombinator.com/item?id=35510851)
 * [2023-04-10, 10:24:31](https://news.ycombinator.com/item?id=35510800) - [Are We &lt;Thing&gt; Yet?](https://wiki.mozilla.org/Areweyet)
