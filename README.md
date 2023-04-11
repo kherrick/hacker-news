@@ -5,6 +5,7 @@
 * [2023-04-11, 10:57:01](https://news.ycombinator.com/item?id=35523337) - [Is Nerd Culture Dying?](https://samkriss.substack.com/p/all-the-nerds-are-dead)
 * [2023-04-11, 09:13:50](https://news.ycombinator.com/item?id=35522642) - [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim)
 * [2023-04-11, 08:54:28](https://news.ycombinator.com/item?id=35522545) - [Ellie – A Mastodon Client for Windows](https://ellie.software/)
+* [2023-04-11, 08:47:54](https://news.ycombinator.com/item?id=35522509) - [Vestas hails breakthrough for recyclable wind turbines](https://www.energymonitor.ai/tech/renewables/vestas-hails-breakthrough-for-recycling-wind-turbine-blades/)
 * [2023-04-11, 07:45:29](https://news.ycombinator.com/item?id=35522080) - [Maximizing the Potential of LLMs: A Guide to Prompt Engineering](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)
 * [2023-04-11, 07:45:07](https://news.ycombinator.com/item?id=35522076) - [Becoming Rustacean:Awesome Free Online Resources to Learn Rust Programming](https://www.nativebyx.dev/rust/becoming-rustacean/awesome-free-online-resources-to-earn-rust-programming-language.html)
 * [2023-04-11, 07:13:15](https://news.ycombinator.com/item?id=35521846) - [FreeBSD 13.2](https://www.freebsd.org/releases/13.2R/relnotes/)
@@ -29,7 +30,6 @@
 * [2023-04-10, 08:42:13](https://news.ycombinator.com/item?id=35510349) - [The emotional roller coaster of changing requirements](https://newsletter.abinoda.com/p/changing-requirements)
 * [2023-04-10, 06:26:05](https://news.ycombinator.com/item?id=35509696) - [Finding Photo Opportunities Near Home](https://phillipreeve.net/blog/finding-photo-opportunities-near-home-part-2/)
 * [2023-04-09, 20:03:12](https://news.ycombinator.com/item?id=35505954) - [Saving the Mystery Symbols Carved into Australia’s Boab Trees](https://www.atlasobscura.com/articles/boab-tree-carvings-australia)
-* [2023-04-09, 20:00:39](https://news.ycombinator.com/item?id=35505931) - [Hyperspectral camouflage is needed to hide from new electronic sensors](https://www.economist.com/science-and-technology/2023/03/29/better-camouflage-is-needed-to-hide-from-new-electronic-sensors)
 
 ## [Archives](archives/index.md)
 
