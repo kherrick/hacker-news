@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-11, 03:20:26",
+      "https://news.ycombinator.com/item?id=35520361"
+    ],
+    [
+      "Nolibc: A minimal C-library replacement shipped with the kernel",
+      "https://lwn.net/Articles/920158/"
+    ]
+  ],
+  [
+    [
       "2023-04-11, 02:54:32",
       "https://news.ycombinator.com/item?id=35520178"
     ],
@@ -17,6 +27,16 @@
     [
       "Relational Operators in Apache Calcite",
       "https://www.querifylabs.com/blog/relational-operators-in-apache-calcite"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 02:33:03",
+      "https://news.ycombinator.com/item?id=35520044"
+    ],
+    [
+      "The end of a myth: Distributed transactions can scale",
+      "http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-04-10, 15:29:29",
-      "https://news.ycombinator.com/item?id=35513511"
-    ],
-    [
-      "New study sheds light on how amino acids “evolved”",
-      "https://www.salon.com/2023/03/01/first-life-on-earth-amino-acid-study/"
-    ]
-  ],
-  [
-    [
       "2023-04-10, 14:33:19",
       "https://news.ycombinator.com/item?id=35512814"
     ],
@@ -227,16 +237,6 @@
     [
       "Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%",
       "https://bugzilla.mozilla.org/show_bug.cgi?id=1441918"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 12:46:40",
-      "https://news.ycombinator.com/item?id=35511621"
-    ],
-    [
-      "Rare corn can self-fertilise [video]",
-      "https://www.youtube.com/watch?v=CFyd-kC6IUw"
     ]
   ],
   [
