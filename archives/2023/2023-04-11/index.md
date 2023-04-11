@@ -10,6 +10,7 @@
 * [2023-04-11, 19:39:03](https://news.ycombinator.com/item?id=35530348) - [Affiliate Marketing Platform Reaches $600 MRR for 17-year-old Founder](https://www.founderclub.com/vic-pitic/)
 * [2023-04-11, 19:37:59](https://news.ycombinator.com/item?id=35530329) - [UK to be one of worst performing economies this year, predicts IMF](https://www.bbc.com/news/business-65240749)
 * [2023-04-11, 19:37:27](https://news.ycombinator.com/item?id=35530318) - [Is your SRE monitoring like a car alarm or smoke alarm?](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
+* [2023-04-11, 19:35:44](https://news.ycombinator.com/item?id=35530289) - [Htmx 1.9.0 has been released](https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/)
 * [2023-04-11, 19:34:09](https://news.ycombinator.com/item?id=35530268) - [Tailscale Sucks](https://tailscale.dev/blog/tailscale-sucks)
 * [2023-04-11, 19:31:52](https://news.ycombinator.com/item?id=35530228) - [Satellite &#x27;Great Observatory for Long Wavelengths&#x27; (Go-Low) Funded by NASA](https://www.haystack.mit.edu/news/go-low/)
 * [2023-04-11, 19:21:27](https://news.ycombinator.com/item?id=35530040) - [CRDT Papers](https://crdt.tech/papers.html)
