@@ -29,6 +29,7 @@
 * [2023-04-11, 12:39:34](https://news.ycombinator.com/item?id=35524314) - [The Beauty of Pulse Arc Welding](https://www.hermansilver.com/pulse-arc-welding.htm)
 * [2023-04-11, 12:37:45](https://news.ycombinator.com/item?id=35524297) - [The Free Software Foundation is dying](https://drewdevault.com/2023/04/11/2023-04-11-The-FSF-is-dying.html)
 * [2023-04-11, 12:12:09](https://news.ycombinator.com/item?id=35524023) - [KDE Plasma Widget for external monitor brightness adjustment](https://github.com/davidhi7/ddcci-plasmoid)
+* [2023-04-11, 12:07:57](https://news.ycombinator.com/item?id=35523969) - [Nyquist Frequency](https://en.wikipedia.org/wiki/Nyquist_frequency)
 * [2023-04-11, 12:00:57](https://news.ycombinator.com/item?id=35523895) - [Sieve (YC W22) Is Hiring a Distributed Systems Engineer](https://www.ycombinator.com/companies/sieve/jobs/VnxRRuc-distributed-systems-engineer-backend)
 * [2023-04-11, 11:58:09](https://news.ycombinator.com/item?id=35523859) - [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/)
 * [2023-04-11, 11:23:16](https://news.ycombinator.com/item?id=35523527) - [‘Claudia’ offers nude photos for pay. Experts say she’s an AI fake](https://www.washingtonpost.com/technology/2023/04/11/ai-imaging-porn-fakes/)
