@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-04-11, 19:01:27",
-      "https://news.ycombinator.com/item?id=35529779"
-    ],
-    [
-      "California to lend 20% down payments with 0% interest for homebuyers",
-      "https://www.kpbs.org/news/2023/04/05/new-loan-program-expected-to-put-homeownership-within-reach-for-thousands-of-californians"
-    ]
-  ],
-  [
-    [
       "2023-04-11, 18:31:22",
       "https://news.ycombinator.com/item?id=35529240"
     ],
@@ -45,8 +35,18 @@
       "https://news.ycombinator.com/item?id=35528274"
     ],
     [
-      "Smart App Banners can be used to de-anonymize Apple users",
+      "Smart App Banners can be used to reveal Apple ID region",
       "https://fingerprint.com/blog/apple-id-region-leak/"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 17:17:12",
+      "https://news.ycombinator.com/item?id=35528129"
+    ],
+    [
+      "OpenAI’s Bug Bounty Program",
+      "https://openai.com/blog/bug-bounty-program"
     ]
   ],
   [
