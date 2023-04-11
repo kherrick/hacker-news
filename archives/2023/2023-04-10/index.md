@@ -11,6 +11,7 @@
 * [2023-04-10, 21:30:09](https://news.ycombinator.com/item?id=35517629) - [Al Jaffee, King of the Mad Magazine Fold-In, Dies at 102](https://www.nytimes.com/2023/04/10/arts/al-jaffee-dead.html)
 * [2023-04-10, 21:28:01](https://news.ycombinator.com/item?id=35517609) - [Low Carb Intake Linked to Insulin Resistance](https://www.lifespan.io/news/low-carb-intake-linked-to-insulin-resistance/)
 * [2023-04-10, 21:01:08](https://news.ycombinator.com/item?id=35517364) - [Aviator (YC S21) is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
+* [2023-04-10, 19:20:41](https://news.ycombinator.com/item?id=35516231) - [Garum Masala: trade between ancient Rome and India](https://www.nybooks.com/articles/2023/04/20/garum-masala-indian-ocean-trade-in-antiquity-cobb/)
 * [2023-04-10, 19:09:07](https://news.ycombinator.com/item?id=35516100) - [Lawsuits Are the Hitman of the State](https://betonit.substack.com/p/lawsuits-are-the-deep-state)
 * [2023-04-10, 18:48:51](https://news.ycombinator.com/item?id=35515873) - [Keycloak with PostgreSQL on Kubernetes](https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/)
 * [2023-04-10, 18:34:13](https://news.ycombinator.com/item?id=35515676) - [AI Can&#x27;t Take over Everyone&#x27;s Jobs Soon (If Ever)](https://spectrum.ieee.org/ai-taking-over-jobs)
