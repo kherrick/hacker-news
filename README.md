@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-11, 16:16:24](https://news.ycombinator.com/item?id=35527291) - [Pipe Inspection Robot [video]](https://www.youtube.com/watch?v=M9GdrbxoIP4)
 * [2023-04-11, 15:48:40](https://news.ycombinator.com/item?id=35526846) - [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-11, 15:43:42](https://news.ycombinator.com/item?id=35526768) - [Substack Notes Launched](https://twitter.com/cjgbest/status/1645804524068818945)
 * [2023-04-11, 15:37:34](https://news.ycombinator.com/item?id=35526648) - [Make Something Wonderful – Steve Jobs in his own words](https://stevejobsarchive.com/book)
@@ -21,7 +22,6 @@
 * [2023-04-11, 12:00:57](https://news.ycombinator.com/item?id=35523895) - [Sieve (YC W22) Is Hiring a Distributed Systems Engineer](https://www.ycombinator.com/companies/sieve/jobs/VnxRRuc-distributed-systems-engineer-backend)
 * [2023-04-11, 11:58:09](https://news.ycombinator.com/item?id=35523859) - [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/)
 * [2023-04-11, 10:35:50](https://news.ycombinator.com/item?id=35523184) - [I ported the Firefox Archive.today extension to Safari](https://apps.apple.com/us/app/archive-page-extension/id6446372766)
-* [2023-04-11, 07:13:15](https://news.ycombinator.com/item?id=35521846) - [FreeBSD 13.2](https://www.freebsd.org/releases/13.2R/relnotes/)
 * [2023-04-11, 06:50:02](https://news.ycombinator.com/item?id=35521704) - [We&#x27;re building a browser when it&#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 * [2023-04-11, 02:33:03](https://news.ycombinator.com/item?id=35520044) - [The end of a myth: Distributed transactions can scale](http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html)
 * [2023-04-10, 15:29:54](https://news.ycombinator.com/item?id=35513517) - [We’re one step closer to reading an octopus’s mind](https://arstechnica.com/science/2023/04/in-a-first-researchers-track-brain-activity-in-a-free-moving-octopus/)
