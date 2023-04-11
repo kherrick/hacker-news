@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-04-11, 16:16:15",
+      "https://news.ycombinator.com/item?id=35527287"
+    ],
+    [
+      "PrimateJS: Svelte and Htmx Quick Start",
+      "https://primatejs.com/svelte-htmx-esbuild-jump-start/"
+    ]
+  ],
+  [
+    [
       "2023-04-11, 15:48:40",
       "https://news.ycombinator.com/item?id=35526846"
     ],
@@ -267,16 +277,6 @@
     [
       "Two algorithms for randomly generating aperiodic tilings",
       "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 13:07:56",
-      "https://news.ycombinator.com/item?id=35511817"
-    ],
-    [
-      "Aura – Python source code auditing and static analysis on a large scale (2022)",
-      "https://github.com/SourceCode-AI/aura"
     ]
   ],
   [
