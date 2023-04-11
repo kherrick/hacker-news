@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-11, 15:43:42](https://news.ycombinator.com/item?id=35526768) - [Substack Notes Launched](https://twitter.com/cjgbest/status/1645804524068818945)
 * [2023-04-11, 15:21:08](https://news.ycombinator.com/item?id=35526401) - [The Coming of Local LLMs](https://nickarner.com/notes/the-coming-of-local-llms-march-23-2023/)
 * [2023-04-11, 14:43:10](https://news.ycombinator.com/item?id=35525877) - [A life of splendid uselessness is a life well lived](https://psyche.co/ideas/a-life-of-splendid-uselessness-is-a-life-well-lived)
 * [2023-04-11, 14:30:21](https://news.ycombinator.com/item?id=35525683) - [Swarm](https://www.vitling.xyz/toys/swarm/)
@@ -17,7 +18,6 @@
 * [2023-04-11, 12:00:57](https://news.ycombinator.com/item?id=35523895) - [Sieve (YC W22) Is Hiring a Distributed Systems Engineer](https://www.ycombinator.com/companies/sieve/jobs/VnxRRuc-distributed-systems-engineer-backend)
 * [2023-04-11, 11:58:09](https://news.ycombinator.com/item?id=35523859) - [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/)
 * [2023-04-11, 10:35:50](https://news.ycombinator.com/item?id=35523184) - [I ported the Firefox Archive.today extension to Safari](https://apps.apple.com/us/app/archive-page-extension/id6446372766)
-* [2023-04-11, 09:13:50](https://news.ycombinator.com/item?id=35522642) - [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim)
 * [2023-04-11, 08:47:54](https://news.ycombinator.com/item?id=35522509) - [Vestas hails breakthrough for recyclable wind turbines](https://www.energymonitor.ai/tech/renewables/vestas-hails-breakthrough-for-recycling-wind-turbine-blades/)
 * [2023-04-11, 07:13:15](https://news.ycombinator.com/item?id=35521846) - [FreeBSD 13.2](https://www.freebsd.org/releases/13.2R/relnotes/)
 * [2023-04-11, 06:50:02](https://news.ycombinator.com/item?id=35521704) - [We&#x27;re building a browser when it&#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
