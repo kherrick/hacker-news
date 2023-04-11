@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-11, 07:45:07](https://news.ycombinator.com/item?id=35522076) - [Becoming Rustacean:Awesome Free Online Resources to Learn Rust Programming](https://www.nativebyx.dev/rust/becoming-rustacean/awesome-free-online-resources-to-earn-rust-programming-language.html)
 * [2023-04-11, 07:13:15](https://news.ycombinator.com/item?id=35521846) - [FreeBSD 13.2-RELEASE Now Available](https://www.freebsd.org/releases/13.2R/relnotes/)
 * [2023-04-11, 07:05:19](https://news.ycombinator.com/item?id=35521797) - [FBI Warns Against Using Public USB Ports Due to Malware Risk](https://www.macrumors.com/2023/04/10/fbi-malware-public-usb-port-warning/)
 * [2023-04-11, 06:50:02](https://news.ycombinator.com/item?id=35521704) - [We&#x27;re building a browser when it&#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 * [2023-04-11, 06:34:54](https://news.ycombinator.com/item?id=35521598) - [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6)
 * [2023-04-11, 05:53:57](https://news.ycombinator.com/item?id=35521345) - [YouTube suspends a YouTuber&#x27;s Patreon-exclusive account for self-impersonation](https://twitter.com/craig1black/status/1645649300167495681)
 * [2023-04-11, 05:07:43](https://news.ycombinator.com/item?id=35521087) - [Dependently Typing R Vectors, Arrays, and Matrices](https://arxiv.org/abs/2304.04265)
-* [2023-04-11, 03:39:42](https://news.ycombinator.com/item?id=35520496) - [Three Sisters (Agriculture)](https://en.wikipedia.org/wiki/Three_Sisters_(agriculture))
 * [2023-04-11, 03:39:34](https://news.ycombinator.com/item?id=35520495) - [DPReview is being shut down by Amazon today](https://www.digitalcameraworld.com/news/dpreview-is-being-shut-down-by-amazon-today-what-a-waste-says-founder)
 * [2023-04-11, 02:35:07](https://news.ycombinator.com/item?id=35520059) - [Relational Operators in Apache Calcite](https://www.querifylabs.com/blog/relational-operators-in-apache-calcite)
 * [2023-04-11, 02:33:03](https://news.ycombinator.com/item?id=35520044) - [The end of a myth: Distributed transactions can scale](http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html)
