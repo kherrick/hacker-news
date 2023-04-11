@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
 * [2023-04-11, 15:43:42](https://news.ycombinator.com/item?id=35526768) - [Substack Notes Launched](https://twitter.com/cjgbest/status/1645804524068818945)
+* [2023-04-11, 15:37:34](https://news.ycombinator.com/item?id=35526648) - [Make Something Wonderful – Steve Jobs in his own words](https://stevejobsarchive.com/book)
+* [2023-04-11, 15:24:32](https://news.ycombinator.com/item?id=35526451) - [Ford to spend $1.3B to transform Canada factory into EV manufacturing hub](https://techcrunch.com/2023/04/11/ford-to-spend-1-3b-to-transform-canada-factory-into-ev-manufacturing-hub/)
 * [2023-04-11, 15:21:08](https://news.ycombinator.com/item?id=35526401) - [The Coming of Local LLMs](https://nickarner.com/notes/the-coming-of-local-llms-march-23-2023/)
 * [2023-04-11, 14:43:10](https://news.ycombinator.com/item?id=35525877) - [A life of splendid uselessness is a life well lived](https://psyche.co/ideas/a-life-of-splendid-uselessness-is-a-life-well-lived)
 * [2023-04-11, 14:42:53](https://news.ycombinator.com/item?id=35525871) - [They’re selling nudes of imaginary women on Reddit](https://www.rollingstone.com/culture/culture-features/ai-nudes-selling-reddit-1234708474/)

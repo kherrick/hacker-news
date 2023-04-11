@@ -28,6 +28,7 @@
 * [2023-04-10, 15:40:42](https://news.ycombinator.com/item?id=35513636) - [I Fixed a Parasitic Drain on My Car in 408 Days](https://davidmuller.github.io/posts/2023/04/10/how-i-fixed-a-parasitic-drain-in-408-days.html)
 * [2023-04-10, 15:38:02](https://news.ycombinator.com/item?id=35513612) - [The biggest EV battery recycling plant in the US is open for business](https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business)
 * [2023-04-10, 15:36:52](https://news.ycombinator.com/item?id=35513595) - [Everybody is the main character](https://blog.sbensu.com/posts/everybody-is-the-main-character/)
+* [2023-04-10, 15:29:54](https://news.ycombinator.com/item?id=35513517) - [We’re one step closer to reading an octopus’s mind](https://arstechnica.com/science/2023/04/in-a-first-researchers-track-brain-activity-in-a-free-moving-octopus/)
 * [2023-04-10, 15:29:29](https://news.ycombinator.com/item?id=35513511) - [New study sheds light on how amino acids “evolved”](https://www.salon.com/2023/03/01/first-life-on-earth-amino-acid-study/)
 * [2023-04-10, 15:29:24](https://news.ycombinator.com/item?id=35513510) - [On Efficient Training of Large-Scale Deep Learning Models: A Literature Review](https://arxiv.org/abs/2304.03589)
 * [2023-04-10, 15:26:43](https://news.ycombinator.com/item?id=35513475) - [Two algorithms for randomly generating aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/)
