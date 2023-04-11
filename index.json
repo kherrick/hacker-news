@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-04-10, 18:48:51",
-      "https://news.ycombinator.com/item?id=35515873"
-    ],
-    [
-      "Keycloak with PostgreSQL on Kubernetes",
-      "https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/"
-    ]
-  ],
-  [
-    [
       "2023-04-10, 17:58:07",
       "https://news.ycombinator.com/item?id=35515208"
     ],
@@ -247,6 +237,16 @@
     [
       "Aura – Python source code auditing and static analysis on a large scale",
       "https://github.com/SourceCode-AI/aura"
+    ]
+  ],
+  [
+    [
+      "2023-04-10, 12:07:21",
+      "https://news.ycombinator.com/item?id=35511357"
+    ],
+    [
+      "Effective Spaced Repetition",
+      "https://borretti.me/article/effective-spaced-repetition"
     ]
   ],
   [
