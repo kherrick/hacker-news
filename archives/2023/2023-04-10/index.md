@@ -55,6 +55,7 @@
 * [2023-04-10, 11:52:09](https://news.ycombinator.com/item?id=35511269) - [The SaaS Playbook](https://www.kickstarter.com/projects/robwalling/the-saas-playbook-by-rob-walling)
 * [2023-04-10, 11:47:01](https://news.ycombinator.com/item?id=35511240) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 * [2023-04-10, 11:31:07](https://news.ycombinator.com/item?id=35511152) - [What I&#x27;ve Learned About Formal Methods in Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
+* [2023-04-10, 11:30:38](https://news.ycombinator.com/item?id=35511147) - [Notes from a Sun Tzu Skeptic (2019)](https://thestrategybridge.org/the-bridge/2019/9/24/notes-from-a-sun-tzu-skeptic)
 * [2023-04-10, 11:29:07](https://news.ycombinator.com/item?id=35511139) - [Zoomable, animated scatterplots in the browser that scales over a billion points](https://github.com/nomic-ai/deepscatter)
 * [2023-04-10, 11:22:27](https://news.ycombinator.com/item?id=35511106) - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-04-10, 11:11:29](https://news.ycombinator.com/item?id=35511052) - [Dashcam Footage Shows Driverless Cars Clogging San Francisco](https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/)
