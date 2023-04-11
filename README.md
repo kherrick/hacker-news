@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-11, 15:48:40](https://news.ycombinator.com/item?id=35526846) - [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-11, 15:43:42](https://news.ycombinator.com/item?id=35526768) - [Substack Notes Launched](https://twitter.com/cjgbest/status/1645804524068818945)
 * [2023-04-11, 15:37:34](https://news.ycombinator.com/item?id=35526648) - [Make Something Wonderful – Steve Jobs in his own words](https://stevejobsarchive.com/book)
 * [2023-04-11, 15:24:32](https://news.ycombinator.com/item?id=35526451) - [Ford to spend $1.3B to transform Canada factory into EV manufacturing hub](https://techcrunch.com/2023/04/11/ford-to-spend-1-3b-to-transform-canada-factory-into-ev-manufacturing-hub/)
@@ -29,7 +30,6 @@
 * [2023-04-10, 13:07:56](https://news.ycombinator.com/item?id=35511817) - [Aura – Python source code auditing and static analysis on a large scale (2022)](https://github.com/SourceCode-AI/aura)
 * [2023-04-10, 08:40:44](https://news.ycombinator.com/item?id=35510337) - [In Praise of Top Down Programming](https://www.i-programmer.info/professional-programmer/i-programmer/3864-in-praise-of-top-down-.html)
 * [2023-04-09, 21:05:11](https://news.ycombinator.com/item?id=35506459) - [The Otherworldly Compositions of an Ethiopian Nun](https://www.newyorker.com/magazine/2023/04/17/jerusalem-emahoy-tsegue-maryam-guebrou-music-review)
-* [2023-04-09, 20:03:12](https://news.ycombinator.com/item?id=35505954) - [Saving the Mystery Symbols Carved into Australia’s Boab Trees](https://www.atlasobscura.com/articles/boab-tree-carvings-australia)
 
 ## [Archives](archives/index.md)
 

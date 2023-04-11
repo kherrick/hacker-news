@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 15:48:40](https://news.ycombinator.com/item?id=35526846) - [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-11, 15:43:42](https://news.ycombinator.com/item?id=35526768) - [Substack Notes Launched](https://twitter.com/cjgbest/status/1645804524068818945)
 * [2023-04-11, 15:37:34](https://news.ycombinator.com/item?id=35526648) - [Make Something Wonderful – Steve Jobs in his own words](https://stevejobsarchive.com/book)
 * [2023-04-11, 15:24:32](https://news.ycombinator.com/item?id=35526451) - [Ford to spend $1.3B to transform Canada factory into EV manufacturing hub](https://techcrunch.com/2023/04/11/ford-to-spend-1-3b-to-transform-canada-factory-into-ev-manufacturing-hub/)
