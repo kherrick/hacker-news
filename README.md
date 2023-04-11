@@ -7,6 +7,7 @@
 * [2023-04-11, 17:00:07](https://news.ycombinator.com/item?id=35527907) - [PhaseLLM: Standardized Chat LLM API (Cohere, Claude, GPT) + Evaluation Framework](https://github.com/wgryc/phasellm)
 * [2023-04-11, 16:57:30](https://news.ycombinator.com/item?id=35527873) - [The Best Pens for 2023: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-42-Best-Pens-for-2023-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2023-04-11, 16:16:24](https://news.ycombinator.com/item?id=35527291) - [Pipe Inspection Robot [video]](https://www.youtube.com/watch?v=M9GdrbxoIP4)
+* [2023-04-11, 16:16:15](https://news.ycombinator.com/item?id=35527287) - [PrimateJS: Svelte and Htmx Quick Start](https://primatejs.com/svelte-htmx-esbuild-jump-start/)
 * [2023-04-11, 15:48:40](https://news.ycombinator.com/item?id=35526846) - [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-11, 15:37:34](https://news.ycombinator.com/item?id=35526648) - [Make Something Wonderful – Steve Jobs in his own words](https://stevejobsarchive.com/book)
 * [2023-04-11, 15:24:32](https://news.ycombinator.com/item?id=35526451) - [Ford to spend $1.3B to transform Canada factory into EV manufacturing hub](https://techcrunch.com/2023/04/11/ford-to-spend-1-3b-to-transform-canada-factory-into-ev-manufacturing-hub/)
@@ -27,7 +28,6 @@
 * [2023-04-11, 10:35:50](https://news.ycombinator.com/item?id=35523184) - [I ported the Firefox Archive.today extension to Safari](https://apps.apple.com/us/app/archive-page-extension/id6446372766)
 * [2023-04-10, 15:29:54](https://news.ycombinator.com/item?id=35513517) - [We’re one step closer to reading an octopus’s mind](https://arstechnica.com/science/2023/04/in-a-first-researchers-track-brain-activity-in-a-free-moving-octopus/)
 * [2023-04-10, 15:26:43](https://news.ycombinator.com/item?id=35513475) - [Two algorithms for randomly generating aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/)
-* [2023-04-10, 13:07:56](https://news.ycombinator.com/item?id=35511817) - [Aura – Python source code auditing and static analysis on a large scale (2022)](https://github.com/SourceCode-AI/aura)
 * [2023-04-10, 08:40:44](https://news.ycombinator.com/item?id=35510337) - [In Praise of Top Down Programming](https://www.i-programmer.info/professional-programmer/i-programmer/3864-in-praise-of-top-down-.html)
 * [2023-04-09, 21:05:11](https://news.ycombinator.com/item?id=35506459) - [The Otherworldly Compositions of an Ethiopian Nun](https://www.newyorker.com/magazine/2023/04/17/jerusalem-emahoy-tsegue-maryam-guebrou-music-review)
 
