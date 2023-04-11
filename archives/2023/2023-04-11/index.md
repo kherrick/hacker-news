@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
 * [2023-04-11, 18:31:22](https://news.ycombinator.com/item?id=35529240) - [Rules for developers to design beautiful UIs without a designer](https://www.refactoringui.com/)
+* [2023-04-11, 18:14:36](https://news.ycombinator.com/item?id=35528956) - [GPT-4 gets a B on my quantum computing final exam](https://scottaaronson.blog/?p=7209)
 * [2023-04-11, 17:53:06](https://news.ycombinator.com/item?id=35528651) - [HTTP Response Header Field: Carbon-Emissions-Scope-2](https://www.ietf.org/archive/id/draft-martin-http-carbon-emissions-scope-2-00.html)
 * [2023-04-11, 17:49:33](https://news.ycombinator.com/item?id=35528595) - [Ask HN: Is the job market brutal? or is it just me?](https://news.ycombinator.com/item?id=35528595)
 * [2023-04-11, 17:30:21](https://news.ycombinator.com/item?id=35528315) - [Now live for all: Substack Notes](https://on.substack.com/p/notes)
@@ -50,6 +51,7 @@
 * [2023-04-11, 08:47:54](https://news.ycombinator.com/item?id=35522509) - [Vestas hails breakthrough for recyclable wind turbines](https://www.energymonitor.ai/tech/renewables/vestas-hails-breakthrough-for-recycling-wind-turbine-blades/)
 * [2023-04-11, 07:45:29](https://news.ycombinator.com/item?id=35522080) - [Maximizing the Potential of LLMs: A Guide to Prompt Engineering](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)
 * [2023-04-11, 07:45:07](https://news.ycombinator.com/item?id=35522076) - [Becoming Rustacean:Awesome Free Online Resources to Learn Rust Programming](https://www.nativebyx.dev/rust/becoming-rustacean/awesome-free-online-resources-to-earn-rust-programming-language.html)
+* [2023-04-11, 07:24:27](https://news.ycombinator.com/item?id=35521925) - [Sega 3-D Glasses: How did they work?](https://nicole.express/2023/the-third-dimension-and-the-eight-bits.html)
 * [2023-04-11, 07:13:15](https://news.ycombinator.com/item?id=35521846) - [FreeBSD 13.2-RELEASE Now Available](https://www.freebsd.org/releases/13.2R/relnotes/)
 * [2023-04-11, 07:05:19](https://news.ycombinator.com/item?id=35521797) - [FBI Warns Against Using Public USB Ports Due to Malware Risk](https://www.macrumors.com/2023/04/10/fbi-malware-public-usb-port-warning/)
 * [2023-04-11, 06:50:02](https://news.ycombinator.com/item?id=35521704) - [We&#x27;re building a browser when it&#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
