@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-04-10, 17:41:51",
-      "https://news.ycombinator.com/item?id=35514985"
-    ],
-    [
-      "JEP 445: Flexible Main Methods and Anonymous Main Classes (Preview)",
-      "https://openjdk.org/jeps/445"
-    ]
-  ],
-  [
-    [
       "2023-04-10, 17:26:19",
       "https://news.ycombinator.com/item?id=35514799"
     ],
@@ -207,6 +197,16 @@
     [
       "Roger Penrose claims our Universe has been through multiple Big Bangs",
       "https://bigthink.com/hard-science/black-holes-prove-the-universe-keeps-exploding-claims-physicist/"
+    ]
+  ],
+  [
+    [
+      "2023-04-10, 13:55:03",
+      "https://news.ycombinator.com/item?id=35512323"
+    ],
+    [
+      "Feature flags and authorization abstract the same concept",
+      "https://ntietz.com/blog/feature-flags-and-authorization/"
     ]
   ],
   [
