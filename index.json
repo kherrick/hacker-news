@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-04-11, 19:57:53",
-      "https://news.ycombinator.com/item?id=35530635"
-    ],
-    [
-      "Americans’ IQ scores are lower in some areas, higher in one",
-      "https://news.northwestern.edu/stories/2023/03/americans-iq-scores-are-lower-in-some-areas-higher-in-one/"
-    ]
-  ],
-  [
-    [
       "2023-04-11, 19:49:21",
       "https://news.ycombinator.com/item?id=35530513"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=35530372"
     ],
     [
-      "Word Grinder: Terminal Based Distraction Free Word Processor",
+      "WordGrinder: Terminal-based distraction free word processor",
       "https://github.com/davidgiven/wordgrinder"
     ]
   ],
@@ -45,8 +35,18 @@
       "https://news.ycombinator.com/item?id=35530318"
     ],
     [
-      "Is your SRE monitoring like a car alarm or smoke alarm?",
+      "Car alarms and smoke alarms: the tradeoff between sensitivity and specificity",
       "https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 19:35:44",
+      "https://news.ycombinator.com/item?id=35530289"
+    ],
+    [
+      "Htmx 1.9.0 has been released",
+      "https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/"
     ]
   ],
   [
@@ -55,18 +55,8 @@
       "https://news.ycombinator.com/item?id=35530228"
     ],
     [
-      "Satellite &#x27;Great Observatory for Long Wavelengths&#x27; (Go-Low) Funded by NASA",
+      "Great Observatory for Long Wavelengths (GO-LoW) funded by NASA NIAC program",
       "https://www.haystack.mit.edu/news/go-low/"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 19:21:27",
-      "https://news.ycombinator.com/item?id=35530040"
-    ],
-    [
-      "CRDT Papers",
-      "https://crdt.tech/papers.html"
     ]
   ],
   [
@@ -91,32 +81,12 @@
   ],
   [
     [
-      "2023-04-11, 17:53:06",
-      "https://news.ycombinator.com/item?id=35528651"
-    ],
-    [
-      "HTTP Response Header Field: Carbon-Emissions-Scope-2",
-      "https://www.ietf.org/archive/id/draft-martin-http-carbon-emissions-scope-2-00.html"
-    ]
-  ],
-  [
-    [
       "2023-04-11, 17:22:54",
       "https://news.ycombinator.com/item?id=35528199"
     ],
     [
       "Ethics, Politics, and Society in the Age of Artificial Intelligence (2020)",
       "https://www.bostonreview.net/articles/kenneth-taylor-robots-are-coming-ethics-politics-and-society-age/"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 17:17:12",
-      "https://news.ycombinator.com/item?id=35528129"
-    ],
-    [
-      "OpenAI’s Bug Bounty Program",
-      "https://openai.com/blog/bug-bounty-program"
     ]
   ],
   [
@@ -151,12 +121,12 @@
   ],
   [
     [
-      "2023-04-11, 15:37:34",
-      "https://news.ycombinator.com/item?id=35526648"
+      "2023-04-11, 14:30:21",
+      "https://news.ycombinator.com/item?id=35525683"
     ],
     [
-      "Make Something Wonderful – Steve Jobs in his own words",
-      "https://stevejobsarchive.com/book"
+      "Swarm",
+      "https://www.vitling.xyz/toys/swarm/"
     ]
   ],
   [
@@ -165,7 +135,7 @@
       "https://news.ycombinator.com/item?id=35525661"
     ],
     [
-      "Distributed² Machine Learning Notebooks with Elixir and Livebook",
+      "Distributed Machine Learning Notebooks with Elixir and Livebook",
       "https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw"
     ]
   ],
@@ -261,6 +231,16 @@
   ],
   [
     [
+      "2023-04-11, 10:35:50",
+      "https://news.ycombinator.com/item?id=35523184"
+    ],
+    [
+      "I ported the Firefox Archive.today extension to Safari",
+      "https://apps.apple.com/us/app/archive-page-extension/id6446372766"
+    ]
+  ],
+  [
+    [
       "2023-04-11, 07:24:27",
       "https://news.ycombinator.com/item?id=35521925"
     ],
@@ -297,6 +277,26 @@
     [
       "Two algorithms for randomly generating aperiodic tilings",
       "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/"
+    ]
+  ],
+  [
+    [
+      "2023-04-10, 08:40:44",
+      "https://news.ycombinator.com/item?id=35510337"
+    ],
+    [
+      "In Praise of Top Down Programming",
+      "https://www.i-programmer.info/professional-programmer/i-programmer/3864-in-praise-of-top-down-.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 21:05:11",
+      "https://news.ycombinator.com/item?id=35506459"
+    ],
+    [
+      "The Otherworldly Compositions of an Ethiopian Nun",
+      "https://www.newyorker.com/magazine/2023/04/17/jerusalem-emahoy-tsegue-maryam-guebrou-music-review"
     ]
   ]
 ]
