@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-11, 21:28:51](https://news.ycombinator.com/item?id=35531833) - [Whole Foods closes San Francisco flagship after one year, citing worker safety](https://www.cnn.com/2023/04/11/business/san-francisco-whole-foods-closure/index.html)
 * [2023-04-11, 21:00:49](https://news.ycombinator.com/item?id=35531494) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
 * [2023-04-11, 19:49:21](https://news.ycombinator.com/item?id=35530513) - [Show HN: Semantic Search on AWS Docs](https://github.com/aws-samples/semantic-search-aws-docs)
 * [2023-04-11, 19:40:30](https://news.ycombinator.com/item?id=35530372) - [WordGrinder: Terminal-based distraction free word processor](https://github.com/davidgiven/wordgrinder)
@@ -26,7 +27,6 @@
 * [2023-04-11, 07:24:27](https://news.ycombinator.com/item?id=35521925) - [Sega 3-D Glasses: How did they work?](https://nicole.express/2023/the-third-dimension-and-the-eight-bits.html)
 * [2023-04-11, 00:39:38](https://news.ycombinator.com/item?id=35519224) - [Twitter showed us its algorithm – what does it tell us?](https://knightcolumbia.org/blog/twitter-showed-us-its-algorithm-what-does-it-tell-us)
 * [2023-04-10, 19:20:41](https://news.ycombinator.com/item?id=35516231) - [Garum Masala: trade between ancient Rome and India](https://www.nybooks.com/articles/2023/04/20/garum-masala-indian-ocean-trade-in-antiquity-cobb/)
-* [2023-04-10, 15:29:54](https://news.ycombinator.com/item?id=35513517) - [We’re one step closer to reading an octopus’s mind](https://arstechnica.com/science/2023/04/in-a-first-researchers-track-brain-activity-in-a-free-moving-octopus/)
 * [2023-04-10, 15:26:43](https://news.ycombinator.com/item?id=35513475) - [Two algorithms for randomly generating aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/)
 * [2023-04-10, 08:40:44](https://news.ycombinator.com/item?id=35510337) - [In Praise of Top Down Programming](https://www.i-programmer.info/professional-programmer/i-programmer/3864-in-praise-of-top-down-.html)
 * [2023-04-09, 21:05:11](https://news.ycombinator.com/item?id=35506459) - [The otherworldly compositions of an Ethiopian nun](https://www.newyorker.com/magazine/2023/04/17/jerusalem-emahoy-tsegue-maryam-guebrou-music-review)

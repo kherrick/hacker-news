@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 21:28:51](https://news.ycombinator.com/item?id=35531833) - [Whole Foods closes San Francisco flagship after one year, citing worker safety](https://www.cnn.com/2023/04/11/business/san-francisco-whole-foods-closure/index.html)
 * [2023-04-11, 21:00:49](https://news.ycombinator.com/item?id=35531494) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
 * [2023-04-11, 20:41:11](https://news.ycombinator.com/item?id=35531252) - [Elizabeth Holmes to begin 11-year prison sentence at end of month](https://www.theguardian.com/technology/2023/apr/11/elizabeth-holmes-begin-prison-sentence-end-of-month)
 * [2023-04-11, 20:22:00](https://news.ycombinator.com/item?id=35530991) - [View Transitions API](https://htmx.org/essays/view-transitions/)
