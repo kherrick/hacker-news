@@ -2,6 +2,7 @@
 
 * [2023-04-11, 01:19:01](https://news.ycombinator.com/item?id=35519475) - [Dyson Hair Dryer Becomes Jet Engine](https://hackaday.com/2023/04/10/dyson-hair-dryer-becomes-jet-engine/)
 * [2023-04-11, 01:01:09](https://news.ycombinator.com/item?id=35519351) - [Seattle&#x27;s new airport terminal can’t fit planes it was designed to handle](https://www.paddleyourownkanoo.com/2023/04/09/seattle-discovers-its-new-1-billion-airport-terminal-cant-fit-the-long-haul-planes-it-was-designed-to-handle/)
+* [2023-04-10, 23:39:43](https://news.ycombinator.com/item?id=35518786) - [Supabase Logs: open-source logging server](https://supabase.com/blog/supabase-logs-self-hosted)
 * [2023-04-10, 23:34:58](https://news.ycombinator.com/item?id=35518746) - [Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4](https://arxiv.org/abs/2304.03439)
 * [2023-04-10, 22:14:14](https://news.ycombinator.com/item?id=35518032) - [Shutting down nuclear power could increase air pollution: study](https://news.mit.edu/2023/study-shutting-down-nuclear-power-could-increase-air-pollution-0410)
 * [2023-04-10, 21:32:13](https://news.ycombinator.com/item?id=35517649) - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
@@ -25,7 +26,6 @@
 * [2023-04-10, 12:58:07](https://news.ycombinator.com/item?id=35511713) - [Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918)
 * [2023-04-10, 12:46:40](https://news.ycombinator.com/item?id=35511621) - [Rare corn can self-fertilise [video]](https://www.youtube.com/watch?v=CFyd-kC6IUw)
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
-* [2023-04-10, 11:31:07](https://news.ycombinator.com/item?id=35511152) - [What I&#x27;ve Learned About Formal Methods in Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
 * [2023-04-10, 11:22:27](https://news.ycombinator.com/item?id=35511106) - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-04-10, 11:11:29](https://news.ycombinator.com/item?id=35511052) - [Dashcam footage shows driverless cars clogging San Francisco](https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/)
 * [2023-04-10, 10:53:07](https://news.ycombinator.com/item?id=35510949) - [Grep – New kind of search engine](https://grep.help/)
