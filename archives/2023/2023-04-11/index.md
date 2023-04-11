@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 06:11:13](https://news.ycombinator.com/item?id=35521436) - [Stop Telling Everyone What You Do for a Living](https://www.wsj.com/articles/stop-telling-everyone-what-you-do-for-a-living-5daa8fc9)
 * [2023-04-11, 05:53:57](https://news.ycombinator.com/item?id=35521345) - [YouTube suspends a YouTuber&#x27;s Patreon-exclusive account for self-impersonation](https://twitter.com/craig1black/status/1645649300167495681)
 * [2023-04-11, 05:38:19](https://news.ycombinator.com/item?id=35521249) - [Bitcoin is the snake oil of our generation](https://ajit.dhiwal.com/bitcoin-is-the-snake-oil-of-our-generation-2544a1984ce9?gi=f32e7700b7e8)
 * [2023-04-11, 05:07:43](https://news.ycombinator.com/item?id=35521087) - [Dependently Typing R Vectors, Arrays, and Matrices](https://arxiv.org/abs/2304.04265)
