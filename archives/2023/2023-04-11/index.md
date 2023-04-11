@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 20:22:00](https://news.ycombinator.com/item?id=35530991) - [View Transitions API](https://htmx.org/essays/view-transitions/)
 * [2023-04-11, 19:57:53](https://news.ycombinator.com/item?id=35530635) - [Americans’ IQ scores are lower in some areas, higher in one](https://news.northwestern.edu/stories/2023/03/americans-iq-scores-are-lower-in-some-areas-higher-in-one/)
 * [2023-04-11, 19:49:21](https://news.ycombinator.com/item?id=35530513) - [Show HN: Semantic Search on AWS Docs](https://github.com/aws-samples/semantic-search-aws-docs)
 * [2023-04-11, 19:40:30](https://news.ycombinator.com/item?id=35530372) - [Word Grinder: Terminal Based Distraction Free Word Processor](https://github.com/davidgiven/wordgrinder)
