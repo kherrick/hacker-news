@@ -25,10 +25,10 @@
 * [2023-04-11, 12:12:09](https://news.ycombinator.com/item?id=35524023) - [KDE Plasma Widget for external monitor brightness adjustment](https://github.com/davidhi7/ddcci-plasmoid)
 * [2023-04-11, 11:58:09](https://news.ycombinator.com/item?id=35523859) - [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/)
 * [2023-04-11, 07:24:27](https://news.ycombinator.com/item?id=35521925) - [Sega 3-D Glasses: How did they work?](https://nicole.express/2023/the-third-dimension-and-the-eight-bits.html)
+* [2023-04-11, 04:30:59](https://news.ycombinator.com/item?id=35520857) - [Roman Architectural Revolution](https://en.wikipedia.org/wiki/Roman_architectural_revolution)
 * [2023-04-11, 00:39:38](https://news.ycombinator.com/item?id=35519224) - [Twitter showed us its algorithm – what does it tell us?](https://knightcolumbia.org/blog/twitter-showed-us-its-algorithm-what-does-it-tell-us)
 * [2023-04-10, 19:20:41](https://news.ycombinator.com/item?id=35516231) - [Garum Masala: trade between ancient Rome and India](https://www.nybooks.com/articles/2023/04/20/garum-masala-indian-ocean-trade-in-antiquity-cobb/)
 * [2023-04-10, 15:26:43](https://news.ycombinator.com/item?id=35513475) - [Two algorithms for randomly generating aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/)
-* [2023-04-10, 08:40:44](https://news.ycombinator.com/item?id=35510337) - [In Praise of Top Down Programming](https://www.i-programmer.info/professional-programmer/i-programmer/3864-in-praise-of-top-down-.html)
 * [2023-04-09, 21:05:11](https://news.ycombinator.com/item?id=35506459) - [The otherworldly compositions of an Ethiopian nun](https://www.newyorker.com/magazine/2023/04/17/jerusalem-emahoy-tsegue-maryam-guebrou-music-review)
 
 ## [Archives](archives/index.md)
