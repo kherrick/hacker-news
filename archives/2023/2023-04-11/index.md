@@ -87,6 +87,7 @@
 * [2023-04-11, 05:53:57](https://news.ycombinator.com/item?id=35521345) - [YouTube suspends a YouTuber&#x27;s Patreon-exclusive account for self-impersonation](https://twitter.com/craig1black/status/1645649300167495681)
 * [2023-04-11, 05:38:19](https://news.ycombinator.com/item?id=35521249) - [Bitcoin is the snake oil of our generation](https://ajit.dhiwal.com/bitcoin-is-the-snake-oil-of-our-generation-2544a1984ce9?gi=f32e7700b7e8)
 * [2023-04-11, 05:36:18](https://news.ycombinator.com/item?id=35521235) - [Searching for the Spirit of the Midwest](https://newrepublic.com/article/170700/searching-spirit-midwest-lauck-good-country-review)
+* [2023-04-11, 05:32:48](https://news.ycombinator.com/item?id=35521211) - [Fraktur Folk Art (ca. 1750–1820)](https://publicdomainreview.org/collection/fraktur-folk-art)
 * [2023-04-11, 05:07:43](https://news.ycombinator.com/item?id=35521087) - [Dependently Typing R Vectors, Arrays, and Matrices](https://arxiv.org/abs/2304.04265)
 * [2023-04-11, 04:30:59](https://news.ycombinator.com/item?id=35520857) - [Roman Architectural Revolution](https://en.wikipedia.org/wiki/Roman_architectural_revolution)
 * [2023-04-11, 04:23:45](https://news.ycombinator.com/item?id=35520806) - [AlphaFold predicts impact of single mutations on protein stability and function](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282689)
