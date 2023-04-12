@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 14:21:40](https://news.ycombinator.com/item?id=35540154) - [Replacing my best friends with an LLM trained on 500k group chat messages](https://www.izzy.co/blogs/robo-boys.html)
 * [2023-04-12, 14:17:46](https://news.ycombinator.com/item?id=35540084) - [Hetzner Introduces ARM64 Cloud Servers](https://www.hetzner.com/press-release/arm64-cloud/)
+* [2023-04-12, 14:05:37](https://news.ycombinator.com/item?id=35539859) - [Questionable $2,500 hoodie makes you look like you were plucked out of Minecraft](https://arstechnica.com/gadgets/2023/04/questionable-2500-hoodie-makes-you-look-like-you-were-plucked-out-of-minecraft/)
+* [2023-04-12, 13:52:54](https://news.ycombinator.com/item?id=35539675) - [U.S. Inflation Eased to 5% in March](https://www.wsj.com/articles/us-inflation-march-2023-consumer-price-index-fa6eba99)
 * [2023-04-12, 13:26:38](https://news.ycombinator.com/item?id=35539280) - [NPR quits Twitter after being labeled as &#x27;state-affiliated media&#x27;](https://www.wbur.org/npr/1169269161/npr-leaves-twitter-government-funded-media-label)
 * [2023-04-12, 13:12:10](https://news.ycombinator.com/item?id=35539085) - [Free Dolly: Introducing the First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 * [2023-04-12, 13:09:49](https://news.ycombinator.com/item?id=35539057) - [Intel and Arm Announce Multigeneration Collaboration on Leading-Edge SoC Design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
