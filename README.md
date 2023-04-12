@@ -6,6 +6,7 @@
 * [2023-04-12, 20:59:15](https://news.ycombinator.com/item?id=35546804) - [Joblib: Running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/index.html)
 * [2023-04-12, 20:29:08](https://news.ycombinator.com/item?id=35546341) - [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
 * [2023-04-12, 20:12:31](https://news.ycombinator.com/item?id=35546068) - [Fullscreen apps above the MacBook notch](https://notes.alinpanaitiu.com/Fullscreen%20apps%20above%20the%20MacBook%20notch)
+* [2023-04-12, 20:07:09](https://news.ycombinator.com/item?id=35545983) - [I’ve been single all my life](https://lukasrosenstock.net/2023/04/10/im-single-i.html)
 * [2023-04-12, 20:01:03](https://news.ycombinator.com/item?id=35545901) - [Meme group on Discord is focus of uproar over leaked Pentagon documents](https://www.nytimes.com/2023/04/11/business/discord-leaked-military-documents.html)
 * [2023-04-12, 19:54:43](https://news.ycombinator.com/item?id=35545817) - [On a great interview question](https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942)
 * [2023-04-12, 19:54:22](https://news.ycombinator.com/item?id=35545809) - [Firefox rolls out Total Cookie Protection by default to more users](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
@@ -16,7 +17,6 @@
 * [2023-04-12, 17:44:08](https://news.ycombinator.com/item?id=35543668) - [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
 * [2023-04-12, 15:59:02](https://news.ycombinator.com/item?id=35541861) - [Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs](https://github.com/databrickslabs/dolly/tree/master/data)
 * [2023-04-12, 14:21:40](https://news.ycombinator.com/item?id=35540154) - [Replacing my best friends with an LLM trained on 500k group chat messages](https://www.izzy.co/blogs/robo-boys.html)
-* [2023-04-12, 14:17:46](https://news.ycombinator.com/item?id=35540084) - [Hetzner Introduces ARM64 Cloud Servers](https://www.hetzner.com/press-release/arm64-cloud/)
 * [2023-04-12, 13:39:05](https://news.ycombinator.com/item?id=35539464) - [FerretDB: open-source MongoDB alternative](https://blog.ferretdb.io/ferretdb-1-0-ga-opensource-mongodb-alternative/)
 * [2023-04-12, 13:09:49](https://news.ycombinator.com/item?id=35539057) - [Intel Foundry Services and Arm announce collaboration on SoC design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
 * [2023-04-12, 12:56:59](https://news.ycombinator.com/item?id=35538892) - [Even when we know they’re “fake,” placebos can tame our emotional distress](https://nautil.us/sugar-pill-nation-294292/)
@@ -29,7 +29,7 @@
 * [2023-04-11, 12:32:30](https://news.ycombinator.com/item?id=35524256) - [Show HN: Sheet Markup – add spreadsheets to a Markdown document](https://www.equalto.com/markup/)
 * [2023-04-11, 06:42:26](https://news.ycombinator.com/item?id=35521654) - [A man who walked around the world](https://www.theguardian.com/lifeandstyle/2023/apr/11/the-man-who-walked-around-the-world-tom-turcich-seven-year-search-meaning-of-life)
 * [2023-04-11, 05:49:28](https://news.ycombinator.com/item?id=35521327) - [Conversation with Larry Masinter about standardizing Common Lisp](https://irclog.tymoon.eu/libera/%23commonlisp?to=1681213754)
-* [2023-04-10, 23:58:53](https://news.ycombinator.com/item?id=35518944) - [Transit Study Reveals Robocars Causing Surprisingly Little Disruption on Streets](https://www.forbes.com/sites/bradtempleton/2023/04/10/transit-study-reveals-robotaxis-causing-surprisingly-little-disruption-on-streets/)
+* [2023-04-10, 23:58:53](https://news.ycombinator.com/item?id=35518944) - [Study reveals robotaxis causing surprisingly little disruption on streets](https://www.forbes.com/sites/bradtempleton/2023/04/10/transit-study-reveals-robotaxis-causing-surprisingly-little-disruption-on-streets/)
 
 ## [Archives](archives/index.md)
 
