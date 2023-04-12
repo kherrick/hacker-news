@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=35539464"
     ],
     [
-      "FerretDB, a truly open-source MongoDB alternative",
+      "FerretDB: open-source MongoDB alternative",
       "https://blog.ferretdb.io/ferretdb-1-0-ga-opensource-mongodb-alternative/"
     ]
   ],
@@ -127,16 +127,6 @@
     [
       "Intel Foundry Services and Arm announce collaboration on SoC design",
       "https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 13:03:18",
-      "https://news.ycombinator.com/item?id=35538977"
-    ],
-    [
-      "Supabase Storage v3: Resumable Uploads with support for 50GB files",
-      "https://supabase.com/blog/storage-v3-resumable-uploads"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Bitmovin (YC S15) Is Hiring a Full Stack Engineer (Analytics)",
       "https://bitmovin.com/careers/6694763002/"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 11:52:11",
+      "https://news.ycombinator.com/item?id=35538192"
+    ],
+    [
+      "ManyCam dishonored my lifetime license",
+      "https://www.amazingcto.com/beware-manycam-licensing-pricing/"
     ]
   ],
   [
