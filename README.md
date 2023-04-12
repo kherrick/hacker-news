@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-12, 12:22:33](https://news.ycombinator.com/item?id=35538494) - [FBI Advising People to Avoid Public Charging Stations](https://www.schneier.com/blog/archives/2023/04/fbi-advising-people-to-avoid-public-charging-stations.html)
+* [2023-04-12, 12:21:13](https://news.ycombinator.com/item?id=35538477) - [Former Executives of Outcome Health Convicted in $1B Corporate Fraud Scheme – OP](https://www.justice.gov/opa/pr/former-executives-outcome-health-convicted-1b-corporate-fraud-scheme)
 * [2023-04-12, 12:00:55](https://news.ycombinator.com/item?id=35538271) - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer (Analytics)](https://bitmovin.com/careers/6694763002/)
 * [2023-04-12, 11:52:11](https://news.ycombinator.com/item?id=35538192) - [ManyCam dishonored my lifetime license](https://www.amazingcto.com/beware-manycam-licensing-pricing/)
 * [2023-04-12, 11:36:06](https://news.ycombinator.com/item?id=35538030) - [Elizabeth Holmes loses bid to stay out of prison during appeal of sentence](https://www.abc.net.au/news/2023-04-12/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison/102211402)
@@ -24,11 +26,9 @@
 * [2023-04-11, 18:11:00](https://news.ycombinator.com/item?id=35528898) - [A Cryptographic Near Miss](https://words.filippo.io/dispatches/near-miss/)
 * [2023-04-11, 15:48:40](https://news.ycombinator.com/item?id=35526846) - [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-11, 15:43:42](https://news.ycombinator.com/item?id=35526768) - [Substack Notes Launched](https://on.substack.com/p/notes)
-* [2023-04-11, 05:55:34](https://news.ycombinator.com/item?id=35521351) - [Lispy vs. Pseudo-English Syntax (1984)](http://ml.cddddr.org/cl-iteration/msg00010.html)
+* [2023-04-11, 06:41:54](https://news.ycombinator.com/item?id=35521650) - [Foundational Distributed Systems Papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 * [2023-04-11, 05:47:46](https://news.ycombinator.com/item?id=35521314) - [The Candy Wrapper Museum](https://www.smithsonianmag.com/travel/take-a-peek-inside-the-candy-wrapper-museum-180981957/)
-* [2023-04-11, 05:36:18](https://news.ycombinator.com/item?id=35521235) - [Searching for the Spirit of the Midwest](https://newrepublic.com/article/170700/searching-spirit-midwest-lauck-good-country-review)
 * [2023-04-11, 04:55:41](https://news.ycombinator.com/item?id=35521005) - [Energy-saving coating without pigment keeps the surface beneath cool](https://www.npr.org/2023/04/01/1166093778/scientists-create-an-eco-friendly-paint-that-mimics-nature)
-* [2023-04-11, 04:30:59](https://news.ycombinator.com/item?id=35520857) - [Roman architectural revolution](https://en.wikipedia.org/wiki/Roman_architectural_revolution)
 * [2023-04-10, 12:27:07](https://news.ycombinator.com/item?id=35511473) - [Roger Bacon](https://mathshistory.st-andrews.ac.uk/Biographies/Bacon/)
 
 ## [Archives](archives/index.md)

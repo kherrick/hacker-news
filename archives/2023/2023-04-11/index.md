@@ -87,6 +87,7 @@
 * [2023-04-11, 07:13:15](https://news.ycombinator.com/item?id=35521846) - [FreeBSD 13.2-RELEASE Now Available](https://www.freebsd.org/releases/13.2R/relnotes/)
 * [2023-04-11, 07:05:19](https://news.ycombinator.com/item?id=35521797) - [FBI Warns Against Using Public USB Ports Due to Malware Risk](https://www.macrumors.com/2023/04/10/fbi-malware-public-usb-port-warning/)
 * [2023-04-11, 06:50:02](https://news.ycombinator.com/item?id=35521704) - [We&#x27;re building a browser when it&#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
+* [2023-04-11, 06:41:54](https://news.ycombinator.com/item?id=35521650) - [Foundational Distributed Systems Papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 * [2023-04-11, 06:34:54](https://news.ycombinator.com/item?id=35521598) - [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6)
 * [2023-04-11, 06:11:13](https://news.ycombinator.com/item?id=35521436) - [Stop Telling Everyone What You Do for a Living](https://www.wsj.com/articles/stop-telling-everyone-what-you-do-for-a-living-5daa8fc9)
 * [2023-04-11, 05:55:34](https://news.ycombinator.com/item?id=35521351) - [Lispy vs. Pseudo-English Syntax (1984)](http://ml.cddddr.org/cl-iteration/msg00010.html)
