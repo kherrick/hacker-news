@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-12, 23:17:01](https://news.ycombinator.com/item?id=35548407) - [Japan Government: Missile could be heading towards northern Japan](https://www3.nhk.or.jp/nhkworld/)
+* [2023-04-12, 23:17:01](https://news.ycombinator.com/item?id=35548407) - [Japan Government warned citizens to shelter after ballistic missile launch](https://www3.nhk.or.jp/nhkworld/)
 * [2023-04-12, 22:22:00](https://news.ycombinator.com/item?id=35547847) - [Bad News About Inflation](https://paulromer.net/bad-news-about-inflation/)
 * [2023-04-12, 22:13:14](https://news.ycombinator.com/item?id=35547756) - [Midjourney AI Guide](https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c)
 * [2023-04-12, 22:05:44](https://news.ycombinator.com/item?id=35547679) - [Show HN: GPT command line client that queries several models simultaneously](https://github.com/derwiki/go-chatgpt)
