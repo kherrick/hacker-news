@@ -2,12 +2,12 @@
 
 * [2023-04-12, 14:21:40](https://news.ycombinator.com/item?id=35540154) - [Replacing my best friends with an LLM trained on 500k group chat messages](https://www.izzy.co/blogs/robo-boys.html)
 * [2023-04-12, 14:17:46](https://news.ycombinator.com/item?id=35540084) - [Hetzner Introduces ARM64 Cloud Servers](https://www.hetzner.com/press-release/arm64-cloud/)
-* [2023-04-12, 14:05:37](https://news.ycombinator.com/item?id=35539859) - [Questionable $2,500 hoodie makes you look like you were plucked out of Minecraft](https://arstechnica.com/gadgets/2023/04/questionable-2500-hoodie-makes-you-look-like-you-were-plucked-out-of-minecraft/)
 * [2023-04-12, 13:38:10](https://news.ycombinator.com/item?id=35539447) - [Points on Cartooning by George Carlson (1937)](http://mikelynchcartoons.blogspot.com/2023/04/how-to-cartoon-book-points-on.html)
 * [2023-04-12, 13:09:49](https://news.ycombinator.com/item?id=35539057) - [Intel Foundry and Arm announce collaboration on SoC design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
 * [2023-04-12, 13:03:18](https://news.ycombinator.com/item?id=35538977) - [Supabase Storage v3: Resumable Uploads with support for 50GB files](https://supabase.com/blog/storage-v3-resumable-uploads)
 * [2023-04-12, 13:01:08](https://news.ycombinator.com/item?id=35538955) - [Collection of LLM resources that can be used to build products you can “own”](https://github.com/imaurer/awesome-decentralized-llm)
 * [2023-04-12, 13:00:10](https://news.ycombinator.com/item?id=35538945) - [Terence Tao on GPT-4](https://mathstodon.xyz/@tao/110172426733603359)
+* [2023-04-12, 12:56:59](https://news.ycombinator.com/item?id=35538892) - [Even when we know they’re “fake,” placebos can tame our emotional distress](https://nautil.us/sugar-pill-nation-294292/)
 * [2023-04-12, 12:22:33](https://news.ycombinator.com/item?id=35538494) - [FBI is warning people against using public phone-charging stations](https://www.schneier.com/blog/archives/2023/04/fbi-advising-people-to-avoid-public-charging-stations.html)
 * [2023-04-12, 12:21:13](https://news.ycombinator.com/item?id=35538477) - [Former executives of Outcome Health convicted in $1B corporate fraud scheme](https://www.justice.gov/opa/pr/former-executives-outcome-health-convicted-1b-corporate-fraud-scheme)
 * [2023-04-12, 12:00:55](https://news.ycombinator.com/item?id=35538271) - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer (Analytics)](https://bitmovin.com/careers/6694763002/)
