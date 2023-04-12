@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 23:17:01](https://news.ycombinator.com/item?id=35548407) - [Japan Government: Missile could be heading towards northern Japan](https://www3.nhk.or.jp/nhkworld/)
 * [2023-04-12, 22:22:00](https://news.ycombinator.com/item?id=35547847) - [Bad News About Inflation](https://paulromer.net/bad-news-about-inflation/)
 * [2023-04-12, 21:48:00](https://news.ycombinator.com/item?id=35547467) - [DeepSpeed Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-Like Models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
 * [2023-04-12, 21:35:48](https://news.ycombinator.com/item?id=35547316) - [Use io_uring for network I&#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)

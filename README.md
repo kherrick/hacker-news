@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-12, 23:17:01](https://news.ycombinator.com/item?id=35548407) - [Japan Government: Missile could be heading towards northern Japan](https://www3.nhk.or.jp/nhkworld/)
 * [2023-04-12, 22:22:00](https://news.ycombinator.com/item?id=35547847) - [Bad News About Inflation](https://paulromer.net/bad-news-about-inflation/)
 * [2023-04-12, 21:48:00](https://news.ycombinator.com/item?id=35547467) - [DeepSpeed Chat: Easy, fast and affordable RLHF training of ChatGPT-like models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
 * [2023-04-12, 21:35:48](https://news.ycombinator.com/item?id=35547316) - [Use io_uring for network I&#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
@@ -10,7 +11,6 @@
 * [2023-04-12, 20:07:09](https://news.ycombinator.com/item?id=35545983) - [I’ve been single all my life](https://lukasrosenstock.net/2023/04/10/im-single-i.html)
 * [2023-04-12, 20:01:03](https://news.ycombinator.com/item?id=35545901) - [Meme group on Discord is focus of uproar over leaked Pentagon documents](https://www.nytimes.com/2023/04/11/business/discord-leaked-military-documents.html)
 * [2023-04-12, 19:54:43](https://news.ycombinator.com/item?id=35545817) - [On a great interview question](https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942)
-* [2023-04-12, 19:54:22](https://news.ycombinator.com/item?id=35545809) - [Firefox rolls out Total Cookie Protection by default to more users](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
 * [2023-04-12, 19:34:40](https://news.ycombinator.com/item?id=35545487) - [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://phys.org/news/2023-04-sno-collaboration-evidence-antineutrinos-cherenkov.html)
 * [2023-04-12, 19:00:54](https://news.ycombinator.com/item?id=35544964) - [Scaffolded LLMs as natural language computers](https://www.beren.io/2023-04-11-Scaffolded-LLMs-natural-language-computers/)
 * [2023-04-12, 18:53:11](https://news.ycombinator.com/item?id=35544851) - [Experimenting with LLMs to Research, Reflect, and Plan](https://eugeneyan.com/writing/llm-experiments/)
