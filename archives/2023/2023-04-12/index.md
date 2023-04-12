@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 17:27:33](https://news.ycombinator.com/item?id=35543402) - [Killing Sparrows Led to Great Famines in China](https://www.historydefined.net/how-killing-sparrows-led-to-one-of-the-greatest-famines-in-history/)
+* [2023-04-12, 17:24:06](https://news.ycombinator.com/item?id=35543335) - [Tell HN: Reddit App down but status website shows operational](https://news.ycombinator.com/item?id=35543335)
 * [2023-04-12, 16:27:08](https://news.ycombinator.com/item?id=35542307) - [OpenAI releases Consistency Model for one-step generation](https://github.com/openai/consistency_models)
 * [2023-04-12, 16:03:41](https://news.ycombinator.com/item?id=35541942) - [U.S. proposes 56% vehicle emissions cut by 2032, requiring big EV jump](https://www.reuters.com/business/environment/us-proposes-56-vehicle-emissions-cut-by-2032-requiring-big-ev-jump-2023-04-12/)
 * [2023-04-12, 15:59:02](https://news.ycombinator.com/item?id=35541861) - [Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs](https://github.com/databrickslabs/dolly/tree/master/data)

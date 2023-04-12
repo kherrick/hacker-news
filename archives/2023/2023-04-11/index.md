@@ -103,6 +103,7 @@
 * [2023-04-11, 04:55:41](https://news.ycombinator.com/item?id=35521005) - [Energy-saving coating without pigment keeps the surface beneath cool](https://www.npr.org/2023/04/01/1166093778/scientists-create-an-eco-friendly-paint-that-mimics-nature)
 * [2023-04-11, 04:30:59](https://news.ycombinator.com/item?id=35520857) - [Roman Architectural Revolution](https://en.wikipedia.org/wiki/Roman_architectural_revolution)
 * [2023-04-11, 04:23:45](https://news.ycombinator.com/item?id=35520806) - [AlphaFold predicts impact of single mutations on protein stability and function](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282689)
+* [2023-04-11, 04:04:02](https://news.ycombinator.com/item?id=35520681) - [Visual Attention](https://www.katsnyderux.com/post/visual-attention-in-virtual-reality)
 * [2023-04-11, 03:39:42](https://news.ycombinator.com/item?id=35520496) - [Three Sisters (Agriculture)](https://en.wikipedia.org/wiki/Three_Sisters_(agriculture))
 * [2023-04-11, 03:39:34](https://news.ycombinator.com/item?id=35520495) - [DPReview is being shut down by Amazon today](https://www.digitalcameraworld.com/news/dpreview-is-being-shut-down-by-amazon-today-what-a-waste-says-founder)
 * [2023-04-11, 03:20:26](https://news.ycombinator.com/item?id=35520361) - [Nolibc: A minimal C-library replacement shipped with the kernel](https://lwn.net/Articles/920158/)
