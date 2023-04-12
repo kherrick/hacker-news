@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 02:43:17](https://news.ycombinator.com/item?id=35534418) - [Can We Make Bicycles Sustainable Again?](https://www.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html)
 * [2023-04-12, 02:20:49](https://news.ycombinator.com/item?id=35534290) - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
 * [2023-04-12, 02:08:16](https://news.ycombinator.com/item?id=35534211) - [Modular AI (Chris Lattner AI Startup)](https://www.modular.com/)
 * [2023-04-12, 01:12:36](https://news.ycombinator.com/item?id=35533841) - [Why xHE-AAC is being embraced at Meta](https://engineering.fb.com/2023/04/11/video-engineering/high-quality-audio-xhe-aac-codec-meta/)
