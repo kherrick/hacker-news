@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-12, 07:58:00](https://news.ycombinator.com/item?id=35536318) - [Python Software Foundation concern at looming Euro cybersecurity rules](https://www.theregister.com/2023/04/12/python_management_eu/)
+* [2023-04-12, 07:55:15](https://news.ycombinator.com/item?id=35536303) - [Sony backs Raspberry Pi with fresh funding, access to A.I. chips](https://www.cnbc.com/2023/04/12/sony-backs-raspberry-pi-with-fresh-funding-access-to-ai-chips.html)
 * [2023-04-12, 06:55:17](https://news.ycombinator.com/item?id=35535906) - [Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/)
 * [2023-04-12, 01:48:26](https://news.ycombinator.com/item?id=35534069) - [Bookshop.org survives and thrives in Amazon’s world](https://www.wired.com/story/books-bookshop-org-thrives-amazon-world/)
 * [2023-04-12, 00:48:15](https://news.ycombinator.com/item?id=35533711) - [EVE Online player uses obscure rule to pull off biggest heist in game history](https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/)
@@ -15,7 +16,6 @@
 * [2023-04-11, 19:37:27](https://news.ycombinator.com/item?id=35530318) - [Car alarms and smoke alarms: tradeoff between sensitivity and specificity (2012)](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
 * [2023-04-11, 19:35:44](https://news.ycombinator.com/item?id=35530289) - [Htmx 1.9.0 has been released](https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/)
 * [2023-04-11, 18:11:00](https://news.ycombinator.com/item?id=35528898) - [A Cryptographic Near Miss](https://words.filippo.io/dispatches/near-miss/)
-* [2023-04-11, 16:57:30](https://news.ycombinator.com/item?id=35527873) - [The Best Pens for 2023: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-42-Best-Pens-for-2023-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2023-04-11, 15:48:40](https://news.ycombinator.com/item?id=35526846) - [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-11, 15:43:42](https://news.ycombinator.com/item?id=35526768) - [Substack Notes Launched](https://on.substack.com/p/notes)
 * [2023-04-11, 14:30:21](https://news.ycombinator.com/item?id=35525683) - [Swarm](https://www.vitling.xyz/toys/swarm/)
