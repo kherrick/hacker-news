@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-04-12, 14:24:09",
-      "https://news.ycombinator.com/item?id=35540200"
-    ],
-    [
-      "Deepmind – Reinforcement Learning Lecture Series (2021)",
-      "https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021"
-    ]
-  ],
-  [
-    [
       "2023-04-12, 14:21:40",
       "https://news.ycombinator.com/item?id=35540154"
     ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=35539057"
     ],
     [
-      "Intel Foundry and Arm announce collaboration on SoC design",
+      "Intel Foundry Services and Arm announce collaboration on SoC design",
       "https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "Archimedes Palimpsest",
       "https://en.wikipedia.org/wiki/Archimedes_Palimpsest"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 08:09:15",
+      "https://news.ycombinator.com/item?id=35536399"
+    ],
+    [
+      "ELF hash function may overflow",
+      "https://maskray.me/blog/2023-04-12-elf-hash-function"
     ]
   ],
   [
