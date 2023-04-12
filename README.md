@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-12, 13:26:38](https://news.ycombinator.com/item?id=35539280) - [NPR quits Twitter after being labeled as &#x27;state-affiliated media&#x27;](https://www.wbur.org/npr/1169269161/npr-leaves-twitter-government-funded-media-label)
+* [2023-04-12, 14:17:46](https://news.ycombinator.com/item?id=35540084) - [Hetzner Introduces ARM64 Cloud Servers](https://www.hetzner.com/press-release/arm64-cloud/)
 * [2023-04-12, 13:12:10](https://news.ycombinator.com/item?id=35539085) - [Free Dolly: First truly open instruction-tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 * [2023-04-12, 13:09:49](https://news.ycombinator.com/item?id=35539057) - [Intel Foundry and Arm announce collaboration on SoC design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
 * [2023-04-12, 13:03:18](https://news.ycombinator.com/item?id=35538977) - [Supabase Storage v3: Resumable Uploads with support for 50GB files](https://supabase.com/blog/storage-v3-resumable-uploads)
