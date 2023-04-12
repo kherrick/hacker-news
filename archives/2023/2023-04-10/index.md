@@ -59,6 +59,7 @@
 * [2023-04-10, 12:58:07](https://news.ycombinator.com/item?id=35511713) - [Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918)
 * [2023-04-10, 12:51:13](https://news.ycombinator.com/item?id=35511653) - [Software Forge Performance Index](https://forgeperf.org/)
 * [2023-04-10, 12:46:40](https://news.ycombinator.com/item?id=35511621) - [Rare corn can self-fertilise [video]](https://www.youtube.com/watch?v=CFyd-kC6IUw)
+* [2023-04-10, 12:27:07](https://news.ycombinator.com/item?id=35511473) - [Roger Bacon](https://mathshistory.st-andrews.ac.uk/Biographies/Bacon/)
 * [2023-04-10, 12:07:21](https://news.ycombinator.com/item?id=35511357) - [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 * [2023-04-10, 12:02:22](https://news.ycombinator.com/item?id=35511332) - [Heat pump disappointment for climate-minded Massachusetts state senator](https://willbrownsberger.com/heat-pump-disappointment/)
 * [2023-04-10, 11:52:09](https://news.ycombinator.com/item?id=35511269) - [The SaaS Playbook](https://www.kickstarter.com/projects/robwalling/the-saas-playbook-by-rob-walling)

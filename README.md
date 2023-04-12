@@ -2,8 +2,7 @@
 
 * [2023-04-12, 11:12:24](https://news.ycombinator.com/item?id=35537813) - [Mass Layoffs and Absentee Bosses Create a Morale Crisis at Meta](https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html)
 * [2023-04-12, 11:02:12](https://news.ycombinator.com/item?id=35537719) - [Why MD5(&#x27;240610708&#x27;) is equal to MD5(&#x27;QNKCDZO&#x27;)?](https://stackoverflow.com/a/22140266)
-* [2023-04-12, 09:59:19](https://news.ycombinator.com/item?id=35537264) - [Ask HN: Is Software Getting Worse?](https://news.ycombinator.com/item?id=35537264)
-* [2023-04-12, 09:28:26](https://news.ycombinator.com/item?id=35537007) - [The Complete Guide to All the Taquerias of Redwood City, v2.0](http://www.emeraldlake.com/tacos/)
+* [2023-04-12, 09:28:26](https://news.ycombinator.com/item?id=35537007) - [The Complete Guide to All the Taquerias of Redwood City, v2.0 (2008)](http://www.emeraldlake.com/tacos/)
 * [2023-04-12, 09:15:04](https://news.ycombinator.com/item?id=35536890) - [The reality of being a Principal Engineer](https://leaddev.com/career-paths-progression-promotion/reality-being-principal-engineer)
 * [2023-04-12, 08:33:11](https://news.ycombinator.com/item?id=35536612) - [New NASA Director Swears Oath on Carl Sagan’s ‘Pale Blue Dot’ Instead of Bible](https://www.independent.co.uk/space/nasa-director-carl-sagan-oath-b2317698.html)
 * [2023-04-12, 08:32:33](https://news.ycombinator.com/item?id=35536607) - [Show HN: Personalized book recommendations with Librarian AI](https://www.librarian-ai.com/)
@@ -30,6 +29,7 @@
 * [2023-04-11, 04:55:41](https://news.ycombinator.com/item?id=35521005) - [Energy-saving coating without pigment keeps the surface beneath cool](https://www.npr.org/2023/04/01/1166093778/scientists-create-an-eco-friendly-paint-that-mimics-nature)
 * [2023-04-11, 04:30:59](https://news.ycombinator.com/item?id=35520857) - [Roman architectural revolution](https://en.wikipedia.org/wiki/Roman_architectural_revolution)
 * [2023-04-10, 18:25:54](https://news.ycombinator.com/item?id=35515562) - [Emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
+* [2023-04-10, 12:27:07](https://news.ycombinator.com/item?id=35511473) - [Roger Bacon](https://mathshistory.st-andrews.ac.uk/Biographies/Bacon/)
 
 ## [Archives](archives/index.md)
 
