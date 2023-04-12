@@ -93,6 +93,7 @@
 * [2023-04-11, 05:36:18](https://news.ycombinator.com/item?id=35521235) - [Searching for the Spirit of the Midwest](https://newrepublic.com/article/170700/searching-spirit-midwest-lauck-good-country-review)
 * [2023-04-11, 05:32:48](https://news.ycombinator.com/item?id=35521211) - [Fraktur Folk Art (ca. 1750–1820)](https://publicdomainreview.org/collection/fraktur-folk-art)
 * [2023-04-11, 05:07:43](https://news.ycombinator.com/item?id=35521087) - [Dependently Typing R Vectors, Arrays, and Matrices](https://arxiv.org/abs/2304.04265)
+* [2023-04-11, 04:55:41](https://news.ycombinator.com/item?id=35521005) - [Energy-saving coating without pigment keeps the surface beneath cool](https://www.npr.org/2023/04/01/1166093778/scientists-create-an-eco-friendly-paint-that-mimics-nature)
 * [2023-04-11, 04:30:59](https://news.ycombinator.com/item?id=35520857) - [Roman Architectural Revolution](https://en.wikipedia.org/wiki/Roman_architectural_revolution)
 * [2023-04-11, 04:23:45](https://news.ycombinator.com/item?id=35520806) - [AlphaFold predicts impact of single mutations on protein stability and function](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282689)
 * [2023-04-11, 03:39:42](https://news.ycombinator.com/item?id=35520496) - [Three Sisters (Agriculture)](https://en.wikipedia.org/wiki/Three_Sisters_(agriculture))

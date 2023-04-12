@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-12, 02:20:49](https://news.ycombinator.com/item?id=35534290) - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
 * [2023-04-12, 02:11:42](https://news.ycombinator.com/item?id=35534235) - [Blue Sky: Can Twitter be owned by its users?](https://blog.paulbohm.com/p/blue-sky-farcaster-substack-notes)
 * [2023-04-12, 01:48:26](https://news.ycombinator.com/item?id=35534069) - [Bookshop.org survives and thrives in Amazon’s world](https://www.wired.com/story/books-bookshop-org-thrives-amazon-world/)
 * [2023-04-12, 01:12:36](https://news.ycombinator.com/item?id=35533841) - [Why xHE-AAC is being embraced at Meta](https://engineering.fb.com/2023/04/11/video-engineering/high-quality-audio-xhe-aac-codec-meta/)
@@ -27,6 +26,7 @@
 * [2023-04-11, 07:24:27](https://news.ycombinator.com/item?id=35521925) - [Sega 3-D Glasses: How did they work?](https://nicole.express/2023/the-third-dimension-and-the-eight-bits.html)
 * [2023-04-11, 05:36:18](https://news.ycombinator.com/item?id=35521235) - [Searching for the Spirit of the Midwest](https://newrepublic.com/article/170700/searching-spirit-midwest-lauck-good-country-review)
 * [2023-04-11, 05:32:48](https://news.ycombinator.com/item?id=35521211) - [Fraktur Folk Art (ca. 1750–1820)](https://publicdomainreview.org/collection/fraktur-folk-art)
+* [2023-04-11, 04:55:41](https://news.ycombinator.com/item?id=35521005) - [Energy-saving coating without pigment keeps the surface beneath cool](https://www.npr.org/2023/04/01/1166093778/scientists-create-an-eco-friendly-paint-that-mimics-nature)
 * [2023-04-11, 04:30:59](https://news.ycombinator.com/item?id=35520857) - [Roman architectural revolution](https://en.wikipedia.org/wiki/Roman_architectural_revolution)
 * [2023-04-11, 00:39:38](https://news.ycombinator.com/item?id=35519224) - [Twitter showed us its algorithm – what does it tell us?](https://knightcolumbia.org/blog/twitter-showed-us-its-algorithm-what-does-it-tell-us)
 * [2023-04-10, 19:20:41](https://news.ycombinator.com/item?id=35516231) - [Garum Masala](https://www.nybooks.com/articles/2023/04/20/garum-masala-indian-ocean-trade-in-antiquity-cobb/)
