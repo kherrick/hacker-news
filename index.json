@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-04-12, 19:27:16",
+      "https://news.ycombinator.com/item?id=35545384"
+    ],
+    [
+      "JavaScript Object Notation (JSON) Pointer",
+      "https://www.rfc-editor.org/rfc/rfc6901"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 19:21:41",
       "https://news.ycombinator.com/item?id=35545286"
     ],
@@ -87,16 +97,6 @@
     [
       "Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs",
       "https://github.com/databrickslabs/dolly/tree/master/data"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 15:36:26",
-      "https://news.ycombinator.com/item?id=35541519"
-    ],
-    [
-      "Show HN: Praetor, a lightweight finetuning data and prompt management tool",
-      "https://github.com/gkamer8/praetor-data"
     ]
   ],
   [
