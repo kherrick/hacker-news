@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 20:29:08](https://news.ycombinator.com/item?id=35546341) - [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
 * [2023-04-12, 20:07:09](https://news.ycombinator.com/item?id=35545983) - [I’ve been single all my life](https://lukasrosenstock.net/2023/04/10/im-single-i.html)
 * [2023-04-12, 20:01:03](https://news.ycombinator.com/item?id=35545901) - [Discord Meme Group Is at the Center of Uproar over Leaked Military Secrets](https://www.nytimes.com/2023/04/11/business/discord-leaked-military-documents.html)
+* [2023-04-12, 19:54:43](https://news.ycombinator.com/item?id=35545817) - [On a Great Interview Question](https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942)
 * [2023-04-12, 19:54:22](https://news.ycombinator.com/item?id=35545809) - [Firefox rolls out Total Cookie Protection by default to more users worldwide](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
 * [2023-04-12, 19:39:16](https://news.ycombinator.com/item?id=35545566) - [Microsoft Is Slowly Rolling Out Ads in the Windows 11 Start Menu](https://gizmodo.com/microsoft-windows-11-onedrive-notifications-start-menu-1850327990)
 * [2023-04-12, 19:34:40](https://news.ycombinator.com/item?id=35545487) - [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://phys.org/news/2023-04-sno-collaboration-evidence-antineutrinos-cherenkov.html)
