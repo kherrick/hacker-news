@@ -53,6 +53,7 @@
 * [2023-04-11, 14:43:10](https://news.ycombinator.com/item?id=35525877) - [A life of splendid uselessness is a life well lived](https://psyche.co/ideas/a-life-of-splendid-uselessness-is-a-life-well-lived)
 * [2023-04-11, 14:42:53](https://news.ycombinator.com/item?id=35525871) - [They’re selling nudes of imaginary women on Reddit](https://www.rollingstone.com/culture/culture-features/ai-nudes-selling-reddit-1234708474/)
 * [2023-04-11, 14:30:21](https://news.ycombinator.com/item?id=35525683) - [Swarm](https://www.vitling.xyz/toys/swarm/)
+* [2023-04-11, 14:30:12](https://news.ycombinator.com/item?id=35525680) - [The long, slow death of global development](https://americanaffairsjournal.org/2022/11/the-long-slow-death-of-global-development/)
 * [2023-04-11, 14:29:03](https://news.ycombinator.com/item?id=35525661) - [Distributed² Machine Learning Notebooks with Elixir and Livebook](https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw)
 * [2023-04-11, 14:08:54](https://news.ycombinator.com/item?id=35525384) - [The EU Proposed CRA Law May Have Unintended Consequence for the Python Ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
 * [2023-04-11, 14:02:40](https://news.ycombinator.com/item?id=35525294) - [I worked at Google for -10 days](https://andgein.ru/blog/all/20-i-worked-at-google-for-10-days/)
