@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 23:58:53](https://news.ycombinator.com/item?id=35518944) - [Transit Study Reveals Robocars Causing Surprisingly Little Disruption on Streets](https://www.forbes.com/sites/bradtempleton/2023/04/10/transit-study-reveals-robotaxis-causing-surprisingly-little-disruption-on-streets/)
 * [2023-04-10, 23:39:43](https://news.ycombinator.com/item?id=35518786) - [Supabase Logs: open-source logging server](https://supabase.com/blog/supabase-logs-self-hosted)
 * [2023-04-10, 23:34:58](https://news.ycombinator.com/item?id=35518746) - [Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4](https://arxiv.org/abs/2304.03439)
 * [2023-04-10, 22:14:14](https://news.ycombinator.com/item?id=35518032) - [Shutting down nuclear power could increase air pollution: study](https://news.mit.edu/2023/study-shutting-down-nuclear-power-could-increase-air-pollution-0410)
