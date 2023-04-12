@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 08:52:42](https://news.ycombinator.com/item?id=35536735) - [Toyota plug-in hybrids to offer 124-mile electric-only range](https://www.autocar.co.uk/car-news/new-cars/toyota-plug-hybrids-offer-124-mile-electric-only-range)
+* [2023-04-12, 08:36:15](https://news.ycombinator.com/item?id=35536625) - [“In 2050, everyone will be carbon literate”](https://read2050.substack.com/p/matthew-isaacs)
+* [2023-04-12, 08:33:11](https://news.ycombinator.com/item?id=35536612) - [New NASA Director Swears Oath on Carl Sagan’s ‘Pale Blue Dot’ Instead of Bible](https://www.independent.co.uk/space/nasa-director-carl-sagan-oath-b2317698.html)
+* [2023-04-12, 08:32:33](https://news.ycombinator.com/item?id=35536607) - [Show HN: Personalized book recommendations with Librarian AI](https://www.librarian-ai.com/)
 * [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
 * [2023-04-12, 08:17:44](https://news.ycombinator.com/item?id=35536483) - [Show HN: Good, fast, cheap – editable iron triangle](https://trizuliak.com/experiments/good-fast-cheap)
 * [2023-04-12, 08:16:46](https://news.ycombinator.com/item?id=35536478) - [Archimedes Palimpsest](https://en.wikipedia.org/wiki/Archimedes_Palimpsest)
