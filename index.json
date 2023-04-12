@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-04-12, 17:27:33",
-      "https://news.ycombinator.com/item?id=35543402"
+      "2023-04-12, 18:00:09",
+      "https://news.ycombinator.com/item?id=35543973"
     ],
     [
-      "Killing Sparrows Led to Great Famines in China",
-      "https://www.historydefined.net/how-killing-sparrows-led-to-one-of-the-greatest-famines-in-history/"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 17:24:06",
-      "https://news.ycombinator.com/item?id=35543335"
-    ],
-    [
-      "Tell HN: Reddit App down but status website shows operational",
-      "https://news.ycombinator.com/item?id=35543335"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 16:27:08",
-      "https://news.ycombinator.com/item?id=35542307"
-    ],
-    [
-      "OpenAI releases Consistency Model for one-step generation",
-      "https://github.com/openai/consistency_models"
+      "Blank • Furbo.org",
+      "https://furbo.org/2023/04/12/announcing-blank/"
     ]
   ],
   [
@@ -37,6 +17,16 @@
     [
       "Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs",
       "https://github.com/databrickslabs/dolly/tree/master/data"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 15:36:26",
+      "https://news.ycombinator.com/item?id=35541519"
+    ],
+    [
+      "Show HN: Praetor, a lightweight finetuning data and prompt management tool",
+      "https://github.com/gkamer8/praetor-data"
     ]
   ],
   [
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2023-04-12, 13:03:18",
+      "https://news.ycombinator.com/item?id=35538977"
+    ],
+    [
+      "Supabase Storage v3: Resumable Uploads with support for 50GB files",
+      "https://supabase.com/blog/storage-v3-resumable-uploads"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 13:00:10",
       "https://news.ycombinator.com/item?id=35538945"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
+      "2023-04-12, 08:16:46",
+      "https://news.ycombinator.com/item?id=35536478"
+    ],
+    [
+      "Archimedes Palimpsest",
+      "https://en.wikipedia.org/wiki/Archimedes_Palimpsest"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 07:37:39",
       "https://news.ycombinator.com/item?id=35536202"
     ],
     [
       "Displaying My Washing Machine&#x27;s Remaining Time with Curl, Jq, and Pizauth",
       "https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 16:16:24",
-      "https://news.ycombinator.com/item?id=35527291"
-    ],
-    [
-      "Pipe Inspection Robot [video]",
-      "https://www.youtube.com/watch?v=M9GdrbxoIP4"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=35521327"
     ],
     [
-      "Conversation with Larry Masinter about Standardizing Common Lisp",
+      "Conversation with Larry Masinter about standardizing Common Lisp",
       "https://irclog.tymoon.eu/libera/%23commonlisp?to=1681213754"
     ]
   ],
