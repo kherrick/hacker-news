@@ -15,6 +15,7 @@
 * [2023-04-10, 19:09:07](https://news.ycombinator.com/item?id=35516100) - [Lawsuits Are the Hitman of the State](https://betonit.substack.com/p/lawsuits-are-the-deep-state)
 * [2023-04-10, 18:48:51](https://news.ycombinator.com/item?id=35515873) - [Keycloak with PostgreSQL on Kubernetes](https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/)
 * [2023-04-10, 18:34:13](https://news.ycombinator.com/item?id=35515676) - [AI Can&#x27;t Take over Everyone&#x27;s Jobs Soon (If Ever)](https://spectrum.ieee.org/ai-taking-over-jobs)
+* [2023-04-10, 18:25:54](https://news.ycombinator.com/item?id=35515562) - [Emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
 * [2023-04-10, 17:59:22](https://news.ycombinator.com/item?id=35515230) - [Passing the Reins on Panfrost](https://rosenzweig.io/blog/passing-reins-panfrost.html)
 * [2023-04-10, 17:58:07](https://news.ycombinator.com/item?id=35515208) - [Teaching ChatGPT to Speak My Son’s Invented Language](https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05)
 * [2023-04-10, 17:41:51](https://news.ycombinator.com/item?id=35514985) - [JEP 445: Flexible Main Methods and Anonymous Main Classes (Preview)](https://openjdk.org/jeps/445)

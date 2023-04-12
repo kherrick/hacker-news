@@ -26,10 +26,10 @@
 * [2023-04-11, 15:43:42](https://news.ycombinator.com/item?id=35526768) - [Substack Notes Launched](https://on.substack.com/p/notes)
 * [2023-04-11, 05:47:46](https://news.ycombinator.com/item?id=35521314) - [The Candy Wrapper Museum](https://www.smithsonianmag.com/travel/take-a-peek-inside-the-candy-wrapper-museum-180981957/)
 * [2023-04-11, 05:36:18](https://news.ycombinator.com/item?id=35521235) - [Searching for the Spirit of the Midwest](https://newrepublic.com/article/170700/searching-spirit-midwest-lauck-good-country-review)
-* [2023-04-11, 05:32:48](https://news.ycombinator.com/item?id=35521211) - [Fraktur Folk Art (ca. 1750–1820)](https://publicdomainreview.org/collection/fraktur-folk-art)
 * [2023-04-11, 04:55:41](https://news.ycombinator.com/item?id=35521005) - [Energy-saving coating without pigment keeps the surface beneath cool](https://www.npr.org/2023/04/01/1166093778/scientists-create-an-eco-friendly-paint-that-mimics-nature)
 * [2023-04-11, 00:39:38](https://news.ycombinator.com/item?id=35519224) - [Twitter showed us its algorithm – what does it tell us?](https://knightcolumbia.org/blog/twitter-showed-us-its-algorithm-what-does-it-tell-us)
 * [2023-04-10, 19:20:41](https://news.ycombinator.com/item?id=35516231) - [Garum Masala](https://www.nybooks.com/articles/2023/04/20/garum-masala-indian-ocean-trade-in-antiquity-cobb/)
+* [2023-04-10, 18:25:54](https://news.ycombinator.com/item?id=35515562) - [Emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
 
 ## [Archives](archives/index.md)
 
