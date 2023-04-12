@@ -93,6 +93,7 @@
 * [2023-04-11, 06:11:13](https://news.ycombinator.com/item?id=35521436) - [Stop Telling Everyone What You Do for a Living](https://www.wsj.com/articles/stop-telling-everyone-what-you-do-for-a-living-5daa8fc9)
 * [2023-04-11, 05:55:34](https://news.ycombinator.com/item?id=35521351) - [Lispy vs. Pseudo-English Syntax (1984)](http://ml.cddddr.org/cl-iteration/msg00010.html)
 * [2023-04-11, 05:53:57](https://news.ycombinator.com/item?id=35521345) - [YouTube suspends a YouTuber&#x27;s Patreon-exclusive account for self-impersonation](https://twitter.com/craig1black/status/1645649300167495681)
+* [2023-04-11, 05:49:28](https://news.ycombinator.com/item?id=35521327) - [Conversation with Larry Masinter about Standardizing Common Lisp](https://irclog.tymoon.eu/libera/%23commonlisp?to=1681213754)
 * [2023-04-11, 05:47:46](https://news.ycombinator.com/item?id=35521314) - [The Candy Wrapper Museum](https://www.smithsonianmag.com/travel/take-a-peek-inside-the-candy-wrapper-museum-180981957/)
 * [2023-04-11, 05:38:19](https://news.ycombinator.com/item?id=35521249) - [Bitcoin is the snake oil of our generation](https://ajit.dhiwal.com/bitcoin-is-the-snake-oil-of-our-generation-2544a1984ce9?gi=f32e7700b7e8)
 * [2023-04-11, 05:36:18](https://news.ycombinator.com/item?id=35521235) - [Searching for the Spirit of the Midwest](https://newrepublic.com/article/170700/searching-spirit-midwest-lauck-good-country-review)
