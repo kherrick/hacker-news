@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-12, 07:58:00](https://news.ycombinator.com/item?id=35536318) - [Python Software Foundation concern at looming Euro cybersecurity rules](https://www.theregister.com/2023/04/12/python_management_eu/)
-* [2023-04-12, 07:29:23](https://news.ycombinator.com/item?id=35536141) - [Texas Officials Would Rather Close Library Than Stock Books They Don’t Like](https://www.vice.com/en/article/jg58x8/texas-officials-would-rather-close-library-than-stock-books-they-dont-like)
 * [2023-04-12, 06:55:17](https://news.ycombinator.com/item?id=35535906) - [Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/)
 * [2023-04-12, 01:48:26](https://news.ycombinator.com/item?id=35534069) - [Bookshop.org survives and thrives in Amazon’s world](https://www.wired.com/story/books-bookshop-org-thrives-amazon-world/)
 * [2023-04-12, 00:48:15](https://news.ycombinator.com/item?id=35533711) - [EVE Online player uses obscure rule to pull off biggest heist in game history](https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/)
@@ -22,6 +21,7 @@
 * [2023-04-11, 14:30:21](https://news.ycombinator.com/item?id=35525683) - [Swarm](https://www.vitling.xyz/toys/swarm/)
 * [2023-04-11, 13:57:45](https://news.ycombinator.com/item?id=35525222) - [Supabase Edge Runtime: Self-Hosted Deno Functions](https://supabase.com/blog/edge-runtime-self-hosted-deno-functions)
 * [2023-04-11, 13:45:23](https://news.ycombinator.com/item?id=35525047) - [Sparkle](https://troz.net/post/2023/sparkle/)
+* [2023-04-11, 08:05:03](https://news.ycombinator.com/item?id=35522230) - [Yuzu: Progress Report March 2023](https://yuzu-emu.org/entry/yuzu-progress-report-mar-2023/)
 * [2023-04-11, 07:24:27](https://news.ycombinator.com/item?id=35521925) - [Sega 3-D Glasses: How did they work?](https://nicole.express/2023/the-third-dimension-and-the-eight-bits.html)
 * [2023-04-11, 05:47:46](https://news.ycombinator.com/item?id=35521314) - [The Candy Wrapper Museum](https://www.smithsonianmag.com/travel/take-a-peek-inside-the-candy-wrapper-museum-180981957/)
 * [2023-04-11, 05:36:18](https://news.ycombinator.com/item?id=35521235) - [Searching for the Spirit of the Midwest](https://newrepublic.com/article/170700/searching-spirit-midwest-lauck-good-country-review)
