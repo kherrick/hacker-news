@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-12, 21:48:00",
+      "https://news.ycombinator.com/item?id=35547467"
+    ],
+    [
+      "DeepSpeed Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-Like Models",
+      "https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 21:35:48",
+      "https://news.ycombinator.com/item?id=35547316"
+    ],
+    [
+      "Use io_uring for network I&#x2F;O",
+      "https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 21:01:31",
       "https://news.ycombinator.com/item?id=35546845"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
+      "2023-04-12, 20:59:15",
+      "https://news.ycombinator.com/item?id=35546804"
+    ],
+    [
+      "Joblib: Running Python functions as pipeline jobs",
+      "https://joblib.readthedocs.io/en/latest/index.html"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 20:29:08",
       "https://news.ycombinator.com/item?id=35546341"
     ],
     [
       "Teaching Large Language Models to Self-Debug",
       "https://arxiv.org/abs/2304.05128"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 20:15:41",
-      "https://news.ycombinator.com/item?id=35546133"
-    ],
-    [
-      "People Are Sick and Tired of All Their Subscriptions",
-      "https://www.wsj.com/articles/people-are-sick-and-tired-of-all-their-subscriptions-cbee7e03"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=35545809"
     ],
     [
-      "Firefox rolls out Total Cookie Protection by default to more users worldwide",
+      "Firefox rolls out Total Cookie Protection by default to more users",
       "https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/"
     ]
   ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-04-12, 13:38:10",
-      "https://news.ycombinator.com/item?id=35539447"
-    ],
-    [
-      "Points on Cartooning (1937)",
-      "http://mikelynchcartoons.blogspot.com/2023/04/how-to-cartoon-book-points-on.html"
-    ]
-  ],
-  [
-    [
       "2023-04-12, 13:09:49",
       "https://news.ycombinator.com/item?id=35539057"
     ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=35535407"
     ],
     [
-      "Wikipedia: List of Citogenesis Incidents",
+      "List of Citogenesis Incidents",
       "https://en.wikipedia.org/wiki/Wikipedia:List_of_citogenesis_incidents"
     ]
   ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=35535169"
     ],
     [
-      "19th-Century Silhouettes in Newly Digitized Collection",
+      "19th-century silhouettes in newly digitized collection",
       "https://www.smithsonianmag.com/smithsonian-institution/find-out-if-your-ancestor-is-among-these-19th-century-silhouettes-in-this-newly-digitized-collection-180981947/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Conversation with Larry Masinter about standardizing Common Lisp",
       "https://irclog.tymoon.eu/libera/%23commonlisp?to=1681213754"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 18:25:54",
-      "https://news.ycombinator.com/item?id=35515562"
-    ],
-    [
-      "Emergent abilities of large language models",
-      "https://www.jasonwei.net/blog/emergence"
     ]
   ],
   [
