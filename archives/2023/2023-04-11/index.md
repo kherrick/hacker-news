@@ -6,6 +6,7 @@
 
 * [2023-04-11, 23:37:09](https://news.ycombinator.com/item?id=35533200) - [Solaris by Stanislaw Lem on BBC 4 Radio Full-Cast Drama (2007)](https://www.youtube.com/watch?v=oe8lRAIunxs)
 * [2023-04-11, 23:09:42](https://news.ycombinator.com/item?id=35532956) - [GPT-4 Outperforms Elite Crowdworkers, Saving Researchers $500k and 20k hours](https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20)
+* [2023-04-11, 23:09:41](https://news.ycombinator.com/item?id=35532955) - [After 30 years, a father is exonerated in &#x27;Satanic panic&#x27; case](https://www.tpr.org/criminal-justice/2023-04-11/after-30-years-a-father-is-exonerated-in-satanic-panic-case)
 * [2023-04-11, 23:05:59](https://news.ycombinator.com/item?id=35532919) - [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)
 * [2023-04-11, 22:25:45](https://news.ycombinator.com/item?id=35532479) - [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
 * [2023-04-11, 22:24:12](https://news.ycombinator.com/item?id=35532458) - [Bay Area couple shocked by $200K hospital bill for rabies shots](https://abc7news.com/rabies-shot-hospital-bill-vacaville-ca-couple-northbay-healthcare-vacavalley/12788545/)
@@ -28,6 +29,7 @@
 * [2023-04-11, 19:01:27](https://news.ycombinator.com/item?id=35529779) - [California to lend 20% down payments with 0% interest for homebuyers](https://www.kpbs.org/news/2023/04/05/new-loan-program-expected-to-put-homeownership-within-reach-for-thousands-of-californians)
 * [2023-04-11, 18:31:22](https://news.ycombinator.com/item?id=35529240) - [Rules for developers to design beautiful UIs without a designer](https://www.refactoringui.com/)
 * [2023-04-11, 18:14:36](https://news.ycombinator.com/item?id=35528956) - [GPT-4 gets a B on my quantum computing final exam](https://scottaaronson.blog/?p=7209)
+* [2023-04-11, 18:11:00](https://news.ycombinator.com/item?id=35528898) - [A Cryptographic Near Miss](https://words.filippo.io/dispatches/near-miss/)
 * [2023-04-11, 17:53:06](https://news.ycombinator.com/item?id=35528651) - [HTTP Response Header Field: Carbon-Emissions-Scope-2](https://www.ietf.org/archive/id/draft-martin-http-carbon-emissions-scope-2-00.html)
 * [2023-04-11, 17:49:33](https://news.ycombinator.com/item?id=35528595) - [Ask HN: Is the job market brutal? or is it just me?](https://news.ycombinator.com/item?id=35528595)
 * [2023-04-11, 17:30:21](https://news.ycombinator.com/item?id=35528315) - [Now live for all: Substack Notes](https://on.substack.com/p/notes)
