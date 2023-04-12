@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-12, 02:20:49](https://news.ycombinator.com/item?id=35534290) - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
 * [2023-04-12, 02:11:42](https://news.ycombinator.com/item?id=35534235) - [Blue Sky: Can Twitter be owned by its users?](https://blog.paulbohm.com/p/blue-sky-farcaster-substack-notes)
 * [2023-04-12, 01:48:26](https://news.ycombinator.com/item?id=35534069) - [Bookshop.org survives and thrives in Amazon’s world](https://www.wired.com/story/books-bookshop-org-thrives-amazon-world/)
 * [2023-04-12, 01:12:36](https://news.ycombinator.com/item?id=35533841) - [Why xHE-AAC is being embraced at Meta](https://engineering.fb.com/2023/04/11/video-engineering/high-quality-audio-xhe-aac-codec-meta/)
@@ -15,7 +16,6 @@
 * [2023-04-11, 19:37:27](https://news.ycombinator.com/item?id=35530318) - [Car alarms and smoke alarms: tradeoff between sensitivity and specificity (2012)](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
 * [2023-04-11, 19:35:44](https://news.ycombinator.com/item?id=35530289) - [Htmx 1.9.0 has been released](https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/)
 * [2023-04-11, 18:11:00](https://news.ycombinator.com/item?id=35528898) - [A Cryptographic Near Miss](https://words.filippo.io/dispatches/near-miss/)
-* [2023-04-11, 17:22:54](https://news.ycombinator.com/item?id=35528199) - [Ethics, politics, and society in the age of artificial intelligence (2020)](https://www.bostonreview.net/articles/kenneth-taylor-robots-are-coming-ethics-politics-and-society-age/)
 * [2023-04-11, 16:57:30](https://news.ycombinator.com/item?id=35527873) - [The Best Pens for 2023: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-42-Best-Pens-for-2023-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2023-04-11, 15:48:40](https://news.ycombinator.com/item?id=35526846) - [SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-11, 15:43:42](https://news.ycombinator.com/item?id=35526768) - [Substack Notes Launched](https://on.substack.com/p/notes)
