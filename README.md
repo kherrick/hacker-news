@@ -3,7 +3,7 @@
 * [2023-04-12, 21:01:31](https://news.ycombinator.com/item?id=35546845) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2023-04-12, 20:29:08](https://news.ycombinator.com/item?id=35546341) - [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
 * [2023-04-12, 20:15:41](https://news.ycombinator.com/item?id=35546133) - [People Are Sick and Tired of All Their Subscriptions](https://www.wsj.com/articles/people-are-sick-and-tired-of-all-their-subscriptions-cbee7e03)
-* [2023-04-12, 19:54:43](https://news.ycombinator.com/item?id=35545817) - [On a Great Interview Question](https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942)
+* [2023-04-12, 20:12:31](https://news.ycombinator.com/item?id=35546068) - [Fullscreen apps above the MacBook notch](https://notes.alinpanaitiu.com/Fullscreen%20apps%20above%20the%20MacBook%20notch)
 * [2023-04-12, 19:54:22](https://news.ycombinator.com/item?id=35545809) - [Firefox rolls out Total Cookie Protection by default to more users worldwide](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
 * [2023-04-12, 19:34:40](https://news.ycombinator.com/item?id=35545487) - [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://phys.org/news/2023-04-sno-collaboration-evidence-antineutrinos-cherenkov.html)
 * [2023-04-12, 19:00:54](https://news.ycombinator.com/item?id=35544964) - [Scaffolded LLMs as natural language computers](https://www.beren.io/2023-04-11-Scaffolded-LLMs-natural-language-computers/)

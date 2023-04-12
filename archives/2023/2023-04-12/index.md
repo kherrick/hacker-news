@@ -7,6 +7,7 @@
 * [2023-04-12, 21:01:31](https://news.ycombinator.com/item?id=35546845) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2023-04-12, 20:29:08](https://news.ycombinator.com/item?id=35546341) - [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
 * [2023-04-12, 20:15:41](https://news.ycombinator.com/item?id=35546133) - [People Are Sick and Tired of All Their Subscriptions](https://www.wsj.com/articles/people-are-sick-and-tired-of-all-their-subscriptions-cbee7e03)
+* [2023-04-12, 20:12:31](https://news.ycombinator.com/item?id=35546068) - [Fullscreen apps above the MacBook notch](https://notes.alinpanaitiu.com/Fullscreen%20apps%20above%20the%20MacBook%20notch)
 * [2023-04-12, 20:07:09](https://news.ycombinator.com/item?id=35545983) - [I’ve been single all my life](https://lukasrosenstock.net/2023/04/10/im-single-i.html)
 * [2023-04-12, 20:01:03](https://news.ycombinator.com/item?id=35545901) - [Discord Meme Group Is at the Center of Uproar over Leaked Military Secrets](https://www.nytimes.com/2023/04/11/business/discord-leaked-military-documents.html)
 * [2023-04-12, 19:54:43](https://news.ycombinator.com/item?id=35545817) - [On a Great Interview Question](https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942)
