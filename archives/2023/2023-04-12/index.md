@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
+* [2023-04-12, 08:17:44](https://news.ycombinator.com/item?id=35536483) - [Show HN: Good, fast, cheap – editable iron triangle](https://trizuliak.com/experiments/good-fast-cheap)
+* [2023-04-12, 08:09:15](https://news.ycombinator.com/item?id=35536399) - [ELF hash function may overflow](https://maskray.me/blog/2023-04-12-elf-hash-function)
+* [2023-04-12, 08:07:12](https://news.ycombinator.com/item?id=35536392) - [Would you use it if you could use AI to generate mind maps with one click?](https://xmind.app/blog/chatgpt-and-xmind-how-to-create-a-mind-map-with-chatgpt/)
 * [2023-04-12, 07:58:00](https://news.ycombinator.com/item?id=35536318) - [Python Software Foundation concern at looming Euro cybersecurity rules](https://www.theregister.com/2023/04/12/python_management_eu/)
 * [2023-04-12, 07:55:15](https://news.ycombinator.com/item?id=35536303) - [Sony backs Raspberry Pi with fresh funding, access to A.I. chips](https://www.cnbc.com/2023/04/12/sony-backs-raspberry-pi-with-fresh-funding-access-to-ai-chips.html)
+* [2023-04-12, 07:46:37](https://news.ycombinator.com/item?id=35536250) - [Deduplicating a Slice in Go](https://boyter.org/posts/deduplicate-slice-go-sort-or-map/)
 * [2023-04-12, 07:29:23](https://news.ycombinator.com/item?id=35536141) - [Texas Officials Would Rather Close Library Than Stock Books They Don’t Like](https://www.vice.com/en/article/jg58x8/texas-officials-would-rather-close-library-than-stock-books-they-dont-like)
 * [2023-04-12, 06:55:17](https://news.ycombinator.com/item?id=35535906) - [Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/)
 * [2023-04-12, 04:56:51](https://news.ycombinator.com/item?id=35535185) - [“This design choice was made by accounting and legal. Therefore, wontfix.”](https://bugs.chromium.org/p/chromium/issues/detail?id=347016#c52)
