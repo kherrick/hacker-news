@@ -23,11 +23,11 @@
 * [2023-04-12, 08:32:33](https://news.ycombinator.com/item?id=35536607) - [Show HN: Personalized book recommendations with Librarian AI](https://www.librarian-ai.com/)
 * [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
 * [2023-04-12, 07:37:39](https://news.ycombinator.com/item?id=35536202) - [Displaying My Washing Machine&#x27;s Remaining Time with Curl, Jq, and Pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
+* [2023-04-11, 17:55:18](https://news.ycombinator.com/item?id=35528692) - [Steve Roberts: Computing Across America](https://bikepacking.com/plog/steve-roberts-computing-across-america/)
 * [2023-04-11, 12:32:30](https://news.ycombinator.com/item?id=35524256) - [Show HN: Sheet Markup – add spreadsheets to a Markdown document](https://www.equalto.com/markup/)
 * [2023-04-11, 06:42:26](https://news.ycombinator.com/item?id=35521654) - [A man who walked around the world](https://www.theguardian.com/lifeandstyle/2023/apr/11/the-man-who-walked-around-the-world-tom-turcich-seven-year-search-meaning-of-life)
 * [2023-04-11, 06:41:54](https://news.ycombinator.com/item?id=35521650) - [Foundational distributed systems papers (2021)](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 * [2023-04-11, 05:49:28](https://news.ycombinator.com/item?id=35521327) - [Conversation with Larry Masinter about standardizing Common Lisp](https://irclog.tymoon.eu/libera/%23commonlisp?to=1681213754)
-* [2023-04-11, 04:04:02](https://news.ycombinator.com/item?id=35520681) - [Visual Attention](https://www.katsnyderux.com/post/visual-attention-in-virtual-reality)
 * [2023-04-10, 18:25:54](https://news.ycombinator.com/item?id=35515562) - [Emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
 * [2023-04-10, 12:27:07](https://news.ycombinator.com/item?id=35511473) - [Roger Bacon (1214 – 1292) – Biography (2003)](https://mathshistory.st-andrews.ac.uk/Biographies/Bacon/)
 

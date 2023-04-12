@@ -30,6 +30,7 @@
 * [2023-04-11, 18:31:22](https://news.ycombinator.com/item?id=35529240) - [Rules for developers to design beautiful UIs without a designer](https://www.refactoringui.com/)
 * [2023-04-11, 18:14:36](https://news.ycombinator.com/item?id=35528956) - [GPT-4 gets a B on my quantum computing final exam](https://scottaaronson.blog/?p=7209)
 * [2023-04-11, 18:11:00](https://news.ycombinator.com/item?id=35528898) - [A Cryptographic Near Miss](https://words.filippo.io/dispatches/near-miss/)
+* [2023-04-11, 17:55:18](https://news.ycombinator.com/item?id=35528692) - [Steve Roberts: Computing Across America](https://bikepacking.com/plog/steve-roberts-computing-across-america/)
 * [2023-04-11, 17:53:06](https://news.ycombinator.com/item?id=35528651) - [HTTP Response Header Field: Carbon-Emissions-Scope-2](https://www.ietf.org/archive/id/draft-martin-http-carbon-emissions-scope-2-00.html)
 * [2023-04-11, 17:49:33](https://news.ycombinator.com/item?id=35528595) - [Ask HN: Is the job market brutal? or is it just me?](https://news.ycombinator.com/item?id=35528595)
 * [2023-04-11, 17:30:21](https://news.ycombinator.com/item?id=35528315) - [Now live for all: Substack Notes](https://on.substack.com/p/notes)
