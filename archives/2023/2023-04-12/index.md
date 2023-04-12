@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 19:00:54](https://news.ycombinator.com/item?id=35544964) - [Scaffolded LLMs as natural language computers](https://www.beren.io/2023-04-11-Scaffolded-LLMs-natural-language-computers/)
 * [2023-04-12, 18:02:02](https://news.ycombinator.com/item?id=35544015) - [A systematic critique of Bitcoin&#x27;s value proposition](http://blog.rongarret.info/2023/04/a-systematic-critique-of-bitcoins-value.html)
 * [2023-04-12, 18:00:09](https://news.ycombinator.com/item?id=35543973) - [Blank • Furbo.org](https://furbo.org/2023/04/12/announcing-blank/)
 * [2023-04-12, 17:44:08](https://news.ycombinator.com/item?id=35543668) - [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
