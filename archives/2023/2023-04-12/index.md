@@ -6,6 +6,8 @@
 
 * [2023-04-12, 23:17:01](https://news.ycombinator.com/item?id=35548407) - [Japan Government: Missile could be heading towards northern Japan](https://www3.nhk.or.jp/nhkworld/)
 * [2023-04-12, 22:22:00](https://news.ycombinator.com/item?id=35547847) - [Bad News About Inflation](https://paulromer.net/bad-news-about-inflation/)
+* [2023-04-12, 22:13:14](https://news.ycombinator.com/item?id=35547756) - [Midjourney AI Guide](https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c)
+* [2023-04-12, 22:05:44](https://news.ycombinator.com/item?id=35547679) - [Show HN: GPT command line client that queries several models simultaneously](https://github.com/derwiki/go-chatgpt)
 * [2023-04-12, 21:48:00](https://news.ycombinator.com/item?id=35547467) - [DeepSpeed Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-Like Models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
 * [2023-04-12, 21:35:48](https://news.ycombinator.com/item?id=35547316) - [Use io_uring for network I&#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
 * [2023-04-12, 21:01:31](https://news.ycombinator.com/item?id=35546845) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
