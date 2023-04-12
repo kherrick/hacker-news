@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 21:48:00](https://news.ycombinator.com/item?id=35547467) - [DeepSpeed Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-Like Models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
+* [2023-04-12, 21:35:48](https://news.ycombinator.com/item?id=35547316) - [Use io_uring for network I&#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
 * [2023-04-12, 21:01:31](https://news.ycombinator.com/item?id=35546845) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
+* [2023-04-12, 20:59:15](https://news.ycombinator.com/item?id=35546804) - [Joblib: Running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/index.html)
 * [2023-04-12, 20:29:08](https://news.ycombinator.com/item?id=35546341) - [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
 * [2023-04-12, 20:15:41](https://news.ycombinator.com/item?id=35546133) - [People Are Sick and Tired of All Their Subscriptions](https://www.wsj.com/articles/people-are-sick-and-tired-of-all-their-subscriptions-cbee7e03)
 * [2023-04-12, 20:12:31](https://news.ycombinator.com/item?id=35546068) - [Fullscreen apps above the MacBook notch](https://notes.alinpanaitiu.com/Fullscreen%20apps%20above%20the%20MacBook%20notch)
