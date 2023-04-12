@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-12, 02:41:59](https://news.ycombinator.com/item?id=35534409) - [Microsoft to change PrintScreen button to open the Snipping Tool in Windows 11](https://www.techspot.com/news/98269-microsoft-set-change-print-screen-button-opens-snipping.html)
+* [2023-04-12, 04:55:29](https://news.ycombinator.com/item?id=35535174) - [Teacher failed kid for essay because an AI-detection tool flagged his work](https://twitter.com/failnaut/status/1645472836008411142)
 * [2023-04-12, 02:20:49](https://news.ycombinator.com/item?id=35534290) - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
 * [2023-04-12, 02:11:42](https://news.ycombinator.com/item?id=35534235) - [Blue Sky: Can Twitter be owned by its users?](https://blog.paulbohm.com/p/blue-sky-farcaster-substack-notes)
 * [2023-04-12, 01:48:26](https://news.ycombinator.com/item?id=35534069) - [Bookshop.org survives and thrives in Amazon’s world](https://www.wired.com/story/books-bookshop-org-thrives-amazon-world/)
