@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-12, 19:34:40](https://news.ycombinator.com/item?id=35545487) - [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://arxiv.org/abs/2210.14154)
+* [2023-04-12, 19:27:16](https://news.ycombinator.com/item?id=35545384) - [JavaScript Object Notation (JSON) Pointer](https://www.rfc-editor.org/rfc/rfc6901)
 * [2023-04-12, 19:21:41](https://news.ycombinator.com/item?id=35545286) - [Google will shut down Dropcam and Nest Secure in 2024](https://www.theverge.com/2023/4/7/23673165/google-nest-dropcam-nest-secure-eol)
 * [2023-04-12, 19:14:21](https://news.ycombinator.com/item?id=35545163) - [Arkansas House wants you to show ID to use social media](https://arktimes.com/arkansas-blog/2023/04/05/arkansas-house-wants-you-to-show-id-to-use-social-media)
 * [2023-04-12, 19:00:54](https://news.ycombinator.com/item?id=35544964) - [Scaffolded LLMs as natural language computers](https://www.beren.io/2023-04-11-Scaffolded-LLMs-natural-language-computers/)
@@ -9,7 +10,6 @@
 * [2023-04-12, 17:44:08](https://news.ycombinator.com/item?id=35543668) - [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
 * [2023-04-12, 17:27:33](https://news.ycombinator.com/item?id=35543402) - [Killing sparrows led to famines in China](https://www.historydefined.net/how-killing-sparrows-led-to-one-of-the-greatest-famines-in-history/)
 * [2023-04-12, 15:59:02](https://news.ycombinator.com/item?id=35541861) - [Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs](https://github.com/databrickslabs/dolly/tree/master/data)
-* [2023-04-12, 15:36:26](https://news.ycombinator.com/item?id=35541519) - [Show HN: Praetor, a lightweight finetuning data and prompt management tool](https://github.com/gkamer8/praetor-data)
 * [2023-04-12, 14:27:31](https://news.ycombinator.com/item?id=35540273) - [Show HN: I recreated a flying toasters screensaver for XScreensaver](https://github.com/torunar/flying-toasters-xscreensaver)
 * [2023-04-12, 14:21:40](https://news.ycombinator.com/item?id=35540154) - [Replacing my best friends with an LLM trained on 500k group chat messages](https://www.izzy.co/blogs/robo-boys.html)
 * [2023-04-12, 14:17:46](https://news.ycombinator.com/item?id=35540084) - [Hetzner Introduces ARM64 Cloud Servers](https://www.hetzner.com/press-release/arm64-cloud/)

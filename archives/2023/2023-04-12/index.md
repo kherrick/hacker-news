@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
 * [2023-04-12, 19:34:40](https://news.ycombinator.com/item?id=35545487) - [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://arxiv.org/abs/2210.14154)
+* [2023-04-12, 19:27:16](https://news.ycombinator.com/item?id=35545384) - [JavaScript Object Notation (JSON) Pointer](https://www.rfc-editor.org/rfc/rfc6901)
 * [2023-04-12, 19:21:41](https://news.ycombinator.com/item?id=35545286) - [Google will shut down Dropcam and Nest Secure in 2024](https://www.theverge.com/2023/4/7/23673165/google-nest-dropcam-nest-secure-eol)
 * [2023-04-12, 19:14:21](https://news.ycombinator.com/item?id=35545163) - [Arkansas House wants you to show ID to use social media](https://arktimes.com/arkansas-blog/2023/04/05/arkansas-house-wants-you-to-show-id-to-use-social-media)
 * [2023-04-12, 19:00:54](https://news.ycombinator.com/item?id=35544964) - [Scaffolded LLMs as natural language computers](https://www.beren.io/2023-04-11-Scaffolded-LLMs-natural-language-computers/)
