@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-04-12, 16:03:41",
+      "https://news.ycombinator.com/item?id=35541942"
+    ],
+    [
+      "U.S. proposes 56% vehicle emissions cut by 2032, requiring big EV jump",
+      "https://www.reuters.com/business/environment/us-proposes-56-vehicle-emissions-cut-by-2032-requiring-big-ev-jump-2023-04-12/"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 15:59:02",
+      "https://news.ycombinator.com/item?id=35541861"
+    ],
+    [
+      "Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs",
+      "https://github.com/databrickslabs/dolly/tree/master/data"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 15:52:16",
+      "https://news.ycombinator.com/item?id=35541772"
+    ],
+    [
+      "Yes, it&#x27;s OK to be mad about crime in San Francisco",
+      "https://noahpinion.substack.com/p/yes-its-ok-to-be-mad-about-crime"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 15:29:11",
+      "https://news.ycombinator.com/item?id=35541409"
+    ],
+    [
+      "AI clones teen girl’s voice in $1M kidnapping scam: ‘I’ve got your daughter’",
+      "https://nypost.com/2023/04/12/ai-clones-teen-girls-voice-in-1m-kidnapping-scam/"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 14:21:40",
       "https://news.ycombinator.com/item?id=35540154"
     ],
@@ -47,16 +87,6 @@
     [
       "Supabase Storage v3: Resumable Uploads with support for 50GB files",
       "https://supabase.com/blog/storage-v3-resumable-uploads"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 13:01:08",
-      "https://news.ycombinator.com/item?id=35538955"
-    ],
-    [
-      "Collection of LLM resources that can be used to build products you can “own”",
-      "https://github.com/imaurer/awesome-decentralized-llm"
     ]
   ],
   [
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2023-04-11, 21:42:07",
-      "https://news.ycombinator.com/item?id=35531989"
-    ],
-    [
-      "Deck.of.cards",
-      "https://deck.of.cards/old/"
-    ]
-  ],
-  [
-    [
       "2023-04-11, 16:16:24",
       "https://news.ycombinator.com/item?id=35527291"
     ],
     [
       "Pipe Inspection Robot [video]",
       "https://www.youtube.com/watch?v=M9GdrbxoIP4"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 08:26:44",
-      "https://news.ycombinator.com/item?id=35522378"
-    ],
-    [
-      "What are the most common tinnitus frequencies? (2015)",
-      "https://www.audionotch.com/blog/2015/06/24/what-are-the-most-common-tinnitus-frequencies/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Emergent abilities of large language models",
       "https://www.jasonwei.net/blog/emergence"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 12:27:07",
-      "https://news.ycombinator.com/item?id=35511473"
-    ],
-    [
-      "Roger Bacon",
-      "https://mathshistory.st-andrews.ac.uk/Biographies/Bacon/"
     ]
   ]
 ]
