@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 10:44:50](https://news.ycombinator.com/item?id=35537591) - [VS Code caught accessing the microphone in new update](https://imgur.com/a/2BpN0Pd)
 * [2023-04-12, 09:59:19](https://news.ycombinator.com/item?id=35537264) - [Ask HN: Is Software Getting Worse?](https://news.ycombinator.com/item?id=35537264)
 * [2023-04-12, 09:28:26](https://news.ycombinator.com/item?id=35537007) - [The Complete Guide to All the Taquerias of Redwood City, v2.0](http://www.emeraldlake.com/tacos/)
 * [2023-04-12, 08:52:42](https://news.ycombinator.com/item?id=35536735) - [Toyota plug-in hybrids to offer 124-mile electric-only range](https://www.autocar.co.uk/car-news/new-cars/toyota-plug-hybrids-offer-124-mile-electric-only-range)

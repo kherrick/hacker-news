@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-12, 10:44:50](https://news.ycombinator.com/item?id=35537591) - [VS Code caught accessing the microphone in new update](https://imgur.com/a/2BpN0Pd)
 * [2023-04-12, 09:59:19](https://news.ycombinator.com/item?id=35537264) - [Ask HN: Is Software Getting Worse?](https://news.ycombinator.com/item?id=35537264)
 * [2023-04-12, 09:28:26](https://news.ycombinator.com/item?id=35537007) - [The Complete Guide to All the Taquerias of Redwood City, v2.0](http://www.emeraldlake.com/tacos/)
-* [2023-04-12, 08:52:42](https://news.ycombinator.com/item?id=35536735) - [Toyota plug-in hybrids to offer 124-mile electric-only range](https://www.autocar.co.uk/car-news/new-cars/toyota-plug-hybrids-offer-124-mile-electric-only-range)
 * [2023-04-12, 08:33:11](https://news.ycombinator.com/item?id=35536612) - [New NASA Director Swears Oath on Carl Sagan’s ‘Pale Blue Dot’ Instead of Bible](https://www.independent.co.uk/space/nasa-director-carl-sagan-oath-b2317698.html)
 * [2023-04-12, 08:32:33](https://news.ycombinator.com/item?id=35536607) - [Show HN: Personalized book recommendations with Librarian AI](https://www.librarian-ai.com/)
 * [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
