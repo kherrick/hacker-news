@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 06:55:17](https://news.ycombinator.com/item?id=35535906) - [Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/)
 * [2023-04-12, 04:56:51](https://news.ycombinator.com/item?id=35535185) - [“This design choice was made by accounting and legal. Therefore, wontfix.”](https://bugs.chromium.org/p/chromium/issues/detail?id=347016#c52)
 * [2023-04-12, 04:55:29](https://news.ycombinator.com/item?id=35535174) - [Teacher failed kid for essay because an AI-detection tool flagged his work](https://twitter.com/failnaut/status/1645472836008411142)
 * [2023-04-12, 04:07:48](https://news.ycombinator.com/item?id=35534896) - [SF Whole Foods to Close Due to Increased Crime in Area](https://www.nationalreview.com/news/whole-foods-in-downtown-san-francisco-closes-due-to-spiraling-crime/)
