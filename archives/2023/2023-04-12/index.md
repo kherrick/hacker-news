@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 12:00:55](https://news.ycombinator.com/item?id=35538271) - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer (Analytics)](https://bitmovin.com/careers/6694763002/)
+* [2023-04-12, 11:52:11](https://news.ycombinator.com/item?id=35538192) - [ManyCam dishonored my lifetime license](https://www.amazingcto.com/beware-manycam-licensing-pricing/)
+* [2023-04-12, 11:36:06](https://news.ycombinator.com/item?id=35538030) - [Elizabeth Holmes loses bid to stay out of prison during appeal of sentence](https://www.abc.net.au/news/2023-04-12/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison/102211402)
 * [2023-04-12, 11:12:24](https://news.ycombinator.com/item?id=35537813) - [Mass Layoffs and Absentee Bosses Create a Morale Crisis at Meta](https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html)
 * [2023-04-12, 11:02:12](https://news.ycombinator.com/item?id=35537719) - [Why MD5(&#x27;240610708&#x27;) is equal to MD5(&#x27;QNKCDZO&#x27;)?](https://stackoverflow.com/a/22140266)
 * [2023-04-12, 10:44:50](https://news.ycombinator.com/item?id=35537591) - [VS Code caught accessing the microphone in new update](https://imgur.com/a/2BpN0Pd)
@@ -25,6 +28,7 @@
 * [2023-04-12, 07:46:37](https://news.ycombinator.com/item?id=35536250) - [Deduplicating a Slice in Go](https://boyter.org/posts/deduplicate-slice-go-sort-or-map/)
 * [2023-04-12, 07:37:39](https://news.ycombinator.com/item?id=35536202) - [Displaying My Washing Machine&#x27;s Remaining Time with Curl, Jq, and Pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
 * [2023-04-12, 07:29:23](https://news.ycombinator.com/item?id=35536141) - [Texas Officials Would Rather Close Library Than Stock Books They Don’t Like](https://www.vice.com/en/article/jg58x8/texas-officials-would-rather-close-library-than-stock-books-they-dont-like)
+* [2023-04-12, 07:15:42](https://news.ycombinator.com/item?id=35536042) - [Ask HN: What are some of the best university courses available online for free?](https://news.ycombinator.com/item?id=35536042)
 * [2023-04-12, 06:55:17](https://news.ycombinator.com/item?id=35535906) - [Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/)
 * [2023-04-12, 04:56:51](https://news.ycombinator.com/item?id=35535185) - [“This design choice was made by accounting and legal. Therefore, wontfix.”](https://bugs.chromium.org/p/chromium/issues/detail?id=347016#c52)
 * [2023-04-12, 04:55:29](https://news.ycombinator.com/item?id=35535174) - [Teacher failed kid for essay because an AI-detection tool flagged his work](https://twitter.com/failnaut/status/1645472836008411142)
