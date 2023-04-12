@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 04:07:48](https://news.ycombinator.com/item?id=35534896) - [SF Whole Foods to Close Due to Increased Crime in Area](https://www.nationalreview.com/news/whole-foods-in-downtown-san-francisco-closes-due-to-spiraling-crime/)
 * [2023-04-12, 02:43:17](https://news.ycombinator.com/item?id=35534418) - [Can We Make Bicycles Sustainable Again?](https://www.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html)
 * [2023-04-12, 02:20:49](https://news.ycombinator.com/item?id=35534290) - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
 * [2023-04-12, 02:08:16](https://news.ycombinator.com/item?id=35534211) - [Modular AI (Chris Lattner AI Startup)](https://www.modular.com/)
