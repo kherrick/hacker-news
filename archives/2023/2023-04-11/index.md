@@ -89,6 +89,7 @@
 * [2023-04-11, 06:50:02](https://news.ycombinator.com/item?id=35521704) - [We&#x27;re building a browser when it&#x27;s supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 * [2023-04-11, 06:34:54](https://news.ycombinator.com/item?id=35521598) - [Real-time quantum error correction beyond break-even](https://www.nature.com/articles/s41586-023-05782-6)
 * [2023-04-11, 06:11:13](https://news.ycombinator.com/item?id=35521436) - [Stop Telling Everyone What You Do for a Living](https://www.wsj.com/articles/stop-telling-everyone-what-you-do-for-a-living-5daa8fc9)
+* [2023-04-11, 05:55:34](https://news.ycombinator.com/item?id=35521351) - [Lispy vs. Pseudo-English Syntax (1984)](http://ml.cddddr.org/cl-iteration/msg00010.html)
 * [2023-04-11, 05:53:57](https://news.ycombinator.com/item?id=35521345) - [YouTube suspends a YouTuber&#x27;s Patreon-exclusive account for self-impersonation](https://twitter.com/craig1black/status/1645649300167495681)
 * [2023-04-11, 05:47:46](https://news.ycombinator.com/item?id=35521314) - [The Candy Wrapper Museum](https://www.smithsonianmag.com/travel/take-a-peek-inside-the-candy-wrapper-museum-180981957/)
 * [2023-04-11, 05:38:19](https://news.ycombinator.com/item?id=35521249) - [Bitcoin is the snake oil of our generation](https://ajit.dhiwal.com/bitcoin-is-the-snake-oil-of-our-generation-2544a1984ce9?gi=f32e7700b7e8)
