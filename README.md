@@ -15,7 +15,6 @@
 * [2023-04-12, 13:26:38](https://news.ycombinator.com/item?id=35539280) - [NPR quits Twitter after being labeled as &#x27;state-affiliated media&#x27;](https://www.wbur.org/npr/1169269161/npr-leaves-twitter-government-funded-media-label)
 * [2023-04-12, 13:09:49](https://news.ycombinator.com/item?id=35539057) - [Intel Foundry Services and Arm announce collaboration on SoC design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
 * [2023-04-12, 13:03:18](https://news.ycombinator.com/item?id=35538977) - [Supabase Storage v3: Resumable Uploads with support for 50GB files](https://supabase.com/blog/storage-v3-resumable-uploads)
-* [2023-04-12, 13:00:10](https://news.ycombinator.com/item?id=35538945) - [Terence Tao on GPT-4](https://mathstodon.xyz/@tao/110172426733603359)
 * [2023-04-12, 12:56:59](https://news.ycombinator.com/item?id=35538892) - [Even when we know they’re “fake,” placebos can tame our emotional distress](https://nautil.us/sugar-pill-nation-294292/)
 * [2023-04-12, 12:22:33](https://news.ycombinator.com/item?id=35538494) - [FBI is warning people against using public phone-charging stations](https://www.schneier.com/blog/archives/2023/04/fbi-advising-people-to-avoid-public-charging-stations.html)
 * [2023-04-12, 12:00:55](https://news.ycombinator.com/item?id=35538271) - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer (Analytics)](https://bitmovin.com/careers/6694763002/)
@@ -30,6 +29,7 @@
 * [2023-04-11, 05:49:28](https://news.ycombinator.com/item?id=35521327) - [Conversation with Larry Masinter about standardizing Common Lisp](https://irclog.tymoon.eu/libera/%23commonlisp?to=1681213754)
 * [2023-04-11, 04:04:02](https://news.ycombinator.com/item?id=35520681) - [Visual Attention](https://www.katsnyderux.com/post/visual-attention-in-virtual-reality)
 * [2023-04-10, 18:25:54](https://news.ycombinator.com/item?id=35515562) - [Emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
+* [2023-04-10, 12:27:07](https://news.ycombinator.com/item?id=35511473) - [Roger Bacon (1214 – 1292) – Biography (2003)](https://mathshistory.st-andrews.ac.uk/Biographies/Bacon/)
 
 ## [Archives](archives/index.md)
 
