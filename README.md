@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-12, 20:07:09](https://news.ycombinator.com/item?id=35545983) - [I’ve been single all my life](https://lukasrosenstock.net/2023/04/10/im-single-i.html)
+* [2023-04-12, 20:01:03](https://news.ycombinator.com/item?id=35545901) - [Discord Meme Group Is at the Center of Uproar over Leaked Military Secrets](https://www.nytimes.com/2023/04/11/business/discord-leaked-military-documents.html)
 * [2023-04-12, 19:54:22](https://news.ycombinator.com/item?id=35545809) - [Firefox rolls out Total Cookie Protection by default to more users worldwide](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
 * [2023-04-12, 19:39:16](https://news.ycombinator.com/item?id=35545566) - [Microsoft is slowly rolling out ads in the Windows 11 start menu](https://gizmodo.com/microsoft-windows-11-onedrive-notifications-start-menu-1850327990)
-* [2023-04-12, 19:34:40](https://news.ycombinator.com/item?id=35545487) - [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://arxiv.org/abs/2210.14154)
+* [2023-04-12, 19:34:40](https://news.ycombinator.com/item?id=35545487) - [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://phys.org/news/2023-04-sno-collaboration-evidence-antineutrinos-cherenkov.html)
 * [2023-04-12, 19:21:41](https://news.ycombinator.com/item?id=35545286) - [Google will shut down Dropcam and Nest Secure in 2024](https://www.theverge.com/2023/4/7/23673165/google-nest-dropcam-nest-secure-eol)
 * [2023-04-12, 19:00:54](https://news.ycombinator.com/item?id=35544964) - [Scaffolded LLMs as natural language computers](https://www.beren.io/2023-04-11-Scaffolded-LLMs-natural-language-computers/)
 * [2023-04-12, 18:53:11](https://news.ycombinator.com/item?id=35544851) - [Experimenting with LLMs to Research, Reflect, and Plan](https://eugeneyan.com/writing/llm-experiments/)
@@ -17,7 +19,6 @@
 * [2023-04-12, 13:38:10](https://news.ycombinator.com/item?id=35539447) - [Points on Cartooning (1937)](http://mikelynchcartoons.blogspot.com/2023/04/how-to-cartoon-book-points-on.html)
 * [2023-04-12, 13:09:49](https://news.ycombinator.com/item?id=35539057) - [Intel Foundry Services and Arm announce collaboration on SoC design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
 * [2023-04-12, 12:56:59](https://news.ycombinator.com/item?id=35538892) - [Even when we know they’re “fake,” placebos can tame our emotional distress](https://nautil.us/sugar-pill-nation-294292/)
-* [2023-04-12, 12:22:33](https://news.ycombinator.com/item?id=35538494) - [FBI is warning people against using public phone-charging stations](https://www.schneier.com/blog/archives/2023/04/fbi-advising-people-to-avoid-public-charging-stations.html)
 * [2023-04-12, 12:00:55](https://news.ycombinator.com/item?id=35538271) - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer (Analytics)](https://bitmovin.com/careers/6694763002/)
 * [2023-04-12, 11:12:24](https://news.ycombinator.com/item?id=35537813) - [Mass layoffs and absentee bosses create a morale crisis at Meta](https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html)
 * [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
@@ -28,7 +29,6 @@
 * [2023-04-11, 12:32:30](https://news.ycombinator.com/item?id=35524256) - [Show HN: Sheet Markup – add spreadsheets to a Markdown document](https://www.equalto.com/markup/)
 * [2023-04-11, 06:42:26](https://news.ycombinator.com/item?id=35521654) - [A man who walked around the world](https://www.theguardian.com/lifeandstyle/2023/apr/11/the-man-who-walked-around-the-world-tom-turcich-seven-year-search-meaning-of-life)
 * [2023-04-11, 05:49:28](https://news.ycombinator.com/item?id=35521327) - [Conversation with Larry Masinter about standardizing Common Lisp](https://irclog.tymoon.eu/libera/%23commonlisp?to=1681213754)
-* [2023-04-10, 18:25:54](https://news.ycombinator.com/item?id=35515562) - [Emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
 * [2023-04-10, 12:27:07](https://news.ycombinator.com/item?id=35511473) - [Roger Bacon (1214 – 1292) – Biography (2003)](https://mathshistory.st-andrews.ac.uk/Biographies/Bacon/)
 
 ## [Archives](archives/index.md)
