@@ -27,6 +27,7 @@
 * [2023-04-12, 18:08:15](https://news.ycombinator.com/item?id=35544110) - [AI Propaganda Will Be Effective and Easily Accessible](https://techpolicy.press/ai-propaganda-will-be-effective-and-easily-accessible/)
 * [2023-04-12, 18:02:02](https://news.ycombinator.com/item?id=35544015) - [A systematic critique of Bitcoin&#x27;s value proposition](http://blog.rongarret.info/2023/04/a-systematic-critique-of-bitcoins-value.html)
 * [2023-04-12, 18:00:09](https://news.ycombinator.com/item?id=35543973) - [Blank • Furbo.org](https://furbo.org/2023/04/12/announcing-blank/)
+* [2023-04-12, 17:56:14](https://news.ycombinator.com/item?id=35543893) - [The U.S. cracked a $3.4B crypto heist and Bitcoin’s anonymity](https://www.wsj.com/articles/bitcoin-blockchain-hacking-arrests-93a4cb29)
 * [2023-04-12, 17:50:08](https://news.ycombinator.com/item?id=35543774) - [Ask HN: I am a full stack developer, where do I start learning for AI](https://news.ycombinator.com/item?id=35543774)
 * [2023-04-12, 17:44:08](https://news.ycombinator.com/item?id=35543668) - [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
 * [2023-04-12, 17:27:33](https://news.ycombinator.com/item?id=35543402) - [Killing Sparrows Led to Great Famines in China](https://www.historydefined.net/how-killing-sparrows-led-to-one-of-the-greatest-famines-in-history/)
