@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-12, 13:09:49](https://news.ycombinator.com/item?id=35539057) - [Intel and Arm Announce Multigeneration Collaboration on Leading-Edge SoC Design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
+* [2023-04-12, 13:01:08](https://news.ycombinator.com/item?id=35538955) - [Awesome-decentralized-LLM: Collection of LLM resources that can be used to buil](https://github.com/imaurer/awesome-decentralized-llm)
 * [2023-04-12, 12:22:33](https://news.ycombinator.com/item?id=35538494) - [FBI Advising People to Avoid Public Charging Stations](https://www.schneier.com/blog/archives/2023/04/fbi-advising-people-to-avoid-public-charging-stations.html)
 * [2023-04-12, 12:21:13](https://news.ycombinator.com/item?id=35538477) - [Former Executives of Outcome Health Convicted in $1B Corporate Fraud Scheme – OP](https://www.justice.gov/opa/pr/former-executives-outcome-health-convicted-1b-corporate-fraud-scheme)
 * [2023-04-12, 12:00:55](https://news.ycombinator.com/item?id=35538271) - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer (Analytics)](https://bitmovin.com/careers/6694763002/)
 * [2023-04-12, 11:52:11](https://news.ycombinator.com/item?id=35538192) - [ManyCam dishonored my lifetime license](https://www.amazingcto.com/beware-manycam-licensing-pricing/)
 * [2023-04-12, 11:36:06](https://news.ycombinator.com/item?id=35538030) - [Elizabeth Holmes loses bid to stay out of prison during appeal of sentence](https://www.abc.net.au/news/2023-04-12/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison/102211402)
-* [2023-04-12, 11:12:24](https://news.ycombinator.com/item?id=35537813) - [Mass Layoffs and Absentee Bosses Create a Morale Crisis at Meta](https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html)
 * [2023-04-12, 09:28:26](https://news.ycombinator.com/item?id=35537007) - [The Complete Guide to All the Taquerias of Redwood City, v2.0 (2008)](http://www.emeraldlake.com/tacos/)
 * [2023-04-12, 09:15:04](https://news.ycombinator.com/item?id=35536890) - [The reality of being a Principal Engineer](https://leaddev.com/career-paths-progression-promotion/reality-being-principal-engineer)
 * [2023-04-12, 08:33:11](https://news.ycombinator.com/item?id=35536612) - [New NASA Director Swears Oath on Carl Sagan’s ‘Pale Blue Dot’ Instead of Bible](https://www.independent.co.uk/space/nasa-director-carl-sagan-oath-b2317698.html)
@@ -28,7 +29,6 @@
 * [2023-04-11, 06:41:54](https://news.ycombinator.com/item?id=35521650) - [Foundational Distributed Systems Papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 * [2023-04-11, 05:47:46](https://news.ycombinator.com/item?id=35521314) - [The Candy Wrapper Museum](https://www.smithsonianmag.com/travel/take-a-peek-inside-the-candy-wrapper-museum-180981957/)
 * [2023-04-11, 04:55:41](https://news.ycombinator.com/item?id=35521005) - [Energy-saving coating without pigment keeps the surface beneath cool](https://www.npr.org/2023/04/01/1166093778/scientists-create-an-eco-friendly-paint-that-mimics-nature)
-* [2023-04-11, 04:30:59](https://news.ycombinator.com/item?id=35520857) - [Roman architectural revolution](https://en.wikipedia.org/wiki/Roman_architectural_revolution)
 * [2023-04-10, 12:27:07](https://news.ycombinator.com/item?id=35511473) - [Roger Bacon](https://mathshistory.st-andrews.ac.uk/Biographies/Bacon/)
 
 ## [Archives](archives/index.md)

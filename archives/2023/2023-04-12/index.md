@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 13:09:49](https://news.ycombinator.com/item?id=35539057) - [Intel and Arm Announce Multigeneration Collaboration on Leading-Edge SoC Design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
+* [2023-04-12, 13:01:08](https://news.ycombinator.com/item?id=35538955) - [Awesome-decentralized-LLM: Collection of LLM resources that can be used to buil](https://github.com/imaurer/awesome-decentralized-llm)
 * [2023-04-12, 12:22:33](https://news.ycombinator.com/item?id=35538494) - [FBI Advising People to Avoid Public Charging Stations](https://www.schneier.com/blog/archives/2023/04/fbi-advising-people-to-avoid-public-charging-stations.html)
 * [2023-04-12, 12:21:13](https://news.ycombinator.com/item?id=35538477) - [Former Executives of Outcome Health Convicted in $1B Corporate Fraud Scheme – OP](https://www.justice.gov/opa/pr/former-executives-outcome-health-convicted-1b-corporate-fraud-scheme)
 * [2023-04-12, 12:00:55](https://news.ycombinator.com/item?id=35538271) - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer (Analytics)](https://bitmovin.com/careers/6694763002/)
