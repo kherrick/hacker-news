@@ -75,6 +75,7 @@
 * [2023-04-11, 09:13:50](https://news.ycombinator.com/item?id=35522642) - [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim)
 * [2023-04-11, 08:54:28](https://news.ycombinator.com/item?id=35522545) - [Ellie – A Mastodon Client for Windows](https://ellie.software/)
 * [2023-04-11, 08:47:54](https://news.ycombinator.com/item?id=35522509) - [Vestas hails breakthrough for recyclable wind turbines](https://www.energymonitor.ai/tech/renewables/vestas-hails-breakthrough-for-recycling-wind-turbine-blades/)
+* [2023-04-11, 08:36:57](https://news.ycombinator.com/item?id=35522447) - [Everything you need to know about HTTP](https://cs.fyi/guide/http-in-depth)
 * [2023-04-11, 08:26:44](https://news.ycombinator.com/item?id=35522378) - [What are the most common tinnitus frequencies? (2015)](https://www.audionotch.com/blog/2015/06/24/what-are-the-most-common-tinnitus-frequencies/)
 * [2023-04-11, 07:45:29](https://news.ycombinator.com/item?id=35522080) - [Maximizing the Potential of LLMs: A Guide to Prompt Engineering](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)
 * [2023-04-11, 07:45:07](https://news.ycombinator.com/item?id=35522076) - [Becoming Rustacean:Awesome Free Online Resources to Learn Rust Programming](https://www.nativebyx.dev/rust/becoming-rustacean/awesome-free-online-resources-to-earn-rust-programming-language.html)
