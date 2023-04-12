@@ -20,7 +20,7 @@
 * [2023-04-11, 13:10:06](https://news.ycombinator.com/item?id=35524611) - [Open source and the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
 * [2023-04-11, 12:45:49](https://news.ycombinator.com/item?id=35524387) - [An Open Source Book That Teaches JavaScript](https://github.com/sumn2u/learn-javascript)
 * [2023-04-11, 12:40:49](https://news.ycombinator.com/item?id=35524328) - [Show HN: Skip the SSO Tax, access your user data with OSS](https://github.com/AccessOwl/open_owl)
-* [2023-04-11, 12:12:09](https://news.ycombinator.com/item?id=35524023) - [KDE Plasma Widget for external monitor brightness adjustment](https://github.com/davidhi7/ddcci-plasmoid)
+* [2023-04-11, 12:39:34](https://news.ycombinator.com/item?id=35524314) - [The Beauty of Pulse Arc Welding](https://www.hermansilver.com/pulse-arc-welding.htm)
 * [2023-04-11, 08:26:44](https://news.ycombinator.com/item?id=35522378) - [What are the most common tinnitus frequencies? (2015)](https://www.audionotch.com/blog/2015/06/24/what-are-the-most-common-tinnitus-frequencies/)
 * [2023-04-11, 07:24:27](https://news.ycombinator.com/item?id=35521925) - [Sega 3-D Glasses: How did they work?](https://nicole.express/2023/the-third-dimension-and-the-eight-bits.html)
 * [2023-04-11, 05:36:18](https://news.ycombinator.com/item?id=35521235) - [Searching for the Spirit of the Midwest](https://newrepublic.com/article/170700/searching-spirit-midwest-lauck-good-country-review)
