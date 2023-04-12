@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-12, 02:08:16](https://news.ycombinator.com/item?id=35534211) - [Modular AI (Chris Lattner AI Startup)](https://www.modular.com/)
 * [2023-04-12, 00:48:15](https://news.ycombinator.com/item?id=35533711) - [Eve Online player uses obscure rule to pull off biggest heist in game history](https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/)
 * [2023-04-12, 00:27:03](https://news.ycombinator.com/item?id=35533564) - [From Oversight to Overkill](https://astralcodexten.substack.com/p/book-review-from-oversight-to-overkill)
 * [2023-04-12, 00:11:33](https://news.ycombinator.com/item?id=35533463) - [Distillation of 20 Management and Leadership Books and Resources](https://tuckerconnelly.com/management-leadership)
@@ -7,7 +8,6 @@
 * [2023-04-11, 22:25:45](https://news.ycombinator.com/item?id=35532479) - [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
 * [2023-04-11, 21:42:07](https://news.ycombinator.com/item?id=35531989) - [Deck.of.cards](https://deck.of.cards/old/)
 * [2023-04-11, 21:00:49](https://news.ycombinator.com/item?id=35531494) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
-* [2023-04-11, 19:49:21](https://news.ycombinator.com/item?id=35530513) - [Show HN: Semantic Search on AWS Docs](https://github.com/aws-samples/semantic-search-aws-docs)
 * [2023-04-11, 19:40:30](https://news.ycombinator.com/item?id=35530372) - [WordGrinder: Terminal-based distraction free word processor](https://github.com/davidgiven/wordgrinder)
 * [2023-04-11, 19:37:27](https://news.ycombinator.com/item?id=35530318) - [Car alarms and smoke alarms: the tradeoff between sensitivity and specificity](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
 * [2023-04-11, 19:35:44](https://news.ycombinator.com/item?id=35530289) - [Htmx 1.9.0 has been released](https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/)
