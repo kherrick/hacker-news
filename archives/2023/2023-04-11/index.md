@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
 * [2023-04-11, 23:37:09](https://news.ycombinator.com/item?id=35533200) - [Solaris by Stanislaw Lem on BBC 4 Radio Full-Cast Drama (2007)](https://www.youtube.com/watch?v=oe8lRAIunxs)
+* [2023-04-11, 23:09:42](https://news.ycombinator.com/item?id=35532956) - [GPT-4 Outperforms Elite Crowdworkers, Saving Researchers $500k and 20k hours](https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20)
 * [2023-04-11, 23:05:59](https://news.ycombinator.com/item?id=35532919) - [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)
 * [2023-04-11, 22:25:45](https://news.ycombinator.com/item?id=35532479) - [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
 * [2023-04-11, 22:24:12](https://news.ycombinator.com/item?id=35532458) - [Bay Area couple shocked by $200K hospital bill for rabies shots](https://abc7news.com/rabies-shot-hospital-bill-vacaville-ca-couple-northbay-healthcare-vacavalley/12788545/)
@@ -85,6 +86,7 @@
 * [2023-04-11, 06:11:13](https://news.ycombinator.com/item?id=35521436) - [Stop Telling Everyone What You Do for a Living](https://www.wsj.com/articles/stop-telling-everyone-what-you-do-for-a-living-5daa8fc9)
 * [2023-04-11, 05:53:57](https://news.ycombinator.com/item?id=35521345) - [YouTube suspends a YouTuber&#x27;s Patreon-exclusive account for self-impersonation](https://twitter.com/craig1black/status/1645649300167495681)
 * [2023-04-11, 05:38:19](https://news.ycombinator.com/item?id=35521249) - [Bitcoin is the snake oil of our generation](https://ajit.dhiwal.com/bitcoin-is-the-snake-oil-of-our-generation-2544a1984ce9?gi=f32e7700b7e8)
+* [2023-04-11, 05:36:18](https://news.ycombinator.com/item?id=35521235) - [Searching for the Spirit of the Midwest](https://newrepublic.com/article/170700/searching-spirit-midwest-lauck-good-country-review)
 * [2023-04-11, 05:07:43](https://news.ycombinator.com/item?id=35521087) - [Dependently Typing R Vectors, Arrays, and Matrices](https://arxiv.org/abs/2304.04265)
 * [2023-04-11, 04:30:59](https://news.ycombinator.com/item?id=35520857) - [Roman Architectural Revolution](https://en.wikipedia.org/wiki/Roman_architectural_revolution)
 * [2023-04-11, 04:23:45](https://news.ycombinator.com/item?id=35520806) - [AlphaFold predicts impact of single mutations on protein stability and function](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282689)
