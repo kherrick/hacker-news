@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-12, 16:27:08](https://news.ycombinator.com/item?id=35542307) - [OpenAI releases Consistency Model for one-step generation](https://github.com/openai/consistency_models)
 * [2023-04-12, 16:03:41](https://news.ycombinator.com/item?id=35541942) - [U.S. proposes 56% vehicle emissions cut by 2032, requiring big EV jump](https://www.reuters.com/business/environment/us-proposes-56-vehicle-emissions-cut-by-2032-requiring-big-ev-jump-2023-04-12/)
 * [2023-04-12, 15:59:02](https://news.ycombinator.com/item?id=35541861) - [Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs](https://github.com/databrickslabs/dolly/tree/master/data)
 * [2023-04-12, 15:29:11](https://news.ycombinator.com/item?id=35541409) - [AI clones teen girl’s voice in $1M kidnapping scam: ‘I’ve got your daughter’](https://nypost.com/2023/04/12/ai-clones-teen-girls-voice-in-1m-kidnapping-scam/)
@@ -21,7 +22,6 @@
 * [2023-04-12, 08:32:33](https://news.ycombinator.com/item?id=35536607) - [Show HN: Personalized book recommendations with Librarian AI](https://www.librarian-ai.com/)
 * [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
 * [2023-04-12, 08:16:46](https://news.ycombinator.com/item?id=35536478) - [Archimedes Palimpsest](https://en.wikipedia.org/wiki/Archimedes_Palimpsest)
-* [2023-04-12, 08:09:15](https://news.ycombinator.com/item?id=35536399) - [ELF hash function may overflow](https://maskray.me/blog/2023-04-12-elf-hash-function)
 * [2023-04-12, 07:37:39](https://news.ycombinator.com/item?id=35536202) - [Displaying My Washing Machine&#x27;s Remaining Time with Curl, Jq, and Pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
 * [2023-04-12, 01:48:26](https://news.ycombinator.com/item?id=35534069) - [Bookshop.org survives and thrives in Amazon’s world](https://www.wired.com/story/books-bookshop-org-thrives-amazon-world/)
 * [2023-04-11, 16:16:24](https://news.ycombinator.com/item?id=35527291) - [Pipe Inspection Robot [video]](https://www.youtube.com/watch?v=M9GdrbxoIP4)
