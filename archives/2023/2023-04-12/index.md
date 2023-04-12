@@ -19,6 +19,7 @@
 * [2023-04-12, 19:14:21](https://news.ycombinator.com/item?id=35545163) - [Arkansas House wants you to show ID to use social media](https://arktimes.com/arkansas-blog/2023/04/05/arkansas-house-wants-you-to-show-id-to-use-social-media)
 * [2023-04-12, 19:00:54](https://news.ycombinator.com/item?id=35544964) - [Scaffolded LLMs as natural language computers](https://www.beren.io/2023-04-11-Scaffolded-LLMs-natural-language-computers/)
 * [2023-04-12, 18:53:11](https://news.ycombinator.com/item?id=35544851) - [Experimenting with LLMs to Research, Reflect, and Plan](https://eugeneyan.com/writing/llm-experiments/)
+* [2023-04-12, 18:45:27](https://news.ycombinator.com/item?id=35544722) - [Teaching Hopelessness to Kids of Color](https://freeblackthought.substack.com/p/teaching-hopelessness-to-kids-of)
 * [2023-04-12, 18:08:15](https://news.ycombinator.com/item?id=35544110) - [AI Propaganda Will Be Effective and Easily Accessible](https://techpolicy.press/ai-propaganda-will-be-effective-and-easily-accessible/)
 * [2023-04-12, 18:02:02](https://news.ycombinator.com/item?id=35544015) - [A systematic critique of Bitcoin&#x27;s value proposition](http://blog.rongarret.info/2023/04/a-systematic-critique-of-bitcoins-value.html)
 * [2023-04-12, 18:00:09](https://news.ycombinator.com/item?id=35543973) - [Blank • Furbo.org](https://furbo.org/2023/04/12/announcing-blank/)
