@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-12, 22:22:00](https://news.ycombinator.com/item?id=35547847) - [Bad News About Inflation](https://paulromer.net/bad-news-about-inflation/)
 * [2023-04-12, 21:48:00](https://news.ycombinator.com/item?id=35547467) - [DeepSpeed Chat: Easy, fast and affordable RLHF training of ChatGPT-like models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
 * [2023-04-12, 21:35:48](https://news.ycombinator.com/item?id=35547316) - [Use io_uring for network I&#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
 * [2023-04-12, 21:01:31](https://news.ycombinator.com/item?id=35546845) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
@@ -22,7 +23,6 @@
 * [2023-04-12, 12:56:59](https://news.ycombinator.com/item?id=35538892) - [Even when we know they’re “fake,” placebos can tame our emotional distress](https://nautil.us/sugar-pill-nation-294292/)
 * [2023-04-12, 11:12:24](https://news.ycombinator.com/item?id=35537813) - [Mass layoffs and absentee bosses create a morale crisis at Meta](https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html)
 * [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
-* [2023-04-12, 07:37:39](https://news.ycombinator.com/item?id=35536202) - [Displaying My Washing Machine&#x27;s Remaining Time with Curl, Jq, and Pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
 * [2023-04-12, 05:33:09](https://news.ycombinator.com/item?id=35535407) - [List of Citogenesis Incidents](https://en.wikipedia.org/wiki/Wikipedia:List_of_citogenesis_incidents)
 * [2023-04-12, 04:54:36](https://news.ycombinator.com/item?id=35535169) - [19th-century silhouettes in newly digitized collection](https://www.smithsonianmag.com/smithsonian-institution/find-out-if-your-ancestor-is-among-these-19th-century-silhouettes-in-this-newly-digitized-collection-180981947/)
 * [2023-04-11, 17:55:18](https://news.ycombinator.com/item?id=35528692) - [Steve Roberts: Computing Across America](https://bikepacking.com/plog/steve-roberts-computing-across-america/)
