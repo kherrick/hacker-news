@@ -9,6 +9,7 @@
 * [2023-04-12, 15:52:16](https://news.ycombinator.com/item?id=35541772) - [Yes, it&#x27;s OK to be mad about crime in San Francisco](https://noahpinion.substack.com/p/yes-its-ok-to-be-mad-about-crime)
 * [2023-04-12, 15:29:11](https://news.ycombinator.com/item?id=35541409) - [AI clones teen girl’s voice in $1M kidnapping scam: ‘I’ve got your daughter’](https://nypost.com/2023/04/12/ai-clones-teen-girls-voice-in-1m-kidnapping-scam/)
 * [2023-04-12, 14:33:32](https://news.ycombinator.com/item?id=35540388) - [A persistent EV challenge looms over NY Auto Show: Charging](https://www.canarymedia.com/articles/electric-vehicles/a-persistent-ev-challenge-looms-over-ny-auto-show-charging)
+* [2023-04-12, 14:27:31](https://news.ycombinator.com/item?id=35540273) - [Show HN: I recreated a flying toasters screensaver for XScreensaver](https://github.com/torunar/flying-toasters-xscreensaver)
 * [2023-04-12, 14:21:40](https://news.ycombinator.com/item?id=35540154) - [Replacing my best friends with an LLM trained on 500k group chat messages](https://www.izzy.co/blogs/robo-boys.html)
 * [2023-04-12, 14:17:46](https://news.ycombinator.com/item?id=35540084) - [Hetzner Introduces ARM64 Cloud Servers](https://www.hetzner.com/press-release/arm64-cloud/)
 * [2023-04-12, 14:05:37](https://news.ycombinator.com/item?id=35539859) - [Questionable $2,500 hoodie makes you look like you were plucked out of Minecraft](https://arstechnica.com/gadgets/2023/04/questionable-2500-hoodie-makes-you-look-like-you-were-plucked-out-of-minecraft/)

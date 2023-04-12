@@ -2,8 +2,8 @@
 
 * [2023-04-12, 16:03:41](https://news.ycombinator.com/item?id=35541942) - [U.S. proposes 56% vehicle emissions cut by 2032, requiring big EV jump](https://www.reuters.com/business/environment/us-proposes-56-vehicle-emissions-cut-by-2032-requiring-big-ev-jump-2023-04-12/)
 * [2023-04-12, 15:59:02](https://news.ycombinator.com/item?id=35541861) - [Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs](https://github.com/databrickslabs/dolly/tree/master/data)
-* [2023-04-12, 15:52:16](https://news.ycombinator.com/item?id=35541772) - [Yes, it&#x27;s OK to be mad about crime in San Francisco](https://noahpinion.substack.com/p/yes-its-ok-to-be-mad-about-crime)
 * [2023-04-12, 15:29:11](https://news.ycombinator.com/item?id=35541409) - [AI clones teen girl’s voice in $1M kidnapping scam: ‘I’ve got your daughter’](https://nypost.com/2023/04/12/ai-clones-teen-girls-voice-in-1m-kidnapping-scam/)
+* [2023-04-12, 14:27:31](https://news.ycombinator.com/item?id=35540273) - [Show HN: I recreated a flying toasters screensaver for XScreensaver](https://github.com/torunar/flying-toasters-xscreensaver)
 * [2023-04-12, 14:21:40](https://news.ycombinator.com/item?id=35540154) - [Replacing my best friends with an LLM trained on 500k group chat messages](https://www.izzy.co/blogs/robo-boys.html)
 * [2023-04-12, 14:17:46](https://news.ycombinator.com/item?id=35540084) - [Hetzner Introduces ARM64 Cloud Servers](https://www.hetzner.com/press-release/arm64-cloud/)
 * [2023-04-12, 13:38:10](https://news.ycombinator.com/item?id=35539447) - [Points on Cartooning by George Carlson (1937)](http://mikelynchcartoons.blogspot.com/2023/04/how-to-cartoon-book-points-on.html)
