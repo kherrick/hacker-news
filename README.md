@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-12, 20:29:08](https://news.ycombinator.com/item?id=35546341) - [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
+* [2023-04-12, 20:15:41](https://news.ycombinator.com/item?id=35546133) - [People Are Sick and Tired of All Their Subscriptions](https://www.wsj.com/articles/people-are-sick-and-tired-of-all-their-subscriptions-cbee7e03)
 * [2023-04-12, 20:07:09](https://news.ycombinator.com/item?id=35545983) - [I’ve been single all my life](https://lukasrosenstock.net/2023/04/10/im-single-i.html)
 * [2023-04-12, 20:01:03](https://news.ycombinator.com/item?id=35545901) - [Discord Meme Group Is at the Center of Uproar over Leaked Military Secrets](https://www.nytimes.com/2023/04/11/business/discord-leaked-military-documents.html)
 * [2023-04-12, 19:54:43](https://news.ycombinator.com/item?id=35545817) - [On a Great Interview Question](https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942)
 * [2023-04-12, 19:54:22](https://news.ycombinator.com/item?id=35545809) - [Firefox rolls out Total Cookie Protection by default to more users worldwide](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
-* [2023-04-12, 19:39:16](https://news.ycombinator.com/item?id=35545566) - [Microsoft is slowly rolling out ads in the Windows 11 start menu](https://gizmodo.com/microsoft-windows-11-onedrive-notifications-start-menu-1850327990)
 * [2023-04-12, 19:34:40](https://news.ycombinator.com/item?id=35545487) - [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://phys.org/news/2023-04-sno-collaboration-evidence-antineutrinos-cherenkov.html)
 * [2023-04-12, 19:21:41](https://news.ycombinator.com/item?id=35545286) - [Google will shut down Dropcam and Nest Secure in 2024](https://www.theverge.com/2023/4/7/23673165/google-nest-dropcam-nest-secure-eol)
 * [2023-04-12, 19:00:54](https://news.ycombinator.com/item?id=35544964) - [Scaffolded LLMs as natural language computers](https://www.beren.io/2023-04-11-Scaffolded-LLMs-natural-language-computers/)
@@ -24,12 +24,12 @@
 * [2023-04-12, 11:12:24](https://news.ycombinator.com/item?id=35537813) - [Mass layoffs and absentee bosses create a morale crisis at Meta](https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html)
 * [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
 * [2023-04-12, 07:37:39](https://news.ycombinator.com/item?id=35536202) - [Displaying My Washing Machine&#x27;s Remaining Time with Curl, Jq, and Pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
+* [2023-04-12, 05:33:09](https://news.ycombinator.com/item?id=35535407) - [Wikipedia: List of Citogenesis Incidents](https://en.wikipedia.org/wiki/Wikipedia:List_of_citogenesis_incidents)
 * [2023-04-11, 17:55:18](https://news.ycombinator.com/item?id=35528692) - [Steve Roberts: Computing Across America](https://bikepacking.com/plog/steve-roberts-computing-across-america/)
 * [2023-04-11, 16:29:55](https://news.ycombinator.com/item?id=35527471) - [Should you post that you’re OpenToWork? A tale of two labor markets](https://interviewing.io/blog/whos-open-to-work-a-tale-of-two-labor-markets)
 * [2023-04-11, 16:16:24](https://news.ycombinator.com/item?id=35527291) - [Pipe Inspection Robot [video]](https://www.youtube.com/watch?v=M9GdrbxoIP4)
 * [2023-04-11, 06:42:26](https://news.ycombinator.com/item?id=35521654) - [A man who walked around the world](https://www.theguardian.com/lifeandstyle/2023/apr/11/the-man-who-walked-around-the-world-tom-turcich-seven-year-search-meaning-of-life)
 * [2023-04-11, 05:49:28](https://news.ycombinator.com/item?id=35521327) - [Conversation with Larry Masinter about standardizing Common Lisp](https://irclog.tymoon.eu/libera/%23commonlisp?to=1681213754)
-* [2023-04-10, 12:27:07](https://news.ycombinator.com/item?id=35511473) - [Roger Bacon (1214 – 1292) – Biography (2003)](https://mathshistory.st-andrews.ac.uk/Biographies/Bacon/)
 
 ## [Archives](archives/index.md)
 

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
 * [2023-04-12, 20:29:08](https://news.ycombinator.com/item?id=35546341) - [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
+* [2023-04-12, 20:15:41](https://news.ycombinator.com/item?id=35546133) - [People Are Sick and Tired of All Their Subscriptions](https://www.wsj.com/articles/people-are-sick-and-tired-of-all-their-subscriptions-cbee7e03)
 * [2023-04-12, 20:07:09](https://news.ycombinator.com/item?id=35545983) - [I’ve been single all my life](https://lukasrosenstock.net/2023/04/10/im-single-i.html)
 * [2023-04-12, 20:01:03](https://news.ycombinator.com/item?id=35545901) - [Discord Meme Group Is at the Center of Uproar over Leaked Military Secrets](https://www.nytimes.com/2023/04/11/business/discord-leaked-military-documents.html)
 * [2023-04-12, 19:54:43](https://news.ycombinator.com/item?id=35545817) - [On a Great Interview Question](https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942)
@@ -74,6 +75,7 @@
 * [2023-04-12, 07:29:23](https://news.ycombinator.com/item?id=35536141) - [Texas Officials Would Rather Close Library Than Stock Books They Don’t Like](https://www.vice.com/en/article/jg58x8/texas-officials-would-rather-close-library-than-stock-books-they-dont-like)
 * [2023-04-12, 07:15:42](https://news.ycombinator.com/item?id=35536042) - [Ask HN: What are some of the best university courses available online for free?](https://news.ycombinator.com/item?id=35536042)
 * [2023-04-12, 06:55:17](https://news.ycombinator.com/item?id=35535906) - [Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/)
+* [2023-04-12, 05:33:09](https://news.ycombinator.com/item?id=35535407) - [Wikipedia: List of Citogenesis Incidents](https://en.wikipedia.org/wiki/Wikipedia:List_of_citogenesis_incidents)
 * [2023-04-12, 04:56:51](https://news.ycombinator.com/item?id=35535185) - [“This design choice was made by accounting and legal. Therefore, wontfix.”](https://bugs.chromium.org/p/chromium/issues/detail?id=347016#c52)
 * [2023-04-12, 04:55:29](https://news.ycombinator.com/item?id=35535174) - [Teacher failed kid for essay because an AI-detection tool flagged his work](https://twitter.com/failnaut/status/1645472836008411142)
 * [2023-04-12, 04:07:48](https://news.ycombinator.com/item?id=35534896) - [SF Whole Foods to Close Due to Increased Crime in Area](https://www.nationalreview.com/news/whole-foods-in-downtown-san-francisco-closes-due-to-spiraling-crime/)
