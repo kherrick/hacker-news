@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-04-12, 02:43:17",
-      "https://news.ycombinator.com/item?id=35534418"
+      "2023-04-12, 04:56:51",
+      "https://news.ycombinator.com/item?id=35535185"
     ],
     [
-      "Can we make bicycles sustainable again?",
-      "https://www.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html"
+      "“This design choice was made by accounting and legal. Therefore, wontfix.”",
+      "https://bugs.chromium.org/p/chromium/issues/detail?id=347016#c52"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Microsoft to change PrintScreen button to open the Snipping Tool in Windows 11",
       "https://www.techspot.com/news/98269-microsoft-set-change-print-screen-button-opens-snipping.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 02:20:49",
+      "https://news.ycombinator.com/item?id=35534290"
+    ],
+    [
+      "Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha",
+      "https://simonwillison.net/2023/Apr/12/code-interpreter/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2023-04-11, 13:57:45",
-      "https://news.ycombinator.com/item?id=35525222"
-    ],
-    [
-      "Supabase Edge Runtime: Self-Hosted Deno Functions",
-      "https://supabase.com/blog/edge-runtime-self-hosted-deno-functions"
-    ]
-  ],
-  [
-    [
       "2023-04-11, 12:07:57",
       "https://news.ycombinator.com/item?id=35523969"
     ],
@@ -237,16 +237,6 @@
     [
       "Everything you need to know about HTTP",
       "https://cs.fyi/guide/http-in-depth"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 08:26:44",
-      "https://news.ycombinator.com/item?id=35522378"
-    ],
-    [
-      "What are the most common tinnitus frequencies? (2015)",
-      "https://www.audionotch.com/blog/2015/06/24/what-are-the-most-common-tinnitus-frequencies/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Fraktur Folk Art (ca. 1750–1820)",
       "https://publicdomainreview.org/collection/fraktur-folk-art"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 04:30:59",
+      "https://news.ycombinator.com/item?id=35520857"
+    ],
+    [
+      "Roman architectural revolution",
+      "https://en.wikipedia.org/wiki/Roman_architectural_revolution"
     ]
   ],
   [
