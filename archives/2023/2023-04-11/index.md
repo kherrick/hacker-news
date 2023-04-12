@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 23:37:09](https://news.ycombinator.com/item?id=35533200) - [Solaris by Stanislaw Lem on BBC 4 Radio Full-Cast Drama (2007)](https://www.youtube.com/watch?v=oe8lRAIunxs)
+* [2023-04-11, 23:05:59](https://news.ycombinator.com/item?id=35532919) - [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)
 * [2023-04-11, 22:25:45](https://news.ycombinator.com/item?id=35532479) - [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
 * [2023-04-11, 22:24:12](https://news.ycombinator.com/item?id=35532458) - [Bay Area couple shocked by $200K hospital bill for rabies shots](https://abc7news.com/rabies-shot-hospital-bill-vacaville-ca-couple-northbay-healthcare-vacavalley/12788545/)
 * [2023-04-11, 21:42:07](https://news.ycombinator.com/item?id=35531989) - [Deck.of.cards](https://deck.of.cards/old/)
@@ -72,6 +74,7 @@
 * [2023-04-11, 09:13:50](https://news.ycombinator.com/item?id=35522642) - [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim)
 * [2023-04-11, 08:54:28](https://news.ycombinator.com/item?id=35522545) - [Ellie – A Mastodon Client for Windows](https://ellie.software/)
 * [2023-04-11, 08:47:54](https://news.ycombinator.com/item?id=35522509) - [Vestas hails breakthrough for recyclable wind turbines](https://www.energymonitor.ai/tech/renewables/vestas-hails-breakthrough-for-recycling-wind-turbine-blades/)
+* [2023-04-11, 08:26:44](https://news.ycombinator.com/item?id=35522378) - [What are the most common tinnitus frequencies? (2015)](https://www.audionotch.com/blog/2015/06/24/what-are-the-most-common-tinnitus-frequencies/)
 * [2023-04-11, 07:45:29](https://news.ycombinator.com/item?id=35522080) - [Maximizing the Potential of LLMs: A Guide to Prompt Engineering](https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/)
 * [2023-04-11, 07:45:07](https://news.ycombinator.com/item?id=35522076) - [Becoming Rustacean:Awesome Free Online Resources to Learn Rust Programming](https://www.nativebyx.dev/rust/becoming-rustacean/awesome-free-online-resources-to-earn-rust-programming-language.html)
 * [2023-04-11, 07:24:27](https://news.ycombinator.com/item?id=35521925) - [Sega 3-D Glasses: How did they work?](https://nicole.express/2023/the-third-dimension-and-the-eight-bits.html)
