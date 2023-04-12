@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-12, 04:56:51](https://news.ycombinator.com/item?id=35535185) - [“This design choice was made by accounting and legal. Therefore, wontfix.”](https://bugs.chromium.org/p/chromium/issues/detail?id=347016#c52)
+* [2023-04-12, 04:56:51](https://news.ycombinator.com/item?id=35535185) - [“Design choice was made by accounting and legal. Therefore, won’t fix” (2020)](https://bugs.chromium.org/p/chromium/issues/detail?id=347016#c52)
 * [2023-04-12, 02:41:59](https://news.ycombinator.com/item?id=35534409) - [Microsoft to change PrintScreen button to open the Snipping Tool in Windows 11](https://www.techspot.com/news/98269-microsoft-set-change-print-screen-button-opens-snipping.html)
 * [2023-04-12, 02:20:49](https://news.ycombinator.com/item?id=35534290) - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
 * [2023-04-12, 02:11:42](https://news.ycombinator.com/item?id=35534235) - [Blue Sky: Can Twitter be owned by its users?](https://blog.paulbohm.com/p/blue-sky-farcaster-substack-notes)
@@ -14,7 +14,7 @@
 * [2023-04-11, 21:42:07](https://news.ycombinator.com/item?id=35531989) - [Deck.of.cards](https://deck.of.cards/old/)
 * [2023-04-11, 21:00:49](https://news.ycombinator.com/item?id=35531494) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
 * [2023-04-11, 19:40:30](https://news.ycombinator.com/item?id=35530372) - [WordGrinder: Terminal-based distraction free word processor](https://github.com/davidgiven/wordgrinder)
-* [2023-04-11, 19:37:27](https://news.ycombinator.com/item?id=35530318) - [Car alarms and smoke alarms: the tradeoff between sensitivity and specificity](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
+* [2023-04-11, 19:37:27](https://news.ycombinator.com/item?id=35530318) - [Car alarms and smoke alarms: tradeoff between sensitivity and specificity (2012)](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
 * [2023-04-11, 19:35:44](https://news.ycombinator.com/item?id=35530289) - [Htmx 1.9.0 has been released](https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/)
 * [2023-04-11, 18:11:00](https://news.ycombinator.com/item?id=35528898) - [A Cryptographic Near Miss](https://words.filippo.io/dispatches/near-miss/)
 * [2023-04-11, 16:57:30](https://news.ycombinator.com/item?id=35527873) - [The Best Pens for 2023: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-42-Best-Pens-for-2023-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
