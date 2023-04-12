@@ -97,6 +97,7 @@
 * [2023-04-11, 03:17:38](https://news.ycombinator.com/item?id=35520338) - [FTC fines supplement maker $600k for &#x27;review hijacking&#x27; Amazon listings](https://www.engadget.com/ftc-fines-supplement-maker-600000-for-review-hijacking-amazon-listings-210142185.html)
 * [2023-04-11, 03:03:00](https://news.ycombinator.com/item?id=35520236) - [Stanford&#x27;s Groundbreaking AI Study Simulates Authentic Human Behavior](https://www.artisana.ai/articles/generative-agents-stanfords-groundbreaking-ai-study-simulates-authentic)
 * [2023-04-11, 02:54:32](https://news.ycombinator.com/item?id=35520178) - [Downtown San Francisco Whole Foods Closing a Year After Opening](https://sfstandard.com/business/downtown-san-francisco-whole-foods-market-closing/)
+* [2023-04-11, 02:53:43](https://news.ycombinator.com/item?id=35520174) - [Social License](https://theengineeringcommons.com/episode-60-social-license/)
 * [2023-04-11, 02:35:07](https://news.ycombinator.com/item?id=35520059) - [Relational Operators in Apache Calcite](https://www.querifylabs.com/blog/relational-operators-in-apache-calcite)
 * [2023-04-11, 02:33:03](https://news.ycombinator.com/item?id=35520044) - [The end of a myth: Distributed transactions can scale](http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html)
 * [2023-04-11, 01:48:56](https://news.ycombinator.com/item?id=35519706) - [Sponsor the open source projects you depend on](https://thanks.dev/home)
