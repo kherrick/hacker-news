@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 19:54:22](https://news.ycombinator.com/item?id=35545809) - [Firefox rolls out Total Cookie Protection by default to more users worldwide](https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
 * [2023-04-12, 19:39:16](https://news.ycombinator.com/item?id=35545566) - [Microsoft Is Slowly Rolling Out Ads in the Windows 11 Start Menu](https://gizmodo.com/microsoft-windows-11-onedrive-notifications-start-menu-1850327990)
 * [2023-04-12, 19:34:40](https://news.ycombinator.com/item?id=35545487) - [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://arxiv.org/abs/2210.14154)
 * [2023-04-12, 19:27:16](https://news.ycombinator.com/item?id=35545384) - [JavaScript Object Notation (JSON) Pointer](https://www.rfc-editor.org/rfc/rfc6901)
