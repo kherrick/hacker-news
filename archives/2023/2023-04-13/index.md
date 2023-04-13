@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 04:02:39](https://news.ycombinator.com/item?id=35550786) - [Kids Toys Suck (2011)](http://jesda.com/2011/02/10/kids-toys-suck/)
 * [2023-04-13, 03:59:22](https://news.ycombinator.com/item?id=35550761) - [Take Control of Your $Home](https://getfleek.dev/)
+* [2023-04-13, 03:08:37](https://news.ycombinator.com/item?id=35550419) - [What GPT-4 Does Is Less Like “Figuring Out” and More Like “Already Knowing”](https://amistrongeryet.substack.com/p/gpt-4-capabilities)
 * [2023-04-13, 02:59:30](https://news.ycombinator.com/item?id=35550342) - [Breaking Intel Exiting the Server Business Selling to MiTAC](https://www.servethehome.com/breaking-intel-exiting-the-server-business-selling-to-mitac/)
 * [2023-04-13, 02:45:33](https://news.ycombinator.com/item?id=35550240) - [What you give up by moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
 * [2023-04-13, 02:38:56](https://news.ycombinator.com/item?id=35550194) - [Leaker of U.S. secret documents worked on military base, friend says](https://www.washingtonpost.com/national-security/2023/04/12/discord-leaked-documents/)
