@@ -4,15 +4,18 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 22:11:43](https://news.ycombinator.com/item?id=35562821) - [Auto-GPT Unmasked: The Hype and Hard Truths of Its Production Pitfalls](https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls)
 * [2023-04-13, 21:38:44](https://news.ycombinator.com/item?id=35562441) - [Japan’s population drops by half a million in 2022](https://www.cnn.com/2023/04/13/asia/japan-population-decline-record-drop-intl-hnk/index.html)
 * [2023-04-13, 21:31:47](https://news.ycombinator.com/item?id=35562353) - [A Map of Places in the US with the Same Name](https://pudding.cool/2023/03/same-name/)
 * [2023-04-13, 21:22:40](https://news.ycombinator.com/item?id=35562230) - [Consent-O-Matic: Automatic cookie management](https://consentomatic.au.dk/)
 * [2023-04-13, 20:56:02](https://news.ycombinator.com/item?id=35561948) - [Camus&#x27;s New York Diary (1946)](https://www.theparisreview.org/blog/2023/03/14/camuss-new-york-diary-1946/)
+* [2023-04-13, 20:46:06](https://news.ycombinator.com/item?id=35561824) - [End-of-Life Dreams](https://www.commonwealmagazine.org/end-life-dreams)
 * [2023-04-13, 20:44:25](https://news.ycombinator.com/item?id=35561809) - [There’s no universal cordless power tool battery – why?](https://toolguyd.com/universal-cordless-power-tool-battery/)
 * [2023-04-13, 20:40:25](https://news.ycombinator.com/item?id=35561747) - [GPT Unicorn: A Daily Exploration of GPT-4&#x27;s Image Generation Capabilities](https://adamkdean.co.uk/posts/gpt-unicorn-a-daily-exploration-of-gpt-4s-image-generation-capabilities)
 * [2023-04-13, 20:19:08](https://news.ycombinator.com/item?id=35561520) - [Is GPT-4 Worth the Subscription? Here’s What You Should Know](https://www.wired.com/story/what-is-chatgpt-plus-gpt4-openai/)
 * [2023-04-13, 20:15:48](https://news.ycombinator.com/item?id=35561485) - [Robotic deep RL at scale: Sorting waste and recyclables with a fleet of robots](https://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html)
 * [2023-04-13, 20:12:03](https://news.ycombinator.com/item?id=35561447) - [Someone Asked an Autonomous AI to &#x27;Destroy Humanity&#x27;](https://www.vice.com/en/article/93kw7p/someone-asked-an-autonomous-ai-to-destroy-humanity-this-is-what-happened)
+* [2023-04-13, 19:51:37](https://news.ycombinator.com/item?id=35561203) - [Animated Drawings](https://fairanimateddrawings.com/site/home)
 * [2023-04-13, 19:10:18](https://news.ycombinator.com/item?id=35560577) - [Don’t record your social life on an append-only social network](https://www.ctrl.blog/entry/append-only-social.html)
 * [2023-04-13, 18:55:41](https://news.ycombinator.com/item?id=35560344) - [Whitepaper: Current Best Practices for Training LLMs from Scratch](http://wandb.me/LLMwhitepaper)
 * [2023-04-13, 18:35:14](https://news.ycombinator.com/item?id=35560019) - [What Kind of Mind Does ChatGPT Have?](https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of-mind-does-chatgpt-have)
