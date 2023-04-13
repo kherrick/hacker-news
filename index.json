@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-13, 04:04:47",
+      "https://news.ycombinator.com/item?id=35550803"
+    ],
+    [
+      "The V Programming Language",
+      "https://vlang.io/"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 04:02:39",
       "https://news.ycombinator.com/item?id=35550786"
     ],
@@ -187,16 +197,6 @@
     [
       "Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs",
       "https://github.com/databrickslabs/dolly/tree/master/data"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 13:39:05",
-      "https://news.ycombinator.com/item?id=35539464"
-    ],
-    [
-      "FerretDB: open-source MongoDB alternative",
-      "https://blog.ferretdb.io/ferretdb-1-0-ga-opensource-mongodb-alternative/"
     ]
   ],
   [
