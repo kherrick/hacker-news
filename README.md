@@ -2,7 +2,6 @@
 
 * [2023-04-13, 10:34:44](https://news.ycombinator.com/item?id=35553421) - [Google&#x27;s 2023 Shutdown Spree: 6 Products Pulled in Just 4 Months](https://toolhub.tech/blog/Google-2023-Shutdown-Spree-6-Products-Pulled-in-Just-4-Months/)
 * [2023-04-13, 10:19:39](https://news.ycombinator.com/item?id=35553337) - [YouTube-Dl Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
-* [2023-04-13, 08:57:14](https://news.ycombinator.com/item?id=35552768) - [Who Is Running Stanford?](https://stanforddaily.com/2023/04/10/letter-to-the-editor-who-is-running-stanford/)
 * [2023-04-13, 08:02:39](https://news.ycombinator.com/item?id=35552393) - [20-hour Auto Engineering Video Course from How a Car Works](https://www.howacarworks.com/video-course)
 * [2023-04-13, 08:00:13](https://news.ycombinator.com/item?id=35552378) - [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)
 * [2023-04-13, 06:37:25](https://news.ycombinator.com/item?id=35551870) - [ESA – Jupiter Icy Moons Explorer: Live Launch](https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch)
@@ -10,6 +9,7 @@
 * [2023-04-13, 03:36:44](https://news.ycombinator.com/item?id=35550611) - [Most Popular Programming Languages on GitHub by OSS Insight](https://ossinsight.io/collections/programming-language/)
 * [2023-04-13, 03:31:02](https://news.ycombinator.com/item?id=35550567) - [Do you need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
 * [2023-04-13, 03:26:33](https://news.ycombinator.com/item?id=35550530) - [Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2)
+* [2023-04-13, 02:59:30](https://news.ycombinator.com/item?id=35550342) - [Intel exiting its longtime server business](https://www.servethehome.com/breaking-intel-exiting-the-server-business-selling-to-mitac/)
 * [2023-04-13, 02:45:33](https://news.ycombinator.com/item?id=35550240) - [What you give up by moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
 * [2023-04-13, 00:24:21](https://news.ycombinator.com/item?id=35549116) - [Lindows 4.0 (2003)](https://baturin.org/misc/software-reviews/lindows/)
 * [2023-04-13, 00:03:46](https://news.ycombinator.com/item?id=35548911) - [Mathematicians find hidden structure in a common type of space](https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/)
