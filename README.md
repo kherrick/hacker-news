@@ -28,8 +28,8 @@
 * [2023-04-12, 17:44:08](https://news.ycombinator.com/item?id=35543668) - [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
 * [2023-04-12, 13:25:10](https://news.ycombinator.com/item?id=35539255) - [Why Janet?](https://ianthehenry.com/posts/why-janet/)
 * [2023-04-12, 11:43:13](https://news.ycombinator.com/item?id=35538104) - [The Goddess and the Rose](https://worldsensorium.com/the-goddess-and-the-rose/)
+* [2023-04-12, 10:55:44](https://news.ycombinator.com/item?id=35537662) - [The Education of a Computer (1952)](https://fermatslibrary.com/s/the-education-of-a-computer)
 * [2023-04-12, 05:32:30](https://news.ycombinator.com/item?id=35535404) - [Pedagogical Downsides of Haskell](https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell)
-* [2023-04-11, 05:55:34](https://news.ycombinator.com/item?id=35521351) - [Lispy vs. Pseudo-English Syntax (1984)](http://ml.cddddr.org/cl-iteration/msg00010.html)
 
 ## [Archives](archives/index.md)
 

@@ -70,6 +70,7 @@
 * [2023-04-12, 11:36:06](https://news.ycombinator.com/item?id=35538030) - [Elizabeth Holmes loses bid to stay out of prison during appeal of sentence](https://www.abc.net.au/news/2023-04-12/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison/102211402)
 * [2023-04-12, 11:12:24](https://news.ycombinator.com/item?id=35537813) - [Mass Layoffs and Absentee Bosses Create a Morale Crisis at Meta](https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html)
 * [2023-04-12, 11:02:12](https://news.ycombinator.com/item?id=35537719) - [Why MD5(&#x27;240610708&#x27;) is equal to MD5(&#x27;QNKCDZO&#x27;)?](https://stackoverflow.com/a/22140266)
+* [2023-04-12, 10:55:44](https://news.ycombinator.com/item?id=35537662) - [The Education of a Computer (1952)](https://fermatslibrary.com/s/the-education-of-a-computer)
 * [2023-04-12, 10:44:50](https://news.ycombinator.com/item?id=35537591) - [VS Code caught accessing the microphone in new update](https://imgur.com/a/2BpN0Pd)
 * [2023-04-12, 09:59:19](https://news.ycombinator.com/item?id=35537264) - [Ask HN: Is Software Getting Worse?](https://news.ycombinator.com/item?id=35537264)
 * [2023-04-12, 09:28:26](https://news.ycombinator.com/item?id=35537007) - [The Complete Guide to All the Taquerias of Redwood City, v2.0](http://www.emeraldlake.com/tacos/)
