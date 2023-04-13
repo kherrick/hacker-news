@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
 * [2023-04-13, 18:29:04](https://news.ycombinator.com/item?id=35559925) - [Elixir and Rust is a good mix](https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/)
+* [2023-04-13, 18:26:58](https://news.ycombinator.com/item?id=35559890) - [Pulumi Insights – AI generated IaC programs](https://www.pulumi.com/blog/pulumi-insights/)
+* [2023-04-13, 18:24:34](https://news.ycombinator.com/item?id=35559862) - [California is a rooftop solar giant. New rules could change that](https://www.canarymedia.com/articles/solar/california-is-a-rooftop-solar-giant-new-rules-could-change-that)
 * [2023-04-13, 18:10:50](https://news.ycombinator.com/item?id=35559634) - [WeVPN Is Shutting Down](https://wevpn.com/)
 * [2023-04-13, 17:55:09](https://news.ycombinator.com/item?id=35559383) - [How the Good Friday Agreement created an ‘all-Ireland’ economy](https://www.france24.com/en/europe/20230411-a-quiet-success-story-how-the-good-friday-agreement-created-an-all-ireland-economy)
 * [2023-04-13, 17:38:22](https://news.ycombinator.com/item?id=35559145) - [Warm liquid from Oregon seafloor comes from Cascadia fault](https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafloor-comes-from-cascadia-fault-could-offer-clues-to-earthquake-hazards/)
