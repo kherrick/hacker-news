@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 20:44:25](https://news.ycombinator.com/item?id=35561809) - [There’s no universal cordless power tool battery – why?](https://toolguyd.com/universal-cordless-power-tool-battery/)
+* [2023-04-13, 20:40:25](https://news.ycombinator.com/item?id=35561747) - [GPT Unicorn: A Daily Exploration of GPT-4&#x27;s Image Generation Capabilities](https://adamkdean.co.uk/posts/gpt-unicorn-a-daily-exploration-of-gpt-4s-image-generation-capabilities)
+* [2023-04-13, 20:15:48](https://news.ycombinator.com/item?id=35561485) - [Robotic deep RL at scale: Sorting waste and recyclables with a fleet of robots](https://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html)
 * [2023-04-13, 20:12:03](https://news.ycombinator.com/item?id=35561447) - [Someone Asked an Autonomous AI to &#x27;Destroy Humanity&#x27;](https://www.vice.com/en/article/93kw7p/someone-asked-an-autonomous-ai-to-destroy-humanity-this-is-what-happened)
 * [2023-04-13, 19:10:18](https://news.ycombinator.com/item?id=35560577) - [Don’t record your social life on an append-only social network](https://www.ctrl.blog/entry/append-only-social.html)
 * [2023-04-13, 18:55:41](https://news.ycombinator.com/item?id=35560344) - [Whitepaper: Current Best Practices for Training LLMs from Scratch](http://wandb.me/LLMwhitepaper)
@@ -59,6 +62,7 @@
 * [2023-04-13, 10:47:21](https://news.ycombinator.com/item?id=35553514) - [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
 * [2023-04-13, 10:34:44](https://news.ycombinator.com/item?id=35553421) - [Google&#x27;s 2023 Shutdown Spree: 6 Products Pulled in Just 4 Months](https://toolhub.tech/blog/Google-2023-Shutdown-Spree-6-Products-Pulled-in-Just-4-Months/)
 * [2023-04-13, 10:19:39](https://news.ycombinator.com/item?id=35553337) - [YouTube-Dl Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
+* [2023-04-13, 09:01:10](https://news.ycombinator.com/item?id=35552804) - [Audio&#x27;s Circle of Confusion (2009)](http://seanolive.blogspot.com/2009/10/audios-circle-of-confusion.html)
 * [2023-04-13, 08:57:14](https://news.ycombinator.com/item?id=35552768) - [Who Is Running Stanford?](https://stanforddaily.com/2023/04/10/letter-to-the-editor-who-is-running-stanford/)
 * [2023-04-13, 08:02:39](https://news.ycombinator.com/item?id=35552393) - [20-hour Auto Engineering Video Course from How a Car Works](https://www.howacarworks.com/video-course)
 * [2023-04-13, 08:00:13](https://news.ycombinator.com/item?id=35552378) - [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)
