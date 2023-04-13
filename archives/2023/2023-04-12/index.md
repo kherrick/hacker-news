@@ -54,6 +54,7 @@
 * [2023-04-12, 13:39:05](https://news.ycombinator.com/item?id=35539464) - [FerretDB, a truly open-source MongoDB alternative](https://blog.ferretdb.io/ferretdb-1-0-ga-opensource-mongodb-alternative/)
 * [2023-04-12, 13:38:10](https://news.ycombinator.com/item?id=35539447) - [Points on Cartooning by George Carlson (1937)](http://mikelynchcartoons.blogspot.com/2023/04/how-to-cartoon-book-points-on.html)
 * [2023-04-12, 13:26:38](https://news.ycombinator.com/item?id=35539280) - [NPR quits Twitter after being labeled as &#x27;state-affiliated media&#x27;](https://www.wbur.org/npr/1169269161/npr-leaves-twitter-government-funded-media-label)
+* [2023-04-12, 13:25:10](https://news.ycombinator.com/item?id=35539255) - [Why Janet?](https://ianthehenry.com/posts/why-janet/)
 * [2023-04-12, 13:12:10](https://news.ycombinator.com/item?id=35539085) - [Free Dolly: Introducing the First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 * [2023-04-12, 13:09:49](https://news.ycombinator.com/item?id=35539057) - [Intel and Arm Announce Multigeneration Collaboration on Leading-Edge SoC Design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
 * [2023-04-12, 13:03:18](https://news.ycombinator.com/item?id=35538977) - [Supabase Storage v3: Resumable Uploads with support for 50GB files](https://supabase.com/blog/storage-v3-resumable-uploads)
