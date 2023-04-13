@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 16:07:45](https://news.ycombinator.com/item?id=35557630) - [Mary Quant, ‘60s designer who invented the miniskirt, dead at 93](https://nypost.com/2023/04/13/mary-quant-designer-who-invented-the-miniskirt-dead-at-93/)
+* [2023-04-13, 16:05:14](https://news.ycombinator.com/item?id=35557583) - [Leader of Online Group Where Secret Documents Leaked Is Air National Guardsman](https://www.nytimes.com/2023/04/13/world/documents-leak-leaker-identity.html)
 * [2023-04-13, 15:38:01](https://news.ycombinator.com/item?id=35557103) - [European privacy watchdog creates ChatGPT task force](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/)
 * [2023-04-13, 15:25:23](https://news.ycombinator.com/item?id=35556899) - [Joe Rogan Issues Warning After AI-Generated Version of His Podcast Surfaces](https://www.zerohedge.com/political/joe-rogan-issues-warning-after-ai-generated-version-his-podcast-surfaces)
 * [2023-04-13, 15:22:12](https://news.ycombinator.com/item?id=35556857) - [Arrest made in Bob Lee killing; suspect was tech exec](https://www.sfchronicle.com/sf/article/bob-lee-san-francisco-arrest-17895071.php)
