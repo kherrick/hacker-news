@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-13, 06:37:25](https://news.ycombinator.com/item?id=35551870) - [ESA – Jupiter Icy Moons Explorer: Live Launch](https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch)
-* [2023-04-13, 04:02:39](https://news.ycombinator.com/item?id=35550786) - [Kids Toys Suck (2011)](http://jesda.com/2011/02/10/kids-toys-suck/)
 * [2023-04-13, 03:36:44](https://news.ycombinator.com/item?id=35550611) - [Most Popular Programming Languages on GitHub by OSS Insight](https://ossinsight.io/collections/programming-language/)
 * [2023-04-13, 03:31:02](https://news.ycombinator.com/item?id=35550567) - [Do you need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
 * [2023-04-13, 03:26:33](https://news.ycombinator.com/item?id=35550530) - [Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2)
@@ -19,6 +18,7 @@
 * [2023-04-12, 21:01:31](https://news.ycombinator.com/item?id=35546845) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2023-04-12, 20:59:15](https://news.ycombinator.com/item?id=35546804) - [Joblib: Running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/index.html)
 * [2023-04-12, 19:54:43](https://news.ycombinator.com/item?id=35545817) - [On a great interview question](https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942)
+* [2023-04-12, 18:53:11](https://news.ycombinator.com/item?id=35544851) - [Experimenting with LLMs to Research, Reflect, and Plan](https://eugeneyan.com/writing/llm-experiments/)
 * [2023-04-12, 17:56:14](https://news.ycombinator.com/item?id=35543893) - [The U.S. cracked a $3.4B crypto heist and Bitcoin’s anonymity](https://www.wsj.com/articles/bitcoin-blockchain-hacking-arrests-93a4cb29)
 * [2023-04-12, 17:44:08](https://news.ycombinator.com/item?id=35543668) - [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
 * [2023-04-12, 15:59:02](https://news.ycombinator.com/item?id=35541861) - [Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs](https://github.com/databrickslabs/dolly/tree/master/data)
