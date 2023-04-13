@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 12:38:08](https://news.ycombinator.com/item?id=35554459) - [World&#x27;s largest banknote printer says printing money isn&#x27;t profitable anymore](https://www.businessinsider.com/world-largest-banknote-printer-de-la-rue-issues-profit-warning-2023-4)
+* [2023-04-13, 12:32:16](https://news.ycombinator.com/item?id=35554397) - [Germany to switch off last remaining nuclear power plants](https://www.ft.com/content/24247417-2a69-47ab-bab3-b81befad8335)
+* [2023-04-13, 12:18:32](https://news.ycombinator.com/item?id=35554270) - [Apple will use 100 percent recycled cobalt in batteries by 2025](https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/)
 * [2023-04-13, 12:01:51](https://news.ycombinator.com/item?id=35554109) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-04-13, 11:51:56](https://news.ycombinator.com/item?id=35554015) - [First image of a black hole gets a makeover with AI](https://apnews.com/article/first-black-hole-image-machine-learning-8a1a4815a974d8fe3a43392d8e775bfb)
+* [2023-04-13, 11:34:32](https://news.ycombinator.com/item?id=35553870) - [Andrew Carnegie Turned His Fortune into a Library Legacy (2013)](https://www.npr.org/2013/08/01/207272849/how-andrew-carnegie-turned-his-fortune-into-a-library-legacy)
 * [2023-04-13, 11:16:59](https://news.ycombinator.com/item?id=35553742) - [China’s BYD is overtaking Tesla as the carmaker extraordinaire](https://www.economist.com/business/2023/02/02/chinas-byd-is-overtaking-tesla-as-the-carmaker-extraordinaire)
 * [2023-04-13, 10:53:57](https://news.ycombinator.com/item?id=35553562) - [Animal Sex Determination Is Weirder Than You Think](https://nautil.us/animal-sex-determination-is-weirder-than-you-think-296080/)
 * [2023-04-13, 10:47:21](https://news.ycombinator.com/item?id=35553514) - [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
