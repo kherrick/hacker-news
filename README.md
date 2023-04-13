@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-13, 22:56:51](https://news.ycombinator.com/item?id=35563284) - [Popular porn site must delete all amateur videos posted without consent](https://arstechnica.com/tech-policy/2023/04/popular-porn-site-must-delete-all-amateur-videos-posted-without-consent/)
+* [2023-04-13, 22:22:33](https://news.ycombinator.com/item?id=35562936) - [Police Arrested a Tech Executive over the Stabbing Death of Bob Lee](https://www.buzzfeednews.com/article/davidmack/bob-lee-murder-suspect-arrested-cash-app-san-francisco)
 * [2023-04-13, 22:11:43](https://news.ycombinator.com/item?id=35562821) - [Auto-GPT Unmasked: The Hype and Hard Truths of Its Production Pitfalls](https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls)
 * [2023-04-13, 22:10:20](https://news.ycombinator.com/item?id=35562807) - [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
 * [2023-04-13, 21:37:26](https://news.ycombinator.com/item?id=35562430) - [SQL: 2023 is finished: Here is what&#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
@@ -22,7 +23,6 @@
 * [2023-04-13, 16:07:45](https://news.ycombinator.com/item?id=35557630) - [Mary Quant, ’60s designer who invented the miniskirt, has died at 93](https://nypost.com/2023/04/13/mary-quant-designer-who-invented-the-miniskirt-dead-at-93/)
 * [2023-04-13, 13:53:20](https://news.ycombinator.com/item?id=35555481) - [916 Days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 13:53:11](https://news.ycombinator.com/item?id=35555475) - [Mac Keyboard with Hidutil](https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html)
-* [2023-04-13, 09:01:10](https://news.ycombinator.com/item?id=35552804) - [Audio&#x27;s Circle of Confusion (2009)](http://seanolive.blogspot.com/2009/10/audios-circle-of-confusion.html)
 * [2023-04-13, 02:58:59](https://news.ycombinator.com/item?id=35550339) - [Calculating Position from Raw GPS Data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2023-04-12, 23:35:29](https://news.ycombinator.com/item?id=35548618) - [Requiem for a Great Cat](https://www.newyorker.com/culture/cultural-comment/requiem-for-a-great-cat)
 * [2023-04-12, 13:40:12](https://news.ycombinator.com/item?id=35539476) - [Show HN: Google Analytics alternative with the most generous free tier](https://beamanalytics.io/)
