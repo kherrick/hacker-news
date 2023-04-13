@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-13, 15:38:01",
+      "https://news.ycombinator.com/item?id=35557103"
+    ],
+    [
+      "European privacy watchdog creates ChatGPT task force",
+      "https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/"
+    ]
+  ],
+  [
+    [
+      "2023-04-13, 15:25:23",
+      "https://news.ycombinator.com/item?id=35556899"
+    ],
+    [
+      "Joe Rogan Issues Warning After AI-Generated Version of His Podcast Surfaces",
+      "https://www.zerohedge.com/political/joe-rogan-issues-warning-after-ai-generated-version-his-podcast-surfaces"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 15:22:12",
       "https://news.ycombinator.com/item?id=35556857"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2023-04-13, 14:48:58",
-      "https://news.ycombinator.com/item?id=35556318"
-    ],
-    [
-      "Pentagon leaks linked to young gun enthusiast who worked at military base",
-      "https://www.theguardian.com/us-news/2023/apr/13/pentagon-leaks-og-source-military-base-discord-report"
-    ]
-  ],
-  [
-    [
       "2023-04-13, 14:35:14",
       "https://news.ycombinator.com/item?id=35556110"
     ],
@@ -47,16 +57,6 @@
     [
       "Pentagon leak leads to limits on who gets access to military’s top secrets",
       "https://www.cnn.com/2023/04/13/politics/pentagon-leaks-limit-access-military-secrets/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 14:15:47",
-      "https://news.ycombinator.com/item?id=35555799"
-    ],
-    [
-      "It&#x27;s time to reveal all recommendation algorithms – by law if necessary",
-      "https://www.theregister.com/2023/04/13/reveal_all_recommendation_algorithms/"
     ]
   ],
   [
@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2023-04-13, 13:46:20",
-      "https://news.ycombinator.com/item?id=35555371"
+      "2023-04-13, 13:50:04",
+      "https://news.ycombinator.com/item?id=35555432"
     ],
     [
-      "1-in-1000 year flooding in South Florida",
-      "https://www.cnn.com/2023/04/12/weather/florida-flash-flood-fort-lauderdale/index.html"
+      "A New Approach to Computation Reimagines Artificial Intelligence",
+      "https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/"
     ]
   ],
   [
@@ -187,16 +187,6 @@
     [
       "Laudspeaker hiring engineer to build open source customer journey software",
       "https://github.com/laudspeaker/laudspeaker/tree/Hiring"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 11:34:32",
-      "https://news.ycombinator.com/item?id=35553870"
-    ],
-    [
-      "Andrew Carnegie Turned His Fortune into a Library Legacy (2013)",
-      "https://www.npr.org/2013/08/01/207272849/how-andrew-carnegie-turned-his-fortune-into-a-library-legacy"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Pedagogical Downsides of Haskell",
       "https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 05:55:34",
+      "https://news.ycombinator.com/item?id=35521351"
+    ],
+    [
+      "Lispy vs. Pseudo-English Syntax (1984)",
+      "http://ml.cddddr.org/cl-iteration/msg00010.html"
     ]
   ]
 ]
