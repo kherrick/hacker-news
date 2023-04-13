@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 04:49:39](https://news.ycombinator.com/item?id=35551068) - [FTX Discovers $7.3B in Assets](https://solanafloor.com/news/ftx-discovers-7-3-billion-in-assets-after-bankruptcy)
 * [2023-04-13, 04:04:47](https://news.ycombinator.com/item?id=35550803) - [The V Programming Language](https://vlang.io/)
 * [2023-04-13, 04:02:39](https://news.ycombinator.com/item?id=35550786) - [Kids Toys Suck (2011)](http://jesda.com/2011/02/10/kids-toys-suck/)
 * [2023-04-13, 03:59:22](https://news.ycombinator.com/item?id=35550761) - [Take Control of Your $Home](https://getfleek.dev/)
