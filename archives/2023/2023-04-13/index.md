@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 22:14:11](https://news.ycombinator.com/item?id=35562844) - [Chipotle plans to ditch gas grills at 100 new locations](https://www.theverge.com/2023/4/12/23680207/chipotle-gas-grill-electric-stove-climate-change)
 * [2023-04-13, 22:11:43](https://news.ycombinator.com/item?id=35562821) - [Auto-GPT Unmasked: The Hype and Hard Truths of Its Production Pitfalls](https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls)
 * [2023-04-13, 22:10:20](https://news.ycombinator.com/item?id=35562807) - [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
 * [2023-04-13, 22:01:41](https://news.ycombinator.com/item?id=35562705) - [Could Ice Cream Possibly Be Good for You?](https://www.theatlantic.com/magazine/archive/2023/05/ice-cream-bad-for-you-health-study/673487/)

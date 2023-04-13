@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 22:14:11](https://news.ycombinator.com/item?id=35562844) - [Chipotle plans to ditch gas grills at 100 new locations](https://www.theverge.com/2023/4/12/23680207/chipotle-gas-grill-electric-stove-climate-change)
 * [2023-04-13, 22:11:43](https://news.ycombinator.com/item?id=35562821) - [Auto-GPT Unmasked: The Hype and Hard Truths of Its Production Pitfalls](https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls)
 * [2023-04-13, 22:10:20](https://news.ycombinator.com/item?id=35562807) - [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
 * [2023-04-13, 21:37:26](https://news.ycombinator.com/item?id=35562430) - [SQL: 2023 is finished: Here is what&#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
@@ -22,7 +23,6 @@
 * [2023-04-13, 13:53:20](https://news.ycombinator.com/item?id=35555481) - [916 Days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 13:53:11](https://news.ycombinator.com/item?id=35555475) - [Mac Keyboard with Hidutil](https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html)
 * [2023-04-13, 09:01:10](https://news.ycombinator.com/item?id=35552804) - [Audio&#x27;s Circle of Confusion (2009)](http://seanolive.blogspot.com/2009/10/audios-circle-of-confusion.html)
-* [2023-04-13, 08:00:13](https://news.ycombinator.com/item?id=35552378) - [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)
 * [2023-04-13, 02:58:59](https://news.ycombinator.com/item?id=35550339) - [Calculating Position from Raw GPS Data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2023-04-12, 23:35:29](https://news.ycombinator.com/item?id=35548618) - [Requiem for a Great Cat](https://www.newyorker.com/culture/cultural-comment/requiem-for-a-great-cat)
 * [2023-04-12, 13:40:12](https://news.ycombinator.com/item?id=35539476) - [Show HN: Google Analytics alternative with the most generous free tier](https://beamanalytics.io/)
