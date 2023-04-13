@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 21:38:44](https://news.ycombinator.com/item?id=35562441) - [Japan’s population drops by half a million in 2022](https://www.cnn.com/2023/04/13/asia/japan-population-decline-record-drop-intl-hnk/index.html)
+* [2023-04-13, 21:31:47](https://news.ycombinator.com/item?id=35562353) - [A Map of Places in the US with the Same Name](https://pudding.cool/2023/03/same-name/)
 * [2023-04-13, 21:22:40](https://news.ycombinator.com/item?id=35562230) - [Consent-O-Matic: Automatic cookie management](https://consentomatic.au.dk/)
 * [2023-04-13, 20:56:02](https://news.ycombinator.com/item?id=35561948) - [Camus&#x27;s New York Diary (1946)](https://www.theparisreview.org/blog/2023/03/14/camuss-new-york-diary-1946/)
 * [2023-04-13, 20:44:25](https://news.ycombinator.com/item?id=35561809) - [There’s no universal cordless power tool battery – why?](https://toolguyd.com/universal-cordless-power-tool-battery/)
