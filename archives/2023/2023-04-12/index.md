@@ -52,6 +52,7 @@
 * [2023-04-12, 14:17:46](https://news.ycombinator.com/item?id=35540084) - [Hetzner Introduces ARM64 Cloud Servers](https://www.hetzner.com/press-release/arm64-cloud/)
 * [2023-04-12, 14:05:37](https://news.ycombinator.com/item?id=35539859) - [Questionable $2,500 hoodie makes you look like you were plucked out of Minecraft](https://arstechnica.com/gadgets/2023/04/questionable-2500-hoodie-makes-you-look-like-you-were-plucked-out-of-minecraft/)
 * [2023-04-12, 13:52:54](https://news.ycombinator.com/item?id=35539675) - [U.S. Inflation Eased to 5% in March](https://www.wsj.com/articles/us-inflation-march-2023-consumer-price-index-fa6eba99)
+* [2023-04-12, 13:40:12](https://news.ycombinator.com/item?id=35539476) - [Show HN: Google Analytics alternative with the most generous free tier](https://beamanalytics.io/)
 * [2023-04-12, 13:39:05](https://news.ycombinator.com/item?id=35539464) - [FerretDB, a truly open-source MongoDB alternative](https://blog.ferretdb.io/ferretdb-1-0-ga-opensource-mongodb-alternative/)
 * [2023-04-12, 13:38:10](https://news.ycombinator.com/item?id=35539447) - [Points on Cartooning by George Carlson (1937)](http://mikelynchcartoons.blogspot.com/2023/04/how-to-cartoon-book-points-on.html)
 * [2023-04-12, 13:31:03](https://news.ycombinator.com/item?id=35539348) - [How to play mumble-the-peg, mumchance, and hurling to the country](https://www.laphamsquarterly.org/roundtable/rules-games-tudor-england)
