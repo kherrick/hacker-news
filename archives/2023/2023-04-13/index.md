@@ -10,6 +10,7 @@
 * [2023-04-13, 03:59:22](https://news.ycombinator.com/item?id=35550761) - [Take Control of Your $Home](https://getfleek.dev/)
 * [2023-04-13, 03:36:44](https://news.ycombinator.com/item?id=35550611) - [Most Popular Programming Languages on GitHub by OSS Insight](https://ossinsight.io/collections/programming-language/)
 * [2023-04-13, 03:31:02](https://news.ycombinator.com/item?id=35550567) - [Do you need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
+* [2023-04-13, 03:26:33](https://news.ycombinator.com/item?id=35550530) - [Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2)
 * [2023-04-13, 03:08:37](https://news.ycombinator.com/item?id=35550419) - [What GPT-4 Does Is Less Like “Figuring Out” and More Like “Already Knowing”](https://amistrongeryet.substack.com/p/gpt-4-capabilities)
 * [2023-04-13, 03:02:53](https://news.ycombinator.com/item?id=35550377) - [Switching to C over &#x27;Modern&#x27; Programming Languages](https://devtails.xyz/@adam/switching-to-c-over-modern-programming-languages)
 * [2023-04-13, 02:59:30](https://news.ycombinator.com/item?id=35550342) - [Breaking Intel Exiting the Server Business Selling to MiTAC](https://www.servethehome.com/breaking-intel-exiting-the-server-business-selling-to-mitac/)
