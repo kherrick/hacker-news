@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 11:16:59](https://news.ycombinator.com/item?id=35553742) - [China’s BYD is overtaking Tesla as the carmaker extraordinaire](https://www.economist.com/business/2023/02/02/chinas-byd-is-overtaking-tesla-as-the-carmaker-extraordinaire)
 * [2023-04-13, 10:47:21](https://news.ycombinator.com/item?id=35553514) - [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
 * [2023-04-13, 10:34:44](https://news.ycombinator.com/item?id=35553421) - [Google&#x27;s 2023 Shutdown Spree: 6 Products Pulled in Just 4 Months](https://toolhub.tech/blog/Google-2023-Shutdown-Spree-6-Products-Pulled-in-Just-4-Months/)
 * [2023-04-13, 10:19:39](https://news.ycombinator.com/item?id=35553337) - [YouTube-Dl Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)

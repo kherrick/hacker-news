@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 11:16:59](https://news.ycombinator.com/item?id=35553742) - [China’s BYD is overtaking Tesla as the carmaker extraordinaire](https://www.economist.com/business/2023/02/02/chinas-byd-is-overtaking-tesla-as-the-carmaker-extraordinaire)
 * [2023-04-13, 10:47:21](https://news.ycombinator.com/item?id=35553514) - [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
 * [2023-04-13, 10:34:44](https://news.ycombinator.com/item?id=35553421) - [Google&#x27;s 2023 Shutdown Spree: 6 Products Pulled in Just 4 Months](https://toolhub.tech/blog/Google-2023-Shutdown-Spree-6-Products-Pulled-in-Just-4-Months/)
 * [2023-04-13, 10:19:39](https://news.ycombinator.com/item?id=35553337) - [YouTube-Dl Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
@@ -10,7 +11,6 @@
 * [2023-04-13, 06:31:42](https://news.ycombinator.com/item?id=35551830) - [We achieved a 6-fold increase in Podman startup speed](https://www.redhat.com/sysadmin/speed-containers-podman-raspberry-pi)
 * [2023-04-13, 03:31:02](https://news.ycombinator.com/item?id=35550567) - [Do you need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
 * [2023-04-13, 03:26:33](https://news.ycombinator.com/item?id=35550530) - [Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2)
-* [2023-04-13, 02:59:30](https://news.ycombinator.com/item?id=35550342) - [Intel exiting its longtime server business](https://www.servethehome.com/breaking-intel-exiting-the-server-business-selling-to-mitac/)
 * [2023-04-13, 02:45:33](https://news.ycombinator.com/item?id=35550240) - [What you give up by moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
 * [2023-04-13, 00:24:21](https://news.ycombinator.com/item?id=35549116) - [Lindows 4.0 (2003)](https://baturin.org/misc/software-reviews/lindows/)
 * [2023-04-13, 00:03:46](https://news.ycombinator.com/item?id=35548911) - [Mathematicians find hidden structure in a common type of space](https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/)
