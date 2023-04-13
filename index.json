@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-13, 17:36:39",
+      "https://news.ycombinator.com/item?id=35559124"
+    ],
+    [
+      "Improving Tailscale via Apple’s open source",
+      "https://tailscale.dev/blog/darwin-spelunking"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 17:33:46",
       "https://news.ycombinator.com/item?id=35559076"
     ],
@@ -27,6 +37,16 @@
     [
       "Segment Anything Model and the hard problems of computer vision",
       "https://www.latent.space/p/segment-anything-roboflow#details"
+    ]
+  ],
+  [
+    [
+      "2023-04-13, 16:53:56",
+      "https://news.ycombinator.com/item?id=35558409"
+    ],
+    [
+      "AI Fear Is Mostly Fear of Future",
+      "https://www.overcomingbias.com/p/ai-fear-is-mostly-fear-of-future"
     ]
   ],
   [
@@ -151,26 +171,6 @@
   ],
   [
     [
-      "2023-04-13, 13:38:28",
-      "https://news.ycombinator.com/item?id=35555263"
-    ],
-    [
-      "Supabase Auth: SSO, Mobile, and Server-Side Support",
-      "https://supabase.com/blog/supabase-auth-sso-pkce"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 13:07:21",
-      "https://news.ycombinator.com/item?id=35554824"
-    ],
-    [
-      "Amazon Titan",
-      "https://aws.amazon.com/bedrock/titan/"
-    ]
-  ],
-  [
-    [
       "2023-04-13, 13:06:46",
       "https://news.ycombinator.com/item?id=35554815"
     ],
@@ -217,16 +217,6 @@
     [
       "Apple will use 100 percent recycled cobalt in batteries by 2025",
       "https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 10:19:39",
-      "https://news.ycombinator.com/item?id=35553337"
-    ],
-    [
-      "YouTube-DL Hosting Ban Paves the Way to Privatized Censorship",
-      "https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Education of a Computer (1952)",
       "https://fermatslibrary.com/s/the-education-of-a-computer"
+    ]
+  ],
+  [
+    [
+      "2023-04-10, 10:59:28",
+      "https://news.ycombinator.com/item?id=35510985"
+    ],
+    [
+      "Size Matters: An Exploration of Virtual Memory on iOS",
+      "https://alwaysprocessing.blog/2022/02/20/size-matters"
     ]
   ]
 ]
