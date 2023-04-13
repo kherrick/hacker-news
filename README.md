@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 15:22:12](https://news.ycombinator.com/item?id=35556857) - [Arrest made in Bob Lee killing; suspect was tech exec](https://www.sfchronicle.com/sf/article/bob-lee-san-francisco-arrest-17895071.php)
 * [2023-04-13, 15:08:52](https://news.ycombinator.com/item?id=35556644) - [Gig Workers Are Being Stabbed, Stoned, and Abused in India](https://www.wired.com/story/india-gig-workers-violence-deadly-attacks/)
 * [2023-04-13, 14:48:58](https://news.ycombinator.com/item?id=35556318) - [Pentagon leaks linked to young gun enthusiast who worked at military base](https://www.theguardian.com/us-news/2023/apr/13/pentagon-leaks-og-source-military-base-discord-report)
 * [2023-04-13, 14:35:14](https://news.ycombinator.com/item?id=35556110) - [The science behind California&#x27;s wet winter, in maps](https://www.washingtonpost.com/weather/2023/04/07/california-extreme-winter-storms-snow-climate/)
@@ -28,7 +29,6 @@
 * [2023-04-12, 17:44:08](https://news.ycombinator.com/item?id=35543668) - [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
 * [2023-04-12, 13:25:10](https://news.ycombinator.com/item?id=35539255) - [Why Janet?](https://ianthehenry.com/posts/why-janet/)
 * [2023-04-12, 11:43:13](https://news.ycombinator.com/item?id=35538104) - [The Goddess and the Rose](https://worldsensorium.com/the-goddess-and-the-rose/)
-* [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
 * [2023-04-11, 12:05:56](https://news.ycombinator.com/item?id=35523948) - [A number system invented by Inuit schoolchildren](https://www.scientificamerican.com/article/a-number-system-invented-by-inuit-schoolchildren-will-make-its-silicon-valley-debut/)
 
 ## [Archives](archives/index.md)
