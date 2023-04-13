@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-13, 02:59:30](https://news.ycombinator.com/item?id=35550342) - [Breaking Intel Exiting the Server Business Selling to MiTAC](https://www.servethehome.com/breaking-intel-exiting-the-server-business-selling-to-mitac/)
 * [2023-04-13, 02:45:33](https://news.ycombinator.com/item?id=35550240) - [What you give up by moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
 * [2023-04-13, 02:38:56](https://news.ycombinator.com/item?id=35550194) - [Leaker of U.S. secret documents worked on military base, friend says](https://www.washingtonpost.com/national-security/2023/04/12/discord-leaked-documents/)
 * [2023-04-13, 02:16:09](https://news.ycombinator.com/item?id=35550000) - [Ban TikTok – But we need a better version of the RESTRICT Act](https://proton.me/blog/ban-tiktok-better-restrict-act)
@@ -24,6 +23,7 @@
 * [2023-04-12, 13:09:49](https://news.ycombinator.com/item?id=35539057) - [Intel Foundry Services and Arm announce collaboration on SoC design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
 * [2023-04-12, 12:56:59](https://news.ycombinator.com/item?id=35538892) - [Even when we know they’re “fake,” placebos can tame our emotional distress](https://nautil.us/sugar-pill-nation-294292/)
 * [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
+* [2023-04-12, 05:37:22](https://news.ycombinator.com/item?id=35535430) - [Could the Dodo Come Back from Extinction?](https://www.discoverwildlife.com/animal-facts/could-the-dodo-come-back-from-extinction/)
 * [2023-04-11, 17:55:18](https://news.ycombinator.com/item?id=35528692) - [Steve Roberts: Computing Across America](https://bikepacking.com/plog/steve-roberts-computing-across-america/)
 * [2023-04-11, 12:32:30](https://news.ycombinator.com/item?id=35524256) - [Show HN: Sheet Markup – add spreadsheets to a Markdown document](https://www.equalto.com/markup/)
 * [2023-04-11, 12:05:56](https://news.ycombinator.com/item?id=35523948) - [Number System Invented by Inuit Schoolchildren Makes Its Silicon Valley Debut](https://www.scientificamerican.com/article/a-number-system-invented-by-inuit-schoolchildren-will-make-its-silicon-valley-debut/)
