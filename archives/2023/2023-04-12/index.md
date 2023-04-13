@@ -6,6 +6,7 @@
 
 * [2023-04-12, 23:50:08](https://news.ycombinator.com/item?id=35548778) - [Show HN: Twitter API Reverse Engineered](https://github.com/trevorhobenshield/twitter-api-client)
 * [2023-04-12, 23:37:23](https://news.ycombinator.com/item?id=35548641) - [East Asian character emojis ㊗ 🈶 🈯 🈳 (2016)](https://chenhuijing.com/blog/east-asian-character-emojis/)
+* [2023-04-12, 23:35:29](https://news.ycombinator.com/item?id=35548618) - [Requiem for a Great Cat](https://www.newyorker.com/culture/cultural-comment/requiem-for-a-great-cat)
 * [2023-04-12, 23:17:01](https://news.ycombinator.com/item?id=35548407) - [Japan Government: Missile could be heading towards northern Japan](https://www3.nhk.or.jp/nhkworld/)
 * [2023-04-12, 22:22:00](https://news.ycombinator.com/item?id=35547847) - [Bad News About Inflation](https://paulromer.net/bad-news-about-inflation/)
 * [2023-04-12, 22:19:55](https://news.ycombinator.com/item?id=35547819) - [SQLite performance tuning: concurrent reads, multiple GBs and 100k SELECTs&#x2F;s](https://phiresky.github.io/blog/2020/sqlite-performance-tuning/)
