@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 15:38:01](https://news.ycombinator.com/item?id=35557103) - [European privacy watchdog creates ChatGPT task force](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/)
+* [2023-04-13, 15:25:23](https://news.ycombinator.com/item?id=35556899) - [Joe Rogan Issues Warning After AI-Generated Version of His Podcast Surfaces](https://www.zerohedge.com/political/joe-rogan-issues-warning-after-ai-generated-version-his-podcast-surfaces)
 * [2023-04-13, 15:22:12](https://news.ycombinator.com/item?id=35556857) - [Arrest made in Bob Lee killing; suspect was tech exec](https://www.sfchronicle.com/sf/article/bob-lee-san-francisco-arrest-17895071.php)
 * [2023-04-13, 15:08:52](https://news.ycombinator.com/item?id=35556644) - [Gig Workers Are Being Stabbed, Stoned, and Abused in India](https://www.wired.com/story/india-gig-workers-violence-deadly-attacks/)
 * [2023-04-13, 14:48:58](https://news.ycombinator.com/item?id=35556318) - [Pentagon leaks linked to young gun enthusiast who worked at military base](https://www.theguardian.com/us-news/2023/apr/13/pentagon-leaks-og-source-military-base-discord-report)
@@ -14,6 +16,7 @@
 * [2023-04-13, 13:56:25](https://news.ycombinator.com/item?id=35555525) - [Bob Lee&#x27;s alleged killer arrested, also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
 * [2023-04-13, 13:53:20](https://news.ycombinator.com/item?id=35555481) - [916 Days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 13:53:11](https://news.ycombinator.com/item?id=35555475) - [Mac Keyboard with Hidutil](https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html)
+* [2023-04-13, 13:50:04](https://news.ycombinator.com/item?id=35555432) - [A New Approach to Computation Reimagines Artificial Intelligence](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/)
 * [2023-04-13, 13:46:46](https://news.ycombinator.com/item?id=35555384) - [My Dating App Method May Be Unorthodox, but Good Lord Does It Work](https://slate.com/human-interest/2023/04/tinder-bumble-grindr-dating-app-hack-method-algorithm.html)
 * [2023-04-13, 13:46:20](https://news.ycombinator.com/item?id=35555371) - [1-in-1000 year flooding in South Florida](https://www.cnn.com/2023/04/12/weather/florida-flash-flood-fort-lauderdale/index.html)
 * [2023-04-13, 13:39:21](https://news.ycombinator.com/item?id=35555274) - [Ageing studies in five animals suggests how to reverse decline](https://www.nature.com/articles/d41586-023-01040-x)
