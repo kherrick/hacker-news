@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-13, 02:59:30",
+      "https://news.ycombinator.com/item?id=35550342"
+    ],
+    [
+      "Intel exiting its longtime server business",
+      "https://www.servethehome.com/breaking-intel-exiting-the-server-business-selling-to-mitac/"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 02:45:33",
       "https://news.ycombinator.com/item?id=35550240"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2023-04-13, 02:16:09",
-      "https://news.ycombinator.com/item?id=35550000"
-    ],
-    [
-      "Ban TikTok – But we need a better version of the RESTRICT Act",
-      "https://proton.me/blog/ban-tiktok-better-restrict-act"
-    ]
-  ],
-  [
-    [
       "2023-04-13, 00:24:21",
       "https://news.ycombinator.com/item?id=35549116"
     ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35548911"
     ],
     [
-      "Mathematicians Find Hidden Structure in a Common Type of Space",
+      "Mathematicians find hidden structure in a common type of space",
       "https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "SQLite performance tuning: concurrent reads, multiple GBs and 100k SELECTs&#x2F;s",
       "https://phiresky.github.io/blog/2020/sqlite-performance-tuning/"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 22:13:14",
-      "https://news.ycombinator.com/item?id=35547756"
-    ],
-    [
-      "Midjourney AI Guide",
-      "https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2023-04-12, 14:21:40",
+      "https://news.ycombinator.com/item?id=35540154"
+    ],
+    [
+      "Replacing my best friends with an LLM trained on 500k group chat messages",
+      "https://www.izzy.co/blogs/robo-boys.html"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 13:39:05",
       "https://news.ycombinator.com/item?id=35539464"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-04-12, 12:56:59",
-      "https://news.ycombinator.com/item?id=35538892"
-    ],
-    [
-      "Even when we know they’re “fake,” placebos can tame our emotional distress",
-      "https://nautil.us/sugar-pill-nation-294292/"
-    ]
-  ],
-  [
-    [
       "2023-04-12, 08:24:44",
       "https://news.ycombinator.com/item?id=35536550"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=35535430"
     ],
     [
-      "Could the Dodo Come Back from Extinction?",
+      "Could the dodo come back from extinction?",
       "https://www.discoverwildlife.com/animal-facts/could-the-dodo-come-back-from-extinction/"
     ]
   ],
@@ -247,6 +237,16 @@
     [
       "Steve Roberts: Computing Across America",
       "https://bikepacking.com/plog/steve-roberts-computing-across-america/"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 14:30:12",
+      "https://news.ycombinator.com/item?id=35525680"
+    ],
+    [
+      "The long, slow death of global development",
+      "https://americanaffairsjournal.org/2022/11/the-long-slow-death-of-global-development/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=35523948"
     ],
     [
-      "Number System Invented by Inuit Schoolchildren Makes Its Silicon Valley Debut",
+      "A number system invented by Inuit schoolchildren",
       "https://www.scientificamerican.com/article/a-number-system-invented-by-inuit-schoolchildren-will-make-its-silicon-valley-debut/"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=35523300"
     ],
     [
-      "Displaying My Washing Machine&#x27;s Remaining Time with Curl, Jq, and Pizauth",
+      "Displaying my washing machine&#x27;s remaining time with curl, jq, and pizauth",
       "https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html"
     ]
   ],
