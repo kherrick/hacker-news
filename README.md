@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-13, 13:56:25](https://news.ycombinator.com/item?id=35555525) - [Arrest made in Bob Lee case. Alleged killer also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
+* [2023-04-13, 13:53:20](https://news.ycombinator.com/item?id=35555481) - [916 Days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 13:53:11](https://news.ycombinator.com/item?id=35555475) - [Mac Keyboard with Hidutil](https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html)
 * [2023-04-13, 13:46:20](https://news.ycombinator.com/item?id=35555371) - [1-in-1000 year flooding in South Florida](https://www.cnn.com/2023/04/12/weather/florida-flash-flood-fort-lauderdale/index.html)
 * [2023-04-13, 13:39:21](https://news.ycombinator.com/item?id=35555274) - [Ageing studies in five animals suggests how to reverse decline](https://www.nature.com/articles/d41586-023-01040-x)
@@ -13,9 +14,8 @@
 * [2023-04-13, 12:18:32](https://news.ycombinator.com/item?id=35554270) - [Apple will use 100 percent recycled cobalt in batteries by 2025](https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/)
 * [2023-04-13, 12:01:51](https://news.ycombinator.com/item?id=35554109) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-04-13, 11:34:32](https://news.ycombinator.com/item?id=35553870) - [Andrew Carnegie Turned His Fortune into a Library Legacy (2013)](https://www.npr.org/2013/08/01/207272849/how-andrew-carnegie-turned-his-fortune-into-a-library-legacy)
-* [2023-04-13, 10:34:44](https://news.ycombinator.com/item?id=35553421) - [Google has already pulled six products in 2023](https://toolhub.tech/blog/Google-2023-Shutdown-Spree-6-Products-Pulled-in-Just-4-Months/)
 * [2023-04-13, 10:19:39](https://news.ycombinator.com/item?id=35553337) - [YouTube-DL Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
-* [2023-04-13, 08:02:39](https://news.ycombinator.com/item?id=35552393) - [The art of auto engineering – A 20-hour video course](https://www.howacarworks.com/video-course)
+* [2023-04-13, 08:02:39](https://news.ycombinator.com/item?id=35552393) - [The art of auto engineering](https://www.howacarworks.com/video-course)
 * [2023-04-13, 08:00:13](https://news.ycombinator.com/item?id=35552378) - [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)
 * [2023-04-13, 06:37:25](https://news.ycombinator.com/item?id=35551870) - [ESA – Jupiter Icy Moons Explorer: Live Launch](https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch)
 * [2023-04-13, 06:31:42](https://news.ycombinator.com/item?id=35551830) - [We achieved a 6-fold increase in Podman startup speed](https://www.redhat.com/sysadmin/speed-containers-podman-raspberry-pi)
