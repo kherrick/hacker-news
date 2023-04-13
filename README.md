@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 17:02:14](https://news.ycombinator.com/item?id=35558539) - [Kraftful (YC S19) Hiring Back End Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/)
 * [2023-04-13, 16:07:45](https://news.ycombinator.com/item?id=35557630) - [Mary Quant, ‘60s designer who invented the miniskirt, dead at 93](https://nypost.com/2023/04/13/mary-quant-designer-who-invented-the-miniskirt-dead-at-93/)
 * [2023-04-13, 16:05:14](https://news.ycombinator.com/item?id=35557583) - [Leader of Online Group Where Secret Documents Leaked Is Air National Guardsman](https://www.nytimes.com/2023/04/13/world/documents-leak-leaker-identity.html)
 * [2023-04-13, 15:47:25](https://news.ycombinator.com/item?id=35557256) - [OpenAI API keys leaking through app binaries](https://twitter.com/cyrilzakka/status/1646532570597982208)
@@ -7,7 +8,7 @@
 * [2023-04-13, 15:25:23](https://news.ycombinator.com/item?id=35556899) - [Joe Rogan Issues Warning After AI-Generated Version of His Podcast Surfaces](https://www.zerohedge.com/political/joe-rogan-issues-warning-after-ai-generated-version-his-podcast-surfaces)
 * [2023-04-13, 14:35:14](https://news.ycombinator.com/item?id=35556110) - [The science behind California&#x27;s wet winter, in maps](https://www.washingtonpost.com/weather/2023/04/07/california-extreme-winter-storms-snow-climate/)
 * [2023-04-13, 14:16:52](https://news.ycombinator.com/item?id=35555819) - [Pentagon leak leads to limits on who gets access to military’s top secrets](https://www.cnn.com/2023/04/13/politics/pentagon-leaks-limit-access-military-secrets/index.html)
-* [2023-04-13, 13:56:25](https://news.ycombinator.com/item?id=35555525) - [Arrest made in Bob Lee case. Alleged killer also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
+* [2023-04-13, 13:56:25](https://news.ycombinator.com/item?id=35555525) - [Arrest made in SF killing of Bob Lee – alleged killer also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
 * [2023-04-13, 13:53:20](https://news.ycombinator.com/item?id=35555481) - [916 Days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 13:53:11](https://news.ycombinator.com/item?id=35555475) - [Mac Keyboard with Hidutil](https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html)
 * [2023-04-13, 13:50:04](https://news.ycombinator.com/item?id=35555432) - [A New Approach to Computation Reimagines Artificial Intelligence](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/)
@@ -18,7 +19,6 @@
 * [2023-04-13, 12:33:46](https://news.ycombinator.com/item?id=35554413) - [GitHub Accelerator: our first cohort and what’s next](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/)
 * [2023-04-13, 12:18:57](https://news.ycombinator.com/item?id=35554276) - [South Korea to give $490 allowance to reclusive youths to help them leave house](https://www.theguardian.com/world/2023/apr/13/south-korea-to-give-490-allowance-to-reclusive-youths-to-help-them-leave-the-house)
 * [2023-04-13, 12:18:32](https://news.ycombinator.com/item?id=35554270) - [Apple will use 100 percent recycled cobalt in batteries by 2025](https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/)
-* [2023-04-13, 12:01:51](https://news.ycombinator.com/item?id=35554109) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-04-13, 10:19:39](https://news.ycombinator.com/item?id=35553337) - [YouTube-DL Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
 * [2023-04-13, 08:02:39](https://news.ycombinator.com/item?id=35552393) - [The art of auto engineering](https://www.howacarworks.com/video-course)
 * [2023-04-13, 08:00:13](https://news.ycombinator.com/item?id=35552378) - [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)
