@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 13:56:25](https://news.ycombinator.com/item?id=35555525) - [Bob Lee&#x27;s alleged killer arrested, also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
+* [2023-04-13, 13:46:46](https://news.ycombinator.com/item?id=35555384) - [My Dating App Method May Be Unorthodox, but Good Lord Does It Work](https://slate.com/human-interest/2023/04/tinder-bumble-grindr-dating-app-hack-method-algorithm.html)
+* [2023-04-13, 13:46:20](https://news.ycombinator.com/item?id=35555371) - [1-in-1000 year flooding in South Florida](https://www.cnn.com/2023/04/12/weather/florida-flash-flood-fort-lauderdale/index.html)
+* [2023-04-13, 13:39:21](https://news.ycombinator.com/item?id=35555274) - [Ageing studies in five animals suggests how to reverse decline](https://www.nature.com/articles/d41586-023-01040-x)
 * [2023-04-13, 13:38:28](https://news.ycombinator.com/item?id=35555263) - [Supabase Auth: SSO, Mobile, and Server-Side Support](https://supabase.com/blog/supabase-auth-sso-pkce)
 * [2023-04-13, 13:26:38](https://news.ycombinator.com/item?id=35555098) - [China&#x27;s Video Game AI Art Crisis: 40x Productivity Spike, 70% Job Loss](https://www.artisana.ai/articles/chinas-video-game-ai-art-crisis-40x-productivity-spike-70-job-loss)
 * [2023-04-13, 13:07:21](https://news.ycombinator.com/item?id=35554824) - [Amazon Titan](https://aws.amazon.com/bedrock/titan/)
