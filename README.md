@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-13, 22:14:11](https://news.ycombinator.com/item?id=35562844) - [Chipotle plans to ditch gas grills at 100 new locations](https://www.theverge.com/2023/4/12/23680207/chipotle-gas-grill-electric-stove-climate-change)
+* [2023-04-13, 22:56:51](https://news.ycombinator.com/item?id=35563284) - [Popular porn site must delete all amateur videos posted without consent](https://arstechnica.com/tech-policy/2023/04/popular-porn-site-must-delete-all-amateur-videos-posted-without-consent/)
 * [2023-04-13, 22:11:43](https://news.ycombinator.com/item?id=35562821) - [Auto-GPT Unmasked: The Hype and Hard Truths of Its Production Pitfalls](https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls)
 * [2023-04-13, 22:10:20](https://news.ycombinator.com/item?id=35562807) - [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
 * [2023-04-13, 21:37:26](https://news.ycombinator.com/item?id=35562430) - [SQL: 2023 is finished: Here is what&#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
