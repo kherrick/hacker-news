@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 08:02:39](https://news.ycombinator.com/item?id=35552393) - [20-hour Auto Engineering Video Course from How a Car Works](https://www.howacarworks.com/video-course)
 * [2023-04-13, 08:00:13](https://news.ycombinator.com/item?id=35552378) - [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)
 * [2023-04-13, 06:37:25](https://news.ycombinator.com/item?id=35551870) - [ESA – Jupiter Icy Moons Explorer: Live Launch](https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch)
 * [2023-04-13, 06:36:42](https://news.ycombinator.com/item?id=35551868) - [How Big Is Mexico?](https://vividmaps.com/mexico/)
