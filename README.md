@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 10:34:44](https://news.ycombinator.com/item?id=35553421) - [Google&#x27;s 2023 Shutdown Spree: 6 Products Pulled in Just 4 Months](https://toolhub.tech/blog/Google-2023-Shutdown-Spree-6-Products-Pulled-in-Just-4-Months/)
 * [2023-04-13, 10:19:39](https://news.ycombinator.com/item?id=35553337) - [YouTube-Dl Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
+* [2023-04-13, 08:57:14](https://news.ycombinator.com/item?id=35552768) - [Who Is Running Stanford?](https://stanforddaily.com/2023/04/10/letter-to-the-editor-who-is-running-stanford/)
 * [2023-04-13, 08:02:39](https://news.ycombinator.com/item?id=35552393) - [20-hour Auto Engineering Video Course from How a Car Works](https://www.howacarworks.com/video-course)
 * [2023-04-13, 08:00:13](https://news.ycombinator.com/item?id=35552378) - [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)
 * [2023-04-13, 06:37:25](https://news.ycombinator.com/item?id=35551870) - [ESA – Jupiter Icy Moons Explorer: Live Launch](https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch)
@@ -19,8 +21,6 @@
 * [2023-04-12, 21:01:31](https://news.ycombinator.com/item?id=35546845) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2023-04-12, 20:59:15](https://news.ycombinator.com/item?id=35546804) - [Joblib: Running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/index.html)
 * [2023-04-12, 19:54:43](https://news.ycombinator.com/item?id=35545817) - [On a great interview question](https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942)
-* [2023-04-12, 18:53:11](https://news.ycombinator.com/item?id=35544851) - [Experimenting with LLMs to Research, Reflect, and Plan](https://eugeneyan.com/writing/llm-experiments/)
-* [2023-04-12, 17:56:14](https://news.ycombinator.com/item?id=35543893) - [The U.S. cracked a $3.4B crypto heist and Bitcoin’s anonymity](https://www.wsj.com/articles/bitcoin-blockchain-hacking-arrests-93a4cb29)
 * [2023-04-12, 17:44:08](https://news.ycombinator.com/item?id=35543668) - [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
 * [2023-04-12, 13:39:05](https://news.ycombinator.com/item?id=35539464) - [FerretDB: open-source MongoDB alternative](https://blog.ferretdb.io/ferretdb-1-0-ga-opensource-mongodb-alternative/)
 * [2023-04-12, 13:25:10](https://news.ycombinator.com/item?id=35539255) - [Why Janet?](https://ianthehenry.com/posts/why-janet/)
