@@ -2,6 +2,7 @@
 
 * [2023-04-13, 16:07:45](https://news.ycombinator.com/item?id=35557630) - [Mary Quant, ‘60s designer who invented the miniskirt, dead at 93](https://nypost.com/2023/04/13/mary-quant-designer-who-invented-the-miniskirt-dead-at-93/)
 * [2023-04-13, 16:05:14](https://news.ycombinator.com/item?id=35557583) - [Leader of Online Group Where Secret Documents Leaked Is Air National Guardsman](https://www.nytimes.com/2023/04/13/world/documents-leak-leaker-identity.html)
+* [2023-04-13, 15:47:25](https://news.ycombinator.com/item?id=35557256) - [OpenAI API keys leaking through app binaries](https://twitter.com/cyrilzakka/status/1646532570597982208)
 * [2023-04-13, 15:38:01](https://news.ycombinator.com/item?id=35557103) - [European privacy watchdog creates ChatGPT task force](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/)
 * [2023-04-13, 15:25:23](https://news.ycombinator.com/item?id=35556899) - [Joe Rogan Issues Warning After AI-Generated Version of His Podcast Surfaces](https://www.zerohedge.com/political/joe-rogan-issues-warning-after-ai-generated-version-his-podcast-surfaces)
 * [2023-04-13, 14:35:14](https://news.ycombinator.com/item?id=35556110) - [The science behind California&#x27;s wet winter, in maps](https://www.washingtonpost.com/weather/2023/04/07/california-extreme-winter-storms-snow-climate/)
@@ -18,7 +19,6 @@
 * [2023-04-13, 12:18:57](https://news.ycombinator.com/item?id=35554276) - [South Korea to give $490 allowance to reclusive youths to help them leave house](https://www.theguardian.com/world/2023/apr/13/south-korea-to-give-490-allowance-to-reclusive-youths-to-help-them-leave-the-house)
 * [2023-04-13, 12:18:32](https://news.ycombinator.com/item?id=35554270) - [Apple will use 100 percent recycled cobalt in batteries by 2025](https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/)
 * [2023-04-13, 12:01:51](https://news.ycombinator.com/item?id=35554109) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
-* [2023-04-13, 11:34:32](https://news.ycombinator.com/item?id=35553870) - [Andrew Carnegie Turned His Fortune into a Library Legacy (2013)](https://www.npr.org/2013/08/01/207272849/how-andrew-carnegie-turned-his-fortune-into-a-library-legacy)
 * [2023-04-13, 10:19:39](https://news.ycombinator.com/item?id=35553337) - [YouTube-DL Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
 * [2023-04-13, 08:02:39](https://news.ycombinator.com/item?id=35552393) - [The art of auto engineering](https://www.howacarworks.com/video-course)
 * [2023-04-13, 08:00:13](https://news.ycombinator.com/item?id=35552378) - [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)
