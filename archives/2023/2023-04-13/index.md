@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 12:38:09](https://news.ycombinator.com/item?id=35554460) - [Amazon CodeWhisperer, Free for Individual Use, Is Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
 * [2023-04-13, 12:38:08](https://news.ycombinator.com/item?id=35554459) - [World&#x27;s largest banknote printer says printing money isn&#x27;t profitable anymore](https://www.businessinsider.com/world-largest-banknote-printer-de-la-rue-issues-profit-warning-2023-4)
 * [2023-04-13, 12:32:16](https://news.ycombinator.com/item?id=35554397) - [Germany to switch off last remaining nuclear power plants](https://www.ft.com/content/24247417-2a69-47ab-bab3-b81befad8335)
 * [2023-04-13, 12:18:32](https://news.ycombinator.com/item?id=35554270) - [Apple will use 100 percent recycled cobalt in batteries by 2025](https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/)

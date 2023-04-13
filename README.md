@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 12:38:09](https://news.ycombinator.com/item?id=35554460) - [Amazon CodeWhisperer, Free for Individual Use, Is Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
 * [2023-04-13, 12:38:08](https://news.ycombinator.com/item?id=35554459) - [World&#x27;s largest banknote printer says printing money isn&#x27;t profitable anymore](https://www.businessinsider.com/world-largest-banknote-printer-de-la-rue-issues-profit-warning-2023-4)
 * [2023-04-13, 12:32:16](https://news.ycombinator.com/item?id=35554397) - [Germany to switch off last remaining nuclear power plants](https://www.ft.com/content/24247417-2a69-47ab-bab3-b81befad8335)
 * [2023-04-13, 12:18:32](https://news.ycombinator.com/item?id=35554270) - [Apple will use 100 percent recycled cobalt in batteries by 2025](https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/)
@@ -16,7 +17,6 @@
 * [2023-04-13, 06:31:42](https://news.ycombinator.com/item?id=35551830) - [We achieved a 6-fold increase in Podman startup speed](https://www.redhat.com/sysadmin/speed-containers-podman-raspberry-pi)
 * [2023-04-13, 03:31:02](https://news.ycombinator.com/item?id=35550567) - [Do you need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
 * [2023-04-13, 03:26:33](https://news.ycombinator.com/item?id=35550530) - [Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2)
-* [2023-04-13, 02:45:33](https://news.ycombinator.com/item?id=35550240) - [What you give up by moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
 * [2023-04-13, 00:24:21](https://news.ycombinator.com/item?id=35549116) - [Lindows 4.0 (2003)](https://baturin.org/misc/software-reviews/lindows/)
 * [2023-04-13, 00:03:46](https://news.ycombinator.com/item?id=35548911) - [Mathematicians find hidden structure in a common type of space](https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/)
 * [2023-04-12, 22:19:55](https://news.ycombinator.com/item?id=35547819) - [SQLite performance tuning: concurrent reads, multiple GBs and 100k SELECTs&#x2F;s](https://phiresky.github.io/blog/2020/sqlite-performance-tuning/)
