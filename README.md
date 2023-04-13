@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 17:33:46](https://news.ycombinator.com/item?id=35559076) - [Hackers claim vast access to Western Digital systems](https://techcrunch.com/2023/04/13/hackers-claim-vast-access-to-western-digital-systems/)
 * [2023-04-13, 17:02:14](https://news.ycombinator.com/item?id=35558539) - [Kraftful (YC S19) Hiring Back End Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/)
-* [2023-04-13, 17:01:24](https://news.ycombinator.com/item?id=35558522) - [Segment Anything Model and the Hard Problems of Computer Vision](https://www.latent.space/p/segment-anything-roboflow#details)
+* [2023-04-13, 17:01:24](https://news.ycombinator.com/item?id=35558522) - [Segment Anything Model and the hard problems of computer vision](https://www.latent.space/p/segment-anything-roboflow#details)
 * [2023-04-13, 16:07:45](https://news.ycombinator.com/item?id=35557630) - [Mary Quant, ‘60s designer who invented the miniskirt, dead at 93](https://nypost.com/2023/04/13/mary-quant-designer-who-invented-the-miniskirt-dead-at-93/)
 * [2023-04-13, 16:05:14](https://news.ycombinator.com/item?id=35557583) - [Leader of Online Group Where Secret Documents Leaked Is Air National Guardsman](https://www.nytimes.com/2023/04/13/world/documents-leak-leaker-identity.html)
 * [2023-04-13, 15:47:25](https://news.ycombinator.com/item?id=35557256) - [OpenAI API keys leaking through app binaries](https://twitter.com/cyrilzakka/status/1646532570597982208)
@@ -15,6 +16,7 @@
 * [2023-04-13, 13:50:04](https://news.ycombinator.com/item?id=35555432) - [A New Approach to Computation Reimagines Artificial Intelligence](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/)
 * [2023-04-13, 13:39:21](https://news.ycombinator.com/item?id=35555274) - [Ageing studies in five animals suggests how to reverse decline](https://www.nature.com/articles/d41586-023-01040-x)
 * [2023-04-13, 13:38:28](https://news.ycombinator.com/item?id=35555263) - [Supabase Auth: SSO, Mobile, and Server-Side Support](https://supabase.com/blog/supabase-auth-sso-pkce)
+* [2023-04-13, 13:07:21](https://news.ycombinator.com/item?id=35554824) - [Amazon Titan](https://aws.amazon.com/bedrock/titan/)
 * [2023-04-13, 13:06:46](https://news.ycombinator.com/item?id=35554815) - [Deploying key transparency at WhatsApp](https://engineering.fb.com/2023/04/13/security/whatsapp-key-transparency/)
 * [2023-04-13, 12:38:09](https://news.ycombinator.com/item?id=35554460) - [Amazon CodeWhisperer, Free for Individual Use, Is Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
 * [2023-04-13, 12:33:46](https://news.ycombinator.com/item?id=35554413) - [GitHub Accelerator: our first cohort and what’s next](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/)
@@ -26,10 +28,8 @@
 * [2023-04-13, 06:37:25](https://news.ycombinator.com/item?id=35551870) - [ESA – Jupiter Icy Moons Explorer: Live Launch](https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch)
 * [2023-04-13, 06:31:42](https://news.ycombinator.com/item?id=35551830) - [We achieved a 6-fold increase in Podman startup speed](https://www.redhat.com/sysadmin/speed-containers-podman-raspberry-pi)
 * [2023-04-13, 03:31:02](https://news.ycombinator.com/item?id=35550567) - [Do you need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
-* [2023-04-12, 17:44:08](https://news.ycombinator.com/item?id=35543668) - [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
 * [2023-04-12, 13:25:10](https://news.ycombinator.com/item?id=35539255) - [Why Janet?](https://ianthehenry.com/posts/why-janet/)
 * [2023-04-12, 10:55:44](https://news.ycombinator.com/item?id=35537662) - [The Education of a Computer (1952)](https://fermatslibrary.com/s/the-education-of-a-computer)
-* [2023-04-12, 05:32:30](https://news.ycombinator.com/item?id=35535404) - [Pedagogical Downsides of Haskell](https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell)
 
 ## [Archives](archives/index.md)
 
