@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 15:08:52](https://news.ycombinator.com/item?id=35556644) - [Gig Workers Are Being Stabbed, Stoned, and Abused in India](https://www.wired.com/story/india-gig-workers-violence-deadly-attacks/)
 * [2023-04-13, 14:35:14](https://news.ycombinator.com/item?id=35556110) - [The science behind California&#x27;s wet winter, in maps](https://www.washingtonpost.com/weather/2023/04/07/california-extreme-winter-storms-snow-climate/)
+* [2023-04-13, 14:35:06](https://news.ycombinator.com/item?id=35556108) - [In Support of Richard Stallman](https://stallmansupport.org/richard-stallman-commitment-to-social-justice.html)
+* [2023-04-13, 14:16:52](https://news.ycombinator.com/item?id=35555819) - [Pentagon leak leads to limits on who gets access to military’s top secrets](https://www.cnn.com/2023/04/13/politics/pentagon-leaks-limit-access-military-secrets/index.html)
 * [2023-04-13, 13:56:25](https://news.ycombinator.com/item?id=35555525) - [Arrest made in Bob Lee case. Alleged killer also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
 * [2023-04-13, 13:53:20](https://news.ycombinator.com/item?id=35555481) - [916 Days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 13:53:11](https://news.ycombinator.com/item?id=35555475) - [Mac Keyboard with Hidutil](https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html)
@@ -22,13 +25,10 @@
 * [2023-04-13, 06:31:42](https://news.ycombinator.com/item?id=35551830) - [We achieved a 6-fold increase in Podman startup speed](https://www.redhat.com/sysadmin/speed-containers-podman-raspberry-pi)
 * [2023-04-13, 03:31:02](https://news.ycombinator.com/item?id=35550567) - [Do you need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
 * [2023-04-13, 03:26:33](https://news.ycombinator.com/item?id=35550530) - [Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2)
-* [2023-04-13, 00:03:46](https://news.ycombinator.com/item?id=35548911) - [Mathematicians find hidden structure in a common type of space](https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/)
-* [2023-04-12, 21:35:48](https://news.ycombinator.com/item?id=35547316) - [Use io_uring for network I&#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
 * [2023-04-12, 17:44:08](https://news.ycombinator.com/item?id=35543668) - [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
 * [2023-04-12, 13:25:10](https://news.ycombinator.com/item?id=35539255) - [Why Janet?](https://ianthehenry.com/posts/why-janet/)
 * [2023-04-12, 11:43:13](https://news.ycombinator.com/item?id=35538104) - [The Goddess and the Rose](https://worldsensorium.com/the-goddess-and-the-rose/)
 * [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
-* [2023-04-12, 05:37:22](https://news.ycombinator.com/item?id=35535430) - [Could the dodo come back from extinction?](https://www.discoverwildlife.com/animal-facts/could-the-dodo-come-back-from-extinction/)
 * [2023-04-11, 12:05:56](https://news.ycombinator.com/item?id=35523948) - [A number system invented by Inuit schoolchildren](https://www.scientificamerican.com/article/a-number-system-invented-by-inuit-schoolchildren-will-make-its-silicon-valley-debut/)
 
 ## [Archives](archives/index.md)
