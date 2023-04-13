@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-13, 22:11:43](https://news.ycombinator.com/item?id=35562821) - [Auto-GPT Unmasked: The Hype and Hard Truths of Its Production Pitfalls](https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls)
-* [2023-04-13, 21:38:44](https://news.ycombinator.com/item?id=35562441) - [Japan’s population drops by half a million in 2022](https://www.cnn.com/2023/04/13/asia/japan-population-decline-record-drop-intl-hnk/index.html)
+* [2023-04-13, 22:01:41](https://news.ycombinator.com/item?id=35562705) - [Could Ice Cream Possibly Be Good for You?](https://www.theatlantic.com/magazine/archive/2023/05/ice-cream-bad-for-you-health-study/673487/)
+* [2023-04-13, 21:37:26](https://news.ycombinator.com/item?id=35562430) - [SQL: 2023 is finished: Here is what&#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
 * [2023-04-13, 21:31:47](https://news.ycombinator.com/item?id=35562353) - [A Map of Places in the US with the Same Name](https://pudding.cool/2023/03/same-name/)
 * [2023-04-13, 21:22:40](https://news.ycombinator.com/item?id=35562230) - [Consent-O-Matic: Automatic cookie management](https://consentomatic.au.dk/)
 * [2023-04-13, 20:56:02](https://news.ycombinator.com/item?id=35561948) - [Camus&#x27;s New York Diary (1946)](https://www.theparisreview.org/blog/2023/03/14/camuss-new-york-diary-1946/)
@@ -12,7 +13,6 @@
 * [2023-04-13, 19:10:18](https://news.ycombinator.com/item?id=35560577) - [Don’t record your social life on an append-only social network (2022)](https://www.ctrl.blog/entry/append-only-social.html)
 * [2023-04-13, 18:29:04](https://news.ycombinator.com/item?id=35559925) - [Elixir and Rust is a good mix](https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/)
 * [2023-04-13, 18:11:30](https://news.ycombinator.com/item?id=35559646) - [Surpassing 10Gb&#x2F;S over Tailscale](https://tailscale.com/blog/more-throughput/)
-* [2023-04-13, 18:10:50](https://news.ycombinator.com/item?id=35559634) - [WeVPN Is Shutting Down](https://wevpn.com/)
 * [2023-04-13, 17:38:22](https://news.ycombinator.com/item?id=35559145) - [Warm liquid from Oregon seafloor comes from Cascadia fault](https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafloor-comes-from-cascadia-fault-could-offer-clues-to-earthquake-hazards/)
 * [2023-04-13, 17:36:39](https://news.ycombinator.com/item?id=35559124) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
 * [2023-04-13, 17:33:46](https://news.ycombinator.com/item?id=35559076) - [Hackers claim vast access to Western Digital systems](https://techcrunch.com/2023/04/13/hackers-claim-vast-access-to-western-digital-systems/)
