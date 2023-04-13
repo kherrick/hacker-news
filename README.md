@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 04:04:47](https://news.ycombinator.com/item?id=35550803) - [The V Programming Language](https://vlang.io/)
 * [2023-04-13, 04:02:39](https://news.ycombinator.com/item?id=35550786) - [Kids Toys Suck (2011)](http://jesda.com/2011/02/10/kids-toys-suck/)
 * [2023-04-13, 03:08:37](https://news.ycombinator.com/item?id=35550419) - [What GPT-4 Does Is Less Like “Figuring Out” and More Like “Already Knowing”](https://amistrongeryet.substack.com/p/gpt-4-capabilities)
 * [2023-04-13, 02:59:30](https://news.ycombinator.com/item?id=35550342) - [Intel exiting its longtime server business](https://www.servethehome.com/breaking-intel-exiting-the-server-business-selling-to-mitac/)
@@ -19,7 +20,6 @@
 * [2023-04-12, 17:56:14](https://news.ycombinator.com/item?id=35543893) - [The U.S. cracked a $3.4B crypto heist and Bitcoin’s anonymity](https://www.wsj.com/articles/bitcoin-blockchain-hacking-arrests-93a4cb29)
 * [2023-04-12, 17:44:08](https://news.ycombinator.com/item?id=35543668) - [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
 * [2023-04-12, 15:59:02](https://news.ycombinator.com/item?id=35541861) - [Databricks Releases 15K Record Training Corpus for Instruction Tuning LLMs](https://github.com/databrickslabs/dolly/tree/master/data)
-* [2023-04-12, 13:39:05](https://news.ycombinator.com/item?id=35539464) - [FerretDB: open-source MongoDB alternative](https://blog.ferretdb.io/ferretdb-1-0-ga-opensource-mongodb-alternative/)
 * [2023-04-12, 13:25:10](https://news.ycombinator.com/item?id=35539255) - [Why Janet?](https://ianthehenry.com/posts/why-janet/)
 * [2023-04-12, 13:09:49](https://news.ycombinator.com/item?id=35539057) - [Intel Foundry Services and Arm announce collaboration on SoC design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
 * [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)

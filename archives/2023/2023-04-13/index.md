@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 04:04:47](https://news.ycombinator.com/item?id=35550803) - [The V Programming Language](https://vlang.io/)
 * [2023-04-13, 04:02:39](https://news.ycombinator.com/item?id=35550786) - [Kids Toys Suck (2011)](http://jesda.com/2011/02/10/kids-toys-suck/)
 * [2023-04-13, 03:59:22](https://news.ycombinator.com/item?id=35550761) - [Take Control of Your $Home](https://getfleek.dev/)
 * [2023-04-13, 03:08:37](https://news.ycombinator.com/item?id=35550419) - [What GPT-4 Does Is Less Like “Figuring Out” and More Like “Already Knowing”](https://amistrongeryet.substack.com/p/gpt-4-capabilities)
