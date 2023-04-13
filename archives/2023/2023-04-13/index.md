@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 21:22:40](https://news.ycombinator.com/item?id=35562230) - [Consent-O-Matic: Automatic cookie management](https://consentomatic.au.dk/)
+* [2023-04-13, 20:56:02](https://news.ycombinator.com/item?id=35561948) - [Camus&#x27;s New York Diary (1946)](https://www.theparisreview.org/blog/2023/03/14/camuss-new-york-diary-1946/)
 * [2023-04-13, 20:44:25](https://news.ycombinator.com/item?id=35561809) - [There’s no universal cordless power tool battery – why?](https://toolguyd.com/universal-cordless-power-tool-battery/)
 * [2023-04-13, 20:40:25](https://news.ycombinator.com/item?id=35561747) - [GPT Unicorn: A Daily Exploration of GPT-4&#x27;s Image Generation Capabilities](https://adamkdean.co.uk/posts/gpt-unicorn-a-daily-exploration-of-gpt-4s-image-generation-capabilities)
 * [2023-04-13, 20:19:08](https://news.ycombinator.com/item?id=35561520) - [Is GPT-4 Worth the Subscription? Here’s What You Should Know](https://www.wired.com/story/what-is-chatgpt-plus-gpt4-openai/)
