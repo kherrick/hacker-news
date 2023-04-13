@@ -6,6 +6,7 @@
 
 * [2023-04-13, 20:44:25](https://news.ycombinator.com/item?id=35561809) - [There’s no universal cordless power tool battery – why?](https://toolguyd.com/universal-cordless-power-tool-battery/)
 * [2023-04-13, 20:40:25](https://news.ycombinator.com/item?id=35561747) - [GPT Unicorn: A Daily Exploration of GPT-4&#x27;s Image Generation Capabilities](https://adamkdean.co.uk/posts/gpt-unicorn-a-daily-exploration-of-gpt-4s-image-generation-capabilities)
+* [2023-04-13, 20:19:08](https://news.ycombinator.com/item?id=35561520) - [Is GPT-4 Worth the Subscription? Here’s What You Should Know](https://www.wired.com/story/what-is-chatgpt-plus-gpt4-openai/)
 * [2023-04-13, 20:15:48](https://news.ycombinator.com/item?id=35561485) - [Robotic deep RL at scale: Sorting waste and recyclables with a fleet of robots](https://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html)
 * [2023-04-13, 20:12:03](https://news.ycombinator.com/item?id=35561447) - [Someone Asked an Autonomous AI to &#x27;Destroy Humanity&#x27;](https://www.vice.com/en/article/93kw7p/someone-asked-an-autonomous-ai-to-destroy-humanity-this-is-what-happened)
 * [2023-04-13, 19:10:18](https://news.ycombinator.com/item?id=35560577) - [Don’t record your social life on an append-only social network](https://www.ctrl.blog/entry/append-only-social.html)
