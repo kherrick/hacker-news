@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 13:26:38](https://news.ycombinator.com/item?id=35555098) - [China&#x27;s Video Game AI Art Crisis: 40x Productivity Spike, 70% Job Loss](https://www.artisana.ai/articles/chinas-video-game-ai-art-crisis-40x-productivity-spike-70-job-loss)
 * [2023-04-13, 13:07:21](https://news.ycombinator.com/item?id=35554824) - [Amazon Titan](https://aws.amazon.com/bedrock/titan/)
 * [2023-04-13, 13:06:46](https://news.ycombinator.com/item?id=35554815) - [WhatsApp announces key transparency being added to WhatsApp](https://engineering.fb.com/2023/04/13/security/whatsapp-key-transparency/)
 * [2023-04-13, 12:38:09](https://news.ycombinator.com/item?id=35554460) - [Amazon CodeWhisperer, Free for Individual Use, Is Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
@@ -18,10 +19,9 @@
 * [2023-04-13, 06:31:42](https://news.ycombinator.com/item?id=35551830) - [We achieved a 6-fold increase in Podman startup speed](https://www.redhat.com/sysadmin/speed-containers-podman-raspberry-pi)
 * [2023-04-13, 03:31:02](https://news.ycombinator.com/item?id=35550567) - [Do you need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
 * [2023-04-13, 03:26:33](https://news.ycombinator.com/item?id=35550530) - [Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2)
-* [2023-04-13, 01:12:16](https://news.ycombinator.com/item?id=35549521) - [Long Live the Free Software Foundation](https://www.concernednetizen.com/2023/04/long-live-the-free-software-foundation/)
+* [2023-04-13, 02:45:33](https://news.ycombinator.com/item?id=35550240) - [What you give up by moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
 * [2023-04-13, 00:24:21](https://news.ycombinator.com/item?id=35549116) - [Lindows 4.0 (2003)](https://baturin.org/misc/software-reviews/lindows/)
 * [2023-04-13, 00:03:46](https://news.ycombinator.com/item?id=35548911) - [Mathematicians find hidden structure in a common type of space](https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/)
-* [2023-04-12, 22:19:55](https://news.ycombinator.com/item?id=35547819) - [SQLite performance tuning: concurrent reads, multiple GBs and 100k SELECTs&#x2F;s](https://phiresky.github.io/blog/2020/sqlite-performance-tuning/)
 * [2023-04-12, 21:35:48](https://news.ycombinator.com/item?id=35547316) - [Use io_uring for network I&#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
 * [2023-04-12, 17:44:08](https://news.ycombinator.com/item?id=35543668) - [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
 * [2023-04-12, 13:25:10](https://news.ycombinator.com/item?id=35539255) - [Why Janet?](https://ianthehenry.com/posts/why-janet/)

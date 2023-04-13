@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 13:26:38](https://news.ycombinator.com/item?id=35555098) - [China&#x27;s Video Game AI Art Crisis: 40x Productivity Spike, 70% Job Loss](https://www.artisana.ai/articles/chinas-video-game-ai-art-crisis-40x-productivity-spike-70-job-loss)
 * [2023-04-13, 13:07:21](https://news.ycombinator.com/item?id=35554824) - [Amazon Titan](https://aws.amazon.com/bedrock/titan/)
 * [2023-04-13, 13:06:46](https://news.ycombinator.com/item?id=35554815) - [WhatsApp announces key transparency being added to WhatsApp](https://engineering.fb.com/2023/04/13/security/whatsapp-key-transparency/)
 * [2023-04-13, 12:38:09](https://news.ycombinator.com/item?id=35554460) - [Amazon CodeWhisperer, Free for Individual Use, Is Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
