@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 20:12:03](https://news.ycombinator.com/item?id=35561447) - [Someone Asked an Autonomous AI to &#x27;Destroy Humanity&#x27;](https://www.vice.com/en/article/93kw7p/someone-asked-an-autonomous-ai-to-destroy-humanity-this-is-what-happened)
 * [2023-04-13, 19:10:18](https://news.ycombinator.com/item?id=35560577) - [Don’t record your social life on an append-only social network](https://www.ctrl.blog/entry/append-only-social.html)
 * [2023-04-13, 18:55:41](https://news.ycombinator.com/item?id=35560344) - [Whitepaper: Current Best Practices for Training LLMs from Scratch](http://wandb.me/LLMwhitepaper)
 * [2023-04-13, 18:35:14](https://news.ycombinator.com/item?id=35560019) - [What Kind of Mind Does ChatGPT Have?](https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of-mind-does-chatgpt-have)

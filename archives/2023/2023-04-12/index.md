@@ -54,6 +54,7 @@
 * [2023-04-12, 13:52:54](https://news.ycombinator.com/item?id=35539675) - [U.S. Inflation Eased to 5% in March](https://www.wsj.com/articles/us-inflation-march-2023-consumer-price-index-fa6eba99)
 * [2023-04-12, 13:39:05](https://news.ycombinator.com/item?id=35539464) - [FerretDB, a truly open-source MongoDB alternative](https://blog.ferretdb.io/ferretdb-1-0-ga-opensource-mongodb-alternative/)
 * [2023-04-12, 13:38:10](https://news.ycombinator.com/item?id=35539447) - [Points on Cartooning by George Carlson (1937)](http://mikelynchcartoons.blogspot.com/2023/04/how-to-cartoon-book-points-on.html)
+* [2023-04-12, 13:31:03](https://news.ycombinator.com/item?id=35539348) - [How to play mumble-the-peg, mumchance, and hurling to the country](https://www.laphamsquarterly.org/roundtable/rules-games-tudor-england)
 * [2023-04-12, 13:26:38](https://news.ycombinator.com/item?id=35539280) - [NPR quits Twitter after being labeled as &#x27;state-affiliated media&#x27;](https://www.wbur.org/npr/1169269161/npr-leaves-twitter-government-funded-media-label)
 * [2023-04-12, 13:25:10](https://news.ycombinator.com/item?id=35539255) - [Why Janet?](https://ianthehenry.com/posts/why-janet/)
 * [2023-04-12, 13:12:10](https://news.ycombinator.com/item?id=35539085) - [Free Dolly: Introducing the First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
