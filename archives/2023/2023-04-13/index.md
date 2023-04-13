@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
 * [2023-04-13, 22:11:43](https://news.ycombinator.com/item?id=35562821) - [Auto-GPT Unmasked: The Hype and Hard Truths of Its Production Pitfalls](https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls)
+* [2023-04-13, 22:10:20](https://news.ycombinator.com/item?id=35562807) - [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
 * [2023-04-13, 22:01:41](https://news.ycombinator.com/item?id=35562705) - [Could Ice Cream Possibly Be Good for You?](https://www.theatlantic.com/magazine/archive/2023/05/ice-cream-bad-for-you-health-study/673487/)
 * [2023-04-13, 21:38:44](https://news.ycombinator.com/item?id=35562441) - [Japan’s population drops by half a million in 2022](https://www.cnn.com/2023/04/13/asia/japan-population-decline-record-drop-intl-hnk/index.html)
 * [2023-04-13, 21:37:26](https://news.ycombinator.com/item?id=35562430) - [SQL: 2023 is finished: Here is what&#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
+* [2023-04-13, 21:32:03](https://news.ycombinator.com/item?id=35562357) - [Shifting the Balance of Cybersecurity Risk: Security-by-Design and -Default [pdf]](https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf)
 * [2023-04-13, 21:31:47](https://news.ycombinator.com/item?id=35562353) - [A Map of Places in the US with the Same Name](https://pudding.cool/2023/03/same-name/)
 * [2023-04-13, 21:22:40](https://news.ycombinator.com/item?id=35562230) - [Consent-O-Matic: Automatic cookie management](https://consentomatic.au.dk/)
 * [2023-04-13, 20:56:02](https://news.ycombinator.com/item?id=35561948) - [Camus&#x27;s New York Diary (1946)](https://www.theparisreview.org/blog/2023/03/14/camuss-new-york-diary-1946/)
