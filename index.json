@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-04-13, 04:49:39",
-      "https://news.ycombinator.com/item?id=35551068"
-    ],
-    [
-      "FTX Discovers $7.3B in Assets",
-      "https://solanafloor.com/news/ftx-discovers-7-3-billion-in-assets-after-bankruptcy"
-    ]
-  ],
-  [
-    [
       "2023-04-13, 04:02:39",
       "https://news.ycombinator.com/item?id=35550786"
     ],
@@ -41,6 +31,16 @@
   ],
   [
     [
+      "2023-04-13, 03:26:33",
+      "https://news.ycombinator.com/item?id=35550530"
+    ],
+    [
+      "Running Dolly 2.0 on Paperspace",
+      "https://til.simonwillison.net/llms/dolly-2"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 03:02:53",
       "https://news.ycombinator.com/item?id=35550377"
     ],
@@ -67,16 +67,6 @@
     [
       "What you give up by moving into engineering management",
       "https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 00:45:25",
-      "https://news.ycombinator.com/item?id=35549322"
-    ],
-    [
-      "Was your degree really worth it?",
-      "https://www.economist.com/international/2023/04/03/was-your-degree-really-worth-it"
     ]
   ],
   [
@@ -171,12 +161,32 @@
   ],
   [
     [
+      "2023-04-12, 20:29:08",
+      "https://news.ycombinator.com/item?id=35546341"
+    ],
+    [
+      "Teaching Large Language Models to Self-Debug",
+      "https://arxiv.org/abs/2304.05128"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 19:54:43",
       "https://news.ycombinator.com/item?id=35545817"
     ],
     [
       "On a great interview question",
       "https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 18:53:11",
+      "https://news.ycombinator.com/item?id=35544851"
+    ],
+    [
+      "Experimenting with LLMs to Research, Reflect, and Plan",
+      "https://eugeneyan.com/writing/llm-experiments/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Displaying my washing machine&#x27;s remaining time with curl, jq, and pizauth",
       "https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 05:49:28",
-      "https://news.ycombinator.com/item?id=35521327"
-    ],
-    [
-      "Conversation with Larry Masinter about standardizing Common Lisp",
-      "https://irclog.tymoon.eu/libera/%23commonlisp?to=1681213754"
     ]
   ],
   [
