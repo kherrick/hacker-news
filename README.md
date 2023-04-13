@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 18:35:14](https://news.ycombinator.com/item?id=35560019) - [What Kind of Mind Does ChatGPT Have?](https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of-mind-does-chatgpt-have)
 * [2023-04-13, 18:29:04](https://news.ycombinator.com/item?id=35559925) - [Elixir and Rust is a good mix](https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/)
 * [2023-04-13, 18:26:58](https://news.ycombinator.com/item?id=35559890) - [Pulumi Insights – AI generated IaC programs](https://www.pulumi.com/blog/pulumi-insights/)
 * [2023-04-13, 18:24:34](https://news.ycombinator.com/item?id=35559862) - [California is a rooftop solar giant. New rules could change that](https://www.canarymedia.com/articles/solar/california-is-a-rooftop-solar-giant-new-rules-could-change-that)
@@ -22,7 +23,6 @@
 * [2023-04-13, 13:06:46](https://news.ycombinator.com/item?id=35554815) - [Deploying key transparency at WhatsApp](https://engineering.fb.com/2023/04/13/security/whatsapp-key-transparency/)
 * [2023-04-13, 12:38:09](https://news.ycombinator.com/item?id=35554460) - [Amazon CodeWhisperer, Free for Individual Use, Is Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
 * [2023-04-13, 12:33:46](https://news.ycombinator.com/item?id=35554413) - [GitHub Accelerator: our first cohort and what’s next](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/)
-* [2023-04-13, 12:18:32](https://news.ycombinator.com/item?id=35554270) - [Apple will use 100 percent recycled cobalt in batteries by 2025](https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/)
 * [2023-04-13, 08:02:39](https://news.ycombinator.com/item?id=35552393) - [The art of auto engineering](https://www.howacarworks.com/video-course)
 * [2023-04-13, 08:00:13](https://news.ycombinator.com/item?id=35552378) - [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)
 * [2023-04-13, 06:37:25](https://news.ycombinator.com/item?id=35551870) - [ESA – Jupiter Icy Moons Explorer: Live Launch](https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch)
