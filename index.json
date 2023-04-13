@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-04-13, 02:59:30",
+      "https://news.ycombinator.com/item?id=35550342"
+    ],
+    [
+      "Breaking Intel Exiting the Server Business Selling to MiTAC",
+      "https://www.servethehome.com/breaking-intel-exiting-the-server-business-selling-to-mitac/"
+    ]
+  ],
+  [
+    [
+      "2023-04-13, 02:45:33",
+      "https://news.ycombinator.com/item?id=35550240"
+    ],
+    [
+      "What you give up by moving into engineering management",
+      "https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 02:38:56",
       "https://news.ycombinator.com/item?id=35550194"
     ],
     [
       "Leaker of U.S. secret documents worked on military base, friend says",
       "https://www.washingtonpost.com/national-security/2023/04/12/discord-leaked-documents/"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 01:55:42",
-      "https://news.ycombinator.com/item?id=35549851"
-    ],
-    [
-      "Tesla’s EV Market Share Is Dropping Fast",
-      "https://jalopnik.com/tesla-us-ev-market-share-is-dropping-fast-1850327204"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Show HN: Twitter API Reverse Engineered",
       "https://github.com/trevorhobenshield/twitter-api-client"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 22:19:55",
-      "https://news.ycombinator.com/item?id=35547819"
-    ],
-    [
-      "SQLite performance tuning: concurrent reads, multiple GBs and 100k SELECTs&#x2F;s",
-      "https://phiresky.github.io/blog/2020/sqlite-performance-tuning/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Teaching Large Language Models to Self-Debug",
       "https://arxiv.org/abs/2304.05128"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 20:01:03",
-      "https://news.ycombinator.com/item?id=35545901"
-    ],
-    [
-      "Meme group on Discord is focus of uproar over leaked Pentagon documents",
-      "https://www.nytimes.com/2023/04/11/business/discord-leaked-military-documents.html"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Steve Roberts: Computing Across America",
       "https://bikepacking.com/plog/steve-roberts-computing-across-america/"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 14:30:12",
+      "https://news.ycombinator.com/item?id=35525680"
+    ],
+    [
+      "The long, slow death of global development",
+      "https://americanaffairsjournal.org/2022/11/the-long-slow-death-of-global-development/"
     ]
   ],
   [
