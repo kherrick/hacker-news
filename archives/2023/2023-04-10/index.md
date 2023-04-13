@@ -71,6 +71,7 @@
 * [2023-04-10, 11:22:27](https://news.ycombinator.com/item?id=35511106) - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-04-10, 11:11:29](https://news.ycombinator.com/item?id=35511052) - [Dashcam Footage Shows Driverless Cars Clogging San Francisco](https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/)
 * [2023-04-10, 11:10:32](https://news.ycombinator.com/item?id=35511047) - [Night of the living brain fog dead or how I hacked myself better via open source](https://decodebytes.substack.com/p/night-of-the-living-brain-fog-dead)
+* [2023-04-10, 10:59:28](https://news.ycombinator.com/item?id=35510985) - [Size Matters: An Exploration of Virtual Memory on iOS](https://alwaysprocessing.blog/2022/02/20/size-matters)
 * [2023-04-10, 10:53:07](https://news.ycombinator.com/item?id=35510949) - [Grep – New kind of search engine](https://grep.help/)
 * [2023-04-10, 10:44:01](https://news.ycombinator.com/item?id=35510899) - [static_assert is all you need (no leaks, no UB)](https://twitter.com/krisjusiak/status/1645360641538945025)
 * [2023-04-10, 10:33:08](https://news.ycombinator.com/item?id=35510851) - [Spotify slapped fired employees with illegal gag order [Translated from Swedish]](https://news.ycombinator.com/item?id=35510851)

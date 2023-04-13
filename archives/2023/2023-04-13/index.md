@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 17:36:39](https://news.ycombinator.com/item?id=35559124) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
 * [2023-04-13, 17:33:46](https://news.ycombinator.com/item?id=35559076) - [Hackers claim vast access to Western Digital systems](https://techcrunch.com/2023/04/13/hackers-claim-vast-access-to-western-digital-systems/)
 * [2023-04-13, 17:02:14](https://news.ycombinator.com/item?id=35558539) - [Kraftful (YC S19) Hiring Back End Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/)
 * [2023-04-13, 17:01:24](https://news.ycombinator.com/item?id=35558522) - [Segment Anything Model and the Hard Problems of Computer Vision](https://www.latent.space/p/segment-anything-roboflow#details)
+* [2023-04-13, 16:53:56](https://news.ycombinator.com/item?id=35558409) - [AI Fear Is Mostly Fear of Future](https://www.overcomingbias.com/p/ai-fear-is-mostly-fear-of-future)
 * [2023-04-13, 16:07:45](https://news.ycombinator.com/item?id=35557630) - [Mary Quant, ‘60s designer who invented the miniskirt, dead at 93](https://nypost.com/2023/04/13/mary-quant-designer-who-invented-the-miniskirt-dead-at-93/)
 * [2023-04-13, 16:05:14](https://news.ycombinator.com/item?id=35557583) - [Leader of Online Group Where Secret Documents Leaked Is Air National Guardsman](https://www.nytimes.com/2023/04/13/world/documents-leak-leaker-identity.html)
 * [2023-04-13, 15:47:25](https://news.ycombinator.com/item?id=35557256) - [OpenAI API keys leaking through app binaries](https://twitter.com/cyrilzakka/status/1646532570597982208)

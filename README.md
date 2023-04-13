@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 17:36:39](https://news.ycombinator.com/item?id=35559124) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
 * [2023-04-13, 17:33:46](https://news.ycombinator.com/item?id=35559076) - [Hackers claim vast access to Western Digital systems](https://techcrunch.com/2023/04/13/hackers-claim-vast-access-to-western-digital-systems/)
 * [2023-04-13, 17:02:14](https://news.ycombinator.com/item?id=35558539) - [Kraftful (YC S19) Hiring Back End Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/)
 * [2023-04-13, 17:01:24](https://news.ycombinator.com/item?id=35558522) - [Segment Anything Model and the hard problems of computer vision](https://www.latent.space/p/segment-anything-roboflow#details)
+* [2023-04-13, 16:53:56](https://news.ycombinator.com/item?id=35558409) - [AI Fear Is Mostly Fear of Future](https://www.overcomingbias.com/p/ai-fear-is-mostly-fear-of-future)
 * [2023-04-13, 16:07:45](https://news.ycombinator.com/item?id=35557630) - [Mary Quant, ‘60s designer who invented the miniskirt, dead at 93](https://nypost.com/2023/04/13/mary-quant-designer-who-invented-the-miniskirt-dead-at-93/)
 * [2023-04-13, 16:05:14](https://news.ycombinator.com/item?id=35557583) - [Leader of Online Group Where Secret Documents Leaked Is Air National Guardsman](https://www.nytimes.com/2023/04/13/world/documents-leak-leaker-identity.html)
 * [2023-04-13, 15:47:25](https://news.ycombinator.com/item?id=35557256) - [OpenAI API keys leaking through app binaries](https://twitter.com/cyrilzakka/status/1646532570597982208)
@@ -15,14 +17,11 @@
 * [2023-04-13, 13:53:11](https://news.ycombinator.com/item?id=35555475) - [Mac Keyboard with Hidutil](https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html)
 * [2023-04-13, 13:50:04](https://news.ycombinator.com/item?id=35555432) - [A New Approach to Computation Reimagines Artificial Intelligence](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/)
 * [2023-04-13, 13:39:21](https://news.ycombinator.com/item?id=35555274) - [Ageing studies in five animals suggests how to reverse decline](https://www.nature.com/articles/d41586-023-01040-x)
-* [2023-04-13, 13:38:28](https://news.ycombinator.com/item?id=35555263) - [Supabase Auth: SSO, Mobile, and Server-Side Support](https://supabase.com/blog/supabase-auth-sso-pkce)
-* [2023-04-13, 13:07:21](https://news.ycombinator.com/item?id=35554824) - [Amazon Titan](https://aws.amazon.com/bedrock/titan/)
 * [2023-04-13, 13:06:46](https://news.ycombinator.com/item?id=35554815) - [Deploying key transparency at WhatsApp](https://engineering.fb.com/2023/04/13/security/whatsapp-key-transparency/)
 * [2023-04-13, 12:38:09](https://news.ycombinator.com/item?id=35554460) - [Amazon CodeWhisperer, Free for Individual Use, Is Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
 * [2023-04-13, 12:33:46](https://news.ycombinator.com/item?id=35554413) - [GitHub Accelerator: our first cohort and what’s next](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/)
 * [2023-04-13, 12:18:57](https://news.ycombinator.com/item?id=35554276) - [South Korea to give $490 allowance to reclusive youths to help them leave house](https://www.theguardian.com/world/2023/apr/13/south-korea-to-give-490-allowance-to-reclusive-youths-to-help-them-leave-the-house)
 * [2023-04-13, 12:18:32](https://news.ycombinator.com/item?id=35554270) - [Apple will use 100 percent recycled cobalt in batteries by 2025](https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/)
-* [2023-04-13, 10:19:39](https://news.ycombinator.com/item?id=35553337) - [YouTube-DL Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
 * [2023-04-13, 08:02:39](https://news.ycombinator.com/item?id=35552393) - [The art of auto engineering](https://www.howacarworks.com/video-course)
 * [2023-04-13, 08:00:13](https://news.ycombinator.com/item?id=35552378) - [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)
 * [2023-04-13, 06:37:25](https://news.ycombinator.com/item?id=35551870) - [ESA – Jupiter Icy Moons Explorer: Live Launch](https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch)
@@ -30,6 +29,7 @@
 * [2023-04-13, 03:31:02](https://news.ycombinator.com/item?id=35550567) - [Do you need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
 * [2023-04-12, 13:25:10](https://news.ycombinator.com/item?id=35539255) - [Why Janet?](https://ianthehenry.com/posts/why-janet/)
 * [2023-04-12, 10:55:44](https://news.ycombinator.com/item?id=35537662) - [The Education of a Computer (1952)](https://fermatslibrary.com/s/the-education-of-a-computer)
+* [2023-04-10, 10:59:28](https://news.ycombinator.com/item?id=35510985) - [Size Matters: An Exploration of Virtual Memory on iOS](https://alwaysprocessing.blog/2022/02/20/size-matters)
 
 ## [Archives](archives/index.md)
 
