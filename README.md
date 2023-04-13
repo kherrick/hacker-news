@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 18:55:41](https://news.ycombinator.com/item?id=35560344) - [Whitepaper: Current Best Practices for Training LLMs from Scratch](http://wandb.me/LLMwhitepaper)
 * [2023-04-13, 18:35:14](https://news.ycombinator.com/item?id=35560019) - [What Kind of Mind Does ChatGPT Have?](https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of-mind-does-chatgpt-have)
 * [2023-04-13, 18:29:04](https://news.ycombinator.com/item?id=35559925) - [Elixir and Rust is a good mix](https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/)
 * [2023-04-13, 18:26:58](https://news.ycombinator.com/item?id=35559890) - [Pulumi Insights – AI generated IaC programs](https://www.pulumi.com/blog/pulumi-insights/)
 * [2023-04-13, 18:11:30](https://news.ycombinator.com/item?id=35559646) - [Surpassing 10Gb&#x2F;S over Tailscale](https://tailscale.com/blog/more-throughput/)
 * [2023-04-13, 18:10:50](https://news.ycombinator.com/item?id=35559634) - [WeVPN Is Shutting Down](https://wevpn.com/)
-* [2023-04-13, 18:02:32](https://news.ycombinator.com/item?id=35559497) - [Amazon announces &#x27;Bedrock,&#x27; its ChatGPT and DALL-E rival](https://www.businessinsider.com/amazon-bedrock-aws-ai-chatgpt-dall-e-competitor-2023-4)
 * [2023-04-13, 17:55:09](https://news.ycombinator.com/item?id=35559383) - [How the Good Friday Agreement created an ‘all-Ireland’ economy](https://www.france24.com/en/europe/20230411-a-quiet-success-story-how-the-good-friday-agreement-created-an-all-ireland-economy)
 * [2023-04-13, 17:38:22](https://news.ycombinator.com/item?id=35559145) - [Warm liquid from Oregon seafloor comes from Cascadia fault](https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafloor-comes-from-cascadia-fault-could-offer-clues-to-earthquake-hazards/)
 * [2023-04-13, 17:36:39](https://news.ycombinator.com/item?id=35559124) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
