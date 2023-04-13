@@ -1,0 +1,3 @@
+# [Published on 2023-04-11](index.md)
+
+* [2023-04-11, 10:51:20](https://news.ycombinator.com/item?id=35523300) - [Displaying My Washing Machine&#x27;s Remaining Time with Curl, Jq, and Pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)

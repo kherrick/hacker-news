@@ -78,6 +78,7 @@
 * [2023-04-11, 11:23:16](https://news.ycombinator.com/item?id=35523527) - [‘Claudia’ offers nude photos for pay. Experts say she’s an AI fake](https://www.washingtonpost.com/technology/2023/04/11/ai-imaging-porn-fakes/)
 * [2023-04-11, 11:21:13](https://news.ycombinator.com/item?id=35523513) - [Judge Denies Elizabeth Holmes&#x27; Request for Release on Bail](https://www.capith.com/2023/04/11/judge-denies-elizabeth-holmes-request-for-release-on-bail/)
 * [2023-04-11, 10:57:01](https://news.ycombinator.com/item?id=35523337) - [Is Nerd Culture Dying?](https://samkriss.substack.com/p/all-the-nerds-are-dead)
+* [2023-04-11, 10:51:20](https://news.ycombinator.com/item?id=35523300) - [Displaying My Washing Machine&#x27;s Remaining Time with Curl, Jq, and Pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
 * [2023-04-11, 10:35:50](https://news.ycombinator.com/item?id=35523184) - [I ported the Firefox Archive.today extension to Safari](https://apps.apple.com/us/app/archive-page-extension/id6446372766)
 * [2023-04-11, 09:13:50](https://news.ycombinator.com/item?id=35522642) - [Rust, RR, Neovim: A perfect debug combination](https://github.com/vlopes11/rrust.nvim)
 * [2023-04-11, 08:54:28](https://news.ycombinator.com/item?id=35522545) - [Ellie – A Mastodon Client for Windows](https://ellie.software/)
