@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-13, 18:29:04",
+      "https://news.ycombinator.com/item?id=35559925"
+    ],
+    [
+      "Elixir and Rust is a good mix",
+      "https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/"
+    ]
+  ],
+  [
+    [
+      "2023-04-13, 18:10:50",
+      "https://news.ycombinator.com/item?id=35559634"
+    ],
+    [
+      "WeVPN Is Shutting Down",
+      "https://wevpn.com/"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 17:55:09",
       "https://news.ycombinator.com/item?id=35559383"
     ],
@@ -87,16 +107,6 @@
     [
       "OpenAI API keys leaking through app binaries",
       "https://twitter.com/cyrilzakka/status/1646532570597982208"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 15:38:01",
-      "https://news.ycombinator.com/item?id=35557103"
-    ],
-    [
-      "European privacy watchdog creates ChatGPT task force",
-      "https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "We achieved a 6-fold increase in Podman startup speed",
       "https://www.redhat.com/sysadmin/speed-containers-podman-raspberry-pi"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 03:31:02",
-      "https://news.ycombinator.com/item?id=35550567"
-    ],
-    [
-      "Do you need a vector database?",
-      "https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/"
     ]
   ],
   [
