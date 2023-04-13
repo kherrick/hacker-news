@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 14:35:14](https://news.ycombinator.com/item?id=35556110) - [The science behind California&#x27;s wet winter, in maps](https://www.washingtonpost.com/weather/2023/04/07/california-extreme-winter-storms-snow-climate/)
 * [2023-04-13, 13:56:25](https://news.ycombinator.com/item?id=35555525) - [Bob Lee&#x27;s alleged killer arrested, also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
 * [2023-04-13, 13:53:20](https://news.ycombinator.com/item?id=35555481) - [916 Days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 13:53:11](https://news.ycombinator.com/item?id=35555475) - [Mac Keyboard with Hidutil](https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html)

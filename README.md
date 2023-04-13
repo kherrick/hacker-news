@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-13, 14:35:14](https://news.ycombinator.com/item?id=35556110) - [The science behind California&#x27;s wet winter, in maps](https://www.washingtonpost.com/weather/2023/04/07/california-extreme-winter-storms-snow-climate/)
 * [2023-04-13, 13:56:25](https://news.ycombinator.com/item?id=35555525) - [Arrest made in Bob Lee case. Alleged killer also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
 * [2023-04-13, 13:53:20](https://news.ycombinator.com/item?id=35555481) - [916 Days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 13:53:11](https://news.ycombinator.com/item?id=35555475) - [Mac Keyboard with Hidutil](https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html)
@@ -29,7 +30,6 @@
 * [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
 * [2023-04-12, 05:37:22](https://news.ycombinator.com/item?id=35535430) - [Could the dodo come back from extinction?](https://www.discoverwildlife.com/animal-facts/could-the-dodo-come-back-from-extinction/)
 * [2023-04-11, 12:05:56](https://news.ycombinator.com/item?id=35523948) - [A number system invented by Inuit schoolchildren](https://www.scientificamerican.com/article/a-number-system-invented-by-inuit-schoolchildren-will-make-its-silicon-valley-debut/)
-* [2023-04-11, 10:51:20](https://news.ycombinator.com/item?id=35523300) - [Displaying my washing machine&#x27;s remaining time with curl, jq, and pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
 
 ## [Archives](archives/index.md)
 
