@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
 * [2023-04-12, 23:50:08](https://news.ycombinator.com/item?id=35548778) - [Show HN: Twitter API Reverse Engineered](https://github.com/trevorhobenshield/twitter-api-client)
+* [2023-04-12, 23:37:23](https://news.ycombinator.com/item?id=35548641) - [East Asian character emojis ㊗ 🈶 🈯 🈳 (2016)](https://chenhuijing.com/blog/east-asian-character-emojis/)
 * [2023-04-12, 23:17:01](https://news.ycombinator.com/item?id=35548407) - [Japan Government: Missile could be heading towards northern Japan](https://www3.nhk.or.jp/nhkworld/)
 * [2023-04-12, 22:22:00](https://news.ycombinator.com/item?id=35547847) - [Bad News About Inflation](https://paulromer.net/bad-news-about-inflation/)
 * [2023-04-12, 22:13:14](https://news.ycombinator.com/item?id=35547756) - [Midjourney AI Guide](https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c)
