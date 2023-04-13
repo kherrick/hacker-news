@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 12:01:51](https://news.ycombinator.com/item?id=35554109) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
+* [2023-04-13, 11:51:56](https://news.ycombinator.com/item?id=35554015) - [First image of a black hole gets a makeover with AI](https://apnews.com/article/first-black-hole-image-machine-learning-8a1a4815a974d8fe3a43392d8e775bfb)
 * [2023-04-13, 11:16:59](https://news.ycombinator.com/item?id=35553742) - [China’s BYD is overtaking Tesla as the carmaker extraordinaire](https://www.economist.com/business/2023/02/02/chinas-byd-is-overtaking-tesla-as-the-carmaker-extraordinaire)
+* [2023-04-13, 10:53:57](https://news.ycombinator.com/item?id=35553562) - [Animal Sex Determination Is Weirder Than You Think](https://nautil.us/animal-sex-determination-is-weirder-than-you-think-296080/)
 * [2023-04-13, 10:47:21](https://news.ycombinator.com/item?id=35553514) - [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
 * [2023-04-13, 10:34:44](https://news.ycombinator.com/item?id=35553421) - [Google&#x27;s 2023 Shutdown Spree: 6 Products Pulled in Just 4 Months](https://toolhub.tech/blog/Google-2023-Shutdown-Spree-6-Products-Pulled-in-Just-4-Months/)
 * [2023-04-13, 10:19:39](https://news.ycombinator.com/item?id=35553337) - [YouTube-Dl Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
