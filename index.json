@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-04-13, 14:15:47",
+      "https://news.ycombinator.com/item?id=35555799"
+    ],
+    [
+      "It&#x27;s time to reveal all recommendation algorithms – by law if necessary",
+      "https://www.theregister.com/2023/04/13/reveal_all_recommendation_algorithms/"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 13:56:25",
       "https://news.ycombinator.com/item?id=35555525"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2023-04-13, 03:26:33",
-      "https://news.ycombinator.com/item?id=35550530"
-    ],
-    [
-      "Running Dolly 2.0 on Paperspace",
-      "https://til.simonwillison.net/llms/dolly-2"
-    ]
-  ],
-  [
-    [
       "2023-04-12, 17:44:08",
       "https://news.ycombinator.com/item?id=35543668"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-04-12, 08:24:44",
-      "https://news.ycombinator.com/item?id=35536550"
+      "2023-04-12, 05:32:30",
+      "https://news.ycombinator.com/item?id=35535404"
     ],
     [
-      "Semaphore: A Full-Body Keyboard",
-      "https://github.com/everythingishacked/Semaphore"
+      "Pedagogical Downsides of Haskell",
+      "https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell"
     ]
   ]
 ]
