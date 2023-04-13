@@ -73,6 +73,7 @@
 * [2023-04-13, 03:08:37](https://news.ycombinator.com/item?id=35550419) - [What GPT-4 Does Is Less Like “Figuring Out” and More Like “Already Knowing”](https://amistrongeryet.substack.com/p/gpt-4-capabilities)
 * [2023-04-13, 03:02:53](https://news.ycombinator.com/item?id=35550377) - [Switching to C over &#x27;Modern&#x27; Programming Languages](https://devtails.xyz/@adam/switching-to-c-over-modern-programming-languages)
 * [2023-04-13, 02:59:30](https://news.ycombinator.com/item?id=35550342) - [Breaking Intel Exiting the Server Business Selling to MiTAC](https://www.servethehome.com/breaking-intel-exiting-the-server-business-selling-to-mitac/)
+* [2023-04-13, 02:58:59](https://news.ycombinator.com/item?id=35550339) - [Calculating Position from Raw GPS Data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2023-04-13, 02:45:33](https://news.ycombinator.com/item?id=35550240) - [What you give up by moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
 * [2023-04-13, 02:38:56](https://news.ycombinator.com/item?id=35550194) - [Leaker of U.S. secret documents worked on military base, friend says](https://www.washingtonpost.com/national-security/2023/04/12/discord-leaked-documents/)
 * [2023-04-13, 02:16:09](https://news.ycombinator.com/item?id=35550000) - [Ban TikTok – But we need a better version of the RESTRICT Act](https://proton.me/blog/ban-tiktok-better-restrict-act)

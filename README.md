@@ -12,7 +12,6 @@
 * [2023-04-13, 17:33:46](https://news.ycombinator.com/item?id=35559076) - [Hackers claim vast access to Western Digital systems](https://techcrunch.com/2023/04/13/hackers-claim-vast-access-to-western-digital-systems/)
 * [2023-04-13, 17:02:14](https://news.ycombinator.com/item?id=35558539) - [Kraftful (YC S19) Hiring Back End Eng to Build an AI Co-Pilot for Product Folks](https://www.ycombinator.com/companies/kraftful/jobs/)
 * [2023-04-13, 17:01:24](https://news.ycombinator.com/item?id=35558522) - [Segment Anything Model and the hard problems of computer vision](https://www.latent.space/p/segment-anything-roboflow#details)
-* [2023-04-13, 16:32:11](https://news.ycombinator.com/item?id=35558066) - [Coding Jobs and GPT-4](https://news.ycombinator.com/item?id=35558066)
 * [2023-04-13, 16:07:45](https://news.ycombinator.com/item?id=35557630) - [Mary Quant, ’60s designer who invented the miniskirt, dead at 93](https://nypost.com/2023/04/13/mary-quant-designer-who-invented-the-miniskirt-dead-at-93/)
 * [2023-04-13, 15:47:25](https://news.ycombinator.com/item?id=35557256) - [OpenAI API keys leaking through app binaries](https://twitter.com/cyrilzakka/status/1646532570597982208)
 * [2023-04-13, 14:15:47](https://news.ycombinator.com/item?id=35555799) - [It&#x27;s time to reveal all recommendation algorithms – by law if necessary](https://www.theregister.com/2023/04/13/reveal_all_recommendation_algorithms/)
@@ -28,6 +27,7 @@
 * [2023-04-13, 08:00:13](https://news.ycombinator.com/item?id=35552378) - [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)
 * [2023-04-13, 06:37:25](https://news.ycombinator.com/item?id=35551870) - [ESA – Jupiter Icy Moons Explorer: Live Launch](https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch)
 * [2023-04-13, 06:31:42](https://news.ycombinator.com/item?id=35551830) - [We achieved a 6-fold increase in Podman startup speed](https://www.redhat.com/sysadmin/speed-containers-podman-raspberry-pi)
+* [2023-04-13, 02:58:59](https://news.ycombinator.com/item?id=35550339) - [Calculating Position from Raw GPS Data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2023-04-12, 04:40:49](https://news.ycombinator.com/item?id=35535081) - [Paul Theroux reflects on the evolving nature of rail travel](https://www.nationalgeographic.com/travel/article/author-paul-theroux-rail-travel)
 * [2023-04-10, 10:59:28](https://news.ycombinator.com/item?id=35510985) - [Size Matters: An Exploration of Virtual Memory on iOS](https://alwaysprocessing.blog/2022/02/20/size-matters)
 
