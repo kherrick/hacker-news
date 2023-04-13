@@ -10,6 +10,7 @@
 * [2023-04-13, 14:35:14](https://news.ycombinator.com/item?id=35556110) - [The science behind California&#x27;s wet winter, in maps](https://www.washingtonpost.com/weather/2023/04/07/california-extreme-winter-storms-snow-climate/)
 * [2023-04-13, 14:35:06](https://news.ycombinator.com/item?id=35556108) - [In Support of Richard Stallman](https://stallmansupport.org/richard-stallman-commitment-to-social-justice.html)
 * [2023-04-13, 14:16:52](https://news.ycombinator.com/item?id=35555819) - [Pentagon leak leads to limits on who gets access to military’s top secrets](https://www.cnn.com/2023/04/13/politics/pentagon-leaks-limit-access-military-secrets/index.html)
+* [2023-04-13, 14:15:47](https://news.ycombinator.com/item?id=35555799) - [It&#x27;s time to reveal all recommendation algorithms – by law if necessary](https://www.theregister.com/2023/04/13/reveal_all_recommendation_algorithms/)
 * [2023-04-13, 13:56:25](https://news.ycombinator.com/item?id=35555525) - [Bob Lee&#x27;s alleged killer arrested, also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
 * [2023-04-13, 13:53:20](https://news.ycombinator.com/item?id=35555481) - [916 Days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 13:53:11](https://news.ycombinator.com/item?id=35555475) - [Mac Keyboard with Hidutil](https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html)

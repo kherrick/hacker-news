@@ -5,6 +5,7 @@
 * [2023-04-13, 14:48:58](https://news.ycombinator.com/item?id=35556318) - [Pentagon leaks linked to young gun enthusiast who worked at military base](https://www.theguardian.com/us-news/2023/apr/13/pentagon-leaks-og-source-military-base-discord-report)
 * [2023-04-13, 14:35:14](https://news.ycombinator.com/item?id=35556110) - [The science behind California&#x27;s wet winter, in maps](https://www.washingtonpost.com/weather/2023/04/07/california-extreme-winter-storms-snow-climate/)
 * [2023-04-13, 14:16:52](https://news.ycombinator.com/item?id=35555819) - [Pentagon leak leads to limits on who gets access to military’s top secrets](https://www.cnn.com/2023/04/13/politics/pentagon-leaks-limit-access-military-secrets/index.html)
+* [2023-04-13, 14:15:47](https://news.ycombinator.com/item?id=35555799) - [It&#x27;s time to reveal all recommendation algorithms – by law if necessary](https://www.theregister.com/2023/04/13/reveal_all_recommendation_algorithms/)
 * [2023-04-13, 13:56:25](https://news.ycombinator.com/item?id=35555525) - [Arrest made in Bob Lee case. Alleged killer also worked in tech](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/)
 * [2023-04-13, 13:53:20](https://news.ycombinator.com/item?id=35555481) - [916 Days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 13:53:11](https://news.ycombinator.com/item?id=35555475) - [Mac Keyboard with Hidutil](https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html)
@@ -25,11 +26,10 @@
 * [2023-04-13, 06:37:25](https://news.ycombinator.com/item?id=35551870) - [ESA – Jupiter Icy Moons Explorer: Live Launch](https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch)
 * [2023-04-13, 06:31:42](https://news.ycombinator.com/item?id=35551830) - [We achieved a 6-fold increase in Podman startup speed](https://www.redhat.com/sysadmin/speed-containers-podman-raspberry-pi)
 * [2023-04-13, 03:31:02](https://news.ycombinator.com/item?id=35550567) - [Do you need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
-* [2023-04-13, 03:26:33](https://news.ycombinator.com/item?id=35550530) - [Running Dolly 2.0 on Paperspace](https://til.simonwillison.net/llms/dolly-2)
 * [2023-04-12, 17:44:08](https://news.ycombinator.com/item?id=35543668) - [Show HN: GPT-4-powered web searches for developers](https://www.phind.com)
 * [2023-04-12, 13:25:10](https://news.ycombinator.com/item?id=35539255) - [Why Janet?](https://ianthehenry.com/posts/why-janet/)
 * [2023-04-12, 11:43:13](https://news.ycombinator.com/item?id=35538104) - [The Goddess and the Rose](https://worldsensorium.com/the-goddess-and-the-rose/)
-* [2023-04-12, 08:24:44](https://news.ycombinator.com/item?id=35536550) - [Semaphore: A Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
+* [2023-04-12, 05:32:30](https://news.ycombinator.com/item?id=35535404) - [Pedagogical Downsides of Haskell](https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell)
 
 ## [Archives](archives/index.md)
 
