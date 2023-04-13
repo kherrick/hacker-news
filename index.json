@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-04-13, 00:24:21",
+      "https://news.ycombinator.com/item?id=35549116"
+    ],
+    [
+      "Lindows 4.0 (2003)",
+      "https://baturin.org/misc/software-reviews/lindows/"
+    ]
+  ],
+  [
+    [
+      "2023-04-13, 00:23:30",
+      "https://news.ycombinator.com/item?id=35549101"
+    ],
+    [
+      "OpenAI WebGPT (2021)",
+      "https://openai.com/research/webgpt"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 23:50:08",
+      "https://news.ycombinator.com/item?id=35548778"
+    ],
+    [
+      "Show HN: Twitter API Reverse Engineered",
+      "https://github.com/trevorhobenshield/twitter-api-client"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 23:17:01",
       "https://news.ycombinator.com/item?id=35548407"
     ],
@@ -11,32 +41,12 @@
   ],
   [
     [
-      "2023-04-12, 22:22:00",
-      "https://news.ycombinator.com/item?id=35547847"
-    ],
-    [
-      "Bad News About Inflation",
-      "https://paulromer.net/bad-news-about-inflation/"
-    ]
-  ],
-  [
-    [
       "2023-04-12, 22:13:14",
       "https://news.ycombinator.com/item?id=35547756"
     ],
     [
       "Midjourney AI Guide",
       "https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 22:05:44",
-      "https://news.ycombinator.com/item?id=35547679"
-    ],
-    [
-      "Show HN: GPT command line client that queries several models simultaneously",
-      "https://github.com/derwiki/go-chatgpt"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-04-12, 20:07:09",
-      "https://news.ycombinator.com/item?id=35545983"
-    ],
-    [
-      "I’ve been single all my life",
-      "https://lukasrosenstock.net/2023/04/10/im-single-i.html"
-    ]
-  ],
-  [
-    [
       "2023-04-12, 20:01:03",
       "https://news.ycombinator.com/item?id=35545901"
     ],
@@ -127,16 +127,6 @@
     [
       "On a great interview question",
       "https://behdadesfahbod.medium.com/on-a-great-interview-question-aea168279942"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 19:34:40",
-      "https://news.ycombinator.com/item?id=35545487"
-    ],
-    [
-      "Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+",
-      "https://phys.org/news/2023-04-sno-collaboration-evidence-antineutrinos-cherenkov.html"
     ]
   ],
   [
@@ -221,22 +211,22 @@
   ],
   [
     [
+      "2023-04-12, 11:12:24",
+      "https://news.ycombinator.com/item?id=35537813"
+    ],
+    [
+      "Mass layoffs and absentee bosses create a morale crisis at Meta",
+      "https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 08:24:44",
       "https://news.ycombinator.com/item?id=35536550"
     ],
     [
       "Semaphore: A Full-Body Keyboard",
       "https://github.com/everythingishacked/Semaphore"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 05:33:09",
-      "https://news.ycombinator.com/item?id=35535407"
-    ],
-    [
-      "List of Citogenesis Incidents",
-      "https://en.wikipedia.org/wiki/Wikipedia:List_of_citogenesis_incidents"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Show HN: Sheet Markup – add spreadsheets to a Markdown document",
       "https://www.equalto.com/markup/"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 10:51:20",
+      "https://news.ycombinator.com/item?id=35523300"
+    ],
+    [
+      "Displaying My Washing Machine&#x27;s Remaining Time with Curl, Jq, and Pizauth",
+      "https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html"
     ]
   ],
   [
