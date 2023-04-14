@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 13:15:30](https://news.ycombinator.com/item?id=35569246) - [Not drone footage or an iPhone video. An AI model made this](https://www.youtube.com/watch?v=xrrhynRzC8k)
 * [2023-04-14, 13:00:12](https://news.ycombinator.com/item?id=35569090) - [AI-generated image wins Sony World Photography Awards 2023](https://www.eldagsen.com/sony-world-photography-awards-2023/)
 * [2023-04-14, 12:31:51](https://news.ycombinator.com/item?id=35568799) - [Show HN: Dare to Debate an AI? Put Your Skills to the Test with DebateDevil](https://www.debate-devil.com/en)
 * [2023-04-14, 12:16:41](https://news.ycombinator.com/item?id=35568652) - [Everything advertised on social media is overpriced junk](https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/)
