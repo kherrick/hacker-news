@@ -2,8 +2,8 @@
 
 * [2023-04-14, 13:00:12](https://news.ycombinator.com/item?id=35569090) - [AI-generated image wins Sony World Photography Awards 2023](https://www.eldagsen.com/sony-world-photography-awards-2023/)
 * [2023-04-14, 12:31:51](https://news.ycombinator.com/item?id=35568799) - [Show HN: Dare to Debate an AI? Put Your Skills to the Test with DebateDevil](https://www.debate-devil.com/en)
-* [2023-04-14, 12:16:41](https://news.ycombinator.com/item?id=35568652) - [Everything advertised on social media is overpriced junk](https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/)
 * [2023-04-14, 11:49:00](https://news.ycombinator.com/item?id=35568388) - [Juice launch to Jupiter – Live [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
+* [2023-04-14, 10:38:30](https://news.ycombinator.com/item?id=35567842) - [The Dangerous Rise of Front Yard Polticics](https://www.theatlantic.com/ideas/archive/2023/04/front-yard-placards-nimby-dei-refugees/673706/)
 * [2023-04-14, 10:35:03](https://news.ycombinator.com/item?id=35567822) - [Ask HN: Side project of more that $2k monthly revenue what&#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
 * [2023-04-14, 09:24:57](https://news.ycombinator.com/item?id=35567285) - [Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
 * [2023-04-14, 08:38:28](https://news.ycombinator.com/item?id=35567026) - [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
