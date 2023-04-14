@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-14, 07:06:41](https://news.ycombinator.com/item?id=35566416) - [Ask HN: Technology&#x2F;Creative books and games for my daughter (7 years)](https://news.ycombinator.com/item?id=35566416)
 * [2023-04-14, 06:54:27](https://news.ycombinator.com/item?id=35566348) - [Microsoft is using illegal bribes in the Middle East and Africa](https://www.lioness.co/post/microsoft-is-using-illegal-bribes-in-the-middle-east-and-africa-why-is-the-sec-turning-a-blind-eye)
 * [2023-04-14, 06:22:16](https://news.ycombinator.com/item?id=35566145) - [91% of ML Models Degrade over Time](https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time)
 * [2023-04-14, 04:33:17](https://news.ycombinator.com/item?id=35565553) - [Vast New Stores of Water Reported on the Moon](https://spectrum.ieee.org/moon-water)
@@ -21,7 +22,6 @@
 * [2023-04-13, 19:51:37](https://news.ycombinator.com/item?id=35561203) - [Animated Drawings](https://fairanimateddrawings.com/site/home)
 * [2023-04-13, 17:38:22](https://news.ycombinator.com/item?id=35559145) - [Warm liquid from Oregon seafloor comes from Cascadia fault](https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafloor-comes-from-cascadia-fault-could-offer-clues-to-earthquake-hazards/)
 * [2023-04-13, 17:36:39](https://news.ycombinator.com/item?id=35559124) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
-* [2023-04-13, 09:53:41](https://news.ycombinator.com/item?id=35553188) - [Witty Ticcy Ray (1981)](https://www.lrb.co.uk/the-paper/v03/n05/oliver-sacks/witty-ticcy-ray)
 * [2023-04-13, 09:04:47](https://news.ycombinator.com/item?id=35552824) - [Zylin ZPU: 32 bit CPU with GCC toolchain](https://github.com/zylin/zpu)
 * [2023-04-13, 06:17:19](https://news.ycombinator.com/item?id=35551728) - [The Rules of the Games in Tudor England](https://www.laphamsquarterly.org/roundtable/rules-games-tudor-england)
 * [2023-04-13, 05:52:42](https://news.ycombinator.com/item?id=35551549) - [The Odd Knight of the Cinnamon Shops](https://www.tabletmag.com/sections/arts-letters/articles/odd-knight-cinnamon-shops-bruno-schulz)
