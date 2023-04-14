@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 04:33:17](https://news.ycombinator.com/item?id=35565553) - [Vast New Stores of Water Reported on the Moon](https://spectrum.ieee.org/moon-water)
 * [2023-04-14, 04:13:26](https://news.ycombinator.com/item?id=35565431) - [A Computer Generated Swatting Service Is Causing Havoc Across America](https://www.vice.com/en/article/k7z8be/torswats-computer-generated-ai-voice-swatting)
 * [2023-04-14, 03:30:10](https://news.ycombinator.com/item?id=35565212) - [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [2023-04-14, 02:48:19](https://news.ycombinator.com/item?id=35564965) - [The market is mostly being flooded with web developers](https://old.reddit.com/r/cscareerquestions/comments/12kbzyo/the_market_is_mostly_being_flooded_with_web/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-14, 04:33:17](https://news.ycombinator.com/item?id=35565553) - [Vast New Stores of Water Reported on the Moon](https://spectrum.ieee.org/moon-water)
 * [2023-04-14, 04:13:26](https://news.ycombinator.com/item?id=35565431) - [A Computer Generated Swatting Service Is Causing Havoc Across America](https://www.vice.com/en/article/k7z8be/torswats-computer-generated-ai-voice-swatting)
 * [2023-04-14, 03:30:10](https://news.ycombinator.com/item?id=35565212) - [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [2023-04-14, 02:36:27](https://news.ycombinator.com/item?id=35564874) - [GNU toolchain for RISC-V including GCC](https://github.com/riscv-collab/riscv-gnu-toolchain)
@@ -17,7 +18,6 @@
 * [2023-04-13, 20:15:48](https://news.ycombinator.com/item?id=35561485) - [Sorting waste and recyclables with a fleet of robots](https://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html)
 * [2023-04-13, 19:51:37](https://news.ycombinator.com/item?id=35561203) - [Animated Drawings](https://fairanimateddrawings.com/site/home)
 * [2023-04-13, 19:10:18](https://news.ycombinator.com/item?id=35560577) - [Don’t record your social life on an append-only social network (2022)](https://www.ctrl.blog/entry/append-only-social.html)
-* [2023-04-13, 18:29:04](https://news.ycombinator.com/item?id=35559925) - [Elixir and Rust is a good mix](https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/)
 * [2023-04-13, 17:38:22](https://news.ycombinator.com/item?id=35559145) - [Warm liquid from Oregon seafloor comes from Cascadia fault](https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafloor-comes-from-cascadia-fault-could-offer-clues-to-earthquake-hazards/)
 * [2023-04-13, 17:36:39](https://news.ycombinator.com/item?id=35559124) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
 * [2023-04-13, 17:01:24](https://news.ycombinator.com/item?id=35558522) - [Segment Anything Model and the hard problems of computer vision](https://www.latent.space/p/segment-anything-roboflow#details)
