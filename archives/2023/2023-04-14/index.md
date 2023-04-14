@@ -12,6 +12,7 @@
 * [2023-04-14, 07:11:59](https://news.ycombinator.com/item?id=35566447) - [Tesla sets up new-energy firm in Shanghai with $2M registered capital](https://www.reuters.com/business/sustainable-business/tesla-sets-up-new-energy-firm-shanghai-with-2-mln-registered-capital-tianyancha-2023-04-14/)
 * [2023-04-14, 07:06:41](https://news.ycombinator.com/item?id=35566416) - [Ask HN: Technology&#x2F;Creative books and games for my daughter (7 years)](https://news.ycombinator.com/item?id=35566416)
 * [2023-04-14, 06:54:27](https://news.ycombinator.com/item?id=35566348) - [Microsoft is using illegal bribes in the Middle East and Africa](https://www.lioness.co/post/microsoft-is-using-illegal-bribes-in-the-middle-east-and-africa-why-is-the-sec-turning-a-blind-eye)
+* [2023-04-14, 06:48:18](https://news.ycombinator.com/item?id=35566315) - [Crem: Compositional Representable Executable Machines](https://www.tweag.io/blog/2023-04-13-crem-state-machines/)
 * [2023-04-14, 06:22:16](https://news.ycombinator.com/item?id=35566145) - [91% of ML Models Degrade over Time](https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time)
 * [2023-04-14, 04:49:24](https://news.ycombinator.com/item?id=35565626) - [Missouri restricts adults from seeking gender-affirming care](https://www.businessinsider.com/missouri-attorney-general-regulations-gender-affirming-care-transgender-depression-2023-4)
 * [2023-04-14, 04:33:17](https://news.ycombinator.com/item?id=35565553) - [Vast New Stores of Water Reported on the Moon](https://spectrum.ieee.org/moon-water)
