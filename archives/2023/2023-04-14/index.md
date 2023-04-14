@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
 * [2023-04-14, 15:40:11](https://news.ycombinator.com/item?id=35570782) - [Investigators find Pentagon leaker through Instagram photo](https://twitter.com/trbrtc/status/1646592080293122067)
+* [2023-04-14, 15:38:38](https://news.ycombinator.com/item?id=35570758) - [dbdev - The Database Package Manager for PostgreSQL Trusted Language Extensions](https://database.dev)
 * [2023-04-14, 15:37:31](https://news.ycombinator.com/item?id=35570742) - [Beyond Automatic Differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
 * [2023-04-14, 15:20:10](https://news.ycombinator.com/item?id=35570520) - [Spotify abandons Heardle less than a year after buying it](https://www.theverge.com/2023/4/14/23683240/spotify-shuts-down-heardle-music-guessing-game)
 * [2023-04-14, 14:47:29](https://news.ycombinator.com/item?id=35570151) - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
