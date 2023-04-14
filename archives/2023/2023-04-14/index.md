@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 12:06:41](https://news.ycombinator.com/item?id=35568553) - [JUICE Launch Live Stream](https://www.youtube.com/watch?v=MvHcGmQPcsI)
+* [2023-04-14, 11:49:00](https://news.ycombinator.com/item?id=35568388) - [Live ESA launch to Jupiter [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
 * [2023-04-14, 11:20:38](https://news.ycombinator.com/item?id=35568175) - [Missouri state House Republicans vote to defund public libraries](https://www.salon.com/2023/04/12/missouri-state-vote-to-defund-public-libraries_partner/)
 * [2023-04-14, 11:03:29](https://news.ycombinator.com/item?id=35568023) - [Why employees hate ‘pizza parties’ but HR loves having them](https://www.moneycontrol.com/news/business/why-employees-hate-pizza-parties-but-hr-loves-having-them-10411841.html)
 * [2023-04-14, 10:58:45](https://news.ycombinator.com/item?id=35567986) - [Demographics of Hacker News](https://toolhub.tech/blog/Demographics-of-Hacker-News/)
@@ -19,6 +21,7 @@
 * [2023-04-14, 06:54:27](https://news.ycombinator.com/item?id=35566348) - [Microsoft is using illegal bribes in the Middle East and Africa](https://www.lioness.co/post/microsoft-is-using-illegal-bribes-in-the-middle-east-and-africa-why-is-the-sec-turning-a-blind-eye)
 * [2023-04-14, 06:48:18](https://news.ycombinator.com/item?id=35566315) - [Crem: Compositional Representable Executable Machines](https://www.tweag.io/blog/2023-04-13-crem-state-machines/)
 * [2023-04-14, 06:22:16](https://news.ycombinator.com/item?id=35566145) - [91% of ML Models Degrade over Time](https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time)
+* [2023-04-14, 04:59:29](https://news.ycombinator.com/item?id=35565681) - [An open source AI tool to animate children&#x27;s drawings](https://github.com/facebookresearch/AnimatedDrawings)
 * [2023-04-14, 04:49:24](https://news.ycombinator.com/item?id=35565626) - [Missouri restricts adults from seeking gender-affirming care](https://www.businessinsider.com/missouri-attorney-general-regulations-gender-affirming-care-transgender-depression-2023-4)
 * [2023-04-14, 04:33:17](https://news.ycombinator.com/item?id=35565553) - [Vast New Stores of Water Reported on the Moon](https://spectrum.ieee.org/moon-water)
 * [2023-04-14, 04:13:26](https://news.ycombinator.com/item?id=35565431) - [A Computer Generated Swatting Service Is Causing Havoc Across America](https://www.vice.com/en/article/k7z8be/torswats-computer-generated-ai-voice-swatting)

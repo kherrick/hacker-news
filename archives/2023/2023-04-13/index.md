@@ -80,6 +80,7 @@
 * [2023-04-13, 10:34:44](https://news.ycombinator.com/item?id=35553421) - [Google&#x27;s 2023 Shutdown Spree: 6 Products Pulled in Just 4 Months](https://toolhub.tech/blog/Google-2023-Shutdown-Spree-6-Products-Pulled-in-Just-4-Months/)
 * [2023-04-13, 10:19:39](https://news.ycombinator.com/item?id=35553337) - [YouTube-Dl Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
 * [2023-04-13, 09:53:41](https://news.ycombinator.com/item?id=35553188) - [Witty Ticcy Ray (1981)](https://www.lrb.co.uk/the-paper/v03/n05/oliver-sacks/witty-ticcy-ray)
+* [2023-04-13, 09:51:09](https://news.ycombinator.com/item?id=35553167) - [DIY IBM Selectric type balls give ’60s typewriters new life (and Comic Sans)](https://arstechnica.com/gadgets/2023/04/revive-your-vintage-ibm-selectric-typewriter-with-3d-printable-golf-balls/)
 * [2023-04-13, 09:04:47](https://news.ycombinator.com/item?id=35552824) - [Zylin ZPU: The worlds smallest 32 bit CPU with GCC toolchain](https://github.com/zylin/zpu)
 * [2023-04-13, 09:01:10](https://news.ycombinator.com/item?id=35552804) - [Audio&#x27;s Circle of Confusion (2009)](http://seanolive.blogspot.com/2009/10/audios-circle-of-confusion.html)
 * [2023-04-13, 08:57:14](https://news.ycombinator.com/item?id=35552768) - [Who Is Running Stanford?](https://stanforddaily.com/2023/04/10/letter-to-the-editor-who-is-running-stanford/)
