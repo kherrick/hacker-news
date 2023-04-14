@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-14, 12:12:06](https://news.ycombinator.com/item?id=35568598) - [Canada is seeing violent crime like never before. What&#x27;s behind the crime wave](https://nationalpost.com/news/canada/canadas-violent-crime-wave)
 * [2023-04-14, 12:06:41](https://news.ycombinator.com/item?id=35568553) - [JUICE Launch Live Stream](https://www.youtube.com/watch?v=MvHcGmQPcsI)
 * [2023-04-14, 11:49:00](https://news.ycombinator.com/item?id=35568388) - [Live ESA launch to Jupiter [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
 * [2023-04-14, 10:48:37](https://news.ycombinator.com/item?id=35567913) - [OpenAI’s Red Team: the experts hired to ‘break’ ChatGPT](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8)
@@ -7,7 +8,7 @@
 * [2023-04-14, 09:24:57](https://news.ycombinator.com/item?id=35567285) - [Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
 * [2023-04-14, 08:38:28](https://news.ycombinator.com/item?id=35567026) - [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
 * [2023-04-14, 08:05:13](https://news.ycombinator.com/item?id=35566791) - [Zig Build System](https://en.liujiacai.net/2023/04/13/zig-build-system/)
-* [2023-04-14, 07:06:41](https://news.ycombinator.com/item?id=35566416) - [Ask HN: Technology&#x2F;Creative books and games for my daughter (7 years)](https://news.ycombinator.com/item?id=35566416)
+* [2023-04-14, 08:02:05](https://news.ycombinator.com/item?id=35566768) - [Mike Perham of Sidekiq: “If you build something valuable, charge money for it.”](https://codecodeship.com/blog/2023-04-14-mike-perham)
 * [2023-04-14, 06:48:18](https://news.ycombinator.com/item?id=35566315) - [Crem: Compositional Representable Executable Machines](https://www.tweag.io/blog/2023-04-13-crem-state-machines/)
 * [2023-04-14, 06:22:16](https://news.ycombinator.com/item?id=35566145) - [Temporal quality degradation in AI models](https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time)
 * [2023-04-14, 04:59:29](https://news.ycombinator.com/item?id=35565681) - [An open source AI tool to animate children&#x27;s drawings](https://github.com/facebookresearch/AnimatedDrawings)
@@ -18,7 +19,6 @@
 * [2023-04-14, 01:00:06](https://news.ycombinator.com/item?id=35564291) - [Atlas (YC W22) Is Hiring for a Demand Gen Manager (International)](https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global)
 * [2023-04-14, 00:21:41](https://news.ycombinator.com/item?id=35564013) - [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://arxiv.org/abs/2304.06035)
 * [2023-04-13, 21:37:26](https://news.ycombinator.com/item?id=35562430) - [SQL:2023 is finished: Here is what&#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
-* [2023-04-13, 20:46:06](https://news.ycombinator.com/item?id=35561824) - [End-of-Life Dreams](https://www.commonwealmagazine.org/end-life-dreams)
 * [2023-04-13, 20:15:48](https://news.ycombinator.com/item?id=35561485) - [Sorting waste and recyclables with a fleet of robots](https://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html)
 * [2023-04-13, 19:51:37](https://news.ycombinator.com/item?id=35561203) - [Animated Drawings](https://fairanimateddrawings.com/site/home)
 * [2023-04-13, 17:36:39](https://news.ycombinator.com/item?id=35559124) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
