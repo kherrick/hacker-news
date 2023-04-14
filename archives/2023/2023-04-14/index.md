@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 13:30:25](https://news.ycombinator.com/item?id=35569364) - [Farmers Win the Right to Repair Their Own Tractors in Colorado](https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado)
 * [2023-04-14, 13:15:30](https://news.ycombinator.com/item?id=35569246) - [Not drone footage or an iPhone video. An AI model made this](https://www.youtube.com/watch?v=xrrhynRzC8k)
 * [2023-04-14, 13:00:12](https://news.ycombinator.com/item?id=35569090) - [AI-generated image wins Sony World Photography Awards 2023](https://www.eldagsen.com/sony-world-photography-awards-2023/)
 * [2023-04-14, 12:31:51](https://news.ycombinator.com/item?id=35568799) - [Show HN: Dare to Debate an AI? Put Your Skills to the Test with DebateDevil](https://www.debate-devil.com/en)
