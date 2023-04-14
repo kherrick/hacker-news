@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 15:40:11](https://news.ycombinator.com/item?id=35570782) - [Investigators find Pentagon leaker through Instagram photo](https://twitter.com/trbrtc/status/1646592080293122067)
 * [2023-04-14, 15:37:31](https://news.ycombinator.com/item?id=35570742) - [Beyond Automatic Differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
 * [2023-04-14, 15:20:10](https://news.ycombinator.com/item?id=35570520) - [Spotify abandons Heardle less than a year after buying it](https://www.theverge.com/2023/4/14/23683240/spotify-shuts-down-heardle-music-guessing-game)
 * [2023-04-14, 14:47:29](https://news.ycombinator.com/item?id=35570151) - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
@@ -43,6 +44,7 @@
 * [2023-04-14, 04:13:26](https://news.ycombinator.com/item?id=35565431) - [A Computer Generated Swatting Service Is Causing Havoc Across America](https://www.vice.com/en/article/k7z8be/torswats-computer-generated-ai-voice-swatting)
 * [2023-04-14, 03:30:10](https://news.ycombinator.com/item?id=35565212) - [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [2023-04-14, 02:48:19](https://news.ycombinator.com/item?id=35564965) - [The market is mostly being flooded with web developers](https://old.reddit.com/r/cscareerquestions/comments/12kbzyo/the_market_is_mostly_being_flooded_with_web/)
+* [2023-04-14, 02:40:55](https://news.ycombinator.com/item?id=35564908) - [Joel Warner’s “The Curse of the Marquis de Sade”](https://lareviewofbooks.org/article/a-tale-of-literary-and-financial-debauchery-on-joel-warners-the-curse-of-the-marquis-de-sade/)
 * [2023-04-14, 02:36:27](https://news.ycombinator.com/item?id=35564874) - [GNU toolchain for RISC-V including GCC](https://github.com/riscv-collab/riscv-gnu-toolchain)
 * [2023-04-14, 02:31:47](https://news.ycombinator.com/item?id=35564841) - [Salesforce Is Leaving a San Francisco Office Tower Bearing Its Name](https://sfstandard.com/business/salesforce-looks-to-dump-its-remaining-office-space-at-salesforce-east/)
 * [2023-04-14, 02:04:53](https://news.ycombinator.com/item?id=35564655) - [Servo plans to move their layout engine to “Layout 2020”](https://servo.org/blog/2023/04/13/layout-2013-vs-2020/)
