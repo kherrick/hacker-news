@@ -75,6 +75,7 @@
 * [2023-04-10, 10:53:07](https://news.ycombinator.com/item?id=35510949) - [Grep – New kind of search engine](https://grep.help/)
 * [2023-04-10, 10:44:01](https://news.ycombinator.com/item?id=35510899) - [static_assert is all you need (no leaks, no UB)](https://twitter.com/krisjusiak/status/1645360641538945025)
 * [2023-04-10, 10:33:08](https://news.ycombinator.com/item?id=35510851) - [Spotify slapped fired employees with illegal gag order [Translated from Swedish]](https://news.ycombinator.com/item?id=35510851)
+* [2023-04-10, 10:31:45](https://news.ycombinator.com/item?id=35510844) - [Show HN: The Hardware Lottery](https://hardwarelottery.github.io/)
 * [2023-04-10, 10:24:31](https://news.ycombinator.com/item?id=35510800) - [Are We &lt;Thing&gt; Yet?](https://wiki.mozilla.org/Areweyet)
 * [2023-04-10, 10:07:36](https://news.ycombinator.com/item?id=35510724) - [The Real-World Costs of the Digital Race for Bitcoin](https://www.nytimes.com/2023/04/09/business/bitcoin-mining-electricity-pollution.html)
 * [2023-04-10, 09:40:08](https://news.ycombinator.com/item?id=35510612) - [Apple’s 40% Plunge in PC Shipments Is Steepest Among Major Computer Makers](https://www.bloomberg.com/news/articles/2023-04-10/apple-s-40-plunge-leads-pc-shipments-down-as-tech-demand-sags)
