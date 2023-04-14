@@ -2,7 +2,7 @@
 
 * [2023-04-14, 14:14:29](https://news.ycombinator.com/item?id=35569805) - [Rust Learning Path from Novice to Mastery](https://nativebyx.dev/rust/becoming-rustacean/rust-learning-path-from-novice-to-mastery.html)
 * [2023-04-14, 13:15:30](https://news.ycombinator.com/item?id=35569246) - [Zip-NeRF: Anti-aliased grid-based neural radiance fields [video]](https://www.youtube.com/watch?v=xrrhynRzC8k)
-* [2023-04-14, 13:00:12](https://news.ycombinator.com/item?id=35569090) - [AI-generated image wins Sony World Photography Awards 2023](https://www.eldagsen.com/sony-world-photography-awards-2023/)
+* [2023-04-14, 13:00:12](https://news.ycombinator.com/item?id=35569090) - [AI-generated image selected for a Sony World Photography Award](https://www.eldagsen.com/sony-world-photography-awards-2023/)
 * [2023-04-14, 12:31:51](https://news.ycombinator.com/item?id=35568799) - [Show HN: Debate Devil – AI debating practice app](https://www.debate-devil.com/en)
 * [2023-04-14, 11:49:00](https://news.ycombinator.com/item?id=35568388) - [Juice launch to Jupiter – Live [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
 * [2023-04-14, 10:35:03](https://news.ycombinator.com/item?id=35567822) - [Ask HN: Side project of more that $2k monthly revenue what&#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
