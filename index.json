@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-04-14, 02:04:53",
+      "https://news.ycombinator.com/item?id=35564655"
+    ],
+    [
+      "Servo plans to move their layout engine to “Layout 2020”",
+      "https://servo.org/blog/2023/04/13/layout-2013-vs-2020/"
+    ]
+  ],
+  [
+    [
       "2023-04-14, 01:40:28",
       "https://news.ycombinator.com/item?id=35564521"
     ],
     [
       "What&#x27;s the Least Impactful Way to Spend $300,000,000?",
       "https://passingtime.substack.com/p/whats-the-least-impactful-way-to"
+    ]
+  ],
+  [
+    [
+      "2023-04-14, 01:16:15",
+      "https://news.ycombinator.com/item?id=35564387"
+    ],
+    [
+      "Your iPhone Was Built with Child Labor",
+      "https://www.thefp.com/p/your-iphone-was-built-with-child"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-04-13, 18:11:30",
-      "https://news.ycombinator.com/item?id=35559646"
-    ],
-    [
-      "Surpassing 10Gb&#x2F;S over Tailscale",
-      "https://tailscale.com/blog/more-throughput/"
-    ]
-  ],
-  [
-    [
       "2023-04-13, 17:38:22",
       "https://news.ycombinator.com/item?id=35559145"
     ],
@@ -187,16 +197,6 @@
     [
       "Segment Anything Model and the hard problems of computer vision",
       "https://www.latent.space/p/segment-anything-roboflow#details"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 16:07:45",
-      "https://news.ycombinator.com/item?id=35557630"
-    ],
-    [
-      "Mary Quant, ’60s designer who invented the miniskirt, has died at 93",
-      "https://nypost.com/2023/04/13/mary-quant-designer-who-invented-the-miniskirt-dead-at-93/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=35510985"
     ],
     [
-      "Size Matters: An Exploration of Virtual Memory on iOS",
+      "Size Matters: An Exploration of Virtual Memory on iOS (2022)",
       "https://alwaysprocessing.blog/2022/02/20/size-matters"
     ]
   ]
