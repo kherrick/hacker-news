@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 15:20:10](https://news.ycombinator.com/item?id=35570520) - [Spotify abandons Heardle less than a year after buying it](https://www.theverge.com/2023/4/14/23683240/spotify-shuts-down-heardle-music-guessing-game)
 * [2023-04-14, 14:47:29](https://news.ycombinator.com/item?id=35570151) - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
 * [2023-04-14, 14:14:29](https://news.ycombinator.com/item?id=35569805) - [Rust Learning Path from Novice to Mastery](https://nativebyx.dev/rust/becoming-rustacean/rust-learning-path-from-novice-to-mastery.html)
 * [2023-04-14, 13:32:00](https://news.ycombinator.com/item?id=35569377) - [Automated Shusher Keeps Conference Loudmouths in Line](https://hackaday.com/2023/04/13/automated-shusher-keeps-conference-loudmouths-in-line/)
