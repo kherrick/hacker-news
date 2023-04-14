@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 20:25:07](https://news.ycombinator.com/item?id=35574273) - [Office vacancies in San Francisco jump to a record 33%](https://therealdeal.com/sanfrancisco/2023/04/10/office-vacancies-in-san-francisco-jump-to-a-record-33/)
 * [2023-04-14, 20:18:07](https://news.ycombinator.com/item?id=35574188) - [NASA&#x27;s Curiosity Mars rover gets a major software upgrade](https://phys.org/news/2023-04-nasa-curiosity-mars-rover-major.html)
 * [2023-04-14, 19:49:57](https://news.ycombinator.com/item?id=35573856) - [Cash App founder Bob Lee stabbed to death after argument about suspect&#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
 * [2023-04-14, 19:46:08](https://news.ycombinator.com/item?id=35573818) - [Alien motherships: Pentagon official floats a theory for unexplained sightings](https://www.politico.com/news/2023/04/14/pentagon-ufo-alien-object-00092108)

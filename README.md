@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-14, 20:25:07](https://news.ycombinator.com/item?id=35574273) - [Office vacancies in San Francisco jump to a record 33%](https://therealdeal.com/sanfrancisco/2023/04/10/office-vacancies-in-san-francisco-jump-to-a-record-33/)
 * [2023-04-14, 20:18:07](https://news.ycombinator.com/item?id=35574188) - [NASA&#x27;s Curiosity Mars rover gets a major software upgrade](https://phys.org/news/2023-04-nasa-curiosity-mars-rover-major.html)
 * [2023-04-14, 19:49:57](https://news.ycombinator.com/item?id=35573856) - [Cash App founder Bob Lee stabbed to death after argument about suspect&#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
 * [2023-04-14, 19:46:08](https://news.ycombinator.com/item?id=35573818) - [Alien motherships: Pentagon official floats a theory for unexplained sightings](https://www.politico.com/news/2023/04/14/pentagon-ufo-alien-object-00092108)
@@ -24,7 +25,6 @@
 * [2023-04-14, 08:02:05](https://news.ycombinator.com/item?id=35566768) - [Mike Perham, Creator of Sidekiq: From Employment to Independence](https://codecodeship.com/blog/2023-04-14-mike-perham)
 * [2023-04-14, 02:40:55](https://news.ycombinator.com/item?id=35564908) - [Joel Warner’s “The Curse of the Marquis de Sade”](https://lareviewofbooks.org/article/a-tale-of-literary-and-financial-debauchery-on-joel-warners-the-curse-of-the-marquis-de-sade/)
 * [2023-04-13, 16:19:26](https://news.ycombinator.com/item?id=35557848) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
-* [2023-04-13, 09:51:09](https://news.ycombinator.com/item?id=35553167) - [DIY IBM Selectric type balls give ’60s typewriters new life (and Comic Sans)](https://arstechnica.com/gadgets/2023/04/revive-your-vintage-ibm-selectric-typewriter-with-3d-printable-golf-balls/)
 * [2023-04-13, 06:46:15](https://news.ycombinator.com/item?id=35551929) - [What is NMAP and how to use it? (2020)](https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/)
 * [2023-04-13, 01:34:55](https://news.ycombinator.com/item?id=35549692) - [Kalyn: A self-hosting compiler for x86-64](https://intuitiveexplanations.com/tech/kalyn)
 * [2023-04-13, 00:51:27](https://news.ycombinator.com/item?id=35549377) - [Can Intelligence Be Separated from the Body?](https://www.nytimes.com/2023/04/11/science/artificial-intelligence-body-robots.html)
