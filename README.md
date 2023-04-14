@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-14, 17:46:14](https://news.ycombinator.com/item?id=35572393) - [To comply with a new sesame allergy law, some businesses add – sesame](https://www.washingtonpost.com/wellness/2023/04/11/sesame-allergy-law-consequences/)
+* [2023-04-14, 17:48:50](https://news.ycombinator.com/item?id=35572434) - [Show HN: WikiBinge – discover how all things are vaguely connected (2016)](https://www.wikibinge.com/)
 * [2023-04-14, 17:34:25](https://news.ycombinator.com/item?id=35572249) - [Show HN: Covid in Pixels](https://covid-in-pixels.eliothertenstein.com/)
 * [2023-04-14, 17:02:11](https://news.ycombinator.com/item?id=35571838) - [Svix (YC W21) is hiring Rust back end engineers (US remote)](https://www.svix.com/careers/)
 * [2023-04-14, 16:35:21](https://news.ycombinator.com/item?id=35571486) - [Ask HN: Side projects making less than $2k MRR, what&#x27;s your project?](https://news.ycombinator.com/item?id=35571486)
@@ -10,7 +10,7 @@
 * [2023-04-14, 15:37:31](https://news.ycombinator.com/item?id=35570742) - [Beyond Automatic Differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
 * [2023-04-14, 14:47:29](https://news.ycombinator.com/item?id=35570151) - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
 * [2023-04-14, 14:37:39](https://news.ycombinator.com/item?id=35570027) - [Data wrangling in Elixir with Explorer, the power of Rust, the elegance of R](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI)
-* [2023-04-14, 13:32:00](https://news.ycombinator.com/item?id=35569377) - [Automated shusher keeps conference loudmouths in line](https://hackaday.com/2023/04/13/automated-shusher-keeps-conference-loudmouths-in-line/)
+* [2023-04-14, 14:10:02](https://news.ycombinator.com/item?id=35569755) - [Remarkable things about Battlefield Earth (2012)](https://www.denofgeek.com/movies/10-remarkable-things-about-battlefield-earth/)
 * [2023-04-14, 12:01:28](https://news.ycombinator.com/item?id=35568512) - [Prehistoric timeline in Africa pushed back by more than 10M years](https://phys.org/news/2023-04-decade-long-prehistoric-timeline-africa-million.html)
 * [2023-04-14, 11:49:00](https://news.ycombinator.com/item?id=35568388) - [Juice launch to Jupiter – Live [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
 * [2023-04-14, 11:18:43](https://news.ycombinator.com/item?id=35568156) - [Two Categories of Journaling](https://tony-oreglia.medium.com/how-to-journal-8a5c0a2e873a)

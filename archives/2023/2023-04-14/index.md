@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 17:48:50](https://news.ycombinator.com/item?id=35572434) - [Show HN: WikiBinge – discover how all things are vaguely connected (2016)](https://www.wikibinge.com/)
 * [2023-04-14, 17:46:14](https://news.ycombinator.com/item?id=35572393) - [To comply with a new sesame allergy law, some businesses add – sesame](https://www.washingtonpost.com/wellness/2023/04/11/sesame-allergy-law-consequences/)
 * [2023-04-14, 17:34:25](https://news.ycombinator.com/item?id=35572249) - [Show HN: Covid in Pixels](https://covid-in-pixels.eliothertenstein.com/)
 * [2023-04-14, 17:07:08](https://news.ycombinator.com/item?id=35571892) - [Trendy “raw water” source under bird’s nest sparks diarrheal outbreak](https://arstechnica.com/science/2023/04/trendy-raw-water-source-under-birds-nest-sparks-diarrheal-outbreak/)
@@ -22,6 +23,7 @@
 * [2023-04-14, 14:47:29](https://news.ycombinator.com/item?id=35570151) - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
 * [2023-04-14, 14:37:39](https://news.ycombinator.com/item?id=35570027) - [Data wrangling in Elixir with Explorer, the power of Rust, the elegance of R](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI)
 * [2023-04-14, 14:14:29](https://news.ycombinator.com/item?id=35569805) - [Rust Learning Path from Novice to Mastery](https://nativebyx.dev/rust/becoming-rustacean/rust-learning-path-from-novice-to-mastery.html)
+* [2023-04-14, 14:10:02](https://news.ycombinator.com/item?id=35569755) - [Remarkable things about Battlefield Earth (2012)](https://www.denofgeek.com/movies/10-remarkable-things-about-battlefield-earth/)
 * [2023-04-14, 13:32:00](https://news.ycombinator.com/item?id=35569377) - [Automated Shusher Keeps Conference Loudmouths in Line](https://hackaday.com/2023/04/13/automated-shusher-keeps-conference-loudmouths-in-line/)
 * [2023-04-14, 13:30:25](https://news.ycombinator.com/item?id=35569364) - [Farmers Win the Right to Repair Their Own Tractors in Colorado](https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado)
 * [2023-04-14, 13:15:30](https://news.ycombinator.com/item?id=35569246) - [Not drone footage or an iPhone video. An AI model made this](https://www.youtube.com/watch?v=xrrhynRzC8k)
