@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-14, 10:58:45](https://news.ycombinator.com/item?id=35567986) - [Demographics of Hacker News](https://toolhub.tech/blog/Demographics-of-Hacker-News/)
+* [2023-04-14, 10:35:03](https://news.ycombinator.com/item?id=35567822) - [Ask HN: Side project of more that $2k monthly revenue what&#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
 * [2023-04-14, 09:24:57](https://news.ycombinator.com/item?id=35567285) - [Exoticsilicon.com – Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
-* [2023-04-14, 09:04:27](https://news.ycombinator.com/item?id=35567186) - [Stop whining about “The EU Cookie Policy” and improve your ways](https://social.wildeboer.net/@jwildeboer/110195737889831520)
 * [2023-04-14, 08:38:28](https://news.ycombinator.com/item?id=35567026) - [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
 * [2023-04-14, 08:05:13](https://news.ycombinator.com/item?id=35566791) - [Zig Build System](https://en.liujiacai.net/2023/04/13/zig-build-system/)
 * [2023-04-14, 07:06:41](https://news.ycombinator.com/item?id=35566416) - [Ask HN: Technology&#x2F;Creative books and games for my daughter (7 years)](https://news.ycombinator.com/item?id=35566416)
@@ -25,7 +26,6 @@
 * [2023-04-13, 17:36:39](https://news.ycombinator.com/item?id=35559124) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
 * [2023-04-13, 09:04:47](https://news.ycombinator.com/item?id=35552824) - [Zylin ZPU: 32 bit CPU with GCC toolchain](https://github.com/zylin/zpu)
 * [2023-04-13, 06:17:19](https://news.ycombinator.com/item?id=35551728) - [The Rules of the Games in Tudor England](https://www.laphamsquarterly.org/roundtable/rules-games-tudor-england)
-* [2023-04-13, 05:52:42](https://news.ycombinator.com/item?id=35551549) - [The Odd Knight of the Cinnamon Shops](https://www.tabletmag.com/sections/arts-letters/articles/odd-knight-cinnamon-shops-bruno-schulz)
 * [2023-04-12, 23:35:29](https://news.ycombinator.com/item?id=35548618) - [Requiem for a Great Cat](https://www.newyorker.com/culture/cultural-comment/requiem-for-a-great-cat)
 * [2023-04-12, 11:42:27](https://news.ycombinator.com/item?id=35538095) - [Searching for the River of Wind](https://nautil.us/searching-for-the-river-of-wind-294480/)
 * [2023-04-12, 09:56:45](https://news.ycombinator.com/item?id=35537248) - [Primitive Asgard cells show life on the brink of complexity](https://www.quantamagazine.org/primitive-asgard-cells-show-life-on-the-brink-of-complexity-20230411/)
