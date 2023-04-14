@@ -107,6 +107,7 @@
 * [2023-04-13, 02:16:09](https://news.ycombinator.com/item?id=35550000) - [Ban TikTok – But we need a better version of the RESTRICT Act](https://proton.me/blog/ban-tiktok-better-restrict-act)
 * [2023-04-13, 01:55:42](https://news.ycombinator.com/item?id=35549851) - [Tesla’s EV Market Share Is Dropping Fast](https://jalopnik.com/tesla-us-ev-market-share-is-dropping-fast-1850327204)
 * [2023-04-13, 01:38:46](https://news.ycombinator.com/item?id=35549727) - [Urban water crises driven by elites’ unsustainable consumption](https://www.nature.com/articles/s41893-023-01100-0)
+* [2023-04-13, 01:34:55](https://news.ycombinator.com/item?id=35549692) - [Kalyn: A self-hosting compiler for x86-64](https://intuitiveexplanations.com/tech/kalyn)
 * [2023-04-13, 01:12:16](https://news.ycombinator.com/item?id=35549521) - [Long Live the Free Software Foundation](https://www.concernednetizen.com/2023/04/long-live-the-free-software-foundation/)
 * [2023-04-13, 00:45:25](https://news.ycombinator.com/item?id=35549322) - [Was your degree really worth it?](https://www.economist.com/international/2023/04/03/was-your-degree-really-worth-it)
 * [2023-04-13, 00:27:19](https://news.ycombinator.com/item?id=35549145) - [The Future of Television Advertising (2005)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f4083bec95971f6449c24025c114c7b82b279f07)
