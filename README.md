@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-14, 15:37:31](https://news.ycombinator.com/item?id=35570742) - [Beyond Automatic Differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
 * [2023-04-14, 15:20:10](https://news.ycombinator.com/item?id=35570520) - [Spotify abandons Heardle less than a year after buying it](https://www.theverge.com/2023/4/14/23683240/spotify-shuts-down-heardle-music-guessing-game)
 * [2023-04-14, 14:47:29](https://news.ycombinator.com/item?id=35570151) - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
 * [2023-04-14, 14:37:39](https://news.ycombinator.com/item?id=35570027) - [Data wrangling in Elixir with Explorer, the power of Rust, the elegance of R](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI)
@@ -10,7 +11,6 @@
 * [2023-04-14, 11:49:00](https://news.ycombinator.com/item?id=35568388) - [Juice launch to Jupiter – Live [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
 * [2023-04-14, 10:35:03](https://news.ycombinator.com/item?id=35567822) - [Ask HN: Side project of more that $2k monthly revenue what&#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
 * [2023-04-14, 10:20:10](https://news.ycombinator.com/item?id=35567709) - [Universal Music Asks Streaming Services to Block AI Access to Its Songs](https://variety.com/2023/music/news/universal-music-streaming-services-block-ai-1235582612/)
-* [2023-04-14, 09:24:57](https://news.ycombinator.com/item?id=35567285) - [Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
 * [2023-04-14, 08:38:28](https://news.ycombinator.com/item?id=35567026) - [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
 * [2023-04-14, 08:05:13](https://news.ycombinator.com/item?id=35566791) - [Zig Build System](https://en.liujiacai.net/2023/04/13/zig-build-system/)
 * [2023-04-14, 08:02:05](https://news.ycombinator.com/item?id=35566768) - [Mike Perham, Creator of Sidekiq: From Employment to Independence](https://codecodeship.com/blog/2023-04-14-mike-perham)
