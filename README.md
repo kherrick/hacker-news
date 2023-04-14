@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-14, 07:11:59](https://news.ycombinator.com/item?id=35566447) - [Tesla sets up new-energy firm in Shanghai with $2M registered capital](https://www.reuters.com/business/sustainable-business/tesla-sets-up-new-energy-firm-shanghai-with-2-mln-registered-capital-tianyancha-2023-04-14/)
 * [2023-04-14, 06:22:16](https://news.ycombinator.com/item?id=35566145) - [91% of ML Models Degrade over Time](https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time)
 * [2023-04-14, 04:33:17](https://news.ycombinator.com/item?id=35565553) - [Vast New Stores of Water Reported on the Moon](https://spectrum.ieee.org/moon-water)
 * [2023-04-14, 03:30:10](https://news.ycombinator.com/item?id=35565212) - [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
@@ -7,7 +8,6 @@
 * [2023-04-14, 02:04:53](https://news.ycombinator.com/item?id=35564655) - [Layout 2013 and Layout 2020](https://servo.org/blog/2023/04/13/layout-2013-vs-2020/)
 * [2023-04-14, 01:40:28](https://news.ycombinator.com/item?id=35564521) - [The least impactful way to spend $300M?](https://passingtime.substack.com/p/whats-the-least-impactful-way-to)
 * [2023-04-14, 01:00:06](https://news.ycombinator.com/item?id=35564291) - [Atlas (YC W22) Is Hiring for a Demand Gen Manager (International)](https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global)
-* [2023-04-13, 22:10:20](https://news.ycombinator.com/item?id=35562807) - [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
 * [2023-04-13, 21:37:26](https://news.ycombinator.com/item?id=35562430) - [SQL:2023 is finished: Here is what&#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
 * [2023-04-13, 21:32:03](https://news.ycombinator.com/item?id=35562357) - [Shifting the Balance of Cybersecurity Risk: Security-by-Design and -Default [pdf]](https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf)
 * [2023-04-13, 21:22:40](https://news.ycombinator.com/item?id=35562230) - [Consent-O-Matic: Automatic cookie management](https://consentomatic.au.dk/)
@@ -23,13 +23,13 @@
 * [2023-04-13, 17:01:24](https://news.ycombinator.com/item?id=35558522) - [Segment Anything Model and the hard problems of computer vision](https://www.latent.space/p/segment-anything-roboflow#details)
 * [2023-04-13, 09:53:41](https://news.ycombinator.com/item?id=35553188) - [Witty Ticcy Ray (1981)](https://www.lrb.co.uk/the-paper/v03/n05/oliver-sacks/witty-ticcy-ray)
 * [2023-04-13, 09:04:47](https://news.ycombinator.com/item?id=35552824) - [Zylin ZPU: 32 bit CPU with GCC toolchain](https://github.com/zylin/zpu)
+* [2023-04-13, 06:17:19](https://news.ycombinator.com/item?id=35551728) - [The Rules of the Games in Tudor England](https://www.laphamsquarterly.org/roundtable/rules-games-tudor-england)
 * [2023-04-13, 02:58:59](https://news.ycombinator.com/item?id=35550339) - [Calculating Position from Raw GPS Data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2023-04-13, 00:27:19](https://news.ycombinator.com/item?id=35549145) - [The Future of Television Advertising (2005)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f4083bec95971f6449c24025c114c7b82b279f07)
 * [2023-04-12, 23:35:29](https://news.ycombinator.com/item?id=35548618) - [Requiem for a Great Cat](https://www.newyorker.com/culture/cultural-comment/requiem-for-a-great-cat)
 * [2023-04-12, 13:40:12](https://news.ycombinator.com/item?id=35539476) - [Show HN: Google Analytics alternative with the most generous free tier](https://beamanalytics.io/)
 * [2023-04-12, 09:56:45](https://news.ycombinator.com/item?id=35537248) - [Primitive Asgard cells show life on the brink of complexity](https://www.quantamagazine.org/primitive-asgard-cells-show-life-on-the-brink-of-complexity-20230411/)
 * [2023-04-12, 04:51:31](https://news.ycombinator.com/item?id=35535153) - [A Tudor Woman&#x27;s Home](https://blogs.bl.uk/digitisedmanuscripts/2023/04/inside-a-tudor-home.html)
-* [2023-04-12, 04:40:49](https://news.ycombinator.com/item?id=35535081) - [Paul Theroux reflects on the evolving nature of rail travel](https://www.nationalgeographic.com/travel/article/author-paul-theroux-rail-travel)
 
 ## [Archives](archives/index.md)
 
