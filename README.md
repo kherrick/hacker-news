@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-14, 21:54:39](https://news.ycombinator.com/item?id=35575303) - [Suspect Nima quizzed Bob Lee on inappropriate behavior with his sister](https://sfstandard.com/criminal-justice/suspected-bob-lee-killer-quizzed-him-on-inappropriate-contact-with-sister/)
 * [2023-04-14, 21:54:28](https://news.ycombinator.com/item?id=35575298) - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
 * [2023-04-14, 21:46:47](https://news.ycombinator.com/item?id=35575213) - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
 * [2023-04-14, 20:38:13](https://news.ycombinator.com/item?id=35574416) - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
@@ -29,6 +28,7 @@
 * [2023-04-13, 06:46:15](https://news.ycombinator.com/item?id=35551929) - [What is NMAP and how to use it? (2020)](https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/)
 * [2023-04-13, 01:34:55](https://news.ycombinator.com/item?id=35549692) - [Kalyn: A self-hosting compiler for x86-64](https://intuitiveexplanations.com/tech/kalyn)
 * [2023-04-13, 01:11:16](https://news.ycombinator.com/item?id=35549517) - [Running SunOS 4 in QEMU (Sparc)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
+* [2023-04-12, 13:31:03](https://news.ycombinator.com/item?id=35539348) - [How to play mumble-the-peg, mumchance, and hurling to the country](https://www.laphamsquarterly.org/roundtable/rules-games-tudor-england)
 * [2023-04-11, 22:25:25](https://news.ycombinator.com/item?id=35532473) - [The Case of the Fake Sherlock](https://nymag.com/intelligencer/article/richard-walter-criminal-profiler-fraud.html)
 
 ## [Archives](archives/index.md)
