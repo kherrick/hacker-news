@@ -77,6 +77,7 @@
 * [2023-04-12, 10:44:50](https://news.ycombinator.com/item?id=35537591) - [VS Code caught accessing the microphone in new update](https://imgur.com/a/2BpN0Pd)
 * [2023-04-12, 09:59:19](https://news.ycombinator.com/item?id=35537264) - [Ask HN: Is Software Getting Worse?](https://news.ycombinator.com/item?id=35537264)
 * [2023-04-12, 09:28:26](https://news.ycombinator.com/item?id=35537007) - [The Complete Guide to All the Taquerias of Redwood City, v2.0](http://www.emeraldlake.com/tacos/)
+* [2023-04-12, 09:23:24](https://news.ycombinator.com/item?id=35536951) - [Logic Paint: A transistor-level logic simulator](https://github.com/AThilenius/logic-paint-rs)
 * [2023-04-12, 09:15:04](https://news.ycombinator.com/item?id=35536890) - [The reality of being a Principal Engineer](https://leaddev.com/career-paths-progression-promotion/reality-being-principal-engineer)
 * [2023-04-12, 08:52:42](https://news.ycombinator.com/item?id=35536735) - [Toyota plug-in hybrids to offer 124-mile electric-only range](https://www.autocar.co.uk/car-news/new-cars/toyota-plug-hybrids-offer-124-mile-electric-only-range)
 * [2023-04-12, 08:36:15](https://news.ycombinator.com/item?id=35536625) - [“In 2050, everyone will be carbon literate”](https://read2050.substack.com/p/matthew-isaacs)

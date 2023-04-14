@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 23:41:57](https://news.ycombinator.com/item?id=35563692) - [An Update on Tornado Cash](https://www.eff.org/deeplinks/2023/04/update-tornado-cash)
 * [2023-04-13, 22:56:51](https://news.ycombinator.com/item?id=35563284) - [Popular porn site must delete all amateur videos posted without consent](https://arstechnica.com/tech-policy/2023/04/popular-porn-site-must-delete-all-amateur-videos-posted-without-consent/)
 * [2023-04-13, 22:22:33](https://news.ycombinator.com/item?id=35562936) - [Police Arrested a Tech Executive over the Stabbing Death of Bob Lee](https://www.buzzfeednews.com/article/davidmack/bob-lee-murder-suspect-arrested-cash-app-san-francisco)
 * [2023-04-13, 22:14:11](https://news.ycombinator.com/item?id=35562844) - [Chipotle plans to ditch gas grills at 100 new locations](https://www.theverge.com/2023/4/12/23680207/chipotle-gas-grill-electric-stove-climate-change)
@@ -16,6 +17,7 @@
 * [2023-04-13, 21:31:47](https://news.ycombinator.com/item?id=35562353) - [A Map of Places in the US with the Same Name](https://pudding.cool/2023/03/same-name/)
 * [2023-04-13, 21:22:40](https://news.ycombinator.com/item?id=35562230) - [Consent-O-Matic: Automatic cookie management](https://consentomatic.au.dk/)
 * [2023-04-13, 20:56:02](https://news.ycombinator.com/item?id=35561948) - [Camus&#x27;s New York Diary (1946)](https://www.theparisreview.org/blog/2023/03/14/camuss-new-york-diary-1946/)
+* [2023-04-13, 20:55:22](https://news.ycombinator.com/item?id=35561942) - [I hope you will never see this letter (1961)](https://news.lettersofnote.com/p/i-hope-you-will-never-see-this-letter)
 * [2023-04-13, 20:46:06](https://news.ycombinator.com/item?id=35561824) - [End-of-Life Dreams](https://www.commonwealmagazine.org/end-life-dreams)
 * [2023-04-13, 20:44:25](https://news.ycombinator.com/item?id=35561809) - [There’s no universal cordless power tool battery – why?](https://toolguyd.com/universal-cordless-power-tool-battery/)
 * [2023-04-13, 20:40:25](https://news.ycombinator.com/item?id=35561747) - [GPT Unicorn: A Daily Exploration of GPT-4&#x27;s Image Generation Capabilities](https://adamkdean.co.uk/posts/gpt-unicorn-a-daily-exploration-of-gpt-4s-image-generation-capabilities)
@@ -77,6 +79,7 @@
 * [2023-04-13, 10:47:21](https://news.ycombinator.com/item?id=35553514) - [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
 * [2023-04-13, 10:34:44](https://news.ycombinator.com/item?id=35553421) - [Google&#x27;s 2023 Shutdown Spree: 6 Products Pulled in Just 4 Months](https://toolhub.tech/blog/Google-2023-Shutdown-Spree-6-Products-Pulled-in-Just-4-Months/)
 * [2023-04-13, 10:19:39](https://news.ycombinator.com/item?id=35553337) - [YouTube-Dl Hosting Ban Paves the Way to Privatized Censorship](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
+* [2023-04-13, 09:04:47](https://news.ycombinator.com/item?id=35552824) - [Zylin ZPU: The worlds smallest 32 bit CPU with GCC toolchain](https://github.com/zylin/zpu)
 * [2023-04-13, 09:01:10](https://news.ycombinator.com/item?id=35552804) - [Audio&#x27;s Circle of Confusion (2009)](http://seanolive.blogspot.com/2009/10/audios-circle-of-confusion.html)
 * [2023-04-13, 08:57:14](https://news.ycombinator.com/item?id=35552768) - [Who Is Running Stanford?](https://stanforddaily.com/2023/04/10/letter-to-the-editor-who-is-running-stanford/)
 * [2023-04-13, 08:02:39](https://news.ycombinator.com/item?id=35552393) - [20-hour Auto Engineering Video Course from How a Car Works](https://www.howacarworks.com/video-course)
