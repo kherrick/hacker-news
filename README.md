@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-14, 02:48:19](https://news.ycombinator.com/item?id=35564965) - [The market is mostly being flooded with web developers](https://old.reddit.com/r/cscareerquestions/comments/12kbzyo/the_market_is_mostly_being_flooded_with_web/)
-* [2023-04-14, 02:31:47](https://news.ycombinator.com/item?id=35564841) - [Salesforce Is Leaving a San Francisco Office Tower Bearing Its Name](https://sfstandard.com/business/salesforce-looks-to-dump-its-remaining-office-space-at-salesforce-east/)
+* [2023-04-14, 02:36:27](https://news.ycombinator.com/item?id=35564874) - [GNU toolchain for RISC-V including GCC](https://github.com/riscv-collab/riscv-gnu-toolchain)
 * [2023-04-14, 02:04:53](https://news.ycombinator.com/item?id=35564655) - [Servo plans to move their layout engine to “Layout 2020”](https://servo.org/blog/2023/04/13/layout-2013-vs-2020/)
 * [2023-04-14, 01:40:28](https://news.ycombinator.com/item?id=35564521) - [What&#x27;s the Least Impactful Way to Spend $300,000,000?](https://passingtime.substack.com/p/whats-the-least-impactful-way-to)
 * [2023-04-14, 01:16:15](https://news.ycombinator.com/item?id=35564387) - [Your iPhone Was Built with Child Labor](https://www.thefp.com/p/your-iphone-was-built-with-child)
