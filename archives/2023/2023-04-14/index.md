@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 16:35:14](https://news.ycombinator.com/item?id=35571481) - [Spanish climber emerges after 500 days in cave](https://www.cbc.ca/news/world/spain-cave-500-days-beatriz-flamini-1.6810428)
+* [2023-04-14, 16:25:42](https://news.ycombinator.com/item?id=35571355) - [Inmates in a Brazil prison shorten their sentences by writing book reviews](https://www.cbc.ca/radio/undertheinfluence/inmates-in-a-brazil-prison-shorten-their-sentences-by-writing-book-reviews-1.6442390)
 * [2023-04-14, 15:40:11](https://news.ycombinator.com/item?id=35570782) - [Investigators find Pentagon leaker through Instagram photo](https://twitter.com/trbrtc/status/1646592080293122067)
 * [2023-04-14, 15:38:38](https://news.ycombinator.com/item?id=35570758) - [dbdev - The Database Package Manager for PostgreSQL Trusted Language Extensions](https://database.dev)
 * [2023-04-14, 15:37:31](https://news.ycombinator.com/item?id=35570742) - [Beyond Automatic Differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
