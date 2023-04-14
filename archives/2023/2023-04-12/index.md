@@ -76,6 +76,7 @@
 * [2023-04-12, 10:55:44](https://news.ycombinator.com/item?id=35537662) - [The Education of a Computer (1952)](https://fermatslibrary.com/s/the-education-of-a-computer)
 * [2023-04-12, 10:44:50](https://news.ycombinator.com/item?id=35537591) - [VS Code caught accessing the microphone in new update](https://imgur.com/a/2BpN0Pd)
 * [2023-04-12, 09:59:19](https://news.ycombinator.com/item?id=35537264) - [Ask HN: Is Software Getting Worse?](https://news.ycombinator.com/item?id=35537264)
+* [2023-04-12, 09:56:45](https://news.ycombinator.com/item?id=35537248) - [Primitive Asgard Cells Show Life on the Brink of Complexity](https://www.quantamagazine.org/primitive-asgard-cells-show-life-on-the-brink-of-complexity-20230411/)
 * [2023-04-12, 09:28:26](https://news.ycombinator.com/item?id=35537007) - [The Complete Guide to All the Taquerias of Redwood City, v2.0](http://www.emeraldlake.com/tacos/)
 * [2023-04-12, 09:23:24](https://news.ycombinator.com/item?id=35536951) - [Logic Paint: A transistor-level logic simulator](https://github.com/AThilenius/logic-paint-rs)
 * [2023-04-12, 09:15:04](https://news.ycombinator.com/item?id=35536890) - [The reality of being a Principal Engineer](https://leaddev.com/career-paths-progression-promotion/reality-being-principal-engineer)
