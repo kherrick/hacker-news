@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 22:37:39](https://news.ycombinator.com/item?id=35575753) - [Global wind energy will exceed 1 TW by the end of 2023](https://electrek.co/2023/04/14/global-wind-energy-will-exceed-1-tw-by-the-end-of-2023/)
 * [2023-04-14, 22:07:29](https://news.ycombinator.com/item?id=35575429) - [SpaceX is targeting Monday, April 17 for the first flight of Starship](https://www.spacex.com/launches/mission/?missionId=starship-flight-test)
 * [2023-04-14, 22:00:41](https://news.ycombinator.com/item?id=35575365) - [Even Machine Brains Need Sleep](https://nautil.us/even-machine-brains-need-sleep-288191/)
 * [2023-04-14, 21:54:39](https://news.ycombinator.com/item?id=35575303) - [Suspect Nima quizzed Bob Lee on inappropriate behavior with his sister](https://sfstandard.com/criminal-justice/suspected-bob-lee-killer-quizzed-him-on-inappropriate-contact-with-sister/)
