@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 12:31:51](https://news.ycombinator.com/item?id=35568799) - [Show HN: Dare to Debate an AI? Put Your Skills to the Test with DebateDevil](https://www.debate-devil.com/en)
 * [2023-04-14, 12:12:06](https://news.ycombinator.com/item?id=35568598) - [Canada is seeing violent crime like never before. What&#x27;s behind the crime wave](https://nationalpost.com/news/canada/canadas-violent-crime-wave)
 * [2023-04-14, 12:06:41](https://news.ycombinator.com/item?id=35568553) - [JUICE Launch Live Stream](https://www.youtube.com/watch?v=MvHcGmQPcsI)
 * [2023-04-14, 11:49:00](https://news.ycombinator.com/item?id=35568388) - [Live ESA launch to Jupiter [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
