@@ -6,6 +6,8 @@
 
 * [2023-04-14, 19:49:57](https://news.ycombinator.com/item?id=35573856) - [Cash App founder Bob Lee stabbed to death after argument about suspect&#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
 * [2023-04-14, 19:46:08](https://news.ycombinator.com/item?id=35573818) - [Alien motherships: Pentagon official floats a theory for unexplained sightings](https://www.politico.com/news/2023/04/14/pentagon-ufo-alien-object-00092108)
+* [2023-04-14, 19:34:01](https://news.ycombinator.com/item?id=35573696) - [The recycling warehouse fire reminds: plastics are a pollution nightmare](https://www.theverge.com/2023/4/14/23682273/plastics-air-pollution-recycling-facility-fire-richmond-indiana)
+* [2023-04-14, 19:27:57](https://news.ycombinator.com/item?id=35573624) - [Monolith: The Recommendation System Behind TikTok](https://gantry.io/blog/papers-to-know-20230110/)
 * [2023-04-14, 19:21:38](https://news.ycombinator.com/item?id=35573570) - [Bob Lee was stabbed to death after argument about the suspect&#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
 * [2023-04-14, 19:21:09](https://news.ycombinator.com/item?id=35573564) - [U.S. SEC sees decentralized crypto platforms as exchanges](https://www.reuters.com/markets/us/us-sec-weigh-taking-more-feedback-plan-expand-exchange-definition-2023-04-14/)
 * [2023-04-14, 19:00:55](https://news.ycombinator.com/item?id=35573374) - [Walmart Announces Closure of Four Chicago Stores](https://corporate.walmart.com/newsroom/2023/04/11/walmart-announces-closure-of-four-chicago-stores)
