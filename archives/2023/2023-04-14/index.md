@@ -10,6 +10,7 @@
 * [2023-04-14, 17:46:14](https://news.ycombinator.com/item?id=35572393) - [To comply with a new sesame allergy law, some businesses add – sesame](https://www.washingtonpost.com/wellness/2023/04/11/sesame-allergy-law-consequences/)
 * [2023-04-14, 17:37:24](https://news.ycombinator.com/item?id=35572290) - [Prompt injection: what’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
 * [2023-04-14, 17:34:25](https://news.ycombinator.com/item?id=35572249) - [Show HN: Covid in Pixels](https://covid-in-pixels.eliothertenstein.com/)
+* [2023-04-14, 17:22:56](https://news.ycombinator.com/item?id=35572092) - [Bizarre object 10M times brighter than the sun defies physics](https://www.livescience.com/space/cosmology/bizarre-object-10-million-times-brighter-than-the-sun-defies-physics-nasa-says)
 * [2023-04-14, 17:15:14](https://news.ycombinator.com/item?id=35571996) - [Skyscraper Proposed for 2700 Sloat Boulevard in Outer Sunset, San Francisco](https://sfyimby.com/2023/04/exclusive-skyscraper-proposed-for-2700-sloat-boulevard-in-outer-sunset-san-francisco.html)
 * [2023-04-14, 17:07:08](https://news.ycombinator.com/item?id=35571892) - [Trendy “raw water” source under bird’s nest sparks diarrheal outbreak](https://arstechnica.com/science/2023/04/trendy-raw-water-source-under-birds-nest-sparks-diarrheal-outbreak/)
 * [2023-04-14, 17:02:11](https://news.ycombinator.com/item?id=35571838) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
