@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-14, 21:54:39](https://news.ycombinator.com/item?id=35575303) - [Suspect Nima quizzed Bob Lee on inappropriate behavior with his sister](https://sfstandard.com/criminal-justice/suspected-bob-lee-killer-quizzed-him-on-inappropriate-contact-with-sister/)
 * [2023-04-14, 21:54:28](https://news.ycombinator.com/item?id=35575298) - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
 * [2023-04-14, 21:46:47](https://news.ycombinator.com/item?id=35575213) - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
 * [2023-04-14, 20:38:13](https://news.ycombinator.com/item?id=35574416) - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
@@ -8,7 +9,6 @@
 * [2023-04-14, 20:31:16](https://news.ycombinator.com/item?id=35574335) - [Oldest bat skeletons ever found described as new species](https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html)
 * [2023-04-14, 20:23:43](https://news.ycombinator.com/item?id=35574259) - [Searchable Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
 * [2023-04-14, 20:18:07](https://news.ycombinator.com/item?id=35574188) - [NASA&#x27;s Curiosity Mars rover gets a major software upgrade](https://phys.org/news/2023-04-nasa-curiosity-mars-rover-major.html)
-* [2023-04-14, 20:17:44](https://news.ycombinator.com/item?id=35574182) - [de(ep)tangle: Detection of Overlapping Splines](https://github.com/kirkegaardlab/deeptangle)
 * [2023-04-14, 20:17:36](https://news.ycombinator.com/item?id=35574177) - [ESA’s Juice lifts off on quest to discover secrets of Jupiter’s icy moons](https://www.esa.int/Science_Exploration/Space_Science/Juice/ESA_s_Juice_lifts_off_on_quest_to_discover_secrets_of_Jupiter_s_icy_moons)
 * [2023-04-14, 20:13:02](https://news.ycombinator.com/item?id=35574095) - [This website is solar powered and running on a Raspberry Pi-like computer](https://solar.leo32345.com/)
 * [2023-04-14, 19:58:22](https://news.ycombinator.com/item?id=35573925) - [Dreams are the default for intelligence](https://kk.org/thetechnium/dreams-are-the-default-for-intelligence/)

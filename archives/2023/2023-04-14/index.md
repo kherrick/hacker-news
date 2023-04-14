@@ -6,6 +6,7 @@
 
 * [2023-04-14, 22:07:29](https://news.ycombinator.com/item?id=35575429) - [SpaceX is targeting Monday, April 17 for the first flight of Starship](https://www.spacex.com/launches/mission/?missionId=starship-flight-test)
 * [2023-04-14, 22:00:41](https://news.ycombinator.com/item?id=35575365) - [Even Machine Brains Need Sleep](https://nautil.us/even-machine-brains-need-sleep-288191/)
+* [2023-04-14, 21:54:39](https://news.ycombinator.com/item?id=35575303) - [Suspect Nima quizzed Bob Lee on inappropriate behavior with his sister](https://sfstandard.com/criminal-justice/suspected-bob-lee-killer-quizzed-him-on-inappropriate-contact-with-sister/)
 * [2023-04-14, 21:54:28](https://news.ycombinator.com/item?id=35575298) - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
 * [2023-04-14, 21:46:47](https://news.ycombinator.com/item?id=35575213) - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
 * [2023-04-14, 20:54:13](https://news.ycombinator.com/item?id=35574611) - [The curse of being good in IT](https://bitecode.substack.com/p/the-curse-of-being-good-in-it)
