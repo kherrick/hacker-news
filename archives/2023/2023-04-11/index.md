@@ -9,6 +9,7 @@
 * [2023-04-11, 23:09:41](https://news.ycombinator.com/item?id=35532955) - [After 30 years, a father is exonerated in &#x27;Satanic panic&#x27; case](https://www.tpr.org/criminal-justice/2023-04-11/after-30-years-a-father-is-exonerated-in-satanic-panic-case)
 * [2023-04-11, 23:05:59](https://news.ycombinator.com/item?id=35532919) - [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)
 * [2023-04-11, 22:25:45](https://news.ycombinator.com/item?id=35532479) - [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
+* [2023-04-11, 22:25:25](https://news.ycombinator.com/item?id=35532473) - [The Case of the Fake Sherlock](https://nymag.com/intelligencer/article/richard-walter-criminal-profiler-fraud.html)
 * [2023-04-11, 22:24:12](https://news.ycombinator.com/item?id=35532458) - [Bay Area couple shocked by $200K hospital bill for rabies shots](https://abc7news.com/rabies-shot-hospital-bill-vacaville-ca-couple-northbay-healthcare-vacavalley/12788545/)
 * [2023-04-11, 21:42:07](https://news.ycombinator.com/item?id=35531989) - [Deck.of.cards](https://deck.of.cards/old/)
 * [2023-04-11, 21:28:51](https://news.ycombinator.com/item?id=35531833) - [Whole Foods closes San Francisco flagship after one year, citing worker safety](https://www.cnn.com/2023/04/11/business/san-francisco-whole-foods-closure/index.html)
