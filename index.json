@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=35574413"
     ],
     [
-      "Why Is ‘Juice Jacking’ Suddenly Back in the News?",
+      "Why is ‘juice jacking’ suddenly back in the news?",
       "https://krebsonsecurity.com/2023/04/why-is-juice-jacking-suddenly-back-in-the-news/"
-    ]
-  ],
-  [
-    [
-      "2023-04-14, 20:35:35",
-      "https://news.ycombinator.com/item?id=35574390"
-    ],
-    [
-      "Amazon Bedrock",
-      "https://aws.amazon.com/bedrock/"
     ]
   ],
   [
@@ -37,16 +27,6 @@
     [
       "Oldest bat skeletons ever found described as new species",
       "https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-14, 20:28:49",
-      "https://news.ycombinator.com/item?id=35574308"
-    ],
-    [
-      "Ask HN: Become a 10x developer with LLM? Myth? Reality?",
-      "https://news.ycombinator.com/item?id=35574308"
     ]
   ],
   [
@@ -155,7 +135,7 @@
       "https://news.ycombinator.com/item?id=35572434"
     ],
     [
-      "Show HN: WikiBinge – discover how all things are vaguely connected (2016)",
+      "Show HN: WikiBinge – discover how all things are vaguely connected",
       "https://www.wikibinge.com/"
     ]
   ],
@@ -205,7 +185,7 @@
       "https://news.ycombinator.com/item?id=35570758"
     ],
     [
-      "dbdev - The Database Package Manager for PostgreSQL Trusted Language Extensions",
+      "Dbdev – A database package manager for PostgreSQL trusted language extensions",
       "https://database.dev"
     ]
   ],
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2023-04-14, 08:05:13",
+      "https://news.ycombinator.com/item?id=35566791"
+    ],
+    [
+      "Zig build system",
+      "https://en.liujiacai.net/2023/04/13/zig-build-system/"
+    ]
+  ],
+  [
+    [
       "2023-04-14, 08:02:05",
       "https://news.ycombinator.com/item?id=35566768"
     ],
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2023-04-13, 01:11:16",
+      "https://news.ycombinator.com/item?id=35549517"
+    ],
+    [
+      "Running SunOS 4 in QEMU (Sparc)",
+      "https://john-millikin.com/running-sunos-4-in-qemu-sparc"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 00:51:27",
       "https://news.ycombinator.com/item?id=35549377"
     ],
     [
-      "Can Intelligence Be Separated from the Body?",
+      "Can intelligence be separated from the body?",
       "https://www.nytimes.com/2023/04/11/science/artificial-intelligence-body-robots.html"
     ]
   ]
