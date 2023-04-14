@@ -8,6 +8,7 @@
 * [2023-04-14, 22:00:41](https://news.ycombinator.com/item?id=35575365) - [Even Machine Brains Need Sleep](https://nautil.us/even-machine-brains-need-sleep-288191/)
 * [2023-04-14, 21:54:28](https://news.ycombinator.com/item?id=35575298) - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
 * [2023-04-14, 21:46:47](https://news.ycombinator.com/item?id=35575213) - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
+* [2023-04-14, 20:54:13](https://news.ycombinator.com/item?id=35574611) - [The curse of being good in IT](https://bitecode.substack.com/p/the-curse-of-being-good-in-it)
 * [2023-04-14, 20:38:13](https://news.ycombinator.com/item?id=35574416) - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
 * [2023-04-14, 20:38:07](https://news.ycombinator.com/item?id=35574413) - [Why Is ‘Juice Jacking’ Suddenly Back in the News?](https://krebsonsecurity.com/2023/04/why-is-juice-jacking-suddenly-back-in-the-news/)
 * [2023-04-14, 20:35:35](https://news.ycombinator.com/item?id=35574390) - [Amazon Bedrock](https://aws.amazon.com/bedrock/)
