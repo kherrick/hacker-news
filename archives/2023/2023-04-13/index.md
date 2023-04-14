@@ -113,6 +113,7 @@
 * [2023-04-13, 01:38:46](https://news.ycombinator.com/item?id=35549727) - [Urban water crises driven by elites’ unsustainable consumption](https://www.nature.com/articles/s41893-023-01100-0)
 * [2023-04-13, 01:34:55](https://news.ycombinator.com/item?id=35549692) - [Kalyn: A self-hosting compiler for x86-64](https://intuitiveexplanations.com/tech/kalyn)
 * [2023-04-13, 01:12:16](https://news.ycombinator.com/item?id=35549521) - [Long Live the Free Software Foundation](https://www.concernednetizen.com/2023/04/long-live-the-free-software-foundation/)
+* [2023-04-13, 00:51:27](https://news.ycombinator.com/item?id=35549377) - [Can Intelligence Be Separated from the Body?](https://www.nytimes.com/2023/04/11/science/artificial-intelligence-body-robots.html)
 * [2023-04-13, 00:45:25](https://news.ycombinator.com/item?id=35549322) - [Was your degree really worth it?](https://www.economist.com/international/2023/04/03/was-your-degree-really-worth-it)
 * [2023-04-13, 00:27:19](https://news.ycombinator.com/item?id=35549145) - [The Future of Television Advertising (2005)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f4083bec95971f6449c24025c114c7b82b279f07)
 * [2023-04-13, 00:24:21](https://news.ycombinator.com/item?id=35549116) - [Lindows 4.0 (2003)](https://baturin.org/misc/software-reviews/lindows/)

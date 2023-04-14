@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-14, 20:18:07](https://news.ycombinator.com/item?id=35574188) - [NASA&#x27;s Curiosity Mars rover gets a major software upgrade](https://phys.org/news/2023-04-nasa-curiosity-mars-rover-major.html)
 * [2023-04-14, 19:49:57](https://news.ycombinator.com/item?id=35573856) - [Cash App founder Bob Lee stabbed to death after argument about suspect&#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
 * [2023-04-14, 19:46:08](https://news.ycombinator.com/item?id=35573818) - [Alien motherships: Pentagon official floats a theory for unexplained sightings](https://www.politico.com/news/2023/04/14/pentagon-ufo-alien-object-00092108)
 * [2023-04-14, 19:34:01](https://news.ycombinator.com/item?id=35573696) - [The recycling warehouse fire reminds: plastics are a pollution nightmare](https://www.theverge.com/2023/4/14/23682273/plastics-air-pollution-recycling-facility-fire-richmond-indiana)
@@ -8,7 +9,6 @@
 * [2023-04-14, 18:51:44](https://news.ycombinator.com/item?id=35573278) - [Universal Install Script](https://xkcd.com/1654/)
 * [2023-04-14, 17:48:50](https://news.ycombinator.com/item?id=35572434) - [Show HN: WikiBinge – discover how all things are vaguely connected (2016)](https://www.wikibinge.com/)
 * [2023-04-14, 17:37:24](https://news.ycombinator.com/item?id=35572290) - [Prompt injection: what’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
-* [2023-04-14, 17:22:56](https://news.ycombinator.com/item?id=35572092) - [Bizarre object 10M times brighter than the sun defies physics](https://www.livescience.com/space/cosmology/bizarre-object-10-million-times-brighter-than-the-sun-defies-physics-nasa-says)
 * [2023-04-14, 17:02:11](https://news.ycombinator.com/item?id=35571838) - [Svix (YC W21) is hiring Rust back end engineers (US remote)](https://www.svix.com/careers/)
 * [2023-04-14, 16:35:14](https://news.ycombinator.com/item?id=35571481) - [Spanish climber emerges after 500 days in cave](https://www.cbc.ca/news/world/spain-cave-500-days-beatriz-flamini-1.6810428)
 * [2023-04-14, 16:25:42](https://news.ycombinator.com/item?id=35571355) - [Inmates in a Brazil prison shorten their sentences by writing book reviews](https://www.cbc.ca/radio/undertheinfluence/inmates-in-a-brazil-prison-shorten-their-sentences-by-writing-book-reviews-1.6442390)
@@ -22,12 +22,12 @@
 * [2023-04-14, 08:38:28](https://news.ycombinator.com/item?id=35567026) - [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
 * [2023-04-14, 08:05:13](https://news.ycombinator.com/item?id=35566791) - [Zig build system](https://en.liujiacai.net/2023/04/13/zig-build-system/)
 * [2023-04-14, 08:02:05](https://news.ycombinator.com/item?id=35566768) - [Mike Perham, Creator of Sidekiq: From Employment to Independence](https://codecodeship.com/blog/2023-04-14-mike-perham)
-* [2023-04-14, 04:59:29](https://news.ycombinator.com/item?id=35565681) - [An open source AI tool to animate children&#x27;s drawings](https://github.com/facebookresearch/AnimatedDrawings)
 * [2023-04-14, 02:40:55](https://news.ycombinator.com/item?id=35564908) - [Joel Warner’s “The Curse of the Marquis de Sade”](https://lareviewofbooks.org/article/a-tale-of-literary-and-financial-debauchery-on-joel-warners-the-curse-of-the-marquis-de-sade/)
 * [2023-04-13, 16:19:26](https://news.ycombinator.com/item?id=35557848) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 * [2023-04-13, 09:51:09](https://news.ycombinator.com/item?id=35553167) - [DIY IBM Selectric type balls give ’60s typewriters new life (and Comic Sans)](https://arstechnica.com/gadgets/2023/04/revive-your-vintage-ibm-selectric-typewriter-with-3d-printable-golf-balls/)
 * [2023-04-13, 06:46:15](https://news.ycombinator.com/item?id=35551929) - [What is NMAP and how to use it? (2020)](https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/)
 * [2023-04-13, 01:34:55](https://news.ycombinator.com/item?id=35549692) - [Kalyn: A self-hosting compiler for x86-64](https://intuitiveexplanations.com/tech/kalyn)
+* [2023-04-13, 00:51:27](https://news.ycombinator.com/item?id=35549377) - [Can Intelligence Be Separated from the Body?](https://www.nytimes.com/2023/04/11/science/artificial-intelligence-body-robots.html)
 * [2023-04-12, 13:31:03](https://news.ycombinator.com/item?id=35539348) - [How to play mumble-the-peg, mumchance, and hurling to the country](https://www.laphamsquarterly.org/roundtable/rules-games-tudor-england)
 * [2023-04-11, 22:25:25](https://news.ycombinator.com/item?id=35532473) - [The Case of the Fake Sherlock](https://nymag.com/intelligencer/article/richard-walter-criminal-profiler-fraud.html)
 
