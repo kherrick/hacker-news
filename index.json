@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-14, 02:48:19",
+      "https://news.ycombinator.com/item?id=35564965"
+    ],
+    [
+      "The market is mostly being flooded with web developers",
+      "https://old.reddit.com/r/cscareerquestions/comments/12kbzyo/the_market_is_mostly_being_flooded_with_web/"
+    ]
+  ],
+  [
+    [
+      "2023-04-14, 02:31:47",
+      "https://news.ycombinator.com/item?id=35564841"
+    ],
+    [
+      "Salesforce Is Leaving a San Francisco Office Tower Bearing Its Name",
+      "https://sfstandard.com/business/salesforce-looks-to-dump-its-remaining-office-space-at-salesforce-east/"
+    ]
+  ],
+  [
+    [
       "2023-04-14, 02:04:53",
       "https://news.ycombinator.com/item?id=35564655"
     ],
@@ -37,16 +57,6 @@
     [
       "Atlas (YC W22) Is Hiring for a Demand Gen Manager (International)",
       "https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 23:41:57",
-      "https://news.ycombinator.com/item?id=35563692"
-    ],
-    [
-      "An Update on Tornado Cash",
-      "https://www.eff.org/deeplinks/2023/04/update-tornado-cash"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Don’t record your social life on an append-only social network (2022)",
       "https://www.ctrl.blog/entry/append-only-social.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 18:29:04",
-      "https://news.ycombinator.com/item?id=35559925"
-    ],
-    [
-      "Elixir and Rust is a good mix",
-      "https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-04-10, 10:59:28",
-      "https://news.ycombinator.com/item?id=35510985"
+      "2023-04-10, 10:31:45",
+      "https://news.ycombinator.com/item?id=35510844"
     ],
     [
-      "Size Matters: An Exploration of Virtual Memory on iOS (2022)",
-      "https://alwaysprocessing.blog/2022/02/20/size-matters"
+      "Show HN: The Hardware Lottery",
+      "https://hardwarelottery.github.io/"
     ]
   ]
 ]
