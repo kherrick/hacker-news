@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-14, 04:49:24](https://news.ycombinator.com/item?id=35565626) - [Missouri restricts adults from seeking gender-affirming care](https://www.businessinsider.com/missouri-attorney-general-regulations-gender-affirming-care-transgender-depression-2023-4)
 * [2023-04-14, 04:33:17](https://news.ycombinator.com/item?id=35565553) - [Vast New Stores of Water Reported on the Moon](https://spectrum.ieee.org/moon-water)
 * [2023-04-14, 04:13:26](https://news.ycombinator.com/item?id=35565431) - [A Computer Generated Swatting Service Is Causing Havoc Across America](https://www.vice.com/en/article/k7z8be/torswats-computer-generated-ai-voice-swatting)
 * [2023-04-14, 03:30:10](https://news.ycombinator.com/item?id=35565212) - [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
@@ -22,6 +21,7 @@
 * [2023-04-13, 17:38:22](https://news.ycombinator.com/item?id=35559145) - [Warm liquid from Oregon seafloor comes from Cascadia fault](https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafloor-comes-from-cascadia-fault-could-offer-clues-to-earthquake-hazards/)
 * [2023-04-13, 17:36:39](https://news.ycombinator.com/item?id=35559124) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
 * [2023-04-13, 17:01:24](https://news.ycombinator.com/item?id=35558522) - [Segment Anything Model and the hard problems of computer vision](https://www.latent.space/p/segment-anything-roboflow#details)
+* [2023-04-13, 09:53:41](https://news.ycombinator.com/item?id=35553188) - [Witty Ticcy Ray (1981)](https://www.lrb.co.uk/the-paper/v03/n05/oliver-sacks/witty-ticcy-ray)
 * [2023-04-13, 09:04:47](https://news.ycombinator.com/item?id=35552824) - [Zylin ZPU: 32 bit CPU with GCC toolchain](https://github.com/zylin/zpu)
 * [2023-04-13, 02:58:59](https://news.ycombinator.com/item?id=35550339) - [Calculating Position from Raw GPS Data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2023-04-13, 00:27:19](https://news.ycombinator.com/item?id=35549145) - [The Future of Television Advertising (2005)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f4083bec95971f6449c24025c114c7b82b279f07)
