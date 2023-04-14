@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-14, 17:46:14](https://news.ycombinator.com/item?id=35572393) - [To comply with a new sesame allergy law, some businesses add – sesame](https://www.washingtonpost.com/wellness/2023/04/11/sesame-allergy-law-consequences/)
+* [2023-04-14, 17:34:25](https://news.ycombinator.com/item?id=35572249) - [Show HN: Covid in Pixels](https://covid-in-pixels.eliothertenstein.com/)
 * [2023-04-14, 17:02:11](https://news.ycombinator.com/item?id=35571838) - [Svix (YC W21) is hiring Rust back end engineers (US remote)](https://www.svix.com/careers/)
 * [2023-04-14, 16:35:21](https://news.ycombinator.com/item?id=35571486) - [Ask HN: Side projects making less than $2k MRR, what&#x27;s your project?](https://news.ycombinator.com/item?id=35571486)
 * [2023-04-14, 16:35:14](https://news.ycombinator.com/item?id=35571481) - [Spanish climber emerges after 500 days in cave](https://www.cbc.ca/news/world/spain-cave-500-days-beatriz-flamini-1.6810428)
@@ -17,7 +18,6 @@
 * [2023-04-14, 08:38:28](https://news.ycombinator.com/item?id=35567026) - [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
 * [2023-04-14, 08:05:13](https://news.ycombinator.com/item?id=35566791) - [Zig build system](https://en.liujiacai.net/2023/04/13/zig-build-system/)
 * [2023-04-14, 08:02:05](https://news.ycombinator.com/item?id=35566768) - [Mike Perham, Creator of Sidekiq: From Employment to Independence](https://codecodeship.com/blog/2023-04-14-mike-perham)
-* [2023-04-14, 06:48:18](https://news.ycombinator.com/item?id=35566315) - [Crem: Compositional Representable Executable Machines](https://www.tweag.io/blog/2023-04-13-crem-state-machines/)
 * [2023-04-14, 06:22:16](https://news.ycombinator.com/item?id=35566145) - [Temporal quality degradation in AI models](https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time)
 * [2023-04-14, 04:59:29](https://news.ycombinator.com/item?id=35565681) - [An open source AI tool to animate children&#x27;s drawings](https://github.com/facebookresearch/AnimatedDrawings)
 * [2023-04-14, 04:33:17](https://news.ycombinator.com/item?id=35565553) - [Vast new stores of water reported on the moon](https://spectrum.ieee.org/moon-water)
