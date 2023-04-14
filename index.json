@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-04-14, 20:35:00",
+      "https://news.ycombinator.com/item?id=35574379"
+    ],
+    [
+      "A new search for a new world",
+      "https://www.freepik.com/blog/new-search-new-world/"
+    ]
+  ],
+  [
+    [
       "2023-04-14, 20:31:16",
       "https://news.ycombinator.com/item?id=35574335"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2023-04-14, 20:13:02",
-      "https://news.ycombinator.com/item?id=35574095"
+      "2023-04-14, 20:14:03",
+      "https://news.ycombinator.com/item?id=35574117"
     ],
     [
-      "This website is solar powered and running on a Raspberry Pi-like computer",
-      "https://solar.leo32345.com/"
+      "EU&#x27;s AI Act: ChatGPT must disclose use of copyrighted training data",
+      "https://www.artisana.ai/articles/eus-ai-act-stricter-rules-for-chatbots-on-the-horizon"
     ]
   ],
   [
@@ -95,18 +105,8 @@
       "https://news.ycombinator.com/item?id=35573925"
     ],
     [
-      "Dreams Are the Default for Intelligence",
+      "Dreams are the default for intelligence",
       "https://kk.org/thetechnium/dreams-are-the-default-for-intelligence/"
-    ]
-  ],
-  [
-    [
-      "2023-04-14, 19:32:08",
-      "https://news.ycombinator.com/item?id=35573676"
-    ],
-    [
-      "Help I have a JavaScript Lib that blows away competition but nobody knows of it",
-      "https://adzejs.com/"
     ]
   ],
   [
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=35573278"
     ],
     [
-      "Universal Install Script",
+      "Universal Install Script (2016)",
       "https://xkcd.com/1654/"
     ]
   ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=35570742"
     ],
     [
-      "Beyond Automatic Differentiation",
+      "Beyond automatic differentiation",
       "https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html"
     ]
   ],
@@ -207,16 +207,6 @@
     [
       "Prehistoric timeline in Africa pushed back by more than 10M years",
       "https://phys.org/news/2023-04-decade-long-prehistoric-timeline-africa-million.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-14, 11:18:43",
-      "https://news.ycombinator.com/item?id=35568156"
-    ],
-    [
-      "Two Categories of Journaling",
-      "https://tony-oreglia.medium.com/how-to-journal-8a5c0a2e873a"
     ]
   ],
   [
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=35567026"
     ],
     [
-      "Largest island in a lake on an island in a lake on an island",
+      "Largest island in a lake on an island in a lake on an island (2007)",
       "https://www.elbruz.org/special-projects/islands-and-lakes/"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "What is NMAP and how to use it? (2020)",
       "https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/"
+    ]
+  ],
+  [
+    [
+      "2023-04-13, 01:34:55",
+      "https://news.ycombinator.com/item?id=35549692"
+    ],
+    [
+      "Kalyn: A self-hosting compiler for x86-64",
+      "https://intuitiveexplanations.com/tech/kalyn"
     ]
   ],
   [
