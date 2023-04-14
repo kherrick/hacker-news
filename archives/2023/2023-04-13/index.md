@@ -96,6 +96,7 @@
 * [2023-04-13, 06:17:19](https://news.ycombinator.com/item?id=35551728) - [The Rules of the Games in Tudor England](https://www.laphamsquarterly.org/roundtable/rules-games-tudor-england)
 * [2023-04-13, 05:52:42](https://news.ycombinator.com/item?id=35551549) - [The Odd Knight of the Cinnamon Shops](https://www.tabletmag.com/sections/arts-letters/articles/odd-knight-cinnamon-shops-bruno-schulz)
 * [2023-04-13, 04:53:06](https://news.ycombinator.com/item?id=35551103) - [KDE Plasma Is Not a Desktop Environment](https://blog.nicco.love/kde-plasma-is-not-a-desktop-environment/)
+* [2023-04-13, 04:51:07](https://news.ycombinator.com/item?id=35551082) - [Bangladesh’s riverine villages are benefiting from clever design](https://www.economist.com/culture/2023/04/12/bangladeshs-riverine-villages-are-benefiting-from-clever-design)
 * [2023-04-13, 04:49:39](https://news.ycombinator.com/item?id=35551068) - [FTX Discovers $7.3B in Assets](https://solanafloor.com/news/ftx-discovers-7-3-billion-in-assets-after-bankruptcy)
 * [2023-04-13, 04:04:47](https://news.ycombinator.com/item?id=35550803) - [The V Programming Language](https://vlang.io/)
 * [2023-04-13, 04:02:39](https://news.ycombinator.com/item?id=35550786) - [Kids Toys Suck (2011)](http://jesda.com/2011/02/10/kids-toys-suck/)
