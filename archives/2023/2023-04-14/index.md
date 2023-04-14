@@ -6,6 +6,7 @@
 
 * [2023-04-14, 20:38:13](https://news.ycombinator.com/item?id=35574416) - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
 * [2023-04-14, 20:38:07](https://news.ycombinator.com/item?id=35574413) - [Why Is ‘Juice Jacking’ Suddenly Back in the News?](https://krebsonsecurity.com/2023/04/why-is-juice-jacking-suddenly-back-in-the-news/)
+* [2023-04-14, 20:35:35](https://news.ycombinator.com/item?id=35574390) - [Amazon Bedrock](https://aws.amazon.com/bedrock/)
 * [2023-04-14, 20:31:16](https://news.ycombinator.com/item?id=35574335) - [Oldest bat skeletons ever found described as new species](https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html)
 * [2023-04-14, 20:28:49](https://news.ycombinator.com/item?id=35574308) - [Ask HN: Become a 10x developer with LLM? Myth? Reality?](https://news.ycombinator.com/item?id=35574308)
 * [2023-04-14, 20:25:07](https://news.ycombinator.com/item?id=35574273) - [Office vacancies in San Francisco jump to a record 33%](https://therealdeal.com/sanfrancisco/2023/04/10/office-vacancies-in-san-francisco-jump-to-a-record-33/)
