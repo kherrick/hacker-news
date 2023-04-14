@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 14:47:29](https://news.ycombinator.com/item?id=35570151) - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
 * [2023-04-14, 14:14:29](https://news.ycombinator.com/item?id=35569805) - [Rust Learning Path from Novice to Mastery](https://nativebyx.dev/rust/becoming-rustacean/rust-learning-path-from-novice-to-mastery.html)
+* [2023-04-14, 13:32:00](https://news.ycombinator.com/item?id=35569377) - [Automated Shusher Keeps Conference Loudmouths in Line](https://hackaday.com/2023/04/13/automated-shusher-keeps-conference-loudmouths-in-line/)
 * [2023-04-14, 13:30:25](https://news.ycombinator.com/item?id=35569364) - [Farmers Win the Right to Repair Their Own Tractors in Colorado](https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado)
 * [2023-04-14, 13:15:30](https://news.ycombinator.com/item?id=35569246) - [Not drone footage or an iPhone video. An AI model made this](https://www.youtube.com/watch?v=xrrhynRzC8k)
 * [2023-04-14, 13:00:12](https://news.ycombinator.com/item?id=35569090) - [AI-generated image wins Sony World Photography Awards 2023](https://www.eldagsen.com/sony-world-photography-awards-2023/)
@@ -12,6 +14,7 @@
 * [2023-04-14, 12:16:41](https://news.ycombinator.com/item?id=35568652) - [Everything advertised on social media is overpriced junk](https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/)
 * [2023-04-14, 12:12:06](https://news.ycombinator.com/item?id=35568598) - [Canada is seeing violent crime like never before. What&#x27;s behind the crime wave](https://nationalpost.com/news/canada/canadas-violent-crime-wave)
 * [2023-04-14, 12:06:41](https://news.ycombinator.com/item?id=35568553) - [JUICE Launch Live Stream](https://www.youtube.com/watch?v=MvHcGmQPcsI)
+* [2023-04-14, 12:01:28](https://news.ycombinator.com/item?id=35568512) - [Project pushes back the hominid timeline in Africa by more than 10M years](https://phys.org/news/2023-04-decade-long-prehistoric-timeline-africa-million.html)
 * [2023-04-14, 11:49:00](https://news.ycombinator.com/item?id=35568388) - [Live ESA launch to Jupiter [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
 * [2023-04-14, 11:20:38](https://news.ycombinator.com/item?id=35568175) - [Missouri state House Republicans vote to defund public libraries](https://www.salon.com/2023/04/12/missouri-state-vote-to-defund-public-libraries_partner/)
 * [2023-04-14, 11:03:29](https://news.ycombinator.com/item?id=35568023) - [Why employees hate ‘pizza parties’ but HR loves having them](https://www.moneycontrol.com/news/business/why-employees-hate-pizza-parties-but-hr-loves-having-them-10411841.html)
@@ -19,6 +22,7 @@
 * [2023-04-14, 10:48:37](https://news.ycombinator.com/item?id=35567913) - [OpenAI’s red team: the experts hired to ‘break’ ChatGPT](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8)
 * [2023-04-14, 10:38:30](https://news.ycombinator.com/item?id=35567842) - [The Dangerous Rise of Front Yard Polticics](https://www.theatlantic.com/ideas/archive/2023/04/front-yard-placards-nimby-dei-refugees/673706/)
 * [2023-04-14, 10:35:03](https://news.ycombinator.com/item?id=35567822) - [Ask HN: Side project of more that $2k monthly revenue what&#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
+* [2023-04-14, 10:20:10](https://news.ycombinator.com/item?id=35567709) - [Universal Music Asks Streaming Services to Block AI Access to Its Songs](https://variety.com/2023/music/news/universal-music-streaming-services-block-ai-1235582612/)
 * [2023-04-14, 09:24:57](https://news.ycombinator.com/item?id=35567285) - [Exoticsilicon.com – Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
 * [2023-04-14, 09:04:27](https://news.ycombinator.com/item?id=35567186) - [Stop whining about “The EU Cookie Policy” and improve your ways](https://social.wildeboer.net/@jwildeboer/110195737889831520)
 * [2023-04-14, 08:38:28](https://news.ycombinator.com/item?id=35567026) - [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
