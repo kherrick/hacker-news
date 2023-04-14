@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-14, 17:07:08](https://news.ycombinator.com/item?id=35571892) - [Trendy “raw water” source under bird’s nest sparks diarrheal outbreak](https://arstechnica.com/science/2023/04/trendy-raw-water-source-under-birds-nest-sparks-diarrheal-outbreak/)
 * [2023-04-14, 17:02:11](https://news.ycombinator.com/item?id=35571838) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
 * [2023-04-14, 16:46:55](https://news.ycombinator.com/item?id=35571629) - [Parler shuts down as new owner says conservative platform needs big revamp](https://arstechnica.com/tech-policy/2023/04/parler-shuts-down-as-new-owner-says-conservative-platform-needs-big-revamp/)
 * [2023-04-14, 16:35:14](https://news.ycombinator.com/item?id=35571481) - [Spanish climber emerges after 500 days in cave](https://www.cbc.ca/news/world/spain-cave-500-days-beatriz-flamini-1.6810428)
@@ -13,7 +14,6 @@
 * [2023-04-14, 14:37:39](https://news.ycombinator.com/item?id=35570027) - [Data wrangling in Elixir with Explorer, the power of Rust, the elegance of R](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI)
 * [2023-04-14, 12:01:28](https://news.ycombinator.com/item?id=35568512) - [Prehistoric timeline in Africa pushed back by more than 10M years](https://phys.org/news/2023-04-decade-long-prehistoric-timeline-africa-million.html)
 * [2023-04-14, 11:49:00](https://news.ycombinator.com/item?id=35568388) - [Juice launch to Jupiter – Live [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
-* [2023-04-14, 10:35:03](https://news.ycombinator.com/item?id=35567822) - [Ask HN: Side project of more that $2k monthly revenue what&#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
 * [2023-04-14, 08:38:28](https://news.ycombinator.com/item?id=35567026) - [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
 * [2023-04-14, 08:05:13](https://news.ycombinator.com/item?id=35566791) - [Zig Build System](https://en.liujiacai.net/2023/04/13/zig-build-system/)
 * [2023-04-14, 08:02:05](https://news.ycombinator.com/item?id=35566768) - [Mike Perham, Creator of Sidekiq: From Employment to Independence](https://codecodeship.com/blog/2023-04-14-mike-perham)
