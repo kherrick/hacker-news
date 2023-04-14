@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-14, 01:40:28](https://news.ycombinator.com/item?id=35564521) - [What&#x27;s the Least Impactful Way to Spend $300,000,000?](https://passingtime.substack.com/p/whats-the-least-impactful-way-to)
+* [2023-04-14, 01:16:15](https://news.ycombinator.com/item?id=35564387) - [Your iPhone Was Built with Child Labor](https://www.thefp.com/p/your-iphone-was-built-with-child)
 * [2023-04-14, 01:00:06](https://news.ycombinator.com/item?id=35564291) - [Atlas (YC W22) Is Hiring for a Demand Gen Manager (International)](https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global)
 * [2023-04-13, 23:41:57](https://news.ycombinator.com/item?id=35563692) - [An Update on Tornado Cash](https://www.eff.org/deeplinks/2023/04/update-tornado-cash)
 * [2023-04-13, 22:10:20](https://news.ycombinator.com/item?id=35562807) - [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
@@ -25,7 +26,6 @@
 * [2023-04-13, 02:58:59](https://news.ycombinator.com/item?id=35550339) - [Calculating Position from Raw GPS Data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2023-04-12, 23:35:29](https://news.ycombinator.com/item?id=35548618) - [Requiem for a Great Cat](https://www.newyorker.com/culture/cultural-comment/requiem-for-a-great-cat)
 * [2023-04-12, 13:40:12](https://news.ycombinator.com/item?id=35539476) - [Show HN: Google Analytics alternative with the most generous free tier](https://beamanalytics.io/)
-* [2023-04-12, 09:23:24](https://news.ycombinator.com/item?id=35536951) - [Logic Paint: A transistor-level logic simulator](https://github.com/AThilenius/logic-paint-rs)
 * [2023-04-12, 04:51:31](https://news.ycombinator.com/item?id=35535153) - [A Tudor Woman&#x27;s Home](https://blogs.bl.uk/digitisedmanuscripts/2023/04/inside-a-tudor-home.html)
 * [2023-04-12, 04:40:49](https://news.ycombinator.com/item?id=35535081) - [Paul Theroux reflects on the evolving nature of rail travel](https://www.nationalgeographic.com/travel/article/author-paul-theroux-rail-travel)
 * [2023-04-11, 14:43:10](https://news.ycombinator.com/item?id=35525877) - [A life of splendid uselessness is a life well lived](https://psyche.co/ideas/a-life-of-splendid-uselessness-is-a-life-well-lived)
