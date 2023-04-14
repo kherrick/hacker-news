@@ -2,6 +2,7 @@
 
 * [2023-04-14, 15:20:10](https://news.ycombinator.com/item?id=35570520) - [Spotify abandons Heardle less than a year after buying it](https://www.theverge.com/2023/4/14/23683240/spotify-shuts-down-heardle-music-guessing-game)
 * [2023-04-14, 14:47:29](https://news.ycombinator.com/item?id=35570151) - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
+* [2023-04-14, 14:37:39](https://news.ycombinator.com/item?id=35570027) - [Data wrangling in Elixir with Explorer, the power of Rust, the elegance of R](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI)
 * [2023-04-14, 13:32:00](https://news.ycombinator.com/item?id=35569377) - [Automated shusher keeps conference loudmouths in line](https://hackaday.com/2023/04/13/automated-shusher-keeps-conference-loudmouths-in-line/)
 * [2023-04-14, 13:00:12](https://news.ycombinator.com/item?id=35569090) - [AI-generated image selected for a Sony World Photography Award](https://www.eldagsen.com/sony-world-photography-awards-2023/)
 * [2023-04-14, 12:31:51](https://news.ycombinator.com/item?id=35568799) - [Show HN: Debate Devil – AI debating practice app](https://www.debate-devil.com/en)
@@ -20,7 +21,6 @@
 * [2023-04-14, 03:30:10](https://news.ycombinator.com/item?id=35565212) - [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [2023-04-14, 02:36:27](https://news.ycombinator.com/item?id=35564874) - [GNU toolchain for RISC-V including GCC](https://github.com/riscv-collab/riscv-gnu-toolchain)
 * [2023-04-14, 01:00:06](https://news.ycombinator.com/item?id=35564291) - [Atlas (YC W22) Is Hiring for a Demand Gen Manager (International)](https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global)
-* [2023-04-14, 00:21:41](https://news.ycombinator.com/item?id=35564013) - [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://arxiv.org/abs/2304.06035)
 * [2023-04-13, 19:51:37](https://news.ycombinator.com/item?id=35561203) - [Animated Drawings](https://fairanimateddrawings.com/site/home)
 * [2023-04-13, 16:19:26](https://news.ycombinator.com/item?id=35557848) - [The Early Days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 * [2023-04-13, 09:51:09](https://news.ycombinator.com/item?id=35553167) - [DIY IBM Selectric type balls give ’60s typewriters new life (and Comic Sans)](https://arstechnica.com/gadgets/2023/04/revive-your-vintage-ibm-selectric-typewriter-with-3d-printable-golf-balls/)

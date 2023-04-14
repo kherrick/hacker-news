@@ -6,6 +6,7 @@
 
 * [2023-04-14, 15:20:10](https://news.ycombinator.com/item?id=35570520) - [Spotify abandons Heardle less than a year after buying it](https://www.theverge.com/2023/4/14/23683240/spotify-shuts-down-heardle-music-guessing-game)
 * [2023-04-14, 14:47:29](https://news.ycombinator.com/item?id=35570151) - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
+* [2023-04-14, 14:37:39](https://news.ycombinator.com/item?id=35570027) - [Data wrangling in Elixir with Explorer, the power of Rust, the elegance of R](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI)
 * [2023-04-14, 14:14:29](https://news.ycombinator.com/item?id=35569805) - [Rust Learning Path from Novice to Mastery](https://nativebyx.dev/rust/becoming-rustacean/rust-learning-path-from-novice-to-mastery.html)
 * [2023-04-14, 13:32:00](https://news.ycombinator.com/item?id=35569377) - [Automated Shusher Keeps Conference Loudmouths in Line](https://hackaday.com/2023/04/13/automated-shusher-keeps-conference-loudmouths-in-line/)
 * [2023-04-14, 13:30:25](https://news.ycombinator.com/item?id=35569364) - [Farmers Win the Right to Repair Their Own Tractors in Colorado](https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado)
