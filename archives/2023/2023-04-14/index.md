@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 19:49:57](https://news.ycombinator.com/item?id=35573856) - [Cash App founder Bob Lee stabbed to death after argument about suspect&#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
+* [2023-04-14, 19:46:08](https://news.ycombinator.com/item?id=35573818) - [Alien motherships: Pentagon official floats a theory for unexplained sightings](https://www.politico.com/news/2023/04/14/pentagon-ufo-alien-object-00092108)
 * [2023-04-14, 19:21:38](https://news.ycombinator.com/item?id=35573570) - [Bob Lee was stabbed to death after argument about the suspect&#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
+* [2023-04-14, 19:21:09](https://news.ycombinator.com/item?id=35573564) - [U.S. SEC sees decentralized crypto platforms as exchanges](https://www.reuters.com/markets/us/us-sec-weigh-taking-more-feedback-plan-expand-exchange-definition-2023-04-14/)
+* [2023-04-14, 19:00:55](https://news.ycombinator.com/item?id=35573374) - [Walmart Announces Closure of Four Chicago Stores](https://corporate.walmart.com/newsroom/2023/04/11/walmart-announces-closure-of-four-chicago-stores)
 * [2023-04-14, 18:51:44](https://news.ycombinator.com/item?id=35573278) - [Universal Install Script](https://xkcd.com/1654/)
 * [2023-04-14, 17:48:50](https://news.ycombinator.com/item?id=35572434) - [Show HN: WikiBinge – discover how all things are vaguely connected (2016)](https://www.wikibinge.com/)
 * [2023-04-14, 17:46:14](https://news.ycombinator.com/item?id=35572393) - [To comply with a new sesame allergy law, some businesses add – sesame](https://www.washingtonpost.com/wellness/2023/04/11/sesame-allergy-law-consequences/)
