@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 17:46:14](https://news.ycombinator.com/item?id=35572393) - [To comply with a new sesame allergy law, some businesses add – sesame](https://www.washingtonpost.com/wellness/2023/04/11/sesame-allergy-law-consequences/)
+* [2023-04-14, 17:34:25](https://news.ycombinator.com/item?id=35572249) - [Show HN: Covid in Pixels](https://covid-in-pixels.eliothertenstein.com/)
 * [2023-04-14, 17:07:08](https://news.ycombinator.com/item?id=35571892) - [Trendy “raw water” source under bird’s nest sparks diarrheal outbreak](https://arstechnica.com/science/2023/04/trendy-raw-water-source-under-birds-nest-sparks-diarrheal-outbreak/)
 * [2023-04-14, 17:02:11](https://news.ycombinator.com/item?id=35571838) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
 * [2023-04-14, 16:46:55](https://news.ycombinator.com/item?id=35571629) - [Parler shuts down as new owner says conservative platform needs big revamp](https://arstechnica.com/tech-policy/2023/04/parler-shuts-down-as-new-owner-says-conservative-platform-needs-big-revamp/)
