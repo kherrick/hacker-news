@@ -5,7 +5,6 @@
 * [2023-04-14, 13:00:12](https://news.ycombinator.com/item?id=35569090) - [AI-generated image wins Sony World Photography Awards 2023](https://www.eldagsen.com/sony-world-photography-awards-2023/)
 * [2023-04-14, 12:31:51](https://news.ycombinator.com/item?id=35568799) - [Show HN: Debate Devil – AI debating practice app](https://www.debate-devil.com/en)
 * [2023-04-14, 11:49:00](https://news.ycombinator.com/item?id=35568388) - [Juice launch to Jupiter – Live [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
-* [2023-04-14, 10:35:03](https://news.ycombinator.com/item?id=35567822) - [Ask HN: Side project of more that $2k monthly revenue what&#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
 * [2023-04-14, 09:24:57](https://news.ycombinator.com/item?id=35567285) - [Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
 * [2023-04-14, 08:38:28](https://news.ycombinator.com/item?id=35567026) - [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
 * [2023-04-14, 08:05:13](https://news.ycombinator.com/item?id=35566791) - [Zig Build System](https://en.liujiacai.net/2023/04/13/zig-build-system/)
@@ -30,6 +29,7 @@
 * [2023-04-12, 11:42:27](https://news.ycombinator.com/item?id=35538095) - [Searching for the River of Wind](https://nautil.us/searching-for-the-river-of-wind-294480/)
 * [2023-04-12, 09:56:45](https://news.ycombinator.com/item?id=35537248) - [Primitive Asgard cells show life on the brink of complexity](https://www.quantamagazine.org/primitive-asgard-cells-show-life-on-the-brink-of-complexity-20230411/)
 * [2023-04-11, 22:25:25](https://news.ycombinator.com/item?id=35532473) - [The Case of the Fake Sherlock](https://nymag.com/intelligencer/article/richard-walter-criminal-profiler-fraud.html)
+* [2023-04-10, 06:39:39](https://news.ycombinator.com/item?id=35509746) - [What&#x27;s the Difference Between Empathy, Sympathy, and Compassion?](https://chopra.com/articles/whats-the-difference-between-empathy-sympathy-and-compassion)
 
 ## [Archives](archives/index.md)
 
