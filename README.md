@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-14, 06:22:16](https://news.ycombinator.com/item?id=35566145) - [91% of ML Models Degrade over Time](https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time)
 * [2023-04-14, 04:33:17](https://news.ycombinator.com/item?id=35565553) - [Vast New Stores of Water Reported on the Moon](https://spectrum.ieee.org/moon-water)
 * [2023-04-14, 04:13:26](https://news.ycombinator.com/item?id=35565431) - [A Computer Generated Swatting Service Is Causing Havoc Across America](https://www.vice.com/en/article/k7z8be/torswats-computer-generated-ai-voice-swatting)
 * [2023-04-14, 03:30:10](https://news.ycombinator.com/item?id=35565212) - [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
@@ -7,7 +8,6 @@
 * [2023-04-14, 02:04:53](https://news.ycombinator.com/item?id=35564655) - [Layout 2013 and Layout 2020](https://servo.org/blog/2023/04/13/layout-2013-vs-2020/)
 * [2023-04-14, 01:40:28](https://news.ycombinator.com/item?id=35564521) - [The least impactful way to spend $300M?](https://passingtime.substack.com/p/whats-the-least-impactful-way-to)
 * [2023-04-14, 01:00:06](https://news.ycombinator.com/item?id=35564291) - [Atlas (YC W22) Is Hiring for a Demand Gen Manager (International)](https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global)
-* [2023-04-13, 22:10:20](https://news.ycombinator.com/item?id=35562807) - [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
 * [2023-04-13, 21:37:26](https://news.ycombinator.com/item?id=35562430) - [SQL:2023 is finished: Here is what&#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
 * [2023-04-13, 21:32:03](https://news.ycombinator.com/item?id=35562357) - [Shifting the Balance of Cybersecurity Risk: Security-by-Design and -Default [pdf]](https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf)
 * [2023-04-13, 21:22:40](https://news.ycombinator.com/item?id=35562230) - [Consent-O-Matic: Automatic cookie management](https://consentomatic.au.dk/)
