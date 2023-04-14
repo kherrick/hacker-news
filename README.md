@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-14, 17:48:50](https://news.ycombinator.com/item?id=35572434) - [Show HN: WikiBinge – discover how all things are vaguely connected (2016)](https://www.wikibinge.com/)
+* [2023-04-14, 17:37:24](https://news.ycombinator.com/item?id=35572290) - [Prompt injection: what’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
 * [2023-04-14, 17:34:25](https://news.ycombinator.com/item?id=35572249) - [Show HN: Covid in Pixels](https://covid-in-pixels.eliothertenstein.com/)
 * [2023-04-14, 17:02:11](https://news.ycombinator.com/item?id=35571838) - [Svix (YC W21) is hiring Rust back end engineers (US remote)](https://www.svix.com/careers/)
 * [2023-04-14, 16:35:21](https://news.ycombinator.com/item?id=35571486) - [Ask HN: Side projects making less than $2k MRR, what&#x27;s your project?](https://news.ycombinator.com/item?id=35571486)
@@ -22,7 +23,6 @@
 * [2023-04-14, 04:59:29](https://news.ycombinator.com/item?id=35565681) - [An open source AI tool to animate children&#x27;s drawings](https://github.com/facebookresearch/AnimatedDrawings)
 * [2023-04-14, 04:33:17](https://news.ycombinator.com/item?id=35565553) - [Vast new stores of water reported on the moon](https://spectrum.ieee.org/moon-water)
 * [2023-04-14, 02:40:55](https://news.ycombinator.com/item?id=35564908) - [Joel Warner’s “The Curse of the Marquis de Sade”](https://lareviewofbooks.org/article/a-tale-of-literary-and-financial-debauchery-on-joel-warners-the-curse-of-the-marquis-de-sade/)
-* [2023-04-13, 19:51:37](https://news.ycombinator.com/item?id=35561203) - [Animated Drawings](https://fairanimateddrawings.com/site/home)
 * [2023-04-13, 16:19:26](https://news.ycombinator.com/item?id=35557848) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 * [2023-04-13, 09:51:09](https://news.ycombinator.com/item?id=35553167) - [DIY IBM Selectric type balls give ’60s typewriters new life (and Comic Sans)](https://arstechnica.com/gadgets/2023/04/revive-your-vintage-ibm-selectric-typewriter-with-3d-printable-golf-balls/)
 * [2023-04-13, 06:46:15](https://news.ycombinator.com/item?id=35551929) - [What is NMAP and how to use it? (2020)](https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/)
