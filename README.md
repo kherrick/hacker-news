@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-14, 11:20:38](https://news.ycombinator.com/item?id=35568175) - [Missouri state House Republicans vote to defund public libraries](https://www.salon.com/2023/04/12/missouri-state-vote-to-defund-public-libraries_partner/)
 * [2023-04-14, 11:03:29](https://news.ycombinator.com/item?id=35568023) - [Why employees hate ‘pizza parties’ but HR loves having them](https://www.moneycontrol.com/news/business/why-employees-hate-pizza-parties-but-hr-loves-having-them-10411841.html)
-* [2023-04-14, 10:58:45](https://news.ycombinator.com/item?id=35567986) - [Demographics of Hacker News](https://toolhub.tech/blog/Demographics-of-Hacker-News/)
 * [2023-04-14, 10:48:37](https://news.ycombinator.com/item?id=35567913) - [OpenAI’s Red Team: the experts hired to ‘break’ ChatGPT](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8)
 * [2023-04-14, 10:35:03](https://news.ycombinator.com/item?id=35567822) - [Ask HN: Side project of more that $2k monthly revenue what&#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
 * [2023-04-14, 09:24:57](https://news.ycombinator.com/item?id=35567285) - [Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
