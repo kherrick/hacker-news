@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-14, 01:40:28](https://news.ycombinator.com/item?id=35564521) - [What&#x27;s the Least Impactful Way to Spend $300,000,000?](https://passingtime.substack.com/p/whats-the-least-impactful-way-to)
-* [2023-04-14, 01:16:15](https://news.ycombinator.com/item?id=35564387) - [Your iPhone Was Built with Child Labor](https://www.thefp.com/p/your-iphone-was-built-with-child)
 * [2023-04-14, 01:00:06](https://news.ycombinator.com/item?id=35564291) - [Atlas (YC W22) Is Hiring for a Demand Gen Manager (International)](https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global)
 * [2023-04-13, 23:41:57](https://news.ycombinator.com/item?id=35563692) - [An Update on Tornado Cash](https://www.eff.org/deeplinks/2023/04/update-tornado-cash)
 * [2023-04-13, 22:10:20](https://news.ycombinator.com/item?id=35562807) - [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
@@ -16,6 +15,7 @@
 * [2023-04-13, 19:51:37](https://news.ycombinator.com/item?id=35561203) - [Animated Drawings](https://fairanimateddrawings.com/site/home)
 * [2023-04-13, 19:10:18](https://news.ycombinator.com/item?id=35560577) - [Don’t record your social life on an append-only social network (2022)](https://www.ctrl.blog/entry/append-only-social.html)
 * [2023-04-13, 18:29:04](https://news.ycombinator.com/item?id=35559925) - [Elixir and Rust is a good mix](https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/)
+* [2023-04-13, 18:11:30](https://news.ycombinator.com/item?id=35559646) - [Surpassing 10Gb&#x2F;S over Tailscale](https://tailscale.com/blog/more-throughput/)
 * [2023-04-13, 17:38:22](https://news.ycombinator.com/item?id=35559145) - [Warm liquid from Oregon seafloor comes from Cascadia fault](https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafloor-comes-from-cascadia-fault-could-offer-clues-to-earthquake-hazards/)
 * [2023-04-13, 17:36:39](https://news.ycombinator.com/item?id=35559124) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
 * [2023-04-13, 17:01:24](https://news.ycombinator.com/item?id=35558522) - [Segment Anything Model and the hard problems of computer vision](https://www.latent.space/p/segment-anything-roboflow#details)
