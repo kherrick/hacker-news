@@ -9,6 +9,7 @@
 * [2023-04-14, 17:07:08](https://news.ycombinator.com/item?id=35571892) - [Trendy “raw water” source under bird’s nest sparks diarrheal outbreak](https://arstechnica.com/science/2023/04/trendy-raw-water-source-under-birds-nest-sparks-diarrheal-outbreak/)
 * [2023-04-14, 17:02:11](https://news.ycombinator.com/item?id=35571838) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
 * [2023-04-14, 16:46:55](https://news.ycombinator.com/item?id=35571629) - [Parler shuts down as new owner says conservative platform needs big revamp](https://arstechnica.com/tech-policy/2023/04/parler-shuts-down-as-new-owner-says-conservative-platform-needs-big-revamp/)
+* [2023-04-14, 16:35:21](https://news.ycombinator.com/item?id=35571486) - [Ask HN: Side projects making less than $2k MRR, what&#x27;s your project?](https://news.ycombinator.com/item?id=35571486)
 * [2023-04-14, 16:35:14](https://news.ycombinator.com/item?id=35571481) - [Spanish climber emerges after 500 days in cave](https://www.cbc.ca/news/world/spain-cave-500-days-beatriz-flamini-1.6810428)
 * [2023-04-14, 16:30:57](https://news.ycombinator.com/item?id=35571426) - [Show HN: Best Visa Jobs – curated jobs from top companies that sponsor visas](https://bestvisajobs.com/)
 * [2023-04-14, 16:25:42](https://news.ycombinator.com/item?id=35571355) - [Inmates in a Brazil prison shorten their sentences by writing book reviews](https://www.cbc.ca/radio/undertheinfluence/inmates-in-a-brazil-prison-shorten-their-sentences-by-writing-book-reviews-1.6442390)
