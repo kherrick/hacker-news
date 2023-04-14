@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 20:38:13](https://news.ycombinator.com/item?id=35574416) - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
+* [2023-04-14, 20:38:07](https://news.ycombinator.com/item?id=35574413) - [Why Is ‘Juice Jacking’ Suddenly Back in the News?](https://krebsonsecurity.com/2023/04/why-is-juice-jacking-suddenly-back-in-the-news/)
 * [2023-04-14, 20:31:16](https://news.ycombinator.com/item?id=35574335) - [Oldest bat skeletons ever found described as new species](https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html)
 * [2023-04-14, 20:28:49](https://news.ycombinator.com/item?id=35574308) - [Ask HN: Become a 10x developer with LLM? Myth? Reality?](https://news.ycombinator.com/item?id=35574308)
 * [2023-04-14, 20:25:07](https://news.ycombinator.com/item?id=35574273) - [Office vacancies in San Francisco jump to a record 33%](https://therealdeal.com/sanfrancisco/2023/04/10/office-vacancies-in-san-francisco-jump-to-a-record-33/)
@@ -17,6 +19,7 @@
 * [2023-04-14, 19:49:57](https://news.ycombinator.com/item?id=35573856) - [Cash App founder Bob Lee stabbed to death after argument about suspect&#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
 * [2023-04-14, 19:46:08](https://news.ycombinator.com/item?id=35573818) - [Alien motherships: Pentagon official floats a theory for unexplained sightings](https://www.politico.com/news/2023/04/14/pentagon-ufo-alien-object-00092108)
 * [2023-04-14, 19:34:01](https://news.ycombinator.com/item?id=35573696) - [The recycling warehouse fire reminds: plastics are a pollution nightmare](https://www.theverge.com/2023/4/14/23682273/plastics-air-pollution-recycling-facility-fire-richmond-indiana)
+* [2023-04-14, 19:32:08](https://news.ycombinator.com/item?id=35573676) - [Help I have a JavaScript Lib that blows away competition but nobody knows of it](https://adzejs.com/)
 * [2023-04-14, 19:27:57](https://news.ycombinator.com/item?id=35573624) - [Monolith: The Recommendation System Behind TikTok](https://gantry.io/blog/papers-to-know-20230110/)
 * [2023-04-14, 19:21:38](https://news.ycombinator.com/item?id=35573570) - [Bob Lee was stabbed to death after argument about the suspect&#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
 * [2023-04-14, 19:21:09](https://news.ycombinator.com/item?id=35573564) - [U.S. SEC sees decentralized crypto platforms as exchanges](https://www.reuters.com/markets/us/us-sec-weigh-taking-more-feedback-plan-expand-exchange-definition-2023-04-14/)

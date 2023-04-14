@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-14, 20:38:13](https://news.ycombinator.com/item?id=35574416) - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
+* [2023-04-14, 20:38:07](https://news.ycombinator.com/item?id=35574413) - [Why Is ‘Juice Jacking’ Suddenly Back in the News?](https://krebsonsecurity.com/2023/04/why-is-juice-jacking-suddenly-back-in-the-news/)
 * [2023-04-14, 20:31:16](https://news.ycombinator.com/item?id=35574335) - [Oldest bat skeletons ever found described as new species](https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html)
 * [2023-04-14, 20:28:49](https://news.ycombinator.com/item?id=35574308) - [Ask HN: Become a 10x developer with LLM? Myth? Reality?](https://news.ycombinator.com/item?id=35574308)
 * [2023-04-14, 20:25:07](https://news.ycombinator.com/item?id=35574273) - [Office vacancies in San Francisco jump to a record 33%](https://therealdeal.com/sanfrancisco/2023/04/10/office-vacancies-in-san-francisco-jump-to-a-record-33/)
@@ -9,7 +11,7 @@
 * [2023-04-14, 20:17:36](https://news.ycombinator.com/item?id=35574177) - [ESA’s Juice lifts off on quest to discover secrets of Jupiter’s icy moons](https://www.esa.int/Science_Exploration/Space_Science/Juice/ESA_s_Juice_lifts_off_on_quest_to_discover_secrets_of_Jupiter_s_icy_moons)
 * [2023-04-14, 20:13:02](https://news.ycombinator.com/item?id=35574095) - [This website is solar powered and running on a Raspberry Pi](https://solar.leo32345.com/)
 * [2023-04-14, 19:58:22](https://news.ycombinator.com/item?id=35573925) - [Dreams Are the Default for Intelligence](https://kk.org/thetechnium/dreams-are-the-default-for-intelligence/)
-* [2023-04-14, 19:49:57](https://news.ycombinator.com/item?id=35573856) - [Cash App founder Bob Lee stabbed to death after argument about suspect&#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
+* [2023-04-14, 19:32:08](https://news.ycombinator.com/item?id=35573676) - [Help I have a JavaScript Lib that blows away competition but nobody knows of it](https://adzejs.com/)
 * [2023-04-14, 19:27:57](https://news.ycombinator.com/item?id=35573624) - [Monolith: The Recommendation System Behind TikTok](https://gantry.io/blog/papers-to-know-20230110/)
 * [2023-04-14, 18:51:44](https://news.ycombinator.com/item?id=35573278) - [Universal Install Script](https://xkcd.com/1654/)
 * [2023-04-14, 17:48:50](https://news.ycombinator.com/item?id=35572434) - [Show HN: WikiBinge – discover how all things are vaguely connected (2016)](https://www.wikibinge.com/)
@@ -19,7 +21,6 @@
 * [2023-04-14, 16:25:42](https://news.ycombinator.com/item?id=35571355) - [Inmates in a Brazil prison shorten their sentences by writing book reviews](https://www.cbc.ca/radio/undertheinfluence/inmates-in-a-brazil-prison-shorten-their-sentences-by-writing-book-reviews-1.6442390)
 * [2023-04-14, 15:38:38](https://news.ycombinator.com/item?id=35570758) - [dbdev - The Database Package Manager for PostgreSQL Trusted Language Extensions](https://database.dev)
 * [2023-04-14, 15:37:31](https://news.ycombinator.com/item?id=35570742) - [Beyond Automatic Differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
-* [2023-04-14, 14:10:02](https://news.ycombinator.com/item?id=35569755) - [Remarkable things about Battlefield Earth (2012)](https://www.denofgeek.com/movies/10-remarkable-things-about-battlefield-earth/)
 * [2023-04-14, 12:01:28](https://news.ycombinator.com/item?id=35568512) - [Prehistoric timeline in Africa pushed back by more than 10M years](https://phys.org/news/2023-04-decade-long-prehistoric-timeline-africa-million.html)
 * [2023-04-14, 11:18:43](https://news.ycombinator.com/item?id=35568156) - [Two Categories of Journaling](https://tony-oreglia.medium.com/how-to-journal-8a5c0a2e873a)
 * [2023-04-14, 10:47:48](https://news.ycombinator.com/item?id=35567904) - [Brandolini&#x27;s Law](https://en.wikipedia.org/wiki/Brandolini%27s_law)
@@ -28,7 +29,6 @@
 * [2023-04-14, 08:02:05](https://news.ycombinator.com/item?id=35566768) - [Mike Perham, Creator of Sidekiq: From Employment to Independence](https://codecodeship.com/blog/2023-04-14-mike-perham)
 * [2023-04-13, 16:19:26](https://news.ycombinator.com/item?id=35557848) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 * [2023-04-13, 06:46:15](https://news.ycombinator.com/item?id=35551929) - [What is NMAP and how to use it? (2020)](https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/)
-* [2023-04-13, 01:34:55](https://news.ycombinator.com/item?id=35549692) - [Kalyn: A self-hosting compiler for x86-64](https://intuitiveexplanations.com/tech/kalyn)
 * [2023-04-13, 00:51:27](https://news.ycombinator.com/item?id=35549377) - [Can Intelligence Be Separated from the Body?](https://www.nytimes.com/2023/04/11/science/artificial-intelligence-body-robots.html)
 
 ## [Archives](archives/index.md)
