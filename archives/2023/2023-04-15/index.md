@@ -6,6 +6,7 @@
 
 * [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why Does a Plastic-Wrapped Turkey Sandwich Cost $15 at the NYC Airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
 * [2023-04-15, 14:19:52](https://news.ycombinator.com/item?id=35580845) - [New Arkansas bill to keep minors off social media exempts most social platforms](https://www.theverge.com/2023/4/13/23681770/arkansas-social-media-bill-restricts-minors-parental-consent)
+* [2023-04-15, 14:10:46](https://news.ycombinator.com/item?id=35580776) - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
 * [2023-04-15, 13:20:30](https://news.ycombinator.com/item?id=35580393) - [Ask HN: What&#x27;s your residential Internet speed and cost?](https://news.ycombinator.com/item?id=35580393)
 * [2023-04-15, 12:12:55](https://news.ycombinator.com/item?id=35579891) - [Meta faces ‘morale crisis’ as top execs work from other countries during layoffs](https://nypost.com/2023/04/13/meta-faces-morale-crisis-as-top-execs-work-from-other-countries-during-layoffs-report/)
 * [2023-04-15, 12:11:19](https://news.ycombinator.com/item?id=35579876) - [Hypervisor Development in Rust](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
@@ -27,6 +28,7 @@
 * [2023-04-15, 04:36:34](https://news.ycombinator.com/item?id=35577636) - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 * [2023-04-15, 04:33:06](https://news.ycombinator.com/item?id=35577619) - [Shadow Facebook pages spending crores on ads to target Oppn are connected to BJP](https://www.altnews.in/exclusive-network-of-pseudo-entitles-running-political-ads-on-facebook-favoring-bjp-and-against-non-bjp-parties/)
 * [2023-04-15, 03:37:19](https://news.ycombinator.com/item?id=35577421) - [Passionate&#x27; teen took his own life after feeling &#x27;helpless&#x27; over climate crisis](https://www.mirror.co.uk/news/uk-news/passionate-teen-took-life-after-29716980)
+* [2023-04-15, 03:28:47](https://news.ycombinator.com/item?id=35577388) - [The Limits of Forgiveness](https://thepointmag.com/examined-life/the-limits-of-forgiveness/)
 * [2023-04-15, 03:05:51](https://news.ycombinator.com/item?id=35577285) - [Surviving Burnout](https://lifeofaudrey.com/essays/surviving_burnout.html)
 * [2023-04-15, 02:54:36](https://news.ycombinator.com/item?id=35577240) - [Libreboot: HP Elite 8200 SFF support added (plus more desktops coming soon)](https://libreboot.org/news/hp8200sff.html)
 * [2023-04-15, 01:59:59](https://news.ycombinator.com/item?id=35576973) - [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
