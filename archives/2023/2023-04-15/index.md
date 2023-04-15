@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why Does a Plastic-Wrapped Turkey Sandwich Cost $15 at the NYC Airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
+* [2023-04-15, 14:19:52](https://news.ycombinator.com/item?id=35580845) - [New Arkansas bill to keep minors off social media exempts most social platforms](https://www.theverge.com/2023/4/13/23681770/arkansas-social-media-bill-restricts-minors-parental-consent)
 * [2023-04-15, 12:12:55](https://news.ycombinator.com/item?id=35579891) - [Meta faces ‘morale crisis’ as top execs work from other countries during layoffs](https://nypost.com/2023/04/13/meta-faces-morale-crisis-as-top-execs-work-from-other-countries-during-layoffs-report/)
 * [2023-04-15, 12:11:19](https://news.ycombinator.com/item?id=35579876) - [Hypervisor Development in Rust](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
 * [2023-04-15, 11:29:34](https://news.ycombinator.com/item?id=35579635) - [Germany Quits Nuclear Power, Ending a Decades-Long Struggle](https://www.nytimes.com/2023/04/14/world/europe/germany-nuclear-power-plants.html)
 * [2023-04-15, 10:55:58](https://news.ycombinator.com/item?id=35579425) - [Ask HN: Why don&#x27;t smartphones encourage programming like early 80s computers?](https://news.ycombinator.com/item?id=35579425)
 * [2023-04-15, 10:36:52](https://news.ycombinator.com/item?id=35579334) - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 * [2023-04-15, 10:29:48](https://news.ycombinator.com/item?id=35579290) - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
+* [2023-04-15, 10:08:44](https://news.ycombinator.com/item?id=35579173) - [The United States Tested Biological Warfare on Its Own Citizens](http://www.todayifoundout.com/index.php/2023/04/that-time-the-united-states-tested-biological-warfare-on-its-own-citizens/)
 * [2023-04-15, 10:04:27](https://news.ycombinator.com/item?id=35579154) - [How many floating-point numbers are in the interval [0,1]? (2017)](https://lemire.me/blog/2017/02/28/how-many-floating-point-numbers-are-in-the-interval-01/)
 * [2023-04-15, 09:41:35](https://news.ycombinator.com/item?id=35579061) - [The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s](https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html)
 * [2023-04-15, 08:11:42](https://news.ycombinator.com/item?id=35578668) - [Apollo 13 in Real Time](https://apolloinrealtime.org/13/)
