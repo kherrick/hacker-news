@@ -79,6 +79,7 @@
 * [2023-04-11, 12:00:57](https://news.ycombinator.com/item?id=35523895) - [Sieve (YC W22) Is Hiring a Distributed Systems Engineer](https://www.ycombinator.com/companies/sieve/jobs/VnxRRuc-distributed-systems-engineer-backend)
 * [2023-04-11, 12:00:45](https://news.ycombinator.com/item?id=35523894) - [Zillions and Zillions](https://www.etymonline.com/columns/post/zillions-and-zillions)
 * [2023-04-11, 11:58:09](https://news.ycombinator.com/item?id=35523859) - [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/)
+* [2023-04-11, 11:40:35](https://news.ycombinator.com/item?id=35523659) - [The Seattle Report on Database Research (2022)](https://cacm.acm.org/magazines/2022/8/262905-the-seattle-report-on-database-research/fulltext)
 * [2023-04-11, 11:23:16](https://news.ycombinator.com/item?id=35523527) - [‘Claudia’ offers nude photos for pay. Experts say she’s an AI fake](https://www.washingtonpost.com/technology/2023/04/11/ai-imaging-porn-fakes/)
 * [2023-04-11, 11:21:13](https://news.ycombinator.com/item?id=35523513) - [Judge Denies Elizabeth Holmes&#x27; Request for Release on Bail](https://www.capith.com/2023/04/11/judge-denies-elizabeth-holmes-request-for-release-on-bail/)
 * [2023-04-11, 10:57:01](https://news.ycombinator.com/item?id=35523337) - [Is Nerd Culture Dying?](https://samkriss.substack.com/p/all-the-nerds-are-dead)
