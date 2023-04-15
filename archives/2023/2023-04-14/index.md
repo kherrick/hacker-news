@@ -69,6 +69,7 @@
 * [2023-04-14, 12:06:41](https://news.ycombinator.com/item?id=35568553) - [JUICE Launch Live Stream](https://www.youtube.com/watch?v=MvHcGmQPcsI)
 * [2023-04-14, 12:01:28](https://news.ycombinator.com/item?id=35568512) - [Project pushes back the hominid timeline in Africa by more than 10M years](https://phys.org/news/2023-04-decade-long-prehistoric-timeline-africa-million.html)
 * [2023-04-14, 11:49:00](https://news.ycombinator.com/item?id=35568388) - [Live ESA launch to Jupiter [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
+* [2023-04-14, 11:38:59](https://news.ycombinator.com/item?id=35568311) - [Matrix Calculus: Calculate derivatives of matrices](https://www.matrixcalculus.org/)
 * [2023-04-14, 11:20:38](https://news.ycombinator.com/item?id=35568175) - [Missouri state House Republicans vote to defund public libraries](https://www.salon.com/2023/04/12/missouri-state-vote-to-defund-public-libraries_partner/)
 * [2023-04-14, 11:18:43](https://news.ycombinator.com/item?id=35568156) - [Two Categories of Journaling](https://tony-oreglia.medium.com/how-to-journal-8a5c0a2e873a)
 * [2023-04-14, 11:03:29](https://news.ycombinator.com/item?id=35568023) - [Why employees hate ‘pizza parties’ but HR loves having them](https://www.moneycontrol.com/news/business/why-employees-hate-pizza-parties-but-hr-loves-having-them-10411841.html)

@@ -2,7 +2,6 @@
 
 * [2023-04-14, 21:54:28](https://news.ycombinator.com/item?id=35575298) - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
 * [2023-04-14, 21:46:47](https://news.ycombinator.com/item?id=35575213) - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
-* [2023-04-14, 20:54:13](https://news.ycombinator.com/item?id=35574611) - [The curse of being good in IT](https://bitecode.substack.com/p/the-curse-of-being-good-in-it)
 * [2023-04-14, 20:38:13](https://news.ycombinator.com/item?id=35574416) - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
 * [2023-04-14, 20:31:16](https://news.ycombinator.com/item?id=35574335) - [Oldest bat skeletons ever found described as new species](https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html)
 * [2023-04-14, 20:23:43](https://news.ycombinator.com/item?id=35574259) - [Searchable Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
@@ -16,8 +15,10 @@
 * [2023-04-14, 17:02:11](https://news.ycombinator.com/item?id=35571838) - [Svix (YC W21) is hiring Rust back end engineers (US remote)](https://www.svix.com/careers/)
 * [2023-04-14, 16:35:14](https://news.ycombinator.com/item?id=35571481) - [Spanish climber emerges after 500 days in cave](https://www.cbc.ca/news/world/spain-cave-500-days-beatriz-flamini-1.6810428)
 * [2023-04-14, 15:38:38](https://news.ycombinator.com/item?id=35570758) - [Dbdev – A database package manager for PostgreSQL trusted language extensions](https://database.dev)
+* [2023-04-14, 15:33:14](https://news.ycombinator.com/item?id=35570690) - [Sam Altman: OpenAI is not training GPT-5 and &quot;won&#x27;t for some time&quot;](https://twitter.com/smokeawayyy/status/1646670920214536193)
 * [2023-04-14, 14:47:29](https://news.ycombinator.com/item?id=35570151) - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
 * [2023-04-14, 12:01:28](https://news.ycombinator.com/item?id=35568512) - [Prehistoric timeline in Africa pushed back by more than 10M years](https://phys.org/news/2023-04-decade-long-prehistoric-timeline-africa-million.html)
+* [2023-04-14, 11:38:59](https://news.ycombinator.com/item?id=35568311) - [Matrix Calculus: Calculate derivatives of matrices](https://www.matrixcalculus.org/)
 * [2023-04-14, 10:47:48](https://news.ycombinator.com/item?id=35567904) - [Brandolini&#x27;s Law](https://en.wikipedia.org/wiki/Brandolini%27s_law)
 * [2023-04-14, 10:35:03](https://news.ycombinator.com/item?id=35567822) - [Ask HN: Side project of more than $2k monthly revenue? what&#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
 * [2023-04-14, 08:38:28](https://news.ycombinator.com/item?id=35567026) - [Largest island in a lake on an island in a lake on an island (2007)](https://www.elbruz.org/special-projects/islands-and-lakes/)
@@ -29,7 +30,6 @@
 * [2023-04-13, 04:51:07](https://news.ycombinator.com/item?id=35551082) - [Bangladesh’s riverine villages are benefiting from clever design](https://www.economist.com/culture/2023/04/12/bangladeshs-riverine-villages-are-benefiting-from-clever-design)
 * [2023-04-13, 01:11:16](https://news.ycombinator.com/item?id=35549517) - [Running SunOS 4 in QEMU (Sparc)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
 * [2023-04-12, 13:31:03](https://news.ycombinator.com/item?id=35539348) - [How to play mumble-the-peg, mumchance, and hurling to the country](https://www.laphamsquarterly.org/roundtable/rules-games-tudor-england)
-* [2023-04-11, 22:25:25](https://news.ycombinator.com/item?id=35532473) - [The Case of the Fake Sherlock](https://nymag.com/intelligencer/article/richard-walter-criminal-profiler-fraud.html)
 
 ## [Archives](archives/index.md)
 
