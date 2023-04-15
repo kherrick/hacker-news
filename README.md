@@ -2,6 +2,7 @@
 
 * [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why Does a Plastic-Wrapped Turkey Sandwich Cost $15 at the NYC Airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
 * [2023-04-15, 14:19:52](https://news.ycombinator.com/item?id=35580845) - [New Arkansas bill to keep minors off social media exempts most social platforms](https://www.theverge.com/2023/4/13/23681770/arkansas-social-media-bill-restricts-minors-parental-consent)
+* [2023-04-15, 13:20:30](https://news.ycombinator.com/item?id=35580393) - [Ask HN: What&#x27;s your residential Internet speed and cost?](https://news.ycombinator.com/item?id=35580393)
 * [2023-04-15, 12:11:19](https://news.ycombinator.com/item?id=35579876) - [Hypervisor Development in Rust](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
 * [2023-04-15, 10:36:52](https://news.ycombinator.com/item?id=35579334) - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 * [2023-04-15, 10:29:48](https://news.ycombinator.com/item?id=35579290) - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
@@ -21,7 +22,6 @@
 * [2023-04-14, 22:35:52](https://news.ycombinator.com/item?id=35575727) - [George Eliot’s Marriage Plot](https://www.newstatesman.com/culture/books/2023/03/george-eliot-biography-marriage-plot)
 * [2023-04-14, 17:48:50](https://news.ycombinator.com/item?id=35572434) - [Show HN: WikiBinge – discover how all things are vaguely connected](https://www.wikibinge.com/)
 * [2023-04-14, 17:37:24](https://news.ycombinator.com/item?id=35572290) - [Prompt injection: what’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
-* [2023-04-14, 07:37:03](https://news.ycombinator.com/item?id=35566602) - [AI Poised to Transform Video Compression Landscape](https://spectrum.ieee.org/ai-video-codecs-waveone)
 * [2023-04-13, 16:19:26](https://news.ycombinator.com/item?id=35557848) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 * [2023-04-12, 13:48:14](https://news.ycombinator.com/item?id=35539595) - [Aztec monks with 1&#x2F;55 HP no longer die when picking up or dropping a relic](https://www.reddit.com/r/Games/comments/12jbb9d/age_of_empires_ii_de_major_update_81058/jfy2mqq/)
 * [2023-04-12, 11:55:09](https://news.ycombinator.com/item?id=35538223) - [OpenCore Legacy Patcher – Use new macOS versions on old hardware](https://dortania.github.io/OpenCore-Legacy-Patcher/)

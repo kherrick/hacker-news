@@ -6,6 +6,7 @@
 
 * [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why Does a Plastic-Wrapped Turkey Sandwich Cost $15 at the NYC Airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
 * [2023-04-15, 14:19:52](https://news.ycombinator.com/item?id=35580845) - [New Arkansas bill to keep minors off social media exempts most social platforms](https://www.theverge.com/2023/4/13/23681770/arkansas-social-media-bill-restricts-minors-parental-consent)
+* [2023-04-15, 13:20:30](https://news.ycombinator.com/item?id=35580393) - [Ask HN: What&#x27;s your residential Internet speed and cost?](https://news.ycombinator.com/item?id=35580393)
 * [2023-04-15, 12:12:55](https://news.ycombinator.com/item?id=35579891) - [Meta faces ‘morale crisis’ as top execs work from other countries during layoffs](https://nypost.com/2023/04/13/meta-faces-morale-crisis-as-top-execs-work-from-other-countries-during-layoffs-report/)
 * [2023-04-15, 12:11:19](https://news.ycombinator.com/item?id=35579876) - [Hypervisor Development in Rust](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
 * [2023-04-15, 11:29:34](https://news.ycombinator.com/item?id=35579635) - [Germany Quits Nuclear Power, Ending a Decades-Long Struggle](https://www.nytimes.com/2023/04/14/world/europe/germany-nuclear-power-plants.html)
