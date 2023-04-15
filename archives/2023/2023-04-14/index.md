@@ -52,6 +52,7 @@
 * [2023-04-14, 16:35:14](https://news.ycombinator.com/item?id=35571481) - [Spanish climber emerges after 500 days in cave](https://www.cbc.ca/news/world/spain-cave-500-days-beatriz-flamini-1.6810428)
 * [2023-04-14, 16:30:57](https://news.ycombinator.com/item?id=35571426) - [Show HN: Best Visa Jobs – curated jobs from top companies that sponsor visas](https://bestvisajobs.com/)
 * [2023-04-14, 16:25:42](https://news.ycombinator.com/item?id=35571355) - [Inmates in a Brazil prison shorten their sentences by writing book reviews](https://www.cbc.ca/radio/undertheinfluence/inmates-in-a-brazil-prison-shorten-their-sentences-by-writing-book-reviews-1.6442390)
+* [2023-04-14, 16:17:01](https://news.ycombinator.com/item?id=35571236) - [Intel won&#x27;t back down on chip ID feature (1999)](https://www.zdnet.com/article/intel-wont-back-down-on-chip-id-feature/)
 * [2023-04-14, 16:17:01](https://news.ycombinator.com/item?id=35571236) - [Intel won&#x27;t back down on chip ID feature (1999)](https://web.archive.org/web/20010419012218/http://www.zdnet.co.uk/news/1999/7/ns-7095.html)
 * [2023-04-14, 15:56:25](https://news.ycombinator.com/item?id=35570968) - [Virginia Norwood, ‘Mother’ of Satellite Imaging Systems, Dies at 96](https://www.nytimes.com/2023/04/12/science/space/virginia-norwood-dead.html)
 * [2023-04-14, 15:40:11](https://news.ycombinator.com/item?id=35570782) - [Investigators find Pentagon leaker through Instagram photo](https://twitter.com/trbrtc/status/1646592080293122067)

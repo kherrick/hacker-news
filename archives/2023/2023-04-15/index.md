@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 22:13:04](https://news.ycombinator.com/item?id=35585117) - [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
 * [2023-04-15, 21:49:39](https://news.ycombinator.com/item?id=35584898) - [Uber and Amazon use AI to pay people different wages for the same work](https://www.businessinsider.com/uber-amazon-pay-using-ai-different-wages-same-work-discrimination-2023-4)
 * [2023-04-15, 21:44:56](https://news.ycombinator.com/item?id=35584866) - [Digital clutter: Learning to let go and stop hoarding terabytes](https://paulstamatiou.com/digital-clutter/)
 * [2023-04-15, 21:37:43](https://news.ycombinator.com/item?id=35584792) - [Leak to us or we&#x27;ll dox you](https://twitter.com/ggreenwald/status/1647258233218760705)
