@@ -78,6 +78,7 @@
 * [2023-04-14, 10:58:45](https://news.ycombinator.com/item?id=35567986) - [Demographics of Hacker News](https://toolhub.tech/blog/Demographics-of-Hacker-News/)
 * [2023-04-14, 10:48:37](https://news.ycombinator.com/item?id=35567913) - [OpenAI’s red team: the experts hired to ‘break’ ChatGPT](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8)
 * [2023-04-14, 10:47:48](https://news.ycombinator.com/item?id=35567904) - [Brandolini&#x27;s Law](https://en.wikipedia.org/wiki/Brandolini%27s_law)
+* [2023-04-14, 10:47:22](https://news.ycombinator.com/item?id=35567902) - [The Effects of Lunar Dust on Eva Systems During the Apollo Missions (2005) [pdf]](https://history.nasa.gov/alsj/TM-2005-213610.pdf)
 * [2023-04-14, 10:38:30](https://news.ycombinator.com/item?id=35567842) - [The Dangerous Rise of Front Yard Polticics](https://www.theatlantic.com/ideas/archive/2023/04/front-yard-placards-nimby-dei-refugees/673706/)
 * [2023-04-14, 10:35:03](https://news.ycombinator.com/item?id=35567822) - [Ask HN: Side project of more that $2k monthly revenue what&#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
 * [2023-04-14, 10:20:10](https://news.ycombinator.com/item?id=35567709) - [Universal Music Asks Streaming Services to Block AI Access to Its Songs](https://variety.com/2023/music/news/universal-music-streaming-services-block-ai-1235582612/)

@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-15, 01:59:59](https://news.ycombinator.com/item?id=35576973) - [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
-* [2023-04-15, 01:47:27](https://news.ycombinator.com/item?id=35576918) - [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
+* [2023-04-15, 01:47:27](https://news.ycombinator.com/item?id=35576918) - [What are transformer models and how do they work?](https://txt.cohere.ai/what-are-transformer-models/)
 * [2023-04-15, 01:29:04](https://news.ycombinator.com/item?id=35576825) - [Show HN: What Should I Cook – Cooking Ideas](https://rotb.gigalixirapp.com/)
 * [2023-04-15, 01:28:34](https://news.ycombinator.com/item?id=35576823) - [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
 * [2023-04-15, 00:27:03](https://news.ycombinator.com/item?id=35576473) - [Solar Panels That Clean Themselves](https://www.eetimes.com/innovative-approaches-tackle-self-cleaning-solar-panels/)
@@ -24,8 +24,8 @@
 * [2023-04-14, 11:38:59](https://news.ycombinator.com/item?id=35568311) - [Matrix Calculus: Calculate derivatives of matrices](https://www.matrixcalculus.org/)
 * [2023-04-14, 11:00:31](https://news.ycombinator.com/item?id=35567997) - [DPaint.js: A web-based image editor modeled after Deluxe Paint](https://www.stef.be/dpaint/)
 * [2023-04-14, 10:47:48](https://news.ycombinator.com/item?id=35567904) - [Brandolini&#x27;s Law](https://en.wikipedia.org/wiki/Brandolini%27s_law)
+* [2023-04-14, 10:47:22](https://news.ycombinator.com/item?id=35567902) - [The Effects of Lunar Dust on Eva Systems During the Apollo Missions (2005) [pdf]](https://history.nasa.gov/alsj/TM-2005-213610.pdf)
 * [2023-04-14, 10:17:51](https://news.ycombinator.com/item?id=35567699) - [ΜLA: Micro Logic Analyzer](https://github.com/dotcypress/ula)
-* [2023-04-14, 08:38:28](https://news.ycombinator.com/item?id=35567026) - [Largest island in a lake on an island in a lake on an island (2007)](https://www.elbruz.org/special-projects/islands-and-lakes/)
 * [2023-04-13, 16:19:26](https://news.ycombinator.com/item?id=35557848) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 * [2023-04-13, 05:52:42](https://news.ycombinator.com/item?id=35551549) - [The Odd Knight of the Cinnamon Shops](https://www.tabletmag.com/sections/arts-letters/articles/odd-knight-cinnamon-shops-bruno-schulz)
 * [2023-04-13, 04:51:07](https://news.ycombinator.com/item?id=35551082) - [Bangladesh’s riverine villages are benefiting from clever design](https://www.economist.com/culture/2023/04/12/bangladeshs-riverine-villages-are-benefiting-from-clever-design)
