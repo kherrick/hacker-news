@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-15, 01:47:27](https://news.ycombinator.com/item?id=35576918) - [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
-* [2023-04-15, 01:30:18](https://news.ycombinator.com/item?id=35576828) - [Please fix your spinner](https://pleasefixyourspinner.com)
 * [2023-04-15, 01:28:34](https://news.ycombinator.com/item?id=35576823) - [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
 * [2023-04-14, 21:54:28](https://news.ycombinator.com/item?id=35575298) - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
 * [2023-04-14, 21:46:47](https://news.ycombinator.com/item?id=35575213) - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
@@ -12,6 +11,7 @@
 * [2023-04-14, 20:13:02](https://news.ycombinator.com/item?id=35574095) - [This website is solar powered and running on a Raspberry Pi-like computer](https://solar.leo32345.com/)
 * [2023-04-14, 19:27:57](https://news.ycombinator.com/item?id=35573624) - [Monolith: The Recommendation System Behind TikTok](https://gantry.io/blog/papers-to-know-20230110/)
 * [2023-04-14, 19:06:19](https://news.ycombinator.com/item?id=35573446) - [Show HN: Don&#x27;t Hold Your Breath – Breathing Analysis with Polar H10 HR Monitor](https://github.com/kbre93/dont-hold-your-breath)
+* [2023-04-14, 18:58:49](https://news.ycombinator.com/item?id=35573345) - [GM’s decision to ditch Apple CarPlay, Android Auto sparks backlash](https://www.freep.com/story/money/cars/general-motors/2023/04/14/gm-apple-carplay-android-auto-ford/70100598007/)
 * [2023-04-14, 17:48:50](https://news.ycombinator.com/item?id=35572434) - [Show HN: WikiBinge – discover how all things are vaguely connected](https://www.wikibinge.com/)
 * [2023-04-14, 17:37:24](https://news.ycombinator.com/item?id=35572290) - [Prompt injection: what’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
 * [2023-04-14, 17:02:11](https://news.ycombinator.com/item?id=35571838) - [Svix (YC W21) is hiring Rust back end engineers (US remote)](https://www.svix.com/careers/)
