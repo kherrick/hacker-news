@@ -87,6 +87,7 @@
 * [2023-04-13, 09:04:47](https://news.ycombinator.com/item?id=35552824) - [Zylin ZPU: The worlds smallest 32 bit CPU with GCC toolchain](https://github.com/zylin/zpu)
 * [2023-04-13, 09:01:10](https://news.ycombinator.com/item?id=35552804) - [Audio&#x27;s Circle of Confusion (2009)](http://seanolive.blogspot.com/2009/10/audios-circle-of-confusion.html)
 * [2023-04-13, 08:57:14](https://news.ycombinator.com/item?id=35552768) - [Who Is Running Stanford?](https://stanforddaily.com/2023/04/10/letter-to-the-editor-who-is-running-stanford/)
+* [2023-04-13, 08:34:39](https://news.ycombinator.com/item?id=35552605) - [Introduction to Rdist (2012)](http://www.benedikt-stockebrand.de/rdist-intro_en.html)
 * [2023-04-13, 08:10:40](https://news.ycombinator.com/item?id=35552446) - [Scholastic, and a Faustian Bargain](https://www.prettyokmaggie.com/blog/2023/4/11/scholastic-and-a-faustian-bargain)
 * [2023-04-13, 08:02:39](https://news.ycombinator.com/item?id=35552393) - [20-hour Auto Engineering Video Course from How a Car Works](https://www.howacarworks.com/video-course)
 * [2023-04-13, 08:00:13](https://news.ycombinator.com/item?id=35552378) - [Nvidia RTX Remix Runtime Open Source Available Now](https://www.nvidia.com/en-us/geforce/news/rtx-remix-runtime-open-source-download/)

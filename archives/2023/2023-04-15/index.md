@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 18:01:11](https://news.ycombinator.com/item?id=35582947) - [What De-Dollarization? The Dollar Rules the World](https://www.bloomberg.com/opinion/articles/2023-04-13/the-dollar-rules-the-world-now-and-for-the-foreseeable-future)
+* [2023-04-15, 17:46:25](https://news.ycombinator.com/item?id=35582798) - [MacStealer allow for WiFi client isolation bypasses (CVE-2022-47522)](https://github.com/vanhoefm/macstealer)
 * [2023-04-15, 17:06:35](https://news.ycombinator.com/item?id=35582444) - [OpenAssistant Released The best open-source Chat AI [video]](https://www.youtube.com/watch?v=ddG2fM9i4Kk)
 * [2023-04-15, 17:06:21](https://news.ycombinator.com/item?id=35582441) - [Artist refuses prize after his AI image wins at top photo contest](https://petapixel.com/2023/04/14/artist-refuses-prize-after-his-ai-image-wins-at-top-photo-contest/)
 * [2023-04-15, 16:57:22](https://news.ycombinator.com/item?id=35582350) - [Long Covid Appears to Have Led to a Surge of Disabled in the Workplace (2022)](https://libertystreeteconomics.newyorkfed.org/2022/10/long-covid-appears-to-have-led-to-a-surge-of-the-disabled-in-the-workplace/)
