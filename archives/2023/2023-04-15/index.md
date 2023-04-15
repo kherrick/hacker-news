@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 18:28:23](https://news.ycombinator.com/item?id=35583228) - [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
+* [2023-04-15, 18:15:40](https://news.ycombinator.com/item?id=35583089) - [Why the Rust Trademark Policy was such a problem](https://kimono-koans.github.io/trademark/)
 * [2023-04-15, 18:07:48](https://news.ycombinator.com/item?id=35583019) - [Untitled macOS Folder Wallet](http://www.nikolasbentelstudio.com)
 * [2023-04-15, 18:01:11](https://news.ycombinator.com/item?id=35582947) - [What De-Dollarization? The Dollar Rules the World](https://www.bloomberg.com/opinion/articles/2023-04-13/the-dollar-rules-the-world-now-and-for-the-foreseeable-future)
 * [2023-04-15, 17:52:03](https://news.ycombinator.com/item?id=35582854) - [Show HN: SaaS for making software documentation less annoying](https://documentationlab.com)
