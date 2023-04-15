@@ -100,6 +100,7 @@
 * [2023-04-12, 07:46:37](https://news.ycombinator.com/item?id=35536250) - [Deduplicating a Slice in Go](https://boyter.org/posts/deduplicate-slice-go-sort-or-map/)
 * [2023-04-12, 07:37:39](https://news.ycombinator.com/item?id=35536202) - [Displaying My Washing Machine&#x27;s Remaining Time with Curl, Jq, and Pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
 * [2023-04-12, 07:29:23](https://news.ycombinator.com/item?id=35536141) - [Texas Officials Would Rather Close Library Than Stock Books They Don’t Like](https://www.vice.com/en/article/jg58x8/texas-officials-would-rather-close-library-than-stock-books-they-dont-like)
+* [2023-04-12, 07:21:12](https://news.ycombinator.com/item?id=35536085) - [The different uses of Python type hints](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/)
 * [2023-04-12, 07:15:42](https://news.ycombinator.com/item?id=35536042) - [Ask HN: What are some of the best university courses available online for free?](https://news.ycombinator.com/item?id=35536042)
 * [2023-04-12, 07:01:55](https://news.ycombinator.com/item?id=35535945) - [After All Is Said and Indexed – Unlocking Information in Recorded Speech](https://github.com/marqo-ai/marqo/blob/mainline/examples/SpeechProcessing/article/article.md)
 * [2023-04-12, 06:55:17](https://news.ycombinator.com/item?id=35535906) - [Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/)

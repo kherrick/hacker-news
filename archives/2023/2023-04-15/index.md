@@ -7,6 +7,7 @@
 * [2023-04-15, 19:22:18](https://news.ycombinator.com/item?id=35583743) - [Microsoft execs on Apple&#x27;s music store (2003)](https://twitter.com/TechEmails/status/1647317806697050112)
 * [2023-04-15, 18:47:59](https://news.ycombinator.com/item?id=35583412) - [DOJ charges 10 with fraud in global air freight kickback scheme](https://www.aircargonews.net/airlines/freighter-operator/us-doj-charges-10-with-defrauding-polar-air-cargo-worldwide/)
 * [2023-04-15, 18:42:09](https://news.ycombinator.com/item?id=35583349) - [Web LLM – WebGPU Powered Inference of Large Language Models](https://github.com/mlc-ai/web-llm)
+* [2023-04-15, 18:32:54](https://news.ycombinator.com/item?id=35583268) - [Shareware Heroes](https://sharewareheroes.com/)
 * [2023-04-15, 18:28:23](https://news.ycombinator.com/item?id=35583228) - [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
 * [2023-04-15, 18:15:40](https://news.ycombinator.com/item?id=35583089) - [Why the Rust Trademark Policy was such a problem](https://kimono-koans.github.io/trademark/)
 * [2023-04-15, 18:07:48](https://news.ycombinator.com/item?id=35583019) - [Untitled macOS Folder Wallet](http://www.nikolasbentelstudio.com)
