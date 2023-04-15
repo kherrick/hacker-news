@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
 * [2023-04-14, 22:37:39](https://news.ycombinator.com/item?id=35575753) - [Global wind energy will exceed 1 TW by the end of 2023](https://electrek.co/2023/04/14/global-wind-energy-will-exceed-1-tw-by-the-end-of-2023/)
+* [2023-04-14, 22:35:52](https://news.ycombinator.com/item?id=35575727) - [George Eliot’s Marriage Plot](https://www.newstatesman.com/culture/books/2023/03/george-eliot-biography-marriage-plot)
 * [2023-04-14, 22:27:56](https://news.ycombinator.com/item?id=35575638) - [Hacker News for AI](https://news.bensbites.co/)
 * [2023-04-14, 22:07:29](https://news.ycombinator.com/item?id=35575429) - [SpaceX is targeting Monday, April 17 for the first flight of Starship](https://www.spacex.com/launches/mission/?missionId=starship-flight-test)
 * [2023-04-14, 22:00:41](https://news.ycombinator.com/item?id=35575365) - [Even Machine Brains Need Sleep](https://nautil.us/even-machine-brains-need-sleep-288191/)

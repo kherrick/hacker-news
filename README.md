@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-15, 10:29:48](https://news.ycombinator.com/item?id=35579290) - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
 * [2023-04-15, 09:41:35](https://news.ycombinator.com/item?id=35579061) - [The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s](https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html)
 * [2023-04-15, 07:00:51](https://news.ycombinator.com/item?id=35578305) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35578305)
 * [2023-04-15, 05:35:08](https://news.ycombinator.com/item?id=35577895) - [Valve Restricts Accounts of 2500 Users Who Marked a Negative Game Review Useful](https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful)
@@ -9,9 +10,8 @@
 * [2023-04-15, 02:54:36](https://news.ycombinator.com/item?id=35577240) - [Libreboot: HP Elite 8200 SFF support added (plus more desktops coming soon)](https://libreboot.org/news/hp8200sff.html)
 * [2023-04-15, 01:47:27](https://news.ycombinator.com/item?id=35576918) - [What are transformer models and how do they work?](https://txt.cohere.ai/what-are-transformer-models/)
 * [2023-04-15, 01:28:34](https://news.ycombinator.com/item?id=35576823) - [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
-* [2023-04-14, 21:54:28](https://news.ycombinator.com/item?id=35575298) - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
+* [2023-04-14, 22:35:52](https://news.ycombinator.com/item?id=35575727) - [George Eliot’s Marriage Plot](https://www.newstatesman.com/culture/books/2023/03/george-eliot-biography-marriage-plot)
 * [2023-04-14, 21:46:47](https://news.ycombinator.com/item?id=35575213) - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
-* [2023-04-14, 20:23:43](https://news.ycombinator.com/item?id=35574259) - [Searchable Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
 * [2023-04-14, 20:17:36](https://news.ycombinator.com/item?id=35574177) - [ESA’s Juice lifts off on quest to discover secrets of Jupiter’s icy moons](https://www.esa.int/Science_Exploration/Space_Science/Juice/ESA_s_Juice_lifts_off_on_quest_to_discover_secrets_of_Jupiter_s_icy_moons)
 * [2023-04-14, 20:13:02](https://news.ycombinator.com/item?id=35574095) - [This website is solar powered and running on a Raspberry Pi-like computer](https://solar.leo32345.com/)
 * [2023-04-14, 19:27:57](https://news.ycombinator.com/item?id=35573624) - [Monolith: The Recommendation System Behind TikTok](https://gantry.io/blog/papers-to-know-20230110/)
