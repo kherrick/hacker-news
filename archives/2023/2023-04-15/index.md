@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 10:55:58](https://news.ycombinator.com/item?id=35579425) - [Ask HN: Why don&#x27;t smartphones encourage programming like early 80s computers?](https://news.ycombinator.com/item?id=35579425)
+* [2023-04-15, 10:36:52](https://news.ycombinator.com/item?id=35579334) - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 * [2023-04-15, 10:29:48](https://news.ycombinator.com/item?id=35579290) - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
 * [2023-04-15, 09:41:35](https://news.ycombinator.com/item?id=35579061) - [The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s](https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html)
 * [2023-04-15, 07:00:51](https://news.ycombinator.com/item?id=35578305) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35578305)
