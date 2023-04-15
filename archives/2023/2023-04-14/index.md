@@ -70,6 +70,7 @@
 * [2023-04-14, 12:12:06](https://news.ycombinator.com/item?id=35568598) - [Canada is seeing violent crime like never before. What&#x27;s behind the crime wave](https://nationalpost.com/news/canada/canadas-violent-crime-wave)
 * [2023-04-14, 12:06:41](https://news.ycombinator.com/item?id=35568553) - [JUICE Launch Live Stream](https://www.youtube.com/watch?v=MvHcGmQPcsI)
 * [2023-04-14, 12:01:28](https://news.ycombinator.com/item?id=35568512) - [Project pushes back the hominid timeline in Africa by more than 10M years](https://phys.org/news/2023-04-decade-long-prehistoric-timeline-africa-million.html)
+* [2023-04-14, 12:01:02](https://news.ycombinator.com/item?id=35568511) - [Optional If Expressions](https://animaomnium.github.io/optional-if-expressions/)
 * [2023-04-14, 11:49:00](https://news.ycombinator.com/item?id=35568388) - [Live ESA launch to Jupiter [video]](https://www.esa.int/ESA_Multimedia/ESA_Web_TV)
 * [2023-04-14, 11:38:59](https://news.ycombinator.com/item?id=35568311) - [Matrix Calculus: Calculate derivatives of matrices](https://www.matrixcalculus.org/)
 * [2023-04-14, 11:20:38](https://news.ycombinator.com/item?id=35568175) - [Missouri state House Republicans vote to defund public libraries](https://www.salon.com/2023/04/12/missouri-state-vote-to-defund-public-libraries_partner/)
