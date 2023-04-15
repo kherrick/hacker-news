@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-04-15, 18:15:40",
-      "https://news.ycombinator.com/item?id=35583089"
-    ],
-    [
-      "Why the Rust Trademark Policy was such a problem",
-      "https://kimono-koans.github.io/trademark/"
-    ]
-  ],
-  [
-    [
       "2023-04-15, 17:52:03",
       "https://news.ycombinator.com/item?id=35582854"
     ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=35581615"
     ],
     [
-      "Stanford Medicine study: tiny DNA circles are key drivers of cancer",
+      "Tiny DNA circles are key drivers of cancer, study finds",
       "https://med.stanford.edu/news/all-news/2023/04/ecDNA-cancer.html?sf176823295=1"
     ]
   ],
@@ -135,18 +125,8 @@
       "https://news.ycombinator.com/item?id=35581532"
     ],
     [
-      "Remote Code Execution Vulnerability in Google They Are Not Willing to Fix",
+      "Remote code execution vulnerability in Google they are not willing to fix",
       "https://giraffesecurity.dev/posts/google-remote-code-execution/"
-    ]
-  ],
-  [
-    [
-      "2023-04-15, 15:23:59",
-      "https://news.ycombinator.com/item?id=35581443"
-    ],
-    [
-      "BabyAGI: An Autonomous and Self-Improving Agent",
-      "https://github.com/oliveirabruno01/babyagi-asi"
     ]
   ],
   [
@@ -177,6 +157,16 @@
     [
       "Show HN: IPython-GPT, a Jupyter&#x2F;IPython Interface to Chat GPT",
       "https://github.com/santiagobasulto/ipython-gpt"
+    ]
+  ],
+  [
+    [
+      "2023-04-15, 14:20:00",
+      "https://news.ycombinator.com/item?id=35580847"
+    ],
+    [
+      "Why does a plastic-wrapped turkey sandwich cost $15 at the NYC airport?",
+      "https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive"
     ]
   ],
   [
@@ -231,22 +221,22 @@
   ],
   [
     [
+      "2023-04-15, 09:41:35",
+      "https://news.ycombinator.com/item?id=35579061"
+    ],
+    [
+      "The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s",
+      "https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html"
+    ]
+  ],
+  [
+    [
       "2023-04-15, 08:11:42",
       "https://news.ycombinator.com/item?id=35578668"
     ],
     [
       "Apollo 13 in Real Time",
       "https://apolloinrealtime.org/13/"
-    ]
-  ],
-  [
-    [
-      "2023-04-15, 07:00:51",
-      "https://news.ycombinator.com/item?id=35578305"
-    ],
-    [
-      "MixRank (YC S11) Is Hiring Global Remote Software Engineers",
-      "https://news.ycombinator.com/item?id=35578305"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Scissors Congruence: An interactive demo of the Wallace–Bolyai–Gerwien theorem",
       "http://dmsm.github.io/scissors-congruence/"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 11:40:45",
+      "https://news.ycombinator.com/item?id=35523662"
+    ],
+    [
+      "The electron is so round that it’s ruling out potential new particles",
+      "https://www.quantamagazine.org/the-electron-is-so-round-that-its-ruling-out-new-particles-20230410/"
     ]
   ]
 ]
