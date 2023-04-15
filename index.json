@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-04-15, 04:48:54",
-      "https://news.ycombinator.com/item?id=35577686"
+      "2023-04-15, 05:35:08",
+      "https://news.ycombinator.com/item?id=35577895"
     ],
     [
-      "Tech Leaders Blamed San Francisco for Bob Lee’s Killing. Then Came the Arrest",
-      "https://www.nytimes.com/2023/04/14/business/bob-lee-tech-reaction-san-francisco.html"
+      "Valve Restricts Accounts of 2500 Users Who Marked a Negative Game Review Useful",
+      "https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-04-14, 18:58:49",
+      "https://news.ycombinator.com/item?id=35573345"
+    ],
+    [
+      "GM’s decision to ditch Apple CarPlay, Android Auto sparks backlash",
+      "https://www.freep.com/story/money/cars/general-motors/2023/04/14/gm-apple-carplay-android-auto-ford/70100598007/"
+    ]
+  ],
+  [
+    [
       "2023-04-14, 17:48:50",
       "https://news.ycombinator.com/item?id=35572434"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-04-14, 17:02:11",
-      "https://news.ycombinator.com/item?id=35571838"
-    ],
-    [
-      "Svix (YC W21) is hiring Rust back end engineers (US remote)",
-      "https://www.svix.com/careers/"
-    ]
-  ],
-  [
-    [
       "2023-04-14, 15:38:38",
       "https://news.ycombinator.com/item?id=35570758"
     ],
@@ -197,16 +197,6 @@
     [
       "Sam Altman: OpenAI is not training GPT-5 and &quot;won&#x27;t for some time&quot;",
       "https://twitter.com/smokeawayyy/status/1646670920214536193"
-    ]
-  ],
-  [
-    [
-      "2023-04-14, 14:47:29",
-      "https://news.ycombinator.com/item?id=35570151"
-    ],
-    [
-      "AMD Details OpenSIL for Advancing Open-Source System Firmware",
-      "https://www.phoronix.com/news/AMD-openSIL-Detailed"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "The Effects of Lunar Dust on Eva Systems During the Apollo Missions (2005) [pdf]",
       "https://history.nasa.gov/alsj/TM-2005-213610.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-04-14, 10:17:51",
+      "https://news.ycombinator.com/item?id=35567699"
+    ],
+    [
+      "ΜLA: Micro Logic Analyzer",
+      "https://github.com/dotcypress/ula"
     ]
   ],
   [
