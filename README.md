@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-15, 11:29:34](https://news.ycombinator.com/item?id=35579635) - [Germany Quits Nuclear Power, Ending a Decades-Long Struggle](https://www.nytimes.com/2023/04/14/world/europe/germany-nuclear-power-plants.html)
+* [2023-04-15, 12:12:55](https://news.ycombinator.com/item?id=35579891) - [Meta faces ‘morale crisis’ as top execs work from other countries during layoffs](https://nypost.com/2023/04/13/meta-faces-morale-crisis-as-top-execs-work-from-other-countries-during-layoffs-report/)
 * [2023-04-15, 10:36:52](https://news.ycombinator.com/item?id=35579334) - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 * [2023-04-15, 10:29:48](https://news.ycombinator.com/item?id=35579290) - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
 * [2023-04-15, 09:41:35](https://news.ycombinator.com/item?id=35579061) - [The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s](https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html)
+* [2023-04-15, 08:11:42](https://news.ycombinator.com/item?id=35578668) - [Apollo 13 in Real Time](https://apolloinrealtime.org/13/)
 * [2023-04-15, 07:00:51](https://news.ycombinator.com/item?id=35578305) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35578305)
 * [2023-04-15, 06:47:34](https://news.ycombinator.com/item?id=35578240) - [Low Code Software Development Is a Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
 * [2023-04-15, 05:35:08](https://news.ycombinator.com/item?id=35577895) - [Valve Restricts Accounts of 2500 Users Who Marked a Negative Game Review Useful](https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful)
@@ -27,7 +28,6 @@
 * [2023-04-12, 13:48:14](https://news.ycombinator.com/item?id=35539595) - [Aztec monks with 1&#x2F;55 HP no longer die when picking up or dropping a relic](https://www.reddit.com/r/Games/comments/12jbb9d/age_of_empires_ii_de_major_update_81058/jfy2mqq/)
 * [2023-04-12, 11:55:09](https://news.ycombinator.com/item?id=35538223) - [OpenCore Legacy Patcher – Use new macOS versions on old hardware](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 * [2023-04-12, 10:36:04](https://news.ycombinator.com/item?id=35537537) - [Super Mario Bros. theme part of the 2023 Library of Congress registry](https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2023/)
-* [2023-04-12, 06:46:06](https://news.ycombinator.com/item?id=35535864) - [How the relentless drive for optimization made baseball impossible to watch](https://www.vox.com/future-perfect/2023/4/1/23664724/baseball-artificial-intelligence-kyle-schwarber-philadelphia-phillies-moneyball-strikeout-homer)
 * [2023-04-11, 12:00:45](https://news.ycombinator.com/item?id=35523894) - [Zillions and Zillions](https://www.etymonline.com/columns/post/zillions-and-zillions)
 * [2023-04-11, 11:40:35](https://news.ycombinator.com/item?id=35523659) - [The Seattle Report on Database Research (2022)](https://cacm.acm.org/magazines/2022/8/262905-the-seattle-report-on-database-research/fulltext)
 
