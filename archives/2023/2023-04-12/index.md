@@ -70,6 +70,7 @@
 * [2023-04-12, 12:22:33](https://news.ycombinator.com/item?id=35538494) - [FBI Advising People to Avoid Public Charging Stations](https://www.schneier.com/blog/archives/2023/04/fbi-advising-people-to-avoid-public-charging-stations.html)
 * [2023-04-12, 12:21:13](https://news.ycombinator.com/item?id=35538477) - [Former Executives of Outcome Health Convicted in $1B Corporate Fraud Scheme – OP](https://www.justice.gov/opa/pr/former-executives-outcome-health-convicted-1b-corporate-fraud-scheme)
 * [2023-04-12, 12:00:55](https://news.ycombinator.com/item?id=35538271) - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer (Analytics)](https://bitmovin.com/careers/6694763002/)
+* [2023-04-12, 11:55:09](https://news.ycombinator.com/item?id=35538223) - [OpenCore Legacy Patcher – Use new macOS versions on old hardware](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 * [2023-04-12, 11:52:11](https://news.ycombinator.com/item?id=35538192) - [ManyCam dishonored my lifetime license](https://www.amazingcto.com/beware-manycam-licensing-pricing/)
 * [2023-04-12, 11:43:13](https://news.ycombinator.com/item?id=35538104) - [The Goddess and the Rose](https://worldsensorium.com/the-goddess-and-the-rose/)
 * [2023-04-12, 11:42:27](https://news.ycombinator.com/item?id=35538095) - [Searching for the River of Wind](https://nautil.us/searching-for-the-river-of-wind-294480/)
