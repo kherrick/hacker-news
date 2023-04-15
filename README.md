@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-15, 07:00:51](https://news.ycombinator.com/item?id=35578305) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35578305)
-* [2023-04-15, 06:44:26](https://news.ycombinator.com/item?id=35578226) - [Twitter lacks many features to be a true Mastodon replacement (2022)](https://aus.social/@ajsadauskas/109334791235861940)
 * [2023-04-15, 05:35:08](https://news.ycombinator.com/item?id=35577895) - [Valve Restricts Accounts of 2500 Users Who Marked a Negative Game Review Useful](https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful)
 * [2023-04-15, 05:32:07](https://news.ycombinator.com/item?id=35577873) - [Mayan ball game scoreboard thought to be over 1k years old found in Mexico](https://www.theguardian.com/world/2023/apr/11/mayan-ball-game-scoreboard-chichen-itza-mexico)
 * [2023-04-15, 04:36:34](https://news.ycombinator.com/item?id=35577636) - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
@@ -23,6 +22,7 @@
 * [2023-04-14, 11:00:31](https://news.ycombinator.com/item?id=35567997) - [DPaint.js: A web-based image editor modeled after Deluxe Paint](https://www.stef.be/dpaint/)
 * [2023-04-14, 10:47:48](https://news.ycombinator.com/item?id=35567904) - [Brandolini&#x27;s Law](https://en.wikipedia.org/wiki/Brandolini%27s_law)
 * [2023-04-14, 07:37:03](https://news.ycombinator.com/item?id=35566602) - [AI Poised to Transform Video Compression Landscape](https://spectrum.ieee.org/ai-video-codecs-waveone)
+* [2023-04-13, 20:54:40](https://news.ycombinator.com/item?id=35561933) - [Chess, unlike war, is a game of perfect information](https://daily.jstor.org/chess-unlike-war-is-a-game-of-perfect-information/)
 * [2023-04-13, 16:19:26](https://news.ycombinator.com/item?id=35557848) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 * [2023-04-13, 01:11:16](https://news.ycombinator.com/item?id=35549517) - [Running SunOS 4 in QEMU (Sparc)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
 * [2023-04-12, 13:48:14](https://news.ycombinator.com/item?id=35539595) - [Aztec monks with 1&#x2F;55 HP no longer die when picking up or dropping a relic](https://www.reddit.com/r/Games/comments/12jbb9d/age_of_empires_ii_de_major_update_81058/jfy2mqq/)
