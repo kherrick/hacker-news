@@ -8,6 +8,7 @@
 * [2023-04-15, 14:58:23](https://news.ycombinator.com/item?id=35581197) - [Tell HN: Do Not Use Docusign](https://news.ycombinator.com/item?id=35581197)
 * [2023-04-15, 14:47:37](https://news.ycombinator.com/item?id=35581082) - [Stop Building Closed Ecosystems](https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/)
 * [2023-04-15, 14:42:12](https://news.ycombinator.com/item?id=35581031) - [Ask HN: Why call it an AI company if all it does is call open AI API?](https://news.ycombinator.com/item?id=35581031)
+* [2023-04-15, 14:33:43](https://news.ycombinator.com/item?id=35580959) - [Show HN: IPython-GPT, a Jupyter&#x2F;IPython Interface to Chat GPT](https://github.com/santiagobasulto/ipython-gpt)
 * [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why Does a Plastic-Wrapped Turkey Sandwich Cost $15 at the NYC Airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
 * [2023-04-15, 14:19:52](https://news.ycombinator.com/item?id=35580845) - [New Arkansas bill to keep minors off social media exempts most social platforms](https://www.theverge.com/2023/4/13/23681770/arkansas-social-media-bill-restricts-minors-parental-consent)
 * [2023-04-15, 14:10:46](https://news.ycombinator.com/item?id=35580776) - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
