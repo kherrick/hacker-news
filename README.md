@@ -2,12 +2,12 @@
 
 * [2023-04-15, 04:48:54](https://news.ycombinator.com/item?id=35577686) - [Tech Leaders Blamed San Francisco for Bob Lee’s Killing. Then Came the Arrest](https://www.nytimes.com/2023/04/14/business/bob-lee-tech-reaction-san-francisco.html)
 * [2023-04-15, 03:05:51](https://news.ycombinator.com/item?id=35577285) - [Surviving Burnout](https://lifeofaudrey.com/essays/surviving_burnout.html)
+* [2023-04-15, 02:54:36](https://news.ycombinator.com/item?id=35577240) - [Libreboot: HP Elite 8200 SFF support added (plus more desktops coming soon)](https://libreboot.org/news/hp8200sff.html)
 * [2023-04-15, 01:59:59](https://news.ycombinator.com/item?id=35576973) - [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
 * [2023-04-15, 01:47:27](https://news.ycombinator.com/item?id=35576918) - [What are transformer models and how do they work?](https://txt.cohere.ai/what-are-transformer-models/)
 * [2023-04-15, 01:28:34](https://news.ycombinator.com/item?id=35576823) - [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
 * [2023-04-15, 00:27:03](https://news.ycombinator.com/item?id=35576473) - [Solar Panels That Clean Themselves](https://www.eetimes.com/innovative-approaches-tackle-self-cleaning-solar-panels/)
 * [2023-04-15, 00:21:49](https://news.ycombinator.com/item?id=35576437) - [Solar Roof for the VW ID Buzz EV](https://www.motortrend.com/news/2024-volkswagen-id-buzz-solar-roof-abt/)
-* [2023-04-14, 22:27:56](https://news.ycombinator.com/item?id=35575638) - [Hacker News for AI](https://news.bensbites.co/)
 * [2023-04-14, 21:54:28](https://news.ycombinator.com/item?id=35575298) - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
 * [2023-04-14, 21:46:47](https://news.ycombinator.com/item?id=35575213) - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
 * [2023-04-14, 20:38:13](https://news.ycombinator.com/item?id=35574416) - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
