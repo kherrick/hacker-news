@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
 * [2023-04-15, 04:48:54](https://news.ycombinator.com/item?id=35577686) - [Tech Leaders Blamed San Francisco for Bob Lee’s Killing. Then Came the Arrest](https://www.nytimes.com/2023/04/14/business/bob-lee-tech-reaction-san-francisco.html)
+* [2023-04-15, 04:46:21](https://news.ycombinator.com/item?id=35577675) - [Cash App founder stabbed after allegedly drinking with suspect&#x27;s sister](https://www.washingtonpost.com/technology/2023/04/14/bob-lee-tech-ceo-stabbing/)
 * [2023-04-15, 03:37:19](https://news.ycombinator.com/item?id=35577421) - [Passionate&#x27; teen took his own life after feeling &#x27;helpless&#x27; over climate crisis](https://www.mirror.co.uk/news/uk-news/passionate-teen-took-life-after-29716980)
 * [2023-04-15, 03:05:51](https://news.ycombinator.com/item?id=35577285) - [Surviving Burnout](https://lifeofaudrey.com/essays/surviving_burnout.html)
 * [2023-04-15, 02:54:36](https://news.ycombinator.com/item?id=35577240) - [Libreboot: HP Elite 8200 SFF support added (plus more desktops coming soon)](https://libreboot.org/news/hp8200sff.html)
