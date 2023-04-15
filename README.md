@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-15, 04:48:54](https://news.ycombinator.com/item?id=35577686) - [Tech Leaders Blamed San Francisco for Bob Lee’s Killing. Then Came the Arrest](https://www.nytimes.com/2023/04/14/business/bob-lee-tech-reaction-san-francisco.html)
 * [2023-04-15, 03:05:51](https://news.ycombinator.com/item?id=35577285) - [Surviving Burnout](https://lifeofaudrey.com/essays/surviving_burnout.html)
 * [2023-04-15, 01:59:59](https://news.ycombinator.com/item?id=35576973) - [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
 * [2023-04-15, 01:47:27](https://news.ycombinator.com/item?id=35576918) - [What are transformer models and how do they work?](https://txt.cohere.ai/what-are-transformer-models/)
@@ -17,7 +18,6 @@
 * [2023-04-14, 17:48:50](https://news.ycombinator.com/item?id=35572434) - [Show HN: WikiBinge – discover how all things are vaguely connected](https://www.wikibinge.com/)
 * [2023-04-14, 17:37:24](https://news.ycombinator.com/item?id=35572290) - [Prompt injection: what’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
 * [2023-04-14, 17:02:11](https://news.ycombinator.com/item?id=35571838) - [Svix (YC W21) is hiring Rust back end engineers (US remote)](https://www.svix.com/careers/)
-* [2023-04-14, 16:35:14](https://news.ycombinator.com/item?id=35571481) - [Spanish climber emerges after 500 days in cave](https://www.cbc.ca/news/world/spain-cave-500-days-beatriz-flamini-1.6810428)
 * [2023-04-14, 15:38:38](https://news.ycombinator.com/item?id=35570758) - [Dbdev – A database package manager for PostgreSQL trusted language extensions](https://database.dev)
 * [2023-04-14, 15:33:14](https://news.ycombinator.com/item?id=35570690) - [Sam Altman: OpenAI is not training GPT-5 and &quot;won&#x27;t for some time&quot;](https://twitter.com/smokeawayyy/status/1646670920214536193)
 * [2023-04-14, 14:47:29](https://news.ycombinator.com/item?id=35570151) - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
