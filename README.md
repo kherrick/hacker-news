@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-15, 17:06:35](https://news.ycombinator.com/item?id=35582444) - [OpenAssistant Released The best open-source Chat AI [video]](https://www.youtube.com/watch?v=ddG2fM9i4Kk)
 * [2023-04-15, 17:06:21](https://news.ycombinator.com/item?id=35582441) - [Artist refuses prize after his AI image wins at top photo contest](https://petapixel.com/2023/04/14/artist-refuses-prize-after-his-ai-image-wins-at-top-photo-contest/)
 * [2023-04-15, 16:57:22](https://news.ycombinator.com/item?id=35582350) - [Long Covid Appears to Have Led to a Surge of Disabled in the Workplace (2022)](https://libertystreeteconomics.newyorkfed.org/2022/10/long-covid-appears-to-have-led-to-a-surge-of-the-disabled-in-the-workplace/)
 * [2023-04-15, 15:54:07](https://news.ycombinator.com/item?id=35581768) - [Hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
 * [2023-04-15, 15:43:28](https://news.ycombinator.com/item?id=35581654) - [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
 * [2023-04-15, 15:39:56](https://news.ycombinator.com/item?id=35581615) - [Stanford Medicine study: tiny DNA circles are key drivers of cancer](https://med.stanford.edu/news/all-news/2023/04/ecDNA-cancer.html?sf176823295=1)
-* [2023-04-15, 15:36:13](https://news.ycombinator.com/item?id=35581579) - [The military loved Discord for Gen Z recruiting. Then the leaks began](https://www.washingtonpost.com/technology/2023/04/15/discord-military-recruitment-pentagon-document-leaks/)
 * [2023-04-15, 15:32:56](https://news.ycombinator.com/item?id=35581532) - [Remote Code Execution Vulnerability in Google They Are Not Willing to Fix](https://giraffesecurity.dev/posts/google-remote-code-execution/)
 * [2023-04-15, 15:23:59](https://news.ycombinator.com/item?id=35581443) - [BabyAGI: An Autonomous and Self-Improving Agent](https://github.com/oliveirabruno01/babyagi-asi)
 * [2023-04-15, 15:16:35](https://news.ycombinator.com/item?id=35581375) - [New macOS malware steals info, including a user&#x27;s entire Keychain database](https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-of-sensitive-information-including-a-users-entire-keychain-database)
