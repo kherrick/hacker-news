@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 15:43:28](https://news.ycombinator.com/item?id=35581654) - [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
+* [2023-04-15, 15:36:13](https://news.ycombinator.com/item?id=35581579) - [The military loved Discord for Gen Z recruiting. Then the leaks began](https://www.washingtonpost.com/technology/2023/04/15/discord-military-recruitment-pentagon-document-leaks/)
+* [2023-04-15, 15:16:35](https://news.ycombinator.com/item?id=35581375) - [New macOS malware steals info, including a user&#x27;s entire Keychain database](https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-of-sensitive-information-including-a-users-entire-keychain-database)
 * [2023-04-15, 15:02:57](https://news.ycombinator.com/item?id=35581232) - [US pay transparency laws result in worker discontent](https://www.irishtimes.com/business/work/2023/03/31/us-pay-transparency-laws-result-in-worker-discontent/)
 * [2023-04-15, 14:58:23](https://news.ycombinator.com/item?id=35581197) - [Tell HN: Do Not Use Docusign](https://news.ycombinator.com/item?id=35581197)
 * [2023-04-15, 14:51:34](https://news.ycombinator.com/item?id=35581129) - [U.S. may change how it monitors the web after missing leaked documents for weeks](https://www.nbcnews.com/politics/national-security/us-intel-agencies-missed-classified-documents-leaked-on-discord-rcna79404)
