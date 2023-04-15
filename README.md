@@ -24,12 +24,12 @@
 * [2023-04-15, 05:35:08](https://news.ycombinator.com/item?id=35577895) - [Valve Restricts Accounts of 2500 Users Who Marked a Negative Game Review Useful](https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful)
 * [2023-04-15, 04:36:34](https://news.ycombinator.com/item?id=35577636) - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 * [2023-04-15, 03:05:51](https://news.ycombinator.com/item?id=35577285) - [Surviving Burnout (2015)](https://lifeofaudrey.com/essays/surviving_burnout.html)
-* [2023-04-15, 01:47:27](https://news.ycombinator.com/item?id=35576918) - [What are transformer models and how do they work?](https://txt.cohere.ai/what-are-transformer-models/)
 * [2023-04-14, 16:17:01](https://news.ycombinator.com/item?id=35571236) - [Intel won&#x27;t back down on chip ID feature (1999)](https://web.archive.org/web/20010419012218/http://www.zdnet.co.uk/news/1999/7/ns-7095.html)
 * [2023-04-12, 13:48:14](https://news.ycombinator.com/item?id=35539595) - [Aztec monks with 1&#x2F;55 HP no longer die when picking up or dropping a relic](https://www.reddit.com/r/Games/comments/12jbb9d/age_of_empires_ii_de_major_update_81058/jfy2mqq/)
 * [2023-04-12, 11:55:09](https://news.ycombinator.com/item?id=35538223) - [OpenCore Legacy Patcher – Use new macOS versions on old hardware](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 * [2023-04-12, 10:36:04](https://news.ycombinator.com/item?id=35537537) - [Super Mario Bros. theme part of the 2023 Library of Congress registry](https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2023/)
 * [2023-04-12, 07:01:55](https://news.ycombinator.com/item?id=35535945) - [After All Is Said and Indexed – Unlocking Information in Recorded Speech](https://github.com/marqo-ai/marqo/blob/mainline/examples/SpeechProcessing/article/article.md)
+* [2023-04-11, 11:40:45](https://news.ycombinator.com/item?id=35523662) - [The Electron Is So Round That It’s Ruling Out Potential New Particles](https://www.quantamagazine.org/the-electron-is-so-round-that-its-ruling-out-new-particles-20230410/)
 
 ## [Archives](archives/index.md)
 
