@@ -104,6 +104,7 @@
 * [2023-04-12, 07:01:55](https://news.ycombinator.com/item?id=35535945) - [After All Is Said and Indexed – Unlocking Information in Recorded Speech](https://github.com/marqo-ai/marqo/blob/mainline/examples/SpeechProcessing/article/article.md)
 * [2023-04-12, 06:55:17](https://news.ycombinator.com/item?id=35535906) - [Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/)
 * [2023-04-12, 06:46:06](https://news.ycombinator.com/item?id=35535864) - [How the relentless drive for optimization made baseball impossible to watch](https://www.vox.com/future-perfect/2023/4/1/23664724/baseball-artificial-intelligence-kyle-schwarber-philadelphia-phillies-moneyball-strikeout-homer)
+* [2023-04-12, 06:38:55](https://news.ycombinator.com/item?id=35535821) - [Scissors Congruence: An interactive demo of the Wallace–Bolyai–Gerwien theorem](http://dmsm.github.io/scissors-congruence/)
 * [2023-04-12, 05:37:22](https://news.ycombinator.com/item?id=35535430) - [Could the Dodo Come Back from Extinction?](https://www.discoverwildlife.com/animal-facts/could-the-dodo-come-back-from-extinction/)
 * [2023-04-12, 05:33:09](https://news.ycombinator.com/item?id=35535407) - [Wikipedia: List of Citogenesis Incidents](https://en.wikipedia.org/wiki/Wikipedia:List_of_citogenesis_incidents)
 * [2023-04-12, 05:32:30](https://news.ycombinator.com/item?id=35535404) - [Pedagogical Downsides of Haskell](https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell)
