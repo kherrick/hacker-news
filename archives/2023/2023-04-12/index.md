@@ -77,6 +77,7 @@
 * [2023-04-12, 11:02:12](https://news.ycombinator.com/item?id=35537719) - [Why MD5(&#x27;240610708&#x27;) is equal to MD5(&#x27;QNKCDZO&#x27;)?](https://stackoverflow.com/a/22140266)
 * [2023-04-12, 10:55:44](https://news.ycombinator.com/item?id=35537662) - [The Education of a Computer (1952)](https://fermatslibrary.com/s/the-education-of-a-computer)
 * [2023-04-12, 10:44:50](https://news.ycombinator.com/item?id=35537591) - [VS Code caught accessing the microphone in new update](https://imgur.com/a/2BpN0Pd)
+* [2023-04-12, 10:36:04](https://news.ycombinator.com/item?id=35537537) - [Super Mario Bros. theme part of the 2023 Library of Congress registry](https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2023/)
 * [2023-04-12, 09:59:19](https://news.ycombinator.com/item?id=35537264) - [Ask HN: Is Software Getting Worse?](https://news.ycombinator.com/item?id=35537264)
 * [2023-04-12, 09:56:45](https://news.ycombinator.com/item?id=35537248) - [Primitive Asgard Cells Show Life on the Brink of Complexity](https://www.quantamagazine.org/primitive-asgard-cells-show-life-on-the-brink-of-complexity-20230411/)
 * [2023-04-12, 09:28:26](https://news.ycombinator.com/item?id=35537007) - [The Complete Guide to All the Taquerias of Redwood City, v2.0](http://www.emeraldlake.com/tacos/)
