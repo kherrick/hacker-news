@@ -7,6 +7,7 @@
 * [2023-04-15, 07:00:51](https://news.ycombinator.com/item?id=35578305) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35578305)
 * [2023-04-15, 06:44:26](https://news.ycombinator.com/item?id=35578226) - [Twitter lacks many features to be a true Mastodon replacement (2022)](https://aus.social/@ajsadauskas/109334791235861940)
 * [2023-04-15, 05:35:08](https://news.ycombinator.com/item?id=35577895) - [Valve Restricts Accounts of 2500 Users Who Marked a Negative Game Review Useful](https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful)
+* [2023-04-15, 05:32:07](https://news.ycombinator.com/item?id=35577873) - [Mayan ball game scoreboard thought to be over 1k years old found in Mexico](https://www.theguardian.com/world/2023/apr/11/mayan-ball-game-scoreboard-chichen-itza-mexico)
 * [2023-04-15, 04:48:54](https://news.ycombinator.com/item?id=35577686) - [Tech Leaders Blamed San Francisco for Bob Lee’s Killing. Then Came the Arrest](https://www.nytimes.com/2023/04/14/business/bob-lee-tech-reaction-san-francisco.html)
 * [2023-04-15, 04:46:21](https://news.ycombinator.com/item?id=35577675) - [Cash App founder stabbed after allegedly drinking with suspect&#x27;s sister](https://www.washingtonpost.com/technology/2023/04/14/bob-lee-tech-ceo-stabbing/)
 * [2023-04-15, 04:36:34](https://news.ycombinator.com/item?id=35577636) - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
