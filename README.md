@@ -20,7 +20,6 @@
 * [2023-04-14, 19:27:57](https://news.ycombinator.com/item?id=35573624) - [Monolith: The Recommendation System Behind TikTok](https://gantry.io/blog/papers-to-know-20230110/)
 * [2023-04-14, 18:58:49](https://news.ycombinator.com/item?id=35573345) - [GM’s decision to ditch Apple CarPlay, Android Auto sparks backlash](https://www.freep.com/story/money/cars/general-motors/2023/04/14/gm-apple-carplay-android-auto-ford/70100598007/)
 * [2023-04-14, 17:48:50](https://news.ycombinator.com/item?id=35572434) - [Show HN: WikiBinge – discover how all things are vaguely connected](https://www.wikibinge.com/)
-* [2023-04-14, 12:01:02](https://news.ycombinator.com/item?id=35568511) - [Optional If Expressions](https://animaomnium.github.io/optional-if-expressions/)
 * [2023-04-14, 11:38:59](https://news.ycombinator.com/item?id=35568311) - [Matrix Calculus: Calculate derivatives of matrices](https://www.matrixcalculus.org/)
 * [2023-04-14, 11:00:31](https://news.ycombinator.com/item?id=35567997) - [DPaint.js: A web-based image editor modeled after Deluxe Paint](https://www.stef.be/dpaint/)
 * [2023-04-14, 07:37:03](https://news.ycombinator.com/item?id=35566602) - [AI Poised to Transform Video Compression Landscape](https://spectrum.ieee.org/ai-video-codecs-waveone)
@@ -29,6 +28,7 @@
 * [2023-04-12, 11:55:09](https://news.ycombinator.com/item?id=35538223) - [OpenCore Legacy Patcher – Use new macOS versions on old hardware](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 * [2023-04-12, 10:36:04](https://news.ycombinator.com/item?id=35537537) - [Super Mario Bros. theme part of the 2023 Library of Congress registry](https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2023/)
 * [2023-04-11, 12:00:45](https://news.ycombinator.com/item?id=35523894) - [Zillions and Zillions](https://www.etymonline.com/columns/post/zillions-and-zillions)
+* [2023-04-11, 11:40:45](https://news.ycombinator.com/item?id=35523662) - [The Electron Is So Round That It’s Ruling Out Potential New Particles](https://www.quantamagazine.org/the-electron-is-so-round-that-its-ruling-out-new-particles-20230410/)
 * [2023-04-11, 11:40:35](https://news.ycombinator.com/item?id=35523659) - [The Seattle Report on Database Research (2022)](https://cacm.acm.org/magazines/2022/8/262905-the-seattle-report-on-database-research/fulltext)
 
 ## [Archives](archives/index.md)
