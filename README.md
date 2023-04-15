@@ -12,6 +12,7 @@
 * [2023-04-15, 14:10:46](https://news.ycombinator.com/item?id=35580776) - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
 * [2023-04-15, 13:56:58](https://news.ycombinator.com/item?id=35580684) - [A Mechanism for Long Covid](https://mastodon.nl/@vickyvdtogt/110196805189572082)
 * [2023-04-15, 12:11:19](https://news.ycombinator.com/item?id=35579876) - [Hypervisor Development in Rust](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
+* [2023-04-15, 10:55:58](https://news.ycombinator.com/item?id=35579425) - [Ask HN: Why don&#x27;t smartphones encourage programming like early 80s computers?](https://news.ycombinator.com/item?id=35579425)
 * [2023-04-15, 10:36:52](https://news.ycombinator.com/item?id=35579334) - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 * [2023-04-15, 10:29:48](https://news.ycombinator.com/item?id=35579290) - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
 * [2023-04-15, 10:04:27](https://news.ycombinator.com/item?id=35579154) - [How many floating-point numbers are in the interval [0,1]? (2017)](https://lemire.me/blog/2017/02/28/how-many-floating-point-numbers-are-in-the-interval-01/)
@@ -29,7 +30,6 @@
 * [2023-04-12, 10:36:04](https://news.ycombinator.com/item?id=35537537) - [Super Mario Bros. theme part of the 2023 Library of Congress registry](https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2023/)
 * [2023-04-12, 07:01:55](https://news.ycombinator.com/item?id=35535945) - [After All Is Said and Indexed – Unlocking Information in Recorded Speech](https://github.com/marqo-ai/marqo/blob/mainline/examples/SpeechProcessing/article/article.md)
 * [2023-04-11, 11:40:45](https://news.ycombinator.com/item?id=35523662) - [The Electron Is So Round That It’s Ruling Out Potential New Particles](https://www.quantamagazine.org/the-electron-is-so-round-that-its-ruling-out-new-particles-20230410/)
-* [2023-04-11, 11:40:35](https://news.ycombinator.com/item?id=35523659) - [The Seattle Report on Database Research (2022)](https://cacm.acm.org/magazines/2022/8/262905-the-seattle-report-on-database-research/fulltext)
 
 ## [Archives](archives/index.md)
 
