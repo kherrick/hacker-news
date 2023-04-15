@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 20:32:57](https://news.ycombinator.com/item?id=35584272) - [Less Than 7 Percent of US Active Equity Funds Have Beat the Market Past Decade](https://www.ft.com/content/c331b279-00e5-4e7d-954f-468f4ee44c31)
+* [2023-04-15, 20:23:44](https://news.ycombinator.com/item?id=35584191) - [HDD Sales Crater, Drop 35% Year-over-Year](https://www.tomshardware.com/news/sales-of-hdds-drop-35-percent-year-over-year)
 * [2023-04-15, 20:22:54](https://news.ycombinator.com/item?id=35584187) - [Algebraic Graph Calculus](http://gabarro.org/ccn/algebraic_graph_calculus.html)
 * [2023-04-15, 19:22:18](https://news.ycombinator.com/item?id=35583743) - [Microsoft execs on Apple&#x27;s music store (2003)](https://twitter.com/TechEmails/status/1647317806697050112)
 * [2023-04-15, 18:47:59](https://news.ycombinator.com/item?id=35583412) - [DOJ charges 10 with fraud in global air freight kickback scheme](https://www.aircargonews.net/airlines/freighter-operator/us-doj-charges-10-with-defrauding-polar-air-cargo-worldwide/)
@@ -21,6 +23,7 @@
 * [2023-04-15, 17:04:33](https://news.ycombinator.com/item?id=35582417) - [OpenAssistant Conversations – Democratizing Large Language Model Alignment [pdf]](https://www.ykilcher.com/OA_Paper_2023_04_15.pdf)
 * [2023-04-15, 16:57:22](https://news.ycombinator.com/item?id=35582350) - [Long Covid Appears to Have Led to a Surge of Disabled in the Workplace (2022)](https://libertystreeteconomics.newyorkfed.org/2022/10/long-covid-appears-to-have-led-to-a-surge-of-the-disabled-in-the-workplace/)
 * [2023-04-15, 16:27:59](https://news.ycombinator.com/item?id=35582084) - [Generalizations of Fourier Analysis](http://gabarro.org/ccn/gen_fourier.html)
+* [2023-04-15, 16:27:35](https://news.ycombinator.com/item?id=35582079) - [Exercism – learn 67 programming languages for free](https://exercism.org/)
 * [2023-04-15, 15:54:07](https://news.ycombinator.com/item?id=35581768) - [Hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
 * [2023-04-15, 15:43:28](https://news.ycombinator.com/item?id=35581654) - [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
 * [2023-04-15, 15:39:56](https://news.ycombinator.com/item?id=35581615) - [Stanford Medicine study: tiny DNA circles are key drivers of cancer](https://med.stanford.edu/news/all-news/2023/04/ecDNA-cancer.html?sf176823295=1)
