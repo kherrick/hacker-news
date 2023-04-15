@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 05:35:08](https://news.ycombinator.com/item?id=35577895) - [Valve Restricts Accounts of 2500 Users Who Marked a Negative Game Review Useful](https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful)
 * [2023-04-15, 04:48:54](https://news.ycombinator.com/item?id=35577686) - [Tech Leaders Blamed San Francisco for Bob Lee’s Killing. Then Came the Arrest](https://www.nytimes.com/2023/04/14/business/bob-lee-tech-reaction-san-francisco.html)
 * [2023-04-15, 04:46:21](https://news.ycombinator.com/item?id=35577675) - [Cash App founder stabbed after allegedly drinking with suspect&#x27;s sister](https://www.washingtonpost.com/technology/2023/04/14/bob-lee-tech-ceo-stabbing/)
 * [2023-04-15, 04:36:34](https://news.ycombinator.com/item?id=35577636) - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
