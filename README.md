@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-15, 18:07:48](https://news.ycombinator.com/item?id=35583019) - [Untitled macOS Folder Wallet](http://www.nikolasbentelstudio.com)
+* [2023-04-15, 17:52:03](https://news.ycombinator.com/item?id=35582854) - [Show HN: SaaS for making software documentation less annoying](https://documentationlab.com)
 * [2023-04-15, 17:46:25](https://news.ycombinator.com/item?id=35582798) - [MacStealer allows for WiFi client isolation bypasses (CVE-2022-47522)](https://github.com/vanhoefm/macstealer)
 * [2023-04-15, 17:06:35](https://news.ycombinator.com/item?id=35582444) - [OpenAssistant released the best open-source Chat AI [video]](https://www.youtube.com/watch?v=ddG2fM9i4Kk)
 * [2023-04-15, 17:06:21](https://news.ycombinator.com/item?id=35582441) - [Artist refuses prize after his AI image wins at top photo contest](https://petapixel.com/2023/04/14/artist-refuses-prize-after-his-ai-image-wins-at-top-photo-contest/)
@@ -23,12 +25,10 @@
 * [2023-04-15, 08:11:42](https://news.ycombinator.com/item?id=35578668) - [Apollo 13 in Real Time](https://apolloinrealtime.org/13/)
 * [2023-04-15, 07:00:51](https://news.ycombinator.com/item?id=35578305) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35578305)
 * [2023-04-15, 04:36:34](https://news.ycombinator.com/item?id=35577636) - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
-* [2023-04-15, 03:05:51](https://news.ycombinator.com/item?id=35577285) - [Surviving Burnout (2015)](https://lifeofaudrey.com/essays/surviving_burnout.html)
 * [2023-04-14, 16:17:01](https://news.ycombinator.com/item?id=35571236) - [Intel won&#x27;t back down on chip ID feature (1999)](https://web.archive.org/web/20010419012218/http://www.zdnet.co.uk/news/1999/7/ns-7095.html)
 * [2023-04-13, 08:34:39](https://news.ycombinator.com/item?id=35552605) - [Introduction to Rdist (2012)](http://www.benedikt-stockebrand.de/rdist-intro_en.html)
 * [2023-04-12, 13:48:14](https://news.ycombinator.com/item?id=35539595) - [Aztec monks with 1&#x2F;55 HP no longer die when picking up or dropping a relic](https://www.reddit.com/r/Games/comments/12jbb9d/age_of_empires_ii_de_major_update_81058/jfy2mqq/)
 * [2023-04-12, 11:55:09](https://news.ycombinator.com/item?id=35538223) - [OpenCore Legacy Patcher – Use new macOS versions on old hardware](https://dortania.github.io/OpenCore-Legacy-Patcher/)
-* [2023-04-12, 10:36:04](https://news.ycombinator.com/item?id=35537537) - [Super Mario Bros. theme part of the 2023 Library of Congress registry](https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2023/)
 * [2023-04-12, 07:01:55](https://news.ycombinator.com/item?id=35535945) - [After All Is Said and Indexed – Unlocking Information in Recorded Speech](https://github.com/marqo-ai/marqo/blob/mainline/examples/SpeechProcessing/article/article.md)
 
 ## [Archives](archives/index.md)
