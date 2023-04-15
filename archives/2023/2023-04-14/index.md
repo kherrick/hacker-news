@@ -90,6 +90,7 @@
 * [2023-04-14, 08:38:28](https://news.ycombinator.com/item?id=35567026) - [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
 * [2023-04-14, 08:05:13](https://news.ycombinator.com/item?id=35566791) - [Zig Build System](https://en.liujiacai.net/2023/04/13/zig-build-system/)
 * [2023-04-14, 08:02:05](https://news.ycombinator.com/item?id=35566768) - [Mike Perham of Sidekiq: “If you build something valuable, charge money for it.”](https://codecodeship.com/blog/2023-04-14-mike-perham)
+* [2023-04-14, 07:37:03](https://news.ycombinator.com/item?id=35566602) - [AI Poised to Transform Video Compression Landscape](https://spectrum.ieee.org/ai-video-codecs-waveone)
 * [2023-04-14, 07:19:00](https://news.ycombinator.com/item?id=35566488) - [Have Men Become Culturally Redundant?](https://www.commonwealmagazine.org/men-boys-feminism-peterson-tate-reeves-economy-books)
 * [2023-04-14, 07:11:59](https://news.ycombinator.com/item?id=35566447) - [Tesla sets up new-energy firm in Shanghai with $2M registered capital](https://www.reuters.com/business/sustainable-business/tesla-sets-up-new-energy-firm-shanghai-with-2-mln-registered-capital-tianyancha-2023-04-14/)
 * [2023-04-14, 07:06:41](https://news.ycombinator.com/item?id=35566416) - [Ask HN: Technology&#x2F;Creative books and games for my daughter (7 years)](https://news.ycombinator.com/item?id=35566416)
