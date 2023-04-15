@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 21:44:56](https://news.ycombinator.com/item?id=35584866) - [Digital clutter: Learning to let go and stop hoarding terabytes](https://paulstamatiou.com/digital-clutter/)
 * [2023-04-15, 21:37:43](https://news.ycombinator.com/item?id=35584792) - [Leak to us or we&#x27;ll dox you](https://twitter.com/ggreenwald/status/1647258233218760705)
 * [2023-04-15, 21:21:53](https://news.ycombinator.com/item?id=35584650) - [The FFmpeg&#x2F;Libav situation (2012)](http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
 * [2023-04-15, 21:12:32](https://news.ycombinator.com/item?id=35584563) - [SUVs more dangerous to cyclists than other cars, study suggests](https://road.cc/content/news/suvs-more-dangerous-cyclists-than-other-cars-300605)
