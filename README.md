@@ -2,6 +2,7 @@
 
 * [2023-04-15, 01:47:27](https://news.ycombinator.com/item?id=35576918) - [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
 * [2023-04-15, 01:28:34](https://news.ycombinator.com/item?id=35576823) - [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
+* [2023-04-15, 00:27:03](https://news.ycombinator.com/item?id=35576473) - [Solar Panels That Clean Themselves](https://www.eetimes.com/innovative-approaches-tackle-self-cleaning-solar-panels/)
 * [2023-04-14, 21:54:28](https://news.ycombinator.com/item?id=35575298) - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
 * [2023-04-14, 21:46:47](https://news.ycombinator.com/item?id=35575213) - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
 * [2023-04-14, 20:38:13](https://news.ycombinator.com/item?id=35574416) - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
@@ -29,7 +30,6 @@
 * [2023-04-13, 05:52:42](https://news.ycombinator.com/item?id=35551549) - [The Odd Knight of the Cinnamon Shops](https://www.tabletmag.com/sections/arts-letters/articles/odd-knight-cinnamon-shops-bruno-schulz)
 * [2023-04-13, 04:51:07](https://news.ycombinator.com/item?id=35551082) - [Bangladesh’s riverine villages are benefiting from clever design](https://www.economist.com/culture/2023/04/12/bangladeshs-riverine-villages-are-benefiting-from-clever-design)
 * [2023-04-13, 01:11:16](https://news.ycombinator.com/item?id=35549517) - [Running SunOS 4 in QEMU (Sparc)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
-* [2023-04-12, 13:31:03](https://news.ycombinator.com/item?id=35539348) - [How to play mumble-the-peg, mumchance, and hurling to the country](https://www.laphamsquarterly.org/roundtable/rules-games-tudor-england)
 
 ## [Archives](archives/index.md)
 
