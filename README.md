@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-15, 21:37:43](https://news.ycombinator.com/item?id=35584792) - [Leak to us or we&#x27;ll dox you](https://twitter.com/ggreenwald/status/1647258233218760705)
 * [2023-04-15, 21:12:32](https://news.ycombinator.com/item?id=35584563) - [SUVs more dangerous to cyclists than other cars, study suggests](https://road.cc/content/news/suvs-more-dangerous-cyclists-than-other-cars-300605)
 * [2023-04-15, 20:32:57](https://news.ycombinator.com/item?id=35584272) - [Less Than 7 Percent of US Active Equity Funds Have Beat the Market Past Decade](https://www.ft.com/content/c331b279-00e5-4e7d-954f-468f4ee44c31)
 * [2023-04-15, 20:23:44](https://news.ycombinator.com/item?id=35584191) - [HDD Sales Crater, Drop 35% Year-over-Year](https://www.tomshardware.com/news/sales-of-hdds-drop-35-percent-year-over-year)
@@ -24,7 +25,6 @@
 * [2023-04-15, 10:36:52](https://news.ycombinator.com/item?id=35579334) - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 * [2023-04-15, 10:29:48](https://news.ycombinator.com/item?id=35579290) - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
 * [2023-04-15, 09:41:35](https://news.ycombinator.com/item?id=35579061) - [The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s](https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html)
-* [2023-04-15, 08:11:42](https://news.ycombinator.com/item?id=35578668) - [Apollo 13 in Real Time](https://apolloinrealtime.org/13/)
 * [2023-04-14, 05:03:10](https://news.ycombinator.com/item?id=35565701) - [A Portrait of Leonard Cohen as a Young Artist](https://www.thenation.com/article/culture/leonard-cohen-ballet-lepers/)
 * [2023-04-13, 08:34:39](https://news.ycombinator.com/item?id=35552605) - [Introduction to Rdist (2012)](http://www.benedikt-stockebrand.de/rdist-intro_en.html)
 * [2023-04-12, 11:55:09](https://news.ycombinator.com/item?id=35538223) - [OpenCore Legacy Patcher – Use new macOS versions on old hardware](https://dortania.github.io/OpenCore-Legacy-Patcher/)
