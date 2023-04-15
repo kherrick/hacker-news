@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 09:41:35](https://news.ycombinator.com/item?id=35579061) - [The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s](https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html)
 * [2023-04-15, 07:00:51](https://news.ycombinator.com/item?id=35578305) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35578305)
 * [2023-04-15, 06:44:26](https://news.ycombinator.com/item?id=35578226) - [Twitter lacks many features to be a true Mastodon replacement (2022)](https://aus.social/@ajsadauskas/109334791235861940)
 * [2023-04-15, 05:35:08](https://news.ycombinator.com/item?id=35577895) - [Valve Restricts Accounts of 2500 Users Who Marked a Negative Game Review Useful](https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful)
