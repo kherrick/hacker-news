@@ -8,6 +8,7 @@
 * [2023-04-15, 15:43:28](https://news.ycombinator.com/item?id=35581654) - [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
 * [2023-04-15, 15:39:56](https://news.ycombinator.com/item?id=35581615) - [Stanford Medicine study: tiny DNA circles are key drivers of cancer](https://med.stanford.edu/news/all-news/2023/04/ecDNA-cancer.html?sf176823295=1)
 * [2023-04-15, 15:36:13](https://news.ycombinator.com/item?id=35581579) - [The military loved Discord for Gen Z recruiting. Then the leaks began](https://www.washingtonpost.com/technology/2023/04/15/discord-military-recruitment-pentagon-document-leaks/)
+* [2023-04-15, 15:32:56](https://news.ycombinator.com/item?id=35581532) - [Remote Code Execution Vulnerability in Google They Are Not Willing to Fix](https://giraffesecurity.dev/posts/google-remote-code-execution/)
 * [2023-04-15, 15:23:59](https://news.ycombinator.com/item?id=35581443) - [BabyAGI: An Autonomous and Self-Improving Agent](https://github.com/oliveirabruno01/babyagi-asi)
 * [2023-04-15, 15:16:35](https://news.ycombinator.com/item?id=35581375) - [New macOS malware steals info, including a user&#x27;s entire Keychain database](https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-of-sensitive-information-including-a-users-entire-keychain-database)
 * [2023-04-15, 15:02:57](https://news.ycombinator.com/item?id=35581232) - [US pay transparency laws result in worker discontent](https://www.irishtimes.com/business/work/2023/03/31/us-pay-transparency-laws-result-in-worker-discontent/)
