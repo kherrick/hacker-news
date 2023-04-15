@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-15, 17:06:21](https://news.ycombinator.com/item?id=35582441) - [Artist refuses prize after his AI image wins at top photo contest](https://petapixel.com/2023/04/14/artist-refuses-prize-after-his-ai-image-wins-at-top-photo-contest/)
+* [2023-04-15, 16:57:22](https://news.ycombinator.com/item?id=35582350) - [Long Covid Appears to Have Led to a Surge of Disabled in the Workplace (2022)](https://libertystreeteconomics.newyorkfed.org/2022/10/long-covid-appears-to-have-led-to-a-surge-of-the-disabled-in-the-workplace/)
 * [2023-04-15, 15:54:07](https://news.ycombinator.com/item?id=35581768) - [Hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
 * [2023-04-15, 15:43:28](https://news.ycombinator.com/item?id=35581654) - [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
 * [2023-04-15, 15:39:56](https://news.ycombinator.com/item?id=35581615) - [Stanford Medicine study: tiny DNA circles are key drivers of cancer](https://med.stanford.edu/news/all-news/2023/04/ecDNA-cancer.html?sf176823295=1)
@@ -9,7 +11,6 @@
 * [2023-04-15, 15:16:35](https://news.ycombinator.com/item?id=35581375) - [New macOS malware steals info, including a user&#x27;s entire Keychain database](https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-of-sensitive-information-including-a-users-entire-keychain-database)
 * [2023-04-15, 14:47:37](https://news.ycombinator.com/item?id=35581082) - [Stop Building Closed Ecosystems](https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/)
 * [2023-04-15, 14:33:43](https://news.ycombinator.com/item?id=35580959) - [Show HN: IPython-GPT, a Jupyter&#x2F;IPython Interface to Chat GPT](https://github.com/santiagobasulto/ipython-gpt)
-* [2023-04-15, 14:19:52](https://news.ycombinator.com/item?id=35580845) - [New Arkansas bill to keep minors off social media exempts most social platforms](https://www.theverge.com/2023/4/13/23681770/arkansas-social-media-bill-restricts-minors-parental-consent)
 * [2023-04-15, 14:10:46](https://news.ycombinator.com/item?id=35580776) - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
 * [2023-04-15, 13:56:58](https://news.ycombinator.com/item?id=35580684) - [A Mechanism for Long Covid](https://mastodon.nl/@vickyvdtogt/110196805189572082)
 * [2023-04-15, 12:11:19](https://news.ycombinator.com/item?id=35579876) - [Hypervisor Development in Rust](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
@@ -29,7 +30,6 @@
 * [2023-04-12, 11:55:09](https://news.ycombinator.com/item?id=35538223) - [OpenCore Legacy Patcher – Use new macOS versions on old hardware](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 * [2023-04-12, 10:36:04](https://news.ycombinator.com/item?id=35537537) - [Super Mario Bros. theme part of the 2023 Library of Congress registry](https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2023/)
 * [2023-04-12, 07:01:55](https://news.ycombinator.com/item?id=35535945) - [After All Is Said and Indexed – Unlocking Information in Recorded Speech](https://github.com/marqo-ai/marqo/blob/mainline/examples/SpeechProcessing/article/article.md)
-* [2023-04-11, 11:40:45](https://news.ycombinator.com/item?id=35523662) - [The Electron Is So Round That It’s Ruling Out Potential New Particles](https://www.quantamagazine.org/the-electron-is-so-round-that-its-ruling-out-new-particles-20230410/)
 
 ## [Archives](archives/index.md)
 

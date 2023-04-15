@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 17:06:21](https://news.ycombinator.com/item?id=35582441) - [Artist refuses prize after his AI image wins at top photo contest](https://petapixel.com/2023/04/14/artist-refuses-prize-after-his-ai-image-wins-at-top-photo-contest/)
+* [2023-04-15, 16:57:22](https://news.ycombinator.com/item?id=35582350) - [Long Covid Appears to Have Led to a Surge of Disabled in the Workplace (2022)](https://libertystreeteconomics.newyorkfed.org/2022/10/long-covid-appears-to-have-led-to-a-surge-of-the-disabled-in-the-workplace/)
 * [2023-04-15, 15:54:07](https://news.ycombinator.com/item?id=35581768) - [Hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
 * [2023-04-15, 15:43:28](https://news.ycombinator.com/item?id=35581654) - [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
 * [2023-04-15, 15:39:56](https://news.ycombinator.com/item?id=35581615) - [Stanford Medicine study: tiny DNA circles are key drivers of cancer](https://med.stanford.edu/news/all-news/2023/04/ecDNA-cancer.html?sf176823295=1)
