@@ -100,6 +100,7 @@
 * [2023-04-12, 07:29:23](https://news.ycombinator.com/item?id=35536141) - [Texas Officials Would Rather Close Library Than Stock Books They Don’t Like](https://www.vice.com/en/article/jg58x8/texas-officials-would-rather-close-library-than-stock-books-they-dont-like)
 * [2023-04-12, 07:15:42](https://news.ycombinator.com/item?id=35536042) - [Ask HN: What are some of the best university courses available online for free?](https://news.ycombinator.com/item?id=35536042)
 * [2023-04-12, 06:55:17](https://news.ycombinator.com/item?id=35535906) - [Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/)
+* [2023-04-12, 06:46:06](https://news.ycombinator.com/item?id=35535864) - [How the relentless drive for optimization made baseball impossible to watch](https://www.vox.com/future-perfect/2023/4/1/23664724/baseball-artificial-intelligence-kyle-schwarber-philadelphia-phillies-moneyball-strikeout-homer)
 * [2023-04-12, 05:37:22](https://news.ycombinator.com/item?id=35535430) - [Could the Dodo Come Back from Extinction?](https://www.discoverwildlife.com/animal-facts/could-the-dodo-come-back-from-extinction/)
 * [2023-04-12, 05:33:09](https://news.ycombinator.com/item?id=35535407) - [Wikipedia: List of Citogenesis Incidents](https://en.wikipedia.org/wiki/Wikipedia:List_of_citogenesis_incidents)
 * [2023-04-12, 05:32:30](https://news.ycombinator.com/item?id=35535404) - [Pedagogical Downsides of Haskell](https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell)

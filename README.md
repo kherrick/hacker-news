@@ -24,11 +24,11 @@
 * [2023-04-14, 11:00:31](https://news.ycombinator.com/item?id=35567997) - [DPaint.js: A web-based image editor modeled after Deluxe Paint](https://www.stef.be/dpaint/)
 * [2023-04-14, 10:47:48](https://news.ycombinator.com/item?id=35567904) - [Brandolini&#x27;s Law](https://en.wikipedia.org/wiki/Brandolini%27s_law)
 * [2023-04-14, 07:37:03](https://news.ycombinator.com/item?id=35566602) - [AI Poised to Transform Video Compression Landscape](https://spectrum.ieee.org/ai-video-codecs-waveone)
-* [2023-04-13, 20:54:40](https://news.ycombinator.com/item?id=35561933) - [Chess, unlike war, is a game of perfect information](https://daily.jstor.org/chess-unlike-war-is-a-game-of-perfect-information/)
 * [2023-04-13, 16:19:26](https://news.ycombinator.com/item?id=35557848) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 * [2023-04-13, 01:11:16](https://news.ycombinator.com/item?id=35549517) - [Running SunOS 4 in QEMU (Sparc)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
 * [2023-04-12, 13:48:14](https://news.ycombinator.com/item?id=35539595) - [Aztec monks with 1&#x2F;55 HP no longer die when picking up or dropping a relic](https://old.reddit.com/r/Games/comments/12jbb9d/age_of_empires_ii_de_major_update_81058/)
 * [2023-04-12, 10:36:04](https://news.ycombinator.com/item?id=35537537) - [Super Mario Bros. theme part of the 2023 Library of Congress registry](https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2023/)
+* [2023-04-12, 06:46:06](https://news.ycombinator.com/item?id=35535864) - [How the relentless drive for optimization made baseball impossible to watch](https://www.vox.com/future-perfect/2023/4/1/23664724/baseball-artificial-intelligence-kyle-schwarber-philadelphia-phillies-moneyball-strikeout-homer)
 * [2023-04-11, 12:00:45](https://news.ycombinator.com/item?id=35523894) - [Zillions and Zillions](https://www.etymonline.com/columns/post/zillions-and-zillions)
 
 ## [Archives](archives/index.md)
