@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-15, 11:29:34](https://news.ycombinator.com/item?id=35579635) - [Germany Quits Nuclear Power, Ending a Decades-Long Struggle](https://www.nytimes.com/2023/04/14/world/europe/germany-nuclear-power-plants.html)
 * [2023-04-15, 10:55:58](https://news.ycombinator.com/item?id=35579425) - [Ask HN: Why don&#x27;t smartphones encourage programming like early 80s computers?](https://news.ycombinator.com/item?id=35579425)
 * [2023-04-15, 10:36:52](https://news.ycombinator.com/item?id=35579334) - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 * [2023-04-15, 10:29:48](https://news.ycombinator.com/item?id=35579290) - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
@@ -27,7 +28,6 @@
 * [2023-04-13, 01:11:16](https://news.ycombinator.com/item?id=35549517) - [Running SunOS 4 in QEMU (Sparc)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
 * [2023-04-12, 13:48:14](https://news.ycombinator.com/item?id=35539595) - [Aztec monks with 1&#x2F;55 HP no longer die when picking up or dropping a relic](https://www.reddit.com/r/Games/comments/12jbb9d/age_of_empires_ii_de_major_update_81058/jfy2mqq/)
 * [2023-04-12, 10:36:04](https://news.ycombinator.com/item?id=35537537) - [Super Mario Bros. theme part of the 2023 Library of Congress registry](https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2023/)
-* [2023-04-12, 06:46:06](https://news.ycombinator.com/item?id=35535864) - [How the relentless drive for optimization made baseball impossible to watch](https://www.vox.com/future-perfect/2023/4/1/23664724/baseball-artificial-intelligence-kyle-schwarber-philadelphia-phillies-moneyball-strikeout-homer)
 * [2023-04-11, 12:00:45](https://news.ycombinator.com/item?id=35523894) - [Zillions and Zillions](https://www.etymonline.com/columns/post/zillions-and-zillions)
 * [2023-04-11, 11:40:35](https://news.ycombinator.com/item?id=35523659) - [The Seattle Report on Database Research (2022)](https://cacm.acm.org/magazines/2022/8/262905-the-seattle-report-on-database-research/fulltext)
 

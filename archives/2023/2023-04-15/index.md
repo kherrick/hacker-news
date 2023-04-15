@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 11:29:34](https://news.ycombinator.com/item?id=35579635) - [Germany Quits Nuclear Power, Ending a Decades-Long Struggle](https://www.nytimes.com/2023/04/14/world/europe/germany-nuclear-power-plants.html)
 * [2023-04-15, 10:55:58](https://news.ycombinator.com/item?id=35579425) - [Ask HN: Why don&#x27;t smartphones encourage programming like early 80s computers?](https://news.ycombinator.com/item?id=35579425)
 * [2023-04-15, 10:36:52](https://news.ycombinator.com/item?id=35579334) - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 * [2023-04-15, 10:29:48](https://news.ycombinator.com/item?id=35579290) - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
