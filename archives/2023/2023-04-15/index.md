@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 03:37:19](https://news.ycombinator.com/item?id=35577421) - [Passionate&#x27; teen took his own life after feeling &#x27;helpless&#x27; over climate crisis](https://www.mirror.co.uk/news/uk-news/passionate-teen-took-life-after-29716980)
+* [2023-04-15, 03:05:51](https://news.ycombinator.com/item?id=35577285) - [Surviving Burnout](https://lifeofaudrey.com/essays/surviving_burnout.html)
 * [2023-04-15, 01:59:59](https://news.ycombinator.com/item?id=35576973) - [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
 * [2023-04-15, 01:47:27](https://news.ycombinator.com/item?id=35576918) - [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
 * [2023-04-15, 01:30:18](https://news.ycombinator.com/item?id=35576828) - [Please fix your spinner](https://pleasefixyourspinner.com)
