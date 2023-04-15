@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-15, 12:12:55](https://news.ycombinator.com/item?id=35579891) - [Meta faces ‘morale crisis’ as top execs work from other countries during layoffs](https://nypost.com/2023/04/13/meta-faces-morale-crisis-as-top-execs-work-from-other-countries-during-layoffs-report/)
 * [2023-04-15, 12:11:19](https://news.ycombinator.com/item?id=35579876) - [Hypervisor Development in Rust](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
 * [2023-04-15, 10:36:52](https://news.ycombinator.com/item?id=35579334) - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 * [2023-04-15, 10:29:48](https://news.ycombinator.com/item?id=35579290) - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
@@ -16,6 +15,7 @@
 * [2023-04-15, 01:47:27](https://news.ycombinator.com/item?id=35576918) - [What are transformer models and how do they work?](https://txt.cohere.ai/what-are-transformer-models/)
 * [2023-04-15, 01:28:34](https://news.ycombinator.com/item?id=35576823) - [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
 * [2023-04-14, 22:35:52](https://news.ycombinator.com/item?id=35575727) - [George Eliot’s Marriage Plot](https://www.newstatesman.com/culture/books/2023/03/george-eliot-biography-marriage-plot)
+* [2023-04-14, 20:17:36](https://news.ycombinator.com/item?id=35574177) - [ESA’s Juice lifts off on quest to discover secrets of Jupiter’s icy moons](https://www.esa.int/Science_Exploration/Space_Science/Juice/ESA_s_Juice_lifts_off_on_quest_to_discover_secrets_of_Jupiter_s_icy_moons)
 * [2023-04-14, 20:13:02](https://news.ycombinator.com/item?id=35574095) - [This website is solar powered and running on a Raspberry Pi-like computer](https://solar.leo32345.com/)
 * [2023-04-14, 19:27:57](https://news.ycombinator.com/item?id=35573624) - [Monolith: The Recommendation System Behind TikTok](https://gantry.io/blog/papers-to-know-20230110/)
 * [2023-04-14, 18:58:49](https://news.ycombinator.com/item?id=35573345) - [GM’s decision to ditch Apple CarPlay, Android Auto sparks backlash](https://www.freep.com/story/money/cars/general-motors/2023/04/14/gm-apple-carplay-android-auto-ford/70100598007/)
