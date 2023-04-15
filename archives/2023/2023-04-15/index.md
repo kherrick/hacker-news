@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
 * [2023-04-15, 21:37:43](https://news.ycombinator.com/item?id=35584792) - [Leak to us or we&#x27;ll dox you](https://twitter.com/ggreenwald/status/1647258233218760705)
+* [2023-04-15, 21:21:53](https://news.ycombinator.com/item?id=35584650) - [The FFmpeg&#x2F;Libav situation (2012)](http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
 * [2023-04-15, 21:12:32](https://news.ycombinator.com/item?id=35584563) - [SUVs more dangerous to cyclists than other cars, study suggests](https://road.cc/content/news/suvs-more-dangerous-cyclists-than-other-cars-300605)
 * [2023-04-15, 21:08:11](https://news.ycombinator.com/item?id=35584533) - [Easily Accessing All Your Stuff with a Zero-Trust Mesh VPN](https://changelog.complete.org/archives/10478-easily-accessing-all-your-stuff-with-a-zero-trust-mesh-vpn)
 * [2023-04-15, 20:32:57](https://news.ycombinator.com/item?id=35584272) - [Less Than 7 Percent of US Active Equity Funds Have Beat the Market Past Decade](https://www.ft.com/content/c331b279-00e5-4e7d-954f-468f4ee44c31)
@@ -65,6 +66,7 @@
 * [2023-04-15, 04:46:21](https://news.ycombinator.com/item?id=35577675) - [Cash App founder stabbed after allegedly drinking with suspect&#x27;s sister](https://www.washingtonpost.com/technology/2023/04/14/bob-lee-tech-ceo-stabbing/)
 * [2023-04-15, 04:36:34](https://news.ycombinator.com/item?id=35577636) - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 * [2023-04-15, 04:33:06](https://news.ycombinator.com/item?id=35577619) - [Shadow Facebook pages spending crores on ads to target Oppn are connected to BJP](https://www.altnews.in/exclusive-network-of-pseudo-entitles-running-political-ads-on-facebook-favoring-bjp-and-against-non-bjp-parties/)
+* [2023-04-15, 03:50:51](https://news.ycombinator.com/item?id=35577466) - [Roland Griffiths&#x27; research ushered in the psychedelic Renaissance](https://www.chronicle.com/article/roland-griffiths-magical-profession)
 * [2023-04-15, 03:37:19](https://news.ycombinator.com/item?id=35577421) - [Passionate&#x27; teen took his own life after feeling &#x27;helpless&#x27; over climate crisis](https://www.mirror.co.uk/news/uk-news/passionate-teen-took-life-after-29716980)
 * [2023-04-15, 03:28:47](https://news.ycombinator.com/item?id=35577388) - [The Limits of Forgiveness](https://thepointmag.com/examined-life/the-limits-of-forgiveness/)
 * [2023-04-15, 03:05:51](https://news.ycombinator.com/item?id=35577285) - [Surviving Burnout](https://lifeofaudrey.com/essays/surviving_burnout.html)
