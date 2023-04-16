@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-16, 23:17:13](https://news.ycombinator.com/item?id=35595071) - [Constraint Programming (2020)](https://mareknarozniak.com/2020/06/22/constraint-programming/)
 * [2023-04-16, 19:45:32](https://news.ycombinator.com/item?id=35593617) - [Mark Twain&#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
 * [2023-04-16, 19:26:12](https://news.ycombinator.com/item?id=35593424) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
 * [2023-04-16, 18:36:47](https://news.ycombinator.com/item?id=35592931) - [Smokey’s new hot vapourizing engine creates heat in Detroit (1983)](http://rexresearch.com/yunick/yunick.htm)
@@ -10,7 +11,6 @@
 * [2023-04-16, 18:06:49](https://news.ycombinator.com/item?id=35592607) - [AT&amp;T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
 * [2023-04-16, 17:51:03](https://news.ycombinator.com/item?id=35592446) - [Unwinding the Stack the Hard Way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
 * [2023-04-16, 17:50:35](https://news.ycombinator.com/item?id=35592439) - [Space Invaders creator reveals game’s origin story](https://www.wired.com/story/space-invaders-45-years-tomohiro-nishikado/)
-* [2023-04-16, 16:34:04](https://news.ycombinator.com/item?id=35591529) - [Coq typeclass resolution is Turing-complete](https://thaliaarchi.github.io/coq-turing-typeclass/)
 * [2023-04-16, 16:27:04](https://news.ycombinator.com/item?id=35591460) - [Korean as a Concatenative, Stack-Oriented Language (2017)](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
 * [2023-04-16, 16:15:18](https://news.ycombinator.com/item?id=35591338) - [Lessons from America’s astonishing economic record](https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record)
 * [2023-04-16, 15:45:39](https://news.ycombinator.com/item?id=35591026) - [Conway’s Law](https://martinfowler.com/bliki/ConwaysLaw.html)
