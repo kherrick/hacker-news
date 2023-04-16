@@ -28,8 +28,8 @@
 * [2023-04-15, 21:16:55](https://news.ycombinator.com/item?id=35584606) - [How Close Are We to the Holy Grail of Room-Temperature Superconductors?](https://www.forbes.com/sites/startswithabang/2021/07/07/how-close-are-we-to-the-holy-grail-of-room-temperature-superconductors/)
 * [2023-04-15, 18:53:54](https://news.ycombinator.com/item?id=35583465) - [Investigating and preventing scientific misconduct with Benford’s law](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-022-00126-w)
 * [2023-04-15, 18:28:23](https://news.ycombinator.com/item?id=35583228) - [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
-* [2023-04-15, 17:57:37](https://news.ycombinator.com/item?id=35582910) - [Chocolate: Open-Source Media Manager](https://github.com/ChocolateApp/Chocolate)
 * [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why does a plastic-wrapped turkey sandwich cost $15 at the NYC airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
+* [2023-04-12, 06:38:55](https://news.ycombinator.com/item?id=35535821) - [Scissors Congruence: An interactive demo of the Wallace–Bolyai–Gerwien theorem](http://dmsm.github.io/scissors-congruence/)
 
 ## [Archives](archives/index.md)
 
