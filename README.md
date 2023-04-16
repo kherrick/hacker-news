@@ -20,6 +20,7 @@
 * [2023-04-15, 20:39:20](https://news.ycombinator.com/item?id=35584317) - [33TB of text data for a 1T-parameter model](https://lifearchitect.ai/chinchilla/)
 * [2023-04-15, 20:22:54](https://news.ycombinator.com/item?id=35584187) - [Algebraic graph calculus (2021)](http://gabarro.org/ccn/algebraic_graph_calculus.html)
 * [2023-04-15, 19:22:18](https://news.ycombinator.com/item?id=35583743) - [Microsoft execs on Apple&#x27;s music store (2003)](https://twitter.com/TechEmails/status/1647317806697050112)
+* [2023-04-15, 18:53:54](https://news.ycombinator.com/item?id=35583465) - [Investigating and preventing scientific misconduct with Benford’s law](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-022-00126-w)
 * [2023-04-15, 18:47:59](https://news.ycombinator.com/item?id=35583412) - [DOJ charges 10 with fraud in global air freight kickback scheme](https://www.aircargonews.net/airlines/freighter-operator/us-doj-charges-10-with-defrauding-polar-air-cargo-worldwide/)
 * [2023-04-15, 18:42:09](https://news.ycombinator.com/item?id=35583349) - [Web LLM – WebGPU Powered Inference of Large Language Models](https://github.com/mlc-ai/web-llm)
 * [2023-04-15, 18:28:23](https://news.ycombinator.com/item?id=35583228) - [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
@@ -29,7 +30,6 @@
 * [2023-04-15, 16:27:35](https://news.ycombinator.com/item?id=35582079) - [Exercism – learn programming languages for free](https://exercism.org/)
 * [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why does a plastic-wrapped turkey sandwich cost $15 at the NYC airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
 * [2023-04-14, 05:03:10](https://news.ycombinator.com/item?id=35565701) - [A Portrait of Leonard Cohen as a Young Artist](https://www.thenation.com/article/culture/leonard-cohen-ballet-lepers/)
-* [2023-04-12, 06:38:55](https://news.ycombinator.com/item?id=35535821) - [Scissors Congruence: An interactive demo of the Wallace–Bolyai–Gerwien theorem](http://dmsm.github.io/scissors-congruence/)
 
 ## [Archives](archives/index.md)
 
