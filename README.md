@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-16, 17:03:37](https://news.ycombinator.com/item?id=35591827) - [Bavaria mulls reopening nuclear plant under state control](https://www.dw.com/en/germany-bavaria-mulls-reopening-nuclear-plant-under-state-control/a-65336730)
 * [2023-04-16, 16:59:41](https://news.ycombinator.com/item?id=35591781) - [Ask HN: Why aren’t planes boarded back-to-front?](https://news.ycombinator.com/item?id=35591781)
 * [2023-04-16, 16:27:04](https://news.ycombinator.com/item?id=35591460) - [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
 * [2023-04-16, 16:15:18](https://news.ycombinator.com/item?id=35591338) - [The lessons from America’s astonishing economic record](https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record)
@@ -12,7 +13,6 @@
 * [2023-04-16, 13:56:27](https://news.ycombinator.com/item?id=35590062) - [WikiIndex, the wiki index of wikis, wiki people, wiki software, wiki farms, etc.](https://wikiindex.org/Welcome)
 * [2023-04-16, 12:48:43](https://news.ycombinator.com/item?id=35589579) - [A Language Design Analysis of HolyC (2019)](https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc)
 * [2023-04-16, 12:46:05](https://news.ycombinator.com/item?id=35589553) - [SafetyWing (YC W18) Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
-* [2023-04-16, 12:34:02](https://news.ycombinator.com/item?id=35589464) - [Who owns history? How remarkable historical footage is hidden and monetised](https://aeon.co/videos/who-owns-history-how-remarkable-historical-footage-is-hidden-and-monetised)
 * [2023-04-16, 11:50:21](https://news.ycombinator.com/item?id=35589179) - [FSF Slams Google over Dropping JPEG-XL in Chrome](https://www.phoronix.com/news/FSF-Slams-Google-JPEG-XL)
 * [2023-04-16, 11:49:34](https://news.ycombinator.com/item?id=35589172) - [Pico3D: Open World 3D Game Engine for the PicoSystem (RP2040 Microcontroller)](https://github.com/bernhardstrobl/Pico3D)
 * [2023-04-16, 11:37:58](https://news.ycombinator.com/item?id=35589124) - [Future Blues – Emily&#x27;s Cowboy Bebop Page (1999)](https://futureblues.com/)
