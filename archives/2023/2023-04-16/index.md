@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 16:27:04](https://news.ycombinator.com/item?id=35591460) - [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
 * [2023-04-16, 16:15:18](https://news.ycombinator.com/item?id=35591338) - [The lessons from America’s astonishing economic record](https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record)
 * [2023-04-16, 16:14:25](https://news.ycombinator.com/item?id=35591327) - [SpaceX&#x27;s First Starship Launch Tomorrow](https://www.space.com/spacex-starship-rocket-super-heavy-launch-what-time)
 * [2023-04-16, 15:22:03](https://news.ycombinator.com/item?id=35590734) - [De-Stressing Booking.com](https://www.alexcharlton.co/projects/booking-com-de-stresser)
@@ -32,6 +33,7 @@
 * [2023-04-16, 11:03:55](https://news.ycombinator.com/item?id=35588945) - [‘Angry Birds’ company is about to be sold for $1B to Sega](https://www.theverge.com/2023/4/14/23683633/angry-birds-rovio-sega-sell-deal)
 * [2023-04-16, 10:53:57](https://news.ycombinator.com/item?id=35588905) - [The Military-Industrial Stock Buyback Complex](https://mattstoller.substack.com/p/the-military-industrial-stock-buyback)
 * [2023-04-16, 10:44:04](https://news.ycombinator.com/item?id=35588849) - [Show HN: TypeAPI – An OpenAPI alternative optimized for code generation](https://typeapi.org/)
+* [2023-04-16, 10:41:18](https://news.ycombinator.com/item?id=35588834) - [Ivrea, industrial city of the 20th century](https://artsandculture.google.com/story/ivrea-industrial-city-of-the-20th-century/CgXxgt6QPoEhLQ?zx=ohx4o1vakc5p)
 * [2023-04-16, 10:31:21](https://news.ycombinator.com/item?id=35588784) - [Texas Could Push Tech Platforms to Censor Posts About Abortion](https://www.wired.com/story/texas-could-push-tech-platforms-to-censor-posts-about-abortion/)
 * [2023-04-16, 09:31:51](https://news.ycombinator.com/item?id=35588513) - [Functional Programming with TypeScript&#x27;s Type System](https://desislav.dev/blog/tsfp/)
 * [2023-04-16, 08:50:25](https://news.ycombinator.com/item?id=35588329) - [Culture Is Stuck](https://lindynewsletter.beehiiv.com/p/culture-stuck)
