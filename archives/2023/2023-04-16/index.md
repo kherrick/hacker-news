@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 14:18:58](https://news.ycombinator.com/item?id=35590232) - [Is the US education system in a state of collapse, and what caused it?](https://old.reddit.com/r/Teachers/comments/1169v5z/is_the_us_education_system_in_a_state_of_collapse/)
 * [2023-04-16, 13:56:27](https://news.ycombinator.com/item?id=35590062) - [WikiIndex, the wiki index of wikis, wiki people, wiki software, wiki farms, etc.](https://wikiindex.org/Welcome)
 * [2023-04-16, 13:50:03](https://news.ycombinator.com/item?id=35590017) - [CA Electric Bills on Income](https://ktla.com/news/local-news/california-power-companies-roll-out-fixed-rate-bill-proposal/)
 * [2023-04-16, 13:24:41](https://news.ycombinator.com/item?id=35589846) - [Will Turkey’s elections finally spell the end of Recep Tayyip Erdoğan?](https://www.theguardian.com/world/2023/apr/16/will-turkeys-elections-spell-end-of-recep-tayyip-erdogan)
@@ -31,6 +32,7 @@
 * [2023-04-16, 04:09:26](https://news.ycombinator.com/item?id=35587196) - [PostgreSQL Row Level Security](https://imfeld.dev/notes/postgresql_row_level_security)
 * [2023-04-16, 04:07:32](https://news.ycombinator.com/item?id=35587186) - [Tabi: The shoe that became a sock and then a shoe again](https://one-from-nippon.ghost.io/untitled-2/)
 * [2023-04-16, 02:56:45](https://news.ycombinator.com/item?id=35586845) - [Wayback: Self-hosted archiving service integrated with Internet Archive](https://github.com/wabarc/wayback)
+* [2023-04-16, 02:51:07](https://news.ycombinator.com/item?id=35586815) - [R-Core Transformers](https://www.custommag.com/r-core-transformers)
 * [2023-04-16, 02:25:41](https://news.ycombinator.com/item?id=35586683) - [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
 * [2023-04-16, 02:06:59](https://news.ycombinator.com/item?id=35586607) - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
 * [2023-04-16, 01:58:15](https://news.ycombinator.com/item?id=35586560) - [The Palenque Code](http://akusius.github.io/palenque/)
