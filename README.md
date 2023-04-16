@@ -13,7 +13,6 @@
 * [2023-04-16, 10:44:04](https://news.ycombinator.com/item?id=35588849) - [Show HN: TypeAPI – An OpenAPI alternative optimized for code generation](https://typeapi.org/)
 * [2023-04-16, 09:31:51](https://news.ycombinator.com/item?id=35588513) - [Functional Programming with TypeScript&#x27;s Type System](https://desislav.dev/blog/tsfp/)
 * [2023-04-16, 08:21:58](https://news.ycombinator.com/item?id=35588203) - [Nibbles of Rust – Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
-* [2023-04-16, 07:16:07](https://news.ycombinator.com/item?id=35587963) - [Lazard’s Levelized Cost of Energy Analysis: Version 16.0 [pdf]](https://www.lazard.com/media/nltb551p/lazards-lcoeplus-april-2023.pdf)
 * [2023-04-16, 05:26:56](https://news.ycombinator.com/item?id=35587509) - [Nvenc vs. QSV: Who Has the Best Hardware AV1 Encoder?](https://giannirosato.com/blog/post/nvenc-v-qsv/)
 * [2023-04-16, 04:07:32](https://news.ycombinator.com/item?id=35587186) - [Tabi: The shoe that became a sock and then a shoe again](https://one-from-nippon.ghost.io/untitled-2/)
 * [2023-04-16, 02:56:45](https://news.ycombinator.com/item?id=35586845) - [Wayback: Self-hosted archiving service integrated with Internet Archive](https://github.com/wabarc/wayback)
@@ -25,11 +24,12 @@
 * [2023-04-16, 00:22:52](https://news.ycombinator.com/item?id=35586008) - [Mouse scroll wheel acceleration, implemented in user space](https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace)
 * [2023-04-15, 22:13:04](https://news.ycombinator.com/item?id=35585117) - [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
 * [2023-04-15, 21:31:00](https://news.ycombinator.com/item?id=35584736) - [The Soul of an Old Machine](https://benjamincongdon.me/blog/2023/04/15/The-Soul-of-an-Old-Machine/)
-* [2023-04-15, 21:16:55](https://news.ycombinator.com/item?id=35584606) - [How Close Are We to the Holy Grail of Room-Temperature Superconductors?](https://www.forbes.com/sites/startswithabang/2021/07/07/how-close-are-we-to-the-holy-grail-of-room-temperature-superconductors/)
 * [2023-04-15, 21:05:38](https://news.ycombinator.com/item?id=35584515) - [In a Deadly Mountain Pass, a Tiny Hotel Is a Lifeline](https://www.nytimes.com/2023/04/08/world/asia/afghanistan-generosity-sabzak-pass.html)
 * [2023-04-15, 18:53:54](https://news.ycombinator.com/item?id=35583465) - [Investigating and preventing scientific misconduct with Benford’s law](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-022-00126-w)
 * [2023-04-15, 18:28:23](https://news.ycombinator.com/item?id=35583228) - [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
+* [2023-04-15, 17:57:37](https://news.ycombinator.com/item?id=35582910) - [Chocolate: Open-Source Media Manager](https://github.com/ChocolateApp/Chocolate)
 * [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why does a plastic-wrapped turkey sandwich cost $15 at the NYC airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
+* [2023-04-12, 06:38:55](https://news.ycombinator.com/item?id=35535821) - [Scissors Congruence: An interactive demo of the Wallace–Bolyai–Gerwien theorem](http://dmsm.github.io/scissors-congruence/)
 
 ## [Archives](archives/index.md)
 
