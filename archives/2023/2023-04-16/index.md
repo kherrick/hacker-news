@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
 * [2023-04-16, 12:46:05](https://news.ycombinator.com/item?id=35589553) - [SafetyWing (YC W18) Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
+* [2023-04-16, 11:50:21](https://news.ycombinator.com/item?id=35589179) - [FSF Slams Google over Dropping JPEG-XL in Chrome](https://www.phoronix.com/news/FSF-Slams-Google-JPEG-XL)
 * [2023-04-16, 11:49:59](https://news.ycombinator.com/item?id=35589176) - [Summary: Don&#x27;t make me think(revisited) by Steve Krug](https://www.chestergrant.com/summary-dont-make-me-think-revisited-steve-krug)
 * [2023-04-16, 11:49:34](https://news.ycombinator.com/item?id=35589172) - [Pico3D: Open World 3D Game Engine for the PicoSystem (RP2040 Microcontroller)](https://github.com/bernhardstrobl/Pico3D)
 * [2023-04-16, 11:37:58](https://news.ycombinator.com/item?id=35589124) - [Future Blues – Emily&#x27;s Cowboy Bebop Page (1999)](https://futureblues.com/)
@@ -13,6 +14,7 @@
 * [2023-04-16, 11:13:39](https://news.ycombinator.com/item?id=35588997) - [Algorithmic System for Turning the Elderly into High-Nutrient Slurry](https://arxiv.org/abs/1908.06166)
 * [2023-04-16, 11:12:16](https://news.ycombinator.com/item?id=35588985) - [The fastest math typesetting library for the web](https://katex.org/)
 * [2023-04-16, 10:53:57](https://news.ycombinator.com/item?id=35588905) - [The Military-Industrial Stock Buyback Complex](https://mattstoller.substack.com/p/the-military-industrial-stock-buyback)
+* [2023-04-16, 10:44:04](https://news.ycombinator.com/item?id=35588849) - [Show HN: TypeAPI – An OpenAPI alternative optimized for code generation](https://typeapi.org/)
 * [2023-04-16, 10:31:21](https://news.ycombinator.com/item?id=35588784) - [Texas Could Push Tech Platforms to Censor Posts About Abortion](https://www.wired.com/story/texas-could-push-tech-platforms-to-censor-posts-about-abortion/)
 * [2023-04-16, 09:31:51](https://news.ycombinator.com/item?id=35588513) - [Functional Programming with TypeScript&#x27;s Type System](https://desislav.dev/blog/tsfp/)
 * [2023-04-16, 08:50:25](https://news.ycombinator.com/item?id=35588329) - [Culture Is Stuck](https://lindynewsletter.beehiiv.com/p/culture-stuck)
