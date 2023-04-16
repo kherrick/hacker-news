@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-04-16, 18:17:41",
+      "https://news.ycombinator.com/item?id=35592718"
+    ],
+    [
+      "We’ve All Been Way Too Accepting of Inflation",
+      "https://www.bloomberg.com/opinion/articles/2023-04-11/inflation-consumers-are-too-passive-about-high-prices-for-cars-flights-hotels"
+    ]
+  ],
+  [
+    [
+      "2023-04-16, 18:06:49",
+      "https://news.ycombinator.com/item?id=35592607"
+    ],
+    [
+      "AT&amp;T Wireless traffic shaping apparently making some websites unusable",
+      "https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/"
+    ]
+  ],
+  [
+    [
+      "2023-04-16, 17:51:03",
+      "https://news.ycombinator.com/item?id=35592446"
+    ],
+    [
+      "Unwinding the Stack the Hard Way",
+      "https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way"
+    ]
+  ],
+  [
+    [
       "2023-04-16, 17:14:47",
       "https://news.ycombinator.com/item?id=35592005"
     ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2023-04-16, 10:44:04",
-      "https://news.ycombinator.com/item?id=35588849"
-    ],
-    [
-      "Show HN: TypeAPI – An OpenAPI alternative optimized for code generation",
-      "https://typeapi.org/"
-    ]
-  ],
-  [
-    [
       "2023-04-16, 10:41:18",
       "https://news.ycombinator.com/item?id=35588834"
     ],
     [
       "Ivrea, industrial city of the 20th century",
       "https://artsandculture.google.com/story/ivrea-industrial-city-of-the-20th-century/CgXxgt6QPoEhLQ?zx=ohx4o1vakc5p"
-    ]
-  ],
-  [
-    [
-      "2023-04-16, 09:31:51",
-      "https://news.ycombinator.com/item?id=35588513"
-    ],
-    [
-      "Functional Programming with TypeScript&#x27;s Type System",
-      "https://desislav.dev/blog/tsfp/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Tabi: The shoe that became a sock and then a shoe again",
       "https://one-from-nippon.ghost.io/untitled-2/"
-    ]
-  ],
-  [
-    [
-      "2023-04-16, 02:56:45",
-      "https://news.ycombinator.com/item?id=35586845"
-    ],
-    [
-      "Wayback: Self-hosted archiving service integrated with Internet Archive",
-      "https://github.com/wabarc/wayback"
     ]
   ],
   [
