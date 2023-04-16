@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 19:34:35](https://news.ycombinator.com/item?id=35593507) - [Best predictor of professional success isn’t cognitive performance](https://english.elpais.com/science-tech/2023-04-13/daniel-sanabria-psychologist-the-best-predictor-of-professional-success-isnt-cognitive-performance-its-whether-your-parents-have-money.html)
 * [2023-04-16, 19:26:12](https://news.ycombinator.com/item?id=35593424) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
 * [2023-04-16, 19:06:10](https://news.ycombinator.com/item?id=35593256) - [Interlaken: The ideal high-speed chip-to-chip interface](https://www.design-reuse.com/articles/52722/interlaken-the-ideal-high-speed-chip-to-chip-interface.html)
 * [2023-04-16, 18:36:47](https://news.ycombinator.com/item?id=35592931) - [Smokey’s New Hot Vapourizing Engine Creates Heat in Detroit (1983)](http://rexresearch.com/yunick/yunick.htm)
