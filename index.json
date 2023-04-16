@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-16, 02:06:59",
+      "https://news.ycombinator.com/item?id=35586607"
+    ],
+    [
+      "Efficiency trades off against resiliency",
+      "https://blog.nelhage.com/post/efficiency-vs-resiliency/"
+    ]
+  ],
+  [
+    [
       "2023-04-16, 00:22:52",
       "https://news.ycombinator.com/item?id=35586008"
     ],
@@ -27,16 +37,6 @@
     [
       "The Red Hat model only worked for Red Hat",
       "https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/"
-    ]
-  ],
-  [
-    [
-      "2023-04-15, 21:49:39",
-      "https://news.ycombinator.com/item?id=35584898"
-    ],
-    [
-      "Uber, Amazon use AI to pay people different wages for same work: Study",
-      "https://www.businessinsider.com/uber-amazon-pay-using-ai-different-wages-same-work-discrimination-2023-4"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-04-15, 15:39:56",
+      "https://news.ycombinator.com/item?id=35581615"
+    ],
+    [
+      "Tiny DNA circles are key drivers of cancer, study finds",
+      "https://med.stanford.edu/news/all-news/2023/04/ecDNA-cancer.html?sf176823295=1"
+    ]
+  ],
+  [
+    [
       "2023-04-15, 14:33:43",
       "https://news.ycombinator.com/item?id=35580959"
     ],
@@ -287,16 +297,6 @@
     [
       "The different uses of Python type hints",
       "https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 11:40:45",
-      "https://news.ycombinator.com/item?id=35523662"
-    ],
-    [
-      "The electron is so round that it’s ruling out potential new particles",
-      "https://www.quantamagazine.org/the-electron-is-so-round-that-its-ruling-out-new-particles-20230410/"
     ]
   ]
 ]
