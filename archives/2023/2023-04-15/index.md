@@ -70,6 +70,7 @@
 * [2023-04-15, 10:04:27](https://news.ycombinator.com/item?id=35579154) - [How many floating-point numbers are in the interval [0,1]? (2017)](https://lemire.me/blog/2017/02/28/how-many-floating-point-numbers-are-in-the-interval-01/)
 * [2023-04-15, 09:41:35](https://news.ycombinator.com/item?id=35579061) - [The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s](https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html)
 * [2023-04-15, 08:11:42](https://news.ycombinator.com/item?id=35578668) - [Apollo 13 in Real Time](https://apolloinrealtime.org/13/)
+* [2023-04-15, 07:28:44](https://news.ycombinator.com/item?id=35578454) - [Appleseed – open-source, physically-based global illumination rendering engine](https://appleseedhq.net/)
 * [2023-04-15, 07:00:51](https://news.ycombinator.com/item?id=35578305) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35578305)
 * [2023-04-15, 06:47:34](https://news.ycombinator.com/item?id=35578240) - [Low Code Software Development Is a Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
 * [2023-04-15, 06:44:26](https://news.ycombinator.com/item?id=35578226) - [Twitter lacks many features to be a true Mastodon replacement (2022)](https://aus.social/@ajsadauskas/109334791235861940)
