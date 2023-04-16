@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 12:46:05](https://news.ycombinator.com/item?id=35589553) - [SafetyWing (YC W18) Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
 * [2023-04-16, 11:49:59](https://news.ycombinator.com/item?id=35589176) - [Summary: Don&#x27;t make me think(revisited) by Steve Krug](https://www.chestergrant.com/summary-dont-make-me-think-revisited-steve-krug)
 * [2023-04-16, 11:49:34](https://news.ycombinator.com/item?id=35589172) - [Pico3D: Open World 3D Game Engine for the PicoSystem (RP2040 Microcontroller)](https://github.com/bernhardstrobl/Pico3D)
 * [2023-04-16, 11:37:58](https://news.ycombinator.com/item?id=35589124) - [Future Blues – Emily&#x27;s Cowboy Bebop Page (1999)](https://futureblues.com/)
@@ -25,6 +26,7 @@
 * [2023-04-16, 02:56:45](https://news.ycombinator.com/item?id=35586845) - [Wayback: Self-hosted archiving service integrated with Internet Archive](https://github.com/wabarc/wayback)
 * [2023-04-16, 02:25:41](https://news.ycombinator.com/item?id=35586683) - [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
 * [2023-04-16, 02:06:59](https://news.ycombinator.com/item?id=35586607) - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
+* [2023-04-16, 01:58:15](https://news.ycombinator.com/item?id=35586560) - [The Palenque Code](http://akusius.github.io/palenque/)
 * [2023-04-16, 01:21:33](https://news.ycombinator.com/item?id=35586376) - [The Forme of Cury](https://en.wikipedia.org/wiki/The_Forme_of_Cury)
 * [2023-04-16, 00:54:23](https://news.ycombinator.com/item?id=35586206) - [Four voters will decide $60B in Granby Ranch metro-district debt](https://coloradosun.com/2023/04/14/granby-ranch-metro-district-debt-election/)
 * [2023-04-16, 00:23:45](https://news.ycombinator.com/item?id=35586012) - [Sigstore protects Apt archives: apt-verify and apt-sigstore](https://blog.josefsson.org/2023/04/15/sigstore-protects-apt-archives-apt-verify-apt-sigstore/)
