@@ -2,7 +2,6 @@
 
 * [2023-04-16, 19:45:32](https://news.ycombinator.com/item?id=35593617) - [Mark Twain&#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
 * [2023-04-16, 19:26:12](https://news.ycombinator.com/item?id=35593424) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
-* [2023-04-16, 19:06:10](https://news.ycombinator.com/item?id=35593256) - [Interlaken: The ideal high-speed chip-to-chip interface?](https://www.design-reuse.com/articles/52722/interlaken-the-ideal-high-speed-chip-to-chip-interface.html)
 * [2023-04-16, 18:36:47](https://news.ycombinator.com/item?id=35592931) - [Smokey’s new hot vapourizing engine creates heat in Detroit (1983)](http://rexresearch.com/yunick/yunick.htm)
 * [2023-04-16, 18:36:08](https://news.ycombinator.com/item?id=35592924) - [Lithium battery ripe for disruption, inventor says](https://spectrum.ieee.org/lithium-ion-battery-disruption-ready)
 * [2023-04-16, 18:29:47](https://news.ycombinator.com/item?id=35592847) - [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
@@ -18,6 +17,7 @@
 * [2023-04-16, 15:22:03](https://news.ycombinator.com/item?id=35590734) - [De-Stressing Booking.com](https://www.alexcharlton.co/projects/booking-com-de-stresser)
 * [2023-04-16, 15:17:15](https://news.ycombinator.com/item?id=35590699) - [Plain C API design, the real world Kobayashi Maru test](https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html)
 * [2023-04-16, 14:43:18](https://news.ycombinator.com/item?id=35590429) - [Experiments with plane-filling curves and Fourier transform](https://github.com/dmishin/fft-image-experiments)
+* [2023-04-16, 13:56:27](https://news.ycombinator.com/item?id=35590062) - [WikiIndex](https://wikiindex.org/Welcome)
 * [2023-04-16, 13:39:23](https://news.ycombinator.com/item?id=35589943) - [The Paratethys Sea was the largest lake in Earth’s history](https://bigthink.com/strange-maps/paratethys-sea/)
 * [2023-04-16, 13:12:06](https://news.ycombinator.com/item?id=35589756) - [Understanding large language models: A cross-section of the relevant literature](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 * [2023-04-16, 12:46:05](https://news.ycombinator.com/item?id=35589553) - [SafetyWing (YC W18) Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
