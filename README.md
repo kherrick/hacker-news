@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-16, 04:09:26](https://news.ycombinator.com/item?id=35587196) - [PostgreSQL Row Level Security](https://imfeld.dev/notes/postgresql_row_level_security)
 * [2023-04-16, 02:56:45](https://news.ycombinator.com/item?id=35586845) - [Wayback: Self-hosted archiving service integrated with Internet Archive](https://github.com/wabarc/wayback)
 * [2023-04-16, 02:25:41](https://news.ycombinator.com/item?id=35586683) - [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
 * [2023-04-16, 02:06:59](https://news.ycombinator.com/item?id=35586607) - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
@@ -25,7 +26,6 @@
 * [2023-04-15, 14:33:43](https://news.ycombinator.com/item?id=35580959) - [Show HN: IPython-GPT, a Jupyter&#x2F;IPython Interface to Chat GPT](https://github.com/santiagobasulto/ipython-gpt)
 * [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why does a plastic-wrapped turkey sandwich cost $15 at the NYC airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
 * [2023-04-15, 14:10:46](https://news.ycombinator.com/item?id=35580776) - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
-* [2023-04-15, 10:36:52](https://news.ycombinator.com/item?id=35579334) - [WebGPU Fundamentals](https://webgpufundamentals.org/)
 * [2023-04-15, 03:50:51](https://news.ycombinator.com/item?id=35577466) - [Roland Griffiths’ Magical Profession](https://www.chronicle.com/article/roland-griffiths-magical-profession)
 * [2023-04-14, 16:17:01](https://news.ycombinator.com/item?id=35571236) - [Intel won&#x27;t back down on chip ID feature (1999)](https://www.zdnet.com/article/intel-wont-back-down-on-chip-id-feature/)
 * [2023-04-14, 05:03:10](https://news.ycombinator.com/item?id=35565701) - [A Portrait of Leonard Cohen as a Young Artist](https://www.thenation.com/article/culture/leonard-cohen-ballet-lepers/)
