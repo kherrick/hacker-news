@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 08:21:58](https://news.ycombinator.com/item?id=35588203) - [Nibbles of Rust – Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
 * [2023-04-16, 07:08:24](https://news.ycombinator.com/item?id=35587930) - [Ask HN: Transitioning to a Solutions Engineer &#x2F; Sales Engineer](https://news.ycombinator.com/item?id=35587930)
 * [2023-04-16, 07:07:25](https://news.ycombinator.com/item?id=35587925) - [The ChatGPT vs. Bear Blog spam war](https://herman.bearblog.dev/the-chatgpt-vs-bear-blog-spam-war/)
 * [2023-04-16, 05:26:56](https://news.ycombinator.com/item?id=35587509) - [Nvenc vs. QSV: Who Has the Best Hardware AV1 Encoder?](https://giannirosato.com/blog/post/nvenc-v-qsv/)
