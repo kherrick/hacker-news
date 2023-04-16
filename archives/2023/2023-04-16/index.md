@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 14:43:18](https://news.ycombinator.com/item?id=35590429) - [Experiments with plane-filling curves and Fourier transform](https://github.com/dmishin/fft-image-experiments)
 * [2023-04-16, 14:18:58](https://news.ycombinator.com/item?id=35590232) - [Is the US education system in a state of collapse, and what caused it?](https://old.reddit.com/r/Teachers/comments/1169v5z/is_the_us_education_system_in_a_state_of_collapse/)
 * [2023-04-16, 13:56:27](https://news.ycombinator.com/item?id=35590062) - [WikiIndex, the wiki index of wikis, wiki people, wiki software, wiki farms, etc.](https://wikiindex.org/Welcome)
 * [2023-04-16, 13:50:03](https://news.ycombinator.com/item?id=35590017) - [CA Electric Bills on Income](https://ktla.com/news/local-news/california-power-companies-roll-out-fixed-rate-bill-proposal/)

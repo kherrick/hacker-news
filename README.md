@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-16, 14:18:58](https://news.ycombinator.com/item?id=35590232) - [Is the US education system in a state of collapse, and what caused it?](https://old.reddit.com/r/Teachers/comments/1169v5z/is_the_us_education_system_in_a_state_of_collapse/)
+* [2023-04-16, 14:43:18](https://news.ycombinator.com/item?id=35590429) - [Experiments with plane-filling curves and Fourier transform](https://github.com/dmishin/fft-image-experiments)
 * [2023-04-16, 13:56:27](https://news.ycombinator.com/item?id=35590062) - [WikiIndex, the wiki index of wikis, wiki people, wiki software, wiki farms, etc.](https://wikiindex.org/Welcome)
 * [2023-04-16, 12:46:05](https://news.ycombinator.com/item?id=35589553) - [SafetyWing (YC W18) Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
 * [2023-04-16, 12:34:02](https://news.ycombinator.com/item?id=35589464) - [Who owns history? How remarkable historical footage is hidden and monetised](https://aeon.co/videos/who-owns-history-how-remarkable-historical-footage-is-hidden-and-monetised)
