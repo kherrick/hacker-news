@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-16, 05:26:56](https://news.ycombinator.com/item?id=35587509) - [Nvenc vs. QSV: Who Has the Best Hardware AV1 Encoder?](https://giannirosato.com/blog/post/nvenc-v-qsv/)
 * [2023-04-16, 04:09:26](https://news.ycombinator.com/item?id=35587196) - [PostgreSQL Row Level Security](https://imfeld.dev/notes/postgresql_row_level_security)
 * [2023-04-16, 02:56:45](https://news.ycombinator.com/item?id=35586845) - [Wayback: Self-hosted archiving service integrated with Internet Archive](https://github.com/wabarc/wayback)
 * [2023-04-16, 02:25:41](https://news.ycombinator.com/item?id=35586683) - [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
@@ -18,7 +19,6 @@
 * [2023-04-15, 18:42:09](https://news.ycombinator.com/item?id=35583349) - [Web LLM – WebGPU Powered Inference of Large Language Models](https://github.com/mlc-ai/web-llm)
 * [2023-04-15, 18:28:23](https://news.ycombinator.com/item?id=35583228) - [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
 * [2023-04-15, 17:57:37](https://news.ycombinator.com/item?id=35582910) - [Chocolate: Open-Source Media Manager](https://github.com/ChocolateApp/Chocolate)
-* [2023-04-15, 17:46:25](https://news.ycombinator.com/item?id=35582798) - [MacStealer allows for WiFi client isolation bypasses](https://github.com/vanhoefm/macstealer)
 * [2023-04-15, 17:37:04](https://news.ycombinator.com/item?id=35582698) - [Testing ability of GPT4 and open-source LLMs to detect C++ bugs](https://catid.io/posts/llm_bugs/)
 * [2023-04-15, 17:04:33](https://news.ycombinator.com/item?id=35582417) - [OpenAssistant Conversations – Democratizing Large Language Model Alignment [pdf]](https://www.ykilcher.com/OA_Paper_2023_04_15.pdf)
 * [2023-04-15, 16:27:59](https://news.ycombinator.com/item?id=35582084) - [Generalizations of Fourier analysis (2021)](http://gabarro.org/ccn/gen_fourier.html)
