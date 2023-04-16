@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-16, 13:24:41](https://news.ycombinator.com/item?id=35589846) - [Will Turkey’s elections finally spell the end of Recep Tayyip Erdoğan?](https://www.theguardian.com/world/2023/apr/16/will-turkeys-elections-spell-end-of-recep-tayyip-erdogan)
 * [2023-04-16, 12:46:05](https://news.ycombinator.com/item?id=35589553) - [SafetyWing (YC W18) Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
+* [2023-04-16, 12:34:02](https://news.ycombinator.com/item?id=35589464) - [Who owns history? How remarkable historical footage is hidden and monetised](https://aeon.co/videos/who-owns-history-how-remarkable-historical-footage-is-hidden-and-monetised)
 * [2023-04-16, 11:50:21](https://news.ycombinator.com/item?id=35589179) - [FSF Slams Google over Dropping JPEG-XL in Chrome](https://www.phoronix.com/news/FSF-Slams-Google-JPEG-XL)
 * [2023-04-16, 11:49:59](https://news.ycombinator.com/item?id=35589176) - [Summary: Don&#x27;t make me think(revisited) by Steve Krug](https://www.chestergrant.com/summary-dont-make-me-think-revisited-steve-krug)
 * [2023-04-16, 11:49:34](https://news.ycombinator.com/item?id=35589172) - [Pico3D: Open World 3D Game Engine for the PicoSystem (RP2040 Microcontroller)](https://github.com/bernhardstrobl/Pico3D)
@@ -27,9 +29,7 @@
 * [2023-04-15, 21:05:38](https://news.ycombinator.com/item?id=35584515) - [In a Deadly Mountain Pass, a Tiny Hotel Is a Lifeline](https://www.nytimes.com/2023/04/08/world/asia/afghanistan-generosity-sabzak-pass.html)
 * [2023-04-15, 18:53:54](https://news.ycombinator.com/item?id=35583465) - [Investigating and preventing scientific misconduct with Benford’s law](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-022-00126-w)
 * [2023-04-15, 18:28:23](https://news.ycombinator.com/item?id=35583228) - [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
-* [2023-04-15, 17:57:37](https://news.ycombinator.com/item?id=35582910) - [Chocolate: Open-Source Media Manager](https://github.com/ChocolateApp/Chocolate)
 * [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why does a plastic-wrapped turkey sandwich cost $15 at the NYC airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
-* [2023-04-12, 06:38:55](https://news.ycombinator.com/item?id=35535821) - [Scissors Congruence: An interactive demo of the Wallace–Bolyai–Gerwien theorem](http://dmsm.github.io/scissors-congruence/)
 
 ## [Archives](archives/index.md)
 
