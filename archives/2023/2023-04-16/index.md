@@ -42,6 +42,7 @@
 * [2023-04-16, 13:56:27](https://news.ycombinator.com/item?id=35590062) - [WikiIndex, the wiki index of wikis, wiki people, wiki software, wiki farms, etc.](https://wikiindex.org/Welcome)
 * [2023-04-16, 13:50:03](https://news.ycombinator.com/item?id=35590017) - [CA Electric Bills on Income](https://ktla.com/news/local-news/california-power-companies-roll-out-fixed-rate-bill-proposal/)
 * [2023-04-16, 13:39:23](https://news.ycombinator.com/item?id=35589943) - [The Paratethys Sea was the largest lake in Earth’s history](https://bigthink.com/strange-maps/paratethys-sea/)
+* [2023-04-16, 13:33:52](https://news.ycombinator.com/item?id=35589909) - [The Battle over Techno’s Origins](https://www.newyorker.com/culture/cultural-comment/the-battle-over-technos-origins)
 * [2023-04-16, 13:24:41](https://news.ycombinator.com/item?id=35589846) - [Will Turkey’s elections finally spell the end of Recep Tayyip Erdoğan?](https://www.theguardian.com/world/2023/apr/16/will-turkeys-elections-spell-end-of-recep-tayyip-erdogan)
 * [2023-04-16, 13:12:06](https://news.ycombinator.com/item?id=35589756) - [Understanding large language models: A cross-section of the relevant literature](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 * [2023-04-16, 12:48:43](https://news.ycombinator.com/item?id=35589579) - [A Language Design Analysis of HolyC (2019)](https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc)
