@@ -3,6 +3,7 @@
 * [2023-04-16, 15:08:01](https://news.ycombinator.com/item?id=35590633) - [A Beauty Treatment Promised to Zap Fat. For Some, It Brought Disfigurement](https://www.nytimes.com/2023/04/16/health/coolsculpting-side-effect-risks.html)
 * [2023-04-16, 15:01:18](https://news.ycombinator.com/item?id=35590573) - [The Rise and Fall of Kittyhawk](https://www.businessinsider.com/inside-kittyhawk-google-founder-billionaire-larry-page-flying-car-company-2023-4)
 * [2023-04-16, 14:52:43](https://news.ycombinator.com/item?id=35590504) - [Why California is taking on caste-based discrimination](https://www.theguardian.com/us-news/2023/apr/16/california-bill-aims-to-ban-caste-based-discrimination)
+* [2023-04-16, 14:47:11](https://news.ycombinator.com/item?id=35590457) - [Laid off by Big Tech, then recruited for contract work – at the same place](https://www.seattletimes.com/business/laid-off-by-big-tech-then-recruited-for-contract-work-at-the-same-place/)
 * [2023-04-16, 14:43:18](https://news.ycombinator.com/item?id=35590429) - [Experiments with plane-filling curves and Fourier transform](https://github.com/dmishin/fft-image-experiments)
 * [2023-04-16, 14:23:48](https://news.ycombinator.com/item?id=35590279) - [SpaceX&#x27;s Texas Rocket Is Going to Cause a Lot More Damage Than Anyone Thinks](https://blog.esghound.com/p/spacexs-texas-rocket-is-going-to)
 * [2023-04-16, 13:56:27](https://news.ycombinator.com/item?id=35590062) - [WikiIndex, the wiki index of wikis, wiki people, wiki software, wiki farms, etc.](https://wikiindex.org/Welcome)
@@ -29,7 +30,6 @@
 * [2023-04-16, 01:21:33](https://news.ycombinator.com/item?id=35586376) - [The Forme of Cury](https://en.wikipedia.org/wiki/The_Forme_of_Cury)
 * [2023-04-16, 00:23:45](https://news.ycombinator.com/item?id=35586012) - [Sigstore protects Apt archives: apt-verify and apt-sigstore](https://blog.josefsson.org/2023/04/15/sigstore-protects-apt-archives-apt-verify-apt-sigstore/)
 * [2023-04-15, 21:05:38](https://news.ycombinator.com/item?id=35584515) - [In a Deadly Mountain Pass, a Tiny Hotel Is a Lifeline](https://www.nytimes.com/2023/04/08/world/asia/afghanistan-generosity-sabzak-pass.html)
-* [2023-04-15, 18:53:54](https://news.ycombinator.com/item?id=35583465) - [Investigating and preventing scientific misconduct with Benford’s law](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-022-00126-w)
 
 ## [Archives](archives/index.md)
 
