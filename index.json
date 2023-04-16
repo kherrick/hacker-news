@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-04-16, 13:24:41",
-      "https://news.ycombinator.com/item?id=35589846"
+      "2023-04-16, 13:56:27",
+      "https://news.ycombinator.com/item?id=35590062"
     ],
     [
-      "Will Turkey’s elections finally spell the end of Recep Tayyip Erdoğan?",
-      "https://www.theguardian.com/world/2023/apr/16/will-turkeys-elections-spell-end-of-recep-tayyip-erdogan"
+      "WikiIndex, the wiki index of wikis, wiki people, wiki software, wiki farms, etc.",
+      "https://wikiindex.org/Welcome"
+    ]
+  ],
+  [
+    [
+      "2023-04-16, 13:50:03",
+      "https://news.ycombinator.com/item?id=35590017"
+    ],
+    [
+      "CA Electric Bills on Income",
+      "https://ktla.com/news/local-news/california-power-companies-roll-out-fixed-rate-bill-proposal/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Sigstore protects Apt archives: apt-verify and apt-sigstore",
       "https://blog.josefsson.org/2023/04/15/sigstore-protects-apt-archives-apt-verify-apt-sigstore/"
-    ]
-  ],
-  [
-    [
-      "2023-04-16, 00:22:52",
-      "https://news.ycombinator.com/item?id=35586008"
-    ],
-    [
-      "Mouse scroll wheel acceleration, implemented in user space",
-      "https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace"
     ]
   ],
   [
