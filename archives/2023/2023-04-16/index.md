@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 11:49:59](https://news.ycombinator.com/item?id=35589176) - [Summary: Don&#x27;t make me think(revisited) by Steve Krug](https://www.chestergrant.com/summary-dont-make-me-think-revisited-steve-krug)
+* [2023-04-16, 11:49:34](https://news.ycombinator.com/item?id=35589172) - [Pico3D: Open World 3D Game Engine for the PicoSystem (RP2040 Microcontroller)](https://github.com/bernhardstrobl/Pico3D)
 * [2023-04-16, 11:37:58](https://news.ycombinator.com/item?id=35589124) - [Future Blues – Emily&#x27;s Cowboy Bebop Page (1999)](https://futureblues.com/)
 * [2023-04-16, 11:30:14](https://news.ycombinator.com/item?id=35589085) - [The end of nuclear power in Germany](https://www.greenpeace.org/international/story/59219/tschuss-atomkraft-end-nuclear-power-germany/)
 * [2023-04-16, 11:19:25](https://news.ycombinator.com/item?id=35589027) - [Batch computing and the coming age of AI systems](https://hazyresearch.stanford.edu/blog/2023-04-12-batch)
 * [2023-04-16, 11:13:39](https://news.ycombinator.com/item?id=35588997) - [Algorithmic System for Turning the Elderly into High-Nutrient Slurry](https://arxiv.org/abs/1908.06166)
 * [2023-04-16, 11:12:16](https://news.ycombinator.com/item?id=35588985) - [The fastest math typesetting library for the web](https://katex.org/)
+* [2023-04-16, 10:53:57](https://news.ycombinator.com/item?id=35588905) - [The Military-Industrial Stock Buyback Complex](https://mattstoller.substack.com/p/the-military-industrial-stock-buyback)
 * [2023-04-16, 10:31:21](https://news.ycombinator.com/item?id=35588784) - [Texas Could Push Tech Platforms to Censor Posts About Abortion](https://www.wired.com/story/texas-could-push-tech-platforms-to-censor-posts-about-abortion/)
 * [2023-04-16, 09:31:51](https://news.ycombinator.com/item?id=35588513) - [Functional Programming with TypeScript&#x27;s Type System](https://desislav.dev/blog/tsfp/)
 * [2023-04-16, 08:50:25](https://news.ycombinator.com/item?id=35588329) - [Culture Is Stuck](https://lindynewsletter.beehiiv.com/p/culture-stuck)
