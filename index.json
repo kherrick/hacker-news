@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-16, 04:09:26",
+      "https://news.ycombinator.com/item?id=35587196"
+    ],
+    [
+      "PostgreSQL Row Level Security",
+      "https://imfeld.dev/notes/postgresql_row_level_security"
+    ]
+  ],
+  [
+    [
       "2023-04-16, 02:56:45",
       "https://news.ycombinator.com/item?id=35586845"
     ],
@@ -247,16 +257,6 @@
     [
       "Systems design 2: What we hope we know",
       "https://apenwarr.ca/log/20230415"
-    ]
-  ],
-  [
-    [
-      "2023-04-15, 10:36:52",
-      "https://news.ycombinator.com/item?id=35579334"
-    ],
-    [
-      "WebGPU Fundamentals",
-      "https://webgpufundamentals.org/"
     ]
   ],
   [
