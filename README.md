@@ -25,7 +25,7 @@
 * [2023-04-16, 11:49:34](https://news.ycombinator.com/item?id=35589172) - [Pico3D: Open World 3D Game Engine for the PicoSystem (RP2040 Microcontroller)](https://github.com/bernhardstrobl/Pico3D)
 * [2023-04-16, 11:37:58](https://news.ycombinator.com/item?id=35589124) - [Future Blues – Emily&#x27;s Cowboy Bebop Page (1999)](https://futureblues.com/)
 * [2023-04-16, 11:12:16](https://news.ycombinator.com/item?id=35588985) - [The fastest math typesetting library for the web](https://katex.org/)
-* [2023-04-16, 10:41:18](https://news.ycombinator.com/item?id=35588834) - [Ivrea, industrial city of the 20th century](https://artsandculture.google.com/story/ivrea-industrial-city-of-the-20th-century/CgXxgt6QPoEhLQ?zx=ohx4o1vakc5p)
+* [2023-04-16, 03:29:54](https://news.ycombinator.com/item?id=35587020) - [The Best of Orion&#x27;s Arm](https://borretti.me/article/best-of-orions-arm)
 * [2023-04-16, 02:02:44](https://news.ycombinator.com/item?id=35586585) - [Hopelessness and confidence in distributed systems design (2015) [video]](https://www.youtube.com/watch?v=TlU1opuCXB0)
 * [2023-04-15, 22:43:13](https://news.ycombinator.com/item?id=35585383) - [Donkey Kong Recreated Using 6,400 Post-it Notes (2007)](http://alumni.soe.ucsc.edu/~inio/dk/)
 * [2023-04-15, 17:06:49](https://news.ycombinator.com/item?id=35582449) - [One economist went on a long whimsical journey to pay his taxes with cash](https://fortune.com/2023/04/10/paying-taxes-with-cash-economist/)

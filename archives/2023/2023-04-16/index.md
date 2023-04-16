@@ -69,6 +69,7 @@
 * [2023-04-16, 05:26:56](https://news.ycombinator.com/item?id=35587509) - [Nvenc vs. QSV: Who Has the Best Hardware AV1 Encoder?](https://giannirosato.com/blog/post/nvenc-v-qsv/)
 * [2023-04-16, 04:09:26](https://news.ycombinator.com/item?id=35587196) - [PostgreSQL Row Level Security](https://imfeld.dev/notes/postgresql_row_level_security)
 * [2023-04-16, 04:07:32](https://news.ycombinator.com/item?id=35587186) - [Tabi: The shoe that became a sock and then a shoe again](https://one-from-nippon.ghost.io/untitled-2/)
+* [2023-04-16, 03:29:54](https://news.ycombinator.com/item?id=35587020) - [The Best of Orion&#x27;s Arm](https://borretti.me/article/best-of-orions-arm)
 * [2023-04-16, 02:56:45](https://news.ycombinator.com/item?id=35586845) - [Wayback: Self-hosted archiving service integrated with Internet Archive](https://github.com/wabarc/wayback)
 * [2023-04-16, 02:51:07](https://news.ycombinator.com/item?id=35586815) - [R-Core Transformers](https://www.custommag.com/r-core-transformers)
 * [2023-04-16, 02:25:41](https://news.ycombinator.com/item?id=35586683) - [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
