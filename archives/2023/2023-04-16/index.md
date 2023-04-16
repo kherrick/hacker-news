@@ -43,6 +43,7 @@
 * [2023-04-16, 13:50:03](https://news.ycombinator.com/item?id=35590017) - [CA Electric Bills on Income](https://ktla.com/news/local-news/california-power-companies-roll-out-fixed-rate-bill-proposal/)
 * [2023-04-16, 13:39:23](https://news.ycombinator.com/item?id=35589943) - [The Paratethys Sea was the largest lake in Earth’s history](https://bigthink.com/strange-maps/paratethys-sea/)
 * [2023-04-16, 13:24:41](https://news.ycombinator.com/item?id=35589846) - [Will Turkey’s elections finally spell the end of Recep Tayyip Erdoğan?](https://www.theguardian.com/world/2023/apr/16/will-turkeys-elections-spell-end-of-recep-tayyip-erdogan)
+* [2023-04-16, 13:12:06](https://news.ycombinator.com/item?id=35589756) - [Understanding large language models: A cross-section of the relevant literature](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 * [2023-04-16, 12:48:43](https://news.ycombinator.com/item?id=35589579) - [A Language Design Analysis of HolyC (2019)](https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc)
 * [2023-04-16, 12:46:05](https://news.ycombinator.com/item?id=35589553) - [SafetyWing (YC W18) Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
 * [2023-04-16, 12:34:02](https://news.ycombinator.com/item?id=35589464) - [Who owns history? How remarkable historical footage is hidden and monetised](https://aeon.co/videos/who-owns-history-how-remarkable-historical-footage-is-hidden-and-monetised)
