@@ -17,6 +17,7 @@
 * [2023-04-15, 20:23:44](https://news.ycombinator.com/item?id=35584191) - [HDD Sales Crater, Drop 35% Year-over-Year](https://www.tomshardware.com/news/sales-of-hdds-drop-35-percent-year-over-year)
 * [2023-04-15, 20:22:54](https://news.ycombinator.com/item?id=35584187) - [Algebraic Graph Calculus](http://gabarro.org/ccn/algebraic_graph_calculus.html)
 * [2023-04-15, 19:22:18](https://news.ycombinator.com/item?id=35583743) - [Microsoft execs on Apple&#x27;s music store (2003)](https://twitter.com/TechEmails/status/1647317806697050112)
+* [2023-04-15, 18:53:54](https://news.ycombinator.com/item?id=35583465) - [Investigating and preventing scientific misconduct with Benford’s law](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-022-00126-w)
 * [2023-04-15, 18:47:59](https://news.ycombinator.com/item?id=35583412) - [DOJ charges 10 with fraud in global air freight kickback scheme](https://www.aircargonews.net/airlines/freighter-operator/us-doj-charges-10-with-defrauding-polar-air-cargo-worldwide/)
 * [2023-04-15, 18:42:09](https://news.ycombinator.com/item?id=35583349) - [Web LLM – WebGPU Powered Inference of Large Language Models](https://github.com/mlc-ai/web-llm)
 * [2023-04-15, 18:32:54](https://news.ycombinator.com/item?id=35583268) - [Shareware Heroes](https://sharewareheroes.com/)
