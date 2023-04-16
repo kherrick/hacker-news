@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-16, 18:29:47](https://news.ycombinator.com/item?id=35592847) - [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
 * [2023-04-16, 18:18:46](https://news.ycombinator.com/item?id=35592728) - [Do looks matter for an academic career in economics?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805308)
 * [2023-04-16, 18:06:49](https://news.ycombinator.com/item?id=35592607) - [AT&amp;T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
 * [2023-04-16, 17:51:03](https://news.ycombinator.com/item?id=35592446) - [Unwinding the Stack the Hard Way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
@@ -21,7 +22,6 @@
 * [2023-04-16, 11:50:21](https://news.ycombinator.com/item?id=35589179) - [FSF Slams Google over Dropping JPEG-XL in Chrome](https://www.phoronix.com/news/FSF-Slams-Google-JPEG-XL)
 * [2023-04-16, 11:49:34](https://news.ycombinator.com/item?id=35589172) - [Pico3D: Open World 3D Game Engine for the PicoSystem (RP2040 Microcontroller)](https://github.com/bernhardstrobl/Pico3D)
 * [2023-04-16, 11:37:58](https://news.ycombinator.com/item?id=35589124) - [Future Blues – Emily&#x27;s Cowboy Bebop Page (1999)](https://futureblues.com/)
-* [2023-04-16, 11:19:25](https://news.ycombinator.com/item?id=35589027) - [Batch computing and the coming age of AI systems](https://hazyresearch.stanford.edu/blog/2023-04-12-batch)
 * [2023-04-16, 11:13:39](https://news.ycombinator.com/item?id=35588997) - [A Mulching Proposal (2019)](https://arxiv.org/abs/1908.06166)
 * [2023-04-16, 11:12:16](https://news.ycombinator.com/item?id=35588985) - [The fastest math typesetting library for the web](https://katex.org/)
 * [2023-04-16, 10:41:18](https://news.ycombinator.com/item?id=35588834) - [Ivrea, industrial city of the 20th century](https://artsandculture.google.com/story/ivrea-industrial-city-of-the-20th-century/CgXxgt6QPoEhLQ?zx=ohx4o1vakc5p)
