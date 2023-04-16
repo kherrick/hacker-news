@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 10:31:21](https://news.ycombinator.com/item?id=35588784) - [Texas Could Push Tech Platforms to Censor Posts About Abortion](https://www.wired.com/story/texas-could-push-tech-platforms-to-censor-posts-about-abortion/)
+* [2023-04-16, 09:31:51](https://news.ycombinator.com/item?id=35588513) - [Functional Programming with TypeScript&#x27;s Type System](https://desislav.dev/blog/tsfp/)
 * [2023-04-16, 08:21:58](https://news.ycombinator.com/item?id=35588203) - [Nibbles of Rust – Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
 * [2023-04-16, 07:16:07](https://news.ycombinator.com/item?id=35587963) - [Lazard’s Levelized Cost of Energy Analysis: Version 16.0 [pdf]](https://www.lazard.com/media/nltb551p/lazards-lcoeplus-april-2023.pdf)
 * [2023-04-16, 07:08:24](https://news.ycombinator.com/item?id=35587930) - [Ask HN: Transitioning to a Solutions Engineer &#x2F; Sales Engineer](https://news.ycombinator.com/item?id=35587930)
@@ -14,6 +16,7 @@
 * [2023-04-16, 02:56:45](https://news.ycombinator.com/item?id=35586845) - [Wayback: Self-hosted archiving service integrated with Internet Archive](https://github.com/wabarc/wayback)
 * [2023-04-16, 02:25:41](https://news.ycombinator.com/item?id=35586683) - [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
 * [2023-04-16, 02:06:59](https://news.ycombinator.com/item?id=35586607) - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
+* [2023-04-16, 01:21:33](https://news.ycombinator.com/item?id=35586376) - [The Forme of Cury](https://en.wikipedia.org/wiki/The_Forme_of_Cury)
 * [2023-04-16, 00:54:23](https://news.ycombinator.com/item?id=35586206) - [Four voters will decide $60B in Granby Ranch metro-district debt](https://coloradosun.com/2023/04/14/granby-ranch-metro-district-debt-election/)
 * [2023-04-16, 00:22:52](https://news.ycombinator.com/item?id=35586008) - [Mouse scroll wheel acceleration, implemented in user space](https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace)
 * [2023-04-16, 00:06:37](https://news.ycombinator.com/item?id=35585923) - [Latest Kitty terminal release features SRGB correct linear gamma blending](https://github.com/kovidgoyal/kitty/pull/5969)

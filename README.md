@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-16, 10:31:21](https://news.ycombinator.com/item?id=35588784) - [Texas Could Push Tech Platforms to Censor Posts About Abortion](https://www.wired.com/story/texas-could-push-tech-platforms-to-censor-posts-about-abortion/)
+* [2023-04-16, 09:31:51](https://news.ycombinator.com/item?id=35588513) - [Functional Programming with TypeScript&#x27;s Type System](https://desislav.dev/blog/tsfp/)
 * [2023-04-16, 08:21:58](https://news.ycombinator.com/item?id=35588203) - [Nibbles of Rust – Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
 * [2023-04-16, 07:16:07](https://news.ycombinator.com/item?id=35587963) - [Lazard’s Levelized Cost of Energy Analysis: Version 16.0 [pdf]](https://www.lazard.com/media/nltb551p/lazards-lcoeplus-april-2023.pdf)
 * [2023-04-16, 05:26:56](https://news.ycombinator.com/item?id=35587509) - [Nvenc vs. QSV: Who Has the Best Hardware AV1 Encoder?](https://giannirosato.com/blog/post/nvenc-v-qsv/)
@@ -7,6 +9,7 @@
 * [2023-04-16, 02:56:45](https://news.ycombinator.com/item?id=35586845) - [Wayback: Self-hosted archiving service integrated with Internet Archive](https://github.com/wabarc/wayback)
 * [2023-04-16, 02:25:41](https://news.ycombinator.com/item?id=35586683) - [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
 * [2023-04-16, 02:06:59](https://news.ycombinator.com/item?id=35586607) - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
+* [2023-04-16, 01:21:33](https://news.ycombinator.com/item?id=35586376) - [The Forme of Cury](https://en.wikipedia.org/wiki/The_Forme_of_Cury)
 * [2023-04-16, 00:22:52](https://news.ycombinator.com/item?id=35586008) - [Mouse scroll wheel acceleration, implemented in user space](https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace)
 * [2023-04-15, 22:19:26](https://news.ycombinator.com/item?id=35585174) - [Google CEO: “can we change the setting of this group to history-off” [pdf]](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
 * [2023-04-15, 22:13:04](https://news.ycombinator.com/item?id=35585117) - [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
@@ -18,8 +21,6 @@
 * [2023-04-15, 20:39:20](https://news.ycombinator.com/item?id=35584317) - [33TB of text data for a 1T-parameter model](https://lifearchitect.ai/chinchilla/)
 * [2023-04-15, 20:22:54](https://news.ycombinator.com/item?id=35584187) - [Algebraic graph calculus (2021)](http://gabarro.org/ccn/algebraic_graph_calculus.html)
 * [2023-04-15, 19:22:18](https://news.ycombinator.com/item?id=35583743) - [Microsoft execs on Apple&#x27;s music store (2003)](https://twitter.com/TechEmails/status/1647317806697050112)
-* [2023-04-15, 19:12:29](https://news.ycombinator.com/item?id=35583641) - [Why classic gaming names like Atari are still going in on the blockchain](https://www.theverge.com/23680785/retro-gaming-atari-maplestory-blockchain)
-* [2023-04-15, 18:53:54](https://news.ycombinator.com/item?id=35583465) - [Investigating and preventing scientific misconduct with Benford’s law](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-022-00126-w)
 * [2023-04-15, 18:47:59](https://news.ycombinator.com/item?id=35583412) - [DOJ charges 10 with fraud in global air freight kickback scheme](https://www.aircargonews.net/airlines/freighter-operator/us-doj-charges-10-with-defrauding-polar-air-cargo-worldwide/)
 * [2023-04-15, 18:42:09](https://news.ycombinator.com/item?id=35583349) - [Web LLM – WebGPU Powered Inference of Large Language Models](https://github.com/mlc-ai/web-llm)
 * [2023-04-15, 18:28:23](https://news.ycombinator.com/item?id=35583228) - [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
@@ -29,7 +30,6 @@
 * [2023-04-15, 16:27:35](https://news.ycombinator.com/item?id=35582079) - [Exercism – learn programming languages for free](https://exercism.org/)
 * [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why does a plastic-wrapped turkey sandwich cost $15 at the NYC airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
 * [2023-04-14, 05:03:10](https://news.ycombinator.com/item?id=35565701) - [A Portrait of Leonard Cohen as a Young Artist](https://www.thenation.com/article/culture/leonard-cohen-ballet-lepers/)
-* [2023-04-12, 06:38:55](https://news.ycombinator.com/item?id=35535821) - [Scissors Congruence: An interactive demo of the Wallace–Bolyai–Gerwien theorem](http://dmsm.github.io/scissors-congruence/)
 
 ## [Archives](archives/index.md)
 
