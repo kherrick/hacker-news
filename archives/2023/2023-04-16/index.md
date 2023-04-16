@@ -13,6 +13,7 @@
 * [2023-04-16, 18:18:46](https://news.ycombinator.com/item?id=35592728) - [Do Looks Matter for an Academic Career?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805308)
 * [2023-04-16, 18:17:41](https://news.ycombinator.com/item?id=35592718) - [We’ve All Been Way Too Accepting of Inflation](https://www.bloomberg.com/opinion/articles/2023-04-11/inflation-consumers-are-too-passive-about-high-prices-for-cars-flights-hotels)
 * [2023-04-16, 18:11:39](https://news.ycombinator.com/item?id=35592657) - [Usability Heuristics for User Interface Design](https://www.1984.design/c/discussions/usability-heuristics-for-user-interface-design)
+* [2023-04-16, 18:11:31](https://news.ycombinator.com/item?id=35592654) - [Why flying insects gather at artificial light](https://www.biorxiv.org/content/10.1101/2023.04.11.536486v1)
 * [2023-04-16, 18:06:49](https://news.ycombinator.com/item?id=35592607) - [AT&amp;T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
 * [2023-04-16, 17:51:03](https://news.ycombinator.com/item?id=35592446) - [Unwinding the Stack the Hard Way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
 * [2023-04-16, 17:50:35](https://news.ycombinator.com/item?id=35592439) - [Space Invaders Creator Reveals Game’s Origin Story](https://www.wired.com/story/space-invaders-45-years-tomohiro-nishikado/)
