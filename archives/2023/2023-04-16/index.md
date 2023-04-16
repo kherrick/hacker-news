@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
 * [2023-04-16, 15:22:03](https://news.ycombinator.com/item?id=35590734) - [De-Stressing Booking.com](https://www.alexcharlton.co/projects/booking-com-de-stresser)
+* [2023-04-16, 15:17:15](https://news.ycombinator.com/item?id=35590699) - [Plain C API design, the real world Kobayashi Maru test](https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html)
 * [2023-04-16, 15:08:01](https://news.ycombinator.com/item?id=35590633) - [A Beauty Treatment Promised to Zap Fat. For Some, It Brought Disfigurement](https://www.nytimes.com/2023/04/16/health/coolsculpting-side-effect-risks.html)
 * [2023-04-16, 15:01:18](https://news.ycombinator.com/item?id=35590573) - [The Rise and Fall of Kittyhawk](https://www.businessinsider.com/inside-kittyhawk-google-founder-billionaire-larry-page-flying-car-company-2023-4)
 * [2023-04-16, 14:52:43](https://news.ycombinator.com/item?id=35590504) - [Why California is taking on caste-based discrimination](https://www.theguardian.com/us-news/2023/apr/16/california-bill-aims-to-ban-caste-based-discrimination)
