@@ -28,8 +28,8 @@
 * [2023-04-15, 16:27:59](https://news.ycombinator.com/item?id=35582084) - [Generalizations of Fourier analysis (2021)](http://gabarro.org/ccn/gen_fourier.html)
 * [2023-04-15, 16:27:35](https://news.ycombinator.com/item?id=35582079) - [Exercism – learn programming languages for free](https://exercism.org/)
 * [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why does a plastic-wrapped turkey sandwich cost $15 at the NYC airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
+* [2023-04-14, 16:17:01](https://news.ycombinator.com/item?id=35571236) - [Intel won&#x27;t back down on chip ID feature (1999)](https://www.zdnet.com/article/intel-wont-back-down-on-chip-id-feature/)
 * [2023-04-14, 05:03:10](https://news.ycombinator.com/item?id=35565701) - [A Portrait of Leonard Cohen as a Young Artist](https://www.thenation.com/article/culture/leonard-cohen-ballet-lepers/)
-* [2023-04-12, 06:38:55](https://news.ycombinator.com/item?id=35535821) - [Scissors Congruence: An interactive demo of the Wallace–Bolyai–Gerwien theorem](http://dmsm.github.io/scissors-congruence/)
 
 ## [Archives](archives/index.md)
 
