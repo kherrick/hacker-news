@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 18:36:08](https://news.ycombinator.com/item?id=35592924) - [Lithium Battery Ripe for Disruption, Inventor Says](https://spectrum.ieee.org/lithium-ion-battery-disruption-ready)
 * [2023-04-16, 18:29:47](https://news.ycombinator.com/item?id=35592847) - [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
 * [2023-04-16, 18:18:46](https://news.ycombinator.com/item?id=35592728) - [Do Looks Matter for an Academic Career?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805308)
 * [2023-04-16, 18:17:41](https://news.ycombinator.com/item?id=35592718) - [We’ve All Been Way Too Accepting of Inflation](https://www.bloomberg.com/opinion/articles/2023-04-11/inflation-consumers-are-too-passive-about-high-prices-for-cars-flights-hotels)

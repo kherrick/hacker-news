@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-16, 18:36:08](https://news.ycombinator.com/item?id=35592924) - [Lithium Battery Ripe for Disruption, Inventor Says](https://spectrum.ieee.org/lithium-ion-battery-disruption-ready)
 * [2023-04-16, 18:29:47](https://news.ycombinator.com/item?id=35592847) - [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
 * [2023-04-16, 18:18:46](https://news.ycombinator.com/item?id=35592728) - [Do looks matter for an academic career in economics?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805308)
 * [2023-04-16, 18:06:49](https://news.ycombinator.com/item?id=35592607) - [AT&amp;T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
@@ -25,7 +26,6 @@
 * [2023-04-16, 11:13:39](https://news.ycombinator.com/item?id=35588997) - [A Mulching Proposal (2019)](https://arxiv.org/abs/1908.06166)
 * [2023-04-16, 11:12:16](https://news.ycombinator.com/item?id=35588985) - [The fastest math typesetting library for the web](https://katex.org/)
 * [2023-04-16, 10:41:18](https://news.ycombinator.com/item?id=35588834) - [Ivrea, industrial city of the 20th century](https://artsandculture.google.com/story/ivrea-industrial-city-of-the-20th-century/CgXxgt6QPoEhLQ?zx=ohx4o1vakc5p)
-* [2023-04-16, 04:07:32](https://news.ycombinator.com/item?id=35587186) - [Tabi: The shoe that became a sock and then a shoe again](https://one-from-nippon.ghost.io/untitled-2/)
 * [2023-04-16, 02:51:07](https://news.ycombinator.com/item?id=35586815) - [R-Core Transformers](https://www.custommag.com/r-core-transformers)
 * [2023-04-16, 01:03:09](https://news.ycombinator.com/item?id=35586266) - [Jumpstart: A recruitment startup flipping the job hunt on its head](https://www.maddyness.com/uk/2023/04/14/jumpstart-the-recruitment-startup-flipping-the-job-hunt-on-its-head/)
 * [2023-04-15, 22:43:13](https://news.ycombinator.com/item?id=35585383) - [Donkey Kong Recreated Using 6,400 Post-it Notes (2007)](http://alumni.soe.ucsc.edu/~inio/dk/)
