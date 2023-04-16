@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-16, 07:08:24](https://news.ycombinator.com/item?id=35587930) - [Ask HN: Transitioning to a Solutions Engineer &#x2F; Sales Engineer](https://news.ycombinator.com/item?id=35587930)
 * [2023-04-16, 05:26:56](https://news.ycombinator.com/item?id=35587509) - [Nvenc vs. QSV: Who Has the Best Hardware AV1 Encoder?](https://giannirosato.com/blog/post/nvenc-v-qsv/)
 * [2023-04-16, 04:07:32](https://news.ycombinator.com/item?id=35587186) - [Tabi: The shoe that became a sock and then a shoe again](https://one-from-nippon.ghost.io/untitled-2/)
 * [2023-04-16, 02:56:45](https://news.ycombinator.com/item?id=35586845) - [Wayback: Self-hosted archiving service integrated with Internet Archive](https://github.com/wabarc/wayback)
@@ -18,6 +17,7 @@
 * [2023-04-15, 20:22:54](https://news.ycombinator.com/item?id=35584187) - [Algebraic graph calculus (2021)](http://gabarro.org/ccn/algebraic_graph_calculus.html)
 * [2023-04-15, 19:22:18](https://news.ycombinator.com/item?id=35583743) - [Microsoft execs on Apple&#x27;s music store (2003)](https://twitter.com/TechEmails/status/1647317806697050112)
 * [2023-04-15, 19:12:29](https://news.ycombinator.com/item?id=35583641) - [Why classic gaming names like Atari are still going in on the blockchain](https://www.theverge.com/23680785/retro-gaming-atari-maplestory-blockchain)
+* [2023-04-15, 18:53:54](https://news.ycombinator.com/item?id=35583465) - [Investigating and preventing scientific misconduct with Benford’s law](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-022-00126-w)
 * [2023-04-15, 18:47:59](https://news.ycombinator.com/item?id=35583412) - [DOJ charges 10 with fraud in global air freight kickback scheme](https://www.aircargonews.net/airlines/freighter-operator/us-doj-charges-10-with-defrauding-polar-air-cargo-worldwide/)
 * [2023-04-15, 18:42:09](https://news.ycombinator.com/item?id=35583349) - [Web LLM – WebGPU Powered Inference of Large Language Models](https://github.com/mlc-ai/web-llm)
 * [2023-04-15, 18:28:23](https://news.ycombinator.com/item?id=35583228) - [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
