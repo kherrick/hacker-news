@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 16:15:18](https://news.ycombinator.com/item?id=35591338) - [The lessons from America’s astonishing economic record](https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record)
+* [2023-04-16, 16:14:25](https://news.ycombinator.com/item?id=35591327) - [SpaceX&#x27;s First Starship Launch Tomorrow](https://www.space.com/spacex-starship-rocket-super-heavy-launch-what-time)
 * [2023-04-16, 15:22:03](https://news.ycombinator.com/item?id=35590734) - [De-Stressing Booking.com](https://www.alexcharlton.co/projects/booking-com-de-stresser)
 * [2023-04-16, 15:17:15](https://news.ycombinator.com/item?id=35590699) - [Plain C API design, the real world Kobayashi Maru test](https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html)
 * [2023-04-16, 15:08:01](https://news.ycombinator.com/item?id=35590633) - [A Beauty Treatment Promised to Zap Fat. For Some, It Brought Disfigurement](https://www.nytimes.com/2023/04/16/health/coolsculpting-side-effect-risks.html)
@@ -16,6 +18,7 @@
 * [2023-04-16, 13:56:27](https://news.ycombinator.com/item?id=35590062) - [WikiIndex, the wiki index of wikis, wiki people, wiki software, wiki farms, etc.](https://wikiindex.org/Welcome)
 * [2023-04-16, 13:50:03](https://news.ycombinator.com/item?id=35590017) - [CA Electric Bills on Income](https://ktla.com/news/local-news/california-power-companies-roll-out-fixed-rate-bill-proposal/)
 * [2023-04-16, 13:24:41](https://news.ycombinator.com/item?id=35589846) - [Will Turkey’s elections finally spell the end of Recep Tayyip Erdoğan?](https://www.theguardian.com/world/2023/apr/16/will-turkeys-elections-spell-end-of-recep-tayyip-erdogan)
+* [2023-04-16, 12:48:43](https://news.ycombinator.com/item?id=35589579) - [A Language Design Analysis of HolyC (2019)](https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc)
 * [2023-04-16, 12:46:05](https://news.ycombinator.com/item?id=35589553) - [SafetyWing (YC W18) Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
 * [2023-04-16, 12:34:02](https://news.ycombinator.com/item?id=35589464) - [Who owns history? How remarkable historical footage is hidden and monetised](https://aeon.co/videos/who-owns-history-how-remarkable-historical-footage-is-hidden-and-monetised)
 * [2023-04-16, 11:50:21](https://news.ycombinator.com/item?id=35589179) - [FSF Slams Google over Dropping JPEG-XL in Chrome](https://www.phoronix.com/news/FSF-Slams-Google-JPEG-XL)
