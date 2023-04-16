@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-16, 11:13:39](https://news.ycombinator.com/item?id=35588997) - [Algorithmic System for Turning the Elderly into High-Nutrient Slurry](https://arxiv.org/abs/1908.06166)
 * [2023-04-16, 09:31:51](https://news.ycombinator.com/item?id=35588513) - [Functional Programming with TypeScript&#x27;s Type System](https://desislav.dev/blog/tsfp/)
 * [2023-04-16, 08:21:58](https://news.ycombinator.com/item?id=35588203) - [Nibbles of Rust – Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
 * [2023-04-16, 07:16:07](https://news.ycombinator.com/item?id=35587963) - [Lazard’s Levelized Cost of Energy Analysis: Version 16.0 [pdf]](https://www.lazard.com/media/nltb551p/lazards-lcoeplus-april-2023.pdf)
@@ -12,7 +13,6 @@
 * [2023-04-16, 00:22:52](https://news.ycombinator.com/item?id=35586008) - [Mouse scroll wheel acceleration, implemented in user space](https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace)
 * [2023-04-15, 22:19:26](https://news.ycombinator.com/item?id=35585174) - [Google CEO: “can we change the setting of this group to history-off” [pdf]](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
 * [2023-04-15, 22:13:04](https://news.ycombinator.com/item?id=35585117) - [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
-* [2023-04-15, 21:44:56](https://news.ycombinator.com/item?id=35584866) - [Digital clutter: Learning to let go and stop hoarding terabytes](https://paulstamatiou.com/digital-clutter/)
 * [2023-04-15, 21:31:00](https://news.ycombinator.com/item?id=35584736) - [The Soul of an Old Machine](https://benjamincongdon.me/blog/2023/04/15/The-Soul-of-an-Old-Machine/)
 * [2023-04-15, 21:21:53](https://news.ycombinator.com/item?id=35584650) - [The FFmpeg&#x2F;Libav situation (2012)](http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
 * [2023-04-15, 21:16:55](https://news.ycombinator.com/item?id=35584606) - [How Close Are We to the Holy Grail of Room-Temperature Superconductors?](https://www.forbes.com/sites/startswithabang/2021/07/07/how-close-are-we-to-the-holy-grail-of-room-temperature-superconductors/)

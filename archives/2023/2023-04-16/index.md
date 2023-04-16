@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 11:13:39](https://news.ycombinator.com/item?id=35588997) - [Algorithmic System for Turning the Elderly into High-Nutrient Slurry](https://arxiv.org/abs/1908.06166)
 * [2023-04-16, 10:31:21](https://news.ycombinator.com/item?id=35588784) - [Texas Could Push Tech Platforms to Censor Posts About Abortion](https://www.wired.com/story/texas-could-push-tech-platforms-to-censor-posts-about-abortion/)
 * [2023-04-16, 09:31:51](https://news.ycombinator.com/item?id=35588513) - [Functional Programming with TypeScript&#x27;s Type System](https://desislav.dev/blog/tsfp/)
 * [2023-04-16, 08:21:58](https://news.ycombinator.com/item?id=35588203) - [Nibbles of Rust – Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
