@@ -10,6 +10,7 @@
 * [2023-04-15, 21:44:56](https://news.ycombinator.com/item?id=35584866) - [Digital clutter: Learning to let go and stop hoarding terabytes](https://paulstamatiou.com/digital-clutter/)
 * [2023-04-15, 21:37:43](https://news.ycombinator.com/item?id=35584792) - [Leak to us or we&#x27;ll dox you](https://twitter.com/ggreenwald/status/1647258233218760705)
 * [2023-04-15, 21:21:53](https://news.ycombinator.com/item?id=35584650) - [The FFmpeg&#x2F;Libav situation (2012)](http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
+* [2023-04-15, 21:16:55](https://news.ycombinator.com/item?id=35584606) - [How Close Are We to the Holy Grail of Room-Temperature Superconductors?](https://www.forbes.com/sites/startswithabang/2021/07/07/how-close-are-we-to-the-holy-grail-of-room-temperature-superconductors/)
 * [2023-04-15, 21:12:32](https://news.ycombinator.com/item?id=35584563) - [SUVs more dangerous to cyclists than other cars, study suggests](https://road.cc/content/news/suvs-more-dangerous-cyclists-than-other-cars-300605)
 * [2023-04-15, 21:08:11](https://news.ycombinator.com/item?id=35584533) - [Easily Accessing All Your Stuff with a Zero-Trust Mesh VPN](https://changelog.complete.org/archives/10478-easily-accessing-all-your-stuff-with-a-zero-trust-mesh-vpn)
 * [2023-04-15, 20:39:20](https://news.ycombinator.com/item?id=35584317) - [33TB of text data for a 1T-parameter model](https://lifearchitect.ai/chinchilla/)
