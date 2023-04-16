@@ -12,6 +12,7 @@
 * [2023-04-15, 22:13:04](https://news.ycombinator.com/item?id=35585117) - [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
 * [2023-04-15, 21:44:56](https://news.ycombinator.com/item?id=35584866) - [Digital clutter: Learning to let go and stop hoarding terabytes](https://paulstamatiou.com/digital-clutter/)
 * [2023-04-15, 21:31:00](https://news.ycombinator.com/item?id=35584736) - [The Soul of an Old Machine](https://benjamincongdon.me/blog/2023/04/15/The-Soul-of-an-Old-Machine/)
+* [2023-04-15, 21:21:53](https://news.ycombinator.com/item?id=35584650) - [The FFmpeg&#x2F;Libav situation (2012)](http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
 * [2023-04-15, 21:16:55](https://news.ycombinator.com/item?id=35584606) - [How Close Are We to the Holy Grail of Room-Temperature Superconductors?](https://www.forbes.com/sites/startswithabang/2021/07/07/how-close-are-we-to-the-holy-grail-of-room-temperature-superconductors/)
 * [2023-04-15, 21:08:11](https://news.ycombinator.com/item?id=35584533) - [Easily accessing all your stuff with a zero-trust mesh VPN](https://changelog.complete.org/archives/10478-easily-accessing-all-your-stuff-with-a-zero-trust-mesh-vpn)
 * [2023-04-15, 20:39:20](https://news.ycombinator.com/item?id=35584317) - [33TB of text data for a 1T-parameter model](https://lifearchitect.ai/chinchilla/)
@@ -27,7 +28,6 @@
 * [2023-04-15, 16:27:59](https://news.ycombinator.com/item?id=35582084) - [Generalizations of Fourier analysis (2021)](http://gabarro.org/ccn/gen_fourier.html)
 * [2023-04-15, 16:27:35](https://news.ycombinator.com/item?id=35582079) - [Exercism – learn programming languages for free](https://exercism.org/)
 * [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why does a plastic-wrapped turkey sandwich cost $15 at the NYC airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
-* [2023-04-14, 16:17:01](https://news.ycombinator.com/item?id=35571236) - [Intel won&#x27;t back down on chip ID feature (1999)](https://www.zdnet.com/article/intel-wont-back-down-on-chip-id-feature/)
 * [2023-04-14, 05:03:10](https://news.ycombinator.com/item?id=35565701) - [A Portrait of Leonard Cohen as a Young Artist](https://www.thenation.com/article/culture/leonard-cohen-ballet-lepers/)
 * [2023-04-12, 06:38:55](https://news.ycombinator.com/item?id=35535821) - [Scissors Congruence: An interactive demo of the Wallace–Bolyai–Gerwien theorem](http://dmsm.github.io/scissors-congruence/)
 
