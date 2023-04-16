@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 17:14:47](https://news.ycombinator.com/item?id=35592005) - [CrabLang](https://crablang.org/)
 * [2023-04-16, 17:03:37](https://news.ycombinator.com/item?id=35591827) - [Bavaria mulls reopening nuclear plant under state control](https://www.dw.com/en/germany-bavaria-mulls-reopening-nuclear-plant-under-state-control/a-65336730)
 * [2023-04-16, 16:59:41](https://news.ycombinator.com/item?id=35591781) - [Ask HN: Why aren’t planes boarded back-to-front?](https://news.ycombinator.com/item?id=35591781)
 * [2023-04-16, 16:27:04](https://news.ycombinator.com/item?id=35591460) - [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
