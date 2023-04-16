@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 19:26:12](https://news.ycombinator.com/item?id=35593424) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
 * [2023-04-16, 19:06:10](https://news.ycombinator.com/item?id=35593256) - [Interlaken: The ideal high-speed chip-to-chip interface](https://www.design-reuse.com/articles/52722/interlaken-the-ideal-high-speed-chip-to-chip-interface.html)
+* [2023-04-16, 18:36:47](https://news.ycombinator.com/item?id=35592931) - [Smokey’s New Hot Vapourizing Engine Creates Heat in Detroit (1983)](http://rexresearch.com/yunick/yunick.htm)
 * [2023-04-16, 18:36:08](https://news.ycombinator.com/item?id=35592924) - [Lithium Battery Ripe for Disruption, Inventor Says](https://spectrum.ieee.org/lithium-ion-battery-disruption-ready)
 * [2023-04-16, 18:29:47](https://news.ycombinator.com/item?id=35592847) - [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
 * [2023-04-16, 18:18:46](https://news.ycombinator.com/item?id=35592728) - [Do Looks Matter for an Academic Career?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805308)
