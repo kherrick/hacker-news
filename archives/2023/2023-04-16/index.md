@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 18:17:41](https://news.ycombinator.com/item?id=35592718) - [We’ve All Been Way Too Accepting of Inflation](https://www.bloomberg.com/opinion/articles/2023-04-11/inflation-consumers-are-too-passive-about-high-prices-for-cars-flights-hotels)
+* [2023-04-16, 18:06:49](https://news.ycombinator.com/item?id=35592607) - [AT&amp;T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
+* [2023-04-16, 17:51:03](https://news.ycombinator.com/item?id=35592446) - [Unwinding the Stack the Hard Way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
 * [2023-04-16, 17:14:47](https://news.ycombinator.com/item?id=35592005) - [CrabLang](https://crablang.org/)
 * [2023-04-16, 17:03:37](https://news.ycombinator.com/item?id=35591827) - [Bavaria mulls reopening nuclear plant under state control](https://www.dw.com/en/germany-bavaria-mulls-reopening-nuclear-plant-under-state-control/a-65336730)
 * [2023-04-16, 16:59:41](https://news.ycombinator.com/item?id=35591781) - [Ask HN: Why aren’t planes boarded back-to-front?](https://news.ycombinator.com/item?id=35591781)
