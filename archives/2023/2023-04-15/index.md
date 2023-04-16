@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 22:43:13](https://news.ycombinator.com/item?id=35585383) - [Donkey Kong Recreated Using 6,400 Post-it Notes (2007)](http://alumni.soe.ucsc.edu/~inio/dk/)
 * [2023-04-15, 22:19:26](https://news.ycombinator.com/item?id=35585174) - [Google CEO: “can we change the setting of this group to history-off” [pdf]](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
 * [2023-04-15, 22:13:04](https://news.ycombinator.com/item?id=35585117) - [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
 * [2023-04-15, 21:49:39](https://news.ycombinator.com/item?id=35584898) - [Uber and Amazon use AI to pay people different wages for the same work](https://www.businessinsider.com/uber-amazon-pay-using-ai-different-wages-same-work-discrimination-2023-4)
