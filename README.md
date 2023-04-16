@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-16, 19:34:35](https://news.ycombinator.com/item?id=35593507) - [Best predictor of professional success isn’t cognitive performance](https://english.elpais.com/science-tech/2023-04-13/daniel-sanabria-psychologist-the-best-predictor-of-professional-success-isnt-cognitive-performance-its-whether-your-parents-have-money.html)
+* [2023-04-16, 19:45:32](https://news.ycombinator.com/item?id=35593617) - [Mark Twain&#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
 * [2023-04-16, 19:26:12](https://news.ycombinator.com/item?id=35593424) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
 * [2023-04-16, 19:06:10](https://news.ycombinator.com/item?id=35593256) - [Interlaken: The ideal high-speed chip-to-chip interface](https://www.design-reuse.com/articles/52722/interlaken-the-ideal-high-speed-chip-to-chip-interface.html)
 * [2023-04-16, 18:36:47](https://news.ycombinator.com/item?id=35592931) - [Smokey’s New Hot Vapourizing Engine Creates Heat in Detroit (1983)](http://rexresearch.com/yunick/yunick.htm)
@@ -24,9 +24,9 @@
 * [2023-04-16, 12:34:02](https://news.ycombinator.com/item?id=35589464) - [Who owns history? How historical footage is hidden and monetised [video]](https://aeon.co/videos/who-owns-history-how-remarkable-historical-footage-is-hidden-and-monetised)
 * [2023-04-16, 11:49:34](https://news.ycombinator.com/item?id=35589172) - [Pico3D: Open World 3D Game Engine for the PicoSystem (RP2040 Microcontroller)](https://github.com/bernhardstrobl/Pico3D)
 * [2023-04-16, 11:37:58](https://news.ycombinator.com/item?id=35589124) - [Future Blues – Emily&#x27;s Cowboy Bebop Page (1999)](https://futureblues.com/)
-* [2023-04-16, 11:13:39](https://news.ycombinator.com/item?id=35588997) - [A Mulching Proposal (2019)](https://arxiv.org/abs/1908.06166)
 * [2023-04-16, 11:12:16](https://news.ycombinator.com/item?id=35588985) - [The fastest math typesetting library for the web](https://katex.org/)
 * [2023-04-16, 10:41:18](https://news.ycombinator.com/item?id=35588834) - [Ivrea, industrial city of the 20th century](https://artsandculture.google.com/story/ivrea-industrial-city-of-the-20th-century/CgXxgt6QPoEhLQ?zx=ohx4o1vakc5p)
+* [2023-04-16, 02:02:44](https://news.ycombinator.com/item?id=35586585) - [Hopelessness and Confidence in Distributed Systems Design [video]](https://www.youtube.com/watch?v=TlU1opuCXB0)
 * [2023-04-16, 01:03:09](https://news.ycombinator.com/item?id=35586266) - [Jumpstart: A recruitment startup flipping the job hunt on its head](https://www.maddyness.com/uk/2023/04/14/jumpstart-the-recruitment-startup-flipping-the-job-hunt-on-its-head/)
 * [2023-04-15, 22:43:13](https://news.ycombinator.com/item?id=35585383) - [Donkey Kong Recreated Using 6,400 Post-it Notes (2007)](http://alumni.soe.ucsc.edu/~inio/dk/)
 * [2023-04-15, 07:28:44](https://news.ycombinator.com/item?id=35578454) - [Appleseed – open-source, physically-based global illumination rendering engine](https://appleseedhq.net/)

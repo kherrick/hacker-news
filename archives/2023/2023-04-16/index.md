@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 19:45:32](https://news.ycombinator.com/item?id=35593617) - [Mark Twain&#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
 * [2023-04-16, 19:34:35](https://news.ycombinator.com/item?id=35593507) - [Best predictor of professional success isn’t cognitive performance](https://english.elpais.com/science-tech/2023-04-13/daniel-sanabria-psychologist-the-best-predictor-of-professional-success-isnt-cognitive-performance-its-whether-your-parents-have-money.html)
 * [2023-04-16, 19:26:12](https://news.ycombinator.com/item?id=35593424) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
 * [2023-04-16, 19:06:10](https://news.ycombinator.com/item?id=35593256) - [Interlaken: The ideal high-speed chip-to-chip interface](https://www.design-reuse.com/articles/52722/interlaken-the-ideal-high-speed-chip-to-chip-interface.html)
@@ -70,6 +71,7 @@
 * [2023-04-16, 02:51:07](https://news.ycombinator.com/item?id=35586815) - [R-Core Transformers](https://www.custommag.com/r-core-transformers)
 * [2023-04-16, 02:25:41](https://news.ycombinator.com/item?id=35586683) - [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
 * [2023-04-16, 02:06:59](https://news.ycombinator.com/item?id=35586607) - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
+* [2023-04-16, 02:02:44](https://news.ycombinator.com/item?id=35586585) - [Hopelessness and Confidence in Distributed Systems Design [video]](https://www.youtube.com/watch?v=TlU1opuCXB0)
 * [2023-04-16, 01:58:15](https://news.ycombinator.com/item?id=35586560) - [The Palenque Code](http://akusius.github.io/palenque/)
 * [2023-04-16, 01:21:33](https://news.ycombinator.com/item?id=35586376) - [The Forme of Cury](https://en.wikipedia.org/wiki/The_Forme_of_Cury)
 * [2023-04-16, 01:03:09](https://news.ycombinator.com/item?id=35586266) - [Jumpstart: The recruitment startup flipping the job hunt on its head](https://www.maddyness.com/uk/2023/04/14/jumpstart-the-recruitment-startup-flipping-the-job-hunt-on-its-head/)
