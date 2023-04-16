@@ -12,6 +12,7 @@
 * [2023-04-16, 17:14:47](https://news.ycombinator.com/item?id=35592005) - [CrabLang](https://crablang.org/)
 * [2023-04-16, 17:03:37](https://news.ycombinator.com/item?id=35591827) - [Bavaria mulls reopening nuclear plant under state control](https://www.dw.com/en/germany-bavaria-mulls-reopening-nuclear-plant-under-state-control/a-65336730)
 * [2023-04-16, 16:59:41](https://news.ycombinator.com/item?id=35591781) - [Ask HN: Why aren’t planes boarded back-to-front?](https://news.ycombinator.com/item?id=35591781)
+* [2023-04-16, 16:37:25](https://news.ycombinator.com/item?id=35591568) - [Google devising radical search changes to beat back A.I. rivals](https://www.nytimes.com/2023/04/16/technology/google-search-engine-ai.html)
 * [2023-04-16, 16:34:04](https://news.ycombinator.com/item?id=35591529) - [Coq typeclass resolution is Turing-complete](https://thaliaarchi.github.io/coq-turing-typeclass/)
 * [2023-04-16, 16:27:04](https://news.ycombinator.com/item?id=35591460) - [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
 * [2023-04-16, 16:15:18](https://news.ycombinator.com/item?id=35591338) - [The lessons from America’s astonishing economic record](https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record)
