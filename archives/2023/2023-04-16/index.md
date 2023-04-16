@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 15:08:01](https://news.ycombinator.com/item?id=35590633) - [A Beauty Treatment Promised to Zap Fat. For Some, It Brought Disfigurement](https://www.nytimes.com/2023/04/16/health/coolsculpting-side-effect-risks.html)
+* [2023-04-16, 15:01:18](https://news.ycombinator.com/item?id=35590573) - [The Rise and Fall of Kittyhawk](https://www.businessinsider.com/inside-kittyhawk-google-founder-billionaire-larry-page-flying-car-company-2023-4)
+* [2023-04-16, 14:52:43](https://news.ycombinator.com/item?id=35590504) - [Why California is taking on caste-based discrimination](https://www.theguardian.com/us-news/2023/apr/16/california-bill-aims-to-ban-caste-based-discrimination)
 * [2023-04-16, 14:43:18](https://news.ycombinator.com/item?id=35590429) - [Experiments with plane-filling curves and Fourier transform](https://github.com/dmishin/fft-image-experiments)
+* [2023-04-16, 14:23:48](https://news.ycombinator.com/item?id=35590279) - [SpaceX&#x27;s Texas Rocket Is Going to Cause a Lot More Damage Than Anyone Thinks](https://blog.esghound.com/p/spacexs-texas-rocket-is-going-to)
 * [2023-04-16, 14:18:58](https://news.ycombinator.com/item?id=35590232) - [Is the US education system in a state of collapse, and what caused it?](https://old.reddit.com/r/Teachers/comments/1169v5z/is_the_us_education_system_in_a_state_of_collapse/)
 * [2023-04-16, 13:56:27](https://news.ycombinator.com/item?id=35590062) - [WikiIndex, the wiki index of wikis, wiki people, wiki software, wiki farms, etc.](https://wikiindex.org/Welcome)
 * [2023-04-16, 13:50:03](https://news.ycombinator.com/item?id=35590017) - [CA Electric Bills on Income](https://ktla.com/news/local-news/california-power-companies-roll-out-fixed-rate-bill-proposal/)
