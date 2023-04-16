@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-16, 15:08:01](https://news.ycombinator.com/item?id=35590633) - [A Beauty Treatment Promised to Zap Fat. For Some, It Brought Disfigurement](https://www.nytimes.com/2023/04/16/health/coolsculpting-side-effect-risks.html)
-* [2023-04-16, 15:01:18](https://news.ycombinator.com/item?id=35590573) - [The Rise and Fall of Kittyhawk](https://www.businessinsider.com/inside-kittyhawk-google-founder-billionaire-larry-page-flying-car-company-2023-4)
 * [2023-04-16, 14:52:43](https://news.ycombinator.com/item?id=35590504) - [Why California is taking on caste-based discrimination](https://www.theguardian.com/us-news/2023/apr/16/california-bill-aims-to-ban-caste-based-discrimination)
 * [2023-04-16, 14:47:11](https://news.ycombinator.com/item?id=35590457) - [Laid off by Big Tech, then recruited for contract work – at the same place](https://www.seattletimes.com/business/laid-off-by-big-tech-then-recruited-for-contract-work-at-the-same-place/)
 * [2023-04-16, 14:43:18](https://news.ycombinator.com/item?id=35590429) - [Experiments with plane-filling curves and Fourier transform](https://github.com/dmishin/fft-image-experiments)
-* [2023-04-16, 14:23:48](https://news.ycombinator.com/item?id=35590279) - [SpaceX&#x27;s Texas Rocket Is Going to Cause a Lot More Damage Than Anyone Thinks](https://blog.esghound.com/p/spacexs-texas-rocket-is-going-to)
 * [2023-04-16, 13:56:27](https://news.ycombinator.com/item?id=35590062) - [WikiIndex, the wiki index of wikis, wiki people, wiki software, wiki farms, etc.](https://wikiindex.org/Welcome)
 * [2023-04-16, 12:46:05](https://news.ycombinator.com/item?id=35589553) - [SafetyWing (YC W18) Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
 * [2023-04-16, 12:34:02](https://news.ycombinator.com/item?id=35589464) - [Who owns history? How remarkable historical footage is hidden and monetised](https://aeon.co/videos/who-owns-history-how-remarkable-historical-footage-is-hidden-and-monetised)
@@ -17,7 +15,6 @@
 * [2023-04-16, 11:13:39](https://news.ycombinator.com/item?id=35588997) - [Algorithmic System for Turning the Elderly into High-Nutrient Slurry (2019)](https://arxiv.org/abs/1908.06166)
 * [2023-04-16, 11:12:16](https://news.ycombinator.com/item?id=35588985) - [The fastest math typesetting library for the web](https://katex.org/)
 * [2023-04-16, 11:03:55](https://news.ycombinator.com/item?id=35588945) - [‘Angry Birds’ company is about to be sold for $1B to Sega](https://www.theverge.com/2023/4/14/23683633/angry-birds-rovio-sega-sell-deal)
-* [2023-04-16, 10:53:57](https://news.ycombinator.com/item?id=35588905) - [The Military-Industrial Stock Buyback Complex](https://mattstoller.substack.com/p/the-military-industrial-stock-buyback)
 * [2023-04-16, 10:44:04](https://news.ycombinator.com/item?id=35588849) - [Show HN: TypeAPI – An OpenAPI alternative optimized for code generation](https://typeapi.org/)
 * [2023-04-16, 09:31:51](https://news.ycombinator.com/item?id=35588513) - [Functional Programming with TypeScript&#x27;s Type System](https://desislav.dev/blog/tsfp/)
 * [2023-04-16, 08:21:58](https://news.ycombinator.com/item?id=35588203) - [Nibbles of Rust – Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
@@ -29,7 +26,10 @@
 * [2023-04-16, 02:06:59](https://news.ycombinator.com/item?id=35586607) - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
 * [2023-04-16, 01:21:33](https://news.ycombinator.com/item?id=35586376) - [The Forme of Cury](https://en.wikipedia.org/wiki/The_Forme_of_Cury)
 * [2023-04-16, 00:23:45](https://news.ycombinator.com/item?id=35586012) - [Sigstore protects Apt archives: apt-verify and apt-sigstore](https://blog.josefsson.org/2023/04/15/sigstore-protects-apt-archives-apt-verify-apt-sigstore/)
+* [2023-04-15, 21:31:00](https://news.ycombinator.com/item?id=35584736) - [The Soul of an Old Machine](https://benjamincongdon.me/blog/2023/04/15/The-Soul-of-an-Old-Machine/)
 * [2023-04-15, 21:05:38](https://news.ycombinator.com/item?id=35584515) - [In a Deadly Mountain Pass, a Tiny Hotel Is a Lifeline](https://www.nytimes.com/2023/04/08/world/asia/afghanistan-generosity-sabzak-pass.html)
+* [2023-04-15, 18:53:54](https://news.ycombinator.com/item?id=35583465) - [Investigating and preventing scientific misconduct with Benford’s law](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-022-00126-w)
+* [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why does a plastic-wrapped turkey sandwich cost $15 at the NYC airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
 
 ## [Archives](archives/index.md)
 
