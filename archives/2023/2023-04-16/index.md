@@ -13,6 +13,7 @@
 * [2023-04-16, 11:19:25](https://news.ycombinator.com/item?id=35589027) - [Batch computing and the coming age of AI systems](https://hazyresearch.stanford.edu/blog/2023-04-12-batch)
 * [2023-04-16, 11:13:39](https://news.ycombinator.com/item?id=35588997) - [Algorithmic System for Turning the Elderly into High-Nutrient Slurry](https://arxiv.org/abs/1908.06166)
 * [2023-04-16, 11:12:16](https://news.ycombinator.com/item?id=35588985) - [The fastest math typesetting library for the web](https://katex.org/)
+* [2023-04-16, 11:03:55](https://news.ycombinator.com/item?id=35588945) - [‘Angry Birds’ company is about to be sold for $1B to Sega](https://www.theverge.com/2023/4/14/23683633/angry-birds-rovio-sega-sell-deal)
 * [2023-04-16, 10:53:57](https://news.ycombinator.com/item?id=35588905) - [The Military-Industrial Stock Buyback Complex](https://mattstoller.substack.com/p/the-military-industrial-stock-buyback)
 * [2023-04-16, 10:44:04](https://news.ycombinator.com/item?id=35588849) - [Show HN: TypeAPI – An OpenAPI alternative optimized for code generation](https://typeapi.org/)
 * [2023-04-16, 10:31:21](https://news.ycombinator.com/item?id=35588784) - [Texas Could Push Tech Platforms to Censor Posts About Abortion](https://www.wired.com/story/texas-could-push-tech-platforms-to-censor-posts-about-abortion/)

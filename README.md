@@ -8,6 +8,7 @@
 * [2023-04-16, 11:19:25](https://news.ycombinator.com/item?id=35589027) - [Batch computing and the coming age of AI systems](https://hazyresearch.stanford.edu/blog/2023-04-12-batch)
 * [2023-04-16, 11:13:39](https://news.ycombinator.com/item?id=35588997) - [Algorithmic System for Turning the Elderly into High-Nutrient Slurry (2019)](https://arxiv.org/abs/1908.06166)
 * [2023-04-16, 11:12:16](https://news.ycombinator.com/item?id=35588985) - [The fastest math typesetting library for the web](https://katex.org/)
+* [2023-04-16, 11:03:55](https://news.ycombinator.com/item?id=35588945) - [‘Angry Birds’ company is about to be sold for $1B to Sega](https://www.theverge.com/2023/4/14/23683633/angry-birds-rovio-sega-sell-deal)
 * [2023-04-16, 10:53:57](https://news.ycombinator.com/item?id=35588905) - [The Military-Industrial Stock Buyback Complex](https://mattstoller.substack.com/p/the-military-industrial-stock-buyback)
 * [2023-04-16, 10:44:04](https://news.ycombinator.com/item?id=35588849) - [Show HN: TypeAPI – An OpenAPI alternative optimized for code generation](https://typeapi.org/)
 * [2023-04-16, 09:31:51](https://news.ycombinator.com/item?id=35588513) - [Functional Programming with TypeScript&#x27;s Type System](https://desislav.dev/blog/tsfp/)
@@ -22,14 +23,13 @@
 * [2023-04-16, 01:21:33](https://news.ycombinator.com/item?id=35586376) - [The Forme of Cury](https://en.wikipedia.org/wiki/The_Forme_of_Cury)
 * [2023-04-16, 00:23:45](https://news.ycombinator.com/item?id=35586012) - [Sigstore protects Apt archives: apt-verify and apt-sigstore](https://blog.josefsson.org/2023/04/15/sigstore-protects-apt-archives-apt-verify-apt-sigstore/)
 * [2023-04-16, 00:22:52](https://news.ycombinator.com/item?id=35586008) - [Mouse scroll wheel acceleration, implemented in user space](https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace)
-* [2023-04-15, 22:19:26](https://news.ycombinator.com/item?id=35585174) - [Google CEO: “can we change the setting of this group to history-off” [pdf]](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
 * [2023-04-15, 22:13:04](https://news.ycombinator.com/item?id=35585117) - [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
 * [2023-04-15, 21:31:00](https://news.ycombinator.com/item?id=35584736) - [The Soul of an Old Machine](https://benjamincongdon.me/blog/2023/04/15/The-Soul-of-an-Old-Machine/)
 * [2023-04-15, 21:16:55](https://news.ycombinator.com/item?id=35584606) - [How Close Are We to the Holy Grail of Room-Temperature Superconductors?](https://www.forbes.com/sites/startswithabang/2021/07/07/how-close-are-we-to-the-holy-grail-of-room-temperature-superconductors/)
+* [2023-04-15, 21:05:38](https://news.ycombinator.com/item?id=35584515) - [In a Deadly Mountain Pass, a Tiny Hotel Is a Lifeline](https://www.nytimes.com/2023/04/08/world/asia/afghanistan-generosity-sabzak-pass.html)
 * [2023-04-15, 18:53:54](https://news.ycombinator.com/item?id=35583465) - [Investigating and preventing scientific misconduct with Benford’s law](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-022-00126-w)
 * [2023-04-15, 18:28:23](https://news.ycombinator.com/item?id=35583228) - [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
 * [2023-04-15, 14:20:00](https://news.ycombinator.com/item?id=35580847) - [Why does a plastic-wrapped turkey sandwich cost $15 at the NYC airport?](https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive)
-* [2023-04-12, 06:38:55](https://news.ycombinator.com/item?id=35535821) - [Scissors Congruence: An interactive demo of the Wallace–Bolyai–Gerwien theorem](http://dmsm.github.io/scissors-congruence/)
 
 ## [Archives](archives/index.md)
 
