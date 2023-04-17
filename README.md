@@ -2,6 +2,8 @@
 
 * [2023-04-17, 17:41:06](https://news.ycombinator.com/item?id=35603973) - [Neobuthus Factorio](https://en.wikipedia.org/wiki/Neobuthus_factorio)
 * [2023-04-17, 17:30:32](https://news.ycombinator.com/item?id=35603819) - [New 3D Printable Search Engine](https://www.printablesearch.com)
+* [2023-04-17, 17:25:04](https://news.ycombinator.com/item?id=35603756) - [OpenAI’s CEO Says the Age of Giant AI Models Is Already Over](https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/)
+* [2023-04-17, 17:07:47](https://news.ycombinator.com/item?id=35603575) - [California Wants to Cover Its Canals with Solar Panels](https://www.nytimes.com/2023/04/13/us/california-solar-panels-canals.html)
 * [2023-04-17, 17:02:08](https://news.ycombinator.com/item?id=35603511) - [Codegraph – static code analyzator &#x2F; code diagramer](https://github.com/xnuinside/codegraph)
 * [2023-04-17, 17:00:51](https://news.ycombinator.com/item?id=35603491) - [BuildZoom (YC W13) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 * [2023-04-17, 16:57:54](https://news.ycombinator.com/item?id=35603457) - [AWS staff spending ‘much of their time ’optimizing customers&#x27; clouds&#x27;](https://www.theregister.com/2023/04/17/amazon_annual_shareholder_letter_aws/)
@@ -25,11 +27,9 @@
 * [2023-04-17, 02:06:43](https://news.ycombinator.com/item?id=35596107) - [Dolphin Bow-Riding (2009)](https://www.sciencedirect.com/science/article/pii/B9780123735539000377)
 * [2023-04-17, 01:24:49](https://news.ycombinator.com/item?id=35595808) - [I liked this simple calculus exercise](https://blog.plover.com/math/se/calculus-exercise.html)
 * [2023-04-16, 22:34:07](https://news.ycombinator.com/item?id=35594853) - [The basics of decoupling capacitors](https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors)
-* [2023-04-16, 19:35:39](https://news.ycombinator.com/item?id=35593517) - [Proxmox Docker Containers Monster – 13000 containers on a single host](https://www.virtualizationhowto.com/2023/04/proxmox-docker-containers-monster-13000-containers-on-a-single-host/)
 * [2023-04-16, 13:43:24](https://news.ycombinator.com/item?id=35589967) - [The man who didn’t invent Flamin’ Hot Cheetos (2021)](https://www.latimes.com/business/story/2021-05-16/flamin-hot-cheetos-richard-montanez)
 * [2023-04-15, 19:00:43](https://news.ycombinator.com/item?id=35583525) - [Searching for Lost Time in the World’s Most Beautiful Calendar](https://www.nytimes.com/interactive/2023/04/14/arts/design/tres-riches-heures-calendar.html)
 * [2023-04-15, 12:34:30](https://news.ycombinator.com/item?id=35580061) - [Geometry Central: library of data structures, algorithms for geometry processing](https://geometry-central.net/)
-* [2023-04-15, 07:21:43](https://news.ycombinator.com/item?id=35578425) - [What Goes Around Comes Around (2004) [pdf]](https://people.cs.umass.edu/~yanlei/courses/CS691LL-f06/papers/SH05.pdf)
 
 ## [Archives](archives/index.md)
 
