@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-17, 15:22:26](https://news.ycombinator.com/item?id=35602117) - [Cheap RISC-V Supercuster for $2 (DIY, CH32V003)](https://www.youtube.com/watch?v=6QRKpd28NEE)
 * [2023-04-17, 15:11:03](https://news.ycombinator.com/item?id=35601958) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
 * [2023-04-17, 14:21:21](https://news.ycombinator.com/item?id=35601128) - [DuckDuckGo’s building AI-generated answers into its search engine](https://www.theverge.com/2023/3/8/23629095/duckduckgo-ai-answers-browser-app-extension-search)
 * [2023-04-17, 14:07:19](https://news.ycombinator.com/item?id=35600882) - [Apple Card’s new high-yield Savings account is now available, offering a 4.15 p](https://www.apple.com/newsroom/2023/04/apple-cards-new-high-yield-savings-account-is-now-available-offering-a-4-point-15-percent-apy/)
@@ -12,6 +11,7 @@
 * [2023-04-17, 11:40:39](https://news.ycombinator.com/item?id=35599315) - [iOS 17 will reportedly set the stage for sideloading apps on iPhone](https://techcrunch.com/2023/04/17/ios-17-will-reportedly-set-the-stage-for-sideloading-apps-on-iphone/)
 * [2023-04-17, 11:15:46](https://news.ycombinator.com/item?id=35599181) - [Sold a Story: How Teaching Kids to Read Went So Wrong](https://features.apmreports.org/sold-a-story/)
 * [2023-04-17, 10:42:13](https://news.ycombinator.com/item?id=35598975) - [Why most of us won&#x27;t be inventing little languages](http://slesinsky.org/brian/code/little_languages.html)
+* [2023-04-17, 10:01:01](https://news.ycombinator.com/item?id=35598710) - [Linuxwave: Generate Music from the Entropy of Linux](https://github.com/orhun/linuxwave)
 * [2023-04-17, 08:56:07](https://news.ycombinator.com/item?id=35598281) - [MiniGPT-4](https://minigpt-4.github.io/)
 * [2023-04-17, 07:49:48](https://news.ycombinator.com/item?id=35597854) - [OpenBSD: Malloc leak detection available in -current](https://www.undeadly.org/cgi?action=article;sid=20230417074903)
 * [2023-04-17, 06:57:31](https://news.ycombinator.com/item?id=35597540) - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
