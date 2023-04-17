@@ -6,6 +6,7 @@
 
 * [2023-04-17, 14:22:40](https://news.ycombinator.com/item?id=35601147) - [KitKat ribs AI in hilarious new ad campaign](https://www.creativebloq.com/news/kit-kat-ai-ad)
 * [2023-04-17, 14:07:19](https://news.ycombinator.com/item?id=35600882) - [Apple Card’s new high-yield Savings account is now available, offering a 4.15 p](https://www.apple.com/newsroom/2023/04/apple-cards-new-high-yield-savings-account-is-now-available-offering-a-4-point-15-percent-apy/)
+* [2023-04-17, 14:05:09](https://news.ycombinator.com/item?id=35600860) - [RedPajama: Reproduction of Llama with Friendly License (Stanford, MILA Quebec)](https://www.together.xyz/blog/redpajama)
 * [2023-04-17, 14:03:46](https://news.ycombinator.com/item?id=35600839) - [Steve Jobs in Entrepreneurs Documentary on PBS (1986)](https://www.youtube.com/watch?v=rvvfYRbhXR4)
 * [2023-04-17, 13:35:36](https://news.ycombinator.com/item?id=35600477) - [We Don’t Know Enough About the Pornhub Acquisition](https://every.to/napkin-math/we-don-t-know-enough-about-the-pornhub-sale)
 * [2023-04-17, 13:34:41](https://news.ycombinator.com/item?id=35600463) - [AI-generated Drake and The Weeknd song goes viral](https://www.bbc.co.uk/news/entertainment-arts-65298834)

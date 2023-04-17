@@ -2,6 +2,7 @@
 
 * [2023-04-17, 14:22:40](https://news.ycombinator.com/item?id=35601147) - [KitKat ribs AI in hilarious new ad campaign](https://www.creativebloq.com/news/kit-kat-ai-ad)
 * [2023-04-17, 14:07:19](https://news.ycombinator.com/item?id=35600882) - [Apple Card’s new high-yield Savings account is now available, offering a 4.15 p](https://www.apple.com/newsroom/2023/04/apple-cards-new-high-yield-savings-account-is-now-available-offering-a-4-point-15-percent-apy/)
+* [2023-04-17, 14:05:09](https://news.ycombinator.com/item?id=35600860) - [RedPajama: Reproduction of Llama with Friendly License (Stanford, MILA Quebec)](https://www.together.xyz/blog/redpajama)
 * [2023-04-17, 13:34:41](https://news.ycombinator.com/item?id=35600463) - [A song that uses AI to clone the voices of Drake and The Weeknd has gone viral](https://www.bbc.co.uk/news/entertainment-arts-65298834)
 * [2023-04-17, 13:09:53](https://news.ycombinator.com/item?id=35600087) - [Google in shock as Samsung considers moving to Bing as default search engine](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
 * [2023-04-17, 12:49:12](https://news.ycombinator.com/item?id=35599884) - [Firmware is on shaky ground – let&#x27;s see what it&#x27;s made of](https://www.theregister.com/2023/04/17/opinion_column/)
@@ -12,7 +13,6 @@
 * [2023-04-17, 10:42:13](https://news.ycombinator.com/item?id=35598975) - [Why most of us won&#x27;t be inventing little languages](http://slesinsky.org/brian/code/little_languages.html)
 * [2023-04-17, 08:56:07](https://news.ycombinator.com/item?id=35598281) - [MiniGPT-4](https://minigpt-4.github.io/)
 * [2023-04-17, 07:49:48](https://news.ycombinator.com/item?id=35597854) - [OpenBSD: Malloc leak detection available in -current](https://www.undeadly.org/cgi?action=article;sid=20230417074903)
-* [2023-04-17, 07:34:08](https://news.ycombinator.com/item?id=35597764) - [Starship Flight Test [video]](https://www.youtube.com/watch?v=L5QXreqOrTA)
 * [2023-04-17, 06:57:31](https://news.ycombinator.com/item?id=35597540) - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
 * [2023-04-17, 06:48:26](https://news.ycombinator.com/item?id=35597493) - [Nintendo Is Taking Down My Videos [video]](https://www.youtube.com/watch?v=FSZYpDk9Xm8)
 * [2023-04-17, 05:31:12](https://news.ycombinator.com/item?id=35597152) - [Microsoft deleted the public support forums for SwiftKey](https://mastodon.social/@mcc/110209163620520535)
