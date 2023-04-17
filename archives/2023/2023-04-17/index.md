@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 17:41:06](https://news.ycombinator.com/item?id=35603973) - [Neobuthus Factorio](https://en.wikipedia.org/wiki/Neobuthus_factorio)
 * [2023-04-17, 17:32:28](https://news.ycombinator.com/item?id=35603845) - [Depositors pull nearly $60B from three US banks as Apple raises pressure](https://www.ft.com/content/7bebe3d8-0b6f-417a-b531-6690c0f834b3)
 * [2023-04-17, 17:30:32](https://news.ycombinator.com/item?id=35603819) - [New 3D Printable Search Engine](https://www.printablesearch.com)
 * [2023-04-17, 17:02:08](https://news.ycombinator.com/item?id=35603511) - [Codegraph – static code analyzator &#x2F; code diagramer](https://github.com/xnuinside/codegraph)
 * [2023-04-17, 17:00:51](https://news.ycombinator.com/item?id=35603491) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 * [2023-04-17, 16:57:54](https://news.ycombinator.com/item?id=35603457) - [AWS staff spending ‘much of their time ’optimizing customers&#x27; clouds&#x27;](https://www.theregister.com/2023/04/17/amazon_annual_shareholder_letter_aws/)
+* [2023-04-17, 16:37:41](https://news.ycombinator.com/item?id=35603181) - [A Forty-Year Career](https://lethain.com/forty-year-career/)
 * [2023-04-17, 16:36:17](https://news.ycombinator.com/item?id=35603168) - [Apple, Goldman Sachs Debut Savings Account with 4.15% Annual Yield](https://www.bloomberg.com/news/articles/2023-04-17/apple-goldman-debut-savings-account-with-4-15-annual-yield)
 * [2023-04-17, 16:23:03](https://news.ycombinator.com/item?id=35602983) - [The Inner Workings of Distributed Databases](https://questdb.io/blog/inner-workings-distributed-databases/)
 * [2023-04-17, 15:37:02](https://news.ycombinator.com/item?id=35602342) - [Thought Examinations, Indoctrination Meetings and Struggle Sessions](https://www.falltide.com/p/jung-chang-mao-mechanics-of-terror)
@@ -54,6 +56,7 @@
 * [2023-04-17, 02:26:48](https://news.ycombinator.com/item?id=35596231) - [History of Kites](https://www.kite.org/about-kites/history-of-kites/)
 * [2023-04-17, 02:17:27](https://news.ycombinator.com/item?id=35596180) - [Where do nutrition labels come from? (2022)](https://daily.jstor.org/where-do-nutrition-labels-come-from/)
 * [2023-04-17, 02:14:10](https://news.ycombinator.com/item?id=35596166) - [A hyper-fast local vector database for use with LLM Agents](https://github.com/jdagdelen/hyperDB)
+* [2023-04-17, 02:06:43](https://news.ycombinator.com/item?id=35596107) - [Dolphin Bow-Riding (2009)](https://www.sciencedirect.com/science/article/pii/B9780123735539000377)
 * [2023-04-17, 01:44:40](https://news.ycombinator.com/item?id=35595967) - [DevOps Threat Matrix](https://security-blog-prod-wp01.azurewebsites.net/en-us/security/blog/2023/04/06/devops-threat-matrix/)
 * [2023-04-17, 01:37:10](https://news.ycombinator.com/item?id=35595906) - [Chalmers: Is there a canonical source for “the argument for AGI ruin” somewhere](https://twitter.com/davidchalmers42/status/1647333812584562688)
 * [2023-04-17, 01:24:49](https://news.ycombinator.com/item?id=35595808) - [A Simple Calculus Exercise](https://blog.plover.com/math/se/calculus-exercise.html)
