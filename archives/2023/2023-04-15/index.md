@@ -65,6 +65,7 @@
 * [2023-04-15, 13:56:58](https://news.ycombinator.com/item?id=35580684) - [A Mechanism for Long Covid](https://mastodon.nl/@vickyvdtogt/110196805189572082)
 * [2023-04-15, 13:56:12](https://news.ycombinator.com/item?id=35580677) - [Teachers nationwide are flummoxed by students’ newfound chess obsession](https://www.washingtonpost.com/education/2023/04/15/school-chess-class-clubs/)
 * [2023-04-15, 13:20:30](https://news.ycombinator.com/item?id=35580393) - [Ask HN: What&#x27;s your residential Internet speed and cost?](https://news.ycombinator.com/item?id=35580393)
+* [2023-04-15, 12:34:30](https://news.ycombinator.com/item?id=35580061) - [Geometry Central: library of data structures, algorithms for geometry processing](https://geometry-central.net/)
 * [2023-04-15, 12:12:55](https://news.ycombinator.com/item?id=35579891) - [Meta faces ‘morale crisis’ as top execs work from other countries during layoffs](https://nypost.com/2023/04/13/meta-faces-morale-crisis-as-top-execs-work-from-other-countries-during-layoffs-report/)
 * [2023-04-15, 12:11:19](https://news.ycombinator.com/item?id=35579876) - [Hypervisor Development in Rust](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
 * [2023-04-15, 11:29:34](https://news.ycombinator.com/item?id=35579635) - [Germany Quits Nuclear Power, Ending a Decades-Long Struggle](https://www.nytimes.com/2023/04/14/world/europe/germany-nuclear-power-plants.html)
