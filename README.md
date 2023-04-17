@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-17, 04:07:26](https://news.ycombinator.com/item?id=35596748) - [Booting Modern Intel CPUs](https://mjg59.dreamwidth.org/66109.html)
 * [2023-04-17, 03:16:18](https://news.ycombinator.com/item?id=35596502) - [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
 * [2023-04-17, 02:34:21](https://news.ycombinator.com/item?id=35596267) - [Build and deploy 5G network with open-source software and off-the-shelf hardware](https://rs-ojict.pubpub.org/pub/lqhigiva/release/2)
 * [2023-04-17, 01:24:49](https://news.ycombinator.com/item?id=35595808) - [I liked this simple calculus exercise](https://blog.plover.com/math/se/calculus-exercise.html)
-* [2023-04-17, 01:15:33](https://news.ycombinator.com/item?id=35595745) - [ATC staff shortages: 11,000 flights cut from NYC and DCA in summer 2023](https://www.flyertalk.com/articles/over-11000-flights-cut-from-new-york-and-washington-schedules-for-summer-2023.html)
 * [2023-04-17, 00:51:08](https://news.ycombinator.com/item?id=35595592) - [A Journey Through Color Space with FFmpeg](https://canvatechblog.com/a-journey-through-color-space-with-ffmpeg-3a129bfd9b05)
 * [2023-04-16, 23:17:13](https://news.ycombinator.com/item?id=35595071) - [Constraint Programming (2020)](https://mareknarozniak.com/2020/06/22/constraint-programming/)
 * [2023-04-16, 23:07:22](https://news.ycombinator.com/item?id=35595026) - [&#x27;Algebra for none&#x27; fails in San Francisco](https://www.joannejacobs.com/post/algebra-for-none-fails-in-san-francisco)
