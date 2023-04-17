@@ -29,6 +29,7 @@
 * [2023-04-16, 16:15:18](https://news.ycombinator.com/item?id=35591338) - [The lessons from America’s astonishing economic record](https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record)
 * [2023-04-16, 16:15:17](https://news.ycombinator.com/item?id=35591337) - [Peak LLM](https://ihavemanythoughts.substack.com/p/peak-llm)
 * [2023-04-16, 16:14:25](https://news.ycombinator.com/item?id=35591327) - [SpaceX&#x27;s First Starship Launch Tomorrow](https://www.space.com/spacex-starship-rocket-super-heavy-launch-what-time)
+* [2023-04-16, 15:49:15](https://news.ycombinator.com/item?id=35591063) - [Tooll 3: open-source software to create realtime motion graphics](https://github.com/still-scene/t3)
 * [2023-04-16, 15:45:39](https://news.ycombinator.com/item?id=35591026) - [Conway’s Law](https://martinfowler.com/bliki/ConwaysLaw.html)
 * [2023-04-16, 15:45:11](https://news.ycombinator.com/item?id=35591019) - [Prince Rupert&#x27;s Drop vs Molten Glas](https://www.youtube.com/watch?v=C1KT8PS6Zs4)
 * [2023-04-16, 15:22:03](https://news.ycombinator.com/item?id=35590734) - [De-Stressing Booking.com](https://www.alexcharlton.co/projects/booking-com-de-stresser)
