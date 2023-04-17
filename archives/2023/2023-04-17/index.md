@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 13:35:36](https://news.ycombinator.com/item?id=35600477) - [We Don’t Know Enough About the Pornhub Acquisition](https://every.to/napkin-math/we-don-t-know-enough-about-the-pornhub-sale)
+* [2023-04-17, 13:34:41](https://news.ycombinator.com/item?id=35600463) - [AI-generated Drake and The Weeknd song goes viral](https://www.bbc.co.uk/news/entertainment-arts-65298834)
 * [2023-04-17, 13:09:53](https://news.ycombinator.com/item?id=35600087) - [Google in shock as Samsung considers moving to Bing as default search engine](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
+* [2023-04-17, 12:49:12](https://news.ycombinator.com/item?id=35599884) - [Firmware is on shaky ground – let&#x27;s see what it&#x27;s made of](https://www.theregister.com/2023/04/17/opinion_column/)
 * [2023-04-17, 12:40:29](https://news.ycombinator.com/item?id=35599814) - [12-year-olds can&#x27;t buy cigarettes – but they can work in tobacco fields](https://www.npr.org/2023/04/17/1168824035/child-labor-tobacco-legal-dangerous)
 * [2023-04-17, 12:00:18](https://news.ycombinator.com/item?id=35599474) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-04-17, 11:47:06](https://news.ycombinator.com/item?id=35599363) - [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
