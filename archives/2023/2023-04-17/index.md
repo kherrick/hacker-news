@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 12:00:18](https://news.ycombinator.com/item?id=35599474) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+* [2023-04-17, 11:47:06](https://news.ycombinator.com/item?id=35599363) - [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
 * [2023-04-17, 11:23:09](https://news.ycombinator.com/item?id=35599205) - [Monet&#x27;s dreamy haze was pollution, study finds](https://www.cnn.com/style/article/monet-haze-air-pollution-study-scn/index.html)
 * [2023-04-17, 11:15:46](https://news.ycombinator.com/item?id=35599181) - [Sold a Story: How Teaching Kids to Read Went So Wrong](https://features.apmreports.org/sold-a-story/)
+* [2023-04-17, 11:05:51](https://news.ycombinator.com/item?id=35599118) - [Ask HN: Is PostgreSQL better than MySQL?](https://news.ycombinator.com/item?id=35599118)
 * [2023-04-17, 10:42:13](https://news.ycombinator.com/item?id=35598975) - [Why most of us won&#x27;t be inventing little languages](http://slesinsky.org/brian/code/little_languages.html)
 * [2023-04-17, 09:49:17](https://news.ycombinator.com/item?id=35598625) - [Peoplebox (YC S22) is hiring a Back end Engineer](https://www.ycombinator.com/companies/peoplebox/jobs/K2iFg3S-backend-engineer-rails)
 * [2023-04-17, 09:26:30](https://news.ycombinator.com/item?id=35598472) - [Your.Online: Gandi continues its development](https://news.gandi.net/en/2023/03/your-online-gandi-continues-its-development/)
