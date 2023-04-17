@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 23:43:41](https://news.ycombinator.com/item?id=35585789) - [A Community-Contributed Cellular Coverage Map](https://coveragemap.com/)
 * [2023-04-15, 22:43:13](https://news.ycombinator.com/item?id=35585383) - [Donkey Kong Recreated Using 6,400 Post-it Notes (2007)](http://alumni.soe.ucsc.edu/~inio/dk/)
 * [2023-04-15, 22:19:26](https://news.ycombinator.com/item?id=35585174) - [Google CEO: “can we change the setting of this group to history-off” [pdf]](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
 * [2023-04-15, 22:13:04](https://news.ycombinator.com/item?id=35585117) - [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
