@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=35596267"
     ],
     [
-      "Build and Deploy 5G Network with Open-Source Software and Off-the-Shelf Hardware",
+      "Build and deploy 5G network with open-source software and off-the-shelf hardware",
       "https://rs-ojict.pubpub.org/pub/lqhigiva/release/2"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 01:44:40",
-      "https://news.ycombinator.com/item?id=35595967"
-    ],
-    [
-      "DevOps Threat Matrix",
-      "https://security-blog-prod-wp01.azurewebsites.net/en-us/security/blog/2023/04/06/devops-threat-matrix/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Experiments with plane-filling curves and Fourier transform",
       "https://github.com/dmishin/fft-image-experiments"
+    ]
+  ],
+  [
+    [
+      "2023-04-16, 14:04:29",
+      "https://news.ycombinator.com/item?id=35590129"
+    ],
+    [
+      "Clean front end architecture with SvelteKit",
+      "https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/"
     ]
   ],
   [
