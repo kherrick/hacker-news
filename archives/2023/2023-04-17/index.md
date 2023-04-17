@@ -43,6 +43,7 @@
 * [2023-04-17, 03:16:18](https://news.ycombinator.com/item?id=35596502) - [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
 * [2023-04-17, 02:34:21](https://news.ycombinator.com/item?id=35596267) - [Build and Deploy 5G Network with Open-Source Software and Off-the-Shelf Hardware](https://rs-ojict.pubpub.org/pub/lqhigiva/release/2)
 * [2023-04-17, 02:26:48](https://news.ycombinator.com/item?id=35596231) - [History of Kites](https://www.kite.org/about-kites/history-of-kites/)
+* [2023-04-17, 02:17:27](https://news.ycombinator.com/item?id=35596180) - [Where do nutrition labels come from? (2022)](https://daily.jstor.org/where-do-nutrition-labels-come-from/)
 * [2023-04-17, 02:14:10](https://news.ycombinator.com/item?id=35596166) - [A hyper-fast local vector database for use with LLM Agents](https://github.com/jdagdelen/hyperDB)
 * [2023-04-17, 01:44:40](https://news.ycombinator.com/item?id=35595967) - [DevOps Threat Matrix](https://security-blog-prod-wp01.azurewebsites.net/en-us/security/blog/2023/04/06/devops-threat-matrix/)
 * [2023-04-17, 01:37:10](https://news.ycombinator.com/item?id=35595906) - [Chalmers: Is there a canonical source for “the argument for AGI ruin” somewhere](https://twitter.com/davidchalmers42/status/1647333812584562688)
