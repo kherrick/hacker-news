@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-17, 18:50:40](https://news.ycombinator.com/item?id=35604867) - [Ask HN: What are some of the best ChatGPT Clients out there?](https://news.ycombinator.com/item?id=35604867)
+* [2023-04-17, 19:06:23](https://news.ycombinator.com/item?id=35605062) - [Valve Releases Proton 8.0-1c](https://github.com/ValveSoftware/Proton/releases/tag/proton-8.0-1c)
+* [2023-04-17, 18:58:30](https://news.ycombinator.com/item?id=35604974) - [Name-based demographic inference and the unequal distribution of misrecognition](https://www.nature.com/articles/s41562-023-01587-9)
 * [2023-04-17, 17:41:06](https://news.ycombinator.com/item?id=35603973) - [Neobuthus Factorio](https://en.wikipedia.org/wiki/Neobuthus_factorio)
 * [2023-04-17, 17:30:32](https://news.ycombinator.com/item?id=35603819) - [New 3D Printable Search Engine](https://www.printablesearch.com)
 * [2023-04-17, 17:07:47](https://news.ycombinator.com/item?id=35603575) - [California Wants to Cover Its Canals with Solar Panels](https://www.nytimes.com/2023/04/13/us/california-solar-panels-canals.html)
@@ -9,7 +10,6 @@
 * [2023-04-17, 16:57:54](https://news.ycombinator.com/item?id=35603457) - [AWS staff spending ‘much of their time ’optimizing customers&#x27; clouds&#x27;](https://www.theregister.com/2023/04/17/amazon_annual_shareholder_letter_aws/)
 * [2023-04-17, 16:52:09](https://news.ycombinator.com/item?id=35603376) - [VW, Rivian, Nissan, BMW lose access to U.S. EV tax credits](https://finance.yahoo.com/news/vw-rivian-nissan-bmw-lose-140645246.html)
 * [2023-04-17, 16:37:41](https://news.ycombinator.com/item?id=35603181) - [A Forty-Year Career](https://lethain.com/forty-year-career/)
-* [2023-04-17, 16:36:17](https://news.ycombinator.com/item?id=35603168) - [Apple, Goldman Sachs Debut Savings Account with 4.15% Annual Yield](https://www.bloomberg.com/news/articles/2023-04-17/apple-goldman-debut-savings-account-with-4-15-annual-yield)
 * [2023-04-17, 16:23:03](https://news.ycombinator.com/item?id=35602983) - [The Inner Workings of Distributed Databases](https://questdb.io/blog/inner-workings-distributed-databases/)
 * [2023-04-17, 15:37:02](https://news.ycombinator.com/item?id=35602342) - [Thought Examinations, Indoctrination Meetings and Struggle Sessions](https://www.falltide.com/p/jung-chang-mao-mechanics-of-terror)
 * [2023-04-17, 15:11:03](https://news.ycombinator.com/item?id=35601958) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
