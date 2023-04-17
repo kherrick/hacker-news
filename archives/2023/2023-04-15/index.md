@@ -44,6 +44,7 @@
 * [2023-04-15, 16:57:22](https://news.ycombinator.com/item?id=35582350) - [Long Covid Appears to Have Led to a Surge of Disabled in the Workplace (2022)](https://libertystreeteconomics.newyorkfed.org/2022/10/long-covid-appears-to-have-led-to-a-surge-of-the-disabled-in-the-workplace/)
 * [2023-04-15, 16:27:59](https://news.ycombinator.com/item?id=35582084) - [Generalizations of Fourier Analysis](http://gabarro.org/ccn/gen_fourier.html)
 * [2023-04-15, 16:27:35](https://news.ycombinator.com/item?id=35582079) - [Exercism – learn 67 programming languages for free](https://exercism.org/)
+* [2023-04-15, 15:56:03](https://news.ycombinator.com/item?id=35581792) - [How Bowling Balls Are Made [video]](https://www.youtube.com/watch?v=JfKrpxBbRhU)
 * [2023-04-15, 15:54:07](https://news.ycombinator.com/item?id=35581768) - [Hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
 * [2023-04-15, 15:43:28](https://news.ycombinator.com/item?id=35581654) - [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
 * [2023-04-15, 15:39:56](https://news.ycombinator.com/item?id=35581615) - [Stanford Medicine study: tiny DNA circles are key drivers of cancer](https://med.stanford.edu/news/all-news/2023/04/ecDNA-cancer.html?sf176823295=1)
