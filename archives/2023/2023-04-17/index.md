@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 17:00:51](https://news.ycombinator.com/item?id=35603491) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+* [2023-04-17, 15:37:02](https://news.ycombinator.com/item?id=35602342) - [Thought Examinations, Indoctrination Meetings and Struggle Sessions](https://www.falltide.com/p/jung-chang-mao-mechanics-of-terror)
 * [2023-04-17, 15:24:36](https://news.ycombinator.com/item?id=35602150) - [The Toxic Reality of a Post-Familial Society](https://aaronrenn.substack.com/p/newsletter-75-the-toxic-reality-of)
 * [2023-04-17, 15:22:26](https://news.ycombinator.com/item?id=35602117) - [Cheap RISC-V Supercuster for $2 (DIY, CH32V003)](https://www.youtube.com/watch?v=6QRKpd28NEE)
 * [2023-04-17, 15:11:03](https://news.ycombinator.com/item?id=35601958) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
