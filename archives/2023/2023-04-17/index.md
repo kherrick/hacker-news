@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 06:48:26](https://news.ycombinator.com/item?id=35597493) - [Nintendo Is Taking Down My Videos [video]](https://www.youtube.com/watch?v=FSZYpDk9Xm8)
 * [2023-04-17, 05:31:12](https://news.ycombinator.com/item?id=35597152) - [Microsoft deleted the public support forums for SwiftKey](https://mastodon.social/@mcc/110209163620520535)
 * [2023-04-17, 04:52:16](https://news.ycombinator.com/item?id=35596959) - [I made my blog solar-powered, then things escalated](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
 * [2023-04-17, 04:07:26](https://news.ycombinator.com/item?id=35596748) - [Booting Modern Intel CPUs](https://mjg59.dreamwidth.org/66109.html)
