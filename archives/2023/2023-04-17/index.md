@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 21:10:56](https://news.ycombinator.com/item?id=35606642) - [Missouri House Republicans vote to defund libraries](https://heartlandsignal.com/2023/04/11/missouri-house-republicans-vote-to-defund-libraries/)
 * [2023-04-17, 21:01:46](https://news.ycombinator.com/item?id=35606563) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-04-17, 20:48:20](https://news.ycombinator.com/item?id=35606413) - [Japan Has Millions of Empty Houses. Want to Buy One for $25,000?](https://www.nytimes.com/2023/04/17/realestate/japan-empty-houses.html)
 * [2023-04-17, 19:46:52](https://news.ycombinator.com/item?id=35605602) - [Draculas, Ranked](https://www.vulture.com/article/dracula-movie-performances-ranked.html)
 * [2023-04-17, 19:34:14](https://news.ycombinator.com/item?id=35605412) - [Coworking from Home](https://www.bbc.com/worklife/article/20230413-home-coworking-spaces-with-friends)
 * [2023-04-17, 19:26:54](https://news.ycombinator.com/item?id=35605323) - [New blog post from StackOverflow&#x27;s CEO Prashanth: Community is the future of AI](https://meta.stackexchange.com/questions/388401/new-blog-post-from-our-ceo-prashanth-community-is-the-future-of-ai)
