@@ -23,7 +23,7 @@
 * [2023-04-16, 17:50:35](https://news.ycombinator.com/item?id=35592439) - [Space Invaders creator reveals game’s origin story](https://www.wired.com/story/space-invaders-45-years-tomohiro-nishikado/)
 * [2023-04-16, 16:15:18](https://news.ycombinator.com/item?id=35591338) - [Lessons from America’s astonishing economic record](https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record)
 * [2023-04-16, 15:49:15](https://news.ycombinator.com/item?id=35591063) - [Tooll 3: open-source software to create realtime motion graphics](https://github.com/still-scene/t3)
-* [2023-04-16, 15:45:39](https://news.ycombinator.com/item?id=35591026) - [Conway’s Law](https://martinfowler.com/bliki/ConwaysLaw.html)
+* [2023-04-16, 15:45:39](https://news.ycombinator.com/item?id=35591026) - [Conway’s Law (2022)](https://martinfowler.com/bliki/ConwaysLaw.html)
 * [2023-04-16, 15:45:11](https://news.ycombinator.com/item?id=35591019) - [Prince Rupert&#x27;s Drop vs Molten Glas [video]](https://www.youtube.com/watch?v=C1KT8PS6Zs4)
 * [2023-04-16, 15:22:03](https://news.ycombinator.com/item?id=35590734) - [De-Stressing Booking.com](https://www.alexcharlton.co/projects/booking-com-de-stresser)
 * [2023-04-16, 14:04:29](https://news.ycombinator.com/item?id=35590129) - [Clean front end architecture with SvelteKit](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/)
