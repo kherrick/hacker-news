@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 13:09:53](https://news.ycombinator.com/item?id=35600087) - [Google in shock as Samsung considers moving to Bing as default search engine](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
 * [2023-04-17, 12:40:29](https://news.ycombinator.com/item?id=35599814) - [12-year-olds can&#x27;t buy cigarettes – but they can work in tobacco fields](https://www.npr.org/2023/04/17/1168824035/child-labor-tobacco-legal-dangerous)
 * [2023-04-17, 12:00:18](https://news.ycombinator.com/item?id=35599474) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-04-17, 11:47:06](https://news.ycombinator.com/item?id=35599363) - [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
