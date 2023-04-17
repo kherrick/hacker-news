@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 21:11:13](https://news.ycombinator.com/item?id=35606645) - [The Cybertruck is years behind schedule, so Tesla is launching a $30 beer](https://www.fastcompany.com/90879768/cybertruck-behind-schedule-tesla-beer-gigabier)
 * [2023-04-17, 21:10:56](https://news.ycombinator.com/item?id=35606642) - [Missouri House Republicans vote to defund libraries](https://heartlandsignal.com/2023/04/11/missouri-house-republicans-vote-to-defund-libraries/)
 * [2023-04-17, 21:01:46](https://news.ycombinator.com/item?id=35606563) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-04-17, 20:57:30](https://news.ycombinator.com/item?id=35606519) - [Indian government empowers itself to “fact check,” delete social media posts](https://restofworld.org/2023/indian-government-fact-check-delete-social-media/)
@@ -44,6 +45,7 @@
 * [2023-04-17, 14:03:46](https://news.ycombinator.com/item?id=35600839) - [Steve Jobs in Entrepreneurs Documentary on PBS (1986)](https://www.youtube.com/watch?v=rvvfYRbhXR4)
 * [2023-04-17, 13:35:36](https://news.ycombinator.com/item?id=35600477) - [We Don’t Know Enough About the Pornhub Acquisition](https://every.to/napkin-math/we-don-t-know-enough-about-the-pornhub-sale)
 * [2023-04-17, 13:34:41](https://news.ycombinator.com/item?id=35600463) - [AI-generated Drake and The Weeknd song goes viral](https://www.bbc.co.uk/news/entertainment-arts-65298834)
+* [2023-04-17, 13:13:35](https://news.ycombinator.com/item?id=35600130) - [How do electrons find the “Path of Least Resistance”? [video]](https://www.youtube.com/watch?v=C3gnNpYK3lo)
 * [2023-04-17, 13:09:53](https://news.ycombinator.com/item?id=35600087) - [Google in shock as Samsung considers moving to Bing as default search engine](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
 * [2023-04-17, 12:49:12](https://news.ycombinator.com/item?id=35599884) - [Firmware is on shaky ground – let&#x27;s see what it&#x27;s made of](https://www.theregister.com/2023/04/17/opinion_column/)
 * [2023-04-17, 12:40:29](https://news.ycombinator.com/item?id=35599814) - [12-year-olds can&#x27;t buy cigarettes – but they can work in tobacco fields](https://www.npr.org/2023/04/17/1168824035/child-labor-tobacco-legal-dangerous)
