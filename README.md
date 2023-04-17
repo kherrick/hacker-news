@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-17, 21:51:02](https://news.ycombinator.com/item?id=35607113) - [Sweden starts largest military exercise in over 25 years](https://www.dw.com/en/sweden-starts-largest-military-exercise-in-over-25-years/a-65352455)
 * [2023-04-17, 21:11:13](https://news.ycombinator.com/item?id=35606645) - [The Cybertruck is years behind schedule, so Tesla is launching a $30 beer](https://www.fastcompany.com/90879768/cybertruck-behind-schedule-tesla-beer-gigabier)
 * [2023-04-17, 21:01:46](https://news.ycombinator.com/item?id=35606563) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-04-17, 20:57:30](https://news.ycombinator.com/item?id=35606519) - [Indian government empowers itself to “fact check,” delete social media posts](https://restofworld.org/2023/indian-government-fact-check-delete-social-media/)
@@ -18,7 +19,6 @@
 * [2023-04-17, 13:13:35](https://news.ycombinator.com/item?id=35600130) - [How do electrons find the “Path of Least Resistance”? [video]](https://www.youtube.com/watch?v=C3gnNpYK3lo)
 * [2023-04-17, 12:49:12](https://news.ycombinator.com/item?id=35599884) - [Firmware is on shaky ground – let&#x27;s see what it&#x27;s made of](https://www.theregister.com/2023/04/17/opinion_column/)
 * [2023-04-17, 11:47:06](https://news.ycombinator.com/item?id=35599363) - [Keep stuff linkable](https://animaomnium.github.io/keep-stuff-linkable/)
-* [2023-04-17, 11:40:39](https://news.ycombinator.com/item?id=35599315) - [iOS 17 will reportedly set the stage for sideloading apps on iPhone](https://techcrunch.com/2023/04/17/ios-17-will-reportedly-set-the-stage-for-sideloading-apps-on-iphone/)
 * [2023-04-17, 08:56:07](https://news.ycombinator.com/item?id=35598281) - [MiniGPT-4](https://minigpt-4.github.io/)
 * [2023-04-17, 08:08:24](https://news.ycombinator.com/item?id=35597994) - [There are no fees at America’s smallest bank](https://www.bloomberg.com/news/features/2023-04-13/america-s-smallest-bank-is-kentland-federal-savings-and-loan)
 * [2023-04-17, 07:49:48](https://news.ycombinator.com/item?id=35597854) - [OpenBSD: Malloc leak detection available in -current](https://www.undeadly.org/cgi?action=article;sid=20230417074903)
