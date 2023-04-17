@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 06:57:31](https://news.ycombinator.com/item?id=35597540) - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
 * [2023-04-17, 06:48:26](https://news.ycombinator.com/item?id=35597493) - [Nintendo Is Taking Down My Videos [video]](https://www.youtube.com/watch?v=FSZYpDk9Xm8)
 * [2023-04-17, 05:31:12](https://news.ycombinator.com/item?id=35597152) - [Microsoft deleted the public support forums for SwiftKey](https://mastodon.social/@mcc/110209163620520535)
+* [2023-04-17, 04:52:17](https://news.ycombinator.com/item?id=35596960) - [Soundini: Sound-Guided Diffusion for Natural Video Editing](https://kuai-lab.github.io/soundini-gallery/)
 * [2023-04-17, 04:52:16](https://news.ycombinator.com/item?id=35596959) - [I made my blog solar-powered, then things escalated](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
 * [2023-04-17, 04:07:26](https://news.ycombinator.com/item?id=35596748) - [Booting Modern Intel CPUs](https://mjg59.dreamwidth.org/66109.html)
 * [2023-04-17, 03:16:18](https://news.ycombinator.com/item?id=35596502) - [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
