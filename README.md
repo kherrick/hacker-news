@@ -4,7 +4,6 @@
 * [2023-04-17, 21:51:02](https://news.ycombinator.com/item?id=35607113) - [Sweden starts largest military exercise in over 25 years](https://www.dw.com/en/sweden-starts-largest-military-exercise-in-over-25-years/a-65352455)
 * [2023-04-17, 21:46:57](https://news.ycombinator.com/item?id=35607060) - [Show HN: Quorbo – a quick and quirky quest for the quote](https://quorbo.com)
 * [2023-04-17, 21:01:46](https://news.ycombinator.com/item?id=35606563) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-* [2023-04-17, 20:57:30](https://news.ycombinator.com/item?id=35606519) - [Indian government empowers itself to “fact check,” delete social media posts](https://restofworld.org/2023/indian-government-fact-check-delete-social-media/)
 * [2023-04-17, 20:28:10](https://news.ycombinator.com/item?id=35606138) - [Now, you can embed Mastodon posts in Medium stories](https://blog.medium.com/now-you-can-embed-mastodon-posts-in-medium-stories-99b11d0baa7f)
 * [2023-04-17, 19:09:43](https://news.ycombinator.com/item?id=35605106) - [Crooks’ mistaken bet on encrypted phones](https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones)
 * [2023-04-17, 18:58:30](https://news.ycombinator.com/item?id=35604974) - [Name-based demographic inference and the unequal distribution of misrecognition](https://www.nature.com/articles/s41562-023-01587-9)
@@ -30,6 +29,7 @@
 * [2023-04-16, 07:19:56](https://news.ycombinator.com/item?id=35587981) - [OpenSSH versus SSH](https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHVersusSSH)
 * [2023-04-15, 19:00:43](https://news.ycombinator.com/item?id=35583525) - [Searching for Lost Time in the World’s Most Beautiful Calendar](https://www.nytimes.com/interactive/2023/04/14/arts/design/tres-riches-heures-calendar.html)
 * [2023-04-15, 12:34:30](https://news.ycombinator.com/item?id=35580061) - [Geometry Central: library of data structures, algorithms for geometry processing](https://geometry-central.net/)
+* [2023-04-15, 08:35:20](https://news.ycombinator.com/item?id=35578765) - [Laser cutting Doom WAD maps](https://theor.xyz/doom-maps-laser-cut/)
 
 ## [Archives](archives/index.md)
 

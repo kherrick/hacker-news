@@ -75,6 +75,7 @@
 * [2023-04-15, 10:08:44](https://news.ycombinator.com/item?id=35579173) - [The United States Tested Biological Warfare on Its Own Citizens](http://www.todayifoundout.com/index.php/2023/04/that-time-the-united-states-tested-biological-warfare-on-its-own-citizens/)
 * [2023-04-15, 10:04:27](https://news.ycombinator.com/item?id=35579154) - [How many floating-point numbers are in the interval [0,1]? (2017)](https://lemire.me/blog/2017/02/28/how-many-floating-point-numbers-are-in-the-interval-01/)
 * [2023-04-15, 09:41:35](https://news.ycombinator.com/item?id=35579061) - [The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s](https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html)
+* [2023-04-15, 08:35:20](https://news.ycombinator.com/item?id=35578765) - [Laser cutting Doom WAD maps](https://theor.xyz/doom-maps-laser-cut/)
 * [2023-04-15, 08:11:42](https://news.ycombinator.com/item?id=35578668) - [Apollo 13 in Real Time](https://apolloinrealtime.org/13/)
 * [2023-04-15, 07:28:44](https://news.ycombinator.com/item?id=35578454) - [Appleseed – open-source, physically-based global illumination rendering engine](https://appleseedhq.net/)
 * [2023-04-15, 07:21:43](https://news.ycombinator.com/item?id=35578425) - [What Goes Around Comes Around (2004) [pdf]](https://people.cs.umass.edu/~yanlei/courses/CS691LL-f06/papers/SH05.pdf)
