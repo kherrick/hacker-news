@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-17, 02:14:10](https://news.ycombinator.com/item?id=35596166) - [A hyper-fast local vector database for use with LLM Agents](https://github.com/jdagdelen/hyperDB)
+* [2023-04-17, 01:37:10](https://news.ycombinator.com/item?id=35595906) - [Chalmers: Is there a canonical source for “the argument for AGI ruin” somewhere](https://twitter.com/davidchalmers42/status/1647333812584562688)
 * [2023-04-17, 01:24:49](https://news.ycombinator.com/item?id=35595808) - [A Simple Calculus Exercise](https://blog.plover.com/math/se/calculus-exercise.html)
 * [2023-04-17, 01:15:33](https://news.ycombinator.com/item?id=35595745) - [ATC staff shortages: 11,000 Flights Cut from NYC and DCA in Summer 2023](https://www.flyertalk.com/articles/over-11000-flights-cut-from-new-york-and-washington-schedules-for-summer-2023.html)
 * [2023-04-17, 00:37:38](https://news.ycombinator.com/item?id=35595512) - [Building a Blog with Next.js 13 and React Server Components](https://maxleiter.com/blog/build-a-blog-with-nextjs-13)
@@ -23,7 +24,6 @@
 * [2023-04-16, 14:43:18](https://news.ycombinator.com/item?id=35590429) - [Experiments with plane-filling curves and Fourier transform](https://github.com/dmishin/fft-image-experiments)
 * [2023-04-16, 13:33:52](https://news.ycombinator.com/item?id=35589909) - [The Battle over Techno’s Origins](https://www.newyorker.com/culture/cultural-comment/the-battle-over-technos-origins)
 * [2023-04-16, 13:12:06](https://news.ycombinator.com/item?id=35589756) - [Understanding large language models: A cross-section of the relevant literature](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
-* [2023-04-16, 12:46:05](https://news.ycombinator.com/item?id=35589553) - [SafetyWing (YC W18) Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
 * [2023-04-16, 12:38:38](https://news.ycombinator.com/item?id=35589506) - [Build systems à la carte (2018)](https://dl.acm.org/doi/abs/10.1145/3236774)
 * [2023-04-16, 12:34:02](https://news.ycombinator.com/item?id=35589464) - [Who owns history? How historical footage is hidden and monetised [video]](https://aeon.co/videos/who-owns-history-how-remarkable-historical-footage-is-hidden-and-monetised)
 * [2023-04-16, 11:49:34](https://news.ycombinator.com/item?id=35589172) - [Pico3D: Open World 3D Game Engine for the PicoSystem (RP2040 Microcontroller)](https://github.com/bernhardstrobl/Pico3D)
