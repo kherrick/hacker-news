@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-17, 03:16:18](https://news.ycombinator.com/item?id=35596502) - [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
-* [2023-04-17, 02:34:21](https://news.ycombinator.com/item?id=35596267) - [Build and Deploy 5G Network with Open-Source Software and Off-the-Shelf Hardware](https://rs-ojict.pubpub.org/pub/lqhigiva/release/2)
-* [2023-04-17, 01:44:40](https://news.ycombinator.com/item?id=35595967) - [DevOps Threat Matrix](https://security-blog-prod-wp01.azurewebsites.net/en-us/security/blog/2023/04/06/devops-threat-matrix/)
+* [2023-04-17, 02:34:21](https://news.ycombinator.com/item?id=35596267) - [Build and deploy 5G network with open-source software and off-the-shelf hardware](https://rs-ojict.pubpub.org/pub/lqhigiva/release/2)
 * [2023-04-17, 01:24:49](https://news.ycombinator.com/item?id=35595808) - [I liked this simple calculus exercise](https://blog.plover.com/math/se/calculus-exercise.html)
 * [2023-04-17, 01:15:33](https://news.ycombinator.com/item?id=35595745) - [ATC staff shortages: 11,000 flights cut from NYC and DCA in summer 2023](https://www.flyertalk.com/articles/over-11000-flights-cut-from-new-york-and-washington-schedules-for-summer-2023.html)
 * [2023-04-17, 00:51:08](https://news.ycombinator.com/item?id=35595592) - [A Journey Through Color Space with FFmpeg](https://canvatechblog.com/a-journey-through-color-space-with-ffmpeg-3a129bfd9b05)
@@ -24,6 +23,7 @@
 * [2023-04-16, 15:22:03](https://news.ycombinator.com/item?id=35590734) - [De-Stressing Booking.com](https://www.alexcharlton.co/projects/booking-com-de-stresser)
 * [2023-04-16, 15:17:15](https://news.ycombinator.com/item?id=35590699) - [Plain C API design, the real world Kobayashi Maru test](https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html)
 * [2023-04-16, 14:43:18](https://news.ycombinator.com/item?id=35590429) - [Experiments with plane-filling curves and Fourier transform](https://github.com/dmishin/fft-image-experiments)
+* [2023-04-16, 14:04:29](https://news.ycombinator.com/item?id=35590129) - [Clean front end architecture with SvelteKit](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/)
 * [2023-04-16, 13:33:52](https://news.ycombinator.com/item?id=35589909) - [The Battle over Techno’s Origins](https://www.newyorker.com/culture/cultural-comment/the-battle-over-technos-origins)
 * [2023-04-16, 13:12:06](https://news.ycombinator.com/item?id=35589756) - [Understanding large language models: A cross-section of the relevant literature](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 * [2023-04-16, 12:38:38](https://news.ycombinator.com/item?id=35589506) - [Build systems à la carte (2018)](https://dl.acm.org/doi/abs/10.1145/3236774)

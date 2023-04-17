@@ -42,6 +42,7 @@
 * [2023-04-16, 14:23:48](https://news.ycombinator.com/item?id=35590279) - [SpaceX&#x27;s Texas Rocket Is Going to Cause a Lot More Damage Than Anyone Thinks](https://blog.esghound.com/p/spacexs-texas-rocket-is-going-to)
 * [2023-04-16, 14:22:19](https://news.ycombinator.com/item?id=35590268) - [‘Stop or I’ll fire you’: the driver who defied Uber’s automated HR](https://www.theguardian.com/technology/2023/apr/16/stop-or-ill-fire-you-the-driver-who-defied-ubers-automated-hr)
 * [2023-04-16, 14:18:58](https://news.ycombinator.com/item?id=35590232) - [Is the US education system in a state of collapse, and what caused it?](https://old.reddit.com/r/Teachers/comments/1169v5z/is_the_us_education_system_in_a_state_of_collapse/)
+* [2023-04-16, 14:04:29](https://news.ycombinator.com/item?id=35590129) - [Clean front end architecture with SvelteKit](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/)
 * [2023-04-16, 13:56:27](https://news.ycombinator.com/item?id=35590062) - [WikiIndex, the wiki index of wikis, wiki people, wiki software, wiki farms, etc.](https://wikiindex.org/Welcome)
 * [2023-04-16, 13:50:03](https://news.ycombinator.com/item?id=35590017) - [CA Electric Bills on Income](https://ktla.com/news/local-news/california-power-companies-roll-out-fixed-rate-bill-proposal/)
 * [2023-04-16, 13:39:23](https://news.ycombinator.com/item?id=35589943) - [The Paratethys Sea was the largest lake in Earth’s history](https://bigthink.com/strange-maps/paratethys-sea/)
