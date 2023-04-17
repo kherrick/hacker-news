@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 09:26:30](https://news.ycombinator.com/item?id=35598472) - [Your.Online: Gandi continues its development](https://news.gandi.net/en/2023/03/your-online-gandi-continues-its-development/)
+* [2023-04-17, 09:15:26](https://news.ycombinator.com/item?id=35598400) - [Maintaining this site fucking sucks](https://zackproser.com/blog/maintaining-this-site-fucking-sucks)
 * [2023-04-17, 07:53:12](https://news.ycombinator.com/item?id=35597883) - [Rishi Sunak sets up review to tackle &#x27;anti-maths mindset&#x27;](https://www.bbc.co.uk/news/uk-politics-65293430)
 * [2023-04-17, 07:49:48](https://news.ycombinator.com/item?id=35597854) - [OpenBSD: Malloc leak detection available in -current](https://www.undeadly.org/cgi?action=article;sid=20230417074903)
 * [2023-04-17, 07:34:08](https://news.ycombinator.com/item?id=35597764) - [Orbital Test Launch of Starship in ~4 hours](https://www.youtube.com/watch?v=L5QXreqOrTA)
