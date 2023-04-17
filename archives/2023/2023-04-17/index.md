@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 15:11:03](https://news.ycombinator.com/item?id=35601958) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
 * [2023-04-17, 14:22:40](https://news.ycombinator.com/item?id=35601147) - [KitKat ribs AI in hilarious new ad campaign](https://www.creativebloq.com/news/kit-kat-ai-ad)
+* [2023-04-17, 14:21:21](https://news.ycombinator.com/item?id=35601128) - [DuckDuckGo’s building AI-generated answers into its search engine](https://www.theverge.com/2023/3/8/23629095/duckduckgo-ai-answers-browser-app-extension-search)
 * [2023-04-17, 14:07:19](https://news.ycombinator.com/item?id=35600882) - [Apple Card’s new high-yield Savings account is now available, offering a 4.15 p](https://www.apple.com/newsroom/2023/04/apple-cards-new-high-yield-savings-account-is-now-available-offering-a-4-point-15-percent-apy/)
 * [2023-04-17, 14:05:09](https://news.ycombinator.com/item?id=35600860) - [RedPajama: Reproduction of Llama with Friendly License (Stanford, MILA Quebec)](https://www.together.xyz/blog/redpajama)
 * [2023-04-17, 14:03:46](https://news.ycombinator.com/item?id=35600839) - [Steve Jobs in Entrepreneurs Documentary on PBS (1986)](https://www.youtube.com/watch?v=rvvfYRbhXR4)
@@ -37,6 +39,7 @@
 * [2023-04-17, 04:07:26](https://news.ycombinator.com/item?id=35596748) - [Booting Modern Intel CPUs](https://mjg59.dreamwidth.org/66109.html)
 * [2023-04-17, 03:16:18](https://news.ycombinator.com/item?id=35596502) - [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
 * [2023-04-17, 02:34:21](https://news.ycombinator.com/item?id=35596267) - [Build and Deploy 5G Network with Open-Source Software and Off-the-Shelf Hardware](https://rs-ojict.pubpub.org/pub/lqhigiva/release/2)
+* [2023-04-17, 02:26:48](https://news.ycombinator.com/item?id=35596231) - [History of Kites](https://www.kite.org/about-kites/history-of-kites/)
 * [2023-04-17, 02:14:10](https://news.ycombinator.com/item?id=35596166) - [A hyper-fast local vector database for use with LLM Agents](https://github.com/jdagdelen/hyperDB)
 * [2023-04-17, 01:44:40](https://news.ycombinator.com/item?id=35595967) - [DevOps Threat Matrix](https://security-blog-prod-wp01.azurewebsites.net/en-us/security/blog/2023/04/06/devops-threat-matrix/)
 * [2023-04-17, 01:37:10](https://news.ycombinator.com/item?id=35595906) - [Chalmers: Is there a canonical source for “the argument for AGI ruin” somewhere](https://twitter.com/davidchalmers42/status/1647333812584562688)
