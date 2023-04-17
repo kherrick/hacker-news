@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 17:32:28](https://news.ycombinator.com/item?id=35603845) - [Depositors pull nearly $60B from three US banks as Apple raises pressure](https://www.ft.com/content/7bebe3d8-0b6f-417a-b531-6690c0f834b3)
 * [2023-04-17, 17:02:08](https://news.ycombinator.com/item?id=35603511) - [Codegraph – static code analyzator &#x2F; code diagramer](https://github.com/xnuinside/codegraph)
 * [2023-04-17, 17:00:51](https://news.ycombinator.com/item?id=35603491) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 * [2023-04-17, 16:57:54](https://news.ycombinator.com/item?id=35603457) - [AWS staff spending ‘much of their time ’optimizing customers&#x27; clouds&#x27;](https://www.theregister.com/2023/04/17/amazon_annual_shareholder_letter_aws/)
 * [2023-04-17, 16:36:17](https://news.ycombinator.com/item?id=35603168) - [Apple, Goldman Sachs Debut Savings Account with 4.15% Annual Yield](https://www.bloomberg.com/news/articles/2023-04-17/apple-goldman-debut-savings-account-with-4-15-annual-yield)
+* [2023-04-17, 16:23:03](https://news.ycombinator.com/item?id=35602983) - [The Inner Workings of Distributed Databases](https://questdb.io/blog/inner-workings-distributed-databases/)
 * [2023-04-17, 15:37:02](https://news.ycombinator.com/item?id=35602342) - [Thought Examinations, Indoctrination Meetings and Struggle Sessions](https://www.falltide.com/p/jung-chang-mao-mechanics-of-terror)
 * [2023-04-17, 15:24:36](https://news.ycombinator.com/item?id=35602150) - [The Toxic Reality of a Post-Familial Society](https://aaronrenn.substack.com/p/newsletter-75-the-toxic-reality-of)
 * [2023-04-17, 15:22:26](https://news.ycombinator.com/item?id=35602117) - [Cheap RISC-V Supercuster for $2 (DIY, CH32V003)](https://www.youtube.com/watch?v=6QRKpd28NEE)
