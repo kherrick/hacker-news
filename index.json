@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-04-17, 03:16:18",
-      "https://news.ycombinator.com/item?id=35596502"
-    ],
-    [
-      "Cryptographic Best Practices",
-      "https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a"
-    ]
-  ],
-  [
-    [
       "2023-04-17, 02:34:21",
       "https://news.ycombinator.com/item?id=35596267"
     ],
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2023-04-16, 23:17:13",
-      "https://news.ycombinator.com/item?id=35595071"
-    ],
-    [
-      "Constraint Programming (2020)",
-      "https://mareknarozniak.com/2020/06/22/constraint-programming/"
-    ]
-  ],
-  [
-    [
       "2023-04-16, 22:34:07",
       "https://news.ycombinator.com/item?id=35594853"
     ],
@@ -217,16 +197,6 @@
     [
       "Proxmox Docker Containers Monster – 13000 containers on a single host",
       "https://www.virtualizationhowto.com/2023/04/proxmox-docker-containers-monster-13000-containers-on-a-single-host/"
-    ]
-  ],
-  [
-    [
-      "2023-04-16, 18:36:55",
-      "https://news.ycombinator.com/item?id=35592935"
-    ],
-    [
-      "Who cares if you listen? (1958) [pdf]",
-      "https://artasillumination.files.wordpress.com/2015/02/who-cares-if-you-listen.pdf"
     ]
   ],
   [
@@ -291,12 +261,42 @@
   ],
   [
     [
-      "2023-04-15, 15:32:05",
-      "https://news.ycombinator.com/item?id=35581519"
+      "2023-04-16, 13:33:52",
+      "https://news.ycombinator.com/item?id=35589909"
     ],
     [
-      "Peru&#x27;s Great Urban Experiment",
-      "https://www.archaeology.org/issues/508-2305/features/11340-peru-chimu-chan-chan"
+      "The Battle over Techno’s Origins",
+      "https://www.newyorker.com/culture/cultural-comment/the-battle-over-technos-origins"
+    ]
+  ],
+  [
+    [
+      "2023-04-15, 19:00:43",
+      "https://news.ycombinator.com/item?id=35583525"
+    ],
+    [
+      "Searching for Lost Time in the World’s Most Beautiful Calendar",
+      "https://www.nytimes.com/interactive/2023/04/14/arts/design/tres-riches-heures-calendar.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-15, 17:06:49",
+      "https://news.ycombinator.com/item?id=35582449"
+    ],
+    [
+      "One economist went on a long whimsical journey to pay his taxes with cash",
+      "https://fortune.com/2023/04/10/paying-taxes-with-cash-economist/"
+    ]
+  ],
+  [
+    [
+      "2023-04-15, 12:34:30",
+      "https://news.ycombinator.com/item?id=35580061"
+    ],
+    [
+      "Geometry Central: library of data structures, algorithms for geometry processing",
+      "https://geometry-central.net/"
     ]
   ]
 ]
