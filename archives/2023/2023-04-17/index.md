@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 17:02:08](https://news.ycombinator.com/item?id=35603511) - [Codegraph – static code analyzator &#x2F; code diagramer](https://github.com/xnuinside/codegraph)
 * [2023-04-17, 17:00:51](https://news.ycombinator.com/item?id=35603491) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+* [2023-04-17, 16:57:54](https://news.ycombinator.com/item?id=35603457) - [AWS staff spending ‘much of their time ’optimizing customers&#x27; clouds&#x27;](https://www.theregister.com/2023/04/17/amazon_annual_shareholder_letter_aws/)
+* [2023-04-17, 16:36:17](https://news.ycombinator.com/item?id=35603168) - [Apple, Goldman Sachs Debut Savings Account with 4.15% Annual Yield](https://www.bloomberg.com/news/articles/2023-04-17/apple-goldman-debut-savings-account-with-4-15-annual-yield)
 * [2023-04-17, 15:37:02](https://news.ycombinator.com/item?id=35602342) - [Thought Examinations, Indoctrination Meetings and Struggle Sessions](https://www.falltide.com/p/jung-chang-mao-mechanics-of-terror)
 * [2023-04-17, 15:24:36](https://news.ycombinator.com/item?id=35602150) - [The Toxic Reality of a Post-Familial Society](https://aaronrenn.substack.com/p/newsletter-75-the-toxic-reality-of)
 * [2023-04-17, 15:22:26](https://news.ycombinator.com/item?id=35602117) - [Cheap RISC-V Supercuster for $2 (DIY, CH32V003)](https://www.youtube.com/watch?v=6QRKpd28NEE)
+* [2023-04-17, 15:18:48](https://news.ycombinator.com/item?id=35602061) - [NASA tech might just spur a major grid battery breakthrough](https://www.canarymedia.com/articles/batteries/this-nasa-tech-might-just-spur-a-major-grid-battery-breakthrough)
 * [2023-04-17, 15:11:03](https://news.ycombinator.com/item?id=35601958) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
 * [2023-04-17, 14:22:40](https://news.ycombinator.com/item?id=35601147) - [KitKat ribs AI in hilarious new ad campaign](https://www.creativebloq.com/news/kit-kat-ai-ad)
 * [2023-04-17, 14:21:21](https://news.ycombinator.com/item?id=35601128) - [DuckDuckGo’s building AI-generated answers into its search engine](https://www.theverge.com/2023/3/8/23629095/duckduckgo-ai-answers-browser-app-extension-search)
