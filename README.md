@@ -24,7 +24,7 @@
 * [2023-04-17, 08:08:24](https://news.ycombinator.com/item?id=35597994) - [There are no fees at America’s smallest bank](https://www.bloomberg.com/news/features/2023-04-13/america-s-smallest-bank-is-kentland-federal-savings-and-loan)
 * [2023-04-17, 06:16:33](https://news.ycombinator.com/item?id=35597346) - [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
 * [2023-04-17, 02:26:48](https://news.ycombinator.com/item?id=35596231) - [History of Kites](https://www.kite.org/about-kites/history-of-kites/)
-* [2023-04-16, 22:34:07](https://news.ycombinator.com/item?id=35594853) - [The basics of decoupling capacitors](https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors)
+* [2023-04-17, 02:06:43](https://news.ycombinator.com/item?id=35596107) - [Dolphin Bow-Riding (2009)](https://www.sciencedirect.com/science/article/pii/B9780123735539000377)
 * [2023-04-16, 22:01:55](https://news.ycombinator.com/item?id=35594671) - [Caravaggio Lost at Sea (2022)](https://www.historytoday.com/archive/missing-pieces/caravaggio-lost-sea)
 * [2023-04-16, 07:19:56](https://news.ycombinator.com/item?id=35587981) - [OpenSSH versus SSH](https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHVersusSSH)
 * [2023-04-15, 19:00:43](https://news.ycombinator.com/item?id=35583525) - [Searching for Lost Time in the World’s Most Beautiful Calendar](https://www.nytimes.com/interactive/2023/04/14/arts/design/tres-riches-heures-calendar.html)
