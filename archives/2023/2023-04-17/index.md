@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 22:00:34](https://news.ycombinator.com/item?id=35607199) - [Hot Beds: Low-Cost Ancient Roman Hack to Start Crops Early and Increasing Yield](https://www.growveg.com/guides/how-to-make-a-hotbed-for-the-earliest-sowings/)
 * [2023-04-17, 21:51:02](https://news.ycombinator.com/item?id=35607113) - [Sweden starts largest military exercise in over 25 years](https://www.dw.com/en/sweden-starts-largest-military-exercise-in-over-25-years/a-65352455)
+* [2023-04-17, 21:46:57](https://news.ycombinator.com/item?id=35607060) - [Show HN: Quorbo – a quick and quirky quest for the quote](https://quorbo.com)
 * [2023-04-17, 21:11:13](https://news.ycombinator.com/item?id=35606645) - [The Cybertruck is years behind schedule, so Tesla is launching a $30 beer](https://www.fastcompany.com/90879768/cybertruck-behind-schedule-tesla-beer-gigabier)
 * [2023-04-17, 21:10:56](https://news.ycombinator.com/item?id=35606642) - [Missouri House Republicans vote to defund libraries](https://heartlandsignal.com/2023/04/11/missouri-house-republicans-vote-to-defund-libraries/)
 * [2023-04-17, 21:01:46](https://news.ycombinator.com/item?id=35606563) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
