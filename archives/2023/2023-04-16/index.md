@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
 * [2023-04-16, 23:17:13](https://news.ycombinator.com/item?id=35595071) - [Constraint Programming (2020)](https://mareknarozniak.com/2020/06/22/constraint-programming/)
+* [2023-04-16, 23:07:22](https://news.ycombinator.com/item?id=35595026) - [&#x27;Algebra for none&#x27; fails in San Francisco](https://www.joannejacobs.com/post/algebra-for-none-fails-in-san-francisco)
 * [2023-04-16, 19:45:32](https://news.ycombinator.com/item?id=35593617) - [Mark Twain&#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
 * [2023-04-16, 19:34:35](https://news.ycombinator.com/item?id=35593507) - [Best predictor of professional success isn’t cognitive performance](https://english.elpais.com/science-tech/2023-04-13/daniel-sanabria-psychologist-the-best-predictor-of-professional-success-isnt-cognitive-performance-its-whether-your-parents-have-money.html)
 * [2023-04-16, 19:26:12](https://news.ycombinator.com/item?id=35593424) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
@@ -48,6 +49,7 @@
 * [2023-04-16, 13:12:06](https://news.ycombinator.com/item?id=35589756) - [Understanding large language models: A cross-section of the relevant literature](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 * [2023-04-16, 12:48:43](https://news.ycombinator.com/item?id=35589579) - [A Language Design Analysis of HolyC (2019)](https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc)
 * [2023-04-16, 12:46:05](https://news.ycombinator.com/item?id=35589553) - [SafetyWing (YC W18) Is Hiring a VP of Growth](https://safetywing.pinpointhq.com/en/postings/66a1f995-4e2c-4e04-ae6a-e7ebaf1fe044)
+* [2023-04-16, 12:38:38](https://news.ycombinator.com/item?id=35589506) - [Build systems à la carte (2018)](https://dl.acm.org/doi/abs/10.1145/3236774)
 * [2023-04-16, 12:34:02](https://news.ycombinator.com/item?id=35589464) - [Who owns history? How remarkable historical footage is hidden and monetised](https://aeon.co/videos/who-owns-history-how-remarkable-historical-footage-is-hidden-and-monetised)
 * [2023-04-16, 11:50:21](https://news.ycombinator.com/item?id=35589179) - [FSF Slams Google over Dropping JPEG-XL in Chrome](https://www.phoronix.com/news/FSF-Slams-Google-JPEG-XL)
 * [2023-04-16, 11:49:59](https://news.ycombinator.com/item?id=35589176) - [Summary: Don&#x27;t make me think(revisited) by Steve Krug](https://www.chestergrant.com/summary-dont-make-me-think-revisited-steve-krug)
