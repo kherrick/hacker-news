@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-17, 17:02:08",
+      "https://news.ycombinator.com/item?id=35603511"
+    ],
+    [
+      "Codegraph – static code analyzator &#x2F; code diagramer",
+      "https://github.com/xnuinside/codegraph"
+    ]
+  ],
+  [
+    [
       "2023-04-17, 17:00:51",
       "https://news.ycombinator.com/item?id=35603491"
     ],
@@ -11,12 +21,52 @@
   ],
   [
     [
+      "2023-04-17, 16:57:54",
+      "https://news.ycombinator.com/item?id=35603457"
+    ],
+    [
+      "AWS staff spending ‘much of their time ’optimizing customers&#x27; clouds&#x27;",
+      "https://www.theregister.com/2023/04/17/amazon_annual_shareholder_letter_aws/"
+    ]
+  ],
+  [
+    [
+      "2023-04-17, 16:36:17",
+      "https://news.ycombinator.com/item?id=35603168"
+    ],
+    [
+      "Apple, Goldman Sachs Debut Savings Account with 4.15% Annual Yield",
+      "https://www.bloomberg.com/news/articles/2023-04-17/apple-goldman-debut-savings-account-with-4-15-annual-yield"
+    ]
+  ],
+  [
+    [
       "2023-04-17, 15:37:02",
       "https://news.ycombinator.com/item?id=35602342"
     ],
     [
       "Thought Examinations, Indoctrination Meetings and Struggle Sessions",
       "https://www.falltide.com/p/jung-chang-mao-mechanics-of-terror"
+    ]
+  ],
+  [
+    [
+      "2023-04-17, 15:22:26",
+      "https://news.ycombinator.com/item?id=35602117"
+    ],
+    [
+      "Cheap RISC-V Supercuster for $2 (DIY, CH32V003)",
+      "https://www.youtube.com/watch?v=6QRKpd28NEE"
+    ]
+  ],
+  [
+    [
+      "2023-04-17, 15:18:48",
+      "https://news.ycombinator.com/item?id=35602061"
+    ],
+    [
+      "NASA tech might just spur a major grid battery breakthrough",
+      "https://www.canarymedia.com/articles/batteries/this-nasa-tech-might-just-spur-a-major-grid-battery-breakthrough"
     ]
   ],
   [
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2023-04-17, 10:42:13",
-      "https://news.ycombinator.com/item?id=35598975"
-    ],
-    [
-      "Most of us won&#x27;t be inventing little languages (2004)",
-      "http://slesinsky.org/brian/code/little_languages.html"
-    ]
-  ],
-  [
-    [
       "2023-04-17, 10:01:01",
       "https://news.ycombinator.com/item?id=35598710"
     ],
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2023-04-17, 06:57:31",
-      "https://news.ycombinator.com/item?id=35597540"
-    ],
-    [
-      "Monthly Fediverse posts cross 1 billion for the first time",
-      "https://masto.ai/@mg/110212843144499061"
-    ]
-  ],
-  [
-    [
       "2023-04-17, 05:31:12",
       "https://news.ycombinator.com/item?id=35597152"
     ],
     [
       "Microsoft deleted the public support forums for SwiftKey",
       "https://mastodon.social/@mcc/110209163620520535"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 04:52:16",
-      "https://news.ycombinator.com/item?id=35596959"
-    ],
-    [
-      "I made my blog solar-powered, then things escalated",
-      "https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-04-17, 02:17:27",
-      "https://news.ycombinator.com/item?id=35596180"
-    ],
-    [
-      "Where do nutrition labels come from? (2022)",
-      "https://daily.jstor.org/where-do-nutrition-labels-come-from/"
-    ]
-  ],
-  [
-    [
       "2023-04-17, 01:24:49",
       "https://news.ycombinator.com/item?id=35595808"
     ],
@@ -247,16 +257,6 @@
     [
       "Proxmox Docker Containers Monster – 13000 containers on a single host",
       "https://www.virtualizationhowto.com/2023/04/proxmox-docker-containers-monster-13000-containers-on-a-single-host/"
-    ]
-  ],
-  [
-    [
-      "2023-04-16, 18:06:49",
-      "https://news.ycombinator.com/item?id=35592607"
-    ],
-    [
-      "AT&amp;T Wireless traffic shaping apparently making some websites unusable",
-      "https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/"
     ]
   ],
   [
