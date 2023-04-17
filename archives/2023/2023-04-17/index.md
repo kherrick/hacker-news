@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 18:50:40](https://news.ycombinator.com/item?id=35604867) - [Ask HN: What are some of the best ChatGPT Clients out there?](https://news.ycombinator.com/item?id=35604867)
 * [2023-04-17, 17:41:06](https://news.ycombinator.com/item?id=35603973) - [Neobuthus Factorio](https://en.wikipedia.org/wiki/Neobuthus_factorio)
 * [2023-04-17, 17:32:28](https://news.ycombinator.com/item?id=35603845) - [Depositors pull nearly $60B from three US banks as Apple raises pressure](https://www.ft.com/content/7bebe3d8-0b6f-417a-b531-6690c0f834b3)
 * [2023-04-17, 17:30:32](https://news.ycombinator.com/item?id=35603819) - [New 3D Printable Search Engine](https://www.printablesearch.com)
