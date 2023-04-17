@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-17, 14:22:40](https://news.ycombinator.com/item?id=35601147) - [KitKat ribs AI in hilarious new ad campaign](https://www.creativebloq.com/news/kit-kat-ai-ad)
 * [2023-04-17, 14:07:19](https://news.ycombinator.com/item?id=35600882) - [Apple Card’s new high-yield Savings account is now available, offering a 4.15 p](https://www.apple.com/newsroom/2023/04/apple-cards-new-high-yield-savings-account-is-now-available-offering-a-4-point-15-percent-apy/)
 * [2023-04-17, 13:34:41](https://news.ycombinator.com/item?id=35600463) - [A song that uses AI to clone the voices of Drake and The Weeknd has gone viral](https://www.bbc.co.uk/news/entertainment-arts-65298834)
 * [2023-04-17, 13:09:53](https://news.ycombinator.com/item?id=35600087) - [Google in shock as Samsung considers moving to Bing as default search engine](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
@@ -22,14 +23,13 @@
 * [2023-04-17, 01:24:49](https://news.ycombinator.com/item?id=35595808) - [I liked this simple calculus exercise](https://blog.plover.com/math/se/calculus-exercise.html)
 * [2023-04-16, 22:34:07](https://news.ycombinator.com/item?id=35594853) - [The basics of decoupling capacitors](https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors)
 * [2023-04-16, 19:35:39](https://news.ycombinator.com/item?id=35593517) - [Proxmox Docker Containers Monster – 13000 containers on a single host](https://www.virtualizationhowto.com/2023/04/proxmox-docker-containers-monster-13000-containers-on-a-single-host/)
-* [2023-04-16, 18:06:49](https://news.ycombinator.com/item?id=35592607) - [AT&amp;T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
 * [2023-04-16, 15:49:15](https://news.ycombinator.com/item?id=35591063) - [Tooll 3: open-source software to create realtime motion graphics](https://github.com/still-scene/t3)
 * [2023-04-16, 15:45:11](https://news.ycombinator.com/item?id=35591019) - [Prince Rupert&#x27;s Drop vs Molten Glass [video]](https://www.youtube.com/watch?v=C1KT8PS6Zs4)
-* [2023-04-16, 15:22:03](https://news.ycombinator.com/item?id=35590734) - [De-Stressing Booking.com](https://www.alexcharlton.co/projects/booking-com-de-stresser)
 * [2023-04-16, 14:04:29](https://news.ycombinator.com/item?id=35590129) - [Clean front end architecture with SvelteKit](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/)
 * [2023-04-16, 13:43:24](https://news.ycombinator.com/item?id=35589967) - [The man who didn’t invent Flamin’ Hot Cheetos (2021)](https://www.latimes.com/business/story/2021-05-16/flamin-hot-cheetos-richard-montanez)
 * [2023-04-15, 19:00:43](https://news.ycombinator.com/item?id=35583525) - [Searching for Lost Time in the World’s Most Beautiful Calendar](https://www.nytimes.com/interactive/2023/04/14/arts/design/tres-riches-heures-calendar.html)
 * [2023-04-15, 12:34:30](https://news.ycombinator.com/item?id=35580061) - [Geometry Central: library of data structures, algorithms for geometry processing](https://geometry-central.net/)
+* [2023-04-15, 07:21:43](https://news.ycombinator.com/item?id=35578425) - [What Goes Around Comes Around (2004) [pdf]](https://people.cs.umass.edu/~yanlei/courses/CS691LL-f06/papers/SH05.pdf)
 
 ## [Archives](archives/index.md)
 
