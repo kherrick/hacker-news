@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-04-17, 15:22:26",
-      "https://news.ycombinator.com/item?id=35602117"
-    ],
-    [
-      "Cheap RISC-V Supercuster for $2 (DIY, CH32V003)",
-      "https://www.youtube.com/watch?v=6QRKpd28NEE"
-    ]
-  ],
-  [
-    [
       "2023-04-17, 15:11:03",
       "https://news.ycombinator.com/item?id=35601958"
     ],
@@ -117,6 +107,16 @@
     [
       "Why most of us won&#x27;t be inventing little languages",
       "http://slesinsky.org/brian/code/little_languages.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-17, 10:01:01",
+      "https://news.ycombinator.com/item?id=35598710"
+    ],
+    [
+      "Linuxwave: Generate Music from the Entropy of Linux",
+      "https://github.com/orhun/linuxwave"
     ]
   ],
   [
