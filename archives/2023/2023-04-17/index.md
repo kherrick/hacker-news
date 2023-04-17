@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 12:40:29](https://news.ycombinator.com/item?id=35599814) - [12-year-olds can&#x27;t buy cigarettes – but they can work in tobacco fields](https://www.npr.org/2023/04/17/1168824035/child-labor-tobacco-legal-dangerous)
 * [2023-04-17, 12:00:18](https://news.ycombinator.com/item?id=35599474) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-04-17, 11:47:06](https://news.ycombinator.com/item?id=35599363) - [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
+* [2023-04-17, 11:40:39](https://news.ycombinator.com/item?id=35599315) - [iOS 17 will reportedly set the stage for sideloading apps on iPhone](https://techcrunch.com/2023/04/17/ios-17-will-reportedly-set-the-stage-for-sideloading-apps-on-iphone/)
 * [2023-04-17, 11:23:09](https://news.ycombinator.com/item?id=35599205) - [Monet&#x27;s dreamy haze was pollution, study finds](https://www.cnn.com/style/article/monet-haze-air-pollution-study-scn/index.html)
 * [2023-04-17, 11:15:46](https://news.ycombinator.com/item?id=35599181) - [Sold a Story: How Teaching Kids to Read Went So Wrong](https://features.apmreports.org/sold-a-story/)
 * [2023-04-17, 11:05:51](https://news.ycombinator.com/item?id=35599118) - [Ask HN: Is PostgreSQL better than MySQL?](https://news.ycombinator.com/item?id=35599118)
