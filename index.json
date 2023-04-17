@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-04-17, 07:49:48",
+      "https://news.ycombinator.com/item?id=35597854"
+    ],
+    [
+      "OpenBSD: Malloc leak detection available in -current",
+      "https://www.undeadly.org/cgi?action=article;sid=20230417074903"
+    ]
+  ],
+  [
+    [
       "2023-04-17, 07:34:08",
       "https://news.ycombinator.com/item?id=35597764"
     ],
@@ -137,6 +147,16 @@
     [
       "Alien Artefacts",
       "https://www.brautaset.org/posts/alien-artefacts.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-16, 18:36:55",
+      "https://news.ycombinator.com/item?id=35592935"
+    ],
+    [
+      "Who cares if you listen? (1958) [pdf]",
+      "https://artasillumination.files.wordpress.com/2015/02/who-cares-if-you-listen.pdf"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-04-16, 12:38:38",
-      "https://news.ycombinator.com/item?id=35589506"
-    ],
-    [
-      "Build systems à la carte (2018)",
-      "https://dl.acm.org/doi/abs/10.1145/3236774"
-    ]
-  ],
-  [
-    [
       "2023-04-15, 15:32:05",
       "https://news.ycombinator.com/item?id=35581519"
     ],
     [
       "Peru&#x27;s Great Urban Experiment",
       "https://www.archaeology.org/issues/508-2305/features/11340-peru-chimu-chan-chan"
-    ]
-  ],
-  [
-    [
-      "2023-04-15, 07:28:44",
-      "https://news.ycombinator.com/item?id=35578454"
-    ],
-    [
-      "Appleseed – open-source, physically-based global illumination rendering engine",
-      "https://appleseedhq.net/"
     ]
   ]
 ]
