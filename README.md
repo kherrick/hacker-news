@@ -15,7 +15,7 @@
 * [2023-04-16, 18:06:49](https://news.ycombinator.com/item?id=35592607) - [AT&amp;T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
 * [2023-04-16, 17:51:03](https://news.ycombinator.com/item?id=35592446) - [Unwinding the Stack the Hard Way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
 * [2023-04-16, 17:50:35](https://news.ycombinator.com/item?id=35592439) - [Space Invaders creator reveals game’s origin story](https://www.wired.com/story/space-invaders-45-years-tomohiro-nishikado/)
-* [2023-04-16, 16:27:04](https://news.ycombinator.com/item?id=35591460) - [Korean as a Concatenative, Stack-Oriented Language (2017)](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
+* [2023-04-16, 16:34:04](https://news.ycombinator.com/item?id=35591529) - [Coq typeclass resolution is Turing-complete](https://thaliaarchi.github.io/coq-turing-typeclass/)
 * [2023-04-16, 16:15:18](https://news.ycombinator.com/item?id=35591338) - [Lessons from America’s astonishing economic record](https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record)
 * [2023-04-16, 15:45:39](https://news.ycombinator.com/item?id=35591026) - [Conway’s Law](https://martinfowler.com/bliki/ConwaysLaw.html)
 * [2023-04-16, 15:45:11](https://news.ycombinator.com/item?id=35591019) - [Prince Rupert&#x27;s Drop vs Molten Glas [video]](https://www.youtube.com/watch?v=C1KT8PS6Zs4)
