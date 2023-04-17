@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 07:53:12](https://news.ycombinator.com/item?id=35597883) - [Rishi Sunak sets up review to tackle &#x27;anti-maths mindset&#x27;](https://www.bbc.co.uk/news/uk-politics-65293430)
 * [2023-04-17, 07:34:08](https://news.ycombinator.com/item?id=35597764) - [Orbital Test Launch of Starship in ~4 hours](https://www.youtube.com/watch?v=L5QXreqOrTA)
 * [2023-04-17, 06:57:31](https://news.ycombinator.com/item?id=35597540) - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
 * [2023-04-17, 06:48:26](https://news.ycombinator.com/item?id=35597493) - [Nintendo Is Taking Down My Videos [video]](https://www.youtube.com/watch?v=FSZYpDk9Xm8)

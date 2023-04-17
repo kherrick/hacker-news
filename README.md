@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-17, 07:53:12](https://news.ycombinator.com/item?id=35597883) - [Rishi Sunak sets up review to tackle &#x27;anti-maths mindset&#x27;](https://www.bbc.co.uk/news/uk-politics-65293430)
 * [2023-04-17, 07:34:08](https://news.ycombinator.com/item?id=35597764) - [Orbital Test Launch of Starship in ~4 hours](https://www.youtube.com/watch?v=L5QXreqOrTA)
 * [2023-04-17, 06:57:31](https://news.ycombinator.com/item?id=35597540) - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
 * [2023-04-17, 06:48:26](https://news.ycombinator.com/item?id=35597493) - [Nintendo Is Taking Down My Videos [video]](https://www.youtube.com/watch?v=FSZYpDk9Xm8)
@@ -11,7 +12,6 @@
 * [2023-04-17, 02:34:21](https://news.ycombinator.com/item?id=35596267) - [Build and deploy 5G network with open-source software and off-the-shelf hardware](https://rs-ojict.pubpub.org/pub/lqhigiva/release/2)
 * [2023-04-17, 01:24:49](https://news.ycombinator.com/item?id=35595808) - [I liked this simple calculus exercise](https://blog.plover.com/math/se/calculus-exercise.html)
 * [2023-04-17, 00:51:08](https://news.ycombinator.com/item?id=35595592) - [A Journey Through Color Space with FFmpeg](https://canvatechblog.com/a-journey-through-color-space-with-ffmpeg-3a129bfd9b05)
-* [2023-04-16, 23:17:13](https://news.ycombinator.com/item?id=35595071) - [Constraint Programming (2020)](https://mareknarozniak.com/2020/06/22/constraint-programming/)
 * [2023-04-16, 19:45:32](https://news.ycombinator.com/item?id=35593617) - [Mark Twain&#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
 * [2023-04-16, 19:26:12](https://news.ycombinator.com/item?id=35593424) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
 * [2023-04-16, 18:29:47](https://news.ycombinator.com/item?id=35592847) - [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
