@@ -6,7 +6,9 @@
 
 * [2023-04-17, 21:10:56](https://news.ycombinator.com/item?id=35606642) - [Missouri House Republicans vote to defund libraries](https://heartlandsignal.com/2023/04/11/missouri-house-republicans-vote-to-defund-libraries/)
 * [2023-04-17, 21:01:46](https://news.ycombinator.com/item?id=35606563) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-04-17, 20:57:30](https://news.ycombinator.com/item?id=35606519) - [Indian government empowers itself to “fact check,” delete social media posts](https://restofworld.org/2023/indian-government-fact-check-delete-social-media/)
 * [2023-04-17, 20:48:20](https://news.ycombinator.com/item?id=35606413) - [Japan Has Millions of Empty Houses. Want to Buy One for $25,000?](https://www.nytimes.com/2023/04/17/realestate/japan-empty-houses.html)
+* [2023-04-17, 20:28:10](https://news.ycombinator.com/item?id=35606138) - [Now, you can embed Mastodon posts in Medium stories](https://blog.medium.com/now-you-can-embed-mastodon-posts-in-medium-stories-99b11d0baa7f)
 * [2023-04-17, 19:46:52](https://news.ycombinator.com/item?id=35605602) - [Draculas, Ranked](https://www.vulture.com/article/dracula-movie-performances-ranked.html)
 * [2023-04-17, 19:34:14](https://news.ycombinator.com/item?id=35605412) - [Coworking from Home](https://www.bbc.com/worklife/article/20230413-home-coworking-spaces-with-friends)
 * [2023-04-17, 19:26:54](https://news.ycombinator.com/item?id=35605323) - [New blog post from StackOverflow&#x27;s CEO Prashanth: Community is the future of AI](https://meta.stackexchange.com/questions/388401/new-blog-post-from-our-ceo-prashanth-community-is-the-future-of-ai)

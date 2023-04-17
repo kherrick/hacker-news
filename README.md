@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-17, 21:10:56](https://news.ycombinator.com/item?id=35606642) - [Missouri House Republicans vote to defund libraries](https://heartlandsignal.com/2023/04/11/missouri-house-republicans-vote-to-defund-libraries/)
 * [2023-04-17, 21:01:46](https://news.ycombinator.com/item?id=35606563) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-04-17, 20:57:30](https://news.ycombinator.com/item?id=35606519) - [Indian government empowers itself to “fact check,” delete social media posts](https://restofworld.org/2023/indian-government-fact-check-delete-social-media/)
 * [2023-04-17, 20:48:20](https://news.ycombinator.com/item?id=35606413) - [Japan Has Millions of Empty Houses. Want to Buy One for $25,000?](https://www.nytimes.com/2023/04/17/realestate/japan-empty-houses.html)
+* [2023-04-17, 20:28:10](https://news.ycombinator.com/item?id=35606138) - [Now, you can embed Mastodon posts in Medium stories](https://blog.medium.com/now-you-can-embed-mastodon-posts-in-medium-stories-99b11d0baa7f)
 * [2023-04-17, 19:34:14](https://news.ycombinator.com/item?id=35605412) - [Coworking from Home](https://www.bbc.com/worklife/article/20230413-home-coworking-spaces-with-friends)
 * [2023-04-17, 19:09:43](https://news.ycombinator.com/item?id=35605106) - [Crooks’ Mistaken Bet on Encrypted Phones](https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones)
 * [2023-04-17, 18:58:30](https://news.ycombinator.com/item?id=35604974) - [Name-based demographic inference and the unequal distribution of misrecognition](https://www.nature.com/articles/s41562-023-01587-9)
@@ -21,7 +22,6 @@
 * [2023-04-17, 11:40:39](https://news.ycombinator.com/item?id=35599315) - [iOS 17 will reportedly set the stage for sideloading apps on iPhone](https://techcrunch.com/2023/04/17/ios-17-will-reportedly-set-the-stage-for-sideloading-apps-on-iphone/)
 * [2023-04-17, 08:56:07](https://news.ycombinator.com/item?id=35598281) - [MiniGPT-4](https://minigpt-4.github.io/)
 * [2023-04-17, 08:08:24](https://news.ycombinator.com/item?id=35597994) - [There are no fees at America’s smallest bank](https://www.bloomberg.com/news/features/2023-04-13/america-s-smallest-bank-is-kentland-federal-savings-and-loan)
-* [2023-04-17, 07:49:48](https://news.ycombinator.com/item?id=35597854) - [OpenBSD: Malloc leak detection available in -current](https://www.undeadly.org/cgi?action=article;sid=20230417074903)
 * [2023-04-17, 06:16:33](https://news.ycombinator.com/item?id=35597346) - [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
 * [2023-04-17, 02:26:48](https://news.ycombinator.com/item?id=35596231) - [History of Kites](https://www.kite.org/about-kites/history-of-kites/)
 * [2023-04-17, 02:06:43](https://news.ycombinator.com/item?id=35596107) - [Dolphin Bow-Riding (2009)](https://www.sciencedirect.com/science/article/pii/B9780123735539000377)
