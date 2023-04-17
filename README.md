@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-17, 15:24:36](https://news.ycombinator.com/item?id=35602150) - [The Toxic Reality of a Post-Familial Society](https://aaronrenn.substack.com/p/newsletter-75-the-toxic-reality-of)
 * [2023-04-17, 15:11:03](https://news.ycombinator.com/item?id=35601958) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
 * [2023-04-17, 14:21:21](https://news.ycombinator.com/item?id=35601128) - [DuckDuckGo’s building AI-generated answers into its search engine](https://www.theverge.com/2023/3/8/23629095/duckduckgo-ai-answers-browser-app-extension-search)
 * [2023-04-17, 14:07:19](https://news.ycombinator.com/item?id=35600882) - [Apple Card’s new high-yield Savings account is now available, offering a 4.15 p](https://www.apple.com/newsroom/2023/04/apple-cards-new-high-yield-savings-account-is-now-available-offering-a-4-point-15-percent-apy/)
@@ -24,8 +25,7 @@
 * [2023-04-17, 01:24:49](https://news.ycombinator.com/item?id=35595808) - [I liked this simple calculus exercise](https://blog.plover.com/math/se/calculus-exercise.html)
 * [2023-04-16, 22:34:07](https://news.ycombinator.com/item?id=35594853) - [The basics of decoupling capacitors](https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors)
 * [2023-04-16, 19:35:39](https://news.ycombinator.com/item?id=35593517) - [Proxmox Docker Containers Monster – 13000 containers on a single host](https://www.virtualizationhowto.com/2023/04/proxmox-docker-containers-monster-13000-containers-on-a-single-host/)
-* [2023-04-16, 15:49:15](https://news.ycombinator.com/item?id=35591063) - [Tooll 3: open-source software to create realtime motion graphics](https://github.com/still-scene/t3)
-* [2023-04-16, 15:45:11](https://news.ycombinator.com/item?id=35591019) - [Prince Rupert&#x27;s Drop vs Molten Glass [video]](https://www.youtube.com/watch?v=C1KT8PS6Zs4)
+* [2023-04-16, 18:06:49](https://news.ycombinator.com/item?id=35592607) - [AT&amp;T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
 * [2023-04-16, 13:43:24](https://news.ycombinator.com/item?id=35589967) - [The man who didn’t invent Flamin’ Hot Cheetos (2021)](https://www.latimes.com/business/story/2021-05-16/flamin-hot-cheetos-richard-montanez)
 * [2023-04-15, 19:00:43](https://news.ycombinator.com/item?id=35583525) - [Searching for Lost Time in the World’s Most Beautiful Calendar](https://www.nytimes.com/interactive/2023/04/14/arts/design/tres-riches-heures-calendar.html)
 * [2023-04-15, 12:34:30](https://news.ycombinator.com/item?id=35580061) - [Geometry Central: library of data structures, algorithms for geometry processing](https://geometry-central.net/)
