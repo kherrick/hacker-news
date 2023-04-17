@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 22:41:11](https://news.ycombinator.com/item?id=35607616) - [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376)
 * [2023-04-17, 22:00:34](https://news.ycombinator.com/item?id=35607199) - [Hot Beds: Low-Cost Ancient Roman Hack to Start Crops Early and Increasing Yield](https://www.growveg.com/guides/how-to-make-a-hotbed-for-the-earliest-sowings/)
 * [2023-04-17, 21:51:02](https://news.ycombinator.com/item?id=35607113) - [Sweden starts largest military exercise in over 25 years](https://www.dw.com/en/sweden-starts-largest-military-exercise-in-over-25-years/a-65352455)
 * [2023-04-17, 21:46:57](https://news.ycombinator.com/item?id=35607060) - [Show HN: Quorbo – a quick and quirky quest for the quote](https://quorbo.com)
