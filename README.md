@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-17, 14:03:46](https://news.ycombinator.com/item?id=35600839) - [Steve Jobs in Entrepreneurs Documentary on PBS (1986)](https://www.youtube.com/watch?v=rvvfYRbhXR4)
 * [2023-04-17, 13:35:36](https://news.ycombinator.com/item?id=35600477) - [We Don’t Know Enough About the Pornhub Acquisition](https://every.to/napkin-math/we-don-t-know-enough-about-the-pornhub-sale)
-* [2023-04-17, 13:34:41](https://news.ycombinator.com/item?id=35600463) - [AI-generated Drake and The Weeknd song goes viral](https://www.bbc.co.uk/news/entertainment-arts-65298834)
+* [2023-04-17, 13:34:41](https://news.ycombinator.com/item?id=35600463) - [A song that uses AI to clone the voices of Drake and The Weeknd has gone viral](https://www.bbc.co.uk/news/entertainment-arts-65298834)
 * [2023-04-17, 13:09:53](https://news.ycombinator.com/item?id=35600087) - [Google in shock as Samsung considers moving to Bing as default search engine](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
 * [2023-04-17, 12:49:12](https://news.ycombinator.com/item?id=35599884) - [Firmware is on shaky ground – let&#x27;s see what it&#x27;s made of](https://www.theregister.com/2023/04/17/opinion_column/)
 * [2023-04-17, 12:00:18](https://news.ycombinator.com/item?id=35599474) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
@@ -22,7 +23,6 @@
 * [2023-04-17, 01:24:49](https://news.ycombinator.com/item?id=35595808) - [I liked this simple calculus exercise](https://blog.plover.com/math/se/calculus-exercise.html)
 * [2023-04-16, 22:34:07](https://news.ycombinator.com/item?id=35594853) - [The basics of decoupling capacitors](https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors)
 * [2023-04-16, 19:35:39](https://news.ycombinator.com/item?id=35593517) - [Proxmox Docker Containers Monster – 13000 containers on a single host](https://www.virtualizationhowto.com/2023/04/proxmox-docker-containers-monster-13000-containers-on-a-single-host/)
-* [2023-04-16, 18:06:49](https://news.ycombinator.com/item?id=35592607) - [AT&amp;T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
 * [2023-04-16, 15:49:15](https://news.ycombinator.com/item?id=35591063) - [Tooll 3: open-source software to create realtime motion graphics](https://github.com/still-scene/t3)
 * [2023-04-16, 15:45:11](https://news.ycombinator.com/item?id=35591019) - [Prince Rupert&#x27;s Drop vs Molten Glass [video]](https://www.youtube.com/watch?v=C1KT8PS6Zs4)
 * [2023-04-16, 14:04:29](https://news.ycombinator.com/item?id=35590129) - [Clean front end architecture with SvelteKit](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/)
