@@ -45,6 +45,7 @@
 * [2023-04-16, 14:04:29](https://news.ycombinator.com/item?id=35590129) - [Clean front end architecture with SvelteKit](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/)
 * [2023-04-16, 13:56:27](https://news.ycombinator.com/item?id=35590062) - [WikiIndex, the wiki index of wikis, wiki people, wiki software, wiki farms, etc.](https://wikiindex.org/Welcome)
 * [2023-04-16, 13:50:03](https://news.ycombinator.com/item?id=35590017) - [CA Electric Bills on Income](https://ktla.com/news/local-news/california-power-companies-roll-out-fixed-rate-bill-proposal/)
+* [2023-04-16, 13:43:24](https://news.ycombinator.com/item?id=35589967) - [A man who didn’t invent Flamin’ Hot Cheetos](https://www.latimes.com/business/story/2021-05-16/flamin-hot-cheetos-richard-montanez)
 * [2023-04-16, 13:39:23](https://news.ycombinator.com/item?id=35589943) - [The Paratethys Sea was the largest lake in Earth’s history](https://bigthink.com/strange-maps/paratethys-sea/)
 * [2023-04-16, 13:33:52](https://news.ycombinator.com/item?id=35589909) - [The Battle over Techno’s Origins](https://www.newyorker.com/culture/cultural-comment/the-battle-over-technos-origins)
 * [2023-04-16, 13:24:41](https://news.ycombinator.com/item?id=35589846) - [Will Turkey’s elections finally spell the end of Recep Tayyip Erdoğan?](https://www.theguardian.com/world/2023/apr/16/will-turkeys-elections-spell-end-of-recep-tayyip-erdogan)
