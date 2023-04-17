@@ -20,6 +20,7 @@
 * [2023-04-17, 19:22:59](https://news.ycombinator.com/item?id=35605265) - [Strong Opinions Loosely Held Might Be the Worst Idea in Tech](https://blog.glowforge.com/strong-opinions-loosely-held-might-be-the-worst-idea-in-tech/)
 * [2023-04-17, 19:09:43](https://news.ycombinator.com/item?id=35605106) - [Crooks’ Mistaken Bet on Encrypted Phones](https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones)
 * [2023-04-17, 19:06:23](https://news.ycombinator.com/item?id=35605062) - [Valve Releases Proton 8.0-1c](https://github.com/ValveSoftware/Proton/releases/tag/proton-8.0-1c)
+* [2023-04-17, 19:04:47](https://news.ycombinator.com/item?id=35605039) - [DINOv2: State-of-the-art computer vision models with self-supervised learning](https://dinov2.metademolab.com/)
 * [2023-04-17, 18:58:30](https://news.ycombinator.com/item?id=35604974) - [Name-based demographic inference and the unequal distribution of misrecognition](https://www.nature.com/articles/s41562-023-01587-9)
 * [2023-04-17, 18:50:40](https://news.ycombinator.com/item?id=35604867) - [Ask HN: What are some of the best ChatGPT Clients out there?](https://news.ycombinator.com/item?id=35604867)
 * [2023-04-17, 18:39:22](https://news.ycombinator.com/item?id=35604715) - [Show HN: Magic Happens – let ChatGPT manage your Kubernetes cluster](https://github.com/empath-nirvana/magic-happens)

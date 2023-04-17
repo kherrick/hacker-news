@@ -7,7 +7,7 @@
 * [2023-04-17, 21:01:46](https://news.ycombinator.com/item?id=35606563) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-04-17, 20:28:10](https://news.ycombinator.com/item?id=35606138) - [Now, you can embed Mastodon posts in Medium stories](https://blog.medium.com/now-you-can-embed-mastodon-posts-in-medium-stories-99b11d0baa7f)
 * [2023-04-17, 19:09:43](https://news.ycombinator.com/item?id=35605106) - [Crooks’ mistaken bet on encrypted phones](https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones)
-* [2023-04-17, 18:58:30](https://news.ycombinator.com/item?id=35604974) - [Name-based demographic inference and the unequal distribution of misrecognition](https://www.nature.com/articles/s41562-023-01587-9)
+* [2023-04-17, 19:04:47](https://news.ycombinator.com/item?id=35605039) - [DINOv2: State-of-the-art computer vision models with self-supervised learning](https://dinov2.metademolab.com/)
 * [2023-04-17, 17:43:29](https://news.ycombinator.com/item?id=35604002) - [Community Is the Future of AI](https://stackoverflow.blog/2023/04/17/community-is-the-future-of-ai/)
 * [2023-04-17, 17:30:32](https://news.ycombinator.com/item?id=35603819) - [New 3D Printable Search Engine](https://www.printablesearch.com)
 * [2023-04-17, 17:25:04](https://news.ycombinator.com/item?id=35603756) - [OpenAI’s CEO says the age of giant AI models is already over](https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/)
