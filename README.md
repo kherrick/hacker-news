@@ -2,6 +2,7 @@
 
 * [2023-04-17, 03:16:18](https://news.ycombinator.com/item?id=35596502) - [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
 * [2023-04-17, 02:34:21](https://news.ycombinator.com/item?id=35596267) - [Build and Deploy 5G Network with Open-Source Software and Off-the-Shelf Hardware](https://rs-ojict.pubpub.org/pub/lqhigiva/release/2)
+* [2023-04-17, 01:44:40](https://news.ycombinator.com/item?id=35595967) - [DevOps Threat Matrix](https://security-blog-prod-wp01.azurewebsites.net/en-us/security/blog/2023/04/06/devops-threat-matrix/)
 * [2023-04-17, 01:24:49](https://news.ycombinator.com/item?id=35595808) - [I liked this simple calculus exercise](https://blog.plover.com/math/se/calculus-exercise.html)
 * [2023-04-17, 01:15:33](https://news.ycombinator.com/item?id=35595745) - [ATC staff shortages: 11,000 flights cut from NYC and DCA in summer 2023](https://www.flyertalk.com/articles/over-11000-flights-cut-from-new-york-and-washington-schedules-for-summer-2023.html)
 * [2023-04-17, 00:51:08](https://news.ycombinator.com/item?id=35595592) - [A Journey Through Color Space with FFmpeg](https://canvatechblog.com/a-journey-through-color-space-with-ffmpeg-3a129bfd9b05)
@@ -9,7 +10,6 @@
 * [2023-04-16, 23:07:22](https://news.ycombinator.com/item?id=35595026) - [&#x27;Algebra for none&#x27; fails in San Francisco](https://www.joannejacobs.com/post/algebra-for-none-fails-in-san-francisco)
 * [2023-04-16, 19:45:32](https://news.ycombinator.com/item?id=35593617) - [Mark Twain&#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
 * [2023-04-16, 19:26:12](https://news.ycombinator.com/item?id=35593424) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
-* [2023-04-16, 18:36:47](https://news.ycombinator.com/item?id=35592931) - [Smokey’s new hot vapourizing engine creates heat in Detroit (1983)](http://rexresearch.com/yunick/yunick.htm)
 * [2023-04-16, 18:29:47](https://news.ycombinator.com/item?id=35592847) - [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
 * [2023-04-16, 18:11:39](https://news.ycombinator.com/item?id=35592657) - [Usability heuristics for user interface design](https://www.1984.design/c/discussions/usability-heuristics-for-user-interface-design)
 * [2023-04-16, 18:11:31](https://news.ycombinator.com/item?id=35592654) - [Why flying insects gather at artificial light](https://www.biorxiv.org/content/10.1101/2023.04.11.536486v1)
