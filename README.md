@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-17, 07:53:12](https://news.ycombinator.com/item?id=35597883) - [Rishi Sunak sets up review to tackle &#x27;anti-maths mindset&#x27;](https://www.bbc.co.uk/news/uk-politics-65293430)
+* [2023-04-17, 07:49:48](https://news.ycombinator.com/item?id=35597854) - [OpenBSD: Malloc leak detection available in -current](https://www.undeadly.org/cgi?action=article;sid=20230417074903)
 * [2023-04-17, 07:34:08](https://news.ycombinator.com/item?id=35597764) - [Orbital Test Launch of Starship in ~4 hours](https://www.youtube.com/watch?v=L5QXreqOrTA)
 * [2023-04-17, 06:57:31](https://news.ycombinator.com/item?id=35597540) - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
 * [2023-04-17, 06:48:26](https://news.ycombinator.com/item?id=35597493) - [Nintendo Is Taking Down My Videos [video]](https://www.youtube.com/watch?v=FSZYpDk9Xm8)
@@ -14,6 +15,7 @@
 * [2023-04-17, 00:51:08](https://news.ycombinator.com/item?id=35595592) - [A Journey Through Color Space with FFmpeg](https://canvatechblog.com/a-journey-through-color-space-with-ffmpeg-3a129bfd9b05)
 * [2023-04-16, 19:45:32](https://news.ycombinator.com/item?id=35593617) - [Mark Twain&#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
 * [2023-04-16, 19:26:12](https://news.ycombinator.com/item?id=35593424) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
+* [2023-04-16, 18:36:55](https://news.ycombinator.com/item?id=35592935) - [Who cares if you listen? (1958) [pdf]](https://artasillumination.files.wordpress.com/2015/02/who-cares-if-you-listen.pdf)
 * [2023-04-16, 18:29:47](https://news.ycombinator.com/item?id=35592847) - [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
 * [2023-04-16, 18:11:31](https://news.ycombinator.com/item?id=35592654) - [Why flying insects gather at artificial light](https://www.biorxiv.org/content/10.1101/2023.04.11.536486v1)
 * [2023-04-16, 18:06:49](https://news.ycombinator.com/item?id=35592607) - [AT&amp;T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
@@ -27,9 +29,7 @@
 * [2023-04-16, 14:04:29](https://news.ycombinator.com/item?id=35590129) - [Clean front end architecture with SvelteKit](https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit/)
 * [2023-04-16, 13:43:24](https://news.ycombinator.com/item?id=35589967) - [A man who didn’t invent Flamin’ Hot Cheetos](https://www.latimes.com/business/story/2021-05-16/flamin-hot-cheetos-richard-montanez)
 * [2023-04-16, 13:12:06](https://news.ycombinator.com/item?id=35589756) - [Understanding large language models: A cross-section of the relevant literature](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
-* [2023-04-16, 12:38:38](https://news.ycombinator.com/item?id=35589506) - [Build systems à la carte (2018)](https://dl.acm.org/doi/abs/10.1145/3236774)
 * [2023-04-15, 15:32:05](https://news.ycombinator.com/item?id=35581519) - [Peru&#x27;s Great Urban Experiment](https://www.archaeology.org/issues/508-2305/features/11340-peru-chimu-chan-chan)
-* [2023-04-15, 07:28:44](https://news.ycombinator.com/item?id=35578454) - [Appleseed – open-source, physically-based global illumination rendering engine](https://appleseedhq.net/)
 
 ## [Archives](archives/index.md)
 
