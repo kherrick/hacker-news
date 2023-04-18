@@ -2,7 +2,6 @@
 
 * [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
 * [2023-04-18, 18:31:52](https://news.ycombinator.com/item?id=35617951) - [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
-* [2023-04-18, 18:20:03](https://news.ycombinator.com/item?id=35617763) - [Reddit Wants to Get Paid for Helping to Teach Big A.I. Systems](https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html)
 * [2023-04-18, 17:38:28](https://news.ycombinator.com/item?id=35617198) - [Astral](https://astral.sh/)
 * [2023-04-18, 17:32:19](https://news.ycombinator.com/item?id=35617100) - [The Coming Technological Singularity (1993)](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 * [2023-04-18, 16:04:41](https://news.ycombinator.com/item?id=35615848) - [Changes to Tailscale Pricing and Plans](https://tailscale.com/blog/pricing-v3/)
@@ -15,6 +14,7 @@
 * [2023-04-18, 14:15:21](https://news.ycombinator.com/item?id=35614332) - [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 * [2023-04-18, 14:13:19](https://news.ycombinator.com/item?id=35614313) - [Software firms across US facing tax bills that threaten survival](https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html)
 * [2023-04-18, 14:03:09](https://news.ycombinator.com/item?id=35614190) - [Microsoft plugging more ads into Windows 11 Start Menu](https://www.theregister.com/2023/04/17/microsoft_windows_start_ads/)
+* [2023-04-18, 14:01:34](https://news.ycombinator.com/item?id=35614171) - [Brit cops rapped over app that recorded 200k phone calls](https://www.theregister.com/2023/04/18/ico_surrey_sussex_police/)
 * [2023-04-18, 13:18:10](https://news.ycombinator.com/item?id=35613594) - [Giant SpaceX Spiral Appears Amid the Aurora Lights in Alaska&#x27;s Night Sky](https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/)
 * [2023-04-18, 12:45:12](https://news.ycombinator.com/item?id=35613247) - [A WWII spy who hid codes in her knitting](https://www.amightygirl.com/blog?p=25020)
 * [2023-04-18, 12:00:35](https://news.ycombinator.com/item?id=35612819) - [Finley (YC W21) is hiring to automate capital markets processes (US remote)](https://www.finleycms.com/careers/)
