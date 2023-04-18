@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-18, 21:22:35",
+      "https://news.ycombinator.com/item?id=35620407"
+    ],
+    [
+      "Meta is about to start its next round of layoffs",
+      "https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp"
+    ]
+  ],
+  [
+    [
       "2023-04-18, 21:00:20",
       "https://news.ycombinator.com/item?id=35620078"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2023-04-18, 20:13:40",
-      "https://news.ycombinator.com/item?id=35619382"
-    ],
-    [
-      "Reddit founder wants to charge Big Tech for scraped data used to train AIs",
-      "https://www.marketwatch.com/story/reddit-founder-wants-to-charge-big-tech-for-scraped-data-used-to-train-ais-report-6f407265"
-    ]
-  ],
-  [
-    [
       "2023-04-18, 20:06:32",
       "https://news.ycombinator.com/item?id=35619293"
     ],
@@ -57,6 +57,16 @@
     [
       "MMC4: An open, billion-scale corpus of images interleaved with text",
       "https://github.com/allenai/mmc4"
+    ]
+  ],
+  [
+    [
+      "2023-04-18, 19:51:54",
+      "https://news.ycombinator.com/item?id=35619119"
+    ],
+    [
+      "Skybox: Open-Source Graphic Rendering on Programmable RISC-V GPUs",
+      "https://dl.acm.org/doi/pdf/10.1145/3582016.3582024"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Borland C++ Builder (2015)",
       "http://runtimeterror.com/blog/borland-c-builder.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 05:59:01",
-      "https://news.ycombinator.com/item?id=35597269"
-    ],
-    [
-      "Synchrotron technique reveals more details of mysterious Renaissance painting",
-      "https://phys.org/news/2023-04-synchrotron-technique-reveals-mysterious-underlying.html"
     ]
   ],
   [
