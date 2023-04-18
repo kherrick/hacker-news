@@ -6,6 +6,7 @@
 
 * [2023-04-18, 09:28:32](https://news.ycombinator.com/item?id=35611739) - [GitHub Has Problems Again](https://www.githubstatus.com/incidents/k1qts16jgtcp)
 * [2023-04-18, 09:22:33](https://news.ycombinator.com/item?id=35611710) - [Don&#x27;t write clean code, write CRISP code](https://bitfieldconsulting.com/golang/crisp-code)
+* [2023-04-18, 09:13:21](https://news.ycombinator.com/item?id=35611662) - [OpenWRT 22.03.4](https://github.com/openwrt/openwrt/releases/tag/v22.03.4)
 * [2023-04-18, 08:33:46](https://news.ycombinator.com/item?id=35611425) - [PSA: Upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
 * [2023-04-18, 08:21:48](https://news.ycombinator.com/item?id=35611364) - [Ask HN: As a dev: learn marketing? Or start side project? (startup skills)](https://news.ycombinator.com/item?id=35611364)
 * [2023-04-18, 08:10:47](https://news.ycombinator.com/item?id=35611306) - [Ask HN: Are there any search engines without AI?](https://news.ycombinator.com/item?id=35611306)
