@@ -90,6 +90,7 @@
 * [2023-04-17, 02:17:27](https://news.ycombinator.com/item?id=35596180) - [Where do nutrition labels come from? (2022)](https://daily.jstor.org/where-do-nutrition-labels-come-from/)
 * [2023-04-17, 02:14:10](https://news.ycombinator.com/item?id=35596166) - [A hyper-fast local vector database for use with LLM Agents](https://github.com/jdagdelen/hyperDB)
 * [2023-04-17, 02:06:43](https://news.ycombinator.com/item?id=35596107) - [Dolphin Bow-Riding (2009)](https://www.sciencedirect.com/science/article/pii/B9780123735539000377)
+* [2023-04-17, 02:02:45](https://news.ycombinator.com/item?id=35596065) - [Inside a Fujitsu Ethernet chip from 1984](https://oldbytes.space/@kenshirriff/110209305209920677)
 * [2023-04-17, 01:44:40](https://news.ycombinator.com/item?id=35595967) - [DevOps Threat Matrix](https://security-blog-prod-wp01.azurewebsites.net/en-us/security/blog/2023/04/06/devops-threat-matrix/)
 * [2023-04-17, 01:37:10](https://news.ycombinator.com/item?id=35595906) - [Chalmers: Is there a canonical source for “the argument for AGI ruin” somewhere](https://twitter.com/davidchalmers42/status/1647333812584562688)
 * [2023-04-17, 01:24:49](https://news.ycombinator.com/item?id=35595808) - [A Simple Calculus Exercise](https://blog.plover.com/math/se/calculus-exercise.html)
