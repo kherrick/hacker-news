@@ -2,7 +2,6 @@
 
 * [2023-04-18, 08:21:48](https://news.ycombinator.com/item?id=35611364) - [Ask HN: As a dev: learn marketing? Or start side project? (startup skills)](https://news.ycombinator.com/item?id=35611364)
 * [2023-04-18, 08:10:47](https://news.ycombinator.com/item?id=35611306) - [Ask HN: Are there any search engines without AI?](https://news.ycombinator.com/item?id=35611306)
-* [2023-04-18, 05:19:01](https://news.ycombinator.com/item?id=35610243) - [SD Memory Card Formatter for Linux](https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/)
 * [2023-04-18, 05:07:24](https://news.ycombinator.com/item?id=35610168) - [Heroku has been running a second copy of my scheduler instance](https://openfolder.sh/heroku-anti-dx)
 * [2023-04-18, 03:52:54](https://news.ycombinator.com/item?id=35609779) - [An evidence-based guide to expanding your comfort zone](https://every.to/no-small-plans/a-founder-s-guide-to-expanding-your-comfort-zone)
 * [2023-04-18, 03:49:00](https://news.ycombinator.com/item?id=35609758) - [Make the future bright again: On building a new philosophy of progress](https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/)
@@ -20,6 +19,7 @@
 * [2023-04-17, 19:04:47](https://news.ycombinator.com/item?id=35605039) - [DINOv2: State-of-the-art computer vision models with self-supervised learning](https://dinov2.metademolab.com/)
 * [2023-04-17, 14:05:09](https://news.ycombinator.com/item?id=35600860) - [RedPajama: Reproduction of LLaMA with friendly license](https://www.together.xyz/blog/redpajama)
 * [2023-04-17, 13:13:35](https://news.ycombinator.com/item?id=35600130) - [How do electrons find the “path of least resistance”? [video]](https://www.youtube.com/watch?v=C3gnNpYK3lo)
+* [2023-04-17, 07:59:16](https://news.ycombinator.com/item?id=35597934) - [Tag Systems](https://buttondown.email/hillelwayne/archive/tag-systems/)
 * [2023-04-17, 04:52:17](https://news.ycombinator.com/item?id=35596960) - [Soundini: Sound-Guided Diffusion for Natural Video Editing](https://kuai-lab.github.io/soundini-gallery/)
 * [2023-04-17, 02:02:45](https://news.ycombinator.com/item?id=35596065) - [Inside a Fujitsu Ethernet chip from 1984](https://oldbytes.space/@kenshirriff/110209305209920677)
 * [2023-04-16, 22:01:55](https://news.ycombinator.com/item?id=35594671) - [Caravaggio Lost at Sea (2022)](https://www.historytoday.com/archive/missing-pieces/caravaggio-lost-sea)

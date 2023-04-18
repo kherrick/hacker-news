@@ -72,6 +72,7 @@
 * [2023-04-17, 09:15:26](https://news.ycombinator.com/item?id=35598400) - [Maintaining this site fucking sucks](https://zackproser.com/blog/maintaining-this-site-fucking-sucks)
 * [2023-04-17, 08:56:07](https://news.ycombinator.com/item?id=35598281) - [MiniGPT-4](https://minigpt-4.github.io/)
 * [2023-04-17, 08:08:24](https://news.ycombinator.com/item?id=35597994) - [There are no fees at America’s smallest bank](https://www.bloomberg.com/news/features/2023-04-13/america-s-smallest-bank-is-kentland-federal-savings-and-loan)
+* [2023-04-17, 07:59:16](https://news.ycombinator.com/item?id=35597934) - [Tag Systems](https://buttondown.email/hillelwayne/archive/tag-systems/)
 * [2023-04-17, 07:53:12](https://news.ycombinator.com/item?id=35597883) - [Rishi Sunak sets up review to tackle &#x27;anti-maths mindset&#x27;](https://www.bbc.co.uk/news/uk-politics-65293430)
 * [2023-04-17, 07:49:48](https://news.ycombinator.com/item?id=35597854) - [OpenBSD: Malloc leak detection available in -current](https://www.undeadly.org/cgi?action=article;sid=20230417074903)
 * [2023-04-17, 07:34:08](https://news.ycombinator.com/item?id=35597764) - [Orbital Test Launch of Starship in ~4 hours](https://www.youtube.com/watch?v=L5QXreqOrTA)
