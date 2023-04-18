@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 11:14:47](https://news.ycombinator.com/item?id=35612440) - [Why I’m using a keyboard phone in 2023](https://www.theverge.com/23673548/keyboard-phone-2023-features-unihertz-titan-pocket)
 * [2023-04-18, 10:57:35](https://news.ycombinator.com/item?id=35612317) - [The Taxman Will Eventually Come for AI, Too](https://www.bloomberg.com/opinion/articles/2023-04-17/the-taxman-will-eventually-come-for-ai-too)
 * [2023-04-18, 09:53:10](https://news.ycombinator.com/item?id=35611923) - [Marginalia: Search the Internet](https://search.marginalia.nu/)
 * [2023-04-18, 09:28:32](https://news.ycombinator.com/item?id=35611739) - [GitHub Has Problems Again](https://www.githubstatus.com/incidents/k1qts16jgtcp)

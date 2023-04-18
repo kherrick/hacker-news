@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 11:14:47](https://news.ycombinator.com/item?id=35612440) - [Why I’m using a keyboard phone in 2023](https://www.theverge.com/23673548/keyboard-phone-2023-features-unihertz-titan-pocket)
 * [2023-04-18, 10:57:35](https://news.ycombinator.com/item?id=35612317) - [The Taxman Will Eventually Come for AI, Too](https://www.bloomberg.com/opinion/articles/2023-04-17/the-taxman-will-eventually-come-for-ai-too)
 * [2023-04-18, 09:53:10](https://news.ycombinator.com/item?id=35611923) - [Marginalia: Search the Internet](https://search.marginalia.nu/)
 * [2023-04-18, 09:22:33](https://news.ycombinator.com/item?id=35611710) - [Don&#x27;t write clean code, write CRISP code](https://bitfieldconsulting.com/golang/crisp-code)
 * [2023-04-18, 09:13:21](https://news.ycombinator.com/item?id=35611662) - [OpenWRT 22.03.4](https://github.com/openwrt/openwrt/releases/tag/v22.03.4)
 * [2023-04-18, 08:33:46](https://news.ycombinator.com/item?id=35611425) - [PSA: Upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
 * [2023-04-18, 05:07:24](https://news.ycombinator.com/item?id=35610168) - [Heroku has been running a second copy of my scheduler instance](https://openfolder.sh/heroku-anti-dx)
-* [2023-04-18, 03:49:00](https://news.ycombinator.com/item?id=35609758) - [Make the future bright again: On building a new philosophy of progress](https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/)
 * [2023-04-18, 03:44:45](https://news.ycombinator.com/item?id=35609735) - [Ampersand (2015)](http://haggardhawksblog.blogspot.com/2015/03/ampersand.html)
 * [2023-04-18, 03:31:29](https://news.ycombinator.com/item?id=35609652) - [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
 * [2023-04-18, 01:41:47](https://news.ycombinator.com/item?id=35608965) - [Making friends as an adult is hard (2021)](https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults)
