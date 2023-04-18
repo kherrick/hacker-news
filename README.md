@@ -13,7 +13,6 @@
 * [2023-04-18, 00:45:31](https://news.ycombinator.com/item?id=35608601) - [KV.js](https://github.com/HeyPuter/kv.js)
 * [2023-04-18, 00:21:32](https://news.ycombinator.com/item?id=35608437) - [GPT4All releases one click install for Mac,win64,Linux with new GPT-J basemodel](https://gpt4all.io/index.html)
 * [2023-04-17, 23:13:15](https://news.ycombinator.com/item?id=35607885) - [Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT (2019)](https://github.com/atrosinenko/qemujs)
-* [2023-04-17, 22:57:18](https://news.ycombinator.com/item?id=35607757) - [The Windows 11 Trash Party](https://birchtree.me/blog/the-windows-11-trash-party/)
 * [2023-04-17, 22:00:34](https://news.ycombinator.com/item?id=35607199) - [Hot Beds: Low-Cost Ancient Roman Hack to Start Crops Early and Increasing Yield](https://www.growveg.com/guides/how-to-make-a-hotbed-for-the-earliest-sowings/)
 * [2023-04-17, 21:01:46](https://news.ycombinator.com/item?id=35606563) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-04-17, 19:09:43](https://news.ycombinator.com/item?id=35605106) - [Crooks’ mistaken bet on encrypted phones](https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones)
@@ -28,6 +27,7 @@
 * [2023-04-16, 22:01:55](https://news.ycombinator.com/item?id=35594671) - [Caravaggio Lost at Sea (2022)](https://www.historytoday.com/archive/missing-pieces/caravaggio-lost-sea)
 * [2023-04-16, 16:26:32](https://news.ycombinator.com/item?id=35591453) - [OpenVMS 9.2 for x86, Getting Started, boot, licenses, PAKs, networking and SSH](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_Getting_Started_part_2.html)
 * [2023-04-16, 15:34:48](https://news.ycombinator.com/item?id=35590873) - [Clojure Rationale (2008)](https://clojure.org/about/rationale)
+* [2023-04-16, 15:23:17](https://news.ycombinator.com/item?id=35590745) - [Misalignment Museum](https://www.niche-museums.com/110)
 * [2023-04-16, 07:19:56](https://news.ycombinator.com/item?id=35587981) - [OpenSSH versus SSH](https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHVersusSSH)
 * [2023-04-15, 08:35:20](https://news.ycombinator.com/item?id=35578765) - [DOOM maps to SVG to laser cutter](https://theor.xyz/doom-maps-laser-cut/)
 
