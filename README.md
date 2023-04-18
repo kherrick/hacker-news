@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-18, 18:22:02](https://news.ycombinator.com/item?id=35617795) - [Please Blow the Whistle on Censorship](https://public.substack.com/p/please-blow-the-whistle-on-censorship)
+* [2023-04-18, 18:20:03](https://news.ycombinator.com/item?id=35617763) - [Reddit Wants to Get Paid for Helping to Teach Big A.I. Systems](https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html)
 * [2023-04-18, 18:02:21](https://news.ycombinator.com/item?id=35617493) - [Anime Confronts a New Apocalypse](https://www.newyorker.com/culture/cultural-comment/anime-confronts-a-new-apocalypse)
 * [2023-04-18, 17:38:28](https://news.ycombinator.com/item?id=35617198) - [Astral](https://astral.sh/)
 * [2023-04-18, 17:32:19](https://news.ycombinator.com/item?id=35617100) - [The Coming Technological Singularity (1993)](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
