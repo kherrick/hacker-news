@@ -8,6 +8,7 @@
 * [2023-04-16, 23:07:22](https://news.ycombinator.com/item?id=35595026) - [&#x27;Algebra for none&#x27; fails in San Francisco](https://www.joannejacobs.com/post/algebra-for-none-fails-in-san-francisco)
 * [2023-04-16, 22:34:07](https://news.ycombinator.com/item?id=35594853) - [The basics of decoupling capacitors](https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors)
 * [2023-04-16, 22:01:55](https://news.ycombinator.com/item?id=35594671) - [Caravaggio Lost at Sea](https://www.historytoday.com/archive/missing-pieces/caravaggio-lost-sea)
+* [2023-04-16, 19:48:01](https://news.ycombinator.com/item?id=35593635) - [Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332)
 * [2023-04-16, 19:45:32](https://news.ycombinator.com/item?id=35593617) - [Mark Twain&#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
 * [2023-04-16, 19:35:39](https://news.ycombinator.com/item?id=35593517) - [Proxmox Docker Containers Monster – 13000 containers on a single host](https://www.virtualizationhowto.com/2023/04/proxmox-docker-containers-monster-13000-containers-on-a-single-host/)
 * [2023-04-16, 19:34:35](https://news.ycombinator.com/item?id=35593507) - [Best predictor of professional success isn’t cognitive performance](https://english.elpais.com/science-tech/2023-04-13/daniel-sanabria-psychologist-the-best-predictor-of-professional-success-isnt-cognitive-performance-its-whether-your-parents-have-money.html)
