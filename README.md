@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 13:18:10](https://news.ycombinator.com/item?id=35613594) - [Giant SpaceX Spiral Appears Amid the Aurora Lights in Alaska&#x27;s Night Sky](https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/)
 * [2023-04-18, 12:45:12](https://news.ycombinator.com/item?id=35613247) - [The WWII Spy Who Hid Codes in Her Knitting](https://www.amightygirl.com/blog?p=25020)
 * [2023-04-18, 12:00:35](https://news.ycombinator.com/item?id=35612819) - [Finley (YC W21) is hiring to automate capital markets processes (US remote)](https://www.finleycms.com/careers/)
-* [2023-04-18, 11:58:58](https://news.ycombinator.com/item?id=35612797) - [Two Office Landlords Defaulting May Be Just the Beginning](https://www.bloomberg.com/news/articles/2023-03-01/work-from-home-high-interest-rates-put-92-billion-in-office-mortgages-at-risk)
 * [2023-04-18, 11:54:44](https://news.ycombinator.com/item?id=35612764) - [Startup CEOs learned engineering management from captain kirk](https://www.amazingcto.com/startup-ceo-startrek-kirk-engineering-management/)
 * [2023-04-18, 11:21:44](https://news.ycombinator.com/item?id=35612494) - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 * [2023-04-18, 11:14:47](https://news.ycombinator.com/item?id=35612440) - [Why I’m using a keyboard phone in 2023](https://www.theverge.com/23673548/keyboard-phone-2023-features-unihertz-titan-pocket)
