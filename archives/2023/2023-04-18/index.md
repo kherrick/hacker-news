@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 16:12:37](https://news.ycombinator.com/item?id=35615948) - [Tailscale Enterprise](https://tailscale.com/blog/enterprise/)
 * [2023-04-18, 16:04:41](https://news.ycombinator.com/item?id=35615848) - [Changes to Tailscale Pricing and Plans](https://tailscale.com/blog/pricing-v3/)
 * [2023-04-18, 15:52:22](https://news.ycombinator.com/item?id=35615683) - [Europe’s Ariane 6 rocket is turning into a space policy disaster](https://arstechnica.com/science/2023/04/europes-ariane-6-rocket-is-turning-into-a-space-policy-disaster/)
 * [2023-04-18, 15:47:31](https://news.ycombinator.com/item?id=35615601) - [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
