@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 18:31:52](https://news.ycombinator.com/item?id=35617951) - [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
 * [2023-04-18, 18:22:02](https://news.ycombinator.com/item?id=35617795) - [Please Blow the Whistle on Censorship](https://public.substack.com/p/please-blow-the-whistle-on-censorship)
 * [2023-04-18, 18:20:03](https://news.ycombinator.com/item?id=35617763) - [Reddit Wants to Get Paid for Helping to Teach Big A.I. Systems](https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html)
 * [2023-04-18, 18:02:21](https://news.ycombinator.com/item?id=35617493) - [Anime Confronts a New Apocalypse](https://www.newyorker.com/culture/cultural-comment/anime-confronts-a-new-apocalypse)
+* [2023-04-18, 17:52:16](https://news.ycombinator.com/item?id=35617363) - [Alphabet shares fall on report Samsung may dump Google Search for Bing](https://www.reuters.com/technology/alphabet-falls-report-samsung-considering-bing-default-search-engine-2023-04-17/)
 * [2023-04-18, 17:38:28](https://news.ycombinator.com/item?id=35617198) - [Astral](https://astral.sh/)
 * [2023-04-18, 17:32:19](https://news.ycombinator.com/item?id=35617100) - [The Coming Technological Singularity: How to Survive in the Post-Human Era](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 * [2023-04-18, 17:03:24](https://news.ycombinator.com/item?id=35616704) - [Windows 11 Start menu ads look set to get even worse – this is getting painful](https://www.techradar.com/news/windows-11-start-menu-ads-look-set-to-get-even-worse-this-is-getting-painful-now)
