@@ -8,6 +8,7 @@
 * [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
 * [2023-04-18, 18:31:52](https://news.ycombinator.com/item?id=35617951) - [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
 * [2023-04-18, 18:22:02](https://news.ycombinator.com/item?id=35617795) - [Please Blow the Whistle on Censorship](https://public.substack.com/p/please-blow-the-whistle-on-censorship)
+* [2023-04-18, 18:20:50](https://news.ycombinator.com/item?id=35617773) - [French publisher arrested in London for refusal to tell police his passcodes](https://www.theguardian.com/uk-news/2023/apr/18/french-publisher-arrested-london-counter-terrorism-police-ernest-moret)
 * [2023-04-18, 18:20:03](https://news.ycombinator.com/item?id=35617763) - [Reddit Wants to Get Paid for Helping to Teach Big A.I. Systems](https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html)
 * [2023-04-18, 18:02:21](https://news.ycombinator.com/item?id=35617493) - [Anime Confronts a New Apocalypse](https://www.newyorker.com/culture/cultural-comment/anime-confronts-a-new-apocalypse)
 * [2023-04-18, 17:52:16](https://news.ycombinator.com/item?id=35617363) - [Alphabet shares fall on report Samsung may dump Google Search for Bing](https://www.reuters.com/technology/alphabet-falls-report-samsung-considering-bing-default-search-engine-2023-04-17/)
