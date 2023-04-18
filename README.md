@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 20:31:20](https://news.ycombinator.com/item?id=35619631) - [Dominion Voting Systems and Fox reach last-minute settlement](https://www.cbc.ca/news/world/dominion-voting-fox-news-trial-1.6813876)
+* [2023-04-18, 20:28:44](https://news.ycombinator.com/item?id=35619589) - [Netflix Will End Its DVD Service After 25 Years](https://www.nytimes.com/2023/04/18/business/media/netflix-dvds-earnings.html)
+* [2023-04-18, 20:27:56](https://news.ycombinator.com/item?id=35619575) - [GPT-4 will hunt for trends in medical records thanks to Microsoft and Epic](https://arstechnica.com/information-technology/2023/04/gpt-4-will-hunt-for-trends-in-medical-records-thanks-to-microsoft-and-epic/)
 * [2023-04-18, 19:55:02](https://news.ycombinator.com/item?id=35619159) - [MMC4: An open, billion-scale corpus of images interleaved with text](https://github.com/allenai/mmc4)
 * [2023-04-18, 19:18:39](https://news.ycombinator.com/item?id=35618695) - [Reddit will begin charging for access to its API](https://techcrunch.com/2023/04/18/reddit-will-begin-charging-for-access-to-its-api/)
 * [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
@@ -8,9 +11,6 @@
 * [2023-04-18, 17:38:28](https://news.ycombinator.com/item?id=35617198) - [Astral](https://astral.sh/)
 * [2023-04-18, 15:59:28](https://news.ycombinator.com/item?id=35615778) - [Brain images just got 64 million times sharper](https://medicalxpress.com/news/2023-04-brain-images-million-sharper.html)
 * [2023-04-18, 15:47:31](https://news.ycombinator.com/item?id=35615601) - [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
-* [2023-04-18, 15:40:47](https://news.ycombinator.com/item?id=35615490) - [How can we stop the CO2 that plants store from leaking back into the air?](https://nautil.us/how-can-we-stop-the-co2-that-plants-store-from-leaking-back-into-the-air-297612/)
-* [2023-04-18, 15:13:00](https://news.ycombinator.com/item?id=35615062) - [Southwest Airlines Halts Flight Departures Amid Technology Issue](https://www.bloomberg.com/news/articles/2023-04-18/southwest-airlines-halts-flight-departures-amid-technology-issue)
-* [2023-04-18, 15:00:42](https://news.ycombinator.com/item?id=35614884) - [Southwest Airlines pauses departures after reporting technical problems](https://www.cnbc.com/2023/04/18/southwest-airlines-departures-pause.html)
 * [2023-04-18, 14:24:59](https://news.ycombinator.com/item?id=35614442) - [A new kind of symmetry shakes up physics](https://www.quantamagazine.org/a-new-kind-of-symmetry-shakes-up-physics-20230418/)
 * [2023-04-18, 14:15:21](https://news.ycombinator.com/item?id=35614332) - [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 * [2023-04-18, 14:13:19](https://news.ycombinator.com/item?id=35614313) - [Software firms across US facing tax bills that threaten survival](https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html)

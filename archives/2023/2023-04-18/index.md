@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 20:31:20](https://news.ycombinator.com/item?id=35619631) - [Dominion Voting Systems and Fox reach last-minute settlement](https://www.cbc.ca/news/world/dominion-voting-fox-news-trial-1.6813876)
+* [2023-04-18, 20:28:44](https://news.ycombinator.com/item?id=35619589) - [Netflix Will End Its DVD Service After 25 Years](https://www.nytimes.com/2023/04/18/business/media/netflix-dvds-earnings.html)
+* [2023-04-18, 20:27:56](https://news.ycombinator.com/item?id=35619575) - [GPT-4 will hunt for trends in medical records thanks to Microsoft and Epic](https://arstechnica.com/information-technology/2023/04/gpt-4-will-hunt-for-trends-in-medical-records-thanks-to-microsoft-and-epic/)
 * [2023-04-18, 19:55:02](https://news.ycombinator.com/item?id=35619159) - [MMC4: An open, billion-scale corpus of images interleaved with text](https://github.com/allenai/mmc4)
 * [2023-04-18, 19:18:39](https://news.ycombinator.com/item?id=35618695) - [Reddit will begin charging for access to its API](https://techcrunch.com/2023/04/18/reddit-will-begin-charging-for-access-to-its-api/)
 * [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
