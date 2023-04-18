@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 17:38:28](https://news.ycombinator.com/item?id=35617198) - [Astral](https://astral.sh/)
 * [2023-04-18, 17:03:24](https://news.ycombinator.com/item?id=35616704) - [Windows 11 Start menu ads look set to get even worse – this is getting painful](https://www.techradar.com/news/windows-11-start-menu-ads-look-set-to-get-even-worse-this-is-getting-painful-now)
 * [2023-04-18, 16:46:42](https://news.ycombinator.com/item?id=35616444) - [Optimizing a Full Self Driving RC Car](https://hackaday.com/2023/04/17/robot-races-a-little-smarter-to-go-faster/)
 * [2023-04-18, 16:32:25](https://news.ycombinator.com/item?id=35616264) - [ReRoom AI: Test Interior Design Ideas and Styles Before Hiring a Designer](https://reroom.ai?ref=HN)
@@ -10,7 +11,6 @@
 * [2023-04-18, 15:13:00](https://news.ycombinator.com/item?id=35615062) - [Southwest Airlines Halts Flight Departures Amid Technology Issue](https://www.bloomberg.com/news/articles/2023-04-18/southwest-airlines-halts-flight-departures-amid-technology-issue)
 * [2023-04-18, 15:00:42](https://news.ycombinator.com/item?id=35614884) - [Southwest Airlines pauses departures after reporting technical problems](https://www.cnbc.com/2023/04/18/southwest-airlines-departures-pause.html)
 * [2023-04-18, 14:24:59](https://news.ycombinator.com/item?id=35614442) - [A new kind of symmetry shakes up physics](https://www.quantamagazine.org/a-new-kind-of-symmetry-shakes-up-physics-20230418/)
-* [2023-04-18, 14:20:55](https://news.ycombinator.com/item?id=35614401) - [AI song featuring fake Drake and Weeknd vocals pulled from streaming services](https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services)
 * [2023-04-18, 14:15:21](https://news.ycombinator.com/item?id=35614332) - [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 * [2023-04-18, 14:01:34](https://news.ycombinator.com/item?id=35614171) - [Brit cops rapped over app that recorded 200k phone calls](https://www.theregister.com/2023/04/18/ico_surrey_sussex_police/)
 * [2023-04-18, 13:18:10](https://news.ycombinator.com/item?id=35613594) - [Giant SpaceX Spiral Appears Amid the Aurora Lights in Alaska&#x27;s Night Sky](https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/)
