@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 05:07:24](https://news.ycombinator.com/item?id=35610168) - [You didn’t just do that, Heroku](https://openfolder.sh/heroku-anti-dx)
 * [2023-04-18, 03:50:13](https://news.ycombinator.com/item?id=35609766) - [Court strikes down Berkeley’s ban on natural gas in new construction](https://www.sfchronicle.com/politics/article/ninth-circuit-berkeley-natural-gas-ban-17902110.php)
 * [2023-04-18, 03:49:00](https://news.ycombinator.com/item?id=35609758) - [Make the future bright again: On building a new philosophy of progress](https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/)
 * [2023-04-18, 03:44:45](https://news.ycombinator.com/item?id=35609735) - [Ampersand was once “and per se and” &amp; was the 27th letter of the alphabet](http://haggardhawksblog.blogspot.com/2015/03/ampersand.html)
@@ -19,7 +20,6 @@
 * [2023-04-17, 19:04:47](https://news.ycombinator.com/item?id=35605039) - [DINOv2: State-of-the-art computer vision models with self-supervised learning](https://dinov2.metademolab.com/)
 * [2023-04-17, 17:25:04](https://news.ycombinator.com/item?id=35603756) - [OpenAI’s CEO says the age of giant AI models is already over](https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/)
 * [2023-04-17, 16:23:03](https://news.ycombinator.com/item?id=35602983) - [The Inner Workings of Distributed Databases](https://questdb.io/blog/inner-workings-distributed-databases/)
-* [2023-04-17, 15:11:03](https://news.ycombinator.com/item?id=35601958) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
 * [2023-04-17, 14:05:09](https://news.ycombinator.com/item?id=35600860) - [RedPajama: Reproduction of LLaMA with friendly license](https://www.together.xyz/blog/redpajama)
 * [2023-04-17, 13:13:35](https://news.ycombinator.com/item?id=35600130) - [How do electrons find the “path of least resistance”? [video]](https://www.youtube.com/watch?v=C3gnNpYK3lo)
 * [2023-04-17, 06:16:33](https://news.ycombinator.com/item?id=35597346) - [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
