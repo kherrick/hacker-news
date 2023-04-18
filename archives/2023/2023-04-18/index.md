@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 14:12:14](https://news.ycombinator.com/item?id=35614299) - [ChatGPT can help yield more accurate stock trading predictions – study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788)
+* [2023-04-18, 14:01:34](https://news.ycombinator.com/item?id=35614171) - [Brit cops rapped over app that recorded 200k phone calls](https://www.theregister.com/2023/04/18/ico_surrey_sussex_police/)
 * [2023-04-18, 13:18:10](https://news.ycombinator.com/item?id=35613594) - [Giant SpaceX Spiral Appears Amid the Aurora Lights in Alaska&#x27;s Night Sky](https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/)
 * [2023-04-18, 13:01:02](https://news.ycombinator.com/item?id=35613413) - [GPTs as a Drop in the Fixed Cost of Prediction](http://reasoning-machines.s3-website.ca-central-1.amazonaws.com/)
 * [2023-04-18, 12:45:12](https://news.ycombinator.com/item?id=35613247) - [The WWII Spy Who Hid Codes in Her Knitting](https://www.amightygirl.com/blog?p=25020)
@@ -11,6 +13,7 @@
 * [2023-04-18, 11:58:58](https://news.ycombinator.com/item?id=35612797) - [Two Office Landlords Defaulting May Be Just the Beginning](https://www.bloomberg.com/news/articles/2023-03-01/work-from-home-high-interest-rates-put-92-billion-in-office-mortgages-at-risk)
 * [2023-04-18, 11:54:44](https://news.ycombinator.com/item?id=35612764) - [Startup CEOs Learned Engineering Management from Captain Kirk](https://www.amazingcto.com/startup-ceo-startrek-kirk-engineering-management/)
 * [2023-04-18, 11:51:53](https://news.ycombinator.com/item?id=35612733) - [Apple’s agreement with Cupertino is taxpayer-fleecing collusion](https://news.bloombergtax.com/tax-insights-and-commentary/apples-agreement-with-cupertino-is-taxpayer-fleecing-collusion)
+* [2023-04-18, 11:23:06](https://news.ycombinator.com/item?id=35612501) - [Facing brutal climate math, US bets billions on direct air capture](https://www.reuters.com/world/us/facing-brutal-climate-math-us-bets-billions-direct-air-capture-2023-04-18/)
 * [2023-04-18, 11:21:44](https://news.ycombinator.com/item?id=35612494) - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 * [2023-04-18, 11:14:47](https://news.ycombinator.com/item?id=35612440) - [Why I’m using a keyboard phone in 2023](https://www.theverge.com/23673548/keyboard-phone-2023-features-unihertz-titan-pocket)
 * [2023-04-18, 10:57:35](https://news.ycombinator.com/item?id=35612317) - [The Taxman Will Eventually Come for AI, Too](https://www.bloomberg.com/opinion/articles/2023-04-17/the-taxman-will-eventually-come-for-ai-too)
