@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 22:49:37](https://news.ycombinator.com/item?id=35621539) - [Americans ‘surprised’ by what they saw inside the T-90A tank](https://www.technology.org/2023/04/18/americans-surprised-by-what-they-saw-inside-the-t-90a-tank-photo/)
 * [2023-04-18, 22:23:52](https://news.ycombinator.com/item?id=35621238) - [Node.js 20 is now available](https://nodejs.org/en/blog/announcements/v20-release-announce)
 * [2023-04-18, 22:06:00](https://news.ycombinator.com/item?id=35621023) - [LLaVA: Large Language and Vision Assistant](https://llava-vl.github.io/)
 * [2023-04-18, 21:58:35](https://news.ycombinator.com/item?id=35620924) - [Why do ships use “port” and “starboard” instead of “left” and “right?”](https://oceanservice.noaa.gov/facts/port-starboard.html)
@@ -12,7 +13,6 @@
 * [2023-04-18, 19:51:54](https://news.ycombinator.com/item?id=35619119) - [Skybox: Open-Source Graphic Rendering on Programmable RISC-V GPUs](https://dl.acm.org/doi/pdf/10.1145/3582016.3582024)
 * [2023-04-18, 19:32:04](https://news.ycombinator.com/item?id=35618878) - [PlanD: Plan9 from Containerspace](https://github.com/rvs/planD)
 * [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
-* [2023-04-18, 18:51:12](https://news.ycombinator.com/item?id=35618253) - [Cilium Mesh – One Mesh to Connect Them All](https://isovalent.com/blog/post/introducing-cilium-mesh/)
 * [2023-04-18, 18:31:52](https://news.ycombinator.com/item?id=35617951) - [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
 * [2023-04-18, 18:20:50](https://news.ycombinator.com/item?id=35617773) - [French publisher arrested in London for refusal to tell police his passcodes](https://www.theguardian.com/uk-news/2023/apr/18/french-publisher-arrested-london-counter-terrorism-police-ernest-moret)
 * [2023-04-18, 18:20:03](https://news.ycombinator.com/item?id=35617763) - [Reddit will begin charging for access to its API](https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html)
