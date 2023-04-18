@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 18:02:21](https://news.ycombinator.com/item?id=35617493) - [Anime Confronts a New Apocalypse](https://www.newyorker.com/culture/cultural-comment/anime-confronts-a-new-apocalypse)
 * [2023-04-18, 17:38:28](https://news.ycombinator.com/item?id=35617198) - [Astral](https://astral.sh/)
+* [2023-04-18, 17:32:19](https://news.ycombinator.com/item?id=35617100) - [The Coming Technological Singularity: How to Survive in the Post-Human Era](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 * [2023-04-18, 17:03:24](https://news.ycombinator.com/item?id=35616704) - [Windows 11 Start menu ads look set to get even worse – this is getting painful](https://www.techradar.com/news/windows-11-start-menu-ads-look-set-to-get-even-worse-this-is-getting-painful-now)
 * [2023-04-18, 16:46:42](https://news.ycombinator.com/item?id=35616444) - [Optimizing a Full Self Driving RC Car](https://hackaday.com/2023/04/17/robot-races-a-little-smarter-to-go-faster/)
 * [2023-04-18, 16:32:25](https://news.ycombinator.com/item?id=35616264) - [ReRoom AI: Test Interior Design Ideas and Styles Before Hiring a Designer](https://reroom.ai?ref=HN)

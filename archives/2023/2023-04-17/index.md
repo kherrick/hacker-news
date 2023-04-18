@@ -83,6 +83,7 @@
 * [2023-04-17, 06:57:31](https://news.ycombinator.com/item?id=35597540) - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
 * [2023-04-17, 06:48:26](https://news.ycombinator.com/item?id=35597493) - [Nintendo Is Taking Down My Videos [video]](https://www.youtube.com/watch?v=FSZYpDk9Xm8)
 * [2023-04-17, 06:16:33](https://news.ycombinator.com/item?id=35597346) - [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
+* [2023-04-17, 05:59:01](https://news.ycombinator.com/item?id=35597269) - [Synchrotron technique reveals more details of mysterious Renaissance painting](https://phys.org/news/2023-04-synchrotron-technique-reveals-mysterious-underlying.html)
 * [2023-04-17, 05:31:12](https://news.ycombinator.com/item?id=35597152) - [Microsoft deleted the public support forums for SwiftKey](https://mastodon.social/@mcc/110209163620520535)
 * [2023-04-17, 04:52:17](https://news.ycombinator.com/item?id=35596960) - [Soundini: Sound-Guided Diffusion for Natural Video Editing](https://kuai-lab.github.io/soundini-gallery/)
 * [2023-04-17, 04:52:16](https://news.ycombinator.com/item?id=35596959) - [I made my blog solar-powered, then things escalated](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
