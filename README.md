@@ -4,7 +4,6 @@
 * [2023-04-18, 22:28:26](https://news.ycombinator.com/item?id=35621309) - [MRI Brain Images Just Got 64M Times Sharper](https://today.duke.edu/2023/04/brain-images-just-got-64-million-times-sharper)
 * [2023-04-18, 22:23:52](https://news.ycombinator.com/item?id=35621238) - [Node.js 20 is now available](https://nodejs.org/en/blog/announcements/v20-release-announce)
 * [2023-04-18, 22:06:00](https://news.ycombinator.com/item?id=35621023) - [LLaVA: Large Language and Vision Assistant](https://llava-vl.github.io/)
-* [2023-04-18, 21:58:35](https://news.ycombinator.com/item?id=35620924) - [Why do ships use “port” and “starboard” instead of “left” and “right?”](https://oceanservice.noaa.gov/facts/port-starboard.html)
 * [2023-04-18, 21:22:35](https://news.ycombinator.com/item?id=35620407) - [Meta is about to start its next round of layoffs](https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp)
 * [2023-04-18, 21:14:39](https://news.ycombinator.com/item?id=35620291) - [Clock](https://oimo.io/works/clock/)
 * [2023-04-18, 21:00:20](https://news.ycombinator.com/item?id=35620078) - [Toko (YC W22) Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35620078)
@@ -29,6 +28,7 @@
 * [2023-04-17, 19:46:52](https://news.ycombinator.com/item?id=35605602) - [Draculas, Ranked](https://www.vulture.com/article/dracula-movie-performances-ranked.html)
 * [2023-04-17, 08:00:13](https://news.ycombinator.com/item?id=35597937) - [The &#x27;biggest art fraud in history&#x27;](https://www.theartnewspaper.com/2023/03/17/podcast-inside-the-biggest-art-fraud-in-history-what-the-alleged-mass-forgery-tells-us-about-the-market-for-first-nations-art-in-canada)
 * [2023-04-17, 07:51:21](https://news.ycombinator.com/item?id=35597869) - [The Big Dictionary of MLOps](https://www.hopsworks.ai/mlops-dictionary)
+* [2023-04-17, 07:12:15](https://news.ycombinator.com/item?id=35597638) - [Borland C++ Builder (2015)](http://runtimeterror.com/blog/borland-c-builder.html)
 * [2023-04-16, 10:34:12](https://news.ycombinator.com/item?id=35588797) - [Load Balancing](https://samwho.dev/load-balancing/)
 
 ## [Archives](archives/index.md)
