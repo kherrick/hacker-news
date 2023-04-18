@@ -6,6 +6,7 @@
 
 * [2023-04-18, 15:08:05](https://news.ycombinator.com/item?id=35614981) - [The VC Downturn in 6 Charts](https://news.crunchbase.com/venture/vc-funding-downturn-charts-q1-2023/)
 * [2023-04-18, 14:49:56](https://news.ycombinator.com/item?id=35614754) - [Coinbase CEO: we&#x27;re preparing to go to court with the U.S. SEC](https://www.cnbc.com/2023/04/18/coinbase-ceo-says-it-is-preparing-to-go-to-court-with-the-us-sec-.html)
+* [2023-04-18, 14:24:59](https://news.ycombinator.com/item?id=35614442) - [A New Kind of Symmetry Shakes Up Physics](https://www.quantamagazine.org/a-new-kind-of-symmetry-shakes-up-physics-20230418/)
 * [2023-04-18, 14:20:55](https://news.ycombinator.com/item?id=35614401) - [AI song featuring fake Drake and Weeknd vocals pulled from streaming services](https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services)
 * [2023-04-18, 14:15:21](https://news.ycombinator.com/item?id=35614332) - [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 * [2023-04-18, 14:13:19](https://news.ycombinator.com/item?id=35614313) - [Software firms across US facing tax bills that threaten startup survival](https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html)
