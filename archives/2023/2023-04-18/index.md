@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 19:18:39](https://news.ycombinator.com/item?id=35618695) - [Reddit will begin charging for access to its API](https://techcrunch.com/2023/04/18/reddit-will-begin-charging-for-access-to-its-api/)
 * [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
 * [2023-04-18, 18:31:52](https://news.ycombinator.com/item?id=35617951) - [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
 * [2023-04-18, 18:22:02](https://news.ycombinator.com/item?id=35617795) - [Please Blow the Whistle on Censorship](https://public.substack.com/p/please-blow-the-whistle-on-censorship)
