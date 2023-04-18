@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 16:04:41](https://news.ycombinator.com/item?id=35615848) - [Changes to Tailscale Pricing and Plans](https://tailscale.com/blog/pricing-v3/)
+* [2023-04-18, 15:52:22](https://news.ycombinator.com/item?id=35615683) - [Europe’s Ariane 6 rocket is turning into a space policy disaster](https://arstechnica.com/science/2023/04/europes-ariane-6-rocket-is-turning-into-a-space-policy-disaster/)
+* [2023-04-18, 15:47:31](https://news.ycombinator.com/item?id=35615601) - [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
+* [2023-04-18, 15:40:47](https://news.ycombinator.com/item?id=35615490) - [How Can We Stop the CO2 That Plants Store from Leaking Back into the Air?](https://nautil.us/how-can-we-stop-the-co2-that-plants-store-from-leaking-back-into-the-air-297612/)
 * [2023-04-18, 15:13:00](https://news.ycombinator.com/item?id=35615062) - [Southwest Airlines Halts Flight Departures Amid Technology Issue](https://www.bloomberg.com/news/articles/2023-04-18/southwest-airlines-halts-flight-departures-amid-technology-issue)
 * [2023-04-18, 15:08:05](https://news.ycombinator.com/item?id=35614981) - [The VC Downturn in 6 Charts](https://news.crunchbase.com/venture/vc-funding-downturn-charts-q1-2023/)
 * [2023-04-18, 15:00:42](https://news.ycombinator.com/item?id=35614884) - [Southwest Airlines pauses departures after reporting technical problems](https://www.cnbc.com/2023/04/18/southwest-airlines-departures-pause.html)
