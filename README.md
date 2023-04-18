@@ -12,7 +12,6 @@
 * [2023-04-18, 00:21:32](https://news.ycombinator.com/item?id=35608437) - [GPT4All Chat – Locally-running AI chat application powered by the GPT4All-J](https://gpt4all.io/index.html)
 * [2023-04-17, 23:13:15](https://news.ycombinator.com/item?id=35607885) - [Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT (2019)](https://github.com/atrosinenko/qemujs)
 * [2023-04-17, 22:57:18](https://news.ycombinator.com/item?id=35607757) - [The Windows 11 Trash Party](https://birchtree.me/blog/the-windows-11-trash-party/)
-* [2023-04-17, 22:55:19](https://news.ycombinator.com/item?id=35607744) - [Show HN: MindPop – Great Lectures Set to Ambient](https://mindpop.blankenship.io/index.html)
 * [2023-04-17, 22:00:34](https://news.ycombinator.com/item?id=35607199) - [Hot Beds: Low-Cost Ancient Roman Hack to Start Crops Early and Increasing Yield](https://www.growveg.com/guides/how-to-make-a-hotbed-for-the-earliest-sowings/)
 * [2023-04-17, 21:01:46](https://news.ycombinator.com/item?id=35606563) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-04-17, 19:09:43](https://news.ycombinator.com/item?id=35605106) - [Crooks’ mistaken bet on encrypted phones](https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones)
@@ -30,6 +29,7 @@
 * [2023-04-16, 15:23:17](https://news.ycombinator.com/item?id=35590745) - [Misalignment Museum](https://www.niche-museums.com/110)
 * [2023-04-16, 07:19:56](https://news.ycombinator.com/item?id=35587981) - [OpenSSH versus SSH](https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHVersusSSH)
 * [2023-04-15, 08:35:20](https://news.ycombinator.com/item?id=35578765) - [DOOM maps to SVG to laser cutter](https://theor.xyz/doom-maps-laser-cut/)
+* [2023-04-15, 05:19:16](https://news.ycombinator.com/item?id=35577809) - [How Puzzles Made Us Human (2014) [pdf]](https://www.gathering4gardner.org/g4g12gift/Mutalik_Pradeep-How_Puzzles_Made_Us_Human.pdf)
 
 ## [Archives](archives/index.md)
 
