@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-18, 00:55:47](https://news.ycombinator.com/item?id=35608662) - [You&#x27;d Be Happier Living Closer to Friends. Why Don&#x27;t You?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
+* [2023-04-18, 01:41:47](https://news.ycombinator.com/item?id=35608965) - [You&#x27;re not uncool. Making friends as an adult is just hard](https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults)
+* [2023-04-18, 00:55:47](https://news.ycombinator.com/item?id=35608662) - [Why don’t more people live close to friends?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
 * [2023-04-18, 00:45:31](https://news.ycombinator.com/item?id=35608601) - [KV.js](https://github.com/HeyPuter/kv.js)
 * [2023-04-17, 23:51:35](https://news.ycombinator.com/item?id=35608199) - [Michigan could provide $300M to reopen nuclear power plant](https://www.power-eng.com/nuclear/michigan-could-provide-300m-to-reopen-nuclear-power-plant/)
 * [2023-04-17, 23:13:15](https://news.ycombinator.com/item?id=35607885) - [Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT (2019)](https://github.com/atrosinenko/qemujs)
@@ -24,7 +25,6 @@
 * [2023-04-17, 11:47:06](https://news.ycombinator.com/item?id=35599363) - [Keep stuff linkable](https://animaomnium.github.io/keep-stuff-linkable/)
 * [2023-04-17, 06:16:33](https://news.ycombinator.com/item?id=35597346) - [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
 * [2023-04-17, 04:52:17](https://news.ycombinator.com/item?id=35596960) - [Soundini: Sound-Guided Diffusion for Natural Video Editing](https://kuai-lab.github.io/soundini-gallery/)
-* [2023-04-17, 02:26:48](https://news.ycombinator.com/item?id=35596231) - [History of Kites](https://www.kite.org/about-kites/history-of-kites/)
 * [2023-04-16, 22:01:55](https://news.ycombinator.com/item?id=35594671) - [Caravaggio Lost at Sea (2022)](https://www.historytoday.com/archive/missing-pieces/caravaggio-lost-sea)
 * [2023-04-16, 08:30:21](https://news.ycombinator.com/item?id=35588230) - [Random digits is not enough to uniquely identify all human beings](https://lemire.me/blog/2023/04/12/19-random-digits-is-not-enough-to-uniquely-identify-all-human-beings/)
 * [2023-04-16, 07:19:56](https://news.ycombinator.com/item?id=35587981) - [OpenSSH versus SSH](https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHVersusSSH)
