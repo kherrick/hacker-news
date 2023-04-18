@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 14:20:55](https://news.ycombinator.com/item?id=35614401) - [AI song featuring fake Drake and Weeknd vocals pulled from streaming services](https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services)
+* [2023-04-18, 14:15:21](https://news.ycombinator.com/item?id=35614332) - [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
+* [2023-04-18, 14:13:19](https://news.ycombinator.com/item?id=35614313) - [Software firms across US facing tax bills that threaten startup survival](https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html)
 * [2023-04-18, 14:12:14](https://news.ycombinator.com/item?id=35614299) - [ChatGPT can help yield more accurate stock trading predictions – study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788)
 * [2023-04-18, 14:01:34](https://news.ycombinator.com/item?id=35614171) - [Brit cops rapped over app that recorded 200k phone calls](https://www.theregister.com/2023/04/18/ico_surrey_sussex_police/)
 * [2023-04-18, 13:18:10](https://news.ycombinator.com/item?id=35613594) - [Giant SpaceX Spiral Appears Amid the Aurora Lights in Alaska&#x27;s Night Sky](https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/)
-* [2023-04-18, 13:01:02](https://news.ycombinator.com/item?id=35613413) - [GPTs as a drop in the fixed cost of prediction](http://reasoning-machines.s3-website.ca-central-1.amazonaws.com/)
 * [2023-04-18, 12:45:12](https://news.ycombinator.com/item?id=35613247) - [A WWII spy who hid codes in her knitting](https://www.amightygirl.com/blog?p=25020)
 * [2023-04-18, 12:00:35](https://news.ycombinator.com/item?id=35612819) - [Finley (YC W21) is hiring to automate capital markets processes (US remote)](https://www.finleycms.com/careers/)
 * [2023-04-18, 11:51:53](https://news.ycombinator.com/item?id=35612733) - [Apple’s agreement with Cupertino is taxpayer-fleecing collusion](https://news.bloombergtax.com/tax-insights-and-commentary/apples-agreement-with-cupertino-is-taxpayer-fleecing-collusion)
@@ -18,7 +20,6 @@
 * [2023-04-18, 01:41:47](https://news.ycombinator.com/item?id=35608965) - [Making friends as an adult is hard (2021)](https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults)
 * [2023-04-18, 00:55:47](https://news.ycombinator.com/item?id=35608662) - [Why don’t more people live close to friends?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
 * [2023-04-18, 00:45:31](https://news.ycombinator.com/item?id=35608601) - [KV.js](https://github.com/HeyPuter/kv.js)
-* [2023-04-17, 23:13:15](https://news.ycombinator.com/item?id=35607885) - [Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT (2019)](https://github.com/atrosinenko/qemujs)
 * [2023-04-17, 14:05:09](https://news.ycombinator.com/item?id=35600860) - [RedPajama: Reproduction of LLaMA with friendly license](https://www.together.xyz/blog/redpajama)
 * [2023-04-17, 08:51:42](https://news.ycombinator.com/item?id=35598251) - [ECPG – Embedded SQL in C](https://www.postgresql.org/docs/current/ecpg.html)
 * [2023-04-17, 07:59:16](https://news.ycombinator.com/item?id=35597934) - [Tag Systems](https://buttondown.email/hillelwayne/archive/tag-systems/)
@@ -29,7 +30,6 @@
 * [2023-04-16, 15:23:17](https://news.ycombinator.com/item?id=35590745) - [Misalignment Museum](https://www.niche-museums.com/110)
 * [2023-04-16, 10:34:12](https://news.ycombinator.com/item?id=35588797) - [Load Balancing](https://samwho.dev/load-balancing/)
 * [2023-04-16, 06:33:01](https://news.ycombinator.com/item?id=35587797) - [Lifelogging, an Inevitability (2007)](https://kk.org/thetechnium/lifelogging-an/)
-* [2023-04-15, 08:35:20](https://news.ycombinator.com/item?id=35578765) - [DOOM maps to SVG to laser cutter](https://theor.xyz/doom-maps-laser-cut/)
 
 ## [Archives](archives/index.md)
 
