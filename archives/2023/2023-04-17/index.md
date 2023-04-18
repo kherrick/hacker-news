@@ -71,6 +71,7 @@
 * [2023-04-17, 09:26:30](https://news.ycombinator.com/item?id=35598472) - [Your.Online: Gandi continues its development](https://news.gandi.net/en/2023/03/your-online-gandi-continues-its-development/)
 * [2023-04-17, 09:15:26](https://news.ycombinator.com/item?id=35598400) - [Maintaining this site fucking sucks](https://zackproser.com/blog/maintaining-this-site-fucking-sucks)
 * [2023-04-17, 08:56:07](https://news.ycombinator.com/item?id=35598281) - [MiniGPT-4](https://minigpt-4.github.io/)
+* [2023-04-17, 08:51:42](https://news.ycombinator.com/item?id=35598251) - [ECPG – Embedded SQL in C](https://www.postgresql.org/docs/current/ecpg.html)
 * [2023-04-17, 08:08:24](https://news.ycombinator.com/item?id=35597994) - [There are no fees at America’s smallest bank](https://www.bloomberg.com/news/features/2023-04-13/america-s-smallest-bank-is-kentland-federal-savings-and-loan)
 * [2023-04-17, 07:59:16](https://news.ycombinator.com/item?id=35597934) - [Tag Systems](https://buttondown.email/hillelwayne/archive/tag-systems/)
 * [2023-04-17, 07:53:12](https://news.ycombinator.com/item?id=35597883) - [Rishi Sunak sets up review to tackle &#x27;anti-maths mindset&#x27;](https://www.bbc.co.uk/news/uk-politics-65293430)

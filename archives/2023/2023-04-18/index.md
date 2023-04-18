@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 10:57:35](https://news.ycombinator.com/item?id=35612317) - [The Taxman Will Eventually Come for AI, Too](https://www.bloomberg.com/opinion/articles/2023-04-17/the-taxman-will-eventually-come-for-ai-too)
 * [2023-04-18, 09:53:10](https://news.ycombinator.com/item?id=35611923) - [Marginalia: Search the Internet](https://search.marginalia.nu/)
 * [2023-04-18, 09:28:32](https://news.ycombinator.com/item?id=35611739) - [GitHub Has Problems Again](https://www.githubstatus.com/incidents/k1qts16jgtcp)
 * [2023-04-18, 09:22:33](https://news.ycombinator.com/item?id=35611710) - [Don&#x27;t write clean code, write CRISP code](https://bitfieldconsulting.com/golang/crisp-code)
