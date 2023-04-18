@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-18, 05:07:24",
+      "https://news.ycombinator.com/item?id=35610168"
+    ],
+    [
+      "You didn’t just do that, Heroku",
+      "https://openfolder.sh/heroku-anti-dx"
+    ]
+  ],
+  [
+    [
       "2023-04-18, 03:50:13",
       "https://news.ycombinator.com/item?id=35609766"
     ],
@@ -187,16 +197,6 @@
     [
       "The Inner Workings of Distributed Databases",
       "https://questdb.io/blog/inner-workings-distributed-databases/"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 15:11:03",
-      "https://news.ycombinator.com/item?id=35601958"
-    ],
-    [
-      "Breaking the limits of TLA+ model checking",
-      "https://www.hillelwayne.com/post/graphing-tla/"
     ]
   ],
   [
