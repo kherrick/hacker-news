@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 23:51:35](https://news.ycombinator.com/item?id=35608199) - [Michigan could provide $300M to reopen nuclear power plant](https://www.power-eng.com/nuclear/michigan-could-provide-300m-to-reopen-nuclear-power-plant/)
+* [2023-04-17, 23:13:15](https://news.ycombinator.com/item?id=35607885) - [Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT (2019)](https://github.com/atrosinenko/qemujs)
+* [2023-04-17, 22:57:18](https://news.ycombinator.com/item?id=35607757) - [The Windows 11 Trash Party](https://birchtree.me/blog/the-windows-11-trash-party/)
+* [2023-04-17, 22:55:19](https://news.ycombinator.com/item?id=35607744) - [Show HN: MindPop – Great Lectures Set to Ambient](https://mindpop.blankenship.io/index.html)
 * [2023-04-17, 22:41:11](https://news.ycombinator.com/item?id=35607616) - [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376)
 * [2023-04-17, 22:00:34](https://news.ycombinator.com/item?id=35607199) - [Hot Beds: Low-Cost Ancient Roman Hack to Start Crops Early and Increasing Yield](https://www.growveg.com/guides/how-to-make-a-hotbed-for-the-earliest-sowings/)
 * [2023-04-17, 21:51:02](https://news.ycombinator.com/item?id=35607113) - [Sweden starts largest military exercise in over 25 years](https://www.dw.com/en/sweden-starts-largest-military-exercise-in-over-25-years/a-65352455)
