@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
 * [2023-04-18, 03:50:13](https://news.ycombinator.com/item?id=35609766) - [Court strikes down Berkeley’s ban on natural gas in new construction](https://www.sfchronicle.com/politics/article/ninth-circuit-berkeley-natural-gas-ban-17902110.php)
+* [2023-04-18, 03:49:00](https://news.ycombinator.com/item?id=35609758) - [Make the future bright again: On building a new philosophy of progress](https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/)
 * [2023-04-18, 03:44:45](https://news.ycombinator.com/item?id=35609735) - [Ampersand was once “and per se and” &amp; was the 27th letter of the alphabet](http://haggardhawksblog.blogspot.com/2015/03/ampersand.html)
 * [2023-04-18, 03:31:29](https://news.ycombinator.com/item?id=35609652) - [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
 * [2023-04-18, 03:16:32](https://news.ycombinator.com/item?id=35609566) - [In China, Germany’s foreign minister does not hold back–and is still welcomed](https://www.economist.com/europe/2023/04/15/in-china-germanys-foreign-minister-does-not-hold-back-and-is-still-welcomed)

@@ -30,6 +30,7 @@
 * [2023-04-16, 16:37:25](https://news.ycombinator.com/item?id=35591568) - [Google devising radical search changes to beat back A.I. rivals](https://www.nytimes.com/2023/04/16/technology/google-search-engine-ai.html)
 * [2023-04-16, 16:34:04](https://news.ycombinator.com/item?id=35591529) - [Coq typeclass resolution is Turing-complete](https://thaliaarchi.github.io/coq-turing-typeclass/)
 * [2023-04-16, 16:27:04](https://news.ycombinator.com/item?id=35591460) - [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
+* [2023-04-16, 16:26:32](https://news.ycombinator.com/item?id=35591453) - [OpenVMS 9.2 for x86, Getting Started, boot, licenses, PAKs, networking and SSH](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_Getting_Started_part_2.html)
 * [2023-04-16, 16:15:18](https://news.ycombinator.com/item?id=35591338) - [The lessons from America’s astonishing economic record](https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record)
 * [2023-04-16, 16:15:17](https://news.ycombinator.com/item?id=35591337) - [Peak LLM](https://ihavemanythoughts.substack.com/p/peak-llm)
 * [2023-04-16, 16:14:25](https://news.ycombinator.com/item?id=35591327) - [SpaceX&#x27;s First Starship Launch Tomorrow](https://www.space.com/spacex-starship-rocket-super-heavy-launch-what-time)
