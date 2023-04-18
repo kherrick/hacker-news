@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-18, 16:12:37",
+      "https://news.ycombinator.com/item?id=35615948"
+    ],
+    [
+      "Tailscale Enterprise",
+      "https://tailscale.com/blog/enterprise/"
+    ]
+  ],
+  [
+    [
       "2023-04-18, 16:04:41",
       "https://news.ycombinator.com/item?id=35615848"
     ],
@@ -211,32 +221,22 @@
   ],
   [
     [
+      "2023-04-17, 14:05:09",
+      "https://news.ycombinator.com/item?id=35600860"
+    ],
+    [
+      "RedPajama: Reproduction of LLaMA with friendly license",
+      "https://www.together.xyz/blog/redpajama"
+    ]
+  ],
+  [
+    [
       "2023-04-17, 11:35:36",
       "https://news.ycombinator.com/item?id=35599270"
     ],
     [
       "Mouse Cursor History (and why I made my own)",
       "https://www.youtube.com/watch?v=YThelfB2fvg"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 08:51:42",
-      "https://news.ycombinator.com/item?id=35598251"
-    ],
-    [
-      "ECPG – Embedded SQL in C",
-      "https://www.postgresql.org/docs/current/ecpg.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 07:59:16",
-      "https://news.ycombinator.com/item?id=35597934"
-    ],
-    [
-      "Tag Systems",
-      "https://buttondown.email/hillelwayne/archive/tag-systems/"
     ]
   ],
   [
