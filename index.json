@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-04-17, 23:51:35",
+      "https://news.ycombinator.com/item?id=35608199"
+    ],
+    [
+      "Michigan could provide $300M to reopen nuclear power plant",
+      "https://www.power-eng.com/nuclear/michigan-could-provide-300m-to-reopen-nuclear-power-plant/"
+    ]
+  ],
+  [
+    [
+      "2023-04-17, 23:13:15",
+      "https://news.ycombinator.com/item?id=35607885"
+    ],
+    [
+      "Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT (2019)",
+      "https://github.com/atrosinenko/qemujs"
+    ]
+  ],
+  [
+    [
+      "2023-04-17, 22:57:18",
+      "https://news.ycombinator.com/item?id=35607757"
+    ],
+    [
+      "The Windows 11 Trash Party",
+      "https://birchtree.me/blog/the-windows-11-trash-party/"
+    ]
+  ],
+  [
+    [
+      "2023-04-17, 22:55:19",
+      "https://news.ycombinator.com/item?id=35607744"
+    ],
+    [
+      "Show HN: MindPop – Great Lectures Set to Ambient",
+      "https://mindpop.blankenship.io/index.html"
+    ]
+  ],
+  [
+    [
       "2023-04-17, 22:41:11",
       "https://news.ycombinator.com/item?id=35607616"
     ],
@@ -21,42 +61,12 @@
   ],
   [
     [
-      "2023-04-17, 21:51:02",
-      "https://news.ycombinator.com/item?id=35607113"
-    ],
-    [
-      "Sweden starts largest military exercise in over 25 years",
-      "https://www.dw.com/en/sweden-starts-largest-military-exercise-in-over-25-years/a-65352455"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 21:46:57",
-      "https://news.ycombinator.com/item?id=35607060"
-    ],
-    [
-      "Show HN: Quorbo – a quick and quirky quest for the quote",
-      "https://quorbo.com"
-    ]
-  ],
-  [
-    [
       "2023-04-17, 21:01:46",
       "https://news.ycombinator.com/item?id=35606563"
     ],
     [
       "EasyPost (YC S13) Is Hiring",
       "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 20:28:10",
-      "https://news.ycombinator.com/item?id=35606138"
-    ],
-    [
-      "Now, you can embed Mastodon posts in Medium stories",
-      "https://blog.medium.com/now-you-can-embed-mastodon-posts-in-medium-stories-99b11d0baa7f"
     ]
   ],
   [
@@ -77,26 +87,6 @@
     [
       "DINOv2: State-of-the-art computer vision models with self-supervised learning",
       "https://dinov2.metademolab.com/"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 17:43:29",
-      "https://news.ycombinator.com/item?id=35604002"
-    ],
-    [
-      "Community Is the Future of AI",
-      "https://stackoverflow.blog/2023/04/17/community-is-the-future-of-ai/"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 17:30:32",
-      "https://news.ycombinator.com/item?id=35603819"
-    ],
-    [
-      "New 3D Printable Search Engine",
-      "https://www.printablesearch.com"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2023-04-17, 13:09:53",
+      "https://news.ycombinator.com/item?id=35600087"
+    ],
+    [
+      "Samsung considers moving to Bing as default search engine",
+      "https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/"
+    ]
+  ],
+  [
+    [
       "2023-04-17, 12:49:12",
       "https://news.ycombinator.com/item?id=35599884"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-04-17, 08:56:07",
-      "https://news.ycombinator.com/item?id=35598281"
-    ],
-    [
-      "MiniGPT-4",
-      "https://minigpt-4.github.io/"
-    ]
-  ],
-  [
-    [
       "2023-04-17, 08:08:24",
       "https://news.ycombinator.com/item?id=35597994"
     ],
@@ -227,6 +217,16 @@
     [
       "Implementers, Solvers, and Finders",
       "https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-17, 04:52:17",
+      "https://news.ycombinator.com/item?id=35596960"
+    ],
+    [
+      "Soundini: Sound-Guided Diffusion for Natural Video Editing",
+      "https://kuai-lab.github.io/soundini-gallery/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=35578765"
     ],
     [
-      "Laser cutting Doom WAD maps",
+      "DOOM maps to SVG to laser cutter",
       "https://theor.xyz/doom-maps-laser-cut/"
     ]
   ]
