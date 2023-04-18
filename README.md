@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 19:55:02](https://news.ycombinator.com/item?id=35619159) - [MMC4: An open, billion-scale corpus of images interleaved with text](https://github.com/allenai/mmc4)
 * [2023-04-18, 19:18:39](https://news.ycombinator.com/item?id=35618695) - [Reddit will begin charging for access to its API](https://techcrunch.com/2023/04/18/reddit-will-begin-charging-for-access-to-its-api/)
 * [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
 * [2023-04-18, 18:31:52](https://news.ycombinator.com/item?id=35617951) - [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
@@ -28,7 +29,6 @@
 * [2023-04-17, 07:12:15](https://news.ycombinator.com/item?id=35597638) - [Borland C++ Builder (2015)](http://runtimeterror.com/blog/borland-c-builder.html)
 * [2023-04-17, 05:59:01](https://news.ycombinator.com/item?id=35597269) - [Synchrotron technique reveals more details of mysterious Renaissance painting](https://phys.org/news/2023-04-synchrotron-technique-reveals-mysterious-underlying.html)
 * [2023-04-17, 02:02:58](https://news.ycombinator.com/item?id=35596069) - [Horrible Code, Clean Performance](https://johnnysswlab.com/horrible-code-clean-performance/)
-* [2023-04-16, 19:48:01](https://news.ycombinator.com/item?id=35593635) - [Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332)
 * [2023-04-16, 10:34:12](https://news.ycombinator.com/item?id=35588797) - [Load Balancing](https://samwho.dev/load-balancing/)
 
 ## [Archives](archives/index.md)
