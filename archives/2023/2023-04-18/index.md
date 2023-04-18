@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 14:49:56](https://news.ycombinator.com/item?id=35614754) - [Coinbase CEO: we&#x27;re preparing to go to court with the U.S. SEC](https://www.cnbc.com/2023/04/18/coinbase-ceo-says-it-is-preparing-to-go-to-court-with-the-us-sec-.html)
 * [2023-04-18, 14:20:55](https://news.ycombinator.com/item?id=35614401) - [AI song featuring fake Drake and Weeknd vocals pulled from streaming services](https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services)
 * [2023-04-18, 14:15:21](https://news.ycombinator.com/item?id=35614332) - [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 * [2023-04-18, 14:13:19](https://news.ycombinator.com/item?id=35614313) - [Software firms across US facing tax bills that threaten startup survival](https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html)
 * [2023-04-18, 14:12:14](https://news.ycombinator.com/item?id=35614299) - [ChatGPT can help yield more accurate stock trading predictions – study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788)
+* [2023-04-18, 14:03:45](https://news.ycombinator.com/item?id=35614196) - [AI risk as rebranded climate change](https://greyenlightenment.com/2023/04/16/ai-risk-as-rebranded-climate-change/)
 * [2023-04-18, 14:01:34](https://news.ycombinator.com/item?id=35614171) - [Brit cops rapped over app that recorded 200k phone calls](https://www.theregister.com/2023/04/18/ico_surrey_sussex_police/)
 * [2023-04-18, 13:18:10](https://news.ycombinator.com/item?id=35613594) - [Giant SpaceX Spiral Appears Amid the Aurora Lights in Alaska&#x27;s Night Sky](https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/)
 * [2023-04-18, 13:01:02](https://news.ycombinator.com/item?id=35613413) - [GPTs as a Drop in the Fixed Cost of Prediction](http://reasoning-machines.s3-website.ca-central-1.amazonaws.com/)
