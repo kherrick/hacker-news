@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
 * [2023-04-18, 13:18:10](https://news.ycombinator.com/item?id=35613594) - [Giant SpaceX Spiral Appears Amid the Aurora Lights in Alaska&#x27;s Night Sky](https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/)
+* [2023-04-18, 13:01:02](https://news.ycombinator.com/item?id=35613413) - [GPTs as a Drop in the Fixed Cost of Prediction](http://reasoning-machines.s3-website.ca-central-1.amazonaws.com/)
 * [2023-04-18, 12:45:12](https://news.ycombinator.com/item?id=35613247) - [The WWII Spy Who Hid Codes in Her Knitting](https://www.amightygirl.com/blog?p=25020)
 * [2023-04-18, 12:00:35](https://news.ycombinator.com/item?id=35612819) - [Finley (YC W21) is hiring to automate capital markets processes (US remote)](https://www.finleycms.com/careers/)
 * [2023-04-18, 11:58:58](https://news.ycombinator.com/item?id=35612797) - [Two Office Landlords Defaulting May Be Just the Beginning](https://www.bloomberg.com/news/articles/2023-03-01/work-from-home-high-interest-rates-put-92-billion-in-office-mortgages-at-risk)
@@ -31,5 +32,6 @@
 * [2023-04-18, 01:41:47](https://news.ycombinator.com/item?id=35608965) - [You&#x27;re not uncool. Making friends as an adult is just hard](https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults)
 * [2023-04-18, 01:28:39](https://news.ycombinator.com/item?id=35608877) - [Lisp Is the Linux of Languages](https://progalpha.substack.com/p/lisp-is-the-linux-of-languages)
 * [2023-04-18, 00:55:47](https://news.ycombinator.com/item?id=35608662) - [You&#x27;d Be Happier Living Closer to Friends. Why Don&#x27;t You?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
+* [2023-04-18, 00:49:04](https://news.ycombinator.com/item?id=35608624) - [A Kubernetes Operator in Rust](https://thetechtrailblazer.blog/2023/04/18/a-kubernetes-operator-in-rust/)
 * [2023-04-18, 00:45:31](https://news.ycombinator.com/item?id=35608601) - [KV.js](https://github.com/HeyPuter/kv.js)
 * [2023-04-18, 00:21:32](https://news.ycombinator.com/item?id=35608437) - [GPT4All releases one click install for Mac,win64,Linux with new GPT-J basemodel](https://gpt4all.io/index.html)
