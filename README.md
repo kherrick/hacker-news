@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-18, 05:07:24](https://news.ycombinator.com/item?id=35610168) - [You didn’t just do that, Heroku](https://openfolder.sh/heroku-anti-dx)
+* [2023-04-18, 03:52:54](https://news.ycombinator.com/item?id=35609779) - [An evidence-based guide to expanding your comfort zone](https://every.to/no-small-plans/a-founder-s-guide-to-expanding-your-comfort-zone)
 * [2023-04-18, 03:50:13](https://news.ycombinator.com/item?id=35609766) - [Court strikes down Berkeley’s ban on natural gas in new construction](https://www.sfchronicle.com/politics/article/ninth-circuit-berkeley-natural-gas-ban-17902110.php)
 * [2023-04-18, 03:49:00](https://news.ycombinator.com/item?id=35609758) - [Make the future bright again: On building a new philosophy of progress](https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/)
 * [2023-04-18, 03:44:45](https://news.ycombinator.com/item?id=35609735) - [Ampersand was once “and per se and” &amp; was the 27th letter of the alphabet](http://haggardhawksblog.blogspot.com/2015/03/ampersand.html)
@@ -10,7 +11,6 @@
 * [2023-04-18, 00:55:47](https://news.ycombinator.com/item?id=35608662) - [Why don’t more people live close to friends?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
 * [2023-04-18, 00:45:31](https://news.ycombinator.com/item?id=35608601) - [KV.js](https://github.com/HeyPuter/kv.js)
 * [2023-04-18, 00:21:32](https://news.ycombinator.com/item?id=35608437) - [GPT4All releases one click install for Mac,win64,Linux with new GPT-J basemodel](https://gpt4all.io/index.html)
-* [2023-04-17, 23:51:35](https://news.ycombinator.com/item?id=35608199) - [Michigan could provide $300M to reopen nuclear power plant](https://www.power-eng.com/nuclear/michigan-could-provide-300m-to-reopen-nuclear-power-plant/)
 * [2023-04-17, 23:13:15](https://news.ycombinator.com/item?id=35607885) - [Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT (2019)](https://github.com/atrosinenko/qemujs)
 * [2023-04-17, 22:57:18](https://news.ycombinator.com/item?id=35607757) - [The Windows 11 Trash Party](https://birchtree.me/blog/the-windows-11-trash-party/)
 * [2023-04-17, 22:55:19](https://news.ycombinator.com/item?id=35607744) - [Show HN: MindPop – Great Lectures Set to Ambient](https://mindpop.blankenship.io/index.html)
