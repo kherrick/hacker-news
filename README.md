@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 15:08:05](https://news.ycombinator.com/item?id=35614981) - [The VC Downturn in 6 Charts](https://news.crunchbase.com/venture/vc-funding-downturn-charts-q1-2023/)
 * [2023-04-18, 14:49:56](https://news.ycombinator.com/item?id=35614754) - [Coinbase CEO: we&#x27;re preparing to go to court with the U.S. SEC](https://www.cnbc.com/2023/04/18/coinbase-ceo-says-it-is-preparing-to-go-to-court-with-the-us-sec-.html)
 * [2023-04-18, 14:20:55](https://news.ycombinator.com/item?id=35614401) - [AI song featuring fake Drake and Weeknd vocals pulled from streaming services](https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services)
 * [2023-04-18, 14:15:21](https://news.ycombinator.com/item?id=35614332) - [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
@@ -19,7 +20,6 @@
 * [2023-04-18, 03:31:29](https://news.ycombinator.com/item?id=35609652) - [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
 * [2023-04-18, 01:41:47](https://news.ycombinator.com/item?id=35608965) - [Making friends as an adult is hard (2021)](https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults)
 * [2023-04-18, 00:55:47](https://news.ycombinator.com/item?id=35608662) - [Why don’t more people live close to friends?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
-* [2023-04-18, 00:45:31](https://news.ycombinator.com/item?id=35608601) - [KV.js](https://github.com/HeyPuter/kv.js)
 * [2023-04-17, 14:05:09](https://news.ycombinator.com/item?id=35600860) - [RedPajama: Reproduction of LLaMA with friendly license](https://www.together.xyz/blog/redpajama)
 * [2023-04-17, 11:35:36](https://news.ycombinator.com/item?id=35599270) - [Mouse Cursor History (and why I made my own)](https://www.youtube.com/watch?v=YThelfB2fvg)
 * [2023-04-17, 08:51:42](https://news.ycombinator.com/item?id=35598251) - [ECPG – Embedded SQL in C](https://www.postgresql.org/docs/current/ecpg.html)
