@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 20:37:58](https://news.ycombinator.com/item?id=35619711) - [Fox News, Dominion Voting Systems reach $787,500,000 settlement](https://www.cbsnews.com/news/fox-news-dominion-voting-systems-lawsuit-settlement/)
 * [2023-04-18, 20:31:20](https://news.ycombinator.com/item?id=35619631) - [Dominion Voting Systems and Fox reach last-minute settlement](https://www.cbc.ca/news/world/dominion-voting-fox-news-trial-1.6813876)
 * [2023-04-18, 20:28:44](https://news.ycombinator.com/item?id=35619589) - [Netflix Will End Its DVD Service After 25 Years](https://www.nytimes.com/2023/04/18/business/media/netflix-dvds-earnings.html)
 * [2023-04-18, 20:27:56](https://news.ycombinator.com/item?id=35619575) - [GPT-4 will hunt for trends in medical records thanks to Microsoft and Epic](https://arstechnica.com/information-technology/2023/04/gpt-4-will-hunt-for-trends-in-medical-records-thanks-to-microsoft-and-epic/)
