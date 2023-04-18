@@ -2,6 +2,7 @@
 
 * [2023-04-18, 16:12:37](https://news.ycombinator.com/item?id=35615948) - [Tailscale Enterprise](https://tailscale.com/blog/enterprise/)
 * [2023-04-18, 16:04:41](https://news.ycombinator.com/item?id=35615848) - [Changes to Tailscale Pricing and Plans](https://tailscale.com/blog/pricing-v3/)
+* [2023-04-18, 15:59:28](https://news.ycombinator.com/item?id=35615778) - [Brain images just got 64 million times sharper](https://medicalxpress.com/news/2023-04-brain-images-million-sharper.html)
 * [2023-04-18, 15:52:22](https://news.ycombinator.com/item?id=35615683) - [Europe’s Ariane 6 rocket is turning into a space policy disaster](https://arstechnica.com/science/2023/04/europes-ariane-6-rocket-is-turning-into-a-space-policy-disaster/)
 * [2023-04-18, 15:47:31](https://news.ycombinator.com/item?id=35615601) - [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
 * [2023-04-18, 15:40:47](https://news.ycombinator.com/item?id=35615490) - [How Can We Stop the CO2 That Plants Store from Leaking Back into the Air?](https://nautil.us/how-can-we-stop-the-co2-that-plants-store-from-leaking-back-into-the-air-297612/)
@@ -22,7 +23,6 @@
 * [2023-04-18, 03:44:45](https://news.ycombinator.com/item?id=35609735) - [Ampersand (2015)](http://haggardhawksblog.blogspot.com/2015/03/ampersand.html)
 * [2023-04-18, 03:31:29](https://news.ycombinator.com/item?id=35609652) - [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
 * [2023-04-18, 01:41:47](https://news.ycombinator.com/item?id=35608965) - [Making friends as an adult is hard (2021)](https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults)
-* [2023-04-17, 14:05:09](https://news.ycombinator.com/item?id=35600860) - [RedPajama: Reproduction of LLaMA with friendly license](https://www.together.xyz/blog/redpajama)
 * [2023-04-17, 11:35:36](https://news.ycombinator.com/item?id=35599270) - [Mouse Cursor History (and why I made my own)](https://www.youtube.com/watch?v=YThelfB2fvg)
 * [2023-04-17, 07:12:15](https://news.ycombinator.com/item?id=35597638) - [Borland C++ Builder (2015)](http://runtimeterror.com/blog/borland-c-builder.html)
 * [2023-04-16, 19:48:01](https://news.ycombinator.com/item?id=35593635) - [Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332)
