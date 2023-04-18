@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
 * [2023-04-18, 18:31:52](https://news.ycombinator.com/item?id=35617951) - [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
 * [2023-04-18, 18:20:03](https://news.ycombinator.com/item?id=35617763) - [Reddit Wants to Get Paid for Helping to Teach Big A.I. Systems](https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html)
-* [2023-04-18, 18:02:21](https://news.ycombinator.com/item?id=35617493) - [Anime Confronts a New Apocalypse](https://www.newyorker.com/culture/cultural-comment/anime-confronts-a-new-apocalypse)
-* [2023-04-18, 17:52:16](https://news.ycombinator.com/item?id=35617363) - [Alphabet shares fall on report Samsung may dump Google Search for Bing](https://www.reuters.com/technology/alphabet-falls-report-samsung-considering-bing-default-search-engine-2023-04-17/)
 * [2023-04-18, 17:38:28](https://news.ycombinator.com/item?id=35617198) - [Astral](https://astral.sh/)
+* [2023-04-18, 17:32:19](https://news.ycombinator.com/item?id=35617100) - [The Coming Technological Singularity (1993)](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 * [2023-04-18, 16:04:41](https://news.ycombinator.com/item?id=35615848) - [Changes to Tailscale Pricing and Plans](https://tailscale.com/blog/pricing-v3/)
 * [2023-04-18, 15:59:28](https://news.ycombinator.com/item?id=35615778) - [Brain images just got 64 million times sharper](https://medicalxpress.com/news/2023-04-brain-images-million-sharper.html)
 * [2023-04-18, 15:47:31](https://news.ycombinator.com/item?id=35615601) - [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
