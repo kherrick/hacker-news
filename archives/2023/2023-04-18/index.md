@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 23:18:43](https://news.ycombinator.com/item?id=35621861) - [Broadband Consumer Labels](https://www.fcc.gov/broadbandlabels)
 * [2023-04-18, 22:49:37](https://news.ycombinator.com/item?id=35621539) - [Americans ‘surprised’ by what they saw inside the T-90A tank](https://www.technology.org/2023/04/18/americans-surprised-by-what-they-saw-inside-the-t-90a-tank-photo/)
 * [2023-04-18, 22:39:07](https://news.ycombinator.com/item?id=35621425) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
 * [2023-04-18, 22:28:26](https://news.ycombinator.com/item?id=35621309) - [MRI Brain Images Just Got 64M Times Sharper](https://today.duke.edu/2023/04/brain-images-just-got-64-million-times-sharper)
