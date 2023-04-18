@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-18, 05:19:01](https://news.ycombinator.com/item?id=35610243) - [SD Memory Card Formatter for Linux](https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/)
-* [2023-04-18, 05:07:24](https://news.ycombinator.com/item?id=35610168) - [You didn’t just do that, Heroku](https://openfolder.sh/heroku-anti-dx)
+* [2023-04-18, 05:07:24](https://news.ycombinator.com/item?id=35610168) - [Heroku has been running a second copy of my scheduler instance](https://openfolder.sh/heroku-anti-dx)
 * [2023-04-18, 03:52:54](https://news.ycombinator.com/item?id=35609779) - [An evidence-based guide to expanding your comfort zone](https://every.to/no-small-plans/a-founder-s-guide-to-expanding-your-comfort-zone)
 * [2023-04-18, 03:49:00](https://news.ycombinator.com/item?id=35609758) - [Make the future bright again: On building a new philosophy of progress](https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/)
 * [2023-04-18, 03:44:45](https://news.ycombinator.com/item?id=35609735) - [Ampersand was once “and per se and” &amp; was the 27th letter of the alphabet](http://haggardhawksblog.blogspot.com/2015/03/ampersand.html)
