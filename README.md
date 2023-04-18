@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 21:22:35](https://news.ycombinator.com/item?id=35620407) - [Meta is about to start its next round of layoffs](https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp)
 * [2023-04-18, 21:00:20](https://news.ycombinator.com/item?id=35620078) - [Toko (YC W22) Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35620078)
 * [2023-04-18, 20:37:58](https://news.ycombinator.com/item?id=35619711) - [Fox News, Dominion Voting Systems reach $787,500,000 settlement](https://www.cbsnews.com/news/fox-news-dominion-voting-systems-lawsuit-settlement/)
 * [2023-04-18, 20:28:44](https://news.ycombinator.com/item?id=35619589) - [Netflix will end its DVD service after 25 years](https://www.nytimes.com/2023/04/18/business/media/netflix-dvds-earnings.html)
-* [2023-04-18, 20:13:40](https://news.ycombinator.com/item?id=35619382) - [Reddit founder wants to charge Big Tech for scraped data used to train AIs](https://www.marketwatch.com/story/reddit-founder-wants-to-charge-big-tech-for-scraped-data-used-to-train-ais-report-6f407265)
 * [2023-04-18, 20:06:32](https://news.ycombinator.com/item?id=35619293) - [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
 * [2023-04-18, 19:55:02](https://news.ycombinator.com/item?id=35619159) - [MMC4: An open, billion-scale corpus of images interleaved with text](https://github.com/allenai/mmc4)
+* [2023-04-18, 19:51:54](https://news.ycombinator.com/item?id=35619119) - [Skybox: Open-Source Graphic Rendering on Programmable RISC-V GPUs](https://dl.acm.org/doi/pdf/10.1145/3582016.3582024)
 * [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
 * [2023-04-18, 18:31:52](https://news.ycombinator.com/item?id=35617951) - [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
 * [2023-04-18, 18:20:50](https://news.ycombinator.com/item?id=35617773) - [French publisher arrested in London for refusal to tell police his passcodes](https://www.theguardian.com/uk-news/2023/apr/18/french-publisher-arrested-london-counter-terrorism-police-ernest-moret)
@@ -28,7 +29,6 @@
 * [2023-04-17, 08:00:13](https://news.ycombinator.com/item?id=35597937) - [The &#x27;biggest art fraud in history&#x27;](https://www.theartnewspaper.com/2023/03/17/podcast-inside-the-biggest-art-fraud-in-history-what-the-alleged-mass-forgery-tells-us-about-the-market-for-first-nations-art-in-canada)
 * [2023-04-17, 07:51:21](https://news.ycombinator.com/item?id=35597869) - [The Big Dictionary of MLOps](https://www.hopsworks.ai/mlops-dictionary)
 * [2023-04-17, 07:12:15](https://news.ycombinator.com/item?id=35597638) - [Borland C++ Builder (2015)](http://runtimeterror.com/blog/borland-c-builder.html)
-* [2023-04-17, 05:59:01](https://news.ycombinator.com/item?id=35597269) - [Synchrotron technique reveals more details of mysterious Renaissance painting](https://phys.org/news/2023-04-synchrotron-technique-reveals-mysterious-underlying.html)
 * [2023-04-16, 10:34:12](https://news.ycombinator.com/item?id=35588797) - [Load Balancing](https://samwho.dev/load-balancing/)
 
 ## [Archives](archives/index.md)
