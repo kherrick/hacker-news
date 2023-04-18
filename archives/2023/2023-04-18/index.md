@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 15:13:00](https://news.ycombinator.com/item?id=35615062) - [Southwest Airlines Halts Flight Departures Amid Technology Issue](https://www.bloomberg.com/news/articles/2023-04-18/southwest-airlines-halts-flight-departures-amid-technology-issue)
 * [2023-04-18, 15:08:05](https://news.ycombinator.com/item?id=35614981) - [The VC Downturn in 6 Charts](https://news.crunchbase.com/venture/vc-funding-downturn-charts-q1-2023/)
 * [2023-04-18, 14:49:56](https://news.ycombinator.com/item?id=35614754) - [Coinbase CEO: we&#x27;re preparing to go to court with the U.S. SEC](https://www.cnbc.com/2023/04/18/coinbase-ceo-says-it-is-preparing-to-go-to-court-with-the-us-sec-.html)
 * [2023-04-18, 14:24:59](https://news.ycombinator.com/item?id=35614442) - [A New Kind of Symmetry Shakes Up Physics](https://www.quantamagazine.org/a-new-kind-of-symmetry-shakes-up-physics-20230418/)

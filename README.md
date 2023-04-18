@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 15:13:00](https://news.ycombinator.com/item?id=35615062) - [Southwest Airlines Halts Flight Departures Amid Technology Issue](https://www.bloomberg.com/news/articles/2023-04-18/southwest-airlines-halts-flight-departures-amid-technology-issue)
 * [2023-04-18, 15:08:05](https://news.ycombinator.com/item?id=35614981) - [The VC Downturn in 6 Charts](https://news.crunchbase.com/venture/vc-funding-downturn-charts-q1-2023/)
 * [2023-04-18, 14:49:56](https://news.ycombinator.com/item?id=35614754) - [Coinbase CEO: we&#x27;re preparing to go to court with the U.S. SEC](https://www.cnbc.com/2023/04/18/coinbase-ceo-says-it-is-preparing-to-go-to-court-with-the-us-sec-.html)
 * [2023-04-18, 14:24:59](https://news.ycombinator.com/item?id=35614442) - [A New Kind of Symmetry Shakes Up Physics](https://www.quantamagazine.org/a-new-kind-of-symmetry-shakes-up-physics-20230418/)
@@ -24,7 +25,6 @@
 * [2023-04-17, 08:51:42](https://news.ycombinator.com/item?id=35598251) - [ECPG – Embedded SQL in C](https://www.postgresql.org/docs/current/ecpg.html)
 * [2023-04-17, 07:59:16](https://news.ycombinator.com/item?id=35597934) - [Tag Systems](https://buttondown.email/hillelwayne/archive/tag-systems/)
 * [2023-04-17, 02:26:34](https://news.ycombinator.com/item?id=35596229) - [The flop that changed Apple forever [video]](https://www.youtube.com/watch?v=pcYX-2uWwsk)
-* [2023-04-17, 02:02:45](https://news.ycombinator.com/item?id=35596065) - [Inside a Fujitsu Ethernet chip from 1984](https://oldbytes.space/@kenshirriff/110209305209920677)
 * [2023-04-16, 19:48:01](https://news.ycombinator.com/item?id=35593635) - [Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332)
 * [2023-04-16, 16:26:32](https://news.ycombinator.com/item?id=35591453) - [OpenVMS 9.2 for x86: Auto boot, licenses, PAKs, networking and SSH](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_Getting_Started_part_2.html)
 * [2023-04-16, 15:23:17](https://news.ycombinator.com/item?id=35590745) - [Misalignment Museum](https://www.niche-museums.com/110)
