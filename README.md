@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 09:28:32](https://news.ycombinator.com/item?id=35611739) - [GitHub Has Problems Again](https://www.githubstatus.com/incidents/k1qts16jgtcp)
 * [2023-04-18, 09:22:33](https://news.ycombinator.com/item?id=35611710) - [Don&#x27;t write clean code, write CRISP code](https://bitfieldconsulting.com/golang/crisp-code)
 * [2023-04-18, 08:21:48](https://news.ycombinator.com/item?id=35611364) - [Ask HN: As a dev: learn marketing? Or start side project? (startup skills)](https://news.ycombinator.com/item?id=35611364)
 * [2023-04-18, 08:10:47](https://news.ycombinator.com/item?id=35611306) - [Ask HN: Are there any search engines without AI?](https://news.ycombinator.com/item?id=35611306)
@@ -21,7 +22,6 @@
 * [2023-04-17, 14:05:09](https://news.ycombinator.com/item?id=35600860) - [RedPajama: Reproduction of LLaMA with friendly license](https://www.together.xyz/blog/redpajama)
 * [2023-04-17, 13:13:35](https://news.ycombinator.com/item?id=35600130) - [How do electrons find the “path of least resistance”? [video]](https://www.youtube.com/watch?v=C3gnNpYK3lo)
 * [2023-04-17, 07:59:16](https://news.ycombinator.com/item?id=35597934) - [Tag Systems](https://buttondown.email/hillelwayne/archive/tag-systems/)
-* [2023-04-17, 04:52:17](https://news.ycombinator.com/item?id=35596960) - [Soundini: Sound-Guided Diffusion for Natural Video Editing](https://kuai-lab.github.io/soundini-gallery/)
 * [2023-04-17, 02:02:45](https://news.ycombinator.com/item?id=35596065) - [Inside a Fujitsu Ethernet chip from 1984](https://oldbytes.space/@kenshirriff/110209305209920677)
 * [2023-04-16, 19:48:01](https://news.ycombinator.com/item?id=35593635) - [Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332)
 * [2023-04-16, 16:26:32](https://news.ycombinator.com/item?id=35591453) - [OpenVMS 9.2 for x86, Getting Started, boot, licenses, PAKs, networking and SSH](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_Getting_Started_part_2.html)
