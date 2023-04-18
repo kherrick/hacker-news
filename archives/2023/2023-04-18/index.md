@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 22:23:52](https://news.ycombinator.com/item?id=35621238) - [Node.js 20 is now available](https://nodejs.org/en/blog/announcements/v20-release-announce)
+* [2023-04-18, 22:06:00](https://news.ycombinator.com/item?id=35621023) - [LLaVA: Large Language and Vision Assistant](https://llava-vl.github.io/)
 * [2023-04-18, 21:58:35](https://news.ycombinator.com/item?id=35620924) - [Why do ships use “port” and “starboard” instead of “left” and “right?”](https://oceanservice.noaa.gov/facts/port-starboard.html)
 * [2023-04-18, 21:22:35](https://news.ycombinator.com/item?id=35620407) - [Meta is about to start its next round of layoffs](https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp)
 * [2023-04-18, 21:14:39](https://news.ycombinator.com/item?id=35620291) - [Clock](https://oimo.io/works/clock/)
@@ -20,6 +22,7 @@
 * [2023-04-18, 19:32:04](https://news.ycombinator.com/item?id=35618878) - [PlanD: Plan9 from Containerspace](https://github.com/rvs/planD)
 * [2023-04-18, 19:18:39](https://news.ycombinator.com/item?id=35618695) - [Reddit will begin charging for access to its API](https://techcrunch.com/2023/04/18/reddit-will-begin-charging-for-access-to-its-api/)
 * [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
+* [2023-04-18, 18:51:12](https://news.ycombinator.com/item?id=35618253) - [Cilium Mesh – One Mesh to Connect Them All](https://isovalent.com/blog/post/introducing-cilium-mesh/)
 * [2023-04-18, 18:31:52](https://news.ycombinator.com/item?id=35617951) - [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
 * [2023-04-18, 18:22:02](https://news.ycombinator.com/item?id=35617795) - [Please Blow the Whistle on Censorship](https://public.substack.com/p/please-blow-the-whistle-on-censorship)
 * [2023-04-18, 18:20:50](https://news.ycombinator.com/item?id=35617773) - [French publisher arrested in London for refusal to tell police his passcodes](https://www.theguardian.com/uk-news/2023/apr/18/french-publisher-arrested-london-counter-terrorism-police-ernest-moret)
