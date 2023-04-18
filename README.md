@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-18, 21:58:35](https://news.ycombinator.com/item?id=35620924) - [Why do ships use “port” and “starboard” instead of “left” and “right?”](https://oceanservice.noaa.gov/facts/port-starboard.html)
 * [2023-04-18, 21:22:35](https://news.ycombinator.com/item?id=35620407) - [Meta is about to start its next round of layoffs](https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp)
 * [2023-04-18, 21:14:39](https://news.ycombinator.com/item?id=35620291) - [Clock](https://oimo.io/works/clock/)
 * [2023-04-18, 21:00:20](https://news.ycombinator.com/item?id=35620078) - [Toko (YC W22) Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35620078)
 * [2023-04-18, 20:28:44](https://news.ycombinator.com/item?id=35619589) - [Netflix will end its DVD service after 25 years](https://www.nytimes.com/2023/04/18/business/media/netflix-dvds-earnings.html)
-* [2023-04-18, 20:25:52](https://news.ycombinator.com/item?id=35619545) - [Ask HN: What would you recommend a 16 year old to pursue career wise?](https://news.ycombinator.com/item?id=35619545)
 * [2023-04-18, 20:06:32](https://news.ycombinator.com/item?id=35619293) - [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
 * [2023-04-18, 19:55:02](https://news.ycombinator.com/item?id=35619159) - [MMC4: An open, billion-scale corpus of images interleaved with text](https://github.com/allenai/mmc4)
 * [2023-04-18, 19:51:54](https://news.ycombinator.com/item?id=35619119) - [Skybox: Open-Source Graphic Rendering on Programmable RISC-V GPUs](https://dl.acm.org/doi/pdf/10.1145/3582016.3582024)
