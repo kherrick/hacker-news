@@ -15,7 +15,6 @@
 * [2023-04-18, 14:15:21](https://news.ycombinator.com/item?id=35614332) - [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 * [2023-04-18, 14:13:19](https://news.ycombinator.com/item?id=35614313) - [Software firms across US facing tax bills that threaten survival](https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html)
 * [2023-04-18, 14:03:09](https://news.ycombinator.com/item?id=35614190) - [Microsoft plugging more ads into Windows 11 Start Menu](https://www.theregister.com/2023/04/17/microsoft_windows_start_ads/)
-* [2023-04-18, 14:01:34](https://news.ycombinator.com/item?id=35614171) - [Brit cops rapped over app that recorded 200k phone calls](https://www.theregister.com/2023/04/18/ico_surrey_sussex_police/)
 * [2023-04-18, 13:18:10](https://news.ycombinator.com/item?id=35613594) - [Giant SpaceX Spiral Appears Amid the Aurora Lights in Alaska&#x27;s Night Sky](https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/)
 * [2023-04-18, 12:45:12](https://news.ycombinator.com/item?id=35613247) - [A WWII spy who hid codes in her knitting](https://www.amightygirl.com/blog?p=25020)
 * [2023-04-18, 12:00:35](https://news.ycombinator.com/item?id=35612819) - [Finley (YC W21) is hiring to automate capital markets processes (US remote)](https://www.finleycms.com/careers/)
@@ -28,6 +27,7 @@
 * [2023-04-17, 07:12:15](https://news.ycombinator.com/item?id=35597638) - [Borland C++ Builder (2015)](http://runtimeterror.com/blog/borland-c-builder.html)
 * [2023-04-17, 05:59:01](https://news.ycombinator.com/item?id=35597269) - [Synchrotron technique reveals more details of mysterious Renaissance painting](https://phys.org/news/2023-04-synchrotron-technique-reveals-mysterious-underlying.html)
 * [2023-04-17, 02:02:58](https://news.ycombinator.com/item?id=35596069) - [Horrible Code, Clean Performance](https://johnnysswlab.com/horrible-code-clean-performance/)
+* [2023-04-16, 15:23:17](https://news.ycombinator.com/item?id=35590745) - [Misalignment Museum](https://www.niche-museums.com/110)
 * [2023-04-16, 10:34:12](https://news.ycombinator.com/item?id=35588797) - [Load Balancing](https://samwho.dev/load-balancing/)
 * [2023-04-16, 06:33:01](https://news.ycombinator.com/item?id=35587797) - [Lifelogging, an Inevitability (2007)](https://kk.org/thetechnium/lifelogging-an/)
 
