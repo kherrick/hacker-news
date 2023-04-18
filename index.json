@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-18, 19:55:02",
+      "https://news.ycombinator.com/item?id=35619159"
+    ],
+    [
+      "MMC4: An open, billion-scale corpus of images interleaved with text",
+      "https://github.com/allenai/mmc4"
+    ]
+  ],
+  [
+    [
       "2023-04-18, 19:18:39",
       "https://news.ycombinator.com/item?id=35618695"
     ],
@@ -277,16 +287,6 @@
     [
       "Horrible Code, Clean Performance",
       "https://johnnysswlab.com/horrible-code-clean-performance/"
-    ]
-  ],
-  [
-    [
-      "2023-04-16, 19:48:01",
-      "https://news.ycombinator.com/item?id=35593635"
-    ],
-    [
-      "Better Together: Unifying Datalog and Equality Saturation",
-      "https://arxiv.org/abs/2304.04332"
     ]
   ],
   [
