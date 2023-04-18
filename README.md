@@ -3,6 +3,7 @@
 * [2023-04-18, 09:53:10](https://news.ycombinator.com/item?id=35611923) - [Marginalia: Search the Internet](https://search.marginalia.nu/)
 * [2023-04-18, 09:22:33](https://news.ycombinator.com/item?id=35611710) - [Don&#x27;t write clean code, write CRISP code](https://bitfieldconsulting.com/golang/crisp-code)
 * [2023-04-18, 09:13:21](https://news.ycombinator.com/item?id=35611662) - [OpenWRT 22.03.4](https://github.com/openwrt/openwrt/releases/tag/v22.03.4)
+* [2023-04-18, 08:33:46](https://news.ycombinator.com/item?id=35611425) - [PSA: Upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
 * [2023-04-18, 05:07:24](https://news.ycombinator.com/item?id=35610168) - [Heroku has been running a second copy of my scheduler instance](https://openfolder.sh/heroku-anti-dx)
 * [2023-04-18, 03:52:54](https://news.ycombinator.com/item?id=35609779) - [An evidence-based guide to expanding your comfort zone](https://every.to/no-small-plans/a-founder-s-guide-to-expanding-your-comfort-zone)
 * [2023-04-18, 03:44:45](https://news.ycombinator.com/item?id=35609735) - [Ampersand (2015)](http://haggardhawksblog.blogspot.com/2015/03/ampersand.html)
@@ -29,7 +30,6 @@
 * [2023-04-16, 07:19:56](https://news.ycombinator.com/item?id=35587981) - [OpenSSH versus SSH](https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHVersusSSH)
 * [2023-04-15, 18:44:27](https://news.ycombinator.com/item?id=35583375) - [Diverging Diamond Interchange](https://en.wikipedia.org/wiki/Diverging_diamond_interchange)
 * [2023-04-15, 08:35:20](https://news.ycombinator.com/item?id=35578765) - [DOOM maps to SVG to laser cutter](https://theor.xyz/doom-maps-laser-cut/)
-* [2023-04-15, 05:19:16](https://news.ycombinator.com/item?id=35577809) - [How Puzzles Made Us Human (2014) [pdf]](https://www.gathering4gardner.org/g4g12gift/Mutalik_Pradeep-How_Puzzles_Made_Us_Human.pdf)
 
 ## [Archives](archives/index.md)
 
