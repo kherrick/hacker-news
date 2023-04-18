@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-18, 22:23:52",
+      "https://news.ycombinator.com/item?id=35621238"
+    ],
+    [
+      "Node.js 20 is now available",
+      "https://nodejs.org/en/blog/announcements/v20-release-announce"
+    ]
+  ],
+  [
+    [
+      "2023-04-18, 22:06:00",
+      "https://news.ycombinator.com/item?id=35621023"
+    ],
+    [
+      "LLaVA: Large Language and Vision Assistant",
+      "https://llava-vl.github.io/"
+    ]
+  ],
+  [
+    [
       "2023-04-18, 21:58:35",
       "https://news.ycombinator.com/item?id=35620924"
     ],
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2023-04-18, 18:51:12",
+      "https://news.ycombinator.com/item?id=35618253"
+    ],
+    [
+      "Cilium Mesh – One Mesh to Connect Them All",
+      "https://isovalent.com/blog/post/introducing-cilium-mesh/"
+    ]
+  ],
+  [
+    [
       "2023-04-18, 18:31:52",
       "https://news.ycombinator.com/item?id=35617951"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-04-18, 14:15:21",
-      "https://news.ycombinator.com/item?id=35614332"
-    ],
-    [
-      "Synthetic Data from Diffusion Models Improves ImageNet Classification",
-      "https://arxiv.org/abs/2304.08466"
-    ]
-  ],
-  [
-    [
       "2023-04-18, 14:13:19",
       "https://news.ycombinator.com/item?id=35614313"
     ],
@@ -237,26 +257,6 @@
     [
       "PSA: Upgrade your LUKS key derivation function",
       "https://mjg59.dreamwidth.org/66429.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 19:44:50",
-      "https://news.ycombinator.com/item?id=35605572"
-    ],
-    [
-      "The Cult of Sigmund Freud",
-      "https://www.newstatesman.com/culture/books/book-of-the-day/2023/04/cult-sigmund-freud"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 11:35:36",
-      "https://news.ycombinator.com/item?id=35599270"
-    ],
-    [
-      "Mouse Cursor History (and why I made my own)",
-      "https://www.youtube.com/watch?v=YThelfB2fvg"
     ]
   ],
   [
