@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 20:06:05](https://news.ycombinator.com/item?id=35632658) - [Substack Is the Biggest Threat to Newsletters Ever](https://notes.ghed.in/posts/2023/substack-threat-newsletters/)
 * [2023-04-19, 19:36:19](https://news.ycombinator.com/item?id=35632358) - [Disney Is Set to Eliminate Thousands of Jobs Starting Next Week](https://www.bloomberg.com/news/articles/2023-04-19/disney-is-poised-to-eliminate-thousands-of-jobs-next-week)
 * [2023-04-19, 19:10:02](https://news.ycombinator.com/item?id=35632058) - [Qantas is bringing back Airbus A380s from the California desert](https://www.smh.com.au/business/companies/california-to-sydney-how-do-you-wake-an-a380-after-1000-days-in-the-desert-20221227-p5c8zp.html)
 * [2023-04-19, 18:36:45](https://news.ycombinator.com/item?id=35631717) - [Farouk Al Kasim Saved Norway from Its Oil](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
@@ -49,6 +50,7 @@
 * [2023-04-19, 06:26:27](https://news.ycombinator.com/item?id=35624899) - [Defining interfaces in C++ with ‘concepts’ (C++20)](https://lemire.me/blog/2023/04/18/defining-interfaces-in-c-with-concepts-c20/)
 * [2023-04-19, 05:35:05](https://news.ycombinator.com/item?id=35624608) - [Intel to license x86 CPU cores for use in custom processors](https://www.theregister.com/2022/02/14/intel_x86_licensing/)
 * [2023-04-19, 05:22:50](https://news.ycombinator.com/item?id=35624544) - [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
+* [2023-04-19, 05:17:21](https://news.ycombinator.com/item?id=35624511) - [The Origins of Creativity](https://www.newyorker.com/magazine/2023/04/24/the-cult-of-creativity-samuel-weil-franklin-book-review)
 * [2023-04-19, 05:07:12](https://news.ycombinator.com/item?id=35624451) - [Ptolemy’s Treatise on the Meteoroscope Recovered](https://link.springer.com/article/10.1007/s00407-022-00302-w)
 * [2023-04-19, 04:41:14](https://news.ycombinator.com/item?id=35624300) - [Show HN: Kinde – auth, feature flags and billing (Q3) in one integration](https://kinde.com/)
 * [2023-04-19, 04:22:17](https://news.ycombinator.com/item?id=35624210) - [Nintendo Hacker Freed, Now Owes Them 25-30% of Salary for Life](https://www.dexerto.com/tech/nintendo-hacker-forced-to-pay-them-for-life-after-being-released-from-prison-2117382/)
