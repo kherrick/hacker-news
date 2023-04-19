@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
 * [2023-04-19, 23:04:50](https://news.ycombinator.com/item?id=35634419) - [DinoV2: Meta’s Open Source State-of-the-art computer vision models](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)
+* [2023-04-19, 22:27:26](https://news.ycombinator.com/item?id=35634120) - [LlamaAcademy: Teach GPTs to understand API documentation with LoRA](https://github.com/danielgross/LlamaAcademy)
 * [2023-04-19, 22:08:11](https://news.ycombinator.com/item?id=35633934) - [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code)
 * [2023-04-19, 21:59:23](https://news.ycombinator.com/item?id=35633840) - [Uncleftish Beholding (1989)](https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish_beholding.html)
 * [2023-04-19, 21:58:10](https://news.ycombinator.com/item?id=35633827) - [A newfound discomfort with hypertext](https://maya.land/monologues/2023/03/21/hypertext-hostility.html)
