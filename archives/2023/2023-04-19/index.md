@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 13:20:56](https://news.ycombinator.com/item?id=35627790) - [Latent Diffusion Models Are Zero-Shot Speech and Singing Synthesizers](https://speechresearch.github.io/naturalspeech2/)
+* [2023-04-19, 13:19:43](https://news.ycombinator.com/item?id=35627779) - [90% of My Skills Are Now Worth $0](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0)
+* [2023-04-19, 12:12:02](https://news.ycombinator.com/item?id=35627167) - [Vivaldi 6.0 Web Browser Introduces Tab Workspaces and Custom Icons](https://www.macrumors.com/2023/04/19/vivaldi-6-mac-tab-workspaces-custom-icons/)
 * [2023-04-19, 12:05:50](https://news.ycombinator.com/item?id=35627107) - [Making a Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 12:05:12](https://news.ycombinator.com/item?id=35627102) - [The secret list of websites that make AI chatbots sound smart](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/)
 * [2023-04-19, 12:00:25](https://news.ycombinator.com/item?id=35627071) - [Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
