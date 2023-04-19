@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-19, 06:49:34",
+      "https://news.ycombinator.com/item?id=35625065"
+    ],
+    [
+      "Yubico is merging with ACQ Bure and intends to go public",
+      "https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/"
+    ]
+  ],
+  [
+    [
+      "2023-04-19, 06:26:27",
+      "https://news.ycombinator.com/item?id=35624899"
+    ],
+    [
+      "Defining interfaces in C++ with ‘concepts’ (C++20)",
+      "https://lemire.me/blog/2023/04/18/defining-interfaces-in-c-with-concepts-c20/"
+    ]
+  ],
+  [
+    [
       "2023-04-19, 05:22:50",
       "https://news.ycombinator.com/item?id=35624544"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-04-18, 15:47:31",
-      "https://news.ycombinator.com/item?id=35615601"
-    ],
-    [
-      "NIST Privacy Framework",
-      "https://www.nist.gov/privacy-framework"
-    ]
-  ],
-  [
-    [
       "2023-04-18, 14:13:19",
       "https://news.ycombinator.com/item?id=35614313"
     ],
@@ -277,16 +287,6 @@
     [
       "Linuxwave: Generate Music from the Entropy of Linux",
       "https://github.com/orhun/linuxwave"
-    ]
-  ],
-  [
-    [
-      "2023-04-16, 10:34:12",
-      "https://news.ycombinator.com/item?id=35588797"
-    ],
-    [
-      "Load Balancing",
-      "https://samwho.dev/load-balancing/"
     ]
   ],
   [
