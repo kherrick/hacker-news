@@ -22,7 +22,7 @@
 * [2023-04-19, 11:11:32](https://news.ycombinator.com/item?id=35626755) - [Why some researchers think I’m wrong about social media and mental illness](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong)
 * [2023-04-19, 09:09:07](https://news.ycombinator.com/item?id=35626015) - [Offline is just online with extreme latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
 * [2023-04-19, 09:07:24](https://news.ycombinator.com/item?id=35626005) - [Origin Of The Abbreviation I18n: Jan Scherpenhuizen =&gt; S12n @ DEC (2002)](http://www.i18nguy.com/origini18n.html)
-* [2023-04-19, 06:49:34](https://news.ycombinator.com/item?id=35625065) - [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
+* [2023-04-19, 07:54:46](https://news.ycombinator.com/item?id=35625543) - [How to make good small games](http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html)
 * [2023-04-19, 05:17:21](https://news.ycombinator.com/item?id=35624511) - [The Origins of Creativity](https://www.newyorker.com/magazine/2023/04/24/the-cult-of-creativity-samuel-weil-franklin-book-review)
 * [2023-04-18, 13:51:55](https://news.ycombinator.com/item?id=35614023) - [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
 * [2023-04-18, 06:19:52](https://news.ycombinator.com/item?id=35610562) - [Almost three quarters of the golden age of Hollywood has been lost](https://www.historytoday.com/archive/missing-pieces/lost-movies)
