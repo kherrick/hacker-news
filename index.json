@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-19, 03:02:32",
+      "https://news.ycombinator.com/item?id=35623783"
+    ],
+    [
+      "Raspberry Pi Receives Strategic Investment from Sony Semiconductor Solutions",
+      "https://www.sony.co.uk/presscentre/news/raspberry-pi-receives-strategic-investment-from-sony-semiconductor-solutions-corporation"
+    ]
+  ],
+  [
+    [
       "2023-04-19, 02:03:28",
       "https://news.ycombinator.com/item?id=35623361"
     ],
@@ -157,16 +167,6 @@
     [
       "Skybox: Open-Source Graphic Rendering on Programmable RISC-V GPUs",
       "https://dl.acm.org/doi/pdf/10.1145/3582016.3582024"
-    ]
-  ],
-  [
-    [
-      "2023-04-18, 19:32:04",
-      "https://news.ycombinator.com/item?id=35618878"
-    ],
-    [
-      "PlanD: Plan9 from Containerspace",
-      "https://github.com/rvs/planD"
     ]
   ],
   [
