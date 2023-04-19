@@ -29,7 +29,7 @@
 * [2023-04-18, 06:02:37](https://news.ycombinator.com/item?id=35610466) - [The Lotus Sutra Project: Conserving and Digitising 800 Manuscripts](https://blogs.bl.uk/asian-and-african/2023/04/the-lotus-sutra-project-conserving-and-digitising-800-manuscripts-in-the-british-library.html)
 * [2023-04-18, 02:11:35](https://news.ycombinator.com/item?id=35609150) - [Mini-States and Micro-Sovereignty: Democracies in East Central Europe, 1918–1923](https://www.cambridge.org/core/journals/contemporary-european-history/article/ministates-and-microsovereignty-local-democracies-in-east-central-europe-19181923/68ECB1DC9F610696C966B63C9CE2B736)
 * [2023-04-17, 23:30:50](https://news.ycombinator.com/item?id=35608036) - [Highlights from the Comments on IRBs](https://astralcodexten.substack.com/p/highlights-from-the-comments-on-irbs)
-* [2023-04-17, 02:02:58](https://news.ycombinator.com/item?id=35596069) - [Horrible Code, Clean Performance](https://johnnysswlab.com/horrible-code-clean-performance/)
+* [2023-04-17, 20:18:38](https://news.ycombinator.com/item?id=35606003) - [C. P. Cranch’s Literal Illustrations of Emerson’s Nature (ca. 1837–39)](https://publicdomainreview.org/collection/cranch-new-philosophy)
 
 ## [Archives](archives/index.md)
 

@@ -19,6 +19,7 @@
 * [2023-04-17, 20:57:30](https://news.ycombinator.com/item?id=35606519) - [Indian government empowers itself to “fact check,” delete social media posts](https://restofworld.org/2023/indian-government-fact-check-delete-social-media/)
 * [2023-04-17, 20:48:20](https://news.ycombinator.com/item?id=35606413) - [Japan Has Millions of Empty Houses. Want to Buy One for $25,000?](https://www.nytimes.com/2023/04/17/realestate/japan-empty-houses.html)
 * [2023-04-17, 20:28:10](https://news.ycombinator.com/item?id=35606138) - [Now, you can embed Mastodon posts in Medium stories](https://blog.medium.com/now-you-can-embed-mastodon-posts-in-medium-stories-99b11d0baa7f)
+* [2023-04-17, 20:18:38](https://news.ycombinator.com/item?id=35606003) - [C. P. Cranch’s Literal Illustrations of Emerson’s Nature (ca. 1837–39)](https://publicdomainreview.org/collection/cranch-new-philosophy)
 * [2023-04-17, 19:46:52](https://news.ycombinator.com/item?id=35605602) - [Draculas, Ranked](https://www.vulture.com/article/dracula-movie-performances-ranked.html)
 * [2023-04-17, 19:44:50](https://news.ycombinator.com/item?id=35605572) - [The Cult of Sigmund Freud](https://www.newstatesman.com/culture/books/book-of-the-day/2023/04/cult-sigmund-freud)
 * [2023-04-17, 19:34:14](https://news.ycombinator.com/item?id=35605412) - [Coworking from Home](https://www.bbc.com/worklife/article/20230413-home-coworking-spaces-with-friends)
