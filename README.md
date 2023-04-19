@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-19, 14:30:09](https://news.ycombinator.com/item?id=35628642) - [Show HN: Open-source Auth0 alternative Ory Kratos v0.13 released – nearing v1.0](https://github.com/ory/kratos/releases/tag/v0.13.0)
+* [2023-04-19, 14:23:51](https://news.ycombinator.com/item?id=35628563) - [Child sexual abuse: leading MEP sceptical of technical limitations](https://www.euractiv.com/section/data-privacy/interview/child-sexual-abuse-leading-mep-sceptical-of-technical-limitations/)
 * [2023-04-19, 14:18:21](https://news.ycombinator.com/item?id=35628485) - [When Interfaces Kill: What Happened to John Denver (1999)](https://www.asktog.com/columns/027InterfacesThatKill.html)
+* [2023-04-19, 14:08:36](https://news.ycombinator.com/item?id=35628345) - [AI Incident Database](https://incidentdatabase.ai/)
 * [2023-04-19, 13:20:56](https://news.ycombinator.com/item?id=35627790) - [Latent Diffusion Models Are Zero-Shot Speech and Singing Synthesizers](https://speechresearch.github.io/naturalspeech2/)
 * [2023-04-19, 12:29:50](https://news.ycombinator.com/item?id=35627301) - [Global rice shortage is set to be the biggest in 20 years](https://www.cnbc.com/2023/04/19/global-rice-shortage-is-set-to-be-the-largest-in-20-years-heres-why.html)
 * [2023-04-19, 12:12:02](https://news.ycombinator.com/item?id=35627167) - [Vivaldi 6.0 Web Browser Introduces Tab Workspaces and Custom Icons](https://www.macrumors.com/2023/04/19/vivaldi-6-mac-tab-workspaces-custom-icons/)
@@ -16,7 +19,6 @@
 * [2023-04-19, 02:03:28](https://news.ycombinator.com/item?id=35623361) - [Explore Washington DC through the eyes of a spy](https://secretmissiondc.com/)
 * [2023-04-19, 00:39:14](https://news.ycombinator.com/item?id=35622629) - [Orb weaver spider glue properties evolve faster than their glue genes](https://phys.org/news/2023-04-orb-weaver-spider-properties-evolve.html)
 * [2023-04-19, 00:38:40](https://news.ycombinator.com/item?id=35622622) - [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
-* [2023-04-18, 23:18:43](https://news.ycombinator.com/item?id=35621861) - [Broadband Consumer Labels](https://www.fcc.gov/broadbandlabels)
 * [2023-04-18, 23:17:15](https://news.ycombinator.com/item?id=35621847) - [Hundreds of years after the first try, we can finally read a Ptolemy text](https://arstechnica.com/science/2023/04/hundreds-of-years-after-the-first-try-we-can-finally-read-a-ptolemy-text/)
 * [2023-04-18, 22:39:07](https://news.ycombinator.com/item?id=35621425) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
 * [2023-04-18, 22:28:26](https://news.ycombinator.com/item?id=35621309) - [MRI brain images become 64M times sharper](https://today.duke.edu/2023/04/brain-images-just-got-64-million-times-sharper)
@@ -27,8 +29,6 @@
 * [2023-04-18, 14:13:19](https://news.ycombinator.com/item?id=35614313) - [Software firms across US facing tax bills that threaten survival](https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html)
 * [2023-04-18, 09:53:27](https://news.ycombinator.com/item?id=35611925) - [What it&#x27;s like to go blind (2015)](https://www.vox.com/2015/4/10/8365853/blind-vision-loss)
 * [2023-04-18, 02:11:35](https://news.ycombinator.com/item?id=35609150) - [Mini-States and Micro-Sovereignty: Democracies in East Central Europe, 1918–1923](https://www.cambridge.org/core/journals/contemporary-european-history/article/ministates-and-microsovereignty-local-democracies-in-east-central-europe-19181923/68ECB1DC9F610696C966B63C9CE2B736)
-* [2023-04-17, 13:19:08](https://news.ycombinator.com/item?id=35600208) - [Amiga History: The Delfina Plus 16 bit sound card [video]](https://www.youtube.com/watch?v=kLohRfVy3y4)
-* [2023-04-16, 10:34:12](https://news.ycombinator.com/item?id=35588797) - [Load Balancing](https://samwho.dev/load-balancing/)
 * [2023-04-16, 09:17:07](https://news.ycombinator.com/item?id=35588451) - [PSKoans: A simple, fun, and interactive way to learn the PowerShell language](https://github.com/vexx32/PSKoans)
 
 ## [Archives](archives/index.md)
