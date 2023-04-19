@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-19, 14:41:30](https://news.ycombinator.com/item?id=35628754) - [Judge tentatively OKs $725M Facebook settlement: How to apply for a payout](https://thehill.com/homenews/nexstar_media_wire/3956560-judge-tentatively-oks-725m-facebook-settlement-how-to-apply-for-a-payout/)
 * [2023-04-19, 14:30:09](https://news.ycombinator.com/item?id=35628642) - [Show HN: Open-source Auth0 alternative Ory Kratos v0.13 released – nearing v1.0](https://github.com/ory/kratos/releases/tag/v0.13.0)
 * [2023-04-19, 14:23:51](https://news.ycombinator.com/item?id=35628563) - [Child sexual abuse: leading MEP sceptical of technical limitations](https://www.euractiv.com/section/data-privacy/interview/child-sexual-abuse-leading-mep-sceptical-of-technical-limitations/)
 * [2023-04-19, 14:18:21](https://news.ycombinator.com/item?id=35628485) - [When Interfaces Kill: What Happened to John Denver (1999)](https://www.asktog.com/columns/027InterfacesThatKill.html)
@@ -20,7 +21,6 @@
 * [2023-04-19, 00:39:14](https://news.ycombinator.com/item?id=35622629) - [Orb weaver spider glue properties evolve faster than their glue genes](https://phys.org/news/2023-04-orb-weaver-spider-properties-evolve.html)
 * [2023-04-19, 00:38:40](https://news.ycombinator.com/item?id=35622622) - [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
 * [2023-04-18, 23:17:15](https://news.ycombinator.com/item?id=35621847) - [Hundreds of years after the first try, we can finally read a Ptolemy text](https://arstechnica.com/science/2023/04/hundreds-of-years-after-the-first-try-we-can-finally-read-a-ptolemy-text/)
-* [2023-04-18, 22:39:07](https://news.ycombinator.com/item?id=35621425) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
 * [2023-04-18, 22:28:26](https://news.ycombinator.com/item?id=35621309) - [MRI brain images become 64M times sharper](https://today.duke.edu/2023/04/brain-images-just-got-64-million-times-sharper)
 * [2023-04-18, 21:58:35](https://news.ycombinator.com/item?id=35620924) - [Why do ships use “port” and “starboard” instead of “left” and “right?”](https://oceanservice.noaa.gov/facts/port-starboard.html)
 * [2023-04-18, 21:16:10](https://news.ycombinator.com/item?id=35620314) - [Show HN: Database for analyzing US companies, visualize using Apache SuperSet](https://tesseractanalytics.ai/)
