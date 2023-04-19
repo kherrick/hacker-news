@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 18:36:45](https://news.ycombinator.com/item?id=35631717) - [Farouk Al Kasim Saved Norway from Its Oil](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
 * [2023-04-19, 18:23:59](https://news.ycombinator.com/item?id=35631546) - [EleutherAI: Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
 * [2023-04-19, 17:55:56](https://news.ycombinator.com/item?id=35631200) - [I Quit Reddit in 1 Day](https://nitinpassa.com/how-i-quit-reddit-in-1-day/)
 * [2023-04-19, 17:44:50](https://news.ycombinator.com/item?id=35631072) - [JEP Draft: Integrity and Strong Encapsulation](https://openjdk.org/jeps/8305968)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-19, 18:36:45](https://news.ycombinator.com/item?id=35631717) - [Farouk Al Kasim Saved Norway from Its Oil](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
 * [2023-04-19, 18:23:59](https://news.ycombinator.com/item?id=35631546) - [EleutherAI: Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
 * [2023-04-19, 17:44:50](https://news.ycombinator.com/item?id=35631072) - [JEP Draft: Integrity and Strong Encapsulation](https://openjdk.org/jeps/8305968)
 * [2023-04-19, 17:11:04](https://news.ycombinator.com/item?id=35630681) - [The GTK+3 port of GIMP is officially finished](https://twitter.com/zemarmot/status/1646272510701236229)
@@ -20,16 +21,15 @@
 * [2023-04-19, 09:59:41](https://news.ycombinator.com/item?id=35626312) - [ChatPDF – Chat with Any PDF](https://www.chatpdf.com)
 * [2023-04-19, 09:09:07](https://news.ycombinator.com/item?id=35626015) - [Offline is just online with extreme latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
 * [2023-04-19, 09:07:24](https://news.ycombinator.com/item?id=35626005) - [Origin Of The Abbreviation I18n: Jan Scherpenhuizen =&gt; S12n @ DEC (2002)](http://www.i18nguy.com/origini18n.html)
-* [2023-04-19, 07:54:46](https://news.ycombinator.com/item?id=35625543) - [How to Make Good Small Games](http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html)
+* [2023-04-19, 07:54:46](https://news.ycombinator.com/item?id=35625543) - [How to make good small games](http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html)
 * [2023-04-19, 06:49:34](https://news.ycombinator.com/item?id=35625065) - [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
 * [2023-04-19, 05:22:50](https://news.ycombinator.com/item?id=35624544) - [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
-* [2023-04-19, 00:39:14](https://news.ycombinator.com/item?id=35622629) - [Orb weaver spider glue properties evolve faster than their glue genes](https://phys.org/news/2023-04-orb-weaver-spider-properties-evolve.html)
 * [2023-04-19, 00:29:43](https://news.ycombinator.com/item?id=35622558) - [Teasing Strange Matter from the Ordinary](https://phys.org/news/2023-04-strange-ordinary.html)
-* [2023-04-18, 23:17:15](https://news.ycombinator.com/item?id=35621847) - [Hundreds of years after the first try, we can finally read a Ptolemy text](https://arstechnica.com/science/2023/04/hundreds-of-years-after-the-first-try-we-can-finally-read-a-ptolemy-text/)
 * [2023-04-18, 13:51:55](https://news.ycombinator.com/item?id=35614023) - [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
 * [2023-04-18, 06:19:52](https://news.ycombinator.com/item?id=35610562) - [Almost three quarters of the golden age of Hollywood has been lost](https://www.historytoday.com/archive/missing-pieces/lost-movies)
 * [2023-04-18, 06:02:37](https://news.ycombinator.com/item?id=35610466) - [The Lotus Sutra Project: Conserving and Digitising 800 Manuscripts](https://blogs.bl.uk/asian-and-african/2023/04/the-lotus-sutra-project-conserving-and-digitising-800-manuscripts-in-the-british-library.html)
 * [2023-04-18, 02:11:35](https://news.ycombinator.com/item?id=35609150) - [Mini-States and Micro-Sovereignty: Democracies in East Central Europe, 1918–1923](https://www.cambridge.org/core/journals/contemporary-european-history/article/ministates-and-microsovereignty-local-democracies-in-east-central-europe-19181923/68ECB1DC9F610696C966B63C9CE2B736)
+* [2023-04-17, 02:02:58](https://news.ycombinator.com/item?id=35596069) - [Horrible Code, Clean Performance](https://johnnysswlab.com/horrible-code-clean-performance/)
 
 ## [Archives](archives/index.md)
 
