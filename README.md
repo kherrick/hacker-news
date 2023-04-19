@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-19, 13:20:56](https://news.ycombinator.com/item?id=35627790) - [Latent Diffusion Models Are Zero-Shot Speech and Singing Synthesizers](https://speechresearch.github.io/naturalspeech2/)
-* [2023-04-19, 13:19:43](https://news.ycombinator.com/item?id=35627779) - [90% of My Skills Are Now Worth $0](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0)
 * [2023-04-19, 12:29:50](https://news.ycombinator.com/item?id=35627301) - [Global rice shortage is set to be the biggest in 20 years](https://www.cnbc.com/2023/04/19/global-rice-shortage-is-set-to-be-the-largest-in-20-years-heres-why.html)
 * [2023-04-19, 12:12:02](https://news.ycombinator.com/item?id=35627167) - [Vivaldi 6.0 Web Browser Introduces Tab Workspaces and Custom Icons](https://www.macrumors.com/2023/04/19/vivaldi-6-mac-tab-workspaces-custom-icons/)
 * [2023-04-19, 12:05:50](https://news.ycombinator.com/item?id=35627107) - [Making a Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
@@ -27,6 +26,7 @@
 * [2023-04-18, 17:38:28](https://news.ycombinator.com/item?id=35617198) - [Astral](https://astral.sh/)
 * [2023-04-18, 14:13:19](https://news.ycombinator.com/item?id=35614313) - [Software firms across US facing tax bills that threaten survival](https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html)
 * [2023-04-18, 09:53:27](https://news.ycombinator.com/item?id=35611925) - [What it&#x27;s like to go blind (2015)](https://www.vox.com/2015/4/10/8365853/blind-vision-loss)
+* [2023-04-18, 02:11:35](https://news.ycombinator.com/item?id=35609150) - [Mini-States and Micro-Sovereignty: Democracies in East Central Europe, 1918–1923](https://www.cambridge.org/core/journals/contemporary-european-history/article/ministates-and-microsovereignty-local-democracies-in-east-central-europe-19181923/68ECB1DC9F610696C966B63C9CE2B736)
 * [2023-04-17, 13:19:08](https://news.ycombinator.com/item?id=35600208) - [Amiga History: The Delfina Plus 16 bit sound card [video]](https://www.youtube.com/watch?v=kLohRfVy3y4)
 * [2023-04-16, 10:34:12](https://news.ycombinator.com/item?id=35588797) - [Load Balancing](https://samwho.dev/load-balancing/)
 * [2023-04-16, 09:17:07](https://news.ycombinator.com/item?id=35588451) - [PSKoans: A simple, fun, and interactive way to learn the PowerShell language](https://github.com/vexx32/PSKoans)
