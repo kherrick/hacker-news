@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-19, 04:41:14](https://news.ycombinator.com/item?id=35624300) - [Show HN: Kinde – auth, feature flags and billing (Q3) in one integration](https://kinde.com/)
+* [2023-04-19, 04:22:17](https://news.ycombinator.com/item?id=35624210) - [Nintendo Hacker Freed, Now Owes Them 25-30% of Salary for Life](https://www.dexerto.com/tech/nintendo-hacker-forced-to-pay-them-for-life-after-being-released-from-prison-2117382/)
 * [2023-04-19, 03:21:15](https://news.ycombinator.com/item?id=35623891) - [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
 * [2023-04-19, 02:37:52](https://news.ycombinator.com/item?id=35623625) - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
 * [2023-04-19, 02:04:46](https://news.ycombinator.com/item?id=35623366) - [The Age of the Crisis of Work](https://harpers.org/archive/2023/05/the-age-of-the-crisis-of-work-quiet-quitting-great-resignation/)
@@ -23,12 +24,11 @@
 * [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
 * [2023-04-18, 17:38:28](https://news.ycombinator.com/item?id=35617198) - [Astral](https://astral.sh/)
 * [2023-04-18, 17:32:19](https://news.ycombinator.com/item?id=35617100) - [The Coming Technological Singularity (1993)](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
+* [2023-04-18, 15:47:31](https://news.ycombinator.com/item?id=35615601) - [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
 * [2023-04-18, 14:13:19](https://news.ycombinator.com/item?id=35614313) - [Software firms across US facing tax bills that threaten survival](https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html)
-* [2023-04-18, 14:03:09](https://news.ycombinator.com/item?id=35614190) - [Microsoft plugging more ads into Windows 11 Start Menu](https://www.theregister.com/2023/04/17/microsoft_windows_start_ads/)
 * [2023-04-18, 09:53:27](https://news.ycombinator.com/item?id=35611925) - [What it&#x27;s like to go blind (2015)](https://www.vox.com/2015/4/10/8365853/blind-vision-loss)
 * [2023-04-17, 13:19:08](https://news.ycombinator.com/item?id=35600208) - [Amiga History: The Delfina Plus 16 bit sound card [video]](https://www.youtube.com/watch?v=kLohRfVy3y4)
 * [2023-04-17, 10:01:01](https://news.ycombinator.com/item?id=35598710) - [Linuxwave: Generate Music from the Entropy of Linux](https://github.com/orhun/linuxwave)
-* [2023-04-17, 07:51:21](https://news.ycombinator.com/item?id=35597869) - [The Big Dictionary of MLOps](https://www.hopsworks.ai/mlops-dictionary)
 * [2023-04-16, 09:17:07](https://news.ycombinator.com/item?id=35588451) - [PSKoans: A simple, fun, and interactive way to learn the PowerShell language](https://github.com/vexx32/PSKoans)
 
 ## [Archives](archives/index.md)
