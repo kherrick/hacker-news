@@ -16,7 +16,6 @@
 * [2023-04-19, 15:26:00](https://news.ycombinator.com/item?id=35629351) - [Ask HN: AI to study my DSL and then output it?](https://news.ycombinator.com/item?id=35629351)
 * [2023-04-19, 15:10:47](https://news.ycombinator.com/item?id=35629127) - [StableLM: A new open-source language model](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
 * [2023-04-19, 15:09:48](https://news.ycombinator.com/item?id=35629114) - [DIY Neurotech: Making BCI open-source thrusts brain-signal into a maker’s world](https://spectrum.ieee.org/neurotechnology-diy)
-* [2023-04-19, 15:04:08](https://news.ycombinator.com/item?id=35629033) - [Agents are the next AI killer app after ChatGPT](https://www.latent.space/p/agents)
 * [2023-04-19, 13:20:56](https://news.ycombinator.com/item?id=35627790) - [NaturalSpeech 2: Zero-shot speech and singing synthesizers](https://speechresearch.github.io/naturalspeech2/)
 * [2023-04-19, 13:19:43](https://news.ycombinator.com/item?id=35627779) - [Most of my skills are now worth nothing, but 10% are worth 1000x](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0)
 * [2023-04-19, 12:05:50](https://news.ycombinator.com/item?id=35627107) - [Making a Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
@@ -30,6 +29,7 @@
 * [2023-04-18, 06:02:37](https://news.ycombinator.com/item?id=35610466) - [The Lotus Sutra Project: Conserving and Digitising 800 Manuscripts](https://blogs.bl.uk/asian-and-african/2023/04/the-lotus-sutra-project-conserving-and-digitising-800-manuscripts-in-the-british-library.html)
 * [2023-04-18, 02:11:35](https://news.ycombinator.com/item?id=35609150) - [Mini-States and Micro-Sovereignty: Democracies in East Central Europe, 1918–1923](https://www.cambridge.org/core/journals/contemporary-european-history/article/ministates-and-microsovereignty-local-democracies-in-east-central-europe-19181923/68ECB1DC9F610696C966B63C9CE2B736)
 * [2023-04-17, 23:30:50](https://news.ycombinator.com/item?id=35608036) - [Highlights from the Comments on IRBs](https://astralcodexten.substack.com/p/highlights-from-the-comments-on-irbs)
+* [2023-04-17, 02:02:58](https://news.ycombinator.com/item?id=35596069) - [Horrible Code, Clean Performance](https://johnnysswlab.com/horrible-code-clean-performance/)
 
 ## [Archives](archives/index.md)
 
