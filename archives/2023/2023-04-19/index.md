@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 14:18:21](https://news.ycombinator.com/item?id=35628485) - [When Interfaces Kill: What Happened to John Denver (1999)](https://www.asktog.com/columns/027InterfacesThatKill.html)
 * [2023-04-19, 13:20:56](https://news.ycombinator.com/item?id=35627790) - [Latent Diffusion Models Are Zero-Shot Speech and Singing Synthesizers](https://speechresearch.github.io/naturalspeech2/)
 * [2023-04-19, 13:19:43](https://news.ycombinator.com/item?id=35627779) - [90% of My Skills Are Now Worth $0](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0)
 * [2023-04-19, 12:29:50](https://news.ycombinator.com/item?id=35627301) - [Global rice shortage is set to be the biggest in 20 years](https://www.cnbc.com/2023/04/19/global-rice-shortage-is-set-to-be-the-largest-in-20-years-heres-why.html)

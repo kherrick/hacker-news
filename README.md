@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-19, 14:18:21](https://news.ycombinator.com/item?id=35628485) - [When Interfaces Kill: What Happened to John Denver (1999)](https://www.asktog.com/columns/027InterfacesThatKill.html)
 * [2023-04-19, 13:20:56](https://news.ycombinator.com/item?id=35627790) - [Latent Diffusion Models Are Zero-Shot Speech and Singing Synthesizers](https://speechresearch.github.io/naturalspeech2/)
 * [2023-04-19, 12:29:50](https://news.ycombinator.com/item?id=35627301) - [Global rice shortage is set to be the biggest in 20 years](https://www.cnbc.com/2023/04/19/global-rice-shortage-is-set-to-be-the-largest-in-20-years-heres-why.html)
 * [2023-04-19, 12:12:02](https://news.ycombinator.com/item?id=35627167) - [Vivaldi 6.0 Web Browser Introduces Tab Workspaces and Custom Icons](https://www.macrumors.com/2023/04/19/vivaldi-6-mac-tab-workspaces-custom-icons/)
@@ -22,7 +23,6 @@
 * [2023-04-18, 21:58:35](https://news.ycombinator.com/item?id=35620924) - [Why do ships use “port” and “starboard” instead of “left” and “right?”](https://oceanservice.noaa.gov/facts/port-starboard.html)
 * [2023-04-18, 21:16:10](https://news.ycombinator.com/item?id=35620314) - [Show HN: Database for analyzing US companies, visualize using Apache SuperSet](https://tesseractanalytics.ai/)
 * [2023-04-18, 21:14:39](https://news.ycombinator.com/item?id=35620291) - [Clock](https://oimo.io/works/clock/)
-* [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
 * [2023-04-18, 17:38:28](https://news.ycombinator.com/item?id=35617198) - [Astral](https://astral.sh/)
 * [2023-04-18, 14:13:19](https://news.ycombinator.com/item?id=35614313) - [Software firms across US facing tax bills that threaten survival](https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html)
 * [2023-04-18, 09:53:27](https://news.ycombinator.com/item?id=35611925) - [What it&#x27;s like to go blind (2015)](https://www.vox.com/2015/4/10/8365853/blind-vision-loss)
