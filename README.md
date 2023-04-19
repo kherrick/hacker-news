@@ -22,7 +22,7 @@
 * [2023-04-18, 15:47:31](https://news.ycombinator.com/item?id=35615601) - [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
 * [2023-04-18, 14:13:19](https://news.ycombinator.com/item?id=35614313) - [Software firms across US facing tax bills that threaten survival](https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html)
 * [2023-04-18, 14:03:09](https://news.ycombinator.com/item?id=35614190) - [Microsoft plugging more ads into Windows 11 Start Menu](https://www.theregister.com/2023/04/17/microsoft_windows_start_ads/)
-* [2023-04-18, 12:45:12](https://news.ycombinator.com/item?id=35613247) - [A WWII spy who hid codes in her knitting](https://www.amightygirl.com/blog?p=25020)
+* [2023-04-18, 11:21:44](https://news.ycombinator.com/item?id=35612494) - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 * [2023-04-18, 09:53:27](https://news.ycombinator.com/item?id=35611925) - [What it&#x27;s like to go blind (2015)](https://www.vox.com/2015/4/10/8365853/blind-vision-loss)
 * [2023-04-17, 19:46:52](https://news.ycombinator.com/item?id=35605602) - [Draculas, Ranked](https://www.vulture.com/article/dracula-movie-performances-ranked.html)
 * [2023-04-17, 13:19:08](https://news.ycombinator.com/item?id=35600208) - [Amiga History: The Delfina Plus 16 bit sound card [video]](https://www.youtube.com/watch?v=kLohRfVy3y4)
