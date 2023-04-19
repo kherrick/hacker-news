@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-19, 01:38:54](https://news.ycombinator.com/item?id=35623223) - [Overnight &#x27;hotel train&#x27; could link San Francisco and Los Angeles](https://www.latimes.com/california/story/2023-04-18/night-train-san-francisco-los-angeles-dreamstar-lines)
+* [2023-04-19, 02:03:28](https://news.ycombinator.com/item?id=35623361) - [Explore Washington DC through the eyes of a spy – an IRL scavenger hunt](https://secretmissiondc.com/)
 * [2023-04-19, 01:03:45](https://news.ycombinator.com/item?id=35622847) - [Google search partial outage while rolling out new search?](https://news.ycombinator.com/item?id=35622847)
 * [2023-04-19, 00:54:43](https://news.ycombinator.com/item?id=35622761) - [Meta to unveil fresh round of job cuts among highly skilled staff](https://www.washingtonpost.com/technology/2023/04/18/meta-layoffs-tech/)
 * [2023-04-19, 00:38:40](https://news.ycombinator.com/item?id=35622622) - [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
@@ -17,7 +17,6 @@
 * [2023-04-18, 20:06:32](https://news.ycombinator.com/item?id=35619293) - [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
 * [2023-04-18, 19:55:02](https://news.ycombinator.com/item?id=35619159) - [MMC4: An open, billion-scale corpus of images interleaved with text](https://github.com/allenai/mmc4)
 * [2023-04-18, 19:51:54](https://news.ycombinator.com/item?id=35619119) - [Skybox: Open-Source Graphic Rendering on Programmable RISC-V GPUs](https://dl.acm.org/doi/pdf/10.1145/3582016.3582024)
-* [2023-04-18, 19:32:04](https://news.ycombinator.com/item?id=35618878) - [PlanD: Plan9 from Containerspace](https://github.com/rvs/planD)
 * [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
 * [2023-04-18, 17:38:28](https://news.ycombinator.com/item?id=35617198) - [Astral](https://astral.sh/)
 * [2023-04-18, 15:47:31](https://news.ycombinator.com/item?id=35615601) - [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
@@ -30,6 +29,7 @@
 * [2023-04-17, 10:01:01](https://news.ycombinator.com/item?id=35598710) - [Linuxwave: Generate Music from the Entropy of Linux](https://github.com/orhun/linuxwave)
 * [2023-04-17, 07:51:21](https://news.ycombinator.com/item?id=35597869) - [The Big Dictionary of MLOps](https://www.hopsworks.ai/mlops-dictionary)
 * [2023-04-16, 10:34:12](https://news.ycombinator.com/item?id=35588797) - [Load Balancing](https://samwho.dev/load-balancing/)
+* [2023-04-16, 09:17:07](https://news.ycombinator.com/item?id=35588451) - [PSKoans: A simple, fun, and interactive way to learn the PowerShell language](https://github.com/vexx32/PSKoans)
 
 ## [Archives](archives/index.md)
 

@@ -78,6 +78,7 @@
 * [2023-04-16, 10:34:12](https://news.ycombinator.com/item?id=35588797) - [Load Balancing](https://samwho.dev/load-balancing/)
 * [2023-04-16, 10:31:21](https://news.ycombinator.com/item?id=35588784) - [Texas Could Push Tech Platforms to Censor Posts About Abortion](https://www.wired.com/story/texas-could-push-tech-platforms-to-censor-posts-about-abortion/)
 * [2023-04-16, 09:31:51](https://news.ycombinator.com/item?id=35588513) - [Functional Programming with TypeScript&#x27;s Type System](https://desislav.dev/blog/tsfp/)
+* [2023-04-16, 09:17:07](https://news.ycombinator.com/item?id=35588451) - [PSKoans: A simple, fun, and interactive way to learn the PowerShell language](https://github.com/vexx32/PSKoans)
 * [2023-04-16, 08:50:25](https://news.ycombinator.com/item?id=35588329) - [Culture Is Stuck](https://lindynewsletter.beehiiv.com/p/culture-stuck)
 * [2023-04-16, 08:30:21](https://news.ycombinator.com/item?id=35588230) - [Random digits is not enough to uniquely identify all human beings](https://lemire.me/blog/2023/04/12/19-random-digits-is-not-enough-to-uniquely-identify-all-human-beings/)
 * [2023-04-16, 08:21:58](https://news.ycombinator.com/item?id=35588203) - [Nibbles of Rust – Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
