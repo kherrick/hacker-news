@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35632721"
     ],
     [
-      "Satellite Takes Image of Another Satellite",
+      "Satellite takes image of another satellite",
       "https://twitter.com/NASA_Landsat/status/1642954595377750027"
     ]
   ],
@@ -77,6 +77,16 @@
     [
       "Basic math related to computation and memory usage for transformers",
       "https://blog.eleuther.ai/transformer-math/"
+    ]
+  ],
+  [
+    [
+      "2023-04-19, 17:52:06",
+      "https://news.ycombinator.com/item?id=35631151"
+    ],
+    [
+      "Pop-shoot: Synthwave styled space shooter, inspired by 80s arcades",
+      "https://github.com/kiwphi/pop-shoot"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Highlights from the Comments on IRBs",
       "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-irbs"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 02:02:58",
-      "https://news.ycombinator.com/item?id=35596069"
-    ],
-    [
-      "Horrible Code, Clean Performance",
-      "https://johnnysswlab.com/horrible-code-clean-performance/"
     ]
   ]
 ]
