@@ -2,7 +2,6 @@
 
 * [2023-04-19, 05:22:50](https://news.ycombinator.com/item?id=35624544) - [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 * [2023-04-19, 04:41:14](https://news.ycombinator.com/item?id=35624300) - [Show HN: Kinde – auth, feature flags and billing (Q3) in one integration](https://kinde.com/)
-* [2023-04-19, 04:22:17](https://news.ycombinator.com/item?id=35624210) - [Nintendo Hacker Freed, Now Owes Them 25-30% of Salary for Life](https://www.dexerto.com/tech/nintendo-hacker-forced-to-pay-them-for-life-after-being-released-from-prison-2117382/)
 * [2023-04-19, 03:21:15](https://news.ycombinator.com/item?id=35623891) - [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
 * [2023-04-19, 02:37:52](https://news.ycombinator.com/item?id=35623625) - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
 * [2023-04-19, 02:03:28](https://news.ycombinator.com/item?id=35623361) - [Explore Washington DC through the eyes of a spy](https://secretmissiondc.com/)
@@ -29,6 +28,7 @@
 * [2023-04-18, 09:53:27](https://news.ycombinator.com/item?id=35611925) - [What it&#x27;s like to go blind (2015)](https://www.vox.com/2015/4/10/8365853/blind-vision-loss)
 * [2023-04-17, 13:19:08](https://news.ycombinator.com/item?id=35600208) - [Amiga History: The Delfina Plus 16 bit sound card [video]](https://www.youtube.com/watch?v=kLohRfVy3y4)
 * [2023-04-17, 10:01:01](https://news.ycombinator.com/item?id=35598710) - [Linuxwave: Generate Music from the Entropy of Linux](https://github.com/orhun/linuxwave)
+* [2023-04-16, 10:34:12](https://news.ycombinator.com/item?id=35588797) - [Load Balancing](https://samwho.dev/load-balancing/)
 * [2023-04-16, 09:17:07](https://news.ycombinator.com/item?id=35588451) - [PSKoans: A simple, fun, and interactive way to learn the PowerShell language](https://github.com/vexx32/PSKoans)
 
 ## [Archives](archives/index.md)
