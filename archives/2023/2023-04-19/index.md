@@ -6,6 +6,7 @@
 
 * [2023-04-19, 18:36:45](https://news.ycombinator.com/item?id=35631717) - [Farouk Al Kasim Saved Norway from Its Oil](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
 * [2023-04-19, 18:23:59](https://news.ycombinator.com/item?id=35631546) - [EleutherAI: Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
+* [2023-04-19, 18:20:52](https://news.ycombinator.com/item?id=35631499) - [Show HN: GoGoBrowse – A Peer to Peer Web Browser](https://gogobrowse.com)
 * [2023-04-19, 17:55:56](https://news.ycombinator.com/item?id=35631200) - [I Quit Reddit in 1 Day](https://nitinpassa.com/how-i-quit-reddit-in-1-day/)
 * [2023-04-19, 17:44:50](https://news.ycombinator.com/item?id=35631072) - [JEP Draft: Integrity and Strong Encapsulation](https://openjdk.org/jeps/8305968)
 * [2023-04-19, 17:43:39](https://news.ycombinator.com/item?id=35631059) - [Google&#x27;s Rush to Win in AI Led to Ethical Lapses, Employees Say](https://www.bnnbloomberg.ca/google-s-rush-to-win-in-ai-led-to-ethical-lapses-employees-say-1.1909588)
