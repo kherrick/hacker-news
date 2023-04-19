@@ -82,6 +82,7 @@
 * [2023-04-18, 08:33:46](https://news.ycombinator.com/item?id=35611425) - [PSA: Upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
 * [2023-04-18, 08:21:48](https://news.ycombinator.com/item?id=35611364) - [Ask HN: As a dev: learn marketing? Or start side project? (startup skills)](https://news.ycombinator.com/item?id=35611364)
 * [2023-04-18, 08:10:47](https://news.ycombinator.com/item?id=35611306) - [Ask HN: Are there any search engines without AI?](https://news.ycombinator.com/item?id=35611306)
+* [2023-04-18, 06:02:37](https://news.ycombinator.com/item?id=35610466) - [The Lotus Sutra Project: Conserving and Digitising 800 Manuscripts](https://blogs.bl.uk/asian-and-african/2023/04/the-lotus-sutra-project-conserving-and-digitising-800-manuscripts-in-the-british-library.html)
 * [2023-04-18, 05:19:01](https://news.ycombinator.com/item?id=35610243) - [SD Memory Card Formatter for Linux](https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/)
 * [2023-04-18, 05:07:24](https://news.ycombinator.com/item?id=35610168) - [You didn’t just do that, Heroku](https://openfolder.sh/heroku-anti-dx)
 * [2023-04-18, 03:52:54](https://news.ycombinator.com/item?id=35609779) - [An evidence-based guide to expanding your comfort zone](https://every.to/no-small-plans/a-founder-s-guide-to-expanding-your-comfort-zone)

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 17:11:04](https://news.ycombinator.com/item?id=35630681) - [The GTK+3 port of GIMP is officially finished](https://twitter.com/zemarmot/status/1646272510701236229)
 * [2023-04-19, 17:00:45](https://news.ycombinator.com/item?id=35630550) - [Community Phone Is Hiring Engineers to manage VoLTE and low latency systems](https://www.ycombinator.com/companies/community-phone-company/jobs/QpIGSM1-product-engineer)
+* [2023-04-19, 16:52:32](https://news.ycombinator.com/item?id=35630449) - [Why universities should return to oral exams in the AI and ChatGPT era](https://theconversation.com/why-universities-should-return-to-oral-exams-in-the-ai-and-chatgpt-era-203429)
 * [2023-04-19, 15:26:00](https://news.ycombinator.com/item?id=35629351) - [Ask HN: AI to study my DSL and then output it?](https://news.ycombinator.com/item?id=35629351)
 * [2023-04-19, 15:11:47](https://news.ycombinator.com/item?id=35629141) - [Stability AI Launches StableLM: A New Open-Source Language Model](https://github.com/Stability-AI/StableLM)
 * [2023-04-19, 15:10:47](https://news.ycombinator.com/item?id=35629127) - [Stability AI Launches the First of Its StableLM Suite of Language Models](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
