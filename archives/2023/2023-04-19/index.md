@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 23:04:50](https://news.ycombinator.com/item?id=35634419) - [DinoV2: Meta’s Open Source State-of-the-art computer vision models](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)
 * [2023-04-19, 22:08:11](https://news.ycombinator.com/item?id=35633934) - [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code)
 * [2023-04-19, 21:59:23](https://news.ycombinator.com/item?id=35633840) - [Uncleftish Beholding (1989)](https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish_beholding.html)
+* [2023-04-19, 21:58:10](https://news.ycombinator.com/item?id=35633827) - [A newfound discomfort with hypertext](https://maya.land/monologues/2023/03/21/hypertext-hostility.html)
 * [2023-04-19, 21:23:12](https://news.ycombinator.com/item?id=35633490) - [Building telescopes on the Moon could transform astronomy](https://theconversation.com/building-telescopes-on-the-moon-could-transform-astronomy-and-its-becoming-an-achievable-goal-203308)
 * [2023-04-19, 21:12:56](https://news.ycombinator.com/item?id=35633398) - [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 * [2023-04-19, 21:04:49](https://news.ycombinator.com/item?id=35633316) - [GPT-3 Creative Fiction](https://gwern.net/gpt-3)
