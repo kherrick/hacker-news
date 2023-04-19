@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 03:21:15](https://news.ycombinator.com/item?id=35623891) - [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
 * [2023-04-19, 03:02:32](https://news.ycombinator.com/item?id=35623783) - [Raspberry Pi Receives Strategic Investment from Sony Semiconductor Solutions](https://www.sony.co.uk/presscentre/news/raspberry-pi-receives-strategic-investment-from-sony-semiconductor-solutions-corporation)
 * [2023-04-19, 02:37:52](https://news.ycombinator.com/item?id=35623625) - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
 * [2023-04-19, 02:04:46](https://news.ycombinator.com/item?id=35623366) - [The Age of the Crisis of Work](https://harpers.org/archive/2023/05/the-age-of-the-crisis-of-work-quiet-quitting-great-resignation/)

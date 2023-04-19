@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-19, 03:21:15](https://news.ycombinator.com/item?id=35623891) - [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
 * [2023-04-19, 02:37:52](https://news.ycombinator.com/item?id=35623625) - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
 * [2023-04-19, 02:04:46](https://news.ycombinator.com/item?id=35623366) - [The Age of the Crisis of Work](https://harpers.org/archive/2023/05/the-age-of-the-crisis-of-work-quiet-quitting-great-resignation/)
 * [2023-04-19, 02:03:28](https://news.ycombinator.com/item?id=35623361) - [Explore Washington DC through the eyes of a spy](https://secretmissiondc.com/)
-* [2023-04-19, 01:36:06](https://news.ycombinator.com/item?id=35623192) - [The Murdoch Succession](https://www.vanityfair.com/news/2023/04/rupert-murdoch-cover-story)
 * [2023-04-19, 01:03:45](https://news.ycombinator.com/item?id=35622847) - [Tell HN: Google search partial outage while rolling out new search?](https://news.ycombinator.com/item?id=35622847)
 * [2023-04-19, 00:38:40](https://news.ycombinator.com/item?id=35622622) - [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
 * [2023-04-18, 23:18:43](https://news.ycombinator.com/item?id=35621861) - [Broadband Consumer Labels](https://www.fcc.gov/broadbandlabels)
