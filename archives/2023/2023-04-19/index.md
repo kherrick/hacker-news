@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 19:36:19](https://news.ycombinator.com/item?id=35632358) - [Disney Is Set to Eliminate Thousands of Jobs Starting Next Week](https://www.bloomberg.com/news/articles/2023-04-19/disney-is-poised-to-eliminate-thousands-of-jobs-next-week)
 * [2023-04-19, 18:36:45](https://news.ycombinator.com/item?id=35631717) - [Farouk Al Kasim Saved Norway from Its Oil](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
 * [2023-04-19, 18:23:59](https://news.ycombinator.com/item?id=35631546) - [EleutherAI: Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
 * [2023-04-19, 18:20:52](https://news.ycombinator.com/item?id=35631499) - [Show HN: GoGoBrowse – A Peer to Peer Web Browser](https://gogobrowse.com)

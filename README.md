@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-19, 19:36:19](https://news.ycombinator.com/item?id=35632358) - [Disney Is Set to Eliminate Thousands of Jobs Starting Next Week](https://www.bloomberg.com/news/articles/2023-04-19/disney-is-poised-to-eliminate-thousands-of-jobs-next-week)
 * [2023-04-19, 18:36:45](https://news.ycombinator.com/item?id=35631717) - [Farouk al Kasim saved Norway from its oil (2014)](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
 * [2023-04-19, 18:23:59](https://news.ycombinator.com/item?id=35631546) - [Basic math related to computation and memory usage for transformers](https://blog.eleuther.ai/transformer-math/)
-* [2023-04-19, 18:20:52](https://news.ycombinator.com/item?id=35631499) - [Show HN: GoGoBrowse – A Peer to Peer Web Browser](https://gogobrowse.com)
 * [2023-04-19, 17:44:50](https://news.ycombinator.com/item?id=35631072) - [JEP Draft: Integrity and Strong Encapsulation](https://openjdk.org/jeps/8305968)
 * [2023-04-19, 17:11:04](https://news.ycombinator.com/item?id=35630681) - [The GTK+3 port of GIMP is officially finished](https://twitter.com/zemarmot/status/1646272510701236229)
 * [2023-04-19, 17:00:45](https://news.ycombinator.com/item?id=35630550) - [Community Phone (YC W19): Hiring engineers to manage VoLTE, low latency systems](https://www.ycombinator.com/companies/community-phone-company/jobs/QpIGSM1-product-engineer)
