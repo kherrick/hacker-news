@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
 * [2023-04-18, 23:18:43](https://news.ycombinator.com/item?id=35621861) - [Broadband Consumer Labels](https://www.fcc.gov/broadbandlabels)
+* [2023-04-18, 23:17:15](https://news.ycombinator.com/item?id=35621847) - [Hundreds of years after the first try, we can finally read a Ptolemy text](https://arstechnica.com/science/2023/04/hundreds-of-years-after-the-first-try-we-can-finally-read-a-ptolemy-text/)
 * [2023-04-18, 22:54:45](https://news.ycombinator.com/item?id=35621604) - [How to give yourself time to think](https://beside.media/atelier/how-to-give-yourself-time-to-think/)
 * [2023-04-18, 22:49:37](https://news.ycombinator.com/item?id=35621539) - [Americans ‘surprised’ by what they saw inside the T-90A tank](https://www.technology.org/2023/04/18/americans-surprised-by-what-they-saw-inside-the-t-90a-tank-photo/)
 * [2023-04-18, 22:39:07](https://news.ycombinator.com/item?id=35621425) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
