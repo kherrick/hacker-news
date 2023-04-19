@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-19, 21:12:56](https://news.ycombinator.com/item?id=35633398) - [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+* [2023-04-19, 21:12:56](https://news.ycombinator.com/item?id=35633398) - [The days are long but the decades are short (2015)](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+* [2023-04-19, 20:55:29](https://news.ycombinator.com/item?id=35633212) - [Ranking of Most Polluted Cities in the US by American Lung Association Research](https://www.lung.org/research/sota/city-rankings/most-polluted-cities)
 * [2023-04-19, 20:47:49](https://news.ycombinator.com/item?id=35633137) - [How can some infinities be bigger than others?](https://www.quantamagazine.org/how-can-some-infinities-be-bigger-than-others-20230419/)
 * [2023-04-19, 19:10:02](https://news.ycombinator.com/item?id=35632058) - [Qantas is bringing back Airbus A380s from the California desert](https://www.smh.com.au/business/companies/california-to-sydney-how-do-you-wake-an-a380-after-1000-days-in-the-desert-20221227-p5c8zp.html)
 * [2023-04-19, 18:36:45](https://news.ycombinator.com/item?id=35631717) - [Farouk al Kasim saved Norway from its oil (2014)](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
@@ -23,7 +24,6 @@
 * [2023-04-19, 06:49:34](https://news.ycombinator.com/item?id=35625065) - [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
 * [2023-04-19, 05:17:21](https://news.ycombinator.com/item?id=35624511) - [The Origins of Creativity](https://www.newyorker.com/magazine/2023/04/24/the-cult-of-creativity-samuel-weil-franklin-book-review)
 * [2023-04-19, 05:07:12](https://news.ycombinator.com/item?id=35624451) - [Ptolemy’s Treatise on the Meteoroscope Recovered](https://link.springer.com/article/10.1007/s00407-022-00302-w)
-* [2023-04-19, 00:29:43](https://news.ycombinator.com/item?id=35622558) - [Teasing strange matter from the ordinary](https://phys.org/news/2023-04-strange-ordinary.html)
 * [2023-04-18, 13:51:55](https://news.ycombinator.com/item?id=35614023) - [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
 * [2023-04-18, 06:19:52](https://news.ycombinator.com/item?id=35610562) - [Almost three quarters of the golden age of Hollywood has been lost](https://www.historytoday.com/archive/missing-pieces/lost-movies)
 * [2023-04-18, 06:02:37](https://news.ycombinator.com/item?id=35610466) - [The Lotus Sutra Project: Conserving and Digitising 800 Manuscripts](https://blogs.bl.uk/asian-and-african/2023/04/the-lotus-sutra-project-conserving-and-digitising-800-manuscripts-in-the-british-library.html)
