@@ -2,8 +2,8 @@
 
 * [2023-04-19, 11:11:32](https://news.ycombinator.com/item?id=35626755) - [Why Some Researchers Think I’m Wrong About Social Media and Mental Illness](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong)
 * [2023-04-19, 09:09:07](https://news.ycombinator.com/item?id=35626015) - [Offline Is Just Online with Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
+* [2023-04-19, 05:35:05](https://news.ycombinator.com/item?id=35624608) - [Intel to license x86 CPU cores for use in custom processors](https://www.theregister.com/2022/02/14/intel_x86_licensing/)
 * [2023-04-19, 05:22:50](https://news.ycombinator.com/item?id=35624544) - [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
-* [2023-04-19, 04:41:14](https://news.ycombinator.com/item?id=35624300) - [Show HN: Kinde – auth, feature flags and billing (Q3) in one integration](https://kinde.com/)
 * [2023-04-19, 03:21:15](https://news.ycombinator.com/item?id=35623891) - [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
 * [2023-04-19, 02:03:28](https://news.ycombinator.com/item?id=35623361) - [Explore Washington DC through the eyes of a spy](https://secretmissiondc.com/)
 * [2023-04-19, 00:38:40](https://news.ycombinator.com/item?id=35622622) - [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
@@ -17,7 +17,7 @@
 * [2023-04-18, 21:16:10](https://news.ycombinator.com/item?id=35620314) - [Show HN: Database for analyzing US companies, visualize using Apache SuperSet](https://tesseractanalytics.ai/)
 * [2023-04-18, 21:14:39](https://news.ycombinator.com/item?id=35620291) - [Clock](https://oimo.io/works/clock/)
 * [2023-04-18, 21:00:20](https://news.ycombinator.com/item?id=35620078) - [Toko (YC W22) Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35620078)
-* [2023-04-18, 20:28:44](https://news.ycombinator.com/item?id=35619589) - [Netflix will end its DVD service after 25 years](https://www.nytimes.com/2023/04/18/business/media/netflix-dvds-earnings.html)
+* [2023-04-18, 19:55:02](https://news.ycombinator.com/item?id=35619159) - [MMC4: An open, billion-scale corpus of images interleaved with text](https://github.com/allenai/mmc4)
 * [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
 * [2023-04-18, 17:38:28](https://news.ycombinator.com/item?id=35617198) - [Astral](https://astral.sh/)
 * [2023-04-18, 17:32:19](https://news.ycombinator.com/item?id=35617100) - [The Coming Technological Singularity (1993)](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
