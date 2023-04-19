@@ -32,6 +32,7 @@
 * [2023-04-19, 09:59:41](https://news.ycombinator.com/item?id=35626312) - [ChatPDF – Chat with Any PDF](https://www.chatpdf.com)
 * [2023-04-19, 09:41:25](https://news.ycombinator.com/item?id=35626214) - [The iPhone Setting Thieves Use to Lock You Out of Your Apple Account](https://www.wsj.com/articles/the-iphone-setting-thieves-use-to-lock-you-out-of-your-apple-account-716d350d)
 * [2023-04-19, 09:09:07](https://news.ycombinator.com/item?id=35626015) - [Offline Is Just Online with Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
+* [2023-04-19, 09:07:24](https://news.ycombinator.com/item?id=35626005) - [Origin Of The Abbreviation I18n: Jan Scherpenhuizen =&gt; S12n @ DEC (2002)](http://www.i18nguy.com/origini18n.html)
 * [2023-04-19, 07:54:46](https://news.ycombinator.com/item?id=35625543) - [How to Make Good Small Games](http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html)
 * [2023-04-19, 06:49:34](https://news.ycombinator.com/item?id=35625065) - [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
 * [2023-04-19, 06:26:27](https://news.ycombinator.com/item?id=35624899) - [Defining interfaces in C++ with ‘concepts’ (C++20)](https://lemire.me/blog/2023/04/18/defining-interfaces-in-c-with-concepts-c20/)
