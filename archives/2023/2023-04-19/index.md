@@ -10,6 +10,7 @@
 * [2023-04-19, 11:52:15](https://news.ycombinator.com/item?id=35627005) - [In 1930, the 22M-pound Indiana Bell building was rotated 90 degrees](https://mastodon.social/@Miriamm/110221714996508234)
 * [2023-04-19, 11:15:02](https://news.ycombinator.com/item?id=35626783) - [Gezellig – a word that encompasses the heart of Dutch Culture](https://www.dutchamsterdam.nl/155-gezellig)
 * [2023-04-19, 11:11:32](https://news.ycombinator.com/item?id=35626755) - [Why Some Researchers Think I’m Wrong About Social Media and Mental Illness](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong)
+* [2023-04-19, 09:59:41](https://news.ycombinator.com/item?id=35626312) - [ChatPDF – Chat with Any PDF](https://www.chatpdf.com)
 * [2023-04-19, 09:41:25](https://news.ycombinator.com/item?id=35626214) - [The iPhone Setting Thieves Use to Lock You Out of Your Apple Account](https://www.wsj.com/articles/the-iphone-setting-thieves-use-to-lock-you-out-of-your-apple-account-716d350d)
 * [2023-04-19, 09:09:07](https://news.ycombinator.com/item?id=35626015) - [Offline Is Just Online with Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
 * [2023-04-19, 06:49:34](https://news.ycombinator.com/item?id=35625065) - [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
@@ -27,4 +28,5 @@
 * [2023-04-19, 01:36:06](https://news.ycombinator.com/item?id=35623192) - [The Murdoch Succession](https://www.vanityfair.com/news/2023/04/rupert-murdoch-cover-story)
 * [2023-04-19, 01:03:45](https://news.ycombinator.com/item?id=35622847) - [Google search partial outage while rolling out new search?](https://news.ycombinator.com/item?id=35622847)
 * [2023-04-19, 00:54:43](https://news.ycombinator.com/item?id=35622761) - [Meta to unveil fresh round of job cuts among highly skilled staff](https://www.washingtonpost.com/technology/2023/04/18/meta-layoffs-tech/)
+* [2023-04-19, 00:39:14](https://news.ycombinator.com/item?id=35622629) - [Orb weaver spider glue properties evolve faster than their glue genes](https://phys.org/news/2023-04-orb-weaver-spider-properties-evolve.html)
 * [2023-04-19, 00:38:40](https://news.ycombinator.com/item?id=35622622) - [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
