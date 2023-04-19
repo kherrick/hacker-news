@@ -7,6 +7,7 @@
 * [2023-04-19, 21:23:12](https://news.ycombinator.com/item?id=35633490) - [Building telescopes on the Moon could transform astronomy](https://theconversation.com/building-telescopes-on-the-moon-could-transform-astronomy-and-its-becoming-an-achievable-goal-203308)
 * [2023-04-19, 21:12:56](https://news.ycombinator.com/item?id=35633398) - [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 * [2023-04-19, 20:55:29](https://news.ycombinator.com/item?id=35633212) - [Ranking of Most Polluted Cities in the US by American Lung Association Research](https://www.lung.org/research/sota/city-rankings/most-polluted-cities)
+* [2023-04-19, 20:48:47](https://news.ycombinator.com/item?id=35633152) - [Intranasal vaccine confers broad mucosal and systemic immunity against SARS-CoV2](https://www.nature.com/articles/s41392-023-01423-6)
 * [2023-04-19, 20:47:49](https://news.ycombinator.com/item?id=35633137) - [How can some infinities be bigger than others?](https://www.quantamagazine.org/how-can-some-infinities-be-bigger-than-others-20230419/)
 * [2023-04-19, 20:06:05](https://news.ycombinator.com/item?id=35632658) - [Substack Is the Biggest Threat to Newsletters Ever](https://notes.ghed.in/posts/2023/substack-threat-newsletters/)
 * [2023-04-19, 19:36:19](https://news.ycombinator.com/item?id=35632358) - [Disney Is Set to Eliminate Thousands of Jobs Starting Next Week](https://www.bloomberg.com/news/articles/2023-04-19/disney-is-poised-to-eliminate-thousands-of-jobs-next-week)
