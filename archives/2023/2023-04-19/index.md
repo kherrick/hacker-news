@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 17:55:56](https://news.ycombinator.com/item?id=35631200) - [I Quit Reddit in 1 Day](https://nitinpassa.com/how-i-quit-reddit-in-1-day/)
+* [2023-04-19, 17:44:50](https://news.ycombinator.com/item?id=35631072) - [JEP Draft: Integrity and Strong Encapsulation](https://openjdk.org/jeps/8305968)
 * [2023-04-19, 17:43:39](https://news.ycombinator.com/item?id=35631059) - [Google&#x27;s Rush to Win in AI Led to Ethical Lapses, Employees Say](https://www.bnnbloomberg.ca/google-s-rush-to-win-in-ai-led-to-ethical-lapses-employees-say-1.1909588)
 * [2023-04-19, 17:11:04](https://news.ycombinator.com/item?id=35630681) - [The GTK+3 port of GIMP is officially finished](https://twitter.com/zemarmot/status/1646272510701236229)
 * [2023-04-19, 17:00:45](https://news.ycombinator.com/item?id=35630550) - [Community Phone Is Hiring Engineers to manage VoLTE and low latency systems](https://www.ycombinator.com/companies/community-phone-company/jobs/QpIGSM1-product-engineer)
