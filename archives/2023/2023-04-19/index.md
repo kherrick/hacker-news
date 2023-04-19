@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
 * [2023-04-19, 03:02:32](https://news.ycombinator.com/item?id=35623783) - [Raspberry Pi Receives Strategic Investment from Sony Semiconductor Solutions](https://www.sony.co.uk/presscentre/news/raspberry-pi-receives-strategic-investment-from-sony-semiconductor-solutions-corporation)
+* [2023-04-19, 02:37:52](https://news.ycombinator.com/item?id=35623625) - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
 * [2023-04-19, 02:04:46](https://news.ycombinator.com/item?id=35623366) - [The Age of the Crisis of Work](https://harpers.org/archive/2023/05/the-age-of-the-crisis-of-work-quiet-quitting-great-resignation/)
 * [2023-04-19, 02:03:28](https://news.ycombinator.com/item?id=35623361) - [Explore Washington DC through the eyes of a spy – an IRL scavenger hunt](https://secretmissiondc.com/)
 * [2023-04-19, 01:38:54](https://news.ycombinator.com/item?id=35623223) - [Overnight &#x27;hotel train&#x27; could link San Francisco and Los Angeles](https://www.latimes.com/california/story/2023-04-18/night-train-san-francisco-los-angeles-dreamstar-lines)
