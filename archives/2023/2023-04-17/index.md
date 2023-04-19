@@ -56,6 +56,7 @@
 * [2023-04-17, 13:49:24](https://news.ycombinator.com/item?id=35600675) - [The Black Hole Objection to Longtermism and Consequentialism](http://schwitzsplinters.blogspot.com/2023/04/the-black-hole-objection-to-longtermism.html)
 * [2023-04-17, 13:35:36](https://news.ycombinator.com/item?id=35600477) - [We Don’t Know Enough About the Pornhub Acquisition](https://every.to/napkin-math/we-don-t-know-enough-about-the-pornhub-sale)
 * [2023-04-17, 13:34:41](https://news.ycombinator.com/item?id=35600463) - [AI-generated Drake and The Weeknd song goes viral](https://www.bbc.co.uk/news/entertainment-arts-65298834)
+* [2023-04-17, 13:19:08](https://news.ycombinator.com/item?id=35600208) - [Amiga History: The Delfina Plus 16 bit sound card [video]](https://www.youtube.com/watch?v=kLohRfVy3y4)
 * [2023-04-17, 13:13:35](https://news.ycombinator.com/item?id=35600130) - [How do electrons find the “Path of Least Resistance”? [video]](https://www.youtube.com/watch?v=C3gnNpYK3lo)
 * [2023-04-17, 13:09:53](https://news.ycombinator.com/item?id=35600087) - [Google in shock as Samsung considers moving to Bing as default search engine](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
 * [2023-04-17, 12:49:12](https://news.ycombinator.com/item?id=35599884) - [Firmware is on shaky ground – let&#x27;s see what it&#x27;s made of](https://www.theregister.com/2023/04/17/opinion_column/)

@@ -2,6 +2,7 @@
 
 * [2023-04-18, 23:18:43](https://news.ycombinator.com/item?id=35621861) - [Broadband Consumer Labels](https://www.fcc.gov/broadbandlabels)
 * [2023-04-18, 22:39:07](https://news.ycombinator.com/item?id=35621425) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
+* [2023-04-18, 22:38:33](https://news.ycombinator.com/item?id=35621417) - [Show HN: AI Playground by Vercel Labs](https://play.vercel.ai)
 * [2023-04-18, 22:28:26](https://news.ycombinator.com/item?id=35621309) - [MRI Brain Images Just Got 64M Times Sharper](https://today.duke.edu/2023/04/brain-images-just-got-64-million-times-sharper)
 * [2023-04-18, 22:23:52](https://news.ycombinator.com/item?id=35621238) - [Node.js 20 is now available](https://nodejs.org/en/blog/announcements/v20-release-announce)
 * [2023-04-18, 22:06:00](https://news.ycombinator.com/item?id=35621023) - [LLaVA: Large Language and Vision Assistant](https://llava-vl.github.io/)
@@ -14,7 +15,6 @@
 * [2023-04-18, 19:51:54](https://news.ycombinator.com/item?id=35619119) - [Skybox: Open-Source Graphic Rendering on Programmable RISC-V GPUs](https://dl.acm.org/doi/pdf/10.1145/3582016.3582024)
 * [2023-04-18, 19:32:04](https://news.ycombinator.com/item?id=35618878) - [PlanD: Plan9 from Containerspace](https://github.com/rvs/planD)
 * [2023-04-18, 19:06:57](https://news.ycombinator.com/item?id=35618503) - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
-* [2023-04-18, 18:31:52](https://news.ycombinator.com/item?id=35617951) - [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
 * [2023-04-18, 18:20:50](https://news.ycombinator.com/item?id=35617773) - [French publisher arrested in London for refusal to tell police his passcodes](https://www.theguardian.com/uk-news/2023/apr/18/french-publisher-arrested-london-counter-terrorism-police-ernest-moret)
 * [2023-04-18, 18:20:03](https://news.ycombinator.com/item?id=35617763) - [Reddit will begin charging for access to its API](https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html)
 * [2023-04-18, 17:38:28](https://news.ycombinator.com/item?id=35617198) - [Astral](https://astral.sh/)
@@ -26,9 +26,9 @@
 * [2023-04-18, 11:21:44](https://news.ycombinator.com/item?id=35612494) - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 * [2023-04-18, 09:53:10](https://news.ycombinator.com/item?id=35611923) - [Marginalia: DIY search engine that focuses on non-commercial content](https://search.marginalia.nu/)
 * [2023-04-17, 19:46:52](https://news.ycombinator.com/item?id=35605602) - [Draculas, Ranked](https://www.vulture.com/article/dracula-movie-performances-ranked.html)
+* [2023-04-17, 13:19:08](https://news.ycombinator.com/item?id=35600208) - [Amiga History: The Delfina Plus 16 bit sound card [video]](https://www.youtube.com/watch?v=kLohRfVy3y4)
 * [2023-04-17, 08:00:13](https://news.ycombinator.com/item?id=35597937) - [The &#x27;biggest art fraud in history&#x27;](https://www.theartnewspaper.com/2023/03/17/podcast-inside-the-biggest-art-fraud-in-history-what-the-alleged-mass-forgery-tells-us-about-the-market-for-first-nations-art-in-canada)
 * [2023-04-17, 07:51:21](https://news.ycombinator.com/item?id=35597869) - [The Big Dictionary of MLOps](https://www.hopsworks.ai/mlops-dictionary)
-* [2023-04-17, 07:12:15](https://news.ycombinator.com/item?id=35597638) - [Borland C++ Builder (2015)](http://runtimeterror.com/blog/borland-c-builder.html)
 * [2023-04-16, 10:34:12](https://news.ycombinator.com/item?id=35588797) - [Load Balancing](https://samwho.dev/load-balancing/)
 
 ## [Archives](archives/index.md)
