@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-19, 20:06:05](https://news.ycombinator.com/item?id=35632658) - [Substack Is the Biggest Threat to Newsletters Ever](https://notes.ghed.in/posts/2023/substack-threat-newsletters/)
+* [2023-04-19, 21:12:56](https://news.ycombinator.com/item?id=35633398) - [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+* [2023-04-19, 20:47:49](https://news.ycombinator.com/item?id=35633137) - [How can some infinities be bigger than others?](https://www.quantamagazine.org/how-can-some-infinities-be-bigger-than-others-20230419/)
 * [2023-04-19, 19:10:02](https://news.ycombinator.com/item?id=35632058) - [Qantas is bringing back Airbus A380s from the California desert](https://www.smh.com.au/business/companies/california-to-sydney-how-do-you-wake-an-a380-after-1000-days-in-the-desert-20221227-p5c8zp.html)
 * [2023-04-19, 18:36:45](https://news.ycombinator.com/item?id=35631717) - [Farouk al Kasim saved Norway from its oil (2014)](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
 * [2023-04-19, 18:23:59](https://news.ycombinator.com/item?id=35631546) - [Basic math related to computation and memory usage for transformers](https://blog.eleuther.ai/transformer-math/)
@@ -19,7 +20,6 @@
 * [2023-04-19, 11:11:32](https://news.ycombinator.com/item?id=35626755) - [Why some researchers think I’m wrong about social media and mental illness](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong)
 * [2023-04-19, 09:09:07](https://news.ycombinator.com/item?id=35626015) - [Offline is just online with extreme latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
 * [2023-04-19, 09:07:24](https://news.ycombinator.com/item?id=35626005) - [Origin Of The Abbreviation I18n: Jan Scherpenhuizen =&gt; S12n @ DEC (2002)](http://www.i18nguy.com/origini18n.html)
-* [2023-04-19, 07:54:46](https://news.ycombinator.com/item?id=35625543) - [How to make good small games](http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html)
 * [2023-04-19, 06:49:34](https://news.ycombinator.com/item?id=35625065) - [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
 * [2023-04-19, 05:17:21](https://news.ycombinator.com/item?id=35624511) - [The Origins of Creativity](https://www.newyorker.com/magazine/2023/04/24/the-cult-of-creativity-samuel-weil-franklin-book-review)
 * [2023-04-19, 05:07:12](https://news.ycombinator.com/item?id=35624451) - [Ptolemy’s Treatise on the Meteoroscope Recovered](https://link.springer.com/article/10.1007/s00407-022-00302-w)
