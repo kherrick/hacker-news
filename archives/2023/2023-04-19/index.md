@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 15:11:47](https://news.ycombinator.com/item?id=35629141) - [Stability AI Launches StableLM: A New Open-Source Language Model](https://github.com/Stability-AI/StableLM)
+* [2023-04-19, 15:10:47](https://news.ycombinator.com/item?id=35629127) - [Stability AI Launches the First of Its StableLM Suite of Language Models](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
+* [2023-04-19, 15:09:48](https://news.ycombinator.com/item?id=35629114) - [DIY Neurotech:Making BCI open-source thrusts brain-signal into a maker’s world](https://spectrum.ieee.org/neurotechnology-diy)
+* [2023-04-19, 15:04:08](https://news.ycombinator.com/item?id=35629033) - [The Anatomy of Autonomy: Why Agents Are the Next AI Killer App](https://www.latent.space/p/agents)
 * [2023-04-19, 14:41:30](https://news.ycombinator.com/item?id=35628754) - [Judge tentatively OKs $725M Facebook settlement: How to apply for a payout](https://thehill.com/homenews/nexstar_media_wire/3956560-judge-tentatively-oks-725m-facebook-settlement-how-to-apply-for-a-payout/)
 * [2023-04-19, 14:30:09](https://news.ycombinator.com/item?id=35628642) - [Show HN: Open-source Auth0 alternative Ory Kratos v0.13 released – nearing v1.0](https://github.com/ory/kratos/releases/tag/v0.13.0)
 * [2023-04-19, 14:23:51](https://news.ycombinator.com/item?id=35628563) - [Child sexual abuse: leading MEP sceptical of technical limitations](https://www.euractiv.com/section/data-privacy/interview/child-sexual-abuse-leading-mep-sceptical-of-technical-limitations/)

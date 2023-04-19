@@ -60,6 +60,7 @@
 * [2023-04-18, 14:03:45](https://news.ycombinator.com/item?id=35614196) - [AI risk as rebranded climate change](https://greyenlightenment.com/2023/04/16/ai-risk-as-rebranded-climate-change/)
 * [2023-04-18, 14:03:09](https://news.ycombinator.com/item?id=35614190) - [More ads in Windows 11 Start Menu could be last straw for some](https://www.theregister.com/2023/04/17/microsoft_windows_start_ads/)
 * [2023-04-18, 14:01:34](https://news.ycombinator.com/item?id=35614171) - [Brit cops rapped over app that recorded 200k phone calls](https://www.theregister.com/2023/04/18/ico_surrey_sussex_police/)
+* [2023-04-18, 13:51:55](https://news.ycombinator.com/item?id=35614023) - [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
 * [2023-04-18, 13:18:10](https://news.ycombinator.com/item?id=35613594) - [Giant SpaceX Spiral Appears Amid the Aurora Lights in Alaska&#x27;s Night Sky](https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/)
 * [2023-04-18, 13:01:02](https://news.ycombinator.com/item?id=35613413) - [GPTs as a Drop in the Fixed Cost of Prediction](http://reasoning-machines.s3-website.ca-central-1.amazonaws.com/)
 * [2023-04-18, 12:45:12](https://news.ycombinator.com/item?id=35613247) - [The WWII Spy Who Hid Codes in Her Knitting](https://www.amightygirl.com/blog?p=25020)
