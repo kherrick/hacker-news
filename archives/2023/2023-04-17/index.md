@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
 * [2023-04-17, 23:51:35](https://news.ycombinator.com/item?id=35608199) - [Michigan could provide $300M to reopen nuclear power plant](https://www.power-eng.com/nuclear/michigan-could-provide-300m-to-reopen-nuclear-power-plant/)
+* [2023-04-17, 23:30:50](https://news.ycombinator.com/item?id=35608036) - [Highlights from the Comments on IRBs](https://astralcodexten.substack.com/p/highlights-from-the-comments-on-irbs)
 * [2023-04-17, 23:13:15](https://news.ycombinator.com/item?id=35607885) - [Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT (2019)](https://github.com/atrosinenko/qemujs)
 * [2023-04-17, 22:57:18](https://news.ycombinator.com/item?id=35607757) - [The Windows 11 Trash Party](https://birchtree.me/blog/the-windows-11-trash-party/)
 * [2023-04-17, 22:55:19](https://news.ycombinator.com/item?id=35607744) - [Show HN: MindPop – Great Lectures Set to Ambient](https://mindpop.blankenship.io/index.html)
