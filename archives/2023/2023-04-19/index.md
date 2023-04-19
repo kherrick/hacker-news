@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
 * [2023-04-19, 19:36:19](https://news.ycombinator.com/item?id=35632358) - [Disney Is Set to Eliminate Thousands of Jobs Starting Next Week](https://www.bloomberg.com/news/articles/2023-04-19/disney-is-poised-to-eliminate-thousands-of-jobs-next-week)
+* [2023-04-19, 19:10:02](https://news.ycombinator.com/item?id=35632058) - [Qantas is bringing back Airbus A380s from the California desert](https://www.smh.com.au/business/companies/california-to-sydney-how-do-you-wake-an-a380-after-1000-days-in-the-desert-20221227-p5c8zp.html)
 * [2023-04-19, 18:36:45](https://news.ycombinator.com/item?id=35631717) - [Farouk Al Kasim Saved Norway from Its Oil](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
 * [2023-04-19, 18:23:59](https://news.ycombinator.com/item?id=35631546) - [EleutherAI: Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
 * [2023-04-19, 18:20:52](https://news.ycombinator.com/item?id=35631499) - [Show HN: GoGoBrowse – A Peer to Peer Web Browser](https://gogobrowse.com)
@@ -14,6 +15,7 @@
 * [2023-04-19, 17:11:04](https://news.ycombinator.com/item?id=35630681) - [The GTK+3 port of GIMP is officially finished](https://twitter.com/zemarmot/status/1646272510701236229)
 * [2023-04-19, 17:00:45](https://news.ycombinator.com/item?id=35630550) - [Community Phone Is Hiring Engineers to manage VoLTE and low latency systems](https://www.ycombinator.com/companies/community-phone-company/jobs/QpIGSM1-product-engineer)
 * [2023-04-19, 16:52:32](https://news.ycombinator.com/item?id=35630449) - [Why universities should return to oral exams in the AI and ChatGPT era](https://theconversation.com/why-universities-should-return-to-oral-exams-in-the-ai-and-chatgpt-era-203429)
+* [2023-04-19, 16:50:38](https://news.ycombinator.com/item?id=35630423) - [User: Junnn11](https://en.wikipedia.org/wiki/User:Junnn11)
 * [2023-04-19, 16:36:16](https://news.ycombinator.com/item?id=35630241) - [NPM Provenance Public Beta](https://github.blog/changelog/2023-04-19-npm-provenance-public-beta/)
 * [2023-04-19, 15:34:09](https://news.ycombinator.com/item?id=35629474) - [Street Votes: A proposed response to Ireland&#x27;s housing crisis](https://www.thefitzwilliam.com/p/a-simple-and-elegant-response-to)
 * [2023-04-19, 15:26:49](https://news.ycombinator.com/item?id=35629370) - [Physics Advanced Generative AI](https://www.assemblyai.com/blog/how-physics-advanced-generative-ai/)
