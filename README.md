@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-19, 15:26:00](https://news.ycombinator.com/item?id=35629351) - [Ask HN: AI to study my DSL and then output it?](https://news.ycombinator.com/item?id=35629351)
 * [2023-04-19, 15:11:47](https://news.ycombinator.com/item?id=35629141) - [Stability AI Launches StableLM: A New Open-Source Language Model](https://github.com/Stability-AI/StableLM)
 * [2023-04-19, 15:10:47](https://news.ycombinator.com/item?id=35629127) - [Stability AI Launches the First of Its StableLM Suite of Language Models](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
 * [2023-04-19, 15:09:48](https://news.ycombinator.com/item?id=35629114) - [DIY Neurotech:Making BCI open-source thrusts brain-signal into a maker’s world](https://spectrum.ieee.org/neurotechnology-diy)
@@ -29,7 +30,6 @@
 * [2023-04-18, 21:14:39](https://news.ycombinator.com/item?id=35620291) - [Clock](https://oimo.io/works/clock/)
 * [2023-04-18, 13:51:55](https://news.ycombinator.com/item?id=35614023) - [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
 * [2023-04-18, 02:11:35](https://news.ycombinator.com/item?id=35609150) - [Mini-States and Micro-Sovereignty: Democracies in East Central Europe, 1918–1923](https://www.cambridge.org/core/journals/contemporary-european-history/article/ministates-and-microsovereignty-local-democracies-in-east-central-europe-19181923/68ECB1DC9F610696C966B63C9CE2B736)
-* [2023-04-16, 09:17:07](https://news.ycombinator.com/item?id=35588451) - [PSKoans: A simple, fun, and interactive way to learn the PowerShell language](https://github.com/vexx32/PSKoans)
 
 ## [Archives](archives/index.md)
 
