@@ -8,6 +8,7 @@
 * [2023-04-19, 15:11:47](https://news.ycombinator.com/item?id=35629141) - [Stability AI Launches StableLM: A New Open-Source Language Model](https://github.com/Stability-AI/StableLM)
 * [2023-04-19, 15:10:47](https://news.ycombinator.com/item?id=35629127) - [Stability AI Launches the First of Its StableLM Suite of Language Models](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
 * [2023-04-19, 15:09:48](https://news.ycombinator.com/item?id=35629114) - [DIY Neurotech:Making BCI open-source thrusts brain-signal into a maker’s world](https://spectrum.ieee.org/neurotechnology-diy)
+* [2023-04-19, 15:05:14](https://news.ycombinator.com/item?id=35629050) - [Show HN: Checksum – generate and maintain end-to-end tests using AI](https://news.ycombinator.com/item?id=35629050)
 * [2023-04-19, 15:04:08](https://news.ycombinator.com/item?id=35629033) - [The Anatomy of Autonomy: Why Agents Are the Next AI Killer App](https://www.latent.space/p/agents)
 * [2023-04-19, 14:41:30](https://news.ycombinator.com/item?id=35628754) - [Judge tentatively OKs $725M Facebook settlement: How to apply for a payout](https://thehill.com/homenews/nexstar_media_wire/3956560-judge-tentatively-oks-725m-facebook-settlement-how-to-apply-for-a-payout/)
 * [2023-04-19, 14:30:09](https://news.ycombinator.com/item?id=35628642) - [Show HN: Open-source Auth0 alternative Ory Kratos v0.13 released – nearing v1.0](https://github.com/ory/kratos/releases/tag/v0.13.0)
@@ -45,3 +46,4 @@
 * [2023-04-19, 00:54:43](https://news.ycombinator.com/item?id=35622761) - [Meta to unveil fresh round of job cuts among highly skilled staff](https://www.washingtonpost.com/technology/2023/04/18/meta-layoffs-tech/)
 * [2023-04-19, 00:39:14](https://news.ycombinator.com/item?id=35622629) - [Orb weaver spider glue properties evolve faster than their glue genes](https://phys.org/news/2023-04-orb-weaver-spider-properties-evolve.html)
 * [2023-04-19, 00:38:40](https://news.ycombinator.com/item?id=35622622) - [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
+* [2023-04-19, 00:29:43](https://news.ycombinator.com/item?id=35622558) - [Teasing Strange Matter from the Ordinary](https://phys.org/news/2023-04-strange-ordinary.html)
