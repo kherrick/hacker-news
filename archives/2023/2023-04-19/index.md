@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 05:22:50](https://news.ycombinator.com/item?id=35624544) - [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 * [2023-04-19, 04:41:14](https://news.ycombinator.com/item?id=35624300) - [Show HN: Kinde – auth, feature flags and billing (Q3) in one integration](https://kinde.com/)
 * [2023-04-19, 04:22:17](https://news.ycombinator.com/item?id=35624210) - [Nintendo Hacker Freed, Now Owes Them 25-30% of Salary for Life](https://www.dexerto.com/tech/nintendo-hacker-forced-to-pay-them-for-life-after-being-released-from-prison-2117382/)
 * [2023-04-19, 03:21:15](https://news.ycombinator.com/item?id=35623891) - [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
