@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
 * [2023-04-18, 23:18:43](https://news.ycombinator.com/item?id=35621861) - [Broadband Consumer Labels](https://www.fcc.gov/broadbandlabels)
+* [2023-04-18, 22:54:45](https://news.ycombinator.com/item?id=35621604) - [How to give yourself time to think](https://beside.media/atelier/how-to-give-yourself-time-to-think/)
 * [2023-04-18, 22:49:37](https://news.ycombinator.com/item?id=35621539) - [Americans ‘surprised’ by what they saw inside the T-90A tank](https://www.technology.org/2023/04/18/americans-surprised-by-what-they-saw-inside-the-t-90a-tank-photo/)
 * [2023-04-18, 22:39:07](https://news.ycombinator.com/item?id=35621425) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
 * [2023-04-18, 22:38:33](https://news.ycombinator.com/item?id=35621417) - [Show HN: AI Playground by Vercel Labs](https://play.vercel.ai)
@@ -13,6 +14,7 @@
 * [2023-04-18, 22:06:00](https://news.ycombinator.com/item?id=35621023) - [LLaVA: Large Language and Vision Assistant](https://llava-vl.github.io/)
 * [2023-04-18, 21:58:35](https://news.ycombinator.com/item?id=35620924) - [Why do ships use “port” and “starboard” instead of “left” and “right?”](https://oceanservice.noaa.gov/facts/port-starboard.html)
 * [2023-04-18, 21:22:35](https://news.ycombinator.com/item?id=35620407) - [Meta is about to start its next round of layoffs](https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp)
+* [2023-04-18, 21:16:10](https://news.ycombinator.com/item?id=35620314) - [Show HN: Database for analyzing US companies, visualize using Apache SuperSet](https://tesseractanalytics.ai/)
 * [2023-04-18, 21:14:39](https://news.ycombinator.com/item?id=35620291) - [Clock](https://oimo.io/works/clock/)
 * [2023-04-18, 21:00:20](https://news.ycombinator.com/item?id=35620078) - [Toko (YC W22) Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35620078)
 * [2023-04-18, 20:37:58](https://news.ycombinator.com/item?id=35619711) - [Fox News, Dominion Voting Systems reach $787,500,000 settlement](https://www.cbsnews.com/news/fox-news-dominion-voting-systems-lawsuit-settlement/)
