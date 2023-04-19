@@ -4,7 +4,7 @@
 * [2023-04-19, 06:26:27](https://news.ycombinator.com/item?id=35624899) - [Defining interfaces in C++ with ‘concepts’ (C++20)](https://lemire.me/blog/2023/04/18/defining-interfaces-in-c-with-concepts-c20/)
 * [2023-04-19, 05:22:50](https://news.ycombinator.com/item?id=35624544) - [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 * [2023-04-19, 04:41:14](https://news.ycombinator.com/item?id=35624300) - [Show HN: Kinde – auth, feature flags and billing (Q3) in one integration](https://kinde.com/)
-* [2023-04-19, 02:37:52](https://news.ycombinator.com/item?id=35623625) - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
+* [2023-04-19, 03:21:15](https://news.ycombinator.com/item?id=35623891) - [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
 * [2023-04-19, 02:03:28](https://news.ycombinator.com/item?id=35623361) - [Explore Washington DC through the eyes of a spy](https://secretmissiondc.com/)
 * [2023-04-19, 00:38:40](https://news.ycombinator.com/item?id=35622622) - [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
 * [2023-04-18, 23:18:43](https://news.ycombinator.com/item?id=35621861) - [Broadband Consumer Labels](https://www.fcc.gov/broadbandlabels)
