@@ -82,6 +82,7 @@
 * [2023-04-18, 08:33:46](https://news.ycombinator.com/item?id=35611425) - [PSA: Upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
 * [2023-04-18, 08:21:48](https://news.ycombinator.com/item?id=35611364) - [Ask HN: As a dev: learn marketing? Or start side project? (startup skills)](https://news.ycombinator.com/item?id=35611364)
 * [2023-04-18, 08:10:47](https://news.ycombinator.com/item?id=35611306) - [Ask HN: Are there any search engines without AI?](https://news.ycombinator.com/item?id=35611306)
+* [2023-04-18, 08:00:51](https://news.ycombinator.com/item?id=35611259) - [You Have a New Memory](https://slate.com/human-interest/2023/04/phone-listening-recording-loneliness-online-dating.html)
 * [2023-04-18, 07:15:28](https://news.ycombinator.com/item?id=35610935) - [Fourier Transform existed, but I never had intuitive understanding until now](https://sayingless.substack.com/p/fourier-transform-without-fetishizing)
 * [2023-04-18, 06:19:52](https://news.ycombinator.com/item?id=35610562) - [Almost three quarters of the golden age of Hollywood has been lost](https://www.historytoday.com/archive/missing-pieces/lost-movies)
 * [2023-04-18, 06:02:37](https://news.ycombinator.com/item?id=35610466) - [The Lotus Sutra Project: Conserving and Digitising 800 Manuscripts](https://blogs.bl.uk/asian-and-african/2023/04/the-lotus-sutra-project-conserving-and-digitising-800-manuscripts-in-the-british-library.html)
