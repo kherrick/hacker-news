@@ -61,6 +61,7 @@
 * [2023-04-19, 11:41:17](https://news.ycombinator.com/item?id=35626943) - [How Philly Cheesesteaks Became Big in Lahore, Pakistan](https://www.phillymag.com/news/2023/04/08/philly-cheesesteaks-lahore-pakistan/)
 * [2023-04-19, 11:15:02](https://news.ycombinator.com/item?id=35626783) - [Gezellig – a word that encompasses the heart of Dutch Culture](https://www.dutchamsterdam.nl/155-gezellig)
 * [2023-04-19, 11:11:32](https://news.ycombinator.com/item?id=35626755) - [Why Some Researchers Think I’m Wrong About Social Media and Mental Illness](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong)
+* [2023-04-19, 11:08:43](https://news.ycombinator.com/item?id=35626736) - [Conway&#x27;s Game of Life digital clock](https://copy.sh/life/?gist=f3413564b1fa9c69f2bad4b0400b8090&step=512)
 * [2023-04-19, 11:03:05](https://news.ycombinator.com/item?id=35626698) - [Review of James Cogland’s Building Git](https://alanstorm.com/review-of-james-coglands-building-git/)
 * [2023-04-19, 09:59:41](https://news.ycombinator.com/item?id=35626312) - [ChatPDF – Chat with Any PDF](https://www.chatpdf.com)
 * [2023-04-19, 09:41:25](https://news.ycombinator.com/item?id=35626214) - [The iPhone Setting Thieves Use to Lock You Out of Your Apple Account](https://www.wsj.com/articles/the-iphone-setting-thieves-use-to-lock-you-out-of-your-apple-account-716d350d)

@@ -14,7 +14,6 @@
 * [2023-04-20, 18:15:53](https://news.ycombinator.com/item?id=35643959) - [Embedding Archives: Millions of Wikipedia Article Embeddings in Many Languages](https://txt.cohere.com/embedding-archives-wikipedia/)
 * [2023-04-20, 18:12:54](https://news.ycombinator.com/item?id=35643915) - [Lithuania: Students stop university from using only proprietary authentication](https://fsfe.org/news/2023/news-20230418-01.en.html)
 * [2023-04-20, 17:44:58](https://news.ycombinator.com/item?id=35643529) - [Weight loss relapse associated with exposure to perfluoroalkylate substances](https://onlinelibrary.wiley.com/doi/10.1002/oby.23755)
-* [2023-04-20, 17:23:47](https://news.ycombinator.com/item?id=35643223) - [Show HN: How to Find the Best Bank for Your Needs](https://banklist.io/)
 * [2023-04-20, 17:23:35](https://news.ycombinator.com/item?id=35643219) - [Bark – GPT-style realistic multilingual text-to-speech generation](https://github.com/suno-ai/bark)
 * [2023-04-20, 17:11:36](https://news.ycombinator.com/item?id=35643049) - [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
 * [2023-04-20, 16:47:30](https://news.ycombinator.com/item?id=35642712) - [In 1981, Intel released the iAPX 432](https://oldbytes.space/@kenshirriff/110231910098167742)
@@ -28,6 +27,7 @@
 * [2023-04-20, 12:24:45](https://news.ycombinator.com/item?id=35638899) - [Seagate hit with $300M penalty for selling sanctioned storage to Huawei](https://www.theregister.com/2023/04/20/seagate_300million_huawei_shipment_settlement/)
 * [2023-04-20, 00:45:31](https://news.ycombinator.com/item?id=35635076) - [The Digital Ludeme Project: methods for the study of ancient board games](https://www.sciencedirect.com/science/article/pii/S2352409X23001803)
 * [2023-04-19, 16:14:04](https://news.ycombinator.com/item?id=35629972) - [Space Elevator](https://neal.fun/space-elevator/)
+* [2023-04-19, 11:08:43](https://news.ycombinator.com/item?id=35626736) - [Conway&#x27;s Game of Life digital clock](https://copy.sh/life/?gist=f3413564b1fa9c69f2bad4b0400b8090&step=512)
 * [2023-04-19, 11:03:05](https://news.ycombinator.com/item?id=35626698) - [Review of James Cogland’s Building Git](https://alanstorm.com/review-of-james-coglands-building-git/)
 * [2023-04-19, 06:46:28](https://news.ycombinator.com/item?id=35625038) - [Black Holes of Information](https://duerrenberger.dev/blog/2023/02/28/black-holes-of-information/)
 
