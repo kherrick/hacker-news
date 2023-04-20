@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 17:11:36](https://news.ycombinator.com/item?id=35643049) - [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
+* [2023-04-20, 17:06:45](https://news.ycombinator.com/item?id=35642994) - [Alphabet’s Google Combines AI Research Units Brain and DeepMind](https://www.wsj.com/articles/alphabets-google-combines-ai-research-units-brain-and-deepmind-620f4f7d)
 * [2023-04-20, 17:00:11](https://news.ycombinator.com/item?id=35642891) - [GoGoGrandparent (YC S16) is hiring a senior&#x2F;staff back end&#x2F;full-stack engineer](https://news.ycombinator.com/item?id=35642891)
 * [2023-04-20, 16:51:58](https://news.ycombinator.com/item?id=35642772) - [Software developer gets $5M judgement against My Pillow CEO Mike Lindell](https://www.cnn.com/2023/04/20/politics/mike-lindell-2020-election/index.html)
 * [2023-04-20, 16:47:30](https://news.ycombinator.com/item?id=35642712) - [In 1981, Intel released the iAPX 432](https://oldbytes.space/@kenshirriff/110231910098167742)
