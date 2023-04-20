@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-20, 14:03:02](https://news.ycombinator.com/item?id=35640095) - [SpaceX&#x27;s rocket Starship explodes 4 minutes after liftoff](https://www.npr.org/2023/04/20/1170983959/spacex-starship-launch-elon-musk)
 * [2023-04-20, 13:58:04](https://news.ycombinator.com/item?id=35640002) - [SpaceX giant rocket explodes minutes after launch from Texas](https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2)
 * [2023-04-20, 13:50:30](https://news.ycombinator.com/item?id=35639893) - [Study links &#x27;stuck&#x27; stem cells to hair turning gray](https://phys.org/news/2023-04-links-stuck-stem-cells-hair.html)
 * [2023-04-20, 13:09:13](https://news.ycombinator.com/item?id=35639370) - [Shutting down my legal torrent site after 17 years](https://www.legittorrents.info/)
@@ -22,7 +23,6 @@
 * [2023-04-19, 21:59:23](https://news.ycombinator.com/item?id=35633840) - [Uncleftish Beholding (1989)](https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish_beholding.html)
 * [2023-04-19, 16:14:04](https://news.ycombinator.com/item?id=35629972) - [Space Elevator](https://neal.fun/space-elevator/)
 * [2023-04-19, 15:10:47](https://news.ycombinator.com/item?id=35629127) - [StableLM: A new open-source language model](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
-* [2023-04-19, 11:41:17](https://news.ycombinator.com/item?id=35626943) - [Philly cheesesteaks became big in Lahore](https://www.phillymag.com/news/2023/04/08/philly-cheesesteaks-lahore-pakistan/)
 * [2023-04-19, 09:07:24](https://news.ycombinator.com/item?id=35626005) - [Origin Of The Abbreviation I18n (2002)](http://www.i18nguy.com/origini18n.html)
 * [2023-04-19, 08:45:24](https://news.ycombinator.com/item?id=35625877) - [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)
 * [2023-04-19, 08:11:43](https://news.ycombinator.com/item?id=35625656) - [More optimizations in the compiler and JIT](https://www.erlang.org/blog/more-optimizations/)
