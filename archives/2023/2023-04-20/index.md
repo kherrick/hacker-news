@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 09:24:18](https://news.ycombinator.com/item?id=35637882) - [Starship Flight Test (Launch in 3 hours)](https://www.youtube.com/watch?v=-1wcilQ58hI)
 * [2023-04-20, 08:15:32](https://news.ycombinator.com/item?id=35637556) - [A Plea for Fairness for Non-Profit Developers of Open Source Software](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)
 * [2023-04-20, 08:04:43](https://news.ycombinator.com/item?id=35637505) - [Waydev (YC W21) Is Hiring](https://www.ycombinator.com/companies/waydev/jobs/BFA4rwl-head-of-sales)
 * [2023-04-20, 06:41:02](https://news.ycombinator.com/item?id=35637085) - [Show HN: Create Comics Using Stable Diffusion](https://www.comicsmaker.ai)
