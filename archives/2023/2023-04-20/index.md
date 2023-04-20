@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
 * [2023-04-20, 19:06:23](https://news.ycombinator.com/item?id=35644688) - [Mike Lindell firm told to pay $5M in ‘Prove Mike Wrong’ election-fraud challenge](https://www.washingtonpost.com/investigations/2023/04/20/mike-lindell-prove-wrong-contest/)
+* [2023-04-20, 19:02:34](https://news.ycombinator.com/item?id=35644631) - [Mortgage Rate jump up, slowing down the buyer market](https://thehill.com/business/3960981-mortgage-rates-rise-for-the-first-time-in-more-than-a-month/)
 * [2023-04-20, 18:38:16](https://news.ycombinator.com/item?id=35644282) - [Companies Producing Biopolymers for Packaging](https://tderflinger.com/en/companies-producing-biopolymers-for-packaging/)
 * [2023-04-20, 18:19:22](https://news.ycombinator.com/item?id=35644014) - [The NIH poured $1B into long Covid research, with little to show for it](https://www.statnews.com/2023/04/20/long-covid-nih-billion/)
 * [2023-04-20, 18:15:53](https://news.ycombinator.com/item?id=35643959) - [Embedding Archives: Millions of Wikipedia Article Embeddings in Many Languages](https://txt.cohere.com/embedding-archives-wikipedia/)
 * [2023-04-20, 18:12:54](https://news.ycombinator.com/item?id=35643915) - [Lithuania: Students stop university from using only proprietary authentication](https://fsfe.org/news/2023/news-20230418-01.en.html)
 * [2023-04-20, 17:56:49](https://news.ycombinator.com/item?id=35643705) - [Farmers ‘crippled’ by satellite failure as GPS-guided tractors grind to a halt](https://www.smh.com.au/national/farmers-crippled-by-satellite-failure-as-gps-guided-tractors-grind-to-a-halt-20230418-p5d1de.html)
+* [2023-04-20, 17:47:30](https://news.ycombinator.com/item?id=35643567) - [GPT4 killed our little startup](https://crowdprisma.com/)
 * [2023-04-20, 17:45:17](https://news.ycombinator.com/item?id=35643535) - [BuzzFeed News Is Shutting Down, Company Laying Off 180 Staffers](https://variety.com/2023/digital/news/buzzfeed-news-shutting-down-layoffs-1235589751/)
 * [2023-04-20, 17:44:58](https://news.ycombinator.com/item?id=35643529) - [Weight loss relapse associated with exposure to perfluoroalkylate substances](https://onlinelibrary.wiley.com/doi/10.1002/oby.23755)
 * [2023-04-20, 17:23:47](https://news.ycombinator.com/item?id=35643223) - [Show HN: How to Find the Best Bank for Your Needs](https://banklist.io/)
