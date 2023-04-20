@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 03:04:28](https://news.ycombinator.com/item?id=35635884) - [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
 * [2023-04-20, 03:00:24](https://news.ycombinator.com/item?id=35635858) - [Replit (YC W18) Is Hiring to Rapidly Scale Infrastructure](https://replit.com/careers)
 * [2023-04-20, 02:27:27](https://news.ycombinator.com/item?id=35635633) - [Incidents of AIs going rogue and killing all the humans](https://aiincidentsreport.vercel.app/)
 * [2023-04-20, 02:17:31](https://news.ycombinator.com/item?id=35635591) - [Record Labels Panic as A.I. Generated Song Becomes Hit Single](https://darkfutura.substack.com/p/record-labels-panic-as-ai-generated)

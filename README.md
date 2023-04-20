@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-20, 03:04:28](https://news.ycombinator.com/item?id=35635884) - [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
 * [2023-04-20, 03:00:24](https://news.ycombinator.com/item?id=35635858) - [Replit (YC W18) Is Hiring to Rapidly Scale Infrastructure](https://replit.com/careers)
-* [2023-04-20, 02:27:27](https://news.ycombinator.com/item?id=35635633) - [Incidents of AIs going rogue and killing all the humans](https://aiincidentsreport.vercel.app/)
 * [2023-04-20, 02:17:31](https://news.ycombinator.com/item?id=35635591) - [Record Labels Panic as A.I. Generated Song Becomes Hit Single](https://darkfutura.substack.com/p/record-labels-panic-as-ai-generated)
 * [2023-04-20, 02:08:51](https://news.ycombinator.com/item?id=35635538) - [No DNS address record found for repo.maven.apache.org](https://www.nslookup.io/domains/repo.maven.apache.org/dns-records/)
 * [2023-04-20, 01:59:48](https://news.ycombinator.com/item?id=35635491) - [Only one pair of integers satisfy the equation m^n = n^m](https://keith-mcnulty.medium.com/only-one-pair-of-distinct-integers-satisfy-this-equation-76ea45469a96)
@@ -27,7 +27,7 @@
 * [2023-04-19, 12:05:50](https://news.ycombinator.com/item?id=35627107) - [Making a Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 11:41:17](https://news.ycombinator.com/item?id=35626943) - [How Philly Cheesesteaks Became Big in Lahore, Pakistan](https://www.phillymag.com/news/2023/04/08/philly-cheesesteaks-lahore-pakistan/)
 * [2023-04-19, 08:11:43](https://news.ycombinator.com/item?id=35625656) - [Erlang: More Optimizations in the Compiler and JIT](https://www.erlang.org/blog/more-optimizations/)
-* [2023-04-19, 05:17:21](https://news.ycombinator.com/item?id=35624511) - [The Origins of Creativity](https://www.newyorker.com/magazine/2023/04/24/the-cult-of-creativity-samuel-weil-franklin-book-review)
+* [2023-04-18, 07:15:28](https://news.ycombinator.com/item?id=35610935) - [Fourier Transform existed, but I never had intuitive understanding until now](https://sayingless.substack.com/p/fourier-transform-without-fetishizing)
 * [2023-04-18, 06:19:52](https://news.ycombinator.com/item?id=35610562) - [Almost three quarters of the golden age of Hollywood has been lost](https://www.historytoday.com/archive/missing-pieces/lost-movies)
 * [2023-04-17, 09:50:14](https://news.ycombinator.com/item?id=35598636) - [How Does an Intel Processor Boot? (2018)](https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/)
 
