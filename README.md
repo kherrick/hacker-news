@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-20, 20:10:50](https://news.ycombinator.com/item?id=35645624) - [Rural Americans are importing tiny Japanese pickup trucks](https://www.economist.com/united-states/2023/04/20/rural-americans-are-importing-tiny-japanese-pickup-trucks)
 * [2023-04-20, 19:57:18](https://news.ycombinator.com/item?id=35645418) - [Gov. Inslee signs bill to repeal death penalty in Washington](https://www.axios.com/local/seattle/2023/04/11/death-penalty-washington-state-repeal)
 * [2023-04-20, 19:31:50](https://news.ycombinator.com/item?id=35645047) - [Study finds new pathway for clearing misfolded proteins](https://news.stanford.edu/2023/04/20/study-finds-new-pathway-clearing-misfolded-proteins/)
 * [2023-04-20, 19:13:40](https://news.ycombinator.com/item?id=35644787) - [Canonical releases Ubuntu 23.04 Lunar Lobster](https://canonical.com/blog/canonical-releases-ubuntu-23-04-lunar-lobster)
@@ -17,7 +18,6 @@
 * [2023-04-20, 17:00:11](https://news.ycombinator.com/item?id=35642891) - [GoGoGrandparent (YC S16) is hiring a senior&#x2F;staff back end&#x2F;full-stack engineer](https://news.ycombinator.com/item?id=35642891)
 * [2023-04-20, 16:47:30](https://news.ycombinator.com/item?id=35642712) - [In 1981, Intel released the iAPX 432](https://oldbytes.space/@kenshirriff/110231910098167742)
 * [2023-04-20, 15:18:25](https://news.ycombinator.com/item?id=35641448) - [BuzzFeed News is shutting down](https://www.thedailybeast.com/buzzfeed-news-is-shutting-down)
-* [2023-04-20, 15:01:02](https://news.ycombinator.com/item?id=35641164) - [Show HN: CozoDB, Hybrid Relational-Graph-Vector Database](https://docs.cozodb.org/en/latest/releases/v0.6.html)
 * [2023-04-20, 14:21:13](https://news.ycombinator.com/item?id=35640427) - [Smuggling of silkworm eggs into the Byzantine Empire](https://en.wikipedia.org/wiki/Smuggling_of_silkworm_eggs_into_the_Byzantine_Empire)
 * [2023-04-20, 13:58:04](https://news.ycombinator.com/item?id=35640002) - [SpaceX Starship rocket explodes minutes after launch from Texas](https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2)
 * [2023-04-20, 13:46:07](https://news.ycombinator.com/item?id=35639810) - [Show HN: A 15 min daily stretch routine for desk workers](https://stretch15.com)
