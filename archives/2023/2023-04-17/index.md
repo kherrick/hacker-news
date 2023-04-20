@@ -71,6 +71,7 @@
 * [2023-04-17, 11:15:46](https://news.ycombinator.com/item?id=35599181) - [Sold a Story: How Teaching Kids to Read Went So Wrong](https://features.apmreports.org/sold-a-story/)
 * [2023-04-17, 11:05:51](https://news.ycombinator.com/item?id=35599118) - [Ask HN: Is PostgreSQL better than MySQL?](https://news.ycombinator.com/item?id=35599118)
 * [2023-04-17, 10:42:13](https://news.ycombinator.com/item?id=35598975) - [Why most of us won&#x27;t be inventing little languages](http://slesinsky.org/brian/code/little_languages.html)
+* [2023-04-17, 10:31:48](https://news.ycombinator.com/item?id=35598917) - [The Colorful Charm of Amiga Utility Disks](https://www.datagubbe.se/utildisks/)
 * [2023-04-17, 10:01:01](https://news.ycombinator.com/item?id=35598710) - [Linuxwave: Generate Music from the Entropy of Linux](https://github.com/orhun/linuxwave)
 * [2023-04-17, 09:50:14](https://news.ycombinator.com/item?id=35598636) - [How Does an Intel Processor Boot? (2018)](https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/)
 * [2023-04-17, 09:49:17](https://news.ycombinator.com/item?id=35598625) - [Peoplebox (YC S22) is hiring a Back end Engineer](https://www.ycombinator.com/companies/peoplebox/jobs/K2iFg3S-backend-engineer-rails)

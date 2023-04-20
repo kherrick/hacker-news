@@ -33,6 +33,7 @@
 * [2023-04-19, 16:52:32](https://news.ycombinator.com/item?id=35630449) - [Why universities should return to oral exams in the AI and ChatGPT era](https://theconversation.com/why-universities-should-return-to-oral-exams-in-the-ai-and-chatgpt-era-203429)
 * [2023-04-19, 16:50:38](https://news.ycombinator.com/item?id=35630423) - [User: Junnn11](https://en.wikipedia.org/wiki/User:Junnn11)
 * [2023-04-19, 16:36:16](https://news.ycombinator.com/item?id=35630241) - [NPM Provenance Public Beta](https://github.blog/changelog/2023-04-19-npm-provenance-public-beta/)
+* [2023-04-19, 16:14:04](https://news.ycombinator.com/item?id=35629972) - [Space Elevator](https://neal.fun/space-elevator/)
 * [2023-04-19, 15:34:09](https://news.ycombinator.com/item?id=35629474) - [Street Votes: A proposed response to Ireland&#x27;s housing crisis](https://www.thefitzwilliam.com/p/a-simple-and-elegant-response-to)
 * [2023-04-19, 15:26:49](https://news.ycombinator.com/item?id=35629370) - [Physics Advanced Generative AI](https://www.assemblyai.com/blog/how-physics-advanced-generative-ai/)
 * [2023-04-19, 15:26:00](https://news.ycombinator.com/item?id=35629351) - [Ask HN: AI to study my DSL and then output it?](https://news.ycombinator.com/item?id=35629351)
