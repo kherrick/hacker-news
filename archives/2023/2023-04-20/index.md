@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 22:07:19](https://news.ycombinator.com/item?id=35647124) - [Saving Instagram images automatically every hour with Node.js or PHP](https://github.com/orsifrancesco/sniffagrammers)
 * [2023-04-20, 21:28:23](https://news.ycombinator.com/item?id=35646612) - [Why Perl?](https://two-wrongs.com/why-perl)
 * [2023-04-20, 21:14:42](https://news.ycombinator.com/item?id=35646436) - [PyPI Introduces “Trusted Publishers”](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
 * [2023-04-20, 21:05:17](https://news.ycombinator.com/item?id=35646315) - [Revisiting the Fast Inverse Square Root – Is It Still Useful?](https://hllmn.net/blog/2023-04-20_rsqrt/)

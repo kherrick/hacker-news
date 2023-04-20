@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-20, 22:07:19](https://news.ycombinator.com/item?id=35647124) - [Saving Instagram images automatically every hour with Node.js or PHP](https://github.com/orsifrancesco/sniffagrammers)
 * [2023-04-20, 21:28:23](https://news.ycombinator.com/item?id=35646612) - [Why Perl?](https://two-wrongs.com/why-perl)
 * [2023-04-20, 21:14:42](https://news.ycombinator.com/item?id=35646436) - [PyPI Introduces “Trusted Publishers”](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
 * [2023-04-20, 21:05:17](https://news.ycombinator.com/item?id=35646315) - [Revisiting the Fast Inverse Square Root – Is It Still Useful?](https://hllmn.net/blog/2023-04-20_rsqrt/)
@@ -10,7 +11,6 @@
 * [2023-04-20, 20:31:50](https://news.ycombinator.com/item?id=35645857) - [Babylon.js 6.0](https://www.babylonjs.com/)
 * [2023-04-20, 20:10:50](https://news.ycombinator.com/item?id=35645624) - [Rural Americans are importing tiny Japanese pickup trucks](https://www.economist.com/united-states/2023/04/20/rural-americans-are-importing-tiny-japanese-pickup-trucks)
 * [2023-04-20, 20:01:27](https://news.ycombinator.com/item?id=35645464) - [Evidence.dev – Business Intelligence as Code](https://evidence.dev)
-* [2023-04-20, 19:57:18](https://news.ycombinator.com/item?id=35645418) - [Gov. Inslee signs bill to remove death penalty from Washington state law](https://www.kptv.com/2023/04/20/gov-inslee-signs-bill-remove-death-penalty-washington-state-law/)
 * [2023-04-20, 19:31:50](https://news.ycombinator.com/item?id=35645047) - [Study finds new pathway for clearing misfolded proteins](https://news.stanford.edu/2023/04/20/study-finds-new-pathway-clearing-misfolded-proteins/)
 * [2023-04-20, 18:54:03](https://news.ycombinator.com/item?id=35644504) - [Show HN: Play the front page of Hacker News as interactive text games](https://infinityarcade.com/news)
 * [2023-04-20, 18:38:16](https://news.ycombinator.com/item?id=35644282) - [Companies Producing Biopolymers for Packaging](https://tderflinger.com/en/companies-producing-biopolymers-for-packaging/)
