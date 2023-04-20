@@ -2,7 +2,6 @@
 
 * [2023-04-20, 08:04:43](https://news.ycombinator.com/item?id=35637505) - [Waydev (YC W21) Is Hiring](https://www.ycombinator.com/companies/waydev/jobs/BFA4rwl-head-of-sales)
 * [2023-04-20, 06:41:02](https://news.ycombinator.com/item?id=35637085) - [Show HN: Create Comics Using Stable Diffusion](https://www.comicsmaker.ai)
-* [2023-04-20, 04:08:45](https://news.ycombinator.com/item?id=35636282) - [OpenAI’s hunger for data is coming back to bite it](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/)
 * [2023-04-20, 03:34:09](https://news.ycombinator.com/item?id=35636052) - [POSSE: Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 * [2023-04-20, 03:06:31](https://news.ycombinator.com/item?id=35635900) - [PC Engines EOL](https://www.pcengines.ch/eol.htm)
 * [2023-04-20, 03:04:28](https://news.ycombinator.com/item?id=35635884) - [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
@@ -17,6 +16,7 @@
 * [2023-04-19, 21:59:23](https://news.ycombinator.com/item?id=35633840) - [Uncleftish Beholding (1989)](https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish_beholding.html)
 * [2023-04-19, 21:23:12](https://news.ycombinator.com/item?id=35633490) - [Building telescopes on the Moon could transform astronomy](https://theconversation.com/building-telescopes-on-the-moon-could-transform-astronomy-and-its-becoming-an-achievable-goal-203308)
 * [2023-04-19, 21:04:49](https://news.ycombinator.com/item?id=35633316) - [GPT-3 Creative Fiction (2020)](https://gwern.net/gpt-3)
+* [2023-04-19, 20:48:47](https://news.ycombinator.com/item?id=35633152) - [Intranasal vaccine confers broad mucosal and systemic immunity against SARS-CoV2](https://www.nature.com/articles/s41392-023-01423-6)
 * [2023-04-19, 20:10:27](https://news.ycombinator.com/item?id=35632721) - [Satellite takes image of another satellite](https://twitter.com/NASA_Landsat/status/1642954595377750027)
 * [2023-04-19, 19:10:02](https://news.ycombinator.com/item?id=35632058) - [Qantas is bringing back Airbus A380s from the California desert](https://www.smh.com.au/business/companies/california-to-sydney-how-do-you-wake-an-a380-after-1000-days-in-the-desert-20221227-p5c8zp.html)
 * [2023-04-19, 17:52:06](https://news.ycombinator.com/item?id=35631151) - [Pop-shoot: Synthwave styled space shooter, inspired by 80s arcades](https://github.com/kiwphi/pop-shoot)
