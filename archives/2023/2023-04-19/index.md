@@ -46,6 +46,7 @@
 * [2023-04-19, 14:41:30](https://news.ycombinator.com/item?id=35628754) - [Judge tentatively OKs $725M Facebook settlement: How to apply for a payout](https://thehill.com/homenews/nexstar_media_wire/3956560-judge-tentatively-oks-725m-facebook-settlement-how-to-apply-for-a-payout/)
 * [2023-04-19, 14:30:09](https://news.ycombinator.com/item?id=35628642) - [Show HN: Open-source Auth0 alternative Ory Kratos v0.13 released – nearing v1.0](https://github.com/ory/kratos/releases/tag/v0.13.0)
 * [2023-04-19, 14:23:51](https://news.ycombinator.com/item?id=35628563) - [Child sexual abuse: leading MEP sceptical of technical limitations](https://www.euractiv.com/section/data-privacy/interview/child-sexual-abuse-leading-mep-sceptical-of-technical-limitations/)
+* [2023-04-19, 14:22:17](https://news.ycombinator.com/item?id=35628544) - [Troubled Waters: Reading Urine in Medieval Medicine](https://publicdomainreview.org/essay/troubled-waters)
 * [2023-04-19, 14:18:21](https://news.ycombinator.com/item?id=35628485) - [When Interfaces Kill: What Happened to John Denver (1999)](https://www.asktog.com/columns/027InterfacesThatKill.html)
 * [2023-04-19, 14:08:36](https://news.ycombinator.com/item?id=35628345) - [AI Incident Database](https://incidentdatabase.ai/)
 * [2023-04-19, 13:20:56](https://news.ycombinator.com/item?id=35627790) - [Latent Diffusion Models Are Zero-Shot Speech and Singing Synthesizers](https://speechresearch.github.io/naturalspeech2/)
