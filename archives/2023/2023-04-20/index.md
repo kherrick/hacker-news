@@ -6,6 +6,7 @@
 
 * [2023-04-20, 20:10:50](https://news.ycombinator.com/item?id=35645624) - [Rural Americans are importing tiny Japanese pickup trucks](https://www.economist.com/united-states/2023/04/20/rural-americans-are-importing-tiny-japanese-pickup-trucks)
 * [2023-04-20, 19:57:18](https://news.ycombinator.com/item?id=35645418) - [Gov. Inslee signs bill to repeal death penalty in Washington](https://www.axios.com/local/seattle/2023/04/11/death-penalty-washington-state-repeal)
+* [2023-04-20, 19:49:14](https://news.ycombinator.com/item?id=35645309) - [When You Buy a Book, You Can Loan It to Anyone. This Judge Says Libraries Can’t](https://www.thenation.com/article/culture/libraries-copyright-internet-archive-lawsuit/)
 * [2023-04-20, 19:31:50](https://news.ycombinator.com/item?id=35645047) - [Study finds new pathway for clearing misfolded proteins](https://news.stanford.edu/2023/04/20/study-finds-new-pathway-clearing-misfolded-proteins/)
 * [2023-04-20, 19:13:40](https://news.ycombinator.com/item?id=35644787) - [Canonical releases Ubuntu 23.04 Lunar Lobster](https://canonical.com/blog/canonical-releases-ubuntu-23-04-lunar-lobster)
 * [2023-04-20, 19:06:23](https://news.ycombinator.com/item?id=35644688) - [Mike Lindell firm told to pay $5M in ‘Prove Mike Wrong’ election-fraud challenge](https://www.washingtonpost.com/investigations/2023/04/20/mike-lindell-prove-wrong-contest/)

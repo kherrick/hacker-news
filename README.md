@@ -2,6 +2,7 @@
 
 * [2023-04-20, 20:10:50](https://news.ycombinator.com/item?id=35645624) - [Rural Americans are importing tiny Japanese pickup trucks](https://www.economist.com/united-states/2023/04/20/rural-americans-are-importing-tiny-japanese-pickup-trucks)
 * [2023-04-20, 19:57:18](https://news.ycombinator.com/item?id=35645418) - [Gov. Inslee signs bill to repeal death penalty in Washington](https://www.axios.com/local/seattle/2023/04/11/death-penalty-washington-state-repeal)
+* [2023-04-20, 19:49:14](https://news.ycombinator.com/item?id=35645309) - [When You Buy a Book, You Can Loan It to Anyone. This Judge Says Libraries Can’t](https://www.thenation.com/article/culture/libraries-copyright-internet-archive-lawsuit/)
 * [2023-04-20, 19:31:50](https://news.ycombinator.com/item?id=35645047) - [Study finds new pathway for clearing misfolded proteins](https://news.stanford.edu/2023/04/20/study-finds-new-pathway-clearing-misfolded-proteins/)
 * [2023-04-20, 19:13:40](https://news.ycombinator.com/item?id=35644787) - [Canonical releases Ubuntu 23.04 Lunar Lobster](https://canonical.com/blog/canonical-releases-ubuntu-23-04-lunar-lobster)
 * [2023-04-20, 19:03:01](https://news.ycombinator.com/item?id=35644635) - [Defining interfaces in C++: concepts versus inheritance](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/)
@@ -27,7 +28,6 @@
 * [2023-04-20, 00:45:31](https://news.ycombinator.com/item?id=35635076) - [The Digital Ludeme Project: methods for the study of ancient board games](https://www.sciencedirect.com/science/article/pii/S2352409X23001803)
 * [2023-04-19, 20:07:33](https://news.ycombinator.com/item?id=35632676) - [The evolutionary innovations that wait millions of years to come good](https://www.theguardian.com/science/2023/apr/18/evolution-biology-sleeping-beauties-innovations-that-wait-millions-of-years-to-come-good)
 * [2023-04-19, 16:14:04](https://news.ycombinator.com/item?id=35629972) - [Space Elevator](https://neal.fun/space-elevator/)
-* [2023-04-19, 14:22:17](https://news.ycombinator.com/item?id=35628544) - [Troubled Waters: Reading Urine in Medieval Medicine](https://publicdomainreview.org/essay/troubled-waters)
 * [2023-04-19, 11:03:05](https://news.ycombinator.com/item?id=35626698) - [Review of James Cogland’s Building Git](https://alanstorm.com/review-of-james-coglands-building-git/)
 * [2023-04-19, 06:46:28](https://news.ycombinator.com/item?id=35625038) - [Black Holes of Information](https://duerrenberger.dev/blog/2023/02/28/black-holes-of-information/)
 
