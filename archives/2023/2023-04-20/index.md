@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 16:25:26](https://news.ycombinator.com/item?id=35642412) - [SpaceX launches its Starship rocket for the first time [Updated]](https://arstechnica.com/science/2023/04/spacex-to-make-a-second-attempt-to-launch-its-massive-starship-rocket/)
 * [2023-04-20, 15:18:25](https://news.ycombinator.com/item?id=35641448) - [BuzzFeed News Is Shutting Down](https://www.thedailybeast.com/buzzfeed-news-is-shutting-down)
 * [2023-04-20, 15:01:02](https://news.ycombinator.com/item?id=35641164) - [Show HN: CozoDB, Hybrid Relational-Graph-Vector DB, the Hippocampus for LLMs](https://docs.cozodb.org/en/latest/releases/v0.6.html)
 * [2023-04-20, 14:32:56](https://news.ycombinator.com/item?id=35640628) - [The Rust Performance Book (2020)](https://nnethercote.github.io/perf-book/)
@@ -13,6 +14,7 @@
 * [2023-04-20, 14:03:02](https://news.ycombinator.com/item?id=35640095) - [SpaceX&#x27;s rocket Starship explodes 4 minutes after liftoff](https://www.npr.org/2023/04/20/1170983959/spacex-starship-launch-elon-musk)
 * [2023-04-20, 13:58:04](https://news.ycombinator.com/item?id=35640002) - [SpaceX giant rocket explodes minutes after launch from Texas](https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2)
 * [2023-04-20, 13:50:30](https://news.ycombinator.com/item?id=35639893) - [Study links &#x27;stuck&#x27; stem cells to hair turning gray](https://phys.org/news/2023-04-links-stuck-stem-cells-hair.html)
+* [2023-04-20, 13:46:07](https://news.ycombinator.com/item?id=35639810) - [Show HN: A 15 min daily stretch routine for desk workers](https://stretch15.com)
 * [2023-04-20, 13:34:53](https://news.ycombinator.com/item?id=35639673) - [Tech CEO Applauds an Employee Selling Their Dog to Accommodate Return-to-Office](https://gizmodo.com/clearlink-ceo-clarke-sell-your-dog-for-the-office-1850353910)
 * [2023-04-20, 13:09:13](https://news.ycombinator.com/item?id=35639370) - [Shutting down my legal torrent site after 17 years](https://www.legittorrents.info/)
 * [2023-04-20, 12:52:06](https://news.ycombinator.com/item?id=35639163) - [Show HN: InsightFlow](https://github.com/plchld/InsightFlow)
