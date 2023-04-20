@@ -64,6 +64,7 @@
 * [2023-04-19, 09:09:07](https://news.ycombinator.com/item?id=35626015) - [Offline Is Just Online with Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
 * [2023-04-19, 09:07:24](https://news.ycombinator.com/item?id=35626005) - [Origin Of The Abbreviation I18n: Jan Scherpenhuizen =&gt; S12n @ DEC (2002)](http://www.i18nguy.com/origini18n.html)
 * [2023-04-19, 08:46:51](https://news.ycombinator.com/item?id=35625889) - [Developers should be force-fed state machines (2011)](https://shopify.engineering/17488160-why-developers-should-be-force-fed-state-machines)
+* [2023-04-19, 08:45:24](https://news.ycombinator.com/item?id=35625877) - [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)
 * [2023-04-19, 08:11:43](https://news.ycombinator.com/item?id=35625656) - [Erlang: More Optimizations in the Compiler and JIT](https://www.erlang.org/blog/more-optimizations/)
 * [2023-04-19, 07:54:46](https://news.ycombinator.com/item?id=35625543) - [How to Make Good Small Games](http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html)
 * [2023-04-19, 06:49:34](https://news.ycombinator.com/item?id=35625065) - [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
