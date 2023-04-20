@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-20, 09:24:18](https://news.ycombinator.com/item?id=35637882) - [Starship Flight Test (Launch in 1 hour)](https://www.youtube.com/watch?v=-1wcilQ58hI)
-* [2023-04-20, 08:15:32](https://news.ycombinator.com/item?id=35637556) - [A Plea for Fairness for Non-Profit Developers of Open Source Software](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)
 * [2023-04-20, 08:04:43](https://news.ycombinator.com/item?id=35637505) - [Waydev (YC W21) Is Hiring](https://www.ycombinator.com/companies/waydev/jobs/BFA4rwl-head-of-sales)
 * [2023-04-20, 03:34:09](https://news.ycombinator.com/item?id=35636052) - [POSSE: Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 * [2023-04-20, 03:06:31](https://news.ycombinator.com/item?id=35635900) - [PC Engines EOL](https://www.pcengines.ch/eol.htm)
@@ -27,6 +26,7 @@
 * [2023-04-19, 06:10:56](https://news.ycombinator.com/item?id=35624805) - [A Love Letter to Make](https://kmaasrud.com/blog/make)
 * [2023-04-19, 05:35:31](https://news.ycombinator.com/item?id=35624611) - [Rpmalloc – General Purpose Memory Allocator](https://github.com/mjansson/rpmalloc)
 * [2023-04-18, 10:37:01](https://news.ycombinator.com/item?id=35612185) - [Remembering Virginia Norwood, the ‘Mother’ of NASA’s Landsat Program](https://www.engadget.com/remembering-virginia-norwood-the-mother-of-nasas-landsat-program-213705046.html)
+* [2023-04-18, 09:44:36](https://news.ycombinator.com/item?id=35611856) - [High Speed Printed Circuit Board (PCB) Design Guidelines](https://www.pcb-hero.com/blogs/lickys-column/high-speed-printed-circuit-board-pcb-design-guidelines)
 * [2023-04-18, 06:19:52](https://news.ycombinator.com/item?id=35610562) - [Almost three quarters of the golden age of Hollywood has been lost](https://www.historytoday.com/archive/missing-pieces/lost-movies)
 * [2023-04-17, 10:31:48](https://news.ycombinator.com/item?id=35598917) - [The Colorful Charm of Amiga Utility Disks](https://www.datagubbe.se/utildisks/)
 * [2023-04-17, 09:50:14](https://news.ycombinator.com/item?id=35598636) - [How Does an Intel Processor Boot? (2018)](https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/)
