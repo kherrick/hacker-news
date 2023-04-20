@@ -68,6 +68,7 @@
 * [2023-04-19, 06:49:34](https://news.ycombinator.com/item?id=35625065) - [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
 * [2023-04-19, 06:26:27](https://news.ycombinator.com/item?id=35624899) - [Defining interfaces in C++ with ‘concepts’ (C++20)](https://lemire.me/blog/2023/04/18/defining-interfaces-in-c-with-concepts-c20/)
 * [2023-04-19, 06:10:56](https://news.ycombinator.com/item?id=35624805) - [A Love Letter to Make](https://kmaasrud.com/blog/make)
+* [2023-04-19, 05:35:31](https://news.ycombinator.com/item?id=35624611) - [Rpmalloc – General Purpose Memory Allocator](https://github.com/mjansson/rpmalloc)
 * [2023-04-19, 05:35:05](https://news.ycombinator.com/item?id=35624608) - [Intel to license x86 CPU cores for use in custom processors](https://www.theregister.com/2022/02/14/intel_x86_licensing/)
 * [2023-04-19, 05:22:50](https://news.ycombinator.com/item?id=35624544) - [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 * [2023-04-19, 05:17:21](https://news.ycombinator.com/item?id=35624511) - [The Origins of Creativity](https://www.newyorker.com/magazine/2023/04/24/the-cult-of-creativity-samuel-weil-franklin-book-review)
