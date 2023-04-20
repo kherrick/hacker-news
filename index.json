@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-19, 23:39:41",
+      "https://news.ycombinator.com/item?id=35634673"
+    ],
+    [
+      "How RocksDB Works",
+      "https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/"
+    ]
+  ],
+  [
+    [
+      "2023-04-19, 23:16:32",
+      "https://news.ycombinator.com/item?id=35634497"
+    ],
+    [
+      "Geneticists develop novel gene therapy for glaucoma",
+      "https://www.tcd.ie/news_events/articles/2023/novel-gene-therapy-shows-promise-for-treating-multiple-eye-diseases/"
+    ]
+  ],
+  [
+    [
       "2023-04-19, 23:04:50",
       "https://news.ycombinator.com/item?id=35634419"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2023-04-19, 21:12:56",
-      "https://news.ycombinator.com/item?id=35633398"
-    ],
-    [
-      "The days are long but the decades are short (2015)",
-      "https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short"
-    ]
-  ],
-  [
-    [
       "2023-04-19, 21:04:49",
       "https://news.ycombinator.com/item?id=35633316"
     ],
@@ -107,16 +117,6 @@
     [
       "Qantas is bringing back Airbus A380s from the California desert",
       "https://www.smh.com.au/business/companies/california-to-sydney-how-do-you-wake-an-a380-after-1000-days-in-the-desert-20221227-p5c8zp.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-19, 18:36:45",
-      "https://news.ycombinator.com/item?id=35631717"
-    ],
-    [
-      "Farouk al Kasim saved Norway from its oil (2014)",
-      "https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2023-04-19, 09:09:07",
-      "https://news.ycombinator.com/item?id=35626015"
+      "2023-04-19, 08:11:43",
+      "https://news.ycombinator.com/item?id=35625656"
     ],
     [
-      "Offline is just online with extreme latency",
-      "https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/"
+      "Erlang: More Optimizations in the Compiler and JIT",
+      "https://www.erlang.org/blog/more-optimizations/"
     ]
   ],
   [
