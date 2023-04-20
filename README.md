@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-20, 19:57:18](https://news.ycombinator.com/item?id=35645418) - [Gov. Inslee signs bill to repeal death penalty in Washington](https://www.axios.com/local/seattle/2023/04/11/death-penalty-washington-state-repeal)
 * [2023-04-20, 19:31:50](https://news.ycombinator.com/item?id=35645047) - [Study finds new pathway for clearing misfolded proteins](https://news.stanford.edu/2023/04/20/study-finds-new-pathway-clearing-misfolded-proteins/)
 * [2023-04-20, 19:13:40](https://news.ycombinator.com/item?id=35644787) - [Canonical releases Ubuntu 23.04 Lunar Lobster](https://canonical.com/blog/canonical-releases-ubuntu-23-04-lunar-lobster)
 * [2023-04-20, 19:06:23](https://news.ycombinator.com/item?id=35644688) - [Mike Lindell firm told to pay $5M in ‘Prove Mike Wrong’ election-fraud challenge](https://www.washingtonpost.com/investigations/2023/04/20/mike-lindell-prove-wrong-contest/)
@@ -9,8 +10,6 @@
 * [2023-04-20, 18:19:22](https://news.ycombinator.com/item?id=35644014) - [The NIH poured $1B into long Covid research, with little to show for it](https://www.statnews.com/2023/04/20/long-covid-nih-billion/)
 * [2023-04-20, 18:15:53](https://news.ycombinator.com/item?id=35643959) - [Embedding Archives: Millions of Wikipedia Article Embeddings in Many Languages](https://txt.cohere.com/embedding-archives-wikipedia/)
 * [2023-04-20, 18:12:54](https://news.ycombinator.com/item?id=35643915) - [Lithuania: Students stop university from using only proprietary authentication](https://fsfe.org/news/2023/news-20230418-01.en.html)
-* [2023-04-20, 17:56:49](https://news.ycombinator.com/item?id=35643705) - [Farmers ‘crippled’ by satellite failure as GPS-guided tractors grind to a halt](https://www.smh.com.au/national/farmers-crippled-by-satellite-failure-as-gps-guided-tractors-grind-to-a-halt-20230418-p5d1de.html)
-* [2023-04-20, 17:47:30](https://news.ycombinator.com/item?id=35643567) - [GPT4 killed our little startup](https://crowdprisma.com/)
 * [2023-04-20, 17:44:58](https://news.ycombinator.com/item?id=35643529) - [Weight loss relapse associated with exposure to perfluoroalkylate substances](https://onlinelibrary.wiley.com/doi/10.1002/oby.23755)
 * [2023-04-20, 17:23:47](https://news.ycombinator.com/item?id=35643223) - [Show HN: How to Find the Best Bank for Your Needs](https://banklist.io/)
 * [2023-04-20, 17:23:35](https://news.ycombinator.com/item?id=35643219) - [Bark – GPT-style realistic multilingual text-to-speech generation](https://github.com/suno-ai/bark)
@@ -29,6 +28,7 @@
 * [2023-04-19, 20:07:33](https://news.ycombinator.com/item?id=35632676) - [The evolutionary innovations that wait millions of years to come good](https://www.theguardian.com/science/2023/apr/18/evolution-biology-sleeping-beauties-innovations-that-wait-millions-of-years-to-come-good)
 * [2023-04-19, 16:14:04](https://news.ycombinator.com/item?id=35629972) - [Space Elevator](https://neal.fun/space-elevator/)
 * [2023-04-19, 14:22:17](https://news.ycombinator.com/item?id=35628544) - [Troubled Waters: Reading Urine in Medieval Medicine](https://publicdomainreview.org/essay/troubled-waters)
+* [2023-04-19, 11:03:05](https://news.ycombinator.com/item?id=35626698) - [Review of James Cogland’s Building Git](https://alanstorm.com/review-of-james-coglands-building-git/)
 * [2023-04-19, 06:46:28](https://news.ycombinator.com/item?id=35625038) - [Black Holes of Information](https://duerrenberger.dev/blog/2023/02/28/black-holes-of-information/)
 
 ## [Archives](archives/index.md)
