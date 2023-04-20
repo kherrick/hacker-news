@@ -49,6 +49,7 @@
 * [2023-04-19, 13:20:56](https://news.ycombinator.com/item?id=35627790) - [Latent Diffusion Models Are Zero-Shot Speech and Singing Synthesizers](https://speechresearch.github.io/naturalspeech2/)
 * [2023-04-19, 13:19:43](https://news.ycombinator.com/item?id=35627779) - [90% of My Skills Are Now Worth $0](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0)
 * [2023-04-19, 12:29:50](https://news.ycombinator.com/item?id=35627301) - [Global rice shortage is set to be the biggest in 20 years](https://www.cnbc.com/2023/04/19/global-rice-shortage-is-set-to-be-the-largest-in-20-years-heres-why.html)
+* [2023-04-19, 12:29:48](https://news.ycombinator.com/item?id=35627299) - [Bro, Where&#x27;s My Marriage Plot](https://blgtylr.substack.com/p/bro-wheres-my-marriage-plot)
 * [2023-04-19, 12:12:02](https://news.ycombinator.com/item?id=35627167) - [Vivaldi 6.0 Web Browser Introduces Tab Workspaces and Custom Icons](https://www.macrumors.com/2023/04/19/vivaldi-6-mac-tab-workspaces-custom-icons/)
 * [2023-04-19, 12:05:50](https://news.ycombinator.com/item?id=35627107) - [Making a Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 12:05:12](https://news.ycombinator.com/item?id=35627102) - [The secret list of websites that make AI chatbots sound smart](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/)
