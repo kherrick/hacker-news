@@ -11,6 +11,7 @@
 * [2023-04-20, 19:03:01](https://news.ycombinator.com/item?id=35644635) - [Defining interfaces in C++: concepts versus inheritance](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/)
 * [2023-04-20, 19:02:34](https://news.ycombinator.com/item?id=35644631) - [Mortgage Rate jump up, slowing down the buyer market](https://thehill.com/business/3960981-mortgage-rates-rise-for-the-first-time-in-more-than-a-month/)
 * [2023-04-20, 18:54:03](https://news.ycombinator.com/item?id=35644504) - [Show HN: Play the front page of Hacker News as interactive text games](https://infinityarcade.com/news)
+* [2023-04-20, 18:44:50](https://news.ycombinator.com/item?id=35644378) - [Facing the Music: We Need You to Subscribe to the Quietus](https://thequietus.com/articles/32853-quietus-subscriber-discount)
 * [2023-04-20, 18:38:16](https://news.ycombinator.com/item?id=35644282) - [Companies Producing Biopolymers for Packaging](https://tderflinger.com/en/companies-producing-biopolymers-for-packaging/)
 * [2023-04-20, 18:19:22](https://news.ycombinator.com/item?id=35644014) - [The NIH poured $1B into long Covid research, with little to show for it](https://www.statnews.com/2023/04/20/long-covid-nih-billion/)
 * [2023-04-20, 18:15:53](https://news.ycombinator.com/item?id=35643959) - [Embedding Archives: Millions of Wikipedia Article Embeddings in Many Languages](https://txt.cohere.com/embedding-archives-wikipedia/)
