@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
 * [2023-04-20, 13:34:53](https://news.ycombinator.com/item?id=35639673) - [Tech CEO Applauds an Employee Selling Their Dog to Accommodate Return-to-Office](https://gizmodo.com/clearlink-ceo-clarke-sell-your-dog-for-the-office-1850353910)
+* [2023-04-20, 13:09:13](https://news.ycombinator.com/item?id=35639370) - [Shutting down my legal torrent site after 17 years](https://www.legittorrents.info/)
 * [2023-04-20, 12:44:18](https://news.ycombinator.com/item?id=35639068) - [Michael Schumacher&#x27;s family take legal action over AI-generated interview](https://www.skysports.com/f1/news/12433/12861595/michael-schumachers-family-to-take-legal-action-over-german-magazines-ai-generated-interview)
 * [2023-04-20, 12:44:12](https://news.ycombinator.com/item?id=35639066) - [Avoiding Food Waste Confusion](https://seths.blog/2023/04/profiting-from-food-waste-confusion/)
 * [2023-04-20, 12:27:00](https://news.ycombinator.com/item?id=35638917) - [Mullvad VPN was subject to a search warrant](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-20, 13:34:53](https://news.ycombinator.com/item?id=35639673) - [Tech CEO Applauds an Employee Selling Their Dog to Accommodate Return-to-Office](https://gizmodo.com/clearlink-ceo-clarke-sell-your-dog-for-the-office-1850353910)
+* [2023-04-20, 13:09:13](https://news.ycombinator.com/item?id=35639370) - [Shutting down my legal torrent site after 17 years](https://www.legittorrents.info/)
 * [2023-04-20, 12:44:18](https://news.ycombinator.com/item?id=35639068) - [Michael Schumacher&#x27;s family take legal action over AI-generated interview](https://www.skysports.com/f1/news/12433/12861595/michael-schumachers-family-to-take-legal-action-over-german-magazines-ai-generated-interview)
 * [2023-04-20, 12:44:12](https://news.ycombinator.com/item?id=35639066) - [Avoiding Food Waste Confusion](https://seths.blog/2023/04/profiting-from-food-waste-confusion/)
 * [2023-04-20, 12:27:00](https://news.ycombinator.com/item?id=35638917) - [Mullvad VPN was subject to a search warrant](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
@@ -13,7 +14,6 @@
 * [2023-04-20, 03:34:09](https://news.ycombinator.com/item?id=35636052) - [POSSE: Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 * [2023-04-20, 03:06:31](https://news.ycombinator.com/item?id=35635900) - [PC Engines EOL](https://www.pcengines.ch/eol.htm)
 * [2023-04-20, 03:04:28](https://news.ycombinator.com/item?id=35635884) - [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
-* [2023-04-20, 02:08:51](https://news.ycombinator.com/item?id=35635538) - [No DNS address record found for repo.maven.apache.org](https://www.nslookup.io/domains/repo.maven.apache.org/dns-records/)
 * [2023-04-20, 01:59:48](https://news.ycombinator.com/item?id=35635491) - [Only one pair of distinct positive integers satisfy the equation m^n = n^m](https://keith-mcnulty.medium.com/only-one-pair-of-distinct-integers-satisfy-this-equation-76ea45469a96)
 * [2023-04-20, 01:49:00](https://news.ycombinator.com/item?id=35635430) - [Richer UI install available for desktop](https://developer.chrome.com/blog/richer-install-ui-desktop/)
 * [2023-04-20, 01:12:10](https://news.ycombinator.com/item?id=35635225) - [Autonomous Agents and Agent Simulations](https://blog.langchain.dev/agents-round/)
