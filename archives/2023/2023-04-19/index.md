@@ -54,6 +54,7 @@
 * [2023-04-19, 12:05:12](https://news.ycombinator.com/item?id=35627102) - [The secret list of websites that make AI chatbots sound smart](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/)
 * [2023-04-19, 12:00:25](https://news.ycombinator.com/item?id=35627071) - [Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
 * [2023-04-19, 11:52:15](https://news.ycombinator.com/item?id=35627005) - [In 1930, the 22M-pound Indiana Bell building was rotated 90 degrees](https://mastodon.social/@Miriamm/110221714996508234)
+* [2023-04-19, 11:41:17](https://news.ycombinator.com/item?id=35626943) - [How Philly Cheesesteaks Became Big in Lahore, Pakistan](https://www.phillymag.com/news/2023/04/08/philly-cheesesteaks-lahore-pakistan/)
 * [2023-04-19, 11:15:02](https://news.ycombinator.com/item?id=35626783) - [Gezellig – a word that encompasses the heart of Dutch Culture](https://www.dutchamsterdam.nl/155-gezellig)
 * [2023-04-19, 11:11:32](https://news.ycombinator.com/item?id=35626755) - [Why Some Researchers Think I’m Wrong About Social Media and Mental Illness](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong)
 * [2023-04-19, 09:59:41](https://news.ycombinator.com/item?id=35626312) - [ChatPDF – Chat with Any PDF](https://www.chatpdf.com)
