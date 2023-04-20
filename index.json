@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-04-19, 20:48:47",
-      "https://news.ycombinator.com/item?id=35633152"
-    ],
-    [
-      "Intranasal vaccine confers broad mucosal and systemic immunity against SARS-CoV2",
-      "https://www.nature.com/articles/s41392-023-01423-6"
-    ]
-  ],
-  [
-    [
       "2023-04-19, 20:10:27",
       "https://news.ycombinator.com/item?id=35632721"
     ],
@@ -247,6 +237,16 @@
     [
       "More optimizations in the compiler and JIT",
       "https://www.erlang.org/blog/more-optimizations/"
+    ]
+  ],
+  [
+    [
+      "2023-04-19, 06:10:56",
+      "https://news.ycombinator.com/item?id=35624805"
+    ],
+    [
+      "A Love Letter to Make",
+      "https://kmaasrud.com/blog/make"
     ]
   ],
   [
