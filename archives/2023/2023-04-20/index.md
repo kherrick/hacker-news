@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 13:58:04](https://news.ycombinator.com/item?id=35640002) - [SpaceX giant rocket explodes minutes after launch from Texas](https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2)
+* [2023-04-20, 13:50:30](https://news.ycombinator.com/item?id=35639893) - [Study links &#x27;stuck&#x27; stem cells to hair turning gray](https://phys.org/news/2023-04-links-stuck-stem-cells-hair.html)
 * [2023-04-20, 13:34:53](https://news.ycombinator.com/item?id=35639673) - [Tech CEO Applauds an Employee Selling Their Dog to Accommodate Return-to-Office](https://gizmodo.com/clearlink-ceo-clarke-sell-your-dog-for-the-office-1850353910)
 * [2023-04-20, 13:09:13](https://news.ycombinator.com/item?id=35639370) - [Shutting down my legal torrent site after 17 years](https://www.legittorrents.info/)
 * [2023-04-20, 12:44:18](https://news.ycombinator.com/item?id=35639068) - [Michael Schumacher&#x27;s family take legal action over AI-generated interview](https://www.skysports.com/f1/news/12433/12861595/michael-schumachers-family-to-take-legal-action-over-german-magazines-ai-generated-interview)
