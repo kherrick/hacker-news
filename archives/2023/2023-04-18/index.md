@@ -78,6 +78,7 @@
 * [2023-04-18, 09:53:10](https://news.ycombinator.com/item?id=35611923) - [Marginalia: Search the Internet](https://search.marginalia.nu/)
 * [2023-04-18, 09:44:36](https://news.ycombinator.com/item?id=35611856) - [High Speed Printed Circuit Board (PCB) Design Guidelines](https://www.pcb-hero.com/blogs/lickys-column/high-speed-printed-circuit-board-pcb-design-guidelines)
 * [2023-04-18, 09:35:55](https://news.ycombinator.com/item?id=35611806) - [Europe needs energy. Moroccan solar may be a clean solution](https://www.washingtonpost.com/climate-solutions/2023/04/13/morocco-europe-solar-desert/)
+* [2023-04-18, 09:32:27](https://news.ycombinator.com/item?id=35611775) - [The Ancient Order of Bali](https://www.damninteresting.com/the-ancient-order-of-bali/)
 * [2023-04-18, 09:28:32](https://news.ycombinator.com/item?id=35611739) - [GitHub Has Problems Again](https://www.githubstatus.com/incidents/k1qts16jgtcp)
 * [2023-04-18, 09:22:33](https://news.ycombinator.com/item?id=35611710) - [Don&#x27;t write clean code, write CRISP code](https://bitfieldconsulting.com/golang/crisp-code)
 * [2023-04-18, 09:13:21](https://news.ycombinator.com/item?id=35611662) - [OpenWRT 22.03.4](https://github.com/openwrt/openwrt/releases/tag/v22.03.4)
