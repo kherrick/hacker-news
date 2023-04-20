@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 15:18:25](https://news.ycombinator.com/item?id=35641448) - [BuzzFeed News Is Shutting Down](https://www.thedailybeast.com/buzzfeed-news-is-shutting-down)
 * [2023-04-20, 14:32:56](https://news.ycombinator.com/item?id=35640628) - [The Rust Performance Book (2020)](https://nnethercote.github.io/perf-book/)
+* [2023-04-20, 14:23:16](https://news.ycombinator.com/item?id=35640462) - [Stop Irreversible Damage to the Amazon](https://www.junglekeepers.org/)
 * [2023-04-20, 14:21:13](https://news.ycombinator.com/item?id=35640427) - [Smuggling of silkworm eggs into the Byzantine Empire](https://en.wikipedia.org/wiki/Smuggling_of_silkworm_eggs_into_the_Byzantine_Empire)
 * [2023-04-20, 14:19:25](https://news.ycombinator.com/item?id=35640390) - [Starship experienced a rapid unscheduled disassembly before stage separation](https://twitter.com/SpaceX/status/1649045802332073986)
 * [2023-04-20, 14:03:02](https://news.ycombinator.com/item?id=35640095) - [SpaceX&#x27;s rocket Starship explodes 4 minutes after liftoff](https://www.npr.org/2023/04/20/1170983959/spacex-starship-launch-elon-musk)
