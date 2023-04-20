@@ -68,6 +68,7 @@
 * [2023-04-19, 08:11:43](https://news.ycombinator.com/item?id=35625656) - [Erlang: More Optimizations in the Compiler and JIT](https://www.erlang.org/blog/more-optimizations/)
 * [2023-04-19, 07:54:46](https://news.ycombinator.com/item?id=35625543) - [How to Make Good Small Games](http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html)
 * [2023-04-19, 06:49:34](https://news.ycombinator.com/item?id=35625065) - [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
+* [2023-04-19, 06:46:28](https://news.ycombinator.com/item?id=35625038) - [Black Holes of Information](https://duerrenberger.dev/blog/2023/02/28/black-holes-of-information/)
 * [2023-04-19, 06:26:27](https://news.ycombinator.com/item?id=35624899) - [Defining interfaces in C++ with ‘concepts’ (C++20)](https://lemire.me/blog/2023/04/18/defining-interfaces-in-c-with-concepts-c20/)
 * [2023-04-19, 06:10:56](https://news.ycombinator.com/item?id=35624805) - [A Love Letter to Make](https://kmaasrud.com/blog/make)
 * [2023-04-19, 05:35:31](https://news.ycombinator.com/item?id=35624611) - [Rpmalloc – General Purpose Memory Allocator](https://github.com/mjansson/rpmalloc)
