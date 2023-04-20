@@ -18,7 +18,6 @@
 * [2023-04-19, 21:23:12](https://news.ycombinator.com/item?id=35633490) - [Building telescopes on the Moon could transform astronomy](https://theconversation.com/building-telescopes-on-the-moon-could-transform-astronomy-and-its-becoming-an-achievable-goal-203308)
 * [2023-04-19, 21:04:49](https://news.ycombinator.com/item?id=35633316) - [GPT-3 Creative Fiction (2020)](https://gwern.net/gpt-3)
 * [2023-04-19, 20:10:27](https://news.ycombinator.com/item?id=35632721) - [Satellite takes image of another satellite](https://twitter.com/NASA_Landsat/status/1642954595377750027)
-* [2023-04-19, 19:10:02](https://news.ycombinator.com/item?id=35632058) - [Qantas is bringing back Airbus A380s from the California desert](https://www.smh.com.au/business/companies/california-to-sydney-how-do-you-wake-an-a380-after-1000-days-in-the-desert-20221227-p5c8zp.html)
 * [2023-04-19, 17:52:06](https://news.ycombinator.com/item?id=35631151) - [Pop-shoot: Synthwave styled space shooter, inspired by 80s arcades](https://github.com/kiwphi/pop-shoot)
 * [2023-04-19, 16:50:38](https://news.ycombinator.com/item?id=35630423) - [User: Junnn11](https://en.wikipedia.org/wiki/User:Junnn11)
 * [2023-04-19, 16:14:04](https://news.ycombinator.com/item?id=35629972) - [Space Elevator](https://neal.fun/space-elevator/)
@@ -28,6 +27,7 @@
 * [2023-04-19, 06:10:56](https://news.ycombinator.com/item?id=35624805) - [A Love Letter to Make](https://kmaasrud.com/blog/make)
 * [2023-04-19, 05:35:31](https://news.ycombinator.com/item?id=35624611) - [Rpmalloc – General Purpose Memory Allocator](https://github.com/mjansson/rpmalloc)
 * [2023-04-18, 10:37:01](https://news.ycombinator.com/item?id=35612185) - [Remembering Virginia Norwood, the ‘Mother’ of NASA’s Landsat Program](https://www.engadget.com/remembering-virginia-norwood-the-mother-of-nasas-landsat-program-213705046.html)
+* [2023-04-18, 06:19:52](https://news.ycombinator.com/item?id=35610562) - [Almost three quarters of the golden age of Hollywood has been lost](https://www.historytoday.com/archive/missing-pieces/lost-movies)
 * [2023-04-17, 10:31:48](https://news.ycombinator.com/item?id=35598917) - [The Colorful Charm of Amiga Utility Disks](https://www.datagubbe.se/utildisks/)
 * [2023-04-17, 09:50:14](https://news.ycombinator.com/item?id=35598636) - [How Does an Intel Processor Boot? (2018)](https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/)
 
