@@ -2,6 +2,7 @@
 
 * [2023-04-20, 19:06:23](https://news.ycombinator.com/item?id=35644688) - [Mike Lindell firm told to pay $5M in ‘Prove Mike Wrong’ election-fraud challenge](https://www.washingtonpost.com/investigations/2023/04/20/mike-lindell-prove-wrong-contest/)
 * [2023-04-20, 19:03:01](https://news.ycombinator.com/item?id=35644635) - [Defining interfaces in C++: concepts versus inheritance](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/)
+* [2023-04-20, 18:54:03](https://news.ycombinator.com/item?id=35644504) - [Show HN: Play the front page of Hacker News as interactive text games](https://infinityarcade.com/news)
 * [2023-04-20, 18:38:16](https://news.ycombinator.com/item?id=35644282) - [Companies Producing Biopolymers for Packaging](https://tderflinger.com/en/companies-producing-biopolymers-for-packaging/)
 * [2023-04-20, 18:19:22](https://news.ycombinator.com/item?id=35644014) - [The NIH poured $1B into long Covid research, with little to show for it](https://www.statnews.com/2023/04/20/long-covid-nih-billion/)
 * [2023-04-20, 18:15:53](https://news.ycombinator.com/item?id=35643959) - [Embedding Archives: Millions of Wikipedia Article Embeddings in Many Languages](https://txt.cohere.com/embedding-archives-wikipedia/)
@@ -24,7 +25,6 @@
 * [2023-04-20, 12:27:00](https://news.ycombinator.com/item?id=35638917) - [Mullvad VPN was subject to a search warrant – customer data not compromised](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
 * [2023-04-20, 12:24:45](https://news.ycombinator.com/item?id=35638899) - [Seagate hit with $300M penalty for selling sanctioned storage to Huawei](https://www.theregister.com/2023/04/20/seagate_300million_huawei_shipment_settlement/)
 * [2023-04-20, 12:05:35](https://news.ycombinator.com/item?id=35638764) - [Proposed Renewal of the Registry Agreement for .NET](https://www.icann.org/en/public-comment/proceeding/proposed-renewal-of-the-registry-agreement-for-net-13-04-2023)
-* [2023-04-20, 11:03:09](https://news.ycombinator.com/item?id=35638362) - [US could soon approve MDMA therapy](https://www.nature.com/articles/d41586-023-01296-3)
 * [2023-04-20, 00:45:31](https://news.ycombinator.com/item?id=35635076) - [The Digital Ludeme Project: methods for the study of ancient board games](https://www.sciencedirect.com/science/article/pii/S2352409X23001803)
 * [2023-04-19, 20:07:33](https://news.ycombinator.com/item?id=35632676) - [The evolutionary innovations that wait millions of years to come good](https://www.theguardian.com/science/2023/apr/18/evolution-biology-sleeping-beauties-innovations-that-wait-millions-of-years-to-come-good)
 * [2023-04-19, 16:14:04](https://news.ycombinator.com/item?id=35629972) - [Space Elevator](https://neal.fun/space-elevator/)
