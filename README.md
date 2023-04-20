@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-20, 22:25:15](https://news.ycombinator.com/item?id=35647364) - [Tcl Programming&#x2F;Tk Examples](https://en.wikibooks.org/wiki/Tcl_Programming/Tk_examples)
 * [2023-04-20, 22:07:19](https://news.ycombinator.com/item?id=35647124) - [Saving Instagram images automatically every hour with Node.js or PHP](https://github.com/orsifrancesco/sniffagrammers)
 * [2023-04-20, 21:14:42](https://news.ycombinator.com/item?id=35646436) - [PyPI Introduces “Trusted Publishers”](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
 * [2023-04-20, 21:05:17](https://news.ycombinator.com/item?id=35646315) - [Revisiting the Fast Inverse Square Root – Is It Still Useful?](https://hllmn.net/blog/2023-04-20_rsqrt/)
@@ -28,7 +29,6 @@
 * [2023-04-19, 20:47:49](https://news.ycombinator.com/item?id=35633138) - [Untangling Andy Warhol (2020)](https://www.newyorker.com/magazine/2020/06/08/untangling-andy-warhol)
 * [2023-04-19, 12:05:12](https://news.ycombinator.com/item?id=35627102) - [Analyzing the websites that are used to train AI chatbots](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/)
 * [2023-04-19, 11:08:43](https://news.ycombinator.com/item?id=35626736) - [Conway&#x27;s Game of Life digital clock](https://copy.sh/life/?gist=f3413564b1fa9c69f2bad4b0400b8090&step=512)
-* [2023-04-19, 11:03:05](https://news.ycombinator.com/item?id=35626698) - [Review of James Coglan’s Building Git](https://alanstorm.com/review-of-james-coglands-building-git/)
 * [2023-04-19, 08:45:24](https://news.ycombinator.com/item?id=35625877) - [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)
 
 ## [Archives](archives/index.md)

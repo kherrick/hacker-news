@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 22:25:15](https://news.ycombinator.com/item?id=35647364) - [Tcl Programming&#x2F;Tk Examples](https://en.wikibooks.org/wiki/Tcl_Programming/Tk_examples)
 * [2023-04-20, 22:07:19](https://news.ycombinator.com/item?id=35647124) - [Saving Instagram images automatically every hour with Node.js or PHP](https://github.com/orsifrancesco/sniffagrammers)
 * [2023-04-20, 21:28:23](https://news.ycombinator.com/item?id=35646612) - [Why Perl?](https://two-wrongs.com/why-perl)
 * [2023-04-20, 21:14:42](https://news.ycombinator.com/item?id=35646436) - [PyPI Introduces “Trusted Publishers”](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
