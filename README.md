@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-20, 01:12:10](https://news.ycombinator.com/item?id=35635225) - [Autonomous Agents and Agent Simulations](https://blog.langchain.dev/agents-round/)
+* [2023-04-20, 01:09:30](https://news.ycombinator.com/item?id=35635209) - [Replit - How to train your own LLM Models](https://blog.replit.com/llm-training)
+* [2023-04-20, 00:36:09](https://news.ycombinator.com/item?id=35635017) - [Standoff over 95-year-old judge shows downside of lifetime jobs](https://news.bloomberglaw.com/us-law-week/standoff-over-95-year-old-judge-shows-downside-of-lifetime-jobs)
 * [2023-04-19, 23:39:41](https://news.ycombinator.com/item?id=35634673) - [How RocksDB Works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 * [2023-04-19, 23:16:32](https://news.ycombinator.com/item?id=35634497) - [Geneticists develop novel gene therapy for glaucoma](https://www.tcd.ie/news_events/articles/2023/novel-gene-therapy-shows-promise-for-treating-multiple-eye-diseases/)
 * [2023-04-19, 23:04:50](https://news.ycombinator.com/item?id=35634419) - [DinoV2: Meta’s Open Source State-of-the-art computer vision models](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)
 * [2023-04-19, 22:27:26](https://news.ycombinator.com/item?id=35634120) - [LlamaAcademy: Teach GPTs to understand API documentation with LoRA](https://github.com/danielgross/LlamaAcademy)
 * [2023-04-19, 22:08:11](https://news.ycombinator.com/item?id=35633934) - [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code)
-* [2023-04-19, 21:58:10](https://news.ycombinator.com/item?id=35633827) - [A newfound discomfort with hypertext](https://maya.land/monologues/2023/03/21/hypertext-hostility.html)
 * [2023-04-19, 21:23:12](https://news.ycombinator.com/item?id=35633490) - [Building telescopes on the Moon could transform astronomy](https://theconversation.com/building-telescopes-on-the-moon-could-transform-astronomy-and-its-becoming-an-achievable-goal-203308)
 * [2023-04-19, 21:04:49](https://news.ycombinator.com/item?id=35633316) - [GPT-3 Creative Fiction](https://gwern.net/gpt-3)
 * [2023-04-19, 20:48:47](https://news.ycombinator.com/item?id=35633152) - [Intranasal vaccine confers broad mucosal and systemic immunity against SARS-CoV2](https://www.nature.com/articles/s41392-023-01423-6)
@@ -20,7 +22,6 @@
 * [2023-04-19, 15:34:09](https://news.ycombinator.com/item?id=35629474) - [Street Votes: A proposed response to Ireland&#x27;s housing crisis](https://www.thefitzwilliam.com/p/a-simple-and-elegant-response-to)
 * [2023-04-19, 15:10:47](https://news.ycombinator.com/item?id=35629127) - [StableLM: A new open-source language model](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
 * [2023-04-19, 15:09:48](https://news.ycombinator.com/item?id=35629114) - [DIY Neurotech: Making BCI open-source thrusts brain-signal into a maker’s world](https://spectrum.ieee.org/neurotechnology-diy)
-* [2023-04-19, 13:19:43](https://news.ycombinator.com/item?id=35627779) - [Most of my skills are now worth nothing, but 10% are worth 1000x](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0)
 * [2023-04-19, 12:05:50](https://news.ycombinator.com/item?id=35627107) - [Making a Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 11:52:15](https://news.ycombinator.com/item?id=35627005) - [In 1930, the 22M-pound Indiana Bell building was rotated 90 degrees](https://mastodon.social/@Miriamm/110221714996508234)
 * [2023-04-19, 11:11:32](https://news.ycombinator.com/item?id=35626755) - [Why some researchers think I’m wrong about social media and mental illness](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong)
@@ -28,8 +29,7 @@
 * [2023-04-19, 05:17:21](https://news.ycombinator.com/item?id=35624511) - [The Origins of Creativity](https://www.newyorker.com/magazine/2023/04/24/the-cult-of-creativity-samuel-weil-franklin-book-review)
 * [2023-04-18, 06:19:52](https://news.ycombinator.com/item?id=35610562) - [Almost three quarters of the golden age of Hollywood has been lost](https://www.historytoday.com/archive/missing-pieces/lost-movies)
 * [2023-04-18, 06:02:37](https://news.ycombinator.com/item?id=35610466) - [The Lotus Sutra Project: Conserving and Digitising 800 Manuscripts](https://blogs.bl.uk/asian-and-african/2023/04/the-lotus-sutra-project-conserving-and-digitising-800-manuscripts-in-the-british-library.html)
-* [2023-04-18, 02:11:35](https://news.ycombinator.com/item?id=35609150) - [Mini-States and Micro-Sovereignty: Democracies in East Central Europe, 1918–1923](https://www.cambridge.org/core/journals/contemporary-european-history/article/ministates-and-microsovereignty-local-democracies-in-east-central-europe-19181923/68ECB1DC9F610696C966B63C9CE2B736)
-* [2023-04-17, 02:02:58](https://news.ycombinator.com/item?id=35596069) - [Horrible Code, Clean Performance](https://johnnysswlab.com/horrible-code-clean-performance/)
+* [2023-04-17, 09:50:14](https://news.ycombinator.com/item?id=35598636) - [How Does an Intel Processor Boot? (2018)](https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/)
 
 ## [Archives](archives/index.md)
 
