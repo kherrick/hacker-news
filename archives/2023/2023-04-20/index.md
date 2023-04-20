@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 17:23:35](https://news.ycombinator.com/item?id=35643219) - [Bark – GPT-style realistic multilingual text-to-speech generation](https://github.com/suno-ai/bark)
 * [2023-04-20, 17:17:56](https://news.ycombinator.com/item?id=35643150) - [California Defaults on $18.5B Debt, Leaving Businesses Holding the Bag](https://www.hoover.org/research/california-defaults-185-billion-debt-leaving-state-businesses-holding-bag)
 * [2023-04-20, 17:11:36](https://news.ycombinator.com/item?id=35643049) - [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
 * [2023-04-20, 17:06:45](https://news.ycombinator.com/item?id=35642994) - [Alphabet’s Google Combines AI Research Units Brain and DeepMind](https://www.wsj.com/articles/alphabets-google-combines-ai-research-units-brain-and-deepmind-620f4f7d)
+* [2023-04-20, 17:05:18](https://news.ycombinator.com/item?id=35642970) - [Astrophysicists Spot Einstein Rings That Boost Case for Axionic Dark Matter](https://gizmodo.com/axion-dark-matter-einstein-rings-gravitational-lens-1850356968)
 * [2023-04-20, 17:00:11](https://news.ycombinator.com/item?id=35642891) - [GoGoGrandparent (YC S16) is hiring a senior&#x2F;staff back end&#x2F;full-stack engineer](https://news.ycombinator.com/item?id=35642891)
 * [2023-04-20, 16:51:58](https://news.ycombinator.com/item?id=35642772) - [Software developer gets $5M judgement against My Pillow CEO Mike Lindell](https://www.cnn.com/2023/04/20/politics/mike-lindell-2020-election/index.html)
 * [2023-04-20, 16:47:30](https://news.ycombinator.com/item?id=35642712) - [In 1981, Intel released the iAPX 432](https://oldbytes.space/@kenshirriff/110231910098167742)
