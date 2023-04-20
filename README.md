@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-20, 17:17:56](https://news.ycombinator.com/item?id=35643150) - [California Defaults on $18.5B Debt, Leaving Businesses Holding the Bag](https://www.hoover.org/research/california-defaults-185-billion-debt-leaving-state-businesses-holding-bag)
 * [2023-04-20, 17:11:36](https://news.ycombinator.com/item?id=35643049) - [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
 * [2023-04-20, 17:06:45](https://news.ycombinator.com/item?id=35642994) - [Alphabet’s Google Combines AI Research Units Brain and DeepMind](https://www.wsj.com/articles/alphabets-google-combines-ai-research-units-brain-and-deepmind-620f4f7d)
 * [2023-04-20, 17:00:11](https://news.ycombinator.com/item?id=35642891) - [GoGoGrandparent (YC S16) is hiring a senior&#x2F;staff back end&#x2F;full-stack engineer](https://news.ycombinator.com/item?id=35642891)
@@ -28,7 +29,6 @@
 * [2023-04-19, 20:07:33](https://news.ycombinator.com/item?id=35632676) - [The evolutionary innovations that wait millions of years to come good](https://www.theguardian.com/science/2023/apr/18/evolution-biology-sleeping-beauties-innovations-that-wait-millions-of-years-to-come-good)
 * [2023-04-19, 16:14:04](https://news.ycombinator.com/item?id=35629972) - [Space Elevator](https://neal.fun/space-elevator/)
 * [2023-04-19, 15:10:47](https://news.ycombinator.com/item?id=35629127) - [StableLM: A new open-source language model](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
-* [2023-04-19, 08:45:24](https://news.ycombinator.com/item?id=35625877) - [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)
 * [2023-04-19, 06:46:28](https://news.ycombinator.com/item?id=35625038) - [Black Holes of Information](https://duerrenberger.dev/blog/2023/02/28/black-holes-of-information/)
 
 ## [Archives](archives/index.md)
