@@ -7,6 +7,7 @@
 * [2023-04-20, 18:19:22](https://news.ycombinator.com/item?id=35644014) - [The NIH poured $1B into long Covid research, with little to show for it](https://www.statnews.com/2023/04/20/long-covid-nih-billion/)
 * [2023-04-20, 17:56:49](https://news.ycombinator.com/item?id=35643705) - [Farmers ‘crippled’ by satellite failure as GPS-guided tractors grind to a halt](https://www.smh.com.au/national/farmers-crippled-by-satellite-failure-as-gps-guided-tractors-grind-to-a-halt-20230418-p5d1de.html)
 * [2023-04-20, 17:45:17](https://news.ycombinator.com/item?id=35643535) - [BuzzFeed News Is Shutting Down, Company Laying Off 180 Staffers](https://variety.com/2023/digital/news/buzzfeed-news-shutting-down-layoffs-1235589751/)
+* [2023-04-20, 17:44:58](https://news.ycombinator.com/item?id=35643529) - [Weight loss relapse associated with exposure to perfluoroalkylate substances](https://onlinelibrary.wiley.com/doi/10.1002/oby.23755)
 * [2023-04-20, 17:23:47](https://news.ycombinator.com/item?id=35643223) - [Show HN: How to Find the Best Bank for Your Needs](https://banklist.io/)
 * [2023-04-20, 17:23:35](https://news.ycombinator.com/item?id=35643219) - [Bark – GPT-style realistic multilingual text-to-speech generation](https://github.com/suno-ai/bark)
 * [2023-04-20, 17:17:56](https://news.ycombinator.com/item?id=35643150) - [California Defaults on $18.5B Debt, Leaving Businesses Holding the Bag](https://www.hoover.org/research/california-defaults-185-billion-debt-leaving-state-businesses-holding-bag)
