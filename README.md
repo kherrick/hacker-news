@@ -2,6 +2,7 @@
 
 * [2023-04-20, 03:04:28](https://news.ycombinator.com/item?id=35635884) - [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
 * [2023-04-20, 03:00:24](https://news.ycombinator.com/item?id=35635858) - [Replit (YC W18) Is Hiring to Rapidly Scale Infrastructure](https://replit.com/careers)
+* [2023-04-20, 02:40:37](https://news.ycombinator.com/item?id=35635720) - [Flanderization](https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization)
 * [2023-04-20, 02:17:31](https://news.ycombinator.com/item?id=35635591) - [Record Labels Panic as A.I. Generated Song Becomes Hit Single](https://darkfutura.substack.com/p/record-labels-panic-as-ai-generated)
 * [2023-04-20, 02:08:51](https://news.ycombinator.com/item?id=35635538) - [No DNS address record found for repo.maven.apache.org](https://www.nslookup.io/domains/repo.maven.apache.org/dns-records/)
 * [2023-04-20, 01:59:48](https://news.ycombinator.com/item?id=35635491) - [Only one pair of integers satisfy the equation m^n = n^m](https://keith-mcnulty.medium.com/only-one-pair-of-distinct-integers-satisfy-this-equation-76ea45469a96)
@@ -18,7 +19,6 @@
 * [2023-04-19, 20:47:49](https://news.ycombinator.com/item?id=35633137) - [How can some infinities be bigger than others?](https://www.quantamagazine.org/how-can-some-infinities-be-bigger-than-others-20230419/)
 * [2023-04-19, 20:10:27](https://news.ycombinator.com/item?id=35632721) - [Satellite takes image of another satellite](https://twitter.com/NASA_Landsat/status/1642954595377750027)
 * [2023-04-19, 19:10:02](https://news.ycombinator.com/item?id=35632058) - [Qantas is bringing back Airbus A380s from the California desert](https://www.smh.com.au/business/companies/california-to-sydney-how-do-you-wake-an-a380-after-1000-days-in-the-desert-20221227-p5c8zp.html)
-* [2023-04-19, 18:23:59](https://news.ycombinator.com/item?id=35631546) - [Basic math related to computation and memory usage for transformers](https://blog.eleuther.ai/transformer-math/)
 * [2023-04-19, 17:52:06](https://news.ycombinator.com/item?id=35631151) - [Pop-shoot: Synthwave styled space shooter, inspired by 80s arcades](https://github.com/kiwphi/pop-shoot)
 * [2023-04-19, 16:50:38](https://news.ycombinator.com/item?id=35630423) - [User: Junnn11](https://en.wikipedia.org/wiki/User:Junnn11)
 * [2023-04-19, 15:34:09](https://news.ycombinator.com/item?id=35629474) - [Street Votes: A proposed response to Ireland&#x27;s housing crisis](https://www.thefitzwilliam.com/p/a-simple-and-elegant-response-to)
