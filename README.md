@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-20, 03:34:50](https://news.ycombinator.com/item?id=35636058) - [The ‘Pity City’ CEO Is Sorry Now](https://www.vice.com/en/article/ak3gy8/the-pity-city-ceo-is-sorry-now)
+* [2023-04-20, 03:28:28](https://news.ycombinator.com/item?id=35636022) - [Colorado to require mediation before eviction for tenants on government aid](https://www.coloradopolitics.com/legislature/eviction-mediation-for-tenants/article_0e6f53d4-da36-11ed-b034-d3f775016274.html)
 * [2023-04-20, 03:06:31](https://news.ycombinator.com/item?id=35635900) - [PC Engines EOL](https://www.pcengines.ch/eol.htm)
 * [2023-04-20, 03:04:28](https://news.ycombinator.com/item?id=35635884) - [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
 * [2023-04-20, 03:00:24](https://news.ycombinator.com/item?id=35635858) - [Replit (YC W18) Is Hiring to Rapidly Scale Infrastructure](https://replit.com/careers)
@@ -24,7 +25,6 @@
 * [2023-04-19, 16:50:38](https://news.ycombinator.com/item?id=35630423) - [User: Junnn11](https://en.wikipedia.org/wiki/User:Junnn11)
 * [2023-04-19, 15:10:47](https://news.ycombinator.com/item?id=35629127) - [StableLM: A new open-source language model](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
 * [2023-04-19, 15:09:48](https://news.ycombinator.com/item?id=35629114) - [DIY Neurotech: Making BCI open-source thrusts brain-signal into a maker’s world](https://spectrum.ieee.org/neurotechnology-diy)
-* [2023-04-19, 12:29:48](https://news.ycombinator.com/item?id=35627299) - [Bro, Where&#x27;s My Marriage Plot](https://blgtylr.substack.com/p/bro-wheres-my-marriage-plot)
 * [2023-04-19, 11:41:17](https://news.ycombinator.com/item?id=35626943) - [How Philly Cheesesteaks Became Big in Lahore, Pakistan](https://www.phillymag.com/news/2023/04/08/philly-cheesesteaks-lahore-pakistan/)
 * [2023-04-19, 08:11:43](https://news.ycombinator.com/item?id=35625656) - [Erlang: More Optimizations in the Compiler and JIT](https://www.erlang.org/blog/more-optimizations/)
 * [2023-04-18, 07:15:28](https://news.ycombinator.com/item?id=35610935) - [Fourier Transform existed, but I never had intuitive understanding until now](https://sayingless.substack.com/p/fourier-transform-without-fetishizing)
