@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-20, 03:34:50",
+      "https://news.ycombinator.com/item?id=35636058"
+    ],
+    [
+      "The ‘Pity City’ CEO Is Sorry Now",
+      "https://www.vice.com/en/article/ak3gy8/the-pity-city-ceo-is-sorry-now"
+    ]
+  ],
+  [
+    [
       "2023-04-20, 03:06:31",
       "https://news.ycombinator.com/item?id=35635900"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2023-04-20, 02:28:08",
-      "https://news.ycombinator.com/item?id=35635637"
-    ],
-    [
-      "NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models",
-      "https://research.nvidia.com/labs/toronto-ai/NFLDM/"
-    ]
-  ],
-  [
-    [
       "2023-04-20, 02:08:51",
       "https://news.ycombinator.com/item?id=35635538"
     ],
@@ -67,6 +67,16 @@
     [
       "Only one pair of integers satisfy the equation m^n = n^m",
       "https://keith-mcnulty.medium.com/only-one-pair-of-distinct-integers-satisfy-this-equation-76ea45469a96"
+    ]
+  ],
+  [
+    [
+      "2023-04-20, 01:49:00",
+      "https://news.ycombinator.com/item?id=35635430"
+    ],
+    [
+      "Richer UI install available for desktop",
+      "https://developer.chrome.com/blog/richer-install-ui-desktop/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "DIY Neurotech: Making BCI open-source thrusts brain-signal into a maker’s world",
       "https://spectrum.ieee.org/neurotechnology-diy"
-    ]
-  ],
-  [
-    [
-      "2023-04-19, 12:05:50",
-      "https://news.ycombinator.com/item?id=35627107"
-    ],
-    [
-      "Making a Linux home server sleep on idle and wake on demand – the simple way",
-      "https://dgross.ca/blog/linux-home-server-auto-sleep/"
     ]
   ],
   [
