@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-20, 12:44:18](https://news.ycombinator.com/item?id=35639068) - [Michael Schumacher&#x27;s family take legal action over AI-generated interview](https://www.skysports.com/f1/news/12433/12861595/michael-schumachers-family-to-take-legal-action-over-german-magazines-ai-generated-interview)
 * [2023-04-20, 12:27:00](https://news.ycombinator.com/item?id=35638917) - [Mullvad VPN was subject to a search warrant](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
 * [2023-04-20, 12:25:10](https://news.ycombinator.com/item?id=35638902) - [Proton announces Proton Pass, a password manager](https://techcrunch.com/2023/04/20/proton-announces-proton-pass-a-password-manager/)
 * [2023-04-20, 12:24:45](https://news.ycombinator.com/item?id=35638899) - [Seagate hit with $300M penalty for selling sanctioned storage to Huawei](https://www.theregister.com/2023/04/20/seagate_300million_huawei_shipment_settlement/)
@@ -19,7 +20,6 @@
 * [2023-04-19, 23:39:41](https://news.ycombinator.com/item?id=35634673) - [How RocksDB Works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 * [2023-04-19, 23:16:32](https://news.ycombinator.com/item?id=35634497) - [Geneticists develop novel gene therapy for glaucoma](https://www.tcd.ie/news_events/articles/2023/novel-gene-therapy-shows-promise-for-treating-multiple-eye-diseases/)
 * [2023-04-19, 21:59:23](https://news.ycombinator.com/item?id=35633840) - [Uncleftish Beholding (1989)](https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish_beholding.html)
-* [2023-04-19, 20:10:27](https://news.ycombinator.com/item?id=35632721) - [Satellite takes image of another satellite](https://twitter.com/NASA_Landsat/status/1642954595377750027)
 * [2023-04-19, 16:50:38](https://news.ycombinator.com/item?id=35630423) - [User: Junnn11](https://en.wikipedia.org/wiki/User:Junnn11)
 * [2023-04-19, 16:14:04](https://news.ycombinator.com/item?id=35629972) - [Space Elevator](https://neal.fun/space-elevator/)
 * [2023-04-19, 15:10:47](https://news.ycombinator.com/item?id=35629127) - [StableLM: A new open-source language model](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
