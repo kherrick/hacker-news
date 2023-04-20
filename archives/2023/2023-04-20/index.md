@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
 * [2023-04-20, 02:27:27](https://news.ycombinator.com/item?id=35635633) - [Incidents of AIs going rogue and killing all the humans](https://aiincidentsreport.vercel.app/)
+* [2023-04-20, 02:08:51](https://news.ycombinator.com/item?id=35635538) - [No DNS address record found for repo.maven.apache.org](https://www.nslookup.io/domains/repo.maven.apache.org/dns-records/)
 * [2023-04-20, 01:59:48](https://news.ycombinator.com/item?id=35635491) - [Only one pair of integers satisfy the equation m^n = n^m](https://keith-mcnulty.medium.com/only-one-pair-of-distinct-integers-satisfy-this-equation-76ea45469a96)
 * [2023-04-20, 01:12:10](https://news.ycombinator.com/item?id=35635225) - [Autonomous Agents and Agent Simulations](https://blog.langchain.dev/agents-round/)
 * [2023-04-20, 01:09:30](https://news.ycombinator.com/item?id=35635209) - [Replit - How to train your own LLM Models](https://blog.replit.com/llm-training)

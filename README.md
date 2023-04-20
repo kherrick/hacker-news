@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-20, 02:27:27](https://news.ycombinator.com/item?id=35635633) - [Incidents of AIs going rogue and killing all the humans](https://aiincidentsreport.vercel.app/)
+* [2023-04-20, 02:08:51](https://news.ycombinator.com/item?id=35635538) - [No DNS address record found for repo.maven.apache.org](https://www.nslookup.io/domains/repo.maven.apache.org/dns-records/)
 * [2023-04-20, 01:59:48](https://news.ycombinator.com/item?id=35635491) - [Only one pair of integers satisfy the equation m^n = n^m](https://keith-mcnulty.medium.com/only-one-pair-of-distinct-integers-satisfy-this-equation-76ea45469a96)
 * [2023-04-20, 01:12:10](https://news.ycombinator.com/item?id=35635225) - [Autonomous Agents and Agent Simulations](https://blog.langchain.dev/agents-round/)
 * [2023-04-20, 01:09:30](https://news.ycombinator.com/item?id=35635209) - [Replit - How to train your own LLM Models](https://blog.replit.com/llm-training)
@@ -17,7 +18,6 @@
 * [2023-04-19, 19:10:02](https://news.ycombinator.com/item?id=35632058) - [Qantas is bringing back Airbus A380s from the California desert](https://www.smh.com.au/business/companies/california-to-sydney-how-do-you-wake-an-a380-after-1000-days-in-the-desert-20221227-p5c8zp.html)
 * [2023-04-19, 18:23:59](https://news.ycombinator.com/item?id=35631546) - [Basic math related to computation and memory usage for transformers](https://blog.eleuther.ai/transformer-math/)
 * [2023-04-19, 17:52:06](https://news.ycombinator.com/item?id=35631151) - [Pop-shoot: Synthwave styled space shooter, inspired by 80s arcades](https://github.com/kiwphi/pop-shoot)
-* [2023-04-19, 17:11:04](https://news.ycombinator.com/item?id=35630681) - [The GTK+3 port of GIMP is officially finished](https://twitter.com/zemarmot/status/1646272510701236229)
 * [2023-04-19, 17:00:45](https://news.ycombinator.com/item?id=35630550) - [Community Phone (YC W19): Hiring engineers to manage VoLTE, low latency systems](https://www.ycombinator.com/companies/community-phone-company/jobs/QpIGSM1-product-engineer)
 * [2023-04-19, 16:50:38](https://news.ycombinator.com/item?id=35630423) - [User: Junnn11](https://en.wikipedia.org/wiki/User:Junnn11)
 * [2023-04-19, 15:34:09](https://news.ycombinator.com/item?id=35629474) - [Street Votes: A proposed response to Ireland&#x27;s housing crisis](https://www.thefitzwilliam.com/p/a-simple-and-elegant-response-to)
