@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
 * [2023-04-20, 21:28:23](https://news.ycombinator.com/item?id=35646612) - [Why Perl?](https://two-wrongs.com/why-perl)
+* [2023-04-20, 21:14:42](https://news.ycombinator.com/item?id=35646436) - [PyPI Introduces “Trusted Publishers”](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
+* [2023-04-20, 21:05:17](https://news.ycombinator.com/item?id=35646315) - [Revisiting the Fast Inverse Square Root – Is It Still Useful?](https://hllmn.net/blog/2023-04-20_rsqrt/)
 * [2023-04-20, 21:00:30](https://news.ycombinator.com/item?id=35646253) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35646253)
 * [2023-04-20, 20:57:54](https://news.ycombinator.com/item?id=35646199) - [Spinning Diagrams with CSS](https://x.st/spinning-diagrams-with-css/)
 * [2023-04-20, 20:50:48](https://news.ycombinator.com/item?id=35646093) - [Diagnosing cancer by profiling the immune system](https://github.com/jostmey/msm)
 * [2023-04-20, 20:48:35](https://news.ycombinator.com/item?id=35646070) - [Show HN: Mage, Unlimited 50 Top AI Text-to-Image and GIF Models](https://www.mage.space)
+* [2023-04-20, 20:46:52](https://news.ycombinator.com/item?id=35646047) - [Large language models: Scaling laws and emergent properties](https://cthiriet.com/articles/scaling-laws)
 * [2023-04-20, 20:31:50](https://news.ycombinator.com/item?id=35645857) - [Babylon.js 6.0](https://www.babylonjs.com/)
 * [2023-04-20, 20:10:50](https://news.ycombinator.com/item?id=35645624) - [Rural Americans are importing tiny Japanese pickup trucks](https://www.economist.com/united-states/2023/04/20/rural-americans-are-importing-tiny-japanese-pickup-trucks)
 * [2023-04-20, 20:01:27](https://news.ycombinator.com/item?id=35645464) - [evidence.dev – Business Intelligence as Code](https://evidence.dev)

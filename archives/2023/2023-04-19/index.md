@@ -16,6 +16,7 @@
 * [2023-04-19, 21:04:49](https://news.ycombinator.com/item?id=35633316) - [GPT-3 Creative Fiction](https://gwern.net/gpt-3)
 * [2023-04-19, 20:55:29](https://news.ycombinator.com/item?id=35633212) - [Ranking of Most Polluted Cities in the US by American Lung Association Research](https://www.lung.org/research/sota/city-rankings/most-polluted-cities)
 * [2023-04-19, 20:48:47](https://news.ycombinator.com/item?id=35633152) - [Intranasal vaccine confers broad mucosal and systemic immunity against SARS-CoV2](https://www.nature.com/articles/s41392-023-01423-6)
+* [2023-04-19, 20:47:49](https://news.ycombinator.com/item?id=35633138) - [Untangling Andy Warhol (2020)](https://www.newyorker.com/magazine/2020/06/08/untangling-andy-warhol)
 * [2023-04-19, 20:47:49](https://news.ycombinator.com/item?id=35633137) - [How can some infinities be bigger than others?](https://www.quantamagazine.org/how-can-some-infinities-be-bigger-than-others-20230419/)
 * [2023-04-19, 20:10:27](https://news.ycombinator.com/item?id=35632721) - [Satellite Takes Image of Another Satellite](https://twitter.com/NASA_Landsat/status/1642954595377750027)
 * [2023-04-19, 20:07:33](https://news.ycombinator.com/item?id=35632676) - [The evolutionary innovations that wait millions of years to come good](https://www.theguardian.com/science/2023/apr/18/evolution-biology-sleeping-beauties-innovations-that-wait-millions-of-years-to-come-good)
