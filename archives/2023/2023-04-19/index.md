@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 23:39:41](https://news.ycombinator.com/item?id=35634673) - [How RocksDB Works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
+* [2023-04-19, 23:16:32](https://news.ycombinator.com/item?id=35634497) - [Geneticists develop novel gene therapy for glaucoma](https://www.tcd.ie/news_events/articles/2023/novel-gene-therapy-shows-promise-for-treating-multiple-eye-diseases/)
 * [2023-04-19, 23:04:50](https://news.ycombinator.com/item?id=35634419) - [DinoV2: Meta’s Open Source State-of-the-art computer vision models](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)
 * [2023-04-19, 22:27:26](https://news.ycombinator.com/item?id=35634120) - [LlamaAcademy: Teach GPTs to understand API documentation with LoRA](https://github.com/danielgross/LlamaAcademy)
 * [2023-04-19, 22:08:11](https://news.ycombinator.com/item?id=35633934) - [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code)
@@ -58,6 +60,7 @@
 * [2023-04-19, 09:41:25](https://news.ycombinator.com/item?id=35626214) - [The iPhone Setting Thieves Use to Lock You Out of Your Apple Account](https://www.wsj.com/articles/the-iphone-setting-thieves-use-to-lock-you-out-of-your-apple-account-716d350d)
 * [2023-04-19, 09:09:07](https://news.ycombinator.com/item?id=35626015) - [Offline Is Just Online with Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
 * [2023-04-19, 09:07:24](https://news.ycombinator.com/item?id=35626005) - [Origin Of The Abbreviation I18n: Jan Scherpenhuizen =&gt; S12n @ DEC (2002)](http://www.i18nguy.com/origini18n.html)
+* [2023-04-19, 08:11:43](https://news.ycombinator.com/item?id=35625656) - [Erlang: More Optimizations in the Compiler and JIT](https://www.erlang.org/blog/more-optimizations/)
 * [2023-04-19, 07:54:46](https://news.ycombinator.com/item?id=35625543) - [How to Make Good Small Games](http://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html)
 * [2023-04-19, 06:49:34](https://news.ycombinator.com/item?id=35625065) - [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
 * [2023-04-19, 06:26:27](https://news.ycombinator.com/item?id=35624899) - [Defining interfaces in C++ with ‘concepts’ (C++20)](https://lemire.me/blog/2023/04/18/defining-interfaces-in-c-with-concepts-c20/)
