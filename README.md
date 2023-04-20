@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-20, 06:41:02](https://news.ycombinator.com/item?id=35637085) - [Show HN: Create Comics Using Stable Diffusion](https://www.comicsmaker.ai)
 * [2023-04-20, 04:08:45](https://news.ycombinator.com/item?id=35636282) - [OpenAI’s hunger for data is coming back to bite it](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/)
 * [2023-04-20, 03:34:09](https://news.ycombinator.com/item?id=35636052) - [POSSE: Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 * [2023-04-20, 03:06:31](https://news.ycombinator.com/item?id=35635900) - [PC Engines EOL](https://www.pcengines.ch/eol.htm)
@@ -23,7 +24,6 @@
 * [2023-04-19, 16:50:38](https://news.ycombinator.com/item?id=35630423) - [User: Junnn11](https://en.wikipedia.org/wiki/User:Junnn11)
 * [2023-04-19, 15:34:09](https://news.ycombinator.com/item?id=35629474) - [Street Votes: A proposed response to Ireland&#x27;s housing crisis](https://www.thefitzwilliam.com/p/a-simple-and-elegant-response-to)
 * [2023-04-19, 15:10:47](https://news.ycombinator.com/item?id=35629127) - [StableLM: A new open-source language model](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
-* [2023-04-19, 12:05:50](https://news.ycombinator.com/item?id=35627107) - [Making a Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 11:41:17](https://news.ycombinator.com/item?id=35626943) - [Philly cheesesteaks became big in Lahore](https://www.phillymag.com/news/2023/04/08/philly-cheesesteaks-lahore-pakistan/)
 * [2023-04-19, 08:11:43](https://news.ycombinator.com/item?id=35625656) - [More optimizations in the compiler and JIT](https://www.erlang.org/blog/more-optimizations/)
 * [2023-04-18, 10:37:01](https://news.ycombinator.com/item?id=35612185) - [Remembering Virginia Norwood, the ‘Mother’ of NASA’s Landsat Program](https://www.engadget.com/remembering-virginia-norwood-the-mother-of-nasas-landsat-program-213705046.html)
