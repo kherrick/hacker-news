@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-04-20, 03:34:50",
-      "https://news.ycombinator.com/item?id=35636058"
-    ],
-    [
-      "The ‘Pity City’ CEO Is Sorry Now",
-      "https://www.vice.com/en/article/ak3gy8/the-pity-city-ceo-is-sorry-now"
-    ]
-  ],
-  [
-    [
       "2023-04-20, 03:34:09",
       "https://news.ycombinator.com/item?id=35636052"
     ],
     [
-      "Posse Is an Abbreviation for Publish (On Your) Own Site, Syndicate Elsewhere",
+      "POSSE: Publish on your Own Site, Syndicate Elsewhere",
       "https://indieweb.org/POSSE"
-    ]
-  ],
-  [
-    [
-      "2023-04-20, 03:28:28",
-      "https://news.ycombinator.com/item?id=35636022"
-    ],
-    [
-      "Colorado to require mediation before eviction for tenants on government aid",
-      "https://www.coloradopolitics.com/legislature/eviction-mediation-for-tenants/article_0e6f53d4-da36-11ed-b034-d3f775016274.html"
     ]
   ],
   [
@@ -67,16 +47,6 @@
     [
       "Flanderization",
       "https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization"
-    ]
-  ],
-  [
-    [
-      "2023-04-20, 02:28:08",
-      "https://news.ycombinator.com/item?id=35635637"
-    ],
-    [
-      "NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models",
-      "https://research.nvidia.com/labs/toronto-ai/NFLDM/"
     ]
   ],
   [
@@ -175,7 +145,7 @@
       "https://news.ycombinator.com/item?id=35633316"
     ],
     [
-      "GPT-3 Creative Fiction",
+      "GPT-3 Creative Fiction (2020)",
       "https://gwern.net/gpt-3"
     ]
   ],
@@ -187,6 +157,16 @@
     [
       "Intranasal vaccine confers broad mucosal and systemic immunity against SARS-CoV2",
       "https://www.nature.com/articles/s41392-023-01423-6"
+    ]
+  ],
+  [
+    [
+      "2023-04-19, 20:47:49",
+      "https://news.ycombinator.com/item?id=35633137"
+    ],
+    [
+      "How can some infinities be bigger than others?",
+      "https://www.quantamagazine.org/how-can-some-infinities-be-bigger-than-others-20230419/"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2023-04-19, 15:34:09",
+      "https://news.ycombinator.com/item?id=35629474"
+    ],
+    [
+      "Street Votes: A proposed response to Ireland&#x27;s housing crisis",
+      "https://www.thefitzwilliam.com/p/a-simple-and-elegant-response-to"
+    ]
+  ],
+  [
+    [
       "2023-04-19, 15:10:47",
       "https://news.ycombinator.com/item?id=35629127"
     ],
@@ -247,6 +237,16 @@
     [
       "DIY Neurotech: Making BCI open-source thrusts brain-signal into a maker’s world",
       "https://spectrum.ieee.org/neurotechnology-diy"
+    ]
+  ],
+  [
+    [
+      "2023-04-19, 12:05:50",
+      "https://news.ycombinator.com/item?id=35627107"
+    ],
+    [
+      "Making a Linux home server sleep on idle and wake on demand – the simple way",
+      "https://dgross.ca/blog/linux-home-server-auto-sleep/"
     ]
   ],
   [
