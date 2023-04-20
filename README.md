@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-20, 18:19:22](https://news.ycombinator.com/item?id=35644014) - [The NIH poured $1B into long Covid research, with little to show for it](https://www.statnews.com/2023/04/20/long-covid-nih-billion/)
+* [2023-04-20, 18:15:53](https://news.ycombinator.com/item?id=35643959) - [Embedding Archives: Millions of Wikipedia Article Embeddings in Many Languages](https://txt.cohere.com/embedding-archives-wikipedia/)
 * [2023-04-20, 17:56:49](https://news.ycombinator.com/item?id=35643705) - [Farmers ‘crippled’ by satellite failure as GPS-guided tractors grind to a halt](https://www.smh.com.au/national/farmers-crippled-by-satellite-failure-as-gps-guided-tractors-grind-to-a-halt-20230418-p5d1de.html)
 * [2023-04-20, 17:45:17](https://news.ycombinator.com/item?id=35643535) - [BuzzFeed News Is Shutting Down, Company Laying Off 180 Staffers](https://variety.com/2023/digital/news/buzzfeed-news-shutting-down-layoffs-1235589751/)
 * [2023-04-20, 17:44:58](https://news.ycombinator.com/item?id=35643529) - [Weight loss relapse associated with exposure to perfluoroalkylate substances](https://onlinelibrary.wiley.com/doi/10.1002/oby.23755)
@@ -28,7 +29,6 @@
 * [2023-04-20, 00:45:31](https://news.ycombinator.com/item?id=35635076) - [The Digital Ludeme Project: methods for the study of ancient board games](https://www.sciencedirect.com/science/article/pii/S2352409X23001803)
 * [2023-04-19, 20:07:33](https://news.ycombinator.com/item?id=35632676) - [The evolutionary innovations that wait millions of years to come good](https://www.theguardian.com/science/2023/apr/18/evolution-biology-sleeping-beauties-innovations-that-wait-millions-of-years-to-come-good)
 * [2023-04-19, 16:14:04](https://news.ycombinator.com/item?id=35629972) - [Space Elevator](https://neal.fun/space-elevator/)
-* [2023-04-19, 15:10:47](https://news.ycombinator.com/item?id=35629127) - [StableLM: A new open-source language model](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
 * [2023-04-19, 06:46:28](https://news.ycombinator.com/item?id=35625038) - [Black Holes of Information](https://duerrenberger.dev/blog/2023/02/28/black-holes-of-information/)
 
 ## [Archives](archives/index.md)
