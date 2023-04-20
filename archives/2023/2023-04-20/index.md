@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 17:00:11](https://news.ycombinator.com/item?id=35642891) - [GoGoGrandparent (YC S16) is hiring a senior&#x2F;staff back end&#x2F;full-stack engineer](https://news.ycombinator.com/item?id=35642891)
 * [2023-04-20, 16:51:58](https://news.ycombinator.com/item?id=35642772) - [Software developer gets $5M judgement against My Pillow CEO Mike Lindell](https://www.cnn.com/2023/04/20/politics/mike-lindell-2020-election/index.html)
+* [2023-04-20, 16:47:30](https://news.ycombinator.com/item?id=35642712) - [In 1981, Intel released the iAPX 432](https://oldbytes.space/@kenshirriff/110231910098167742)
 * [2023-04-20, 16:33:54](https://news.ycombinator.com/item?id=35642529) - [Seagate violated export ban by shipping 7M disk drives to Huawei, US says](https://arstechnica.com/tech-policy/2023/04/seagate-violated-export-ban-by-shipping-7-million-disk-drives-to-huawei-us-says/)
 * [2023-04-20, 16:25:26](https://news.ycombinator.com/item?id=35642412) - [SpaceX launches its Starship rocket for the first time [Updated]](https://arstechnica.com/science/2023/04/spacex-to-make-a-second-attempt-to-launch-its-massive-starship-rocket/)
 * [2023-04-20, 15:18:25](https://news.ycombinator.com/item?id=35641448) - [BuzzFeed News Is Shutting Down](https://www.thedailybeast.com/buzzfeed-news-is-shutting-down)
