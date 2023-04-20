@@ -16,6 +16,7 @@
 * [2023-04-20, 14:21:13](https://news.ycombinator.com/item?id=35640427) - [Smuggling of silkworm eggs into the Byzantine Empire](https://en.wikipedia.org/wiki/Smuggling_of_silkworm_eggs_into_the_Byzantine_Empire)
 * [2023-04-20, 14:19:25](https://news.ycombinator.com/item?id=35640390) - [Starship experienced a rapid unscheduled disassembly before stage separation](https://twitter.com/SpaceX/status/1649045802332073986)
 * [2023-04-20, 14:16:22](https://news.ycombinator.com/item?id=35640325) - [Rear-Wheel-Drive Cars Are Back, Baby, and We Have EVs to Thank](https://www.thedrive.com/news/rear-wheel-drive-cars-are-back-baby-and-we-have-evs-to-thank)
+* [2023-04-20, 14:15:16](https://news.ycombinator.com/item?id=35640310) - [Ask HN: People who were laid off or quit recently, how are you doing?](https://news.ycombinator.com/item?id=35640310)
 * [2023-04-20, 14:03:02](https://news.ycombinator.com/item?id=35640095) - [SpaceX&#x27;s rocket Starship explodes 4 minutes after liftoff](https://www.npr.org/2023/04/20/1170983959/spacex-starship-launch-elon-musk)
 * [2023-04-20, 13:58:04](https://news.ycombinator.com/item?id=35640002) - [SpaceX giant rocket explodes minutes after launch from Texas](https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2)
 * [2023-04-20, 13:50:30](https://news.ycombinator.com/item?id=35639893) - [Study links &#x27;stuck&#x27; stem cells to hair turning gray](https://phys.org/news/2023-04-links-stuck-stem-cells-hair.html)
