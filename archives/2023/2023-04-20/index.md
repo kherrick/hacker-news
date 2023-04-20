@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 17:56:49](https://news.ycombinator.com/item?id=35643705) - [Farmers ‘crippled’ by satellite failure as GPS-guided tractors grind to a halt](https://www.smh.com.au/national/farmers-crippled-by-satellite-failure-as-gps-guided-tractors-grind-to-a-halt-20230418-p5d1de.html)
+* [2023-04-20, 17:23:47](https://news.ycombinator.com/item?id=35643223) - [Show HN: How to Find the Best Bank for Your Needs](https://banklist.io/)
 * [2023-04-20, 17:23:35](https://news.ycombinator.com/item?id=35643219) - [Bark – GPT-style realistic multilingual text-to-speech generation](https://github.com/suno-ai/bark)
 * [2023-04-20, 17:17:56](https://news.ycombinator.com/item?id=35643150) - [California Defaults on $18.5B Debt, Leaving Businesses Holding the Bag](https://www.hoover.org/research/california-defaults-185-billion-debt-leaving-state-businesses-holding-bag)
 * [2023-04-20, 17:11:36](https://news.ycombinator.com/item?id=35643049) - [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
@@ -59,4 +61,5 @@
 * [2023-04-20, 01:49:00](https://news.ycombinator.com/item?id=35635430) - [Richer UI install available for desktop](https://developer.chrome.com/blog/richer-install-ui-desktop/)
 * [2023-04-20, 01:12:10](https://news.ycombinator.com/item?id=35635225) - [Autonomous Agents and Agent Simulations](https://blog.langchain.dev/agents-round/)
 * [2023-04-20, 01:09:30](https://news.ycombinator.com/item?id=35635209) - [Replit - How to train your own LLM Models](https://blog.replit.com/llm-training)
+* [2023-04-20, 00:45:31](https://news.ycombinator.com/item?id=35635076) - [The Digital Ludeme Project: methods for the study of ancient board games](https://www.sciencedirect.com/science/article/pii/S2352409X23001803)
 * [2023-04-20, 00:36:09](https://news.ycombinator.com/item?id=35635017) - [Standoff over 95-year-old judge shows downside of lifetime jobs](https://news.bloomberglaw.com/us-law-week/standoff-over-95-year-old-judge-shows-downside-of-lifetime-jobs)
