@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-20, 13:34:53](https://news.ycombinator.com/item?id=35639673) - [Tech CEO Applauds an Employee Selling Their Dog to Accommodate Return-to-Office](https://gizmodo.com/clearlink-ceo-clarke-sell-your-dog-for-the-office-1850353910)
 * [2023-04-20, 12:44:18](https://news.ycombinator.com/item?id=35639068) - [Michael Schumacher&#x27;s family take legal action over AI-generated interview](https://www.skysports.com/f1/news/12433/12861595/michael-schumachers-family-to-take-legal-action-over-german-magazines-ai-generated-interview)
 * [2023-04-20, 12:44:12](https://news.ycombinator.com/item?id=35639066) - [Avoiding Food Waste Confusion](https://seths.blog/2023/04/profiting-from-food-waste-confusion/)
 * [2023-04-20, 12:27:00](https://news.ycombinator.com/item?id=35638917) - [Mullvad VPN was subject to a search warrant](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
@@ -16,7 +17,6 @@
 * [2023-04-20, 01:59:48](https://news.ycombinator.com/item?id=35635491) - [Only one pair of distinct positive integers satisfy the equation m^n = n^m](https://keith-mcnulty.medium.com/only-one-pair-of-distinct-integers-satisfy-this-equation-76ea45469a96)
 * [2023-04-20, 01:49:00](https://news.ycombinator.com/item?id=35635430) - [Richer UI install available for desktop](https://developer.chrome.com/blog/richer-install-ui-desktop/)
 * [2023-04-20, 01:12:10](https://news.ycombinator.com/item?id=35635225) - [Autonomous Agents and Agent Simulations](https://blog.langchain.dev/agents-round/)
-* [2023-04-20, 01:09:30](https://news.ycombinator.com/item?id=35635209) - [How to train your own large language models](https://blog.replit.com/llm-training)
 * [2023-04-19, 23:39:41](https://news.ycombinator.com/item?id=35634673) - [How RocksDB Works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 * [2023-04-19, 23:16:32](https://news.ycombinator.com/item?id=35634497) - [Geneticists develop novel gene therapy for glaucoma](https://www.tcd.ie/news_events/articles/2023/novel-gene-therapy-shows-promise-for-treating-multiple-eye-diseases/)
 * [2023-04-19, 21:59:23](https://news.ycombinator.com/item?id=35633840) - [Uncleftish Beholding (1989)](https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish_beholding.html)
