@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-20, 12:44:18](https://news.ycombinator.com/item?id=35639068) - [Michael Schumacher&#x27;s family take legal action over AI-generated interview](https://www.skysports.com/f1/news/12433/12861595/michael-schumachers-family-to-take-legal-action-over-german-magazines-ai-generated-interview)
+* [2023-04-20, 12:44:12](https://news.ycombinator.com/item?id=35639066) - [Avoiding Food Waste Confusion](https://seths.blog/2023/04/profiting-from-food-waste-confusion/)
 * [2023-04-20, 12:27:00](https://news.ycombinator.com/item?id=35638917) - [Mullvad VPN was subject to a search warrant](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
 * [2023-04-20, 12:25:10](https://news.ycombinator.com/item?id=35638902) - [Proton announces Proton Pass, a password manager](https://techcrunch.com/2023/04/20/proton-announces-proton-pass-a-password-manager/)
 * [2023-04-20, 12:24:45](https://news.ycombinator.com/item?id=35638899) - [Seagate hit with $300M penalty for selling sanctioned storage to Huawei](https://www.theregister.com/2023/04/20/seagate_300million_huawei_shipment_settlement/)
 * [2023-04-20, 12:05:35](https://news.ycombinator.com/item?id=35638764) - [Proposed Renewal of the Registry Agreement for .NET](https://www.icann.org/en/public-comment/proceeding/proposed-renewal-of-the-registry-agreement-for-net-13-04-2023)
-* [2023-04-20, 12:02:30](https://news.ycombinator.com/item?id=35638740) - [Google ordered to pay $500K to Montrealer over links calling him pedophile](https://montrealgazette.com/news/local-news/google-ordered-to-pay-500000-to-montrealer-over-links-to-post-calling-him-pedophile)
 * [2023-04-20, 11:03:09](https://news.ycombinator.com/item?id=35638362) - [US could soon approve MDMA therapy – opening an era of psychedelic medicine](https://www.nature.com/articles/d41586-023-01296-3)
 * [2023-04-20, 09:24:18](https://news.ycombinator.com/item?id=35637882) - [Starship Flight Test (Launch in 1 hour)](https://www.youtube.com/watch?v=-1wcilQ58hI)
 * [2023-04-20, 08:04:43](https://news.ycombinator.com/item?id=35637505) - [Waydev (YC W21) Is Hiring](https://www.ycombinator.com/companies/waydev/jobs/BFA4rwl-head-of-sales)

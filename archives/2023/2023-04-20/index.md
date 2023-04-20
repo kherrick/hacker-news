@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
 * [2023-04-20, 12:44:18](https://news.ycombinator.com/item?id=35639068) - [Michael Schumacher&#x27;s family take legal action over AI-generated interview](https://www.skysports.com/f1/news/12433/12861595/michael-schumachers-family-to-take-legal-action-over-german-magazines-ai-generated-interview)
+* [2023-04-20, 12:44:12](https://news.ycombinator.com/item?id=35639066) - [Avoiding Food Waste Confusion](https://seths.blog/2023/04/profiting-from-food-waste-confusion/)
 * [2023-04-20, 12:27:00](https://news.ycombinator.com/item?id=35638917) - [Mullvad VPN was subject to a search warrant](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
 * [2023-04-20, 12:25:10](https://news.ycombinator.com/item?id=35638902) - [Proton announces Proton Pass, a password manager](https://techcrunch.com/2023/04/20/proton-announces-proton-pass-a-password-manager/)
 * [2023-04-20, 12:24:45](https://news.ycombinator.com/item?id=35638899) - [Seagate hit with $300M penalty for selling sanctioned storage to Huawei](https://www.theregister.com/2023/04/20/seagate_300million_huawei_shipment_settlement/)
