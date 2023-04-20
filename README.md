@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-20, 19:31:50](https://news.ycombinator.com/item?id=35645047) - [Study finds new pathway for clearing misfolded proteins](https://news.stanford.edu/2023/04/20/study-finds-new-pathway-clearing-misfolded-proteins/)
+* [2023-04-20, 19:13:40](https://news.ycombinator.com/item?id=35644787) - [Canonical releases Ubuntu 23.04 Lunar Lobster](https://canonical.com/blog/canonical-releases-ubuntu-23-04-lunar-lobster)
 * [2023-04-20, 19:06:23](https://news.ycombinator.com/item?id=35644688) - [Mike Lindell firm told to pay $5M in ‘Prove Mike Wrong’ election-fraud challenge](https://www.washingtonpost.com/investigations/2023/04/20/mike-lindell-prove-wrong-contest/)
 * [2023-04-20, 19:03:01](https://news.ycombinator.com/item?id=35644635) - [Defining interfaces in C++: concepts versus inheritance](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/)
 * [2023-04-20, 18:54:03](https://news.ycombinator.com/item?id=35644504) - [Show HN: Play the front page of Hacker News as interactive text games](https://infinityarcade.com/news)
@@ -13,7 +15,6 @@
 * [2023-04-20, 17:23:47](https://news.ycombinator.com/item?id=35643223) - [Show HN: How to Find the Best Bank for Your Needs](https://banklist.io/)
 * [2023-04-20, 17:23:35](https://news.ycombinator.com/item?id=35643219) - [Bark – GPT-style realistic multilingual text-to-speech generation](https://github.com/suno-ai/bark)
 * [2023-04-20, 17:11:36](https://news.ycombinator.com/item?id=35643049) - [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
-* [2023-04-20, 17:06:45](https://news.ycombinator.com/item?id=35642994) - [Alphabet’s Google Combines AI Research Units Brain and DeepMind](https://www.wsj.com/articles/alphabets-google-combines-ai-research-units-brain-and-deepmind-620f4f7d)
 * [2023-04-20, 17:00:11](https://news.ycombinator.com/item?id=35642891) - [GoGoGrandparent (YC S16) is hiring a senior&#x2F;staff back end&#x2F;full-stack engineer](https://news.ycombinator.com/item?id=35642891)
 * [2023-04-20, 16:47:30](https://news.ycombinator.com/item?id=35642712) - [In 1981, Intel released the iAPX 432](https://oldbytes.space/@kenshirriff/110231910098167742)
 * [2023-04-20, 15:18:25](https://news.ycombinator.com/item?id=35641448) - [BuzzFeed News is shutting down](https://www.thedailybeast.com/buzzfeed-news-is-shutting-down)
@@ -24,7 +25,6 @@
 * [2023-04-20, 13:09:13](https://news.ycombinator.com/item?id=35639370) - [Shutting down my legal torrent site after 17 years](https://www.legittorrents.info/)
 * [2023-04-20, 12:27:00](https://news.ycombinator.com/item?id=35638917) - [Mullvad VPN was subject to a search warrant – customer data not compromised](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
 * [2023-04-20, 12:24:45](https://news.ycombinator.com/item?id=35638899) - [Seagate hit with $300M penalty for selling sanctioned storage to Huawei](https://www.theregister.com/2023/04/20/seagate_300million_huawei_shipment_settlement/)
-* [2023-04-20, 12:05:35](https://news.ycombinator.com/item?id=35638764) - [Proposed Renewal of the Registry Agreement for .NET](https://www.icann.org/en/public-comment/proceeding/proposed-renewal-of-the-registry-agreement-for-net-13-04-2023)
 * [2023-04-20, 00:45:31](https://news.ycombinator.com/item?id=35635076) - [The Digital Ludeme Project: methods for the study of ancient board games](https://www.sciencedirect.com/science/article/pii/S2352409X23001803)
 * [2023-04-19, 20:07:33](https://news.ycombinator.com/item?id=35632676) - [The evolutionary innovations that wait millions of years to come good](https://www.theguardian.com/science/2023/apr/18/evolution-biology-sleeping-beauties-innovations-that-wait-millions-of-years-to-come-good)
 * [2023-04-19, 16:14:04](https://news.ycombinator.com/item?id=35629972) - [Space Elevator](https://neal.fun/space-elevator/)

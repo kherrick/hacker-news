@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 19:31:50](https://news.ycombinator.com/item?id=35645047) - [Study finds new pathway for clearing misfolded proteins](https://news.stanford.edu/2023/04/20/study-finds-new-pathway-clearing-misfolded-proteins/)
+* [2023-04-20, 19:13:40](https://news.ycombinator.com/item?id=35644787) - [Canonical releases Ubuntu 23.04 Lunar Lobster](https://canonical.com/blog/canonical-releases-ubuntu-23-04-lunar-lobster)
 * [2023-04-20, 19:06:23](https://news.ycombinator.com/item?id=35644688) - [Mike Lindell firm told to pay $5M in ‘Prove Mike Wrong’ election-fraud challenge](https://www.washingtonpost.com/investigations/2023/04/20/mike-lindell-prove-wrong-contest/)
 * [2023-04-20, 19:03:01](https://news.ycombinator.com/item?id=35644635) - [Defining interfaces in C++: concepts versus inheritance](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/)
 * [2023-04-20, 19:02:34](https://news.ycombinator.com/item?id=35644631) - [Mortgage Rate jump up, slowing down the buyer market](https://thehill.com/business/3960981-mortgage-rates-rise-for-the-first-time-in-more-than-a-month/)
