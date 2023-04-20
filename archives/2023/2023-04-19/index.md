@@ -7,6 +7,7 @@
 * [2023-04-19, 23:39:41](https://news.ycombinator.com/item?id=35634673) - [How RocksDB Works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 * [2023-04-19, 23:16:32](https://news.ycombinator.com/item?id=35634497) - [Geneticists develop novel gene therapy for glaucoma](https://www.tcd.ie/news_events/articles/2023/novel-gene-therapy-shows-promise-for-treating-multiple-eye-diseases/)
 * [2023-04-19, 23:04:50](https://news.ycombinator.com/item?id=35634419) - [DinoV2: Meta’s Open Source State-of-the-art computer vision models](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)
+* [2023-04-19, 22:41:35](https://news.ycombinator.com/item?id=35634231) - [Transcendental Algebra (2017)](https://tck.mn/transalg/)
 * [2023-04-19, 22:27:26](https://news.ycombinator.com/item?id=35634120) - [LlamaAcademy: Teach GPTs to understand API documentation with LoRA](https://github.com/danielgross/LlamaAcademy)
 * [2023-04-19, 22:08:11](https://news.ycombinator.com/item?id=35633934) - [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code)
 * [2023-04-19, 21:59:23](https://news.ycombinator.com/item?id=35633840) - [Uncleftish Beholding (1989)](https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish_beholding.html)
