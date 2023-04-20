@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 04:08:45](https://news.ycombinator.com/item?id=35636282) - [OpenAI’s hunger for data is coming back to bite it](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/)
 * [2023-04-20, 03:34:50](https://news.ycombinator.com/item?id=35636058) - [The ‘Pity City’ CEO Is Sorry Now](https://www.vice.com/en/article/ak3gy8/the-pity-city-ceo-is-sorry-now)
 * [2023-04-20, 03:34:09](https://news.ycombinator.com/item?id=35636052) - [Posse Is an Abbreviation for Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 * [2023-04-20, 03:28:28](https://news.ycombinator.com/item?id=35636022) - [Colorado to require mediation before eviction for tenants on government aid](https://www.coloradopolitics.com/legislature/eviction-mediation-for-tenants/article_0e6f53d4-da36-11ed-b034-d3f775016274.html)
