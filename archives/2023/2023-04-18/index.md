@@ -73,6 +73,7 @@
 * [2023-04-18, 11:21:44](https://news.ycombinator.com/item?id=35612494) - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 * [2023-04-18, 11:14:47](https://news.ycombinator.com/item?id=35612440) - [Why I’m using a keyboard phone in 2023](https://www.theverge.com/23673548/keyboard-phone-2023-features-unihertz-titan-pocket)
 * [2023-04-18, 10:57:35](https://news.ycombinator.com/item?id=35612317) - [The Taxman Will Eventually Come for AI, Too](https://www.bloomberg.com/opinion/articles/2023-04-17/the-taxman-will-eventually-come-for-ai-too)
+* [2023-04-18, 10:37:01](https://news.ycombinator.com/item?id=35612185) - [Remembering Virginia Norwood, the ‘Mother’ of NASA’s Landsat Program](https://www.engadget.com/remembering-virginia-norwood-the-mother-of-nasas-landsat-program-213705046.html)
 * [2023-04-18, 09:53:27](https://news.ycombinator.com/item?id=35611925) - [What it&#x27;s like to go blind (2015)](https://www.vox.com/2015/4/10/8365853/blind-vision-loss)
 * [2023-04-18, 09:53:10](https://news.ycombinator.com/item?id=35611923) - [Marginalia: Search the Internet](https://search.marginalia.nu/)
 * [2023-04-18, 09:35:55](https://news.ycombinator.com/item?id=35611806) - [Europe needs energy. Moroccan solar may be a clean solution](https://www.washingtonpost.com/climate-solutions/2023/04/13/morocco-europe-solar-desert/)
