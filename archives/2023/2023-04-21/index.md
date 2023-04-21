@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 17:57:25](https://news.ycombinator.com/item?id=35657570) - [&#x27;Devastating&#x27; melt of Greenland, Antarctic ice sheets found](https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html)
 * [2023-04-21, 17:29:43](https://news.ycombinator.com/item?id=35657181) - [xPrize Wildfire – $11M Prize Competition](https://www.xprize.org/prizes/wildfire)
 * [2023-04-21, 17:01:02](https://news.ycombinator.com/item?id=35656726) - [Lago(YC): open-source Usage Based Billing – is hiring an Infrastructure Engineer](https://www.ycombinator.com/companies/lago/jobs/YL8DQw4-infrastructure-engineer)
 * [2023-04-21, 17:00:12](https://news.ycombinator.com/item?id=35656705) - [The coming war on end-to-end encryption](https://community.qbix.com/t/the-coming-war-on-end-to-end-encryption/214)
