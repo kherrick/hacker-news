@@ -91,6 +91,7 @@
 * [2023-04-20, 03:28:28](https://news.ycombinator.com/item?id=35636022) - [Colorado to require mediation before eviction for tenants on government aid](https://www.coloradopolitics.com/legislature/eviction-mediation-for-tenants/article_0e6f53d4-da36-11ed-b034-d3f775016274.html)
 * [2023-04-20, 03:06:31](https://news.ycombinator.com/item?id=35635900) - [PC Engines EOL](https://www.pcengines.ch/eol.htm)
 * [2023-04-20, 03:04:28](https://news.ycombinator.com/item?id=35635884) - [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
+* [2023-04-20, 03:02:38](https://news.ycombinator.com/item?id=35635871) - [Electric vehicles may be too heavy for old parking garages: report](https://www.foxnews.com/auto/electric-vehicles-heavy-parking-garages-report)
 * [2023-04-20, 03:00:24](https://news.ycombinator.com/item?id=35635858) - [Replit (YC W18) Is Hiring to Rapidly Scale Infrastructure](https://replit.com/careers)
 * [2023-04-20, 02:40:37](https://news.ycombinator.com/item?id=35635720) - [Flanderization](https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization)
 * [2023-04-20, 02:31:19](https://news.ycombinator.com/item?id=35635654) - [Glucomate: an app for people who record, track, and monitor their blood glucose](https://zachsim.one/blog/2023/4/19/introducing-glucomate)
