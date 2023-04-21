@@ -81,6 +81,7 @@
 * [2023-04-20, 06:41:02](https://news.ycombinator.com/item?id=35637085) - [Show HN: Create Comics Using Stable Diffusion](https://www.comicsmaker.ai)
 * [2023-04-20, 05:32:14](https://news.ycombinator.com/item?id=35636748) - [The Pawn’s Gambit: On adapting Stefan Zweig’s “Chess Story”](https://lareviewofbooks.org/article/the-pawns-gambit-on-adapting-stefan-zweigs-chess-story/)
 * [2023-04-20, 04:08:45](https://news.ycombinator.com/item?id=35636282) - [OpenAI’s hunger for data is coming back to bite it](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/)
+* [2023-04-20, 03:42:46](https://news.ycombinator.com/item?id=35636118) - [Preserving Bach&#x27;s Manuscripts](https://blogs.bl.uk/music/2023/03/preserving-bach.html)
 * [2023-04-20, 03:34:50](https://news.ycombinator.com/item?id=35636058) - [The ‘Pity City’ CEO Is Sorry Now](https://www.vice.com/en/article/ak3gy8/the-pity-city-ceo-is-sorry-now)
 * [2023-04-20, 03:34:09](https://news.ycombinator.com/item?id=35636052) - [Posse Is an Abbreviation for Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 * [2023-04-20, 03:28:28](https://news.ycombinator.com/item?id=35636022) - [Colorado to require mediation before eviction for tenants on government aid](https://www.coloradopolitics.com/legislature/eviction-mediation-for-tenants/article_0e6f53d4-da36-11ed-b034-d3f775016274.html)
