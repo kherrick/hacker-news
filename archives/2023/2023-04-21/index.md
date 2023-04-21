@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 17:29:43](https://news.ycombinator.com/item?id=35657181) - [xPrize Wildfire – $11M Prize Competition](https://www.xprize.org/prizes/wildfire)
 * [2023-04-21, 17:01:02](https://news.ycombinator.com/item?id=35656726) - [Lago(YC): open-source Usage Based Billing – is hiring an Infrastructure Engineer](https://www.ycombinator.com/companies/lago/jobs/YL8DQw4-infrastructure-engineer)
 * [2023-04-21, 17:00:12](https://news.ycombinator.com/item?id=35656705) - [The coming war on end-to-end encryption](https://community.qbix.com/t/the-coming-war-on-end-to-end-encryption/214)
+* [2023-04-21, 16:54:29](https://news.ycombinator.com/item?id=35656597) - [New technology could blow away GPT-4 and everything like it](https://www.zdnet.com/article/this-new-technology-could-blow-away-gpt-4-and-everything-like-it/)
 * [2023-04-21, 16:09:37](https://news.ycombinator.com/item?id=35655910) - [Scaling Databases at Activision [pdf]](https://static.sched.com/hosted_files/kccnceu2023/3d/KubeCon-2023-Scaling-Databases-Activision.pdf)
 * [2023-04-21, 16:01:35](https://news.ycombinator.com/item?id=35655780) - [Lyft to Cut at Least 1,200 Jobs in New Round of Layoffs to Reduce Costs](https://www.wsj.com/articles/lyft-to-cut-at-least-1-200-jobs-in-new-round-of-layoffs-to-reduce-costs-da423e53)
 * [2023-04-21, 15:32:44](https://news.ycombinator.com/item?id=35655282) - [The Earn IT Bill Is Back, Seeking to Scan Our Messages and Photos](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos)
@@ -36,6 +38,7 @@
 * [2023-04-21, 11:11:37](https://news.ycombinator.com/item?id=35652125) - [US warship collides with tugboat in disastrous launch](https://www.navytimes.com/news/your-navy/2023/04/19/future-lcs-cleveland-launches-strikes-tugboat/)
 * [2023-04-21, 10:32:50](https://news.ycombinator.com/item?id=35651871) - [Null Island Is One of the Most Visited Places on Earth. Too Bad It Doesn’t Exist](https://www.atlasobscura.com/articles/null-island-is-one-of-the-most-visited-places-on-earth-too-bad-it-doesnt-exist)
 * [2023-04-21, 10:17:32](https://news.ycombinator.com/item?id=35651791) - [Show HN: Gsubpy, an interpreter for subset of Python, written in Go](https://github.com/realyixuan/gsubpy)
+* [2023-04-21, 10:12:23](https://news.ycombinator.com/item?id=35651756) - [Athens Charter](https://en.wikipedia.org/wiki/Athens_Charter)
 * [2023-04-21, 07:26:37](https://news.ycombinator.com/item?id=35650732) - [Show HN: Uptrace – open-source APM (alternative to Datadog, NewRelic)](https://github.com/uptrace/uptrace)
 * [2023-04-21, 07:20:07](https://news.ycombinator.com/item?id=35650699) - [Office of the President of Mongolia (top to bottom text on the web)](https://president.mn/mng/)
 * [2023-04-21, 07:16:02](https://news.ycombinator.com/item?id=35650663) - [Inkscape is hiring: Accelerating the GTK4 migration](https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/)
