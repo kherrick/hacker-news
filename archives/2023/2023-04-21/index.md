@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 12:23:36](https://news.ycombinator.com/item?id=35652655) - [Can Rust Beat JavaScript in 2023?](https://joshuamo876.bearblog.dev/can-rust-beat-javascript-in-2023/)
+* [2023-04-21, 12:11:03](https://news.ycombinator.com/item?id=35652541) - [Atari 800XL Remake](https://revive-machines.com/index-en.html)
+* [2023-04-21, 12:06:51](https://news.ycombinator.com/item?id=35652513) - [Consciousness begins with feeling, not thinking](https://iai.tv/articles/consciousness-begins-with-feelings-hanna-damasio-auid-2462)
+* [2023-04-21, 11:59:45](https://news.ycombinator.com/item?id=35652452) - [SafeGPT: New tool to detect LLMs&#x27; hallucinations, biases and privacy issues](https://www.giskard.ai/safegpt)
 * [2023-04-21, 11:58:13](https://news.ycombinator.com/item?id=35652444) - [Large, creative AI models will transform lives and labour markets](https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work)
 * [2023-04-21, 11:57:39](https://news.ycombinator.com/item?id=35652434) - [ChatGPT could cost over $700k per day to operate](https://www.businessinsider.com/how-much-chatgpt-costs-openai-to-run-estimate-report-2023-4)
 * [2023-04-21, 11:11:37](https://news.ycombinator.com/item?id=35652125) - [US warship collides with tugboat in disastrous launch](https://www.navytimes.com/news/your-navy/2023/04/19/future-lcs-cleveland-launches-strikes-tugboat/)

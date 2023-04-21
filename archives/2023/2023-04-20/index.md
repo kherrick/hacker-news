@@ -53,6 +53,7 @@
 * [2023-04-20, 16:25:26](https://news.ycombinator.com/item?id=35642412) - [SpaceX launches its Starship rocket for the first time [Updated]](https://arstechnica.com/science/2023/04/spacex-to-make-a-second-attempt-to-launch-its-massive-starship-rocket/)
 * [2023-04-20, 15:18:25](https://news.ycombinator.com/item?id=35641448) - [BuzzFeed News Is Shutting Down](https://www.thedailybeast.com/buzzfeed-news-is-shutting-down)
 * [2023-04-20, 15:01:02](https://news.ycombinator.com/item?id=35641164) - [Show HN: CozoDB, Hybrid Relational-Graph-Vector DB, the Hippocampus for LLMs](https://docs.cozodb.org/en/latest/releases/v0.6.html)
+* [2023-04-20, 14:46:30](https://news.ycombinator.com/item?id=35640894) - [Career advice no one gave me: Give a lot of notice when you quit](https://davidlaprade.github.io/give-a-lot-of-notice)
 * [2023-04-20, 14:32:56](https://news.ycombinator.com/item?id=35640628) - [The Rust Performance Book (2020)](https://nnethercote.github.io/perf-book/)
 * [2023-04-20, 14:23:16](https://news.ycombinator.com/item?id=35640462) - [Stop Irreversible Damage to the Amazon](https://www.junglekeepers.org/)
 * [2023-04-20, 14:21:13](https://news.ycombinator.com/item?id=35640427) - [Smuggling of silkworm eggs into the Byzantine Empire](https://en.wikipedia.org/wiki/Smuggling_of_silkworm_eggs_into_the_Byzantine_Empire)
