@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-04-21, 02:01:29",
+      "https://news.ycombinator.com/item?id=35648982"
+    ],
+    [
+      "Peter Gabriel: AI competition statement",
+      "https://petergabriel.com/news/ai-competition-statement/"
+    ]
+  ],
+  [
+    [
+      "2023-04-21, 01:28:24",
+      "https://news.ycombinator.com/item?id=35648805"
+    ],
+    [
+      "AOLserver is America Online&#x27;s Open-Source web server",
+      "https://aolserver.github.io/"
+    ]
+  ],
+  [
+    [
+      "2023-04-21, 01:26:56",
+      "https://news.ycombinator.com/item?id=35648791"
+    ],
+    [
+      "Show HN: We built a stateful Kafka connector and tips for creating yours",
+      "https://bytewax.io/blog/custom-input-connector"
+    ]
+  ],
+  [
+    [
       "2023-04-21, 00:59:54",
       "https://news.ycombinator.com/item?id=35648589"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2023-04-20, 14:16:22",
-      "https://news.ycombinator.com/item?id=35640325"
-    ],
-    [
-      "Rear-wheel-drive cars are back and we have EVs to thank",
-      "https://www.thedrive.com/news/rear-wheel-drive-cars-are-back-baby-and-we-have-evs-to-thank"
-    ]
-  ],
-  [
-    [
       "2023-04-20, 13:58:04",
       "https://news.ycombinator.com/item?id=35640002"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-04-20, 11:03:09",
-      "https://news.ycombinator.com/item?id=35638362"
-    ],
-    [
-      "US could soon approve MDMA therapy",
-      "https://www.nature.com/articles/d41586-023-01296-3"
-    ]
-  ],
-  [
-    [
       "2023-04-20, 05:32:14",
       "https://news.ycombinator.com/item?id=35636748"
     ],
@@ -247,26 +257,6 @@
     [
       "Glucomate: an app for people who record, track, and monitor their blood glucose",
       "https://zachsim.one/blog/2023/4/19/introducing-glucomate"
-    ]
-  ],
-  [
-    [
-      "2023-04-19, 22:41:35",
-      "https://news.ycombinator.com/item?id=35634231"
-    ],
-    [
-      "Transcendental Algebra (2017)",
-      "https://tck.mn/transalg/"
-    ]
-  ],
-  [
-    [
-      "2023-04-19, 20:47:49",
-      "https://news.ycombinator.com/item?id=35633138"
-    ],
-    [
-      "Untangling Andy Warhol (2020)",
-      "https://www.newyorker.com/magazine/2020/06/08/untangling-andy-warhol"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Emacs standing alone on a Linux Kernel",
       "http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-19, 04:57:22",
+      "https://news.ycombinator.com/item?id=35624391"
+    ],
+    [
+      "Kootenay Barter – Banking on Each Other",
+      "https://lionhrt.tripod.com/barter.html"
     ]
   ]
 ]
