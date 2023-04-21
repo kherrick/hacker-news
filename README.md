@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-21, 07:20:07](https://news.ycombinator.com/item?id=35650699) - [Office of the President of Mongolia (top to bottom text on the web)](https://president.mn/mng/)
 * [2023-04-21, 07:16:02](https://news.ycombinator.com/item?id=35650663) - [Inkscape is hiring: Accelerating the GTK4 migration](https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/)
 * [2023-04-21, 07:00:07](https://news.ycombinator.com/item?id=35650563) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [World’s largest battery maker announces major breakthrough in energy density](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
@@ -11,7 +12,6 @@
 * [2023-04-21, 01:28:24](https://news.ycombinator.com/item?id=35648805) - [AOLserver is America Online&#x27;s Open-Source web server (2010)](https://aolserver.github.io/)
 * [2023-04-21, 00:54:10](https://news.ycombinator.com/item?id=35648544) - [WebGPU GPT Model Demo](https://www.kmeans.org/)
 * [2023-04-20, 23:13:00](https://news.ycombinator.com/item?id=35647779) - [Why are ethernet jumbo frames 9000 bytes? (2018)](https://blog.dave.tf/post/jumbo-frames/)
-* [2023-04-20, 21:28:23](https://news.ycombinator.com/item?id=35646612) - [Why Perl?](https://two-wrongs.com/why-perl)
 * [2023-04-20, 21:14:42](https://news.ycombinator.com/item?id=35646436) - [Introducing &#x27;Trusted Publishers&#x27;](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
 * [2023-04-20, 21:05:17](https://news.ycombinator.com/item?id=35646315) - [Revisiting the Fast Inverse Square Root – Is It Still Useful?](https://hllmn.net/blog/2023-04-20_rsqrt/)
 * [2023-04-20, 20:57:54](https://news.ycombinator.com/item?id=35646199) - [Spinning Diagrams with CSS](https://x.st/spinning-diagrams-with-css/)
@@ -21,7 +21,7 @@
 * [2023-04-20, 20:10:50](https://news.ycombinator.com/item?id=35645624) - [Rural Americans are importing tiny Japanese pickup trucks](https://www.economist.com/united-states/2023/04/20/rural-americans-are-importing-tiny-japanese-pickup-trucks)
 * [2023-04-20, 20:01:27](https://news.ycombinator.com/item?id=35645464) - [Evidence.dev – Business Intelligence as Code](https://evidence.dev)
 * [2023-04-20, 19:31:50](https://news.ycombinator.com/item?id=35645047) - [Study finds new pathway for clearing misfolded proteins](https://news.stanford.edu/2023/04/20/study-finds-new-pathway-clearing-misfolded-proteins/)
-* [2023-04-20, 17:23:35](https://news.ycombinator.com/item?id=35643219) - [Bark – Text-prompted generative audio model](https://github.com/suno-ai/bark)
+* [2023-04-20, 18:51:23](https://news.ycombinator.com/item?id=35644468) - [Current issues with the Qt project from the outside looking in](https://kelteseth.com/post/20-04-2023-current-issues-with-the-qt-project-from-the-outside-looking-in/)
 * [2023-04-20, 17:20:43](https://news.ycombinator.com/item?id=35643186) - [Building a ChatGPT-enhanced Python REPL](https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/)
 * [2023-04-20, 17:11:36](https://news.ycombinator.com/item?id=35643049) - [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
 * [2023-04-20, 02:31:19](https://news.ycombinator.com/item?id=35635654) - [Glucomate: an app for people who record, track, and monitor their blood glucose](https://zachsim.one/blog/2023/4/19/introducing-glucomate)
