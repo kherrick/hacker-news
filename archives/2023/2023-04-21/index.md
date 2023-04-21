@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 12:42:52](https://news.ycombinator.com/item?id=35652852) - [OpenBSD: Viogpu(4), a VirtIO GPU driver, added to -current](https://www.undeadly.org/cgi?action=article;sid=20230421124221)
+* [2023-04-21, 12:31:07](https://news.ycombinator.com/item?id=35652733) - [Man battling Google wins $500K for search result links calling him a pedophile](https://arstechnica.com/tech-policy/2023/04/man-battling-google-wins-500k-for-search-result-links-calling-him-a-pedophile/)
 * [2023-04-21, 12:23:36](https://news.ycombinator.com/item?id=35652655) - [Can Rust Beat JavaScript in 2023?](https://joshuamo876.bearblog.dev/can-rust-beat-javascript-in-2023/)
 * [2023-04-21, 12:11:03](https://news.ycombinator.com/item?id=35652541) - [Atari 800XL Remake](https://revive-machines.com/index-en.html)
 * [2023-04-21, 12:06:51](https://news.ycombinator.com/item?id=35652513) - [Consciousness begins with feeling, not thinking](https://iai.tv/articles/consciousness-begins-with-feelings-hanna-damasio-auid-2462)
@@ -11,6 +13,7 @@
 * [2023-04-21, 11:58:13](https://news.ycombinator.com/item?id=35652444) - [Large, creative AI models will transform lives and labour markets](https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work)
 * [2023-04-21, 11:57:39](https://news.ycombinator.com/item?id=35652434) - [ChatGPT could cost over $700k per day to operate](https://www.businessinsider.com/how-much-chatgpt-costs-openai-to-run-estimate-report-2023-4)
 * [2023-04-21, 11:11:37](https://news.ycombinator.com/item?id=35652125) - [US warship collides with tugboat in disastrous launch](https://www.navytimes.com/news/your-navy/2023/04/19/future-lcs-cleveland-launches-strikes-tugboat/)
+* [2023-04-21, 10:32:50](https://news.ycombinator.com/item?id=35651871) - [Null Island Is One of the Most Visited Places on Earth. Too Bad It Doesn’t Exist](https://www.atlasobscura.com/articles/null-island-is-one-of-the-most-visited-places-on-earth-too-bad-it-doesnt-exist)
 * [2023-04-21, 10:17:32](https://news.ycombinator.com/item?id=35651791) - [Show HN: Gsubpy, an interpreter for subset of Python, written in Go](https://github.com/realyixuan/gsubpy)
 * [2023-04-21, 07:20:07](https://news.ycombinator.com/item?id=35650699) - [Office of the President of Mongolia (top to bottom text on the web)](https://president.mn/mng/)
 * [2023-04-21, 07:16:02](https://news.ycombinator.com/item?id=35650663) - [Inkscape is hiring: Accelerating the GTK4 migration](https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/)
