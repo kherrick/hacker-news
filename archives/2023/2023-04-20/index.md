@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
 * [2023-04-20, 22:25:15](https://news.ycombinator.com/item?id=35647364) - [Tcl Programming&#x2F;Tk Examples](https://en.wikibooks.org/wiki/Tcl_Programming/Tk_examples)
+* [2023-04-20, 22:23:30](https://news.ycombinator.com/item?id=35647342) - [Why it’s so hard to say what you mean](https://ammarmian.substack.com/p/why-its-so-hard-to-say-what-you-mean)
 * [2023-04-20, 22:07:19](https://news.ycombinator.com/item?id=35647124) - [Saving Instagram images automatically every hour with Node.js or PHP](https://github.com/orsifrancesco/sniffagrammers)
 * [2023-04-20, 21:28:23](https://news.ycombinator.com/item?id=35646612) - [Why Perl?](https://two-wrongs.com/why-perl)
 * [2023-04-20, 21:14:42](https://news.ycombinator.com/item?id=35646436) - [PyPI Introduces “Trusted Publishers”](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
@@ -37,6 +38,7 @@
 * [2023-04-20, 17:44:58](https://news.ycombinator.com/item?id=35643529) - [Weight loss relapse associated with exposure to perfluoroalkylate substances](https://onlinelibrary.wiley.com/doi/10.1002/oby.23755)
 * [2023-04-20, 17:23:47](https://news.ycombinator.com/item?id=35643223) - [Show HN: How to Find the Best Bank for Your Needs](https://banklist.io/)
 * [2023-04-20, 17:23:35](https://news.ycombinator.com/item?id=35643219) - [Bark – GPT-style realistic multilingual text-to-speech generation](https://github.com/suno-ai/bark)
+* [2023-04-20, 17:20:43](https://news.ycombinator.com/item?id=35643186) - [Building a ChatGPT-enhanced Python REPL](https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/)
 * [2023-04-20, 17:17:56](https://news.ycombinator.com/item?id=35643150) - [California Defaults on $18.5B Debt, Leaving Businesses Holding the Bag](https://www.hoover.org/research/california-defaults-185-billion-debt-leaving-state-businesses-holding-bag)
 * [2023-04-20, 17:11:36](https://news.ycombinator.com/item?id=35643049) - [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
 * [2023-04-20, 17:06:45](https://news.ycombinator.com/item?id=35642994) - [Alphabet’s Google Combines AI Research Units Brain and DeepMind](https://www.wsj.com/articles/alphabets-google-combines-ai-research-units-brain-and-deepmind-620f4f7d)
