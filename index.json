@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35653816"
     ],
     [
-      "Mass Editing Memory in a Transformer",
+      "Mass editing memory in a transformer",
       "https://memit.baulab.info/"
     ]
   ],
@@ -131,32 +131,12 @@
   ],
   [
     [
-      "2023-04-21, 11:57:39",
-      "https://news.ycombinator.com/item?id=35652434"
-    ],
-    [
-      "ChatGPT could cost over $700k per day to operate",
-      "https://www.businessinsider.com/how-much-chatgpt-costs-openai-to-run-estimate-report-2023-4"
-    ]
-  ],
-  [
-    [
       "2023-04-21, 10:32:50",
       "https://news.ycombinator.com/item?id=35651871"
     ],
     [
-      "Null Island Is One of the Most Visited Places on Earth. Too Bad It Doesn’t Exist",
+      "Null island is one of the most visited places on earth. too bad it doesn’t exist",
       "https://www.atlasobscura.com/articles/null-island-is-one-of-the-most-visited-places-on-earth-too-bad-it-doesnt-exist"
-    ]
-  ],
-  [
-    [
-      "2023-04-21, 07:26:37",
-      "https://news.ycombinator.com/item?id=35650732"
-    ],
-    [
-      "Show HN: Uptrace – open-source APM (alternative to Datadog, NewRelic)",
-      "https://github.com/uptrace/uptrace"
     ]
   ],
   [
@@ -211,16 +191,6 @@
   ],
   [
     [
-      "2023-04-21, 04:06:18",
-      "https://news.ycombinator.com/item?id=35649729"
-    ],
-    [
-      "Guess the Game",
-      "https://guessthe.game"
-    ]
-  ],
-  [
-    [
       "2023-04-21, 02:48:05",
       "https://news.ycombinator.com/item?id=35649245"
     ],
@@ -241,16 +211,6 @@
   ],
   [
     [
-      "2023-04-21, 00:54:10",
-      "https://news.ycombinator.com/item?id=35648544"
-    ],
-    [
-      "WebGPU GPT Model Demo",
-      "https://www.kmeans.org/"
-    ]
-  ],
-  [
-    [
       "2023-04-20, 20:57:54",
       "https://news.ycombinator.com/item?id=35646199"
     ],
@@ -267,6 +227,36 @@
     [
       "Pico Cray – Small scale distributed computing",
       "https://www.extremeelectronics.co.uk/pico-cray-small-scale-distributed-computing/"
+    ]
+  ],
+  [
+    [
+      "2023-04-20, 18:51:23",
+      "https://news.ycombinator.com/item?id=35644468"
+    ],
+    [
+      "Current issues with the Qt project from the outside looking in",
+      "https://kelteseth.com/post/20-04-2023-current-issues-with-the-qt-project-from-the-outside-looking-in/"
+    ]
+  ],
+  [
+    [
+      "2023-04-20, 17:38:47",
+      "https://news.ycombinator.com/item?id=35643432"
+    ],
+    [
+      "Use databases without putting domain logic in them",
+      "https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/"
+    ]
+  ],
+  [
+    [
+      "2023-04-20, 14:46:30",
+      "https://news.ycombinator.com/item?id=35640894"
+    ],
+    [
+      "Career advice no one gave me: Give a lot of notice when you quit",
+      "https://davidlaprade.github.io/give-a-lot-of-notice"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Fictional Brands Archive",
       "https://fictionalbrandsarchive.com/"
+    ]
+  ],
+  [
+    [
+      "2023-04-19, 11:33:55",
+      "https://news.ycombinator.com/item?id=35626891"
+    ],
+    [
+      "Car thieves using tech disguised inside old Nokia phones and Bluetooth speakers",
+      "https://www.vice.com/en/article/v7beyj/car-thieves-tech-hidden-old-nokia-phones-bluetooth-speakers-emergency-engine-start-keyless"
     ]
   ]
 ]
