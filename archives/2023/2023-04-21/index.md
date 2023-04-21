@@ -25,6 +25,7 @@
 * [2023-04-21, 18:29:21](https://news.ycombinator.com/item?id=35657984) - [Fire Mark Zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
 * [2023-04-21, 18:29:13](https://news.ycombinator.com/item?id=35657982) - [GitHub Copilot emits GPL code](https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not)
 * [2023-04-21, 17:57:25](https://news.ycombinator.com/item?id=35657570) - [&#x27;Devastating&#x27; melt of Greenland, Antarctic ice sheets found](https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html)
+* [2023-04-21, 17:50:00](https://news.ycombinator.com/item?id=35657474) - [Datomic Implicit Partitions](https://blog.datomic.com/2023/04/implicit-partitions.html)
 * [2023-04-21, 17:47:26](https://news.ycombinator.com/item?id=35657436) - [The Commission for Stopping Further Improvements](https://rootsofprogress.org/isambard-brunel-on-engineering-standards)
 * [2023-04-21, 17:29:43](https://news.ycombinator.com/item?id=35657181) - [xPrize Wildfire – $11M Prize Competition](https://www.xprize.org/prizes/wildfire)
 * [2023-04-21, 17:01:02](https://news.ycombinator.com/item?id=35656726) - [Lago(YC): open-source Usage Based Billing – is hiring an Infrastructure Engineer](https://www.ycombinator.com/companies/lago/jobs/YL8DQw4-infrastructure-engineer)
