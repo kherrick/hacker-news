@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-21, 02:48:05](https://news.ycombinator.com/item?id=35649245) - [Show HN: Thoughts on Flash in 2023, in Flash, in 2023](https://www.newgrounds.com/portal/view/881533)
 * [2023-04-21, 02:01:29](https://news.ycombinator.com/item?id=35648982) - [Peter Gabriel: AI competition statement](https://petergabriel.com/news/ai-competition-statement/)
 * [2023-04-21, 01:28:24](https://news.ycombinator.com/item?id=35648805) - [AOLserver is America Online&#x27;s Open-Source web server](https://aolserver.github.io/)
 * [2023-04-21, 01:26:56](https://news.ycombinator.com/item?id=35648791) - [Show HN: We built a stateful Kafka connector and tips for creating yours](https://bytewax.io/blog/custom-input-connector)
@@ -22,10 +23,9 @@
 * [2023-04-20, 17:11:36](https://news.ycombinator.com/item?id=35643049) - [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
 * [2023-04-20, 16:47:30](https://news.ycombinator.com/item?id=35642712) - [In 1981, Intel released the iAPX 432](https://oldbytes.space/@kenshirriff/110231910098167742)
 * [2023-04-20, 14:21:13](https://news.ycombinator.com/item?id=35640427) - [Smuggling of silkworm eggs into the Byzantine Empire](https://en.wikipedia.org/wiki/Smuggling_of_silkworm_eggs_into_the_Byzantine_Empire)
-* [2023-04-20, 13:58:04](https://news.ycombinator.com/item?id=35640002) - [SpaceX Starship rocket explodes minutes after launch from Texas](https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2)
 * [2023-04-20, 13:09:13](https://news.ycombinator.com/item?id=35639370) - [Shutting down my legal torrent site after 17 years](https://www.legittorrents.info/)
-* [2023-04-20, 05:32:14](https://news.ycombinator.com/item?id=35636748) - [The Pawn’s Gambit: On adapting Stefan Zweig’s “Chess Story”](https://lareviewofbooks.org/article/the-pawns-gambit-on-adapting-stefan-zweigs-chess-story/)
 * [2023-04-20, 02:31:19](https://news.ycombinator.com/item?id=35635654) - [Glucomate: an app for people who record, track, and monitor their blood glucose](https://zachsim.one/blog/2023/4/19/introducing-glucomate)
+* [2023-04-20, 00:28:32](https://news.ycombinator.com/item?id=35634963) - [Rhythm (taal) in Indian Classical Music (2011)](https://raag-hindustani.com/Rhythm.html)
 * [2023-04-19, 12:05:12](https://news.ycombinator.com/item?id=35627102) - [Analyzing the websites that are used to train AI chatbots](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/)
 * [2023-04-19, 11:08:43](https://news.ycombinator.com/item?id=35626736) - [Conway&#x27;s Game of Life digital clock](https://copy.sh/life/?gist=f3413564b1fa9c69f2bad4b0400b8090&step=512)
 * [2023-04-19, 08:45:24](https://news.ycombinator.com/item?id=35625877) - [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)

@@ -97,3 +97,4 @@
 * [2023-04-20, 01:09:30](https://news.ycombinator.com/item?id=35635209) - [Replit - How to train your own LLM Models](https://blog.replit.com/llm-training)
 * [2023-04-20, 00:45:31](https://news.ycombinator.com/item?id=35635076) - [The Digital Ludeme Project: methods for the study of ancient board games](https://www.sciencedirect.com/science/article/pii/S2352409X23001803)
 * [2023-04-20, 00:36:09](https://news.ycombinator.com/item?id=35635017) - [Standoff over 95-year-old judge shows downside of lifetime jobs](https://news.bloomberglaw.com/us-law-week/standoff-over-95-year-old-judge-shows-downside-of-lifetime-jobs)
+* [2023-04-20, 00:28:32](https://news.ycombinator.com/item?id=35634963) - [Rhythm (taal) in Indian Classical Music (2011)](https://raag-hindustani.com/Rhythm.html)

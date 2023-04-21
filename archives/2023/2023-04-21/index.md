@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 02:48:05](https://news.ycombinator.com/item?id=35649245) - [Show HN: Thoughts on Flash in 2023, in Flash, in 2023](https://www.newgrounds.com/portal/view/881533)
 * [2023-04-21, 02:01:29](https://news.ycombinator.com/item?id=35648982) - [Peter Gabriel: AI competition statement](https://petergabriel.com/news/ai-competition-statement/)
 * [2023-04-21, 01:28:24](https://news.ycombinator.com/item?id=35648805) - [AOLserver is America Online&#x27;s Open-Source web server](https://aolserver.github.io/)
 * [2023-04-21, 01:26:56](https://news.ycombinator.com/item?id=35648791) - [Show HN: We built a stateful Kafka connector and tips for creating yours](https://bytewax.io/blog/custom-input-connector)
