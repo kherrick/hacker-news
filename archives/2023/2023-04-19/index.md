@@ -17,6 +17,7 @@
 * [2023-04-19, 21:21:37](https://news.ycombinator.com/item?id=35633481) - [Taking a sharper look at the M87 black hole](https://phys.org/news/2023-04-sharper-m87-black-hole.html)
 * [2023-04-19, 21:12:56](https://news.ycombinator.com/item?id=35633398) - [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 * [2023-04-19, 21:04:49](https://news.ycombinator.com/item?id=35633316) - [GPT-3 Creative Fiction](https://gwern.net/gpt-3)
+* [2023-04-19, 21:02:26](https://news.ycombinator.com/item?id=35633291) - [Physicists discover that gravity can create light](https://phys.org/news/2023-04-physicists-gravity.html)
 * [2023-04-19, 20:55:29](https://news.ycombinator.com/item?id=35633212) - [Ranking of Most Polluted Cities in the US by American Lung Association Research](https://www.lung.org/research/sota/city-rankings/most-polluted-cities)
 * [2023-04-19, 20:48:47](https://news.ycombinator.com/item?id=35633152) - [Intranasal vaccine confers broad mucosal and systemic immunity against SARS-CoV2](https://www.nature.com/articles/s41392-023-01423-6)
 * [2023-04-19, 20:47:49](https://news.ycombinator.com/item?id=35633138) - [Untangling Andy Warhol (2020)](https://www.newyorker.com/magazine/2020/06/08/untangling-andy-warhol)
