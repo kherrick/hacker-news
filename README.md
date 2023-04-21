@@ -2,6 +2,7 @@
 
 * [2023-04-21, 21:01:05](https://news.ycombinator.com/item?id=35660076) - [Generally Intelligent (YC S17) Is Hiring Infrastructure Engineer](https://news.ycombinator.com/item?id=35660076)
 * [2023-04-21, 20:17:02](https://news.ycombinator.com/item?id=35659462) - [The Magic Kingdom: Florida’s Corkscrew Swamp](https://worldsensorium.com/the-real-magic-kingdom-floridas-corkscrew-swamp/)
+* [2023-04-21, 20:14:53](https://news.ycombinator.com/item?id=35659423) - [Google’s 80-acre San Jose mega-campus is on hold](https://www.cnbc.com/2023/04/21/googles-80-acre-san-jose-mega-campus-on-hold-amid-economic-slowdown-.html)
 * [2023-04-21, 19:52:42](https://news.ycombinator.com/item?id=35659092) - [Faster LZ is not the answer to 150-250 GB video game downloads](http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html)
 * [2023-04-21, 19:28:08](https://news.ycombinator.com/item?id=35658796) - [Ban on Tenure for New Faculty Hires Passes Texas Senate](https://www.chronicle.com/article/ban-on-tenure-for-new-faculty-hires-passes-texas-senate)
 * [2023-04-21, 19:08:03](https://news.ycombinator.com/item?id=35658525) - [What Happens When You Kill Your King](https://www.newyorker.com/magazine/2023/04/24/the-blazing-world-jonathan-healey-book-review)
@@ -26,7 +27,6 @@
 * [2023-04-21, 05:00:32](https://news.ycombinator.com/item?id=35649961) - [Revisiting the baby schema by a geometric morphometric analysis of great apes](https://www.nature.com/articles/s41598-023-31731-4)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
 * [2023-04-21, 04:51:00](https://news.ycombinator.com/item?id=35649917) - [Dummy Boards: The Fun Figures of the 1600s](https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/)
-* [2023-04-20, 20:45:33](https://news.ycombinator.com/item?id=35646033) - [Pico Cray – Small scale distributed computing](https://www.extremeelectronics.co.uk/pico-cray-small-scale-distributed-computing/)
 * [2023-04-20, 17:26:31](https://news.ycombinator.com/item?id=35643255) - [Show HN: We built a ClickHouse-based logging service](https://github.com/highlight/highlight/blob/main/README.md)
 * [2023-04-19, 21:02:26](https://news.ycombinator.com/item?id=35633291) - [Physicists discover that gravity can create light](https://phys.org/news/2023-04-physicists-gravity.html)
 * [2023-04-19, 21:00:57](https://news.ycombinator.com/item?id=35633277) - [Warm liquid spewing from Oregon seafloor comes from Cascadia fault](https://phys.org/news/2023-04-liquid-spewing-oregon-seafloor-cascadia.html)
