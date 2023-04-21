@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-04-21, 05:05:52",
-      "https://news.ycombinator.com/item?id=35649990"
-    ],
-    [
-      "Daves Old Computers – Dunfield 6809 Portable",
-      "http://dunfield.classiccmp.org/d6809/index.htm"
-    ]
-  ],
-  [
-    [
       "2023-04-21, 04:54:39",
       "https://news.ycombinator.com/item?id=35649935"
     ],
@@ -217,6 +207,16 @@
     [
       "Current issues with the Qt project from the outside looking in",
       "https://kelteseth.com/post/20-04-2023-current-issues-with-the-qt-project-from-the-outside-looking-in/"
+    ]
+  ],
+  [
+    [
+      "2023-04-20, 17:38:47",
+      "https://news.ycombinator.com/item?id=35643432"
+    ],
+    [
+      "Use databases without putting domain logic in them",
+      "https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/"
     ]
   ],
   [
