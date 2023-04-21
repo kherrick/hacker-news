@@ -24,7 +24,7 @@
 * [2023-04-20, 16:47:30](https://news.ycombinator.com/item?id=35642712) - [In 1981, Intel released the iAPX 432](https://oldbytes.space/@kenshirriff/110231910098167742)
 * [2023-04-20, 14:21:13](https://news.ycombinator.com/item?id=35640427) - [Smuggling of silkworm eggs into the Byzantine Empire](https://en.wikipedia.org/wiki/Smuggling_of_silkworm_eggs_into_the_Byzantine_Empire)
 * [2023-04-20, 14:16:22](https://news.ycombinator.com/item?id=35640325) - [Rear-wheel-drive cars are back and we have EVs to thank](https://www.thedrive.com/news/rear-wheel-drive-cars-are-back-baby-and-we-have-evs-to-thank)
-* [2023-04-20, 13:58:04](https://news.ycombinator.com/item?id=35640002) - [SpaceX Starship rocket explodes minutes after launch from Texas](https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2)
+* [2023-04-20, 13:09:13](https://news.ycombinator.com/item?id=35639370) - [Shutting down my legal torrent site after 17 years](https://www.legittorrents.info/)
 * [2023-04-20, 02:31:19](https://news.ycombinator.com/item?id=35635654) - [Glucomate: an app for people who record, track, and monitor their blood glucose](https://zachsim.one/blog/2023/4/19/introducing-glucomate)
 * [2023-04-20, 00:28:32](https://news.ycombinator.com/item?id=35634963) - [Rhythm (taal) in Indian Classical Music (2011)](https://raag-hindustani.com/Rhythm.html)
 * [2023-04-19, 11:08:43](https://news.ycombinator.com/item?id=35626736) - [Conway&#x27;s Game of Life digital clock](https://copy.sh/life/?gist=f3413564b1fa9c69f2bad4b0400b8090&step=512)
