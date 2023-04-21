@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-21, 16:09:37",
+      "https://news.ycombinator.com/item?id=35655910"
+    ],
+    [
+      "Scaling Databases at Activision [pdf]",
+      "https://static.sched.com/hosted_files/kccnceu2023/3d/KubeCon-2023-Scaling-Databases-Activision.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-04-21, 16:01:35",
+      "https://news.ycombinator.com/item?id=35655780"
+    ],
+    [
+      "Lyft to Cut at Least 1,200 Jobs in New Round of Layoffs to Reduce Costs",
+      "https://www.wsj.com/articles/lyft-to-cut-at-least-1-200-jobs-in-new-round-of-layoffs-to-reduce-costs-da423e53"
+    ]
+  ],
+  [
+    [
       "2023-04-21, 15:32:44",
       "https://news.ycombinator.com/item?id=35655282"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-04-21, 11:59:45",
-      "https://news.ycombinator.com/item?id=35652452"
-    ],
-    [
-      "SafeGPT: New tool to detect LLMs&#x27; hallucinations, biases and privacy issues",
-      "https://www.giskard.ai/safegpt"
-    ]
-  ],
-  [
-    [
       "2023-04-21, 11:58:13",
       "https://news.ycombinator.com/item?id=35652444"
     ],
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2023-04-21, 00:37:35",
-      "https://news.ycombinator.com/item?id=35648440"
-    ],
-    [
-      "RF Breadboarding System",
-      "https://www.saelig.com/product/c700.htm"
-    ]
-  ],
-  [
-    [
-      "2023-04-20, 20:57:54",
-      "https://news.ycombinator.com/item?id=35646199"
-    ],
-    [
-      "Spinning Diagrams with CSS",
-      "https://x.st/spinning-diagrams-with-css/"
-    ]
-  ],
-  [
-    [
       "2023-04-20, 20:45:33",
       "https://news.ycombinator.com/item?id=35646033"
     ],
@@ -257,6 +247,16 @@
     [
       "Current issues with the Qt project from the outside looking in",
       "https://kelteseth.com/post/20-04-2023-current-issues-with-the-qt-project-from-the-outside-looking-in/"
+    ]
+  ],
+  [
+    [
+      "2023-04-20, 17:38:47",
+      "https://news.ycombinator.com/item?id=35643432"
+    ],
+    [
+      "Use databases without putting domain logic in them",
+      "https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/"
     ]
   ],
   [
