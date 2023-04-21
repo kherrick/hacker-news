@@ -23,12 +23,12 @@
 * [2023-04-21, 00:54:10](https://news.ycombinator.com/item?id=35648544) - [WebGPU GPT Model Demo](https://www.kmeans.org/)
 * [2023-04-20, 20:57:54](https://news.ycombinator.com/item?id=35646199) - [Spinning Diagrams with CSS](https://x.st/spinning-diagrams-with-css/)
 * [2023-04-20, 18:51:23](https://news.ycombinator.com/item?id=35644468) - [Current issues with the Qt project from the outside looking in](https://kelteseth.com/post/20-04-2023-current-issues-with-the-qt-project-from-the-outside-looking-in/)
-* [2023-04-20, 17:38:47](https://news.ycombinator.com/item?id=35643432) - [Use databases without putting domain logic in them](https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/)
 * [2023-04-20, 03:42:46](https://news.ycombinator.com/item?id=35636118) - [Preserving Bach&#x27;s Manuscripts](https://blogs.bl.uk/music/2023/03/preserving-bach.html)
 * [2023-04-20, 02:31:19](https://news.ycombinator.com/item?id=35635654) - [Glucomate: an app for people who record, track, and monitor their blood glucose](https://zachsim.one/blog/2023/4/19/introducing-glucomate)
 * [2023-04-20, 00:28:32](https://news.ycombinator.com/item?id=35634963) - [Rhythm (taal) in Indian Classical Music (2011)](https://raag-hindustani.com/Rhythm.html)
 * [2023-04-19, 22:14:38](https://news.ycombinator.com/item?id=35633999) - [Fictional Brands Archive](https://fictionalbrandsarchive.com/)
 * [2023-04-19, 21:21:37](https://news.ycombinator.com/item?id=35633481) - [Taking a sharper look at the M87 black hole](https://phys.org/news/2023-04-sharper-m87-black-hole.html)
+* [2023-04-19, 16:14:04](https://news.ycombinator.com/item?id=35629972) - [Space Elevator](https://neal.fun/space-elevator/)
 * [2023-04-19, 11:33:55](https://news.ycombinator.com/item?id=35626891) - [Car thieves using tech disguised inside old Nokia phones and Bluetooth speakers](https://www.vice.com/en/article/v7beyj/car-thieves-tech-hidden-old-nokia-phones-bluetooth-speakers-emergency-engine-start-keyless)
 
 ## [Archives](archives/index.md)
