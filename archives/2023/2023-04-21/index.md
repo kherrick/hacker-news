@@ -12,6 +12,7 @@
 * [2023-04-21, 20:17:02](https://news.ycombinator.com/item?id=35659462) - [The Magic Kingdom: Florida’s Corkscrew Swamp](https://worldsensorium.com/the-real-magic-kingdom-floridas-corkscrew-swamp/)
 * [2023-04-21, 20:14:53](https://news.ycombinator.com/item?id=35659423) - [Google’s 80-acre San Jose mega-campus is on hold](https://www.cnbc.com/2023/04/21/googles-80-acre-san-jose-mega-campus-on-hold-amid-economic-slowdown-.html)
 * [2023-04-21, 20:07:38](https://news.ycombinator.com/item?id=35659312) - [PHP Popularity: Is it decreasing and what to do about it?](https://www.otsch.codes/blog/pophpularity)
+* [2023-04-21, 20:07:36](https://news.ycombinator.com/item?id=35659310) - [‘I’ve Never Hired a Writer Better Than ChatGPT’: How AI Is Upending Freelancing](https://www.forbes.com/sites/rashishrivastava/2023/04/20/ive-never-hired-a-writer-better-than-chatgpt-how-ai-is-upending-the-freelance-world/)
 * [2023-04-21, 19:52:42](https://news.ycombinator.com/item?id=35659092) - [Faster LZ is not the answer to 150-250 GB video game downloads](http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html)
 * [2023-04-21, 19:28:08](https://news.ycombinator.com/item?id=35658796) - [Ban on Tenure for New Faculty Hires Passes Texas Senate](https://www.chronicle.com/article/ban-on-tenure-for-new-faculty-hires-passes-texas-senate)
 * [2023-04-21, 19:08:03](https://news.ycombinator.com/item?id=35658525) - [What Happens When You Kill Your King](https://www.newyorker.com/magazine/2023/04/24/the-blazing-world-jonathan-healey-book-review)
