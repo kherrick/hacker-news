@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 14:59:37](https://news.ycombinator.com/item?id=35654783) - [Editors quit top neuroscience journal to protest against open-access charges](https://www.nature.com/articles/d41586-023-01391-5)
+* [2023-04-21, 14:52:16](https://news.ycombinator.com/item?id=35654654) - [Apple’s fight against iPhone sideloading was pointless at best, harmful at worst](https://9to5mac.com/2023/04/18/iphone-sideloading/)
 * [2023-04-21, 14:37:05](https://news.ycombinator.com/item?id=35654401) - [Show HN: Chrome extension to hide AI&#x2F;GPT related submissions from HN](https://chrome.google.com/webstore/detail/hacker-news-filter/olcgmfffcodkgnpgbhijncgpadkjgedo)
 * [2023-04-21, 14:02:01](https://news.ycombinator.com/item?id=35653904) - [The Air Force has loosened its restrictions on body fat for new recruits](https://www.airforcetimes.com/news/your-air-force/2023/04/03/fatter-recruits-now-welcome-as-air-force-revises-its-rules/)
 * [2023-04-21, 14:00:30](https://news.ycombinator.com/item?id=35653867) - [Tech Bosses Are Letting Dictators Censor What Americans See](https://www.thedailybeast.com/elon-musk-tech-bosses-are-letting-dictators-censor-what-americans-see)
@@ -12,6 +14,7 @@
 * [2023-04-21, 13:49:42](https://news.ycombinator.com/item?id=35653712) - [REI to close only Portland store, citing break-ins, theft](https://www.oregonlive.com/business/2023/04/rei-to-close-its-only-portland-store-citing-break-ins-theft.html)
 * [2023-04-21, 13:49:09](https://news.ycombinator.com/item?id=35653702) - [W3C invites applications to be our next CEO](https://candidates.perrettlaver.com/vacancies/3565/)
 * [2023-04-21, 13:48:39](https://news.ycombinator.com/item?id=35653698) - [Google Colab has started banning Stable Diffusion WebUI users](https://twitter.com/EMostaque/status/1649181487982321668)
+* [2023-04-21, 13:45:29](https://news.ycombinator.com/item?id=35653648) - [Bard coding update with Colab exporting](https://blog.google/technology/ai/code-with-bard/)
 * [2023-04-21, 13:20:49](https://news.ycombinator.com/item?id=35653324) - [Proliferation of AI weapons among non-state actors could be impossible to stop](https://www.theregister.com/2023/04/21/ai_enhanced_weapons/)
 * [2023-04-21, 13:07:04](https://news.ycombinator.com/item?id=35653125) - [AI is taking the jobs of Kenyans who write essays for U.S. college students](https://restofworld.org/2023/chatgpt-taking-kenya-ghostwriters-jobs/)
 * [2023-04-21, 12:53:09](https://news.ycombinator.com/item?id=35652964) - [US to start training Ukrainian troops on Abrams tanks within weeks](https://www.airforcetimes.com/news/your-air-force/2023/04/21/us-to-start-training-ukrainian-troops-on-abrams-tanks-within-weeks/)
