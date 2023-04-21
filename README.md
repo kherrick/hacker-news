@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-21, 11:58:13](https://news.ycombinator.com/item?id=35652444) - [Large, creative AI models will transform lives and labour markets](https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work)
+* [2023-04-21, 11:57:39](https://news.ycombinator.com/item?id=35652434) - [ChatGPT could cost over $700k per day to operate](https://www.businessinsider.com/how-much-chatgpt-costs-openai-to-run-estimate-report-2023-4)
 * [2023-04-21, 11:11:37](https://news.ycombinator.com/item?id=35652125) - [US warship collides with tugboat in disastrous launch](https://www.navytimes.com/news/your-navy/2023/04/19/future-lcs-cleveland-launches-strikes-tugboat/)
 * [2023-04-21, 10:17:32](https://news.ycombinator.com/item?id=35651791) - [Show HN: Gsubpy, an interpreter for subset of Python, written in Go](https://github.com/realyixuan/gsubpy)
 * [2023-04-21, 07:20:07](https://news.ycombinator.com/item?id=35650699) - [Office of the President of Mongolia (top to bottom text on the web)](https://president.mn/mng/)
@@ -16,10 +18,7 @@
 * [2023-04-20, 21:14:42](https://news.ycombinator.com/item?id=35646436) - [Introducing &#x27;Trusted Publishers&#x27;](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
 * [2023-04-20, 21:05:17](https://news.ycombinator.com/item?id=35646315) - [Revisiting the Fast Inverse Square Root – Is It Still Useful?](https://hllmn.net/blog/2023-04-20_rsqrt/)
 * [2023-04-20, 20:57:54](https://news.ycombinator.com/item?id=35646199) - [Spinning Diagrams with CSS](https://x.st/spinning-diagrams-with-css/)
-* [2023-04-20, 20:50:48](https://news.ycombinator.com/item?id=35646093) - [Diagnosing cancer by profiling the immune system](https://github.com/jostmey/msm)
 * [2023-04-20, 20:46:52](https://news.ycombinator.com/item?id=35646047) - [Large language models: Scaling laws and emergent properties](https://cthiriet.com/articles/scaling-laws)
-* [2023-04-20, 20:31:50](https://news.ycombinator.com/item?id=35645857) - [Babylon.js 6.0](https://www.babylonjs.com/)
-* [2023-04-20, 20:10:50](https://news.ycombinator.com/item?id=35645624) - [Rural Americans are importing tiny Japanese pickup trucks](https://www.economist.com/united-states/2023/04/20/rural-americans-are-importing-tiny-japanese-pickup-trucks)
 * [2023-04-20, 20:01:27](https://news.ycombinator.com/item?id=35645464) - [Evidence.dev – Business Intelligence as Code](https://evidence.dev)
 * [2023-04-20, 18:51:23](https://news.ycombinator.com/item?id=35644468) - [Current issues with the Qt project from the outside looking in](https://kelteseth.com/post/20-04-2023-current-issues-with-the-qt-project-from-the-outside-looking-in/)
 * [2023-04-20, 17:38:47](https://news.ycombinator.com/item?id=35643432) - [Use databases without putting domain logic in them](https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/)
@@ -28,6 +27,7 @@
 * [2023-04-20, 00:28:32](https://news.ycombinator.com/item?id=35634963) - [Rhythm (taal) in Indian Classical Music (2011)](https://raag-hindustani.com/Rhythm.html)
 * [2023-04-19, 22:14:38](https://news.ycombinator.com/item?id=35633999) - [Fictional Brands Archive](https://fictionalbrandsarchive.com/)
 * [2023-04-19, 21:21:37](https://news.ycombinator.com/item?id=35633481) - [Taking a sharper look at the M87 black hole](https://phys.org/news/2023-04-sharper-m87-black-hole.html)
+* [2023-04-19, 16:14:04](https://news.ycombinator.com/item?id=35629972) - [Space Elevator](https://neal.fun/space-elevator/)
 * [2023-04-19, 11:33:55](https://news.ycombinator.com/item?id=35626891) - [Car thieves using tech disguised inside old Nokia phones and Bluetooth speakers](https://www.vice.com/en/article/v7beyj/car-thieves-tech-hidden-old-nokia-phones-bluetooth-speakers-emergency-engine-start-keyless)
 * [2023-04-19, 11:08:43](https://news.ycombinator.com/item?id=35626736) - [Conway&#x27;s Game of Life digital clock](https://copy.sh/life/?gist=f3413564b1fa9c69f2bad4b0400b8090&step=512)
 
