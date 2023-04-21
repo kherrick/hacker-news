@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-21, 11:11:37](https://news.ycombinator.com/item?id=35652125) - [US warship collides with tugboat in disastrous launch](https://www.navytimes.com/news/your-navy/2023/04/19/future-lcs-cleveland-launches-strikes-tugboat/)
 * [2023-04-21, 10:17:32](https://news.ycombinator.com/item?id=35651791) - [Show HN: Gsubpy, an interpreter for subset of Python, written in Go](https://github.com/realyixuan/gsubpy)
 * [2023-04-21, 07:20:07](https://news.ycombinator.com/item?id=35650699) - [Office of the President of Mongolia (top to bottom text on the web)](https://president.mn/mng/)
 * [2023-04-21, 07:16:02](https://news.ycombinator.com/item?id=35650663) - [Inkscape is hiring: Accelerating the GTK4 migration](https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/)
@@ -22,14 +23,13 @@
 * [2023-04-20, 20:01:27](https://news.ycombinator.com/item?id=35645464) - [Evidence.dev – Business Intelligence as Code](https://evidence.dev)
 * [2023-04-20, 18:51:23](https://news.ycombinator.com/item?id=35644468) - [Current issues with the Qt project from the outside looking in](https://kelteseth.com/post/20-04-2023-current-issues-with-the-qt-project-from-the-outside-looking-in/)
 * [2023-04-20, 17:38:47](https://news.ycombinator.com/item?id=35643432) - [Use databases without putting domain logic in them](https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/)
-* [2023-04-20, 17:20:43](https://news.ycombinator.com/item?id=35643186) - [Building a ChatGPT-enhanced Python REPL](https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/)
 * [2023-04-20, 03:42:46](https://news.ycombinator.com/item?id=35636118) - [Preserving Bach&#x27;s Manuscripts](https://blogs.bl.uk/music/2023/03/preserving-bach.html)
 * [2023-04-20, 02:31:19](https://news.ycombinator.com/item?id=35635654) - [Glucomate: an app for people who record, track, and monitor their blood glucose](https://zachsim.one/blog/2023/4/19/introducing-glucomate)
 * [2023-04-20, 00:28:32](https://news.ycombinator.com/item?id=35634963) - [Rhythm (taal) in Indian Classical Music (2011)](https://raag-hindustani.com/Rhythm.html)
 * [2023-04-19, 22:14:38](https://news.ycombinator.com/item?id=35633999) - [Fictional Brands Archive](https://fictionalbrandsarchive.com/)
 * [2023-04-19, 21:21:37](https://news.ycombinator.com/item?id=35633481) - [Taking a sharper look at the M87 black hole](https://phys.org/news/2023-04-sharper-m87-black-hole.html)
 * [2023-04-19, 11:33:55](https://news.ycombinator.com/item?id=35626891) - [Car thieves using tech disguised inside old Nokia phones and Bluetooth speakers](https://www.vice.com/en/article/v7beyj/car-thieves-tech-hidden-old-nokia-phones-bluetooth-speakers-emergency-engine-start-keyless)
-* [2023-04-19, 04:57:22](https://news.ycombinator.com/item?id=35624391) - [Kootenay Barter – Banking on Each Other](https://lionhrt.tripod.com/barter.html)
+* [2023-04-19, 11:08:43](https://news.ycombinator.com/item?id=35626736) - [Conway&#x27;s Game of Life digital clock](https://copy.sh/life/?gist=f3413564b1fa9c69f2bad4b0400b8090&step=512)
 
 ## [Archives](archives/index.md)
 

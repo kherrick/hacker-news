@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 11:11:37](https://news.ycombinator.com/item?id=35652125) - [US warship collides with tugboat in disastrous launch](https://www.navytimes.com/news/your-navy/2023/04/19/future-lcs-cleveland-launches-strikes-tugboat/)
 * [2023-04-21, 10:17:32](https://news.ycombinator.com/item?id=35651791) - [Show HN: Gsubpy, an interpreter for subset of Python, written in Go](https://github.com/realyixuan/gsubpy)
 * [2023-04-21, 07:20:07](https://news.ycombinator.com/item?id=35650699) - [Office of the President of Mongolia (top to bottom text on the web)](https://president.mn/mng/)
 * [2023-04-21, 07:16:02](https://news.ycombinator.com/item?id=35650663) - [Inkscape is hiring: Accelerating the GTK4 migration](https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/)
