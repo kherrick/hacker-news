@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 10:17:32](https://news.ycombinator.com/item?id=35651791) - [Show HN: Gsubpy, an interpreter for subset of Python, written in Go](https://github.com/realyixuan/gsubpy)
 * [2023-04-21, 07:20:07](https://news.ycombinator.com/item?id=35650699) - [Office of the President of Mongolia (top to bottom text on the web)](https://president.mn/mng/)
 * [2023-04-21, 07:16:02](https://news.ycombinator.com/item?id=35650663) - [Inkscape is hiring: Accelerating the GTK4 migration](https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/)
 * [2023-04-21, 07:00:07](https://news.ycombinator.com/item?id=35650563) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
