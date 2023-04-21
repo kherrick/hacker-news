@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-21, 17:01:02](https://news.ycombinator.com/item?id=35656726) - [Lago(YC): open-source Usage Based Billing – is hiring an Infrastructure Engineer](https://www.ycombinator.com/companies/lago/jobs/YL8DQw4-infrastructure-engineer)
+* [2023-04-21, 17:00:12](https://news.ycombinator.com/item?id=35656705) - [The coming war on end-to-end encryption](https://community.qbix.com/t/the-coming-war-on-end-to-end-encryption/214)
 * [2023-04-21, 16:09:37](https://news.ycombinator.com/item?id=35655910) - [Scaling Databases at Activision [pdf]](https://static.sched.com/hosted_files/kccnceu2023/3d/KubeCon-2023-Scaling-Databases-Activision.pdf)
 * [2023-04-21, 16:01:35](https://news.ycombinator.com/item?id=35655780) - [Lyft to Cut at Least 1,200 Jobs in New Round of Layoffs to Reduce Costs](https://www.wsj.com/articles/lyft-to-cut-at-least-1-200-jobs-in-new-round-of-layoffs-to-reduce-costs-da423e53)
 * [2023-04-21, 15:32:44](https://news.ycombinator.com/item?id=35655282) - [The EARN IT bill is back, seeking to scan our messages and photos](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos)
 * [2023-04-21, 14:59:37](https://news.ycombinator.com/item?id=35654783) - [Editors quit top neuroscience journal to protest against open-access charges](https://www.nature.com/articles/d41586-023-01391-5)
-* [2023-04-21, 14:52:16](https://news.ycombinator.com/item?id=35654654) - [Apple’s fight against iPhone sideloading was pointless at best, harmful at worst](https://9to5mac.com/2023/04/18/iphone-sideloading/)
 * [2023-04-21, 14:50:31](https://news.ycombinator.com/item?id=35654621) - [Four-Byte Burger [video]](https://www.youtube.com/watch?v=i4EFkspO5p4)
 * [2023-04-21, 14:47:54](https://news.ycombinator.com/item?id=35654574) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 * [2023-04-21, 14:00:30](https://news.ycombinator.com/item?id=35653867) - [Tech bosses are letting dictators censor what Americans see](https://www.thedailybeast.com/elon-musk-tech-bosses-are-letting-dictators-censor-what-americans-see)
