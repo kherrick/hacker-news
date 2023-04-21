@@ -13,6 +13,7 @@
 * [2023-04-19, 21:59:23](https://news.ycombinator.com/item?id=35633840) - [Uncleftish Beholding (1989)](https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish_beholding.html)
 * [2023-04-19, 21:58:10](https://news.ycombinator.com/item?id=35633827) - [A newfound discomfort with hypertext](https://maya.land/monologues/2023/03/21/hypertext-hostility.html)
 * [2023-04-19, 21:23:12](https://news.ycombinator.com/item?id=35633490) - [Building telescopes on the Moon could transform astronomy](https://theconversation.com/building-telescopes-on-the-moon-could-transform-astronomy-and-its-becoming-an-achievable-goal-203308)
+* [2023-04-19, 21:21:37](https://news.ycombinator.com/item?id=35633481) - [Taking a sharper look at the M87 black hole](https://phys.org/news/2023-04-sharper-m87-black-hole.html)
 * [2023-04-19, 21:12:56](https://news.ycombinator.com/item?id=35633398) - [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 * [2023-04-19, 21:04:49](https://news.ycombinator.com/item?id=35633316) - [GPT-3 Creative Fiction](https://gwern.net/gpt-3)
 * [2023-04-19, 20:55:29](https://news.ycombinator.com/item?id=35633212) - [Ranking of Most Polluted Cities in the US by American Lung Association Research](https://www.lung.org/research/sota/city-rankings/most-polluted-cities)
