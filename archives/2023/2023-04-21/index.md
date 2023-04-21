@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 18:29:21](https://news.ycombinator.com/item?id=35657984) - [Fire Mark Zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
 * [2023-04-21, 18:29:13](https://news.ycombinator.com/item?id=35657982) - [GitHub Copilot emits GPL code](https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not)
 * [2023-04-21, 17:57:25](https://news.ycombinator.com/item?id=35657570) - [&#x27;Devastating&#x27; melt of Greenland, Antarctic ice sheets found](https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html)
 * [2023-04-21, 17:47:26](https://news.ycombinator.com/item?id=35657436) - [The Commission for Stopping Further Improvements](https://rootsofprogress.org/isambard-brunel-on-engineering-standards)
@@ -49,6 +50,7 @@
 * [2023-04-21, 05:55:19](https://news.ycombinator.com/item?id=35650200) - [Eid Mubarak](https://news.ycombinator.com/item?id=35650200)
 * [2023-04-21, 05:05:52](https://news.ycombinator.com/item?id=35649990) - [Daves Old Computers – Dunfield 6809 Portable](http://dunfield.classiccmp.org/d6809/index.htm)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [World’s largest battery maker announces major breakthrough in energy density](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
+* [2023-04-21, 04:51:00](https://news.ycombinator.com/item?id=35649917) - [Dummy Boards: The Fun Figures of the 1600s](https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/)
 * [2023-04-21, 04:06:18](https://news.ycombinator.com/item?id=35649729) - [Guess the Game](https://guessthe.game)
 * [2023-04-21, 03:24:43](https://news.ycombinator.com/item?id=35649496) - [Show HN: WasmGPT – “ChatGPT” in the browser, no WebGPU and no server needed](https://lxe.co/wasmgpt/)
 * [2023-04-21, 03:19:07](https://news.ycombinator.com/item?id=35649459) - [Standardizing BPF](https://lwn.net/Articles/926882/)
