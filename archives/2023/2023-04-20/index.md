@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 23:13:00](https://news.ycombinator.com/item?id=35647779) - [Why are ethernet jumbo frames 9000 bytes? (2018)](https://blog.dave.tf/post/jumbo-frames/)
 * [2023-04-20, 22:25:15](https://news.ycombinator.com/item?id=35647364) - [Tcl Programming&#x2F;Tk Examples](https://en.wikibooks.org/wiki/Tcl_Programming/Tk_examples)
 * [2023-04-20, 22:23:30](https://news.ycombinator.com/item?id=35647342) - [Why it’s so hard to say what you mean](https://ammarmian.substack.com/p/why-its-so-hard-to-say-what-you-mean)
 * [2023-04-20, 22:07:19](https://news.ycombinator.com/item?id=35647124) - [Saving Instagram images automatically every hour with Node.js or PHP](https://github.com/orsifrancesco/sniffagrammers)
