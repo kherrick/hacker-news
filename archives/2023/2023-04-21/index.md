@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 15:32:44](https://news.ycombinator.com/item?id=35655282) - [The Earn IT Bill Is Back, Seeking to Scan Our Messages and Photos](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos)
 * [2023-04-21, 14:59:37](https://news.ycombinator.com/item?id=35654783) - [Editors quit top neuroscience journal to protest against open-access charges](https://www.nature.com/articles/d41586-023-01391-5)
 * [2023-04-21, 14:52:16](https://news.ycombinator.com/item?id=35654654) - [Apple’s fight against iPhone sideloading was pointless at best, harmful at worst](https://9to5mac.com/2023/04/18/iphone-sideloading/)
+* [2023-04-21, 14:50:31](https://news.ycombinator.com/item?id=35654621) - [Four-Byte Burger [video]](https://www.youtube.com/watch?v=i4EFkspO5p4)
 * [2023-04-21, 14:47:54](https://news.ycombinator.com/item?id=35654574) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 * [2023-04-21, 14:37:05](https://news.ycombinator.com/item?id=35654401) - [Show HN: Chrome extension to hide AI&#x2F;GPT related submissions from HN](https://chrome.google.com/webstore/detail/hacker-news-filter/olcgmfffcodkgnpgbhijncgpadkjgedo)
 * [2023-04-21, 14:02:01](https://news.ycombinator.com/item?id=35653904) - [The Air Force has loosened its restrictions on body fat for new recruits](https://www.airforcetimes.com/news/your-air-force/2023/04/03/fatter-recruits-now-welcome-as-air-force-revises-its-rules/)
@@ -49,3 +51,4 @@
 * [2023-04-21, 01:26:56](https://news.ycombinator.com/item?id=35648791) - [Show HN: We built a stateful Kafka connector and tips for creating yours](https://bytewax.io/blog/custom-input-connector)
 * [2023-04-21, 00:59:54](https://news.ycombinator.com/item?id=35648589) - [FAA selects sustainable design for new control towers at smaller airports](https://www.faa.gov/newsroom/faa-selects-sustainable-design-new-control-towers-municipal-smaller-airports)
 * [2023-04-21, 00:54:10](https://news.ycombinator.com/item?id=35648544) - [WebGPU GPT Model Demo](https://www.kmeans.org/)
+* [2023-04-21, 00:37:35](https://news.ycombinator.com/item?id=35648440) - [RF Breadboarding System](https://www.saelig.com/product/c700.htm)
