@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 19:28:08](https://news.ycombinator.com/item?id=35658796) - [Ban on Tenure for New Faculty Hires Passes Texas Senate](https://www.chronicle.com/article/ban-on-tenure-for-new-faculty-hires-passes-texas-senate)
 * [2023-04-21, 19:08:03](https://news.ycombinator.com/item?id=35658525) - [What Happens When You Kill Your King](https://www.newyorker.com/magazine/2023/04/24/the-blazing-world-jonathan-healey-book-review)
+* [2023-04-21, 19:01:00](https://news.ycombinator.com/item?id=35658412) - [Will Boiling Water Ruin Green Tea?](https://www.myjapanesegreentea.com/will-boiling-water-ruin-green-tea)
 * [2023-04-21, 19:00:14](https://news.ycombinator.com/item?id=35658399) - [The “invented persona” behind the GISAID viral sequence database](https://www.science.org/content/article/invented-persona-behind-key-pandemic-database)
 * [2023-04-21, 18:59:12](https://news.ycombinator.com/item?id=35658387) - [How to Become a “Designer Who Codes”](https://publication.design.systems/how-to-become-a-designer-who-codes-52ae97f60d68?gi=81198e6b14b3)
 * [2023-04-21, 18:54:31](https://news.ycombinator.com/item?id=35658319) - [Looplets: A Language for Structured Coiteration](https://dl.acm.org/doi/10.1145/3579990.3580020)
