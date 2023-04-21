@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-21, 07:00:07](https://news.ycombinator.com/item?id=35650563) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+* [2023-04-21, 05:55:19](https://news.ycombinator.com/item?id=35650200) - [Eid Mubarak](https://news.ycombinator.com/item?id=35650200)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [World’s largest battery maker announces major breakthrough in energy density](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
 * [2023-04-21, 04:06:18](https://news.ycombinator.com/item?id=35649729) - [Guess the Game](https://guessthe.game)
 * [2023-04-21, 03:24:43](https://news.ycombinator.com/item?id=35649496) - [Show HN: WasmGPT – “ChatGPT” in the browser, no WebGPU and no server needed](https://lxe.co/wasmgpt/)
@@ -15,11 +16,11 @@
 * [2023-04-20, 21:05:17](https://news.ycombinator.com/item?id=35646315) - [Revisiting the Fast Inverse Square Root – Is It Still Useful?](https://hllmn.net/blog/2023-04-20_rsqrt/)
 * [2023-04-20, 20:57:54](https://news.ycombinator.com/item?id=35646199) - [Spinning Diagrams with CSS](https://x.st/spinning-diagrams-with-css/)
 * [2023-04-20, 20:50:48](https://news.ycombinator.com/item?id=35646093) - [Diagnosing cancer by profiling the immune system](https://github.com/jostmey/msm)
+* [2023-04-20, 20:46:52](https://news.ycombinator.com/item?id=35646047) - [Large language models: Scaling laws and emergent properties](https://cthiriet.com/articles/scaling-laws)
 * [2023-04-20, 20:31:50](https://news.ycombinator.com/item?id=35645857) - [Babylon.js 6.0](https://www.babylonjs.com/)
 * [2023-04-20, 20:10:50](https://news.ycombinator.com/item?id=35645624) - [Rural Americans are importing tiny Japanese pickup trucks](https://www.economist.com/united-states/2023/04/20/rural-americans-are-importing-tiny-japanese-pickup-trucks)
 * [2023-04-20, 20:01:27](https://news.ycombinator.com/item?id=35645464) - [Evidence.dev – Business Intelligence as Code](https://evidence.dev)
 * [2023-04-20, 19:31:50](https://news.ycombinator.com/item?id=35645047) - [Study finds new pathway for clearing misfolded proteins](https://news.stanford.edu/2023/04/20/study-finds-new-pathway-clearing-misfolded-proteins/)
-* [2023-04-20, 17:23:35](https://news.ycombinator.com/item?id=35643219) - [Bark – Text-prompted generative audio model](https://github.com/suno-ai/bark)
 * [2023-04-20, 17:20:43](https://news.ycombinator.com/item?id=35643186) - [Building a ChatGPT-enhanced Python REPL](https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/)
 * [2023-04-20, 17:11:36](https://news.ycombinator.com/item?id=35643049) - [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
 * [2023-04-20, 16:47:30](https://news.ycombinator.com/item?id=35642712) - [In 1981, Intel released the iAPX 432](https://oldbytes.space/@kenshirriff/110231910098167742)
@@ -29,7 +30,6 @@
 * [2023-04-19, 11:08:43](https://news.ycombinator.com/item?id=35626736) - [Conway&#x27;s Game of Life digital clock](https://copy.sh/life/?gist=f3413564b1fa9c69f2bad4b0400b8090&step=512)
 * [2023-04-19, 08:45:24](https://news.ycombinator.com/item?id=35625877) - [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)
 * [2023-04-19, 04:57:22](https://news.ycombinator.com/item?id=35624391) - [Kootenay Barter – Banking on Each Other](https://lionhrt.tripod.com/barter.html)
-* [2023-04-19, 04:03:34](https://news.ycombinator.com/item?id=35624117) - [Tristan Quilt](https://en.wikipedia.org/wiki/Tristan_Quilt)
 
 ## [Archives](archives/index.md)
 
