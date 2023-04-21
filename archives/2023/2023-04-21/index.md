@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 20:17:02](https://news.ycombinator.com/item?id=35659462) - [The Magic Kingdom: Florida’s Corkscrew Swamp](https://worldsensorium.com/the-real-magic-kingdom-floridas-corkscrew-swamp/)
 * [2023-04-21, 19:52:42](https://news.ycombinator.com/item?id=35659092) - [Faster LZ is not the answer to 150-250 GB video game downloads](http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html)
 * [2023-04-21, 19:28:08](https://news.ycombinator.com/item?id=35658796) - [Ban on Tenure for New Faculty Hires Passes Texas Senate](https://www.chronicle.com/article/ban-on-tenure-for-new-faculty-hires-passes-texas-senate)
 * [2023-04-21, 19:08:03](https://news.ycombinator.com/item?id=35658525) - [What Happens When You Kill Your King](https://www.newyorker.com/magazine/2023/04/24/the-blazing-world-jonathan-healey-book-review)

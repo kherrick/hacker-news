@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-21, 20:17:02](https://news.ycombinator.com/item?id=35659462) - [The Magic Kingdom: Florida’s Corkscrew Swamp](https://worldsensorium.com/the-real-magic-kingdom-floridas-corkscrew-swamp/)
 * [2023-04-21, 19:52:42](https://news.ycombinator.com/item?id=35659092) - [Faster LZ is not the answer to 150-250 GB video game downloads](http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html)
 * [2023-04-21, 19:28:08](https://news.ycombinator.com/item?id=35658796) - [Ban on Tenure for New Faculty Hires Passes Texas Senate](https://www.chronicle.com/article/ban-on-tenure-for-new-faculty-hires-passes-texas-senate)
 * [2023-04-21, 19:08:03](https://news.ycombinator.com/item?id=35658525) - [What Happens When You Kill Your King](https://www.newyorker.com/magazine/2023/04/24/the-blazing-world-jonathan-healey-book-review)
@@ -8,7 +9,6 @@
 * [2023-04-21, 18:59:12](https://news.ycombinator.com/item?id=35658387) - [How to Become a “Designer Who Codes”](https://publication.design.systems/how-to-become-a-designer-who-codes-52ae97f60d68?gi=81198e6b14b3)
 * [2023-04-21, 18:54:31](https://news.ycombinator.com/item?id=35658319) - [Looplets: A Language for Structured Coiteration](https://dl.acm.org/doi/10.1145/3579990.3580020)
 * [2023-04-21, 18:54:30](https://news.ycombinator.com/item?id=35658318) - [Nuclear Power Is the Answer to Global and Environmental Energy Woes](https://nationalinterest.org/feature/nuclear-power-answer-global-and-environmental-energy-woes-206418)
-* [2023-04-21, 18:52:46](https://news.ycombinator.com/item?id=35658296) - [Show HN: Stadai – Your virtual study buddy powered by ChatGPT](https://www.stadai.com/)
 * [2023-04-21, 18:29:21](https://news.ycombinator.com/item?id=35657984) - [Fire Mark Zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
 * [2023-04-21, 18:29:13](https://news.ycombinator.com/item?id=35657982) - [GitHub Copilot emits GPL code](https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not)
 * [2023-04-21, 17:57:25](https://news.ycombinator.com/item?id=35657570) - [&#x27;Devastating&#x27; melt of Greenland, Antarctic ice sheets found](https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html)
