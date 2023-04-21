@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [World’s largest battery maker announces major breakthrough in energy density](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
 * [2023-04-21, 04:06:18](https://news.ycombinator.com/item?id=35649729) - [Guess the Game](https://guessthe.game)
 * [2023-04-21, 03:24:43](https://news.ycombinator.com/item?id=35649496) - [Show HN: WasmGPT – “ChatGPT” in the browser, no WebGPU and no server needed](https://lxe.co/wasmgpt/)
 * [2023-04-21, 03:19:07](https://news.ycombinator.com/item?id=35649459) - [Standardizing BPF](https://lwn.net/Articles/926882/)
@@ -19,7 +20,6 @@
 * [2023-04-20, 20:10:50](https://news.ycombinator.com/item?id=35645624) - [Rural Americans are importing tiny Japanese pickup trucks](https://www.economist.com/united-states/2023/04/20/rural-americans-are-importing-tiny-japanese-pickup-trucks)
 * [2023-04-20, 20:01:27](https://news.ycombinator.com/item?id=35645464) - [Evidence.dev – Business Intelligence as Code](https://evidence.dev)
 * [2023-04-20, 19:31:50](https://news.ycombinator.com/item?id=35645047) - [Study finds new pathway for clearing misfolded proteins](https://news.stanford.edu/2023/04/20/study-finds-new-pathway-clearing-misfolded-proteins/)
-* [2023-04-20, 18:54:03](https://news.ycombinator.com/item?id=35644504) - [Show HN: Play the front page of Hacker News as interactive text games](https://infinityarcade.com/news)
 * [2023-04-20, 17:23:35](https://news.ycombinator.com/item?id=35643219) - [Bark – Text-prompted generative audio model](https://github.com/suno-ai/bark)
 * [2023-04-20, 17:20:43](https://news.ycombinator.com/item?id=35643186) - [Building a ChatGPT-enhanced Python REPL](https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/)
 * [2023-04-20, 17:11:36](https://news.ycombinator.com/item?id=35643049) - [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
