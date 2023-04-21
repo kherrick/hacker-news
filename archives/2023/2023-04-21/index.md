@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 13:07:04](https://news.ycombinator.com/item?id=35653125) - [AI is taking the jobs of Kenyans who write essays for U.S. college students](https://restofworld.org/2023/chatgpt-taking-kenya-ghostwriters-jobs/)
+* [2023-04-21, 12:53:09](https://news.ycombinator.com/item?id=35652964) - [US to start training Ukrainian troops on Abrams tanks within weeks](https://www.airforcetimes.com/news/your-air-force/2023/04/21/us-to-start-training-ukrainian-troops-on-abrams-tanks-within-weeks/)
 * [2023-04-21, 12:42:52](https://news.ycombinator.com/item?id=35652852) - [OpenBSD: Viogpu(4), a VirtIO GPU driver, added to -current](https://www.undeadly.org/cgi?action=article;sid=20230421124221)
 * [2023-04-21, 12:31:07](https://news.ycombinator.com/item?id=35652733) - [Man battling Google wins $500K for search result links calling him a pedophile](https://arstechnica.com/tech-policy/2023/04/man-battling-google-wins-500k-for-search-result-links-calling-him-a-pedophile/)
 * [2023-04-21, 12:23:36](https://news.ycombinator.com/item?id=35652655) - [Can Rust Beat JavaScript in 2023?](https://joshuamo876.bearblog.dev/can-rust-beat-javascript-in-2023/)
@@ -15,6 +17,7 @@
 * [2023-04-21, 11:11:37](https://news.ycombinator.com/item?id=35652125) - [US warship collides with tugboat in disastrous launch](https://www.navytimes.com/news/your-navy/2023/04/19/future-lcs-cleveland-launches-strikes-tugboat/)
 * [2023-04-21, 10:32:50](https://news.ycombinator.com/item?id=35651871) - [Null Island Is One of the Most Visited Places on Earth. Too Bad It Doesn’t Exist](https://www.atlasobscura.com/articles/null-island-is-one-of-the-most-visited-places-on-earth-too-bad-it-doesnt-exist)
 * [2023-04-21, 10:17:32](https://news.ycombinator.com/item?id=35651791) - [Show HN: Gsubpy, an interpreter for subset of Python, written in Go](https://github.com/realyixuan/gsubpy)
+* [2023-04-21, 07:26:37](https://news.ycombinator.com/item?id=35650732) - [Show HN: Uptrace – open-source APM (alternative to Datadog, NewRelic)](https://github.com/uptrace/uptrace)
 * [2023-04-21, 07:20:07](https://news.ycombinator.com/item?id=35650699) - [Office of the President of Mongolia (top to bottom text on the web)](https://president.mn/mng/)
 * [2023-04-21, 07:16:02](https://news.ycombinator.com/item?id=35650663) - [Inkscape is hiring: Accelerating the GTK4 migration](https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/)
 * [2023-04-21, 07:00:07](https://news.ycombinator.com/item?id=35650563) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
