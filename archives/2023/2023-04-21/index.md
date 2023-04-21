@@ -6,6 +6,7 @@
 
 * [2023-04-21, 14:59:37](https://news.ycombinator.com/item?id=35654783) - [Editors quit top neuroscience journal to protest against open-access charges](https://www.nature.com/articles/d41586-023-01391-5)
 * [2023-04-21, 14:52:16](https://news.ycombinator.com/item?id=35654654) - [Apple’s fight against iPhone sideloading was pointless at best, harmful at worst](https://9to5mac.com/2023/04/18/iphone-sideloading/)
+* [2023-04-21, 14:47:54](https://news.ycombinator.com/item?id=35654574) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 * [2023-04-21, 14:37:05](https://news.ycombinator.com/item?id=35654401) - [Show HN: Chrome extension to hide AI&#x2F;GPT related submissions from HN](https://chrome.google.com/webstore/detail/hacker-news-filter/olcgmfffcodkgnpgbhijncgpadkjgedo)
 * [2023-04-21, 14:02:01](https://news.ycombinator.com/item?id=35653904) - [The Air Force has loosened its restrictions on body fat for new recruits](https://www.airforcetimes.com/news/your-air-force/2023/04/03/fatter-recruits-now-welcome-as-air-force-revises-its-rules/)
 * [2023-04-21, 14:00:30](https://news.ycombinator.com/item?id=35653867) - [Tech Bosses Are Letting Dictators Censor What Americans See](https://www.thedailybeast.com/elon-musk-tech-bosses-are-letting-dictators-censor-what-americans-see)
