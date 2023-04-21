@@ -9,6 +9,7 @@
 * [2023-04-21, 07:16:02](https://news.ycombinator.com/item?id=35650663) - [Inkscape is hiring: Accelerating the GTK4 migration](https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/)
 * [2023-04-21, 07:00:07](https://news.ycombinator.com/item?id=35650563) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-04-21, 05:55:19](https://news.ycombinator.com/item?id=35650200) - [Eid Mubarak](https://news.ycombinator.com/item?id=35650200)
+* [2023-04-21, 05:05:52](https://news.ycombinator.com/item?id=35649990) - [Daves Old Computers – Dunfield 6809 Portable](http://dunfield.classiccmp.org/d6809/index.htm)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [World’s largest battery maker announces major breakthrough in energy density](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
 * [2023-04-21, 04:06:18](https://news.ycombinator.com/item?id=35649729) - [Guess the Game](https://guessthe.game)
 * [2023-04-21, 03:24:43](https://news.ycombinator.com/item?id=35649496) - [Show HN: WasmGPT – “ChatGPT” in the browser, no WebGPU and no server needed](https://lxe.co/wasmgpt/)
