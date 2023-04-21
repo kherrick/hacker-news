@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [World’s largest battery maker announces major breakthrough in energy density](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
+* [2023-04-21, 04:06:18](https://news.ycombinator.com/item?id=35649729) - [Guess the Game](https://guessthe.game)
 * [2023-04-21, 03:24:43](https://news.ycombinator.com/item?id=35649496) - [Show HN: WasmGPT – “ChatGPT” in the browser, no WebGPU and no server needed](https://lxe.co/wasmgpt/)
 * [2023-04-21, 03:19:07](https://news.ycombinator.com/item?id=35649459) - [Standardizing BPF](https://lwn.net/Articles/926882/)
 * [2023-04-21, 02:48:05](https://news.ycombinator.com/item?id=35649245) - [Show HN: Thoughts on Flash in 2023, in Flash, in 2023](https://www.newgrounds.com/portal/view/881533)
 * [2023-04-21, 02:46:40](https://news.ycombinator.com/item?id=35649233) - [John Deere &#x27;Kill Switch&#x27; renders stolen tractors useless (2022)](https://www.orchardandvine.net/news/john-deere-%E2%80%98kill-switch%E2%80%99-renders-stolen-tractors-useless/)
 * [2023-04-21, 02:17:36](https://news.ycombinator.com/item?id=35649062) - [America’s $800B climate splurge is feeding a new lobbying ecosystem](https://www.economist.com/business/2023/04/10/americas-800bn-climate-splurge-is-feeding-a-new-lobbying-ecosystem)
 * [2023-04-21, 01:28:24](https://news.ycombinator.com/item?id=35648805) - [AOLserver is America Online&#x27;s Open-Source web server (2010)](https://aolserver.github.io/)
-* [2023-04-21, 00:59:54](https://news.ycombinator.com/item?id=35648589) - [FAA selects sustainable design for new control towers at smaller airports](https://www.faa.gov/newsroom/faa-selects-sustainable-design-new-control-towers-municipal-smaller-airports)
 * [2023-04-21, 00:54:10](https://news.ycombinator.com/item?id=35648544) - [WebGPU GPT Model Demo](https://www.kmeans.org/)
 * [2023-04-20, 23:13:00](https://news.ycombinator.com/item?id=35647779) - [Why are ethernet jumbo frames 9000 bytes? (2018)](https://blog.dave.tf/post/jumbo-frames/)
 * [2023-04-20, 21:14:42](https://news.ycombinator.com/item?id=35646436) - [Introducing &#x27;Trusted Publishers&#x27;](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
@@ -19,7 +19,6 @@
 * [2023-04-20, 20:10:50](https://news.ycombinator.com/item?id=35645624) - [Rural Americans are importing tiny Japanese pickup trucks](https://www.economist.com/united-states/2023/04/20/rural-americans-are-importing-tiny-japanese-pickup-trucks)
 * [2023-04-20, 20:01:27](https://news.ycombinator.com/item?id=35645464) - [Evidence.dev – Business Intelligence as Code](https://evidence.dev)
 * [2023-04-20, 19:31:50](https://news.ycombinator.com/item?id=35645047) - [Study finds new pathway for clearing misfolded proteins](https://news.stanford.edu/2023/04/20/study-finds-new-pathway-clearing-misfolded-proteins/)
-* [2023-04-20, 18:54:03](https://news.ycombinator.com/item?id=35644504) - [Show HN: Play the front page of Hacker News as interactive text games](https://infinityarcade.com/news)
 * [2023-04-20, 17:23:35](https://news.ycombinator.com/item?id=35643219) - [Bark – Text-prompted generative audio model](https://github.com/suno-ai/bark)
 * [2023-04-20, 17:20:43](https://news.ycombinator.com/item?id=35643186) - [Building a ChatGPT-enhanced Python REPL](https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/)
 * [2023-04-20, 17:11:36](https://news.ycombinator.com/item?id=35643049) - [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
@@ -30,6 +29,7 @@
 * [2023-04-19, 11:08:43](https://news.ycombinator.com/item?id=35626736) - [Conway&#x27;s Game of Life digital clock](https://copy.sh/life/?gist=f3413564b1fa9c69f2bad4b0400b8090&step=512)
 * [2023-04-19, 08:45:24](https://news.ycombinator.com/item?id=35625877) - [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)
 * [2023-04-19, 04:57:22](https://news.ycombinator.com/item?id=35624391) - [Kootenay Barter – Banking on Each Other](https://lionhrt.tripod.com/barter.html)
+* [2023-04-19, 04:03:34](https://news.ycombinator.com/item?id=35624117) - [Tristan Quilt](https://en.wikipedia.org/wiki/Tristan_Quilt)
 
 ## [Archives](archives/index.md)
 

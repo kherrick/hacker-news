@@ -86,6 +86,7 @@
 * [2023-04-19, 04:57:22](https://news.ycombinator.com/item?id=35624391) - [Kootenay Barter – Banking on Each Other](https://lionhrt.tripod.com/barter.html)
 * [2023-04-19, 04:41:14](https://news.ycombinator.com/item?id=35624300) - [Show HN: Kinde – auth, feature flags and billing (Q3) in one integration](https://kinde.com/)
 * [2023-04-19, 04:22:17](https://news.ycombinator.com/item?id=35624210) - [Nintendo Hacker Freed, Now Owes Them 25-30% of Salary for Life](https://www.dexerto.com/tech/nintendo-hacker-forced-to-pay-them-for-life-after-being-released-from-prison-2117382/)
+* [2023-04-19, 04:03:34](https://news.ycombinator.com/item?id=35624117) - [Tristan Quilt](https://en.wikipedia.org/wiki/Tristan_Quilt)
 * [2023-04-19, 03:21:15](https://news.ycombinator.com/item?id=35623891) - [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
 * [2023-04-19, 03:02:32](https://news.ycombinator.com/item?id=35623783) - [Raspberry Pi Receives Strategic Investment from Sony Semiconductor Solutions](https://www.sony.co.uk/presscentre/news/raspberry-pi-receives-strategic-investment-from-sony-semiconductor-solutions-corporation)
 * [2023-04-19, 02:37:52](https://news.ycombinator.com/item?id=35623625) - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
