@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 19:00:14](https://news.ycombinator.com/item?id=35658399) - [The “invented persona” behind the GISAID viral sequence database](https://www.science.org/content/article/invented-persona-behind-key-pandemic-database)
+* [2023-04-21, 18:44:00](https://news.ycombinator.com/item?id=35658173) - [Building a large scale unsupervised model anomaly detection system](https://eng.lyft.com/building-a-large-scale-unsupervised-model-anomaly-detection-system-part-1-aca4766a823c?gi=2fba96f786ed)
+* [2023-04-21, 18:43:34](https://news.ycombinator.com/item?id=35658167) - [Content and controversy in generative AI models](http://marble.onl/posts/content-and-controversy-in-generative-ai.html)
 * [2023-04-21, 18:29:21](https://news.ycombinator.com/item?id=35657984) - [Fire Mark Zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
 * [2023-04-21, 18:29:13](https://news.ycombinator.com/item?id=35657982) - [GitHub Copilot emits GPL code](https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not)
 * [2023-04-21, 17:57:25](https://news.ycombinator.com/item?id=35657570) - [&#x27;Devastating&#x27; melt of Greenland, Antarctic ice sheets found](https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html)

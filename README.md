@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-21, 19:00:14](https://news.ycombinator.com/item?id=35658399) - [The “invented persona” behind the GISAID viral sequence database](https://www.science.org/content/article/invented-persona-behind-key-pandemic-database)
+* [2023-04-21, 18:44:00](https://news.ycombinator.com/item?id=35658173) - [Building a large scale unsupervised model anomaly detection system](https://eng.lyft.com/building-a-large-scale-unsupervised-model-anomaly-detection-system-part-1-aca4766a823c?gi=2fba96f786ed)
+* [2023-04-21, 18:43:34](https://news.ycombinator.com/item?id=35658167) - [Content and controversy in generative AI models](http://marble.onl/posts/content-and-controversy-in-generative-ai.html)
 * [2023-04-21, 18:29:21](https://news.ycombinator.com/item?id=35657984) - [Fire Mark Zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
 * [2023-04-21, 18:29:13](https://news.ycombinator.com/item?id=35657982) - [GitHub Copilot emits GPL code](https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not)
 * [2023-04-21, 17:57:25](https://news.ycombinator.com/item?id=35657570) - [&#x27;Devastating&#x27; melt of Greenland, Antarctic ice sheets found](https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html)
 * [2023-04-21, 17:47:26](https://news.ycombinator.com/item?id=35657436) - [The Commission for Stopping Further Improvements](https://rootsofprogress.org/isambard-brunel-on-engineering-standards)
 * [2023-04-21, 17:29:43](https://news.ycombinator.com/item?id=35657181) - [xPrize Wildfire – $11M Prize Competition](https://www.xprize.org/prizes/wildfire)
 * [2023-04-21, 17:01:02](https://news.ycombinator.com/item?id=35656726) - [Lago(YC): open-source Usage Based Billing – is hiring an Infrastructure Engineer](https://www.ycombinator.com/companies/lago/jobs/YL8DQw4-infrastructure-engineer)
-* [2023-04-21, 17:00:12](https://news.ycombinator.com/item?id=35656705) - [The coming war on end-to-end encryption](https://community.qbix.com/t/the-coming-war-on-end-to-end-encryption/214)
 * [2023-04-21, 16:09:37](https://news.ycombinator.com/item?id=35655910) - [Scaling Databases at Activision [pdf]](https://static.sched.com/hosted_files/kccnceu2023/3d/KubeCon-2023-Scaling-Databases-Activision.pdf)
 * [2023-04-21, 15:32:44](https://news.ycombinator.com/item?id=35655282) - [The EARN IT bill is back, seeking to scan our messages and photos](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos)
 * [2023-04-21, 14:59:37](https://news.ycombinator.com/item?id=35654783) - [Editors quit top neuroscience journal to protest against open-access charges](https://www.nature.com/articles/d41586-023-01391-5)
@@ -20,7 +22,6 @@
 * [2023-04-21, 10:32:50](https://news.ycombinator.com/item?id=35651871) - [Null Island is one of the most visited places on Earth, and it doesn’t exist](https://www.atlasobscura.com/articles/null-island-is-one-of-the-most-visited-places-on-earth-too-bad-it-doesnt-exist)
 * [2023-04-21, 10:12:23](https://news.ycombinator.com/item?id=35651756) - [Athens Charter](https://en.wikipedia.org/wiki/Athens_Charter)
 * [2023-04-21, 07:20:07](https://news.ycombinator.com/item?id=35650699) - [Office of the President of Mongolia: Top to bottom text on the web](https://president.mn/mng/)
-* [2023-04-21, 05:55:19](https://news.ycombinator.com/item?id=35650200) - [Tell HN: Eid Mubarak](https://news.ycombinator.com/item?id=35650200)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
 * [2023-04-21, 04:51:00](https://news.ycombinator.com/item?id=35649917) - [Dummy Boards: The Fun Figures of the 1600s](https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/)
 * [2023-04-21, 00:37:35](https://news.ycombinator.com/item?id=35648440) - [RF Breadboarding System](https://www.saelig.com/product/c700.htm)
@@ -29,7 +30,6 @@
 * [2023-04-20, 14:46:30](https://news.ycombinator.com/item?id=35640894) - [Career advice no one gave me: Give a lot of notice when you quit](https://davidlaprade.github.io/give-a-lot-of-notice)
 * [2023-04-19, 22:14:38](https://news.ycombinator.com/item?id=35633999) - [Fictional Brands Archive](https://fictionalbrandsarchive.com/)
 * [2023-04-19, 21:02:26](https://news.ycombinator.com/item?id=35633291) - [Physicists discover that gravity can create light](https://phys.org/news/2023-04-physicists-gravity.html)
-* [2023-04-19, 11:33:55](https://news.ycombinator.com/item?id=35626891) - [Car thieves using tech disguised inside old Nokia phones and Bluetooth speakers](https://www.vice.com/en/article/v7beyj/car-thieves-tech-hidden-old-nokia-phones-bluetooth-speakers-emergency-engine-start-keyless)
 
 ## [Archives](archives/index.md)
 
