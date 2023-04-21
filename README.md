@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-21, 14:02:01](https://news.ycombinator.com/item?id=35653904) - [The Air Force has loosened its restrictions on body fat for new recruits](https://www.airforcetimes.com/news/your-air-force/2023/04/03/fatter-recruits-now-welcome-as-air-force-revises-its-rules/)
+* [2023-04-21, 14:37:05](https://news.ycombinator.com/item?id=35654401) - [Show HN: Chrome extension to hide AI&#x2F;GPT related submissions from HN](https://chrome.google.com/webstore/detail/hacker-news-filter/olcgmfffcodkgnpgbhijncgpadkjgedo)
 * [2023-04-21, 14:00:30](https://news.ycombinator.com/item?id=35653867) - [Tech Bosses Are Letting Dictators Censor What Americans See](https://www.thedailybeast.com/elon-musk-tech-bosses-are-letting-dictators-censor-what-americans-see)
 * [2023-04-21, 13:56:56](https://news.ycombinator.com/item?id=35653816) - [Mass Editing Memory in a Transformer](https://memit.baulab.info/)
 * [2023-04-21, 13:49:56](https://news.ycombinator.com/item?id=35653719) - [Dark Patterns: 10 Examples of Manipulative Consent Requests](https://wideangle.co/blog/dark-patterns-examples-of-manipulative-consent-requests)
