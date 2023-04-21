@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 07:16:02](https://news.ycombinator.com/item?id=35650663) - [Inkscape is hiring: Accelerating the GTK4 migration](https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/)
 * [2023-04-21, 07:00:07](https://news.ycombinator.com/item?id=35650563) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-04-21, 05:55:19](https://news.ycombinator.com/item?id=35650200) - [Eid Mubarak](https://news.ycombinator.com/item?id=35650200)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [World’s largest battery maker announces major breakthrough in energy density](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)

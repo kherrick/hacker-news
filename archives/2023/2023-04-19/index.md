@@ -62,6 +62,7 @@
 * [2023-04-19, 12:00:25](https://news.ycombinator.com/item?id=35627071) - [Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
 * [2023-04-19, 11:52:15](https://news.ycombinator.com/item?id=35627005) - [In 1930, the 22M-pound Indiana Bell building was rotated 90 degrees](https://mastodon.social/@Miriamm/110221714996508234)
 * [2023-04-19, 11:41:17](https://news.ycombinator.com/item?id=35626943) - [How Philly Cheesesteaks Became Big in Lahore, Pakistan](https://www.phillymag.com/news/2023/04/08/philly-cheesesteaks-lahore-pakistan/)
+* [2023-04-19, 11:33:55](https://news.ycombinator.com/item?id=35626891) - [Car thieves using tech disguised inside old Nokia phones and Bluetooth speakers](https://www.vice.com/en/article/v7beyj/car-thieves-tech-hidden-old-nokia-phones-bluetooth-speakers-emergency-engine-start-keyless)
 * [2023-04-19, 11:15:02](https://news.ycombinator.com/item?id=35626783) - [Gezellig – a word that encompasses the heart of Dutch Culture](https://www.dutchamsterdam.nl/155-gezellig)
 * [2023-04-19, 11:11:32](https://news.ycombinator.com/item?id=35626755) - [Why Some Researchers Think I’m Wrong About Social Media and Mental Illness](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong)
 * [2023-04-19, 11:08:43](https://news.ycombinator.com/item?id=35626736) - [Conway&#x27;s Game of Life digital clock](https://copy.sh/life/?gist=f3413564b1fa9c69f2bad4b0400b8090&step=512)
