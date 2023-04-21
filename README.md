@@ -11,6 +11,7 @@
 * [2023-04-21, 19:01:00](https://news.ycombinator.com/item?id=35658412) - [Will boiling water ruin green tea?](https://www.myjapanesegreentea.com/will-boiling-water-ruin-green-tea)
 * [2023-04-21, 19:00:14](https://news.ycombinator.com/item?id=35658399) - [The “invented persona” behind the GISAID viral sequence database](https://www.science.org/content/article/invented-persona-behind-key-pandemic-database)
 * [2023-04-21, 18:59:12](https://news.ycombinator.com/item?id=35658387) - [How to become a “designer who codes” (2019)](https://publication.design.systems/how-to-become-a-designer-who-codes-52ae97f60d68?gi=81198e6b14b3)
+* [2023-04-21, 18:54:31](https://news.ycombinator.com/item?id=35658319) - [Looplets: A Language for Structured Coiteration](https://dl.acm.org/doi/10.1145/3579990.3580020)
 * [2023-04-21, 17:47:26](https://news.ycombinator.com/item?id=35657436) - [The Commission for Stopping Further Improvements](https://rootsofprogress.org/isambard-brunel-on-engineering-standards)
 * [2023-04-21, 17:29:43](https://news.ycombinator.com/item?id=35657181) - [xPrize Wildfire – $11M Prize Competition](https://www.xprize.org/prizes/wildfire)
 * [2023-04-21, 16:09:37](https://news.ycombinator.com/item?id=35655910) - [Scaling Databases at Activision [pdf]](https://static.sched.com/hosted_files/kccnceu2023/3d/KubeCon-2023-Scaling-Databases-Activision.pdf)
@@ -27,7 +28,6 @@
 * [2023-04-21, 04:51:00](https://news.ycombinator.com/item?id=35649917) - [Dummy Boards: The Fun Figures of the 1600s](https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/)
 * [2023-04-20, 20:45:33](https://news.ycombinator.com/item?id=35646033) - [Pico Cray – Small scale distributed computing](https://www.extremeelectronics.co.uk/pico-cray-small-scale-distributed-computing/)
 * [2023-04-20, 17:26:31](https://news.ycombinator.com/item?id=35643255) - [Show HN: We built a ClickHouse-based logging service](https://github.com/highlight/highlight/blob/main/README.md)
-* [2023-04-20, 14:46:30](https://news.ycombinator.com/item?id=35640894) - [Career advice no one gave me: Give a lot of notice when you quit](https://davidlaprade.github.io/give-a-lot-of-notice)
 * [2023-04-19, 22:14:38](https://news.ycombinator.com/item?id=35633999) - [Fictional Brands Archive](https://fictionalbrandsarchive.com/)
 * [2023-04-19, 21:02:26](https://news.ycombinator.com/item?id=35633291) - [Physicists discover that gravity can create light](https://phys.org/news/2023-04-physicists-gravity.html)
 
