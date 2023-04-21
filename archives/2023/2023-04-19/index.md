@@ -82,6 +82,7 @@
 * [2023-04-19, 05:22:50](https://news.ycombinator.com/item?id=35624544) - [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 * [2023-04-19, 05:17:21](https://news.ycombinator.com/item?id=35624511) - [The Origins of Creativity](https://www.newyorker.com/magazine/2023/04/24/the-cult-of-creativity-samuel-weil-franklin-book-review)
 * [2023-04-19, 05:07:12](https://news.ycombinator.com/item?id=35624451) - [Ptolemy’s Treatise on the Meteoroscope Recovered](https://link.springer.com/article/10.1007/s00407-022-00302-w)
+* [2023-04-19, 04:57:22](https://news.ycombinator.com/item?id=35624391) - [Kootenay Barter – Banking on Each Other](https://lionhrt.tripod.com/barter.html)
 * [2023-04-19, 04:41:14](https://news.ycombinator.com/item?id=35624300) - [Show HN: Kinde – auth, feature flags and billing (Q3) in one integration](https://kinde.com/)
 * [2023-04-19, 04:22:17](https://news.ycombinator.com/item?id=35624210) - [Nintendo Hacker Freed, Now Owes Them 25-30% of Salary for Life](https://www.dexerto.com/tech/nintendo-hacker-forced-to-pay-them-for-life-after-being-released-from-prison-2117382/)
 * [2023-04-19, 03:21:15](https://news.ycombinator.com/item?id=35623891) - [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
