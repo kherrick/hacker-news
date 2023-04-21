@@ -10,7 +10,6 @@
 * [2023-04-21, 18:59:12](https://news.ycombinator.com/item?id=35658387) - [How to Become a “Designer Who Codes”](https://publication.design.systems/how-to-become-a-designer-who-codes-52ae97f60d68?gi=81198e6b14b3)
 * [2023-04-21, 18:54:31](https://news.ycombinator.com/item?id=35658319) - [Looplets: A Language for Structured Coiteration](https://dl.acm.org/doi/10.1145/3579990.3580020)
 * [2023-04-21, 18:54:30](https://news.ycombinator.com/item?id=35658318) - [Nuclear Power Is the Answer to Global and Environmental Energy Woes](https://nationalinterest.org/feature/nuclear-power-answer-global-and-environmental-energy-woes-206418)
-* [2023-04-21, 18:29:21](https://news.ycombinator.com/item?id=35657984) - [Fire Mark Zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
 * [2023-04-21, 18:29:13](https://news.ycombinator.com/item?id=35657982) - [GitHub Copilot emits GPL code](https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not)
 * [2023-04-21, 17:57:25](https://news.ycombinator.com/item?id=35657570) - [&#x27;Devastating&#x27; melt of Greenland, Antarctic ice sheets found](https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html)
 * [2023-04-21, 17:47:26](https://news.ycombinator.com/item?id=35657436) - [The Commission for Stopping Further Improvements](https://rootsofprogress.org/isambard-brunel-on-engineering-standards)
@@ -28,6 +27,7 @@
 * [2023-04-21, 05:00:32](https://news.ycombinator.com/item?id=35649961) - [Revisiting the baby schema by a geometric morphometric analysis of great apes](https://www.nature.com/articles/s41598-023-31731-4)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
 * [2023-04-21, 04:51:00](https://news.ycombinator.com/item?id=35649917) - [Dummy Boards: The Fun Figures of the 1600s](https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/)
+* [2023-04-20, 20:45:33](https://news.ycombinator.com/item?id=35646033) - [Pico Cray – Small scale distributed computing](https://www.extremeelectronics.co.uk/pico-cray-small-scale-distributed-computing/)
 * [2023-04-20, 17:26:31](https://news.ycombinator.com/item?id=35643255) - [Show HN: We built a ClickHouse-based logging service](https://github.com/highlight/highlight/blob/main/README.md)
 * [2023-04-19, 21:02:26](https://news.ycombinator.com/item?id=35633291) - [Physicists discover that gravity can create light](https://phys.org/news/2023-04-physicists-gravity.html)
 
