@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 13:20:49](https://news.ycombinator.com/item?id=35653324) - [Proliferation of AI weapons among non-state actors could be impossible to stop](https://www.theregister.com/2023/04/21/ai_enhanced_weapons/)
 * [2023-04-21, 13:07:04](https://news.ycombinator.com/item?id=35653125) - [AI is taking the jobs of Kenyans who write essays for U.S. college students](https://restofworld.org/2023/chatgpt-taking-kenya-ghostwriters-jobs/)
 * [2023-04-21, 12:53:09](https://news.ycombinator.com/item?id=35652964) - [US to start training Ukrainian troops on Abrams tanks within weeks](https://www.airforcetimes.com/news/your-air-force/2023/04/21/us-to-start-training-ukrainian-troops-on-abrams-tanks-within-weeks/)
 * [2023-04-21, 12:42:52](https://news.ycombinator.com/item?id=35652852) - [OpenBSD: Viogpu(4), a VirtIO GPU driver, added to -current](https://www.undeadly.org/cgi?action=article;sid=20230421124221)
