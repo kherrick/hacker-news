@@ -6,10 +6,12 @@
 
 * [2023-04-22, 13:10:19](https://news.ycombinator.com/item?id=35666262) - [Starship launch debris landed 6 miles north, residents report broken windows](https://www.space.com/spacex-starship-launch-debris-terrifying)
 * [2023-04-22, 13:01:02](https://news.ycombinator.com/item?id=35666201) - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
+* [2023-04-22, 12:57:47](https://news.ycombinator.com/item?id=35666175) - [Will AI obliterate the rule of law?](https://matthewbutterick.com/chron/will-ai-obliterate-the-rule-of-law.html)
 * [2023-04-22, 12:30:38](https://news.ycombinator.com/item?id=35665946) - [Amazon UK: customers say expensive orders switched for cheaper products](https://www.bbc.co.uk/news/uk-england-wiltshire-65310418)
 * [2023-04-22, 12:23:20](https://news.ycombinator.com/item?id=35665880) - [Everyone with Blue Eyes May Descend from a Single Human Ancestor](https://www.popularmechanics.com/science/health/a43656366/everyone-with-blue-eyes-may-come-from-same-human-ancestor/)
 * [2023-04-22, 12:01:21](https://news.ycombinator.com/item?id=35665701) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
 * [2023-04-22, 11:17:15](https://news.ycombinator.com/item?id=35665366) - [Google Mars](https://www.google.com/mars/)
+* [2023-04-22, 10:56:00](https://news.ycombinator.com/item?id=35665220) - [Outbound Sales Playbook: A detailed process we used to get from 0-$10M in ARR](https://app.kickscale.com/share/DKBNQMywB9A6qPyFwDMl/FQLlkwPGib6jm8LyArIL)
 * [2023-04-22, 10:41:21](https://news.ycombinator.com/item?id=35665145) - [Should you remove duplicate files?](https://eclecticlight.co/2023/04/22/should-you-remove-duplicate-files/)
 * [2023-04-22, 10:40:49](https://news.ycombinator.com/item?id=35665142) - [Show HN: I made a SQL game to help people learn &#x2F; challenge their skills](https://lost-at-sql.therobinlord.com/)
 * [2023-04-22, 10:34:47](https://news.ycombinator.com/item?id=35665101) - [Medical Wordlist (EN&#x2F;FR&#x2F;UK) : 164450 words in english](https://github.com/theophpo/medical-wordlist)
