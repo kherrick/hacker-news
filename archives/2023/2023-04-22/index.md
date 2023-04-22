@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 21:02:21](https://news.ycombinator.com/item?id=35670912) - [The Sell ∀ ∃ as ∃ ∀ Scam](https://win-vector.com/2023/04/22/the-sell-as-scam/)
 * [2023-04-22, 20:41:24](https://news.ycombinator.com/item?id=35670723) - [How does the New York Times make a game?](https://www.nytimes.com/2023/04/10/crosswords/games-digits-beta.html)
 * [2023-04-22, 20:05:39](https://news.ycombinator.com/item?id=35670422) - [System D](https://en.wikipedia.org/wiki/System_D)
 * [2023-04-22, 19:11:59](https://news.ycombinator.com/item?id=35669968) - [iPhone Doomed to Failure (2008)](https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html)
