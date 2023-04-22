@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-22, 10:08:53](https://news.ycombinator.com/item?id=35664972) - [Google CEO Sundar Pichai Received $226M Compensation While Firing Thousands](https://www.bloomberg.com/news/articles/2023-04-21/alphabet-ceo-s-pay-soars-to-226-million-on-massive-stock-award)
 * [2023-04-22, 08:55:13](https://news.ycombinator.com/item?id=35664586) - [Animal Meat and Milk Sales Drop in Europe as Vegan Versions Hit Record Highs](https://plantbasednews.org/news/economics/europe-vegan-food-sales-meat-products/)
 * [2023-04-22, 07:33:13](https://news.ycombinator.com/item?id=35664219) - [Researchers Taught Parrots to Video Call Other Parrots](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 * [2023-04-22, 05:38:39](https://news.ycombinator.com/item?id=35663692) - [Navigating the world when your senses conjure up phenomena others can’t perceive](https://theamericanscholar.org/phantoms/)
@@ -14,7 +15,6 @@
 * [2023-04-21, 21:48:43](https://news.ycombinator.com/item?id=35660675) - [NewsNotFound: An open-source, unbiased news company](https://newsnotfound.com/whitepaper/)
 * [2023-04-21, 21:08:03](https://news.ycombinator.com/item?id=35660186) - [Windows on Btrfs](https://www.lilysthings.org/blog/windows-on-btrfs/)
 * [2023-04-21, 21:01:05](https://news.ycombinator.com/item?id=35660076) - [Generally Intelligent (YC S17) Is Hiring an Infrastructure Engineer](https://news.ycombinator.com/item?id=35660076)
-* [2023-04-21, 20:17:02](https://news.ycombinator.com/item?id=35659462) - [Florida’s Corkscrew Swamp](https://worldsensorium.com/the-real-magic-kingdom-floridas-corkscrew-swamp/)
 * [2023-04-21, 20:07:36](https://news.ycombinator.com/item?id=35659310) - [AI is upending the freelance world](https://www.forbes.com/sites/rashishrivastava/2023/04/20/ive-never-hired-a-writer-better-than-chatgpt-how-ai-is-upending-the-freelance-world/)
 * [2023-04-21, 19:52:42](https://news.ycombinator.com/item?id=35659092) - [Faster LZ is not the answer to 150-250 GB video game downloads](http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html)
 * [2023-04-21, 19:01:00](https://news.ycombinator.com/item?id=35658412) - [Will boiling water ruin green tea?](https://www.myjapanesegreentea.com/will-boiling-water-ruin-green-tea)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 10:08:53](https://news.ycombinator.com/item?id=35664972) - [Google CEO Sundar Pichai Received $226M Compensation While Firing Thousands](https://www.bloomberg.com/news/articles/2023-04-21/alphabet-ceo-s-pay-soars-to-226-million-on-massive-stock-award)
 * [2023-04-22, 08:55:13](https://news.ycombinator.com/item?id=35664586) - [Animal Meat and Milk Sales Drop in Europe as Vegan Versions Hit Record Highs](https://plantbasednews.org/news/economics/europe-vegan-food-sales-meat-products/)
 * [2023-04-22, 07:36:43](https://news.ycombinator.com/item?id=35664236) - [America Fails the Civilization Test](https://www.theatlantic.com/ideas/archive/2023/04/america-mortality-rate-guns-health/673799/)
 * [2023-04-22, 07:33:13](https://news.ycombinator.com/item?id=35664219) - [Researchers Taught Parrots to Video Call Other Parrots](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
