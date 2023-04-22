@@ -28,7 +28,7 @@
 * [2023-04-21, 18:59:12](https://news.ycombinator.com/item?id=35658387) - [How to become a “designer who codes” (2019)](https://publication.design.systems/how-to-become-a-designer-who-codes-52ae97f60d68?gi=81198e6b14b3)
 * [2023-04-21, 18:54:31](https://news.ycombinator.com/item?id=35658319) - [Looplets: A Language for Structured Coiteration](https://dl.acm.org/doi/10.1145/3579990.3580020)
 * [2023-04-21, 17:47:26](https://news.ycombinator.com/item?id=35657436) - [The Commission for Stopping Further Improvements](https://rootsofprogress.org/isambard-brunel-on-engineering-standards)
-* [2023-04-21, 15:32:44](https://news.ycombinator.com/item?id=35655282) - [The EARN IT bill is back, seeking to scan our messages and photos](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos)
+* [2023-04-21, 10:45:28](https://news.ycombinator.com/item?id=35651953) - [Mass noun](https://en.wikipedia.org/wiki/Mass_noun)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
 
 ## [Archives](archives/index.md)
