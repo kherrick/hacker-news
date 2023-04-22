@@ -9,6 +9,7 @@
 * [2023-04-21, 21:58:34](https://news.ycombinator.com/item?id=35660796) - [Show HN: TxtNet Browser – Browse the Web over SMS, No Wi-Fi&#x2F;Mobile Data Needed](https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md)
 * [2023-04-21, 21:55:14](https://news.ycombinator.com/item?id=35660751) - [Show HN: Automatic Prompt Optimizer for LLMs](https://promptperfect.jina.ai/)
 * [2023-04-21, 21:48:43](https://news.ycombinator.com/item?id=35660675) - [NewsNotFound: An open-source, unbiased news company](https://newsnotfound.com/whitepaper/)
+* [2023-04-21, 21:37:15](https://news.ycombinator.com/item?id=35660556) - [Simple Pathtracing](https://iquilezles.org/articles/simplepathtracing/)
 * [2023-04-21, 21:08:03](https://news.ycombinator.com/item?id=35660186) - [Windows on Btrfs](https://www.lilysthings.org/blog/windows-on-btrfs/)
 * [2023-04-21, 21:01:05](https://news.ycombinator.com/item?id=35660076) - [Generally Intelligent (YC S17) Is Hiring Infrastructure Engineer](https://news.ycombinator.com/item?id=35660076)
 * [2023-04-21, 20:17:02](https://news.ycombinator.com/item?id=35659462) - [The Magic Kingdom: Florida’s Corkscrew Swamp](https://worldsensorium.com/the-real-magic-kingdom-floridas-corkscrew-swamp/)
