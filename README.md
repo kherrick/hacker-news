@@ -21,7 +21,6 @@
 * [2023-04-22, 12:01:21](https://news.ycombinator.com/item?id=35665701) - [Meticulous (YC S21) is hiring a founding engineer to build AI for testing](https://news.ycombinator.com/item?id=35665701)
 * [2023-04-22, 12:01:14](https://news.ycombinator.com/item?id=35665699) - [When a mosquito can’t stop drinking blood, the result isn’t pretty](https://entomologytoday.org/2020/03/19/when-a-mosquito-cant-stop-drinking-blood-the-result-isnt-pretty/)
 * [2023-04-22, 11:17:15](https://news.ycombinator.com/item?id=35665366) - [Google Mars (2005)](https://www.google.com/mars/)
-* [2023-04-22, 10:46:21](https://news.ycombinator.com/item?id=35665168) - [Ask HN: Is prompt engineering just snake oil?](https://news.ycombinator.com/item?id=35665168)
 * [2023-04-22, 10:40:49](https://news.ycombinator.com/item?id=35665142) - [Show HN: I made a SQL game to help people learn &#x2F; challenge their skills](https://lost-at-sql.therobinlord.com/)
 * [2023-04-22, 09:36:36](https://news.ycombinator.com/item?id=35664810) - [Magic3D: High-Resolution Text-to-3D Content Creation](https://research.nvidia.com/labs/dir/magic3d/)
 * [2023-04-22, 09:27:43](https://news.ycombinator.com/item?id=35664764) - [History of Math](https://maa.tandfonline.com/journals/uamm20/collections/History-of-Math)
@@ -29,6 +28,7 @@
 * [2023-04-22, 06:08:02](https://news.ycombinator.com/item?id=35663845) - [Maintain consistent styles for developers working across various editors](https://editorconfig.org/)
 * [2023-04-22, 05:58:53](https://news.ycombinator.com/item?id=35663799) - [Binary was invented to weigh wine a century before Leibniz](https://link.springer.com/article/10.1007/s00283-023-10271-9)
 * [2023-04-22, 05:19:48](https://news.ycombinator.com/item?id=35663606) - [What follows from empirical software research?](https://jimmyhmiller.github.io/empirical)
+* [2023-04-22, 04:01:01](https://news.ycombinator.com/item?id=35663234) - [Mass Editing Memory in a Transformer](https://quuxplusone.github.io/blog/feed.xml)
 * [2023-04-21, 17:53:47](https://news.ycombinator.com/item?id=35657525) - [The Joy of an Empty Brain](https://www.wsj.com/articles/the-joy-of-a-totally-empty-brain-4fe4a739)
 
 ## [Archives](archives/index.md)
