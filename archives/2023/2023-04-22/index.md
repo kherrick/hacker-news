@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 17:45:06](https://news.ycombinator.com/item?id=35669101) - [Tell HN: 2^4 == 4^2, extended to rationals](https://news.ycombinator.com/item?id=35669101)
+* [2023-04-22, 17:10:23](https://news.ycombinator.com/item?id=35668708) - [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
 * [2023-04-22, 16:44:32](https://news.ycombinator.com/item?id=35668387) - [Prompt Engineering vs. Blind Prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
 * [2023-04-22, 16:42:21](https://news.ycombinator.com/item?id=35668357) - [Housing should be affordable except for when I sell my house for $1M](https://www.mcsweeneys.net/articles/housing-should-be-affordable-except-when-i-sell-my-house-for-a-million-dollars)
 * [2023-04-22, 16:31:21](https://news.ycombinator.com/item?id=35668228) - [The Loophole That Made Cars in America So Big](https://www.distilled.earth/p/the-loophole-that-made-cars-in-america)
@@ -11,6 +13,7 @@
 * [2023-04-22, 16:17:04](https://news.ycombinator.com/item?id=35668072) - [“Luxury” construction causes high rents like umbrellas cause rain](https://noahpinion.substack.com/p/luxury-construction-causes-high-rents)
 * [2023-04-22, 15:52:50](https://news.ycombinator.com/item?id=35667796) - [Methane may not warm the Earth quite as much as previously thought](https://www.sciencenews.org/article/methane-warm-earth-atmosphere-radiation)
 * [2023-04-22, 15:50:52](https://news.ycombinator.com/item?id=35667772) - [The Box](https://soaringtwenties.substack.com/p/inside-the-box)
+* [2023-04-22, 15:50:10](https://news.ycombinator.com/item?id=35667764) - [Will we run out of ML data?](https://epochai.org/blog/will-we-run-out-of-ml-data-evidence-from-projecting-dataset)
 * [2023-04-22, 15:44:54](https://news.ycombinator.com/item?id=35667714) - [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
 * [2023-04-22, 15:39:13](https://news.ycombinator.com/item?id=35667650) - [WebAssembly Text Code Samples](https://eli.thegreenplace.net/2023/webassembly-text-code-samples/)
 * [2023-04-22, 15:38:37](https://news.ycombinator.com/item?id=35667642) - [How Did the Chess Pieces Get Their Names?](https://www.atlasobscura.com/articles/how-did-chess-pieces-get-their-names)
@@ -52,6 +55,7 @@
 * [2023-04-22, 06:08:02](https://news.ycombinator.com/item?id=35663845) - [Maintain consistent styles for developers working across various editors](https://editorconfig.org/)
 * [2023-04-22, 05:38:39](https://news.ycombinator.com/item?id=35663692) - [Navigating the world when your senses conjure up phenomena others can’t perceive](https://theamericanscholar.org/phantoms/)
 * [2023-04-22, 05:20:39](https://news.ycombinator.com/item?id=35663611) - [Explosions Are Great](https://1517.substack.com/p/explosions-are-great-actually)
+* [2023-04-22, 05:19:48](https://news.ycombinator.com/item?id=35663606) - [What follows from empirical software research?](https://jimmyhmiller.github.io/empirical)
 * [2023-04-22, 04:04:33](https://news.ycombinator.com/item?id=35663250) - [The streaming era turned music into sludge](https://www.wired.com/story/plaintext-how-the-streaming-era-turned-music-into-sludge/)
 * [2023-04-22, 03:54:53](https://news.ycombinator.com/item?id=35663203) - [Singapore to execute human by hanging for 1kg of cannabis](https://www.taipeitimes.com/News/front/archives/2023/04/22/2003798402)
 * [2023-04-22, 02:26:28](https://news.ycombinator.com/item?id=35662799) - [In Defense of No-Code’s Potential](https://buttondown.email/hillelwayne/archive/in-defense-of-no-codes-potential/)
