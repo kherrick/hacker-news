@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2023-04-21, 17:50:00",
+      "https://news.ycombinator.com/item?id=35657474"
+    ],
+    [
+      "Datomic Implicit Partitions",
+      "https://blog.datomic.com/2023/04/implicit-partitions.html"
+    ]
+  ],
+  [
+    [
       "2023-04-21, 17:47:26",
       "https://news.ycombinator.com/item?id=35657436"
     ],
@@ -217,16 +227,6 @@
     [
       "OpenBSD: Viogpu(4), a VirtIO GPU driver, added to -current",
       "https://www.undeadly.org/cgi?action=article;sid=20230421124221"
-    ]
-  ],
-  [
-    [
-      "2023-04-21, 12:11:03",
-      "https://news.ycombinator.com/item?id=35652541"
-    ],
-    [
-      "Atari 800XL Remake",
-      "https://revive-machines.com/index-en.html"
     ]
   ],
   [
