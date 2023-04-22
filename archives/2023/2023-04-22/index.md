@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 15:52:50](https://news.ycombinator.com/item?id=35667796) - [Methane may not warm the Earth quite as much as previously thought](https://www.sciencenews.org/article/methane-warm-earth-atmosphere-radiation)
+* [2023-04-22, 15:50:52](https://news.ycombinator.com/item?id=35667772) - [The Box](https://soaringtwenties.substack.com/p/inside-the-box)
 * [2023-04-22, 15:44:54](https://news.ycombinator.com/item?id=35667714) - [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
+* [2023-04-22, 15:39:13](https://news.ycombinator.com/item?id=35667650) - [WebAssembly Text Code Samples](https://eli.thegreenplace.net/2023/webassembly-text-code-samples/)
+* [2023-04-22, 15:38:37](https://news.ycombinator.com/item?id=35667642) - [How Did the Chess Pieces Get Their Names?](https://www.atlasobscura.com/articles/how-did-chess-pieces-get-their-names)
 * [2023-04-22, 15:33:59](https://news.ycombinator.com/item?id=35667585) - [BYD Seagull EV Priced from $11,400, Gets 10k Orders on First Day](https://insideevs.com/news/663595/byd-seagull-ev-priced-11400-usd-gets-10000-orders-first-day/)
 * [2023-04-22, 15:30:10](https://news.ycombinator.com/item?id=35667547) - [Schools bought millions of Chromebooks and 3 years later they’re breaking down](https://www.theverge.com/2023/4/21/23691840/us-pirg-education-fund-report-investigation-chromebook-churn)
 * [2023-04-22, 15:20:42](https://news.ycombinator.com/item?id=35667476) - [Boustrophedon](https://en.wikipedia.org/wiki/Boustrophedon)
@@ -23,6 +27,7 @@
 * [2023-04-22, 12:30:38](https://news.ycombinator.com/item?id=35665946) - [Amazon UK: customers say expensive orders switched for cheaper products](https://www.bbc.co.uk/news/uk-england-wiltshire-65310418)
 * [2023-04-22, 12:23:20](https://news.ycombinator.com/item?id=35665880) - [Everyone with Blue Eyes May Descend from a Single Human Ancestor](https://www.popularmechanics.com/science/health/a43656366/everyone-with-blue-eyes-may-come-from-same-human-ancestor/)
 * [2023-04-22, 12:01:21](https://news.ycombinator.com/item?id=35665701) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
+* [2023-04-22, 12:01:14](https://news.ycombinator.com/item?id=35665699) - [When a Mosquito Can’t Stop Drinking Blood, the Result Isn’t Pretty](https://entomologytoday.org/2020/03/19/when-a-mosquito-cant-stop-drinking-blood-the-result-isnt-pretty/)
 * [2023-04-22, 11:42:50](https://news.ycombinator.com/item?id=35665539) - [Ask HN: Why isn&#x27;t BTRFS the default FS in home-oriented Linux distributions?](https://news.ycombinator.com/item?id=35665539)
 * [2023-04-22, 11:17:15](https://news.ycombinator.com/item?id=35665366) - [Google Mars](https://www.google.com/mars/)
 * [2023-04-22, 10:56:00](https://news.ycombinator.com/item?id=35665220) - [Outbound Sales Playbook: A detailed process we used to get from 0-$10M in ARR](https://app.kickscale.com/share/DKBNQMywB9A6qPyFwDMl/FQLlkwPGib6jm8LyArIL)
