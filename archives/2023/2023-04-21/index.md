@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 23:23:35](https://news.ycombinator.com/item?id=35661574) - [EcoHabit: An Open Source Project for Environmental Awareness (Earth Day Special)](https://github.com/lugenx/ecohabit)
 * [2023-04-21, 22:15:49](https://news.ycombinator.com/item?id=35660967) - [US 5-year credit default swaps rise to highest since 2011](https://www.reuters.com/markets/us/us-5-year-credit-default-swaps-rise-highest-since-2011-2023-04-21/)
 * [2023-04-21, 21:58:34](https://news.ycombinator.com/item?id=35660796) - [Show HN: TxtNet Browser – Browse the Web over SMS, No Wi-Fi&#x2F;Mobile Data Needed](https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md)
 * [2023-04-21, 21:55:14](https://news.ycombinator.com/item?id=35660751) - [Show HN: Automatic Prompt Optimizer for LLMs](https://promptperfect.jina.ai/)
