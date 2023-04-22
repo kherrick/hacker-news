@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
 * [2023-04-22, 18:07:06](https://news.ycombinator.com/item?id=35669340) - [Negative Mass](https://students.tools/negative/?6=9)
+* [2023-04-22, 17:48:28](https://news.ycombinator.com/item?id=35669131) - [First ROM Shadowing](https://www.os2museum.com/wp/first-rom-shadowing/)
 * [2023-04-22, 17:45:06](https://news.ycombinator.com/item?id=35669101) - [Tell HN: 2^4 == 4^2, extended to rationals](https://news.ycombinator.com/item?id=35669101)
 * [2023-04-22, 17:40:54](https://news.ycombinator.com/item?id=35669053) - [Show HN: DontBore – Accessible, fast, low-footprint Login sharing for the masses](https://dontbo.re/)
 * [2023-04-22, 17:10:23](https://news.ycombinator.com/item?id=35668708) - [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)

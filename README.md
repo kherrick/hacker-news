@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-22, 18:07:06](https://news.ycombinator.com/item?id=35669340) - [Negative Mass](https://students.tools/negative/?6=9)
+* [2023-04-22, 17:48:28](https://news.ycombinator.com/item?id=35669131) - [First ROM Shadowing](https://www.os2museum.com/wp/first-rom-shadowing/)
 * [2023-04-22, 17:45:06](https://news.ycombinator.com/item?id=35669101) - [Tell HN: 2^4 == 4^2, extended to rationals](https://news.ycombinator.com/item?id=35669101)
 * [2023-04-22, 17:40:54](https://news.ycombinator.com/item?id=35669053) - [Show HN: DontBore – Accessible, fast, low-footprint Login sharing for the masses](https://dontbo.re/)
 * [2023-04-22, 17:10:23](https://news.ycombinator.com/item?id=35668708) - [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
@@ -20,7 +21,6 @@
 * [2023-04-22, 13:01:02](https://news.ycombinator.com/item?id=35666201) - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 * [2023-04-22, 12:01:21](https://news.ycombinator.com/item?id=35665701) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
 * [2023-04-22, 12:01:14](https://news.ycombinator.com/item?id=35665699) - [When a Mosquito Can’t Stop Drinking Blood, the Result Isn’t Pretty](https://entomologytoday.org/2020/03/19/when-a-mosquito-cant-stop-drinking-blood-the-result-isnt-pretty/)
-* [2023-04-22, 10:46:21](https://news.ycombinator.com/item?id=35665168) - [Ask HN: Is prompt engineering just snake oil?](https://news.ycombinator.com/item?id=35665168)
 * [2023-04-22, 10:40:49](https://news.ycombinator.com/item?id=35665142) - [Show HN: I made a SQL game to help people learn &#x2F; challenge their skills](https://lost-at-sql.therobinlord.com/)
 * [2023-04-22, 10:34:47](https://news.ycombinator.com/item?id=35665101) - [Medical wordlists in English, French and Ukrainian](https://github.com/theophpo/medical-wordlist)
 * [2023-04-22, 09:36:36](https://news.ycombinator.com/item?id=35664810) - [Magic3D: High-Resolution Text-to-3D Content Creation](https://research.nvidia.com/labs/dir/magic3d/)
