@@ -62,6 +62,7 @@
 * [2023-04-22, 08:37:31](https://news.ycombinator.com/item?id=35664505) - [Purely Functional AVL Trees in Common Lisp](https://two-wrongs.com/purely-functional-avl-trees-in-common-lisp.html)
 * [2023-04-22, 07:36:43](https://news.ycombinator.com/item?id=35664236) - [America Fails the Civilization Test](https://www.theatlantic.com/ideas/archive/2023/04/america-mortality-rate-guns-health/673799/)
 * [2023-04-22, 07:33:13](https://news.ycombinator.com/item?id=35664219) - [Researchers Taught Parrots to Video Call Other Parrots](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
+* [2023-04-22, 07:06:47](https://news.ycombinator.com/item?id=35664090) - [Manjaro Linux 22.1 Talos Released](https://forum.manjaro.org/t/manjaro-22-1-talos-released/139155)
 * [2023-04-22, 07:04:32](https://news.ycombinator.com/item?id=35664077) - [FAA grounds SpaceX&#x27;s Starship after launch mishap](https://www.politico.com/news/2023/04/20/spacex-starship-explode-elon-musk-00093042)
 * [2023-04-22, 06:08:02](https://news.ycombinator.com/item?id=35663845) - [Maintain consistent styles for developers working across various editors](https://editorconfig.org/)
 * [2023-04-22, 05:58:53](https://news.ycombinator.com/item?id=35663799) - [Binary was invented to weigh wine a century before Leibniz](https://link.springer.com/article/10.1007/s00283-023-10271-9)
