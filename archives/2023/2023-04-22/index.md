@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 15:17:41](https://news.ycombinator.com/item?id=35667429) - [Why the Brain’s Connections to the Body Are Crisscrossed](https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419/)
 * [2023-04-22, 15:05:28](https://news.ycombinator.com/item?id=35667285) - [Say Hi to SoFi. It’s Suing to Force You to Repay Student Loans Faster](https://www.nytimes.com/2023/04/22/your-money/sofi-student-loans-lawsuit.html)
+* [2023-04-22, 14:57:56](https://news.ycombinator.com/item?id=35667205) - [ReceptioGate and the (Absolute) State of Academia](https://thecritic.co.uk/receptiogate-and-the-absolute-state-of-academia/)
 * [2023-04-22, 14:47:37](https://news.ycombinator.com/item?id=35667090) - [Meta&#x27;s Head of AI Has Some Interesting Beliefs About Dominance and Submission](https://futurism.com/the-byte/meta-head-ai-dominance-submission)
+* [2023-04-22, 14:18:24](https://news.ycombinator.com/item?id=35666837) - [XINF](https://xinf.dev/)
 * [2023-04-22, 14:17:40](https://news.ycombinator.com/item?id=35666832) - [“Chromebooks aren’t built to last”: Average device has 4 years of updates left](https://arstechnica.com/gadgets/2023/04/chromebooks-arent-built-to-last-average-device-has-4-years-of-updates-left/)
 * [2023-04-22, 14:03:37](https://news.ycombinator.com/item?id=35666713) - [Texas lawmakers advance bill to force schools to display Ten Commandments](https://www.theguardian.com/us-news/2023/apr/21/texas-classrooms-ten-commandments-bill)
 * [2023-04-22, 13:50:21](https://news.ycombinator.com/item?id=35666598) - [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
@@ -16,6 +19,7 @@
 * [2023-04-22, 12:30:38](https://news.ycombinator.com/item?id=35665946) - [Amazon UK: customers say expensive orders switched for cheaper products](https://www.bbc.co.uk/news/uk-england-wiltshire-65310418)
 * [2023-04-22, 12:23:20](https://news.ycombinator.com/item?id=35665880) - [Everyone with Blue Eyes May Descend from a Single Human Ancestor](https://www.popularmechanics.com/science/health/a43656366/everyone-with-blue-eyes-may-come-from-same-human-ancestor/)
 * [2023-04-22, 12:01:21](https://news.ycombinator.com/item?id=35665701) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
+* [2023-04-22, 11:42:50](https://news.ycombinator.com/item?id=35665539) - [Ask HN: Why isn&#x27;t BTRFS the default FS in home-oriented Linux distributions?](https://news.ycombinator.com/item?id=35665539)
 * [2023-04-22, 11:17:15](https://news.ycombinator.com/item?id=35665366) - [Google Mars](https://www.google.com/mars/)
 * [2023-04-22, 10:56:00](https://news.ycombinator.com/item?id=35665220) - [Outbound Sales Playbook: A detailed process we used to get from 0-$10M in ARR](https://app.kickscale.com/share/DKBNQMywB9A6qPyFwDMl/FQLlkwPGib6jm8LyArIL)
 * [2023-04-22, 10:46:21](https://news.ycombinator.com/item?id=35665168) - [Ask HN: Is prompt engineering just snake oil?](https://news.ycombinator.com/item?id=35665168)
