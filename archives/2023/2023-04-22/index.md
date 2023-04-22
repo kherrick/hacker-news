@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 15:44:54](https://news.ycombinator.com/item?id=35667714) - [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
+* [2023-04-22, 15:33:59](https://news.ycombinator.com/item?id=35667585) - [BYD Seagull EV Priced from $11,400, Gets 10k Orders on First Day](https://insideevs.com/news/663595/byd-seagull-ev-priced-11400-usd-gets-10000-orders-first-day/)
+* [2023-04-22, 15:30:10](https://news.ycombinator.com/item?id=35667547) - [Schools bought millions of Chromebooks and 3 years later they’re breaking down](https://www.theverge.com/2023/4/21/23691840/us-pirg-education-fund-report-investigation-chromebook-churn)
+* [2023-04-22, 15:20:42](https://news.ycombinator.com/item?id=35667476) - [Boustrophedon](https://en.wikipedia.org/wiki/Boustrophedon)
 * [2023-04-22, 15:17:41](https://news.ycombinator.com/item?id=35667429) - [Why the Brain’s Connections to the Body Are Crisscrossed](https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419/)
 * [2023-04-22, 15:05:28](https://news.ycombinator.com/item?id=35667285) - [Say Hi to SoFi. It’s Suing to Force You to Repay Student Loans Faster](https://www.nytimes.com/2023/04/22/your-money/sofi-student-loans-lawsuit.html)
 * [2023-04-22, 14:57:56](https://news.ycombinator.com/item?id=35667205) - [ReceptioGate and the (Absolute) State of Academia](https://thecritic.co.uk/receptiogate-and-the-absolute-state-of-academia/)
