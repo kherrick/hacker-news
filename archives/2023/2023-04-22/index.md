@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 19:11:59](https://news.ycombinator.com/item?id=35669968) - [iPhone Doomed to Failure (2008)](https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html)
 * [2023-04-22, 19:09:18](https://news.ycombinator.com/item?id=35669945) - [US Presidential Hopefuls Rally Against a Digital Dollar Ahead of 2024 Elections](https://www.bloomberg.com/news/articles/2023-04-22/us-presidential-hopefuls-rally-against-us-cbdc-plans-ahead-of-2024-elections)
 * [2023-04-22, 18:27:29](https://news.ycombinator.com/item?id=35669531) - [Let Teenagers Work](https://www.hoover.org/research/letting-teenagers-work)
 * [2023-04-22, 18:07:06](https://news.ycombinator.com/item?id=35669340) - [Negative Mass](https://students.tools/negative/?6=9)
