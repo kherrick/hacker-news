@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 12:01:21](https://news.ycombinator.com/item?id=35665701) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
 * [2023-04-22, 11:17:15](https://news.ycombinator.com/item?id=35665366) - [Google Mars](https://www.google.com/mars/)
 * [2023-04-22, 10:41:21](https://news.ycombinator.com/item?id=35665145) - [Should you remove duplicate files?](https://eclecticlight.co/2023/04/22/should-you-remove-duplicate-files/)
 * [2023-04-22, 10:40:49](https://news.ycombinator.com/item?id=35665142) - [Show HN: I made a SQL game to help people learn &#x2F; challenge their skills](https://lost-at-sql.therobinlord.com/)
