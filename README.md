@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-22, 01:16:13](https://news.ycombinator.com/item?id=35662345) - [Apple will launch a journaling app in iOS 17, but that’s bad news for some devs](https://arstechnica.com/gadgets/2023/04/apple-plans-mental-health-focused-journaling-app-for-ios-17/)
-* [2023-04-22, 01:06:18](https://news.ycombinator.com/item?id=35662276) - [A silent crisis in men’s health gets worse](https://www.washingtonpost.com/wellness/2023/04/17/mens-health-longevity-gap/)
 * [2023-04-22, 00:20:02](https://news.ycombinator.com/item?id=35661977) - [U.S. crypto exchange Coinbase secures Bermuda licence](https://www.reuters.com/technology/us-crypto-exchange-coinbase-secures-bermuda-licence-2023-04-20/)
 * [2023-04-22, 00:15:24](https://news.ycombinator.com/item?id=35661945) - [There is no A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 * [2023-04-21, 22:15:49](https://news.ycombinator.com/item?id=35660967) - [US 5-year credit default swaps rise to highest since 2011](https://www.reuters.com/markets/us/us-5-year-credit-default-swaps-rise-highest-since-2011-2023-04-21/)
@@ -24,10 +22,12 @@
 * [2023-04-21, 14:47:54](https://news.ycombinator.com/item?id=35654574) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 * [2023-04-21, 12:42:52](https://news.ycombinator.com/item?id=35652852) - [OpenBSD: Viogpu(4), a VirtIO GPU driver, added to -current](https://www.undeadly.org/cgi?action=article;sid=20230421124221)
 * [2023-04-21, 12:11:03](https://news.ycombinator.com/item?id=35652541) - [Atari 800XL Remake](https://revive-machines.com/index-en.html)
+* [2023-04-21, 11:58:13](https://news.ycombinator.com/item?id=35652444) - [Large, creative AI models will transform lives and labour markets](https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work)
 * [2023-04-21, 10:12:23](https://news.ycombinator.com/item?id=35651756) - [Athens Charter](https://en.wikipedia.org/wiki/Athens_Charter)
 * [2023-04-21, 05:00:32](https://news.ycombinator.com/item?id=35649961) - [Revisiting the baby schema by a geometric morphometric analysis of great apes](https://www.nature.com/articles/s41598-023-31731-4)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
 * [2023-04-21, 04:51:00](https://news.ycombinator.com/item?id=35649917) - [Dummy Boards: The Fun Figures of the 1600s](https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/)
+* [2023-04-21, 00:37:35](https://news.ycombinator.com/item?id=35648440) - [RF Breadboarding System](https://www.saelig.com/product/c700.htm)
 * [2023-04-20, 17:26:31](https://news.ycombinator.com/item?id=35643255) - [Show HN: We built a ClickHouse-based logging service](https://github.com/highlight/highlight/blob/main/README.md)
 * [2023-04-19, 21:02:26](https://news.ycombinator.com/item?id=35633291) - [Physicists discover that gravity can create light](https://phys.org/news/2023-04-physicists-gravity.html)
 
