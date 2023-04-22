@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-04-22, 01:16:13",
+      "https://news.ycombinator.com/item?id=35662345"
+    ],
+    [
+      "Apple will launch a journaling app",
+      "https://arstechnica.com/gadgets/2023/04/apple-plans-mental-health-focused-journaling-app-for-ios-17/"
+    ]
+  ],
+  [
+    [
       "2023-04-22, 00:49:39",
       "https://news.ycombinator.com/item?id=35662176"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2023-04-21, 21:48:43",
+      "https://news.ycombinator.com/item?id=35660675"
+    ],
+    [
+      "NewsNotFound: An open-source, unbiased news company",
+      "https://newsnotfound.com/whitepaper/"
+    ]
+  ],
+  [
+    [
       "2023-04-21, 21:08:03",
       "https://news.ycombinator.com/item?id=35660186"
     ],
@@ -117,6 +137,26 @@
     [
       "Florida’s Corkscrew Swamp",
       "https://worldsensorium.com/the-real-magic-kingdom-floridas-corkscrew-swamp/"
+    ]
+  ],
+  [
+    [
+      "2023-04-21, 20:07:36",
+      "https://news.ycombinator.com/item?id=35659310"
+    ],
+    [
+      "‘I’ve Never Hired a Writer Better Than ChatGPT’: How AI Is Upending Freelancing",
+      "https://www.forbes.com/sites/rashishrivastava/2023/04/20/ive-never-hired-a-writer-better-than-chatgpt-how-ai-is-upending-the-freelance-world/"
+    ]
+  ],
+  [
+    [
+      "2023-04-21, 19:52:42",
+      "https://news.ycombinator.com/item?id=35659092"
+    ],
+    [
+      "Faster LZ is not the answer to 150-250 GB video game downloads",
+      "http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html"
     ]
   ],
   [
@@ -157,16 +197,6 @@
     [
       "Looplets: A Language for Structured Coiteration",
       "https://dl.acm.org/doi/10.1145/3579990.3580020"
-    ]
-  ],
-  [
-    [
-      "2023-04-21, 17:50:00",
-      "https://news.ycombinator.com/item?id=35657474"
-    ],
-    [
-      "Datomic Implicit Partitions",
-      "https://blog.datomic.com/2023/04/implicit-partitions.html"
     ]
   ],
   [
@@ -241,12 +271,12 @@
   ],
   [
     [
-      "2023-04-21, 10:12:23",
-      "https://news.ycombinator.com/item?id=35651756"
+      "2023-04-21, 10:45:28",
+      "https://news.ycombinator.com/item?id=35651953"
     ],
     [
-      "Athens Charter",
-      "https://en.wikipedia.org/wiki/Athens_Charter"
+      "Mass noun",
+      "https://en.wikipedia.org/wiki/Mass_noun"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg",
       "https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/"
-    ]
-  ],
-  [
-    [
-      "2023-04-21, 00:37:35",
-      "https://news.ycombinator.com/item?id=35648440"
-    ],
-    [
-      "RF Breadboarding System",
-      "https://www.saelig.com/product/c700.htm"
-    ]
-  ],
-  [
-    [
-      "2023-04-20, 17:26:31",
-      "https://news.ycombinator.com/item?id=35643255"
-    ],
-    [
-      "Show HN: We built a ClickHouse-based logging service",
-      "https://github.com/highlight/highlight/blob/main/README.md"
-    ]
-  ],
-  [
-    [
-      "2023-04-19, 21:02:26",
-      "https://news.ycombinator.com/item?id=35633291"
-    ],
-    [
-      "Physicists discover that gravity can create light",
-      "https://phys.org/news/2023-04-physicists-gravity.html"
     ]
   ]
 ]
