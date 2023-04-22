@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-04-22, 13:01:02",
-      "https://news.ycombinator.com/item?id=35666201"
-    ],
-    [
-      "Finetuning Large Language Models",
-      "https://magazine.sebastianraschka.com/p/finetuning-large-language-models"
-    ]
-  ],
-  [
-    [
       "2023-04-22, 12:01:21",
       "https://news.ycombinator.com/item?id=35665701"
     ],
@@ -237,6 +227,16 @@
     [
       "Manjaro Linux 22.1 Talos Released",
       "https://forum.manjaro.org/t/manjaro-22-1-talos-released/139155"
+    ]
+  ],
+  [
+    [
+      "2023-04-22, 06:08:02",
+      "https://news.ycombinator.com/item?id=35663845"
+    ],
+    [
+      "Maintain consistent styles for developers working across various editors",
+      "https://editorconfig.org/"
     ]
   ],
   [
