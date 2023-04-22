@@ -2,12 +2,12 @@
 
 * [2023-04-22, 19:09:18](https://news.ycombinator.com/item?id=35669945) - [US Presidential Hopefuls Rally Against a Digital Dollar Ahead of 2024 Elections](https://www.bloomberg.com/news/articles/2023-04-22/us-presidential-hopefuls-rally-against-us-cbdc-plans-ahead-of-2024-elections)
 * [2023-04-22, 18:07:06](https://news.ycombinator.com/item?id=35669340) - [Negative Mass](https://students.tools/negative/?6=9)
-* [2023-04-22, 18:03:25](https://news.ycombinator.com/item?id=35669298) - [An overlooked brain system helps you grab a coffee – and plan your next cup](https://text.npr.org/1171004199)
 * [2023-04-22, 17:48:28](https://news.ycombinator.com/item?id=35669131) - [First ROM Shadowing](https://www.os2museum.com/wp/first-rom-shadowing/)
 * [2023-04-22, 17:40:54](https://news.ycombinator.com/item?id=35669053) - [Show HN: DontBore – Accessible, fast, low-footprint Login sharing for the masses](https://dontbo.re/)
 * [2023-04-22, 17:10:23](https://news.ycombinator.com/item?id=35668708) - [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
 * [2023-04-22, 16:44:32](https://news.ycombinator.com/item?id=35668387) - [Prompt engineering vs. blind prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
 * [2023-04-22, 15:50:52](https://news.ycombinator.com/item?id=35667772) - [Inside The Box](https://soaringtwenties.substack.com/p/inside-the-box)
+* [2023-04-22, 15:50:10](https://news.ycombinator.com/item?id=35667764) - [Will we run out of ML data? Evidence from projecting dataset size trends (2022)](https://epochai.org/blog/will-we-run-out-of-ml-data-evidence-from-projecting-dataset)
 * [2023-04-22, 15:44:54](https://news.ycombinator.com/item?id=35667714) - [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
 * [2023-04-22, 15:39:13](https://news.ycombinator.com/item?id=35667650) - [WebAssembly Text Code Samples](https://eli.thegreenplace.net/2023/webassembly-text-code-samples/)
 * [2023-04-22, 15:38:37](https://news.ycombinator.com/item?id=35667642) - [How did the chess pieces get their names?](https://www.atlasobscura.com/articles/how-did-chess-pieces-get-their-names)
@@ -26,10 +26,10 @@
 * [2023-04-22, 09:27:43](https://news.ycombinator.com/item?id=35664764) - [History of Math](https://maa.tandfonline.com/journals/uamm20/collections/History-of-Math)
 * [2023-04-22, 07:33:13](https://news.ycombinator.com/item?id=35664219) - [Parrots learn to make video calls to chat with other parrots: study](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 * [2023-04-22, 06:08:02](https://news.ycombinator.com/item?id=35663845) - [Maintain consistent styles for developers working across various editors](https://editorconfig.org/)
+* [2023-04-22, 05:58:53](https://news.ycombinator.com/item?id=35663799) - [Binary was invented to weigh wine a century before Leibniz](https://link.springer.com/article/10.1007/s00283-023-10271-9)
 * [2023-04-22, 05:19:48](https://news.ycombinator.com/item?id=35663606) - [What follows from empirical software research?](https://jimmyhmiller.github.io/empirical)
 * [2023-04-22, 01:03:55](https://news.ycombinator.com/item?id=35662260) - [How much can Duolingo teach us?](https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us)
 * [2023-04-21, 17:53:47](https://news.ycombinator.com/item?id=35657525) - [The Joy of an Empty Brain](https://www.wsj.com/articles/the-joy-of-a-totally-empty-brain-4fe4a739)
-* [2023-04-20, 05:45:32](https://news.ycombinator.com/item?id=35636806) - [Human or Not? A Social Turing Game](https://www.humanornot.ai/)
 
 ## [Archives](archives/index.md)
 
