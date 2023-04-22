@@ -43,6 +43,7 @@
 * [2023-04-22, 10:30:15](https://news.ycombinator.com/item?id=35665076) - [Ask HN: Why is TSMC so competitive in semiconductor fabrication?](https://news.ycombinator.com/item?id=35665076)
 * [2023-04-22, 10:08:53](https://news.ycombinator.com/item?id=35664972) - [Google CEO Sundar Pichai Received $226M Compensation While Firing Thousands](https://www.bloomberg.com/news/articles/2023-04-21/alphabet-ceo-s-pay-soars-to-226-million-on-massive-stock-award)
 * [2023-04-22, 09:36:36](https://news.ycombinator.com/item?id=35664810) - [Magic3D: High-Resolution Text-to-3D Content Creation](https://research.nvidia.com/labs/dir/magic3d/)
+* [2023-04-22, 09:27:43](https://news.ycombinator.com/item?id=35664764) - [History of Math](https://maa.tandfonline.com/journals/uamm20/collections/History-of-Math)
 * [2023-04-22, 08:55:13](https://news.ycombinator.com/item?id=35664586) - [Animal Meat and Milk Sales Drop in Europe as Vegan Versions Hit Record Highs](https://plantbasednews.org/news/economics/europe-vegan-food-sales-meat-products/)
 * [2023-04-22, 08:37:31](https://news.ycombinator.com/item?id=35664505) - [Purely Functional AVL Trees in Common Lisp](https://two-wrongs.com/purely-functional-avl-trees-in-common-lisp.html)
 * [2023-04-22, 07:36:43](https://news.ycombinator.com/item?id=35664236) - [America Fails the Civilization Test](https://www.theatlantic.com/ideas/archive/2023/04/america-mortality-rate-guns-health/673799/)
