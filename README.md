@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-22, 16:31:21](https://news.ycombinator.com/item?id=35668228) - [The Loophole That Made Cars in America So Big](https://www.distilled.earth/p/the-loophole-that-made-cars-in-america)
+* [2023-04-22, 16:17:04](https://news.ycombinator.com/item?id=35668072) - [“Luxury” construction causes high rents like umbrellas cause rain](https://noahpinion.substack.com/p/luxury-construction-causes-high-rents)
 * [2023-04-22, 15:52:50](https://news.ycombinator.com/item?id=35667796) - [Methane may not warm the Earth quite as much as previously thought](https://www.sciencenews.org/article/methane-warm-earth-atmosphere-radiation)
 * [2023-04-22, 15:50:52](https://news.ycombinator.com/item?id=35667772) - [The Box](https://soaringtwenties.substack.com/p/inside-the-box)
 * [2023-04-22, 15:44:54](https://news.ycombinator.com/item?id=35667714) - [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
@@ -13,7 +15,6 @@
 * [2023-04-22, 14:17:40](https://news.ycombinator.com/item?id=35666832) - [Design quirks, limited parts, and other ways Chromebooks frustrate repairs](https://arstechnica.com/gadgets/2023/04/chromebooks-arent-built-to-last-average-device-has-4-years-of-updates-left/)
 * [2023-04-22, 13:50:21](https://news.ycombinator.com/item?id=35666598) - [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
 * [2023-04-22, 13:01:02](https://news.ycombinator.com/item?id=35666201) - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
-* [2023-04-22, 12:45:02](https://news.ycombinator.com/item?id=35666070) - [Ubuntu 23.04 – &#x27;Lunar Lobster&#x27;](https://www.zdnet.com/article/canonical-unveils-ubuntu-23-04-a-lunar-lobster-thats-good-for-work-and-play/)
 * [2023-04-22, 12:30:38](https://news.ycombinator.com/item?id=35665946) - [Amazon investigates after high-value orders were switched for cheaper products](https://www.bbc.co.uk/news/uk-england-wiltshire-65310418)
 * [2023-04-22, 12:01:21](https://news.ycombinator.com/item?id=35665701) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
 * [2023-04-22, 12:01:14](https://news.ycombinator.com/item?id=35665699) - [When a Mosquito Can’t Stop Drinking Blood, the Result Isn’t Pretty](https://entomologytoday.org/2020/03/19/when-a-mosquito-cant-stop-drinking-blood-the-result-isnt-pretty/)
@@ -23,13 +24,12 @@
 * [2023-04-22, 10:34:47](https://news.ycombinator.com/item?id=35665101) - [Medical wordlists in English, French and Ukrainian](https://github.com/theophpo/medical-wordlist)
 * [2023-04-22, 10:30:15](https://news.ycombinator.com/item?id=35665076) - [Ask HN: Why is TSMC so competitive in semiconductor fabrication?](https://news.ycombinator.com/item?id=35665076)
 * [2023-04-22, 09:36:36](https://news.ycombinator.com/item?id=35664810) - [Magic3D: High-Resolution Text-to-3D Content Creation](https://research.nvidia.com/labs/dir/magic3d/)
-* [2023-04-22, 08:37:31](https://news.ycombinator.com/item?id=35664505) - [Purely Functional AVL Trees in Common Lisp (2018)](https://two-wrongs.com/purely-functional-avl-trees-in-common-lisp.html)
 * [2023-04-22, 07:33:13](https://news.ycombinator.com/item?id=35664219) - [Parrots learn to make video calls to chat with other parrots – study](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 * [2023-04-22, 06:08:02](https://news.ycombinator.com/item?id=35663845) - [Maintain consistent styles for developers working across various editors](https://editorconfig.org/)
 * [2023-04-22, 01:55:06](https://news.ycombinator.com/item?id=35662580) - [More than 19k undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
 * [2023-04-22, 01:53:22](https://news.ycombinator.com/item?id=35662571) - [Boot to Vim, Vim as Pid 1 (2014)](https://raymii.org/s/blog/Vim_as_PID_1_Boot_to_Vim.html)
 * [2023-04-21, 21:08:03](https://news.ycombinator.com/item?id=35660186) - [Windows on Btrfs](https://www.lilysthings.org/blog/windows-on-btrfs/)
-* [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
+* [2023-04-20, 05:45:32](https://news.ycombinator.com/item?id=35636806) - [Human or Not? A Social Turing Game](https://www.humanornot.ai/)
 
 ## [Archives](archives/index.md)
 

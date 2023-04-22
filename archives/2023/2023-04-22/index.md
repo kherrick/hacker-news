@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 16:31:21](https://news.ycombinator.com/item?id=35668228) - [The Loophole That Made Cars in America So Big](https://www.distilled.earth/p/the-loophole-that-made-cars-in-america)
+* [2023-04-22, 16:17:04](https://news.ycombinator.com/item?id=35668072) - [“Luxury” construction causes high rents like umbrellas cause rain](https://noahpinion.substack.com/p/luxury-construction-causes-high-rents)
 * [2023-04-22, 15:52:50](https://news.ycombinator.com/item?id=35667796) - [Methane may not warm the Earth quite as much as previously thought](https://www.sciencenews.org/article/methane-warm-earth-atmosphere-radiation)
 * [2023-04-22, 15:50:52](https://news.ycombinator.com/item?id=35667772) - [The Box](https://soaringtwenties.substack.com/p/inside-the-box)
 * [2023-04-22, 15:44:54](https://news.ycombinator.com/item?id=35667714) - [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)

@@ -83,6 +83,7 @@
 * [2023-04-20, 08:15:32](https://news.ycombinator.com/item?id=35637556) - [A Plea for Fairness for Non-Profit Developers of Open Source Software](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)
 * [2023-04-20, 08:04:43](https://news.ycombinator.com/item?id=35637505) - [Waydev (YC W21) Is Hiring](https://www.ycombinator.com/companies/waydev/jobs/BFA4rwl-head-of-sales)
 * [2023-04-20, 06:41:02](https://news.ycombinator.com/item?id=35637085) - [Show HN: Create Comics Using Stable Diffusion](https://www.comicsmaker.ai)
+* [2023-04-20, 05:45:32](https://news.ycombinator.com/item?id=35636806) - [Human or Not? A Social Turing Game](https://www.humanornot.ai/)
 * [2023-04-20, 05:32:14](https://news.ycombinator.com/item?id=35636748) - [The Pawn’s Gambit: On adapting Stefan Zweig’s “Chess Story”](https://lareviewofbooks.org/article/the-pawns-gambit-on-adapting-stefan-zweigs-chess-story/)
 * [2023-04-20, 04:08:45](https://news.ycombinator.com/item?id=35636282) - [OpenAI’s hunger for data is coming back to bite it](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/)
 * [2023-04-20, 03:42:46](https://news.ycombinator.com/item?id=35636118) - [Preserving Bach&#x27;s Manuscripts](https://blogs.bl.uk/music/2023/03/preserving-bach.html)
