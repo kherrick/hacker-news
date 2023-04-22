@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-22, 11:17:15",
+      "https://news.ycombinator.com/item?id=35665366"
+    ],
+    [
+      "Google Mars",
+      "https://www.google.com/mars/"
+    ]
+  ],
+  [
+    [
+      "2023-04-22, 10:41:21",
+      "https://news.ycombinator.com/item?id=35665145"
+    ],
+    [
+      "Should you remove duplicate files?",
+      "https://eclecticlight.co/2023/04/22/should-you-remove-duplicate-files/"
+    ]
+  ],
+  [
+    [
       "2023-04-22, 10:40:49",
       "https://news.ycombinator.com/item?id=35665142"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-04-21, 20:07:36",
-      "https://news.ycombinator.com/item?id=35659310"
-    ],
-    [
-      "AI is upending the freelance world",
-      "https://www.forbes.com/sites/rashishrivastava/2023/04/20/ive-never-hired-a-writer-better-than-chatgpt-how-ai-is-upending-the-freelance-world/"
-    ]
-  ],
-  [
-    [
       "2023-04-21, 19:52:42",
       "https://news.ycombinator.com/item?id=35659092"
     ],
@@ -287,16 +297,6 @@
     [
       "CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg",
       "https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/"
-    ]
-  ],
-  [
-    [
-      "2023-04-20, 17:26:31",
-      "https://news.ycombinator.com/item?id=35643255"
-    ],
-    [
-      "Show HN: We built a ClickHouse-based logging service",
-      "https://github.com/highlight/highlight/blob/main/README.md"
     ]
   ]
 ]
