@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 22:34:49](https://news.ycombinator.com/item?id=35671526) - [Saturn&#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
 * [2023-04-22, 21:02:21](https://news.ycombinator.com/item?id=35670912) - [The Sell ∀ ∃ as ∃ ∀ Scam](https://win-vector.com/2023/04/22/the-sell-as-scam/)
 * [2023-04-22, 20:41:24](https://news.ycombinator.com/item?id=35670723) - [How does the New York Times make a game?](https://www.nytimes.com/2023/04/10/crosswords/games-digits-beta.html)
 * [2023-04-22, 20:32:55](https://news.ycombinator.com/item?id=35670646) - [Effective Immediately: A central hub for people who&#x27;ve been recently laid off](https://github.com/Effective-Immediately/effective-immediately)
@@ -11,6 +12,7 @@
 * [2023-04-22, 19:52:42](https://news.ycombinator.com/item?id=35670325) - [I just learned about HTML redirects](https://apitman.com/18/#html-redirects)
 * [2023-04-22, 19:11:59](https://news.ycombinator.com/item?id=35669968) - [iPhone Doomed to Failure (2008)](https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html)
 * [2023-04-22, 19:09:18](https://news.ycombinator.com/item?id=35669945) - [US Presidential Hopefuls Rally Against a Digital Dollar Ahead of 2024 Elections](https://www.bloomberg.com/news/articles/2023-04-22/us-presidential-hopefuls-rally-against-us-cbdc-plans-ahead-of-2024-elections)
+* [2023-04-22, 18:57:53](https://news.ycombinator.com/item?id=35669817) - [JSON vs. XML with Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/)
 * [2023-04-22, 18:27:29](https://news.ycombinator.com/item?id=35669531) - [Let Teenagers Work](https://www.hoover.org/research/letting-teenagers-work)
 * [2023-04-22, 18:07:06](https://news.ycombinator.com/item?id=35669340) - [Negative Mass](https://students.tools/negative/?6=9)
 * [2023-04-22, 18:03:25](https://news.ycombinator.com/item?id=35669298) - [An overlooked brain system helps you grab a coffee – and plan your next cup](https://text.npr.org/1171004199)
@@ -44,6 +46,7 @@
 * [2023-04-22, 13:01:02](https://news.ycombinator.com/item?id=35666201) - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 * [2023-04-22, 12:57:47](https://news.ycombinator.com/item?id=35666175) - [Will AI obliterate the rule of law?](https://matthewbutterick.com/chron/will-ai-obliterate-the-rule-of-law.html)
 * [2023-04-22, 12:45:02](https://news.ycombinator.com/item?id=35666070) - [Canonical unveils Ubuntu 23.04 &#x27;Lunar Lobster&#x27;](https://www.zdnet.com/article/canonical-unveils-ubuntu-23-04-a-lunar-lobster-thats-good-for-work-and-play/)
+* [2023-04-22, 12:39:56](https://news.ycombinator.com/item?id=35666025) - [Compromising Garmin Sport Watches: A Deep Dive into GarminOS and Its MonkeyC VM](https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html)
 * [2023-04-22, 12:30:38](https://news.ycombinator.com/item?id=35665946) - [Amazon UK: customers say expensive orders switched for cheaper products](https://www.bbc.co.uk/news/uk-england-wiltshire-65310418)
 * [2023-04-22, 12:23:20](https://news.ycombinator.com/item?id=35665880) - [Everyone with Blue Eyes May Descend from a Single Human Ancestor](https://www.popularmechanics.com/science/health/a43656366/everyone-with-blue-eyes-may-come-from-same-human-ancestor/)
 * [2023-04-22, 12:01:21](https://news.ycombinator.com/item?id=35665701) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
