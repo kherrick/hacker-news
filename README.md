@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-22, 10:40:49](https://news.ycombinator.com/item?id=35665142) - [Show HN: I made a SQL game to help people learn &#x2F; challenge their skills](https://lost-at-sql.therobinlord.com/)
+* [2023-04-22, 10:34:47](https://news.ycombinator.com/item?id=35665101) - [Medical Wordlist (EN&#x2F;FR&#x2F;UK) : 164450 words in english](https://github.com/theophpo/medical-wordlist)
 * [2023-04-22, 10:08:53](https://news.ycombinator.com/item?id=35664972) - [Google CEO Sundar Pichai Received $226M Compensation While Firing Thousands](https://www.bloomberg.com/news/articles/2023-04-21/alphabet-ceo-s-pay-soars-to-226-million-on-massive-stock-award)
 * [2023-04-22, 08:55:13](https://news.ycombinator.com/item?id=35664586) - [Animal Meat and Milk Sales Drop in Europe as Vegan Versions Hit Record Highs](https://plantbasednews.org/news/economics/europe-vegan-food-sales-meat-products/)
 * [2023-04-22, 07:33:13](https://news.ycombinator.com/item?id=35664219) - [Researchers Taught Parrots to Video Call Other Parrots](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
@@ -27,7 +28,6 @@
 * [2023-04-21, 15:32:44](https://news.ycombinator.com/item?id=35655282) - [The EARN IT bill is back, seeking to scan our messages and photos](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos)
 * [2023-04-21, 14:50:31](https://news.ycombinator.com/item?id=35654621) - [Four-Byte Burger [video]](https://www.youtube.com/watch?v=i4EFkspO5p4)
 * [2023-04-21, 14:47:54](https://news.ycombinator.com/item?id=35654574) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
-* [2023-04-21, 10:45:28](https://news.ycombinator.com/item?id=35651953) - [Mass noun](https://en.wikipedia.org/wiki/Mass_noun)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
 * [2023-04-20, 17:26:31](https://news.ycombinator.com/item?id=35643255) - [Show HN: We built a ClickHouse-based logging service](https://github.com/highlight/highlight/blob/main/README.md)
 
