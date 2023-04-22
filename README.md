@@ -2,8 +2,8 @@
 
 * [2023-04-22, 21:02:21](https://news.ycombinator.com/item?id=35670912) - [The Sell ∀ ∃ as ∃ ∀ Scam](https://win-vector.com/2023/04/22/the-sell-as-scam/)
 * [2023-04-22, 20:41:24](https://news.ycombinator.com/item?id=35670723) - [How does the New York Times make a game?](https://www.nytimes.com/2023/04/10/crosswords/games-digits-beta.html)
+* [2023-04-22, 20:32:55](https://news.ycombinator.com/item?id=35670646) - [Effective Immediately: A central hub for people who&#x27;ve been recently laid off](https://github.com/Effective-Immediately/effective-immediately)
 * [2023-04-22, 20:05:39](https://news.ycombinator.com/item?id=35670422) - [System D](https://en.wikipedia.org/wiki/System_D)
-* [2023-04-22, 19:09:18](https://news.ycombinator.com/item?id=35669945) - [US Presidential Hopefuls Rally Against a Digital Dollar Ahead of 2024 Elections](https://www.bloomberg.com/news/articles/2023-04-22/us-presidential-hopefuls-rally-against-us-cbdc-plans-ahead-of-2024-elections)
 * [2023-04-22, 18:07:06](https://news.ycombinator.com/item?id=35669340) - [Negative Mass](https://students.tools/negative/?6=9)
 * [2023-04-22, 17:48:28](https://news.ycombinator.com/item?id=35669131) - [First ROM Shadowing](https://www.os2museum.com/wp/first-rom-shadowing/)
 * [2023-04-22, 17:40:54](https://news.ycombinator.com/item?id=35669053) - [Show HN: DontBore – Accessible, fast, low-footprint Login sharing for the masses](https://dontbo.re/)
