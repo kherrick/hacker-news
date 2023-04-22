@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="35663611">
+          <h3>
+            <a
+              class="item"
+              href="https://1517.substack.com/p/explosions-are-great-actually"
+              >Explosions Are Great</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-04-22 @ 05:20:39</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35663611"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="35663250">
           <h3>
             <a
@@ -145,7 +166,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35663250"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -162,11 +183,11 @@
             <h4>
               <span>2023-04-22 @ 01:55:06</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35662580"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -183,7 +204,7 @@
             <h4>
               <span>2023-04-22 @ 01:53:22</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35662571"
                   >Comments</a
@@ -202,7 +223,7 @@
             <h4>
               <span>2023-04-22 @ 00:49:39</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35662176"
                   >Comments</a
@@ -223,11 +244,11 @@
             <h4>
               <span>2023-04-22 @ 00:20:02</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35661977"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -244,11 +265,11 @@
             <h4>
               <span>2023-04-22 @ 00:15:24</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35661945"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 188</span></span
               >
             </h4>
           </section>
@@ -265,7 +286,7 @@
             <h4>
               <span>2023-04-21 @ 22:15:49</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35660967"
                   >Comments</a
@@ -287,13 +308,57 @@
             <h4>
               <span>2023-04-21 @ 21:58:34</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35660796"
                   >Comments</a
                 ><span class="descendants">: 46</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                This is my second year of working on a project[1] with the goal
+                of browsing the web, on an Android smartphone, without reliance
+                on Wi-Fi or mobile data. While this concept might seem aimless,
+                my goal was to provide a way for people in areas with limited,
+                expensive, or censored cellular internet access a way to view
+                the web in a basic format. I finished work on a basic
+                client-server model last year[2], and this year, I implemented a
+                new pseudo-distributed peer-to-peer model that allows any TxtNet
+                Browser user to use their own smartphone to run a background
+                server service that communicates via the user's own primary
+                mobile number. The main advantage to this model over last year's
+                use of the Twilio API is the fact that with an unlimited SMS
+                plan from a consumer carrier, you will likely end up paying
+                significantly less than the amount you would pay for Twilio
+                credits (averaging about ~$0.50 per website). There's a lot
+                going on with the stateless nature of SMS, GSM-7 encoding, and
+                Brotli compression, so please ask any questions you might have!
+              </p>
+              <p>
+                I've also started up a test server instance running on a +1
+                country code phone number, so feel free to test out the app with
+                your own smartphone. Like mentioned in the GitHub repo, please
+                be aware that I (necessarily) have access to every phone number
+                and associated request that is sent. Of course, anyone can host
+                their own server instance, and if you would like to share it,
+                feel free to get in touch so I can add the number to the repo!
+                Also, there are likely many bugs still lurking, so feel free to
+                report those.
+              </p>
+              <p>
+                [1]
+                <a href="https://github.com/lukeaschenbrenner/TxtNet-Browser/"
+                  >https://github.com/lukeaschenbrenner/TxtNet-Browser/</a
+                >
+              </p>
+              <p>
+                [2]
+                <a href="https://news.ycombinator.com/item?id=32905496"
+                  >https://news.ycombinator.com/item?id=32905496</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="35660751">
@@ -310,7 +375,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35660751"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -325,11 +390,11 @@
             <h4>
               <span>2023-04-21 @ 21:48:43</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35660675"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -346,11 +411,11 @@
             <h4>
               <span>2023-04-21 @ 21:08:03</span
               ><span class="points-container"
-                >Points: <span class="points">290</span></span
+                >Points: <span class="points">293</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35660186"
                   >Comments</a
-                ><span class="descendants">: 129</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -445,11 +510,11 @@
             <h4>
               <span>2023-04-21 @ 20:17:02</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35659462"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -466,11 +531,11 @@
             <h4>
               <span>2023-04-21 @ 20:07:36</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35659310"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -487,11 +552,11 @@
             <h4>
               <span>2023-04-21 @ 19:52:42</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35659092"
                   >Comments</a
-                ><span class="descendants">: 156</span></span
+                ><span class="descendants">: 157</span></span
               >
             </h4>
           </section>
@@ -508,11 +573,11 @@
             <h4>
               <span>2023-04-21 @ 19:01:00</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35658412"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -530,7 +595,7 @@
             <h4>
               <span>2023-04-21 @ 19:00:14</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35658399"
                   >Comments</a
@@ -551,32 +616,11 @@
             <h4>
               <span>2023-04-21 @ 18:59:12</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35658387"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35658319">
-          <h3>
-            <a
-              class="item"
-              href="https://dl.acm.org/doi/10.1145/3579990.3580020"
-              >Looplets: A Language for Structured Coiteration</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-04-21 @ 18:54:31</span
-              ><span class="points-container"
-                >Points: <span class="points">34</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35658319"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -602,25 +646,6 @@
             </h4>
           </section>
         </section>
-        <section id="35657181">
-          <h3>
-            <a class="item" href="https://www.xprize.org/prizes/wildfire"
-              >xPrize Wildfire – $11M Prize Competition</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-04-21 @ 17:29:43</span
-              ><span class="points-container"
-                >Points: <span class="points">65</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35657181"
-                  >Comments</a
-                ><span class="descendants">: 62</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="35656374">
           <h3>
             <a
@@ -633,11 +658,11 @@
             <h4>
               <span>2023-04-21 @ 16:41:09</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35656374"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -676,11 +701,11 @@
             <h4>
               <span>2023-04-21 @ 15:32:44</span
               ><span class="points-container"
-                >Points: <span class="points">960</span></span
+                >Points: <span class="points">965</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35655282"
                   >Comments</a
-                ><span class="descendants">: 361</span></span
+                ><span class="descendants">: 362</span></span
               >
             </h4>
           </section>
@@ -695,7 +720,7 @@
             <h4>
               <span>2023-04-21 @ 14:50:31</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35654621"
                   >Comments</a
@@ -716,11 +741,11 @@
             <h4>
               <span>2023-04-21 @ 14:47:54</span
               ><span class="points-container"
-                >Points: <span class="points">340</span></span
+                >Points: <span class="points">342</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35654574"
                   >Comments</a
-                ><span class="descendants">: 241</span></span
+                ><span class="descendants">: 242</span></span
               >
             </h4>
           </section>
@@ -735,7 +760,7 @@
             <h4>
               <span>2023-04-21 @ 10:45:28</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35651953"
                   >Comments</a
@@ -778,11 +803,11 @@
             <h4>
               <span>2023-04-21 @ 04:54:39</span
               ><span class="points-container"
-                >Points: <span class="points">960</span></span
+                >Points: <span class="points">961</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35649935"
                   >Comments</a
-                ><span class="descendants">: 765</span></span
+                ><span class="descendants">: 767</span></span
               >
             </h4>
           </section>
@@ -797,13 +822,152 @@
             <h4>
               <span>2023-04-21 @ 00:37:35</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35648440"
                   >Comments</a
                 ><span class="descendants">: 14</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="35643255">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/highlight/highlight/blob/main/README.md"
+              >Show HN: We built a ClickHouse-based logging service</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-04-20 @ 17:26:31</span
+              ><span class="points-container"
+                >Points: <span class="points">154</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35643255"
+                  >Comments</a
+                ><span class="descendants">: 91</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Today we're sharing a ClickHouse-based logging solution we've
+                been working on. We wanted to showcase how we built it and share
+                how you could try it out to give feedback. Since we started
+                working on highlight.io, we've been hyper-focused on "cohesion",
+                or ensuring that when you install your monitoring stack, all of
+                the resources in that stack (user interactions, requests,
+                traces, logs, etc.) are connected in a consumable way. We've
+                written up more about our philosophy on this here [1].
+              </p>
+              <p>
+                We started building towards this by connecting your client-side
+                app and your server-side exceptions with session replay and
+                exception monitoring; i.e. if an error happened in a server-side
+                app, we would make it easy (with session replay) to trace all
+                the steps that a user took leading up to it.
+              </p>
+              <p>
+                Especially for larger companies using highlight.io, the request
+                to tie in logs came up repeatedly, and we wanted to build this
+                with the same philosophy in mind. Now, you'll see client-side
+                and server-side logs all in one place, brought together in the
+                context of a user session, as well as logs in the context of an
+                error.
+              </p>
+              <p>
+                Like the rest of our stack, this project is written in Go and
+                Typescript, and for log ingestion/querying, we're using
+                ClickHouse [2]. Before deciding on ClickHouse, we were planning
+                to use OpenSearch (an aws fork of elasticsearch [3]) for this
+                part of our product, but as our traffic has increased, we
+                encountered quite a few pains with write throughput for
+                OpenSearch. After evaluating a few options, we eventually landed
+                with ClickHouse (their cloud offering was icing on the cake),
+                which has also proven to be much more cost-effective so far.
+              </p>
+              <p>
+                Building with ClickHouse from scratch has been an exciting
+                journey. Eric (the mastermind behind this project) wrote a blog
+                post [4] on a handful of ClickHouse learnings we've gathered
+                since starting the project.
+              </p>
+              <p>
+                For those wanting to try out the product locally, you can run
+                the following commands [5]:
+              </p>
+              <p>
+                git clone --recurse-submodules
+                <a href="https://github.com/highlight/highlight"
+                  >https://github.com/highlight/highlight</a
+                >
+                cd highlight/docker; ./run-hobby.sh;
+              </p>
+              <p>
+                To send logs to highlight, you can use your own OpenTelemetry
+                implementation [6] or use our SDKs [7] which provide lightweight
+                wrappers over OTEL.
+              </p>
+              <p>
+                Like the rest of highlight.io, we plan to make money from this
+                with our hosted cloud offering. For those interested in trying
+                out the cloud-hosted version, you can get setup at
+                app.highlight.io.
+              </p>
+              <p>
+                To open the floor for feedback, we would love to get some
+                thoughts on what we've built so far. Beyond that, what are parts
+                of a logging product you wish you had with your current setup?
+                And are there any notable pain-points of using a hosted
+                monitoring product? (We're toying with the idea of an enterprise
+                deployment). Excited to hear from everyone.
+              </p>
+              <p>
+                [1]:
+                <a
+                  href="https://highlight.io/docs/general/company/product-philosphy"
+                  >https://highlight.io/docs/general/company/product-philosphy</a
+                >
+              </p>
+              <p>
+                [2]: <a href="https://clickhouse.com">https://clickhouse.com</a>
+              </p>
+              <p>
+                [3]:
+                <a href="https://news.ycombinator.com/item?id=26780848"
+                  >https://news.ycombinator.com/item?id=26780848</a
+                >
+              </p>
+              <p>
+                [4]:
+                <a
+                  href="https://www.highlight.io/blog/how-we-built-logging-with-clickhouse"
+                  >https://www.highlight.io/blog/how-we-built-logging-with-clic...</a
+                >
+              </p>
+              <p>
+                [5]:
+                <a
+                  href="https://www.highlight.io/docs/getting-started/self-host/self-hosted-hobby-guide"
+                  >https://www.highlight.io/docs/getting-started/self-host/self...</a
+                >
+              </p>
+              <p>
+                [6]:
+                <a
+                  href="https://www.highlight.io/docs/getting-started/backend-logging/http"
+                  >https://www.highlight.io/docs/getting-started/backend-loggin...</a
+                >
+              </p>
+              <p>
+                [7]:
+                <a
+                  href="https://www.highlight.io/docs/getting-started/overview#for-your-backend-logging"
+                  >https://www.highlight.io/docs/getting-started/overview#for-y...</a
+                >
+              </p>
+            </div>
           </section>
         </section>
       </section>
