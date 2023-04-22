@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-22, 14:47:37](https://news.ycombinator.com/item?id=35667090) - [Meta&#x27;s Head of AI Has Some Interesting Beliefs About Dominance and Submission](https://futurism.com/the-byte/meta-head-ai-dominance-submission)
 * [2023-04-22, 14:17:40](https://news.ycombinator.com/item?id=35666832) - [“Chromebooks aren’t built to last”: Average device has 4 years of updates left](https://arstechnica.com/gadgets/2023/04/chromebooks-arent-built-to-last-average-device-has-4-years-of-updates-left/)
-* [2023-04-22, 14:03:37](https://news.ycombinator.com/item?id=35666713) - [Texas lawmakers advance bill to force schools to display Ten Commandments](https://www.theguardian.com/us-news/2023/apr/21/texas-classrooms-ten-commandments-bill)
+* [2023-04-22, 13:50:21](https://news.ycombinator.com/item?id=35666598) - [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
 * [2023-04-22, 13:01:02](https://news.ycombinator.com/item?id=35666201) - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 * [2023-04-22, 12:57:47](https://news.ycombinator.com/item?id=35666175) - [Will AI obliterate the rule of law?](https://matthewbutterick.com/chron/will-ai-obliterate-the-rule-of-law.html)
 * [2023-04-22, 12:45:02](https://news.ycombinator.com/item?id=35666070) - [Canonical unveils Ubuntu 23.04 &#x27;Lunar Lobster&#x27;](https://www.zdnet.com/article/canonical-unveils-ubuntu-23-04-a-lunar-lobster-thats-good-for-work-and-play/)
@@ -26,7 +27,6 @@
 * [2023-04-21, 21:58:34](https://news.ycombinator.com/item?id=35660796) - [Show HN: TxtNet Browser – Browse the Web over SMS, No Wi-Fi&#x2F;Mobile Data Needed](https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md)
 * [2023-04-21, 21:08:03](https://news.ycombinator.com/item?id=35660186) - [Windows on Btrfs](https://www.lilysthings.org/blog/windows-on-btrfs/)
 * [2023-04-21, 19:52:42](https://news.ycombinator.com/item?id=35659092) - [Faster LZ is not the answer to 150-250 GB video game downloads](http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html)
-* [2023-04-21, 19:01:00](https://news.ycombinator.com/item?id=35658412) - [Will boiling water ruin green tea?](https://www.myjapanesegreentea.com/will-boiling-water-ruin-green-tea)
 * [2023-04-21, 15:32:44](https://news.ycombinator.com/item?id=35655282) - [The EARN IT bill is back, seeking to scan our messages and photos](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos)
 * [2023-04-21, 14:50:31](https://news.ycombinator.com/item?id=35654621) - [Four-Byte Burger [video]](https://www.youtube.com/watch?v=i4EFkspO5p4)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
