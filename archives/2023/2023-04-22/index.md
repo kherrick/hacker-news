@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 16:44:32](https://news.ycombinator.com/item?id=35668387) - [Prompt Engineering vs. Blind Prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
+* [2023-04-22, 16:42:21](https://news.ycombinator.com/item?id=35668357) - [Housing should be affordable except for when I sell my house for $1M](https://www.mcsweeneys.net/articles/housing-should-be-affordable-except-when-i-sell-my-house-for-a-million-dollars)
 * [2023-04-22, 16:31:21](https://news.ycombinator.com/item?id=35668228) - [The Loophole That Made Cars in America So Big](https://www.distilled.earth/p/the-loophole-that-made-cars-in-america)
+* [2023-04-22, 16:22:29](https://news.ycombinator.com/item?id=35668139) - [Missouri &#x27;trans snitch&#x27; page down after people spammed it](https://techcrunch.com/2023/04/21/missouri-trans-snitch-form-down-after-people-spammed-it-with-the-bee-movie-script/)
 * [2023-04-22, 16:17:04](https://news.ycombinator.com/item?id=35668072) - [“Luxury” construction causes high rents like umbrellas cause rain](https://noahpinion.substack.com/p/luxury-construction-causes-high-rents)
 * [2023-04-22, 15:52:50](https://news.ycombinator.com/item?id=35667796) - [Methane may not warm the Earth quite as much as previously thought](https://www.sciencenews.org/article/methane-warm-earth-atmosphere-radiation)
 * [2023-04-22, 15:50:52](https://news.ycombinator.com/item?id=35667772) - [The Box](https://soaringtwenties.substack.com/p/inside-the-box)
