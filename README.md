@@ -15,7 +15,6 @@
 * [2023-04-22, 00:49:39](https://news.ycombinator.com/item?id=35662176) - [Telegram Web Apps for Bots](https://core.telegram.org/bots/webapps)
 * [2023-04-22, 00:15:24](https://news.ycombinator.com/item?id=35661945) - [There is no A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 * [2023-04-21, 21:58:34](https://news.ycombinator.com/item?id=35660796) - [Show HN: TxtNet Browser – Browse the Web over SMS, No Wi-Fi&#x2F;Mobile Data Needed](https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md)
-* [2023-04-21, 21:55:14](https://news.ycombinator.com/item?id=35660751) - [Show HN: Automatic prompt optimizer for LLMs](https://promptperfect.jina.ai/)
 * [2023-04-21, 21:48:43](https://news.ycombinator.com/item?id=35660675) - [NewsNotFound: An open-source, unbiased news company](https://newsnotfound.com/whitepaper/)
 * [2023-04-21, 21:08:03](https://news.ycombinator.com/item?id=35660186) - [Windows on Btrfs](https://www.lilysthings.org/blog/windows-on-btrfs/)
 * [2023-04-21, 21:01:05](https://news.ycombinator.com/item?id=35660076) - [Generally Intelligent (YC S17) Is Hiring an Infrastructure Engineer](https://news.ycombinator.com/item?id=35660076)
@@ -30,6 +29,7 @@
 * [2023-04-21, 14:50:31](https://news.ycombinator.com/item?id=35654621) - [Four-Byte Burger [video]](https://www.youtube.com/watch?v=i4EFkspO5p4)
 * [2023-04-21, 14:47:54](https://news.ycombinator.com/item?id=35654574) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
+* [2023-04-20, 17:26:31](https://news.ycombinator.com/item?id=35643255) - [Show HN: We built a ClickHouse-based logging service](https://github.com/highlight/highlight/blob/main/README.md)
 
 ## [Archives](archives/index.md)
 
