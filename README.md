@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-22, 07:04:32](https://news.ycombinator.com/item?id=35664077) - [FAA grounds SpaceX&#x27;s Starship after launch mishap](https://www.politico.com/news/2023/04/20/spacex-starship-explode-elon-musk-00093042)
 * [2023-04-22, 05:20:39](https://news.ycombinator.com/item?id=35663611) - [Explosions are great, actually](https://1517.substack.com/p/explosions-are-great-actually)
 * [2023-04-22, 01:55:06](https://news.ycombinator.com/item?id=35662580) - [More than 19k undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
 * [2023-04-22, 01:53:22](https://news.ycombinator.com/item?id=35662571) - [Boot to Vim, Vim as Pid 1 (2014)](https://raymii.org/s/blog/Vim_as_PID_1_Boot_to_Vim.html)
@@ -26,7 +27,6 @@
 * [2023-04-21, 14:50:31](https://news.ycombinator.com/item?id=35654621) - [Four-Byte Burger [video]](https://www.youtube.com/watch?v=i4EFkspO5p4)
 * [2023-04-21, 14:47:54](https://news.ycombinator.com/item?id=35654574) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 * [2023-04-21, 10:45:28](https://news.ycombinator.com/item?id=35651953) - [Mass noun](https://en.wikipedia.org/wiki/Mass_noun)
-* [2023-04-21, 05:00:32](https://news.ycombinator.com/item?id=35649961) - [Revisiting the baby schema by a geometric morphometric analysis of great apes](https://www.nature.com/articles/s41598-023-31731-4)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
 * [2023-04-21, 00:37:35](https://news.ycombinator.com/item?id=35648440) - [RF Breadboarding System](https://www.saelig.com/product/c700.htm)
 * [2023-04-20, 17:26:31](https://news.ycombinator.com/item?id=35643255) - [Show HN: We built a ClickHouse-based logging service](https://github.com/highlight/highlight/blob/main/README.md)
