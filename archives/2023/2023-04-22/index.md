@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
 * [2023-04-22, 07:36:43](https://news.ycombinator.com/item?id=35664236) - [America Fails the Civilization Test](https://www.theatlantic.com/ideas/archive/2023/04/america-mortality-rate-guns-health/673799/)
+* [2023-04-22, 07:33:13](https://news.ycombinator.com/item?id=35664219) - [Researchers Taught Parrots to Video Call Other Parrots](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 * [2023-04-22, 07:04:32](https://news.ycombinator.com/item?id=35664077) - [FAA grounds SpaceX&#x27;s Starship after launch mishap](https://www.politico.com/news/2023/04/20/spacex-starship-explode-elon-musk-00093042)
 * [2023-04-22, 05:38:39](https://news.ycombinator.com/item?id=35663692) - [Navigating the world when your senses conjure up phenomena others can’t perceive](https://theamericanscholar.org/phantoms/)
 * [2023-04-22, 05:20:39](https://news.ycombinator.com/item?id=35663611) - [Explosions Are Great](https://1517.substack.com/p/explosions-are-great-actually)
