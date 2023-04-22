@@ -16,7 +16,6 @@
 * [2023-04-22, 15:17:41](https://news.ycombinator.com/item?id=35667429) - [Why the Brain’s Connections to the Body Are Crisscrossed](https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419/)
 * [2023-04-22, 14:57:56](https://news.ycombinator.com/item?id=35667205) - [ReceptioGate and the (Absolute) State of Academia](https://thecritic.co.uk/receptiogate-and-the-absolute-state-of-academia/)
 * [2023-04-22, 14:18:24](https://news.ycombinator.com/item?id=35666837) - [XINF](https://xinf.dev/)
-* [2023-04-22, 14:17:40](https://news.ycombinator.com/item?id=35666832) - [Design quirks, limited parts, and other ways Chromebooks frustrate repairs](https://arstechnica.com/gadgets/2023/04/chromebooks-arent-built-to-last-average-device-has-4-years-of-updates-left/)
 * [2023-04-22, 13:50:21](https://news.ycombinator.com/item?id=35666598) - [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
 * [2023-04-22, 13:01:02](https://news.ycombinator.com/item?id=35666201) - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 * [2023-04-22, 12:01:21](https://news.ycombinator.com/item?id=35665701) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
@@ -28,6 +27,7 @@
 * [2023-04-22, 07:33:13](https://news.ycombinator.com/item?id=35664219) - [Parrots learn to make video calls to chat with other parrots – study](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 * [2023-04-22, 06:08:02](https://news.ycombinator.com/item?id=35663845) - [Maintain consistent styles for developers working across various editors](https://editorconfig.org/)
 * [2023-04-22, 05:19:48](https://news.ycombinator.com/item?id=35663606) - [What follows from empirical software research?](https://jimmyhmiller.github.io/empirical)
+* [2023-04-22, 01:03:55](https://news.ycombinator.com/item?id=35662260) - [How Much Can Duolingo Teach Us?](https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us)
 * [2023-04-21, 17:53:47](https://news.ycombinator.com/item?id=35657525) - [The Joy of an Empty Brain](https://www.wsj.com/articles/the-joy-of-a-totally-empty-brain-4fe4a739)
 * [2023-04-20, 05:45:32](https://news.ycombinator.com/item?id=35636806) - [Human or Not? A Social Turing Game](https://www.humanornot.ai/)
 
