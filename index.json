@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-22, 01:55:06",
+      "https://news.ycombinator.com/item?id=35662580"
+    ],
+    [
+      "More than 19,000 undersea volcanoes discovered",
+      "https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered"
+    ]
+  ],
+  [
+    [
       "2023-04-22, 00:20:02",
       "https://news.ycombinator.com/item?id=35661977"
     ],
@@ -127,16 +137,6 @@
     [
       "Looplets: A Language for Structured Coiteration",
       "https://dl.acm.org/doi/10.1145/3579990.3580020"
-    ]
-  ],
-  [
-    [
-      "2023-04-21, 17:50:00",
-      "https://news.ycombinator.com/item?id=35657474"
-    ],
-    [
-      "Datomic Implicit Partitions",
-      "https://blog.datomic.com/2023/04/implicit-partitions.html"
     ]
   ],
   [
