@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-22, 22:34:49",
+      "https://news.ycombinator.com/item?id=35671526"
+    ],
+    [
+      "Saturn&#x27;s Interior After the Cassini Grand Finale",
+      "https://arxiv.org/abs/2304.09215"
+    ]
+  ],
+  [
+    [
       "2023-04-22, 21:02:21",
       "https://news.ycombinator.com/item?id=35670912"
     ],
@@ -47,6 +57,16 @@
     [
       "I just learned about HTML redirects",
       "https://apitman.com/18/#html-redirects"
+    ]
+  ],
+  [
+    [
+      "2023-04-22, 18:57:53",
+      "https://news.ycombinator.com/item?id=35669817"
+    ],
+    [
+      "JSON vs. XML with Douglas Crockford",
+      "https://corecursive.com/json-vs-xml-douglas-crockford/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-04-22, 15:39:13",
-      "https://news.ycombinator.com/item?id=35667650"
-    ],
-    [
-      "WebAssembly Text Code Samples",
-      "https://eli.thegreenplace.net/2023/webassembly-text-code-samples/"
-    ]
-  ],
-  [
-    [
       "2023-04-22, 15:38:37",
       "https://news.ycombinator.com/item?id=35667642"
     ],
@@ -161,22 +171,22 @@
   ],
   [
     [
-      "2023-04-22, 14:18:24",
-      "https://news.ycombinator.com/item?id=35666837"
-    ],
-    [
-      "XINF",
-      "https://xinf.dev/"
-    ]
-  ],
-  [
-    [
       "2023-04-22, 13:50:21",
       "https://news.ycombinator.com/item?id=35666598"
     ],
     [
       "The “Build Your Own Database” book is finished",
       "https://build-your-own.org/blog/20230420_byodb_done/"
+    ]
+  ],
+  [
+    [
+      "2023-04-22, 12:39:56",
+      "https://news.ycombinator.com/item?id=35666025"
+    ],
+    [
+      "Compromising Garmin Sport Watches: A Deep Dive into GarminOS and Its MonkeyC VM",
+      "https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-04-22, 06:08:02",
-      "https://news.ycombinator.com/item?id=35663845"
-    ],
-    [
-      "Maintain consistent styles for developers working across various editors",
-      "https://editorconfig.org/"
-    ]
-  ],
-  [
-    [
       "2023-04-22, 05:58:53",
       "https://news.ycombinator.com/item?id=35663799"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=35660556"
     ],
     [
-      "Simple Pathtracing",
+      "Simple Pathtracing (2012)",
       "https://iquilezles.org/articles/simplepathtracing/"
     ]
   ],
