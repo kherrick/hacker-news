@@ -6,7 +6,7 @@
 * [2023-04-22, 17:40:54](https://news.ycombinator.com/item?id=35669053) - [Show HN: DontBore – Accessible, fast, low-footprint Login sharing for the masses](https://dontbo.re/)
 * [2023-04-22, 17:10:23](https://news.ycombinator.com/item?id=35668708) - [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
 * [2023-04-22, 16:44:32](https://news.ycombinator.com/item?id=35668387) - [Prompt engineering vs. blind prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
-* [2023-04-22, 16:31:21](https://news.ycombinator.com/item?id=35668228) - [The loophole that made cars in America so big](https://www.distilled.earth/p/the-loophole-that-made-cars-in-america)
+* [2023-04-22, 15:52:50](https://news.ycombinator.com/item?id=35667796) - [Methane may not warm the Earth quite as much as previously thought](https://www.sciencenews.org/article/methane-warm-earth-atmosphere-radiation)
 * [2023-04-22, 15:50:52](https://news.ycombinator.com/item?id=35667772) - [Inside The Box](https://soaringtwenties.substack.com/p/inside-the-box)
 * [2023-04-22, 15:44:54](https://news.ycombinator.com/item?id=35667714) - [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
 * [2023-04-22, 15:39:13](https://news.ycombinator.com/item?id=35667650) - [WebAssembly Text Code Samples](https://eli.thegreenplace.net/2023/webassembly-text-code-samples/)
