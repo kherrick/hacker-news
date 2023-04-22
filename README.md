@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-22, 01:55:06](https://news.ycombinator.com/item?id=35662580) - [More than 19,000 undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
 * [2023-04-22, 00:20:02](https://news.ycombinator.com/item?id=35661977) - [U.S. crypto exchange Coinbase secures Bermuda licence](https://www.reuters.com/technology/us-crypto-exchange-coinbase-secures-bermuda-licence-2023-04-20/)
 * [2023-04-22, 00:15:24](https://news.ycombinator.com/item?id=35661945) - [There is no A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 * [2023-04-21, 22:15:49](https://news.ycombinator.com/item?id=35660967) - [US 5-year credit default swaps rise to highest since 2011](https://www.reuters.com/markets/us/us-5-year-credit-default-swaps-rise-highest-since-2011-2023-04-21/)
@@ -13,7 +14,6 @@
 * [2023-04-21, 19:00:14](https://news.ycombinator.com/item?id=35658399) - [The “invented persona” behind the GISAID viral sequence database](https://www.science.org/content/article/invented-persona-behind-key-pandemic-database)
 * [2023-04-21, 18:59:12](https://news.ycombinator.com/item?id=35658387) - [How to become a “designer who codes” (2019)](https://publication.design.systems/how-to-become-a-designer-who-codes-52ae97f60d68?gi=81198e6b14b3)
 * [2023-04-21, 18:54:31](https://news.ycombinator.com/item?id=35658319) - [Looplets: A Language for Structured Coiteration](https://dl.acm.org/doi/10.1145/3579990.3580020)
-* [2023-04-21, 17:50:00](https://news.ycombinator.com/item?id=35657474) - [Datomic Implicit Partitions](https://blog.datomic.com/2023/04/implicit-partitions.html)
 * [2023-04-21, 17:47:26](https://news.ycombinator.com/item?id=35657436) - [The Commission for Stopping Further Improvements](https://rootsofprogress.org/isambard-brunel-on-engineering-standards)
 * [2023-04-21, 17:29:43](https://news.ycombinator.com/item?id=35657181) - [xPrize Wildfire – $11M Prize Competition](https://www.xprize.org/prizes/wildfire)
 * [2023-04-21, 16:41:09](https://news.ycombinator.com/item?id=35656374) - [Hetzner’s New AX102 Dedicated Server with AMD Ryzen 9 7950X3D](https://www.hetzner.com/press-release/new-amd-ryzen-7950-server/)
