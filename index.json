@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-04-21, 21:55:14",
-      "https://news.ycombinator.com/item?id=35660751"
-    ],
-    [
-      "Show HN: Automatic prompt optimizer for LLMs",
-      "https://promptperfect.jina.ai/"
-    ]
-  ],
-  [
-    [
       "2023-04-21, 21:48:43",
       "https://news.ycombinator.com/item?id=35660675"
     ],
@@ -297,6 +287,16 @@
     [
       "CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg",
       "https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/"
+    ]
+  ],
+  [
+    [
+      "2023-04-20, 17:26:31",
+      "https://news.ycombinator.com/item?id=35643255"
+    ],
+    [
+      "Show HN: We built a ClickHouse-based logging service",
+      "https://github.com/highlight/highlight/blob/main/README.md"
     ]
   ]
 ]
