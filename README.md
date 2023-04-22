@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-22, 03:54:53](https://news.ycombinator.com/item?id=35663203) - [Singapore to execute human by hanging for 1kg of cannabis](https://www.taipeitimes.com/News/front/archives/2023/04/22/2003798402)
+* [2023-04-22, 03:54:53](https://news.ycombinator.com/item?id=35663203) - [Singapore to execute human by hanging for phone number linked to 1kg of cannabis](https://www.taipeitimes.com/News/front/archives/2023/04/22/2003798402)
 * [2023-04-22, 01:55:06](https://news.ycombinator.com/item?id=35662580) - [More than 19,000 undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
 * [2023-04-22, 00:49:39](https://news.ycombinator.com/item?id=35662176) - [Telegram Web Apps for Bots](https://core.telegram.org/bots/webapps)
 * [2023-04-22, 00:20:02](https://news.ycombinator.com/item?id=35661977) - [U.S. crypto exchange Coinbase secures Bermuda licence](https://www.reuters.com/technology/us-crypto-exchange-coinbase-secures-bermuda-licence-2023-04-20/)
