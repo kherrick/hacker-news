@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-22, 13:01:02](https://news.ycombinator.com/item?id=35666201) - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
-* [2023-04-22, 12:30:38](https://news.ycombinator.com/item?id=35665946) - [Amazon UK: customers say expensive orders switched for cheaper products](https://www.bbc.co.uk/news/uk-england-wiltshire-65310418)
+* [2023-04-22, 12:30:38](https://news.ycombinator.com/item?id=35665946) - [Amazon UK: Customers say expensive orders switched for cheaper products](https://www.bbc.co.uk/news/uk-england-wiltshire-65310418)
+* [2023-04-22, 12:23:20](https://news.ycombinator.com/item?id=35665880) - [Everyone with Blue Eyes May Descend from a Single Human Ancestor](https://www.popularmechanics.com/science/health/a43656366/everyone-with-blue-eyes-may-come-from-same-human-ancestor/)
 * [2023-04-22, 12:01:21](https://news.ycombinator.com/item?id=35665701) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
 * [2023-04-22, 11:17:15](https://news.ycombinator.com/item?id=35665366) - [Google Mars](https://www.google.com/mars/)
 * [2023-04-22, 10:41:21](https://news.ycombinator.com/item?id=35665145) - [Should you remove duplicate files?](https://eclecticlight.co/2023/04/22/should-you-remove-duplicate-files/)
@@ -28,7 +29,6 @@
 * [2023-04-21, 18:54:31](https://news.ycombinator.com/item?id=35658319) - [Looplets: A Language for Structured Coiteration](https://dl.acm.org/doi/10.1145/3579990.3580020)
 * [2023-04-21, 17:47:26](https://news.ycombinator.com/item?id=35657436) - [The Commission for Stopping Further Improvements](https://rootsofprogress.org/isambard-brunel-on-engineering-standards)
 * [2023-04-21, 15:32:44](https://news.ycombinator.com/item?id=35655282) - [The EARN IT bill is back, seeking to scan our messages and photos](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos)
-* [2023-04-21, 10:45:28](https://news.ycombinator.com/item?id=35651953) - [Mass noun](https://en.wikipedia.org/wiki/Mass_noun)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
 
 ## [Archives](archives/index.md)
