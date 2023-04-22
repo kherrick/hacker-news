@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 13:01:02](https://news.ycombinator.com/item?id=35666201) - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
+* [2023-04-22, 12:30:38](https://news.ycombinator.com/item?id=35665946) - [Amazon UK: customers say expensive orders switched for cheaper products](https://www.bbc.co.uk/news/uk-england-wiltshire-65310418)
 * [2023-04-22, 12:01:21](https://news.ycombinator.com/item?id=35665701) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
 * [2023-04-22, 11:17:15](https://news.ycombinator.com/item?id=35665366) - [Google Mars](https://www.google.com/mars/)
 * [2023-04-22, 10:41:21](https://news.ycombinator.com/item?id=35665145) - [Should you remove duplicate files?](https://eclecticlight.co/2023/04/22/should-you-remove-duplicate-files/)
 * [2023-04-22, 10:40:49](https://news.ycombinator.com/item?id=35665142) - [Show HN: I made a SQL game to help people learn &#x2F; challenge their skills](https://lost-at-sql.therobinlord.com/)
 * [2023-04-22, 10:34:47](https://news.ycombinator.com/item?id=35665101) - [Medical Wordlist (EN&#x2F;FR&#x2F;UK) : 164450 words in english](https://github.com/theophpo/medical-wordlist)
+* [2023-04-22, 10:30:15](https://news.ycombinator.com/item?id=35665076) - [Ask HN: Why is TSMC so competitive in semiconductor fabrication?](https://news.ycombinator.com/item?id=35665076)
 * [2023-04-22, 10:08:53](https://news.ycombinator.com/item?id=35664972) - [Google CEO Sundar Pichai Received $226M Compensation While Firing Thousands](https://www.bloomberg.com/news/articles/2023-04-21/alphabet-ceo-s-pay-soars-to-226-million-on-massive-stock-award)
 * [2023-04-22, 08:55:13](https://news.ycombinator.com/item?id=35664586) - [Animal Meat and Milk Sales Drop in Europe as Vegan Versions Hit Record Highs](https://plantbasednews.org/news/economics/europe-vegan-food-sales-meat-products/)
 * [2023-04-22, 07:36:43](https://news.ycombinator.com/item?id=35664236) - [America Fails the Civilization Test](https://www.theatlantic.com/ideas/archive/2023/04/america-mortality-rate-guns-health/673799/)
