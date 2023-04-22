@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 19:09:18](https://news.ycombinator.com/item?id=35669945) - [US Presidential Hopefuls Rally Against a Digital Dollar Ahead of 2024 Elections](https://www.bloomberg.com/news/articles/2023-04-22/us-presidential-hopefuls-rally-against-us-cbdc-plans-ahead-of-2024-elections)
 * [2023-04-22, 18:27:29](https://news.ycombinator.com/item?id=35669531) - [Let Teenagers Work](https://www.hoover.org/research/letting-teenagers-work)
 * [2023-04-22, 18:07:06](https://news.ycombinator.com/item?id=35669340) - [Negative Mass](https://students.tools/negative/?6=9)
+* [2023-04-22, 18:03:25](https://news.ycombinator.com/item?id=35669298) - [An overlooked brain system helps you grab a coffee – and plan your next cup](https://text.npr.org/1171004199)
 * [2023-04-22, 17:48:28](https://news.ycombinator.com/item?id=35669131) - [First ROM Shadowing](https://www.os2museum.com/wp/first-rom-shadowing/)
 * [2023-04-22, 17:45:06](https://news.ycombinator.com/item?id=35669101) - [Tell HN: 2^4 == 4^2, extended to rationals](https://news.ycombinator.com/item?id=35669101)
 * [2023-04-22, 17:40:54](https://news.ycombinator.com/item?id=35669053) - [Show HN: DontBore – Accessible, fast, low-footprint Login sharing for the masses](https://dontbo.re/)
