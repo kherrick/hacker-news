@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-22, 04:04:33](https://news.ycombinator.com/item?id=35663250) - [The streaming era turned music into sludge](https://www.wired.com/story/plaintext-how-the-streaming-era-turned-music-into-sludge/)
 * [2023-04-22, 03:54:53](https://news.ycombinator.com/item?id=35663203) - [Singapore plans to execute man over 1kg of cannabis](https://www.taipeitimes.com/News/front/archives/2023/04/22/2003798402)
 * [2023-04-22, 01:55:06](https://news.ycombinator.com/item?id=35662580) - [More than 19k undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
 * [2023-04-22, 01:53:22](https://news.ycombinator.com/item?id=35662571) - [Boot to Vim, Vim as PID 1 (2014)](https://raymii.org/s/blog/Vim_as_PID_1_Boot_to_Vim.html)
@@ -7,7 +8,6 @@
 * [2023-04-22, 00:49:39](https://news.ycombinator.com/item?id=35662176) - [Telegram Web Apps for Bots](https://core.telegram.org/bots/webapps)
 * [2023-04-22, 00:20:02](https://news.ycombinator.com/item?id=35661977) - [Coinbase secures Bermuda licence](https://www.reuters.com/technology/us-crypto-exchange-coinbase-secures-bermuda-licence-2023-04-20/)
 * [2023-04-22, 00:15:24](https://news.ycombinator.com/item?id=35661945) - [There is no A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
-* [2023-04-21, 23:23:35](https://news.ycombinator.com/item?id=35661574) - [EcoHabit: An Open Source Project for Environmental Awareness (Earth Day Special)](https://github.com/lugenx/ecohabit)
 * [2023-04-21, 22:15:49](https://news.ycombinator.com/item?id=35660967) - [US 5-year credit default swaps rise to highest since 2011](https://www.reuters.com/markets/us/us-5-year-credit-default-swaps-rise-highest-since-2011-2023-04-21/)
 * [2023-04-21, 21:58:34](https://news.ycombinator.com/item?id=35660796) - [Show HN: TxtNet Browser – Browse the Web over SMS, No Wi-Fi&#x2F;Mobile Data Needed](https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md)
 * [2023-04-21, 21:55:14](https://news.ycombinator.com/item?id=35660751) - [Show HN: Automatic Prompt Optimizer for LLMs](https://promptperfect.jina.ai/)
@@ -28,8 +28,8 @@
 * [2023-04-21, 14:50:31](https://news.ycombinator.com/item?id=35654621) - [Four-Byte Burger [video]](https://www.youtube.com/watch?v=i4EFkspO5p4)
 * [2023-04-21, 14:47:54](https://news.ycombinator.com/item?id=35654574) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 * [2023-04-21, 10:45:28](https://news.ycombinator.com/item?id=35651953) - [Mass noun](https://en.wikipedia.org/wiki/Mass_noun)
-* [2023-04-21, 05:00:32](https://news.ycombinator.com/item?id=35649961) - [Revisiting the baby schema by a geometric morphometric analysis of great apes](https://www.nature.com/articles/s41598-023-31731-4)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [CATL has announced a new “condensed” battery with 500 Wh&#x2F;kg](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
+* [2023-04-21, 00:37:35](https://news.ycombinator.com/item?id=35648440) - [RF Breadboarding System](https://www.saelig.com/product/c700.htm)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 04:04:33](https://news.ycombinator.com/item?id=35663250) - [The streaming era turned music into sludge](https://www.wired.com/story/plaintext-how-the-streaming-era-turned-music-into-sludge/)
 * [2023-04-22, 03:54:53](https://news.ycombinator.com/item?id=35663203) - [Singapore to execute human by hanging for 1kg of cannabis](https://www.taipeitimes.com/News/front/archives/2023/04/22/2003798402)
 * [2023-04-22, 01:55:06](https://news.ycombinator.com/item?id=35662580) - [More than 19,000 undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
 * [2023-04-22, 01:53:22](https://news.ycombinator.com/item?id=35662571) - [Boot to Vim, Vim as PID 1 (2014)](https://raymii.org/s/blog/Vim_as_PID_1_Boot_to_Vim.html)
