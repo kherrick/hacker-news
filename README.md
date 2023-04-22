@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-22, 07:04:32](https://news.ycombinator.com/item?id=35664077) - [FAA grounds SpaceX&#x27;s Starship after launch mishap](https://www.politico.com/news/2023/04/20/spacex-starship-explode-elon-musk-00093042)
+* [2023-04-22, 05:38:39](https://news.ycombinator.com/item?id=35663692) - [Navigating the world when your senses conjure up phenomena others can’t perceive](https://theamericanscholar.org/phantoms/)
 * [2023-04-22, 05:20:39](https://news.ycombinator.com/item?id=35663611) - [Explosions are great, actually](https://1517.substack.com/p/explosions-are-great-actually)
 * [2023-04-22, 01:55:06](https://news.ycombinator.com/item?id=35662580) - [More than 19k undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
 * [2023-04-22, 01:53:22](https://news.ycombinator.com/item?id=35662571) - [Boot to Vim, Vim as Pid 1 (2014)](https://raymii.org/s/blog/Vim_as_PID_1_Boot_to_Vim.html)
