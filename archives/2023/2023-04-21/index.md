@@ -80,6 +80,7 @@
 * [2023-04-21, 05:05:52](https://news.ycombinator.com/item?id=35649990) - [Daves Old Computers – Dunfield 6809 Portable](http://dunfield.classiccmp.org/d6809/index.htm)
 * [2023-04-21, 05:00:32](https://news.ycombinator.com/item?id=35649961) - [Revisiting the baby schema by a geometric morphometric analysis of great apes](https://www.nature.com/articles/s41598-023-31731-4)
 * [2023-04-21, 04:54:39](https://news.ycombinator.com/item?id=35649935) - [World’s largest battery maker announces major breakthrough in energy density](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
+* [2023-04-21, 04:52:19](https://news.ycombinator.com/item?id=35649926) - [The eccentric pioneers of vegetable electricity](https://www.bbc.com/future/article/20230419-the-eccentric-pioneers-of-vegetable-electricity)
 * [2023-04-21, 04:51:00](https://news.ycombinator.com/item?id=35649917) - [Dummy Boards: The Fun Figures of the 1600s](https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/)
 * [2023-04-21, 04:06:18](https://news.ycombinator.com/item?id=35649729) - [Guess the Game](https://guessthe.game)
 * [2023-04-21, 03:24:43](https://news.ycombinator.com/item?id=35649496) - [Show HN: WasmGPT – “ChatGPT” in the browser, no WebGPU and no server needed](https://lxe.co/wasmgpt/)

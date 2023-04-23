@@ -2,7 +2,6 @@
 
 * [2023-04-23, 17:38:08](https://news.ycombinator.com/item?id=35678485) - [Closing in on the “Perfect Code”](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
 * [2023-04-23, 17:29:41](https://news.ycombinator.com/item?id=35678372) - [I’m ChatGPT, and for the love of God please don’t make me do anymore copywriting](https://www.mcsweeneys.net/articles/im-chatgpt-and-for-the-love-of-god-please-dont-make-me-do-any-more-copywriting)
-* [2023-04-23, 17:20:27](https://news.ycombinator.com/item?id=35678278) - [I Have a Dirty Secret. I’m a Software Craftsman](https://levelup.gitconnected.com/i-have-a-dirty-secret-im-a-software-craftsman-bc160e9e6b5c?gi=6f8b52e00112)
 * [2023-04-23, 17:19:48](https://news.ycombinator.com/item?id=35678269) - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 * [2023-04-23, 17:04:07](https://news.ycombinator.com/item?id=35678072) - [AWA&#x27;s Acoustic Hood – Effective Silencing for Office Printers](https://computeradsfromthepast.substack.com/p/awas-acoustic-hood)
 * [2023-04-23, 17:02:08](https://news.ycombinator.com/item?id=35678043) - [My High-Flying Life as a Corporate Spy Who Lied His Way to the Top](https://narratively.com/my-high-flying-life-as-a-corporate-spy-who-lied-his-way-to-the-top/)
@@ -29,6 +28,7 @@
 * [2023-04-22, 15:12:21](https://news.ycombinator.com/item?id=35667366) - [Isotope map of Angola helps trace life histories across African Diaspora](https://news.ucsc.edu/2023/04/angola-isoscape.html)
 * [2023-04-22, 14:37:25](https://news.ycombinator.com/item?id=35666990) - [The Computing Platform Underlying AI [audio]](https://open.spotify.com/episode/2DFD3HU4XlXTlr08M5BnRn)
 * [2023-04-22, 05:46:56](https://news.ycombinator.com/item?id=35663727) - [What Are Toys For?](https://www.neh.gov/article/strong-museum-explores-history-play)
+* [2023-04-21, 04:52:19](https://news.ycombinator.com/item?id=35649926) - [The eccentric pioneers of vegetable electricity](https://www.bbc.com/future/article/20230419-the-eccentric-pioneers-of-vegetable-electricity)
 * [2023-04-21, 04:51:00](https://news.ycombinator.com/item?id=35649917) - [Dummy Boards: The Fun Figures of the 1600s](https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/)
 
 ## [Archives](archives/index.md)
