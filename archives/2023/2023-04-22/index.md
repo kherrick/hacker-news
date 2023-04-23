@@ -56,6 +56,7 @@
 * [2023-04-22, 12:01:14](https://news.ycombinator.com/item?id=35665699) - [When a Mosquito Can’t Stop Drinking Blood, the Result Isn’t Pretty](https://entomologytoday.org/2020/03/19/when-a-mosquito-cant-stop-drinking-blood-the-result-isnt-pretty/)
 * [2023-04-22, 11:42:50](https://news.ycombinator.com/item?id=35665539) - [Ask HN: Why isn&#x27;t BTRFS the default FS in home-oriented Linux distributions?](https://news.ycombinator.com/item?id=35665539)
 * [2023-04-22, 11:17:15](https://news.ycombinator.com/item?id=35665366) - [Google Mars](https://www.google.com/mars/)
+* [2023-04-22, 11:16:44](https://news.ycombinator.com/item?id=35665361) - [SETI and Signal Leakage: Where Do Our Transmissions Go?](https://www.centauri-dreams.org/2023/04/21/seti-and-signal-leakage-where-do-our-transmissions-go/)
 * [2023-04-22, 10:56:00](https://news.ycombinator.com/item?id=35665220) - [Outbound Sales Playbook: A detailed process we used to get from 0-$10M in ARR](https://app.kickscale.com/share/DKBNQMywB9A6qPyFwDMl/FQLlkwPGib6jm8LyArIL)
 * [2023-04-22, 10:46:21](https://news.ycombinator.com/item?id=35665168) - [Ask HN: Is prompt engineering just snake oil?](https://news.ycombinator.com/item?id=35665168)
 * [2023-04-22, 10:41:21](https://news.ycombinator.com/item?id=35665145) - [Should you remove duplicate files?](https://eclecticlight.co/2023/04/22/should-you-remove-duplicate-files/)
