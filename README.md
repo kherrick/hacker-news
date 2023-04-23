@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-23, 23:30:45](https://news.ycombinator.com/item?id=35681824) - [Bilingualism Affords No General Cognitive Advantages: A Study of 11,000 People](https://journals.sagepub.com/doi/10.1177/0956797620903113)
 * [2023-04-23, 22:33:43](https://news.ycombinator.com/item?id=35681357) - [Godot-dodo – Finetuning LLaMA on single-language comment:code data pairs](https://github.com/minosvasilias/godot-dodo)
 * [2023-04-23, 22:31:43](https://news.ycombinator.com/item?id=35681342) - [Why do studios use Roman numerals in the copyright notice in the end credits?](https://movies.stackexchange.com/questions/10149/why-do-studios-use-roman-numerals-in-the-copyright-notice-in-the-end-credits)
 * [2023-04-23, 22:28:26](https://news.ycombinator.com/item?id=35681322) - [Some mistakes I made as a new manager](https://www.benkuhn.net/newmgr/)
@@ -18,7 +19,6 @@
 * [2023-04-23, 16:37:53](https://news.ycombinator.com/item?id=35677776) - [Gradients are not all you need](https://arxiv.org/abs/2111.05803)
 * [2023-04-23, 16:23:39](https://news.ycombinator.com/item?id=35677599) - [Interactive live solutions of PDE systems](https://visualpde.com/)
 * [2023-04-23, 15:50:34](https://news.ycombinator.com/item?id=35677261) - [Intel I219-LM Running at ~60% of Maximum Speed Due to Linux Driver Bug](https://www.phoronix.com/news/Intel-i219-LM-Linux-60p-Fix)
-* [2023-04-23, 15:37:08](https://news.ycombinator.com/item?id=35677148) - [The largest number representable in 64 bits](https://googology.fandom.com/wiki/User_blog:JohnTromp/The_largest_number_representable_in_64_bits)
 * [2023-04-23, 15:35:02](https://news.ycombinator.com/item?id=35677126) - [Pydantic V2 leverages Rust&#x27;s Superpowers [video]](https://fosdem.org/2023/schedule/event/rust_how_pydantic_v2_leverages_rusts_superpowers/)
 * [2023-04-23, 15:30:24](https://news.ycombinator.com/item?id=35677086) - [Bing Jail](https://dariusz.wieckiewicz.org/en/bing-jail/)
 * [2023-04-23, 14:54:53](https://news.ycombinator.com/item?id=35676747) - [Two types of C programmers](https://utcc.utoronto.ca/~cks/space/blog/programming/CProgrammersTwoTypes)
