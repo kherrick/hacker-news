@@ -14,6 +14,7 @@
 * [2023-04-23, 13:21:39](https://news.ycombinator.com/item?id=35676003) - [University Student Creates Jacket with Sensors for the Blind](https://www.ntv.co.ug/ug/news/national/university-student-creates-jacket-with-sensors-for-the-blind-4209462)
 * [2023-04-23, 13:13:57](https://news.ycombinator.com/item?id=35675952) - [ProfileGPT: An Example of AI Agents Collaboration Architecture](https://sahbichaieb.com/profilegpt/)
 * [2023-04-23, 13:12:47](https://news.ycombinator.com/item?id=35675943) - [Ask HN: Attenuation of Faraday Cage Wallets](https://news.ycombinator.com/item?id=35675943)
+* [2023-04-23, 12:50:59](https://news.ycombinator.com/item?id=35675818) - [Listen to Steve Huffman tell the story of how Reddit got started](https://pod.link/1677066062/episode/e1eed71375798a8850bbfd90b03256bc)
 * [2023-04-23, 12:37:05](https://news.ycombinator.com/item?id=35675732) - [Russia killed its tech industry](https://www.technologyreview.com/2023/04/04/1070352/ukraine-war-russia-tech-industry-yandex-skolkovo/)
 * [2023-04-23, 12:37:00](https://news.ycombinator.com/item?id=35675731) - [Micro- &amp; Nanoplastics Breach Blood–Brain Barrier in Mice 2 Hours After Ingestion](https://www.mdpi.com/2079-4991/13/8/1404)
 * [2023-04-23, 11:57:34](https://news.ycombinator.com/item?id=35675484) - [Libreboot 20230423 Released](https://libreboot.org/news/libreboot20230423.html)
