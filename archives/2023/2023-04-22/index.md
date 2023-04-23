@@ -39,6 +39,7 @@
 * [2023-04-22, 15:17:41](https://news.ycombinator.com/item?id=35667429) - [Why the Brain’s Connections to the Body Are Crisscrossed](https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419/)
 * [2023-04-22, 15:05:28](https://news.ycombinator.com/item?id=35667285) - [Say Hi to SoFi. It’s Suing to Force You to Repay Student Loans Faster](https://www.nytimes.com/2023/04/22/your-money/sofi-student-loans-lawsuit.html)
 * [2023-04-22, 14:57:56](https://news.ycombinator.com/item?id=35667205) - [ReceptioGate and the (Absolute) State of Academia](https://thecritic.co.uk/receptiogate-and-the-absolute-state-of-academia/)
+* [2023-04-22, 14:54:08](https://news.ycombinator.com/item?id=35667155) - [The Cretaceous-Paleogene extinction event and security practice](https://ioc.exchange/@invisv/110242893952669306)
 * [2023-04-22, 14:47:37](https://news.ycombinator.com/item?id=35667090) - [Meta&#x27;s Head of AI Has Some Interesting Beliefs About Dominance and Submission](https://futurism.com/the-byte/meta-head-ai-dominance-submission)
 * [2023-04-22, 14:29:23](https://news.ycombinator.com/item?id=35666916) - [Indigo: A game engine for functional programmers, in Scala](https://indigoengine.io/)
 * [2023-04-22, 14:18:24](https://news.ycombinator.com/item?id=35666837) - [XINF](https://xinf.dev/)
