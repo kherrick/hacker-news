@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 13:31:27](https://news.ycombinator.com/item?id=35676089) - [Billionaire Brin Sold Tesla Near Its Peak for New Giving Vehicle](https://www.bloomberg.com/news/articles/2023-04-22/billionaire-brin-sold-tesla-near-its-peak-for-new-giving-vehicle)
+* [2023-04-23, 13:26:27](https://news.ycombinator.com/item?id=35676045) - [Generative AI Design Best Practices for Web Applications](https://medium.com/@Kerberosmansour/generative-ai-design-best-practices-for-web-applications-integrating-explanations-and-code-702fb90e8a24)
+* [2023-04-23, 13:24:34](https://news.ycombinator.com/item?id=35676030) - [How to better organize your time as a new engineering manager](https://leaddev.com/personal-development/how-better-organize-your-time-new-engineering-manager)
+* [2023-04-23, 13:21:39](https://news.ycombinator.com/item?id=35676003) - [University Student Creates Jacket with Sensors for the Blind](https://www.ntv.co.ug/ug/news/national/university-student-creates-jacket-with-sensors-for-the-blind-4209462)
+* [2023-04-23, 13:13:57](https://news.ycombinator.com/item?id=35675952) - [ProfileGPT: An Example of AI Agents Collaboration Architecture](https://sahbichaieb.com/profilegpt/)
+* [2023-04-23, 13:12:47](https://news.ycombinator.com/item?id=35675943) - [Ask HN: Attenuation of Faraday Cage Wallets](https://news.ycombinator.com/item?id=35675943)
 * [2023-04-23, 12:37:05](https://news.ycombinator.com/item?id=35675732) - [Russia killed its tech industry](https://www.technologyreview.com/2023/04/04/1070352/ukraine-war-russia-tech-industry-yandex-skolkovo/)
 * [2023-04-23, 12:37:00](https://news.ycombinator.com/item?id=35675731) - [Micro- &amp; Nanoplastics Breach Blood–Brain Barrier in Mice 2 Hours After Ingestion](https://www.mdpi.com/2079-4991/13/8/1404)
 * [2023-04-23, 11:57:34](https://news.ycombinator.com/item?id=35675484) - [Libreboot 20230423 Released](https://libreboot.org/news/libreboot20230423.html)
