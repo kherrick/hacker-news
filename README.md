@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-23, 19:59:23](https://news.ycombinator.com/item?id=35679911) - [LSD: Not Even Once. Really.](https://www.qword.net/2023/04/23/lsd-not-even-once-really)
+* [2023-04-23, 19:52:56](https://news.ycombinator.com/item?id=35679860) - [Solar on Warehouses](https://environmentamerica.org/center/resources/solar-on-warehouses/)
 * [2023-04-23, 19:47:32](https://news.ycombinator.com/item?id=35679814) - [Twitter Enhancement Suite – BlockTheBlue](https://chrome.google.com/webstore/detail/twitter-enhancement-suite/chaiionjpmjklbbngmpdnbfcmkgoicle)
-* [2023-04-23, 19:36:41](https://news.ycombinator.com/item?id=35679724) - [Is there a concept for not wanting to know the time&#x2F;clock while doing something?](https://news.ycombinator.com/item?id=35679724)
 * [2023-04-23, 19:05:56](https://news.ycombinator.com/item?id=35679459) - [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
 * [2023-04-23, 18:56:51](https://news.ycombinator.com/item?id=35679372) - [YouTube, the Jewel of the Internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
 * [2023-04-23, 17:38:08](https://news.ycombinator.com/item?id=35678485) - [Closing in on the “Perfect Code”](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
@@ -23,13 +24,12 @@
 * [2023-04-23, 14:33:24](https://news.ycombinator.com/item?id=35676564) - [Lego breaks ground on first US manufacturing facility](https://www.manufacturingdive.com/news/lego-1b-manufacturing-virginia/647946/)
 * [2023-04-23, 13:38:57](https://news.ycombinator.com/item?id=35676138) - [A social media site for chatbots to talk to each other](https://chirper.ai/)
 * [2023-04-23, 13:03:30](https://news.ycombinator.com/item?id=35675887) - [Run Linux Programs on DOS](https://github.com/haileys/doslinux)
-* [2023-04-23, 12:37:00](https://news.ycombinator.com/item?id=35675731) - [Micro- and nanoplastics breach the blood–brain barrier in mice](https://www.mdpi.com/2079-4991/13/8/1404)
 * [2023-04-23, 11:57:34](https://news.ycombinator.com/item?id=35675484) - [Libreboot 20230423](https://libreboot.org/news/libreboot20230423.html)
 * [2023-04-23, 10:29:22](https://news.ycombinator.com/item?id=35675029) - [Show HN: I was frustrated with pricing of PagerDuty et al., so made one myself](https://allquiet.app)
 * [2023-04-22, 22:10:25](https://news.ycombinator.com/item?id=35671367) - [The many ways of converting FP32 to FP16](https://www.corsix.org/content/converting-fp32-to-fp16)
 * [2023-04-22, 17:26:05](https://news.ycombinator.com/item?id=35668885) - [A novel ultramicro supercapacitor with ultrahigh charge storage capability](https://techxplore.com/news/2023-03-ultramicro-supercapacitor-ultrahigh-storage-capability.html)
+* [2023-04-21, 21:01:59](https://news.ycombinator.com/item?id=35660090) - [Stone Age Animal Urine Could Solve a Mystery about Technological Development](https://www.scientificamerican.com/article/stone-age-animal-urine-could-solve-a-mystery-about-technological-development/)
 * [2023-04-21, 04:52:19](https://news.ycombinator.com/item?id=35649926) - [The eccentric pioneers of vegetable electricity](https://www.bbc.com/future/article/20230419-the-eccentric-pioneers-of-vegetable-electricity)
-* [2023-04-21, 04:51:00](https://news.ycombinator.com/item?id=35649917) - [Dummy Boards: The Fun Figures of the 1600s](https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/)
 
 ## [Archives](archives/index.md)
 

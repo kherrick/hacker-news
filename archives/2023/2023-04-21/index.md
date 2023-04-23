@@ -11,6 +11,7 @@
 * [2023-04-21, 21:48:43](https://news.ycombinator.com/item?id=35660675) - [NewsNotFound: An open-source, unbiased news company](https://newsnotfound.com/whitepaper/)
 * [2023-04-21, 21:37:15](https://news.ycombinator.com/item?id=35660556) - [Simple Pathtracing](https://iquilezles.org/articles/simplepathtracing/)
 * [2023-04-21, 21:08:03](https://news.ycombinator.com/item?id=35660186) - [Windows on Btrfs](https://www.lilysthings.org/blog/windows-on-btrfs/)
+* [2023-04-21, 21:01:59](https://news.ycombinator.com/item?id=35660090) - [Stone Age Animal Urine Could Solve a Mystery about Technological Development](https://www.scientificamerican.com/article/stone-age-animal-urine-could-solve-a-mystery-about-technological-development/)
 * [2023-04-21, 21:01:05](https://news.ycombinator.com/item?id=35660076) - [Generally Intelligent (YC S17) Is Hiring Infrastructure Engineer](https://news.ycombinator.com/item?id=35660076)
 * [2023-04-21, 20:17:02](https://news.ycombinator.com/item?id=35659462) - [The Magic Kingdom: Florida’s Corkscrew Swamp](https://worldsensorium.com/the-real-magic-kingdom-floridas-corkscrew-swamp/)
 * [2023-04-21, 20:14:53](https://news.ycombinator.com/item?id=35659423) - [Google’s 80-acre San Jose mega-campus is on hold](https://www.cnbc.com/2023/04/21/googles-80-acre-san-jose-mega-campus-on-hold-amid-economic-slowdown-.html)
