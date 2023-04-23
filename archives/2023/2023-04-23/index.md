@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 12:37:00](https://news.ycombinator.com/item?id=35675731) - [Micro- &amp; Nanoplastics Breach Blood–Brain Barrier in Mice 2 Hours After Ingestion](https://www.mdpi.com/2079-4991/13/8/1404)
+* [2023-04-23, 11:57:34](https://news.ycombinator.com/item?id=35675484) - [Libreboot 20230423 Released](https://libreboot.org/news/libreboot20230423.html)
 * [2023-04-23, 09:22:06](https://news.ycombinator.com/item?id=35674692) - [Bare Metal Vi, Boot into Vi Without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
 * [2023-04-23, 09:11:59](https://news.ycombinator.com/item?id=35674648) - [Are Text Messages the New Social Media? One Startup Thinks So](https://www.nytimes.com/2023/04/22/business/dealbook/text-messages-community.html)
 * [2023-04-23, 08:48:34](https://news.ycombinator.com/item?id=35674549) - [Gold mining and violence in the Amazon rainforest](https://www.youtube.com/watch?v=srck-pW8v34)

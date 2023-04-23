@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-23, 12:37:00](https://news.ycombinator.com/item?id=35675731) - [Micro- &amp; Nanoplastics Breach Blood–Brain Barrier in Mice 2 Hours After Ingestion](https://www.mdpi.com/2079-4991/13/8/1404)
+* [2023-04-23, 11:57:34](https://news.ycombinator.com/item?id=35675484) - [Libreboot 20230423 Released](https://libreboot.org/news/libreboot20230423.html)
 * [2023-04-23, 09:22:06](https://news.ycombinator.com/item?id=35674692) - [Bare Metal Vi, Boot into Vi Without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
 * [2023-04-23, 09:11:59](https://news.ycombinator.com/item?id=35674648) - [Are Text Messages the New Social Media? One Startup Thinks So](https://www.nytimes.com/2023/04/22/business/dealbook/text-messages-community.html)
 * [2023-04-23, 08:48:34](https://news.ycombinator.com/item?id=35674549) - [Gold mining and violence in the Amazon rainforest](https://www.youtube.com/watch?v=srck-pW8v34)
@@ -15,7 +17,6 @@
 * [2023-04-22, 23:51:10](https://news.ycombinator.com/item?id=35671968) - [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
 * [2023-04-22, 22:34:49](https://news.ycombinator.com/item?id=35671526) - [Saturn&#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
 * [2023-04-22, 15:50:10](https://news.ycombinator.com/item?id=35667764) - [Will we run out of ML data? Evidence from projecting dataset size trends (2022)](https://epochai.org/blog/will-we-run-out-of-ml-data-evidence-from-projecting-dataset)
-* [2023-04-22, 15:44:54](https://news.ycombinator.com/item?id=35667714) - [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
 * [2023-04-22, 15:17:41](https://news.ycombinator.com/item?id=35667429) - [Why the brain’s connections to the body are crisscrossed](https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419/)
 * [2023-04-22, 15:12:21](https://news.ycombinator.com/item?id=35667366) - [Isotope map of Angola helps trace life histories across African Diaspora](https://news.ucsc.edu/2023/04/angola-isoscape.html)
 * [2023-04-22, 14:54:08](https://news.ycombinator.com/item?id=35667155) - [The Cretaceous-Paleogene extinction event and security practice](https://ioc.exchange/@invisv/110242893952669306)
@@ -28,7 +29,6 @@
 * [2023-04-22, 07:22:14](https://news.ycombinator.com/item?id=35664165) - [Email yourself from a Google Sheet](https://blog.bettersheets.co/simply-email-yourself-from-a-google-sheet/)
 * [2023-04-22, 04:21:16](https://news.ycombinator.com/item?id=35663297) - [The Sudan crisis and the Sahel gold rush](https://adamtooze.substack.com/p/chartbook-209-the-sudan-crisis-and)
 * [2023-04-22, 03:09:21](https://news.ycombinator.com/item?id=35663006) - [Re-live buying a computer in 1995 [video]](https://www.youtube.com/watch?v=DaK__T-zOtA)
-* [2023-04-22, 01:03:55](https://news.ycombinator.com/item?id=35662260) - [How much can Duolingo teach us?](https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us)
 * [2023-04-21, 21:37:15](https://news.ycombinator.com/item?id=35660556) - [Simple Pathtracing (2012)](https://iquilezles.org/articles/simplepathtracing/)
 
 ## [Archives](archives/index.md)
