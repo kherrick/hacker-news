@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 21:32:47](https://news.ycombinator.com/item?id=35680869) - [X-Ray-Luminous Supernovae: Threats to Terrestrial Biospheres](https://iopscience.iop.org/article/10.3847/1538-4357/acc728)
 * [2023-04-23, 21:03:23](https://news.ycombinator.com/item?id=35680600) - [ChatGPT creates mostly insecure code, but won&#x27;t tell you unless you ask](https://www.theregister.com/2023/04/21/chatgpt_insecure_code/)
 * [2023-04-23, 20:40:49](https://news.ycombinator.com/item?id=35680376) - [Leaked deck raises questions over Stability AI’s Series A pitch to investors](https://sifted.eu/articles/stability-ai-fundraise-leak/)
 * [2023-04-23, 20:11:46](https://news.ycombinator.com/item?id=35680029) - [Incognito ChatGPT with no account required](https://anonchatgpt.com)
