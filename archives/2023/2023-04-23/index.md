@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 17:29:41](https://news.ycombinator.com/item?id=35678372) - [I’m ChatGPT, and for the love of God please don’t make me do anymore copywriting](https://www.mcsweeneys.net/articles/im-chatgpt-and-for-the-love-of-god-please-dont-make-me-do-any-more-copywriting)
 * [2023-04-23, 17:20:27](https://news.ycombinator.com/item?id=35678278) - [I Have a Dirty Secret. I’m a Software Craftsman](https://levelup.gitconnected.com/i-have-a-dirty-secret-im-a-software-craftsman-bc160e9e6b5c?gi=6f8b52e00112)
 * [2023-04-23, 17:02:08](https://news.ycombinator.com/item?id=35678043) - [My High-Flying Life as a Corporate Spy Who Lied His Way to the Top](https://narratively.com/my-high-flying-life-as-a-corporate-spy-who-lied-his-way-to-the-top/)
 * [2023-04-23, 16:59:59](https://news.ycombinator.com/item?id=35678017) - [No, seriously, Google Search is broken](https://www.google.com/search?q=pieces+of+me+is+actually+a+good+song+reddit)
