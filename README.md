@@ -26,9 +26,9 @@
 * [2023-04-22, 09:23:40](https://news.ycombinator.com/item?id=35664745) - [Writing Portable ARM64 Assembly](https://ariadne.space/2023/04/13/writing-portable-arm64-assembly/)
 * [2023-04-22, 07:22:14](https://news.ycombinator.com/item?id=35664165) - [Email yourself from a Google Sheet](https://blog.bettersheets.co/simply-email-yourself-from-a-google-sheet/)
 * [2023-04-22, 05:58:53](https://news.ycombinator.com/item?id=35663799) - [Why Did Thomas Harriot Invent Binary?](https://link.springer.com/article/10.1007/s00283-023-10271-9)
+* [2023-04-22, 01:45:07](https://news.ycombinator.com/item?id=35662517) - [So what was that? Was Starship’s launch a failure or a success?](https://arstechnica.com/science/2023/04/so-what-was-that-was-starships-launch-a-failure-or-a-success/)
 * [2023-04-22, 01:03:55](https://news.ycombinator.com/item?id=35662260) - [How much can Duolingo teach us?](https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us)
 * [2023-04-21, 21:37:15](https://news.ycombinator.com/item?id=35660556) - [Simple Pathtracing (2012)](https://iquilezles.org/articles/simplepathtracing/)
-* [2023-04-21, 18:14:27](https://news.ycombinator.com/item?id=35657796) - [Miller High Life cans destroyed in Europe over ‘Champagne of Beers’ logo](https://www.wsj.com/articles/miller-high-life-cans-destroyed-in-europe-over-champagne-of-beers-logo-25e2c05c)
 * [2023-04-21, 17:53:47](https://news.ycombinator.com/item?id=35657525) - [The Joy of an Empty Brain](https://www.wsj.com/articles/the-joy-of-a-totally-empty-brain-4fe4a739)
 
 ## [Archives](archives/index.md)
