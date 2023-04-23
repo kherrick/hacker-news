@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 09:11:59](https://news.ycombinator.com/item?id=35674648) - [Are Text Messages the New Social Media? One Startup Thinks So](https://www.nytimes.com/2023/04/22/business/dealbook/text-messages-community.html)
+* [2023-04-23, 08:48:34](https://news.ycombinator.com/item?id=35674549) - [Gold mining and violence in the Amazon rainforest](https://www.youtube.com/watch?v=srck-pW8v34)
+* [2023-04-23, 07:59:23](https://news.ycombinator.com/item?id=35674291) - [Cloudflare launches easy to set up consent manager that respects users](https://blog.cloudflare.com/consent-manager/)
 * [2023-04-23, 07:56:28](https://news.ycombinator.com/item?id=35674272) - [Twitter Blew](https://iam.mt/twitter-blew/)
 * [2023-04-23, 07:14:08](https://news.ycombinator.com/item?id=35674077) - [Why you should teach at a Community College](https://timozander.de/blog/why-you-should-teach/)
 * [2023-04-23, 07:10:05](https://news.ycombinator.com/item?id=35674063) - [Ron: Rusty Object Notation](https://github.com/ron-rs/ron)
