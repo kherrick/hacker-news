@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-23, 21:03:23](https://news.ycombinator.com/item?id=35680600) - [ChatGPT creates mostly insecure code, but won&#x27;t tell you unless you ask](https://www.theregister.com/2023/04/21/chatgpt_insecure_code/)
 * [2023-04-23, 20:40:49](https://news.ycombinator.com/item?id=35680376) - [Leaked deck raises questions over Stability AI’s Series A pitch to investors](https://sifted.eu/articles/stability-ai-fundraise-leak/)
 * [2023-04-23, 20:11:46](https://news.ycombinator.com/item?id=35680029) - [Incognito ChatGPT with no account required](https://anonchatgpt.com)
 * [2023-04-23, 20:02:51](https://news.ycombinator.com/item?id=35679946) - [Git bundles of Eaglercraft repositories disabled due to DMCA takedown](https://github.com/enten/eaglercraft-ashes)
@@ -26,7 +27,6 @@
 * [2023-04-23, 11:57:34](https://news.ycombinator.com/item?id=35675484) - [Libreboot 20230423](https://libreboot.org/news/libreboot20230423.html)
 * [2023-04-23, 10:29:22](https://news.ycombinator.com/item?id=35675029) - [Show HN: I was frustrated with pricing of PagerDuty et al., so made one myself](https://allquiet.app)
 * [2023-04-22, 22:10:25](https://news.ycombinator.com/item?id=35671367) - [The many ways of converting FP32 to FP16](https://www.corsix.org/content/converting-fp32-to-fp16)
-* [2023-04-22, 17:26:05](https://news.ycombinator.com/item?id=35668885) - [A novel ultramicro supercapacitor with ultrahigh charge storage capability](https://techxplore.com/news/2023-03-ultramicro-supercapacitor-ultrahigh-storage-capability.html)
 * [2023-04-21, 21:06:26](https://news.ycombinator.com/item?id=35660155) - [Giovanni Battista Piranesi: The Perpetual Provocateur](https://www.nybooks.com/articles/2023/05/11/the-perpetual-provocateur-giovanni-battista-piranesi/)
 * [2023-04-21, 21:01:59](https://news.ycombinator.com/item?id=35660090) - [Stone Age Animal Urine Could Solve a Mystery about Technological Development](https://www.scientificamerican.com/article/stone-age-animal-urine-could-solve-a-mystery-about-technological-development/)
 * [2023-04-21, 04:52:19](https://news.ycombinator.com/item?id=35649926) - [The eccentric pioneers of vegetable electricity](https://www.bbc.com/future/article/20230419-the-eccentric-pioneers-of-vegetable-electricity)
