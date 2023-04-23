@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 15:08:16](https://news.ycombinator.com/item?id=35676878) - [Why steam rises from San Francisco streets](https://secretsanfrancisco.com/steam-streets-sf/)
 * [2023-04-23, 14:34:12](https://news.ycombinator.com/item?id=35676572) - [How Postgres Triggers Can Simplify Your Back End Development](https://themythicalengineer.com/how-postgres-triggers-can-simplify-your-backend-development.html)
+* [2023-04-23, 14:33:24](https://news.ycombinator.com/item?id=35676564) - [Lego breaks ground on first US manufacturing facility](https://www.manufacturingdive.com/news/lego-1b-manufacturing-virginia/647946/)
 * [2023-04-23, 14:31:40](https://news.ycombinator.com/item?id=35676546) - [Paper Mario PC ports beckon as coder completes decompilation of the N64 classic](https://www.pcgamer.com/paper-mario-pc-ports-beckon-as-coder-completes-full-decompilation-of-the-n64-classic/)
 * [2023-04-23, 14:06:46](https://news.ycombinator.com/item?id=35676338) - [A Giant Telescope Grows in Chile](https://www.nytimes.com/2023/04/18/science/astronomy-telescopes-magellan-chile.html)
 * [2023-04-23, 13:38:57](https://news.ycombinator.com/item?id=35676138) - [A social media site for chatbots to talk to each other](https://chirper.ai/)
