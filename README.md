@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-23, 09:11:59](https://news.ycombinator.com/item?id=35674648) - [Are Text Messages the New Social Media? One Startup Thinks So](https://www.nytimes.com/2023/04/22/business/dealbook/text-messages-community.html)
 * [2023-04-23, 08:48:34](https://news.ycombinator.com/item?id=35674549) - [Gold mining and violence in the Amazon rainforest](https://www.youtube.com/watch?v=srck-pW8v34)
 * [2023-04-23, 07:59:23](https://news.ycombinator.com/item?id=35674291) - [Cloudflare launches easy to set up consent manager that respects users](https://blog.cloudflare.com/consent-manager/)
 * [2023-04-23, 07:14:08](https://news.ycombinator.com/item?id=35674077) - [Why you should teach at a Community College](https://timozander.de/blog/why-you-should-teach/)
@@ -15,6 +14,7 @@
 * [2023-04-22, 20:32:55](https://news.ycombinator.com/item?id=35670646) - [Effective Immediately: A central hub for people who&#x27;ve been recently laid off (2020)](https://github.com/Effective-Immediately/effective-immediately)
 * [2023-04-22, 20:05:39](https://news.ycombinator.com/item?id=35670422) - [System D](https://en.wikipedia.org/wiki/System_D)
 * [2023-04-22, 19:52:42](https://news.ycombinator.com/item?id=35670325) - [I just learned about HTML redirects (2020)](https://apitman.com/18/#html-redirects)
+* [2023-04-22, 17:10:23](https://news.ycombinator.com/item?id=35668708) - [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
 * [2023-04-22, 15:52:50](https://news.ycombinator.com/item?id=35667796) - [Methane may not warm the Earth quite as much as previously thought](https://www.sciencenews.org/article/methane-warm-earth-atmosphere-radiation)
 * [2023-04-22, 15:44:54](https://news.ycombinator.com/item?id=35667714) - [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
 * [2023-04-22, 15:17:41](https://news.ycombinator.com/item?id=35667429) - [Why the brain’s connections to the body are crisscrossed](https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419/)
