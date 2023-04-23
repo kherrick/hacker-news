@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 21:56:46](https://news.ycombinator.com/item?id=35681079) - [Delaware will become the 22nd state to legalize recreational marijuana](https://delawarebusinesstimes.com/news/delaware-legal-marijuana-23/)
 * [2023-04-23, 21:32:47](https://news.ycombinator.com/item?id=35680869) - [X-Ray-Luminous Supernovae: Threats to Terrestrial Biospheres](https://iopscience.iop.org/article/10.3847/1538-4357/acc728)
 * [2023-04-23, 21:03:23](https://news.ycombinator.com/item?id=35680600) - [ChatGPT creates mostly insecure code, but won&#x27;t tell you unless you ask](https://www.theregister.com/2023/04/21/chatgpt_insecure_code/)
+* [2023-04-23, 20:57:42](https://news.ycombinator.com/item?id=35680542) - [That won&#x27;t scale Or present cost vs. future value](https://codesolo.substack.com/p/that-wont-scale-or-present-cost-vs)
 * [2023-04-23, 20:40:49](https://news.ycombinator.com/item?id=35680376) - [Leaked deck raises questions over Stability AI’s Series A pitch to investors](https://sifted.eu/articles/stability-ai-fundraise-leak/)
 * [2023-04-23, 20:11:46](https://news.ycombinator.com/item?id=35680029) - [Incognito ChatGPT with no account required](https://anonchatgpt.com)
 * [2023-04-23, 20:02:51](https://news.ycombinator.com/item?id=35679946) - [Git bundles of Eaglercraft repositories disabled due to DMCA takedown](https://github.com/enten/eaglercraft-ashes)
