@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-04-22, 21:02:21",
-      "https://news.ycombinator.com/item?id=35670912"
-    ],
-    [
-      "The Sell ∀ ∃ as ∃ ∀ Scam",
-      "https://win-vector.com/2023/04/22/the-sell-as-scam/"
-    ]
-  ],
-  [
-    [
       "2023-04-22, 20:41:24",
       "https://news.ycombinator.com/item?id=35670723"
     ],
@@ -121,22 +111,22 @@
   ],
   [
     [
-      "2023-04-22, 15:50:10",
-      "https://news.ycombinator.com/item?id=35667764"
-    ],
-    [
-      "Will we run out of ML data? Evidence from projecting dataset size trends (2022)",
-      "https://epochai.org/blog/will-we-run-out-of-ml-data-evidence-from-projecting-dataset"
-    ]
-  ],
-  [
-    [
       "2023-04-22, 15:44:54",
       "https://news.ycombinator.com/item?id=35667714"
     ],
     [
       "Using solar farms to generate fresh desert soil crust",
       "https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-22, 15:39:13",
+      "https://news.ycombinator.com/item?id=35667650"
+    ],
+    [
+      "WebAssembly Text Code Samples",
+      "https://eli.thegreenplace.net/2023/webassembly-text-code-samples/"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "ReceptioGate and the (Absolute) State of Academia",
       "https://thecritic.co.uk/receptiogate-and-the-absolute-state-of-academia/"
+    ]
+  ],
+  [
+    [
+      "2023-04-22, 14:18:24",
+      "https://news.ycombinator.com/item?id=35666837"
+    ],
+    [
+      "XINF",
+      "https://xinf.dev/"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2023-04-22, 07:06:47",
-      "https://news.ycombinator.com/item?id=35664090"
+      "2023-04-22, 06:08:02",
+      "https://news.ycombinator.com/item?id=35663845"
     ],
     [
-      "Manjaro Linux 22.1 Talos Released",
-      "https://forum.manjaro.org/t/manjaro-22-1-talos-released/139155"
+      "Maintain consistent styles for developers working across various editors",
+      "https://editorconfig.org/"
     ]
   ],
   [
