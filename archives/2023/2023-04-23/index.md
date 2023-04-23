@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 19:36:41](https://news.ycombinator.com/item?id=35679724) - [Is there a concept for not wanting to know the time&#x2F;clock while doing something?](https://news.ycombinator.com/item?id=35679724)
+* [2023-04-23, 19:05:56](https://news.ycombinator.com/item?id=35679459) - [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
 * [2023-04-23, 18:56:51](https://news.ycombinator.com/item?id=35679372) - [YouTube, the Jewel of the Internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
 * [2023-04-23, 17:38:08](https://news.ycombinator.com/item?id=35678485) - [Closing in on the “Perfect Code”](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
 * [2023-04-23, 17:29:41](https://news.ycombinator.com/item?id=35678372) - [I’m ChatGPT, and for the love of God please don’t make me do anymore copywriting](https://www.mcsweeneys.net/articles/im-chatgpt-and-for-the-love-of-god-please-dont-make-me-do-any-more-copywriting)
