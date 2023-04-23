@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 19:47:32](https://news.ycombinator.com/item?id=35679814) - [Twitter Enhancement Suite – BlockTheBlue](https://chrome.google.com/webstore/detail/twitter-enhancement-suite/chaiionjpmjklbbngmpdnbfcmkgoicle)
 * [2023-04-23, 19:36:41](https://news.ycombinator.com/item?id=35679724) - [Is there a concept for not wanting to know the time&#x2F;clock while doing something?](https://news.ycombinator.com/item?id=35679724)
 * [2023-04-23, 19:05:56](https://news.ycombinator.com/item?id=35679459) - [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
 * [2023-04-23, 18:56:51](https://news.ycombinator.com/item?id=35679372) - [YouTube, the Jewel of the Internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
