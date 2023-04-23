@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 07:56:28](https://news.ycombinator.com/item?id=35674272) - [Twitter Blew](https://iam.mt/twitter-blew/)
 * [2023-04-23, 04:51:59](https://news.ycombinator.com/item?id=35673369) - [The Crypto Detectives Are Cleaning Up](https://www.nytimes.com/2023/04/22/business/crypto-blockchain-tracking-chainalysis.html)
 * [2023-04-23, 04:40:49](https://news.ycombinator.com/item?id=35673321) - [Google CEO Salary](https://littlebitofeverything.substack.com/p/google-ceo-salary)
 * [2023-04-23, 02:37:13](https://news.ycombinator.com/item?id=35672840) - [The Soviet Legacy: Inside Cuba’s Unfinished Nuclear Power Station](https://www.exutopia.com/cuba-abandoned-unfinished-soviet-nuclear-power-station/)
