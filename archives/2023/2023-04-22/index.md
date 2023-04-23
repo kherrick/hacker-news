@@ -37,6 +37,7 @@
 * [2023-04-22, 15:30:10](https://news.ycombinator.com/item?id=35667547) - [Schools bought millions of Chromebooks and 3 years later they’re breaking down](https://www.theverge.com/2023/4/21/23691840/us-pirg-education-fund-report-investigation-chromebook-churn)
 * [2023-04-22, 15:20:42](https://news.ycombinator.com/item?id=35667476) - [Boustrophedon](https://en.wikipedia.org/wiki/Boustrophedon)
 * [2023-04-22, 15:17:41](https://news.ycombinator.com/item?id=35667429) - [Why the Brain’s Connections to the Body Are Crisscrossed](https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419/)
+* [2023-04-22, 15:12:21](https://news.ycombinator.com/item?id=35667366) - [Isotope map of Angola helps trace life histories across African Diaspora](https://news.ucsc.edu/2023/04/angola-isoscape.html)
 * [2023-04-22, 15:05:28](https://news.ycombinator.com/item?id=35667285) - [Say Hi to SoFi. It’s Suing to Force You to Repay Student Loans Faster](https://www.nytimes.com/2023/04/22/your-money/sofi-student-loans-lawsuit.html)
 * [2023-04-22, 14:57:56](https://news.ycombinator.com/item?id=35667205) - [ReceptioGate and the (Absolute) State of Academia](https://thecritic.co.uk/receptiogate-and-the-absolute-state-of-academia/)
 * [2023-04-22, 14:54:08](https://news.ycombinator.com/item?id=35667155) - [The Cretaceous-Paleogene extinction event and security practice](https://ioc.exchange/@invisv/110242893952669306)
