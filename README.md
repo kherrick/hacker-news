@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-23, 19:59:23](https://news.ycombinator.com/item?id=35679911) - [LSD: Not Even Once. Really.](https://www.qword.net/2023/04/23/lsd-not-even-once-really)
+* [2023-04-23, 19:59:23](https://news.ycombinator.com/item?id=35679911) - [LSD: Not Even Once](https://www.qword.net/2023/04/23/lsd-not-even-once-really)
 * [2023-04-23, 19:52:56](https://news.ycombinator.com/item?id=35679860) - [Solar on Warehouses](https://environmentamerica.org/center/resources/solar-on-warehouses/)
 * [2023-04-23, 19:05:56](https://news.ycombinator.com/item?id=35679459) - [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
 * [2023-04-23, 17:38:08](https://news.ycombinator.com/item?id=35678485) - [Closing in on the “Perfect Code”](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
