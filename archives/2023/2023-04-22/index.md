@@ -42,6 +42,7 @@
 * [2023-04-22, 14:57:56](https://news.ycombinator.com/item?id=35667205) - [ReceptioGate and the (Absolute) State of Academia](https://thecritic.co.uk/receptiogate-and-the-absolute-state-of-academia/)
 * [2023-04-22, 14:54:08](https://news.ycombinator.com/item?id=35667155) - [The Cretaceous-Paleogene extinction event and security practice](https://ioc.exchange/@invisv/110242893952669306)
 * [2023-04-22, 14:47:37](https://news.ycombinator.com/item?id=35667090) - [Meta&#x27;s Head of AI Has Some Interesting Beliefs About Dominance and Submission](https://futurism.com/the-byte/meta-head-ai-dominance-submission)
+* [2023-04-22, 14:37:25](https://news.ycombinator.com/item?id=35666990) - [The Computing Platform Underlying AI [audio]](https://open.spotify.com/episode/2DFD3HU4XlXTlr08M5BnRn)
 * [2023-04-22, 14:29:23](https://news.ycombinator.com/item?id=35666916) - [Indigo: A game engine for functional programmers, in Scala](https://indigoengine.io/)
 * [2023-04-22, 14:18:24](https://news.ycombinator.com/item?id=35666837) - [XINF](https://xinf.dev/)
 * [2023-04-22, 14:17:40](https://news.ycombinator.com/item?id=35666832) - [“Chromebooks aren’t built to last”: Average device has 4 years of updates left](https://arstechnica.com/gadgets/2023/04/chromebooks-arent-built-to-last-average-device-has-4-years-of-updates-left/)

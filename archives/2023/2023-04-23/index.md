@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 12:37:05](https://news.ycombinator.com/item?id=35675732) - [Russia killed its tech industry](https://www.technologyreview.com/2023/04/04/1070352/ukraine-war-russia-tech-industry-yandex-skolkovo/)
 * [2023-04-23, 12:37:00](https://news.ycombinator.com/item?id=35675731) - [Micro- &amp; Nanoplastics Breach Blood–Brain Barrier in Mice 2 Hours After Ingestion](https://www.mdpi.com/2079-4991/13/8/1404)
 * [2023-04-23, 11:57:34](https://news.ycombinator.com/item?id=35675484) - [Libreboot 20230423 Released](https://libreboot.org/news/libreboot20230423.html)
 * [2023-04-23, 09:22:06](https://news.ycombinator.com/item?id=35674692) - [Bare Metal Vi, Boot into Vi Without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
