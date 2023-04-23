@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 15:55:01](https://news.ycombinator.com/item?id=35677306) - [Xiaomi 13 Ultra: “Real camera” phone makes Samsung, Apple shake nervously](https://www.phonearena.com/news/xiaomi-13-ultra-android-real-camera-phone-makes-samsung-apple-shake-nervously_id147012)
+* [2023-04-23, 15:35:02](https://news.ycombinator.com/item?id=35677126) - [Pydantic V2 leverages Rust&#x27;s Superpowers [video]](https://fosdem.org/2023/schedule/event/rust_how_pydantic_v2_leverages_rusts_superpowers/)
 * [2023-04-23, 15:13:41](https://news.ycombinator.com/item?id=35676932) - [In pursuit of the best value US cloud provider](https://servicestack.net/posts/hetzner-cloud)
 * [2023-04-23, 15:08:16](https://news.ycombinator.com/item?id=35676878) - [Why steam rises from San Francisco streets](https://secretsanfrancisco.com/steam-streets-sf/)
 * [2023-04-23, 14:34:12](https://news.ycombinator.com/item?id=35676572) - [How Postgres Triggers Can Simplify Your Back End Development](https://themythicalengineer.com/how-postgres-triggers-can-simplify-your-backend-development.html)

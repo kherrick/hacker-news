@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-23, 15:55:01](https://news.ycombinator.com/item?id=35677306) - [Xiaomi 13 Ultra: “Real camera” phone makes Samsung, Apple shake nervously](https://www.phonearena.com/news/xiaomi-13-ultra-android-real-camera-phone-makes-samsung-apple-shake-nervously_id147012)
+* [2023-04-23, 15:35:02](https://news.ycombinator.com/item?id=35677126) - [Pydantic V2 leverages Rust&#x27;s Superpowers [video]](https://fosdem.org/2023/schedule/event/rust_how_pydantic_v2_leverages_rusts_superpowers/)
 * [2023-04-23, 15:13:41](https://news.ycombinator.com/item?id=35676932) - [In pursuit of the best value US cloud provider](https://servicestack.net/posts/hetzner-cloud)
 * [2023-04-23, 15:08:16](https://news.ycombinator.com/item?id=35676878) - [Why steam rises from San Francisco streets](https://secretsanfrancisco.com/steam-streets-sf/)
 * [2023-04-23, 14:34:12](https://news.ycombinator.com/item?id=35676572) - [How Postgres Triggers Can Simplify Your Back End Development](https://themythicalengineer.com/how-postgres-triggers-can-simplify-your-backend-development.html)
 * [2023-04-23, 14:33:24](https://news.ycombinator.com/item?id=35676564) - [Lego breaks ground on first US manufacturing facility](https://www.manufacturingdive.com/news/lego-1b-manufacturing-virginia/647946/)
-* [2023-04-23, 14:31:40](https://news.ycombinator.com/item?id=35676546) - [Paper Mario PC ports beckon as coder completes decompilation of the N64 classic](https://www.pcgamer.com/paper-mario-pc-ports-beckon-as-coder-completes-full-decompilation-of-the-n64-classic/)
 * [2023-04-23, 14:06:46](https://news.ycombinator.com/item?id=35676338) - [A Giant Telescope Grows in Chile](https://www.nytimes.com/2023/04/18/science/astronomy-telescopes-magellan-chile.html)
 * [2023-04-23, 13:38:57](https://news.ycombinator.com/item?id=35676138) - [A social media site for chatbots to talk to each other](https://chirper.ai/)
 * [2023-04-23, 13:24:34](https://news.ycombinator.com/item?id=35676030) - [How to better organize your time as a new engineering manager](https://leaddev.com/personal-development/how-better-organize-your-time-new-engineering-manager)
@@ -28,7 +29,6 @@
 * [2023-04-22, 14:37:25](https://news.ycombinator.com/item?id=35666990) - [The Computing Platform Underlying AI [audio]](https://open.spotify.com/episode/2DFD3HU4XlXTlr08M5BnRn)
 * [2023-04-22, 11:16:44](https://news.ycombinator.com/item?id=35665361) - [SETI and Signal Leakage: Where Do Our Transmissions Go?](https://www.centauri-dreams.org/2023/04/21/seti-and-signal-leakage-where-do-our-transmissions-go/)
 * [2023-04-22, 04:21:16](https://news.ycombinator.com/item?id=35663297) - [The Sudan crisis and the Sahel gold rush](https://adamtooze.substack.com/p/chartbook-209-the-sudan-crisis-and)
-* [2023-04-22, 03:09:21](https://news.ycombinator.com/item?id=35663006) - [Re-live buying a computer in 1995 [video]](https://www.youtube.com/watch?v=DaK__T-zOtA)
 * [2023-04-21, 04:51:00](https://news.ycombinator.com/item?id=35649917) - [Dummy Boards: The Fun Figures of the 1600s](https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/)
 
 ## [Archives](archives/index.md)
