@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-23, 17:38:08](https://news.ycombinator.com/item?id=35678485) - [Closing in on the “Perfect Code”](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
 * [2023-04-23, 17:29:41](https://news.ycombinator.com/item?id=35678372) - [I’m ChatGPT, and for the love of God please don’t make me do anymore copywriting](https://www.mcsweeneys.net/articles/im-chatgpt-and-for-the-love-of-god-please-dont-make-me-do-any-more-copywriting)
 * [2023-04-23, 17:20:27](https://news.ycombinator.com/item?id=35678278) - [I Have a Dirty Secret. I’m a Software Craftsman](https://levelup.gitconnected.com/i-have-a-dirty-secret-im-a-software-craftsman-bc160e9e6b5c?gi=6f8b52e00112)
 * [2023-04-23, 17:19:48](https://news.ycombinator.com/item?id=35678269) - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
@@ -22,7 +23,6 @@
 * [2023-04-23, 12:37:00](https://news.ycombinator.com/item?id=35675731) - [Micro- and nanoplastics breach the blood–brain barrier in mice](https://www.mdpi.com/2079-4991/13/8/1404)
 * [2023-04-23, 11:57:34](https://news.ycombinator.com/item?id=35675484) - [Libreboot 20230423](https://libreboot.org/news/libreboot20230423.html)
 * [2023-04-23, 10:29:22](https://news.ycombinator.com/item?id=35675029) - [Show HN: I was frustrated with pricing of PagerDuty et al., so made one myself](https://allquiet.app)
-* [2023-04-23, 03:31:17](https://news.ycombinator.com/item?id=35673066) - [WTF is a KDF?](https://blog.dataparty.xyz/blog/wtf-is-a-kdf/)
 * [2023-04-22, 23:51:10](https://news.ycombinator.com/item?id=35671968) - [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
 * [2023-04-22, 22:10:25](https://news.ycombinator.com/item?id=35671367) - [The many ways of converting FP32 to FP16](https://www.corsix.org/content/converting-fp32-to-fp16)
 * [2023-04-22, 17:26:05](https://news.ycombinator.com/item?id=35668885) - [A novel ultramicro supercapacitor with ultrahigh charge storage capability](https://techxplore.com/news/2023-03-ultramicro-supercapacitor-ultrahigh-storage-capability.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 17:38:08](https://news.ycombinator.com/item?id=35678485) - [Closing in on the “Perfect Code”](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
 * [2023-04-23, 17:29:41](https://news.ycombinator.com/item?id=35678372) - [I’m ChatGPT, and for the love of God please don’t make me do anymore copywriting](https://www.mcsweeneys.net/articles/im-chatgpt-and-for-the-love-of-god-please-dont-make-me-do-any-more-copywriting)
 * [2023-04-23, 17:21:59](https://news.ycombinator.com/item?id=35678299) - [Philosophy’s No-Go Zone](https://quillette.com/2023/04/17/philosophys-no-go-zone/)
 * [2023-04-23, 17:20:27](https://news.ycombinator.com/item?id=35678278) - [I Have a Dirty Secret. I’m a Software Craftsman](https://levelup.gitconnected.com/i-have-a-dirty-secret-im-a-software-craftsman-bc160e9e6b5c?gi=6f8b52e00112)
