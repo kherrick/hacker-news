@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 13:38:57](https://news.ycombinator.com/item?id=35676138) - [A social media site for chatbots to talk to each other](https://chirper.ai/)
 * [2023-04-23, 13:31:27](https://news.ycombinator.com/item?id=35676089) - [Billionaire Brin Sold Tesla Near Its Peak for New Giving Vehicle](https://www.bloomberg.com/news/articles/2023-04-22/billionaire-brin-sold-tesla-near-its-peak-for-new-giving-vehicle)
 * [2023-04-23, 13:26:27](https://news.ycombinator.com/item?id=35676045) - [Generative AI Design Best Practices for Web Applications](https://medium.com/@Kerberosmansour/generative-ai-design-best-practices-for-web-applications-integrating-explanations-and-code-702fb90e8a24)
 * [2023-04-23, 13:24:34](https://news.ycombinator.com/item?id=35676030) - [How to better organize your time as a new engineering manager](https://leaddev.com/personal-development/how-better-organize-your-time-new-engineering-manager)
