@@ -2,7 +2,6 @@
 
 * [2023-04-23, 00:59:19](https://news.ycombinator.com/item?id=35672358) - [My ultimate shell setup with Fish shell and Tmux (2021)](https://www.milanvit.net/post/my-ultimate-shell-setup-with-fish-shell-and-tmux/)
 * [2023-04-23, 00:14:55](https://news.ycombinator.com/item?id=35672093) - [Modern Transactional Stack](https://a16z.com/2023/04/14/the-modern-transactional-stack/)
-* [2023-04-22, 23:35:49](https://news.ycombinator.com/item?id=35671882) - [DARPA wants to rethink the fundamentals of AI to include trust](https://www.theregister.com/2023/04/20/darpa_ai_trust/)
 * [2023-04-22, 22:34:49](https://news.ycombinator.com/item?id=35671526) - [Saturn&#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
 * [2023-04-22, 20:32:55](https://news.ycombinator.com/item?id=35670646) - [Effective Immediately: A central hub for people who&#x27;ve been recently laid off](https://github.com/Effective-Immediately/effective-immediately)
 * [2023-04-22, 20:05:39](https://news.ycombinator.com/item?id=35670422) - [System D](https://en.wikipedia.org/wiki/System_D)
@@ -11,6 +10,7 @@
 * [2023-04-22, 17:40:54](https://news.ycombinator.com/item?id=35669053) - [Show HN: DontBore – Accessible, fast, low-footprint Login sharing for the masses](https://dontbo.re/)
 * [2023-04-22, 17:10:23](https://news.ycombinator.com/item?id=35668708) - [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
 * [2023-04-22, 16:44:32](https://news.ycombinator.com/item?id=35668387) - [Prompt engineering vs. blind prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
+* [2023-04-22, 15:52:50](https://news.ycombinator.com/item?id=35667796) - [Methane may not warm the Earth quite as much as previously thought](https://www.sciencenews.org/article/methane-warm-earth-atmosphere-radiation)
 * [2023-04-22, 15:44:54](https://news.ycombinator.com/item?id=35667714) - [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
 * [2023-04-22, 15:39:13](https://news.ycombinator.com/item?id=35667650) - [WebAssembly Text Code Samples](https://eli.thegreenplace.net/2023/webassembly-text-code-samples/)
 * [2023-04-22, 15:38:37](https://news.ycombinator.com/item?id=35667642) - [How did the chess pieces get their names?](https://www.atlasobscura.com/articles/how-did-chess-pieces-get-their-names)
