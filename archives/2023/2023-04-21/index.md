@@ -30,6 +30,7 @@
 * [2023-04-21, 18:43:34](https://news.ycombinator.com/item?id=35658167) - [Content and controversy in generative AI models](http://marble.onl/posts/content-and-controversy-in-generative-ai.html)
 * [2023-04-21, 18:29:21](https://news.ycombinator.com/item?id=35657984) - [Fire Mark Zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
 * [2023-04-21, 18:29:13](https://news.ycombinator.com/item?id=35657982) - [GitHub Copilot emits GPL code](https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not)
+* [2023-04-21, 18:14:27](https://news.ycombinator.com/item?id=35657796) - [Miller High Life cans destroyed in Europe over ‘Champagne of Beers’ logo](https://www.wsj.com/articles/miller-high-life-cans-destroyed-in-europe-over-champagne-of-beers-logo-25e2c05c)
 * [2023-04-21, 17:57:25](https://news.ycombinator.com/item?id=35657570) - [&#x27;Devastating&#x27; melt of Greenland, Antarctic ice sheets found](https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html)
 * [2023-04-21, 17:53:47](https://news.ycombinator.com/item?id=35657525) - [The Joy of an Empty Brain](https://www.wsj.com/articles/the-joy-of-a-totally-empty-brain-4fe4a739)
 * [2023-04-21, 17:50:00](https://news.ycombinator.com/item?id=35657474) - [Datomic Implicit Partitions](https://blog.datomic.com/2023/04/implicit-partitions.html)

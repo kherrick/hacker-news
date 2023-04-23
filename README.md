@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-23, 04:51:59](https://news.ycombinator.com/item?id=35673369) - [The Crypto Detectives Are Cleaning Up](https://www.nytimes.com/2023/04/22/business/crypto-blockchain-tracking-chainalysis.html)
-* [2023-04-23, 02:37:13](https://news.ycombinator.com/item?id=35672840) - [The Soviet Legacy: Inside Cuba’s Unfinished Nuclear Power Station](https://www.exutopia.com/cuba-abandoned-unfinished-soviet-nuclear-power-station/)
-* [2023-04-23, 00:59:19](https://news.ycombinator.com/item?id=35672358) - [My ultimate shell setup with Fish shell and Tmux (2021)](https://www.milanvit.net/post/my-ultimate-shell-setup-with-fish-shell-and-tmux/)
+* [2023-04-23, 02:37:13](https://news.ycombinator.com/item?id=35672840) - [Cuba’s Unfinished Nuclear Power Station](https://www.exutopia.com/cuba-abandoned-unfinished-soviet-nuclear-power-station/)
+* [2023-04-23, 00:59:19](https://news.ycombinator.com/item?id=35672358) - [My shell setup with Fish and Tmux (2021)](https://www.milanvit.net/post/my-ultimate-shell-setup-with-fish-shell-and-tmux/)
 * [2023-04-23, 00:14:55](https://news.ycombinator.com/item?id=35672093) - [Modern Transactional Stack](https://a16z.com/2023/04/14/the-modern-transactional-stack/)
 * [2023-04-22, 23:51:10](https://news.ycombinator.com/item?id=35671968) - [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
 * [2023-04-22, 22:34:49](https://news.ycombinator.com/item?id=35671526) - [Saturn&#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
@@ -24,11 +24,11 @@
 * [2023-04-22, 12:39:56](https://news.ycombinator.com/item?id=35666025) - [Compromising Garmin Sport Watches: A Deep Dive into GarminOS and Its MonkeyC VM](https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html)
 * [2023-04-22, 10:40:49](https://news.ycombinator.com/item?id=35665142) - [Show HN: I made a SQL game to help people learn &#x2F; challenge their skills](https://lost-at-sql.therobinlord.com/)
 * [2023-04-22, 09:23:40](https://news.ycombinator.com/item?id=35664745) - [Writing Portable ARM64 Assembly](https://ariadne.space/2023/04/13/writing-portable-arm64-assembly/)
-* [2023-04-22, 07:41:09](https://news.ycombinator.com/item?id=35664261) - [Champagne is not happy with Miller High Life in Europe](https://www.washingtonpost.com/food/2023/04/21/champagne-miller-high-life-destroyed/)
 * [2023-04-22, 07:22:14](https://news.ycombinator.com/item?id=35664165) - [Email Yourself from a Google Sheet](https://blog.bettersheets.co/simply-email-yourself-from-a-google-sheet/)
 * [2023-04-22, 05:58:53](https://news.ycombinator.com/item?id=35663799) - [Why Did Thomas Harriot Invent Binary?](https://link.springer.com/article/10.1007/s00283-023-10271-9)
 * [2023-04-22, 01:03:55](https://news.ycombinator.com/item?id=35662260) - [How much can Duolingo teach us?](https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us)
 * [2023-04-21, 21:37:15](https://news.ycombinator.com/item?id=35660556) - [Simple Pathtracing (2012)](https://iquilezles.org/articles/simplepathtracing/)
+* [2023-04-21, 18:14:27](https://news.ycombinator.com/item?id=35657796) - [Miller High Life cans destroyed in Europe over ‘Champagne of Beers’ logo](https://www.wsj.com/articles/miller-high-life-cans-destroyed-in-europe-over-champagne-of-beers-logo-25e2c05c)
 * [2023-04-21, 17:53:47](https://news.ycombinator.com/item?id=35657525) - [The Joy of an Empty Brain](https://www.wsj.com/articles/the-joy-of-a-totally-empty-brain-4fe4a739)
 
 ## [Archives](archives/index.md)
