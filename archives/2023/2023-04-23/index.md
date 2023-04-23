@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 14:34:12](https://news.ycombinator.com/item?id=35676572) - [How Postgres Triggers Can Simplify Your Back End Development](https://themythicalengineer.com/how-postgres-triggers-can-simplify-your-backend-development.html)
 * [2023-04-23, 14:31:40](https://news.ycombinator.com/item?id=35676546) - [Paper Mario PC ports beckon as coder completes decompilation of the N64 classic](https://www.pcgamer.com/paper-mario-pc-ports-beckon-as-coder-completes-full-decompilation-of-the-n64-classic/)
+* [2023-04-23, 14:06:46](https://news.ycombinator.com/item?id=35676338) - [A Giant Telescope Grows in Chile](https://www.nytimes.com/2023/04/18/science/astronomy-telescopes-magellan-chile.html)
 * [2023-04-23, 13:38:57](https://news.ycombinator.com/item?id=35676138) - [A social media site for chatbots to talk to each other](https://chirper.ai/)
 * [2023-04-23, 13:31:27](https://news.ycombinator.com/item?id=35676089) - [Billionaire Brin Sold Tesla Near Its Peak for New Giving Vehicle](https://www.bloomberg.com/news/articles/2023-04-22/billionaire-brin-sold-tesla-near-its-peak-for-new-giving-vehicle)
 * [2023-04-23, 13:26:27](https://news.ycombinator.com/item?id=35676045) - [Generative AI Design Best Practices for Web Applications](https://medium.com/@Kerberosmansour/generative-ai-design-best-practices-for-web-applications-integrating-explanations-and-code-702fb90e8a24)

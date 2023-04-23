@@ -7,6 +7,7 @@
 * [2023-04-22, 23:51:10](https://news.ycombinator.com/item?id=35671968) - [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
 * [2023-04-22, 23:35:49](https://news.ycombinator.com/item?id=35671882) - [DARPA wants to rethink the fundamentals of AI to include trust](https://www.theregister.com/2023/04/20/darpa_ai_trust/)
 * [2023-04-22, 22:34:49](https://news.ycombinator.com/item?id=35671526) - [Saturn&#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
+* [2023-04-22, 22:10:25](https://news.ycombinator.com/item?id=35671367) - [The many ways of converting FP32 to FP16](https://www.corsix.org/content/converting-fp32-to-fp16)
 * [2023-04-22, 21:02:21](https://news.ycombinator.com/item?id=35670912) - [The Sell ∀ ∃ as ∃ ∀ Scam](https://win-vector.com/2023/04/22/the-sell-as-scam/)
 * [2023-04-22, 20:41:24](https://news.ycombinator.com/item?id=35670723) - [How does the New York Times make a game?](https://www.nytimes.com/2023/04/10/crosswords/games-digits-beta.html)
 * [2023-04-22, 20:32:55](https://news.ycombinator.com/item?id=35670646) - [Effective Immediately: A central hub for people who&#x27;ve been recently laid off](https://github.com/Effective-Immediately/effective-immediately)
