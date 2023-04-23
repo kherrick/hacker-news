@@ -2,8 +2,6 @@
 
 * [2023-04-23, 16:43:45](https://news.ycombinator.com/item?id=35677845) - [Google’s smart speakers are finally smart enough to shut up](https://www.theverge.com/2023/4/21/23692794/google-nest-smart-speaker-new-chime-feature)
 * [2023-04-23, 16:36:14](https://news.ycombinator.com/item?id=35677754) - [Ban all gambling adverts, say more than half of Britons](https://www.theguardian.com/society/2023/apr/23/ban-all-gambling-adverts-say-more-than-half-of-britons)
-* [2023-04-23, 16:03:33](https://news.ycombinator.com/item?id=35677390) - [Saudi company draws unlimited Arizona ground water amid drought](https://www.cbsnews.com/news/saudi-company-fondomonte-arizona-ground-water-crop-alfalfa/?ftag=YHF4eb9d17)
-* [2023-04-23, 15:55:01](https://news.ycombinator.com/item?id=35677306) - [Xiaomi 13 Ultra: “Real camera” phone makes Samsung, Apple shake nervously](https://www.phonearena.com/news/xiaomi-13-ultra-android-real-camera-phone-makes-samsung-apple-shake-nervously_id147012)
 * [2023-04-23, 15:35:02](https://news.ycombinator.com/item?id=35677126) - [Pydantic V2 leverages Rust&#x27;s Superpowers [video]](https://fosdem.org/2023/schedule/event/rust_how_pydantic_v2_leverages_rusts_superpowers/)
 * [2023-04-23, 15:13:41](https://news.ycombinator.com/item?id=35676932) - [In pursuit of the best value US cloud provider](https://servicestack.net/posts/hetzner-cloud)
 * [2023-04-23, 15:08:16](https://news.ycombinator.com/item?id=35676878) - [Why steam rises from San Francisco streets](https://secretsanfrancisco.com/steam-streets-sf/)
@@ -21,6 +19,7 @@
 * [2023-04-23, 10:29:22](https://news.ycombinator.com/item?id=35675029) - [Show HN: I was frustrated with pricing of PagerDuty et al., so made it myself](https://allquiet.app)
 * [2023-04-23, 07:59:23](https://news.ycombinator.com/item?id=35674291) - [Cloudflare launches easy to set up consent manager that respects users](https://blog.cloudflare.com/consent-manager/)
 * [2023-04-23, 07:14:08](https://news.ycombinator.com/item?id=35674077) - [Why you should teach at a Community College](https://timozander.de/blog/why-you-should-teach/)
+* [2023-04-23, 06:44:17](https://news.ycombinator.com/item?id=35673940) - [WikiScroll](https://wikiscroll.blankenship.io/)
 * [2023-04-23, 03:31:17](https://news.ycombinator.com/item?id=35673066) - [WTF is a KDF?](https://blog.dataparty.xyz/blog/wtf-is-a-kdf/)
 * [2023-04-22, 23:51:10](https://news.ycombinator.com/item?id=35671968) - [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
 * [2023-04-22, 22:10:25](https://news.ycombinator.com/item?id=35671367) - [The many ways of converting FP32 to FP16](https://www.corsix.org/content/converting-fp32-to-fp16)
@@ -28,6 +27,7 @@
 * [2023-04-22, 15:12:21](https://news.ycombinator.com/item?id=35667366) - [Isotope map of Angola helps trace life histories across African Diaspora](https://news.ucsc.edu/2023/04/angola-isoscape.html)
 * [2023-04-22, 14:54:08](https://news.ycombinator.com/item?id=35667155) - [The Cretaceous-Paleogene extinction event and security practice](https://ioc.exchange/@invisv/110242893952669306)
 * [2023-04-22, 14:37:25](https://news.ycombinator.com/item?id=35666990) - [The Computing Platform Underlying AI [audio]](https://open.spotify.com/episode/2DFD3HU4XlXTlr08M5BnRn)
+* [2023-04-22, 11:16:44](https://news.ycombinator.com/item?id=35665361) - [SETI and Signal Leakage: Where Do Our Transmissions Go?](https://www.centauri-dreams.org/2023/04/21/seti-and-signal-leakage-where-do-our-transmissions-go/)
 * [2023-04-22, 04:21:16](https://news.ycombinator.com/item?id=35663297) - [The Sudan crisis and the Sahel gold rush](https://adamtooze.substack.com/p/chartbook-209-the-sudan-crisis-and)
 * [2023-04-21, 04:51:00](https://news.ycombinator.com/item?id=35649917) - [Dummy Boards: The Fun Figures of the 1600s](https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/)
 
