@@ -83,6 +83,7 @@
 * [2023-04-22, 07:04:32](https://news.ycombinator.com/item?id=35664077) - [FAA grounds SpaceX&#x27;s Starship after launch mishap](https://www.politico.com/news/2023/04/20/spacex-starship-explode-elon-musk-00093042)
 * [2023-04-22, 06:08:02](https://news.ycombinator.com/item?id=35663845) - [Maintain consistent styles for developers working across various editors](https://editorconfig.org/)
 * [2023-04-22, 05:58:53](https://news.ycombinator.com/item?id=35663799) - [Binary was invented to weigh wine a century before Leibniz](https://link.springer.com/article/10.1007/s00283-023-10271-9)
+* [2023-04-22, 05:46:56](https://news.ycombinator.com/item?id=35663727) - [What Are Toys For?](https://www.neh.gov/article/strong-museum-explores-history-play)
 * [2023-04-22, 05:38:39](https://news.ycombinator.com/item?id=35663692) - [Navigating the world when your senses conjure up phenomena others can’t perceive](https://theamericanscholar.org/phantoms/)
 * [2023-04-22, 05:20:39](https://news.ycombinator.com/item?id=35663611) - [Explosions Are Great](https://1517.substack.com/p/explosions-are-great-actually)
 * [2023-04-22, 05:19:48](https://news.ycombinator.com/item?id=35663606) - [What follows from empirical software research?](https://jimmyhmiller.github.io/empirical)
