@@ -24,11 +24,11 @@
 * [2023-04-23, 03:31:17](https://news.ycombinator.com/item?id=35673066) - [WTF is a KDF?](https://blog.dataparty.xyz/blog/wtf-is-a-kdf/)
 * [2023-04-22, 23:51:10](https://news.ycombinator.com/item?id=35671968) - [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
 * [2023-04-22, 22:10:25](https://news.ycombinator.com/item?id=35671367) - [The many ways of converting FP32 to FP16](https://www.corsix.org/content/converting-fp32-to-fp16)
-* [2023-04-22, 20:44:49](https://news.ycombinator.com/item?id=35670752) - [They May Be Just Acquaintances. They’re Important to You Anyway](https://www.nytimes.com/2023/04/22/health/seniors-acquaintances-happiness.html)
 * [2023-04-22, 17:26:05](https://news.ycombinator.com/item?id=35668885) - [A novel ultramicro supercapacitor with ultrahigh charge storage capability](https://techxplore.com/news/2023-03-ultramicro-supercapacitor-ultrahigh-storage-capability.html)
 * [2023-04-22, 15:12:21](https://news.ycombinator.com/item?id=35667366) - [Isotope map of Angola helps trace life histories across African Diaspora](https://news.ucsc.edu/2023/04/angola-isoscape.html)
 * [2023-04-22, 14:54:08](https://news.ycombinator.com/item?id=35667155) - [The Cretaceous-Paleogene extinction event and security practice](https://ioc.exchange/@invisv/110242893952669306)
 * [2023-04-22, 14:37:25](https://news.ycombinator.com/item?id=35666990) - [The Computing Platform Underlying AI [audio]](https://open.spotify.com/episode/2DFD3HU4XlXTlr08M5BnRn)
+* [2023-04-22, 04:21:16](https://news.ycombinator.com/item?id=35663297) - [The Sudan crisis and the Sahel gold rush](https://adamtooze.substack.com/p/chartbook-209-the-sudan-crisis-and)
 * [2023-04-21, 04:51:00](https://news.ycombinator.com/item?id=35649917) - [Dummy Boards: The Fun Figures of the 1600s](https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/)
 
 ## [Archives](archives/index.md)
