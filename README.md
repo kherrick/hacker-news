@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-23, 02:37:13](https://news.ycombinator.com/item?id=35672840) - [The Soviet Legacy: Inside Cuba’s Unfinished Nuclear Power Station](https://www.exutopia.com/cuba-abandoned-unfinished-soviet-nuclear-power-station/)
 * [2023-04-23, 00:59:19](https://news.ycombinator.com/item?id=35672358) - [My ultimate shell setup with Fish shell and Tmux (2021)](https://www.milanvit.net/post/my-ultimate-shell-setup-with-fish-shell-and-tmux/)
 * [2023-04-23, 00:14:55](https://news.ycombinator.com/item?id=35672093) - [Modern Transactional Stack](https://a16z.com/2023/04/14/the-modern-transactional-stack/)
 * [2023-04-22, 23:51:10](https://news.ycombinator.com/item?id=35671968) - [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
@@ -20,7 +21,6 @@
 * [2023-04-22, 15:17:41](https://news.ycombinator.com/item?id=35667429) - [Why the brain’s connections to the body are crisscrossed](https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419/)
 * [2023-04-22, 14:57:56](https://news.ycombinator.com/item?id=35667205) - [ReceptioGate and the (Absolute) State of Academia](https://thecritic.co.uk/receptiogate-and-the-absolute-state-of-academia/)
 * [2023-04-22, 14:29:23](https://news.ycombinator.com/item?id=35666916) - [Indigo: A game engine for functional programmers, in Scala](https://indigoengine.io/)
-* [2023-04-22, 14:18:24](https://news.ycombinator.com/item?id=35666837) - [XINF](https://xinf.dev/)
 * [2023-04-22, 13:50:21](https://news.ycombinator.com/item?id=35666598) - [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
 * [2023-04-22, 12:39:56](https://news.ycombinator.com/item?id=35666025) - [Compromising Garmin Sport Watches: A Deep Dive into GarminOS and Its MonkeyC VM](https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html)
 * [2023-04-22, 10:40:49](https://news.ycombinator.com/item?id=35665142) - [Show HN: I made a SQL game to help people learn &#x2F; challenge their skills](https://lost-at-sql.therobinlord.com/)
