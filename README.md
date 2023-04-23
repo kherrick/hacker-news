@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-23, 07:56:28](https://news.ycombinator.com/item?id=35674272) - [Twitter Blew](https://iam.mt/twitter-blew/)
 * [2023-04-23, 02:37:13](https://news.ycombinator.com/item?id=35672840) - [Cuba’s Unfinished Nuclear Power Station](https://www.exutopia.com/cuba-abandoned-unfinished-soviet-nuclear-power-station/)
 * [2023-04-23, 00:59:19](https://news.ycombinator.com/item?id=35672358) - [My shell setup with Fish and Tmux (2021)](https://www.milanvit.net/post/my-ultimate-shell-setup-with-fish-shell-and-tmux/)
 * [2023-04-23, 00:14:55](https://news.ycombinator.com/item?id=35672093) - [Modern Transactional Stack](https://a16z.com/2023/04/14/the-modern-transactional-stack/)
@@ -18,6 +17,7 @@
 * [2023-04-22, 15:44:54](https://news.ycombinator.com/item?id=35667714) - [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
 * [2023-04-22, 15:38:37](https://news.ycombinator.com/item?id=35667642) - [How did the chess pieces get their names?](https://www.atlasobscura.com/articles/how-did-chess-pieces-get-their-names)
 * [2023-04-22, 15:17:41](https://news.ycombinator.com/item?id=35667429) - [Why the brain’s connections to the body are crisscrossed](https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419/)
+* [2023-04-22, 14:57:56](https://news.ycombinator.com/item?id=35667205) - [ReceptioGate and the (Absolute) State of Academia](https://thecritic.co.uk/receptiogate-and-the-absolute-state-of-academia/)
 * [2023-04-22, 14:29:23](https://news.ycombinator.com/item?id=35666916) - [Indigo: A game engine for functional programmers, in Scala](https://indigoengine.io/)
 * [2023-04-22, 13:50:21](https://news.ycombinator.com/item?id=35666598) - [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
 * [2023-04-22, 12:39:56](https://news.ycombinator.com/item?id=35666025) - [Compromising Garmin Sport Watches: A Deep Dive into GarminOS and Its MonkeyC VM](https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html)
