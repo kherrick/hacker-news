@@ -68,6 +68,7 @@
 * [2023-04-22, 09:23:40](https://news.ycombinator.com/item?id=35664745) - [Writing Portable ARM64 Assembly](https://ariadne.space/2023/04/13/writing-portable-arm64-assembly/)
 * [2023-04-22, 08:55:13](https://news.ycombinator.com/item?id=35664586) - [Animal Meat and Milk Sales Drop in Europe as Vegan Versions Hit Record Highs](https://plantbasednews.org/news/economics/europe-vegan-food-sales-meat-products/)
 * [2023-04-22, 08:37:31](https://news.ycombinator.com/item?id=35664505) - [Purely Functional AVL Trees in Common Lisp](https://two-wrongs.com/purely-functional-avl-trees-in-common-lisp.html)
+* [2023-04-22, 07:41:09](https://news.ycombinator.com/item?id=35664261) - [Champagne is not happy with Miller High Life in Europe](https://www.washingtonpost.com/food/2023/04/21/champagne-miller-high-life-destroyed/)
 * [2023-04-22, 07:36:43](https://news.ycombinator.com/item?id=35664236) - [America Fails the Civilization Test](https://www.theatlantic.com/ideas/archive/2023/04/america-mortality-rate-guns-health/673799/)
 * [2023-04-22, 07:33:13](https://news.ycombinator.com/item?id=35664219) - [Researchers Taught Parrots to Video Call Other Parrots](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 * [2023-04-22, 07:22:14](https://news.ycombinator.com/item?id=35664165) - [Email Yourself from a Google Sheet](https://blog.bettersheets.co/simply-email-yourself-from-a-google-sheet/)
