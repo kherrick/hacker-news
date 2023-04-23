@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 16:43:45](https://news.ycombinator.com/item?id=35677845) - [Google’s smart speakers are finally smart enough to shut up](https://www.theverge.com/2023/4/21/23692794/google-nest-smart-speaker-new-chime-feature)
+* [2023-04-23, 16:36:14](https://news.ycombinator.com/item?id=35677754) - [Ban all gambling adverts, say more than half of Britons](https://www.theguardian.com/society/2023/apr/23/ban-all-gambling-adverts-say-more-than-half-of-britons)
+* [2023-04-23, 16:03:33](https://news.ycombinator.com/item?id=35677390) - [Saudi company draws unlimited Arizona ground water amid drought](https://www.cbsnews.com/news/saudi-company-fondomonte-arizona-ground-water-crop-alfalfa/?ftag=YHF4eb9d17)
 * [2023-04-23, 15:55:01](https://news.ycombinator.com/item?id=35677306) - [Xiaomi 13 Ultra: “Real camera” phone makes Samsung, Apple shake nervously](https://www.phonearena.com/news/xiaomi-13-ultra-android-real-camera-phone-makes-samsung-apple-shake-nervously_id147012)
 * [2023-04-23, 15:35:02](https://news.ycombinator.com/item?id=35677126) - [Pydantic V2 leverages Rust&#x27;s Superpowers [video]](https://fosdem.org/2023/schedule/event/rust_how_pydantic_v2_leverages_rusts_superpowers/)
 * [2023-04-23, 15:13:41](https://news.ycombinator.com/item?id=35676932) - [In pursuit of the best value US cloud provider](https://servicestack.net/posts/hetzner-cloud)
 * [2023-04-23, 15:08:16](https://news.ycombinator.com/item?id=35676878) - [Why steam rises from San Francisco streets](https://secretsanfrancisco.com/steam-streets-sf/)
+* [2023-04-23, 14:56:47](https://news.ycombinator.com/item?id=35676765) - [Borrowers with High Credit Scores Penalized Under New Federal Mortgage Fee Plan](https://reason.com/2023/04/21/borrowers-with-high-credit-scores-penalized-under-new-federal-mortgage-fee-plan/)
 * [2023-04-23, 14:54:53](https://news.ycombinator.com/item?id=35676747) - [The two types of C programmers (a provocative thesis)](https://utcc.utoronto.ca/~cks/space/blog/programming/CProgrammersTwoTypes)
 * [2023-04-23, 14:34:12](https://news.ycombinator.com/item?id=35676572) - [How Postgres Triggers Can Simplify Your Back End Development](https://themythicalengineer.com/how-postgres-triggers-can-simplify-your-backend-development.html)
 * [2023-04-23, 14:33:24](https://news.ycombinator.com/item?id=35676564) - [Lego breaks ground on first US manufacturing facility](https://www.manufacturingdive.com/news/lego-1b-manufacturing-virginia/647946/)
