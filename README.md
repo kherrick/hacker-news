@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-23, 09:22:06](https://news.ycombinator.com/item?id=35674692) - [Bare Metal Vi, Boot into Vi Without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
+* [2023-04-23, 09:11:59](https://news.ycombinator.com/item?id=35674648) - [Are Text Messages the New Social Media? One Startup Thinks So](https://www.nytimes.com/2023/04/22/business/dealbook/text-messages-community.html)
 * [2023-04-23, 08:48:34](https://news.ycombinator.com/item?id=35674549) - [Gold mining and violence in the Amazon rainforest](https://www.youtube.com/watch?v=srck-pW8v34)
 * [2023-04-23, 07:59:23](https://news.ycombinator.com/item?id=35674291) - [Cloudflare launches easy to set up consent manager that respects users](https://blog.cloudflare.com/consent-manager/)
+* [2023-04-23, 07:56:12](https://news.ycombinator.com/item?id=35674270) - [Apocalypse Sow: Can Anything Stop the Feral Hog Invasion?](https://www.texasmonthly.com/travel/texas-feral-hog-problem-swine-country/)
 * [2023-04-23, 07:14:08](https://news.ycombinator.com/item?id=35674077) - [Why you should teach at a Community College](https://timozander.de/blog/why-you-should-teach/)
 * [2023-04-23, 07:10:05](https://news.ycombinator.com/item?id=35674063) - [Ron: Rusty Object Notation](https://github.com/ron-rs/ron)
 * [2023-04-23, 06:44:17](https://news.ycombinator.com/item?id=35673940) - [WikiScroll](https://wikiscroll.blankenship.io/)
@@ -12,9 +14,6 @@
 * [2023-04-23, 00:14:55](https://news.ycombinator.com/item?id=35672093) - [Modern Transactional Stack](https://a16z.com/2023/04/14/the-modern-transactional-stack/)
 * [2023-04-22, 23:51:10](https://news.ycombinator.com/item?id=35671968) - [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
 * [2023-04-22, 22:34:49](https://news.ycombinator.com/item?id=35671526) - [Saturn&#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
-* [2023-04-22, 20:41:24](https://news.ycombinator.com/item?id=35670723) - [How does the New York Times make a game?](https://www.nytimes.com/2023/04/10/crosswords/games-digits-beta.html)
-* [2023-04-22, 20:32:55](https://news.ycombinator.com/item?id=35670646) - [Effective Immediately: A central hub for people who&#x27;ve been recently laid off (2020)](https://github.com/Effective-Immediately/effective-immediately)
-* [2023-04-22, 20:05:39](https://news.ycombinator.com/item?id=35670422) - [System D](https://en.wikipedia.org/wiki/System_D)
 * [2023-04-22, 15:50:10](https://news.ycombinator.com/item?id=35667764) - [Will we run out of ML data? Evidence from projecting dataset size trends (2022)](https://epochai.org/blog/will-we-run-out-of-ml-data-evidence-from-projecting-dataset)
 * [2023-04-22, 15:44:54](https://news.ycombinator.com/item?id=35667714) - [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
 * [2023-04-22, 15:17:41](https://news.ycombinator.com/item?id=35667429) - [Why the brain’s connections to the body are crisscrossed](https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419/)
@@ -29,6 +28,7 @@
 * [2023-04-22, 07:22:14](https://news.ycombinator.com/item?id=35664165) - [Email yourself from a Google Sheet](https://blog.bettersheets.co/simply-email-yourself-from-a-google-sheet/)
 * [2023-04-22, 04:21:16](https://news.ycombinator.com/item?id=35663297) - [The Sudan crisis and the Sahel gold rush](https://adamtooze.substack.com/p/chartbook-209-the-sudan-crisis-and)
 * [2023-04-22, 03:09:21](https://news.ycombinator.com/item?id=35663006) - [Re-live buying a computer in 1995 [video]](https://www.youtube.com/watch?v=DaK__T-zOtA)
+* [2023-04-22, 01:03:55](https://news.ycombinator.com/item?id=35662260) - [How much can Duolingo teach us?](https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us)
 * [2023-04-21, 21:37:15](https://news.ycombinator.com/item?id=35660556) - [Simple Pathtracing (2012)](https://iquilezles.org/articles/simplepathtracing/)
 
 ## [Archives](archives/index.md)

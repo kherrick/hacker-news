@@ -9,6 +9,7 @@
 * [2023-04-23, 08:48:34](https://news.ycombinator.com/item?id=35674549) - [Gold mining and violence in the Amazon rainforest](https://www.youtube.com/watch?v=srck-pW8v34)
 * [2023-04-23, 07:59:23](https://news.ycombinator.com/item?id=35674291) - [Cloudflare launches easy to set up consent manager that respects users](https://blog.cloudflare.com/consent-manager/)
 * [2023-04-23, 07:56:28](https://news.ycombinator.com/item?id=35674272) - [Twitter Blew](https://iam.mt/twitter-blew/)
+* [2023-04-23, 07:56:12](https://news.ycombinator.com/item?id=35674270) - [Apocalypse Sow: Can Anything Stop the Feral Hog Invasion?](https://www.texasmonthly.com/travel/texas-feral-hog-problem-swine-country/)
 * [2023-04-23, 07:14:08](https://news.ycombinator.com/item?id=35674077) - [Why you should teach at a Community College](https://timozander.de/blog/why-you-should-teach/)
 * [2023-04-23, 07:10:05](https://news.ycombinator.com/item?id=35674063) - [Ron: Rusty Object Notation](https://github.com/ron-rs/ron)
 * [2023-04-23, 06:44:17](https://news.ycombinator.com/item?id=35673940) - [WikiScroll](https://wikiscroll.blankenship.io/)
