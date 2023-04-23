@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 22:46:30](https://news.ycombinator.com/item?id=35681471) - [Alt-Right Pipeline](https://en.wikipedia.org/wiki/Alt-right_pipeline)
 * [2023-04-23, 22:33:43](https://news.ycombinator.com/item?id=35681357) - [Godot-dodo – Finetuning LLaMA on single-language comment:code data pairs](https://github.com/minosvasilias/godot-dodo)
+* [2023-04-23, 22:31:43](https://news.ycombinator.com/item?id=35681342) - [Why do studios use Roman numerals in the copyright notice in the end credits?](https://movies.stackexchange.com/questions/10149/why-do-studios-use-roman-numerals-in-the-copyright-notice-in-the-end-credits)
 * [2023-04-23, 21:56:46](https://news.ycombinator.com/item?id=35681079) - [Delaware will become the 22nd state to legalize recreational marijuana](https://delawarebusinesstimes.com/news/delaware-legal-marijuana-23/)
 * [2023-04-23, 21:32:47](https://news.ycombinator.com/item?id=35680869) - [X-Ray-Luminous Supernovae: Threats to Terrestrial Biospheres](https://iopscience.iop.org/article/10.3847/1538-4357/acc728)
 * [2023-04-23, 21:03:23](https://news.ycombinator.com/item?id=35680600) - [ChatGPT creates mostly insecure code, but won&#x27;t tell you unless you ask](https://www.theregister.com/2023/04/21/chatgpt_insecure_code/)
