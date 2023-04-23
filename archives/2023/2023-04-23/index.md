@@ -24,6 +24,7 @@
 * [2023-04-23, 15:50:34](https://news.ycombinator.com/item?id=35677261) - [Intel I219-LM Running at ~60% of Maximum Speed Due to Linux Driver Bug](https://www.phoronix.com/news/Intel-i219-LM-Linux-60p-Fix)
 * [2023-04-23, 15:37:08](https://news.ycombinator.com/item?id=35677148) - [The largest number representable in 64 bits](https://googology.fandom.com/wiki/User_blog:JohnTromp/The_largest_number_representable_in_64_bits)
 * [2023-04-23, 15:35:02](https://news.ycombinator.com/item?id=35677126) - [Pydantic V2 leverages Rust&#x27;s Superpowers [video]](https://fosdem.org/2023/schedule/event/rust_how_pydantic_v2_leverages_rusts_superpowers/)
+* [2023-04-23, 15:30:24](https://news.ycombinator.com/item?id=35677086) - [Bing Jail](https://dariusz.wieckiewicz.org/en/bing-jail/)
 * [2023-04-23, 15:13:41](https://news.ycombinator.com/item?id=35676932) - [In pursuit of the best value US cloud provider](https://servicestack.net/posts/hetzner-cloud)
 * [2023-04-23, 15:08:16](https://news.ycombinator.com/item?id=35676878) - [Why steam rises from San Francisco streets](https://secretsanfrancisco.com/steam-streets-sf/)
 * [2023-04-23, 14:56:47](https://news.ycombinator.com/item?id=35676765) - [Borrowers with High Credit Scores Penalized Under New Federal Mortgage Fee Plan](https://reason.com/2023/04/21/borrowers-with-high-credit-scores-penalized-under-new-federal-mortgage-fee-plan/)
