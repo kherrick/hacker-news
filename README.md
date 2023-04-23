@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-23, 20:40:49](https://news.ycombinator.com/item?id=35680376) - [Leaked deck raises questions over Stability AI’s Series A pitch to investors](https://sifted.eu/articles/stability-ai-fundraise-leak/)
+* [2023-04-23, 20:11:46](https://news.ycombinator.com/item?id=35680029) - [Incognito ChatGPT with no account required](https://anonchatgpt.com)
 * [2023-04-23, 19:59:23](https://news.ycombinator.com/item?id=35679911) - [LSD: Not Even Once](https://www.qword.net/2023/04/23/lsd-not-even-once-really)
 * [2023-04-23, 19:52:56](https://news.ycombinator.com/item?id=35679860) - [Solar on Warehouses](https://environmentamerica.org/center/resources/solar-on-warehouses/)
 * [2023-04-23, 19:05:56](https://news.ycombinator.com/item?id=35679459) - [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
@@ -8,7 +9,6 @@
 * [2023-04-23, 17:38:08](https://news.ycombinator.com/item?id=35678485) - [Closing in on the “perfect code” (2004)](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
 * [2023-04-23, 17:19:48](https://news.ycombinator.com/item?id=35678269) - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 * [2023-04-23, 17:04:07](https://news.ycombinator.com/item?id=35678072) - [AWA&#x27;s Acoustic Hood – Effective Silencing for Office Printers](https://computeradsfromthepast.substack.com/p/awas-acoustic-hood)
-* [2023-04-23, 17:02:08](https://news.ycombinator.com/item?id=35678043) - [My high-flying life as a corporate spy who lied his way to the top](https://narratively.com/my-high-flying-life-as-a-corporate-spy-who-lied-his-way-to-the-top/)
 * [2023-04-23, 17:01:16](https://news.ycombinator.com/item?id=35678032) - [AMD’s 7950X3D: Zen 4 Gets VCache](https://chipsandcheese.com/2023/04/23/amds-7950x3d-zen-4-gets-vcache/)
 * [2023-04-23, 16:47:47](https://news.ycombinator.com/item?id=35677880) - [Longevity study across 5 species found a new pathway to reverse aging](https://singularityhub.com/2023/04/18/this-longevity-study-across-5-species-found-a-new-pathway-to-reverse-aging/)
 * [2023-04-23, 16:40:56](https://news.ycombinator.com/item?id=35677813) - [The dark side of the Mac App Store](https://privacyis1st.medium.com/the-dark-side-of-the-mac-app-store-how-scam-apps-and-shady-developers-are-preying-on-users-b28062642e6)
@@ -27,7 +27,7 @@
 * [2023-04-23, 11:57:34](https://news.ycombinator.com/item?id=35675484) - [Libreboot 20230423](https://libreboot.org/news/libreboot20230423.html)
 * [2023-04-23, 10:29:22](https://news.ycombinator.com/item?id=35675029) - [Show HN: I was frustrated with pricing of PagerDuty et al., so made one myself](https://allquiet.app)
 * [2023-04-22, 22:10:25](https://news.ycombinator.com/item?id=35671367) - [The many ways of converting FP32 to FP16](https://www.corsix.org/content/converting-fp32-to-fp16)
-* [2023-04-22, 17:26:05](https://news.ycombinator.com/item?id=35668885) - [A novel ultramicro supercapacitor with ultrahigh charge storage capability](https://techxplore.com/news/2023-03-ultramicro-supercapacitor-ultrahigh-storage-capability.html)
+* [2023-04-21, 21:06:26](https://news.ycombinator.com/item?id=35660155) - [Giovanni Battista Piranesi: The Perpetual Provocateur](https://www.nybooks.com/articles/2023/05/11/the-perpetual-provocateur-giovanni-battista-piranesi/)
 * [2023-04-21, 21:01:59](https://news.ycombinator.com/item?id=35660090) - [Stone Age Animal Urine Could Solve a Mystery about Technological Development](https://www.scientificamerican.com/article/stone-age-animal-urine-could-solve-a-mystery-about-technological-development/)
 * [2023-04-21, 04:52:19](https://news.ycombinator.com/item?id=35649926) - [The eccentric pioneers of vegetable electricity](https://www.bbc.com/future/article/20230419-the-eccentric-pioneers-of-vegetable-electricity)
 

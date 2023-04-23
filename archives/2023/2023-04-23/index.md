@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
 * [2023-04-23, 20:40:49](https://news.ycombinator.com/item?id=35680376) - [Leaked deck raises questions over Stability AI’s Series A pitch to investors](https://sifted.eu/articles/stability-ai-fundraise-leak/)
+* [2023-04-23, 20:11:46](https://news.ycombinator.com/item?id=35680029) - [Incognito ChatGPT with no account required](https://anonchatgpt.com)
 * [2023-04-23, 19:59:23](https://news.ycombinator.com/item?id=35679911) - [LSD: Not Even Once. Really.](https://www.qword.net/2023/04/23/lsd-not-even-once-really)
 * [2023-04-23, 19:52:56](https://news.ycombinator.com/item?id=35679860) - [Solar on Warehouses](https://environmentamerica.org/center/resources/solar-on-warehouses/)
 * [2023-04-23, 19:47:32](https://news.ycombinator.com/item?id=35679814) - [Twitter Enhancement Suite – BlockTheBlue](https://chrome.google.com/webstore/detail/twitter-enhancement-suite/chaiionjpmjklbbngmpdnbfcmkgoicle)
