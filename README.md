@@ -3,7 +3,6 @@
 * [2023-04-23, 19:59:23](https://news.ycombinator.com/item?id=35679911) - [LSD: Not Even Once. Really.](https://www.qword.net/2023/04/23/lsd-not-even-once-really)
 * [2023-04-23, 19:52:56](https://news.ycombinator.com/item?id=35679860) - [Solar on Warehouses](https://environmentamerica.org/center/resources/solar-on-warehouses/)
 * [2023-04-23, 19:05:56](https://news.ycombinator.com/item?id=35679459) - [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
-* [2023-04-23, 18:56:51](https://news.ycombinator.com/item?id=35679372) - [YouTube, the Jewel of the Internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
 * [2023-04-23, 17:38:08](https://news.ycombinator.com/item?id=35678485) - [Closing in on the “Perfect Code”](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
 * [2023-04-23, 17:19:48](https://news.ycombinator.com/item?id=35678269) - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 * [2023-04-23, 17:18:33](https://news.ycombinator.com/item?id=35678254) - [I’m ready to trade in my electric car](https://www.latimes.com/opinion/story/2023-04-23/commentary-its-not-easy-being-a-green-motorist-in-california)
@@ -30,6 +29,7 @@
 * [2023-04-22, 17:26:05](https://news.ycombinator.com/item?id=35668885) - [A novel ultramicro supercapacitor with ultrahigh charge storage capability](https://techxplore.com/news/2023-03-ultramicro-supercapacitor-ultrahigh-storage-capability.html)
 * [2023-04-21, 21:01:59](https://news.ycombinator.com/item?id=35660090) - [Stone Age Animal Urine Could Solve a Mystery about Technological Development](https://www.scientificamerican.com/article/stone-age-animal-urine-could-solve-a-mystery-about-technological-development/)
 * [2023-04-21, 04:52:19](https://news.ycombinator.com/item?id=35649926) - [The eccentric pioneers of vegetable electricity](https://www.bbc.com/future/article/20230419-the-eccentric-pioneers-of-vegetable-electricity)
+* [2023-04-21, 04:51:00](https://news.ycombinator.com/item?id=35649917) - [Dummy Boards: The Fun Figures of the 1600s](https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/)
 
 ## [Archives](archives/index.md)
 
