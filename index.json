@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-04-23, 14:34:12",
+      "https://news.ycombinator.com/item?id=35676572"
+    ],
+    [
+      "How Postgres Triggers Can Simplify Your Back End Development",
+      "https://themythicalengineer.com/how-postgres-triggers-can-simplify-your-backend-development.html"
+    ]
+  ],
+  [
+    [
       "2023-04-23, 14:31:40",
       "https://news.ycombinator.com/item?id=35676546"
     ],
     [
       "Paper Mario PC ports beckon as coder completes decompilation of the N64 classic",
       "https://www.pcgamer.com/paper-mario-pc-ports-beckon-as-coder-completes-full-decompilation-of-the-n64-classic/"
+    ]
+  ],
+  [
+    [
+      "2023-04-23, 14:06:46",
+      "https://news.ycombinator.com/item?id=35676338"
+    ],
+    [
+      "A Giant Telescope Grows in Chile",
+      "https://www.nytimes.com/2023/04/18/science/astronomy-telescopes-magellan-chile.html"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "How to better organize your time as a new engineering manager",
       "https://leaddev.com/personal-development/how-better-organize-your-time-new-engineering-manager"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 13:21:39",
-      "https://news.ycombinator.com/item?id=35676003"
-    ],
-    [
-      "University Student Creates Jacket with Sensors for the Blind",
-      "https://www.ntv.co.ug/ug/news/national/university-student-creates-jacket-with-sensors-for-the-blind-4209462"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-04-23, 06:44:17",
-      "https://news.ycombinator.com/item?id=35673940"
-    ],
-    [
-      "WikiScroll",
-      "https://wikiscroll.blankenship.io/"
-    ]
-  ],
-  [
-    [
       "2023-04-23, 03:31:17",
       "https://news.ycombinator.com/item?id=35673066"
     ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-04-22, 22:10:25",
+      "https://news.ycombinator.com/item?id=35671367"
+    ],
+    [
+      "The many ways of converting FP32 to FP16",
+      "https://www.corsix.org/content/converting-fp32-to-fp16"
+    ]
+  ],
+  [
+    [
       "2023-04-22, 15:12:21",
       "https://news.ycombinator.com/item?id=35667366"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2023-04-22, 12:39:56",
-      "https://news.ycombinator.com/item?id=35666025"
-    ],
-    [
-      "Compromising Garmin Sport Watches: A Deep Dive into GarminOS and Its MonkeyC VM",
-      "https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html"
-    ]
-  ],
-  [
-    [
       "2023-04-22, 11:16:44",
       "https://news.ycombinator.com/item?id=35665361"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2023-04-22, 07:22:14",
-      "https://news.ycombinator.com/item?id=35664165"
-    ],
-    [
-      "Email yourself from a Google Sheet",
-      "https://blog.bettersheets.co/simply-email-yourself-from-a-google-sheet/"
-    ]
-  ],
-  [
-    [
       "2023-04-22, 04:21:16",
       "https://news.ycombinator.com/item?id=35663297"
     ],
@@ -297,6 +287,16 @@
     [
       "Re-live buying a computer in 1995 [video]",
       "https://www.youtube.com/watch?v=DaK__T-zOtA"
+    ]
+  ],
+  [
+    [
+      "2023-04-21, 04:51:00",
+      "https://news.ycombinator.com/item?id=35649917"
+    ],
+    [
+      "Dummy Boards: The Fun Figures of the 1600s",
+      "https://daily.jstor.org/dummy-boards-the-fun-figures-of-the-1600s/"
     ]
   ]
 ]
