@@ -79,6 +79,7 @@
 * [2023-04-22, 05:38:39](https://news.ycombinator.com/item?id=35663692) - [Navigating the world when your senses conjure up phenomena others can’t perceive](https://theamericanscholar.org/phantoms/)
 * [2023-04-22, 05:20:39](https://news.ycombinator.com/item?id=35663611) - [Explosions Are Great](https://1517.substack.com/p/explosions-are-great-actually)
 * [2023-04-22, 05:19:48](https://news.ycombinator.com/item?id=35663606) - [What follows from empirical software research?](https://jimmyhmiller.github.io/empirical)
+* [2023-04-22, 04:21:16](https://news.ycombinator.com/item?id=35663297) - [The Sudan crisis and the Sahel gold rush](https://adamtooze.substack.com/p/chartbook-209-the-sudan-crisis-and)
 * [2023-04-22, 04:04:33](https://news.ycombinator.com/item?id=35663250) - [The streaming era turned music into sludge](https://www.wired.com/story/plaintext-how-the-streaming-era-turned-music-into-sludge/)
 * [2023-04-22, 04:01:01](https://news.ycombinator.com/item?id=35663234) - [Mass Editing Memory in a Transformer](https://quuxplusone.github.io/blog/feed.xml)
 * [2023-04-22, 03:54:53](https://news.ycombinator.com/item?id=35663203) - [Singapore to execute human by hanging for 1kg of cannabis](https://www.taipeitimes.com/News/front/archives/2023/04/22/2003798402)
