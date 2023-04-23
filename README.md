@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-23, 07:14:08](https://news.ycombinator.com/item?id=35674077) - [Why you should teach at a Community College](https://timozander.de/blog/why-you-should-teach/)
 * [2023-04-23, 07:10:05](https://news.ycombinator.com/item?id=35674063) - [Ron: Rusty Object Notation](https://github.com/ron-rs/ron)
 * [2023-04-23, 03:31:17](https://news.ycombinator.com/item?id=35673066) - [WTF is a KDF? A startling revelation from a French prison](https://blog.dataparty.xyz/blog/wtf-is-a-kdf/)
 * [2023-04-23, 02:37:13](https://news.ycombinator.com/item?id=35672840) - [Cuba’s Unfinished Nuclear Power Station](https://www.exutopia.com/cuba-abandoned-unfinished-soviet-nuclear-power-station/)
 * [2023-04-23, 00:59:19](https://news.ycombinator.com/item?id=35672358) - [My shell setup with Fish and Tmux (2021)](https://www.milanvit.net/post/my-ultimate-shell-setup-with-fish-shell-and-tmux/)
 * [2023-04-22, 23:51:10](https://news.ycombinator.com/item?id=35671968) - [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
 * [2023-04-22, 22:34:49](https://news.ycombinator.com/item?id=35671526) - [Saturn&#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
-* [2023-04-22, 20:41:24](https://news.ycombinator.com/item?id=35670723) - [How does the New York Times make a game?](https://www.nytimes.com/2023/04/10/crosswords/games-digits-beta.html)
 * [2023-04-22, 20:05:39](https://news.ycombinator.com/item?id=35670422) - [System D](https://en.wikipedia.org/wiki/System_D)
 * [2023-04-22, 19:52:42](https://news.ycombinator.com/item?id=35670325) - [I just learned about HTML redirects (2020)](https://apitman.com/18/#html-redirects)
 * [2023-04-22, 17:48:28](https://news.ycombinator.com/item?id=35669131) - [First ROM Shadowing](https://www.os2museum.com/wp/first-rom-shadowing/)
