@@ -11,6 +11,7 @@
 * [2023-04-24, 10:24:14](https://news.ycombinator.com/item?id=35685721) - [LVMH becomes the first European company to surpass $500B in market value](https://www.cnbc.com/2023/04/24/lvmh-becomes-the-first-european-company-surpass-500-billion-in-value.html)
 * [2023-04-24, 10:18:47](https://news.ycombinator.com/item?id=35685679) - [Amazon’s quiet open source revolution](https://www.infoworld.com/article/3694090/amazon-s-quiet-open-source-revolution.html)
 * [2023-04-24, 10:13:19](https://news.ycombinator.com/item?id=35685635) - [Deleting System32\\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
+* [2023-04-24, 10:08:34](https://news.ycombinator.com/item?id=35685604) - [Open source smartwatch integrates ESP32 MCU with e-paper display](https://linuxgizmos.com/open-source-smartwatch-integrates-esp32-mcu/)
 * [2023-04-24, 09:58:43](https://news.ycombinator.com/item?id=35685560) - [Tesla tries to get owners to give up ‘unlimited free Supercharging for life’](https://electrek.co/2023/04/24/tesla-triesowners-give-up-unlimited-free-supercharging-for-life/)
 * [2023-04-24, 09:51:53](https://news.ycombinator.com/item?id=35685518) - [The Geomagnetic Storm Continues](https://www.swpc.noaa.gov/news/geomagnetic-storm-continues)
 * [2023-04-24, 08:06:23](https://news.ycombinator.com/item?id=35684874) - [Keep the Monolith, but Split the Workloads](https://incident.io/blog/monolith)
