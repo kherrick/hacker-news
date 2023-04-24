@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-24, 16:40:25](https://news.ycombinator.com/item?id=35689919) - [Fox News Parts Ways with Tucker Carlson](https://www.nytimes.com/2023/04/24/business/media/tucker-carlson-fox-news.html)
+* [2023-04-24, 16:37:53](https://news.ycombinator.com/item?id=35689885) - [Orchestration isn’t going anywhere](https://stkbailey.substack.com/p/orchestration-isnt-going-anywhere)
+* [2023-04-24, 16:24:57](https://news.ycombinator.com/item?id=35689706) - [A WiFi color eInk picture frame](https://spritesmods.com/?art=wifipicframe&f=rss)
 * [2023-04-24, 16:18:03](https://news.ycombinator.com/item?id=35689596) - [Snapchat sees spike in 1-star reviews due to ‘My AI’, calling for its removal](https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/)
 * [2023-04-24, 16:05:05](https://news.ycombinator.com/item?id=35689381) - [The A.I. business influencer guys must be stopped](https://maxread.substack.com/p/the-ai-business-influencer-guys-must)
 * [2023-04-24, 15:41:55](https://news.ycombinator.com/item?id=35689044) - [Statement on EU-US Cooperation on Turning Public Opinion Against Encryption](https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/)
@@ -10,7 +11,6 @@
 * [2023-04-24, 14:48:16](https://news.ycombinator.com/item?id=35688320) - [QEMU 8.0](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
 * [2023-04-24, 14:41:48](https://news.ycombinator.com/item?id=35688233) - [Quantum Physics Falls Apart Without Imaginary Numbers](https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/)
 * [2023-04-24, 14:05:32](https://news.ycombinator.com/item?id=35687831) - [Seeing Triple (Annotated)](https://esawebb.org/images/potm2302b/)
-* [2023-04-24, 14:04:31](https://news.ycombinator.com/item?id=35687813) - [Our Sun Was Born in a Stellar Family Far, Far from Here](https://www.scientificamerican.com/article/our-sun-was-born-in-a-stellar-family-far-far-from-here/)
 * [2023-04-24, 14:00:18](https://news.ycombinator.com/item?id=35687752) - [My remaining 13M minutes: Productivity, ambition, being realistic in older age](https://www.theguardian.com/science/2023/apr/22/my-remaining-13-million-minutes-productivity-ambition-and-being-realistic-in-older-age)
 * [2023-04-24, 13:55:06](https://news.ycombinator.com/item?id=35687687) - [Red Hat cutting hundreds of jobs, CEO says in letter to employees](https://wraltechwire.com/2023/04/24/red-hat-cutting-hundreds-of-jobs-ceo-says-in-letter-to-employees/)
 * [2023-04-24, 13:19:01](https://news.ycombinator.com/item?id=35687292) - [Improbably Right](https://mlajtos.mu/posts/improbably-right)
