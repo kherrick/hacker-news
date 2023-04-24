@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 16:40:25](https://news.ycombinator.com/item?id=35689919) - [Fox News Parts Ways with Tucker Carlson](https://www.nytimes.com/2023/04/24/business/media/tucker-carlson-fox-news.html)
+* [2023-04-24, 16:18:03](https://news.ycombinator.com/item?id=35689596) - [Snapchat sees spike in 1-star reviews due to ‘My AI’, calling for its removal](https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/)
 * [2023-04-24, 16:05:05](https://news.ycombinator.com/item?id=35689381) - [The A.I. business influencer guys must be stopped](https://maxread.substack.com/p/the-ai-business-influencer-guys-must)
 * [2023-04-24, 15:41:55](https://news.ycombinator.com/item?id=35689044) - [Statement on EU-US Cooperation on Turning Public Opinion Against Encryption](https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/)
 * [2023-04-24, 15:38:38](https://news.ycombinator.com/item?id=35689000) - [Fox News Media and Tucker Carlson have agreed to part ways](https://press.foxnews.com/2023/04/fox-news-media-and-tucker-carlson-part-ways)

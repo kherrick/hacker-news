@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-24, 16:40:25](https://news.ycombinator.com/item?id=35689919) - [Fox News Parts Ways with Tucker Carlson](https://www.nytimes.com/2023/04/24/business/media/tucker-carlson-fox-news.html)
+* [2023-04-24, 16:18:03](https://news.ycombinator.com/item?id=35689596) - [Snapchat sees spike in 1-star reviews due to ‘My AI’, calling for its removal](https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/)
 * [2023-04-24, 16:05:05](https://news.ycombinator.com/item?id=35689381) - [The A.I. business influencer guys must be stopped](https://maxread.substack.com/p/the-ai-business-influencer-guys-must)
 * [2023-04-24, 15:41:55](https://news.ycombinator.com/item?id=35689044) - [Statement on EU-US Cooperation on Turning Public Opinion Against Encryption](https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/)
 * [2023-04-24, 15:32:51](https://news.ycombinator.com/item?id=35688910) - [I built a special PCIe card to test GPUs on the Pi](https://www.jeffgeerling.com/blog/2023/i-built-special-pcie-card-test-gpus-on-pi)
@@ -13,7 +15,6 @@
 * [2023-04-24, 13:55:06](https://news.ycombinator.com/item?id=35687687) - [Red Hat cutting hundreds of jobs, CEO says in letter to employees](https://wraltechwire.com/2023/04/24/red-hat-cutting-hundreds-of-jobs-ceo-says-in-letter-to-employees/)
 * [2023-04-24, 13:19:01](https://news.ycombinator.com/item?id=35687292) - [Improbably Right](https://mlajtos.mu/posts/improbably-right)
 * [2023-04-24, 13:04:07](https://news.ycombinator.com/item?id=35687157) - [Bullet Train – Rails-based SaaS framework](https://bullettrain.co/)
-* [2023-04-24, 11:52:22](https://news.ycombinator.com/item?id=35686450) - [UK Threatens End-to-End Encryption](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
 * [2023-04-24, 11:16:24](https://news.ycombinator.com/item?id=35686121) - [Remote Work Brings Hidden Penalty for Young Professionals, Study Says](https://www.nytimes.com/2023/04/24/business/remote-work-feedback.html)
 * [2023-04-24, 10:08:34](https://news.ycombinator.com/item?id=35685604) - [Open source smartwatch integrates ESP32 MCU with e-paper display](https://linuxgizmos.com/open-source-smartwatch-integrates-esp32-mcu/)
 * [2023-04-24, 09:51:53](https://news.ycombinator.com/item?id=35685518) - [The Geomagnetic Storm Continues](https://www.swpc.noaa.gov/news/geomagnetic-storm-continues)
@@ -28,7 +29,6 @@
 * [2023-04-24, 01:26:35](https://news.ycombinator.com/item?id=35682655) - [The Origin of “Baum’s Loop” (2020)](https://link.springer.com/article/10.1007/s00276-020-02587-4)
 * [2023-04-23, 22:49:13](https://news.ycombinator.com/item?id=35681498) - [Peruvian archaeologists unearth 500-year-old Inca ceremonial bath](https://www.reuters.com/lifestyle/peruvian-archaeologists-unearth-500-year-old-inca-ceremonial-bath-2023-04-14/)
 * [2023-04-23, 22:46:09](https://news.ycombinator.com/item?id=35681466) - [Topological Deep Learning: A Survey on Topological Neural Networks](https://arxiv.org/abs/2304.10031)
-* [2023-04-23, 20:20:26](https://news.ycombinator.com/item?id=35680129) - [How Allan Gurganus Became a Writer](https://www.newyorker.com/culture/the-new-yorker-interview/how-allan-gurganus-became-a-writer)
 * [2023-04-23, 15:47:56](https://news.ycombinator.com/item?id=35677236) - [Darke Files is a version control and file synchronization system](https://darke.handmade.network)
 
 ## [Archives](archives/index.md)
