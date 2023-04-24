@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-04-24, 15:38:38",
-      "https://news.ycombinator.com/item?id=35689000"
-    ],
-    [
-      "Fox News Media and Tucker Carlson have agreed to part ways",
-      "https://press.foxnews.com/2023/04/fox-news-media-and-tucker-carlson-part-ways"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 15:31:05",
       "https://news.ycombinator.com/item?id=35688878"
     ],
@@ -195,18 +185,18 @@
       "https://news.ycombinator.com/item?id=35684807"
     ],
     [
-      "No, I don’t want to sign up for your newsletter (2018)",
+      "I don’t want to sign up for your newsletter (2018)",
       "https://www.katsnyderux.com/post/no-i-don-t-want-to-sign-up-for-your-newsletter-horrible-uses-of-exit-overlays"
     ]
   ],
   [
     [
-      "2023-04-24, 06:37:24",
-      "https://news.ycombinator.com/item?id=35684335"
+      "2023-04-24, 06:55:23",
+      "https://news.ycombinator.com/item?id=35684432"
     ],
     [
-      "Programming on Unix and automatic memory management",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement"
+      "Windows 11’s taskbar is finally getting labels and never combine app icons",
+      "https://www.theverge.com/2023/4/20/23690960/microsoft-windows-11-taskbar-never-combine-app-icons-labels-features"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Scaling Transformer to 1M tokens and beyond with RMT",
       "https://arxiv.org/abs/2304.11062"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 00:40:47",
+      "https://news.ycombinator.com/item?id=35682331"
+    ],
+    [
+      "RISC on a Chip: David Patterson and Berkeley RISC-I",
+      "https://thechipletter.substack.com/p/risc-on-a-chip-david-patterson-and"
     ]
   ],
   [
