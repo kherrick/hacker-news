@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-24, 20:34:07](https://news.ycombinator.com/item?id=35692829) - [Gorillaz turn the world into a stage with augmented reality](https://blog.google/products/google-ar-vr/gorillaz-maps-music-video/)
+* [2023-04-24, 20:31:35](https://news.ycombinator.com/item?id=35692790) - [Google Reader Revenue Manager](https://readerrevenue.withgoogle.com/)
 * [2023-04-24, 20:08:52](https://news.ycombinator.com/item?id=35692476) - [OpenAI has applied for “GPT” trademark with USPTO](https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4802:jtelqq.2.16)
 * [2023-04-24, 19:49:12](https://news.ycombinator.com/item?id=35692242) - [Digital Addiction: Focusing on the Cure, Not the Disease](https://louison.substack.com/p/digital-addiction-focusing-on-the)
 * [2023-04-24, 19:15:33](https://news.ycombinator.com/item?id=35691854) - [Harvard: The Effects of Noise on Health](https://hms.harvard.edu/magazine/viral-world/effects-noise-health)
@@ -19,9 +21,7 @@
 * [2023-04-24, 16:24:57](https://news.ycombinator.com/item?id=35689706) - [A WiFi color eInk picture frame](https://spritesmods.com/?art=wifipicframe&f=rss)
 * [2023-04-24, 15:41:55](https://news.ycombinator.com/item?id=35689044) - [Statement on EU-US Cooperation on Turning Public Opinion Against Encryption](https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/)
 * [2023-04-24, 14:05:32](https://news.ycombinator.com/item?id=35687831) - [Seeing Triple (Annotated)](https://esawebb.org/images/potm2302b/)
-* [2023-04-24, 13:19:01](https://news.ycombinator.com/item?id=35687292) - [Improbably Right](https://mlajtos.mu/posts/improbably-right)
 * [2023-04-24, 13:04:07](https://news.ycombinator.com/item?id=35687157) - [Bullet Train – Rails-based SaaS framework](https://bullettrain.co/)
-* [2023-04-24, 11:56:39](https://news.ycombinator.com/item?id=35686490) - [iPhone 15 Ultra camera upgrades could give photographers a serious dilemma](https://www.techradar.com/news/iphone-15-ultra-camera-upgrades-could-give-photographers-a-serious-dilemma)
 * [2023-04-24, 11:16:24](https://news.ycombinator.com/item?id=35686121) - [Remote work brings hidden penalty for young professionals, study says](https://www.nytimes.com/2023/04/24/business/remote-work-feedback.html)
 * [2023-04-24, 09:51:53](https://news.ycombinator.com/item?id=35685518) - [The Geomagnetic Storm Continues](https://www.swpc.noaa.gov/news/geomagnetic-storm-continues)
 * [2023-04-24, 07:58:03](https://news.ycombinator.com/item?id=35684828) - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)

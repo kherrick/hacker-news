@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 20:34:07](https://news.ycombinator.com/item?id=35692829) - [Gorillaz turn the world into a stage with augmented reality](https://blog.google/products/google-ar-vr/gorillaz-maps-music-video/)
+* [2023-04-24, 20:31:35](https://news.ycombinator.com/item?id=35692790) - [Google Reader Revenue Manager](https://readerrevenue.withgoogle.com/)
 * [2023-04-24, 20:08:52](https://news.ycombinator.com/item?id=35692476) - [OpenAI has applied for “GPT” trademark with USPTO](https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4802:jtelqq.2.16)
 * [2023-04-24, 19:49:12](https://news.ycombinator.com/item?id=35692242) - [Digital Addiction: Focusing on the Cure, Not the Disease](https://louison.substack.com/p/digital-addiction-focusing-on-the)
 * [2023-04-24, 19:15:33](https://news.ycombinator.com/item?id=35691854) - [Harvard: The Effects of Noise on Health](https://hms.harvard.edu/magazine/viral-world/effects-noise-health)
