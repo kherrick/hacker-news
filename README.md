@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-24, 11:04:01](https://news.ycombinator.com/item?id=35686023) - [Why People Aren&#x27;t Deploying to Vercel Anymore](https://www.youtube.com/watch?v=JiuBeLDSGR0)
 * [2023-04-24, 10:41:20](https://news.ycombinator.com/item?id=35685854) - [Philips sets €575M. aside for respirator lawsuits](https://nltimes.nl/2023/04/24/philips-sets-eu575-mil-aside-respirator-lawsuits-suffered-eu583-mil-loss-q1)
 * [2023-04-24, 10:31:57](https://news.ycombinator.com/item?id=35685790) - [Biggest companies in the world by market value 2022](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-capitalization/)
 * [2023-04-24, 10:24:14](https://news.ycombinator.com/item?id=35685721) - [LVMH becomes the first European company to surpass $500B in market value](https://www.cnbc.com/2023/04/24/lvmh-becomes-the-first-european-company-surpass-500-billion-in-value.html)
@@ -23,6 +22,7 @@
 * [2023-04-23, 23:29:03](https://news.ycombinator.com/item?id=35681810) - [West Coast Trail – The 75km&#x2F;48 mile hike in Vancouver Island](https://www.dquach.com/2021/08/01/west-coast-trail-the-75km-48-mile-death-hike/)
 * [2023-04-23, 23:17:27](https://news.ycombinator.com/item?id=35681725) - [Z Garbage Collector: The Next Generation](https://inside.java/2023/04/23/levelup-zgc/)
 * [2023-04-23, 22:31:43](https://news.ycombinator.com/item?id=35681342) - [Why do studios use Roman numerals in the copyright notice in the end credits?](https://movies.stackexchange.com/questions/10149/why-do-studios-use-roman-numerals-in-the-copyright-notice-in-the-end-credits)
+* [2023-04-23, 22:28:26](https://news.ycombinator.com/item?id=35681322) - [Some mistakes I made as a new manager](https://www.benkuhn.net/newmgr/)
 * [2023-04-23, 20:57:42](https://news.ycombinator.com/item?id=35680542) - [That won&#x27;t scale: Present cost vs. future value](https://codesolo.substack.com/p/that-wont-scale-or-present-cost-vs)
 * [2023-04-23, 19:05:56](https://news.ycombinator.com/item?id=35679459) - [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
 * [2023-04-23, 18:56:51](https://news.ycombinator.com/item?id=35679372) - [YouTube, the jewel of the internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
