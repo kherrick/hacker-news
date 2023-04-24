@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-24, 17:01:09",
+      "https://news.ycombinator.com/item?id=35690256"
+    ],
+    [
+      "Tesorio Is Hiring Senior Back End Engineer, Senior DevOps and Head of Data Science",
+      "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 16:37:53",
       "https://news.ycombinator.com/item?id=35689885"
     ],
@@ -57,16 +67,6 @@
     [
       "I built a special PCIe card to test GPUs on the Pi",
       "https://www.jeffgeerling.com/blog/2023/i-built-special-pcie-card-test-gpus-on-pi"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 15:31:05",
-      "https://news.ycombinator.com/item?id=35688878"
-    ],
-    [
-      "I use Nix and make(1) to develop",
-      "https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2023-04-24, 03:49:13",
+      "https://news.ycombinator.com/item?id=35683465"
+    ],
+    [
+      "The Banality of Floods (and Droughts)",
+      "https://californiawaterblog.com/2023/04/22/the-banality-of-floods-and-droughts/"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 02:10:28",
       "https://news.ycombinator.com/item?id=35682918"
     ],
     [
       "Inferno-OS: distributed operating system where everything is a file",
       "https://github.com/inferno-os/inferno-os"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 01:26:35",
-      "https://news.ycombinator.com/item?id=35682655"
-    ],
-    [
-      "The Origin of “Baum’s Loop” (2020)",
-      "https://link.springer.com/article/10.1007/s00276-020-02587-4"
     ]
   ],
   [
