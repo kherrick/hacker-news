@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-24, 02:10:28](https://news.ycombinator.com/item?id=35682918) - [Inferno-OS: distributed operating system where everything is a file, with 9P](https://github.com/inferno-os/inferno-os)
 * [2023-04-24, 00:54:00](https://news.ycombinator.com/item?id=35682424) - [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)
 * [2023-04-24, 00:40:47](https://news.ycombinator.com/item?id=35682331) - [RISC on a Chip: David Patterson and Berkeley RISC-I](https://thechipletter.substack.com/p/risc-on-a-chip-david-patterson-and)
 * [2023-04-23, 23:48:17](https://news.ycombinator.com/item?id=35681950) - [ChatGPT4 writes Stan code so I don’t have to](https://statmodeling.stat.columbia.edu/2023/04/18/chatgpt4-writes-stan-code-so-i-dont-have-to/)
@@ -29,7 +30,6 @@
 * [2023-04-22, 17:25:02](https://news.ycombinator.com/item?id=35668879) - [Moths are more efficient pollinators than bees: new research](https://phys.org/news/2023-03-moths-efficient-pollinators-bees.html)
 * [2023-04-22, 00:17:34](https://news.ycombinator.com/item?id=35661961) - [Mathematician uncovers way to shrink sampling errors in large-dimensional data](https://phys.org/news/2023-03-mathematician-uncovers-methods-sampling-errors.html)
 * [2023-04-21, 21:06:26](https://news.ycombinator.com/item?id=35660155) - [Giovanni Battista Piranesi: The Perpetual Provocateur](https://www.nybooks.com/articles/2023/05/11/the-perpetual-provocateur-giovanni-battista-piranesi/)
-* [2023-04-21, 21:01:59](https://news.ycombinator.com/item?id=35660090) - [Stone age animal urine could solve a mystery about technological development](https://www.scientificamerican.com/article/stone-age-animal-urine-could-solve-a-mystery-about-technological-development/)
 
 ## [Archives](archives/index.md)
 
