@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 17:31:10](https://news.ycombinator.com/item?id=35690656) - [Haiku&#x27;s (Kernel) Condition Variables API: Design and Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
+* [2023-04-24, 17:27:54](https://news.ycombinator.com/item?id=35690613) - [My Search for the Origins of Clothing](https://www.sapiens.org/archaeology/paleolithic-clothing-origins/)
 * [2023-04-24, 17:27:40](https://news.ycombinator.com/item?id=35690610) - [The Interstellar Style of Sun Ra (2016)](https://pitchfork.com/features/from-the-pitchfork-review/9866-the-interstellar-style-of-sun-ra/)
+* [2023-04-24, 17:13:27](https://news.ycombinator.com/item?id=35690421) - [The Great Electrician Shortage](https://www.newyorker.com/news/dept-of-energy/the-great-electrician-shortage)
 * [2023-04-24, 17:01:09](https://news.ycombinator.com/item?id=35690256) - [Tesorio Is Hiring Senior Back End Engineer, Senior DevOps and Head of Data Science](https://www.tesorio.com/careers#job-openings)
 * [2023-04-24, 16:40:25](https://news.ycombinator.com/item?id=35689919) - [Fox News Parts Ways with Tucker Carlson](https://www.nytimes.com/2023/04/24/business/media/tucker-carlson-fox-news.html)
 * [2023-04-24, 16:37:53](https://news.ycombinator.com/item?id=35689885) - [Orchestration isn’t going anywhere](https://stkbailey.substack.com/p/orchestration-isnt-going-anywhere)
