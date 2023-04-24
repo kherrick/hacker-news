@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 23:48:17](https://news.ycombinator.com/item?id=35681950) - [ChatGPT4 writes Stan code so I don’t have to](https://statmodeling.stat.columbia.edu/2023/04/18/chatgpt4-writes-stan-code-so-i-dont-have-to/)
 * [2023-04-23, 23:30:45](https://news.ycombinator.com/item?id=35681824) - [Bilingualism Affords No General Cognitive Advantages: A Study of 11,000 People](https://journals.sagepub.com/doi/10.1177/0956797620903113)
 * [2023-04-23, 23:29:03](https://news.ycombinator.com/item?id=35681810) - [West Coast Trail – The 75km&#x2F;48 mile hike in Vancouver Island](https://www.dquach.com/2021/08/01/west-coast-trail-the-75km-48-mile-death-hike/)
 * [2023-04-23, 23:03:30](https://news.ycombinator.com/item?id=35681607) - [Roblox intentionally blocking Linux with Wine in their new update](https://www.gamingonlinux.com/2023/04/roblox-intentionally-blocking-linux-with-wine-in-their-new-update/)
@@ -32,6 +33,7 @@
 * [2023-04-23, 17:20:27](https://news.ycombinator.com/item?id=35678278) - [I Have a Dirty Secret. I’m a Software Craftsman](https://levelup.gitconnected.com/i-have-a-dirty-secret-im-a-software-craftsman-bc160e9e6b5c?gi=6f8b52e00112)
 * [2023-04-23, 17:19:48](https://news.ycombinator.com/item?id=35678269) - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 * [2023-04-23, 17:18:33](https://news.ycombinator.com/item?id=35678254) - [I’m ready to trade in my electric car. Here’s why](https://www.latimes.com/opinion/story/2023-04-23/commentary-its-not-easy-being-a-green-motorist-in-california)
+* [2023-04-23, 17:16:51](https://news.ycombinator.com/item?id=35678238) - [Rye: Flask author&#x27;s new project for Python bootstrapping](https://github.com/mitsuhiko/rye)
 * [2023-04-23, 17:04:07](https://news.ycombinator.com/item?id=35678072) - [AWA&#x27;s Acoustic Hood – Effective Silencing for Office Printers](https://computeradsfromthepast.substack.com/p/awas-acoustic-hood)
 * [2023-04-23, 17:02:08](https://news.ycombinator.com/item?id=35678043) - [My High-Flying Life as a Corporate Spy Who Lied His Way to the Top](https://narratively.com/my-high-flying-life-as-a-corporate-spy-who-lied-his-way-to-the-top/)
 * [2023-04-23, 17:01:16](https://news.ycombinator.com/item?id=35678032) - [AMD’s 7950X3D: Zen 4 Gets VCache](https://chipsandcheese.com/2023/04/23/amds-7950x3d-zen-4-gets-vcache/)
