@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 10:41:20](https://news.ycombinator.com/item?id=35685854) - [Philips sets €575M. aside for respirator lawsuits](https://nltimes.nl/2023/04/24/philips-sets-eu575-mil-aside-respirator-lawsuits-suffered-eu583-mil-loss-q1)
+* [2023-04-24, 10:31:57](https://news.ycombinator.com/item?id=35685790) - [Biggest companies in the world by market value 2022](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-capitalization/)
+* [2023-04-24, 10:24:14](https://news.ycombinator.com/item?id=35685721) - [LVMH becomes the first European company to surpass $500B in market value](https://www.cnbc.com/2023/04/24/lvmh-becomes-the-first-european-company-surpass-500-billion-in-value.html)
 * [2023-04-24, 10:13:19](https://news.ycombinator.com/item?id=35685635) - [Deleting System32\\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
 * [2023-04-24, 09:58:43](https://news.ycombinator.com/item?id=35685560) - [Tesla tries to get owners to give up ‘unlimited free Supercharging for life’](https://electrek.co/2023/04/24/tesla-triesowners-give-up-unlimited-free-supercharging-for-life/)
 * [2023-04-24, 09:51:53](https://news.ycombinator.com/item?id=35685518) - [The Geomagnetic Storm Continues](https://www.swpc.noaa.gov/news/geomagnetic-storm-continues)
