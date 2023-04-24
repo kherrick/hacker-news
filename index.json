@@ -1,11 +1,41 @@
 [
   [
     [
+      "2023-04-24, 00:54:00",
+      "https://news.ycombinator.com/item?id=35682424"
+    ],
+    [
+      "Scaling Transformer to 1M tokens and beyond with RMT",
+      "https://arxiv.org/abs/2304.11062"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 00:40:47",
+      "https://news.ycombinator.com/item?id=35682331"
+    ],
+    [
+      "RISC on a Chip: David Patterson and Berkeley RISC-I",
+      "https://thechipletter.substack.com/p/risc-on-a-chip-david-patterson-and"
+    ]
+  ],
+  [
+    [
+      "2023-04-23, 23:48:17",
+      "https://news.ycombinator.com/item?id=35681950"
+    ],
+    [
+      "ChatGPT4 writes Stan code so I don’t have to",
+      "https://statmodeling.stat.columbia.edu/2023/04/18/chatgpt4-writes-stan-code-so-i-dont-have-to/"
+    ]
+  ],
+  [
+    [
       "2023-04-23, 23:30:45",
       "https://news.ycombinator.com/item?id=35681824"
     ],
     [
-      "Bilingualism Affords No General Cognitive Advantages: Study",
+      "Bilingualism affords no general cognitive advantages: Study",
       "https://journals.sagepub.com/doi/10.1177/0956797620903113"
     ]
   ],
@@ -27,16 +57,6 @@
     [
       "Roblox intentionally blocking Linux with Wine in their new update",
       "https://www.gamingonlinux.com/2023/04/roblox-intentionally-blocking-linux-with-wine-in-their-new-update/"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 22:55:51",
-      "https://news.ycombinator.com/item?id=35681551"
-    ],
-    [
-      "A fireside chat on education, technology, and almost everything in between",
-      "https://www.gatesnotes.com/ASU-and-GSV"
     ]
   ],
   [
@@ -131,22 +151,12 @@
   ],
   [
     [
-      "2023-04-23, 17:04:07",
-      "https://news.ycombinator.com/item?id=35678072"
+      "2023-04-23, 17:16:51",
+      "https://news.ycombinator.com/item?id=35678238"
     ],
     [
-      "AWA&#x27;s Acoustic Hood – Effective Silencing for Office Printers",
-      "https://computeradsfromthepast.substack.com/p/awas-acoustic-hood"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 16:47:47",
-      "https://news.ycombinator.com/item?id=35677880"
-    ],
-    [
-      "Longevity study across 5 species found a new pathway to reverse aging",
-      "https://singularityhub.com/2023/04/18/this-longevity-study-across-5-species-found-a-new-pathway-to-reverse-aging/"
+      "Rye: Flask author&#x27;s new project for Python bootstrapping",
+      "https://github.com/mitsuhiko/rye"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-04-23, 13:03:30",
-      "https://news.ycombinator.com/item?id=35675887"
-    ],
-    [
-      "Run Linux Programs on DOS",
-      "https://github.com/haileys/doslinux"
-    ]
-  ],
-  [
-    [
       "2023-04-23, 12:50:59",
       "https://news.ycombinator.com/item?id=35675818"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=35660090"
     ],
     [
-      "Stone Age Animal Urine Could Solve a Mystery about Technological Development",
+      "Stone age animal urine could solve a mystery about technological development",
       "https://www.scientificamerican.com/article/stone-age-animal-urine-could-solve-a-mystery-about-technological-development/"
     ]
   ]
