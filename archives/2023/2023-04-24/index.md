@@ -16,6 +16,7 @@
 * [2023-04-24, 17:13:27](https://news.ycombinator.com/item?id=35690421) - [The Great Electrician Shortage](https://www.newyorker.com/news/dept-of-energy/the-great-electrician-shortage)
 * [2023-04-24, 17:11:24](https://news.ycombinator.com/item?id=35690398) - [Google Authenticator now supports Google Account synchronization](https://security.googleblog.com/2023/04/google-authenticator-now-supports.html)
 * [2023-04-24, 17:01:09](https://news.ycombinator.com/item?id=35690256) - [Tesorio Is Hiring Senior Back End Engineer, Senior DevOps and Head of Data Science](https://www.tesorio.com/careers#job-openings)
+* [2023-04-24, 16:44:30](https://news.ycombinator.com/item?id=35689989) - [Why I&#x27;m not worried about AI causing mass unemployment](https://www.understandingai.org/p/software-didnt-eat-the-world)
 * [2023-04-24, 16:40:25](https://news.ycombinator.com/item?id=35689919) - [Fox News Parts Ways with Tucker Carlson](https://www.nytimes.com/2023/04/24/business/media/tucker-carlson-fox-news.html)
 * [2023-04-24, 16:37:53](https://news.ycombinator.com/item?id=35689885) - [Orchestration isn’t going anywhere](https://stkbailey.substack.com/p/orchestration-isnt-going-anywhere)
 * [2023-04-24, 16:24:57](https://news.ycombinator.com/item?id=35689706) - [A WiFi color eInk picture frame](https://spritesmods.com/?art=wifipicframe&f=rss)
