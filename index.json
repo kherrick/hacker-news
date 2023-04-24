@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=35684232"
     ],
     [
-      "An Introduction to Lockless Algorithms",
+      "An introduction to lockless algorithms (2021)",
       "https://lwn.net/Articles/844224/"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35682918"
     ],
     [
-      "Inferno-OS: distributed operating system where everything is a file, with 9P",
+      "Inferno-OS: distributed operating system where everything is a file",
       "https://github.com/inferno-os/inferno-os"
     ]
   ],
@@ -101,22 +101,22 @@
   ],
   [
     [
-      "2023-04-23, 23:03:30",
-      "https://news.ycombinator.com/item?id=35681607"
-    ],
-    [
-      "Roblox intentionally blocking Linux with Wine in their new update",
-      "https://www.gamingonlinux.com/2023/04/roblox-intentionally-blocking-linux-with-wine-in-their-new-update/"
-    ]
-  ],
-  [
-    [
       "2023-04-23, 22:33:43",
       "https://news.ycombinator.com/item?id=35681357"
     ],
     [
       "Godot-dodo – Finetuning LLaMA on single-language comment:code data pairs",
       "https://github.com/minosvasilias/godot-dodo"
+    ]
+  ],
+  [
+    [
+      "2023-04-23, 22:31:43",
+      "https://news.ycombinator.com/item?id=35681342"
+    ],
+    [
+      "Why do studios use Roman numerals in the copyright notice in the end credits?",
+      "https://movies.stackexchange.com/questions/10149/why-do-studios-use-roman-numerals-in-the-copyright-notice-in-the-end-credits"
     ]
   ],
   [
@@ -211,6 +211,26 @@
   ],
   [
     [
+      "2023-04-23, 17:04:07",
+      "https://news.ycombinator.com/item?id=35678072"
+    ],
+    [
+      "AWA&#x27;s Acoustic Hood – Effective Silencing for Office Printers",
+      "https://computeradsfromthepast.substack.com/p/awas-acoustic-hood"
+    ]
+  ],
+  [
+    [
+      "2023-04-23, 16:47:47",
+      "https://news.ycombinator.com/item?id=35677880"
+    ],
+    [
+      "Longevity study across 5 species found a new pathway to reverse aging",
+      "https://singularityhub.com/2023/04/18/this-longevity-study-across-5-species-found-a-new-pathway-to-reverse-aging/"
+    ]
+  ],
+  [
+    [
       "2023-04-23, 16:40:56",
       "https://news.ycombinator.com/item?id=35677813"
     ],
@@ -241,36 +261,6 @@
   ],
   [
     [
-      "2023-04-23, 15:50:34",
-      "https://news.ycombinator.com/item?id=35677261"
-    ],
-    [
-      "Intel I219-LM Running at ~60% of Maximum Speed Due to Linux Driver Bug",
-      "https://www.phoronix.com/news/Intel-i219-LM-Linux-60p-Fix"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 15:35:02",
-      "https://news.ycombinator.com/item?id=35677126"
-    ],
-    [
-      "Pydantic V2 leverages Rust&#x27;s Superpowers [video]",
-      "https://fosdem.org/2023/schedule/event/rust_how_pydantic_v2_leverages_rusts_superpowers/"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 15:30:24",
-      "https://news.ycombinator.com/item?id=35677086"
-    ],
-    [
-      "Bing Jail",
-      "https://dariusz.wieckiewicz.org/en/bing-jail/"
-    ]
-  ],
-  [
-    [
       "2023-04-23, 14:33:24",
       "https://news.ycombinator.com/item?id=35676564"
     ],
@@ -297,6 +287,16 @@
     [
       "Mathematician uncovers way to shrink sampling errors in large-dimensional data",
       "https://phys.org/news/2023-03-mathematician-uncovers-methods-sampling-errors.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-21, 21:01:59",
+      "https://news.ycombinator.com/item?id=35660090"
+    ],
+    [
+      "Stone age animal urine could solve a mystery about technological development",
+      "https://www.scientificamerican.com/article/stone-age-animal-urine-could-solve-a-mystery-about-technological-development/"
     ]
   ]
 ]
