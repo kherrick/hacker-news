@@ -10,6 +10,7 @@
 * [2023-04-23, 23:17:27](https://news.ycombinator.com/item?id=35681725) - [Z Garbage Collector: The Next Generation](https://inside.java/2023/04/23/levelup-zgc/)
 * [2023-04-23, 23:03:30](https://news.ycombinator.com/item?id=35681607) - [Roblox intentionally blocking Linux with Wine in their new update](https://www.gamingonlinux.com/2023/04/roblox-intentionally-blocking-linux-with-wine-in-their-new-update/)
 * [2023-04-23, 22:55:51](https://news.ycombinator.com/item?id=35681551) - [A fireside chat on education, technology, and almost everything in between](https://www.gatesnotes.com/ASU-and-GSV)
+* [2023-04-23, 22:49:13](https://news.ycombinator.com/item?id=35681498) - [Peruvian archaeologists unearth 500-year-old Inca ceremonial bath](https://www.reuters.com/lifestyle/peruvian-archaeologists-unearth-500-year-old-inca-ceremonial-bath-2023-04-14/)
 * [2023-04-23, 22:46:30](https://news.ycombinator.com/item?id=35681471) - [Alt-Right Pipeline](https://en.wikipedia.org/wiki/Alt-right_pipeline)
 * [2023-04-23, 22:33:43](https://news.ycombinator.com/item?id=35681357) - [Godot-dodo – Finetuning LLaMA on single-language comment:code data pairs](https://github.com/minosvasilias/godot-dodo)
 * [2023-04-23, 22:31:43](https://news.ycombinator.com/item?id=35681342) - [Why do studios use Roman numerals in the copyright notice in the end credits?](https://movies.stackexchange.com/questions/10149/why-do-studios-use-roman-numerals-in-the-copyright-notice-in-the-end-credits)

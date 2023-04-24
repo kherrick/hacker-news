@@ -2,7 +2,6 @@
 
 * [2023-04-24, 10:41:20](https://news.ycombinator.com/item?id=35685854) - [Philips sets €575M. aside for respirator lawsuits](https://nltimes.nl/2023/04/24/philips-sets-eu575-mil-aside-respirator-lawsuits-suffered-eu583-mil-loss-q1)
 * [2023-04-24, 10:31:57](https://news.ycombinator.com/item?id=35685790) - [Biggest companies in the world by market value 2022](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-capitalization/)
-* [2023-04-24, 10:24:14](https://news.ycombinator.com/item?id=35685721) - [LVMH becomes the first European company to surpass $500B in market value](https://www.cnbc.com/2023/04/24/lvmh-becomes-the-first-european-company-surpass-500-billion-in-value.html)
 * [2023-04-24, 10:18:47](https://news.ycombinator.com/item?id=35685679) - [Amazon’s quiet open source revolution](https://www.infoworld.com/article/3694090/amazon-s-quiet-open-source-revolution.html)
 * [2023-04-24, 10:13:19](https://news.ycombinator.com/item?id=35685635) - [Deleting System32\\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
 * [2023-04-24, 10:08:34](https://news.ycombinator.com/item?id=35685604) - [Open source smartwatch integrates ESP32 MCU with e-paper display](https://linuxgizmos.com/open-source-smartwatch-integrates-esp32-mcu/)
@@ -22,6 +21,7 @@
 * [2023-04-23, 23:30:45](https://news.ycombinator.com/item?id=35681824) - [Bilingualism affords no general cognitive advantages: Study](https://journals.sagepub.com/doi/10.1177/0956797620903113)
 * [2023-04-23, 23:29:03](https://news.ycombinator.com/item?id=35681810) - [West Coast Trail – The 75km&#x2F;48 mile hike in Vancouver Island](https://www.dquach.com/2021/08/01/west-coast-trail-the-75km-48-mile-death-hike/)
 * [2023-04-23, 23:17:27](https://news.ycombinator.com/item?id=35681725) - [Z Garbage Collector: The Next Generation](https://inside.java/2023/04/23/levelup-zgc/)
+* [2023-04-23, 22:49:13](https://news.ycombinator.com/item?id=35681498) - [Peruvian archaeologists unearth 500-year-old Inca ceremonial bath](https://www.reuters.com/lifestyle/peruvian-archaeologists-unearth-500-year-old-inca-ceremonial-bath-2023-04-14/)
 * [2023-04-23, 22:31:43](https://news.ycombinator.com/item?id=35681342) - [Why do studios use Roman numerals in the copyright notice in the end credits?](https://movies.stackexchange.com/questions/10149/why-do-studios-use-roman-numerals-in-the-copyright-notice-in-the-end-credits)
 * [2023-04-23, 20:57:42](https://news.ycombinator.com/item?id=35680542) - [That won&#x27;t scale: Present cost vs. future value](https://codesolo.substack.com/p/that-wont-scale-or-present-cost-vs)
 * [2023-04-23, 19:05:56](https://news.ycombinator.com/item?id=35679459) - [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
