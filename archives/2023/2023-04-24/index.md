@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 17:51:07](https://news.ycombinator.com/item?id=35690856) - [Neuromorphic learning, working memory, and metaplasticity in nanowire networks](https://www.science.org/doi/10.1126/sciadv.adg3289)
+* [2023-04-24, 17:51:01](https://news.ycombinator.com/item?id=35690853) - [Egypt builds worlds largest man-made river](https://www.constructionweekonline.com/business/egypt-builds-worlds-largest-114km-man-made-river)
 * [2023-04-24, 17:44:42](https://news.ycombinator.com/item?id=35690778) - [Technology of water in ancient Iran from prehistory to the Islamic Golden Age](https://www.nature.com/articles/s41599-023-01617-x)
+* [2023-04-24, 17:31:36](https://news.ycombinator.com/item?id=35690659) - [Nostr (“Notes and Other Stuff Transmitted by Relays.”) – An Introduction](https://wiki.wellorder.net/post/nostr-intro/)
 * [2023-04-24, 17:31:10](https://news.ycombinator.com/item?id=35690656) - [Haiku&#x27;s (Kernel) Condition Variables API: Design and Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
 * [2023-04-24, 17:27:54](https://news.ycombinator.com/item?id=35690613) - [My Search for the Origins of Clothing](https://www.sapiens.org/archaeology/paleolithic-clothing-origins/)
 * [2023-04-24, 17:27:40](https://news.ycombinator.com/item?id=35690610) - [The Interstellar Style of Sun Ra (2016)](https://pitchfork.com/features/from-the-pitchfork-review/9866-the-interstellar-style-of-sun-ra/)
 * [2023-04-24, 17:13:27](https://news.ycombinator.com/item?id=35690421) - [The Great Electrician Shortage](https://www.newyorker.com/news/dept-of-energy/the-great-electrician-shortage)
+* [2023-04-24, 17:11:24](https://news.ycombinator.com/item?id=35690398) - [Google Authenticator now supports Google Account synchronization](https://security.googleblog.com/2023/04/google-authenticator-now-supports.html)
 * [2023-04-24, 17:01:09](https://news.ycombinator.com/item?id=35690256) - [Tesorio Is Hiring Senior Back End Engineer, Senior DevOps and Head of Data Science](https://www.tesorio.com/careers#job-openings)
 * [2023-04-24, 16:40:25](https://news.ycombinator.com/item?id=35689919) - [Fox News Parts Ways with Tucker Carlson](https://www.nytimes.com/2023/04/24/business/media/tucker-carlson-fox-news.html)
 * [2023-04-24, 16:37:53](https://news.ycombinator.com/item?id=35689885) - [Orchestration isn’t going anywhere](https://stkbailey.substack.com/p/orchestration-isnt-going-anywhere)
@@ -44,6 +48,7 @@
 * [2023-04-24, 09:51:53](https://news.ycombinator.com/item?id=35685518) - [The Geomagnetic Storm Continues](https://www.swpc.noaa.gov/news/geomagnetic-storm-continues)
 * [2023-04-24, 08:06:23](https://news.ycombinator.com/item?id=35684874) - [Keep the Monolith, but Split the Workloads](https://incident.io/blog/monolith)
 * [2023-04-24, 08:03:02](https://news.ycombinator.com/item?id=35684859) - [The i.MX8 cannot be deblobbed (when using HDMI)](https://www.devever.net/~hl/imx8)
+* [2023-04-24, 08:03:00](https://news.ycombinator.com/item?id=35684858) - [Notes on the Hardkernel Odroid-XU3 Single-Board Computer](https://doc.nstr.no/odroid-xu3.htm)
 * [2023-04-24, 07:58:03](https://news.ycombinator.com/item?id=35684828) - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
 * [2023-04-24, 07:54:20](https://news.ycombinator.com/item?id=35684807) - [No, I don’t want to sign up for your newsletter](https://www.katsnyderux.com/post/no-i-don-t-want-to-sign-up-for-your-newsletter-horrible-uses-of-exit-overlays)
 * [2023-04-24, 07:23:28](https://news.ycombinator.com/item?id=35684599) - [What’s the Point of Tech Conferences?](https://chelseatroy.com/2023/04/21/whats-the-point-of-tech-conferences/)
