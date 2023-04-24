@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-24, 21:17:09](https://news.ycombinator.com/item?id=35693393) - [Ask HN: What&#x27;s with the culture of suppression of dissenting views?](https://news.ycombinator.com/item?id=35693393)
 * [2023-04-24, 21:09:57](https://news.ycombinator.com/item?id=35693306) - [The Palo Alto Research Center (PARC) Will Join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
 * [2023-04-24, 21:01:10](https://news.ycombinator.com/item?id=35693229) - [Lancey (YC S22) is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
 * [2023-04-24, 20:56:06](https://news.ycombinator.com/item?id=35693160) - [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
@@ -26,6 +25,7 @@
 * [2023-04-24, 14:46:59](https://news.ycombinator.com/item?id=35688300) - [Derek Parfit: The Perfectionist at All Souls](https://www.newstatesman.com/culture/books/2023/04/derek-parfit-perfectionist-philosophy-intellectual-oxford)
 * [2023-04-24, 14:05:32](https://news.ycombinator.com/item?id=35687831) - [Seeing Triple (Annotated)](https://esawebb.org/images/potm2302b/)
 * [2023-04-24, 13:04:07](https://news.ycombinator.com/item?id=35687157) - [Bullet Train – Rails-based SaaS framework](https://bullettrain.co/)
+* [2023-04-24, 11:16:24](https://news.ycombinator.com/item?id=35686121) - [Remote work brings hidden penalty for young professionals, study says](https://www.nytimes.com/2023/04/24/business/remote-work-feedback.html)
 * [2023-04-24, 07:58:03](https://news.ycombinator.com/item?id=35684828) - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
 * [2023-04-24, 07:20:29](https://news.ycombinator.com/item?id=35684585) - [Second IC – Homemade 1000 transistor array chip (2021)](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-24, 07:17:35](https://news.ycombinator.com/item?id=35684564) - [After the Lawn](https://www.kcet.org/home-garden/after-the-lawn-part-i)
