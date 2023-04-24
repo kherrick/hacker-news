@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-04-24, 17:51:07",
+      "https://news.ycombinator.com/item?id=35690856"
+    ],
+    [
+      "Neuromorphic learning, working memory, and metaplasticity in nanowire networks",
+      "https://www.science.org/doi/10.1126/sciadv.adg3289"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 17:51:01",
+      "https://news.ycombinator.com/item?id=35690853"
+    ],
+    [
+      "Egypt builds worlds largest man-made river",
+      "https://www.constructionweekonline.com/business/egypt-builds-worlds-largest-114km-man-made-river"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 17:44:42",
       "https://news.ycombinator.com/item?id=35690778"
     ],
     [
       "Technology of water in ancient Iran from prehistory to the Islamic Golden Age",
       "https://www.nature.com/articles/s41599-023-01617-x"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 17:31:36",
+      "https://news.ycombinator.com/item?id=35690659"
+    ],
+    [
+      "Nostr (“Notes and Other Stuff Transmitted by Relays.”) – An Introduction",
+      "https://wiki.wellorder.net/post/nostr-intro/"
     ]
   ],
   [
@@ -51,6 +81,16 @@
   ],
   [
     [
+      "2023-04-24, 17:11:24",
+      "https://news.ycombinator.com/item?id=35690398"
+    ],
+    [
+      "Google Authenticator now supports Google Account synchronization",
+      "https://security.googleblog.com/2023/04/google-authenticator-now-supports.html"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 17:01:09",
       "https://news.ycombinator.com/item?id=35690256"
     ],
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2023-04-24, 16:18:03",
-      "https://news.ycombinator.com/item?id=35689596"
-    ],
-    [
-      "Snapchat sees spike in 1-star reviews as users pan the ‘My AI’ feature",
-      "https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 15:41:55",
       "https://news.ycombinator.com/item?id=35689044"
     ],
@@ -117,16 +147,6 @@
     [
       "I use Nix and make(1) to develop",
       "https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 15:17:07",
-      "https://news.ycombinator.com/item?id=35688687"
-    ],
-    [
-      "European Parliament calls for ban on facial recognition",
-      "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/"
     ]
   ],
   [
@@ -201,22 +221,22 @@
   ],
   [
     [
-      "2023-04-24, 10:08:34",
-      "https://news.ycombinator.com/item?id=35685604"
-    ],
-    [
-      "Open source smartwatch integrates ESP32 MCU with e-paper display",
-      "https://linuxgizmos.com/open-source-smartwatch-integrates-esp32-mcu/"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 09:51:53",
       "https://news.ycombinator.com/item?id=35685518"
     ],
     [
       "The Geomagnetic Storm Continues",
       "https://www.swpc.noaa.gov/news/geomagnetic-storm-continues"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 08:03:00",
+      "https://news.ycombinator.com/item?id=35684858"
+    ],
+    [
+      "Notes on the Hardkernel Odroid-XU3 Single-Board Computer",
+      "https://doc.nstr.no/odroid-xu3.htm"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-04-24, 06:13:30",
-      "https://news.ycombinator.com/item?id=35684232"
-    ],
-    [
-      "An introduction to lockless algorithms (2021)",
-      "https://lwn.net/Articles/844224/"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 03:49:13",
       "https://news.ycombinator.com/item?id=35683465"
     ],
@@ -267,16 +277,6 @@
     [
       "Topological Deep Learning: A Survey on Topological Neural Networks",
       "https://arxiv.org/abs/2304.10031"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 19:52:56",
-      "https://news.ycombinator.com/item?id=35679860"
-    ],
-    [
-      "Solar on Warehouses",
-      "https://environmentamerica.org/center/resources/solar-on-warehouses/"
     ]
   ],
   [
