@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-24, 18:24:35](https://news.ycombinator.com/item?id=35691243) - [&#x27;Delete Act&#x27; seeks to give Californians more power to block data tracking](https://www.kqed.org/news/11947039/delete-act-seeks-to-give-californians-more-power-to-block-data-tracking)
 * [2023-04-24, 17:51:07](https://news.ycombinator.com/item?id=35690856) - [Neuromorphic learning, working memory, and metaplasticity in nanowire networks](https://www.science.org/doi/10.1126/sciadv.adg3289)
 * [2023-04-24, 17:51:01](https://news.ycombinator.com/item?id=35690853) - [Egypt builds worlds largest man-made river](https://www.constructionweekonline.com/business/egypt-builds-worlds-largest-114km-man-made-river)
 * [2023-04-24, 17:44:42](https://news.ycombinator.com/item?id=35690778) - [Technology of water in ancient Iran from prehistory to the Islamic Golden Age](https://www.nature.com/articles/s41599-023-01617-x)
@@ -22,7 +23,6 @@
 * [2023-04-24, 13:04:07](https://news.ycombinator.com/item?id=35687157) - [Bullet Train – Rails-based SaaS framework](https://bullettrain.co/)
 * [2023-04-24, 11:16:24](https://news.ycombinator.com/item?id=35686121) - [Remote work brings hidden penalty for young professionals, study says](https://www.nytimes.com/2023/04/24/business/remote-work-feedback.html)
 * [2023-04-24, 09:51:53](https://news.ycombinator.com/item?id=35685518) - [The Geomagnetic Storm Continues](https://www.swpc.noaa.gov/news/geomagnetic-storm-continues)
-* [2023-04-24, 08:03:00](https://news.ycombinator.com/item?id=35684858) - [Notes on the Hardkernel Odroid-XU3 Single-Board Computer](https://doc.nstr.no/odroid-xu3.htm)
 * [2023-04-24, 07:58:03](https://news.ycombinator.com/item?id=35684828) - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
 * [2023-04-24, 07:20:29](https://news.ycombinator.com/item?id=35684585) - [Second IC – Homemade 1000 transistor array chip (2021)](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-24, 06:13:30](https://news.ycombinator.com/item?id=35684232) - [An introduction to lockless algorithms (2021)](https://lwn.net/Articles/844224/)
