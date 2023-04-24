@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 21:17:09](https://news.ycombinator.com/item?id=35693393) - [Ask HN: What&#x27;s with the culture of suppression of dissenting views?](https://news.ycombinator.com/item?id=35693393)
 * [2023-04-24, 21:09:57](https://news.ycombinator.com/item?id=35693306) - [The Palo Alto Research Center (PARC) Will Join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
 * [2023-04-24, 21:01:10](https://news.ycombinator.com/item?id=35693229) - [Lancey (YC S22) is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
 * [2023-04-24, 20:56:06](https://news.ycombinator.com/item?id=35693160) - [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect)

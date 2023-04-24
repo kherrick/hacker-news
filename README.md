@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-24, 21:17:09](https://news.ycombinator.com/item?id=35693393) - [Ask HN: What&#x27;s with the culture of suppression of dissenting views?](https://news.ycombinator.com/item?id=35693393)
 * [2023-04-24, 21:09:57](https://news.ycombinator.com/item?id=35693306) - [The Palo Alto Research Center (PARC) Will Join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
 * [2023-04-24, 21:01:10](https://news.ycombinator.com/item?id=35693229) - [Lancey (YC S22) is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
 * [2023-04-24, 20:56:06](https://news.ycombinator.com/item?id=35693160) - [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
@@ -7,7 +8,6 @@
 * [2023-04-24, 20:08:52](https://news.ycombinator.com/item?id=35692476) - [OpenAI has applied for “GPT” trademark with USPTO](https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4802:jtelqq.2.16)
 * [2023-04-24, 19:49:12](https://news.ycombinator.com/item?id=35692242) - [Digital Addiction: Focusing on the Cure, Not the Disease](https://louison.substack.com/p/digital-addiction-focusing-on-the)
 * [2023-04-24, 19:15:33](https://news.ycombinator.com/item?id=35691854) - [The Effects of Noise on Health (2022)](https://hms.harvard.edu/magazine/viral-world/effects-noise-health)
-* [2023-04-24, 19:10:25](https://news.ycombinator.com/item?id=35691803) - [Show HN: Featurevisor – Git based feature flags and experiments management](https://featurevisor.com/)
 * [2023-04-24, 18:54:18](https://news.ycombinator.com/item?id=35691597) - [Fedora 38 LLVM vs. Team Fortress 2](https://airlied.blogspot.com/2023/04/fedora-38-llvm-vs-team-fortress-2-tf2.html)
 * [2023-04-24, 18:36:32](https://news.ycombinator.com/item?id=35691383) - [1Password to Add Telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
 * [2023-04-24, 18:24:35](https://news.ycombinator.com/item?id=35691243) - [&#x27;Delete Act&#x27; seeks to give Californians more power to block data tracking](https://www.kqed.org/news/11947039/delete-act-seeks-to-give-californians-more-power-to-block-data-tracking)
