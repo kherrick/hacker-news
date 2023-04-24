@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 17:01:09](https://news.ycombinator.com/item?id=35690256) - [Tesorio Is Hiring Senior Back End Engineer, Senior DevOps and Head of Data Science](https://www.tesorio.com/careers#job-openings)
 * [2023-04-24, 16:40:25](https://news.ycombinator.com/item?id=35689919) - [Fox News Parts Ways with Tucker Carlson](https://www.nytimes.com/2023/04/24/business/media/tucker-carlson-fox-news.html)
 * [2023-04-24, 16:37:53](https://news.ycombinator.com/item?id=35689885) - [Orchestration isn’t going anywhere](https://stkbailey.substack.com/p/orchestration-isnt-going-anywhere)
 * [2023-04-24, 16:24:57](https://news.ycombinator.com/item?id=35689706) - [A WiFi color eInk picture frame](https://spritesmods.com/?art=wifipicframe&f=rss)
@@ -45,6 +46,7 @@
 * [2023-04-24, 06:37:24](https://news.ycombinator.com/item?id=35684335) - [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)
 * [2023-04-24, 06:13:30](https://news.ycombinator.com/item?id=35684232) - [An Introduction to Lockless Algorithms](https://lwn.net/Articles/844224/)
 * [2023-04-24, 05:54:37](https://news.ycombinator.com/item?id=35684125) - [As an AI Language Model](https://twitter.com/d_feldman/status/1649466422018318338)
+* [2023-04-24, 03:49:13](https://news.ycombinator.com/item?id=35683465) - [The Banality of Floods (and Droughts)](https://californiawaterblog.com/2023/04/22/the-banality-of-floods-and-droughts/)
 * [2023-04-24, 03:29:43](https://news.ycombinator.com/item?id=35683360) - [Squawk bots: Can generative AI lead us to understanding animals?](https://cloud.google.com/blog/transform/can-generative-ai-help-humans-understand-animals-earth-species-project-conservation)
 * [2023-04-24, 03:10:00](https://news.ycombinator.com/item?id=35683254) - [DuckDuckGo removed the ability to filter search results](https://github.com/duckduckgo/duckduckgo-help-pages/commit/d35d03e532c7618bcdd2be10ea67e9e1f021dd96)
 * [2023-04-24, 02:54:07](https://news.ycombinator.com/item?id=35683172) - [Analysis shows California EDD fraud at $32.6B and counting](https://www.kcra.com/article/analysis-edd-fraud-326-billion-and-counting/41281662)
