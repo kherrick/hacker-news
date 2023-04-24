@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-24, 11:52:22](https://news.ycombinator.com/item?id=35686450) - [UK Threatens End-to-End Encryption](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
-* [2023-04-24, 11:16:24](https://news.ycombinator.com/item?id=35686121) - [Remote Work Brings Hidden Penalty for Young Professionals, Study Says](https://www.nytimes.com/2023/04/24/business/remote-work-feedback.html)
 * [2023-04-24, 10:41:20](https://news.ycombinator.com/item?id=35685854) - [Philips sets €575M. aside for respirator lawsuits](https://nltimes.nl/2023/04/24/philips-sets-eu575-mil-aside-respirator-lawsuits-suffered-eu583-mil-loss-q1)
 * [2023-04-24, 10:18:47](https://news.ycombinator.com/item?id=35685679) - [Amazon’s quiet open source revolution](https://www.infoworld.com/article/3694090/amazon-s-quiet-open-source-revolution.html)
 * [2023-04-24, 10:13:19](https://news.ycombinator.com/item?id=35685635) - [Deleting System32\\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
@@ -23,6 +22,7 @@
 * [2023-04-23, 23:17:27](https://news.ycombinator.com/item?id=35681725) - [Z Garbage Collector: The Next Generation](https://inside.java/2023/04/23/levelup-zgc/)
 * [2023-04-23, 22:49:13](https://news.ycombinator.com/item?id=35681498) - [Peruvian archaeologists unearth 500-year-old Inca ceremonial bath](https://www.reuters.com/lifestyle/peruvian-archaeologists-unearth-500-year-old-inca-ceremonial-bath-2023-04-14/)
 * [2023-04-23, 22:46:09](https://news.ycombinator.com/item?id=35681466) - [Topological Deep Learning: A Survey on Topological Neural Networks](https://arxiv.org/abs/2304.10031)
+* [2023-04-23, 22:33:43](https://news.ycombinator.com/item?id=35681357) - [Godot-dodo – Finetuning LLaMA on single-language comment:code data pairs](https://github.com/minosvasilias/godot-dodo)
 * [2023-04-23, 22:31:43](https://news.ycombinator.com/item?id=35681342) - [Why do studios use Roman numerals in the copyright notice in the end credits?](https://movies.stackexchange.com/questions/10149/why-do-studios-use-roman-numerals-in-the-copyright-notice-in-the-end-credits)
 * [2023-04-23, 22:28:26](https://news.ycombinator.com/item?id=35681322) - [Some mistakes I made as a new manager](https://www.benkuhn.net/newmgr/)
 * [2023-04-23, 18:56:51](https://news.ycombinator.com/item?id=35679372) - [YouTube, the jewel of the internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
