@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 23:25:06](https://news.ycombinator.com/item?id=35694609) - [Bard can now help you code in over 20 programming languages](https://bard.google.com/updates?hl=en)
+* [2023-04-24, 23:18:15](https://news.ycombinator.com/item?id=35694553) - [ONNX Runtime merges WebGPU backend](https://github.com/microsoft/onnxruntime/pull/14579)
+* [2023-04-24, 23:16:20](https://news.ycombinator.com/item?id=35694537) - [Gas-Powered Leaf Blowers: The End Is Nigh](https://fallows.substack.com/p/gas-powered-leaf-blowers-the-end)
 * [2023-04-24, 21:29:27](https://news.ycombinator.com/item?id=35693541) - [Apple cannot ban links to outside App Store payments, U.S. appeals court](https://www.reuters.com/legal/us-appeals-court-upholds-lower-court-order-forcing-apple-allow-third-party-app-2023-04-24/)
 * [2023-04-24, 21:23:28](https://news.ycombinator.com/item?id=35693471) - [Layoff Runbook](https://github.com/derwiki/layoff-runbook)
 * [2023-04-24, 21:17:09](https://news.ycombinator.com/item?id=35693393) - [Ask HN: What&#x27;s with the culture of suppression of dissenting views?](https://news.ycombinator.com/item?id=35693393)
