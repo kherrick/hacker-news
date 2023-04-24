@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 03:29:43](https://news.ycombinator.com/item?id=35683360) - [Squawk bots: Can generative AI lead us to understanding animals?](https://cloud.google.com/blog/transform/can-generative-ai-help-humans-understand-animals-earth-species-project-conservation)
 * [2023-04-24, 03:10:00](https://news.ycombinator.com/item?id=35683254) - [DuckDuckGo removed the ability to filter search results](https://github.com/duckduckgo/duckduckgo-help-pages/commit/d35d03e532c7618bcdd2be10ea67e9e1f021dd96)
 * [2023-04-24, 02:54:07](https://news.ycombinator.com/item?id=35683172) - [Analysis shows California EDD fraud at $32.6B and counting](https://www.kcra.com/article/analysis-edd-fraud-326-billion-and-counting/41281662)
 * [2023-04-24, 02:10:28](https://news.ycombinator.com/item?id=35682918) - [Inferno-OS: distributed operating system where everything is a file, with 9P](https://github.com/inferno-os/inferno-os)
