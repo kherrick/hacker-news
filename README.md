@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-24, 18:36:32](https://news.ycombinator.com/item?id=35691383) - [1Password to Add Telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
 * [2023-04-24, 18:24:35](https://news.ycombinator.com/item?id=35691243) - [&#x27;Delete Act&#x27; seeks to give Californians more power to block data tracking](https://www.kqed.org/news/11947039/delete-act-seeks-to-give-californians-more-power-to-block-data-tracking)
 * [2023-04-24, 17:51:07](https://news.ycombinator.com/item?id=35690856) - [Neuromorphic learning, working memory, and metaplasticity in nanowire networks](https://www.science.org/doi/10.1126/sciadv.adg3289)
 * [2023-04-24, 17:51:01](https://news.ycombinator.com/item?id=35690853) - [Egypt builds worlds largest man-made river](https://www.constructionweekonline.com/business/egypt-builds-worlds-largest-114km-man-made-river)
@@ -16,7 +17,6 @@
 * [2023-04-24, 15:32:51](https://news.ycombinator.com/item?id=35688910) - [I built a special PCIe card to test GPUs on the Pi](https://www.jeffgeerling.com/blog/2023/i-built-special-pcie-card-test-gpus-on-pi)
 * [2023-04-24, 15:31:05](https://news.ycombinator.com/item?id=35688878) - [I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
 * [2023-04-24, 14:48:16](https://news.ycombinator.com/item?id=35688320) - [QEMU 8.0](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
-* [2023-04-24, 14:41:48](https://news.ycombinator.com/item?id=35688233) - [Quantum physics falls apart without imaginary numbers](https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/)
 * [2023-04-24, 14:08:41](https://news.ycombinator.com/item?id=35687868) - [Tom Lesley has published 40 books in 2023, all with 100% positive reviews](https://www.amazon.com/s?k=%22tom+lesley%22)
 * [2023-04-24, 14:05:32](https://news.ycombinator.com/item?id=35687831) - [Seeing Triple (Annotated)](https://esawebb.org/images/potm2302b/)
 * [2023-04-24, 13:19:01](https://news.ycombinator.com/item?id=35687292) - [Improbably Right](https://mlajtos.mu/posts/improbably-right)
