@@ -48,6 +48,7 @@
 * [2023-04-23, 16:03:33](https://news.ycombinator.com/item?id=35677390) - [Saudi company draws unlimited Arizona ground water amid drought](https://www.cbsnews.com/news/saudi-company-fondomonte-arizona-ground-water-crop-alfalfa/?ftag=YHF4eb9d17)
 * [2023-04-23, 15:55:01](https://news.ycombinator.com/item?id=35677306) - [Xiaomi 13 Ultra: “Real camera” phone makes Samsung, Apple shake nervously](https://www.phonearena.com/news/xiaomi-13-ultra-android-real-camera-phone-makes-samsung-apple-shake-nervously_id147012)
 * [2023-04-23, 15:50:34](https://news.ycombinator.com/item?id=35677261) - [Intel I219-LM Running at ~60% of Maximum Speed Due to Linux Driver Bug](https://www.phoronix.com/news/Intel-i219-LM-Linux-60p-Fix)
+* [2023-04-23, 15:47:56](https://news.ycombinator.com/item?id=35677236) - [Darke Files is a version control and file synchronization system](https://darke.handmade.network)
 * [2023-04-23, 15:37:08](https://news.ycombinator.com/item?id=35677148) - [The largest number representable in 64 bits](https://googology.fandom.com/wiki/User_blog:JohnTromp/The_largest_number_representable_in_64_bits)
 * [2023-04-23, 15:35:02](https://news.ycombinator.com/item?id=35677126) - [Pydantic V2 leverages Rust&#x27;s Superpowers [video]](https://fosdem.org/2023/schedule/event/rust_how_pydantic_v2_leverages_rusts_superpowers/)
 * [2023-04-23, 15:30:24](https://news.ycombinator.com/item?id=35677086) - [Bing Jail](https://dariusz.wieckiewicz.org/en/bing-jail/)

@@ -23,7 +23,7 @@
 * [2023-04-23, 18:56:51](https://news.ycombinator.com/item?id=35679372) - [YouTube, the jewel of the internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
 * [2023-04-23, 18:16:46](https://news.ycombinator.com/item?id=35678947) - [Gamers 50-Plus Are a Growing Force in the Tech Market](https://www.aarp.org/research/topics/technology/info-2023/2023-gamers-50-plus.html)
 * [2023-04-23, 17:38:08](https://news.ycombinator.com/item?id=35678485) - [Closing in on the “perfect code” (2004)](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
-* [2023-04-23, 17:16:51](https://news.ycombinator.com/item?id=35678238) - [Rye: Flask author&#x27;s new project for Python bootstrapping](https://github.com/mitsuhiko/rye)
+* [2023-04-23, 15:47:56](https://news.ycombinator.com/item?id=35677236) - [Darke Files is a version control and file synchronization system](https://darke.handmade.network)
 * [2023-04-23, 14:33:24](https://news.ycombinator.com/item?id=35676564) - [Lego breaks ground on first US manufacturing facility](https://www.manufacturingdive.com/news/lego-1b-manufacturing-virginia/647946/)
 * [2023-04-23, 13:38:57](https://news.ycombinator.com/item?id=35676138) - [A social media site for chatbots to talk to each other](https://chirper.ai/)
 * [2023-04-22, 23:51:10](https://news.ycombinator.com/item?id=35671968) - [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
