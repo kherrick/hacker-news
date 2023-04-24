@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 09:58:43](https://news.ycombinator.com/item?id=35685560) - [Tesla tries to get owners to give up ‘unlimited free Supercharging for life’](https://electrek.co/2023/04/24/tesla-triesowners-give-up-unlimited-free-supercharging-for-life/)
+* [2023-04-24, 09:51:53](https://news.ycombinator.com/item?id=35685518) - [The Geomagnetic Storm Continues](https://www.swpc.noaa.gov/news/geomagnetic-storm-continues)
 * [2023-04-24, 08:06:23](https://news.ycombinator.com/item?id=35684874) - [Keep the Monolith, but Split the Workloads](https://incident.io/blog/monolith)
 * [2023-04-24, 08:03:02](https://news.ycombinator.com/item?id=35684859) - [The i.MX8 cannot be deblobbed (when using HDMI)](https://www.devever.net/~hl/imx8)
 * [2023-04-24, 07:58:03](https://news.ycombinator.com/item?id=35684828) - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
@@ -16,6 +18,7 @@
 * [2023-04-24, 02:54:07](https://news.ycombinator.com/item?id=35683172) - [Analysis shows California EDD fraud at $32.6B and counting](https://www.kcra.com/article/analysis-edd-fraud-326-billion-and-counting/41281662)
 * [2023-04-24, 02:10:28](https://news.ycombinator.com/item?id=35682918) - [Inferno-OS: distributed operating system where everything is a file, with 9P](https://github.com/inferno-os/inferno-os)
 * [2023-04-24, 01:53:17](https://news.ycombinator.com/item?id=35682821) - [Training open-source LLMs on ChatGPT output is a really bad idea.](https://gist.github.com/mlaprise/bf4745655194162babfc2d158162e2e0)
+* [2023-04-24, 01:26:35](https://news.ycombinator.com/item?id=35682655) - [The Origin of “Baum’s Loop”](https://link.springer.com/article/10.1007/s00276-020-02587-4)
 * [2023-04-24, 01:07:00](https://news.ycombinator.com/item?id=35682523) - [Tony Hsieh’s Friends&#x2F;Family Milked Millions in His Drug-Fueled Final Months](https://www.forbes.com/sites/angelauyeung/2023/04/23/wonder-boy-book-excerpt-tony-hsieh-final-days/)
 * [2023-04-24, 00:54:00](https://news.ycombinator.com/item?id=35682424) - [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)
 * [2023-04-24, 00:40:47](https://news.ycombinator.com/item?id=35682331) - [RISC on a Chip: David Patterson and Berkeley RISC-I](https://thechipletter.substack.com/p/risc-on-a-chip-david-patterson-and)
