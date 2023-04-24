@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-24, 21:29:27](https://news.ycombinator.com/item?id=35693541) - [Apple cannot ban links to outside App Store payments, U.S. appeals court](https://www.reuters.com/legal/us-appeals-court-upholds-lower-court-order-forcing-apple-allow-third-party-app-2023-04-24/)
 * [2023-04-24, 21:23:28](https://news.ycombinator.com/item?id=35693471) - [Layoff Runbook](https://github.com/derwiki/layoff-runbook)
 * [2023-04-24, 21:09:57](https://news.ycombinator.com/item?id=35693306) - [The Palo Alto Research Center (PARC) Will Join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
 * [2023-04-24, 21:01:10](https://news.ycombinator.com/item?id=35693229) - [Lancey (YC S22) is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
 * [2023-04-24, 20:56:06](https://news.ycombinator.com/item?id=35693160) - [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
-* [2023-04-24, 20:34:07](https://news.ycombinator.com/item?id=35692829) - [Gorillaz turn the world into a stage with augmented reality](https://blog.google/products/google-ar-vr/gorillaz-maps-music-video/)
 * [2023-04-24, 20:08:52](https://news.ycombinator.com/item?id=35692476) - [OpenAI has applied for “GPT” trademark with USPTO](https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4802:jtelqq.2.16)
 * [2023-04-24, 19:49:12](https://news.ycombinator.com/item?id=35692242) - [Digital Addiction: Focusing on the Cure, Not the Disease](https://louison.substack.com/p/digital-addiction-focusing-on-the)
 * [2023-04-24, 19:15:33](https://news.ycombinator.com/item?id=35691854) - [The Effects of Noise on Health (2022)](https://hms.harvard.edu/magazine/viral-world/effects-noise-health)
