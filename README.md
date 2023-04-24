@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-24, 20:08:52](https://news.ycombinator.com/item?id=35692476) - [OpenAI has applied for “GPT” trademark with USPTO](https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4802:jtelqq.2.16)
+* [2023-04-24, 19:49:12](https://news.ycombinator.com/item?id=35692242) - [Digital Addiction: Focusing on the Cure, Not the Disease](https://louison.substack.com/p/digital-addiction-focusing-on-the)
 * [2023-04-24, 19:15:33](https://news.ycombinator.com/item?id=35691854) - [Harvard: The Effects of Noise on Health](https://hms.harvard.edu/magazine/viral-world/effects-noise-health)
 * [2023-04-24, 19:10:25](https://news.ycombinator.com/item?id=35691803) - [Show HN: Featurevisor – Git based feature flags and experiments management](https://featurevisor.com/)
 * [2023-04-24, 19:08:05](https://news.ycombinator.com/item?id=35691771) - [Apple wins the antitrust court battle with Epic Games, court rules](https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/)
 * [2023-04-24, 18:54:18](https://news.ycombinator.com/item?id=35691597) - [Fedora 38 LLVM vs. Team Fortress 2](https://airlied.blogspot.com/2023/04/fedora-38-llvm-vs-team-fortress-2-tf2.html)
-* [2023-04-24, 18:36:32](https://news.ycombinator.com/item?id=35691383) - [1Password to Add Telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
 * [2023-04-24, 18:24:35](https://news.ycombinator.com/item?id=35691243) - [&#x27;Delete Act&#x27; seeks to give Californians more power to block data tracking](https://www.kqed.org/news/11947039/delete-act-seeks-to-give-californians-more-power-to-block-data-tracking)
 * [2023-04-24, 17:51:07](https://news.ycombinator.com/item?id=35690856) - [Neuromorphic learning, working memory, and metaplasticity in nanowire networks](https://www.science.org/doi/10.1126/sciadv.adg3289)
 * [2023-04-24, 17:51:01](https://news.ycombinator.com/item?id=35690853) - [Egypt builds worlds largest man-made river](https://www.constructionweekonline.com/business/egypt-builds-worlds-largest-114km-man-made-river)
