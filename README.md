@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-24, 10:13:19](https://news.ycombinator.com/item?id=35685635) - [Deleting System32\\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
 * [2023-04-24, 09:58:43](https://news.ycombinator.com/item?id=35685560) - [Tesla tries to get owners to give up ‘unlimited free Supercharging for life’](https://electrek.co/2023/04/24/tesla-triesowners-give-up-unlimited-free-supercharging-for-life/)
 * [2023-04-24, 09:51:53](https://news.ycombinator.com/item?id=35685518) - [The Geomagnetic Storm Continues](https://www.swpc.noaa.gov/news/geomagnetic-storm-continues)
 * [2023-04-24, 08:06:23](https://news.ycombinator.com/item?id=35684874) - [Keep the Monolith, but Split the Workloads](https://incident.io/blog/monolith)
@@ -29,7 +30,6 @@
 * [2023-04-23, 14:33:24](https://news.ycombinator.com/item?id=35676564) - [Lego breaks ground on first US manufacturing facility](https://www.manufacturingdive.com/news/lego-1b-manufacturing-virginia/647946/)
 * [2023-04-22, 17:25:02](https://news.ycombinator.com/item?id=35668879) - [Moths are more efficient pollinators than bees: new research](https://phys.org/news/2023-03-moths-efficient-pollinators-bees.html)
 * [2023-04-22, 00:17:34](https://news.ycombinator.com/item?id=35661961) - [Mathematician uncovers way to shrink sampling errors in large-dimensional data](https://phys.org/news/2023-03-mathematician-uncovers-methods-sampling-errors.html)
-* [2023-04-21, 21:01:59](https://news.ycombinator.com/item?id=35660090) - [Stone age animal urine could solve a mystery about technological development](https://www.scientificamerican.com/article/stone-age-animal-urine-could-solve-a-mystery-about-technological-development/)
 
 ## [Archives](archives/index.md)
 
