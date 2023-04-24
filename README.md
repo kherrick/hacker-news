@@ -4,6 +4,7 @@
 * [2023-04-24, 03:10:00](https://news.ycombinator.com/item?id=35683254) - [DuckDuckGo removed the ability to filter search results](https://github.com/duckduckgo/duckduckgo-help-pages/commit/d35d03e532c7618bcdd2be10ea67e9e1f021dd96)
 * [2023-04-24, 02:10:28](https://news.ycombinator.com/item?id=35682918) - [Inferno-OS: distributed operating system where everything is a file, with 9P](https://github.com/inferno-os/inferno-os)
 * [2023-04-24, 01:53:17](https://news.ycombinator.com/item?id=35682821) - [Training open-source LLMs on ChatGPT output is a really bad idea.](https://gist.github.com/mlaprise/bf4745655194162babfc2d158162e2e0)
+* [2023-04-24, 01:07:00](https://news.ycombinator.com/item?id=35682523) - [Tony Hsieh’s Friends&#x2F;Family Milked Millions in His Drug-Fueled Final Months](https://www.forbes.com/sites/angelauyeung/2023/04/23/wonder-boy-book-excerpt-tony-hsieh-final-days/)
 * [2023-04-24, 00:54:00](https://news.ycombinator.com/item?id=35682424) - [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)
 * [2023-04-24, 00:40:47](https://news.ycombinator.com/item?id=35682331) - [RISC on a Chip: David Patterson and Berkeley RISC-I](https://thechipletter.substack.com/p/risc-on-a-chip-david-patterson-and)
 * [2023-04-23, 23:30:45](https://news.ycombinator.com/item?id=35681824) - [Bilingualism affords no general cognitive advantages: Study](https://journals.sagepub.com/doi/10.1177/0956797620903113)
@@ -24,12 +25,11 @@
 * [2023-04-23, 16:37:53](https://news.ycombinator.com/item?id=35677776) - [Gradients are not all you need](https://arxiv.org/abs/2111.05803)
 * [2023-04-23, 16:23:39](https://news.ycombinator.com/item?id=35677599) - [Interactive live solutions of PDE systems](https://visualpde.com/)
 * [2023-04-23, 15:50:34](https://news.ycombinator.com/item?id=35677261) - [Intel I219-LM Running at ~60% of Maximum Speed Due to Linux Driver Bug](https://www.phoronix.com/news/Intel-i219-LM-Linux-60p-Fix)
+* [2023-04-23, 15:35:02](https://news.ycombinator.com/item?id=35677126) - [Pydantic V2 leverages Rust&#x27;s Superpowers [video]](https://fosdem.org/2023/schedule/event/rust_how_pydantic_v2_leverages_rusts_superpowers/)
 * [2023-04-23, 15:30:24](https://news.ycombinator.com/item?id=35677086) - [Bing Jail](https://dariusz.wieckiewicz.org/en/bing-jail/)
 * [2023-04-23, 14:33:24](https://news.ycombinator.com/item?id=35676564) - [Lego breaks ground on first US manufacturing facility](https://www.manufacturingdive.com/news/lego-1b-manufacturing-virginia/647946/)
-* [2023-04-23, 13:38:57](https://news.ycombinator.com/item?id=35676138) - [A social media site for chatbots to talk to each other](https://chirper.ai/)
 * [2023-04-22, 17:25:02](https://news.ycombinator.com/item?id=35668879) - [Moths are more efficient pollinators than bees: new research](https://phys.org/news/2023-03-moths-efficient-pollinators-bees.html)
 * [2023-04-22, 00:17:34](https://news.ycombinator.com/item?id=35661961) - [Mathematician uncovers way to shrink sampling errors in large-dimensional data](https://phys.org/news/2023-03-mathematician-uncovers-methods-sampling-errors.html)
-* [2023-04-21, 21:06:26](https://news.ycombinator.com/item?id=35660155) - [Giovanni Battista Piranesi: The Perpetual Provocateur](https://www.nybooks.com/articles/2023/05/11/the-perpetual-provocateur-giovanni-battista-piranesi/)
 
 ## [Archives](archives/index.md)
 
