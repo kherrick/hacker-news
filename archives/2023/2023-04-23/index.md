@@ -21,6 +21,7 @@
 * [2023-04-23, 21:03:23](https://news.ycombinator.com/item?id=35680600) - [ChatGPT creates mostly insecure code, but won&#x27;t tell you unless you ask](https://www.theregister.com/2023/04/21/chatgpt_insecure_code/)
 * [2023-04-23, 20:57:42](https://news.ycombinator.com/item?id=35680542) - [That won&#x27;t scale Or present cost vs. future value](https://codesolo.substack.com/p/that-wont-scale-or-present-cost-vs)
 * [2023-04-23, 20:40:49](https://news.ycombinator.com/item?id=35680376) - [Leaked deck raises questions over Stability AI’s Series A pitch to investors](https://sifted.eu/articles/stability-ai-fundraise-leak/)
+* [2023-04-23, 20:20:26](https://news.ycombinator.com/item?id=35680129) - [How Allan Gurganus Became a Writer](https://www.newyorker.com/culture/the-new-yorker-interview/how-allan-gurganus-became-a-writer)
 * [2023-04-23, 20:11:46](https://news.ycombinator.com/item?id=35680029) - [Incognito ChatGPT with no account required](https://anonchatgpt.com)
 * [2023-04-23, 20:02:51](https://news.ycombinator.com/item?id=35679946) - [Git bundles of Eaglercraft repositories disabled due to DMCA takedown](https://github.com/enten/eaglercraft-ashes)
 * [2023-04-23, 19:59:23](https://news.ycombinator.com/item?id=35679911) - [LSD: Not Even Once. Really.](https://www.qword.net/2023/04/23/lsd-not-even-once-really)
