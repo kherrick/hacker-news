@@ -102,4 +102,5 @@
 * [2023-04-22, 01:03:55](https://news.ycombinator.com/item?id=35662260) - [How Much Can Duolingo Teach Us?](https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us)
 * [2023-04-22, 00:49:39](https://news.ycombinator.com/item?id=35662176) - [Telegram Web Apps for Bots](https://core.telegram.org/bots/webapps)
 * [2023-04-22, 00:20:02](https://news.ycombinator.com/item?id=35661977) - [U.S. crypto exchange Coinbase secures Bermuda licence](https://www.reuters.com/technology/us-crypto-exchange-coinbase-secures-bermuda-licence-2023-04-20/)
+* [2023-04-22, 00:17:34](https://news.ycombinator.com/item?id=35661961) - [Mathematician uncovers way to shrink sampling errors in large-dimensional data](https://phys.org/news/2023-03-mathematician-uncovers-methods-sampling-errors.html)
 * [2023-04-22, 00:15:24](https://news.ycombinator.com/item?id=35661945) - [There Is No A.I](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)

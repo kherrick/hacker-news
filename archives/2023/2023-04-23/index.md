@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
 * [2023-04-23, 23:30:45](https://news.ycombinator.com/item?id=35681824) - [Bilingualism Affords No General Cognitive Advantages: A Study of 11,000 People](https://journals.sagepub.com/doi/10.1177/0956797620903113)
+* [2023-04-23, 23:29:03](https://news.ycombinator.com/item?id=35681810) - [West Coast Trail – The 75km&#x2F;48 mile hike in Vancouver Island](https://www.dquach.com/2021/08/01/west-coast-trail-the-75km-48-mile-death-hike/)
+* [2023-04-23, 23:03:30](https://news.ycombinator.com/item?id=35681607) - [Roblox intentionally blocking Linux with Wine in their new update](https://www.gamingonlinux.com/2023/04/roblox-intentionally-blocking-linux-with-wine-in-their-new-update/)
+* [2023-04-23, 22:55:51](https://news.ycombinator.com/item?id=35681551) - [A fireside chat on education, technology, and almost everything in between](https://www.gatesnotes.com/ASU-and-GSV)
 * [2023-04-23, 22:46:30](https://news.ycombinator.com/item?id=35681471) - [Alt-Right Pipeline](https://en.wikipedia.org/wiki/Alt-right_pipeline)
 * [2023-04-23, 22:33:43](https://news.ycombinator.com/item?id=35681357) - [Godot-dodo – Finetuning LLaMA on single-language comment:code data pairs](https://github.com/minosvasilias/godot-dodo)
 * [2023-04-23, 22:31:43](https://news.ycombinator.com/item?id=35681342) - [Why do studios use Roman numerals in the copyright notice in the end credits?](https://movies.stackexchange.com/questions/10149/why-do-studios-use-roman-numerals-in-the-copyright-notice-in-the-end-credits)
@@ -22,6 +25,7 @@
 * [2023-04-23, 19:36:41](https://news.ycombinator.com/item?id=35679724) - [Is there a concept for not wanting to know the time&#x2F;clock while doing something?](https://news.ycombinator.com/item?id=35679724)
 * [2023-04-23, 19:05:56](https://news.ycombinator.com/item?id=35679459) - [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
 * [2023-04-23, 18:56:51](https://news.ycombinator.com/item?id=35679372) - [YouTube, the Jewel of the Internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
+* [2023-04-23, 18:16:46](https://news.ycombinator.com/item?id=35678947) - [Gamers 50-Plus Are a Growing Force in the Tech Market](https://www.aarp.org/research/topics/technology/info-2023/2023-gamers-50-plus.html)
 * [2023-04-23, 17:38:08](https://news.ycombinator.com/item?id=35678485) - [Closing in on the “Perfect Code”](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
 * [2023-04-23, 17:29:41](https://news.ycombinator.com/item?id=35678372) - [I’m ChatGPT, and for the love of God please don’t make me do anymore copywriting](https://www.mcsweeneys.net/articles/im-chatgpt-and-for-the-love-of-god-please-dont-make-me-do-any-more-copywriting)
 * [2023-04-23, 17:21:59](https://news.ycombinator.com/item?id=35678299) - [Philosophy’s No-Go Zone](https://quillette.com/2023/04/17/philosophys-no-go-zone/)
