@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-04-24, 13:55:06",
+      "https://news.ycombinator.com/item?id=35687687"
+    ],
+    [
+      "Red Hat cutting hundreds of jobs, CEO says in letter to employees",
+      "https://wraltechwire.com/2023/04/24/red-hat-cutting-hundreds-of-jobs-ceo-says-in-letter-to-employees/"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 13:19:01",
       "https://news.ycombinator.com/item?id=35687292"
     ],
@@ -97,16 +107,6 @@
     [
       "Deleting System32\\curl.exe",
       "https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 10:08:34",
-      "https://news.ycombinator.com/item?id=35685604"
-    ],
-    [
-      "Open source smartwatch integrates ESP32 MCU with e-paper display",
-      "https://linuxgizmos.com/open-source-smartwatch-integrates-esp32-mcu/"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-04-24, 03:29:43",
+      "https://news.ycombinator.com/item?id=35683360"
+    ],
+    [
+      "Squawk bots: Can generative AI lead us to understanding animals?",
+      "https://cloud.google.com/blog/transform/can-generative-ai-help-humans-understand-animals-earth-species-project-conservation"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 02:10:28",
       "https://news.ycombinator.com/item?id=35682918"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-04-23, 23:17:27",
-      "https://news.ycombinator.com/item?id=35681725"
-    ],
-    [
-      "Z Garbage Collector: The Next Generation",
-      "https://inside.java/2023/04/23/levelup-zgc/"
-    ]
-  ],
-  [
-    [
       "2023-04-23, 22:49:13",
       "https://news.ycombinator.com/item?id=35681498"
     ],
@@ -257,6 +257,16 @@
     [
       "Topological Deep Learning: A Survey on Topological Neural Networks",
       "https://arxiv.org/abs/2304.10031"
+    ]
+  ],
+  [
+    [
+      "2023-04-23, 18:56:51",
+      "https://news.ycombinator.com/item?id=35679372"
+    ],
+    [
+      "YouTube, the jewel of the internet",
+      "https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Moths are more efficient pollinators than bees: new research",
       "https://phys.org/news/2023-03-moths-efficient-pollinators-bees.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-22, 00:17:34",
-      "https://news.ycombinator.com/item?id=35661961"
-    ],
-    [
-      "Mathematician uncovers way to shrink sampling errors in large-dimensional data",
-      "https://phys.org/news/2023-03-mathematician-uncovers-methods-sampling-errors.html"
     ]
   ]
 ]
