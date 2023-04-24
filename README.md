@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-24, 17:27:40](https://news.ycombinator.com/item?id=35690610) - [The Interstellar Style of Sun Ra (2016)](https://pitchfork.com/features/from-the-pitchfork-review/9866-the-interstellar-style-of-sun-ra/)
 * [2023-04-24, 17:01:09](https://news.ycombinator.com/item?id=35690256) - [Tesorio (YC S15) Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
 * [2023-04-24, 16:37:53](https://news.ycombinator.com/item?id=35689885) - [Orchestration isn’t going anywhere](https://stkbailey.substack.com/p/orchestration-isnt-going-anywhere)
 * [2023-04-24, 16:24:57](https://news.ycombinator.com/item?id=35689706) - [A WiFi color eInk picture frame](https://spritesmods.com/?art=wifipicframe&f=rss)
 * [2023-04-24, 16:18:03](https://news.ycombinator.com/item?id=35689596) - [Snapchat sees spike in 1-star reviews as users pan the ‘My AI’ feature](https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/)
-* [2023-04-24, 16:05:05](https://news.ycombinator.com/item?id=35689381) - [The A.I. business influencer guys must be stopped](https://maxread.substack.com/p/the-ai-business-influencer-guys-must)
 * [2023-04-24, 15:41:55](https://news.ycombinator.com/item?id=35689044) - [Statement on EU-US Cooperation on Turning Public Opinion Against Encryption](https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/)
 * [2023-04-24, 15:32:51](https://news.ycombinator.com/item?id=35688910) - [I built a special PCIe card to test GPUs on the Pi](https://www.jeffgeerling.com/blog/2023/i-built-special-pcie-card-test-gpus-on-pi)
 * [2023-04-24, 15:31:05](https://news.ycombinator.com/item?id=35688878) - [I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
@@ -25,11 +25,11 @@
 * [2023-04-24, 07:20:29](https://news.ycombinator.com/item?id=35684585) - [Second IC – Homemade 1000 transistor array chip (2021)](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-24, 06:55:23](https://news.ycombinator.com/item?id=35684432) - [Windows 11’s taskbar is finally getting labels and never combine app icons](https://www.theverge.com/2023/4/20/23690960/microsoft-windows-11-taskbar-never-combine-app-icons-labels-features)
 * [2023-04-24, 06:13:30](https://news.ycombinator.com/item?id=35684232) - [An introduction to lockless algorithms (2021)](https://lwn.net/Articles/844224/)
-* [2023-04-24, 03:49:13](https://news.ycombinator.com/item?id=35683465) - [The Banality of Floods (and Droughts)](https://californiawaterblog.com/2023/04/22/the-banality-of-floods-and-droughts/)
 * [2023-04-23, 22:49:13](https://news.ycombinator.com/item?id=35681498) - [Peruvian archaeologists unearth 500-year-old Inca ceremonial bath](https://www.reuters.com/lifestyle/peruvian-archaeologists-unearth-500-year-old-inca-ceremonial-bath-2023-04-14/)
 * [2023-04-23, 22:46:09](https://news.ycombinator.com/item?id=35681466) - [Topological Deep Learning: A Survey on Topological Neural Networks](https://arxiv.org/abs/2304.10031)
 * [2023-04-23, 19:52:56](https://news.ycombinator.com/item?id=35679860) - [Solar on Warehouses](https://environmentamerica.org/center/resources/solar-on-warehouses/)
-* [2023-04-23, 15:47:56](https://news.ycombinator.com/item?id=35677236) - [Darke Files is a version control and file synchronization system](https://darke.handmade.network)
+* [2023-04-23, 15:02:26](https://news.ycombinator.com/item?id=35676825) - [Piper: A proposal for a graphy pipe-based build system](https://mattsanetra.uk/blog/graph-build-proposal/)
+* [2023-04-23, 10:56:58](https://news.ycombinator.com/item?id=35675159) - [I Wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost](https://gopiandcode.uk/logs/log-writing-activitypub.html)
 
 ## [Archives](archives/index.md)
 
