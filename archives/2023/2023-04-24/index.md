@@ -42,6 +42,7 @@
 * [2023-04-24, 13:55:06](https://news.ycombinator.com/item?id=35687687) - [Red Hat cutting hundreds of jobs, CEO says in letter to employees](https://wraltechwire.com/2023/04/24/red-hat-cutting-hundreds-of-jobs-ceo-says-in-letter-to-employees/)
 * [2023-04-24, 13:19:01](https://news.ycombinator.com/item?id=35687292) - [Improbably Right](https://mlajtos.mu/posts/improbably-right)
 * [2023-04-24, 13:04:07](https://news.ycombinator.com/item?id=35687157) - [The Open Source Ruby on Rails SaaS Framework](https://bullettrain.co/)
+* [2023-04-24, 11:56:39](https://news.ycombinator.com/item?id=35686490) - [iPhone 15 Ultra camera upgrades could give photographers a serious dilemma](https://www.techradar.com/news/iphone-15-ultra-camera-upgrades-could-give-photographers-a-serious-dilemma)
 * [2023-04-24, 11:52:22](https://news.ycombinator.com/item?id=35686450) - [UK Threatens End-to-End Encryption](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
 * [2023-04-24, 11:16:24](https://news.ycombinator.com/item?id=35686121) - [Remote Work Brings Hidden Penalty for Young Professionals, Study Says](https://www.nytimes.com/2023/04/24/business/remote-work-feedback.html)
 * [2023-04-24, 11:04:01](https://news.ycombinator.com/item?id=35686023) - [Why People Aren&#x27;t Deploying to Vercel Anymore](https://www.youtube.com/watch?v=JiuBeLDSGR0)
