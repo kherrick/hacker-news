@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 08:06:23](https://news.ycombinator.com/item?id=35684874) - [Keep the Monolith, but Split the Workloads](https://incident.io/blog/monolith)
+* [2023-04-24, 08:03:02](https://news.ycombinator.com/item?id=35684859) - [The i.MX8 cannot be deblobbed (when using HDMI)](https://www.devever.net/~hl/imx8)
 * [2023-04-24, 07:58:03](https://news.ycombinator.com/item?id=35684828) - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
 * [2023-04-24, 06:55:23](https://news.ycombinator.com/item?id=35684432) - [Windows 11’s taskbar is finally getting labels and never combine app icons](https://www.theverge.com/2023/4/20/23690960/microsoft-windows-11-taskbar-never-combine-app-icons-labels-features)
 * [2023-04-24, 06:37:24](https://news.ycombinator.com/item?id=35684335) - [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)

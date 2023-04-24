@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-24, 08:06:23](https://news.ycombinator.com/item?id=35684874) - [Keep the Monolith, but Split the Workloads](https://incident.io/blog/monolith)
+* [2023-04-24, 08:03:02](https://news.ycombinator.com/item?id=35684859) - [The i.MX8 cannot be deblobbed (when using HDMI)](https://www.devever.net/~hl/imx8)
 * [2023-04-24, 07:58:03](https://news.ycombinator.com/item?id=35684828) - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
 * [2023-04-24, 06:55:23](https://news.ycombinator.com/item?id=35684432) - [Windows 11’s taskbar is finally getting labels and never combine app icons](https://www.theverge.com/2023/4/20/23690960/microsoft-windows-11-taskbar-never-combine-app-icons-labels-features)
 * [2023-04-24, 06:37:24](https://news.ycombinator.com/item?id=35684335) - [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)
@@ -22,10 +24,8 @@
 * [2023-04-23, 19:05:56](https://news.ycombinator.com/item?id=35679459) - [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
 * [2023-04-23, 18:56:51](https://news.ycombinator.com/item?id=35679372) - [YouTube, the jewel of the internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
 * [2023-04-23, 18:16:46](https://news.ycombinator.com/item?id=35678947) - [Gamers 50-Plus Are a Growing Force in the Tech Market](https://www.aarp.org/research/topics/technology/info-2023/2023-gamers-50-plus.html)
-* [2023-04-23, 17:38:08](https://news.ycombinator.com/item?id=35678485) - [Closing in on the “perfect code” (2004)](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
 * [2023-04-23, 15:47:56](https://news.ycombinator.com/item?id=35677236) - [Darke Files is a version control and file synchronization system](https://darke.handmade.network)
 * [2023-04-23, 14:33:24](https://news.ycombinator.com/item?id=35676564) - [Lego breaks ground on first US manufacturing facility](https://www.manufacturingdive.com/news/lego-1b-manufacturing-virginia/647946/)
-* [2023-04-23, 13:38:57](https://news.ycombinator.com/item?id=35676138) - [A social media site for chatbots to talk to each other](https://chirper.ai/)
 * [2023-04-22, 23:51:10](https://news.ycombinator.com/item?id=35671968) - [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
 * [2023-04-22, 17:25:02](https://news.ycombinator.com/item?id=35668879) - [Moths are more efficient pollinators than bees: new research](https://phys.org/news/2023-03-moths-efficient-pollinators-bees.html)
 * [2023-04-22, 00:17:34](https://news.ycombinator.com/item?id=35661961) - [Mathematician uncovers way to shrink sampling errors in large-dimensional data](https://phys.org/news/2023-03-mathematician-uncovers-methods-sampling-errors.html)
