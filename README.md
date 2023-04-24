@@ -2,6 +2,7 @@
 
 * [2023-04-24, 13:04:07](https://news.ycombinator.com/item?id=35687157) - [The Open Source Ruby on Rails SaaS Framework](https://bullettrain.co/)
 * [2023-04-24, 11:52:22](https://news.ycombinator.com/item?id=35686450) - [UK Threatens End-to-End Encryption](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
+* [2023-04-24, 11:16:24](https://news.ycombinator.com/item?id=35686121) - [Remote Work Brings Hidden Penalty for Young Professionals, Study Says](https://www.nytimes.com/2023/04/24/business/remote-work-feedback.html)
 * [2023-04-24, 10:41:20](https://news.ycombinator.com/item?id=35685854) - [Philips sets €575M. aside for respirator lawsuits](https://nltimes.nl/2023/04/24/philips-sets-eu575-mil-aside-respirator-lawsuits-suffered-eu583-mil-loss-q1)
 * [2023-04-24, 10:18:47](https://news.ycombinator.com/item?id=35685679) - [Amazon’s quiet open source revolution](https://www.infoworld.com/article/3694090/amazon-s-quiet-open-source-revolution.html)
 * [2023-04-24, 10:13:19](https://news.ycombinator.com/item?id=35685635) - [Deleting System32\\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
@@ -10,7 +11,6 @@
 * [2023-04-24, 08:06:23](https://news.ycombinator.com/item?id=35684874) - [Keep the Monolith, but Split the Workloads](https://incident.io/blog/monolith)
 * [2023-04-24, 07:58:03](https://news.ycombinator.com/item?id=35684828) - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
 * [2023-04-24, 07:54:20](https://news.ycombinator.com/item?id=35684807) - [No, I don’t want to sign up for your newsletter](https://www.katsnyderux.com/post/no-i-don-t-want-to-sign-up-for-your-newsletter-horrible-uses-of-exit-overlays)
-* [2023-04-24, 07:23:28](https://news.ycombinator.com/item?id=35684599) - [What’s the Point of Tech Conferences?](https://chelseatroy.com/2023/04/21/whats-the-point-of-tech-conferences/)
 * [2023-04-24, 06:37:24](https://news.ycombinator.com/item?id=35684335) - [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)
 * [2023-04-24, 06:13:30](https://news.ycombinator.com/item?id=35684232) - [An introduction to lockless algorithms (2021)](https://lwn.net/Articles/844224/)
 * [2023-04-24, 05:54:37](https://news.ycombinator.com/item?id=35684125) - [As an AI Language Model](https://twitter.com/d_feldman/status/1649466422018318338)
