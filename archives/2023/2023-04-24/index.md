@@ -8,6 +8,7 @@
 * [2023-04-24, 14:05:32](https://news.ycombinator.com/item?id=35687831) - [Seeing Triple (Annotated)](https://esawebb.org/images/potm2302b/)
 * [2023-04-24, 14:04:31](https://news.ycombinator.com/item?id=35687813) - [Our Sun Was Born in a Stellar Family Far, Far from Here](https://www.scientificamerican.com/article/our-sun-was-born-in-a-stellar-family-far-far-from-here/)
 * [2023-04-24, 14:00:18](https://news.ycombinator.com/item?id=35687752) - [My remaining 13M minutes: Productivity, ambition, being realistic in older age](https://www.theguardian.com/science/2023/apr/22/my-remaining-13-million-minutes-productivity-ambition-and-being-realistic-in-older-age)
+* [2023-04-24, 13:55:06](https://news.ycombinator.com/item?id=35687687) - [Red Hat cutting hundreds of jobs, CEO says in letter to employees](https://wraltechwire.com/2023/04/24/red-hat-cutting-hundreds-of-jobs-ceo-says-in-letter-to-employees/)
 * [2023-04-24, 13:19:01](https://news.ycombinator.com/item?id=35687292) - [Improbably Right](https://mlajtos.mu/posts/improbably-right)
 * [2023-04-24, 13:04:07](https://news.ycombinator.com/item?id=35687157) - [The Open Source Ruby on Rails SaaS Framework](https://bullettrain.co/)
 * [2023-04-24, 11:52:22](https://news.ycombinator.com/item?id=35686450) - [UK Threatens End-to-End Encryption](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
