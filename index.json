@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-24, 14:48:16",
+      "https://news.ycombinator.com/item?id=35688320"
+    ],
+    [
+      "QEMU 8.0.0 – A generic and open source machine emulator and virtualizer",
+      "https://www.qemu.org/2023/04/20/qemu-8-0-0/"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 14:08:41",
       "https://news.ycombinator.com/item?id=35687868"
     ],
@@ -81,12 +91,22 @@
   ],
   [
     [
-      "2023-04-24, 10:41:20",
-      "https://news.ycombinator.com/item?id=35685854"
+      "2023-04-24, 11:16:24",
+      "https://news.ycombinator.com/item?id=35686121"
     ],
     [
-      "Philips sets €575M aside for respirator lawsuits",
-      "https://nltimes.nl/2023/04/24/philips-sets-eu575-mil-aside-respirator-lawsuits-suffered-eu583-mil-loss-q1"
+      "Remote Work Brings Hidden Penalty for Young Professionals, Study Says",
+      "https://www.nytimes.com/2023/04/24/business/remote-work-feedback.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 10:24:14",
+      "https://news.ycombinator.com/item?id=35685721"
+    ],
+    [
+      "LVMH becomes the first European company to surpass $500B in market value",
+      "https://www.cnbc.com/2023/04/24/lvmh-becomes-the-first-european-company-surpass-500-billion-in-value.html"
     ]
   ],
   [
@@ -107,6 +127,16 @@
     [
       "Deleting System32\\curl.exe",
       "https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 10:08:34",
+      "https://news.ycombinator.com/item?id=35685604"
+    ],
+    [
+      "Open source smartwatch integrates ESP32 MCU with e-paper display",
+      "https://linuxgizmos.com/open-source-smartwatch-integrates-esp32-mcu/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2023-04-24, 05:54:37",
-      "https://news.ycombinator.com/item?id=35684125"
-    ],
-    [
-      "As an AI Language Model",
-      "https://twitter.com/d_feldman/status/1649466422018318338"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 03:29:43",
       "https://news.ycombinator.com/item?id=35683360"
     ],
@@ -261,12 +281,12 @@
   ],
   [
     [
-      "2023-04-23, 18:56:51",
-      "https://news.ycombinator.com/item?id=35679372"
+      "2023-04-23, 20:20:26",
+      "https://news.ycombinator.com/item?id=35680129"
     ],
     [
-      "YouTube, the jewel of the internet",
-      "https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2"
+      "How Allan Gurganus Became a Writer",
+      "https://www.newyorker.com/culture/the-new-yorker-interview/how-allan-gurganus-became-a-writer"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Darke Files is a version control and file synchronization system",
       "https://darke.handmade.network"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 14:33:24",
-      "https://news.ycombinator.com/item?id=35676564"
-    ],
-    [
-      "Lego breaks ground on first US manufacturing facility",
-      "https://www.manufacturingdive.com/news/lego-1b-manufacturing-virginia/647946/"
-    ]
-  ],
-  [
-    [
-      "2023-04-22, 17:25:02",
-      "https://news.ycombinator.com/item?id=35668879"
-    ],
-    [
-      "Moths are more efficient pollinators than bees: new research",
-      "https://phys.org/news/2023-03-moths-efficient-pollinators-bees.html"
     ]
   ]
 ]
