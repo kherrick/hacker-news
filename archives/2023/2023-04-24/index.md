@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 21:23:28](https://news.ycombinator.com/item?id=35693471) - [Layoff Runbook](https://github.com/derwiki/layoff-runbook)
 * [2023-04-24, 21:17:09](https://news.ycombinator.com/item?id=35693393) - [Ask HN: What&#x27;s with the culture of suppression of dissenting views?](https://news.ycombinator.com/item?id=35693393)
 * [2023-04-24, 21:09:57](https://news.ycombinator.com/item?id=35693306) - [The Palo Alto Research Center (PARC) Will Join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
 * [2023-04-24, 21:01:10](https://news.ycombinator.com/item?id=35693229) - [Lancey (YC S22) is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
@@ -27,6 +28,7 @@
 * [2023-04-24, 17:31:10](https://news.ycombinator.com/item?id=35690656) - [Haiku&#x27;s (Kernel) Condition Variables API: Design and Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
 * [2023-04-24, 17:27:54](https://news.ycombinator.com/item?id=35690613) - [My Search for the Origins of Clothing](https://www.sapiens.org/archaeology/paleolithic-clothing-origins/)
 * [2023-04-24, 17:27:40](https://news.ycombinator.com/item?id=35690610) - [The Interstellar Style of Sun Ra (2016)](https://pitchfork.com/features/from-the-pitchfork-review/9866-the-interstellar-style-of-sun-ra/)
+* [2023-04-24, 17:25:02](https://news.ycombinator.com/item?id=35690584) - [The king who wasn&#x27;t there](https://www.historytoday.com/archive/feature/king-who-wasnt-there)
 * [2023-04-24, 17:13:27](https://news.ycombinator.com/item?id=35690421) - [The Great Electrician Shortage](https://www.newyorker.com/news/dept-of-energy/the-great-electrician-shortage)
 * [2023-04-24, 17:11:24](https://news.ycombinator.com/item?id=35690398) - [Google Authenticator now supports Google Account synchronization](https://security.googleblog.com/2023/04/google-authenticator-now-supports.html)
 * [2023-04-24, 17:09:48](https://news.ycombinator.com/item?id=35690370) - [Show HN: Duck, a chat-based note app for your knowledge base](https://site.ducknote.app)
