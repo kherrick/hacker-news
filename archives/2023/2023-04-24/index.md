@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 11:04:01](https://news.ycombinator.com/item?id=35686023) - [Why People Aren&#x27;t Deploying to Vercel Anymore](https://www.youtube.com/watch?v=JiuBeLDSGR0)
 * [2023-04-24, 10:41:20](https://news.ycombinator.com/item?id=35685854) - [Philips sets €575M. aside for respirator lawsuits](https://nltimes.nl/2023/04/24/philips-sets-eu575-mil-aside-respirator-lawsuits-suffered-eu583-mil-loss-q1)
 * [2023-04-24, 10:31:57](https://news.ycombinator.com/item?id=35685790) - [Biggest companies in the world by market value 2022](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-capitalization/)
 * [2023-04-24, 10:29:41](https://news.ycombinator.com/item?id=35685766) - [Samsung faces weakest quarter since 2009 as memory chip market declines](https://www.cnbc.com/2023/04/24/samsung-q1-2023-earnings-preview-memory-chip-price-slump-hits-giant.html)
