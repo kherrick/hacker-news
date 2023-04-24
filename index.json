@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-04-24, 16:05:05",
+      "https://news.ycombinator.com/item?id=35689381"
+    ],
+    [
+      "The A.I. business influencer guys must be stopped",
+      "https://maxread.substack.com/p/the-ai-business-influencer-guys-must"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 15:41:55",
+      "https://news.ycombinator.com/item?id=35689044"
+    ],
+    [
+      "Statement on EU-US Cooperation on Turning Public Opinion Against Encryption",
+      "https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 15:32:51",
+      "https://news.ycombinator.com/item?id=35688910"
+    ],
+    [
+      "I built a special PCIe card to test GPUs on the Pi",
+      "https://www.jeffgeerling.com/blog/2023/i-built-special-pcie-card-test-gpus-on-pi"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 15:31:05",
       "https://news.ycombinator.com/item?id=35688878"
     ],
     [
       "I use Nix and make(1) to develop",
       "https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 15:17:07",
+      "https://news.ycombinator.com/item?id=35688687"
+    ],
+    [
+      "European Parliament calls for ban on facial recognition",
+      "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/"
     ]
   ],
   [
@@ -101,32 +141,12 @@
   ],
   [
     [
-      "2023-04-24, 10:24:14",
-      "https://news.ycombinator.com/item?id=35685721"
-    ],
-    [
-      "LVMH becomes the first European company to surpass $500B in market value",
-      "https://www.cnbc.com/2023/04/24/lvmh-becomes-the-first-european-company-surpass-500-billion-in-value.html"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 10:18:47",
       "https://news.ycombinator.com/item?id=35685679"
     ],
     [
       "Amazon’s quiet open source revolution",
       "https://www.infoworld.com/article/3694090/amazon-s-quiet-open-source-revolution.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 10:13:19",
-      "https://news.ycombinator.com/item?id=35685635"
-    ],
-    [
-      "Deleting System32\\curl.exe",
-      "https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/"
     ]
   ],
   [
@@ -191,6 +211,16 @@
   ],
   [
     [
+      "2023-04-24, 07:20:29",
+      "https://news.ycombinator.com/item?id=35684585"
+    ],
+    [
+      "Second IC – Homemade 1000 transistor array chip",
+      "http://sam.zeloof.xyz/second-ic/"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 06:55:23",
       "https://news.ycombinator.com/item?id=35684432"
     ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2023-04-24, 03:29:43",
-      "https://news.ycombinator.com/item?id=35683360"
-    ],
-    [
-      "Squawk bots: Can generative AI lead us to understanding animals?",
-      "https://cloud.google.com/blog/transform/can-generative-ai-help-humans-understand-animals-earth-species-project-conservation"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 02:10:28",
       "https://news.ycombinator.com/item?id=35682918"
     ],
@@ -237,26 +257,6 @@
     [
       "The Origin of “Baum’s Loop” (2020)",
       "https://link.springer.com/article/10.1007/s00276-020-02587-4"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 00:54:00",
-      "https://news.ycombinator.com/item?id=35682424"
-    ],
-    [
-      "Scaling Transformer to 1M tokens and beyond with RMT",
-      "https://arxiv.org/abs/2304.11062"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 00:40:47",
-      "https://news.ycombinator.com/item?id=35682331"
-    ],
-    [
-      "RISC on a Chip: David Patterson and Berkeley RISC-I",
-      "https://thechipletter.substack.com/p/risc-on-a-chip-david-patterson-and"
     ]
   ],
   [
