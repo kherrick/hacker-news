@@ -16,6 +16,7 @@
 * [2023-04-24, 15:31:05](https://news.ycombinator.com/item?id=35688878) - [I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
 * [2023-04-24, 15:17:07](https://news.ycombinator.com/item?id=35688687) - [European Parliament calls for ban on facial recognition](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/)
 * [2023-04-24, 14:48:16](https://news.ycombinator.com/item?id=35688320) - [QEMU 8.0.0 – A generic and open source machine emulator and virtualizer](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
+* [2023-04-24, 14:46:59](https://news.ycombinator.com/item?id=35688300) - [Derek Parfit: The Perfectionist at All Souls](https://www.newstatesman.com/culture/books/2023/04/derek-parfit-perfectionist-philosophy-intellectual-oxford)
 * [2023-04-24, 14:41:48](https://news.ycombinator.com/item?id=35688233) - [Quantum Physics Falls Apart Without Imaginary Numbers](https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/)
 * [2023-04-24, 14:08:41](https://news.ycombinator.com/item?id=35687868) - [Tom Lesley has published 40 books in 2023, all with 100% positive reviews](https://www.amazon.com/s?k=%22tom+lesley%22)
 * [2023-04-24, 14:05:32](https://news.ycombinator.com/item?id=35687831) - [Seeing Triple (Annotated)](https://esawebb.org/images/potm2302b/)
