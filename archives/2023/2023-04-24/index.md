@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 21:01:10](https://news.ycombinator.com/item?id=35693229) - [Lancey (YC S22) is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
 * [2023-04-24, 20:34:07](https://news.ycombinator.com/item?id=35692829) - [Gorillaz turn the world into a stage with augmented reality](https://blog.google/products/google-ar-vr/gorillaz-maps-music-video/)
 * [2023-04-24, 20:31:35](https://news.ycombinator.com/item?id=35692790) - [Google Reader Revenue Manager](https://readerrevenue.withgoogle.com/)
 * [2023-04-24, 20:15:17](https://news.ycombinator.com/item?id=35692563) - [The End of the Incandescent Era is Nearing](https://blog.1000bulbs.com/home/the-end-of-the-incandescent-era-is-nearing)
@@ -18,6 +19,7 @@
 * [2023-04-24, 17:51:07](https://news.ycombinator.com/item?id=35690856) - [Neuromorphic learning, working memory, and metaplasticity in nanowire networks](https://www.science.org/doi/10.1126/sciadv.adg3289)
 * [2023-04-24, 17:51:01](https://news.ycombinator.com/item?id=35690853) - [Egypt builds worlds largest man-made river](https://www.constructionweekonline.com/business/egypt-builds-worlds-largest-114km-man-made-river)
 * [2023-04-24, 17:44:42](https://news.ycombinator.com/item?id=35690778) - [Technology of water in ancient Iran from prehistory to the Islamic Golden Age](https://www.nature.com/articles/s41599-023-01617-x)
+* [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse, from hardware to custom OS (2011-2023)](http://rocket.jonh.net)
 * [2023-04-24, 17:31:36](https://news.ycombinator.com/item?id=35690659) - [Nostr (“Notes and Other Stuff Transmitted by Relays.”) – An Introduction](https://wiki.wellorder.net/post/nostr-intro/)
 * [2023-04-24, 17:31:10](https://news.ycombinator.com/item?id=35690656) - [Haiku&#x27;s (Kernel) Condition Variables API: Design and Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
 * [2023-04-24, 17:27:54](https://news.ycombinator.com/item?id=35690613) - [My Search for the Origins of Clothing](https://www.sapiens.org/archaeology/paleolithic-clothing-origins/)
