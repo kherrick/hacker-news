@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-24, 07:58:03](https://news.ycombinator.com/item?id=35684828) - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
+* [2023-04-24, 06:55:23](https://news.ycombinator.com/item?id=35684432) - [Windows 11’s taskbar is finally getting labels and never combine app icons](https://www.theverge.com/2023/4/20/23690960/microsoft-windows-11-taskbar-never-combine-app-icons-labels-features)
 * [2023-04-24, 06:37:24](https://news.ycombinator.com/item?id=35684335) - [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)
 * [2023-04-24, 06:13:30](https://news.ycombinator.com/item?id=35684232) - [An introduction to lockless algorithms (2021)](https://lwn.net/Articles/844224/)
 * [2023-04-24, 05:54:37](https://news.ycombinator.com/item?id=35684125) - [As an AI Language Model](https://twitter.com/d_feldman/status/1649466422018318338)
@@ -22,7 +23,6 @@
 * [2023-04-23, 18:56:51](https://news.ycombinator.com/item?id=35679372) - [YouTube, the jewel of the internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
 * [2023-04-23, 18:16:46](https://news.ycombinator.com/item?id=35678947) - [Gamers 50-Plus Are a Growing Force in the Tech Market](https://www.aarp.org/research/topics/technology/info-2023/2023-gamers-50-plus.html)
 * [2023-04-23, 17:38:08](https://news.ycombinator.com/item?id=35678485) - [Closing in on the “perfect code” (2004)](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
-* [2023-04-23, 17:19:48](https://news.ycombinator.com/item?id=35678269) - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 * [2023-04-23, 17:16:51](https://news.ycombinator.com/item?id=35678238) - [Rye: Flask author&#x27;s new project for Python bootstrapping](https://github.com/mitsuhiko/rye)
 * [2023-04-23, 14:33:24](https://news.ycombinator.com/item?id=35676564) - [Lego breaks ground on first US manufacturing facility](https://www.manufacturingdive.com/news/lego-1b-manufacturing-virginia/647946/)
 * [2023-04-23, 13:38:57](https://news.ycombinator.com/item?id=35676138) - [A social media site for chatbots to talk to each other](https://chirper.ai/)

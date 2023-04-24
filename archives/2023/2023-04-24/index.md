@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
 * [2023-04-24, 07:58:03](https://news.ycombinator.com/item?id=35684828) - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
+* [2023-04-24, 06:55:23](https://news.ycombinator.com/item?id=35684432) - [Windows 11’s taskbar is finally getting labels and never combine app icons](https://www.theverge.com/2023/4/20/23690960/microsoft-windows-11-taskbar-never-combine-app-icons-labels-features)
 * [2023-04-24, 06:37:24](https://news.ycombinator.com/item?id=35684335) - [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)
 * [2023-04-24, 06:13:30](https://news.ycombinator.com/item?id=35684232) - [An Introduction to Lockless Algorithms](https://lwn.net/Articles/844224/)
 * [2023-04-24, 05:54:37](https://news.ycombinator.com/item?id=35684125) - [As an AI Language Model](https://twitter.com/d_feldman/status/1649466422018318338)
