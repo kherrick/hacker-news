@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 16:05:05](https://news.ycombinator.com/item?id=35689381) - [The A.I. business influencer guys must be stopped](https://maxread.substack.com/p/the-ai-business-influencer-guys-must)
+* [2023-04-24, 15:41:55](https://news.ycombinator.com/item?id=35689044) - [Statement on EU-US Cooperation on Turning Public Opinion Against Encryption](https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/)
 * [2023-04-24, 15:38:38](https://news.ycombinator.com/item?id=35689000) - [Fox News Media and Tucker Carlson have agreed to part ways](https://press.foxnews.com/2023/04/fox-news-media-and-tucker-carlson-part-ways)
+* [2023-04-24, 15:32:51](https://news.ycombinator.com/item?id=35688910) - [I built a special PCIe card to test GPUs on the Pi](https://www.jeffgeerling.com/blog/2023/i-built-special-pcie-card-test-gpus-on-pi)
 * [2023-04-24, 15:31:05](https://news.ycombinator.com/item?id=35688878) - [I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
+* [2023-04-24, 15:17:07](https://news.ycombinator.com/item?id=35688687) - [European Parliament calls for ban on facial recognition](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/)
 * [2023-04-24, 14:48:16](https://news.ycombinator.com/item?id=35688320) - [QEMU 8.0.0 – A generic and open source machine emulator and virtualizer](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
 * [2023-04-24, 14:08:41](https://news.ycombinator.com/item?id=35687868) - [Tom Lesley has published 40 books in 2023, all with 100% positive reviews](https://www.amazon.com/s?k=%22tom+lesley%22)
 * [2023-04-24, 14:05:32](https://news.ycombinator.com/item?id=35687831) - [Seeing Triple (Annotated)](https://esawebb.org/images/potm2302b/)
@@ -31,6 +35,7 @@
 * [2023-04-24, 07:58:03](https://news.ycombinator.com/item?id=35684828) - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
 * [2023-04-24, 07:54:20](https://news.ycombinator.com/item?id=35684807) - [No, I don’t want to sign up for your newsletter](https://www.katsnyderux.com/post/no-i-don-t-want-to-sign-up-for-your-newsletter-horrible-uses-of-exit-overlays)
 * [2023-04-24, 07:23:28](https://news.ycombinator.com/item?id=35684599) - [What’s the Point of Tech Conferences?](https://chelseatroy.com/2023/04/21/whats-the-point-of-tech-conferences/)
+* [2023-04-24, 07:20:29](https://news.ycombinator.com/item?id=35684585) - [Second IC – Homemade 1000 transistor array chip](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-24, 06:55:23](https://news.ycombinator.com/item?id=35684432) - [Windows 11’s taskbar is finally getting labels and never combine app icons](https://www.theverge.com/2023/4/20/23690960/microsoft-windows-11-taskbar-never-combine-app-icons-labels-features)
 * [2023-04-24, 06:37:24](https://news.ycombinator.com/item?id=35684335) - [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)
 * [2023-04-24, 06:13:30](https://news.ycombinator.com/item?id=35684232) - [An Introduction to Lockless Algorithms](https://lwn.net/Articles/844224/)
