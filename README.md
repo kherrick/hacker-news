@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-24, 14:48:16](https://news.ycombinator.com/item?id=35688320) - [QEMU 8.0.0 – A generic and open source machine emulator and virtualizer](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
-* [2023-04-24, 14:08:41](https://news.ycombinator.com/item?id=35687868) - [Tom Lesley has published 40 books in 2023, all with 100% positive reviews](https://www.amazon.com/s?k=%22tom+lesley%22)
+* [2023-04-24, 15:38:38](https://news.ycombinator.com/item?id=35689000) - [Fox News Media and Tucker Carlson have agreed to part ways](https://press.foxnews.com/2023/04/fox-news-media-and-tucker-carlson-part-ways)
+* [2023-04-24, 15:31:05](https://news.ycombinator.com/item?id=35688878) - [I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
+* [2023-04-24, 14:48:16](https://news.ycombinator.com/item?id=35688320) - [QEMU 8.0](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
 * [2023-04-24, 14:05:32](https://news.ycombinator.com/item?id=35687831) - [Seeing Triple (Annotated)](https://esawebb.org/images/potm2302b/)
 * [2023-04-24, 14:04:31](https://news.ycombinator.com/item?id=35687813) - [Our Sun Was Born in a Stellar Family Far, Far from Here](https://www.scientificamerican.com/article/our-sun-was-born-in-a-stellar-family-far-far-from-here/)
 * [2023-04-24, 14:00:18](https://news.ycombinator.com/item?id=35687752) - [My remaining 13M minutes: Productivity, ambition, being realistic in older age](https://www.theguardian.com/science/2023/apr/22/my-remaining-13-million-minutes-productivity-ambition-and-being-realistic-in-older-age)
@@ -25,7 +26,6 @@
 * [2023-04-24, 02:10:28](https://news.ycombinator.com/item?id=35682918) - [Inferno-OS: distributed operating system where everything is a file](https://github.com/inferno-os/inferno-os)
 * [2023-04-24, 01:26:35](https://news.ycombinator.com/item?id=35682655) - [The Origin of “Baum’s Loop” (2020)](https://link.springer.com/article/10.1007/s00276-020-02587-4)
 * [2023-04-24, 00:54:00](https://news.ycombinator.com/item?id=35682424) - [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)
-* [2023-04-24, 00:40:47](https://news.ycombinator.com/item?id=35682331) - [RISC on a Chip: David Patterson and Berkeley RISC-I](https://thechipletter.substack.com/p/risc-on-a-chip-david-patterson-and)
 * [2023-04-23, 22:49:13](https://news.ycombinator.com/item?id=35681498) - [Peruvian archaeologists unearth 500-year-old Inca ceremonial bath](https://www.reuters.com/lifestyle/peruvian-archaeologists-unearth-500-year-old-inca-ceremonial-bath-2023-04-14/)
 * [2023-04-23, 22:46:09](https://news.ycombinator.com/item?id=35681466) - [Topological Deep Learning: A Survey on Topological Neural Networks](https://arxiv.org/abs/2304.10031)
 * [2023-04-23, 20:20:26](https://news.ycombinator.com/item?id=35680129) - [How Allan Gurganus Became a Writer](https://www.newyorker.com/culture/the-new-yorker-interview/how-allan-gurganus-became-a-writer)
