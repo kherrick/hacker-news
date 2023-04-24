@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 13:19:01](https://news.ycombinator.com/item?id=35687292) - [Improbably Right](https://mlajtos.mu/posts/improbably-right)
 * [2023-04-24, 13:04:07](https://news.ycombinator.com/item?id=35687157) - [The Open Source Ruby on Rails SaaS Framework](https://bullettrain.co/)
 * [2023-04-24, 11:52:22](https://news.ycombinator.com/item?id=35686450) - [UK Threatens End-to-End Encryption](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
 * [2023-04-24, 11:16:24](https://news.ycombinator.com/item?id=35686121) - [Remote Work Brings Hidden Penalty for Young Professionals, Study Says](https://www.nytimes.com/2023/04/24/business/remote-work-feedback.html)
