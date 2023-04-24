@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 17:44:42](https://news.ycombinator.com/item?id=35690778) - [Technology of water in ancient Iran from prehistory to the Islamic Golden Age](https://www.nature.com/articles/s41599-023-01617-x)
 * [2023-04-24, 17:31:10](https://news.ycombinator.com/item?id=35690656) - [Haiku&#x27;s (Kernel) Condition Variables API: Design and Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
 * [2023-04-24, 17:27:54](https://news.ycombinator.com/item?id=35690613) - [My Search for the Origins of Clothing](https://www.sapiens.org/archaeology/paleolithic-clothing-origins/)
 * [2023-04-24, 17:27:40](https://news.ycombinator.com/item?id=35690610) - [The Interstellar Style of Sun Ra (2016)](https://pitchfork.com/features/from-the-pitchfork-review/9866-the-interstellar-style-of-sun-ra/)
