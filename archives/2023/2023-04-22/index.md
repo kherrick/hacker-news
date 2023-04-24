@@ -14,6 +14,7 @@
 * [2023-04-22, 20:32:55](https://news.ycombinator.com/item?id=35670646) - [Effective Immediately: A central hub for people who&#x27;ve been recently laid off](https://github.com/Effective-Immediately/effective-immediately)
 * [2023-04-22, 20:05:39](https://news.ycombinator.com/item?id=35670422) - [System D](https://en.wikipedia.org/wiki/System_D)
 * [2023-04-22, 19:52:42](https://news.ycombinator.com/item?id=35670325) - [I just learned about HTML redirects](https://apitman.com/18/#html-redirects)
+* [2023-04-22, 19:28:22](https://news.ycombinator.com/item?id=35670129) - [The Four Hobbies, and Apparent Expertise](https://brooker.co.za/blog/2023/04/20/hobbies.html)
 * [2023-04-22, 19:11:59](https://news.ycombinator.com/item?id=35669968) - [iPhone Doomed to Failure (2008)](https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html)
 * [2023-04-22, 19:09:18](https://news.ycombinator.com/item?id=35669945) - [US Presidential Hopefuls Rally Against a Digital Dollar Ahead of 2024 Elections](https://www.bloomberg.com/news/articles/2023-04-22/us-presidential-hopefuls-rally-against-us-cbdc-plans-ahead-of-2024-elections)
 * [2023-04-22, 18:57:53](https://news.ycombinator.com/item?id=35669817) - [JSON vs. XML with Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/)
