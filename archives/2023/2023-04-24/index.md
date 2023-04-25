@@ -90,6 +90,7 @@
 * [2023-04-24, 06:55:23](https://news.ycombinator.com/item?id=35684432) - [Windows 11’s taskbar is finally getting labels and never combine app icons](https://www.theverge.com/2023/4/20/23690960/microsoft-windows-11-taskbar-never-combine-app-icons-labels-features)
 * [2023-04-24, 06:37:24](https://news.ycombinator.com/item?id=35684335) - [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)
 * [2023-04-24, 06:13:30](https://news.ycombinator.com/item?id=35684232) - [An Introduction to Lockless Algorithms](https://lwn.net/Articles/844224/)
+* [2023-04-24, 06:11:30](https://news.ycombinator.com/item?id=35684220) - [Ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 * [2023-04-24, 05:54:37](https://news.ycombinator.com/item?id=35684125) - [As an AI Language Model](https://twitter.com/d_feldman/status/1649466422018318338)
 * [2023-04-24, 03:49:13](https://news.ycombinator.com/item?id=35683465) - [The Banality of Floods (and Droughts)](https://californiawaterblog.com/2023/04/22/the-banality-of-floods-and-droughts/)
 * [2023-04-24, 03:29:43](https://news.ycombinator.com/item?id=35683360) - [Squawk bots: Can generative AI lead us to understanding animals?](https://cloud.google.com/blog/transform/can-generative-ai-help-humans-understand-animals-earth-species-project-conservation)
