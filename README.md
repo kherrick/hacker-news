@@ -17,6 +17,7 @@
 * [2023-04-25, 15:09:12](https://news.ycombinator.com/item?id=35701534) - [QuiLLMan: Voice chat with Vicuna-13B](https://github.com/modal-labs/quillman)
 * [2023-04-25, 14:38:28](https://news.ycombinator.com/item?id=35701116) - [The Vowel Space [video]](https://www.youtube.com/watch?v=FdldD0-kEcc)
 * [2023-04-25, 14:27:08](https://news.ycombinator.com/item?id=35700963) - [Eww: ElKowars wacky widgets](https://github.com/elkowar/eww)
+* [2023-04-25, 14:23:35](https://news.ycombinator.com/item?id=35700918) - [Bed Bath and Beyond files for bankruptcy](https://www.nytimes.com/2023/04/23/business/bed-bath-beyond-bankruptcy.html)
 * [2023-04-25, 14:20:52](https://news.ycombinator.com/item?id=35700881) - [Use of antibiotics in farming ‘endangering human immune system’](https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system)
 * [2023-04-25, 14:11:46](https://news.ycombinator.com/item?id=35700751) - [IKEA Redesigns Its Bestsellers](https://www.wsj.com/articles/ikea-furniture-inflation-billy-c2f835bc)
 * [2023-04-25, 12:44:36](https://news.ycombinator.com/item?id=35699697) - [My thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
@@ -29,7 +30,6 @@
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 17:29:01](https://news.ycombinator.com/item?id=35690631) - [A thief who stole 106 rare clocks](https://www.smithsonianmag.com/history/the-time-thief-who-stole-106-rare-clocks-in-a-daring-heist-180981979/)
 * [2023-04-24, 07:54:21](https://news.ycombinator.com/item?id=35684808) - [Heavy particles don’t explain gravitational lensing oddities](https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/)
-* [2023-04-22, 16:06:06](https://news.ycombinator.com/item?id=35667941) - [Atoms](https://bigthink.com/starts-with-a-bang/atoms-greatest-miracle/)
 
 ## [Archives](archives/index.md)
 
