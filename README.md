@@ -3,7 +3,6 @@
 * [2023-04-25, 02:54:06](https://news.ycombinator.com/item?id=35696041) - [Apple Pay’s long road to paying off is getting shorter](https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75)
 * [2023-04-25, 01:11:49](https://news.ycombinator.com/item?id=35695383) - [GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
 * [2023-04-25, 00:34:32](https://news.ycombinator.com/item?id=35695127) - [Deming Paradox: Operationally rigorous companies aren&#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
-* [2023-04-24, 23:53:32](https://news.ycombinator.com/item?id=35694810) - [Smokeless_UMAF: Access AMD hidden BIOS settings](https://github.com/DavidS95/Smokeless_UMAF)
 * [2023-04-24, 23:22:59](https://news.ycombinator.com/item?id=35694594) - [A mutual aid auto shop in Alabama](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
 * [2023-04-24, 23:18:15](https://news.ycombinator.com/item?id=35694553) - [ONNX Runtime merges WebGPU backend](https://github.com/microsoft/onnxruntime/pull/14579)
 * [2023-04-24, 21:09:57](https://news.ycombinator.com/item?id=35693306) - [Palo Alto Research Center (PARC) to join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
@@ -28,6 +27,7 @@
 * [2023-04-24, 07:20:29](https://news.ycombinator.com/item?id=35684585) - [Second IC – Homemade 1000 transistor array chip (2021)](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-24, 06:11:30](https://news.ycombinator.com/item?id=35684220) - [Ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 * [2023-04-24, 03:12:11](https://news.ycombinator.com/item?id=35683265) - [Capturing the Flag with GPT4](https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/)
+* [2023-04-23, 15:02:26](https://news.ycombinator.com/item?id=35676825) - [Piper: A proposal for a graphy pipe-based build system](https://mattsanetra.uk/blog/graph-build-proposal/)
 * [2023-04-23, 10:56:58](https://news.ycombinator.com/item?id=35675159) - [I Wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost](https://gopiandcode.uk/logs/log-writing-activitypub.html)
 * [2023-04-22, 19:28:22](https://news.ycombinator.com/item?id=35670129) - [The Four Hobbies, and Apparent Expertise](https://brooker.co.za/blog/2023/04/20/hobbies.html)
 
