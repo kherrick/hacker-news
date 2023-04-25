@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 10:48:04](https://news.ycombinator.com/item?id=35698702) - [The Nature of Code (Book)](https://natureofcode.com/)
 * [2023-04-25, 10:15:49](https://news.ycombinator.com/item?id=35698521) - [People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
 * [2023-04-25, 09:38:14](https://news.ycombinator.com/item?id=35698282) - [A command-line tool to easily kill processes running on a specified port](https://github.com/jkfran/killport)
 * [2023-04-25, 09:08:09](https://news.ycombinator.com/item?id=35698112) - [Electricity from Space: The 1970s DOE&#x2F;NASA Solar Power Satellite Studies](http://spaceflighthistory.blogspot.com/2016/12/energy-from-space-department-of.html)
