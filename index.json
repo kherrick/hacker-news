@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-04-25, 16:30:20",
+      "https://news.ycombinator.com/item?id=35702757"
+    ],
+    [
+      "Clarity Reader: LLM powered depth-first reading for complex documents",
+      "https://github.com/1rgs/clarity-reader"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 16:08:36",
       "https://news.ycombinator.com/item?id=35702407"
     ],
     [
       "ResearchGPT: Automated Data Analysis and Interpretation",
       "https://phasellm.com/researchgpt"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 16:08:17",
+      "https://news.ycombinator.com/item?id=35702403"
+    ],
+    [
+      "Stable Diffusion: What Does a Technical Author Look Like?",
+      "https://martinfowler.com/articles/2023-tech-author-portrait.html"
     ]
   ],
   [
@@ -121,6 +141,16 @@
   ],
   [
     [
+      "2023-04-25, 13:22:06",
+      "https://news.ycombinator.com/item?id=35700080"
+    ],
+    [
+      "Logic Noise: Sweet, Sweet Oscillator Sounds (2015)",
+      "https://hackaday.com/2015/02/04/logic-noise-sweet-sweet-oscillator-sounds/"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 13:11:50",
       "https://news.ycombinator.com/item?id=35699962"
     ],
@@ -221,32 +251,12 @@
   ],
   [
     [
-      "2023-04-24, 19:19:58",
-      "https://news.ycombinator.com/item?id=35691910"
-    ],
-    [
-      "The problems with live coding interviews",
-      "https://garrettdimon.com/journal/posts/live-coding-interviews"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 18:36:29",
       "https://news.ycombinator.com/item?id=35691381"
     ],
     [
       "Open Questions",
       "https://gwern.net/question"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 17:41:26",
-      "https://news.ycombinator.com/item?id=35690753"
-    ],
-    [
-      "Show HN: Homemade rocketship treehouse – hardware to custom OS",
-      "http://rocket.jonh.net"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ways to shoot yourself in the foot with PostgreSQL",
       "https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 03:12:11",
-      "https://news.ycombinator.com/item?id=35683265"
-    ],
-    [
-      "Capturing the Flag with GPT-4",
-      "https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/"
     ]
   ]
 ]
