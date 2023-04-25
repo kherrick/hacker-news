@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-04-25, 15:10:56",
+      "https://news.ycombinator.com/item?id=35701572"
+    ],
+    [
+      "A Completely Non-Technical Explanation of Deep Learning",
+      "https://www.parand.com/a-completely-non-technical-explanation-of-ai.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 15:09:12",
+      "https://news.ycombinator.com/item?id=35701534"
+    ],
+    [
+      "Serverless voice chat with Vicuna-13B",
+      "https://github.com/modal-labs/quillman"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 14:38:28",
+      "https://news.ycombinator.com/item?id=35701116"
+    ],
+    [
+      "The Vowel Space",
+      "https://www.youtube.com/watch?v=FdldD0-kEcc"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 14:28:09",
       "https://news.ycombinator.com/item?id=35700983"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-04-25, 11:09:48",
-      "https://news.ycombinator.com/item?id=35698834"
-    ],
-    [
-      "Aspiring partners accuse Apple of copying their ideas",
-      "https://www.wsj.com/articles/apple-watch-patents-5b52cda0"
-    ]
-  ],
-  [
-    [
       "2023-04-25, 10:48:04",
       "https://news.ycombinator.com/item?id=35698702"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2023-04-25, 07:48:05",
-      "https://news.ycombinator.com/item?id=35697674"
-    ],
-    [
-      "Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?",
-      "https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html"
-    ]
-  ],
-  [
-    [
       "2023-04-25, 05:18:45",
       "https://news.ycombinator.com/item?id=35696776"
     ],
     [
       "Deep Neural Networks from Scratch in Zig",
       "https://monadmonkey.com/dnns-from-scratch-in-zig"
-    ]
-  ],
-  [
-    [
-      "2023-04-25, 01:11:49",
-      "https://news.ycombinator.com/item?id=35695383"
-    ],
-    [
-      "GCC 13 and the State of Gccrs",
-      "https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html"
     ]
   ],
   [
