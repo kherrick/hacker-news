@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-04-25, 15:26:01",
-      "https://news.ycombinator.com/item?id=35701790"
-    ],
-    [
-      "Internet is wholesome: MVCC edition",
-      "https://avi.im/blag/2023/internet-mvcc/"
-    ]
-  ],
-  [
-    [
       "2023-04-25, 15:13:56",
       "https://news.ycombinator.com/item?id=35701618"
     ],
@@ -237,6 +227,16 @@
     [
       "People who use Notion to plan their whole lives",
       "https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 09:38:14",
+      "https://news.ycombinator.com/item?id=35698282"
+    ],
+    [
+      "Show HN: Killport – CLI tool to kill processes running on a specified port",
+      "https://github.com/jkfran/killport"
     ]
   ],
   [
