@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 07:21:41](https://news.ycombinator.com/item?id=35697501) - [AI Hype Is Real](https://news.ycombinator.com/item?id=35697501)
 * [2023-04-25, 05:41:36](https://news.ycombinator.com/item?id=35696889) - [Verified accounts are now prioritized](https://twitter.com/elonmusk/status/1650731557164818437)
 * [2023-04-25, 05:21:02](https://news.ycombinator.com/item?id=35696787) - [Thinking about our passive exposure to IPv6 issues](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure)
 * [2023-04-25, 05:18:45](https://news.ycombinator.com/item?id=35696776) - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
