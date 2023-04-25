@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-25, 07:21:41](https://news.ycombinator.com/item?id=35697501) - [AI Hype Is Real](https://news.ycombinator.com/item?id=35697501)
 * [2023-04-25, 05:21:02](https://news.ycombinator.com/item?id=35696787) - [Thinking about our passive exposure to IPv6 issues](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure)
 * [2023-04-25, 05:18:45](https://news.ycombinator.com/item?id=35696776) - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 * [2023-04-25, 02:54:06](https://news.ycombinator.com/item?id=35696041) - [Apple Pay’s long road to paying off is getting shorter](https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75)
@@ -11,6 +10,7 @@
 * [2023-04-24, 21:09:57](https://news.ycombinator.com/item?id=35693306) - [Palo Alto Research Center (PARC) to join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
 * [2023-04-24, 21:01:10](https://news.ycombinator.com/item?id=35693229) - [Lancey (YC S22) is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
 * [2023-04-24, 20:56:06](https://news.ycombinator.com/item?id=35693160) - [Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
+* [2023-04-24, 19:49:12](https://news.ycombinator.com/item?id=35692242) - [Digital addiction: Focusing on the cure, not the disease](https://louison.substack.com/p/digital-addiction-focusing-on-the)
 * [2023-04-24, 19:08:05](https://news.ycombinator.com/item?id=35691771) - [Apple wins antitrust court battle with Epic Games, appeals court rules](https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/)
 * [2023-04-24, 18:43:27](https://news.ycombinator.com/item?id=35691459) - [Local License Key Verification](https://matradomski.com/posts/local_license_key_verification_theory/)
 * [2023-04-24, 17:51:01](https://news.ycombinator.com/item?id=35690853) - [Egypt builds worlds largest man-made river](https://www.constructionweekonline.com/business/egypt-builds-worlds-largest-114km-man-made-river)
