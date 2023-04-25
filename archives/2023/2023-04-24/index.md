@@ -22,6 +22,7 @@
 * [2023-04-24, 20:15:17](https://news.ycombinator.com/item?id=35692563) - [The End of the Incandescent Era is Nearing](https://blog.1000bulbs.com/home/the-end-of-the-incandescent-era-is-nearing)
 * [2023-04-24, 20:08:52](https://news.ycombinator.com/item?id=35692476) - [OpenAI has applied for “GPT” trademark with USPTO](https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4802:jtelqq.2.16)
 * [2023-04-24, 19:49:12](https://news.ycombinator.com/item?id=35692242) - [Digital Addiction: Focusing on the Cure, Not the Disease](https://louison.substack.com/p/digital-addiction-focusing-on-the)
+* [2023-04-24, 19:19:58](https://news.ycombinator.com/item?id=35691910) - [The problems with live coding interviews](https://garrettdimon.com/journal/posts/live-coding-interviews)
 * [2023-04-24, 19:15:33](https://news.ycombinator.com/item?id=35691854) - [Harvard: The Effects of Noise on Health](https://hms.harvard.edu/magazine/viral-world/effects-noise-health)
 * [2023-04-24, 19:10:25](https://news.ycombinator.com/item?id=35691803) - [Show HN: Featurevisor – Git based feature flags and experiments management](https://featurevisor.com/)
 * [2023-04-24, 19:08:05](https://news.ycombinator.com/item?id=35691771) - [Apple wins the antitrust court battle with Epic Games, court rules](https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/)

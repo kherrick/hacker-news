@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-25, 15:25:51](https://news.ycombinator.com/item?id=35701785) - [The EU Suppressed a 300-Page Study That Found Piracy Doesn’t Harm Sales](https://gizmodo.com/the-eu-suppressed-a-300-page-study-that-found-piracy-do-1818629537)
 * [2023-04-25, 15:10:56](https://news.ycombinator.com/item?id=35701572) - [A Completely Non-Technical Explanation of Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
 * [2023-04-25, 15:09:12](https://news.ycombinator.com/item?id=35701534) - [Serverless voice chat with Vicuna-13B](https://github.com/modal-labs/quillman)
 * [2023-04-25, 14:38:28](https://news.ycombinator.com/item?id=35701116) - [The Vowel Space](https://www.youtube.com/watch?v=FdldD0-kEcc)
@@ -22,14 +23,13 @@
 * [2023-04-25, 09:08:09](https://news.ycombinator.com/item?id=35698112) - [Electricity from Space: The 1970s DOE&#x2F;NASA Solar Power Satellite Studies](http://spaceflighthistory.blogspot.com/2016/12/energy-from-space-department-of.html)
 * [2023-04-25, 05:18:45](https://news.ycombinator.com/item?id=35696776) - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 * [2023-04-25, 00:34:32](https://news.ycombinator.com/item?id=35695127) - [Deming Paradox: Operationally rigorous companies aren&#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
+* [2023-04-24, 19:19:58](https://news.ycombinator.com/item?id=35691910) - [The problems with live coding interviews](https://garrettdimon.com/journal/posts/live-coding-interviews)
 * [2023-04-24, 18:36:29](https://news.ycombinator.com/item?id=35691381) - [Open Questions](https://gwern.net/question)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
-* [2023-04-24, 17:35:58](https://news.ycombinator.com/item?id=35690707) - [Bean leaves don’t let the bedbugs bite by using tiny, impaling spikes (2013)](https://www.smithsonianmag.com/science-nature/bean-leaves-dont-let-the-bedbugs-bite-by-using-tiny-impaling-spikes-18427074/)
 * [2023-04-24, 14:41:48](https://news.ycombinator.com/item?id=35688233) - [Quantum physics falls apart without imaginary numbers](https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/)
 * [2023-04-24, 14:40:54](https://news.ycombinator.com/item?id=35688221) - [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/hello_world.html)
 * [2023-04-24, 07:54:21](https://news.ycombinator.com/item?id=35684808) - [Heavy particles don’t explain gravitational lensing oddities](https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/)
 * [2023-04-24, 06:11:30](https://news.ycombinator.com/item?id=35684220) - [Ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
-* [2023-04-24, 03:12:11](https://news.ycombinator.com/item?id=35683265) - [Capturing the Flag with GPT-4](https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/)
 
 ## [Archives](archives/index.md)
 
