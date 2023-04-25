@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 19:31:05](https://news.ycombinator.com/item?id=35705469) - [FSF Call on the IRS to provide libre tax-filing software](https://www.fsf.org/blogs/community/call-on-the-irs-to-provide-libre-tax-filing-software)
 * [2023-04-25, 19:05:25](https://news.ycombinator.com/item?id=35705133) - [Sandy Munro Talks Battery Battles, Calls Solid State “Kiss of Death” for Gas](https://www.sae.org/blog/sandy-munro-live-sae-wcx)
 * [2023-04-25, 18:27:16](https://news.ycombinator.com/item?id=35704626) - [What Rosalind Franklin truly contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
 * [2023-04-25, 18:20:30](https://news.ycombinator.com/item?id=35704516) - [Explaining tech&#x27;s notion of talent scarcity](https://nadia.xyz/top-talent)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-25, 19:31:05](https://news.ycombinator.com/item?id=35705469) - [FSF Call on the IRS to provide libre tax-filing software](https://www.fsf.org/blogs/community/call-on-the-irs-to-provide-libre-tax-filing-software)
 * [2023-04-25, 19:05:25](https://news.ycombinator.com/item?id=35705133) - [Sandy Munro Talks Battery Battles, Calls Solid State “Kiss of Death” for Gas](https://www.sae.org/blog/sandy-munro-live-sae-wcx)
 * [2023-04-25, 18:27:16](https://news.ycombinator.com/item?id=35704626) - [What Rosalind Franklin truly contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
 * [2023-04-25, 17:38:01](https://news.ycombinator.com/item?id=35703906) - [Could we stop Yellowstone from erupting with a giant geothermal power plant?](https://constructionphysics.substack.com/p/could-we-stop-yellowstone-from-erupting)
@@ -9,7 +10,6 @@
 * [2023-04-25, 17:02:24](https://news.ycombinator.com/item?id=35703367) - [Tighter bounds on the expressivity of transformer encoders](https://arxiv.org/abs/2301.10743)
 * [2023-04-25, 16:45:41](https://news.ycombinator.com/item?id=35703057) - [Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
 * [2023-04-25, 16:13:29](https://news.ycombinator.com/item?id=35702490) - [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
-* [2023-04-25, 16:08:36](https://news.ycombinator.com/item?id=35702407) - [ResearchGPT: Automated Data Analysis and Interpretation](https://phasellm.com/researchgpt)
 * [2023-04-25, 16:06:15](https://news.ycombinator.com/item?id=35702369) - [A heat shield for the most important ice on earth](https://www.newyorker.com/news/the-control-of-nature/a-heat-shield-for-the-most-important-ice-on-earth)
 * [2023-04-25, 15:26:01](https://news.ycombinator.com/item?id=35701790) - [Internet is wholesome: MVCC edition](https://avi.im/blag/2023/internet-mvcc/)
 * [2023-04-25, 15:13:56](https://news.ycombinator.com/item?id=35701618) - [Harry Belafonte has died](https://www.theguardian.com/music/2023/apr/25/harry-belafonte-singer-dies-actor-singer-activist)
