@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 22:23:31](https://news.ycombinator.com/item?id=35707542) - [Compressing Hegel (2020)](https://wittgenfine.substack.com/p/compressing-hegel)
+* [2023-04-25, 22:07:47](https://news.ycombinator.com/item?id=35707372) - [Disney is shrinking FiveThirtyEight and Nate Silver (and his models) are leaving](https://www.niemanlab.org/2023/04/disney-is-shrinking-fivethirtyeight-and-nate-silver-and-his-models-are-leaving/)
+* [2023-04-25, 21:21:32](https://news.ycombinator.com/item?id=35706918) - [Show HN: Ordently – Consciously plan your day and your life](https://www.ordently.com)
 * [2023-04-25, 21:11:14](https://news.ycombinator.com/item?id=35706858) - [NitroKey Disappoints Me](https://blog.brixit.nl/nitrokey-dissapoints-me/)
 * [2023-04-25, 21:02:02](https://news.ycombinator.com/item?id=35706760) - [Aptible (YC S14) is hiring a security engineer and a head of product](https://news.ycombinator.com/item?id=35706760)
 * [2023-04-25, 20:55:37](https://news.ycombinator.com/item?id=35706687) - [Debugging a Mixed Python and C Language Stack](https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/)
