@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-25, 05:21:02](https://news.ycombinator.com/item?id=35696787) - [Thinking about our passive exposure to IPv6 issues](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure)
 * [2023-04-25, 05:18:45](https://news.ycombinator.com/item?id=35696776) - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 * [2023-04-25, 02:54:06](https://news.ycombinator.com/item?id=35696041) - [Apple Pay’s long road to paying off is getting shorter](https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75)
 * [2023-04-25, 01:11:49](https://news.ycombinator.com/item?id=35695383) - [GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
@@ -19,6 +18,7 @@
 * [2023-04-24, 17:35:58](https://news.ycombinator.com/item?id=35690707) - [Bean leaves don’t let the bedbugs bite by using tiny, impaling spikes](https://www.smithsonianmag.com/science-nature/bean-leaves-dont-let-the-bedbugs-bite-by-using-tiny-impaling-spikes-18427074/)
 * [2023-04-24, 17:31:36](https://news.ycombinator.com/item?id=35690659) - [Nostr (“Notes and Other Stuff Transmitted by Relays”) – An Introduction](https://wiki.wellorder.net/post/nostr-intro/)
 * [2023-04-24, 17:31:10](https://news.ycombinator.com/item?id=35690656) - [Haiku&#x27;s (Kernel) Condition Variables API: Design and Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
+* [2023-04-24, 17:27:54](https://news.ycombinator.com/item?id=35690613) - [My Search for the Origins of Clothing](https://www.sapiens.org/archaeology/paleolithic-clothing-origins/)
 * [2023-04-24, 17:27:40](https://news.ycombinator.com/item?id=35690610) - [The Interstellar Style of Sun Ra (2016)](https://pitchfork.com/features/from-the-pitchfork-review/9866-the-interstellar-style-of-sun-ra/)
 * [2023-04-24, 17:24:26](https://news.ycombinator.com/item?id=35690576) - [Ox](https://sesquiotic.com/2023/04/20/ox/)
 * [2023-04-24, 17:13:27](https://news.ycombinator.com/item?id=35690421) - [The Great Electrician Shortage](https://www.newyorker.com/news/dept-of-energy/the-great-electrician-shortage)
