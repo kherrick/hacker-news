@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-04-25, 13:00:43",
+      "https://news.ycombinator.com/item?id=35699855"
+    ],
+    [
+      "The dark forest and the cozy web",
+      "https://maggieappleton.com/cozy-web"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 12:44:36",
       "https://news.ycombinator.com/item?id=35699697"
     ],
@@ -101,26 +111,6 @@
   ],
   [
     [
-      "2023-04-25, 08:21:09",
-      "https://news.ycombinator.com/item?id=35697869"
-    ],
-    [
-      "Strlcpy and Strlcat – Consistent, Safe, String Copy and Concatenation (1999) [pdf]",
-      "https://www.openbsd.org/papers/strlcpy-paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-04-25, 07:48:05",
-      "https://news.ycombinator.com/item?id=35697674"
-    ],
-    [
-      "Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?",
-      "https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html"
-    ]
-  ],
-  [
-    [
       "2023-04-25, 05:18:45",
       "https://news.ycombinator.com/item?id=35696776"
     ],
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=35690707"
     ],
     [
-      "Bean leaves don’t let the bedbugs bite by using tiny, impaling spikes",
+      "Bean leaves don’t let the bedbugs bite by using tiny, impaling spikes (2013)",
       "https://www.smithsonianmag.com/science-nature/bean-leaves-dont-let-the-bedbugs-bite-by-using-tiny-impaling-spikes-18427074/"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Heavy particles don’t explain gravitational lensing oddities",
       "https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 07:37:30",
+      "https://news.ycombinator.com/item?id=35684709"
+    ],
+    [
+      "Are pull requests bad because they originate from open-source development?",
+      "https://blog.ploeh.dk/2023/04/24/are-pull-requests-bad-because-they-originate-from-open-source-development/"
     ]
   ],
   [
