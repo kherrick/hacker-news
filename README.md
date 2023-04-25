@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-25, 05:41:36](https://news.ycombinator.com/item?id=35696889) - [Verified accounts are now prioritized](https://twitter.com/elonmusk/status/1650731557164818437)
 * [2023-04-25, 02:54:06](https://news.ycombinator.com/item?id=35696041) - [Apple Pay’s long road to paying off is getting shorter](https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75)
 * [2023-04-25, 01:11:49](https://news.ycombinator.com/item?id=35695383) - [GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
 * [2023-04-25, 00:34:32](https://news.ycombinator.com/item?id=35695127) - [Deming Paradox: Operationally rigorous companies aren&#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
@@ -24,7 +25,6 @@
 * [2023-04-24, 16:24:57](https://news.ycombinator.com/item?id=35689706) - [A WiFi color eInk picture frame](https://spritesmods.com/?art=wifipicframe&f=rss)
 * [2023-04-24, 16:18:03](https://news.ycombinator.com/item?id=35689596) - [Snapchat sees spike in 1-star reviews as users pan the ‘My AI’ feature](https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/)
 * [2023-04-24, 09:48:11](https://news.ycombinator.com/item?id=35685497) - [LAION, a high school teacher’s free image database, powers AI unicorns](https://www.bloomberg.com/news/features/2023-04-24/a-high-school-teacher-s-free-image-database-powers-ai-unicorns)
-* [2023-04-24, 07:20:29](https://news.ycombinator.com/item?id=35684585) - [Second IC – Homemade 1000 transistor array chip (2021)](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-24, 06:11:30](https://news.ycombinator.com/item?id=35684220) - [Ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 * [2023-04-24, 03:12:11](https://news.ycombinator.com/item?id=35683265) - [Capturing the Flag with GPT4](https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/)
 * [2023-04-23, 15:02:26](https://news.ycombinator.com/item?id=35676825) - [Piper: A proposal for a graphy pipe-based build system](https://mattsanetra.uk/blog/graph-build-proposal/)
