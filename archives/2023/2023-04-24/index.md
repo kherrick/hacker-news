@@ -39,6 +39,7 @@
 * [2023-04-24, 17:35:58](https://news.ycombinator.com/item?id=35690707) - [Bean leaves don’t let the bedbugs bite by using tiny, impaling spikes](https://www.smithsonianmag.com/science-nature/bean-leaves-dont-let-the-bedbugs-bite-by-using-tiny-impaling-spikes-18427074/)
 * [2023-04-24, 17:31:36](https://news.ycombinator.com/item?id=35690659) - [Nostr (“Notes and Other Stuff Transmitted by Relays.”) – An Introduction](https://wiki.wellorder.net/post/nostr-intro/)
 * [2023-04-24, 17:31:10](https://news.ycombinator.com/item?id=35690656) - [Haiku&#x27;s (Kernel) Condition Variables API: Design and Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
+* [2023-04-24, 17:29:01](https://news.ycombinator.com/item?id=35690631) - [A thief who stole 106 rare clocks](https://www.smithsonianmag.com/history/the-time-thief-who-stole-106-rare-clocks-in-a-daring-heist-180981979/)
 * [2023-04-24, 17:28:22](https://news.ycombinator.com/item?id=35690622) - [Is it possible to guide safely on Everest?](https://www.outsideonline.com/adventure-travel/destinations/asia/what-pros-know-complete-conversation/)
 * [2023-04-24, 17:27:54](https://news.ycombinator.com/item?id=35690613) - [My Search for the Origins of Clothing](https://www.sapiens.org/archaeology/paleolithic-clothing-origins/)
 * [2023-04-24, 17:27:40](https://news.ycombinator.com/item?id=35690610) - [The Interstellar Style of Sun Ra (2016)](https://pitchfork.com/features/from-the-pitchfork-review/9866-the-interstellar-style-of-sun-ra/)
