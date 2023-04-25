@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 16:08:36](https://news.ycombinator.com/item?id=35702407) - [ResearchGPT: Automated Data Analysis and Interpretation](https://phasellm.com/researchgpt)
+* [2023-04-25, 15:54:00](https://news.ycombinator.com/item?id=35702201) - [Shell admits 1.5C climate goal means immediate end to fossil fuel growth](https://www.resilience.org/stories/2023-04-24/shell-admits-1-5c-climate-goal-means-immediate-end-to-fossil-fuel-growth/)
+* [2023-04-25, 15:26:01](https://news.ycombinator.com/item?id=35701790) - [Internet is wholesome: MVCC edition](https://avi.im/blag/2023/internet-mvcc/)
 * [2023-04-25, 15:25:51](https://news.ycombinator.com/item?id=35701785) - [The EU Suppressed a 300-Page Study That Found Piracy Doesn’t Harm Sales](https://gizmodo.com/the-eu-suppressed-a-300-page-study-that-found-piracy-do-1818629537)
 * [2023-04-25, 15:13:56](https://news.ycombinator.com/item?id=35701618) - [Harry Belafonte, singer, actor and tireless activist, dies aged 96](https://www.theguardian.com/music/2023/apr/25/harry-belafonte-singer-dies-actor-singer-activist)
 * [2023-04-25, 15:10:56](https://news.ycombinator.com/item?id=35701572) - [A Completely Non-Technical Explanation of Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
