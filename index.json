@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-25, 05:21:02",
+      "https://news.ycombinator.com/item?id=35696787"
+    ],
+    [
+      "Thinking about our passive exposure to IPv6 issues",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 05:18:45",
       "https://news.ycombinator.com/item?id=35696776"
     ],
@@ -37,6 +47,16 @@
     [
       "Deming Paradox: Operationally rigorous companies aren&#x27;t nice places to work",
       "https://commoncog.com/deming-paradox-operational-rigour/"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 23:53:32",
+      "https://news.ycombinator.com/item?id=35694810"
+    ],
+    [
+      "Smokeless_UMAF: Access AMD hidden BIOS settings",
+      "https://github.com/DavidS95/Smokeless_UMAF"
     ]
   ],
   [
@@ -97,6 +117,16 @@
     [
       "Apple wins antitrust court battle with Epic Games, appeals court rules",
       "https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 18:43:27",
+      "https://news.ycombinator.com/item?id=35691459"
+    ],
+    [
+      "Local License Key Verification",
+      "https://matradomski.com/posts/local_license_key_verification_theory/"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2023-04-24, 16:24:57",
-      "https://news.ycombinator.com/item?id=35689706"
-    ],
-    [
-      "A WiFi color eInk picture frame",
-      "https://spritesmods.com/?art=wifipicframe&f=rss"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 16:18:03",
-      "https://news.ycombinator.com/item?id=35689596"
-    ],
-    [
-      "Snapchat sees spike in 1-star reviews as users pan the ‘My AI’ feature",
-      "https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 11:34:56",
       "https://news.ycombinator.com/item?id=35686310"
     ],
@@ -277,16 +287,6 @@
     [
       "Piper: A proposal for a graphy pipe-based build system",
       "https://mattsanetra.uk/blog/graph-build-proposal/"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 10:56:58",
-      "https://news.ycombinator.com/item?id=35675159"
-    ],
-    [
-      "I Wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost",
-      "https://gopiandcode.uk/logs/log-writing-activitypub.html"
     ]
   ],
   [
