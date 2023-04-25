@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 18:20:30](https://news.ycombinator.com/item?id=35704516) - [Explaining tech&#x27;s notion of talent scarcity](https://nadia.xyz/top-talent)
 * [2023-04-25, 17:38:01](https://news.ycombinator.com/item?id=35703906) - [Could we stop Yellowstone from erupting with a giant geothermal power plant?](https://constructionphysics.substack.com/p/could-we-stop-yellowstone-from-erupting)
 * [2023-04-25, 17:29:04](https://news.ycombinator.com/item?id=35703789) - [Microsoft Edge is leaking the sites you visit to Bing](https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy)
 * [2023-04-25, 17:28:36](https://news.ycombinator.com/item?id=35703781) - [Make Something Wonderful: Steve Jobs in his own words](https://book.stevejobsarchive.com)
