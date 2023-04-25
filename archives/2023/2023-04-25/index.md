@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 17:02:53](https://news.ycombinator.com/item?id=35703378) - [New ways to manage your data in ChatGPT](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt)
 * [2023-04-25, 17:02:24](https://news.ycombinator.com/item?id=35703367) - [Tighter Bounds on the Expressivity of Transformer Encoders](https://arxiv.org/abs/2301.10743)
 * [2023-04-25, 16:45:41](https://news.ycombinator.com/item?id=35703057) - [Fun with Kermit and Zmodem over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
 * [2023-04-25, 16:30:20](https://news.ycombinator.com/item?id=35702757) - [Clarity Reader: LLM powered depth-first reading for complex documents](https://github.com/1rgs/clarity-reader)
