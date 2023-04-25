@@ -67,6 +67,7 @@
 * [2023-04-24, 13:04:07](https://news.ycombinator.com/item?id=35687157) - [The Open Source Ruby on Rails SaaS Framework](https://bullettrain.co/)
 * [2023-04-24, 11:56:39](https://news.ycombinator.com/item?id=35686490) - [iPhone 15 Ultra camera upgrades could give photographers a serious dilemma](https://www.techradar.com/news/iphone-15-ultra-camera-upgrades-could-give-photographers-a-serious-dilemma)
 * [2023-04-24, 11:52:22](https://news.ycombinator.com/item?id=35686450) - [UK Threatens End-to-End Encryption](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
+* [2023-04-24, 11:34:56](https://news.ycombinator.com/item?id=35686310) - [Day Ahead Market adventures: capacity restrictions and negative prices](https://boerman.dev/posts/market20230419/)
 * [2023-04-24, 11:16:24](https://news.ycombinator.com/item?id=35686121) - [Remote Work Brings Hidden Penalty for Young Professionals, Study Says](https://www.nytimes.com/2023/04/24/business/remote-work-feedback.html)
 * [2023-04-24, 11:04:01](https://news.ycombinator.com/item?id=35686023) - [Why People Aren&#x27;t Deploying to Vercel Anymore](https://www.youtube.com/watch?v=JiuBeLDSGR0)
 * [2023-04-24, 10:41:20](https://news.ycombinator.com/item?id=35685854) - [Philips sets €575M. aside for respirator lawsuits](https://nltimes.nl/2023/04/24/philips-sets-eu575-mil-aside-respirator-lawsuits-suffered-eu583-mil-loss-q1)
