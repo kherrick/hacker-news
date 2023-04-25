@@ -2,7 +2,6 @@
 
 * [2023-04-25, 22:40:53](https://news.ycombinator.com/item?id=35707698) - [Mrs Whitcher and the Renegade Numbers (2017)](https://www.lastwordonnothing.com/2017/04/24/mrs-whitcher-and-the-renegade-numbers/)
 * [2023-04-25, 22:23:31](https://news.ycombinator.com/item?id=35707542) - [Compressing Hegel (2020)](https://wittgenfine.substack.com/p/compressing-hegel)
-* [2023-04-25, 22:07:47](https://news.ycombinator.com/item?id=35707372) - [Disney is shrinking FiveThirtyEight and Nate Silver (and his models) are leaving](https://www.niemanlab.org/2023/04/disney-is-shrinking-fivethirtyeight-and-nate-silver-and-his-models-are-leaving/)
 * [2023-04-25, 21:21:32](https://news.ycombinator.com/item?id=35706918) - [Show HN: Ordently – Consciously plan your day and your life](https://www.ordently.com)
 * [2023-04-25, 21:11:14](https://news.ycombinator.com/item?id=35706858) - [NitroKey disappoints me](https://blog.brixit.nl/nitrokey-dissapoints-me/)
 * [2023-04-25, 21:02:02](https://news.ycombinator.com/item?id=35706760) - [Aptible (YC S14) is hiring a security engineer and a head of product](https://news.ycombinator.com/item?id=35706760)
@@ -27,6 +26,7 @@
 * [2023-04-25, 10:15:49](https://news.ycombinator.com/item?id=35698521) - [People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
 * [2023-04-25, 09:08:09](https://news.ycombinator.com/item?id=35698112) - [Electricity from Space: The 1970s DOE&#x2F;NASA Solar Power Satellite Studies](http://spaceflighthistory.blogspot.com/2016/12/energy-from-space-department-of.html)
 * [2023-04-24, 20:35:28](https://news.ycombinator.com/item?id=35692844) - [Transistor Made of Wood](https://www.pnas.org/doi/10.1073/pnas.2218380120)
+* [2023-04-24, 18:36:29](https://news.ycombinator.com/item?id=35691381) - [Open Questions](https://gwern.net/question)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 17:29:01](https://news.ycombinator.com/item?id=35690631) - [A thief who stole 106 rare clocks](https://www.smithsonianmag.com/history/the-time-thief-who-stole-106-rare-clocks-in-a-daring-heist-180981979/)
 * [2023-04-24, 07:54:21](https://news.ycombinator.com/item?id=35684808) - [Heavy particles don’t explain gravitational lensing oddities](https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/)
