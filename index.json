@@ -11,12 +11,42 @@
   ],
   [
     [
-      "2023-04-25, 17:28:36",
-      "https://news.ycombinator.com/item?id=35703781"
+      "2023-04-25, 17:29:04",
+      "https://news.ycombinator.com/item?id=35703789"
     ],
     [
-      "Make Something Wonderful: Steve Jobs in his own words",
-      "https://book.stevejobsarchive.com"
+      "Microsoft Edge is leaking the sites you visit to Bing",
+      "https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 17:26:37",
+      "https://news.ycombinator.com/item?id=35703741"
+    ],
+    [
+      "Use Gröbner bases to solve polynomial equations",
+      "https://jingnanshi.com/blog/groebner_basis.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 17:25:36",
+      "https://news.ycombinator.com/item?id=35703732"
+    ],
+    [
+      "Commercial lunar lander presumed lost after moon landing attempt",
+      "https://www.cnn.com/2023/04/25/world/lunar-lander-japan-uae-hakuto-r-scn/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 17:11:08",
+      "https://news.ycombinator.com/item?id=35703527"
+    ],
+    [
+      "Wait, did Microsoft kill sleep?",
+      "https://www.thurrott.com/forums/general-discussion/windows/thread/wait-did-microsoft-kill-sleep"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=35703378"
     ],
     [
-      "New ways to manage your data in ChatGPT",
+      "ChatGPT users can now turn off chat history",
       "https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt"
     ]
   ],
@@ -51,12 +81,12 @@
   ],
   [
     [
-      "2023-04-25, 16:30:20",
-      "https://news.ycombinator.com/item?id=35702757"
+      "2023-04-25, 16:13:29",
+      "https://news.ycombinator.com/item?id=35702490"
     ],
     [
-      "Clarity Reader: LLM powered depth-first reading for complex documents",
-      "https://github.com/1rgs/clarity-reader"
+      "A Cookbook of Self-Supervised Learning",
+      "https://arxiv.org/abs/2304.12210"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-04-25, 13:00:43",
-      "https://news.ycombinator.com/item?id=35699855"
-    ],
-    [
-      "The dark forest and the cozy web (2020)",
-      "https://maggieappleton.com/cozy-web"
-    ]
-  ],
-  [
-    [
       "2023-04-25, 12:44:36",
       "https://news.ycombinator.com/item?id=35699697"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-04-24, 18:36:29",
-      "https://news.ycombinator.com/item?id=35691381"
-    ],
-    [
-      "Open Questions",
-      "https://gwern.net/question"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 17:41:26",
       "https://news.ycombinator.com/item?id=35690753"
     ],
@@ -287,16 +297,6 @@
     [
       "Heavy particles don’t explain gravitational lensing oddities",
       "https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 06:11:30",
-      "https://news.ycombinator.com/item?id=35684220"
-    ],
-    [
-      "Ways to shoot yourself in the foot with Postgres",
-      "https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql"
     ]
   ]
 ]
