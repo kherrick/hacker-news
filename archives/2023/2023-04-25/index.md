@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 15:10:56](https://news.ycombinator.com/item?id=35701572) - [A Completely Non-Technical Explanation of Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
+* [2023-04-25, 15:09:12](https://news.ycombinator.com/item?id=35701534) - [Serverless voice chat with Vicuna-13B](https://github.com/modal-labs/quillman)
+* [2023-04-25, 14:38:28](https://news.ycombinator.com/item?id=35701116) - [The Vowel Space](https://www.youtube.com/watch?v=FdldD0-kEcc)
 * [2023-04-25, 14:28:09](https://news.ycombinator.com/item?id=35700983) - [The UK will spend £100M to develop its own &#x27;sovereign&#x27; AI](https://www.engadget.com/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html)
 * [2023-04-25, 14:27:08](https://news.ycombinator.com/item?id=35700963) - [Eww: Programmable Widgets for Linux](https://github.com/elkowar/eww)
 * [2023-04-25, 14:23:35](https://news.ycombinator.com/item?id=35700918) - [Bed Bath and Beyond Files for Bankruptcy](https://www.nytimes.com/2023/04/23/business/bed-bath-beyond-bankruptcy.html)
