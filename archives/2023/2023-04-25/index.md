@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 17:38:01](https://news.ycombinator.com/item?id=35703906) - [Could we stop Yellowstone from erupting with a giant geothermal power plant?](https://constructionphysics.substack.com/p/could-we-stop-yellowstone-from-erupting)
 * [2023-04-25, 17:28:36](https://news.ycombinator.com/item?id=35703781) - [Make Something Wonderful: Steve Jobs in his own words](https://book.stevejobsarchive.com)
 * [2023-04-25, 17:02:53](https://news.ycombinator.com/item?id=35703378) - [New ways to manage your data in ChatGPT](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt)
 * [2023-04-25, 17:02:24](https://news.ycombinator.com/item?id=35703367) - [Tighter Bounds on the Expressivity of Transformer Encoders](https://arxiv.org/abs/2301.10743)

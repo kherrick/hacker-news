@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-25, 17:38:01](https://news.ycombinator.com/item?id=35703906) - [Could we stop Yellowstone from erupting with a giant geothermal power plant?](https://constructionphysics.substack.com/p/could-we-stop-yellowstone-from-erupting)
 * [2023-04-25, 17:28:36](https://news.ycombinator.com/item?id=35703781) - [Make Something Wonderful: Steve Jobs in his own words](https://book.stevejobsarchive.com)
 * [2023-04-25, 17:02:53](https://news.ycombinator.com/item?id=35703378) - [New ways to manage your data in ChatGPT](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt)
 * [2023-04-25, 17:02:24](https://news.ycombinator.com/item?id=35703367) - [Tighter bounds on the expressivity of transformer encoders](https://arxiv.org/abs/2301.10743)
@@ -7,7 +8,6 @@
 * [2023-04-25, 16:30:20](https://news.ycombinator.com/item?id=35702757) - [Clarity Reader: LLM powered depth-first reading for complex documents](https://github.com/1rgs/clarity-reader)
 * [2023-04-25, 16:08:36](https://news.ycombinator.com/item?id=35702407) - [ResearchGPT: Automated Data Analysis and Interpretation](https://phasellm.com/researchgpt)
 * [2023-04-25, 16:06:15](https://news.ycombinator.com/item?id=35702369) - [A heat shield for the most important ice on earth](https://www.newyorker.com/news/the-control-of-nature/a-heat-shield-for-the-most-important-ice-on-earth)
-* [2023-04-25, 15:54:00](https://news.ycombinator.com/item?id=35702201) - [Shell admits 1.5C climate goal means immediate end to fossil fuel growth](https://www.resilience.org/stories/2023-04-24/shell-admits-1-5c-climate-goal-means-immediate-end-to-fossil-fuel-growth/)
 * [2023-04-25, 15:26:01](https://news.ycombinator.com/item?id=35701790) - [Internet is wholesome: MVCC edition](https://avi.im/blag/2023/internet-mvcc/)
 * [2023-04-25, 15:13:56](https://news.ycombinator.com/item?id=35701618) - [Harry Belafonte has died](https://www.theguardian.com/music/2023/apr/25/harry-belafonte-singer-dies-actor-singer-activist)
 * [2023-04-25, 15:10:56](https://news.ycombinator.com/item?id=35701572) - [A non-technical explanation of deep learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
@@ -26,7 +26,7 @@
 * [2023-04-25, 10:15:49](https://news.ycombinator.com/item?id=35698521) - [People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
 * [2023-04-25, 09:08:09](https://news.ycombinator.com/item?id=35698112) - [Electricity from Space: The 1970s DOE&#x2F;NASA Solar Power Satellite Studies](http://spaceflighthistory.blogspot.com/2016/12/energy-from-space-department-of.html)
 * [2023-04-24, 20:35:28](https://news.ycombinator.com/item?id=35692844) - [Transistor Made of Wood](https://www.pnas.org/doi/10.1073/pnas.2218380120)
-* [2023-04-24, 19:19:58](https://news.ycombinator.com/item?id=35691910) - [The problems with live coding interviews](https://garrettdimon.com/journal/posts/live-coding-interviews)
+* [2023-04-24, 18:36:29](https://news.ycombinator.com/item?id=35691381) - [Open Questions](https://gwern.net/question)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 07:54:21](https://news.ycombinator.com/item?id=35684808) - [Heavy particles don’t explain gravitational lensing oddities](https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/)
 * [2023-04-24, 06:11:30](https://news.ycombinator.com/item?id=35684220) - [Ways to shoot yourself in the foot with Postgres](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
