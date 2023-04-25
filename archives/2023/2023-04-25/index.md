@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 08:21:09](https://news.ycombinator.com/item?id=35697869) - [Strlcpy and Strlcat – Consistent, Safe, String Copy and Concatenation (1999) [pdf]](https://www.openbsd.org/papers/strlcpy-paper.pdf)
 * [2023-04-25, 07:48:05](https://news.ycombinator.com/item?id=35697674) - [Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?](https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html)
 * [2023-04-25, 07:21:41](https://news.ycombinator.com/item?id=35697501) - [AI Hype Is Real](https://news.ycombinator.com/item?id=35697501)
 * [2023-04-25, 05:41:36](https://news.ycombinator.com/item?id=35696889) - [Verified accounts are now prioritized](https://twitter.com/elonmusk/status/1650731557164818437)
