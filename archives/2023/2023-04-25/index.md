@@ -7,6 +7,7 @@
 * [2023-04-25, 16:30:20](https://news.ycombinator.com/item?id=35702757) - [Clarity Reader: LLM powered depth-first reading for complex documents](https://github.com/1rgs/clarity-reader)
 * [2023-04-25, 16:08:36](https://news.ycombinator.com/item?id=35702407) - [ResearchGPT: Automated Data Analysis and Interpretation](https://phasellm.com/researchgpt)
 * [2023-04-25, 16:08:17](https://news.ycombinator.com/item?id=35702403) - [Stable Diffusion: What Does a Technical Author Look Like?](https://martinfowler.com/articles/2023-tech-author-portrait.html)
+* [2023-04-25, 16:00:26](https://news.ycombinator.com/item?id=35702288) - [Fox News Stole Our Parents](https://thinkbigpicture.substack.com/p/fox-news-fueled-family-divide)
 * [2023-04-25, 15:54:00](https://news.ycombinator.com/item?id=35702201) - [Shell admits 1.5C climate goal means immediate end to fossil fuel growth](https://www.resilience.org/stories/2023-04-24/shell-admits-1-5c-climate-goal-means-immediate-end-to-fossil-fuel-growth/)
 * [2023-04-25, 15:26:01](https://news.ycombinator.com/item?id=35701790) - [Internet is wholesome: MVCC edition](https://avi.im/blag/2023/internet-mvcc/)
 * [2023-04-25, 15:25:51](https://news.ycombinator.com/item?id=35701785) - [The EU Suppressed a 300-Page Study That Found Piracy Doesn’t Harm Sales](https://gizmodo.com/the-eu-suppressed-a-300-page-study-that-found-piracy-do-1818629537)
