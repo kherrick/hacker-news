@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-25, 02:54:06](https://news.ycombinator.com/item?id=35696041) - [Apple Pay’s long road to paying off is getting shorter](https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75)
+* [2023-04-25, 01:11:49](https://news.ycombinator.com/item?id=35695383) - [GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
 * [2023-04-25, 00:34:32](https://news.ycombinator.com/item?id=35695127) - [Deming Paradox: Operationally rigorous companies aren&#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
 * [2023-04-24, 23:53:32](https://news.ycombinator.com/item?id=35694810) - [Smokeless_UMAF: Access AMD hidden BIOS settings](https://github.com/DavidS95/Smokeless_UMAF)
 * [2023-04-24, 23:22:59](https://news.ycombinator.com/item?id=35694594) - [A mutual aid auto shop in Alabama](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
@@ -23,7 +24,6 @@
 * [2023-04-24, 17:11:24](https://news.ycombinator.com/item?id=35690398) - [Google Authenticator now supports Google Account synchronization](https://security.googleblog.com/2023/04/google-authenticator-now-supports.html)
 * [2023-04-24, 16:24:57](https://news.ycombinator.com/item?id=35689706) - [A WiFi color eInk picture frame](https://spritesmods.com/?art=wifipicframe&f=rss)
 * [2023-04-24, 16:18:03](https://news.ycombinator.com/item?id=35689596) - [Snapchat sees spike in 1-star reviews as users pan the ‘My AI’ feature](https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/)
-* [2023-04-24, 14:28:32](https://news.ycombinator.com/item?id=35688091) - [Interactive graph editor that colors the graph with the least amount of colors](https://github.com/Thiago099/graph-coloring)
 * [2023-04-24, 13:04:07](https://news.ycombinator.com/item?id=35687157) - [Bullet Train – Rails-based SaaS framework](https://bullettrain.co/)
 * [2023-04-24, 09:48:11](https://news.ycombinator.com/item?id=35685497) - [LAION, a high school teacher’s free image database, powers AI unicorns](https://www.bloomberg.com/news/features/2023-04-24/a-high-school-teacher-s-free-image-database-powers-ai-unicorns)
 * [2023-04-24, 07:20:29](https://news.ycombinator.com/item?id=35684585) - [Second IC – Homemade 1000 transistor array chip (2021)](http://sam.zeloof.xyz/second-ic/)
