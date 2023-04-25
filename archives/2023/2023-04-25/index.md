@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 11:36:34](https://news.ycombinator.com/item?id=35699036) - [Street Photography of Japan&#x27;s Aging Population](https://neocha.com/magazine/the-old/)
+* [2023-04-25, 11:30:29](https://news.ycombinator.com/item?id=35698983) - [Layoffs Now Targeting Devs](https://www.businessinsider.com/software-engineer-coding-jobs-face-layoffs-this-year-2023-4)
 * [2023-04-25, 11:09:48](https://news.ycombinator.com/item?id=35698834) - [When Apple Comes Calling, ‘It’s the Kiss of Death’](https://www.wsj.com/articles/apple-watch-patents-5b52cda0)
 * [2023-04-25, 10:48:04](https://news.ycombinator.com/item?id=35698702) - [The Nature of Code (Book)](https://natureofcode.com/)
 * [2023-04-25, 10:15:49](https://news.ycombinator.com/item?id=35698521) - [People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)

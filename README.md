@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-25, 11:36:34](https://news.ycombinator.com/item?id=35699036) - [Street Photography of Japan&#x27;s Aging Population](https://neocha.com/magazine/the-old/)
+* [2023-04-25, 11:30:29](https://news.ycombinator.com/item?id=35698983) - [Layoffs Now Targeting Devs](https://www.businessinsider.com/software-engineer-coding-jobs-face-layoffs-this-year-2023-4)
 * [2023-04-25, 11:09:48](https://news.ycombinator.com/item?id=35698834) - [When Apple Comes Calling, ‘It’s the Kiss of Death’](https://www.wsj.com/articles/apple-watch-patents-5b52cda0)
 * [2023-04-25, 10:48:04](https://news.ycombinator.com/item?id=35698702) - [The Nature of Code (Book)](https://natureofcode.com/)
 * [2023-04-25, 10:15:49](https://news.ycombinator.com/item?id=35698521) - [People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
@@ -9,7 +11,6 @@
 * [2023-04-25, 07:48:05](https://news.ycombinator.com/item?id=35697674) - [Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?](https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html)
 * [2023-04-25, 05:18:45](https://news.ycombinator.com/item?id=35696776) - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 * [2023-04-25, 03:08:38](https://news.ycombinator.com/item?id=35696111) - [Distractions Cause Bad Code](https://ntietz.com/blog/distractions-cause-bad-code/)
-* [2023-04-25, 02:54:06](https://news.ycombinator.com/item?id=35696041) - [Apple Pay’s long road to paying off is getting shorter](https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75)
 * [2023-04-25, 01:11:49](https://news.ycombinator.com/item?id=35695383) - [GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
 * [2023-04-25, 00:34:32](https://news.ycombinator.com/item?id=35695127) - [Deming Paradox: Operationally rigorous companies aren&#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
 * [2023-04-24, 23:22:59](https://news.ycombinator.com/item?id=35694594) - [A mutual aid auto shop in Alabama](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
@@ -23,7 +24,6 @@
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 17:35:58](https://news.ycombinator.com/item?id=35690707) - [Bean leaves don’t let the bedbugs bite by using tiny, impaling spikes](https://www.smithsonianmag.com/science-nature/bean-leaves-dont-let-the-bedbugs-bite-by-using-tiny-impaling-spikes-18427074/)
 * [2023-04-24, 17:24:26](https://news.ycombinator.com/item?id=35690576) - [Ox](https://sesquiotic.com/2023/04/20/ox/)
-* [2023-04-24, 17:24:11](https://news.ycombinator.com/item?id=35690572) - [The Unreasonable Effectiveness of Pronouns](https://vectors.substack.com/p/the-unreasonable-effectiveness-of)
 * [2023-04-24, 11:34:56](https://news.ycombinator.com/item?id=35686310) - [Day Ahead Market adventures: capacity restrictions and negative prices](https://boerman.dev/posts/market20230419/)
 * [2023-04-24, 09:48:11](https://news.ycombinator.com/item?id=35685497) - [LAION, a high school teacher’s free image database, powers AI unicorns](https://www.bloomberg.com/news/features/2023-04-24/a-high-school-teacher-s-free-image-database-powers-ai-unicorns)
 * [2023-04-24, 07:54:21](https://news.ycombinator.com/item?id=35684808) - [No WIMPS Heavy particles don’t explain gravitational lensing oddities](https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/)
