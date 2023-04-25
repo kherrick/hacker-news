@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-25, 21:11:14](https://news.ycombinator.com/item?id=35706858) - [NitroKey Disappoints Me](https://blog.brixit.nl/nitrokey-dissapoints-me/)
 * [2023-04-25, 21:02:02](https://news.ycombinator.com/item?id=35706760) - [Aptible (YC S14) is hiring a security engineer and a head of product](https://news.ycombinator.com/item?id=35706760)
-* [2023-04-25, 20:08:29](https://news.ycombinator.com/item?id=35706005) - [Google announces Q1 2023 earnings [pdf]](https://abc.xyz/investor/static/pdf/2023Q1_alphabet_earnings_release.pdf)
+* [2023-04-25, 20:55:37](https://news.ycombinator.com/item?id=35706687) - [Debugging a Mixed Python and C Language Stack](https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/)
 * [2023-04-25, 20:07:48](https://news.ycombinator.com/item?id=35705998) - [Microsoft Announces Q3 Earnings](https://www.microsoft.com/en-us/investor/earnings/fy-2023-q3/press-release-webcast)
 * [2023-04-25, 19:47:37](https://news.ycombinator.com/item?id=35705683) - [LTESniffer: An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper [pdf]](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf)
 * [2023-04-25, 18:27:16](https://news.ycombinator.com/item?id=35704626) - [What Rosalind Franklin contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
@@ -17,7 +18,6 @@
 * [2023-04-25, 15:09:12](https://news.ycombinator.com/item?id=35701534) - [QuiLLMan: Voice chat with Vicuna-13B](https://github.com/modal-labs/quillman)
 * [2023-04-25, 14:38:28](https://news.ycombinator.com/item?id=35701116) - [The Vowel Space [video]](https://www.youtube.com/watch?v=FdldD0-kEcc)
 * [2023-04-25, 14:27:08](https://news.ycombinator.com/item?id=35700963) - [Eww: ElKowars wacky widgets](https://github.com/elkowar/eww)
-* [2023-04-25, 14:23:35](https://news.ycombinator.com/item?id=35700918) - [Bed Bath and Beyond files for bankruptcy](https://www.nytimes.com/2023/04/23/business/bed-bath-beyond-bankruptcy.html)
 * [2023-04-25, 14:20:52](https://news.ycombinator.com/item?id=35700881) - [Use of antibiotics in farming ‘endangering human immune system’](https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system)
 * [2023-04-25, 14:11:46](https://news.ycombinator.com/item?id=35700751) - [IKEA Redesigns Its Bestsellers](https://www.wsj.com/articles/ikea-furniture-inflation-billy-c2f835bc)
 * [2023-04-25, 12:44:36](https://news.ycombinator.com/item?id=35699697) - [My thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
