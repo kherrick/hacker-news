@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-04-24, 23:53:32",
-      "https://news.ycombinator.com/item?id=35694810"
-    ],
-    [
-      "Smokeless_UMAF: Access AMD hidden BIOS settings",
-      "https://github.com/DavidS95/Smokeless_UMAF"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 23:22:59",
       "https://news.ycombinator.com/item?id=35694594"
     ],
@@ -277,6 +267,16 @@
     [
       "Capturing the Flag with GPT4",
       "https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/"
+    ]
+  ],
+  [
+    [
+      "2023-04-23, 15:02:26",
+      "https://news.ycombinator.com/item?id=35676825"
+    ],
+    [
+      "Piper: A proposal for a graphy pipe-based build system",
+      "https://mattsanetra.uk/blog/graph-build-proposal/"
     ]
   ],
   [
