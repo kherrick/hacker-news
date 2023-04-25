@@ -28,6 +28,7 @@
 * [2023-04-24, 18:54:18](https://news.ycombinator.com/item?id=35691597) - [Fedora 38 LLVM vs. Team Fortress 2](https://airlied.blogspot.com/2023/04/fedora-38-llvm-vs-team-fortress-2-tf2.html)
 * [2023-04-24, 18:43:27](https://news.ycombinator.com/item?id=35691459) - [Local License Key Verification](https://matradomski.com/posts/local_license_key_verification_theory/)
 * [2023-04-24, 18:36:32](https://news.ycombinator.com/item?id=35691383) - [1Password to Add Telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
+* [2023-04-24, 18:36:29](https://news.ycombinator.com/item?id=35691381) - [Open Questions](https://gwern.net/question)
 * [2023-04-24, 18:24:35](https://news.ycombinator.com/item?id=35691243) - [&#x27;Delete Act&#x27; seeks to give Californians more power to block data tracking](https://www.kqed.org/news/11947039/delete-act-seeks-to-give-californians-more-power-to-block-data-tracking)
 * [2023-04-24, 17:51:07](https://news.ycombinator.com/item?id=35690856) - [Neuromorphic learning, working memory, and metaplasticity in nanowire networks](https://www.science.org/doi/10.1126/sciadv.adg3289)
 * [2023-04-24, 17:51:01](https://news.ycombinator.com/item?id=35690853) - [Egypt builds worlds largest man-made river](https://www.constructionweekonline.com/business/egypt-builds-worlds-largest-114km-man-made-river)
