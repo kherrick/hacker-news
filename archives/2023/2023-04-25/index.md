@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 22:40:53](https://news.ycombinator.com/item?id=35707698) - [Mrs Whitcher and the Renegade Numbers (2017)](https://www.lastwordonnothing.com/2017/04/24/mrs-whitcher-and-the-renegade-numbers/)
 * [2023-04-25, 22:23:31](https://news.ycombinator.com/item?id=35707542) - [Compressing Hegel (2020)](https://wittgenfine.substack.com/p/compressing-hegel)
 * [2023-04-25, 22:07:47](https://news.ycombinator.com/item?id=35707372) - [Disney is shrinking FiveThirtyEight and Nate Silver (and his models) are leaving](https://www.niemanlab.org/2023/04/disney-is-shrinking-fivethirtyeight-and-nate-silver-and-his-models-are-leaving/)
 * [2023-04-25, 21:21:32](https://news.ycombinator.com/item?id=35706918) - [Show HN: Ordently – Consciously plan your day and your life](https://www.ordently.com)
