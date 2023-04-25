@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 17:02:24](https://news.ycombinator.com/item?id=35703367) - [Tighter Bounds on the Expressivity of Transformer Encoders](https://arxiv.org/abs/2301.10743)
+* [2023-04-25, 16:45:41](https://news.ycombinator.com/item?id=35703057) - [Fun with Kermit and Zmodem over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
 * [2023-04-25, 16:30:20](https://news.ycombinator.com/item?id=35702757) - [Clarity Reader: LLM powered depth-first reading for complex documents](https://github.com/1rgs/clarity-reader)
 * [2023-04-25, 16:08:36](https://news.ycombinator.com/item?id=35702407) - [ResearchGPT: Automated Data Analysis and Interpretation](https://phasellm.com/researchgpt)
 * [2023-04-25, 16:08:17](https://news.ycombinator.com/item?id=35702403) - [Stable Diffusion: What Does a Technical Author Look Like?](https://martinfowler.com/articles/2023-tech-author-portrait.html)
+* [2023-04-25, 16:06:15](https://news.ycombinator.com/item?id=35702369) - [A Heat Shield for the Most Important Ice on Earth](https://www.newyorker.com/news/the-control-of-nature/a-heat-shield-for-the-most-important-ice-on-earth)
 * [2023-04-25, 16:00:26](https://news.ycombinator.com/item?id=35702288) - [Fox News Stole Our Parents](https://thinkbigpicture.substack.com/p/fox-news-fueled-family-divide)
 * [2023-04-25, 15:54:00](https://news.ycombinator.com/item?id=35702201) - [Shell admits 1.5C climate goal means immediate end to fossil fuel growth](https://www.resilience.org/stories/2023-04-24/shell-admits-1-5c-climate-goal-means-immediate-end-to-fossil-fuel-growth/)
 * [2023-04-25, 15:26:01](https://news.ycombinator.com/item?id=35701790) - [Internet is wholesome: MVCC edition](https://avi.im/blag/2023/internet-mvcc/)
