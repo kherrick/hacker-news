@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-25, 13:11:50](https://news.ycombinator.com/item?id=35699962) - [A.I. imagery may destroy history as we know it](https://petapixel.com/2023/04/24/a-i-imagery-may-destroy-history-as-we-know-it/)
 * [2023-04-25, 13:00:43](https://news.ycombinator.com/item?id=35699855) - [The dark forest and the cozy web (2020)](https://maggieappleton.com/cozy-web)
 * [2023-04-25, 12:44:36](https://news.ycombinator.com/item?id=35699697) - [My Thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
 * [2023-04-25, 12:00:08](https://news.ycombinator.com/item?id=35699275) - [Paperspace (YC W15) is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
@@ -19,6 +18,7 @@
 * [2023-04-24, 23:22:59](https://news.ycombinator.com/item?id=35694594) - [A mutual aid auto shop in Alabama](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
 * [2023-04-24, 23:18:15](https://news.ycombinator.com/item?id=35694553) - [ONNX Runtime merges WebGPU backend](https://github.com/microsoft/onnxruntime/pull/14579)
 * [2023-04-24, 20:25:31](https://news.ycombinator.com/item?id=35692697) - [A Defense of Text-Speak](https://www.nateranda.com/blog/post/a-defense-of-text-speak/)
+* [2023-04-24, 19:08:05](https://news.ycombinator.com/item?id=35691771) - [Apple wins antitrust court battle with Epic Games, appeals court rules](https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 17:35:58](https://news.ycombinator.com/item?id=35690707) - [Bean leaves don’t let the bedbugs bite by using tiny, impaling spikes (2013)](https://www.smithsonianmag.com/science-nature/bean-leaves-dont-let-the-bedbugs-bite-by-using-tiny-impaling-spikes-18427074/)
 * [2023-04-24, 17:25:31](https://news.ycombinator.com/item?id=35690590) - [If cryonics suddenly worked (2016)](https://www.bbc.com/future/article/20160424-if-cryonics-suddenly-worked-wed-need-to-face-the-fallout)
