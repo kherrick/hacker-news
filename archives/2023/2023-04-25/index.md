@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
 * [2023-04-25, 15:25:51](https://news.ycombinator.com/item?id=35701785) - [The EU Suppressed a 300-Page Study That Found Piracy Doesn’t Harm Sales](https://gizmodo.com/the-eu-suppressed-a-300-page-study-that-found-piracy-do-1818629537)
+* [2023-04-25, 15:13:56](https://news.ycombinator.com/item?id=35701618) - [Harry Belafonte, singer, actor and tireless activist, dies aged 96](https://www.theguardian.com/music/2023/apr/25/harry-belafonte-singer-dies-actor-singer-activist)
 * [2023-04-25, 15:10:56](https://news.ycombinator.com/item?id=35701572) - [A Completely Non-Technical Explanation of Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
 * [2023-04-25, 15:09:12](https://news.ycombinator.com/item?id=35701534) - [Serverless voice chat with Vicuna-13B](https://github.com/modal-labs/quillman)
 * [2023-04-25, 14:38:28](https://news.ycombinator.com/item?id=35701116) - [The Vowel Space](https://www.youtube.com/watch?v=FdldD0-kEcc)
