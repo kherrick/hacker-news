@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 13:11:50](https://news.ycombinator.com/item?id=35699962) - [A.I. Imagery May Destroy History as We Know It](https://petapixel.com/2023/04/24/a-i-imagery-may-destroy-history-as-we-know-it/)
 * [2023-04-25, 12:50:34](https://news.ycombinator.com/item?id=35699753) - [Congress is more Christian and religious than the general public](https://www.axios.com/2023/04/23/lawmakers-more-religious-general-public)
+* [2023-04-25, 12:44:36](https://news.ycombinator.com/item?id=35699697) - [My Thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
 * [2023-04-25, 12:00:08](https://news.ycombinator.com/item?id=35699275) - [Paperspace (YC W15) is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
 * [2023-04-25, 11:45:33](https://news.ycombinator.com/item?id=35699127) - [The Race to Colonize Mars Perpetuates a Dangerous Religion](https://nautil.us/the-race-to-colonize-mars-perpetuates-a-dangerous-religion-298323/)
 * [2023-04-25, 11:40:24](https://news.ycombinator.com/item?id=35699078) - [SK Hynix Now Sampling 24GB HBM3 Stacks, Preparing for Mass Production](https://www.anandtech.com/show/18823/sk-hynix-now-sampling-24gb-hbm3-stacks-prepping-for-mass-production)

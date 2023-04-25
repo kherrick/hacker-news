@@ -38,6 +38,7 @@
 * [2023-04-24, 17:31:10](https://news.ycombinator.com/item?id=35690656) - [Haiku&#x27;s (Kernel) Condition Variables API: Design and Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
 * [2023-04-24, 17:27:54](https://news.ycombinator.com/item?id=35690613) - [My Search for the Origins of Clothing](https://www.sapiens.org/archaeology/paleolithic-clothing-origins/)
 * [2023-04-24, 17:27:40](https://news.ycombinator.com/item?id=35690610) - [The Interstellar Style of Sun Ra (2016)](https://pitchfork.com/features/from-the-pitchfork-review/9866-the-interstellar-style-of-sun-ra/)
+* [2023-04-24, 17:25:31](https://news.ycombinator.com/item?id=35690590) - [If cryonics suddenly worked (2016)](https://www.bbc.com/future/article/20160424-if-cryonics-suddenly-worked-wed-need-to-face-the-fallout)
 * [2023-04-24, 17:25:02](https://news.ycombinator.com/item?id=35690584) - [The king who wasn&#x27;t there](https://www.historytoday.com/archive/feature/king-who-wasnt-there)
 * [2023-04-24, 17:24:26](https://news.ycombinator.com/item?id=35690576) - [Ox](https://sesquiotic.com/2023/04/20/ox/)
 * [2023-04-24, 17:24:11](https://news.ycombinator.com/item?id=35690572) - [The Unreasonable Effectiveness of Pronouns](https://vectors.substack.com/p/the-unreasonable-effectiveness-of)
