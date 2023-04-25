@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-25, 12:00:08",
+      "https://news.ycombinator.com/item?id=35699275"
+    ],
+    [
+      "Paperspace (YC W15) is hiring to scale a GPU cloud powering gen AI and LLMs",
+      "https://www.paperspace.com/careers"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 11:45:33",
+      "https://news.ycombinator.com/item?id=35699127"
+    ],
+    [
+      "The Race to Colonize Mars Perpetuates a Dangerous Religion",
+      "https://nautil.us/the-race-to-colonize-mars-perpetuates-a-dangerous-religion-298323/"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 11:36:34",
       "https://news.ycombinator.com/item?id=35699036"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2023-04-25, 09:38:14",
-      "https://news.ycombinator.com/item?id=35698282"
-    ],
-    [
-      "A command-line tool to easily kill processes running on a specified port",
-      "https://github.com/jkfran/killport"
-    ]
-  ],
-  [
-    [
       "2023-04-25, 09:08:09",
       "https://news.ycombinator.com/item?id=35698112"
     ],
@@ -87,6 +97,16 @@
     [
       "Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?",
       "https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 06:38:55",
+      "https://news.ycombinator.com/item?id=35697232"
+    ],
+    [
+      "Sserangecoding: Fast vectorized (SSE 4.1) range coder for 8-bit alphabets",
+      "https://github.com/richgel999/sserangecoding"
     ]
   ],
   [
@@ -161,26 +181,6 @@
   ],
   [
     [
-      "2023-04-24, 21:01:10",
-      "https://news.ycombinator.com/item?id=35693229"
-    ],
-    [
-      "Lancey (YC S22) is hiring a senior full-stack engineer",
-      "https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 20:56:06",
-      "https://news.ycombinator.com/item?id=35693160"
-    ],
-    [
-      "Hawthorne effect",
-      "https://en.wikipedia.org/wiki/Hawthorne_effect"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 20:25:31",
       "https://news.ycombinator.com/item?id=35692697"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2023-04-24, 17:35:58",
-      "https://news.ycombinator.com/item?id=35690707"
-    ],
-    [
-      "Bean leaves don’t let the bedbugs bite by using tiny, impaling spikes",
-      "https://www.smithsonianmag.com/science-nature/bean-leaves-dont-let-the-bedbugs-bite-by-using-tiny-impaling-spikes-18427074/"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 17:24:26",
       "https://news.ycombinator.com/item?id=35690576"
     ],
     [
       "Ox",
       "https://sesquiotic.com/2023/04/20/ox/"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 14:40:54",
+      "https://news.ycombinator.com/item?id=35688221"
+    ],
+    [
+      "GUI development with Rust and GTK 4",
+      "https://gtk-rs.org/gtk4-rs/stable/latest/book/hello_world.html"
     ]
   ],
   [
