@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-25, 08:21:09",
+      "https://news.ycombinator.com/item?id=35697869"
+    ],
+    [
+      "Strlcpy and Strlcat – Consistent, Safe, String Copy and Concatenation (1999) [pdf]",
+      "https://www.openbsd.org/papers/strlcpy-paper.pdf"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 07:48:05",
       "https://news.ycombinator.com/item?id=35697674"
     ],
@@ -17,6 +27,16 @@
     [
       "Deep Neural Networks from Scratch in Zig",
       "https://monadmonkey.com/dnns-from-scratch-in-zig"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 03:08:38",
+      "https://news.ycombinator.com/item?id=35696111"
+    ],
+    [
+      "Distractions Cause Bad Code",
+      "https://ntietz.com/blog/distractions-cause-bad-code/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-04-24, 19:10:25",
-      "https://news.ycombinator.com/item?id=35691803"
-    ],
-    [
-      "Show HN: Featurevisor – Git-based feature flags and experiments management",
-      "https://featurevisor.com/"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 19:08:05",
       "https://news.ycombinator.com/item?id=35691771"
     ],
@@ -227,16 +237,6 @@
     [
       "Google Authenticator now supports Google Account synchronization",
       "https://security.googleblog.com/2023/04/google-authenticator-now-supports.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 16:18:03",
-      "https://news.ycombinator.com/item?id=35689596"
-    ],
-    [
-      "Snapchat sees spike in 1-star reviews as users pan the ‘My AI’ feature",
-      "https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/"
     ]
   ],
   [
