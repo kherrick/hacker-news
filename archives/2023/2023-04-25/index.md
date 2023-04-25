@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
 * [2023-04-25, 20:08:29](https://news.ycombinator.com/item?id=35706005) - [Google announces Q1 2023 earnings [pdf]](https://abc.xyz/investor/static/pdf/2023Q1_alphabet_earnings_release.pdf)
+* [2023-04-25, 20:07:48](https://news.ycombinator.com/item?id=35705998) - [Microsoft Announces Q3 Earnings](https://www.microsoft.com/en-us/investor/earnings/fy-2023-q3/press-release-webcast)
+* [2023-04-25, 19:47:37](https://news.ycombinator.com/item?id=35705683) - [LTESniffer: An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper [pdf]](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf)
 * [2023-04-25, 19:31:05](https://news.ycombinator.com/item?id=35705469) - [FSF Call on the IRS to provide libre tax-filing software](https://www.fsf.org/blogs/community/call-on-the-irs-to-provide-libre-tax-filing-software)
 * [2023-04-25, 19:05:25](https://news.ycombinator.com/item?id=35705133) - [Sandy Munro Talks Battery Battles, Calls Solid State “Kiss of Death” for Gas](https://www.sae.org/blog/sandy-munro-live-sae-wcx)
 * [2023-04-25, 18:27:16](https://news.ycombinator.com/item?id=35704626) - [What Rosalind Franklin truly contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
