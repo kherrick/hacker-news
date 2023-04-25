@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-25, 13:11:50",
+      "https://news.ycombinator.com/item?id=35699962"
+    ],
+    [
+      "A.I. Imagery May Destroy History as We Know It",
+      "https://petapixel.com/2023/04/24/a-i-imagery-may-destroy-history-as-we-know-it/"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 12:44:36",
+      "https://news.ycombinator.com/item?id=35699697"
+    ],
+    [
+      "My Thoughts on OCaml",
+      "https://osa1.net/posts/2023-04-24-ocaml-thoughts.html"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 12:00:08",
       "https://news.ycombinator.com/item?id=35699275"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
-      "2023-04-25, 11:40:24",
-      "https://news.ycombinator.com/item?id=35699078"
-    ],
-    [
-      "SK Hynix Now Sampling 24GB HBM3 Stacks, Preparing for Mass Production",
-      "https://www.anandtech.com/show/18823/sk-hynix-now-sampling-24gb-hbm3-stacks-prepping-for-mass-production"
-    ]
-  ],
-  [
-    [
       "2023-04-25, 11:36:34",
       "https://news.ycombinator.com/item?id=35699036"
     ],
     [
       "The Old (2018)",
       "https://neocha.com/magazine/the-old/"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 11:09:48",
+      "https://news.ycombinator.com/item?id=35698834"
+    ],
+    [
+      "Aspiring partners accuse Apple of copying their ideas",
+      "https://www.wsj.com/articles/apple-watch-patents-5b52cda0"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Congress gets 40 ChatGPT Plus licenses to start experimenting with generative AI",
       "https://fedscoop.com/congress-gets-40-chatgpt-plus-licenses/"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 10:15:49",
+      "https://news.ycombinator.com/item?id=35698521"
+    ],
+    [
+      "People who use Notion to plan their whole lives",
+      "https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-04-25, 02:54:06",
-      "https://news.ycombinator.com/item?id=35696041"
-    ],
-    [
-      "Apple Pay’s long road to paying off is getting shorter",
-      "https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75"
-    ]
-  ],
-  [
-    [
       "2023-04-25, 01:11:49",
       "https://news.ycombinator.com/item?id=35695383"
     ],
@@ -161,42 +181,12 @@
   ],
   [
     [
-      "2023-04-24, 21:09:57",
-      "https://news.ycombinator.com/item?id=35693306"
-    ],
-    [
-      "Palo Alto Research Center (PARC) to join SRI International",
-      "https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 20:25:31",
       "https://news.ycombinator.com/item?id=35692697"
     ],
     [
       "A Defense of Text-Speak",
       "https://www.nateranda.com/blog/post/a-defense-of-text-speak/"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 19:08:05",
-      "https://news.ycombinator.com/item?id=35691771"
-    ],
-    [
-      "Apple wins antitrust court battle with Epic Games, appeals court rules",
-      "https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 18:43:27",
-      "https://news.ycombinator.com/item?id=35691459"
-    ],
-    [
-      "Local License Key Verification",
-      "https://matradomski.com/posts/local_license_key_verification_theory/"
     ]
   ],
   [
@@ -211,6 +201,26 @@
   ],
   [
     [
+      "2023-04-24, 17:35:58",
+      "https://news.ycombinator.com/item?id=35690707"
+    ],
+    [
+      "Bean leaves don’t let the bedbugs bite by using tiny, impaling spikes",
+      "https://www.smithsonianmag.com/science-nature/bean-leaves-dont-let-the-bedbugs-bite-by-using-tiny-impaling-spikes-18427074/"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 17:25:31",
+      "https://news.ycombinator.com/item?id=35690590"
+    ],
+    [
+      "If cryonics suddenly worked (2016)",
+      "https://www.bbc.com/future/article/20160424-if-cryonics-suddenly-worked-wed-need-to-face-the-fallout"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 17:24:26",
       "https://news.ycombinator.com/item?id=35690576"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2023-04-24, 17:24:11",
-      "https://news.ycombinator.com/item?id=35690572"
+      "2023-04-24, 14:41:48",
+      "https://news.ycombinator.com/item?id=35688233"
     ],
     [
-      "The Unreasonable Effectiveness of Pronouns",
-      "https://vectors.substack.com/p/the-unreasonable-effectiveness-of"
+      "Quantum physics falls apart without imaginary numbers",
+      "https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Capturing the Flag with GPT-4",
       "https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 15:02:26",
-      "https://news.ycombinator.com/item?id=35676825"
-    ],
-    [
-      "Piper: A proposal for a graphy pipe-based build system",
-      "https://mattsanetra.uk/blog/graph-build-proposal/"
     ]
   ]
 ]
