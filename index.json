@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=35703367"
     ],
     [
-      "Tighter Bounds on the Expressivity of Transformer Encoders",
+      "Tighter bounds on the expressivity of transformer encoders",
       "https://arxiv.org/abs/2301.10743"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=35703057"
     ],
     [
-      "Fun with Kermit and Zmodem over SSH",
+      "Fun with Kermit and ZMODEM over SSH",
       "https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35702369"
     ],
     [
-      "A Heat Shield for the Most Important Ice on Earth",
+      "A heat shield for the most important ice on earth",
       "https://www.newyorker.com/news/the-control-of-nature/a-heat-shield-for-the-most-important-ice-on-earth"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=35701618"
     ],
     [
-      "Harry Belafonte, singer, actor and tireless activist, dies aged 96",
+      "Harry Belafonte has died",
       "https://www.theguardian.com/music/2023/apr/25/harry-belafonte-singer-dies-actor-singer-activist"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35701572"
     ],
     [
-      "A Completely Non-Technical Explanation of Deep Learning",
+      "A non-technical explanation of deep learning",
       "https://www.parand.com/a-completely-non-technical-explanation-of-ai.html"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=35701534"
     ],
     [
-      "Serverless voice chat with Vicuna-13B",
+      "QuiLLMan: Voice chat with Vicuna-13B",
       "https://github.com/modal-labs/quillman"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=35701116"
     ],
     [
-      "The Vowel Space",
+      "The Vowel Space [video]",
       "https://www.youtube.com/watch?v=FdldD0-kEcc"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=35700963"
     ],
     [
-      "Eww: Programmable Widgets for Linux",
+      "Eww: ElKowars wacky widgets",
       "https://github.com/elkowar/eww"
     ]
   ],
@@ -171,11 +171,21 @@
   ],
   [
     [
+      "2023-04-25, 13:00:43",
+      "https://news.ycombinator.com/item?id=35699855"
+    ],
+    [
+      "The dark forest and the cozy web (2020)",
+      "https://maggieappleton.com/cozy-web"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 12:44:36",
       "https://news.ycombinator.com/item?id=35699697"
     ],
     [
-      "My Thoughts on OCaml",
+      "My thoughts on OCaml",
       "https://osa1.net/posts/2023-04-24-ocaml-thoughts.html"
     ]
   ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2023-04-25, 05:18:45",
-      "https://news.ycombinator.com/item?id=35696776"
-    ],
-    [
-      "Deep Neural Networks from Scratch in Zig",
-      "https://monadmonkey.com/dnns-from-scratch-in-zig"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 18:36:29",
       "https://news.ycombinator.com/item?id=35691381"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-04-24, 14:40:54",
-      "https://news.ycombinator.com/item?id=35688221"
+      "2023-04-24, 14:41:48",
+      "https://news.ycombinator.com/item?id=35688233"
     ],
     [
-      "GUI development with Rust and GTK 4",
-      "https://gtk-rs.org/gtk4-rs/stable/latest/book/hello_world.html"
+      "Quantum physics falls apart without imaginary numbers",
+      "https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=35684220"
     ],
     [
-      "Ways to shoot yourself in the foot with PostgreSQL",
+      "Ways to shoot yourself in the foot with Postgres",
       "https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql"
     ]
   ]
