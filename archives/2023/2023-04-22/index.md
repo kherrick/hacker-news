@@ -32,6 +32,7 @@
 * [2023-04-22, 16:31:21](https://news.ycombinator.com/item?id=35668228) - [The Loophole That Made Cars in America So Big](https://www.distilled.earth/p/the-loophole-that-made-cars-in-america)
 * [2023-04-22, 16:22:29](https://news.ycombinator.com/item?id=35668139) - [Missouri &#x27;trans snitch&#x27; page down after people spammed it](https://techcrunch.com/2023/04/21/missouri-trans-snitch-form-down-after-people-spammed-it-with-the-bee-movie-script/)
 * [2023-04-22, 16:17:04](https://news.ycombinator.com/item?id=35668072) - [“Luxury” construction causes high rents like umbrellas cause rain](https://noahpinion.substack.com/p/luxury-construction-causes-high-rents)
+* [2023-04-22, 16:06:06](https://news.ycombinator.com/item?id=35667941) - [Atoms are the Universe&#x27;s greatest miracle](https://bigthink.com/starts-with-a-bang/atoms-greatest-miracle/)
 * [2023-04-22, 15:52:50](https://news.ycombinator.com/item?id=35667796) - [Methane may not warm the Earth quite as much as previously thought](https://www.sciencenews.org/article/methane-warm-earth-atmosphere-radiation)
 * [2023-04-22, 15:50:52](https://news.ycombinator.com/item?id=35667772) - [The Box](https://soaringtwenties.substack.com/p/inside-the-box)
 * [2023-04-22, 15:50:10](https://news.ycombinator.com/item?id=35667764) - [Will we run out of ML data?](https://epochai.org/blog/will-we-run-out-of-ml-data-evidence-from-projecting-dataset)

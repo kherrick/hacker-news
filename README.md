@@ -2,7 +2,6 @@
 
 * [2023-04-25, 19:05:25](https://news.ycombinator.com/item?id=35705133) - [Sandy Munro Talks Battery Battles, Calls Solid State “Kiss of Death” for Gas](https://www.sae.org/blog/sandy-munro-live-sae-wcx)
 * [2023-04-25, 18:27:16](https://news.ycombinator.com/item?id=35704626) - [What Rosalind Franklin truly contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
-* [2023-04-25, 18:20:30](https://news.ycombinator.com/item?id=35704516) - [Explaining tech&#x27;s notion of talent scarcity](https://nadia.xyz/top-talent)
 * [2023-04-25, 17:38:01](https://news.ycombinator.com/item?id=35703906) - [Could we stop Yellowstone from erupting with a giant geothermal power plant?](https://constructionphysics.substack.com/p/could-we-stop-yellowstone-from-erupting)
 * [2023-04-25, 17:29:04](https://news.ycombinator.com/item?id=35703789) - [Microsoft Edge is leaking the sites you visit to Bing](https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy)
 * [2023-04-25, 17:26:37](https://news.ycombinator.com/item?id=35703741) - [Use Gröbner bases to solve polynomial equations](https://jingnanshi.com/blog/groebner_basis.html)
@@ -30,6 +29,7 @@
 * [2023-04-24, 20:35:28](https://news.ycombinator.com/item?id=35692844) - [Transistor Made of Wood](https://www.pnas.org/doi/10.1073/pnas.2218380120)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 07:54:21](https://news.ycombinator.com/item?id=35684808) - [Heavy particles don’t explain gravitational lensing oddities](https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/)
+* [2023-04-22, 16:06:06](https://news.ycombinator.com/item?id=35667941) - [Atoms are the Universe&#x27;s greatest miracle](https://bigthink.com/starts-with-a-bang/atoms-greatest-miracle/)
 
 ## [Archives](archives/index.md)
 
