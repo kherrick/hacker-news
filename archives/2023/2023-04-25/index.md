@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 10:15:49](https://news.ycombinator.com/item?id=35698521) - [People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
 * [2023-04-25, 09:38:14](https://news.ycombinator.com/item?id=35698282) - [A command-line tool to easily kill processes running on a specified port](https://github.com/jkfran/killport)
 * [2023-04-25, 09:08:09](https://news.ycombinator.com/item?id=35698112) - [Electricity from Space: The 1970s DOE&#x2F;NASA Solar Power Satellite Studies](http://spaceflighthistory.blogspot.com/2016/12/energy-from-space-department-of.html)
+* [2023-04-25, 08:30:10](https://news.ycombinator.com/item?id=35697922) - [Show HN: TravelGPT Adventures: Your Guide to Experiencing the World with GPT](https://travelgpt.art)
 * [2023-04-25, 08:21:09](https://news.ycombinator.com/item?id=35697869) - [Strlcpy and Strlcat – Consistent, Safe, String Copy and Concatenation (1999) [pdf]](https://www.openbsd.org/papers/strlcpy-paper.pdf)
 * [2023-04-25, 07:48:05](https://news.ycombinator.com/item?id=35697674) - [Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?](https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html)
 * [2023-04-25, 07:21:41](https://news.ycombinator.com/item?id=35697501) - [AI Hype Is Real](https://news.ycombinator.com/item?id=35697501)

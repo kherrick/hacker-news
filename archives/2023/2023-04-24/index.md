@@ -85,6 +85,7 @@
 * [2023-04-24, 08:03:02](https://news.ycombinator.com/item?id=35684859) - [The i.MX8 cannot be deblobbed (when using HDMI)](https://www.devever.net/~hl/imx8)
 * [2023-04-24, 08:03:00](https://news.ycombinator.com/item?id=35684858) - [Notes on the Hardkernel Odroid-XU3 Single-Board Computer](https://doc.nstr.no/odroid-xu3.htm)
 * [2023-04-24, 07:58:03](https://news.ycombinator.com/item?id=35684828) - [MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad](https://www.augmental.tech/)
+* [2023-04-24, 07:54:21](https://news.ycombinator.com/item?id=35684808) - [No WIMPS Heavy particles don’t explain gravitational lensing oddities](https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/)
 * [2023-04-24, 07:54:20](https://news.ycombinator.com/item?id=35684807) - [No, I don’t want to sign up for your newsletter](https://www.katsnyderux.com/post/no-i-don-t-want-to-sign-up-for-your-newsletter-horrible-uses-of-exit-overlays)
 * [2023-04-24, 07:37:30](https://news.ycombinator.com/item?id=35684709) - [Are pull requests bad because they originate from open-source development?](https://blog.ploeh.dk/2023/04/24/are-pull-requests-bad-because-they-originate-from-open-source-development/)
 * [2023-04-24, 07:23:28](https://news.ycombinator.com/item?id=35684599) - [What’s the Point of Tech Conferences?](https://chelseatroy.com/2023/04/21/whats-the-point-of-tech-conferences/)
