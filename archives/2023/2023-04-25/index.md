@@ -31,6 +31,7 @@
 * [2023-04-25, 14:27:08](https://news.ycombinator.com/item?id=35700963) - [Eww: Programmable Widgets for Linux](https://github.com/elkowar/eww)
 * [2023-04-25, 14:23:35](https://news.ycombinator.com/item?id=35700918) - [Bed Bath and Beyond Files for Bankruptcy](https://www.nytimes.com/2023/04/23/business/bed-bath-beyond-bankruptcy.html)
 * [2023-04-25, 14:20:52](https://news.ycombinator.com/item?id=35700881) - [Use of antibiotics in farming endangering human immune system](https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system)
+* [2023-04-25, 14:11:46](https://news.ycombinator.com/item?id=35700751) - [IKEA Redesigns Its Bestsellers](https://www.wsj.com/articles/ikea-furniture-inflation-billy-c2f835bc)
 * [2023-04-25, 13:39:29](https://news.ycombinator.com/item?id=35700301) - [Web LLM](https://mlc.ai/web-llm/)
 * [2023-04-25, 13:22:06](https://news.ycombinator.com/item?id=35700080) - [Logic Noise: Sweet, Sweet Oscillator Sounds (2015)](https://hackaday.com/2015/02/04/logic-noise-sweet-sweet-oscillator-sounds/)
 * [2023-04-25, 13:11:50](https://news.ycombinator.com/item?id=35699962) - [A.I. Imagery May Destroy History as We Know It](https://petapixel.com/2023/04/24/a-i-imagery-may-destroy-history-as-we-know-it/)

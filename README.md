@@ -18,6 +18,7 @@
 * [2023-04-25, 14:27:08](https://news.ycombinator.com/item?id=35700963) - [Eww: ElKowars wacky widgets](https://github.com/elkowar/eww)
 * [2023-04-25, 14:23:35](https://news.ycombinator.com/item?id=35700918) - [Bed Bath and Beyond files for bankruptcy](https://www.nytimes.com/2023/04/23/business/bed-bath-beyond-bankruptcy.html)
 * [2023-04-25, 14:20:52](https://news.ycombinator.com/item?id=35700881) - [Use of antibiotics in farming ‘endangering human immune system’](https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system)
+* [2023-04-25, 14:11:46](https://news.ycombinator.com/item?id=35700751) - [IKEA Redesigns Its Bestsellers](https://www.wsj.com/articles/ikea-furniture-inflation-billy-c2f835bc)
 * [2023-04-25, 12:44:36](https://news.ycombinator.com/item?id=35699697) - [My thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
 * [2023-04-25, 12:00:08](https://news.ycombinator.com/item?id=35699275) - [Paperspace (YC W15) is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
 * [2023-04-25, 11:36:34](https://news.ycombinator.com/item?id=35699036) - [The Old (2018)](https://neocha.com/magazine/the-old/)
@@ -28,7 +29,6 @@
 * [2023-04-24, 20:35:28](https://news.ycombinator.com/item?id=35692844) - [Transistor Made of Wood](https://www.pnas.org/doi/10.1073/pnas.2218380120)
 * [2023-04-24, 18:36:29](https://news.ycombinator.com/item?id=35691381) - [Open Questions](https://gwern.net/question)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
-* [2023-04-24, 17:28:22](https://news.ycombinator.com/item?id=35690622) - [Is it possible to guide safely on Everest?](https://www.outsideonline.com/adventure-travel/destinations/asia/what-pros-know-complete-conversation/)
 * [2023-04-24, 07:54:21](https://news.ycombinator.com/item?id=35684808) - [Heavy particles don’t explain gravitational lensing oddities](https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/)
 
 ## [Archives](archives/index.md)
