@@ -2,7 +2,6 @@
 
 * [2023-04-25, 00:34:32](https://news.ycombinator.com/item?id=35695127) - [Deming Paradox: Operationally rigorous companies aren&#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
 * [2023-04-24, 23:53:32](https://news.ycombinator.com/item?id=35694810) - [Smokeless_UMAF: Access AMD hidden BIOS settings](https://github.com/DavidS95/Smokeless_UMAF)
-* [2023-04-24, 23:30:05](https://news.ycombinator.com/item?id=35694652) - [PyRF: Open-source comprehensive development environment for wireless signal](https://pyrf.readthedocs.io/en/latest/)
 * [2023-04-24, 23:22:59](https://news.ycombinator.com/item?id=35694594) - [A mutual aid auto shop in Alabama](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
 * [2023-04-24, 23:18:15](https://news.ycombinator.com/item?id=35694553) - [ONNX Runtime merges WebGPU backend](https://github.com/microsoft/onnxruntime/pull/14579)
 * [2023-04-24, 21:09:57](https://news.ycombinator.com/item?id=35693306) - [Palo Alto Research Center (PARC) to join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
@@ -28,6 +27,7 @@
 * [2023-04-24, 13:04:07](https://news.ycombinator.com/item?id=35687157) - [Bullet Train – Rails-based SaaS framework](https://bullettrain.co/)
 * [2023-04-24, 09:48:11](https://news.ycombinator.com/item?id=35685497) - [LAION, a high school teacher’s free image database, powers AI unicorns](https://www.bloomberg.com/news/features/2023-04-24/a-high-school-teacher-s-free-image-database-powers-ai-unicorns)
 * [2023-04-24, 07:20:29](https://news.ycombinator.com/item?id=35684585) - [Second IC – Homemade 1000 transistor array chip (2021)](http://sam.zeloof.xyz/second-ic/)
+* [2023-04-24, 03:12:11](https://news.ycombinator.com/item?id=35683265) - [Capturing the Flag with GPT4](https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/)
 * [2023-04-23, 10:56:58](https://news.ycombinator.com/item?id=35675159) - [I Wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost](https://gopiandcode.uk/logs/log-writing-activitypub.html)
 * [2023-04-22, 19:28:22](https://news.ycombinator.com/item?id=35670129) - [The Four Hobbies, and Apparent Expertise](https://brooker.co.za/blog/2023/04/20/hobbies.html)
 

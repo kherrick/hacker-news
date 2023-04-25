@@ -92,6 +92,7 @@
 * [2023-04-24, 05:54:37](https://news.ycombinator.com/item?id=35684125) - [As an AI Language Model](https://twitter.com/d_feldman/status/1649466422018318338)
 * [2023-04-24, 03:49:13](https://news.ycombinator.com/item?id=35683465) - [The Banality of Floods (and Droughts)](https://californiawaterblog.com/2023/04/22/the-banality-of-floods-and-droughts/)
 * [2023-04-24, 03:29:43](https://news.ycombinator.com/item?id=35683360) - [Squawk bots: Can generative AI lead us to understanding animals?](https://cloud.google.com/blog/transform/can-generative-ai-help-humans-understand-animals-earth-species-project-conservation)
+* [2023-04-24, 03:12:11](https://news.ycombinator.com/item?id=35683265) - [Capturing the Flag with GPT4](https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/)
 * [2023-04-24, 03:10:00](https://news.ycombinator.com/item?id=35683254) - [DuckDuckGo removed the ability to filter search results](https://github.com/duckduckgo/duckduckgo-help-pages/commit/d35d03e532c7618bcdd2be10ea67e9e1f021dd96)
 * [2023-04-24, 02:54:07](https://news.ycombinator.com/item?id=35683172) - [Analysis shows California EDD fraud at $32.6B and counting](https://www.kcra.com/article/analysis-edd-fraud-326-billion-and-counting/41281662)
 * [2023-04-24, 02:10:28](https://news.ycombinator.com/item?id=35682918) - [Inferno-OS: distributed operating system where everything is a file, with 9P](https://github.com/inferno-os/inferno-os)
