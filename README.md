@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-25, 13:11:50](https://news.ycombinator.com/item?id=35699962) - [A.I. Imagery May Destroy History as We Know It](https://petapixel.com/2023/04/24/a-i-imagery-may-destroy-history-as-we-know-it/)
+* [2023-04-25, 13:00:43](https://news.ycombinator.com/item?id=35699855) - [The dark forest and the cozy web](https://maggieappleton.com/cozy-web)
 * [2023-04-25, 12:44:36](https://news.ycombinator.com/item?id=35699697) - [My Thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
 * [2023-04-25, 12:00:08](https://news.ycombinator.com/item?id=35699275) - [Paperspace (YC W15) is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
 * [2023-04-25, 11:36:34](https://news.ycombinator.com/item?id=35699036) - [The Old (2018)](https://neocha.com/magazine/the-old/)
@@ -10,8 +11,6 @@
 * [2023-04-25, 10:15:49](https://news.ycombinator.com/item?id=35698521) - [People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
 * [2023-04-25, 09:38:14](https://news.ycombinator.com/item?id=35698282) - [A command-line tool to easily kill processes running on a specified port](https://github.com/jkfran/killport)
 * [2023-04-25, 09:08:09](https://news.ycombinator.com/item?id=35698112) - [Electricity from Space: The 1970s DOE&#x2F;NASA Solar Power Satellite Studies](http://spaceflighthistory.blogspot.com/2016/12/energy-from-space-department-of.html)
-* [2023-04-25, 08:21:09](https://news.ycombinator.com/item?id=35697869) - [Strlcpy and Strlcat – Consistent, Safe, String Copy and Concatenation (1999) [pdf]](https://www.openbsd.org/papers/strlcpy-paper.pdf)
-* [2023-04-25, 07:48:05](https://news.ycombinator.com/item?id=35697674) - [Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?](https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html)
 * [2023-04-25, 05:18:45](https://news.ycombinator.com/item?id=35696776) - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 * [2023-04-25, 03:08:38](https://news.ycombinator.com/item?id=35696111) - [Distractions Cause Bad Code (2018)](https://ntietz.com/blog/distractions-cause-bad-code/)
 * [2023-04-25, 01:11:49](https://news.ycombinator.com/item?id=35695383) - [GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
@@ -20,7 +19,7 @@
 * [2023-04-24, 23:18:15](https://news.ycombinator.com/item?id=35694553) - [ONNX Runtime merges WebGPU backend](https://github.com/microsoft/onnxruntime/pull/14579)
 * [2023-04-24, 20:25:31](https://news.ycombinator.com/item?id=35692697) - [A Defense of Text-Speak](https://www.nateranda.com/blog/post/a-defense-of-text-speak/)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
-* [2023-04-24, 17:35:58](https://news.ycombinator.com/item?id=35690707) - [Bean leaves don’t let the bedbugs bite by using tiny, impaling spikes](https://www.smithsonianmag.com/science-nature/bean-leaves-dont-let-the-bedbugs-bite-by-using-tiny-impaling-spikes-18427074/)
+* [2023-04-24, 17:35:58](https://news.ycombinator.com/item?id=35690707) - [Bean leaves don’t let the bedbugs bite by using tiny, impaling spikes (2013)](https://www.smithsonianmag.com/science-nature/bean-leaves-dont-let-the-bedbugs-bite-by-using-tiny-impaling-spikes-18427074/)
 * [2023-04-24, 17:25:31](https://news.ycombinator.com/item?id=35690590) - [If cryonics suddenly worked (2016)](https://www.bbc.com/future/article/20160424-if-cryonics-suddenly-worked-wed-need-to-face-the-fallout)
 * [2023-04-24, 17:24:26](https://news.ycombinator.com/item?id=35690576) - [Ox](https://sesquiotic.com/2023/04/20/ox/)
 * [2023-04-24, 14:41:48](https://news.ycombinator.com/item?id=35688233) - [Quantum physics falls apart without imaginary numbers](https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/)
@@ -28,6 +27,7 @@
 * [2023-04-24, 11:34:56](https://news.ycombinator.com/item?id=35686310) - [Day Ahead Market adventures: capacity restrictions and negative prices](https://boerman.dev/posts/market20230419/)
 * [2023-04-24, 09:48:11](https://news.ycombinator.com/item?id=35685497) - [LAION, a high school teacher’s free image database, powers AI unicorns](https://www.bloomberg.com/news/features/2023-04-24/a-high-school-teacher-s-free-image-database-powers-ai-unicorns)
 * [2023-04-24, 07:54:21](https://news.ycombinator.com/item?id=35684808) - [Heavy particles don’t explain gravitational lensing oddities](https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/)
+* [2023-04-24, 07:37:30](https://news.ycombinator.com/item?id=35684709) - [Are pull requests bad because they originate from open-source development?](https://blog.ploeh.dk/2023/04/24/are-pull-requests-bad-because-they-originate-from-open-source-development/)
 * [2023-04-24, 06:11:30](https://news.ycombinator.com/item?id=35684220) - [Ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 * [2023-04-24, 03:12:11](https://news.ycombinator.com/item?id=35683265) - [Capturing the Flag with GPT-4](https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/)
 
