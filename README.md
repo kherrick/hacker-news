@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-25, 19:05:25](https://news.ycombinator.com/item?id=35705133) - [Sandy Munro Talks Battery Battles, Calls Solid State “Kiss of Death” for Gas](https://www.sae.org/blog/sandy-munro-live-sae-wcx)
+* [2023-04-25, 18:27:16](https://news.ycombinator.com/item?id=35704626) - [What Rosalind Franklin truly contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
 * [2023-04-25, 18:20:30](https://news.ycombinator.com/item?id=35704516) - [Explaining tech&#x27;s notion of talent scarcity](https://nadia.xyz/top-talent)
 * [2023-04-25, 17:38:01](https://news.ycombinator.com/item?id=35703906) - [Could we stop Yellowstone from erupting with a giant geothermal power plant?](https://constructionphysics.substack.com/p/could-we-stop-yellowstone-from-erupting)
 * [2023-04-25, 17:29:04](https://news.ycombinator.com/item?id=35703789) - [Microsoft Edge is leaking the sites you visit to Bing](https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy)
@@ -21,13 +23,11 @@
 * [2023-04-25, 14:11:46](https://news.ycombinator.com/item?id=35700751) - [IKEA Redesigns Its Bestsellers](https://www.wsj.com/articles/ikea-furniture-inflation-billy-c2f835bc)
 * [2023-04-25, 12:44:36](https://news.ycombinator.com/item?id=35699697) - [My thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
 * [2023-04-25, 12:00:08](https://news.ycombinator.com/item?id=35699275) - [Paperspace (YC W15) is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
-* [2023-04-25, 11:36:34](https://news.ycombinator.com/item?id=35699036) - [The Old (2018)](https://neocha.com/magazine/the-old/)
 * [2023-04-25, 10:48:04](https://news.ycombinator.com/item?id=35698702) - [The Nature of Code (2012)](https://natureofcode.com/)
 * [2023-04-25, 10:21:28](https://news.ycombinator.com/item?id=35698547) - [Smartphones with Qualcomm chip secretly send personal data to Qualcomm](https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker)
 * [2023-04-25, 10:15:49](https://news.ycombinator.com/item?id=35698521) - [People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
 * [2023-04-25, 09:08:09](https://news.ycombinator.com/item?id=35698112) - [Electricity from Space: The 1970s DOE&#x2F;NASA Solar Power Satellite Studies](http://spaceflighthistory.blogspot.com/2016/12/energy-from-space-department-of.html)
 * [2023-04-24, 20:35:28](https://news.ycombinator.com/item?id=35692844) - [Transistor Made of Wood](https://www.pnas.org/doi/10.1073/pnas.2218380120)
-* [2023-04-24, 18:36:29](https://news.ycombinator.com/item?id=35691381) - [Open Questions](https://gwern.net/question)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 07:54:21](https://news.ycombinator.com/item?id=35684808) - [Heavy particles don’t explain gravitational lensing oddities](https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/)
 

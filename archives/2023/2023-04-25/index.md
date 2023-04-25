@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 19:05:25](https://news.ycombinator.com/item?id=35705133) - [Sandy Munro Talks Battery Battles, Calls Solid State “Kiss of Death” for Gas](https://www.sae.org/blog/sandy-munro-live-sae-wcx)
+* [2023-04-25, 18:27:16](https://news.ycombinator.com/item?id=35704626) - [What Rosalind Franklin truly contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
 * [2023-04-25, 18:20:30](https://news.ycombinator.com/item?id=35704516) - [Explaining tech&#x27;s notion of talent scarcity](https://nadia.xyz/top-talent)
 * [2023-04-25, 17:38:01](https://news.ycombinator.com/item?id=35703906) - [Could we stop Yellowstone from erupting with a giant geothermal power plant?](https://constructionphysics.substack.com/p/could-we-stop-yellowstone-from-erupting)
 * [2023-04-25, 17:29:04](https://news.ycombinator.com/item?id=35703789) - [Microsoft Edge is leaking the sites you visit to Bing](https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy)
