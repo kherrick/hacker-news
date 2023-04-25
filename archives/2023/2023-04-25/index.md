@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 16:30:20](https://news.ycombinator.com/item?id=35702757) - [Clarity Reader: LLM powered depth-first reading for complex documents](https://github.com/1rgs/clarity-reader)
 * [2023-04-25, 16:08:36](https://news.ycombinator.com/item?id=35702407) - [ResearchGPT: Automated Data Analysis and Interpretation](https://phasellm.com/researchgpt)
+* [2023-04-25, 16:08:17](https://news.ycombinator.com/item?id=35702403) - [Stable Diffusion: What Does a Technical Author Look Like?](https://martinfowler.com/articles/2023-tech-author-portrait.html)
 * [2023-04-25, 15:54:00](https://news.ycombinator.com/item?id=35702201) - [Shell admits 1.5C climate goal means immediate end to fossil fuel growth](https://www.resilience.org/stories/2023-04-24/shell-admits-1-5c-climate-goal-means-immediate-end-to-fossil-fuel-growth/)
 * [2023-04-25, 15:26:01](https://news.ycombinator.com/item?id=35701790) - [Internet is wholesome: MVCC edition](https://avi.im/blag/2023/internet-mvcc/)
 * [2023-04-25, 15:25:51](https://news.ycombinator.com/item?id=35701785) - [The EU Suppressed a 300-Page Study That Found Piracy Doesn’t Harm Sales](https://gizmodo.com/the-eu-suppressed-a-300-page-study-that-found-piracy-do-1818629537)
@@ -17,6 +19,7 @@
 * [2023-04-25, 14:23:35](https://news.ycombinator.com/item?id=35700918) - [Bed Bath and Beyond Files for Bankruptcy](https://www.nytimes.com/2023/04/23/business/bed-bath-beyond-bankruptcy.html)
 * [2023-04-25, 14:20:52](https://news.ycombinator.com/item?id=35700881) - [Use of antibiotics in farming endangering human immune system](https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system)
 * [2023-04-25, 13:39:29](https://news.ycombinator.com/item?id=35700301) - [Web LLM](https://mlc.ai/web-llm/)
+* [2023-04-25, 13:22:06](https://news.ycombinator.com/item?id=35700080) - [Logic Noise: Sweet, Sweet Oscillator Sounds (2015)](https://hackaday.com/2015/02/04/logic-noise-sweet-sweet-oscillator-sounds/)
 * [2023-04-25, 13:11:50](https://news.ycombinator.com/item?id=35699962) - [A.I. Imagery May Destroy History as We Know It](https://petapixel.com/2023/04/24/a-i-imagery-may-destroy-history-as-we-know-it/)
 * [2023-04-25, 13:00:43](https://news.ycombinator.com/item?id=35699855) - [The dark forest and the cozy web](https://maggieappleton.com/cozy-web)
 * [2023-04-25, 12:55:04](https://news.ycombinator.com/item?id=35699801) - [It&#x27;s not only you, there&#x27;s an explosion of ChatGPT on HN](https://hn.curiosity.ai/#/trends?terms=AI;ChatGPT)
