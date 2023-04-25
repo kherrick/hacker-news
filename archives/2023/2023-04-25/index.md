@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 12:50:34](https://news.ycombinator.com/item?id=35699753) - [Congress is more Christian and religious than the general public](https://www.axios.com/2023/04/23/lawmakers-more-religious-general-public)
 * [2023-04-25, 12:00:08](https://news.ycombinator.com/item?id=35699275) - [Paperspace (YC W15) is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
 * [2023-04-25, 11:45:33](https://news.ycombinator.com/item?id=35699127) - [The Race to Colonize Mars Perpetuates a Dangerous Religion](https://nautil.us/the-race-to-colonize-mars-perpetuates-a-dangerous-religion-298323/)
 * [2023-04-25, 11:36:34](https://news.ycombinator.com/item?id=35699036) - [Street Photography of Japan&#x27;s Aging Population](https://neocha.com/magazine/the-old/)
