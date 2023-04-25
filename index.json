@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-04-25, 16:08:36",
+      "https://news.ycombinator.com/item?id=35702407"
+    ],
+    [
+      "ResearchGPT: Automated Data Analysis and Interpretation",
+      "https://phasellm.com/researchgpt"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 15:54:00",
+      "https://news.ycombinator.com/item?id=35702201"
+    ],
+    [
+      "Shell admits 1.5C climate goal means immediate end to fossil fuel growth",
+      "https://www.resilience.org/stories/2023-04-24/shell-admits-1-5c-climate-goal-means-immediate-end-to-fossil-fuel-growth/"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 15:26:01",
+      "https://news.ycombinator.com/item?id=35701790"
+    ],
+    [
+      "Internet is wholesome: MVCC edition",
+      "https://avi.im/blag/2023/internet-mvcc/"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 15:25:51",
       "https://news.ycombinator.com/item?id=35701785"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-04-25, 12:55:04",
-      "https://news.ycombinator.com/item?id=35699801"
-    ],
-    [
-      "It&#x27;s not only you, there&#x27;s an explosion of ChatGPT on HN",
-      "https://hn.curiosity.ai/#/trends?terms=AI;ChatGPT"
-    ]
-  ],
-  [
-    [
       "2023-04-25, 12:44:36",
       "https://news.ycombinator.com/item?id=35699697"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-04-25, 11:36:34",
-      "https://news.ycombinator.com/item?id=35699036"
-    ],
-    [
-      "The Old (2018)",
-      "https://neocha.com/magazine/the-old/"
-    ]
-  ],
-  [
-    [
       "2023-04-25, 10:48:04",
       "https://news.ycombinator.com/item?id=35698702"
     ],
@@ -167,16 +177,6 @@
     [
       "Smartphones with Qualcomm chip secretly send personal data to Qualcomm",
       "https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker"
-    ]
-  ],
-  [
-    [
-      "2023-04-25, 10:20:13",
-      "https://news.ycombinator.com/item?id=35698541"
-    ],
-    [
-      "Congress gets 40 ChatGPT Plus licenses to start experimenting with generative AI",
-      "https://fedscoop.com/congress-gets-40-chatgpt-plus-licenses/"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "Deep Neural Networks from Scratch in Zig",
       "https://monadmonkey.com/dnns-from-scratch-in-zig"
-    ]
-  ],
-  [
-    [
-      "2023-04-25, 00:34:32",
-      "https://news.ycombinator.com/item?id=35695127"
-    ],
-    [
-      "Deming Paradox: Operationally rigorous companies aren&#x27;t nice places to work",
-      "https://commoncog.com/deming-paradox-operational-rigour/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Ways to shoot yourself in the foot with PostgreSQL",
       "https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 03:12:11",
+      "https://news.ycombinator.com/item?id=35683265"
+    ],
+    [
+      "Capturing the Flag with GPT-4",
+      "https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/"
     ]
   ]
 ]
