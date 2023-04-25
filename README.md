@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-25, 14:27:08](https://news.ycombinator.com/item?id=35700963) - [Eww: Programmable Widgets for Linux](https://github.com/elkowar/eww)
+* [2023-04-25, 14:23:35](https://news.ycombinator.com/item?id=35700918) - [Bed Bath and Beyond Files for Bankruptcy](https://www.nytimes.com/2023/04/23/business/bed-bath-beyond-bankruptcy.html)
 * [2023-04-25, 14:20:52](https://news.ycombinator.com/item?id=35700881) - [Use of antibiotics in farming endangering human immune system](https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system)
 * [2023-04-25, 13:00:43](https://news.ycombinator.com/item?id=35699855) - [The dark forest and the cozy web (2020)](https://maggieappleton.com/cozy-web)
 * [2023-04-25, 12:44:36](https://news.ycombinator.com/item?id=35699697) - [My Thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
@@ -14,7 +15,6 @@
 * [2023-04-25, 09:38:14](https://news.ycombinator.com/item?id=35698282) - [A command-line tool to easily kill processes running on a specified port](https://github.com/jkfran/killport)
 * [2023-04-25, 09:08:09](https://news.ycombinator.com/item?id=35698112) - [Electricity from Space: The 1970s DOE&#x2F;NASA Solar Power Satellite Studies](http://spaceflighthistory.blogspot.com/2016/12/energy-from-space-department-of.html)
 * [2023-04-25, 05:18:45](https://news.ycombinator.com/item?id=35696776) - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
-* [2023-04-25, 03:08:38](https://news.ycombinator.com/item?id=35696111) - [Distractions Cause Bad Code (2018)](https://ntietz.com/blog/distractions-cause-bad-code/)
 * [2023-04-25, 01:11:49](https://news.ycombinator.com/item?id=35695383) - [GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
 * [2023-04-25, 00:34:32](https://news.ycombinator.com/item?id=35695127) - [Deming Paradox: Operationally rigorous companies aren&#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
 * [2023-04-24, 20:25:31](https://news.ycombinator.com/item?id=35692697) - [A Defense of Text-Speak](https://www.nateranda.com/blog/post/a-defense-of-text-speak/)

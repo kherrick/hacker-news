@@ -6,6 +6,7 @@
 
 * [2023-04-25, 14:28:09](https://news.ycombinator.com/item?id=35700983) - [The UK will spend £100M to develop its own &#x27;sovereign&#x27; AI](https://www.engadget.com/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html)
 * [2023-04-25, 14:27:08](https://news.ycombinator.com/item?id=35700963) - [Eww: Programmable Widgets for Linux](https://github.com/elkowar/eww)
+* [2023-04-25, 14:23:35](https://news.ycombinator.com/item?id=35700918) - [Bed Bath and Beyond Files for Bankruptcy](https://www.nytimes.com/2023/04/23/business/bed-bath-beyond-bankruptcy.html)
 * [2023-04-25, 14:20:52](https://news.ycombinator.com/item?id=35700881) - [Use of antibiotics in farming endangering human immune system](https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system)
 * [2023-04-25, 13:11:50](https://news.ycombinator.com/item?id=35699962) - [A.I. Imagery May Destroy History as We Know It](https://petapixel.com/2023/04/24/a-i-imagery-may-destroy-history-as-we-know-it/)
 * [2023-04-25, 13:00:43](https://news.ycombinator.com/item?id=35699855) - [The dark forest and the cozy web](https://maggieappleton.com/cozy-web)
