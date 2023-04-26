@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-26, 20:14:00",
+      "https://news.ycombinator.com/item?id=35719346"
+    ],
+    [
+      "Meta Q1 2023 Earning Results",
+      "https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-First-Quarter-2023-Results/default.aspx"
+    ]
+  ],
+  [
+    [
+      "2023-04-26, 19:55:58",
+      "https://news.ycombinator.com/item?id=35719100"
+    ],
+    [
+      "Building the Pocket CO2 Project",
+      "https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 19:00:51",
       "https://news.ycombinator.com/item?id=35718417"
     ],
@@ -131,26 +151,6 @@
   ],
   [
     [
-      "2023-04-26, 14:26:08",
-      "https://news.ycombinator.com/item?id=35714145"
-    ],
-    [
-      "Payments 101 for a Developer",
-      "https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 14:06:12",
-      "https://news.ycombinator.com/item?id=35713852"
-    ],
-    [
-      "Show HN: Learn German with Short Stories",
-      "https://webbu.app/german"
-    ]
-  ],
-  [
-    [
       "2023-04-26, 13:42:04",
       "https://news.ycombinator.com/item?id=35713524"
     ],
@@ -167,16 +167,6 @@
     [
       "Why is OAuth still hard in 2023?",
       "https://www.nango.dev/blog/why-is-oauth-still-hard"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 13:06:22",
-      "https://news.ycombinator.com/item?id=35713042"
-    ],
-    [
-      "The Role of Diet on the Gut Microbiome, Mood and Happiness",
-      "https://pubmed.ncbi.nlm.nih.gov/36993403/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Tuql: Automatically create a GraphQL server from a SQLite database",
       "https://github.com/bradleyboy/tuql"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 09:47:29",
+      "https://news.ycombinator.com/item?id=35698354"
+    ],
+    [
+      "Redump Milestone – 100k Discs",
+      "http://redump.org/"
     ]
   ],
   [
