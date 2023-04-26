@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 21:00:23](https://news.ycombinator.com/item?id=35719928) - [Compound (YC S19) is hiring to build a modern wealth manager](https://withcompound.com/company/about)
+* [2023-04-26, 20:43:27](https://news.ycombinator.com/item?id=35719726) - [&#x27;Indiana Jones 5&#x27; will feature a de-aged Harrison Ford for the first 25 minutes](https://www.engadget.com/indiana-jones-5-will-feature-a-de-aged-harrison-ford-for-the-first-25-minutes-103553183.html)
+* [2023-04-26, 20:33:40](https://news.ycombinator.com/item?id=35719559) - [Opting out of ChatGPT data sharing locked me out so hard I cant even cancel Plus](https://news.ycombinator.com/item?id=35719559)
 * [2023-04-26, 20:14:00](https://news.ycombinator.com/item?id=35719346) - [Meta Q1 2023 Earning Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-First-Quarter-2023-Results/default.aspx)
 * [2023-04-26, 20:08:56](https://news.ycombinator.com/item?id=35719283) - [BOE Chief Economist Says Britons ‘Need to Accept’ They’re Worse Off](https://www.bloomberg.com/news/articles/2023-04-25/boe-economist-says-uk-people-need-to-accept-they-re-worse-off)
 * [2023-04-26, 19:55:58](https://news.ycombinator.com/item?id=35719100) - [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
