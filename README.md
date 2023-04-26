@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-26, 16:24:36](https://news.ycombinator.com/item?id=35716250) - [One decade later, GNOME still sucks](https://felipec.wordpress.com/2023/03/04/one-decade-later-gnome-still-sucks/)
 * [2023-04-26, 15:57:22](https://news.ycombinator.com/item?id=35715816) - [A Survey of Worldwide Censorship Techniques](https://www.ietf.org/archive/id/draft-irtf-pearg-censorship-10.html)
 * [2023-04-26, 15:43:01](https://news.ycombinator.com/item?id=35715548) - [Mastodon Has Already Won](https://d-s.sh/2023/mastodon-has-already-won/)
 * [2023-04-26, 15:14:47](https://news.ycombinator.com/item?id=35714990) - [Microsoft Edge Is Leaking the Sites You Visit to Bing](https://yro.slashdot.org/story/23/04/25/209254/microsoft-edge-is-leaking-the-sites-you-visit-to-bing)
@@ -27,6 +26,7 @@
 * [2023-04-25, 11:35:28](https://news.ycombinator.com/item?id=35699017) - [Tuql: Automatically create a GraphQL server from a SQLite database](https://github.com/bradleyboy/tuql)
 * [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch](https://e2eml.school/transformers.html)
 * [2023-04-24, 10:19:31](https://news.ycombinator.com/item?id=35685685) - [Last Highway Landing in USA](https://admiralcloudberg.medium.com/highway-to-ruin-the-crash-of-southern-airways-flight-242-7eb1433281fe)
+* [2023-04-24, 08:21:19](https://news.ycombinator.com/item?id=35684961) - [Thumb-Key: A privacy-conscious Android keyboard, made for your thumbs](https://github.com/dessalines/thumb-key)
 * [2023-04-24, 06:12:49](https://news.ycombinator.com/item?id=35684228) - [The Shrinking Role of Semaphores](https://lwn.net/Articles/928026/)
 * [2023-04-24, 05:51:04](https://news.ycombinator.com/item?id=35684103) - [Colosseum – the worlds most powerful RF emulator](https://signalprocessingjobs.com/docs/blogs/articles/colosseum/)
 * [2023-04-24, 04:46:11](https://news.ycombinator.com/item?id=35683754) - [Double Descent in Human Learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
