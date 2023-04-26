@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-26, 20:14:00](https://news.ycombinator.com/item?id=35719346) - [Meta Q1 2023 Earning Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-First-Quarter-2023-Results/default.aspx)
+* [2023-04-26, 20:08:56](https://news.ycombinator.com/item?id=35719283) - [BOE Chief Economist Says Britons ‘Need to Accept’ They’re Worse Off](https://www.bloomberg.com/news/articles/2023-04-25/boe-economist-says-uk-people-need-to-accept-they-re-worse-off)
 * [2023-04-26, 19:55:58](https://news.ycombinator.com/item?id=35719100) - [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
 * [2023-04-26, 19:00:51](https://news.ycombinator.com/item?id=35718417) - [Linen.dev: A 500 kb Slack alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
 * [2023-04-26, 18:15:48](https://news.ycombinator.com/item?id=35717871) - [DeepFloyd IF: open-source text-to-image model](https://github.com/deep-floyd/IF)
