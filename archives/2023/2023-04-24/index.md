@@ -21,6 +21,7 @@
 * [2023-04-24, 20:31:35](https://news.ycombinator.com/item?id=35692790) - [Google Reader Revenue Manager](https://readerrevenue.withgoogle.com/)
 * [2023-04-24, 20:25:31](https://news.ycombinator.com/item?id=35692697) - [A Defense of Text-Speak](https://www.nateranda.com/blog/post/a-defense-of-text-speak/)
 * [2023-04-24, 20:15:17](https://news.ycombinator.com/item?id=35692563) - [The End of the Incandescent Era is Nearing](https://blog.1000bulbs.com/home/the-end-of-the-incandescent-era-is-nearing)
+* [2023-04-24, 20:12:56](https://news.ycombinator.com/item?id=35692535) - [Open Sourcing Erlfuzz](https://erlangforums.com/t/open-sourcing-erlfuzz/2562)
 * [2023-04-24, 20:08:52](https://news.ycombinator.com/item?id=35692476) - [OpenAI has applied for “GPT” trademark with USPTO](https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4802:jtelqq.2.16)
 * [2023-04-24, 19:49:12](https://news.ycombinator.com/item?id=35692242) - [Digital Addiction: Focusing on the Cure, Not the Disease](https://louison.substack.com/p/digital-addiction-focusing-on-the)
 * [2023-04-24, 19:19:58](https://news.ycombinator.com/item?id=35691910) - [The problems with live coding interviews](https://garrettdimon.com/journal/posts/live-coding-interviews)
