@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 11:42:48](https://news.ycombinator.com/item?id=35712131) - [AI used photographer’s photos for training, then slapped him with an invoice](https://www.diyphotography.net/ai-used-photographers-photos-for-training-then-slapped-him-with-an-invoice/)
 * [2023-04-26, 11:17:28](https://news.ycombinator.com/item?id=35711968) - [UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
 * [2023-04-26, 11:09:05](https://news.ycombinator.com/item?id=35711913) - [Microsoft &#x2F; Activision deal prevented to protect innovation and choice in gaming](https://www.gov.uk/government/news/microsoft-activision-deal-prevented-to-protect-innovation-and-choice-in-cloud-gaming)
 * [2023-04-26, 09:53:45](https://news.ycombinator.com/item?id=35711436) - [Tech jobs remain a good bet despite mass layoffs in Silicon Valley](https://www.npr.org/2023/04/26/1170522239/tech-job-openings-mass-layoffs-workers-silicon-valley-google-meta-amazon)
@@ -7,7 +8,6 @@
 * [2023-04-26, 09:33:39](https://news.ycombinator.com/item?id=35711317) - [We need female mice in neuroscience research](https://news.harvard.edu/gazette/story/2023/03/study-confirms-why-we-need-female-mice-in-neuroscience-research/)
 * [2023-04-26, 08:48:42](https://news.ycombinator.com/item?id=35711013) - [Neutralinojs – Build lightweight cross-platform desktop apps with JavaScript](https://neutralino.js.org/docs/)
 * [2023-04-26, 08:24:06](https://news.ycombinator.com/item?id=35710848) - [Vegan Leather Made of Dormant Fungi Can Repair Itself](https://www.sciencenews.org/article/vegan-leather-fungi-repair-mycelium)
-* [2023-04-26, 04:55:49](https://news.ycombinator.com/item?id=35709758) - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
 * [2023-04-26, 03:43:26](https://news.ycombinator.com/item?id=35709453) - [Show HN: Jellylade – Turn your screenshots into posts](https://app.jellylade.com)
 * [2023-04-26, 03:19:22](https://news.ycombinator.com/item?id=35709348) - [How to use Podman inside of a container (2021)](https://www.redhat.com/sysadmin/podman-inside-container)
 * [2023-04-26, 02:32:11](https://news.ycombinator.com/item?id=35709114) - [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)

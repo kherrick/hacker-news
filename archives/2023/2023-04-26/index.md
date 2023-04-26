@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 11:42:48](https://news.ycombinator.com/item?id=35712131) - [AI used photographer’s photos for training, then slapped him with an invoice](https://www.diyphotography.net/ai-used-photographers-photos-for-training-then-slapped-him-with-an-invoice/)
 * [2023-04-26, 11:17:28](https://news.ycombinator.com/item?id=35711968) - [UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
 * [2023-04-26, 11:09:05](https://news.ycombinator.com/item?id=35711913) - [Microsoft &#x2F; Activision deal prevented to protect innovation and choice in gaming](https://www.gov.uk/government/news/microsoft-activision-deal-prevented-to-protect-innovation-and-choice-in-cloud-gaming)
 * [2023-04-26, 09:53:45](https://news.ycombinator.com/item?id=35711436) - [Tech jobs remain a good bet despite mass layoffs in Silicon Valley](https://www.npr.org/2023/04/26/1170522239/tech-job-openings-mass-layoffs-workers-silicon-valley-google-meta-amazon)
