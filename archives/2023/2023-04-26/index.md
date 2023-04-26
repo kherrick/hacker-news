@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 17:00:21](https://news.ycombinator.com/item?id=35716811) - [Activeloop (YC S18): Hiring Engineers for a Multi-Modal Vector Database for AI](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
+* [2023-04-26, 16:57:30](https://news.ycombinator.com/item?id=35716768) - [The Wealth Gap in Science: How Your Parents&#x27;s Income Affects Your Career](https://www.youtube.com/watch?v=lKmy7_vtrmA)
+* [2023-04-26, 16:46:50](https://news.ycombinator.com/item?id=35716585) - [Supreme Court will decide if all home equity may be forfeited for unpaid taxes](https://apnews.com/article/supreme-court-just-compensation-tax-sales-minneapolis-45d19359249669f7b75da32ac352d4c2)
 * [2023-04-26, 16:38:00](https://news.ycombinator.com/item?id=35716455) - [Transmeta Crusoe: The Most Interesting Processor to Ever Exist?](https://tedium.co/2023/04/26/transmeta-crusoe-processor-history/)
 * [2023-04-26, 16:24:36](https://news.ycombinator.com/item?id=35716250) - [One decade later, GNOME still sucks](https://felipec.wordpress.com/2023/03/04/one-decade-later-gnome-still-sucks/)
 * [2023-04-26, 15:57:22](https://news.ycombinator.com/item?id=35715816) - [A Survey of Worldwide Censorship Techniques](https://www.ietf.org/archive/id/draft-irtf-pearg-censorship-10.html)
+* [2023-04-26, 15:50:00](https://news.ycombinator.com/item?id=35715679) - [Someone Has to Run the Fabs](https://www.noahpinion.blog/p/repost-someone-has-to-run-the-fabs)
 * [2023-04-26, 15:43:01](https://news.ycombinator.com/item?id=35715548) - [Mastodon Has Already Won](https://d-s.sh/2023/mastodon-has-already-won/)
 * [2023-04-26, 15:22:19](https://news.ycombinator.com/item?id=35715141) - [Quantifying ChatGPT’s Gender Bias](https://aisnakeoil.substack.com/p/quantifying-chatgpts-gender-bias)
 * [2023-04-26, 15:14:47](https://news.ycombinator.com/item?id=35714990) - [Microsoft Edge Is Leaking the Sites You Visit to Bing](https://yro.slashdot.org/story/23/04/25/209254/microsoft-edge-is-leaking-the-sites-you-visit-to-bing)
 * [2023-04-26, 15:06:58](https://news.ycombinator.com/item?id=35714845) - [DJI Mavic 3 Pro](https://www.dji.com/mavic-3-pro)
+* [2023-04-26, 14:55:03](https://news.ycombinator.com/item?id=35714622) - [Starbucks Claims $181M in Revenue from Unused Gift Cards (2022)](https://www.pymnts.com/earnings/2022/starbucks-claims-181m-in-revenue-from-unused-gift-cards-and-loyalty-credits/)
 * [2023-04-26, 14:47:07](https://news.ycombinator.com/item?id=35714487) - [Sweden launches research rocket, accidentally hits Norway](https://www.reuters.com/world/europe/sweden-launches-research-rocket-accidentally-hits-norway-2023-04-25/)
 * [2023-04-26, 14:36:07](https://news.ycombinator.com/item?id=35714294) - [Colorado becomes first to pass ‘right to repair’ for farmers](https://www.wivb.com/news/colorado-becomes-1st-to-pass-right-to-repair-for-farmers/)
 * [2023-04-26, 14:31:59](https://news.ycombinator.com/item?id=35714228) - [Lessons by 3blue1brown](https://www.3blue1brown.com/)
