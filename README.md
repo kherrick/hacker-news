@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-26, 03:59:09](https://news.ycombinator.com/item?id=35709521) - [Gradle Still Sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
+* [2023-04-26, 03:19:22](https://news.ycombinator.com/item?id=35709348) - [How to use Podman inside of a container](https://www.redhat.com/sysadmin/podman-inside-container)
 * [2023-04-26, 02:32:11](https://news.ycombinator.com/item?id=35709114) - [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
 * [2023-04-26, 02:26:25](https://news.ycombinator.com/item?id=35709088) - [Show HN: ChatGPT on 2-Dimensional Map](https://www.superusapp.com/chatgpt2d/)
 * [2023-04-26, 01:43:39](https://news.ycombinator.com/item?id=35708869) - [Google Authenticator cloud sync&#x2F;backup is not E2E encrypted](https://defcon.social/@mysk/110262313275622023)
@@ -10,7 +11,6 @@
 * [2023-04-26, 00:14:45](https://news.ycombinator.com/item?id=35708359) - [Why do prime numbers make these spirals? (2019)](https://www.3blue1brown.com/lessons/prime-spirals)
 * [2023-04-26, 00:10:56](https://news.ycombinator.com/item?id=35708331) - [You could have invented futexes](https://tavianator.com/2023/futex.html)
 * [2023-04-25, 22:48:27](https://news.ycombinator.com/item?id=35707779) - [It doesn’t take much to make machine-learning algorithms go awry](https://www.economist.com/science-and-technology/2023/04/05/it-doesnt-take-much-to-make-machine-learning-algorithms-go-awry)
-* [2023-04-25, 22:40:53](https://news.ycombinator.com/item?id=35707698) - [Mrs Whitcher and the Renegade Numbers (2017)](https://www.lastwordonnothing.com/2017/04/24/mrs-whitcher-and-the-renegade-numbers/)
 * [2023-04-25, 22:40:24](https://news.ycombinator.com/item?id=35707692) - [We glued together content moderation to stop soccer pirates](https://www.mux.com/blog/how-content-moderation-rescued-750k-in-unpaid-invoices-from-soccer-pirates)
 * [2023-04-25, 22:23:31](https://news.ycombinator.com/item?id=35707542) - [Compressing Hegel (2020)](https://wittgenfine.substack.com/p/compressing-hegel)
 * [2023-04-25, 21:11:14](https://news.ycombinator.com/item?id=35706858) - [NitroKey disappoints me](https://blog.brixit.nl/nitrokey-dissapoints-me/)
