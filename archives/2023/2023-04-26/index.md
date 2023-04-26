@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 20:14:00](https://news.ycombinator.com/item?id=35719346) - [Meta Q1 2023 Earning Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-First-Quarter-2023-Results/default.aspx)
+* [2023-04-26, 19:55:58](https://news.ycombinator.com/item?id=35719100) - [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
 * [2023-04-26, 19:00:51](https://news.ycombinator.com/item?id=35718417) - [Linen.dev: The 500KB Slack Alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
 * [2023-04-26, 18:18:59](https://news.ycombinator.com/item?id=35717916) - [TSMC’s 3-Nm Push Faces Tool Struggles](https://www.eetimes.com/tsmcs-3-nm-push-faces-tool-struggles/)
 * [2023-04-26, 18:15:48](https://news.ycombinator.com/item?id=35717871) - [Deep Floyd Text-to-Image Model Release](https://github.com/deep-floyd/IF)

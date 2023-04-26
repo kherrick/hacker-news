@@ -71,6 +71,7 @@
 * [2023-04-25, 10:21:28](https://news.ycombinator.com/item?id=35698547) - [Smartphones with Qualcomm chip secretly send personal data to Qualcomm](https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker)
 * [2023-04-25, 10:20:13](https://news.ycombinator.com/item?id=35698541) - [Congress gets 40 ChatGPT Plus licenses to start experimenting with generative AI](https://fedscoop.com/congress-gets-40-chatgpt-plus-licenses/)
 * [2023-04-25, 10:15:49](https://news.ycombinator.com/item?id=35698521) - [People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
+* [2023-04-25, 09:47:29](https://news.ycombinator.com/item?id=35698354) - [Redump Milestone – 100k Discs](http://redump.org/)
 * [2023-04-25, 09:38:14](https://news.ycombinator.com/item?id=35698282) - [A command-line tool to easily kill processes running on a specified port](https://github.com/jkfran/killport)
 * [2023-04-25, 09:08:09](https://news.ycombinator.com/item?id=35698112) - [Electricity from Space: The 1970s DOE&#x2F;NASA Solar Power Satellite Studies](http://spaceflighthistory.blogspot.com/2016/12/energy-from-space-department-of.html)
 * [2023-04-25, 08:30:10](https://news.ycombinator.com/item?id=35697922) - [Show HN: TravelGPT Adventures: Your Guide to Experiencing the World with GPT](https://travelgpt.art)
