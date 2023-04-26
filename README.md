@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-26, 22:25:05](https://news.ycombinator.com/item?id=35720828) - [The Sad Story of OAuth 2.0 and Open Standards](http://xahlee.info/comp/oauth2_bad.html)
+* [2023-04-26, 22:29:46](https://news.ycombinator.com/item?id=35720865) - [The Glorious Return of a Humble Car Feature](https://slate.com/business/2023/04/cars-buttons-touchscreens-vw-porsche-nissan-hyundai.html)
 * [2023-04-26, 22:17:03](https://news.ycombinator.com/item?id=35720750) - [Theranos founder Elizabeth Holmes again delays start of 11-year prison term](https://www.theguardian.com/technology/2023/apr/26/theranos-elizabeth-holmes-prison-sentence-delayed)
 * [2023-04-26, 21:00:46](https://news.ycombinator.com/item?id=35719937) - [DeepDoctection: Document extraction and analysis using deep learning models](https://github.com/deepdoctection/deepdoctection)
 * [2023-04-26, 21:00:23](https://news.ycombinator.com/item?id=35719928) - [Compound (YC S19) is hiring to build a modern wealth manager](https://withcompound.com/company/about)

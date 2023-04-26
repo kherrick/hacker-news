@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 22:29:46](https://news.ycombinator.com/item?id=35720865) - [The Glorious Return of a Humble Car Feature](https://slate.com/business/2023/04/cars-buttons-touchscreens-vw-porsche-nissan-hyundai.html)
 * [2023-04-26, 22:25:05](https://news.ycombinator.com/item?id=35720828) - [The Sad Story of OAuth 2.0 and Open Standards](http://xahlee.info/comp/oauth2_bad.html)
 * [2023-04-26, 22:17:03](https://news.ycombinator.com/item?id=35720750) - [Theranos founder Elizabeth Holmes again delays start of 11-year prison term](https://www.theguardian.com/technology/2023/apr/26/theranos-elizabeth-holmes-prison-sentence-delayed)
 * [2023-04-26, 21:18:56](https://news.ycombinator.com/item?id=35720157) - [Microsoft TableTransformer](https://github.com/microsoft/table-transformer)
