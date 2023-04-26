@@ -10,6 +10,7 @@
 * [2023-04-26, 02:32:11](https://news.ycombinator.com/item?id=35709114) - [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
 * [2023-04-26, 02:26:25](https://news.ycombinator.com/item?id=35709088) - [Show HN: ChatGPT on 2-Dimensional Map](https://www.superusapp.com/chatgpt2d/)
 * [2023-04-26, 01:43:39](https://news.ycombinator.com/item?id=35708869) - [Google Authenticator cloud sync: Google can see the secrets, even while stored](https://defcon.social/@mysk/110262313275622023)
+* [2023-04-26, 01:08:59](https://news.ycombinator.com/item?id=35708683) - [My Life with the Penguins](https://nautil.us/my-life-with-the-penguins-298047/)
 * [2023-04-26, 00:57:18](https://news.ycombinator.com/item?id=35708617) - [GPS, UTC and TAI Clocks (2001)](http://www.leapsecond.com/java/gpsclock.htm)
 * [2023-04-26, 00:56:33](https://news.ycombinator.com/item?id=35708613) - [Show HN: Neat – Minimalist CSS Framework](https://neat.joeldare.com)
 * [2023-04-26, 00:14:45](https://news.ycombinator.com/item?id=35708359) - [Why do prime numbers make these spirals? (2019)](https://www.3blue1brown.com/lessons/prime-spirals)
@@ -28,7 +29,6 @@
 * [2023-04-25, 16:13:29](https://news.ycombinator.com/item?id=35702490) - [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
 * [2023-04-24, 20:12:56](https://news.ycombinator.com/item?id=35692535) - [Erlfuzz – Fuzzer for the Erlang compiler and VM](https://erlangforums.com/t/open-sourcing-erlfuzz/2562)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
-* [2023-04-24, 07:16:16](https://news.ycombinator.com/item?id=35684557) - [Warhorse Studios: A Lesson in Cartography in Potato Land (2012)](https://web.archive.org/web/20160401094438/http://warhorsestudios.cz/index.php?page=blog&entry=blog_011)
 * [2023-04-24, 04:46:11](https://news.ycombinator.com/item?id=35683754) - [Double Descent in Human Learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
 
 ## [Archives](archives/index.md)
