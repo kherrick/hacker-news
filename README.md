@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-26, 02:47:40](https://news.ycombinator.com/item?id=35709199) - [Replit Series B Announcement](https://blog.replit.com/b-extension)
-* [2023-04-26, 02:26:25](https://news.ycombinator.com/item?id=35709088) - [Show HN: Use ChatGPT on a 2 Dimensional Interface](https://www.superusapp.com/chatgpt2d/)
+* [2023-04-26, 03:59:09](https://news.ycombinator.com/item?id=35709521) - [Gradle Still Sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
+* [2023-04-26, 02:32:11](https://news.ycombinator.com/item?id=35709114) - [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
+* [2023-04-26, 02:26:25](https://news.ycombinator.com/item?id=35709088) - [Show HN: ChatGPT on 2-Dimensional Map](https://www.superusapp.com/chatgpt2d/)
 * [2023-04-26, 01:43:39](https://news.ycombinator.com/item?id=35708869) - [Google Authenticator cloud sync&#x2F;backup is not E2E encrypted](https://defcon.social/@mysk/110262313275622023)
 * [2023-04-26, 01:08:59](https://news.ycombinator.com/item?id=35708683) - [My Life with the Penguins](https://nautil.us/my-life-with-the-penguins-298047/)
 * [2023-04-26, 00:57:18](https://news.ycombinator.com/item?id=35708617) - [GPS, UTC and TAI Clocks (2001)](http://www.leapsecond.com/java/gpsclock.htm)
@@ -11,7 +12,6 @@
 * [2023-04-25, 22:48:27](https://news.ycombinator.com/item?id=35707779) - [It doesn’t take much to make machine-learning algorithms go awry](https://www.economist.com/science-and-technology/2023/04/05/it-doesnt-take-much-to-make-machine-learning-algorithms-go-awry)
 * [2023-04-25, 22:40:53](https://news.ycombinator.com/item?id=35707698) - [Mrs Whitcher and the Renegade Numbers (2017)](https://www.lastwordonnothing.com/2017/04/24/mrs-whitcher-and-the-renegade-numbers/)
 * [2023-04-25, 22:40:24](https://news.ycombinator.com/item?id=35707692) - [We glued together content moderation to stop soccer pirates](https://www.mux.com/blog/how-content-moderation-rescued-750k-in-unpaid-invoices-from-soccer-pirates)
-* [2023-04-25, 22:29:08](https://news.ycombinator.com/item?id=35707593) - [Show HN: Preview environments for projects that do not use K8s&#x2F;Docker](https://codepreview.io/)
 * [2023-04-25, 22:23:31](https://news.ycombinator.com/item?id=35707542) - [Compressing Hegel (2020)](https://wittgenfine.substack.com/p/compressing-hegel)
 * [2023-04-25, 21:11:14](https://news.ycombinator.com/item?id=35706858) - [NitroKey disappoints me](https://blog.brixit.nl/nitrokey-dissapoints-me/)
 * [2023-04-25, 21:02:02](https://news.ycombinator.com/item?id=35706760) - [Aptible (YC S14) is hiring a security engineer and a head of product](https://news.ycombinator.com/item?id=35706760)
