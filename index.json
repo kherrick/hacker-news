@@ -1,22 +1,12 @@
 [
   [
     [
-      "2023-04-26, 06:47:41",
-      "https://news.ycombinator.com/item?id=35710287"
+      "2023-04-26, 06:44:29",
+      "https://news.ycombinator.com/item?id=35710269"
     ],
     [
-      "Tech giants bury mediocre results under AI hype",
-      "https://www.reuters.com/breakingviews/tech-giants-bury-mediocre-results-under-ai-hype-2023-04-25/"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 06:20:26",
-      "https://news.ycombinator.com/item?id=35710144"
-    ],
-    [
-      "Brooklyn Public Library Offers Free ECards to Teens Nationwide Facing Book Bans",
-      "https://www.bklynlibrary.org/media/press/brooklyn-public-library-94"
+      "Netflix Loses 1M Users in Spain over Password Policing",
+      "https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing"
     ]
   ],
   [
@@ -37,16 +27,6 @@
     [
       "Welcome to a new, humbler private-equity industry",
       "https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 04:31:08",
-      "https://news.ycombinator.com/item?id=35709648"
-    ],
-    [
-      "Iconify for React Native",
-      "https://github.com/oktaysenkan/react-native-iconify"
     ]
   ],
   [
@@ -111,6 +91,16 @@
   ],
   [
     [
+      "2023-04-26, 00:57:18",
+      "https://news.ycombinator.com/item?id=35708617"
+    ],
+    [
+      "GPS, UTC and TAI Clocks (2001)",
+      "http://www.leapsecond.com/java/gpsclock.htm"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 00:56:33",
       "https://news.ycombinator.com/item?id=35708613"
     ],
@@ -137,6 +127,16 @@
     [
       "You could have invented futexes",
       "https://tavianator.com/2023/futex.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 23:29:13",
+      "https://news.ycombinator.com/item?id=35708070"
+    ],
+    [
+      "Reflections on Migrating My SaaS to SvelteKit",
+      "http://sveltekitsaas.com/articles/migrate-saas-to-sveltekit/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=35685517"
     ],
     [
-      "The War on Passwords Enters a Chaotic New Phase",
+      "The transition from logins to cryptographic passkeys is getting messy",
       "https://www.wired.com/story/passwords-passkey-transition-time/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=35684557"
     ],
     [
-      "Warhorse Studios: A Lesson in Cartography in Potato Land (2012)",
+      "A Lesson in Cartography in Potato Land (2012)",
       "https://web.archive.org/web/20160401094438/http://warhorsestudios.cz/index.php?page=blog&entry=blog_011"
     ]
   ],
