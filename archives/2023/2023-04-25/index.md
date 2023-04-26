@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 23:29:13](https://news.ycombinator.com/item?id=35708070) - [Reflections on Migrating My SaaS to SvelteKit](http://sveltekitsaas.com/articles/migrate-saas-to-sveltekit/)
 * [2023-04-25, 22:48:27](https://news.ycombinator.com/item?id=35707779) - [It doesn’t take much to make machine-learning algorithms go awry](https://www.economist.com/science-and-technology/2023/04/05/it-doesnt-take-much-to-make-machine-learning-algorithms-go-awry)
 * [2023-04-25, 22:41:11](https://news.ycombinator.com/item?id=35707702) - [How much does ‘nothing’ weigh?](https://www.scientificamerican.com/article/how-much-does-nothing-weigh/?ref=thebrowser.com)
 * [2023-04-25, 22:40:53](https://news.ycombinator.com/item?id=35707698) - [Mrs Whitcher and the Renegade Numbers (2017)](https://www.lastwordonnothing.com/2017/04/24/mrs-whitcher-and-the-renegade-numbers/)
