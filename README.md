@@ -22,7 +22,7 @@
 * [2023-04-25, 19:47:37](https://news.ycombinator.com/item?id=35705683) - [LTESniffer: An open-source LTE downlink&#x2F;uplink eavesdropper [pdf]](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf)
 * [2023-04-25, 19:00:40](https://news.ycombinator.com/item?id=35705063) - [Show HN: I built a multiplayer voxel browser game engine](https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/)
 * [2023-04-25, 18:27:16](https://news.ycombinator.com/item?id=35704626) - [What Rosalind Franklin contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
-* [2023-04-25, 17:26:37](https://news.ycombinator.com/item?id=35703741) - [Use Gröbner bases to solve polynomial equations](https://jingnanshi.com/blog/groebner_basis.html)
+* [2023-04-25, 17:49:29](https://news.ycombinator.com/item?id=35704101) - [Introduction to HTTP Multipart](https://blog.adamchalmers.com/multipart/)
 * [2023-04-25, 17:25:36](https://news.ycombinator.com/item?id=35703732) - [Commercial lunar lander presumed lost after moon landing attempt](https://www.cnn.com/2023/04/25/world/lunar-lander-japan-uae-hakuto-r-scn/index.html)
 * [2023-04-24, 20:12:56](https://news.ycombinator.com/item?id=35692535) - [Erlfuzz – Fuzzer for the Erlang compiler and VM](https://erlangforums.com/t/open-sourcing-erlfuzz/2562)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
