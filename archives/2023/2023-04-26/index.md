@@ -6,6 +6,7 @@
 
 * [2023-04-26, 13:12:19](https://news.ycombinator.com/item?id=35713120) - [Bottom line, a college degree is worth the cost and then some](https://www.washingtonpost.com/opinions/2023/04/26/college-degree-value-investment-return/)
 * [2023-04-26, 12:30:32](https://news.ycombinator.com/item?id=35712625) - [What I learned unsubscribing from 22 newspapers](https://www.lenfestinstitute.org/solution-set/i-canceled-22-digital-newspaper-subscriptions-heres-what-i-learned-about-digital-retention-strategies/)
+* [2023-04-26, 12:23:35](https://news.ycombinator.com/item?id=35712556) - [Show HN: Use Quizzes as Lead Magnets – EmbedQuiz](https://embedquiz.com/)
 * [2023-04-26, 12:05:18](https://news.ycombinator.com/item?id=35712375) - [A guide to prompting AI (for what it is worth)](https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what)
 * [2023-04-26, 12:04:09](https://news.ycombinator.com/item?id=35712360) - [Japan&#x27;s population may drop by almost one-third by 2070](https://www3.nhk.or.jp/nhkworld/en/news/20230426_23/)
 * [2023-04-26, 12:01:15](https://news.ycombinator.com/item?id=35712321) - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35712321)

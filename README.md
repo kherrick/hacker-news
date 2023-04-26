@@ -2,6 +2,7 @@
 
 * [2023-04-26, 13:12:19](https://news.ycombinator.com/item?id=35713120) - [Bottom line, a college degree is worth the cost and then some](https://www.washingtonpost.com/opinions/2023/04/26/college-degree-value-investment-return/)
 * [2023-04-26, 12:30:32](https://news.ycombinator.com/item?id=35712625) - [What I learned unsubscribing from 22 newspapers](https://www.lenfestinstitute.org/solution-set/i-canceled-22-digital-newspaper-subscriptions-heres-what-i-learned-about-digital-retention-strategies/)
+* [2023-04-26, 12:23:35](https://news.ycombinator.com/item?id=35712556) - [Show HN: Use Quizzes as Lead Magnets – EmbedQuiz](https://embedquiz.com/)
 * [2023-04-26, 12:05:18](https://news.ycombinator.com/item?id=35712375) - [A guide to prompting AI (for what it is worth)](https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what)
 * [2023-04-26, 12:04:09](https://news.ycombinator.com/item?id=35712360) - [Japan&#x27;s population may drop by almost one-third by 2070](https://www3.nhk.or.jp/nhkworld/en/news/20230426_23/)
 * [2023-04-26, 12:01:15](https://news.ycombinator.com/item?id=35712321) - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35712321)
@@ -27,7 +28,6 @@
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 10:19:31](https://news.ycombinator.com/item?id=35685685) - [Last Highway Landing in USA](https://admiralcloudberg.medium.com/highway-to-ruin-the-crash-of-southern-airways-flight-242-7eb1433281fe)
 * [2023-04-24, 09:51:48](https://news.ycombinator.com/item?id=35685517) - [The transition from logins to cryptographic passkeys is getting messy](https://www.wired.com/story/passwords-passkey-transition-time/)
-* [2023-04-24, 09:06:38](https://news.ycombinator.com/item?id=35685249) - [Painting Goethe’s Faust (2018)](https://eclecticlight.co/2018/12/29/painting-goethes-faust-0-introduction-to-a-new-series/)
 * [2023-04-24, 08:21:19](https://news.ycombinator.com/item?id=35684961) - [Thumb-Key: a privacy-conscious smart keyboard, made specifically for your thumbs](https://github.com/dessalines/thumb-key)
 * [2023-04-24, 04:46:11](https://news.ycombinator.com/item?id=35683754) - [Double Descent in Human Learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
 
