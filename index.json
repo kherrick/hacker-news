@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-26, 07:55:35",
+      "https://news.ycombinator.com/item?id=35710671"
+    ],
+    [
+      "Ask HN: Is &quot;Code Complete&quot; by Steve McConnell still a recommended read?",
+      "https://news.ycombinator.com/item?id=35710671"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 06:44:29",
       "https://news.ycombinator.com/item?id=35710269"
     ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2023-04-25, 17:02:24",
-      "https://news.ycombinator.com/item?id=35703367"
-    ],
-    [
-      "Tighter bounds on the expressivity of transformer encoders",
-      "https://arxiv.org/abs/2301.10743"
-    ]
-  ],
-  [
-    [
-      "2023-04-25, 16:45:41",
-      "https://news.ycombinator.com/item?id=35703057"
-    ],
-    [
-      "Fun with Kermit and ZMODEM over SSH",
-      "https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 20:12:56",
       "https://news.ycombinator.com/item?id=35692535"
     ],
@@ -277,6 +267,16 @@
     [
       "The transition from logins to cryptographic passkeys is getting messy",
       "https://www.wired.com/story/passwords-passkey-transition-time/"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 08:21:19",
+      "https://news.ycombinator.com/item?id=35684961"
+    ],
+    [
+      "Thumb-Key: a privacy-conscious smart keyboard, made specifically for your thumbs",
+      "https://github.com/dessalines/thumb-key"
     ]
   ],
   [
