@@ -9,6 +9,7 @@
 * [2023-04-26, 16:46:50](https://news.ycombinator.com/item?id=35716585) - [Supreme Court will decide if all home equity may be forfeited for unpaid taxes](https://apnews.com/article/supreme-court-just-compensation-tax-sales-minneapolis-45d19359249669f7b75da32ac352d4c2)
 * [2023-04-26, 16:38:00](https://news.ycombinator.com/item?id=35716455) - [Transmeta Crusoe: The Most Interesting Processor to Ever Exist?](https://tedium.co/2023/04/26/transmeta-crusoe-processor-history/)
 * [2023-04-26, 16:24:36](https://news.ycombinator.com/item?id=35716250) - [One decade later, GNOME still sucks](https://felipec.wordpress.com/2023/03/04/one-decade-later-gnome-still-sucks/)
+* [2023-04-26, 16:22:39](https://news.ycombinator.com/item?id=35716216) - [Why Did Google Brain Exist?](https://www.moderndescartes.com/essays/why_brain/)
 * [2023-04-26, 15:57:22](https://news.ycombinator.com/item?id=35715816) - [A Survey of Worldwide Censorship Techniques](https://www.ietf.org/archive/id/draft-irtf-pearg-censorship-10.html)
 * [2023-04-26, 15:50:00](https://news.ycombinator.com/item?id=35715679) - [Someone Has to Run the Fabs](https://www.noahpinion.blog/p/repost-someone-has-to-run-the-fabs)
 * [2023-04-26, 15:43:01](https://news.ycombinator.com/item?id=35715548) - [Mastodon Has Already Won](https://d-s.sh/2023/mastodon-has-already-won/)
