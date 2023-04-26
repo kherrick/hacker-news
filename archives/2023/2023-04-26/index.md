@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 17:36:04](https://news.ycombinator.com/item?id=35717344) - [Update Millions of Records in Rails](https://blog.eq8.eu/til/update-millions-of-records-in-rails.html)
 * [2023-04-26, 17:19:34](https://news.ycombinator.com/item?id=35717106) - [HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://xhuangcv.github.io/hdr-nerf/)
 * [2023-04-26, 17:10:38](https://news.ycombinator.com/item?id=35716963) - [The part of Postgres we hate the most: Multi-version concurrency control](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
 * [2023-04-26, 17:00:42](https://news.ycombinator.com/item?id=35716824) - [Database branching: three-way merge for schema changes](https://planetscale.com/blog/database-branching-three-way-merge-schema-changes)

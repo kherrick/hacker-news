@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 17:36:04](https://news.ycombinator.com/item?id=35717344) - [Update Millions of Records in Rails](https://blog.eq8.eu/til/update-millions-of-records-in-rails.html)
 * [2023-04-26, 17:19:34](https://news.ycombinator.com/item?id=35717106) - [HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://xhuangcv.github.io/hdr-nerf/)
 * [2023-04-26, 17:10:38](https://news.ycombinator.com/item?id=35716963) - [The part of Postgres we hate the most: Multi-version concurrency control](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
 * [2023-04-26, 17:00:42](https://news.ycombinator.com/item?id=35716824) - [Database branching: three-way merge for schema changes](https://planetscale.com/blog/database-branching-three-way-merge-schema-changes)
@@ -7,7 +8,6 @@
 * [2023-04-26, 16:57:30](https://news.ycombinator.com/item?id=35716768) - [The Wealth Gap in Science: How Your Parents&#x27;s Income Affects Your Career](https://www.youtube.com/watch?v=lKmy7_vtrmA)
 * [2023-04-26, 16:38:00](https://news.ycombinator.com/item?id=35716455) - [CISC-y RISC-ness](https://tedium.co/2023/04/26/transmeta-crusoe-processor-history/)
 * [2023-04-26, 16:22:39](https://news.ycombinator.com/item?id=35716216) - [Why Did Google Brain Exist?](https://www.moderndescartes.com/essays/why_brain/)
-* [2023-04-26, 15:57:22](https://news.ycombinator.com/item?id=35715816) - [A Survey of Worldwide Censorship Techniques](https://www.ietf.org/archive/id/draft-irtf-pearg-censorship-10.html)
 * [2023-04-26, 15:50:00](https://news.ycombinator.com/item?id=35715679) - [Someone Has to Run the Fabs](https://www.noahpinion.blog/p/repost-someone-has-to-run-the-fabs)
 * [2023-04-26, 15:14:47](https://news.ycombinator.com/item?id=35714990) - [Microsoft Edge Is Leaking the Sites You Visit to Bing](https://yro.slashdot.org/story/23/04/25/209254/microsoft-edge-is-leaking-the-sites-you-visit-to-bing)
 * [2023-04-26, 14:39:30](https://news.ycombinator.com/item?id=35714347) - [Bringing Memory Safety to sudo and su](https://www.memorysafety.org/blog/sudo-and-su/)
