@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 02:47:40](https://news.ycombinator.com/item?id=35709199) - [Replit Series B Announcement](https://blog.replit.com/b-extension)
 * [2023-04-26, 02:26:25](https://news.ycombinator.com/item?id=35709088) - [Show HN: Use ChatGPT on a 2 Dimensional Interface](https://www.superusapp.com/chatgpt2d/)
 * [2023-04-26, 01:43:39](https://news.ycombinator.com/item?id=35708869) - [Google Authenticator cloud sync&#x2F;backup is not E2E encrypted](https://defcon.social/@mysk/110262313275622023)
 * [2023-04-26, 01:19:05](https://news.ycombinator.com/item?id=35708732) - [BYD says self-driving tech is more valuable in factories than cars](https://www.cnbc.com/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html)

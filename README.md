@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 02:47:40](https://news.ycombinator.com/item?id=35709199) - [Replit Series B Announcement](https://blog.replit.com/b-extension)
 * [2023-04-26, 02:26:25](https://news.ycombinator.com/item?id=35709088) - [Show HN: Use ChatGPT on a 2 Dimensional Interface](https://www.superusapp.com/chatgpt2d/)
 * [2023-04-26, 01:43:39](https://news.ycombinator.com/item?id=35708869) - [Google Authenticator cloud sync&#x2F;backup is not E2E encrypted](https://defcon.social/@mysk/110262313275622023)
 * [2023-04-26, 01:08:59](https://news.ycombinator.com/item?id=35708683) - [My Life with the Penguins](https://nautil.us/my-life-with-the-penguins-298047/)
@@ -24,7 +25,6 @@
 * [2023-04-25, 16:45:41](https://news.ycombinator.com/item?id=35703057) - [Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
 * [2023-04-25, 16:13:29](https://news.ycombinator.com/item?id=35702490) - [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
 * [2023-04-25, 15:10:56](https://news.ycombinator.com/item?id=35701572) - [A non-technical explanation of deep learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
-* [2023-04-25, 14:38:28](https://news.ycombinator.com/item?id=35701116) - [The Vowel Space [video]](https://www.youtube.com/watch?v=FdldD0-kEcc)
 * [2023-04-25, 14:27:08](https://news.ycombinator.com/item?id=35700963) - [Eww: ElKowars wacky widgets](https://github.com/elkowar/eww)
 * [2023-04-25, 14:11:46](https://news.ycombinator.com/item?id=35700751) - [IKEA Redesigns Its Bestsellers](https://www.wsj.com/articles/ikea-furniture-inflation-billy-c2f835bc)
 * [2023-04-24, 20:12:56](https://news.ycombinator.com/item?id=35692535) - [Open Sourcing Erlfuzz](https://erlangforums.com/t/open-sourcing-erlfuzz/2562)
