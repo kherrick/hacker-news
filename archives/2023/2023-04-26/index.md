@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 13:43:31](https://news.ycombinator.com/item?id=35713541) - [How Amazon makes everything you buy more expensive, no matter where you buy it](https://pluralistic.net/2023/04/25/greedflation/)
+* [2023-04-26, 13:42:04](https://news.ycombinator.com/item?id=35713524) - [Long Before Trees Overtook the Land, Earth Was Covered by Giant Mushrooms (2013)](https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/)
 * [2023-04-26, 13:37:37](https://news.ycombinator.com/item?id=35713457) - [SpaceX Starship Grounded Indefinitely by FAA](https://www.flyingmag.com/spacex-starship-grounded-indefinitely-by-faa/)
+* [2023-04-26, 13:33:18](https://news.ycombinator.com/item?id=35713404) - [Stanford, Harvard data science no more](https://stanforddaily.com/2023/04/25/stanford-harvard-revise-high-school-math-curriculum-recommendations-exclude-data-science/)
+* [2023-04-26, 13:26:46](https://news.ycombinator.com/item?id=35713315) - [Britain blocks Microsoft’s $69B acquisition of Activision Blizzard](https://www.cnbc.com/2023/04/26/britain-blocks-microsoft-acquisition-of-activision-blizzard.html)
 * [2023-04-26, 13:26:24](https://news.ycombinator.com/item?id=35713310) - [Netflix to invest $2.5B in South Korea to make TV shows, movies](https://www.reuters.com/technology/netflix-invest-25-bln-south-korea-make-tv-shows-movies-2023-04-25/)
 * [2023-04-26, 13:12:19](https://news.ycombinator.com/item?id=35713120) - [Bottom line, a college degree is worth the cost and then some](https://www.washingtonpost.com/opinions/2023/04/26/college-degree-value-investment-return/)
 * [2023-04-26, 13:01:48](https://news.ycombinator.com/item?id=35712978) - [Tesla Again Paints a Misleading Story with Their Crash Data](https://www.forbes.com/sites/bradtempleton/2023/04/26/tesla-again-paints-a-very-misleading-story-with-their-crash-data/)

@@ -64,6 +64,7 @@
 * [2023-04-25, 11:45:33](https://news.ycombinator.com/item?id=35699127) - [The Race to Colonize Mars Perpetuates a Dangerous Religion](https://nautil.us/the-race-to-colonize-mars-perpetuates-a-dangerous-religion-298323/)
 * [2023-04-25, 11:40:24](https://news.ycombinator.com/item?id=35699078) - [SK Hynix Now Sampling 24GB HBM3 Stacks, Preparing for Mass Production](https://www.anandtech.com/show/18823/sk-hynix-now-sampling-24gb-hbm3-stacks-prepping-for-mass-production)
 * [2023-04-25, 11:36:34](https://news.ycombinator.com/item?id=35699036) - [Street Photography of Japan&#x27;s Aging Population](https://neocha.com/magazine/the-old/)
+* [2023-04-25, 11:35:28](https://news.ycombinator.com/item?id=35699017) - [Tuql: Automatically create a GraphQL server from a SQLite database](https://github.com/bradleyboy/tuql)
 * [2023-04-25, 11:30:29](https://news.ycombinator.com/item?id=35698983) - [Layoffs Now Targeting Devs](https://www.businessinsider.com/software-engineer-coding-jobs-face-layoffs-this-year-2023-4)
 * [2023-04-25, 11:09:48](https://news.ycombinator.com/item?id=35698834) - [When Apple Comes Calling, ‘It’s the Kiss of Death’](https://www.wsj.com/articles/apple-watch-patents-5b52cda0)
 * [2023-04-25, 10:48:04](https://news.ycombinator.com/item?id=35698702) - [The Nature of Code (Book)](https://natureofcode.com/)
