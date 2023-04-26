@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 17:00:42](https://news.ycombinator.com/item?id=35716824) - [Database branching: three-way merge for schema changes](https://planetscale.com/blog/database-branching-three-way-merge-schema-changes)
 * [2023-04-26, 17:00:21](https://news.ycombinator.com/item?id=35716811) - [Activeloop (YC S18): Hiring Engineers for a Multi-Modal Vector Database for AI](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 * [2023-04-26, 16:57:30](https://news.ycombinator.com/item?id=35716768) - [The Wealth Gap in Science: How Your Parents&#x27;s Income Affects Your Career](https://www.youtube.com/watch?v=lKmy7_vtrmA)
-* [2023-04-26, 16:38:00](https://news.ycombinator.com/item?id=35716455) - [Transmeta Crusoe: The Most Interesting Processor to Ever Exist?](https://tedium.co/2023/04/26/transmeta-crusoe-processor-history/)
+* [2023-04-26, 16:38:00](https://news.ycombinator.com/item?id=35716455) - [CISC-y RISC-ness](https://tedium.co/2023/04/26/transmeta-crusoe-processor-history/)
 * [2023-04-26, 16:22:39](https://news.ycombinator.com/item?id=35716216) - [Why Did Google Brain Exist?](https://www.moderndescartes.com/essays/why_brain/)
 * [2023-04-26, 15:57:22](https://news.ycombinator.com/item?id=35715816) - [A Survey of Worldwide Censorship Techniques](https://www.ietf.org/archive/id/draft-irtf-pearg-censorship-10.html)
 * [2023-04-26, 15:50:00](https://news.ycombinator.com/item?id=35715679) - [Someone Has to Run the Fabs](https://www.noahpinion.blog/p/repost-someone-has-to-run-the-fabs)
@@ -21,7 +22,6 @@
 * [2023-04-26, 11:17:28](https://news.ycombinator.com/item?id=35711968) - [UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
 * [2023-04-26, 08:48:42](https://news.ycombinator.com/item?id=35711013) - [Neutralinojs – Build lightweight cross-platform desktop apps with JavaScript](https://neutralino.js.org/docs/)
 * [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
-* [2023-04-26, 03:19:22](https://news.ycombinator.com/item?id=35709348) - [How to use Podman inside of a container (2021)](https://www.redhat.com/sysadmin/podman-inside-container)
 * [2023-04-26, 02:32:11](https://news.ycombinator.com/item?id=35709114) - [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
 * [2023-04-25, 11:35:28](https://news.ycombinator.com/item?id=35699017) - [Tuql: Automatically create a GraphQL server from a SQLite database](https://github.com/bradleyboy/tuql)
 * [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch](https://e2eml.school/transformers.html)

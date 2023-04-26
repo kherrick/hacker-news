@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 17:00:42](https://news.ycombinator.com/item?id=35716824) - [Database branching: three-way merge for schema changes](https://planetscale.com/blog/database-branching-three-way-merge-schema-changes)
 * [2023-04-26, 17:00:21](https://news.ycombinator.com/item?id=35716811) - [Activeloop (YC S18): Hiring Engineers for a Multi-Modal Vector Database for AI](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 * [2023-04-26, 16:57:30](https://news.ycombinator.com/item?id=35716768) - [The Wealth Gap in Science: How Your Parents&#x27;s Income Affects Your Career](https://www.youtube.com/watch?v=lKmy7_vtrmA)
 * [2023-04-26, 16:46:50](https://news.ycombinator.com/item?id=35716585) - [Supreme Court will decide if all home equity may be forfeited for unpaid taxes](https://apnews.com/article/supreme-court-just-compensation-tax-sales-minneapolis-45d19359249669f7b75da32ac352d4c2)
