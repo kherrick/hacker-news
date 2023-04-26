@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 13:37:37](https://news.ycombinator.com/item?id=35713457) - [SpaceX Starship Grounded Indefinitely by FAA](https://www.flyingmag.com/spacex-starship-grounded-indefinitely-by-faa/)
 * [2023-04-26, 13:26:24](https://news.ycombinator.com/item?id=35713310) - [Netflix to invest $2.5B in South Korea to make TV shows, movies](https://www.reuters.com/technology/netflix-invest-25-bln-south-korea-make-tv-shows-movies-2023-04-25/)
 * [2023-04-26, 13:12:19](https://news.ycombinator.com/item?id=35713120) - [Bottom line, a college degree is worth the cost and then some](https://www.washingtonpost.com/opinions/2023/04/26/college-degree-value-investment-return/)
 * [2023-04-26, 13:01:48](https://news.ycombinator.com/item?id=35712978) - [Tesla Again Paints a Misleading Story with Their Crash Data](https://www.forbes.com/sites/bradtempleton/2023/04/26/tesla-again-paints-a-very-misleading-story-with-their-crash-data/)
@@ -27,7 +28,6 @@
 * [2023-04-24, 20:12:56](https://news.ycombinator.com/item?id=35692535) - [Erlfuzz – Fuzzer for the Erlang compiler and VM](https://erlangforums.com/t/open-sourcing-erlfuzz/2562)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 10:19:31](https://news.ycombinator.com/item?id=35685685) - [Last Highway Landing in USA](https://admiralcloudberg.medium.com/highway-to-ruin-the-crash-of-southern-airways-flight-242-7eb1433281fe)
-* [2023-04-24, 09:06:38](https://news.ycombinator.com/item?id=35685249) - [Painting Goethe’s Faust (2018)](https://eclecticlight.co/2018/12/29/painting-goethes-faust-0-introduction-to-a-new-series/)
 * [2023-04-24, 08:21:19](https://news.ycombinator.com/item?id=35684961) - [Thumb-Key: a privacy-conscious smart keyboard, made specifically for your thumbs](https://github.com/dessalines/thumb-key)
 * [2023-04-24, 04:46:11](https://news.ycombinator.com/item?id=35683754) - [Double Descent in Human Learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
 

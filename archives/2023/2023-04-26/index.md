@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 13:37:37](https://news.ycombinator.com/item?id=35713457) - [SpaceX Starship Grounded Indefinitely by FAA](https://www.flyingmag.com/spacex-starship-grounded-indefinitely-by-faa/)
 * [2023-04-26, 13:26:24](https://news.ycombinator.com/item?id=35713310) - [Netflix to invest $2.5B in South Korea to make TV shows, movies](https://www.reuters.com/technology/netflix-invest-25-bln-south-korea-make-tv-shows-movies-2023-04-25/)
 * [2023-04-26, 13:12:19](https://news.ycombinator.com/item?id=35713120) - [Bottom line, a college degree is worth the cost and then some](https://www.washingtonpost.com/opinions/2023/04/26/college-degree-value-investment-return/)
 * [2023-04-26, 13:01:48](https://news.ycombinator.com/item?id=35712978) - [Tesla Again Paints a Misleading Story with Their Crash Data](https://www.forbes.com/sites/bradtempleton/2023/04/26/tesla-again-paints-a-very-misleading-story-with-their-crash-data/)
