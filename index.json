@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-26, 14:47:07",
+      "https://news.ycombinator.com/item?id=35714487"
+    ],
+    [
+      "Sweden launches research rocket, accidentally hits Norway",
+      "https://www.reuters.com/world/europe/sweden-launches-research-rocket-accidentally-hits-norway-2023-04-25/"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 14:31:59",
       "https://news.ycombinator.com/item?id=35714228"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35713894"
     ],
     [
-      "Mastodon Is Doomed",
+      "Mastodon is doomed?",
       "https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/"
     ]
   ],
@@ -41,21 +51,11 @@
   ],
   [
     [
-      "2023-04-26, 13:43:31",
-      "https://news.ycombinator.com/item?id=35713541"
-    ],
-    [
-      "How Amazon makes everything you buy more expensive, no matter where you buy it",
-      "https://pluralistic.net/2023/04/25/greedflation/"
-    ]
-  ],
-  [
-    [
       "2023-04-26, 13:42:04",
       "https://news.ycombinator.com/item?id=35713524"
     ],
     [
-      "Long Before Trees Overtook the Land, Earth Was Covered by Giant Mushrooms (2013)",
+      "Long before trees overtook the land, Earth was covered by giant mushrooms (2013)",
       "https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/"
     ]
   ],
@@ -77,16 +77,6 @@
     [
       "The Role of Diet on the Gut Microbiome, Mood and Happiness",
       "https://pubmed.ncbi.nlm.nih.gov/36993403/"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 13:01:48",
-      "https://news.ycombinator.com/item?id=35712978"
-    ],
-    [
-      "Tesla Again Paints a Misleading Story with Their Crash Data",
-      "https://www.forbes.com/sites/bradtempleton/2023/04/26/tesla-again-paints-a-very-misleading-story-with-their-crash-data/"
     ]
   ],
   [
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=35712375"
     ],
     [
-      "A guide to prompting AI (for what it is worth)",
+      "A guide to prompting AI, for what it is worth",
       "https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what"
     ]
   ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35711349"
     ],
     [
-      "Google cloud Europe is out",
+      "Google Cloud Europe service disruption",
       "https://status.cloud.google.com/regional/europe"
     ]
   ],
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2023-04-26, 08:24:06",
-      "https://news.ycombinator.com/item?id=35710848"
+      "2023-04-26, 06:44:29",
+      "https://news.ycombinator.com/item?id=35710269"
     ],
     [
-      "A vegan leather made of dormant fungi can repair itself",
-      "https://www.sciencenews.org/article/vegan-leather-fungi-repair-mycelium"
+      "Netflix Loses 1M Users in Spain over Password Policing",
+      "https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing"
     ]
   ],
   [
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2023-04-26, 00:10:56",
-      "https://news.ycombinator.com/item?id=35708331"
+      "2023-04-25, 22:48:27",
+      "https://news.ycombinator.com/item?id=35707779"
     ],
     [
-      "You could have invented futexes",
-      "https://tavianator.com/2023/futex.html"
+      "It doesn’t take much to make machine-learning algorithms go awry",
+      "https://www.economist.com/science-and-technology/2023/04/05/it-doesnt-take-much-to-make-machine-learning-algorithms-go-awry"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Thumb-Key: A privacy-conscious Android keyboard, made for your thumbs",
       "https://github.com/dessalines/thumb-key"
+    ]
+  ],
+  [
+    [
+      "2023-04-24, 06:12:49",
+      "https://news.ycombinator.com/item?id=35684228"
+    ],
+    [
+      "The Shrinking Role of Semaphores",
+      "https://lwn.net/Articles/928026/"
     ]
   ],
   [
