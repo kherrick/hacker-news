@@ -91,6 +91,7 @@
 * [2023-04-24, 09:51:53](https://news.ycombinator.com/item?id=35685518) - [The Geomagnetic Storm Continues](https://www.swpc.noaa.gov/news/geomagnetic-storm-continues)
 * [2023-04-24, 09:51:48](https://news.ycombinator.com/item?id=35685517) - [The War on Passwords Enters a Chaotic New Phase](https://www.wired.com/story/passwords-passkey-transition-time/)
 * [2023-04-24, 09:48:11](https://news.ycombinator.com/item?id=35685497) - [LAION, a high school teacher’s free image database, powers AI unicorns](https://www.bloomberg.com/news/features/2023-04-24/a-high-school-teacher-s-free-image-database-powers-ai-unicorns)
+* [2023-04-24, 08:21:19](https://news.ycombinator.com/item?id=35684961) - [Thumb-Key: a privacy-conscious smart keyboard, made specifically for your thumbs](https://github.com/dessalines/thumb-key)
 * [2023-04-24, 08:06:23](https://news.ycombinator.com/item?id=35684874) - [Keep the Monolith, but Split the Workloads](https://incident.io/blog/monolith)
 * [2023-04-24, 08:03:02](https://news.ycombinator.com/item?id=35684859) - [The i.MX8 cannot be deblobbed (when using HDMI)](https://www.devever.net/~hl/imx8)
 * [2023-04-24, 08:03:00](https://news.ycombinator.com/item?id=35684858) - [Notes on the Hardkernel Odroid-XU3 Single-Board Computer](https://doc.nstr.no/odroid-xu3.htm)

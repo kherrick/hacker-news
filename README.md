@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 07:55:35](https://news.ycombinator.com/item?id=35710671) - [Ask HN: Is &quot;Code Complete&quot; by Steve McConnell still a recommended read?](https://news.ycombinator.com/item?id=35710671)
 * [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
 * [2023-04-26, 05:44:14](https://news.ycombinator.com/item?id=35709975) - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995)
 * [2023-04-26, 04:55:49](https://news.ycombinator.com/item?id=35709758) - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
@@ -23,11 +24,10 @@
 * [2023-04-25, 18:27:16](https://news.ycombinator.com/item?id=35704626) - [What Rosalind Franklin contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
 * [2023-04-25, 17:26:37](https://news.ycombinator.com/item?id=35703741) - [Use Gröbner bases to solve polynomial equations](https://jingnanshi.com/blog/groebner_basis.html)
 * [2023-04-25, 17:25:36](https://news.ycombinator.com/item?id=35703732) - [Commercial lunar lander presumed lost after moon landing attempt](https://www.cnn.com/2023/04/25/world/lunar-lander-japan-uae-hakuto-r-scn/index.html)
-* [2023-04-25, 17:02:24](https://news.ycombinator.com/item?id=35703367) - [Tighter bounds on the expressivity of transformer encoders](https://arxiv.org/abs/2301.10743)
-* [2023-04-25, 16:45:41](https://news.ycombinator.com/item?id=35703057) - [Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
 * [2023-04-24, 20:12:56](https://news.ycombinator.com/item?id=35692535) - [Erlfuzz – Fuzzer for the Erlang compiler and VM](https://erlangforums.com/t/open-sourcing-erlfuzz/2562)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 09:51:48](https://news.ycombinator.com/item?id=35685517) - [The transition from logins to cryptographic passkeys is getting messy](https://www.wired.com/story/passwords-passkey-transition-time/)
+* [2023-04-24, 08:21:19](https://news.ycombinator.com/item?id=35684961) - [Thumb-Key: a privacy-conscious smart keyboard, made specifically for your thumbs](https://github.com/dessalines/thumb-key)
 * [2023-04-24, 07:16:16](https://news.ycombinator.com/item?id=35684557) - [A Lesson in Cartography in Potato Land (2012)](https://web.archive.org/web/20160401094438/http://warhorsestudios.cz/index.php?page=blog&entry=blog_011)
 * [2023-04-24, 04:46:11](https://news.ycombinator.com/item?id=35683754) - [Double Descent in Human Learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
 

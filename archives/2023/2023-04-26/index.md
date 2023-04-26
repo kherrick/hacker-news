@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 07:55:35](https://news.ycombinator.com/item?id=35710671) - [Ask HN: Is &quot;Code Complete&quot; by Steve McConnell still a recommended read?](https://news.ycombinator.com/item?id=35710671)
 * [2023-04-26, 06:47:41](https://news.ycombinator.com/item?id=35710287) - [Tech giants bury mediocre results under AI hype](https://www.reuters.com/breakingviews/tech-giants-bury-mediocre-results-under-ai-hype-2023-04-25/)
 * [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
 * [2023-04-26, 06:20:26](https://news.ycombinator.com/item?id=35710144) - [Brooklyn Public Library Offers Free ECards to Teens Nationwide Facing Book Bans](https://www.bklynlibrary.org/media/press/brooklyn-public-library-94)
