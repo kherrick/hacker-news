@@ -16,6 +16,7 @@
 * [2023-04-26, 00:56:33](https://news.ycombinator.com/item?id=35708613) - [Show HN: Neat – Minimalist CSS Framework](https://neat.joeldare.com)
 * [2023-04-26, 00:14:45](https://news.ycombinator.com/item?id=35708359) - [Why do prime numbers make these spirals? (2019)](https://www.3blue1brown.com/lessons/prime-spirals)
 * [2023-04-26, 00:10:56](https://news.ycombinator.com/item?id=35708331) - [You could have invented futexes](https://tavianator.com/2023/futex.html)
+* [2023-04-25, 23:29:13](https://news.ycombinator.com/item?id=35708070) - [Reflections on Migrating My SaaS to SvelteKit](http://sveltekitsaas.com/articles/migrate-saas-to-sveltekit/)
 * [2023-04-25, 22:48:27](https://news.ycombinator.com/item?id=35707779) - [It doesn’t take much to make machine-learning algorithms go awry](https://www.economist.com/science-and-technology/2023/04/05/it-doesnt-take-much-to-make-machine-learning-algorithms-go-awry)
 * [2023-04-25, 22:40:24](https://news.ycombinator.com/item?id=35707692) - [We glued together content moderation to stop soccer pirates](https://www.mux.com/blog/how-content-moderation-rescued-750k-in-unpaid-invoices-from-soccer-pirates)
 * [2023-04-25, 21:02:02](https://news.ycombinator.com/item?id=35706760) - [Aptible (YC S14) is hiring a security engineer and a head of product](https://news.ycombinator.com/item?id=35706760)
@@ -28,7 +29,6 @@
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 09:51:48](https://news.ycombinator.com/item?id=35685517) - [The transition from logins to cryptographic passkeys is getting messy](https://www.wired.com/story/passwords-passkey-transition-time/)
 * [2023-04-24, 08:21:19](https://news.ycombinator.com/item?id=35684961) - [Thumb-Key: a privacy-conscious smart keyboard, made specifically for your thumbs](https://github.com/dessalines/thumb-key)
-* [2023-04-24, 07:30:34](https://news.ycombinator.com/item?id=35684659) - [Python Dictionaries](https://medium.com/@j_ankit/python-dictionaries-bf0aa96e6d57)
 * [2023-04-24, 04:46:11](https://news.ycombinator.com/item?id=35683754) - [Double Descent in Human Learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
 
 ## [Archives](archives/index.md)
