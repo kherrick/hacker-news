@@ -2,6 +2,7 @@
 
 * [2023-04-26, 07:57:10](https://news.ycombinator.com/item?id=35710680) - [Silver Lake to buy Germany&#x27;s Software AG in $2.42B deal](https://www.reuters.com/markets/deals/silver-lake-buy-germanys-software-ag-242-bln-deal-2023-04-21/)
 * [2023-04-26, 07:55:35](https://news.ycombinator.com/item?id=35710671) - [Ask HN: Is &quot;Code Complete&quot; by Steve McConnell still a recommended read?](https://news.ycombinator.com/item?id=35710671)
+* [2023-04-26, 07:14:53](https://news.ycombinator.com/item?id=35710436) - [The Early Days of Linux](https://lwn.net/Articles/928581/)
 * [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
 * [2023-04-26, 04:55:49](https://news.ycombinator.com/item?id=35709758) - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
 * [2023-04-26, 03:43:26](https://news.ycombinator.com/item?id=35709453) - [Show HN: Jellylade – Turn your screenshots into posts](https://app.jellylade.com)
@@ -23,7 +24,6 @@
 * [2023-04-25, 19:00:40](https://news.ycombinator.com/item?id=35705063) - [Show HN: I built a multiplayer voxel browser game engine](https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/)
 * [2023-04-25, 18:27:16](https://news.ycombinator.com/item?id=35704626) - [What Rosalind Franklin contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
 * [2023-04-25, 17:49:29](https://news.ycombinator.com/item?id=35704101) - [Introduction to HTTP Multipart](https://blog.adamchalmers.com/multipart/)
-* [2023-04-25, 17:25:36](https://news.ycombinator.com/item?id=35703732) - [Commercial lunar lander presumed lost after moon landing attempt](https://www.cnn.com/2023/04/25/world/lunar-lander-japan-uae-hakuto-r-scn/index.html)
 * [2023-04-24, 20:12:56](https://news.ycombinator.com/item?id=35692535) - [Erlfuzz – Fuzzer for the Erlang compiler and VM](https://erlangforums.com/t/open-sourcing-erlfuzz/2562)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 09:51:48](https://news.ycombinator.com/item?id=35685517) - [The transition from logins to cryptographic passkeys is getting messy](https://www.wired.com/story/passwords-passkey-transition-time/)
