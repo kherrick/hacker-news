@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 21:00:46](https://news.ycombinator.com/item?id=35719937) - [DeepDoctection](https://github.com/deepdoctection/deepdoctection)
 * [2023-04-26, 21:00:23](https://news.ycombinator.com/item?id=35719928) - [Compound (YC S19) is hiring to build a modern wealth manager](https://withcompound.com/company/about)
 * [2023-04-26, 20:08:56](https://news.ycombinator.com/item?id=35719283) - [BOE Chief Economist Says Britons ‘Need to Accept’ They’re Worse Off](https://www.bloomberg.com/news/articles/2023-04-25/boe-economist-says-uk-people-need-to-accept-they-re-worse-off)
 * [2023-04-26, 19:55:58](https://news.ycombinator.com/item?id=35719100) - [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
@@ -10,7 +11,6 @@
 * [2023-04-26, 17:19:34](https://news.ycombinator.com/item?id=35717106) - [HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://xhuangcv.github.io/hdr-nerf/)
 * [2023-04-26, 17:10:38](https://news.ycombinator.com/item?id=35716963) - [The part of Postgres we hate the most: Multi-version concurrency control](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
 * [2023-04-26, 17:03:38](https://news.ycombinator.com/item?id=35716872) - [SpaceX, Rogers to connect mobiles phones to satellites in remote Canadian areas](https://www.reuters.com/technology/space/spacex-rogers-connect-mobiles-phones-satellites-remote-canadian-areas-2023-04-26/)
-* [2023-04-26, 16:38:00](https://news.ycombinator.com/item?id=35716455) - [CISC-y RISC-ness](https://tedium.co/2023/04/26/transmeta-crusoe-processor-history/)
 * [2023-04-26, 16:22:39](https://news.ycombinator.com/item?id=35716216) - [Why did Google Brain exist?](https://www.moderndescartes.com/essays/why_brain/)
 * [2023-04-26, 14:39:30](https://news.ycombinator.com/item?id=35714347) - [Bringing Memory Safety to sudo and su](https://www.memorysafety.org/blog/sudo-and-su/)
 * [2023-04-26, 14:36:07](https://news.ycombinator.com/item?id=35714294) - [Colorado becomes first to pass ‘right to repair’ for farmers](https://www.wivb.com/news/colorado-becomes-1st-to-pass-right-to-repair-for-farmers/)
