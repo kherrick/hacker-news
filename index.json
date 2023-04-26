@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-04-26, 17:10:38",
-      "https://news.ycombinator.com/item?id=35716963"
-    ],
-    [
-      "The part of Postgres we hate the most: Multi-version concurrency control",
-      "https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/"
-    ]
-  ],
-  [
-    [
       "2023-04-26, 17:00:42",
       "https://news.ycombinator.com/item?id=35716824"
     ],
@@ -107,6 +97,16 @@
     [
       "Why did Google Brain exist?",
       "https://www.moderndescartes.com/essays/why_brain/"
+    ]
+  ],
+  [
+    [
+      "2023-04-26, 15:57:22",
+      "https://news.ycombinator.com/item?id=35715816"
+    ],
+    [
+      "A Survey of Worldwide Censorship Techniques",
+      "https://www.ietf.org/archive/id/draft-irtf-pearg-censorship-10.html"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=35710269"
     ],
     [
-      "Netflix Loses 1M Users in Spain over Password Policing",
+      "Netflix loses 1M users in Spain over password policing",
       "https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=35684228"
     ],
     [
-      "The Shrinking Role of Semaphores",
+      "The shrinking role of semaphores",
       "https://lwn.net/Articles/928026/"
     ]
   ],
