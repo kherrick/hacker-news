@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=35709521"
     ],
     [
-      "Gradle Still Sucks",
+      "Gradle still sucks",
       "https://silverhammermba.github.io/blog/2023/01/06/gradle"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35709453"
     ],
     [
-      "Show HN: Turn your screenshots into beautifual posts",
+      "Show HN: Jellylade – Turn your screenshots into posts",
       "https://app.jellylade.com"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=35708869"
     ],
     [
-      "Google Authenticator cloud sync&#x2F;backup is not E2E encrypted",
+      "Google Authenticator cloud sync: Google can see the secrets, even while stored",
       "https://defcon.social/@mysk/110262313275622023"
     ]
   ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-04-25, 17:02:24",
+      "https://news.ycombinator.com/item?id=35703367"
+    ],
+    [
+      "Tighter bounds on the expressivity of transformer encoders",
+      "https://arxiv.org/abs/2301.10743"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 16:45:41",
       "https://news.ycombinator.com/item?id=35703057"
     ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=35692535"
     ],
     [
-      "Open Sourcing Erlfuzz",
+      "Erlfuzz – Fuzzer for the Erlang compiler and VM",
       "https://erlangforums.com/t/open-sourcing-erlfuzz/2562"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Show HN: Homemade rocketship treehouse – hardware to custom OS",
       "http://rocket.jonh.net"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 07:47:33",
-      "https://news.ycombinator.com/item?id=35684771"
-    ],
-    [
-      "The Myth of the Fast Learner",
-      "https://phys.org/news/2023-04-myth-fast-learner.html"
     ]
   ],
   [
