@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 22:25:05](https://news.ycombinator.com/item?id=35720828) - [The Sad Story of OAuth 2.0 and Open Standards](http://xahlee.info/comp/oauth2_bad.html)
 * [2023-04-26, 22:17:03](https://news.ycombinator.com/item?id=35720750) - [Theranos founder Elizabeth Holmes again delays start of 11-year prison term](https://www.theguardian.com/technology/2023/apr/26/theranos-elizabeth-holmes-prison-sentence-delayed)
 * [2023-04-26, 21:00:46](https://news.ycombinator.com/item?id=35719937) - [DeepDoctection: Document extraction and analysis using deep learning models](https://github.com/deepdoctection/deepdoctection)
 * [2023-04-26, 21:00:23](https://news.ycombinator.com/item?id=35719928) - [Compound (YC S19) is hiring to build a modern wealth manager](https://withcompound.com/company/about)
-* [2023-04-26, 20:08:56](https://news.ycombinator.com/item?id=35719283) - [BOE Chief Economist Says Britons ‘Need to Accept’ They’re Worse Off](https://www.bloomberg.com/news/articles/2023-04-25/boe-economist-says-uk-people-need-to-accept-they-re-worse-off)
 * [2023-04-26, 19:55:58](https://news.ycombinator.com/item?id=35719100) - [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
 * [2023-04-26, 19:00:51](https://news.ycombinator.com/item?id=35718417) - [Linen.dev: A 500 kb Slack alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
 * [2023-04-26, 18:15:48](https://news.ycombinator.com/item?id=35717871) - [DeepFloyd IF: open-source text-to-image model](https://github.com/deep-floyd/IF)
@@ -18,7 +18,6 @@
 * [2023-04-26, 14:06:12](https://news.ycombinator.com/item?id=35713852) - [Show HN: Learn German with Short Stories](https://webbu.app/german)
 * [2023-04-26, 13:42:04](https://news.ycombinator.com/item?id=35713524) - [Long before trees overtook the land, Earth was covered by prototaxites (2013)](https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/)
 * [2023-04-26, 13:41:47](https://news.ycombinator.com/item?id=35713518) - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
-* [2023-04-26, 13:06:22](https://news.ycombinator.com/item?id=35713042) - [The Role of Diet on the Gut Microbiome, Mood and Happiness](https://pubmed.ncbi.nlm.nih.gov/36993403/)
 * [2023-04-26, 12:30:32](https://news.ycombinator.com/item?id=35712625) - [What I learned unsubscribing from 22 newspapers](https://www.lenfestinstitute.org/solution-set/i-canceled-22-digital-newspaper-subscriptions-heres-what-i-learned-about-digital-retention-strategies/)
 * [2023-04-26, 11:53:09](https://news.ycombinator.com/item?id=35712238) - [Show HN: An interactive map showing live wind farm generation in Great Britain](https://renewables-map.robinhawkes.com)
 * [2023-04-26, 11:17:28](https://news.ycombinator.com/item?id=35711968) - [UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
@@ -30,6 +29,7 @@
 * [2023-04-25, 06:58:58](https://news.ycombinator.com/item?id=35697349) - [AMD Ryzen 7000 Burning Out: Impacts all 7000 processors](https://www.tomshardware.com/news/amd-ryzen-7000-burning-out-root-cause-identified-expo-and-soc-voltages-to-blame)
 * [2023-04-25, 06:52:19](https://news.ycombinator.com/item?id=35697310) - [Moving away from algorithmic curation](https://boredzo.org/blog/archives/2023-04-24/moving-away-from-algorithmic-curation)
 * [2023-04-25, 05:21:02](https://news.ycombinator.com/item?id=35696787) - [Thinking about our passive exposure to IPv6 issues](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure)
+* [2023-04-25, 04:39:54](https://news.ycombinator.com/item?id=35696547) - [My alpha Pico-based CH32V003 debug tool is ready for a few testers](https://github.com/aappleby/PicoRVD)
 
 ## [Archives](archives/index.md)
 
