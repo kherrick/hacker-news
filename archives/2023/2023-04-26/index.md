@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 14:31:59](https://news.ycombinator.com/item?id=35714228) - [Lessons by 3blue1brown](https://www.3blue1brown.com/)
 * [2023-04-26, 14:26:08](https://news.ycombinator.com/item?id=35714145) - [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
 * [2023-04-26, 14:09:03](https://news.ycombinator.com/item?id=35713894) - [Mastodon Is Doomed](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
 * [2023-04-26, 14:06:12](https://news.ycombinator.com/item?id=35713852) - [Show HN: Learn German with Short Stories](https://webbu.app/german)
@@ -14,6 +15,7 @@
 * [2023-04-26, 13:26:46](https://news.ycombinator.com/item?id=35713315) - [Britain blocks Microsoft’s $69B acquisition of Activision Blizzard](https://www.cnbc.com/2023/04/26/britain-blocks-microsoft-acquisition-of-activision-blizzard.html)
 * [2023-04-26, 13:26:24](https://news.ycombinator.com/item?id=35713310) - [Netflix to invest $2.5B in South Korea to make TV shows, movies](https://www.reuters.com/technology/netflix-invest-25-bln-south-korea-make-tv-shows-movies-2023-04-25/)
 * [2023-04-26, 13:12:19](https://news.ycombinator.com/item?id=35713120) - [Bottom line, a college degree is worth the cost and then some](https://www.washingtonpost.com/opinions/2023/04/26/college-degree-value-investment-return/)
+* [2023-04-26, 13:06:22](https://news.ycombinator.com/item?id=35713042) - [The Role of Diet on the Gut Microbiome, Mood and Happiness](https://pubmed.ncbi.nlm.nih.gov/36993403/)
 * [2023-04-26, 13:01:48](https://news.ycombinator.com/item?id=35712978) - [Tesla Again Paints a Misleading Story with Their Crash Data](https://www.forbes.com/sites/bradtempleton/2023/04/26/tesla-again-paints-a-very-misleading-story-with-their-crash-data/)
 * [2023-04-26, 12:30:32](https://news.ycombinator.com/item?id=35712625) - [What I learned unsubscribing from 22 newspapers](https://www.lenfestinstitute.org/solution-set/i-canceled-22-digital-newspaper-subscriptions-heres-what-i-learned-about-digital-retention-strategies/)
 * [2023-04-26, 12:23:35](https://news.ycombinator.com/item?id=35712556) - [Show HN: Use Quizzes as Lead Magnets – EmbedQuiz](https://embedquiz.com/)
