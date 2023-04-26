@@ -100,6 +100,7 @@
 * [2023-04-24, 07:54:20](https://news.ycombinator.com/item?id=35684807) - [No, I don’t want to sign up for your newsletter](https://www.katsnyderux.com/post/no-i-don-t-want-to-sign-up-for-your-newsletter-horrible-uses-of-exit-overlays)
 * [2023-04-24, 07:47:33](https://news.ycombinator.com/item?id=35684771) - [The Myth of the Fast Learner](https://phys.org/news/2023-04-myth-fast-learner.html)
 * [2023-04-24, 07:37:30](https://news.ycombinator.com/item?id=35684709) - [Are pull requests bad because they originate from open-source development?](https://blog.ploeh.dk/2023/04/24/are-pull-requests-bad-because-they-originate-from-open-source-development/)
+* [2023-04-24, 07:30:34](https://news.ycombinator.com/item?id=35684659) - [Python Dictionaries](https://medium.com/@j_ankit/python-dictionaries-bf0aa96e6d57)
 * [2023-04-24, 07:23:28](https://news.ycombinator.com/item?id=35684599) - [What’s the Point of Tech Conferences?](https://chelseatroy.com/2023/04/21/whats-the-point-of-tech-conferences/)
 * [2023-04-24, 07:20:29](https://news.ycombinator.com/item?id=35684585) - [Second IC – Homemade 1000 transistor array chip](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-24, 07:17:35](https://news.ycombinator.com/item?id=35684564) - [After the Lawn](https://www.kcet.org/home-garden/after-the-lawn-part-i)

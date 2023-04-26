@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-26, 09:25:23](https://news.ycombinator.com/item?id=35711256) - [Ask HN: Anyone else having issues with GCP right now?](https://news.ycombinator.com/item?id=35711256)
+* [2023-04-26, 09:33:39](https://news.ycombinator.com/item?id=35711317) - [We need female mice in neuroscience research](https://news.harvard.edu/gazette/story/2023/03/study-confirms-why-we-need-female-mice-in-neuroscience-research/)
+* [2023-04-26, 09:30:54](https://news.ycombinator.com/item?id=35711296) - [The lesson about the end of nuclear in Germany](https://jeromeaparis.substack.com/p/the-real-lesson-about-the-end-of)
 * [2023-04-26, 08:48:42](https://news.ycombinator.com/item?id=35711013) - [Neutralinojs – Build lightweight cross-platform desktop apps with JavaScript](https://neutralino.js.org/docs/)
 * [2023-04-26, 08:24:06](https://news.ycombinator.com/item?id=35710848) - [Vegan Leather Made of Dormant Fungi Can Repair Itself](https://www.sciencenews.org/article/vegan-leather-fungi-repair-mycelium)
 * [2023-04-26, 07:57:10](https://news.ycombinator.com/item?id=35710680) - [Silver Lake to buy Germany&#x27;s Software AG in $2.42B deal](https://www.reuters.com/markets/deals/silver-lake-buy-germanys-software-ag-242-bln-deal-2023-04-21/)
@@ -12,11 +13,9 @@
 * [2023-04-26, 02:26:25](https://news.ycombinator.com/item?id=35709088) - [Show HN: ChatGPT on 2-Dimensional Map](https://www.superusapp.com/chatgpt2d/)
 * [2023-04-26, 01:43:39](https://news.ycombinator.com/item?id=35708869) - [Google Authenticator cloud sync: Google can see the secrets, even while stored](https://defcon.social/@mysk/110262313275622023)
 * [2023-04-26, 01:08:59](https://news.ycombinator.com/item?id=35708683) - [My Life with the Penguins](https://nautil.us/my-life-with-the-penguins-298047/)
-* [2023-04-26, 00:57:18](https://news.ycombinator.com/item?id=35708617) - [GPS, UTC and TAI Clocks (2001)](http://www.leapsecond.com/java/gpsclock.htm)
 * [2023-04-26, 00:56:33](https://news.ycombinator.com/item?id=35708613) - [Show HN: Neat – Minimalist CSS Framework](https://neat.joeldare.com)
 * [2023-04-26, 00:14:45](https://news.ycombinator.com/item?id=35708359) - [Why do prime numbers make these spirals? (2019)](https://www.3blue1brown.com/lessons/prime-spirals)
 * [2023-04-26, 00:10:56](https://news.ycombinator.com/item?id=35708331) - [You could have invented futexes](https://tavianator.com/2023/futex.html)
-* [2023-04-25, 23:29:13](https://news.ycombinator.com/item?id=35708070) - [Reflections on Migrating My SaaS to SvelteKit](http://sveltekitsaas.com/articles/migrate-saas-to-sveltekit/)
 * [2023-04-25, 22:48:27](https://news.ycombinator.com/item?id=35707779) - [It doesn’t take much to make machine-learning algorithms go awry](https://www.economist.com/science-and-technology/2023/04/05/it-doesnt-take-much-to-make-machine-learning-algorithms-go-awry)
 * [2023-04-25, 22:40:24](https://news.ycombinator.com/item?id=35707692) - [We glued together content moderation to stop soccer pirates](https://www.mux.com/blog/how-content-moderation-rescued-750k-in-unpaid-invoices-from-soccer-pirates)
 * [2023-04-25, 21:02:02](https://news.ycombinator.com/item?id=35706760) - [Aptible (YC S14) is hiring a security engineer and a head of product](https://news.ycombinator.com/item?id=35706760)
@@ -29,6 +28,7 @@
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 09:51:48](https://news.ycombinator.com/item?id=35685517) - [The transition from logins to cryptographic passkeys is getting messy](https://www.wired.com/story/passwords-passkey-transition-time/)
 * [2023-04-24, 08:21:19](https://news.ycombinator.com/item?id=35684961) - [Thumb-Key: a privacy-conscious smart keyboard, made specifically for your thumbs](https://github.com/dessalines/thumb-key)
+* [2023-04-24, 07:30:34](https://news.ycombinator.com/item?id=35684659) - [Python Dictionaries](https://medium.com/@j_ankit/python-dictionaries-bf0aa96e6d57)
 * [2023-04-24, 04:46:11](https://news.ycombinator.com/item?id=35683754) - [Double Descent in Human Learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
 
 ## [Archives](archives/index.md)
