@@ -14,7 +14,6 @@
 * [2023-04-26, 16:22:39](https://news.ycombinator.com/item?id=35716216) - [Why did Google Brain exist?](https://www.moderndescartes.com/essays/why_brain/)
 * [2023-04-26, 14:39:30](https://news.ycombinator.com/item?id=35714347) - [Bringing Memory Safety to sudo and su](https://www.memorysafety.org/blog/sudo-and-su/)
 * [2023-04-26, 14:36:07](https://news.ycombinator.com/item?id=35714294) - [Colorado becomes first to pass ‘right to repair’ for farmers](https://www.wivb.com/news/colorado-becomes-1st-to-pass-right-to-repair-for-farmers/)
-* [2023-04-26, 14:26:08](https://news.ycombinator.com/item?id=35714145) - [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
 * [2023-04-26, 13:42:04](https://news.ycombinator.com/item?id=35713524) - [Long before trees overtook the land, Earth was covered by prototaxites (2013)](https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/)
 * [2023-04-26, 13:41:47](https://news.ycombinator.com/item?id=35713518) - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
 * [2023-04-26, 12:30:32](https://news.ycombinator.com/item?id=35712625) - [What I learned unsubscribing from 22 newspapers](https://www.lenfestinstitute.org/solution-set/i-canceled-22-digital-newspaper-subscriptions-heres-what-i-learned-about-digital-retention-strategies/)
@@ -30,6 +29,7 @@
 * [2023-04-24, 10:19:31](https://news.ycombinator.com/item?id=35685685) - [Highway to Ruin: The crash of Southern Airways flight 242 (2022)](https://admiralcloudberg.medium.com/highway-to-ruin-the-crash-of-southern-airways-flight-242-7eb1433281fe)
 * [2023-04-24, 06:12:49](https://news.ycombinator.com/item?id=35684228) - [The shrinking role of semaphores](https://lwn.net/Articles/928026/)
 * [2023-04-24, 05:51:04](https://news.ycombinator.com/item?id=35684103) - [Colosseum – A quick overview of the most powerful RF emulator](https://signalprocessingjobs.com/docs/blogs/articles/colosseum/)
+* [2023-04-24, 05:34:48](https://news.ycombinator.com/item?id=35684002) - [Linux Assembly How to (2013)](https://tldp.org/HOWTO/Assembly-HOWTO/index.html)
 
 ## [Archives](archives/index.md)
 
