@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-26, 22:25:05](https://news.ycombinator.com/item?id=35720828) - [The Sad Story of OAuth 2.0 and Open Standards](http://xahlee.info/comp/oauth2_bad.html)
+* [2023-04-26, 22:17:03](https://news.ycombinator.com/item?id=35720750) - [Theranos founder Elizabeth Holmes again delays start of 11-year prison term](https://www.theguardian.com/technology/2023/apr/26/theranos-elizabeth-holmes-prison-sentence-delayed)
 * [2023-04-26, 21:00:46](https://news.ycombinator.com/item?id=35719937) - [DeepDoctection: Document extraction and analysis using deep learning models](https://github.com/deepdoctection/deepdoctection)
 * [2023-04-26, 21:00:23](https://news.ycombinator.com/item?id=35719928) - [Compound (YC S19) is hiring to build a modern wealth manager](https://withcompound.com/company/about)
 * [2023-04-26, 20:08:56](https://news.ycombinator.com/item?id=35719283) - [BOE Chief Economist Says Britons ‘Need to Accept’ They’re Worse Off](https://www.bloomberg.com/news/articles/2023-04-25/boe-economist-says-uk-people-need-to-accept-they-re-worse-off)
