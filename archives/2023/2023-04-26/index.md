@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 14:26:08](https://news.ycombinator.com/item?id=35714145) - [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
 * [2023-04-26, 14:09:03](https://news.ycombinator.com/item?id=35713894) - [Mastodon Is Doomed](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
 * [2023-04-26, 14:06:12](https://news.ycombinator.com/item?id=35713852) - [Show HN: Learn German with Short Stories](https://webbu.app/german)
 * [2023-04-26, 13:43:31](https://news.ycombinator.com/item?id=35713541) - [How Amazon makes everything you buy more expensive, no matter where you buy it](https://pluralistic.net/2023/04/25/greedflation/)

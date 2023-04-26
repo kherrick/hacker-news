@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 14:26:08](https://news.ycombinator.com/item?id=35714145) - [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
 * [2023-04-26, 14:09:03](https://news.ycombinator.com/item?id=35713894) - [Mastodon Is Doomed](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
 * [2023-04-26, 14:06:12](https://news.ycombinator.com/item?id=35713852) - [Show HN: Learn German with Short Stories](https://webbu.app/german)
 * [2023-04-26, 13:43:31](https://news.ycombinator.com/item?id=35713541) - [How Amazon makes everything you buy more expensive, no matter where you buy it](https://pluralistic.net/2023/04/25/greedflation/)
@@ -23,7 +24,6 @@
 * [2023-04-26, 02:32:11](https://news.ycombinator.com/item?id=35709114) - [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
 * [2023-04-26, 00:56:33](https://news.ycombinator.com/item?id=35708613) - [Show HN: Neat – Minimalist CSS Framework](https://neat.joeldare.com)
 * [2023-04-26, 00:14:45](https://news.ycombinator.com/item?id=35708359) - [Why do prime numbers make these spirals? (2019)](https://www.3blue1brown.com/lessons/prime-spirals)
-* [2023-04-26, 00:10:56](https://news.ycombinator.com/item?id=35708331) - [You could have invented futexes](https://tavianator.com/2023/futex.html)
 * [2023-04-25, 11:35:28](https://news.ycombinator.com/item?id=35699017) - [Tuql: Automatically create a GraphQL server from a SQLite database](https://github.com/bradleyboy/tuql)
 * [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch](https://e2eml.school/transformers.html)
 * [2023-04-25, 07:26:52](https://news.ycombinator.com/item?id=35697535) - [Chaos Bewitched: Moby-Dick and AI](https://publicdomainreview.org/essay/chaos-bewitched-moby-dick-and-ai)
