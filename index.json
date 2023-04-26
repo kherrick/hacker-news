@@ -1,12 +1,42 @@
 [
   [
     [
-      "2023-04-26, 13:37:37",
-      "https://news.ycombinator.com/item?id=35713457"
+      "2023-04-26, 13:43:31",
+      "https://news.ycombinator.com/item?id=35713541"
     ],
     [
-      "SpaceX Starship Grounded Indefinitely by FAA",
-      "https://www.flyingmag.com/spacex-starship-grounded-indefinitely-by-faa/"
+      "How Amazon makes everything you buy more expensive, no matter where you buy it",
+      "https://pluralistic.net/2023/04/25/greedflation/"
+    ]
+  ],
+  [
+    [
+      "2023-04-26, 13:42:04",
+      "https://news.ycombinator.com/item?id=35713524"
+    ],
+    [
+      "Long Before Trees Overtook the Land, Earth Was Covered by Giant Mushrooms (2013)",
+      "https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/"
+    ]
+  ],
+  [
+    [
+      "2023-04-26, 13:33:18",
+      "https://news.ycombinator.com/item?id=35713404"
+    ],
+    [
+      "Stanford, Harvard data science no more",
+      "https://stanforddaily.com/2023/04/25/stanford-harvard-revise-high-school-math-curriculum-recommendations-exclude-data-science/"
+    ]
+  ],
+  [
+    [
+      "2023-04-26, 13:26:46",
+      "https://news.ycombinator.com/item?id=35713315"
+    ],
+    [
+      "Britain blocks Microsoft’s $69B acquisition of Activision Blizzard",
+      "https://www.cnbc.com/2023/04/26/britain-blocks-microsoft-acquisition-of-activision-blizzard.html"
     ]
   ],
   [
@@ -17,16 +47,6 @@
     [
       "Netflix to invest $2.5B in South Korea to make TV shows, movies",
       "https://www.reuters.com/technology/netflix-invest-25-bln-south-korea-make-tv-shows-movies-2023-04-25/"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 13:12:19",
-      "https://news.ycombinator.com/item?id=35713120"
-    ],
-    [
-      "Bottom line, a college degree is worth the cost and then some",
-      "https://www.washingtonpost.com/opinions/2023/04/26/college-degree-value-investment-return/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-04-26, 03:43:26",
-      "https://news.ycombinator.com/item?id=35709453"
-    ],
-    [
-      "Show HN: Jellylade – Turn your screenshots into posts",
-      "https://app.jellylade.com"
-    ]
-  ],
-  [
-    [
       "2023-04-26, 03:19:22",
       "https://news.ycombinator.com/item?id=35709348"
     ],
@@ -187,16 +197,6 @@
     [
       "Your First LTE",
       "https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 01:08:59",
-      "https://news.ycombinator.com/item?id=35708683"
-    ],
-    [
-      "My Life with the Penguins",
-      "https://nautil.us/my-life-with-the-penguins-298047/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-04-25, 11:35:28",
+      "https://news.ycombinator.com/item?id=35699017"
+    ],
+    [
+      "Tuql: Automatically create a GraphQL server from a SQLite database",
+      "https://github.com/bradleyboy/tuql"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 07:42:34",
       "https://news.ycombinator.com/item?id=35697627"
     ],
@@ -257,16 +267,6 @@
     [
       "Erlfuzz – Fuzzer for the Erlang compiler and VM",
       "https://erlangforums.com/t/open-sourcing-erlfuzz/2562"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 17:41:26",
-      "https://news.ycombinator.com/item?id=35690753"
-    ],
-    [
-      "Show HN: Homemade rocketship treehouse – hardware to custom OS",
-      "http://rocket.jonh.net"
     ]
   ],
   [
