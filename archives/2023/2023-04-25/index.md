@@ -79,6 +79,7 @@
 * [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch](https://e2eml.school/transformers.html)
 * [2023-04-25, 07:26:52](https://news.ycombinator.com/item?id=35697535) - [Chaos Bewitched: Moby-Dick and AI](https://publicdomainreview.org/essay/chaos-bewitched-moby-dick-and-ai)
 * [2023-04-25, 07:21:41](https://news.ycombinator.com/item?id=35697501) - [AI Hype Is Real](https://news.ycombinator.com/item?id=35697501)
+* [2023-04-25, 06:52:19](https://news.ycombinator.com/item?id=35697310) - [Moving Away from Algorithmic Curation](https://boredzo.org/blog/archives/2023-04-24/moving-away-from-algorithmic-curation)
 * [2023-04-25, 06:38:55](https://news.ycombinator.com/item?id=35697232) - [Sserangecoding: Fast vectorized (SSE 4.1) range coder for 8-bit alphabets](https://github.com/richgel999/sserangecoding)
 * [2023-04-25, 05:41:36](https://news.ycombinator.com/item?id=35696889) - [Verified accounts are now prioritized](https://twitter.com/elonmusk/status/1650731557164818437)
 * [2023-04-25, 05:21:02](https://news.ycombinator.com/item?id=35696787) - [Thinking about our passive exposure to IPv6 issues](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure)
