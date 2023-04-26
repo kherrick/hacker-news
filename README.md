@@ -2,6 +2,7 @@
 
 * [2023-04-26, 15:06:58](https://news.ycombinator.com/item?id=35714845) - [DJI Mavic 3 Pro](https://www.dji.com/mavic-3-pro)
 * [2023-04-26, 14:47:07](https://news.ycombinator.com/item?id=35714487) - [Sweden launches research rocket, accidentally hits Norway](https://www.reuters.com/world/europe/sweden-launches-research-rocket-accidentally-hits-norway-2023-04-25/)
+* [2023-04-26, 14:36:07](https://news.ycombinator.com/item?id=35714294) - [Colorado becomes first to pass ‘right to repair’ for farmers](https://www.wivb.com/news/colorado-becomes-1st-to-pass-right-to-repair-for-farmers/)
 * [2023-04-26, 14:31:59](https://news.ycombinator.com/item?id=35714228) - [Lessons by 3blue1brown](https://www.3blue1brown.com/)
 * [2023-04-26, 14:26:08](https://news.ycombinator.com/item?id=35714145) - [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
 * [2023-04-26, 14:09:03](https://news.ycombinator.com/item?id=35713894) - [Mastodon is doomed?](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
@@ -17,7 +18,6 @@
 * [2023-04-26, 11:38:05](https://news.ycombinator.com/item?id=35712099) - [Ruby&#x27;s Switch Statement Is More Flexible Than You Thought](https://www.akshaykhot.com/ruby-switch-statement/)
 * [2023-04-26, 11:17:28](https://news.ycombinator.com/item?id=35711968) - [UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
 * [2023-04-26, 09:39:17](https://news.ycombinator.com/item?id=35711349) - [Google Cloud Europe service disruption](https://status.cloud.google.com/regional/europe)
-* [2023-04-26, 09:33:39](https://news.ycombinator.com/item?id=35711317) - [We need female mice in neuroscience research](https://news.harvard.edu/gazette/story/2023/03/study-confirms-why-we-need-female-mice-in-neuroscience-research/)
 * [2023-04-26, 08:48:42](https://news.ycombinator.com/item?id=35711013) - [Neutralinojs – Build lightweight cross-platform desktop apps with JavaScript](https://neutralino.js.org/docs/)
 * [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
 * [2023-04-26, 03:19:22](https://news.ycombinator.com/item?id=35709348) - [How to use Podman inside of a container (2021)](https://www.redhat.com/sysadmin/podman-inside-container)
