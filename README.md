@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-26, 08:25:18](https://news.ycombinator.com/item?id=35710854) - [Cloudguy says we should log out of Amazon](https://sackheads.social/@Cloudguy/110256209708866473)
 * [2023-04-26, 08:24:06](https://news.ycombinator.com/item?id=35710848) - [Vegan Leather Made of Dormant Fungi Can Repair Itself](https://www.sciencenews.org/article/vegan-leather-fungi-repair-mycelium)
 * [2023-04-26, 07:57:10](https://news.ycombinator.com/item?id=35710680) - [Silver Lake to buy Germany&#x27;s Software AG in $2.42B deal](https://www.reuters.com/markets/deals/silver-lake-buy-germanys-software-ag-242-bln-deal-2023-04-21/)
 * [2023-04-26, 07:14:53](https://news.ycombinator.com/item?id=35710436) - [The Early Days of Linux](https://lwn.net/Articles/928581/)
@@ -24,6 +23,7 @@
 * [2023-04-25, 19:47:37](https://news.ycombinator.com/item?id=35705683) - [LTESniffer: An open-source LTE downlink&#x2F;uplink eavesdropper [pdf]](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf)
 * [2023-04-25, 19:00:40](https://news.ycombinator.com/item?id=35705063) - [Show HN: I built a multiplayer voxel browser game engine](https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/)
 * [2023-04-25, 18:27:16](https://news.ycombinator.com/item?id=35704626) - [What Rosalind Franklin contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
+* [2023-04-25, 17:25:36](https://news.ycombinator.com/item?id=35703732) - [Commercial lunar lander presumed lost after moon landing attempt](https://www.cnn.com/2023/04/25/world/lunar-lander-japan-uae-hakuto-r-scn/index.html)
 * [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch](https://e2eml.school/transformers.html)
 * [2023-04-24, 20:12:56](https://news.ycombinator.com/item?id=35692535) - [Erlfuzz – Fuzzer for the Erlang compiler and VM](https://erlangforums.com/t/open-sourcing-erlfuzz/2562)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
