@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 15:43:01](https://news.ycombinator.com/item?id=35715548) - [Mastodon Has Already Won](https://d-s.sh/2023/mastodon-has-already-won/)
+* [2023-04-26, 15:14:47](https://news.ycombinator.com/item?id=35714990) - [Microsoft Edge Is Leaking the Sites You Visit to Bing](https://yro.slashdot.org/story/23/04/25/209254/microsoft-edge-is-leaking-the-sites-you-visit-to-bing)
 * [2023-04-26, 15:06:58](https://news.ycombinator.com/item?id=35714845) - [DJI Mavic 3 Pro](https://www.dji.com/mavic-3-pro)
 * [2023-04-26, 14:47:07](https://news.ycombinator.com/item?id=35714487) - [Sweden launches research rocket, accidentally hits Norway](https://www.reuters.com/world/europe/sweden-launches-research-rocket-accidentally-hits-norway-2023-04-25/)
 * [2023-04-26, 14:36:07](https://news.ycombinator.com/item?id=35714294) - [Colorado becomes first to pass ‘right to repair’ for farmers](https://www.wivb.com/news/colorado-becomes-1st-to-pass-right-to-repair-for-farmers/)
