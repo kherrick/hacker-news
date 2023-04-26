@@ -76,6 +76,7 @@
 * [2023-04-25, 08:21:09](https://news.ycombinator.com/item?id=35697869) - [Strlcpy and Strlcat – Consistent, Safe, String Copy and Concatenation (1999) [pdf]](https://www.openbsd.org/papers/strlcpy-paper.pdf)
 * [2023-04-25, 07:48:05](https://news.ycombinator.com/item?id=35697674) - [Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?](https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html)
 * [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch](https://e2eml.school/transformers.html)
+* [2023-04-25, 07:26:52](https://news.ycombinator.com/item?id=35697535) - [Chaos Bewitched: Moby-Dick and AI](https://publicdomainreview.org/essay/chaos-bewitched-moby-dick-and-ai)
 * [2023-04-25, 07:21:41](https://news.ycombinator.com/item?id=35697501) - [AI Hype Is Real](https://news.ycombinator.com/item?id=35697501)
 * [2023-04-25, 06:38:55](https://news.ycombinator.com/item?id=35697232) - [Sserangecoding: Fast vectorized (SSE 4.1) range coder for 8-bit alphabets](https://github.com/richgel999/sserangecoding)
 * [2023-04-25, 05:41:36](https://news.ycombinator.com/item?id=35696889) - [Verified accounts are now prioritized](https://twitter.com/elonmusk/status/1650731557164818437)
