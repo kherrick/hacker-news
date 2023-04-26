@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 04:55:49](https://news.ycombinator.com/item?id=35709758) - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
 * [2023-04-26, 04:31:08](https://news.ycombinator.com/item?id=35709648) - [react-native-iconify – Library of 150k Icons](https://github.com/oktaysenkan/react-native-iconify)
 * [2023-04-26, 03:59:09](https://news.ycombinator.com/item?id=35709521) - [Gradle Still Sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
+* [2023-04-26, 03:43:26](https://news.ycombinator.com/item?id=35709453) - [Show HN: Turn your screenshots into beautifual posts](https://app.jellylade.com)
 * [2023-04-26, 03:19:22](https://news.ycombinator.com/item?id=35709348) - [How to use Podman inside of a container](https://www.redhat.com/sysadmin/podman-inside-container)
 * [2023-04-26, 02:47:40](https://news.ycombinator.com/item?id=35709199) - [Replit Series B Announcement](https://blog.replit.com/b-extension)
 * [2023-04-26, 02:32:11](https://news.ycombinator.com/item?id=35709114) - [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
