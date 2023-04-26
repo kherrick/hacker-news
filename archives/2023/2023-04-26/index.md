@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 14:47:07](https://news.ycombinator.com/item?id=35714487) - [Sweden launches research rocket, accidentally hits Norway](https://www.reuters.com/world/europe/sweden-launches-research-rocket-accidentally-hits-norway-2023-04-25/)
 * [2023-04-26, 14:31:59](https://news.ycombinator.com/item?id=35714228) - [Lessons by 3blue1brown](https://www.3blue1brown.com/)
 * [2023-04-26, 14:26:08](https://news.ycombinator.com/item?id=35714145) - [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
 * [2023-04-26, 14:09:03](https://news.ycombinator.com/item?id=35713894) - [Mastodon Is Doomed](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)

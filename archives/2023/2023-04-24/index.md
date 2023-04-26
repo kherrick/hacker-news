@@ -110,6 +110,7 @@
 * [2023-04-24, 06:55:23](https://news.ycombinator.com/item?id=35684432) - [Windows 11’s taskbar is finally getting labels and never combine app icons](https://www.theverge.com/2023/4/20/23690960/microsoft-windows-11-taskbar-never-combine-app-icons-labels-features)
 * [2023-04-24, 06:37:24](https://news.ycombinator.com/item?id=35684335) - [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)
 * [2023-04-24, 06:13:30](https://news.ycombinator.com/item?id=35684232) - [An Introduction to Lockless Algorithms](https://lwn.net/Articles/844224/)
+* [2023-04-24, 06:12:49](https://news.ycombinator.com/item?id=35684228) - [The Shrinking Role of Semaphores](https://lwn.net/Articles/928026/)
 * [2023-04-24, 06:11:30](https://news.ycombinator.com/item?id=35684220) - [Ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 * [2023-04-24, 05:54:37](https://news.ycombinator.com/item?id=35684125) - [As an AI Language Model](https://twitter.com/d_feldman/status/1649466422018318338)
 * [2023-04-24, 04:46:11](https://news.ycombinator.com/item?id=35683754) - [Double Descent in Human Learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
