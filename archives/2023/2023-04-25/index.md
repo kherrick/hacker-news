@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 22:48:27](https://news.ycombinator.com/item?id=35707779) - [It doesn’t take much to make machine-learning algorithms go awry](https://www.economist.com/science-and-technology/2023/04/05/it-doesnt-take-much-to-make-machine-learning-algorithms-go-awry)
+* [2023-04-25, 22:41:11](https://news.ycombinator.com/item?id=35707702) - [How much does ‘nothing’ weigh?](https://www.scientificamerican.com/article/how-much-does-nothing-weigh/?ref=thebrowser.com)
 * [2023-04-25, 22:40:53](https://news.ycombinator.com/item?id=35707698) - [Mrs Whitcher and the Renegade Numbers (2017)](https://www.lastwordonnothing.com/2017/04/24/mrs-whitcher-and-the-renegade-numbers/)
 * [2023-04-25, 22:40:24](https://news.ycombinator.com/item?id=35707692) - [We glued together content moderation to stop soccer pirates and saved $750k](https://www.mux.com/blog/how-content-moderation-rescued-750k-in-unpaid-invoices-from-soccer-pirates)
+* [2023-04-25, 22:40:21](https://news.ycombinator.com/item?id=35707691) - [Materials for 17th-century Work, a la Follansbee](https://blog.lostartpress.com/2023/04/25/materials-for-17th-century-work-a-la-follansbee/)
 * [2023-04-25, 22:29:08](https://news.ycombinator.com/item?id=35707593) - [Show HN: Preview environments for projects that do not use K8s&#x2F;Docker](https://codepreview.io/)
 * [2023-04-25, 22:23:31](https://news.ycombinator.com/item?id=35707542) - [Compressing Hegel (2020)](https://wittgenfine.substack.com/p/compressing-hegel)
 * [2023-04-25, 22:07:47](https://news.ycombinator.com/item?id=35707372) - [Disney is shrinking FiveThirtyEight and Nate Silver (and his models) are leaving](https://www.niemanlab.org/2023/04/disney-is-shrinking-fivethirtyeight-and-nate-silver-and-his-models-are-leaving/)
