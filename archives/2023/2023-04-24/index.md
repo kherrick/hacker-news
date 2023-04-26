@@ -89,6 +89,7 @@
 * [2023-04-24, 10:08:34](https://news.ycombinator.com/item?id=35685604) - [Open source smartwatch integrates ESP32 MCU with e-paper display](https://linuxgizmos.com/open-source-smartwatch-integrates-esp32-mcu/)
 * [2023-04-24, 09:58:43](https://news.ycombinator.com/item?id=35685560) - [Tesla tries to get owners to give up ‘unlimited free Supercharging for life’](https://electrek.co/2023/04/24/tesla-triesowners-give-up-unlimited-free-supercharging-for-life/)
 * [2023-04-24, 09:51:53](https://news.ycombinator.com/item?id=35685518) - [The Geomagnetic Storm Continues](https://www.swpc.noaa.gov/news/geomagnetic-storm-continues)
+* [2023-04-24, 09:51:48](https://news.ycombinator.com/item?id=35685517) - [The War on Passwords Enters a Chaotic New Phase](https://www.wired.com/story/passwords-passkey-transition-time/)
 * [2023-04-24, 09:48:11](https://news.ycombinator.com/item?id=35685497) - [LAION, a high school teacher’s free image database, powers AI unicorns](https://www.bloomberg.com/news/features/2023-04-24/a-high-school-teacher-s-free-image-database-powers-ai-unicorns)
 * [2023-04-24, 08:06:23](https://news.ycombinator.com/item?id=35684874) - [Keep the Monolith, but Split the Workloads](https://incident.io/blog/monolith)
 * [2023-04-24, 08:03:02](https://news.ycombinator.com/item?id=35684859) - [The i.MX8 cannot be deblobbed (when using HDMI)](https://www.devever.net/~hl/imx8)
