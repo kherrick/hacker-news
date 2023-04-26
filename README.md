@@ -2,7 +2,6 @@
 
 * [2023-04-26, 09:53:45](https://news.ycombinator.com/item?id=35711436) - [Tech jobs remain a good bet despite mass layoffs in Silicon Valley](https://www.npr.org/2023/04/26/1170522239/tech-job-openings-mass-layoffs-workers-silicon-valley-google-meta-amazon)
 * [2023-04-26, 09:33:39](https://news.ycombinator.com/item?id=35711317) - [We need female mice in neuroscience research](https://news.harvard.edu/gazette/story/2023/03/study-confirms-why-we-need-female-mice-in-neuroscience-research/)
-* [2023-04-26, 09:30:54](https://news.ycombinator.com/item?id=35711296) - [The lesson about the end of nuclear in Germany](https://jeromeaparis.substack.com/p/the-real-lesson-about-the-end-of)
 * [2023-04-26, 08:48:42](https://news.ycombinator.com/item?id=35711013) - [Neutralinojs – Build lightweight cross-platform desktop apps with JavaScript](https://neutralino.js.org/docs/)
 * [2023-04-26, 08:24:06](https://news.ycombinator.com/item?id=35710848) - [Vegan Leather Made of Dormant Fungi Can Repair Itself](https://www.sciencenews.org/article/vegan-leather-fungi-repair-mycelium)
 * [2023-04-26, 04:55:49](https://news.ycombinator.com/item?id=35709758) - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
@@ -28,6 +27,7 @@
 * [2023-04-24, 20:12:56](https://news.ycombinator.com/item?id=35692535) - [Erlfuzz – Fuzzer for the Erlang compiler and VM](https://erlangforums.com/t/open-sourcing-erlfuzz/2562)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
 * [2023-04-24, 09:51:48](https://news.ycombinator.com/item?id=35685517) - [The transition from logins to cryptographic passkeys is getting messy](https://www.wired.com/story/passwords-passkey-transition-time/)
+* [2023-04-24, 09:06:38](https://news.ycombinator.com/item?id=35685249) - [Painting Goethe’s Faust (2018)](https://eclecticlight.co/2018/12/29/painting-goethes-faust-0-introduction-to-a-new-series/)
 * [2023-04-24, 08:21:19](https://news.ycombinator.com/item?id=35684961) - [Thumb-Key: a privacy-conscious smart keyboard, made specifically for your thumbs](https://github.com/dessalines/thumb-key)
 * [2023-04-24, 04:46:11](https://news.ycombinator.com/item?id=35683754) - [Double Descent in Human Learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
 
