@@ -84,6 +84,7 @@
 * [2023-04-24, 10:31:57](https://news.ycombinator.com/item?id=35685790) - [Biggest companies in the world by market value 2022](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-capitalization/)
 * [2023-04-24, 10:29:41](https://news.ycombinator.com/item?id=35685766) - [Samsung faces weakest quarter since 2009 as memory chip market declines](https://www.cnbc.com/2023/04/24/samsung-q1-2023-earnings-preview-memory-chip-price-slump-hits-giant.html)
 * [2023-04-24, 10:24:14](https://news.ycombinator.com/item?id=35685721) - [LVMH becomes the first European company to surpass $500B in market value](https://www.cnbc.com/2023/04/24/lvmh-becomes-the-first-european-company-surpass-500-billion-in-value.html)
+* [2023-04-24, 10:19:31](https://news.ycombinator.com/item?id=35685685) - [Last Highway Landing in USA](https://admiralcloudberg.medium.com/highway-to-ruin-the-crash-of-southern-airways-flight-242-7eb1433281fe)
 * [2023-04-24, 10:18:47](https://news.ycombinator.com/item?id=35685679) - [Amazon’s quiet open source revolution](https://www.infoworld.com/article/3694090/amazon-s-quiet-open-source-revolution.html)
 * [2023-04-24, 10:13:19](https://news.ycombinator.com/item?id=35685635) - [Deleting System32\\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
 * [2023-04-24, 10:08:34](https://news.ycombinator.com/item?id=35685604) - [Open source smartwatch integrates ESP32 MCU with e-paper display](https://linuxgizmos.com/open-source-smartwatch-integrates-esp32-mcu/)
