@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 05:44:14](https://news.ycombinator.com/item?id=35709975) - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995)
 * [2023-04-26, 04:55:49](https://news.ycombinator.com/item?id=35709758) - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
 * [2023-04-26, 04:31:08](https://news.ycombinator.com/item?id=35709648) - [Iconify for React Native](https://github.com/oktaysenkan/react-native-iconify)
-* [2023-04-26, 03:59:09](https://news.ycombinator.com/item?id=35709521) - [Gradle still sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
 * [2023-04-26, 03:43:26](https://news.ycombinator.com/item?id=35709453) - [Show HN: Jellylade – Turn your screenshots into posts](https://app.jellylade.com)
 * [2023-04-26, 03:19:22](https://news.ycombinator.com/item?id=35709348) - [How to use Podman inside of a container (2021)](https://www.redhat.com/sysadmin/podman-inside-container)
 * [2023-04-26, 02:32:11](https://news.ycombinator.com/item?id=35709114) - [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
@@ -26,9 +26,9 @@
 * [2023-04-25, 16:45:41](https://news.ycombinator.com/item?id=35703057) - [Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
 * [2023-04-25, 16:13:29](https://news.ycombinator.com/item?id=35702490) - [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
 * [2023-04-25, 15:10:56](https://news.ycombinator.com/item?id=35701572) - [A non-technical explanation of deep learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
-* [2023-04-24, 20:35:28](https://news.ycombinator.com/item?id=35692844) - [Transistor Made of Wood](https://www.pnas.org/doi/10.1073/pnas.2218380120)
 * [2023-04-24, 20:12:56](https://news.ycombinator.com/item?id=35692535) - [Erlfuzz – Fuzzer for the Erlang compiler and VM](https://erlangforums.com/t/open-sourcing-erlfuzz/2562)
 * [2023-04-24, 17:41:26](https://news.ycombinator.com/item?id=35690753) - [Show HN: Homemade rocketship treehouse – hardware to custom OS](http://rocket.jonh.net)
+* [2023-04-24, 07:16:16](https://news.ycombinator.com/item?id=35684557) - [Warhorse Studios: A Lesson in Cartography in Potato Land (2012)](https://web.archive.org/web/20160401094438/http://warhorsestudios.cz/index.php?page=blog&entry=blog_011)
 * [2023-04-24, 04:46:11](https://news.ycombinator.com/item?id=35683754) - [Double Descent in Human Learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
 
 ## [Archives](archives/index.md)

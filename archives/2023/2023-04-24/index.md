@@ -101,6 +101,7 @@
 * [2023-04-24, 07:23:28](https://news.ycombinator.com/item?id=35684599) - [What’s the Point of Tech Conferences?](https://chelseatroy.com/2023/04/21/whats-the-point-of-tech-conferences/)
 * [2023-04-24, 07:20:29](https://news.ycombinator.com/item?id=35684585) - [Second IC – Homemade 1000 transistor array chip](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-24, 07:17:35](https://news.ycombinator.com/item?id=35684564) - [After the Lawn](https://www.kcet.org/home-garden/after-the-lawn-part-i)
+* [2023-04-24, 07:16:16](https://news.ycombinator.com/item?id=35684557) - [Warhorse Studios: A Lesson in Cartography in Potato Land (2012)](https://web.archive.org/web/20160401094438/http://warhorsestudios.cz/index.php?page=blog&entry=blog_011)
 * [2023-04-24, 06:55:23](https://news.ycombinator.com/item?id=35684432) - [Windows 11’s taskbar is finally getting labels and never combine app icons](https://www.theverge.com/2023/4/20/23690960/microsoft-windows-11-taskbar-never-combine-app-icons-labels-features)
 * [2023-04-24, 06:37:24](https://news.ycombinator.com/item?id=35684335) - [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)
 * [2023-04-24, 06:13:30](https://news.ycombinator.com/item?id=35684232) - [An Introduction to Lockless Algorithms](https://lwn.net/Articles/844224/)
