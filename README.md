@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 06:20:26](https://news.ycombinator.com/item?id=35710144) - [Brooklyn Public Library Offers Free ECards to Teens Nationwide Facing Book Bans](https://www.bklynlibrary.org/media/press/brooklyn-public-library-94)
 * [2023-04-26, 05:44:14](https://news.ycombinator.com/item?id=35709975) - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995)
 * [2023-04-26, 04:55:49](https://news.ycombinator.com/item?id=35709758) - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
 * [2023-04-26, 04:31:08](https://news.ycombinator.com/item?id=35709648) - [Iconify for React Native](https://github.com/oktaysenkan/react-native-iconify)
@@ -9,7 +10,6 @@
 * [2023-04-26, 02:32:11](https://news.ycombinator.com/item?id=35709114) - [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
 * [2023-04-26, 02:26:25](https://news.ycombinator.com/item?id=35709088) - [Show HN: ChatGPT on 2-Dimensional Map](https://www.superusapp.com/chatgpt2d/)
 * [2023-04-26, 01:43:39](https://news.ycombinator.com/item?id=35708869) - [Google Authenticator cloud sync: Google can see the secrets, even while stored](https://defcon.social/@mysk/110262313275622023)
-* [2023-04-26, 01:08:59](https://news.ycombinator.com/item?id=35708683) - [My Life with the Penguins](https://nautil.us/my-life-with-the-penguins-298047/)
 * [2023-04-26, 00:57:18](https://news.ycombinator.com/item?id=35708617) - [GPS, UTC and TAI Clocks (2001)](http://www.leapsecond.com/java/gpsclock.htm)
 * [2023-04-26, 00:56:33](https://news.ycombinator.com/item?id=35708613) - [Show HN: Neat – Minimalist CSS Framework](https://neat.joeldare.com)
 * [2023-04-26, 00:14:45](https://news.ycombinator.com/item?id=35708359) - [Why do prime numbers make these spirals? (2019)](https://www.3blue1brown.com/lessons/prime-spirals)
