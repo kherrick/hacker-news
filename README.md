@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 14:09:03](https://news.ycombinator.com/item?id=35713894) - [Mastodon Is Doomed](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
+* [2023-04-26, 14:06:12](https://news.ycombinator.com/item?id=35713852) - [Show HN: Learn German with Short Stories](https://webbu.app/german)
 * [2023-04-26, 13:43:31](https://news.ycombinator.com/item?id=35713541) - [How Amazon makes everything you buy more expensive, no matter where you buy it](https://pluralistic.net/2023/04/25/greedflation/)
 * [2023-04-26, 13:42:04](https://news.ycombinator.com/item?id=35713524) - [Long Before Trees Overtook the Land, Earth Was Covered by Giant Mushrooms (2013)](https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/)
-* [2023-04-26, 13:33:18](https://news.ycombinator.com/item?id=35713404) - [Stanford, Harvard data science no more](https://stanforddaily.com/2023/04/25/stanford-harvard-revise-high-school-math-curriculum-recommendations-exclude-data-science/)
 * [2023-04-26, 13:26:46](https://news.ycombinator.com/item?id=35713315) - [Britain blocks Microsoft’s $69B acquisition of Activision Blizzard](https://www.cnbc.com/2023/04/26/britain-blocks-microsoft-acquisition-of-activision-blizzard.html)
 * [2023-04-26, 13:26:24](https://news.ycombinator.com/item?id=35713310) - [Netflix to invest $2.5B in South Korea to make TV shows, movies](https://www.reuters.com/technology/netflix-invest-25-bln-south-korea-make-tv-shows-movies-2023-04-25/)
 * [2023-04-26, 13:01:48](https://news.ycombinator.com/item?id=35712978) - [Tesla Again Paints a Misleading Story with Their Crash Data](https://www.forbes.com/sites/bradtempleton/2023/04/26/tesla-again-paints-a-very-misleading-story-with-their-crash-data/)
@@ -26,7 +27,6 @@
 * [2023-04-25, 11:35:28](https://news.ycombinator.com/item?id=35699017) - [Tuql: Automatically create a GraphQL server from a SQLite database](https://github.com/bradleyboy/tuql)
 * [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch](https://e2eml.school/transformers.html)
 * [2023-04-25, 07:26:52](https://news.ycombinator.com/item?id=35697535) - [Chaos Bewitched: Moby-Dick and AI](https://publicdomainreview.org/essay/chaos-bewitched-moby-dick-and-ai)
-* [2023-04-24, 20:12:56](https://news.ycombinator.com/item?id=35692535) - [Erlfuzz – Fuzzer for the Erlang compiler and VM](https://erlangforums.com/t/open-sourcing-erlfuzz/2562)
 * [2023-04-24, 10:19:31](https://news.ycombinator.com/item?id=35685685) - [Last Highway Landing in USA](https://admiralcloudberg.medium.com/highway-to-ruin-the-crash-of-southern-airways-flight-242-7eb1433281fe)
 * [2023-04-24, 08:21:19](https://news.ycombinator.com/item?id=35684961) - [Thumb-Key: a privacy-conscious smart keyboard, made specifically for your thumbs](https://github.com/dessalines/thumb-key)
 * [2023-04-24, 04:46:11](https://news.ycombinator.com/item?id=35683754) - [Double Descent in Human Learning](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
