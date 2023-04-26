@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 13:26:24](https://news.ycombinator.com/item?id=35713310) - [Netflix to invest $2.5B in South Korea to make TV shows, movies](https://www.reuters.com/technology/netflix-invest-25-bln-south-korea-make-tv-shows-movies-2023-04-25/)
 * [2023-04-26, 13:12:19](https://news.ycombinator.com/item?id=35713120) - [Bottom line, a college degree is worth the cost and then some](https://www.washingtonpost.com/opinions/2023/04/26/college-degree-value-investment-return/)
+* [2023-04-26, 13:01:48](https://news.ycombinator.com/item?id=35712978) - [Tesla Again Paints a Misleading Story with Their Crash Data](https://www.forbes.com/sites/bradtempleton/2023/04/26/tesla-again-paints-a-very-misleading-story-with-their-crash-data/)
 * [2023-04-26, 12:30:32](https://news.ycombinator.com/item?id=35712625) - [What I learned unsubscribing from 22 newspapers](https://www.lenfestinstitute.org/solution-set/i-canceled-22-digital-newspaper-subscriptions-heres-what-i-learned-about-digital-retention-strategies/)
 * [2023-04-26, 12:23:35](https://news.ycombinator.com/item?id=35712556) - [Show HN: Use Quizzes as Lead Magnets – EmbedQuiz](https://embedquiz.com/)
 * [2023-04-26, 12:05:18](https://news.ycombinator.com/item?id=35712375) - [A guide to prompting AI (for what it is worth)](https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what)
