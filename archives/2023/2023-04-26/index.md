@@ -7,6 +7,7 @@
 * [2023-04-26, 11:17:28](https://news.ycombinator.com/item?id=35711968) - [UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
 * [2023-04-26, 11:09:05](https://news.ycombinator.com/item?id=35711913) - [Microsoft &#x2F; Activision deal prevented to protect innovation and choice in gaming](https://www.gov.uk/government/news/microsoft-activision-deal-prevented-to-protect-innovation-and-choice-in-cloud-gaming)
 * [2023-04-26, 09:53:45](https://news.ycombinator.com/item?id=35711436) - [Tech jobs remain a good bet despite mass layoffs in Silicon Valley](https://www.npr.org/2023/04/26/1170522239/tech-job-openings-mass-layoffs-workers-silicon-valley-google-meta-amazon)
+* [2023-04-26, 09:39:17](https://news.ycombinator.com/item?id=35711349) - [Google cloud Europe is out](https://status.cloud.google.com/regional/europe)
 * [2023-04-26, 09:33:39](https://news.ycombinator.com/item?id=35711317) - [We need female mice in neuroscience research](https://news.harvard.edu/gazette/story/2023/03/study-confirms-why-we-need-female-mice-in-neuroscience-research/)
 * [2023-04-26, 09:30:54](https://news.ycombinator.com/item?id=35711296) - [The lesson about the end of nuclear in Germany](https://jeromeaparis.substack.com/p/the-real-lesson-about-the-end-of)
 * [2023-04-26, 09:25:23](https://news.ycombinator.com/item?id=35711256) - [Ask HN: Anyone else having issues with GCP right now?](https://news.ycombinator.com/item?id=35711256)
