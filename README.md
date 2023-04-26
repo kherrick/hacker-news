@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 07:57:10](https://news.ycombinator.com/item?id=35710680) - [Silver Lake to buy Germany&#x27;s Software AG in $2.42B deal](https://www.reuters.com/markets/deals/silver-lake-buy-germanys-software-ag-242-bln-deal-2023-04-21/)
 * [2023-04-26, 07:55:35](https://news.ycombinator.com/item?id=35710671) - [Ask HN: Is &quot;Code Complete&quot; by Steve McConnell still a recommended read?](https://news.ycombinator.com/item?id=35710671)
 * [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
-* [2023-04-26, 05:44:14](https://news.ycombinator.com/item?id=35709975) - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995)
 * [2023-04-26, 04:55:49](https://news.ycombinator.com/item?id=35709758) - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
 * [2023-04-26, 03:43:26](https://news.ycombinator.com/item?id=35709453) - [Show HN: Jellylade – Turn your screenshots into posts](https://app.jellylade.com)
 * [2023-04-26, 03:19:22](https://news.ycombinator.com/item?id=35709348) - [How to use Podman inside of a container (2021)](https://www.redhat.com/sysadmin/podman-inside-container)
