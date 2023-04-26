@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-26, 09:02:45](https://news.ycombinator.com/item?id=35711111) - [Why Silicon Valley is bringing eugenics back](https://www.disconnect.blog/p/why-silicon-valley-is-bringing-eugenics)
 * [2023-04-26, 08:25:18](https://news.ycombinator.com/item?id=35710854) - [Cloudguy says we should log out of Amazon](https://sackheads.social/@Cloudguy/110256209708866473)
+* [2023-04-26, 08:24:06](https://news.ycombinator.com/item?id=35710848) - [Vegan Leather Made of Dormant Fungi Can Repair Itself](https://www.sciencenews.org/article/vegan-leather-fungi-repair-mycelium)
 * [2023-04-26, 07:57:10](https://news.ycombinator.com/item?id=35710680) - [Silver Lake to buy Germany&#x27;s Software AG in $2.42B deal](https://www.reuters.com/markets/deals/silver-lake-buy-germanys-software-ag-242-bln-deal-2023-04-21/)
 * [2023-04-26, 07:14:53](https://news.ycombinator.com/item?id=35710436) - [The Early Days of Linux](https://lwn.net/Articles/928581/)
 * [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
