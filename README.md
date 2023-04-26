@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-26, 21:18:56](https://news.ycombinator.com/item?id=35720157) - [Microsoft TableTransformer](https://github.com/microsoft/table-transformer)
 * [2023-04-26, 21:00:46](https://news.ycombinator.com/item?id=35719937) - [DeepDoctection](https://github.com/deepdoctection/deepdoctection)
 * [2023-04-26, 21:00:23](https://news.ycombinator.com/item?id=35719928) - [Compound (YC S19) is hiring to build a modern wealth manager](https://withcompound.com/company/about)
 * [2023-04-26, 20:08:56](https://news.ycombinator.com/item?id=35719283) - [BOE Chief Economist Says Britons ‘Need to Accept’ They’re Worse Off](https://www.bloomberg.com/news/articles/2023-04-25/boe-economist-says-uk-people-need-to-accept-they-re-worse-off)
@@ -19,7 +20,6 @@
 * [2023-04-26, 12:30:32](https://news.ycombinator.com/item?id=35712625) - [What I learned unsubscribing from 22 newspapers](https://www.lenfestinstitute.org/solution-set/i-canceled-22-digital-newspaper-subscriptions-heres-what-i-learned-about-digital-retention-strategies/)
 * [2023-04-26, 11:53:09](https://news.ycombinator.com/item?id=35712238) - [Show HN: An interactive map showing live wind farm generation in Great Britain](https://renewables-map.robinhawkes.com)
 * [2023-04-26, 11:17:28](https://news.ycombinator.com/item?id=35711968) - [UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
-* [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix loses 1M users in Spain over password policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
 * [2023-04-25, 11:35:28](https://news.ycombinator.com/item?id=35699017) - [Tuql: Automatically create a GraphQL server from a SQLite database](https://github.com/bradleyboy/tuql)
 * [2023-04-25, 09:47:29](https://news.ycombinator.com/item?id=35698354) - [Redump Milestone – 100k Discs](http://redump.org/)
 * [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch (2021)](https://e2eml.school/transformers.html)

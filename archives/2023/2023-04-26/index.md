@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 21:18:56](https://news.ycombinator.com/item?id=35720157) - [Microsoft TableTransformer](https://github.com/microsoft/table-transformer)
 * [2023-04-26, 21:00:46](https://news.ycombinator.com/item?id=35719937) - [DeepDoctection](https://github.com/deepdoctection/deepdoctection)
 * [2023-04-26, 21:00:23](https://news.ycombinator.com/item?id=35719928) - [Compound (YC S19) is hiring to build a modern wealth manager](https://withcompound.com/company/about)
 * [2023-04-26, 20:43:27](https://news.ycombinator.com/item?id=35719726) - [&#x27;Indiana Jones 5&#x27; will feature a de-aged Harrison Ford for the first 25 minutes](https://www.engadget.com/indiana-jones-5-will-feature-a-de-aged-harrison-ford-for-the-first-25-minutes-103553183.html)
