@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-04-26, 18:18:59",
+      "https://news.ycombinator.com/item?id=35717916"
+    ],
+    [
+      "TSMC’s 3-Nm Push Faces Tool Struggles",
+      "https://www.eetimes.com/tsmcs-3-nm-push-faces-tool-struggles/"
+    ]
+  ],
+  [
+    [
+      "2023-04-26, 18:15:48",
+      "https://news.ycombinator.com/item?id=35717871"
+    ],
+    [
+      "Deep Floyd Text-to-Image Model Release",
+      "https://github.com/deep-floyd/IF"
+    ]
+  ],
+  [
+    [
+      "2023-04-26, 18:02:27",
+      "https://news.ycombinator.com/item?id=35717692"
+    ],
+    [
+      "Creating AI assistant with GPT and Ruby and Redis using embeddings",
+      "https://release.com/blog/training-chatgpt-with-custom-libraries-using-extensions"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 17:36:04",
       "https://news.ycombinator.com/item?id=35717344"
     ],
@@ -75,18 +105,8 @@
       "https://news.ycombinator.com/item?id=35716216"
     ],
     [
-      "Why Did Google Brain Exist?",
+      "Why did Google Brain exist?",
       "https://www.moderndescartes.com/essays/why_brain/"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 15:50:00",
-      "https://news.ycombinator.com/item?id=35715679"
-    ],
-    [
-      "Someone Has to Run the Fabs",
-      "https://www.noahpinion.blog/p/repost-someone-has-to-run-the-fabs"
     ]
   ],
   [
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=35713524"
     ],
     [
-      "Long before trees overtook the land, Earth was covered by giant mushrooms (2013)",
+      "Long before trees overtook the land, Earth was covered by prototaxites (2013)",
       "https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/"
     ]
   ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2023-04-26, 12:05:18",
-      "https://news.ycombinator.com/item?id=35712375"
-    ],
-    [
-      "A guide to prompting AI, for what it is worth",
-      "https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what"
-    ]
-  ],
-  [
-    [
       "2023-04-26, 11:53:09",
       "https://news.ycombinator.com/item?id=35712238"
     ],
     [
       "Show HN: An interactive map showing live wind farm generation in Great Britain",
       "https://renewables-map.robinhawkes.com"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 11:38:05",
-      "https://news.ycombinator.com/item?id=35712099"
-    ],
-    [
-      "Ruby&#x27;s Switch Statement Is More Flexible Than You Thought",
-      "https://www.akshaykhot.com/ruby-switch-statement/"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=35697627"
     ],
     [
-      "Transformers from Scratch",
+      "Transformers from Scratch (2021)",
       "https://e2eml.school/transformers.html"
     ]
   ],
