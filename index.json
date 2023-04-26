@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-26, 17:00:42",
+      "https://news.ycombinator.com/item?id=35716824"
+    ],
+    [
+      "Database branching: three-way merge for schema changes",
+      "https://planetscale.com/blog/database-branching-three-way-merge-schema-changes"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 17:00:21",
       "https://news.ycombinator.com/item?id=35716811"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35716455"
     ],
     [
-      "Transmeta Crusoe: The Most Interesting Processor to Ever Exist?",
+      "CISC-y RISC-ness",
       "https://tedium.co/2023/04/26/transmeta-crusoe-processor-history/"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "Netflix Loses 1M Users in Spain over Password Policing",
       "https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 03:19:22",
-      "https://news.ycombinator.com/item?id=35709348"
-    ],
-    [
-      "How to use Podman inside of a container (2021)",
-      "https://www.redhat.com/sysadmin/podman-inside-container"
     ]
   ],
   [
