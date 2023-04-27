@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 02:00:22](https://news.ycombinator.com/item?id=35722376) - [The Next Generation in Graphics, Part 1: Three Dimensions in Software](https://www.filfre.net/2023/04/the-next-generation-in-graphics-part-1-three-dimensions-in-software-or-quake-and-its-discontents/)
 * [2023-04-27, 01:51:58](https://news.ycombinator.com/item?id=35722298) - [Brazil judge orders temporary suspension of Telegram](https://apnews.com/article/brazil-telegram-suspension-social-media-school-violence-d72acaacd3c1b4d07c2c4fcb094f4ce6)
 * [2023-04-27, 01:38:24](https://news.ycombinator.com/item?id=35722206) - [Why Gravity Is Not Like the Other Forces](https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/)
 * [2023-04-27, 00:52:07](https://news.ycombinator.com/item?id=35721910) - [Mark Zuckerberg says Meta wants to ‘introduce AI agents to billions of people’](https://www.theverge.com/2023/4/26/23699633/mark-zuckerberg-meta-generative-ai-chatbots-instagram-facebook-whatsapp)
