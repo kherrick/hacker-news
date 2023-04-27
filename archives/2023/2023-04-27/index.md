@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 22:34:16](https://news.ycombinator.com/item?id=35735375) - [LLM with Planning](https://arxiv.org/abs/2304.11477)
+* [2023-04-27, 22:28:07](https://news.ycombinator.com/item?id=35735329) - [SpaceX grounded after a rocket explosion caused extensive environmental damage](https://www.tpr.org/environment/2023-04-27/photos-spacex-is-grounded-after-rocket-explosion-caused-extensive-environmental-damage)
 * [2023-04-27, 21:46:27](https://news.ycombinator.com/item?id=35735030) - [Harvey AI raises $21M in a Series A round led by Sequoia](https://www.lawnext.com/2023/04/harvey-ai-raises-21m-in-a-series-a-round-led-by-sequoia.html)
 * [2023-04-27, 21:13:16](https://news.ycombinator.com/item?id=35734685) - [Knowledge retrieval architectures for LLMs (2023)](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
 * [2023-04-27, 21:00:57](https://news.ycombinator.com/item?id=35734516) - [Firezone (YC W22) is hiring Rust systems engineers (SF &#x2F; US remote)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)

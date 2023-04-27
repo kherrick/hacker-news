@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-27, 22:34:16](https://news.ycombinator.com/item?id=35735375) - [LLM with Planning](https://arxiv.org/abs/2304.11477)
+* [2023-04-27, 22:28:07](https://news.ycombinator.com/item?id=35735329) - [SpaceX grounded after a rocket explosion caused extensive environmental damage](https://www.tpr.org/environment/2023-04-27/photos-spacex-is-grounded-after-rocket-explosion-caused-extensive-environmental-damage)
 * [2023-04-27, 21:46:27](https://news.ycombinator.com/item?id=35735030) - [Harvey AI raises $21M in a Series A round led by Sequoia](https://www.lawnext.com/2023/04/harvey-ai-raises-21m-in-a-series-a-round-led-by-sequoia.html)
 * [2023-04-27, 21:13:16](https://news.ycombinator.com/item?id=35734685) - [Knowledge retrieval architectures for LLMs (2023)](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
 * [2023-04-27, 21:00:57](https://news.ycombinator.com/item?id=35734516) - [Firezone (YC W22) is hiring Rust systems engineers (SF &#x2F; US remote)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
@@ -8,7 +10,6 @@
 * [2023-04-27, 19:16:45](https://news.ycombinator.com/item?id=35733190) - [New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
 * [2023-04-27, 18:54:12](https://news.ycombinator.com/item?id=35732900) - [Wind and solar are now beating coal in the US](https://electrek.co/2023/04/27/wind-and-solar-are-now-beating-coal-in-the-us/)
 * [2023-04-27, 18:49:55](https://news.ycombinator.com/item?id=35732843) - [Lessons Learned Reproducing a Deep Reinforcement Learning Paper (2018)](http://amid.fish/reproducing-deep-rl)
-* [2023-04-27, 18:18:55](https://news.ycombinator.com/item?id=35732384) - [Google Cloud region currently down due to water intrusion](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY#73mBtVKKfeJGJ1yaY7hV)
 * [2023-04-27, 17:55:03](https://news.ycombinator.com/item?id=35732042) - [ChatGPT for Hardware Design](https://docs.flux.ai/tutorials/ai-for-hardware-design)
 * [2023-04-27, 17:48:01](https://news.ycombinator.com/item?id=35731898) - [NASA Power Hack Extends 45-Year Voyager 2 Mission Even Longer](https://gizmodo.com/nasa-power-hack-extends-voyager-2-mission-science-1850378890)
 * [2023-04-27, 17:26:18](https://news.ycombinator.com/item?id=35731539) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
@@ -22,7 +23,6 @@
 * [2023-04-27, 13:40:47](https://news.ycombinator.com/item?id=35727967) - [Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
 * [2023-04-27, 13:01:35](https://news.ycombinator.com/item?id=35727408) - [Delphi 11 and C++Builder 11 Community Editions Released](https://blogs.embarcadero.com/delphi-11-and-cbuilder-11-community-editions-released/)
 * [2023-04-27, 11:40:02](https://news.ycombinator.com/item?id=35726559) - [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/)
-* [2023-04-27, 11:37:10](https://news.ycombinator.com/item?id=35726525) - [The economics and politics of Thomas the Tank Engine (2015)](https://medium.com/bull-market/the-economics-and-politics-of-thomas-the-tank-engine-8bbc05494b08)
 * [2023-04-26, 06:43:20](https://news.ycombinator.com/item?id=35710259) - [Freud as Talmudist](https://jewishreviewofbooks.com/jewish-history/13912/freud-as-talmudist/)
 * [2023-04-26, 06:20:07](https://news.ycombinator.com/item?id=35710142) - [The Epistemology of Software Quality](https://increment.com/teams/the-epistemology-of-software-quality/)
 * [2023-04-26, 00:50:55](https://news.ycombinator.com/item?id=35708580) - [CardStock](https://github.com/benjie-git/CardStock)
