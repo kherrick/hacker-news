@@ -60,6 +60,7 @@
 * [2023-04-25, 12:55:04](https://news.ycombinator.com/item?id=35699801) - [It&#x27;s not only you, there&#x27;s an explosion of ChatGPT on HN](https://hn.curiosity.ai/#/trends?terms=AI;ChatGPT)
 * [2023-04-25, 12:50:34](https://news.ycombinator.com/item?id=35699753) - [Congress is more Christian and religious than the general public](https://www.axios.com/2023/04/23/lawmakers-more-religious-general-public)
 * [2023-04-25, 12:44:36](https://news.ycombinator.com/item?id=35699697) - [My Thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
+* [2023-04-25, 12:05:46](https://news.ycombinator.com/item?id=35699311) - [The KRC-2 regenerative receiver kit: a review](https://incoherency.co.uk/blog/stories/krc-2-regenerative-receiver-review.html)
 * [2023-04-25, 12:00:08](https://news.ycombinator.com/item?id=35699275) - [Paperspace (YC W15) is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
 * [2023-04-25, 11:57:51](https://news.ycombinator.com/item?id=35699252) - [Show HN: CheekyKeys – A Face-Controlled Keyboard](https://github.com/everythingishacked/CheekyKeys)
 * [2023-04-25, 11:45:33](https://news.ycombinator.com/item?id=35699127) - [The Race to Colonize Mars Perpetuates a Dangerous Religion](https://nautil.us/the-race-to-colonize-mars-perpetuates-a-dangerous-religion-298323/)

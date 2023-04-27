@@ -21,7 +21,7 @@
 * [2023-04-26, 14:36:07](https://news.ycombinator.com/item?id=35714294) - [Colorado becomes first to pass ‘right to repair’ for farmers](https://www.wivb.com/news/colorado-becomes-1st-to-pass-right-to-repair-for-farmers/)
 * [2023-04-26, 13:42:04](https://news.ycombinator.com/item?id=35713524) - [Long before trees overtook the land, Earth was covered by prototaxites (2013)](https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/)
 * [2023-04-26, 13:41:47](https://news.ycombinator.com/item?id=35713518) - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
-* [2023-04-26, 12:30:32](https://news.ycombinator.com/item?id=35712625) - [What I learned unsubscribing from 22 newspapers](https://www.lenfestinstitute.org/solution-set/i-canceled-22-digital-newspaper-subscriptions-heres-what-i-learned-about-digital-retention-strategies/)
+* [2023-04-25, 12:05:46](https://news.ycombinator.com/item?id=35699311) - [The KRC-2 regenerative receiver kit: a review](https://incoherency.co.uk/blog/stories/krc-2-regenerative-receiver-review.html)
 * [2023-04-25, 11:57:51](https://news.ycombinator.com/item?id=35699252) - [Show HN: CheekyKeys – A Face-Controlled Keyboard](https://github.com/everythingishacked/CheekyKeys)
 * [2023-04-25, 11:35:28](https://news.ycombinator.com/item?id=35699017) - [Tuql: Automatically create a GraphQL server from a SQLite database](https://github.com/bradleyboy/tuql)
 * [2023-04-25, 09:47:29](https://news.ycombinator.com/item?id=35698354) - [Redump Milestone – 100k Discs](http://redump.org/)
