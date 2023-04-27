@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 15:45:23](https://news.ycombinator.com/item?id=35729816) - [Pinecone raises $100M Series B](https://www.pinecone.io/learn/series-b/)
+* [2023-04-27, 15:38:17](https://news.ycombinator.com/item?id=35729709) - [US Supreme Court Justices get lavish gifts; Raise bar for bribery prosecutions](https://ohiocapitaljournal.com/2023/04/26/u-s-supreme-court-justices-take-lavish-gifts-then-raise-the-bar-for-bribery-prosecutions/)
 * [2023-04-27, 15:33:26](https://news.ycombinator.com/item?id=35729655) - [BlueHat IL 2023: Microsoft rewriting core Windows libraries in Rust](https://www.youtube.com/watch?v=8T6ClX-y2AE)
+* [2023-04-27, 15:26:59](https://news.ycombinator.com/item?id=35729558) - [Colorado governor signs tractor right-to-repair law opposed by John Deere](https://arstechnica.com/tech-policy/2023/04/colorado-governor-signs-tractor-right-to-repair-law-opposed-by-john-deere/)
 * [2023-04-27, 15:06:37](https://news.ycombinator.com/item?id=35729260) - [Quicssh: SSH over QUIC](https://github.com/moul/quicssh)
 * [2023-04-27, 14:42:38](https://news.ycombinator.com/item?id=35728893) - [Jerry Springer, Host of TV’s Most Controversial Show, Dies at 79](https://variety.com/2023/tv/news/jerry-springer-dead-tv-host-1235596610/)
 * [2023-04-27, 14:20:27](https://news.ycombinator.com/item?id=35728495) - [The U.S. Military Relies on One Louisiana Factory. It Blew Up](https://www.wsj.com/articles/the-u-s-military-has-an-explosive-problem-6e1a1049)
@@ -18,6 +21,7 @@
 * [2023-04-27, 13:57:08](https://news.ycombinator.com/item?id=35728178) - [Software detective debunked Mike Lindell’s election fraud claims, awarded $5M](https://spectrum.ieee.org/software-detective)
 * [2023-04-27, 13:40:47](https://news.ycombinator.com/item?id=35727967) - [Datomic Is Now Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
 * [2023-04-27, 13:37:41](https://news.ycombinator.com/item?id=35727922) - [Sports Betting Is the ‘New Oxycontin’](https://www.thefp.com/p/sports-betting-is-the-new-opioid-crisis)
+* [2023-04-27, 13:01:35](https://news.ycombinator.com/item?id=35727408) - [Delphi 11 and C++Builder 11 Community Editions Released](https://blogs.embarcadero.com/delphi-11-and-cbuilder-11-community-editions-released/)
 * [2023-04-27, 12:43:06](https://news.ycombinator.com/item?id=35727163) - [A Low Cost Approach to Improving Pedestrian Safety with Deep Learning](https://nathanrooy.github.io/posts/2019-02-06/raspberry-pi-deep-learning-traffic-tracker/)
 * [2023-04-27, 12:26:38](https://news.ycombinator.com/item?id=35727003) - [Citi Bike Is Amazing. Citibank Should Pay for Every New Yorker&#x27;s Membership](https://hellgatenyc.com/citibank-pay-more-for-citi-bike)
 * [2023-04-27, 12:26:18](https://news.ycombinator.com/item?id=35726999) - [Ask HN: How many websites, apps or notifications do you look at to “catch-up”?](https://news.ycombinator.com/item?id=35726999)
