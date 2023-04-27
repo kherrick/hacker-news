@@ -70,6 +70,7 @@
 * [2023-04-26, 12:04:09](https://news.ycombinator.com/item?id=35712360) - [Japan&#x27;s population may drop by almost one-third by 2070](https://www3.nhk.or.jp/nhkworld/en/news/20230426_23/)
 * [2023-04-26, 12:01:15](https://news.ycombinator.com/item?id=35712321) - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35712321)
 * [2023-04-26, 11:53:09](https://news.ycombinator.com/item?id=35712238) - [Show HN: An interactive map showing live wind farm generation in Great Britain](https://renewables-map.robinhawkes.com)
+* [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 * [2023-04-26, 11:42:48](https://news.ycombinator.com/item?id=35712131) - [AI used photographer’s photos for training, then slapped him with an invoice](https://www.diyphotography.net/ai-used-photographers-photos-for-training-then-slapped-him-with-an-invoice/)
 * [2023-04-26, 11:38:05](https://news.ycombinator.com/item?id=35712099) - [Ruby&#x27;s Switch Statement Is More Flexible Than You Thought](https://www.akshaykhot.com/ruby-switch-statement/)
 * [2023-04-26, 11:33:18](https://news.ycombinator.com/item?id=35712063) - [Possible toxicity of chronic CO2 exposure associated with face mask use](https://www.cell.com/heliyon/fulltext/S2405-8440(23)01324-5)
