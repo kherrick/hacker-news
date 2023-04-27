@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 14:42:38](https://news.ycombinator.com/item?id=35728893) - [Jerry Springer, Host of TV’s Most Controversial Show, Dies at 79](https://variety.com/2023/tv/news/jerry-springer-dead-tv-host-1235596610/)
+* [2023-04-27, 14:20:27](https://news.ycombinator.com/item?id=35728495) - [The U.S. Military Relies on One Louisiana Factory. It Blew Up](https://www.wsj.com/articles/the-u-s-military-has-an-explosive-problem-6e1a1049)
+* [2023-04-27, 14:14:06](https://news.ycombinator.com/item?id=35728380) - [New Intel Linux Graphics Driver Patches, Up to 10~15% Better Performance](https://www.phoronix.com/news/Intel-RPS-Threshold-Linux-Tune)
 * [2023-04-27, 14:05:45](https://news.ycombinator.com/item?id=35728274) - [Is Satya Nadella the best tech CEO of last decade?](https://news.ycombinator.com/item?id=35728274)
 * [2023-04-27, 14:05:15](https://news.ycombinator.com/item?id=35728268) - [Ask HN: How do you synthesize books that you read?](https://news.ycombinator.com/item?id=35728268)
 * [2023-04-27, 14:01:44](https://news.ycombinator.com/item?id=35728229) - [Dune: Part Two – First Look](https://www.vanityfair.com/hollywood/2023/04/dune-part-two-exclusive-first-look)
+* [2023-04-27, 14:01:00](https://news.ycombinator.com/item?id=35728218) - [John Wick’s Bulletproof Suit Makes the Series More Believable, Not Less](https://blakeashleyjr.com/posts/john-wicks-suit-makes-the-series-more-believable/)
 * [2023-04-27, 14:00:49](https://news.ycombinator.com/item?id=35728216) - [Dropbox axes 16% (500 employees）](https://blog.dropbox.com/topics/company/a-message-from-drew)
 * [2023-04-27, 13:57:08](https://news.ycombinator.com/item?id=35728178) - [Software detective debunked Mike Lindell’s election fraud claims, awarded $5M](https://spectrum.ieee.org/software-detective)
 * [2023-04-27, 13:40:47](https://news.ycombinator.com/item?id=35727967) - [Datomic Is Now Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
