@@ -19,7 +19,6 @@
 * [2023-04-27, 15:28:16](https://news.ycombinator.com/item?id=35729586) - [Semantic Tokenizer for Enhanced Natural Language Processing](https://arxiv.org/abs/2304.12404)
 * [2023-04-27, 15:26:59](https://news.ycombinator.com/item?id=35729558) - [Colorado governor signs tractor right-to-repair law opposed by John Deere](https://arstechnica.com/tech-policy/2023/04/colorado-governor-signs-tractor-right-to-repair-law-opposed-by-john-deere/)
 * [2023-04-27, 15:06:37](https://news.ycombinator.com/item?id=35729260) - [Quicssh: SSH over QUIC](https://github.com/moul/quicssh)
-* [2023-04-27, 14:14:06](https://news.ycombinator.com/item?id=35728380) - [New Intel Linux Graphics Driver Patches, Up to 10~15% Better Performance](https://www.phoronix.com/news/Intel-RPS-Threshold-Linux-Tune)
 * [2023-04-27, 13:40:47](https://news.ycombinator.com/item?id=35727967) - [Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
 * [2023-04-27, 13:01:35](https://news.ycombinator.com/item?id=35727408) - [Delphi 11 and C++Builder 11 Community Editions Released](https://blogs.embarcadero.com/delphi-11-and-cbuilder-11-community-editions-released/)
 * [2023-04-27, 11:40:02](https://news.ycombinator.com/item?id=35726559) - [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/)
@@ -28,6 +27,7 @@
 * [2023-04-26, 21:46:04](https://news.ycombinator.com/item?id=35720460) - [Google will add E2E encryption to Authenticator backups](https://www.bleepingcomputer.com/news/google/google-will-add-end-to-end-encryption-to-google-authenticator/)
 * [2023-04-26, 06:20:07](https://news.ycombinator.com/item?id=35710142) - [The Epistemology of Software Quality](https://increment.com/teams/the-epistemology-of-software-quality/)
 * [2023-04-26, 00:50:55](https://news.ycombinator.com/item?id=35708580) - [CardStock](https://github.com/benjie-git/CardStock)
+* [2023-04-25, 13:04:20](https://news.ycombinator.com/item?id=35699889) - [The Unequal Impact of Parenthood in Academia (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7904257/)
 * [2023-04-25, 10:39:52](https://news.ycombinator.com/item?id=35698653) - [First up-close images of Mars’s little-known moon Deimos](https://www.nature.com/articles/d41586-023-01422-1)
 * [2023-04-25, 10:28:18](https://news.ycombinator.com/item?id=35698587) - [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/)
 
