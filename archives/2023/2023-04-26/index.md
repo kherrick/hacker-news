@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 23:52:04](https://news.ycombinator.com/item?id=35721493) - [Google contractors vote to unionize in historic landslide election](https://www.sfgate.com/tech/article/google-contractors-vote-to-unionize-17920684.php)
 * [2023-04-26, 23:44:25](https://news.ycombinator.com/item?id=35721439) - [Dick Morrell: Amazon Users Advised to Reset Passwords Amid Echo Privacy Concerns](https://sackheads.social/@Cloudguy/110256617380917383)
 * [2023-04-26, 22:29:46](https://news.ycombinator.com/item?id=35720865) - [The Glorious Return of a Humble Car Feature](https://slate.com/business/2023/04/cars-buttons-touchscreens-vw-porsche-nissan-hyundai.html)
 * [2023-04-26, 22:25:05](https://news.ycombinator.com/item?id=35720828) - [The Sad Story of OAuth 2.0 and Open Standards](http://xahlee.info/comp/oauth2_bad.html)
