@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 23:32:17](https://news.ycombinator.com/item?id=35735828) - [Sperm counts are declining. Scientists have pinpointed the main causes](https://www.euronews.com/next/2023/04/26/sperm-counts-are-declining-scientists-believe-they-have-pinpointed-the-main-causes-why)
 * [2023-04-27, 23:08:57](https://news.ycombinator.com/item?id=35735668) - [One-third of US teen girls seriously considered attempting suicide in 2021: CDC](https://abcnews.go.com/Health/us-teen-girls-considered-attempting-suicide-2021-cdc/story?id=98901688)
 * [2023-04-27, 22:34:16](https://news.ycombinator.com/item?id=35735375) - [LLM with Planning](https://arxiv.org/abs/2304.11477)
 * [2023-04-27, 22:28:07](https://news.ycombinator.com/item?id=35735329) - [SpaceX grounded after a rocket explosion caused extensive environmental damage](https://www.tpr.org/environment/2023-04-27/photos-spacex-is-grounded-after-rocket-explosion-caused-extensive-environmental-damage)
