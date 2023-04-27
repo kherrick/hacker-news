@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 17:11:23](https://news.ycombinator.com/item?id=35731285) - [Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA](https://www.apple.com/legal/more-resources/dsa/mt/)
 * [2023-04-27, 17:00:56](https://news.ycombinator.com/item?id=35731138) - [Middleware (YC W23) Is Hiring Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs)
 * [2023-04-27, 16:45:06](https://news.ycombinator.com/item?id=35730853) - [US adult cigarette smoking rate hits new all-time low](https://apnews.com/article/how-many-people-smoke-us-64987fe2b7bf764c64d4594e5b02e6ea)
+* [2023-04-27, 16:37:55](https://news.ycombinator.com/item?id=35730711) - [Brave Search removes last remnant of Bing from search results page](https://brave.com/search-independence/)
 * [2023-04-27, 16:35:00](https://news.ycombinator.com/item?id=35730662) - [Global Warming Trend &#x27;Only 1&#x2F;2 of the Climate Model Simulations&#x27; Says New Paper](https://reason.com/2023/04/27/global-warming-trend-is-only-one-half-of-the-climate-model-simulations-says-new-paper/)
 * [2023-04-27, 16:32:54](https://news.ycombinator.com/item?id=35730626) - [Lyft to cut 1,072 employees, or 26% of its workforce](https://www.cnbc.com/2023/04/27/lyft-layoffs-company-to-cut-1072-employees-or-26percent-of-its-workforce.html)
 * [2023-04-27, 16:01:37](https://news.ycombinator.com/item?id=35730083) - [The Chaotic World of Kids Trying to Play Video Games on School Laptops](https://www.vice.com/en/article/z3mxkj/inside-the-chaotic-world-of-kids-trying-to-play-video-games-on-school-laptops)
@@ -48,6 +50,7 @@
 * [2023-04-27, 11:03:41](https://news.ycombinator.com/item?id=35726235) - [German researchers figure out how lager first developed in Bavaria](https://phys.org/news/2023-04-german-figure-lager-bavaria.html)
 * [2023-04-27, 10:47:08](https://news.ycombinator.com/item?id=35726102) - [How Facebook and Instagram became marketplaces for child sex trafficking](https://www.theguardian.com/news/2023/apr/27/how-facebook-and-instagram-became-marketplaces-for-child-sex-trafficking)
 * [2023-04-27, 10:40:56](https://news.ycombinator.com/item?id=35726052) - [The Disappointment of 5G](https://circleid.com/posts/20230127-the-disappointment-of-5g)
+* [2023-04-27, 10:06:58](https://news.ycombinator.com/item?id=35725790) - [GCC 13 Released](https://gcc.gnu.org/gcc-13/changes.html)
 * [2023-04-27, 09:57:04](https://news.ycombinator.com/item?id=35725706) - [Report from the German Parliament&#x27;s “Sustainable by Design” Conference](https://eco.kde.org/blog/2023-04-26-sustainable-by-design/)
 * [2023-04-27, 09:04:44](https://news.ycombinator.com/item?id=35725250) - [Morocco ranked third in the global tomato exports](https://east-fruit.com/en/trending/morocco-ranked-third-in-the-global-tomato-exports/)
 * [2023-04-27, 08:58:34](https://news.ycombinator.com/item?id=35725202) - [GNU Pascal Compiler](https://www.gnu-pascal.de/gpc/h-index.html)
