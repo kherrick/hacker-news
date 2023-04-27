@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-27, 03:16:23](https://news.ycombinator.com/item?id=35722908) - [Lithuanian University locks out students again for not using proprietary 2FA](https://gitlab.digilol.net/Siren/vgtu-article/-/blob/4a34721d392b856f26956a9e185e4d8c5371d27d/vgtu.md)
+* [2023-04-27, 03:16:23](https://news.ycombinator.com/item?id=35722908) - [Lithuanian university locks out students again for not using proprietary 2FA](https://gitlab.digilol.net/Siren/vgtu-article/-/blob/4a34721d392b856f26956a9e185e4d8c5371d27d/vgtu.md)
 * [2023-04-27, 03:08:55](https://news.ycombinator.com/item?id=35722865) - [Tell HN: iOS converts units for highlighted text](https://news.ycombinator.com/item?id=35722865)
+* [2023-04-27, 02:55:24](https://news.ycombinator.com/item?id=35722778) - [Now They&#x27;re Trying Censor Your Text Messages](https://public.substack.com/p/now-theyre-trying-censor-your-text)
 * [2023-04-27, 02:41:07](https://news.ycombinator.com/item?id=35722681) - [Emerging Rust GUI libraries in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html)
 * [2023-04-27, 02:00:22](https://news.ycombinator.com/item?id=35722376) - [The Next Generation in Graphics, Part 1: Three Dimensions in Software](https://www.filfre.net/2023/04/the-next-generation-in-graphics-part-1-three-dimensions-in-software-or-quake-and-its-discontents/)
 * [2023-04-27, 01:51:58](https://news.ycombinator.com/item?id=35722298) - [Brazil judge orders temporary suspension of Telegram](https://apnews.com/article/brazil-telegram-suspension-social-media-school-violence-d72acaacd3c1b4d07c2c4fcb094f4ce6)
@@ -28,7 +29,6 @@
 * [2023-04-25, 09:47:29](https://news.ycombinator.com/item?id=35698354) - [Redump Milestone – 100k Discs](http://redump.org/)
 * [2023-04-25, 07:41:35](https://news.ycombinator.com/item?id=35697623) - [Permutation Group Visualizer](https://permutation-groups.glitch.me/)
 * [2023-04-25, 06:58:58](https://news.ycombinator.com/item?id=35697349) - [AMD Ryzen 7000 Burning Out: Impacts all 7000 processors](https://www.tomshardware.com/news/amd-ryzen-7000-burning-out-root-cause-identified-expo-and-soc-voltages-to-blame)
-* [2023-04-25, 06:52:19](https://news.ycombinator.com/item?id=35697310) - [Moving away from algorithmic curation](https://boredzo.org/blog/archives/2023-04-24/moving-away-from-algorithmic-curation)
 * [2023-04-25, 05:21:02](https://news.ycombinator.com/item?id=35696787) - [Thinking about our passive exposure to IPv6 issues](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure)
 
 ## [Archives](archives/index.md)
