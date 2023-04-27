@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-27, 04:23:02](https://news.ycombinator.com/item?id=35723276) - [The Happiest People in America Are Older, Female and Believe in God](https://www.wsj.com/articles/happiest-people-america-poll-ef7c854c)
+* [2023-04-27, 04:23:12](https://news.ycombinator.com/item?id=35723279) - [How Microsoft names threat actors](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * [2023-04-27, 04:01:08](https://news.ycombinator.com/item?id=35723148) - [California Court of Appeal finds geofence warrant unconstitutional](https://www.eff.org/deeplinks/2023/04/first-us-appellate-court-decide-finds-geofence-warrant-unconstitutional)
-* [2023-04-27, 03:16:23](https://news.ycombinator.com/item?id=35722908) - [Lithuanian university locks out students again for not using proprietary 2FA](https://gitlab.digilol.net/Siren/vgtu-article/-/blob/4a34721d392b856f26956a9e185e4d8c5371d27d/vgtu.md)
 * [2023-04-27, 03:08:55](https://news.ycombinator.com/item?id=35722865) - [Tell HN: iOS converts units for highlighted text](https://news.ycombinator.com/item?id=35722865)
 * [2023-04-27, 02:41:07](https://news.ycombinator.com/item?id=35722681) - [Emerging Rust GUI libraries in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html)
 * [2023-04-27, 02:00:22](https://news.ycombinator.com/item?id=35722376) - [The Next Generation in Graphics, Part 1: Three Dimensions in Software](https://www.filfre.net/2023/04/the-next-generation-in-graphics-part-1-three-dimensions-in-software-or-quake-and-its-discontents/)
@@ -16,6 +15,7 @@
 * [2023-04-26, 19:55:58](https://news.ycombinator.com/item?id=35719100) - [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
 * [2023-04-26, 19:42:01](https://news.ycombinator.com/item?id=35718912) - [Performance excuses debunked](https://www.computerenhance.com/p/performance-excuses-debunked)
 * [2023-04-26, 19:00:51](https://news.ycombinator.com/item?id=35718417) - [Linen.dev: A 500 kb Slack alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
+* [2023-04-26, 18:15:48](https://news.ycombinator.com/item?id=35717871) - [DeepFloyd IF: open-source text-to-image model](https://github.com/deep-floyd/IF)
 * [2023-04-26, 17:36:04](https://news.ycombinator.com/item?id=35717344) - [Update millions of records in Rails](https://blog.eq8.eu/til/update-millions-of-records-in-rails.html)
 * [2023-04-26, 17:19:34](https://news.ycombinator.com/item?id=35717106) - [HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://xhuangcv.github.io/hdr-nerf/)
 * [2023-04-26, 17:10:38](https://news.ycombinator.com/item?id=35716963) - [The part of Postgres we hate the most: Multi-version concurrency control](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
