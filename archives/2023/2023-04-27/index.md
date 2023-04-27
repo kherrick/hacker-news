@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 16:01:37](https://news.ycombinator.com/item?id=35730083) - [The Chaotic World of Kids Trying to Play Video Games on School Laptops](https://www.vice.com/en/article/z3mxkj/inside-the-chaotic-world-of-kids-trying-to-play-video-games-on-school-laptops)
+* [2023-04-27, 16:01:18](https://news.ycombinator.com/item?id=35730075) - [Even Apple employees hate Siri and are skeptical of its future, new report says](https://9to5mac.com/2023/04/27/apple-employees-siri-struggles/)
+* [2023-04-27, 16:01:16](https://news.ycombinator.com/item?id=35730074) - [As I am currently in a war zone, I don&#x27;t have many options for cabling](https://electronics.stackexchange.com/questions/664502/using-clothesline-steel-core-wire-rope-for-ac-and-dc)
 * [2023-04-27, 15:45:23](https://news.ycombinator.com/item?id=35729816) - [Pinecone raises $100M Series B](https://www.pinecone.io/learn/series-b/)
 * [2023-04-27, 15:38:17](https://news.ycombinator.com/item?id=35729709) - [US Supreme Court Justices get lavish gifts; Raise bar for bribery prosecutions](https://ohiocapitaljournal.com/2023/04/26/u-s-supreme-court-justices-take-lavish-gifts-then-raise-the-bar-for-bribery-prosecutions/)
 * [2023-04-27, 15:33:26](https://news.ycombinator.com/item?id=35729655) - [BlueHat IL 2023: Microsoft rewriting core Windows libraries in Rust](https://www.youtube.com/watch?v=8T6ClX-y2AE)

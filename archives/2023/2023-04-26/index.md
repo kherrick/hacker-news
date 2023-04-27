@@ -94,6 +94,7 @@
 * [2023-04-26, 05:44:37](https://news.ycombinator.com/item?id=35709976) - [Baron Roman von Ungern-Sternberg (2011)](http://madmonarchist.blogspot.com/2011/05/monarchist-profile-baron-ungern.html)
 * [2023-04-26, 05:44:14](https://news.ycombinator.com/item?id=35709975) - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995)
 * [2023-04-26, 04:55:49](https://news.ycombinator.com/item?id=35709758) - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
+* [2023-04-26, 04:44:38](https://news.ycombinator.com/item?id=35709722) - [Technology, Pregnancy, and Parenthood (2021)](https://royapakzad.substack.com/p/technology-pregnancy-and-parenthood)
 * [2023-04-26, 04:31:08](https://news.ycombinator.com/item?id=35709648) - [react-native-iconify – Library of 150k Icons](https://github.com/oktaysenkan/react-native-iconify)
 * [2023-04-26, 03:59:09](https://news.ycombinator.com/item?id=35709521) - [Gradle Still Sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
 * [2023-04-26, 03:43:26](https://news.ycombinator.com/item?id=35709453) - [Show HN: Turn your screenshots into beautifual posts](https://app.jellylade.com)
