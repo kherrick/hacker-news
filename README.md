@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-27, 08:46:20](https://news.ycombinator.com/item?id=35725094) - [The unintentional dystopian beauty of oil rigs](https://twitter.com/FedeItaliano76/status/1650871570137600000)
 * [2023-04-27, 08:44:58](https://news.ycombinator.com/item?id=35725076) - [Microsoft in furious attack on UK as major gaming deal blocked](https://www.bbc.co.uk/news/business-65407005)
 * [2023-04-27, 08:28:15](https://news.ycombinator.com/item?id=35724939) - [Dropbox telemetry can&#x27;t be disabled](https://www.dropboxforum.com/t5/Integrations/Why-So-Much-Telemetry/td-p/455961/page/3)
 * [2023-04-27, 08:25:54](https://news.ycombinator.com/item?id=35724912) - [Tokyo has 20 times as much WiFi as it needs](https://www.theregister.com/2023/04/27/ntt_network_sharing_blockchain/)
@@ -27,7 +28,6 @@
 * [2023-04-25, 11:57:51](https://news.ycombinator.com/item?id=35699252) - [Show HN: CheekyKeys – A Face-Controlled Keyboard](https://github.com/everythingishacked/CheekyKeys)
 * [2023-04-25, 09:47:29](https://news.ycombinator.com/item?id=35698354) - [Redump Milestone – 100k Discs](http://redump.org/)
 * [2023-04-25, 07:42:51](https://news.ycombinator.com/item?id=35697631) - [Choosing the optimal index with limited information](https://memgraph.com/blog/optimal-index-with-limited-information)
-* [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch (2021)](https://e2eml.school/transformers.html)
 * [2023-04-25, 07:41:35](https://news.ycombinator.com/item?id=35697623) - [Permutation Group Visualizer](https://permutation-groups.glitch.me/)
 * [2023-04-25, 04:39:54](https://news.ycombinator.com/item?id=35696547) - [My alpha Pico-based CH32V003 debug tool is ready for a few testers](https://github.com/aappleby/PicoRVD)
 
