@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 08:25:54](https://news.ycombinator.com/item?id=35724912) - [Tokyo has 20 times as much WiFi as it needs](https://www.theregister.com/2023/04/27/ntt_network_sharing_blockchain/)
 * [2023-04-27, 07:51:08](https://news.ycombinator.com/item?id=35724634) - [Steven Spielberg: ‘No film should be revised’ based on modern sensitivity](https://www.theguardian.com/film/2023/apr/26/steven-spielberg-et-guns-movie-edit)
 * [2023-04-27, 06:37:09](https://news.ycombinator.com/item?id=35724100) - [Google Authenticator app is syncing unencrypted 2FA secrets](https://twitter.com/mysk_co/status/1651021165727477763)
 * [2023-04-27, 06:21:54](https://news.ycombinator.com/item?id=35723996) - [Aubrey Plaza Is the Unfortunate New Face of the Milk Wars – Bon Appétit](https://www.bonappetit.com/story/aubrey-plaza-wood-milk)
