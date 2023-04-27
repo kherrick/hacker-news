@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-27, 11:03:41](https://news.ycombinator.com/item?id=35726235) - [German researchers figure out how lager first developed in Bavaria](https://phys.org/news/2023-04-german-figure-lager-bavaria.html)
+* [2023-04-27, 10:47:08](https://news.ycombinator.com/item?id=35726102) - [How Facebook and Instagram became marketplaces for child sex trafficking](https://www.theguardian.com/news/2023/apr/27/how-facebook-and-instagram-became-marketplaces-for-child-sex-trafficking)
 * [2023-04-27, 10:40:56](https://news.ycombinator.com/item?id=35726052) - [The Disappointment of 5G](https://circleid.com/posts/20230127-the-disappointment-of-5g)
 * [2023-04-27, 09:57:04](https://news.ycombinator.com/item?id=35725706) - [Report from the German Parliament&#x27;s “Sustainable by Design” Conference](https://eco.kde.org/blog/2023-04-26-sustainable-by-design/)
 * [2023-04-27, 08:58:34](https://news.ycombinator.com/item?id=35725202) - [GNU Pascal (2005)](https://www.gnu-pascal.de/gpc/h-index.html)
@@ -25,7 +26,6 @@
 * [2023-04-26, 06:44:05](https://news.ycombinator.com/item?id=35710266) - [In Praise of the Long Movie](https://www.newyorker.com/culture/cultural-comment/in-praise-of-the-long-movie)
 * [2023-04-25, 19:20:08](https://news.ycombinator.com/item?id=35705325) - [The Goddess Complex](https://theamericanscholar.org/the-goddess-complex/)
 * [2023-04-25, 12:05:46](https://news.ycombinator.com/item?id=35699311) - [The KRC-2 regenerative receiver kit: a review](https://incoherency.co.uk/blog/stories/krc-2-regenerative-receiver-review.html)
-* [2023-04-25, 11:57:51](https://news.ycombinator.com/item?id=35699252) - [Show HN: CheekyKeys – A Face-Controlled Keyboard](https://github.com/everythingishacked/CheekyKeys)
 * [2023-04-25, 07:42:51](https://news.ycombinator.com/item?id=35697631) - [Choosing the optimal index with limited information](https://memgraph.com/blog/optimal-index-with-limited-information)
 * [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch (2021)](https://e2eml.school/transformers.html)
 * [2023-04-25, 07:41:35](https://news.ycombinator.com/item?id=35697623) - [Permutation Group Visualizer](https://permutation-groups.glitch.me/)
