@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-04-27, 00:52:07",
-      "https://news.ycombinator.com/item?id=35721910"
-    ],
-    [
-      "Mark Zuckerberg says Meta wants to ‘introduce AI agents to billions of people’",
-      "https://www.theverge.com/2023/4/26/23699633/mark-zuckerberg-meta-generative-ai-chatbots-instagram-facebook-whatsapp"
-    ]
-  ],
-  [
-    [
       "2023-04-27, 00:43:30",
       "https://news.ycombinator.com/item?id=35721849"
     ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2023-04-26, 14:06:12",
+      "https://news.ycombinator.com/item?id=35713852"
+    ],
+    [
+      "Show HN: Learn German with Short Stories",
+      "https://webbu.app/german"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 13:42:04",
       "https://news.ycombinator.com/item?id=35713524"
     ],
@@ -207,16 +207,6 @@
     [
       "What I learned unsubscribing from 22 newspapers",
       "https://www.lenfestinstitute.org/solution-set/i-canceled-22-digital-newspaper-subscriptions-heres-what-i-learned-about-digital-retention-strategies/"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 11:53:09",
-      "https://news.ycombinator.com/item?id=35712238"
-    ],
-    [
-      "Show HN: An interactive map showing live wind farm generation in Great Britain",
-      "https://renewables-map.robinhawkes.com"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Thinking about our passive exposure to IPv6 issues",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 04:39:54",
+      "https://news.ycombinator.com/item?id=35696547"
+    ],
+    [
+      "My alpha Pico-based CH32V003 debug tool is ready for a few testers",
+      "https://github.com/aappleby/PicoRVD"
     ]
   ]
 ]
