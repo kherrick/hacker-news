@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-27, 21:46:27](https://news.ycombinator.com/item?id=35735030) - [Harvey AI raises $21M in a Series A round led by Sequoia](https://www.lawnext.com/2023/04/harvey-ai-raises-21m-in-a-series-a-round-led-by-sequoia.html)
 * [2023-04-27, 21:13:16](https://news.ycombinator.com/item?id=35734685) - [Knowledge retrieval architectures for LLMs (2023)](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
 * [2023-04-27, 21:00:57](https://news.ycombinator.com/item?id=35734516) - [Firezone (YC W22) is hiring Rust systems engineers (SF &#x2F; US remote)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
 * [2023-04-27, 19:42:17](https://news.ycombinator.com/item?id=35733515) - [XTDB 2.x Early Access](https://www.xtdb.com/v2)
@@ -16,20 +17,19 @@
 * [2023-04-27, 16:40:50](https://news.ycombinator.com/item?id=35730764) - [Hotspot performance engineering fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
 * [2023-04-27, 16:37:55](https://news.ycombinator.com/item?id=35730711) - [Brave Search removes last remnant of Bing from search results page](https://brave.com/search-independence/)
 * [2023-04-27, 16:01:16](https://news.ycombinator.com/item?id=35730074) - [As I am currently in a war zone, I don&#x27;t have many options for cabling](https://electronics.stackexchange.com/questions/664502/using-clothesline-steel-core-wire-rope-for-ac-and-dc)
-* [2023-04-27, 15:28:16](https://news.ycombinator.com/item?id=35729586) - [Semantic Tokenizer for Enhanced Natural Language Processing](https://arxiv.org/abs/2304.12404)
 * [2023-04-27, 15:26:59](https://news.ycombinator.com/item?id=35729558) - [Colorado governor signs tractor right-to-repair law opposed by John Deere](https://arstechnica.com/tech-policy/2023/04/colorado-governor-signs-tractor-right-to-repair-law-opposed-by-john-deere/)
 * [2023-04-27, 15:06:37](https://news.ycombinator.com/item?id=35729260) - [Quicssh: SSH over QUIC](https://github.com/moul/quicssh)
 * [2023-04-27, 13:40:47](https://news.ycombinator.com/item?id=35727967) - [Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
 * [2023-04-27, 13:01:35](https://news.ycombinator.com/item?id=35727408) - [Delphi 11 and C++Builder 11 Community Editions Released](https://blogs.embarcadero.com/delphi-11-and-cbuilder-11-community-editions-released/)
 * [2023-04-27, 11:40:02](https://news.ycombinator.com/item?id=35726559) - [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/)
 * [2023-04-27, 11:37:10](https://news.ycombinator.com/item?id=35726525) - [The economics and politics of Thomas the Tank Engine (2015)](https://medium.com/bull-market/the-economics-and-politics-of-thomas-the-tank-engine-8bbc05494b08)
-* [2023-04-27, 10:06:58](https://news.ycombinator.com/item?id=35725790) - [GCC 13 Released](https://gcc.gnu.org/gcc-13/changes.html)
 * [2023-04-26, 06:43:20](https://news.ycombinator.com/item?id=35710259) - [Freud as Talmudist](https://jewishreviewofbooks.com/jewish-history/13912/freud-as-talmudist/)
 * [2023-04-26, 06:20:07](https://news.ycombinator.com/item?id=35710142) - [The Epistemology of Software Quality](https://increment.com/teams/the-epistemology-of-software-quality/)
 * [2023-04-26, 00:50:55](https://news.ycombinator.com/item?id=35708580) - [CardStock](https://github.com/benjie-git/CardStock)
 * [2023-04-25, 11:52:54](https://news.ycombinator.com/item?id=35699201) - [Droit de Suite](https://en.wikipedia.org/wiki/Droit_de_suite)
 * [2023-04-25, 10:39:52](https://news.ycombinator.com/item?id=35698653) - [First up-close images of Mars’s little-known moon Deimos](https://www.nature.com/articles/d41586-023-01422-1)
 * [2023-04-25, 10:28:18](https://news.ycombinator.com/item?id=35698587) - [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/)
+* [2023-04-25, 08:23:23](https://news.ycombinator.com/item?id=35697882) - [Xhtml Friends Network (2003)](http://gmpg.org/xfn/)
 
 ## [Archives](archives/index.md)
 

@@ -82,6 +82,7 @@
 * [2023-04-25, 09:38:14](https://news.ycombinator.com/item?id=35698282) - [A command-line tool to easily kill processes running on a specified port](https://github.com/jkfran/killport)
 * [2023-04-25, 09:08:09](https://news.ycombinator.com/item?id=35698112) - [Electricity from Space: The 1970s DOE&#x2F;NASA Solar Power Satellite Studies](http://spaceflighthistory.blogspot.com/2016/12/energy-from-space-department-of.html)
 * [2023-04-25, 08:30:10](https://news.ycombinator.com/item?id=35697922) - [Show HN: TravelGPT Adventures: Your Guide to Experiencing the World with GPT](https://travelgpt.art)
+* [2023-04-25, 08:23:23](https://news.ycombinator.com/item?id=35697882) - [Xhtml Friends Network (2003)](http://gmpg.org/xfn/)
 * [2023-04-25, 08:21:09](https://news.ycombinator.com/item?id=35697869) - [Strlcpy and Strlcat – Consistent, Safe, String Copy and Concatenation (1999) [pdf]](https://www.openbsd.org/papers/strlcpy-paper.pdf)
 * [2023-04-25, 07:48:05](https://news.ycombinator.com/item?id=35697674) - [Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?](https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html)
 * [2023-04-25, 07:42:51](https://news.ycombinator.com/item?id=35697631) - [Choosing the optimal index with limited information](https://memgraph.com/blog/optimal-index-with-limited-information)
