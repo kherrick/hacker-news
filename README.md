@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-27, 08:44:58](https://news.ycombinator.com/item?id=35725076) - [Microsoft in furious attack on UK as major gaming deal blocked](https://www.bbc.co.uk/news/business-65407005)
 * [2023-04-27, 08:28:15](https://news.ycombinator.com/item?id=35724939) - [Dropbox telemetry can&#x27;t be disabled](https://www.dropboxforum.com/t5/Integrations/Why-So-Much-Telemetry/td-p/455961/page/3)
 * [2023-04-27, 08:25:54](https://news.ycombinator.com/item?id=35724912) - [Tokyo has 20 times as much WiFi as it needs](https://www.theregister.com/2023/04/27/ntt_network_sharing_blockchain/)
 * [2023-04-27, 07:51:08](https://news.ycombinator.com/item?id=35724634) - [Steven Spielberg: ‘No film should be revised’ based on modern sensitivity](https://www.theguardian.com/film/2023/apr/26/steven-spielberg-et-guns-movie-edit)
 * [2023-04-27, 05:08:04](https://news.ycombinator.com/item?id=35723540) - [On the unexpected joys of Denglisch, Berlinglish and global Englisch](https://europeanreviewofbooks.com/beamer-dressman-bodybag/en)
-* [2023-04-27, 04:51:08](https://news.ycombinator.com/item?id=35723469) - [Samsung Profits Plunge 95%](https://www.cnn.com/2023/04/26/tech/south-korea-samsung-q1-profits-plunge-intl-hnk/index.html)
 * [2023-04-27, 04:23:12](https://news.ycombinator.com/item?id=35723279) - [How Microsoft names threat actors](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * [2023-04-27, 04:01:08](https://news.ycombinator.com/item?id=35723148) - [California Court of Appeal finds geofence warrant unconstitutional](https://www.eff.org/deeplinks/2023/04/first-us-appellate-court-decide-finds-geofence-warrant-unconstitutional)
 * [2023-04-27, 02:41:07](https://news.ycombinator.com/item?id=35722681) - [Emerging Rust GUI libraries in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html)
@@ -18,7 +18,6 @@
 * [2023-04-26, 19:55:58](https://news.ycombinator.com/item?id=35719100) - [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
 * [2023-04-26, 19:00:51](https://news.ycombinator.com/item?id=35718417) - [Linen.dev: A 500 kb Slack alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
 * [2023-04-26, 18:15:48](https://news.ycombinator.com/item?id=35717871) - [DeepFloyd IF: open-source text-to-image model](https://github.com/deep-floyd/IF)
-* [2023-04-26, 17:36:04](https://news.ycombinator.com/item?id=35717344) - [Update millions of records in Rails](https://blog.eq8.eu/til/update-millions-of-records-in-rails.html)
 * [2023-04-26, 13:42:04](https://news.ycombinator.com/item?id=35713524) - [Long before trees overtook the land, Earth was covered by prototaxites (2013)](https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/)
 * [2023-04-26, 13:41:47](https://news.ycombinator.com/item?id=35713518) - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
 * [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix loses 1M users in Spain over password policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
@@ -28,6 +27,7 @@
 * [2023-04-25, 11:57:51](https://news.ycombinator.com/item?id=35699252) - [Show HN: CheekyKeys – A Face-Controlled Keyboard](https://github.com/everythingishacked/CheekyKeys)
 * [2023-04-25, 09:47:29](https://news.ycombinator.com/item?id=35698354) - [Redump Milestone – 100k Discs](http://redump.org/)
 * [2023-04-25, 07:42:51](https://news.ycombinator.com/item?id=35697631) - [Choosing the optimal index with limited information](https://memgraph.com/blog/optimal-index-with-limited-information)
+* [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch (2021)](https://e2eml.school/transformers.html)
 * [2023-04-25, 07:41:35](https://news.ycombinator.com/item?id=35697623) - [Permutation Group Visualizer](https://permutation-groups.glitch.me/)
 * [2023-04-25, 04:39:54](https://news.ycombinator.com/item?id=35696547) - [My alpha Pico-based CH32V003 debug tool is ready for a few testers](https://github.com/aappleby/PicoRVD)
 
