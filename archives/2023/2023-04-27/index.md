@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 17:26:18](https://news.ycombinator.com/item?id=35731539) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
 * [2023-04-27, 17:11:23](https://news.ycombinator.com/item?id=35731285) - [Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA](https://www.apple.com/legal/more-resources/dsa/mt/)
 * [2023-04-27, 17:00:56](https://news.ycombinator.com/item?id=35731138) - [Middleware (YC W23) Is Hiring Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs)
 * [2023-04-27, 16:45:06](https://news.ycombinator.com/item?id=35730853) - [US adult cigarette smoking rate hits new all-time low](https://apnews.com/article/how-many-people-smoke-us-64987fe2b7bf764c64d4594e5b02e6ea)
