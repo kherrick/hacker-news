@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
 * [2023-04-27, 18:18:55](https://news.ycombinator.com/item?id=35732384) - [Google Cloud region currently down due to water intrusion](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY#73mBtVKKfeJGJ1yaY7hV)
+* [2023-04-27, 18:07:59](https://news.ycombinator.com/item?id=35732225) - [Founders’ Email to Clubhouse Employees](https://blog.clubhouse.com/april-27-2023/)
 * [2023-04-27, 17:55:03](https://news.ycombinator.com/item?id=35732042) - [ChatGPT for Hardware Design](https://docs.flux.ai/tutorials/ai-for-hardware-design)
+* [2023-04-27, 17:54:59](https://news.ycombinator.com/item?id=35732038) - [Some Bluesky, Twitter and Mastodon predictions for 6 months time](https://andy-bell.co.uk/some-bluesky-twitter-and-mastodon-predictions-for-6-months-time/)
 * [2023-04-27, 17:50:39](https://news.ycombinator.com/item?id=35731962) - [Oral Sex Stoking Throat Cancer ‘Epidemic’ in UK and US](https://www.independent.co.uk/news/health/oral-sex-throat-cancer-uk-us-b2327921.html)
 * [2023-04-27, 17:45:29](https://news.ycombinator.com/item?id=35731856) - [The Andy Warhol Copyright Case That Could Transform Generative AI](https://www.wired.com/story/andy-warhol-fair-use-prince-generative-ai/)
 * [2023-04-27, 17:38:46](https://news.ycombinator.com/item?id=35731750) - [I write code 100 hours&#x2F;week, here&#x27;s why I probably won&#x27;t stop](https://devlog.hexops.com/2021/i-write-code-100-hours-a-week/)
