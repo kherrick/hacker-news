@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-27, 22:34:16](https://news.ycombinator.com/item?id=35735375) - [LLM with Planning](https://arxiv.org/abs/2304.11477)
-* [2023-04-27, 22:28:07](https://news.ycombinator.com/item?id=35735329) - [SpaceX grounded after a rocket explosion caused extensive environmental damage](https://www.tpr.org/environment/2023-04-27/photos-spacex-is-grounded-after-rocket-explosion-caused-extensive-environmental-damage)
 * [2023-04-27, 21:46:27](https://news.ycombinator.com/item?id=35735030) - [Harvey AI raises $21M in a Series A round led by Sequoia](https://www.lawnext.com/2023/04/harvey-ai-raises-21m-in-a-series-a-round-led-by-sequoia.html)
 * [2023-04-27, 21:13:16](https://news.ycombinator.com/item?id=35734685) - [Knowledge retrieval architectures for LLMs (2023)](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
 * [2023-04-27, 21:00:57](https://news.ycombinator.com/item?id=35734516) - [Firezone (YC W22) is hiring Rust systems engineers (SF &#x2F; US remote)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
@@ -23,6 +22,7 @@
 * [2023-04-27, 13:40:47](https://news.ycombinator.com/item?id=35727967) - [Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
 * [2023-04-27, 13:01:35](https://news.ycombinator.com/item?id=35727408) - [Delphi 11 and C++Builder 11 Community Editions Released](https://blogs.embarcadero.com/delphi-11-and-cbuilder-11-community-editions-released/)
 * [2023-04-27, 11:40:02](https://news.ycombinator.com/item?id=35726559) - [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/)
+* [2023-04-27, 10:06:58](https://news.ycombinator.com/item?id=35725790) - [GCC 13 Released](https://gcc.gnu.org/gcc-13/changes.html)
 * [2023-04-26, 06:43:20](https://news.ycombinator.com/item?id=35710259) - [Freud as Talmudist](https://jewishreviewofbooks.com/jewish-history/13912/freud-as-talmudist/)
 * [2023-04-26, 06:20:07](https://news.ycombinator.com/item?id=35710142) - [The Epistemology of Software Quality](https://increment.com/teams/the-epistemology-of-software-quality/)
 * [2023-04-26, 00:50:55](https://news.ycombinator.com/item?id=35708580) - [CardStock](https://github.com/benjie-git/CardStock)
