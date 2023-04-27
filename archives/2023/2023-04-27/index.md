@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 16:45:06](https://news.ycombinator.com/item?id=35730853) - [US adult cigarette smoking rate hits new all-time low](https://apnews.com/article/how-many-people-smoke-us-64987fe2b7bf764c64d4594e5b02e6ea)
 * [2023-04-27, 16:35:00](https://news.ycombinator.com/item?id=35730662) - [Global Warming Trend &#x27;Only 1&#x2F;2 of the Climate Model Simulations&#x27; Says New Paper](https://reason.com/2023/04/27/global-warming-trend-is-only-one-half-of-the-climate-model-simulations-says-new-paper/)
 * [2023-04-27, 16:32:54](https://news.ycombinator.com/item?id=35730626) - [Lyft to cut 1,072 employees, or 26% of its workforce](https://www.cnbc.com/2023/04/27/lyft-layoffs-company-to-cut-1072-employees-or-26percent-of-its-workforce.html)
 * [2023-04-27, 16:01:37](https://news.ycombinator.com/item?id=35730083) - [The Chaotic World of Kids Trying to Play Video Games on School Laptops](https://www.vice.com/en/article/z3mxkj/inside-the-chaotic-world-of-kids-trying-to-play-video-games-on-school-laptops)
