@@ -6,6 +6,7 @@
 
 * [2023-04-26, 23:52:04](https://news.ycombinator.com/item?id=35721493) - [Google contractors vote to unionize in historic landslide election](https://www.sfgate.com/tech/article/google-contractors-vote-to-unionize-17920684.php)
 * [2023-04-26, 23:44:25](https://news.ycombinator.com/item?id=35721439) - [Dick Morrell: Amazon Users Advised to Reset Passwords Amid Echo Privacy Concerns](https://sackheads.social/@Cloudguy/110256617380917383)
+* [2023-04-26, 22:40:37](https://news.ycombinator.com/item?id=35720940) - [Observable Plot: The JavaScript library for exploratory data visualization](https://observablehq.com/plot)
 * [2023-04-26, 22:29:46](https://news.ycombinator.com/item?id=35720865) - [The Glorious Return of a Humble Car Feature](https://slate.com/business/2023/04/cars-buttons-touchscreens-vw-porsche-nissan-hyundai.html)
 * [2023-04-26, 22:25:05](https://news.ycombinator.com/item?id=35720828) - [The Sad Story of OAuth 2.0 and Open Standards](http://xahlee.info/comp/oauth2_bad.html)
 * [2023-04-26, 22:19:40](https://news.ycombinator.com/item?id=35720775) - [Massive geothermal apartment complex is going up in Brooklyn, first of its kind](https://www.cnbc.com/2023/04/26/a-massive-geothermal-apartment-complex-is-going-up-in-brooklyn.html)
@@ -102,6 +103,7 @@
 * [2023-04-26, 03:59:09](https://news.ycombinator.com/item?id=35709521) - [Gradle Still Sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
 * [2023-04-26, 03:43:26](https://news.ycombinator.com/item?id=35709453) - [Show HN: Turn your screenshots into beautifual posts](https://app.jellylade.com)
 * [2023-04-26, 03:19:22](https://news.ycombinator.com/item?id=35709348) - [How to use Podman inside of a container](https://www.redhat.com/sysadmin/podman-inside-container)
+* [2023-04-26, 03:00:08](https://news.ycombinator.com/item?id=35709248) - [A Winelike Sea](https://www.laphamsquarterly.org/sea/winelike-sea)
 * [2023-04-26, 02:47:40](https://news.ycombinator.com/item?id=35709199) - [Replit Series B Announcement](https://blog.replit.com/b-extension)
 * [2023-04-26, 02:32:11](https://news.ycombinator.com/item?id=35709114) - [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
 * [2023-04-26, 02:26:25](https://news.ycombinator.com/item?id=35709088) - [Show HN: Use ChatGPT on a 2 Dimensional Interface](https://www.superusapp.com/chatgpt2d/)
