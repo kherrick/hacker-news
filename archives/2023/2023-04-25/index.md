@@ -79,6 +79,7 @@
 * [2023-04-25, 08:30:10](https://news.ycombinator.com/item?id=35697922) - [Show HN: TravelGPT Adventures: Your Guide to Experiencing the World with GPT](https://travelgpt.art)
 * [2023-04-25, 08:21:09](https://news.ycombinator.com/item?id=35697869) - [Strlcpy and Strlcat – Consistent, Safe, String Copy and Concatenation (1999) [pdf]](https://www.openbsd.org/papers/strlcpy-paper.pdf)
 * [2023-04-25, 07:48:05](https://news.ycombinator.com/item?id=35697674) - [Supreme Court: Will Blocking on the SocialWeb Remain Legal for All in the USA?](https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html)
+* [2023-04-25, 07:42:51](https://news.ycombinator.com/item?id=35697631) - [Choosing the optimal index with limited information](https://memgraph.com/blog/optimal-index-with-limited-information)
 * [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch](https://e2eml.school/transformers.html)
 * [2023-04-25, 07:41:35](https://news.ycombinator.com/item?id=35697623) - [Permutation Group Visualizer](https://permutation-groups.glitch.me/)
 * [2023-04-25, 07:26:52](https://news.ycombinator.com/item?id=35697535) - [Chaos Bewitched: Moby-Dick and AI](https://publicdomainreview.org/essay/chaos-bewitched-moby-dick-and-ai)
