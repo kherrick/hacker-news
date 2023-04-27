@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 16:35:00](https://news.ycombinator.com/item?id=35730662) - [Global Warming Trend &#x27;Only 1&#x2F;2 of the Climate Model Simulations&#x27; Says New Paper](https://reason.com/2023/04/27/global-warming-trend-is-only-one-half-of-the-climate-model-simulations-says-new-paper/)
+* [2023-04-27, 16:32:54](https://news.ycombinator.com/item?id=35730626) - [Lyft to cut 1,072 employees, or 26% of its workforce](https://www.cnbc.com/2023/04/27/lyft-layoffs-company-to-cut-1072-employees-or-26percent-of-its-workforce.html)
 * [2023-04-27, 16:01:37](https://news.ycombinator.com/item?id=35730083) - [The Chaotic World of Kids Trying to Play Video Games on School Laptops](https://www.vice.com/en/article/z3mxkj/inside-the-chaotic-world-of-kids-trying-to-play-video-games-on-school-laptops)
 * [2023-04-27, 16:01:18](https://news.ycombinator.com/item?id=35730075) - [Even Apple employees hate Siri and are skeptical of its future, new report says](https://9to5mac.com/2023/04/27/apple-employees-siri-struggles/)
 * [2023-04-27, 16:01:16](https://news.ycombinator.com/item?id=35730074) - [As I am currently in a war zone, I don&#x27;t have many options for cabling](https://electronics.stackexchange.com/questions/664502/using-clothesline-steel-core-wire-rope-for-ac-and-dc)
@@ -12,6 +14,7 @@
 * [2023-04-27, 15:33:26](https://news.ycombinator.com/item?id=35729655) - [BlueHat IL 2023: Microsoft rewriting core Windows libraries in Rust](https://www.youtube.com/watch?v=8T6ClX-y2AE)
 * [2023-04-27, 15:28:16](https://news.ycombinator.com/item?id=35729586) - [Semantic Tokenizer for Enhanced Natural Language Processing](https://arxiv.org/abs/2304.12404)
 * [2023-04-27, 15:26:59](https://news.ycombinator.com/item?id=35729558) - [Colorado governor signs tractor right-to-repair law opposed by John Deere](https://arstechnica.com/tech-policy/2023/04/colorado-governor-signs-tractor-right-to-repair-law-opposed-by-john-deere/)
+* [2023-04-27, 15:07:54](https://news.ycombinator.com/item?id=35729283) - [SCIF and Radio Frequency Secured Facility Design (2021)](https://incompliancemag.com/article/scif-and-radio-frequency-secured-facility-design/)
 * [2023-04-27, 15:06:37](https://news.ycombinator.com/item?id=35729260) - [Quicssh: SSH over QUIC](https://github.com/moul/quicssh)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 * [2023-04-27, 14:42:38](https://news.ycombinator.com/item?id=35728893) - [Jerry Springer, Host of TV’s Most Controversial Show, Dies at 79](https://variety.com/2023/tv/news/jerry-springer-dead-tv-host-1235596610/)
