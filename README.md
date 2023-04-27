@@ -13,7 +13,7 @@
 * [2023-04-27, 17:26:18](https://news.ycombinator.com/item?id=35731539) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
 * [2023-04-27, 17:11:23](https://news.ycombinator.com/item?id=35731285) - [Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA](https://www.apple.com/legal/more-resources/dsa/mt/)
 * [2023-04-27, 17:02:08](https://news.ycombinator.com/item?id=35731156) - [Dyalog APL Graphs](https://dfns.dyalog.com/n_Graphs.htm)
-* [2023-04-27, 16:40:50](https://news.ycombinator.com/item?id=35730764) - [Hotspot Performance Engineering Fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
+* [2023-04-27, 16:40:50](https://news.ycombinator.com/item?id=35730764) - [Hotspot performance engineering fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
 * [2023-04-27, 16:37:55](https://news.ycombinator.com/item?id=35730711) - [Brave Search removes last remnant of Bing from search results page](https://brave.com/search-independence/)
 * [2023-04-27, 16:01:16](https://news.ycombinator.com/item?id=35730074) - [As I am currently in a war zone, I don&#x27;t have many options for cabling](https://electronics.stackexchange.com/questions/664502/using-clothesline-steel-core-wire-rope-for-ac-and-dc)
 * [2023-04-27, 15:28:16](https://news.ycombinator.com/item?id=35729586) - [Semantic Tokenizer for Enhanced Natural Language Processing](https://arxiv.org/abs/2304.12404)
