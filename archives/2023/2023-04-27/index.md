@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 15:33:26](https://news.ycombinator.com/item?id=35729655) - [BlueHat IL 2023: Microsoft rewriting core Windows libraries in Rust](https://www.youtube.com/watch?v=8T6ClX-y2AE)
+* [2023-04-27, 15:06:37](https://news.ycombinator.com/item?id=35729260) - [Quicssh: SSH over QUIC](https://github.com/moul/quicssh)
 * [2023-04-27, 14:42:38](https://news.ycombinator.com/item?id=35728893) - [Jerry Springer, Host of TV’s Most Controversial Show, Dies at 79](https://variety.com/2023/tv/news/jerry-springer-dead-tv-host-1235596610/)
 * [2023-04-27, 14:20:27](https://news.ycombinator.com/item?id=35728495) - [The U.S. Military Relies on One Louisiana Factory. It Blew Up](https://www.wsj.com/articles/the-u-s-military-has-an-explosive-problem-6e1a1049)
 * [2023-04-27, 14:14:06](https://news.ycombinator.com/item?id=35728380) - [New Intel Linux Graphics Driver Patches, Up to 10~15% Better Performance](https://www.phoronix.com/news/Intel-RPS-Threshold-Linux-Tune)
+* [2023-04-27, 14:10:49](https://news.ycombinator.com/item?id=35728336) - [Mercedes Reveals EQE and EQS &#x27;Acceleration Increase&#x27; Subscription Pricing](https://www.caranddriver.com/news/a43713075/mercedes-benz-eqe350-eqs450-acceleration-increase-subscription-pricing/)
 * [2023-04-27, 14:05:45](https://news.ycombinator.com/item?id=35728274) - [Is Satya Nadella the best tech CEO of last decade?](https://news.ycombinator.com/item?id=35728274)
 * [2023-04-27, 14:05:15](https://news.ycombinator.com/item?id=35728268) - [Ask HN: How do you synthesize books that you read?](https://news.ycombinator.com/item?id=35728268)
 * [2023-04-27, 14:01:44](https://news.ycombinator.com/item?id=35728229) - [Dune: Part Two – First Look](https://www.vanityfair.com/hollywood/2023/04/dune-part-two-exclusive-first-look)
