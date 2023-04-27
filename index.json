@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-27, 08:25:54",
+      "https://news.ycombinator.com/item?id=35724912"
+    ],
+    [
+      "Tokyo has 20 times as much WiFi as it needs",
+      "https://www.theregister.com/2023/04/27/ntt_network_sharing_blockchain/"
+    ]
+  ],
+  [
+    [
       "2023-04-27, 07:51:08",
       "https://news.ycombinator.com/item?id=35724634"
     ],
@@ -171,36 +181,6 @@
   ],
   [
     [
-      "2023-04-26, 17:19:34",
-      "https://news.ycombinator.com/item?id=35717106"
-    ],
-    [
-      "HDR-NeRF: High Dynamic Range Neural Radiance Fields",
-      "https://xhuangcv.github.io/hdr-nerf/"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 17:10:38",
-      "https://news.ycombinator.com/item?id=35716963"
-    ],
-    [
-      "The part of Postgres we hate the most: Multi-version concurrency control",
-      "https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 17:03:38",
-      "https://news.ycombinator.com/item?id=35716872"
-    ],
-    [
-      "SpaceX, Rogers to connect mobiles phones to satellites in remote Canadian areas",
-      "https://www.reuters.com/technology/space/spacex-rogers-connect-mobiles-phones-satellites-remote-canadian-areas-2023-04-26/"
-    ]
-  ],
-  [
-    [
       "2023-04-26, 13:42:04",
       "https://news.ycombinator.com/item?id=35713524"
     ],
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2023-04-25, 19:20:08",
+      "https://news.ycombinator.com/item?id=35705325"
+    ],
+    [
+      "The Goddess Complex",
+      "https://theamericanscholar.org/the-goddess-complex/"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 12:05:46",
       "https://news.ycombinator.com/item?id=35699311"
     ],
     [
       "The KRC-2 regenerative receiver kit: a review",
       "https://incoherency.co.uk/blog/stories/krc-2-regenerative-receiver-review.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 11:57:51",
+      "https://news.ycombinator.com/item?id=35699252"
+    ],
+    [
+      "Show HN: CheekyKeys – A Face-Controlled Keyboard",
+      "https://github.com/everythingishacked/CheekyKeys"
     ]
   ],
   [
