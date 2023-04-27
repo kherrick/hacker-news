@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-27, 12:26:18](https://news.ycombinator.com/item?id=35726999) - [Ask HN: How many websites, apps or notifications do you look at to “catch-up”?](https://news.ycombinator.com/item?id=35726999)
+* [2023-04-27, 12:11:24](https://news.ycombinator.com/item?id=35726855) - [The 2-Maxsat Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
 * [2023-04-27, 12:09:43](https://news.ycombinator.com/item?id=35726836) - [TSMC Outlines 2nm Plans: N2P Brings Backside Power Delivery in 2026, N2X Added](https://www.anandtech.com/show/18832/tsmc-outlines-2nm-plans-n2p-brings-backside-power-delivery-in-2026-n2x-added-to-roadmap)
 * [2023-04-27, 12:00:35](https://news.ycombinator.com/item?id=35726744) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4045518006)
 * [2023-04-27, 11:51:07](https://news.ycombinator.com/item?id=35726653) - [Some Things I Think](https://collabfund.com/blog/thoughts/)
@@ -24,7 +25,6 @@
 * [2023-04-26, 19:42:01](https://news.ycombinator.com/item?id=35718912) - [Performance excuses debunked](https://www.computerenhance.com/p/performance-excuses-debunked)
 * [2023-04-26, 19:00:51](https://news.ycombinator.com/item?id=35718417) - [Linen.dev: A 500 kb Slack alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
 * [2023-04-26, 13:41:47](https://news.ycombinator.com/item?id=35713518) - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
-* [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix loses 1M users in Spain over password policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
 * [2023-04-26, 06:44:05](https://news.ycombinator.com/item?id=35710266) - [In Praise of the Long Movie](https://www.newyorker.com/culture/cultural-comment/in-praise-of-the-long-movie)
 * [2023-04-25, 19:20:08](https://news.ycombinator.com/item?id=35705325) - [The Goddess Complex](https://theamericanscholar.org/the-goddess-complex/)
 * [2023-04-25, 10:39:52](https://news.ycombinator.com/item?id=35698653) - [First up-close images of Mars’s little-known moon Deimos](https://www.nature.com/articles/d41586-023-01422-1)
