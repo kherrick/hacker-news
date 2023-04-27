@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-27, 07:51:08](https://news.ycombinator.com/item?id=35724634) - [Steven Spielberg: ‘No film should be revised’ based on modern sensitivity](https://www.theguardian.com/film/2023/apr/26/steven-spielberg-et-guns-movie-edit)
 * [2023-04-27, 06:21:54](https://news.ycombinator.com/item?id=35723996) - [Aubrey Plaza Is the Unfortunate New Face of the Milk Wars – Bon Appétit](https://www.bonappetit.com/story/aubrey-plaza-wood-milk)
 * [2023-04-27, 05:08:04](https://news.ycombinator.com/item?id=35723540) - [On the unexpected joys of Denglisch, Berlinglish and global Englisch](https://europeanreviewofbooks.com/beamer-dressman-bodybag/en)
 * [2023-04-27, 04:51:08](https://news.ycombinator.com/item?id=35723469) - [Samsung Profits Plunge 95%](https://www.cnn.com/2023/04/26/tech/south-korea-samsung-q1-profits-plunge-intl-hnk/index.html)
@@ -25,7 +26,6 @@
 * [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix loses 1M users in Spain over password policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
 * [2023-04-26, 06:44:05](https://news.ycombinator.com/item?id=35710266) - [In Praise of the Long Movie](https://www.newyorker.com/culture/cultural-comment/in-praise-of-the-long-movie)
 * [2023-04-25, 12:05:46](https://news.ycombinator.com/item?id=35699311) - [The KRC-2 regenerative receiver kit: a review](https://incoherency.co.uk/blog/stories/krc-2-regenerative-receiver-review.html)
-* [2023-04-25, 11:57:51](https://news.ycombinator.com/item?id=35699252) - [Show HN: CheekyKeys – A Face-Controlled Keyboard](https://github.com/everythingishacked/CheekyKeys)
 * [2023-04-25, 09:47:29](https://news.ycombinator.com/item?id=35698354) - [Redump Milestone – 100k Discs](http://redump.org/)
 * [2023-04-25, 07:42:51](https://news.ycombinator.com/item?id=35697631) - [Choosing the optimal index with limited information](https://memgraph.com/blog/optimal-index-with-limited-information)
 * [2023-04-25, 07:41:35](https://news.ycombinator.com/item?id=35697623) - [Permutation Group Visualizer](https://permutation-groups.glitch.me/)
