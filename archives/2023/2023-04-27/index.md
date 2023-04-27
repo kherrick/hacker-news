@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
 * [2023-04-27, 09:57:04](https://news.ycombinator.com/item?id=35725706) - [Report from the German Parliament&#x27;s “Sustainable by Design” Conference](https://eco.kde.org/blog/2023-04-26-sustainable-by-design/)
+* [2023-04-27, 09:04:44](https://news.ycombinator.com/item?id=35725250) - [Morocco ranked third in the global tomato exports](https://east-fruit.com/en/trending/morocco-ranked-third-in-the-global-tomato-exports/)
 * [2023-04-27, 08:58:34](https://news.ycombinator.com/item?id=35725202) - [GNU Pascal Compiler](https://www.gnu-pascal.de/gpc/h-index.html)
 * [2023-04-27, 08:46:20](https://news.ycombinator.com/item?id=35725094) - [The unintentional dystopian beauty of oil rigs](https://twitter.com/FedeItaliano76/status/1650871570137600000)
 * [2023-04-27, 08:44:58](https://news.ycombinator.com/item?id=35725076) - [Microsoft in furious attack on UK as major gaming deal blocked](https://www.bbc.co.uk/news/business-65407005)

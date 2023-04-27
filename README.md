@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-27, 09:57:04](https://news.ycombinator.com/item?id=35725706) - [Report from the German Parliament&#x27;s “Sustainable by Design” Conference](https://eco.kde.org/blog/2023-04-26-sustainable-by-design/)
+* [2023-04-27, 09:04:44](https://news.ycombinator.com/item?id=35725250) - [Morocco ranked third in the global tomato exports](https://east-fruit.com/en/trending/morocco-ranked-third-in-the-global-tomato-exports/)
 * [2023-04-27, 08:58:34](https://news.ycombinator.com/item?id=35725202) - [GNU Pascal (2005)](https://www.gnu-pascal.de/gpc/h-index.html)
 * [2023-04-27, 08:46:20](https://news.ycombinator.com/item?id=35725094) - [The unintentional dystopian beauty of oil rigs](https://twitter.com/FedeItaliano76/status/1650871570137600000)
 * [2023-04-27, 08:28:15](https://news.ycombinator.com/item?id=35724939) - [Dropbox telemetry can&#x27;t be disabled](https://www.dropboxforum.com/t5/Integrations/Why-So-Much-Telemetry/td-p/455961/page/3)
@@ -27,7 +28,6 @@
 * [2023-04-25, 12:05:46](https://news.ycombinator.com/item?id=35699311) - [The KRC-2 regenerative receiver kit: a review](https://incoherency.co.uk/blog/stories/krc-2-regenerative-receiver-review.html)
 * [2023-04-25, 09:47:29](https://news.ycombinator.com/item?id=35698354) - [Redump Milestone – 100k Discs](http://redump.org/)
 * [2023-04-25, 07:42:51](https://news.ycombinator.com/item?id=35697631) - [Choosing the optimal index with limited information](https://memgraph.com/blog/optimal-index-with-limited-information)
-* [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch (2021)](https://e2eml.school/transformers.html)
 * [2023-04-25, 07:41:35](https://news.ycombinator.com/item?id=35697623) - [Permutation Group Visualizer](https://permutation-groups.glitch.me/)
 * [2023-04-25, 04:39:54](https://news.ycombinator.com/item?id=35696547) - [My alpha Pico-based CH32V003 debug tool is ready for a few testers](https://github.com/aappleby/PicoRVD)
 
