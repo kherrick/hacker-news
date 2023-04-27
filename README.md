@@ -4,6 +4,7 @@
 * [2023-04-27, 08:25:54](https://news.ycombinator.com/item?id=35724912) - [Tokyo has 20 times as much WiFi as it needs](https://www.theregister.com/2023/04/27/ntt_network_sharing_blockchain/)
 * [2023-04-27, 07:51:08](https://news.ycombinator.com/item?id=35724634) - [Steven Spielberg: ‘No film should be revised’ based on modern sensitivity](https://www.theguardian.com/film/2023/apr/26/steven-spielberg-et-guns-movie-edit)
 * [2023-04-27, 05:08:04](https://news.ycombinator.com/item?id=35723540) - [On the unexpected joys of Denglisch, Berlinglish and global Englisch](https://europeanreviewofbooks.com/beamer-dressman-bodybag/en)
+* [2023-04-27, 04:51:08](https://news.ycombinator.com/item?id=35723469) - [Samsung Profits Plunge 95%](https://www.cnn.com/2023/04/26/tech/south-korea-samsung-q1-profits-plunge-intl-hnk/index.html)
 * [2023-04-27, 04:23:12](https://news.ycombinator.com/item?id=35723279) - [How Microsoft names threat actors](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * [2023-04-27, 04:01:08](https://news.ycombinator.com/item?id=35723148) - [California Court of Appeal finds geofence warrant unconstitutional](https://www.eff.org/deeplinks/2023/04/first-us-appellate-court-decide-finds-geofence-warrant-unconstitutional)
 * [2023-04-27, 02:41:07](https://news.ycombinator.com/item?id=35722681) - [Emerging Rust GUI libraries in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html)
@@ -28,7 +29,6 @@
 * [2023-04-25, 09:47:29](https://news.ycombinator.com/item?id=35698354) - [Redump Milestone – 100k Discs](http://redump.org/)
 * [2023-04-25, 07:42:51](https://news.ycombinator.com/item?id=35697631) - [Choosing the optimal index with limited information](https://memgraph.com/blog/optimal-index-with-limited-information)
 * [2023-04-25, 07:41:35](https://news.ycombinator.com/item?id=35697623) - [Permutation Group Visualizer](https://permutation-groups.glitch.me/)
-* [2023-04-25, 06:58:58](https://news.ycombinator.com/item?id=35697349) - [AMD Ryzen 7000 Burning Out: Impacts all 7000 processors](https://www.tomshardware.com/news/amd-ryzen-7000-burning-out-root-cause-identified-expo-and-soc-voltages-to-blame)
 * [2023-04-25, 04:39:54](https://news.ycombinator.com/item?id=35696547) - [My alpha Pico-based CH32V003 debug tool is ready for a few testers](https://github.com/aappleby/PicoRVD)
 
 ## [Archives](archives/index.md)
