@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
 * [2023-04-27, 05:08:04](https://news.ycombinator.com/item?id=35723540) - [On the unexpected joys of Denglisch, Berlinglish and global Englisch](https://europeanreviewofbooks.com/beamer-dressman-bodybag/en)
+* [2023-04-27, 04:51:08](https://news.ycombinator.com/item?id=35723469) - [Samsung Profits Plunge 95%](https://www.cnn.com/2023/04/26/tech/south-korea-samsung-q1-profits-plunge-intl-hnk/index.html)
 * [2023-04-27, 04:23:12](https://news.ycombinator.com/item?id=35723279) - [How Microsoft names threat actors](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * [2023-04-27, 04:23:02](https://news.ycombinator.com/item?id=35723276) - [The Happiest People in America Are Older, Female and Believe in God](https://www.wsj.com/articles/happiest-people-america-poll-ef7c854c)
 * [2023-04-27, 04:01:08](https://news.ycombinator.com/item?id=35723148) - [California Court of Appeal finds geofence warrant unconstitutional](https://www.eff.org/deeplinks/2023/04/first-us-appellate-court-decide-finds-geofence-warrant-unconstitutional)
