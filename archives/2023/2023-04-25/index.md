@@ -65,6 +65,7 @@
 * [2023-04-25, 12:05:46](https://news.ycombinator.com/item?id=35699311) - [The KRC-2 regenerative receiver kit: a review](https://incoherency.co.uk/blog/stories/krc-2-regenerative-receiver-review.html)
 * [2023-04-25, 12:00:08](https://news.ycombinator.com/item?id=35699275) - [Paperspace (YC W15) is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
 * [2023-04-25, 11:57:51](https://news.ycombinator.com/item?id=35699252) - [Show HN: CheekyKeys – A Face-Controlled Keyboard](https://github.com/everythingishacked/CheekyKeys)
+* [2023-04-25, 11:52:54](https://news.ycombinator.com/item?id=35699201) - [Droit de Suite](https://en.wikipedia.org/wiki/Droit_de_suite)
 * [2023-04-25, 11:45:33](https://news.ycombinator.com/item?id=35699127) - [The Race to Colonize Mars Perpetuates a Dangerous Religion](https://nautil.us/the-race-to-colonize-mars-perpetuates-a-dangerous-religion-298323/)
 * [2023-04-25, 11:40:24](https://news.ycombinator.com/item?id=35699078) - [SK Hynix Now Sampling 24GB HBM3 Stacks, Preparing for Mass Production](https://www.anandtech.com/show/18823/sk-hynix-now-sampling-24gb-hbm3-stacks-prepping-for-mass-production)
 * [2023-04-25, 11:36:34](https://news.ycombinator.com/item?id=35699036) - [Street Photography of Japan&#x27;s Aging Population](https://neocha.com/magazine/the-old/)
