@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
 * [2023-04-27, 12:26:38](https://news.ycombinator.com/item?id=35727003) - [Citi Bike Is Amazing. Citibank Should Pay for Every New Yorker&#x27;s Membership](https://hellgatenyc.com/citibank-pay-more-for-citi-bike)
+* [2023-04-27, 12:26:18](https://news.ycombinator.com/item?id=35726999) - [Ask HN: How many websites, apps or notifications do you look at to “catch-up”?](https://news.ycombinator.com/item?id=35726999)
 * [2023-04-27, 12:11:09](https://news.ycombinator.com/item?id=35726850) - [Busting the Launch Pad: Elon Musk and the Myth of the Secret Genius](https://www.bylinesupplement.com/p/busting-the-launch-pad-elon-musk)
 * [2023-04-27, 12:09:43](https://news.ycombinator.com/item?id=35726836) - [TSMC Outlines 2nm Plans: N2P Brings Backside Power Delivery in 2026, N2X Added](https://www.anandtech.com/show/18832/tsmc-outlines-2nm-plans-n2p-brings-backside-power-delivery-in-2026-n2x-added-to-roadmap)
 * [2023-04-27, 12:05:13](https://news.ycombinator.com/item?id=35726790) - [Fire Sale: $300M San Francisco Office Tower, Mostly Empty](https://www.wsj.com/articles/san-francisco-commercial-real-estate-office-buildings-471742ea)
 * [2023-04-27, 12:00:35](https://news.ycombinator.com/item?id=35726744) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4045518006)
 * [2023-04-27, 11:51:07](https://news.ycombinator.com/item?id=35726653) - [Some Things I Think](https://collabfund.com/blog/thoughts/)
+* [2023-04-27, 11:46:29](https://news.ycombinator.com/item?id=35726621) - [WhatsApp on multiple phones feature added](https://www.washingtonpost.com/technology/2023/04/25/whatsapp-multiple-phones/)
 * [2023-04-27, 11:40:07](https://news.ycombinator.com/item?id=35726563) - [Europe Needs Digital Public Spaces That Are Independently Moderated and Hosted](https://wikimedia.brussels/europe-needs-digital-public-spaces-that-are-independently-moderated-and-hosted/)
 * [2023-04-27, 11:40:02](https://news.ycombinator.com/item?id=35726559) - [A Visual Book Recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/)
 * [2023-04-27, 11:27:03](https://news.ycombinator.com/item?id=35726425) - [Humanity is the reimagined 3D Lemmings we didn’t know we needed](https://arstechnica.com/gaming/2023/02/humanity-is-the-reimagined-3d-lemmings-we-didnt-know-we-needed/)
