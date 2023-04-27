@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 13:40:47](https://news.ycombinator.com/item?id=35727967) - [Datomic Is Now Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
 * [2023-04-27, 12:26:38](https://news.ycombinator.com/item?id=35727003) - [Citi Bike Is Amazing. Citibank Should Pay for Every New Yorker&#x27;s Membership](https://hellgatenyc.com/citibank-pay-more-for-citi-bike)
 * [2023-04-27, 12:26:18](https://news.ycombinator.com/item?id=35726999) - [Ask HN: How many websites, apps or notifications do you look at to “catch-up”?](https://news.ycombinator.com/item?id=35726999)
 * [2023-04-27, 12:11:24](https://news.ycombinator.com/item?id=35726855) - [The 2-Maxsat Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
