@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 21:13:16](https://news.ycombinator.com/item?id=35734685) - [Knowledge retrieval architectures for LLMs (2023)](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
 * [2023-04-27, 21:00:57](https://news.ycombinator.com/item?id=35734516) - [Firezone (YC W22) is hiring Rust systems engineers (SF &#x2F; US remote)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
 * [2023-04-27, 20:03:56](https://news.ycombinator.com/item?id=35733795) - [Photos from the SpaceX Debris Field](https://blog.esghound.com/p/photos-from-the-spacex-debris-field)
 * [2023-04-27, 19:42:17](https://news.ycombinator.com/item?id=35733515) - [XTDB 2.x Early Access](https://www.xtdb.com/v2)
