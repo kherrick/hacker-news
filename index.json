@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-04-27, 12:11:09",
-      "https://news.ycombinator.com/item?id=35726850"
-    ],
-    [
-      "Busting the Launch Pad: Elon Musk and the Myth of the Secret Genius",
-      "https://www.bylinesupplement.com/p/busting-the-launch-pad-elon-musk"
-    ]
-  ],
-  [
-    [
       "2023-04-27, 12:09:43",
       "https://news.ycombinator.com/item?id=35726836"
     ],
@@ -51,11 +41,31 @@
   ],
   [
     [
+      "2023-04-27, 11:51:07",
+      "https://news.ycombinator.com/item?id=35726653"
+    ],
+    [
+      "Some Things I Think",
+      "https://collabfund.com/blog/thoughts/"
+    ]
+  ],
+  [
+    [
+      "2023-04-27, 11:40:07",
+      "https://news.ycombinator.com/item?id=35726563"
+    ],
+    [
+      "Europe Needs Digital Public Spaces That Are Independently Moderated and Hosted",
+      "https://wikimedia.brussels/europe-needs-digital-public-spaces-that-are-independently-moderated-and-hosted/"
+    ]
+  ],
+  [
+    [
       "2023-04-27, 11:40:02",
       "https://news.ycombinator.com/item?id=35726559"
     ],
     [
-      "A Visual Book Recommender",
+      "A visual book recommender",
       "https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/"
     ]
   ],
@@ -87,6 +97,16 @@
     [
       "How Facebook and Instagram became marketplaces for child sex trafficking",
       "https://www.theguardian.com/news/2023/apr/27/how-facebook-and-instagram-became-marketplaces-for-child-sex-trafficking"
+    ]
+  ],
+  [
+    [
+      "2023-04-27, 10:40:56",
+      "https://news.ycombinator.com/item?id=35726052"
+    ],
+    [
+      "The Disappointment of 5G",
+      "https://circleid.com/posts/20230127-the-disappointment-of-5g"
     ]
   ],
   [
@@ -141,12 +161,12 @@
   ],
   [
     [
-      "2023-04-27, 04:51:08",
-      "https://news.ycombinator.com/item?id=35723469"
+      "2023-04-27, 05:08:04",
+      "https://news.ycombinator.com/item?id=35723540"
     ],
     [
-      "Samsung Profits Plunge 95%",
-      "https://www.cnn.com/2023/04/26/tech/south-korea-samsung-q1-profits-plunge-intl-hnk/index.html"
+      "On the unexpected joys of Denglisch, Berlinglish and global Englisch",
+      "https://europeanreviewofbooks.com/beamer-dressman-bodybag/en"
     ]
   ],
   [
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2023-04-27, 01:38:24",
+      "https://news.ycombinator.com/item?id=35722206"
+    ],
+    [
+      "Why gravity is not like the other forces",
+      "https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/"
+    ]
+  ],
+  [
+    [
       "2023-04-27, 00:03:04",
       "https://news.ycombinator.com/item?id=35721581"
     ],
@@ -211,12 +241,12 @@
   ],
   [
     [
-      "2023-04-26, 21:00:46",
-      "https://news.ycombinator.com/item?id=35719937"
+      "2023-04-26, 19:42:01",
+      "https://news.ycombinator.com/item?id=35718912"
     ],
     [
-      "DeepDoctection: Document extraction and analysis using deep learning models",
-      "https://github.com/deepdoctection/deepdoctection"
+      "Performance excuses debunked",
+      "https://www.computerenhance.com/p/performance-excuses-debunked"
     ]
   ],
   [
@@ -231,22 +261,12 @@
   ],
   [
     [
-      "2023-04-26, 13:41:47",
-      "https://news.ycombinator.com/item?id=35713518"
+      "2023-04-26, 06:44:05",
+      "https://news.ycombinator.com/item?id=35710266"
     ],
     [
-      "Why is OAuth still hard in 2023?",
-      "https://www.nango.dev/blog/why-is-oauth-still-hard"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 06:44:29",
-      "https://news.ycombinator.com/item?id=35710269"
-    ],
-    [
-      "Netflix loses 1M users in Spain over password policing",
-      "https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing"
+      "In Praise of the Long Movie",
+      "https://www.newyorker.com/culture/cultural-comment/in-praise-of-the-long-movie"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-04-25, 07:42:51",
-      "https://news.ycombinator.com/item?id=35697631"
-    ],
-    [
-      "Choosing the optimal index with limited information",
-      "https://memgraph.com/blog/optimal-index-with-limited-information"
-    ]
-  ],
-  [
-    [
       "2023-04-25, 07:41:35",
       "https://news.ycombinator.com/item?id=35697623"
     ],
     [
       "Permutation Group Visualizer",
       "https://permutation-groups.glitch.me/"
-    ]
-  ],
-  [
-    [
-      "2023-04-25, 04:39:54",
-      "https://news.ycombinator.com/item?id=35696547"
-    ],
-    [
-      "My alpha Pico-based CH32V003 debug tool is ready for a few testers",
-      "https://github.com/aappleby/PicoRVD"
     ]
   ]
 ]
