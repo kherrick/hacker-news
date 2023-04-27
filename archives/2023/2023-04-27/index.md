@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
 * [2023-04-27, 14:05:45](https://news.ycombinator.com/item?id=35728274) - [Is Satya Nadella the best tech CEO of last decade?](https://news.ycombinator.com/item?id=35728274)
+* [2023-04-27, 14:05:15](https://news.ycombinator.com/item?id=35728268) - [Ask HN: How do you synthesize books that you read?](https://news.ycombinator.com/item?id=35728268)
 * [2023-04-27, 14:01:44](https://news.ycombinator.com/item?id=35728229) - [Dune: Part Two – First Look](https://www.vanityfair.com/hollywood/2023/04/dune-part-two-exclusive-first-look)
 * [2023-04-27, 14:00:49](https://news.ycombinator.com/item?id=35728216) - [Dropbox axes 16% (500 employees）](https://blog.dropbox.com/topics/company/a-message-from-drew)
 * [2023-04-27, 13:57:08](https://news.ycombinator.com/item?id=35728178) - [Software detective debunked Mike Lindell’s election fraud claims, awarded $5M](https://spectrum.ieee.org/software-detective)
