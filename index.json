@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-04-27, 17:55:03",
+      "https://news.ycombinator.com/item?id=35732042"
+    ],
+    [
+      "ChatGPT for Hardware Design",
+      "https://docs.flux.ai/tutorials/ai-for-hardware-design"
+    ]
+  ],
+  [
+    [
+      "2023-04-27, 17:45:29",
+      "https://news.ycombinator.com/item?id=35731856"
+    ],
+    [
+      "The Andy Warhol Copyright Case That Could Transform Generative AI",
+      "https://www.wired.com/story/andy-warhol-fair-use-prince-generative-ai/"
+    ]
+  ],
+  [
+    [
+      "2023-04-27, 17:38:46",
+      "https://news.ycombinator.com/item?id=35731750"
+    ],
+    [
+      "I write code 100 hours&#x2F;week, here&#x27;s why I probably won&#x27;t stop",
+      "https://devlog.hexops.com/2021/i-write-code-100-hours-a-week/"
+    ]
+  ],
+  [
+    [
       "2023-04-27, 17:26:18",
       "https://news.ycombinator.com/item?id=35731539"
     ],
@@ -17,6 +47,16 @@
     [
       "Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA",
       "https://www.apple.com/legal/more-resources/dsa/mt/"
+    ]
+  ],
+  [
+    [
+      "2023-04-27, 17:02:08",
+      "https://news.ycombinator.com/item?id=35731156"
+    ],
+    [
+      "Dyalog APL Graphs",
+      "https://dfns.dyalog.com/n_Graphs.htm"
     ]
   ],
   [
@@ -47,26 +87,6 @@
     [
       "Brave Search removes last remnant of Bing from search results page",
       "https://brave.com/search-independence/"
-    ]
-  ],
-  [
-    [
-      "2023-04-27, 16:32:54",
-      "https://news.ycombinator.com/item?id=35730626"
-    ],
-    [
-      "Lyft to cut 1,072 employees, or 26% of its workforce",
-      "https://www.cnbc.com/2023/04/27/lyft-layoffs-company-to-cut-1072-employees-or-26percent-of-its-workforce.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-27, 16:01:37",
-      "https://news.ycombinator.com/item?id=35730083"
-    ],
-    [
-      "The Chaotic World of Kids Trying to Play Video Games on School Laptops",
-      "https://www.vice.com/en/article/z3mxkj/inside-the-chaotic-world-of-kids-trying-to-play-video-games-on-school-laptops"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-04-27, 14:00:49",
-      "https://news.ycombinator.com/item?id=35728216"
-    ],
-    [
-      "Dropbox to reduce global workforce by about 16%, or 500 staff",
-      "https://blog.dropbox.com/topics/company/a-message-from-drew"
-    ]
-  ],
-  [
-    [
       "2023-04-27, 13:40:47",
       "https://news.ycombinator.com/item?id=35727967"
     ],
@@ -201,32 +211,22 @@
   ],
   [
     [
+      "2023-04-27, 11:37:10",
+      "https://news.ycombinator.com/item?id=35726525"
+    ],
+    [
+      "The economics and politics of Thomas the Tank Engine (2015)",
+      "https://medium.com/bull-market/the-economics-and-politics-of-thomas-the-tank-engine-8bbc05494b08"
+    ]
+  ],
+  [
+    [
       "2023-04-27, 10:06:58",
       "https://news.ycombinator.com/item?id=35725790"
     ],
     [
       "GCC 13 Released",
       "https://gcc.gnu.org/gcc-13/changes.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-27, 08:28:15",
-      "https://news.ycombinator.com/item?id=35724939"
-    ],
-    [
-      "Dropbox telemetry can&#x27;t be disabled",
-      "https://www.dropboxforum.com/t5/Integrations/Why-So-Much-Telemetry/td-p/455961/page/3"
-    ]
-  ],
-  [
-    [
-      "2023-04-27, 02:41:07",
-      "https://news.ycombinator.com/item?id=35722681"
-    ],
-    [
-      "Emerging Rust GUI libraries in a WASM world",
-      "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
     ]
   ],
   [
