@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 17:55:03](https://news.ycombinator.com/item?id=35732042) - [ChatGPT for Hardware Design](https://docs.flux.ai/tutorials/ai-for-hardware-design)
+* [2023-04-27, 17:45:29](https://news.ycombinator.com/item?id=35731856) - [The Andy Warhol Copyright Case That Could Transform Generative AI](https://www.wired.com/story/andy-warhol-fair-use-prince-generative-ai/)
+* [2023-04-27, 17:38:46](https://news.ycombinator.com/item?id=35731750) - [I write code 100 hours&#x2F;week, here&#x27;s why I probably won&#x27;t stop](https://devlog.hexops.com/2021/i-write-code-100-hours-a-week/)
 * [2023-04-27, 17:26:18](https://news.ycombinator.com/item?id=35731539) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
 * [2023-04-27, 17:11:23](https://news.ycombinator.com/item?id=35731285) - [Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA](https://www.apple.com/legal/more-resources/dsa/mt/)
+* [2023-04-27, 17:02:08](https://news.ycombinator.com/item?id=35731156) - [Dyalog APL Graphs](https://dfns.dyalog.com/n_Graphs.htm)
 * [2023-04-27, 17:00:56](https://news.ycombinator.com/item?id=35731138) - [Middleware (YC W23) Is Hiring Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs)
 * [2023-04-27, 16:45:06](https://news.ycombinator.com/item?id=35730853) - [US adult cigarette smoking rate hits new all-time low](https://apnews.com/article/how-many-people-smoke-us-64987fe2b7bf764c64d4594e5b02e6ea)
 * [2023-04-27, 16:40:50](https://news.ycombinator.com/item?id=35730764) - [Hotspot Performance Engineering Fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
@@ -48,6 +52,7 @@
 * [2023-04-27, 11:46:29](https://news.ycombinator.com/item?id=35726621) - [WhatsApp on multiple phones feature added](https://www.washingtonpost.com/technology/2023/04/25/whatsapp-multiple-phones/)
 * [2023-04-27, 11:40:07](https://news.ycombinator.com/item?id=35726563) - [Europe Needs Digital Public Spaces That Are Independently Moderated and Hosted](https://wikimedia.brussels/europe-needs-digital-public-spaces-that-are-independently-moderated-and-hosted/)
 * [2023-04-27, 11:40:02](https://news.ycombinator.com/item?id=35726559) - [A Visual Book Recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/)
+* [2023-04-27, 11:37:10](https://news.ycombinator.com/item?id=35726525) - [The economics and politics of Thomas the Tank Engine (2015)](https://medium.com/bull-market/the-economics-and-politics-of-thomas-the-tank-engine-8bbc05494b08)
 * [2023-04-27, 11:27:03](https://news.ycombinator.com/item?id=35726425) - [Humanity is the reimagined 3D Lemmings we didn’t know we needed](https://arstechnica.com/gaming/2023/02/humanity-is-the-reimagined-3d-lemmings-we-didnt-know-we-needed/)
 * [2023-04-27, 11:03:41](https://news.ycombinator.com/item?id=35726235) - [German researchers figure out how lager first developed in Bavaria](https://phys.org/news/2023-04-german-figure-lager-bavaria.html)
 * [2023-04-27, 10:47:08](https://news.ycombinator.com/item?id=35726102) - [How Facebook and Instagram became marketplaces for child sex trafficking](https://www.theguardian.com/news/2023/apr/27/how-facebook-and-instagram-became-marketplaces-for-child-sex-trafficking)
