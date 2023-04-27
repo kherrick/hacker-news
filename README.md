@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-27, 01:51:58](https://news.ycombinator.com/item?id=35722298) - [Brazil judge orders temporary suspension of Telegram](https://apnews.com/article/brazil-telegram-suspension-social-media-school-violence-d72acaacd3c1b4d07c2c4fcb094f4ce6)
+* [2023-04-27, 01:38:24](https://news.ycombinator.com/item?id=35722206) - [Why Gravity Is Not Like the Other Forces](https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/)
 * [2023-04-27, 00:52:07](https://news.ycombinator.com/item?id=35721910) - [Mark Zuckerberg says Meta wants to ‘introduce AI agents to billions of people’](https://www.theverge.com/2023/4/26/23699633/mark-zuckerberg-meta-generative-ai-chatbots-instagram-facebook-whatsapp)
 * [2023-04-27, 00:43:30](https://news.ycombinator.com/item?id=35721849) - [Forbes 30 Under 30 Mocked: Incredible Track Record of Fraud](https://nypost.com/2023/04/05/forbes-mocked-as-another-30-under-30-honoree-accused-of-fraud-incredible-track-record/)
 * [2023-04-27, 00:03:04](https://news.ycombinator.com/item?id=35721581) - [Numeral Systems of the World&#x27;s Languages](https://lingweb.eva.mpg.de/channumerals/)
@@ -20,7 +22,6 @@
 * [2023-04-26, 13:41:47](https://news.ycombinator.com/item?id=35713518) - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
 * [2023-04-26, 12:30:32](https://news.ycombinator.com/item?id=35712625) - [What I learned unsubscribing from 22 newspapers](https://www.lenfestinstitute.org/solution-set/i-canceled-22-digital-newspaper-subscriptions-heres-what-i-learned-about-digital-retention-strategies/)
 * [2023-04-26, 11:53:09](https://news.ycombinator.com/item?id=35712238) - [Show HN: An interactive map showing live wind farm generation in Great Britain](https://renewables-map.robinhawkes.com)
-* [2023-04-26, 11:17:28](https://news.ycombinator.com/item?id=35711968) - [UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
 * [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix loses 1M users in Spain over password policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
 * [2023-04-25, 11:57:51](https://news.ycombinator.com/item?id=35699252) - [Show HN: CheekyKeys – A Face-Controlled Keyboard](https://github.com/everythingishacked/CheekyKeys)
 * [2023-04-25, 11:35:28](https://news.ycombinator.com/item?id=35699017) - [Tuql: Automatically create a GraphQL server from a SQLite database](https://github.com/bradleyboy/tuql)
@@ -29,7 +30,6 @@
 * [2023-04-25, 06:58:58](https://news.ycombinator.com/item?id=35697349) - [AMD Ryzen 7000 Burning Out: Impacts all 7000 processors](https://www.tomshardware.com/news/amd-ryzen-7000-burning-out-root-cause-identified-expo-and-soc-voltages-to-blame)
 * [2023-04-25, 06:52:19](https://news.ycombinator.com/item?id=35697310) - [Moving away from algorithmic curation](https://boredzo.org/blog/archives/2023-04-24/moving-away-from-algorithmic-curation)
 * [2023-04-25, 05:21:02](https://news.ycombinator.com/item?id=35696787) - [Thinking about our passive exposure to IPv6 issues](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure)
-* [2023-04-25, 04:39:54](https://news.ycombinator.com/item?id=35696547) - [My alpha Pico-based CH32V003 debug tool is ready for a few testers](https://github.com/aappleby/PicoRVD)
 
 ## [Archives](archives/index.md)
 
