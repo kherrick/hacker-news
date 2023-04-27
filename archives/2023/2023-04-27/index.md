@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 11:03:41](https://news.ycombinator.com/item?id=35726235) - [German researchers figure out how lager first developed in Bavaria](https://phys.org/news/2023-04-german-figure-lager-bavaria.html)
 * [2023-04-27, 10:40:56](https://news.ycombinator.com/item?id=35726052) - [The Disappointment of 5G](https://circleid.com/posts/20230127-the-disappointment-of-5g)
 * [2023-04-27, 09:57:04](https://news.ycombinator.com/item?id=35725706) - [Report from the German Parliament&#x27;s “Sustainable by Design” Conference](https://eco.kde.org/blog/2023-04-26-sustainable-by-design/)
 * [2023-04-27, 09:04:44](https://news.ycombinator.com/item?id=35725250) - [Morocco ranked third in the global tomato exports](https://east-fruit.com/en/trending/morocco-ranked-third-in-the-global-tomato-exports/)
