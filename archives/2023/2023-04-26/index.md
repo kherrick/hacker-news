@@ -24,6 +24,7 @@
 * [2023-04-26, 18:18:59](https://news.ycombinator.com/item?id=35717916) - [TSMC’s 3-Nm Push Faces Tool Struggles](https://www.eetimes.com/tsmcs-3-nm-push-faces-tool-struggles/)
 * [2023-04-26, 18:15:48](https://news.ycombinator.com/item?id=35717871) - [Deep Floyd Text-to-Image Model Release](https://github.com/deep-floyd/IF)
 * [2023-04-26, 18:02:27](https://news.ycombinator.com/item?id=35717692) - [Creating AI assistant with GPT and Ruby and Redis using embeddings](https://release.com/blog/training-chatgpt-with-custom-libraries-using-extensions)
+* [2023-04-26, 17:38:15](https://news.ycombinator.com/item?id=35717368) - [Why Tocqueville Matters](https://www.newstatesman.com/ideas/2023/04/tocqueville-matters-political-philosophy)
 * [2023-04-26, 17:36:04](https://news.ycombinator.com/item?id=35717344) - [Update Millions of Records in Rails](https://blog.eq8.eu/til/update-millions-of-records-in-rails.html)
 * [2023-04-26, 17:19:34](https://news.ycombinator.com/item?id=35717106) - [HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://xhuangcv.github.io/hdr-nerf/)
 * [2023-04-26, 17:10:38](https://news.ycombinator.com/item?id=35716963) - [The part of Postgres we hate the most: Multi-version concurrency control](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
