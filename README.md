@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-27, 09:57:04](https://news.ycombinator.com/item?id=35725706) - [Report from the German Parliament&#x27;s “Sustainable by Design” Conference](https://eco.kde.org/blog/2023-04-26-sustainable-by-design/)
 * [2023-04-27, 08:58:34](https://news.ycombinator.com/item?id=35725202) - [GNU Pascal Compiler](https://www.gnu-pascal.de/gpc/h-index.html)
 * [2023-04-27, 08:46:20](https://news.ycombinator.com/item?id=35725094) - [The unintentional dystopian beauty of oil rigs](https://twitter.com/FedeItaliano76/status/1650871570137600000)
-* [2023-04-27, 08:44:58](https://news.ycombinator.com/item?id=35725076) - [Microsoft in furious attack on UK as major gaming deal blocked](https://www.bbc.co.uk/news/business-65407005)
 * [2023-04-27, 08:28:15](https://news.ycombinator.com/item?id=35724939) - [Dropbox telemetry can&#x27;t be disabled](https://www.dropboxforum.com/t5/Integrations/Why-So-Much-Telemetry/td-p/455961/page/3)
 * [2023-04-27, 08:25:54](https://news.ycombinator.com/item?id=35724912) - [Tokyo has 20 times as much WiFi as it needs](https://www.theregister.com/2023/04/27/ntt_network_sharing_blockchain/)
 * [2023-04-27, 07:51:08](https://news.ycombinator.com/item?id=35724634) - [Steven Spielberg: ‘No film should be revised’ based on modern sensitivity](https://www.theguardian.com/film/2023/apr/26/steven-spielberg-et-guns-movie-edit)
@@ -25,9 +25,9 @@
 * [2023-04-26, 06:44:05](https://news.ycombinator.com/item?id=35710266) - [In Praise of the Long Movie](https://www.newyorker.com/culture/cultural-comment/in-praise-of-the-long-movie)
 * [2023-04-25, 19:20:08](https://news.ycombinator.com/item?id=35705325) - [The Goddess Complex](https://theamericanscholar.org/the-goddess-complex/)
 * [2023-04-25, 12:05:46](https://news.ycombinator.com/item?id=35699311) - [The KRC-2 regenerative receiver kit: a review](https://incoherency.co.uk/blog/stories/krc-2-regenerative-receiver-review.html)
-* [2023-04-25, 11:57:51](https://news.ycombinator.com/item?id=35699252) - [Show HN: CheekyKeys – A Face-Controlled Keyboard](https://github.com/everythingishacked/CheekyKeys)
 * [2023-04-25, 09:47:29](https://news.ycombinator.com/item?id=35698354) - [Redump Milestone – 100k Discs](http://redump.org/)
 * [2023-04-25, 07:42:51](https://news.ycombinator.com/item?id=35697631) - [Choosing the optimal index with limited information](https://memgraph.com/blog/optimal-index-with-limited-information)
+* [2023-04-25, 07:42:34](https://news.ycombinator.com/item?id=35697627) - [Transformers from Scratch (2021)](https://e2eml.school/transformers.html)
 * [2023-04-25, 07:41:35](https://news.ycombinator.com/item?id=35697623) - [Permutation Group Visualizer](https://permutation-groups.glitch.me/)
 * [2023-04-25, 04:39:54](https://news.ycombinator.com/item?id=35696547) - [My alpha Pico-based CH32V003 debug tool is ready for a few testers](https://github.com/aappleby/PicoRVD)
 
