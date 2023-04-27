@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-27, 19:42:17](https://news.ycombinator.com/item?id=35733515) - [XTDB 2.x Early Access](https://www.xtdb.com/v2)
 * [2023-04-27, 19:16:45](https://news.ycombinator.com/item?id=35733190) - [New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
 * [2023-04-27, 18:54:12](https://news.ycombinator.com/item?id=35732900) - [Wind and solar are now beating coal in the US](https://electrek.co/2023/04/27/wind-and-solar-are-now-beating-coal-in-the-us/)
 * [2023-04-27, 18:49:55](https://news.ycombinator.com/item?id=35732843) - [Lessons Learned Reproducing a Deep Reinforcement Learning Paper (2018)](http://amid.fish/reproducing-deep-rl)
 * [2023-04-27, 18:18:55](https://news.ycombinator.com/item?id=35732384) - [Google Cloud region currently down due to water intrusion](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY#73mBtVKKfeJGJ1yaY7hV)
+* [2023-04-27, 18:18:21](https://news.ycombinator.com/item?id=35732376) - [Microsoft: Windows 10 22H2 is the final version of Windows 10](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-22h2-is-the-final-version-of-windows-10/)
 * [2023-04-27, 18:07:59](https://news.ycombinator.com/item?id=35732225) - [Founders’ Email to Clubhouse Employees](https://blog.clubhouse.com/april-27-2023/)
 * [2023-04-27, 17:55:03](https://news.ycombinator.com/item?id=35732042) - [ChatGPT for Hardware Design](https://docs.flux.ai/tutorials/ai-for-hardware-design)
 * [2023-04-27, 17:48:01](https://news.ycombinator.com/item?id=35731898) - [NASA Power Hack Extends 45-Year Voyager 2 Mission Even Longer](https://gizmodo.com/nasa-power-hack-extends-voyager-2-mission-science-1850378890)
@@ -25,9 +27,7 @@
 * [2023-04-27, 11:37:10](https://news.ycombinator.com/item?id=35726525) - [The economics and politics of Thomas the Tank Engine (2015)](https://medium.com/bull-market/the-economics-and-politics-of-thomas-the-tank-engine-8bbc05494b08)
 * [2023-04-27, 10:06:58](https://news.ycombinator.com/item?id=35725790) - [GCC 13 Released](https://gcc.gnu.org/gcc-13/changes.html)
 * [2023-04-26, 21:46:04](https://news.ycombinator.com/item?id=35720460) - [Google will add E2E encryption to Authenticator backups](https://www.bleepingcomputer.com/news/google/google-will-add-end-to-end-encryption-to-google-authenticator/)
-* [2023-04-26, 17:38:15](https://news.ycombinator.com/item?id=35717368) - [Why Tocqueville Matters](https://www.newstatesman.com/ideas/2023/04/tocqueville-matters-political-philosophy)
 * [2023-04-26, 06:20:07](https://news.ycombinator.com/item?id=35710142) - [The Epistemology of Software Quality](https://increment.com/teams/the-epistemology-of-software-quality/)
-* [2023-04-26, 04:44:38](https://news.ycombinator.com/item?id=35709722) - [Technology, Pregnancy, and Parenthood (2021)](https://royapakzad.substack.com/p/technology-pregnancy-and-parenthood)
 * [2023-04-25, 10:39:52](https://news.ycombinator.com/item?id=35698653) - [First up-close images of Mars’s little-known moon Deimos](https://www.nature.com/articles/d41586-023-01422-1)
 * [2023-04-25, 10:28:18](https://news.ycombinator.com/item?id=35698587) - [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/)
 
