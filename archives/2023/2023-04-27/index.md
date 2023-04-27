@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 04:01:08](https://news.ycombinator.com/item?id=35723148) - [California Court of Appeal finds geofence warrant unconstitutional](https://www.eff.org/deeplinks/2023/04/first-us-appellate-court-decide-finds-geofence-warrant-unconstitutional)
 * [2023-04-27, 03:16:23](https://news.ycombinator.com/item?id=35722908) - [Lithuanian University locks out students again for not using proprietary 2FA](https://gitlab.digilol.net/Siren/vgtu-article/-/blob/4a34721d392b856f26956a9e185e4d8c5371d27d/vgtu.md)
 * [2023-04-27, 03:08:55](https://news.ycombinator.com/item?id=35722865) - [Tell HN: iOS converts units for highlighted text](https://news.ycombinator.com/item?id=35722865)
 * [2023-04-27, 02:55:24](https://news.ycombinator.com/item?id=35722778) - [Now They&#x27;re Trying Censor Your Text Messages](https://public.substack.com/p/now-theyre-trying-censor-your-text)
