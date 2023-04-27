@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 14:01:44](https://news.ycombinator.com/item?id=35728229) - [Dune: Part Two – First Look](https://www.vanityfair.com/hollywood/2023/04/dune-part-two-exclusive-first-look)
+* [2023-04-27, 14:00:49](https://news.ycombinator.com/item?id=35728216) - [Dropbox axes 16% (500 employees）](https://blog.dropbox.com/topics/company/a-message-from-drew)
+* [2023-04-27, 13:57:08](https://news.ycombinator.com/item?id=35728178) - [Software detective debunked Mike Lindell’s election fraud claims, awarded $5M](https://spectrum.ieee.org/software-detective)
 * [2023-04-27, 13:40:47](https://news.ycombinator.com/item?id=35727967) - [Datomic Is Now Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
 * [2023-04-27, 12:26:38](https://news.ycombinator.com/item?id=35727003) - [Citi Bike Is Amazing. Citibank Should Pay for Every New Yorker&#x27;s Membership](https://hellgatenyc.com/citibank-pay-more-for-citi-bike)
 * [2023-04-27, 12:26:18](https://news.ycombinator.com/item?id=35726999) - [Ask HN: How many websites, apps or notifications do you look at to “catch-up”?](https://news.ycombinator.com/item?id=35726999)
