@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-27, 20:03:56](https://news.ycombinator.com/item?id=35733795) - [Photos from the SpaceX Debris Field](https://blog.esghound.com/p/photos-from-the-spacex-debris-field)
 * [2023-04-27, 19:42:17](https://news.ycombinator.com/item?id=35733515) - [XTDB 2.x Early Access](https://www.xtdb.com/v2)
 * [2023-04-27, 19:16:45](https://news.ycombinator.com/item?id=35733190) - [New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
 * [2023-04-27, 18:54:12](https://news.ycombinator.com/item?id=35732900) - [Wind and solar are now beating coal in the US](https://electrek.co/2023/04/27/wind-and-solar-are-now-beating-coal-in-the-us/)
@@ -8,7 +9,6 @@
 * [2023-04-27, 18:07:59](https://news.ycombinator.com/item?id=35732225) - [Founders’ Email to Clubhouse Employees](https://blog.clubhouse.com/april-27-2023/)
 * [2023-04-27, 17:55:03](https://news.ycombinator.com/item?id=35732042) - [ChatGPT for Hardware Design](https://docs.flux.ai/tutorials/ai-for-hardware-design)
 * [2023-04-27, 17:48:01](https://news.ycombinator.com/item?id=35731898) - [NASA Power Hack Extends 45-Year Voyager 2 Mission Even Longer](https://gizmodo.com/nasa-power-hack-extends-voyager-2-mission-science-1850378890)
-* [2023-04-27, 17:45:29](https://news.ycombinator.com/item?id=35731856) - [The Andy Warhol Copyright Case That Could Transform Generative AI](https://www.wired.com/story/andy-warhol-fair-use-prince-generative-ai/)
 * [2023-04-27, 17:26:18](https://news.ycombinator.com/item?id=35731539) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
 * [2023-04-27, 17:11:23](https://news.ycombinator.com/item?id=35731285) - [Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA](https://www.apple.com/legal/more-resources/dsa/mt/)
 * [2023-04-27, 17:02:08](https://news.ycombinator.com/item?id=35731156) - [Dyalog APL Graphs](https://dfns.dyalog.com/n_Graphs.htm)
