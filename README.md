@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-27, 19:16:45](https://news.ycombinator.com/item?id=35733190) - [New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
+* [2023-04-27, 18:54:12](https://news.ycombinator.com/item?id=35732900) - [Wind and solar are now beating coal in the US](https://electrek.co/2023/04/27/wind-and-solar-are-now-beating-coal-in-the-us/)
 * [2023-04-27, 18:49:55](https://news.ycombinator.com/item?id=35732843) - [Lessons Learned Reproducing a Deep Reinforcement Learning Paper (2018)](http://amid.fish/reproducing-deep-rl)
 * [2023-04-27, 18:18:55](https://news.ycombinator.com/item?id=35732384) - [Google Cloud region currently down due to water intrusion](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY#73mBtVKKfeJGJ1yaY7hV)
 * [2023-04-27, 18:07:59](https://news.ycombinator.com/item?id=35732225) - [Founders’ Email to Clubhouse Employees](https://blog.clubhouse.com/april-27-2023/)
@@ -13,7 +15,6 @@
 * [2023-04-27, 16:40:50](https://news.ycombinator.com/item?id=35730764) - [Hotspot Performance Engineering Fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
 * [2023-04-27, 16:37:55](https://news.ycombinator.com/item?id=35730711) - [Brave Search removes last remnant of Bing from search results page](https://brave.com/search-independence/)
 * [2023-04-27, 16:01:16](https://news.ycombinator.com/item?id=35730074) - [As I am currently in a war zone, I don&#x27;t have many options for cabling](https://electronics.stackexchange.com/questions/664502/using-clothesline-steel-core-wire-rope-for-ac-and-dc)
-* [2023-04-27, 15:45:23](https://news.ycombinator.com/item?id=35729816) - [Pinecone raises $100M Series B](https://www.pinecone.io/learn/series-b/)
 * [2023-04-27, 15:28:16](https://news.ycombinator.com/item?id=35729586) - [Semantic Tokenizer for Enhanced Natural Language Processing](https://arxiv.org/abs/2304.12404)
 * [2023-04-27, 15:26:59](https://news.ycombinator.com/item?id=35729558) - [Colorado governor signs tractor right-to-repair law opposed by John Deere](https://arstechnica.com/tech-policy/2023/04/colorado-governor-signs-tractor-right-to-repair-law-opposed-by-john-deere/)
 * [2023-04-27, 15:06:37](https://news.ycombinator.com/item?id=35729260) - [Quicssh: SSH over QUIC](https://github.com/moul/quicssh)
@@ -27,7 +28,6 @@
 * [2023-04-26, 17:38:15](https://news.ycombinator.com/item?id=35717368) - [Why Tocqueville Matters](https://www.newstatesman.com/ideas/2023/04/tocqueville-matters-political-philosophy)
 * [2023-04-26, 06:20:07](https://news.ycombinator.com/item?id=35710142) - [The Epistemology of Software Quality](https://increment.com/teams/the-epistemology-of-software-quality/)
 * [2023-04-26, 04:44:38](https://news.ycombinator.com/item?id=35709722) - [Technology, Pregnancy, and Parenthood (2021)](https://royapakzad.substack.com/p/technology-pregnancy-and-parenthood)
-* [2023-04-25, 13:04:20](https://news.ycombinator.com/item?id=35699889) - [The Unequal Impact of Parenthood in Academia (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7904257/)
 * [2023-04-25, 10:39:52](https://news.ycombinator.com/item?id=35698653) - [First up-close images of Mars’s little-known moon Deimos](https://www.nature.com/articles/d41586-023-01422-1)
 * [2023-04-25, 10:28:18](https://news.ycombinator.com/item?id=35698587) - [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/)
 

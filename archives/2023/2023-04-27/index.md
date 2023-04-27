@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 19:16:45](https://news.ycombinator.com/item?id=35733190) - [New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
+* [2023-04-27, 18:54:12](https://news.ycombinator.com/item?id=35732900) - [Wind and solar are now beating coal in the US](https://electrek.co/2023/04/27/wind-and-solar-are-now-beating-coal-in-the-us/)
 * [2023-04-27, 18:49:55](https://news.ycombinator.com/item?id=35732843) - [Lessons Learned Reproducing a Deep Reinforcement Learning Paper (2018)](http://amid.fish/reproducing-deep-rl)
 * [2023-04-27, 18:18:55](https://news.ycombinator.com/item?id=35732384) - [Google Cloud region currently down due to water intrusion](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY#73mBtVKKfeJGJ1yaY7hV)
 * [2023-04-27, 18:07:59](https://news.ycombinator.com/item?id=35732225) - [Founders’ Email to Clubhouse Employees](https://blog.clubhouse.com/april-27-2023/)
