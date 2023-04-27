@@ -57,6 +57,7 @@
 * [2023-04-25, 13:39:29](https://news.ycombinator.com/item?id=35700301) - [Web LLM](https://mlc.ai/web-llm/)
 * [2023-04-25, 13:22:06](https://news.ycombinator.com/item?id=35700080) - [Logic Noise: Sweet, Sweet Oscillator Sounds (2015)](https://hackaday.com/2015/02/04/logic-noise-sweet-sweet-oscillator-sounds/)
 * [2023-04-25, 13:11:50](https://news.ycombinator.com/item?id=35699962) - [A.I. Imagery May Destroy History as We Know It](https://petapixel.com/2023/04/24/a-i-imagery-may-destroy-history-as-we-know-it/)
+* [2023-04-25, 13:04:20](https://news.ycombinator.com/item?id=35699889) - [The Unequal Impact of Parenthood in Academia (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7904257/)
 * [2023-04-25, 13:00:43](https://news.ycombinator.com/item?id=35699855) - [The dark forest and the cozy web](https://maggieappleton.com/cozy-web)
 * [2023-04-25, 12:55:04](https://news.ycombinator.com/item?id=35699801) - [It&#x27;s not only you, there&#x27;s an explosion of ChatGPT on HN](https://hn.curiosity.ai/#/trends?terms=AI;ChatGPT)
 * [2023-04-25, 12:50:34](https://news.ycombinator.com/item?id=35699753) - [Congress is more Christian and religious than the general public](https://www.axios.com/2023/04/23/lawmakers-more-religious-general-public)
