@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 00:52:07](https://news.ycombinator.com/item?id=35721910) - [Mark Zuckerberg says Meta wants to ‘introduce AI agents to billions of people’](https://www.theverge.com/2023/4/26/23699633/mark-zuckerberg-meta-generative-ai-chatbots-instagram-facebook-whatsapp)
+* [2023-04-27, 00:43:30](https://news.ycombinator.com/item?id=35721849) - [Forbes 30 Under 30 Mocked: Incredible Track Record of Fraud](https://nypost.com/2023/04/05/forbes-mocked-as-another-30-under-30-honoree-accused-of-fraud-incredible-track-record/)
 * [2023-04-27, 00:03:04](https://news.ycombinator.com/item?id=35721581) - [Numeral Systems of the World&#x27;s Languages](https://lingweb.eva.mpg.de/channumerals/)
