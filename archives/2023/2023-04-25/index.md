@@ -71,6 +71,7 @@
 * [2023-04-25, 11:30:29](https://news.ycombinator.com/item?id=35698983) - [Layoffs Now Targeting Devs](https://www.businessinsider.com/software-engineer-coding-jobs-face-layoffs-this-year-2023-4)
 * [2023-04-25, 11:09:48](https://news.ycombinator.com/item?id=35698834) - [When Apple Comes Calling, ‘It’s the Kiss of Death’](https://www.wsj.com/articles/apple-watch-patents-5b52cda0)
 * [2023-04-25, 10:48:04](https://news.ycombinator.com/item?id=35698702) - [The Nature of Code (Book)](https://natureofcode.com/)
+* [2023-04-25, 10:28:18](https://news.ycombinator.com/item?id=35698587) - [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU/)
 * [2023-04-25, 10:21:28](https://news.ycombinator.com/item?id=35698547) - [Smartphones with Qualcomm chip secretly send personal data to Qualcomm](https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker)
 * [2023-04-25, 10:20:13](https://news.ycombinator.com/item?id=35698541) - [Congress gets 40 ChatGPT Plus licenses to start experimenting with generative AI](https://fedscoop.com/congress-gets-40-chatgpt-plus-licenses/)
 * [2023-04-25, 10:15:49](https://news.ycombinator.com/item?id=35698521) - [People who use Notion to plan their whole lives](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)

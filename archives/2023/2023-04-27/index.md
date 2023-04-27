@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 12:00:35](https://news.ycombinator.com/item?id=35726744) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4045518006)
+* [2023-04-27, 11:27:03](https://news.ycombinator.com/item?id=35726425) - [Humanity is the reimagined 3D Lemmings we didn’t know we needed](https://arstechnica.com/gaming/2023/02/humanity-is-the-reimagined-3d-lemmings-we-didnt-know-we-needed/)
 * [2023-04-27, 11:03:41](https://news.ycombinator.com/item?id=35726235) - [German researchers figure out how lager first developed in Bavaria](https://phys.org/news/2023-04-german-figure-lager-bavaria.html)
 * [2023-04-27, 10:47:08](https://news.ycombinator.com/item?id=35726102) - [How Facebook and Instagram became marketplaces for child sex trafficking](https://www.theguardian.com/news/2023/apr/27/how-facebook-and-instagram-became-marketplaces-for-child-sex-trafficking)
 * [2023-04-27, 10:40:56](https://news.ycombinator.com/item?id=35726052) - [The Disappointment of 5G](https://circleid.com/posts/20230127-the-disappointment-of-5g)
