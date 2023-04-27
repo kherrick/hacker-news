@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-27, 09:57:04](https://news.ycombinator.com/item?id=35725706) - [Report from the German Parliament&#x27;s “Sustainable by Design” Conference](https://eco.kde.org/blog/2023-04-26-sustainable-by-design/)
-* [2023-04-27, 08:58:34](https://news.ycombinator.com/item?id=35725202) - [GNU Pascal Compiler](https://www.gnu-pascal.de/gpc/h-index.html)
+* [2023-04-27, 08:58:34](https://news.ycombinator.com/item?id=35725202) - [GNU Pascal (2005)](https://www.gnu-pascal.de/gpc/h-index.html)
 * [2023-04-27, 08:46:20](https://news.ycombinator.com/item?id=35725094) - [The unintentional dystopian beauty of oil rigs](https://twitter.com/FedeItaliano76/status/1650871570137600000)
 * [2023-04-27, 08:28:15](https://news.ycombinator.com/item?id=35724939) - [Dropbox telemetry can&#x27;t be disabled](https://www.dropboxforum.com/t5/Integrations/Why-So-Much-Telemetry/td-p/455961/page/3)
 * [2023-04-27, 08:25:54](https://news.ycombinator.com/item?id=35724912) - [Tokyo has 20 times as much WiFi as it needs](https://www.theregister.com/2023/04/27/ntt_network_sharing_blockchain/)
