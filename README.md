@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-27, 06:37:09](https://news.ycombinator.com/item?id=35724100) - [Google Authenticator app is syncing unencrypted 2FA secrets](https://twitter.com/mysk_co/status/1651021165727477763)
 * [2023-04-27, 05:08:04](https://news.ycombinator.com/item?id=35723540) - [On the unexpected joys of Denglisch, Berlinglish and global Englisch](https://europeanreviewofbooks.com/beamer-dressman-bodybag/en)
 * [2023-04-27, 04:51:08](https://news.ycombinator.com/item?id=35723469) - [Samsung Profits Plunge 95%](https://www.cnn.com/2023/04/26/tech/south-korea-samsung-q1-profits-plunge-intl-hnk/index.html)
 * [2023-04-27, 04:23:12](https://news.ycombinator.com/item?id=35723279) - [How Microsoft names threat actors](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
@@ -14,7 +15,6 @@
 * [2023-04-26, 21:00:46](https://news.ycombinator.com/item?id=35719937) - [DeepDoctection: Document extraction and analysis using deep learning models](https://github.com/deepdoctection/deepdoctection)
 * [2023-04-26, 21:00:23](https://news.ycombinator.com/item?id=35719928) - [Compound (YC S19) is hiring to build a modern wealth manager](https://withcompound.com/company/about)
 * [2023-04-26, 19:55:58](https://news.ycombinator.com/item?id=35719100) - [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
-* [2023-04-26, 19:42:01](https://news.ycombinator.com/item?id=35718912) - [Performance excuses debunked](https://www.computerenhance.com/p/performance-excuses-debunked)
 * [2023-04-26, 19:00:51](https://news.ycombinator.com/item?id=35718417) - [Linen.dev: A 500 kb Slack alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
 * [2023-04-26, 18:15:48](https://news.ycombinator.com/item?id=35717871) - [DeepFloyd IF: open-source text-to-image model](https://github.com/deep-floyd/IF)
 * [2023-04-26, 17:36:04](https://news.ycombinator.com/item?id=35717344) - [Update millions of records in Rails](https://blog.eq8.eu/til/update-millions-of-records-in-rails.html)
