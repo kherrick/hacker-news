@@ -23,12 +23,12 @@
 * [2023-04-26, 13:42:04](https://news.ycombinator.com/item?id=35713524) - [Long before trees overtook the land, Earth was covered by prototaxites (2013)](https://www.smithsonianmag.com/smart-news/long-before-trees-overtook-the-land-earth-was-covered-by-giant-mushrooms-13709647/)
 * [2023-04-26, 13:41:47](https://news.ycombinator.com/item?id=35713518) - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
 * [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix loses 1M users in Spain over password policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
+* [2023-04-26, 06:44:05](https://news.ycombinator.com/item?id=35710266) - [In Praise of the Long Movie](https://www.newyorker.com/culture/cultural-comment/in-praise-of-the-long-movie)
 * [2023-04-25, 12:05:46](https://news.ycombinator.com/item?id=35699311) - [The KRC-2 regenerative receiver kit: a review](https://incoherency.co.uk/blog/stories/krc-2-regenerative-receiver-review.html)
 * [2023-04-25, 11:57:51](https://news.ycombinator.com/item?id=35699252) - [Show HN: CheekyKeys – A Face-Controlled Keyboard](https://github.com/everythingishacked/CheekyKeys)
 * [2023-04-25, 09:47:29](https://news.ycombinator.com/item?id=35698354) - [Redump Milestone – 100k Discs](http://redump.org/)
 * [2023-04-25, 07:42:51](https://news.ycombinator.com/item?id=35697631) - [Choosing the optimal index with limited information](https://memgraph.com/blog/optimal-index-with-limited-information)
 * [2023-04-25, 07:41:35](https://news.ycombinator.com/item?id=35697623) - [Permutation Group Visualizer](https://permutation-groups.glitch.me/)
-* [2023-04-25, 06:58:58](https://news.ycombinator.com/item?id=35697349) - [AMD Ryzen 7000 Burning Out: Impacts all 7000 processors](https://www.tomshardware.com/news/amd-ryzen-7000-burning-out-root-cause-identified-expo-and-soc-voltages-to-blame)
 * [2023-04-25, 04:39:54](https://news.ycombinator.com/item?id=35696547) - [My alpha Pico-based CH32V003 debug tool is ready for a few testers](https://github.com/aappleby/PicoRVD)
 
 ## [Archives](archives/index.md)

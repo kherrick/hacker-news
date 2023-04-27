@@ -87,6 +87,7 @@
 * [2023-04-26, 07:14:53](https://news.ycombinator.com/item?id=35710436) - [The Early Days of Linux](https://lwn.net/Articles/928581/)
 * [2023-04-26, 06:47:41](https://news.ycombinator.com/item?id=35710287) - [Tech giants bury mediocre results under AI hype](https://www.reuters.com/breakingviews/tech-giants-bury-mediocre-results-under-ai-hype-2023-04-25/)
 * [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
+* [2023-04-26, 06:44:05](https://news.ycombinator.com/item?id=35710266) - [In Praise of the Long Movie](https://www.newyorker.com/culture/cultural-comment/in-praise-of-the-long-movie)
 * [2023-04-26, 06:20:26](https://news.ycombinator.com/item?id=35710144) - [Brooklyn Public Library Offers Free ECards to Teens Nationwide Facing Book Bans](https://www.bklynlibrary.org/media/press/brooklyn-public-library-94)
 * [2023-04-26, 05:44:14](https://news.ycombinator.com/item?id=35709975) - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995)
 * [2023-04-26, 04:55:49](https://news.ycombinator.com/item?id=35709758) - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
