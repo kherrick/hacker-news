@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-27, 23:32:17](https://news.ycombinator.com/item?id=35735828) - [Sperm counts are declining. Scientists have pinpointed the main causes](https://www.euronews.com/next/2023/04/26/sperm-counts-are-declining-scientists-believe-they-have-pinpointed-the-main-causes-why)
 * [2023-04-27, 22:43:59](https://news.ycombinator.com/item?id=35735444) - [Microsoft is busy rewriting core Windows library code in memory-safe Rust](https://www.theregister.com/2023/04/27/microsoft_windows_rust/)
 * [2023-04-27, 22:34:16](https://news.ycombinator.com/item?id=35735375) - [LLM with Planning](https://arxiv.org/abs/2304.11477)
 * [2023-04-27, 21:53:08](https://news.ycombinator.com/item?id=35735076) - [Home Assistant’s Year of the Voice – Chapter 2](https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/)
@@ -13,6 +12,7 @@
 * [2023-04-27, 17:55:03](https://news.ycombinator.com/item?id=35732042) - [ChatGPT for Hardware Design](https://docs.flux.ai/tutorials/ai-for-hardware-design)
 * [2023-04-27, 17:26:18](https://news.ycombinator.com/item?id=35731539) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
 * [2023-04-27, 17:11:23](https://news.ycombinator.com/item?id=35731285) - [Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA](https://www.apple.com/legal/more-resources/dsa/mt/)
+* [2023-04-27, 17:02:08](https://news.ycombinator.com/item?id=35731156) - [Dyalog APL Graphs](https://dfns.dyalog.com/n_Graphs.htm)
 * [2023-04-27, 16:40:50](https://news.ycombinator.com/item?id=35730764) - [Hotspot performance engineering fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
 * [2023-04-27, 16:37:55](https://news.ycombinator.com/item?id=35730711) - [Brave Search removes last remnant of Bing from search results page](https://brave.com/search-independence/)
 * [2023-04-27, 16:01:16](https://news.ycombinator.com/item?id=35730074) - [As I am currently in a war zone, I don&#x27;t have many options for cabling](https://electronics.stackexchange.com/questions/664502/using-clothesline-steel-core-wire-rope-for-ac-and-dc)
@@ -25,9 +25,9 @@
 * [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 * [2023-04-26, 06:43:20](https://news.ycombinator.com/item?id=35710259) - [Freud as Talmudist](https://jewishreviewofbooks.com/jewish-history/13912/freud-as-talmudist/)
 * [2023-04-26, 06:20:07](https://news.ycombinator.com/item?id=35710142) - [The Epistemology of Software Quality](https://increment.com/teams/the-epistemology-of-software-quality/)
+* [2023-04-26, 06:08:48](https://news.ycombinator.com/item?id=35710096) - [Minidisc FAQ: MDLP (“Long-Play”) Mode Topics](https://www.minidisc.org/mdlpfaq.html)
 * [2023-04-26, 03:00:08](https://news.ycombinator.com/item?id=35709248) - [A Winelike Sea](https://www.laphamsquarterly.org/sea/winelike-sea)
 * [2023-04-26, 00:50:55](https://news.ycombinator.com/item?id=35708580) - [CardStock](https://github.com/benjie-git/CardStock)
-* [2023-04-25, 10:39:52](https://news.ycombinator.com/item?id=35698653) - [First up-close images of Mars’s little-known moon Deimos](https://www.nature.com/articles/d41586-023-01422-1)
 * [2023-04-25, 08:23:23](https://news.ycombinator.com/item?id=35697882) - [Xhtml Friends Network (2003)](http://gmpg.org/xfn/)
 * [2023-04-25, 04:53:39](https://news.ycombinator.com/item?id=35696638) - [Wall Street Is Finally Going to Make Money Off the Permian](https://www.bloomberg.com/opinion/articles/2023-04-24/higher-oil-prices-means-wall-street-s-shale-investments-will-finally-pay-off)
 
