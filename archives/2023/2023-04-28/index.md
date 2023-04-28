@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 14:47:31](https://news.ycombinator.com/item?id=35741922) - [I can&#x27;t recommend serious use of an all-in-one local Grafana Loki setup](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiSimpleNotRecommended)
 * [2023-04-28, 14:30:42](https://news.ycombinator.com/item?id=35741700) - [The Ukrainian police arrested a man for selling data of over 300M people](https://securityaffairs.com/145406/cyber-crime/ukraine-cyber-police-arrested-man.html)
 * [2023-04-28, 14:24:06](https://news.ycombinator.com/item?id=35741609) - [Tech companies are colluding to cheat H1B visa lottery, US says](https://www.wsj.com/articles/u-s-says-some-companies-cheat-h-1b-lottery-driving-record-applications-1a3e4fd)
 * [2023-04-28, 14:06:30](https://news.ycombinator.com/item?id=35741416) - [Tuple Space](http://wiki.c2.com/?TupleSpace)
 * [2023-04-28, 13:47:58](https://news.ycombinator.com/item?id=35741239) - [Show HN: Pledge Your Human-Made Content](https://nonbot.org)
 * [2023-04-28, 13:18:24](https://news.ycombinator.com/item?id=35740941) - [Bitcoin phisical bearer instrument using NFC JavaCards](https://SATSCARD.com)
 * [2023-04-28, 13:10:52](https://news.ycombinator.com/item?id=35740863) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
+* [2023-04-28, 13:08:53](https://news.ycombinator.com/item?id=35740836) - [Gpt4free repo given takedown notice by OpenAI](https://github.com/xtekky/gpt4free)
 * [2023-04-28, 13:03:57](https://news.ycombinator.com/item?id=35740794) - [GameBox is a programmable, turn-based, WebAssembly game platform](https://extism.org/blog/extending-fly-io-distributed-game-system-part-3/)
 * [2023-04-28, 12:52:47](https://news.ycombinator.com/item?id=35740683) - [Exciting SQLite Improvements Since 2020](https://blog.airsequel.com/exciting-sqlite-improvements-since-2020/)
 * [2023-04-28, 12:45:25](https://news.ycombinator.com/item?id=35740613) - [Cuboid: An application-centric, decentralised and distributed computing project](https://github.com/qadron/cuboid)
