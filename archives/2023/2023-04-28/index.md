@@ -8,6 +8,7 @@
 * [2023-04-28, 20:54:52](https://news.ycombinator.com/item?id=35746991) - [What&#x27;s up in the Python community? – April 2023](https://bitecode.substack.com/p/whats-up-in-the-python-community)
 * [2023-04-28, 20:45:05](https://news.ycombinator.com/item?id=35746888) - [Veganism is ‘single biggest way’ to reduce our environmental impact, study finds](https://www.independent.co.uk/life-style/health-and-families/veganism-environmental-impact-planet-reduced-plant-based-diet-humans-study-a8378631.html)
 * [2023-04-28, 20:40:32](https://news.ycombinator.com/item?id=35746847) - [FDIC set to take First Republic Bank into receivership](https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/)
+* [2023-04-28, 20:31:09](https://news.ycombinator.com/item?id=35746728) - [How to Subvert a Democracy, Stage 2: Condition the Masses](https://narratively.com/how-to-subvert-a-democracy-stage-2-condition-the-masses/)
 * [2023-04-28, 19:51:10](https://news.ycombinator.com/item?id=35746249) - [You probably don&#x27;t know how to do Prompt Engineering](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf)
 * [2023-04-28, 19:44:56](https://news.ycombinator.com/item?id=35746177) - [Why I&#x27;m no longer writing stories with AI](https://storiesby.ai/p/why-im-no-longer-writing-stories)
 * [2023-04-28, 19:25:43](https://news.ycombinator.com/item?id=35745968) - [The Difference Between European and American Butter](https://www.epicurious.com/ingredients/difference-between-european-and-american-butter)
