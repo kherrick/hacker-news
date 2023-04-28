@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-28, 10:27:31](https://news.ycombinator.com/item?id=35739519) - [Intel Posts Largest Loss in Its History as Sales Plunge 36%](https://www.tomshardware.com/news/intel-posts-q1-fy-2023-results)
+* [2023-04-28, 09:55:46](https://news.ycombinator.com/item?id=35739352) - [Amazon, scaling back operations in India, omits India in earnings for first time](https://techcrunch.com/2023/04/27/amazon-omits-india-business-in-earnings-a-first-in-years/)
 * [2023-04-28, 08:19:47](https://news.ycombinator.com/item?id=35738829) - [Microsoft is to enable Rust use for Windows 11 kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
+* [2023-04-28, 07:48:52](https://news.ycombinator.com/item?id=35738645) - [Udemy to pay $4M to settle a case alleging it advertised fake discounts](https://twitter.com/RobertFreundLaw/status/1651760647871561728)
 * [2023-04-28, 06:44:56](https://news.ycombinator.com/item?id=35738231) - [Europe’s Longest Bicycling Tunnel Opens in Norway](https://reasonstobecheerful.world/europes-longest-bicycling-tunnel-opens-in-norway/)
 * [2023-04-28, 05:46:41](https://news.ycombinator.com/item?id=35737863) - [Upward Farms throws in towel ten years after founding vertical-farming business](https://www.just-food.com/news/upward-farms-throws-in-towel-ten-years-after-founding-vertical-farming-business/)
 * [2023-04-28, 05:46:40](https://news.ycombinator.com/item?id=35737862) - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
@@ -12,8 +15,6 @@
 * [2023-04-27, 22:40:04](https://news.ycombinator.com/item?id=35735415) - [FlipperZero: 1 Month Battery Life with Firmware Update](https://blog.flipperzero.one/1-month-battery-life-with-firmware-update/)
 * [2023-04-27, 21:53:08](https://news.ycombinator.com/item?id=35735076) - [Year of the Voice – Chapter 2: Let&#x27;s talk](https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/)
 * [2023-04-27, 21:00:57](https://news.ycombinator.com/item?id=35734516) - [Firezone (YC W22) is hiring Rust systems engineers (SF &#x2F; US remote)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
-* [2023-04-27, 19:42:17](https://news.ycombinator.com/item?id=35733515) - [XTDB 2.x Early Access](https://www.xtdb.com/v2)
-* [2023-04-27, 17:11:23](https://news.ycombinator.com/item?id=35731285) - [European DSA Recipients of Services Report](https://www.apple.com/legal/more-resources/dsa/mt/)
 * [2023-04-27, 16:37:55](https://news.ycombinator.com/item?id=35730711) - [Every web search result in Brave Search is now served by our own index](https://brave.com/search-independence/)
 * [2023-04-27, 16:01:18](https://news.ycombinator.com/item?id=35730075) - [Even Apple employees hate Siri and are skeptical of its future, new report says](https://9to5mac.com/2023/04/27/apple-employees-siri-struggles/)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
@@ -27,7 +28,6 @@
 * [2023-04-26, 07:43:37](https://news.ycombinator.com/item?id=35710605) - [The Test of Prometheus](https://essays.georgestrakhov.com/the-test-of-prometheus/)
 * [2023-04-26, 06:08:48](https://news.ycombinator.com/item?id=35710096) - [Minidisc FAQ: MDLP (“Long-Play”) Mode Topics](https://www.minidisc.org/mdlpfaq.html)
 * [2023-04-26, 05:44:37](https://news.ycombinator.com/item?id=35709976) - [Baron Roman von Ungern-Sternberg (2011)](http://madmonarchist.blogspot.com/2011/05/monarchist-profile-baron-ungern.html)
-* [2023-04-26, 03:00:08](https://news.ycombinator.com/item?id=35709248) - [A Winelike Sea](https://www.laphamsquarterly.org/sea/winelike-sea)
 * [2023-04-25, 08:23:23](https://news.ycombinator.com/item?id=35697882) - [Xhtml Friends Network (2003)](http://gmpg.org/xfn/)
 * [2023-04-24, 20:54:06](https://news.ycombinator.com/item?id=35693131) - [Dinner with Proust: how Alzheimer’s caregivers are pulled into patients’ worlds](https://www.theguardian.com/society/2023/feb/28/dinner-with-proust-how-alzheimers-caregivers-are-pulled-into-their-patients-worlds)
 
