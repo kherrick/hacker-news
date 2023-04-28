@@ -27,7 +27,7 @@
 * [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 * [2023-04-26, 07:43:37](https://news.ycombinator.com/item?id=35710605) - [The Test of Prometheus](https://essays.georgestrakhov.com/the-test-of-prometheus/)
 * [2023-04-26, 06:08:48](https://news.ycombinator.com/item?id=35710096) - [Minidisc FAQ: MDLP (“Long-Play”) Mode Topics](https://www.minidisc.org/mdlpfaq.html)
-* [2023-04-26, 05:44:37](https://news.ycombinator.com/item?id=35709976) - [Baron Roman von Ungern-Sternberg (2011)](http://madmonarchist.blogspot.com/2011/05/monarchist-profile-baron-ungern.html)
+* [2023-04-26, 03:00:08](https://news.ycombinator.com/item?id=35709248) - [A Winelike Sea](https://www.laphamsquarterly.org/sea/winelike-sea)
 * [2023-04-25, 08:23:23](https://news.ycombinator.com/item?id=35697882) - [Xhtml Friends Network (2003)](http://gmpg.org/xfn/)
 * [2023-04-24, 20:54:06](https://news.ycombinator.com/item?id=35693131) - [Dinner with Proust: how Alzheimer’s caregivers are pulled into patients’ worlds](https://www.theguardian.com/society/2023/feb/28/dinner-with-proust-how-alzheimers-caregivers-are-pulled-into-their-patients-worlds)
 
