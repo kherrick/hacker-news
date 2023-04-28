@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-28, 22:13:09](https://news.ycombinator.com/item?id=35747764) - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
 * [2023-04-28, 21:35:46](https://news.ycombinator.com/item?id=35747379) - [Junk Drawer Phone as a Music Streaming Server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-28, 21:00:35](https://news.ycombinator.com/item?id=35747058) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
 * [2023-04-28, 20:54:52](https://news.ycombinator.com/item?id=35746991) - [What&#x27;s up in the Python community? – April 2023](https://bitecode.substack.com/p/whats-up-in-the-python-community)
-* [2023-04-28, 20:40:32](https://news.ycombinator.com/item?id=35746847) - [FDIC set to take First Republic Bank into receivership](https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/)
 * [2023-04-28, 20:37:51](https://news.ycombinator.com/item?id=35746809) - [“Why I develop on Windows”](https://blog.shortround.dev/why-i-think-windows-is-the-best-dev-platform/)
 * [2023-04-28, 20:31:09](https://news.ycombinator.com/item?id=35746728) - [How to Subvert a Democracy, Stage 2: Condition the Masses](https://narratively.com/how-to-subvert-a-democracy-stage-2-condition-the-masses/)
 * [2023-04-28, 19:20:03](https://news.ycombinator.com/item?id=35745880) - [Chicken Chicken Chicken: Chicken Chicken (2002) [pdf]](https://isotropic.org/papers/chicken.pdf)

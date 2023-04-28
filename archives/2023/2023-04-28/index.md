@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 22:13:09](https://news.ycombinator.com/item?id=35747764) - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
 * [2023-04-28, 21:35:46](https://news.ycombinator.com/item?id=35747379) - [Junk Drawer Phone as a Music Streaming Server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-28, 21:00:35](https://news.ycombinator.com/item?id=35747058) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
 * [2023-04-28, 20:54:52](https://news.ycombinator.com/item?id=35746991) - [What&#x27;s up in the Python community? – April 2023](https://bitecode.substack.com/p/whats-up-in-the-python-community)
