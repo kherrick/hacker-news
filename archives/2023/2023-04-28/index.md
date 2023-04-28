@@ -71,3 +71,4 @@
 * [2023-04-28, 03:24:33](https://news.ycombinator.com/item?id=35737151) - [Text-to-Audio Generation Using Instruction Tuned LLM and Latent Diffusion Model](https://tango-web.github.io/)
 * [2023-04-28, 02:52:59](https://news.ycombinator.com/item?id=35737000) - [Flush your Amazon credentials now](https://auspicacious.org/posts/2023/04/26/flush-amazon-credentials-now/)
 * [2023-04-28, 01:29:34](https://news.ycombinator.com/item?id=35736552) - [Europe to ChatGPT: disclose your sources](https://www.wsj.com/articles/europe-to-chatgpt-disclose-your-sources-863ef330)
+* [2023-04-28, 00:15:26](https://news.ycombinator.com/item?id=35736095) - [The Modern WWW, Or: Where Do We Want to Go from Here?](https://hackaday.com/2023/04/27/the-modern-www-or-where-do-we-want-to-go-from-here/)
