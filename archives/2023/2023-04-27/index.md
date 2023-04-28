@@ -101,6 +101,7 @@
 * [2023-04-27, 03:08:55](https://news.ycombinator.com/item?id=35722865) - [Tell HN: iOS converts units for highlighted text](https://news.ycombinator.com/item?id=35722865)
 * [2023-04-27, 02:55:24](https://news.ycombinator.com/item?id=35722778) - [Now They&#x27;re Trying Censor Your Text Messages](https://public.substack.com/p/now-theyre-trying-censor-your-text)
 * [2023-04-27, 02:41:07](https://news.ycombinator.com/item?id=35722681) - [Emerging Rust GUI libraries in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html)
+* [2023-04-27, 02:36:50](https://news.ycombinator.com/item?id=35722648) - [Of Sun Ray laptops, MIPS and getting root on them](http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
 * [2023-04-27, 02:00:22](https://news.ycombinator.com/item?id=35722376) - [The Next Generation in Graphics, Part 1: Three Dimensions in Software](https://www.filfre.net/2023/04/the-next-generation-in-graphics-part-1-three-dimensions-in-software-or-quake-and-its-discontents/)
 * [2023-04-27, 01:56:15](https://news.ycombinator.com/item?id=35722340) - [The Struggle to Make Lab-Grown Meat](https://www.wsj.com/articles/inside-the-struggle-to-make-lab-grown-meat-12cf46ab)
 * [2023-04-27, 01:51:58](https://news.ycombinator.com/item?id=35722298) - [Brazil judge orders temporary suspension of Telegram](https://apnews.com/article/brazil-telegram-suspension-social-media-school-violence-d72acaacd3c1b4d07c2c4fcb094f4ce6)
