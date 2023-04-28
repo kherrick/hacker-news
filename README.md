@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-28, 04:10:35](https://news.ycombinator.com/item?id=35737397) - [We&#x27;re Afraid Language Models Aren&#x27;t Modeling Ambiguity](https://arxiv.org/abs/2304.14399)
 * [2023-04-28, 03:47:38](https://news.ycombinator.com/item?id=35737284) - [Hidet: A Deep Learning Compiler for Efficient Model Serving](https://pytorch.org/blog/introducing-hidet/)
 * [2023-04-28, 01:29:34](https://news.ycombinator.com/item?id=35736552) - [Europe to ChatGPT: disclose your sources](https://www.wsj.com/articles/europe-to-chatgpt-disclose-your-sources-863ef330)
 * [2023-04-27, 22:40:04](https://news.ycombinator.com/item?id=35735415) - [FlipperZero: 1 Month Battery Life with Firmware Update](https://blog.flipperzero.one/1-month-battery-life-with-firmware-update/)
 * [2023-04-27, 21:53:08](https://news.ycombinator.com/item?id=35735076) - [Year of the Voice – Chapter 2: Let&#x27;s talk](https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/)
-* [2023-04-27, 21:13:16](https://news.ycombinator.com/item?id=35734685) - [Current architectural best practices for LLM applications](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
 * [2023-04-27, 21:00:57](https://news.ycombinator.com/item?id=35734516) - [Firezone (YC W22) is hiring Rust systems engineers (SF &#x2F; US remote)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
 * [2023-04-27, 19:42:17](https://news.ycombinator.com/item?id=35733515) - [XTDB 2.x Early Access](https://www.xtdb.com/v2)
 * [2023-04-27, 19:41:23](https://news.ycombinator.com/item?id=35733508) - [NormCap: OCR powered screen-capture tool](https://github.com/dynobo/normcap)
