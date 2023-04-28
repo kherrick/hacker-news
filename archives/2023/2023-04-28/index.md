@@ -7,6 +7,7 @@
 * [2023-04-28, 22:49:28](https://news.ycombinator.com/item?id=35748115) - [Parrondo&#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
 * [2023-04-28, 22:42:49](https://news.ycombinator.com/item?id=35748052) - [JanOS: Turn your phone into an IoT board](http://janos.io/)
 * [2023-04-28, 22:13:09](https://news.ycombinator.com/item?id=35747764) - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
+* [2023-04-28, 21:39:48](https://news.ycombinator.com/item?id=35747417) - [Ocean Warming Study So Distressing, Some Scientists Didn&#x27;t Want to Talk About It](https://www.commondreams.org/news/ocean-warming-study)
 * [2023-04-28, 21:35:46](https://news.ycombinator.com/item?id=35747379) - [Junk Drawer Phone as a Music Streaming Server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-28, 21:00:35](https://news.ycombinator.com/item?id=35747058) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
 * [2023-04-28, 20:54:52](https://news.ycombinator.com/item?id=35746991) - [What&#x27;s up in the Python community? – April 2023](https://bitecode.substack.com/p/whats-up-in-the-python-community)

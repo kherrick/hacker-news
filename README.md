@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-28, 22:49:28](https://news.ycombinator.com/item?id=35748115) - [Parrondo&#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
-* [2023-04-28, 22:42:49](https://news.ycombinator.com/item?id=35748052) - [JanOS: Turn your phone into an IoT board](http://janos.io/)
+* [2023-04-28, 22:42:49](https://news.ycombinator.com/item?id=35748052) - [JanOS: Turn your phone into an IoT board (2015)](http://janos.io/)
 * [2023-04-28, 22:13:09](https://news.ycombinator.com/item?id=35747764) - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
+* [2023-04-28, 21:39:48](https://news.ycombinator.com/item?id=35747417) - [Ocean Warming Study So Distressing, Some Scientists Didn&#x27;t Want to Talk About It](https://www.commondreams.org/news/ocean-warming-study)
 * [2023-04-28, 21:35:46](https://news.ycombinator.com/item?id=35747379) - [Junk drawer phone as a music streaming server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-28, 21:00:35](https://news.ycombinator.com/item?id=35747058) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
 * [2023-04-28, 19:09:04](https://news.ycombinator.com/item?id=35745719) - [Show HN: I made a retro game archive for Polish games](https://polishpixels.com)
@@ -10,7 +11,6 @@
 * [2023-04-28, 18:35:32](https://news.ycombinator.com/item?id=35745293) - [Startup Playbook](https://playbook.samaltman.com/)
 * [2023-04-28, 18:03:35](https://news.ycombinator.com/item?id=35744888) - [Is Gmail killing independent email?](https://tutanota.com/blog/posts/gmail-independent-email)
 * [2023-04-28, 17:07:47](https://news.ycombinator.com/item?id=35744130) - [There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
-* [2023-04-28, 16:35:04](https://news.ycombinator.com/item?id=35743664) - [Launch Lamini: The LLM Engine for Rapidly Customizing Models as Good as ChatGPT](https://lamini.ai/blog/introducing-lamini)
 * [2023-04-28, 15:38:43](https://news.ycombinator.com/item?id=35742606) - [Tell HN: Cloudflare verification is breaking the internet](https://news.ycombinator.com/item?id=35742606)
 * [2023-04-28, 15:30:56](https://news.ycombinator.com/item?id=35742476) - [Check if your IKEA chair is compatible with your screen](https://mastodon.social/@haeckerfelix/110272427676278609)
 * [2023-04-28, 14:45:29](https://news.ycombinator.com/item?id=35741892) - [Plan 9 from User Space](https://9fans.github.io/plan9port/)
