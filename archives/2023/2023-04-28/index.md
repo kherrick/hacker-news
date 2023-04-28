@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 12:01:07](https://news.ycombinator.com/item?id=35740226) - [SiPhox (YC S20) Is Hiring a Lead Microfluidics Engineer](https://www.ycombinator.com/companies/siphox/jobs/HvfcZF9-lead-microfluidics-engineer)
 * [2023-04-28, 11:33:08](https://news.ycombinator.com/item?id=35740001) - [Driver Adventures for a 1999 Webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 * [2023-04-28, 10:27:31](https://news.ycombinator.com/item?id=35739519) - [Intel Posts Largest Loss in Its History as Sales Plunge 36%](https://www.tomshardware.com/news/intel-posts-q1-fy-2023-results)
 * [2023-04-28, 09:55:46](https://news.ycombinator.com/item?id=35739352) - [Amazon, scaling back operations in India, omits India in earnings for first time](https://techcrunch.com/2023/04/27/amazon-omits-india-business-in-earnings-a-first-in-years/)
@@ -16,6 +17,7 @@
 * [2023-04-28, 05:08:01](https://news.ycombinator.com/item?id=35737644) - [In San Francisco, one person dies of an accidental overdose every 10 hours](https://www.theguardian.com/us-news/2023/apr/27/overdose-deaths-in-san-francisco-hit-200-in-three-months-a-crying-shame)
 * [2023-04-28, 05:06:00](https://news.ycombinator.com/item?id=35737637) - [Grokking](https://www.domluna.com/grokking/)
 * [2023-04-28, 04:34:58](https://news.ycombinator.com/item?id=35737507) - [The classic “homunculus” has gone through a radical revision](https://www.scientificamerican.com/article/how-our-team-overturned-the-90-year-old-metaphor-of-a-little-man-in-the-brain-who-controls-movement1/)
+* [2023-04-28, 04:21:02](https://news.ycombinator.com/item?id=35737442) - [OrbStack – Fast, lightweight Docker Desktop and Colima alternative for macOS](https://orbstack.dev/)
 * [2023-04-28, 04:10:35](https://news.ycombinator.com/item?id=35737397) - [We&#x27;re Afraid Language Models Aren&#x27;t Modeling Ambiguity](https://arxiv.org/abs/2304.14399)
 * [2023-04-28, 03:47:38](https://news.ycombinator.com/item?id=35737284) - [Hidet: A Deep Learning Compiler for Efficient Model Serving](https://pytorch.org/blog/introducing-hidet/)
 * [2023-04-28, 03:24:33](https://news.ycombinator.com/item?id=35737151) - [Text-to-Audio Generation Using Instruction Tuned LLM and Latent Diffusion Model](https://tango-web.github.io/)
