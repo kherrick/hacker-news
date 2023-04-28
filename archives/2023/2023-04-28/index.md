@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 14:06:30](https://news.ycombinator.com/item?id=35741416) - [Tuple Space](http://wiki.c2.com/?TupleSpace)
 * [2023-04-28, 13:18:24](https://news.ycombinator.com/item?id=35740941) - [Bitcoin phisical bearer instrument using NFC JavaCards](https://SATSCARD.com)
 * [2023-04-28, 13:10:52](https://news.ycombinator.com/item?id=35740863) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
 * [2023-04-28, 13:03:57](https://news.ycombinator.com/item?id=35740794) - [GameBox is a programmable, turn-based, WebAssembly game platform](https://extism.org/blog/extending-fly-io-distributed-game-system-part-3/)
