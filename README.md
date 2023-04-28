@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-28, 22:49:28](https://news.ycombinator.com/item?id=35748115) - [Parrondo&#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
 * [2023-04-28, 22:42:49](https://news.ycombinator.com/item?id=35748052) - [JanOS: Turn your phone into an IoT board](http://janos.io/)
 * [2023-04-28, 22:13:09](https://news.ycombinator.com/item?id=35747764) - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
 * [2023-04-28, 21:35:46](https://news.ycombinator.com/item?id=35747379) - [Junk drawer phone as a music streaming server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-28, 21:00:35](https://news.ycombinator.com/item?id=35747058) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
 * [2023-04-28, 20:54:52](https://news.ycombinator.com/item?id=35746991) - [What&#x27;s up in the Python community? – April 2023](https://bitecode.substack.com/p/whats-up-in-the-python-community)
-* [2023-04-28, 20:37:51](https://news.ycombinator.com/item?id=35746809) - [Why I develop on Windows](https://blog.shortround.dev/why-i-think-windows-is-the-best-dev-platform/)
-* [2023-04-28, 19:20:03](https://news.ycombinator.com/item?id=35745880) - [Chicken Chicken Chicken: Chicken Chicken (2002) [pdf]](https://isotropic.org/papers/chicken.pdf)
 * [2023-04-28, 19:09:04](https://news.ycombinator.com/item?id=35745719) - [Show HN: I made a retro game archive for Polish games](https://polishpixels.com)
 * [2023-04-28, 18:50:50](https://news.ycombinator.com/item?id=35745494) - [Runescape gold more valuable than Venezuelan currency (2022)](https://sites.psu.edu/ist110pursel/2022/09/04/15154/)
 * [2023-04-28, 18:35:32](https://news.ycombinator.com/item?id=35745293) - [Startup Playbook](https://playbook.samaltman.com/)
@@ -29,6 +28,7 @@
 * [2023-04-27, 10:17:41](https://news.ycombinator.com/item?id=35725874) - [Kaffeost](https://www.atlasobscura.com/foods/kaffeost)
 * [2023-04-27, 05:20:53](https://news.ycombinator.com/item?id=35723609) - [The Italian farmers saving an ancient fruit with solar power](https://www.bbc.com/future/article/20230424-how-agrivoltaics-helped-save-italys-citron-and-lemon-trees)
 * [2023-04-27, 02:36:50](https://news.ycombinator.com/item?id=35722648) - [Of Sun Ray laptops, MIPS and getting root on them](http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
+* [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 * [2023-04-26, 08:48:31](https://news.ycombinator.com/item?id=35711011) - [What Is the Minimal Polynomial of a Matrix?](https://nhigham.com/2023/04/26/what-is-the-minimal-polynomial-of-a-matrix/)
 
 ## [Archives](archives/index.md)

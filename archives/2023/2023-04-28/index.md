@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 22:49:28](https://news.ycombinator.com/item?id=35748115) - [Parrondo&#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
 * [2023-04-28, 22:42:49](https://news.ycombinator.com/item?id=35748052) - [JanOS: Turn your phone into an IoT board](http://janos.io/)
 * [2023-04-28, 22:13:09](https://news.ycombinator.com/item?id=35747764) - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
 * [2023-04-28, 21:35:46](https://news.ycombinator.com/item?id=35747379) - [Junk Drawer Phone as a Music Streaming Server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
