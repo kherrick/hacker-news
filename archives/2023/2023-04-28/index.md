@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
 * [2023-04-28, 08:19:47](https://news.ycombinator.com/item?id=35738829) - [Microsoft is to enable Rust use for Windows 11 kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
+* [2023-04-28, 07:48:52](https://news.ycombinator.com/item?id=35738645) - [Udemy to pay $4M to settle a case alleging it advertised fake discounts](https://twitter.com/RobertFreundLaw/status/1651760647871561728)
 * [2023-04-28, 06:44:56](https://news.ycombinator.com/item?id=35738231) - [Europe’s Longest Bicycling Tunnel Opens in Norway](https://reasonstobecheerful.world/europes-longest-bicycling-tunnel-opens-in-norway/)
 * [2023-04-28, 05:46:41](https://news.ycombinator.com/item?id=35737863) - [Upward Farms throws in towel ten years after founding vertical-farming business](https://www.just-food.com/news/upward-farms-throws-in-towel-ten-years-after-founding-vertical-farming-business/)
 * [2023-04-28, 05:46:40](https://news.ycombinator.com/item?id=35737862) - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
