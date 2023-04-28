@@ -89,6 +89,7 @@
 * [2023-04-26, 08:24:06](https://news.ycombinator.com/item?id=35710848) - [Vegan Leather Made of Dormant Fungi Can Repair Itself](https://www.sciencenews.org/article/vegan-leather-fungi-repair-mycelium)
 * [2023-04-26, 07:57:10](https://news.ycombinator.com/item?id=35710680) - [Silver Lake to buy Germany&#x27;s Software AG in $2.42B deal](https://www.reuters.com/markets/deals/silver-lake-buy-germanys-software-ag-242-bln-deal-2023-04-21/)
 * [2023-04-26, 07:55:35](https://news.ycombinator.com/item?id=35710671) - [Ask HN: Is &quot;Code Complete&quot; by Steve McConnell still a recommended read?](https://news.ycombinator.com/item?id=35710671)
+* [2023-04-26, 07:43:37](https://news.ycombinator.com/item?id=35710605) - [The Test of Prometheus](https://essays.georgestrakhov.com/the-test-of-prometheus/)
 * [2023-04-26, 07:14:53](https://news.ycombinator.com/item?id=35710436) - [The Early Days of Linux](https://lwn.net/Articles/928581/)
 * [2023-04-26, 06:47:41](https://news.ycombinator.com/item?id=35710287) - [Tech giants bury mediocre results under AI hype](https://www.reuters.com/breakingviews/tech-giants-bury-mediocre-results-under-ai-hype-2023-04-25/)
 * [2023-04-26, 06:44:29](https://news.ycombinator.com/item?id=35710269) - [Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
