@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 16:06:41](https://news.ycombinator.com/item?id=35743175) - [Daimler is setting up a $650M charging network for commercial EVs](https://arstechnica.com/cars/2023/04/daimler-is-setting-up-a-650-million-charging-network-for-commercial-evs/)
 * [2023-04-28, 15:38:43](https://news.ycombinator.com/item?id=35742606) - [Tell HN: Cloudflare verification is breaking the internet](https://news.ycombinator.com/item?id=35742606)
 * [2023-04-28, 15:30:56](https://news.ycombinator.com/item?id=35742476) - [Check if your IKEA chair is compatible with your screen](https://mastodon.social/@haeckerfelix/110272427676278609)
 * [2023-04-28, 15:00:10](https://news.ycombinator.com/item?id=35742106) - [U.S. Rep. Angie Craig drops college requirement for staffers](https://www.kare11.com/article/news/politics/representative-angie-craig-drops-college-requirement-for-staffers/89-ec3eafe5-8714-4683-9c70-cbeb04fd88bb)
