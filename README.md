@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-28, 21:35:46](https://news.ycombinator.com/item?id=35747379) - [Junk Drawer Phone as a Music Streaming Server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-28, 21:00:35](https://news.ycombinator.com/item?id=35747058) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
 * [2023-04-28, 20:54:52](https://news.ycombinator.com/item?id=35746991) - [What&#x27;s up in the Python community? – April 2023](https://bitecode.substack.com/p/whats-up-in-the-python-community)
 * [2023-04-28, 20:40:32](https://news.ycombinator.com/item?id=35746847) - [FDIC set to take First Republic Bank into receivership](https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/)
@@ -14,7 +15,6 @@
 * [2023-04-28, 16:35:04](https://news.ycombinator.com/item?id=35743664) - [Launch Lamini: The LLM Engine for Rapidly Customizing Models as Good as ChatGPT](https://lamini.ai/blog/introducing-lamini)
 * [2023-04-28, 15:38:43](https://news.ycombinator.com/item?id=35742606) - [Tell HN: Cloudflare verification is breaking the internet](https://news.ycombinator.com/item?id=35742606)
 * [2023-04-28, 15:30:56](https://news.ycombinator.com/item?id=35742476) - [Check if your IKEA chair is compatible with your screen](https://mastodon.social/@haeckerfelix/110272427676278609)
-* [2023-04-28, 15:00:10](https://news.ycombinator.com/item?id=35742106) - [U.S. Rep. Angie Craig drops college requirement for staffers](https://www.kare11.com/article/news/politics/representative-angie-craig-drops-college-requirement-for-staffers/89-ec3eafe5-8714-4683-9c70-cbeb04fd88bb)
 * [2023-04-28, 14:45:29](https://news.ycombinator.com/item?id=35741892) - [Plan 9 from User Space](https://9fans.github.io/plan9port/)
 * [2023-04-28, 14:06:30](https://news.ycombinator.com/item?id=35741416) - [Tuple Space (2014)](http://wiki.c2.com/?TupleSpace)
 * [2023-04-28, 13:03:57](https://news.ycombinator.com/item?id=35740794) - [GameBox is a programmable, turn-based, WebAssembly game platform](https://extism.org/blog/extending-fly-io-distributed-game-system-part-3/)
