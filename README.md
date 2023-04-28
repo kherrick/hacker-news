@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-28, 08:19:47](https://news.ycombinator.com/item?id=35738829) - [Microsoft is to enable Rust use for Windows 11 kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
+* [2023-04-28, 06:44:56](https://news.ycombinator.com/item?id=35738231) - [Europe’s Longest Bicycling Tunnel Opens in Norway](https://reasonstobecheerful.world/europes-longest-bicycling-tunnel-opens-in-norway/)
 * [2023-04-28, 05:46:41](https://news.ycombinator.com/item?id=35737863) - [Upward Farms throws in towel ten years after founding vertical-farming business](https://www.just-food.com/news/upward-farms-throws-in-towel-ten-years-after-founding-vertical-farming-business/)
 * [2023-04-28, 05:46:40](https://news.ycombinator.com/item?id=35737862) - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 * [2023-04-28, 05:06:00](https://news.ycombinator.com/item?id=35737637) - [Grokking](https://www.domluna.com/grokking/)
@@ -26,7 +27,6 @@
 * [2023-04-26, 07:43:37](https://news.ycombinator.com/item?id=35710605) - [The Test of Prometheus](https://essays.georgestrakhov.com/the-test-of-prometheus/)
 * [2023-04-26, 06:20:07](https://news.ycombinator.com/item?id=35710142) - [The Epistemology of Software Quality](https://increment.com/teams/the-epistemology-of-software-quality/)
 * [2023-04-26, 06:08:48](https://news.ycombinator.com/item?id=35710096) - [Minidisc FAQ: MDLP (“Long-Play”) Mode Topics](https://www.minidisc.org/mdlpfaq.html)
-* [2023-04-26, 05:44:37](https://news.ycombinator.com/item?id=35709976) - [Baron Roman von Ungern-Sternberg (2011)](http://madmonarchist.blogspot.com/2011/05/monarchist-profile-baron-ungern.html)
 * [2023-04-26, 03:00:08](https://news.ycombinator.com/item?id=35709248) - [A Winelike Sea](https://www.laphamsquarterly.org/sea/winelike-sea)
 * [2023-04-26, 00:50:55](https://news.ycombinator.com/item?id=35708580) - [CardStock](https://github.com/benjie-git/CardStock)
 * [2023-04-24, 20:54:06](https://news.ycombinator.com/item?id=35693131) - [Dinner with Proust: how Alzheimer’s caregivers are pulled into patients’ worlds](https://www.theguardian.com/society/2023/feb/28/dinner-with-proust-how-alzheimers-caregivers-are-pulled-into-their-patients-worlds)
