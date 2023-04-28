@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-28, 19:51:10](https://news.ycombinator.com/item?id=35746249) - [You probably don&#x27;t know how to do Prompt Engineering](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf)
 * [2023-04-28, 19:44:56](https://news.ycombinator.com/item?id=35746177) - [Why I&#x27;m no longer writing stories with AI](https://storiesby.ai/p/why-im-no-longer-writing-stories)
 * [2023-04-28, 19:25:43](https://news.ycombinator.com/item?id=35745968) - [The Difference Between European and American Butter](https://www.epicurious.com/ingredients/difference-between-european-and-american-butter)
 * [2023-04-28, 19:20:03](https://news.ycombinator.com/item?id=35745880) - [Chicken Chicken Chicken: Chicken Chicken (2002) [pdf]](https://isotropic.org/papers/chicken.pdf)
@@ -11,6 +10,7 @@
 * [2023-04-28, 17:00:35](https://news.ycombinator.com/item?id=35744018) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-04-28, 16:43:13](https://news.ycombinator.com/item?id=35743778) - [Presentations and pitch decks by failures and frauds](https://www.slidebook.io/blog/article/on-the-road-to-failure/)
 * [2023-04-28, 16:35:04](https://news.ycombinator.com/item?id=35743664) - [Launch Lamini: The LLM Engine for Rapidly Customizing Models as Good as ChatGPT](https://lamini.ai/blog/introducing-lamini)
+* [2023-04-28, 16:06:41](https://news.ycombinator.com/item?id=35743175) - [Daimler is setting up a $650M charging network for commercial EVs](https://arstechnica.com/cars/2023/04/daimler-is-setting-up-a-650-million-charging-network-for-commercial-evs/)
 * [2023-04-28, 15:38:43](https://news.ycombinator.com/item?id=35742606) - [Tell HN: Cloudflare verification is breaking the internet](https://news.ycombinator.com/item?id=35742606)
 * [2023-04-28, 15:30:56](https://news.ycombinator.com/item?id=35742476) - [Check if your IKEA chair is compatible with your screen](https://mastodon.social/@haeckerfelix/110272427676278609)
 * [2023-04-28, 15:00:10](https://news.ycombinator.com/item?id=35742106) - [U.S. Rep. Angie Craig drops college requirement for staffers](https://www.kare11.com/article/news/politics/representative-angie-craig-drops-college-requirement-for-staffers/89-ec3eafe5-8714-4683-9c70-cbeb04fd88bb)
