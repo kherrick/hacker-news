@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 08:19:47](https://news.ycombinator.com/item?id=35738829) - [Microsoft is to enable Rust use for Windows 11 kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
+* [2023-04-28, 05:46:41](https://news.ycombinator.com/item?id=35737863) - [Upward Farms throws in towel ten years after founding vertical-farming business](https://www.just-food.com/news/upward-farms-throws-in-towel-ten-years-after-founding-vertical-farming-business/)
 * [2023-04-28, 05:46:40](https://news.ycombinator.com/item?id=35737862) - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 * [2023-04-28, 05:34:30](https://news.ycombinator.com/item?id=35737791) - [Of Sun Ray laptops, MIPS and getting root on them](http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
 * [2023-04-28, 05:08:01](https://news.ycombinator.com/item?id=35737644) - [In San Francisco, one person dies of an accidental overdose every 10 hours](https://www.theguardian.com/us-news/2023/apr/27/overdose-deaths-in-san-francisco-hit-200-in-three-months-a-crying-shame)

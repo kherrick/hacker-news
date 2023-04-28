@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-28, 08:19:47](https://news.ycombinator.com/item?id=35738829) - [Microsoft is to enable Rust use for Windows 11 kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
+* [2023-04-28, 05:46:41](https://news.ycombinator.com/item?id=35737863) - [Upward Farms throws in towel ten years after founding vertical-farming business](https://www.just-food.com/news/upward-farms-throws-in-towel-ten-years-after-founding-vertical-farming-business/)
 * [2023-04-28, 05:46:40](https://news.ycombinator.com/item?id=35737862) - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 * [2023-04-28, 05:06:00](https://news.ycombinator.com/item?id=35737637) - [Grokking](https://www.domluna.com/grokking/)
 * [2023-04-28, 04:34:58](https://news.ycombinator.com/item?id=35737507) - [The classic “homunculus” has gone through a radical revision](https://www.scientificamerican.com/article/how-our-team-overturned-the-90-year-old-metaphor-of-a-little-man-in-the-brain-who-controls-movement1/)
@@ -12,7 +14,6 @@
 * [2023-04-27, 19:16:45](https://news.ycombinator.com/item?id=35733190) - [New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
 * [2023-04-27, 17:55:03](https://news.ycombinator.com/item?id=35732042) - [ChatGPT for Hardware Design](https://docs.flux.ai/tutorials/ai-for-hardware-design)
 * [2023-04-27, 17:26:18](https://news.ycombinator.com/item?id=35731539) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
-* [2023-04-27, 17:11:23](https://news.ycombinator.com/item?id=35731285) - [European DSA Recipients of Services Report](https://www.apple.com/legal/more-resources/dsa/mt/)
 * [2023-04-27, 16:37:55](https://news.ycombinator.com/item?id=35730711) - [Every web search result in Brave Search is now served by our own index](https://brave.com/search-independence/)
 * [2023-04-27, 16:01:37](https://news.ycombinator.com/item?id=35730083) - [Kids trying to play video games on school laptops](https://www.vice.com/en/article/z3mxkj/inside-the-chaotic-world-of-kids-trying-to-play-video-games-on-school-laptops)
 * [2023-04-27, 16:01:18](https://news.ycombinator.com/item?id=35730075) - [Even Apple employees hate Siri and are skeptical of its future, new report says](https://9to5mac.com/2023/04/27/apple-employees-siri-struggles/)
@@ -28,7 +29,6 @@
 * [2023-04-26, 05:44:37](https://news.ycombinator.com/item?id=35709976) - [Baron Roman von Ungern-Sternberg (2011)](http://madmonarchist.blogspot.com/2011/05/monarchist-profile-baron-ungern.html)
 * [2023-04-26, 03:00:08](https://news.ycombinator.com/item?id=35709248) - [A Winelike Sea](https://www.laphamsquarterly.org/sea/winelike-sea)
 * [2023-04-26, 00:50:55](https://news.ycombinator.com/item?id=35708580) - [CardStock](https://github.com/benjie-git/CardStock)
-* [2023-04-25, 08:23:23](https://news.ycombinator.com/item?id=35697882) - [Xhtml Friends Network (2003)](http://gmpg.org/xfn/)
 * [2023-04-24, 20:54:06](https://news.ycombinator.com/item?id=35693131) - [Dinner with Proust: how Alzheimer’s caregivers are pulled into patients’ worlds](https://www.theguardian.com/society/2023/feb/28/dinner-with-proust-how-alzheimers-caregivers-are-pulled-into-their-patients-worlds)
 
 ## [Archives](archives/index.md)
