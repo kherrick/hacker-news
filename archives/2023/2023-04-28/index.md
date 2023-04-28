@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 14:24:06](https://news.ycombinator.com/item?id=35741609) - [Tech companies are colluding to cheat H1B visa lottery, US says](https://www.wsj.com/articles/u-s-says-some-companies-cheat-h-1b-lottery-driving-record-applications-1a3e4fd)
 * [2023-04-28, 14:06:30](https://news.ycombinator.com/item?id=35741416) - [Tuple Space](http://wiki.c2.com/?TupleSpace)
 * [2023-04-28, 13:18:24](https://news.ycombinator.com/item?id=35740941) - [Bitcoin phisical bearer instrument using NFC JavaCards](https://SATSCARD.com)
 * [2023-04-28, 13:10:52](https://news.ycombinator.com/item?id=35740863) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
