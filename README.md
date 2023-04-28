@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-28, 01:29:34](https://news.ycombinator.com/item?id=35736552) - [Europe to ChatGPT: disclose your sources](https://www.wsj.com/articles/europe-to-chatgpt-disclose-your-sources-863ef330)
-* [2023-04-27, 22:43:59](https://news.ycombinator.com/item?id=35735444) - [Microsoft is busy rewriting core Windows library code in memory-safe Rust](https://www.theregister.com/2023/04/27/microsoft_windows_rust/)
 * [2023-04-27, 22:34:16](https://news.ycombinator.com/item?id=35735375) - [LLM with Planning](https://arxiv.org/abs/2304.11477)
 * [2023-04-27, 21:53:08](https://news.ycombinator.com/item?id=35735076) - [Home Assistant’s Year of the Voice – Chapter 2](https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/)
 * [2023-04-27, 21:46:27](https://news.ycombinator.com/item?id=35735030) - [Harvey AI raises $21M in a Series A round led by Sequoia](https://www.lawnext.com/2023/04/harvey-ai-raises-21m-in-a-series-a-round-led-by-sequoia.html)
@@ -15,6 +14,7 @@
 * [2023-04-27, 17:11:23](https://news.ycombinator.com/item?id=35731285) - [Apple Releases App Store Monthly Active User Counts for EU to Comply with DSA](https://www.apple.com/legal/more-resources/dsa/mt/)
 * [2023-04-27, 16:40:50](https://news.ycombinator.com/item?id=35730764) - [Hotspot performance engineering fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
 * [2023-04-27, 16:37:55](https://news.ycombinator.com/item?id=35730711) - [Brave Search removes last remnant of Bing from search results page](https://brave.com/search-independence/)
+* [2023-04-27, 16:01:16](https://news.ycombinator.com/item?id=35730074) - [As I am currently in a war zone, I don&#x27;t have many options for cabling](https://electronics.stackexchange.com/questions/664502/using-clothesline-steel-core-wire-rope-for-ac-and-dc)
 * [2023-04-27, 15:26:59](https://news.ycombinator.com/item?id=35729558) - [Colorado governor signs tractor right-to-repair law opposed by John Deere](https://arstechnica.com/tech-policy/2023/04/colorado-governor-signs-tractor-right-to-repair-law-opposed-by-john-deere/)
 * [2023-04-27, 15:06:37](https://news.ycombinator.com/item?id=35729260) - [Quicssh: SSH over QUIC](https://github.com/moul/quicssh)
 * [2023-04-27, 13:40:47](https://news.ycombinator.com/item?id=35727967) - [Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
