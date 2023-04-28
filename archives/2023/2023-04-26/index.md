@@ -28,6 +28,7 @@
 * [2023-04-26, 18:02:27](https://news.ycombinator.com/item?id=35717692) - [Creating AI assistant with GPT and Ruby and Redis using embeddings](https://release.com/blog/training-chatgpt-with-custom-libraries-using-extensions)
 * [2023-04-26, 17:38:15](https://news.ycombinator.com/item?id=35717368) - [Why Tocqueville Matters](https://www.newstatesman.com/ideas/2023/04/tocqueville-matters-political-philosophy)
 * [2023-04-26, 17:36:04](https://news.ycombinator.com/item?id=35717344) - [Update Millions of Records in Rails](https://blog.eq8.eu/til/update-millions-of-records-in-rails.html)
+* [2023-04-26, 17:24:01](https://news.ycombinator.com/item?id=35717167) - [Ask HN: Why do some electronics use 6.2 volts DC?](https://news.ycombinator.com/item?id=35717167)
 * [2023-04-26, 17:19:34](https://news.ycombinator.com/item?id=35717106) - [HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://xhuangcv.github.io/hdr-nerf/)
 * [2023-04-26, 17:10:38](https://news.ycombinator.com/item?id=35716963) - [The part of Postgres we hate the most: Multi-version concurrency control](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
 * [2023-04-26, 17:03:38](https://news.ycombinator.com/item?id=35716872) - [SpaceX, Rogers to connect mobiles phones to satellites in remote Canadian areas](https://www.reuters.com/technology/space/spacex-rogers-connect-mobiles-phones-satellites-remote-canadian-areas-2023-04-26/)
