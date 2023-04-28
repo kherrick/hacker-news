@@ -24,11 +24,11 @@
 * [2023-04-28, 05:46:41](https://news.ycombinator.com/item?id=35737863) - [Upward Farms throws in towel ten years after founding vertical-farming business](https://www.just-food.com/news/upward-farms-throws-in-towel-ten-years-after-founding-vertical-farming-business/)
 * [2023-04-28, 05:46:40](https://news.ycombinator.com/item?id=35737862) - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
+* [2023-04-27, 12:56:51](https://news.ycombinator.com/item?id=35727321) - [Misaligned Incentives in Dev Tool Businesses](https://earthly.dev/blog/misaligned-incentives/)
 * [2023-04-27, 12:16:35](https://news.ycombinator.com/item?id=35726905) - [The Canoe Commuters of the CIA](https://www.mensjournal.com/adventure/declassified-cias-canoe-pool)
 * [2023-04-27, 10:17:41](https://news.ycombinator.com/item?id=35725874) - [Kaffeost](https://www.atlasobscura.com/foods/kaffeost)
 * [2023-04-27, 05:20:53](https://news.ycombinator.com/item?id=35723609) - [The Italian farmers saving an ancient fruit with solar power](https://www.bbc.com/future/article/20230424-how-agrivoltaics-helped-save-italys-citron-and-lemon-trees)
 * [2023-04-27, 02:36:50](https://news.ycombinator.com/item?id=35722648) - [Of Sun Ray laptops, MIPS and getting root on them](http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
-* [2023-04-26, 17:24:01](https://news.ycombinator.com/item?id=35717167) - [Ask HN: Why do some electronics use 6.2 volts DC?](https://news.ycombinator.com/item?id=35717167)
 * [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 
 ## [Archives](archives/index.md)
