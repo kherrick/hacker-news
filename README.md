@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-28, 18:03:35](https://news.ycombinator.com/item?id=35744888) - [Is Gmail killing independent email?](https://tutanota.com/blog/posts/gmail-independent-email)
 * [2023-04-28, 17:07:47](https://news.ycombinator.com/item?id=35744130) - [There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
 * [2023-04-28, 17:00:35](https://news.ycombinator.com/item?id=35744018) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-04-28, 16:43:13](https://news.ycombinator.com/item?id=35743778) - [Presentations and pitch decks by failures and frauds](https://www.slidebook.io/blog/article/on-the-road-to-failure/)
@@ -13,7 +14,6 @@
 * [2023-04-28, 13:08:53](https://news.ycombinator.com/item?id=35740836) - [Gpt4free repo given takedown notice by OpenAI](https://github.com/xtekky/gpt4free)
 * [2023-04-28, 13:03:57](https://news.ycombinator.com/item?id=35740794) - [GameBox is a programmable, turn-based, WebAssembly game platform](https://extism.org/blog/extending-fly-io-distributed-game-system-part-3/)
 * [2023-04-28, 12:52:47](https://news.ycombinator.com/item?id=35740683) - [Exciting SQLite Improvements Since 2020](https://blog.airsequel.com/exciting-sqlite-improvements-since-2020/)
-* [2023-04-28, 12:45:25](https://news.ycombinator.com/item?id=35740613) - [Cuboid: An application-centric, decentralised and distributed computing project](https://github.com/qadron/cuboid)
 * [2023-04-28, 12:43:02](https://news.ycombinator.com/item?id=35740581) - [Many public Salesforce sites are leaking private data](https://krebsonsecurity.com/2023/04/many-public-salesforce-sites-are-leaking-private-data/)
 * [2023-04-28, 12:31:38](https://news.ycombinator.com/item?id=35740494) - [Morse, an open-source interactive tool for inspecting Clojure](https://clojure.org/news/2023/04/28/introducing-morse)
 * [2023-04-28, 12:06:47](https://news.ycombinator.com/item?id=35740277) - [How to spend money on your friends without it looking like bribery](https://billmei.net/blog/bribe-friends)
