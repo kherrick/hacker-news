@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 19:20:03](https://news.ycombinator.com/item?id=35745880) - [Chicken Chicken Chicken: Chicken Chicken [pdf]](https://isotropic.org/papers/chicken.pdf)
 * [2023-04-28, 19:09:04](https://news.ycombinator.com/item?id=35745719) - [Show HN: I made a retro game archive for Polish games](https://polishpixels.com)
 * [2023-04-28, 19:05:28](https://news.ycombinator.com/item?id=35745682) - [Stability AI Releases StableVicuna, World’s First Open Source RLHF LLM Chatbot](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)
 * [2023-04-28, 18:50:50](https://news.ycombinator.com/item?id=35745494) - [Runescape Gold More Valuable Than Venezuelan Currency](https://sites.psu.edu/ist110pursel/2022/09/04/15154/)
