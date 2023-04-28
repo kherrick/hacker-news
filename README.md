@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-28, 05:46:40](https://news.ycombinator.com/item?id=35737862) - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
-* [2023-04-28, 05:34:30](https://news.ycombinator.com/item?id=35737791) - [Of Sun Ray laptops, MIPS and getting root on them](http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
 * [2023-04-28, 05:06:00](https://news.ycombinator.com/item?id=35737637) - [Grokking](https://www.domluna.com/grokking/)
 * [2023-04-28, 04:34:58](https://news.ycombinator.com/item?id=35737507) - [The classic “homunculus” has gone through a radical revision](https://www.scientificamerican.com/article/how-our-team-overturned-the-90-year-old-metaphor-of-a-little-man-in-the-brain-who-controls-movement1/)
 * [2023-04-28, 04:10:35](https://news.ycombinator.com/item?id=35737397) - [We&#x27;re afraid language models aren&#x27;t modeling ambiguity](https://arxiv.org/abs/2304.14399)
@@ -28,6 +27,7 @@
 * [2023-04-26, 06:08:48](https://news.ycombinator.com/item?id=35710096) - [Minidisc FAQ: MDLP (“Long-Play”) Mode Topics](https://www.minidisc.org/mdlpfaq.html)
 * [2023-04-26, 03:00:08](https://news.ycombinator.com/item?id=35709248) - [A Winelike Sea](https://www.laphamsquarterly.org/sea/winelike-sea)
 * [2023-04-26, 00:50:55](https://news.ycombinator.com/item?id=35708580) - [CardStock](https://github.com/benjie-git/CardStock)
+* [2023-04-25, 08:23:23](https://news.ycombinator.com/item?id=35697882) - [Xhtml Friends Network (2003)](http://gmpg.org/xfn/)
 * [2023-04-25, 04:53:39](https://news.ycombinator.com/item?id=35696638) - [Wall Street Is Finally Going to Make Money Off the Permian](https://www.bloomberg.com/opinion/articles/2023-04-24/higher-oil-prices-means-wall-street-s-shale-investments-will-finally-pay-off)
 * [2023-04-24, 20:54:06](https://news.ycombinator.com/item?id=35693131) - [Dinner with Proust: how Alzheimer’s caregivers are pulled into patients’ worlds](https://www.theguardian.com/society/2023/feb/28/dinner-with-proust-how-alzheimers-caregivers-are-pulled-into-their-patients-worlds)
 
