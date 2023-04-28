@@ -11,7 +11,6 @@
 * [2023-04-28, 18:50:50](https://news.ycombinator.com/item?id=35745494) - [Runescape gold more valuable than Venezuelan currency (2022)](https://sites.psu.edu/ist110pursel/2022/09/04/15154/)
 * [2023-04-28, 18:03:35](https://news.ycombinator.com/item?id=35744888) - [Is Gmail killing independent email?](https://tutanota.com/blog/posts/gmail-independent-email)
 * [2023-04-28, 17:07:47](https://news.ycombinator.com/item?id=35744130) - [There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
-* [2023-04-28, 16:43:13](https://news.ycombinator.com/item?id=35743778) - [Presentations and pitch decks by failures and frauds](https://www.slidebook.io/blog/article/on-the-road-to-failure/)
 * [2023-04-28, 16:35:04](https://news.ycombinator.com/item?id=35743664) - [Launch Lamini: The LLM Engine for Rapidly Customizing Models as Good as ChatGPT](https://lamini.ai/blog/introducing-lamini)
 * [2023-04-28, 15:38:43](https://news.ycombinator.com/item?id=35742606) - [Tell HN: Cloudflare verification is breaking the internet](https://news.ycombinator.com/item?id=35742606)
 * [2023-04-28, 15:30:56](https://news.ycombinator.com/item?id=35742476) - [Check if your IKEA chair is compatible with your screen](https://mastodon.social/@haeckerfelix/110272427676278609)
@@ -30,6 +29,7 @@
 * [2023-04-27, 05:20:53](https://news.ycombinator.com/item?id=35723609) - [The Italian farmers saving an ancient fruit with solar power](https://www.bbc.com/future/article/20230424-how-agrivoltaics-helped-save-italys-citron-and-lemon-trees)
 * [2023-04-27, 02:36:50](https://news.ycombinator.com/item?id=35722648) - [Of Sun Ray laptops, MIPS and getting root on them](http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
 * [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
+* [2023-04-26, 08:48:31](https://news.ycombinator.com/item?id=35711011) - [What Is the Minimal Polynomial of a Matrix?](https://nhigham.com/2023/04/26/what-is-the-minimal-polynomial-of-a-matrix/)
 
 ## [Archives](archives/index.md)
 
