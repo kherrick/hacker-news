@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 13:18:24](https://news.ycombinator.com/item?id=35740941) - [Bitcoin phisical bearer instrument using NFC JavaCards](https://SATSCARD.com)
+* [2023-04-28, 13:10:52](https://news.ycombinator.com/item?id=35740863) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
+* [2023-04-28, 13:03:57](https://news.ycombinator.com/item?id=35740794) - [GameBox is a programmable, turn-based, WebAssembly game platform](https://extism.org/blog/extending-fly-io-distributed-game-system-part-3/)
 * [2023-04-28, 12:45:25](https://news.ycombinator.com/item?id=35740613) - [Cuboid: An application-centric, decentralised and distributed computing project](https://github.com/qadron/cuboid)
 * [2023-04-28, 12:31:38](https://news.ycombinator.com/item?id=35740494) - [Morse, an open-source interactive tool for inspecting Clojure](https://clojure.org/news/2023/04/28/introducing-morse)
 * [2023-04-28, 12:06:47](https://news.ycombinator.com/item?id=35740277) - [How to spend money on your friends without it looking like bribery](https://billmei.net/blog/bribe-friends)
