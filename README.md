@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-28, 19:20:03](https://news.ycombinator.com/item?id=35745880) - [Chicken Chicken Chicken: Chicken Chicken [pdf]](https://isotropic.org/papers/chicken.pdf)
+* [2023-04-28, 19:51:10](https://news.ycombinator.com/item?id=35746249) - [You probably don&#x27;t know how to do Prompt Engineering](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf)
+* [2023-04-28, 19:20:03](https://news.ycombinator.com/item?id=35745880) - [Chicken Chicken Chicken: Chicken Chicken (2007) [pdf]](https://isotropic.org/papers/chicken.pdf)
 * [2023-04-28, 19:09:04](https://news.ycombinator.com/item?id=35745719) - [Show HN: I made a retro game archive for Polish games](https://polishpixels.com)
 * [2023-04-28, 18:50:50](https://news.ycombinator.com/item?id=35745494) - [Runescape gold more valuable than Venezuelan currency (2022)](https://sites.psu.edu/ist110pursel/2022/09/04/15154/)
-* [2023-04-28, 18:03:35](https://news.ycombinator.com/item?id=35744888) - [Is Gmail killing independent email?](https://tutanota.com/blog/posts/gmail-independent-email)
 * [2023-04-28, 17:07:47](https://news.ycombinator.com/item?id=35744130) - [There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
 * [2023-04-28, 17:00:35](https://news.ycombinator.com/item?id=35744018) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-04-28, 16:43:13](https://news.ycombinator.com/item?id=35743778) - [Presentations and pitch decks by failures and frauds](https://www.slidebook.io/blog/article/on-the-road-to-failure/)
