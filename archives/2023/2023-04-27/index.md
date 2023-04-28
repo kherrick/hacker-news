@@ -67,6 +67,7 @@
 * [2023-04-27, 12:38:01](https://news.ycombinator.com/item?id=35727111) - [I wrote a tool in Go to write Sequence Diagrams in Go](https://github.com/MrIceman/go-uml)
 * [2023-04-27, 12:26:38](https://news.ycombinator.com/item?id=35727003) - [Citi Bike Is Amazing. Citibank Should Pay for Every New Yorker&#x27;s Membership](https://hellgatenyc.com/citibank-pay-more-for-citi-bike)
 * [2023-04-27, 12:26:18](https://news.ycombinator.com/item?id=35726999) - [Ask HN: How many websites, apps or notifications do you look at to “catch-up”?](https://news.ycombinator.com/item?id=35726999)
+* [2023-04-27, 12:16:35](https://news.ycombinator.com/item?id=35726905) - [The Canoe Commuters of the CIA](https://www.mensjournal.com/adventure/declassified-cias-canoe-pool)
 * [2023-04-27, 12:11:24](https://news.ycombinator.com/item?id=35726855) - [The 2-Maxsat Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
 * [2023-04-27, 12:11:09](https://news.ycombinator.com/item?id=35726850) - [Busting the Launch Pad: Elon Musk and the Myth of the Secret Genius](https://www.bylinesupplement.com/p/busting-the-launch-pad-elon-musk)
 * [2023-04-27, 12:09:43](https://news.ycombinator.com/item?id=35726836) - [TSMC Outlines 2nm Plans: N2P Brings Backside Power Delivery in 2026, N2X Added](https://www.anandtech.com/show/18832/tsmc-outlines-2nm-plans-n2p-brings-backside-power-delivery-in-2026-n2x-added-to-roadmap)
