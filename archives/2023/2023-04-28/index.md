@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 17:07:47](https://news.ycombinator.com/item?id=35744130) - [There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
+* [2023-04-28, 17:03:24](https://news.ycombinator.com/item?id=35744069) - [Ask HN: How to Protect Ideas and Implementation?](https://news.ycombinator.com/item?id=35744069)
+* [2023-04-28, 17:00:35](https://news.ycombinator.com/item?id=35744018) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-04-28, 16:43:13](https://news.ycombinator.com/item?id=35743778) - [Pitch decks by FTX, Enron, Theranos, Celsius and other corporate failures](https://www.slidebook.io/blog/article/on-the-road-to-failure/)
 * [2023-04-28, 16:39:44](https://news.ycombinator.com/item?id=35743727) - [Stability AI releases DeepFloyd IF, a powerful text-to-image model](https://stability.ai/blog/deepfloyd-if-text-to-image-model)
 * [2023-04-28, 16:20:48](https://news.ycombinator.com/item?id=35743433) - [GM EV1 Drag Race vs. Miata and 300zx [video]](https://www.youtube.com/watch?v=UaL2tYC0Zuw)
