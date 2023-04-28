@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-28, 16:20:48](https://news.ycombinator.com/item?id=35743433) - [GM EV1 Drag Race vs. Miata and 300zx [video]](https://www.youtube.com/watch?v=UaL2tYC0Zuw)
 * [2023-04-28, 16:06:41](https://news.ycombinator.com/item?id=35743175) - [Daimler is setting up a $650M charging network for commercial EVs](https://arstechnica.com/cars/2023/04/daimler-is-setting-up-a-650-million-charging-network-for-commercial-evs/)
 * [2023-04-28, 15:30:56](https://news.ycombinator.com/item?id=35742476) - [Check if your IKEA chair is compatible with your screen](https://mastodon.social/@haeckerfelix/110272427676278609)
 * [2023-04-28, 15:00:10](https://news.ycombinator.com/item?id=35742106) - [U.S. Rep. Angie Craig drops college requirement for staffers](https://www.kare11.com/article/news/politics/representative-angie-craig-drops-college-requirement-for-staffers/89-ec3eafe5-8714-4683-9c70-cbeb04fd88bb)
@@ -28,7 +29,6 @@
 * [2023-04-27, 05:20:53](https://news.ycombinator.com/item?id=35723609) - [The Italian farmers saving an ancient fruit with solar power](https://www.bbc.com/future/article/20230424-how-agrivoltaics-helped-save-italys-citron-and-lemon-trees)
 * [2023-04-27, 02:36:50](https://news.ycombinator.com/item?id=35722648) - [Of Sun Ray laptops, MIPS and getting root on them](http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
 * [2023-04-27, 01:56:15](https://news.ycombinator.com/item?id=35722340) - [The Struggle to Make Lab-Grown Meat](https://www.wsj.com/articles/inside-the-struggle-to-make-lab-grown-meat-12cf46ab)
-* [2023-04-26, 12:37:25](https://news.ycombinator.com/item?id=35712694) - [Science is a strong-link problem](https://www.experimental-history.com/p/science-is-a-strong-link-problem)
 * [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 
 ## [Archives](archives/index.md)
