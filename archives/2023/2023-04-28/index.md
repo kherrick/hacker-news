@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 22:42:49](https://news.ycombinator.com/item?id=35748052) - [JanOS: Turn your phone into an IoT board](http://janos.io/)
 * [2023-04-28, 22:13:09](https://news.ycombinator.com/item?id=35747764) - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
 * [2023-04-28, 21:35:46](https://news.ycombinator.com/item?id=35747379) - [Junk Drawer Phone as a Music Streaming Server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-28, 21:00:35](https://news.ycombinator.com/item?id=35747058) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
@@ -19,6 +20,7 @@
 * [2023-04-28, 19:09:04](https://news.ycombinator.com/item?id=35745719) - [Show HN: I made a retro game archive for Polish games](https://polishpixels.com)
 * [2023-04-28, 19:05:28](https://news.ycombinator.com/item?id=35745682) - [Stability AI Releases StableVicuna, World’s First Open Source RLHF LLM Chatbot](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)
 * [2023-04-28, 18:50:50](https://news.ycombinator.com/item?id=35745494) - [Runescape Gold More Valuable Than Venezuelan Currency](https://sites.psu.edu/ist110pursel/2022/09/04/15154/)
+* [2023-04-28, 18:35:32](https://news.ycombinator.com/item?id=35745293) - [Startup Playbook](https://playbook.samaltman.com/)
 * [2023-04-28, 18:03:35](https://news.ycombinator.com/item?id=35744888) - [Is Gmail killing independent email?](https://tutanota.com/blog/posts/gmail-independent-email)
 * [2023-04-28, 17:07:47](https://news.ycombinator.com/item?id=35744130) - [There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
 * [2023-04-28, 17:03:24](https://news.ycombinator.com/item?id=35744069) - [Ask HN: How to Protect Ideas and Implementation?](https://news.ycombinator.com/item?id=35744069)
