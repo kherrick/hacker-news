@@ -64,6 +64,7 @@
 * [2023-04-27, 13:01:35](https://news.ycombinator.com/item?id=35727408) - [Delphi 11 and C++Builder 11 Community Editions Released](https://blogs.embarcadero.com/delphi-11-and-cbuilder-11-community-editions-released/)
 * [2023-04-27, 13:01:08](https://news.ycombinator.com/item?id=35727401) - [Why enclaves exist: from von Neumann to secure enclaves](https://evervault.com/blog/why-enclaves-exist)
 * [2023-04-27, 12:43:06](https://news.ycombinator.com/item?id=35727163) - [A Low Cost Approach to Improving Pedestrian Safety with Deep Learning](https://nathanrooy.github.io/posts/2019-02-06/raspberry-pi-deep-learning-traffic-tracker/)
+* [2023-04-27, 12:38:01](https://news.ycombinator.com/item?id=35727111) - [I wrote a tool in Go to write Sequence Diagrams in Go](https://github.com/MrIceman/go-uml)
 * [2023-04-27, 12:26:38](https://news.ycombinator.com/item?id=35727003) - [Citi Bike Is Amazing. Citibank Should Pay for Every New Yorker&#x27;s Membership](https://hellgatenyc.com/citibank-pay-more-for-citi-bike)
 * [2023-04-27, 12:26:18](https://news.ycombinator.com/item?id=35726999) - [Ask HN: How many websites, apps or notifications do you look at to “catch-up”?](https://news.ycombinator.com/item?id=35726999)
 * [2023-04-27, 12:11:24](https://news.ycombinator.com/item?id=35726855) - [The 2-Maxsat Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
