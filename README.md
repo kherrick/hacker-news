@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-28, 17:07:47](https://news.ycombinator.com/item?id=35744130) - [There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
-* [2023-04-28, 17:03:24](https://news.ycombinator.com/item?id=35744069) - [Ask HN: How to Protect Ideas and Implementation?](https://news.ycombinator.com/item?id=35744069)
 * [2023-04-28, 17:00:35](https://news.ycombinator.com/item?id=35744018) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-04-28, 16:43:13](https://news.ycombinator.com/item?id=35743778) - [Presentations and pitch decks by failures and frauds](https://www.slidebook.io/blog/article/on-the-road-to-failure/)
 * [2023-04-28, 16:39:44](https://news.ycombinator.com/item?id=35743727) - [Stability AI releases DeepFloyd IF, a powerful text-to-image model](https://stability.ai/blog/deepfloyd-if-text-to-image-model)
@@ -11,6 +10,7 @@
 * [2023-04-28, 14:47:31](https://news.ycombinator.com/item?id=35741922) - [I can&#x27;t recommend serious use of an all-in-one local Grafana Loki setup](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiSimpleNotRecommended)
 * [2023-04-28, 14:45:29](https://news.ycombinator.com/item?id=35741892) - [Plan 9 from User Space](https://9fans.github.io/plan9port/)
 * [2023-04-28, 14:06:30](https://news.ycombinator.com/item?id=35741416) - [Tuple Space](http://wiki.c2.com/?TupleSpace)
+* [2023-04-28, 13:47:58](https://news.ycombinator.com/item?id=35741239) - [Show HN: Pledge Your Human-Made Content](https://nonbot.org)
 * [2023-04-28, 13:08:53](https://news.ycombinator.com/item?id=35740836) - [Gpt4free repo given takedown notice by OpenAI](https://github.com/xtekky/gpt4free)
 * [2023-04-28, 13:03:57](https://news.ycombinator.com/item?id=35740794) - [GameBox is a programmable, turn-based, WebAssembly game platform](https://extism.org/blog/extending-fly-io-distributed-game-system-part-3/)
 * [2023-04-28, 12:52:47](https://news.ycombinator.com/item?id=35740683) - [Exciting SQLite Improvements Since 2020](https://blog.airsequel.com/exciting-sqlite-improvements-since-2020/)
