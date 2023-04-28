@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-28, 15:00:10",
+      "https://news.ycombinator.com/item?id=35742106"
+    ],
+    [
+      "U.S. Rep. Angie Craig drops college requirement for staffers",
+      "https://www.kare11.com/article/news/politics/representative-angie-craig-drops-college-requirement-for-staffers/89-ec3eafe5-8714-4683-9c70-cbeb04fd88bb"
+    ]
+  ],
+  [
+    [
       "2023-04-28, 14:47:31",
       "https://news.ycombinator.com/item?id=35741922"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-04-28, 14:37:21",
-      "https://news.ycombinator.com/item?id=35741780"
+      "2023-04-28, 14:45:29",
+      "https://news.ycombinator.com/item?id=35741892"
     ],
     [
-      "Oil company ExxonMobil reports record profits of $11.4B",
-      "https://www.bbc.com/news/business-65427372"
+      "Plan 9 from User Space",
+      "https://9fans.github.io/plan9port/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "We&#x27;re afraid language models aren&#x27;t modeling ambiguity",
       "https://arxiv.org/abs/2304.14399"
-    ]
-  ],
-  [
-    [
-      "2023-04-28, 03:47:38",
-      "https://news.ycombinator.com/item?id=35737284"
-    ],
-    [
-      "Hidet: A Deep Learning Compiler for Efficient Model Serving",
-      "https://pytorch.org/blog/introducing-hidet/"
     ]
   ],
   [
