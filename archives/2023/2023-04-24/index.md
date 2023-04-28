@@ -16,6 +16,7 @@
 * [2023-04-24, 21:09:57](https://news.ycombinator.com/item?id=35693306) - [The Palo Alto Research Center (PARC) Will Join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
 * [2023-04-24, 21:01:10](https://news.ycombinator.com/item?id=35693229) - [Lancey (YC S22) is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
 * [2023-04-24, 20:56:06](https://news.ycombinator.com/item?id=35693160) - [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
+* [2023-04-24, 20:54:06](https://news.ycombinator.com/item?id=35693131) - [Dinner with Proust: how Alzheimer’s caregivers are pulled into patients’ worlds](https://www.theguardian.com/society/2023/feb/28/dinner-with-proust-how-alzheimers-caregivers-are-pulled-into-their-patients-worlds)
 * [2023-04-24, 20:35:28](https://news.ycombinator.com/item?id=35692844) - [Transistor Made of Wood](https://www.pnas.org/doi/10.1073/pnas.2218380120)
 * [2023-04-24, 20:34:07](https://news.ycombinator.com/item?id=35692829) - [Gorillaz turn the world into a stage with augmented reality](https://blog.google/products/google-ar-vr/gorillaz-maps-music-video/)
 * [2023-04-24, 20:31:35](https://news.ycombinator.com/item?id=35692790) - [Google Reader Revenue Manager](https://readerrevenue.withgoogle.com/)
