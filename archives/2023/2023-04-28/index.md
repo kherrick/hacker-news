@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 15:00:10](https://news.ycombinator.com/item?id=35742106) - [U.S. Rep. Angie Craig drops college requirement for staffers](https://www.kare11.com/article/news/politics/representative-angie-craig-drops-college-requirement-for-staffers/89-ec3eafe5-8714-4683-9c70-cbeb04fd88bb)
 * [2023-04-28, 14:47:31](https://news.ycombinator.com/item?id=35741922) - [I can&#x27;t recommend serious use of an all-in-one local Grafana Loki setup](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiSimpleNotRecommended)
 * [2023-04-28, 14:47:28](https://news.ycombinator.com/item?id=35741921) - [AI Is a Waste of Time](https://www.theatlantic.com/ideas/archive/2023/04/ai-technology-productivity-time-wasting/673880/)
+* [2023-04-28, 14:45:29](https://news.ycombinator.com/item?id=35741892) - [Plan 9 from User Space](https://9fans.github.io/plan9port/)
 * [2023-04-28, 14:37:21](https://news.ycombinator.com/item?id=35741780) - [Oil company ExxonMobil reports record profits of $11.4B](https://www.bbc.com/news/business-65427372)
 * [2023-04-28, 14:30:42](https://news.ycombinator.com/item?id=35741700) - [The Ukrainian police arrested a man for selling data of over 300M people](https://securityaffairs.com/145406/cyber-crime/ukraine-cyber-police-arrested-man.html)
 * [2023-04-28, 14:24:45](https://news.ycombinator.com/item?id=35741626) - [More Young Adults Are Living Paycheck to Paycheck in the US](https://www.bloomberg.com/news/articles/2023-04-28/us-gen-z-living-paycheck-to-paycheck-is-on-the-rise)

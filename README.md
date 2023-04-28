@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-28, 15:00:10](https://news.ycombinator.com/item?id=35742106) - [U.S. Rep. Angie Craig drops college requirement for staffers](https://www.kare11.com/article/news/politics/representative-angie-craig-drops-college-requirement-for-staffers/89-ec3eafe5-8714-4683-9c70-cbeb04fd88bb)
 * [2023-04-28, 14:47:31](https://news.ycombinator.com/item?id=35741922) - [I can&#x27;t recommend serious use of an all-in-one local Grafana Loki setup](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiSimpleNotRecommended)
 * [2023-04-28, 14:47:28](https://news.ycombinator.com/item?id=35741921) - [AI Is a Waste of Time](https://www.theatlantic.com/ideas/archive/2023/04/ai-technology-productivity-time-wasting/673880/)
-* [2023-04-28, 14:37:21](https://news.ycombinator.com/item?id=35741780) - [Oil company ExxonMobil reports record profits of $11.4B](https://www.bbc.com/news/business-65427372)
+* [2023-04-28, 14:45:29](https://news.ycombinator.com/item?id=35741892) - [Plan 9 from User Space](https://9fans.github.io/plan9port/)
 * [2023-04-28, 14:30:42](https://news.ycombinator.com/item?id=35741700) - [The Ukrainian police arrested a man for selling data of over 300M people](https://securityaffairs.com/145406/cyber-crime/ukraine-cyber-police-arrested-man.html)
 * [2023-04-28, 14:24:45](https://news.ycombinator.com/item?id=35741626) - [More Young Adults Are Living Paycheck to Paycheck in the US](https://www.bloomberg.com/news/articles/2023-04-28/us-gen-z-living-paycheck-to-paycheck-is-on-the-rise)
 * [2023-04-28, 14:24:06](https://news.ycombinator.com/item?id=35741609) - [Tech companies are colluding to cheat H1B visa lottery, US says](https://www.wsj.com/articles/u-s-says-some-companies-cheat-h-1b-lottery-driving-record-applications-1a3e4fd)
@@ -23,7 +24,6 @@
 * [2023-04-28, 05:46:40](https://news.ycombinator.com/item?id=35737862) - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 * [2023-04-28, 05:42:14](https://news.ycombinator.com/item?id=35737838) - [Provora: tiny predators that have been evolving separately for millions of years](https://www.salon.com/2022/12/10/nibblerids-provora-new-branch-on-tree-of-life/)
 * [2023-04-28, 04:10:35](https://news.ycombinator.com/item?id=35737397) - [We&#x27;re afraid language models aren&#x27;t modeling ambiguity](https://arxiv.org/abs/2304.14399)
-* [2023-04-28, 03:47:38](https://news.ycombinator.com/item?id=35737284) - [Hidet: A Deep Learning Compiler for Efficient Model Serving](https://pytorch.org/blog/introducing-hidet/)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 * [2023-04-27, 05:20:53](https://news.ycombinator.com/item?id=35723609) - [The Italian farmers saving an ancient fruit with solar power](https://www.bbc.com/future/article/20230424-how-agrivoltaics-helped-save-italys-citron-and-lemon-trees)
 * [2023-04-27, 02:36:50](https://news.ycombinator.com/item?id=35722648) - [Of Sun Ray laptops, MIPS and getting root on them](http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
