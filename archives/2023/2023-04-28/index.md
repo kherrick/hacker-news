@@ -9,6 +9,7 @@
 * [2023-04-28, 12:06:47](https://news.ycombinator.com/item?id=35740277) - [How to spend money on your friends without it looking like bribery](https://billmei.net/blog/bribe-friends)
 * [2023-04-28, 12:01:07](https://news.ycombinator.com/item?id=35740226) - [SiPhox (YC S20) Is Hiring a Lead Microfluidics Engineer](https://www.ycombinator.com/companies/siphox/jobs/HvfcZF9-lead-microfluidics-engineer)
 * [2023-04-28, 11:33:08](https://news.ycombinator.com/item?id=35740001) - [Driver Adventures for a 1999 Webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
+* [2023-04-28, 11:31:42](https://news.ycombinator.com/item?id=35739990) - [Curl 8 Is Faster](https://daniel.haxx.se/blog/2023/04/28/curl-8-is-faster/)
 * [2023-04-28, 11:21:18](https://news.ycombinator.com/item?id=35739906) - [I Cloned Myself with AI. She Fooled My Bank and My Family](https://www.wsj.com/articles/i-cloned-myself-with-ai-she-fooled-my-bank-and-my-family-356bd1a3)
 * [2023-04-28, 10:27:31](https://news.ycombinator.com/item?id=35739519) - [Intel Posts Largest Loss in Its History as Sales Plunge 36%](https://www.tomshardware.com/news/intel-posts-q1-fy-2023-results)
 * [2023-04-28, 09:55:46](https://news.ycombinator.com/item?id=35739352) - [Amazon, scaling back operations in India, omits India in earnings for first time](https://techcrunch.com/2023/04/27/amazon-omits-india-business-in-earnings-a-first-in-years/)
