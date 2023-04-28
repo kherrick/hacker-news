@@ -13,6 +13,7 @@
 * [2023-04-28, 13:08:53](https://news.ycombinator.com/item?id=35740836) - [Gpt4free repo given takedown notice by OpenAI](https://github.com/xtekky/gpt4free)
 * [2023-04-28, 13:03:57](https://news.ycombinator.com/item?id=35740794) - [GameBox is a programmable, turn-based, WebAssembly game platform](https://extism.org/blog/extending-fly-io-distributed-game-system-part-3/)
 * [2023-04-28, 12:52:47](https://news.ycombinator.com/item?id=35740683) - [Exciting SQLite Improvements Since 2020](https://blog.airsequel.com/exciting-sqlite-improvements-since-2020/)
+* [2023-04-28, 12:45:25](https://news.ycombinator.com/item?id=35740613) - [Cuboid: An application-centric, decentralised and distributed computing project](https://github.com/qadron/cuboid)
 * [2023-04-28, 12:43:02](https://news.ycombinator.com/item?id=35740581) - [Many public Salesforce sites are leaking private data](https://krebsonsecurity.com/2023/04/many-public-salesforce-sites-are-leaking-private-data/)
 * [2023-04-28, 12:31:38](https://news.ycombinator.com/item?id=35740494) - [Morse, an open-source interactive tool for inspecting Clojure](https://clojure.org/news/2023/04/28/introducing-morse)
 * [2023-04-28, 12:06:47](https://news.ycombinator.com/item?id=35740277) - [How to spend money on your friends without it looking like bribery](https://billmei.net/blog/bribe-friends)
@@ -27,7 +28,6 @@
 * [2023-04-27, 10:17:41](https://news.ycombinator.com/item?id=35725874) - [Kaffeost – “Coffee Cheese”](https://www.atlasobscura.com/foods/kaffeost)
 * [2023-04-27, 05:20:53](https://news.ycombinator.com/item?id=35723609) - [The Italian farmers saving an ancient fruit with solar power](https://www.bbc.com/future/article/20230424-how-agrivoltaics-helped-save-italys-citron-and-lemon-trees)
 * [2023-04-27, 02:36:50](https://news.ycombinator.com/item?id=35722648) - [Of Sun Ray laptops, MIPS and getting root on them](http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
-* [2023-04-27, 01:56:15](https://news.ycombinator.com/item?id=35722340) - [The Struggle to Make Lab-Grown Meat](https://www.wsj.com/articles/inside-the-struggle-to-make-lab-grown-meat-12cf46ab)
 * [2023-04-26, 17:24:01](https://news.ycombinator.com/item?id=35717167) - [Ask HN: Why do some electronics use 6.2 volts DC?](https://news.ycombinator.com/item?id=35717167)
 * [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 
