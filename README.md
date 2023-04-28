@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-28, 11:33:08](https://news.ycombinator.com/item?id=35740001) - [Driver Adventures for a 1999 Webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 * [2023-04-28, 10:27:31](https://news.ycombinator.com/item?id=35739519) - [Intel Posts Largest Loss in Its History as Sales Plunge 36%](https://www.tomshardware.com/news/intel-posts-q1-fy-2023-results)
 * [2023-04-28, 09:55:46](https://news.ycombinator.com/item?id=35739352) - [Amazon, scaling back operations in India, omits India in earnings for first time](https://techcrunch.com/2023/04/27/amazon-omits-india-business-in-earnings-a-first-in-years/)
 * [2023-04-28, 08:19:47](https://news.ycombinator.com/item?id=35738829) - [Microsoft is to enable Rust use for Windows 11 kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
@@ -13,12 +14,12 @@
 * [2023-04-28, 03:24:33](https://news.ycombinator.com/item?id=35737151) - [Text-to-Audio Generation Using Instruction Tuned LLM and Latent Diffusion Model](https://tango-web.github.io/)
 * [2023-04-27, 22:40:04](https://news.ycombinator.com/item?id=35735415) - [FlipperZero: 1 Month Battery Life with Firmware Update](https://blog.flipperzero.one/1-month-battery-life-with-firmware-update/)
 * [2023-04-27, 21:53:08](https://news.ycombinator.com/item?id=35735076) - [Year of the Voice – Chapter 2: Let&#x27;s talk](https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/)
-* [2023-04-27, 21:00:57](https://news.ycombinator.com/item?id=35734516) - [Firezone (YC W22) is hiring Rust systems engineers (SF &#x2F; US remote)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
 * [2023-04-27, 17:11:23](https://news.ycombinator.com/item?id=35731285) - [European DSA Recipients of Services Report](https://www.apple.com/legal/more-resources/dsa/mt/)
 * [2023-04-27, 16:37:55](https://news.ycombinator.com/item?id=35730711) - [Every web search result in Brave Search is now served by our own index](https://brave.com/search-independence/)
 * [2023-04-27, 16:01:18](https://news.ycombinator.com/item?id=35730075) - [Even Apple employees hate Siri and are skeptical of its future, new report says](https://9to5mac.com/2023/04/27/apple-employees-siri-struggles/)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 * [2023-04-27, 13:40:47](https://news.ycombinator.com/item?id=35727967) - [Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
+* [2023-04-27, 05:20:53](https://news.ycombinator.com/item?id=35723609) - [The Italian farmers saving an ancient fruit with solar power](https://www.bbc.com/future/article/20230424-how-agrivoltaics-helped-save-italys-citron-and-lemon-trees)
 * [2023-04-27, 01:56:15](https://news.ycombinator.com/item?id=35722340) - [The Struggle to Make Lab-Grown Meat](https://www.wsj.com/articles/inside-the-struggle-to-make-lab-grown-meat-12cf46ab)
 * [2023-04-26, 23:36:57](https://news.ycombinator.com/item?id=35721392) - [Family as Machine: Film and Cybernetic Kinship in Suburban America (2017) [pdf]](https://watermark.silverchair.com/grey_a_00212.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtYwggLSBgkqhkiG9w0BBwagggLDMIICvwIBADCCArgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMM2SKuXIwTpS2TZmnAgEQgIICieHGir76r-U4VfTNhyVIwtWCjCcqatYU9SgiUk-d3Vn7awWkai3YE_dxCJlhIzDEPpIsdp_4fbdzEmp04yzxdMqem05ABd63UsegpMY-QRxtgbXte7zakyz8c-3S8ynna6zsB_noRKRdmNhKyhhReAU88jqilFsNTpBFaQ-O678Z2U85RDI_WxAOyrxpRohGR6zSYlkicJ8kEJlKELF1nnHtwPO9K2a0M6GQ56W2JknZQL96bHdIKr9Cwz4cIbqEvw4hVqKhgbdoIDrUx5MmP_hGiomxdxgWe9jD2OUFBvaWIHXvbwp8cSX38ZwWeT0Uv3GNtByrwJtsdbFsk7Z0XePqYuKY3iHXuMprMshcUzT3ms9cBbMbeYX-pMTZRM7Y5yLMKvxWeHs_969D-SHQzvBWFqrytVgj68-ZFzVmDP8CoIMx49TBCp1mfl8aqy_sq5NtUrycTnXT5AHsLp5v3Ebvkzp0QmdcJPSioMPOc0jKvTcpfKk3bEAlOJ-e6seXjDdu4nZG77elKesE3q92DI0kPWp1o_XrwS5nuZ7qoih-54OhRl0loTXHtSpv_gMn-KSCHqurElp_D4FPWBNOYNMQbylf_iuEq7muA_-GTQ0C9KbeXKTrOHPTxRxFAH9wiSb_KLezuB1mgCWsEWFLfZiRGwrxJBo-0r7yBXdEEFSFlx3johcytE1jfe-G1OrjBzM_lElo6VlPAgrLc_tvnvshVJg8WQlxxgYxSQsUjBvrboO0dLMaZgJlrQEDaZbkYaIfE7CI6y3eCml6feqFQw2cRmgGN8UNXfSjrATPnI5-3MWM4spuL49hC3b8jStHo-CUtOcN7Ah2-cKlOb5fsmjAea9oYPNUxFo)
 * [2023-04-26, 22:40:37](https://news.ycombinator.com/item?id=35720940) - [Observable Plot: A JavaScript library for exploratory data visualization](https://observablehq.com/plot)
@@ -27,7 +28,6 @@
 * [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 * [2023-04-26, 07:43:37](https://news.ycombinator.com/item?id=35710605) - [The Test of Prometheus](https://essays.georgestrakhov.com/the-test-of-prometheus/)
 * [2023-04-26, 06:08:48](https://news.ycombinator.com/item?id=35710096) - [Minidisc FAQ: MDLP (“Long-Play”) Mode Topics](https://www.minidisc.org/mdlpfaq.html)
-* [2023-04-26, 03:00:08](https://news.ycombinator.com/item?id=35709248) - [A Winelike Sea](https://www.laphamsquarterly.org/sea/winelike-sea)
 * [2023-04-25, 08:23:23](https://news.ycombinator.com/item?id=35697882) - [Xhtml Friends Network (2003)](http://gmpg.org/xfn/)
 * [2023-04-24, 20:54:06](https://news.ycombinator.com/item?id=35693131) - [Dinner with Proust: how Alzheimer’s caregivers are pulled into patients’ worlds](https://www.theguardian.com/society/2023/feb/28/dinner-with-proust-how-alzheimers-caregivers-are-pulled-into-their-patients-worlds)
 
