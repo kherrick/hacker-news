@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-28, 02:52:59](https://news.ycombinator.com/item?id=35737000) - [Flush your Amazon credentials now](https://auspicacious.org/posts/2023/04/26/flush-amazon-credentials-now/)
 * [2023-04-28, 01:29:34](https://news.ycombinator.com/item?id=35736552) - [Europe to ChatGPT: disclose your sources](https://www.wsj.com/articles/europe-to-chatgpt-disclose-your-sources-863ef330)
 * [2023-04-27, 22:40:04](https://news.ycombinator.com/item?id=35735415) - [FlipperZero: 1 Month Battery Life with Firmware Update](https://blog.flipperzero.one/1-month-battery-life-with-firmware-update/)
-* [2023-04-27, 22:34:16](https://news.ycombinator.com/item?id=35735375) - [LLM with Planning](https://arxiv.org/abs/2304.11477)
 * [2023-04-27, 21:53:08](https://news.ycombinator.com/item?id=35735076) - [Home Assistant’s Year of the Voice – Chapter 2](https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/)
 * [2023-04-27, 21:13:16](https://news.ycombinator.com/item?id=35734685) - [Current architectural best practices for LLM applications](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
 * [2023-04-27, 21:00:57](https://news.ycombinator.com/item?id=35734516) - [Firezone (YC W22) is hiring Rust systems engineers (SF &#x2F; US remote)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
