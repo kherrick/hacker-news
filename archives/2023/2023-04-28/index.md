@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 12:45:25](https://news.ycombinator.com/item?id=35740613) - [Cuboid: An application-centric, decentralised and distributed computing project](https://github.com/qadron/cuboid)
+* [2023-04-28, 12:31:38](https://news.ycombinator.com/item?id=35740494) - [Morse, an open-source interactive tool for inspecting Clojure](https://clojure.org/news/2023/04/28/introducing-morse)
 * [2023-04-28, 12:06:47](https://news.ycombinator.com/item?id=35740277) - [How to spend money on your friends without it looking like bribery](https://billmei.net/blog/bribe-friends)
 * [2023-04-28, 12:01:07](https://news.ycombinator.com/item?id=35740226) - [SiPhox (YC S20) Is Hiring a Lead Microfluidics Engineer](https://www.ycombinator.com/companies/siphox/jobs/HvfcZF9-lead-microfluidics-engineer)
 * [2023-04-28, 11:33:08](https://news.ycombinator.com/item?id=35740001) - [Driver Adventures for a 1999 Webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
