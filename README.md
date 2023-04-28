@@ -2,6 +2,7 @@
 
 * [2023-04-28, 01:29:34](https://news.ycombinator.com/item?id=35736552) - [Europe to ChatGPT: disclose your sources](https://www.wsj.com/articles/europe-to-chatgpt-disclose-your-sources-863ef330)
 * [2023-04-27, 22:40:04](https://news.ycombinator.com/item?id=35735415) - [FlipperZero: 1 Month Battery Life with Firmware Update](https://blog.flipperzero.one/1-month-battery-life-with-firmware-update/)
+* [2023-04-27, 22:34:16](https://news.ycombinator.com/item?id=35735375) - [LLM with Planning](https://arxiv.org/abs/2304.11477)
 * [2023-04-27, 21:53:08](https://news.ycombinator.com/item?id=35735076) - [Home Assistant’s Year of the Voice – Chapter 2](https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/)
 * [2023-04-27, 21:46:27](https://news.ycombinator.com/item?id=35735030) - [Harvey AI raises $21M in a Series A round led by Sequoia](https://www.lawnext.com/2023/04/harvey-ai-raises-21m-in-a-series-a-round-led-by-sequoia.html)
 * [2023-04-27, 21:13:16](https://news.ycombinator.com/item?id=35734685) - [Current architectural best practices for LLM applications](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
@@ -19,7 +20,6 @@
 * [2023-04-27, 15:06:37](https://news.ycombinator.com/item?id=35729260) - [Quicssh: SSH over QUIC](https://github.com/moul/quicssh)
 * [2023-04-27, 13:40:47](https://news.ycombinator.com/item?id=35727967) - [Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
 * [2023-04-27, 13:01:35](https://news.ycombinator.com/item?id=35727408) - [Delphi 11 and C++Builder 11 Community Editions Released](https://blogs.embarcadero.com/delphi-11-and-cbuilder-11-community-editions-released/)
-* [2023-04-27, 11:40:02](https://news.ycombinator.com/item?id=35726559) - [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/)
 * [2023-04-26, 22:40:37](https://news.ycombinator.com/item?id=35720940) - [Observable Plot: The JavaScript library for exploratory data visualization](https://observablehq.com/plot)
 * [2023-04-26, 12:37:25](https://news.ycombinator.com/item?id=35712694) - [Science is a strong-link problem](https://www.experimental-history.com/p/science-is-a-strong-link-problem)
 * [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
