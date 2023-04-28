@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-28, 21:00:35](https://news.ycombinator.com/item?id=35747058) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
+* [2023-04-28, 20:45:05](https://news.ycombinator.com/item?id=35746888) - [Veganism is ‘single biggest way’ to reduce our environmental impact, study finds](https://www.independent.co.uk/life-style/health-and-families/veganism-environmental-impact-planet-reduced-plant-based-diet-humans-study-a8378631.html)
 * [2023-04-28, 19:44:56](https://news.ycombinator.com/item?id=35746177) - [Why I&#x27;m no longer writing stories with AI](https://storiesby.ai/p/why-im-no-longer-writing-stories)
 * [2023-04-28, 19:25:43](https://news.ycombinator.com/item?id=35745968) - [The Difference Between European and American Butter](https://www.epicurious.com/ingredients/difference-between-european-and-american-butter)
 * [2023-04-28, 19:20:03](https://news.ycombinator.com/item?id=35745880) - [Chicken Chicken Chicken: Chicken Chicken (2002) [pdf]](https://isotropic.org/papers/chicken.pdf)
@@ -7,10 +9,8 @@
 * [2023-04-28, 18:50:50](https://news.ycombinator.com/item?id=35745494) - [Runescape gold more valuable than Venezuelan currency (2022)](https://sites.psu.edu/ist110pursel/2022/09/04/15154/)
 * [2023-04-28, 18:03:35](https://news.ycombinator.com/item?id=35744888) - [Is Gmail killing independent email?](https://tutanota.com/blog/posts/gmail-independent-email)
 * [2023-04-28, 17:07:47](https://news.ycombinator.com/item?id=35744130) - [There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
-* [2023-04-28, 17:00:35](https://news.ycombinator.com/item?id=35744018) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-04-28, 16:43:13](https://news.ycombinator.com/item?id=35743778) - [Presentations and pitch decks by failures and frauds](https://www.slidebook.io/blog/article/on-the-road-to-failure/)
 * [2023-04-28, 16:35:04](https://news.ycombinator.com/item?id=35743664) - [Launch Lamini: The LLM Engine for Rapidly Customizing Models as Good as ChatGPT](https://lamini.ai/blog/introducing-lamini)
-* [2023-04-28, 16:06:41](https://news.ycombinator.com/item?id=35743175) - [Daimler is setting up a $650M charging network for commercial EVs](https://arstechnica.com/cars/2023/04/daimler-is-setting-up-a-650-million-charging-network-for-commercial-evs/)
 * [2023-04-28, 15:38:43](https://news.ycombinator.com/item?id=35742606) - [Tell HN: Cloudflare verification is breaking the internet](https://news.ycombinator.com/item?id=35742606)
 * [2023-04-28, 15:30:56](https://news.ycombinator.com/item?id=35742476) - [Check if your IKEA chair is compatible with your screen](https://mastodon.social/@haeckerfelix/110272427676278609)
 * [2023-04-28, 15:00:10](https://news.ycombinator.com/item?id=35742106) - [U.S. Rep. Angie Craig drops college requirement for staffers](https://www.kare11.com/article/news/politics/representative-angie-craig-drops-college-requirement-for-staffers/89-ec3eafe5-8714-4683-9c70-cbeb04fd88bb)
