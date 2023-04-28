@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-28, 14:47:31](https://news.ycombinator.com/item?id=35741922) - [I can&#x27;t recommend serious use of an all-in-one local Grafana Loki setup](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiSimpleNotRecommended)
+* [2023-04-28, 14:47:28](https://news.ycombinator.com/item?id=35741921) - [AI Is a Waste of Time](https://www.theatlantic.com/ideas/archive/2023/04/ai-technology-productivity-time-wasting/673880/)
 * [2023-04-28, 14:37:21](https://news.ycombinator.com/item?id=35741780) - [Oil company ExxonMobil reports record profits of $11.4B](https://www.bbc.com/news/business-65427372)
 * [2023-04-28, 14:30:42](https://news.ycombinator.com/item?id=35741700) - [The Ukrainian police arrested a man for selling data of over 300M people](https://securityaffairs.com/145406/cyber-crime/ukraine-cyber-police-arrested-man.html)
 * [2023-04-28, 14:24:45](https://news.ycombinator.com/item?id=35741626) - [More Young Adults Are Living Paycheck to Paycheck in the US](https://www.bloomberg.com/news/articles/2023-04-28/us-gen-z-living-paycheck-to-paycheck-is-on-the-rise)
@@ -18,7 +19,6 @@
 * [2023-04-28, 11:31:42](https://news.ycombinator.com/item?id=35739990) - [Curl 8 Is Faster](https://daniel.haxx.se/blog/2023/04/28/curl-8-is-faster/)
 * [2023-04-28, 10:27:31](https://news.ycombinator.com/item?id=35739519) - [Intel posts largest loss in its history as sales plunge 36%](https://www.tomshardware.com/news/intel-posts-q1-fy-2023-results)
 * [2023-04-28, 08:19:47](https://news.ycombinator.com/item?id=35738829) - [Microsoft exec says Windows 11 kernel will soon be booting with Rust inside](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
-* [2023-04-28, 06:44:56](https://news.ycombinator.com/item?id=35738231) - [Europe’s Longest Bicycling Tunnel Opens in Norway](https://reasonstobecheerful.world/europes-longest-bicycling-tunnel-opens-in-norway/)
 * [2023-04-28, 05:46:41](https://news.ycombinator.com/item?id=35737863) - [Upward Farms throws in towel ten years after founding vertical-farming business](https://www.just-food.com/news/upward-farms-throws-in-towel-ten-years-after-founding-vertical-farming-business/)
 * [2023-04-28, 05:46:40](https://news.ycombinator.com/item?id=35737862) - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 * [2023-04-28, 05:42:14](https://news.ycombinator.com/item?id=35737838) - [Provora: tiny predators that have been evolving separately for millions of years](https://www.salon.com/2022/12/10/nibblerids-provora-new-branch-on-tree-of-life/)
