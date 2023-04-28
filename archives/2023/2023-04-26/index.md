@@ -53,6 +53,7 @@
 * [2023-04-26, 14:31:59](https://news.ycombinator.com/item?id=35714228) - [Lessons by 3blue1brown](https://www.3blue1brown.com/)
 * [2023-04-26, 14:29:19](https://news.ycombinator.com/item?id=35714194) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-04-26, 14:26:08](https://news.ycombinator.com/item?id=35714145) - [Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer)
+* [2023-04-26, 14:09:29](https://news.ycombinator.com/item?id=35713906) - [An Edible Rechargeable Battery](https://onlinelibrary.wiley.com/doi/10.1002/adma.202211400)
 * [2023-04-26, 14:09:03](https://news.ycombinator.com/item?id=35713894) - [Mastodon Is Doomed](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
 * [2023-04-26, 14:06:12](https://news.ycombinator.com/item?id=35713852) - [Show HN: Learn German with Short Stories](https://webbu.app/german)
 * [2023-04-26, 13:43:31](https://news.ycombinator.com/item?id=35713541) - [How Amazon makes everything you buy more expensive, no matter where you buy it](https://pluralistic.net/2023/04/25/greedflation/)
