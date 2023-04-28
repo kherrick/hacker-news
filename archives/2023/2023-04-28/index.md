@@ -13,6 +13,7 @@
 * [2023-04-28, 06:44:56](https://news.ycombinator.com/item?id=35738231) - [Europe’s Longest Bicycling Tunnel Opens in Norway](https://reasonstobecheerful.world/europes-longest-bicycling-tunnel-opens-in-norway/)
 * [2023-04-28, 05:46:41](https://news.ycombinator.com/item?id=35737863) - [Upward Farms throws in towel ten years after founding vertical-farming business](https://www.just-food.com/news/upward-farms-throws-in-towel-ten-years-after-founding-vertical-farming-business/)
 * [2023-04-28, 05:46:40](https://news.ycombinator.com/item?id=35737862) - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
+* [2023-04-28, 05:42:14](https://news.ycombinator.com/item?id=35737838) - [Provora: tiny predators that have been evolving separately for millions of years](https://www.salon.com/2022/12/10/nibblerids-provora-new-branch-on-tree-of-life/)
 * [2023-04-28, 05:34:30](https://news.ycombinator.com/item?id=35737791) - [Of Sun Ray laptops, MIPS and getting root on them](http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
 * [2023-04-28, 05:08:01](https://news.ycombinator.com/item?id=35737644) - [In San Francisco, one person dies of an accidental overdose every 10 hours](https://www.theguardian.com/us-news/2023/apr/27/overdose-deaths-in-san-francisco-hit-200-in-three-months-a-crying-shame)
 * [2023-04-28, 05:06:00](https://news.ycombinator.com/item?id=35737637) - [Grokking](https://www.domluna.com/grokking/)
