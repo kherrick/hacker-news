@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-29, 18:36:25](https://news.ycombinator.com/item?id=35755747) - [Real Interview Recordings to Help Job Seekers](https://news.ycombinator.com/item?id=35755747)
 * [2023-04-29, 18:24:58](https://news.ycombinator.com/item?id=35755630) - [The Madness in our Methods: Crash of GW9525 and our broken aeromedical system](https://admiralcloudberg.medium.com/the-madness-in-our-methods-the-crash-of-germanwings-flight-9525-and-our-broken-aeromedical-system-5b95abd4fe6d)
 * [2023-04-29, 18:18:16](https://news.ycombinator.com/item?id=35755563) - [The Egison Programming Language](https://www.egison.org/)
 * [2023-04-29, 18:11:00](https://news.ycombinator.com/item?id=35755501) - [BlueSky ToS gives Jack a &#x27;perpetual&#x27; &amp; &#x27;irrevocable&#x27; license to all your content](https://threadreaderapp.com/thread/1651686218319425570.html)
@@ -28,7 +29,6 @@
 * [2023-04-27, 11:26:13](https://news.ycombinator.com/item?id=35726415) - [Learning COBOL: A Journey for the Modern Programmer (2021)](https://monadical.com/posts/cobol.html)
 * [2023-04-27, 10:56:39](https://news.ycombinator.com/item?id=35726183) - [Listening to Satellites: A Journey with My RTL-SDR V3](https://moh53n.medium.com/listening-to-satellites-a-journey-with-my-rtl-sdr-v3-5ba719bc68a5)
 * [2023-04-27, 10:39:11](https://news.ycombinator.com/item?id=35726033) - [Learn C and build your own Lisp (2014)](https://buildyourownlisp.com/contents)
-* [2023-04-26, 09:14:39](https://news.ycombinator.com/item?id=35711196) - [A detailed comparison of REST and gRPC](https://kreya.app/blog/rest-vs-grpc/)
 * [2023-04-26, 08:56:07](https://news.ycombinator.com/item?id=35711067) - [Dethrace: Reverse engineering the 1997 game Carmageddon](https://github.com/dethrace-labs/dethrace)
 
 ## [Archives](archives/index.md)
