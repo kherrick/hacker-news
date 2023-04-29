@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 17:09:09](https://news.ycombinator.com/item?id=35754819) - [Tell HN: I&#x27;m not comfortable with Google Maps showing all my reviews to everyone](https://news.ycombinator.com/item?id=35754819)
 * [2023-04-29, 17:07:24](https://news.ycombinator.com/item?id=35754793) - [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/)
 * [2023-04-29, 17:03:30](https://news.ycombinator.com/item?id=35754762) - [sudo and su Being Rewritten in Rust for Memory Safety](https://www.phoronix.com/news/sudo-su-rewrite-rust)
 * [2023-04-29, 17:01:03](https://news.ycombinator.com/item?id=35754736) - [A reproduction of Elizabeth Twining’s catalog of botanical drawings from 1868](https://www.c82.net/work/?id=373)
