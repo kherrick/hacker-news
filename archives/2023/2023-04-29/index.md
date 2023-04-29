@@ -19,6 +19,7 @@
 * [2023-04-29, 12:54:20](https://news.ycombinator.com/item?id=35752435) - [The Ancient Architecture That Defies Earthquakes](https://nautil.us/the-ancient-architecture-that-defies-earthquakes-301285/)
 * [2023-04-29, 12:53:47](https://news.ycombinator.com/item?id=35752433) - [An Ominous Heating Event Is Unfolding in the Oceans](https://www.wired.com/story/an-ominous-heating-event-is-unfolding-in-the-oceans/)
 * [2023-04-29, 12:44:20](https://news.ycombinator.com/item?id=35752362) - [Infinitely Nested Window Management](https://amadeuspagel.com/p/infinitely-nested-window-management)
+* [2023-04-29, 12:25:38](https://news.ycombinator.com/item?id=35752237) - [Sudo: Remove “This incident will be reported.” from user warnings](https://github.com/sudo-project/sudo/commit/6aa320c96a37613663e8de4c275bd6c490466b01)
 * [2023-04-29, 11:57:22](https://news.ycombinator.com/item?id=35752101) - [On the Effectiveness of Aluminium Foil Helmets: An Empirical Study (2005)](https://web.archive.org/web/20100708230258/http://people.csail.mit.edu/rahimi/helmet/)
 * [2023-04-29, 11:54:30](https://news.ycombinator.com/item?id=35752088) - [The Infancy Gospel of Thomas](http://gnosis.org/library/inftoma.htm)
 * [2023-04-29, 11:23:15](https://news.ycombinator.com/item?id=35751926) - [A Guide to Soap Nuts](https://earthbits.com/blogs/earthbits/a-guide-to-soapnuts-what-are-soap-nuts-and-how-to-use-them)
