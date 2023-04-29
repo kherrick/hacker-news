@@ -9,6 +9,7 @@
 * [2023-04-29, 15:43:11](https://news.ycombinator.com/item?id=35753993) - [Encrypted DMs and other DM upgrades rolling out this week](https://twitter.com/elonmusk/status/1652335652187553794)
 * [2023-04-29, 15:41:51](https://news.ycombinator.com/item?id=35753982) - [The Magic of Rails: exploring the principles and techniques behind the framework](https://speakerdeck.com/eileencodes/the-magic-of-rails)
 * [2023-04-29, 15:38:37](https://news.ycombinator.com/item?id=35753949) - [Deadly Heat Threatens the Well-Being of 1B People in India](https://www.wired.com/story/extreme-heat-india/)
+* [2023-04-29, 15:35:21](https://news.ycombinator.com/item?id=35753907) - [New York set to ban gas furnaces, stoves in new buildings](https://www.politico.com/news/2023/04/28/new-york-ban-gas-furnaces-stoves-new-buildings-00094411)
 * [2023-04-29, 15:27:53](https://news.ycombinator.com/item?id=35753838) - [Children aged 2-6 successfully trained to acquire absolute pitch](https://journals.sagepub.com/doi/abs/10.1177/0305735612463948)
 * [2023-04-29, 15:03:14](https://news.ycombinator.com/item?id=35753550) - [My product is my garden (2020)](https://herman.bearblog.dev/my-product-is-my-garden/)
 * [2023-04-29, 14:20:09](https://news.ycombinator.com/item?id=35753106) - [MRSK: Deploy Web Apps Anywhere](https://mrsk.dev/)
