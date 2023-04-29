@@ -13,7 +13,6 @@
 * [2023-04-28, 22:42:49](https://news.ycombinator.com/item?id=35748052) - [JanOS: Turn your phone into an IoT board (2015)](http://janos.io/)
 * [2023-04-28, 22:13:09](https://news.ycombinator.com/item?id=35747764) - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
 * [2023-04-28, 21:35:46](https://news.ycombinator.com/item?id=35747379) - [Junk drawer phone as a music streaming server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
-* [2023-04-28, 21:00:35](https://news.ycombinator.com/item?id=35747058) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
 * [2023-04-28, 20:40:32](https://news.ycombinator.com/item?id=35746847) - [U.S. regulator set to take over First Republic](https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/)
 * [2023-04-28, 19:25:43](https://news.ycombinator.com/item?id=35745968) - [The Difference Between European and American Butter](https://www.epicurious.com/ingredients/difference-between-european-and-american-butter)
 * [2023-04-28, 18:35:32](https://news.ycombinator.com/item?id=35745293) - [Startup Playbook](https://playbook.samaltman.com/)
@@ -28,6 +27,7 @@
 * [2023-04-27, 16:15:00](https://news.ycombinator.com/item?id=35730327) - [The future of generative AI is niche, not generalized](https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 * [2023-04-27, 12:16:35](https://news.ycombinator.com/item?id=35726905) - [The Canoe Commuters of the CIA (2019)](https://www.mensjournal.com/adventure/declassified-cias-canoe-pool)
+* [2023-04-27, 05:11:44](https://news.ycombinator.com/item?id=35723557) - [Lambda Capabilities](https://roscidus.com/blog/blog/2023/04/26/lambda-capabilities/)
 * [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 * [2023-04-26, 09:14:39](https://news.ycombinator.com/item?id=35711196) - [A detailed comparison of REST and gRPC](https://kreya.app/blog/rest-vs-grpc/)
 
