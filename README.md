@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-29, 11:15:13](https://news.ycombinator.com/item?id=35751887) - [Moon mission failure: why is it so hard to pull off a lunar landing?](https://www.nature.com/articles/d41586-023-01454-7)
-* [2023-04-29, 08:55:12](https://news.ycombinator.com/item?id=35751276) - [Study: ChatGPT Outperforms Physicians in Quality, Empathetic Answers to Patients](https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions)
 * [2023-04-29, 07:42:39](https://news.ycombinator.com/item?id=35750918) - [Italy lifts ban on ChatGPT after data privacy improvements](https://www.dw.com/en/ai-italy-lifts-ban-on-chatgpt-after-data-privacy-improvements/a-65469742)
 * [2023-04-29, 05:42:34](https://news.ycombinator.com/item?id=35750369) - [Deno 1.33: Deno 2 is coming](https://deno.com/blog/v1.33)
 * [2023-04-29, 04:59:14](https://news.ycombinator.com/item?id=35750171) - [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
@@ -28,6 +27,7 @@
 * [2023-04-27, 16:15:00](https://news.ycombinator.com/item?id=35730327) - [The future of generative AI is niche, not generalized](https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 * [2023-04-27, 12:16:35](https://news.ycombinator.com/item?id=35726905) - [The Canoe Commuters of the CIA (2019)](https://www.mensjournal.com/adventure/declassified-cias-canoe-pool)
+* [2023-04-27, 05:11:44](https://news.ycombinator.com/item?id=35723557) - [Lambda Capabilities](https://roscidus.com/blog/blog/2023/04/26/lambda-capabilities/)
 * [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 * [2023-04-26, 09:14:39](https://news.ycombinator.com/item?id=35711196) - [A detailed comparison of REST and gRPC](https://kreya.app/blog/rest-vs-grpc/)
 
