@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 11:57:22](https://news.ycombinator.com/item?id=35752101) - [On the Effectiveness of Aluminium Foil Helmets: An Empirical Study (2005)](https://web.archive.org/web/20100708230258/http://people.csail.mit.edu/rahimi/helmet/)
+* [2023-04-29, 11:54:30](https://news.ycombinator.com/item?id=35752088) - [The Infancy Gospel of Thomas](http://gnosis.org/library/inftoma.htm)
 * [2023-04-29, 11:23:15](https://news.ycombinator.com/item?id=35751926) - [A Guide to Soap Nuts](https://earthbits.com/blogs/earthbits/a-guide-to-soapnuts-what-are-soap-nuts-and-how-to-use-them)
 * [2023-04-29, 11:15:13](https://news.ycombinator.com/item?id=35751887) - [Moon mission failure: why is it so hard to pull off a lunar landing?](https://www.nature.com/articles/d41586-023-01454-7)
 * [2023-04-29, 08:55:12](https://news.ycombinator.com/item?id=35751276) - [Study: ChatGPT Outperforms Physicians in Quality, Empathetic Answers to Patients](https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions)
