@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 21:14:59](https://news.ycombinator.com/item?id=35757268) - [You Are Not Too Old (To Pivot into AI)](https://www.latent.space/p/not-old)
 * [2023-04-29, 20:06:23](https://news.ycombinator.com/item?id=35756639) - [Quebec man who created AI-generated child pornography sentenced to prison](https://www.cbc.ca/news/canada/montreal/ai-child-abuse-images-1.6823808)
 * [2023-04-29, 19:59:39](https://news.ycombinator.com/item?id=35756577) - [XTS-210 25hp rotary engine; 1&#x2F;5th size&#x2F;weight of diesel piston engines](https://www.greencarcongress.com/2023/04/liquidpiston-introduces-xts-210-25hp-heavy-fueled-rotary-engine-15th-size-weight-of-current-diesel-p.html)
 * [2023-04-29, 19:23:41](https://news.ycombinator.com/item?id=35756203) - [The Lifesaving Sled Dog Balto Had Genes Unlike Those of Dog Breeds Today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
@@ -21,6 +22,7 @@
 * [2023-04-29, 17:03:30](https://news.ycombinator.com/item?id=35754762) - [sudo and su Being Rewritten in Rust for Memory Safety](https://www.phoronix.com/news/sudo-su-rewrite-rust)
 * [2023-04-29, 17:01:03](https://news.ycombinator.com/item?id=35754736) - [A reproduction of Elizabeth Twining’s catalog of botanical drawings from 1868](https://www.c82.net/work/?id=373)
 * [2023-04-29, 16:58:38](https://news.ycombinator.com/item?id=35754709) - [GPT-Minus1](https://www.gptminus1.com/)
+* [2023-04-29, 16:56:08](https://news.ycombinator.com/item?id=35754686) - [The long demise of the stretch limousine](https://www.nytimes.com/2023/04/28/business/limo-service-decline.html)
 * [2023-04-29, 16:53:32](https://news.ycombinator.com/item?id=35754656) - [How Not to Write a Microbenchmark (2002)](https://www.slideshare.net/howarddgreen/2002-microbenchmarks)
 * [2023-04-29, 16:53:13](https://news.ycombinator.com/item?id=35754655) - [WebAssembly+WebUSB port of the SANE scanner library](https://github.com/goncalomb/sane-wasm)
 * [2023-04-29, 16:45:07](https://news.ycombinator.com/item?id=35754575) - [Bot that generates videos of old web pages and media files](https://botsin.space/@eternalwanderer/109139220534296800)
