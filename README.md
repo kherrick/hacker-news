@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-29, 21:14:59](https://news.ycombinator.com/item?id=35757268) - [You Are Not Too Old (To Pivot into AI)](https://www.latent.space/p/not-old)
 * [2023-04-29, 19:59:39](https://news.ycombinator.com/item?id=35756577) - [XTS-210 25hp rotary engine; 1&#x2F;5th size&#x2F;weight of diesel piston engines](https://www.greencarcongress.com/2023/04/liquidpiston-introduces-xts-210-25hp-heavy-fueled-rotary-engine-15th-size-weight-of-current-diesel-p.html)
 * [2023-04-29, 19:23:41](https://news.ycombinator.com/item?id=35756203) - [The lifesaving sled dog Balto had genes unlike those of dog breeds today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
 * [2023-04-29, 19:08:56](https://news.ycombinator.com/item?id=35756071) - [The curious side effects of medical transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
@@ -20,6 +19,7 @@
 * [2023-04-29, 12:54:20](https://news.ycombinator.com/item?id=35752435) - [Ancient architecture that defies earthquakes](https://nautil.us/the-ancient-architecture-that-defies-earthquakes-301285/)
 * [2023-04-29, 12:25:38](https://news.ycombinator.com/item?id=35752237) - [Remove “This incident will be reported.” from user warnings](https://github.com/sudo-project/sudo/commit/6aa320c96a37613663e8de4c275bd6c490466b01)
 * [2023-04-29, 11:15:13](https://news.ycombinator.com/item?id=35751887) - [Why is it so hard to pull off a lunar landing?](https://www.nature.com/articles/d41586-023-01454-7)
+* [2023-04-29, 08:55:12](https://news.ycombinator.com/item?id=35751276) - [Study: ChatGPT outperforms physicians in quality, empathetic answers to patients](https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions)
 * [2023-04-28, 19:30:20](https://news.ycombinator.com/item?id=35746022) - [New York to ban natural gas, including stoves, in new buildings](https://www.nytimes.com/2023/04/28/nyregion/gas-stove-ban-ny.html)
 * [2023-04-28, 06:21:27](https://news.ycombinator.com/item?id=35738072) - [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market)
 * [2023-04-28, 02:26:10](https://news.ycombinator.com/item?id=35736872) - [A brief history of LLaMA models](https://agi-sphere.com/llama-models/)
