@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-29, 18:11:00](https://news.ycombinator.com/item?id=35755501) - [BlueSky ToS gives Jack a &#x27;perpetual&#x27; &amp; &#x27;irrevocable&#x27; license to all your content](https://threadreaderapp.com/thread/1651686218319425570.html)
 * [2023-04-29, 17:07:24](https://news.ycombinator.com/item?id=35754793) - [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/)
 * [2023-04-29, 17:03:30](https://news.ycombinator.com/item?id=35754762) - [sudo and su Being Rewritten in Rust for Memory Safety](https://www.phoronix.com/news/sudo-su-rewrite-rust)
 * [2023-04-29, 17:01:03](https://news.ycombinator.com/item?id=35754736) - [A reproduction of Elizabeth Twining’s catalog of botanical drawings from 1868](https://www.c82.net/work/?id=373)
@@ -20,7 +21,6 @@
 * [2023-04-29, 03:26:01](https://news.ycombinator.com/item?id=35749737) - [How to set your domain as your handle](https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial)
 * [2023-04-29, 02:09:17](https://news.ycombinator.com/item?id=35749366) - [Scrcpy: Display and control your Android devices connected over USB or TCP&#x2F;IP](https://github.com/Genymobile/scrcpy)
 * [2023-04-28, 19:30:20](https://news.ycombinator.com/item?id=35746022) - [New York to ban natural gas, including stoves, in new buildings](https://www.nytimes.com/2023/04/28/nyregion/gas-stove-ban-ny.html)
-* [2023-04-28, 11:28:13](https://news.ycombinator.com/item?id=35739961) - [Too many people take too many pills](https://www.economist.com/science-and-technology/2023/04/26/too-many-people-take-too-many-pills)
 * [2023-04-28, 09:00:15](https://news.ycombinator.com/item?id=35739036) - [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger)
 * [2023-04-28, 06:21:27](https://news.ycombinator.com/item?id=35738072) - [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market)
 * [2023-04-28, 03:43:48](https://news.ycombinator.com/item?id=35737255) - [Ernest Hemingway vs. William Faulkner (2017)](https://edamurray.com/2017/03/02/ernest-hemingway-vs-william-faulkner-literary-celebrity-feud/)

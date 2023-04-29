@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 18:11:00](https://news.ycombinator.com/item?id=35755501) - [BlueSky ToS gives Jack a &#x27;perpetual&#x27; &amp; &#x27;irrevocable&#x27; license to all your content](https://threadreaderapp.com/thread/1651686218319425570.html)
 * [2023-04-29, 17:09:09](https://news.ycombinator.com/item?id=35754819) - [Tell HN: I&#x27;m not comfortable with Google Maps showing all my reviews to everyone](https://news.ycombinator.com/item?id=35754819)
 * [2023-04-29, 17:07:24](https://news.ycombinator.com/item?id=35754793) - [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/)
 * [2023-04-29, 17:03:30](https://news.ycombinator.com/item?id=35754762) - [sudo and su Being Rewritten in Rust for Memory Safety](https://www.phoronix.com/news/sudo-su-rewrite-rust)
