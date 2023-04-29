@@ -1,12 +1,72 @@
 [
   [
     [
-      "2023-04-29, 16:06:29",
-      "https://news.ycombinator.com/item?id=35754207"
+      "2023-04-29, 17:07:24",
+      "https://news.ycombinator.com/item?id=35754793"
     ],
     [
-      "Show HN: A Gentle Introduction to the Fediverse",
-      "https://jointhefediverse.net/"
+      "Get The TLDR Of Any YouTube Video",
+      "https://www.you-tldr.com/"
+    ]
+  ],
+  [
+    [
+      "2023-04-29, 17:03:30",
+      "https://news.ycombinator.com/item?id=35754762"
+    ],
+    [
+      "sudo and su Being Rewritten in Rust for Memory Safety",
+      "https://www.phoronix.com/news/sudo-su-rewrite-rust"
+    ]
+  ],
+  [
+    [
+      "2023-04-29, 17:01:03",
+      "https://news.ycombinator.com/item?id=35754736"
+    ],
+    [
+      "A reproduction of Elizabeth Twining’s catalog of botanical drawings from 1868",
+      "https://www.c82.net/work/?id=373"
+    ]
+  ],
+  [
+    [
+      "2023-04-29, 16:58:38",
+      "https://news.ycombinator.com/item?id=35754709"
+    ],
+    [
+      "GPT-Minus1",
+      "https://www.gptminus1.com/"
+    ]
+  ],
+  [
+    [
+      "2023-04-29, 16:53:32",
+      "https://news.ycombinator.com/item?id=35754656"
+    ],
+    [
+      "How Not to Write a Microbenchmark (2002)",
+      "https://www.slideshare.net/howarddgreen/2002-microbenchmarks"
+    ]
+  ],
+  [
+    [
+      "2023-04-29, 16:53:13",
+      "https://news.ycombinator.com/item?id=35754655"
+    ],
+    [
+      "WebAssembly+WebUSB port of the SANE scanner library",
+      "https://github.com/goncalomb/sane-wasm"
+    ]
+  ],
+  [
+    [
+      "2023-04-29, 16:45:07",
+      "https://news.ycombinator.com/item?id=35754575"
+    ],
+    [
+      "Bot that generates videos of old web pages and media files",
+      "https://botsin.space/@eternalwanderer/109139220534296800"
     ]
   ],
   [
@@ -151,26 +211,6 @@
   ],
   [
     [
-      "2023-04-29, 05:42:34",
-      "https://news.ycombinator.com/item?id=35750369"
-    ],
-    [
-      "Deno 1.33: Deno 2 is coming",
-      "https://deno.com/blog/v1.33"
-    ]
-  ],
-  [
-    [
-      "2023-04-29, 04:59:14",
-      "https://news.ycombinator.com/item?id=35750171"
-    ],
-    [
-      "Academic Ranks Explained or What on Earth Is an Adjunct?",
-      "https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/"
-    ]
-  ],
-  [
-    [
       "2023-04-29, 04:57:44",
       "https://news.ycombinator.com/item?id=35750165"
     ],
@@ -201,42 +241,12 @@
   ],
   [
     [
-      "2023-04-29, 01:33:13",
-      "https://news.ycombinator.com/item?id=35749130"
-    ],
-    [
-      "Live Starlink Satellite and Coverage Map",
-      "https://satellitemap.space/"
-    ]
-  ],
-  [
-    [
-      "2023-04-28, 09:00:15",
-      "https://news.ycombinator.com/item?id=35739036"
-    ],
-    [
-      "Eytzinger Binary Search",
-      "https://algorithmica.org/en/eytzinger"
-    ]
-  ],
-  [
-    [
       "2023-04-28, 06:21:27",
       "https://news.ycombinator.com/item?id=35738072"
     ],
     [
       "The State of Serverless GPUs",
       "https://www.inferless.com/serverless-gpu-market"
-    ]
-  ],
-  [
-    [
-      "2023-04-28, 05:32:18",
-      "https://news.ycombinator.com/item?id=35737780"
-    ],
-    [
-      "A New Type of Furniture ESD and Its Implications (1993) [pdf]",
-      "https://emcesd.com/pdf/eos93.pdf"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Transplanting the Mac’s Central Processor: Gary Davidian’s 68000 Emulator (2020)",
       "https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/"
-    ]
-  ],
-  [
-    [
-      "2023-04-27, 23:21:03",
-      "https://news.ycombinator.com/item?id=35735763"
-    ],
-    [
-      "Why Oatmeal Is Cheap: Kolmogorov Complexity and Procedural Generation [pdf]",
-      "https://knivesandpaintbrushes.org/projects/why-oatmeal-is-cheap/why_oatmeal_is_cheap_fdg2023.pdf"
     ]
   ],
   [
