@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 13:32:38](https://news.ycombinator.com/item?id=35752719) - [We Aren&#x27;t Close to Creating a Rapidly Self-Improving AI](https://jacobbuckman.substack.com/p/we-arent-close-to-creating-a-rapidly)
+* [2023-04-29, 13:31:31](https://news.ycombinator.com/item?id=35752714) - [The DOJ Detected the SolarWinds Hack 6 Months Earlier Than First Disclosed](https://www.wired.com/story/solarwinds-hack-public-disclosure/)
 * [2023-04-29, 12:53:47](https://news.ycombinator.com/item?id=35752433) - [An Ominous Heating Event Is Unfolding in the Oceans](https://www.wired.com/story/an-ominous-heating-event-is-unfolding-in-the-oceans/)
 * [2023-04-29, 12:44:20](https://news.ycombinator.com/item?id=35752362) - [Infinitely Nested Window Management](https://amadeuspagel.com/p/infinitely-nested-window-management)
 * [2023-04-29, 11:57:22](https://news.ycombinator.com/item?id=35752101) - [On the Effectiveness of Aluminium Foil Helmets: An Empirical Study (2005)](https://web.archive.org/web/20100708230258/http://people.csail.mit.edu/rahimi/helmet/)
