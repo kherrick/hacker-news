@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-29, 13:32:38](https://news.ycombinator.com/item?id=35752719) - [We Aren&#x27;t Close to Creating a Rapidly Self-Improving AI](https://jacobbuckman.substack.com/p/we-arent-close-to-creating-a-rapidly)
+* [2023-04-29, 13:32:38](https://news.ycombinator.com/item?id=35752719) - [We aren&#x27;t close to creating a rapidly self-improving AI](https://jacobbuckman.substack.com/p/we-arent-close-to-creating-a-rapidly)
 * [2023-04-29, 13:31:31](https://news.ycombinator.com/item?id=35752714) - [The DOJ Detected the SolarWinds Hack 6 Months Earlier Than First Disclosed](https://www.wired.com/story/solarwinds-hack-public-disclosure/)
 * [2023-04-29, 12:53:47](https://news.ycombinator.com/item?id=35752433) - [An Ominous Heating Event Is Unfolding in the Oceans](https://www.wired.com/story/an-ominous-heating-event-is-unfolding-in-the-oceans/)
 * [2023-04-29, 12:44:20](https://news.ycombinator.com/item?id=35752362) - [Infinitely Nested Window Management](https://amadeuspagel.com/p/infinitely-nested-window-management)
@@ -26,7 +26,7 @@
 * [2023-04-27, 21:20:48](https://news.ycombinator.com/item?id=35734775) - [High-res image reconstruction, latent diffusion models from human brain activity](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v3)
 * [2023-04-27, 16:15:00](https://news.ycombinator.com/item?id=35730327) - [The future of generative AI is niche, not generalized](https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
-* [2023-04-27, 10:39:11](https://news.ycombinator.com/item?id=35726033) - [Build Your Own Lisp](https://buildyourownlisp.com/contents)
+* [2023-04-27, 10:39:11](https://news.ycombinator.com/item?id=35726033) - [Learn C and build your own Lisp (2014)](https://buildyourownlisp.com/contents)
 * [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 * [2023-04-26, 09:14:39](https://news.ycombinator.com/item?id=35711196) - [A detailed comparison of REST and gRPC](https://kreya.app/blog/rest-vs-grpc/)
 * [2023-04-26, 08:56:07](https://news.ycombinator.com/item?id=35711067) - [Dethrace: Reverse engineering the 1997 game Carmageddon](https://github.com/dethrace-labs/dethrace)
