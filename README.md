@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-29, 19:23:41](https://news.ycombinator.com/item?id=35756203) - [The Lifesaving Sled Dog Balto Had Genes Unlike Those of Dog Breeds Today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
+* [2023-04-29, 19:08:56](https://news.ycombinator.com/item?id=35756071) - [The Curious Side Effects of Medical Transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
 * [2023-04-29, 19:01:21](https://news.ycombinator.com/item?id=35755964) - [Germany will start one of the most affordable public transit offers in the world](https://twitter.com/BloombergTV/status/1652342136363266055)
 * [2023-04-29, 18:36:25](https://news.ycombinator.com/item?id=35755747) - [Real Interview Recordings to Help Job Seekers](https://news.ycombinator.com/item?id=35755747)
 * [2023-04-29, 18:24:58](https://news.ycombinator.com/item?id=35755630) - [The Madness in our Methods: Crash of GW9525 and our broken aeromedical system](https://admiralcloudberg.medium.com/the-madness-in-our-methods-the-crash-of-germanwings-flight-9525-and-our-broken-aeromedical-system-5b95abd4fe6d)
@@ -19,9 +21,7 @@
 * [2023-04-29, 12:54:20](https://news.ycombinator.com/item?id=35752435) - [Ancient architecture that defies earthquakes](https://nautil.us/the-ancient-architecture-that-defies-earthquakes-301285/)
 * [2023-04-29, 12:25:38](https://news.ycombinator.com/item?id=35752237) - [Remove “This incident will be reported.” from user warnings](https://github.com/sudo-project/sudo/commit/6aa320c96a37613663e8de4c275bd6c490466b01)
 * [2023-04-29, 08:55:12](https://news.ycombinator.com/item?id=35751276) - [Study: ChatGPT outperforms physicians in quality, empathetic answers to patients](https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions)
-* [2023-04-29, 04:59:14](https://news.ycombinator.com/item?id=35750171) - [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
 * [2023-04-29, 04:57:44](https://news.ycombinator.com/item?id=35750165) - [Internet in a Box](https://internet-in-a-box.org/)
-* [2023-04-29, 02:09:17](https://news.ycombinator.com/item?id=35749366) - [Scrcpy: Display and control your Android devices connected over USB or TCP&#x2F;IP](https://github.com/Genymobile/scrcpy)
 * [2023-04-28, 19:30:20](https://news.ycombinator.com/item?id=35746022) - [New York to ban natural gas, including stoves, in new buildings](https://www.nytimes.com/2023/04/28/nyregion/gas-stove-ban-ny.html)
 * [2023-04-28, 03:43:48](https://news.ycombinator.com/item?id=35737255) - [Ernest Hemingway vs. William Faulkner (2017)](https://edamurray.com/2017/03/02/ernest-hemingway-vs-william-faulkner-literary-celebrity-feud/)
 * [2023-04-28, 01:44:22](https://news.ycombinator.com/item?id=35736629) - [Transplanting the Mac’s Central Processor: Gary Davidian’s 68000 Emulator (2020)](https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/)
