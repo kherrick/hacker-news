@@ -2,11 +2,11 @@
 
 * [2023-04-29, 21:15:55](https://news.ycombinator.com/item?id=35757277) - [Windows ARM Dev Kit 2023](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581)
 * [2023-04-29, 21:02:08](https://news.ycombinator.com/item?id=35757150) - [Awesome Music Theory: books, links, videos, research, visuals, composition](https://github.com/vpavlenko/study-music)
+* [2023-04-29, 20:52:55](https://news.ycombinator.com/item?id=35757072) - [MIT engineers “grow” atomically thin transistors on top of computer chips](https://news.mit.edu/2023/mit-engineers-2d-materials-computer-chips-0427)
 * [2023-04-29, 19:59:39](https://news.ycombinator.com/item?id=35756577) - [XTS-210 25hp rotary engine; 1&#x2F;5th size&#x2F;weight of diesel piston engines](https://www.greencarcongress.com/2023/04/liquidpiston-introduces-xts-210-25hp-heavy-fueled-rotary-engine-15th-size-weight-of-current-diesel-p.html)
 * [2023-04-29, 19:23:41](https://news.ycombinator.com/item?id=35756203) - [The lifesaving sled dog Balto had genes unlike those of dog breeds today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
 * [2023-04-29, 19:08:56](https://news.ycombinator.com/item?id=35756071) - [The curious side effects of medical transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
 * [2023-04-29, 18:47:12](https://news.ycombinator.com/item?id=35755841) - [Sensenmann: Code Deletion at Scale](https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html)
-* [2023-04-29, 18:36:25](https://news.ycombinator.com/item?id=35755747) - [Real interview recordings to help job seekers](https://news.ycombinator.com/item?id=35755747)
 * [2023-04-29, 18:24:58](https://news.ycombinator.com/item?id=35755630) - [The Madness in our Methods: Crash of GW9525 and our broken aeromedical system](https://admiralcloudberg.medium.com/the-madness-in-our-methods-the-crash-of-germanwings-flight-9525-and-our-broken-aeromedical-system-5b95abd4fe6d)
 * [2023-04-29, 18:18:16](https://news.ycombinator.com/item?id=35755563) - [The Egison Programming Language](https://www.egison.org/)
 * [2023-04-29, 17:07:24](https://news.ycombinator.com/item?id=35754793) - [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/)
