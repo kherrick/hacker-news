@@ -2,6 +2,7 @@
 
 * [2023-04-29, 22:49:14](https://news.ycombinator.com/item?id=35758031) - [Show HN: All GitHub repos shared on HN](https://news.ycombinator.com/from?site=github.com)
 * [2023-04-29, 22:17:36](https://news.ycombinator.com/item?id=35757802) - [Revealing example of self-attention, the building block of transformer AI models](https://github.com/jostmey/NakedAttention)
+* [2023-04-29, 21:44:07](https://news.ycombinator.com/item?id=35757529) - [Passkeys.directory](https://passkeys.directory/)
 * [2023-04-29, 21:15:55](https://news.ycombinator.com/item?id=35757277) - [Windows ARM Dev Kit 2023](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581)
 * [2023-04-29, 21:02:08](https://news.ycombinator.com/item?id=35757150) - [Awesome Music Theory: books, links, videos, research, visuals, composition](https://github.com/vpavlenko/study-music)
 * [2023-04-29, 19:59:39](https://news.ycombinator.com/item?id=35756577) - [XTS-210 25hp rotary engine; 1&#x2F;5th size&#x2F;weight of diesel piston engines](https://www.greencarcongress.com/2023/04/liquidpiston-introduces-xts-210-25hp-heavy-fueled-rotary-engine-15th-size-weight-of-current-diesel-p.html)
@@ -22,7 +23,6 @@
 * [2023-04-29, 12:54:20](https://news.ycombinator.com/item?id=35752435) - [Ancient architecture that defies earthquakes](https://nautil.us/the-ancient-architecture-that-defies-earthquakes-301285/)
 * [2023-04-29, 12:25:38](https://news.ycombinator.com/item?id=35752237) - [Remove “This incident will be reported.” from user warnings](https://github.com/sudo-project/sudo/commit/6aa320c96a37613663e8de4c275bd6c490466b01)
 * [2023-04-28, 21:54:38](https://news.ycombinator.com/item?id=35747563) - [Polaroid’s Showman](https://www.cabinetmagazine.org/kiosk/allen_jonathan_isenbart_jan_03_march_2023.php)
-* [2023-04-28, 19:30:20](https://news.ycombinator.com/item?id=35746022) - [New York to ban natural gas, including stoves, in new buildings](https://www.nytimes.com/2023/04/28/nyregion/gas-stove-ban-ny.html)
 * [2023-04-28, 10:43:50](https://news.ycombinator.com/item?id=35739629) - [Fibonacci Hashing: An Optimization that the World Forgot](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
 * [2023-04-28, 06:21:27](https://news.ycombinator.com/item?id=35738072) - [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market)
 * [2023-04-28, 02:26:10](https://news.ycombinator.com/item?id=35736872) - [A brief history of LLaMA models](https://agi-sphere.com/llama-models/)
