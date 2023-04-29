@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-29, 13:32:38",
+      "https://news.ycombinator.com/item?id=35752719"
+    ],
+    [
+      "We Aren&#x27;t Close to Creating a Rapidly Self-Improving AI",
+      "https://jacobbuckman.substack.com/p/we-arent-close-to-creating-a-rapidly"
+    ]
+  ],
+  [
+    [
+      "2023-04-29, 13:31:31",
+      "https://news.ycombinator.com/item?id=35752714"
+    ],
+    [
+      "The DOJ Detected the SolarWinds Hack 6 Months Earlier Than First Disclosed",
+      "https://www.wired.com/story/solarwinds-hack-public-disclosure/"
+    ]
+  ],
+  [
+    [
       "2023-04-29, 12:53:47",
       "https://news.ycombinator.com/item?id=35752433"
     ],
@@ -17,6 +37,26 @@
     [
       "Infinitely Nested Window Management",
       "https://amadeuspagel.com/p/infinitely-nested-window-management"
+    ]
+  ],
+  [
+    [
+      "2023-04-29, 11:15:13",
+      "https://news.ycombinator.com/item?id=35751887"
+    ],
+    [
+      "Moon mission failure: why is it so hard to pull off a lunar landing?",
+      "https://www.nature.com/articles/d41586-023-01454-7"
+    ]
+  ],
+  [
+    [
+      "2023-04-29, 08:55:12",
+      "https://news.ycombinator.com/item?id=35751276"
+    ],
+    [
+      "Study: ChatGPT Outperforms Physicians in Quality, Empathetic Answers to Patients",
+      "https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions"
     ]
   ],
   [
@@ -71,6 +111,16 @@
   ],
   [
     [
+      "2023-04-29, 03:26:01",
+      "https://news.ycombinator.com/item?id=35749737"
+    ],
+    [
+      "How to set your domain as your handle",
+      "https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial"
+    ]
+  ],
+  [
+    [
       "2023-04-29, 02:56:12",
       "https://news.ycombinator.com/item?id=35749594"
     ],
@@ -121,52 +171,12 @@
   ],
   [
     [
-      "2023-04-28, 21:35:46",
-      "https://news.ycombinator.com/item?id=35747379"
-    ],
-    [
-      "Junk drawer phone as a music streaming server",
-      "https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/"
-    ]
-  ],
-  [
-    [
       "2023-04-28, 20:40:32",
       "https://news.ycombinator.com/item?id=35746847"
     ],
     [
       "U.S. regulator set to take over First Republic",
       "https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/"
-    ]
-  ],
-  [
-    [
-      "2023-04-28, 19:25:43",
-      "https://news.ycombinator.com/item?id=35745968"
-    ],
-    [
-      "The Difference Between European and American Butter",
-      "https://www.epicurious.com/ingredients/difference-between-european-and-american-butter"
-    ]
-  ],
-  [
-    [
-      "2023-04-28, 18:35:32",
-      "https://news.ycombinator.com/item?id=35745293"
-    ],
-    [
-      "Startup Playbook",
-      "https://playbook.samaltman.com/"
-    ]
-  ],
-  [
-    [
-      "2023-04-28, 18:03:35",
-      "https://news.ycombinator.com/item?id=35744888"
-    ],
-    [
-      "Is Gmail killing independent email?",
-      "https://tutanota.com/blog/posts/gmail-independent-email"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2023-04-28, 00:30:30",
-      "https://news.ycombinator.com/item?id=35736200"
-    ],
-    [
-      "Cymatics: Science vs. Music – Nigel Stanford",
-      "https://www.youtube.com/watch?v=Q3oItpVa9fs"
-    ]
-  ],
-  [
-    [
       "2023-04-27, 23:21:03",
       "https://news.ycombinator.com/item?id=35735763"
     ],
@@ -261,21 +261,11 @@
   ],
   [
     [
-      "2023-04-27, 12:16:35",
-      "https://news.ycombinator.com/item?id=35726905"
-    ],
-    [
-      "The Canoe Commuters of the CIA (2019)",
-      "https://www.mensjournal.com/adventure/declassified-cias-canoe-pool"
-    ]
-  ],
-  [
-    [
       "2023-04-27, 10:39:11",
       "https://news.ycombinator.com/item?id=35726033"
     ],
     [
-      "Contents • Build Your Own Lisp",
+      "Build Your Own Lisp",
       "https://buildyourownlisp.com/contents"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "A detailed comparison of REST and gRPC",
       "https://kreya.app/blog/rest-vs-grpc/"
+    ]
+  ],
+  [
+    [
+      "2023-04-26, 08:56:07",
+      "https://news.ycombinator.com/item?id=35711067"
+    ],
+    [
+      "Dethrace: Reverse engineering the 1997 game Carmageddon",
+      "https://github.com/dethrace-labs/dethrace"
     ]
   ]
 ]
