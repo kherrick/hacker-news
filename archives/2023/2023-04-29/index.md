@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
 * [2023-04-29, 03:32:49](https://news.ycombinator.com/item?id=35749763) - [50% of vinyl buyers don&#x27;t own a record player](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)
+* [2023-04-29, 03:26:01](https://news.ycombinator.com/item?id=35749737) - [How to set your domain as your handle](https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial)
 * [2023-04-29, 02:56:12](https://news.ycombinator.com/item?id=35749594) - [sipcalc: IPv4 and IPv6 Subnet Calculator](https://github.com/sii/sipcalc)
 * [2023-04-29, 02:11:43](https://news.ycombinator.com/item?id=35749382) - [Old smartphones should be usable as single board computers, just like this one](https://arstechnica.com/gadgets/2023/04/old-phones-can-be-single-board-computers-as-this-mini-music-server-proves/)
 * [2023-04-29, 02:09:17](https://news.ycombinator.com/item?id=35749366) - [Scrcpy: Display and control your Android devices connected over USB or TCP&#x2F;IP](https://github.com/Genymobile/scrcpy)
