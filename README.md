@@ -2,7 +2,6 @@
 
 * [2023-04-29, 02:11:43](https://news.ycombinator.com/item?id=35749382) - [Old smartphones should be usable as single board computers, just like this one](https://arstechnica.com/gadgets/2023/04/old-phones-can-be-single-board-computers-as-this-mini-music-server-proves/)
 * [2023-04-29, 02:09:17](https://news.ycombinator.com/item?id=35749366) - [Scrcpy: Display and control your Android devices connected over USB or TCP&#x2F;IP](https://github.com/Genymobile/scrcpy)
-* [2023-04-29, 01:59:29](https://news.ycombinator.com/item?id=35749302) - [Britain Is Dead](https://www.palladiummag.com/2023/04/27/britain-is-dead/)
 * [2023-04-29, 01:33:13](https://news.ycombinator.com/item?id=35749130) - [Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
 * [2023-04-29, 01:03:38](https://news.ycombinator.com/item?id=35748972) - [Apple Drops Suit Against Ex-Chip Exec Williams Who Started Nuvia](https://www.bloomberg.com/news/articles/2023-04-29/apple-drops-suit-against-ex-chip-exec-williams-who-started-nuvia)
 * [2023-04-28, 22:49:28](https://news.ycombinator.com/item?id=35748115) - [Parrondo&#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
@@ -23,6 +22,7 @@
 * [2023-04-28, 12:52:47](https://news.ycombinator.com/item?id=35740683) - [Exciting SQLite Improvements Since 2020](https://blog.airsequel.com/exciting-sqlite-improvements-since-2020/)
 * [2023-04-28, 12:43:02](https://news.ycombinator.com/item?id=35740581) - [Many public Salesforce sites are leaking private data](https://krebsonsecurity.com/2023/04/many-public-salesforce-sites-are-leaking-private-data/)
 * [2023-04-28, 12:31:38](https://news.ycombinator.com/item?id=35740494) - [Morse, an open-source interactive tool for inspecting Clojure](https://clojure.org/news/2023/04/28/introducing-morse)
+* [2023-04-28, 11:33:08](https://news.ycombinator.com/item?id=35740001) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 * [2023-04-27, 21:20:48](https://news.ycombinator.com/item?id=35734775) - [High-res image reconstruction, latent diffusion models from human brain activity](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v3)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 * [2023-04-27, 12:16:35](https://news.ycombinator.com/item?id=35726905) - [The Canoe Commuters of the CIA (2019)](https://www.mensjournal.com/adventure/declassified-cias-canoe-pool)
