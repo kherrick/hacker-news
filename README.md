@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-29, 03:32:49](https://news.ycombinator.com/item?id=35749763) - [50% of vinyl buyers don&#x27;t own a record player](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)
 * [2023-04-29, 02:11:43](https://news.ycombinator.com/item?id=35749382) - [Old smartphones should be usable as single board computers, just like this one](https://arstechnica.com/gadgets/2023/04/old-phones-can-be-single-board-computers-as-this-mini-music-server-proves/)
 * [2023-04-29, 02:09:17](https://news.ycombinator.com/item?id=35749366) - [Scrcpy: Display and control your Android devices connected over USB or TCP&#x2F;IP](https://github.com/Genymobile/scrcpy)
 * [2023-04-29, 01:33:13](https://news.ycombinator.com/item?id=35749130) - [Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
@@ -22,13 +23,12 @@
 * [2023-04-28, 12:52:47](https://news.ycombinator.com/item?id=35740683) - [Exciting SQLite Improvements Since 2020](https://blog.airsequel.com/exciting-sqlite-improvements-since-2020/)
 * [2023-04-28, 12:43:02](https://news.ycombinator.com/item?id=35740581) - [Many public Salesforce sites are leaking private data](https://krebsonsecurity.com/2023/04/many-public-salesforce-sites-are-leaking-private-data/)
 * [2023-04-28, 12:31:38](https://news.ycombinator.com/item?id=35740494) - [Morse, an open-source interactive tool for inspecting Clojure](https://clojure.org/news/2023/04/28/introducing-morse)
-* [2023-04-28, 11:33:08](https://news.ycombinator.com/item?id=35740001) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
+* [2023-04-28, 00:30:30](https://news.ycombinator.com/item?id=35736200) - [Cymatics: Science vs. Music – Nigel Stanford](https://www.youtube.com/watch?v=Q3oItpVa9fs)
 * [2023-04-27, 21:20:48](https://news.ycombinator.com/item?id=35734775) - [High-res image reconstruction, latent diffusion models from human brain activity](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v3)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 * [2023-04-27, 12:16:35](https://news.ycombinator.com/item?id=35726905) - [The Canoe Commuters of the CIA (2019)](https://www.mensjournal.com/adventure/declassified-cias-canoe-pool)
 * [2023-04-27, 05:11:44](https://news.ycombinator.com/item?id=35723557) - [Lambda Capabilities](https://roscidus.com/blog/blog/2023/04/26/lambda-capabilities/)
 * [2023-04-27, 02:36:50](https://news.ycombinator.com/item?id=35722648) - [Of Sun Ray laptops, MIPS and getting root on them](http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
-* [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 * [2023-04-26, 08:57:51](https://news.ycombinator.com/item?id=35711078) - [LattePanda Announces Sigma, a &#x27;Hackable Single Board Server&#x27;](https://www.tomshardware.com/news/lattepanda-announces-sigma-a-hackable-single-board-server)
 
 ## [Archives](archives/index.md)
