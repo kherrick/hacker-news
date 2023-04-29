@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 07:42:39](https://news.ycombinator.com/item?id=35750918) - [Italy lifts ban on ChatGPT after data privacy improvements](https://www.dw.com/en/ai-italy-lifts-ban-on-chatgpt-after-data-privacy-improvements/a-65469742)
 * [2023-04-29, 06:35:50](https://news.ycombinator.com/item?id=35750585) - [Ask HN: How is Starlink kept secure?](https://news.ycombinator.com/item?id=35750585)
 * [2023-04-29, 05:42:34](https://news.ycombinator.com/item?id=35750369) - [Deno 1.33: Deno 2 is coming](https://deno.com/blog/v1.33)
 * [2023-04-29, 04:59:14](https://news.ycombinator.com/item?id=35750171) - [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-29, 07:42:39](https://news.ycombinator.com/item?id=35750918) - [Italy lifts ban on ChatGPT after data privacy improvements](https://www.dw.com/en/ai-italy-lifts-ban-on-chatgpt-after-data-privacy-improvements/a-65469742)
 * [2023-04-29, 05:42:34](https://news.ycombinator.com/item?id=35750369) - [Deno 1.33: Deno 2 is coming](https://deno.com/blog/v1.33)
 * [2023-04-29, 04:59:14](https://news.ycombinator.com/item?id=35750171) - [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
 * [2023-04-29, 04:57:44](https://news.ycombinator.com/item?id=35750165) - [Internet in a Box](https://internet-in-a-box.org/)
@@ -19,7 +20,6 @@
 * [2023-04-28, 18:35:32](https://news.ycombinator.com/item?id=35745293) - [Startup Playbook](https://playbook.samaltman.com/)
 * [2023-04-28, 18:03:35](https://news.ycombinator.com/item?id=35744888) - [Is Gmail killing independent email?](https://tutanota.com/blog/posts/gmail-independent-email)
 * [2023-04-28, 17:07:47](https://news.ycombinator.com/item?id=35744130) - [There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
-* [2023-04-28, 11:33:08](https://news.ycombinator.com/item?id=35740001) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 * [2023-04-28, 09:00:15](https://news.ycombinator.com/item?id=35739036) - [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger)
 * [2023-04-28, 05:32:18](https://news.ycombinator.com/item?id=35737780) - [A New Type of Furniture ESD and Its Implications (1993) [pdf]](https://emcesd.com/pdf/eos93.pdf)
 * [2023-04-28, 00:30:30](https://news.ycombinator.com/item?id=35736200) - [Cymatics: Science vs. Music – Nigel Stanford](https://www.youtube.com/watch?v=Q3oItpVa9fs)
