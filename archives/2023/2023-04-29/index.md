@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 15:27:53](https://news.ycombinator.com/item?id=35753838) - [Children aged 2-6 successfully trained to acquire absolute pitch](https://journals.sagepub.com/doi/abs/10.1177/0305735612463948)
 * [2023-04-29, 15:03:14](https://news.ycombinator.com/item?id=35753550) - [My product is my garden (2020)](https://herman.bearblog.dev/my-product-is-my-garden/)
 * [2023-04-29, 14:20:09](https://news.ycombinator.com/item?id=35753106) - [MRSK: Deploy Web Apps Anywhere](https://mrsk.dev/)
 * [2023-04-29, 13:51:12](https://news.ycombinator.com/item?id=35752845) - [Bitcoin Legal Defense Fund is fighting for the future of open source software](https://techcrunch.com/2023/04/28/jack-dorseys-bitcoin-legal-defense-fund-goes-to-court-to-protect-open-source/)
