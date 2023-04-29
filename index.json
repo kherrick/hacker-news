@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-29, 17:09:09",
+      "https://news.ycombinator.com/item?id=35754819"
+    ],
+    [
+      "Tell HN: I&#x27;m not comfortable with Google Maps showing all my reviews to everyone",
+      "https://news.ycombinator.com/item?id=35754819"
+    ]
+  ],
+  [
+    [
       "2023-04-29, 17:07:24",
       "https://news.ycombinator.com/item?id=35754793"
     ],
@@ -27,16 +37,6 @@
     [
       "A reproduction of Elizabeth Twining’s catalog of botanical drawings from 1868",
       "https://www.c82.net/work/?id=373"
-    ]
-  ],
-  [
-    [
-      "2023-04-29, 16:58:38",
-      "https://news.ycombinator.com/item?id=35754709"
-    ],
-    [
-      "GPT-Minus1",
-      "https://www.gptminus1.com/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Lawmakers propose banning AI from singlehandedly launching nuclear weapons",
       "https://www.theverge.com/2023/4/28/23702992/ai-nuclear-weapon-launch-ban-bill-markey-lieu-beyer-buck"
-    ]
-  ],
-  [
-    [
-      "2023-04-29, 15:43:11",
-      "https://news.ycombinator.com/item?id=35753993"
-    ],
-    [
-      "Encrypted DMs and other DM upgrades rolling out this week",
-      "https://twitter.com/elonmusk/status/1652335652187553794"
     ]
   ],
   [
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=35753106"
     ],
     [
-      "MRSK: Deploy Web Apps Anywhere",
+      "MRSK: Deploy web apps anywhere",
       "https://mrsk.dev/"
     ]
   ],
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=35752237"
     ],
     [
-      "Sudo: Remove “This incident will be reported.” from user warnings",
+      "Remove “This incident will be reported.” from user warnings",
       "https://github.com/sudo-project/sudo/commit/6aa320c96a37613663e8de4c275bd6c490466b01"
     ]
   ],
@@ -237,6 +227,16 @@
     [
       "Scrcpy: Display and control your Android devices connected over USB or TCP&#x2F;IP",
       "https://github.com/Genymobile/scrcpy"
+    ]
+  ],
+  [
+    [
+      "2023-04-28, 09:00:15",
+      "https://news.ycombinator.com/item?id=35739036"
+    ],
+    [
+      "Eytzinger Binary Search",
+      "https://algorithmica.org/en/eytzinger"
     ]
   ],
   [
