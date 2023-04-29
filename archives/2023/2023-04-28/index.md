@@ -8,6 +8,7 @@
 * [2023-04-28, 22:42:49](https://news.ycombinator.com/item?id=35748052) - [JanOS: Turn your phone into an IoT board](http://janos.io/)
 * [2023-04-28, 22:26:44](https://news.ycombinator.com/item?id=35747896) - [Red Hat layoffs spark calls to unionize, CEO wades in](https://www.theregister.com/2023/04/28/red_hat_layoffs_union/)
 * [2023-04-28, 22:13:09](https://news.ycombinator.com/item?id=35747764) - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
+* [2023-04-28, 21:47:03](https://news.ycombinator.com/item?id=35747480) - [JavaScript private class fields considered harmful](https://lea.verou.me/2023/04/private-fields-considered-harmful/)
 * [2023-04-28, 21:39:48](https://news.ycombinator.com/item?id=35747417) - [Ocean Warming Study So Distressing, Some Scientists Didn&#x27;t Want to Talk About It](https://www.commondreams.org/news/ocean-warming-study)
 * [2023-04-28, 21:35:46](https://news.ycombinator.com/item?id=35747379) - [Junk Drawer Phone as a Music Streaming Server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-28, 21:00:35](https://news.ycombinator.com/item?id=35747058) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
