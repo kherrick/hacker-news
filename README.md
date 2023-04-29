@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-29, 15:03:14](https://news.ycombinator.com/item?id=35753550) - [My product is my garden (2020)](https://herman.bearblog.dev/my-product-is-my-garden/)
+* [2023-04-29, 14:20:09](https://news.ycombinator.com/item?id=35753106) - [MRSK: Deploy Web Apps Anywhere](https://mrsk.dev/)
 * [2023-04-29, 13:51:12](https://news.ycombinator.com/item?id=35752845) - [Bitcoin Legal Defense Fund is fighting for the future of open source software](https://techcrunch.com/2023/04/28/jack-dorseys-bitcoin-legal-defense-fund-goes-to-court-to-protect-open-source/)
 * [2023-04-29, 13:38:12](https://news.ycombinator.com/item?id=35752756) - [Termux is an Android terminal emulator and Linux environment app](https://termux.dev/en/)
 * [2023-04-29, 13:32:38](https://news.ycombinator.com/item?id=35752719) - [We aren&#x27;t close to creating a rapidly self-improving AI](https://jacobbuckman.substack.com/p/we-arent-close-to-creating-a-rapidly)
@@ -17,7 +18,6 @@
 * [2023-04-29, 03:26:01](https://news.ycombinator.com/item?id=35749737) - [How to set your domain as your handle](https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial)
 * [2023-04-29, 02:09:17](https://news.ycombinator.com/item?id=35749366) - [Scrcpy: Display and control your Android devices connected over USB or TCP&#x2F;IP](https://github.com/Genymobile/scrcpy)
 * [2023-04-29, 01:33:13](https://news.ycombinator.com/item?id=35749130) - [Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
-* [2023-04-28, 21:35:46](https://news.ycombinator.com/item?id=35747379) - [Junk drawer phone as a music streaming server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-28, 20:40:32](https://news.ycombinator.com/item?id=35746847) - [U.S. regulator set to take over First Republic](https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/)
 * [2023-04-28, 09:00:15](https://news.ycombinator.com/item?id=35739036) - [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger)
 * [2023-04-28, 06:21:27](https://news.ycombinator.com/item?id=35738072) - [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market)
