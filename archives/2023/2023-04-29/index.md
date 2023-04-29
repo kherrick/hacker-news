@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 22:17:36](https://news.ycombinator.com/item?id=35757802) - [Revealing example of self-attention, the building block of transformer AI models](https://github.com/jostmey/NakedAttention)
 * [2023-04-29, 21:15:55](https://news.ycombinator.com/item?id=35757277) - [Windows ARM Dev Kit 2023](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581)
 * [2023-04-29, 21:14:59](https://news.ycombinator.com/item?id=35757268) - [You Are Not Too Old (To Pivot into AI)](https://www.latent.space/p/not-old)
 * [2023-04-29, 21:02:08](https://news.ycombinator.com/item?id=35757150) - [Awesome Music Theory: books, links, videos, research, visuals, composition](https://github.com/vpavlenko/study-music)
