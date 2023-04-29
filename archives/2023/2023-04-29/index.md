@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 17:07:24](https://news.ycombinator.com/item?id=35754793) - [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/)
+* [2023-04-29, 17:03:30](https://news.ycombinator.com/item?id=35754762) - [sudo and su Being Rewritten in Rust for Memory Safety](https://www.phoronix.com/news/sudo-su-rewrite-rust)
+* [2023-04-29, 17:01:03](https://news.ycombinator.com/item?id=35754736) - [A reproduction of Elizabeth Twining’s catalog of botanical drawings from 1868](https://www.c82.net/work/?id=373)
+* [2023-04-29, 16:58:38](https://news.ycombinator.com/item?id=35754709) - [GPT-Minus1](https://www.gptminus1.com/)
+* [2023-04-29, 16:53:32](https://news.ycombinator.com/item?id=35754656) - [How Not to Write a Microbenchmark (2002)](https://www.slideshare.net/howarddgreen/2002-microbenchmarks)
+* [2023-04-29, 16:53:13](https://news.ycombinator.com/item?id=35754655) - [WebAssembly+WebUSB port of the SANE scanner library](https://github.com/goncalomb/sane-wasm)
+* [2023-04-29, 16:45:07](https://news.ycombinator.com/item?id=35754575) - [Bot that generates videos of old web pages and media files](https://botsin.space/@eternalwanderer/109139220534296800)
 * [2023-04-29, 16:06:29](https://news.ycombinator.com/item?id=35754207) - [Show HN: A Gentle Introduction to the Fediverse](https://jointhefediverse.net/)
 * [2023-04-29, 15:59:40](https://news.ycombinator.com/item?id=35754138) - [Lawmakers propose banning AI from singlehandedly launching nuclear weapons](https://www.theverge.com/2023/4/28/23702992/ai-nuclear-weapon-launch-ban-bill-markey-lieu-beyer-buck)
 * [2023-04-29, 15:43:11](https://news.ycombinator.com/item?id=35753993) - [Encrypted DMs and other DM upgrades rolling out this week](https://twitter.com/elonmusk/status/1652335652187553794)
