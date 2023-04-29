@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-29, 04:59:14](https://news.ycombinator.com/item?id=35750171) - [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
 * [2023-04-29, 04:57:44](https://news.ycombinator.com/item?id=35750165) - [Internet in a Box](https://internet-in-a-box.org/)
 * [2023-04-29, 03:32:49](https://news.ycombinator.com/item?id=35749763) - [Half of vinyl buyers in the U.S. don’t have a record player: study](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)
 * [2023-04-29, 03:26:01](https://news.ycombinator.com/item?id=35749737) - [How to set your domain as your handle](https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial)
@@ -14,7 +15,6 @@
 * [2023-04-28, 21:00:35](https://news.ycombinator.com/item?id=35747058) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
 * [2023-04-28, 20:40:32](https://news.ycombinator.com/item?id=35746847) - [U.S. regulator set to take over First Republic](https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/)
 * [2023-04-28, 19:25:43](https://news.ycombinator.com/item?id=35745968) - [The Difference Between European and American Butter](https://www.epicurious.com/ingredients/difference-between-european-and-american-butter)
-* [2023-04-28, 19:09:04](https://news.ycombinator.com/item?id=35745719) - [Show HN: I made a retro game archive for Polish games](https://polishpixels.com)
 * [2023-04-28, 18:35:32](https://news.ycombinator.com/item?id=35745293) - [Startup Playbook](https://playbook.samaltman.com/)
 * [2023-04-28, 18:03:35](https://news.ycombinator.com/item?id=35744888) - [Is Gmail killing independent email?](https://tutanota.com/blog/posts/gmail-independent-email)
 * [2023-04-28, 17:07:47](https://news.ycombinator.com/item?id=35744130) - [There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
