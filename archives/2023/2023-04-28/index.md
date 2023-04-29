@@ -63,6 +63,7 @@
 * [2023-04-28, 11:31:42](https://news.ycombinator.com/item?id=35739990) - [Curl 8 Is Faster](https://daniel.haxx.se/blog/2023/04/28/curl-8-is-faster/)
 * [2023-04-28, 11:28:13](https://news.ycombinator.com/item?id=35739961) - [Too many people take too many pills](https://www.economist.com/science-and-technology/2023/04/26/too-many-people-take-too-many-pills)
 * [2023-04-28, 11:21:18](https://news.ycombinator.com/item?id=35739906) - [I Cloned Myself with AI. She Fooled My Bank and My Family](https://www.wsj.com/articles/i-cloned-myself-with-ai-she-fooled-my-bank-and-my-family-356bd1a3)
+* [2023-04-28, 10:43:50](https://news.ycombinator.com/item?id=35739629) - [Fibonacci Hashing: An Optimization that the World Forgot](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
 * [2023-04-28, 10:27:31](https://news.ycombinator.com/item?id=35739519) - [Intel Posts Largest Loss in Its History as Sales Plunge 36%](https://www.tomshardware.com/news/intel-posts-q1-fy-2023-results)
 * [2023-04-28, 09:55:46](https://news.ycombinator.com/item?id=35739352) - [Amazon, scaling back operations in India, omits India in earnings for first time](https://techcrunch.com/2023/04/27/amazon-omits-india-business-in-earnings-a-first-in-years/)
 * [2023-04-28, 09:00:15](https://news.ycombinator.com/item?id=35739036) - [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-29, 22:49:14](https://news.ycombinator.com/item?id=35758031) - [Show HN: All GitHub repos shared on HN](https://news.ycombinator.com/from?site=github.com)
 * [2023-04-29, 22:17:36](https://news.ycombinator.com/item?id=35757802) - [Revealing example of self-attention, the building block of transformer AI models](https://github.com/jostmey/NakedAttention)
 * [2023-04-29, 21:15:55](https://news.ycombinator.com/item?id=35757277) - [Windows ARM Dev Kit 2023](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581)
 * [2023-04-29, 21:02:08](https://news.ycombinator.com/item?id=35757150) - [Awesome Music Theory: books, links, videos, research, visuals, composition](https://github.com/vpavlenko/study-music)
@@ -20,14 +21,13 @@
 * [2023-04-29, 13:38:12](https://news.ycombinator.com/item?id=35752756) - [Termux is an Android terminal emulator and Linux environment app](https://termux.dev/en/)
 * [2023-04-29, 12:54:20](https://news.ycombinator.com/item?id=35752435) - [Ancient architecture that defies earthquakes](https://nautil.us/the-ancient-architecture-that-defies-earthquakes-301285/)
 * [2023-04-29, 12:25:38](https://news.ycombinator.com/item?id=35752237) - [Remove “This incident will be reported.” from user warnings](https://github.com/sudo-project/sudo/commit/6aa320c96a37613663e8de4c275bd6c490466b01)
-* [2023-04-29, 11:15:13](https://news.ycombinator.com/item?id=35751887) - [Why is it so hard to pull off a lunar landing?](https://www.nature.com/articles/d41586-023-01454-7)
 * [2023-04-28, 21:54:38](https://news.ycombinator.com/item?id=35747563) - [Polaroid’s Showman](https://www.cabinetmagazine.org/kiosk/allen_jonathan_isenbart_jan_03_march_2023.php)
 * [2023-04-28, 19:30:20](https://news.ycombinator.com/item?id=35746022) - [New York to ban natural gas, including stoves, in new buildings](https://www.nytimes.com/2023/04/28/nyregion/gas-stove-ban-ny.html)
+* [2023-04-28, 10:43:50](https://news.ycombinator.com/item?id=35739629) - [Fibonacci Hashing: An Optimization that the World Forgot](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
 * [2023-04-28, 06:21:27](https://news.ycombinator.com/item?id=35738072) - [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market)
 * [2023-04-28, 02:26:10](https://news.ycombinator.com/item?id=35736872) - [A brief history of LLaMA models](https://agi-sphere.com/llama-models/)
 * [2023-04-27, 11:26:13](https://news.ycombinator.com/item?id=35726415) - [Learning COBOL: A Journey for the Modern Programmer (2021)](https://monadical.com/posts/cobol.html)
 * [2023-04-27, 10:56:39](https://news.ycombinator.com/item?id=35726183) - [Listening to Satellites: A Journey with My RTL-SDR V3](https://moh53n.medium.com/listening-to-satellites-a-journey-with-my-rtl-sdr-v3-5ba719bc68a5)
-* [2023-04-27, 10:39:11](https://news.ycombinator.com/item?id=35726033) - [Learn C and build your own Lisp (2014)](https://buildyourownlisp.com/contents)
 * [2023-04-26, 22:58:07](https://news.ycombinator.com/item?id=35721084) - [All that was mortal: Walking through the Protestant Cemetery in Rome](https://www.laphamsquarterly.org/roundtable/all-was-mortal)
 * [2023-04-26, 08:56:07](https://news.ycombinator.com/item?id=35711067) - [Dethrace: Reverse engineering the 1997 game Carmageddon](https://github.com/dethrace-labs/dethrace)
 
