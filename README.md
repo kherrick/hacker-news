@@ -27,8 +27,8 @@
 * [2023-04-27, 21:20:48](https://news.ycombinator.com/item?id=35734775) - [High-res image reconstruction, latent diffusion models from human brain activity](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v3)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 * [2023-04-27, 12:16:35](https://news.ycombinator.com/item?id=35726905) - [The Canoe Commuters of the CIA (2019)](https://www.mensjournal.com/adventure/declassified-cias-canoe-pool)
+* [2023-04-27, 05:11:44](https://news.ycombinator.com/item?id=35723557) - [Lambda Capabilities](https://roscidus.com/blog/blog/2023/04/26/lambda-capabilities/)
 * [2023-04-27, 02:36:50](https://news.ycombinator.com/item?id=35722648) - [Of Sun Ray laptops, MIPS and getting root on them](http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
-* [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
 * [2023-04-26, 08:57:51](https://news.ycombinator.com/item?id=35711078) - [LattePanda Announces Sigma, a &#x27;Hackable Single Board Server&#x27;](https://www.tomshardware.com/news/lattepanda-announces-sigma-a-hackable-single-board-server)
 
 ## [Archives](archives/index.md)
