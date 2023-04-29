@@ -86,6 +86,7 @@
 * [2023-04-26, 09:33:39](https://news.ycombinator.com/item?id=35711317) - [We need female mice in neuroscience research](https://news.harvard.edu/gazette/story/2023/03/study-confirms-why-we-need-female-mice-in-neuroscience-research/)
 * [2023-04-26, 09:30:54](https://news.ycombinator.com/item?id=35711296) - [The lesson about the end of nuclear in Germany](https://jeromeaparis.substack.com/p/the-real-lesson-about-the-end-of)
 * [2023-04-26, 09:25:23](https://news.ycombinator.com/item?id=35711256) - [Ask HN: Anyone else having issues with GCP right now?](https://news.ycombinator.com/item?id=35711256)
+* [2023-04-26, 09:14:39](https://news.ycombinator.com/item?id=35711196) - [A detailed comparison of REST and gRPC](https://kreya.app/blog/rest-vs-grpc/)
 * [2023-04-26, 09:02:45](https://news.ycombinator.com/item?id=35711111) - [Why Silicon Valley is bringing eugenics back](https://www.disconnect.blog/p/why-silicon-valley-is-bringing-eugenics)
 * [2023-04-26, 08:57:51](https://news.ycombinator.com/item?id=35711078) - [LattePanda Announces Sigma, a &#x27;Hackable Single Board Server&#x27;](https://www.tomshardware.com/news/lattepanda-announces-sigma-a-hackable-single-board-server)
 * [2023-04-26, 08:48:42](https://news.ycombinator.com/item?id=35711013) - [Neutralinojs – Build lightweight cross-platform desktop apps with JavaScript](https://neutralino.js.org/docs/)
