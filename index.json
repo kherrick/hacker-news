@@ -211,22 +211,12 @@
   ],
   [
     [
-      "2023-04-28, 12:43:02",
-      "https://news.ycombinator.com/item?id=35740581"
+      "2023-04-28, 11:33:08",
+      "https://news.ycombinator.com/item?id=35740001"
     ],
     [
-      "Many public Salesforce sites are leaking private data",
-      "https://krebsonsecurity.com/2023/04/many-public-salesforce-sites-are-leaking-private-data/"
-    ]
-  ],
-  [
-    [
-      "2023-04-28, 12:31:38",
-      "https://news.ycombinator.com/item?id=35740494"
-    ],
-    [
-      "Morse, an open-source interactive tool for inspecting Clojure",
-      "https://clojure.org/news/2023/04/28/introducing-morse"
+      "Driver adventures for a 1999 webcam",
+      "https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Of Sun Ray laptops, MIPS and getting root on them",
       "http://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-26, 11:45:38",
+      "https://news.ycombinator.com/item?id=35712163"
+    ],
+    [
+      "Show HN: ScrapScript – A tiny functional language for sharable software",
+      "https://scrapscript.org"
     ]
   ],
   [
