@@ -19,6 +19,7 @@
 * [2023-04-29, 01:33:13](https://news.ycombinator.com/item?id=35749130) - [Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
 * [2023-04-28, 20:40:32](https://news.ycombinator.com/item?id=35746847) - [U.S. regulator set to take over First Republic](https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/)
 * [2023-04-28, 09:00:15](https://news.ycombinator.com/item?id=35739036) - [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger)
+* [2023-04-28, 06:21:27](https://news.ycombinator.com/item?id=35738072) - [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market)
 * [2023-04-28, 05:32:18](https://news.ycombinator.com/item?id=35737780) - [A New Type of Furniture ESD and Its Implications (1993) [pdf]](https://emcesd.com/pdf/eos93.pdf)
 * [2023-04-28, 05:02:13](https://news.ycombinator.com/item?id=35737613) - [Dell Latitude 5411: the Linux compatibility sweet spot](https://ounapuu.ee/posts/2023/04/28/dell-latitude-5411/)
 * [2023-04-28, 03:12:19](https://news.ycombinator.com/item?id=35737085) - [Even Sega knows it&#x27;d only win the console war in a dystopia](https://www.gamesradar.com/even-sega-knows-itd-only-win-the-console-war-in-a-dystopia/)
@@ -28,7 +29,6 @@
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 * [2023-04-27, 10:39:11](https://news.ycombinator.com/item?id=35726033) - [Learn C and build your own Lisp (2014)](https://buildyourownlisp.com/contents)
 * [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
-* [2023-04-26, 09:14:39](https://news.ycombinator.com/item?id=35711196) - [A detailed comparison of REST and gRPC](https://kreya.app/blog/rest-vs-grpc/)
 * [2023-04-26, 08:56:07](https://news.ycombinator.com/item?id=35711067) - [Dethrace: Reverse engineering the 1997 game Carmageddon](https://github.com/dethrace-labs/dethrace)
 
 ## [Archives](archives/index.md)

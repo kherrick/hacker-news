@@ -66,6 +66,7 @@
 * [2023-04-28, 08:19:47](https://news.ycombinator.com/item?id=35738829) - [Microsoft is to enable Rust use for Windows 11 kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
 * [2023-04-28, 07:48:52](https://news.ycombinator.com/item?id=35738645) - [Udemy to pay $4M to settle a case alleging it advertised fake discounts](https://twitter.com/RobertFreundLaw/status/1651760647871561728)
 * [2023-04-28, 06:44:56](https://news.ycombinator.com/item?id=35738231) - [Europe’s Longest Bicycling Tunnel Opens in Norway](https://reasonstobecheerful.world/europes-longest-bicycling-tunnel-opens-in-norway/)
+* [2023-04-28, 06:21:27](https://news.ycombinator.com/item?id=35738072) - [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market)
 * [2023-04-28, 05:48:36](https://news.ycombinator.com/item?id=35737877) - [Recycled denim: a breakthrough?](https://www.voguebusiness.com/sustainability/recycled-denim-have-pangaia-and-evrnu-made-a-big-breakthrough)
 * [2023-04-28, 05:48:05](https://news.ycombinator.com/item?id=35737874) - [Tattoo HIStories: The Skin Collector (2020)](https://blog.eikondevice.com/post/tattoo-histories-the-skin-collector-fukushi-masaichi-1878-1956)
 * [2023-04-28, 05:46:41](https://news.ycombinator.com/item?id=35737863) - [Upward Farms throws in towel ten years after founding vertical-farming business](https://www.just-food.com/news/upward-farms-throws-in-towel-ten-years-after-founding-vertical-farming-business/)
