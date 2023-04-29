@@ -20,6 +20,7 @@
 * [2023-04-28, 18:35:32](https://news.ycombinator.com/item?id=35745293) - [Startup Playbook](https://playbook.samaltman.com/)
 * [2023-04-28, 18:03:35](https://news.ycombinator.com/item?id=35744888) - [Is Gmail killing independent email?](https://tutanota.com/blog/posts/gmail-independent-email)
 * [2023-04-28, 17:07:47](https://news.ycombinator.com/item?id=35744130) - [There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
+* [2023-04-28, 11:33:08](https://news.ycombinator.com/item?id=35740001) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 * [2023-04-28, 09:00:15](https://news.ycombinator.com/item?id=35739036) - [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger)
 * [2023-04-28, 05:32:18](https://news.ycombinator.com/item?id=35737780) - [A New Type of Furniture ESD and Its Implications (1993) [pdf]](https://emcesd.com/pdf/eos93.pdf)
 * [2023-04-28, 00:30:30](https://news.ycombinator.com/item?id=35736200) - [Cymatics: Science vs. Music – Nigel Stanford](https://www.youtube.com/watch?v=Q3oItpVa9fs)
@@ -29,7 +30,6 @@
 * [2023-04-27, 12:16:35](https://news.ycombinator.com/item?id=35726905) - [The Canoe Commuters of the CIA (2019)](https://www.mensjournal.com/adventure/declassified-cias-canoe-pool)
 * [2023-04-27, 05:11:44](https://news.ycombinator.com/item?id=35723557) - [Lambda Capabilities](https://roscidus.com/blog/blog/2023/04/26/lambda-capabilities/)
 * [2023-04-26, 11:45:38](https://news.ycombinator.com/item?id=35712163) - [Show HN: ScrapScript – A tiny functional language for sharable software](https://scrapscript.org)
-* [2023-04-26, 08:57:51](https://news.ycombinator.com/item?id=35711078) - [LattePanda Announces Sigma, a &#x27;Hackable Single Board Server&#x27;](https://www.tomshardware.com/news/lattepanda-announces-sigma-a-hackable-single-board-server)
 
 ## [Archives](archives/index.md)
 
