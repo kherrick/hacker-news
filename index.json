@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-04-29, 22:49:14",
-      "https://news.ycombinator.com/item?id=35758031"
-    ],
-    [
-      "Show HN: All GitHub repos shared on HN",
-      "https://news.ycombinator.com/from?site=github.com"
-    ]
-  ],
-  [
-    [
       "2023-04-29, 22:17:36",
       "https://news.ycombinator.com/item?id=35757802"
     ],
@@ -21,22 +11,22 @@
   ],
   [
     [
+      "2023-04-29, 22:01:39",
+      "https://news.ycombinator.com/item?id=35757689"
+    ],
+    [
+      "I decided to outsource my entire personal financial life to GPT-4",
+      "https://twitter.com/jbrowder1/status/1652387444904583169"
+    ]
+  ],
+  [
+    [
       "2023-04-29, 21:44:07",
       "https://news.ycombinator.com/item?id=35757529"
     ],
     [
       "Passkeys.directory",
       "https://passkeys.directory/"
-    ]
-  ],
-  [
-    [
-      "2023-04-29, 21:15:55",
-      "https://news.ycombinator.com/item?id=35757277"
-    ],
-    [
-      "Windows ARM Dev Kit 2023",
-      "https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2023-04-29, 11:15:13",
+      "https://news.ycombinator.com/item?id=35751887"
+    ],
+    [
+      "Why is it so hard to pull off a lunar landing?",
+      "https://www.nature.com/articles/d41586-023-01454-7"
+    ]
+  ],
+  [
+    [
       "2023-04-28, 21:54:38",
       "https://news.ycombinator.com/item?id=35747563"
     ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=35739629"
     ],
     [
-      "Fibonacci Hashing: An Optimization that the World Forgot",
+      "Fibonacci Hashing: An optimization that the world forgot (2018)",
       "https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/"
     ]
   ],
