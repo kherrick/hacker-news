@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 21:15:55](https://news.ycombinator.com/item?id=35757277) - [Windows ARM Dev Kit 2023](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581)
 * [2023-04-29, 21:14:59](https://news.ycombinator.com/item?id=35757268) - [You Are Not Too Old (To Pivot into AI)](https://www.latent.space/p/not-old)
+* [2023-04-29, 21:02:08](https://news.ycombinator.com/item?id=35757150) - [Awesome Music Theory: books, links, videos, research, visuals, composition](https://github.com/vpavlenko/study-music)
 * [2023-04-29, 20:06:23](https://news.ycombinator.com/item?id=35756639) - [Quebec man who created AI-generated child pornography sentenced to prison](https://www.cbc.ca/news/canada/montreal/ai-child-abuse-images-1.6823808)
 * [2023-04-29, 19:59:39](https://news.ycombinator.com/item?id=35756577) - [XTS-210 25hp rotary engine; 1&#x2F;5th size&#x2F;weight of diesel piston engines](https://www.greencarcongress.com/2023/04/liquidpiston-introduces-xts-210-25hp-heavy-fueled-rotary-engine-15th-size-weight-of-current-diesel-p.html)
 * [2023-04-29, 19:23:41](https://news.ycombinator.com/item?id=35756203) - [The Lifesaving Sled Dog Balto Had Genes Unlike Those of Dog Breeds Today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
