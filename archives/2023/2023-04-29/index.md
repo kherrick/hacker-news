@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 20:06:23](https://news.ycombinator.com/item?id=35756639) - [Quebec man who created AI-generated child pornography sentenced to prison](https://www.cbc.ca/news/canada/montreal/ai-child-abuse-images-1.6823808)
 * [2023-04-29, 19:59:39](https://news.ycombinator.com/item?id=35756577) - [XTS-210 25hp rotary engine; 1&#x2F;5th size&#x2F;weight of diesel piston engines](https://www.greencarcongress.com/2023/04/liquidpiston-introduces-xts-210-25hp-heavy-fueled-rotary-engine-15th-size-weight-of-current-diesel-p.html)
 * [2023-04-29, 19:23:41](https://news.ycombinator.com/item?id=35756203) - [The Lifesaving Sled Dog Balto Had Genes Unlike Those of Dog Breeds Today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
 * [2023-04-29, 19:08:56](https://news.ycombinator.com/item?id=35756071) - [The Curious Side Effects of Medical Transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
