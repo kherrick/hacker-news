@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 11:23:15](https://news.ycombinator.com/item?id=35751926) - [A Guide to Soap Nuts](https://earthbits.com/blogs/earthbits/a-guide-to-soapnuts-what-are-soap-nuts-and-how-to-use-them)
 * [2023-04-29, 11:15:13](https://news.ycombinator.com/item?id=35751887) - [Moon mission failure: why is it so hard to pull off a lunar landing?](https://www.nature.com/articles/d41586-023-01454-7)
 * [2023-04-29, 08:55:12](https://news.ycombinator.com/item?id=35751276) - [Study: ChatGPT Outperforms Physicians in Quality, Empathetic Answers to Patients](https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions)
 * [2023-04-29, 07:42:39](https://news.ycombinator.com/item?id=35750918) - [Italy lifts ban on ChatGPT after data privacy improvements](https://www.dw.com/en/ai-italy-lifts-ban-on-chatgpt-after-data-privacy-improvements/a-65469742)
