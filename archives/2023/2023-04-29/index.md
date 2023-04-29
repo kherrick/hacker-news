@@ -6,6 +6,7 @@
 
 * [2023-04-29, 22:49:14](https://news.ycombinator.com/item?id=35758031) - [Show HN: All GitHub repos shared on HN](https://news.ycombinator.com/from?site=github.com)
 * [2023-04-29, 22:17:36](https://news.ycombinator.com/item?id=35757802) - [Revealing example of self-attention, the building block of transformer AI models](https://github.com/jostmey/NakedAttention)
+* [2023-04-29, 22:01:39](https://news.ycombinator.com/item?id=35757689) - [I decided to outsource my entire personal financial life to GPT-4](https://twitter.com/jbrowder1/status/1652387444904583169)
 * [2023-04-29, 21:44:07](https://news.ycombinator.com/item?id=35757529) - [Passkeys.directory](https://passkeys.directory/)
 * [2023-04-29, 21:15:55](https://news.ycombinator.com/item?id=35757277) - [Windows ARM Dev Kit 2023](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581)
 * [2023-04-29, 21:14:59](https://news.ycombinator.com/item?id=35757268) - [You Are Not Too Old (To Pivot into AI)](https://www.latent.space/p/not-old)
