@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-29, 06:35:50](https://news.ycombinator.com/item?id=35750585) - [Ask HN: How is Starlink kept secure?](https://news.ycombinator.com/item?id=35750585)
 * [2023-04-29, 05:42:34](https://news.ycombinator.com/item?id=35750369) - [Deno 1.33: Deno 2 is coming](https://deno.com/blog/v1.33)
 * [2023-04-29, 04:59:14](https://news.ycombinator.com/item?id=35750171) - [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
 * [2023-04-29, 04:57:44](https://news.ycombinator.com/item?id=35750165) - [Internet in a Box](https://internet-in-a-box.org/)
@@ -11,7 +12,6 @@
 * [2023-04-28, 22:49:28](https://news.ycombinator.com/item?id=35748115) - [Parrondo&#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
 * [2023-04-28, 22:42:49](https://news.ycombinator.com/item?id=35748052) - [JanOS: Turn your phone into an IoT board (2015)](http://janos.io/)
 * [2023-04-28, 22:13:09](https://news.ycombinator.com/item?id=35747764) - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
-* [2023-04-28, 21:47:03](https://news.ycombinator.com/item?id=35747480) - [JavaScript private class fields considered harmful](https://lea.verou.me/2023/04/private-fields-considered-harmful/)
 * [2023-04-28, 21:35:46](https://news.ycombinator.com/item?id=35747379) - [Junk drawer phone as a music streaming server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-28, 21:00:35](https://news.ycombinator.com/item?id=35747058) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
 * [2023-04-28, 20:40:32](https://news.ycombinator.com/item?id=35746847) - [U.S. regulator set to take over First Republic](https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/)
