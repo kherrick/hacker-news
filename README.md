@@ -2,7 +2,6 @@
 
 * [2023-04-29, 12:53:47](https://news.ycombinator.com/item?id=35752433) - [An Ominous Heating Event Is Unfolding in the Oceans](https://www.wired.com/story/an-ominous-heating-event-is-unfolding-in-the-oceans/)
 * [2023-04-29, 12:44:20](https://news.ycombinator.com/item?id=35752362) - [Infinitely Nested Window Management](https://amadeuspagel.com/p/infinitely-nested-window-management)
-* [2023-04-29, 11:57:22](https://news.ycombinator.com/item?id=35752101) - [On the Effectiveness of Aluminium Foil Helmets: An Empirical Study (2005)](https://web.archive.org/web/20100708230258/http://people.csail.mit.edu/rahimi/helmet/)
 * [2023-04-29, 07:42:39](https://news.ycombinator.com/item?id=35750918) - [Italy lifts ban on ChatGPT after data privacy improvements](https://www.dw.com/en/ai-italy-lifts-ban-on-chatgpt-after-data-privacy-improvements/a-65469742)
 * [2023-04-29, 05:42:34](https://news.ycombinator.com/item?id=35750369) - [Deno 1.33: Deno 2 is coming](https://deno.com/blog/v1.33)
 * [2023-04-29, 04:59:14](https://news.ycombinator.com/item?id=35750171) - [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
@@ -22,6 +21,7 @@
 * [2023-04-28, 05:32:18](https://news.ycombinator.com/item?id=35737780) - [A New Type of Furniture ESD and Its Implications (1993) [pdf]](https://emcesd.com/pdf/eos93.pdf)
 * [2023-04-28, 05:02:13](https://news.ycombinator.com/item?id=35737613) - [Dell Latitude 5411: the Linux compatibility sweet spot](https://ounapuu.ee/posts/2023/04/28/dell-latitude-5411/)
 * [2023-04-28, 03:12:19](https://news.ycombinator.com/item?id=35737085) - [Even Sega knows it&#x27;d only win the console war in a dystopia](https://www.gamesradar.com/even-sega-knows-itd-only-win-the-console-war-in-a-dystopia/)
+* [2023-04-28, 00:30:30](https://news.ycombinator.com/item?id=35736200) - [Cymatics: Science vs. Music – Nigel Stanford](https://www.youtube.com/watch?v=Q3oItpVa9fs)
 * [2023-04-27, 23:21:03](https://news.ycombinator.com/item?id=35735763) - [Why Oatmeal Is Cheap: Kolmogorov Complexity and Procedural Generation [pdf]](https://knivesandpaintbrushes.org/projects/why-oatmeal-is-cheap/why_oatmeal_is_cheap_fdg2023.pdf)
 * [2023-04-27, 21:20:48](https://news.ycombinator.com/item?id=35734775) - [High-res image reconstruction, latent diffusion models from human brain activity](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v3)
 * [2023-04-27, 16:15:00](https://news.ycombinator.com/item?id=35730327) - [The future of generative AI is niche, not generalized](https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/)
