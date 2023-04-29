@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-29, 22:17:36",
+      "https://news.ycombinator.com/item?id=35757802"
+    ],
+    [
+      "Revealing example of self-attention, the building block of transformer AI models",
+      "https://github.com/jostmey/NakedAttention"
+    ]
+  ],
+  [
+    [
       "2023-04-29, 21:15:55",
       "https://news.ycombinator.com/item?id=35757277"
     ],
@@ -267,16 +277,6 @@
     [
       "Listening to Satellites: A Journey with My RTL-SDR V3",
       "https://moh53n.medium.com/listening-to-satellites-a-journey-with-my-rtl-sdr-v3-5ba719bc68a5"
-    ]
-  ],
-  [
-    [
-      "2023-04-27, 10:39:11",
-      "https://news.ycombinator.com/item?id=35726033"
-    ],
-    [
-      "Learn C and build your own Lisp (2014)",
-      "https://buildyourownlisp.com/contents"
     ]
   ],
   [
