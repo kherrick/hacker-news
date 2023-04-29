@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-29, 19:01:21](https://news.ycombinator.com/item?id=35755964) - [Germany will start one of the most affordable public transit offers in the world](https://twitter.com/BloombergTV/status/1652342136363266055)
 * [2023-04-29, 18:36:25](https://news.ycombinator.com/item?id=35755747) - [Real Interview Recordings to Help Job Seekers](https://news.ycombinator.com/item?id=35755747)
 * [2023-04-29, 18:24:58](https://news.ycombinator.com/item?id=35755630) - [The Madness in our Methods: Crash of GW9525 and our broken aeromedical system](https://admiralcloudberg.medium.com/the-madness-in-our-methods-the-crash-of-germanwings-flight-9525-and-our-broken-aeromedical-system-5b95abd4fe6d)
 * [2023-04-29, 18:18:16](https://news.ycombinator.com/item?id=35755563) - [The Egison Programming Language](https://www.egison.org/)
-* [2023-04-29, 18:11:00](https://news.ycombinator.com/item?id=35755501) - [BlueSky ToS gives Jack a &#x27;perpetual&#x27; &amp; &#x27;irrevocable&#x27; license to all your content](https://threadreaderapp.com/thread/1651686218319425570.html)
 * [2023-04-29, 17:28:05](https://news.ycombinator.com/item?id=35755021) - [Sperm donor who fathered 550 children ordered to stop](https://www.bbc.com/news/world-europe-65429936)
 * [2023-04-29, 17:07:24](https://news.ycombinator.com/item?id=35754793) - [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/)
 * [2023-04-29, 17:03:30](https://news.ycombinator.com/item?id=35754762) - [sudo and su Being Rewritten in Rust for Memory Safety](https://www.phoronix.com/news/sudo-su-rewrite-rust)

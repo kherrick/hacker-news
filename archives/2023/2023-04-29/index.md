@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 19:01:21](https://news.ycombinator.com/item?id=35755964) - [Germany will start one of the most affordable public transit offers in the world](https://twitter.com/BloombergTV/status/1652342136363266055)
 * [2023-04-29, 18:36:25](https://news.ycombinator.com/item?id=35755747) - [Real Interview Recordings to Help Job Seekers](https://news.ycombinator.com/item?id=35755747)
 * [2023-04-29, 18:24:58](https://news.ycombinator.com/item?id=35755630) - [The Madness in our Methods: Crash of GW9525 and our broken aeromedical system](https://admiralcloudberg.medium.com/the-madness-in-our-methods-the-crash-of-germanwings-flight-9525-and-our-broken-aeromedical-system-5b95abd4fe6d)
 * [2023-04-29, 18:18:16](https://news.ycombinator.com/item?id=35755563) - [The Egison Programming Language](https://www.egison.org/)
