@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 15:59:40](https://news.ycombinator.com/item?id=35754138) - [Lawmakers propose banning AI from singlehandedly launching nuclear weapons](https://www.theverge.com/2023/4/28/23702992/ai-nuclear-weapon-launch-ban-bill-markey-lieu-beyer-buck)
+* [2023-04-29, 15:43:11](https://news.ycombinator.com/item?id=35753993) - [Encrypted DMs and other DM upgrades rolling out this week](https://twitter.com/elonmusk/status/1652335652187553794)
+* [2023-04-29, 15:38:37](https://news.ycombinator.com/item?id=35753949) - [Deadly Heat Threatens the Well-Being of 1B People in India](https://www.wired.com/story/extreme-heat-india/)
 * [2023-04-29, 15:27:53](https://news.ycombinator.com/item?id=35753838) - [Children aged 2-6 successfully trained to acquire absolute pitch](https://journals.sagepub.com/doi/abs/10.1177/0305735612463948)
 * [2023-04-29, 15:03:14](https://news.ycombinator.com/item?id=35753550) - [My product is my garden (2020)](https://herman.bearblog.dev/my-product-is-my-garden/)
 * [2023-04-29, 14:20:09](https://news.ycombinator.com/item?id=35753106) - [MRSK: Deploy Web Apps Anywhere](https://mrsk.dev/)
