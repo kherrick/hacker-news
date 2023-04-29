@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-29, 04:57:44](https://news.ycombinator.com/item?id=35750165) - [Internet in a Box](https://internet-in-a-box.org/)
 * [2023-04-29, 03:32:49](https://news.ycombinator.com/item?id=35749763) - [Half of vinyl buyers in the U.S. don’t have a record player: study](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)
 * [2023-04-29, 03:26:01](https://news.ycombinator.com/item?id=35749737) - [How to set your domain as your handle](https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial)
 * [2023-04-29, 02:56:12](https://news.ycombinator.com/item?id=35749594) - [Sipcalc – An advanced IP calculator supporting both IPv4 and IPv6](https://github.com/sii/sipcalc)
@@ -9,7 +10,6 @@
 * [2023-04-28, 22:49:28](https://news.ycombinator.com/item?id=35748115) - [Parrondo&#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
 * [2023-04-28, 22:42:49](https://news.ycombinator.com/item?id=35748052) - [JanOS: Turn your phone into an IoT board (2015)](http://janos.io/)
 * [2023-04-28, 22:13:09](https://news.ycombinator.com/item?id=35747764) - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
-* [2023-04-28, 21:47:03](https://news.ycombinator.com/item?id=35747480) - [JavaScript private class fields considered harmful](https://lea.verou.me/2023/04/private-fields-considered-harmful/)
 * [2023-04-28, 21:35:46](https://news.ycombinator.com/item?id=35747379) - [Junk drawer phone as a music streaming server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-28, 21:00:35](https://news.ycombinator.com/item?id=35747058) - [Svix (YC W21) Is Hiring Rust Back End Engineers (US Remote)](https://www.svix.com/careers/)
 * [2023-04-28, 20:40:32](https://news.ycombinator.com/item?id=35746847) - [U.S. regulator set to take over First Republic](https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/)
@@ -21,7 +21,7 @@
 * [2023-04-28, 16:35:04](https://news.ycombinator.com/item?id=35743664) - [Launch Lamini: The LLM Engine for Rapidly Customizing Models as Good as ChatGPT](https://lamini.ai/blog/introducing-lamini)
 * [2023-04-28, 15:30:56](https://news.ycombinator.com/item?id=35742476) - [Check if your IKEA chair is compatible with your screen](https://mastodon.social/@haeckerfelix/110272427676278609)
 * [2023-04-28, 14:45:29](https://news.ycombinator.com/item?id=35741892) - [Plan 9 from User Space](https://9fans.github.io/plan9port/)
-* [2023-04-28, 11:33:08](https://news.ycombinator.com/item?id=35740001) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
+* [2023-04-28, 09:00:15](https://news.ycombinator.com/item?id=35739036) - [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger)
 * [2023-04-28, 00:30:30](https://news.ycombinator.com/item?id=35736200) - [Cymatics: Science vs. Music – Nigel Stanford](https://www.youtube.com/watch?v=Q3oItpVa9fs)
 * [2023-04-27, 23:21:03](https://news.ycombinator.com/item?id=35735763) - [Why Oatmeal Is Cheap: Kolmogorov Complexity and Procedural Generation [pdf]](https://knivesandpaintbrushes.org/projects/why-oatmeal-is-cheap/why_oatmeal_is_cheap_fdg2023.pdf)
 * [2023-04-27, 21:20:48](https://news.ycombinator.com/item?id=35734775) - [High-res image reconstruction, latent diffusion models from human brain activity](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v3)

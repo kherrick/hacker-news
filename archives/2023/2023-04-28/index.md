@@ -62,6 +62,7 @@
 * [2023-04-28, 11:21:18](https://news.ycombinator.com/item?id=35739906) - [I Cloned Myself with AI. She Fooled My Bank and My Family](https://www.wsj.com/articles/i-cloned-myself-with-ai-she-fooled-my-bank-and-my-family-356bd1a3)
 * [2023-04-28, 10:27:31](https://news.ycombinator.com/item?id=35739519) - [Intel Posts Largest Loss in Its History as Sales Plunge 36%](https://www.tomshardware.com/news/intel-posts-q1-fy-2023-results)
 * [2023-04-28, 09:55:46](https://news.ycombinator.com/item?id=35739352) - [Amazon, scaling back operations in India, omits India in earnings for first time](https://techcrunch.com/2023/04/27/amazon-omits-india-business-in-earnings-a-first-in-years/)
+* [2023-04-28, 09:00:15](https://news.ycombinator.com/item?id=35739036) - [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger)
 * [2023-04-28, 08:19:47](https://news.ycombinator.com/item?id=35738829) - [Microsoft is to enable Rust use for Windows 11 kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
 * [2023-04-28, 07:48:52](https://news.ycombinator.com/item?id=35738645) - [Udemy to pay $4M to settle a case alleging it advertised fake discounts](https://twitter.com/RobertFreundLaw/status/1651760647871561728)
 * [2023-04-28, 06:44:56](https://news.ycombinator.com/item?id=35738231) - [Europe’s Longest Bicycling Tunnel Opens in Norway](https://reasonstobecheerful.world/europes-longest-bicycling-tunnel-opens-in-norway/)

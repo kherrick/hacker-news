@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 04:57:44](https://news.ycombinator.com/item?id=35750165) - [Internet in a Box](https://internet-in-a-box.org/)
 * [2023-04-29, 03:32:49](https://news.ycombinator.com/item?id=35749763) - [50% of vinyl buyers don&#x27;t own a record player](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)
 * [2023-04-29, 03:26:01](https://news.ycombinator.com/item?id=35749737) - [How to set your domain as your handle](https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial)
 * [2023-04-29, 02:56:12](https://news.ycombinator.com/item?id=35749594) - [sipcalc: IPv4 and IPv6 Subnet Calculator](https://github.com/sii/sipcalc)
