@@ -18,6 +18,7 @@
 * [2023-04-29, 15:03:14](https://news.ycombinator.com/item?id=35753550) - [My product is my garden (2020)](https://herman.bearblog.dev/my-product-is-my-garden/)
 * [2023-04-29, 14:20:09](https://news.ycombinator.com/item?id=35753106) - [MRSK: Deploy web apps anywhere](https://mrsk.dev/)
 * [2023-04-29, 13:38:12](https://news.ycombinator.com/item?id=35752756) - [Termux is an Android terminal emulator and Linux environment app](https://termux.dev/en/)
+* [2023-04-29, 12:54:20](https://news.ycombinator.com/item?id=35752435) - [Ancient architecture that defies earthquakes](https://nautil.us/the-ancient-architecture-that-defies-earthquakes-301285/)
 * [2023-04-29, 12:25:38](https://news.ycombinator.com/item?id=35752237) - [Remove “This incident will be reported.” from user warnings](https://github.com/sudo-project/sudo/commit/6aa320c96a37613663e8de4c275bd6c490466b01)
 * [2023-04-29, 11:15:13](https://news.ycombinator.com/item?id=35751887) - [Why is it so hard to pull off a lunar landing?](https://www.nature.com/articles/d41586-023-01454-7)
 * [2023-04-28, 21:54:38](https://news.ycombinator.com/item?id=35747563) - [Polaroid’s Secret Showman](https://www.cabinetmagazine.org/kiosk/allen_jonathan_isenbart_jan_03_march_2023.php)
@@ -27,7 +28,6 @@
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 * [2023-04-27, 11:26:13](https://news.ycombinator.com/item?id=35726415) - [Learning COBOL: A Journey for the Modern Programmer (2021)](https://monadical.com/posts/cobol.html)
 * [2023-04-27, 10:56:39](https://news.ycombinator.com/item?id=35726183) - [Listening to Satellites: A Journey with My RTL-SDR V3](https://moh53n.medium.com/listening-to-satellites-a-journey-with-my-rtl-sdr-v3-5ba719bc68a5)
-* [2023-04-27, 10:39:11](https://news.ycombinator.com/item?id=35726033) - [Learn C and build your own Lisp (2014)](https://buildyourownlisp.com/contents)
 * [2023-04-26, 22:58:07](https://news.ycombinator.com/item?id=35721084) - [All that was mortal: Walking through the Protestant Cemetery in Rome](https://www.laphamsquarterly.org/roundtable/all-was-mortal)
 * [2023-04-26, 08:56:07](https://news.ycombinator.com/item?id=35711067) - [Dethrace: Reverse engineering the 1997 game Carmageddon](https://github.com/dethrace-labs/dethrace)
 
