@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 22:12:41](https://news.ycombinator.com/item?id=35767057) - [Banking crises rooted in a system that rewards excessive risk-taking](https://theconversation.com/banking-crises-rooted-in-a-system-that-rewards-excessive-risk-taking-as-first-republics-precarious-situation-shows-204255)
 * [2023-04-30, 22:01:02](https://news.ycombinator.com/item?id=35766988) - [Facing Imminent Homelessness, Gagoot Developer Seeks Project Funding](https://gagoot.com/sos.txt)
 * [2023-04-30, 21:57:20](https://news.ycombinator.com/item?id=35766965) - [CRISPR-Cas-amplified urinary biomarkers for cancer diagnostics](https://www.nature.com/articles/s41565-023-01372-9)
 * [2023-04-30, 21:46:19](https://news.ycombinator.com/item?id=35766897) - [Maybe you should store passwords in plaintext](https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext)
