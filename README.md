@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-30, 16:17:21](https://news.ycombinator.com/item?id=35763999) - [Mark Zuckerberg Broke Meta](https://www.washingtonpost.com/technology/2023/04/30/mark-zuckerberg-meta-layoffs/)
 * [2023-04-30, 15:30:17](https://news.ycombinator.com/item?id=35763483) - [MLC-LLM: GPT&#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
 * [2023-04-30, 14:59:42](https://news.ycombinator.com/item?id=35763141) - [Tesla ran over worker rights, again, US labor judge finds](https://www.theregister.com/2023/04/28/us_labor_board_tesla/)
 * [2023-04-30, 14:55:55](https://news.ycombinator.com/item?id=35763100) - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
@@ -8,8 +9,8 @@
 * [2023-04-30, 13:20:09](https://news.ycombinator.com/item?id=35762284) - [Fide World Chess Championship Decided in Rapid Tiebreaks](https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4)
 * [2023-04-30, 13:10:17](https://news.ycombinator.com/item?id=35762216) - [Do Papercuts Matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
 * [2023-04-30, 13:05:01](https://news.ycombinator.com/item?id=35762175) - [Show HN: Frogmouth – A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
-* [2023-04-30, 12:37:38](https://news.ycombinator.com/item?id=35761986) - [Research Finds No Gender Bias in Academic Science](https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/04/27/research-finds-no-gender-bias-academic-science)
 * [2023-04-30, 11:48:16](https://news.ycombinator.com/item?id=35761706) - [FAA overruled engineers, let Boeing Max keep flying](https://apnews.com/article/boeing-max-crashes-faa-ea8fac0ad2758b08c58d2d64756fbf37)
+* [2023-04-30, 11:41:28](https://news.ycombinator.com/item?id=35761671) - [What Is ML Compilation](https://mlc.ai/chapter_introduction/index.html#what-is-ml-compilation)
 * [2023-04-30, 11:37:40](https://news.ycombinator.com/item?id=35761641) - [Pirated books thrive on Amazon](https://nypost.com/2022/07/31/pirated-books-thrive-on-amazon-authors-say-web-giant-ignores-fraud/)
 * [2023-04-30, 10:49:16](https://news.ycombinator.com/item?id=35761368) - [Vicuna on iPhone](https://mlc.ai/mlc-llm/#iphone)
 * [2023-04-30, 08:21:34](https://news.ycombinator.com/item?id=35760624) - [ESA – Space Debris by the Numbers](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
@@ -27,7 +28,6 @@
 * [2023-04-28, 22:40:25](https://news.ycombinator.com/item?id=35748030) - [Information Overload: on the superabundance of research-based art](https://www.artforum.com/print/202304/claire-bishop-on-the-superabundance-of-research-based-art-90274)
 * [2023-04-28, 07:47:03](https://news.ycombinator.com/item?id=35738632) - [Late Architecture with Functional Programming](https://www.infoq.com/news/2023/04/late-arch-functional-programming/)
 * [2023-04-28, 03:37:01](https://news.ycombinator.com/item?id=35737214) - [Heroes of Hardware Revolution: Bob Widlar (2014)](https://hackaday.com/2014/04/08/heroes-of-hardware-revolution-bob-widlar/)
-* [2023-04-27, 22:16:22](https://news.ycombinator.com/item?id=35735250) - [Everything Is Interpolated: Music’s Nostalgia-Industrial Complex](https://pitchfork.com/features/overtones/everything-is-interpolated-inside-musics-nostalgia-industrial-complex/)
 * [2023-04-27, 21:32:14](https://news.ycombinator.com/item?id=35734895) - [X Window System Administrator&#x27;s Guide: For X Version 11 (1992)](https://archive.org/details/xwindowsystemadm08muimiss)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 

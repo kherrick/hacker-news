@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 16:17:21](https://news.ycombinator.com/item?id=35763999) - [Mark Zuckerberg Broke Meta](https://www.washingtonpost.com/technology/2023/04/30/mark-zuckerberg-meta-layoffs/)
 * [2023-04-30, 15:30:17](https://news.ycombinator.com/item?id=35763483) - [MLC-LLM: GPT&#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
 * [2023-04-30, 14:59:42](https://news.ycombinator.com/item?id=35763141) - [Tesla ran over worker rights, again, US labor judge finds](https://www.theregister.com/2023/04/28/us_labor_board_tesla/)
 * [2023-04-30, 14:55:55](https://news.ycombinator.com/item?id=35763100) - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
