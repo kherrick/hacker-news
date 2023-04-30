@@ -70,6 +70,7 @@
 * [2023-04-28, 09:00:15](https://news.ycombinator.com/item?id=35739036) - [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger)
 * [2023-04-28, 08:19:47](https://news.ycombinator.com/item?id=35738829) - [Microsoft is to enable Rust use for Windows 11 kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
 * [2023-04-28, 08:17:56](https://news.ycombinator.com/item?id=35738817) - [Quite OK Audio Format](https://phoboslab.org/log/2023/04/qoa-specification)
+* [2023-04-28, 08:07:42](https://news.ycombinator.com/item?id=35738748) - [Liubo: Ancient Chinese board game originally played from about 500 BCE to 500 CE](https://liubolab.itch.io/liubo)
 * [2023-04-28, 07:48:52](https://news.ycombinator.com/item?id=35738645) - [Udemy to pay $4M to settle a case alleging it advertised fake discounts](https://twitter.com/RobertFreundLaw/status/1651760647871561728)
 * [2023-04-28, 06:44:56](https://news.ycombinator.com/item?id=35738231) - [Europe’s Longest Bicycling Tunnel Opens in Norway](https://reasonstobecheerful.world/europes-longest-bicycling-tunnel-opens-in-norway/)
 * [2023-04-28, 06:21:27](https://news.ycombinator.com/item?id=35738072) - [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market)
