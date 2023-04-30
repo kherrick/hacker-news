@@ -7,6 +7,7 @@
 * [2023-04-28, 23:07:42](https://news.ycombinator.com/item?id=35748283) - [The Path to Pistoia: Urban Hygiene Before the Black Death (2020)](https://academic.oup.com/past/article/246/1/3/5580562)
 * [2023-04-28, 22:49:28](https://news.ycombinator.com/item?id=35748115) - [Parrondo&#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
 * [2023-04-28, 22:42:49](https://news.ycombinator.com/item?id=35748052) - [JanOS: Turn your phone into an IoT board](http://janos.io/)
+* [2023-04-28, 22:40:25](https://news.ycombinator.com/item?id=35748030) - [Information Overload: on the superabundance of research-based art](https://www.artforum.com/print/202304/claire-bishop-on-the-superabundance-of-research-based-art-90274)
 * [2023-04-28, 22:26:44](https://news.ycombinator.com/item?id=35747896) - [Red Hat layoffs spark calls to unionize, CEO wades in](https://www.theregister.com/2023/04/28/red_hat_layoffs_union/)
 * [2023-04-28, 22:13:09](https://news.ycombinator.com/item?id=35747764) - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
 * [2023-04-28, 21:54:38](https://news.ycombinator.com/item?id=35747563) - [Polaroid’s Showman](https://www.cabinetmagazine.org/kiosk/allen_jonathan_isenbart_jan_03_march_2023.php)
