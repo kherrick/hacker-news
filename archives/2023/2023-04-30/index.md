@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 08:21:34](https://news.ycombinator.com/item?id=35760624) - [ESA – Space Debris by the Numbers](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
 * [2023-04-30, 07:16:52](https://news.ycombinator.com/item?id=35760327) - [SpaceX Rocket Struggled to Self-Destruct as It Spun Out of Control](https://www.nytimes.com/2023/04/29/science/elon-musk-spacex-starship.html)
 * [2023-04-30, 06:54:32](https://news.ycombinator.com/item?id=35760243) - [A US Bill Would Ban Kids Under 13 from Joining Social Media](https://www.wired.com/story/protecting-kids-social-media-act/)
 * [2023-04-30, 06:31:38](https://news.ycombinator.com/item?id=35760145) - [ChatGPT &#x2F; GPT-4 seems to suddenly be malfunctioning](https://news.ycombinator.com/item?id=35760145)

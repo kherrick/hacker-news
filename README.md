@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-30, 08:21:34](https://news.ycombinator.com/item?id=35760624) - [ESA – Space Debris by the Numbers](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
 * [2023-04-30, 07:16:52](https://news.ycombinator.com/item?id=35760327) - [SpaceX Rocket Struggled to Self-Destruct as It Spun Out of Control](https://www.nytimes.com/2023/04/29/science/elon-musk-spacex-starship.html)
 * [2023-04-30, 06:54:32](https://news.ycombinator.com/item?id=35760243) - [A US Bill Would Ban Kids Under 13 from Joining Social Media](https://www.wired.com/story/protecting-kids-social-media-act/)
 * [2023-04-30, 06:16:12](https://news.ycombinator.com/item?id=35760087) - [Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
@@ -9,7 +10,6 @@
 * [2023-04-30, 01:26:33](https://news.ycombinator.com/item?id=35758898) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 * [2023-04-30, 01:14:02](https://news.ycombinator.com/item?id=35758842) - [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
 * [2023-04-30, 00:18:42](https://news.ycombinator.com/item?id=35758587) - [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
-* [2023-04-30, 00:17:50](https://news.ycombinator.com/item?id=35758584) - [Show HN: PineTool – An iOS Companion for the Pinecil](https://lachy.io/articles/introducing-pinetool)
 * [2023-04-29, 21:02:08](https://news.ycombinator.com/item?id=35757150) - [Awesome Music Theory: books, links, videos, research, visuals, composition](https://github.com/vpavlenko/study-music)
 * [2023-04-29, 20:52:55](https://news.ycombinator.com/item?id=35757072) - [MIT engineers “grow” atomically thin transistors on top of computer chips](https://news.mit.edu/2023/mit-engineers-2d-materials-computer-chips-0427)
 * [2023-04-29, 19:23:41](https://news.ycombinator.com/item?id=35756203) - [The lifesaving sled dog Balto had genes unlike those of dog breeds today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
