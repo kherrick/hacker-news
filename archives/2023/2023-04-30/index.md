@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 13:45:37](https://news.ycombinator.com/item?id=35762483) - [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
 * [2023-04-30, 13:20:09](https://news.ycombinator.com/item?id=35762284) - [Ding Liren Wins the Fide World Chess Championship](https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4)
 * [2023-04-30, 13:10:17](https://news.ycombinator.com/item?id=35762216) - [Do Papercuts Matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
 * [2023-04-30, 13:05:01](https://news.ycombinator.com/item?id=35762175) - [Show HN: Frogmouth – A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
 * [2023-04-30, 12:37:38](https://news.ycombinator.com/item?id=35761986) - [Research Finds No Gender Bias in Academic Science](https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/04/27/research-finds-no-gender-bias-academic-science)
+* [2023-04-30, 11:48:16](https://news.ycombinator.com/item?id=35761706) - [FAA overruled engineers, let Boeing Max keep flying](https://apnews.com/article/boeing-max-crashes-faa-ea8fac0ad2758b08c58d2d64756fbf37)
 * [2023-04-30, 09:49:08](https://news.ycombinator.com/item?id=35761071) - [U.S. Teen Girls Experiencing Increased Sadness and Violence](https://www.cdc.gov/media/releases/2023/p0213-yrbs.html)
 * [2023-04-30, 08:21:34](https://news.ycombinator.com/item?id=35760624) - [ESA – Space Debris by the Numbers](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
 * [2023-04-30, 07:16:52](https://news.ycombinator.com/item?id=35760327) - [SpaceX Rocket Struggled to Self-Destruct as It Spun Out of Control](https://www.nytimes.com/2023/04/29/science/elon-musk-spacex-starship.html)
