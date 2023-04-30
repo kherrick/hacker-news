@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 13:20:09](https://news.ycombinator.com/item?id=35762284) - [Ding Liren Wins the Fide World Chess Championship](https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4)
+* [2023-04-30, 13:10:17](https://news.ycombinator.com/item?id=35762216) - [Do Papercuts Matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
+* [2023-04-30, 13:05:01](https://news.ycombinator.com/item?id=35762175) - [Show HN: Frogmouth – A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
 * [2023-04-30, 12:37:38](https://news.ycombinator.com/item?id=35761986) - [Research Finds No Gender Bias in Academic Science](https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/04/27/research-finds-no-gender-bias-academic-science)
 * [2023-04-30, 09:49:08](https://news.ycombinator.com/item?id=35761071) - [U.S. Teen Girls Experiencing Increased Sadness and Violence](https://www.cdc.gov/media/releases/2023/p0213-yrbs.html)
 * [2023-04-30, 08:21:34](https://news.ycombinator.com/item?id=35760624) - [ESA – Space Debris by the Numbers](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
