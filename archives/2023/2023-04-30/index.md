@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 21:23:07](https://news.ycombinator.com/item?id=35766747) - [Advanced Amiga Architecture (June 18, 1992)](https://archive.org/details/advanced-amiga-architecture)
 * [2023-04-30, 20:58:54](https://news.ycombinator.com/item?id=35766570) - [Minetest: An open source voxel game engine](https://www.minetest.net/)
+* [2023-04-30, 19:52:22](https://news.ycombinator.com/item?id=35766022) - [AI &#x2F; ML &#x2F; LLM &#x2F; Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)
+* [2023-04-30, 19:41:05](https://news.ycombinator.com/item?id=35765933) - [Notes on Grokking Simplicity: Taming complex software with functional thinking](https://bagerbach.com/books/grokking-simplicity)
 * [2023-04-30, 19:39:11](https://news.ycombinator.com/item?id=35765921) - [More people are getting away with murder. Unsolved killings reach a record high](https://www.npr.org/2023/04/29/1172775448/people-murder-unsolved-killings-record-high)
 * [2023-04-30, 19:35:32](https://news.ycombinator.com/item?id=35765882) - [Whisper.cpp v1.4.0](https://github.com/ggerganov/whisper.cpp/releases/tag/v1.4.0)
+* [2023-04-30, 19:23:44](https://news.ycombinator.com/item?id=35765783) - [Four Questions Concerning the Internet](https://paulkingsnorth.substack.com/p/the-universal)
 * [2023-04-30, 19:16:41](https://news.ycombinator.com/item?id=35765707) - [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
 * [2023-04-30, 18:42:11](https://news.ycombinator.com/item?id=35765373) - [AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
 * [2023-04-30, 18:20:33](https://news.ycombinator.com/item?id=35765177) - [The RISC Wars Part 1: The Cambrian Explosion](https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55)
