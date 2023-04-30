@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-30, 12:37:38](https://news.ycombinator.com/item?id=35761986) - [Research Finds No Gender Bias in Academic Science](https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/04/27/research-finds-no-gender-bias-academic-science)
 * [2023-04-30, 08:21:34](https://news.ycombinator.com/item?id=35760624) - [ESA – Space Debris by the Numbers](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
 * [2023-04-30, 06:16:12](https://news.ycombinator.com/item?id=35760087) - [Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
 * [2023-04-30, 03:26:58](https://news.ycombinator.com/item?id=35759449) - [Just Simply – Stop saying how simple things are in our docs](https://justsimply.dev/)
@@ -17,7 +18,6 @@
 * [2023-04-29, 15:03:14](https://news.ycombinator.com/item?id=35753550) - [My product is my garden (2020)](https://herman.bearblog.dev/my-product-is-my-garden/)
 * [2023-04-29, 13:38:12](https://news.ycombinator.com/item?id=35752756) - [Termux is an Android terminal emulator and Linux environment app](https://termux.dev/en/)
 * [2023-04-29, 12:25:38](https://news.ycombinator.com/item?id=35752237) - [Remove “This incident will be reported.” from user warnings](https://github.com/sudo-project/sudo/commit/6aa320c96a37613663e8de4c275bd6c490466b01)
-* [2023-04-29, 02:09:17](https://news.ycombinator.com/item?id=35749366) - [Scrcpy: Display and control your Android devices connected over USB or TCP&#x2F;IP](https://github.com/Genymobile/scrcpy)
 * [2023-04-28, 23:07:42](https://news.ycombinator.com/item?id=35748283) - [The Path to Pistoia: Urban Hygiene Before the Black Death (2020)](https://academic.oup.com/past/article/246/1/3/5580562)
 * [2023-04-28, 19:30:20](https://news.ycombinator.com/item?id=35746022) - [New York to ban natural gas, including stoves, in new buildings](https://www.nytimes.com/2023/04/28/nyregion/gas-stove-ban-ny.html)
 * [2023-04-28, 16:20:48](https://news.ycombinator.com/item?id=35743433) - [1990 Impact Electric Drag Race [video]](https://www.youtube.com/watch?v=UaL2tYC0Zuw)
