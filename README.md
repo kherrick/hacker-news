@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-30, 17:35:00](https://news.ycombinator.com/item?id=35764749) - [Alien Supercivilizations Absent from 100k Nearby Galaxies (2015)](https://www.scientificamerican.com/article/alien-supercivilizations-absent-from-100-000-nearby-galaxies1/)
+* [2023-04-30, 17:17:09](https://news.ycombinator.com/item?id=35764584) - [40 Years of Koyaanisqatsi](https://www.thecurb.com.au/40-years-of-koyaanisqatsi/)
 * [2023-04-30, 17:03:24](https://news.ycombinator.com/item?id=35764476) - [Engineers develop water filtration that permanently removes “forever chemicals”](https://www.nbcnews.com/now/video/engineers-develop-water-filtration-system-that-removes-forever-chemicals-171419717913)
 * [2023-04-30, 17:00:37](https://news.ycombinator.com/item?id=35764445) - [Patterns (YC S21) Is Hiring AI Engineers](https://www.ycombinator.com/companies/patterns)
 * [2023-04-30, 16:45:06](https://news.ycombinator.com/item?id=35764284) - [An End to Pop](https://seths.blog/2023/04/an-end-to-pop/)
 * [2023-04-30, 16:17:21](https://news.ycombinator.com/item?id=35763999) - [Mark Zuckerberg Broke Meta](https://www.washingtonpost.com/technology/2023/04/30/mark-zuckerberg-meta-layoffs/)
 * [2023-04-30, 15:30:17](https://news.ycombinator.com/item?id=35763483) - [MLC-LLM: GPT&#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
-* [2023-04-30, 15:04:51](https://news.ycombinator.com/item?id=35763191) - [AI&#x27;s true goal may no longer be intelligence](https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/)
 * [2023-04-30, 14:55:55](https://news.ycombinator.com/item?id=35763100) - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
 * [2023-04-30, 14:17:46](https://news.ycombinator.com/item?id=35762780) - [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
 * [2023-04-30, 13:45:37](https://news.ycombinator.com/item?id=35762483) - [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
@@ -29,7 +30,6 @@
 * [2023-04-28, 07:47:03](https://news.ycombinator.com/item?id=35738632) - [Late Architecture with Functional Programming](https://www.infoq.com/news/2023/04/late-arch-functional-programming/)
 * [2023-04-28, 03:37:01](https://news.ycombinator.com/item?id=35737214) - [Heroes of Hardware Revolution: Bob Widlar (2014)](https://hackaday.com/2014/04/08/heroes-of-hardware-revolution-bob-widlar/)
 * [2023-04-27, 21:32:14](https://news.ycombinator.com/item?id=35734895) - [X Window System Administrator&#x27;s Guide: For X Version 11 (1992)](https://archive.org/details/xwindowsystemadm08muimiss)
-* [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 
 ## [Archives](archives/index.md)
 
