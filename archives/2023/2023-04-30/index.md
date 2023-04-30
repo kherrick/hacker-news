@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
 * [2023-04-30, 14:28:32](https://news.ycombinator.com/item?id=35762872) - [British public support for monarchy at historic low, poll reveals](https://www.theguardian.com/uk-news/2023/apr/28/public-support-monarchy-historic-low-poll-reveals)
+* [2023-04-30, 14:22:50](https://news.ycombinator.com/item?id=35762826) - [Runa Sandvik: “Example of why you should not use FaceID to unlock your phone.”](https://mastodon.social/@runasand/110286780839680620)
 * [2023-04-30, 14:17:46](https://news.ycombinator.com/item?id=35762780) - [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
 * [2023-04-30, 14:13:49](https://news.ycombinator.com/item?id=35762731) - [Epstein&#x27;s Private Calendar Reveals Prominent Names, Including CIA Chief](https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff)
 * [2023-04-30, 13:45:37](https://news.ycombinator.com/item?id=35762483) - [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
@@ -22,6 +23,7 @@
 * [2023-04-30, 06:16:12](https://news.ycombinator.com/item?id=35760087) - [Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
 * [2023-04-30, 03:26:58](https://news.ycombinator.com/item?id=35759449) - [Just Simply – Stop saying how simple things are in our docs](https://justsimply.dev/)
 * [2023-04-30, 02:51:32](https://news.ycombinator.com/item?id=35759326) - [Lyft CEO tells employees they must return to the office](https://www.cnn.com/2023/04/29/business/lyft-return-to-office/index.html)
+* [2023-04-30, 02:49:00](https://news.ycombinator.com/item?id=35759314) - [Simon Winchester devotes his anecdotal powers to why and how we know what we do](https://www.nytimes.com/2023/04/26/books/review/knowing-what-we-know-simon-winchester.html)
 * [2023-04-30, 02:16:25](https://news.ycombinator.com/item?id=35759159) - [Nix-on-droid: Nix-enabled environment for your Android device (termux-based)](https://github.com/t184256/nix-on-droid)
 * [2023-04-30, 01:50:32](https://news.ycombinator.com/item?id=35759016) - [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
 * [2023-04-30, 01:26:33](https://news.ycombinator.com/item?id=35758898) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
