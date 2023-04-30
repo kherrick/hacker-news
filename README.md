@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-04-30, 02:51:32](https://news.ycombinator.com/item?id=35759326) - [Lyft CEO tells employees they must return to the office](https://www.cnn.com/2023/04/29/business/lyft-return-to-office/index.html)
 * [2023-04-30, 02:16:25](https://news.ycombinator.com/item?id=35759159) - [Nix-on-droid: Nix-enabled environment for your Android device (termux-based)](https://github.com/t184256/nix-on-droid)
 * [2023-04-30, 01:50:32](https://news.ycombinator.com/item?id=35759016) - [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
 * [2023-04-30, 01:26:33](https://news.ycombinator.com/item?id=35758898) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
@@ -27,7 +26,8 @@
 * [2023-04-28, 08:17:56](https://news.ycombinator.com/item?id=35738817) - [Quite OK Audio Format](https://phoboslab.org/log/2023/04/qoa-specification)
 * [2023-04-28, 08:07:42](https://news.ycombinator.com/item?id=35738748) - [Liubo: Ancient Chinese board game originally played from about 500 BCE to 500 CE](https://liubolab.itch.io/liubo)
 * [2023-04-28, 02:26:10](https://news.ycombinator.com/item?id=35736872) - [A brief history of LLaMA models](https://agi-sphere.com/llama-models/)
-* [2023-04-27, 22:16:22](https://news.ycombinator.com/item?id=35735250) - [Everything Is Interpolated: Inside Music’s Nostalgia-Industrial Complex](https://pitchfork.com/features/overtones/everything-is-interpolated-inside-musics-nostalgia-industrial-complex/)
+* [2023-04-27, 22:16:22](https://news.ycombinator.com/item?id=35735250) - [Everything Is Interpolated: Music’s Nostalgia-Industrial Complex](https://pitchfork.com/features/overtones/everything-is-interpolated-inside-musics-nostalgia-industrial-complex/)
+* [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 * [2023-04-27, 11:26:13](https://news.ycombinator.com/item?id=35726415) - [Learning COBOL: A Journey for the Modern Programmer (2021)](https://monadical.com/posts/cobol.html)
 * [2023-04-27, 10:56:39](https://news.ycombinator.com/item?id=35726183) - [Listening to Satellites: A Journey with My RTL-SDR V3](https://moh53n.medium.com/listening-to-satellites-a-journey-with-my-rtl-sdr-v3-5ba719bc68a5)
 
