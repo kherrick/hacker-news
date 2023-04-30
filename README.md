@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-30, 06:16:12](https://news.ycombinator.com/item?id=35760087) - [Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
 * [2023-04-30, 02:16:25](https://news.ycombinator.com/item?id=35759159) - [Nix-on-droid: Nix-enabled environment for your Android device (termux-based)](https://github.com/t184256/nix-on-droid)
 * [2023-04-30, 01:50:32](https://news.ycombinator.com/item?id=35759016) - [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
 * [2023-04-30, 01:26:33](https://news.ycombinator.com/item?id=35758898) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
@@ -11,7 +12,6 @@
 * [2023-04-29, 19:23:41](https://news.ycombinator.com/item?id=35756203) - [The lifesaving sled dog Balto had genes unlike those of dog breeds today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
 * [2023-04-29, 19:08:56](https://news.ycombinator.com/item?id=35756071) - [The curious side effects of medical transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
 * [2023-04-29, 18:47:12](https://news.ycombinator.com/item?id=35755841) - [Sensenmann: Code Deletion at Scale](https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html)
-* [2023-04-29, 18:24:58](https://news.ycombinator.com/item?id=35755630) - [The Madness in our Methods: Crash of GW9525 and our broken aeromedical system](https://admiralcloudberg.medium.com/the-madness-in-our-methods-the-crash-of-germanwings-flight-9525-and-our-broken-aeromedical-system-5b95abd4fe6d)
 * [2023-04-29, 18:18:16](https://news.ycombinator.com/item?id=35755563) - [The Egison Programming Language](https://www.egison.org/)
 * [2023-04-29, 17:07:24](https://news.ycombinator.com/item?id=35754793) - [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/)
 * [2023-04-29, 17:01:03](https://news.ycombinator.com/item?id=35754736) - [A reproduction of Elizabeth Twining’s catalog of botanical drawings from 1868](https://www.c82.net/work/?id=373)
