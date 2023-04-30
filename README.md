@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-30, 22:12:41](https://news.ycombinator.com/item?id=35767057) - [Banking crises rooted in a system that rewards excessive risk-taking](https://theconversation.com/banking-crises-rooted-in-a-system-that-rewards-excessive-risk-taking-as-first-republics-precarious-situation-shows-204255)
-* [2023-04-30, 22:01:02](https://news.ycombinator.com/item?id=35766988) - [Facing Imminent Homelessness, Gagoot Developer Seeks Project Funding](https://gagoot.com/sos.txt)
 * [2023-04-30, 21:57:20](https://news.ycombinator.com/item?id=35766965) - [CRISPR-Cas-amplified urinary biomarkers for cancer diagnostics](https://www.nature.com/articles/s41565-023-01372-9)
 * [2023-04-30, 21:46:19](https://news.ycombinator.com/item?id=35766897) - [Maybe you should store passwords in plaintext](https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext)
 * [2023-04-30, 21:23:07](https://news.ycombinator.com/item?id=35766747) - [Advanced Amiga Architecture (June 18, 1992)](https://archive.org/details/advanced-amiga-architecture)
@@ -10,6 +9,7 @@
 * [2023-04-30, 20:58:54](https://news.ycombinator.com/item?id=35766570) - [Minetest: An open source voxel game engine](https://www.minetest.net/)
 * [2023-04-30, 19:52:22](https://news.ycombinator.com/item?id=35766022) - [AI &#x2F; ML &#x2F; LLM &#x2F; Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)
 * [2023-04-30, 19:41:05](https://news.ycombinator.com/item?id=35765933) - [Notes on Grokking Simplicity: Taming complex software with functional thinking](https://bagerbach.com/books/grokking-simplicity)
+* [2023-04-30, 19:23:44](https://news.ycombinator.com/item?id=35765783) - [Four Questions Concerning the Internet](https://paulkingsnorth.substack.com/p/the-universal)
 * [2023-04-30, 19:16:41](https://news.ycombinator.com/item?id=35765707) - [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
 * [2023-04-30, 19:14:51](https://news.ycombinator.com/item?id=35765690) - [Steam Deck emulation installer EmuDeck 2.1 launched](https://overkill.wtf/emudeck-2-1-update/)
 * [2023-04-30, 18:20:33](https://news.ycombinator.com/item?id=35765177) - [The RISC Wars Part 1: The Cambrian Explosion](https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55)
