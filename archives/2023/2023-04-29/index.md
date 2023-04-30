@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 23:17:23](https://news.ycombinator.com/item?id=35758236) - [Restaurant real estate gets a radical makeover](https://www.wsj.com/articles/too-many-seats-too-few-butts-mean-changes-at-your-favorite-restaurant-e876b092)
 * [2023-04-29, 22:49:14](https://news.ycombinator.com/item?id=35758031) - [Show HN: All GitHub repos shared on HN](https://news.ycombinator.com/from?site=github.com)
 * [2023-04-29, 22:17:36](https://news.ycombinator.com/item?id=35757802) - [Revealing example of self-attention, the building block of transformer AI models](https://github.com/jostmey/NakedAttention)
 * [2023-04-29, 22:01:39](https://news.ycombinator.com/item?id=35757689) - [I decided to outsource my entire personal financial life to GPT-4](https://twitter.com/jbrowder1/status/1652387444904583169)

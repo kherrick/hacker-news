@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-30, 15:30:17](https://news.ycombinator.com/item?id=35763483) - [MLC-LLM: GPT&#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
 * [2023-04-30, 14:59:42](https://news.ycombinator.com/item?id=35763141) - [Tesla ran over worker rights, again, US labor judge finds](https://www.theregister.com/2023/04/28/us_labor_board_tesla/)
 * [2023-04-30, 14:55:55](https://news.ycombinator.com/item?id=35763100) - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
-* [2023-04-30, 14:28:32](https://news.ycombinator.com/item?id=35762872) - [British public support for monarchy at historic low, poll reveals](https://www.theguardian.com/uk-news/2023/apr/28/public-support-monarchy-historic-low-poll-reveals)
-* [2023-04-30, 14:22:50](https://news.ycombinator.com/item?id=35762826) - [Example of why you should not use FaceID to unlock your phone](https://mastodon.social/@runasand/110286780839680620)
 * [2023-04-30, 14:17:46](https://news.ycombinator.com/item?id=35762780) - [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
 * [2023-04-30, 13:45:37](https://news.ycombinator.com/item?id=35762483) - [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
 * [2023-04-30, 13:20:09](https://news.ycombinator.com/item?id=35762284) - [Fide World Chess Championship Decided in Rapid Tiebreaks](https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4)
@@ -21,6 +20,7 @@
 * [2023-04-30, 01:50:32](https://news.ycombinator.com/item?id=35759016) - [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
 * [2023-04-30, 01:26:33](https://news.ycombinator.com/item?id=35758898) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 * [2023-04-30, 01:14:02](https://news.ycombinator.com/item?id=35758842) - [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
+* [2023-04-29, 23:17:23](https://news.ycombinator.com/item?id=35758236) - [Restaurant real estate gets a radical makeover](https://www.wsj.com/articles/too-many-seats-too-few-butts-mean-changes-at-your-favorite-restaurant-e876b092)
 * [2023-04-29, 16:43:09](https://news.ycombinator.com/item?id=35754560) - [The moon dust problem facing scientists](https://www.bbc.com/future/article/20230424-the-people-creating-fake-moon-dust)
 * [2023-04-29, 12:25:38](https://news.ycombinator.com/item?id=35752237) - [Remove “This incident will be reported.” from user warnings](https://github.com/sudo-project/sudo/commit/6aa320c96a37613663e8de4c275bd6c490466b01)
 * [2023-04-28, 23:07:42](https://news.ycombinator.com/item?id=35748283) - [The Path to Pistoia: Urban Hygiene Before the Black Death (2020)](https://academic.oup.com/past/article/246/1/3/5580562)
