@@ -47,6 +47,7 @@
 * [2023-04-30, 06:54:32](https://news.ycombinator.com/item?id=35760243) - [A US Bill Would Ban Kids Under 13 from Joining Social Media](https://www.wired.com/story/protecting-kids-social-media-act/)
 * [2023-04-30, 06:31:38](https://news.ycombinator.com/item?id=35760145) - [ChatGPT &#x2F; GPT-4 seems to suddenly be malfunctioning](https://news.ycombinator.com/item?id=35760145)
 * [2023-04-30, 06:16:12](https://news.ycombinator.com/item?id=35760087) - [Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
+* [2023-04-30, 04:59:19](https://news.ycombinator.com/item?id=35759804) - [Notes on Charles Portis’s notes: papers by America’s “least-known great writer”](https://www.loa.org/news-and-views/2145-notes-on-charles-portiss-notes-jay-jennings-pores-over-a-cache-of-papers-by-americas-least-known-great-writer)
 * [2023-04-30, 03:26:58](https://news.ycombinator.com/item?id=35759449) - [Just Simply – Stop saying how simple things are in our docs](https://justsimply.dev/)
 * [2023-04-30, 02:51:32](https://news.ycombinator.com/item?id=35759326) - [Lyft CEO tells employees they must return to the office](https://www.cnn.com/2023/04/29/business/lyft-return-to-office/index.html)
 * [2023-04-30, 02:49:00](https://news.ycombinator.com/item?id=35759314) - [Simon Winchester devotes his anecdotal powers to why and how we know what we do](https://www.nytimes.com/2023/04/26/books/review/knowing-what-we-know-simon-winchester.html)
