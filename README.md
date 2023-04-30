@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-30, 06:54:32](https://news.ycombinator.com/item?id=35760243) - [A US Bill Would Ban Kids Under 13 from Joining Social Media](https://www.wired.com/story/protecting-kids-social-media-act/)
 * [2023-04-30, 06:16:12](https://news.ycombinator.com/item?id=35760087) - [Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
 * [2023-04-30, 02:16:25](https://news.ycombinator.com/item?id=35759159) - [Nix-on-droid: Nix-enabled environment for your Android device (termux-based)](https://github.com/t184256/nix-on-droid)
 * [2023-04-30, 01:50:32](https://news.ycombinator.com/item?id=35759016) - [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
@@ -28,7 +29,6 @@
 * [2023-04-27, 22:16:22](https://news.ycombinator.com/item?id=35735250) - [Everything Is Interpolated: Music’s Nostalgia-Industrial Complex](https://pitchfork.com/features/overtones/everything-is-interpolated-inside-musics-nostalgia-industrial-complex/)
 * [2023-04-27, 21:32:14](https://news.ycombinator.com/item?id=35734895) - [X Window System Administrator&#x27;s Guide: For X Version 11](https://archive.org/details/xwindowsystemadm08muimiss)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
-* [2023-04-27, 11:26:13](https://news.ycombinator.com/item?id=35726415) - [Learning COBOL: A Journey for the Modern Programmer (2021)](https://monadical.com/posts/cobol.html)
 * [2023-04-27, 10:56:39](https://news.ycombinator.com/item?id=35726183) - [Listening to Satellites: A Journey with My RTL-SDR V3](https://moh53n.medium.com/listening-to-satellites-a-journey-with-my-rtl-sdr-v3-5ba719bc68a5)
 
 ## [Archives](archives/index.md)
