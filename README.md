@@ -2,6 +2,7 @@
 
 * [2023-04-30, 17:03:24](https://news.ycombinator.com/item?id=35764476) - [Engineers develop water filtration that permanently removes “forever chemicals”](https://www.nbcnews.com/now/video/engineers-develop-water-filtration-system-that-removes-forever-chemicals-171419717913)
 * [2023-04-30, 17:00:37](https://news.ycombinator.com/item?id=35764445) - [Patterns (YC S21) Is Hiring AI Engineers](https://www.ycombinator.com/companies/patterns)
+* [2023-04-30, 16:45:06](https://news.ycombinator.com/item?id=35764284) - [An End to Pop](https://seths.blog/2023/04/an-end-to-pop/)
 * [2023-04-30, 16:17:21](https://news.ycombinator.com/item?id=35763999) - [Mark Zuckerberg Broke Meta](https://www.washingtonpost.com/technology/2023/04/30/mark-zuckerberg-meta-layoffs/)
 * [2023-04-30, 15:30:17](https://news.ycombinator.com/item?id=35763483) - [MLC-LLM: GPT&#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
 * [2023-04-30, 15:04:51](https://news.ycombinator.com/item?id=35763191) - [AI&#x27;s true goal may no longer be intelligence](https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/)
@@ -19,7 +20,6 @@
 * [2023-04-30, 06:16:12](https://news.ycombinator.com/item?id=35760087) - [Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
 * [2023-04-30, 03:26:58](https://news.ycombinator.com/item?id=35759449) - [Just Simply – Stop saying how simple things are in our docs](https://justsimply.dev/)
 * [2023-04-30, 02:49:00](https://news.ycombinator.com/item?id=35759314) - [Simon Winchester devotes his anecdotal powers to why and how we know what we do](https://www.nytimes.com/2023/04/26/books/review/knowing-what-we-know-simon-winchester.html)
-* [2023-04-30, 02:16:25](https://news.ycombinator.com/item?id=35759159) - [Nix-on-droid: Nix-enabled environment for your Android device (termux-based)](https://github.com/t184256/nix-on-droid)
 * [2023-04-30, 01:50:32](https://news.ycombinator.com/item?id=35759016) - [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
 * [2023-04-30, 01:14:02](https://news.ycombinator.com/item?id=35758842) - [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
 * [2023-04-29, 23:17:23](https://news.ycombinator.com/item?id=35758236) - [Restaurant real estate gets a radical makeover](https://www.wsj.com/articles/too-many-seats-too-few-butts-mean-changes-at-your-favorite-restaurant-e876b092)
