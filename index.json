@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-04-30, 22:01:02",
+      "https://news.ycombinator.com/item?id=35766988"
+    ],
+    [
+      "Facing Imminent Homelessness, Gagoot Developer Seeks Project Funding",
+      "https://gagoot.com/sos.txt"
+    ]
+  ],
+  [
+    [
       "2023-04-30, 21:23:07",
       "https://news.ycombinator.com/item?id=35766747"
     ],
     [
       "Advanced Amiga Architecture (June 18, 1992)",
       "https://archive.org/details/advanced-amiga-architecture"
+    ]
+  ],
+  [
+    [
+      "2023-04-30, 21:22:10",
+      "https://news.ycombinator.com/item?id=35766741"
+    ],
+    [
+      "Speed Is All You Need: On-Device Acceleration of Large Diffusion Models",
+      "https://arxiv.org/abs/2304.11267"
     ]
   ],
   [
@@ -67,6 +87,16 @@
     [
       "Pure Sh Bible",
       "https://github.com/dylanaraps/pure-sh-bible"
+    ]
+  ],
+  [
+    [
+      "2023-04-30, 19:14:51",
+      "https://news.ycombinator.com/item?id=35765690"
+    ],
+    [
+      "Steam Deck emulation installer EmuDeck 2.1 launched",
+      "https://overkill.wtf/emudeck-2-1-update/"
     ]
   ],
   [
@@ -221,32 +251,12 @@
   ],
   [
     [
-      "2023-04-30, 10:49:16",
-      "https://news.ycombinator.com/item?id=35761368"
-    ],
-    [
-      "Vicuna on iPhone",
-      "https://mlc.ai/mlc-llm/#iphone"
-    ]
-  ],
-  [
-    [
       "2023-04-30, 10:36:25",
       "https://news.ycombinator.com/item?id=35761296"
     ],
     [
       "Beating Bisect with Branchless Binary Search",
       "https://github.com/juliusgeo/branchless_bisect"
-    ]
-  ],
-  [
-    [
-      "2023-04-30, 07:55:35",
-      "https://news.ycombinator.com/item?id=35760489"
-    ],
-    [
-      "llama.cpp: Roadmap May 2023",
-      "https://github.com/ggerganov/llama.cpp/discussions/1220"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Digitized Silhouette Portraits Shed Light on 19th Century Life",
       "https://www.nytimes.com/2023/04/29/arts/william-bache-album-smithsonian-arsenic.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-28, 07:47:03",
-      "https://news.ycombinator.com/item?id=35738632"
-    ],
-    [
-      "Late Architecture with Functional Programming",
-      "https://www.infoq.com/news/2023/04/late-arch-functional-programming/"
     ]
   ]
 ]
