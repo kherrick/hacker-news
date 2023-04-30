@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-30, 17:03:24](https://news.ycombinator.com/item?id=35764476) - [Engineers develop water filtration that permanently removes “forever chemicals”](https://www.nbcnews.com/now/video/engineers-develop-water-filtration-system-that-removes-forever-chemicals-171419717913)
 * [2023-04-30, 17:00:37](https://news.ycombinator.com/item?id=35764445) - [Patterns (YC S21) Is Hiring AI Engineers](https://www.ycombinator.com/companies/patterns)
 * [2023-04-30, 16:17:21](https://news.ycombinator.com/item?id=35763999) - [Mark Zuckerberg Broke Meta](https://www.washingtonpost.com/technology/2023/04/30/mark-zuckerberg-meta-layoffs/)
 * [2023-04-30, 15:30:17](https://news.ycombinator.com/item?id=35763483) - [MLC-LLM: GPT&#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
@@ -8,7 +9,6 @@
 * [2023-04-30, 14:17:46](https://news.ycombinator.com/item?id=35762780) - [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
 * [2023-04-30, 13:45:37](https://news.ycombinator.com/item?id=35762483) - [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
 * [2023-04-30, 13:20:09](https://news.ycombinator.com/item?id=35762284) - [Fide World Chess Championship Decided in Rapid Tiebreaks](https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4)
-* [2023-04-30, 13:10:17](https://news.ycombinator.com/item?id=35762216) - [Do Papercuts Matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
 * [2023-04-30, 13:05:01](https://news.ycombinator.com/item?id=35762175) - [Show HN: Frogmouth – A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
 * [2023-04-30, 12:36:46](https://news.ycombinator.com/item?id=35761979) - [Show HN: I built a database GUI with ChatGPT integration](https://www.dbpilot.io/)
 * [2023-04-30, 11:48:16](https://news.ycombinator.com/item?id=35761706) - [FAA overruled engineers, let Boeing Max keep flying](https://apnews.com/article/boeing-max-crashes-faa-ea8fac0ad2758b08c58d2d64756fbf37)
