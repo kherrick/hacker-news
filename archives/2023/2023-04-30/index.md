@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 19:39:11](https://news.ycombinator.com/item?id=35765921) - [More people are getting away with murder. Unsolved killings reach a record high](https://www.npr.org/2023/04/29/1172775448/people-murder-unsolved-killings-record-high)
 * [2023-04-30, 19:35:32](https://news.ycombinator.com/item?id=35765882) - [Whisper.cpp v1.4.0](https://github.com/ggerganov/whisper.cpp/releases/tag/v1.4.0)
 * [2023-04-30, 19:16:41](https://news.ycombinator.com/item?id=35765707) - [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
 * [2023-04-30, 18:20:33](https://news.ycombinator.com/item?id=35765177) - [The RISC Wars Part 1: The Cambrian Explosion](https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55)
@@ -34,6 +35,7 @@
 * [2023-04-30, 11:48:16](https://news.ycombinator.com/item?id=35761706) - [FAA overruled engineers, let Boeing Max keep flying](https://apnews.com/article/boeing-max-crashes-faa-ea8fac0ad2758b08c58d2d64756fbf37)
 * [2023-04-30, 11:41:28](https://news.ycombinator.com/item?id=35761671) - [What Is ML Compilation](https://mlc.ai/chapter_introduction/index.html#what-is-ml-compilation)
 * [2023-04-30, 11:37:40](https://news.ycombinator.com/item?id=35761641) - [Pirated books thrive on Amazon – and authors say web giant ignores fraud (2022)](https://nypost.com/2022/07/31/pirated-books-thrive-on-amazon-authors-say-web-giant-ignores-fraud/)
+* [2023-04-30, 11:06:41](https://news.ycombinator.com/item?id=35761457) - [Lego Googol Machine](https://brickexperimentchannel.wordpress.com/2023/04/29/lego-googol-machine/)
 * [2023-04-30, 10:49:16](https://news.ycombinator.com/item?id=35761368) - [Vicuna on iPhone](https://mlc.ai/mlc-llm/#iphone)
 * [2023-04-30, 10:36:25](https://news.ycombinator.com/item?id=35761296) - [Beating Bisect with Branchless Binary Search](https://github.com/juliusgeo/branchless_bisect)
 * [2023-04-30, 09:49:08](https://news.ycombinator.com/item?id=35761071) - [U.S. Teen Girls Experiencing Increased Sadness and Violence](https://www.cdc.gov/media/releases/2023/p0213-yrbs.html)
