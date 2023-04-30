@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 20:58:54](https://news.ycombinator.com/item?id=35766570) - [Minetest: An open source voxel game engine](https://www.minetest.net/)
 * [2023-04-30, 19:39:11](https://news.ycombinator.com/item?id=35765921) - [More people are getting away with murder. Unsolved killings reach a record high](https://www.npr.org/2023/04/29/1172775448/people-murder-unsolved-killings-record-high)
 * [2023-04-30, 19:35:32](https://news.ycombinator.com/item?id=35765882) - [Whisper.cpp v1.4.0](https://github.com/ggerganov/whisper.cpp/releases/tag/v1.4.0)
 * [2023-04-30, 19:16:41](https://news.ycombinator.com/item?id=35765707) - [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
