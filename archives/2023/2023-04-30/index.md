@@ -26,6 +26,7 @@
 * [2023-04-30, 17:35:00](https://news.ycombinator.com/item?id=35764749) - [Alien Supercivilizations Absent from 100k Nearby Galaxies (2015)](https://www.scientificamerican.com/article/alien-supercivilizations-absent-from-100-000-nearby-galaxies1/)
 * [2023-04-30, 17:22:42](https://news.ycombinator.com/item?id=35764635) - [Show HN: The pure Python SaaS starter kit](https://pysaas.io)
 * [2023-04-30, 17:17:09](https://news.ycombinator.com/item?id=35764584) - [40 Years of Koyaanisqatsi](https://www.thecurb.com.au/40-years-of-koyaanisqatsi/)
+* [2023-04-30, 17:03:24](https://news.ycombinator.com/item?id=35764476) - [Engineers develop water filtration that removes “forever chemicals”](https://news.ubc.ca/2023/03/22/new-ubc-water-treatment-zaps-forever-chemicals-for-good/)
 * [2023-04-30, 17:03:24](https://news.ycombinator.com/item?id=35764476) - [Engineers develop water filtration that permanently removes “forever chemicals”](https://www.nbcnews.com/now/video/engineers-develop-water-filtration-system-that-removes-forever-chemicals-171419717913)
 * [2023-04-30, 17:00:37](https://news.ycombinator.com/item?id=35764445) - [Patterns (YC S21) Is Hiring AI Engineers](https://www.ycombinator.com/companies/patterns)
 * [2023-04-30, 16:52:01](https://news.ycombinator.com/item?id=35764355) - [Show HN: Eva AI-Relational Database System for Faster AI-Powered Applications](https://github.com/georgia-tech-db/eva)
