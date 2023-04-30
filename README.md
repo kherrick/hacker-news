@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-04-30, 02:51:32](https://news.ycombinator.com/item?id=35759326) - [Lyft CEO tells employees they must return to the office](https://www.cnn.com/2023/04/29/business/lyft-return-to-office/index.html)
 * [2023-04-30, 01:26:33](https://news.ycombinator.com/item?id=35758898) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 * [2023-04-30, 01:14:02](https://news.ycombinator.com/item?id=35758842) - [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
 * [2023-04-30, 00:18:42](https://news.ycombinator.com/item?id=35758587) - [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
@@ -24,7 +25,6 @@
 * [2023-04-28, 10:43:50](https://news.ycombinator.com/item?id=35739629) - [Fibonacci Hashing: An optimization that the world forgot (2018)](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
 * [2023-04-28, 08:17:56](https://news.ycombinator.com/item?id=35738817) - [Quite OK Audio Format](https://phoboslab.org/log/2023/04/qoa-specification)
 * [2023-04-28, 08:07:42](https://news.ycombinator.com/item?id=35738748) - [Liubo: Ancient Chinese board game originally played from about 500 BCE to 500 CE](https://liubolab.itch.io/liubo)
-* [2023-04-28, 06:21:27](https://news.ycombinator.com/item?id=35738072) - [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market)
 * [2023-04-28, 04:27:28](https://news.ycombinator.com/item?id=35737474) - [Translation Validation of Tensor Compilers](https://theses.hal.science/tel-03903895/)
 * [2023-04-28, 02:26:10](https://news.ycombinator.com/item?id=35736872) - [A brief history of LLaMA models](https://agi-sphere.com/llama-models/)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
