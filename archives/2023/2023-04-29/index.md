@@ -33,6 +33,7 @@
 * [2023-04-29, 16:53:32](https://news.ycombinator.com/item?id=35754656) - [How Not to Write a Microbenchmark (2002)](https://www.slideshare.net/howarddgreen/2002-microbenchmarks)
 * [2023-04-29, 16:53:13](https://news.ycombinator.com/item?id=35754655) - [WebAssembly+WebUSB port of the SANE scanner library](https://github.com/goncalomb/sane-wasm)
 * [2023-04-29, 16:45:07](https://news.ycombinator.com/item?id=35754575) - [Bot that generates videos of old web pages and media files](https://botsin.space/@eternalwanderer/109139220534296800)
+* [2023-04-29, 16:43:09](https://news.ycombinator.com/item?id=35754560) - [The moon dust problem facing scientists](https://www.bbc.com/future/article/20230424-the-people-creating-fake-moon-dust)
 * [2023-04-29, 16:06:29](https://news.ycombinator.com/item?id=35754207) - [Show HN: A Gentle Introduction to the Fediverse](https://jointhefediverse.net/)
 * [2023-04-29, 15:59:40](https://news.ycombinator.com/item?id=35754138) - [Lawmakers propose banning AI from singlehandedly launching nuclear weapons](https://www.theverge.com/2023/4/28/23702992/ai-nuclear-weapon-launch-ban-bill-markey-lieu-beyer-buck)
 * [2023-04-29, 15:43:11](https://news.ycombinator.com/item?id=35753993) - [Encrypted DMs and other DM upgrades rolling out this week](https://twitter.com/elonmusk/status/1652335652187553794)
