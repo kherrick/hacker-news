@@ -20,7 +20,7 @@
 * [2023-04-29, 17:07:24](https://news.ycombinator.com/item?id=35754793) - [Get The TLDR Of Any YouTube Video](https://www.you-tldr.com/)
 * [2023-04-29, 15:27:53](https://news.ycombinator.com/item?id=35753838) - [Children aged 2-6 successfully trained to acquire absolute pitch (2012)](https://journals.sagepub.com/doi/abs/10.1177/0305735612463948)
 * [2023-04-29, 12:25:38](https://news.ycombinator.com/item?id=35752237) - [Remove “This incident will be reported.” from user warnings](https://github.com/sudo-project/sudo/commit/6aa320c96a37613663e8de4c275bd6c490466b01)
-* [2023-04-28, 21:54:38](https://news.ycombinator.com/item?id=35747563) - [Polaroid’s Secret Showman](https://www.cabinetmagazine.org/kiosk/allen_jonathan_isenbart_jan_03_march_2023.php)
+* [2023-04-28, 16:20:48](https://news.ycombinator.com/item?id=35743433) - [1990 Impact Electric Drag Race [video]](https://www.youtube.com/watch?v=UaL2tYC0Zuw)
 * [2023-04-28, 10:43:50](https://news.ycombinator.com/item?id=35739629) - [Fibonacci Hashing: An optimization that the world forgot (2018)](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
 * [2023-04-28, 08:17:56](https://news.ycombinator.com/item?id=35738817) - [Quite OK Audio Format](https://phoboslab.org/log/2023/04/qoa-specification)
 * [2023-04-28, 08:09:54](https://news.ycombinator.com/item?id=35738763) - [Can Fortran survive another 15 years?](https://gcn.com/cloud-infrastructure/2023/04/can-fortran-survive-another-15-years/385726/)
