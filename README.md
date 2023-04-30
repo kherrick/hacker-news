@@ -6,7 +6,6 @@
 * [2023-04-30, 17:00:37](https://news.ycombinator.com/item?id=35764445) - [Patterns (YC S21) Is Hiring AI Engineers](https://www.ycombinator.com/companies/patterns)
 * [2023-04-30, 16:52:01](https://news.ycombinator.com/item?id=35764355) - [Show HN: Eva AI-Relational Database System for Faster AI-Powered Applications](https://github.com/georgia-tech-db/eva)
 * [2023-04-30, 16:45:06](https://news.ycombinator.com/item?id=35764284) - [An End to Pop](https://seths.blog/2023/04/an-end-to-pop/)
-* [2023-04-30, 16:17:21](https://news.ycombinator.com/item?id=35763999) - [Mark Zuckerberg Broke Meta](https://www.washingtonpost.com/technology/2023/04/30/mark-zuckerberg-meta-layoffs/)
 * [2023-04-30, 15:30:17](https://news.ycombinator.com/item?id=35763483) - [MLC-LLM: GPT&#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
 * [2023-04-30, 14:55:55](https://news.ycombinator.com/item?id=35763100) - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
 * [2023-04-30, 14:17:46](https://news.ycombinator.com/item?id=35762780) - [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
@@ -16,10 +15,10 @@
 * [2023-04-30, 12:36:46](https://news.ycombinator.com/item?id=35761979) - [Show HN: I built a database GUI with ChatGPT integration](https://www.dbpilot.io/)
 * [2023-04-30, 11:48:16](https://news.ycombinator.com/item?id=35761706) - [FAA overruled engineers, let Boeing Max keep flying](https://apnews.com/article/boeing-max-crashes-faa-ea8fac0ad2758b08c58d2d64756fbf37)
 * [2023-04-30, 11:41:28](https://news.ycombinator.com/item?id=35761671) - [What Is ML Compilation](https://mlc.ai/chapter_introduction/index.html#what-is-ml-compilation)
-* [2023-04-30, 11:37:40](https://news.ycombinator.com/item?id=35761641) - [Pirated books thrive on Amazon](https://nypost.com/2022/07/31/pirated-books-thrive-on-amazon-authors-say-web-giant-ignores-fraud/)
 * [2023-04-30, 10:49:16](https://news.ycombinator.com/item?id=35761368) - [Vicuna on iPhone](https://mlc.ai/mlc-llm/#iphone)
 * [2023-04-30, 10:36:25](https://news.ycombinator.com/item?id=35761296) - [Beating Bisect with Branchless Binary Search](https://github.com/juliusgeo/branchless_bisect)
 * [2023-04-30, 08:21:34](https://news.ycombinator.com/item?id=35760624) - [ESA – Space Debris by the Numbers](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
+* [2023-04-30, 07:55:35](https://news.ycombinator.com/item?id=35760489) - [llama.cpp: Roadmap May 2023](https://github.com/ggerganov/llama.cpp/discussions/1220)
 * [2023-04-30, 06:16:12](https://news.ycombinator.com/item?id=35760087) - [Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
 * [2023-04-30, 03:26:58](https://news.ycombinator.com/item?id=35759449) - [Just Simply – Stop saying how simple things are in our docs](https://justsimply.dev/)
 * [2023-04-30, 02:49:00](https://news.ycombinator.com/item?id=35759314) - [Simon Winchester devotes his anecdotal powers to why and how we know what we do](https://www.nytimes.com/2023/04/26/books/review/knowing-what-we-know-simon-winchester.html)
@@ -30,6 +29,7 @@
 * [2023-04-28, 22:40:25](https://news.ycombinator.com/item?id=35748030) - [Information Overload: on the superabundance of research-based art](https://www.artforum.com/print/202304/claire-bishop-on-the-superabundance-of-research-based-art-90274)
 * [2023-04-28, 07:47:03](https://news.ycombinator.com/item?id=35738632) - [Late Architecture with Functional Programming](https://www.infoq.com/news/2023/04/late-arch-functional-programming/)
 * [2023-04-27, 21:32:14](https://news.ycombinator.com/item?id=35734895) - [X Window System Administrator&#x27;s Guide: For X Version 11 (1992)](https://archive.org/details/xwindowsystemadm08muimiss)
+* [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 
 ## [Archives](archives/index.md)
 
