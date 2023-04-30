@@ -2,7 +2,6 @@
 
 * [2023-04-30, 19:35:32](https://news.ycombinator.com/item?id=35765882) - [Whisper.cpp v1.4.0](https://github.com/ggerganov/whisper.cpp/releases/tag/v1.4.0)
 * [2023-04-30, 19:16:41](https://news.ycombinator.com/item?id=35765707) - [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
-* [2023-04-30, 18:42:11](https://news.ycombinator.com/item?id=35765373) - [AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
 * [2023-04-30, 18:20:33](https://news.ycombinator.com/item?id=35765177) - [The RISC Wars Part 1: The Cambrian Explosion](https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55)
 * [2023-04-30, 17:22:42](https://news.ycombinator.com/item?id=35764635) - [Show HN: The pure Python SaaS starter kit](https://pysaas.io)
 * [2023-04-30, 17:17:09](https://news.ycombinator.com/item?id=35764584) - [40 Years of Koyaanisqatsi](https://www.thecurb.com.au/40-years-of-koyaanisqatsi/)
@@ -29,6 +28,7 @@
 * [2023-04-30, 02:49:00](https://news.ycombinator.com/item?id=35759314) - [Simon Winchester devotes his anecdotal powers to why and how we know what we do](https://www.nytimes.com/2023/04/26/books/review/knowing-what-we-know-simon-winchester.html)
 * [2023-04-30, 01:14:02](https://news.ycombinator.com/item?id=35758842) - [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
 * [2023-04-29, 19:15:38](https://news.ycombinator.com/item?id=35756136) - [Digitized Silhouette Portraits Shed Light on 19th Century Life](https://www.nytimes.com/2023/04/29/arts/william-bache-album-smithsonian-arsenic.html)
+* [2023-04-28, 22:40:25](https://news.ycombinator.com/item?id=35748030) - [Information Overload: on the superabundance of research-based art](https://www.artforum.com/print/202304/claire-bishop-on-the-superabundance-of-research-based-art-90274)
 * [2023-04-28, 07:47:03](https://news.ycombinator.com/item?id=35738632) - [Late Architecture with Functional Programming](https://www.infoq.com/news/2023/04/late-arch-functional-programming/)
 
 ## [Archives](archives/index.md)
