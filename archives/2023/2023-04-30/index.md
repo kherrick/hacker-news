@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 19:35:32](https://news.ycombinator.com/item?id=35765882) - [Whisper.cpp v1.4.0](https://github.com/ggerganov/whisper.cpp/releases/tag/v1.4.0)
 * [2023-04-30, 19:16:41](https://news.ycombinator.com/item?id=35765707) - [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
+* [2023-04-30, 18:20:33](https://news.ycombinator.com/item?id=35765177) - [The RISC Wars Part 1: The Cambrian Explosion](https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55)
 * [2023-04-30, 17:35:00](https://news.ycombinator.com/item?id=35764749) - [Alien Supercivilizations Absent from 100k Nearby Galaxies (2015)](https://www.scientificamerican.com/article/alien-supercivilizations-absent-from-100-000-nearby-galaxies1/)
 * [2023-04-30, 17:22:42](https://news.ycombinator.com/item?id=35764635) - [Show HN: The pure Python SaaS starter kit](https://pysaas.io)
 * [2023-04-30, 17:17:09](https://news.ycombinator.com/item?id=35764584) - [40 Years of Koyaanisqatsi](https://www.thecurb.com.au/40-years-of-koyaanisqatsi/)
