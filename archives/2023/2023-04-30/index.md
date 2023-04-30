@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 22:54:57](https://news.ycombinator.com/item?id=35767315) - [Want to try Bluesky? Look carefully at the terms of service. – Mashable](https://mashable.com/article/bluesky-twitter-terms-of-service)
 * [2023-04-30, 22:12:41](https://news.ycombinator.com/item?id=35767057) - [Banking crises rooted in a system that rewards excessive risk-taking](https://theconversation.com/banking-crises-rooted-in-a-system-that-rewards-excessive-risk-taking-as-first-republics-precarious-situation-shows-204255)
 * [2023-04-30, 22:01:02](https://news.ycombinator.com/item?id=35766988) - [Facing Imminent Homelessness, Gagoot Developer Seeks Project Funding](https://gagoot.com/sos.txt)
 * [2023-04-30, 21:57:20](https://news.ycombinator.com/item?id=35766965) - [CRISPR-Cas-amplified urinary biomarkers for cancer diagnostics](https://www.nature.com/articles/s41565-023-01372-9)
@@ -19,6 +20,7 @@
 * [2023-04-30, 19:23:44](https://news.ycombinator.com/item?id=35765783) - [Four Questions Concerning the Internet](https://paulkingsnorth.substack.com/p/the-universal)
 * [2023-04-30, 19:16:41](https://news.ycombinator.com/item?id=35765707) - [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
 * [2023-04-30, 19:14:51](https://news.ycombinator.com/item?id=35765690) - [Steam Deck emulation installer EmuDeck 2.1 launched](https://overkill.wtf/emudeck-2-1-update/)
+* [2023-04-30, 19:14:51](https://news.ycombinator.com/item?id=35765690) - [EmuDeck 2.1: Steam Deck emulation installer](https://www.emudeck.com/)
 * [2023-04-30, 18:42:11](https://news.ycombinator.com/item?id=35765373) - [AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
 * [2023-04-30, 18:20:33](https://news.ycombinator.com/item?id=35765177) - [The RISC Wars Part 1: The Cambrian Explosion](https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55)
 * [2023-04-30, 17:35:00](https://news.ycombinator.com/item?id=35764749) - [Alien Supercivilizations Absent from 100k Nearby Galaxies (2015)](https://www.scientificamerican.com/article/alien-supercivilizations-absent-from-100-000-nearby-galaxies1/)
