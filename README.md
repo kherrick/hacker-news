@@ -27,7 +27,7 @@
 * [2023-04-30, 07:55:35](https://news.ycombinator.com/item?id=35760489) - [llama.cpp: Roadmap May 2023](https://github.com/ggerganov/llama.cpp/discussions/1220)
 * [2023-04-30, 06:58:47](https://news.ycombinator.com/item?id=35760265) - [The invention of selective breeding was unbelievably late (2019)](https://gwern.net/review/bakewell)
 * [2023-04-30, 04:59:19](https://news.ycombinator.com/item?id=35759804) - [Notes on Charles Portis’s notes: papers by America’s “least-known great writer”](https://www.loa.org/news-and-views/2145-notes-on-charles-portiss-notes-jay-jennings-pores-over-a-cache-of-papers-by-americas-least-known-great-writer)
-* [2023-04-30, 01:14:02](https://news.ycombinator.com/item?id=35758842) - [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
+* [2023-04-30, 04:27:34](https://news.ycombinator.com/item?id=35759687) - [‘Why Beethoven’ Review: Can a Genius Survive?](https://www.wsj.com/articles/why-beethoven-review-can-a-genius-survive-a9e1e516)
 * [2023-04-29, 19:15:38](https://news.ycombinator.com/item?id=35756136) - [Digitized Silhouette Portraits Shed Light on 19th Century Life](https://www.nytimes.com/2023/04/29/arts/william-bache-album-smithsonian-arsenic.html)
 * [2023-04-28, 07:47:03](https://news.ycombinator.com/item?id=35738632) - [Late Architecture with Functional Programming](https://www.infoq.com/news/2023/04/late-arch-functional-programming/)
 
