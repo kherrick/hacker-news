@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-04-30, 17:35:00](https://news.ycombinator.com/item?id=35764749) - [Alien Supercivilizations Absent from 100k Nearby Galaxies (2015)](https://www.scientificamerican.com/article/alien-supercivilizations-absent-from-100-000-nearby-galaxies1/)
+* [2023-04-30, 17:22:42](https://news.ycombinator.com/item?id=35764635) - [Show HN: The pure Python SaaS starter kit](https://pysaas.io)
 * [2023-04-30, 17:17:09](https://news.ycombinator.com/item?id=35764584) - [40 Years of Koyaanisqatsi](https://www.thecurb.com.au/40-years-of-koyaanisqatsi/)
 * [2023-04-30, 17:03:24](https://news.ycombinator.com/item?id=35764476) - [Engineers develop water filtration that permanently removes “forever chemicals”](https://www.nbcnews.com/now/video/engineers-develop-water-filtration-system-that-removes-forever-chemicals-171419717913)
 * [2023-04-30, 17:00:37](https://news.ycombinator.com/item?id=35764445) - [Patterns (YC S21) Is Hiring AI Engineers](https://www.ycombinator.com/companies/patterns)
 * [2023-04-30, 16:52:01](https://news.ycombinator.com/item?id=35764355) - [Show HN: Eva AI-Relational Database System for Faster AI-Powered Applications](https://github.com/georgia-tech-db/eva)
 * [2023-04-30, 16:45:06](https://news.ycombinator.com/item?id=35764284) - [An End to Pop](https://seths.blog/2023/04/an-end-to-pop/)
+* [2023-04-30, 16:38:35](https://news.ycombinator.com/item?id=35764212) - [Function multi-versioning in GCC 6 (2016)](https://lwn.net/Articles/691932/)
 * [2023-04-30, 15:30:17](https://news.ycombinator.com/item?id=35763483) - [MLC-LLM: GPT&#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
 * [2023-04-30, 14:55:55](https://news.ycombinator.com/item?id=35763100) - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
 * [2023-04-30, 14:17:46](https://news.ycombinator.com/item?id=35762780) - [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
@@ -28,8 +30,6 @@
 * [2023-04-29, 16:43:09](https://news.ycombinator.com/item?id=35754560) - [The moon dust problem facing scientists](https://www.bbc.com/future/article/20230424-the-people-creating-fake-moon-dust)
 * [2023-04-28, 22:40:25](https://news.ycombinator.com/item?id=35748030) - [Information Overload: on the superabundance of research-based art](https://www.artforum.com/print/202304/claire-bishop-on-the-superabundance-of-research-based-art-90274)
 * [2023-04-28, 07:47:03](https://news.ycombinator.com/item?id=35738632) - [Late Architecture with Functional Programming](https://www.infoq.com/news/2023/04/late-arch-functional-programming/)
-* [2023-04-27, 21:32:14](https://news.ycombinator.com/item?id=35734895) - [X Window System Administrator&#x27;s Guide: For X Version 11 (1992)](https://archive.org/details/xwindowsystemadm08muimiss)
-* [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 
 ## [Archives](archives/index.md)
 
