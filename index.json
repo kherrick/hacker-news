@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-04-30, 22:54:57",
-      "https://news.ycombinator.com/item?id=35767315"
-    ],
-    [
-      "Want to try Bluesky? Look carefully at the terms of service. – Mashable",
-      "https://mashable.com/article/bluesky-twitter-terms-of-service"
-    ]
-  ],
-  [
-    [
       "2023-04-30, 21:57:20",
       "https://news.ycombinator.com/item?id=35766965"
     ],
     [
       "CRISPR-Cas-amplified urinary biomarkers for cancer diagnostics",
       "https://www.nature.com/articles/s41565-023-01372-9"
-    ]
-  ],
-  [
-    [
-      "2023-04-30, 21:46:19",
-      "https://news.ycombinator.com/item?id=35766897"
-    ],
-    [
-      "Maybe you should store passwords in plaintext",
-      "https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext"
     ]
   ],
   [
@@ -47,16 +27,6 @@
     [
       "Speed Is All You Need: On-Device Acceleration of Large Diffusion Models",
       "https://arxiv.org/abs/2304.11267"
-    ]
-  ],
-  [
-    [
-      "2023-04-30, 21:19:53",
-      "https://news.ycombinator.com/item?id=35766723"
-    ],
-    [
-      "Bluesky Overhaul: the UI enhancement browser extension",
-      "https://github.com/xenohunter/bluesky-overhaul"
     ]
   ],
   [
@@ -95,7 +65,7 @@
       "https://news.ycombinator.com/item?id=35765783"
     ],
     [
-      "Four Questions Concerning the Internet",
+      "Four questions concerning the internet",
       "https://paulkingsnorth.substack.com/p/the-universal"
     ]
   ],
@@ -155,8 +125,8 @@
       "https://news.ycombinator.com/item?id=35764476"
     ],
     [
-      "Engineers develop water filtration that permanently removes “forever chemicals”",
-      "https://www.nbcnews.com/now/video/engineers-develop-water-filtration-system-that-removes-forever-chemicals-171419717913"
+      "Engineers develop water filtration that removes “forever chemicals”",
+      "https://news.ubc.ca/2023/03/22/new-ubc-water-treatment-zaps-forever-chemicals-for-good/"
     ]
   ],
   [
@@ -235,7 +205,7 @@
       "https://news.ycombinator.com/item?id=35762284"
     ],
     [
-      "Fide World Chess Championship Decided in Rapid Tiebreaks",
+      "FIDE world chess championship decided in rapid tiebreaks",
       "https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4"
     ]
   ],
@@ -247,6 +217,16 @@
     [
       "Show HN: Frogmouth – A Markdown browser for the terminal",
       "https://github.com/Textualize/frogmouth"
+    ]
+  ],
+  [
+    [
+      "2023-04-30, 11:48:16",
+      "https://news.ycombinator.com/item?id=35761706"
+    ],
+    [
+      "FAA overruled engineers, let Boeing Max keep flying",
+      "https://apnews.com/article/boeing-max-crashes-faa-ea8fac0ad2758b08c58d2d64756fbf37"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2023-04-30, 06:58:47",
+      "https://news.ycombinator.com/item?id=35760265"
+    ],
+    [
+      "The invention of selective breeding was unbelievably late (2019)",
+      "https://gwern.net/review/bakewell"
+    ]
+  ],
+  [
+    [
       "2023-04-30, 04:59:19",
       "https://news.ycombinator.com/item?id=35759804"
     ],
     [
       "Notes on Charles Portis’s notes: papers by America’s “least-known great writer”",
       "https://www.loa.org/news-and-views/2145-notes-on-charles-portiss-notes-jay-jennings-pores-over-a-cache-of-papers-by-americas-least-known-great-writer"
+    ]
+  ],
+  [
+    [
+      "2023-04-29, 19:15:38",
+      "https://news.ycombinator.com/item?id=35756136"
+    ],
+    [
+      "Digitized silhouette portraits shed light on 19th century life",
+      "https://www.nytimes.com/2023/04/29/arts/william-bache-album-smithsonian-arsenic.html"
     ]
   ]
 ]
