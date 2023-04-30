@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-04-29, 20:52:55",
-      "https://news.ycombinator.com/item?id=35757072"
-    ],
-    [
-      "MIT engineers “grow” atomically thin transistors on top of computer chips",
-      "https://news.mit.edu/2023/mit-engineers-2d-materials-computer-chips-0427"
-    ]
-  ],
-  [
-    [
       "2023-04-29, 19:23:41",
       "https://news.ycombinator.com/item?id=35756203"
     ],
@@ -187,6 +177,16 @@
     [
       "Remove “This incident will be reported.” from user warnings",
       "https://github.com/sudo-project/sudo/commit/6aa320c96a37613663e8de4c275bd6c490466b01"
+    ]
+  ],
+  [
+    [
+      "2023-04-29, 02:09:17",
+      "https://news.ycombinator.com/item?id=35749366"
+    ],
+    [
+      "Scrcpy: Display and control your Android devices connected over USB or TCP&#x2F;IP",
+      "https://github.com/Genymobile/scrcpy"
     ]
   ],
   [
