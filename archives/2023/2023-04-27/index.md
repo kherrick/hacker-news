@@ -16,6 +16,7 @@
 * [2023-04-27, 22:16:22](https://news.ycombinator.com/item?id=35735250) - [Everything Is Interpolated: Inside Music’s Nostalgia-Industrial Complex](https://pitchfork.com/features/overtones/everything-is-interpolated-inside-musics-nostalgia-industrial-complex/)
 * [2023-04-27, 21:53:08](https://news.ycombinator.com/item?id=35735076) - [Home Assistant’s Year of the Voice – Chapter 2](https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/)
 * [2023-04-27, 21:46:27](https://news.ycombinator.com/item?id=35735030) - [Harvey AI raises $21M in a Series A round led by Sequoia](https://www.lawnext.com/2023/04/harvey-ai-raises-21m-in-a-series-a-round-led-by-sequoia.html)
+* [2023-04-27, 21:32:14](https://news.ycombinator.com/item?id=35734895) - [X Window System Administrator&#x27;s Guide: For X Version 11](https://archive.org/details/xwindowsystemadm08muimiss)
 * [2023-04-27, 21:20:48](https://news.ycombinator.com/item?id=35734775) - [High-res image reconstruction, latent diffusion models from human brain activity](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v3)
 * [2023-04-27, 21:13:16](https://news.ycombinator.com/item?id=35734685) - [Knowledge retrieval architectures for LLMs (2023)](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
 * [2023-04-27, 21:00:57](https://news.ycombinator.com/item?id=35734516) - [Firezone (YC W22) is hiring Rust systems engineers (SF &#x2F; US remote)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
