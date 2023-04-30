@@ -90,6 +90,7 @@
 * [2023-04-28, 04:10:35](https://news.ycombinator.com/item?id=35737397) - [We&#x27;re Afraid Language Models Aren&#x27;t Modeling Ambiguity](https://arxiv.org/abs/2304.14399)
 * [2023-04-28, 03:47:38](https://news.ycombinator.com/item?id=35737284) - [Hidet: A Deep Learning Compiler for Efficient Model Serving](https://pytorch.org/blog/introducing-hidet/)
 * [2023-04-28, 03:43:48](https://news.ycombinator.com/item?id=35737255) - [Ernest Hemingway vs. William Faulkner: The Literary Celebrity Feud (2017)](https://edamurray.com/2017/03/02/ernest-hemingway-vs-william-faulkner-literary-celebrity-feud/)
+* [2023-04-28, 03:37:01](https://news.ycombinator.com/item?id=35737214) - [Heroes of Hardware Revolution: Bob Widlar (2014)](https://hackaday.com/2014/04/08/heroes-of-hardware-revolution-bob-widlar/)
 * [2023-04-28, 03:24:33](https://news.ycombinator.com/item?id=35737151) - [Text-to-Audio Generation Using Instruction Tuned LLM and Latent Diffusion Model](https://tango-web.github.io/)
 * [2023-04-28, 03:12:19](https://news.ycombinator.com/item?id=35737085) - [Even Sega knows it&#x27;d only win the console war in a dystopia](https://www.gamesradar.com/even-sega-knows-itd-only-win-the-console-war-in-a-dystopia/)
 * [2023-04-28, 02:52:59](https://news.ycombinator.com/item?id=35737000) - [Flush your Amazon credentials now](https://auspicacious.org/posts/2023/04/26/flush-amazon-credentials-now/)
