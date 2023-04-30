@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 07:16:52](https://news.ycombinator.com/item?id=35760327) - [SpaceX Rocket Struggled to Self-Destruct as It Spun Out of Control](https://www.nytimes.com/2023/04/29/science/elon-musk-spacex-starship.html)
 * [2023-04-30, 06:54:32](https://news.ycombinator.com/item?id=35760243) - [A US Bill Would Ban Kids Under 13 from Joining Social Media](https://www.wired.com/story/protecting-kids-social-media-act/)
+* [2023-04-30, 06:31:38](https://news.ycombinator.com/item?id=35760145) - [ChatGPT &#x2F; GPT-4 seems to suddenly be malfunctioning](https://news.ycombinator.com/item?id=35760145)
 * [2023-04-30, 06:16:12](https://news.ycombinator.com/item?id=35760087) - [Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
 * [2023-04-30, 02:51:32](https://news.ycombinator.com/item?id=35759326) - [Lyft CEO tells employees they must return to the office](https://www.cnn.com/2023/04/29/business/lyft-return-to-office/index.html)
 * [2023-04-30, 02:16:25](https://news.ycombinator.com/item?id=35759159) - [Nix-on-droid: Nix-enabled environment for your Android device (termux-based)](https://github.com/t184256/nix-on-droid)
