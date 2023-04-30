@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 14:28:32](https://news.ycombinator.com/item?id=35762872) - [British public support for monarchy at historic low, poll reveals](https://www.theguardian.com/uk-news/2023/apr/28/public-support-monarchy-historic-low-poll-reveals)
+* [2023-04-30, 14:17:46](https://news.ycombinator.com/item?id=35762780) - [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
+* [2023-04-30, 14:13:49](https://news.ycombinator.com/item?id=35762731) - [Epstein&#x27;s Private Calendar Reveals Prominent Names, Including CIA Chief](https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff)
 * [2023-04-30, 13:45:37](https://news.ycombinator.com/item?id=35762483) - [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
 * [2023-04-30, 13:20:09](https://news.ycombinator.com/item?id=35762284) - [Ding Liren Wins the Fide World Chess Championship](https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4)
 * [2023-04-30, 13:10:17](https://news.ycombinator.com/item?id=35762216) - [Do Papercuts Matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
