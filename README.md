@@ -10,6 +10,7 @@
 * [2023-04-30, 01:26:33](https://news.ycombinator.com/item?id=35758898) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 * [2023-04-30, 01:14:02](https://news.ycombinator.com/item?id=35758842) - [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
 * [2023-04-30, 00:18:42](https://news.ycombinator.com/item?id=35758587) - [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
+* [2023-04-30, 00:17:50](https://news.ycombinator.com/item?id=35758584) - [Show HN: PineTool – An iOS Companion for the Pinecil](https://lachy.io/articles/introducing-pinetool)
 * [2023-04-29, 21:02:08](https://news.ycombinator.com/item?id=35757150) - [Awesome Music Theory: books, links, videos, research, visuals, composition](https://github.com/vpavlenko/study-music)
 * [2023-04-29, 20:52:55](https://news.ycombinator.com/item?id=35757072) - [MIT engineers “grow” atomically thin transistors on top of computer chips](https://news.mit.edu/2023/mit-engineers-2d-materials-computer-chips-0427)
 * [2023-04-29, 19:23:41](https://news.ycombinator.com/item?id=35756203) - [The lifesaving sled dog Balto had genes unlike those of dog breeds today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
@@ -29,7 +30,6 @@
 * [2023-04-27, 22:16:22](https://news.ycombinator.com/item?id=35735250) - [Everything Is Interpolated: Music’s Nostalgia-Industrial Complex](https://pitchfork.com/features/overtones/everything-is-interpolated-inside-musics-nostalgia-industrial-complex/)
 * [2023-04-27, 21:32:14](https://news.ycombinator.com/item?id=35734895) - [X Window System Administrator&#x27;s Guide: For X Version 11](https://archive.org/details/xwindowsystemadm08muimiss)
 * [2023-04-27, 15:04:56](https://news.ycombinator.com/item?id=35729232) - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
-* [2023-04-27, 10:56:39](https://news.ycombinator.com/item?id=35726183) - [Listening to Satellites: A Journey with My RTL-SDR V3](https://moh53n.medium.com/listening-to-satellites-a-journey-with-my-rtl-sdr-v3-5ba719bc68a5)
 
 ## [Archives](archives/index.md)
 
