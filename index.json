@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-04-29, 22:17:36",
-      "https://news.ycombinator.com/item?id=35757802"
+      "2023-04-30, 01:14:02",
+      "https://news.ycombinator.com/item?id=35758842"
     ],
     [
-      "Revealing example of self-attention, the building block of transformer AI models",
-      "https://github.com/jostmey/NakedAttention"
+      "Microsoft quietly supported legislation to make it easier to fix devices",
+      "https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/"
+    ]
+  ],
+  [
+    [
+      "2023-04-30, 00:18:42",
+      "https://news.ycombinator.com/item?id=35758587"
+    ],
+    [
+      "Waterloo Style",
+      "https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-30, 00:17:50",
+      "https://news.ycombinator.com/item?id=35758584"
+    ],
+    [
+      "Show HN: PineTool – An iOS Companion for the Pinecil",
+      "https://lachy.io/articles/introducing-pinetool"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Sensenmann: Code Deletion at Scale",
       "https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-29, 18:36:25",
-      "https://news.ycombinator.com/item?id=35755747"
-    ],
-    [
-      "Real interview recordings to help job seekers",
-      "https://news.ycombinator.com/item?id=35755747"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-04-29, 12:54:20",
-      "https://news.ycombinator.com/item?id=35752435"
-    ],
-    [
-      "Ancient architecture that defies earthquakes",
-      "https://nautil.us/the-ancient-architecture-that-defies-earthquakes-301285/"
-    ]
-  ],
-  [
-    [
       "2023-04-29, 12:25:38",
       "https://news.ycombinator.com/item?id=35752237"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-04-28, 20:47:24",
+      "https://news.ycombinator.com/item?id=35746920"
+    ],
+    [
+      "Iceberg lovers go wild over photos of the &#x27;dickie berg&#x27; off Newfoundland&#x27;s coast",
+      "https://www.cbc.ca/news/canada/newfoundland-labrador/oddly-shaped-iceberg-nl-1.6825578"
+    ]
+  ],
+  [
+    [
       "2023-04-28, 10:43:50",
       "https://news.ycombinator.com/item?id=35739629"
     ],
@@ -231,12 +241,22 @@
   ],
   [
     [
-      "2023-04-28, 06:21:27",
-      "https://news.ycombinator.com/item?id=35738072"
+      "2023-04-28, 08:17:56",
+      "https://news.ycombinator.com/item?id=35738817"
     ],
     [
-      "The State of Serverless GPUs",
-      "https://www.inferless.com/serverless-gpu-market"
+      "Quite OK Audio Format",
+      "https://phoboslab.org/log/2023/04/qoa-specification"
+    ]
+  ],
+  [
+    [
+      "2023-04-28, 04:27:28",
+      "https://news.ycombinator.com/item?id=35737474"
+    ],
+    [
+      "Translation Validation of Tensor Compilers",
+      "https://theses.hal.science/tel-03903895/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Listening to Satellites: A Journey with My RTL-SDR V3",
       "https://moh53n.medium.com/listening-to-satellites-a-journey-with-my-rtl-sdr-v3-5ba719bc68a5"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 22:58:07",
-      "https://news.ycombinator.com/item?id=35721084"
-    ],
-    [
-      "All that was mortal: Walking through the Protestant Cemetery in Rome",
-      "https://www.laphamsquarterly.org/roundtable/all-was-mortal"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 08:56:07",
-      "https://news.ycombinator.com/item?id=35711067"
-    ],
-    [
-      "Dethrace: Reverse engineering the 1997 game Carmageddon",
-      "https://github.com/dethrace-labs/dethrace"
     ]
   ]
 ]
