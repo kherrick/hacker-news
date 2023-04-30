@@ -23,7 +23,7 @@
 * [2023-04-29, 12:25:38](https://news.ycombinator.com/item?id=35752237) - [Remove “This incident will be reported.” from user warnings](https://github.com/sudo-project/sudo/commit/6aa320c96a37613663e8de4c275bd6c490466b01)
 * [2023-04-28, 10:43:50](https://news.ycombinator.com/item?id=35739629) - [Fibonacci Hashing: An optimization that the world forgot (2018)](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
 * [2023-04-28, 08:17:56](https://news.ycombinator.com/item?id=35738817) - [Quite OK Audio Format](https://phoboslab.org/log/2023/04/qoa-specification)
-* [2023-04-28, 08:07:42](https://news.ycombinator.com/item?id=35738748) - [Liubo: Ancient Chinese board game originally played from about 500 BCE to 500 CE](https://liubolab.itch.io/liubo)
+* [2023-04-28, 08:08:34](https://news.ycombinator.com/item?id=35738756) - [Flat Panel Haptics: Embedded Electroosmotic Pumps for Scalable Shape Displays](https://techcrunch.com/2023/04/27/tactile-push-notifications/)
 * [2023-04-28, 03:37:01](https://news.ycombinator.com/item?id=35737214) - [Heroes of Hardware Revolution: Bob Widlar (2014)](https://hackaday.com/2014/04/08/heroes-of-hardware-revolution-bob-widlar/)
 * [2023-04-28, 02:26:10](https://news.ycombinator.com/item?id=35736872) - [A brief history of LLaMA models](https://agi-sphere.com/llama-models/)
 * [2023-04-27, 22:16:22](https://news.ycombinator.com/item?id=35735250) - [Everything Is Interpolated: Music’s Nostalgia-Industrial Complex](https://pitchfork.com/features/overtones/everything-is-interpolated-inside-musics-nostalgia-industrial-complex/)
