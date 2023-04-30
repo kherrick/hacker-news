@@ -74,6 +74,7 @@
 * [2023-04-28, 08:08:34](https://news.ycombinator.com/item?id=35738756) - [Flat Panel Haptics: Embedded Electroosmotic Pumps for Scalable Shape Displays](https://techcrunch.com/2023/04/27/tactile-push-notifications/)
 * [2023-04-28, 08:07:42](https://news.ycombinator.com/item?id=35738748) - [Liubo: Ancient Chinese board game originally played from about 500 BCE to 500 CE](https://liubolab.itch.io/liubo)
 * [2023-04-28, 07:48:52](https://news.ycombinator.com/item?id=35738645) - [Udemy to pay $4M to settle a case alleging it advertised fake discounts](https://twitter.com/RobertFreundLaw/status/1651760647871561728)
+* [2023-04-28, 07:47:03](https://news.ycombinator.com/item?id=35738632) - [Late Architecture with Functional Programming](https://www.infoq.com/news/2023/04/late-arch-functional-programming/)
 * [2023-04-28, 06:44:56](https://news.ycombinator.com/item?id=35738231) - [Europe’s Longest Bicycling Tunnel Opens in Norway](https://reasonstobecheerful.world/europes-longest-bicycling-tunnel-opens-in-norway/)
 * [2023-04-28, 06:21:27](https://news.ycombinator.com/item?id=35738072) - [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market)
 * [2023-04-28, 05:48:36](https://news.ycombinator.com/item?id=35737877) - [Recycled denim: a breakthrough?](https://www.voguebusiness.com/sustainability/recycled-denim-have-pangaia-and-evrnu-made-a-big-breakthrough)
