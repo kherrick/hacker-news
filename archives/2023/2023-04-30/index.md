@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 17:00:37](https://news.ycombinator.com/item?id=35764445) - [Patterns (YC S21) Is Hiring AI Engineers](https://www.ycombinator.com/companies/patterns)
 * [2023-04-30, 16:17:21](https://news.ycombinator.com/item?id=35763999) - [Mark Zuckerberg Broke Meta](https://www.washingtonpost.com/technology/2023/04/30/mark-zuckerberg-meta-layoffs/)
 * [2023-04-30, 15:30:17](https://news.ycombinator.com/item?id=35763483) - [MLC-LLM: GPT&#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
 * [2023-04-30, 15:04:51](https://news.ycombinator.com/item?id=35763191) - [AI&#x27;s true goal may no longer be intelligence](https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/)
@@ -19,6 +20,7 @@
 * [2023-04-30, 13:10:17](https://news.ycombinator.com/item?id=35762216) - [Do Papercuts Matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
 * [2023-04-30, 13:05:01](https://news.ycombinator.com/item?id=35762175) - [Show HN: Frogmouth – A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
 * [2023-04-30, 12:37:38](https://news.ycombinator.com/item?id=35761986) - [Research Finds No Gender Bias in Academic Science](https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/04/27/research-finds-no-gender-bias-academic-science)
+* [2023-04-30, 12:36:46](https://news.ycombinator.com/item?id=35761979) - [Show HN: I built a database GUI with ChatGPT integration](https://www.dbpilot.io/)
 * [2023-04-30, 11:48:16](https://news.ycombinator.com/item?id=35761706) - [FAA overruled engineers, let Boeing Max keep flying](https://apnews.com/article/boeing-max-crashes-faa-ea8fac0ad2758b08c58d2d64756fbf37)
 * [2023-04-30, 11:41:28](https://news.ycombinator.com/item?id=35761671) - [What Is ML Compilation](https://mlc.ai/chapter_introduction/index.html#what-is-ml-compilation)
 * [2023-04-30, 11:37:40](https://news.ycombinator.com/item?id=35761641) - [Pirated books thrive on Amazon – and authors say web giant ignores fraud (2022)](https://nypost.com/2022/07/31/pirated-books-thrive-on-amazon-authors-say-web-giant-ignores-fraud/)
