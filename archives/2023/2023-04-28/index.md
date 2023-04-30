@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 23:07:42](https://news.ycombinator.com/item?id=35748283) - [The Path to Pistoia: Urban Hygiene Before the Black Death (2020)](https://academic.oup.com/past/article/246/1/3/5580562)
 * [2023-04-28, 22:49:28](https://news.ycombinator.com/item?id=35748115) - [Parrondo&#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
 * [2023-04-28, 22:42:49](https://news.ycombinator.com/item?id=35748052) - [JanOS: Turn your phone into an IoT board](http://janos.io/)
 * [2023-04-28, 22:26:44](https://news.ycombinator.com/item?id=35747896) - [Red Hat layoffs spark calls to unionize, CEO wades in](https://www.theregister.com/2023/04/28/red_hat_layoffs_union/)
