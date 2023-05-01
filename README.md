@@ -8,7 +8,7 @@
 * [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
 * [2023-05-01, 17:00:58](https://news.ycombinator.com/item?id=35775687) - [Agave (YC W22) Is Hiring Founding Eng – Construction API](https://news.ycombinator.com/item?id=35775687)
 * [2023-05-01, 16:00:42](https://news.ycombinator.com/item?id=35774730) - [Storage on Vercel](https://vercel.com/blog/vercel-storage)
-* [2023-05-01, 15:48:44](https://news.ycombinator.com/item?id=35774540) - [Vacations in the Soviet Union](https://daily.jstor.org/workers-of-the-world-take-pto/)
+* [2023-05-01, 15:36:09](https://news.ycombinator.com/item?id=35774311) - [Up next: the lawsuit threatening your YouTube watch queue](https://www.mux.com/blog/up-next-the-lawsuit-threatening-your-youtube-watch-queue)
 * [2023-05-01, 15:29:20](https://news.ycombinator.com/item?id=35774201) - [The socialist calculation debate](https://www.laphamsquarterly.org/roundtable/socialist-calculation-debate)
 * [2023-05-01, 15:29:00](https://news.ycombinator.com/item?id=35774193) - [“The Dead Silence of Goods”: Annie Ernaux and the Superstore](https://www.theparisreview.org/blog/2023/05/01/the-dead-silence-of-goods-annie-ernaux-and-the-superstore/)
 * [2023-05-01, 15:23:39](https://news.ycombinator.com/item?id=35774107) - [Cube.js: Headless Semantic Layer](https://github.com/cube-js/cube)
