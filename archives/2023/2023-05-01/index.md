@@ -41,6 +41,7 @@
 * [2023-05-01, 12:43:54](https://news.ycombinator.com/item?id=35772020) - [Things that don’t work well with MySQL’s FOREIGN KEY implementation](http://code.openark.org/blog/mysql/things-that-dont-work-well-with-mysqls-foreign-key-implementation)
 * [2023-05-01, 12:42:40](https://news.ycombinator.com/item?id=35772005) - [Help make mass surveillance of entire populations uneconomical](https://prism-break.org/en/)
 * [2023-05-01, 12:41:16](https://news.ycombinator.com/item?id=35771994) - [Krita is a professional FREE and open source painting program](https://krita.org/en/)
+* [2023-05-01, 12:33:43](https://news.ycombinator.com/item?id=35771919) - [Mermaidsjs Wrapper for Google Docs](https://github.com/renanlecaro/mermaid-gdocs)
 * [2023-05-01, 12:31:13](https://news.ycombinator.com/item?id=35771890) - [Heathkit](https://shop.heathkit.com/shop)
 * [2023-05-01, 12:00:37](https://news.ycombinator.com/item?id=35771604) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/ff030eb9f23c01-ml-engineer-intern)
 * [2023-05-01, 11:54:21](https://news.ycombinator.com/item?id=35771542) - [Composable Moderation](https://blueskyweb.xyz/blog/4-13-2023-moderation)
