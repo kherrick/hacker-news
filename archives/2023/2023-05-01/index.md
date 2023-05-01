@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 03:32:48](https://news.ycombinator.com/item?id=35768824) - [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
 * [2023-05-01, 03:15:40](https://news.ycombinator.com/item?id=35768744) - [This Content Is for Human Consumption Only](https://orbistertius.substack.com/p/refuse-to-be-an-observation)
+* [2023-05-01, 03:08:52](https://news.ycombinator.com/item?id=35768692) - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
 * [2023-05-01, 02:31:47](https://news.ycombinator.com/item?id=35768525) - [XTerm: It&#x27;s Better Than You Thought (2021)](https://aduros.com/blog/xterm-its-better-than-you-thought/)
 * [2023-05-01, 02:22:51](https://news.ycombinator.com/item?id=35768477) - [Intel to drop the “I” moniker in upcoming CPU rebrand](https://boringtextreviews.com/2023/04/30/intel-to-drop-the-i-moniker-in-upcoming-cpu-rebrand/)
 * [2023-05-01, 01:59:41](https://news.ycombinator.com/item?id=35768374) - [Ggwave: Message people over sound](https://github.com/ggerganov/ggwave)
