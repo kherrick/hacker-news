@@ -13,6 +13,7 @@
 * [2023-05-01, 06:05:09](https://news.ycombinator.com/item?id=35769529) - [Teardown Frame Teardown: Rendering Analysis](https://acko.net/blog/teardown-frame-teardown/)
 * [2023-05-01, 04:51:24](https://news.ycombinator.com/item?id=35769203) - [Indian government bans 14 messenger apps including Element, Briar and Threema](https://news.abplive.com/technology/india-ban-messaging-messenger-apps-mobile-pakistan-terrorism-connection-crypviser-enigma-safeswiss-bchat-1599074)
 * [2023-05-01, 04:42:35](https://news.ycombinator.com/item?id=35769163) - [Dex Lang: Research language for array processing in the Haskell&#x2F;ML family](https://github.com/google-research/dex-lang)
+* [2023-05-01, 04:14:09](https://news.ycombinator.com/item?id=35769031) - [Gilbert U-238 Atomic Energy Laboratory](https://en.wikipedia.org/wiki/Gilbert_U-238_Atomic_Energy_Laboratory)
 * [2023-05-01, 03:54:55](https://news.ycombinator.com/item?id=35768943) - [Design a keyboard with Ergogen v4](https://flatfootfox.com/ergogen-introduction/)
 * [2023-05-01, 03:32:48](https://news.ycombinator.com/item?id=35768824) - [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
 * [2023-05-01, 03:15:40](https://news.ycombinator.com/item?id=35768744) - [This Content Is for Human Consumption Only](https://orbistertius.substack.com/p/refuse-to-be-an-observation)
