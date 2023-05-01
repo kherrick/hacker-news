@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
 * [2023-05-01, 22:02:39](https://news.ycombinator.com/item?id=35779816) - [The “Location Off” switch on your phone is a lie](https://gabrielsieben.tech/2023/05/01/the-location-off-switch-on-your-phone-is-a-lie/)
+* [2023-05-01, 22:01:29](https://news.ycombinator.com/item?id=35779805) - [Laser scanning microscope from DVD pickup heads](https://www.gaudi.ch/GaudiLabs/?page_id=652)
 * [2023-05-01, 21:38:16](https://news.ycombinator.com/item?id=35779552) - [State agrees the only witness cannot be believed, court to force execution](https://www.lawdork.com/p/oklahoma-glossip-florida-nonunanimous-juries#%C2%A7oklahomas-top-criminal-court-ignores-republican-ag-in-glossip-case)
 * [2023-05-01, 21:12:46](https://news.ycombinator.com/item?id=35779244) - [Palo Alto Council agrees to 20 cameras, new automated plate recognition system](https://www.paloaltoonline.com/news/2023/04/03/palo-alto-leans-on-license-plate-readers-to-dent-property-crime)
 * [2023-05-01, 21:01:01](https://news.ycombinator.com/item?id=35779079) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-01, 20:33:02](https://news.ycombinator.com/item?id=35778760) - [How simulations work](http://www.anuncommonlab.com/articles/how-simulations-work/#TToDt)
+* [2023-05-01, 20:33:02](https://news.ycombinator.com/item?id=35778760) - [How simulations work (2016)](http://www.anuncommonlab.com/articles/how-simulations-work/)
 * [2023-05-01, 20:31:27](https://news.ycombinator.com/item?id=35778735) - [I Was Laid Off in Retaliation for Anti-Discrimination Whistleblowing](https://evhaste.com/blog/silenced-no-more)
 * [2023-05-01, 20:17:20](https://news.ycombinator.com/item?id=35778557) - [Change My Mind: Density Increases Local but Decreases Global Prices](https://astralcodexten.substack.com/p/change-my-mind-density-increases)
 * [2023-05-01, 20:16:45](https://news.ycombinator.com/item?id=35778547) - [Universal Railway Bus](https://arduinorailwaycontrol.com)
