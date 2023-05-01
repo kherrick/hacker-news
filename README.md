@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-01, 00:18:29](https://news.ycombinator.com/item?id=35767789) - [The Little Book of Deep Learning [pdf]](https://fleuret.org/public/lbdl.pdf)
 * [2023-05-01, 00:14:56](https://news.ycombinator.com/item?id=35767770) - [A broken man&#x27;s homemade, seaworthy ship rests in the Canadian prairie](https://www.atlasobscura.com/places/tom-sukanens-prairie-ship)
 * [2023-05-01, 00:13:52](https://news.ycombinator.com/item?id=35767763) - [The web’s most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
-* [2023-05-01, 00:02:24](https://news.ycombinator.com/item?id=35767700) - [Reddit&#x27;s proposed API changes and the continued existence of RedReader](https://old.reddit.com/r/RedReader/comments/132qkb8/update_2_reddits_proposed_api_changes_and_the/)
 * [2023-04-30, 23:59:52](https://news.ycombinator.com/item?id=35767687) - [No, the King doesn&#x27;t own all the swans in Britain](https://weirdmedievalguys.substack.com/p/no-the-king-of-england-doesnt-own)
 * [2023-04-30, 23:10:58](https://news.ycombinator.com/item?id=35767409) - [No Mow May, Low Mow Spring](https://beecityusa.org/no-mow-may/)
+* [2023-04-30, 22:33:16](https://news.ycombinator.com/item?id=35767172) - [Xerox Star 8010 Interfaces, high quality polaroids (1981)](https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html)
 * [2023-04-30, 21:57:20](https://news.ycombinator.com/item?id=35766965) - [CRISPR-Cas-amplified urinary biomarkers for cancer diagnostics](https://www.nature.com/articles/s41565-023-01372-9)
 * [2023-04-30, 21:23:07](https://news.ycombinator.com/item?id=35766747) - [Advanced Amiga Architecture (1992)](https://archive.org/details/advanced-amiga-architecture)
 * [2023-04-30, 20:58:54](https://news.ycombinator.com/item?id=35766570) - [Minetest: An open source voxel game engine](https://www.minetest.net/)
@@ -28,7 +29,6 @@
 * [2023-04-30, 11:48:16](https://news.ycombinator.com/item?id=35761706) - [FAA overruled engineers, let Boeing Max keep flying](https://apnews.com/article/boeing-max-crashes-faa-ea8fac0ad2758b08c58d2d64756fbf37)
 * [2023-04-30, 11:06:41](https://news.ycombinator.com/item?id=35761457) - [Lego Googol Machine](https://brickexperimentchannel.wordpress.com/2023/04/29/lego-googol-machine/)
 * [2023-04-30, 10:03:00](https://news.ycombinator.com/item?id=35761141) - [Humble Chronicles: State Management](https://tonsky.me/blog/humble-state/)
-* [2023-04-30, 06:16:12](https://news.ycombinator.com/item?id=35760087) - [Why are lithium prices collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
 * [2023-04-28, 22:40:25](https://news.ycombinator.com/item?id=35748030) - [Information Overload: on the superabundance of research-based art](https://www.artforum.com/print/202304/claire-bishop-on-the-superabundance-of-research-based-art-90274)
 
 ## [Archives](archives/index.md)

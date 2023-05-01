@@ -7,6 +7,7 @@
 * [2023-04-30, 23:59:52](https://news.ycombinator.com/item?id=35767687) - [No, the King doesn&#x27;t own all the swans in Britain](https://weirdmedievalguys.substack.com/p/no-the-king-of-england-doesnt-own)
 * [2023-04-30, 23:10:58](https://news.ycombinator.com/item?id=35767409) - [No Mow May, Low Mow Spring](https://beecityusa.org/no-mow-may/)
 * [2023-04-30, 22:54:57](https://news.ycombinator.com/item?id=35767315) - [Want to try Bluesky? Look carefully at the terms of service. – Mashable](https://mashable.com/article/bluesky-twitter-terms-of-service)
+* [2023-04-30, 22:33:16](https://news.ycombinator.com/item?id=35767172) - [Xerox Star 8010 Interfaces, high quality polaroids (1981)](https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html)
 * [2023-04-30, 22:12:41](https://news.ycombinator.com/item?id=35767057) - [Banking crises rooted in a system that rewards excessive risk-taking](https://theconversation.com/banking-crises-rooted-in-a-system-that-rewards-excessive-risk-taking-as-first-republics-precarious-situation-shows-204255)
 * [2023-04-30, 22:01:02](https://news.ycombinator.com/item?id=35766988) - [Facing Imminent Homelessness, Gagoot Developer Seeks Project Funding](https://gagoot.com/sos.txt)
 * [2023-04-30, 21:57:20](https://news.ycombinator.com/item?id=35766965) - [CRISPR-Cas-amplified urinary biomarkers for cancer diagnostics](https://www.nature.com/articles/s41565-023-01372-9)
