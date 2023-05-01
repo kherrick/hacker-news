@@ -3,7 +3,7 @@
 * [2023-05-01, 21:38:16](https://news.ycombinator.com/item?id=35779552) - [State agrees the only witness cannot be believed, court to force execution](https://www.lawdork.com/p/oklahoma-glossip-florida-nonunanimous-juries#%C2%A7oklahomas-top-criminal-court-ignores-republican-ag-in-glossip-case)
 * [2023-05-01, 21:12:46](https://news.ycombinator.com/item?id=35779244) - [Palo Alto Council agrees to 20 cameras, new automated plate recognition system](https://www.paloaltoonline.com/news/2023/04/03/palo-alto-leans-on-license-plate-readers-to-dent-property-crime)
 * [2023-05-01, 21:01:01](https://news.ycombinator.com/item?id=35779079) - [BuildZoom (better way to build custom homes) is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-* [2023-05-01, 20:16:45](https://news.ycombinator.com/item?id=35778547) - [Universal Railway Bus](https://arduinorailwaycontrol.com)
+* [2023-05-01, 20:33:02](https://news.ycombinator.com/item?id=35778760) - [How simulations work](http://www.anuncommonlab.com/articles/how-simulations-work/#TToDt)
 * [2023-05-01, 20:00:35](https://news.ycombinator.com/item?id=35778328) - [Show HN: guitos, a free open-source budgeting app](https://guitos.app/)
 * [2023-05-01, 18:18:47](https://news.ycombinator.com/item?id=35776907) - [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
 * [2023-05-01, 17:47:23](https://news.ycombinator.com/item?id=35776480) - [You and Your Research (1986)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
