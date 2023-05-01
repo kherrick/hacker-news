@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 20:00:52](https://news.ycombinator.com/item?id=35778333) - [Privacyguides.org – The guide to restoring your online privacy](https://www.privacyguides.org/en/)
+* [2023-05-01, 19:54:13](https://news.ycombinator.com/item?id=35778241) - [Gender Gap in Chess](https://www.alexmolas.com/blog/chess-gender-gap/)
 * [2023-05-01, 18:18:47](https://news.ycombinator.com/item?id=35776907) - [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
 * [2023-05-01, 18:10:13](https://news.ycombinator.com/item?id=35776788) - [Environmentalists sue FAA over SpaceX Starship launch license for Texas](https://news.yahoo.com/environmentalists-sue-faa-over-spacex-164444196.html)
 * [2023-05-01, 18:06:33](https://news.ycombinator.com/item?id=35776743) - [Apple has just released the first Rapid Security Response for Ventura](https://eclecticlight.co/2023/05/01/apple-has-just-released-the-first-rapid-security-response-for-ventura/)
