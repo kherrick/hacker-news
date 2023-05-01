@@ -43,6 +43,7 @@
 * [2023-04-30, 16:17:21](https://news.ycombinator.com/item?id=35763999) - [Mark Zuckerberg Broke Meta](https://www.washingtonpost.com/technology/2023/04/30/mark-zuckerberg-meta-layoffs/)
 * [2023-04-30, 16:04:21](https://news.ycombinator.com/item?id=35763852) - [The effect of high-top and low-top shoes on ankle inversion kinematics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3943374/)
 * [2023-04-30, 16:01:20](https://news.ycombinator.com/item?id=35763823) - [Chess is booming among teens](https://www.polygon.com/tabletop-games/23679440/teens-love-chess-memes-boom-2023)
+* [2023-04-30, 15:51:27](https://news.ycombinator.com/item?id=35763721) - [Flame-Throwing Tractors Kill Weeds [video]](https://www.youtube.com/watch?v=m88JLUAW2l0)
 * [2023-04-30, 15:30:17](https://news.ycombinator.com/item?id=35763483) - [MLC-LLM: GPT&#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
 * [2023-04-30, 15:15:41](https://news.ycombinator.com/item?id=35763307) - [Britney Spears&#x27; Guide to Semiconductor Physics (2000)](https://britneyspears.ac/lasers.htm)
 * [2023-04-30, 15:04:51](https://news.ycombinator.com/item?id=35763191) - [AI&#x27;s true goal may no longer be intelligence](https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/)

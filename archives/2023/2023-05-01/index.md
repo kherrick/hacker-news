@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 20:17:20](https://news.ycombinator.com/item?id=35778557) - [Change My Mind: Density Increases Local but Decreases Global Prices](https://astralcodexten.substack.com/p/change-my-mind-density-increases)
+* [2023-05-01, 20:16:45](https://news.ycombinator.com/item?id=35778547) - [Universal Railway Bus](https://arduinorailwaycontrol.com)
+* [2023-05-01, 20:16:25](https://news.ycombinator.com/item?id=35778543) - [Vercel Postgres](https://vercel.com/docs/storage/vercel-postgres)
 * [2023-05-01, 20:00:52](https://news.ycombinator.com/item?id=35778333) - [Privacyguides.org – The guide to restoring your online privacy](https://www.privacyguides.org/en/)
 * [2023-05-01, 19:54:13](https://news.ycombinator.com/item?id=35778241) - [Gender Gap in Chess](https://www.alexmolas.com/blog/chess-gender-gap/)
 * [2023-05-01, 18:18:47](https://news.ycombinator.com/item?id=35776907) - [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
