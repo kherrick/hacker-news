@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-01, 09:12:36](https://news.ycombinator.com/item?id=35770563) - [Michael J. Fox Foundation Announces Breakthrough for Parkinson&#x27;s Biomarker](https://www.michaeljfox.org/publication/michael-j-fox-foundation-announces-significant-breakthrough-search-parkinsons-biomarker)
 * [2023-05-01, 07:37:47](https://news.ycombinator.com/item?id=35770048) - [JPMorgan Chase Bank Assumes All the Deposits of First Republic Bank](https://www.fdic.gov/news/press-releases/2023/pr23034.html)
 * [2023-05-01, 07:37:16](https://news.ycombinator.com/item?id=35770044) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
 * [2023-05-01, 06:05:09](https://news.ycombinator.com/item?id=35769529) - [Teardown Frame Teardown: Rendering Analysis](https://acko.net/blog/teardown-frame-teardown/)
@@ -29,7 +30,6 @@
 * [2023-04-30, 16:35:04](https://news.ycombinator.com/item?id=35764176) - [Modern perfect hashing for strings](http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html)
 * [2023-04-30, 16:01:20](https://news.ycombinator.com/item?id=35763823) - [Chess is booming among teens](https://www.polygon.com/tabletop-games/23679440/teens-love-chess-memes-boom-2023)
 * [2023-04-30, 10:25:15](https://news.ycombinator.com/item?id=35761239) - [Sator Square](https://en.wikipedia.org/wiki/Sator_Square)
-* [2023-04-30, 06:16:12](https://news.ycombinator.com/item?id=35760087) - [Why are lithium prices collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
 
 ## [Archives](archives/index.md)
 
