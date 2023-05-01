@@ -5,7 +5,6 @@
 * [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A Bacterial Culprit for Rheumatoid Arthritis](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
 * [2023-05-01, 17:00:58](https://news.ycombinator.com/item?id=35775687) - [Agave (YC W22) Is Hiring Founding Eng – Construction API](https://news.ycombinator.com/item?id=35775687)
 * [2023-05-01, 16:56:44](https://news.ycombinator.com/item?id=35775623) - [Many Worlds: A Philosophy of Data Collaboration](https://github.com/terminusdb/technical-blogs/blob/main/blogs/many_worlds.md)
-* [2023-05-01, 16:48:24](https://news.ycombinator.com/item?id=35775484) - [Securely Erasing Your iPhone or iPad with a Power Drill](https://theintercept.com/2021/06/12/iphone-ipad-erase-power-drill/)
 * [2023-05-01, 16:00:42](https://news.ycombinator.com/item?id=35774730) - [Storage on Vercel](https://vercel.com/blog/vercel-storage)
 * [2023-05-01, 15:48:44](https://news.ycombinator.com/item?id=35774540) - [Vacations in the Soviet Union](https://daily.jstor.org/workers-of-the-world-take-pto/)
 * [2023-05-01, 15:36:09](https://news.ycombinator.com/item?id=35774311) - [Up next: the lawsuit threatening your YouTube watch queue](https://www.mux.com/blog/up-next-the-lawsuit-threatening-your-youtube-watch-queue)
@@ -28,6 +27,7 @@
 * [2023-05-01, 09:12:36](https://news.ycombinator.com/item?id=35770563) - [Significant Breakthrough in Search for Parkinson&#x27;s Biomarker](https://www.michaeljfox.org/publication/michael-j-fox-foundation-announces-significant-breakthrough-search-parkinsons-biomarker)
 * [2023-05-01, 07:37:47](https://news.ycombinator.com/item?id=35770048) - [JPMorgan Chase Bank Assumes All the Deposits of First Republic Bank](https://www.fdic.gov/news/press-releases/2023/pr23034.html)
 * [2023-05-01, 07:37:16](https://news.ycombinator.com/item?id=35770044) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
+* [2023-05-01, 04:14:09](https://news.ycombinator.com/item?id=35769031) - [Gilbert U-238 Atomic Energy Laboratory](https://en.wikipedia.org/wiki/Gilbert_U-238_Atomic_Energy_Laboratory)
 * [2023-04-30, 12:57:16](https://news.ycombinator.com/item?id=35762112) - [Second ‘Impossible’ Ring Found Around Distant Dwarf Planet](https://www.nytimes.com/2023/04/27/science/quaoar-rings-kuiper-belt.html)
 * [2023-04-29, 07:51:36](https://news.ycombinator.com/item?id=35750970) - [The kremvax hoax (1984)](https://godfatherof.nl/kremvax.html)
 
