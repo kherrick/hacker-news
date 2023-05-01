@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-01, 23:04:11](https://news.ycombinator.com/item?id=35780517) - [Vice Is Said to Be Headed for Bankruptcy](https://www.nytimes.com/2023/05/01/business/media/vice-bankruptcy.html)
-* [2023-05-01, 22:43:09](https://news.ycombinator.com/item?id=35780291) - [San Francisco Whole Foods made 560 emergency calls before closing](https://www.foxbusiness.com/retail/san-francisco-whole-foods-hit-560-calls-violence-drugs-vagrants-before-closing-report)
 * [2023-05-01, 22:02:39](https://news.ycombinator.com/item?id=35779816) - [The “Location Off” switch on your phone is a lie](https://gabrielsieben.tech/2023/05/01/the-location-off-switch-on-your-phone-is-a-lie/)
 * [2023-05-01, 22:01:29](https://news.ycombinator.com/item?id=35779805) - [Laser scanning microscope from DVD pickup heads](https://www.gaudi.ch/GaudiLabs/?page_id=652)
 * [2023-05-01, 21:12:46](https://news.ycombinator.com/item?id=35779244) - [City Council to install 20 cameras as automated license-plate recognition system](https://www.paloaltoonline.com/news/2023/04/03/palo-alto-leans-on-license-plate-readers-to-dent-property-crime)
@@ -20,6 +19,7 @@
 * [2023-05-01, 15:00:07](https://news.ycombinator.com/item?id=35773707) - [Ask HN: Who is hiring? (May 2023)](https://news.ycombinator.com/item?id=35773707)
 * [2023-05-01, 15:00:06](https://news.ycombinator.com/item?id=35773705) - [Ask HN: Who wants to be hired? (May 2023)](https://news.ycombinator.com/item?id=35773705)
 * [2023-05-01, 12:42:40](https://news.ycombinator.com/item?id=35772005) - [Help make mass surveillance of entire populations uneconomical](https://prism-break.org/en/)
+* [2023-05-01, 12:41:16](https://news.ycombinator.com/item?id=35771994) - [Krita: A professional free and open source painting program](https://krita.org/en/)
 * [2023-05-01, 12:31:13](https://news.ycombinator.com/item?id=35771890) - [Heathkit](https://shop.heathkit.com/shop)
 * [2023-05-01, 10:50:48](https://news.ycombinator.com/item?id=35771104) - [Geoffrey Hinton leaves Google and warns of danger ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
 * [2023-05-01, 09:59:02](https://news.ycombinator.com/item?id=35770816) - [Millions snap up new Germany-wide public transit ticket](https://apnews.com/article/germany-public-transit-cheap-ticket-trains-metro-3d83f1a35ab8e3945b8034b9bd511c29)
