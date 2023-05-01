@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
 * [2023-04-30, 23:59:52](https://news.ycombinator.com/item?id=35767687) - [No, the King doesn&#x27;t own all the swans in Britain](https://weirdmedievalguys.substack.com/p/no-the-king-of-england-doesnt-own)
+* [2023-04-30, 23:31:28](https://news.ycombinator.com/item?id=35767521) - [Parts for stolen Hyundais and Kias are so scarce the cars are being totaled](https://www.thedrive.com/news/parts-for-stolen-hyundais-and-kias-are-so-scarce-the-cars-are-being-totaled)
 * [2023-04-30, 23:10:58](https://news.ycombinator.com/item?id=35767409) - [No Mow May, Low Mow Spring](https://beecityusa.org/no-mow-may/)
 * [2023-04-30, 22:54:57](https://news.ycombinator.com/item?id=35767315) - [Want to try Bluesky? Look carefully at the terms of service. – Mashable](https://mashable.com/article/bluesky-twitter-terms-of-service)
 * [2023-04-30, 22:33:16](https://news.ycombinator.com/item?id=35767172) - [Xerox Star 8010 Interfaces, high quality polaroids (1981)](https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html)
