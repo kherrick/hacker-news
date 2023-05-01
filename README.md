@@ -8,7 +8,6 @@
 * [2023-05-01, 00:18:29](https://news.ycombinator.com/item?id=35767789) - [The Little Book of Deep Learning [pdf]](https://fleuret.org/public/lbdl.pdf)
 * [2023-05-01, 00:14:56](https://news.ycombinator.com/item?id=35767770) - [A broken man&#x27;s homemade, seaworthy ship rests in the Canadian prairie (2015)](https://www.atlasobscura.com/places/tom-sukanens-prairie-ship)
 * [2023-05-01, 00:13:52](https://news.ycombinator.com/item?id=35767763) - [The web’s most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
-* [2023-04-30, 23:59:52](https://news.ycombinator.com/item?id=35767687) - [The King doesn&#x27;t own all the swans in Britain](https://weirdmedievalguys.substack.com/p/no-the-king-of-england-doesnt-own)
 * [2023-04-30, 23:31:28](https://news.ycombinator.com/item?id=35767521) - [Parts for stolen Hyundais and Kias are so scarce the cars are being totaled](https://www.thedrive.com/news/parts-for-stolen-hyundais-and-kias-are-so-scarce-the-cars-are-being-totaled)
 * [2023-04-30, 23:10:58](https://news.ycombinator.com/item?id=35767409) - [No Mow May, Low Mow Spring](https://beecityusa.org/no-mow-may/)
 * [2023-04-30, 22:33:16](https://news.ycombinator.com/item?id=35767172) - [Xerox Star 8010 Interfaces, high quality polaroids (1981)](https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html)
@@ -29,6 +28,7 @@
 * [2023-04-30, 14:55:55](https://news.ycombinator.com/item?id=35763100) - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
 * [2023-04-30, 14:17:46](https://news.ycombinator.com/item?id=35762780) - [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
 * [2023-04-30, 13:45:37](https://news.ycombinator.com/item?id=35762483) - [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
+* [2023-04-30, 13:20:09](https://news.ycombinator.com/item?id=35762284) - [FIDE world chess championship decided in rapid tiebreaks](https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4)
 * [2023-04-30, 13:05:01](https://news.ycombinator.com/item?id=35762175) - [Show HN: Frogmouth – A Markdown browser for the terminal](https://github.com/Textualize/frogmouth)
 
 ## [Archives](archives/index.md)
