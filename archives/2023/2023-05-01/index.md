@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 16:00:42](https://news.ycombinator.com/item?id=35774730) - [Storage on Vercel](https://vercel.com/blog/vercel-storage)
+* [2023-05-01, 15:48:44](https://news.ycombinator.com/item?id=35774540) - [Workers of the World, Take PTO](https://daily.jstor.org/workers-of-the-world-take-pto/)
+* [2023-05-01, 15:36:09](https://news.ycombinator.com/item?id=35774311) - [Up next: the lawsuit threatening your YouTube watch queue](https://www.mux.com/blog/up-next-the-lawsuit-threatening-your-youtube-watch-queue)
+* [2023-05-01, 15:30:20](https://news.ycombinator.com/item?id=35774214) - [Our Planet II [video]](https://www.youtube.com/watch?v=KZKvOzlYit4)
+* [2023-05-01, 15:29:20](https://news.ycombinator.com/item?id=35774201) - [The Socialist Calculation Debate](https://www.laphamsquarterly.org/roundtable/socialist-calculation-debate)
 * [2023-05-01, 15:29:00](https://news.ycombinator.com/item?id=35774193) - [“The Dead Silence of Goods”: Annie Ernaux and the Superstore](https://www.theparisreview.org/blog/2023/05/01/the-dead-silence-of-goods-annie-ernaux-and-the-superstore/)
 * [2023-05-01, 15:26:20](https://news.ycombinator.com/item?id=35774142) - [Digital Security Tips to Prevent the Cops from Ruining Your Trip Abroad](https://theintercept.com/2023/04/29/phone-laptop-security-international-travel/)
 * [2023-05-01, 15:23:39](https://news.ycombinator.com/item?id=35774107) - [Cube.js: Headless Semantic Layer](https://github.com/cube-js/cube)
