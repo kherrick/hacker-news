@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-01, 13:24:05](https://news.ycombinator.com/item?id=35772466) - [Why Mormons Make Great FBI Recruits](https://www.atlasobscura.com/articles/why-mormons-make-great-fbi-recruits)
 * [2023-05-01, 12:55:52](https://news.ycombinator.com/item?id=35772136) - [Patent Spat Leaves DJI Owing Textron $279M](https://hackaday.com/2023/05/01/patent-spat-leaves-dji-owing-textron-279m/)
 * [2023-05-01, 12:52:32](https://news.ycombinator.com/item?id=35772099) - [Lithium-ion batteries a growing fire hazard in NYC garbage trucks](https://gothamist.com/news/lithium-ion-batteries-a-growing-fire-hazard-in-nyc-garbage-trucks-dsny-says)
 * [2023-05-01, 12:42:40](https://news.ycombinator.com/item?id=35772005) - [Help make mass surveillance of entire populations uneconomical](https://prism-break.org/en/)
@@ -28,7 +29,6 @@
 * [2023-04-30, 22:33:16](https://news.ycombinator.com/item?id=35767172) - [Xerox Star 8010 Interfaces, high quality polaroids (1981-)](https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html)
 * [2023-04-30, 20:58:54](https://news.ycombinator.com/item?id=35766570) - [Minetest: An open source voxel game engine](https://www.minetest.net/)
 * [2023-04-30, 17:03:24](https://news.ycombinator.com/item?id=35764476) - [Engineers develop water filtration that removes “forever chemicals”](https://news.ubc.ca/2023/03/22/new-ubc-water-treatment-zaps-forever-chemicals-for-good/)
-* [2023-04-30, 16:01:20](https://news.ycombinator.com/item?id=35763823) - [Chess is booming among teens](https://www.polygon.com/tabletop-games/23679440/teens-love-chess-memes-boom-2023)
 * [2023-04-30, 10:25:15](https://news.ycombinator.com/item?id=35761239) - [Sator Square](https://en.wikipedia.org/wiki/Sator_Square)
 
 ## [Archives](archives/index.md)
