@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-01, 09:59:02](https://news.ycombinator.com/item?id=35770816) - [Millions snap up new Germany-wide public transit ticket](https://apnews.com/article/germany-public-transit-cheap-ticket-trains-metro-3d83f1a35ab8e3945b8034b9bd511c29)
+* [2023-05-01, 09:32:31](https://news.ycombinator.com/item?id=35770678) - [First clean water, now clean air](https://finmoorhouse.com/writing/clean-air/)
 * [2023-05-01, 09:12:36](https://news.ycombinator.com/item?id=35770563) - [Michael J. Fox Foundation Announces Breakthrough for Parkinson&#x27;s Biomarker](https://www.michaeljfox.org/publication/michael-j-fox-foundation-announces-significant-breakthrough-search-parkinsons-biomarker)
 * [2023-05-01, 07:37:47](https://news.ycombinator.com/item?id=35770048) - [JPMorgan Chase Bank Assumes All the Deposits of First Republic Bank](https://www.fdic.gov/news/press-releases/2023/pr23034.html)
 * [2023-05-01, 07:37:16](https://news.ycombinator.com/item?id=35770044) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
@@ -9,7 +11,6 @@
 * [2023-05-01, 03:54:55](https://news.ycombinator.com/item?id=35768943) - [Design a keyboard with Ergogen v4](https://flatfootfox.com/ergogen-introduction/)
 * [2023-05-01, 03:08:52](https://news.ycombinator.com/item?id=35768692) - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
 * [2023-05-01, 02:40:01](https://news.ycombinator.com/item?id=35768550) - [A simple and eco-friendly way to make ammonia](https://scitechdaily.com/just-add-water-stanford-researchers-have-discovered-a-simple-and-eco-friendly-way-to-make-ammonia/)
-* [2023-05-01, 02:31:47](https://news.ycombinator.com/item?id=35768525) - [Xterm: It&#x27;s better than you thought (2021)](https://aduros.com/blog/xterm-its-better-than-you-thought/)
 * [2023-05-01, 01:59:41](https://news.ycombinator.com/item?id=35768374) - [Ggwave: Message people over sound](https://github.com/ggerganov/ggwave)
 * [2023-05-01, 01:46:00](https://news.ycombinator.com/item?id=35768306) - [Trap Street](https://en.wikipedia.org/wiki/Trap_street)
 * [2023-05-01, 01:28:15](https://news.ycombinator.com/item?id=35768210) - [VSCode-WASM: Implement a first version of a WebShell](https://github.com/microsoft/vscode-wasm/commit/0cdb9997d83bae116bb7693ba6837ffa812425a7)
@@ -23,7 +24,6 @@
 * [2023-04-30, 20:58:54](https://news.ycombinator.com/item?id=35766570) - [Minetest: An open source voxel game engine](https://www.minetest.net/)
 * [2023-04-30, 19:41:05](https://news.ycombinator.com/item?id=35765933) - [Grokking Simplicity: Taming complex software with functional thinking](https://bagerbach.com/books/grokking-simplicity)
 * [2023-04-30, 19:16:41](https://news.ycombinator.com/item?id=35765707) - [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
-* [2023-04-30, 19:14:51](https://news.ycombinator.com/item?id=35765690) - [EmuDeck 2.1: Steam Deck emulation installer](https://www.emudeck.com/)
 * [2023-04-30, 19:02:17](https://news.ycombinator.com/item?id=35765560) - [DIY Adapter: Using an e-bike battery to run a laptop](https://transistor-man.com/lenovo_ebike_adapter.html)
 * [2023-04-30, 18:12:48](https://news.ycombinator.com/item?id=35765100) - [Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems](https://www.micahlerner.com/2023/04/16/perseus-a-fail-slow-detection-framework-for-cloud-storage-systems.html)
 * [2023-04-30, 17:03:24](https://news.ycombinator.com/item?id=35764476) - [Engineers develop water filtration that removes “forever chemicals”](https://news.ubc.ca/2023/03/22/new-ubc-water-treatment-zaps-forever-chemicals-for-good/)
