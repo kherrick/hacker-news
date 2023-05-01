@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-01, 14:36:43](https://news.ycombinator.com/item?id=35773354) - [“Twitter is going great” is being sunset](https://twitterisgoinggreat.com/#twitter-has-gone-great)
-* [2023-05-01, 14:06:25](https://news.ycombinator.com/item?id=35772940) - [Ask HN: Who wants to be hired? (May 2023)](https://news.ycombinator.com/item?id=35772940)
 * [2023-05-01, 13:24:05](https://news.ycombinator.com/item?id=35772466) - [Why Mormons Make Great FBI Recruits](https://www.atlasobscura.com/articles/why-mormons-make-great-fbi-recruits)
 * [2023-05-01, 12:55:52](https://news.ycombinator.com/item?id=35772136) - [Patent Spat Leaves DJI Owing Textron $279M](https://hackaday.com/2023/05/01/patent-spat-leaves-dji-owing-textron-279m/)
 * [2023-05-01, 12:55:23](https://news.ycombinator.com/item?id=35772131) - [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
@@ -20,7 +19,6 @@
 * [2023-05-01, 07:37:16](https://news.ycombinator.com/item?id=35770044) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
 * [2023-05-01, 04:42:35](https://news.ycombinator.com/item?id=35769163) - [Dex Lang: Research language for array processing in the Haskell&#x2F;ML family](https://github.com/google-research/dex-lang)
 * [2023-05-01, 04:14:09](https://news.ycombinator.com/item?id=35769031) - [Gilbert U-238 Atomic Energy Laboratory](https://en.wikipedia.org/wiki/Gilbert_U-238_Atomic_Energy_Laboratory)
-* [2023-05-01, 03:54:55](https://news.ycombinator.com/item?id=35768943) - [Design a keyboard with Ergogen v4](https://flatfootfox.com/ergogen-introduction/)
 * [2023-05-01, 03:08:52](https://news.ycombinator.com/item?id=35768692) - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
 * [2023-05-01, 02:40:01](https://news.ycombinator.com/item?id=35768550) - [A simple and eco-friendly way to make ammonia](https://scitechdaily.com/just-add-water-stanford-researchers-have-discovered-a-simple-and-eco-friendly-way-to-make-ammonia/)
 * [2023-05-01, 01:59:41](https://news.ycombinator.com/item?id=35768374) - [Ggwave: Message people over sound](https://github.com/ggerganov/ggwave)
@@ -30,6 +28,8 @@
 * [2023-05-01, 00:13:52](https://news.ycombinator.com/item?id=35767763) - [The web’s most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
 * [2023-04-30, 23:59:52](https://news.ycombinator.com/item?id=35767687) - [The King doesn&#x27;t own all the swans in Britain](https://weirdmedievalguys.substack.com/p/no-the-king-of-england-doesnt-own)
 * [2023-04-30, 22:33:16](https://news.ycombinator.com/item?id=35767172) - [Xerox Star 8010 Interfaces, high quality polaroids (1981-)](https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html)
+* [2023-04-30, 20:58:54](https://news.ycombinator.com/item?id=35766570) - [Minetest: An open source voxel game engine](https://www.minetest.net/)
+* [2023-04-30, 10:25:15](https://news.ycombinator.com/item?id=35761239) - [Sator Square](https://en.wikipedia.org/wiki/Sator_Square)
 
 ## [Archives](archives/index.md)
 
