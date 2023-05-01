@@ -25,6 +25,7 @@
 * [2023-05-01, 15:23:39](https://news.ycombinator.com/item?id=35774107) - [Cube.js: Headless Semantic Layer](https://github.com/cube-js/cube)
 * [2023-05-01, 15:22:32](https://news.ycombinator.com/item?id=35774093) - [Replika AI: Your Money or Your Wife](https://blog.giovanh.com/blog/2023/03/17/replika-your-money-or-your-wife/#fnref:if)
 * [2023-05-01, 15:14:44](https://news.ycombinator.com/item?id=35773962) - [The Ins and Outs of Image Use and Copyright on Midjourney](https://www.attorneyhelp.org/guide/midjourney-image-use-copyright-guide-2220.shtml)
+* [2023-05-01, 15:14:19](https://news.ycombinator.com/item?id=35773955) - [Why Chatbots Are Not the Future](https://wattenberger.com/thoughts/boo-chatbots)
 * [2023-05-01, 15:14:00](https://news.ycombinator.com/item?id=35773952) - [Meta plans $7B bond issue](https://www.reuters.com/technology/meta-plans-7-billion-bond-issue-bloomberg-news-2023-05-01/)
 * [2023-05-01, 15:07:28](https://news.ycombinator.com/item?id=35773842) - [Satellite data reveal nearly 20k previously unknown deep-sea mountains](https://www.sciencenews.org/article/satellite-data-unknown-oceans-sea-mountains)
 * [2023-05-01, 15:01:52](https://news.ycombinator.com/item?id=35773737) - [Type Inference from Scratch (2019) [video]](https://www.youtube.com/watch?v=ytPAlhnAKro)
