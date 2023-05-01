@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2023-05-01, 11:53:59",
-      "https://news.ycombinator.com/item?id=35771538"
-    ],
-    [
-      "I got a job as a Waffle House server that pays $2.92 an hour",
-      "https://www.businessinsider.com/what-its-like-to-work-at-waffle-house-2023-4"
-    ]
-  ],
-  [
-    [
       "2023-05-01, 10:54:52",
       "https://news.ycombinator.com/item?id=35771136"
     ],
     [
       "Ignore Microsoft’s whines about the Activision takeover. The CMA did its job",
       "https://www.theguardian.com/technology/nils-pratley-on-finance/2023/apr/27/ignore-microsoft-whines-activision-blizzard-the-cma-did-its-job"
-    ]
-  ],
-  [
-    [
-      "2023-05-01, 10:50:48",
-      "https://news.ycombinator.com/item?id=35771104"
-    ],
-    [
-      "‘The Godfather of A.I.’ Leaves Google and Warns of Danger Ahead",
-      "https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html"
     ]
   ],
   [
@@ -87,6 +67,16 @@
     [
       "Memoirs from the old web: The KEYGEN element",
       "https://www.devever.net/~hl/web-keygen"
+    ]
+  ],
+  [
+    [
+      "2023-05-01, 06:41:47",
+      "https://news.ycombinator.com/item?id=35769723"
+    ],
+    [
+      "CLI tricks every developer should know",
+      "https://github.blog/2023-04-26-cli-tricks-every-developer-should-know/"
     ]
   ],
   [
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=35767172"
     ],
     [
-      "Xerox Star 8010 Interfaces, high quality polaroids (1981)",
+      "Xerox Star 8010 Interfaces, high quality polaroids (1981-)",
       "https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "DIY Adapter: Using an e-bike battery to run a laptop",
       "https://transistor-man.com/lenovo_ebike_adapter.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-30, 18:12:48",
+      "https://news.ycombinator.com/item?id=35765100"
+    ],
+    [
+      "Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems",
+      "https://www.micahlerner.com/2023/04/16/perseus-a-fail-slow-detection-framework-for-cloud-storage-systems.html"
     ]
   ],
   [
