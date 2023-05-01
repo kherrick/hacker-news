@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-01, 12:00:37",
+      "https://news.ycombinator.com/item?id=35771604"
+    ],
+    [
+      "Ivy (YC W23) Is Hiring",
+      "https://deep-ivy-ltd.breezy.hr/p/ff030eb9f23c01-ml-engineer-intern"
+    ]
+  ],
+  [
+    [
+      "2023-05-01, 11:53:59",
+      "https://news.ycombinator.com/item?id=35771538"
+    ],
+    [
+      "I got a job as a Waffle House server that pays $2.92 an hour",
+      "https://www.businessinsider.com/what-its-like-to-work-at-waffle-house-2023-4"
+    ]
+  ],
+  [
+    [
       "2023-05-01, 10:54:52",
       "https://news.ycombinator.com/item?id=35771136"
     ],
@@ -17,6 +37,16 @@
     [
       "‘The Godfather of A.I.’ Leaves Google and Warns of Danger Ahead",
       "https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-01, 10:44:00",
+      "https://news.ycombinator.com/item?id=35771053"
+    ],
+    [
+      "Funds of every Trust Wallet browser extension could have been stolen",
+      "https://blog.ledger.com/Funds-of-every-wallet-created-with-the-Trust-Wallet-browser-extension-could-have-been-stolen/"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2023-04-30, 19:41:05",
-      "https://news.ycombinator.com/item?id=35765933"
-    ],
-    [
-      "Grokking Simplicity: Taming complex software with functional thinking",
-      "https://bagerbach.com/books/grokking-simplicity"
-    ]
-  ],
-  [
-    [
       "2023-04-30, 19:16:41",
       "https://news.ycombinator.com/item?id=35765707"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2023-04-30, 19:14:51",
-      "https://news.ycombinator.com/item?id=35765690"
-    ],
-    [
-      "EmuDeck 2.1: Steam Deck emulation installer",
-      "https://www.emudeck.com/"
-    ]
-  ],
-  [
-    [
       "2023-04-30, 19:02:17",
       "https://news.ycombinator.com/item?id=35765560"
     ],
     [
       "DIY Adapter: Using an e-bike battery to run a laptop",
       "https://transistor-man.com/lenovo_ebike_adapter.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-30, 18:12:48",
-      "https://news.ycombinator.com/item?id=35765100"
-    ],
-    [
-      "Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems",
-      "https://www.micahlerner.com/2023/04/16/perseus-a-fail-slow-detection-framework-for-cloud-storage-systems.html"
     ]
   ],
   [
