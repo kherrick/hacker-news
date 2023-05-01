@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-01, 17:47:23](https://news.ycombinator.com/item?id=35776480) - [Richard Hamming: You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [2023-05-01, 17:04:36](https://news.ycombinator.com/item?id=35775748) - [Savings and Loan Crisis 1980–1989](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
 * [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A Bacterial Culprit for Rheumatoid Arthritis](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
 * [2023-05-01, 17:00:58](https://news.ycombinator.com/item?id=35775687) - [Agave (YC W22) Is Hiring Founding Eng – Construction API](https://news.ycombinator.com/item?id=35775687)
@@ -10,7 +11,6 @@
 * [2023-05-01, 15:36:09](https://news.ycombinator.com/item?id=35774311) - [Up next: the lawsuit threatening your YouTube watch queue](https://www.mux.com/blog/up-next-the-lawsuit-threatening-your-youtube-watch-queue)
 * [2023-05-01, 15:30:20](https://news.ycombinator.com/item?id=35774214) - [Our Planet II [video]](https://www.youtube.com/watch?v=KZKvOzlYit4)
 * [2023-05-01, 15:29:00](https://news.ycombinator.com/item?id=35774193) - [“The Dead Silence of Goods”: Annie Ernaux and the Superstore](https://www.theparisreview.org/blog/2023/05/01/the-dead-silence-of-goods-annie-ernaux-and-the-superstore/)
-* [2023-05-01, 15:26:20](https://news.ycombinator.com/item?id=35774142) - [Digital Security Tips to Prevent the Cops from Ruining Your Trip Abroad](https://theintercept.com/2023/04/29/phone-laptop-security-international-travel/)
 * [2023-05-01, 15:23:39](https://news.ycombinator.com/item?id=35774107) - [Cube.js: Headless Semantic Layer](https://github.com/cube-js/cube)
 * [2023-05-01, 15:07:28](https://news.ycombinator.com/item?id=35773842) - [Satellite data reveal nearly 20k previously unknown deep-sea mountains](https://www.sciencenews.org/article/satellite-data-unknown-oceans-sea-mountains)
 * [2023-05-01, 15:01:52](https://news.ycombinator.com/item?id=35773737) - [Type Inference from Scratch (2019) [video]](https://www.youtube.com/watch?v=ytPAlhnAKro)
@@ -23,13 +23,13 @@
 * [2023-05-01, 12:41:16](https://news.ycombinator.com/item?id=35771994) - [Krita: A professional free and open source painting program](https://krita.org/en/)
 * [2023-05-01, 12:33:43](https://news.ycombinator.com/item?id=35771919) - [Mermaidsjs Wrapper for Google Docs](https://github.com/renanlecaro/mermaid-gdocs)
 * [2023-05-01, 12:31:13](https://news.ycombinator.com/item?id=35771890) - [Heathkit](https://shop.heathkit.com/shop)
-* [2023-05-01, 11:50:37](https://news.ycombinator.com/item?id=35771508) - [Geoffrey Hinton leaves Google and can now speak freely about his AI concern](https://www.theverge.com/2023/5/1/23706311/hinton-godfather-of-ai-threats-fears-warnings)
+* [2023-05-01, 10:50:48](https://news.ycombinator.com/item?id=35771104) - [Geoffrey Hinton leaves Google and warns of danger ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
 * [2023-05-01, 09:32:31](https://news.ycombinator.com/item?id=35770678) - [First clean water, now clean air](https://finmoorhouse.com/writing/clean-air/)
 * [2023-05-01, 09:12:36](https://news.ycombinator.com/item?id=35770563) - [Significant Breakthrough in Search for Parkinson&#x27;s Biomarker](https://www.michaeljfox.org/publication/michael-j-fox-foundation-announces-significant-breakthrough-search-parkinsons-biomarker)
 * [2023-05-01, 07:37:47](https://news.ycombinator.com/item?id=35770048) - [JPMorgan Chase Bank Assumes All the Deposits of First Republic Bank](https://www.fdic.gov/news/press-releases/2023/pr23034.html)
 * [2023-05-01, 07:37:16](https://news.ycombinator.com/item?id=35770044) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
-* [2023-05-01, 04:14:09](https://news.ycombinator.com/item?id=35769031) - [Gilbert U-238 Atomic Energy Laboratory](https://en.wikipedia.org/wiki/Gilbert_U-238_Atomic_Energy_Laboratory)
 * [2023-04-30, 12:57:16](https://news.ycombinator.com/item?id=35762112) - [Second ‘Impossible’ Ring Found Around Distant Dwarf Planet](https://www.nytimes.com/2023/04/27/science/quaoar-rings-kuiper-belt.html)
+* [2023-04-29, 07:51:36](https://news.ycombinator.com/item?id=35750970) - [The kremvax hoax (1984)](https://godfatherof.nl/kremvax.html)
 
 ## [Archives](archives/index.md)
 
