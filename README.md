@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-01, 02:31:47](https://news.ycombinator.com/item?id=35768525) - [Xterm: It&#x27;s better than you thought (2021)](https://aduros.com/blog/xterm-its-better-than-you-thought/)
+* [2023-05-01, 02:22:51](https://news.ycombinator.com/item?id=35768477) - [Intel to drop the “I” moniker in upcoming CPU rebrand](https://boringtextreviews.com/2023/04/30/intel-to-drop-the-i-moniker-in-upcoming-cpu-rebrand/)
 * [2023-05-01, 01:59:41](https://news.ycombinator.com/item?id=35768374) - [Ggwave: Message people over sound](https://github.com/ggerganov/ggwave)
 * [2023-05-01, 01:46:00](https://news.ycombinator.com/item?id=35768306) - [Trap Street](https://en.wikipedia.org/wiki/Trap_street)
+* [2023-05-01, 01:28:15](https://news.ycombinator.com/item?id=35768210) - [VSCode-WASM: Implement a first version of a WebShell](https://github.com/microsoft/vscode-wasm/commit/0cdb9997d83bae116bb7693ba6837ffa812425a7)
 * [2023-05-01, 00:18:29](https://news.ycombinator.com/item?id=35767789) - [The Little Book of Deep Learning [pdf]](https://fleuret.org/public/lbdl.pdf)
 * [2023-05-01, 00:14:56](https://news.ycombinator.com/item?id=35767770) - [A broken man&#x27;s homemade, seaworthy ship rests in the Canadian prairie (2015)](https://www.atlasobscura.com/places/tom-sukanens-prairie-ship)
 * [2023-05-01, 00:13:52](https://news.ycombinator.com/item?id=35767763) - [The web’s most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
@@ -27,9 +29,7 @@
 * [2023-04-30, 14:55:55](https://news.ycombinator.com/item?id=35763100) - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
 * [2023-04-30, 14:17:46](https://news.ycombinator.com/item?id=35762780) - [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
 * [2023-04-30, 13:45:37](https://news.ycombinator.com/item?id=35762483) - [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
-* [2023-04-30, 13:20:09](https://news.ycombinator.com/item?id=35762284) - [FIDE world chess championship decided in rapid tiebreaks](https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4)
 * [2023-04-30, 13:05:01](https://news.ycombinator.com/item?id=35762175) - [Show HN: Frogmouth – A Markdown browser for the terminal](https://github.com/Textualize/frogmouth)
-* [2023-04-30, 10:03:00](https://news.ycombinator.com/item?id=35761141) - [Humble Chronicles: State Management](https://tonsky.me/blog/humble-state/)
 
 ## [Archives](archives/index.md)
 
