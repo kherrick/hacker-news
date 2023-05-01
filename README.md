@@ -2,7 +2,6 @@
 
 * [2023-05-01, 03:54:55](https://news.ycombinator.com/item?id=35768943) - [Design a keyboard with Ergogen v4](https://flatfootfox.com/ergogen-introduction/)
 * [2023-05-01, 03:32:48](https://news.ycombinator.com/item?id=35768824) - [Are emergent abilities of large language models a mirage?](https://arxiv.org/abs/2304.15004)
-* [2023-05-01, 03:15:40](https://news.ycombinator.com/item?id=35768744) - [This content is for human consumption only](https://orbistertius.substack.com/p/refuse-to-be-an-observation)
 * [2023-05-01, 03:08:52](https://news.ycombinator.com/item?id=35768692) - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
 * [2023-05-01, 02:40:01](https://news.ycombinator.com/item?id=35768550) - [A simple and eco-friendly way to make ammonia](https://scitechdaily.com/just-add-water-stanford-researchers-have-discovered-a-simple-and-eco-friendly-way-to-make-ammonia/)
 * [2023-05-01, 02:31:47](https://news.ycombinator.com/item?id=35768525) - [Xterm: It&#x27;s better than you thought (2021)](https://aduros.com/blog/xterm-its-better-than-you-thought/)
@@ -30,6 +29,7 @@
 * [2023-04-30, 16:35:04](https://news.ycombinator.com/item?id=35764176) - [Modern perfect hashing for strings](http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html)
 * [2023-04-30, 16:01:20](https://news.ycombinator.com/item?id=35763823) - [Chess is booming among teens](https://www.polygon.com/tabletop-games/23679440/teens-love-chess-memes-boom-2023)
 * [2023-04-30, 14:55:55](https://news.ycombinator.com/item?id=35763100) - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
+* [2023-04-30, 10:25:15](https://news.ycombinator.com/item?id=35761239) - [Sator Square](https://en.wikipedia.org/wiki/Sator_Square)
 
 ## [Archives](archives/index.md)
 
