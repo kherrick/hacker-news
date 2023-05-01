@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 21:38:16](https://news.ycombinator.com/item?id=35779552) - [State agrees the only witness cannot be believed, court to force execution](https://www.lawdork.com/p/oklahoma-glossip-florida-nonunanimous-juries#%C2%A7oklahomas-top-criminal-court-ignores-republican-ag-in-glossip-case)
 * [2023-05-01, 21:01:01](https://news.ycombinator.com/item?id=35779079) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-01, 20:31:27](https://news.ycombinator.com/item?id=35778735) - [I Was Laid Off in Retaliation for Anti-Discrimination Whistleblowing](https://evhaste.com/blog/silenced-no-more)
 * [2023-05-01, 20:17:20](https://news.ycombinator.com/item?id=35778557) - [Change My Mind: Density Increases Local but Decreases Global Prices](https://astralcodexten.substack.com/p/change-my-mind-density-increases)
 * [2023-05-01, 20:16:45](https://news.ycombinator.com/item?id=35778547) - [Universal Railway Bus](https://arduinorailwaycontrol.com)
 * [2023-05-01, 20:16:25](https://news.ycombinator.com/item?id=35778543) - [Vercel Postgres](https://vercel.com/docs/storage/vercel-postgres)
 * [2023-05-01, 20:00:52](https://news.ycombinator.com/item?id=35778333) - [Privacyguides.org – The guide to restoring your online privacy](https://www.privacyguides.org/en/)
+* [2023-05-01, 20:00:35](https://news.ycombinator.com/item?id=35778328) - [Show HN: guitos, a free open-source budgeting app](https://guitos.app/)
 * [2023-05-01, 19:54:13](https://news.ycombinator.com/item?id=35778241) - [Gender Gap in Chess](https://www.alexmolas.com/blog/chess-gender-gap/)
 * [2023-05-01, 18:18:47](https://news.ycombinator.com/item?id=35776907) - [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
 * [2023-05-01, 18:10:13](https://news.ycombinator.com/item?id=35776788) - [Environmentalists sue FAA over SpaceX Starship launch license for Texas](https://news.yahoo.com/environmentalists-sue-faa-over-spacex-164444196.html)
@@ -40,6 +42,7 @@
 * [2023-05-01, 15:00:06](https://news.ycombinator.com/item?id=35773705) - [Ask HN: Who wants to be hired? (May 2023)](https://news.ycombinator.com/item?id=35773705)
 * [2023-05-01, 14:58:23](https://news.ycombinator.com/item?id=35773677) - [FDIC Seizes First Republic Bank Then Sells It to JPMorgan Chase](https://www.blackswanstreet.com/p/first-republic-bank-failure-jpmorgan-chase)
 * [2023-05-01, 14:50:21](https://news.ycombinator.com/item?id=35773554) - [Enabling IPv6 support for IPv4 only apps on Linux](https://pavel.network/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
+* [2023-05-01, 14:42:04](https://news.ycombinator.com/item?id=35773426) - [The TERN stack and how to migrate from MERN to TERN](https://www.tigrisdata.com/blog/tern-stack/)
 * [2023-05-01, 14:36:43](https://news.ycombinator.com/item?id=35773354) - [“Twitter is going great” is being sunset](https://twitterisgoinggreat.com/#twitter-has-gone-great)
 * [2023-05-01, 14:23:04](https://news.ycombinator.com/item?id=35773168) - [Nostr – Decentralized Social Network](https://nostr.com)
 * [2023-05-01, 14:13:03](https://news.ycombinator.com/item?id=35773026) - [Hashcat v6.2.6 benchmark on the Nvidia RTX 4090](https://gist.github.com/Chick3nman/32e662a5bb63bc4f51b847bb422222fd)
