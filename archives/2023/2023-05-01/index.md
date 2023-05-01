@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
 * [2023-05-01, 13:17:04](https://news.ycombinator.com/item?id=35772375) - [SpaceX&#x27;s Starship didn&#x27;t immediately respond to a self-destruct command](https://www.engadget.com/spacexs-starship-didnt-immediately-respond-to-a-self-destruct-command-120010127.html)
+* [2023-05-01, 12:55:52](https://news.ycombinator.com/item?id=35772136) - [Patent Spat Leaves DJI Owing Textron $279M](https://hackaday.com/2023/05/01/patent-spat-leaves-dji-owing-textron-279m/)
 * [2023-05-01, 12:52:32](https://news.ycombinator.com/item?id=35772099) - [Lithium-ion batteries a growing fire hazard in NYC garbage trucks](https://gothamist.com/news/lithium-ion-batteries-a-growing-fire-hazard-in-nyc-garbage-trucks-dsny-says)
 * [2023-05-01, 12:42:40](https://news.ycombinator.com/item?id=35772005) - [Help make mass surveillance of entire populations uneconomical](https://prism-break.org/en/)
 * [2023-05-01, 12:41:16](https://news.ycombinator.com/item?id=35771994) - [Krita is a professional FREE and open source painting program](https://krita.org/en/)
