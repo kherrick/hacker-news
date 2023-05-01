@@ -10,7 +10,7 @@
 * [2023-05-01, 01:59:41](https://news.ycombinator.com/item?id=35768374) - [Ggwave: Message people over sound](https://github.com/ggerganov/ggwave)
 * [2023-05-01, 01:46:00](https://news.ycombinator.com/item?id=35768306) - [Trap Street](https://en.wikipedia.org/wiki/Trap_street)
 * [2023-05-01, 01:28:15](https://news.ycombinator.com/item?id=35768210) - [VSCode-WASM: Implement a first version of a WebShell](https://github.com/microsoft/vscode-wasm/commit/0cdb9997d83bae116bb7693ba6837ffa812425a7)
-* [2023-05-01, 00:33:40](https://news.ycombinator.com/item?id=35767870) - [Ask HN: Besides Legos, what’s the best kit for prototyping mechanical devices?](https://news.ycombinator.com/item?id=35767870)
+* [2023-05-01, 00:36:10](https://news.ycombinator.com/item?id=35767883) - [Making an Addressable LED Ampli-Tie*](https://karmanyaah.malhotra.cc/projects/2023/04/amplitie/)
 * [2023-05-01, 00:18:29](https://news.ycombinator.com/item?id=35767789) - [The Little Book of Deep Learning [pdf]](https://fleuret.org/public/lbdl.pdf)
 * [2023-05-01, 00:14:56](https://news.ycombinator.com/item?id=35767770) - [A broken man&#x27;s homemade, seaworthy ship rests in the Canadian prairie (2015)](https://www.atlasobscura.com/places/tom-sukanens-prairie-ship)
 * [2023-05-01, 00:13:52](https://news.ycombinator.com/item?id=35767763) - [The web’s most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
