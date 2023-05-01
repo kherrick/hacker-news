@@ -56,6 +56,7 @@
 * [2023-04-30, 13:20:09](https://news.ycombinator.com/item?id=35762284) - [Ding Liren Wins the Fide World Chess Championship](https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4)
 * [2023-04-30, 13:10:17](https://news.ycombinator.com/item?id=35762216) - [Do Papercuts Matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
 * [2023-04-30, 13:05:01](https://news.ycombinator.com/item?id=35762175) - [Show HN: Frogmouth – A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
+* [2023-04-30, 12:57:16](https://news.ycombinator.com/item?id=35762112) - [Second ‘Impossible’ Ring Found Around Distant Dwarf Planet](https://www.nytimes.com/2023/04/27/science/quaoar-rings-kuiper-belt.html)
 * [2023-04-30, 12:37:38](https://news.ycombinator.com/item?id=35761986) - [Research Finds No Gender Bias in Academic Science](https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/04/27/research-finds-no-gender-bias-academic-science)
 * [2023-04-30, 12:36:46](https://news.ycombinator.com/item?id=35761979) - [Show HN: I built a database GUI with ChatGPT integration](https://www.dbpilot.io/)
 * [2023-04-30, 11:48:16](https://news.ycombinator.com/item?id=35761706) - [FAA overruled engineers, let Boeing Max keep flying](https://apnews.com/article/boeing-max-crashes-faa-ea8fac0ad2758b08c58d2d64756fbf37)
