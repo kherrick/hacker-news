@@ -30,6 +30,7 @@
 * [2023-05-01, 15:07:28](https://news.ycombinator.com/item?id=35773842) - [Satellite data reveal nearly 20k previously unknown deep-sea mountains](https://www.sciencenews.org/article/satellite-data-unknown-oceans-sea-mountains)
 * [2023-05-01, 15:01:52](https://news.ycombinator.com/item?id=35773737) - [Type Inference from Scratch (2019) [video]](https://www.youtube.com/watch?v=ytPAlhnAKro)
 * [2023-05-01, 15:00:07](https://news.ycombinator.com/item?id=35773707) - [Ask HN: Who is hiring? (May 2023)](https://news.ycombinator.com/item?id=35773707)
+* [2023-05-01, 15:00:06](https://news.ycombinator.com/item?id=35773705) - [Ask HN: Who wants to be hired? (May 2023)](https://news.ycombinator.com/item?id=35773705)
 * [2023-05-01, 14:58:23](https://news.ycombinator.com/item?id=35773677) - [FDIC Seizes First Republic Bank Then Sells It to JPMorgan Chase](https://www.blackswanstreet.com/p/first-republic-bank-failure-jpmorgan-chase)
 * [2023-05-01, 14:50:21](https://news.ycombinator.com/item?id=35773554) - [Enabling IPv6 support for IPv4 only apps on Linux](https://pavel.network/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
 * [2023-05-01, 14:36:43](https://news.ycombinator.com/item?id=35773354) - [“Twitter is going great” is being sunset](https://twitterisgoinggreat.com/#twitter-has-gone-great)
