@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
 * [2023-05-01, 14:36:43](https://news.ycombinator.com/item?id=35773354) - [“Twitter is going great” is being sunset](https://twitterisgoinggreat.com/#twitter-has-gone-great)
+* [2023-05-01, 14:23:04](https://news.ycombinator.com/item?id=35773168) - [Nostr – Decentralized Social Network](https://nostr.com)
 * [2023-05-01, 14:06:25](https://news.ycombinator.com/item?id=35772940) - [Ask HN: Who wants to be hired? (May 2023)](https://news.ycombinator.com/item?id=35772940)
 * [2023-05-01, 13:24:05](https://news.ycombinator.com/item?id=35772466) - [Why Mormons Make Great FBI Recruits](https://www.atlasobscura.com/articles/why-mormons-make-great-fbi-recruits)
 * [2023-05-01, 13:17:04](https://news.ycombinator.com/item?id=35772375) - [SpaceX&#x27;s Starship didn&#x27;t immediately respond to a self-destruct command](https://www.engadget.com/spacexs-starship-didnt-immediately-respond-to-a-self-destruct-command-120010127.html)
