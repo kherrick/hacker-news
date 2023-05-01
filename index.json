@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-05-01, 15:26:20",
+      "https://news.ycombinator.com/item?id=35774142"
+    ],
+    [
+      "Digital Security Tips to Prevent the Cops from Ruining Your Trip Abroad",
+      "https://theintercept.com/2023/04/29/phone-laptop-security-international-travel/"
+    ]
+  ],
+  [
+    [
+      "2023-05-01, 15:22:32",
+      "https://news.ycombinator.com/item?id=35774093"
+    ],
+    [
+      "Replika AI: Your Money or Your Wife",
+      "https://blog.giovanh.com/blog/2023/03/17/replika-your-money-or-your-wife/#fnref:if"
+    ]
+  ],
+  [
+    [
       "2023-05-01, 15:14:00",
       "https://news.ycombinator.com/item?id=35773952"
     ],
     [
       "Meta plans $7B bond issue",
       "https://www.reuters.com/technology/meta-plans-7-billion-bond-issue-bloomberg-news-2023-05-01/"
+    ]
+  ],
+  [
+    [
+      "2023-05-01, 15:00:07",
+      "https://news.ycombinator.com/item?id=35773707"
+    ],
+    [
+      "Ask HN: Who is hiring? (May 2023)",
+      "https://news.ycombinator.com/item?id=35773707"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "Private jet sales likely to reach highest ever level this year, report says",
       "https://www.theguardian.com/world/2023/may/01/private-jet-sales-likely-to-reach-highest-ever-level-this-year-report-says"
+    ]
+  ],
+  [
+    [
+      "2023-05-01, 13:24:05",
+      "https://news.ycombinator.com/item?id=35772466"
+    ],
+    [
+      "Mormons Make Great FBI Recruits",
+      "https://www.atlasobscura.com/articles/why-mormons-make-great-fbi-recruits"
     ]
   ],
   [
@@ -221,42 +261,12 @@
   ],
   [
     [
-      "2023-05-01, 03:08:52",
-      "https://news.ycombinator.com/item?id=35768692"
-    ],
-    [
-      "A Mirror for Rust: Compile-Time Reflection Report",
-      "https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2023-05-01, 02:40:01",
-      "https://news.ycombinator.com/item?id=35768550"
-    ],
-    [
-      "A simple and eco-friendly way to make ammonia",
-      "https://scitechdaily.com/just-add-water-stanford-researchers-have-discovered-a-simple-and-eco-friendly-way-to-make-ammonia/"
-    ]
-  ],
-  [
-    [
       "2023-05-01, 01:59:41",
       "https://news.ycombinator.com/item?id=35768374"
     ],
     [
       "Ggwave: Message people over sound",
       "https://github.com/ggerganov/ggwave"
-    ]
-  ],
-  [
-    [
-      "2023-05-01, 01:28:15",
-      "https://news.ycombinator.com/item?id=35768210"
-    ],
-    [
-      "VSCode-WASM: Implement a first version of a WebShell",
-      "https://github.com/microsoft/vscode-wasm/commit/0cdb9997d83bae116bb7693ba6837ffa812425a7"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Xerox Star 8010 Interfaces, high quality polaroids (1981-)",
       "https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-30, 20:58:54",
-      "https://news.ycombinator.com/item?id=35766570"
-    ],
-    [
-      "Minetest: An open source voxel game engine",
-      "https://www.minetest.net/"
     ]
   ]
 ]
