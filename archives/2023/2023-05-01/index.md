@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 15:14:00](https://news.ycombinator.com/item?id=35773952) - [Meta plans $7B bond issue](https://www.reuters.com/technology/meta-plans-7-billion-bond-issue-bloomberg-news-2023-05-01/)
+* [2023-05-01, 14:58:23](https://news.ycombinator.com/item?id=35773677) - [FDIC Seizes First Republic Bank Then Sells It to JPMorgan Chase](https://www.blackswanstreet.com/p/first-republic-bank-failure-jpmorgan-chase)
 * [2023-05-01, 14:36:43](https://news.ycombinator.com/item?id=35773354) - [“Twitter is going great” is being sunset](https://twitterisgoinggreat.com/#twitter-has-gone-great)
 * [2023-05-01, 14:23:04](https://news.ycombinator.com/item?id=35773168) - [Nostr – Decentralized Social Network](https://nostr.com)
+* [2023-05-01, 14:12:02](https://news.ycombinator.com/item?id=35773012) - [Private jet sales likely to reach highest ever level this year, report says](https://www.theguardian.com/world/2023/may/01/private-jet-sales-likely-to-reach-highest-ever-level-this-year-report-says)
 * [2023-05-01, 14:06:25](https://news.ycombinator.com/item?id=35772940) - [Ask HN: Who wants to be hired? (May 2023)](https://news.ycombinator.com/item?id=35772940)
 * [2023-05-01, 13:24:05](https://news.ycombinator.com/item?id=35772466) - [Why Mormons Make Great FBI Recruits](https://www.atlasobscura.com/articles/why-mormons-make-great-fbi-recruits)
 * [2023-05-01, 13:17:04](https://news.ycombinator.com/item?id=35772375) - [SpaceX&#x27;s Starship didn&#x27;t immediately respond to a self-destruct command](https://www.engadget.com/spacexs-starship-didnt-immediately-respond-to-a-self-destruct-command-120010127.html)
+* [2023-05-01, 13:06:32](https://news.ycombinator.com/item?id=35772259) - [Those scary warnings of juice jacking in airports and hotels? They’re nonsense](https://arstechnica.com/information-technology/2023/05/fearmongering-over-public-charging-stations-needs-to-stop-heres-why/)
 * [2023-05-01, 12:55:52](https://news.ycombinator.com/item?id=35772136) - [Patent Spat Leaves DJI Owing Textron $279M](https://hackaday.com/2023/05/01/patent-spat-leaves-dji-owing-textron-279m/)
 * [2023-05-01, 12:55:23](https://news.ycombinator.com/item?id=35772131) - [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
 * [2023-05-01, 12:52:32](https://news.ycombinator.com/item?id=35772099) - [Lithium-ion batteries a growing fire hazard in NYC garbage trucks](https://gothamist.com/news/lithium-ion-batteries-a-growing-fire-hazard-in-nyc-garbage-trucks-dsny-says)
