@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-01, 21:01:01](https://news.ycombinator.com/item?id=35779079) - [BuildZoom (better way to build custom homes) is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-05-01, 20:31:27](https://news.ycombinator.com/item?id=35778735) - [I Was Laid Off in Retaliation for Anti-Discrimination Whistleblowing](https://evhaste.com/blog/silenced-no-more)
 * [2023-05-01, 20:17:20](https://news.ycombinator.com/item?id=35778557) - [Change My Mind: Density Increases Local but Decreases Global Prices](https://astralcodexten.substack.com/p/change-my-mind-density-increases)
 * [2023-05-01, 20:16:45](https://news.ycombinator.com/item?id=35778547) - [Universal Railway Bus](https://arduinorailwaycontrol.com)
 * [2023-05-01, 18:18:47](https://news.ycombinator.com/item?id=35776907) - [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
-* [2023-05-01, 18:06:33](https://news.ycombinator.com/item?id=35776743) - [Apple has just released the first Rapid Security Response for Ventura](https://eclecticlight.co/2023/05/01/apple-has-just-released-the-first-rapid-security-response-for-ventura/)
 * [2023-05-01, 17:47:23](https://news.ycombinator.com/item?id=35776480) - [You and Your Research (1986)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [2023-05-01, 17:04:36](https://news.ycombinator.com/item?id=35775748) - [Savings and Loan Crisis 1980–1989](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
 * [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
