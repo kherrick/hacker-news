@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 07:53:10](https://news.ycombinator.com/item?id=35770128) - [Why woodpeckers can hammer without getting headaches](https://www.birdwatchingdaily.com/news/science/woodpeckers-hammer-without-headaches/)
 * [2023-05-01, 07:37:47](https://news.ycombinator.com/item?id=35770048) - [JPMorgan Chase Bank Assumes All the Deposits of First Republic Bank](https://www.fdic.gov/news/press-releases/2023/pr23034.html)
 * [2023-05-01, 07:37:16](https://news.ycombinator.com/item?id=35770044) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
 * [2023-05-01, 06:54:30](https://news.ycombinator.com/item?id=35769793) - [Spain breaks record temperature of 38.8C (101.84F) in April](https://www.bbc.co.uk/news/science-environment-65403381)
