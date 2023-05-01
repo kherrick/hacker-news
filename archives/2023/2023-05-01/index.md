@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 15:26:20](https://news.ycombinator.com/item?id=35774142) - [Digital Security Tips to Prevent the Cops from Ruining Your Trip Abroad](https://theintercept.com/2023/04/29/phone-laptop-security-international-travel/)
+* [2023-05-01, 15:22:32](https://news.ycombinator.com/item?id=35774093) - [Replika AI: Your Money or Your Wife](https://blog.giovanh.com/blog/2023/03/17/replika-your-money-or-your-wife/#fnref:if)
 * [2023-05-01, 15:14:00](https://news.ycombinator.com/item?id=35773952) - [Meta plans $7B bond issue](https://www.reuters.com/technology/meta-plans-7-billion-bond-issue-bloomberg-news-2023-05-01/)
+* [2023-05-01, 15:00:07](https://news.ycombinator.com/item?id=35773707) - [Ask HN: Who is hiring? (May 2023)](https://news.ycombinator.com/item?id=35773707)
 * [2023-05-01, 14:58:23](https://news.ycombinator.com/item?id=35773677) - [FDIC Seizes First Republic Bank Then Sells It to JPMorgan Chase](https://www.blackswanstreet.com/p/first-republic-bank-failure-jpmorgan-chase)
 * [2023-05-01, 14:36:43](https://news.ycombinator.com/item?id=35773354) - [“Twitter is going great” is being sunset](https://twitterisgoinggreat.com/#twitter-has-gone-great)
 * [2023-05-01, 14:23:04](https://news.ycombinator.com/item?id=35773168) - [Nostr – Decentralized Social Network](https://nostr.com)

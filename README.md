@@ -1,9 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-01, 15:26:20](https://news.ycombinator.com/item?id=35774142) - [Digital Security Tips to Prevent the Cops from Ruining Your Trip Abroad](https://theintercept.com/2023/04/29/phone-laptop-security-international-travel/)
+* [2023-05-01, 15:22:32](https://news.ycombinator.com/item?id=35774093) - [Replika AI: Your Money or Your Wife](https://blog.giovanh.com/blog/2023/03/17/replika-your-money-or-your-wife/#fnref:if)
 * [2023-05-01, 15:14:00](https://news.ycombinator.com/item?id=35773952) - [Meta plans $7B bond issue](https://www.reuters.com/technology/meta-plans-7-billion-bond-issue-bloomberg-news-2023-05-01/)
+* [2023-05-01, 15:00:07](https://news.ycombinator.com/item?id=35773707) - [Ask HN: Who is hiring? (May 2023)](https://news.ycombinator.com/item?id=35773707)
 * [2023-05-01, 14:58:23](https://news.ycombinator.com/item?id=35773677) - [FDIC Seizes First Republic Bank Then Sells It to JPMorgan Chase](https://www.blackswanstreet.com/p/first-republic-bank-failure-jpmorgan-chase)
 * [2023-05-01, 14:23:04](https://news.ycombinator.com/item?id=35773168) - [Nostr – Decentralized Social Network](https://nostr.com)
 * [2023-05-01, 14:12:02](https://news.ycombinator.com/item?id=35773012) - [Private jet sales likely to reach highest ever level this year, report says](https://www.theguardian.com/world/2023/may/01/private-jet-sales-likely-to-reach-highest-ever-level-this-year-report-says)
+* [2023-05-01, 13:24:05](https://news.ycombinator.com/item?id=35772466) - [Mormons Make Great FBI Recruits](https://www.atlasobscura.com/articles/why-mormons-make-great-fbi-recruits)
 * [2023-05-01, 13:06:32](https://news.ycombinator.com/item?id=35772259) - [Those scary warnings of juice jacking in airports and hotels? They’re nonsense](https://arstechnica.com/information-technology/2023/05/fearmongering-over-public-charging-stations-needs-to-stop-heres-why/)
 * [2023-05-01, 12:55:52](https://news.ycombinator.com/item?id=35772136) - [Patent Spat Leaves DJI Owing Textron $279M](https://hackaday.com/2023/05/01/patent-spat-leaves-dji-owing-textron-279m/)
 * [2023-05-01, 12:55:23](https://news.ycombinator.com/item?id=35772131) - [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
@@ -22,14 +26,10 @@
 * [2023-05-01, 07:37:16](https://news.ycombinator.com/item?id=35770044) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
 * [2023-05-01, 04:42:35](https://news.ycombinator.com/item?id=35769163) - [Dex Lang: Research language for array processing in the Haskell&#x2F;ML family](https://github.com/google-research/dex-lang)
 * [2023-05-01, 04:14:09](https://news.ycombinator.com/item?id=35769031) - [Gilbert U-238 Atomic Energy Laboratory](https://en.wikipedia.org/wiki/Gilbert_U-238_Atomic_Energy_Laboratory)
-* [2023-05-01, 03:08:52](https://news.ycombinator.com/item?id=35768692) - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
-* [2023-05-01, 02:40:01](https://news.ycombinator.com/item?id=35768550) - [A simple and eco-friendly way to make ammonia](https://scitechdaily.com/just-add-water-stanford-researchers-have-discovered-a-simple-and-eco-friendly-way-to-make-ammonia/)
 * [2023-05-01, 01:59:41](https://news.ycombinator.com/item?id=35768374) - [Ggwave: Message people over sound](https://github.com/ggerganov/ggwave)
-* [2023-05-01, 01:28:15](https://news.ycombinator.com/item?id=35768210) - [VSCode-WASM: Implement a first version of a WebShell](https://github.com/microsoft/vscode-wasm/commit/0cdb9997d83bae116bb7693ba6837ffa812425a7)
 * [2023-05-01, 00:18:29](https://news.ycombinator.com/item?id=35767789) - [The Little Book of Deep Learning [pdf]](https://fleuret.org/public/lbdl.pdf)
 * [2023-04-30, 23:59:52](https://news.ycombinator.com/item?id=35767687) - [The King doesn&#x27;t own all the swans in Britain](https://weirdmedievalguys.substack.com/p/no-the-king-of-england-doesnt-own)
 * [2023-04-30, 22:33:16](https://news.ycombinator.com/item?id=35767172) - [Xerox Star 8010 Interfaces, high quality polaroids (1981-)](https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html)
-* [2023-04-30, 20:58:54](https://news.ycombinator.com/item?id=35766570) - [Minetest: An open source voxel game engine](https://www.minetest.net/)
 
 ## [Archives](archives/index.md)
 
