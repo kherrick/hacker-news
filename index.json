@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-05-01, 02:22:51",
+      "https://news.ycombinator.com/item?id=35768477"
+    ],
+    [
+      "Intel to drop the “I” moniker in upcoming CPU rebrand",
+      "https://boringtextreviews.com/2023/04/30/intel-to-drop-the-i-moniker-in-upcoming-cpu-rebrand/"
+    ]
+  ],
+  [
+    [
       "2023-05-01, 01:59:41",
       "https://news.ycombinator.com/item?id=35768374"
     ],
@@ -27,6 +37,16 @@
     [
       "Trap Street",
       "https://en.wikipedia.org/wiki/Trap_street"
+    ]
+  ],
+  [
+    [
+      "2023-05-01, 01:28:15",
+      "https://news.ycombinator.com/item?id=35768210"
+    ],
+    [
+      "VSCode-WASM: Implement a first version of a WebShell",
+      "https://github.com/microsoft/vscode-wasm/commit/0cdb9997d83bae116bb7693ba6837ffa812425a7"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-04-30, 13:20:09",
-      "https://news.ycombinator.com/item?id=35762284"
-    ],
-    [
-      "FIDE world chess championship decided in rapid tiebreaks",
-      "https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4"
-    ]
-  ],
-  [
-    [
       "2023-04-30, 13:05:01",
       "https://news.ycombinator.com/item?id=35762175"
     ],
     [
       "Show HN: Frogmouth – A Markdown browser for the terminal",
       "https://github.com/Textualize/frogmouth"
-    ]
-  ],
-  [
-    [
-      "2023-04-30, 10:03:00",
-      "https://news.ycombinator.com/item?id=35761141"
-    ],
-    [
-      "Humble Chronicles: State Management",
-      "https://tonsky.me/blog/humble-state/"
     ]
   ]
 ]
