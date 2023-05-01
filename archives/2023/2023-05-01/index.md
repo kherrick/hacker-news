@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 23:44:17](https://news.ycombinator.com/item?id=35780941) - [Anthropologist pair solve the mystery of Mayan 819-day count](https://phys.org/news/2023-04-anthropologist-pair-mystery-mayan-day.html)
+* [2023-05-01, 23:33:57](https://news.ycombinator.com/item?id=35780812) - [Analog computing and hybrid computing: The view from 1962](https://statmodeling.stat.columbia.edu/2023/05/01/analog-computing-and-hybrid-computing-the-view-from-1962/)
 * [2023-05-01, 23:04:11](https://news.ycombinator.com/item?id=35780517) - [Vice Is Said to Be Headed for Bankruptcy](https://www.nytimes.com/2023/05/01/business/media/vice-bankruptcy.html)
 * [2023-05-01, 22:43:09](https://news.ycombinator.com/item?id=35780291) - [San Francisco Whole Foods made 560 emergency calls before closing](https://www.foxbusiness.com/retail/san-francisco-whole-foods-hit-560-calls-violence-drugs-vagrants-before-closing-report)
 * [2023-05-01, 22:02:39](https://news.ycombinator.com/item?id=35779816) - [The “Location Off” switch on your phone is a lie](https://gabrielsieben.tech/2023/05/01/the-location-off-switch-on-your-phone-is-a-lie/)
