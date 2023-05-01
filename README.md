@@ -26,10 +26,10 @@
 * [2023-04-30, 18:12:48](https://news.ycombinator.com/item?id=35765100) - [Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems](https://www.micahlerner.com/2023/04/16/perseus-a-fail-slow-detection-framework-for-cloud-storage-systems.html)
 * [2023-04-30, 17:17:09](https://news.ycombinator.com/item?id=35764584) - [40 Years of Koyaanisqatsi](https://www.thecurb.com.au/40-years-of-koyaanisqatsi/)
 * [2023-04-30, 17:03:24](https://news.ycombinator.com/item?id=35764476) - [Engineers develop water filtration that removes “forever chemicals”](https://news.ubc.ca/2023/03/22/new-ubc-water-treatment-zaps-forever-chemicals-for-good/)
-* [2023-04-30, 17:00:37](https://news.ycombinator.com/item?id=35764445) - [Patterns (YC S21) is hiring AI engineers](https://www.ycombinator.com/companies/patterns)
 * [2023-04-30, 16:52:01](https://news.ycombinator.com/item?id=35764355) - [Show HN: EVA – AI-Relational Database System](https://github.com/georgia-tech-db/eva)
 * [2023-04-30, 16:35:04](https://news.ycombinator.com/item?id=35764176) - [Modern perfect hashing for strings](http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html)
 * [2023-04-30, 16:01:20](https://news.ycombinator.com/item?id=35763823) - [Chess is booming among teens](https://www.polygon.com/tabletop-games/23679440/teens-love-chess-memes-boom-2023)
+* [2023-04-30, 14:55:55](https://news.ycombinator.com/item?id=35763100) - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
 
 ## [Archives](archives/index.md)
 
