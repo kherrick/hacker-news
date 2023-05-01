@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 12:41:16](https://news.ycombinator.com/item?id=35771994) - [Krita is a professional FREE and open source painting program](https://krita.org/en/)
 * [2023-05-01, 12:00:37](https://news.ycombinator.com/item?id=35771604) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/ff030eb9f23c01-ml-engineer-intern)
 * [2023-05-01, 11:53:59](https://news.ycombinator.com/item?id=35771538) - [I got a job as a Waffle House server that pays $2.92 an hour](https://www.businessinsider.com/what-its-like-to-work-at-waffle-house-2023-4)
 * [2023-05-01, 10:54:52](https://news.ycombinator.com/item?id=35771136) - [Ignore Microsoft’s whines about the Activision takeover. The CMA did its job](https://www.theguardian.com/technology/nils-pratley-on-finance/2023/apr/27/ignore-microsoft-whines-activision-blizzard-the-cma-did-its-job)
