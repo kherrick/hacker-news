@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 23:59:52](https://news.ycombinator.com/item?id=35767687) - [No, the King doesn&#x27;t own all the swans in Britain](https://weirdmedievalguys.substack.com/p/no-the-king-of-england-doesnt-own)
+* [2023-04-30, 23:10:58](https://news.ycombinator.com/item?id=35767409) - [No Mow May, Low Mow Spring](https://beecityusa.org/no-mow-may/)
 * [2023-04-30, 22:54:57](https://news.ycombinator.com/item?id=35767315) - [Want to try Bluesky? Look carefully at the terms of service. – Mashable](https://mashable.com/article/bluesky-twitter-terms-of-service)
 * [2023-04-30, 22:12:41](https://news.ycombinator.com/item?id=35767057) - [Banking crises rooted in a system that rewards excessive risk-taking](https://theconversation.com/banking-crises-rooted-in-a-system-that-rewards-excessive-risk-taking-as-first-republics-precarious-situation-shows-204255)
 * [2023-04-30, 22:01:02](https://news.ycombinator.com/item?id=35766988) - [Facing Imminent Homelessness, Gagoot Developer Seeks Project Funding](https://gagoot.com/sos.txt)
@@ -59,6 +61,7 @@
 * [2023-04-30, 11:06:41](https://news.ycombinator.com/item?id=35761457) - [Lego Googol Machine](https://brickexperimentchannel.wordpress.com/2023/04/29/lego-googol-machine/)
 * [2023-04-30, 10:49:16](https://news.ycombinator.com/item?id=35761368) - [Vicuna on iPhone](https://mlc.ai/mlc-llm/#iphone)
 * [2023-04-30, 10:36:25](https://news.ycombinator.com/item?id=35761296) - [Beating Bisect with Branchless Binary Search](https://github.com/juliusgeo/branchless_bisect)
+* [2023-04-30, 10:03:00](https://news.ycombinator.com/item?id=35761141) - [Humble Chronicles: State Management](https://tonsky.me/blog/humble-state/)
 * [2023-04-30, 09:49:08](https://news.ycombinator.com/item?id=35761071) - [U.S. Teen Girls Experiencing Increased Sadness and Violence](https://www.cdc.gov/media/releases/2023/p0213-yrbs.html)
 * [2023-04-30, 08:21:34](https://news.ycombinator.com/item?id=35760624) - [ESA – Space Debris by the Numbers](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
 * [2023-04-30, 07:55:35](https://news.ycombinator.com/item?id=35760489) - [llama.cpp: Roadmap May 2023](https://github.com/ggerganov/llama.cpp/discussions/1220)
