@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
 * [2023-05-01, 10:54:52](https://news.ycombinator.com/item?id=35771136) - [Ignore Microsoft’s whines about the Activision takeover. The CMA did its job](https://www.theguardian.com/technology/nils-pratley-on-finance/2023/apr/27/ignore-microsoft-whines-activision-blizzard-the-cma-did-its-job)
+* [2023-05-01, 10:50:48](https://news.ycombinator.com/item?id=35771104) - [‘The Godfather of A.I.’ Leaves Google and Warns of Danger Ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
 * [2023-05-01, 09:59:02](https://news.ycombinator.com/item?id=35770816) - [Millions snap up new Germany-wide public transit ticket](https://apnews.com/article/germany-public-transit-cheap-ticket-trains-metro-3d83f1a35ab8e3945b8034b9bd511c29)
 * [2023-05-01, 09:32:31](https://news.ycombinator.com/item?id=35770678) - [First clean water, now clean air](https://finmoorhouse.com/writing/clean-air/)
 * [2023-05-01, 09:12:36](https://news.ycombinator.com/item?id=35770563) - [Michael J. Fox Foundation Announces Breakthrough for Parkinson&#x27;s Biomarker](https://www.michaeljfox.org/publication/michael-j-fox-foundation-announces-significant-breakthrough-search-parkinsons-biomarker)

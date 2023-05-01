@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-01, 10:54:52](https://news.ycombinator.com/item?id=35771136) - [Ignore Microsoft’s whines about the Activision takeover. The CMA did its job](https://www.theguardian.com/technology/nils-pratley-on-finance/2023/apr/27/ignore-microsoft-whines-activision-blizzard-the-cma-did-its-job)
-* [2023-05-01, 09:59:02](https://news.ycombinator.com/item?id=35770816) - [Millions snap up new Germany-wide public transit ticket](https://apnews.com/article/germany-public-transit-cheap-ticket-trains-metro-3d83f1a35ab8e3945b8034b9bd511c29)
+* [2023-05-01, 10:50:48](https://news.ycombinator.com/item?id=35771104) - [‘The Godfather of A.I.’ Leaves Google and Warns of Danger Ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
 * [2023-05-01, 09:32:31](https://news.ycombinator.com/item?id=35770678) - [First clean water, now clean air](https://finmoorhouse.com/writing/clean-air/)
-* [2023-05-01, 09:12:36](https://news.ycombinator.com/item?id=35770563) - [Michael J. Fox Foundation Announces Breakthrough for Parkinson&#x27;s Biomarker](https://www.michaeljfox.org/publication/michael-j-fox-foundation-announces-significant-breakthrough-search-parkinsons-biomarker)
+* [2023-05-01, 09:12:36](https://news.ycombinator.com/item?id=35770563) - [Significant Breakthrough in Search for Parkinson&#x27;s Biomarker](https://www.michaeljfox.org/publication/michael-j-fox-foundation-announces-significant-breakthrough-search-parkinsons-biomarker)
 * [2023-05-01, 07:37:47](https://news.ycombinator.com/item?id=35770048) - [JPMorgan Chase Bank Assumes All the Deposits of First Republic Bank](https://www.fdic.gov/news/press-releases/2023/pr23034.html)
 * [2023-05-01, 07:37:16](https://news.ycombinator.com/item?id=35770044) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
-* [2023-05-01, 06:05:09](https://news.ycombinator.com/item?id=35769529) - [Teardown Frame Teardown: Rendering Analysis](https://acko.net/blog/teardown-frame-teardown/)
 * [2023-05-01, 04:42:35](https://news.ycombinator.com/item?id=35769163) - [Dex Lang: Research language for array processing in the Haskell&#x2F;ML family](https://github.com/google-research/dex-lang)
 * [2023-05-01, 04:14:09](https://news.ycombinator.com/item?id=35769031) - [Gilbert U-238 Atomic Energy Laboratory](https://en.wikipedia.org/wiki/Gilbert_U-238_Atomic_Energy_Laboratory)
 * [2023-05-01, 03:54:55](https://news.ycombinator.com/item?id=35768943) - [Design a keyboard with Ergogen v4](https://flatfootfox.com/ergogen-introduction/)
@@ -29,6 +28,7 @@
 * [2023-04-30, 19:02:17](https://news.ycombinator.com/item?id=35765560) - [DIY Adapter: Using an e-bike battery to run a laptop](https://transistor-man.com/lenovo_ebike_adapter.html)
 * [2023-04-30, 18:12:48](https://news.ycombinator.com/item?id=35765100) - [Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems](https://www.micahlerner.com/2023/04/16/perseus-a-fail-slow-detection-framework-for-cloud-storage-systems.html)
 * [2023-04-30, 17:03:24](https://news.ycombinator.com/item?id=35764476) - [Engineers develop water filtration that removes “forever chemicals”](https://news.ubc.ca/2023/03/22/new-ubc-water-treatment-zaps-forever-chemicals-for-good/)
+* [2023-04-30, 16:01:20](https://news.ycombinator.com/item?id=35763823) - [Chess is booming among teens](https://www.polygon.com/tabletop-games/23679440/teens-love-chess-memes-boom-2023)
 * [2023-04-30, 10:25:15](https://news.ycombinator.com/item?id=35761239) - [Sator Square](https://en.wikipedia.org/wiki/Sator_Square)
 
 ## [Archives](archives/index.md)
