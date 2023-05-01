@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 17:04:36](https://news.ycombinator.com/item?id=35775748) - [Savings and Loan Crisis 1980–1989](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
+* [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A Bacterial Culprit for Rheumatoid Arthritis](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
+* [2023-05-01, 17:00:58](https://news.ycombinator.com/item?id=35775687) - [Agave (YC W22) Is Hiring Founding Eng – Construction API](https://news.ycombinator.com/item?id=35775687)
 * [2023-05-01, 16:24:35](https://news.ycombinator.com/item?id=35775084) - [American travelers are being charged up to 3 times more for vacations](https://www.dailymail.co.uk/news/article-12022271/How-travelers-charged-THREE-times-vacations-booked-websites.html)
 * [2023-05-01, 16:00:42](https://news.ycombinator.com/item?id=35774730) - [Storage on Vercel](https://vercel.com/blog/vercel-storage)
 * [2023-05-01, 15:50:38](https://news.ycombinator.com/item?id=35774568) - [PC chip names are a confusing mess](https://liliputing.com/pc-chip-names-are-a-confusing-mess/)
