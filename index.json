@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-05-01, 03:32:48",
+      "https://news.ycombinator.com/item?id=35768824"
+    ],
+    [
+      "Are Emergent Abilities of Large Language Models a Mirage?",
+      "https://arxiv.org/abs/2304.15004"
+    ]
+  ],
+  [
+    [
       "2023-05-01, 03:15:40",
       "https://news.ycombinator.com/item?id=35768744"
     ],
     [
       "This Content Is for Human Consumption Only",
       "https://orbistertius.substack.com/p/refuse-to-be-an-observation"
+    ]
+  ],
+  [
+    [
+      "2023-05-01, 03:08:52",
+      "https://news.ycombinator.com/item?id=35768692"
+    ],
+    [
+      "A Mirror for Rust: Compile-Time Reflection Report",
+      "https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-04-30, 21:57:20",
-      "https://news.ycombinator.com/item?id=35766965"
-    ],
-    [
-      "CRISPR-Cas-amplified urinary biomarkers for cancer diagnostics",
-      "https://www.nature.com/articles/s41565-023-01372-9"
-    ]
-  ],
-  [
-    [
       "2023-04-30, 21:23:07",
       "https://news.ycombinator.com/item?id=35766747"
     ],
@@ -187,16 +197,6 @@
     [
       "DIY Adapter: Using an e-bike battery to run a laptop",
       "https://transistor-man.com/lenovo_ebike_adapter.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-30, 18:20:33",
-      "https://news.ycombinator.com/item?id=35765177"
-    ],
-    [
-      "The RISC Wars Part 1: The Cambrian Explosion",
-      "https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55"
     ]
   ],
   [
