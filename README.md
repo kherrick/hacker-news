@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-01, 20:00:52](https://news.ycombinator.com/item?id=35778333) - [Privacyguides.org – The guide to restoring your online privacy](https://www.privacyguides.org/en/)
-* [2023-05-01, 19:54:13](https://news.ycombinator.com/item?id=35778241) - [Gender Gap in Chess](https://www.alexmolas.com/blog/chess-gender-gap/)
 * [2023-05-01, 18:18:47](https://news.ycombinator.com/item?id=35776907) - [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
 * [2023-05-01, 18:06:33](https://news.ycombinator.com/item?id=35776743) - [Apple has just released the first Rapid Security Response for Ventura](https://eclecticlight.co/2023/05/01/apple-has-just-released-the-first-rapid-security-response-for-ventura/)
 * [2023-05-01, 17:47:23](https://news.ycombinator.com/item?id=35776480) - [You and Your Research (1986)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
@@ -16,6 +15,7 @@
 * [2023-05-01, 15:01:52](https://news.ycombinator.com/item?id=35773737) - [Type Inference from Scratch (2019) [video]](https://www.youtube.com/watch?v=ytPAlhnAKro)
 * [2023-05-01, 15:00:07](https://news.ycombinator.com/item?id=35773707) - [Ask HN: Who is hiring? (May 2023)](https://news.ycombinator.com/item?id=35773707)
 * [2023-05-01, 15:00:06](https://news.ycombinator.com/item?id=35773705) - [Ask HN: Who wants to be hired? (May 2023)](https://news.ycombinator.com/item?id=35773705)
+* [2023-05-01, 14:23:04](https://news.ycombinator.com/item?id=35773168) - [Nostr – Decentralized social network](https://nostr.com)
 * [2023-05-01, 12:55:23](https://news.ycombinator.com/item?id=35772131) - [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
 * [2023-05-01, 12:42:40](https://news.ycombinator.com/item?id=35772005) - [Help make mass surveillance of entire populations uneconomical](https://prism-break.org/en/)
 * [2023-05-01, 12:41:16](https://news.ycombinator.com/item?id=35771994) - [Krita: A professional free and open source painting program](https://krita.org/en/)
