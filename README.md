@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-01, 21:01:01](https://news.ycombinator.com/item?id=35779079) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-05-01, 21:01:01](https://news.ycombinator.com/item?id=35779079) - [BuildZoom (better way to build custom homes) is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-01, 20:17:20](https://news.ycombinator.com/item?id=35778557) - [Change My Mind: Density Increases Local but Decreases Global Prices](https://astralcodexten.substack.com/p/change-my-mind-density-increases)
 * [2023-05-01, 20:16:45](https://news.ycombinator.com/item?id=35778547) - [Universal Railway Bus](https://arduinorailwaycontrol.com)
 * [2023-05-01, 18:18:47](https://news.ycombinator.com/item?id=35776907) - [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
