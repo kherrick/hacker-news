@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-01, 16:24:35](https://news.ycombinator.com/item?id=35775084) - [American travelers are being charged up to 3 times more for vacations](https://www.dailymail.co.uk/news/article-12022271/How-travelers-charged-THREE-times-vacations-booked-websites.html)
 * [2023-05-01, 16:00:42](https://news.ycombinator.com/item?id=35774730) - [Storage on Vercel](https://vercel.com/blog/vercel-storage)
+* [2023-05-01, 15:50:38](https://news.ycombinator.com/item?id=35774568) - [PC chip names are a confusing mess](https://liliputing.com/pc-chip-names-are-a-confusing-mess/)
 * [2023-05-01, 15:48:44](https://news.ycombinator.com/item?id=35774540) - [Workers of the World, Take PTO](https://daily.jstor.org/workers-of-the-world-take-pto/)
-* [2023-05-01, 15:36:09](https://news.ycombinator.com/item?id=35774311) - [Up next: the lawsuit threatening your YouTube watch queue](https://www.mux.com/blog/up-next-the-lawsuit-threatening-your-youtube-watch-queue)
 * [2023-05-01, 15:30:20](https://news.ycombinator.com/item?id=35774214) - [Our Planet II [video]](https://www.youtube.com/watch?v=KZKvOzlYit4)
-* [2023-05-01, 15:29:20](https://news.ycombinator.com/item?id=35774201) - [The Socialist Calculation Debate](https://www.laphamsquarterly.org/roundtable/socialist-calculation-debate)
 * [2023-05-01, 15:29:00](https://news.ycombinator.com/item?id=35774193) - [“The Dead Silence of Goods”: Annie Ernaux and the Superstore](https://www.theparisreview.org/blog/2023/05/01/the-dead-silence-of-goods-annie-ernaux-and-the-superstore/)
 * [2023-05-01, 15:26:20](https://news.ycombinator.com/item?id=35774142) - [Digital Security Tips to Prevent the Cops from Ruining Your Trip Abroad](https://theintercept.com/2023/04/29/phone-laptop-security-international-travel/)
 * [2023-05-01, 15:23:39](https://news.ycombinator.com/item?id=35774107) - [Cube.js: Headless Semantic Layer](https://github.com/cube-js/cube)
@@ -13,6 +13,7 @@
 * [2023-05-01, 15:00:07](https://news.ycombinator.com/item?id=35773707) - [Ask HN: Who is hiring? (May 2023)](https://news.ycombinator.com/item?id=35773707)
 * [2023-05-01, 14:50:21](https://news.ycombinator.com/item?id=35773554) - [Enabling IPv6 support for IPv4 only apps on Linux](https://pavel.network/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
 * [2023-05-01, 14:23:04](https://news.ycombinator.com/item?id=35773168) - [Nostr – Decentralized Social Network](https://nostr.com)
+* [2023-05-01, 13:24:05](https://news.ycombinator.com/item?id=35772466) - [Mormons Make Great FBI Recruits](https://www.atlasobscura.com/articles/why-mormons-make-great-fbi-recruits)
 * [2023-05-01, 12:55:23](https://news.ycombinator.com/item?id=35772131) - [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
 * [2023-05-01, 12:52:32](https://news.ycombinator.com/item?id=35772099) - [Lithium-ion batteries a growing fire hazard in NYC garbage trucks](https://gothamist.com/news/lithium-ion-batteries-a-growing-fire-hazard-in-nyc-garbage-trucks-dsny-says)
 * [2023-05-01, 12:43:54](https://news.ycombinator.com/item?id=35772020) - [Things that don’t work well with MySQL’s FOREIGN KEY implementation](http://code.openark.org/blog/mysql/things-that-dont-work-well-with-mysqls-foreign-key-implementation)
@@ -28,7 +29,6 @@
 * [2023-05-01, 07:37:47](https://news.ycombinator.com/item?id=35770048) - [JPMorgan Chase Bank Assumes All the Deposits of First Republic Bank](https://www.fdic.gov/news/press-releases/2023/pr23034.html)
 * [2023-05-01, 07:37:16](https://news.ycombinator.com/item?id=35770044) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
 * [2023-05-01, 04:14:09](https://news.ycombinator.com/item?id=35769031) - [Gilbert U-238 Atomic Energy Laboratory](https://en.wikipedia.org/wiki/Gilbert_U-238_Atomic_Energy_Laboratory)
-* [2023-04-30, 15:51:05](https://news.ycombinator.com/item?id=35763717) - [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
 * [2023-04-30, 12:57:16](https://news.ycombinator.com/item?id=35762112) - [Second ‘Impossible’ Ring Found Around Distant Dwarf Planet](https://www.nytimes.com/2023/04/27/science/quaoar-rings-kuiper-belt.html)
 
 ## [Archives](archives/index.md)

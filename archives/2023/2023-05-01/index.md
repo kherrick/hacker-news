@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 16:24:35](https://news.ycombinator.com/item?id=35775084) - [American travelers are being charged up to 3 times more for vacations](https://www.dailymail.co.uk/news/article-12022271/How-travelers-charged-THREE-times-vacations-booked-websites.html)
 * [2023-05-01, 16:00:42](https://news.ycombinator.com/item?id=35774730) - [Storage on Vercel](https://vercel.com/blog/vercel-storage)
+* [2023-05-01, 15:50:38](https://news.ycombinator.com/item?id=35774568) - [PC chip names are a confusing mess](https://liliputing.com/pc-chip-names-are-a-confusing-mess/)
 * [2023-05-01, 15:48:44](https://news.ycombinator.com/item?id=35774540) - [Workers of the World, Take PTO](https://daily.jstor.org/workers-of-the-world-take-pto/)
 * [2023-05-01, 15:36:09](https://news.ycombinator.com/item?id=35774311) - [Up next: the lawsuit threatening your YouTube watch queue](https://www.mux.com/blog/up-next-the-lawsuit-threatening-your-youtube-watch-queue)
 * [2023-05-01, 15:30:20](https://news.ycombinator.com/item?id=35774214) - [Our Planet II [video]](https://www.youtube.com/watch?v=KZKvOzlYit4)
