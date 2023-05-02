@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-02, 18:58:43](https://news.ycombinator.com/item?id=35792481) - [Ask HN: What do you use for ML Hosting](https://news.ycombinator.com/item?id=35792481)
 * [2023-05-02, 18:49:36](https://news.ycombinator.com/item?id=35792360) - [Exercise Increases Number of Immune Cells in Cancer Patients](https://www.utu.fi/en/news/press-release/exercise-increases-the-number-of-cancer-destroying-immune-cells-in-cancer)
 * [2023-05-02, 18:19:05](https://news.ycombinator.com/item?id=35791947) - [NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)
+* [2023-05-02, 17:54:27](https://news.ycombinator.com/item?id=35791575) - [Eye Candy](https://eycndy.com)
 * [2023-05-02, 17:32:35](https://news.ycombinator.com/item?id=35791205) - [Building a Compiler with MLIR (Multi-Level Intermediate Representation) [pdf]](https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf)
 * [2023-05-02, 17:05:31](https://news.ycombinator.com/item?id=35790758) - [Borges and $: The Parable of the Literary Master and the Coin (2016)](https://longreads.com/2016/06/14/borges-and-money/)
 * [2023-05-02, 17:00:45](https://news.ycombinator.com/item?id=35790672) - [Sematic (YC S22) is hiring their first Enterprise Sales Representative](https://www.ycombinator.com/companies/sematic/jobs/PG1oHuE-enterprise-sales-representative)
@@ -18,7 +20,6 @@
 * [2023-05-02, 13:28:03](https://news.ycombinator.com/item?id=35787114) - [Red Canary Mac Monitor](https://redcanary.com/blog/mac-monitor/)
 * [2023-05-02, 13:25:23](https://news.ycombinator.com/item?id=35787080) - [Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://arstechnica.com/tech-policy/2023/05/judge-wont-force-reddit-to-identify-anonymous-users-who-discussed-piracy/)
 * [2023-05-02, 12:09:09](https://news.ycombinator.com/item?id=35786242) - [Show HN: Currl – A free text-based social bookmarking website](https://currl.io/)
-* [2023-05-02, 11:45:55](https://news.ycombinator.com/item?id=35786086) - [PornHub blocks users in Utah, cites state’s age verification law](https://kslnewsradio.com/2003298/adult-website-pornhub-blocks-users-in-utah-from-accessing-the-site/)
 * [2023-05-02, 10:49:04](https://news.ycombinator.com/item?id=35785650) - [Brain activity of dying people shows signs of near-death experiences](https://www.newscientist.com/article/2371316-brain-activity-of-dying-people-shows-signs-of-near-death-experiences/)
 * [2023-05-02, 10:36:24](https://news.ycombinator.com/item?id=35785573) - [MLCopilot: Human Expertise Meets Machine Intelligence for Efficient ML Solutions](https://arxiv.org/abs/2304.14979)
 * [2023-05-02, 09:48:04](https://news.ycombinator.com/item?id=35785255) - [America will soon see a wave of bank mergers?](https://www.economist.com/leaders/2023/04/20/why-america-will-soon-see-a-wave-of-bank-mergers)
@@ -27,7 +28,6 @@
 * [2023-05-02, 08:34:34](https://news.ycombinator.com/item?id=35784814) - [IBM to pause hiring in plan to replace 7,800 jobs with AI](https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html)
 * [2023-05-02, 06:41:54](https://news.ycombinator.com/item?id=35784157) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
 * [2023-05-01, 23:42:58](https://news.ycombinator.com/item?id=35780921) - [GradIEEEnt half decent](http://tom7.org/grad/)
-* [2023-05-01, 22:00:18](https://news.ycombinator.com/item?id=35779796) - [Classic fountain pens](https://www.wallpaper.com/design-interiors/classic-fountain-pens)
 * [2023-05-01, 20:57:02](https://news.ycombinator.com/item?id=35779034) - [Manuela Beltrán Is a Colombian Hero. What If She Never Existed?](https://www.atlasobscura.com/articles/manuela-beltran-colombia-hero)
 * [2023-05-01, 06:13:56](https://news.ycombinator.com/item?id=35769572) - [Aftermath of the Kernel Wars](https://deprogrammaticaipsum.com/aftermath-of-the-kernel-wars/)
 
