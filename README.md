@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-02, 20:25:59](https://news.ycombinator.com/item?id=35793660) - [Investigating Linux Phantom Disk Reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
 * [2023-05-02, 19:52:19](https://news.ycombinator.com/item?id=35793187) - [Ask HN: Paychecks from a failed startup?](https://news.ycombinator.com/item?id=35793187)
 * [2023-05-02, 19:47:11](https://news.ycombinator.com/item?id=35793116) - [Mullvad: Update regarding the search warrant from two weeks ago](https://mullvad.net/en/blog/2023/5/2/update-the-swedish-authorities-answered-our-protocol-request/)
 * [2023-05-02, 19:38:33](https://news.ycombinator.com/item?id=35793009) - [Did the EU ban JSdelivr and other free CDNs?](https://fariszr.com/en/eu-gdpr-jsdelivr-free-cdn-ban/)
@@ -25,11 +26,10 @@
 * [2023-05-02, 13:25:23](https://news.ycombinator.com/item?id=35787080) - [Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://arstechnica.com/tech-policy/2023/05/judge-wont-force-reddit-to-identify-anonymous-users-who-discussed-piracy/)
 * [2023-05-02, 10:49:04](https://news.ycombinator.com/item?id=35785650) - [Brain activity of dying people shows signs of near-death experiences](https://www.newscientist.com/article/2371316-brain-activity-of-dying-people-shows-signs-of-near-death-experiences/)
 * [2023-05-02, 09:48:04](https://news.ycombinator.com/item?id=35785255) - [America will soon see a wave of bank mergers?](https://www.economist.com/leaders/2023/04/20/why-america-will-soon-see-a-wave-of-bank-mergers)
+* [2023-05-02, 09:45:21](https://news.ycombinator.com/item?id=35785231) - [Some employers have decided to build their own housing for workers](https://www.npr.org/2023/05/02/1172301798/workers-affordable-housing-companies-building)
 * [2023-05-02, 08:34:34](https://news.ycombinator.com/item?id=35784814) - [IBM to pause hiring in plan to replace 7,800 jobs with AI](https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html)
 * [2023-05-01, 20:57:02](https://news.ycombinator.com/item?id=35779034) - [Historians have found little evidence that Manuela Beltrán existed](https://www.atlasobscura.com/articles/manuela-beltran-colombia-hero)
 * [2023-05-01, 06:13:56](https://news.ycombinator.com/item?id=35769572) - [Aftermath of the Kernel Wars](https://deprogrammaticaipsum.com/aftermath-of-the-kernel-wars/)
-* [2023-04-30, 14:34:33](https://news.ycombinator.com/item?id=35762924) - [Gears (2020)](https://ciechanow.ski/gears/)
-* [2023-04-30, 14:08:50](https://news.ycombinator.com/item?id=35762682) - [Use singular nouns for database table names](https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html)
 
 ## [Archives](archives/index.md)
 

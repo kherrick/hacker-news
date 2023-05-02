@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 20:25:59](https://news.ycombinator.com/item?id=35793660) - [Investigating Linux Phantom Disk Reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
 * [2023-05-02, 19:59:51](https://news.ycombinator.com/item?id=35793297) - [macOS Activation Lock: Friend or Foe](https://www.zipsec.com/blog/activation-lock-friend-or-foe)
 * [2023-05-02, 19:52:19](https://news.ycombinator.com/item?id=35793187) - [Ask HN: Paychecks from a Failed Startup](https://news.ycombinator.com/item?id=35793187)
 * [2023-05-02, 19:47:11](https://news.ycombinator.com/item?id=35793116) - [Mullvad: Update regarding the search warrant from two weeks ago](https://mullvad.net/en/blog/2023/5/2/update-the-swedish-authorities-answered-our-protocol-request/)
