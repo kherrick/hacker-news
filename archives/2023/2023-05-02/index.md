@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 13:43:50](https://news.ycombinator.com/item?id=35787287) - [Is infinity an odd or even number? (2011)](https://math.stackexchange.com/questions/49034/is-infinity-an-odd-or-even-number)
 * [2023-05-02, 13:35:25](https://news.ycombinator.com/item?id=35787195) - [AMD&#x27;s Firmware TPMs Vulnerable to Hardware Attacks, Defeating Disk Encryption](https://arxiv.org/abs/2304.14717)
+* [2023-05-02, 13:28:03](https://news.ycombinator.com/item?id=35787114) - [Red Canary Mac Monitor](https://redcanary.com/blog/mac-monitor/)
 * [2023-05-02, 13:27:09](https://news.ycombinator.com/item?id=35787102) - [Let&#x27;s Make Sure GitHub Doesn&#x27;t Become the Only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
 * [2023-05-02, 13:25:23](https://news.ycombinator.com/item?id=35787080) - [Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://arstechnica.com/tech-policy/2023/05/judge-wont-force-reddit-to-identify-anonymous-users-who-discussed-piracy/)
 * [2023-05-02, 13:22:05](https://news.ycombinator.com/item?id=35787029) - [Intel Core Ultra Meteor Lake CPU Breaks Cover with 128 GPU Cores](https://hothardware.com/news/intel-core-ultra-meteor-lake-cpu-leak)
