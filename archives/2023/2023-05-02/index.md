@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 09:48:04](https://news.ycombinator.com/item?id=35785255) - [Why America will soon see a wave of bank mergers](https://www.economist.com/leaders/2023/04/20/why-america-will-soon-see-a-wave-of-bank-mergers)
+* [2023-05-02, 09:45:21](https://news.ycombinator.com/item?id=35785231) - [Would you live next to co-workers for the right price? This company bets yes](https://www.npr.org/2023/05/02/1172301798/workers-affordable-housing-companies-building)
 * [2023-05-02, 09:12:20](https://news.ycombinator.com/item?id=35785040) - [Dr. Mengele, USA Style: Lessons from Human Rights Abuses in America [pdf]](https://cosmosandtaxis.files.wordpress.com/2022/09/coyne_hall_ct_vol10_iss9_10.pdf)
 * [2023-05-02, 09:06:28](https://news.ycombinator.com/item?id=35785005) - [Show HN: GPT crushes my high score in 2048.io](https://github.com/inishchith/2048)
 * [2023-05-02, 08:34:34](https://news.ycombinator.com/item?id=35784814) - [IBM to pause hiring in plan to replace 7,800 jobs with AI News](https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html)
@@ -14,6 +16,7 @@
 * [2023-05-02, 06:28:21](https://news.ycombinator.com/item?id=35784067) - [White-collar crime costs society 20x as much as street crime](https://www.embroker.com/blog/white-collar-crime-statistics/#white-collar_crime_costs)
 * [2023-05-02, 06:18:08](https://news.ycombinator.com/item?id=35784001) - [Banana Equivalent Dose](https://en.wikipedia.org/wiki/Banana_equivalent_dose)
 * [2023-05-02, 05:17:51](https://news.ycombinator.com/item?id=35783650) - [ChatGPT: It has no inner monologue or meta-cognition](https://lukeplant.me.uk/blog/posts/chatgpt-no-inner-monologue-or-meta-cognition/)
+* [2023-05-02, 05:12:08](https://news.ycombinator.com/item?id=35783608) - [How to make buttons in VR (2017)](https://bvisness.me/vr-buttons/)
 * [2023-05-02, 03:54:30](https://news.ycombinator.com/item?id=35783189) - [Guidelines for Brutalist Web Design](https://brutalist-web.design/)
 * [2023-05-02, 03:50:11](https://news.ycombinator.com/item?id=35783158) - [GPT makes learning fun again](https://www.vipshek.com/blog/gpt-learning)
 * [2023-05-02, 03:19:19](https://news.ycombinator.com/item?id=35782902) - [Writing an RPC from Scratch (2021)](https://alexanderell.is/posts/rpc-from-scratch/)
