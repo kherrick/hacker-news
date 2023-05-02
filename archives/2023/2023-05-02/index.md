@@ -22,6 +22,7 @@
 * [2023-05-02, 03:19:19](https://news.ycombinator.com/item?id=35782902) - [Writing an RPC from Scratch (2021)](https://alexanderell.is/posts/rpc-from-scratch/)
 * [2023-05-02, 03:08:41](https://news.ycombinator.com/item?id=35782825) - [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
 * [2023-05-02, 03:06:11](https://news.ycombinator.com/item?id=35782811) - [“A Great Ox Stands on My Tongue”: The Pitfalls of Latin Translation](https://antigonejournal.com/2021/06/pitfalls-latin-translation/)
+* [2023-05-02, 03:05:49](https://news.ycombinator.com/item?id=35782808) - [John Backus (1924 – 2007) [pdf]](https://dirkgerrits.com/publications/john-backus.pdf)
 * [2023-05-02, 03:00:11](https://news.ycombinator.com/item?id=35782770) - [Breaking down Krypton (2022)](https://muffinman.io/blog/breaking-down-krypton/)
 * [2023-05-02, 02:58:18](https://news.ycombinator.com/item?id=35782759) - [A look back at the Argus C44 rangefinder camera](https://notes.ericjiang.com/posts/1265)
 * [2023-05-02, 02:39:35](https://news.ycombinator.com/item?id=35782630) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
