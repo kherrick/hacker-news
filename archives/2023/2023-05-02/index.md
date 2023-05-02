@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
 * [2023-05-02, 16:21:58](https://news.ycombinator.com/item?id=35789963) - [Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
+* [2023-05-02, 15:14:17](https://news.ycombinator.com/item?id=35788792) - [Qwik Reaches v1.0](https://www.builder.io/blog/qwik-v1)
 * [2023-05-02, 14:36:05](https://news.ycombinator.com/item?id=35788120) - [Adult-Use Cannabis Delivers $15B in Tax Revenues](https://www.greenmarketreport.com/adult-use-cannabis-has-delivered-15-billion-in-tax-revenues/)
 * [2023-05-02, 14:26:19](https://news.ycombinator.com/item?id=35787953) - [Environmental groups sue the FAA over SpaceX launch from Texas](https://arstechnica.com/science/2023/05/environmental-groups-sue-the-faa-over-spacex-launch-from-texas/)
 * [2023-05-02, 14:12:28](https://news.ycombinator.com/item?id=35787707) - [Microsoft Broke a Chrome Feature to Promote Its Edge Browser](https://gizmodo.com/microsoft-windows-google-chrome-feature-broken-edge-1850392901)

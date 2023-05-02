@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-02, 16:21:58](https://news.ycombinator.com/item?id=35789963) - [Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
+* [2023-05-02, 15:14:17](https://news.ycombinator.com/item?id=35788792) - [Qwik Reaches v1.0](https://www.builder.io/blog/qwik-v1)
 * [2023-05-02, 14:36:05](https://news.ycombinator.com/item?id=35788120) - [Adult-use cannabis delivers $15B in tax revenues](https://www.greenmarketreport.com/adult-use-cannabis-has-delivered-15-billion-in-tax-revenues/)
 * [2023-05-02, 14:12:28](https://news.ycombinator.com/item?id=35787707) - [Microsoft Broke a Chrome Feature to Promote Its Edge Browser](https://gizmodo.com/microsoft-windows-google-chrome-feature-broken-edge-1850392901)
 * [2023-05-02, 14:11:18](https://news.ycombinator.com/item?id=35787676) - [Anonymous Tor Phone](https://0ut3r.space/2023/05/02/anonymous-tor-phone/)
@@ -10,7 +11,6 @@
 * [2023-05-02, 13:35:25](https://news.ycombinator.com/item?id=35787195) - [faulTPM: Exposing AMD fTPMs&#x27; Deepest Secrets](https://arxiv.org/abs/2304.14717)
 * [2023-05-02, 13:28:03](https://news.ycombinator.com/item?id=35787114) - [Red Canary Mac Monitor](https://redcanary.com/blog/mac-monitor/)
 * [2023-05-02, 13:25:23](https://news.ycombinator.com/item?id=35787080) - [Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://arstechnica.com/tech-policy/2023/05/judge-wont-force-reddit-to-identify-anonymous-users-who-discussed-piracy/)
-* [2023-05-02, 12:17:57](https://news.ycombinator.com/item?id=35786297) - [OpenAI Threatens Popular GitHub Project with Lawsuit over API Use](https://www.tomshardware.com/news/openai-sends-shutdown-letter-to-gpt4free)
 * [2023-05-02, 12:09:09](https://news.ycombinator.com/item?id=35786242) - [Show HN: Currl – A free text-based social bookmarking website](https://currl.io/)
 * [2023-05-02, 11:56:03](https://news.ycombinator.com/item?id=35786162) - [Are mental health apps better or worse at privacy in 2023?](https://foundation.mozilla.org/en/privacynotincluded/articles/are-mental-health-apps-better-or-worse-at-privacy-in-2023/)
 * [2023-05-02, 11:45:55](https://news.ycombinator.com/item?id=35786086) - [PornHub blocks users in Utah, cites state’s age verification law](https://kslnewsradio.com/2003298/adult-website-pornhub-blocks-users-in-utah-from-accessing-the-site/)
