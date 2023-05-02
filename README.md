@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-02, 07:40:03](https://news.ycombinator.com/item?id=35784514) - [Ask HN: Project ideas for a Linux kernel module](https://news.ycombinator.com/item?id=35784514)
 * [2023-05-02, 06:48:37](https://news.ycombinator.com/item?id=35784192) - [Is Go an object-oriented programming language?](https://www.sobyte.net/post/2023-03/go-object-oriented/)
 * [2023-05-02, 06:44:21](https://news.ycombinator.com/item?id=35784167) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html)
 * [2023-05-02, 06:41:54](https://news.ycombinator.com/item?id=35784157) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
@@ -29,7 +30,6 @@
 * [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
 * [2023-05-01, 12:31:13](https://news.ycombinator.com/item?id=35771890) - [Heathkit](https://shop.heathkit.com/shop)
 * [2023-05-01, 10:50:48](https://news.ycombinator.com/item?id=35771104) - [Geoffrey Hinton leaves Google and warns of danger ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
-* [2023-04-29, 07:51:36](https://news.ycombinator.com/item?id=35750970) - [The kremvax hoax (1984)](https://godfatherof.nl/kremvax.html)
 
 ## [Archives](archives/index.md)
 
