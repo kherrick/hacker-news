@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-02, 18:49:36](https://news.ycombinator.com/item?id=35792360) - [Exercise Increases Number of Immune Cells in Cancer Patients](https://www.utu.fi/en/news/press-release/exercise-increases-the-number-of-cancer-destroying-immune-cells-in-cancer)
 * [2023-05-02, 18:19:05](https://news.ycombinator.com/item?id=35791947) - [NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)
 * [2023-05-02, 17:32:35](https://news.ycombinator.com/item?id=35791205) - [Building a Compiler with MLIR (Multi-Level Intermediate Representation) [pdf]](https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf)
 * [2023-05-02, 17:05:31](https://news.ycombinator.com/item?id=35790758) - [Borges and $: The Parable of the Literary Master and the Coin (2016)](https://longreads.com/2016/06/14/borges-and-money/)
@@ -23,7 +24,6 @@
 * [2023-05-02, 09:48:04](https://news.ycombinator.com/item?id=35785255) - [America will soon see a wave of bank mergers?](https://www.economist.com/leaders/2023/04/20/why-america-will-soon-see-a-wave-of-bank-mergers)
 * [2023-05-02, 09:45:21](https://news.ycombinator.com/item?id=35785231) - [Some employers have decided to build their own housing for workers](https://www.npr.org/2023/05/02/1172301798/workers-affordable-housing-companies-building)
 * [2023-05-02, 09:11:20](https://news.ycombinator.com/item?id=35785034) - [Expanding TeX&#x27;s \\Newif (2021)](https://mht.wtf/post/tex/)
-* [2023-05-02, 08:46:33](https://news.ycombinator.com/item?id=35784889) - [Google Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse)
 * [2023-05-02, 08:34:34](https://news.ycombinator.com/item?id=35784814) - [IBM to pause hiring in plan to replace 7,800 jobs with AI](https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html)
 * [2023-05-02, 06:41:54](https://news.ycombinator.com/item?id=35784157) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
 * [2023-05-01, 23:42:58](https://news.ycombinator.com/item?id=35780921) - [GradIEEEnt half decent](http://tom7.org/grad/)

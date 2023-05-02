@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 18:49:36](https://news.ycombinator.com/item?id=35792360) - [Exercise Increases Number of Immune Cells in Cancer Patients](https://www.utu.fi/en/news/press-release/exercise-increases-the-number-of-cancer-destroying-immune-cells-in-cancer)
 * [2023-05-02, 18:19:05](https://news.ycombinator.com/item?id=35791947) - [NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)
 * [2023-05-02, 18:10:56](https://news.ycombinator.com/item?id=35791825) - [Bitcoin Climbs as US Bank Failure Bolsters Crypto Narrative](https://www.bloomberg.com/news/articles/2023-05-02/bitcoin-climbs-as-us-bank-failure-bolsters-crypto-narrative)
 * [2023-05-02, 17:32:35](https://news.ycombinator.com/item?id=35791205) - [Building a Compiler with MLIR (Multi-Level Intermediate Representation) [pdf]](https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf)
