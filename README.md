@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-02, 13:35:25](https://news.ycombinator.com/item?id=35787195) - [AMD&#x27;s Firmware TPMs Vulnerable to Hardware Attacks, Defeating Disk Encryption](https://arxiv.org/abs/2304.14717)
+* [2023-05-02, 13:27:09](https://news.ycombinator.com/item?id=35787102) - [Let&#x27;s Make Sure GitHub Doesn&#x27;t Become the Only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
 * [2023-05-02, 13:25:23](https://news.ycombinator.com/item?id=35787080) - [Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://arstechnica.com/tech-policy/2023/05/judge-wont-force-reddit-to-identify-anonymous-users-who-discussed-piracy/)
 * [2023-05-02, 13:22:05](https://news.ycombinator.com/item?id=35787029) - [Intel Core Ultra Meteor Lake CPU Breaks Cover with 128 GPU Cores](https://hothardware.com/news/intel-core-ultra-meteor-lake-cpu-leak)
 * [2023-05-02, 13:20:18](https://news.ycombinator.com/item?id=35787000) - [Uncle Sam may do something about rampant visa H-1B fraud](https://www.theregister.com/2023/05/01/uscis_h_1b_surge/)
@@ -13,7 +14,6 @@
 * [2023-05-02, 10:36:24](https://news.ycombinator.com/item?id=35785573) - [MLCopilot: Human Expertise Meets Machine Intelligence for Efficient ML Solutions](https://arxiv.org/abs/2304.14979)
 * [2023-05-02, 08:46:33](https://news.ycombinator.com/item?id=35784889) - [Google Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse)
 * [2023-05-02, 06:44:21](https://news.ycombinator.com/item?id=35784167) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html)
-* [2023-05-02, 06:41:54](https://news.ycombinator.com/item?id=35784157) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
 * [2023-05-02, 06:18:08](https://news.ycombinator.com/item?id=35784001) - [Banana Equivalent Dose](https://en.wikipedia.org/wiki/Banana_equivalent_dose)
 * [2023-05-02, 05:12:08](https://news.ycombinator.com/item?id=35783608) - [How to make buttons in VR (2017)](https://bvisness.me/vr-buttons/)
 * [2023-05-02, 03:54:30](https://news.ycombinator.com/item?id=35783189) - [Guidelines for Brutalist Web Design (2018)](https://brutalist-web.design/)
