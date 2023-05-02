@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 13:20:18](https://news.ycombinator.com/item?id=35787000) - [Uncle Sam may do something about rampant visa H-1B fraud](https://www.theregister.com/2023/05/01/uscis_h_1b_surge/)
+* [2023-05-02, 12:17:57](https://news.ycombinator.com/item?id=35786297) - [OpenAI Threatens Popular GitHub Project with Lawsuit over API Use](https://www.tomshardware.com/news/openai-sends-shutdown-letter-to-gpt4free)
 * [2023-05-02, 12:10:42](https://news.ycombinator.com/item?id=35786251) - [22% jump in airfares expected as airlines tackle climate change](https://www.forbes.com/sites/alexledsom/2023/04/30/22-jump-in-airfares-expected-as-airlines-tackle-climate-change/)
 * [2023-05-02, 12:09:09](https://news.ycombinator.com/item?id=35786242) - [Show HN: Currl – A free text-based social bookmarking website](https://currl.io/)
 * [2023-05-02, 11:56:03](https://news.ycombinator.com/item?id=35786162) - [Are mental health apps better or worse at privacy in 2023?](https://foundation.mozilla.org/en/privacynotincluded/articles/are-mental-health-apps-better-or-worse-at-privacy-in-2023/)

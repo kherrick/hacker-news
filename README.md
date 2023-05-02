@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-02, 13:20:18](https://news.ycombinator.com/item?id=35787000) - [Uncle Sam may do something about rampant visa H-1B fraud](https://www.theregister.com/2023/05/01/uscis_h_1b_surge/)
+* [2023-05-02, 12:17:57](https://news.ycombinator.com/item?id=35786297) - [OpenAI Threatens Popular GitHub Project with Lawsuit over API Use](https://www.tomshardware.com/news/openai-sends-shutdown-letter-to-gpt4free)
 * [2023-05-02, 12:09:09](https://news.ycombinator.com/item?id=35786242) - [Show HN: Currl – A free text-based social bookmarking website](https://currl.io/)
 * [2023-05-02, 11:56:03](https://news.ycombinator.com/item?id=35786162) - [Are mental health apps better or worse at privacy in 2023?](https://foundation.mozilla.org/en/privacynotincluded/articles/are-mental-health-apps-better-or-worse-at-privacy-in-2023/)
 * [2023-05-02, 11:53:34](https://news.ycombinator.com/item?id=35786143) - [AI Generated Propaganda](https://twitter.com/politicalmath/status/1653227309967482880)
-* [2023-05-02, 11:45:55](https://news.ycombinator.com/item?id=35786086) - [Adult website Pornhub blocks users in Utah from accessing the site](https://kslnewsradio.com/2003298/adult-website-pornhub-blocks-users-in-utah-from-accessing-the-site/)
+* [2023-05-02, 11:45:55](https://news.ycombinator.com/item?id=35786086) - [Pornhub blocks users in Utah](https://kslnewsradio.com/2003298/adult-website-pornhub-blocks-users-in-utah-from-accessing-the-site/)
 * [2023-05-02, 10:36:24](https://news.ycombinator.com/item?id=35785573) - [MLCopilot: Human Expertise Meets Machine Intelligence for Efficient ML Solutions](https://arxiv.org/abs/2304.14979)
 * [2023-05-02, 08:46:33](https://news.ycombinator.com/item?id=35784889) - [Google Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse)
 * [2023-05-02, 07:40:03](https://news.ycombinator.com/item?id=35784514) - [Ask HN: Project ideas for a Linux kernel module](https://news.ycombinator.com/item?id=35784514)
@@ -12,7 +14,6 @@
 * [2023-05-02, 06:18:08](https://news.ycombinator.com/item?id=35784001) - [Banana Equivalent Dose](https://en.wikipedia.org/wiki/Banana_equivalent_dose)
 * [2023-05-02, 05:12:08](https://news.ycombinator.com/item?id=35783608) - [How to make buttons in VR (2017)](https://bvisness.me/vr-buttons/)
 * [2023-05-02, 03:54:30](https://news.ycombinator.com/item?id=35783189) - [Guidelines for Brutalist Web Design (2018)](https://brutalist-web.design/)
-* [2023-05-02, 03:50:11](https://news.ycombinator.com/item?id=35783158) - [GPT makes learning fun again](https://www.vipshek.com/blog/gpt-learning)
 * [2023-05-02, 03:19:19](https://news.ycombinator.com/item?id=35782902) - [Writing an RPC from Scratch (2021)](https://alexanderell.is/posts/rpc-from-scratch/)
 * [2023-05-02, 03:08:41](https://news.ycombinator.com/item?id=35782825) - [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
 * [2023-05-02, 03:05:49](https://news.ycombinator.com/item?id=35782808) - [John Backus (1924 – 2007) [pdf]](https://dirkgerrits.com/publications/john-backus.pdf)
@@ -28,7 +29,6 @@
 * [2023-05-01, 22:07:12](https://news.ycombinator.com/item?id=35779873) - [Shoot the arrow, then paint the target around it](https://ozanvarol.com/the-key-to-becoming-extraordinary/)
 * [2023-05-01, 22:01:29](https://news.ycombinator.com/item?id=35779805) - [Laser scanning microscope from DVD pickup heads (2020)](https://www.gaudi.ch/GaudiLabs/?page_id=652)
 * [2023-05-01, 21:09:08](https://news.ycombinator.com/item?id=35779197) - [Platbox: UEFI and SMM Platform Security Assessment Tool for AMD and Intel](https://github.com/IOActive/Platbox)
-* [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
 * [2023-05-01, 10:50:48](https://news.ycombinator.com/item?id=35771104) - [Geoffrey Hinton leaves Google and warns of danger ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
 
 ## [Archives](archives/index.md)
