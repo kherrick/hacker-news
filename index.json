@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-05-01, 23:40:26",
-      "https://news.ycombinator.com/item?id=35780884"
-    ],
-    [
-      "Cynthia Rudin and interpretable ML models",
-      "https://www.quantamagazine.org/cynthia-rudin-builds-ai-that-humans-can-understand-20230427/"
-    ]
-  ],
-  [
-    [
       "2023-05-01, 23:33:57",
       "https://news.ycombinator.com/item?id=35780812"
     ],
@@ -227,6 +217,16 @@
     [
       "Two Approaches to Decoupling",
       "https://htmx.org/essays/two-approaches-to-decoupling/"
+    ]
+  ],
+  [
+    [
+      "2023-05-01, 21:09:08",
+      "https://news.ycombinator.com/item?id=35779197"
+    ],
+    [
+      "Platbox: UEFI and SMM Platform Security Assessment Tool for AMD and Intel",
+      "https://github.com/IOActive/Platbox"
     ]
   ],
   [
