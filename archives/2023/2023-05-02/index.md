@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 05:17:51](https://news.ycombinator.com/item?id=35783650) - [ChatGPT: It has no inner monologue or meta-cognition](https://lukeplant.me.uk/blog/posts/chatgpt-no-inner-monologue-or-meta-cognition/)
 * [2023-05-02, 03:50:11](https://news.ycombinator.com/item?id=35783158) - [GPT makes learning fun again](https://www.vipshek.com/blog/gpt-learning)
 * [2023-05-02, 03:08:41](https://news.ycombinator.com/item?id=35782825) - [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
 * [2023-05-02, 03:06:11](https://news.ycombinator.com/item?id=35782811) - [“A Great Ox Stands on My Tongue”: The Pitfalls of Latin Translation](https://antigonejournal.com/2021/06/pitfalls-latin-translation/)
