@@ -9,6 +9,7 @@
 * [2023-05-02, 19:52:19](https://news.ycombinator.com/item?id=35793187) - [Ask HN: Paychecks from a Failed Startup](https://news.ycombinator.com/item?id=35793187)
 * [2023-05-02, 19:47:11](https://news.ycombinator.com/item?id=35793116) - [Mullvad: Update regarding the search warrant from two weeks ago](https://mullvad.net/en/blog/2023/5/2/update-the-swedish-authorities-answered-our-protocol-request/)
 * [2023-05-02, 19:38:33](https://news.ycombinator.com/item?id=35793009) - [Did the EU ban JSdelivr and other free CDNs?](https://fariszr.com/en/eu-gdpr-jsdelivr-free-cdn-ban/)
+* [2023-05-02, 19:38:06](https://news.ycombinator.com/item?id=35793001) - [African Workers for ChatGPT, TikTok and Facebook Vote to Unionize](https://time.com/6275995/chatgpt-facebook-african-workers-union/)
 * [2023-05-02, 19:34:44](https://news.ycombinator.com/item?id=35792949) - [Make your Python functions return something meaningful, typed, and safe](https://returns.readthedocs.io/en/latest/index.html)
 * [2023-05-02, 19:31:44](https://news.ycombinator.com/item?id=35792898) - [Ask HN: What tech is under the radar with all attention on ChatGPT etc.](https://news.ycombinator.com/item?id=35792898)
 * [2023-05-02, 19:11:09](https://news.ycombinator.com/item?id=35792635) - [AI chatbots used to create dozens of &#x27;news&#x27; content farms](https://www.bloomberg.com/news/articles/2023-05-01/ai-chatbots-have-been-used-to-create-dozens-of-news-content-farms/)
