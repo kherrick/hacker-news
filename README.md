@@ -21,7 +21,6 @@
 * [2023-05-01, 23:53:11](https://news.ycombinator.com/item?id=35781051) - [Chemists tackle the tough challenge of recycling mixed plastics](https://phys.org/news/2023-04-chemists-tackle-tough-recycling-plastics.html)
 * [2023-05-01, 23:44:17](https://news.ycombinator.com/item?id=35780941) - [The Mayan calendar might represent a longer timescale than previously considered](https://phys.org/news/2023-04-anthropologist-pair-mystery-mayan-day.html)
 * [2023-05-01, 23:42:58](https://news.ycombinator.com/item?id=35780921) - [GradIEEEnt half decent](http://tom7.org/grad/)
-* [2023-05-01, 23:33:57](https://news.ycombinator.com/item?id=35780812) - [Analog computing and hybrid computing: The view from 1962](https://statmodeling.stat.columbia.edu/2023/05/01/analog-computing-and-hybrid-computing-the-view-from-1962/)
 * [2023-05-01, 22:07:12](https://news.ycombinator.com/item?id=35779873) - [Shoot the arrow, then paint the target around it](https://ozanvarol.com/the-key-to-becoming-extraordinary/)
 * [2023-05-01, 22:01:29](https://news.ycombinator.com/item?id=35779805) - [Laser scanning microscope from DVD pickup heads (2020)](https://www.gaudi.ch/GaudiLabs/?page_id=652)
 * [2023-05-01, 21:21:29](https://news.ycombinator.com/item?id=35779341) - [Two Approaches to Decoupling](https://htmx.org/essays/two-approaches-to-decoupling/)
@@ -29,6 +28,7 @@
 * [2023-05-01, 21:01:01](https://news.ycombinator.com/item?id=35779079) - [BuildZoom (YC W13) is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-01, 20:17:20](https://news.ycombinator.com/item?id=35778557) - [Change my mind: Density increases local but decreases global prices](https://astralcodexten.substack.com/p/change-my-mind-density-increases)
 * [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
+* [2023-05-01, 12:31:13](https://news.ycombinator.com/item?id=35771890) - [Heathkit](https://shop.heathkit.com/shop)
 * [2023-05-01, 10:50:48](https://news.ycombinator.com/item?id=35771104) - [Geoffrey Hinton leaves Google and warns of danger ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
 
 ## [Archives](archives/index.md)
