@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 17:00:45](https://news.ycombinator.com/item?id=35790672) - [Sematic (YC S22) is hiring their first Enterprise Sales Representative](https://www.ycombinator.com/companies/sematic/jobs/PG1oHuE-enterprise-sales-representative)
 * [2023-05-02, 16:45:40](https://news.ycombinator.com/item?id=35790367) - [Mojo – a new programming language for AI developers](https://www.modular.com/mojo)
+* [2023-05-02, 16:38:08](https://news.ycombinator.com/item?id=35790244) - [Half of America’s banks are already insolvent](https://finance.yahoo.com/news/half-america-banks-already-insolvent-133000968.html)
 * [2023-05-02, 16:21:58](https://news.ycombinator.com/item?id=35789963) - [Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
 * [2023-05-02, 15:14:17](https://news.ycombinator.com/item?id=35788792) - [Qwik Reaches v1.0](https://www.builder.io/blog/qwik-v1)
 * [2023-05-02, 14:36:05](https://news.ycombinator.com/item?id=35788120) - [Adult-Use Cannabis Delivers $15B in Tax Revenues](https://www.greenmarketreport.com/adult-use-cannabis-has-delivered-15-billion-in-tax-revenues/)
