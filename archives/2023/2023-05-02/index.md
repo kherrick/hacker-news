@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 19:11:09](https://news.ycombinator.com/item?id=35792635) - [AI chatbots used to create dozens of &#x27;news&#x27; content farms](https://www.bloomberg.com/news/articles/2023-05-01/ai-chatbots-have-been-used-to-create-dozens-of-news-content-farms/)
 * [2023-05-02, 18:58:43](https://news.ycombinator.com/item?id=35792481) - [Ask HN: What do you use for ML Hosting](https://news.ycombinator.com/item?id=35792481)
 * [2023-05-02, 18:49:36](https://news.ycombinator.com/item?id=35792360) - [Exercise Increases Number of Immune Cells in Cancer Patients](https://www.utu.fi/en/news/press-release/exercise-increases-the-number-of-cancer-destroying-immune-cells-in-cancer)
 * [2023-05-02, 18:19:05](https://news.ycombinator.com/item?id=35791947) - [NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)
