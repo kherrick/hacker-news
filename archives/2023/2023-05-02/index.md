@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 03:50:11](https://news.ycombinator.com/item?id=35783158) - [GPT makes learning fun again](https://www.vipshek.com/blog/gpt-learning)
 * [2023-05-02, 03:08:41](https://news.ycombinator.com/item?id=35782825) - [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
 * [2023-05-02, 02:58:18](https://news.ycombinator.com/item?id=35782759) - [A look back at the Argus C44 rangefinder camera](https://notes.ericjiang.com/posts/1265)
 * [2023-05-02, 02:39:35](https://news.ycombinator.com/item?id=35782630) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
