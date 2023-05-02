@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-02, 20:50:34](https://news.ycombinator.com/item?id=35794010) - [LLM Hallucinations: why they occur and how to avoid them](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
 * [2023-05-02, 20:25:59](https://news.ycombinator.com/item?id=35793660) - [Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
 * [2023-05-02, 19:38:06](https://news.ycombinator.com/item?id=35793001) - [African Workers for ChatGPT, TikTok and Facebook Vote to Unionize](https://time.com/6275995/chatgpt-facebook-african-workers-union/)
 * [2023-05-02, 18:58:43](https://news.ycombinator.com/item?id=35792481) - [Ask HN: What do you use for ML Hosting?](https://news.ycombinator.com/item?id=35792481)
@@ -15,6 +14,7 @@
 * [2023-05-02, 16:21:58](https://news.ycombinator.com/item?id=35789963) - [Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
 * [2023-05-02, 16:06:16](https://news.ycombinator.com/item?id=35789730) - [An Update on the Lock Icon](https://blog.chromium.org/2023/05/an-update-on-lock-icon.html)
 * [2023-05-02, 14:12:28](https://news.ycombinator.com/item?id=35787707) - [Microsoft broke a Chrome feature to promote Edge](https://gizmodo.com/microsoft-windows-google-chrome-feature-broken-edge-1850392901)
+* [2023-05-02, 14:11:18](https://news.ycombinator.com/item?id=35787676) - [Anonymous Tor Phone](https://0ut3r.space/2023/05/02/anonymous-tor-phone/)
 * [2023-05-02, 14:02:22](https://news.ycombinator.com/item?id=35787527) - [IBM AS&#x2F;400: Databases all the way down [video] (2019)](https://www.youtube.com/watch?v=CDSgJE5mPJM)
 * [2023-05-02, 13:56:53](https://news.ycombinator.com/item?id=35787454) - [Samsung bans use of A.I. like ChatGPT for employees](https://www.cnbc.com/2023/05/02/samsung-bans-use-of-ai-like-chatgpt-for-staff-after-misuse-of-chatbot.html)
 * [2023-05-02, 13:43:50](https://news.ycombinator.com/item?id=35787287) - [Is infinity an odd or even number? (2011)](https://math.stackexchange.com/questions/49034/is-infinity-an-odd-or-even-number)
@@ -27,8 +27,8 @@
 * [2023-05-02, 09:48:04](https://news.ycombinator.com/item?id=35785255) - [America will soon see a wave of bank mergers?](https://www.economist.com/leaders/2023/04/20/why-america-will-soon-see-a-wave-of-bank-mergers)
 * [2023-05-02, 09:45:21](https://news.ycombinator.com/item?id=35785231) - [Some employers have decided to build their own housing for workers](https://www.npr.org/2023/05/02/1172301798/workers-affordable-housing-companies-building)
 * [2023-05-02, 08:34:34](https://news.ycombinator.com/item?id=35784814) - [IBM to pause hiring in plan to replace 7,800 jobs with AI](https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html)
+* [2023-05-01, 16:58:23](https://news.ycombinator.com/item?id=35775646) - [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet)
 * [2023-05-01, 12:03:30](https://news.ycombinator.com/item?id=35771630) - [Unlocking North Korean songs on a karaoke machine](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
-* [2023-05-01, 06:13:56](https://news.ycombinator.com/item?id=35769572) - [Aftermath of the Kernel Wars](https://deprogrammaticaipsum.com/aftermath-of-the-kernel-wars/)
 * [2023-04-30, 14:34:33](https://news.ycombinator.com/item?id=35762924) - [Gears (2020)](https://ciechanow.ski/gears/)
 
 ## [Archives](archives/index.md)

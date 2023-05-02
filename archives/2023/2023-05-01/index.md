@@ -41,6 +41,7 @@
 * [2023-05-01, 17:04:36](https://news.ycombinator.com/item?id=35775748) - [Savings and Loan Crisis 1980–1989](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
 * [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A Bacterial Culprit for Rheumatoid Arthritis](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
 * [2023-05-01, 17:00:58](https://news.ycombinator.com/item?id=35775687) - [Agave (YC W22) Is Hiring Founding Eng – Construction API](https://news.ycombinator.com/item?id=35775687)
+* [2023-05-01, 16:58:23](https://news.ycombinator.com/item?id=35775646) - [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet)
 * [2023-05-01, 16:56:44](https://news.ycombinator.com/item?id=35775623) - [Many Worlds: A Philosophy of Data Collaboration](https://github.com/terminusdb/technical-blogs/blob/main/blogs/many_worlds.md)
 * [2023-05-01, 16:48:24](https://news.ycombinator.com/item?id=35775484) - [Securely Erasing Your iPhone or iPad with a Power Drill](https://theintercept.com/2021/06/12/iphone-ipad-erase-power-drill/)
 * [2023-05-01, 16:24:35](https://news.ycombinator.com/item?id=35775084) - [American travelers are being charged up to 3 times more for vacations](https://www.dailymail.co.uk/news/article-12022271/How-travelers-charged-THREE-times-vacations-booked-websites.html)
