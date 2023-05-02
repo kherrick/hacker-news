@@ -18,6 +18,7 @@
 * [2023-05-01, 21:38:16](https://news.ycombinator.com/item?id=35779552) - [State agrees the only witness cannot be believed, court to force execution](https://www.lawdork.com/p/oklahoma-glossip-florida-nonunanimous-juries#%C2%A7oklahomas-top-criminal-court-ignores-republican-ag-in-glossip-case)
 * [2023-05-01, 21:21:29](https://news.ycombinator.com/item?id=35779341) - [Two Approaches to Decoupling](https://htmx.org/essays/two-approaches-to-decoupling/)
 * [2023-05-01, 21:12:46](https://news.ycombinator.com/item?id=35779244) - [Palo Alto Council agrees to 20 cameras, new automated plate recognition system](https://www.paloaltoonline.com/news/2023/04/03/palo-alto-leans-on-license-plate-readers-to-dent-property-crime)
+* [2023-05-01, 21:09:08](https://news.ycombinator.com/item?id=35779197) - [Platbox: UEFI and SMM Platform Security Assessment Tool for AMD and Intel](https://github.com/IOActive/Platbox)
 * [2023-05-01, 21:01:01](https://news.ycombinator.com/item?id=35779079) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-01, 20:33:02](https://news.ycombinator.com/item?id=35778760) - [How simulations work](http://www.anuncommonlab.com/articles/how-simulations-work/#TToDt)
 * [2023-05-01, 20:33:02](https://news.ycombinator.com/item?id=35778760) - [How simulations work (2016)](http://www.anuncommonlab.com/articles/how-simulations-work/)
