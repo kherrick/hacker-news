@@ -25,11 +25,11 @@
 * [2023-05-01, 21:09:08](https://news.ycombinator.com/item?id=35779197) - [Platbox: UEFI and SMM Platform Security Assessment Tool for AMD and Intel](https://github.com/IOActive/Platbox)
 * [2023-05-01, 21:01:01](https://news.ycombinator.com/item?id=35779079) - [BuildZoom (YC W13) is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-01, 20:17:20](https://news.ycombinator.com/item?id=35778557) - [Change my mind: Density increases local but decreases global prices](https://astralcodexten.substack.com/p/change-my-mind-density-increases)
-* [2023-05-01, 18:18:47](https://news.ycombinator.com/item?id=35776907) - [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
 * [2023-05-01, 17:47:23](https://news.ycombinator.com/item?id=35776480) - [You and Your Research (1986)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
 * [2023-05-01, 12:31:13](https://news.ycombinator.com/item?id=35771890) - [Heathkit](https://shop.heathkit.com/shop)
 * [2023-05-01, 10:50:48](https://news.ycombinator.com/item?id=35771104) - [Geoffrey Hinton leaves Google and warns of danger ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
+* [2023-04-29, 07:51:36](https://news.ycombinator.com/item?id=35750970) - [The kremvax hoax (1984)](https://godfatherof.nl/kremvax.html)
 
 ## [Archives](archives/index.md)
 
