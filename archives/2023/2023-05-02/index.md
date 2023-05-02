@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 14:26:19](https://news.ycombinator.com/item?id=35787953) - [Environmental groups sue the FAA over SpaceX launch from Texas](https://arstechnica.com/science/2023/05/environmental-groups-sue-the-faa-over-spacex-launch-from-texas/)
 * [2023-05-02, 14:11:18](https://news.ycombinator.com/item?id=35787676) - [Anonymous Tor Phone](https://0ut3r.space/2023/05/02/anonymous-tor-phone/)
 * [2023-05-02, 13:56:53](https://news.ycombinator.com/item?id=35787454) - [Samsung bans use of A.I. like ChatGPT for employees after misuse of the chatbot](https://www.cnbc.com/2023/05/02/samsung-bans-use-of-ai-like-chatgpt-for-staff-after-misuse-of-chatbot.html)
 * [2023-05-02, 13:43:50](https://news.ycombinator.com/item?id=35787287) - [Is infinity an odd or even number? (2011)](https://math.stackexchange.com/questions/49034/is-infinity-an-odd-or-even-number)
@@ -27,6 +28,7 @@
 * [2023-05-02, 09:48:04](https://news.ycombinator.com/item?id=35785255) - [Why America will soon see a wave of bank mergers](https://www.economist.com/leaders/2023/04/20/why-america-will-soon-see-a-wave-of-bank-mergers)
 * [2023-05-02, 09:45:21](https://news.ycombinator.com/item?id=35785231) - [Would you live next to co-workers for the right price? This company bets yes](https://www.npr.org/2023/05/02/1172301798/workers-affordable-housing-companies-building)
 * [2023-05-02, 09:12:20](https://news.ycombinator.com/item?id=35785040) - [Dr. Mengele, USA Style: Lessons from Human Rights Abuses in America [pdf]](https://cosmosandtaxis.files.wordpress.com/2022/09/coyne_hall_ct_vol10_iss9_10.pdf)
+* [2023-05-02, 09:11:20](https://news.ycombinator.com/item?id=35785034) - [Expanding TeX&#x27;s \\Newif (2021)](https://mht.wtf/post/tex/)
 * [2023-05-02, 09:06:28](https://news.ycombinator.com/item?id=35785005) - [Show HN: GPT crushes my high score in 2048.io](https://github.com/inishchith/2048)
 * [2023-05-02, 08:46:33](https://news.ycombinator.com/item?id=35784889) - [Google Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse)
 * [2023-05-02, 08:34:34](https://news.ycombinator.com/item?id=35784814) - [IBM to pause hiring in plan to replace 7,800 jobs with AI News](https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html)
