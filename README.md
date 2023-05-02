@@ -20,7 +20,6 @@
 * [2023-05-01, 23:40:26](https://news.ycombinator.com/item?id=35780884) - [Cynthia Rudin and interpretable ML models](https://www.quantamagazine.org/cynthia-rudin-builds-ai-that-humans-can-understand-20230427/)
 * [2023-05-01, 23:33:57](https://news.ycombinator.com/item?id=35780812) - [Analog computing and hybrid computing: The view from 1962](https://statmodeling.stat.columbia.edu/2023/05/01/analog-computing-and-hybrid-computing-the-view-from-1962/)
 * [2023-05-01, 22:47:25](https://news.ycombinator.com/item?id=35780329) - [Bio-inspired: developing technology to mimic the function of skin](https://newsroom.unsw.edu.au/news/science-tech/bio-inspired-developing-technology-mimic-function-skin)
-* [2023-05-01, 22:07:12](https://news.ycombinator.com/item?id=35779873) - [Shoot the arrow, then paint the target around it](https://ozanvarol.com/the-key-to-becoming-extraordinary/)
 * [2023-05-01, 22:01:29](https://news.ycombinator.com/item?id=35779805) - [Laser scanning microscope from DVD pickup heads (2020)](https://www.gaudi.ch/GaudiLabs/?page_id=652)
 * [2023-05-01, 21:21:29](https://news.ycombinator.com/item?id=35779341) - [Two Approaches to Decoupling](https://htmx.org/essays/two-approaches-to-decoupling/)
 * [2023-05-01, 21:01:01](https://news.ycombinator.com/item?id=35779079) - [BuildZoom (YC W13) is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
@@ -30,6 +29,7 @@
 * [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
 * [2023-05-01, 12:31:13](https://news.ycombinator.com/item?id=35771890) - [Heathkit](https://shop.heathkit.com/shop)
 * [2023-05-01, 10:50:48](https://news.ycombinator.com/item?id=35771104) - [Geoffrey Hinton leaves Google and warns of danger ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
+* [2023-04-29, 07:51:36](https://news.ycombinator.com/item?id=35750970) - [The kremvax hoax (1984)](https://godfatherof.nl/kremvax.html)
 
 ## [Archives](archives/index.md)
 
