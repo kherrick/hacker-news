@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-02, 09:12:20](https://news.ycombinator.com/item?id=35785040) - [Dr. Mengele, USA Style: Lessons from Human Rights Abuses in America [pdf]](https://cosmosandtaxis.files.wordpress.com/2022/09/coyne_hall_ct_vol10_iss9_10.pdf)
+* [2023-05-02, 08:34:34](https://news.ycombinator.com/item?id=35784814) - [IBM to pause hiring in plan to replace 7,800 jobs with AI News](https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html)
 * [2023-05-02, 07:40:03](https://news.ycombinator.com/item?id=35784514) - [Ask HN: Project ideas for a Linux kernel module](https://news.ycombinator.com/item?id=35784514)
 * [2023-05-02, 06:44:21](https://news.ycombinator.com/item?id=35784167) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html)
 * [2023-05-02, 06:41:54](https://news.ycombinator.com/item?id=35784157) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
@@ -18,7 +20,6 @@
 * [2023-05-01, 23:44:17](https://news.ycombinator.com/item?id=35780941) - [The Mayan calendar might represent a longer timescale than previously considered](https://phys.org/news/2023-04-anthropologist-pair-mystery-mayan-day.html)
 * [2023-05-01, 23:42:58](https://news.ycombinator.com/item?id=35780921) - [GradIEEEnt half decent](http://tom7.org/grad/)
 * [2023-05-01, 23:33:57](https://news.ycombinator.com/item?id=35780812) - [Analog computing and hybrid computing: The view from 1962](https://statmodeling.stat.columbia.edu/2023/05/01/analog-computing-and-hybrid-computing-the-view-from-1962/)
-* [2023-05-01, 22:47:25](https://news.ycombinator.com/item?id=35780329) - [Bio-inspired: developing technology to mimic the function of skin](https://newsroom.unsw.edu.au/news/science-tech/bio-inspired-developing-technology-mimic-function-skin)
 * [2023-05-01, 22:07:12](https://news.ycombinator.com/item?id=35779873) - [Shoot the arrow, then paint the target around it](https://ozanvarol.com/the-key-to-becoming-extraordinary/)
 * [2023-05-01, 22:01:29](https://news.ycombinator.com/item?id=35779805) - [Laser scanning microscope from DVD pickup heads (2020)](https://www.gaudi.ch/GaudiLabs/?page_id=652)
 * [2023-05-01, 21:21:29](https://news.ycombinator.com/item?id=35779341) - [Two Approaches to Decoupling](https://htmx.org/essays/two-approaches-to-decoupling/)
@@ -29,7 +30,6 @@
 * [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
 * [2023-05-01, 12:31:13](https://news.ycombinator.com/item?id=35771890) - [Heathkit](https://shop.heathkit.com/shop)
 * [2023-05-01, 10:50:48](https://news.ycombinator.com/item?id=35771104) - [Geoffrey Hinton leaves Google and warns of danger ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
-* [2023-04-29, 07:51:36](https://news.ycombinator.com/item?id=35750970) - [The kremvax hoax (1984)](https://godfatherof.nl/kremvax.html)
 
 ## [Archives](archives/index.md)
 
