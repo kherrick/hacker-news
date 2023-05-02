@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-02, 20:50:34](https://news.ycombinator.com/item?id=35794010) - [LLM Hallucinations: why they occur and how to avoid them](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
 * [2023-05-02, 20:25:59](https://news.ycombinator.com/item?id=35793660) - [Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
 * [2023-05-02, 19:38:06](https://news.ycombinator.com/item?id=35793001) - [African Workers for ChatGPT, TikTok and Facebook Vote to Unionize](https://time.com/6275995/chatgpt-facebook-african-workers-union/)
-* [2023-05-02, 19:34:44](https://news.ycombinator.com/item?id=35792949) - [Make your Python functions return something meaningful, typed, and safe](https://returns.readthedocs.io/en/latest/index.html)
 * [2023-05-02, 18:58:43](https://news.ycombinator.com/item?id=35792481) - [Ask HN: What do you use for ML Hosting?](https://news.ycombinator.com/item?id=35792481)
 * [2023-05-02, 18:19:05](https://news.ycombinator.com/item?id=35791947) - [NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)
 * [2023-05-02, 17:54:27](https://news.ycombinator.com/item?id=35791575) - [Eye Candy](https://eycndy.com)
