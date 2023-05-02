@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-02, 10:49:04](https://news.ycombinator.com/item?id=35785650) - [Brain activity of dying people shows signs of near-death experiences](https://www.newscientist.com/article/2371316-brain-activity-of-dying-people-shows-signs-of-near-death-experiences/)
+* [2023-05-02, 10:40:46](https://news.ycombinator.com/item?id=35785598) - [Lessons from Isaac Asimov on Taming AI](https://www.bloomberg.com/opinion/articles/2023-05-02/what-is-a-safe-ai-chatbot-anthropic-tries-to-have-its-ai-model-tame-itself)
 * [2023-05-02, 09:12:20](https://news.ycombinator.com/item?id=35785040) - [Dr. Mengele, USA Style: Lessons from Human Rights Abuses in America [pdf] (2022)](https://cosmosandtaxis.files.wordpress.com/2022/09/coyne_hall_ct_vol10_iss9_10.pdf)
-* [2023-05-02, 08:34:34](https://news.ycombinator.com/item?id=35784814) - [IBM to pause hiring in plan to replace 7,800 jobs with AI News](https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html)
+* [2023-05-02, 08:46:33](https://news.ycombinator.com/item?id=35784889) - [Google Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse)
 * [2023-05-02, 07:40:03](https://news.ycombinator.com/item?id=35784514) - [Ask HN: Project ideas for a Linux kernel module](https://news.ycombinator.com/item?id=35784514)
 * [2023-05-02, 06:44:21](https://news.ycombinator.com/item?id=35784167) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html)
 * [2023-05-02, 06:41:54](https://news.ycombinator.com/item?id=35784157) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
@@ -28,7 +29,6 @@
 * [2023-05-01, 21:01:01](https://news.ycombinator.com/item?id=35779079) - [BuildZoom (YC W13) is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-01, 20:17:20](https://news.ycombinator.com/item?id=35778557) - [Change my mind: Density increases local but decreases global prices](https://astralcodexten.substack.com/p/change-my-mind-density-increases)
 * [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
-* [2023-05-01, 12:31:13](https://news.ycombinator.com/item?id=35771890) - [Heathkit](https://shop.heathkit.com/shop)
 * [2023-05-01, 10:50:48](https://news.ycombinator.com/item?id=35771104) - [Geoffrey Hinton leaves Google and warns of danger ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
 
 ## [Archives](archives/index.md)
