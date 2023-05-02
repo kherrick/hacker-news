@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 18:10:56](https://news.ycombinator.com/item?id=35791825) - [Bitcoin Climbs as US Bank Failure Bolsters Crypto Narrative](https://www.bloomberg.com/news/articles/2023-05-02/bitcoin-climbs-as-us-bank-failure-bolsters-crypto-narrative)
 * [2023-05-02, 17:32:35](https://news.ycombinator.com/item?id=35791205) - [Building a Compiler with MLIR (Multi-Level Intermediate Representation) [pdf]](https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf)
 * [2023-05-02, 17:05:31](https://news.ycombinator.com/item?id=35790758) - [Borges and $: The Parable of the Literary Master and the Coin (2016)](https://longreads.com/2016/06/14/borges-and-money/)
 * [2023-05-02, 17:00:45](https://news.ycombinator.com/item?id=35790672) - [Sematic (YC S22) is hiring their first Enterprise Sales Representative](https://www.ycombinator.com/companies/sematic/jobs/PG1oHuE-enterprise-sales-representative)
+* [2023-05-02, 16:58:59](https://news.ycombinator.com/item?id=35790647) - [How to Reduce Stress and Overcome Anxiety as a Software Developer](https://andreizgirvaci.com/blog/how-to-reduce-stress-and-overcome-anxiety-as-a-software-developer)
 * [2023-05-02, 16:45:40](https://news.ycombinator.com/item?id=35790367) - [Mojo – a new programming language for AI developers](https://www.modular.com/mojo)
 * [2023-05-02, 16:38:08](https://news.ycombinator.com/item?id=35790244) - [Half of America’s banks are already insolvent](https://finance.yahoo.com/news/half-america-banks-already-insolvent-133000968.html)
+* [2023-05-02, 16:31:56](https://news.ycombinator.com/item?id=35790132) - [Org-assistant.el – Org Babel extension for Chat Assistant APIs](https://github.com/tyler-dodge/org-assistant)
+* [2023-05-02, 16:29:36](https://news.ycombinator.com/item?id=35790092) - [Jsonformer: A bulletproof way to generate structured output from LLMs](https://github.com/1rgs/jsonformer)
 * [2023-05-02, 16:21:58](https://news.ycombinator.com/item?id=35789963) - [Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
 * [2023-05-02, 16:06:16](https://news.ycombinator.com/item?id=35789730) - [An Update on the Lock Icon](https://blog.chromium.org/2023/05/an-update-on-lock-icon.html)
 * [2023-05-02, 15:14:17](https://news.ycombinator.com/item?id=35788792) - [Qwik Reaches v1.0](https://www.builder.io/blog/qwik-v1)
