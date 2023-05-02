@@ -9,7 +9,6 @@
 * [2023-05-02, 18:19:05](https://news.ycombinator.com/item?id=35791947) - [NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)
 * [2023-05-02, 17:54:27](https://news.ycombinator.com/item?id=35791575) - [Eye Candy](https://eycndy.com)
 * [2023-05-02, 17:32:35](https://news.ycombinator.com/item?id=35791205) - [Building a Compiler with Multi-Level Intermediate Representation (MLIR) (2020) [pdf]](https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf)
-* [2023-05-02, 17:05:31](https://news.ycombinator.com/item?id=35790758) - [Borges and $: The Parable of the Literary Master and the Coin (2016)](https://longreads.com/2016/06/14/borges-and-money/)
 * [2023-05-02, 17:00:45](https://news.ycombinator.com/item?id=35790672) - [Sematic (YC S22) is hiring their first enterprise sales representative](https://www.ycombinator.com/companies/sematic/jobs/PG1oHuE-enterprise-sales-representative)
 * [2023-05-02, 16:45:40](https://news.ycombinator.com/item?id=35790367) - [Mojo – a new programming language for AI developers](https://www.modular.com/mojo)
 * [2023-05-02, 16:31:56](https://news.ycombinator.com/item?id=35790132) - [Org-assistant.el – Org Babel extension for Chat Assistant APIs](https://github.com/tyler-dodge/org-assistant)
@@ -30,6 +29,7 @@
 * [2023-05-01, 16:58:23](https://news.ycombinator.com/item?id=35775646) - [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet)
 * [2023-05-01, 12:03:30](https://news.ycombinator.com/item?id=35771630) - [Unlocking North Korean songs on a karaoke machine](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
 * [2023-04-30, 14:34:33](https://news.ycombinator.com/item?id=35762924) - [Gears (2020)](https://ciechanow.ski/gears/)
+* [2023-04-30, 13:59:36](https://news.ycombinator.com/item?id=35762589) - [Spinning the Decks and Startup Success: A Lesson from My DJ Days](https://cameronwestland.com/spinning-the-decks-and-startup-success-a-lesson-from-my-dj-days)
 
 ## [Archives](archives/index.md)
 
