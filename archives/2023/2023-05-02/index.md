@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 03:08:41](https://news.ycombinator.com/item?id=35782825) - [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
 * [2023-05-02, 02:58:18](https://news.ycombinator.com/item?id=35782759) - [A look back at the Argus C44 rangefinder camera](https://notes.ericjiang.com/posts/1265)
 * [2023-05-02, 02:39:35](https://news.ycombinator.com/item?id=35782630) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [2023-05-02, 02:15:02](https://news.ycombinator.com/item?id=35782439) - [More Americans are using fake license plates](https://slate.com/business/2023/04/fake-license-plates-traffic-cameras-policing-yglesias.html)
