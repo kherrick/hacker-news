@@ -4,7 +4,6 @@
 * [2023-05-02, 03:08:41](https://news.ycombinator.com/item?id=35782825) - [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
 * [2023-05-02, 02:58:18](https://news.ycombinator.com/item?id=35782759) - [A look back at the Argus C44 rangefinder camera](https://notes.ericjiang.com/posts/1265)
 * [2023-05-02, 02:39:35](https://news.ycombinator.com/item?id=35782630) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-* [2023-05-02, 02:15:02](https://news.ycombinator.com/item?id=35782439) - [More Americans are using fake license plates](https://slate.com/business/2023/04/fake-license-plates-traffic-cameras-policing-yglesias.html)
 * [2023-05-02, 02:07:03](https://news.ycombinator.com/item?id=35782363) - [Brain activity decoder can reveal stories in people’s minds](https://news.utexas.edu/2023/05/01/brain-activity-decoder-can-reveal-stories-in-peoples-minds/)
 * [2023-05-02, 01:26:17](https://news.ycombinator.com/item?id=35781959) - [Show HN: I&#x27;ve built a spectrogram analyzer web app](https://webfft.net/dft/)
 * [2023-05-02, 01:03:29](https://news.ycombinator.com/item?id=35781728) - [Grasshopper – An open-source Python library for load testing](https://innovation.alteryx.com/introducing-grasshopper-an-open-source-python-library-for-load-testing/)
@@ -29,6 +28,7 @@
 * [2023-05-01, 12:31:13](https://news.ycombinator.com/item?id=35771890) - [Heathkit](https://shop.heathkit.com/shop)
 * [2023-05-01, 10:50:48](https://news.ycombinator.com/item?id=35771104) - [Geoffrey Hinton leaves Google and warns of danger ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
 * [2023-05-01, 07:53:10](https://news.ycombinator.com/item?id=35770128) - [Why woodpeckers can hammer without getting headaches (2022)](https://www.birdwatchingdaily.com/news/science/woodpeckers-hammer-without-headaches/)
+* [2023-04-30, 12:57:16](https://news.ycombinator.com/item?id=35762112) - [Second ‘impossible’ ring found around distant dwarf planet](https://www.nytimes.com/2023/04/27/science/quaoar-rings-kuiper-belt.html)
 * [2023-04-29, 07:51:36](https://news.ycombinator.com/item?id=35750970) - [The kremvax hoax (1984)](https://godfatherof.nl/kremvax.html)
 
 ## [Archives](archives/index.md)
