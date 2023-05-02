@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 06:28:21](https://news.ycombinator.com/item?id=35784067) - [White-collar crime costs society 20x as much as street crime](https://www.embroker.com/blog/white-collar-crime-statistics/#white-collar_crime_costs)
 * [2023-05-02, 05:17:51](https://news.ycombinator.com/item?id=35783650) - [ChatGPT: It has no inner monologue or meta-cognition](https://lukeplant.me.uk/blog/posts/chatgpt-no-inner-monologue-or-meta-cognition/)
 * [2023-05-02, 03:54:30](https://news.ycombinator.com/item?id=35783189) - [Guidelines for Brutalist Web Design](https://brutalist-web.design/)
 * [2023-05-02, 03:50:11](https://news.ycombinator.com/item?id=35783158) - [GPT makes learning fun again](https://www.vipshek.com/blog/gpt-learning)
