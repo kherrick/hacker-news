@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-02, 19:59:51](https://news.ycombinator.com/item?id=35793297) - [macOS Activation Lock: Friend or Foe](https://www.zipsec.com/blog/activation-lock-friend-or-foe)
 * [2023-05-02, 19:52:19](https://news.ycombinator.com/item?id=35793187) - [Ask HN: Paychecks from a Failed Startup](https://news.ycombinator.com/item?id=35793187)
 * [2023-05-02, 19:38:33](https://news.ycombinator.com/item?id=35793009) - [Did the EU ban JSdelivr and other free CDNs?](https://fariszr.com/en/eu-gdpr-jsdelivr-free-cdn-ban/)
+* [2023-05-02, 19:31:44](https://news.ycombinator.com/item?id=35792898) - [Ask HN: What tech is under the radar with all attention on ChatGPT etc.](https://news.ycombinator.com/item?id=35792898)
 * [2023-05-02, 19:11:09](https://news.ycombinator.com/item?id=35792635) - [AI chatbots used to create dozens of &#x27;news&#x27; content farms](https://www.bloomberg.com/news/articles/2023-05-01/ai-chatbots-have-been-used-to-create-dozens-of-news-content-farms/)
 * [2023-05-02, 19:04:11](https://news.ycombinator.com/item?id=35792553) - [‘Star Trek’ Fans Can Now Virtually Tour Every Starship Enterprise Bridge](https://www.smithsonianmag.com/smart-news/star-trek-fans-can-now-virtually-tour-every-starship-enterprise-bridge-180982090/)
 * [2023-05-02, 18:59:29](https://news.ycombinator.com/item?id=35792490) - [uBlock Origin 1.49.2 Available as Thunderbird Add-On](https://github.com/gorhill/uBlock/releases/tag/1.49.2)
@@ -26,10 +28,8 @@
 * [2023-05-02, 09:48:04](https://news.ycombinator.com/item?id=35785255) - [America will soon see a wave of bank mergers?](https://www.economist.com/leaders/2023/04/20/why-america-will-soon-see-a-wave-of-bank-mergers)
 * [2023-05-02, 09:45:21](https://news.ycombinator.com/item?id=35785231) - [Some employers have decided to build their own housing for workers](https://www.npr.org/2023/05/02/1172301798/workers-affordable-housing-companies-building)
 * [2023-05-02, 08:34:34](https://news.ycombinator.com/item?id=35784814) - [IBM to pause hiring in plan to replace 7,800 jobs with AI](https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html)
-* [2023-05-01, 23:42:58](https://news.ycombinator.com/item?id=35780921) - [GradIEEEnt half decent](http://tom7.org/grad/)
 * [2023-05-01, 20:57:02](https://news.ycombinator.com/item?id=35779034) - [Manuela Beltrán Is a Colombian Hero. What If She Never Existed?](https://www.atlasobscura.com/articles/manuela-beltran-colombia-hero)
 * [2023-05-01, 06:13:56](https://news.ycombinator.com/item?id=35769572) - [Aftermath of the Kernel Wars](https://deprogrammaticaipsum.com/aftermath-of-the-kernel-wars/)
-* [2023-04-30, 14:08:50](https://news.ycombinator.com/item?id=35762682) - [Use singular nouns for database table names](https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html)
 
 ## [Archives](archives/index.md)
 
