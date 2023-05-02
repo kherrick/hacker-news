@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-02, 03:50:11](https://news.ycombinator.com/item?id=35783158) - [GPT makes learning fun again](https://www.vipshek.com/blog/gpt-learning)
 * [2023-05-02, 03:08:41](https://news.ycombinator.com/item?id=35782825) - [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
 * [2023-05-02, 03:06:11](https://news.ycombinator.com/item?id=35782811) - [“A Great Ox Stands on My Tongue”: The Pitfalls of Latin Translation](https://antigonejournal.com/2021/06/pitfalls-latin-translation/)
 * [2023-05-02, 02:58:18](https://news.ycombinator.com/item?id=35782759) - [A look back at the Argus C44 rangefinder camera](https://notes.ericjiang.com/posts/1265)
@@ -17,6 +16,7 @@
 * [2023-05-01, 22:07:12](https://news.ycombinator.com/item?id=35779873) - [Shoot the arrow, then paint the target around it](https://ozanvarol.com/the-key-to-becoming-extraordinary/)
 * [2023-05-01, 22:01:29](https://news.ycombinator.com/item?id=35779805) - [Laser scanning microscope from DVD pickup heads (2020)](https://www.gaudi.ch/GaudiLabs/?page_id=652)
 * [2023-05-01, 21:21:29](https://news.ycombinator.com/item?id=35779341) - [Two Approaches to Decoupling](https://htmx.org/essays/two-approaches-to-decoupling/)
+* [2023-05-01, 21:12:46](https://news.ycombinator.com/item?id=35779244) - [City Council to install 20 cameras as automated license-plate recognition system](https://www.paloaltoonline.com/news/2023/04/03/palo-alto-leans-on-license-plate-readers-to-dent-property-crime)
 * [2023-05-01, 21:01:01](https://news.ycombinator.com/item?id=35779079) - [BuildZoom (YC W13) is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-01, 20:17:20](https://news.ycombinator.com/item?id=35778557) - [Change my mind: Density increases local but decreases global prices](https://astralcodexten.substack.com/p/change-my-mind-density-increases)
 * [2023-05-01, 19:23:43](https://news.ycombinator.com/item?id=35777804) - [Mercury OS](https://www.mercuryos.com)
