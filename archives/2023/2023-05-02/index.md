@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 02:39:35](https://news.ycombinator.com/item?id=35782630) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+* [2023-05-02, 02:07:03](https://news.ycombinator.com/item?id=35782363) - [Brain Activity Decoder Can Reveal Stories in People’s Minds](https://news.utexas.edu/2023/05/01/brain-activity-decoder-can-reveal-stories-in-peoples-minds/)
 * [2023-05-02, 01:26:17](https://news.ycombinator.com/item?id=35781959) - [Show HN: I&#x27;ve built a spectrogram analyzer web app](https://webfft.net/dft/)
 * [2023-05-02, 01:04:58](https://news.ycombinator.com/item?id=35781743) - [Wind farm in Germany is being dismantled to expand coal mine](https://balkangreenenergynews.com/wind-farm-in-germany-is-being-dismantled-to-expand-coal-mine/)
 * [2023-05-02, 01:03:29](https://news.ycombinator.com/item?id=35781728) - [Grasshopper – An Open Source Python Library for Load Testing](https://innovation.alteryx.com/introducing-grasshopper-an-open-source-python-library-for-load-testing/)
