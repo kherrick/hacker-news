@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
 * [2023-05-01, 23:53:11](https://news.ycombinator.com/item?id=35781051) - [Chemists tackle the tough challenge of recycling mixed plastics](https://phys.org/news/2023-04-chemists-tackle-tough-recycling-plastics.html)
+* [2023-05-01, 23:49:34](https://news.ycombinator.com/item?id=35781009) - [What, if anything, is epsilon? (2014) [pdf]](http://tom7.org/papers/epsilon.pdf)
 * [2023-05-01, 23:44:17](https://news.ycombinator.com/item?id=35780941) - [Anthropologist pair solve the mystery of Mayan 819-day count](https://phys.org/news/2023-04-anthropologist-pair-mystery-mayan-day.html)
 * [2023-05-01, 23:42:58](https://news.ycombinator.com/item?id=35780921) - [GradIEEEnt half decent](http://tom7.org/grad/)
 * [2023-05-01, 23:40:26](https://news.ycombinator.com/item?id=35780884) - [The Computer Scientist Peering Inside AI’s Black Boxes](https://www.quantamagazine.org/cynthia-rudin-builds-ai-that-humans-can-understand-20230427/)
