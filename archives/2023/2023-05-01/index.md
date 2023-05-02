@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 23:53:11](https://news.ycombinator.com/item?id=35781051) - [Chemists tackle the tough challenge of recycling mixed plastics](https://phys.org/news/2023-04-chemists-tackle-tough-recycling-plastics.html)
 * [2023-05-01, 23:44:17](https://news.ycombinator.com/item?id=35780941) - [Anthropologist pair solve the mystery of Mayan 819-day count](https://phys.org/news/2023-04-anthropologist-pair-mystery-mayan-day.html)
+* [2023-05-01, 23:40:26](https://news.ycombinator.com/item?id=35780884) - [The Computer Scientist Peering Inside AI’s Black Boxes](https://www.quantamagazine.org/cynthia-rudin-builds-ai-that-humans-can-understand-20230427/)
 * [2023-05-01, 23:33:57](https://news.ycombinator.com/item?id=35780812) - [Analog computing and hybrid computing: The view from 1962](https://statmodeling.stat.columbia.edu/2023/05/01/analog-computing-and-hybrid-computing-the-view-from-1962/)
 * [2023-05-01, 23:04:11](https://news.ycombinator.com/item?id=35780517) - [Vice Is Said to Be Headed for Bankruptcy](https://www.nytimes.com/2023/05/01/business/media/vice-bankruptcy.html)
+* [2023-05-01, 22:47:25](https://news.ycombinator.com/item?id=35780329) - [Bio-inspired: developing technology to mimic the function of skin](https://newsroom.unsw.edu.au/news/science-tech/bio-inspired-developing-technology-mimic-function-skin)
 * [2023-05-01, 22:43:09](https://news.ycombinator.com/item?id=35780291) - [San Francisco Whole Foods made 560 emergency calls before closing](https://www.foxbusiness.com/retail/san-francisco-whole-foods-hit-560-calls-violence-drugs-vagrants-before-closing-report)
 * [2023-05-01, 22:02:39](https://news.ycombinator.com/item?id=35779816) - [The “Location Off” switch on your phone is a lie](https://gabrielsieben.tech/2023/05/01/the-location-off-switch-on-your-phone-is-a-lie/)
 * [2023-05-01, 22:01:29](https://news.ycombinator.com/item?id=35779805) - [Laser scanning microscope from DVD pickup heads](https://www.gaudi.ch/GaudiLabs/?page_id=652)
