@@ -50,6 +50,7 @@
 * [2023-04-30, 14:59:42](https://news.ycombinator.com/item?id=35763141) - [Tesla ran over worker rights, again, US labor judge finds](https://www.theregister.com/2023/04/28/us_labor_board_tesla/)
 * [2023-04-30, 14:55:55](https://news.ycombinator.com/item?id=35763100) - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
 * [2023-04-30, 14:37:41](https://news.ycombinator.com/item?id=35762946) - [Tesla rival BYD’s profit soars more than 400% in first quarter](https://www.ft.com/content/1a4bf23d-21cf-48cf-85ad-8bda47389f53)
+* [2023-04-30, 14:34:33](https://news.ycombinator.com/item?id=35762924) - [Gears (2020)](https://ciechanow.ski/gears/)
 * [2023-04-30, 14:28:32](https://news.ycombinator.com/item?id=35762872) - [British public support for monarchy at historic low, poll reveals](https://www.theguardian.com/uk-news/2023/apr/28/public-support-monarchy-historic-low-poll-reveals)
 * [2023-04-30, 14:22:50](https://news.ycombinator.com/item?id=35762826) - [Runa Sandvik: “Example of why you should not use FaceID to unlock your phone.”](https://mastodon.social/@runasand/110286780839680620)
 * [2023-04-30, 14:17:46](https://news.ycombinator.com/item?id=35762780) - [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
