@@ -80,6 +80,7 @@
 * [2023-05-01, 12:41:16](https://news.ycombinator.com/item?id=35771994) - [Krita is a professional FREE and open source painting program](https://krita.org/en/)
 * [2023-05-01, 12:33:43](https://news.ycombinator.com/item?id=35771919) - [Mermaidsjs Wrapper for Google Docs](https://github.com/renanlecaro/mermaid-gdocs)
 * [2023-05-01, 12:31:13](https://news.ycombinator.com/item?id=35771890) - [Heathkit](https://shop.heathkit.com/shop)
+* [2023-05-01, 12:03:30](https://news.ycombinator.com/item?id=35771630) - [Unlocking North Korean songs on a karaoke machine](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
 * [2023-05-01, 12:00:37](https://news.ycombinator.com/item?id=35771604) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/ff030eb9f23c01-ml-engineer-intern)
 * [2023-05-01, 11:54:21](https://news.ycombinator.com/item?id=35771542) - [Composable Moderation](https://blueskyweb.xyz/blog/4-13-2023-moderation)
 * [2023-05-01, 11:53:59](https://news.ycombinator.com/item?id=35771538) - [I got a job as a Waffle House server that pays $2.92 an hour](https://www.businessinsider.com/what-its-like-to-work-at-waffle-house-2023-4)
