@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-02, 14:11:18](https://news.ycombinator.com/item?id=35787676) - [Anonymous Tor Phone](https://0ut3r.space/2023/05/02/anonymous-tor-phone/)
+* [2023-05-02, 13:56:53](https://news.ycombinator.com/item?id=35787454) - [Samsung bans use of A.I. like ChatGPT for employees after misuse of the chatbot](https://www.cnbc.com/2023/05/02/samsung-bans-use-of-ai-like-chatgpt-for-staff-after-misuse-of-chatbot.html)
 * [2023-05-02, 13:43:50](https://news.ycombinator.com/item?id=35787287) - [Is infinity an odd or even number? (2011)](https://math.stackexchange.com/questions/49034/is-infinity-an-odd-or-even-number)
 * [2023-05-02, 13:35:25](https://news.ycombinator.com/item?id=35787195) - [AMD&#x27;s Firmware TPMs Vulnerable to Hardware Attacks, Defeating Disk Encryption](https://arxiv.org/abs/2304.14717)
 * [2023-05-02, 13:28:03](https://news.ycombinator.com/item?id=35787114) - [Red Canary Mac Monitor](https://redcanary.com/blog/mac-monitor/)
@@ -23,13 +25,11 @@
 * [2023-05-02, 03:05:49](https://news.ycombinator.com/item?id=35782808) - [John Backus (1924 – 2007) [pdf]](https://dirkgerrits.com/publications/john-backus.pdf)
 * [2023-05-02, 02:39:35](https://news.ycombinator.com/item?id=35782630) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [2023-05-02, 01:26:17](https://news.ycombinator.com/item?id=35781959) - [Show HN: I&#x27;ve built a spectrogram analyzer web app](https://webfft.net/dft/)
-* [2023-05-02, 00:04:48](https://news.ycombinator.com/item?id=35781180) - [Researchers have determined how an airborne molecule links to a smell receptor](https://www.quantamagazine.org/how-a-human-smell-receptor-works-is-finally-revealed-20230501/)
 * [2023-05-01, 23:49:34](https://news.ycombinator.com/item?id=35781009) - [What, if anything, is epsilon? (2014) [pdf]](http://tom7.org/papers/epsilon.pdf)
 * [2023-05-01, 23:44:17](https://news.ycombinator.com/item?id=35780941) - [The Mayan calendar might represent a longer timescale than previously considered](https://phys.org/news/2023-04-anthropologist-pair-mystery-mayan-day.html)
 * [2023-05-01, 23:42:58](https://news.ycombinator.com/item?id=35780921) - [GradIEEEnt half decent](http://tom7.org/grad/)
 * [2023-05-01, 22:07:12](https://news.ycombinator.com/item?id=35779873) - [Shoot the arrow, then paint the target around it](https://ozanvarol.com/the-key-to-becoming-extraordinary/)
 * [2023-05-01, 22:00:18](https://news.ycombinator.com/item?id=35779796) - [Ten classic fountain pens for the personal touch](https://www.wallpaper.com/design-interiors/classic-fountain-pens)
-* [2023-05-01, 21:09:08](https://news.ycombinator.com/item?id=35779197) - [Platbox: UEFI and SMM Platform Security Assessment Tool for AMD and Intel](https://github.com/IOActive/Platbox)
 
 ## [Archives](archives/index.md)
 

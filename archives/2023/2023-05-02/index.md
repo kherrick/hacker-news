@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 14:11:18](https://news.ycombinator.com/item?id=35787676) - [Anonymous Tor Phone](https://0ut3r.space/2023/05/02/anonymous-tor-phone/)
+* [2023-05-02, 13:56:53](https://news.ycombinator.com/item?id=35787454) - [Samsung bans use of A.I. like ChatGPT for employees after misuse of the chatbot](https://www.cnbc.com/2023/05/02/samsung-bans-use-of-ai-like-chatgpt-for-staff-after-misuse-of-chatbot.html)
 * [2023-05-02, 13:43:50](https://news.ycombinator.com/item?id=35787287) - [Is infinity an odd or even number? (2011)](https://math.stackexchange.com/questions/49034/is-infinity-an-odd-or-even-number)
 * [2023-05-02, 13:35:25](https://news.ycombinator.com/item?id=35787195) - [AMD&#x27;s Firmware TPMs Vulnerable to Hardware Attacks, Defeating Disk Encryption](https://arxiv.org/abs/2304.14717)
 * [2023-05-02, 13:28:03](https://news.ycombinator.com/item?id=35787114) - [Red Canary Mac Monitor](https://redcanary.com/blog/mac-monitor/)
