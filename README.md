@@ -4,7 +4,6 @@
 * [2023-05-02, 06:44:21](https://news.ycombinator.com/item?id=35784167) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html)
 * [2023-05-02, 06:41:54](https://news.ycombinator.com/item?id=35784157) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
 * [2023-05-02, 06:18:08](https://news.ycombinator.com/item?id=35784001) - [Banana Equivalent Dose](https://en.wikipedia.org/wiki/Banana_equivalent_dose)
-* [2023-05-02, 05:17:51](https://news.ycombinator.com/item?id=35783650) - [ChatGPT has no inner monologue or meta-cognition](https://lukeplant.me.uk/blog/posts/chatgpt-no-inner-monologue-or-meta-cognition/)
 * [2023-05-02, 03:54:30](https://news.ycombinator.com/item?id=35783189) - [Guidelines for Brutalist Web Design (2018)](https://brutalist-web.design/)
 * [2023-05-02, 03:50:11](https://news.ycombinator.com/item?id=35783158) - [GPT makes learning fun again](https://www.vipshek.com/blog/gpt-learning)
 * [2023-05-02, 03:19:19](https://news.ycombinator.com/item?id=35782902) - [Writing an RPC from Scratch (2021)](https://alexanderell.is/posts/rpc-from-scratch/)
@@ -29,6 +28,7 @@
 * [2023-05-01, 18:18:47](https://news.ycombinator.com/item?id=35776907) - [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
 * [2023-05-01, 17:47:23](https://news.ycombinator.com/item?id=35776480) - [You and Your Research (1986)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [2023-05-01, 17:02:03](https://news.ycombinator.com/item?id=35775704) - [A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
+* [2023-05-01, 12:31:13](https://news.ycombinator.com/item?id=35771890) - [Heathkit](https://shop.heathkit.com/shop)
 * [2023-05-01, 10:50:48](https://news.ycombinator.com/item?id=35771104) - [Geoffrey Hinton leaves Google and warns of danger ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
 
 ## [Archives](archives/index.md)
