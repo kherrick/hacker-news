@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 17:32:35](https://news.ycombinator.com/item?id=35791205) - [Building a Compiler with MLIR (Multi-Level Intermediate Representation) [pdf]](https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf)
 * [2023-05-02, 17:00:45](https://news.ycombinator.com/item?id=35790672) - [Sematic (YC S22) is hiring their first Enterprise Sales Representative](https://www.ycombinator.com/companies/sematic/jobs/PG1oHuE-enterprise-sales-representative)
 * [2023-05-02, 16:45:40](https://news.ycombinator.com/item?id=35790367) - [Mojo – a new programming language for AI developers](https://www.modular.com/mojo)
 * [2023-05-02, 16:38:08](https://news.ycombinator.com/item?id=35790244) - [Half of America’s banks are already insolvent](https://finance.yahoo.com/news/half-america-banks-already-insolvent-133000968.html)
