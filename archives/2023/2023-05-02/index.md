@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 10:49:04](https://news.ycombinator.com/item?id=35785650) - [Brain activity of dying people shows signs of near-death experiences](https://www.newscientist.com/article/2371316-brain-activity-of-dying-people-shows-signs-of-near-death-experiences/)
 * [2023-05-02, 09:48:04](https://news.ycombinator.com/item?id=35785255) - [Why America will soon see a wave of bank mergers](https://www.economist.com/leaders/2023/04/20/why-america-will-soon-see-a-wave-of-bank-mergers)
 * [2023-05-02, 09:45:21](https://news.ycombinator.com/item?id=35785231) - [Would you live next to co-workers for the right price? This company bets yes](https://www.npr.org/2023/05/02/1172301798/workers-affordable-housing-companies-building)
 * [2023-05-02, 09:12:20](https://news.ycombinator.com/item?id=35785040) - [Dr. Mengele, USA Style: Lessons from Human Rights Abuses in America [pdf]](https://cosmosandtaxis.files.wordpress.com/2022/09/coyne_hall_ct_vol10_iss9_10.pdf)
