@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-02, 07:40:03](https://news.ycombinator.com/item?id=35784514) - [Ask HN: Project ideas for a Linux kernel module](https://news.ycombinator.com/item?id=35784514)
-* [2023-05-02, 06:48:37](https://news.ycombinator.com/item?id=35784192) - [Is Go an object-oriented programming language?](https://www.sobyte.net/post/2023-03/go-object-oriented/)
 * [2023-05-02, 06:44:21](https://news.ycombinator.com/item?id=35784167) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html)
 * [2023-05-02, 06:41:54](https://news.ycombinator.com/item?id=35784157) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
 * [2023-05-02, 06:18:08](https://news.ycombinator.com/item?id=35784001) - [Banana Equivalent Dose](https://en.wikipedia.org/wiki/Banana_equivalent_dose)
@@ -21,6 +20,7 @@
 * [2023-05-01, 23:40:26](https://news.ycombinator.com/item?id=35780884) - [Cynthia Rudin and interpretable ML models](https://www.quantamagazine.org/cynthia-rudin-builds-ai-that-humans-can-understand-20230427/)
 * [2023-05-01, 23:33:57](https://news.ycombinator.com/item?id=35780812) - [Analog computing and hybrid computing: The view from 1962](https://statmodeling.stat.columbia.edu/2023/05/01/analog-computing-and-hybrid-computing-the-view-from-1962/)
 * [2023-05-01, 22:47:25](https://news.ycombinator.com/item?id=35780329) - [Bio-inspired: developing technology to mimic the function of skin](https://newsroom.unsw.edu.au/news/science-tech/bio-inspired-developing-technology-mimic-function-skin)
+* [2023-05-01, 22:07:12](https://news.ycombinator.com/item?id=35779873) - [Shoot the arrow, then paint the target around it](https://ozanvarol.com/the-key-to-becoming-extraordinary/)
 * [2023-05-01, 22:01:29](https://news.ycombinator.com/item?id=35779805) - [Laser scanning microscope from DVD pickup heads (2020)](https://www.gaudi.ch/GaudiLabs/?page_id=652)
 * [2023-05-01, 21:21:29](https://news.ycombinator.com/item?id=35779341) - [Two Approaches to Decoupling](https://htmx.org/essays/two-approaches-to-decoupling/)
 * [2023-05-01, 21:01:01](https://news.ycombinator.com/item?id=35779079) - [BuildZoom (YC W13) is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
