@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-05-02, 11:13:19",
+      "https://news.ycombinator.com/item?id=35785829"
+    ],
+    [
+      "T-Mobile Breached, Again",
+      "https://arstechnica.com/information-technology/2023/05/t-mobile-discloses-2nd-data-breach-of-2023-this-one-leaking-account-pins-and-more/"
+    ]
+  ],
+  [
+    [
       "2023-05-02, 10:36:24",
       "https://news.ycombinator.com/item?id=35785573"
     ],
@@ -77,16 +87,6 @@
     [
       "Google Cloud Storage FUSE",
       "https://cloud.google.com/storage/docs/gcs-fuse"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 07:40:03",
-      "https://news.ycombinator.com/item?id=35784514"
-    ],
-    [
-      "Ask HN: Project ideas for a Linux kernel module",
-      "https://news.ycombinator.com/item?id=35784514"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2023-05-01, 22:01:29",
-      "https://news.ycombinator.com/item?id=35779805"
-    ],
-    [
-      "Laser scanning microscope from DVD pickup heads (2020)",
-      "https://www.gaudi.ch/GaudiLabs/?page_id=652"
-    ]
-  ],
-  [
-    [
       "2023-05-01, 21:09:08",
       "https://news.ycombinator.com/item?id=35779197"
     ],
     [
       "Platbox: UEFI and SMM Platform Security Assessment Tool for AMD and Intel",
       "https://github.com/IOActive/Platbox"
+    ]
+  ],
+  [
+    [
+      "2023-05-01, 21:01:01",
+      "https://news.ycombinator.com/item?id=35779079"
+    ],
+    [
+      "BuildZoom (YC W13) is hiring a Growth Associate",
+      "https://jobs.lever.co/buildzoom"
     ]
   ],
   [
