@@ -4,7 +4,6 @@
 * [2023-05-02, 16:45:40](https://news.ycombinator.com/item?id=35790367) - [Mojo – a new programming language for AI developers](https://www.modular.com/mojo)
 * [2023-05-02, 16:38:08](https://news.ycombinator.com/item?id=35790244) - [Half of America’s banks are already insolvent](https://finance.yahoo.com/news/half-america-banks-already-insolvent-133000968.html)
 * [2023-05-02, 16:21:58](https://news.ycombinator.com/item?id=35789963) - [Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
-* [2023-05-02, 15:14:17](https://news.ycombinator.com/item?id=35788792) - [Qwik Reaches v1.0](https://www.builder.io/blog/qwik-v1)
 * [2023-05-02, 14:12:28](https://news.ycombinator.com/item?id=35787707) - [Microsoft broke a Chrome feature to promote Edge](https://gizmodo.com/microsoft-windows-google-chrome-feature-broken-edge-1850392901)
 * [2023-05-02, 14:11:18](https://news.ycombinator.com/item?id=35787676) - [Anonymous Tor Phone](https://0ut3r.space/2023/05/02/anonymous-tor-phone/)
 * [2023-05-02, 14:02:22](https://news.ycombinator.com/item?id=35787527) - [IBM AS&#x2F;400: Databases all the way down [video] (2019)](https://www.youtube.com/watch?v=CDSgJE5mPJM)
@@ -30,6 +29,7 @@
 * [2023-05-02, 02:39:35](https://news.ycombinator.com/item?id=35782630) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [2023-05-01, 23:42:58](https://news.ycombinator.com/item?id=35780921) - [GradIEEEnt half decent](http://tom7.org/grad/)
 * [2023-05-01, 22:00:18](https://news.ycombinator.com/item?id=35779796) - [Classic fountain pens](https://www.wallpaper.com/design-interiors/classic-fountain-pens)
+* [2023-05-01, 20:57:02](https://news.ycombinator.com/item?id=35779034) - [Manuela Beltrán Is a Colombian Hero. What If She Never Existed?](https://www.atlasobscura.com/articles/manuela-beltran-colombia-hero)
 
 ## [Archives](archives/index.md)
 
