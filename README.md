@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-02, 22:22:26](https://news.ycombinator.com/item?id=35795016) - [Nate Silver: Some personal news](https://natesilver.substack.com/p/some-personal-news)
-* [2023-05-02, 21:56:08](https://news.ycombinator.com/item?id=35794774) - [Argus – monitor the versions of software and trigger alerts when a new release](https://release-argus.io/)
 * [2023-05-02, 21:54:31](https://news.ycombinator.com/item?id=35794758) - [Cardinal&#x2F;WASM: In-Browser Modular Synth Based on VCV Rack](https://cardinal.kx.studio)
 * [2023-05-02, 20:50:34](https://news.ycombinator.com/item?id=35794010) - [LLM Hallucinations: why they occur and how to avoid them](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
 * [2023-05-02, 20:25:59](https://news.ycombinator.com/item?id=35793660) - [Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
@@ -21,6 +20,7 @@
 * [2023-05-02, 13:43:50](https://news.ycombinator.com/item?id=35787287) - [Is infinity an odd or even number? (2011)](https://math.stackexchange.com/questions/49034/is-infinity-an-odd-or-even-number)
 * [2023-05-02, 13:35:25](https://news.ycombinator.com/item?id=35787195) - [faulTPM: Exposing AMD fTPMs&#x27; Deepest Secrets](https://arxiv.org/abs/2304.14717)
 * [2023-05-02, 13:25:23](https://news.ycombinator.com/item?id=35787080) - [Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://arstechnica.com/tech-policy/2023/05/judge-wont-force-reddit-to-identify-anonymous-users-who-discussed-piracy/)
+* [2023-05-02, 12:09:09](https://news.ycombinator.com/item?id=35786242) - [Show HN: Currl – A free text-based social bookmarking website](https://currl.io/)
 * [2023-05-02, 10:49:04](https://news.ycombinator.com/item?id=35785650) - [Brain activity of dying people shows signs of near-death experiences](https://www.newscientist.com/article/2371316-brain-activity-of-dying-people-shows-signs-of-near-death-experiences/)
 * [2023-05-02, 09:59:23](https://news.ycombinator.com/item?id=35785319) - [Update: The Swedish authorities answered our protocol request](https://mullvad.net/en/blog/2023/5/2/update-the-swedish-authorities-answered-our-protocol-request/)
 * [2023-05-02, 09:48:04](https://news.ycombinator.com/item?id=35785255) - [America will soon see a wave of bank mergers?](https://www.economist.com/leaders/2023/04/20/why-america-will-soon-see-a-wave-of-bank-mergers)
