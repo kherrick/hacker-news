@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-02, 16:45:40](https://news.ycombinator.com/item?id=35790367) - [Mojo – a new programming language for AI developers](https://www.modular.com/mojo)
 * [2023-05-02, 16:21:58](https://news.ycombinator.com/item?id=35789963) - [Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
 * [2023-05-02, 15:14:17](https://news.ycombinator.com/item?id=35788792) - [Qwik Reaches v1.0](https://www.builder.io/blog/qwik-v1)
 * [2023-05-02, 14:36:05](https://news.ycombinator.com/item?id=35788120) - [Adult-use cannabis delivers $15B in tax revenues](https://www.greenmarketreport.com/adult-use-cannabis-has-delivered-15-billion-in-tax-revenues/)
@@ -26,7 +27,6 @@
 * [2023-05-02, 03:08:41](https://news.ycombinator.com/item?id=35782825) - [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
 * [2023-05-02, 03:05:49](https://news.ycombinator.com/item?id=35782808) - [John Backus (1924 – 2007) [pdf]](https://dirkgerrits.com/publications/john-backus.pdf)
 * [2023-05-02, 02:39:35](https://news.ycombinator.com/item?id=35782630) - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-* [2023-05-02, 01:26:17](https://news.ycombinator.com/item?id=35781959) - [Show HN: I&#x27;ve built a spectrogram analyzer web app](https://webfft.net/dft/)
 * [2023-05-01, 23:49:34](https://news.ycombinator.com/item?id=35781009) - [What, if anything, is epsilon? (2014) [pdf]](http://tom7.org/papers/epsilon.pdf)
 * [2023-05-01, 23:42:58](https://news.ycombinator.com/item?id=35780921) - [GradIEEEnt half decent](http://tom7.org/grad/)
 * [2023-05-01, 22:00:18](https://news.ycombinator.com/item?id=35779796) - [Classic fountain pens](https://www.wallpaper.com/design-interiors/classic-fountain-pens)
