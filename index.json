@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-02, 17:32:35",
+      "https://news.ycombinator.com/item?id=35791205"
+    ],
+    [
+      "Building a Compiler with MLIR (Multi-Level Intermediate Representation) [pdf]",
+      "https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf"
+    ]
+  ],
+  [
+    [
       "2023-05-02, 17:00:45",
       "https://news.ycombinator.com/item?id=35790672"
     ],
@@ -37,6 +47,16 @@
     [
       "Fakespot Is Acquired by Mozilla",
       "https://www.fakespot.com/post/fakespot-acquired-by-mozilla"
+    ]
+  ],
+  [
+    [
+      "2023-05-02, 15:14:17",
+      "https://news.ycombinator.com/item?id=35788792"
+    ],
+    [
+      "Qwik Reaches v1.0",
+      "https://www.builder.io/blog/qwik-v1"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2023-05-02, 03:54:30",
-      "https://news.ycombinator.com/item?id=35783189"
-    ],
-    [
-      "Guidelines for Brutalist Web Design (2018)",
-      "https://brutalist-web.design/"
-    ]
-  ],
-  [
-    [
       "2023-05-02, 03:08:41",
       "https://news.ycombinator.com/item?id=35782825"
     ],
     [
       "SIMD with Zig",
       "https://www.openmymind.net/SIMD-With-Zig/"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 03:05:49",
-      "https://news.ycombinator.com/item?id=35782808"
-    ],
-    [
-      "John Backus (1924 – 2007) [pdf]",
-      "https://dirkgerrits.com/publications/john-backus.pdf"
     ]
   ],
   [
