@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 13:35:25](https://news.ycombinator.com/item?id=35787195) - [AMD&#x27;s Firmware TPMs Vulnerable to Hardware Attacks, Defeating Disk Encryption](https://arxiv.org/abs/2304.14717)
+* [2023-05-02, 13:25:23](https://news.ycombinator.com/item?id=35787080) - [Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://arstechnica.com/tech-policy/2023/05/judge-wont-force-reddit-to-identify-anonymous-users-who-discussed-piracy/)
+* [2023-05-02, 13:22:05](https://news.ycombinator.com/item?id=35787029) - [Intel Core Ultra Meteor Lake CPU Breaks Cover with 128 GPU Cores](https://hothardware.com/news/intel-core-ultra-meteor-lake-cpu-leak)
 * [2023-05-02, 13:20:18](https://news.ycombinator.com/item?id=35787000) - [Uncle Sam may do something about rampant visa H-1B fraud](https://www.theregister.com/2023/05/01/uscis_h_1b_surge/)
 * [2023-05-02, 12:17:57](https://news.ycombinator.com/item?id=35786297) - [OpenAI Threatens Popular GitHub Project with Lawsuit over API Use](https://www.tomshardware.com/news/openai-sends-shutdown-letter-to-gpt4free)
 * [2023-05-02, 12:10:42](https://news.ycombinator.com/item?id=35786251) - [22% jump in airfares expected as airlines tackle climate change](https://www.forbes.com/sites/alexledsom/2023/04/30/22-jump-in-airfares-expected-as-airlines-tackle-climate-change/)
