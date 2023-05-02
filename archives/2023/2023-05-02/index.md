@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 12:10:42](https://news.ycombinator.com/item?id=35786251) - [22% jump in airfares expected as airlines tackle climate change](https://www.forbes.com/sites/alexledsom/2023/04/30/22-jump-in-airfares-expected-as-airlines-tackle-climate-change/)
+* [2023-05-02, 11:56:03](https://news.ycombinator.com/item?id=35786162) - [Are mental health apps better or worse at privacy in 2023?](https://foundation.mozilla.org/en/privacynotincluded/articles/are-mental-health-apps-better-or-worse-at-privacy-in-2023/)
+* [2023-05-02, 11:45:55](https://news.ycombinator.com/item?id=35786086) - [Adult website Pornhub blocks users in Utah from accessing the site](https://kslnewsradio.com/2003298/adult-website-pornhub-blocks-users-in-utah-from-accessing-the-site/)
 * [2023-05-02, 10:49:04](https://news.ycombinator.com/item?id=35785650) - [Brain activity of dying people shows signs of near-death experiences](https://www.newscientist.com/article/2371316-brain-activity-of-dying-people-shows-signs-of-near-death-experiences/)
 * [2023-05-02, 10:40:46](https://news.ycombinator.com/item?id=35785598) - [Lessons from Isaac Asimov on Taming AI](https://www.bloomberg.com/opinion/articles/2023-05-02/what-is-a-safe-ai-chatbot-anthropic-tries-to-have-its-ai-model-tame-itself)
 * [2023-05-02, 09:48:04](https://news.ycombinator.com/item?id=35785255) - [Why America will soon see a wave of bank mergers](https://www.economist.com/leaders/2023/04/20/why-america-will-soon-see-a-wave-of-bank-mergers)
