@@ -13,7 +13,6 @@
 * [2023-05-03, 16:57:02](https://news.ycombinator.com/item?id=35804721) - [Steve Jobs and the actually usable computer (2011)](https://www.w3.org/blog/2011/10/steve-jobs/)
 * [2023-05-03, 16:44:19](https://news.ycombinator.com/item?id=35804556) - [SparseGPT: Language Models Can Be Accurately Pruned in One-Shot](https://arxiv.org/abs/2301.00774)
 * [2023-05-03, 16:18:51](https://news.ycombinator.com/item?id=35804220) - [Temporal .NET – Deterministic Workflow Authoring in .NET](https://temporal.io/blog/introducing-temporal-dotnet)
-* [2023-05-03, 15:24:52](https://news.ycombinator.com/item?id=35803522) - [The Full Story of Large Language Models and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/)
 * [2023-05-03, 15:19:20](https://news.ycombinator.com/item?id=35803435) - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
 * [2023-05-03, 14:07:29](https://news.ycombinator.com/item?id=35802575) - [State of Private Markets: Q1 2023](https://carta.com/blog/state-of-private-markets-q1-2023/)
 * [2023-05-03, 13:36:24](https://news.ycombinator.com/item?id=35802210) - [The Framework Laptop 13](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
@@ -29,6 +28,7 @@
 * [2023-05-03, 01:14:38](https://news.ycombinator.com/item?id=35796478) - [The Poet and the Tyrant: Osip Mandelstam](https://literaryreview.co.uk/the-poet-the-tyrant)
 * [2023-05-02, 14:40:15](https://news.ycombinator.com/item?id=35788191) - [UFOs exist in the low information zone](https://www.metabunk.org/threads/are-the-navy-ufos-real-or-just-in-the-low-information-zone-the-liz.10921/)
 * [2023-05-02, 11:36:32](https://news.ycombinator.com/item?id=35786004) - [Implementing remote procedure calls – Birrel and Nelson (1981) [pdf]](http://web.eecs.umich.edu/~mosharaf/Readings/RPC.pdf)
+* [2023-05-02, 11:33:39](https://news.ycombinator.com/item?id=35785978) - [Why champagne has stable “bubble chains” and other carbonated drinks do not](https://arstechnica.com/science/2023/05/physicists-unlock-secret-of-why-champagne-bubbles-form-straight-chain-as-they-rise/)
 * [2023-05-01, 11:58:41](https://news.ycombinator.com/item?id=35771587) - [What is it like to be a bat? (1974) [pdf]](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf)
 
 ## [Archives](archives/index.md)
