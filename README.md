@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-03, 18:37:56](https://news.ycombinator.com/item?id=35806035) - [Gmail is adding a blue checkmark to better verify senders](https://9to5google.com/2023/05/03/gmail-blue-checkmark/)
 * [2023-05-03, 18:28:51](https://news.ycombinator.com/item?id=35805913) - [Where’s the Director’s Commentary on Streaming?](https://www.theverge.com/23709897/directors-commentary-streaming-netflix-mike-flanagan-podcasts-vergecast)
 * [2023-05-03, 17:41:44](https://news.ycombinator.com/item?id=35805345) - [Brazilian frog might be the first pollinating amphibian known to science](https://www.science.org/content/article/brazilian-frog-might-be-first-pollinating-amphibian-known-science)
 * [2023-05-03, 17:11:47](https://news.ycombinator.com/item?id=35804935) - [How Does an FPGA Work?](https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all)
@@ -28,7 +29,6 @@
 * [2023-05-03, 05:05:19](https://news.ycombinator.com/item?id=35798239) - [Feynman’s Maze-Running Story](https://gwern.net/maze)
 * [2023-05-02, 11:36:32](https://news.ycombinator.com/item?id=35786004) - [Implementing remote procedure calls – Birrel and Nelson (1981) [pdf]](http://web.eecs.umich.edu/~mosharaf/Readings/RPC.pdf)
 * [2023-05-02, 11:33:39](https://news.ycombinator.com/item?id=35785978) - [Why champagne has stable “bubble chains” and other carbonated drinks do not](https://arstechnica.com/science/2023/05/physicists-unlock-secret-of-why-champagne-bubbles-form-straight-chain-as-they-rise/)
-* [2023-05-02, 08:59:07](https://news.ycombinator.com/item?id=35784961) - [Lactic Acid Bacteria as Markers for the Authentication of Swiss Cheeses](https://www.chimia.ch/chimia/article/view/2016_349/1089)
 * [2023-05-01, 11:58:41](https://news.ycombinator.com/item?id=35771587) - [What Is It Like to Be a Bat? (1974) [pdf]](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf)
 
 ## [Archives](archives/index.md)
