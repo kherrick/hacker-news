@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
 * [2023-05-03, 14:18:46](https://news.ycombinator.com/item?id=35802698) - [Google, Microsoft CEOs Called to AI Meeting at White House](https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02/)
+* [2023-05-03, 14:07:29](https://news.ycombinator.com/item?id=35802575) - [State of Private Markets: Q1 2023](https://carta.com/blog/state-of-private-markets-q1-2023/)
 * [2023-05-03, 13:52:44](https://news.ycombinator.com/item?id=35802411) - [How America’s Obsession with DEI Is Sabotaging Our Medical Schools](https://www.thefp.com/p/how-americas-obsession-with-dei-is)
 * [2023-05-03, 13:36:24](https://news.ycombinator.com/item?id=35802210) - [The Framework Laptop 13](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
 * [2023-05-03, 12:39:58](https://news.ycombinator.com/item?id=35801673) - [Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)
