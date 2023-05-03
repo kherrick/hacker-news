@@ -18,7 +18,7 @@
 * [2023-05-02, 17:54:27](https://news.ycombinator.com/item?id=35791575) - [Eye Candy](https://eycndy.com)
 * [2023-05-02, 17:00:45](https://news.ycombinator.com/item?id=35790672) - [Sematic (YC S22) is hiring their first enterprise sales representative](https://www.ycombinator.com/companies/sematic/jobs/PG1oHuE-enterprise-sales-representative)
 * [2023-05-02, 16:21:58](https://news.ycombinator.com/item?id=35789963) - [Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
-* [2023-05-02, 14:02:22](https://news.ycombinator.com/item?id=35787527) - [IBM AS&#x2F;400: Databases all the way down [video] (2019)](https://www.youtube.com/watch?v=CDSgJE5mPJM)
+* [2023-05-02, 14:02:22](https://news.ycombinator.com/item?id=35787527) - [IBM AS&#x2F;400: Databases all the way down (2019) [video]](https://www.youtube.com/watch?v=CDSgJE5mPJM)
 * [2023-05-02, 12:05:40](https://news.ycombinator.com/item?id=35786224) - [The Harmonium and its checkered history in India](https://maddy06.blogspot.com/2023/05/the-harmonium.html)
 * [2023-05-02, 08:24:28](https://news.ycombinator.com/item?id=35784758) - [The Cairo Programming Language](https://cairo-book.github.io/ch00-00-introduction.html)
 * [2023-05-02, 08:12:11](https://news.ycombinator.com/item?id=35784705) - [What Is Type-Level Programming?](https://blog.sulami.xyz/posts/type-level-programming/)
