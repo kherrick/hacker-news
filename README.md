@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-03, 02:58:55](https://news.ycombinator.com/item?id=35797258) - [AI-generated beer commercial contains joyful monstrosities, goes viral](https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/)
 * [2023-05-03, 02:16:56](https://news.ycombinator.com/item?id=35796931) - [RIP HTTP](http://http.rip/)
 * [2023-05-03, 02:15:12](https://news.ycombinator.com/item?id=35796915) - [De-dollarization is happening at a ‘stunning’ pace](https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says)
-* [2023-05-03, 01:42:31](https://news.ycombinator.com/item?id=35796671) - [Truth About the War](https://www.hs.fi/ulkomaat/art-2000009555855.html)
 * [2023-05-03, 00:03:26](https://news.ycombinator.com/item?id=35795975) - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
 * [2023-05-02, 23:18:49](https://news.ycombinator.com/item?id=35795524) - [Value Oriented Programming Needs Implicits?](https://matklad.github.io/2023/05/02/implicits-for-mvs.html)
 * [2023-05-02, 23:05:10](https://news.ycombinator.com/item?id=35795388) - [News Minimalist – Only significant news](https://www.newsminimalist.com/)
@@ -25,7 +25,7 @@
 * [2023-05-02, 07:46:18](https://news.ycombinator.com/item?id=35784537) - [Framework Laptop Cupholder Expansion Card](https://www.printables.com/model/467332-framework-laptop-cupholder-expansion-card)
 * [2023-05-02, 03:28:48](https://news.ycombinator.com/item?id=35782984) - [OKTO35 3D-Printed Analog Film Movie Camera](https://blazsemprimoznik.com/okto35/)
 * [2023-05-01, 22:10:00](https://news.ycombinator.com/item?id=35779902) - [Vercel Service Markup](https://service-markup.vercel.app)
-* [2023-05-01, 17:07:31](https://news.ycombinator.com/item?id=35775803) - [Parenting Tech Opens the Door to State Surveillance](https://www.wired.com/story/how-parenting-tech-opens-the-door-to-state-surveillance/)
+* [2023-05-01, 17:07:31](https://news.ycombinator.com/item?id=35775803) - [Parenting tech opens the door to state surveillance](https://www.wired.com/story/how-parenting-tech-opens-the-door-to-state-surveillance/)
 * [2023-05-01, 16:58:23](https://news.ycombinator.com/item?id=35775646) - [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet)
 * [2023-05-01, 12:03:30](https://news.ycombinator.com/item?id=35771630) - [Unlocking North Korean songs on a karaoke machine](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
 * [2023-04-30, 17:49:33](https://news.ycombinator.com/item?id=35764864) - [Weekend hacking: wireless charging for a HP-25 calculator](https://partsbox.com/blog/wireless-charging-for-a-hp-25-calculator-05-2021.html)

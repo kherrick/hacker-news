@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 02:58:55](https://news.ycombinator.com/item?id=35797258) - [AI-generated beer commercial contains joyful monstrosities, goes viral](https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/)
 * [2023-05-03, 02:16:56](https://news.ycombinator.com/item?id=35796931) - [RIP HTTP](http://http.rip/)
 * [2023-05-03, 02:15:12](https://news.ycombinator.com/item?id=35796915) - [De-Dollarization Is Happening at a ‘Stunning’ Pace](https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says)
 * [2023-05-03, 01:53:32](https://news.ycombinator.com/item?id=35796760) - [Apple is reportedly developing an AI-powered health coaching service](https://techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/)
