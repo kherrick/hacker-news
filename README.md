@@ -2,7 +2,7 @@
 
 * [2023-05-03, 19:44:30](https://news.ycombinator.com/item?id=35806753) - [FDA Approves First Respiratory Syncytial Virus (RSV) Vaccine](https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine)
 * [2023-05-03, 19:31:47](https://news.ycombinator.com/item?id=35806633) - [Graviton 3, Apple M2 and Qualcomm 8cx 3rd gen: a URL parsing benchmark](https://lemire.me/blog/2023/05/03/graviton-3-apple-m2-and-qualcomm-8cx-3rd-gen-a-url-parsing-benchmark/)
-* [2023-05-03, 19:26:44](https://news.ycombinator.com/item?id=35806589) - [Chatbot Arena: Benchmarking LLMs in the Wild with Elo Ratings](https://lmsys.org/blog/2023-05-03-arena/)
+* [2023-05-03, 19:18:25](https://news.ycombinator.com/item?id=35806515) - [Testosterone in tusks: Hormones in mammoth fossils excite paleontologists](https://arstechnica.com/science/2023/05/testosterone-in-tusks-hormones-in-mammoth-fossils-excite-paleontologists/)
 * [2023-05-03, 18:54:33](https://news.ycombinator.com/item?id=35806237) - [Driving Compilers](https://fabiensanglard.net/dc/index.php)
 * [2023-05-03, 17:41:44](https://news.ycombinator.com/item?id=35805345) - [Brazilian frog might be the first pollinating amphibian known to science](https://www.science.org/content/article/brazilian-frog-might-be-first-pollinating-amphibian-known-science)
 * [2023-05-03, 17:11:47](https://news.ycombinator.com/item?id=35804935) - [How Does an FPGA Work?](https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all)

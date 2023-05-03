@@ -8,6 +8,7 @@
 * [2023-05-03, 19:31:47](https://news.ycombinator.com/item?id=35806633) - [Graviton 3, Apple M2 and Qualcomm 8cx 3rd gen: a URL parsing benchmark](https://lemire.me/blog/2023/05/03/graviton-3-apple-m2-and-qualcomm-8cx-3rd-gen-a-url-parsing-benchmark/)
 * [2023-05-03, 19:27:50](https://news.ycombinator.com/item?id=35806599) - [Jeffery Epstein Met with Reid Hoffman, Larry Summers and Woody Allen](https://www.wsj.com/articles/jeffrey-epstein-documents-woody-allen-larry-summers-edb3e9b2)
 * [2023-05-03, 19:26:44](https://news.ycombinator.com/item?id=35806589) - [Chatbot Arena: Benchmarking LLMs in the Wild with Elo Ratings](https://lmsys.org/blog/2023-05-03-arena/)
+* [2023-05-03, 19:18:25](https://news.ycombinator.com/item?id=35806515) - [Testosterone in tusks: Hormones in mammoth fossils excite paleontologists](https://arstechnica.com/science/2023/05/testosterone-in-tusks-hormones-in-mammoth-fossils-excite-paleontologists/)
 * [2023-05-03, 19:15:28](https://news.ycombinator.com/item?id=35806483) - [Is ChatGPT Securities Fraud?](https://www.bloomberg.com/opinion/articles/2023-05-03/is-chatgpt-securities-fraud)
 * [2023-05-03, 19:07:03](https://news.ycombinator.com/item?id=35806397) - [Unity lays off 600 staff members, prepares to close half of its offices](https://venturebeat.com/games/unity-lays-off-600-staff-members-prepares-to-close-half-of-its-offices/)
 * [2023-05-03, 18:54:33](https://news.ycombinator.com/item?id=35806237) - [Driving Compilers](https://fabiensanglard.net/dc/index.php)
