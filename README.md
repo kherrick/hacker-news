@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-03, 07:13:46](https://news.ycombinator.com/item?id=35799116) - [“All Tomorrow’s Parties”: AI Synthesis – The End of Copyright as We Knew It](https://www.heise.de/meinung/All-Tomorrow-s-Parties-AI-Synthesis-The-End-of-Copyright-as-We-Knew-It-8985282.html)
+* [2023-05-03, 06:43:03](https://news.ycombinator.com/item?id=35798883) - [Americans Gaining Most Weight in Their 20s and 30s: What They Can Do](https://www.healthline.com/health-news/americans-gaining-most-weight-in-their-20s-and-30s-what-they-can-do)
 * [2023-05-03, 05:05:19](https://news.ycombinator.com/item?id=35798239) - [Feynman’s Maze-Running Story](https://gwern.net/maze)
 * [2023-05-03, 02:58:55](https://news.ycombinator.com/item?id=35797258) - [AI-generated beer commercial contains joyful monstrosities, goes viral](https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/)
 * [2023-05-03, 02:16:56](https://news.ycombinator.com/item?id=35796931) - [RIP HTTP](http://http.rip/)
@@ -15,8 +17,6 @@
 * [2023-05-02, 17:54:27](https://news.ycombinator.com/item?id=35791575) - [Eye Candy](https://eycndy.com)
 * [2023-05-02, 17:32:35](https://news.ycombinator.com/item?id=35791205) - [Building a Compiler with Multi-Level Intermediate Representation (MLIR) (2020) [pdf]](https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf)
 * [2023-05-02, 17:00:45](https://news.ycombinator.com/item?id=35790672) - [Sematic (YC S22) is hiring their first enterprise sales representative](https://www.ycombinator.com/companies/sematic/jobs/PG1oHuE-enterprise-sales-representative)
-* [2023-05-02, 16:45:40](https://news.ycombinator.com/item?id=35790367) - [Mojo – a new programming language for AI developers](https://www.modular.com/mojo)
-* [2023-05-02, 16:31:56](https://news.ycombinator.com/item?id=35790132) - [Org-assistant.el – Org Babel extension for Chat Assistant APIs](https://github.com/tyler-dodge/org-assistant)
 * [2023-05-02, 16:29:36](https://news.ycombinator.com/item?id=35790092) - [Jsonformer: Generate structured output from LLMs](https://github.com/1rgs/jsonformer)
 * [2023-05-02, 16:21:58](https://news.ycombinator.com/item?id=35789963) - [Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
 * [2023-05-02, 16:06:16](https://news.ycombinator.com/item?id=35789730) - [An Update on the Lock Icon](https://blog.chromium.org/2023/05/an-update-on-lock-icon.html)
