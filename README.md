@@ -23,12 +23,12 @@
 * [2023-05-03, 05:05:19](https://news.ycombinator.com/item?id=35798239) - [Feynman’s Maze-Running Story](https://gwern.net/maze)
 * [2023-05-03, 04:19:11](https://news.ycombinator.com/item?id=35797954) - [The Second Freeway Revolt (2013)](https://www.foundsf.org/index.php?title=Second_Freeway_Revolt)
 * [2023-05-03, 00:03:26](https://news.ycombinator.com/item?id=35795975) - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
+* [2023-05-02, 15:28:00](https://news.ycombinator.com/item?id=35789057) - [What Cheetahs, Armadillos and Whales Revealed About Human DNA](https://www.nytimes.com/2023/04/27/science/human-dna-genomes.html)
 * [2023-05-02, 11:33:39](https://news.ycombinator.com/item?id=35785978) - [Why champagne has stable “bubble chains” and other carbonated drinks do not](https://arstechnica.com/science/2023/05/physicists-unlock-secret-of-why-champagne-bubbles-form-straight-chain-as-they-rise/)
 * [2023-05-02, 08:59:07](https://news.ycombinator.com/item?id=35784961) - [Lactic Acid Bacteria as Markers for the Authentication of Swiss Cheeses](https://www.chimia.ch/chimia/article/view/2016_349/1089)
 * [2023-05-02, 08:24:28](https://news.ycombinator.com/item?id=35784758) - [The Cairo Programming Language](https://cairo-book.github.io/ch00-00-introduction.html)
 * [2023-05-02, 07:46:18](https://news.ycombinator.com/item?id=35784537) - [Framework Laptop Cupholder Expansion Card](https://www.printables.com/model/467332-framework-laptop-cupholder-expansion-card)
 * [2023-05-02, 03:28:48](https://news.ycombinator.com/item?id=35782984) - [OKTO35 3D-Printed Analog Film Movie Camera](https://blazsemprimoznik.com/okto35/)
-* [2023-05-02, 03:28:05](https://news.ycombinator.com/item?id=35782975) - [The Kollsman Electric Tachometer Indicator](https://bikerglen.com/blog/the-kollsman-electric-tachometer-indicator/)
 * [2023-05-01, 07:44:27](https://news.ycombinator.com/item?id=35770079) - [Learning Some Logarithms](https://two-wrongs.com/learning-some-logarithms.html)
 
 ## [Archives](archives/index.md)

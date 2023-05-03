@@ -37,6 +37,7 @@
 * [2023-05-02, 16:29:36](https://news.ycombinator.com/item?id=35790092) - [Jsonformer: A bulletproof way to generate structured output from LLMs](https://github.com/1rgs/jsonformer)
 * [2023-05-02, 16:21:58](https://news.ycombinator.com/item?id=35789963) - [Fakespot Is Acquired by Mozilla](https://www.fakespot.com/post/fakespot-acquired-by-mozilla)
 * [2023-05-02, 16:06:16](https://news.ycombinator.com/item?id=35789730) - [An Update on the Lock Icon](https://blog.chromium.org/2023/05/an-update-on-lock-icon.html)
+* [2023-05-02, 15:28:00](https://news.ycombinator.com/item?id=35789057) - [What Cheetahs, Armadillos and Whales Revealed About Human DNA](https://www.nytimes.com/2023/04/27/science/human-dna-genomes.html)
 * [2023-05-02, 15:14:17](https://news.ycombinator.com/item?id=35788792) - [Qwik Reaches v1.0](https://www.builder.io/blog/qwik-v1)
 * [2023-05-02, 14:36:05](https://news.ycombinator.com/item?id=35788120) - [Adult-Use Cannabis Delivers $15B in Tax Revenues](https://www.greenmarketreport.com/adult-use-cannabis-has-delivered-15-billion-in-tax-revenues/)
 * [2023-05-02, 14:26:19](https://news.ycombinator.com/item?id=35787953) - [Environmental groups sue the FAA over SpaceX launch from Texas](https://arstechnica.com/science/2023/05/environmental-groups-sue-the-faa-over-spacex-launch-from-texas/)
