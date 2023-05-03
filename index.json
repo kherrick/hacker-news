@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-03, 01:53:32",
+      "https://news.ycombinator.com/item?id=35796760"
+    ],
+    [
+      "Apple is reportedly developing an AI-powered health coaching service",
+      "https://techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/"
+    ]
+  ],
+  [
+    [
       "2023-05-03, 00:51:48",
       "https://news.ycombinator.com/item?id=35796333"
     ],
@@ -17,6 +27,16 @@
     [
       "Bank Failures Visualized",
       "https://observablehq.com/@mbostock/bank-failures"
+    ]
+  ],
+  [
+    [
+      "2023-05-02, 23:05:10",
+      "https://news.ycombinator.com/item?id=35795388"
+    ],
+    [
+      "News Minimalist - Only significant news. All signal, no noise",
+      "https://www.newsminimalist.com/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Building a Compiler with Multi-Level Intermediate Representation (MLIR) (2020) [pdf]",
       "https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 17:05:31",
-      "https://news.ycombinator.com/item?id=35790758"
-    ],
-    [
-      "Borges and $: The Parable of the Literary Master and the Coin (2016)",
-      "https://longreads.com/2016/06/14/borges-and-money/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Is infinity an odd or even number? (2011)",
       "https://math.stackexchange.com/questions/49034/is-infinity-an-odd-or-even-number"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 13:35:25",
-      "https://news.ycombinator.com/item?id=35787195"
-    ],
-    [
-      "faulTPM: Exposing AMD fTPMs&#x27; Deepest Secrets",
-      "https://arxiv.org/abs/2304.14717"
     ]
   ],
   [
