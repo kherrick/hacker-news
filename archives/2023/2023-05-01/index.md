@@ -96,6 +96,7 @@
 * [2023-05-01, 09:32:31](https://news.ycombinator.com/item?id=35770678) - [First clean water, now clean air](https://finmoorhouse.com/writing/clean-air/)
 * [2023-05-01, 09:12:36](https://news.ycombinator.com/item?id=35770563) - [Michael J. Fox Foundation Announces Breakthrough for Parkinson&#x27;s Biomarker](https://www.michaeljfox.org/publication/michael-j-fox-foundation-announces-significant-breakthrough-search-parkinsons-biomarker)
 * [2023-05-01, 07:53:10](https://news.ycombinator.com/item?id=35770128) - [Why woodpeckers can hammer without getting headaches](https://www.birdwatchingdaily.com/news/science/woodpeckers-hammer-without-headaches/)
+* [2023-05-01, 07:44:27](https://news.ycombinator.com/item?id=35770079) - [Learning Some Logarithms](https://two-wrongs.com/learning-some-logarithms.html)
 * [2023-05-01, 07:37:47](https://news.ycombinator.com/item?id=35770048) - [JPMorgan Chase Bank Assumes All the Deposits of First Republic Bank](https://www.fdic.gov/news/press-releases/2023/pr23034.html)
 * [2023-05-01, 07:37:16](https://news.ycombinator.com/item?id=35770044) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
 * [2023-05-01, 06:54:30](https://news.ycombinator.com/item?id=35769793) - [Spain breaks record temperature of 38.8C (101.84F) in April](https://www.bbc.co.uk/news/science-environment-65403381)

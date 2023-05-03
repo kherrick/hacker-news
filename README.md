@@ -4,7 +4,6 @@
 * [2023-05-03, 02:16:56](https://news.ycombinator.com/item?id=35796931) - [RIP HTTP](http://http.rip/)
 * [2023-05-03, 02:15:12](https://news.ycombinator.com/item?id=35796915) - [De-dollarization is happening at a ‘stunning’ pace](https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says)
 * [2023-05-03, 00:03:26](https://news.ycombinator.com/item?id=35795975) - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
-* [2023-05-02, 23:18:49](https://news.ycombinator.com/item?id=35795524) - [Value Oriented Programming Needs Implicits?](https://matklad.github.io/2023/05/02/implicits-for-mvs.html)
 * [2023-05-02, 23:05:10](https://news.ycombinator.com/item?id=35795388) - [News Minimalist – Only significant news](https://www.newsminimalist.com/)
 * [2023-05-02, 22:57:49](https://news.ycombinator.com/item?id=35795299) - [Why is inflation so sticky? It could be corporate profits](https://www.wsj.com/articles/why-is-inflation-so-sticky-it-could-be-corporate-profits-b78d90b7)
 * [2023-05-02, 21:54:31](https://news.ycombinator.com/item?id=35794758) - [Cardinal&#x2F;WASM: In-Browser Modular Synth Based on VCV Rack](https://cardinal.kx.studio)
@@ -28,6 +27,7 @@
 * [2023-05-01, 17:07:31](https://news.ycombinator.com/item?id=35775803) - [Parenting tech opens the door to state surveillance](https://www.wired.com/story/how-parenting-tech-opens-the-door-to-state-surveillance/)
 * [2023-05-01, 16:58:23](https://news.ycombinator.com/item?id=35775646) - [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet)
 * [2023-05-01, 12:03:30](https://news.ycombinator.com/item?id=35771630) - [Unlocking North Korean songs on a karaoke machine](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
+* [2023-05-01, 07:44:27](https://news.ycombinator.com/item?id=35770079) - [Learning Some Logarithms](https://two-wrongs.com/learning-some-logarithms.html)
 * [2023-04-30, 17:49:33](https://news.ycombinator.com/item?id=35764864) - [Weekend hacking: wireless charging for a HP-25 calculator](https://partsbox.com/blog/wireless-charging-for-a-hp-25-calculator-05-2021.html)
 * [2023-04-30, 14:34:33](https://news.ycombinator.com/item?id=35762924) - [Gears (2020)](https://ciechanow.ski/gears/)
 
