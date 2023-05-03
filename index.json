@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-05-03, 20:52:41",
+      "https://news.ycombinator.com/item?id=35807639"
+    ],
+    [
+      "Lotus 1-2-3 for Linux",
+      "https://github.com/taviso/123elf"
+    ]
+  ],
+  [
+    [
       "2023-05-03, 20:41:43",
       "https://news.ycombinator.com/item?id=35807489"
     ],
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2023-05-03, 09:47:15",
-      "https://news.ycombinator.com/item?id=35800158"
-    ],
-    [
-      "MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry",
-      "https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open"
-    ]
-  ],
-  [
-    [
       "2023-05-03, 09:45:09",
       "https://news.ycombinator.com/item?id=35800136"
     ],
     [
       "A Programmer&#x27;s Introduction to Mathematics",
       "https://pimbook.org"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 01:51:15",
+      "https://news.ycombinator.com/item?id=35796744"
+    ],
+    [
+      "Human Thinking vs. Parser Thinking (2016)",
+      "https://dannysu.com/2016/05/12/human-thinking-vs-parser-thinking/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Like the macOS Dock but for macOS System 7",
       "https://github.com/retrospectmike/MacDock"
-    ]
-  ],
-  [
-    [
-      "2023-05-01, 11:58:41",
-      "https://news.ycombinator.com/item?id=35771587"
-    ],
-    [
-      "What is it like to be a bat? (1974) [pdf]",
-      "https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf"
     ]
   ]
 ]
