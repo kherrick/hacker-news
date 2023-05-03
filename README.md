@@ -2,6 +2,7 @@
 
 * [2023-05-03, 14:18:46](https://news.ycombinator.com/item?id=35802698) - [Google, Microsoft CEOs Called to AI Meeting at White House](https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02/)
 * [2023-05-03, 13:36:24](https://news.ycombinator.com/item?id=35802210) - [The Framework Laptop 13](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
+* [2023-05-03, 12:39:58](https://news.ycombinator.com/item?id=35801673) - [Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)
 * [2023-05-03, 12:13:23](https://news.ycombinator.com/item?id=35801392) - [Passkeys: The Beginning of the End of the Password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 * [2023-05-03, 12:01:03](https://news.ycombinator.com/item?id=35801293) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
 * [2023-05-03, 12:01:00](https://news.ycombinator.com/item?id=35801290) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
@@ -22,7 +23,6 @@
 * [2023-05-03, 05:05:19](https://news.ycombinator.com/item?id=35798239) - [Feynman’s Maze-Running Story](https://gwern.net/maze)
 * [2023-05-03, 04:19:11](https://news.ycombinator.com/item?id=35797954) - [The Second Freeway Revolt (2013)](https://www.foundsf.org/index.php?title=Second_Freeway_Revolt)
 * [2023-05-03, 00:03:26](https://news.ycombinator.com/item?id=35795975) - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
-* [2023-05-02, 12:05:40](https://news.ycombinator.com/item?id=35786224) - [The Harmonium and its checkered history in India](https://maddy06.blogspot.com/2023/05/the-harmonium.html)
 * [2023-05-02, 11:33:39](https://news.ycombinator.com/item?id=35785978) - [Why champagne has stable “bubble chains” and other carbonated drinks do not](https://arstechnica.com/science/2023/05/physicists-unlock-secret-of-why-champagne-bubbles-form-straight-chain-as-they-rise/)
 * [2023-05-02, 08:59:07](https://news.ycombinator.com/item?id=35784961) - [Lactic Acid Bacteria as Markers for the Authentication of Swiss Cheeses](https://www.chimia.ch/chimia/article/view/2016_349/1089)
 * [2023-05-02, 08:24:28](https://news.ycombinator.com/item?id=35784758) - [The Cairo Programming Language](https://cairo-book.github.io/ch00-00-introduction.html)
