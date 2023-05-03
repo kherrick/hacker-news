@@ -13,6 +13,7 @@
 * [2023-05-01, 23:04:11](https://news.ycombinator.com/item?id=35780517) - [Vice Is Said to Be Headed for Bankruptcy](https://www.nytimes.com/2023/05/01/business/media/vice-bankruptcy.html)
 * [2023-05-01, 22:47:25](https://news.ycombinator.com/item?id=35780329) - [Bio-inspired: developing technology to mimic the function of skin](https://newsroom.unsw.edu.au/news/science-tech/bio-inspired-developing-technology-mimic-function-skin)
 * [2023-05-01, 22:43:09](https://news.ycombinator.com/item?id=35780291) - [San Francisco Whole Foods made 560 emergency calls before closing](https://www.foxbusiness.com/retail/san-francisco-whole-foods-hit-560-calls-violence-drugs-vagrants-before-closing-report)
+* [2023-05-01, 22:10:00](https://news.ycombinator.com/item?id=35779902) - [Vercel Service Markup](https://service-markup.vercel.app)
 * [2023-05-01, 22:07:12](https://news.ycombinator.com/item?id=35779873) - [Shoot the arrow, then paint the target around it](https://ozanvarol.com/the-key-to-becoming-extraordinary/)
 * [2023-05-01, 22:02:39](https://news.ycombinator.com/item?id=35779816) - [The “Location Off” switch on your phone is a lie](https://gabrielsieben.tech/2023/05/01/the-location-off-switch-on-your-phone-is-a-lie/)
 * [2023-05-01, 22:01:29](https://news.ycombinator.com/item?id=35779805) - [Laser scanning microscope from DVD pickup heads](https://www.gaudi.ch/GaudiLabs/?page_id=652)
