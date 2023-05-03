@@ -67,6 +67,7 @@
 * [2023-05-02, 09:06:28](https://news.ycombinator.com/item?id=35785005) - [Show HN: GPT crushes my high score in 2048.io](https://github.com/inishchith/2048)
 * [2023-05-02, 08:46:33](https://news.ycombinator.com/item?id=35784889) - [Google Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse)
 * [2023-05-02, 08:34:34](https://news.ycombinator.com/item?id=35784814) - [IBM to pause hiring in plan to replace 7,800 jobs with AI News](https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html)
+* [2023-05-02, 07:46:18](https://news.ycombinator.com/item?id=35784537) - [Framework Laptop Cupholder Expansion Card](https://www.printables.com/model/467332-framework-laptop-cupholder-expansion-card)
 * [2023-05-02, 07:40:03](https://news.ycombinator.com/item?id=35784514) - [Ask HN: Project ideas for a Linux kernel module](https://news.ycombinator.com/item?id=35784514)
 * [2023-05-02, 06:48:37](https://news.ycombinator.com/item?id=35784192) - [Is Go an object-oriented programming language?](https://www.sobyte.net/post/2023-03/go-object-oriented/)
 * [2023-05-02, 06:44:21](https://news.ycombinator.com/item?id=35784167) - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html)
