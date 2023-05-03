@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-03, 17:11:47](https://news.ycombinator.com/item?id=35804935) - [How Does an FPGA Work?](https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all)
+* [2023-05-03, 17:02:23](https://news.ycombinator.com/item?id=35804808) - [25% of jobs set to be disrupted in the next 5 years – A.I. could play a key role](https://www.cnbc.com/2023/05/02/nearly-25percent-of-jobs-are-set-to-be-disrupted-in-the-next-five-years-wef.html)
 * [2023-05-03, 17:00:03](https://news.ycombinator.com/item?id=35804779) - [Motion (YC W20) Is Hiring Front End and Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-05-03, 16:59:07](https://news.ycombinator.com/item?id=35804759) - [Three failed US banks had one thing in common: KPMG](https://www.ft.com/content/feb33914-493e-467c-b67e-28fcd1b3814d)
 * [2023-05-03, 16:57:02](https://news.ycombinator.com/item?id=35804721) - [Steve Jobs and the Usable Computer (6 October 2011 by Tim Berners-Lee)](https://www.w3.org/blog/2011/10/steve-jobs/)
@@ -14,7 +15,6 @@
 * [2023-05-03, 12:13:23](https://news.ycombinator.com/item?id=35801392) - [Passkeys: The beginning of the end of the password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 * [2023-05-03, 12:01:03](https://news.ycombinator.com/item?id=35801293) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
 * [2023-05-03, 11:58:01](https://news.ycombinator.com/item?id=35801269) - [Show HN: Niui 3.0 – lightweight, rich, accessible front end](https://niui.dev)
-* [2023-05-03, 11:46:10](https://news.ycombinator.com/item?id=35801172) - [James Webb Space Telescope detects water vapor around alien planet](https://www.space.com/james-webb-space-telescope-exoplanet-water-vapor-atmosphere-or-star)
 * [2023-05-03, 11:35:48](https://news.ycombinator.com/item?id=35801086) - [A 16 bit computer simulated on circuitverse](https://circuitverse.org/users/4699/projects/femto-4v2-6-computer)
 * [2023-05-03, 11:24:57](https://news.ycombinator.com/item?id=35800988) - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
 * [2023-05-03, 11:19:23](https://news.ycombinator.com/item?id=35800936) - [SNOBOL (“StriNg Oriented and SymBOlic Language”)](https://en.wikipedia.org/wiki/SNOBOL)
