@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-03, 21:20:45](https://news.ycombinator.com/item?id=35807957) - [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)
 * [2023-05-03, 20:54:32](https://news.ycombinator.com/item?id=35807660) - [Measured typing latency of popular terminal emulators](https://tomscii.sig7.se/2021/01/Typing-latency-of-Zutty)
+* [2023-05-03, 20:41:43](https://news.ycombinator.com/item?id=35807489) - [Is Perpetual Motion Possible at the Quantum Level?](https://www.quantamagazine.org/is-perpetual-motion-possible-at-the-quantum-level-20230503/)
 * [2023-05-03, 20:35:00](https://news.ycombinator.com/item?id=35807408) - [Searches for VPN Soar in Utah Amidst Pornhub Blockage](https://www.culturalcurrents.institute/insights/utah-pornhub-blocked)
 * [2023-05-03, 19:47:31](https://news.ycombinator.com/item?id=35806796) - [New in Chrome 113](https://developer.chrome.com/blog/new-in-chrome-113/)
 * [2023-05-03, 19:44:30](https://news.ycombinator.com/item?id=35806753) - [FDA Approves First Respiratory Syncytial Virus (RSV) Vaccine](https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine)
@@ -27,8 +29,6 @@
 * [2023-05-03, 06:43:41](https://news.ycombinator.com/item?id=35798888) - [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
 * [2023-05-03, 01:14:38](https://news.ycombinator.com/item?id=35796478) - [The Poet and the Tyrant: Osip Mandelstam](https://literaryreview.co.uk/the-poet-the-tyrant)
 * [2023-05-02, 13:28:42](https://news.ycombinator.com/item?id=35787119) - [Like the macOS Dock but for macOS System 7](https://github.com/retrospectmike/MacDock)
-* [2023-05-02, 11:36:32](https://news.ycombinator.com/item?id=35786004) - [Implementing remote procedure calls – Birrel and Nelson (1981) [pdf]](http://web.eecs.umich.edu/~mosharaf/Readings/RPC.pdf)
-* [2023-05-02, 11:33:39](https://news.ycombinator.com/item?id=35785978) - [Why champagne has stable “bubble chains” and other carbonated drinks do not](https://arstechnica.com/science/2023/05/physicists-unlock-secret-of-why-champagne-bubbles-form-straight-chain-as-they-rise/)
 * [2023-05-01, 11:58:41](https://news.ycombinator.com/item?id=35771587) - [What is it like to be a bat? (1974) [pdf]](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf)
 
 ## [Archives](archives/index.md)
