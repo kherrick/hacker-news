@@ -28,8 +28,8 @@
 * [2023-05-03, 09:47:15](https://news.ycombinator.com/item?id=35800158) - [MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 * [2023-05-03, 09:45:09](https://news.ycombinator.com/item?id=35800136) - [A Programmer&#x27;s Introduction to Mathematics](https://pimbook.org)
 * [2023-05-03, 01:14:38](https://news.ycombinator.com/item?id=35796478) - [The Poet and the Tyrant: Osip Mandelstam](https://literaryreview.co.uk/the-poet-the-tyrant)
+* [2023-05-02, 19:16:15](https://news.ycombinator.com/item?id=35792705) - [Disappearing Act: The working life of Haruki Murakami](https://www.thenation.com/article/culture/haruki-murakami-novelist-vocation/)
 * [2023-05-02, 13:28:42](https://news.ycombinator.com/item?id=35787119) - [Like the macOS Dock but for macOS System 7](https://github.com/retrospectmike/MacDock)
-* [2023-05-01, 11:58:41](https://news.ycombinator.com/item?id=35771587) - [What is it like to be a bat? (1974) [pdf]](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf)
 
 ## [Archives](archives/index.md)
 

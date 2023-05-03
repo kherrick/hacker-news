@@ -19,6 +19,7 @@
 * [2023-05-02, 19:38:06](https://news.ycombinator.com/item?id=35793001) - [African Workers for ChatGPT, TikTok and Facebook Vote to Unionize](https://time.com/6275995/chatgpt-facebook-african-workers-union/)
 * [2023-05-02, 19:34:44](https://news.ycombinator.com/item?id=35792949) - [Make your Python functions return something meaningful, typed, and safe](https://returns.readthedocs.io/en/latest/index.html)
 * [2023-05-02, 19:31:44](https://news.ycombinator.com/item?id=35792898) - [Ask HN: What tech is under the radar with all attention on ChatGPT etc.](https://news.ycombinator.com/item?id=35792898)
+* [2023-05-02, 19:16:15](https://news.ycombinator.com/item?id=35792705) - [Disappearing Act: The working life of Haruki Murakami](https://www.thenation.com/article/culture/haruki-murakami-novelist-vocation/)
 * [2023-05-02, 19:11:09](https://news.ycombinator.com/item?id=35792635) - [AI chatbots used to create dozens of &#x27;news&#x27; content farms](https://www.bloomberg.com/news/articles/2023-05-01/ai-chatbots-have-been-used-to-create-dozens-of-news-content-farms/)
 * [2023-05-02, 19:04:11](https://news.ycombinator.com/item?id=35792553) - [‘Star Trek’ Fans Can Now Virtually Tour Every Starship Enterprise Bridge](https://www.smithsonianmag.com/smart-news/star-trek-fans-can-now-virtually-tour-every-starship-enterprise-bridge-180982090/)
 * [2023-05-02, 18:59:29](https://news.ycombinator.com/item?id=35792490) - [uBlock Origin 1.49.2 Available as Thunderbird Add-On](https://github.com/gorhill/uBlock/releases/tag/1.49.2)
