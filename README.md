@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-03, 20:11:49](https://news.ycombinator.com/item?id=35807125) - [Angular v16 Is Here](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d?gi=59158dd70516)
+* [2023-05-03, 19:47:35](https://news.ycombinator.com/item?id=35806799) - [Electronic Music and the NeXTcube – Running Max on the Ircam Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
+* [2023-05-03, 19:47:31](https://news.ycombinator.com/item?id=35806796) - [New in Chrome 113](https://developer.chrome.com/blog/new-in-chrome-113/)
 * [2023-05-03, 19:44:30](https://news.ycombinator.com/item?id=35806753) - [FDA Approves First Respiratory Syncytial Virus (RSV) Vaccine](https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine)
 * [2023-05-03, 19:31:47](https://news.ycombinator.com/item?id=35806633) - [Graviton 3, Apple M2 and Qualcomm 8cx 3rd gen: a URL parsing benchmark](https://lemire.me/blog/2023/05/03/graviton-3-apple-m2-and-qualcomm-8cx-3rd-gen-a-url-parsing-benchmark/)
 * [2023-05-03, 19:18:25](https://news.ycombinator.com/item?id=35806515) - [Testosterone in tusks: Hormones in mammoth fossils excite paleontologists](https://arstechnica.com/science/2023/05/testosterone-in-tusks-hormones-in-mammoth-fossils-excite-paleontologists/)
@@ -14,11 +17,9 @@
 * [2023-05-03, 15:19:20](https://news.ycombinator.com/item?id=35803435) - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
 * [2023-05-03, 14:07:29](https://news.ycombinator.com/item?id=35802575) - [State of Private Markets: Q1 2023](https://carta.com/blog/state-of-private-markets-q1-2023/)
 * [2023-05-03, 13:36:24](https://news.ycombinator.com/item?id=35802210) - [The Framework Laptop 13](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
-* [2023-05-03, 12:39:58](https://news.ycombinator.com/item?id=35801673) - [Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)
 * [2023-05-03, 12:13:23](https://news.ycombinator.com/item?id=35801392) - [Passkeys: The beginning of the end of the password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 * [2023-05-03, 12:01:03](https://news.ycombinator.com/item?id=35801293) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
 * [2023-05-03, 11:57:25](https://news.ycombinator.com/item?id=35801265) - [The skills gap for Fortran looms large in HPC](https://www.nextplatform.com/2023/05/02/the-skills-gap-for-fortran-looms-large-in-hpc/)
-* [2023-05-03, 11:35:48](https://news.ycombinator.com/item?id=35801086) - [A 16 bit computer simulated on circuitverse](https://circuitverse.org/users/4699/projects/femto-4v2-6-computer)
 * [2023-05-03, 11:24:57](https://news.ycombinator.com/item?id=35800988) - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
 * [2023-05-03, 10:54:32](https://news.ycombinator.com/item?id=35800711) - [JavaScript import maps are now supported cross-browser](https://web.dev/import-maps-in-all-modern-browsers/)
 * [2023-05-03, 10:32:10](https://news.ycombinator.com/item?id=35800492) - [It&#x27;s A(door)able](https://ncase.me/door/)
@@ -28,7 +29,6 @@
 * [2023-05-03, 01:14:38](https://news.ycombinator.com/item?id=35796478) - [The Poet and the Tyrant: Osip Mandelstam: A Biography](https://literaryreview.co.uk/the-poet-the-tyrant)
 * [2023-05-02, 14:40:15](https://news.ycombinator.com/item?id=35788191) - [UFOs exist in the low information zone](https://www.metabunk.org/threads/are-the-navy-ufos-real-or-just-in-the-low-information-zone-the-liz.10921/)
 * [2023-05-02, 11:36:32](https://news.ycombinator.com/item?id=35786004) - [Implementing remote procedure calls – Birrel and Nelson (1981) [pdf]](http://web.eecs.umich.edu/~mosharaf/Readings/RPC.pdf)
-* [2023-05-02, 11:33:39](https://news.ycombinator.com/item?id=35785978) - [Why champagne has stable “bubble chains” and other carbonated drinks do not](https://arstechnica.com/science/2023/05/physicists-unlock-secret-of-why-champagne-bubbles-form-straight-chain-as-they-rise/)
 * [2023-05-01, 11:58:41](https://news.ycombinator.com/item?id=35771587) - [What is it like to be a bat? (1974) [pdf]](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf)
 
 ## [Archives](archives/index.md)

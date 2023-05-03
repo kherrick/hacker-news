@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 20:11:49](https://news.ycombinator.com/item?id=35807125) - [Angular v16 Is Here](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d?gi=59158dd70516)
+* [2023-05-03, 19:47:35](https://news.ycombinator.com/item?id=35806799) - [Electronic Music and the NeXTcube – Running Max on the Ircam Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
+* [2023-05-03, 19:47:31](https://news.ycombinator.com/item?id=35806796) - [New in Chrome 113](https://developer.chrome.com/blog/new-in-chrome-113/)
 * [2023-05-03, 19:44:30](https://news.ycombinator.com/item?id=35806753) - [FDA Approves First Respiratory Syncytial Virus (RSV) Vaccine](https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine)
 * [2023-05-03, 19:31:47](https://news.ycombinator.com/item?id=35806633) - [Graviton 3, Apple M2 and Qualcomm 8cx 3rd gen: a URL parsing benchmark](https://lemire.me/blog/2023/05/03/graviton-3-apple-m2-and-qualcomm-8cx-3rd-gen-a-url-parsing-benchmark/)
 * [2023-05-03, 19:27:50](https://news.ycombinator.com/item?id=35806599) - [Jeffery Epstein Met with Reid Hoffman, Larry Summers and Woody Allen](https://www.wsj.com/articles/jeffrey-epstein-documents-woody-allen-larry-summers-edb3e9b2)
