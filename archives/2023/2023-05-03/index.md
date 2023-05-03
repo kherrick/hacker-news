@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 08:45:42](https://news.ycombinator.com/item?id=35799691) - [A professor found her name on an article she didn’t write. Then it got worse](https://retractionwatch.com/2023/04/18/a-professor-found-her-name-on-an-article-she-didnt-write-then-it-got-worse/)
+* [2023-05-03, 08:31:40](https://news.ycombinator.com/item?id=35799609) - [UK Campaigning to replace the Monarchy with an elected head of state](https://twitter.com/RepublicStaff)
 * [2023-05-03, 08:30:47](https://news.ycombinator.com/item?id=35799605) - [Ask HN: Why are there no 5G USB-C dongles for laptops?](https://news.ycombinator.com/item?id=35799605)
 * [2023-05-03, 08:20:38](https://news.ycombinator.com/item?id=35799545) - [FBI Bureau Supervisor Arrested in Connection with Jan 6th Capitol Riot](https://www.nbcnews.com/politics/justice-department/fbi-says-former-agent-arrested-jan-6-called-officers-nazis-rcna82567)
 * [2023-05-03, 07:30:15](https://news.ycombinator.com/item?id=35799221) - [Nordstrom to Close Both San Francisco Stores Amid Rampant Crime](https://news.yahoo.com/nordstrom-close-both-san-francisco-235623318.html)
