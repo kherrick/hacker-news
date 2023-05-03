@@ -2,9 +2,10 @@
 
 * [2023-05-03, 02:16:56](https://news.ycombinator.com/item?id=35796931) - [RIP HTTP](http://http.rip/)
 * [2023-05-03, 00:03:26](https://news.ycombinator.com/item?id=35795975) - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
-* [2023-05-02, 23:05:10](https://news.ycombinator.com/item?id=35795388) - [News Minimalist - Only significant news. All signal, no noise](https://www.newsminimalist.com/)
+* [2023-05-02, 23:18:49](https://news.ycombinator.com/item?id=35795524) - [Value Oriented Programming Needs Implicits?](https://matklad.github.io/2023/05/02/implicits-for-mvs.html)
+* [2023-05-02, 23:05:10](https://news.ycombinator.com/item?id=35795388) - [News Minimalist – Only significant news](https://www.newsminimalist.com/)
 * [2023-05-02, 21:54:31](https://news.ycombinator.com/item?id=35794758) - [Cardinal&#x2F;WASM: In-Browser Modular Synth Based on VCV Rack](https://cardinal.kx.studio)
-* [2023-05-02, 20:50:34](https://news.ycombinator.com/item?id=35794010) - [LLM Hallucinations: why they occur and how to avoid them](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
+* [2023-05-02, 20:50:34](https://news.ycombinator.com/item?id=35794010) - [Avoiding hallucinations in LLM-powered applications](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
 * [2023-05-02, 20:25:59](https://news.ycombinator.com/item?id=35793660) - [Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
 * [2023-05-02, 19:38:06](https://news.ycombinator.com/item?id=35793001) - [African Workers for ChatGPT, TikTok and Facebook Vote to Unionize](https://time.com/6275995/chatgpt-facebook-african-workers-union/)
 * [2023-05-02, 18:19:05](https://news.ycombinator.com/item?id=35791947) - [NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)
@@ -29,7 +30,6 @@
 * [2023-05-01, 12:03:30](https://news.ycombinator.com/item?id=35771630) - [Unlocking North Korean songs on a karaoke machine](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
 * [2023-04-30, 17:49:33](https://news.ycombinator.com/item?id=35764864) - [Weekend hacking: wireless charging for a HP-25 calculator](https://partsbox.com/blog/wireless-charging-for-a-hp-25-calculator-05-2021.html)
 * [2023-04-30, 14:34:33](https://news.ycombinator.com/item?id=35762924) - [Gears (2020)](https://ciechanow.ski/gears/)
-* [2023-04-30, 13:59:36](https://news.ycombinator.com/item?id=35762589) - [Spinning the Decks and Startup Success: A Lesson from My DJ Days](https://cameronwestland.com/spinning-the-decks-and-startup-success-a-lesson-from-my-dj-days)
 
 ## [Archives](archives/index.md)
 

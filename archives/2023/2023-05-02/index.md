@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 23:18:49](https://news.ycombinator.com/item?id=35795524) - [Value Oriented Programming Needs Implicits?](https://matklad.github.io/2023/05/02/implicits-for-mvs.html)
 * [2023-05-02, 23:05:10](https://news.ycombinator.com/item?id=35795388) - [News Minimalist - Only significant news. All signal, no noise](https://www.newsminimalist.com/)
 * [2023-05-02, 22:22:26](https://news.ycombinator.com/item?id=35795016) - [Nate Silver: Some personal news](https://natesilver.substack.com/p/some-personal-news)
 * [2023-05-02, 21:56:08](https://news.ycombinator.com/item?id=35794774) - [Argus – monitor the versions of software and trigger alerts when a new release](https://release-argus.io/)
