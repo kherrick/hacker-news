@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-02, 22:22:26](https://news.ycombinator.com/item?id=35795016) - [Nate Silver: Some personal news](https://natesilver.substack.com/p/some-personal-news)
 * [2023-05-02, 21:54:31](https://news.ycombinator.com/item?id=35794758) - [Cardinal&#x2F;WASM: In-Browser Modular Synth Based on VCV Rack](https://cardinal.kx.studio)
 * [2023-05-02, 20:50:34](https://news.ycombinator.com/item?id=35794010) - [LLM Hallucinations: why they occur and how to avoid them](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
 * [2023-05-02, 20:25:59](https://news.ycombinator.com/item?id=35793660) - [Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
@@ -28,6 +27,7 @@
 * [2023-05-02, 09:45:21](https://news.ycombinator.com/item?id=35785231) - [Some employers have decided to build their own housing for workers](https://www.npr.org/2023/05/02/1172301798/workers-affordable-housing-companies-building)
 * [2023-05-01, 16:58:23](https://news.ycombinator.com/item?id=35775646) - [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet)
 * [2023-05-01, 12:03:30](https://news.ycombinator.com/item?id=35771630) - [Unlocking North Korean songs on a karaoke machine](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
+* [2023-04-30, 17:49:33](https://news.ycombinator.com/item?id=35764864) - [Weekend hacking: wireless charging for a HP-25 calculator](https://partsbox.com/blog/wireless-charging-for-a-hp-25-calculator-05-2021.html)
 * [2023-04-30, 14:34:33](https://news.ycombinator.com/item?id=35762924) - [Gears (2020)](https://ciechanow.ski/gears/)
 * [2023-04-30, 13:59:36](https://news.ycombinator.com/item?id=35762589) - [Spinning the Decks and Startup Success: A Lesson from My DJ Days](https://cameronwestland.com/spinning-the-decks-and-startup-success-a-lesson-from-my-dj-days)
 

@@ -30,6 +30,7 @@
 * [2023-04-30, 18:42:11](https://news.ycombinator.com/item?id=35765373) - [AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
 * [2023-04-30, 18:20:33](https://news.ycombinator.com/item?id=35765177) - [The RISC Wars Part 1: The Cambrian Explosion](https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55)
 * [2023-04-30, 18:12:48](https://news.ycombinator.com/item?id=35765100) - [Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems](https://www.micahlerner.com/2023/04/16/perseus-a-fail-slow-detection-framework-for-cloud-storage-systems.html)
+* [2023-04-30, 17:49:33](https://news.ycombinator.com/item?id=35764864) - [Weekend hacking: wireless charging for a HP-25 calculator](https://partsbox.com/blog/wireless-charging-for-a-hp-25-calculator-05-2021.html)
 * [2023-04-30, 17:35:00](https://news.ycombinator.com/item?id=35764749) - [Alien Supercivilizations Absent from 100k Nearby Galaxies (2015)](https://www.scientificamerican.com/article/alien-supercivilizations-absent-from-100-000-nearby-galaxies1/)
 * [2023-04-30, 17:22:42](https://news.ycombinator.com/item?id=35764635) - [Show HN: The pure Python SaaS starter kit](https://pysaas.io)
 * [2023-04-30, 17:17:09](https://news.ycombinator.com/item?id=35764584) - [40 Years of Koyaanisqatsi](https://www.thecurb.com.au/40-years-of-koyaanisqatsi/)
