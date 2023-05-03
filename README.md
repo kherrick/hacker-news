@@ -5,7 +5,6 @@
 * [2023-05-03, 16:57:02](https://news.ycombinator.com/item?id=35804721) - [Steve Jobs and the Usable Computer (6 October 2011 by Tim Berners-Lee)](https://www.w3.org/blog/2011/10/steve-jobs/)
 * [2023-05-03, 16:44:19](https://news.ycombinator.com/item?id=35804556) - [SparseGPT: Language Models Can Be Accurately Pruned in One-Shot](https://arxiv.org/abs/2301.00774)
 * [2023-05-03, 16:18:51](https://news.ycombinator.com/item?id=35804220) - [Temporal .NET – Deterministic Workflow Authoring in .NET](https://temporal.io/blog/introducing-temporal-dotnet)
-* [2023-05-03, 15:51:43](https://news.ycombinator.com/item?id=35803869) - [White House proposes 30 percent tax on electricity used for crypto mining](https://www.engadget.com/white-house-proposes-30-percent-tax-on-electricity-used-for-crypto-mining-090342986.html)
 * [2023-05-03, 15:24:52](https://news.ycombinator.com/item?id=35803522) - [The Full Story of Large Language Models and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/)
 * [2023-05-03, 15:19:20](https://news.ycombinator.com/item?id=35803435) - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
 * [2023-05-03, 14:07:29](https://news.ycombinator.com/item?id=35802575) - [State of Private Markets: Q1 2023](https://carta.com/blog/state-of-private-markets-q1-2023/)
@@ -29,6 +28,7 @@
 * [2023-05-03, 00:03:26](https://news.ycombinator.com/item?id=35795975) - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
 * [2023-05-02, 11:33:39](https://news.ycombinator.com/item?id=35785978) - [Why champagne has stable “bubble chains” and other carbonated drinks do not](https://arstechnica.com/science/2023/05/physicists-unlock-secret-of-why-champagne-bubbles-form-straight-chain-as-they-rise/)
 * [2023-05-02, 08:59:07](https://news.ycombinator.com/item?id=35784961) - [Lactic Acid Bacteria as Markers for the Authentication of Swiss Cheeses](https://www.chimia.ch/chimia/article/view/2016_349/1089)
+* [2023-05-02, 03:28:05](https://news.ycombinator.com/item?id=35782975) - [The Kollsman Electric Tachometer Indicator](https://bikerglen.com/blog/the-kollsman-electric-tachometer-indicator/)
 * [2023-05-01, 11:58:41](https://news.ycombinator.com/item?id=35771587) - [What Is It Like to Be a Bat? (1974) [pdf]](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf)
 
 ## [Archives](archives/index.md)
