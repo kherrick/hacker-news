@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-03, 09:55:50](https://news.ycombinator.com/item?id=35800210) - [Amnesty International criticised for using AI-generated images](https://www.theguardian.com/world/2023/may/02/amnesty-international-ai-generated-images-criticism)
 * [2023-05-03, 09:47:15](https://news.ycombinator.com/item?id=35800158) - [MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 * [2023-05-03, 08:20:38](https://news.ycombinator.com/item?id=35799545) - [FBI Bureau Supervisor Arrested in Connection with Jan 6th Capitol Riot](https://www.nbcnews.com/politics/justice-department/fbi-says-former-agent-arrested-jan-6-called-officers-nazis-rcna82567)
 * [2023-05-03, 06:59:44](https://news.ycombinator.com/item?id=35799013) - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
@@ -29,7 +30,6 @@
 * [2023-05-01, 12:03:30](https://news.ycombinator.com/item?id=35771630) - [Unlocking North Korean songs on a karaoke machine](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
 * [2023-05-01, 07:44:27](https://news.ycombinator.com/item?id=35770079) - [Learning Some Logarithms](https://two-wrongs.com/learning-some-logarithms.html)
 * [2023-04-30, 17:49:33](https://news.ycombinator.com/item?id=35764864) - [Weekend hacking: wireless charging for a HP-25 calculator](https://partsbox.com/blog/wireless-charging-for-a-hp-25-calculator-05-2021.html)
-* [2023-04-30, 14:34:33](https://news.ycombinator.com/item?id=35762924) - [Gears (2020)](https://ciechanow.ski/gears/)
 
 ## [Archives](archives/index.md)
 
