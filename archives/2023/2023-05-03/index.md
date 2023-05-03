@@ -7,6 +7,7 @@
 * [2023-05-03, 17:00:03](https://news.ycombinator.com/item?id=35804779) - [Motion (YC W20) Is Hiring Front End and Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-05-03, 16:44:19](https://news.ycombinator.com/item?id=35804556) - [SparseGPT: Language Models Can Be Accurately Pruned in One-Shot](https://arxiv.org/abs/2301.00774)
 * [2023-05-03, 16:18:51](https://news.ycombinator.com/item?id=35804220) - [Temporal .NET – Deterministic Workflow Authoring in .NET](https://temporal.io/blog/introducing-temporal-dotnet)
+* [2023-05-03, 15:51:43](https://news.ycombinator.com/item?id=35803869) - [White House proposes 30 percent tax on electricity used for crypto mining](https://www.engadget.com/white-house-proposes-30-percent-tax-on-electricity-used-for-crypto-mining-090342986.html)
 * [2023-05-03, 15:32:30](https://news.ycombinator.com/item?id=35803624) - [Why “free” street parking could be costing you hundreds more in rent](https://www.washingtonpost.com/climate-environment/2023/05/02/eliminating-parking-minimums-liveable-cities/)
 * [2023-05-03, 15:24:52](https://news.ycombinator.com/item?id=35803522) - [The Full Story of Large Language Models and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/)
 * [2023-05-03, 15:24:04](https://news.ycombinator.com/item?id=35803511) - [Neverssl Uses SSL](https://twitter.com/NeverSSL/status/1456310362551164928)
