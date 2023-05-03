@@ -34,6 +34,7 @@
 * [2023-05-01, 20:00:52](https://news.ycombinator.com/item?id=35778333) - [Privacyguides.org – The guide to restoring your online privacy](https://www.privacyguides.org/en/)
 * [2023-05-01, 20:00:35](https://news.ycombinator.com/item?id=35778328) - [Show HN: guitos, a free open-source budgeting app](https://guitos.app/)
 * [2023-05-01, 19:54:13](https://news.ycombinator.com/item?id=35778241) - [Gender Gap in Chess](https://www.alexmolas.com/blog/chess-gender-gap/)
+* [2023-05-01, 19:33:59](https://news.ycombinator.com/item?id=35777950) - [Data-Informed Design Improvements](https://www.katsnyderux.com/post/using-design-sprints-for-data-informed-design-improvements)
 * [2023-05-01, 19:23:43](https://news.ycombinator.com/item?id=35777804) - [Mercury OS](https://www.mercuryos.com)
 * [2023-05-01, 18:18:47](https://news.ycombinator.com/item?id=35776907) - [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
 * [2023-05-01, 18:10:13](https://news.ycombinator.com/item?id=35776788) - [Environmentalists sue FAA over SpaceX Starship launch license for Texas](https://news.yahoo.com/environmentalists-sue-faa-over-spacex-164444196.html)
