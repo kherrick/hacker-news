@@ -17,6 +17,7 @@
 * [2023-05-03, 06:59:44](https://news.ycombinator.com/item?id=35799013) - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
 * [2023-05-03, 06:43:41](https://news.ycombinator.com/item?id=35798888) - [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
 * [2023-05-03, 05:05:19](https://news.ycombinator.com/item?id=35798239) - [Feynman’s Maze-Running Story](https://gwern.net/maze)
+* [2023-05-03, 04:19:11](https://news.ycombinator.com/item?id=35797954) - [The Second Freeway Revolt (2013)](https://www.foundsf.org/index.php?title=Second_Freeway_Revolt)
 * [2023-05-03, 00:03:26](https://news.ycombinator.com/item?id=35795975) - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
 * [2023-05-02, 23:05:10](https://news.ycombinator.com/item?id=35795388) - [News Minimalist – Only significant news](https://www.newsminimalist.com/)
 * [2023-05-02, 17:54:27](https://news.ycombinator.com/item?id=35791575) - [Eye Candy](https://eycndy.com)
@@ -27,7 +28,6 @@
 * [2023-05-02, 08:24:28](https://news.ycombinator.com/item?id=35784758) - [The Cairo Programming Language](https://cairo-book.github.io/ch00-00-introduction.html)
 * [2023-05-02, 07:46:18](https://news.ycombinator.com/item?id=35784537) - [Framework Laptop Cupholder Expansion Card](https://www.printables.com/model/467332-framework-laptop-cupholder-expansion-card)
 * [2023-05-02, 03:28:48](https://news.ycombinator.com/item?id=35782984) - [OKTO35 3D-Printed Analog Film Movie Camera](https://blazsemprimoznik.com/okto35/)
-* [2023-05-01, 16:58:23](https://news.ycombinator.com/item?id=35775646) - [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet)
 * [2023-05-01, 07:44:27](https://news.ycombinator.com/item?id=35770079) - [Learning Some Logarithms](https://two-wrongs.com/learning-some-logarithms.html)
 * [2023-04-30, 17:49:33](https://news.ycombinator.com/item?id=35764864) - [Weekend hacking: wireless charging for a HP-25 calculator](https://partsbox.com/blog/wireless-charging-for-a-hp-25-calculator-05-2021.html)
 
