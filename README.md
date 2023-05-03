@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-03, 14:21:41](https://news.ycombinator.com/item?id=35802730) - [Unity to lay off 8% of its workforce](https://www.cnbc.com/2023/05/03/unity-layoffs-company-to-cut-600-employees-or-8percent-of-its-workforce.html)
 * [2023-05-03, 14:18:46](https://news.ycombinator.com/item?id=35802698) - [Google, Microsoft CEOs Called to AI Meeting at White House](https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02/)
 * [2023-05-03, 14:07:29](https://news.ycombinator.com/item?id=35802575) - [State of Private Markets: Q1 2023](https://carta.com/blog/state-of-private-markets-q1-2023/)
 * [2023-05-03, 13:36:24](https://news.ycombinator.com/item?id=35802210) - [The Framework Laptop 13](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
@@ -15,10 +16,8 @@
 * [2023-05-03, 10:54:32](https://news.ycombinator.com/item?id=35800711) - [JavaScript import maps are now supported cross-browser](https://web.dev/import-maps-in-all-modern-browsers/)
 * [2023-05-03, 10:51:13](https://news.ycombinator.com/item?id=35800667) - [Beware of AI pseudoscience and snake oil](https://www.baldurbjarnason.com/2023/beware-of-ai-snake-oil/)
 * [2023-05-03, 10:32:10](https://news.ycombinator.com/item?id=35800492) - [It&#x27;s A(door)able](https://ncase.me/door/)
-* [2023-05-03, 10:17:37](https://news.ycombinator.com/item?id=35800376) - [The Windscale Fire: Britain&#x27;s &#x27;Chernobyl&#x27; (2019)](https://www.mirror.co.uk/news/uk-news/windscale-fire-britains-chernobyl-covered-15774677)
 * [2023-05-03, 09:47:15](https://news.ycombinator.com/item?id=35800158) - [MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 * [2023-05-03, 09:45:09](https://news.ycombinator.com/item?id=35800136) - [A Programmer&#x27;s Introduction to Mathematics](https://pimbook.org)
-* [2023-05-03, 06:59:44](https://news.ycombinator.com/item?id=35799013) - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
 * [2023-05-03, 06:43:41](https://news.ycombinator.com/item?id=35798888) - [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
 * [2023-05-03, 05:05:19](https://news.ycombinator.com/item?id=35798239) - [Feynman’s Maze-Running Story](https://gwern.net/maze)
 * [2023-05-03, 04:19:11](https://news.ycombinator.com/item?id=35797954) - [The Second Freeway Revolt (2013)](https://www.foundsf.org/index.php?title=Second_Freeway_Revolt)
@@ -29,6 +28,7 @@
 * [2023-05-02, 08:24:28](https://news.ycombinator.com/item?id=35784758) - [The Cairo Programming Language](https://cairo-book.github.io/ch00-00-introduction.html)
 * [2023-05-02, 07:46:18](https://news.ycombinator.com/item?id=35784537) - [Framework Laptop Cupholder Expansion Card](https://www.printables.com/model/467332-framework-laptop-cupholder-expansion-card)
 * [2023-05-02, 03:28:48](https://news.ycombinator.com/item?id=35782984) - [OKTO35 3D-Printed Analog Film Movie Camera](https://blazsemprimoznik.com/okto35/)
+* [2023-05-02, 03:28:05](https://news.ycombinator.com/item?id=35782975) - [The Kollsman Electric Tachometer Indicator](https://bikerglen.com/blog/the-kollsman-electric-tachometer-indicator/)
 * [2023-05-01, 07:44:27](https://news.ycombinator.com/item?id=35770079) - [Learning Some Logarithms](https://two-wrongs.com/learning-some-logarithms.html)
 
 ## [Archives](archives/index.md)
