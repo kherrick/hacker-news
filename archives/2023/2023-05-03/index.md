@@ -10,6 +10,7 @@
 * [2023-05-03, 10:32:10](https://news.ycombinator.com/item?id=35800492) - [It&#x27;s A(door)able](https://ncase.me/door/)
 * [2023-05-03, 10:17:37](https://news.ycombinator.com/item?id=35800376) - [The Windscale Fire: Britain&#x27;s &#x27;Chernobyl&#x27; (2019)](https://www.mirror.co.uk/news/uk-news/windscale-fire-britains-chernobyl-covered-15774677)
 * [2023-05-03, 10:01:13](https://news.ycombinator.com/item?id=35800242) - [Apple, Google partner on an industry specification to address unwanted tracking](https://www.apple.com/newsroom/2023/05/apple-google-partner-on-an-industry-specification-to-address-unwanted-tracking/)
+* [2023-05-03, 09:58:11](https://news.ycombinator.com/item?id=35800227) - [In the Grip of Necrocapitalism](https://tsakraklides.com/2023/05/03/in-the-grip-of-necrocapitalism/)
 * [2023-05-03, 09:55:50](https://news.ycombinator.com/item?id=35800210) - [Amnesty International criticised for using AI-generated images](https://www.theguardian.com/world/2023/may/02/amnesty-international-ai-generated-images-criticism)
 * [2023-05-03, 09:47:15](https://news.ycombinator.com/item?id=35800158) - [MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 * [2023-05-03, 09:45:09](https://news.ycombinator.com/item?id=35800136) - [A Programmer&#x27;s Introduction to Mathematics](https://pimbook.org)
