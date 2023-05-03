@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-03, 15:32:30](https://news.ycombinator.com/item?id=35803624) - [Why “free” street parking could be costing you hundreds more in rent](https://www.washingtonpost.com/climate-environment/2023/05/02/eliminating-parking-minimums-liveable-cities/)
 * [2023-05-03, 15:24:52](https://news.ycombinator.com/item?id=35803522) - [The Full Story of Large Language Models and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/)
 * [2023-05-03, 15:19:20](https://news.ycombinator.com/item?id=35803435) - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
-* [2023-05-03, 14:51:20](https://news.ycombinator.com/item?id=35803096) - [Web3&#x27;s fake version of Web history](https://davekarpf.substack.com/p/web3s-fake-version-of-the-history)
 * [2023-05-03, 14:21:41](https://news.ycombinator.com/item?id=35802730) - [Unity to lay off 8% of its workforce](https://www.cnbc.com/2023/05/03/unity-layoffs-company-to-cut-600-employees-or-8percent-of-its-workforce.html)
 * [2023-05-03, 14:07:29](https://news.ycombinator.com/item?id=35802575) - [State of Private Markets: Q1 2023](https://carta.com/blog/state-of-private-markets-q1-2023/)
 * [2023-05-03, 13:36:24](https://news.ycombinator.com/item?id=35802210) - [The Framework Laptop 13](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
