@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-03, 02:15:12](https://news.ycombinator.com/item?id=35796915) - [De-Dollarization Is Happening at a ‘Stunning’ Pace](https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says)
-* [2023-05-03, 00:51:48](https://news.ycombinator.com/item?id=35796333) - [Google DeepMind CEO Says Some Form of AGI Possible in a Few Years](https://www.wsj.com/articles/google-deepmind-ceo-says-some-form-of-agi-possible-in-a-few-years-2705f452)
 * [2023-05-03, 00:03:26](https://news.ycombinator.com/item?id=35795975) - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
 * [2023-05-02, 23:05:10](https://news.ycombinator.com/item?id=35795388) - [News Minimalist - Only significant news. All signal, no noise](https://www.newsminimalist.com/)
 * [2023-05-02, 21:54:31](https://news.ycombinator.com/item?id=35794758) - [Cardinal&#x2F;WASM: In-Browser Modular Synth Based on VCV Rack](https://cardinal.kx.studio)
@@ -21,8 +19,10 @@
 * [2023-05-02, 14:02:22](https://news.ycombinator.com/item?id=35787527) - [IBM AS&#x2F;400: Databases all the way down [video] (2019)](https://www.youtube.com/watch?v=CDSgJE5mPJM)
 * [2023-05-02, 13:56:53](https://news.ycombinator.com/item?id=35787454) - [Samsung bans use of A.I. like ChatGPT for employees](https://www.cnbc.com/2023/05/02/samsung-bans-use-of-ai-like-chatgpt-for-staff-after-misuse-of-chatbot.html)
 * [2023-05-02, 13:43:50](https://news.ycombinator.com/item?id=35787287) - [Is infinity an odd or even number? (2011)](https://math.stackexchange.com/questions/49034/is-infinity-an-odd-or-even-number)
+* [2023-05-02, 13:35:25](https://news.ycombinator.com/item?id=35787195) - [faulTPM: Exposing AMD fTPMs&#x27; Deepest Secrets](https://arxiv.org/abs/2304.14717)
 * [2023-05-02, 13:28:03](https://news.ycombinator.com/item?id=35787114) - [Red Canary Mac Monitor](https://redcanary.com/blog/mac-monitor/)
 * [2023-05-02, 13:25:23](https://news.ycombinator.com/item?id=35787080) - [Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://arstechnica.com/tech-policy/2023/05/judge-wont-force-reddit-to-identify-anonymous-users-who-discussed-piracy/)
+* [2023-05-02, 12:09:09](https://news.ycombinator.com/item?id=35786242) - [Show HN: Currl – A free text-based social bookmarking website](https://currl.io/)
 * [2023-05-02, 07:46:18](https://news.ycombinator.com/item?id=35784537) - [Framework Laptop Cupholder Expansion Card](https://www.printables.com/model/467332-framework-laptop-cupholder-expansion-card)
 * [2023-05-01, 22:10:00](https://news.ycombinator.com/item?id=35779902) - [Vercel Service Markup](https://service-markup.vercel.app)
 * [2023-05-01, 16:58:23](https://news.ycombinator.com/item?id=35775646) - [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet)
