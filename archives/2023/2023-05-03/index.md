@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 20:35:00](https://news.ycombinator.com/item?id=35807408) - [Searches for VPN Soar in Utah Amidst Pornhub Blockage](https://www.culturalcurrents.institute/insights/utah-pornhub-blocked)
 * [2023-05-03, 20:11:49](https://news.ycombinator.com/item?id=35807125) - [Angular v16 Is Here](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d?gi=59158dd70516)
 * [2023-05-03, 19:47:35](https://news.ycombinator.com/item?id=35806799) - [Electronic Music and the NeXTcube – Running Max on the Ircam Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
 * [2023-05-03, 19:47:31](https://news.ycombinator.com/item?id=35806796) - [New in Chrome 113](https://developer.chrome.com/blog/new-in-chrome-113/)
