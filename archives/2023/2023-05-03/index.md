@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 15:24:52](https://news.ycombinator.com/item?id=35803522) - [The Full Story of Large Language Models and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/)
 * [2023-05-03, 15:19:20](https://news.ycombinator.com/item?id=35803435) - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
 * [2023-05-03, 14:51:20](https://news.ycombinator.com/item?id=35803096) - [Web3&#x27;s fake version of Web history](https://davekarpf.substack.com/p/web3s-fake-version-of-the-history)
 * [2023-05-03, 14:21:41](https://news.ycombinator.com/item?id=35802730) - [Unity to lay off 8% of its workforce](https://www.cnbc.com/2023/05/03/unity-layoffs-company-to-cut-600-employees-or-8percent-of-its-workforce.html)
