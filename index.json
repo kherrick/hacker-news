@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-05-03, 12:01:03",
+      "https://news.ycombinator.com/item?id=35801293"
+    ],
+    [
+      "Haskell in Production: Standard Chartered",
+      "https://serokell.io/blog/haskell-in-production-standard-chartered"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 12:01:00",
+      "https://news.ycombinator.com/item?id=35801290"
+    ],
+    [
+      "Skio (Subscriptions for Shopify, ReCharge migrations) is hiring",
+      "https://skio.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 11:57:25",
+      "https://news.ycombinator.com/item?id=35801265"
+    ],
+    [
+      "The Skills Gap for Fortran Looms Large in HPC",
+      "https://www.nextplatform.com/2023/05/02/the-skills-gap-for-fortran-looms-large-in-hpc/"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 11:46:10",
+      "https://news.ycombinator.com/item?id=35801172"
+    ],
+    [
+      "James Webb Space Telescope detects water vapor around alien planet",
+      "https://www.space.com/james-webb-space-telescope-exoplanet-water-vapor-atmosphere-or-star"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 11:35:48",
+      "https://news.ycombinator.com/item?id=35801086"
+    ],
+    [
+      "A 16 bit computer simulated on circuitverse",
+      "https://circuitverse.org/users/4699/projects/femto-4v2-6-computer"
+    ]
+  ],
+  [
+    [
       "2023-05-03, 11:24:57",
       "https://news.ycombinator.com/item?id=35800988"
     ],
@@ -47,16 +97,6 @@
     [
       "The Windscale Fire: Britain&#x27;s &#x27;Chernobyl&#x27; (2019)",
       "https://www.mirror.co.uk/news/uk-news/windscale-fire-britains-chernobyl-covered-15774677"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 09:58:11",
-      "https://news.ycombinator.com/item?id=35800227"
-    ],
-    [
-      "In the Grip of Necrocapitalism",
-      "https://tsakraklides.com/2023/05/03/in-the-grip-of-necrocapitalism/"
     ]
   ],
   [
@@ -131,26 +171,6 @@
   ],
   [
     [
-      "2023-05-03, 02:15:12",
-      "https://news.ycombinator.com/item?id=35796915"
-    ],
-    [
-      "De-dollarization is happening at a ‘stunning’ pace",
-      "https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 00:51:48",
-      "https://news.ycombinator.com/item?id=35796333"
-    ],
-    [
-      "Google DeepMind CEO says some form of AGI possible in a few years",
-      "https://www.wsj.com/articles/google-deepmind-ceo-says-some-form-of-agi-possible-in-a-few-years-2705f452"
-    ]
-  ],
-  [
-    [
       "2023-05-03, 00:03:26",
       "https://news.ycombinator.com/item?id=35795975"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2023-05-02, 20:25:59",
-      "https://news.ycombinator.com/item?id=35793660"
-    ],
-    [
-      "Investigating Linux phantom disk reads",
-      "https://questdb.io/blog/investigating-linux-phantom-disk-reads/"
-    ]
-  ],
-  [
-    [
       "2023-05-02, 17:54:27",
       "https://news.ycombinator.com/item?id=35791575"
     ],
     [
       "Eye Candy",
       "https://eycndy.com"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 16:21:58",
-      "https://news.ycombinator.com/item?id=35789963"
-    ],
-    [
-      "Fakespot Is Acquired by Mozilla",
-      "https://www.fakespot.com/post/fakespot-acquired-by-mozilla"
     ]
   ],
   [
