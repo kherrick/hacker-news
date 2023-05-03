@@ -54,6 +54,7 @@
 * [2023-05-02, 12:17:57](https://news.ycombinator.com/item?id=35786297) - [OpenAI Threatens Popular GitHub Project with Lawsuit over API Use](https://www.tomshardware.com/news/openai-sends-shutdown-letter-to-gpt4free)
 * [2023-05-02, 12:10:42](https://news.ycombinator.com/item?id=35786251) - [22% jump in airfares expected as airlines tackle climate change](https://www.forbes.com/sites/alexledsom/2023/04/30/22-jump-in-airfares-expected-as-airlines-tackle-climate-change/)
 * [2023-05-02, 12:09:09](https://news.ycombinator.com/item?id=35786242) - [Show HN: Currl – A free text-based social bookmarking website](https://currl.io/)
+* [2023-05-02, 12:05:40](https://news.ycombinator.com/item?id=35786224) - [The Harmonium and its checkered history in India](https://maddy06.blogspot.com/2023/05/the-harmonium.html)
 * [2023-05-02, 11:56:03](https://news.ycombinator.com/item?id=35786162) - [Are mental health apps better or worse at privacy in 2023?](https://foundation.mozilla.org/en/privacynotincluded/articles/are-mental-health-apps-better-or-worse-at-privacy-in-2023/)
 * [2023-05-02, 11:53:34](https://news.ycombinator.com/item?id=35786143) - [AI Generated Propaganda](https://twitter.com/politicalmath/status/1653227309967482880)
 * [2023-05-02, 11:45:55](https://news.ycombinator.com/item?id=35786086) - [Adult website Pornhub blocks users in Utah from accessing the site](https://kslnewsradio.com/2003298/adult-website-pornhub-blocks-users-in-utah-from-accessing-the-site/)
