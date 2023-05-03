@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-03, 02:16:56](https://news.ycombinator.com/item?id=35796931) - [RIP HTTP](http://http.rip/)
 * [2023-05-03, 00:03:26](https://news.ycombinator.com/item?id=35795975) - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
 * [2023-05-02, 23:05:10](https://news.ycombinator.com/item?id=35795388) - [News Minimalist - Only significant news. All signal, no noise](https://www.newsminimalist.com/)
 * [2023-05-02, 21:54:31](https://news.ycombinator.com/item?id=35794758) - [Cardinal&#x2F;WASM: In-Browser Modular Synth Based on VCV Rack](https://cardinal.kx.studio)
@@ -22,7 +23,6 @@
 * [2023-05-02, 13:35:25](https://news.ycombinator.com/item?id=35787195) - [faulTPM: Exposing AMD fTPMs&#x27; Deepest Secrets](https://arxiv.org/abs/2304.14717)
 * [2023-05-02, 13:28:03](https://news.ycombinator.com/item?id=35787114) - [Red Canary Mac Monitor](https://redcanary.com/blog/mac-monitor/)
 * [2023-05-02, 13:25:23](https://news.ycombinator.com/item?id=35787080) - [Film studios lose bid to unmask Reddit users who wrote comments on piracy](https://arstechnica.com/tech-policy/2023/05/judge-wont-force-reddit-to-identify-anonymous-users-who-discussed-piracy/)
-* [2023-05-02, 12:09:09](https://news.ycombinator.com/item?id=35786242) - [Show HN: Currl – A free text-based social bookmarking website](https://currl.io/)
 * [2023-05-02, 07:46:18](https://news.ycombinator.com/item?id=35784537) - [Framework Laptop Cupholder Expansion Card](https://www.printables.com/model/467332-framework-laptop-cupholder-expansion-card)
 * [2023-05-01, 22:10:00](https://news.ycombinator.com/item?id=35779902) - [Vercel Service Markup](https://service-markup.vercel.app)
 * [2023-05-01, 16:58:23](https://news.ycombinator.com/item?id=35775646) - [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet)
