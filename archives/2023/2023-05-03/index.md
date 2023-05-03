@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 19:15:28](https://news.ycombinator.com/item?id=35806483) - [Is ChatGPT Securities Fraud?](https://www.bloomberg.com/opinion/articles/2023-05-03/is-chatgpt-securities-fraud)
+* [2023-05-03, 19:07:03](https://news.ycombinator.com/item?id=35806397) - [Unity lays off 600 staff members, prepares to close half of its offices](https://venturebeat.com/games/unity-lays-off-600-staff-members-prepares-to-close-half-of-its-offices/)
 * [2023-05-03, 18:37:56](https://news.ycombinator.com/item?id=35806035) - [Gmail is adding a blue checkmark to better verify senders](https://9to5google.com/2023/05/03/gmail-blue-checkmark/)
 * [2023-05-03, 18:28:51](https://news.ycombinator.com/item?id=35805913) - [Where’s the Director’s Commentary on Streaming?](https://www.theverge.com/23709897/directors-commentary-streaming-netflix-mike-flanagan-podcasts-vergecast)
 * [2023-05-03, 18:16:36](https://news.ycombinator.com/item?id=35805757) - [Federal Reserve pushes interest rates above 5% for first time since 2007](https://finance.yahoo.com/news/federal-reserve-interest-rate-decision-may-3-155524134.html)
