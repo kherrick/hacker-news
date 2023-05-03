@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-03, 07:30:15](https://news.ycombinator.com/item?id=35799221) - [Nordstrom to Close Both San Francisco Stores Amid Rampant Crime](https://news.yahoo.com/nordstrom-close-both-san-francisco-235623318.html)
 * [2023-05-03, 07:13:46](https://news.ycombinator.com/item?id=35799116) - [“All Tomorrow’s Parties”: AI Synthesis – The End of Copyright as We Knew It](https://www.heise.de/meinung/All-Tomorrow-s-Parties-AI-Synthesis-The-End-of-Copyright-as-We-Knew-It-8985282.html)
 * [2023-05-03, 06:43:41](https://news.ycombinator.com/item?id=35798888) - [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
 * [2023-05-03, 06:43:03](https://news.ycombinator.com/item?id=35798883) - [Americans Gaining Most Weight in Their 20s and 30s: What They Can Do](https://www.healthline.com/health-news/americans-gaining-most-weight-in-their-20s-and-30s-what-they-can-do)
@@ -18,7 +19,6 @@
 * [2023-05-02, 17:54:27](https://news.ycombinator.com/item?id=35791575) - [Eye Candy](https://eycndy.com)
 * [2023-05-02, 17:32:35](https://news.ycombinator.com/item?id=35791205) - [Building a Compiler with Multi-Level Intermediate Representation (MLIR) (2020) [pdf]](https://llvm.org/devmtg/2020-09/slides/MLIR_Tutorial.pdf)
 * [2023-05-02, 17:00:45](https://news.ycombinator.com/item?id=35790672) - [Sematic (YC S22) is hiring their first enterprise sales representative](https://www.ycombinator.com/companies/sematic/jobs/PG1oHuE-enterprise-sales-representative)
-* [2023-05-02, 16:29:36](https://news.ycombinator.com/item?id=35790092) - [Jsonformer: Generate structured output from LLMs](https://github.com/1rgs/jsonformer)
 * [2023-05-02, 14:02:22](https://news.ycombinator.com/item?id=35787527) - [IBM AS&#x2F;400: Databases all the way down [video] (2019)](https://www.youtube.com/watch?v=CDSgJE5mPJM)
 * [2023-05-02, 12:05:40](https://news.ycombinator.com/item?id=35786224) - [The Harmonium and its checkered history in India](https://maddy06.blogspot.com/2023/05/the-harmonium.html)
 * [2023-05-02, 08:12:11](https://news.ycombinator.com/item?id=35784705) - [What Is Type-Level Programming?](https://blog.sulami.xyz/posts/type-level-programming/)
