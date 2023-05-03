@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-03, 18:28:51](https://news.ycombinator.com/item?id=35805913) - [Where’s the Director’s Commentary on Streaming?](https://www.theverge.com/23709897/directors-commentary-streaming-netflix-mike-flanagan-podcasts-vergecast)
-* [2023-05-03, 17:57:47](https://news.ycombinator.com/item?id=35805530) - [SyBOS Is Hiring a German-Speaking VP of Engineering](https://www.sybos.net/)
+* [2023-05-03, 18:16:36](https://news.ycombinator.com/item?id=35805757) - [Federal Reserve pushes interest rates above 5% for first time since 2007](https://finance.yahoo.com/news/federal-reserve-interest-rate-decision-may-3-155524134.html)
 * [2023-05-03, 17:41:44](https://news.ycombinator.com/item?id=35805345) - [Brazilian frog might be the first pollinating amphibian known to science](https://www.science.org/content/article/brazilian-frog-might-be-first-pollinating-amphibian-known-science)
 * [2023-05-03, 17:11:47](https://news.ycombinator.com/item?id=35804935) - [How Does an FPGA Work?](https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all)
 * [2023-05-03, 17:00:03](https://news.ycombinator.com/item?id=35804779) - [Motion (YC W20) Is Hiring Front End and Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
@@ -15,6 +15,7 @@
 * [2023-05-03, 12:39:58](https://news.ycombinator.com/item?id=35801673) - [Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)
 * [2023-05-03, 12:13:23](https://news.ycombinator.com/item?id=35801392) - [Passkeys: The beginning of the end of the password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 * [2023-05-03, 12:01:03](https://news.ycombinator.com/item?id=35801293) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
+* [2023-05-03, 11:58:01](https://news.ycombinator.com/item?id=35801269) - [Show HN: Niui 3.0 – lightweight, rich, accessible front end](https://niui.dev)
 * [2023-05-03, 11:35:48](https://news.ycombinator.com/item?id=35801086) - [A 16 bit computer simulated on circuitverse](https://circuitverse.org/users/4699/projects/femto-4v2-6-computer)
 * [2023-05-03, 11:24:57](https://news.ycombinator.com/item?id=35800988) - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
 * [2023-05-03, 11:19:23](https://news.ycombinator.com/item?id=35800936) - [SNOBOL (“StriNg Oriented and SymBOlic Language”)](https://en.wikipedia.org/wiki/SNOBOL)
@@ -29,7 +30,6 @@
 * [2023-05-02, 14:40:15](https://news.ycombinator.com/item?id=35788191) - [UFOs Exist in the Low Information Zone](https://www.metabunk.org/threads/are-the-navy-ufos-real-or-just-in-the-low-information-zone-the-liz.10921/)
 * [2023-05-02, 11:36:32](https://news.ycombinator.com/item?id=35786004) - [Implementing remote procedure calls – Birrel and Nelson (1981) [pdf]](http://web.eecs.umich.edu/~mosharaf/Readings/RPC.pdf)
 * [2023-05-02, 11:33:39](https://news.ycombinator.com/item?id=35785978) - [Why champagne has stable “bubble chains” and other carbonated drinks do not](https://arstechnica.com/science/2023/05/physicists-unlock-secret-of-why-champagne-bubbles-form-straight-chain-as-they-rise/)
-* [2023-05-01, 11:58:41](https://news.ycombinator.com/item?id=35771587) - [What Is It Like to Be a Bat? (1974) [pdf]](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf)
 
 ## [Archives](archives/index.md)
 

@@ -6,6 +6,7 @@
 
 * [2023-05-03, 18:37:56](https://news.ycombinator.com/item?id=35806035) - [Gmail is adding a blue checkmark to better verify senders](https://9to5google.com/2023/05/03/gmail-blue-checkmark/)
 * [2023-05-03, 18:28:51](https://news.ycombinator.com/item?id=35805913) - [Where’s the Director’s Commentary on Streaming?](https://www.theverge.com/23709897/directors-commentary-streaming-netflix-mike-flanagan-podcasts-vergecast)
+* [2023-05-03, 18:16:36](https://news.ycombinator.com/item?id=35805757) - [Federal Reserve pushes interest rates above 5% for first time since 2007](https://finance.yahoo.com/news/federal-reserve-interest-rate-decision-may-3-155524134.html)
 * [2023-05-03, 18:09:23](https://news.ycombinator.com/item?id=35805673) - [Alan Sokal – The implicit epistemology of White Fragility](https://academic.oup.com/jope/advance-article/doi/10.1093/jopedu/qhad025/7148290)
 * [2023-05-03, 17:57:47](https://news.ycombinator.com/item?id=35805530) - [SyBOS Is Hiring a German-Speaking VP of Engineering](https://www.sybos.net/)
 * [2023-05-03, 17:41:44](https://news.ycombinator.com/item?id=35805345) - [Brazilian frog might be the first pollinating amphibian known to science](https://www.science.org/content/article/brazilian-frog-might-be-first-pollinating-amphibian-known-science)
