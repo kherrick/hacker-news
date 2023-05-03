@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 17:41:44](https://news.ycombinator.com/item?id=35805345) - [Brazilian frog might be the first pollinating amphibian known to science](https://www.science.org/content/article/brazilian-frog-might-be-first-pollinating-amphibian-known-science)
 * [2023-05-03, 17:11:47](https://news.ycombinator.com/item?id=35804935) - [How Does an FPGA Work?](https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all)
 * [2023-05-03, 17:02:23](https://news.ycombinator.com/item?id=35804808) - [25% of jobs set to be disrupted in the next 5 years – A.I. could play a key role](https://www.cnbc.com/2023/05/02/nearly-25percent-of-jobs-are-set-to-be-disrupted-in-the-next-five-years-wef.html)
 * [2023-05-03, 17:00:03](https://news.ycombinator.com/item?id=35804779) - [Motion (YC W20) Is Hiring Front End and Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
