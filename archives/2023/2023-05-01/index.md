@@ -86,6 +86,7 @@
 * [2023-05-01, 12:31:13](https://news.ycombinator.com/item?id=35771890) - [Heathkit](https://shop.heathkit.com/shop)
 * [2023-05-01, 12:03:30](https://news.ycombinator.com/item?id=35771630) - [Unlocking North Korean songs on a karaoke machine](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
 * [2023-05-01, 12:00:37](https://news.ycombinator.com/item?id=35771604) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/ff030eb9f23c01-ml-engineer-intern)
+* [2023-05-01, 11:58:41](https://news.ycombinator.com/item?id=35771587) - [What Is It Like to Be a Bat? (1974) [pdf]](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf)
 * [2023-05-01, 11:54:21](https://news.ycombinator.com/item?id=35771542) - [Composable Moderation](https://blueskyweb.xyz/blog/4-13-2023-moderation)
 * [2023-05-01, 11:53:59](https://news.ycombinator.com/item?id=35771538) - [I got a job as a Waffle House server that pays $2.92 an hour](https://www.businessinsider.com/what-its-like-to-work-at-waffle-house-2023-4)
 * [2023-05-01, 11:50:37](https://news.ycombinator.com/item?id=35771508) - [Geoffrey Hinton leaves Google and can now speak freely about his AI concern](https://www.theverge.com/2023/5/1/23706311/hinton-godfather-of-ai-threats-fears-warnings)
