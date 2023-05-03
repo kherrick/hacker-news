@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 12:01:03](https://news.ycombinator.com/item?id=35801293) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
+* [2023-05-03, 12:01:00](https://news.ycombinator.com/item?id=35801290) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
+* [2023-05-03, 11:57:25](https://news.ycombinator.com/item?id=35801265) - [The Skills Gap for Fortran Looms Large in HPC](https://www.nextplatform.com/2023/05/02/the-skills-gap-for-fortran-looms-large-in-hpc/)
+* [2023-05-03, 11:46:10](https://news.ycombinator.com/item?id=35801172) - [James Webb Space Telescope detects water vapor around alien planet](https://www.space.com/james-webb-space-telescope-exoplanet-water-vapor-atmosphere-or-star)
+* [2023-05-03, 11:35:48](https://news.ycombinator.com/item?id=35801086) - [A 16 bit computer simulated on circuitverse](https://circuitverse.org/users/4699/projects/femto-4v2-6-computer)
 * [2023-05-03, 11:24:57](https://news.ycombinator.com/item?id=35800988) - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
 * [2023-05-03, 10:54:32](https://news.ycombinator.com/item?id=35800711) - [JavaScript import maps are now supported cross-browser](https://web.dev/import-maps-in-all-modern-browsers/)
 * [2023-05-03, 10:51:13](https://news.ycombinator.com/item?id=35800667) - [Beware of AI pseudoscience and snake oil](https://www.baldurbjarnason.com/2023/beware-of-ai-snake-oil/)
