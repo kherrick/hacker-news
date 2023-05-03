@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-03, 16:18:51",
+      "https://news.ycombinator.com/item?id=35804220"
+    ],
+    [
+      "Temporal .NET – Deterministic Workflow Authoring in .NET",
+      "https://temporal.io/blog/introducing-temporal-dotnet"
+    ]
+  ],
+  [
+    [
       "2023-05-03, 15:32:30",
       "https://news.ycombinator.com/item?id=35803624"
     ],
@@ -21,32 +31,22 @@
   ],
   [
     [
+      "2023-05-03, 15:24:04",
+      "https://news.ycombinator.com/item?id=35803511"
+    ],
+    [
+      "Neverssl Uses SSL",
+      "https://twitter.com/NeverSSL/status/1456310362551164928"
+    ]
+  ],
+  [
+    [
       "2023-05-03, 15:19:20",
       "https://news.ycombinator.com/item?id=35803435"
     ],
     [
       "Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week",
       "https://www.latent.space/p/reza-shabani#details"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 14:51:20",
-      "https://news.ycombinator.com/item?id=35803096"
-    ],
-    [
-      "Web3&#x27;s fake version of Web history",
-      "https://davekarpf.substack.com/p/web3s-fake-version-of-the-history"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 14:21:41",
-      "https://news.ycombinator.com/item?id=35802730"
-    ],
-    [
-      "Unity to lay off 8% of its workforce",
-      "https://www.cnbc.com/2023/05/03/unity-layoffs-company-to-cut-600-employees-or-8percent-of-its-workforce.html"
     ]
   ],
   [
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35801392"
     ],
     [
-      "Passkeys: The Beginning of the End of the Password",
+      "Passkeys: The beginning of the end of the password",
       "https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/"
     ]
   ],
@@ -171,22 +171,22 @@
   ],
   [
     [
-      "2023-05-03, 10:51:13",
-      "https://news.ycombinator.com/item?id=35800667"
-    ],
-    [
-      "Beware of AI pseudoscience and snake oil",
-      "https://www.baldurbjarnason.com/2023/beware-of-ai-snake-oil/"
-    ]
-  ],
-  [
-    [
       "2023-05-03, 10:32:10",
       "https://news.ycombinator.com/item?id=35800492"
     ],
     [
       "It&#x27;s A(door)able",
       "https://ncase.me/door/"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 10:17:37",
+      "https://news.ycombinator.com/item?id=35800376"
+    ],
+    [
+      "The Windscale Fire: Britain&#x27;s &#x27;Chernobyl&#x27; (2019)",
+      "https://www.mirror.co.uk/news/uk-news/windscale-fire-britains-chernobyl-covered-15774677"
     ]
   ],
   [
@@ -207,6 +207,16 @@
     [
       "A Programmer&#x27;s Introduction to Mathematics",
       "https://pimbook.org"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 06:59:44",
+      "https://news.ycombinator.com/item?id=35799013"
+    ],
+    [
+      "Rules of thumb for software development estimations",
+      "https://vadimkravcenko.com/shorts/project-estimates/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Bank Failures Visualized",
       "https://observablehq.com/@mbostock/bank-failures"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 15:28:00",
-      "https://news.ycombinator.com/item?id=35789057"
-    ],
-    [
-      "What Cheetahs, Armadillos and Whales Revealed About Human DNA",
-      "https://www.nytimes.com/2023/04/27/science/human-dna-genomes.html"
     ]
   ],
   [
