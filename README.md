@@ -1,11 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-03, 18:09:23](https://news.ycombinator.com/item?id=35805673) - [Alan Sokal – The implicit epistemology of White Fragility](https://academic.oup.com/jope/advance-article/doi/10.1093/jopedu/qhad025/7148290)
 * [2023-05-03, 17:41:44](https://news.ycombinator.com/item?id=35805345) - [Brazilian frog might be the first pollinating amphibian known to science](https://www.science.org/content/article/brazilian-frog-might-be-first-pollinating-amphibian-known-science)
 * [2023-05-03, 17:11:47](https://news.ycombinator.com/item?id=35804935) - [How Does an FPGA Work?](https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all)
-* [2023-05-03, 17:02:23](https://news.ycombinator.com/item?id=35804808) - [25% of jobs set to be disrupted in the next 5 years – A.I. could play a key role](https://www.cnbc.com/2023/05/02/nearly-25percent-of-jobs-are-set-to-be-disrupted-in-the-next-five-years-wef.html)
 * [2023-05-03, 17:00:03](https://news.ycombinator.com/item?id=35804779) - [Motion (YC W20) Is Hiring Front End and Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-* [2023-05-03, 16:59:07](https://news.ycombinator.com/item?id=35804759) - [Three failed US banks had one thing in common: KPMG](https://www.ft.com/content/feb33914-493e-467c-b67e-28fcd1b3814d)
 * [2023-05-03, 16:57:02](https://news.ycombinator.com/item?id=35804721) - [Steve Jobs and the Usable Computer (6 October 2011 by Tim Berners-Lee)](https://www.w3.org/blog/2011/10/steve-jobs/)
 * [2023-05-03, 16:44:19](https://news.ycombinator.com/item?id=35804556) - [SparseGPT: Language Models Can Be Accurately Pruned in One-Shot](https://arxiv.org/abs/2301.00774)
 * [2023-05-03, 16:18:51](https://news.ycombinator.com/item?id=35804220) - [Temporal .NET – Deterministic Workflow Authoring in .NET](https://temporal.io/blog/introducing-temporal-dotnet)
@@ -27,8 +24,11 @@
 * [2023-05-03, 09:45:09](https://news.ycombinator.com/item?id=35800136) - [A Programmer&#x27;s Introduction to Mathematics](https://pimbook.org)
 * [2023-05-03, 06:59:44](https://news.ycombinator.com/item?id=35799013) - [Rules of thumb for software development estimations](https://vadimkravcenko.com/shorts/project-estimates/)
 * [2023-05-03, 06:43:41](https://news.ycombinator.com/item?id=35798888) - [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
+* [2023-05-03, 05:05:19](https://news.ycombinator.com/item?id=35798239) - [Feynman’s Maze-Running Story](https://gwern.net/maze)
+* [2023-05-03, 00:03:26](https://news.ycombinator.com/item?id=35795975) - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
 * [2023-05-02, 11:36:32](https://news.ycombinator.com/item?id=35786004) - [Implementing remote procedure calls – Birrel and Nelson (1981) [pdf]](http://web.eecs.umich.edu/~mosharaf/Readings/RPC.pdf)
 * [2023-05-02, 11:33:39](https://news.ycombinator.com/item?id=35785978) - [Why champagne has stable “bubble chains” and other carbonated drinks do not](https://arstechnica.com/science/2023/05/physicists-unlock-secret-of-why-champagne-bubbles-form-straight-chain-as-they-rise/)
+* [2023-05-02, 08:59:07](https://news.ycombinator.com/item?id=35784961) - [Lactic Acid Bacteria as Markers for the Authentication of Swiss Cheeses](https://www.chimia.ch/chimia/article/view/2016_349/1089)
 * [2023-05-01, 11:58:41](https://news.ycombinator.com/item?id=35771587) - [What Is It Like to Be a Bat? (1974) [pdf]](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf)
 
 ## [Archives](archives/index.md)
