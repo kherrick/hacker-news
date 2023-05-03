@@ -3,6 +3,7 @@
 * [2023-05-03, 21:20:45](https://news.ycombinator.com/item?id=35807957) - [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)
 * [2023-05-03, 21:20:18](https://news.ycombinator.com/item?id=35807951) - [Wearing an eye mask during sleep improves episodic learning and alertness](https://pubmed.ncbi.nlm.nih.gov/36521010/)
 * [2023-05-03, 20:54:32](https://news.ycombinator.com/item?id=35807660) - [Measured typing latency of popular terminal emulators](https://tomscii.sig7.se/2021/01/Typing-latency-of-Zutty)
+* [2023-05-03, 20:52:41](https://news.ycombinator.com/item?id=35807639) - [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf)
 * [2023-05-03, 20:41:43](https://news.ycombinator.com/item?id=35807489) - [Is Perpetual Motion Possible at the Quantum Level?](https://www.quantamagazine.org/is-perpetual-motion-possible-at-the-quantum-level-20230503/)
 * [2023-05-03, 20:35:00](https://news.ycombinator.com/item?id=35807408) - [Searches for VPN Soar in Utah Amidst Pornhub Blockage](https://www.culturalcurrents.institute/insights/utah-pornhub-blocked)
 * [2023-05-03, 19:47:31](https://news.ycombinator.com/item?id=35806796) - [New in Chrome 113](https://developer.chrome.com/blog/new-in-chrome-113/)
@@ -24,12 +25,11 @@
 * [2023-05-03, 11:24:57](https://news.ycombinator.com/item?id=35800988) - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
 * [2023-05-03, 10:54:32](https://news.ycombinator.com/item?id=35800711) - [JavaScript import maps are now supported cross-browser](https://web.dev/import-maps-in-all-modern-browsers/)
 * [2023-05-03, 10:32:10](https://news.ycombinator.com/item?id=35800492) - [It&#x27;s A(door)able](https://ncase.me/door/)
-* [2023-05-03, 09:47:15](https://news.ycombinator.com/item?id=35800158) - [MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 * [2023-05-03, 09:45:09](https://news.ycombinator.com/item?id=35800136) - [A Programmer&#x27;s Introduction to Mathematics](https://pimbook.org)
+* [2023-05-03, 01:51:15](https://news.ycombinator.com/item?id=35796744) - [Human Thinking vs. Parser Thinking (2016)](https://dannysu.com/2016/05/12/human-thinking-vs-parser-thinking/)
 * [2023-05-03, 01:14:38](https://news.ycombinator.com/item?id=35796478) - [The Poet and the Tyrant: Osip Mandelstam](https://literaryreview.co.uk/the-poet-the-tyrant)
 * [2023-05-02, 19:16:15](https://news.ycombinator.com/item?id=35792705) - [Disappearing Act: The working life of Haruki Murakami](https://www.thenation.com/article/culture/haruki-murakami-novelist-vocation/)
 * [2023-05-02, 13:28:42](https://news.ycombinator.com/item?id=35787119) - [Like the macOS Dock but for macOS System 7](https://github.com/retrospectmike/MacDock)
-* [2023-05-01, 11:58:41](https://news.ycombinator.com/item?id=35771587) - [What is it like to be a bat? (1974) [pdf]](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf)
 
 ## [Archives](archives/index.md)
 
