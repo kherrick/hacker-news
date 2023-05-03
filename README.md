@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-03, 13:52:44](https://news.ycombinator.com/item?id=35802411) - [How America’s Obsession with DEI Is Sabotaging Our Medical Schools](https://www.thefp.com/p/how-americas-obsession-with-dei-is)
 * [2023-05-03, 12:13:23](https://news.ycombinator.com/item?id=35801392) - [Passkeys: The Beginning of the End of the Password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 * [2023-05-03, 12:01:03](https://news.ycombinator.com/item?id=35801293) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
 * [2023-05-03, 12:01:00](https://news.ycombinator.com/item?id=35801290) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
-* [2023-05-03, 11:57:25](https://news.ycombinator.com/item?id=35801265) - [The Skills Gap for Fortran Looms Large in HPC](https://www.nextplatform.com/2023/05/02/the-skills-gap-for-fortran-looms-large-in-hpc/)
 * [2023-05-03, 11:46:10](https://news.ycombinator.com/item?id=35801172) - [James Webb Space Telescope detects water vapor around alien planet](https://www.space.com/james-webb-space-telescope-exoplanet-water-vapor-atmosphere-or-star)
 * [2023-05-03, 11:35:48](https://news.ycombinator.com/item?id=35801086) - [A 16 bit computer simulated on circuitverse](https://circuitverse.org/users/4699/projects/femto-4v2-6-computer)
 * [2023-05-03, 11:24:57](https://news.ycombinator.com/item?id=35800988) - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
@@ -15,7 +15,6 @@
 * [2023-05-03, 09:55:50](https://news.ycombinator.com/item?id=35800210) - [Amnesty International criticised for using AI-generated images](https://www.theguardian.com/world/2023/may/02/amnesty-international-ai-generated-images-criticism)
 * [2023-05-03, 09:47:15](https://news.ycombinator.com/item?id=35800158) - [MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 * [2023-05-03, 09:45:09](https://news.ycombinator.com/item?id=35800136) - [A Programmer&#x27;s Introduction to Mathematics](https://pimbook.org)
-* [2023-05-03, 09:35:58](https://news.ycombinator.com/item?id=35800072) - [Arc Will Change the Way You Work on the Web](https://tidbits.com/2023/05/01/arc-will-change-the-way-you-work-on-the-web/)
 * [2023-05-03, 06:59:44](https://news.ycombinator.com/item?id=35799013) - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
 * [2023-05-03, 06:43:41](https://news.ycombinator.com/item?id=35798888) - [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
 * [2023-05-03, 05:05:19](https://news.ycombinator.com/item?id=35798239) - [Feynman’s Maze-Running Story](https://gwern.net/maze)
@@ -29,6 +28,7 @@
 * [2023-05-02, 08:24:28](https://news.ycombinator.com/item?id=35784758) - [The Cairo Programming Language](https://cairo-book.github.io/ch00-00-introduction.html)
 * [2023-05-02, 07:46:18](https://news.ycombinator.com/item?id=35784537) - [Framework Laptop Cupholder Expansion Card](https://www.printables.com/model/467332-framework-laptop-cupholder-expansion-card)
 * [2023-05-02, 03:28:48](https://news.ycombinator.com/item?id=35782984) - [OKTO35 3D-Printed Analog Film Movie Camera](https://blazsemprimoznik.com/okto35/)
+* [2023-05-02, 03:28:05](https://news.ycombinator.com/item?id=35782975) - [The Kollsman Electric Tachometer Indicator](https://bikerglen.com/blog/the-kollsman-electric-tachometer-indicator/)
 * [2023-05-01, 07:44:27](https://news.ycombinator.com/item?id=35770079) - [Learning Some Logarithms](https://two-wrongs.com/learning-some-logarithms.html)
 
 ## [Archives](archives/index.md)
