@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 23:17:24](https://news.ycombinator.com/item?id=35809144) - [Get a Tesla if you want to learn about AI trying to kill you, says Steve Wozniak](https://electrek.co/2023/05/03/tesla-ai-trying-to-kill-you-steve-wozniak/)
+* [2023-05-03, 23:11:31](https://news.ycombinator.com/item?id=35809082) - [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
 * [2023-05-03, 21:20:45](https://news.ycombinator.com/item?id=35807957) - [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)
 * [2023-05-03, 21:20:18](https://news.ycombinator.com/item?id=35807951) - [Wearing an eye mask during sleep improves episodic learning and alertness](https://pubmed.ncbi.nlm.nih.gov/36521010/)
 * [2023-05-03, 20:54:32](https://news.ycombinator.com/item?id=35807660) - [Measured typing latency of popular terminal emulators](https://tomscii.sig7.se/2021/01/Typing-latency-of-Zutty)
 * [2023-05-03, 20:52:41](https://news.ycombinator.com/item?id=35807639) - [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf)
 * [2023-05-03, 20:41:43](https://news.ycombinator.com/item?id=35807489) - [Is Perpetual Motion Possible at the Quantum Level?](https://www.quantamagazine.org/is-perpetual-motion-possible-at-the-quantum-level-20230503/)
+* [2023-05-03, 20:37:55](https://news.ycombinator.com/item?id=35807444) - [Protect your art against AI&#x2F;machine learning theft with customizable watermarks](https://rgbwatermark.net)
 * [2023-05-03, 20:35:00](https://news.ycombinator.com/item?id=35807408) - [Searches for VPN Soar in Utah Amidst Pornhub Blockage](https://www.culturalcurrents.institute/insights/utah-pornhub-blocked)
 * [2023-05-03, 20:11:49](https://news.ycombinator.com/item?id=35807125) - [Angular v16 Is Here](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d?gi=59158dd70516)
 * [2023-05-03, 19:47:35](https://news.ycombinator.com/item?id=35806799) - [Electronic Music and the NeXTcube – Running Max on the Ircam Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
