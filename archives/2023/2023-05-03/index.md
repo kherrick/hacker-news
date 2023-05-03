@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
 * [2023-05-03, 13:52:44](https://news.ycombinator.com/item?id=35802411) - [How America’s Obsession with DEI Is Sabotaging Our Medical Schools](https://www.thefp.com/p/how-americas-obsession-with-dei-is)
+* [2023-05-03, 13:36:24](https://news.ycombinator.com/item?id=35802210) - [The Framework Laptop 13](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
 * [2023-05-03, 12:13:23](https://news.ycombinator.com/item?id=35801392) - [Passkeys: The Beginning of the End of the Password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 * [2023-05-03, 12:01:03](https://news.ycombinator.com/item?id=35801293) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
 * [2023-05-03, 12:01:00](https://news.ycombinator.com/item?id=35801290) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
