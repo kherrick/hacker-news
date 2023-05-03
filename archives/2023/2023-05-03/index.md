@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 09:47:15](https://news.ycombinator.com/item?id=35800158) - [MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 * [2023-05-03, 08:45:42](https://news.ycombinator.com/item?id=35799691) - [A professor found her name on an article she didn’t write. Then it got worse](https://retractionwatch.com/2023/04/18/a-professor-found-her-name-on-an-article-she-didnt-write-then-it-got-worse/)
 * [2023-05-03, 08:31:40](https://news.ycombinator.com/item?id=35799609) - [UK Campaigning to replace the Monarchy with an elected head of state](https://twitter.com/RepublicStaff)
 * [2023-05-03, 08:30:47](https://news.ycombinator.com/item?id=35799605) - [Ask HN: Why are there no 5G USB-C dongles for laptops?](https://news.ycombinator.com/item?id=35799605)
