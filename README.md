@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-03, 23:17:24](https://news.ycombinator.com/item?id=35809144) - [Get a Tesla if you want to learn about AI trying to kill you, says Steve Wozniak](https://electrek.co/2023/05/03/tesla-ai-trying-to-kill-you-steve-wozniak/)
 * [2023-05-03, 23:11:31](https://news.ycombinator.com/item?id=35809082) - [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
 * [2023-05-03, 21:20:45](https://news.ycombinator.com/item?id=35807957) - [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)
 * [2023-05-03, 21:20:18](https://news.ycombinator.com/item?id=35807951) - [Wearing an eye mask during sleep improves episodic learning and alertness](https://pubmed.ncbi.nlm.nih.gov/36521010/)
@@ -22,6 +21,7 @@
 * [2023-05-03, 15:19:20](https://news.ycombinator.com/item?id=35803435) - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
 * [2023-05-03, 14:07:29](https://news.ycombinator.com/item?id=35802575) - [State of Private Markets: Q1 2023](https://carta.com/blog/state-of-private-markets-q1-2023/)
 * [2023-05-03, 12:13:23](https://news.ycombinator.com/item?id=35801392) - [Passkeys: The beginning of the end of the password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
+* [2023-05-03, 11:57:25](https://news.ycombinator.com/item?id=35801265) - [The skills gap for Fortran looms large in HPC](https://www.nextplatform.com/2023/05/02/the-skills-gap-for-fortran-looms-large-in-hpc/)
 * [2023-05-03, 11:24:57](https://news.ycombinator.com/item?id=35800988) - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
 * [2023-05-03, 10:54:32](https://news.ycombinator.com/item?id=35800711) - [JavaScript import maps are now supported cross-browser](https://web.dev/import-maps-in-all-modern-browsers/)
 * [2023-05-03, 10:32:10](https://news.ycombinator.com/item?id=35800492) - [It&#x27;s A(door)able](https://ncase.me/door/)
