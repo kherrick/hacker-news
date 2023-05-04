@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-04, 14:06:57](https://news.ycombinator.com/item?id=35815538) - [Europeans drain billions from banks, fed up with shrinking savings](https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04/)
-* [2023-05-04, 13:47:57](https://news.ycombinator.com/item?id=35815266) - [Land Ownership Makes No Sense](https://www.wired.com/story/land-ownership-morality-economics-georgism/)
+* [2023-05-04, 13:56:57](https://news.ycombinator.com/item?id=35815396) - [The UK’s tortured attempt to remake the internet](https://www.theverge.com/23708180/united-kingdom-online-safety-bill-explainer-legal-pornography-age-checks)
 * [2023-05-04, 13:26:04](https://news.ycombinator.com/item?id=35814945) - [California’s population declines, again, as state grapples with housing crisis](https://www.theguardian.com/us-news/2023/may/03/california-population-decline-states)
 * [2023-05-04, 13:10:19](https://news.ycombinator.com/item?id=35814701) - [Google, Meta executives push back against Canada online news bill](https://www.reuters.com/business/media-telecom/canada-online-news-bill-is-unreasonable-google-executive-says-2023-05-03/)
 * [2023-05-04, 13:00:28](https://news.ycombinator.com/item?id=35814575) - [Hue Light Hack](https://www.atomic14.com/2023/05/04/hue-light-hacking.html)
@@ -24,8 +24,8 @@
 * [2023-05-04, 00:18:14](https://news.ycombinator.com/item?id=35809658) - [Mojo might be the biggest thing to happen in programming for decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 * [2023-05-04, 00:06:24](https://news.ycombinator.com/item?id=35809570) - [The money spent on lotteries doesn’t go to the park](https://outdoorstatus.com/articles/recreation-gov-lottery-fees/)
 * [2023-05-03, 23:45:23](https://news.ycombinator.com/item?id=35809397) - [The first empirical study of the real-world economic effects of new AI systems](https://www.npr.org/sections/money/2023/05/02/1172791281/this-company-adopted-ai-heres-what-happened-to-its-human-workers)
+* [2023-05-03, 23:35:15](https://news.ycombinator.com/item?id=35809302) - [Hacker News Highlights](https://news.ycombinator.com/highlights)
 * [2023-05-03, 22:34:02](https://news.ycombinator.com/item?id=35808710) - [Agile soccer skills for a bipedal robot with deep reinforcement learning](https://twitter.com/haarnoja/status/1651577815836270596)
-* [2023-05-03, 15:19:20](https://news.ycombinator.com/item?id=35803435) - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
 * [2023-05-03, 09:29:39](https://news.ycombinator.com/item?id=35800023) - [The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)
 * [2023-05-02, 10:13:59](https://news.ycombinator.com/item?id=35785421) - [How Quickwit Rust Actor Framework tackles the challenges of efficient indexing](https://quickwit.io/blog/quickwit-actor-framework/)
 * [2023-05-02, 05:56:54](https://news.ycombinator.com/item?id=35783872) - [Building an Intel 8008 Computer “Clock” (2006)](https://www.8008chron.com)
