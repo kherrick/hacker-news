@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 23:35:15](https://news.ycombinator.com/item?id=35809302) - [Hacker News Highlights](https://news.ycombinator.com/highlights)
 * [2023-05-03, 23:17:24](https://news.ycombinator.com/item?id=35809144) - [Get a Tesla if you want to learn about AI trying to kill you, says Steve Wozniak](https://electrek.co/2023/05/03/tesla-ai-trying-to-kill-you-steve-wozniak/)
 * [2023-05-03, 23:11:31](https://news.ycombinator.com/item?id=35809082) - [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
 * [2023-05-03, 22:52:02](https://news.ycombinator.com/item?id=35808899) - [What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
+* [2023-05-03, 22:10:18](https://news.ycombinator.com/item?id=35808485) - [TOTP Authentication with Free Software](https://lwn.net/Articles/925870/)
 * [2023-05-03, 21:20:45](https://news.ycombinator.com/item?id=35807957) - [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)
 * [2023-05-03, 21:20:18](https://news.ycombinator.com/item?id=35807951) - [Wearing an eye mask during sleep improves episodic learning and alertness](https://pubmed.ncbi.nlm.nih.gov/36521010/)
 * [2023-05-03, 20:54:32](https://news.ycombinator.com/item?id=35807660) - [Measured typing latency of popular terminal emulators](https://tomscii.sig7.se/2021/01/Typing-latency-of-Zutty)
