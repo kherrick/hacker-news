@@ -71,6 +71,7 @@
 * [2023-05-03, 10:51:13](https://news.ycombinator.com/item?id=35800667) - [Beware of AI pseudoscience and snake oil](https://www.baldurbjarnason.com/2023/beware-of-ai-snake-oil/)
 * [2023-05-03, 10:34:01](https://news.ycombinator.com/item?id=35800508) - [FET: The Friendly Efficient Transistor](https://hackaday.com/2023/04/25/fet-the-friendly-efficient-transistor/)
 * [2023-05-03, 10:32:10](https://news.ycombinator.com/item?id=35800492) - [It&#x27;s A(door)able](https://ncase.me/door/)
+* [2023-05-03, 10:18:04](https://news.ycombinator.com/item?id=35800380) - [Electronic Music and the NeXTcube – Running Max on the Ircam Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
 * [2023-05-03, 10:17:37](https://news.ycombinator.com/item?id=35800376) - [The Windscale Fire: Britain&#x27;s &#x27;Chernobyl&#x27; (2019)](https://www.mirror.co.uk/news/uk-news/windscale-fire-britains-chernobyl-covered-15774677)
 * [2023-05-03, 10:01:13](https://news.ycombinator.com/item?id=35800242) - [Apple, Google partner on an industry specification to address unwanted tracking](https://www.apple.com/newsroom/2023/05/apple-google-partner-on-an-industry-specification-to-address-unwanted-tracking/)
 * [2023-05-03, 09:58:11](https://news.ycombinator.com/item?id=35800227) - [In the Grip of Necrocapitalism](https://tsakraklides.com/2023/05/03/in-the-grip-of-necrocapitalism/)
