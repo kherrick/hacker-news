@@ -27,7 +27,7 @@
 * [2023-05-03, 15:19:20](https://news.ycombinator.com/item?id=35803435) - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
 * [2023-05-03, 10:34:01](https://news.ycombinator.com/item?id=35800508) - [FET: The Friendly Efficient Transistor](https://hackaday.com/2023/04/25/fet-the-friendly-efficient-transistor/)
 * [2023-05-03, 10:32:10](https://news.ycombinator.com/item?id=35800492) - [It&#x27;s A(door)able](https://ncase.me/door/)
-* [2023-05-02, 21:56:08](https://news.ycombinator.com/item?id=35794774) - [Argus – monitor the versions of software and trigger alerts when a new release](https://release-argus.io/)
+* [2023-05-03, 07:10:29](https://news.ycombinator.com/item?id=35799091) - [Nanoimprint Finally Finds Its Footing](https://semiengineering.com/nanoimprint-finds-its-footing-in-photonics/)
 * [2023-05-02, 19:16:15](https://news.ycombinator.com/item?id=35792705) - [Disappearing Act: The working life of Haruki Murakami](https://www.thenation.com/article/culture/haruki-murakami-novelist-vocation/)
 * [2023-05-02, 13:28:42](https://news.ycombinator.com/item?id=35787119) - [Like the macOS Dock but for macOS System 7](https://github.com/retrospectmike/MacDock)
 

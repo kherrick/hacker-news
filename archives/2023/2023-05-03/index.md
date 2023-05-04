@@ -82,6 +82,7 @@
 * [2023-05-03, 08:20:38](https://news.ycombinator.com/item?id=35799545) - [FBI Bureau Supervisor Arrested in Connection with Jan 6th Capitol Riot](https://www.nbcnews.com/politics/justice-department/fbi-says-former-agent-arrested-jan-6-called-officers-nazis-rcna82567)
 * [2023-05-03, 07:30:15](https://news.ycombinator.com/item?id=35799221) - [Nordstrom to Close Both San Francisco Stores Amid Rampant Crime](https://news.yahoo.com/nordstrom-close-both-san-francisco-235623318.html)
 * [2023-05-03, 07:13:46](https://news.ycombinator.com/item?id=35799116) - [“All Tomorrow’s Parties”: AI Synthesis – The End of Copyright as We Knew It](https://www.heise.de/meinung/All-Tomorrow-s-Parties-AI-Synthesis-The-End-of-Copyright-as-We-Knew-It-8985282.html)
+* [2023-05-03, 07:10:29](https://news.ycombinator.com/item?id=35799091) - [Nanoimprint Finally Finds Its Footing](https://semiengineering.com/nanoimprint-finds-its-footing-in-photonics/)
 * [2023-05-03, 06:59:44](https://news.ycombinator.com/item?id=35799013) - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
 * [2023-05-03, 06:43:45](https://news.ycombinator.com/item?id=35798890) - [ChatGPT Confirms Data Breach](https://securityintelligence.com/articles/chatgpt-confirms-data-breach/)
 * [2023-05-03, 06:43:41](https://news.ycombinator.com/item?id=35798888) - [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
