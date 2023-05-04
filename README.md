@@ -5,7 +5,6 @@
 * [2023-05-04, 14:14:11](https://news.ycombinator.com/item?id=35815662) - [Ransomware attack forces Dallas to shut down courts, disrupts some 911 services](https://techcrunch.com/2023/05/04/ransomware-attack-forces-dallas-to-shut-down-courts-disrupt-some-911-services/)
 * [2023-05-04, 14:06:57](https://news.ycombinator.com/item?id=35815538) - [Europeans drain billions from banks, fed up with shrinking savings](https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04/)
 * [2023-05-04, 13:56:57](https://news.ycombinator.com/item?id=35815396) - [The UK’s tortured attempt to remake the internet](https://www.theverge.com/23708180/united-kingdom-online-safety-bill-explainer-legal-pornography-age-checks)
-* [2023-05-04, 13:26:04](https://news.ycombinator.com/item?id=35814945) - [California’s population declines, again, as state grapples with housing crisis](https://www.theguardian.com/us-news/2023/may/03/california-population-decline-states)
 * [2023-05-04, 13:10:19](https://news.ycombinator.com/item?id=35814701) - [Google, Meta executives push back against Canada online news bill](https://www.reuters.com/business/media-telecom/canada-online-news-bill-is-unreasonable-google-executive-says-2023-05-03/)
 * [2023-05-04, 13:00:28](https://news.ycombinator.com/item?id=35814575) - [Hue Light Hack](https://www.atomic14.com/2023/05/04/hue-light-hacking.html)
 * [2023-05-04, 12:57:56](https://news.ycombinator.com/item?id=35814537) - [State-controlled media gain Twitter followers after quiet platform policy change](https://dfrlab.org/2023/04/21/state-controlled-media-experience-sudden-twitter-gains-after-unannounced-platform-policy-change/)
@@ -28,6 +27,7 @@
 * [2023-05-04, 00:06:24](https://news.ycombinator.com/item?id=35809570) - [The money spent on lotteries doesn’t go to the park](https://outdoorstatus.com/articles/recreation-gov-lottery-fees/)
 * [2023-05-03, 22:34:02](https://news.ycombinator.com/item?id=35808710) - [Agile soccer skills for a bipedal robot with deep reinforcement learning](https://twitter.com/haarnoja/status/1651577815836270596)
 * [2023-05-03, 09:29:39](https://news.ycombinator.com/item?id=35800023) - [The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)
+* [2023-05-03, 06:36:46](https://news.ycombinator.com/item?id=35798829) - [Why Split Lexing and Parsing into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
 * [2023-05-02, 10:13:59](https://news.ycombinator.com/item?id=35785421) - [How Quickwit Rust Actor Framework tackles the challenges of efficient indexing](https://quickwit.io/blog/quickwit-actor-framework/)
 * [2023-05-02, 05:56:54](https://news.ycombinator.com/item?id=35783872) - [Building an Intel 8008 Computer “Clock” (2006)](https://www.8008chron.com)
 
