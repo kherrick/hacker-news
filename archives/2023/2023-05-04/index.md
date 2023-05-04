@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 15:19:24](https://news.ycombinator.com/item?id=35816789) - [Westinghouse announces a new small modular nuclear reactor](https://www.cnbc.com/2023/05/04/westinghouse-announces-a-small-nuclear-reactor.html)
+* [2023-05-04, 15:08:45](https://news.ycombinator.com/item?id=35816577) - [Colorado kills law that made it harder for cities to offer Internet service](https://arstechnica.com/tech-policy/2023/05/colorado-kills-law-that-made-it-harder-for-cities-to-offer-internet-service/)
+* [2023-05-04, 15:06:58](https://news.ycombinator.com/item?id=35816547) - [America Faces a Debt Nightmare](https://www.economist.com/finance-and-economics/2023/05/03/america-faces-a-debt-nightmare)
 * [2023-05-04, 14:52:17](https://news.ycombinator.com/item?id=35816289) - [The Internet Isn’t Meant to Be So Small](https://defector.com/the-internet-isnt-meant-to-be-so-small)
 * [2023-05-04, 14:48:56](https://news.ycombinator.com/item?id=35816232) - [FTC says Facebook broke terms of $5B data privacy settlement](https://www.scmagazine.com/news/privacy/ftc-facebook-broke-terms-5b-data-privacy-settlement)
+* [2023-05-04, 14:47:29](https://news.ycombinator.com/item?id=35816207) - [EU urged to protect grassroots AI research or risk losing out to US](https://www.theguardian.com/technology/2023/may/04/eu-urged-to-protect-grassroots-ai-research-or-risk-losing-out-to-us)
 * [2023-05-04, 14:33:20](https://news.ycombinator.com/item?id=35815982) - [AI Is Just Someone Else&#x27;s Intelligence](https://www.zdziarski.com/blog/?p=12001)
 * [2023-05-04, 14:22:13](https://news.ycombinator.com/item?id=35815810) - [White House announces new actions to promote responsible AI innovation](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/)
 * [2023-05-04, 14:20:11](https://news.ycombinator.com/item?id=35815765) - [Companies use dark patterns to keep you subscribed](https://pudding.cool/2023/05/dark-patterns/)
