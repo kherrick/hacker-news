@@ -1,22 +1,62 @@
 [
   [
     [
+      "2023-05-04, 01:35:04",
+      "https://news.ycombinator.com/item?id=35810216"
+    ],
+    [
+      "Apple Is a Chinese Company",
+      "https://www.ft.com/content/bf8e3846-2421-4f91-becf-2dfe39ec9941"
+    ]
+  ],
+  [
+    [
+      "2023-05-04, 01:08:16",
+      "https://news.ycombinator.com/item?id=35810016"
+    ],
+    [
+      "The Last Post",
+      "https://www.penmachine.com/2011/05/the-last-post"
+    ]
+  ],
+  [
+    [
+      "2023-05-04, 00:39:20",
+      "https://news.ycombinator.com/item?id=35809807"
+    ],
+    [
+      "Google employees complain about CEO&#x27;s pay raise as cost cuts hit company",
+      "https://www.cnbc.com/2023/05/03/google-employees-complain-about-ceo-sundar-pichais-pay-raise.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 23:48:46",
+      "https://news.ycombinator.com/item?id=35809428"
+    ],
+    [
+      "Privacyguides.org Recommendations",
+      "https://www.privacyguides.org/en/tools/"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 23:45:23",
+      "https://news.ycombinator.com/item?id=35809397"
+    ],
+    [
+      "The first empirical study of the real-world economic effects of new AI systems",
+      "https://www.npr.org/sections/money/2023/05/02/1172791281/this-company-adopted-ai-heres-what-happened-to-its-human-workers"
+    ]
+  ],
+  [
+    [
       "2023-05-03, 23:35:15",
       "https://news.ycombinator.com/item?id=35809302"
     ],
     [
       "Hacker News Highlights",
       "https://news.ycombinator.com/highlights"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 23:17:24",
-      "https://news.ycombinator.com/item?id=35809144"
-    ],
-    [
-      "Get a Tesla if you want to learn about AI trying to kill you, says Steve Wozniak",
-      "https://electrek.co/2023/05/03/tesla-ai-trying-to-kill-you-steve-wozniak/"
     ]
   ],
   [
@@ -41,6 +81,16 @@
   ],
   [
     [
+      "2023-05-03, 22:34:02",
+      "https://news.ycombinator.com/item?id=35808710"
+    ],
+    [
+      "Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning",
+      "https://twitter.com/haarnoja/status/1651577815836270596"
+    ]
+  ],
+  [
+    [
       "2023-05-03, 22:10:18",
       "https://news.ycombinator.com/item?id=35808485"
     ],
@@ -61,42 +111,12 @@
   ],
   [
     [
-      "2023-05-03, 21:20:18",
-      "https://news.ycombinator.com/item?id=35807951"
-    ],
-    [
-      "Wearing an eye mask during sleep improves episodic learning and alertness",
-      "https://pubmed.ncbi.nlm.nih.gov/36521010/"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 20:54:32",
-      "https://news.ycombinator.com/item?id=35807660"
-    ],
-    [
-      "Measured typing latency of popular terminal emulators",
-      "https://tomscii.sig7.se/2021/01/Typing-latency-of-Zutty"
-    ]
-  ],
-  [
-    [
       "2023-05-03, 20:52:41",
       "https://news.ycombinator.com/item?id=35807639"
     ],
     [
       "Lotus 1-2-3 for Linux",
       "https://github.com/taviso/123elf"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 20:41:43",
-      "https://news.ycombinator.com/item?id=35807489"
-    ],
-    [
-      "Is Perpetual Motion Possible at the Quantum Level?",
-      "https://www.quantamagazine.org/is-perpetual-motion-possible-at-the-quantum-level-20230503/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-05-03, 16:44:19",
-      "https://news.ycombinator.com/item?id=35804556"
-    ],
-    [
-      "SparseGPT: Language Models Can Be Accurately Pruned in One-Shot",
-      "https://arxiv.org/abs/2301.00774"
-    ]
-  ],
-  [
-    [
       "2023-05-03, 16:18:51",
       "https://news.ycombinator.com/item?id=35804220"
     ],
@@ -207,16 +217,6 @@
     [
       "Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week",
       "https://www.latent.space/p/reza-shabani#details"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 14:07:29",
-      "https://news.ycombinator.com/item?id=35802575"
-    ],
-    [
-      "State of Private Markets: Q1 2023",
-      "https://carta.com/blog/state-of-private-markets-q1-2023/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-05-03, 01:51:15",
-      "https://news.ycombinator.com/item?id=35796744"
+      "2023-05-03, 09:13:46",
+      "https://news.ycombinator.com/item?id=35799897"
     ],
     [
-      "Human Thinking vs. Parser Thinking (2016)",
-      "https://dannysu.com/2016/05/12/human-thinking-vs-parser-thinking/"
+      "Quasicrystalline structure of the Smith monotile tilings",
+      "https://arxiv.org/abs/2305.01174"
     ]
   ],
   [
