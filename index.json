@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-05-04, 13:26:04",
-      "https://news.ycombinator.com/item?id=35814945"
-    ],
-    [
-      "California’s population declines, again, as state grapples with housing crisis",
-      "https://www.theguardian.com/us-news/2023/may/03/california-population-decline-states"
-    ]
-  ],
-  [
-    [
       "2023-05-04, 13:10:19",
       "https://news.ycombinator.com/item?id=35814701"
     ],
@@ -277,6 +267,16 @@
     [
       "The Untold Story of the Boldest Supply-Chain Hack Ever",
       "https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 06:36:46",
+      "https://news.ycombinator.com/item?id=35798829"
+    ],
+    [
+      "Why Split Lexing and Parsing into Two Separate Phases?",
+      "https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html"
     ]
   ],
   [
