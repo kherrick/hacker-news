@@ -6,7 +6,7 @@
 * [2023-05-04, 03:32:05](https://news.ycombinator.com/item?id=35810901) - [Firesky – The Bluesky Firehose](https://firesky.tv/)
 * [2023-05-04, 02:49:25](https://news.ycombinator.com/item?id=35810663) - [Distilling Step-by-Step Outperforming Larger Language Models with Less Training](https://arxiv.org/abs/2305.02301)
 * [2023-05-04, 01:44:21](https://news.ycombinator.com/item?id=35810281) - [UDP transmitter implemented with PIO and DMA on the RP2040](https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html)
-* [2023-05-04, 00:06:24](https://news.ycombinator.com/item?id=35809570) - [No, the money you spend on lotteries doesn’t go to the park](https://outdoorstatus.com/articles/recreation-gov-lottery-fees/)
+* [2023-05-04, 00:06:24](https://news.ycombinator.com/item?id=35809570) - [The money spent on lotteries doesn’t go to the park](https://outdoorstatus.com/articles/recreation-gov-lottery-fees/)
 * [2023-05-03, 23:45:23](https://news.ycombinator.com/item?id=35809397) - [The first empirical study of the real-world economic effects of new AI systems](https://www.npr.org/sections/money/2023/05/02/1172791281/this-company-adopted-ai-heres-what-happened-to-its-human-workers)
 * [2023-05-03, 23:35:15](https://news.ycombinator.com/item?id=35809302) - [Hacker News Highlights](https://news.ycombinator.com/highlights)
 * [2023-05-03, 23:11:31](https://news.ycombinator.com/item?id=35809082) - [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
