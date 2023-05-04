@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 14:06:57](https://news.ycombinator.com/item?id=35815538) - [Europeans drain billions from banks, fed up with shrinking savings](https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04/)
+* [2023-05-04, 13:47:57](https://news.ycombinator.com/item?id=35815266) - [Land Ownership Makes No Sense](https://www.wired.com/story/land-ownership-morality-economics-georgism/)
 * [2023-05-04, 13:32:23](https://news.ycombinator.com/item?id=35815029) - [Google shared AI knowledge with the world – until ChatGPT caught up](https://www.washingtonpost.com/technology/2023/05/04/google-ai-stop-sharing-research/)
 * [2023-05-04, 13:26:04](https://news.ycombinator.com/item?id=35814945) - [California’s population declines, again, as state grapples with housing crisis](https://www.theguardian.com/us-news/2023/may/03/california-population-decline-states)
 * [2023-05-04, 13:10:19](https://news.ycombinator.com/item?id=35814701) - [Google, Meta executives push back against Canada online news bill](https://www.reuters.com/business/media-telecom/canada-online-news-bill-is-unreasonable-google-executive-says-2023-05-03/)
