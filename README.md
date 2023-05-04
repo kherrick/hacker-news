@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-04, 10:10:24](https://news.ycombinator.com/item?id=35813265) - [If You Double-Park and You’re Rich, Should You Pay a Higher Fine?](https://www.nytimes.com/2023/05/04/nyregion/nyc-fines-income.html)
 * [2023-05-04, 07:27:57](https://news.ycombinator.com/item?id=35812378) - [Gitlab and Google Cloud Partner to Expand AI-Assisted Capabilities](https://www.googlecloudpresscorner.com/2023-05-02-GitLab-and-Google-Cloud-Partner-to-Expand-AI-Assisted-Capabilities-with-Customizable-Gen-AI-Foundation-Models)
 * [2023-05-04, 07:01:11](https://news.ycombinator.com/item?id=35812171) - [PhotoRoom Is Hiring a Senior Django Engineer in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2023-05-04, 06:04:56](https://news.ycombinator.com/item?id=35811741) - [Prime Video Abandons Serverless Distributed Stack for Monolith, saves 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
@@ -22,13 +21,14 @@
 * [2023-05-03, 19:18:25](https://news.ycombinator.com/item?id=35806515) - [Testosterone in tusks: Hormones in mammoth fossils](https://arstechnica.com/science/2023/05/testosterone-in-tusks-hormones-in-mammoth-fossils-excite-paleontologists/)
 * [2023-05-03, 17:11:47](https://news.ycombinator.com/item?id=35804935) - [How Does an FPGA Work?](https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all)
 * [2023-05-03, 15:19:20](https://news.ycombinator.com/item?id=35803435) - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
+* [2023-05-03, 12:13:23](https://news.ycombinator.com/item?id=35801392) - [Passkeys: The beginning of the end of the password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
+* [2023-05-03, 11:24:57](https://news.ycombinator.com/item?id=35800988) - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
 * [2023-05-03, 10:34:01](https://news.ycombinator.com/item?id=35800508) - [FET: The Friendly Efficient Transistor](https://hackaday.com/2023/04/25/fet-the-friendly-efficient-transistor/)
 * [2023-05-03, 10:32:10](https://news.ycombinator.com/item?id=35800492) - [It&#x27;s A(door)able](https://ncase.me/door/)
 * [2023-05-03, 07:10:29](https://news.ycombinator.com/item?id=35799091) - [Nanoimprint Finally Finds Its Footing](https://semiengineering.com/nanoimprint-finds-its-footing-in-photonics/)
 * [2023-05-02, 19:16:15](https://news.ycombinator.com/item?id=35792705) - [Disappearing Act: The working life of Haruki Murakami](https://www.thenation.com/article/culture/haruki-murakami-novelist-vocation/)
 * [2023-05-02, 13:28:42](https://news.ycombinator.com/item?id=35787119) - [Like the macOS Dock but for macOS System 7](https://github.com/retrospectmike/MacDock)
 * [2023-05-02, 10:13:59](https://news.ycombinator.com/item?id=35785421) - [How Quickwit Rust Actor Framework tackles the challenges of efficient indexing](https://quickwit.io/blog/quickwit-actor-framework/)
-* [2023-05-02, 08:47:32](https://news.ycombinator.com/item?id=35784898) - [Error Handling Patterns](https://andreabergia.com/blog/2023/05/error-handling-patterns/)
 * [2023-04-30, 12:16:50](https://news.ycombinator.com/item?id=35761874) - [Another Kind of Time](https://emergencemagazine.org/interview/another-kind-of-time/)
 
 ## [Archives](archives/index.md)
