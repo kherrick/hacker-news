@@ -14,7 +14,7 @@
 * [2023-05-03, 22:10:18](https://news.ycombinator.com/item?id=35808485) - [TOTP Authentication with Free Software](https://lwn.net/Articles/925870/)
 * [2023-05-03, 21:20:45](https://news.ycombinator.com/item?id=35807957) - [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)
 * [2023-05-03, 21:20:18](https://news.ycombinator.com/item?id=35807951) - [Wearing an eye mask during sleep improves episodic learning and alertness](https://pubmed.ncbi.nlm.nih.gov/36521010/)
-* [2023-05-03, 20:54:32](https://news.ycombinator.com/item?id=35807660) - [Measured typing latency of popular terminal emulators](https://tomscii.sig7.se/2021/01/Typing-latency-of-Zutty)
+* [2023-05-03, 20:54:32](https://news.ycombinator.com/item?id=35807660) - [Measured: Typing latency of Zutty compared to other terminal emulators (2021)](https://tomscii.sig7.se/2021/01/Typing-latency-of-Zutty)
 * [2023-05-03, 20:52:41](https://news.ycombinator.com/item?id=35807639) - [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf)
 * [2023-05-03, 20:11:49](https://news.ycombinator.com/item?id=35807125) - [Angular v16](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d?gi=59158dd70516)
 * [2023-05-03, 19:44:30](https://news.ycombinator.com/item?id=35806753) - [FDA Approves First Respiratory Syncytial Virus (RSV) Vaccine](https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine)
