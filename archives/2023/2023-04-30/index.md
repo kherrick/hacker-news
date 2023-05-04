@@ -59,6 +59,7 @@
 * [2023-04-30, 14:08:50](https://news.ycombinator.com/item?id=35762682) - [Use singular nouns for database table names](https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html)
 * [2023-04-30, 13:59:36](https://news.ycombinator.com/item?id=35762589) - [Spinning the Decks and Startup Success: A Lesson from My DJ Days](https://cameronwestland.com/spinning-the-decks-and-startup-success-a-lesson-from-my-dj-days)
 * [2023-04-30, 13:45:37](https://news.ycombinator.com/item?id=35762483) - [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
+* [2023-04-30, 13:38:01](https://news.ycombinator.com/item?id=35762418) - [Renting Horsepower](https://www.cnn.com/2023/04/27/business/mercedes-horsepower-upgrade/index.html)
 * [2023-04-30, 13:20:09](https://news.ycombinator.com/item?id=35762284) - [Ding Liren Wins the Fide World Chess Championship](https://chess24.com/en/watch/live-tournaments/nepo-ding-world-chess-championship-2023/2/1/4)
 * [2023-04-30, 13:10:17](https://news.ycombinator.com/item?id=35762216) - [Do Papercuts Matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
 * [2023-04-30, 13:05:01](https://news.ycombinator.com/item?id=35762175) - [Show HN: Frogmouth – A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
