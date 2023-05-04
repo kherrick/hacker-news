@@ -2,7 +2,6 @@
 
 * [2023-05-04, 17:00:47](https://news.ycombinator.com/item?id=35818616) - [Replit (YC W18) Is Hiring Engineers and Designers](https://replit.com/careers)
 * [2023-05-04, 16:09:21](https://news.ycombinator.com/item?id=35817708) - [The First Image from EUMETSAT’s Newest Satellite](https://www.eumetsat.int/features/discover-first-images-mtg-i1)
-* [2023-05-04, 15:43:57](https://news.ycombinator.com/item?id=35817213) - [Heavy Marijuana Use Increases Schizophrenia in Men, Study Finds](https://www.bloomberg.com/news/articles/2023-05-04/heavy-marijuana-use-increases-schizophrenia-in-men-study-finds)
 * [2023-05-04, 15:25:07](https://news.ycombinator.com/item?id=35816900) - [JEP 450: Compact Object Headers](https://openjdk.org/jeps/450)
 * [2023-05-04, 15:19:24](https://news.ycombinator.com/item?id=35816789) - [Westinghouse announces a new small modular nuclear reactor](https://www.cnbc.com/2023/05/04/westinghouse-announces-a-small-nuclear-reactor.html)
 * [2023-05-04, 15:08:45](https://news.ycombinator.com/item?id=35816577) - [Colorado kills law that made it harder for cities to offer Internet service](https://arstechnica.com/tech-policy/2023/05/colorado-kills-law-that-made-it-harder-for-cities-to-offer-internet-service/)
@@ -29,6 +28,7 @@
 * [2023-05-03, 21:22:59](https://news.ycombinator.com/item?id=35807981) - [The Evolution of Trust (2017)](https://ncase.me/trust/)
 * [2023-05-03, 09:29:39](https://news.ycombinator.com/item?id=35800023) - [The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)
 * [2023-05-03, 06:36:46](https://news.ycombinator.com/item?id=35798829) - [Why Split Lexing and Parsing into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
+* [2023-05-02, 05:56:54](https://news.ycombinator.com/item?id=35783872) - [Building an Intel 8008 Computer “Clock” (2006)](https://www.8008chron.com)
 * [2023-04-30, 13:38:01](https://news.ycombinator.com/item?id=35762418) - [Mercedes EVs can go faster for $60 a month](https://www.cnn.com/2023/04/27/business/mercedes-horsepower-upgrade/index.html)
 
 ## [Archives](archives/index.md)
