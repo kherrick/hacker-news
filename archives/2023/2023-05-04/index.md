@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 12:57:56](https://news.ycombinator.com/item?id=35814537) - [State-controlled media gain Twitter followers after quiet platform policy change](https://dfrlab.org/2023/04/21/state-controlled-media-experience-sudden-twitter-gains-after-unannounced-platform-policy-change/)
+* [2023-05-04, 12:52:21](https://news.ycombinator.com/item?id=35814480) - [OpenAI Personal Data Removal Request Form](https://share.hsforms.com/1UPy6xqxZSEqTrGDh4ywo_g4sk30)
 * [2023-05-04, 12:38:58](https://news.ycombinator.com/item?id=35814322) - [Mach-9 12-passenger jet will fly from New York to Tokyo in one hour](https://robbreport.com/motors/aviation/hypersonic-aircraft-venus-global-flights-in-hour-1234837362/)
+* [2023-05-04, 12:13:55](https://news.ycombinator.com/item?id=35814113) - [EARN IT Act Remains a Threat to Liberty, Security, &amp; Safety of Children](https://techfreedom.org/earn-it-act-remains-a-threat-to-liberty-security-safety-of-children/)
 * [2023-05-04, 12:09:09](https://news.ycombinator.com/item?id=35814081) - [Facebook furious at FTC after agency proposes ban on monetizing youth data](https://arstechnica.com/tech-policy/2023/05/ftc-says-facebook-violated-privacy-order-proposes-ban-on-monetizing-youth-data/)
 * [2023-05-04, 12:02:40](https://news.ycombinator.com/item?id=35814043) - [New Yorkers Want to Stop Landlords from Using Facial Recognition](https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997)
 * [2023-05-04, 11:57:19](https://news.ycombinator.com/item?id=35813991) - [Prediction and Entropy of Printed English – Claude Shannon (1950) [pdf]](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)
@@ -13,6 +16,7 @@
 * [2023-05-04, 11:33:26](https://news.ycombinator.com/item?id=35813821) - [New C features in GCC 13](https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13)
 * [2023-05-04, 11:21:59](https://news.ycombinator.com/item?id=35813763) - [Important Team and Business Changes](https://news.shopify.com/important-team-and-business-changes)
 * [2023-05-04, 10:58:36](https://news.ycombinator.com/item?id=35813595) - [The “baseline” scene in bladerunner 2049 was written by Ryan Gosling](https://cohost.org/mcc/post/178201-the-baseline-scene)
+* [2023-05-04, 10:47:43](https://news.ycombinator.com/item?id=35813496) - [The seven programming ur-languages (2021)](https://madhadron.com/programming/seven_ur_languages.html)
 * [2023-05-04, 10:10:24](https://news.ycombinator.com/item?id=35813265) - [If You Double-Park and You’re Rich, Should You Pay a Higher Fine?](https://www.nytimes.com/2023/05/04/nyregion/nyc-fines-income.html)
 * [2023-05-04, 07:27:57](https://news.ycombinator.com/item?id=35812378) - [Gitlab and Google Cloud Partner to Expand AI-Assisted Capabilities](https://www.googlecloudpresscorner.com/2023-05-02-GitLab-and-Google-Cloud-Partner-to-Expand-AI-Assisted-Capabilities-with-Customizable-Gen-AI-Foundation-Models)
 * [2023-05-04, 07:01:11](https://news.ycombinator.com/item?id=35812171) - [PhotoRoom Is Hiring a Senior Django Engineer in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
