@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-05-04, 01:35:04",
-      "https://news.ycombinator.com/item?id=35810216"
-    ],
-    [
-      "Apple Is a Chinese Company",
-      "https://www.ft.com/content/bf8e3846-2421-4f91-becf-2dfe39ec9941"
-    ]
-  ],
-  [
-    [
       "2023-05-04, 01:08:16",
       "https://news.ycombinator.com/item?id=35810016"
     ],
@@ -21,32 +11,22 @@
   ],
   [
     [
+      "2023-05-04, 01:03:52",
+      "https://news.ycombinator.com/item?id=35809978"
+    ],
+    [
+      "Somehow AutoHotKey is kinda good now",
+      "https://www.hillelwayne.com/post/ahk-v2/"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 00:39:20",
       "https://news.ycombinator.com/item?id=35809807"
     ],
     [
       "Google employees complain about CEO&#x27;s pay raise as cost cuts hit company",
       "https://www.cnbc.com/2023/05/03/google-employees-complain-about-ceo-sundar-pichais-pay-raise.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 23:48:46",
-      "https://news.ycombinator.com/item?id=35809428"
-    ],
-    [
-      "Privacyguides.org Recommendations",
-      "https://www.privacyguides.org/en/tools/"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 23:45:23",
-      "https://news.ycombinator.com/item?id=35809397"
-    ],
-    [
-      "The first empirical study of the real-world economic effects of new AI systems",
-      "https://www.npr.org/sections/money/2023/05/02/1172791281/this-company-adopted-ai-heres-what-happened-to-its-human-workers"
     ]
   ],
   [
@@ -111,12 +91,42 @@
   ],
   [
     [
+      "2023-05-03, 21:20:18",
+      "https://news.ycombinator.com/item?id=35807951"
+    ],
+    [
+      "Wearing an eye mask during sleep improves episodic learning and alertness",
+      "https://pubmed.ncbi.nlm.nih.gov/36521010/"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 20:54:32",
+      "https://news.ycombinator.com/item?id=35807660"
+    ],
+    [
+      "Measured typing latency of popular terminal emulators",
+      "https://tomscii.sig7.se/2021/01/Typing-latency-of-Zutty"
+    ]
+  ],
+  [
+    [
       "2023-05-03, 20:52:41",
       "https://news.ycombinator.com/item?id=35807639"
     ],
     [
       "Lotus 1-2-3 for Linux",
       "https://github.com/taviso/123elf"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 20:11:49",
+      "https://news.ycombinator.com/item?id=35807125"
+    ],
+    [
+      "Angular v16",
+      "https://blog.angular.io/angular-v16-is-here-4d7a28ec680d?gi=59158dd70516"
     ]
   ],
   [
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=35806515"
     ],
     [
-      "Testosterone in tusks: Hormones in mammoth fossils excite paleontologists",
+      "Testosterone in tusks: Hormones in mammoth fossils",
       "https://arstechnica.com/science/2023/05/testosterone-in-tusks-hormones-in-mammoth-fossils-excite-paleontologists/"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "I want to talk about WebGPU",
       "https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 10:54:32",
-      "https://news.ycombinator.com/item?id=35800711"
-    ],
-    [
-      "JavaScript import maps are now supported cross-browser",
-      "https://web.dev/import-maps-in-all-modern-browsers/"
     ]
   ],
   [
