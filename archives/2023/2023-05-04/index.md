@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 12:09:09](https://news.ycombinator.com/item?id=35814081) - [Facebook furious at FTC after agency proposes ban on monetizing youth data](https://arstechnica.com/tech-policy/2023/05/ftc-says-facebook-violated-privacy-order-proposes-ban-on-monetizing-youth-data/)
+* [2023-05-04, 12:02:40](https://news.ycombinator.com/item?id=35814043) - [New Yorkers Want to Stop Landlords from Using Facial Recognition](https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997)
+* [2023-05-04, 11:57:19](https://news.ycombinator.com/item?id=35813991) - [Prediction and Entropy of Printed English – Claude Shannon (1950) [pdf]](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)
+* [2023-05-04, 11:57:01](https://news.ycombinator.com/item?id=35813989) - [Shopify to cut 20% of its workforce, beats quarterly revenue estimates](https://www.reuters.com/business/retail-consumer/shopify-reports-first-quarter-revenue-above-estimates-2023-05-04/)
 * [2023-05-04, 11:33:26](https://news.ycombinator.com/item?id=35813821) - [New C features in GCC 13](https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13)
+* [2023-05-04, 11:21:59](https://news.ycombinator.com/item?id=35813763) - [Important Team and Business Changes](https://news.shopify.com/important-team-and-business-changes)
 * [2023-05-04, 10:58:36](https://news.ycombinator.com/item?id=35813595) - [The “baseline” scene in bladerunner 2049 was written by Ryan Gosling](https://cohost.org/mcc/post/178201-the-baseline-scene)
 * [2023-05-04, 10:10:24](https://news.ycombinator.com/item?id=35813265) - [If You Double-Park and You’re Rich, Should You Pay a Higher Fine?](https://www.nytimes.com/2023/05/04/nyregion/nyc-fines-income.html)
 * [2023-05-04, 07:27:57](https://news.ycombinator.com/item?id=35812378) - [Gitlab and Google Cloud Partner to Expand AI-Assisted Capabilities](https://www.googlecloudpresscorner.com/2023-05-02-GitLab-and-Google-Cloud-Partner-to-Expand-AI-Assisted-Capabilities-with-Customizable-Gen-AI-Foundation-Models)
