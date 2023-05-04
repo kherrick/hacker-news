@@ -81,6 +81,7 @@
 * [2023-05-03, 08:31:40](https://news.ycombinator.com/item?id=35799609) - [UK Campaigning to replace the Monarchy with an elected head of state](https://twitter.com/RepublicStaff)
 * [2023-05-03, 08:30:47](https://news.ycombinator.com/item?id=35799605) - [Ask HN: Why are there no 5G USB-C dongles for laptops?](https://news.ycombinator.com/item?id=35799605)
 * [2023-05-03, 08:20:38](https://news.ycombinator.com/item?id=35799545) - [FBI Bureau Supervisor Arrested in Connection with Jan 6th Capitol Riot](https://www.nbcnews.com/politics/justice-department/fbi-says-former-agent-arrested-jan-6-called-officers-nazis-rcna82567)
+* [2023-05-03, 08:18:15](https://news.ycombinator.com/item?id=35799516) - [Show HN: Story of Shatter, the First Comic Made on a Computer (1985)](https://marincomics.com/project-shatter-computer-comic/)
 * [2023-05-03, 07:30:15](https://news.ycombinator.com/item?id=35799221) - [Nordstrom to Close Both San Francisco Stores Amid Rampant Crime](https://news.yahoo.com/nordstrom-close-both-san-francisco-235623318.html)
 * [2023-05-03, 07:13:46](https://news.ycombinator.com/item?id=35799116) - [“All Tomorrow’s Parties”: AI Synthesis – The End of Copyright as We Knew It](https://www.heise.de/meinung/All-Tomorrow-s-Parties-AI-Synthesis-The-End-of-Copyright-as-We-Knew-It-8985282.html)
 * [2023-05-03, 07:10:29](https://news.ycombinator.com/item?id=35799091) - [Nanoimprint Finally Finds Its Footing](https://semiengineering.com/nanoimprint-finds-its-footing-in-photonics/)
