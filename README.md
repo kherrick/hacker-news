@@ -20,7 +20,6 @@
 * [2023-05-04, 12:09:09](https://news.ycombinator.com/item?id=35814081) - [Facebook has not been doing enough to comply with a 2020 privacy order: FTC](https://arstechnica.com/tech-policy/2023/05/ftc-says-facebook-violated-privacy-order-proposes-ban-on-monetizing-youth-data/)
 * [2023-05-04, 12:02:40](https://news.ycombinator.com/item?id=35814043) - [New Yorkers want to stop landlords from using facial recognition](https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997)
 * [2023-05-04, 11:57:19](https://news.ycombinator.com/item?id=35813991) - [Prediction and Entropy of Printed English (1950) [pdf]](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)
-* [2023-05-04, 11:41:48](https://news.ycombinator.com/item?id=35813879) - [It&#x27;s over Anakin, I have the high ground](https://ihavethe.highground.com)
 * [2023-05-04, 11:33:26](https://news.ycombinator.com/item?id=35813821) - [New C features in GCC 13](https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13)
 * [2023-05-04, 11:21:59](https://news.ycombinator.com/item?id=35813763) - [Shopify will be smaller by about 20% and Flexport will buy Shopify Logistics](https://news.shopify.com/important-team-and-business-changes)
 * [2023-05-04, 10:47:43](https://news.ycombinator.com/item?id=35813496) - [The seven programming ur-languages (2021)](https://madhadron.com/programming/seven_ur_languages.html)
@@ -30,6 +29,7 @@
 * [2023-05-03, 21:22:59](https://news.ycombinator.com/item?id=35807981) - [The Evolution of Trust (2017)](https://ncase.me/trust/)
 * [2023-05-03, 09:29:39](https://news.ycombinator.com/item?id=35800023) - [The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)
 * [2023-05-03, 06:36:46](https://news.ycombinator.com/item?id=35798829) - [Why Split Lexing and Parsing into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
+* [2023-04-30, 13:38:01](https://news.ycombinator.com/item?id=35762418) - [Mercedes EVs can go faster for $60 a month](https://www.cnn.com/2023/04/27/business/mercedes-horsepower-upgrade/index.html)
 
 ## [Archives](archives/index.md)
 
