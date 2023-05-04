@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2023-05-03, 11:24:57",
-      "https://news.ycombinator.com/item?id=35800988"
-    ],
-    [
-      "I want to talk about WebGPU",
-      "https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu"
-    ]
-  ],
-  [
-    [
       "2023-05-03, 10:34:01",
       "https://news.ycombinator.com/item?id=35800508"
     ],
@@ -287,6 +277,16 @@
     [
       "Like the macOS Dock but for macOS System 7",
       "https://github.com/retrospectmike/MacDock"
+    ]
+  ],
+  [
+    [
+      "2023-05-02, 10:13:59",
+      "https://news.ycombinator.com/item?id=35785421"
+    ],
+    [
+      "How Quickwit Rust Actor Framework tackles the challenges of efficient indexing",
+      "https://quickwit.io/blog/quickwit-actor-framework/"
     ]
   ],
   [
