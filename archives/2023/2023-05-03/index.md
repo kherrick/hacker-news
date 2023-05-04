@@ -91,6 +91,7 @@
 * [2023-05-03, 06:43:41](https://news.ycombinator.com/item?id=35798888) - [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
 * [2023-05-03, 06:43:03](https://news.ycombinator.com/item?id=35798883) - [Americans Gaining Most Weight in Their 20s and 30s: What They Can Do](https://www.healthline.com/health-news/americans-gaining-most-weight-in-their-20s-and-30s-what-they-can-do)
 * [2023-05-03, 06:36:46](https://news.ycombinator.com/item?id=35798829) - [Why Split Lexing and Parsing into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
+* [2023-05-03, 06:27:05](https://news.ycombinator.com/item?id=35798746) - [Cubic Interpolation of Quaternion](https://theorangeduck.com/page/cubic-interpolation-quaternions)
 * [2023-05-03, 06:27:03](https://news.ycombinator.com/item?id=35798744) - [Inflection AI First Release – Pi](https://heypi.com/talk)
 * [2023-05-03, 05:05:19](https://news.ycombinator.com/item?id=35798239) - [Feynman’s Maze-Running Story](https://gwern.net/maze)
 * [2023-05-03, 04:19:11](https://news.ycombinator.com/item?id=35797954) - [The Second Freeway Revolt (2013)](https://www.foundsf.org/index.php?title=Second_Freeway_Revolt)
