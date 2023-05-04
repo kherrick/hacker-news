@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-04, 20:50:23",
+      "https://news.ycombinator.com/item?id=35821864"
+    ],
+    [
+      "Apple reports Q2 2023 results",
+      "https://www.apple.com/newsroom/2023/05/apple-reports-second-quarter-results/"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 19:47:56",
       "https://news.ycombinator.com/item?id=35821128"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2023-05-04, 17:53:03",
-      "https://news.ycombinator.com/item?id=35819463"
-    ],
-    [
-      "The Shootings at Kent State: The Search for Historical Accuracy (1998)",
-      "https://www.kent.edu/may-4-historical-accuracy"
-    ]
-  ],
-  [
-    [
       "2023-05-04, 17:42:51",
       "https://news.ycombinator.com/item?id=35819305"
     ],
@@ -107,16 +107,6 @@
     [
       "JEP 450: Compact Object Headers",
       "https://openjdk.org/jeps/450"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 15:19:24",
-      "https://news.ycombinator.com/item?id=35816789"
-    ],
-    [
-      "Westinghouse announces a new small modular nuclear reactor",
-      "https://www.cnbc.com/2023/05/04/westinghouse-announces-a-small-nuclear-reactor.html"
     ]
   ],
   [
@@ -231,22 +221,32 @@
   ],
   [
     [
-      "2023-05-04, 07:27:57",
-      "https://news.ycombinator.com/item?id=35812378"
-    ],
-    [
-      "Gitlab and Google Cloud Partner to Expand AI-Assisted Capabilities",
-      "https://www.googlecloudpresscorner.com/2023-05-02-GitLab-and-Google-Cloud-Partner-to-Expand-AI-Assisted-Capabilities-with-Customizable-Gen-AI-Foundation-Models"
-    ]
-  ],
-  [
-    [
       "2023-05-03, 21:22:59",
       "https://news.ycombinator.com/item?id=35807981"
     ],
     [
       "The Evolution of Trust (2017)",
       "https://ncase.me/trust/"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 21:12:47",
+      "https://news.ycombinator.com/item?id=35807877"
+    ],
+    [
+      "LogJam Attack [video]",
+      "https://www.youtube.com/watch?v=gVtjsd00fWo"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 09:47:13",
+      "https://news.ycombinator.com/item?id=35800157"
+    ],
+    [
+      "A Little Calculus",
+      "https://papl.cs.brown.edu/2018/func-as-data.html#%28part._.A_.Little_.Calculus%29"
     ]
   ],
   [
