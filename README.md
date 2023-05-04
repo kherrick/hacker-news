@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-04, 17:00:47](https://news.ycombinator.com/item?id=35818616) - [Replit (YC W18) Is Hiring Engineers and Designers](https://replit.com/careers)
-* [2023-05-04, 16:20:40](https://news.ycombinator.com/item?id=35817906) - [Show HN: Ask Harry Potter any question with GPT-4](https://www.chatwithfiction.com/)
 * [2023-05-04, 16:09:21](https://news.ycombinator.com/item?id=35817708) - [The First Image from EUMETSAT’s Newest Satellite](https://www.eumetsat.int/features/discover-first-images-mtg-i1)
 * [2023-05-04, 15:43:57](https://news.ycombinator.com/item?id=35817213) - [Heavy Marijuana Use Increases Schizophrenia in Men, Study Finds](https://www.bloomberg.com/news/articles/2023-05-04/heavy-marijuana-use-increases-schizophrenia-in-men-study-finds)
 * [2023-05-04, 15:25:07](https://news.ycombinator.com/item?id=35816900) - [JEP 450: Compact Object Headers](https://openjdk.org/jeps/450)
 * [2023-05-04, 15:19:24](https://news.ycombinator.com/item?id=35816789) - [Westinghouse announces a new small modular nuclear reactor](https://www.cnbc.com/2023/05/04/westinghouse-announces-a-small-nuclear-reactor.html)
+* [2023-05-04, 15:08:45](https://news.ycombinator.com/item?id=35816577) - [Colorado kills law that made it harder for cities to offer Internet service](https://arstechnica.com/tech-policy/2023/05/colorado-kills-law-that-made-it-harder-for-cities-to-offer-internet-service/)
 * [2023-05-04, 14:55:46](https://news.ycombinator.com/item?id=35816361) - [Vim Keybindings Everywhere – The Ultimate List](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
 * [2023-05-04, 14:48:35](https://news.ycombinator.com/item?id=35816224) - [Running JavaScript in Rust with Deno: Experimenting with Deno&#x27;s Rust Crates](https://austinpoor.com/blog/js-in-rs)
 * [2023-05-04, 14:47:29](https://news.ycombinator.com/item?id=35816207) - [EU urged to protect grassroots AI research or risk losing out to US](https://www.theguardian.com/technology/2023/may/04/eu-urged-to-protect-grassroots-ai-research-or-risk-losing-out-to-us)
