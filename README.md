@@ -2,9 +2,9 @@
 
 * [2023-05-04, 03:47:58](https://news.ycombinator.com/item?id=35810977) - [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 * [2023-05-04, 03:32:10](https://news.ycombinator.com/item?id=35810902) - [My pay went from $240k to $0](https://mstdn.social/@Devilstower/110299576469326182)
+* [2023-05-04, 03:32:05](https://news.ycombinator.com/item?id=35810901) - [Firesky – The Bluesky Firehose](https://firesky.tv/)
 * [2023-05-04, 02:49:25](https://news.ycombinator.com/item?id=35810663) - [Distilling Step-by-Step Outperforming Larger Language Models with Less Training](https://arxiv.org/abs/2305.02301)
 * [2023-05-04, 01:44:21](https://news.ycombinator.com/item?id=35810281) - [UDP transmitter implemented with PIO and DMA on the RP2040](https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html)
-* [2023-05-04, 00:18:14](https://news.ycombinator.com/item?id=35809658) - [Mojo might be the biggest thing to happen in programming for decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 * [2023-05-04, 00:06:24](https://news.ycombinator.com/item?id=35809570) - [No, the money you spend on lotteries doesn’t go to the park](https://outdoorstatus.com/articles/recreation-gov-lottery-fees/)
 * [2023-05-03, 23:45:23](https://news.ycombinator.com/item?id=35809397) - [The first empirical study of the real-world economic effects of new AI systems](https://www.npr.org/sections/money/2023/05/02/1172791281/this-company-adopted-ai-heres-what-happened-to-its-human-workers)
 * [2023-05-03, 23:35:15](https://news.ycombinator.com/item?id=35809302) - [Hacker News Highlights](https://news.ycombinator.com/highlights)
@@ -23,11 +23,11 @@
 * [2023-05-03, 18:54:33](https://news.ycombinator.com/item?id=35806237) - [Driving Compilers](https://fabiensanglard.net/dc/index.php)
 * [2023-05-03, 17:41:44](https://news.ycombinator.com/item?id=35805345) - [Brazilian frog might be the first pollinating amphibian known to science](https://www.science.org/content/article/brazilian-frog-might-be-first-pollinating-amphibian-known-science)
 * [2023-05-03, 17:11:47](https://news.ycombinator.com/item?id=35804935) - [How Does an FPGA Work?](https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all)
+* [2023-05-03, 17:00:03](https://news.ycombinator.com/item?id=35804779) - [Motion (YC W20) Is Hiring Front End and Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-05-03, 16:18:51](https://news.ycombinator.com/item?id=35804220) - [Temporal .NET – Deterministic Workflow Authoring in .NET](https://temporal.io/blog/introducing-temporal-dotnet)
 * [2023-05-03, 15:19:20](https://news.ycombinator.com/item?id=35803435) - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
 * [2023-05-03, 10:34:01](https://news.ycombinator.com/item?id=35800508) - [FET: The Friendly Efficient Transistor](https://hackaday.com/2023/04/25/fet-the-friendly-efficient-transistor/)
 * [2023-05-03, 10:32:10](https://news.ycombinator.com/item?id=35800492) - [It&#x27;s A(door)able](https://ncase.me/door/)
-* [2023-05-02, 21:56:08](https://news.ycombinator.com/item?id=35794774) - [Argus – monitor the versions of software and trigger alerts when a new release](https://release-argus.io/)
 * [2023-05-02, 19:16:15](https://news.ycombinator.com/item?id=35792705) - [Disappearing Act: The working life of Haruki Murakami](https://www.thenation.com/article/culture/haruki-murakami-novelist-vocation/)
 * [2023-05-02, 13:28:42](https://news.ycombinator.com/item?id=35787119) - [Like the macOS Dock but for macOS System 7](https://github.com/retrospectmike/MacDock)
 
