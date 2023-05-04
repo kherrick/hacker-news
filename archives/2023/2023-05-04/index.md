@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 07:27:57](https://news.ycombinator.com/item?id=35812378) - [Gitlab and Google Cloud Partner to Expand AI-Assisted Capabilities](https://www.googlecloudpresscorner.com/2023-05-02-GitLab-and-Google-Cloud-Partner-to-Expand-AI-Assisted-Capabilities-with-Customizable-Gen-AI-Foundation-Models)
 * [2023-05-04, 07:01:11](https://news.ycombinator.com/item?id=35812171) - [PhotoRoom Is Hiring a Senior Django Engineer in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2023-05-04, 06:04:56](https://news.ycombinator.com/item?id=35811741) - [Prime Video Abandons Serverless Distributed Stack for Monolith, saves 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 * [2023-05-04, 05:30:40](https://news.ycombinator.com/item?id=35811570) - [How America’s Obsession with DEI Is Sabotaging Our Medical Schools](https://www.thefp.com/p/how-americas-obsession-with-dei-is)
