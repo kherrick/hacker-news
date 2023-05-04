@@ -15,6 +15,7 @@
 * [2023-05-03, 21:22:59](https://news.ycombinator.com/item?id=35807981) - [The Evolution of Trust (2017)](https://ncase.me/trust/)
 * [2023-05-03, 21:20:45](https://news.ycombinator.com/item?id=35807957) - [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)
 * [2023-05-03, 21:20:18](https://news.ycombinator.com/item?id=35807951) - [Wearing an eye mask during sleep improves episodic learning and alertness](https://pubmed.ncbi.nlm.nih.gov/36521010/)
+* [2023-05-03, 21:12:47](https://news.ycombinator.com/item?id=35807877) - [LogJam Attack [video]](https://www.youtube.com/watch?v=gVtjsd00fWo)
 * [2023-05-03, 20:54:32](https://news.ycombinator.com/item?id=35807660) - [Measured typing latency of popular terminal emulators](https://tomscii.sig7.se/2021/01/Typing-latency-of-Zutty)
 * [2023-05-03, 20:52:41](https://news.ycombinator.com/item?id=35807639) - [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf)
 * [2023-05-03, 20:41:43](https://news.ycombinator.com/item?id=35807489) - [Is Perpetual Motion Possible at the Quantum Level?](https://www.quantamagazine.org/is-perpetual-motion-possible-at-the-quantum-level-20230503/)
