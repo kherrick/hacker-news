@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-04, 01:44:21",
+      "https://news.ycombinator.com/item?id=35810281"
+    ],
+    [
+      "UDP transmitter implemented with PIO and DMA on the RP2040",
+      "https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 01:08:16",
       "https://news.ycombinator.com/item?id=35810016"
     ],
@@ -17,16 +27,6 @@
     [
       "Somehow AutoHotKey is kinda good now",
       "https://www.hillelwayne.com/post/ahk-v2/"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 00:39:20",
-      "https://news.ycombinator.com/item?id=35809807"
-    ],
-    [
-      "Google employees complain about CEO&#x27;s pay raise as cost cuts hit company",
-      "https://www.cnbc.com/2023/05/03/google-employees-complain-about-ceo-sundar-pichais-pay-raise.html"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=35808710"
     ],
     [
-      "Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning",
+      "Agile soccer skills for a bipedal robot with deep reinforcement learning",
       "https://twitter.com/haarnoja/status/1651577815836270596"
     ]
   ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-05-03, 16:18:51",
+      "https://news.ycombinator.com/item?id=35804220"
+    ],
+    [
+      "Temporal .NET – Deterministic Workflow Authoring in .NET",
+      "https://temporal.io/blog/introducing-temporal-dotnet"
+    ]
+  ],
+  [
+    [
       "2023-05-03, 15:19:20",
       "https://news.ycombinator.com/item?id=35803435"
     ],
@@ -257,16 +267,6 @@
     [
       "It&#x27;s A(door)able",
       "https://ncase.me/door/"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 09:13:46",
-      "https://news.ycombinator.com/item?id=35799897"
-    ],
-    [
-      "Quasicrystalline structure of the Smith monotile tilings",
-      "https://arxiv.org/abs/2305.01174"
     ]
   ],
   [
