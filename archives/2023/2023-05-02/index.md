@@ -90,6 +90,7 @@
 * [2023-05-02, 06:41:54](https://news.ycombinator.com/item?id=35784157) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
 * [2023-05-02, 06:28:21](https://news.ycombinator.com/item?id=35784067) - [White-collar crime costs society 20x as much as street crime](https://www.embroker.com/blog/white-collar-crime-statistics/#white-collar_crime_costs)
 * [2023-05-02, 06:18:08](https://news.ycombinator.com/item?id=35784001) - [Banana Equivalent Dose](https://en.wikipedia.org/wiki/Banana_equivalent_dose)
+* [2023-05-02, 05:56:54](https://news.ycombinator.com/item?id=35783872) - [Building an Intel 8008 Computer “Clock” (2006)](https://www.8008chron.com)
 * [2023-05-02, 05:17:51](https://news.ycombinator.com/item?id=35783650) - [ChatGPT: It has no inner monologue or meta-cognition](https://lukeplant.me.uk/blog/posts/chatgpt-no-inner-monologue-or-meta-cognition/)
 * [2023-05-02, 05:12:08](https://news.ycombinator.com/item?id=35783608) - [How to make buttons in VR (2017)](https://bvisness.me/vr-buttons/)
 * [2023-05-02, 03:54:30](https://news.ycombinator.com/item?id=35783189) - [Guidelines for Brutalist Web Design](https://brutalist-web.design/)
