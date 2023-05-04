@@ -75,6 +75,7 @@
 * [2023-05-03, 09:47:15](https://news.ycombinator.com/item?id=35800158) - [MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 * [2023-05-03, 09:45:09](https://news.ycombinator.com/item?id=35800136) - [A Programmer&#x27;s Introduction to Mathematics](https://pimbook.org)
 * [2023-05-03, 09:35:58](https://news.ycombinator.com/item?id=35800072) - [Arc Will Change the Way You Work on the Web](https://tidbits.com/2023/05/01/arc-will-change-the-way-you-work-on-the-web/)
+* [2023-05-03, 09:29:39](https://news.ycombinator.com/item?id=35800023) - [The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)
 * [2023-05-03, 09:13:46](https://news.ycombinator.com/item?id=35799897) - [Quasicrystalline structure of the Smith monotile tilings](https://arxiv.org/abs/2305.01174)
 * [2023-05-03, 08:45:42](https://news.ycombinator.com/item?id=35799691) - [A professor found her name on an article she didn’t write. Then it got worse](https://retractionwatch.com/2023/04/18/a-professor-found-her-name-on-an-article-she-didnt-write-then-it-got-worse/)
 * [2023-05-03, 08:31:40](https://news.ycombinator.com/item?id=35799609) - [UK Campaigning to replace the Monarchy with an elected head of state](https://twitter.com/RepublicStaff)

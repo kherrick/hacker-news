@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 13:32:23](https://news.ycombinator.com/item?id=35815029) - [Google shared AI knowledge with the world – until ChatGPT caught up](https://www.washingtonpost.com/technology/2023/05/04/google-ai-stop-sharing-research/)
 * [2023-05-04, 13:10:19](https://news.ycombinator.com/item?id=35814701) - [Google, Meta executives push back against Canada online news bill](https://www.reuters.com/business/media-telecom/canada-online-news-bill-is-unreasonable-google-executive-says-2023-05-03/)
 * [2023-05-04, 12:57:56](https://news.ycombinator.com/item?id=35814537) - [State-controlled media gain Twitter followers after quiet platform policy change](https://dfrlab.org/2023/04/21/state-controlled-media-experience-sudden-twitter-gains-after-unannounced-platform-policy-change/)
 * [2023-05-04, 12:52:21](https://news.ycombinator.com/item?id=35814480) - [OpenAI Personal Data Removal Request Form](https://share.hsforms.com/1UPy6xqxZSEqTrGDh4ywo_g4sk30)

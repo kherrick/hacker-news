@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-04, 13:32:23](https://news.ycombinator.com/item?id=35815029) - [Google shared AI knowledge with the world – until ChatGPT caught up](https://www.washingtonpost.com/technology/2023/05/04/google-ai-stop-sharing-research/)
 * [2023-05-04, 13:10:19](https://news.ycombinator.com/item?id=35814701) - [Google, Meta executives push back against Canada online news bill](https://www.reuters.com/business/media-telecom/canada-online-news-bill-is-unreasonable-google-executive-says-2023-05-03/)
 * [2023-05-04, 12:57:56](https://news.ycombinator.com/item?id=35814537) - [State-controlled media gain Twitter followers after quiet platform policy change](https://dfrlab.org/2023/04/21/state-controlled-media-experience-sudden-twitter-gains-after-unannounced-platform-policy-change/)
 * [2023-05-04, 12:52:21](https://news.ycombinator.com/item?id=35814480) - [OpenAI Personal Data Removal Request Form](https://share.hsforms.com/1UPy6xqxZSEqTrGDh4ywo_g4sk30)
@@ -24,9 +25,8 @@
 * [2023-05-03, 23:35:15](https://news.ycombinator.com/item?id=35809302) - [Hacker News Highlights](https://news.ycombinator.com/highlights)
 * [2023-05-03, 22:52:02](https://news.ycombinator.com/item?id=35808899) - [What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
 * [2023-05-03, 22:34:02](https://news.ycombinator.com/item?id=35808710) - [Agile soccer skills for a bipedal robot with deep reinforcement learning](https://twitter.com/haarnoja/status/1651577815836270596)
-* [2023-05-03, 20:52:41](https://news.ycombinator.com/item?id=35807639) - [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf)
 * [2023-05-03, 15:19:20](https://news.ycombinator.com/item?id=35803435) - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
-* [2023-05-03, 10:32:10](https://news.ycombinator.com/item?id=35800492) - [It&#x27;s A(door)able](https://ncase.me/door/)
+* [2023-05-03, 09:29:39](https://news.ycombinator.com/item?id=35800023) - [The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)
 * [2023-05-02, 10:13:59](https://news.ycombinator.com/item?id=35785421) - [How Quickwit Rust Actor Framework tackles the challenges of efficient indexing](https://quickwit.io/blog/quickwit-actor-framework/)
 * [2023-05-02, 05:56:54](https://news.ycombinator.com/item?id=35783872) - [Building an Intel 8008 Computer “Clock” (2006)](https://www.8008chron.com)
 * [2023-04-30, 12:16:50](https://news.ycombinator.com/item?id=35761874) - [Another Kind of Time](https://emergencemagazine.org/interview/another-kind-of-time/)
