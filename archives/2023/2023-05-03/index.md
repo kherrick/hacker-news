@@ -66,6 +66,7 @@
 * [2023-05-03, 11:19:23](https://news.ycombinator.com/item?id=35800936) - [Snobol (“StriNg Oriented and SymBOlic Language”)](https://en.wikipedia.org/wiki/SNOBOL)
 * [2023-05-03, 10:54:32](https://news.ycombinator.com/item?id=35800711) - [JavaScript import maps are now supported cross-browser](https://web.dev/import-maps-in-all-modern-browsers/)
 * [2023-05-03, 10:51:13](https://news.ycombinator.com/item?id=35800667) - [Beware of AI pseudoscience and snake oil](https://www.baldurbjarnason.com/2023/beware-of-ai-snake-oil/)
+* [2023-05-03, 10:34:01](https://news.ycombinator.com/item?id=35800508) - [FET: The Friendly Efficient Transistor](https://hackaday.com/2023/04/25/fet-the-friendly-efficient-transistor/)
 * [2023-05-03, 10:32:10](https://news.ycombinator.com/item?id=35800492) - [It&#x27;s A(door)able](https://ncase.me/door/)
 * [2023-05-03, 10:17:37](https://news.ycombinator.com/item?id=35800376) - [The Windscale Fire: Britain&#x27;s &#x27;Chernobyl&#x27; (2019)](https://www.mirror.co.uk/news/uk-news/windscale-fire-britains-chernobyl-covered-15774677)
 * [2023-05-03, 10:01:13](https://news.ycombinator.com/item?id=35800242) - [Apple, Google partner on an industry specification to address unwanted tracking](https://www.apple.com/newsroom/2023/05/apple-google-partner-on-an-industry-specification-to-address-unwanted-tracking/)
