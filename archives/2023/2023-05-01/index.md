@@ -97,6 +97,7 @@
 * [2023-05-01, 09:59:02](https://news.ycombinator.com/item?id=35770816) - [Millions snap up new Germany-wide public transit ticket](https://apnews.com/article/germany-public-transit-cheap-ticket-trains-metro-3d83f1a35ab8e3945b8034b9bd511c29)
 * [2023-05-01, 09:32:31](https://news.ycombinator.com/item?id=35770678) - [First clean water, now clean air](https://finmoorhouse.com/writing/clean-air/)
 * [2023-05-01, 09:12:36](https://news.ycombinator.com/item?id=35770563) - [Michael J. Fox Foundation Announces Breakthrough for Parkinson&#x27;s Biomarker](https://www.michaeljfox.org/publication/michael-j-fox-foundation-announces-significant-breakthrough-search-parkinsons-biomarker)
+* [2023-05-01, 08:26:19](https://news.ycombinator.com/item?id=35770316) - [How SDN Came to the Wide Area](https://systemsapproach.substack.com/p/how-sdn-came-to-the-wide-area)
 * [2023-05-01, 07:53:10](https://news.ycombinator.com/item?id=35770128) - [Why woodpeckers can hammer without getting headaches](https://www.birdwatchingdaily.com/news/science/woodpeckers-hammer-without-headaches/)
 * [2023-05-01, 07:44:27](https://news.ycombinator.com/item?id=35770079) - [Learning Some Logarithms](https://two-wrongs.com/learning-some-logarithms.html)
 * [2023-05-01, 07:37:47](https://news.ycombinator.com/item?id=35770048) - [JPMorgan Chase Bank Assumes All the Deposits of First Republic Bank](https://www.fdic.gov/news/press-releases/2023/pr23034.html)

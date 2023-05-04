@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-04, 06:04:56](https://news.ycombinator.com/item?id=35811741) - [Prime Video Abandons Serverless Distributed Stack for Monolith, saves 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
-* [2023-05-04, 05:30:40](https://news.ycombinator.com/item?id=35811570) - [How America’s Obsession with DEI Is Sabotaging Our Medical Schools](https://www.thefp.com/p/how-americas-obsession-with-dei-is)
 * [2023-05-04, 03:47:58](https://news.ycombinator.com/item?id=35810977) - [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 * [2023-05-04, 03:32:05](https://news.ycombinator.com/item?id=35810901) - [Firesky – The Bluesky Firehose](https://firesky.tv/)
 * [2023-05-04, 02:49:25](https://news.ycombinator.com/item?id=35810663) - [Distilling Step-by-Step Outperforming Larger Language Models with Less Training](https://arxiv.org/abs/2305.02301)
@@ -30,6 +29,7 @@
 * [2023-05-03, 07:10:29](https://news.ycombinator.com/item?id=35799091) - [Nanoimprint Finally Finds Its Footing](https://semiengineering.com/nanoimprint-finds-its-footing-in-photonics/)
 * [2023-05-02, 19:16:15](https://news.ycombinator.com/item?id=35792705) - [Disappearing Act: The working life of Haruki Murakami](https://www.thenation.com/article/culture/haruki-murakami-novelist-vocation/)
 * [2023-05-02, 13:28:42](https://news.ycombinator.com/item?id=35787119) - [Like the macOS Dock but for macOS System 7](https://github.com/retrospectmike/MacDock)
+* [2023-05-01, 08:26:19](https://news.ycombinator.com/item?id=35770316) - [How SDN Came to the Wide Area](https://systemsapproach.substack.com/p/how-sdn-came-to-the-wide-area)
 
 ## [Archives](archives/index.md)
 
