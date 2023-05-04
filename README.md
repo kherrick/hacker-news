@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-04, 18:54:56](https://news.ycombinator.com/item?id=35820368) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
 * [2023-05-04, 18:28:50](https://news.ycombinator.com/item?id=35819990) - [Roll your own JavaScript runtime, pt. 3](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
 * [2023-05-04, 18:03:32](https://news.ycombinator.com/item?id=35819613) - [Augmenting LLMs Beyond Basic Text Completion and Transformation](https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/)
 * [2023-05-04, 17:53:03](https://news.ycombinator.com/item?id=35819463) - [May 4 Shootings at Kent State University: The Search for Historical Accuracy](https://www.kent.edu/may-4-historical-accuracy)
@@ -16,7 +17,6 @@
 * [2023-05-04, 14:06:57](https://news.ycombinator.com/item?id=35815538) - [Europeans drain billions from banks, fed up with shrinking savings](https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04/)
 * [2023-05-04, 13:56:14](https://news.ycombinator.com/item?id=35815382) - [UEFI Secure Boot on the Raspberry Pi](https://www.linux.it/~ema/posts/secure-boot-rpi/)
 * [2023-05-04, 13:00:28](https://news.ycombinator.com/item?id=35814575) - [Hue Light Hack](https://www.atomic14.com/2023/05/04/hue-light-hacking.html)
-* [2023-05-04, 12:52:21](https://news.ycombinator.com/item?id=35814480) - [OpenAI Personal Data Removal Request Form](https://share.hsforms.com/1UPy6xqxZSEqTrGDh4ywo_g4sk30)
 * [2023-05-04, 12:09:09](https://news.ycombinator.com/item?id=35814081) - [Facebook has not been doing enough to comply with a 2020 privacy order: FTC](https://arstechnica.com/tech-policy/2023/05/ftc-says-facebook-violated-privacy-order-proposes-ban-on-monetizing-youth-data/)
 * [2023-05-04, 12:02:40](https://news.ycombinator.com/item?id=35814043) - [New Yorkers want to stop landlords from using facial recognition](https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997)
 * [2023-05-04, 11:57:19](https://news.ycombinator.com/item?id=35813991) - [Prediction and Entropy of Printed English (1950) [pdf]](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)
