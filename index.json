@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-03, 23:35:15",
+      "https://news.ycombinator.com/item?id=35809302"
+    ],
+    [
+      "Hacker News Highlights",
+      "https://news.ycombinator.com/highlights"
+    ]
+  ],
+  [
+    [
       "2023-05-03, 23:17:24",
       "https://news.ycombinator.com/item?id=35809144"
     ],
@@ -27,6 +37,16 @@
     [
       "What do historians lose with the decline of local news?",
       "https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 22:10:18",
+      "https://news.ycombinator.com/item?id=35808485"
+    ],
+    [
+      "TOTP Authentication with Free Software",
+      "https://lwn.net/Articles/925870/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-05-03, 11:57:25",
-      "https://news.ycombinator.com/item?id=35801265"
-    ],
-    [
-      "The skills gap for Fortran looms large in HPC",
-      "https://www.nextplatform.com/2023/05/02/the-skills-gap-for-fortran-looms-large-in-hpc/"
-    ]
-  ],
-  [
-    [
       "2023-05-03, 11:24:57",
       "https://news.ycombinator.com/item?id=35800988"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2023-05-03, 09:45:09",
-      "https://news.ycombinator.com/item?id=35800136"
-    ],
-    [
-      "A Programmer&#x27;s Introduction to Mathematics",
-      "https://pimbook.org"
-    ]
-  ],
-  [
-    [
       "2023-05-03, 01:51:15",
       "https://news.ycombinator.com/item?id=35796744"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-05-03, 01:14:38",
-      "https://news.ycombinator.com/item?id=35796478"
+      "2023-05-02, 21:56:08",
+      "https://news.ycombinator.com/item?id=35794774"
     ],
     [
-      "The Poet and the Tyrant: Osip Mandelstam",
-      "https://literaryreview.co.uk/the-poet-the-tyrant"
+      "Argus – monitor the versions of software and trigger alerts when a new release",
+      "https://release-argus.io/"
     ]
   ],
   [
