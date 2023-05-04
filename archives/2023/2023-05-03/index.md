@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 23:48:46](https://news.ycombinator.com/item?id=35809428) - [Privacyguides.org Recommendations](https://www.privacyguides.org/en/tools/)
+* [2023-05-03, 23:45:23](https://news.ycombinator.com/item?id=35809397) - [The first empirical study of the real-world economic effects of new AI systems](https://www.npr.org/sections/money/2023/05/02/1172791281/this-company-adopted-ai-heres-what-happened-to-its-human-workers)
 * [2023-05-03, 23:35:15](https://news.ycombinator.com/item?id=35809302) - [Hacker News Highlights](https://news.ycombinator.com/highlights)
 * [2023-05-03, 23:17:24](https://news.ycombinator.com/item?id=35809144) - [Get a Tesla if you want to learn about AI trying to kill you, says Steve Wozniak](https://electrek.co/2023/05/03/tesla-ai-trying-to-kill-you-steve-wozniak/)
 * [2023-05-03, 23:11:31](https://news.ycombinator.com/item?id=35809082) - [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
 * [2023-05-03, 22:52:02](https://news.ycombinator.com/item?id=35808899) - [What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
+* [2023-05-03, 22:34:02](https://news.ycombinator.com/item?id=35808710) - [Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://twitter.com/haarnoja/status/1651577815836270596)
 * [2023-05-03, 22:10:18](https://news.ycombinator.com/item?id=35808485) - [TOTP Authentication with Free Software](https://lwn.net/Articles/925870/)
 * [2023-05-03, 21:20:45](https://news.ycombinator.com/item?id=35807957) - [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)
 * [2023-05-03, 21:20:18](https://news.ycombinator.com/item?id=35807951) - [Wearing an eye mask during sleep improves episodic learning and alertness](https://pubmed.ncbi.nlm.nih.gov/36521010/)
@@ -71,6 +74,7 @@
 * [2023-05-03, 09:47:15](https://news.ycombinator.com/item?id=35800158) - [MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 * [2023-05-03, 09:45:09](https://news.ycombinator.com/item?id=35800136) - [A Programmer&#x27;s Introduction to Mathematics](https://pimbook.org)
 * [2023-05-03, 09:35:58](https://news.ycombinator.com/item?id=35800072) - [Arc Will Change the Way You Work on the Web](https://tidbits.com/2023/05/01/arc-will-change-the-way-you-work-on-the-web/)
+* [2023-05-03, 09:13:46](https://news.ycombinator.com/item?id=35799897) - [Quasicrystalline structure of the Smith monotile tilings](https://arxiv.org/abs/2305.01174)
 * [2023-05-03, 08:45:42](https://news.ycombinator.com/item?id=35799691) - [A professor found her name on an article she didn’t write. Then it got worse](https://retractionwatch.com/2023/04/18/a-professor-found-her-name-on-an-article-she-didnt-write-then-it-got-worse/)
 * [2023-05-03, 08:31:40](https://news.ycombinator.com/item?id=35799609) - [UK Campaigning to replace the Monarchy with an elected head of state](https://twitter.com/RepublicStaff)
 * [2023-05-03, 08:30:47](https://news.ycombinator.com/item?id=35799605) - [Ask HN: Why are there no 5G USB-C dongles for laptops?](https://news.ycombinator.com/item?id=35799605)
