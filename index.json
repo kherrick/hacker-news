@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-05-04, 18:33:50",
-      "https://news.ycombinator.com/item?id=35820058"
+      "2023-05-04, 18:28:50",
+      "https://news.ycombinator.com/item?id=35819990"
     ],
     [
-      "Discord plans to make everyone change their username",
-      "https://www.bbc.co.uk/news/technology-65483184"
+      "Roll your own JavaScript runtime, pt. 3",
+      "https://deno.com/blog/roll-your-own-javascript-runtime-pt3"
+    ]
+  ],
+  [
+    [
+      "2023-05-04, 18:03:32",
+      "https://news.ycombinator.com/item?id=35819613"
+    ],
+    [
+      "Augmenting LLMs Beyond Basic Text Completion and Transformation",
+      "https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Google Introduces Passkey Authentication",
       "https://security.googleblog.com/2023/05/so-long-passwords-thanks-for-all-phish.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 14:22:13",
-      "https://news.ycombinator.com/item?id=35815810"
-    ],
-    [
-      "White House announces new actions to promote responsible AI innovation",
-      "https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-05-04, 03:47:58",
-      "https://news.ycombinator.com/item?id=35810977"
-    ],
-    [
-      "Ryujinx: Experimental Nintendo Switch Emulator written in C#",
-      "https://github.com/Ryujinx/Ryujinx"
-    ]
-  ],
-  [
-    [
       "2023-05-03, 21:22:59",
       "https://news.ycombinator.com/item?id=35807981"
     ],
@@ -287,6 +277,16 @@
     [
       "Cubic Interpolation of Quaternion",
       "https://theorangeduck.com/page/cubic-interpolation-quaternions"
+    ]
+  ],
+  [
+    [
+      "2023-05-02, 08:41:34",
+      "https://news.ycombinator.com/item?id=35784856"
+    ],
+    [
+      "Plan 9 – introduction to library functions",
+      "http://man.cat-v.org/plan_9/2/intro"
     ]
   ],
   [
