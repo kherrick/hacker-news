@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 14:22:13](https://news.ycombinator.com/item?id=35815810) - [White House announces new actions to promote responsible AI innovation](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/)
+* [2023-05-04, 14:20:11](https://news.ycombinator.com/item?id=35815765) - [Companies use dark patterns to keep you subscribed](https://pudding.cool/2023/05/dark-patterns/)
+* [2023-05-04, 14:14:11](https://news.ycombinator.com/item?id=35815662) - [Ransomware attack forces Dallas to shut down courts, disrupts some 911 services](https://techcrunch.com/2023/05/04/ransomware-attack-forces-dallas-to-shut-down-courts-disrupt-some-911-services/)
 * [2023-05-04, 14:06:57](https://news.ycombinator.com/item?id=35815538) - [Europeans drain billions from banks, fed up with shrinking savings](https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04/)
 * [2023-05-04, 13:56:57](https://news.ycombinator.com/item?id=35815396) - [The UK’s tortured attempt to remake the internet](https://www.theverge.com/23708180/united-kingdom-online-safety-bill-explainer-legal-pornography-age-checks)
 * [2023-05-04, 13:47:57](https://news.ycombinator.com/item?id=35815266) - [Land Ownership Makes No Sense](https://www.wired.com/story/land-ownership-morality-economics-georgism/)
