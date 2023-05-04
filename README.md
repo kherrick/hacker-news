@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-04, 17:42:51](https://news.ycombinator.com/item?id=35819305) - [BigCode Project Releases StarCoder: A 15B Code LLM](https://huggingface.co/bigcode)
 * [2023-05-04, 17:00:47](https://news.ycombinator.com/item?id=35818616) - [Replit (YC W18) Is Hiring Engineers and Designers](https://replit.com/careers)
 * [2023-05-04, 16:09:21](https://news.ycombinator.com/item?id=35817708) - [The First Image from EUMETSAT’s Newest Satellite](https://www.eumetsat.int/features/discover-first-images-mtg-i1)
 * [2023-05-04, 15:25:07](https://news.ycombinator.com/item?id=35816900) - [JEP 450: Compact Object Headers](https://openjdk.org/jeps/450)
@@ -28,7 +29,6 @@
 * [2023-05-03, 09:29:39](https://news.ycombinator.com/item?id=35800023) - [The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)
 * [2023-05-03, 06:36:46](https://news.ycombinator.com/item?id=35798829) - [Why Split Lexing and Parsing into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
 * [2023-05-03, 06:27:05](https://news.ycombinator.com/item?id=35798746) - [Cubic Interpolation of Quaternion](https://theorangeduck.com/page/cubic-interpolation-quaternions)
-* [2023-05-02, 05:56:54](https://news.ycombinator.com/item?id=35783872) - [Building an Intel 8008 Computer “Clock” (2006)](https://www.8008chron.com)
 * [2023-04-30, 13:38:01](https://news.ycombinator.com/item?id=35762418) - [Mercedes EVs can go faster for $60 a month](https://www.cnn.com/2023/04/27/business/mercedes-horsepower-upgrade/index.html)
 
 ## [Archives](archives/index.md)
