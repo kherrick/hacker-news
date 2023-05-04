@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-04, 01:08:16](https://news.ycombinator.com/item?id=35810016) - [The Last Post](https://www.penmachine.com/2011/05/the-last-post)
-* [2023-05-04, 01:03:52](https://news.ycombinator.com/item?id=35809978) - [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
 * [2023-05-04, 00:39:20](https://news.ycombinator.com/item?id=35809807) - [Google employees complain about CEO&#x27;s pay raise as cost cuts hit company](https://www.cnbc.com/2023/05/03/google-employees-complain-about-ceo-sundar-pichais-pay-raise.html)
+* [2023-05-04, 00:18:14](https://news.ycombinator.com/item?id=35809658) - [Mojo might be the biggest thing to happen in programming for decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 * [2023-05-03, 23:35:15](https://news.ycombinator.com/item?id=35809302) - [Hacker News Highlights](https://news.ycombinator.com/highlights)
 * [2023-05-03, 23:11:31](https://news.ycombinator.com/item?id=35809082) - [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
 * [2023-05-03, 22:52:02](https://news.ycombinator.com/item?id=35808899) - [What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
