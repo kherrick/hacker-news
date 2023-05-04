@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-04, 13:32:23](https://news.ycombinator.com/item?id=35815029) - [Google shared AI knowledge with the world – until ChatGPT caught up](https://www.washingtonpost.com/technology/2023/05/04/google-ai-stop-sharing-research/)
+* [2023-05-04, 13:26:04](https://news.ycombinator.com/item?id=35814945) - [California’s population declines, again, as state grapples with housing crisis](https://www.theguardian.com/us-news/2023/may/03/california-population-decline-states)
 * [2023-05-04, 13:10:19](https://news.ycombinator.com/item?id=35814701) - [Google, Meta executives push back against Canada online news bill](https://www.reuters.com/business/media-telecom/canada-online-news-bill-is-unreasonable-google-executive-says-2023-05-03/)
+* [2023-05-04, 13:00:28](https://news.ycombinator.com/item?id=35814575) - [Hue Light Hack](https://www.atomic14.com/2023/05/04/hue-light-hacking.html)
 * [2023-05-04, 12:57:56](https://news.ycombinator.com/item?id=35814537) - [State-controlled media gain Twitter followers after quiet platform policy change](https://dfrlab.org/2023/04/21/state-controlled-media-experience-sudden-twitter-gains-after-unannounced-platform-policy-change/)
 * [2023-05-04, 12:52:21](https://news.ycombinator.com/item?id=35814480) - [OpenAI Personal Data Removal Request Form](https://share.hsforms.com/1UPy6xqxZSEqTrGDh4ywo_g4sk30)
 * [2023-05-04, 12:13:55](https://news.ycombinator.com/item?id=35814113) - [EARN IT Act Remains a Threat to Liberty, Security, &amp; Safety of Children](https://techfreedom.org/earn-it-act-remains-a-threat-to-liberty-security-safety-of-children/)
@@ -22,7 +23,6 @@
 * [2023-05-04, 00:18:14](https://news.ycombinator.com/item?id=35809658) - [Mojo might be the biggest thing to happen in programming for decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 * [2023-05-04, 00:06:24](https://news.ycombinator.com/item?id=35809570) - [The money spent on lotteries doesn’t go to the park](https://outdoorstatus.com/articles/recreation-gov-lottery-fees/)
 * [2023-05-03, 23:45:23](https://news.ycombinator.com/item?id=35809397) - [The first empirical study of the real-world economic effects of new AI systems](https://www.npr.org/sections/money/2023/05/02/1172791281/this-company-adopted-ai-heres-what-happened-to-its-human-workers)
-* [2023-05-03, 23:35:15](https://news.ycombinator.com/item?id=35809302) - [Hacker News Highlights](https://news.ycombinator.com/highlights)
 * [2023-05-03, 22:52:02](https://news.ycombinator.com/item?id=35808899) - [What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
 * [2023-05-03, 22:34:02](https://news.ycombinator.com/item?id=35808710) - [Agile soccer skills for a bipedal robot with deep reinforcement learning](https://twitter.com/haarnoja/status/1651577815836270596)
 * [2023-05-03, 15:19:20](https://news.ycombinator.com/item?id=35803435) - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
