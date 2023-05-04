@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-04, 12:38:58",
+      "https://news.ycombinator.com/item?id=35814322"
+    ],
+    [
+      "Mach-9 12-passenger jet will fly from New York to Tokyo in one hour",
+      "https://robbreport.com/motors/aviation/hypersonic-aircraft-venus-global-flights-in-hour-1234837362/"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 12:09:09",
       "https://news.ycombinator.com/item?id=35814081"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2023-05-04, 11:37:13",
+      "https://news.ycombinator.com/item?id=35813849"
+    ],
+    [
+      "Shopify offloads logistics business to Flexport",
+      "https://www.cnbc.com/2023/05/04/shopify-offloads-logistics-business-to-flexport.html"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 11:33:26",
       "https://news.ycombinator.com/item?id=35813821"
     ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35813595"
     ],
     [
-      "The “baseline” scene in bladerunner 2049 was written by Ryan Gosling",
+      "The “baseline” scene in bladerunner 2049 was written by Ryan Gosling (2022)",
       "https://cohost.org/mcc/post/178201-the-baseline-scene"
     ]
   ],
@@ -131,6 +151,16 @@
   ],
   [
     [
+      "2023-05-04, 00:18:14",
+      "https://news.ycombinator.com/item?id=35809658"
+    ],
+    [
+      "Mojo might be the biggest thing to happen in programming for decades",
+      "https://www.fast.ai/posts/2023-05-03-mojo-launch.html"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 00:06:24",
       "https://news.ycombinator.com/item?id=35809570"
     ],
@@ -181,52 +211,12 @@
   ],
   [
     [
-      "2023-05-03, 21:20:45",
-      "https://news.ycombinator.com/item?id=35807957"
-    ],
-    [
-      "Voyager as Technosignature",
-      "https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 20:54:32",
-      "https://news.ycombinator.com/item?id=35807660"
-    ],
-    [
-      "Measured: Typing latency of Zutty compared to other terminal emulators (2021)",
-      "https://tomscii.sig7.se/2021/01/Typing-latency-of-Zutty"
-    ]
-  ],
-  [
-    [
       "2023-05-03, 20:52:41",
       "https://news.ycombinator.com/item?id=35807639"
     ],
     [
       "Lotus 1-2-3 for Linux",
       "https://github.com/taviso/123elf"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 19:18:25",
-      "https://news.ycombinator.com/item?id=35806515"
-    ],
-    [
-      "Testosterone in tusks: Hormones in mammoth fossils",
-      "https://arstechnica.com/science/2023/05/testosterone-in-tusks-hormones-in-mammoth-fossils-excite-paleontologists/"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 17:11:47",
-      "https://news.ycombinator.com/item?id=35804935"
-    ],
-    [
-      "How Does an FPGA Work?",
-      "https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all"
     ]
   ],
   [
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2023-05-03, 11:24:57",
-      "https://news.ycombinator.com/item?id=35800988"
+      "2023-05-03, 10:34:01",
+      "https://news.ycombinator.com/item?id=35800508"
     ],
     [
-      "I want to talk about WebGPU",
-      "https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu"
+      "FET: The Friendly Efficient Transistor",
+      "https://hackaday.com/2023/04/25/fet-the-friendly-efficient-transistor/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "How Quickwit Rust Actor Framework tackles the challenges of efficient indexing",
       "https://quickwit.io/blog/quickwit-actor-framework/"
+    ]
+  ],
+  [
+    [
+      "2023-05-02, 05:56:54",
+      "https://news.ycombinator.com/item?id=35783872"
+    ],
+    [
+      "Building an Intel 8008 Computer “Clock” (2006)",
+      "https://www.8008chron.com"
     ]
   ],
   [
