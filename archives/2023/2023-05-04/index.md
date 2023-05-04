@@ -17,6 +17,7 @@
 * [2023-05-04, 14:14:11](https://news.ycombinator.com/item?id=35815662) - [Ransomware attack forces Dallas to shut down courts, disrupts some 911 services](https://techcrunch.com/2023/05/04/ransomware-attack-forces-dallas-to-shut-down-courts-disrupt-some-911-services/)
 * [2023-05-04, 14:06:57](https://news.ycombinator.com/item?id=35815538) - [Europeans drain billions from banks, fed up with shrinking savings](https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04/)
 * [2023-05-04, 13:56:57](https://news.ycombinator.com/item?id=35815396) - [The UK’s tortured attempt to remake the internet](https://www.theverge.com/23708180/united-kingdom-online-safety-bill-explainer-legal-pornography-age-checks)
+* [2023-05-04, 13:56:14](https://news.ycombinator.com/item?id=35815382) - [UEFI Secure Boot on the Raspberry Pi](https://www.linux.it/~ema/posts/secure-boot-rpi/)
 * [2023-05-04, 13:47:57](https://news.ycombinator.com/item?id=35815266) - [Land Ownership Makes No Sense](https://www.wired.com/story/land-ownership-morality-economics-georgism/)
 * [2023-05-04, 13:32:23](https://news.ycombinator.com/item?id=35815029) - [Google shared AI knowledge with the world – until ChatGPT caught up](https://www.washingtonpost.com/technology/2023/05/04/google-ai-stop-sharing-research/)
 * [2023-05-04, 13:26:04](https://news.ycombinator.com/item?id=35814945) - [California’s population declines, again, as state grapples with housing crisis](https://www.theguardian.com/us-news/2023/may/03/california-population-decline-states)
