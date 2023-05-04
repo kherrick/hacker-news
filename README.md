@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-04, 22:38:16](https://news.ycombinator.com/item?id=35823051) - [Westinghouse AP300 Small Module Reactor](https://www.westinghousenuclear.com/energy-systems/ap300-smr)
 * [2023-05-04, 21:53:00](https://news.ycombinator.com/item?id=35822601) - [The Case for Not Having a TV](https://lopespm.com/notes/2023/05/04/the-case-for-not-having-tv.html)
 * [2023-05-04, 21:41:56](https://news.ycombinator.com/item?id=35822482) - [Restricted Library Mode (Breaking change to Val Town)](https://blog.val.town/blog/restricted-library-mode)
 * [2023-05-04, 20:54:42](https://news.ycombinator.com/item?id=35821927) - [Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs](https://arstechnica.com/tech-policy/2023/05/googlers-angry-about-ceos-226m-pay-after-cuts-in-perks-and-12000-layoffs/)
@@ -20,7 +21,6 @@
 * [2023-05-04, 13:56:57](https://news.ycombinator.com/item?id=35815396) - [The UK’s tortured attempt to remake the internet](https://www.theverge.com/23708180/united-kingdom-online-safety-bill-explainer-legal-pornography-age-checks)
 * [2023-05-04, 13:56:14](https://news.ycombinator.com/item?id=35815382) - [UEFI Secure Boot on the Raspberry Pi](https://www.linux.it/~ema/posts/secure-boot-rpi/)
 * [2023-05-04, 12:09:09](https://news.ycombinator.com/item?id=35814081) - [Facebook has not been doing enough to comply with a 2020 privacy order: FTC](https://arstechnica.com/tech-policy/2023/05/ftc-says-facebook-violated-privacy-order-proposes-ban-on-monetizing-youth-data/)
-* [2023-05-04, 11:57:19](https://news.ycombinator.com/item?id=35813991) - [Prediction and Entropy of Printed English (1950) [pdf]](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)
 * [2023-05-04, 10:47:43](https://news.ycombinator.com/item?id=35813496) - [The seven programming ur-languages (2021)](https://madhadron.com/programming/seven_ur_languages.html)
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-03, 21:22:59](https://news.ycombinator.com/item?id=35807981) - [The Evolution of Trust (2017)](https://ncase.me/trust/)
