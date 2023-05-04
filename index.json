@@ -111,22 +111,22 @@
   ],
   [
     [
-      "2023-05-04, 14:06:57",
-      "https://news.ycombinator.com/item?id=35815538"
-    ],
-    [
-      "Europeans drain billions from banks, fed up with shrinking savings",
-      "https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04/"
-    ]
-  ],
-  [
-    [
       "2023-05-04, 13:56:57",
       "https://news.ycombinator.com/item?id=35815396"
     ],
     [
       "The UK’s tortured attempt to remake the internet",
       "https://www.theverge.com/23708180/united-kingdom-online-safety-bill-explainer-legal-pornography-age-checks"
+    ]
+  ],
+  [
+    [
+      "2023-05-04, 13:56:14",
+      "https://news.ycombinator.com/item?id=35815382"
+    ],
+    [
+      "UEFI Secure Boot on the Raspberry Pi",
+      "https://www.linux.it/~ema/posts/secure-boot-rpi/"
     ]
   ],
   [
@@ -191,12 +191,22 @@
   ],
   [
     [
-      "2023-05-04, 11:21:59",
-      "https://news.ycombinator.com/item?id=35813763"
+      "2023-05-04, 11:57:01",
+      "https://news.ycombinator.com/item?id=35813989"
     ],
     [
-      "Important Team and Business Changes",
-      "https://news.shopify.com/important-team-and-business-changes"
+      "Shopify to cut 20% of its workforce, beats quarterly revenue estimates",
+      "https://www.reuters.com/business/retail-consumer/shopify-reports-first-quarter-revenue-above-estimates-2023-05-04/"
+    ]
+  ],
+  [
+    [
+      "2023-05-04, 11:37:13",
+      "https://news.ycombinator.com/item?id=35813849"
+    ],
+    [
+      "Shopify offloads logistics business to Flexport",
+      "https://www.cnbc.com/2023/05/04/shopify-offloads-logistics-business-to-flexport.html"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
+      "2023-05-04, 03:47:58",
+      "https://news.ycombinator.com/item?id=35810977"
+    ],
+    [
+      "Ryujinx: Experimental Nintendo Switch Emulator written in C#",
+      "https://github.com/Ryujinx/Ryujinx"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 02:49:25",
       "https://news.ycombinator.com/item?id=35810663"
     ],
     [
       "Distilling Step-by-Step Outperforming Larger Language Models with Less Training",
       "https://arxiv.org/abs/2305.02301"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 01:44:21",
-      "https://news.ycombinator.com/item?id=35810281"
-    ],
-    [
-      "UDP transmitter implemented with PIO and DMA on the RP2040",
-      "https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Why Split Lexing and Parsing into Two Separate Phases?",
       "https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 10:13:59",
-      "https://news.ycombinator.com/item?id=35785421"
-    ],
-    [
-      "How Quickwit Rust Actor Framework tackles the challenges of efficient indexing",
-      "https://quickwit.io/blog/quickwit-actor-framework/"
     ]
   ],
   [
