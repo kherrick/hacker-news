@@ -12,7 +12,6 @@
 * [2023-05-03, 23:35:15](https://news.ycombinator.com/item?id=35809302) - [Hacker News Highlights](https://news.ycombinator.com/highlights)
 * [2023-05-03, 22:52:02](https://news.ycombinator.com/item?id=35808899) - [What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
 * [2023-05-03, 22:34:02](https://news.ycombinator.com/item?id=35808710) - [Agile soccer skills for a bipedal robot with deep reinforcement learning](https://twitter.com/haarnoja/status/1651577815836270596)
-* [2023-05-03, 22:10:18](https://news.ycombinator.com/item?id=35808485) - [TOTP Authentication with Free Software](https://lwn.net/Articles/925870/)
 * [2023-05-03, 21:20:45](https://news.ycombinator.com/item?id=35807957) - [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)
 * [2023-05-03, 21:20:18](https://news.ycombinator.com/item?id=35807951) - [Wearing an eye mask during sleep improves episodic learning and alertness](https://pubmed.ncbi.nlm.nih.gov/36521010/)
 * [2023-05-03, 20:54:32](https://news.ycombinator.com/item?id=35807660) - [Measured: Typing latency of Zutty compared to other terminal emulators (2021)](https://tomscii.sig7.se/2021/01/Typing-latency-of-Zutty)
@@ -30,6 +29,7 @@
 * [2023-05-02, 13:28:42](https://news.ycombinator.com/item?id=35787119) - [Like the macOS Dock but for macOS System 7](https://github.com/retrospectmike/MacDock)
 * [2023-05-02, 10:13:59](https://news.ycombinator.com/item?id=35785421) - [How Quickwit Rust Actor Framework tackles the challenges of efficient indexing](https://quickwit.io/blog/quickwit-actor-framework/)
 * [2023-05-02, 08:47:32](https://news.ycombinator.com/item?id=35784898) - [Error Handling Patterns](https://andreabergia.com/blog/2023/05/error-handling-patterns/)
+* [2023-04-30, 12:16:50](https://news.ycombinator.com/item?id=35761874) - [Another Kind of Time](https://emergencemagazine.org/interview/another-kind-of-time/)
 
 ## [Archives](archives/index.md)
 
