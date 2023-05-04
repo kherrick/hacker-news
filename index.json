@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-05-04, 20:50:23",
-      "https://news.ycombinator.com/item?id=35821864"
-    ],
-    [
-      "Apple reports Q2 2023 results",
-      "https://www.apple.com/newsroom/2023/05/apple-reports-second-quarter-results/"
-    ]
-  ],
-  [
-    [
       "2023-05-04, 20:34:40",
       "https://news.ycombinator.com/item?id=35821695"
     ],
@@ -77,6 +67,16 @@
     [
       "Augmenting LLMs Beyond Basic Text Completion and Transformation",
       "https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/"
+    ]
+  ],
+  [
+    [
+      "2023-05-04, 17:42:51",
+      "https://news.ycombinator.com/item?id=35819305"
+    ],
+    [
+      "BigCode Project Releases StarCoder: A 15B Code LLM",
+      "https://huggingface.co/bigcode"
     ]
   ],
   [
