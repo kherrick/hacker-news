@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 03:47:58](https://news.ycombinator.com/item?id=35810977) - [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 * [2023-05-04, 03:32:10](https://news.ycombinator.com/item?id=35810902) - [My pay went from $240k to $0](https://mstdn.social/@Devilstower/110299576469326182)
 * [2023-05-04, 01:44:21](https://news.ycombinator.com/item?id=35810281) - [UDP transmitter implemented with PIO and DMA on the RP2040](https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html)
 * [2023-05-04, 01:35:04](https://news.ycombinator.com/item?id=35810216) - [Apple Is a Chinese Company](https://www.ft.com/content/bf8e3846-2421-4f91-becf-2dfe39ec9941)
