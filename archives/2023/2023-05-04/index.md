@@ -8,6 +8,7 @@
 * [2023-05-04, 20:50:23](https://news.ycombinator.com/item?id=35821864) - [Apple reports Q2 2023 results](https://www.apple.com/newsroom/2023/05/apple-reports-second-quarter-results/)
 * [2023-05-04, 20:34:40](https://news.ycombinator.com/item?id=35821695) - [Fixing Hallucination with Knowledge Bases](https://www.pinecone.io/learn/langchain-retrieval-augmentation/)
 * [2023-05-04, 19:47:56](https://news.ycombinator.com/item?id=35821128) - [America’s first high-volume ‘PFAS Annihilator’ is up and running in W. Michigan](https://www.woodtv.com/news/kent-county/americas-first-high-volume-pfas-annihilator-is-up-and-running-in-west-michigan/)
+* [2023-05-04, 19:33:12](https://news.ycombinator.com/item?id=35820931) - [Re-implementing LangChain in 100 lines of code](https://blog.scottlogic.com/2023/05/04/langchain-mini.html)
 * [2023-05-04, 18:54:56](https://news.ycombinator.com/item?id=35820368) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
 * [2023-05-04, 18:49:09](https://news.ycombinator.com/item?id=35820289) - [Pynecone – Performant, customizable web apps in pure Python](https://pynecone.io/)
 * [2023-05-04, 18:33:50](https://news.ycombinator.com/item?id=35820058) - [Discord plans to make everyone change their username](https://www.bbc.co.uk/news/technology-65483184)
