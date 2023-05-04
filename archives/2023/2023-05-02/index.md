@@ -77,6 +77,7 @@
 * [2023-05-02, 09:11:20](https://news.ycombinator.com/item?id=35785034) - [Expanding TeX&#x27;s \\Newif (2021)](https://mht.wtf/post/tex/)
 * [2023-05-02, 09:06:28](https://news.ycombinator.com/item?id=35785005) - [Show HN: GPT crushes my high score in 2048.io](https://github.com/inishchith/2048)
 * [2023-05-02, 08:59:07](https://news.ycombinator.com/item?id=35784961) - [Lactic Acid Bacteria as Markers for the Authentication of Swiss Cheeses](https://www.chimia.ch/chimia/article/view/2016_349/1089)
+* [2023-05-02, 08:47:32](https://news.ycombinator.com/item?id=35784898) - [Error Handling Patterns](https://andreabergia.com/blog/2023/05/error-handling-patterns/)
 * [2023-05-02, 08:46:33](https://news.ycombinator.com/item?id=35784889) - [Google Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse)
 * [2023-05-02, 08:34:34](https://news.ycombinator.com/item?id=35784814) - [IBM to pause hiring in plan to replace 7,800 jobs with AI News](https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html)
 * [2023-05-02, 08:24:28](https://news.ycombinator.com/item?id=35784758) - [The Cairo Programming Language](https://cairo-book.github.io/ch00-00-introduction.html)
