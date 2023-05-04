@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-04, 18:33:50](https://news.ycombinator.com/item?id=35820058) - [Discord plans to make everyone change their username](https://www.bbc.co.uk/news/technology-65483184)
 * [2023-05-04, 17:53:03](https://news.ycombinator.com/item?id=35819463) - [May 4 Shootings at Kent State University: The Search for Historical Accuracy](https://www.kent.edu/may-4-historical-accuracy)
 * [2023-05-04, 17:42:51](https://news.ycombinator.com/item?id=35819305) - [BigCode Project Releases StarCoder: A 15B Code LLM](https://huggingface.co/bigcode)
 * [2023-05-04, 17:00:47](https://news.ycombinator.com/item?id=35818616) - [Replit (YC W18) Is Hiring Engineers and Designers](https://replit.com/careers)
@@ -19,7 +20,6 @@
 * [2023-05-04, 12:09:09](https://news.ycombinator.com/item?id=35814081) - [Facebook has not been doing enough to comply with a 2020 privacy order: FTC](https://arstechnica.com/tech-policy/2023/05/ftc-says-facebook-violated-privacy-order-proposes-ban-on-monetizing-youth-data/)
 * [2023-05-04, 12:02:40](https://news.ycombinator.com/item?id=35814043) - [New Yorkers want to stop landlords from using facial recognition](https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997)
 * [2023-05-04, 11:57:19](https://news.ycombinator.com/item?id=35813991) - [Prediction and Entropy of Printed English (1950) [pdf]](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)
-* [2023-05-04, 11:33:26](https://news.ycombinator.com/item?id=35813821) - [New C features in GCC 13](https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13)
 * [2023-05-04, 11:21:59](https://news.ycombinator.com/item?id=35813763) - [Shopify will be smaller by about 20% and Flexport will buy Shopify Logistics](https://news.shopify.com/important-team-and-business-changes)
 * [2023-05-04, 10:47:43](https://news.ycombinator.com/item?id=35813496) - [The seven programming ur-languages (2021)](https://madhadron.com/programming/seven_ur_languages.html)
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We Have No Moat, and Neither Does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)

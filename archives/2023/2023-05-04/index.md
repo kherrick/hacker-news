@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 18:33:50](https://news.ycombinator.com/item?id=35820058) - [Discord plans to make everyone change their username](https://www.bbc.co.uk/news/technology-65483184)
 * [2023-05-04, 17:53:03](https://news.ycombinator.com/item?id=35819463) - [May 4 Shootings at Kent State University: The Search for Historical Accuracy](https://www.kent.edu/may-4-historical-accuracy)
 * [2023-05-04, 17:42:51](https://news.ycombinator.com/item?id=35819305) - [BigCode Project Releases StarCoder: A 15B Code LLM](https://huggingface.co/bigcode)
 * [2023-05-04, 17:00:47](https://news.ycombinator.com/item?id=35818616) - [Replit (YC W18) Is Hiring Engineers and Designers](https://replit.com/careers)
