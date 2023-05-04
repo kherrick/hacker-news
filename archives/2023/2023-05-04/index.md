@@ -9,3 +9,4 @@
 * [2023-05-04, 01:03:52](https://news.ycombinator.com/item?id=35809978) - [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
 * [2023-05-04, 00:39:20](https://news.ycombinator.com/item?id=35809807) - [Google employees complain about CEO&#x27;s pay raise as cost cuts hit company](https://www.cnbc.com/2023/05/03/google-employees-complain-about-ceo-sundar-pichais-pay-raise.html)
 * [2023-05-04, 00:18:14](https://news.ycombinator.com/item?id=35809658) - [Mojo might be the biggest thing to happen in programming for decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
+* [2023-05-04, 00:06:24](https://news.ycombinator.com/item?id=35809570) - [No, the money you spend on lotteries doesn’t go to the park](https://outdoorstatus.com/articles/recreation-gov-lottery-fees/)
