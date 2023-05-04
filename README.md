@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-04, 18:54:56](https://news.ycombinator.com/item?id=35820368) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
+* [2023-05-04, 18:49:09](https://news.ycombinator.com/item?id=35820289) - [Pynecone – Performant, customizable web apps in pure Python](https://pynecone.io/)
 * [2023-05-04, 18:28:50](https://news.ycombinator.com/item?id=35819990) - [Roll your own JavaScript runtime, pt. 3](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
 * [2023-05-04, 18:03:32](https://news.ycombinator.com/item?id=35819613) - [Augmenting LLMs Beyond Basic Text Completion and Transformation](https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/)
 * [2023-05-04, 17:53:03](https://news.ycombinator.com/item?id=35819463) - [May 4 Shootings at Kent State University: The Search for Historical Accuracy](https://www.kent.edu/may-4-historical-accuracy)
@@ -11,7 +12,6 @@
 * [2023-05-04, 15:19:24](https://news.ycombinator.com/item?id=35816789) - [Westinghouse announces a new small modular nuclear reactor](https://www.cnbc.com/2023/05/04/westinghouse-announces-a-small-nuclear-reactor.html)
 * [2023-05-04, 14:55:46](https://news.ycombinator.com/item?id=35816361) - [Vim Keybindings Everywhere – The Ultimate List](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
 * [2023-05-04, 14:48:35](https://news.ycombinator.com/item?id=35816224) - [Running JavaScript in Rust with Deno: Experimenting with Deno&#x27;s Rust Crates](https://austinpoor.com/blog/js-in-rs)
-* [2023-05-04, 14:47:29](https://news.ycombinator.com/item?id=35816207) - [EU urged to protect grassroots AI research or risk losing out to US](https://www.theguardian.com/technology/2023/may/04/eu-urged-to-protect-grassroots-ai-research-or-risk-losing-out-to-us)
 * [2023-05-04, 14:30:35](https://news.ycombinator.com/item?id=35815939) - [Google Introduces Passkey Authentication](https://security.googleblog.com/2023/05/so-long-passwords-thanks-for-all-phish.html)
 * [2023-05-04, 14:20:11](https://news.ycombinator.com/item?id=35815765) - [How companies use dark patterns to keep you subscribed](https://pudding.cool/2023/05/dark-patterns/)
 * [2023-05-04, 14:06:57](https://news.ycombinator.com/item?id=35815538) - [Europeans drain billions from banks, fed up with shrinking savings](https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04/)
