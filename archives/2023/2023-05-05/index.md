@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
 * [2023-05-05, 14:14:12](https://news.ycombinator.com/item?id=35829500) - [Big Oil Helped Shape Stanford’s Latest Climate-Research Focus](https://www.chronicle.com/article/big-oil-helped-shape-stanfords-latest-climate-research-focus)
+* [2023-05-05, 14:10:04](https://news.ycombinator.com/item?id=35829430) - [The AI PR Industrial Complex](https://www.bigtechnology.com/p/the-ai-pr-industrial-complex)
 * [2023-05-05, 14:07:33](https://news.ycombinator.com/item?id=35829399) - [ReLLM: Exact Structure for Large Language Model Completions](https://matt-rickard.com/rellm)
 * [2023-05-05, 14:00:53](https://news.ycombinator.com/item?id=35829294) - [TikTok Spied on Me. Why?](https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/)
 * [2023-05-05, 13:36:09](https://news.ycombinator.com/item?id=35829028) - [US adds a solid 253,000 jobs despite Fed&#x27;s rate hikes](https://apnews.com/article/jobs-unemployment-inflation-layoffs-economy-federal-reserve-1bdc4e585c3c40ec14b9a40d9f8fe65f)
