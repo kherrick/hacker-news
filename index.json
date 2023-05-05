@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-05, 09:02:20",
+      "https://news.ycombinator.com/item?id=35826873"
+    ],
+    [
+      "Slack GPT, the Future of AI in Slack",
+      "https://slack.com/blog/news/introducing-slack-gpt"
+    ]
+  ],
+  [
+    [
       "2023-05-05, 07:00:23",
       "https://news.ycombinator.com/item?id=35826137"
     ],
@@ -177,16 +187,6 @@
     [
       "Roll your own JavaScript runtime, pt. 3",
       "https://deno.com/blog/roll-your-own-javascript-runtime-pt3"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 15:01:47",
-      "https://news.ycombinator.com/item?id=35816457"
-    ],
-    [
-      "Show HN: Hypertune – Visual, functional, statically-typed configuration language",
-      "https://www.hypertune.com/"
     ]
   ],
   [
