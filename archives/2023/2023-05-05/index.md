@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 18:00:59](https://news.ycombinator.com/item?id=35832910) - [Apple’s Unionized Store Wants to Start Accepting Tips from Customers](https://www.bloomberg.com/news/articles/2023-05-03/apple-s-unionized-store-workers-seek-tips-and-higher-holiday-pay)
+* [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
+* [2023-05-05, 17:34:40](https://news.ycombinator.com/item?id=35832540) - [OpenAI ignored the ‘have a problem to solve’ rule, says president Greg Brockman](https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/)
 * [2023-05-05, 17:17:44](https://news.ycombinator.com/item?id=35832327) - [Rising Share of U.S. Adults Are Living Without a Spouse or Partner](https://www.pewresearch.org/social-trends/2021/10/05/rising-share-of-u-s-adults-are-living-without-a-spouse-or-partner/)
+* [2023-05-05, 17:15:26](https://news.ycombinator.com/item?id=35832296) - [Ask HN: What are ways to combat loneliness and build meaningful connections?](https://news.ycombinator.com/item?id=35832296)
+* [2023-05-05, 16:58:44](https://news.ycombinator.com/item?id=35832038) - [A few words on Ruby&#x27;s type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
 * [2023-05-05, 16:10:38](https://news.ycombinator.com/item?id=35831270) - [GPL is no longer on the FSF website](https://www.gnu.org/licenses/gpl.html)
 * [2023-05-05, 16:05:27](https://news.ycombinator.com/item?id=35831177) - [Show HN: The HN Recap – AI generated daily HN podcast](https://hackernewsrecap.buzzsprout.com)
 * [2023-05-05, 15:51:09](https://news.ycombinator.com/item?id=35830869) - [Wolfenstein 3D Shocked the World, 30 Years Later](https://www.howtogeek.com/802248/how-wolfenstein-3d-shocked-the-world-30-years-later/)
