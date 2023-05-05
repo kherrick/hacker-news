@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-05, 15:18:10](https://news.ycombinator.com/item?id=35830344) - [Iowa governor will sign bill rolling back labor protections for children](https://www.washingtonpost.com/business/2023/05/04/iowa-child-labor-reynolds/)
-* [2023-05-05, 14:29:34](https://news.ycombinator.com/item?id=35829697) - [Gmail is showing ads in the middle of the inbox](https://9to5google.com/2023/05/05/gmail-ads-increase-2023/)
+* [2023-05-05, 14:57:08](https://news.ycombinator.com/item?id=35830048) - [CRTC considering banning Fox News from Canadian cable packages](https://nationalpost.com/news/politics/crtc-ban-fox-news-canadian-cable)
+* [2023-05-05, 14:52:03](https://news.ycombinator.com/item?id=35829986) - [Google engineer jumps to death in NYC, second worker suicide in months](https://nypost.com/2023/05/05/google-senior-software-engineer-31-jumps-to-death-from-nyc-headquarters/)
 * [2023-05-05, 14:14:12](https://news.ycombinator.com/item?id=35829500) - [Big oil helped shape Stanford’s latest climate-research focus](https://www.chronicle.com/article/big-oil-helped-shape-stanfords-latest-climate-research-focus)
 * [2023-05-05, 14:10:04](https://news.ycombinator.com/item?id=35829430) - [The AI PR Industrial Complex](https://www.bigtechnology.com/p/the-ai-pr-industrial-complex)
 * [2023-05-05, 14:00:53](https://news.ycombinator.com/item?id=35829294) - [TikTok Spied on Me. Why?](https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/)
@@ -25,7 +26,6 @@
 * [2023-05-04, 20:39:57](https://news.ycombinator.com/item?id=35821748) - [Show HN: GPT-JSON – Structured and typehinted GPT responses in Python](https://github.com/piercefreeman/gpt-json)
 * [2023-05-04, 18:46:13](https://news.ycombinator.com/item?id=35820240) - [Fragmentarium – Laboratory for Medieval Manuscript Fragments](https://fragmentarium.ms/)
 * [2023-05-04, 12:08:15](https://news.ycombinator.com/item?id=35814074) - [The Most Important Machine That Was Never Built](https://www.quantamagazine.org/alan-turings-most-important-machine-was-never-built-20230503/)
-* [2023-05-04, 10:38:28](https://news.ycombinator.com/item?id=35813429) - [The Running Novelist (2008)](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-04, 07:51:31](https://news.ycombinator.com/item?id=35812525) - [On Having Enough Socks (2019)](https://gwern.net/socks)
 * [2023-05-04, 06:28:21](https://news.ycombinator.com/item?id=35811879) - [A look at Crystal, a programming language for humans](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming)
