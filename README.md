@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-05, 09:02:20](https://news.ycombinator.com/item?id=35826873) - [Slack GPT, the Future of AI in Slack](https://slack.com/blog/news/introducing-slack-gpt)
 * [2023-05-05, 07:00:23](https://news.ycombinator.com/item?id=35826137) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-05-05, 06:56:49](https://news.ycombinator.com/item?id=35826104) - [Paradigms of A.I. Programming: Case Studies in Common Lisp (1991)](https://norvig.github.io/paip-lisp/#/)
 * [2023-05-05, 06:54:34](https://news.ycombinator.com/item?id=35826088) - [The EARN IT bill is back. We&#x27;ve killed it twice, let&#x27;s do it again](https://tutanota.com/blog/posts/earn-it-barr-encryption)
@@ -18,7 +19,6 @@
 * [2023-05-04, 18:54:56](https://news.ycombinator.com/item?id=35820368) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
 * [2023-05-04, 18:49:09](https://news.ycombinator.com/item?id=35820289) - [Pynecone – Performant, customizable web apps in pure Python](https://pynecone.io/)
 * [2023-05-04, 18:28:50](https://news.ycombinator.com/item?id=35819990) - [Roll your own JavaScript runtime, pt. 3](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
-* [2023-05-04, 15:01:47](https://news.ycombinator.com/item?id=35816457) - [Show HN: Hypertune – Visual, functional, statically-typed configuration language](https://www.hypertune.com/)
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-04, 09:07:31](https://news.ycombinator.com/item?id=35812913) - [Return oriented programming on RISC-V – Part 1](https://www.bogdandeac.com/return-oriented-programming-on-risc-v/)
 * [2023-05-04, 06:28:21](https://news.ycombinator.com/item?id=35811879) - [A Look at Crystal, the Programming Language for Humans](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming)
