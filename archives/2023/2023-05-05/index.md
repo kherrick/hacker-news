@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
 * [2023-05-05, 16:10:38](https://news.ycombinator.com/item?id=35831270) - [GPL is no longer on the FSF website](https://www.gnu.org/licenses/gpl.html)
+* [2023-05-05, 16:05:27](https://news.ycombinator.com/item?id=35831177) - [Show HN: The HN Recap – AI generated daily HN podcast](https://hackernewsrecap.buzzsprout.com)
 * [2023-05-05, 15:51:09](https://news.ycombinator.com/item?id=35830869) - [Wolfenstein 3D Shocked the World, 30 Years Later](https://www.howtogeek.com/802248/how-wolfenstein-3d-shocked-the-world-30-years-later/)
 * [2023-05-05, 15:42:38](https://news.ycombinator.com/item?id=35830723) - [Who regulates the regulators? (Against the review-and-approval paradigm)](https://rootsofprogress.org/against-review-and-approval)
 * [2023-05-05, 15:40:03](https://news.ycombinator.com/item?id=35830684) - [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
@@ -14,6 +15,7 @@
 * [2023-05-05, 15:18:10](https://news.ycombinator.com/item?id=35830344) - [Iowa governor will sign bill rolling back labor protections for children](https://www.washingtonpost.com/business/2023/05/04/iowa-child-labor-reynolds/)
 * [2023-05-05, 14:57:08](https://news.ycombinator.com/item?id=35830048) - [CRTC considering banning Fox News from Canadian cable packages](https://nationalpost.com/news/politics/crtc-ban-fox-news-canadian-cable)
 * [2023-05-05, 14:52:03](https://news.ycombinator.com/item?id=35829986) - [Google engineer jumps to death in NYC, second worker suicide in months](https://nypost.com/2023/05/05/google-senior-software-engineer-31-jumps-to-death-from-nyc-headquarters/)
+* [2023-05-05, 14:45:40](https://news.ycombinator.com/item?id=35829891) - [Consuming Psychedelics Temporarily Improves Man&#x27;s Color Blindness](https://www.technologynetworks.com/drug-discovery/news/consuming-psychedelics-temporarily-improves-mans-color-blindness-372979)
 * [2023-05-05, 14:32:19](https://news.ycombinator.com/item?id=35829733) - [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 14:29:34](https://news.ycombinator.com/item?id=35829697) - [Gmail is showing ads in the middle of the inbox](https://9to5google.com/2023/05/05/gmail-ads-increase-2023/)
 * [2023-05-05, 14:14:12](https://news.ycombinator.com/item?id=35829500) - [Big Oil Helped Shape Stanford’s Latest Climate-Research Focus](https://www.chronicle.com/article/big-oil-helped-shape-stanfords-latest-climate-research-focus)
