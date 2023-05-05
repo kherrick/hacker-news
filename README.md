@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-05, 14:07:33](https://news.ycombinator.com/item?id=35829399) - [ReLLM: Exact Structure for Large Language Model Completions](https://matt-rickard.com/rellm)
+* [2023-05-05, 14:14:12](https://news.ycombinator.com/item?id=35829500) - [Big Oil Helped Shape Stanford’s Latest Climate-Research Focus](https://www.chronicle.com/article/big-oil-helped-shape-stanfords-latest-climate-research-focus)
+* [2023-05-05, 14:00:53](https://news.ycombinator.com/item?id=35829294) - [TikTok Spied on Me. Why?](https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/)
 * [2023-05-05, 13:00:53](https://news.ycombinator.com/item?id=35828664) - [U.S. Hits Z-Library with New Domain Name Seizures](https://torrentfreak.com/u-s-hits-z-library-with-new-domain-name-seizures-230505/)
 * [2023-05-05, 12:57:20](https://news.ycombinator.com/item?id=35828624) - [Flutter Web: A Fractal of Bad Design](https://hugotunius.se/2020/10/31/flutter-web-a-fractal-of-bad-design.html)
 * [2023-05-05, 11:53:13](https://news.ycombinator.com/item?id=35828075) - [Mischievous NPM Publications](https://blog.phylum.io/phylum-discovers-mischievous-npm-publications/)
@@ -28,7 +29,6 @@
 * [2023-05-04, 09:07:31](https://news.ycombinator.com/item?id=35812913) - [Return oriented programming on RISC-V – Part 1 (2022)](https://www.bogdandeac.com/return-oriented-programming-on-risc-v/)
 * [2023-05-04, 06:48:26](https://news.ycombinator.com/item?id=35812063) - [I can&#x27;t believe I&#x27;m praising Tcl (2008)](https://yosefk.com/blog/i-cant-believe-im-praising-tcl.html)
 * [2023-05-03, 23:48:14](https://news.ycombinator.com/item?id=35809423) - [Bouncing LoRa Signals Off the Moon [video]](https://www.youtube.com/watch?v=N9Uv-oVUISg)
-* [2023-05-03, 09:51:57](https://news.ycombinator.com/item?id=35800189) - [Which Parsing Approach? (2020)](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
 * [2023-05-03, 09:40:42](https://news.ycombinator.com/item?id=35800109) - [Writing a SQLite Clone from Scratch in C (2022)](https://cstack.github.io/db_tutorial/)
 
 ## [Archives](archives/index.md)
