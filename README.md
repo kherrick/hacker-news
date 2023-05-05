@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-05, 22:12:44](https://news.ycombinator.com/item?id=35835740) - [Scientists say they have found more moons with oceans in the Solar System](https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/)
 * [2023-05-05, 21:16:18](https://news.ycombinator.com/item?id=35835240) - [Dump these insecure phone adapters because we&#x27;re not fixing them, says Cisco](https://www.theregister.com/2023/05/05/cisco_phone_adapter_vulnerabilitty/)
 * [2023-05-05, 21:00:06](https://news.ycombinator.com/item?id=35835098) - [Bun (YC S19) Is Hiring C&#x2F;C++&#x2F;Zig engineers to build a JavaScript cloud](https://oven.rippling-ats.com/job/535740/runtime-engineer-zig-or-c-c)
 * [2023-05-05, 20:56:11](https://news.ycombinator.com/item?id=35835059) - [eBay’s Fast Billion-Scale Vector Similarity Engine](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/)
@@ -19,7 +20,6 @@
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
 * [2023-05-05, 11:41:32](https://news.ycombinator.com/item?id=35827974) - [Squad Solar City Car](https://www.squadmobility.com/)
 * [2023-05-05, 10:01:57](https://news.ycombinator.com/item?id=35827189) - [A New Theory for the Assembly of Life in the Universe](https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/)
-* [2023-05-05, 08:04:34](https://news.ycombinator.com/item?id=35826540) - [Show HN: A search engine for your personal network of high-quality websites](https://usegrasp.com)
 * [2023-05-05, 02:39:05](https://news.ycombinator.com/item?id=35824654) - [What scares master of suspense Dean Koontz? Plenty](https://www.washingtonpost.com/books/2023/05/03/dean-koontz/)
 * [2023-05-04, 21:28:05](https://news.ycombinator.com/item?id=35822324) - [The Lofi Magic of VHS Audio [video]](https://www.youtube.com/watch?v=OHoTzs3mtM8)
 * [2023-05-04, 17:37:39](https://news.ycombinator.com/item?id=35819226) - [Office Cubicle Manufacturing (1954) [video]](https://www.youtube.com/watch?v=RNp5QxPyvHM&list=PLqqqqZrD37h5Y0N8g9HPqVWP4ondE4Exp&index=76)
