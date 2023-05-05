@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
 * [2023-05-05, 16:10:38](https://news.ycombinator.com/item?id=35831270) - [GPL is no longer on the FSF website](https://www.gnu.org/licenses/gpl.html)
+* [2023-05-05, 15:51:09](https://news.ycombinator.com/item?id=35830869) - [Wolfenstein 3D Shocked the World, 30 Years Later](https://www.howtogeek.com/802248/how-wolfenstein-3d-shocked-the-world-30-years-later/)
+* [2023-05-05, 15:42:38](https://news.ycombinator.com/item?id=35830723) - [Who regulates the regulators? (Against the review-and-approval paradigm)](https://rootsofprogress.org/against-review-and-approval)
 * [2023-05-05, 15:40:03](https://news.ycombinator.com/item?id=35830684) - [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
 * [2023-05-05, 15:35:54](https://news.ycombinator.com/item?id=35830612) - [Everything happening on Bluesky](https://www.theverge.com/2023/5/2/23708385/bluesky-weather-report-moderation-app-store)
 * [2023-05-05, 15:24:27](https://news.ycombinator.com/item?id=35830438) - [How The Legend of Zelda Changed the Game](https://www.nytimes.com/interactive/2023/05/04/us/zelda-nintendo-history.html)
