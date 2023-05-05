@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-05-05, 01:10:09",
+      "https://news.ycombinator.com/item?id=35824173"
+    ],
+    [
+      "I found the best anagram in English (2017)",
+      "https://blog.plover.com/lang/anagram-scoring.html"
+    ]
+  ],
+  [
+    [
       "2023-05-05, 01:00:07",
       "https://news.ycombinator.com/item?id=35824115"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2023-05-04, 18:03:32",
-      "https://news.ycombinator.com/item?id=35819613"
-    ],
-    [
-      "Augmenting LLMs Beyond Basic Text Completion and Transformation",
-      "https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/"
-    ]
-  ],
-  [
-    [
       "2023-05-04, 17:00:47",
       "https://news.ycombinator.com/item?id=35818616"
     ],
@@ -157,6 +157,16 @@
     [
       "JEP 450: Compact Object Headers",
       "https://openjdk.org/jeps/450"
+    ]
+  ],
+  [
+    [
+      "2023-05-04, 15:01:47",
+      "https://news.ycombinator.com/item?id=35816457"
+    ],
+    [
+      "Show HN: Hypertune – Visual, functional, statically-typed configuration language",
+      "https://www.hypertune.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Why split lexing and parsing into two separate phases?",
       "https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 06:27:05",
-      "https://news.ycombinator.com/item?id=35798746"
-    ],
-    [
-      "Cubic Interpolation of Quaternion",
-      "https://theorangeduck.com/page/cubic-interpolation-quaternions"
     ]
   ]
 ]
