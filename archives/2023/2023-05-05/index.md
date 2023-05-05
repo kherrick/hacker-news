@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 07:00:23](https://news.ycombinator.com/item?id=35826137) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+* [2023-05-05, 06:56:49](https://news.ycombinator.com/item?id=35826104) - [Peter Norvig – Paradigms of AI Programming Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/)
 * [2023-05-05, 05:58:51](https://news.ycombinator.com/item?id=35825688) - [Arianespace CEO: Europe won&#x27;t have reusable rockets for another decade](https://www.space.com/europe-no-reusable-rocket-until-2030s)
 * [2023-05-05, 05:56:06](https://news.ycombinator.com/item?id=35825680) - [Taking Back the Cannonball Run Record](https://www.arnesantics.com/taking-back-the-cannonball-run-record/)
 * [2023-05-05, 05:32:33](https://news.ycombinator.com/item?id=35825542) - [The Lost Album of the Beatles review – deeply researched what-ifs](https://www.theguardian.com/books/2023/may/01/the-lost-album-of-the-beatles-review-daniel-rachel-deeply-researched-what-ifs)
