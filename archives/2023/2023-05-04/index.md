@@ -66,6 +66,7 @@
 * [2023-05-04, 11:21:59](https://news.ycombinator.com/item?id=35813763) - [Important Team and Business Changes](https://news.shopify.com/important-team-and-business-changes)
 * [2023-05-04, 10:58:36](https://news.ycombinator.com/item?id=35813595) - [The “baseline” scene in bladerunner 2049 was written by Ryan Gosling](https://cohost.org/mcc/post/178201-the-baseline-scene)
 * [2023-05-04, 10:47:43](https://news.ycombinator.com/item?id=35813496) - [The seven programming ur-languages (2021)](https://madhadron.com/programming/seven_ur_languages.html)
+* [2023-05-04, 10:38:28](https://news.ycombinator.com/item?id=35813429) - [The Running Novelist](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We Have No Moat, and Neither Does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-04, 10:10:24](https://news.ycombinator.com/item?id=35813265) - [If You Double-Park and You’re Rich, Should You Pay a Higher Fine?](https://www.nytimes.com/2023/05/04/nyregion/nyc-fines-income.html)
 * [2023-05-04, 09:07:31](https://news.ycombinator.com/item?id=35812913) - [Return oriented programming on RISC-V – Part 1](https://www.bogdandeac.com/return-oriented-programming-on-risc-v/)
