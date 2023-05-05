@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 18:57:32](https://news.ycombinator.com/item?id=35833700) - [US crypto mining used more power last year than all the computers](https://www.pcgamer.com/so-youre-telling-me-that-us-crypto-mining-used-more-power-last-year-than-all-the-computers/)
 * [2023-05-05, 18:18:41](https://news.ycombinator.com/item?id=35833163) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
 * [2023-05-05, 18:11:22](https://news.ycombinator.com/item?id=35833060) - [Google co-founder Larry Page subpoena in Jeffrey Epstein case](https://www.cnbc.com/2023/05/04/google-co-founder-larry-page-can-get-jeffrey-epstein-case-service.html)
 * [2023-05-05, 18:00:59](https://news.ycombinator.com/item?id=35832910) - [Apple’s Unionized Store Wants to Start Accepting Tips from Customers](https://www.bloomberg.com/news/articles/2023-05-03/apple-s-unionized-store-workers-seek-tips-and-higher-holiday-pay)
