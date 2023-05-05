@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-05, 05:58:51](https://news.ycombinator.com/item?id=35825688) - [Arianespace CEO: Europe won&#x27;t have reusable rockets for another decade](https://www.space.com/europe-no-reusable-rocket-until-2030s)
 * [2023-05-05, 05:04:42](https://news.ycombinator.com/item?id=35825399) - [Mojo: The usability of Python with the performance of C](https://docs.modular.com/mojo/)
-* [2023-05-05, 03:36:11](https://news.ycombinator.com/item?id=35824932) - [Cracking the Code: Creating Opportunities for Women in Tech](https://blogs.nvidia.com/blog/2023/04/28/sabrina-koumoin/)
+* [2023-05-05, 04:37:49](https://news.ycombinator.com/item?id=35825277) - [Finland Virtually Ended Homelessness–and We Can Too](https://www.thestar.com/opinion/contributors/2023/04/20/how-finland-managed-to-virtually-end-homelessness.html)
 * [2023-05-05, 01:37:39](https://news.ycombinator.com/item?id=35824320) - [Public Money, Public Code](https://publiccode.eu/en/)
 * [2023-05-05, 01:10:09](https://news.ycombinator.com/item?id=35824173) - [I found the best anagram in English (2017)](https://blog.plover.com/lang/anagram-scoring.html)
 * [2023-05-05, 01:00:07](https://news.ycombinator.com/item?id=35824115) - [Heisting $20M of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
@@ -29,7 +30,6 @@
 * [2023-05-03, 10:18:04](https://news.ycombinator.com/item?id=35800380) - [Electronic Music and the NeXTcube – Running Max on the Ircam Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
 * [2023-05-03, 09:47:13](https://news.ycombinator.com/item?id=35800157) - [A Little Calculus](https://papl.cs.brown.edu/2018/func-as-data.html#%28part._.A_.Little_.Calculus%29)
 * [2023-05-03, 09:40:42](https://news.ycombinator.com/item?id=35800109) - [Writing a SQLite Clone from Scratch in C](https://cstack.github.io/db_tutorial/)
-* [2023-05-03, 06:27:05](https://news.ycombinator.com/item?id=35798746) - [Cubic Interpolation of Quaternion](https://theorangeduck.com/page/cubic-interpolation-quaternions)
 
 ## [Archives](archives/index.md)
 
