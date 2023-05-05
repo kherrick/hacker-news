@@ -2,6 +2,7 @@
 
 * [2023-05-05, 05:58:51](https://news.ycombinator.com/item?id=35825688) - [Arianespace CEO: Europe won&#x27;t have reusable rockets for another decade](https://www.space.com/europe-no-reusable-rocket-until-2030s)
 * [2023-05-05, 05:56:06](https://news.ycombinator.com/item?id=35825680) - [Taking Back the Cannonball Run Record](https://www.arnesantics.com/taking-back-the-cannonball-run-record/)
+* [2023-05-05, 05:32:33](https://news.ycombinator.com/item?id=35825542) - [The Lost Album of the Beatles review – deeply researched what-ifs](https://www.theguardian.com/books/2023/may/01/the-lost-album-of-the-beatles-review-daniel-rachel-deeply-researched-what-ifs)
 * [2023-05-05, 05:04:42](https://news.ycombinator.com/item?id=35825399) - [Mojo: The usability of Python with the performance of C](https://docs.modular.com/mojo/)
 * [2023-05-05, 04:37:49](https://news.ycombinator.com/item?id=35825277) - [Finland Virtually Ended Homelessness–and We Can Too](https://www.thestar.com/opinion/contributors/2023/04/20/how-finland-managed-to-virtually-end-homelessness.html)
 * [2023-05-05, 01:37:39](https://news.ycombinator.com/item?id=35824320) - [Public Money, Public Code](https://publiccode.eu/en/)
@@ -16,7 +17,6 @@
 * [2023-05-04, 18:54:56](https://news.ycombinator.com/item?id=35820368) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
 * [2023-05-04, 18:49:09](https://news.ycombinator.com/item?id=35820289) - [Pynecone – Performant, customizable web apps in pure Python](https://pynecone.io/)
 * [2023-05-04, 18:28:50](https://news.ycombinator.com/item?id=35819990) - [Roll your own JavaScript runtime, pt. 3](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
-* [2023-05-04, 17:00:47](https://news.ycombinator.com/item?id=35818616) - [Replit (YC W18) Is Hiring Engineers and Designers](https://replit.com/careers)
 * [2023-05-04, 16:09:21](https://news.ycombinator.com/item?id=35817708) - [The First Image from EUMETSAT’s Newest Satellite](https://www.eumetsat.int/features/discover-first-images-mtg-i1)
 * [2023-05-04, 15:25:07](https://news.ycombinator.com/item?id=35816900) - [JEP 450: Compact Object Headers](https://openjdk.org/jeps/450)
 * [2023-05-04, 15:01:47](https://news.ycombinator.com/item?id=35816457) - [Show HN: Hypertune – Visual, functional, statically-typed configuration language](https://www.hypertune.com/)
