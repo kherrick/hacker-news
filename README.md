@@ -2,6 +2,7 @@
 
 * [2023-05-05, 01:41:39](https://news.ycombinator.com/item?id=35824347) - [Urban Density and Home Prices](https://www.econlib.org/why-scott-alexander-is-wrong/)
 * [2023-05-05, 01:37:39](https://news.ycombinator.com/item?id=35824320) - [Public Money, Public Code](https://publiccode.eu/en/)
+* [2023-05-05, 01:10:09](https://news.ycombinator.com/item?id=35824173) - [I found the best anagram in English (2017)](https://blog.plover.com/lang/anagram-scoring.html)
 * [2023-05-05, 01:00:07](https://news.ycombinator.com/item?id=35824115) - [Stealing $20M Worth of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
 * [2023-05-04, 22:40:16](https://news.ycombinator.com/item?id=35823070) - [MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks](https://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html)
 * [2023-05-04, 22:38:16](https://news.ycombinator.com/item?id=35823051) - [Westinghouse AP300 Small Module Reactor](https://www.westinghousenuclear.com/energy-systems/ap300-smr)
@@ -12,10 +13,10 @@
 * [2023-05-04, 18:54:56](https://news.ycombinator.com/item?id=35820368) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
 * [2023-05-04, 18:49:09](https://news.ycombinator.com/item?id=35820289) - [Pynecone – Performant, customizable web apps in pure Python](https://pynecone.io/)
 * [2023-05-04, 18:28:50](https://news.ycombinator.com/item?id=35819990) - [Roll your own JavaScript runtime, pt. 3](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
-* [2023-05-04, 18:03:32](https://news.ycombinator.com/item?id=35819613) - [Augmenting LLMs Beyond Basic Text Completion and Transformation](https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/)
 * [2023-05-04, 17:00:47](https://news.ycombinator.com/item?id=35818616) - [Replit (YC W18) Is Hiring Engineers and Designers](https://replit.com/careers)
 * [2023-05-04, 16:09:21](https://news.ycombinator.com/item?id=35817708) - [The First Image from EUMETSAT’s Newest Satellite](https://www.eumetsat.int/features/discover-first-images-mtg-i1)
 * [2023-05-04, 15:25:07](https://news.ycombinator.com/item?id=35816900) - [JEP 450: Compact Object Headers](https://openjdk.org/jeps/450)
+* [2023-05-04, 15:01:47](https://news.ycombinator.com/item?id=35816457) - [Show HN: Hypertune – Visual, functional, statically-typed configuration language](https://www.hypertune.com/)
 * [2023-05-04, 14:55:46](https://news.ycombinator.com/item?id=35816361) - [Vim Keybindings Everywhere – The Ultimate List](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
 * [2023-05-04, 14:48:35](https://news.ycombinator.com/item?id=35816224) - [Running JavaScript in Rust with Deno: Experimenting with Deno&#x27;s Rust Crates](https://austinpoor.com/blog/js-in-rs)
 * [2023-05-04, 14:30:35](https://news.ycombinator.com/item?id=35815939) - [Google Introduces Passkey Authentication](https://security.googleblog.com/2023/05/so-long-passwords-thanks-for-all-phish.html)
@@ -29,7 +30,6 @@
 * [2023-05-03, 09:47:13](https://news.ycombinator.com/item?id=35800157) - [A Little Calculus](https://papl.cs.brown.edu/2018/func-as-data.html#%28part._.A_.Little_.Calculus%29)
 * [2023-05-03, 09:40:42](https://news.ycombinator.com/item?id=35800109) - [Writing a SQLite Clone from Scratch in C](https://cstack.github.io/db_tutorial/)
 * [2023-05-03, 06:36:46](https://news.ycombinator.com/item?id=35798829) - [Why split lexing and parsing into two separate phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
-* [2023-05-03, 06:27:05](https://news.ycombinator.com/item?id=35798746) - [Cubic Interpolation of Quaternion](https://theorangeduck.com/page/cubic-interpolation-quaternions)
 
 ## [Archives](archives/index.md)
 
