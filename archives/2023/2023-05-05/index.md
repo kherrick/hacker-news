@@ -11,6 +11,7 @@
 * [2023-05-05, 20:10:59](https://news.ycombinator.com/item?id=35834543) - [The Myth of Florence Nightingale](https://lithub.com/the-problematic-myth-of-florence-nightingale/)
 * [2023-05-05, 20:10:29](https://news.ycombinator.com/item?id=35834535) - [Death of the Twin Gynaecologists: A patient&#x27;s notes](https://www.vulture.com/article/twin-gynecologists-stewart-marcus-cyril-marcus-dead-ringers-inspiration.html)
 * [2023-05-05, 19:45:33](https://news.ycombinator.com/item?id=35834240) - [Carmakers are pushing electric SUVs, but smaller is better when it comes to EVs](https://www.theguardian.com/business/2023/may/04/electric-vehicles-suvs-us-vehicle-fleet)
+* [2023-05-05, 19:33:23](https://news.ycombinator.com/item?id=35834106) - [Bluesky&#x27;s AT Protocol - Federation Architecture Overview](https://blueskyweb.xyz/blog/5-5-2023-federation-architecture)
 * [2023-05-05, 18:57:32](https://news.ycombinator.com/item?id=35833700) - [US crypto mining used more power last year than all the computers](https://www.pcgamer.com/so-youre-telling-me-that-us-crypto-mining-used-more-power-last-year-than-all-the-computers/)
 * [2023-05-05, 18:18:41](https://news.ycombinator.com/item?id=35833163) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
 * [2023-05-05, 18:11:22](https://news.ycombinator.com/item?id=35833060) - [Google co-founder Larry Page subpoena in Jeffrey Epstein case](https://www.cnbc.com/2023/05/04/google-co-founder-larry-page-can-get-jeffrey-epstein-case-service.html)
