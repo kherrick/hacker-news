@@ -5,9 +5,9 @@
 * [2023-05-05, 14:10:04](https://news.ycombinator.com/item?id=35829430) - [The AI PR Industrial Complex](https://www.bigtechnology.com/p/the-ai-pr-industrial-complex)
 * [2023-05-05, 14:00:53](https://news.ycombinator.com/item?id=35829294) - [TikTok Spied on Me. Why?](https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/)
 * [2023-05-05, 13:00:53](https://news.ycombinator.com/item?id=35828664) - [U.S. Hits Z-Library with New Domain Name Seizures](https://torrentfreak.com/u-s-hits-z-library-with-new-domain-name-seizures-230505/)
-* [2023-05-05, 12:57:20](https://news.ycombinator.com/item?id=35828624) - [Flutter Web: A Fractal of Bad Design (2020)](https://hugotunius.se/2020/10/31/flutter-web-a-fractal-of-bad-design.html)
 * [2023-05-05, 11:53:13](https://news.ycombinator.com/item?id=35828075) - [Mischievous NPM Publications](https://blog.phylum.io/phylum-discovers-mischievous-npm-publications/)
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
+* [2023-05-05, 11:41:32](https://news.ycombinator.com/item?id=35827974) - [Squad Solar City Car](https://www.squadmobility.com/)
 * [2023-05-05, 11:40:07](https://news.ycombinator.com/item?id=35827952) - [Show HN: Make domain verification as easy as verifying an email or phone number](https://www.domainverification.org)
 * [2023-05-05, 11:24:04](https://news.ycombinator.com/item?id=35827831) - [Mobile phone calls linked with increased risk of high blood pressure](https://www.escardio.org/The-ESC/Press-Office/Press-releases/mobile-phone-calls-linked-with-increased-risk-of-high-blood-pressure)
 * [2023-05-05, 11:02:35](https://news.ycombinator.com/item?id=35827658) - [Four of Uranus’ largest moons likely contain an ocean layer](https://www.nasa.gov/feature/jpl/new-study-of-uranus-large-moons-shows-4-may-hold-water/)
@@ -25,11 +25,11 @@
 * [2023-05-04, 20:39:57](https://news.ycombinator.com/item?id=35821748) - [Show HN: GPT-JSON – Structured and typehinted GPT responses in Python](https://github.com/piercefreeman/gpt-json)
 * [2023-05-04, 18:46:13](https://news.ycombinator.com/item?id=35820240) - [Fragmentarium – Laboratory for Medieval Manuscript Fragments](https://fragmentarium.ms/)
 * [2023-05-04, 12:08:15](https://news.ycombinator.com/item?id=35814074) - [The Most Important Machine That Was Never Built](https://www.quantamagazine.org/alan-turings-most-important-machine-was-never-built-20230503/)
+* [2023-05-04, 10:38:28](https://news.ycombinator.com/item?id=35813429) - [The Running Novelist (2008)](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-04, 07:51:31](https://news.ycombinator.com/item?id=35812525) - [On Having Enough Socks (2019)](https://gwern.net/socks)
 * [2023-05-04, 06:28:21](https://news.ycombinator.com/item?id=35811879) - [A look at Crystal, a programming language for humans](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming)
 * [2023-05-03, 23:48:14](https://news.ycombinator.com/item?id=35809423) - [Bouncing LoRa Signals Off the Moon [video]](https://www.youtube.com/watch?v=N9Uv-oVUISg)
-* [2023-05-03, 09:40:42](https://news.ycombinator.com/item?id=35800109) - [Writing a SQLite Clone from Scratch in C (2022)](https://cstack.github.io/db_tutorial/)
 
 ## [Archives](archives/index.md)
 
