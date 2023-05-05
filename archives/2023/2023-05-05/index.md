@@ -52,6 +52,7 @@
 * [2023-05-05, 05:04:42](https://news.ycombinator.com/item?id=35825399) - [Mojo: The usability of Python with the performance of C](https://docs.modular.com/mojo/)
 * [2023-05-05, 04:37:49](https://news.ycombinator.com/item?id=35825277) - [Finland Virtually Ended Homelessness–and We Can Too](https://www.thestar.com/opinion/contributors/2023/04/20/how-finland-managed-to-virtually-end-homelessness.html)
 * [2023-05-05, 03:36:11](https://news.ycombinator.com/item?id=35824932) - [Cracking the Code: Creating Opportunities for Women in Tech](https://blogs.nvidia.com/blog/2023/04/28/sabrina-koumoin/)
+* [2023-05-05, 02:39:05](https://news.ycombinator.com/item?id=35824654) - [What scares master of suspense Dean Koontz? Plenty](https://www.washingtonpost.com/books/2023/05/03/dean-koontz/)
 * [2023-05-05, 01:41:39](https://news.ycombinator.com/item?id=35824347) - [Urban Density and Home Prices](https://www.econlib.org/why-scott-alexander-is-wrong/)
 * [2023-05-05, 01:37:39](https://news.ycombinator.com/item?id=35824320) - [Public Money, Public Code](https://publiccode.eu/en/)
 * [2023-05-05, 01:10:09](https://news.ycombinator.com/item?id=35824173) - [I found the best anagram in English (2017)](https://blog.plover.com/lang/anagram-scoring.html)

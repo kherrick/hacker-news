@@ -21,7 +21,7 @@
 * [2023-05-05, 06:56:49](https://news.ycombinator.com/item?id=35826104) - [Paradigms of A.I. Programming: Case Studies in Common Lisp (1991)](https://norvig.github.io/paip-lisp/#/)
 * [2023-05-05, 05:58:51](https://news.ycombinator.com/item?id=35825688) - [Arianespace CEO: Europe won&#x27;t have reusable rockets for another decade](https://www.space.com/europe-no-reusable-rocket-until-2030s)
 * [2023-05-05, 05:06:52](https://news.ycombinator.com/item?id=35825410) - [The swing has a near-universal history of ritual transgression](https://aeon.co/essays/the-swing-has-a-universal-history-of-transgression)
-* [2023-05-05, 01:00:07](https://news.ycombinator.com/item?id=35824115) - [Heisting $20M of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
+* [2023-05-05, 02:39:05](https://news.ycombinator.com/item?id=35824654) - [What scares master of suspense Dean Koontz? Plenty](https://www.washingtonpost.com/books/2023/05/03/dean-koontz/)
 * [2023-05-04, 21:28:05](https://news.ycombinator.com/item?id=35822324) - [The Lofi Magic of VHS Audio [video]](https://www.youtube.com/watch?v=OHoTzs3mtM8)
 * [2023-05-04, 18:46:13](https://news.ycombinator.com/item?id=35820240) - [Fragmentarium – Laboratory for Medieval Manuscript Fragments](https://fragmentarium.ms/)
 * [2023-05-04, 17:37:39](https://news.ycombinator.com/item?id=35819226) - [Office Cubicle Manufacturing (1954) [video]](https://www.youtube.com/watch?v=RNp5QxPyvHM&list=PLqqqqZrD37h5Y0N8g9HPqVWP4ondE4Exp&index=76)
