@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-05, 20:10:59](https://news.ycombinator.com/item?id=35834543) - [The Myth of Florence Nightingale](https://lithub.com/the-problematic-myth-of-florence-nightingale/)
+* [2023-05-05, 20:10:29](https://news.ycombinator.com/item?id=35834535) - [Death of the Twin Gynaecologists: A patient&#x27;s notes](https://www.vulture.com/article/twin-gynecologists-stewart-marcus-cyril-marcus-dead-ringers-inspiration.html)
 * [2023-05-05, 19:45:33](https://news.ycombinator.com/item?id=35834240) - [Carmakers are pushing electric SUVs, but smaller is better when it comes to EVs](https://www.theguardian.com/business/2023/may/04/electric-vehicles-suvs-us-vehicle-fleet)
 * [2023-05-05, 18:57:32](https://news.ycombinator.com/item?id=35833700) - [US crypto mining used more power last year than all the computers](https://www.pcgamer.com/so-youre-telling-me-that-us-crypto-mining-used-more-power-last-year-than-all-the-computers/)
 * [2023-05-05, 18:18:41](https://news.ycombinator.com/item?id=35833163) - [The core problem with hamburger menus](https://bt.ht/hamburgers/)
@@ -15,7 +16,6 @@
 * [2023-05-05, 13:00:53](https://news.ycombinator.com/item?id=35828664) - [U.S. Hits Z-Library with New Domain Name Seizures](https://torrentfreak.com/u-s-hits-z-library-with-new-domain-name-seizures-230505/)
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
 * [2023-05-05, 11:41:32](https://news.ycombinator.com/item?id=35827974) - [Squad Solar City Car](https://www.squadmobility.com/)
-* [2023-05-05, 10:01:57](https://news.ycombinator.com/item?id=35827189) - [A New Theory for the Assembly of Life in the Universe](https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/)
 * [2023-05-05, 08:04:34](https://news.ycombinator.com/item?id=35826540) - [Show HN: A search engine for your personal network of high-quality websites](https://usegrasp.com)
 * [2023-05-05, 07:00:23](https://news.ycombinator.com/item?id=35826137) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-05-05, 06:56:49](https://news.ycombinator.com/item?id=35826104) - [Paradigms of A.I. Programming: Case Studies in Common Lisp (1991)](https://norvig.github.io/paip-lisp/#/)
