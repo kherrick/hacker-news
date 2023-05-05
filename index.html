@@ -129,6 +129,200 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="35828100">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=35828100"
+              >Ask HN: Why are there no traditional language compilers that
+              target the JVM?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-05 @ 11:55:58</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35828100"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+            <div class="text">
+              <i>are</i>, and my Google-fu is weak.
+              <p>
+                "Traditional" compilable languages, like C, C++, FORTRAN, etc
+                all <i>ought</i> to be targetable to a portable runtime like the
+                JVM (since it defines its own instruction set (Java byte code)).
+              </p>
+              <p>
+                Scala and other languages target the JVM as their runtime
+                environment.
+              </p>
+              <p>Why not older/traditionally-compiled languages?</p>
+            </div>
+          </section>
+        </section>
+        <section id="35828046">
+          <h3>
+            <a
+              class="item"
+              href="https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn"
+              >Build your own private WireGuard VPN with PiVPN</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-05 @ 11:49:46</span
+              ><span class="points-container"
+                >Points: <span class="points">49</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35828046"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="35827974">
+          <h3>
+            <a class="item" href="https://www.squadmobility.com/"
+              >Squad Solar City Car</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-05 @ 11:41:32</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35827974"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="35827952">
+          <h3>
+            <a class="item" href="https://www.domainverification.org"
+              >Show HN: Make domain verification as easy as verifying an email
+              or phone number</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-05 @ 11:40:07</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35827952"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                This is a project [1] I've been working on for a little while
+                and I'm interested in your feedback and point of view.
+              </p>
+              <p>
+                Many of us would have verified a domain name by pasting a string
+                into a DNS TXT record. Some providers ask us to store this DNS
+                TXT record at a domain using a DNS label like "_provider" e.g.
+                _provider.yourdomain.com, and some providers ask that you do it
+                at the zone apex (God help us [2]).
+              </p>
+              <p>
+                The Domain Verification protocol stores a DNS TXT record at a
+                DNS name derived from a hashed "verifiable identifier" (think
+                email, telephone, DID), enabling anyone that can prove control
+                over the verifiable identifier to prove authority for the domain
+                name.
+              </p>
+              <p>
+                For example, the domain verification record giving the email
+                address user@example.com authority over the domain dvexample.com
+                can be seen with this terminal command:
+              </p>
+              <p>
+                dig
+                4i7ozur385y5nsqoo0mg0mxv6t9333s2rarxrtvlpag1gsk8pg._dv.dvexample.com
+                TXT
+              </p>
+              <p>
+                The record can specify what type of services the authorised
+                party is allowed to use (e.g. SEO, Storage, Advertising) or
+                specify an exact provider (ads.google.com), you can also specify
+                an expiry date.
+              </p>
+              <p>The benefits of this approach are:</p>
+              <p>
+                - Domain owners can grant time-limited, granular permissions for
+                third parties to verify a domain
+              </p>
+              <p>
+                - Every service provider could use the same verification record
+              </p>
+              <p>
+                - Once a domain owner creates a verification record by following
+                instructions from one service provider, that same record could
+                be used by other service providers
+              </p>
+              <p>
+                - Domain registrars could set these records up on behalf of
+                users, perhaps even upon domain registration (with registrant
+                opt-in). This would provide domain registrants with a fast lane
+                for signing up to services like Google Ads, Facebook Ads,
+                Dropbox, whatever
+              </p>
+              <p>
+                I'm still working on licensing but creating these records will
+                always be free. I hope to find service providers that see
+                significant upside in reducing friction for user onboarding that
+                are willing to pay to license it.
+              </p>
+              <p>
+                Worked example: Let's say you want to authenticate the user with
+                the email user@example.com with the domain dvexample.com, these
+                are the steps:
+              </p>
+              <p>
+                1. HASH(user@example.com) -&gt;
+                4i7ozur385y5nsqoo0mg0mxv6t9333s2rarxrtvlpag1gsk8pg
+              </p>
+              <p>
+                2. Store Domain Verification record at:
+                4i7ozur385y5nsqoo0mg0mxv6t9333s2rarxrtvlpag1gsk8pg._dv.dvexample.com
+              </p>
+              <p>3. TXT record determines permissions and time limit:</p>
+              <p>
+                @dv=1;d=Example user
+                emali;e=2025-01-01;s=[seo;email];h=4i7ozur385y5nsqoo0mg0mxv6t9333s2rarxrtvlpag1gsk8pg
+              </p>
+              <p>
+                BTW, if you're interested the syntax of that DNS record is a
+                compact data serialisation format I created especially for DNS
+                [3].
+              </p>
+              <p>Thanks for taking a look,</p>
+              <p>Elliott</p>
+              <p>
+                1.
+                <a href="https://www.domainverification.org"
+                  >https://www.domainverification.org</a
+                >
+              </p>
+              <p>2. dig target.com TXT</p>
+              <p>
+                3.
+                <a href="https://www.compactdata.org"
+                  >https://www.compactdata.org</a
+                >
+              </p>
+              <p>(edit: formatting)</p>
+            </div>
+          </section>
+        </section>
         <section id="35827658">
           <h3>
             <a
@@ -141,11 +335,11 @@
             <h4>
               <span>2023-05-05 @ 11:02:35</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35827658"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -162,11 +356,11 @@
             <h4>
               <span>2023-05-05 @ 10:01:57</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35827189"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -184,7 +378,7 @@
             <h4>
               <span>2023-05-05 @ 09:45:54</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35827081"
                   >Comments</a
@@ -198,19 +392,19 @@
             <a
               class="item"
               href="https://element.io/blog/india-bans-flagship-client-for-the-matrix-network/"
-              >India bans Element – the flagship client for the Matrix
-              network</a
+              >Element is one of fourteen messaging apps blocked by Central
+              Indian Government</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-05-05 @ 09:15:40</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">187</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35826946"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -227,11 +421,11 @@
             <h4>
               <span>2023-05-05 @ 09:12:28</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35826929"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -248,11 +442,11 @@
             <h4>
               <span>2023-05-05 @ 08:17:44</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35826616"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -268,11 +462,11 @@
             <h4>
               <span>2023-05-05 @ 08:04:34</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35826540"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
             <div class="text">
@@ -305,28 +499,6 @@
             </div>
           </section>
         </section>
-        <section id="35826468">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theregister.com/2023/05/04/pixies_google_pixel_alarm/"
-              >Pixies keep switching off my morning alarm, says Google Pixel
-              owner</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-05 @ 07:53:24</span
-              ><span class="points-container"
-                >Points: <span class="points">41</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35826468"
-                  >Comments</a
-                ><span class="descendants">: 29</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="35826137">
           <h3>
             <a
@@ -356,55 +528,11 @@
             <h4>
               <span>2023-05-05 @ 06:56:49</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35826104"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35826088">
-          <h3>
-            <a
-              class="item"
-              href="https://tutanota.com/blog/posts/earn-it-barr-encryption"
-              >The EARN IT bill is back. We've killed it twice, let's do it
-              again</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-05 @ 06:54:34</span
-              ><span class="points-container"
-                >Points: <span class="points">251</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35826088"
-                  >Comments</a
-                ><span class="descendants">: 88</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35825542">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/books/2023/may/01/the-lost-album-of-the-beatles-review-daniel-rachel-deeply-researched-what-ifs"
-              >The Lost Album of the Beatles review – deeply researched
-              what-ifs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-05 @ 05:32:33</span
-              ><span class="points-container"
-                >Points: <span class="points">22</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35825542"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -421,11 +549,32 @@
             <h4>
               <span>2023-05-05 @ 05:06:52</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35825410"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="35824347">
+          <h3>
+            <a
+              class="item"
+              href="https://www.econlib.org/why-scott-alexander-is-wrong/"
+              >Urban Density and Home Prices</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-05 @ 01:41:39</span
+              ><span class="points-container"
+                >Points: <span class="points">48</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35824347"
+                  >Comments</a
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -440,11 +589,11 @@
             <h4>
               <span>2023-05-05 @ 01:37:39</span
               ><span class="points-container"
-                >Points: <span class="points">309</span></span
+                >Points: <span class="points">321</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35824320"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -461,11 +610,11 @@
             <h4>
               <span>2023-05-05 @ 01:10:09</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">186</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35824173"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -483,11 +632,11 @@
             <h4>
               <span>2023-05-05 @ 01:00:07</span
               ><span class="points-container"
-                >Points: <span class="points">364</span></span
+                >Points: <span class="points">379</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35824115"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -505,7 +654,7 @@
             <h4>
               <span>2023-05-04 @ 22:40:16</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35823070"
                   >Comments</a
@@ -526,11 +675,11 @@
             <h4>
               <span>2023-05-04 @ 22:38:16</span
               ><span class="points-container"
-                >Points: <span class="points">179</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35823051"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -546,11 +695,11 @@
             <h4>
               <span>2023-05-04 @ 20:39:57</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35821748"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
             <div class="text">
@@ -571,41 +720,19 @@
             </div>
           </section>
         </section>
-        <section id="35821128">
-          <h3>
-            <a
-              class="item"
-              href="https://www.woodtv.com/news/kent-county/americas-first-high-volume-pfas-annihilator-is-up-and-running-in-west-michigan/"
-              >America’s first high-volume ‘PFAS Annihilator’ is up and running
-              in W. Michigan</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-04 @ 19:47:56</span
-              ><span class="points-container"
-                >Points: <span class="points">276</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35821128"
-                  >Comments</a
-                ><span class="descendants">: 142</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="35813429">
           <h3>
             <a
               class="item"
               href="https://www.newyorker.com/magazine/2008/06/09/the-running-novelist"
-              >The Running Novelist</a
+              >The Running Novelist (2008)</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-05-04 @ 10:38:28</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35813429"
                   >Comments</a
@@ -626,11 +753,11 @@
             <h4>
               <span>2023-05-04 @ 10:19:13</span
               ><span class="points-container"
-                >Points: <span class="points">1848</span></span
+                >Points: <span class="points">1868</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35813322"
                   >Comments</a
-                ><span class="descendants">: 849</span></span
+                ><span class="descendants">: 864</span></span
               >
             </h4>
           </section>
@@ -640,7 +767,7 @@
             <a
               class="item"
               href="https://www.bogdandeac.com/return-oriented-programming-on-risc-v/"
-              >Return oriented programming on RISC-V – Part 1</a
+              >Return oriented programming on RISC-V – Part 1 (2022)</a
             >
           </h3>
           <section>
@@ -651,7 +778,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35812913"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -659,18 +786,18 @@
         <section id="35812525">
           <h3>
             <a class="item" href="https://gwern.net/socks"
-              >On Having Enough Socks</a
+              >On Having Enough Socks (2019)</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-05-04 @ 07:51:31</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35812525"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -687,7 +814,7 @@
             <h4>
               <span>2023-05-04 @ 06:48:26</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35812063"
                   >Comments</a
@@ -708,11 +835,11 @@
             <h4>
               <span>2023-05-04 @ 06:28:21</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35811879"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -727,33 +854,11 @@
             <h4>
               <span>2023-05-03 @ 12:03:18</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">178</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35801302"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35800380">
-          <h3>
-            <a
-              class="item"
-              href="https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation"
-              >Electronic Music and the NeXTcube – Running Max on the Ircam
-              Musical Workstation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-03 @ 10:18:04</span
-              ><span class="points-container"
-                >Points: <span class="points">65</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35800380"
-                  >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -763,14 +868,14 @@
             <a
               class="item"
               href="https://tratt.net/laurie/blog/2020/which_parsing_approach.html"
-              >Which Parsing Approach?</a
+              >Which Parsing Approach? (2020)</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-05-03 @ 09:51:57</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35800189"
                   >Comments</a
@@ -782,14 +887,14 @@
         <section id="35800109">
           <h3>
             <a class="item" href="https://cstack.github.io/db_tutorial/"
-              >Writing a SQLite Clone from Scratch in C</a
+              >Writing a SQLite Clone from Scratch in C (2022)</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-05-03 @ 09:40:42</span
               ><span class="points-container"
-                >Points: <span class="points">271</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35800109"
                   >Comments</a
