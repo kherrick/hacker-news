@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-05, 00:30:39](https://news.ycombinator.com/item?id=35823929) - [Rivian R1T Fender Bender Turns into $42,000 Repair Bill](https://www.thedrive.com/news/rivian-r1t-fender-bender-turns-into-42000-repair-bill)
 * [2023-05-04, 22:40:16](https://news.ycombinator.com/item?id=35823070) - [MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks](https://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html)
 * [2023-05-04, 22:38:16](https://news.ycombinator.com/item?id=35823051) - [Westinghouse AP300 Small Module Reactor](https://www.westinghousenuclear.com/energy-systems/ap300-smr)
 * [2023-05-04, 21:41:56](https://news.ycombinator.com/item?id=35822482) - [Restricted Library Mode (Breaking change to Val Town)](https://blog.val.town/blog/restricted-library-mode)
-* [2023-05-04, 20:54:42](https://news.ycombinator.com/item?id=35821927) - [Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs](https://arstechnica.com/tech-policy/2023/05/googlers-angry-about-ceos-226m-pay-after-cuts-in-perks-and-12000-layoffs/)
 * [2023-05-04, 20:34:40](https://news.ycombinator.com/item?id=35821695) - [Fixing Hallucination with Knowledge Bases](https://www.pinecone.io/learn/langchain-retrieval-augmentation/)
 * [2023-05-04, 19:47:56](https://news.ycombinator.com/item?id=35821128) - [America’s first high-volume ‘PFAS Annihilator’ is up and running in W. Michigan](https://www.woodtv.com/news/kent-county/americas-first-high-volume-pfas-annihilator-is-up-and-running-in-west-michigan/)
 * [2023-05-04, 19:33:12](https://news.ycombinator.com/item?id=35820931) - [Re-implementing LangChain in 100 lines of code](https://blog.scottlogic.com/2023/05/04/langchain-mini.html)
@@ -27,7 +27,7 @@
 * [2023-05-03, 11:01:24](https://news.ycombinator.com/item?id=35800788) - [The rescue of the Salyut 7 space station](https://astronomy.com/news/2020/10/the-forgotten-rescue-of-the-salyut-7-space-station)
 * [2023-05-03, 10:18:04](https://news.ycombinator.com/item?id=35800380) - [Electronic Music and the NeXTcube – Running Max on the Ircam Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
 * [2023-05-03, 09:47:13](https://news.ycombinator.com/item?id=35800157) - [A Little Calculus](https://papl.cs.brown.edu/2018/func-as-data.html#%28part._.A_.Little_.Calculus%29)
-* [2023-05-03, 09:29:39](https://news.ycombinator.com/item?id=35800023) - [The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)
+* [2023-05-03, 09:40:42](https://news.ycombinator.com/item?id=35800109) - [Writing a SQLite Clone from Scratch in C](https://cstack.github.io/db_tutorial/)
 * [2023-05-03, 06:36:46](https://news.ycombinator.com/item?id=35798829) - [Why split lexing and parsing into two separate phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
 * [2023-05-03, 06:27:05](https://news.ycombinator.com/item?id=35798746) - [Cubic Interpolation of Quaternion](https://theorangeduck.com/page/cubic-interpolation-quaternions)
 
