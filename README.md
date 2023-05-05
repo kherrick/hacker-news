@@ -4,7 +4,7 @@
 * [2023-05-05, 21:00:06](https://news.ycombinator.com/item?id=35835098) - [Bun (YC S19) Is Hiring C&#x2F;C++&#x2F;Zig engineers to build a JavaScript cloud](https://oven.rippling-ats.com/job/535740/runtime-engineer-zig-or-c-c)
 * [2023-05-05, 20:56:11](https://news.ycombinator.com/item?id=35835059) - [eBay’s Fast Billion-Scale Vector Similarity Engine](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/)
 * [2023-05-05, 20:43:37](https://news.ycombinator.com/item?id=35834918) - [At Musk’s brain-chip startup, animal-testing panel is rife with conflicts](https://www.reuters.com/technology/musks-brain-chip-startup-animal-testing-panel-is-rife-with-potential-conflicts-2023-05-04/)
-* [2023-05-05, 20:10:29](https://news.ycombinator.com/item?id=35834535) - [Death of the Twin Gynaecologists: A patient&#x27;s notes](https://www.vulture.com/article/twin-gynecologists-stewart-marcus-cyril-marcus-dead-ringers-inspiration.html)
+* [2023-05-05, 20:10:29](https://news.ycombinator.com/item?id=35834535) - [Death of the Twin Gynaecologists: A patient&#x27;s notes (1975)](https://www.vulture.com/article/twin-gynecologists-stewart-marcus-cyril-marcus-dead-ringers-inspiration.html)
 * [2023-05-05, 19:33:23](https://news.ycombinator.com/item?id=35834106) - [Bluesky&#x27;s AT Protocol - Federation Architecture Overview](https://blueskyweb.xyz/blog/5-5-2023-federation-architecture)
 * [2023-05-05, 19:28:04](https://news.ycombinator.com/item?id=35834037) - [Monoliths Are Not Dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
 * [2023-05-05, 18:18:41](https://news.ycombinator.com/item?id=35833163) - [The core problem with hamburger menus](https://bt.ht/hamburgers/)
