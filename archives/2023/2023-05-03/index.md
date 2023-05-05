@@ -44,6 +44,7 @@
 * [2023-05-03, 16:59:07](https://news.ycombinator.com/item?id=35804759) - [Three failed US banks had one thing in common: KPMG](https://www.ft.com/content/feb33914-493e-467c-b67e-28fcd1b3814d)
 * [2023-05-03, 16:57:02](https://news.ycombinator.com/item?id=35804721) - [Steve Jobs and the Usable Computer (6 October 2011 by Tim Berners-Lee)](https://www.w3.org/blog/2011/10/steve-jobs/)
 * [2023-05-03, 16:44:19](https://news.ycombinator.com/item?id=35804556) - [SparseGPT: Language Models Can Be Accurately Pruned in One-Shot](https://arxiv.org/abs/2301.00774)
+* [2023-05-03, 16:22:05](https://news.ycombinator.com/item?id=35804263) - [The New New Reading Environment](https://www.nplusonemag.com/issue-45/the-intellectual-situation/the-new-new-reading-environment/)
 * [2023-05-03, 16:18:51](https://news.ycombinator.com/item?id=35804220) - [Temporal .NET – Deterministic Workflow Authoring in .NET](https://temporal.io/blog/introducing-temporal-dotnet)
 * [2023-05-03, 15:51:43](https://news.ycombinator.com/item?id=35803869) - [White House proposes 30 percent tax on electricity used for crypto mining](https://www.engadget.com/white-house-proposes-30-percent-tax-on-electricity-used-for-crypto-mining-090342986.html)
 * [2023-05-03, 15:32:30](https://news.ycombinator.com/item?id=35803624) - [Why “free” street parking could be costing you hundreds more in rent](https://www.washingtonpost.com/climate-environment/2023/05/02/eliminating-parking-minimums-liveable-cities/)

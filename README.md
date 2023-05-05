@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-05, 03:36:11](https://news.ycombinator.com/item?id=35824932) - [Cracking the Code: Creating Opportunities for Women in Tech](https://blogs.nvidia.com/blog/2023/04/28/sabrina-koumoin/)
-* [2023-05-05, 01:41:39](https://news.ycombinator.com/item?id=35824347) - [Urban Density and Home Prices](https://www.econlib.org/why-scott-alexander-is-wrong/)
 * [2023-05-05, 01:37:39](https://news.ycombinator.com/item?id=35824320) - [Public Money, Public Code](https://publiccode.eu/en/)
 * [2023-05-05, 01:10:09](https://news.ycombinator.com/item?id=35824173) - [I found the best anagram in English (2017)](https://blog.plover.com/lang/anagram-scoring.html)
 * [2023-05-05, 01:00:07](https://news.ycombinator.com/item?id=35824115) - [Heisting $20M of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
@@ -22,7 +21,8 @@
 * [2023-05-04, 14:48:35](https://news.ycombinator.com/item?id=35816224) - [Running JavaScript in Rust with Deno: Experimenting with Deno&#x27;s Rust Crates](https://austinpoor.com/blog/js-in-rs)
 * [2023-05-04, 14:30:35](https://news.ycombinator.com/item?id=35815939) - [Google Introduces Passkey Authentication](https://security.googleblog.com/2023/05/so-long-passwords-thanks-for-all-phish.html)
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
-* [2023-05-03, 12:34:39](https://news.ycombinator.com/item?id=35801611) - [Lifestyle Design (From First Principles)](https://taylor.town/constructive-lifestyle-design)
+* [2023-05-03, 16:22:05](https://news.ycombinator.com/item?id=35804263) - [The New New Reading Environment](https://www.nplusonemag.com/issue-45/the-intellectual-situation/the-new-new-reading-environment/)
+* [2023-05-03, 12:34:39](https://news.ycombinator.com/item?id=35801611) - [Lifestyle design from first principles](https://taylor.town/constructive-lifestyle-design)
 * [2023-05-03, 12:04:48](https://news.ycombinator.com/item?id=35801318) - [What Colour Are Odysseus’ Words? Traces of Synaesthesia in Homeric Scholarship](https://antigonejournal.com/2023/02/colour-synaesthesia-homer/)
 * [2023-05-03, 12:03:18](https://news.ycombinator.com/item?id=35801302) - [How to Survive Your Project&#x27;s First 100k Lines](https://verdagon.dev/blog/first-100k-lines)
 * [2023-05-03, 11:19:15](https://news.ycombinator.com/item?id=35800935) - [Rest in Peas: The Unrecognized Death of Speech Recognition (2010)](https://robertfortner.posthaven.com/rest-in-peas-the-unrecognized-death-of-speech)
