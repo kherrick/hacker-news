@@ -2,7 +2,6 @@
 
 * [2023-05-05, 13:00:53](https://news.ycombinator.com/item?id=35828664) - [U.S. Hits Z-Library with New Domain Name Seizures](https://torrentfreak.com/u-s-hits-z-library-with-new-domain-name-seizures-230505/)
 * [2023-05-05, 11:55:58](https://news.ycombinator.com/item?id=35828100) - [Ask HN: Why are there no traditional language compilers that target the JVM?](https://news.ycombinator.com/item?id=35828100)
-* [2023-05-05, 11:54:47](https://news.ycombinator.com/item?id=35828091) - [Show HN: Remove sponsored content in YouTube videos](https://butter.sonnet.io)
 * [2023-05-05, 11:53:13](https://news.ycombinator.com/item?id=35828075) - [Mischievous NPM Publications](https://blog.phylum.io/phylum-discovers-mischievous-npm-publications/)
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
 * [2023-05-05, 11:40:07](https://news.ycombinator.com/item?id=35827952) - [Show HN: Make domain verification as easy as verifying an email or phone number](https://www.domainverification.org)
@@ -16,6 +15,7 @@
 * [2023-05-05, 07:00:23](https://news.ycombinator.com/item?id=35826137) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-05-05, 06:56:49](https://news.ycombinator.com/item?id=35826104) - [Paradigms of A.I. Programming: Case Studies in Common Lisp (1991)](https://norvig.github.io/paip-lisp/#/)
 * [2023-05-05, 05:06:52](https://news.ycombinator.com/item?id=35825410) - [The swing has a near-universal history of ritual transgression](https://aeon.co/essays/the-swing-has-a-universal-history-of-transgression)
+* [2023-05-05, 01:37:39](https://news.ycombinator.com/item?id=35824320) - [Public Money, Public Code](https://publiccode.eu/en/)
 * [2023-05-05, 01:10:09](https://news.ycombinator.com/item?id=35824173) - [I found the best anagram in English (2017)](https://blog.plover.com/lang/anagram-scoring.html)
 * [2023-05-05, 01:00:07](https://news.ycombinator.com/item?id=35824115) - [Heisting $20M of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
 * [2023-05-04, 22:38:16](https://news.ycombinator.com/item?id=35823051) - [Westinghouse AP300 Small Module Reactor](https://www.westinghousenuclear.com/energy-systems/ap300-smr)
