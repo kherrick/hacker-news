@@ -26,7 +26,7 @@
 * [2023-05-04, 13:10:36](https://news.ycombinator.com/item?id=35814707) - [Waymo One doubles service area in Phoenix, continues growing in SF](https://blog.waymo.com/2023/05/waymo-one-doubles-service-area-in.html)
 * [2023-05-04, 12:08:15](https://news.ycombinator.com/item?id=35814074) - [The most important machine that was never built](https://www.quantamagazine.org/alan-turings-most-important-machine-was-never-built-20230503/)
 * [2023-05-04, 11:51:02](https://news.ycombinator.com/item?id=35813950) - [A Linux kernel without struct buffer_head](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/)
-* [2023-05-04, 09:25:10](https://news.ycombinator.com/item?id=35813010) - [There&#x27;s a mansion hidden directly under the Bay Bridge](https://www.sfgate.com/obscuresf/article/nimitz-mansion-hidden-under-bay-bridge-17999245.php)
+* [2023-05-04, 09:25:10](https://news.ycombinator.com/item?id=35813010) - [A mansion hidden directly under the Bay Bridge](https://www.sfgate.com/obscuresf/article/nimitz-mansion-hidden-under-bay-bridge-17999245.php)
 * [2023-05-03, 19:00:06](https://news.ycombinator.com/item?id=35806306) - [An Internet Canvas](https://notes.mmm.page/paper)
 * [2023-05-03, 13:30:49](https://news.ycombinator.com/item?id=35802157) - [Farewell to the Era of Cheap EC2 Spot Instances](https://pauley.me/post/2023/spot-price-trends/)
 * [2023-05-02, 22:42:13](https://news.ycombinator.com/item?id=35795177) - [Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://www.macarthur.me/posts/maps-for-dom-nodes)
