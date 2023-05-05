@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 13:36:09](https://news.ycombinator.com/item?id=35829028) - [US adds a solid 253,000 jobs despite Fed&#x27;s rate hikes](https://apnews.com/article/jobs-unemployment-inflation-layoffs-economy-federal-reserve-1bdc4e585c3c40ec14b9a40d9f8fe65f)
 * [2023-05-05, 13:00:53](https://news.ycombinator.com/item?id=35828664) - [U.S. Hits Z-Library with New Domain Name Seizures](https://torrentfreak.com/u-s-hits-z-library-with-new-domain-name-seizures-230505/)
 * [2023-05-05, 11:55:58](https://news.ycombinator.com/item?id=35828100) - [Ask HN: Why are there no traditional language compilers that target the JVM?](https://news.ycombinator.com/item?id=35828100)
 * [2023-05-05, 11:54:47](https://news.ycombinator.com/item?id=35828091) - [Show HN: Remove sponsored content in YouTube videos](https://butter.sonnet.io)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
 * [2023-05-03, 23:48:46](https://news.ycombinator.com/item?id=35809428) - [Privacyguides.org Recommendations](https://www.privacyguides.org/en/tools/)
+* [2023-05-03, 23:48:14](https://news.ycombinator.com/item?id=35809423) - [Bouncing LoRa Signals Off the Moon [video]](https://www.youtube.com/watch?v=N9Uv-oVUISg)
 * [2023-05-03, 23:45:23](https://news.ycombinator.com/item?id=35809397) - [The first empirical study of the real-world economic effects of new AI systems](https://www.npr.org/sections/money/2023/05/02/1172791281/this-company-adopted-ai-heres-what-happened-to-its-human-workers)
 * [2023-05-03, 23:35:15](https://news.ycombinator.com/item?id=35809302) - [Hacker News Highlights](https://news.ycombinator.com/highlights)
 * [2023-05-03, 23:17:24](https://news.ycombinator.com/item?id=35809144) - [Get a Tesla if you want to learn about AI trying to kill you, says Steve Wozniak](https://electrek.co/2023/05/03/tesla-ai-trying-to-kill-you-steve-wozniak/)
