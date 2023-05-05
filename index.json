@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-05, 20:10:59",
+      "https://news.ycombinator.com/item?id=35834543"
+    ],
+    [
+      "The Myth of Florence Nightingale",
+      "https://lithub.com/the-problematic-myth-of-florence-nightingale/"
+    ]
+  ],
+  [
+    [
       "2023-05-05, 18:57:32",
       "https://news.ycombinator.com/item?id=35833700"
     ],
@@ -41,21 +51,11 @@
   ],
   [
     [
-      "2023-05-05, 16:05:27",
-      "https://news.ycombinator.com/item?id=35831177"
-    ],
-    [
-      "Show HN: The HN Recap – AI generated daily HN podcast",
-      "https://hackernewsrecap.buzzsprout.com"
-    ]
-  ],
-  [
-    [
       "2023-05-05, 15:42:38",
       "https://news.ycombinator.com/item?id=35830723"
     ],
     [
-      "Who regulates the regulators? (Against the review-and-approval paradigm)",
+      "Who regulates the regulators? We need to go beyond review-and-approval",
       "https://rootsofprogress.org/against-review-and-approval"
     ]
   ],
@@ -101,12 +101,12 @@
   ],
   [
     [
-      "2023-05-05, 14:14:12",
-      "https://news.ycombinator.com/item?id=35829500"
+      "2023-05-05, 14:00:53",
+      "https://news.ycombinator.com/item?id=35829294"
     ],
     [
-      "Big oil helped shape Stanford’s latest climate-research focus",
-      "https://www.chronicle.com/article/big-oil-helped-shape-stanfords-latest-climate-research-focus"
+      "Journalist writes about discovering she’d been surveilled by TikTok",
+      "https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "U.S. Hits Z-Library with New Domain Name Seizures",
       "https://torrentfreak.com/u-s-hits-z-library-with-new-domain-name-seizures-230505/"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 11:53:13",
-      "https://news.ycombinator.com/item?id=35828075"
-    ],
-    [
-      "Mischievous NPM Publications",
-      "https://blog.phylum.io/phylum-discovers-mischievous-npm-publications/"
     ]
   ],
   [
@@ -157,16 +147,6 @@
     [
       "A New Theory for the Assembly of Life in the Universe",
       "https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 09:12:28",
-      "https://news.ycombinator.com/item?id=35826929"
-    ],
-    [
-      "What is a Vector Database?",
-      "https://www.pinecone.io/learn/vector-database/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
-      "2023-05-03, 22:25:39",
-      "https://news.ycombinator.com/item?id=35808638"
+      "2023-05-03, 19:00:06",
+      "https://news.ycombinator.com/item?id=35806306"
     ],
     [
-      "Adapting an early modern recipe for heartsease cordial (2022)",
-      "https://www.folger.edu/blogs/shakespeare-and-beyond/heartsease-cordial-adapting-early-modern-recipe-pansies/"
+      "An Internet Canvas",
+      "https://notes.mmm.page/paper"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 13:30:49",
+      "https://news.ycombinator.com/item?id=35802157"
+    ],
+    [
+      "Farewell to the Era of Cheap EC2 Spot Instances",
+      "https://pauley.me/post/2023/spot-price-trends/"
+    ]
+  ],
+  [
+    [
+      "2023-05-02, 22:42:13",
+      "https://news.ycombinator.com/item?id=35795177"
+    ],
+    [
+      "Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes",
+      "https://www.macarthur.me/posts/maps-for-dom-nodes"
     ]
   ]
 ]
