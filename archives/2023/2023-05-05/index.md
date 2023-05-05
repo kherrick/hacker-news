@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 18:18:41](https://news.ycombinator.com/item?id=35833163) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
 * [2023-05-05, 18:00:59](https://news.ycombinator.com/item?id=35832910) - [Apple’s Unionized Store Wants to Start Accepting Tips from Customers](https://www.bloomberg.com/news/articles/2023-05-03/apple-s-unionized-store-workers-seek-tips-and-higher-holiday-pay)
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
 * [2023-05-05, 17:34:40](https://news.ycombinator.com/item?id=35832540) - [OpenAI ignored the ‘have a problem to solve’ rule, says president Greg Brockman](https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/)
@@ -21,6 +22,7 @@
 * [2023-05-05, 15:18:10](https://news.ycombinator.com/item?id=35830344) - [Iowa governor will sign bill rolling back labor protections for children](https://www.washingtonpost.com/business/2023/05/04/iowa-child-labor-reynolds/)
 * [2023-05-05, 14:57:08](https://news.ycombinator.com/item?id=35830048) - [CRTC considering banning Fox News from Canadian cable packages](https://nationalpost.com/news/politics/crtc-ban-fox-news-canadian-cable)
 * [2023-05-05, 14:52:03](https://news.ycombinator.com/item?id=35829986) - [Google engineer jumps to death in NYC, second worker suicide in months](https://nypost.com/2023/05/05/google-senior-software-engineer-31-jumps-to-death-from-nyc-headquarters/)
+* [2023-05-05, 14:49:46](https://news.ycombinator.com/item?id=35829945) - [Show HN: On the security of the Linux disk encryption LUKS](https://dys2p.com/en/2023-05-luks-security.html)
 * [2023-05-05, 14:45:40](https://news.ycombinator.com/item?id=35829891) - [Consuming Psychedelics Temporarily Improves Man&#x27;s Color Blindness](https://www.technologynetworks.com/drug-discovery/news/consuming-psychedelics-temporarily-improves-mans-color-blindness-372979)
 * [2023-05-05, 14:32:19](https://news.ycombinator.com/item?id=35829733) - [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 14:29:34](https://news.ycombinator.com/item?id=35829697) - [Gmail is showing ads in the middle of the inbox](https://9to5google.com/2023/05/05/gmail-ads-increase-2023/)

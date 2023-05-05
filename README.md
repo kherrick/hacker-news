@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-05, 18:18:41](https://news.ycombinator.com/item?id=35833163) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
 * [2023-05-05, 18:00:59](https://news.ycombinator.com/item?id=35832910) - [Apple’s Unionized Store Wants to Start Accepting Tips from Customers](https://www.bloomberg.com/news/articles/2023-05-03/apple-s-unionized-store-workers-seek-tips-and-higher-holiday-pay)
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
 * [2023-05-05, 17:34:40](https://news.ycombinator.com/item?id=35832540) - [OpenAI ignored the ‘have a problem to solve’ rule, says president Greg Brockman](https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/)
@@ -9,9 +10,9 @@
 * [2023-05-05, 15:51:09](https://news.ycombinator.com/item?id=35830869) - [Wolfenstein 3D Shocked the World, 30 Years Later](https://www.howtogeek.com/802248/how-wolfenstein-3d-shocked-the-world-30-years-later/)
 * [2023-05-05, 15:42:38](https://news.ycombinator.com/item?id=35830723) - [Who regulates the regulators? (Against the review-and-approval paradigm)](https://rootsofprogress.org/against-review-and-approval)
 * [2023-05-05, 15:40:03](https://news.ycombinator.com/item?id=35830684) - [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
+* [2023-05-05, 14:49:46](https://news.ycombinator.com/item?id=35829945) - [Show HN: On the security of the Linux disk encryption LUKS](https://dys2p.com/en/2023-05-luks-security.html)
 * [2023-05-05, 14:32:19](https://news.ycombinator.com/item?id=35829733) - [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 14:14:12](https://news.ycombinator.com/item?id=35829500) - [Big oil helped shape Stanford’s latest climate-research focus](https://www.chronicle.com/article/big-oil-helped-shape-stanfords-latest-climate-research-focus)
-* [2023-05-05, 14:10:04](https://news.ycombinator.com/item?id=35829430) - [The AI PR Industrial Complex](https://www.bigtechnology.com/p/the-ai-pr-industrial-complex)
 * [2023-05-05, 13:00:53](https://news.ycombinator.com/item?id=35828664) - [U.S. Hits Z-Library with New Domain Name Seizures](https://torrentfreak.com/u-s-hits-z-library-with-new-domain-name-seizures-230505/)
 * [2023-05-05, 11:53:13](https://news.ycombinator.com/item?id=35828075) - [Mischievous NPM Publications](https://blog.phylum.io/phylum-discovers-mischievous-npm-publications/)
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
@@ -29,7 +30,6 @@
 * [2023-05-04, 12:08:15](https://news.ycombinator.com/item?id=35814074) - [The most important machine that was never built](https://www.quantamagazine.org/alan-turings-most-important-machine-was-never-built-20230503/)
 * [2023-05-04, 07:51:31](https://news.ycombinator.com/item?id=35812525) - [On Having Enough Socks (2019)](https://gwern.net/socks)
 * [2023-05-04, 06:28:21](https://news.ycombinator.com/item?id=35811879) - [A look at Crystal, a programming language for humans](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming)
-* [2023-05-03, 23:48:14](https://news.ycombinator.com/item?id=35809423) - [Bouncing LoRa Signals Off the Moon [video]](https://www.youtube.com/watch?v=N9Uv-oVUISg)
 
 ## [Archives](archives/index.md)
 
