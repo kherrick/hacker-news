@@ -21,7 +21,7 @@
 * [2023-05-05, 01:00:07](https://news.ycombinator.com/item?id=35824115) - [Heisting $20M of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
 * [2023-05-04, 22:38:16](https://news.ycombinator.com/item?id=35823051) - [Westinghouse AP300 Small Module Reactor](https://www.westinghousenuclear.com/energy-systems/ap300-smr)
 * [2023-05-04, 20:39:57](https://news.ycombinator.com/item?id=35821748) - [Show HN: GPT-JSON – Structured and typehinted GPT responses in Python](https://github.com/piercefreeman/gpt-json)
-* [2023-05-04, 10:38:28](https://news.ycombinator.com/item?id=35813429) - [The Running Novelist (2008)](https://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
+* [2023-05-04, 18:46:13](https://news.ycombinator.com/item?id=35820240) - [Fragmentarium – Laboratory for Medieval Manuscript Fragments](https://fragmentarium.ms/)
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-04, 09:07:31](https://news.ycombinator.com/item?id=35812913) - [Return oriented programming on RISC-V – Part 1 (2022)](https://www.bogdandeac.com/return-oriented-programming-on-risc-v/)
 * [2023-05-04, 07:51:31](https://news.ycombinator.com/item?id=35812525) - [On Having Enough Socks (2019)](https://gwern.net/socks)
