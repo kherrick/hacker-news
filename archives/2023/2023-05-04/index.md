@@ -65,6 +65,7 @@
 * [2023-05-04, 12:02:40](https://news.ycombinator.com/item?id=35814043) - [New Yorkers Want to Stop Landlords from Using Facial Recognition](https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997)
 * [2023-05-04, 11:57:19](https://news.ycombinator.com/item?id=35813991) - [Prediction and Entropy of Printed English – Claude Shannon (1950) [pdf]](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)
 * [2023-05-04, 11:57:01](https://news.ycombinator.com/item?id=35813989) - [Shopify to cut 20% of its workforce, beats quarterly revenue estimates](https://www.reuters.com/business/retail-consumer/shopify-reports-first-quarter-revenue-above-estimates-2023-05-04/)
+* [2023-05-04, 11:51:02](https://news.ycombinator.com/item?id=35813950) - [A Linux kernel without struct buffer_head](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/)
 * [2023-05-04, 11:41:48](https://news.ycombinator.com/item?id=35813879) - [It&#x27;s over Anakin, I have the high ground](https://ihavethe.highground.com)
 * [2023-05-04, 11:37:13](https://news.ycombinator.com/item?id=35813849) - [Shopify offloads logistics business to Flexport](https://www.cnbc.com/2023/05/04/shopify-offloads-logistics-business-to-flexport.html)
 * [2023-05-04, 11:33:26](https://news.ycombinator.com/item?id=35813821) - [New C features in GCC 13](https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13)
