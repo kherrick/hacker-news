@@ -5,7 +5,7 @@
 * [2023-05-05, 05:58:51](https://news.ycombinator.com/item?id=35825688) - [Arianespace CEO: Europe won&#x27;t have reusable rockets for another decade](https://www.space.com/europe-no-reusable-rocket-until-2030s)
 * [2023-05-05, 05:56:06](https://news.ycombinator.com/item?id=35825680) - [Taking Back the Cannonball Run Record (2022)](https://www.arnesantics.com/taking-back-the-cannonball-run-record/)
 * [2023-05-05, 05:32:33](https://news.ycombinator.com/item?id=35825542) - [The Lost Album of the Beatles review – deeply researched what-ifs](https://www.theguardian.com/books/2023/may/01/the-lost-album-of-the-beatles-review-daniel-rachel-deeply-researched-what-ifs)
-* [2023-05-05, 05:06:52](https://news.ycombinator.com/item?id=35825410) - [The swing has a near-universal history of ritual transgression](https://aeon.co/essays/the-swing-has-a-universal-history-of-transgression)
+* [2023-05-05, 05:04:42](https://news.ycombinator.com/item?id=35825399) - [Mojo: The usability of Python with the performance of C](https://docs.modular.com/mojo/)
 * [2023-05-05, 04:37:49](https://news.ycombinator.com/item?id=35825277) - [Given a place to live, Finland’s homeless were better able to deal with problems](https://www.thestar.com/opinion/contributors/2023/04/20/how-finland-managed-to-virtually-end-homelessness.html)
 * [2023-05-05, 01:37:39](https://news.ycombinator.com/item?id=35824320) - [Public Money, Public Code](https://publiccode.eu/en/)
 * [2023-05-05, 01:10:09](https://news.ycombinator.com/item?id=35824173) - [I found the best anagram in English (2017)](https://blog.plover.com/lang/anagram-scoring.html)
