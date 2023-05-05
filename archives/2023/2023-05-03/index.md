@@ -12,6 +12,7 @@
 * [2023-05-03, 23:11:31](https://news.ycombinator.com/item?id=35809082) - [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
 * [2023-05-03, 22:52:02](https://news.ycombinator.com/item?id=35808899) - [What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
 * [2023-05-03, 22:34:02](https://news.ycombinator.com/item?id=35808710) - [Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://twitter.com/haarnoja/status/1651577815836270596)
+* [2023-05-03, 22:25:39](https://news.ycombinator.com/item?id=35808638) - [Adapting an early modern recipe for heartsease cordial (2022)](https://www.folger.edu/blogs/shakespeare-and-beyond/heartsease-cordial-adapting-early-modern-recipe-pansies/)
 * [2023-05-03, 22:10:18](https://news.ycombinator.com/item?id=35808485) - [TOTP Authentication with Free Software](https://lwn.net/Articles/925870/)
 * [2023-05-03, 21:22:59](https://news.ycombinator.com/item?id=35807981) - [The Evolution of Trust (2017)](https://ncase.me/trust/)
 * [2023-05-03, 21:20:45](https://news.ycombinator.com/item?id=35807957) - [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)

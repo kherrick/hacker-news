@@ -4,7 +4,6 @@
 * [2023-05-05, 18:11:22](https://news.ycombinator.com/item?id=35833060) - [Google co-founder Larry Page subpoena in Jeffrey Epstein case](https://www.cnbc.com/2023/05/04/google-co-founder-larry-page-can-get-jeffrey-epstein-case-service.html)
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
 * [2023-05-05, 17:34:40](https://news.ycombinator.com/item?id=35832540) - [OpenAI ignored the ‘have a problem to solve’ rule, says president Greg Brockman](https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/)
-* [2023-05-05, 17:15:26](https://news.ycombinator.com/item?id=35832296) - [Ask HN: What are ways to combat loneliness and build meaningful connections?](https://news.ycombinator.com/item?id=35832296)
 * [2023-05-05, 16:58:44](https://news.ycombinator.com/item?id=35832038) - [A few words on Ruby&#x27;s type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
 * [2023-05-05, 16:05:27](https://news.ycombinator.com/item?id=35831177) - [Show HN: The HN Recap – AI generated daily HN podcast](https://hackernewsrecap.buzzsprout.com)
 * [2023-05-05, 15:42:38](https://news.ycombinator.com/item?id=35830723) - [Who regulates the regulators? (Against the review-and-approval paradigm)](https://rootsofprogress.org/against-review-and-approval)
@@ -30,6 +29,7 @@
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-04, 07:51:31](https://news.ycombinator.com/item?id=35812525) - [On Having Enough Socks (2019)](https://gwern.net/socks)
 * [2023-05-04, 06:28:21](https://news.ycombinator.com/item?id=35811879) - [A look at Crystal, a programming language for humans](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming)
+* [2023-05-03, 22:25:39](https://news.ycombinator.com/item?id=35808638) - [Adapting an early modern recipe for heartsease cordial (2022)](https://www.folger.edu/blogs/shakespeare-and-beyond/heartsease-cordial-adapting-early-modern-recipe-pansies/)
 
 ## [Archives](archives/index.md)
 
