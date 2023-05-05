@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-05, 18:18:41](https://news.ycombinator.com/item?id=35833163) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
 * [2023-05-05, 18:11:22](https://news.ycombinator.com/item?id=35833060) - [Google co-founder Larry Page subpoena in Jeffrey Epstein case](https://www.cnbc.com/2023/05/04/google-co-founder-larry-page-can-get-jeffrey-epstein-case-service.html)
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
 * [2023-05-05, 17:34:40](https://news.ycombinator.com/item?id=35832540) - [OpenAI ignored the ‘have a problem to solve’ rule, says president Greg Brockman](https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/)
@@ -16,6 +15,7 @@
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
 * [2023-05-05, 11:41:32](https://news.ycombinator.com/item?id=35827974) - [Squad Solar City Car](https://www.squadmobility.com/)
 * [2023-05-05, 10:01:57](https://news.ycombinator.com/item?id=35827189) - [A New Theory for the Assembly of Life in the Universe](https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/)
+* [2023-05-05, 09:15:40](https://news.ycombinator.com/item?id=35826946) - [Element is one of fourteen messaging apps blocked by Central Indian Government](https://element.io/blog/india-bans-flagship-client-for-the-matrix-network/)
 * [2023-05-05, 09:12:28](https://news.ycombinator.com/item?id=35826929) - [What is a Vector Database?](https://www.pinecone.io/learn/vector-database/)
 * [2023-05-05, 08:04:34](https://news.ycombinator.com/item?id=35826540) - [Show HN: A search engine for your personal network of high-quality websites](https://usegrasp.com)
 * [2023-05-05, 07:00:23](https://news.ycombinator.com/item?id=35826137) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
