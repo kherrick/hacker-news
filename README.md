@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-05, 09:15:40](https://news.ycombinator.com/item?id=35826946) - [India bans Element – the flagship client for the Matrix network](https://element.io/blog/india-bans-flagship-client-for-the-matrix-network/)
 * [2023-05-05, 09:12:28](https://news.ycombinator.com/item?id=35826929) - [What Is a Vector Database](https://www.pinecone.io/learn/vector-database/)
 * [2023-05-05, 09:02:20](https://news.ycombinator.com/item?id=35826873) - [Slack GPT, the Future of AI in Slack](https://slack.com/blog/news/introducing-slack-gpt)
 * [2023-05-05, 08:17:44](https://news.ycombinator.com/item?id=35826616) - [Rimac Energy: Stationary Energy Storage Technology](https://www.rimac-newsroom.com/press-releases/rimac-energy/introducing-rimac-energy-cutting-edge-stationary-energy-storage-technology-create)
@@ -18,7 +19,6 @@
 * [2023-05-04, 20:34:40](https://news.ycombinator.com/item?id=35821695) - [Fixing Hallucination with Knowledge Bases](https://www.pinecone.io/learn/langchain-retrieval-augmentation/)
 * [2023-05-04, 19:47:56](https://news.ycombinator.com/item?id=35821128) - [America’s first high-volume ‘PFAS Annihilator’ is up and running in W. Michigan](https://www.woodtv.com/news/kent-county/americas-first-high-volume-pfas-annihilator-is-up-and-running-in-west-michigan/)
 * [2023-05-04, 19:33:12](https://news.ycombinator.com/item?id=35820931) - [Re-implementing LangChain in 100 lines of code](https://blog.scottlogic.com/2023/05/04/langchain-mini.html)
-* [2023-05-04, 18:54:56](https://news.ycombinator.com/item?id=35820368) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-04, 09:07:31](https://news.ycombinator.com/item?id=35812913) - [Return oriented programming on RISC-V – Part 1](https://www.bogdandeac.com/return-oriented-programming-on-risc-v/)
 * [2023-05-04, 06:48:26](https://news.ycombinator.com/item?id=35812063) - [I can&#x27;t believe I&#x27;m praising Tcl (2008)](https://yosefk.com/blog/i-cant-believe-im-praising-tcl.html)
