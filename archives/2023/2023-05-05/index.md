@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 23:29:11](https://news.ycombinator.com/item?id=35836411) - [RedPajama (Open LLaMA Replication) 3B and 7B models released](https://www.together.xyz/blog/redpajama-models-v1)
 * [2023-05-05, 22:18:57](https://news.ycombinator.com/item?id=35835787) - [Sam Altman says era of remote work is over;worst mistake of tech industry](https://www.businesstoday.in/technology/news/story/chatgpt-maker-sam-altman-says-era-of-remote-work-is-over-380090-2023-05-04)
 * [2023-05-05, 22:12:44](https://news.ycombinator.com/item?id=35835740) - [Scientists say they have found more moons with oceans in the Solar System](https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/)
 * [2023-05-05, 21:16:18](https://news.ycombinator.com/item?id=35835240) - [Dump these insecure phone adapters because we&#x27;re not fixing them, says Cisco](https://www.theregister.com/2023/05/05/cisco_phone_adapter_vulnerabilitty/)
