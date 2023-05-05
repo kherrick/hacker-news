@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-05, 10:01:57](https://news.ycombinator.com/item?id=35827189) - [A New Theory for the Assembly of Life in the Universe](https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/)
+* [2023-05-05, 09:45:54](https://news.ycombinator.com/item?id=35827081) - [Comparison of space and time required to build each compiler for system language](https://forum.devtalk.com/t/the-v-programming-language/8649)
 * [2023-05-05, 09:15:40](https://news.ycombinator.com/item?id=35826946) - [India bans Element – the flagship client for the Matrix network](https://element.io/blog/india-bans-flagship-client-for-the-matrix-network/)
 * [2023-05-05, 09:12:28](https://news.ycombinator.com/item?id=35826929) - [What Is a Vector Database](https://www.pinecone.io/learn/vector-database/)
-* [2023-05-05, 09:02:20](https://news.ycombinator.com/item?id=35826873) - [Slack GPT, the Future of AI in Slack](https://slack.com/blog/news/introducing-slack-gpt)
 * [2023-05-05, 08:17:44](https://news.ycombinator.com/item?id=35826616) - [Rimac Energy: Stationary Energy Storage Technology](https://www.rimac-newsroom.com/press-releases/rimac-energy/introducing-rimac-energy-cutting-edge-stationary-energy-storage-technology-create)
 * [2023-05-05, 08:04:34](https://news.ycombinator.com/item?id=35826540) - [Show HN: A search engine for your personal network of high-quality websites](https://usegrasp.com)
 * [2023-05-05, 07:53:24](https://news.ycombinator.com/item?id=35826468) - [Pixies keep switching off my morning alarm, says Google Pixel owner](https://www.theregister.com/2023/05/04/pixies_google_pixel_alarm/)
