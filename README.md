@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-05, 00:30:39](https://news.ycombinator.com/item?id=35823929) - [Rivian R1T Fender Bender Turns into $42,000 Repair Bill](https://www.thedrive.com/news/rivian-r1t-fender-bender-turns-into-42000-repair-bill)
 * [2023-05-04, 22:40:16](https://news.ycombinator.com/item?id=35823070) - [MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks](https://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html)
 * [2023-05-04, 22:38:16](https://news.ycombinator.com/item?id=35823051) - [Westinghouse AP300 Small Module Reactor](https://www.westinghousenuclear.com/energy-systems/ap300-smr)
 * [2023-05-04, 21:41:56](https://news.ycombinator.com/item?id=35822482) - [Restricted Library Mode (Breaking change to Val Town)](https://blog.val.town/blog/restricted-library-mode)
@@ -20,14 +19,15 @@
 * [2023-05-04, 13:56:57](https://news.ycombinator.com/item?id=35815396) - [The UK’s tortured attempt to remake the internet](https://www.theverge.com/23708180/united-kingdom-online-safety-bill-explainer-legal-pornography-age-checks)
 * [2023-05-04, 13:56:14](https://news.ycombinator.com/item?id=35815382) - [UEFI Secure Boot on the Raspberry Pi](https://www.linux.it/~ema/posts/secure-boot-rpi/)
 * [2023-05-04, 12:09:09](https://news.ycombinator.com/item?id=35814081) - [Facebook has not been doing enough to comply with a 2020 privacy order: FTC](https://arstechnica.com/tech-policy/2023/05/ftc-says-facebook-violated-privacy-order-proposes-ban-on-monetizing-youth-data/)
-* [2023-05-04, 10:47:43](https://news.ycombinator.com/item?id=35813496) - [The seven programming ur-languages (2021)](https://madhadron.com/programming/seven_ur_languages.html)
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-03, 21:22:59](https://news.ycombinator.com/item?id=35807981) - [The Evolution of Trust (2017)](https://ncase.me/trust/)
+* [2023-05-03, 12:04:48](https://news.ycombinator.com/item?id=35801318) - [What Colour Are Odysseus’ Words? Traces of Synaesthesia in Homeric Scholarship](https://antigonejournal.com/2023/02/colour-synaesthesia-homer/)
 * [2023-05-03, 12:03:18](https://news.ycombinator.com/item?id=35801302) - [How to Survive Your Project&#x27;s First 100k Lines](https://verdagon.dev/blog/first-100k-lines)
 * [2023-05-03, 11:01:24](https://news.ycombinator.com/item?id=35800788) - [The rescue of the Salyut 7 space station](https://astronomy.com/news/2020/10/the-forgotten-rescue-of-the-salyut-7-space-station)
 * [2023-05-03, 10:18:04](https://news.ycombinator.com/item?id=35800380) - [Electronic Music and the NeXTcube – Running Max on the Ircam Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
 * [2023-05-03, 09:47:13](https://news.ycombinator.com/item?id=35800157) - [A Little Calculus](https://papl.cs.brown.edu/2018/func-as-data.html#%28part._.A_.Little_.Calculus%29)
 * [2023-05-03, 09:40:42](https://news.ycombinator.com/item?id=35800109) - [Writing a SQLite Clone from Scratch in C](https://cstack.github.io/db_tutorial/)
+* [2023-05-03, 09:29:39](https://news.ycombinator.com/item?id=35800023) - [The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)
 * [2023-05-03, 06:36:46](https://news.ycombinator.com/item?id=35798829) - [Why split lexing and parsing into two separate phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
 * [2023-05-03, 06:27:05](https://news.ycombinator.com/item?id=35798746) - [Cubic Interpolation of Quaternion](https://theorangeduck.com/page/cubic-interpolation-quaternions)
 
