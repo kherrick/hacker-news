@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 14:07:33](https://news.ycombinator.com/item?id=35829399) - [ReLLM: Exact Structure for Large Language Model Completions](https://matt-rickard.com/rellm)
 * [2023-05-05, 13:36:09](https://news.ycombinator.com/item?id=35829028) - [US adds a solid 253,000 jobs despite Fed&#x27;s rate hikes](https://apnews.com/article/jobs-unemployment-inflation-layoffs-economy-federal-reserve-1bdc4e585c3c40ec14b9a40d9f8fe65f)
 * [2023-05-05, 13:00:53](https://news.ycombinator.com/item?id=35828664) - [U.S. Hits Z-Library with New Domain Name Seizures](https://torrentfreak.com/u-s-hits-z-library-with-new-domain-name-seizures-230505/)
 * [2023-05-05, 12:57:20](https://news.ycombinator.com/item?id=35828624) - [Flutter Web: A Fractal of Bad Design](https://hugotunius.se/2020/10/31/flutter-web-a-fractal-of-bad-design.html)
