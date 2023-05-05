@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
 * [2023-05-05, 11:55:58](https://news.ycombinator.com/item?id=35828100) - [Ask HN: Why are there no traditional language compilers that target the JVM?](https://news.ycombinator.com/item?id=35828100)
+* [2023-05-05, 11:54:47](https://news.ycombinator.com/item?id=35828091) - [Show HN: Remove sponsored content in YouTube videos](https://butter.sonnet.io)
+* [2023-05-05, 11:53:13](https://news.ycombinator.com/item?id=35828075) - [Mischievous NPM Publications](https://blog.phylum.io/phylum-discovers-mischievous-npm-publications/)
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
 * [2023-05-05, 11:41:32](https://news.ycombinator.com/item?id=35827974) - [Squad Solar City Car](https://www.squadmobility.com/)
 * [2023-05-05, 11:40:07](https://news.ycombinator.com/item?id=35827952) - [Show HN: Make domain verification as easy as verifying an email or phone number](https://www.domainverification.org)
