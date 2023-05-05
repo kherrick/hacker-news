@@ -10,6 +10,7 @@
 * [2023-05-04, 21:41:56](https://news.ycombinator.com/item?id=35822482) - [Restricted Library Mode (Breaking change to Val Town)](https://blog.val.town/blog/restricted-library-mode)
 * [2023-05-04, 20:54:42](https://news.ycombinator.com/item?id=35821927) - [Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs](https://arstechnica.com/tech-policy/2023/05/googlers-angry-about-ceos-226m-pay-after-cuts-in-perks-and-12000-layoffs/)
 * [2023-05-04, 20:50:23](https://news.ycombinator.com/item?id=35821864) - [Apple reports Q2 2023 results](https://www.apple.com/newsroom/2023/05/apple-reports-second-quarter-results/)
+* [2023-05-04, 20:39:57](https://news.ycombinator.com/item?id=35821748) - [Show HN: GPT-JSON – Structured and typehinted GPT responses in Python](https://github.com/piercefreeman/gpt-json)
 * [2023-05-04, 20:34:40](https://news.ycombinator.com/item?id=35821695) - [Fixing Hallucination with Knowledge Bases](https://www.pinecone.io/learn/langchain-retrieval-augmentation/)
 * [2023-05-04, 19:47:56](https://news.ycombinator.com/item?id=35821128) - [America’s first high-volume ‘PFAS Annihilator’ is up and running in W. Michigan](https://www.woodtv.com/news/kent-county/americas-first-high-volume-pfas-annihilator-is-up-and-running-in-west-michigan/)
 * [2023-05-04, 19:33:12](https://news.ycombinator.com/item?id=35820931) - [Re-implementing LangChain in 100 lines of code](https://blog.scottlogic.com/2023/05/04/langchain-mini.html)
