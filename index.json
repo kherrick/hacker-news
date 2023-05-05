@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-05-05, 12:57:20",
-      "https://news.ycombinator.com/item?id=35828624"
-    ],
-    [
-      "Flutter Web: A Fractal of Bad Design (2020)",
-      "https://hugotunius.se/2020/10/31/flutter-web-a-fractal-of-bad-design.html"
-    ]
-  ],
-  [
-    [
       "2023-05-05, 11:53:13",
       "https://news.ycombinator.com/item?id=35828075"
     ],
@@ -77,6 +67,16 @@
     [
       "Build your own private WireGuard VPN with PiVPN",
       "https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn"
+    ]
+  ],
+  [
+    [
+      "2023-05-05, 11:41:32",
+      "https://news.ycombinator.com/item?id=35827974"
+    ],
+    [
+      "Squad Solar City Car",
+      "https://www.squadmobility.com/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-05-04, 10:38:28",
+      "https://news.ycombinator.com/item?id=35813429"
+    ],
+    [
+      "The Running Novelist (2008)",
+      "https://www.newyorker.com/magazine/2008/06/09/the-running-novelist"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 10:19:13",
       "https://news.ycombinator.com/item?id=35813322"
     ],
@@ -287,16 +297,6 @@
     [
       "Bouncing LoRa Signals Off the Moon [video]",
       "https://www.youtube.com/watch?v=N9Uv-oVUISg"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 09:40:42",
-      "https://news.ycombinator.com/item?id=35800109"
-    ],
-    [
-      "Writing a SQLite Clone from Scratch in C (2022)",
-      "https://cstack.github.io/db_tutorial/"
     ]
   ]
 ]
