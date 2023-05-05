@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-05, 21:00:06](https://news.ycombinator.com/item?id=35835098) - [Bun (YC S19) Is Hiring C&#x2F;C++&#x2F;Zig engineers to build a JavaScript cloud](https://oven.rippling-ats.com/job/535740/runtime-engineer-zig-or-c-c)
+* [2023-05-05, 20:56:11](https://news.ycombinator.com/item?id=35835059) - [eBay’s Fast Billion-Scale Vector Similarity Engine](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/)
 * [2023-05-05, 20:10:29](https://news.ycombinator.com/item?id=35834535) - [Death of the Twin Gynaecologists: A patient&#x27;s notes](https://www.vulture.com/article/twin-gynecologists-stewart-marcus-cyril-marcus-dead-ringers-inspiration.html)
 * [2023-05-05, 19:45:33](https://news.ycombinator.com/item?id=35834240) - [Carmakers are pushing electric SUVs, but smaller is better when it comes to EVs](https://www.theguardian.com/business/2023/may/04/electric-vehicles-suvs-us-vehicle-fleet)
 * [2023-05-05, 18:18:41](https://news.ycombinator.com/item?id=35833163) - [The core problem with hamburger menus](https://bt.ht/hamburgers/)
@@ -8,7 +9,6 @@
 * [2023-05-05, 16:58:44](https://news.ycombinator.com/item?id=35832038) - [A few words on Ruby&#x27;s type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
 * [2023-05-05, 15:42:38](https://news.ycombinator.com/item?id=35830723) - [Who regulates the regulators? We need to go beyond review-and-approval](https://rootsofprogress.org/against-review-and-approval)
 * [2023-05-05, 15:40:03](https://news.ycombinator.com/item?id=35830684) - [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
-* [2023-05-05, 15:35:54](https://news.ycombinator.com/item?id=35830612) - [Everything happening on Bluesky](https://www.theverge.com/2023/5/2/23708385/bluesky-weather-report-moderation-app-store)
 * [2023-05-05, 15:33:37](https://news.ycombinator.com/item?id=35830576) - [Science Fiction Movie Lettering](https://reaganray.com/2020/05/12/sci-fi-movie-lettering.html)
 * [2023-05-05, 14:32:19](https://news.ycombinator.com/item?id=35829733) - [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 14:00:53](https://news.ycombinator.com/item?id=35829294) - [Journalist writes about discovering she’d been surveilled by TikTok](https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/)
