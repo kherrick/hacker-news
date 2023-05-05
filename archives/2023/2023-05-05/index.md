@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
 * [2023-05-05, 15:40:03](https://news.ycombinator.com/item?id=35830684) - [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
+* [2023-05-05, 15:35:54](https://news.ycombinator.com/item?id=35830612) - [Everything happening on Bluesky](https://www.theverge.com/2023/5/2/23708385/bluesky-weather-report-moderation-app-store)
 * [2023-05-05, 15:21:23](https://news.ycombinator.com/item?id=35830399) - [Ask HN: If you quit your computer job, which non-computer craft would you pick](https://news.ycombinator.com/item?id=35830399)
 * [2023-05-05, 15:18:10](https://news.ycombinator.com/item?id=35830344) - [Iowa governor will sign bill rolling back labor protections for children](https://www.washingtonpost.com/business/2023/05/04/iowa-child-labor-reynolds/)
 * [2023-05-05, 14:57:08](https://news.ycombinator.com/item?id=35830048) - [CRTC considering banning Fox News from Canadian cable packages](https://nationalpost.com/news/politics/crtc-ban-fox-news-canadian-cable)
