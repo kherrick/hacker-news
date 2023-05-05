@@ -23,6 +23,7 @@
 * [2023-05-04, 18:03:32](https://news.ycombinator.com/item?id=35819613) - [Augmenting LLMs Beyond Basic Text Completion and Transformation](https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/)
 * [2023-05-04, 17:53:03](https://news.ycombinator.com/item?id=35819463) - [May 4 Shootings at Kent State University: The Search for Historical Accuracy](https://www.kent.edu/may-4-historical-accuracy)
 * [2023-05-04, 17:42:51](https://news.ycombinator.com/item?id=35819305) - [BigCode Project Releases StarCoder: A 15B Code LLM](https://huggingface.co/bigcode)
+* [2023-05-04, 17:37:39](https://news.ycombinator.com/item?id=35819226) - [Office Cubicle Manufacturing (1954) [video]](https://www.youtube.com/watch?v=RNp5QxPyvHM&list=PLqqqqZrD37h5Y0N8g9HPqVWP4ondE4Exp&index=76)
 * [2023-05-04, 17:00:47](https://news.ycombinator.com/item?id=35818616) - [Replit (YC W18) Is Hiring Engineers and Designers](https://replit.com/careers)
 * [2023-05-04, 16:20:40](https://news.ycombinator.com/item?id=35817906) - [Show HN: Ask Harry Potter any question with GPT-4](https://www.chatwithfiction.com/)
 * [2023-05-04, 16:09:21](https://news.ycombinator.com/item?id=35817708) - [The First Image from EUMETSAT’s Newest Satellite](https://www.eumetsat.int/features/discover-first-images-mtg-i1)
