@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-05, 18:18:41](https://news.ycombinator.com/item?id=35833163) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
+* [2023-05-05, 18:11:22](https://news.ycombinator.com/item?id=35833060) - [Google co-founder Larry Page subpoena in Jeffrey Epstein case](https://www.cnbc.com/2023/05/04/google-co-founder-larry-page-can-get-jeffrey-epstein-case-service.html)
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
 * [2023-05-05, 17:34:40](https://news.ycombinator.com/item?id=35832540) - [OpenAI ignored the ‘have a problem to solve’ rule, says president Greg Brockman](https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/)
 * [2023-05-05, 17:15:26](https://news.ycombinator.com/item?id=35832296) - [Ask HN: What are ways to combat loneliness and build meaningful connections?](https://news.ycombinator.com/item?id=35832296)
 * [2023-05-05, 16:58:44](https://news.ycombinator.com/item?id=35832038) - [A few words on Ruby&#x27;s type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
 * [2023-05-05, 16:05:27](https://news.ycombinator.com/item?id=35831177) - [Show HN: The HN Recap – AI generated daily HN podcast](https://hackernewsrecap.buzzsprout.com)
-* [2023-05-05, 15:51:09](https://news.ycombinator.com/item?id=35830869) - [Wolfenstein 3D Shocked the World, 30 Years Later](https://www.howtogeek.com/802248/how-wolfenstein-3d-shocked-the-world-30-years-later/)
 * [2023-05-05, 15:42:38](https://news.ycombinator.com/item?id=35830723) - [Who regulates the regulators? (Against the review-and-approval paradigm)](https://rootsofprogress.org/against-review-and-approval)
 * [2023-05-05, 15:40:03](https://news.ycombinator.com/item?id=35830684) - [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
 * [2023-05-05, 14:49:46](https://news.ycombinator.com/item?id=35829945) - [Show HN: On the security of the Linux disk encryption LUKS](https://dys2p.com/en/2023-05-luks-security.html)
