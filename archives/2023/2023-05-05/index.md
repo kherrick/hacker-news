@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 05:04:42](https://news.ycombinator.com/item?id=35825399) - [Mojo: The usability of Python with the performance of C](https://docs.modular.com/mojo/)
 * [2023-05-05, 03:36:11](https://news.ycombinator.com/item?id=35824932) - [Cracking the Code: Creating Opportunities for Women in Tech](https://blogs.nvidia.com/blog/2023/04/28/sabrina-koumoin/)
 * [2023-05-05, 01:41:39](https://news.ycombinator.com/item?id=35824347) - [Urban Density and Home Prices](https://www.econlib.org/why-scott-alexander-is-wrong/)
 * [2023-05-05, 01:37:39](https://news.ycombinator.com/item?id=35824320) - [Public Money, Public Code](https://publiccode.eu/en/)

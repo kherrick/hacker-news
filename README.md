@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-05, 05:04:42](https://news.ycombinator.com/item?id=35825399) - [Mojo: The usability of Python with the performance of C](https://docs.modular.com/mojo/)
 * [2023-05-05, 03:36:11](https://news.ycombinator.com/item?id=35824932) - [Cracking the Code: Creating Opportunities for Women in Tech](https://blogs.nvidia.com/blog/2023/04/28/sabrina-koumoin/)
 * [2023-05-05, 01:37:39](https://news.ycombinator.com/item?id=35824320) - [Public Money, Public Code](https://publiccode.eu/en/)
 * [2023-05-05, 01:10:09](https://news.ycombinator.com/item?id=35824173) - [I found the best anagram in English (2017)](https://blog.plover.com/lang/anagram-scoring.html)
@@ -18,8 +19,6 @@
 * [2023-05-04, 15:25:07](https://news.ycombinator.com/item?id=35816900) - [JEP 450: Compact Object Headers](https://openjdk.org/jeps/450)
 * [2023-05-04, 15:01:47](https://news.ycombinator.com/item?id=35816457) - [Show HN: Hypertune – Visual, functional, statically-typed configuration language](https://www.hypertune.com/)
 * [2023-05-04, 14:55:46](https://news.ycombinator.com/item?id=35816361) - [Vim Keybindings Everywhere – The Ultimate List](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
-* [2023-05-04, 14:48:35](https://news.ycombinator.com/item?id=35816224) - [Running JavaScript in Rust with Deno: Experimenting with Deno&#x27;s Rust Crates](https://austinpoor.com/blog/js-in-rs)
-* [2023-05-04, 14:30:35](https://news.ycombinator.com/item?id=35815939) - [Google Introduces Passkey Authentication](https://security.googleblog.com/2023/05/so-long-passwords-thanks-for-all-phish.html)
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-03, 16:22:05](https://news.ycombinator.com/item?id=35804263) - [The New New Reading Environment](https://www.nplusonemag.com/issue-45/the-intellectual-situation/the-new-new-reading-environment/)
 * [2023-05-03, 12:34:39](https://news.ycombinator.com/item?id=35801611) - [Lifestyle design from first principles](https://taylor.town/constructive-lifestyle-design)
@@ -30,6 +29,7 @@
 * [2023-05-03, 10:18:04](https://news.ycombinator.com/item?id=35800380) - [Electronic Music and the NeXTcube – Running Max on the Ircam Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
 * [2023-05-03, 09:47:13](https://news.ycombinator.com/item?id=35800157) - [A Little Calculus](https://papl.cs.brown.edu/2018/func-as-data.html#%28part._.A_.Little_.Calculus%29)
 * [2023-05-03, 09:40:42](https://news.ycombinator.com/item?id=35800109) - [Writing a SQLite Clone from Scratch in C](https://cstack.github.io/db_tutorial/)
+* [2023-05-03, 06:27:05](https://news.ycombinator.com/item?id=35798746) - [Cubic Interpolation of Quaternion](https://theorangeduck.com/page/cubic-interpolation-quaternions)
 
 ## [Archives](archives/index.md)
 
