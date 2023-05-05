@@ -18,6 +18,7 @@
 * [2023-05-05, 15:42:38](https://news.ycombinator.com/item?id=35830723) - [Who regulates the regulators? (Against the review-and-approval paradigm)](https://rootsofprogress.org/against-review-and-approval)
 * [2023-05-05, 15:40:03](https://news.ycombinator.com/item?id=35830684) - [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
 * [2023-05-05, 15:35:54](https://news.ycombinator.com/item?id=35830612) - [Everything happening on Bluesky](https://www.theverge.com/2023/5/2/23708385/bluesky-weather-report-moderation-app-store)
+* [2023-05-05, 15:33:37](https://news.ycombinator.com/item?id=35830576) - [Science Fiction Movie Lettering](https://reaganray.com/2020/05/12/sci-fi-movie-lettering.html)
 * [2023-05-05, 15:24:27](https://news.ycombinator.com/item?id=35830438) - [How The Legend of Zelda Changed the Game](https://www.nytimes.com/interactive/2023/05/04/us/zelda-nintendo-history.html)
 * [2023-05-05, 15:21:23](https://news.ycombinator.com/item?id=35830399) - [Ask HN: If you quit your computer job, which non-computer craft would you pick](https://news.ycombinator.com/item?id=35830399)
 * [2023-05-05, 15:18:10](https://news.ycombinator.com/item?id=35830344) - [Iowa governor will sign bill rolling back labor protections for children](https://www.washingtonpost.com/business/2023/05/04/iowa-child-labor-reynolds/)
