@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-05, 00:30:39",
+      "https://news.ycombinator.com/item?id=35823929"
+    ],
+    [
+      "Rivian R1T Fender Bender Turns into $42,000 Repair Bill",
+      "https://www.thedrive.com/news/rivian-r1t-fender-bender-turns-into-42000-repair-bill"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 22:40:16",
       "https://news.ycombinator.com/item?id=35823070"
     ],
@@ -27,16 +37,6 @@
     [
       "Restricted Library Mode (Breaking change to Val Town)",
       "https://blog.val.town/blog/restricted-library-mode"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 20:54:42",
-      "https://news.ycombinator.com/item?id=35821927"
-    ],
-    [
-      "Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs",
-      "https://arstechnica.com/tech-policy/2023/05/googlers-angry-about-ceos-226m-pay-after-cuts-in-perks-and-12000-layoffs/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-05-03, 09:29:39",
-      "https://news.ycombinator.com/item?id=35800023"
+      "2023-05-03, 09:40:42",
+      "https://news.ycombinator.com/item?id=35800109"
     ],
     [
-      "The Untold Story of the Boldest Supply-Chain Hack Ever",
-      "https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/"
+      "Writing a SQLite Clone from Scratch in C",
+      "https://cstack.github.io/db_tutorial/"
     ]
   ],
   [
