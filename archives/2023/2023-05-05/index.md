@@ -9,6 +9,7 @@
 * [2023-05-05, 09:02:20](https://news.ycombinator.com/item?id=35826873) - [Slack GPT, the Future of AI in Slack](https://slack.com/blog/news/introducing-slack-gpt)
 * [2023-05-05, 08:17:44](https://news.ycombinator.com/item?id=35826616) - [Rimac Energy: Stationary Energy Storage Technology](https://www.rimac-newsroom.com/press-releases/rimac-energy/introducing-rimac-energy-cutting-edge-stationary-energy-storage-technology-create)
 * [2023-05-05, 08:04:34](https://news.ycombinator.com/item?id=35826540) - [Show HN: A search engine for your personal network of high-quality websites](https://usegrasp.com)
+* [2023-05-05, 07:53:24](https://news.ycombinator.com/item?id=35826468) - [Pixies keep switching off my morning alarm, says Google Pixel owner](https://www.theregister.com/2023/05/04/pixies_google_pixel_alarm/)
 * [2023-05-05, 07:00:23](https://news.ycombinator.com/item?id=35826137) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-05-05, 06:56:49](https://news.ycombinator.com/item?id=35826104) - [Peter Norvig – Paradigms of AI Programming Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/)
 * [2023-05-05, 06:54:34](https://news.ycombinator.com/item?id=35826088) - [The EARN IT bill is back. We&#x27;ve killed it twice, let&#x27;s do it again](https://tutanota.com/blog/posts/earn-it-barr-encryption)
