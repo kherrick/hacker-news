@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 15:40:03](https://news.ycombinator.com/item?id=35830684) - [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
+* [2023-05-05, 15:21:23](https://news.ycombinator.com/item?id=35830399) - [Ask HN: If you quit your computer job, which non-computer craft would you pick](https://news.ycombinator.com/item?id=35830399)
 * [2023-05-05, 15:18:10](https://news.ycombinator.com/item?id=35830344) - [Iowa governor will sign bill rolling back labor protections for children](https://www.washingtonpost.com/business/2023/05/04/iowa-child-labor-reynolds/)
 * [2023-05-05, 14:57:08](https://news.ycombinator.com/item?id=35830048) - [CRTC considering banning Fox News from Canadian cable packages](https://nationalpost.com/news/politics/crtc-ban-fox-news-canadian-cable)
 * [2023-05-05, 14:52:03](https://news.ycombinator.com/item?id=35829986) - [Google engineer jumps to death in NYC, second worker suicide in months](https://nypost.com/2023/05/05/google-senior-software-engineer-31-jumps-to-death-from-nyc-headquarters/)
+* [2023-05-05, 14:32:19](https://news.ycombinator.com/item?id=35829733) - [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 14:29:34](https://news.ycombinator.com/item?id=35829697) - [Gmail is showing ads in the middle of the inbox](https://9to5google.com/2023/05/05/gmail-ads-increase-2023/)
 * [2023-05-05, 14:14:12](https://news.ycombinator.com/item?id=35829500) - [Big Oil Helped Shape Stanford’s Latest Climate-Research Focus](https://www.chronicle.com/article/big-oil-helped-shape-stanfords-latest-climate-research-focus)
 * [2023-05-05, 14:10:04](https://news.ycombinator.com/item?id=35829430) - [The AI PR Industrial Complex](https://www.bigtechnology.com/p/the-ai-pr-industrial-complex)
