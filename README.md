@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-05, 13:00:53](https://news.ycombinator.com/item?id=35828664) - [U.S. Hits Z-Library with New Domain Name Seizures](https://torrentfreak.com/u-s-hits-z-library-with-new-domain-name-seizures-230505/)
-* [2023-05-05, 11:55:58](https://news.ycombinator.com/item?id=35828100) - [Ask HN: Why are there no traditional language compilers that target the JVM?](https://news.ycombinator.com/item?id=35828100)
 * [2023-05-05, 11:53:13](https://news.ycombinator.com/item?id=35828075) - [Mischievous NPM Publications](https://blog.phylum.io/phylum-discovers-mischievous-npm-publications/)
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
 * [2023-05-05, 11:40:07](https://news.ycombinator.com/item?id=35827952) - [Show HN: Make domain verification as easy as verifying an email or phone number](https://www.domainverification.org)
+* [2023-05-05, 11:24:04](https://news.ycombinator.com/item?id=35827831) - [Mobile phone calls linked with increased risk of high blood pressure](https://www.escardio.org/The-ESC/Press-Office/Press-releases/mobile-phone-calls-linked-with-increased-risk-of-high-blood-pressure)
 * [2023-05-05, 11:02:35](https://news.ycombinator.com/item?id=35827658) - [Four of Uranus’ largest moons likely contain an ocean layer](https://www.nasa.gov/feature/jpl/new-study-of-uranus-large-moons-shows-4-may-hold-water/)
 * [2023-05-05, 10:01:57](https://news.ycombinator.com/item?id=35827189) - [A New Theory for the Assembly of Life in the Universe](https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/)
 * [2023-05-05, 09:45:54](https://news.ycombinator.com/item?id=35827081) - [Comparison of space and time required to build each compiler for system language](https://forum.devtalk.com/t/the-v-programming-language/8649)
