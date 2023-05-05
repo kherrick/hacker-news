@@ -20,6 +20,7 @@
 * [2023-05-05, 18:12:05](https://news.ycombinator.com/item?id=35833073) - [Hard feelings over mission change for NASA’s Pluto spacecraft](https://www.nature.com/articles/d41586-023-01530-y)
 * [2023-05-05, 18:11:22](https://news.ycombinator.com/item?id=35833060) - [Google co-founder Larry Page subpoena in Jeffrey Epstein case](https://www.cnbc.com/2023/05/04/google-co-founder-larry-page-can-get-jeffrey-epstein-case-service.html)
 * [2023-05-05, 18:00:59](https://news.ycombinator.com/item?id=35832910) - [Apple’s Unionized Store Wants to Start Accepting Tips from Customers](https://www.bloomberg.com/news/articles/2023-05-03/apple-s-unionized-store-workers-seek-tips-and-higher-holiday-pay)
+* [2023-05-05, 17:58:53](https://news.ycombinator.com/item?id=35832876) - [Pioneer – An Open Source space adventure game set in our galaxy](https://pioneerspacesim.net)
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
 * [2023-05-05, 17:34:40](https://news.ycombinator.com/item?id=35832540) - [OpenAI ignored the ‘have a problem to solve’ rule, says president Greg Brockman](https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/)
 * [2023-05-05, 17:17:44](https://news.ycombinator.com/item?id=35832327) - [Rising Share of U.S. Adults Are Living Without a Spouse or Partner](https://www.pewresearch.org/social-trends/2021/10/05/rising-share-of-u-s-adults-are-living-without-a-spouse-or-partner/)
