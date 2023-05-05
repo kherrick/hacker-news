@@ -81,6 +81,7 @@
 * [2023-05-03, 10:01:13](https://news.ycombinator.com/item?id=35800242) - [Apple, Google partner on an industry specification to address unwanted tracking](https://www.apple.com/newsroom/2023/05/apple-google-partner-on-an-industry-specification-to-address-unwanted-tracking/)
 * [2023-05-03, 09:58:11](https://news.ycombinator.com/item?id=35800227) - [In the Grip of Necrocapitalism](https://tsakraklides.com/2023/05/03/in-the-grip-of-necrocapitalism/)
 * [2023-05-03, 09:55:50](https://news.ycombinator.com/item?id=35800210) - [Amnesty International criticised for using AI-generated images](https://www.theguardian.com/world/2023/may/02/amnesty-international-ai-generated-images-criticism)
+* [2023-05-03, 09:51:57](https://news.ycombinator.com/item?id=35800189) - [Which Parsing Approach?](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
 * [2023-05-03, 09:47:15](https://news.ycombinator.com/item?id=35800158) - [MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 * [2023-05-03, 09:47:13](https://news.ycombinator.com/item?id=35800157) - [A Little Calculus](https://papl.cs.brown.edu/2018/func-as-data.html#%28part._.A_.Little_.Calculus%29)
 * [2023-05-03, 09:45:09](https://news.ycombinator.com/item?id=35800136) - [A Programmer&#x27;s Introduction to Mathematics](https://pimbook.org)

@@ -23,11 +23,11 @@
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-03, 16:22:05](https://news.ycombinator.com/item?id=35804263) - [The New New Reading Environment](https://www.nplusonemag.com/issue-45/the-intellectual-situation/the-new-new-reading-environment/)
 * [2023-05-03, 12:34:39](https://news.ycombinator.com/item?id=35801611) - [Lifestyle design from first principles](https://taylor.town/constructive-lifestyle-design)
-* [2023-05-03, 12:04:48](https://news.ycombinator.com/item?id=35801318) - [What Colour Are Odysseus’ Words? Traces of Synaesthesia in Homeric Scholarship](https://antigonejournal.com/2023/02/colour-synaesthesia-homer/)
 * [2023-05-03, 12:03:18](https://news.ycombinator.com/item?id=35801302) - [How to Survive Your Project&#x27;s First 100k Lines](https://verdagon.dev/blog/first-100k-lines)
 * [2023-05-03, 11:19:15](https://news.ycombinator.com/item?id=35800935) - [Rest in Peas: The Unrecognized Death of Speech Recognition (2010)](https://robertfortner.posthaven.com/rest-in-peas-the-unrecognized-death-of-speech)
 * [2023-05-03, 11:01:24](https://news.ycombinator.com/item?id=35800788) - [The rescue of the Salyut 7 space station](https://astronomy.com/news/2020/10/the-forgotten-rescue-of-the-salyut-7-space-station)
 * [2023-05-03, 10:18:04](https://news.ycombinator.com/item?id=35800380) - [Electronic Music and the NeXTcube – Running Max on the Ircam Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
+* [2023-05-03, 09:51:57](https://news.ycombinator.com/item?id=35800189) - [Which Parsing Approach?](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
 * [2023-05-03, 09:47:13](https://news.ycombinator.com/item?id=35800157) - [A Little Calculus](https://papl.cs.brown.edu/2018/func-as-data.html#%28part._.A_.Little_.Calculus%29)
 * [2023-05-03, 09:40:42](https://news.ycombinator.com/item?id=35800109) - [Writing a SQLite Clone from Scratch in C](https://cstack.github.io/db_tutorial/)
 
