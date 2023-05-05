@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-05, 05:58:51](https://news.ycombinator.com/item?id=35825688) - [Arianespace CEO: Europe won&#x27;t have reusable rockets for another decade](https://www.space.com/europe-no-reusable-rocket-until-2030s)
+* [2023-05-05, 05:56:06](https://news.ycombinator.com/item?id=35825680) - [Taking Back the Cannonball Run Record](https://www.arnesantics.com/taking-back-the-cannonball-run-record/)
 * [2023-05-05, 05:04:42](https://news.ycombinator.com/item?id=35825399) - [Mojo: The usability of Python with the performance of C](https://docs.modular.com/mojo/)
 * [2023-05-05, 04:37:49](https://news.ycombinator.com/item?id=35825277) - [Finland Virtually Ended Homelessness–and We Can Too](https://www.thestar.com/opinion/contributors/2023/04/20/how-finland-managed-to-virtually-end-homelessness.html)
 * [2023-05-05, 01:37:39](https://news.ycombinator.com/item?id=35824320) - [Public Money, Public Code](https://publiccode.eu/en/)
@@ -19,7 +20,6 @@
 * [2023-05-04, 16:09:21](https://news.ycombinator.com/item?id=35817708) - [The First Image from EUMETSAT’s Newest Satellite](https://www.eumetsat.int/features/discover-first-images-mtg-i1)
 * [2023-05-04, 15:25:07](https://news.ycombinator.com/item?id=35816900) - [JEP 450: Compact Object Headers](https://openjdk.org/jeps/450)
 * [2023-05-04, 15:01:47](https://news.ycombinator.com/item?id=35816457) - [Show HN: Hypertune – Visual, functional, statically-typed configuration language](https://www.hypertune.com/)
-* [2023-05-04, 14:55:46](https://news.ycombinator.com/item?id=35816361) - [Vim Keybindings Everywhere – The Ultimate List](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-03, 16:22:05](https://news.ycombinator.com/item?id=35804263) - [The New New Reading Environment](https://www.nplusonemag.com/issue-45/the-intellectual-situation/the-new-new-reading-environment/)
 * [2023-05-03, 12:34:39](https://news.ycombinator.com/item?id=35801611) - [Lifestyle design from first principles](https://taylor.town/constructive-lifestyle-design)
