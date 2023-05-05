@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 11:02:35](https://news.ycombinator.com/item?id=35827658) - [Four of Uranus’ largest moons likely contain an ocean layer](https://www.nasa.gov/feature/jpl/new-study-of-uranus-large-moons-shows-4-may-hold-water/)
 * [2023-05-05, 10:01:57](https://news.ycombinator.com/item?id=35827189) - [A New Theory for the Assembly of Life in the Universe](https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/)
 * [2023-05-05, 09:45:54](https://news.ycombinator.com/item?id=35827081) - [Comparison of space and time required to build each compiler for system language](https://forum.devtalk.com/t/the-v-programming-language/8649)
 * [2023-05-05, 09:15:40](https://news.ycombinator.com/item?id=35826946) - [India bans Element – the flagship client for the Matrix network](https://element.io/blog/india-bans-flagship-client-for-the-matrix-network/)
