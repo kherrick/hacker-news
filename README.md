@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-05, 21:16:18](https://news.ycombinator.com/item?id=35835240) - [Dump these insecure phone adapters because we&#x27;re not fixing them, says Cisco](https://www.theregister.com/2023/05/05/cisco_phone_adapter_vulnerabilitty/)
 * [2023-05-05, 21:00:06](https://news.ycombinator.com/item?id=35835098) - [Bun (YC S19) Is Hiring C&#x2F;C++&#x2F;Zig engineers to build a JavaScript cloud](https://oven.rippling-ats.com/job/535740/runtime-engineer-zig-or-c-c)
 * [2023-05-05, 20:56:11](https://news.ycombinator.com/item?id=35835059) - [eBay’s Fast Billion-Scale Vector Similarity Engine](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/)
 * [2023-05-05, 20:43:37](https://news.ycombinator.com/item?id=35834918) - [At Musk’s brain-chip startup, animal-testing panel is rife with conflicts](https://www.reuters.com/technology/musks-brain-chip-startup-animal-testing-panel-is-rife-with-potential-conflicts-2023-05-04/)
@@ -21,7 +22,6 @@
 * [2023-05-05, 06:56:49](https://news.ycombinator.com/item?id=35826104) - [Paradigms of A.I. Programming: Case Studies in Common Lisp (1991)](https://norvig.github.io/paip-lisp/#/)
 * [2023-05-05, 02:39:05](https://news.ycombinator.com/item?id=35824654) - [What scares master of suspense Dean Koontz? Plenty](https://www.washingtonpost.com/books/2023/05/03/dean-koontz/)
 * [2023-05-04, 21:28:05](https://news.ycombinator.com/item?id=35822324) - [The Lofi Magic of VHS Audio [video]](https://www.youtube.com/watch?v=OHoTzs3mtM8)
-* [2023-05-04, 18:46:13](https://news.ycombinator.com/item?id=35820240) - [Fragmentarium – Laboratory for Medieval Manuscript Fragments](https://fragmentarium.ms/)
 * [2023-05-04, 17:37:39](https://news.ycombinator.com/item?id=35819226) - [Office Cubicle Manufacturing (1954) [video]](https://www.youtube.com/watch?v=RNp5QxPyvHM&list=PLqqqqZrD37h5Y0N8g9HPqVWP4ondE4Exp&index=76)
 * [2023-05-04, 13:10:36](https://news.ycombinator.com/item?id=35814707) - [Waymo One doubles service area in Phoenix, continues growing in SF](https://blog.waymo.com/2023/05/waymo-one-doubles-service-area-in.html)
 * [2023-05-04, 12:08:15](https://news.ycombinator.com/item?id=35814074) - [The most important machine that was never built](https://www.quantamagazine.org/alan-turings-most-important-machine-was-never-built-20230503/)
