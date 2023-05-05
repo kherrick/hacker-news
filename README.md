@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-05, 10:01:57](https://news.ycombinator.com/item?id=35827189) - [A New Theory for the Assembly of Life in the Universe](https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/)
 * [2023-05-05, 09:15:40](https://news.ycombinator.com/item?id=35826946) - [India bans Element – the flagship client for the Matrix network](https://element.io/blog/india-bans-flagship-client-for-the-matrix-network/)
 * [2023-05-05, 09:12:28](https://news.ycombinator.com/item?id=35826929) - [What Is a Vector Database](https://www.pinecone.io/learn/vector-database/)
 * [2023-05-05, 09:02:20](https://news.ycombinator.com/item?id=35826873) - [Slack GPT, the Future of AI in Slack](https://slack.com/blog/news/introducing-slack-gpt)
@@ -24,7 +25,6 @@
 * [2023-05-04, 09:07:31](https://news.ycombinator.com/item?id=35812913) - [Return oriented programming on RISC-V – Part 1](https://www.bogdandeac.com/return-oriented-programming-on-risc-v/)
 * [2023-05-04, 06:48:26](https://news.ycombinator.com/item?id=35812063) - [I can&#x27;t believe I&#x27;m praising Tcl (2008)](https://yosefk.com/blog/i-cant-believe-im-praising-tcl.html)
 * [2023-05-04, 06:28:21](https://news.ycombinator.com/item?id=35811879) - [A Look at Crystal, the Programming Language for Humans](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming)
-* [2023-05-03, 16:22:05](https://news.ycombinator.com/item?id=35804263) - [The New New Reading Environment](https://www.nplusonemag.com/issue-45/the-intellectual-situation/the-new-new-reading-environment/)
 * [2023-05-03, 12:03:18](https://news.ycombinator.com/item?id=35801302) - [How to Survive Your Project&#x27;s First 100k Lines](https://verdagon.dev/blog/first-100k-lines)
 * [2023-05-03, 11:01:24](https://news.ycombinator.com/item?id=35800788) - [The rescue of the Salyut 7 space station](https://astronomy.com/news/2020/10/the-forgotten-rescue-of-the-salyut-7-space-station)
 * [2023-05-03, 10:18:04](https://news.ycombinator.com/item?id=35800380) - [Electronic Music and the NeXTcube – Running Max on the Ircam Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)

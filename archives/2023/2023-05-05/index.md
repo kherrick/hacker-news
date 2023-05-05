@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 10:01:57](https://news.ycombinator.com/item?id=35827189) - [A New Theory for the Assembly of Life in the Universe](https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/)
 * [2023-05-05, 09:15:40](https://news.ycombinator.com/item?id=35826946) - [India bans Element – the flagship client for the Matrix network](https://element.io/blog/india-bans-flagship-client-for-the-matrix-network/)
 * [2023-05-05, 09:12:28](https://news.ycombinator.com/item?id=35826929) - [What Is a Vector Database](https://www.pinecone.io/learn/vector-database/)
 * [2023-05-05, 09:02:20](https://news.ycombinator.com/item?id=35826873) - [Slack GPT, the Future of AI in Slack](https://slack.com/blog/news/introducing-slack-gpt)
