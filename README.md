@@ -27,7 +27,7 @@
 * [2023-05-04, 17:37:39](https://news.ycombinator.com/item?id=35819226) - [Office Cubicle Manufacturing (1954) [video]](https://www.youtube.com/watch?v=RNp5QxPyvHM&list=PLqqqqZrD37h5Y0N8g9HPqVWP4ondE4Exp&index=76)
 * [2023-05-04, 13:10:36](https://news.ycombinator.com/item?id=35814707) - [Waymo One doubles service area in Phoenix, continues growing in SF](https://blog.waymo.com/2023/05/waymo-one-doubles-service-area-in.html)
 * [2023-05-04, 12:08:15](https://news.ycombinator.com/item?id=35814074) - [The most important machine that was never built](https://www.quantamagazine.org/alan-turings-most-important-machine-was-never-built-20230503/)
-* [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+* [2023-05-04, 09:25:10](https://news.ycombinator.com/item?id=35813010) - [There&#x27;s a mansion hidden directly under the Bay Bridge](https://www.sfgate.com/obscuresf/article/nimitz-mansion-hidden-under-bay-bridge-17999245.php)
 * [2023-05-04, 06:28:21](https://news.ycombinator.com/item?id=35811879) - [A look at Crystal, a programming language for humans](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming)
 * [2023-05-03, 22:25:39](https://news.ycombinator.com/item?id=35808638) - [Adapting an early modern recipe for heartsease cordial (2022)](https://www.folger.edu/blogs/shakespeare-and-beyond/heartsease-cordial-adapting-early-modern-recipe-pansies/)
 
