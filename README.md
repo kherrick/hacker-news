@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-05, 17:17:44](https://news.ycombinator.com/item?id=35832327) - [Rising Share of U.S. Adults Are Living Without a Spouse or Partner](https://www.pewresearch.org/social-trends/2021/10/05/rising-share-of-u-s-adults-are-living-without-a-spouse-or-partner/)
 * [2023-05-05, 16:05:27](https://news.ycombinator.com/item?id=35831177) - [Show HN: The HN Recap – AI generated daily HN podcast](https://hackernewsrecap.buzzsprout.com)
 * [2023-05-05, 15:51:09](https://news.ycombinator.com/item?id=35830869) - [Wolfenstein 3D Shocked the World, 30 Years Later](https://www.howtogeek.com/802248/how-wolfenstein-3d-shocked-the-world-30-years-later/)
 * [2023-05-05, 15:42:38](https://news.ycombinator.com/item?id=35830723) - [Who regulates the regulators? (Against the review-and-approval paradigm)](https://rootsofprogress.org/against-review-and-approval)
 * [2023-05-05, 15:40:03](https://news.ycombinator.com/item?id=35830684) - [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
-* [2023-05-05, 15:35:54](https://news.ycombinator.com/item?id=35830612) - [Everything happening on Bluesky](https://www.theverge.com/2023/5/2/23708385/bluesky-weather-report-moderation-app-store)
 * [2023-05-05, 14:32:19](https://news.ycombinator.com/item?id=35829733) - [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 14:14:12](https://news.ycombinator.com/item?id=35829500) - [Big oil helped shape Stanford’s latest climate-research focus](https://www.chronicle.com/article/big-oil-helped-shape-stanfords-latest-climate-research-focus)
 * [2023-05-05, 14:10:04](https://news.ycombinator.com/item?id=35829430) - [The AI PR Industrial Complex](https://www.bigtechnology.com/p/the-ai-pr-industrial-complex)
