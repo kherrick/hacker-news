@@ -3,7 +3,7 @@
 * [2023-05-05, 01:41:39](https://news.ycombinator.com/item?id=35824347) - [Urban Density and Home Prices](https://www.econlib.org/why-scott-alexander-is-wrong/)
 * [2023-05-05, 01:37:39](https://news.ycombinator.com/item?id=35824320) - [Public Money, Public Code](https://publiccode.eu/en/)
 * [2023-05-05, 01:10:09](https://news.ycombinator.com/item?id=35824173) - [I found the best anagram in English (2017)](https://blog.plover.com/lang/anagram-scoring.html)
-* [2023-05-05, 01:00:07](https://news.ycombinator.com/item?id=35824115) - [Stealing $20M Worth of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
+* [2023-05-05, 01:00:07](https://news.ycombinator.com/item?id=35824115) - [Heisting $20M of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
 * [2023-05-04, 22:40:16](https://news.ycombinator.com/item?id=35823070) - [MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks](https://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html)
 * [2023-05-04, 22:38:16](https://news.ycombinator.com/item?id=35823051) - [Westinghouse AP300 Small Module Reactor](https://www.westinghousenuclear.com/energy-systems/ap300-smr)
 * [2023-05-04, 20:39:57](https://news.ycombinator.com/item?id=35821748) - [Show HN: GPT-JSON – Structured and typehinted GPT responses in Python](https://github.com/piercefreeman/gpt-json)
