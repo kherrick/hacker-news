@@ -57,6 +57,7 @@
 * [2023-05-03, 13:52:44](https://news.ycombinator.com/item?id=35802411) - [How America’s Obsession with DEI Is Sabotaging Our Medical Schools](https://www.thefp.com/p/how-americas-obsession-with-dei-is)
 * [2023-05-03, 13:36:24](https://news.ycombinator.com/item?id=35802210) - [The Framework Laptop 13](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
 * [2023-05-03, 12:39:58](https://news.ycombinator.com/item?id=35801673) - [Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)
+* [2023-05-03, 12:34:39](https://news.ycombinator.com/item?id=35801611) - [Lifestyle Design (From First Principles)](https://taylor.town/constructive-lifestyle-design)
 * [2023-05-03, 12:13:23](https://news.ycombinator.com/item?id=35801392) - [Passkeys: The Beginning of the End of the Password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 * [2023-05-03, 12:04:48](https://news.ycombinator.com/item?id=35801318) - [What Colour Are Odysseus’ Words? Traces of Synaesthesia in Homeric Scholarship](https://antigonejournal.com/2023/02/colour-synaesthesia-homer/)
 * [2023-05-03, 12:03:18](https://news.ycombinator.com/item?id=35801302) - [How to Survive Your Project&#x27;s First 100k Lines](https://verdagon.dev/blog/first-100k-lines)

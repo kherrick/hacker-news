@@ -2,7 +2,6 @@
 
 * [2023-05-04, 22:40:16](https://news.ycombinator.com/item?id=35823070) - [MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks](https://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html)
 * [2023-05-04, 22:38:16](https://news.ycombinator.com/item?id=35823051) - [Westinghouse AP300 Small Module Reactor](https://www.westinghousenuclear.com/energy-systems/ap300-smr)
-* [2023-05-04, 21:41:56](https://news.ycombinator.com/item?id=35822482) - [Restricted Library Mode (Breaking change to Val Town)](https://blog.val.town/blog/restricted-library-mode)
 * [2023-05-04, 20:34:40](https://news.ycombinator.com/item?id=35821695) - [Fixing Hallucination with Knowledge Bases](https://www.pinecone.io/learn/langchain-retrieval-augmentation/)
 * [2023-05-04, 19:47:56](https://news.ycombinator.com/item?id=35821128) - [America’s first high-volume ‘PFAS Annihilator’ is up and running in W. Michigan](https://www.woodtv.com/news/kent-county/americas-first-high-volume-pfas-annihilator-is-up-and-running-in-west-michigan/)
 * [2023-05-04, 19:33:12](https://news.ycombinator.com/item?id=35820931) - [Re-implementing LangChain in 100 lines of code](https://blog.scottlogic.com/2023/05/04/langchain-mini.html)
@@ -21,6 +20,7 @@
 * [2023-05-04, 12:09:09](https://news.ycombinator.com/item?id=35814081) - [Facebook has not been doing enough to comply with a 2020 privacy order: FTC](https://arstechnica.com/tech-policy/2023/05/ftc-says-facebook-violated-privacy-order-proposes-ban-on-monetizing-youth-data/)
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-03, 21:22:59](https://news.ycombinator.com/item?id=35807981) - [The Evolution of Trust (2017)](https://ncase.me/trust/)
+* [2023-05-03, 12:34:39](https://news.ycombinator.com/item?id=35801611) - [Lifestyle Design (From First Principles)](https://taylor.town/constructive-lifestyle-design)
 * [2023-05-03, 12:04:48](https://news.ycombinator.com/item?id=35801318) - [What Colour Are Odysseus’ Words? Traces of Synaesthesia in Homeric Scholarship](https://antigonejournal.com/2023/02/colour-synaesthesia-homer/)
 * [2023-05-03, 12:03:18](https://news.ycombinator.com/item?id=35801302) - [How to Survive Your Project&#x27;s First 100k Lines](https://verdagon.dev/blog/first-100k-lines)
 * [2023-05-03, 11:01:24](https://news.ycombinator.com/item?id=35800788) - [The rescue of the Salyut 7 space station](https://astronomy.com/news/2020/10/the-forgotten-rescue-of-the-salyut-7-space-station)
