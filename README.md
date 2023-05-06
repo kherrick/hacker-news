@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-06, 04:57:17](https://news.ycombinator.com/item?id=35838180) - [Wikipedia users edits over 90k uses of “comprised of”](https://en.wikipedia.org/wiki/User:Giraffedata/comprised_of)
 * [2023-05-06, 03:13:43](https://news.ycombinator.com/item?id=35837606) - [Vaonis Hyperia: $45k digital telescope](https://vaonis.com/hyperia/en/)
 * [2023-05-06, 02:35:32](https://news.ycombinator.com/item?id=35837424) - [Fulfilling a reader&#x27;s request for my “dot files”](https://rachelbythebay.com/w/2023/05/05/dot/)
 * [2023-05-06, 02:17:01](https://news.ycombinator.com/item?id=35837330) - [A cryptocurrency company had a $65M bill, per Datadog’s Q1 earnings call](https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1)
 * [2023-05-06, 01:07:44](https://news.ycombinator.com/item?id=35836976) - [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 * [2023-05-06, 01:00:08](https://news.ycombinator.com/item?id=35836933) - [Generally Intelligent (YC S17) Is Hiring Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=35836933)
-* [2023-05-06, 00:43:02](https://news.ycombinator.com/item?id=35836837) - [TikTok tracked users who watched gay content, prompting employee complaints](https://www.wsj.com/articles/tiktok-tracked-users-who-watched-gay-content-prompting-employee-complaints-5966a5f5)
 * [2023-05-06, 00:15:21](https://news.ycombinator.com/item?id=35836682) - [JPL Horizons Sending Too Many Emails](https://astronomy.stackexchange.com/questions/53617/jpl-horizons-sending-too-many-emails)
 * [2023-05-06, 00:14:07](https://news.ycombinator.com/item?id=35836679) - [Show HN: UnionX – GPT4-powered Copilot for Work with Jupyter-style notebooks](https://www.unionx.io/)
 * [2023-05-05, 23:48:48](https://news.ycombinator.com/item?id=35836541) - [When “free forever” means “free for the next 4 months”](https://blog.zulip.com/2023/05/04/when-free-forever-is-4-months/)
