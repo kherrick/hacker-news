@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-06, 15:27:24](https://news.ycombinator.com/item?id=35842273) - [Ukraine downs Russian hypersonic missile with US Patriot](https://apnews.com/article/russia-ukraine-war-patriot-kinzhal-6b59af8e60853b4d6d16dd8d607768be)
 * [2023-05-06, 15:25:17](https://news.ycombinator.com/item?id=35842240) - [ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)
 * [2023-05-06, 15:11:05](https://news.ycombinator.com/item?id=35842111) - [The grid isn’t ready for 300M EVs by 2030](https://www.weforum.org/agenda/2023/01/electric-cars-charging-habits)
 * [2023-05-06, 14:40:43](https://news.ycombinator.com/item?id=35841818) - [Bruce Schneier’s Plan to Reinvent Democracy](https://www.schneier.com/news/archives/2023/05/bruce-schneiers-plan-to-reinvent-democracy.html)
@@ -27,6 +26,7 @@
 * [2023-05-06, 03:40:37](https://news.ycombinator.com/item?id=35837750) - [Unix Koans](https://prirai.github.io/books/unix-koans.html)
 * [2023-05-06, 02:35:32](https://news.ycombinator.com/item?id=35837424) - [Fulfilling a reader&#x27;s request for my “dot files”](https://rachelbythebay.com/w/2023/05/05/dot/)
 * [2023-05-06, 01:07:44](https://news.ycombinator.com/item?id=35836976) - [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
+* [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
 * [2023-05-05, 08:48:00](https://news.ycombinator.com/item?id=35826785) - [Give It the Craigslist Test](https://ericaheinz.com/notes/give-it-the-craigslist-test/)
 * [2023-05-05, 05:57:20](https://news.ycombinator.com/item?id=35825683) - [Unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
 * [2023-05-04, 12:44:24](https://news.ycombinator.com/item?id=35814381) - [Billion-Scale Approximate Nearest Neighbor Search [pdf]](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf)
