@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
 * [2023-05-06, 02:48:32](https://news.ycombinator.com/item?id=35837485) - [Shopify to Lay Off 20% of Its Workforce](https://www.wsj.com/articles/flexport-buys-shopify-logistics-operations-sets-up-rivalry-with-amazon-15a9f5bc)
+* [2023-05-06, 02:17:01](https://news.ycombinator.com/item?id=35837330) - [Coinbase (?) had a $65M Datadog bill per Datadog&#x27;s Q1 earnings call](https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1)
 * [2023-05-06, 01:07:44](https://news.ycombinator.com/item?id=35836976) - [OpenAI&#x2F;shap-e – 3D Generative Modeling](https://github.com/openai/shap-e)
 * [2023-05-06, 01:00:08](https://news.ycombinator.com/item?id=35836933) - [Generally Intelligent (YC S17) Is Hiring Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=35836933)
 * [2023-05-06, 00:47:24](https://news.ycombinator.com/item?id=35836859) - [1 in 5 adults don’t want children –– and they don’t regret it later](https://www.eurekalert.org/news-releases/985251)
