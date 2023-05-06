@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-05-06, 06:16:12",
+      "https://news.ycombinator.com/item?id=35838601"
+    ],
+    [
+      "How is it even possible to cheat on a musical performance practical exam?",
+      "https://devblogs.microsoft.com/oldnewthing/?p=108122"
+    ]
+  ],
+  [
+    [
       "2023-05-06, 05:08:40",
       "https://news.ycombinator.com/item?id=35838222"
     ],
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2023-05-05, 15:42:38",
-      "https://news.ycombinator.com/item?id=35830723"
-    ],
-    [
-      "Who regulates the regulators? We need to go beyond review-and-approval",
-      "https://rootsofprogress.org/against-review-and-approval"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 14:32:19",
-      "https://news.ycombinator.com/item?id=35829733"
-    ],
-    [
-      "Htmx Is the Future",
-      "https://quii.dev/HTMX_is_the_Future"
-    ]
-  ],
-  [
-    [
       "2023-05-05, 11:49:46",
       "https://news.ycombinator.com/item?id=35828046"
     ],
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2023-05-04, 21:28:05",
-      "https://news.ycombinator.com/item?id=35822324"
-    ],
-    [
-      "The Lofi Magic of VHS Audio [video]",
-      "https://www.youtube.com/watch?v=OHoTzs3mtM8"
-    ]
-  ],
-  [
-    [
       "2023-05-04, 13:10:36",
       "https://news.ycombinator.com/item?id=35814707"
     ],
@@ -267,6 +247,16 @@
     [
       "A Linux kernel without struct buffer_head",
       "https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/"
+    ]
+  ],
+  [
+    [
+      "2023-05-04, 10:19:13",
+      "https://news.ycombinator.com/item?id=35813322"
+    ],
+    [
+      "Google “We have no moat, and neither does OpenAI”",
+      "https://www.semianalysis.com/p/google-we-have-no-moat-and-neither"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Farewell to the Era of Cheap EC2 Spot Instances",
       "https://pauley.me/post/2023/spot-price-trends/"
+    ]
+  ],
+  [
+    [
+      "2023-05-02, 22:42:13",
+      "https://news.ycombinator.com/item?id=35795177"
+    ],
+    [
+      "Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes",
+      "https://www.macarthur.me/posts/maps-for-dom-nodes"
     ]
   ]
 ]
