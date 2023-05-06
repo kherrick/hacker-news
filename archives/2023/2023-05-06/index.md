@@ -6,6 +6,7 @@
 
 * [2023-05-06, 06:44:17](https://news.ycombinator.com/item?id=35838751) - [Sailing Boat Rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
 * [2023-05-06, 06:42:52](https://news.ycombinator.com/item?id=35838741) - [Upwork removing 5% commission bracket and moving everyone to 10% bracket](https://support.upwork.com/hc/en-us/articles/211062538-Freelancer-Service-Fees)
+* [2023-05-06, 06:16:12](https://news.ycombinator.com/item?id=35838601) - [How is it even possible to cheat on a musical performance practical exam?](https://devblogs.microsoft.com/oldnewthing/?p=108122)
 * [2023-05-06, 05:08:40](https://news.ycombinator.com/item?id=35838222) - [Life After Language](https://www.ribbonfarm.com/2023/05/04/life-after-language/)
 * [2023-05-06, 04:57:17](https://news.ycombinator.com/item?id=35838180) - [Wikipedia users edits over 90k uses of “comprised of”](https://en.wikipedia.org/wiki/User:Giraffedata/comprised_of)
 * [2023-05-06, 04:48:44](https://news.ycombinator.com/item?id=35838126) - [Airbnb’s CEO spent 6 months living in his rentals and found the core problem](https://finance.yahoo.com/news/airbnb-ceo-spent-6-months-135043896.html)
