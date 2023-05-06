@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 17:13:02](https://news.ycombinator.com/item?id=35843325) - [Discord’s username change is causing discord](https://www.theverge.com/2023/5/6/23711332/discord-username-changes-community-backlash-handles)
 * [2023-05-06, 17:00:22](https://news.ycombinator.com/item?id=35843196) - [Jerry (YC S17) Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
 * [2023-05-06, 15:27:24](https://news.ycombinator.com/item?id=35842273) - [Ukraine downs Russian hypersonic missile with US Patriot](https://apnews.com/article/russia-ukraine-war-patriot-kinzhal-6b59af8e60853b4d6d16dd8d607768be)
 * [2023-05-06, 15:25:17](https://news.ycombinator.com/item?id=35842240) - [ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)

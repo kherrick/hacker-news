@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-06, 17:13:02](https://news.ycombinator.com/item?id=35843325) - [Discord’s username change is causing discord](https://www.theverge.com/2023/5/6/23711332/discord-username-changes-community-backlash-handles)
 * [2023-05-06, 17:00:22](https://news.ycombinator.com/item?id=35843196) - [Jerry (YC S17) Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
 * [2023-05-06, 15:25:17](https://news.ycombinator.com/item?id=35842240) - [ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)
 * [2023-05-06, 14:40:43](https://news.ycombinator.com/item?id=35841818) - [Bruce Schneier’s Plan to Reinvent Democracy](https://www.schneier.com/news/archives/2023/05/bruce-schneiers-plan-to-reinvent-democracy.html)
@@ -11,7 +12,6 @@
 * [2023-05-06, 12:07:16](https://news.ycombinator.com/item?id=35840530) - [Desulfovibrio bacteria are probable causes of Parkinson&#x27;s disease: study](https://yle.fi/a/74-20030498)
 * [2023-05-06, 11:20:39](https://news.ycombinator.com/item?id=35840224) - [Linearly interpolating pixels that are in a gamma encoded color space](https://twitter.com/ID_AA_Carmack/status/1654528504724062217)
 * [2023-05-06, 10:53:58](https://news.ycombinator.com/item?id=35840097) - [How much can you earn creating content on Youtube?](https://blog.bassemdy.com/2023/05/06/content-creation/youtube/experience/growth/monetization/income/revenue/how-much-you-really-make-creating-content.html)
-* [2023-05-06, 09:39:44](https://news.ycombinator.com/item?id=35839711) - [Cognitive decoupling and banana phones (2019)](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
 * [2023-05-06, 09:15:45](https://news.ycombinator.com/item?id=35839594) - [Outcomes after surgery performed by associate clinicians vs doctors (2021)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739)
 * [2023-05-06, 09:15:44](https://news.ycombinator.com/item?id=35839593) - [Show HN: ReRender AI - Realistic Architectural Renders for AutoCAD&#x2F;Blender Users](https://rerenderai.com)
 * [2023-05-06, 09:01:14](https://news.ycombinator.com/item?id=35839536) - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
