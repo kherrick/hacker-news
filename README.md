@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-06, 02:17:01](https://news.ycombinator.com/item?id=35837330) - [Coinbase (?) had a $65M Datadog bill per Datadog&#x27;s Q1 earnings call](https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1)
+* [2023-05-06, 02:35:32](https://news.ycombinator.com/item?id=35837424) - [Fulfilling a reader&#x27;s request for my “dot files”](https://rachelbythebay.com/w/2023/05/05/dot/)
+* [2023-05-06, 02:17:01](https://news.ycombinator.com/item?id=35837330) - [A cryptocurrency company had a $65M bill, per Datadog’s Q1 earnings call](https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1)
 * [2023-05-06, 01:07:44](https://news.ycombinator.com/item?id=35836976) - [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 * [2023-05-06, 01:00:08](https://news.ycombinator.com/item?id=35836933) - [Generally Intelligent (YC S17) Is Hiring Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=35836933)
 * [2023-05-06, 00:43:02](https://news.ycombinator.com/item?id=35836837) - [TikTok tracked users who watched gay content, prompting employee complaints](https://www.wsj.com/articles/tiktok-tracked-users-who-watched-gay-content-prompting-employee-complaints-5966a5f5)
@@ -21,7 +22,6 @@
 * [2023-05-05, 16:58:44](https://news.ycombinator.com/item?id=35832038) - [A few words on Ruby&#x27;s type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
 * [2023-05-05, 15:42:38](https://news.ycombinator.com/item?id=35830723) - [Who regulates the regulators? We need to go beyond review-and-approval](https://rootsofprogress.org/against-review-and-approval)
 * [2023-05-05, 14:32:19](https://news.ycombinator.com/item?id=35829733) - [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
-* [2023-05-05, 14:00:53](https://news.ycombinator.com/item?id=35829294) - [Journalist writes about discovering she’d been surveilled by TikTok](https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/)
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
 * [2023-05-04, 21:28:05](https://news.ycombinator.com/item?id=35822324) - [The Lofi Magic of VHS Audio [video]](https://www.youtube.com/watch?v=OHoTzs3mtM8)
 * [2023-05-04, 13:10:36](https://news.ycombinator.com/item?id=35814707) - [Waymo One doubles service area in Phoenix, continues growing in SF](https://blog.waymo.com/2023/05/waymo-one-doubles-service-area-in.html)
