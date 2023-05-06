@@ -77,6 +77,7 @@
 * [2023-05-05, 07:53:24](https://news.ycombinator.com/item?id=35826468) - [Pixies keep switching off my morning alarm, says Google Pixel owner](https://www.theregister.com/2023/05/04/pixies_google_pixel_alarm/)
 * [2023-05-05, 07:07:10](https://news.ycombinator.com/item?id=35826193) - [New Playground: Integer.exposed](https://jvns.ca/blog/2023/04/19/new-playground-integer-exposed/)
 * [2023-05-05, 07:00:23](https://news.ycombinator.com/item?id=35826137) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+* [2023-05-05, 06:58:47](https://news.ycombinator.com/item?id=35826122) - [Whatever you do, don&#x27;t autoload Rails `lib&#x2F;`](https://island94.org/2023/05/whatever-you-do-don-t-autoload-rails-lib)
 * [2023-05-05, 06:56:49](https://news.ycombinator.com/item?id=35826104) - [Peter Norvig – Paradigms of AI Programming Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/)
 * [2023-05-05, 06:54:34](https://news.ycombinator.com/item?id=35826088) - [The EARN IT bill is back. We&#x27;ve killed it twice, let&#x27;s do it again](https://tutanota.com/blog/posts/earn-it-barr-encryption)
 * [2023-05-05, 05:58:51](https://news.ycombinator.com/item?id=35825688) - [Arianespace CEO: Europe won&#x27;t have reusable rockets for another decade](https://www.space.com/europe-no-reusable-rocket-until-2030s)

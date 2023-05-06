@@ -22,12 +22,12 @@
 * [2023-05-06, 06:44:17](https://news.ycombinator.com/item?id=35838751) - [Sailing boat rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
 * [2023-05-06, 06:16:12](https://news.ycombinator.com/item?id=35838601) - [How is it even possible to cheat on a musical performance practical exam?](https://devblogs.microsoft.com/oldnewthing/?p=108122)
 * [2023-05-06, 05:58:09](https://news.ycombinator.com/item?id=35838504) - [Open source Background Remover: Remove Background from images and video using AI](https://github.com/nadermx/backgroundremover)
-* [2023-05-06, 05:43:06](https://news.ycombinator.com/item?id=35838407) - [I’m in Wyoming to celebrate the next nuclear breakthrough](https://www.gatesnotes.com/Wyoming-TerraPower)
 * [2023-05-06, 04:57:17](https://news.ycombinator.com/item?id=35838180) - [Wikipedia user edits over 90k uses of “comprised of”](https://en.wikipedia.org/wiki/User:Giraffedata/comprised_of)
 * [2023-05-05, 11:44:03](https://news.ycombinator.com/item?id=35827994) - [Motorola’s 1990s Corvette EV Project](https://www.thedrive.com/features/the-untold-story-of-motorolas-secret-1990s-corvette-ev-project-who-killed-the-electric-corvette)
 * [2023-05-05, 08:48:00](https://news.ycombinator.com/item?id=35826785) - [Give It the Craigslist Test](https://ericaheinz.com/notes/give-it-the-craigslist-test/)
 * [2023-05-05, 08:38:01](https://news.ycombinator.com/item?id=35826723) - [Concrete: A fully homomorphic encryption compiler](https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler)
 * [2023-05-05, 07:07:10](https://news.ycombinator.com/item?id=35826193) - [New Playground: Integer.exposed](https://jvns.ca/blog/2023/04/19/new-playground-integer-exposed/)
+* [2023-05-05, 06:58:47](https://news.ycombinator.com/item?id=35826122) - [Whatever you do, don&#x27;t autoload Rails `lib&#x2F;`](https://island94.org/2023/05/whatever-you-do-don-t-autoload-rails-lib)
 * [2023-05-05, 05:57:20](https://news.ycombinator.com/item?id=35825683) - [Unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
 * [2023-05-04, 12:44:24](https://news.ycombinator.com/item?id=35814381) - [Billion-Scale Approximate Nearest Neighbor Search [pdf]](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf)
 
