@@ -76,6 +76,7 @@
 * [2023-05-05, 06:56:49](https://news.ycombinator.com/item?id=35826104) - [Peter Norvig – Paradigms of AI Programming Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/)
 * [2023-05-05, 06:54:34](https://news.ycombinator.com/item?id=35826088) - [The EARN IT bill is back. We&#x27;ve killed it twice, let&#x27;s do it again](https://tutanota.com/blog/posts/earn-it-barr-encryption)
 * [2023-05-05, 05:58:51](https://news.ycombinator.com/item?id=35825688) - [Arianespace CEO: Europe won&#x27;t have reusable rockets for another decade](https://www.space.com/europe-no-reusable-rocket-until-2030s)
+* [2023-05-05, 05:57:20](https://news.ycombinator.com/item?id=35825683) - [Unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
 * [2023-05-05, 05:56:06](https://news.ycombinator.com/item?id=35825680) - [Taking Back the Cannonball Run Record](https://www.arnesantics.com/taking-back-the-cannonball-run-record/)
 * [2023-05-05, 05:32:33](https://news.ycombinator.com/item?id=35825542) - [The Lost Album of the Beatles review – deeply researched what-ifs](https://www.theguardian.com/books/2023/may/01/the-lost-album-of-the-beatles-review-daniel-rachel-deeply-researched-what-ifs)
 * [2023-05-05, 05:06:52](https://news.ycombinator.com/item?id=35825410) - [The swing has a near-universal history of ritual transgression](https://aeon.co/essays/the-swing-has-a-universal-history-of-transgression)
