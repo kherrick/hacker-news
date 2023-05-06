@@ -2,9 +2,8 @@
 
 * [2023-05-06, 14:26:02](https://news.ycombinator.com/item?id=35841679) - [Click Click Click](https://clickclickclick.click/)
 * [2023-05-06, 14:19:52](https://news.ycombinator.com/item?id=35841632) - [Preventing the use of SIM farms for fraud: consultation](https://www.gov.uk/government/consultations/preventing-the-use-of-sim-farms-for-fraud/preventing-the-use-of-sim-farms-for-fraud-consultation-accessible)
-* [2023-05-06, 14:09:22](https://news.ycombinator.com/item?id=35841542) - [AI’s biggest risk isn’t ‘consciousness’–it’s the corporations that control them](https://www.fastcompany.com/90892235/researcher-meredith-whittaker-says-ais-biggest-risk-isnt-consciousness-its-the-corporations-that-control-them)
+* [2023-05-06, 14:09:22](https://news.ycombinator.com/item?id=35841542) - [AI’s biggest risk is the corporations that control them](https://www.fastcompany.com/90892235/researcher-meredith-whittaker-says-ais-biggest-risk-isnt-consciousness-its-the-corporations-that-control-them)
 * [2023-05-06, 13:59:45](https://news.ycombinator.com/item?id=35841460) - [It looks like GPT-4-32k is rolling out](https://community.openai.com/t/it-looks-like-gpt-4-32k-is-rolling-out/194615)
-* [2023-05-06, 13:51:16](https://news.ycombinator.com/item?id=35841380) - [Remote work turns America into Suburban nation](https://fortune.com/2023/05/05/remote-work-suburbs-millennials-want-to-move-out-of-cities/)
 * [2023-05-06, 13:40:33](https://news.ycombinator.com/item?id=35841271) - [How the ISS will end its life in orbit](https://www.bbc.com/future/article/20230502-a-fiery-end-how-the-iss-will-end-its-life-in-orbit)
 * [2023-05-06, 12:07:16](https://news.ycombinator.com/item?id=35840530) - [Desulfovibrio bacteria are probable causes of Parkinson&#x27;s disease: study](https://yle.fi/a/74-20030498)
 * [2023-05-06, 12:02:36](https://news.ycombinator.com/item?id=35840485) - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=35840485)
@@ -29,6 +28,7 @@
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
 * [2023-05-05, 05:57:20](https://news.ycombinator.com/item?id=35825683) - [Unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
 * [2023-05-04, 13:10:36](https://news.ycombinator.com/item?id=35814707) - [Waymo One doubles service area in Phoenix, continues growing in SF](https://blog.waymo.com/2023/05/waymo-one-doubles-service-area-in.html)
+* [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-04, 09:25:10](https://news.ycombinator.com/item?id=35813010) - [A mansion hidden directly under the Bay Bridge](https://www.sfgate.com/obscuresf/article/nimitz-mansion-hidden-under-bay-bridge-17999245.php)
 
 ## [Archives](archives/index.md)
