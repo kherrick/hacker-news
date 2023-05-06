@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 03:13:43](https://news.ycombinator.com/item?id=35837606) - [Vaonis Hyperia: $45k digital telescope](https://vaonis.com/hyperia/en/)
 * [2023-05-06, 02:48:32](https://news.ycombinator.com/item?id=35837485) - [Shopify to Lay Off 20% of Its Workforce](https://www.wsj.com/articles/flexport-buys-shopify-logistics-operations-sets-up-rivalry-with-amazon-15a9f5bc)
 * [2023-05-06, 02:35:32](https://news.ycombinator.com/item?id=35837424) - [Fulfilling a reader&#x27;s request for my “dot files”](https://rachelbythebay.com/w/2023/05/05/dot/)
 * [2023-05-06, 02:17:01](https://news.ycombinator.com/item?id=35837330) - [Coinbase (?) had a $65M Datadog bill per Datadog&#x27;s Q1 earnings call](https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1)

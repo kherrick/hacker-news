@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-06, 03:13:43](https://news.ycombinator.com/item?id=35837606) - [Vaonis Hyperia: $45k digital telescope](https://vaonis.com/hyperia/en/)
 * [2023-05-06, 02:35:32](https://news.ycombinator.com/item?id=35837424) - [Fulfilling a reader&#x27;s request for my “dot files”](https://rachelbythebay.com/w/2023/05/05/dot/)
 * [2023-05-06, 02:17:01](https://news.ycombinator.com/item?id=35837330) - [A cryptocurrency company had a $65M bill, per Datadog’s Q1 earnings call](https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1)
 * [2023-05-06, 01:07:44](https://news.ycombinator.com/item?id=35836976) - [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
@@ -14,7 +15,6 @@
 * [2023-05-05, 20:10:29](https://news.ycombinator.com/item?id=35834535) - [Death of the Twin Gynaecologists: A patient&#x27;s notes (1975)](https://www.vulture.com/article/twin-gynecologists-stewart-marcus-cyril-marcus-dead-ringers-inspiration.html)
 * [2023-05-05, 19:33:23](https://news.ycombinator.com/item?id=35834106) - [Bluesky&#x27;s AT Protocol - Federation Architecture Overview](https://blueskyweb.xyz/blog/5-5-2023-federation-architecture)
 * [2023-05-05, 19:28:04](https://news.ycombinator.com/item?id=35834037) - [Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
-* [2023-05-05, 18:18:41](https://news.ycombinator.com/item?id=35833163) - [The core problem with hamburger menus](https://bt.ht/hamburgers/)
 * [2023-05-05, 18:12:05](https://news.ycombinator.com/item?id=35833073) - [Hard feelings over mission change for NASA’s Pluto spacecraft](https://www.nature.com/articles/d41586-023-01530-y)
 * [2023-05-05, 17:58:53](https://news.ycombinator.com/item?id=35832876) - [Pioneer – An Open Source space adventure game set in our galaxy](https://pioneerspacesim.net)
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
@@ -23,13 +23,13 @@
 * [2023-05-05, 15:42:38](https://news.ycombinator.com/item?id=35830723) - [Who regulates the regulators? We need to go beyond review-and-approval](https://rootsofprogress.org/against-review-and-approval)
 * [2023-05-05, 14:32:19](https://news.ycombinator.com/item?id=35829733) - [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
+* [2023-05-05, 02:39:05](https://news.ycombinator.com/item?id=35824654) - [What scares master of suspense Dean Koontz? Plenty](https://www.washingtonpost.com/books/2023/05/03/dean-koontz/)
 * [2023-05-04, 21:28:05](https://news.ycombinator.com/item?id=35822324) - [The Lofi Magic of VHS Audio [video]](https://www.youtube.com/watch?v=OHoTzs3mtM8)
 * [2023-05-04, 13:10:36](https://news.ycombinator.com/item?id=35814707) - [Waymo One doubles service area in Phoenix, continues growing in SF](https://blog.waymo.com/2023/05/waymo-one-doubles-service-area-in.html)
 * [2023-05-04, 11:51:02](https://news.ycombinator.com/item?id=35813950) - [A Linux kernel without struct buffer_head](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/)
 * [2023-05-04, 09:25:10](https://news.ycombinator.com/item?id=35813010) - [A mansion hidden directly under the Bay Bridge](https://www.sfgate.com/obscuresf/article/nimitz-mansion-hidden-under-bay-bridge-17999245.php)
 * [2023-05-03, 19:00:06](https://news.ycombinator.com/item?id=35806306) - [An Internet Canvas](https://notes.mmm.page/paper)
 * [2023-05-03, 13:30:49](https://news.ycombinator.com/item?id=35802157) - [Farewell to the Era of Cheap EC2 Spot Instances](https://pauley.me/post/2023/spot-price-trends/)
-* [2023-05-02, 22:42:13](https://news.ycombinator.com/item?id=35795177) - [Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://www.macarthur.me/posts/maps-for-dom-nodes)
 
 ## [Archives](archives/index.md)
 
