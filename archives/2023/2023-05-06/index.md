@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
 * [2023-05-06, 21:28:49](https://news.ycombinator.com/item?id=35845504) - [I downloaded all 1,680,399 posts on Bluesky](https://worthdoingbadly.com/bsky/)
+* [2023-05-06, 20:48:07](https://news.ycombinator.com/item?id=35845234) - [Our Amiga Demo-Creator Turns 36 Years](https://coding-and-computers.blogspot.com/2022/05/first-amiga-demo-creator-may-1987.html)
 * [2023-05-06, 20:40:11](https://news.ycombinator.com/item?id=35845188) - [Sony Playstation 2 Development Kit](https://www.retroreversing.com/playstation-2-development-hardware)
 * [2023-05-06, 20:26:22](https://news.ycombinator.com/item?id=35845085) - [EU ready to back immediate open access without author fees](https://www.researchprofessionalnews.com/rr-news-europe-infrastructure-2023-5-eu-ready-to-back-immediate-open-access-without-author-fees/)
 * [2023-05-06, 19:50:20](https://news.ycombinator.com/item?id=35844796) - [The aesthetic usability effect &#x2F; paradox](https://en.wikipedia.org/wiki/Aesthetic%E2%80%93usability_effect)
 * [2023-05-06, 19:49:18](https://news.ycombinator.com/item?id=35844789) - [Nvidia&#x27;s Crazy New Neural Engine Is Redefining Realism in Graphics](https://www.youtube.com/watch?v=RTWbCuDhC3c)
+* [2023-05-06, 19:42:36](https://news.ycombinator.com/item?id=35844735) - [Transcending My Father&#x27;s Abuse](https://valspals.substack.com/p/transcending-my-fathers-abuse)
+* [2023-05-06, 19:16:55](https://news.ycombinator.com/item?id=35844499) - [Solid, a spec that lets people store their data securely in decentralized Pods](https://solidproject.org/)
 * [2023-05-06, 18:36:39](https://news.ycombinator.com/item?id=35844080) - [If a PR Says “Artificial Intelligence,” There’s a Good Chance It’s Meaningless](https://slate.com/technology/2023/05/artificial-intelligence-hype-ibm-ftc-twitter-threadbois.html)
 * [2023-05-06, 18:10:36](https://news.ycombinator.com/item?id=35843831) - [Politics and the English Language by George Orwell](https://gutenberg.net.au/ebooks02/0200151h.html)
 * [2023-05-06, 18:04:16](https://news.ycombinator.com/item?id=35843775) - [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
