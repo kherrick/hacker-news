@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-06, 08:26:25](https://news.ycombinator.com/item?id=35839350) - [Risk assessment of retinal vascular occlusion after Covid-19 vaccination](https://www.nature.com/articles/s41541-023-00661-7)
 * [2023-05-06, 06:44:17](https://news.ycombinator.com/item?id=35838751) - [Sailing Boat Rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
 * [2023-05-06, 06:42:52](https://news.ycombinator.com/item?id=35838741) - [Upwork removing 5% commission bracket and moving everyone to 10% bracket](https://support.upwork.com/hc/en-us/articles/211062538-Freelancer-Service-Fees)
 * [2023-05-06, 06:16:12](https://news.ycombinator.com/item?id=35838601) - [How is it even possible to cheat on a musical performance practical exam?](https://devblogs.microsoft.com/oldnewthing/?p=108122)
@@ -21,6 +20,7 @@
 * [2023-05-05, 19:28:04](https://news.ycombinator.com/item?id=35834037) - [Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
 * [2023-05-05, 17:58:53](https://news.ycombinator.com/item?id=35832876) - [Pioneer – An Open Source space adventure game set in our galaxy](https://pioneerspacesim.net)
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
+* [2023-05-05, 15:42:38](https://news.ycombinator.com/item?id=35830723) - [Who regulates the regulators? We need to go beyond review-and-approval](https://rootsofprogress.org/against-review-and-approval)
 * [2023-05-05, 14:32:19](https://news.ycombinator.com/item?id=35829733) - [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
 * [2023-05-05, 02:39:05](https://news.ycombinator.com/item?id=35824654) - [What scares master of suspense Dean Koontz? Plenty](https://www.washingtonpost.com/books/2023/05/03/dean-koontz/)
