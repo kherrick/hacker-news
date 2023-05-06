@@ -70,6 +70,7 @@
 * [2023-05-05, 09:12:28](https://news.ycombinator.com/item?id=35826929) - [What Is a Vector Database](https://www.pinecone.io/learn/vector-database/)
 * [2023-05-05, 09:02:20](https://news.ycombinator.com/item?id=35826873) - [Slack GPT, the Future of AI in Slack](https://slack.com/blog/news/introducing-slack-gpt)
 * [2023-05-05, 08:48:00](https://news.ycombinator.com/item?id=35826785) - [Give It the Craigslist Test](https://ericaheinz.com/notes/give-it-the-craigslist-test/)
+* [2023-05-05, 08:38:01](https://news.ycombinator.com/item?id=35826723) - [Concrete: A fully homomorphic encryption compiler](https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler)
 * [2023-05-05, 08:17:44](https://news.ycombinator.com/item?id=35826616) - [Rimac Energy: Stationary Energy Storage Technology](https://www.rimac-newsroom.com/press-releases/rimac-energy/introducing-rimac-energy-cutting-edge-stationary-energy-storage-technology-create)
 * [2023-05-05, 08:04:34](https://news.ycombinator.com/item?id=35826540) - [Show HN: A search engine for your personal network of high-quality websites](https://usegrasp.com)
 * [2023-05-05, 07:53:24](https://news.ycombinator.com/item?id=35826468) - [Pixies keep switching off my morning alarm, says Google Pixel owner](https://www.theregister.com/2023/05/04/pixies_google_pixel_alarm/)
