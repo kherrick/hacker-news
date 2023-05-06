@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-05-06, 18:10:36",
+      "https://news.ycombinator.com/item?id=35843831"
+    ],
+    [
+      "Politics and the English Language by George Orwell",
+      "https://gutenberg.net.au/ebooks02/0200151h.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-06, 18:04:16",
+      "https://news.ycombinator.com/item?id=35843775"
+    ],
+    [
+      "Progress on running Haiku OS on VisionFive 2 RISC-V dev board",
+      "https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2"
+    ]
+  ],
+  [
+    [
+      "2023-05-06, 17:39:14",
+      "https://news.ycombinator.com/item?id=35843566"
+    ],
+    [
+      "Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security",
+      "https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/"
+    ]
+  ],
+  [
+    [
       "2023-05-06, 17:13:02",
       "https://news.ycombinator.com/item?id=35843325"
     ],
@@ -97,26 +127,6 @@
     [
       "It looks like GPT-4-32k is rolling out",
       "https://community.openai.com/t/it-looks-like-gpt-4-32k-is-rolling-out/194615"
-    ]
-  ],
-  [
-    [
-      "2023-05-06, 13:40:33",
-      "https://news.ycombinator.com/item?id=35841271"
-    ],
-    [
-      "How the ISS will end its life in orbit",
-      "https://www.bbc.com/future/article/20230502-a-fiery-end-how-the-iss-will-end-its-life-in-orbit"
-    ]
-  ],
-  [
-    [
-      "2023-05-06, 12:07:16",
-      "https://news.ycombinator.com/item?id=35840530"
-    ],
-    [
-      "Desulfovibrio bacteria are probable causes of Parkinson&#x27;s disease: study",
-      "https://yle.fi/a/74-20030498"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Unix Koans",
       "https://prirai.github.io/books/unix-koans.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-06, 01:07:44",
-      "https://news.ycombinator.com/item?id=35836976"
-    ],
-    [
-      "Shap-E: Generate 3D objects conditioned on text or images",
-      "https://github.com/openai/shap-e"
     ]
   ],
   [
