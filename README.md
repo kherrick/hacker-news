@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-06, 02:17:01](https://news.ycombinator.com/item?id=35837330) - [Coinbase (?) had a $65M Datadog bill per Datadog&#x27;s Q1 earnings call](https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1)
-* [2023-05-06, 01:07:44](https://news.ycombinator.com/item?id=35836976) - [Shap-e – Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
+* [2023-05-06, 01:07:44](https://news.ycombinator.com/item?id=35836976) - [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 * [2023-05-06, 01:00:08](https://news.ycombinator.com/item?id=35836933) - [Generally Intelligent (YC S17) Is Hiring Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=35836933)
 * [2023-05-06, 00:43:02](https://news.ycombinator.com/item?id=35836837) - [TikTok tracked users who watched gay content, prompting employee complaints](https://www.wsj.com/articles/tiktok-tracked-users-who-watched-gay-content-prompting-employee-complaints-5966a5f5)
 * [2023-05-06, 00:15:21](https://news.ycombinator.com/item?id=35836682) - [JPL Horizons Sending Too Many Emails](https://astronomy.stackexchange.com/questions/53617/jpl-horizons-sending-too-many-emails)
