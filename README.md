@@ -11,7 +11,6 @@
 * [2023-05-06, 14:09:22](https://news.ycombinator.com/item?id=35841542) - [AI’s biggest risk is the corporations that control them](https://www.fastcompany.com/90892235/researcher-meredith-whittaker-says-ais-biggest-risk-isnt-consciousness-its-the-corporations-that-control-them)
 * [2023-05-06, 13:59:45](https://news.ycombinator.com/item?id=35841460) - [It looks like GPT-4-32k is rolling out](https://community.openai.com/t/it-looks-like-gpt-4-32k-is-rolling-out/194615)
 * [2023-05-06, 13:40:33](https://news.ycombinator.com/item?id=35841271) - [How the ISS will end its life in orbit](https://www.bbc.com/future/article/20230502-a-fiery-end-how-the-iss-will-end-its-life-in-orbit)
-* [2023-05-06, 12:07:16](https://news.ycombinator.com/item?id=35840530) - [Desulfovibrio bacteria are probable causes of Parkinson&#x27;s disease: study](https://yle.fi/a/74-20030498)
 * [2023-05-06, 11:20:39](https://news.ycombinator.com/item?id=35840224) - [Linearly interpolating pixels that are in a gamma encoded color space](https://twitter.com/ID_AA_Carmack/status/1654528504724062217)
 * [2023-05-06, 10:53:58](https://news.ycombinator.com/item?id=35840097) - [How much can you earn creating content on Youtube?](https://blog.bassemdy.com/2023/05/06/content-creation/youtube/experience/growth/monetization/income/revenue/how-much-you-really-make-creating-content.html)
 * [2023-05-06, 09:15:45](https://news.ycombinator.com/item?id=35839594) - [Outcomes after surgery performed by associate clinicians vs doctors (2021)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739)
@@ -28,6 +27,7 @@
 * [2023-05-06, 02:35:32](https://news.ycombinator.com/item?id=35837424) - [Fulfilling a reader&#x27;s request for my “dot files”](https://rachelbythebay.com/w/2023/05/05/dot/)
 * [2023-05-06, 01:07:44](https://news.ycombinator.com/item?id=35836976) - [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 * [2023-05-05, 08:48:00](https://news.ycombinator.com/item?id=35826785) - [Give It the Craigslist Test](https://ericaheinz.com/notes/give-it-the-craigslist-test/)
+* [2023-05-05, 07:07:10](https://news.ycombinator.com/item?id=35826193) - [New Playground: Integer.exposed](https://jvns.ca/blog/2023/04/19/new-playground-integer-exposed/)
 * [2023-05-05, 05:57:20](https://news.ycombinator.com/item?id=35825683) - [Unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
 * [2023-05-04, 12:44:24](https://news.ycombinator.com/item?id=35814381) - [Billion-Scale Approximate Nearest Neighbor Search [pdf]](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf)
 
