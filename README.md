@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-06, 13:51:16](https://news.ycombinator.com/item?id=35841380) - [Remote work turns America into Suburban nation](https://fortune.com/2023/05/05/remote-work-suburbs-millennials-want-to-move-out-of-cities/)
 * [2023-05-06, 13:40:33](https://news.ycombinator.com/item?id=35841271) - [How the ISS will end its life in orbit](https://www.bbc.com/future/article/20230502-a-fiery-end-how-the-iss-will-end-its-life-in-orbit)
 * [2023-05-06, 13:40:19](https://news.ycombinator.com/item?id=35841267) - [America Forgot About IBM Watson. Is ChatGPT Next?](https://www.theatlantic.com/technology/archive/2023/05/ibm-watson-irrelevance-chatgpt-generative-ai-race/673965/)
 * [2023-05-06, 12:07:16](https://news.ycombinator.com/item?id=35840530) - [Helsinki University makes Parkinson&#x27;s disease breakthrough](https://yle.fi/a/74-20030498)
@@ -8,7 +9,6 @@
 * [2023-05-06, 10:57:04](https://news.ycombinator.com/item?id=35840117) - [A Pixies song is accidentally turning off Google alarms](https://fortune.com/2023/05/04/google-pixel-phone-pixies-song-where-is-my-mind-accidentally-turning-off-alarms/)
 * [2023-05-06, 09:39:44](https://news.ycombinator.com/item?id=35839711) - [Cognitive decoupling and banana phones (2019)](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
 * [2023-05-06, 09:15:45](https://news.ycombinator.com/item?id=35839594) - [Outcomes after surgery performed by associate clinicians vs doctors (2021)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739)
-* [2023-05-06, 09:15:44](https://news.ycombinator.com/item?id=35839593) - [Show HN: ReRender AI - Realistic Architectural Renders for AutoCAD&#x2F;Blender Users](https://rerenderai.com)
 * [2023-05-06, 09:01:14](https://news.ycombinator.com/item?id=35839536) - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
 * [2023-05-06, 08:50:39](https://news.ycombinator.com/item?id=35839470) - [Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)
 * [2023-05-06, 06:44:17](https://news.ycombinator.com/item?id=35838751) - [Sailing boat rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
