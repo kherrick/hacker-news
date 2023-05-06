@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-05-06, 06:16:12",
-      "https://news.ycombinator.com/item?id=35838601"
-    ],
-    [
-      "How is it even possible to cheat on a musical performance practical exam?",
-      "https://devblogs.microsoft.com/oldnewthing/?p=108122"
-    ]
-  ],
-  [
-    [
       "2023-05-06, 05:58:09",
       "https://news.ycombinator.com/item?id=35838504"
     ],
@@ -297,6 +287,16 @@
     [
       "An Internet Canvas",
       "https://notes.mmm.page/paper"
+    ]
+  ],
+  [
+    [
+      "2023-05-02, 22:42:13",
+      "https://news.ycombinator.com/item?id=35795177"
+    ],
+    [
+      "Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes",
+      "https://www.macarthur.me/posts/maps-for-dom-nodes"
     ]
   ]
 ]
