@@ -2,6 +2,7 @@
 
 * [2023-05-06, 18:04:16](https://news.ycombinator.com/item?id=35843775) - [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
 * [2023-05-06, 17:46:59](https://news.ycombinator.com/item?id=35843639) - [Language Learning with Netflix](https://languagelearningwithnetflix.com/)
+* [2023-05-06, 17:41:32](https://news.ycombinator.com/item?id=35843588) - [The phenomena of inner experience [pdf]](https://hurlburt.faculty.unlv.edu/heavey-hurlburt-2008.pdf)
 * [2023-05-06, 17:39:14](https://news.ycombinator.com/item?id=35843566) - [Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security](https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/)
 * [2023-05-06, 17:13:02](https://news.ycombinator.com/item?id=35843325) - [Discord’s username change is causing discord](https://www.theverge.com/2023/5/6/23711332/discord-username-changes-community-backlash-handles)
 * [2023-05-06, 17:00:22](https://news.ycombinator.com/item?id=35843196) - [Jerry (YC S17) Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
@@ -24,7 +25,6 @@
 * [2023-05-06, 05:43:06](https://news.ycombinator.com/item?id=35838407) - [I’m in Wyoming to celebrate the next nuclear breakthrough](https://www.gatesnotes.com/Wyoming-TerraPower)
 * [2023-05-06, 05:08:40](https://news.ycombinator.com/item?id=35838222) - [Life After Language](https://www.ribbonfarm.com/2023/05/04/life-after-language/)
 * [2023-05-06, 04:57:17](https://news.ycombinator.com/item?id=35838180) - [Wikipedia user edits over 90k uses of “comprised of”](https://en.wikipedia.org/wiki/User:Giraffedata/comprised_of)
-* [2023-05-06, 01:07:44](https://news.ycombinator.com/item?id=35836976) - [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 * [2023-05-05, 08:48:00](https://news.ycombinator.com/item?id=35826785) - [Give It the Craigslist Test](https://ericaheinz.com/notes/give-it-the-craigslist-test/)
 * [2023-05-05, 08:38:01](https://news.ycombinator.com/item?id=35826723) - [Concrete: A fully homomorphic encryption compiler](https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler)
 * [2023-05-05, 07:07:10](https://news.ycombinator.com/item?id=35826193) - [New Playground: Integer.exposed](https://jvns.ca/blog/2023/04/19/new-playground-integer-exposed/)
