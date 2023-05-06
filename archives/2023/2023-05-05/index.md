@@ -10,6 +10,7 @@
 * [2023-05-05, 22:40:23](https://news.ycombinator.com/item?id=35835971) - [Show HN: Avoiding Imgur Link Rot](https://haasie.com)
 * [2023-05-05, 22:18:57](https://news.ycombinator.com/item?id=35835787) - [Sam Altman says era of remote work is over;worst mistake of tech industry](https://www.businesstoday.in/technology/news/story/chatgpt-maker-sam-altman-says-era-of-remote-work-is-over-380090-2023-05-04)
 * [2023-05-05, 22:12:44](https://news.ycombinator.com/item?id=35835740) - [Scientists say they have found more moons with oceans in the Solar System](https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/)
+* [2023-05-05, 22:07:51](https://news.ycombinator.com/item?id=35835697) - [MSI firmware signing keys leaked](https://github.com/binarly-io/SupplyChainAttacks/blob/main/MSI/ImpactedDevices.md)
 * [2023-05-05, 21:16:18](https://news.ycombinator.com/item?id=35835240) - [Dump these insecure phone adapters because we&#x27;re not fixing them, says Cisco](https://www.theregister.com/2023/05/05/cisco_phone_adapter_vulnerabilitty/)
 * [2023-05-05, 21:00:06](https://news.ycombinator.com/item?id=35835098) - [Bun (YC S19) Is Hiring C&#x2F;C++&#x2F;Zig engineers to build a JavaScript cloud](https://oven.rippling-ats.com/job/535740/runtime-engineer-zig-or-c-c)
 * [2023-05-05, 20:56:11](https://news.ycombinator.com/item?id=35835059) - [eBay’s Fast Billion-Scale Vector Similarity Engine](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/)
