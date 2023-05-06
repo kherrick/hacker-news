@@ -2,6 +2,7 @@
 
 * [2023-05-06, 21:28:49](https://news.ycombinator.com/item?id=35845504) - [I downloaded all 1,680,399 posts on Bluesky](https://worthdoingbadly.com/bsky/)
 * [2023-05-06, 20:40:11](https://news.ycombinator.com/item?id=35845188) - [Sony Playstation 2 Development Kit](https://www.retroreversing.com/playstation-2-development-hardware)
+* [2023-05-06, 20:26:22](https://news.ycombinator.com/item?id=35845085) - [EU ready to back immediate open access without author fees](https://www.researchprofessionalnews.com/rr-news-europe-infrastructure-2023-5-eu-ready-to-back-immediate-open-access-without-author-fees/)
 * [2023-05-06, 19:50:20](https://news.ycombinator.com/item?id=35844796) - [The aesthetic usability effect &#x2F; paradox](https://en.wikipedia.org/wiki/Aesthetic%E2%80%93usability_effect)
 * [2023-05-06, 19:49:18](https://news.ycombinator.com/item?id=35844789) - [Nvidia&#x27;s Crazy New Neural Engine Is Redefining Realism in Graphics](https://www.youtube.com/watch?v=RTWbCuDhC3c)
 * [2023-05-06, 18:36:39](https://news.ycombinator.com/item?id=35844080) - [If a PR Says “Artificial Intelligence,” There’s a Good Chance It’s Meaningless](https://slate.com/technology/2023/05/artificial-intelligence-hype-ibm-ftc-twitter-threadbois.html)
@@ -14,9 +15,9 @@
 * [2023-05-06, 15:25:17](https://news.ycombinator.com/item?id=35842240) - [ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)
 * [2023-05-06, 14:32:53](https://news.ycombinator.com/item?id=35841748) - [Ocean-surface temperatures are breaking records](https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records)
 * [2023-05-06, 14:09:22](https://news.ycombinator.com/item?id=35841542) - [AI’s biggest risk is the corporations that control them](https://www.fastcompany.com/90892235/researcher-meredith-whittaker-says-ais-biggest-risk-isnt-consciousness-its-the-corporations-that-control-them)
-* [2023-05-06, 13:59:45](https://news.ycombinator.com/item?id=35841460) - [It looks like GPT-4-32k is rolling out](https://community.openai.com/t/it-looks-like-gpt-4-32k-is-rolling-out/194615)
 * [2023-05-06, 11:20:39](https://news.ycombinator.com/item?id=35840224) - [Linearly interpolating pixels that are in a gamma encoded color space](https://twitter.com/ID_AA_Carmack/status/1654528504724062217)
 * [2023-05-06, 09:15:45](https://news.ycombinator.com/item?id=35839594) - [Outcomes after surgery performed by associate clinicians vs doctors (2021)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739)
+* [2023-05-06, 09:15:44](https://news.ycombinator.com/item?id=35839593) - [Show HN: ReRender AI - Realistic Architectural Renders for AutoCAD&#x2F;Blender Users](https://rerenderai.com)
 * [2023-05-06, 09:01:14](https://news.ycombinator.com/item?id=35839536) - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
 * [2023-05-06, 08:50:39](https://news.ycombinator.com/item?id=35839470) - [Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)
 * [2023-05-06, 06:44:17](https://news.ycombinator.com/item?id=35838751) - [Sailing boat rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
@@ -28,7 +29,6 @@
 * [2023-05-05, 08:38:01](https://news.ycombinator.com/item?id=35826723) - [Concrete: A fully homomorphic encryption compiler](https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler)
 * [2023-05-05, 07:07:10](https://news.ycombinator.com/item?id=35826193) - [New Playground: Integer.exposed](https://jvns.ca/blog/2023/04/19/new-playground-integer-exposed/)
 * [2023-05-05, 06:58:47](https://news.ycombinator.com/item?id=35826122) - [Whatever you do, don&#x27;t autoload Rails `lib&#x2F;`](https://island94.org/2023/05/whatever-you-do-don-t-autoload-rails-lib)
-* [2023-05-05, 05:57:20](https://news.ycombinator.com/item?id=35825683) - [Unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
 * [2023-05-04, 12:44:24](https://news.ycombinator.com/item?id=35814381) - [Billion-Scale Approximate Nearest Neighbor Search [pdf]](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf)
 
 ## [Archives](archives/index.md)
