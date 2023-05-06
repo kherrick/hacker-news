@@ -27,6 +27,7 @@
 * [2023-05-05, 17:58:53](https://news.ycombinator.com/item?id=35832876) - [Pioneer – An Open Source space adventure game set in our galaxy](https://pioneerspacesim.net)
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
 * [2023-05-05, 17:34:40](https://news.ycombinator.com/item?id=35832540) - [OpenAI ignored the ‘have a problem to solve’ rule, says president Greg Brockman](https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/)
+* [2023-05-05, 17:30:43](https://news.ycombinator.com/item?id=35832486) - [Show HN: Ethereum address reviews, similar to Yelp](https://vrfd.info)
 * [2023-05-05, 17:17:44](https://news.ycombinator.com/item?id=35832327) - [Rising Share of U.S. Adults Are Living Without a Spouse or Partner](https://www.pewresearch.org/social-trends/2021/10/05/rising-share-of-u-s-adults-are-living-without-a-spouse-or-partner/)
 * [2023-05-05, 17:15:26](https://news.ycombinator.com/item?id=35832296) - [Ask HN: What are ways to combat loneliness and build meaningful connections?](https://news.ycombinator.com/item?id=35832296)
 * [2023-05-05, 16:58:44](https://news.ycombinator.com/item?id=35832038) - [A few words on Ruby&#x27;s type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
