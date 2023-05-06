@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 14:26:02](https://news.ycombinator.com/item?id=35841679) - [Click Click Click](https://clickclickclick.click/)
 * [2023-05-06, 14:19:52](https://news.ycombinator.com/item?id=35841632) - [UK Gov seeks to criminalise posession of devices with &gt;4 SIM card slots](https://www.gov.uk/government/consultations/preventing-the-use-of-sim-farms-for-fraud/preventing-the-use-of-sim-farms-for-fraud-consultation-accessible)
+* [2023-05-06, 14:09:22](https://news.ycombinator.com/item?id=35841542) - [AI’s biggest risk isn’t ‘consciousness’–it’s the corporations that control them](https://www.fastcompany.com/90892235/researcher-meredith-whittaker-says-ais-biggest-risk-isnt-consciousness-its-the-corporations-that-control-them)
 * [2023-05-06, 14:08:29](https://news.ycombinator.com/item?id=35841537) - [Mainstream Media Doesn’t Care That the CIA May Have Helped Cause 9&#x2F;11](https://jacobin.com/2023/05/cia-fbi-911-hijackers-cover-up-bush-media)
 * [2023-05-06, 13:59:45](https://news.ycombinator.com/item?id=35841460) - [It looks like GPT-4-32k is rolling out](https://community.openai.com/t/it-looks-like-gpt-4-32k-is-rolling-out/194615)
 * [2023-05-06, 13:51:16](https://news.ycombinator.com/item?id=35841380) - [Remote work turns America into Suburban nation](https://fortune.com/2023/05/05/remote-work-suburbs-millennials-want-to-move-out-of-cities/)
