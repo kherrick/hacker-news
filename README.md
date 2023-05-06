@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-06, 22:22:12](https://news.ycombinator.com/item?id=35845864) - [MSFT exec admits console wars are over: ‘We lost the worst generation to lose&#x27;](https://fortune.com/2023/05/05/microsoft-exec-phil-spencer-admits-the-console-war-lost-sony-playstation-nintendo-switch/)
+* [2023-05-06, 21:45:31](https://news.ycombinator.com/item?id=35845612) - [Ask HN: What is the best password manager available today?](https://news.ycombinator.com/item?id=35845612)
 * [2023-05-06, 21:28:49](https://news.ycombinator.com/item?id=35845504) - [I downloaded all 1,680,399 posts on Bluesky](https://worthdoingbadly.com/bsky/)
 * [2023-05-06, 20:48:07](https://news.ycombinator.com/item?id=35845234) - [Our Amiga Demo-Creator Turns 36 Years](https://coding-and-computers.blogspot.com/2022/05/first-amiga-demo-creator-may-1987.html)
 * [2023-05-06, 20:40:11](https://news.ycombinator.com/item?id=35845188) - [Sony Playstation 2 Development Kit](https://www.retroreversing.com/playstation-2-development-hardware)
@@ -21,8 +23,6 @@
 * [2023-05-06, 09:01:14](https://news.ycombinator.com/item?id=35839536) - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
 * [2023-05-06, 08:50:39](https://news.ycombinator.com/item?id=35839470) - [Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)
 * [2023-05-06, 06:44:17](https://news.ycombinator.com/item?id=35838751) - [Sailing boat rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
-* [2023-05-06, 05:58:09](https://news.ycombinator.com/item?id=35838504) - [Open source Background Remover: Remove Background from images and video using AI](https://github.com/nadermx/backgroundremover)
-* [2023-05-06, 04:57:17](https://news.ycombinator.com/item?id=35838180) - [Wikipedia user edits over 90k uses of “comprised of”](https://en.wikipedia.org/wiki/User:Giraffedata/comprised_of)
 * [2023-05-06, 04:42:46](https://news.ycombinator.com/item?id=35838086) - [Modern Scottish, Welsh and Northern Irish people found to have Pictish ancestry](https://phys.org/news/2023-04-modern-day-scottish-welsh-northern-irish.html)
 * [2023-05-05, 11:44:03](https://news.ycombinator.com/item?id=35827994) - [Motorola’s 1990s Corvette EV Project](https://www.thedrive.com/features/the-untold-story-of-motorolas-secret-1990s-corvette-ev-project-who-killed-the-electric-corvette)
 * [2023-05-05, 08:48:00](https://news.ycombinator.com/item?id=35826785) - [Give It the Craigslist Test](https://ericaheinz.com/notes/give-it-the-craigslist-test/)
