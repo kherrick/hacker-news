@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-06, 08:50:39",
+      "https://news.ycombinator.com/item?id=35839470"
+    ],
+    [
+      "Atuin replaces your existing shell history with a SQLite database",
+      "https://github.com/ellie/atuin"
+    ]
+  ],
+  [
+    [
       "2023-05-06, 06:44:17",
       "https://news.ycombinator.com/item?id=35838751"
     ],
@@ -207,16 +217,6 @@
     [
       "Unlimiformer: Long-Range Transformers with Unlimited Length Input",
       "https://arxiv.org/abs/2305.01625"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 14:32:19",
-      "https://news.ycombinator.com/item?id=35829733"
-    ],
-    [
-      "Htmx Is the Future",
-      "https://quii.dev/HTMX_is_the_Future"
     ]
   ],
   [
