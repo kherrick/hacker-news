@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-05-06, 09:29:05",
-      "https://news.ycombinator.com/item?id=35839643"
+      "2023-05-06, 09:39:44",
+      "https://news.ycombinator.com/item?id=35839711"
     ],
     [
-      "Why People Shit on JavaScript?",
-      "https://textboard.lol/thread.php?id=64553bd977d2f"
+      "Cognitive Decoupling and Banana Phones",
+      "https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-05-05, 22:07:51",
+      "https://news.ycombinator.com/item?id=35835697"
+    ],
+    [
+      "MSI firmware signing keys leaked",
+      "https://github.com/binarly-io/SupplyChainAttacks/blob/main/MSI/ImpactedDevices.md"
+    ]
+  ],
+  [
+    [
       "2023-05-05, 19:33:23",
       "https://news.ycombinator.com/item?id=35834106"
     ],
@@ -287,16 +297,6 @@
     [
       "An Internet Canvas",
       "https://notes.mmm.page/paper"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 22:42:13",
-      "https://news.ycombinator.com/item?id=35795177"
-    ],
-    [
-      "Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes",
-      "https://www.macarthur.me/posts/maps-for-dom-nodes"
     ]
   ]
 ]
