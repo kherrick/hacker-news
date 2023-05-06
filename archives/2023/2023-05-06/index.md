@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 18:10:36](https://news.ycombinator.com/item?id=35843831) - [Politics and the English Language by George Orwell](https://gutenberg.net.au/ebooks02/0200151h.html)
+* [2023-05-06, 18:04:16](https://news.ycombinator.com/item?id=35843775) - [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
+* [2023-05-06, 17:39:14](https://news.ycombinator.com/item?id=35843566) - [Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security](https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/)
 * [2023-05-06, 17:13:02](https://news.ycombinator.com/item?id=35843325) - [Discord’s username change is causing discord](https://www.theverge.com/2023/5/6/23711332/discord-username-changes-community-backlash-handles)
 * [2023-05-06, 17:00:22](https://news.ycombinator.com/item?id=35843196) - [Jerry (YC S17) Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
 * [2023-05-06, 15:27:24](https://news.ycombinator.com/item?id=35842273) - [Ukraine downs Russian hypersonic missile with US Patriot](https://apnews.com/article/russia-ukraine-war-patriot-kinzhal-6b59af8e60853b4d6d16dd8d607768be)
