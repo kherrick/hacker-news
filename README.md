@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-06, 02:48:32](https://news.ycombinator.com/item?id=35837485) - [Shopify to Lay Off 20% of Its Workforce](https://www.wsj.com/articles/flexport-buys-shopify-logistics-operations-sets-up-rivalry-with-amazon-15a9f5bc)
 * [2023-05-06, 01:07:44](https://news.ycombinator.com/item?id=35836976) - [Shap-e – Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 * [2023-05-06, 01:00:08](https://news.ycombinator.com/item?id=35836933) - [Generally Intelligent (YC S17) Is Hiring Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=35836933)
 * [2023-05-06, 00:43:02](https://news.ycombinator.com/item?id=35836837) - [TikTok tracked users who watched gay content, prompting employee complaints](https://www.wsj.com/articles/tiktok-tracked-users-who-watched-gay-content-prompting-employee-complaints-5966a5f5)
@@ -9,7 +10,6 @@
 * [2023-05-05, 23:29:11](https://news.ycombinator.com/item?id=35836411) - [Releasing 3B and 7B RedPajama](https://www.together.xyz/blog/redpajama-models-v1)
 * [2023-05-05, 22:57:25](https://news.ycombinator.com/item?id=35836115) - [A Detailed Look Into The Making of Tron Legacy VFX](https://gmunk.com/TRON-Legacy)
 * [2023-05-05, 22:40:23](https://news.ycombinator.com/item?id=35835971) - [Show HN: Avoiding Imgur Link Rot](https://haasie.com)
-* [2023-05-05, 20:43:37](https://news.ycombinator.com/item?id=35834918) - [At Musk’s brain-chip startup, animal-testing panel is rife with conflicts](https://www.reuters.com/technology/musks-brain-chip-startup-animal-testing-panel-is-rife-with-potential-conflicts-2023-05-04/)
 * [2023-05-05, 20:10:29](https://news.ycombinator.com/item?id=35834535) - [Death of the Twin Gynaecologists: A patient&#x27;s notes (1975)](https://www.vulture.com/article/twin-gynecologists-stewart-marcus-cyril-marcus-dead-ringers-inspiration.html)
 * [2023-05-05, 19:33:23](https://news.ycombinator.com/item?id=35834106) - [Bluesky&#x27;s AT Protocol - Federation Architecture Overview](https://blueskyweb.xyz/blog/5-5-2023-federation-architecture)
 * [2023-05-05, 19:28:04](https://news.ycombinator.com/item?id=35834037) - [Monoliths Are Not Dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
