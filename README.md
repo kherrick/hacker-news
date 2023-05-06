@@ -18,7 +18,6 @@
 * [2023-05-06, 00:14:07](https://news.ycombinator.com/item?id=35836679) - [Show HN: UnionX – GPT4-powered Copilot for Work with Jupyter-style notebooks](https://www.unionx.io/)
 * [2023-05-05, 23:48:48](https://news.ycombinator.com/item?id=35836541) - [When “free forever” means “free for the next 4 months”](https://blog.zulip.com/2023/05/04/when-free-forever-is-4-months/)
 * [2023-05-05, 23:29:11](https://news.ycombinator.com/item?id=35836411) - [Releasing 3B and 7B RedPajama](https://www.together.xyz/blog/redpajama-models-v1)
-* [2023-05-05, 22:57:25](https://news.ycombinator.com/item?id=35836115) - [A Detailed Look Into The Making of Tron Legacy VFX](https://gmunk.com/TRON-Legacy)
 * [2023-05-05, 22:40:23](https://news.ycombinator.com/item?id=35835971) - [Show HN: Avoiding Imgur Link Rot](https://haasie.com)
 * [2023-05-05, 22:07:51](https://news.ycombinator.com/item?id=35835697) - [MSI firmware signing keys leaked](https://github.com/binarly-io/SupplyChainAttacks/blob/main/MSI/ImpactedDevices.md)
 * [2023-05-05, 19:33:23](https://news.ycombinator.com/item?id=35834106) - [Bluesky&#x27;s AT Protocol - Federation Architecture Overview](https://blueskyweb.xyz/blog/5-5-2023-federation-architecture)
@@ -28,6 +27,7 @@
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
 * [2023-05-04, 13:10:36](https://news.ycombinator.com/item?id=35814707) - [Waymo One doubles service area in Phoenix, continues growing in SF](https://blog.waymo.com/2023/05/waymo-one-doubles-service-area-in.html)
 * [2023-05-04, 11:51:02](https://news.ycombinator.com/item?id=35813950) - [A Linux kernel without struct buffer_head](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/)
+* [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-04, 09:25:10](https://news.ycombinator.com/item?id=35813010) - [A mansion hidden directly under the Bay Bridge](https://www.sfgate.com/obscuresf/article/nimitz-mansion-hidden-under-bay-bridge-17999245.php)
 * [2023-05-03, 19:00:06](https://news.ycombinator.com/item?id=35806306) - [An Internet Canvas](https://notes.mmm.page/paper)
 
