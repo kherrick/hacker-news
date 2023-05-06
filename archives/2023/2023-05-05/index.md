@@ -59,6 +59,7 @@
 * [2023-05-05, 11:54:47](https://news.ycombinator.com/item?id=35828091) - [Show HN: Remove sponsored content in YouTube videos](https://butter.sonnet.io)
 * [2023-05-05, 11:53:13](https://news.ycombinator.com/item?id=35828075) - [Mischievous NPM Publications](https://blog.phylum.io/phylum-discovers-mischievous-npm-publications/)
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
+* [2023-05-05, 11:44:03](https://news.ycombinator.com/item?id=35827994) - [Motorola’s 1990s Corvette EV Project](https://www.thedrive.com/features/the-untold-story-of-motorolas-secret-1990s-corvette-ev-project-who-killed-the-electric-corvette)
 * [2023-05-05, 11:41:32](https://news.ycombinator.com/item?id=35827974) - [Squad Solar City Car](https://www.squadmobility.com/)
 * [2023-05-05, 11:40:07](https://news.ycombinator.com/item?id=35827952) - [Show HN: Make domain verification as easy as verifying an email or phone number](https://www.domainverification.org)
 * [2023-05-05, 11:24:04](https://news.ycombinator.com/item?id=35827831) - [Mobile phone calls linked with increased risk of high blood pressure](https://www.escardio.org/The-ESC/Press-Office/Press-releases/mobile-phone-calls-linked-with-increased-risk-of-high-blood-pressure)
