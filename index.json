@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-05-05, 23:29:11",
-      "https://news.ycombinator.com/item?id=35836411"
-    ],
-    [
-      "Releasing 3B and 7B RedPajama",
-      "https://www.together.xyz/blog/redpajama-models-v1"
-    ]
-  ],
-  [
-    [
       "2023-05-05, 22:57:25",
       "https://news.ycombinator.com/item?id=35836115"
     ],
@@ -257,6 +247,16 @@
     [
       "Build your own private WireGuard VPN with PiVPN",
       "https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn"
+    ]
+  ],
+  [
+    [
+      "2023-05-05, 10:17:39",
+      "https://news.ycombinator.com/item?id=35827327"
+    ],
+    [
+      "Monkey Patching in JavaScript (2016)",
+      "https://www.audero.it/blog/2016/12/05/monkey-patching-javascript/"
     ]
   ],
   [
