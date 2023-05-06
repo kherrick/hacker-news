@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 21:28:49](https://news.ycombinator.com/item?id=35845504) - [I downloaded all 1,680,399 posts on Bluesky](https://worthdoingbadly.com/bsky/)
+* [2023-05-06, 20:40:11](https://news.ycombinator.com/item?id=35845188) - [Sony Playstation 2 Development Kit](https://www.retroreversing.com/playstation-2-development-hardware)
 * [2023-05-06, 19:50:20](https://news.ycombinator.com/item?id=35844796) - [The aesthetic usability effect &#x2F; paradox](https://en.wikipedia.org/wiki/Aesthetic%E2%80%93usability_effect)
 * [2023-05-06, 19:49:18](https://news.ycombinator.com/item?id=35844789) - [Nvidia&#x27;s Crazy New Neural Engine Is Redefining Realism in Graphics](https://www.youtube.com/watch?v=RTWbCuDhC3c)
 * [2023-05-06, 18:36:39](https://news.ycombinator.com/item?id=35844080) - [If a PR Says “Artificial Intelligence,” There’s a Good Chance It’s Meaningless](https://slate.com/technology/2023/05/artificial-intelligence-hype-ibm-ftc-twitter-threadbois.html)
@@ -49,6 +51,7 @@
 * [2023-05-06, 05:08:40](https://news.ycombinator.com/item?id=35838222) - [Life After Language](https://www.ribbonfarm.com/2023/05/04/life-after-language/)
 * [2023-05-06, 04:57:17](https://news.ycombinator.com/item?id=35838180) - [Wikipedia users edits over 90k uses of “comprised of”](https://en.wikipedia.org/wiki/User:Giraffedata/comprised_of)
 * [2023-05-06, 04:48:44](https://news.ycombinator.com/item?id=35838126) - [Airbnb’s CEO spent 6 months living in his rentals and found the core problem](https://finance.yahoo.com/news/airbnb-ceo-spent-6-months-135043896.html)
+* [2023-05-06, 04:42:46](https://news.ycombinator.com/item?id=35838086) - [Modern Scottish, Welsh and Northern Irish people found to have Pictish ancestry](https://phys.org/news/2023-04-modern-day-scottish-welsh-northern-irish.html)
 * [2023-05-06, 03:40:37](https://news.ycombinator.com/item?id=35837750) - [Unix Koans](https://prirai.github.io/books/unix-koans.html)
 * [2023-05-06, 03:13:43](https://news.ycombinator.com/item?id=35837606) - [Vaonis Hyperia: $45k digital telescope](https://vaonis.com/hyperia/en/)
 * [2023-05-06, 02:48:32](https://news.ycombinator.com/item?id=35837485) - [Shopify to Lay Off 20% of Its Workforce](https://www.wsj.com/articles/flexport-buys-shopify-logistics-operations-sets-up-rivalry-with-amazon-15a9f5bc)
