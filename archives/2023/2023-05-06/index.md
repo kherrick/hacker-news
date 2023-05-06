@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 09:39:44](https://news.ycombinator.com/item?id=35839711) - [Cognitive Decoupling and Banana Phones](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
 * [2023-05-06, 09:29:05](https://news.ycombinator.com/item?id=35839643) - [Why People Shit on JavaScript?](https://textboard.lol/thread.php?id=64553bd977d2f)
 * [2023-05-06, 09:01:14](https://news.ycombinator.com/item?id=35839536) - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
 * [2023-05-06, 08:50:39](https://news.ycombinator.com/item?id=35839470) - [Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)

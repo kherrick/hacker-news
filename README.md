@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-06, 09:29:05](https://news.ycombinator.com/item?id=35839643) - [Why People Shit on JavaScript?](https://textboard.lol/thread.php?id=64553bd977d2f)
+* [2023-05-06, 09:39:44](https://news.ycombinator.com/item?id=35839711) - [Cognitive Decoupling and Banana Phones](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
 * [2023-05-06, 09:01:14](https://news.ycombinator.com/item?id=35839536) - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
 * [2023-05-06, 08:50:39](https://news.ycombinator.com/item?id=35839470) - [Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)
 * [2023-05-06, 06:44:17](https://news.ycombinator.com/item?id=35838751) - [Sailing Boat Rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
@@ -19,6 +19,7 @@
 * [2023-05-05, 23:29:11](https://news.ycombinator.com/item?id=35836411) - [Releasing 3B and 7B RedPajama](https://www.together.xyz/blog/redpajama-models-v1)
 * [2023-05-05, 22:57:25](https://news.ycombinator.com/item?id=35836115) - [A Detailed Look Into The Making of Tron Legacy VFX](https://gmunk.com/TRON-Legacy)
 * [2023-05-05, 22:40:23](https://news.ycombinator.com/item?id=35835971) - [Show HN: Avoiding Imgur Link Rot](https://haasie.com)
+* [2023-05-05, 22:07:51](https://news.ycombinator.com/item?id=35835697) - [MSI firmware signing keys leaked](https://github.com/binarly-io/SupplyChainAttacks/blob/main/MSI/ImpactedDevices.md)
 * [2023-05-05, 19:33:23](https://news.ycombinator.com/item?id=35834106) - [Bluesky&#x27;s AT Protocol - Federation Architecture Overview](https://blueskyweb.xyz/blog/5-5-2023-federation-architecture)
 * [2023-05-05, 19:28:04](https://news.ycombinator.com/item?id=35834037) - [Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
 * [2023-05-05, 17:58:53](https://news.ycombinator.com/item?id=35832876) - [Pioneer – An Open Source space adventure game set in our galaxy](https://pioneerspacesim.net)
@@ -29,7 +30,6 @@
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-04, 09:25:10](https://news.ycombinator.com/item?id=35813010) - [A mansion hidden directly under the Bay Bridge](https://www.sfgate.com/obscuresf/article/nimitz-mansion-hidden-under-bay-bridge-17999245.php)
 * [2023-05-03, 19:00:06](https://news.ycombinator.com/item?id=35806306) - [An Internet Canvas](https://notes.mmm.page/paper)
-* [2023-05-02, 22:42:13](https://news.ycombinator.com/item?id=35795177) - [Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://www.macarthur.me/posts/maps-for-dom-nodes)
 
 ## [Archives](archives/index.md)
 
