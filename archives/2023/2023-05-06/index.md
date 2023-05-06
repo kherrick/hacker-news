@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 19:50:20](https://news.ycombinator.com/item?id=35844796) - [The aesthetic usability effect &#x2F; paradox](https://en.wikipedia.org/wiki/Aesthetic%E2%80%93usability_effect)
 * [2023-05-06, 19:49:18](https://news.ycombinator.com/item?id=35844789) - [Nvidia&#x27;s Crazy New Neural Engine Is Redefining Realism in Graphics](https://www.youtube.com/watch?v=RTWbCuDhC3c)
 * [2023-05-06, 18:36:39](https://news.ycombinator.com/item?id=35844080) - [If a PR Says “Artificial Intelligence,” There’s a Good Chance It’s Meaningless](https://slate.com/technology/2023/05/artificial-intelligence-hype-ibm-ftc-twitter-threadbois.html)
 * [2023-05-06, 18:10:36](https://news.ycombinator.com/item?id=35843831) - [Politics and the English Language by George Orwell](https://gutenberg.net.au/ebooks02/0200151h.html)
