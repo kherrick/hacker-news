@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-05-06, 11:41:03",
-      "https://news.ycombinator.com/item?id=35840330"
-    ],
-    [
-      "Let&#x27;s (not) share our VR headsets",
-      "https://shkspr.mobi/blog/2023/05/lets-not-share-our-vr-headsets/"
-    ]
-  ],
-  [
-    [
       "2023-05-06, 11:20:39",
       "https://news.ycombinator.com/item?id=35840224"
     ],
@@ -191,12 +181,12 @@
   ],
   [
     [
-      "2023-05-05, 22:57:25",
-      "https://news.ycombinator.com/item?id=35836115"
+      "2023-05-05, 23:29:11",
+      "https://news.ycombinator.com/item?id=35836411"
     ],
     [
-      "A Detailed Look Into The Making of Tron Legacy VFX",
-      "https://gmunk.com/TRON-Legacy"
+      "Releasing 3B and 7B RedPajama",
+      "https://www.together.xyz/blog/redpajama-models-v1"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Waymo One doubles service area in Phoenix, continues growing in SF",
       "https://blog.waymo.com/2023/05/waymo-one-doubles-service-area-in.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-04, 11:51:02",
+      "https://news.ycombinator.com/item?id=35813950"
+    ],
+    [
+      "A Linux kernel without struct buffer_head",
+      "https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/"
     ]
   ],
   [
