@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-05-06, 04:48:44",
-      "https://news.ycombinator.com/item?id=35838126"
-    ],
-    [
-      "Airbnb’s CEO spent 6 months living in his rentals and found the core problem",
-      "https://finance.yahoo.com/news/airbnb-ceo-spent-6-months-135043896.html"
-    ]
-  ],
-  [
-    [
       "2023-05-06, 03:40:37",
       "https://news.ycombinator.com/item?id=35837750"
     ],
@@ -61,16 +51,6 @@
   ],
   [
     [
-      "2023-05-06, 02:17:01",
-      "https://news.ycombinator.com/item?id=35837330"
-    ],
-    [
-      "A cryptocurrency company had a $65M bill, per Datadog’s Q1 earnings call",
-      "https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1"
-    ]
-  ],
-  [
-    [
       "2023-05-06, 01:07:44",
       "https://news.ycombinator.com/item?id=35836976"
     ],
@@ -87,6 +67,16 @@
     [
       "Generally Intelligent (YC S17) Is Hiring Senior Software Engineer (Remote)",
       "https://news.ycombinator.com/item?id=35836933"
+    ]
+  ],
+  [
+    [
+      "2023-05-06, 00:15:21",
+      "https://news.ycombinator.com/item?id=35836682"
+    ],
+    [
+      "JPL Horizons Sending Too Many Emails",
+      "https://astronomy.stackexchange.com/questions/53617/jpl-horizons-sending-too-many-emails"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Farewell to the Era of Cheap EC2 Spot Instances",
       "https://pauley.me/post/2023/spot-price-trends/"
+    ]
+  ],
+  [
+    [
+      "2023-05-02, 22:42:13",
+      "https://news.ycombinator.com/item?id=35795177"
+    ],
+    [
+      "Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes",
+      "https://www.macarthur.me/posts/maps-for-dom-nodes"
     ]
   ]
 ]
