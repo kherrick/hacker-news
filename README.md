@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-06, 13:40:33](https://news.ycombinator.com/item?id=35841271) - [How the ISS will end its life in orbit](https://www.bbc.com/future/article/20230502-a-fiery-end-how-the-iss-will-end-its-life-in-orbit)
+* [2023-05-06, 13:40:19](https://news.ycombinator.com/item?id=35841267) - [America Forgot About IBM Watson. Is ChatGPT Next?](https://www.theatlantic.com/technology/archive/2023/05/ibm-watson-irrelevance-chatgpt-generative-ai-race/673965/)
 * [2023-05-06, 12:07:16](https://news.ycombinator.com/item?id=35840530) - [Helsinki University makes Parkinson&#x27;s disease breakthrough](https://yle.fi/a/74-20030498)
 * [2023-05-06, 12:02:36](https://news.ycombinator.com/item?id=35840485) - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=35840485)
 * [2023-05-06, 11:20:39](https://news.ycombinator.com/item?id=35840224) - [Linearly interpolating pixels that are in a gamma encoded color space](https://twitter.com/ID_AA_Carmack/status/1654528504724062217)
@@ -20,10 +22,8 @@
 * [2023-05-06, 00:14:07](https://news.ycombinator.com/item?id=35836679) - [Show HN: UnionX – GPT4-powered Copilot for Work with Jupyter-style notebooks](https://www.unionx.io/)
 * [2023-05-05, 23:48:48](https://news.ycombinator.com/item?id=35836541) - [When “free forever” means “free for the next 4 months”](https://blog.zulip.com/2023/05/04/when-free-forever-is-4-months/)
 * [2023-05-05, 23:29:11](https://news.ycombinator.com/item?id=35836411) - [Releasing 3B and 7B RedPajama](https://www.together.xyz/blog/redpajama-models-v1)
-* [2023-05-05, 22:57:25](https://news.ycombinator.com/item?id=35836115) - [A Detailed Look Into The Making of Tron Legacy VFX](https://gmunk.com/TRON-Legacy)
 * [2023-05-05, 19:28:04](https://news.ycombinator.com/item?id=35834037) - [Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
-* [2023-05-05, 14:32:19](https://news.ycombinator.com/item?id=35829733) - [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
 * [2023-05-05, 10:17:39](https://news.ycombinator.com/item?id=35827327) - [Monkey Patching in JavaScript (2016)](https://www.audero.it/blog/2016/12/05/monkey-patching-javascript/)
 * [2023-05-04, 13:10:36](https://news.ycombinator.com/item?id=35814707) - [Waymo One doubles service area in Phoenix, continues growing in SF](https://blog.waymo.com/2023/05/waymo-one-doubles-service-area-in.html)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 13:40:33](https://news.ycombinator.com/item?id=35841271) - [How the ISS will end its life in orbit](https://www.bbc.com/future/article/20230502-a-fiery-end-how-the-iss-will-end-its-life-in-orbit)
+* [2023-05-06, 13:40:19](https://news.ycombinator.com/item?id=35841267) - [America Forgot About IBM Watson. Is ChatGPT Next?](https://www.theatlantic.com/technology/archive/2023/05/ibm-watson-irrelevance-chatgpt-generative-ai-race/673965/)
 * [2023-05-06, 12:07:16](https://news.ycombinator.com/item?id=35840530) - [Helsinki University makes Parkinson&#x27;s disease breakthrough](https://yle.fi/a/74-20030498)
 * [2023-05-06, 12:02:36](https://news.ycombinator.com/item?id=35840485) - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=35840485)
 * [2023-05-06, 11:41:03](https://news.ycombinator.com/item?id=35840330) - [Let&#x27;s (not) share our VR headsets](https://shkspr.mobi/blog/2023/05/lets-not-share-our-vr-headsets/)
